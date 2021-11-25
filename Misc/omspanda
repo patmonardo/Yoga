@@ -1,0 +1,131 @@
+dharma = samapatti or pratipatti
+om = samapatti and pratipatti
+jna = prajna or jnana
+dhi = prajna and jnana
+prajna = vairagya or aishvarya
+samapatti = vairagya and aishvarya
+jnana = pratibha or samadhi
+pratipatti = pratibha and samadhi
+
+YOGA:   DHARMA
+RED:    OM
+BLACK:  DHI
+WHITE:  JNA
+
+RED BLACK RED WHITE RED
+
+DHARMA
+VI
+PRATIPATTI
+VI
+SAMAPATTI
+VI
+DHARMA
+
+OM
+SAN
+PRATIPATTI
+SAN
+SAMAPATTI
+SAN
+OM
+
+JNA
+VI
+JNANA
+VI
+PRAJNA
+VI
+JNA
+
+DHI
+SAN
+JNANA
+SAN
+PRAJNA
+SAN
+DHI
+
+PRAJNA
+VI
+vairagya
+VI
+aishvarya
+VI
+PRAJNA
+
+SAMAPATTI
+SAN
+vairagya
+SAN
+aishvarya
+SAN
+SAMAPATTI
+
+JNANA
+VI
+pratibha
+VI
+samadhi
+VI
+JNANA
+
+PRATIPATTI
+SAN
+pratibha
+SAN
+samadhi
+SAN
+PRATIPATTI
+
+TRACE:
+
+YOGA: DHARMA: VI
+DHARMA
+PRATIPATTI
+pratibha
+PRATIPATTI
+samadhi
+PRATIPATTI
+SAMAPATTI
+vairagya
+SAMAPATTI
+aishvarya
+SAMAPATTI
+DHARMA
+
+RED: OM: SAN
+OM
+PRATIPATTI
+pratibha
+PRATIPATTI
+samadhi
+PRATIPATTI
+SAMAPATTI
+vairagya
+SAMAPATTI
+aishvarya
+SAMAPATTI
+OM
+
+BLACK: DHI: SAN
+DHI
+JNANA
+pratibha
+JNANA
+DHI
+PRAJNA
+vairagya
+PRAJNA
+DHI
+
+WHITE: JNA: VI
+JNA
+JNANA
+samadhi
+JNANA
+JNA
+PRAJNA
+aishvarya
+PRAJNA
+JNA
