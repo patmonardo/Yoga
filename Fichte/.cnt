@@ -1,0 +1,8 @@
+wc -l \
+prajna-fichte-quality.tex \
+prajna-fichte-quantity.tex \
+prajna-fichte-measure.tex \
+dharma-fichte-reflection.tex \
+dharma-fichte-appearance.tex \
+dharma-fichte-actuality.tex \
+jnana-fichte-viveka.tex
