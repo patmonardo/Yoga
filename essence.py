@@ -2,8 +2,8 @@ essence = {
 "Essence": {
   "children": [
     "Essence as Reflection Within",
-    "The essentialities or the determinations of reflection",
-    "Ground"
+    "Appearance",
+    "Actuality"
   ]
 }
 }
@@ -156,3 +156,5 @@ actuality = {
   ]
 }
 }
+
+actuality
