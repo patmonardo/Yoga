@@ -1,3 +1,30 @@
+class TreeNode:
+    def __init__(self, name):
+        self.name = name
+        self.children = []
+
+    def add_child(self, child_node):
+        self.children.append(child_node)
+
+class TriadTree:
+    def __init__(self, triad_structure):
+        self.root = self._build_tree(triad_structure)
+
+    def _build_tree(self, node_structure):
+        node = TreeNode(node_structure["name"])
+        if "children" in node_structure:
+            for child_name in node_structure["children"]:
+                child_node = self._build_tree(child_name)
+                node.add_child(child_node)
+        return node
+
+    def traverse(self, node=None, depth=0):
+        if node is None:
+            node = self.root
+        print("  " * depth + node.name)
+        for child in node.children:
+            self.traverse(child, depth + 1)
+
 essence = {
 "Essence": {
   "children": [
@@ -157,4 +184,9 @@ actuality = {
 }
 }
 
-actuality
+# Define the triad structure dictionary
+triad_structure = essence;
+
+# Create and traverse the triad tree
+tree = TriadTree(triad_structure)
+tree.traverse()
