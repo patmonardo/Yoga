@@ -104,5 +104,5 @@ sklearn/metrics/_pairwise_distances_reduction/_radius_neighbors.pyx
 jupyterlite_contents
 
 .venv
-LLM
-LM
+NLP/LM
+NLP/LLM
