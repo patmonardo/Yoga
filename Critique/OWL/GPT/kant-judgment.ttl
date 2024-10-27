@@ -1,0 +1,397 @@
+@prefix : <http://example.org/kant#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+# Classes
+:Judgment a owl:Class ;
+    rdfs:label "Judgment" ;
+    rdfs:comment "A judgment is the representation of the unity of the consciousness of various representations, or the representation of their relation insofar as they constitute a concept." .
+
+:UnityOfConsciousness a owl:Class ;
+    rdfs:label "Unity of Consciousness" ;
+    rdfs:comment "The idea that a judgment represents a form of unity within consciousness." .
+
+:CognitiveSynthesis a owl:Class ;
+    rdfs:label "Cognitive Synthesis" ;
+    rdfs:comment "The process of forming a judgment involves an active synthesis whereby the individual representations are integrated to express a unified concept." .
+
+:RepresentationOfRelation a owl:Class ;
+    rdfs:label "Representation of Relation" ;
+    rdfs:comment "A judgment involves the representation of the relations among various representations, contributing to the formation of a concept." .
+
+:Concept a owl:Class ;
+    rdfs:label "Concept" ;
+    rdfs:comment "Concepts are constituted through the act of judgment, delineating boundaries and content." .
+
+:MatterOfJudgment a owl:Class ;
+    rdfs:label "Matter of Judgment" ;
+    rdfs:comment "The matter of a judgment consists of the given representations that are combined in the unity of consciousness." .
+
+:FormOfJudgment a owl:Class ;
+    rdfs:label "Form of Judgment" ;
+    rdfs:comment "The form of a judgment involves the determination of how various representations are united within a single consciousness." .
+
+:Representation a owl:Class ;
+    rdfs:label "Representation" ;
+    rdfs:comment "A given representation that is part of the matter of a judgment." .
+
+:LogicalForm a owl:Class ;
+    rdfs:label "Logical Form" ;
+    rdfs:comment "The logical form of a judgment, considering its quantity, quality, relation, and modality." .
+
+:Quantity a owl:Class ;
+    rdfs:label "Quantity" ;
+    rdfs:comment "The quantity of a judgment, one of the principal moments of its form." .
+
+:Quality a owl:Class ;
+    rdfs:label "Quality" ;
+    rdfs:comment "The quality of a judgment, one of the principal moments of its form." .
+
+:Relation a owl:Class ;
+    rdfs:label "Relation" ;
+    rdfs:comment "The relation of a judgment, one of the principal moments of its form." .
+
+:Modality a owl:Class ;
+    rdfs:label "Modality" ;
+    rdfs:comment "The modality of a judgment, one of the principal moments of its form." .
+
+:UniversalJudgment a :Quantity ;
+    rdfs:label "Universal Judgment" ;
+    rdfs:comment "A judgment where the predicate applies to all instances of the subject. The entire sphere of the subject concept is included within the sphere of the predicate concept." .
+
+:ParticularJudgment a :Quantity ;
+    rdfs:label "Particular Judgment" ;
+    rdfs:comment "A judgment where the predicate applies to some, but not all, instances of the subject. Only part of the subject concept's sphere falls under the predicate concept's sphere." .
+
+:SingularJudgment a :Quantity ;
+    rdfs:label "Singular Judgment" ;
+    rdfs:comment "A judgment focusing on a specific instance or entity. The subject concept does not have a sphere in the sense of encompassing multiple instances and is considered under the sphere of the predicate." .
+
+:AffirmativeJudgment a :Quality ;
+    rdfs:label "Affirmative Judgment" ;
+    rdfs:comment "A judgment where the predicate is affirmed or included within the subject, indicating that the subject possesses the attribute or property denoted by the predicate." .
+
+:NegativeJudgment a :Quality ;
+    rdfs:label "Negative Judgment" ;
+    rdfs:comment "A judgment where the predicate is excluded from the subject, asserting that the subject does not possess the property or attribute signified by the predicate." .
+
+:InfiniteJudgment a :Quality ;
+    rdfs:label "Infinite Judgment" ;
+    rdfs:comment "A judgment where the subject is posited within the sphere of a concept that is itself outside the sphere of another concept." .
+
+:CategoricalJudgment a :Relation ;
+    rdfs:label "Categorical Judgment" ;
+    rdfs:comment "A judgment where subject and predicate are directly related, with the predicate being affirmed or denied of the subject." .
+
+:HypotheticalJudgment a :Relation ;
+    rdfs:label "Hypothetical Judgment" ;
+    rdfs:comment "A judgment where the matter consists of two interrelated judgments: the antecedent, which presents the condition or ground, and the consequent, which presents the outcome or consequence." .
+
+:DisjunctiveJudgment a :Relation ;
+    rdfs:label "Disjunctive Judgment" ;
+    rdfs:comment "A judgment where the parts or alternatives within the sphere of a concept are understood to mutually determine each other toward forming a complete whole." .
+
+:ProblematicJudgment a :Modality ;
+    rdfs:label "Problematic Judgment" ;
+    rdfs:comment "A judgment that expresses the mere possibility of the proposition being true." .
+
+:AssertoricJudgment a :Modality ;
+    rdfs:label "Assertoric Judgment" ;
+    rdfs:comment "A judgment that affirms the actuality of the proposition." .
+
+:ApodicticJudgment a :Modality ;
+    rdfs:label "Apodictic Judgment" ;
+    rdfs:comment "A judgment that asserts the necessity of the proposition." .
+
+:Complement a owl:Class ;
+    rdfs:label "Complement" ;
+    rdfs:comment "An alternative or part that contributes to the integrity of the whole concept in a disjunctive judgment." .
+
+# Properties
+:hasUnityOfConsciousness a owl:ObjectProperty ;
+    rdfs:domain :Judgment ;
+    rdfs:range :UnityOfConsciousness ;
+    rdfs:label "has Unity of Consciousness" ;
+    rdfs:comment "Relates a judgment to its unity of consciousness." .
+
+:hasCognitiveSynthesis a owl:ObjectProperty ;
+    rdfs:domain :Judgment ;
+    rdfs:range :CognitiveSynthesis ;
+    rdfs:label "has Cognitive Synthesis" ;
+    rdfs:comment "Relates a judgment to its cognitive synthesis process." .
+
+:hasRepresentationOfRelation a owl:ObjectProperty ;
+    rdfs:domain :Judgment ;
+    rdfs:range :RepresentationOfRelation ;
+    rdfs:label "has Representation of Relation" ;
+    rdfs:comment "Relates a judgment to the representation of relations among representations." .
+
+:constitutesConcept a owl:ObjectProperty ;
+    rdfs:domain :Judgment ;
+    rdfs:range :Concept ;
+    rdfs:label "constitutes Concept" ;
+    rdfs:comment "Relates a judgment to the concept it constitutes." .
+
+:hasMatter a owl:ObjectProperty ;
+    rdfs:domain :Judgment ;
+    rdfs:range :MatterOfJudgment ;
+    rdfs:label "has Matter" ;
+    rdfs:comment "Relates a judgment to its matter, the given representations combined in the unity of consciousness." .
+
+:hasForm a owl:ObjectProperty ;
+    rdfs:domain :Judgment ;
+    rdfs:range :FormOfJudgment ;
+    rdfs:label "has Form" ;
+    rdfs:comment "Relates a judgment to its form, the determination of how representations are united in consciousness." .
+
+:containsRepresentation a owl:ObjectProperty ;
+    rdfs:domain :MatterOfJudgment ;
+    rdfs:range :Representation ;
+    rdfs:label "contains Representation" ;
+    rdfs:comment "Relates the matter of a judgment to the given representations it consists of." .
+
+:determinesUnity a owl:ObjectProperty ;
+    rdfs:domain :FormOfJudgment ;
+    rdfs:range :UnityOfConsciousness ;
+    rdfs:label "determines Unity" ;
+    rdfs:comment "Relates the form of a judgment to the determination of unity of consciousness." .
+
+:hasLogicalForm a owl:ObjectProperty ;
+    rdfs:domain :Judgment ;
+    rdfs:range :LogicalForm ;
+    rdfs:label "has Logical Form" ;
+    rdfs:comment "Relates a judgment to its logical form." .
+
+:hasQuantity a owl:ObjectProperty ;
+    rdfs:domain :LogicalForm ;
+    rdfs:range :Quantity ;
+    rdfs:label "has Quantity" ;
+    rdfs:comment "Relates the logical form of a judgment to its quantity." .
+
+:hasQuality a owl:ObjectProperty ;
+    rdfs:domain :LogicalForm ;
+    rdfs:range :Quality ;
+    rdfs:label "has Quality" ;
+    rdfs:comment "Relates the logical form of a judgment to its quality." .
+
+:hasRelation a owl:ObjectProperty ;
+    rdfs:domain :LogicalForm ;
+    rdfs:range :Relation ;
+    rdfs:label "has Relation" ;
+    rdfs:comment "Relates the logical form of a judgment to its relation." .
+
+:hasModality a owl:ObjectProperty ;
+    rdfs:domain :LogicalForm ;
+    rdfs:range :Modality ;
+    rdfs:label "has Modality" ;
+    rdfs:comment "Relates the logical form of a judgment to its modality." .
+
+:appliesToAllInstances a owl:ObjectProperty ;
+    rdfs:domain :UniversalJudgment ;
+    rdfs:range :Concept ;
+    rdfs:label "applies to all instances of" ;
+    rdfs:comment "Indicates that the predicate applies to all instances of the subject." .
+
+:appliesToSomeInstances a owl:ObjectProperty ;
+    rdfs:domain :ParticularJudgment ;
+    rdfs:range :Concept ;
+    rdfs:label "applies to some instances of" ;
+    rdfs:comment "Indicates that the predicate applies to some instances of the subject." .
+
+:appliesToSpecificInstance a owl:ObjectProperty ;
+    rdfs:domain :SingularJudgment ;
+    rdfs:range :Concept ;
+    rdfs:label "applies to a specific instance of" ;
+    rdfs:comment "Indicates that the predicate applies to a specific instance of the subject." .
+
+:isIncludedIn a owl:ObjectProperty ;
+    rdfs:domain :AffirmativeJudgment ;
+    rdfs:range :Concept ;
+    rdfs:label "is included in" ;
+    rdfs:comment "Indicates that the predicate is included within the subject." .
+
+:isExcludedFrom a owl:ObjectProperty ;
+    rdfs:domain :NegativeJudgment ;
+    rdfs:range :Concept ;
+    rdfs:label "is excluded from" ;
+    rdfs:comment "Indicates that the predicate is excluded from the subject." .
+
+:isWithinConceptOutsideOf a owl:ObjectProperty ;
+    rdfs:domain :InfiniteJudgment ;
+    rdfs:range :Concept ;
+    rdfs:label "is within concept outside of" ;
+    rdfs:comment "Indicates that the subject is within the sphere of a concept that is itself outside the sphere of another concept." .
+
+:hasSubject a owl:ObjectProperty ;
+    rdfs:domain :CategoricalJudgment ;
+    rdfs:range :Subject ;
+    rdfs:label "has Subject" ;
+    rdfs:comment "Relates a categorical judgment to its subject." .
+
+:hasPredicate a owl:ObjectProperty ;
+    rdfs:domain :CategoricalJudgment ;
+    rdfs:range :Predicate ;
+    rdfs:label "has Predicate" ;
+    rdfs:comment "Relates a categorical judgment to its predicate." .
+
+:hasCopula a owl:ObjectProperty ;
+    rdfs:domain :CategoricalJudgment ;
+    rdfs:range :Copula ;
+    rdfs:label "has Copula" ;
+    rdfs:comment "Relates a categorical judgment to its copula, which links the subject and predicate." .
+
+:hasAntecedent a owl:ObjectProperty ;
+    rdfs:domain :HypotheticalJudgment ;
+    rdfs:range :Antecedent ;
+    rdfs:label "has Antecedent" ;
+    rdfs:comment "Relates a hypothetical judgment to its antecedent." .
+
+:hasConsequent a owl:ObjectProperty ;
+    rdfs:domain :HypotheticalJudgment ;
+    rdfs:range :Consequent ;
+    rdfs:label "has Consequent" ;
+    rdfs:comment "Relates a hypothetical judgment to its consequent." .
+
+:hasConsequentia a owl:ObjectProperty ;
+    rdfs:domain :HypotheticalJudgment ;
+    rdfs:range :Consequentia ;
+    rdfs:label "has Consequentia" ;
+    rdfs:comment "Relates a hypothetical judgment to its consequentia, which represents the connection between the antecedent and consequent." .
+
+:hasConsequence a owl:ObjectProperty ;
+    rdfs:domain :HypotheticalJudgment ;
+    rdfs:range :Representation ;
+    rdfs:label "has Consequence" ;
+    rdfs:comment "Relates a hypothetical judgment to its consequence." .
+
+:hasGround a owl:ObjectProperty ;
+    rdfs:domain :HypotheticalJudgment ;
+    rdfs:range :Representation ;
+    rdfs:label "has Ground" ;
+    rdfs:comment "Relates a hypothetical judgment to its ground." .
+
+:hasModusPonens a owl:ObjectProperty ;
+    rdfs:domain :HypotheticalJudgment ;
+    rdfs:range :ModusPonens ;
+    rdfs:label "has Modus Ponens" ;
+    rdfs:comment "Relates a hypothetical judgment to its modus ponens, the affirming mode of connection." .
+
+:hasModusTollens a owl:ObjectProperty ;
+    rdfs:domain :HypotheticalJudgment ;
+    rdfs:range :ModusTollens ;
+    rdfs:label "has Modus Tollens" ;
+    rdfs:comment "Relates a hypothetical judgment to its modus tollens, the denying mode of connection." .
+
+:hasMember a owl:ObjectProperty ;
+    rdfs:domain :DisjunctiveJudgment ;
+    rdfs:range :Complement ;
+    rdfs:label "has Member" ;
+    rdfs:comment "Relates a disjunctive judgment to its member of the division." .
+
+:hasDividedConcept a owl:ObjectProperty ;
+    rdfs:domain :DisjunctiveJudgment ;
+    rdfs:range :Concept ;
+    rdfs:label "has Divided Concept" ;
+    rdfs:comment "Relates a disjunctive judgment to its divided concept." .
+
+:hasMatterOfDisjunctiveJudgment a owl:ObjectProperty ;
+    rdfs:domain :DisjunctiveJudgment ;
+    rdfs:range :MatterOfJudgment ;
+    rdfs:label "has Matter of Disjunctive Judgment" ;
+    rdfs:comment "Relates a disjunctive judgment to its matter, the several given judgments that are brought together as alternatives within the disjunction." .
+
+:hasFormOfDisjunctiveJudgment a owl:ObjectProperty ;
+    rdfs:domain :DisjunctiveJudgment ;
+    rdfs:range :FormOfJudgment ;
+    rdfs:label "has Form of Disjunctive Judgment" ;
+    rdfs:comment "Relates a disjunctive judgment to its form, the determination of the relation among the various judgments as members of the whole sphere of divided cognition." .
+
+:hasProblematicNature a owl:ObjectProperty ;
+    rdfs:domain :DisjunctiveJudgment ;
+    rdfs:range :ProblematicJudgment ;
+    rdfs:label "has Problematic Nature" ;
+    rdfs:comment "Relates a disjunctive judgment to its problematic nature, where each member is considered a potential truth." .
+
+:hasComplementarity a owl:ObjectProperty ;
+    rdfs:domain :DisjunctiveJudgment ;
+    rdfs:range :Complement ;
+    rdfs:label "has Complementarity" ;
+    rdfs:comment "Relates a disjunctive judgment to its complementary members that form a complete whole." .
+
+# Example Individuals
+:judgment1 a :Judgment ;
+    :hasUnityOfConsciousness :unity1 ;
+    :hasCognitiveSynthesis :synthesis1 ;
+    :hasRepresentationOfRelation :relation1 ;
+    :constitutesConcept :concept1 ;
+    :hasMatter :matter1 ;
+    :hasForm :form1 ;
+    :hasLogicalForm :logicalForm1 .
+
+:unity1 a :UnityOfConsciousness .
+
+:synthesis1 a :CognitiveSynthesis .
+
+:relation1 a :RepresentationOfRelation .
+
+:concept1 a :Concept .
+
+:matter1 a :MatterOfJudgment ;
+    :containsRepresentation :representation1, :representation2 .
+
+:form1 a :FormOfJudgment ;
+    :determinesUnity :unity1 .
+
+:representation1 a :Representation .
+
+:representation2 a :Representation .
+
+:logicalForm1 a :LogicalForm ;
+    :hasQuantity :quantity1 ;
+    :hasQuality :quality1 ;
+    :hasRelation :relation2 ;
+    :hasModality :modality1 .
+
+:quantity1 a :Quantity ;
+    :rdfs:subClassOf :UniversalJudgment .
+
+:quality1 a :Quality ;
+    :rdfs:subClassOf :AffirmativeJudgment .
+
+:relation2 a :Relation ;
+    :rdfs:subClassOf :CategoricalJudgment .
+
+:modality1 a :Modality ;
+    :rdfs:subClassOf :AssertoricJudgment .
+
+:universal a :UniversalJudgment .
+
+:particular a :ParticularJudgment .
+
+:singular a :SingularJudgment .
+
+:affirmative a :AffirmativeJudgment .
+
+:negative a :NegativeJudgment .
+
+:infinite a :InfiniteJudgment .
+
+:categorical a :CategoricalJudgment .
+
+:hypothetical a :HypotheticalJudgment .
+
+:disjunctive a :DisjunctiveJudgment .
+
+:problematic a :ProblematicJudgment .
+
+:assertoric a :AssertoricJudgment .
+
+:apodictic a :ApodicticJudgment .
+
+:modusPonensExample a :ModusPonens ;
+    rdfs:comment "If A (antecedent), then B (consequent). A is true; therefore, B is true." .
+
+:modusTollensExample a :ModusTollens ;
+    rdfs:comment "If A (antecedent), then B (consequent). B is false; therefore, A is false." .

@@ -1,0 +1,13 @@
+We are constructing a Topical Analysis and OWL Schema
+for Hegel's Science of Logic.
+We will create an Ontology for each Chapter.
+Each Chapter consists of a Generic Top-level Idea followed
+by three moments usually listed A., B., C.
+We will create a Thread for each Chapter.
+Each Thread will have five prompts.
+The first prompt will ask for two Artifacts:
+the Analysis and Schema for the Generic Idea of the Chapter
+followed by three prompts for each moment A. , B. , C.
+and then concluding with a Complete OWL Schema
+that combines the prior four Schemas.
+

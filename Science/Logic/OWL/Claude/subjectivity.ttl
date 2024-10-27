@@ -1,0 +1,432 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix : <http://www.example.org/hegel-concept-ontology#> .
+
+# Classes
+:Concept rdf:type owl:Class ;
+    rdfs:label "Concept"@en ;
+    rdfs:comment "The fundamental logical category in Hegel's philosophy, emerging from being and essence."@en .
+
+:Being rdf:type owl:Class ;
+    rdfs:label "Being"@en ;
+    rdfs:comment "The most immediate and abstract category in Hegel's logic."@en .
+
+:Essence rdf:type owl:Class ;
+    rdfs:label "Essence"@en ;
+    rdfs:comment "The category of reflection and mediation, following being in Hegel's logic."@en .
+
+:Substance rdf:type owl:Class ;
+    rdfs:label "Substance"@en ;
+    rdfs:comment "The immediate presupposition of the concept, implicitly containing what the concept makes explicit."@en .
+
+:Universality rdf:type owl:Class ;
+    rdfs:label "Universality"@en ;
+    rdfs:comment "A characteristic of the concept, containing all determinations within itself."@en .
+
+# Object Properties
+:emergesFrom rdf:type owl:ObjectProperty ;
+    rdfs:label "emerges from"@en ;
+    rdfs:comment "Indicates that the subject arises or develops from the object."@en ;
+    rdfs:domain :Concept ;
+    rdfs:range owl:Class .
+
+:hasCharacteristic rdf:type owl:ObjectProperty ;
+    rdfs:label "has characteristic"@en ;
+    rdfs:comment "Denotes that the subject possesses the object as a defining feature."@en ;
+    rdfs:domain :Concept ;
+    rdfs:range owl:Class .
+
+:presupposes rdf:type owl:ObjectProperty ;
+    rdfs:label "presupposes"@en ;
+    rdfs:comment "Expresses that the subject logically assumes or requires the object as a precondition."@en ;
+    rdfs:domain :Concept ;
+    rdfs:range :Substance .
+
+:contains rdf:type owl:ObjectProperty ;
+    rdfs:label "contains"@en ;
+    rdfs:comment "Indicates that the subject includes or encompasses the object within itself."@en ;
+    rdfs:domain :Concept ;
+    rdfs:range owl:Class .
+
+# Data Properties
+:isAbsoluteFoundation rdf:type owl:DatatypeProperty ;
+    rdfs:label "is absolute foundation"@en ;
+    rdfs:comment "Denotes whether the subject serves as an ultimate basis or ground."@en ;
+    rdfs:domain :Concept ;
+    rdfs:range xsd:boolean .
+
+:isMediated rdf:type owl:DatatypeProperty ;
+    rdfs:label "is mediated"@en ;
+    rdfs:comment "Indicates whether the subject involves a process of mediation or indirect relation."@en ;
+    rdfs:domain owl:Thing ;
+    rdfs:range xsd:boolean .
+
+:isConcrete rdf:type owl:DatatypeProperty ;
+    rdfs:label "is concrete"@en ;
+    rdfs:comment "Denotes whether the subject is specific and fully developed rather than abstract."@en ;
+    rdfs:domain owl:Thing ;
+    rdfs:range xsd:boolean .
+
+:isUnconditional rdf:type owl:DatatypeProperty ;
+    rdfs:label "is unconditional"@en ;
+    rdfs:comment "Indicates whether the subject exists or operates without external conditions or limitations."@en ;
+    rdfs:domain owl:Thing ;
+    rdfs:range xsd:boolean .
+
+# Instances
+:concept rdf:type :Concept .
+:being rdf:type :Being .
+:essence rdf:type :Essence .
+:substance rdf:type :Substance .
+:universality rdf:type :Universality .
+
+# Relationships
+:concept :emergesFrom :being, :essence ;
+         :hasCharacteristic :universality ;
+         :presupposes :substance ;
+         :contains :being, :essence .
+
+# Properties
+:concept :isAbsoluteFoundation "true"^^xsd:boolean ;
+         :isMediated "true"^^xsd:boolean ;
+         :isConcrete "true"^^xsd:boolean ;
+         :isUnconditional "true"^^xsd:boolean .
+
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix : <http://www.example.org/hegel-concept-chapter-ontology#> .
+
+# Classes
+:Concept rdf:type owl:Class ;
+    rdfs:label "Concept"@en ;
+    rdfs:comment "The fundamental category in Hegel's logic, representing the unity of being and essence."@en .
+
+:Being rdf:type owl:Class ;
+    rdfs:label "Being"@en ;
+    rdfs:comment "The immediate, undetermined existence in Hegel's logic."@en .
+
+:Essence rdf:type owl:Class ;
+    rdfs:label "Essence"@en ;
+    rdfs:comment "The mediated, reflective category in Hegel's logic."@en .
+
+:Substance rdf:type owl:Class ;
+    rdfs:label "Substance"@en ;
+    rdfs:comment "The underlying reality of which the concept is the truth."@en .
+
+:ConceptualMoment rdf:type owl:Class ;
+    rdfs:label "Conceptual Moment"@en ;
+    rdfs:comment "A fundamental aspect or stage in the development of the concept."@en .
+
+:Understanding rdf:type owl:Class ;
+    rdfs:label "Understanding"@en ;
+    rdfs:comment "The faculty dealing with determinate concepts."@en .
+
+:Reason rdf:type owl:Class ;
+    rdfs:label "Reason"@en ;
+    rdfs:comment "The faculty dealing with the concept as such and its full development."@en .
+
+# Object Properties
+:unifies rdf:type owl:ObjectProperty ;
+    rdfs:label "unifies"@en ;
+    rdfs:comment "Indicates that the subject brings together or combines the objects."@en ;
+    rdfs:domain :Concept ;
+    rdfs:range owl:Class .
+
+:containsMoment rdf:type owl:ObjectProperty ;
+    rdfs:label "contains moment"@en ;
+    rdfs:comment "Denotes that the subject includes the object as one of its fundamental aspects."@en ;
+    rdfs:domain :Concept ;
+    rdfs:range :ConceptualMoment .
+
+:developsThrough rdf:type owl:ObjectProperty ;
+    rdfs:label "develops through"@en ;
+    rdfs:comment "Expresses that the subject evolves or progresses by means of the object."@en ;
+    rdfs:domain :Concept ;
+    rdfs:range owl:Class .
+
+:isAssociatedWith rdf:type owl:ObjectProperty ;
+    rdfs:label "is associated with"@en ;
+    rdfs:comment "Indicates a connection or relationship between the subject and object."@en ;
+    rdfs:domain :Concept ;
+    rdfs:range owl:Class .
+
+# Data Properties
+:isTruthOf rdf:type owl:DatatypeProperty ;
+    rdfs:label "is truth of"@en ;
+    rdfs:comment "Denotes that the subject represents the ultimate reality or essence of the object."@en ;
+    rdfs:domain :Concept ;
+    rdfs:range xsd:string .
+
+:isCharacterizedBy rdf:type owl:DatatypeProperty ;
+    rdfs:label "is characterized by"@en ;
+    rdfs:comment "Indicates the defining features or qualities of the subject."@en ;
+    rdfs:domain owl:Thing ;
+    rdfs:range xsd:string .
+
+:hasDeterminateness rdf:type owl:DatatypeProperty ;
+    rdfs:label "has determinateness"@en ;
+    rdfs:comment "Expresses whether the subject possesses specific, defined qualities."@en ;
+    rdfs:domain owl:Thing ;
+    rdfs:range xsd:boolean .
+
+:isObjective rdf:type owl:DatatypeProperty ;
+    rdfs:label "is objective"@en ;
+    rdfs:comment "Denotes whether the subject has validity independent of subjective perception."@en ;
+    rdfs:domain owl:Thing ;
+    rdfs:range xsd:boolean .
+
+# Instances
+:concept rdf:type :Concept .
+:being rdf:type :Being .
+:essence rdf:type :Essence .
+:substance rdf:type :Substance .
+:understanding rdf:type :Understanding .
+:reason rdf:type :Reason .
+
+:universality rdf:type :ConceptualMoment ;
+    rdfs:label "Universality"@en .
+:particularity rdf:type :ConceptualMoment ;
+    rdfs:label "Particularity"@en .
+:singularity rdf:type :ConceptualMoment ;
+    rdfs:label "Singularity"@en .
+
+# Relationships
+:concept :unifies :being, :essence ;
+         :containsMoment :universality, :particularity, :singularity ;
+         :developsThrough :universality, :particularity, :singularity ;
+         :isAssociatedWith :understanding, :reason .
+
+# Properties
+:concept :isTruthOf "substance"^^xsd:string ;
+         :isCharacterizedBy "freedom, necessity"^^xsd:string ;
+         :hasDeterminateness "true"^^xsd:boolean ;
+         :isObjective "true"^^xsd:boolean .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix : <http://www.example.org/hegel-judgment-ontology#> .
+
+# Classes
+:Judgment rdf:type owl:Class ;
+    rdfs:label "Judgment"@en ;
+    rdfs:comment "The determinateness of the concept posited in the concept itself, representing the second function of the concept."@en .
+
+:Concept rdf:type owl:Class ;
+    rdfs:label "Concept"@en ;
+    rdfs:comment "The fundamental category in Hegel's logic, of which judgment is a function."@en .
+
+:Subject rdf:type owl:Class ;
+    rdfs:label "Subject"@en ;
+    rdfs:comment "One of the self-subsistent terms in a judgment, typically representing the particular or singular."@en .
+
+:Predicate rdf:type owl:Class ;
+    rdfs:label "Predicate"@en ;
+    rdfs:comment "One of the self-subsistent terms in a judgment, typically representing the universal."@en .
+
+:Copula rdf:type owl:Class ;
+    rdfs:label "Copula"@en ;
+    rdfs:comment "The connecting element in a judgment, typically represented by 'is'."@en .
+
+:JudgmentType rdf:type owl:Class ;
+    rdfs:label "Judgment Type"@en ;
+    rdfs:comment "A category of judgment representing a stage in the development of judgment."@en .
+
+# Object Properties
+:contains rdf:type owl:ObjectProperty ;
+    rdfs:label "contains"@en ;
+    rdfs:comment "Indicates that the subject includes or encompasses the object as a component."@en ;
+    rdfs:domain :Judgment ;
+    rdfs:range owl:Class .
+
+:connects rdf:type owl:ObjectProperty ;
+    rdfs:label "connects"@en ;
+    rdfs:comment "Denotes that the subject links or joins the objects together."@en ;
+    rdfs:domain :Copula ;
+    rdfs:range owl:Class .
+
+:developsInto rdf:type owl:ObjectProperty ;
+    rdfs:label "develops into"@en ;
+    rdfs:comment "Expresses that the subject evolves or progresses into the object."@en ;
+    rdfs:domain :JudgmentType ;
+    rdfs:range :JudgmentType .
+
+:isTypeOf rdf:type owl:ObjectProperty ;
+    rdfs:label "is type of"@en ;
+    rdfs:comment "Indicates that the subject is a category or kind of the object."@en ;
+    rdfs:domain :JudgmentType ;
+    rdfs:range :Judgment .
+
+# Data Properties
+:isProgressiveDeterminationOf rdf:type owl:DatatypeProperty ;
+    rdfs:label "is progressive determination of"@en ;
+    rdfs:comment "Denotes that the subject represents an ongoing process of defining or specifying the object."@en ;
+    rdfs:domain :Judgment ;
+    rdfs:range xsd:string .
+
+:hasObjectivity rdf:type owl:DatatypeProperty ;
+    rdfs:label "has objectivity"@en ;
+    rdfs:comment "Indicates the degree to which the subject reflects objective truth rather than subjective combination."@en ;
+    rdfs:domain owl:Thing ;
+    rdfs:range xsd:integer .
+
+:bridgesSubjectivityAndObjectivity rdf:type owl:DatatypeProperty ;
+    rdfs:label "bridges subjectivity and objectivity"@en ;
+    rdfs:comment "Expresses whether the subject connects or reconciles subjective and objective aspects."@en ;
+    rdfs:domain owl:Thing ;
+    rdfs:range xsd:boolean .
+
+# Instances
+:judgment rdf:type :Judgment .
+:concept rdf:type :Concept .
+:subject rdf:type :Subject .
+:predicate rdf:type :Predicate .
+:copula rdf:type :Copula .
+
+:judgmentOfExistence rdf:type :JudgmentType ;
+    rdfs:label "Judgment of Existence"@en .
+:judgmentOfReflection rdf:type :JudgmentType ;
+    rdfs:label "Judgment of Reflection"@en .
+:judgmentOfNecessity rdf:type :JudgmentType ;
+    rdfs:label "Judgment of Necessity"@en .
+:judgmentOfConcept rdf:type :JudgmentType ;
+    rdfs:label "Judgment of the Concept"@en .
+
+# Relationships
+:judgment :contains :subject, :predicate, :copula ;
+          :isProgressiveDeterminationOf "concept"^^xsd:string .
+:copula :connects :subject, :predicate .
+:judgmentOfExistence :developsInto :judgmentOfReflection .
+:judgmentOfReflection :developsInto :judgmentOfNecessity .
+:judgmentOfNecessity :developsInto :judgmentOfConcept .
+:judgmentOfExistence :isTypeOf :judgment .
+:judgmentOfReflection :isTypeOf :judgment .
+:judgmentOfNecessity :isTypeOf :judgment .
+:judgmentOfConcept :isTypeOf :judgment .
+
+# Properties
+:judgmentOfExistence :hasObjectivity "1"^^xsd:integer .
+:judgmentOfReflection :hasObjectivity "2"^^xsd:integer .
+:judgmentOfNecessity :hasObjectivity "3"^^xsd:integer .
+:judgmentOfConcept :hasObjectivity "4"^^xsd:integer .
+:judgment :bridgesSubjectivityAndObjectivity "true"^^xsd:boolean .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix : <http://www.example.org/hegel-syllogism-ontology#> .
+
+# Classes
+:Syllogism rdf:type owl:Class ;
+    rdfs:label "Syllogism"@en ;
+    rdfs:comment "The restoration of the concept in judgment, representing the unity and truth of judgment."@en .
+
+:Concept rdf:type owl:Class ;
+    rdfs:label "Concept"@en ;
+    rdfs:comment "The fundamental category in Hegel's logic, fully posited in the syllogism."@en .
+
+:Judgment rdf:type owl:Class ;
+    rdfs:label "Judgment"@en ;
+    rdfs:comment "The determinateness of the concept, united and transcended in the syllogism."@en .
+
+:SyllogismTerm rdf:type owl:Class ;
+    rdfs:label "Syllogism Term"@en ;
+    rdfs:comment "A component of the syllogism, including extremes and the middle term."@en .
+
+:SyllogismType rdf:type owl:Class ;
+    rdfs:label "Syllogism Type"@en ;
+    rdfs:comment "A category of syllogism representing a stage in the development of syllogistic reasoning."@en .
+
+:Reason rdf:type owl:Class ;
+    rdfs:label "Reason"@en ;
+    rdfs:comment "The faculty of rational cognition, manifested in syllogistic structure."@en .
+
+# Object Properties
+:contains rdf:type owl:ObjectProperty ;
+    rdfs:label "contains"@en ;
+    rdfs:comment "Indicates that the subject includes or encompasses the object as a component."@en ;
+    rdfs:domain :Syllogism ;
+    rdfs:range :SyllogismTerm .
+
+:restores rdf:type owl:ObjectProperty ;
+    rdfs:label "restores"@en ;
+    rdfs:comment "Denotes that the subject brings back or reestablishes the object in a new form."@en ;
+    rdfs:domain :Syllogism ;
+    rdfs:range :Concept .
+
+:unites rdf:type owl:ObjectProperty ;
+    rdfs:label "unites"@en ;
+    rdfs:comment "Expresses that the subject brings together or combines the objects."@en ;
+    rdfs:domain :SyllogismTerm ;
+    rdfs:range :SyllogismTerm .
+
+:developsInto rdf:type owl:ObjectProperty ;
+    rdfs:label "develops into"@en ;
+    rdfs:comment "Indicates that the subject evolves or progresses into the object."@en ;
+    rdfs:domain :SyllogismType ;
+    rdfs:range :SyllogismType .
+
+:manifestsIn rdf:type owl:ObjectProperty ;
+    rdfs:label "manifests in"@en ;
+    rdfs:comment "Denotes that the subject is expressed or realized in the object."@en ;
+    rdfs:domain :Reason ;
+    rdfs:range :Syllogism .
+
+# Data Properties
+:isRational rdf:type owl:DatatypeProperty ;
+    rdfs:label "is rational"@en ;
+    rdfs:comment "Indicates whether the subject embodies or expresses rationality."@en ;
+    rdfs:domain owl:Thing ;
+    rdfs:range xsd:boolean .
+
+:hasObjectivity rdf:type owl:DatatypeProperty ;
+    rdfs:label "has objectivity"@en ;
+    rdfs:comment "Denotes the degree to which the subject reflects objective truth rather than subjective connection."@en ;
+    rdfs:domain owl:Thing ;
+    rdfs:range xsd:integer .
+
+:achievesCorrespondence rdf:type owl:DatatypeProperty ;
+    rdfs:label "achieves correspondence"@en ;
+    rdfs:comment "Expresses whether the subject attains alignment between concept and reality."@en ;
+    rdfs:domain owl:Thing ;
+    rdfs:range xsd:boolean .
+
+# Instances
+:syllogism rdf:type :Syllogism .
+:concept rdf:type :Concept .
+:judgment rdf:type :Judgment .
+:reason rdf:type :Reason .
+
+:extremeTerm1 rdf:type :SyllogismTerm ;
+    rdfs:label "Extreme Term 1"@en .
+:extremeTerm2 rdf:type :SyllogismTerm ;
+    rdfs:label "Extreme Term 2"@en .
+:middleTerm rdf:type :SyllogismTerm ;
+    rdfs:label "Middle Term"@en .
+
+:syllogismOfExistence rdf:type :SyllogismType ;
+    rdfs:label "Syllogism of Existence"@en .
+:syllogismOfReflection rdf:type :SyllogismType ;
+    rdfs:label "Syllogism of Reflection"@en .
+:syllogismOfNecessity rdf:type :SyllogismType ;
+    rdfs:label "Syllogism of Necessity"@en .
+
+# Relationships
+:syllogism :contains :extremeTerm1, :extremeTerm2, :middleTerm ;
+           :restores :concept .
+:middleTerm :unites :extremeTerm1, :extremeTerm2 .
+:syllogismOfExistence :developsInto :syllogismOfReflection .
+:syllogismOfReflection :developsInto :syllogismOfNecessity .
+:reason :manifestsIn :syllogism .
+
+# Properties
+:syllogism :isRational "true"^^xsd:boolean .
+:syllogismOfExistence :hasObjectivity "1"^^xsd:integer .
+:syllogismOfReflection :hasObjectivity "2"^^xsd:integer .
+:syllogismOfNecessity :hasObjectivity "3"^^xsd:integer ;
+                      :achievesCorrespondence "true"^^xsd:boolean .
+                      
