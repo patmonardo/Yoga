@@ -2,5 +2,4 @@ project:
   output-dir: Build
 
 toc: true
-number-sections: true
 

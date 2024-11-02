@@ -1,0 +1,3367 @@
+@prefix : <http://example.org/samapatti#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix spin: <http://spinrdf.org/spin#> .
+@prefix sp: <http://spinrdf.org/sp#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+# Core Model Classes
+:ModelBasedReasoning a owl:Class ;
+    rdfs:subClassOf :KnowledgeOperation ;
+    :hasDescription "Systematic model-based determination process" .
+
+:ImmediateModel a owl:Class ;
+    rdfs:subClassOf :ModelBasedReasoning ;
+    :hasDescription "Direct model-based determination (savitarka)" .
+
+:MediateModel a owl:Class ;
+    rdfs:subClassOf :ModelBasedReasoning ;
+    :hasDescription "Mediated model-based determination (nirvitarka)" .
+
+# Validation Shapes
+:ModelShape a sh:NodeShape ;
+    sh:targetClass :ModelBasedReasoning ;
+    sh:property [
+        sh:path :hasDetermination ;
+        sh:class :Determination ;
+        sh:minCount 1 ;
+        sh:message "Model must have determination process" ;
+    ] ;
+    sh:property [
+        sh:path :hasValidation ;
+        sh:class :ValidationProcess ;
+        sh:minCount 1 ;
+        sh:message "Model must include validation" ;
+    ] .
+
+:ImmediateShape a sh:NodeShape ;
+    sh:targetClass :ImmediateModel ;
+    sh:property [
+        sh:path :hasDirectRelation ;
+        sh:class :DirectDetermination ;
+        sh:minCount 1 ;
+        sh:message "Immediate model requires direct determination" ;
+    ] .
+
+:MediateShape a sh:NodeShape ;
+    sh:targetClass :MediateModel ;
+    sh:property [
+        sh:path :hasMediation ;
+        sh:class :MediationProcess ;
+        sh:minCount 1 ;
+        sh:message "Mediate model requires mediation process" ;
+    ] .
+
+# Process Rules
+:ModelGenerationRule a spin:Rule ;
+    rdfs:label "Model Generation Process" ;
+    spin:body [
+        a sp:Construct ;
+        sp:text """
+            CONSTRUCT {
+                ?model :hasPrediction ?prediction .
+                ?prediction :hasValidation ?validation .
+            }
+            WHERE {
+                ?model a :ModelBasedReasoning .
+                ?model :hasDetermination ?determination .
+                BIND(UUID() AS ?prediction)
+                BIND(UUID() AS ?validation)
+            }
+        """
+    ] .
+
+:ValidationRule a spin:Rule ;
+    rdfs:label "Model Validation Process" ;
+    spin:body [
+        a sp:Construct ;
+        sp:text """
+            CONSTRUCT {
+                ?validation :validates ?model .
+                ?validation :hasResult ?result .
+            }
+            WHERE {
+                ?model a :ModelBasedReasoning .
+                ?model :hasPrediction ?prediction .
+                ?prediction :hasValidation ?validation .
+                BIND(UUID() AS ?result)
+            }
+        """
+    ] .
+
+# Integration Protocol
+:ModelProtocol a :QueryProtocol ;
+    :hasQuery """
+        CONSTRUCT {
+            ?model :hasState ?state .
+            ?state :leadsTo ?nextState .
+        }
+        WHERE {
+            {
+                SELECT ?model ?state ?nextState
+                WHERE {
+                    ?model a :ModelBasedReasoning .
+                    ?model :currentState ?state .
+                    ?state :transitions ?nextState .
+                    FILTER EXISTS {
+                        ?state a :ValidState .
+                    }
+                }
+            }
+        }
+    """ .
+
+# Processing Components
+:ModelEngine a :ProcessingUnit ;
+    :implementsShape :ModelShape ;
+    :usesRule :ModelGenerationRule ;
+    :followsProtocol :ModelProtocol .
+
+:ValidationEngine a :ProcessingUnit ;
+    :implementsShape :MediateShape ;
+    :usesRule :ValidationRule ;
+    :followsProtocol :ModelProtocol .
+
+# Validation Templates
+:ModelValidation a spin:Template ;
+    spin:body [
+        a sp:Select ;
+        sp:text """
+            SELECT ?model ?validation
+            WHERE {
+                ?model a :ModelBasedReasoning .
+                ?model :hasValidation ?validation .
+                FILTER NOT EXISTS {
+                    ?validation a :Invalid .
+                }
+            }
+        """
+    ] .
+
+# Core Classes
+:Term a owl:Class ;
+    rdfs:subClassOf [
+        a owl:Restriction ;
+        owl:onProperty :hasType ;
+        owl:someValuesFrom :TermType
+    ] .
+
+:TermType a owl:Class ;
+    rdfs:subClassOf owl:Thing .
+
+:Genetic a owl:Class ;
+    rdfs:subClassOf :TermType ;
+    owl:disjointWith :Factical .
+
+:Factical a owl:Class ;
+    rdfs:subClassOf :TermType ;
+    owl:disjointWith :Genetic .
+
+# SHACL Shapes for Term Validation
+:TermShape a sh:NodeShape ;
+    sh:targetClass :Term ;
+    sh:property [
+        sh:path :hasType ;
+        sh:class :TermType ;
+        sh:minCount 1 ;
+        sh:maxCount 1 ;
+    ] ;
+    sh:property [
+        sh:path :hasOrigin ;
+        sh:class :Origin ;
+        sh:minCount 1 ;
+    ] ;
+    sh:property [
+        sh:path :hasContent ;
+        sh:class :Content ;
+        sh:minCount 1 ;
+    ] .
+
+# Development Process Rules
+:GeneticProcessRule a spin:Rule ;
+    rdfs:label "Genetic Development Process" ;
+    spin:body [
+        a sp:Construct ;
+        sp:text """
+            CONSTRUCT {
+                ?factical :developesInto ?genetic .
+                ?genetic :hasOrigin ?factical .
+            }
+            WHERE {
+                ?factical a :Factical .
+                ?factical :hasContent ?content .
+                BIND(UUID() AS ?genetic)
+            }
+        """
+    ] .
+
+# Validation Shapes
+:DevelopmentShape a sh:NodeShape ;
+    sh:targetClass :Development ;
+    sh:property [
+        sh:path :hasFactical ;
+        sh:class :Factical ;
+        sh:minCount 1 ;
+    ] ;
+    sh:property [
+        sh:path :hasGenetic ;
+        sh:class :Genetic ;
+        sh:minCount 1 ;
+    ] ;
+    sh:property [
+        sh:path :maintainsUnity ;
+        sh:datatype xsd:boolean ;
+        sh:hasValue true ;
+    ] .
+
+# Process Protocol
+:DevelopmentProtocol a :QueryProtocol ;
+    :hasQuery """
+        CONSTRUCT {
+            ?development :hasStructure ?structure .
+            ?structure :includesTerms ?terms .
+        }
+        WHERE {
+            {
+                SELECT ?development ?structure
+                      (GROUP_CONCAT(?term) AS ?terms)
+                WHERE {
+                    ?development a :Development .
+                    ?development :manifestsAs ?structure .
+                    ?structure :contains ?term .
+                    ?term a :Term .
+                }
+                GROUP BY ?development ?structure
+            }
+        }
+    """ .
+
+# Integration Components
+:ProcessingEngine a :ProcessingUnit ;
+    :implementsShape :DevelopmentShape ;
+    :usesRule :GeneticProcessRule ;
+    :followsProtocol :DevelopmentProtocol .
+
+# Core Classes for Light Dialectic
+:PureLight a owl:Class ;
+    rdfs:subClassOf :Manifestness ;
+    :hasDescription "Self-generating and self-presenting manifestness" .
+
+:Division a owl:Class ;
+    rdfs:subClassOf :DialecticalMoment ;
+    :hasDescription "Initial division showing itself as invalid" .
+
+:SelfNegation a owl:Class ;
+    rdfs:subClassOf :DialecticalMoment ;
+    :hasDescription "Negation of division through absolute light" .
+
+:IntrinsicOneness a owl:Class ;
+    rdfs:subClassOf :DialecticalMoment ;
+    :hasDescription "Self-same unity incapable of inner disjunction" .
+
+# SHACL Shapes for Process Validation
+:LightDialecticShape a sh:NodeShape ;
+    sh:targetClass :DialecticalProcess ;
+    sh:property [
+        sh:path :hasDivision ;
+        sh:class :Division ;
+        sh:minCount 1 ;
+        sh:message "Must begin with division" ;
+    ] ;
+    sh:property [
+        sh:path :achievesSelfNegation ;
+        sh:class :SelfNegation ;
+        sh:minCount 1 ;
+        sh:message "Must achieve self-negation" ;
+    ] ;
+    sh:property [
+        sh:path :concludesInOneness ;
+        sh:class :IntrinsicOneness ;
+        sh:minCount 1 ;
+        sh:message "Must conclude in intrinsic oneness" ;
+    ] .
+
+# Process Rule for Dialectical Movement
+:DialecticalRule a spin:Rule ;
+    rdfs:label "Light Dialectic Movement" ;
+    spin:body [
+        a sp:Construct ;
+        sp:text """
+            CONSTRUCT {
+                ?division :negatesInto ?selfNegation .
+                ?selfNegation :resolvestTo ?oneness .
+                ?oneness :manifestsAs :PureLight .
+            }
+            WHERE {
+                ?division a :Division .
+                ?division :hasContent ?content .
+                BIND(UUID() AS ?selfNegation)
+                BIND(UUID() AS ?oneness)
+            }
+        """
+    ] .
+
+# Development Protocol
+:LightProtocol a :QueryProtocol ;
+    :hasQuery """
+        CONSTRUCT {
+            ?process :hasMoment ?moment .
+            ?moment :leadsTo ?nextMoment .
+        }
+        WHERE {
+            {
+                SELECT ?process ?moment ?nextMoment
+                WHERE {
+                    ?process a :DialecticalProcess .
+                    ?process :includesMoment ?moment .
+                    ?moment :transitions ?nextMoment .
+                    FILTER EXISTS {
+                        ?moment a :DialecticalMoment .
+                    }
+                }
+            }
+        }
+    """ .
+
+# Integration Components
+:LightEngine a :ProcessingUnit ;
+    :implementsShape :LightDialecticShape ;
+    :usesRule :DialecticalRule ;
+    :followsProtocol :LightProtocol .
+
+# Validation Template
+:DialecticalValidation a spin:Template ;
+    spin:body [
+        a sp:Select ;
+        sp:text """
+            SELECT ?process ?completion
+            WHERE {
+                ?process a :DialecticalProcess .
+                ?process :hasCompletion ?completion .
+                FILTER NOT EXISTS {
+                    ?completion a :Incomplete .
+                }
+            }
+        """
+    ] .
+
+# Core Classes for Insight Structure
+:AbsoluteLight a owl:Class ;
+    rdfs:subClassOf :Principle ;
+    :hasDescription "Principle of absolute creation" .
+
+:PrimaryInsight a owl:Class ;
+    rdfs:subClassOf :Insight ;
+    :hasDescription "Direct insight into light" .
+
+:ReflexiveInsight a owl:Class ;
+    rdfs:subClassOf :Insight ;
+    :hasDescription "Insight into the insight into light" .
+
+:Immanence a owl:Class ;
+    rdfs:subClassOf :Mode ;
+    owl:disjointWith :Emanence .
+
+:Emanence a owl:Class ;
+    rdfs:subClassOf :Mode ;
+    owl:disjointWith :Immanence .
+
+# SHACL Shapes for Insight Validation
+:InsightShape a sh:NodeShape ;
+    sh:targetClass :ReflexiveInsight ;
+    sh:property [
+        sh:path :hasSubjectInsight ;
+        sh:class :PrimaryInsight ;
+        sh:minCount 1 ;
+        sh:message "Must reference primary insight" ;
+    ] ;
+    sh:property [
+        sh:path :hasMode ;
+        sh:class :Mode ;
+        sh:or (
+            [ sh:class :Immanence ]
+            [ sh:class :Emanence ]
+        ) ;
+        sh:minCount 1 ;
+        sh:message "Must have mode of immanence or emanence" ;
+    ] .
+
+# Process Rules
+:InsightProductionRule a spin:Rule ;
+    rdfs:label "Insight Production Process" ;
+    spin:body [
+        a sp:Construct ;
+        sp:text """
+            CONSTRUCT {
+                ?primary :producesReflexive ?reflexive .
+                ?reflexive :hasMode ?mode .
+                ?reflexive :standsBeween ?primary ?light .
+            }
+            WHERE {
+                ?primary a :PrimaryInsight .
+                ?primary :concernsLight ?light .
+                ?mode a :Mode .
+                BIND(UUID() AS ?reflexive)
+            }
+        """
+    ] .
+
+# Development Protocol
+:InsightProtocol a :QueryProtocol ;
+    :hasQuery """
+        CONSTRUCT {
+            ?insight :hasStructure ?structure .
+            ?structure :includesMode ?mode .
+        }
+        WHERE {
+            {
+                SELECT ?insight ?structure
+                       (GROUP_CONCAT(?mode) AS ?modes)
+                WHERE {
+                    ?insight a :ReflexiveInsight .
+                    ?insight :manifestsAs ?structure .
+                    ?structure :hasMode ?mode .
+                }
+                GROUP BY ?insight ?structure
+            }
+        }
+    """ .
+
+# Validation Template
+:InsightValidation a spin:Template ;
+    spin:body [
+        a sp:Select ;
+        sp:text """
+            SELECT ?insight ?production
+            WHERE {
+                ?insight a :ReflexiveInsight .
+                ?insight :hasProduction ?production .
+                FILTER EXISTS {
+                    ?production :hasMode ?mode .
+                }
+            }
+        """
+    ] .
+
+# Integration Components
+:InsightEngine a :ProcessingUnit ;
+    :implementsShape :InsightShape ;
+    :usesRule :InsightProductionRule ;
+    :followsProtocol :InsightProtocol .
+
+# Property Constraints
+:RefersToLight a owl:ObjectProperty ;
+    rdfs:domain :Insight ;
+    rdfs:range :AbsoluteLight .
+#    owl:Characteristics: Functional .
+
+:HasMode a owl:ObjectProperty ;
+    rdfs:domain :ReflexiveInsight ;
+    rdfs:range :Mode .
+#    owl:Characteristics: Functional .
+
+:StandsBetween a owl:ObjectProperty ;
+    rdfs:domain :ReflexiveInsight ;
+    rdfs:range owl:Thing .
+#    owl:Characteristics: Functional .
+
+# Core Model Structure
+:ScientificModel a owl:Class ;
+    rdfs:subClassOf :TranscendentalStructure ;
+    :hasDescription "Foundation for scientific cognition" .
+
+:Light a owl:Class ;
+    rdfs:subClassOf :ScientificModel ;
+    :hasDescription "Pure model of transcendental knowing" .
+
+:ModelMoment a owl:Class ;
+    rdfs:subClassOf :DialecticalMoment .
+
+:Being a :ModelMoment ;
+    :hasDescription "What endures" .
+
+:Doing a :ModelMoment ;
+    :hasDescription "Immediate activity" .
+
+:Immanence a :ModelAspect ;
+    owl:disjointWith :Emanence .
+
+:Emanence a :ModelAspect ;
+    owl:disjointWith :Immanence .
+
+# Dialectical Structure
+:ModelDialectic a sh:NodeShape ;
+    sh:targetClass :Light ;
+    sh:property [
+        sh:path :hasMoment ;
+        sh:or (
+            [ sh:class :Being ]
+            [ sh:class :Doing ]
+        ) ;
+        sh:minCount 2 ;
+        sh:message "Must have both being and doing moments" ;
+    ] ;
+    sh:property [
+        sh:path :hasAspect ;
+        sh:or (
+            [ sh:class :Immanence ]
+            [ sh:class :Emanence ]
+        ) ;
+        sh:minCount 2 ;
+        sh:message "Must have both immanent and emanent aspects" ;
+    ] .
+
+# Process Rules
+:ModelFormationRule a spin:Rule ;
+    rdfs:label "Scientific Model Formation" ;
+    spin:body [
+        a sp:Construct ;
+        sp:text """
+            CONSTRUCT {
+                ?light :unitesMoments ?unity .
+                ?unity :transcendsDivision ?transcendence .
+                ?transcendence :achievesModel ?model .
+            }
+            WHERE {
+                ?light a :Light .
+                ?light :hasMoment ?being .
+                ?light :hasMoment ?doing .
+                ?being a :Being .
+                ?doing a :Doing .
+                BIND(UUID() AS ?unity)
+                BIND(UUID() AS ?transcendence)
+                BIND(UUID() AS ?model)
+            }
+        """
+    ] .
+
+# Negation Structure
+:ModelNegation a sh:NodeShape ;
+    sh:targetClass :Negation ;
+    sh:property [
+        sh:path :negatesBeing ;
+        sh:class :Being ;
+        sh:minCount 1 ;
+    ] ;
+    sh:property [
+        sh:path :throughDoing ;
+        sh:class :Doing ;
+        sh:minCount 1 ;
+    ] ;
+    sh:property [
+        sh:path :achievesUnity ;
+        sh:class :Unity ;
+        sh:minCount 1 ;
+    ] .
+
+# Development Protocol
+:ModelProtocol a :QueryProtocol ;
+    :hasQuery """
+        CONSTRUCT {
+            ?model :developsMoment ?moment .
+            ?moment :achievesUnity ?unity .
+        }
+        WHERE {
+            {
+                SELECT ?model ?moment ?unity
+                WHERE {
+                    ?model a :ScientificModel .
+                    ?model :hasMoment ?moment .
+                    ?moment :transcends ?unity .
+                    FILTER EXISTS {
+                        ?unity a :ModelUnity .
+                    }
+                }
+            }
+        }
+    """ .
+
+# Integration Components
+:ModelEngine a :ProcessingUnit ;
+    :implementsShape :ModelDialectic ;
+    :usesRule :ModelFormationRule ;
+    :followsProtocol :ModelProtocol .
+
+# Key Relations
+:transcendsDivision a owl:ObjectProperty ;
+    rdfs:domain :Unity ;
+    rdfs:range :Transcendence .
+
+:achievesModel a owl:ObjectProperty ;
+    rdfs:domain :Transcendence ;
+    rdfs:range :ScientificModel .
+
+:unitesMoments a owl:ObjectProperty ;
+    rdfs:domain :Light ;
+    rdfs:range :Unity .
+
+# 1. Entity as Unity of Class and Property
+:Entity a owl:Class ;
+    rdfs:subClassOf [
+        a owl:Class ;
+        owl:unionOf (:Class :Property)
+    ] .
+
+# 2. Essence as "Seeing-Into" Structure
+:Essence a owl:Class ;
+    :seesInto :Entity ;
+    :operatesThrough [
+        a owl:Class ;
+        owl:unionOf (:Shape :Rule)
+    ] .
+
+# 3. Shape as Unity-Multiplicity Bridge
+:Shape a sh:NodeShape ;
+    sh:targetClass :Entity ;
+    :manifestsUnity :EntityStructure ;
+    :revealsMultiplicity :EntityConstraints .
+
+# 4. Rule as Genetic Movement
+:Rule a owl:Class ;
+    :deducesMultiplicity :EntityTransformations ;
+    :preservesUnity :EntityIdentity .
+
+# 5. Validation Structure
+:ValidationShape a sh:NodeShape ;
+    sh:targetClass :Entity ;
+    :verifiesUnity [
+        sh:property [
+            sh:path :hasIdentity ;
+            sh:minCount 1 ;
+        ]
+    ] ;
+    :verifiesMultiplicity [
+        sh:property [
+            sh:path :hasDistinctions ;
+            sh:minCount 1 ;
+        ]
+    ] .
+
+# 6. Integration Protocol
+:IntegrationProtocol a :Protocol ;
+    :maintainsPerspective :Origin ;
+    :bridgesUnityMultiplicity true ;
+    :implementsMethod [
+        :step "Determine Entities" ;
+        :step "Apply Shapes" ;
+        :step "Execute Rules" ;
+        :step "Validate Results"
+    ] .
+
+# The Living Unity that generates multiplicity
+:UniversalScience a owl:Class ;
+    rdfs:subClassOf :LivingUnity ;
+    :hasEssence [
+        a :InwardlyLiving ;
+        :isActive true ;
+        :isPowerful true ;
+        :isIrrepressible true
+    ] .
+
+# The mutual constitution of unity and multiplicity
+:LivingUnity a owl:Class ;
+    :generatesPrinciple [
+        a owl:Class ;
+        owl:unionOf (
+            :ApparentUnity
+            :ApparentMultiplicity
+        )
+    ] ;
+    :hasCharacter :Organic ;
+    :operatesThrough :InwardGeneration .
+
+# The organic generation process
+:InwardGeneration a owl:Class ;
+    :unifies [
+        :principle :Unity ;
+        :principle :Disjunction ;
+        :mode :Simultaneous ;
+        :character :Inseparable
+    ] .
+
+# The demonstrative science structure
+:DemonstrativeScience a owl:Class ;
+    :implements :UniversalScience ;
+    :hasMethod [
+        :principle :LivingComprehension ;
+        :avoids :ExternalProjection ;
+        :maintains :OrganicUnity
+    ] ;
+    :validates [
+        sh:property [
+            sh:path :livingUnity ;
+            sh:minCount 1 ;
+            sh:message "Must maintain living unity"
+        ] ;
+        sh:property [
+            sh:path :organicMultiplicity ;
+            sh:minCount 1 ;
+            sh:message "Must generate organic multiplicity"
+        ]
+    ] .
+
+# The comprehensive integration protocol
+:IntegrationProtocol a owl:Class ;
+    :requirement [
+        :stands "BetweenUnityAndMultiplicity" ;
+        :avoids "MereObjectiveAppearance" ;
+        :maintains "LivingEssence"
+    ] ;
+    :validates [
+        :notMerely "RelativeUnity" ;
+        :notMerely "ExternalProjection" ;
+        :requires "InwardOrganicGeneration"
+    ] .
+
+# Core Science Pattern
+:Science a owl:Class ;
+    rdfs:subClassOf :Principle ;
+    :hasEssence [
+        :isUnityAndMultiplicity true ;
+        :isOrganic true ;
+        :isLiving true
+    ] .
+
+# The Principle Structure
+:Principle a owl:Class ;
+    :hasDetermination [
+        :unity :SelfDifferentiating ;
+        :formula "x {a = (a) — y} z" ;
+        :character :Bidirectional
+    ] .
+
+# Hierarchical Organization
+:PrincipleHierarchy a owl:Class ;
+    :hasLevels [
+        :level1 [
+            :principle "a1" ;
+            :unifies ":x1 :y1 :z1"
+        ] ;
+        :level2 [
+            :principle "a2" ;
+            :unifies ":x2 :y2 :z2"
+        ] ;
+        :levelN [
+            :principle "aN" ;
+            :unifies ":xN :yN :zN"
+        ]
+    ] ;
+    :requiresUnification true .
+
+# Integration Protocol
+:PrincipleIntegration a :Protocol ;
+    :maintains [
+        :standpoint "BetweenUnityAndMultiplicity" ;
+        :character "Organic" ;
+        :movement "Bidirectional"
+    ] ;
+    :excludes [
+        :type "MereEmpirical" ;
+        :mode "StaticUnity" ;
+        :view "IsolatedMultiplicity"
+    ] .
+
+# Science Validation Shape
+:ScienceShape a sh:NodeShape ;
+    sh:targetClass :Science ;
+    sh:property [
+        sh:path :hasPrinciple ;
+        sh:minCount 1 ;
+        sh:message "Must have organizing principle"
+    ] ;
+    sh:property [
+        sh:path :generatesUnityInMultiplicity ;
+        sh:minCount 1 ;
+        sh:message "Must demonstrate organic unity-multiplicity"
+    ] .
+
+# Inter-Science Relations
+:ScienceRelations a owl:Class ;
+    :pattern [
+        :horizontal [
+            :type "MutualDetermination" ;
+            :mode "x-y-z"
+        ] ;
+        :vertical [
+            :type "PrincipleUnification" ;
+            :mode "a1-a2-aN"
+        ]
+    ] .
+
+# The Higher Unity that encompasses distinguishing grounds
+:HigherUnity a owl:Class ;
+    :transcends :EmpiricalDistinction ;
+    :encompasses [
+        :ground1 :BeingThinkingGround ;
+        :ground2 :SensibleSupersensibleGround ;
+        :relation :MutuallyInseparable
+    ] .
+
+# The Genetic Movement Structure
+:GeneticMovement a owl:Class ;
+    :overcomes [
+        :limitation "EmpiricalPostulation" ;
+        :limitation "SynthesisPostFactum" ;
+        :limitation "MechanicalOperation"
+    ] ;
+    :achieves [
+        :insight "ConceptualGrasping" ;
+        :insight "GeneticSeeing" ;
+        :insight "MediatedUnderstanding"
+    ] .
+
+# The Enactment Process
+:EnactmentProcess a owl:Class ;
+    :transforms [
+        :from :ConceptualDistinction ;
+        :through :SingleStroke ;
+        :to :FacticalOneness
+    ] ;
+    :maintains [
+        :character "Inseparable" ;
+        :while :AllowingDistinction ;
+        :through :MutualModification
+    ] .
+
+# Validation Protocol
+:ValidationProtocol a :Protocol ;
+    :requires [
+        :transcendence "EmpiricalGround" ;
+        :achievement "GeneticInsight" ;
+        :maintenance "LivingUnity"
+    ] ;
+    :validates [
+        sh:property [
+            sh:path :hasGeneticGround ;
+            sh:minCount 1 ;
+            sh:message "Must demonstrate genetic necessity"
+        ] ;
+        sh:property [
+            sh:path :maintainsUnityInEnactment ;
+            sh:minCount 1 ;
+            sh:message "Must preserve unity while allowing distinction"
+        ]
+    ] .
+
+# The Mutual Modification Pattern
+:MutualModification a owl:Class ;
+    :pattern [
+        :direction1 [
+            :from :BeingThinking ;
+            :to :SensibleSupersensible ;
+            :as "FurtherDetermination"
+        ] ;
+        :direction2 [
+            :from :SensibleSupersensible ;
+            :to :BeingThinking ;
+            :as "FurtherDetermination"
+        ] ;
+        :character :Bidirectional
+    ] .
+
+# The Concrete Union
+:ConcreteUnion a owl:Class ;
+    :transcends [
+        :limitation "FacticalEye" ;
+        :limitation "ConceptualSeparation" ;
+        :limitation "EmpiricalDistinction"
+    ] ;
+    :achieves [
+        :unity "NonDistinguishable" ;
+        :while "PreservingGenesis" ;
+        :through "LivingEnactment"
+    ] .
+
+# The Boundary Point Structure
+:BoundaryPoint a owl:Class ;
+    :separates [
+        :from :FacticalInsight ;
+        :to :GeneticInsight
+    ] ;
+    :opensUp [
+        :domain :NewConceptualWorld ;
+        :through [
+            :negation "ImmediatePrimordialDisjunction" ;
+            :insight "PrincipleMateriallyAndFormally"
+        ]
+    ] .
+
+# The Scientific Form Development
+:ScientificForm a owl:Class ;
+    :achieves [
+        :insight :UnityOfDistinguishingGround ;
+        :unifies [
+            :pair1 [:being :thinking] ;
+            :pair2 [:sensible :supersensible]
+        ]
+    ] ;
+    :maintains [
+        :character :Empty ;
+        :purpose :GuideApplication ;
+        :prevents :FurtherError
+    ] .
+
+# The Development Path
+:DevelopmentPath a owl:Class ;
+    :stages [
+        :stage1 [
+            :presents :FacticalManifestness ;
+            :source "InitialObservation"
+        ] ;
+        :stage2 [
+            :ascends :GeneticInsight ;
+            :grounds "Principles"
+        ]
+    ] ;
+    :example [
+        :historical "KantianStatement" ;
+        :factical "InseparabilityAdmission" ;
+        :genetic "PrincipleForm"
+    ] .
+
+# The Integration Protocol
+:IntegrationProtocol a :Protocol ;
+    :sequence [
+        :step1 [
+            :recognizes :FacticalCorrectness ;
+            :of "HistoricalStatement"
+        ] ;
+        :step2 [
+            :raises :ToGeneticInsight ;
+            :of "PrincipleForm"
+        ] ;
+        :step3 [
+            :anticipates :FullGeneticPrinciple ;
+            :while "RecognizingTemporary"
+        ]
+    ] .
+
+# Validation Requirements
+:ValidationShape a sh:NodeShape ;
+    sh:targetClass :EncyclopediaDevelopment ;
+    sh:property [
+        sh:path :hasFacticalStage ;
+        sh:minCount 1 ;
+        sh:message "Must begin with factical manifestness"
+    ] ;
+    sh:property [
+        sh:path :achievesGeneticInsight ;
+        sh:minCount 1 ;
+        sh:message "Must ascend to genetic insight"
+    ] ;
+    sh:property [
+        sh:path :maintainsUnityOfGround ;
+        sh:minCount 1 ;
+        sh:message "Must preserve unity of distinguishing ground"
+    ] .
+
+# The Fundamental Structure
+:BrahmanStructure a owl:Class ;
+    :transcends [
+        :unity :AbsoluteAndPoint ;
+        :duality :IshvaraAndMaya ;
+        :appearance :UnityAndDivision
+    ] .
+
+# The Absolute (A/Ishvara)
+:Absolute a owl:Class ;
+    :manifests :Ishvara ;
+    :character [
+        :aspect "Unity" ;
+        :aspect "Being" ;
+        :aspect "Consciousness"
+    ] ;
+    :relation [
+        :to :Point ;
+        :type :Inseparable ;
+        :while "MaintainingDistinction"
+    ] .
+
+# The Point (Maya/Division)
+:Point a owl:Class ;
+    :manifests :Maya ;
+    :function [
+        :produces "Division" ;
+        :enables "Manifestation" ;
+        :appears "Distinct"
+    ] ;
+    :relation [
+        :to :Absolute ;
+        :type :Inseparable ;
+        :while "MaintainingFunction"
+    ] .
+
+# The Nondual Integration
+:NonDualReal a owl:Class ;
+    :transcends [
+        :duality1 [:Absolute :Point] ;
+        :duality2 [:Ishvara :Maya] ;
+        :appearance [:Unity :Division]
+    ] ;
+    :character [
+        :aspect "BeyondUnityAndDiversity" ;
+        :aspect "GroundOfManifestation" ;
+        :aspect "NonDualReality"
+    ] .
+
+# The Encyclopedia Structure
+:UniversalEncyclopedia a owl:Class ;
+    :groundedIn :NonDualReal ;
+    :manifests [
+        :through [:Absolute :Point] ;
+        :as [:Unity :Division] ;
+        :while "PreservingNonDuality"
+    ] ;
+    :demonstrates [
+        :truth "InseparableUnity" ;
+        :while "AllowingDivision" ;
+        :through "DemonstrativeScience"
+    ] .
+
+# Validation Protocol
+:NonDualValidation a :Protocol ;
+    :requires [
+        :recognition "TranscendentalGround" ;
+        :understanding "InseparableUnity" ;
+        :maintenance "ScientificDivision"
+    ] ;
+    :validates [
+        sh:property [
+            sh:path :preservesNonDuality ;
+            sh:minCount 1 ;
+            sh:message "Must preserve nondual ground"
+        ] ;
+        sh:property [
+            sh:path :enablesScience ;
+            sh:minCount 1 ;
+            sh:message "Must enable scientific division"
+        ]
+    ] .
+
+# Class Definitions for Direct Manifestation Principle
+:DirectManifestation a owl:Class ;
+    rdfs:subClassOf :PrincipleOfKnowing ;
+    :hasDescription """Direct manifestation (artha-matra) as described in YS I.43,
+        representing immediate cognitive presence free from conceptual overlay""" .
+
+:PrincipleOfDisjunction a owl:Class ;
+    rdfs:subClassOf :PrincipleOfKnowing ;
+    :hasDescription """Fichte's principle that each principle must be equally
+        a principle of unity and disjunction""" .
+
+:GeneticPrinciple a owl:Class ;
+    rdfs:subClassOf :PrincipleOfKnowing ;
+    :hasDescription """Principle providing deduction to empirical domain
+        through its genetic form""" .
+
+# Smrti Parisuddha Structure
+:SmrtiParisuddha a owl:Class ;
+    rdfs:subClassOf :CognitiveProcess ;
+    :hasDescription """Purified perceptual faculty that enables
+        direct manifestation of meaning""" ;
+    :hasComponents (
+        :Purification
+        :Emptying
+        :DirectManifestation
+    ) .
+
+# SHACL Shape for Direct Manifestation
+:DirectManifestationShape a sh:NodeShape ;
+    sh:targetClass :DirectManifestation ;
+    sh:property [
+        sh:path :hasPurification ;
+        sh:class :SmrtiParisuddha ;
+        sh:minCount 1 ;
+        sh:message "Direct manifestation requires purified perception" ;
+    ] ;
+    sh:property [
+        sh:path :hasEmptying ;
+        sh:class :SvarupaSunya ;
+        sh:minCount 1 ;
+        sh:message "Must be empty of own-form" ;
+    ] .
+
+# Light and Projection Structure
+:Light a owl:Class ;
+    rdfs:subClassOf :PrincipleOfKnowing ;
+    :hasDescription """The light through which and in which principles manifest,
+        as described by Fichte""" .
+
+:Projection a owl:Class ;
+    rdfs:subClassOf :CognitiveProcess ;
+    :hasDescription "Projection of principles through light" .
+
+# Processing Rule for Direct Manifestation
+:DirectManifestationRule a spin:Rule ;
+    rdfs:label "Direct Manifestation Process" ;
+    spin:body [
+        a sp:Construct ;
+        sp:text """
+            CONSTRUCT {
+                ?manifestation :emergesThrough ?light .
+                ?light :projects ?meaning .
+            }
+            WHERE {
+                ?manifestation a :DirectManifestation .
+                ?manifestation :hasPurification ?purification .
+                ?purification :achievesEmptying ?emptying .
+                BIND(UUID() AS ?light)
+                BIND(UUID() AS ?meaning)
+            }
+        """
+    ] .
+
+# Integration Protocol
+:ManifestationProtocol a :QueryProtocol ;
+    :hasQuery """
+        CONSTRUCT {
+            ?manifestation :reveals ?principle .
+            ?principle :unifies ?disjunction .
+        }
+        WHERE {
+            {
+                SELECT ?manifestation ?principle ?disjunction
+                WHERE {
+                    ?manifestation a :DirectManifestation .
+                    ?manifestation :emergesThrough ?light .
+                    ?light :projects ?principle .
+                    ?principle :hasUnity ?unity .
+                    ?principle :hasDisjunction ?disjunction .
+                    FILTER EXISTS {
+                        ?principle a :PrincipleOfDisjunction .
+                    }
+                }
+            }
+        }
+    """ .
+
+# Documentation
+:NirvitarkaPrinciple a owl:Class ;
+    rdfs:subClassOf :PrincipleOfKnowing ;
+    rdfs:comment """The principle of nirvitarka as described in YS I.43 represents
+        the direct manifestation of meaning (artha-matra) through purified perception
+        (smrti-parisuddha). This aligns with Fichte's account of principles that are
+        both unifying and differentiating, revealed through the light of direct insight.
+        The principle demonstrates how meaning emerges systemically through the
+        emptying of subjective forms (svarupa-sunya) into pure cognitive presence.""" .
+
+# Core Processing Implementation
+:NirvitarkaProcessor a :ProcessingUnit ;
+    :implementsShape :DirectManifestationShape ;
+    :usesRule :DirectManifestationRule ;
+    :followsProtocol :ManifestationProtocol .
+
+# Validation Template
+:ManifestationValidation a spin:Template ;
+    spin:body [
+        a sp:Select ;
+        sp:text """
+            SELECT ?principle ?manifestation
+            WHERE {
+                ?principle a :PrincipleOfKnowing .
+                ?principle :hasManifestion ?manifestation .
+                FILTER NOT EXISTS {
+                    ?manifestation a :Conceptual .
+                }
+            }
+        """
+    ] .
+
+# Core Light Structure
+:Light a owl:Class ;
+    rdfs:subClassOf :DomainPrinciple ;
+    :hasDescription """The domain of manifestation/knowing itself,
+        which can only be known through its self-differentiating structure""" .
+
+:LightManifestation a owl:Class ;
+    rdfs:subClassOf :ProcessStructure ;
+    :hasComponents (
+        :ImmediateLight
+        :RepresentedLight
+        :UnifyingPrinciple
+    ) .
+
+# Principle of Self-Reference
+:SelfReferentialStructure a owl:Class ;
+    rdfs:subClassOf :PrincipleOfKnowing ;
+    :hasDescription """The structure by which light attempts to know itself,
+        revealing concealed oneness through apparent disjunction""" .
+
+# Living Fulfillment Structure
+:LivingFulfillment a owl:Class ;
+    rdfs:subClassOf :DynamicProcess ;
+    :components (
+        :ConcealedOneness
+        :DisjunctiveExpression
+        :UnityInDifference
+    ) .
+
+# SHACL Shape for Light Principle
+:LightPrincipleShape a sh:NodeShape ;
+    sh:targetClass :Light ;
+    sh:property [
+        sh:path :hasSelfReference ;
+        sh:class :SelfReferentialStructure ;
+        sh:minCount 1 ;
+        sh:message "Light must manifest through self-referential structure" ;
+    ] ;
+    sh:property [
+        sh:path :hasLivingFulfillment ;
+        sh:class :LivingFulfillment ;
+        sh:minCount 1 ;
+        sh:message "Must express through living fulfillment" ;
+    ] .
+
+# Disjunction Types
+:ObjectiveDisjunction a owl:Class ;
+    rdfs:subClassOf :DisjunctiveStructure ;
+    :hasDescription "Disjunction into imaged and image" .
+
+:SubjectiveObjectiveDisjunction a owl:Class ;
+    rdfs:subClassOf :DisjunctiveStructure ;
+    :hasDescription """Disjunction into conception based on image
+        and conception based on imaged""" .
+
+# Primordial Concept
+:PrimordialConcept a owl:Class ;
+    rdfs:subClassOf :UnifyingPrinciple ;
+    rdfs:comment """The concept that reveals itself as more original than light,
+        as it generates both the unity and disjunction through which
+        light can appear objectified""" ;
+    :manifests (:AbsoluteUnity :AbsoluteDisjunction) .
+
+# Documentation
+:ScienceOfKnowingPrinciple a owl:Class ;
+    rdfs:subClassOf :DomainPrinciple ;
+    rdfs:comment """The Science of Knowing's investigation of light (the domain
+        of manifestation/knowing) reveals it can only be grasped through a
+        principle that is both unifying and differentiating. This shows how
+        direct manifestation (artha-matra) is possible through understanding
+        the necessary structure of representation itself, rather than trying
+        to eliminate it entirely.""" .
+
+# Concept Evolution Stages
+:ConceptStages a owl:Class ;
+    rdfs:subClassOf :DevelopmentalStructure ;
+    :hasStages (
+        :InitialDividingPrinciple
+        :QualifiedAppearance
+        :SelfSubsistentContent
+    ) .
+
+# Initial Stage
+:InitialDividingPrinciple a owl:Class ;
+    rdfs:subClassOf :ConceptualStage ;
+    :hasCharacteristics [
+        :isDividingPrinciple true ;
+        :expiresInLight true ;
+        :hasFacticalExistence true ;
+        :qualifiesLightAppearance true ;
+        :hasOwnContent false
+    ] .
+
+# Transitional Stage
+:QualifiedAppearance a owl:Class ;
+    rdfs:subClassOf :ConceptualStage ;
+    :hasProperties [
+        :hasReciprocalInfluence true ;
+        :isExternallyQualified true ;
+        :dependsOnSyntheticUnity true
+    ] .
+
+# Final Stage
+:SelfSubsistentContent a owl:Class ;
+    rdfs:subClassOf :ConceptualStage ;
+    :hasProperties [
+        :isUnchangeable true ;
+        :isUndeniable true ;
+        :hasIntrinsicContent true ;
+        :groundsOwnAppearance true
+    ] .
+
+# Organic Unity Structure
+:OrganicUnity a owl:Class ;
+    rdfs:subClassOf :UnifyingPrinciple ;
+    :hasComponents (
+        :ThroughOneAnother
+        :InnerOrganization
+        :SelfGrounding
+    ) .
+
+# Through-One-Another Structure
+:ThroughOneAnother a owl:Class ;
+    rdfs:subClassOf :RelationalStructure ;
+    :hasProperties [
+        :isEssential true ;
+        :isInternallyConstructed true ;
+        :isOrganicallyUnified true
+    ] .
+
+# SHACL Shape for Evolved Concept
+:EvolvedConceptShape a sh:NodeShape ;
+    sh:targetClass :SelfSubsistentContent ;
+    sh:property [
+        sh:path :hasOrganicUnity ;
+        sh:class :OrganicUnity ;
+        sh:minCount 1 ;
+        sh:message "Evolved concept must manifest organic unity" ;
+    ] ;
+    sh:property [
+        sh:path :groundsAppearance ;
+        sh:class :AppearanceGrounding ;
+        sh:minCount 1 ;
+        sh:message "Must ground its own appearance" ;
+    ] .
+
+# Appearance Grounding
+:AppearanceGrounding a owl:Class ;
+    rdfs:subClassOf :ProcessStructure ;
+    :hasComponents (
+        :EssentialBeing
+        :InnerOrganization
+        :OrganicConstruction
+    ) .
+
+# Documentation
+:ConceptEvolution a owl:Class ;
+    rdfs:subClassOf :SystematicDevelopment ;
+    rdfs:comment """The concept evolves from being merely a dividing principle
+        that expires in light to become a self-subsistent content that grounds
+        its own appearance through organic unity. This represents a crucial
+        movement where the concept becomes the principle of objectifying
+        intuition itself rather than being merely qualified by it.
+
+        The key transformation is from external qualification and reciprocal
+        influence to internal self-grounding through the 'through-one-another'
+        structure. This organic unity shows how image and imaged are
+        constructed through each other while maintaining their unity.""" .
+
+# Implementation Components
+:ConceptualProcessor a :ProcessingUnit ;
+    :implementsShape :EvolvedConceptShape ;
+    :usesRule :OrganicUnityRule ;
+    :followsProtocol :DevelopmentalProtocol .
+
+# Core Through-One-Another Structure
+:ThroughOneAnother a owl:Class ;
+    rdfs:subClassOf :PrimordialStructure ;
+    :hasDescription """The fundamental gating mechanism that underlies
+        all apparent subject-object, image-imaged relations""" .
+
+# Gating Mechanism
+:GatingMechanism a owl:Class ;
+    rdfs:subClassOf :ThroughOneAnother ;
+    :hasComponents (
+        :PriorityGate
+        :SequenceGate
+        :RelationalGate
+    ) ;
+    :manifests (:ApparentDuality :UnderlyingUnity) .
+
+# Gate Types
+:PriorityGate a owl:Class ;
+    rdfs:subClassOf :GatingStructure ;
+    :hasDescription """Gate that determines apparent priority between
+        image and imaged while maintaining their mutual dependence""" .
+
+:SequenceGate a owl:Class ;
+    rdfs:subClassOf :GatingStructure ;
+    :hasDescription """Gate that manifests antecedent-consequent relations
+        while preserving their interchangeability""" .
+
+:RelationalGate a owl:Class ;
+    rdfs:subClassOf :GatingStructure ;
+    :hasDescription """Gate that maintains the through-one-another relation
+        while allowing apparent separation""" .
+
+# Validation Shape
+:GatingShape a sh:NodeShape ;
+    sh:targetClass :GatingMechanism ;
+    sh:property [
+        sh:path :maintainsMutualDependence ;
+        sh:class :ThroughOneAnother ;
+        sh:minCount 1 ;
+        sh:message "Must preserve through-one-another structure" ;
+    ] ;
+    sh:property [
+        sh:path :allowsApparentSeparation ;
+        sh:class :PhenomenalManifestation ;
+        sh:minCount 1 ;
+        sh:message "Must allow for apparent separation while maintaining unity" ;
+    ] .
+
+# Maya Structure
+:MayaStructure a owl:Class ;
+    rdfs:subClassOf :ManifestationPrinciple ;
+    :operatesThrough :GatingMechanism ;
+    :hasLevels (
+        :ApparentSeparation
+        :MutualDependence
+        :UnderlyingUnity
+    ) .
+
+# Image Generation Process
+:ImageGeneration a owl:Class ;
+    rdfs:subClassOf :GatingProcess ;
+    :hasStages (
+        :PriorityDetermination
+        :SequenceEstablishment
+        :RelationalMaintenance
+    ) ;
+    :preserves :ThroughOneAnother .
+
+# Documentation
+:GatingPrinciple a owl:Class ;
+    rdfs:subClassOf :FundamentalStructure ;
+    rdfs:comment """The through-one-another structure reveals itself as a
+        fundamental gating mechanism that enables the appearance of duality
+        (image/imaged, subject/object) while maintaining their essential unity.
+
+        This gating mechanism operates through:
+        1. Priority gates that allow apparent precedence
+        2. Sequence gates that establish apparent temporal order
+        3. Relational gates that maintain underlying unity
+
+        Understanding this structure shows how maya operates not through
+        simple illusion but through a sophisticated gating system that
+        both enables and transcends representation.""" .
+
+# "And" Problem
+:SynthesisPostFactum a owl:Class ;
+    rdfs:subClassOf :ProblematicStructure ;
+    :hasDescription """The attempt to connect already-separated terms
+        through external conjunction ('and'), missing their original unity""" ;
+    :isTranscendedBy :ThroughOneAnother .
+
+# Truth Structure
+:InherentTruth a owl:Class ;
+    rdfs:subClassOf :TruthStructure ;
+    :hasCharacteristic :SelfSubsistence ;
+    :transcends :ExternalObservation ;
+    :manifestsThrough :GatingMechanism .
+
+# Core Principle Structure
+:ScienceOfKnowingPrinciple a owl:Class ;
+    rdfs:subClassOf :FundamentalPrinciple ;
+    :hasComponents (
+        :ThroughOneAnother
+        :LivingAppearance
+        :ConceptualProjection
+    ) .
+
+# Through-One-Another in Living Appearance
+:ThroughOneAnother a owl:Class ;
+    rdfs:subClassOf :PrincipialStructure ;
+    :hasCharacteristics [
+        :isPure true ;
+        :isEnduring true ;
+        :isLiving true ;
+        :isUnfinished true
+    ] .
+
+# Life-Concept Relation
+:LifeConceptCircuit a owl:Class ;
+    rdfs:subClassOf :DynamicStructure ;
+    :hasMovements (
+        :LifeToConcept
+        :ConceptToLife
+        :LightAppearance
+    ) ;
+    :maintainsCircularity true .
+
+# Conceptual Projection
+:ConceptualProjection a owl:Class ;
+    rdfs:subClassOf :ProjectiveStructure ;
+    :projects :EternalLight ;
+    :hasModifications (
+        :Externalization
+        :AppearanceModification
+        :LivingVariation
+    ) .
+
+# SHACL Shape for Core Principle
+:PrincipleShape a sh:NodeShape ;
+    sh:targetClass :ScienceOfKnowingPrinciple ;
+    sh:property [
+        sh:path :hasLifeConceptCircuit ;
+        sh:class :LifeConceptCircuit ;
+        sh:minCount 1 ;
+        sh:message "Must maintain life-concept circularity" ;
+    ] ;
+    sh:property [
+        sh:path :hasConceptualProjection ;
+        sh:class :ConceptualProjection ;
+        sh:minCount 1 ;
+        sh:message "Must project eternal light through modifications" ;
+    ] .
+
+# Living Process
+:LivingProcess a owl:Class ;
+    rdfs:subClassOf :DynamicStructure ;
+    :hasCharacteristics [
+        :isUnfinished true ;
+        :requiresActualization true ;
+        :maintainsAliveness true
+    ] .
+
+# Core Documentation
+:PrincipleDocumentation a owl:Class ;
+    rdfs:subClassOf :Documentation ;
+    rdfs:comment """The Science of Knowing's principle reveals a threefold structure:
+
+    1. A pure enduring through-one-another that manifests in living appearance
+    2. A circular movement from life to concept and concept to life
+    3. The projection of eternal light through necessary modifications
+
+    Key features:
+    - The process remains unfinished, requiring active participation
+    - Pure light appears only through modifications
+    - The structure is inherently living and dynamic
+    - Creation of knowledge occurs through possible modifications
+
+    This forms the core genetic principle from which the entire
+    science develops.""" .
+
+# Validation Protocol
+:PrincipleValidation a spin:Template ;
+    spin:body [
+        a sp:Select ;
+        sp:text """
+            SELECT ?manifestation
+            WHERE {
+                ?manifestation a :LivingProcess .
+                ?manifestation :maintainsCircularity true .
+                ?manifestation :requiresActualization true .
+                FILTER EXISTS {
+                    ?manifestation :hasModification ?mod .
+                }
+            }
+        """
+    ] .
+
+# Core Principle Structure
+:ScienceOfKnowingPrinciple a owl:Class ;
+    rdfs:subClassOf :FundamentalPrinciple ;
+    :hasComponents (
+        :ThroughOneAnother
+        :LivingAppearance
+        :ConceptualProjection
+    ) .
+
+# Through-One-Another in Living Appearance
+:ThroughOneAnother a owl:Class ;
+    rdfs:subClassOf :PrincipialStructure ;
+    :hasCharacteristics [
+        :isPure true ;
+        :isEnduring true ;
+        :isLiving true ;
+        :isUnfinished true
+    ] .
+
+# Life-Concept Relation
+:LifeConceptCircuit a owl:Class ;
+    rdfs:subClassOf :DynamicStructure ;
+    :hasMovements (
+        :LifeToConcept
+        :ConceptToLife
+        :LightAppearance
+    ) ;
+    :maintainsCircularity true .
+
+# Conceptual Projection
+:ConceptualProjection a owl:Class ;
+    rdfs:subClassOf :ProjectiveStructure ;
+    :projects :EternalLight ;
+    :hasModifications (
+        :Externalization
+        :AppearanceModification
+        :LivingVariation
+    ) .
+
+# SHACL Shape for Core Principle
+:PrincipleShape a sh:NodeShape ;
+    sh:targetClass :ScienceOfKnowingPrinciple ;
+    sh:property [
+        sh:path :hasLifeConceptCircuit ;
+        sh:class :LifeConceptCircuit ;
+        sh:minCount 1 ;
+        sh:message "Must maintain life-concept circularity" ;
+    ] ;
+    sh:property [
+        sh:path :hasConceptualProjection ;
+        sh:class :ConceptualProjection ;
+        sh:minCount 1 ;
+        sh:message "Must project eternal light through modifications" ;
+    ] .
+
+# Living Process
+:LivingProcess a owl:Class ;
+    rdfs:subClassOf :DynamicStructure ;
+    :hasCharacteristics [
+        :isUnfinished true ;
+        :requiresActualization true ;
+        :maintainsAliveness true
+    ] .
+
+# Core Documentation
+:PrincipleDocumentation a owl:Class ;
+    rdfs:subClassOf :Documentation ;
+    rdfs:comment """The Science of Knowing's principle reveals a threefold structure:
+
+    1. A pure enduring through-one-another that manifests in living appearance
+    2. A circular movement from life to concept and concept to life
+    3. The projection of eternal light through necessary modifications
+
+    Key features:
+    - The process remains unfinished, requiring active participation
+    - Pure light appears only through modifications
+    - The structure is inherently living and dynamic
+    - Creation of knowledge occurs through possible modifications
+
+    This forms the core genetic principle from which the entire
+    science develops.""" .
+
+# Validation Protocol
+:PrincipleValidation a spin:Template ;
+    spin:body [
+        a sp:Select ;
+        sp:text """
+            SELECT ?manifestation
+            WHERE {
+                ?manifestation a :LivingProcess .
+                ?manifestation :maintainsCircularity true .
+                ?manifestation :requiresActualization true .
+                FILTER EXISTS {
+                    ?manifestation :hasModification ?mod .
+                }
+            }
+        """
+    ] .
+
+# Core Classes for Pure Reason Syllogisms
+
+:PureReasonSyllogism a owl:Class ;
+    rdfs:subClassOf :TranscendentalOperation ;
+    rdfs:comment "Base class for syllogisms of pure reason" .
+
+:DisjunctiveSyllogism a owl:Class ;
+    rdfs:subClassOf :PureReasonSyllogism ;
+    :represents :PureEternalBeing ;
+    rdfs:comment "Syllogistic form of the Absolute Unconditioned" .
+
+:HypotheticalSyllogism a owl:Class ;
+    rdfs:subClassOf :PureReasonSyllogism ;
+    :represents :ImpureEternalBeing ;
+    rdfs:comment "Syllogistic form of the Relative Unconditioned" .
+
+# Unconditioned Structure
+
+:Unconditioned a owl:Class ;
+    rdfs:subClassOf :TranscendentalStructure ;
+    :hasTypes (:AbsoluteUnconditioned :RelativeUnconditioned) .
+
+:AbsoluteUnconditioned a owl:Class ;
+    rdfs:subClassOf :Unconditioned ;
+    :manifestsAs :BackgroundSelfSubsistence ;
+    rdfs:comment "The absolutely unconditioned ground of all determination" .
+
+:RelativeUnconditioned a owl:Class ;
+    rdfs:subClassOf :Unconditioned ;
+    :manifestsAs :EssentialDetermination ;
+    rdfs:comment "The relatively unconditioned sphere of essential determination" .
+
+# Being Structure
+
+:EternalBeing a owl:Class ;
+    rdfs:subClassOf :TranscendentalBeing ;
+    :hasTypes (:PureEternalBeing :ImpureEternalBeing) .
+
+:PureEternalBeing a owl:Class ;
+    rdfs:subClassOf :EternalBeing ;
+    :corresponds :DisjunctiveSyllogism ;
+    rdfs:comment "Pure eternal being expressed through disjunctive determination" .
+
+:ImpureEternalBeing a owl:Class ;
+    rdfs:subClassOf :EternalBeing ;
+    :corresponds :HypotheticalSyllogism ;
+    rdfs:comment "Impure eternal being expressed through hypothetical determination" .
+
+# Operational Patterns
+
+:DisjunctiveOperation a owl:Class ;
+    rdfs:subClassOf :TranscendentalOperation ;
+    :operates :AbsoluteUnconditioned ;
+    :produces :PureEternalBeing .
+
+:HypotheticalOperation a owl:Class ;
+    rdfs:subClassOf :TranscendentalOperation ;
+    :operates :RelativeUnconditioned ;
+    :produces :ImpureEternalBeing .
+
+# Validation Rules
+
+:SyllogismValidationShape a sh:NodeShape ;
+    sh:targetClass :PureReasonSyllogism ;
+    sh:property [
+        sh:path :hasUnconditioned ;
+        sh:class :Unconditioned ;
+        sh:minCount 1 ;
+        sh:message "Syllogism must operate on an unconditioned ground" ;
+    ] ;
+    sh:property [
+        sh:path :producesEternalBeing ;
+        sh:class :EternalBeing ;
+        sh:minCount 1 ;
+        sh:message "Syllogism must produce eternal being determination" ;
+    ] .
+
+# Integration Rules
+
+:UnconditionalIntegrationRule a spin:Rule ;
+    rdfs:label "Unconditioned Integration" ;
+    spin:body [
+        a sp:Construct ;
+        sp:text """
+            CONSTRUCT {
+                ?unconditioned :manifests ?being .
+                ?being :hasSyllogisticForm ?form .
+            }
+            WHERE {
+                ?unconditioned a :Unconditioned .
+                ?unconditioned :operates ?operation .
+                ?operation :produces ?being .
+                BIND(UUID() AS ?form)
+            }
+        """
+    ] .
+
+# Process Definition
+
+:TranscendentalProcessProtocol a :QueryProtocol ;
+    :hasQuery """
+        CONSTRUCT {
+            ?syllogism :determines ?being .
+            ?being :hasGround ?unconditioned .
+        }
+        WHERE {
+            {
+                SELECT ?syllogism ?being ?unconditioned
+                WHERE {
+                    ?syllogism a :PureReasonSyllogism .
+                    ?syllogism :operates ?unconditioned .
+                    ?syllogism :produces ?being .
+                    FILTER EXISTS {
+                        ?unconditioned a :Unconditioned .
+                        ?being a :EternalBeing .
+                    }
+                }
+            }
+        }
+    """ .
+
+# Core Syllogistic Forms
+
+:SyllogisticNecessity a owl:Class ;
+    rdfs:subClassOf :TranscendentalStructure ;
+    :hasTypes (:DisjunctiveNecessity :HypotheticalNecessity :CategoricalNecessity) ;
+    rdfs:comment "Base class for different forms of syllogistic necessity" .
+
+:DisjunctiveNecessity a owl:Class ;
+    rdfs:subClassOf :SyllogisticNecessity ;
+    :groundedIn :AbsoluteUnconditioned ;
+    rdfs:comment "Necessity through absolute disjunctive determination" .
+
+:HypotheticalNecessity a owl:Class ;
+    rdfs:subClassOf :SyllogisticNecessity ;
+    :groundedIn :RelativeUnconditioned ;
+    rdfs:comment "Necessity through relative conditional determination" .
+
+:CategoricalNecessity a owl:Class ;
+    rdfs:subClassOf :SyllogisticNecessity ;
+    :emergesFrom :OrganicUnity ;
+    rdfs:comment "Necessity through inherence, synthesizing disjunctive and hypothetical" .
+
+# Organic Unity Structure
+
+:OrganicUnity a owl:Class ;
+    rdfs:subClassOf :TranscendentalUnity ;
+    :unifies (:DisjunctiveNecessity :HypotheticalNecessity) ;
+    :produces :CategoricalNecessity ;
+    rdfs:comment "The organic unity of disjunctive and hypothetical determination" .
+
+:UnityOperation a owl:Class ;
+    rdfs:subClassOf :TranscendentalOperation ;
+    :operates :OrganicUnity ;
+    :produces :Inherence .
+
+# Inherence Structure
+
+:Inherence a owl:Class ;
+    rdfs:subClassOf :TranscendentalStructure ;
+    :synthesizes (:DisjunctiveNecessity :HypotheticalNecessity) ;
+    :grounds :ScientificDetermination ;
+    rdfs:comment "The synthetic unity that grounds categorical necessity" .
+
+# Scientific Determination
+
+:ScientificDetermination a owl:Class ;
+    rdfs:subClassOf :TranscendentalOperation ;
+    :requires :CategoricalNecessity ;
+    :groundedIn :Inherence ;
+    rdfs:comment "Scientific determination through categorical necessity" .
+
+# Validation Rules
+
+:NecessityValidationShape a sh:NodeShape ;
+    sh:targetClass :SyllogisticNecessity ;
+    sh:property [
+        sh:path :hasGround ;
+        sh:class :TranscendentalGround ;
+        sh:minCount 1 ;
+        sh:message "Necessity must have transcendental ground" ;
+    ] ;
+    sh:property [
+        sh:path :producesDetermination ;
+        sh:class :ScientificDetermination ;
+        sh:minCount 1 ;
+        sh:message "Necessity must produce scientific determination" ;
+    ] .
+
+:OrganicUnityShape a sh:NodeShape ;
+    sh:targetClass :OrganicUnity ;
+    sh:property [
+        sh:path :unitesForms ;
+        sh:class :SyllogisticNecessity ;
+        sh:minCount 2 ;
+        sh:message "Organic unity must unite disjunctive and hypothetical forms" ;
+    ] ;
+    sh:property [
+        sh:path :producesInherence ;
+        sh:class :Inherence ;
+        sh:minCount 1 ;
+        sh:message "Organic unity must produce inherence" ;
+    ] .
+
+# Unity Rules
+
+:UnityFormationRule a spin:Rule ;
+    rdfs:label "Organic Unity Formation" ;
+    spin:body [
+        a sp:Construct ;
+        sp:text """
+            CONSTRUCT {
+                ?unity :synthesizes ?necessity .
+                ?necessity :produces ?inherence .
+            }
+            WHERE {
+                ?unity a :OrganicUnity .
+                ?unity :unifies ?disjunctive .
+                ?unity :unifies ?hypothetical .
+                ?disjunctive a :DisjunctiveNecessity .
+                ?hypothetical a :HypotheticalNecessity .
+                BIND(UUID() AS ?necessity)
+                BIND(UUID() AS ?inherence)
+            }
+        """
+    ] .
+
+# Process Protocols
+
+:ScientificDeterminationProtocol a :QueryProtocol ;
+    :hasQuery """
+        CONSTRUCT {
+            ?determination :hasNecessity ?necessity .
+            ?necessity :hasGround ?inherence .
+        }
+        WHERE {
+            {
+                SELECT ?determination ?necessity ?inherence
+                WHERE {
+                    ?determination a :ScientificDetermination .
+                    ?determination :requires ?necessity .
+                    ?necessity a :CategoricalNecessity .
+                    ?necessity :groundedIn ?inherence .
+                    FILTER EXISTS {
+                        ?inherence a :Inherence .
+                    }
+                }
+            }
+        }
+    """ .
+
+# Core Guna Division Structure
+
+:GunaSystem a owl:Class ;
+    rdfs:subClassOf :TranscendentalStructure ;
+    :hasDivisions (:Visesa :Avisesa :Lingamatra :Alinga) ;
+    rdfs:comment "The four-fold division of the Gunas" .
+
+# Mark System Structure
+
+:MarkSystem a owl:Class ;
+    rdfs:subClassOf :TranscendentalStructure ;
+    :operates (:Lingamatra :Alinga) ;
+    rdfs:comment "System of marks operating between lingamatra and alinga" .
+
+:Lingamatra a owl:Class ;
+    rdfs:subClassOf :MarkStructure ;
+    :corresponds :Savicara ;
+    rdfs:comment "The domain of marked essence" .
+
+:Alinga a owl:Class ;
+    rdfs:subClassOf :MarkStructure ;
+    :corresponds :Nirvicara ;
+    rdfs:comment "The unmarked absolute" .
+
+# Truth Determination Structure
+
+:TruthDetermination a owl:Class ;
+    rdfs:subClassOf :TranscendentalOperation ;
+    :hasTypes (:NearTruth :ConcludingTruth) .
+
+:NearTruth a owl:Class ;
+    rdfs:subClassOf :TruthDetermination ;
+    :operatesIn :Lingamatra ;
+    :manifests :Savicara ;
+    rdfs:comment "Truth determination through marked essence" .
+
+:ConcludingTruth a owl:Class ;
+    rdfs:subClassOf :TruthDetermination ;
+    :operatesIn :Alinga ;
+    :manifests :Nirvicara ;
+    rdfs:comment "Truth determination through unmarked absolute" .
+
+# Validation Rules
+
+:MarkValidationShape a sh:NodeShape ;
+    sh:targetClass :MarkSystem ;
+    sh:property [
+        sh:path :hasLingamatra ;
+        sh:class :Lingamatra ;
+        sh:minCount 1 ;
+        sh:message "Must have marked essence domain" ;
+    ] ;
+    sh:property [
+        sh:path :hasAlinga ;
+        sh:class :Alinga ;
+        sh:minCount 1 ;
+        sh:message "Must have unmarked absolute domain" ;
+    ] .
+
+:TruthValidationShape a sh:NodeShape ;
+    sh:targetClass :TruthDetermination ;
+    sh:property [
+        sh:path :operatesIn ;
+        sh:class :MarkStructure ;
+        sh:minCount 1 ;
+        sh:message "Must operate in mark structure domain" ;
+    ] ;
+    sh:property [
+        sh:path :producesTruth ;
+        sh:class :Truth ;
+        sh:minCount 1 ;
+        sh:message "Must produce truth determination" ;
+    ] .
+
+# Integration Rules
+
+:MarkIntegrationRule a spin:Rule ;
+    rdfs:label "Mark System Integration" ;
+    spin:body [
+        a sp:Construct ;
+        sp:text """
+            CONSTRUCT {
+                ?system :integrates ?marked .
+                ?marked :leadsTo ?unmarked .
+            }
+            WHERE {
+                ?system a :MarkSystem .
+                ?system :hasLingamatra ?marked .
+                ?system :hasAlinga ?unmarked .
+                FILTER EXISTS {
+                    ?marked a :Lingamatra .
+                    ?unmarked a :Alinga .
+                }
+            }
+        """
+    ] .
+
+# Principle Determination
+
+:PrincipleDetermination a owl:Class ;
+    rdfs:subClassOf :TranscendentalOperation ;
+    :groundsIn :Alinga ;
+    :manifestsThrough :Lingamatra ;
+    rdfs:comment "Determination of principles through mark system" .
+
+:PhenomenonValidation a owl:Class ;
+    rdfs:subClassOf :TranscendentalOperation ;
+    :requiresPrinciple :PrincipleDetermination ;
+    :validatesThrough :MarkSystem ;
+    rdfs:comment "Validation of phenomena through principled mark system" .
+
+# Process Protocol
+
+:MarkSystemProtocol a :QueryProtocol ;
+    :hasQuery """
+        CONSTRUCT {
+            ?system :determines ?truth .
+            ?truth :validates ?phenomenon .
+        }
+        WHERE {
+            {
+                SELECT ?system ?truth ?phenomenon
+                WHERE {
+                    ?system a :MarkSystem .
+                    ?system :operates ?mark .
+                    ?mark :produces ?truth .
+                    ?truth :validates ?phenomenon .
+                    FILTER EXISTS {
+                        ?mark a :MarkStructure .
+                        ?truth a :TruthDetermination .
+                    }
+                }
+            }
+        }
+    """ .
+
+# Core Guna Division Structure
+
+:GunaSystem a owl:Class ;
+    rdfs:subClassOf :TranscendentalStructure ;
+    :hasDivisions (:Visesa :Avisesa :Lingamatra :Alinga) ;
+    rdfs:comment "The four-fold division of the Gunas" .
+
+# Mark System Structure
+
+:MarkSystem a owl:Class ;
+    rdfs:subClassOf :TranscendentalStructure ;
+    :operates (:Lingamatra :Alinga) ;
+    rdfs:comment "System of marks operating between lingamatra and alinga" .
+
+:Lingamatra a owl:Class ;
+    rdfs:subClassOf :MarkStructure ;
+    :corresponds :Savicara ;
+    rdfs:comment "The domain of marked essence" .
+
+:Alinga a owl:Class ;
+    rdfs:subClassOf :MarkStructure ;
+    :corresponds :Nirvicara ;
+    rdfs:comment "The unmarked absolute" .
+
+# Truth Determination Structure
+
+:TruthDetermination a owl:Class ;
+    rdfs:subClassOf :TranscendentalOperation ;
+    :hasTypes (:NearTruth :ConcludingTruth) .
+
+:NearTruth a owl:Class ;
+    rdfs:subClassOf :TruthDetermination ;
+    :operatesIn :Lingamatra ;
+    :manifests :Savicara ;
+    rdfs:comment "Truth determination through marked essence" .
+
+:ConcludingTruth a owl:Class ;
+    rdfs:subClassOf :TruthDetermination ;
+    :operatesIn :Alinga ;
+    :manifests :Nirvicara ;
+    rdfs:comment "Truth determination through unmarked absolute" .
+
+# Validation Rules
+
+:MarkValidationShape a sh:NodeShape ;
+    sh:targetClass :MarkSystem ;
+    sh:property [
+        sh:path :hasLingamatra ;
+        sh:class :Lingamatra ;
+        sh:minCount 1 ;
+        sh:message "Must have marked essence domain" ;
+    ] ;
+    sh:property [
+        sh:path :hasAlinga ;
+        sh:class :Alinga ;
+        sh:minCount 1 ;
+        sh:message "Must have unmarked absolute domain" ;
+    ] .
+
+:TruthValidationShape a sh:NodeShape ;
+    sh:targetClass :TruthDetermination ;
+    sh:property [
+        sh:path :operatesIn ;
+        sh:class :MarkStructure ;
+        sh:minCount 1 ;
+        sh:message "Must operate in mark structure domain" ;
+    ] ;
+    sh:property [
+        sh:path :producesTruth ;
+        sh:class :Truth ;
+        sh:minCount 1 ;
+        sh:message "Must produce truth determination" ;
+    ] .
+
+# Integration Rules
+
+:MarkIntegrationRule a spin:Rule ;
+    rdfs:label "Mark System Integration" ;
+    spin:body [
+        a sp:Construct ;
+        sp:text """
+            CONSTRUCT {
+                ?system :integrates ?marked .
+                ?marked :leadsTo ?unmarked .
+            }
+            WHERE {
+                ?system a :MarkSystem .
+                ?system :hasLingamatra ?marked .
+                ?system :hasAlinga ?unmarked .
+                FILTER EXISTS {
+                    ?marked a :Lingamatra .
+                    ?unmarked a :Alinga .
+                }
+            }
+        """
+    ] .
+
+# Principle Determination
+
+:PrincipleDetermination a owl:Class ;
+    rdfs:subClassOf :TranscendentalOperation ;
+    :groundsIn :Alinga ;
+    :manifestsThrough :Lingamatra ;
+    rdfs:comment "Determination of principles through mark system" .
+
+:PhenomenonValidation a owl:Class ;
+    rdfs:subClassOf :TranscendentalOperation ;
+    :requiresPrinciple :PrincipleDetermination ;
+    :validatesThrough :MarkSystem ;
+    rdfs:comment "Validation of phenomena through principled mark system" .
+
+# Process Protocol
+
+:MarkSystemProtocol a :QueryProtocol ;
+    :hasQuery """
+        CONSTRUCT {
+            ?system :determines ?truth .
+            ?truth :validates ?phenomenon .
+        }
+        WHERE {
+            {
+                SELECT ?system ?truth ?phenomenon
+                WHERE {
+                    ?system a :MarkSystem .
+                    ?system :operates ?mark .
+                    ?mark :produces ?truth .
+                    ?truth :validates ?phenomenon .
+                    FILTER EXISTS {
+                        ?mark a :MarkStructure .
+                        ?truth a :TruthDetermination .
+                    }
+                }
+            }
+        }
+    """ .
+
+# Core Guna Division Structure
+
+:GunaSystem a owl:Class ;
+    rdfs:subClassOf :TranscendentalStructure ;
+    :hasDivisions (:Visesa :Avisesa :Lingamatra :Alinga) ;
+    rdfs:comment "The four-fold division of the Gunas" .
+
+# Mark System Structure
+
+:MarkSystem a owl:Class ;
+    rdfs:subClassOf :TranscendentalStructure ;
+    :operates (:Lingamatra :Alinga) ;
+    rdfs:comment "System of marks operating between lingamatra and alinga" .
+
+:Lingamatra a owl:Class ;
+    rdfs:subClassOf :MarkStructure ;
+    :corresponds :Savicara ;
+    rdfs:comment "The domain of marked essence" .
+
+:Alinga a owl:Class ;
+    rdfs:subClassOf :MarkStructure ;
+    :corresponds :Nirvicara ;
+    rdfs:comment "The unmarked absolute" .
+
+# Truth Determination Structure
+
+:TruthDetermination a owl:Class ;
+    rdfs:subClassOf :TranscendentalOperation ;
+    :hasTypes (:NearTruth :ConcludingTruth) .
+
+:NearTruth a owl:Class ;
+    rdfs:subClassOf :TruthDetermination ;
+    :operatesIn :Lingamatra ;
+    :manifests :Savicara ;
+    rdfs:comment "Truth determination through marked essence" .
+
+:ConcludingTruth a owl:Class ;
+    rdfs:subClassOf :TruthDetermination ;
+    :operatesIn :Alinga ;
+    :manifests :Nirvicara ;
+    rdfs:comment "Truth determination through unmarked absolute" .
+
+# Validation Rules
+
+:MarkValidationShape a sh:NodeShape ;
+    sh:targetClass :MarkSystem ;
+    sh:property [
+        sh:path :hasLingamatra ;
+        sh:class :Lingamatra ;
+        sh:minCount 1 ;
+        sh:message "Must have marked essence domain" ;
+    ] ;
+    sh:property [
+        sh:path :hasAlinga ;
+        sh:class :Alinga ;
+        sh:minCount 1 ;
+        sh:message "Must have unmarked absolute domain" ;
+    ] .
+
+:TruthValidationShape a sh:NodeShape ;
+    sh:targetClass :TruthDetermination ;
+    sh:property [
+        sh:path :operatesIn ;
+        sh:class :MarkStructure ;
+        sh:minCount 1 ;
+        sh:message "Must operate in mark structure domain" ;
+    ] ;
+    sh:property [
+        sh:path :producesTruth ;
+        sh:class :Truth ;
+        sh:minCount 1 ;
+        sh:message "Must produce truth determination" ;
+    ] .
+
+# Integration Rules
+
+:MarkIntegrationRule a spin:Rule ;
+    rdfs:label "Mark System Integration" ;
+    spin:body [
+        a sp:Construct ;
+        sp:text """
+            CONSTRUCT {
+                ?system :integrates ?marked .
+                ?marked :leadsTo ?unmarked .
+            }
+            WHERE {
+                ?system a :MarkSystem .
+                ?system :hasLingamatra ?marked .
+                ?system :hasAlinga ?unmarked .
+                FILTER EXISTS {
+                    ?marked a :Lingamatra .
+                    ?unmarked a :Alinga .
+                }
+            }
+        """
+    ] .
+
+# Principle Determination
+
+:PrincipleDetermination a owl:Class ;
+    rdfs:subClassOf :TranscendentalOperation ;
+    :groundsIn :Alinga ;
+    :manifestsThrough :Lingamatra ;
+    rdfs:comment "Determination of principles through mark system" .
+
+:PhenomenonValidation a owl:Class ;
+    rdfs:subClassOf :TranscendentalOperation ;
+    :requiresPrinciple :PrincipleDetermination ;
+    :validatesThrough :MarkSystem ;
+    rdfs:comment "Validation of phenomena through principled mark system" .
+
+# Process Protocol
+
+:MarkSystemProtocol a :QueryProtocol ;
+    :hasQuery """
+        CONSTRUCT {
+            ?system :determines ?truth .
+            ?truth :validates ?phenomenon .
+        }
+        WHERE {
+            {
+                SELECT ?system ?truth ?phenomenon
+                WHERE {
+                    ?system a :MarkSystem .
+                    ?system :operates ?mark .
+                    ?mark :produces ?truth .
+                    ?truth :validates ?phenomenon .
+                    FILTER EXISTS {
+                        ?mark a :MarkStructure .
+                        ?truth a :TruthDetermination .
+                    }
+                }
+            }
+        }
+    """ .
+
+# Core Guna Division Structure
+
+:GunaSystem a owl:Class ;
+    rdfs:subClassOf :TranscendentalStructure ;
+    :hasDivisions (:Visesa :Avisesa :Lingamatra :Alinga) ;
+    rdfs:comment "The four-fold division of the Gunas" .
+
+# Mark System Structure
+
+:MarkSystem a owl:Class ;
+    rdfs:subClassOf :TranscendentalStructure ;
+    :operates (:Lingamatra :Alinga) ;
+    rdfs:comment "System of marks operating between lingamatra and alinga" .
+
+:Lingamatra a owl:Class ;
+    rdfs:subClassOf :MarkStructure ;
+    :corresponds :Savicara ;
+    rdfs:comment "The domain of marked essence" .
+
+:Alinga a owl:Class ;
+    rdfs:subClassOf :MarkStructure ;
+    :corresponds :Nirvicara ;
+    rdfs:comment "The unmarked absolute" .
+
+# Truth Determination Structure
+
+:TruthDetermination a owl:Class ;
+    rdfs:subClassOf :TranscendentalOperation ;
+    :hasTypes (:NearTruth :ConcludingTruth) .
+
+:NearTruth a owl:Class ;
+    rdfs:subClassOf :TruthDetermination ;
+    :operatesIn :Lingamatra ;
+    :manifests :Savicara ;
+    rdfs:comment "Truth determination through marked essence" .
+
+:ConcludingTruth a owl:Class ;
+    rdfs:subClassOf :TruthDetermination ;
+    :operatesIn :Alinga ;
+    :manifests :Nirvicara ;
+    rdfs:comment "Truth determination through unmarked absolute" .
+
+# Validation Rules
+
+:MarkValidationShape a sh:NodeShape ;
+    sh:targetClass :MarkSystem ;
+    sh:property [
+        sh:path :hasLingamatra ;
+        sh:class :Lingamatra ;
+        sh:minCount 1 ;
+        sh:message "Must have marked essence domain" ;
+    ] ;
+    sh:property [
+        sh:path :hasAlinga ;
+        sh:class :Alinga ;
+        sh:minCount 1 ;
+        sh:message "Must have unmarked absolute domain" ;
+    ] .
+
+:TruthValidationShape a sh:NodeShape ;
+    sh:targetClass :TruthDetermination ;
+    sh:property [
+        sh:path :operatesIn ;
+        sh:class :MarkStructure ;
+        sh:minCount 1 ;
+        sh:message "Must operate in mark structure domain" ;
+    ] ;
+    sh:property [
+        sh:path :producesTruth ;
+        sh:class :Truth ;
+        sh:minCount 1 ;
+        sh:message "Must produce truth determination" ;
+    ] .
+
+# Integration Rules
+
+:MarkIntegrationRule a spin:Rule ;
+    rdfs:label "Mark System Integration" ;
+    spin:body [
+        a sp:Construct ;
+        sp:text """
+            CONSTRUCT {
+                ?system :integrates ?marked .
+                ?marked :leadsTo ?unmarked .
+            }
+            WHERE {
+                ?system a :MarkSystem .
+                ?system :hasLingamatra ?marked .
+                ?system :hasAlinga ?unmarked .
+                FILTER EXISTS {
+                    ?marked a :Lingamatra .
+                    ?unmarked a :Alinga .
+                }
+            }
+        """
+    ] .
+
+# Principle Determination
+
+:PrincipleDetermination a owl:Class ;
+    rdfs:subClassOf :TranscendentalOperation ;
+    :groundsIn :Alinga ;
+    :manifestsThrough :Lingamatra ;
+    rdfs:comment "Determination of principles through mark system" .
+
+:PhenomenonValidation a owl:Class ;
+    rdfs:subClassOf :TranscendentalOperation ;
+    :requiresPrinciple :PrincipleDetermination ;
+    :validatesThrough :MarkSystem ;
+    rdfs:comment "Validation of phenomena through principled mark system" .
+
+# Process Protocol
+
+:MarkSystemProtocol a :QueryProtocol ;
+    :hasQuery """
+        CONSTRUCT {
+            ?system :determines ?truth .
+            ?truth :validates ?phenomenon .
+        }
+        WHERE {
+            {
+                SELECT ?system ?truth ?phenomenon
+                WHERE {
+                    ?system a :MarkSystem .
+                    ?system :operates ?mark .
+                    ?mark :produces ?truth .
+                    ?truth :validates ?phenomenon .
+                    FILTER EXISTS {
+                        ?mark a :MarkStructure .
+                        ?truth a :TruthDetermination .
+                    }
+                }
+            }
+        }
+    """ .
+
+# Core Guna Division Structure
+
+:GunaSystem a owl:Class ;
+    rdfs:subClassOf :TranscendentalStructure ;
+    :hasDivisions (:Visesa :Avisesa :Lingamatra :Alinga) ;
+    rdfs:comment "The four-fold division of the Gunas" .
+
+# Mark System Structure
+
+:MarkSystem a owl:Class ;
+    rdfs:subClassOf :TranscendentalStructure ;
+    :operates (:Lingamatra :Alinga) ;
+    rdfs:comment "System of marks operating between lingamatra and alinga" .
+
+:Lingamatra a owl:Class ;
+    rdfs:subClassOf :MarkStructure ;
+    :corresponds :Savicara ;
+    rdfs:comment "The domain of marked essence" .
+
+:Alinga a owl:Class ;
+    rdfs:subClassOf :MarkStructure ;
+    :corresponds :Nirvicara ;
+    rdfs:comment "The unmarked absolute" .
+
+# Truth Determination Structure
+
+:TruthDetermination a owl:Class ;
+    rdfs:subClassOf :TranscendentalOperation ;
+    :hasTypes (:NearTruth :ConcludingTruth) .
+
+:NearTruth a owl:Class ;
+    rdfs:subClassOf :TruthDetermination ;
+    :operatesIn :Lingamatra ;
+    :manifests :Savicara ;
+    rdfs:comment "Truth determination through marked essence" .
+
+:ConcludingTruth a owl:Class ;
+    rdfs:subClassOf :TruthDetermination ;
+    :operatesIn :Alinga ;
+    :manifests :Nirvicara ;
+    rdfs:comment "Truth determination through unmarked absolute" .
+
+# Validation Rules
+
+:MarkValidationShape a sh:NodeShape ;
+    sh:targetClass :MarkSystem ;
+    sh:property [
+        sh:path :hasLingamatra ;
+        sh:class :Lingamatra ;
+        sh:minCount 1 ;
+        sh:message "Must have marked essence domain" ;
+    ] ;
+    sh:property [
+        sh:path :hasAlinga ;
+        sh:class :Alinga ;
+        sh:minCount 1 ;
+        sh:message "Must have unmarked absolute domain" ;
+    ] .
+
+:TruthValidationShape a sh:NodeShape ;
+    sh:targetClass :TruthDetermination ;
+    sh:property [
+        sh:path :operatesIn ;
+        sh:class :MarkStructure ;
+        sh:minCount 1 ;
+        sh:message "Must operate in mark structure domain" ;
+    ] ;
+    sh:property [
+        sh:path :producesTruth ;
+        sh:class :Truth ;
+        sh:minCount 1 ;
+        sh:message "Must produce truth determination" ;
+    ] .
+
+# Integration Rules
+
+:MarkIntegrationRule a spin:Rule ;
+    rdfs:label "Mark System Integration" ;
+    spin:body [
+        a sp:Construct ;
+        sp:text """
+            CONSTRUCT {
+                ?system :integrates ?marked .
+                ?marked :leadsTo ?unmarked .
+            }
+            WHERE {
+                ?system a :MarkSystem .
+                ?system :hasLingamatra ?marked .
+                ?system :hasAlinga ?unmarked .
+                FILTER EXISTS {
+                    ?marked a :Lingamatra .
+                    ?unmarked a :Alinga .
+                }
+            }
+        """
+    ] .
+
+# Principle Determination
+
+:PrincipleDetermination a owl:Class ;
+    rdfs:subClassOf :TranscendentalOperation ;
+    :groundsIn :Alinga ;
+    :manifestsThrough :Lingamatra ;
+    rdfs:comment "Determination of principles through mark system" .
+
+:PhenomenonValidation a owl:Class ;
+    rdfs:subClassOf :TranscendentalOperation ;
+    :requiresPrinciple :PrincipleDetermination ;
+    :validatesThrough :MarkSystem ;
+    rdfs:comment "Validation of phenomena through principled mark system" .
+
+# Process Protocol
+
+:MarkSystemProtocol a :QueryProtocol ;
+    :hasQuery """
+        CONSTRUCT {
+            ?system :determines ?truth .
+            ?truth :validates ?phenomenon .
+        }
+        WHERE {
+            {
+                SELECT ?system ?truth ?phenomenon
+                WHERE {
+                    ?system a :MarkSystem .
+                    ?system :operates ?mark .
+                    ?mark :produces ?truth .
+                    ?truth :validates ?phenomenon .
+                    FILTER EXISTS {
+                        ?mark a :MarkStructure .
+                        ?truth a :TruthDetermination .
+                    }
+                }
+            }
+        }
+    """ .
+
+# Core Disjunctive Structure
+
+:FundamentalDisjunction a owl:Class ;
+    rdfs:subClassOf :TranscendentalStructure ;
+    :hasTypes (:BeingThinkingDisjunction :CoordinateDisjunction) ;
+    rdfs:comment "The two fundamental disjunctions in Fichte's system" .
+
+:BeingThinkingDisjunction a owl:Class ;
+    rdfs:subClassOf :FundamentalDisjunction ;
+    :hasTerms (:Being :Thinking) ;
+    :unitedIn :Absoluteness ;
+    rdfs:comment "The primary disjunction of Being and Thinking" .
+
+:CoordinateDisjunction a owl:Class ;
+    rdfs:subClassOf :FundamentalDisjunction ;
+    :hasTerms (:XCoordinate :YCoordinate) ;
+    :unitedIn :Absoluteness ;
+    rdfs:comment "The coordinate disjunction in phenomenal manifestation" .
+
+# Light-Concept Structure
+
+:Light a owl:Class ;
+    rdfs:subClassOf :Being ;
+    :manifestsAs :PureLight ;
+    :negates :Concept ;
+    rdfs:comment "Being as pure living light" .
+
+:Concept a owl:Class ;
+    rdfs:subClassOf :Thinking ;
+    :manifestsAs :FormalConcept ;
+    :annihilatedIn :Light ;
+    rdfs:comment "Thinking as formal concept" .
+
+# Self-Intersection Structure
+
+:SelfIntersection a owl:Class ;
+    rdfs:subClassOf :TranscendentalUnity ;
+    :unites (:BeingThinkingDisjunction :CoordinateDisjunction) ;
+    :produces :AbsoluteI ;
+    rdfs:comment "The self-intersection of the fundamental disjunctions" .
+
+# Negation Structure
+
+:NegationProcess a owl:Class ;
+    rdfs:subClassOf :TranscendentalOperation ;
+    :operates (:Concept :I) ;
+    :producesInLight :PureBeing ;
+    rdfs:comment "The process of negation in pure light" .
+
+:ConceptualNegation a owl:Class ;
+    rdfs:subClassOf :NegationProcess ;
+    :negatesConcept :FormalConcept ;
+    :revealsLight :PureLight .
+
+:INegation a owl:Class ;
+    rdfs:subClassOf :NegationProcess ;
+    :negatesI :EmpiricalI ;
+    :revealsAbsolute :AbsoluteI .
+
+# Validation Rules
+
+:DisjunctionValidationShape a sh:NodeShape ;
+    sh:targetClass :FundamentalDisjunction ;
+    sh:property [
+        sh:path :unitesWith ;
+        sh:class :Absoluteness ;
+        sh:minCount 1 ;
+        sh:message "Must unite in absoluteness" ;
+    ] ;
+    sh:property [
+        sh:path :intersectsWith ;
+        sh:class :SelfIntersection ;
+        sh:minCount 1 ;
+        sh:message "Must participate in self-intersection" ;
+    ] .
+
+# Living Light Process
+
+:LivingLightProcess a owl:Class ;
+    rdfs:subClassOf :TranscendentalOperation ;
+    :negatesFormal :FormalConcept ;
+    :revealsAbsolute :PureBeing ;
+    :manifestsThrough :SelfIntersection ;
+    rdfs:comment "The process of living light revealing pure being through self-intersection" .
+
+# Integration Protocol
+
+:SelfIntersectionProtocol a :QueryProtocol ;
+    :hasQuery """
+        CONSTRUCT {
+            ?intersection :unites ?disjunction1 .
+            ?intersection :unites ?disjunction2 .
+            ?intersection :produces ?absolute .
+        }
+        WHERE {
+            ?intersection a :SelfIntersection .
+            ?disjunction1 a :BeingThinkingDisjunction .
+            ?disjunction2 a :CoordinateDisjunction .
+            FILTER NOT EXISTS {
+                ?disjunction1 owl:sameAs ?disjunction2
+            }
+            BIND(UUID() AS ?absolute)
+        }
+    """ .
+
+# Absolute Position
+
+:AbsolutePosition a owl:Class ;
+    rdfs:subClassOf :TranscendentalStructure ;
+    :unites (:Light :SelfIntersection) ;
+    :transcends (:Being :Thinking) ;
+    rdfs:comment "The absolute position that unites light and self-intersection" .
+
+# Central Channel Structure
+
+:CentralChannel a owl:Class ;
+    rdfs:subClassOf :TranscendentalStructure ;
+    :manifests :RajasicDharma ;
+    :unites (:InnerExpression :OuterExpression) ;
+    rdfs:comment "The central channel uniting inner and outer expression" .
+
+:RajasicDharma a owl:Class ;
+    rdfs:subClassOf :DharmaStructure ;
+    :operates :CentralChannel ;
+    :balances (:InnerLight :OuterLight) ;
+    rdfs:comment "The central dharmic principle operating through Sushumna" .
+
+# Light Expression Structure
+
+:LightExpression a owl:Class ;
+    rdfs:subClassOf :TranscendentalExpression ;
+    :hasTypes (:InnerExpression :OuterExpression) .
+
+:InnerExpression a owl:Class ;
+    rdfs:subClassOf :LightExpression ;
+    :conditions [
+        a owl:Class ;
+        rdfs:subClassOf :ConditionalStructure ;
+        :negatesConcept true ;
+        :positsAbsoluteBeing true
+    ] ;
+    rdfs:comment "Inner expression of light through concept negation" .
+
+:OuterExpression a owl:Class ;
+    rdfs:subClassOf :LightExpression ;
+    :manifests [
+        a owl:Class ;
+        rdfs:subClassOf :ManifestationStructure ;
+        :objectifiesLight true ;
+        :enablesInsight true
+    ] ;
+    rdfs:comment "Outer expression of light through objective insight" .
+
+# Abstraction Process
+
+:AbstractionProcess a owl:Class ;
+    rdfs:subClassOf :TranscendentalOperation ;
+    :produces :ScienceOfKnowing ;
+    :operates :OuterExpression ;
+    :hasStages (
+        :InitialAbstraction
+        :SelfPresentingInsight
+        :GeneticExamination
+    ) .
+
+:InitialAbstraction a owl:Class ;
+    rdfs:subClassOf :AbstractionProcess ;
+    :abstractsFrom :ObjectiveKnowing ;
+    :risesToward :AbsoluteInsight .
+
+:SelfPresentingInsight a owl:Class ;
+    rdfs:subClassOf :AbstractionProcess ;
+    :reveals :EternalSameness ;
+    :throughVariation true .
+
+:GeneticExamination a owl:Class ;
+    rdfs:subClassOf :AbstractionProcess ;
+    :examines :InsightItself ;
+    :produces :DeepUnderstanding .
+
+# Validation Rules
+
+:CentralChannelShape a sh:NodeShape ;
+    sh:targetClass :CentralChannel ;
+    sh:property [
+        sh:path :unitesExpressions ;
+        sh:class :LightExpression ;
+        sh:minCount 2 ;
+        sh:message "Must unite inner and outer expressions" ;
+    ] ;
+    sh:property [
+        sh:path :manifestsDharma ;
+        sh:class :RajasicDharma ;
+        sh:minCount 1 ;
+        sh:message "Must manifest rajasic dharma" ;
+    ] .
+
+# Integration Process
+
+:LightIntegrationProcess a owl:Class ;
+    rdfs:subClassOf :TranscendentalOperation ;
+    :operates :CentralChannel ;
+    :unites (:InnerExpression :OuterExpression) ;
+    :produces :UnifiedLight .
+
+# Science Formation
+
+:ScienceOfKnowing a owl:Class ;
+    rdfs:subClassOf :TranscendentalScience ;
+    :requiresProcess :AbstractionProcess ;
+    :operatesThroughChannel :CentralChannel ;
+    :achievesUnity :AbsoluteKnowing .
+
+# Process Protocol
+
+:CentralChannelProtocol a :QueryProtocol ;
+    :hasQuery """
+        CONSTRUCT {
+            ?channel :unites ?inner .
+            ?channel :unites ?outer .
+            ?channel :produces ?unity .
+        }
+        WHERE {
+            ?channel a :CentralChannel .
+            ?inner a :InnerExpression .
+            ?outer a :OuterExpression .
+            BIND(UUID() AS ?unity)
+        }
+    """ .
+
+# Alinga Structure
+
+:AlingaStructure a owl:Class ;
+    rdfs:subClassOf :TranscendentalStructure ;
+    :manifests (:UnconditionalLight :ConceptualLight) ;
+    rdfs:comment "The unmarked structure manifesting light's dual existence" .
+
+:UnconditionalLight a owl:Class ;
+    rdfs:subClassOf :AlingaStructure ;
+    :characteristics [
+        a owl:Class ;
+        rdfs:subClassOf :LightCharacter ;
+        :isEternallyIdentical true ;
+        :isThoroughlyNecessary true ;
+        :isInconceivable true ;
+        :isImmediateInItself true
+    ] ;
+    rdfs:comment "Light's immediate self-existence independent of realization" .
+
+:ConceptualLight a owl:Class ;
+    rdfs:subClassOf :AlingaStructure ;
+    :characteristics [
+        a owl:Class ;
+        rdfs:subClassOf :LightCharacter ;
+        :isMediate true ;
+        :isExternal true ;
+        :isDependentOnConcept true ;
+        :isConceivable true
+    ] ;
+    rdfs:comment "Light's mediate existence through conceptual determination" .
+
+# Existence Modes
+
+:LightExistenceMode a owl:Class ;
+    rdfs:subClassOf :TranscendentalMode ;
+    :hasTypes (:ImmediateMode :MediateMode) .
+
+:ImmediateMode a owl:Class ;
+    rdfs:subClassOf :LightExistenceMode ;
+    :corresponds :UnconditionalLight ;
+    :isIndependentOf :Realization .
+
+:MediateMode a owl:Class ;
+    rdfs:subClassOf :LightExistenceMode ;
+    :corresponds :ConceptualLight ;
+    :requiresConcept true .
+
+# Inconceivability Structure
+
+:Inconceivability a owl:Class ;
+    rdfs:subClassOf :TranscendentalCharacter ;
+    :characterizes :UnconditionalLight ;
+    :transcends :Realization ;
+    rdfs:comment "The absolute inconceivability of light's inner life" .
+
+# Necessity Structure
+
+:AbsoluteNecessity a owl:Class ;
+    rdfs:subClassOf :TranscendentalCharacter ;
+    :characterizes :UnconditionalLight ;
+    :isIndependentOf :Insight ;
+    rdfs:comment "The thorough necessity of light's unconditional existence" .
+
+# Validation Rules
+
+:AlingaValidationShape a sh:NodeShape ;
+    sh:targetClass :AlingaStructure ;
+    sh:property [
+        sh:path :manifestsLight ;
+        sh:class :LightExistenceMode ;
+        sh:minCount 2 ;
+        sh:message "Must manifest both immediate and mediate modes" ;
+    ] ;
+    sh:property [
+        sh:path :preservesUnity ;
+        sh:class :EternalIdentity ;
+        sh:minCount 1 ;
+        sh:message "Must preserve eternal self-identity" ;
+    ] .
+
+# Integration Process
+
+:DualityIntegrationProcess a owl:Class ;
+    rdfs:subClassOf :TranscendentalOperation ;
+    :unites (:ImmediateMode :MediateMode) ;
+    :preserves :EternalIdentity ;
+    :maintainsInconceivability true .
+
+# Eternal Identity
+
+:EternalIdentity a owl:Class ;
+    rdfs:subClassOf :TranscendentalCharacter ;
+    :unifies (:UnconditionalLight :ConceptualLight) ;
+    :transcendsAppearance true ;
+    rdfs:comment "The eternal self-identity persisting through both modes" .
+
+# Process Protocol
+
+:AlingaProtocol a :QueryProtocol ;
+    :hasQuery """
+        CONSTRUCT {
+            ?structure :manifests ?immediate .
+            ?structure :manifests ?mediate .
+            ?structure :maintains ?identity .
+        }
+        WHERE {
+            ?structure a :AlingaStructure .
+            ?immediate a :ImmediateMode .
+            ?mediate a :MediateMode .
+            BIND(UUID() AS ?identity)
+        }
+    """ .
+
+# Transcendental Time Structure
+
+:TranscendentalTime a owl:Class ;
+    rdfs:subClassOf :AbsoluteForm ;
+    :determines :SubstancePersistence ;
+    :unifies (:PerceptibleSubstance :IntelligibleSubstance) ;
+    rdfs:comment "Light as transcendental time determination" .
+
+# Substance Types
+
+:SubstanceType a owl:Class ;
+    rdfs:subClassOf :TranscendentalStructure ;
+    :hasTypes (
+        :PerceptibleSubstance
+        :IntelligibleSubstance
+        :AbsoluteSubstance
+    ) .
+
+:PerceptibleSubstance a owl:Class ;
+    rdfs:subClassOf :SubstanceType ;
+    :corresponds :Being ;
+    :lacks :UnifiedModel ;
+    rdfs:comment "Being as perceptible substance" .
+
+:IntelligibleSubstance a owl:Class ;
+    rdfs:subClassOf :SubstanceType ;
+    :corresponds :Thinking ;
+    :hasUnifiedModel :TriadicStructure ;
+    rdfs:comment "Thinking as intelligible substance manifesting as science" .
+
+:AbsoluteSubstance a owl:Class ;
+    rdfs:subClassOf :SubstanceType ;
+    :corresponds :Light ;
+    :unites (:PerceptibleSubstance :IntelligibleSubstance) ;
+    rdfs:comment "Light as absolute substance uniting being and thinking" .
+
+# Triadic Structure
+
+:TriadicStructure a owl:Class ;
+    rdfs:subClassOf :ScientificForm ;
+    :characterizes :IntelligibleSubstance ;
+    :hasElements (
+        :UniversalMoment
+        :ParticularMoment
+        :SingularMoment
+    ) ;
+    rdfs:comment "The essential triadic form of scientific knowledge" .
+
+# Original Division
+
+:OriginalDivision a owl:Class ;
+    rdfs:subClassOf :TranscendentalOperation ;
+    :splits :Light ;
+    :into (:Being :Concept) ;
+    :characteristics [
+        a owl:Class ;
+        rdfs:subClassOf :DivisionCharacter ;
+        :isOriginal true ;
+        :isInexplicable true ;
+        :isPersistent true
+    ] .
+
+# Insight Structure
+
+:InsightStructure a owl:Class ;
+    rdfs:subClassOf :TranscendentalOperation ;
+    :follows :OriginalDivision ;
+    :reconstructs :Split ;
+    :maintainsInconceivability true .
+
+# Inconceivability Structure
+
+:InconceivabilityStructure a owl:Class ;
+    rdfs:subClassOf :TranscendentalCharacter ;
+    :hasTypes (:FormalInconceivability :MaterialInconceivability) .
+
+:FormalInconceivability a owl:Class ;
+    rdfs:subClassOf :InconceivabilityStructure ;
+    :concerns :OriginalDivision .
+
+:MaterialInconceivability a owl:Class ;
+    rdfs:subClassOf :InconceivabilityStructure ;
+    :concerns :LightContent .
+
+# Validation Rules
+
+:TriadicValidationShape a sh:NodeShape ;
+    sh:targetClass :TriadicStructure ;
+    sh:property [
+        sh:path :hasElements ;
+        sh:class :ScientificMoment ;
+        sh:minCount 3 ;
+        sh:maxCount 3 ;
+        sh:message "Must have exactly three scientific moments" ;
+    ] .
+
+# Science Formation
+
+:ScienceFormation a owl:Class ;
+    rdfs:subClassOf :TranscendentalOperation ;
+    :requires :TriadicStructure ;
+    :manifestsIn :IntelligibleSubstance ;
+    :preserves :InconceivabilityStructure .
+
+# Process Protocol
+
+:SubstanceProtocol a :QueryProtocol ;
+    :hasQuery """
+        CONSTRUCT {
+            ?light :divides ?substances .
+            ?substances :forms ?science .
+            ?science :maintains ?inconceivability .
+        }
+        WHERE {
+            ?light a :AbsoluteSubstance .
+            ?substances a :SubstanceType .
+            ?science a :TriadicStructure .
+            BIND(UUID() AS ?inconceivability)
+        }
+    """ .
+
+# Absolute Light Structure
+
+:AbsoluteLight a owl:Class ;
+    rdfs:subClassOf :TranscendentalGround ;
+    :characteristics [
+        a owl:Class ;
+        rdfs:subClassOf :AbsoluteCharacter ;
+        :isSelfliving true ;
+        :transcendsSplit true ;
+        :isImmediateLiving true ;
+        :isPureIdentity true
+    ] ;
+    rdfs:comment "Light as absolute self-living beyond all splits" .
+
+# Pure Living Structure
+
+:PureLiving a owl:Class ;
+    rdfs:subClassOf :AbsoluteReality ;
+    :characteristics [
+        a owl:Class ;
+        rdfs:subClassOf :LivingCharacter ;
+        :isFromItself true ;
+        :isOutOfItself true ;
+        :isThroughItself true ;
+        :hasNoSplit true
+    ] .
+
+# Insight Structure
+
+:InsightIntoLight a owl:Class ;
+    rdfs:subClassOf :TranscendentalOperation ;
+    :contains :BeingThinkingSplit ;
+    :isSecondary true ;
+    :isRepresentational true .
+
+# Negation Process
+
+:AbsoluteNegation a owl:Class ;
+    rdfs:subClassOf :TranscendentalOperation ;
+    :negates (:Concept :LightAsForm :Being) ;
+    :reveals :AbsoluteReality .
+
+# Reality Structure
+
+:AbsoluteReality a owl:Class ;
+    rdfs:subClassOf :TranscendentalGround ;
+    :isOneWith :AbsoluteLight ;
+    :groundsAppearance :PhenomenalBeing ;
+    :groundsNonexistence :PhenomenalNonbeing .
+
+# Death-Life Dialectic
+
+:DeathLifeDialectic a owl:Class ;
+    rdfs:subClassOf :TranscendentalMovement ;
+    :pursuesDeath :UltimateResort ;
+    :arrivesAt :AbsoluteLife ;
+    :operatesThrough :Light .
+
+# Reality Form
+
+:RealityForm a owl:Class ;
+    rdfs:subClassOf :TranscendentalForm ;
+    :isGraveyardOf :Concept ;
+    :opensIn :Light ;
+    :manifestsAs :ConceptualDeath .
+
+# Validation Rules
+
+:LightValidationShape a sh:NodeShape ;
+    sh:targetClass :AbsoluteLight ;
+    sh:property [
+        sh:path :hasCharacter ;
+        sh:class :AbsoluteCharacter ;
+        sh:minCount 1 ;
+        sh:message "Must have absolute character" ;
+    ] ;
+    sh:property [
+        sh:path :transcendsSplit ;
+        sh:hasValue true ;
+        sh:message "Must transcend all splits" ;
+    ] .
+
+# Process Protocol
+
+:AbsoluteLightProtocol a :QueryProtocol ;
+    :hasQuery """
+        CONSTRUCT {
+            ?light :lives ?living .
+            ?living :grounds ?reality .
+            ?reality :opens ?manifestation .
+        }
+        WHERE {
+            ?light a :AbsoluteLight .
+            ?living a :PureLiving .
+            ?reality a :AbsoluteReality .
+            BIND(UUID() AS ?manifestation)
+        }
+    """ .
+
+# Integration Structure
+
+:AbsoluteIntegration a owl:Class ;
+    rdfs:subClassOf :TranscendentalOperation ;
+    :unites (:AbsoluteLight :AbsoluteReality) ;
+    :transcends (:BeingThinkingSplit :InsightRepresentation) ;
+    :produces :LivingUnity .
+
+# Core Reciprocal Structure
+
+:ReciprocalStructure a owl:Class ;
+    rdfs:subClassOf :TranscendentalStructure ;
+    :hasDirections (:RealisticDirection :IdealisticDirection) ;
+    :producesUnity :AbsoluteJnana ;
+    rdfs:comment "The reciprocal structure of vitarka-vicara and vicara-vitarka" .
+
+# Realistic Direction
+
+:RealisticDirection a owl:Class ;
+    rdfs:subClassOf :DirectionalStructure ;
+    :hasSequence (:Vitarka :Vicara :Prajna) ;
+    :manifestsAs :AbsoluteUnconditioned ;
+    rdfs:comment "The realistic movement from vitarka through vicara to prajna" .
+
+# Idealistic Direction
+
+:IdealisticDirection a owl:Class ;
+    rdfs:subClassOf :DirectionalStructure ;
+    :hasSequence (:Vicara :Vitarka :Dharma) ;
+    :manifestsAs :RelativeUnconditioned ;
+    rdfs:comment "The idealistic movement from vicara through vitarka to dharma" .
+
+# Sequence Integration
+
+:SequenceIntegration a owl:Class ;
+    rdfs:subClassOf :TranscendentalOperation ;
+    :integrates (:Prajna :Dharma) ;
+    :produces :Jnana ;
+    :throughReciprocity true .
+
+# Unconditioned Structure
+
+:UnconditionedStructure a owl:Class ;
+    rdfs:subClassOf :TranscendentalStructure ;
+    :hasTypes (:AbsoluteUnconditioned :RelativeUnconditioned) ;
+    :unitesIn :Jnana .
+
+# Dependent Origination
+
+:DependentOrigination a owl:Class ;
+    rdfs:subClassOf :TranscendentalOperation ;
+    :hasDirections [
+        a owl:Class ;
+        rdfs:subClassOf :OriginationDirection ;
+        :factsFromVicara true ;
+        :vicaraFromFacts true
+    ] .
+
+# Reciprocity Operation
+
+:ReciprocityOperation a owl:Class ;
+    rdfs:subClassOf :TranscendentalOperation ;
+    :interweaves (:VitarkaVicara :VicaraVitarka) ;
+    :produces :JnanaSynthesis .
+
+# Validation Rules
+
+:ReciprocityShape a sh:NodeShape ;
+    sh:targetClass :ReciprocalStructure ;
+    sh:property [
+        sh:path :hasDirections ;
+        sh:class :DirectionalStructure ;
+        sh:minCount 2 ;
+        sh:message "Must have both realistic and idealistic directions" ;
+    ] ;
+    sh:property [
+        sh:path :producesUnity ;
+        sh:class :AbsoluteJnana ;
+        sh:minCount 1 ;
+        sh:message "Must produce absolute jnana" ;
+    ] .
+
+# Sequence Protocol
+
+:SequenceProtocol a :QueryProtocol ;
+    :hasQuery """
+        CONSTRUCT {
+            ?structure :interweaves ?realistic .
+            ?structure :interweaves ?idealistic .
+            ?structure :produces ?jnana .
+        }
+        WHERE {
+            ?structure a :ReciprocalStructure .
+            ?realistic a :RealisticDirection .
+            ?idealistic a :IdealisticDirection .
+            BIND(UUID() AS ?jnana)
+        }
+    """ .
+
+# Jnana Solution
+
+:JnanaSolution a owl:Class ;
+    rdfs:subClassOf :TranscendentalAchievement ;
+    :emergesFrom [
+        a owl:Class ;
+        rdfs:subClassOf :EmergenceStructure ;
+        :recognizesReciprocity true ;
+        :locatesAbsolute true ;
+        :synthesizesDirections true
+    ] ;
+    rdfs:comment "The solution for Jnana through understanding reciprocity" .
+
+# Original Light Structure
+
+:OriginalLight a owl:Class ;
+    rdfs:subClassOf :TranscendentalGround ;
+    :characteristics [
+        a owl:Class ;
+        rdfs:subClassOf :LightCharacter ;
+        :isUnconditionallyOne true ;
+        :isSelfSame true ;
+        :transcendsDivision true ;
+        :isNotPart true ;
+        :isTrueEssence true
+    ] .
+
+# Conceptual Division Structure
+
+:ConceptualDivision a owl:Class ;
+    rdfs:subClassOf :TranscendentalStructure ;
+    :hasComponents (:BeingThinking :Concept :Light) ;
+    :isSecondaryTo :OriginalLight ;
+    rdfs:comment "The B-T + C + L structure of conceptual division" .
+
+# Self-Conceiving Structure
+
+:SelfConceiving a owl:Class ;
+    rdfs:subClassOf :TranscendentalOperation ;
+    :hasLimits true ;
+    :conceivesLimit true ;
+    :pointsBeyond :PureLivingLight .
+
+# Division Analysis
+
+:DivisionAnalysis a owl:Class ;
+    rdfs:subClassOf :TranscendentalOperation ;
+    :analyzesComponents (:BeingThinking :Concept) ;
+    :excludes :Light ;
+    :maintainsIdentity true .
+
+# Experience Structure
+
+:DivineExperience a owl:Class ;
+    rdfs:subClassOf :TranscendentalExperience ;
+    :transcendsAppearances true ;
+    :containsNewness true ;
+    :manifestsLife true .
+
+# Unity-Division Relation
+
+:UnityDivisionRelation a owl:Class ;
+    rdfs:subClassOf :TranscendentalRelation ;
+    :unites [
+        a owl:Class ;
+        rdfs:subClassOf :RelationStructure ;
+        :primaryUnity :OriginalLight ;
+        :secondaryDivision :ConceptualDivision ;
+        :maintainsHierarchy true
+    ] .
+
+# Limit Structure
+
+:ConceptualLimit a owl:Class ;
+    rdfs:subClassOf :TranscendentalLimit ;
+    :recognizedBy :SelfConceiving ;
+    :pointsTo :PureLivingLight ;
+    :cannotTransgress true .
+
+# Reality Protocol
+
+:RealityProtocol a :QueryProtocol ;
+    :hasQuery """
+        CONSTRUCT {
+            ?reality :maintainsUnity ?light .
+            ?reality :allowsDivision ?concept .
+            ?concept :recognizesLimit ?limit .
+        }
+        WHERE {
+            ?reality a :TranscendentalReality .
+            ?light a :OriginalLight .
+            ?concept a :ConceptualDivision .
+            BIND(UUID() AS ?limit)
+        }
+    """ .
+
+# Validation Rules
+
+:LightValidationShape a sh:NodeShape ;
+    sh:targetClass :OriginalLight ;
+    sh:property [
+        sh:path :isOne ;
+        sh:hasValue true ;
+        sh:message "Light must maintain perfect unity" ;
+    ] ;
+    sh:property [
+        sh:path :transcendsDivision ;
+        sh:hasValue true ;
+        sh:message "Light must transcend all division" ;
+    ] .
+
+# Divine Life Integration
+
+:DivineLiveIntegration a owl:Class ;
+    rdfs:subClassOf :TranscendentalOperation ;
+    :unites (:OriginalLight :DivineExperience) ;
+    :transcends :ConceptualDivision ;
+    :achieves :AbsoluteLife .
+
+# Quantum Chakra Element
+
+:QuantumChakra a owl:Class ;
+    rdfs:subClassOf :TranscendentalStructure ;
+    :integrates [
+        a owl:Class ;
+        rdfs:subClassOf :ChakraStructure ;
+        :unityElement :OriginalLight ;
+        :divisionElement :ConceptualDivision ;
+        :limitElement :ConceptualLimit ;
+        :experienceElement :DivineExperience ;
+        :isContradictionResistant true
+    ] .

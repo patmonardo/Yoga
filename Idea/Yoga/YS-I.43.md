@@ -43,7 +43,6 @@
         -   Observing light leads to its objectification, making it alienated from the observer.
         -   This process reduces the light to something primordial, detached from its intrinsic essence.
     -   **Framework Alignment:**
-        -   **Manas (Lower Mind):** Processes empirical data, which in this case involves the sensory perception of light.
         -   **Buddhi (Higher Intellect):** Facilitates reasoning that can transcend mere objectification, aiming for pure understanding.
         -   **Consequentia Protocol (Essence):** Seeks to move beyond objectified perceptions to grasp the essence of concepts.
 ### 3.  **Inward Occurrence of Observation:**
@@ -58,7 +57,6 @@
         -   Light within us exists not directly but through a representative or proxy.
         -   This mediation leads to the alienation and "killing" of the light's primordial essence.
     -   **Framework Alignment:**
-        -   **Manas (Lower Mind):** Engages with proxies and representations, processing external stimuli.
         -   **Buddhi (Higher Intellect):** Aims to pierce through these proxies to access pure consciousness (**nirvitarka**).
 
 ------------------------------------------------------------------------
@@ -70,7 +68,6 @@
         -   Images lack intrinsic self-sufficiency and inherently point toward an external, primordial source.
         -   This highlights the dependency of representations on underlying essences or principles.
     -   **Framework Alignment:**
-        -   **Manas (Lower Mind):** Engages with images and proxies, which are dependent on underlying principles or essences.
         -   **Buddhi (Higher Intellect):** Seeks to uncover and understand these underlying principles, moving beyond mere representations to grasp the essence.
 ### 2.  **Manifestness: Factical vs. Conceptual:**
     -   **Fichte's Perspective:**
@@ -86,7 +83,6 @@
         -   An image cannot exist without something being imaged, and vice versa.
         -   This underscores the necessity of both the image and its object for meaningful existence.
     -   **Framework Alignment:**
-        -   **Manas and Buddhi:** Illustrate the relationship between representations (images) and their underlying essences.
         -   **Laws of Citta:** Govern the balance between unity and separation, ensuring that neither overwhelms the other in the synthesis process.
         -   **Nirvitarka Samapatti:** Achieved by understanding and transcending the mutual dependencies of images and essences, leading to pure consciousness.
 
@@ -106,7 +102,6 @@
         -   The essence of thinking cannot be directly shared between the thinker and the observed.
         -   **Constructive Sharing:** Thought can be communicated indirectly by constructing it either from a concept leading to an image or from an image leading to a concept.
     -   **Framework Alignment:**
-        -   **Manas (Lower Mind):** Engages with representations and proxies, which are attempts to communicate or share thought.
         -   **Buddhi (Higher Intellect):** Strives to reconstruct the essence of thought beyond mere representations, aligning with **nirvitarka**'s pursuit of pure consciousness.
 ### 3.  **Conceptual Equivalence:**
     -   **Fichte's Inquiry:**
@@ -139,7 +134,6 @@
         -   **Necessity of Separation:** While oneness is preserved, the act of thinking introduces a necessary, inessential separation.
         -   **Non-Impact on Essence:** This separation does not compromise the unified essence.
     -   **Framework Alignment:**
-        -   **Manas (Lower Mind):** Engages in necessary separations for processing without affecting the core essence.
         -   **Buddhi (Higher Intellect):** Ensures that these separations remain inessential and do not distort the unified consciousness.
         -   **Laws of Citta:** Maintain the balance between unity and necessary separation, facilitating seamless synthesis.
 
@@ -164,7 +158,6 @@
         -   **Objective Disjunction:** Clearly separates the original entity from its image, maintaining distinct identities.
         -   **Subjective-Objective Disjunction:** Blends subjective conception with objective representation, creating a more intertwined relationship.
     -   **Framework Alignment:**
-        -   **Manas (Lower Mind):** Engages with both objective and subjective aspects of representations, processing images and their conceptualizations.
         -   **Buddhi (Higher Intellect):** Navigates the complexities of disjunction, discerning between purely objective separations and those that blend subjective elements.
 #### 2.  **Philosophical Inquiry into Thinking:**
     -   **Fichte's Inquiry:** Questions whether different pathways of disjunction (objective vs. subjective-objective) result in distinct or unified thoughts.
@@ -184,7 +177,6 @@
         -   **Subjective-Objective Disjunction:** Involves a blend of subjective conception and objective representation.
         -   **Advantage:** Allows experiencing disjunction directly, enhancing the depth of understanding.
     -   **Framework Alignment:**
-        -   **Manas (Lower Mind):** Engages with both subjective and objective aspects of representations.
         -   **Buddhi (Higher Intellect):** Facilitates the integration of subjective and objective disjunctions, ensuring a comprehensive synthesis.
         -   **Laws of Citta:** Govern the balance between subjective and objective elements, promoting harmonious synthesis towards pure consciousness.
 #### 2.  **Concealed Oneness:**
@@ -289,7 +281,6 @@
 
 #### **1. Transition from Manas to Buddhi in Sabija Savitarka Samadhi**
 
--   **Manas (Consciousness):** Represents the lower mind, engaged in processing sensory data and maintaining everyday awareness.
 
 -   **Buddhi (Self-Consciousness):** Denotes the higher intellect, capable of self-reflection, discernment, and deeper understanding.
 
