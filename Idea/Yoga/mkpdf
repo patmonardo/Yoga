@@ -1,3 +1,0 @@
-#!/bin/bash
-
-pandoc -f markdown -t pdf YS-I.47V.md

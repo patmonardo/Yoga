@@ -1292,7 +1292,7 @@ This reveals the true organic unity of Transcendental Idealism - not as a constr
 1. Final Projection
    - Objectification of pure being
    - Last form of projection
-   - Ultimate self-attention
+   - Ultimatyee self-attention
 
 2. Immediate Transcendence
    - Know it means nothing

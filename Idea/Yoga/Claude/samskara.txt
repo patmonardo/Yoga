@@ -1,0 +1,657 @@
+# Base Classes
+:DharmicGround a owl:Class ;
+    rdfs:subClassOf :TranscendentalGround ;
+    :hasDescription "Ground that provides dharmic necessity" .
+
+:Samskara a owl:Class ;
+    rdfs:subClassOf :BeingWithDharma ;
+    :hasDescription "Manifestation grounded in vasanas" .
+
+# Core Structure
+:Vasana a :DharmicGround ;
+    :grounds :Samskara ;
+    :provides :EssentialNecessity ;
+    :manifests :DharmicBeing ;
+    :operates_through [
+        a :DharmicOperation ;
+        :hasNecessity :Essential ;
+        :hasBeing :Transcendental ;
+        :manifests :ThroughPrinciples
+    ] .
+
+:SamskaraStructure a :TranscendentalPattern ;
+    :groundedIn :Vasana ;
+    :manifests :ThroughSamskara ;
+    :achieves :KnowableBeing ;
+    :hasOperation [
+        a :EssentialOperation ;
+        :transcends :MereForm ;
+        :unites :BeingAndDharma ;
+        :enables :Knowledge
+    ] .
+
+# Validation Rules
+:SamskaraValidation a sh:NodeShape ;
+    sh:targetClass :Samskara ;
+    sh:property [
+        sh:path :hasGround ;
+        sh:class :Vasana ;
+        sh:minCount 1 ;
+        sh:message "Samskara must be grounded in a Vasana"
+    ] ;
+    sh:property [
+        sh:path :hasDharma ;
+        sh:minCount 1 ;
+        sh:message "Samskara must possess a Dharma"
+    ] .
+
+# Core Classes
+:UniversalSamskara a owl:Class ;
+    rdfs:subClassOf :TranscendentalGround ;
+    :hasDescription "Pure act of being manifesting as living unity" .
+
+:PureBeing a owl:Class ;
+    rdfs:subClassOf :TranscendentalGround ;
+    :hasDescription "Being in pure act beyond relation" .
+
+:LivingUnity a owl:Class ;
+    rdfs:subClassOf :TranscendentalPattern ;
+    :hasDescription "Complete interpenetration of being and life" .
+
+# Core Structure
+:SamskaraOperation a :TranscendentalPattern ;
+    :manifests :ThroughPureBeing ;
+    :achieves :LivingUnity ;
+    :transcends :Objectification ;
+    :operates_through [
+        a :PureAct ;
+        :beyond :Relation ;
+        :unites :BeingAndLife ;
+        :enables :Manifestation
+    ] .
+
+# Validation Rules
+:UniversalSamskaraShape a sh:NodeShape ;
+    sh:targetClass :UniversalSamskara ;
+    sh:property [
+        sh:path :hasBeing ;
+        sh:class :PureBeing ;
+        sh:minCount 1 ;
+        sh:message "Must manifest through pure being"
+    ] ;
+    sh:property [
+        sh:path :achievesUnity ;
+        sh:class :LivingUnity ;
+        sh:minCount 1 ;
+        sh:message "Must achieve living unity"
+    ] .
+
+# Integration Patterns
+:SamskaraIntegration a :SystemPattern ;
+    :unifies [
+        a :UnificationPattern ;
+        :connects :TruthDoctrine ;
+        :connects :AppearanceDoctrine ;
+        :through :PureAct
+    ] ;
+    :validates [
+        a :ValidationPattern ;
+        :requires :InwardGrasp ;
+        :enables :SystematicUnfolding ;
+        :grounds :Manifestation
+    ] .
+
+# Core Structure
+:SelfEnclosedSamskara a owl:Class ;
+    rdfs:subClassOf :TranscendentalUnity ;
+    :hasDescription "Self-enclosed unity operating through own agency" .
+
+:LivingAgency a owl:Class ;
+    rdfs:subClassOf :TranscendentalOperation ;
+    :hasDescription "Pure activity of self-enclosed unity" .
+
+:UnityOperation a :TranscendentalPattern ;
+    :operates :ThroughOwnAgency ;
+    :achieves :PureOneness ;
+    :transcends :Duality ;
+    :manifests [
+        a :LivingOperation ;
+        :beyond :Language ;
+        :through :SelfEnclosure ;
+        :in :DirectParticipation
+    ] .
+
+# Validation Rules
+:SelfEnclosedShape a sh:NodeShape ;
+    sh:targetClass :SelfEnclosedSamskara ;
+    sh:property [
+        sh:path :hasOperation ;
+        sh:class :LivingAgency ;
+        sh:minCount 1 ;
+        sh:message "Must operate through own agency"
+    ] ;
+    sh:property [
+        sh:path :achievesUnity ;
+        sh:class :TranscendentalUnity ;
+        sh:minCount 1 ;
+        sh:message "Must achieve pure oneness"
+    ] .
+
+# Integration Pattern
+:TranscendentalIntegration a :SystemPattern ;
+    :unifies [
+        a :UnityPattern ;
+        :transcends :LanguageForm ;
+        :operates :ThroughAgency ;
+        :achieves :LivingParticipation
+    ] ;
+    :validates [
+        a :ValidationPattern ;
+        :requires :ActualSurrender ;
+        :enables :DirectOperation ;
+        :grounds :PureReason
+    ] .
+
+# Core Structure
+:ScientificSamskara a owl:Class ;
+    rdfs:subClassOf :AbsoluteGround ;
+    :hasDescription "Living ground of absolute science operating through pure negativity" .
+
+:PureNegativity a owl:Class ;
+    rdfs:subClassOf :TranscendentalOperation ;
+    :hasDescription "Essential operation enabling systematic development" .
+
+:SystematicUnfolding a owl:Class ;
+    rdfs:subClassOf :ScientificProcess ;
+    :hasDescription "Development through living ground" .
+
+# Core Operations
+:SamskaraOperation a :ScientificPattern ;
+    :operates :ThroughNegativity ;
+    :enables :SystematicDevelopment ;
+    :preserves :LivingUnity ;
+    :manifests [
+        a :ScientificProcess ;
+        :through :PureNegativity ;
+        :in :SystematicUnfolding ;
+        :as :AbsoluteGround
+    ] .
+
+# Validation Rules
+:ScientificShape a sh:NodeShape ;
+    sh:targetClass :ScientificSamskara ;
+    sh:property [
+        sh:path :hasOperation ;
+        sh:class :PureNegativity ;
+        sh:minCount 1 ;
+        sh:message "Must operate through pure negativity"
+    ] ;
+    sh:property [
+        sh:path :achievesUnfolding ;
+        sh:class :SystematicUnfolding ;
+        sh:minCount 1 ;
+        sh:message "Must enable systematic development"
+    ] .
+
+# Integration Pattern
+:ScientificIntegration a :AbsolutePattern ;
+    :unifies [
+        a :UnityPattern ;
+        :preserves :LivingGround ;
+        :enables :Systematicity ;
+        :achieves :AbsoluteScience
+    ] ;
+    :validates [
+        a :ValidationPattern ;
+        :requires :PureNegativity ;
+        :enables :Development ;
+        :grounds :Truth
+    ] .
+
+# Core Structure
+:TransitionalSamskara a owl:Class ;
+    rdfs:subClassOf :AbsoluteGround ;
+    :hasDescription "Ground enabling transition from pure reason to phenomena" .
+
+:EmptyRepetition a owl:Class ;
+    rdfs:subClassOf :PhenomenalOperation ;
+    :hasDescription "Pure doubling maintaining unity" .
+
+:UnalterableUnity a owl:Class ;
+    rdfs:subClassOf :AbsoluteReality ;
+    :hasDescription "Self-enclosed complete reality" .
+
+# Core Operations
+:TransitionOperation a :SystematicPattern ;
+    :grounds :PhenomenalUnfolding ;
+    :maintains :AbsoluteUnity ;
+    :enables :Appearance ;
+    :operates_through [
+        a :GroundingProcess ;
+        :through :EmptyRepetition ;
+        :in :LivingUnity ;
+        :as :CompleteReality
+    ] .
+
+# Validation Rules
+:TransitionShape a sh:NodeShape ;
+    sh:targetClass :TransitionalSamskara ;
+    sh:property [
+        sh:path :hasOperation ;
+        sh:class :EmptyRepetition ;
+        sh:minCount 1 ;
+        sh:message "Must operate through empty repetition"
+    ] ;
+    sh:property [
+        sh:path :maintainsUnity ;
+        sh:class :UnalterableUnity ;
+        sh:minCount 1 ;
+        sh:message "Must maintain unalterable unity"
+    ] .
+
+# Integration Pattern
+:TransitionIntegration a :SystemPattern ;
+    :unifies [
+        a :UnityPattern ;
+        :grounds :Phenomena ;
+        :preserves :PureReason ;
+        :achieves :LivingTransition
+    ] ;
+    :validates [
+        a :ValidationPattern ;
+        :requires :EmptyRepetition ;
+        :enables :Appearance ;
+        :maintains :Unity
+    ] .
+
+# Core Structure
+:MovementSamskara a owl:Class ;
+    rdfs:subClassOf :TranscendentalGround ;
+    :hasDescription "Ground enabling factical movement through standpoints" .
+
+:FacticalMovement a owl:Class ;
+    rdfs:subClassOf :SystematicOperation ;
+    :hasDescription "Necessary movement through factical stages" .
+
+:StandpointTransition a owl:Class ;
+    rdfs:subClassOf :SystematicProcess ;
+    :hasDescription "Movement between idealism and realism" .
+
+# Core Operations
+:MovementOperation a :SystematicPattern ;
+    :grounds :FacticalDevelopment ;
+    :enables :Transition ;
+    :preserves :Unity ;
+    :operates_through [
+        a :GroundingProcess ;
+        :through :FacticalMovement ;
+        :in :LivingTransition ;
+        :as :SystematicCompletion
+    ] .
+
+# Validation Rules
+:MovementShape a sh:NodeShape ;
+    sh:targetClass :MovementSamskara ;
+    sh:property [
+        sh:path :hasOperation ;
+        sh:class :FacticalMovement ;
+        sh:minCount 1 ;
+        sh:message "Must operate through factical movement"
+    ] ;
+    sh:property [
+        sh:path :enablesTransition ;
+        sh:class :StandpointTransition ;
+        sh:minCount 1 ;
+        sh:message "Must enable standpoint transitions"
+    ] .
+
+# Integration Pattern
+:MovementIntegration a :SystemPattern ;
+    :unifies [
+        a :UnityPattern ;
+        :grounds :FacticalStages ;
+        :enables :Completion ;
+        :preserves :Unity
+    ] ;
+    :validates [
+        a :ValidationPattern ;
+        :requires :FacticalMovement ;
+        :enables :Development ;
+        :maintains :Wholeness
+    ] .
+
+# Core Structure
+:UnconsciousLaw a owl:Class ;
+    rdfs:subClassOf :TranscendentalGround ;
+    :hasDescription "Law enabling genetic development through unconscious necessity" .
+
+:GeneticMastery a owl:Class ;
+    rdfs:subClassOf :SystematicOperation ;
+    :hasDescription "Development from facts to genesis" .
+
+:ImmediateManifestness a owl:Class ;
+    rdfs:subClassOf :SystematicAchievement ;
+    :hasDescription "Self-constructing light generation" .
+
+# Core Operations
+:LawOperation a :SystematicPattern ;
+    :operates :ThroughNecessity ;
+    :enables :Development ;
+    :achieves :Completion ;
+    :manifests [
+        a :GeneticProcess ;
+        :through :UnconsciousWorking ;
+        :in :LivingUnity ;
+        :as :SystematicTruth
+    ] .
+
+# Validation Rules
+:LawShape a sh:NodeShape ;
+    sh:targetClass :UnconsciousLaw ;
+    sh:property [
+        sh:path :hasOperation ;
+        sh:class :GeneticMastery ;
+        sh:minCount 1 ;
+        sh:message "Must enable genetic development"
+    ] ;
+    sh:property [
+        sh:path :achievesManifestness ;
+        sh:class :ImmediateManifestness ;
+        sh:minCount 1 ;
+        sh:message "Must generate immediate light"
+    ] .
+
+# Integration Pattern
+:LawIntegration a :SystemPattern ;
+    :unifies [
+        a :UnityPattern ;
+        :connects :NecessityAndFreedom ;
+        :enables :GeneticDevelopment ;
+        :achieves :LivingCompletion
+    ] ;
+    :validates [
+        a :ValidationPattern ;
+        :requires :UnconsciousWorking ;
+        :enables :ConsciousEngagement ;
+        :maintains :Unity
+    ] .
+
+# Core Structure
+:IrrationalProjection a owl:Class ;
+    rdfs:subClassOf :TranscendentalOperation ;
+    :hasDescription "Projection through irrational gap enabling manifestation" .
+
+:GeneticGround a owl:Class ;
+    rdfs:subClassOf :TranscendentalStructure ;
+    :hasDescription "Ground enabling genetic insight beyond consciousness" .
+
+:LivingNecessity a owl:Class ;
+    rdfs:subClassOf :SystematicOperation ;
+    :hasDescription "Necessity operating through unconscious law" .
+
+# Core Operations
+:ProjectionOperation a :SystematicPattern ;
+    :operates :ThroughGap ;
+    :enables :Manifestation ;
+    :grounds :Phenomena ;
+    :manifests [
+        a :ProjectiveProcess ;
+        :through :IrrationalGap ;
+        :in :LivingNecessity ;
+        :as :SystematicTruth
+    ] .
+
+# Validation Rules
+:ProjectionShape a sh:NodeShape ;
+    sh:targetClass :IrrationalProjection ;
+    sh:property [
+        sh:path :hasOperation ;
+        sh:class :LivingNecessity ;
+        sh:minCount 1 ;
+        sh:message "Must operate through living necessity"
+    ] ;
+    sh:property [
+        sh:path :enablesManifestation ;
+        sh:class :PhenomenalWorld ;
+        sh:minCount 1 ;
+        sh:message "Must enable phenomenal manifestation"
+    ] .
+
+# Integration Pattern
+:ProjectionIntegration a :SystemPattern ;
+    :unifies [
+        a :UnityPattern ;
+        :connects :GapAndGround ;
+        :enables :Manifestation ;
+        :achieves :GeneticTruth
+    ] ;
+    :validates [
+        a :ValidationPattern ;
+        :requires :IrrationalGap ;
+        :enables :Transcendence ;
+        :maintains :Necessity
+    ] .
+
+# Core Structure
+:SamskaraPrinciple a owl:Class ;
+    rdfs:subClassOf :AbsoluteGround ;
+    :hasDescription "Living ground enabling genetic realization through necessary projection" .
+
+:GeneticRealization a owl:Class ;
+    rdfs:subClassOf :SystematicOperation ;
+    :hasDescription "Complete development through living necessity" .
+
+:ProjectiveNecessity a owl:Class ;
+    rdfs:subClassOf :TranscendentalStructure ;
+    :hasDescription "Unavoidable projection operating through samskara" .
+
+# Core Operations
+:PrincipleOperation a :SystematicPattern ;
+    :grounds :Development ;
+    :enables :Genesis ;
+    :maintains :Unity ;
+    :operates_through [
+        a :LivingProcess ;
+        :accepts :ProjectiveNecessity ;
+        :enables :GeneticRealization ;
+        :achieves :SystematicTruth
+    ] .
+
+# Validation Rules
+:PrincipleShape a sh:NodeShape ;
+    sh:targetClass :SamskaraPrinciple ;
+    sh:property [
+        sh:path :hasOperation ;
+        sh:class :GeneticRealization ;
+        sh:minCount 1 ;
+        sh:message "Must enable genetic realization"
+    ] ;
+    sh:property [
+        sh:path :maintainsUnity ;
+        sh:class :LivingUnity ;
+        sh:minCount 1 ;
+        sh:message "Must maintain living unity"
+    ] .
+
+# Integration Pattern
+:PrincipleIntegration a :SystemPattern ;
+    :unifies [
+        a :UnityPattern ;
+        :connects :ProjectionAndGenesis ;
+        :enables :Development ;
+        :achieves :Truth
+    ] ;
+    :validates [
+        a :ValidationPattern ;
+        :requires :ProjectiveNecessity ;
+        :enables :Realization ;
+        :maintains :Unity
+    ] .
+
+# Core Structure
+:NirbijaSamadhi a owl:Class ;
+    rdfs:subClassOf :AbsoluteState ;
+    :hasDescription "Pure seedless state beyond all relations" .
+
+:SelfArisingLife a owl:Class ;
+    rdfs:subClassOf :AbsoluteBeing ;
+    :hasDescription "Immediate life arising only through itself" .
+
+:CompleteUnity a owl:Class ;
+    rdfs:subClassOf :AbsoluteStructure ;
+    :hasDescription "Undivided whole beyond all relations" .
+
+# Core Operations
+:NirbijaPrinciple a :AbsolutePattern ;
+    :operates :ThroughDoubleNegation ;
+    :achieves :PureSimplicity ;
+    :maintains :LivingUnity ;
+    :manifests [
+        a :AbsoluteProcess ;
+        :through :SelfArising ;
+        :in :ImmediateLife ;
+        :as :CompleteOneness
+    ] .
+
+# Validation Rules
+:NirbijaShape a sh:NodeShape ;
+    sh:targetClass :NirbijaSamadhi ;
+    sh:property [
+        sh:path :hasOperation ;
+        sh:class :DoubleNegation ;
+        sh:minCount 1 ;
+        sh:message "Must operate through double negation"
+    ] ;
+    sh:property [
+        sh:path :achievesUnity ;
+        sh:class :CompleteUnity ;
+        sh:minCount 1 ;
+        sh:message "Must achieve complete unity"
+    ] .
+
+# Integration Pattern
+:NirbijaIntegration a :AbsolutePattern ;
+    :unifies [
+        a :UnityPattern ;
+        :connects :NegationAndBeing ;
+        :achieves :Simplicity ;
+        :maintains :Life
+    ] ;
+    :validates [
+        a :ValidationPattern ;
+        :requires :DoubleNegation ;
+        :enables :SelfArising ;
+        :preserves :Unity
+    ] .
+
+# Core Structure
+:VasanaProcess a owl:Class ;
+    rdfs:subClassOf :TransitionalGround ;
+    :hasDescription "Process enabling transition from Pure to Impure" .
+
+:VicaraReflection a owl:Class ;
+    rdfs:subClassOf :SystematicOperation ;
+    :hasDescription "Living reflection enabling manifestation" .
+
+:TransitionalUnity a owl:Class ;
+    rdfs:subClassOf :SystematicStructure ;
+    :hasDescription "Unity maintained through transition" .
+
+# Core Operations
+:TransitionPrinciple a :SystematicPattern ;
+    :operates :ThroughVasana ;
+    :grounds :Reflection ;
+    :maintains :Unity ;
+    :manifests [
+        a :TransitionalProcess ;
+        :through :ImpureDharma ;
+        :in :LivingMovement ;
+        :as :SystematicReality
+    ] .
+
+# Validation Rules
+:TransitionShape a sh:NodeShape ;
+    sh:targetClass :VasanaProcess ;
+    sh:property [
+        sh:path :hasOperation ;
+        sh:class :VicaraReflection ;
+        sh:minCount 1 ;
+        sh:message "Must enable living reflection"
+    ] ;
+    sh:property [
+        sh:path :maintainsUnity ;
+        sh:class :TransitionalUnity ;
+        sh:minCount 1 ;
+        sh:message "Must maintain unity through transition"
+    ] .
+
+# Integration Pattern
+:TransitionIntegration a :SystemPattern ;
+    :unifies [
+        a :UnityPattern ;
+        :connects :PureAndImpure ;
+        :through :VasanaProcess ;
+        :achieves :SystematicCompleteness
+    ] ;
+    :validates [
+        a :ValidationPattern ;
+        :requires :VicaraReflection ;
+        :enables :Manifestation ;
+        :preserves :Unity
+    ] .
+    
+# Core Structure
+:NirodhaSublation a owl:Class ;
+    rdfs:subClassOf :SystematicGround ;
+    :hasDescription "Double negation enabling Being-Essence transition" .
+
+:BeingEssenceNexus a owl:Class ;
+    rdfs:subClassOf :SystematicStructure ;
+    :hasDescription "Unity of Being and Essence through reflection" .
+
+:LivingTransition a owl:Class ;
+    rdfs:subClassOf :SystematicProcess ;
+    :hasDescription "Process maintaining unity through development" .
+
+# Core Operations
+:SublationPrinciple a :SystematicPattern ;
+    :operates :ThroughDoubleNegation ;
+    :enables :Transition ;
+    :maintains :Unity ;
+    :manifests [
+        a :SystematicProcess ;
+        :through :NirodhaStructure ;
+        :in :LivingDevelopment ;
+        :as :CompleteReality
+    ] .
+
+# Validation Rules
+:SublationShape a sh:NodeShape ;
+    sh:targetClass :NirodhaSublation ;
+    sh:property [
+        sh:path :hasOperation ;
+        sh:class :DoubleNegation ;
+        sh:minCount 1 ;
+        sh:message "Must operate through double negation"
+    ] ;
+    sh:property [
+        sh:path :achievesUnity ;
+        sh:class :BeingEssenceNexus ;
+        sh:minCount 1 ;
+        sh:message "Must unify Being and Essence"
+    ] .
+
+# Integration Pattern
+:SublationIntegration a :SystemPattern ;
+    :unifies [
+        a :UnityPattern ;
+        :connects :BeingAndEssence ;
+        :through :Reflection ;
+        :achieves :SystematicTruth
+    ] ;
+    :validates [
+        a :ValidationPattern ;
+        :requires :NirodhaStructure ;
+        :enables :Development ;
+        :preserves :Reality
+    ] .

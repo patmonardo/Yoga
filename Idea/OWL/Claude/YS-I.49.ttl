@@ -1,0 +1,1318 @@
+@prefix : <http://example.org/yogasutra#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+# Base Structure
+
+:TranscendentalPattern a owl:Class ;
+    rdfs:label "Transcendental Pattern"@en ;
+    rdfs:subClassOf :YogicStructure ;
+    :transcends :Idealism, :Realism .
+
+:Idealism a owl:Class ;
+    rdfs:label "Idealism"@en ;
+    rdfs:subClassOf :PhilosophicalPosition ;
+    :hasForm :Actualized, :Potential .
+
+:Realism a owl:Class ;
+    rdfs:label "Realism"@en ;
+    rdfs:subClassOf :PhilosophicalPosition ;
+    :hasForm :InnerBeing .
+
+:InnerBeing a owl:Class ;
+    rdfs:label "Inner Being"@en ;
+    rdfs:subClassOf :TranscendentalElement ;
+    :transcends :SubjectObjectDuality .
+
+# Forms of Existence
+
+:ExistenceForm a owl:Class ;
+    rdfs:label "Form of Existence"@en .
+
+:OuterExistence a owl:Class ;
+    rdfs:label "Outer Existence"@en ;
+    rdfs:subClassOf :ExistenceForm .
+
+:InnerExistence a owl:Class ;
+    rdfs:label "Inner Existence"@en ;
+    rdfs:subClassOf :ExistenceForm .
+
+# Properties
+
+:transcends a owl:ObjectProperty ;
+    rdfs:label "transcends"@en ;
+    rdfs:domain :TranscendentalPattern ;
+    rdfs:range :PhilosophicalPosition .
+
+:hasForm a owl:ObjectProperty ;
+    rdfs:label "has form"@en ;
+    rdfs:domain :PhilosophicalPosition ;
+    rdfs:range :ExistenceForm .
+
+# Transcendental Operations
+
+:TranscendentalOperation a owl:Class ;
+    rdfs:label "Transcendental Operation"@en .
+
+:SubjectObjectTranscendence a owl:Class ;
+    rdfs:label "Subject-Object Transcendence"@en ;
+    rdfs:subClassOf :TranscendentalOperation ;
+    :transcends :SubjectObjectDuality .
+
+:SubjectObjectDuality a owl:Class ;
+    rdfs:label "Subject-Object Duality"@en ;
+    rdfs:subClassOf :DualityStructure .
+
+# Reality Class
+
+:Reality a owl:Class ;
+    rdfs:label "Reality"@en ;
+    rdfs:subClassOf :TranscendentalElement ;
+    :manifests :InnerBeing ;
+    :transcends :RelationalTerms .
+
+:RelationalTerms a owl:Class ;
+    rdfs:label "Relational Terms"@en ;
+    :includes :Subject, :Object .
+
+# Living Process Structure
+
+:LivingProcess a owl:Class ;
+    rdfs:label "Living Process"@en ;
+    rdfs:subClassOf :TranscendentalPattern ;
+    :conducts :RationalExistence .
+
+:RationalExistence a owl:Class ;
+    rdfs:label "Rational Existence"@en ;
+    :transcends :TheoreticalSynthesis .
+
+# Validation Rules
+
+:TranscendenceValidation a owl:Class ;
+    rdfs:label "Transcendence Validation"@en ;
+    :requires [
+        a owl:Restriction ;
+        owl:onProperty :transcends ;
+        owl:someValuesFrom :SubjectObjectDuality
+    ] ;
+    :validates [
+        a owl:Restriction ;
+        owl:onProperty :manifests ;
+        owl:someValuesFrom :InnerBeing
+    ] .
+
+@prefix : <http://example.org/yogasutra#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+# Modal Structure Classes
+
+:ModalStructure a owl:Class ;
+    rdfs:label "Modal Structure"@en ;
+    rdfs:subClassOf :TranscendentalPattern ;
+    :hasAspect :PossibilityAspect, :ActualityAspect .
+
+:ConsciousnessModality a owl:Class ;
+    rdfs:label "Consciousness Modality"@en ;
+    rdfs:subClassOf :ModalStructure ;
+    :hasCharacteristic :FacticalNecessity, :EssentialInvalidity .
+
+# Conditional Structures
+
+:ConditionalStructure a owl:Class ;
+    rdfs:label "Conditional Structure"@en ;
+    :hasCondition :TruthValidity ;
+    :hasConsequent :ConsciousnessAbstraction .
+
+:TruthValidity a owl:Class ;
+    rdfs:label "Truth Validity"@en ;
+    :hasModality :Possibility ;
+    :notNecessarilyValid true .
+
+# Freedom Operation
+
+:NegativeFreedom a owl:Class ;
+    rdfs:label "Negative Freedom"@en ;
+    rdfs:subClassOf :TranscendentalOperation ;
+    :operates :ThroughAbstraction ;
+    :avertsFrom :Illusion .
+
+:AbstractionOperation a owl:Class ;
+    rdfs:label "Abstraction Operation"@en ;
+    :abstractsFrom :ConsciousnessEffects ;
+    :maintainsFacticity true ;
+    :enablesTruth true .
+
+# Genetic Self-Reference
+
+:GeneticSelfReference a owl:Class ;
+    rdfs:label "Genetic Self-Reference"@en ;
+    :includes :EmpiricalConsciousness ;
+    :enables :GeneticDeductionOfI .
+
+# Modal Properties
+
+:hasModality a owl:ObjectProperty ;
+    rdfs:label "has modality"@en ;
+    rdfs:domain :TranscendentalElement ;
+    rdfs:range :Modality .
+
+:hasCondition a owl:ObjectProperty ;
+    rdfs:label "has condition"@en ;
+    rdfs:domain :ConditionalStructure ;
+    rdfs:range :Condition .
+
+:avertsFrom a owl:ObjectProperty ;
+    rdfs:label "averts from"@en ;
+    rdfs:domain :NegativeFreedom ;
+    rdfs:range :Illusion .
+
+# Validation Rules
+
+:ModalValidation a owl:Class ;
+    rdfs:label "Modal Validation"@en ;
+    :requires [
+        a owl:Restriction ;
+        owl:onProperty :hasCharacteristic ;
+        owl:someValuesFrom :FacticalNecessity
+    ] ;
+    :requires [
+        a owl:Restriction ;
+        owl:onProperty :hasCharacteristic ;
+        owl:someValuesFrom :EssentialInvalidity
+    ] .
+
+:FreedomValidation a owl:Class ;
+    rdfs:label "Freedom Validation"@en ;
+    :validates [
+        a owl:Restriction ;
+        owl:onProperty :operates ;
+        owl:someValuesFrom :ThroughAbstraction
+    ] .
+
+# Modal Characteristics
+
+:FacticalNecessity a owl:Class ;
+    rdfs:label "Factical Necessity"@en ;
+    rdfs:subClassOf :ModalCharacteristic ;
+    :appliesToEmpirical true .
+
+:EssentialInvalidity a owl:Class ;
+    rdfs:label "Essential Invalidity"@en ;
+    rdfs:subClassOf :ModalCharacteristic ;
+    :appliesTranscendentally true .
+
+# Domain Axioms
+
+:ConsciousnessTruthAxiom a owl:Class ;
+    rdfs:label "Consciousness-Truth Axiom"@en ;
+    :states """Consciousness is factically necessary but
+              essentially invalid with respect to truth""" ;
+    :implies [
+        a owl:Restriction ;
+        owl:onProperty :requires ;
+        owl:someValuesFrom :ModalUnderstanding
+    ] .
+
+@prefix : <http://example.org/yogasutra#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+# Projective Structure
+
+:ProjectiveStructure a owl:Class ;
+    rdfs:label "Projective Structure"@en ;
+    rdfs:subClassOf :TranscendentalPattern ;
+    :hasCharacteristic :DiscontinuousProjection, :AbsoluteGap .
+
+:HiatusIrrationalis a owl:Class ;
+    rdfs:label "Hiatus Irrationalis"@en ;
+    rdfs:subClassOf :AbsoluteGap ;
+    :blocks :GeneticUnderstanding ;
+    :creates :UnbridgeableDivide ;
+    :produces :Inexplicability .
+
+# Core Paradox
+
+:ConsciousnessParadox a owl:Class ;
+    rdfs:label "Consciousness Paradox"@en ;
+    :unites [
+        a owl:Class ;
+        owl:intersectionOf (
+            :InseparableConnection
+            :AbsoluteDisconnection
+        )
+    ] .
+
+:InseparableConnection a owl:Class ;
+    rdfs:label "Inseparable Connection"@en ;
+    :connects :Thinking, :ConsciousnessOfThinking ;
+    :hasCharacteristic :MutualImplication .
+
+:AbsoluteDisconnection a owl:Class ;
+    rdfs:label "Absolute Disconnection"@en ;
+    :lacks :ExplanatoryGround ;
+    :prevents :GeneticAccount ;
+    :manifests :DiscontinuousProjection .
+
+# Projective Operations
+
+:ProjectiveOperation a owl:Class ;
+    rdfs:label "Projective Operation"@en ;
+    :hasCharacteristic [
+        a owl:Class ;
+        owl:intersectionOf (
+            :Absolute
+            :Irrational
+            :Projective
+        )
+    ] .
+
+:DiscontinuousProjection a owl:Class ;
+    rdfs:label "Discontinuous Projection"@en ;
+    rdfs:subClassOf :ProjectiveOperation ;
+    :blocks :GeneticConnection ;
+    :creates :IrrationalGap ;
+    :produces :Inexplicability .
+
+# Methodological Structure
+
+:AbstractionRequirement a owl:Class ;
+    rdfs:label "Abstraction Requirement"@en ;
+    :abstractsFrom :ProjectiveCharacter ;
+    :maintains :FacticalAwareness ;
+    :enables :NewStandpoint .
+
+:MetaLevelAwareness a owl:Class ;
+    rdfs:label "Meta-Level Awareness"@en ;
+    :recognizes :ProjectionSite ;
+    :enables :ProjectionRecognition ;
+    :maintains :DiscontinuityAwareness .
+
+# Properties
+
+:blocks a owl:ObjectProperty ;
+    rdfs:label "blocks"@en ;
+    rdfs:domain :ProjectiveStructure ;
+    rdfs:range :GeneticUnderstanding .
+
+:creates a owl:ObjectProperty ;
+    rdfs:label "creates"@en ;
+    rdfs:domain :ProjectiveOperation ;
+    rdfs:range :IrrationalGap .
+
+:abstractsFrom a owl:ObjectProperty ;
+    rdfs:label "abstracts from"@en ;
+    rdfs:domain :AbstractionRequirement ;
+    rdfs:range :ProjectiveCharacter .
+
+# Validation Rules
+
+:ProjectionValidation a owl:Class ;
+    rdfs:label "Projection Validation"@en ;
+    :requires [
+        a owl:Restriction ;
+        owl:onProperty :hasCharacteristic ;
+        owl:someValuesFrom :DiscontinuousProjection
+    ] ;
+    :validates [
+        a owl:Restriction ;
+        owl:onProperty :manifests ;
+        owl:someValuesFrom :AbsoluteGap
+    ] .
+
+# Domain Axioms
+
+:ProjectiveAxiom a owl:Class ;
+    rdfs:label "Projective Axiom"@en ;
+    :states """Consciousness necessarily operates through
+              discontinuous projection across an absolute gap""" ;
+    :implies [
+        a owl:Restriction ;
+        owl:onProperty :requires ;
+        owl:someValuesFrom :MetaLevelAwareness
+    ] .
+
+:GapAxiom a owl:Class ;
+    rdfs:label "Gap Axiom"@en ;
+    :states """The absolute gap (hiatus irrationalis) blocks
+              all genetic understanding while maintaining
+              factical necessity""" ;
+    :necessitates [
+        a owl:Restriction ;
+        owl:onProperty :requires ;
+        owl:someValuesFrom :AbstractionRequirement
+    ] .
+
+@prefix : <http://example.org/yogasutra#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+# Maya's Core Structure
+
+:MayaStructure a owl:Class ;
+    rdfs:label "Maya Structure"@en ;
+    rdfs:subClassOf :TranscendentalPattern ;
+    :hasOperation :DiscontinuousProjection ;
+    :produces :CategoricalIs ;
+    :generates :DeathAtRoot .
+
+:OriginalAppearance a owl:Class ;
+    rdfs:label "Original Appearance"@en ;
+    rdfs:subClassOf :MayaStructure ;
+    :manifests :SubstantialProjection ;
+    :creates :ObjectiveReality ;
+    :operatesThrough :AbsoluteGap .
+
+# Categorical Is Structure
+
+:CategoricalIs a owl:Class ;
+    rdfs:label "Categorical Is"@en ;
+    rdfs:subClassOf :ProjectiveStructure ;
+    :hasCharacteristic [
+        a owl:Class ;
+        owl:intersectionOf (
+            :OriginalProjection
+            :CreatesSubstantiality
+            :ProducesObjectivity
+        )
+    ] .
+
+# Death at Root
+
+:DeathAtRoot a owl:Class ;
+    rdfs:label "Death at Root"@en ;
+    rdfs:subClassOf :TranscendentalPattern ;
+    :manifests :RuptureOfIntellect ;
+    :residesIn :AbsoluteGap ;
+    :produces :Mortality .
+
+# Recognition Structure
+
+:RecognitionMaxim a owl:Class ;
+    rdfs:label "Recognition Maxim"@en ;
+    :identifies :ProjectiveOperation ;
+    :seesThrough :Appearance ;
+    :maintains :ConstantAwareness .
+
+:LiberationMethod a owl:Class ;
+    rdfs:label "Liberation Method"@en ;
+    :operates [
+        a owl:Class ;
+        owl:intersectionOf (
+            :NegativeOperation
+            :NonAdmissionOfValidity
+            :MaintenanceOfAwareness
+        )
+    ] .
+
+# Operating Properties
+
+:manifests a owl:ObjectProperty ;
+    rdfs:label "manifests"@en ;
+    rdfs:domain :MayaStructure ;
+    rdfs:range :ProjectiveStructure .
+
+:operatesThrough a owl:ObjectProperty ;
+    rdfs:label "operates through"@en ;
+    rdfs:domain :OriginalAppearance ;
+    rdfs:range :AbsoluteGap .
+
+:seesThrough a owl:ObjectProperty ;
+    rdfs:label "sees through"@en ;
+    rdfs:domain :RecognitionMaxim ;
+    rdfs:range :Appearance .
+
+# Validation Rules
+
+:MayaValidation a owl:Class ;
+    rdfs:label "Maya Validation"@en ;
+    :requires [
+        a owl:Restriction ;
+        owl:onProperty :hasOperation ;
+        owl:someValuesFrom :DiscontinuousProjection
+    ] ;
+    :validates [
+        a owl:Restriction ;
+        owl:onProperty :produces ;
+        owl:someValuesFrom :CategoricalIs
+    ] .
+
+:LiberationValidation a owl:Class ;
+    rdfs:label "Liberation Validation"@en ;
+    :requires [
+        a owl:Restriction ;
+        owl:onProperty :maintains ;
+        owl:someValuesFrom :ConstantAwareness
+    ] ;
+    :validates [
+        a owl:Restriction ;
+        owl:onProperty :achieves ;
+        owl:someValuesFrom :FreedomFromDeception
+    ] .
+
+# Practice Structure
+
+:PracticalMethod a owl:Class ;
+    rdfs:label "Practical Method"@en ;
+    :implements :RecognitionMaxim ;
+    :maintains :ConstantAwareness ;
+    :achieves :FreedomFromDeception .
+
+:AwarenessOperation a owl:Class ;
+    rdfs:label "Awareness Operation"@en ;
+    :recognizes :ProjectiveOperation ;
+    :maintains :NonAdmission ;
+    :enables :SeeingThrough .
+
+# Domain Axioms
+
+:MayaAxiom a owl:Class ;
+    rdfs:label "Maya Axiom"@en ;
+    :states """Maya operates through discontinuous projection
+              creating both categorical 'is' and death at root""" ;
+    :implies [
+        a owl:Restriction ;
+        owl:onProperty :requires ;
+        owl:someValuesFrom :RecognitionMaxim
+    ] .
+
+:LiberationAxiom a owl:Class ;
+    rdfs:label "Liberation Axiom"@en ;
+    :states """Liberation comes through recognition and
+              non-admission of projection's validity""" ;
+    :necessitates [
+        a owl:Restriction ;
+        owl:onProperty :requires ;
+        owl:someValuesFrom :ConstantAwareness
+    ] .
+
+@prefix : <http://example.org/yogasutra#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+# Self-Examination Structure
+
+:SelfExaminationPattern a owl:Class ;
+    rdfs:label "Self-Examination Pattern"@en ;
+    rdfs:subClassOf :TranscendentalPattern ;
+    :examines :HighestRealism ;
+    :through :OwnCriteria ;
+    :discovers :InternalLimitation .
+
+:HighestRealism a owl:Class ;
+    rdfs:label "Highest Realism"@en ;
+    rdfs:subClassOf :PhilosophicalPosition ;
+    :claims :InItselfAsAbsolute ;
+    :requires :SelfExamination .
+
+# Reflexive Structure
+
+:ReflexiveTurn a owl:Class ;
+    rdfs:label "Reflexive Turn"@en ;
+    :moves [
+        a owl:Class ;
+        owl:intersectionOf (
+            :FromExternalToInternal
+            :ThroughSelfReflection
+            :ToSelfUnderstanding
+        )
+    ] .
+
+# Critical Movement
+
+:InItselfQuestion a owl:Class ;
+    rdfs:label "In-Itself Question"@en ;
+    :examines [
+        a owl:Class ;
+        owl:intersectionOf (
+            :StartingPoint
+            :ProposedAbsolute
+            :AssumedGround
+        )
+    ] .
+
+# Methodological Requirements
+
+:SpecialDepth a owl:Class ;
+    rdfs:label "Special Depth"@en ;
+    :requires [
+        a owl:Class ;
+        owl:intersectionOf (
+            :DeepReflection
+            :SpecialAbstraction
+            :NewKindOfSeeing
+        )
+    ] .
+
+:CriticalAwareness a owl:Class ;
+    rdfs:label "Critical Awareness"@en ;
+    :recognizes :Limits ;
+    :enables :Possibility ;
+    :maintains :Understanding .
+
+# Properties
+
+:examines a owl:ObjectProperty ;
+    rdfs:label "examines"@en ;
+    rdfs:domain :SelfExaminationPattern ;
+    rdfs:range :PhilosophicalPosition .
+
+:discovers a owl:ObjectProperty ;
+    rdfs:label "discovers"@en ;
+    rdfs:domain :SelfExaminationPattern ;
+    rdfs:range :InternalLimitation .
+
+:requires a owl:ObjectProperty ;
+    rdfs:label "requires"@en ;
+    rdfs:domain :SpecialDepth ;
+    rdfs:range :MethodologicalRequirement .
+
+# Validation Rules
+
+:SelfExaminationValidation a owl:Class ;
+    rdfs:label "Self-Examination Validation"@en ;
+    :requires [
+        a owl:Restriction ;
+        owl:onProperty :examines ;
+        owl:someValuesFrom :HighestRealism
+    ] ;
+    :validates [
+        a owl:Restriction ;
+        owl:onProperty :discovers ;
+        owl:someValuesFrom :InternalLimitation
+    ] .
+
+# Stakes Structure
+
+:PhilosophicalStakes a owl:Class ;
+    rdfs:label "Philosophical Stakes"@en ;
+    :examines [
+        a owl:Class ;
+        owl:intersectionOf (
+            :PurityQuestion
+            :LegitimacyIssue
+            :SystemCompletion
+        )
+    ] .
+
+:NewRequirements a owl:Class ;
+    rdfs:label "New Requirements"@en ;
+    :demands [
+        a owl:Class ;
+        owl:intersectionOf (
+            :DeepReflection
+            :SpecialAbstraction
+            :SelfExamination
+        )
+    ] .
+
+# Domain Axioms
+
+:SelfExaminationAxiom a owl:Class ;
+    rdfs:label "Self-Examination Axiom"@en ;
+    :states """Highest realism must examine itself through
+              its own criteria to complete the system""" ;
+    :implies [
+        a owl:Restriction ;
+        owl:onProperty :requires ;
+        owl:someValuesFrom :SpecialDepth
+    ] .
+
+:SystemCompletionAxiom a owl:Class ;
+    rdfs:label "System Completion Axiom"@en ;
+    :states """Self-reference and self-examination are
+              necessary for completing the system""" ;
+    :necessitates [
+        a owl:Restriction ;
+        owl:onProperty :requires ;
+        owl:someValuesFrom :ReflexiveTurn
+    ] .
+
+@prefix : <http://example.org/yogasutra#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+# Core Nirvicara Structure
+
+:NirvicaraStructure a owl:Class ;
+    rdfs:label "Nirvicara Structure"@en ;
+    rdfs:subClassOf :TranscendentalPattern ;
+    :transcends :OrdinaryAbstraction ;
+    :achieves :PureIntellectualGrasp ;
+    :requires :SpecialAbstraction .
+
+:SpecialAbstraction a owl:Class ;
+    rdfs:label "Special Abstraction"@en ;
+    :isCharacterizedBy [
+        a owl:Class ;
+        owl:intersectionOf (
+            :VeryDeepReflection
+            :BarelyDescribable
+            :AlreadyClear
+        )
+    ] .
+
+# Communication Challenge
+
+:DualChallenge a owl:Class ;
+    rdfs:label "Dual Challenge"@en ;
+    :involves [
+        a owl:Class ;
+        owl:intersectionOf (
+            :SpeakerGraspInWords
+            :ListenerUnderstandPurely
+            :BeyondNormalCommunication
+        )
+    ] .
+
+# Two Approaches to In-Itself
+
+:PreviousApproach a owl:Class ;
+    rdfs:label "Previous Approach"@en ;
+    :hasCharacteristics [
+        a owl:Class ;
+        owl:intersectionOf (
+            :PresupposedInItself
+            :SupplementedWithLife
+            :UsedPrimalFantasy
+            :DissolvedSelfInto
+        )
+    ] .
+
+:NewApproach a owl:Class ;
+    rdfs:label "New Approach"@en ;
+    :hasFeatures [
+        a owl:Class ;
+        owl:intersectionOf (
+            :ElevatesToPresupposed
+            :UnconditionallyImmediate
+            :IndependentOfLiving
+            :PurelyIntellectual
+        )
+    ] .
+
+# Critical Distinction
+
+:RoleOfLife a owl:Class ;
+    rdfs:label "Role of Life"@en ;
+    :distinguishesBetween [
+        a owl:Class ;
+        owl:intersectionOf (
+            :PreviousUnderstanding
+            :NewRecognition
+        )
+    ] .
+
+:PureEssence a owl:Class ;
+    rdfs:label "Pure Essence"@en ;
+    :characteristics [
+        a owl:Class ;
+        owl:intersectionOf (
+            :BeyondLiving
+            :DenialOfFantasy
+            :TrueEssenceOfReason
+        )
+    ] .
+
+# Properties
+
+:transcends a owl:ObjectProperty ;
+    rdfs:label "transcends"@en ;
+    rdfs:domain :NirvicaraStructure ;
+    rdfs:range :OrdinaryAbstraction .
+
+:achieves a owl:ObjectProperty ;
+    rdfs:label "achieves"@en ;
+    rdfs:domain :NirvicaraStructure ;
+    rdfs:range :PureIntellectualGrasp .
+
+:distinguishesBetween a owl:ObjectProperty ;
+    rdfs:label "distinguishes between"@en ;
+    rdfs:domain :RoleOfLife ;
+    rdfs:range :UnderstandingApproach .
+
+# Methodological Requirements
+
+:PureConstructionMethod a owl:Class ;
+    rdfs:label "Pure Construction Method"@en ;
+    :requires [
+        a owl:Class ;
+        owl:intersectionOf (
+            :OriginallyCompleted
+            :EnduringContent
+            :DeterminateMeaning
+        )
+    ] .
+
+:AccessMethod a owl:Class ;
+    rdfs:label "Access Method"@en ;
+    :through :PureIntellect ;
+    :beyond :Fantasy ;
+    :in :OriginalSignificance .
+
+# Validation Rules
+
+:NirvicaraValidation a owl:Class ;
+    rdfs:label "Nirvicara Validation"@en ;
+    :requires [
+        a owl:Restriction ;
+        owl:onProperty :transcends ;
+        owl:someValuesFrom :OrdinaryAbstraction
+    ] ;
+    :validates [
+        a owl:Restriction ;
+        owl:onProperty :achieves ;
+        owl:someValuesFrom :PureIntellectualGrasp
+    ] .
+
+# Domain Axioms
+
+:NirvicaraAxiom a owl:Class ;
+    rdfs:label "Nirvicara Axiom"@en ;
+    :states """Nirvicara achieves pure intellectual grasp
+              through special abstraction beyond both life
+              and primal fantasy""" ;
+    :implies [
+        a owl:Restriction ;
+        owl:onProperty :requires ;
+        owl:someValuesFrom :SpecialAbstraction
+    ] .
+
+:PureIntellectAxiom a owl:Class ;
+    rdfs:label "Pure Intellect Axiom"@en ;
+    :states """Pure intellectual grasp occurs through
+              denial of fantasy and transcendence of life""" ;
+    :necessitates [
+        a owl:Restriction ;
+        owl:onProperty :achieves ;
+        owl:someValuesFrom :OriginalSignificance
+    ] .
+
+@prefix : <http://example.org/yogasutra#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+# Core Self-Deconstruction Structure
+
+:SelfDeconstructionPattern a owl:Class ;
+    rdfs:label "Self-Deconstruction Pattern"@en ;
+    rdfs:subClassOf :TranscendentalPattern ;
+    :reveals :RelationalTrap ;
+    :exposes :HiddenGround ;
+    :necessitates :SystematicAbandonment .
+
+# Relational Trap
+
+:RelationalTrap a owl:Class ;
+    rdfs:label "Relational Trap"@en ;
+    :hasElements [
+        a owl:Class ;
+        owl:intersectionOf (
+            :EssentialQualification
+            :RequiresOpposition
+            :InherentRelativity
+        )
+    ] .
+
+:CircularDependence a owl:Class ;
+    rdfs:label "Circular Dependence"@en ;
+    :manifests [
+        a owl:Class ;
+        owl:intersectionOf (
+            :UnityThroughDuality
+            :DualityThroughUnity
+            :MutualPresupposition
+        )
+    ] .
+
+# Hidden Structure
+
+:BackgroundProjection a owl:Class ;
+    rdfs:label "Background Projection"@en ;
+    :contains [
+        a owl:Class ;
+        owl:intersectionOf (
+            :InItselfAndNotInItself
+            :ReciprocalPositing
+            :MutualNegation
+        )
+    ] .
+
+:ProjectionPattern a owl:Class ;
+    rdfs:label "Projection Pattern"@en ;
+    :characterized_by [
+        a owl:Class ;
+        owl:intersectionOf (
+            :ImmediateProjection
+            :IrrationalGap
+            :NoSelfAccounting
+        )
+    ] .
+
+# Historical Recovery
+
+:ConsciousnessPossibility a owl:Class ;
+    rdfs:label "Consciousness Possibility"@en ;
+    :serves_as :SecretPrinciple ;
+    :grounds :Investigation ;
+    :shapes :Approach .
+
+:HiddenIdealism a owl:Class ;
+    rdfs:label "Hidden Idealism"@en ;
+    :reveals [
+        a owl:Class ;
+        owl:intersectionOf (
+            :ConsciousnessRoot
+            :ProjectiveGround
+            :FacticalBasis
+        )
+    ] .
+
+# Properties
+
+:reveals a owl:ObjectProperty ;
+    rdfs:label "reveals"@en ;
+    rdfs:domain :SelfDeconstructionPattern ;
+    rdfs:range :RelationalTrap .
+
+:necessitates a owl:ObjectProperty ;
+    rdfs:label "necessitates"@en ;
+    rdfs:domain :SelfDeconstructionPattern ;
+    rdfs:range :SystematicAbandonment .
+
+:manifests a owl:ObjectProperty ;
+    rdfs:label "manifests"@en ;
+    rdfs:domain :CircularDependence ;
+    rdfs:range :MutualPresupposition .
+
+# Validation Rules
+
+:DeconstructionValidation a owl:Class ;
+    rdfs:label "Deconstruction Validation"@en ;
+    :requires [
+        a owl:Restriction ;
+        owl:onProperty :reveals ;
+        owl:someValuesFrom :RelationalTrap
+    ] ;
+    :validates [
+        a owl:Restriction ;
+        owl:onProperty :necessitates ;
+        owl:someValuesFrom :SystematicAbandonment
+    ] .
+
+# Systematic Implications
+
+:PhilosophicalImplications a owl:Class ;
+    rdfs:label "Philosophical Implications"@en ;
+    :entails [
+        a owl:Class ;
+        owl:intersectionOf (
+            :NoPureStance
+            :NecessaryMovement
+            :NewFoundation
+        )
+    ] .
+
+:MethodologicalRequirements a owl:Class ;
+    rdfs:label "Methodological Requirements"@en ;
+    :demands [
+        a owl:Class ;
+        owl:intersectionOf (
+            :SelfExamination
+            :AssumptionExposure
+            :ProjectionRecognition
+        )
+    ] .
+
+# Domain Axioms
+
+:DeconstructionAxiom a owl:Class ;
+    rdfs:label "Deconstruction Axiom"@en ;
+    :states """The In-Itself necessarily deconstructs itself
+              through examination of its relational structure""" ;
+    :implies [
+        a owl:Restriction ;
+        owl:onProperty :reveals ;
+        owl:someValuesFrom :HiddenIdealism
+    ] .
+
+:SystematicAxiom a owl:Class ;
+    rdfs:label "Systematic Axiom"@en ;
+    :states """Neither pure realism nor pure idealism is
+              possible; all involve projection""" ;
+    :necessitates [
+        a owl:Restriction ;
+        owl:onProperty :requires ;
+        owl:someValuesFrom :NewFoundation
+    ] .
+
+@prefix : <http://example.org/yogasutra#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+# Absolute Being Structure
+
+:AbsoluteBeing a owl:Class ;
+    rdfs:label "Absolute Being"@en ;
+    rdfs:subClassOf :TranscendentalPattern ;
+    :emergesThrough :CompleteNegation ;
+    :transcends :RelationalDetermination ;
+    :achieves :PurePositivity .
+
+:CompleteNegation a owl:Class ;
+    rdfs:label "Complete Negation"@en ;
+    :negates [
+        a owl:Class ;
+        owl:intersectionOf (
+            :BeingInItself
+            :RelationalDetermination
+            :DependentStructure
+        )
+    ] .
+
+# Pure Being Structure
+
+:PureBeing a owl:Class ;
+    rdfs:label "Pure Being"@en ;
+    :hasCharacteristics [
+        a owl:Class ;
+        owl:intersectionOf (
+            :BeingAndExistence
+            :PureResting
+            :AbsolutePositivity
+        )
+    ] ;
+    :beyondSupplementation true .
+
+# Not-Needing Structure
+
+:NotNeedingStructure a owl:Class ;
+    rdfs:label "Not-Needing Structure"@en ;
+    :demonstrates [
+        a owl:Class ;
+        owl:intersectionOf (
+            :NotNeedingOtherBeing
+            :NotNeedingNotNeeding
+            :InfiniteRegression
+        )
+    ] ;
+    :reveals :OwnEmptiness .
+
+# Pure Essence
+
+:PureEssence a owl:Class ;
+    rdfs:label "Pure Essence"@en ;
+    :characteristics [
+        a owl:Class ;
+        owl:intersectionOf (
+            :BeyondRelation
+            :PriorToComparison
+            :SelfComplete
+        )
+    ] ;
+    :manifests :PurePositivity .
+
+# Participatory Structure
+
+:ParticipatorySight a owl:Class ;
+    rdfs:label "Participatory Sight"@en ;
+    :involves [
+        a owl:Class ;
+        owl:intersectionOf (
+            :SeeingIntoEssence
+            :NegativeHandling
+            :DirectParticipation
+        )
+    ] .
+
+:NewParticipation a owl:Class ;
+    rdfs:label "New Participation"@en ;
+    :transcends :MereUnderstanding ;
+    :achieves :ActiveParticipation ;
+    :establishes :NewRelationship .
+
+# Properties
+
+:emergesThrough a owl:ObjectProperty ;
+    rdfs:label "emerges through"@en ;
+    rdfs:domain :AbsoluteBeing ;
+    rdfs:range :CompleteNegation .
+
+:transcends a owl:ObjectProperty ;
+    rdfs:label "transcends"@en ;
+    rdfs:domain :AbsoluteBeing ;
+    rdfs:range :RelationalDetermination .
+
+:demonstrates a owl:ObjectProperty ;
+    rdfs:label "demonstrates"@en ;
+    rdfs:domain :NotNeedingStructure ;
+    rdfs:range :InfiniteRegression .
+
+# Validation Rules
+
+:EmergenceValidation a owl:Class ;
+    rdfs:label "Emergence Validation"@en ;
+    :requires [
+        a owl:Restriction ;
+        owl:onProperty :emergesThrough ;
+        owl:someValuesFrom :CompleteNegation
+    ] ;
+    :validates [
+        a owl:Restriction ;
+        owl:onProperty :achieves ;
+        owl:someValuesFrom :PurePositivity
+    ] .
+
+# Organic Unity
+
+:OrganicUnity a owl:Class ;
+    rdfs:label "Organic Unity"@en ;
+    :unifies [
+        a owl:Class ;
+        owl:intersectionOf (
+            :NegativeMovement
+            :PositiveAchievement
+            :LivingParticipation
+        )
+    ] .
+
+:SystemCompletion a owl:Class ;
+    rdfs:label "System Completion"@en ;
+    :achieves [
+        a owl:Class ;
+        owl:intersectionOf (
+            :ThroughNegativeMovement
+            :ToPositiveBeing
+            :InLivingParticipation
+        )
+    ] .
+
+# Domain Axioms
+
+:EmergenceAxiom a owl:Class ;
+    rdfs:label "Emergence Axiom"@en ;
+    :states """Absolute Being emerges through complete
+              negation of relational determination""" ;
+    :implies [
+        a owl:Restriction ;
+        owl:onProperty :achieves ;
+        owl:someValuesFrom :PurePositivity
+    ] .
+
+:ParticipationAxiom a owl:Class ;
+    rdfs:label "Participation Axiom"@en ;
+    :states """Participation requires negative handling
+              of supplements and active engagement""" ;
+    :necessitates [
+        a owl:Restriction ;
+        owl:onProperty :requires ;
+        owl:someValuesFrom :DirectParticipation
+    ] .
+
+# Methodological Structure
+
+:MethodologicalUnity a owl:Class ;
+    rdfs:label "Methodological Unity"@en ;
+    :unites [
+        a owl:Class ;
+        owl:intersectionOf (
+            :LettingGoOfRelation
+            :SeeingPureEssence
+            :ParticipatingThroughInsight
+        )
+    ] .
+    
+@prefix : <http://example.org/yogasutra#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+# Absolute Being Structure
+
+:AbsoluteBeing a owl:Class ;
+    rdfs:label "Absolute Being"@en ;
+    rdfs:subClassOf :TranscendentalPattern ;
+    :emergesThrough :CompleteNegation ;
+    :transcends :RelationalDetermination ;
+    :achieves :PurePositivity .
+
+:CompleteNegation a owl:Class ;
+    rdfs:label "Complete Negation"@en ;
+    :negates [
+        a owl:Class ;
+        owl:intersectionOf (
+            :BeingInItself
+            :RelationalDetermination
+            :DependentStructure
+        )
+    ] .
+
+# Pure Being Structure
+
+:PureBeing a owl:Class ;
+    rdfs:label "Pure Being"@en ;
+    :hasCharacteristics [
+        a owl:Class ;
+        owl:intersectionOf (
+            :BeingAndExistence
+            :PureResting
+            :AbsolutePositivity
+        )
+    ] ;
+    :beyondSupplementation true .
+
+# Not-Needing Structure
+
+:NotNeedingStructure a owl:Class ;
+    rdfs:label "Not-Needing Structure"@en ;
+    :demonstrates [
+        a owl:Class ;
+        owl:intersectionOf (
+            :NotNeedingOtherBeing
+            :NotNeedingNotNeeding
+            :InfiniteRegression
+        )
+    ] ;
+    :reveals :OwnEmptiness .
+
+# Pure Essence
+
+:PureEssence a owl:Class ;
+    rdfs:label "Pure Essence"@en ;
+    :characteristics [
+        a owl:Class ;
+        owl:intersectionOf (
+            :BeyondRelation
+            :PriorToComparison
+            :SelfComplete
+        )
+    ] ;
+    :manifests :PurePositivity .
+
+# Participatory Structure
+
+:ParticipatorySight a owl:Class ;
+    rdfs:label "Participatory Sight"@en ;
+    :involves [
+        a owl:Class ;
+        owl:intersectionOf (
+            :SeeingIntoEssence
+            :NegativeHandling
+            :DirectParticipation
+        )
+    ] .
+
+:NewParticipation a owl:Class ;
+    rdfs:label "New Participation"@en ;
+    :transcends :MereUnderstanding ;
+    :achieves :ActiveParticipation ;
+    :establishes :NewRelationship .
+
+# Properties
+
+:emergesThrough a owl:ObjectProperty ;
+    rdfs:label "emerges through"@en ;
+    rdfs:domain :AbsoluteBeing ;
+    rdfs:range :CompleteNegation .
+
+:transcends a owl:ObjectProperty ;
+    rdfs:label "transcends"@en ;
+    rdfs:domain :AbsoluteBeing ;
+    rdfs:range :RelationalDetermination .
+
+:demonstrates a owl:ObjectProperty ;
+    rdfs:label "demonstrates"@en ;
+    rdfs:domain :NotNeedingStructure ;
+    rdfs:range :InfiniteRegression .
+
+# Validation Rules
+
+:EmergenceValidation a owl:Class ;
+    rdfs:label "Emergence Validation"@en ;
+    :requires [
+        a owl:Restriction ;
+        owl:onProperty :emergesThrough ;
+        owl:someValuesFrom :CompleteNegation
+    ] ;
+    :validates [
+        a owl:Restriction ;
+        owl:onProperty :achieves ;
+        owl:someValuesFrom :PurePositivity
+    ] .
+
+# Organic Unity
+
+:OrganicUnity a owl:Class ;
+    rdfs:label "Organic Unity"@en ;
+    :unifies [
+        a owl:Class ;
+        owl:intersectionOf (
+            :NegativeMovement
+            :PositiveAchievement
+            :LivingParticipation
+        )
+    ] .
+
+:SystemCompletion a owl:Class ;
+    rdfs:label "System Completion"@en ;
+    :achieves [
+        a owl:Class ;
+        owl:intersectionOf (
+            :ThroughNegativeMovement
+            :ToPositiveBeing
+            :InLivingParticipation
+        )
+    ] .
+
+# Domain Axioms
+
+:EmergenceAxiom a owl:Class ;
+    rdfs:label "Emergence Axiom"@en ;
+    :states """Absolute Being emerges through complete
+              negation of relational determination""" ;
+    :implies [
+        a owl:Restriction ;
+        owl:onProperty :achieves ;
+        owl:someValuesFrom :PurePositivity
+    ] .
+
+:ParticipationAxiom a owl:Class ;
+    rdfs:label "Participation Axiom"@en ;
+    :states """Participation requires negative handling
+              of supplements and active engagement""" ;
+    :necessitates [
+        a owl:Restriction ;
+        owl:onProperty :requires ;
+        owl:someValuesFrom :DirectParticipation
+    ] .
+
+# Methodological Structure
+
+:MethodologicalUnity a owl:Class ;
+    rdfs:label "Methodological Unity"@en ;
+    :unites [
+        a owl:Class ;
+        owl:intersectionOf (
+            :LettingGoOfRelation
+            :SeeingPureEssence
+            :ParticipatingThroughInsight
+        )
+    ] .

@@ -173,6 +173,7 @@ nirvicara-vaiśāradye ādhyātma-prasādaḥ
 - Practice methodologies
 - Assessment tools
 - Teaching frameworks
+-
 
 # The Emergence of Idealism and Realism
 
@@ -326,7 +327,7 @@ nirvicara-vaiśāradye ādhyātma-prasādaḥ
 
 This analysis shows how nirvicara-vaisaradya represents the crucial dialectical movement where both realistic and idealistic perspectives emerge and are transcended. This transcendence through vaisaradya prepares the way for rtambhara prajna - the immediate seeing of truth beyond all perspectives.
 
-# Analysis of Facticity in Idealistic and Realistic Perspectives
+# Facticity in Idealistic and Realistic Perspectives
 
 ## I. The Initial Structure
 
@@ -502,8 +503,7 @@ This analysis shows how nirvicara-vaisaradya represents the crucial dialectical 
 
 This analysis shows how both idealistic and realistic perspectives reveal their facticity and point beyond themselves to a truly genetic principle. This movement is crucial for understanding how nirvicara-vaisaradya leads to rtambhara prajna - from factical perspectives through living engagement to genuine genetic knowing.
 
-
-# Analysis of the Fundamental Disjunction: Pure Being (0) and Concept (C)
+# Fundamental Disjunction: Pure Being (0) and Concept (C)
 
 ## I. Basic Structure of the Opposition
 

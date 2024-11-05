@@ -105,6 +105,7 @@
 ## VIII. Conclusion
 
 The analysis of YS III.54 reveals a sophisticated system for understanding the nature of Pure Reason and its operation through different levels of reality. The progression from III.53 to III.54 shows a movement from temporal to ontological discrimination, culminating in the achievement of Pratipatti as the Understanding of Pure Reason itself.
+
 # Commentary on Yoga Sutra III.54: The Nature of Pure Understanding
 
 ## I. The Sutra Text

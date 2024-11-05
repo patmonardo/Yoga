@@ -4,7 +4,7 @@
 
 **Sanskrit:** क्षण तत् क्रमयोः संयमात् विवेकजं ज्ञानम्
 
-**Transliteration:** *Kṣaṇa krama-yoḥ saṁyamāt viveka-jaṁ jñānam*
+**Transliteration:** *Kṣaṇa tat krama-yoḥ saṁyamāt viveka-jaṁ jñānam*
 
 **Translation:** "By performing samyama on kṣaṇa and krama, one attains knowledge born of discrimination (viveka-jam jñānam)."
 
