@@ -1,0 +1,360 @@
+@prefix : <http://example.org/samapatti#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:Samapatti a owl:Class ;
+    rdfs:subClassOf :Samapatti ;
+    :hasStructure :TriadicUnity ;
+    :operates :ThroughSamyama ;
+    :achieves :TransparentKnowing .
+
+:TriadicUnity a owl:Class ;
+    :unifies :Grahitr, :Grahana, :Grahya ;
+    :through :TatSthaAnjanata ;
+    :maintains :SeedStructure .
+
+:Grahitr a owl:Class ;
+    rdfs:label "The Grasper/Subject" ;
+    :participatesIn :SabijaSamapatti ;
+    :throughRole :SubjectivePolarity .
+
+:Grahana a owl:Class ;
+    rdfs:label "The Grasping/Act" ;
+    :participatesIn :SabijaSamapatti ;
+    :throughRole :MediatingActivity .
+
+:Grahya a owl:Class ;
+    rdfs:label "The Grasped/Object" ;
+    :participatesIn :SabijaSamapatti ;
+    :throughRole :ObjectivePolarity .
+
+:TatSthaAnjanata a owl:Class ;
+    rdfs:label "Transparent Coloring" ;
+    :enables :TransparentKnowing ;
+    :maintains :ObjectiveIdentity ;
+    :through :PurifiedCitta .
+
+:KsinaVrtti a owl:Class ;
+    rdfs:label "Reduced Modifications" ;
+    :preconditions :SabijaSamapatti ;
+    :enables :TransparentKnowing ;
+    :through :CittalPurification .
+
+:SamyamaProcess a owl:Class ;
+    :unifies :Dharana, :Dhyana, :Samadhi ;
+    :operates :ThroughStages ;
+    :achieves :CompleteAbsorption .
+
+:GeneticStructure a owl:Class ;
+    rdfs:subClassOf :TranscendentalPrinciple ;
+    :hasFacticalMoment :FacticalAppearance ;
+    :hasGeneticMoment :GeneticGround ;
+    :achievesUnity :ThroughInnerNecessity .
+
+:FacticalAppearance a owl:Class ;
+    :presents :ImmediateStructure ;
+    :appears :AsGiven ;
+    :contains :ImplicitRule .
+
+:GeneticGround a owl:Class ;
+    :reveals :InnerNecessity ;
+    :makes :RuleExplicit ;
+    :grounds :FacticalAppearance .
+
+:InnerNecessity a owl:Class ;
+    :operates :ThroughSelfMovement ;
+    :determines :Development ;
+    :maintains :Unity .
+
+:GeneticMovement a owl:Class ;
+    :moves :FromFacticalToGenetic ;
+    :through :RuleRecognition ;
+    :achieves :ExplicitGround .
+
+:Rule a owl:Class ;
+    :exists :ImplicitlyInFactical ;
+    :becomes :ExplicitInGenetic ;
+    :operates :ThroughInnerNecessity .
+
+:MethodologicalStructure a owl:Class ;
+    :requires :DoubleAttention ;
+    :follows :GeneticMovement ;
+    :maintains :LivingUnity .
+
+:DoubleAttention a owl:Class ;
+    :attends :ToFacticalAppearance ;
+    :recognizes :GeneticGround ;
+    :enables :CompleteUnderstanding .
+
+:DevelopmentProcess a owl:Class ;
+    :moves :ThroughStages ;
+    :follows :InnerNecessity ;
+    :achieves :ExplicitGround .
+
+:GeneticProcess a owl:Class ;
+    rdfs:subClassOf :TranscendentalStructure ;
+    :begins :WithFacticalUnity ;
+    :moves :ThroughProcedure ;
+    :achieves :GeneticUnderstanding .
+
+:FacticalUnity a owl:Class ;
+    :contains :TermA, :TermPoint ;
+    :presents :AsImmediate ;
+    :has :ImplicitUnity .
+
+:ProcedureAttention a owl:Class ;
+    :abandons :MaterialContent ;
+    :focuses :OnProcess ;
+    :reveals :Origin .
+
+:GeneticUnderstanding a owl:Class ;
+    :makes :ImmediateMediate ;
+    :through :OriginRecognition ;
+    :achieves :ExplicitGround .
+
+:MethodologicalShift a owl:Class ;
+    :moves :FromContentToProcedure ;
+    :enables :OriginVisibility ;
+    :grounds :GeneticInsight .
+
+:ProcessRecognition a owl:Class ;
+    :attends :ToProcedure ;
+    :beyond :Content ;
+    :reveals :Origination .
+
+:LivingDevelopment a owl:Class ;
+    :unifies :FacticalAndGenetic ;
+    :through :ProcedureAttention ;
+    :maintains :UnityInMovement .
+
+:OriginVisibility a owl:Class ;
+    :transforms :Immediate ;
+    :into :Mediate ;
+    :through :GeneticGrasp .
+
+:SystematicStructure a owl:Class ;
+    :requires :FacticalStart ;
+    :develops :ThroughProcedure ;
+    :achieves :GeneticCompletion .
+
+:PureLight a owl:Class ;
+    rdfs:subClassOf :TranscendentalGround ;
+    :emerges :ThroughSelfNegation ;
+    :transcends :AllDivision ;
+    :remains :SoleGround .
+
+:DivisionAct a owl:Class ;
+    :operates :AsActQualAct ;
+    :attempts :SelfValidity ;
+    :undergoes :ImmediateNegation .
+
+:SelfNegation a owl:Class ;
+    :negates :Division ;
+    :reveals :IntrinsicUnity ;
+    :enables :LightManifestation .
+
+:Manifestness a owl:Class ;
+    :annuls :DivisionValidity ;
+    :posits :IntrinsicOneness ;
+    :grounds :PureLight .
+
+:ConceptPrinciple a owl:Class ;
+    :unites :DivisionAndConstruction ;
+    :operates :ByItself ;
+    :faces :SelfNegation .
+
+:BeingRelation a owl:Class ;
+    :becomes :Inconceivable ;
+    :through :ConceptNegation ;
+    :points :ToPureLight .
+
+:DoubleNegation a owl:Class ;
+    :negates :DivisionAndConcept ;
+    :preserves :PureManifestation ;
+    :achieves :AbsoluteGround .
+
+:SystematicStructure a owl:Class ;
+    :moves :ThroughSelfNegation ;
+    :maintains :PureGround ;
+    :achieves :LightEmergence .
+
+:MethodologicalProcess a owl:Class ;
+    :allows :SelfNegation ;
+    :follows :InnerMovement ;
+    :reaches :PureLight .
+
+:LightStructure a owl:Class ;
+    rdfs:subClassOf :TranscendentalSystem ;
+    :hasLevels :PureLight, :LightInsight, :InsightReflection ;
+    :maintains :EmanenceImmanence ;
+    :achieves :SystematicUnity .
+
+:PureLight a owl:Class ;
+    :functions :AsAbsoluteGround ;
+    :transcends :Production ;
+    :enables :AllManifestation .
+
+:LightInsight a owl:Class ;
+    :represents :PureLight ;
+    :operates :AsAgent ;
+    :enables :Presence .
+
+:InsightReflection a owl:Class ;
+    :mediates :BothLevels ;
+    :enables :Understanding ;
+    :maintains :ProperDistance .
+
+:EmanenceImmanence a owl:Class ;
+    :unifies :OutwardInward ;
+    :through :LivingMovement ;
+    :achieves :SystematicWhole .
+
+:DoubleMovement a owl:Class ;
+    :connects :AllLevels ;
+    :through :ProperMediation ;
+    :maintains :LivingUnity .
+
+:MethodologicalStructure a owl:Class ;
+    :respects :LightLimitation ;
+    :investigates :InsightProduction ;
+    :enables :SystematicGrasp .
+
+:SystematicUnity a owl:Class ;
+    :unifies :AllLevels ;
+    :through :ProperRelation ;
+    :achieves :CompleteUnderstanding .
+
+:LevelRelation a owl:Class ;
+    :connects :LightToInsight, :InsightToReflection ;
+    :maintains :ProperDistance ;
+    :enables :SystematicMovement .
+
+:FundamentalReversal a owl:Class ;
+    rdfs:subClassOf :TranscendentalStructure ;
+    :unites :BeingDeposition, :DoingDeposition ;
+    :achieves :LivingUnity ;
+    :through :MutualNegation .
+
+:ImmediateDoing a owl:Class ;
+    :grasps :Being ;
+    :dissolves :IntoImmanence ;
+    :operates :ThroughImmediacy .
+
+:BeingDeposition a owl:Class ;
+    :deposes :ActualDoing ;
+    :transcends :MaterialBeing ;
+    :achieves :PureGround .
+
+:DoingDeposition a owl:Class ;
+    :deposes :ActualBeing ;
+    :replaces :WithDoing ;
+    :enables :LivingProcess .
+
+:SelfNegation a owl:Class ;
+    :operates :InOther ;
+    :through :OwnDoing ;
+    :achieves :CompleteMovement .
+
+:PrimordialUnity a owl:Class ;
+    :precedes :BeingDoingDivision ;
+    :grounds :AllConstruction ;
+    :maintains :OriginalTruth .
+
+:ImanenceEmanence a owl:Class ;
+    :unites :InwardOutward ;
+    :through :LivingMovement ;
+    :achieves :SystematicWhole .
+
+:MethodologicalStructure a owl:Class ;
+    :follows :MutualDeposition ;
+    :enables :SelfNegation ;
+    :achieves :LivingUnity .
+
+:SystematicUnity a owl:Class ;
+    :unifies :AllMoments ;
+    :through :ProperNegation ;
+    :in :ImmediateDoing .
+
+:ConsciousnessScience a owl:Class ;
+    rdfs:subClassOf :LogicalScience ;
+    :operatesThrough :SelfReflection ;
+    :developsByOwn :InternalNecessity ;
+    :achieves :SystematicCompletion .
+
+:LogicalStructure a owl:Class ;
+    :emergesFrom :SubjectMatter ;
+    :operates :ThroughSelfRelation ;
+    :grounds :AllDevelopment .
+
+:TripleMovement a owl:Class ;
+    :unifies :Light, :Insight, :InsightIntoInsight ;
+    :through :InternalNecessity ;
+    :achieves :CompleteScience .
+
+:SelfReflection a owl:Class ;
+    :required :BySubjectMatter ;
+    :enables :SystematicDevelopment ;
+    :maintains :LivingUnity .
+
+:InternalNecessity a owl:Class ;
+    :drives :Development ;
+    :through :SelfRelation ;
+    :achieves :Completion .
+
+:LivingScience a owl:Class ;
+    :develops :ThroughSelfReflection ;
+    :follows :OwnNecessity ;
+    :maintains :SystematicUnity .
+
+:MethodologicalStructure a owl:Class ;
+    :emerges :FromSubjectMatter ;
+    :operates :ThroughSelfDevelopment ;
+    :achieves :CompleteSystem .
+
+:SystematicCompletion a owl:Class ;
+    :realizes :ThroughTripleMovement ;
+    :maintains :LivingUnity ;
+    :achieves :AbsoluteKnowing .
+
+:TatSthaTadAnjanata a owl:Class ;
+    rdfs:subClassOf :RelationalEngine ;
+    :enables :Membership ;
+    :operates :ThroughTrinitarianStructure ;
+    :achieves :LivingUnity .
+
+:TrinitarianStructure a owl:Class ;
+    :unifies :SubjectProcessObject ;
+    :through :StandingInPrinciple ;
+    :maintains :ConcreteOperation .
+
+:MembershipProtocol a owl:Class ;
+    :operates :ThroughStandingIn ;
+    :enables :Integration ;
+    :achieves :SystematicUnity .
+
+:StandingInPrinciple a owl:Class ;
+    :grounds :AllRelations ;
+    :enables :ColoringProcess ;
+    :maintains :LivingConnection .
+
+:ColoringPrinciple a owl:Class ;
+    :modifies :Relations ;
+    :through :ConcreteOperation ;
+    :achieves :ActualUnity .
+
+:SystematicUnity a owl:Class ;
+    :emerges :ThroughTrinitarianMovement ;
+    :maintains :LivingProcess ;
+    :realizes :CompleteIntegration .
+
+:ConsciousnessOperation a owl:Class ;
+    :follows :MembershipProtocol ;
+    :through :RelationalEngine ;
+    :achieves :ActualUnity .
+
+:MethodologicalStructure a owl:Class ;
+    :implements :TatSthaTadAnjanata ;
+    :enables :ConcreteOperation ;
+    :maintains :SystematicUnity .

@@ -1,0 +1,1057 @@
+@prefix : <http://example.org/yogasutra#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+# Core Classes
+
+:SamapattiState a owl:Class ;
+    rdfs:subClassOf :YogicState ;
+    rdfs:comment "Base class for samapatti states" .
+
+:Nirvitarka a owl:Class ;
+    rdfs:subClassOf :SamapattiState ;
+    :hasDefinition "Object-only absorption free from conceptual overlay" .
+
+:Savitarka a owl:Class ;
+    rdfs:subClassOf :SamapattiState ;
+    :hasDefinition "Mixed word-meaning-knowledge absorption" .
+
+:CognitiveComponent a owl:Class .
+
+:Memory a owl:Class ;
+    rdfs:subClassOf :CognitiveComponent .
+
+:Form a owl:Class ;
+    rdfs:subClassOf :CognitiveComponent .
+
+:Object a owl:Class ;
+    rdfs:subClassOf :CognitiveComponent .
+
+# Properties
+
+:hasState a owl:ObjectProperty ;
+    rdfs:domain :YogicProcess ;
+    rdfs:range :SamapattiState .
+
+:transforms a owl:ObjectProperty ;
+    rdfs:domain :YogicProcess ;
+    rdfs:range :CognitiveComponent .
+
+:achieves a owl:ObjectProperty ;
+    rdfs:domain :YogicProcess ;
+    rdfs:range :SamapattiState .
+
+:requires a owl:ObjectProperty ;
+    rdfs:domain :SamapattiState ;
+    rdfs:range :CognitiveComponent .
+
+# Process Definition
+
+:NirvitarkaProcess a owl:Class ;
+    rdfs:subClassOf :YogicProcess ;
+    :hasInitialState :Savitarka ;
+    :hasFinalState :Nirvitarka ;
+    :transforms :Memory, :Form, :Object .
+
+# SHACL Shapes
+
+:NirvitarkaShape a sh:NodeShape ;
+    sh:targetClass :Nirvitarka ;
+    sh:property [
+        sh:path :hasMemory ;
+        sh:qualifiedValueShape [
+            sh:class :PurifiedMemory ;
+        ] ;
+        sh:qualifiedMinCount 1 ;
+        sh:message "Nirvitarka requires purified memory" ;
+    ] ;
+    sh:property [
+        sh:path :hasForm ;
+        sh:qualifiedValueShape [
+            sh:class :EmptyForm ;
+        ] ;
+        sh:qualifiedMinCount 1 ;
+        sh:message "Nirvitarka requires empty form" ;
+    ] ;
+    sh:property [
+        sh:path :hasObject ;
+        sh:qualifiedValueShape [
+            sh:class :PureObject ;
+        ] ;
+        sh:qualifiedMinCount 1 ;
+        sh:message "Nirvitarka requires pure object manifestation" ;
+    ] .
+
+# Transition Rules
+
+:TransitionRule a owl:Class ;
+    rdfs:subClassOf spin:Rule ;
+    spin:body [
+        a sp:Construct ;
+        sp:text """
+            CONSTRUCT {
+                ?process :achieves :Nirvitarka .
+            }
+            WHERE {
+                ?process a :NirvitarkaProcess .
+                ?process :hasState :Savitarka .
+                ?process :transforms ?memory .
+                ?memory a :PurifiedMemory .
+                ?process :transforms ?form .
+                ?form a :EmptyForm .
+                ?process :transforms ?object .
+                ?object a :PureObject .
+            }
+        """ ;
+    ] .
+
+# Validation Rules
+
+:ValidationTemplate a spin:Template ;
+    spin:body [
+        a sp:Select ;
+        sp:text """
+            SELECT ?state ?validation
+            WHERE {
+                ?state a :Nirvitarka .
+                ?state :hasMemory ?memory .
+                ?state :hasForm ?form .
+                ?state :hasObject ?object .
+                FILTER NOT EXISTS {
+                    ?memory a :UnpurifiedMemory .
+                    ?form a :FilledForm .
+                    ?object a :MixedObject .
+                }
+            }
+        """ ;
+    ] .
+
+# Integration Components
+
+:ProcessingUnit a :Component ;
+    :implementsShape :NirvitarkaShape ;
+    :usesRule :TransitionRule ;
+    :followsTemplate :ValidationTemplate .
+
+# Core Classes
+
+:Principle a owl:Class ;
+    rdfs:subClassOf :SystemComponent ;
+    :hasAspect :Unity, :Disjunction ;
+    rdfs:comment "A principle that generates and organizes a domain" .
+
+:Domain a owl:Class ;
+    rdfs:subClassOf :SystemComponent ;
+    :hasBoundary :DomainBoundary ;
+    :hasStructure :DomainStructure .
+
+:Light a owl:Class ;
+    rdfs:subClassOf :AbsoluteGround ;
+    :manifestsAs :Projection ;
+    :returnsThrough :Reflection .
+
+# Primary Domain Types
+
+:NatureDomain a owl:Class ;
+    rdfs:subClassOf :Domain ;
+    :hasPrinciple :NaturePrinciple .
+
+:MindDomain a owl:Class ;
+    rdfs:subClassOf :Domain ;
+    :hasPrinciple :MindPrinciple .
+
+:SpiritDomain a owl:Class ;
+    rdfs:subClassOf :Domain ;
+    :hasPrinciple :SpiritPrinciple .
+
+:LogicDomain a owl:Class ;
+    rdfs:subClassOf :Domain ;
+    :hasPrinciple :LogicPrinciple .
+
+# Principle Generation Process
+
+:PrincipleGeneration a owl:Class ;
+    rdfs:subClassOf :SystemProcess ;
+    :hasPhase :SelfAssertion, :SelfCertainty ;
+    :produces :Principle .
+
+:SelfAssertion a owl:Class ;
+    rdfs:subClassOf :GenerationPhase ;
+    :establishes :Unity ;
+    :creates :DomainBoundary .
+
+:SelfCertainty a owl:Class ;
+    rdfs:subClassOf :GenerationPhase ;
+    :establishes :Disjunction ;
+    :validates :DomainStructure .
+
+# Domain Relations
+
+:DomainRelation a owl:Class ;
+    :hasType :Internal, :External ;
+    :connects :Domain ;
+    :validatedBy :RelationValidator .
+
+# SHACL Shapes for Validation
+
+:PrincipleShape a sh:NodeShape ;
+    sh:targetClass :Principle ;
+    sh:property [
+        sh:path :hasUnity ;
+        sh:minCount 1 ;
+        sh:message "Principle must establish unity" ;
+    ] ;
+    sh:property [
+        sh:path :hasDisjunction ;
+        sh:minCount 1 ;
+        sh:message "Principle must establish disjunction" ;
+    ] .
+
+:DomainShape a sh:NodeShape ;
+    sh:targetClass :Domain ;
+    sh:property [
+        sh:path :hasBoundary ;
+        sh:minCount 1 ;
+        sh:message "Domain must have defined boundary" ;
+    ] ;
+    sh:property [
+        sh:path :hasStructure ;
+        sh:minCount 1 ;
+        sh:message "Domain must have internal structure" ;
+    ] .
+
+# Generation Rules
+
+:PrincipleGenerationRule a spin:Rule ;
+    spin:body [
+        a sp:Construct ;
+        sp:text """
+            CONSTRUCT {
+                ?principle :generates ?domain .
+                ?domain :hasBoundary ?boundary .
+                ?domain :hasStructure ?structure .
+            }
+            WHERE {
+                ?principle a :Principle .
+                ?principle :hasUnity ?unity .
+                ?principle :hasDisjunction ?disjunction .
+                BIND(UUID() AS ?domain)
+                BIND(UUID() AS ?boundary)
+                BIND(UUID() AS ?structure)
+            }
+        """ ;
+    ] .
+
+# Integration Components
+
+:DomainIntegration a :Component ;
+    :implements [
+        :horizontalIntegration :CrossDomainRelations ;
+        :verticalIntegration :DomainHierarchy ;
+    ] ;
+    :validates [
+        :internalCoherence :DomainValidator ;
+        :externalRelations :SystemValidator ;
+    ] .
+
+# Validation Templates
+
+:ValidationTemplate a spin:Template ;
+    spin:body [
+        a sp:Select ;
+        sp:text """
+            SELECT ?domain ?validation
+            WHERE {
+                ?domain a :Domain .
+                ?domain :hasPrinciple ?principle .
+                ?principle :hasUnity ?unity .
+                ?principle :hasDisjunction ?disjunction .
+                FILTER NOT EXISTS {
+                    ?validation a :Invalid .
+                }
+            }
+        """ ;
+    ] .
+
+# Core Classes
+
+:PrimordialConcept a owl:Class ;
+    rdfs:subClassOf :AbsoluteGround ;
+    :manifests :FirstKriya ;
+    :differentiatesInto :PhilosophicalScience .
+
+:FirstKriya a owl:Class ;
+    rdfs:subClassOf :PrimaryMovement ;
+    :engages :HigherFaculty ;
+    :produces :PrincipleExpression .
+
+:HigherFaculty a owl:Class .
+
+:PureReason a owl:Class ;
+    rdfs:subClassOf :HigherFaculty ;
+    :receives :OntologicalPrinciple ;
+    :generates :Ontology .
+
+:PracticalReason a owl:Class ;
+    rdfs:subClassOf :HigherFaculty ;
+    :receives :AxiologicalPrinciple ;
+    :generates :Axiology .
+
+:PowerOfJudgment a owl:Class ;
+    rdfs:subClassOf :HigherFaculty ;
+    :receives :EpistemologicalPrinciple ;
+    :generates :Epistemology .
+
+# Domain Classes
+
+:PhilosophicalScience a owl:Class ;
+    :hasStructure :DomainStructure ;
+    :hasDevelopment :DomainDevelopment .
+
+:Ontology a owl:Class ;
+    rdfs:subClassOf :PhilosophicalScience ;
+    :concernsBeing true ;
+    :hasCategories :OntologicalCategories .
+
+:Axiology a owl:Class ;
+    rdfs:subClassOf :PhilosophicalScience ;
+    :concernsValue true ;
+    :hasNorms :AxiologicalNorms .
+
+:Epistemology a owl:Class ;
+    rdfs:subClassOf :PhilosophicalScience ;
+    :concernsKnowledge true ;
+    :hasForms :EpistemologicalForms .
+
+# Integration Structures
+
+:Integration a owl:Class ;
+    :hasType :Horizontal, :Vertical ;
+    :concernsDomains :PhilosophicalScience ;
+    :maintainsUnity true .
+
+# SHACL Shapes
+
+:PrimordialShape a sh:NodeShape ;
+    sh:targetClass :PrimordialConcept ;
+    sh:property [
+        sh:path :manifests ;
+        sh:minCount 1 ;
+        sh:message "Must manifest as FirstKriya" ;
+    ] ;
+    sh:property [
+        sh:path :differentiatesInto ;
+        sh:qualifiedMinCount 3 ;
+        sh:qualifiedValueShape [
+            sh:class :PhilosophicalScience ;
+        ] ;
+        sh:message "Must differentiate into three sciences" ;
+    ] .
+
+# Process Rules
+
+:DifferentiationRule a spin:Rule ;
+    spin:body [
+        a sp:Construct ;
+        sp:text """
+            CONSTRUCT {
+                ?concept :differentiatesInto ?science .
+                ?faculty :receives ?principle .
+                ?faculty :generates ?science .
+            }
+            WHERE {
+                ?concept a :PrimordialConcept .
+                ?faculty a :HigherFaculty .
+                BIND(UUID() AS ?science)
+                BIND(UUID() AS ?principle)
+            }
+        """ ;
+    ] .
+
+# Integration Components
+
+:IntegrationComponent a :Component ;
+    :implements [
+        :horizontalIntegration :CrossDomainRelations ;
+        :verticalIntegration :UnityPreservation ;
+    ] ;
+    :validates [
+        :domainIntegrity :DomainValidator ;
+        :systematicCoherence :SystemValidator ;
+    ] .
+
+# Development Templates
+
+:DevelopmentTemplate a spin:Template ;
+    spin:body [
+        a sp:Select ;
+        sp:text """
+            SELECT ?science ?development
+            WHERE {
+                ?science a :PhilosophicalScience .
+                ?science :hasDevelopment ?development .
+                ?development :preservesUnity true .
+                ?development :maintainsIdentity true .
+                FILTER NOT EXISTS {
+                    ?development a :Incomplete .
+                }
+            }
+        """ ;
+    ] .
+
+# Core Classes
+
+:SupersensibleSpace a owl:Class ;
+    rdfs:subClassOf :TranscendentalStructure ;
+    :hasOrigin :TranscendentalZero ;
+    :hasAxes :CoordinateAxis ;
+    :hasPlanes :CoordinatePlane .
+
+:CoordinateAxis a owl:Class .
+
+:XAxis a owl:Class ;
+    rdfs:subClassOf :CoordinateAxis ;
+    :corresponds :A ;
+    :determines :Being ;
+    :operates :Extension .
+
+:YAxis a owl:Class ;
+    rdfs:subClassOf :CoordinateAxis ;
+    :corresponds :U ;
+    :determines :Value ;
+    :operates :Intension .
+
+:ZAxis a owl:Class ;
+    rdfs:subClassOf :CoordinateAxis ;
+    :corresponds :M ;
+    :determines :Knowledge ;
+    :operates :Comprehension .
+
+# Sound Structure
+
+:PrimordialSound a owl:Class ;
+    :hasComponents :SoundComponent ;
+    :manifestsAs :Vibration .
+
+:A a owl:Class ;
+    rdfs:subClassOf :SoundComponent ;
+    :generates :Creation ;
+    :vibratesOn :XAxis .
+
+:U a owl:Class ;
+    rdfs:subClassOf :SoundComponent ;
+    :generates :Preservation ;
+    :vibratesOn :YAxis .
+
+:M a owl:Class ;
+    rdfs:subClassOf :SoundComponent ;
+    :generates :Dissolution ;
+    :vibratesOn :ZAxis .
+
+# Operation Classes
+
+:CoordinateOperation a owl:Class ;
+    :operatesOn :CoordinateAxis ;
+    :produces :Determination .
+
+:Extension a owl:Class ;
+    rdfs:subClassOf :CoordinateOperation ;
+    :determines :Being ;
+    :follows :CreationSequence .
+
+:Intension a owl:Class ;
+    rdfs:subClassOf :CoordinateOperation ;
+    :determines :Value ;
+    :follows :PreservationSequence .
+
+:Comprehension a owl:Class ;
+    rdfs:subClassOf :CoordinateOperation ;
+    :determines :Knowledge ;
+    :follows :DissolutionSequence .
+
+# Integration Structures
+
+:SpaceIntegration a owl:Class ;
+    :integrates :CoordinateAxis ;
+    :produces :SupersensibleSpace ;
+    :maintains :SystemicUnity .
+
+# SHACL Shapes
+
+:CoordinateShape a sh:NodeShape ;
+    sh:targetClass :SupersensibleSpace ;
+    sh:property [
+        sh:path :hasAxes ;
+        sh:qualifiedMinCount 3 ;
+        sh:qualifiedValueShape [
+            sh:class :CoordinateAxis ;
+        ] ;
+        sh:message "Must have three coordinate axes" ;
+    ] .
+
+# Process Rules
+
+:CoordinateRule a spin:Rule ;
+    spin:body [
+        a sp:Construct ;
+        sp:text """
+            CONSTRUCT {
+                ?space :hasAxis ?axis .
+                ?axis :corresponds ?sound .
+                ?axis :determines ?principle .
+            }
+            WHERE {
+                ?space a :SupersensibleSpace .
+                ?axis a :CoordinateAxis .
+                ?sound a :SoundComponent .
+                BIND(UUID() AS ?principle)
+            }
+        """ ;
+    ] .
+
+# Integration Components
+
+:IntegrationComponent a :Component ;
+    :implements [
+        :axisIntegration :CoordinateSystem ;
+        :soundIntegration :VibrationSystem ;
+    ] ;
+    :validates [
+        :spaceIntegrity :SpaceValidator ;
+        :soundCoherence :VibrationValidator ;
+    ] .
+
+# Operation Templates
+
+:OperationTemplate a spin:Template ;
+    spin:body [
+        a sp:Select ;
+        sp:text """
+            SELECT ?operation ?determination
+            WHERE {
+                ?operation a :CoordinateOperation .
+                ?operation :determines ?determination .
+                ?operation :follows ?sequence .
+                FILTER NOT EXISTS {
+                    ?operation a :Incomplete .
+                }
+            }
+        """ ;
+    ] .
+
+# Core Classes
+
+:PrimordialConcept a owl:Class ;
+    rdfs:subClassOf :AbsoluteGround ;
+    :transcends :Light, :Representation ;
+    :manifests :ConcealedOneness ;
+    rdfs:comment "The original unity that precedes both light and its representation" .
+
+:Light a owl:Class ;
+    rdfs:subClassOf :ConsciousnessAspect ;
+    :hasNature :SelfIlluminating ;
+    :undergoes :Objectification ;
+    rdfs:comment "Pure light of consciousness (prakāśa)" .
+
+:Representation a owl:Class ;
+    rdfs:subClassOf :ConsciousnessAspect ;
+    :represents :Light ;
+    :hasNature :Reflective ;
+    rdfs:comment "The representative or proxy of light (ābhāsa)" .
+
+:ConcealedOneness a owl:Class ;
+    rdfs:subClassOf :UnityPrinciple ;
+    :manifests :AbsoluteUnity, :AbsoluteDisjunction ;
+    :isLivedIn :SeeingAct ;
+    rdfs:comment "The hidden unity that contains both oneness and difference" .
+
+# Process Classes
+
+:ConsciousnessProcess a owl:Class ;
+    :hasPhases :Illumination, :Reflection, :Integration ;
+    :maintains :ParadoxicalNature .
+
+:Objectification a owl:Class ;
+    rdfs:subClassOf :ConsciousnessProcess ;
+    :produces :ObjectifiedLight ;
+    :creates :ConsciousnessParadox .
+
+:SeeingAct a owl:Class ;
+    rdfs:subClassOf :ConsciousnessProcess ;
+    :realizes :ConcealedOneness ;
+    :transcends :SubjectObjectDuality .
+
+# Validation Rules
+
+:ConsciousnessShape a sh:NodeShape ;
+    sh:targetClass :ConsciousnessProcess ;
+    sh:property [
+        sh:path :maintainsParadox ;
+        sh:minCount 1 ;
+        sh:message "Must preserve paradoxical nature of consciousness" ;
+    ] .
+
+:UnityShape a sh:NodeShape ;
+    sh:targetClass :ConcealedOneness ;
+    sh:property [
+        sh:path :manifestsUnity ;
+        sh:minCount 1 ;
+        sh:message "Must manifest both unity and difference" ;
+    ] .
+
+# Integration Components
+
+:ConsciousnessIntegration a :Component ;
+    :implements [
+        :paradoxPreservation :ParadoxValidator ;
+        :unityManifestation :UnityValidator ;
+    ] ;
+    :resolves :ObjectificationParadox ;
+    :achieves :NonDualRealization .
+
+# Resolution Templates
+
+:ResolutionTemplate a spin:Template ;
+    spin:body [
+        a sp:Select ;
+        sp:text """
+            SELECT ?process ?resolution
+            WHERE {
+                ?process a :ConsciousnessProcess .
+                ?process :transcends :SubjectObjectDuality .
+                ?process :maintains :ParadoxicalNature .
+                ?process :achieves ?resolution .
+                FILTER NOT EXISTS {
+                    ?resolution a :DualityBased .
+                }
+            }
+        """ ;
+    ] .
+
+# Core Classes
+
+:PrimordialConcept a owl:Class ;
+    rdfs:subClassOf :AbsoluteGround ;
+    :transcends :Light, :Representation ;
+    :manifests :ConcealedOneness ;
+    rdfs:comment "The original unity that precedes both light and its representation" .
+
+:Light a owl:Class ;
+    rdfs:subClassOf :ConsciousnessAspect ;
+    :hasNature :SelfIlluminating ;
+    :undergoes :Objectification ;
+    rdfs:comment "Pure light of consciousness (prakāśa)" .
+
+:Representation a owl:Class ;
+    rdfs:subClassOf :ConsciousnessAspect ;
+    :represents :Light ;
+    :hasNature :Reflective ;
+    rdfs:comment "The representative or proxy of light (ābhāsa)" .
+
+:ConcealedOneness a owl:Class ;
+    rdfs:subClassOf :UnityPrinciple ;
+    :manifests :AbsoluteUnity, :AbsoluteDisjunction ;
+    :isLivedIn :SeeingAct ;
+    rdfs:comment "The hidden unity that contains both oneness and difference" .
+
+# Process Classes
+
+:ConsciousnessProcess a owl:Class ;
+    :hasPhases :Illumination, :Reflection, :Integration ;
+    :maintains :ParadoxicalNature .
+
+:Objectification a owl:Class ;
+    rdfs:subClassOf :ConsciousnessProcess ;
+    :produces :ObjectifiedLight ;
+    :creates :ConsciousnessParadox .
+
+:SeeingAct a owl:Class ;
+    rdfs:subClassOf :ConsciousnessProcess ;
+    :realizes :ConcealedOneness ;
+    :transcends :SubjectObjectDuality .
+
+# Validation Rules
+
+:ConsciousnessShape a sh:NodeShape ;
+    sh:targetClass :ConsciousnessProcess ;
+    sh:property [
+        sh:path :maintainsParadox ;
+        sh:minCount 1 ;
+        sh:message "Must preserve paradoxical nature of consciousness" ;
+    ] .
+
+:UnityShape a sh:NodeShape ;
+    sh:targetClass :ConcealedOneness ;
+    sh:property [
+        sh:path :manifestsUnity ;
+        sh:minCount 1 ;
+        sh:message "Must manifest both unity and difference" ;
+    ] .
+
+# Integration Components
+
+:ConsciousnessIntegration a :Component ;
+    :implements [
+        :paradoxPreservation :ParadoxValidator ;
+        :unityManifestation :UnityValidator ;
+    ] ;
+    :resolves :ObjectificationParadox ;
+    :achieves :NonDualRealization .
+
+# Resolution Templates
+
+:ResolutionTemplate a spin:Template ;
+    spin:body [
+        a sp:Select ;
+        sp:text """
+            SELECT ?process ?resolution
+            WHERE {
+                ?process a :ConsciousnessProcess .
+                ?process :transcends :SubjectObjectDuality .
+                ?process :maintains :ParadoxicalNature .
+                ?process :achieves ?resolution .
+                FILTER NOT EXISTS {
+                    ?resolution a :DualityBased .
+                }
+            }
+        """ ;
+    ] .
+
+# Core Classes
+
+:PrimordialConcept a owl:Class ;
+    rdfs:subClassOf :AbsoluteGround ;
+    :hasContent :SelfSubsistentContent ;
+    :manifests :OrganicUnity ;
+    :grounds :Appearance .
+
+:SelfSubsistentContent a owl:Class ;
+    rdfs:subClassOf :ConceptualContent ;
+    :isUnchangeable true ;
+    :isUndeniable true ;
+    :determinesInternally true .
+
+:OrganicUnity a owl:Class ;
+    rdfs:subClassOf :UnityPrinciple ;
+    :hasStructure :ThroughOneAnother ;
+    :isInternallyOrganized true .
+
+:ThroughOneAnother a owl:Class ;
+    rdfs:subClassOf :OrganicStructure ;
+    :connects :Image, :Imaged ;
+    :maintains :InternalRelation .
+
+# Process Classes
+
+:SelfGrounding a owl:Class ;
+    rdfs:subClassOf :ConceptualProcess ;
+    :grounds :Appearance ;
+    :maintains :InternalDetermination .
+
+:OrganicManifestation a owl:Class ;
+    rdfs:subClassOf :ConceptualProcess ;
+    :expresses :InnerBeing ;
+    :preserves :OrganicUnity .
+
+# Transformation Structure
+
+:ConceptTransformation a owl:Class ;
+    :hasInitialState :DividingPrinciple ;
+    :hasFinalState :SelfGroundingConcept ;
+    :achieves :InternalDetermination .
+
+# SHACL Shapes
+
+:ConceptShape a sh:NodeShape ;
+    sh:targetClass :PrimordialConcept ;
+    sh:property [
+        sh:path :hasContent ;
+        sh:minCount 1 ;
+        sh:message "Must have self-subsistent content" ;
+    ] ;
+    sh:property [
+        sh:path :manifests ;
+        sh:qualifiedValueShape [
+            sh:class :OrganicUnity ;
+        ] ;
+        sh:qualifiedMinCount 1 ;
+        sh:message "Must manifest organic unity" ;
+    ] .
+
+# Process Rules
+
+:GroundingRule a spin:Rule ;
+    spin:body [
+        a sp:Construct ;
+        sp:text """
+            CONSTRUCT {
+                ?concept :grounds ?appearance .
+                ?appearance :manifestsFrom ?concept .
+            }
+            WHERE {
+                ?concept a :PrimordialConcept .
+                ?concept :hasContent ?content .
+                ?content :determinesInternally true .
+                BIND(UUID() AS ?appearance)
+            }
+        """ ;
+    ] .
+
+# Integration Components
+
+:ConceptIntegration a :Component ;
+    :implements [
+        :selfGrounding :InternalDetermination ;
+        :organicUnity :ThroughOneAnother ;
+    ] ;
+    :validates [
+        :contentSubsistence :ContentValidator ;
+        :unityMaintenance :UnityValidator ;
+    ] .
+
+# Validation Templates
+
+:ValidationTemplate a spin:Template ;
+    spin:body [
+        a sp:Select ;
+        sp:text """
+            SELECT ?concept ?validation
+            WHERE {
+                ?concept a :PrimordialConcept .
+                ?concept :hasContent ?content .
+                ?concept :manifests ?unity .
+                ?content :determinesInternally true .
+                ?unity :isInternallyOrganized true .
+                FILTER NOT EXISTS {
+                    ?validation a :ExternalDetermination .
+                }
+            }
+        """ ;
+    ] .
+
+# Core Classes
+
+:PrimordialConcept a owl:Class ;
+    rdfs:subClassOf :AbsoluteGround ;
+    :hasContent :SelfSubsistentContent ;
+    :manifests :OrganicUnity ;
+    :grounds :Appearance .
+
+:SelfSubsistentContent a owl:Class ;
+    rdfs:subClassOf :ConceptualContent ;
+    :isUnchangeable true ;
+    :isUndeniable true ;
+    :determinesInternally true .
+
+:OrganicUnity a owl:Class ;
+    rdfs:subClassOf :UnityPrinciple ;
+    :hasStructure :ThroughOneAnother ;
+    :isInternallyOrganized true .
+
+:ThroughOneAnother a owl:Class ;
+    rdfs:subClassOf :OrganicStructure ;
+    :connects :Image, :Imaged ;
+    :maintains :InternalRelation .
+
+# Process Classes
+
+:SelfGrounding a owl:Class ;
+    rdfs:subClassOf :ConceptualProcess ;
+    :grounds :Appearance ;
+    :maintains :InternalDetermination .
+
+:OrganicManifestation a owl:Class ;
+    rdfs:subClassOf :ConceptualProcess ;
+    :expresses :InnerBeing ;
+    :preserves :OrganicUnity .
+
+# Transformation Structure
+
+:ConceptTransformation a owl:Class ;
+    :hasInitialState :DividingPrinciple ;
+    :hasFinalState :SelfGroundingConcept ;
+    :achieves :InternalDetermination .
+
+# SHACL Shapes
+
+:ConceptShape a sh:NodeShape ;
+    sh:targetClass :PrimordialConcept ;
+    sh:property [
+        sh:path :hasContent ;
+        sh:minCount 1 ;
+        sh:message "Must have self-subsistent content" ;
+    ] ;
+    sh:property [
+        sh:path :manifests ;
+        sh:qualifiedValueShape [
+            sh:class :OrganicUnity ;
+        ] ;
+        sh:qualifiedMinCount 1 ;
+        sh:message "Must manifest organic unity" ;
+    ] .
+
+# Process Rules
+
+:GroundingRule a spin:Rule ;
+    spin:body [
+        a sp:Construct ;
+        sp:text """
+            CONSTRUCT {
+                ?concept :grounds ?appearance .
+                ?appearance :manifestsFrom ?concept .
+            }
+            WHERE {
+                ?concept a :PrimordialConcept .
+                ?concept :hasContent ?content .
+                ?content :determinesInternally true .
+                BIND(UUID() AS ?appearance)
+            }
+        """ ;
+    ] .
+
+# Integration Components
+
+:ConceptIntegration a :Component ;
+    :implements [
+        :selfGrounding :InternalDetermination ;
+        :organicUnity :ThroughOneAnother ;
+    ] ;
+    :validates [
+        :contentSubsistence :ContentValidator ;
+        :unityMaintenance :UnityValidator ;
+    ] .
+
+# Validation Templates
+
+:ValidationTemplate a spin:Template ;
+    spin:body [
+        a sp:Select ;
+        sp:text """
+            SELECT ?concept ?validation
+            WHERE {
+                ?concept a :PrimordialConcept .
+                ?concept :hasContent ?content .
+                ?concept :manifests ?unity .
+                ?content :determinesInternally true .
+                ?unity :isInternallyOrganized true .
+                FILTER NOT EXISTS {
+                    ?validation a :ExternalDetermination .
+                }
+            }
+        """ ;
+    ] .
+
+# Core Classes
+
+:PrimordialConcept a owl:Class ;
+    rdfs:subClassOf :AbsoluteGround ;
+    :hasContent :SelfSubsistentContent ;
+    :manifests :OrganicUnity ;
+    :grounds :Appearance .
+
+:SelfSubsistentContent a owl:Class ;
+    rdfs:subClassOf :ConceptualContent ;
+    :isUnchangeable true ;
+    :isUndeniable true ;
+    :determinesInternally true .
+
+:OrganicUnity a owl:Class ;
+    rdfs:subClassOf :UnityPrinciple ;
+    :hasStructure :ThroughOneAnother ;
+    :isInternallyOrganized true .
+
+:ThroughOneAnother a owl:Class ;
+    rdfs:subClassOf :OrganicStructure ;
+    :connects :Image, :Imaged ;
+    :maintains :InternalRelation .
+
+# Process Classes
+
+:SelfGrounding a owl:Class ;
+    rdfs:subClassOf :ConceptualProcess ;
+    :grounds :Appearance ;
+    :maintains :InternalDetermination .
+
+:OrganicManifestation a owl:Class ;
+    rdfs:subClassOf :ConceptualProcess ;
+    :expresses :InnerBeing ;
+    :preserves :OrganicUnity .
+
+# Transformation Structure
+
+:ConceptTransformation a owl:Class ;
+    :hasInitialState :DividingPrinciple ;
+    :hasFinalState :SelfGroundingConcept ;
+    :achieves :InternalDetermination .
+
+# SHACL Shapes
+
+:ConceptShape a sh:NodeShape ;
+    sh:targetClass :PrimordialConcept ;
+    sh:property [
+        sh:path :hasContent ;
+        sh:minCount 1 ;
+        sh:message "Must have self-subsistent content" ;
+    ] ;
+    sh:property [
+        sh:path :manifests ;
+        sh:qualifiedValueShape [
+            sh:class :OrganicUnity ;
+        ] ;
+        sh:qualifiedMinCount 1 ;
+        sh:message "Must manifest organic unity" ;
+    ] .
+
+# Process Rules
+
+:GroundingRule a spin:Rule ;
+    spin:body [
+        a sp:Construct ;
+        sp:text """
+            CONSTRUCT {
+                ?concept :grounds ?appearance .
+                ?appearance :manifestsFrom ?concept .
+            }
+            WHERE {
+                ?concept a :PrimordialConcept .
+                ?concept :hasContent ?content .
+                ?content :determinesInternally true .
+                BIND(UUID() AS ?appearance)
+            }
+        """ ;
+    ] .
+
+# Integration Components
+
+:ConceptIntegration a :Component ;
+    :implements [
+        :selfGrounding :InternalDetermination ;
+        :organicUnity :ThroughOneAnother ;
+    ] ;
+    :validates [
+        :contentSubsistence :ContentValidator ;
+        :unityMaintenance :UnityValidator ;
+    ] .
+
+# Validation Templates
+
+:ValidationTemplate a spin:Template ;
+    spin:body [
+        a sp:Select ;
+        sp:text """
+            SELECT ?concept ?validation
+            WHERE {
+                ?concept a :PrimordialConcept .
+                ?concept :hasContent ?content .
+                ?concept :manifests ?unity .
+                ?content :determinesInternally true .
+                ?unity :isInternallyOrganized true .
+                FILTER NOT EXISTS {
+                    ?validation a :ExternalDetermination .
+                }
+            }
+        """ ;
+    ] .
