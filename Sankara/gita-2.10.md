@@ -105,7 +105,7 @@
    - Pattern applies to all beings
    - Teaching intended for universal benefit
    - Arjuna as representative case
-   -
+
 # Opposition to Pure Knowledge Path
 
 ## Opposing View Introduced
@@ -317,6 +317,7 @@
    - Uses cross-references from multiple chapters
    - Shows internal consistency of two-path interpretation
    - Demonstrates careful attention to question-answer structure
+
 # The Distinctness of Paths and Transcendence
 
 ## On Ritual Action
