@@ -93,6 +93,7 @@ Two key reasons given:
 3. Progressive Revelation
    - From apparent knowledge
    - To direct realization
+
 # Trans-Idealist Analysis of Bhagavad Gītā 2.11
 
 ## Core Philosophical Structure

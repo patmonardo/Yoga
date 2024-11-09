@@ -135,6 +135,7 @@
    - Self-establishing nature
    - Beyond subject-object
    - Pure consciousness
+
 # Fichtean Analysis of Bhagavad Gītā 2.12
 
 ## Tathandlung Structure

@@ -2,273 +2,232 @@
 
 ## Initial Context Setting
 
-### Sanskrit Text
+### Base Verse
 ```sanskrit
-atra 'dṛṣṭvā tu pāṇḍavānīkam' (bha. gī. 1.2)
-ityārabhya yāvat 'na yotsya iti govindamuktvā tūṣṇīṃ babhūva ha' (bha. gī. 2.9)
-ityetadantaḥ prāṇināṃ śokamohādisaṃsārabījabhūtadoṣodbhavakāraṇapradarśanārthatvena vyākhyeyo granthaḥ |
+संजय उवाच —
+तं तथा कृपयाविष्टमश्रुपूर्णाकुलेक्षणम् ।
+विषीदन्तमिदं वाक्यमुवाच मधुसूदनः ॥ १० ॥
 ```
 
-### Translation
-The text from "Having seen the Pāṇḍava army" (1.2) up to "Having told Govinda 'I will not fight,' he fell silent" (2.9) is to be interpreted as demonstrating the cause of the arising of defects that are the seeds of saṃsāra, such as grief and delusion, in living beings.
+### Commentary Text
+```sanskrit
+अत्र 'दृष्ट्वा तु पाण्डवानीकम्' (भ. गी. १.२) इत्यारभ्य यावत् 'न योत्स्य इति गोविन्दमुक्त्वा तूष्णीं बभूव ह' (भ. गी. २.९) इत्येतदन्तः प्राणिनां शोकमोहादिसंसारबीजभूतदोषोद्भवकारणप्रदर्शनार्थत्वेन व्याख्येयो ग्रन्थः ।
+```
 
 ### Technical Analysis
 - Key terms:
-  - śoka-moha: grief and delusion as fundamental causes
-  - saṃsāra-bīja: seeds of cyclic existence
-  - doṣodbhava: arising of defects
-  - pradarśana: demonstration/showing forth
+  - शोकमोह (śokamoha): grief and delusion as fundamental causes
+  - संसारबीज (saṃsāra-bīja): seeds of cyclic existence
+  - दोषोद्भव (doṣodbhava): arising of defects
+  - प्रदर्शन (pradarśana): demonstration/showing forth
 
 ## Explanation of Arjuna's State
 
-### Sanskrit Text
+### Commentary Text
 ```sanskrit
-tathāhi — arjunena rājyaguruputramitrasuhr̥tsvajanasambandhibāndhaveṣu 'ahametesām' 'mamaite' ityevaṃpratyayanimittasnehavicchedādinimittau ātmanaḥ śokamohau pradarśitau 'kathaṃ bhīṣmamahaṃ saṅkhye' (bha. gī. 2.4) ityādinā |
+तथाहि — अर्जुनेन राज्यगुरुपुत्रमित्रसुहृत्स्वजनसम्बन्धिबान्धवेषु 'अहमेतेषाम्' 'ममैते' इत्येवंप्रत्ययनिमित्तस्नेहविच्छेदादिनिमित्तौ आत्मनः शोकमोहौ प्रदर्शितौ 'कथं भीष्ममहं सङ्ख्ये' (भ. गी. २.४) इत्यादिना ।
 
-śokamohābhyāṃ hyabhibhūtaviveakavijñānaḥ svata eva kṣatradharme yuddhe pravr̥tto'pi tasmādyuddhāduparāma; paradharmam ca bhikṣājīvanādikaṃ kartuṃ pravr̥te |
+शोकमोहाभ्यां ह्यभिभूतविवेकविज्ञानः स्वत एव क्षत्रधर्मे युद्धे प्रवृत्तोऽपि तस्माद्युद्धादुपराम; परधर्मं च भिक्षाजीवनादिकं कर्तुं प्रवृते ।
 ```
-
-### Translation
-Thus indeed - Arjuna displayed his own grief and delusion, caused by the severance of attachment based on the notions of "I am theirs" and "they are mine" towards kings, teachers, sons, friends, well-wishers, relatives and kinsmen, saying "How can I fight against Bhīṣma?" (2.4) and so forth.
-
-Overwhelmed by grief and delusion, his discriminative understanding overcome, though naturally engaged in the warrior's duty of battle, he withdrew from that battle and turned to another's duty such as living by begging.
 
 ### Technical Analysis
 - Key philosophical concepts:
-  - aham-mama: I/mine identification
-  - viveka-vijñāna: discriminative understanding
-  - svadharma vs paradharma: own duty vs another's duty
+  - अहम्-मम (aham-mama): I/mine identification
+  - विवेक-विज्ञान (viveka-vijñāna): discriminative understanding
+  - स्वधर्म/परधर्म (svadharma/paradharma): own duty vs another's duty
 - Progression of delusion:
   1. False identification
   2. Loss of discrimination
-  3. Abandonment of svadharma
-  4. Attraction to paradharma
+  3. Abandonment of स्वधर्म
+  4. Attraction to परधर्म
 
 ## Universal Application
 
-### Sanskrit Text
+### Commentary Text
 ```sanskrit
-tathā ca sarvaprāṇināṃ śokamohādidoṣāviṣṭacetasāṃ svabhāvata eva svadharmaparityāgaḥ pratiṣiddhasevā ca syāt |
-svadharme pravr̥ttānāmapi teṣāṃ vāṅmanaḥkāyādīnāṃ pravr̥ttiḥ phalābhisandhipūrvikāiva sāhaṅkārā ca bhavati |
+तथा च सर्वप्राणिनां शोकमोहादिदोषाविष्टचेतसां स्वभावत एव स्वधर्मपरित्यागः प्रतिषिद्धसेवा च स्यात् । स्वधर्मे प्रवृत्तानामपि तेषां वाङ्मनःकायादीनां प्रवृत्तिः फलाभिसन्धिपूर्विकैव साहङ्कारा च भवति ।
 ```
-
-### Translation
-And thus for all beings whose minds are possessed by defects like grief and delusion, there naturally occurs abandonment of their own duty and engagement in prohibited actions. Even when engaged in their own duty, their activity of speech, mind, and body is preceded by desire for results and accompanied by ego.
 
 ### Technical Analysis
 - Universal pattern identified:
-  1. doṣāviṣṭa-cetas: mind possessed by defects
-  2. svadharma-parityāga: abandonment of own duty
-  3. pratiṣiddha-sevā: engagement in prohibited acts
-- Even in svadharma:
-  - phalābhisandhi: desire for results
-  - sāhaṅkāra: presence of ego
+  1. दोषाविष्ट-चेतस् (doṣāviṣṭa-cetas): mind possessed by defects
+  2. स्वधर्म-परित्याग (svadharma-parityāga): abandonment of own duty
+  3. प्रतिषिद्ध-सेवा (pratiṣiddha-sevā): engagement in prohibited acts
+- Even in स्वधर्म:
+  - फलाभिसन्धि (phalābhisandhi): desire for results
+  - साहङ्कार (sāhaṅkāra): presence of ego
 
 ## Nature of Saṃsāra
 
-### Sanskrit Text
+### Commentary Text
 ```sanskrit
-tatraivaṃ sati dharmādharmopacayāt iṣṭāniṣṭajanmasukhduḥkhādipāptilakṣaṇaḥ saṃsāraḥ anuparato bhavati |
+तत्रैवं सति धर्माधर्मोपचयात् इष्टानिष्टजन्मसुखदुःखादिप्राप्तिलक्षणः संसारः अनुपरतो भवति ।
 ```
 
-### Translation
-In this situation, due to the accumulation of dharma and adharma, saṃsāra - characterized by attainment of desired and undesired births, pleasures and pains, etc. - continues without cessation.
-
 ### Technical Analysis
-- Causal chain of saṃsāra:
-  1. dharma-adharma accumulation
-  2. iṣṭa-aniṣṭa results
-  3. janma-sukha-duḥkha cycle
-- Key characteristic: anupara (non-cessation)
+- Causal chain of संसार:
+  1. धर्म-अधर्म accumulation
+  2. इष्ट-अनिष्ट results
+  3. जन्म-सुख-दुःख cycle
+- Key characteristic: अनुपर (anupara, non-cessation)
 
 ## Solution Through Knowledge
 
-### Sanskrit Text
+### Commentary Text
 ```sanskrit
-ityataḥ saṃsārabījabhūtau śokamohau tayośca sarvakārmasaṃnyāsapūrvakādātmajñānāt nānyato nivr̥ttiriti tadupadiśikṣuḥ sarvālokānugrahārtham arjunaṃ nimittīkr̥tya āha bhagavānvāsudevaḥ — 'aśocyān' (bha. gī. 2.11) ityādi ||
+इत्यतः संसारबीजभूतौ शोकमोहौ तयोश्च सर्वकर्मसंन्यासपूर्वकादात्मज्ञानात् नान्यतो निवृत्तिरिति तदुपदिशिक्षुः सर्वलोकानुग्रहार्थम् अर्जुनं निमित्तीकृत्य आह भगवान्वासुदेवः — 'अशोच्यान्' (भ. गी. २.११) इत्यादि ।
 ```
-
-### Translation
-Therefore, grief and delusion are the seeds of saṃsāra, and their cessation comes only from self-knowledge preceded by complete renunciation of all actions, not from anything else. Wishing to teach this, for the benefit of all people, using Arjuna as the occasion, Lord Vāsudeva began speaking with "Those who should not be grieved for" (2.11).
 
 ### Technical Analysis
 - Solution structure:
-  1. sarvakārmasaṃnyāsa: complete renunciation
-  2. ātmajñāna: self-knowledge
+  1. सर्वकर्मसंन्यास (sarvakārmasaṃnyāsa): complete renunciation
+  2. आत्मज्ञान (ātmajñāna): self-knowledge
 - Universal application:
-  - sarvālokānugraha: benefit for all
-  - Arjuna as nimitta (instrumental cause)
-
----
+  - सर्वलोकानुग्रह (sarvālokānugraha): benefit for all
+  - Arjuna as निमित्त (nimitta, instrumental cause)
 
 ## Key Philosophical Points
 
-1. Root cause of saṃsāra:
-   - śoka (grief) and moha (delusion)
+1. Root cause of संसार:
+   - शोक (śoka, grief) and मोह (moha, delusion)
    - Based on false identification ("I am theirs"/"they are mine")
 
 2. Process of entanglement:
-   - Loss of viveka-vijñāna (discriminative understanding)
-   - Abandonment of svadharma (one's own duty)
-   - Action with phalābhisandhi (desire for results) and ahaṅkāra (ego)
+   - Loss of विवेक-विज्ञान (discriminative understanding)
+   - Abandonment of स्वधर्म (one's own duty)
+   - Action with फलाभिसन्धि (desire for results) and अहङ्कार (ego)
 
 3. Solution:
-   - sarvakārmasaṃnyāsa (complete renunciation of all actions)
-   - Followed by ātmajñāna (self-knowledge)
+   - सर्वकर्मसंन्यास (complete renunciation of all actions)
+   - Followed by आत्मज्ञान (self-knowledge)
 
 4. Universal applicability:
    - Pattern applies to all beings
    - Teaching intended for universal benefit
    - Arjuna as representative case
-
+   -
 # Opposition to Pure Knowledge Path
 
 ## Opposing View Introduced
 
-### Sanskrit Text
+### Commentary Text
 ```sanskrit
-atra kecidāhuḥ — sarvakārmasaṃnyāsapūrvakādātmajñānaniṣṭhāmātrādeva kevalāt kaivalyaṃ na prāpyata eva |
-kiṃ tarhi? agnihotrādiśrautasmārtakārmasahitāt jñānāt kaivalyaprāptiriti sarvāsu gītāsu niścito'rtha iti |
+अत्र केचिदाहुः — सर्वकर्मसंन्यासपूर्वकादात्मज्ञाननिष्ठामात्रादेव केवलात् कैवल्यं न प्राप्यत एव । किं तर्हि? अग्निहोत्रादिश्रौतस्मार्तकर्मसहितात् ज्ञानात् कैवल्यप्राप्तिरिति सर्वासु गीतासु निश्चितोऽर्थ इति ।
 ```
-
-### Translation
-Here some say: "Liberation (kaivalya) cannot be attained from mere steadfastness in self-knowledge preceded by complete renunciation of all actions alone. What then? Liberation comes from knowledge combined with Vedic and traditional actions like the Agnihotra - this is the established meaning in all the Gītā."
 
 ### Technical Analysis
 - Key opposing concepts:
-  - kevala jñāna (pure knowledge) vs karma-sahita jñāna (knowledge with action)
-  - Two types of karma mentioned:
-    - śrauta: Vedic rituals
-    - smārta: traditional duties
-- Critical term: kaivalya (liberation)
-  - Note the wordplay between kevala (alone) and kaivalya (liberation)
+  - केवल ज्ञान (kevala jñāna) vs कर्म-सहित ज्ञान (karma-sahita jñāna)
+  - Two types of कर्म:
+    - श्रौत (śrauta): Vedic rituals
+    - स्मार्त (smārta): traditional duties
+- Critical term: कैवल्य (kaivalya, liberation)
+  - Note wordplay between केवल (kevala, alone) and कैवल्य (kaivalya, liberation)
 
 ## Evidence Cited by Opponents
 
-### Sanskrit Text
+### Commentary Text
 ```sanskrit
-jñāpakaṃ ca āhurasya'rthasya — 'atha cet tvamimam dharmyaṃ saṅgrāmaṃ na kariṣyasi' (bha. gī. 2.33) 'karmaṇyevādhikāraste' (bha. gī. 2.47) 'kuru karmaiva tasmāttvam' (bha. gī. 4.15) ityādi |
+ज्ञापकं च आहुरस्यार्थस्य — 'अथ चेत् त्वमिमं धर्म्यं सङ्ग्रामं न करिष्यसि' (भ. गी. २.३३) 'कर्मण्येवाधिकारस्ते' (भ. गी. २.४७) 'कुरु कर्मैव तस्मात्त्वं' (भ. गी. ४.१५) इत्यादि ।
 ```
-
-### Translation
-And they cite as evidence for this meaning: "If you will not fight this righteous battle" (2.33), "Your right is to action alone" (2.47), "Therefore you must perform action" (4.15), and so forth.
 
 ### Technical Analysis
 - Opponents' textual evidence:
-  - Uses dharmic battle as example
-  - Emphasizes adhikāra (qualification/right) to action
-  - Stresses imperative for action
+  - Uses धर्म्य सङ्ग्राम (dharmya saṅgrāma) as example
+  - Emphasizes अधिकार (adhikāra) to action
+  - Stresses imperative for कर्म
 
 ## Defense of Vedic Action
 
-### Sanskrit Text
+### Commentary Text
 ```sanskrit
-hiṃsādiyuktatvāt vaidikaṃ karma adharmāya itīyamapyāśaṅkā na kāryā | katham? kṣātraṃ karma yuddhalakṣaṇaṃ gurubhrātr̥putrādihiṃsālakṣaṇamatyantaṃ krūramapi svadharma iti kr̥tvā na adharmāya;
+हिंसादियुक्तत्वात् वैदिकं कर्म अधर्माय इतीयमप्याशङ्का न कार्या । कथम्? क्षात्रं कर्म युद्धलक्षणं गुरुभ्रातृपुत्रादिहिंसालक्षणमत्यन्तं क्रूरमपि स्वधर्म इति कृत्वा न अधर्माय ।
 ```
-
-### Translation
-The doubt that Vedic action leads to adharma because it involves violence should not be entertained. Why? Because even extremely cruel warrior's duty characterized by battle and involving harm to teachers, brothers, sons, etc., being one's own dharma, does not lead to adharma.
 
 ### Technical Analysis
 - Addresses potential objection:
-  - Violence in Vedic ritual
-  - Compared to violence in warfare
-- Key principle: svadharma transcends ordinary moral categories
+  - हिंसा (hiṃsā) in Vedic ritual
+  - Compared to warfare
+- Key principle: स्वधर्म transcends ordinary moral categories
 
 ## Further Scriptural Evidence
 
-### Sanskrit Text
+### Commentary Text
 ```sanskrit
-tadakaraṇe ca 'tataḥ svadharmaṃ kīrtiṃ ca hitvā pāpamavāpsyasi' (bha. gī. 2.33) iti bruvatā yāvajjīvādiśruticoditānāṃ paśvādihiṃsālakṣaṇānāṃ ca karmaṇāṃ prāgeva nādhārmatvamiti suniścitamuktaṃ bhavati — iti ||
+तदकरणे च 'ततः स्वधर्मं कीर्तिं च हित्वा पापमवाप्स्यसि' (भ. गी. २.३३) इति ब्रुवता यावज्जीवादिश्रुतिचोदितानां पश्वादिहिंसालक्षणानां च कर्मणां प्रागेव नाधर्मत्वमिति सुनिश्चितमुक्तं भवति — इति ।
 ```
-
-### Translation
-And by saying "Then, abandoning your own dharma and fame, you will incur sin" (2.33), it is firmly established that actions involving violence to animals etc., enjoined by śruti as lifelong duties, are definitely not adharma.
 
 ### Technical Analysis
 - Complex argument structure:
-  - Uses battlefield dharma to justify ritual violence
-  - Appeals to śruti authority
-  - Links svadharma to cosmic order
+  - Uses battlefield धर्म to justify ritual हिंसा
+  - Appeals to श्रुति authority
+  - Links स्वधर्म to cosmic order
 
 ## Śaṅkara's Initial Refutation
 
-### Sanskrit Text
+### Commentary Text
 ```sanskrit
-tadasat; jñānakarma-niṣṭhayorvibhāgavacanādbuddhidvayāśrayayoḥ |
+तदसत्; ज्ञानकर्म-निष्ठयोर्विभागवचनाद्बुद्धिद्वयाश्रययोः ।
 ```
-
-### Translation
-This is incorrect, because of the statements distinguishing between steadfastness in knowledge and action, which are based on two different types of understanding.
 
 ### Technical Analysis
 - Pivotal rebuttal:
-  - Introduces buddhidvaya (two types of understanding)
+  - Introduces बुद्धिद्वय (buddhidvaya)
   - Establishes fundamental incompatibility
   - Points to distinct epistemological bases
 
 ## Two Types of Understanding Explained
 
-### Sanskrit Text
+### Commentary Text
 ```sanskrit
-'aśocyān' (bha. gī. 2.11) ityādinā bhagavatā yāvat 'svadharmamapi cāvekṣya' (bha. gī. 2.31) ityetadantena granthena yat paramārthātmatattvānirūpaṇaṃ kr̥tam, tat sāṅkhyam |
+'अशोच्यान्' (भ. गी. २.११) इत्यादिना भगवता यावत् 'स्वधर्ममपि चावेक्ष्य' (भ. गी. २.३१) इत्येतदन्तेन ग्रन्थेन यत् परमार्थात्मतत्त्वानिरूपणं कृतम्, तत् साङ्ख्यम् ।
 
-tadviṣayā buddhiḥ ātmano janmādiṣaḍvikārābhāvādakarttā ātmeti prakaraṇārthānirūpaṇāt yā jāyate, sā sāṅkhyā buddhiḥ |
+तद्विषया बुद्धिः आत्मनो जन्मादिषड्विकाराभावादकर्ता आत्मेति प्रकरणार्थानिरूपणात् या जायते, सा साङ्ख्या बुद्धिः ।
 ```
 
-### Translation
-What has been set forth by the Lord from "Those who should not be grieved for" (2.11) up to "And considering your own dharma" (2.31) as the determination of the ultimate truth of the Self - that is Sāṅkhya.
-
-The understanding that arises from this exposition of the topic - that the Self is non-doer due to absence of the six modifications beginning with birth - that is Sāṅkhya understanding.
-
 ### Technical Analysis
-- Sāṅkhya understanding defined:
-  - Based on paramārtha (ultimate truth)
-  - Focuses on ātman's nature
-  - Recognizes absence of vikāras (modifications)
-  - Establishes akartṛtva (non-doership)
-
----
+- साङ्ख्य understanding defined:
+  - Based on परमार्थ (paramārtha)
+  - Focuses on आत्मन्'s nature
+  - Recognizes absence of विकार
+  - Establishes अकर्तृत्व (non-doership)
 
 ## Key Philosophical Points
 
 1. The Opposition's Position:
-   - Necessity of combining knowledge and action
+   - Necessity of combining ज्ञान and कर्म
    - Appeal to scriptural authority
-   - Defense of ritual violence
+   - Defense of ritual हिंसा
 
 2. Śaṅkara's Response:
    - Fundamental distinction of paths
    - Different epistemological bases
-   - Incompatibility of knowledge and action
+   - Incompatibility of ज्ञान and कर्म
 
 3. Critical Distinctions:
-   - kevala vs sahita approaches
-   - Different types of buddhi
-   - Levels of dharmic understanding
+   - केवल vs सहित approaches
+   - Different types of बुद्धि
+   - Levels of धार्मिक understanding
 
 4. Technical Framework:
-   - Role of svadharma
-   - Nature of knowledge
-   - Basis of liberation
+   - Role of स्वधर्म
+   - Nature of ज्ञान
+   - Basis of कैवल्य
 
 # Analysis of Arjuna's Question
 
 ## Question's Logical Basis
 
-### Sanskrit Text
+### Commentary Text
 ```sanskrit
-na ca arjunasya praśna upapanno bhavati 'jyāyasī cetkarmaṇaste' (bha. gī. 3.1) ityādiḥ | ekapuruṣānuṣṭheyatvāsambhavaṃ buddhikarmaṇoḥ bhagavatā pūrvamanukataṃ kathamarjunaḥ aśrutaṃ buddheśca karmaṇo jyāyastvaṃ bhagavatyadhyāropayenmr̥ṣaiva 'jyāyasī cetkarmaṇaste matā buddhiḥ' (bha. gī. 3.1) iti ||
+न च अर्जुनस्य प्रश्न उपपन्नो भवति 'ज्यायसी चेत्कर्मणस्ते' (भ. गी. ३.१) इत्यादिः । एकपुरुषानुष्ठेयत्वासम्भवं बुद्धिकर्मणोः भगवता पूर्वमनुक्तं कथमर्जुनः अश्रुतं बुद्धेश्च कर्मणो ज्यायस्त्वं भगवत्यध्यारोपयेन्मृषैव 'ज्यायसी चेत्कर्मणस्ते मता बुद्धिः' (भ. गी. ३.१) इति ।
 ```
-
-### Translation
-And Arjuna's question "If you think knowledge is better than action" (3.1) would not make sense. Since the Lord had previously stated the impossibility of one person practicing both knowledge and action, how could Arjuna falsely attribute to the Lord the superiority of knowledge over action without having heard it, saying "If you think knowledge is better than action" (3.1)?
 
 ### Technical Analysis
 - Key logical elements:
-  - ekapuruṣānuṣṭheyatva: possibility of practice by one person
-  - buddhikarmaṇoḥ: of knowledge and action
-  - jyāyastva: superiority/better-ness
+  - एकपुरुषानुष्ठेयत्व (ekapuruṣānuṣṭheyatva): possibility of practice by one person
+  - बुद्धिकर्मणोः (buddhikarmaṇoḥ): of knowledge and action
+  - ज्यायस्त्व (jyāyastva): superiority/better-ness
 - Structure of argument:
   - Uses reductio ad absurdum
   - Appeals to textual consistency
@@ -276,38 +235,32 @@ And Arjuna's question "If you think knowledge is better than action" (3.1) would
 
 ## Further Analysis of Combined Practice
 
-### Sanskrit Text
+### Commentary Text
 ```sanskrit
-kiñca — yadi buddhikarmaṇoḥ sarveṣāṃ samuccaya uktaḥ syāt arjunasyāpi sa ukta evaiti, 'yacchraya etayorekaṃ tanme brūhi suniścitam' (bha. gī. 5.1) iti kathamubhayorupadeśe sati anyataraviṣaya eva praśnaḥ syāt?
+किञ्च — यदि बुद्धिकर्मणोः सर्वेषां समुच्चय उक्तः स्यात् अर्जुनस्यापि स उक्त एवेति, 'यच्छ्रेय एतयोरेकं तन्मे ब्रूहि सुनिश्चितम्' (भ. गी. ५.१) इति कथमुभयोरुपदेशे सति अन्यतरविषय एव प्रश्नः स्यात्?
 ```
 
-### Translation
-Moreover - if combination of knowledge and action had been taught as applicable to all, including Arjuna, then when both were taught, how could his question be about only one of them, saying "Tell me decisively which one of these is better" (5.1)?
-
 ### Technical Analysis
-- Key concept: samuccaya (combination)
-  - Applied universally (sarveṣām)
+- Key concept: समुच्चय (samuccaya)
+  - Applied universally (सर्वेषाम्)
   - Includes Arjuna specifically
 - Logical impossibility:
-  - Both taught (ubhayorupadeśa)
-  - Question about one (anyatara)
+  - Both taught (उभयोरुपदेश)
+  - Question about one (अन्यतर)
   - Contradiction exposed
 
 ## Medical Analogy
 
-### Sanskrit Text
+### Commentary Text
 ```sanskrit
-na hi pittapraśamanārthinaḥ vaidyena madhuraṃ śītalaṃ ca bhoktavyam ityupadiṣṭe tayoranyataratpittapraśamanakāraṇaṃ brūhi iti praśnaḥ sambhavati ||
+न हि पित्तप्रशमनार्थिनः वैद्येन मधुरं शीतलं च भोक्तव्यम् इत्युपदिष्टे तयोरन्यतरत्पित्तप्रशमनकारणं ब्रूहि इति प्रश्नः सम्भवति ।
 ```
-
-### Translation
-Indeed, when a doctor prescribes both sweet and cool things to someone seeking to cure pitta, it's not possible for them to ask "Tell me which one of these cures pitta."
 
 ### Technical Analysis
 - Analogy structure:
-  - Medical context (vaidya)
-  - Two remedies (madhura and śītala)
-  - Single purpose (pittapraśamana)
+  - Medical context (वैद्य)
+  - Two remedies (मधुर and शीतल)
+  - Single purpose (पित्तप्रशमन)
 - Logical application:
   - If both necessary, choosing impossible
   - If combination intended, question meaningless
@@ -315,33 +268,27 @@ Indeed, when a doctor prescribes both sweet and cool things to someone seeking t
 
 ## Question of Misunderstanding
 
-### Sanskrit Text
+### Commentary Text
 ```sanskrit
-atha arjunasya bhagavaduktavacanārthaviveakānavadhāraṇanimittaḥ praśnaḥ kalpyeta, tathāpi bhagavatā praśnānurūpaṃ prativacanaṃ deyam — mayā buddhikarmaṇoḥ samuccaya uktaḥ, kimarthamitthaṃ tvaṃ bhrānto'si — iti |
+अथ अर्जुनस्य भगवदुक्तवचनार्थविवेकानवधारणनिमित्तः प्रश्नः कल्प्येत, तथापि भगवता प्रश्नानुरूपं प्रतिवचनं देयम् — मया बुद्धिकर्मणोः समुच्चय उक्तः, किमर्थमित्थं त्वं भ्रान्तोऽसि — इति ।
 ```
-
-### Translation
-If one were to suppose that Arjuna's question arose from lack of discriminative understanding of the meaning of the Lord's words, even then the Lord should have given an appropriate response - "I taught the combination of knowledge and action, why are you confused like this?"
 
 ### Technical Analysis
 - Hypothetical counter:
-  - Assumes misunderstanding (aviveaka)
+  - Assumes विवेकानवधारण (aviveka)
   - Suggests proper response
   - Shows actual response different
 - Key terms:
-  - vacanārtha: meaning of words
-  - anavadhāraṇa: lack of determination
-  - praśnānurūpa: appropriate to question
+  - वचनार्थ (vacanārtha): meaning of words
+  - अनवधारण (anavadhāraṇa): lack of determination
+  - प्रश्नानुरूप (praśnānurūpa): appropriate to question
 
 ## Lord's Actual Response
 
-### Sanskrit Text
+### Commentary Text
 ```sanskrit
-na tu punaḥ prativacanamananurūpaṃ pr̥ṣṭādanyadeva 'dve niṣṭhe mayā purā prokte' (bha. gī. 3.3) iti vaktuṃ yuktam ||
+न तु पुनः प्रतिवचनमननुरूपं पृष्टादन्यदेव 'द्वे निष्ठे मया पुरा प्रोक्ते' (भ. गी. ३.३) इति वक्तुं युक्तम् ।
 ```
-
-### Translation
-But it would not be appropriate to give an irrelevant response different from what was asked, saying "I previously taught two paths" (3.3).
 
 ### Technical Analysis
 - Final argument:
@@ -349,153 +296,130 @@ But it would not be appropriate to give an irrelevant response different from wh
   - Shows irrelevance of combination theory
   - Validates distinct paths interpretation
 
----
-
 ## Key Philosophical Points
 
 1. Logical Structure of Argument:
-   - Uses Arjuna's questions as evidence
-   - Shows impossibility of combination theory
+   - Uses अर्जुन's questions as evidence
+   - Shows impossibility of समुच्चय
    - Demonstrates through reductio ad absurdum
 
 2. Important Technical Terms:
-   - samuccaya (combination)
-   - buddhikarmaṇoḥ (of knowledge and action)
-   - vivekānavadhāraṇa (lack of discriminative understanding)
-   - ekapuruṣānuṣṭheyatva (possibility of practice by one person)
+   - समुच्चय (samuccaya): combination
+   - बुद्धिकर्मणोः (buddhikarmaṇoḥ): of knowledge and action
+   - विवेकानवधारण (vivekānavadhāraṇa): lack of discriminative understanding
+   - एकपुरुषानुष्ठेयत्व (ekapuruṣānuṣṭheyatva): possibility of practice by one person
 
 3. The Medical Analogy:
-   - Shows absurdity of asking which path is better if both are meant to be combined
+   - Shows absurdity of choosing between necessary components
    - Demonstrates Śaṅkara's practical reasoning approach
 
 4. Textual Analysis:
    - Uses cross-references from multiple chapters
    - Shows internal consistency of two-path interpretation
    - Demonstrates careful attention to question-answer structure
-
 # The Distinctness of Paths and Transcendence
 
 ## On Ritual Action
 
-### Sanskrit Text
+### Commentary Text
 ```sanskrit
-nāpi smārtenāiva karmaṇā buddheḥ samuccaye abhiprete vibhāgavacanādi sarvamupapannam | kiñca — kṣatriyasya yuddhaṃ smārtaṃ karma svadharma iti jānataḥ 'tatkiṃ karmaṇi ghore māṃ niyojayasi' (bha. gī. 3.1) iti upālambho'nupapannaḥ ||
+नापि स्मार्तेनैव कर्मणा बुद्धेः समुच्चये अभिप्रेते विभागवचनादि सर्वमुपपन्नम् । किञ्च — क्षत्रियस्य युद्धं स्मार्तं कर्म स्वधर्म इति जानतः 'तत्किं कर्मणि घोरे मां नियोजयसि' (भ. गी. ३.१) इति उपालम्भोऽनुपपन्नः ।
 ```
-
-### Translation
-Not even if combination of knowledge with traditional ritual action were intended would all these statements about distinction make sense. Moreover - for one who knows that battle is a warrior's traditional duty and own-dharma, the reproach "Why do you enjoin me to this terrible action?" (3.1) would not make sense.
 
 ### Technical Analysis
 - Levels of consciousness:
-  - Vitarka-Vicara: domain of ritual action (smārta karma)
-  - Leads to Sabija Samadhi (with seed/support)
+  - वितर्क-विचार (Vitarka-Vicara): domain of ritual action (स्मार्त कर्म)
+  - Leads to सबीज समाधि (Sabija Samadhi)
 - Key distinction:
-  - Knowledge here not yet Prajna-level
+  - Knowledge here not yet प्रज्ञा-level
   - Still operating in dyadic plane
 
 ## Definitive Statement on Knowledge Path
 
-### Sanskrit Text
+### Commentary Text
 ```sanskrit
-tasmādgītāśāstre īṣanmātreṇāpi śrautena smārtena vā karmaṇā ātmajñānasya samuccayo na kenaciddarśayituṃ śakyaḥ |
+तस्माद्गीताशास्त्रे ईषन्मात्रेणापि श्रौतेन स्मार्तेन वा कर्मणा आत्मज्ञानस्य समुच्चयो न केनचिद्दर्शयितुं शक्यः ।
 ```
 
-### Translation
-Therefore in the teaching of the Gītā, no one can demonstrate even the slightest combination of self-knowledge with either Vedic or traditional action.
-
 ### Technical Analysis
-- Points to Nirbija Samadhi:
-  - Pure knowledge (ātmajñāna)
-  - Beyond all supports (nirbija)
-  - Prajna-Dharma-Jnana level
+- Points to निर्बीज समाधि:
+  - Pure knowledge (आत्मज्ञान)
+  - Beyond all supports (निर्बीज)
+  - प्रज्ञा-धर्म-ज्ञान level
 - Impossibility of combination:
   - Different planes of consciousness
   - Different epistemological bases
 
 ## Progress Through Purification
 
-### Sanskrit Text
+### Commentary Text
 ```sanskrit
-yasya tu ajñānāt rāgādidoṣato vā karmaṇi pravr̥ttasya yajñena dānena tapasā vā viśuddhasattvasya jñānamutpannamparamārthatattvāviṣayam 'ekamevedaṃ sarvaṃ brahma akartr̥ ca' iti, tasya karmaṇi karmaprayojane ca nivr̥tte'pi lokasaṅgrahārthaṃ yatnapūrvaṃ yathā pravr̥ttiḥ, tathaiva pravr̥ttasya yatpravr̥ttirūpaṃ dr̥śyate na tatkarma yena buddheḥ samuccayaḥ syāt |
+यस्य तु अज्ञानात् रागादिदोषतो वा कर्मणि प्रवृत्तस्य यज्ञेन दानेन तपसा वा विशुद्धसत्त्वस्य ज्ञानमुत्पन्नंपरमार्थतत्त्वाविषयम् 'एकमेवेदं सर्वं ब्रह्म अकर्तृ च' इति, तस्य कर्मणि कर्मप्रयोजने च निवृत्तेऽपि लोकसङ्ग्रहार्थं यत्नपूर्वं यथा प्रवृत्तिः, तथैव प्रवृत्तस्य यत्प्रवृत्तिरूपं दृश्यते न तत्कर्म येन बुद्धेः समुच्चयः स्यात् ।
 ```
-
-### Translation
-However, for one who, engaged in action due to ignorance or defects like attachment, attains purity of being through sacrifice, charity, or austerity, and in whom arises the knowledge of ultimate reality that "All this is indeed one Brahman, which is non-doer" - even though action and its purpose have ceased for him, his continuing activity for the welfare of the world is not the kind of action that could be combined with knowledge.
 
 ### Technical Analysis
 - Progressive stages:
-  1. Vitarka-Vicara: initial ritual action
-  2. Movement to Sabija Samadhi through purification
-  3. Breakthrough to Prajna-Dharma-Jnana
-  4. Nirbija state of pure knowledge
+  1. वितर्क-विचार: initial ritual action
+  2. Movement to सबीज समाधि through purification
+  3. Breakthrough to प्रज्ञा-धर्म-ज्ञान
+  4. निर्बीज state of pure knowledge
 - Post-realization activity:
-  - Not karma in ordinary sense
-  - Spontaneous flow from Prajna level
+  - Not कर्म in ordinary sense
+  - Spontaneous flow from प्रज्ञा level
   - Beyond dyadic consciousness
 
 ## Example of Krishna's Actions
 
-### Sanskrit Text
+### Commentary Text
 ```sanskrit
-yathā bhagavato vāsudevasya kṣatradharma-ceṣṭitaṃ na jñānena samuccīyate puruṣārthasiddhaye, tadvat tatphalābhisandhyahaṅkārābhāvasya tulyatvādviduṣaḥ | tattvavinnāhaṃ karomīti manyate, na ca tatphalamabhisandhatte |
+यथा भगवतो वासुदेवस्य क्षत्रधर्म-चेष्टितं न ज्ञानेन समुच्चीयते पुरुषार्थसिद्धये, तद्वत् तत्फलाभिसन्ध्यहङ्काराभावस्य तुल्यत्वाद्विदुषः । तत्त्ववित्नाहं करोमीति मन्यते, न च तत्फलमभिसन्धत्ते ।
 ```
 
-### Translation
-Just as Lord Vāsudeva's performance of warrior-duty is not combined with knowledge for achieving human ends, similarly for the knower, due to the similar absence of ego and desire for results. The knower of reality does not think "I act" nor does he seek its results.
-
 ### Technical Analysis
-- Example of Nirbija state:
-  - Beyond doership (ahaṅkāra)
-  - Beyond result-seeking (phalābhisandhi)
-  - Pure Prajna-level functioning
+- Example of निर्बीज state:
+  - Beyond doership (अहङ्कार)
+  - Beyond result-seeking (फलाभिसन्धि)
+  - Pure प्रज्ञा-level functioning
 - Krishna as exemplar:
   - Natural activity without seed
-  - Beyond Vitarka-Vicara plane
+  - Beyond वितर्क-विचार plane
   - Pure knowledge-based action
 
 ## Ritual Performance Analogy
 
-### Sanskrit Text
+### Commentary Text
 ```sanskrit
-yathā ca svargādikāmārthinaḥ agnihotrādikarmālakṣaṇadharmānuṣṭhānāya āhitāgneḥ kāmye eva agnihotrādau pravr̥ttasya sāmi kr̥te vinaṣṭe'pi kāme tadeva agnihotrādyanuttiṣṭhato'pi na tatkāmyamagnihotrādi bhavati |
+यथा च स्वर्गादिकामार्थिनः अग्निहोत्रादिकर्मालक्षणधर्मानुष्ठानाय आहिताग्नेः काम्य एव अग्निहोत्रादौ प्रवृत्तस्य सामि कृते विनष्टेऽपि कामे तदेव अग्निहोत्राद्यनुतिष्ठतोऽपि न तत्काम्यमग्निहोत्रादि भवति ।
 ```
-
-### Translation
-Just as when one who maintains the sacred fire for performing the Agnihotra and other rites desiring heaven continues to perform these same rites even after the desire has been destroyed, these are no longer desire-based rites.
 
 ### Technical Analysis
 - Transformation of consciousness:
-  - From Sabija (desire-based) to Nirbija (desireless)
+  - From सबीज (desire-based) to निर्बीज (desireless)
   - Same external form, different consciousness level
-  - Movement from Vitarka-Vicara to Prajna
+  - Movement from वितर्क-विचार to प्रज्ञा
 
 ## Lord's Teaching on Non-attachment
 
-### Sanskrit Text
+### Commentary Text
 ```sanskrit
-tathā ca darśayati bhagavān — 'kurvannapi na lipyate' (bha. gī. 5.7) 'na karoti na lipyate' (bha. gī. 13.31) iti tatra tatra ||
+तथा च दर्शयति भगवान् — 'कुर्वन्नपि न लिप्यते' (भ. गी. ५.७) 'न करोति न लिप्यते' (भ. गी. १३.३१) इति तत्र तत्र ।
 ```
 
-### Translation
-And thus the Lord shows in various places - "Though acting, he is not bound" (5.7), "He neither acts nor is bound" (13.31).
-
 ### Technical Analysis
-- Description of Nirbija state:
+- Description of निर्बीज state:
   - Beyond binding action
-  - Pure Prajna functioning
-  - Transcendence of Vitarka-Vicara duality
-
----
+  - Pure प्रज्ञा functioning
+  - Transcendence of वितर्क-विचार duality
 
 ## Key Philosophical Points
 
 1. Two Distinct Paths:
-   - Sabija: With support/seed
-     * Operates in Vitarka-Vicara plane
+   - सबीज: With support/seed
+     * Operates in वितर्क-विचार plane
      * Includes ritual and traditional action
      * Progressive purification
-   - Nirbija: Without support/seed
-     * Pure Prajna-Dharma-Jnana
+   - निर्बीज: Without support/seed
+     * Pure प्रज्ञा-धर्म-ज्ञान
      * Beyond doership and results
      * Natural, spontaneous functioning
 
@@ -506,136 +430,115 @@ And thus the Lord shows in various places - "Though acting, he is not bound" (5.
 
 3. Transformation Process:
    - From bound to unbound action
-   - From Vitarka-Vicara to Prajna
-   - From Sabija to Nirbija state
+   - From वितर्क-विचार to प्रज्ञा
+   - From सबीज to निर्बीज state
 
 4. Nature of Liberation:
    - Beyond all supports
    - Pure knowledge state
    - Transcendence of action-knowledge duality
-   -
 # On Examples of Ancient Kings and Sages
 
 ## The Case of Ancient Examples
 
-### Sanskrit Text
+### Commentary Text
 ```sanskrit
-yacca 'pūrvaiḥ pūrvataraṃ kr̥tam' (bha. gī. 4.15) 'karmaṇaiva hi saṃsiddhimāsthitā janakādayaḥ' (bha. gī. 3.20) iti, tattu pravibhajya vijñeyam |
+यच्च 'पूर्वैः पूर्वतरं कृतम्' (भ. गी. ४.१५) 'कर्मणैव हि संसिद्धिमास्थिता जनकादयः' (भ. गी. ३.२०) इति, तत्तु प्रविभज्य विज्ञेयम् ।
 ```
 
-### Translation
-As for the statements "Done previously by the ancients" (4.15) and "Indeed through action alone Janaka and others attained perfection" (3.20), these must be understood with proper discrimination.
-
 ### Technical Analysis
-- Key term: pravibhajya (with discrimination)
+- Key term: प्रविभज्य (pravibhajya)
   - Points to need for deeper understanding
   - Beyond surface appearance
   - Distinction of consciousness levels
 
 ## Two Possible Interpretations
 
-### Sanskrit Text
+### Commentary Text
 ```sanskrit
-tatkartham? yadi tāvat pūrve janakādayaḥ tattvavido'pi pravr̥ttakarmāṇaḥ syuḥ, te lokasaṅgrahārtham 'guṇā guṇeṣu vartante' (bha. gī. 3.28) iti jñānenaiva saṃsiddhimāsthitāḥ, karmasaṃnyāse prāpte'pi karmaṇā sahaiva saṃsiddhimāsthitāḥ, na karmasaṃnyāsaṃ kr̥tavanta ityarthaḥ |
+तत्कथं? यदि तावत् पूर्वे जनकादयः तत्त्वविदोऽपि प्रवृत्तकर्माणः स्युः, ते लोकसङ्ग्रहार्थं 'गुणा गुणेषु वर्तन्ते' (भ. गी. ३.२८) इति ज्ञानेनैव संसिद्धिमास्थिताः, कर्मसंन्यासे प्राप्तेऽपि कर्मणा सहैव संसिद्धिमास्थिताः, न कर्मसंन्यासं कृतवन्त इत्यर्थः ।
 ```
-
-### Translation
-How so? If the ancients like Janaka, though knowers of reality, engaged in action, they attained perfection through knowledge alone, for the welfare of the world, understanding that "qualities act on qualities" (3.28). Though qualified for renunciation of action, they remained with action - meaning they did not undertake formal renunciation.
 
 ### Technical Analysis
 - Two levels of understanding:
-  - Nirbija state (tattvavida): true knowers
-  - Operation in apparent Vitarka-Vicara plane
-- Key insight: guṇā guṇeṣu vartante
+  - निर्बीज state (तत्त्वविद): true knowers
+  - Operation in apparent वितर्क-विचार plane
+- Key insight: गुणा गुणेषु वर्तन्ते
   - Recognition of pure consciousness
   - Beyond doership
-  - Prajna-level understanding
+  - प्रज्ञा-level understanding
 
 ## Alternative Interpretation
 
-### Sanskrit Text
+### Commentary Text
 ```sanskrit
-atha na te tattvāvidaḥ; īśvarasamarpitena karmaṇā sādhanabhūtena saṃsiddhiṃ sattvaśuddhim, jñānotpattilakṣaṇāṃ vā saṃsiddhim, āsthitā janakādaya iti vyākhyeyam |
+अथ न ते तत्त्वाविदः; ईश्वरसमर्पितेन कर्मणा साधनभूतेन संसिद्धिं सत्त्वशुद्धिम्, ज्ञानोत्पत्तिलक्षणां वा संसिद्धिम्, आस्थिता जनकादय इति व्याख्येयम् ।
 ```
 
-### Translation
-Or if they were not knowers of reality, then it should be explained that Janaka and others attained perfection - either as purity of being or as the arising of knowledge - through action offered to the Lord as a means.
-
 ### Technical Analysis
-- Sabija progression:
-  - Action as means (sādhanabhūta)
-  - Leading to purity (sattvaśuddhi)
-  - Arising of knowledge (jñānotpatti)
-- Different than Nirbija state:
+- सबीज progression:
+  - Action as means (साधनभूत)
+  - Leading to purity (सत्त्वशुद्धि)
+  - Arising of knowledge (ज्ञानोत्पत्ति)
+- Different than निर्बीज state:
   - Still in means-end framework
-  - Within Vitarka-Vicara plane
+  - Within वितर्क-विचार plane
 
 ## Support from Later Verses
 
-### Sanskrit Text
+### Commentary Text
 ```sanskrit
-evamevārthaṃ vakṣyati bhagavān 'sattvaśuddhaye karma kurvanti' (bha. gī. 5.11) iti | 'svakarmaṇā tamabhyarcya siddhiṃ vindati mānavaḥ' (bha. gī. 18.46) ityuktvā siddhiṃ prāptasya punarjñānaniṣṭhāṃ vakṣyati — 'siddhiṃ prāpto yathā brahma' (bha. gī. 18.50) ityādinā ||
+एवमेवार्थं वक्ष्यति भगवान् 'सत्त्वशुद्धये कर्म कुर्वन्ति' (भ. गी. ५.११) इति । 'स्वकर्मणा तमभ्यर्च्य सिद्धिं विन्दति मानवः' (भ. गी. १८.४६) इत्युक्त्वा सिद्धिं प्राप्तस्य पुनर्ज्ञाननिष्ठां वक्ष्यति — 'सिद्धिं प्राप्तो यथा ब्रह्म' (भ. गी. १८.५०) इत्यादिना ।
 ```
-
-### Translation
-The Lord will state this very meaning: "They perform action for the purification of being" (5.11). After saying "By worshipping Him through one's own action, man attains perfection" (18.46), He will speak of the establishment in knowledge for one who has attained perfection - "One who has attained perfection, as Brahman" (18.50).
 
 ### Technical Analysis
 - Progressive stages delineated:
-  1. Purificatory action (Vitarka-Vicara)
-  2. Attainment of perfection (Sabija Samadhi)
-  3. Establishment in knowledge (Nirbija/Prajna)
+  1. Purificatory action (वितर्क-विचार)
+  2. Attainment of perfection (सबीज समाधि)
+  3. Establishment in knowledge (निर्बीज/प्रज्ञा)
 
 ## Definitive Conclusion
 
-### Sanskrit Text
+### Commentary Text
 ```sanskrit
-tasmādgītāśāstre kevalādeva tattvajñānānmokṣaprāptiḥ na karmasamuccitāt, iti niścito'rthaḥ | yathā cāyamarthaḥ, tathā prakaraṇaśo vibhajya tatra tatra darśayiṣyāmaḥ ||
+तस्माद्गीताशास्त्रे केवलादेव तत्त्वज्ञानान्मोक्षप्राप्तिः न कर्मसमुच्चितात्, इति निश्चितोऽर्थः । यथा चायमर्थः, तथा प्रकरणशो विभज्य तत्र तत्र दर्शयिष्यामः ।
 ```
-
-### Translation
-Therefore in the teaching of the Gītā, liberation comes from knowledge of reality alone, not from its combination with action - this is the definitive meaning. And how this is so, we shall show by analysis in each context.
 
 ### Technical Analysis
 - Final establishment:
-  - Pure knowledge path (kevala)
-  - Nirbija state as goal
-  - Prajna-Dharma-Jnana as means
+  - Pure knowledge path (केवल)
+  - निर्बीज state as goal
+  - प्रज्ञा-धर्म-ज्ञान as means
 
 ## Return to Arjuna's Condition
 
-### Sanskrit Text
+### Commentary Text
 ```sanskrit
-tatraivaṃ dharmasaṃmūḍhacetaso mithyājñānavato mahati śokasāgare nimagnasya arjunasya anyatrātmajñānāduddhāraṇamapaśyan bhagavānvāsudevaḥ tataḥ kr̥payā arjunamuddidhārayiṣuḥ ātmajñānāyāvatārayannāha —
+तत्रैवं धर्मसंमूढचेतसो मिथ्याज्ञानवतो महति शोकसागरे निमग्नस्य अर्जुनस्य अन्यत्रात्मज्ञानादुद्धारणमपश्यन् भगवान्वासुदेवः ततः कृपया अर्जुनमुद्दिधारयिषुः आत्मज्ञानायावतारयन्नाह —
 ```
-
-### Translation
-Thus seeing no rescue other than self-knowledge for Arjuna, whose mind was confused about dharma, possessed of false knowledge, and immersed in a great ocean of sorrow, Lord Vāsudeva, desiring out of compassion to lift him up, began speaking to lead him to self-knowledge.
 
 ### Technical Analysis
 - Initial state diagnosis:
-  - Confusion in Vitarka-Vicara plane
-  - Need for transcendence to Prajna
-  - Path to Nirbija state indicated
-
----
+  - Confusion in वितर्क-विचार plane
+  - Need for transcendence to प्रज्ञा
+  - Path to निर्बीज state indicated
 
 ## Key Philosophical Points
 
 1. Two Ways of Understanding Ancient Examples:
-   - As Nirbija states appearing in world
-   - As progression through Sabija stages
+   - As निर्बीज states appearing in world
+   - As progression through सबीज stages
 
 2. Nature of True Action:
-   - In Nirbija: spontaneous, non-binding
-   - In Sabija: purificatory, progressive
+   - In निर्बीज: spontaneous, non-binding
+   - In सबीज: purificatory, progressive
 
 3. Progression of Consciousness:
-   - From Vitarka-Vicara confusion
-   - Through Sabija purification
-   - To Nirbija realization
+   - From वितर्क-विचार confusion
+   - Through सबीज purification
+   - To निर्बीज realization
 
 4. Ultimate Teaching:
-   - Kevala jñāna as pure Prajna state
+   - केवल ज्ञान as pure प्रज्ञा state
    - Beyond all supports and means
    - True nature of liberation
