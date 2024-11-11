@@ -10,7 +10,7 @@
 
 -   **Cit**: Pure Consciousness; the foundational awareness beyond individualization.
 -   **Citi**: The dynamic aspect of consciousness; consciousness in action or manifestation.
--   **Citta**: The individualized mind or mental processes; mind-stuff.
+-   **Citta**: The individualized mind or mental processes; .
 
 **Purusha**: In Yoga and Samkhya philosophy, Purusha is the pure, transcendental consciousness—the true Self, distinct from Prakriti (matter or nature).
 
@@ -764,7 +764,7 @@ We have journeyed through profound philosophical concepts, weaving together the 
 ##### **a. Key Terms and Concepts**
 
 -   **Nirmāṇa**: Constructed, created, manifested.
--   **Cittāni**: Minds; plural of **citta** (mind-stuff or individualized consciousness).
+-   **Cittāni**: Minds; plural of **citta** ( or individualized consciousness).
 -   **Asmitā**: Egoism; the sense of individuality or 'I-am-ness'.
 -   **Mātrāt**: From mere; solely due to.
 
@@ -841,7 +841,7 @@ This sutra suggests that the **constructed minds** (the manifold expressions of 
 
 ##### **c. Citta (Mind)**
 
--   The **individualized mind-stuff**, subject to fluctuations and modifications.
+-   The **individualized **, subject to fluctuations and modifications.
 -   The **field where Citi operates**, shaping experiences.
 
 ------------------------------------------------------------------------

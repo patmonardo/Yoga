@@ -281,6 +281,7 @@
 - Direct recognition
 - Through all changes
 - Pure presence maintained
+
 # Sanskrit Reading Analysis - Śaṅkara's Commentary on BG 2.20
 
 ## Opening Question Structure

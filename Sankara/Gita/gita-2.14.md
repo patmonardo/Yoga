@@ -95,6 +95,7 @@
    - Through all changes
    - Maintaining unity
    - Pure synthesis actualized
+
 # Nova Methodo Analysis of Bhagavad Gītā 2.14
 
 ## Original Synthetic Activity

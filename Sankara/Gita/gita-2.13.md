@@ -124,6 +124,7 @@
    - Clear comprehension
    - Pure insight
    - Direct grasp
+
 # Nova Methodo Analysis of Bhagavad Gītā 2.13
 
 ## Pure Synthetic Activity
