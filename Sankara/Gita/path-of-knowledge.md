@@ -438,6 +438,7 @@
    - Beyond all supports
    - Pure knowledge state
    - Transcendence of action-knowledge duality
+
 # On Examples of Ancient Kings and Sages
 
 ## The Case of Ancient Examples
@@ -1704,7 +1705,7 @@ Two key reasons given:
    - Through all modifications
    - Pure stability maintained
    - Original synthesis actualized
-  
+
 # Trans-Idealist Dialectic of Consciousness
 
 ## Pure Synthetic Structure
