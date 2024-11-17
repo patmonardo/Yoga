@@ -3,14 +3,16 @@
 ## I. Text Establishment
 
 ### A. Core Verse
-अथ चैनं नित्यजातं नित्यं वा मन्यसे मृतम् ।
+अथ चैनं नित्यजातं नित्यं वा मन्यसे मृतम् ।  
 तथापि त्वं महाबाहो नैवं शोचितुमर्हसि ॥ २६ ॥
-(*atha cainaṃ nityajātaṃ nityaṃ vā manyase mṛtam* |
-*tathāpi tvaṃ mahābāho naivaṃ śocitumarhasī* || 26 ||)
+
+atha cainaṃ nityajātaṃ nityaṃ vā manyase mṛtam |
+tathāpi tvaṃ mahābāho naivaṃ śocitumarhasī || 26 ||
 
 ### B. Śaṅkara's Commentary
 अथ च इति अभ्युपगमार्थः । एनं प्रकृतमात्मानं नित्यजातं लोकप्रसिद्ध्या प्रत्यनेकशरीरोत्पत्ति जातो जात इति मन्यसे तथा प्रतितत्तद्विनाशं नित्यं वा मन्यसे मृतं मृतो मृत इति ; तथापि तथाभावेऽपि आत्मनि त्वं महाबाहो, न एवं शोचितुमर्हसि, जन्मवतो जन्म नाशवतो नाशश्चेत्येताववश्यम्भाविनाविति ॥
-(*atha ca iti abhyupagamārthaḥ | enaṃ prakṛtamātmānaṃ nityajātaṃ lokaprasiddhyā pratyanekśarīrotpatti jāto jāta iti manyase tathā pratitatadvināśaṃ nityaṃ vā manyase mṛtaṃ mṛto mṛta iti ; tathāpi tathābhāve'pi ātmani tvaṃ mahābāho, na evaṃ śocitumarhasī, janmavato janma nāśavato nāśaścetye tāvavaśyambhāvināviti* ||)
+
+atha ca iti abhyupagamārthaḥ | enaṃ prakṛtamātmānaṃ nityajātaṃ lokaprasiddhyā pratyanekśarīrotpatti jāto jāta iti manyase tathā pratitatadvināśaṃ nityaṃ vā manyase mṛtaṃ mṛto mṛta iti ; tathāpi tathābhāve'pi ātmani tvaṃ mahābāho, na evaṃ śocitumarhasī, janmavato janma nāśavato nāśaścetye tāvavaśyambhāvināviti ||
 
 ## II. Technical Analysis
 
@@ -107,115 +109,7 @@
    - Foundation established
    - Method demonstrated
    - Path prepared
-# BG 2.26 Technical Analysis
 
-## I. Text Establishment
-
-### A. Core Verse
-अथ चैनं नित्यजातं नित्यं वा मन्यसे मृतम् ।
-तथापि त्वं महाबाहो नैवं शोचितुमर्हसि ॥ २६ ॥
-(*atha cainaṃ nityajātaṃ nityaṃ vā manyase mṛtam* |
-*tathāpi tvaṃ mahābāho naivaṃ śocitumarhasī* || 26 ||)
-
-### B. Śaṅkara's Commentary
-अथ च इति अभ्युपगमार्थः । एनं प्रकृतमात्मानं नित्यजातं लोकप्रसिद्ध्या प्रत्यनेकशरीरोत्पत्ति जातो जात इति मन्यसे तथा प्रतितत्तद्विनाशं नित्यं वा मन्यसे मृतं मृतो मृत इति ; तथापि तथाभावेऽपि आत्मनि त्वं महाबाहो, न एवं शोचितुमर्हसि, जन्मवतो जन्म नाशवतो नाशश्चेत्येताववश्यम्भाविनाविति ॥
-(*atha ca iti abhyupagamārthaḥ | enaṃ prakṛtamātmānaṃ nityajātaṃ lokaprasiddhyā pratyanekśarīrotpatti jāto jāta iti manyase tathā pratitatadvināśaṃ nityaṃ vā manyase mṛtaṃ mṛto mṛta iti ; tathāpi tathābhāve'pi ātmani tvaṃ mahābāho, na evaṃ śocitumarhasī, janmavato janma nāśavato nāśaścetye tāvavaśyambhāvināviti* ||)
-
-## II. Technical Analysis
-
-### A. Key Methodological Terms
-1. अभ्युपगम (*abhyupagama*):
-   - Provisional acceptance
-   - Methodological concession
-   - Dialectical strategy
-
-2. Core Compounds:
-   - नित्यजात (*nityajāta*) - eternally born
-   - प्रत्यनेकशरीरोत्पत्ति (*pratyanekśarīrotpatti*) - repeated bodily births
-   - अवश्यम्भाविन् (*avaśyambhāvin*) - necessarily occurring
-
-### B. Logical Structure
-1. Initial Concession:
-   - Through अथ च (*atha ca*)
-   - For dialectical purpose
-   - As provisional method
-
-2. Double Hypothesis:
-   - नित्यजात (*nityajāta*) - eternal birth
-   - नित्यमृत (*nityamṛta*) - eternal death
-   - Both leading to same conclusion
-
-## III. Philosophical Framework
-
-### A. Pure Method
-1. Dialectical Strategy:
-   - Provisional acceptance
-   - Through systematic development
-   - To necessary conclusion
-
-2. Complete Structure:
-   - From empirical view
-   - Through logical necessity
-   - To practical conclusion
-
-### B. Critical Integration
-1. Method Development:
-   - Through provisional acceptance
-   - Beyond empirical view
-   - To pure understanding
-
-2. Systematic Achievement:
-   - Clear progression
-   - Necessary development
-   - Complete vision
-
-## IV. Technical Terms
-
-### A. Core Concepts
-1. Methodological Terms:
-   - अभ्युपगम (*abhyupagama*) - provisional acceptance
-   - लोकप्रसिद्धि (*lokaprasiddhi*) - common understanding
-   - अवश्यम्भाविन् (*avaśyambhāvin*) - necessary occurrence
-
-2. Process Terms:
-   - शरीरोत्पत्ति (*śarīrotpatti*) - bodily origination
-   - विनाश (*vināśa*) - destruction
-   - जन्म (*janma*) - birth
-
-### B. Philosophical Implications
-1. Methodological Structure:
-   - From provisional acceptance
-   - Through logical necessity
-   - To practical conclusion
-
-2. Development Chain:
-   - Empirical understanding
-   - Logical necessity
-   - Practical wisdom
-
-## V. Systematic Development
-
-### A. Method Structure
-1. Progressive Development:
-   - Through provisional acceptance
-   - Beyond empirical view
-   - To necessary conclusion
-
-2. Complete Vision:
-   - Clear understanding
-   - Practical application
-   - Total realization
-
-### B. Integration Points
-1. With Previous Verses:
-   - New methodological approach
-   - Complementary understanding
-   - Complete vision
-
-2. With Later Development:
-   - Foundation established
-   - Method demonstrated
-   - Path prepared
 # BG 2.26 Philosophical Analysis
 
 ## I. Pure Method Development

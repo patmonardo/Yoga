@@ -1,3 +1,4 @@
+
 # Technical Analysis: Bhagavad Gītā 2.28
 
 ## I. Mūla Verse and Structure
