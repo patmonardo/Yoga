@@ -1,190 +1,269 @@
-# BG 2.46 Śaṅkara's Commentary
+# Analysis of Bhagavad Gītā 2.46
 
-## I. Introduction
+## I. Sanskrit Text Structure
 
-### Sanskrit
-सर्वेषु वेदोक्तेषु कर्मसु यान्युक्तान्यनन्तानि फलानि तानि नापेक्ष्यन्ते चेत् , किमर्थं तानि ईश्वरायेत्यनुष्ठीयन्ते इत्युच्यते ; शृणु —
-
-### Transliteration
-sarveṣu vedokteṣu karmasu yānyuktānyananntāni phalāni tāni nāpekṣyante cet, kimarthaṃ tāni īśvarāyetyanuṣṭhīyante ityucyate; śṛṇu —
-
-### Translation
-If the infinite fruits mentioned in all Vedic actions are not desired, then why are they performed for the Lord? Thus it is being said; listen —
-
-## II. Mūla Verse
-
-### Sanskrit
+### A. Base Verse
+```sanskrit
 यावानर्थ उदपाने सर्वतःसम्प्लुतोदके ।
 तावान् सर्वेषु वेदेषु ब्राह्मणस्य विजानतः ॥ ४६ ॥
+```
 
-### Transliteration
-yāvānartha udapāne sarvataḥsamplutodake |
-tāvān sarveṣu vedeṣu brāhmaṇasya vijānataḥ || 46 ||
-
-### Translation
-Whatever purpose is served by a well where water flows from all sides, that much is served by all the Vedas for a brāhmaṇa who knows.
-
-## III. Śaṅkara's Commentary
-
-### Sanskrit
-यथा लोके कूपतडागाद्यनेकस्मिन् उदपाने परिच्छिन्नोदके यावान् यावत्परिमाणः स्नानपानादिः अर्थः फलं प्रयोजनं स सर्वः अर्थः सर्वतः सम्प्लुतोदकेऽपि यः अर्थः तावानेव सम्पद्यते, तत्र अन्तर्भवतीत्यर्थः । एवं तावान् तावत्परिमाण एव सम्पद्यते सर्वेषु वेदेषु वेदोक्तेषु कर्मसु यः अर्थः यत्कर्मफलं सः अर्थः ब्राह्मणस्य संन्यासिनः परमार्थतत्त्वं विजानतः यः अर्थः यत् विज्ञानफलं सर्वतःसम्प्लुतोदकस्थानीयं तस्मिन् तावानेव सम्पद्यते तत्रैवान्तर्भवतीत्यर्थः । 'यथा कृताय विजितायाधरेयाः संयन्त्येवमेनं सर्वं तदभिसमेति यत् किञ्चित् प्रजाः साधु कुर्वन्ति यस्तद्वेद यत्स वेद' (छा. उ. ४ । १ । ४) इति श्रुतेः । 'सर्वं कर्माखिलम्' (भ. गी. ४ । ३३) इति च वक्ष्यति । तस्मात् प्राक् ज्ञाननिष्ठाधिकारप्राप्तेः कर्मण्यधिकृतेन कूपतडागाद्यर्थस्थानीयमपि कर्म कर्तव्यम् ॥ ४६ ॥
-
-### Transliteration
-yathā loke kūpataḍāgādyanekasmin udapāne paricchinnadake yāvān yāvatparimāṇaḥ snānapānādiḥ arthaḥ phalaṃ prayojanaṃ sa sarvaḥ arthaḥ sarvataḥ samplutodake'pi yaḥ arthaḥ tāvāneva sampadyate, tatra antarbhavatītyarthaḥ | evaṃ tāvān tāvatparimāṇa eva sampadyate sarveṣu vedeṣu vedokteṣu karmasu yaḥ arthaḥ yatkarmaphalaṃ saḥ arthaḥ brāhmaṇasya saṃnyāsinaḥ paramārthatattvam vijānataḥ yaḥ arthaḥ yat vijñānaphalaṃ sarvataḥsamplutodakasthānīyaṃ tasmin tāvāneva sampadyate tatraivāntarbhavatītyarthaḥ | 'yathā kṛtāya vijitāyādhareyāḥ saṃyantyevamenaṃ sarvaṃ tadabhisameti yat kiñcit prajāḥ sādhu kurvanti yastadveda yatsa veda' (ChU 4.1.4) iti śruteḥ | 'sarvaṃ karmākhilam' (BG 4.33) iti ca vakṣyati | tasmāt prāk jñānaniṣṭhādhikāraprāpteḥ karmaṇyadhikṛtena kūpataḍāgādyarthasthānīyamapi karma kartavyam || 46 ||
-
-### Translation
-Just as in the world, whatever purpose - of such and such measure - for bathing, drinking etc. is served by many wells, tanks etc. with limited water, that same purpose is fulfilled also in water that floods everywhere, meaning it is included in that. Similarly, whatever purpose or result of action exists in all the Vedas and Vedic actions, that purpose or result is fulfilled to exactly that extent in a brāhmaṇa, a renunciant who knows the supreme truth - whatever purpose or result of knowledge that is equivalent to the flooding water, in that it is fulfilled to exactly that extent, meaning it is included in that alone. As the śruti says: "Just as one who has won at dice gains the lower ranks, so whatever good people do, all that goes to him who knows that, what he knows" (ChU 4.1.4). And he will say "all action in its entirety" (BG 4.33). Therefore before attaining qualification for steadfastness in knowledge, one who is qualified for action should perform action even though it serves the purpose like wells and tanks.
-
-## IV. Key Technical Terms
-
-### A. Major Terms
+### B. Key Technical Terms
 1. उदपान (udapāna)
+   - Small well
    - Limited water source
-   - Symbol for limited knowledge
-   - Contrasted with सर्वतःसम्प्लुतोदक
+   - Particular means
 
-2. विजानत् (vijānat)
-   - One who knows
-   - Specifically ब्राह्मण
-   - With परमार्थतत्त्व knowledge
-
-### B. Knowledge Types
-1. कर्मफल (karmaphala)
-   - Limited fruits
-   - Like limited water
-   - Preparatory stage
-
-2. विज्ञानफल (vijñānaphala)
-   - Knowledge result
-   - Complete fulfillment
-   - Ultimate stage
-
-## V. Commentary Structure
-
-### A. Analogy Development
-1. Physical Level
-   - Limited water sources
+2. सर्वतःसम्प्लुतोदक (sarvataḥsamplutodaka)
+   - All-pervading water
    - Universal flood
-   - Inclusion principle
-
-2. Knowledge Level
-   - Vedic actions
-   - Supreme knowledge
    - Complete fulfillment
 
-### B. Practical Direction
-1. Current Stage
-   - Before ज्ञाननिष्ठा
-   - Need for action
-   - Limited but necessary
+3. विजानत् (vijānat)
+   - Direct knowing
+   - True understanding
+   - Pure comprehension
 
-2. Progressive Path
-   - Through कर्म
-   - To ज्ञान
+## II. Philosophical Structure
+
+### A. Analogy Framework
+1. Limited Source
+   - Small well
+   - Particular needs
+   - Limited means
+
+2. Universal Fulfillment
+   - All-pervading water
+   - Complete satisfaction
+   - Original wholeness
+
+### B. Knowledge Application
+1. Limited Scripture
+   - Particular injunctions
+   - Specific means
+   - Limited goals
+
+2. Direct Understanding
+   - Complete knowledge
+   - Universal truth
+   - Original insight
+
+## III. Connection to Previous Verse
+
+### A. Development from 2.45
+1. Beyond Guṇas
+   - From limited sphere
+   - To universal truth
+   - Original unity
+
+2. Through Understanding
+   - Beyond particulars
+   - To universal truth
+   - Pure comprehension
+
+### B. Progressive Teaching
+1. First Level
+   - Limited means
+   - Particular goals
+   - Specific understanding
+
+2. Final Level
+   - Universal truth
    - Complete fulfillment
+   - Original insight
 
-# BG 2.46 Trans-Idealist Analysis
+## IV. Technical Framework
 
-## I. Knowledge Architecture
+### A. Knowledge Structure
+1. Limited Knowledge
+   - Particular scriptures
+   - Specific injunctions
+   - Limited goals
 
-### A. Yogācāra Structure
-The verse reveals a precise epistemological architecture:
-1. Transformation Basis
-   - Like āśrayaparāvṛtti
-   - Limited to complete
-   - Through understanding
+2. Complete Understanding
+   - Universal truth
+   - Direct insight
+   - Original wholeness
 
-2. Knowledge Levels
-   - परिच्छिन्न: Limited knowing
-   - सर्वतःसम्प्लुत: Complete knowing
-   - Integration principle
+### B. Resolution Framework
+1. Through Understanding
+   - Beyond particulars
+   - To universal truth
+   - Pure comprehension
 
-### B. Integration Method
-Clear resonance with Yogācāra practice:
-1. Progressive Development
-   - Through विज्ञापति levels
-   - Not rejecting but including
-   - Complete transformation
+2. Final State
+   - Complete fulfillment
+   - Original insight
+   - Pure presence
 
-2. Practice Framework
-   - Limited useful initially
-   - Transformation through practice
-   - Complete realization
-
-## II. Systematic Understanding
+## V. Trans-Idealist Analysis
 
 ### A. Knowledge Types
-Not mere categorization but structural revelation:
-1. Limited Knowledge
-   - Like wells and tanks
-   - Useful but incomplete
-   - Necessarily provisional
+1. Limited Understanding
+   - Through particulars
+   - Specific means
+   - Local truth
+
+2. Universal Insight
+   - Complete truth
+   - Direct understanding
+   - Original synthesis
+
+### B. Resolution Structure
+1. Through Understanding
+   - Beyond particulars
+   - To universal truth
+   - Original insight
+
+2. Final State
+   - Complete fulfillment
+   - Pure comprehension
+   - Original unity
+
+## VI. Practical Implementation
+
+### A. Understanding Process
+1. Recognition of Limits
+   - Particular means
+   - Specific goals
+   - Limited understanding
+
+2. Beyond Limitation
+   - To universal truth
+   - Direct insight
+   - Original wholeness
+
+### B. Final Resolution
+1. Complete Understanding
+   - Universal truth
+   - Direct insight
+   - Pure presence
+
+2. Practical Path
+   - Through knowledge
+   - To original unity
+   - Complete fulfillment
+
+# Analysis of Śaṅkara's Commentary on BG 2.46
+
+## I. Opening Question
+
+### A. Initial Framework
+```sanskrit
+सर्वेषु वेदोक्तेषु कर्मसु यान्युक्तान्यनन्तानि फलानि तानि नापेक्ष्यन्ते चेत् , किमर्थं तानि ईश्वरायेत्यनुष्ठीयन्ते
+```
+
+1. Central Problem
+   - Action without desire for results
+   - For Ishvara's sake
+   - Purpose question
+
+2. Technical Structure
+   - कर्म without फल
+   - Higher purpose
+   - Real meaning
+
+## II. Analogy Analysis
+
+### A. Water Sources
+```sanskrit
+यथा लोके कूपतडागाद्यनेकस्मिन् उदपाने परिच्छिन्नोदके यावान् यावत्परिमाणः स्नानपानादिः अर्थः फलं प्रयोजनं
+```
+
+1. Limited Sources
+   - कूप = well
+   - तडाग = pond
+   - परिच्छिन्न = limited water
+
+2. Limited Uses
+   - स्नान = bathing
+   - पान = drinking
+   - Specific purposes
+
+### B. Universal Water
+```sanskrit
+स सर्वः अर्थः सर्वतः सम्प्लुतोदकेऽपि यः अर्थः तावानेव सम्पद्यते, तत्र अन्तर्भवतीत्यर्थः
+```
+
+1. Complete Fulfillment
+   - सर्वतःसम्प्लुत = universally flooded
+   - All purposes included
+   - Original wholeness
+
+2. Technical Principle
+   - अन्तर्भवति = included within
+   - Complete resolution
+   - Pure synthesis
+
+## III. Knowledge Application
+
+### A. Brahman Knowledge
+```sanskrit
+ब्राह्मणस्य संन्यासिनः परमार्थतत्त्वं विजानतः यः अर्थः यत् विज्ञानफलं
+```
+
+1. True Knower
+   - संन्यासिन् = renunciate
+   - परमार्थतत्त्व = ultimate truth
+   - Direct understanding
+
+2. Knowledge Result
+   - विज्ञानफल = fruit of knowledge
+   - Complete fulfillment
+   - Original wholeness
+
+### B. Scriptural Support
+```sanskrit
+यथा कृताय विजितायाधरेयाः संयन्त्येवमेनं सर्वं तदभिसमेति यत् किञ्चित् प्रजाः साधु कुर्वन्ति यस्तद्वेद यत्स वेद
+```
+
+1. Chandogya Reference
+   - Complete victory
+   - All good included
+   - Universal fulfillment
+
+2. Future Teaching
+   - सर्वं कर्माखिलम्
+   - All action resolved
+   - Pure synthesis
+
+## IV. Practical Conclusion
+
+### A. Prior to Knowledge
+```sanskrit
+तस्मात् प्राक् ज्ञाननिष्ठाधिकारप्राप्तेः कर्मण्यधिकृतेन कूपतडागाद्यर्थस्थानीयमपि कर्म कर्तव्यम्
+```
+
+1. Action Framework
+   - Before knowledge-establishment
+   - Limited means valid
+   - Progressive path
+
+2. Technical Structure
+   - कर्मण्यधिकृत = qualified for action
+   - Progressive development
+   - Towards knowledge
+
+## V. Philosophical Framework
+
+### A. Knowledge Types
+1. Limited Understanding
+   - Through specific means
+   - Particular purposes
+   - Progressive path
 
 2. Complete Knowledge
-   - Like universal flood
-   - Including but transcending
-   - Self-authenticating
+   - Universal truth
+   - Direct understanding
+   - Original wholeness
 
-### B. Practice Path
-Clear integration with Buddhist meditation:
-1. Preliminary Practice
-   - Using limited means
-   - Through systematic approach
-   - Toward completion
+### B. Resolution Structure
+1. Through Action
+   - For Ishvara
+   - Without personal aims
+   - Progressive path
 
-2. Complete Realization
-   - Beyond method yet through it
-   - Including all practices
-   - Natural presence
-
-## III. Contemporary Application
-
-### A. Modern Context
-Speaks directly to current crisis:
-1. Information Problem
-   - Endless wells of data
-   - Limited understanding
-   - Missing integration
-
-2. Knowledge Integration
-   - Not through accumulation
-   - But through transformation
-   - Complete understanding
-
-### B. Practice Reality
-Shows concrete possibility:
-1. Current Situation
-   - Limited but useful
-   - Systematic approach
-   - Progressive development
-
-2. Natural Completion
-   - Through proper practice
-   - Including all levels
-   - Complete realization
-
-## IV. Philosophical Integration
-
-### A. With Yogācāra
-Deep structural parallels:
-1. Transformation Base
-   - āśrayaparāvṛtti structure
-   - Through systematic practice
-   - Complete turning-around
-
-2. Knowledge Levels
-   - Like vijñapti system
-   - Progressive development
-   - Natural completion
-
-### B. With Trans-Idealism
-Perfect alignment showing:
-1. Knowledge Structure
-   - Self-transcending system
-   - Through proper practice
-   - Natural completion
-
-2. Practice Reality
-   - Using limited means
-   - Through systematic development
-   - To natural presence
+2. To Knowledge
+   - Direct understanding
+   - Complete fulfillment
+   - Original synthesis

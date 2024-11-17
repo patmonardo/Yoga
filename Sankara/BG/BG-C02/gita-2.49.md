@@ -1,178 +1,289 @@
-# BG 2.49 Śaṅkara's Commentary
+# Analysis of Bhagavad Gītā 2.49
 
-## I. Introduction
+## I. Sanskrit Text Structure
 
-### Sanskrit
-यत्पुनः समत्वबुद्धियुक्तमीश्वराराधनार्थं कर्मोक्तम् , एतस्मात्कर्मणः —
-
-### Transliteration
-yat punaḥ samatvabuddhiyuktam īśvarārādhanārthaṃ karmoktam, etasmāt karmaṇaḥ —
-
-### Translation
-But from that action previously spoken of, which is united with equanimity of understanding and is for the worship of the Lord —
-
-## II. Mūla Verse
-
-### Sanskrit
+### A. Base Verse
+```sanskrit
 दूरेण ह्यवरं कर्म बुद्धियोगाद्धनञ्जय ।
 बुद्धौ शरणमन्विच्छ कृपणाः फलहेतवः ॥ ४९ ॥
+```
 
-### Transliteration
-dūreṇa hyavaraṃ karma buddhiyogād dhanañjaya |
-buddhau śaraṇamanviccha kṛpaṇāḥ phalahetavaḥ || 49 ||
+### B. Key Technical Terms
+1. बुद्धियोग (buddhiyoga)
+   - Reason-synthesis
+   - Pure understanding
+   - Synthetic unity
 
-### Translation
-Far inferior indeed is action to the yoga of understanding, O Dhanañjaya. Seek refuge in understanding; pitiable are those who seek results.
+2. अवर कर्म (avara karma)
+   - Lower action
+   - Mere doing
+   - Without understanding
 
-## III. Commentary
+3. कृपण (kṛpaṇa)
+   - Miserable/pitiable
+   - Result-seekers
+   - Missing truth
 
-### Sanskrit
-दूरेण अतिविप्रकर्षेण अत्यन्तमेव हि अवरम् अधमं निकृष्टं कर्म फलार्थिना क्रियमाणं बुद्धियोगात् समत्वबुद्धियुक्तात् कर्मणः, जन्ममरणादिहेतुत्वात् । हे धनञ्जय, यत एवं ततः योगविषयायां बुद्धौ तत्परिपाकजायां वा साङ्‍ख्यबुद्धौ शरणम् आश्रयमभयप्राप्तिकारणम् अन्विच्छ प्रार्थयस्व, परमार्थज्ञानशरणो भवेत्यर्थः । यतः अवरं कर्म कुर्वाणाः कृपणाः दीनाः फलहेतवः फलतृष्णाप्रयुक्ताः सन्तः, 'यो वा एतदक्षरं गार्ग्यविदित्वास्माल्लोकात्प्रैति स कृपणः' (बृ. उ. ३ । ८ । १०) इति श्रुतेः ॥ ४९ ॥
+## II. Philosophical Structure
 
-### Transliteration
-dūreṇa ativiprākarṣeṇa atyantameva hi avaram adhamaṃ nikṛṣṭaṃ karma phalārthinā kriyamāṇaṃ buddhiyogāt samatvabuddhiyuktāt karmaṇaḥ, janmamaraṇādihetutvāt | he dhanañjaya, yata evaṃ tataḥ yogaviṣayāyāṃ buddhau tatparipākajāyāṃ vā sāṅkhyabuddhau śaraṇam āśrayamabhayaprāptikāraṇam anviccha prārthayasva, paramārthajñānaśaraṇo bhavetyarthaḥ | yataḥ avaraṃ karma kurvāṇāḥ kṛpaṇāḥ dīnāḥ phalahetavaḥ phalatṛṣṇāprayuktāḥ santaḥ, 'yo vā etadakṣaraṃ gārgyaviditvasmāllokātpraiti sa kṛpaṇaḥ' (BU 3.8.10) iti śruteḥ || 49 ||
+### A. Hierarchical Analysis
+1. Lower Level
+   - Mere action
+   - Result-orientation
+   - Missing unity
 
-### Translation
-By far, with extreme distance, utterly inferior, base, and low is action performed by one seeking results compared to action united with equanimity of understanding, because it is the cause of birth, death, etc. O Dhanañjaya, since this is so, therefore seek refuge - shelter which is the cause of obtaining fearlessness - in the understanding concerning yoga or in the Sāṅkhya understanding born from its maturation; meaning become one who takes refuge in the knowledge of supreme truth. Because those who perform inferior action are pitiable, miserable, being impelled by craving for results, as the śruti states: "He who departs from this world without knowing that Immutable, O Gārgi, is pitiable" (BU 3.8.10).
+2. Higher Synthesis
+   - Reason-unified
+   - Pure understanding
+   - Original activity
 
-## IV. Technical Terms
+### B. Resolution Path
+1. Through Understanding
+   - बुद्धि as refuge
+   - Pure synthesis
+   - Original unity
 
-### A. Key Compounds
-1. समत्वबुद्धियुक्त (samatvabuddhiyukta)
-   - With equanimity understanding
-   - United with balanced wisdom
-   - Ground of true action
+2. Beyond Results
+   - फलहेतु as pitiable
+   - Pure activity
+   - Original freedom
 
-2. अभयप्राप्तिकारण (abhayaprāptikāraṇa)
-   - Cause of obtaining fearlessness
+## III. Technical Framework
+
+### A. Buddhi Structure
+1. As Synthesis
+   - Pure understanding
+   - Original unity
+   - Dynamic stability
+
+2. As Refuge
+   - शरण = shelter
+   - True foundation
+   - Original stability
+
+### B. Action Levels
+1. Lower Action
+   - Without understanding
+   - Result-driven
+   - Missing unity
+
+2. Higher Synthesis
    - Through understanding
-   - Complete refuge
+   - Pure activity
+   - Original unity
 
-### B. Progression Terms
-1. योगविषयाया बुद्धि (yogaviṣayāyā buddhi)
-   - Understanding of yoga
-   - Initial stage
-   - Practice wisdom
+## IV. Analytic-Synthetic Method
 
-2. साङ्‍ख्यबुद्धि (sāṅkhyabuddhi)
-   - Discriminative understanding
-   - Born from yoga's maturation
-   - Higher wisdom
+### A. Analytic Movement
+1. Distinction of Levels
+   - Mere action vs understanding
+   - Results vs freedom
+   - Division vs unity
 
-## V. Commentary Structure
+2. Clear Recognition
+   - Of lower nature
+   - Need for synthesis
+   - Path to unity
 
-### A. Three-level Distance
-1. दूरेण (by far)
-2. अतिविप्रकर्षेण (with extreme distance)
-3. अत्यन्तमेव (utterly)
+### B. Synthetic Resolution
+1. Through Understanding
+   - Pure synthesis
+   - Original unity
+   - Dynamic stability
 
-### B. Progressive Path
-1. From कर्म to बुद्धियोग
-2. Through योग to सांख्य
-3. To परमार्थज्ञान
+2. Complete Integration
+   - Of understanding and action
+   - Pure activity
+   - Original freedom
 
-# BG 2.49 Trans-Idealist Analysis
+## V. Implementation Framework
 
-## I. The Architecture of Distance
+### A. Recognition Process
+1. Of Lower State
+   - Mere action
+   - Result-seeking
+   - Missing unity
 
-### A. Yogācāra Integration
-Perfect resonance with vijñāna-parināma:
-1. Transformation Levels
-   - From kliṣṭa-manas action
-   - Through yogic understanding
-   - To complete turning-around
+2. Of Higher Path
+   - Through understanding
+   - Pure synthesis
+   - Original freedom
 
-2. Progressive Development
-   - Like āśraya-parāvṛtti
-   - Through systematic practice
-   - Natural completion
+### B. Practical Direction
+1. Seek Refuge
+   - In understanding
+   - Pure presence
+   - Original unity
 
-### B. Absolute Distinction
-Not mere comparison but ontological leap:
+2. Beyond Results
+   - Pure activity
+   - Dynamic stability
+   - Original freedom
+
+## VI. Technical Implications
+
+### A. Understanding Structure
+1. As Foundation
+   - True refuge
+   - Pure stability
+   - Original presence
+
+2. As Integration
+   - Of action
+   - Through understanding
+   - To freedom
+
+### B. Action Framework
+1. Lower Level
+   - Without understanding
+   - Result-bound
+   - Missing unity
+
+2. Higher Synthesis
+   - Through understanding
+   - Pure activity
+   - Original freedom
+
+# Analysis of Śaṅkara's Commentary on BG 2.49
+
+## I. Opening Framework
+
+### A. Initial Context
+```sanskrit
+यत्पुनः समत्वबुद्धियुक्तमीश्वराराधनार्थं कर्मोक्तम् , एतस्मात्कर्मणः
+```
+
+1. Higher Action
+   - समत्वबुद्धियुक्त = united with equanimity
+   - ईश्वराराधनार्थ = for worship of Ishvara
+   - Pure synthetic unity
+
+2. As Standard
+   - For comparison
+   - Clear distinction
+   - True understanding
+
+## II. Analysis of Lower Action
+
+### A. Technical Description
+```sanskrit
+दूरेण अतिविप्रकर्षेण अत्यन्तमेव हि अवरम् अधमं निकृष्टं कर्म फलार्थिना क्रियमाणं
+```
+
 1. Triple Emphasis
-   - दूरेण: spatial distance
-   - अतिविप्रकर्षेण: qualitative gap
-   - अत्यन्तमेव: absolute distinction
+   - दूरेण = far
+   - अतिविप्रकर्षेण = extremely distant
+   - अत्यन्तम् = completely
 
-2. Knowledge Structure
-   - Beyond relative difference
-   - Through understanding
-   - To complete refuge
+2. Nature Analysis
+   - अवर = lower
+   - अधम = inferior
+   - निकृष्ट = base
 
-## II. Refuge Architecture
+### B. Result Problem
+```sanskrit
+जन्ममरणादिहेतुत्वात्
+```
+   - Birth-death causation
+   - Bondage creation
+   - Continued existence
 
-### A. Beyond Security-Seeking
-Clear parallel with śaraṇa-gamana:
-1. Yogācāra Path
-   - From afflicted seeking
-   - Through practice wisdom
-   - To natural security
+## III. Two Types of Buddhi
 
-2. Complete Shelter
-   - अभयप्राप्ति structure
-   - Through understanding
-   - Natural fearlessness
+### A. Higher Understanding
+```sanskrit
+योगविषयायां बुद्धौ तत्परिपाकजायां वा साङ्‍ख्यबुद्धौ
+```
 
-### B. Progressive Development
-Like vijñāna transformation:
-1. Initial Stage
-   - योगविषयाया बुद्धि
-   - Practice wisdom
-   - Preliminary refuge
+1. Yoga Buddhi
+   - योगविषया = yoga-oriented
+   - Pure understanding
+   - Dynamic stability
 
-2. Maturation
-   - सांख्यबुद्धि development
-   - Discriminative wisdom
+2. Sāṅkhya Buddhi
+   - परिपाकजा = born of maturity
+   - Complete understanding
+   - Original insight
+
+### B. Refuge Nature
+```sanskrit
+शरणम् आश्रयमभयप्राप्तिकारणम्
+```
+
+1. Technical Terms
+   - शरण = refuge
+   - आश्रय = shelter
+   - अभयप्राप्ति = fearlessness attainment
+
+2. Final Goal
+   - परमार्थज्ञानशरण
+   - Ultimate knowledge refuge
+   - Pure presence
+
+## IV. Analysis of Result-Seekers
+
+### A. Technical Description
+```sanskrit
+कृपणाः दीनाः फलहेतवः फलतृष्णाप्रयुक्ताः सन्तः
+```
+
+1. Nature Analysis
+   - कृपण = miserable
+   - दीन = wretched
+   - फलतृष्णाप्रयुक्त = impelled by desire
+
+2. Scriptural Support
+```sanskrit
+यो वा एतदक्षरं गार्ग्यविदित्वास्माल्लोकात्प्रैति स कृपणः
+```
+   - Bṛhadāraṇyaka reference
+   - Missing imperishable
+   - True poverty
+
+## V. Philosophical Framework
+
+### A. Action Levels
+1. Higher Action
+   - With equanimity
+   - For Ishvara
+   - Pure synthesis
+
+2. Lower Action
+   - Result-driven
+   - Birth-death cause
+   - Missing truth
+
+### B. Understanding Types
+1. Yoga Buddhi
+   - Pure understanding
+   - Dynamic stability
+   - Original presence
+
+2. Sāṅkhya Buddhi
+   - Complete knowledge
+   - Ultimate truth
+   - Pure insight
+
+## VI. Technical Implications
+
+### A. Progressive Path
+1. Beyond Lower Action
+   - Result-driven
+   - Birth-death cycle
+   - Missing truth
+
+2. Through Understanding
+   - As refuge
+   - Pure presence
+   - Original freedom
+
+### B. Final Resolution
+1. Ultimate Knowledge
+   - Pure understanding
    - Complete shelter
+   - Original stability
 
-## III. The Pitiable State
-
-### A. Buddhist Integration
-Resonance with duḥkha analysis:
-1. Root Condition
-   - फलतृष्णा as cause
-   - Like samudaya
-   - Basic ignorance
-
-2. Liberation Path
-   - Through understanding
-   - Beyond result-seeking
-   - Natural freedom
-
-### B. Modern Application
-Speaks to current crisis:
-1. Achievement Fixation
-   - Modern कृपण state
-   - Result addiction
-   - Missing essence
-
-2. Natural Solution
-   - Through understanding
-   - Beyond seeking
-   - Complete refuge
-
-## IV. Complete Integration
-
-### A. With Buddhist Practice
-Perfect alignment showing:
-1. Transformation Base
-   - From afflicted action
-   - Through understanding
-   - To natural wisdom
-
-2. Progressive Path
-   - Through yoga practice
-   - To discriminative wisdom
-   - Complete refuge
-
-### B. Natural Implementation
-Not future but present:
-1. Current Understanding
-   - Beyond result-seeking
-   - Through practice
-   - Natural security
-
-2. Living Reality
-   - In present action
-   - Through wisdom
-   - Complete freedom
+2. True Freedom
+   - Beyond results
+   - Pure presence
+   - Original unity

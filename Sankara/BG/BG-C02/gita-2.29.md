@@ -1,281 +1,191 @@
-# BG 2.29 Technical Analysis
+# Technical Analysis: Bhagavad Gītā 2.29
 
-## I. Text Establishment
+## I. Mūla Verse and Structure
 
-### A. Core Verse
-आश्चर्यवत्पश्यति कश्चिदेनमाश्चर्यवद्वदति तथैव चान्यः ।
-आश्चर्यवच्चैनमन्यः शृणोति श्रुत्वाप्येनं वेद न चैव कश्चित् ॥ २९ ॥
-(*āścaryavatpaśyati kaścidenamāścaryavadvadati tathaiva cānyaḥ* |
-*āścaryavaccainamanyaḥ śṛṇoti śrutvāpyenaṃ veda na caiva kaścit* || 29 ||)
+```sanskrit
+आश्चर्यवत्पश्यति कश्चिदेनम्
+आश्चर्यवद्वदति तथैव चान्यः |
+आश्चर्यवच्चैनमन्यः शृणोति
+श्रुत्वाप्येनं वेद न चैव कश्चित् || 29 ||
+```
 
-### B. Śaṅkara's Commentary
-आश्चर्यवत् आश्चर्यम् अदृष्टपूर्वम् अद्भुतम् अकस्माद्दृश्यमानं तेन तुल्यं आश्चर्यवत् आश्चर्यमिति एनम् आत्मानं पश्यति कश्चित् ।
-(*āścaryavat āścaryam adṛṣṭapūrvam adbhutam akasmāddṛśyamānaṃ tena tulyaṃ āścaryavat āścaryamiti enam ātmānaṃ paśyati kaścit* |)
+## II. Śaṅkara's Commentary
 
-## II. Technical Analysis
+```sanskrit
+आश्चर्यवत् आश्चर्यमिव आश्चर्यं च तत् अतीन्द्रियत्वात् । तथा पश्यति कश्चित् कश्चिदेव योगी । तथैव आश्चर्यवत् वदति अन्यः । आश्चर्यवत् च एनम् अन्यः शृणोति । श्रुत्वा अपि एनम् आत्मानं वेद न च एव कश्चित् । दुर्विज्ञेयत्वात् आत्मनः ।
+```
 
-### A. Key Epistemological Terms
-1. Primary Structure:
-   - आश्चर्य (*āścarya*) - wonder, marvel
-   - अदृष्टपूर्व (*adṛṣṭapūrva*) - never seen before
-   - अद्भुत (*adbhuta*) - marvelous
-   - अकस्माद्दृश्यमान (*akasmāddṛśyamāna*) - appearing without cause
-
-2. Cognitive Modes:
-   - पश्यति (*paśyati*) - sees
-   - वदति (*vadati*) - speaks
-   - शृणोति (*śṛṇoti*) - hears
-   - वेद (*veda*) - knows
-
-### B. Epistemological Structure
-1. Triple Cognition:
-   - Direct perception (पश्यति)
-   - Communication (वदति)
-   - Reception (शृणोति)
-
-2. Ultimate Transcendence:
-   - Beyond all modes
-   - Through wonder
-   - To pure understanding
-
-## III. Philosophical Framework
-
-### A. Pure Method
+### A. Bhāṣya Analysis
 1. Wonder Structure:
-   - Beyond ordinary cognition
-   - Through systematic marvel
-   - To pure insight
+   - आश्चर्यवत् (āścaryavat):
+      * Gloss: आश्चर्यमिव (āścaryam iva) - as if a wonder
+      * Basis: अतीन्द्रियत्वात् (atīndriyatvāt) - due to being beyond senses
+      * Full phrase: आश्चर्यं च तत् अतीन्द्रियत्वात् (āścaryaṃ ca tat atīndriyatvāt) - it is a wonder due to being beyond senses
 
-2. Complete Development:
-   - Clear progression
-   - Necessary stages
-   - Total vision
+2. Knowledge Sequence:
+   - पश्यति (paśyati):
+      * Subject: कश्चिदेव योगी (kaścideva yogī) - some rare yogi
+      * Construction: तथा पश्यति कश्चित् (tathā paśyati kaścit) - thus some one sees
+      * Direct vision mode
 
-### B. Critical Integration
-1. Transcendental Structure:
-   - Beyond empirical cognition
-   - Through systematic wonder
-   - To pure understanding
+   - वदति (vadati):
+      * Full phrase: तथैव आश्चर्यवत् वदति अन्यः (tathaiva āścaryavat vadati anyaḥ)
+      * Speaking as wonder
+      * Teaching expression
 
-2. Method Achievement:
-   - Clear progression
-   - Necessary development
-   - Complete vision
+   - शृणोति (śṛṇoti):
+      * Full phrase: आश्चर्यवत् च एनम् अन्यः शृणोति (āścaryavat ca enam anyaḥ śṛṇoti)
+      * Hearing as wonder
+      * Understanding attempt
 
-## IV. Technical Terms
-
-### A. Core Compounds
-1. Wonder Terms:
-   - आश्चर्यवत् (*āścaryavat*) - like a wonder
-   - अदृष्टपूर्व (*adṛṣṭapūrva*) - never before seen
-   - अकस्माद्दृश्यमान (*akasmāddṛśyamāna*) - appearing without cause
-
-2. Cognitive Terms:
-   - दुर्विज्ञेय (*durvijñeya*) - difficult to know
-   - दुर्बोध (*durbodha*) - difficult to understand
-   - भ्रान्तिनिमित्त (*bhrāntinimitta*) - cause of confusion
-
-### B. Philosophical Terms
-1. Epistemological Structure:
-   - पश्यति (*paśyati*) - direct perception
-   - वदति (*vadati*) - verbal expression
-   - शृणोति (*śṛṇoti*) - auditory reception
-
-2. Integration:
-   - Through wonder
-   - Beyond cognition
-   - To pure understanding
-
-## V. Systematic Development
-
-### A. Method Structure
-1. Progressive Analysis:
-   - From ordinary cognition
-   - Through wonder
-   - To pure understanding
-
-2. Complete Vision:
-   - Clear progression
-   - Systematic development
-   - Total realization
-
-### B. Integration Points
-1. With Previous Verses:
-   - From phenomenal analysis
-   - To epistemological wonder
-   - In complete vision
-
-2. With Later Development:
-   - Foundation established
-   - Method demonstrated
-   - Path prepared
-
-## VI. Philosophical Impact
-
-### A. Method Achievement
-1. Pure Analysis:
-   - Beyond ordinary cognition
-   - Through systematic wonder
-   - To complete understanding
-
-2. Total Vision:
-   - Clear progression
-   - Necessary stages
-   - Complete realization
-
-### B. Critical Integration
-1. Wonder Method:
-   - Beyond empirical knowledge
-   - Through systematic marvel
-   - To pure understanding
-
-2. Complete Vision:
-   - Clear development
-   - Necessary stages
-   - Total realization
-
-# BG 2.29 Philosophical Analysis
-
-## I. Pure Wonder Method
-
-### A. Wonder Structure
-1. Beyond Ordinary Cognition:
-   - आश्चर्य (*āścarya*) as method
-   - Transcendence of empirical knowledge
-   - Pure wonder as insight
-
-2. Complete Framework:
-   - Beyond mere cognition
-   - Through systematic marvel
-   - To pure understanding
-
-### B. Critical Integration
-1. Kantian Elements:
-   - Beyond empirical knowledge
-   - Through transcendental wonder
-   - To pure understanding
-
-2. Fichtean Development:
-   - Original wonder structure
-   - Through systematic stages
-   - To complete vision
-
-## II. Philosophical Method
-
-### A. Pure Development
-1. Wonder Analysis:
-   - From ordinary cognition
-   - Through systematic marvel
-   - To pure insight
-
-2. Complete Structure:
-   - Clear progression
-   - Necessary stages
-   - Total vision
-
-### B. Critical Achievement
-1. Method Structure:
-   - Pure wonder
-   - Systematic development
-   - Complete understanding
-
-2. Vision Complete:
-   - Clear progression
-   - Necessary stages
-   - Total realization
-
-## III. Integration Framework
-
-### A. With Critical Philosophy
-1. Pure Method:
-   - Beyond empirical knowledge
-   - Through systematic wonder
-   - To pure understanding
-
-2. Complete Structure:
-   - Wonder analysis
-   - Transcendental method
-   - Total vision
-
-### B. With Previous Development
-1. Methodological Progress:
-   - From phenomenal analysis
-   - Through epistemological wonder
-   - To complete understanding
-
-2. Total Vision:
-   - Clear progression
-   - Systematic development
-   - Complete realization
-
-## IV. Practical Implications
-
-### A. For Understanding
-1. Clear Method:
+3. Final Resolution:
+   - Full statement: श्रुत्वा अपि एनम् आत्मानं वेद न च एव कश्चित् (śrutvā api enam ātmānaṃ veda na ca eva kaścit)
+   - Reason: दुर्विज्ञेयत्वात् आत्मनः (durvijñeyatvāt ātmanaḥ) - due to the Self being hard to know
    - Beyond ordinary knowledge
-   - Through systematic wonder
-   - To pure understanding
 
-2. Complete Vision:
-   - Clear progression
-   - Necessary stages
-   - Total realization
+## III. Technical Term Analysis
 
-### B. For Practice
-1. Direct Application:
-   - Clear understanding
-   - Systematic development
-   - Practical wisdom
+### A. Key Terms
+1. आश्चर्यवत् (āścaryavat):
+   - Formation: आश्चर्य + वत्
+   - Śaṅkara's basis: अतीन्द्रिय
+   - Transcendental pointer
 
-2. Total Achievement:
-   - Through precise stages
-   - In necessary progression
-   - To complete realization
+2. Epistemic Series:
+   - पश्यति: direct seeing
+   - वदति: expression
+   - शृणोति: reception
+   - वेद: knowledge
 
-## V. Final Integration
-
-### A. Method Complete
-1. Pure Development:
-   - From ordinary cognition
-   - Through wonder
-   - To pure understanding
-
-2. Vision Achieved:
-   - Clear progression
-   - Systematic stages
-   - Total realization
-
-### B. Complete Framework
-1. Theoretical Structure:
-   - Pure wonder
-   - Systematic development
-   - Complete understanding
-
-2. Practical Achievement:
-   - Clear method
-   - Necessary stages
-   - Total realization
-
-## VI. Key Insights
-
-### A. Methodological
-1. Pure Wonder:
+### B. Resolution Terms
+1. दुर्विज्ञेय (durvijñeya):
+   - Hard to know
    - Beyond ordinary knowledge
-   - Through systematic development
-   - To complete understanding
+   - Points to special insight
 
-2. Total Vision:
-   - Clear progression
-   - Necessary stages
-   - Complete realization
+## IV. Connection to Previous Verses
 
-### B. Practical
-1. Direct Application:
-   - From understanding
+### A. From 2.28:
+   - अव्यक्त-व्यक्त structure
+   - Manifestation process
+   - Ground reality
+
+### B. To 2.29:
+   - Knowledge structure
+   - Wonder aspect
+   - Beyond ordinary knowing
+
+## V. Philosophical Structure
+
+### A. Knowledge Levels
+1. Ordinary Knowledge:
+   - Seeing (पश्यति)
+   - Speaking (वदति)
+   - Hearing (शृणोति)
+
+2. Special Recognition:
+   - Through wonder (आश्चर्यवत्)
+   - Beyond senses (अतीन्द्रिय)
+   - Original insight
+# Trans-Idealist Analysis: Bhagavad Gītā 2.29
+
+## I. 1804 Framework Integration
+
+### A. Knowledge Structure
+1. First Moment: Direct Seeing
    - Through wonder
-   - To wisdom
+   - Beyond senses
+   - Original insight
 
-2. Total Achievement:
-   - Clear method
-   - Systematic stages
-   - Complete transformation
+2. Second Moment: Expression
+   - Speaking as wonder
+   - Teaching attempt
+   - Communication structure
+
+3. Third Moment: Recognition
+   - Beyond ordinary knowing
+   - Through wonder
+   - Original understanding
+
+### B. Wonder Framework
+1. Not Mere Marvel:
+   - Beyond sensation
+   - Points to transcendental
+   - Original synthetic unity
+
+2. As Method:
+   - Through knowledge forms
+   - Beyond ordinary grasp
+   - To recognition
+
+## II. Buddhist-Vedāntic Integration
+
+### A. Madhyamaka Elements
+1. Knowledge Analysis:
+   - Beyond subject-object
+   - Through wonder
+   - Original insight
+
+2. Resolution Method:
+   - Through negation
+   - Beyond forms
+   - Pure recognition
+
+### B. Yogācāra Framework
+1. Consciousness Structure:
+   - Beyond ordinary knowing
+   - Through wonder-aspect
+   - Original awareness
+
+2. Practice Framework:
+   - Special seeing
+   - Wonder recognition
+   - Pure presence
+
+## III. Systematic Development
+
+### A. From Previous Understanding
+1. Ground Structure (2.28):
+   - Unmanifest-manifest cycle
+   - Essential nature
+   - Original ground
+
+2. To Wonder Recognition:
+   - Beyond ordinary knowing
+   - Through āścaryavat
+   - Original insight
+
+### B. Knowledge Development
+1. Through Forms:
+   - Seeing
+   - Speaking
+   - Hearing
+
+2. To Recognition:
+   - Beyond forms
+   - Through wonder
+   - Pure presence
+
+## IV. Practical Implementation
+
+### A. Understanding Process
+1. Through Wonder:
+   - Not mere amazement
+   - Beyond senses
+   - Original insight
+
+2. To Recognition:
+   - Beyond knowledge forms
+   - Through wonder-aspect
+   - Pure presence
+
+### B. Final Resolution
+1. Beyond Knowledge:
+   - Not mere negation
+   - Through wonder
+   - Original understanding
+
+2. Pure Recognition:
+   - Of ground nature
+   - Through wonder
+   - Original presence

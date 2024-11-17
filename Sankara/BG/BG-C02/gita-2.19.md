@@ -3,7 +3,7 @@
 ## I. Introductory Context
 
 ### A. Sanskrit Text
-शोकमोहादिसंसारकारणनिवृत्त्यर्थः गीताशास्त्रम् , न प्रवर्तकम् इत्येतस्यार्थस्य साक्षिभूते ऋचौ आनीनाय भगवान् । यत्तु मन्यसे 'युद्धे भीष्मादयो मया हन्यन्ते' 'अहमेव तेषां हन्ता' इति, एषा बुद्धिः मृषैव ते । कथम् ?
+शोकमोहादिसंसारकारणनिवृत्त्यर्थः गीताशास्त्रम् , न  प्रवर्तकम् इत्येतस्यार्थस्य साक्षिभूते ऋचौ आनीनाय  भगवान् । यत्तु मन्यसे 'युद्धे भीष्मादयो मया हन्यन्ते' 'अहमेव तेषां हन्ता' इति, एषा बुद्धिः मृषैव ते । कथम् ?
 
 ### B. Transliteration
 śokamohādisaṃsārakāraṇanivṛttyarthaḥ gītāśāstram, na pravartakam ityetasyārthasya sākṣibhūte ṛcau ānīnāya bhagavān | yattu manyase 'yuddhe bhīṣmādayo mayā hanyante' 'ahameva teṣāṃ hantā' iti, eṣā buddhiḥ mṛṣaiva te | katham?
@@ -18,7 +18,7 @@
 उभौ तौ न विजानीतो नायं हन्ति न हन्यते ॥ १९ ॥
 
 ### B. Transliteration
-ya enaṃ vetti hantāraṃ yaścainaṃ manyate hatam |
+ya enaṃ vetti hantāraṃ yaścainaṃ manyate hatam |  
 ubhau tau na vijānīto nāyaṃ hanti na hanyate || 19 ||
 
 ### C. Translation

@@ -1,253 +1,230 @@
-# Technical Analysis: Bhagavad Gītā 2.60
+# BG 2.60 Technical Analysis
 
-## I. Sanskrit Structure
+## Introduction (Śaṅkara)
 
-### A. Key Terms Analysis
-1. विपश्चित् (vipaścit)
-   - Root: √paś with vi prefix
-   - Technical meaning: One with discriminative insight
-   - Abhidharmic parallel: विपश्यना (vipaśyanā)
+### Sanskrit
+सम्यग्दर्शनलक्षणप्रज्ञास्थैर्यं चिकीर्षता आदौ इन्द्रियाणि स्ववशे स्थापयितव्यानि, यस्मात्तदनवस्थापने दोषमाह —
 
-2. प्रमाथिन् (pramāthin)
-   - Root: √math with pra prefix
-   - Technical meaning: Violently disturbing
-   - Points to fundamental instability
+### Transliteration
+samyagdarśanalakṣaṇaprajñāsthairyaṃ cikīrṣatā ādau indriyāṇi svavaśe sthāpayitavyāni, yasmāt tadanavasthāpane doṣamāha —
 
-3. प्रसभम् (prasabham)
-   - Forcefully/violently
-   - Indicates inherent tension
-   - Structural opposition
+### Translation
+For one who desires firmness in the wisdom characterized by right vision, the senses must first be brought under control, for he speaks of the defect in not establishing them [under control]:
 
-### B. Consciousness Structure
-1. इन्द्रियाणि (indriyāṇi)
-   - Not mere sense organs
-   - Faculty-principle itself
-   - Root of manifestation
+## Mūla Verse
 
-2. मनस् (manas)
-   - Understanding faculty
-   - Synthetic unity
-   - Mediating principle
+### Sanskrit
+यततो ह्यपि कौन्तेय पुरुषस्य विपश्चितः ।
+इन्द्रियाणि प्रमाथीनि हरन्ति प्रसभं मनः ॥ ६० ॥
 
-## II. Abhidharmic Framework
+### Transliteration
+yatato hyapi kaunteya puruṣasya vipaścitaḥ |
+indriyāṇi pramāthīni haranti prasabhaṃ manaḥ || 60 ||
 
-### A. Faculty Analysis
-1. Sense-Faculty Structure
-   - Root of manifestation
-   - Power of disturbance
-   - Inherent instability
+### Translation
+For even of one who strives, O son of Kuntī, who is discriminating,
+The turbulent senses forcefully carry away the mind.
 
-2. Mental Faculty
-   - Synthetic function
-   - Mediating role
-   - Subject to disturbance
+## Śaṅkara's Commentary
 
-### B. Vipaśyanā Connection
-1. Discriminative Insight
-   - Beyond mere looking
-   - Clear seeing nature
-   - Original insight
+### Sanskrit
+यततः प्रयत्नं कुर्वतः हि यस्मात् कौन्तेय पुरुषस्य विपश्चितः मेधाविनः अपि इति व्यवहितेन सम्बन्धः । इन्द्रियाणि प्रमाथीनि प्रमथनशीलानि विषयाभिमुखं हि पुरुषं विक्षोभयन्ति आकुलीकुर्वन्ति, आकुलीकृत्य च हरन्ति प्रसभं प्रसह्य प्रकाशमेव पश्यतो विवेकविज्ञानयुक्तं मनः ॥
 
-2. Practice Challenge
-   - Inherent opposition
-   - Structural tension
-   - Need for resolution
+### Transliteration
+yatataḥ prayatnaṃ kurvataḥ hi yasmāt kaunteya puruṣasya vipaścitaḥ medhāvinaḥ api iti vyavahitena sambandhaḥ | indriyāṇi pramāthīni pramathanaśīlāni viṣayābhimukhaṃ hi puruṣaṃ vikṣobhayanti ākulīkurvanti, ākulīkṛtya ca haranti prasabhaṃ prasahya prakāśameva paśyato vivekavijñānayuktaṃ manaḥ ||
 
-## III. Prajñāpāramitā Framework
+## Technical Analysis
 
-### A. Root Problem
-1. Faculty Structure
-   - Inherent disturbance
-   - Structural opposition
-   - Need for transcendence
+### Key Abhidharmic Terms
+1. प्रमाथिन् (pramāthin):
+   - प्रमथनशील (pramathanaśīla)
+   - Turbulent, destructive nature
+   - Root √math (to churn, destroy)
 
-2. Resolution Path
-   - Through insight
-   - Beyond faculties
-   - To pure presence
-
-### B. Practice Implications
-1. Not Through
-   - Mere control
-   - Faculty suppression
-   - Force of will
-
-2. But Through
+2. विपश्चित् (vipaścit):
+   - मेधाविन् (medhāvin)
+   - Discriminating wisdom
    - Clear seeing
-   - Original insight
-   - Pure presence
 
-## IV. Technical Framework
+3. विवेकविज्ञान (vivekavijñāna):
+   - Discriminative consciousness
+   - Pure understanding
+   - Clear awareness
 
-### A. Opposition Structure
-1. Faculty Level
-   - Inherent disturbance
-   - Structural tension
-   - Root instability
+### Process Analysis
+1. Initial State:
+   - यतत (yatata) - striving
+   - प्रयत्न (prayatna) - effort
+   - विपश्चित् (vipaścit) - discrimination
 
-2. Understanding Level
-   - Synthetic function
-   - Mediating role
-   - Subject to disruption
+2. Destructive Action:
+   - विक्षोभयन्ति (vikṣobhayanti) - agitation
+   - आकुलीकुर्वन्ति (ākulīkurvanti) - confusion
+   - हरन्ति (haranti) - forceful carrying away
 
-### B. Resolution Level
-1. Not Through
-   - External control
-   - Force application
-   - Will power
+3. Result:
+   - विवेकविज्ञान-हरण (vivekavijñāna-haraṇa)
+   - Loss of discrimination
+   - Confusion of understanding
 
-2. But Through
-   - Clear seeing
-   - Original insight
-   - Pure presence
+### Technical Structure
+1. Prerequisites:
+   - सम्यग्दर्शन (samyagdarśana)
+   - प्रज्ञा-स्थैर्य (prajñā-sthairya)
+   - इन्द्रिय-वश (indriya-vaśa)
 
-## V. Practical Implications
+2. Obstacles:
+   - प्रमाथिन् इन्द्रियाणि (pramāthin indriyāṇi)
+   - विषयाभिमुखता (viṣayābhimukhatā)
+   - मनो-हरण (mano-haraṇa)
 
-### A. Practice Structure
-1. Recognition
-   - Of inherent tension
-   - Structural opposition
-   - Need for resolution
+3. Required Protection:
+   - इन्द्रिय-स्थापन (indriya-sthāpana)
+   - स्ववश-स्थिति (svavaśa-sthiti)
+   - विवेक-रक्षण (viveka-rakṣaṇa)
 
-2. Development
-   - Of clear seeing
-   - Original insight
-   - Pure presence
+# BG 2.60 Trans-Idealist Analysis
 
-### B. Implementation Path
-1. Through Understanding
-   - Not mere control
-   - Beyond suppression
-   - To pure insight
+## I. Ground of Complete Protection
 
-2. To Resolution
-   - Beyond opposition
-   - Original stability
-   - Pure presence
-
-# Technical Analysis: Śaṅkara's Commentary on BG 2.60
-
-## I. Opening Framework
-
-### A. Key Technical Term
-```sanskrit
-सम्यग्दर्शनलक्षणप्रज्ञास्थैर्यम्
-```
-Critical compound breaking down as:
-1. सम्यग्दर्शन = right seeing
-2. लक्षण = characterized by
-3. प्रज्ञा = pure reason
-4. स्थैर्य = stability
-
-### B. Philosophical Structure
-1. Pure Reason (प्रज्ञा)
-   - Not mere knowledge
-   - Direct seeing nature
-   - Original stability
-
-2. Right Seeing (सम्यग्दर्शन)
-   - Beyond perception
-   - Direct insight
-   - Pure recognition
-
-## II. Technical Analysis
-
-### A. Faculty Problem
-```sanskrit
-विषयाभिमुखं हि पुरुषं विक्षोभयन्ति आकुलीकुर्वन्ति
-```
-1. Key Terms:
-   - विषयाभिमुख = turned toward objects
-   - विक्षोभ = fundamental disturbance
-   - आकुलीकरण = making confused/agitated
-
-2. Structural Issue:
-   - Not mere distraction
-   - Fundamental opposition
-   - Root instability
-
-### B. Knowledge Structure
-```sanskrit
-विवेकविज्ञानयुक्तं मनः
-```
-1. Components:
-   - विवेक = discrimination
-   - विज्ञान = systematic knowledge
-   - मनस् = understanding
-
-2. Synthesis Required:
-   - Not mere knowing
-   - Discriminative insight
+### A. Necessary Foundation
+1. सम्यग्दर्शन-प्रज्ञा (samyagdarśana-prajñā):
+   - Right vision as ground
+   - Established wisdom
    - Original understanding
 
-## III. Abhidharmic Correlations
+2. इन्द्रिय-वश (indriya-vaśa):
+   - Sense control
+   - Not mere suppression
+   - Complete mastery
 
-### A. Vipaśyanā Framework
-1. Right Seeing (सम्यग्दर्शन)
-   - Direct parallel to sammā-diṭṭhi
-   - Beyond conceptual knowledge
-   - Pure insight nature
+### B. Systematic Development
+1. यतत-स्थिति (yatata-sthiti):
+   - Beyond mere effort
+   - Continuous striving
+   - Progressive establishment
 
-2. Stability Issue
-   - Root disturbance (विक्षोभ)
-   - Fundamental agitation (आकुल)
-   - Need for resolution
+2. विपश्चित्-बुद्धि (vipaścit-buddhi):
+   - Clear discrimination
+   - Pure understanding
+   - Original wisdom
 
-### B. Prajñā Structure
-1. Pure Reason
-   - Beyond faculty opposition
-   - Direct seeing nature
-   - Original stability
+## II. Dialectic of Protection
 
-2. Implementation
-   - Through discrimination
-   - Beyond mere control
-   - To pure presence
-
-## IV. Philosophical Implications
-
-### A. Knowledge Path
-1. Not Through:
-   - Mere control
-   - Faculty suppression
-   - Force of will
-
-2. But Through:
-   - Right seeing
-   - Discriminative insight
-   - Pure reason
-
-### B. Resolution Structure
-1. Recognition of:
+### A. Destructive Forces
+1. प्रमथन-शक्ति (pramathana-śakti):
+   - Churning power
    - Root disturbance
-   - Faculty opposition
-   - Need for stability
+   - Fundamental threat
 
-2. Development of:
-   - Pure reason
-   - Direct seeing
-   - Original stability
+2. विक्षेप Process:
+   - विक्षोभ (vikṣobha) - agitation
+   - आकुलता (ākulatā) - confusion
+   - हरण (haraṇa) - carrying away
 
-## V. Practical Framework
+### B. Required Defense
+1. स्ववश-स्थापन (svavaśa-sthāpana):
+   - Self-control establishment
+   - Beyond mere restraint
+   - Complete mastery
 
-### A. Initial Stage
-1. Faculty Control
-   - Preliminary requirement
-   - Not final goal
-   - Points beyond itself
+2. विवेक-रक्षण (viveka-rakṣaṇa):
+   - Protection of discrimination
+   - Maintenance of wisdom
+   - Original understanding
 
-2. Understanding Need
-   - Root disturbance
-   - Structural opposition
-   - Path to resolution
+## III. Buddhist Integration
 
-### B. Final Resolution
-1. Through:
+### A. इन्द्रिय-संवर (indriya-saṃvara)
+1. Complete Guarding:
+   - Of sense faculties
+   - Through wisdom
+   - As protection
+
+2. Progressive Development:
+   - Through effort
+   - With discrimination
+   - To establishment
+
+### B. प्रज्ञा Protection
+1. विपश्यना (vipaśyanā):
+   - Clear seeing
+   - Pure discrimination
+   - Original wisdom
+
+2. स्थैर्य Achievement:
+   - Firm establishment
+   - Beyond disturbance
+   - Complete stability
+
+## IV. Trans-Idealist Structure
+
+### A. Beyond Opposition
+1. Of Control-Freedom:
+   - Not mere suppression
+   - Original mastery
+   - Complete integration
+
+2. Of Effort-Achievement:
+   - Not mere striving
+   - Progressive development
+   - Pure establishment
+
+### B. Original Unity
+1. Of Understanding-Protection:
+   - विवेक-रक्षण (viveka-rakṣaṇa)
+   - Pure discrimination
+   - Complete stability
+
+2. Of Vision-Control:
+   - सम्यग्दर्शन-वश (samyagdarśana-vaśa)
    - Right seeing
-   - Pure reason
-   - Original stability
+   - Original mastery
 
-2. Beyond:
-   - Mere control
-   - Faculty opposition
-   - Conceptual knowledge
+## V. Systematic Development
+
+### A. Prerequisites
+1. Right Foundation:
+   - सम्यग्दर्शन (samyagdarśana)
+   - प्रज्ञा-स्थैर्य (prajñā-sthairya)
+   - Complete preparation
+
+2. Continuous Effort:
+   - यतत (yatata)
+   - विपश्चित् (vipaścit)
+   - Progressive development
+
+### B. Complete Integration
+1. Of Control-Understanding:
+   - इन्द्रिय-वश (indriya-vaśa)
+   - विवेक-विज्ञान (viveka-vijñāna)
+   - Original unity
+
+2. Of Protection-Achievement:
+   - रक्षण-सिद्धि (rakṣaṇa-siddhi)
+   - स्थैर्य-लाभ (sthairya-lābha)
+   - Complete realization
+
+## VI. Philosophical Significance
+
+### A. Complete Method
+1. Systematic Protection:
+   - Of understanding
+   - Through control
+   - To stability
+
+2. Progressive Development:
+   - Through effort
+   - With discrimination
+   - To establishment
+
+### B. Final Achievement
+1. स्थितप्रज्ञ Reality:
+   - Protected wisdom
+   - Stable discrimination
+   - Original understanding
+
+2. Complete Integration:
+   - Of control and freedom
+   - Of effort and achievement
+   - Of understanding and stability

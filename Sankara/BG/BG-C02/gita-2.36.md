@@ -1,399 +1,166 @@
-# BG 2.36 Technical Analysis
-
-## I. Text Establishment
-
-### A. Core Verse
-अवाच्यवादांश्च बहून्वदिष्यन्ति तवाहिताः ।
-निन्दन्तस्तव सामर्थ्यं ततो दुःखतरं नु किम् ॥ ३६ ॥
-(*avācyavadāṃśca bahūnvadiṣyanti tavāhitāḥ* |
-*nindantastava sāmarthyaṃ tato duḥkhataraṃ nu kim* || 36 ||)
-
-### B. Śaṅkara's Commentary
-अवाच्यवादान् अवक्तव्यवादांश्च बहून् अनेकप्रकारान् वदिष्यन्ति तव अहिताः शत्रवः निन्दन्तः कुत्सयन्तः तव त्वदीयं सामर्थ्यं...
-(*avācyavādān avaktavyavādāṃśca bahūn anekaprakārān vadiṣyanti tava ahitāḥ śatravaḥ nindantaḥ kutsayantaḥ tava tvadīyaṃ sāmarthyaṃ...*)
-
-## II. Technical Analysis
-
-### A. Key Terms Structure
-1. Theoretical Terms:
-   - अवाच्यवाद (*avācyavāda*) - unspeakable words
-   - वक्तव्य (*vaktavya*) - to be spoken
-   - सामर्थ्य (*sāmarthya*) - capacity
-
-2. Practical Terms:
-   - निन्दा (*nindā*) - censure
-   - कुत्सा (*kutsā*) - contempt
-   - दुःखतर (*duḥkhatara*) - greater suffering
-
-### B. Philosophical Structure
-1. Reason's Movement:
-   - From theoretical determination
-   - Through practical critique
-   - To concrete suffering
-
-2. Logical Development:
-   - From abstract judgment
-   - Through social mediation
-   - To practical reality
-
-## III. Philosophical Framework
-
-### A. Pure Method
-1. Critical Structure:
-   - Beyond theoretical reason
-   - Through practical judgment
-   - To concrete determination
-
-2. Complete Development:
-   - Clear progression
-   - Necessary stages
-   - Total vision
-
-### B. Critical Integration
-1. Kantian Structure:
-   - Theoretical reason
-   - Practical reason
-   - Complete integration
-
-2. Method Achievement:
-   - Clear progression
-   - Necessary development
-   - Complete vision
-
-## IV. Technical Terms
-
-### A. Core Compounds
-1. Language Terms:
-   - अवाच्यवाद (*avācyavāda*) - unspeakable speech
-   - अवक्तव्यवाद (*avaktavyavāda*) - inexpressible speech
-   - बहुप्रकार (*bahuprakāra*) - many kinds
-
-2. Practical Terms:
-   - सामर्थ्य (*sāmarthya*) - capacity/power
-   - अहित (*ahita*) - enemy
-   - दुःखतर (*duḥkhatara*) - greater suffering
-
-### B. Philosophical Terms
-1. Structure Analysis:
-   - Theoretical judgment
-   - Practical critique
-   - Concrete suffering
-
-2. Integration:
-   - Through systematic necessity
-   - Complete development
-   - Total vision
-
-## V. Systematic Development
-
-### A. Method Structure
-1. Progressive Analysis:
-   - From theoretical reason
-   - Through practical judgment
-   - To concrete reality
-
-2. Complete Vision:
-   - Clear progression
-   - Systematic development
-   - Total realization
-
-### B. Integration Points
-1. With Previous Verse:
-   - From recognition structure
-   - Through practical criticism
-   - To concrete suffering
-
-2. With Complete Framework:
-   - Foundation established
-   - Method demonstrated
-   - Path prepared
-
-## VI. Philosophical Impact
-
-### A. Method Achievement
-1. Pure Analysis:
-   - Beyond theoretical reason
-   - Through practical judgment
-   - To concrete reality
-
-2. Total Vision:
-   - Clear progression
-   - Necessary stages
-   - Complete realization
-
-### B. Critical Integration
-1. Systematic Method:
-   - Complete development
-   - Through necessity
-   - To practical wisdom
-
-2. Final Vision:
-   - Clear understanding
-   - Total development
-   - Complete realization
-# BG 2.36 Technical Analysis
-
-## I. Text Establishment
-
-### A. Core Verse
-अवाच्यवादांश्च बहून्वदिष्यन्ति तवाहिताः ।
-निन्दन्तस्तव सामर्थ्यं ततो दुःखतरं नु किम् ॥ ३६ ॥
-(*avācyavadāṃśca bahūnvadiṣyanti tavāhitāḥ* |
-*nindantastava sāmarthyaṃ tato duḥkhataraṃ nu kim* || 36 ||)
-
-### B. Śaṅkara's Commentary
-अवाच्यवादान् अवक्तव्यवादांश्च बहून् अनेकप्रकारान् वदिष्यन्ति तव अहिताः शत्रवः निन्दन्तः कुत्सयन्तः तव त्वदीयं सामर्थ्यं...
-(*avācyavādān avaktavyavādāṃśca bahūn anekaprakārān vadiṣyanti tava ahitāḥ śatravaḥ nindantaḥ kutsayantaḥ tava tvadīyaṃ sāmarthyaṃ...*)
-
-## II. Technical Analysis
-
-### A. Key Terms Structure
-1. Theoretical Terms:
-   - अवाच्यवाद (*avācyavāda*) - unspeakable words
-   - वक्तव्य (*vaktavya*) - to be spoken
-   - सामर्थ्य (*sāmarthya*) - capacity
-
-2. Practical Terms:
-   - निन्दा (*nindā*) - censure
-   - कुत्सा (*kutsā*) - contempt
-   - दुःखतर (*duḥkhatara*) - greater suffering
-
-### B. Philosophical Structure
-1. Reason's Movement:
-   - From theoretical determination
-   - Through practical critique
-   - To concrete suffering
-
-2. Logical Development:
-   - From abstract judgment
-   - Through social mediation
-   - To practical reality
-
-## III. Philosophical Framework
-
-### A. Pure Method
-1. Critical Structure:
-   - Beyond theoretical reason
-   - Through practical judgment
-   - To concrete determination
-
-2. Complete Development:
-   - Clear progression
-   - Necessary stages
-   - Total vision
-
-### B. Critical Integration
-1. Kantian Structure:
-   - Theoretical reason
-   - Practical reason
-   - Complete integration
-
-2. Method Achievement:
-   - Clear progression
-   - Necessary development
-   - Complete vision
-
-## IV. Technical Terms
-
-### A. Core Compounds
-1. Language Terms:
-   - अवाच्यवाद (*avācyavāda*) - unspeakable speech
-   - अवक्तव्यवाद (*avaktavyavāda*) - inexpressible speech
-   - बहुप्रकार (*bahuprakāra*) - many kinds
-
-2. Practical Terms:
-   - सामर्थ्य (*sāmarthya*) - capacity/power
-   - अहित (*ahita*) - enemy
-   - दुःखतर (*duḥkhatara*) - greater suffering
-
-### B. Philosophical Terms
-1. Structure Analysis:
-   - Theoretical judgment
-   - Practical critique
-   - Concrete suffering
-
-2. Integration:
-   - Through systematic necessity
-   - Complete development
-   - Total vision
-
-## V. Systematic Development
-
-### A. Method Structure
-1. Progressive Analysis:
-   - From theoretical reason
-   - Through practical judgment
-   - To concrete reality
-
-2. Complete Vision:
-   - Clear progression
-   - Systematic development
-   - Total realization
-
-### B. Integration Points
-1. With Previous Verse:
-   - From recognition structure
-   - Through practical criticism
-   - To concrete suffering
-
-2. With Complete Framework:
-   - Foundation established
-   - Method demonstrated
-   - Path prepared
-
-## VI. Philosophical Impact
-
-### A. Method Achievement
-1. Pure Analysis:
-   - Beyond theoretical reason
-   - Through practical judgment
-   - To concrete reality
-
-2. Total Vision:
-   - Clear progression
-   - Necessary stages
-   - Complete realization
-
-### B. Critical Integration
-1. Systematic Method:
-   - Complete development
-   - Through necessity
-   - To practical wisdom
-
-2. Final Vision:
-   - Clear understanding
-   - Total development
-   - Complete realization
-# BG 2.37 Technical Analysis
-
-## I. Text Establishment
-
-### A. Core Verse
-हतो वा प्राप्स्यसि स्वर्गं जित्वा वा भोक्ष्यसे महीम् ।
-तस्मादुत्तिष्ठ कौन्तेय युद्धाय कृतनिश्चयः ॥ ३७ ॥
-(*hato vā prāpsyasi svargaṃ jitvā vā bhokṣyase mahīm* |
-*tasmāduttiṣṭha kaunteya yuddhāya kṛtaniścayaḥ* || 37 ||)
-
-### B. Śaṅkara's Commentary
-हतो वा प्राप्स्यसि स्वर्गम् , हतः सन् स्वर्गं प्राप्स्यसि । जित्वा वा कर्णादीन् शूरान् भोक्ष्यसे महीम् । उभयथापि तव लाभ एवेत्यभिप्रायः...
-(*hato vā prāpsyasi svargam, hataḥ san svargaṃ prāpsyasi | jitvā vā karṇādīn śūrān bhokṣyase mahīm | ubhayathāpi tava lābha evetyabhiprāyaḥ*...)
-
-## II. Technical Analysis
-
-### A. Key Terms Structure
-1. Negative Structure:
-   - हत (*hata*) - slain
-   - जित्वा (*jitvā*) - having conquered
-   - कृतनिश्चय (*kṛtaniścaya*) - having made determination
-
-2. Removal Terms:
-   - उत्तिष्ठ (*uttiṣṭha*) - arise
-   - युद्धाय (*yuddhāya*) - for battle
-   - निश्चय (*niścaya*) - determination
-
-### B. Philosophical Structure
-1. Negative Dharma:
-   - Not positive determination
-   - Removal of obstacles
-   - Pure clearing of path
-
-2. Logical Development:
-   - From negative freedom
-   - Through determination
-   - To pure action
-
-## III. Philosophical Framework
-
-### A. Pure Method
-1. Negative Structure:
-   - Beyond positive content
-   - Through obstacle removal
-   - To pure possibility
-
-2. Complete Development:
-   - Clear progression
-   - Necessary stages
-   - Total vision
-
-### B. Critical Integration
-1. Transcendental Structure:
-   - Beyond positive determination
-   - Through negative freedom
-   - To pure action
-
-2. Method Achievement:
-   - Clear progression
-   - Necessary development
-   - Complete vision
-
-## IV. Technical Terms
-
-### A. Core Compounds
-1. Action Terms:
-   - कृतनिश्चय (*kṛtaniścaya*) - made determination
-   - उभयथा लाभ (*ubhayathā lābha*) - gain both ways
-   - युद्धाय (*yuddhāya*) - for battle
-
-2. Result Terms:
-   - स्वर्गप्राप्ति (*svargaprāpti*) - attaining heaven
-   - महीभोग (*mahībhoga*) - enjoyment of earth
-   - शूरजय (*śūrajaya*) - victory over heroes
-
-### B. Philosophical Terms
-1. Structure Analysis:
-   - निश्चय (*niścaya*) - determination
-   - लाभ (*lābha*) - gain
-   - उत्थान (*utthāna*) - rising
-
-2. Integration:
-   - Through systematic necessity
-   - Complete development
-   - Total vision
-
-## V. Systematic Development
-
-### A. Method Structure
-1. Progressive Analysis:
-   - From negative freedom
-   - Through determination
-   - To pure action
-
-2. Complete Vision:
-   - Clear progression
-   - Systematic development
-   - Total realization
-
-### B. Integration Points
-1. With Previous Verse:
-   - From theoretical-practical reason
-   - Through negative determination
-   - To concrete action
-
-2. With Complete Framework:
-   - Foundation established
-   - Method demonstrated
-   - Path prepared
-
-## VI. Philosophical Impact
-
-### A. Method Achievement
-1. Pure Analysis:
-   - Beyond positive content
-   - Through negative freedom
-   - To pure action
-
-2. Total Vision:
-   - Clear progression
-   - Necessary stages
-   - Complete realization
-
-### B. Critical Integration
-1. Systematic Method:
-   - Complete development
-   - Through necessity
-   - To practical wisdom
-
-2. Final Vision:
-   - Clear understanding
-   - Total development
-   - Complete realization
+# Technical Analysis: Bhagavad Gītā 2.36
+
+## I. Mūla Verse and Structure
+
+```sanskrit
+अवाच्यवादांश्च बहून्वदिष्यन्ति तवाहिताः |
+निन्दन्तस्तव सामर्थ्यं ततो दुःखतरं नु किम् || 36 ||
+```
+
+## II. Śaṅkara's Commentary
+
+```sanskrit
+किञ्च अवाच्यवादान् अवक्तव्यवादान् अनेकप्रकारान् बहून् वदिष्यन्ति तव अहिताः शत्रवः । निन्दन्तः कुत्सयन्तः तव त्वदीयं सामर्थ्यं निवातकवचादियुद्धनिमित्तम् । ततः तस्मात् निन्दाप्राप्तेः दुःखतरं कष्टतरं नु किं नास्तीत्यभिप्रायः ।
+```
+
+### A. Bhāṣya Analysis
+1. Speech Framework:
+   - अवाच्यवाद (avācyavāda):
+      * Gloss: अवक्तव्यवादान् (avaktavyavādān)
+      * Further specified: अनेकप्रकारान् (anekaprakārān)
+      * Multiple types of improper speech
+
+2. Opposition Structure:
+   - अहित (ahita):
+      * Gloss: शत्रवः (śatravaḥ)
+      * Technical term for enemies
+      * Essential opposition
+
+3. Criticism Framework:
+   - निन्दन्तः (nindantaḥ):
+      * Gloss: कुत्सयन्तः (kutsayantaḥ)
+      * Continuous criticism
+      * सामर्थ्य reference: निवातकवचादियुद्ध
+
+## III. Technical Term Analysis
+
+### A. Key Terms
+1. अवाच्यवाद (avācyavāda):
+   - Formation: अवाच्य + वाद
+   - Multiple types indicated
+   - Beyond proper speech
+
+2. सामर्थ्य (sāmarthya):
+   - Formation: सामर्थ् + य
+   - Past battle reference
+   - Essential capacity
+
+### B. Comparative Framework
+1. दुःखतर (duḥkhatara):
+   - Formation: दुःख + तर
+   - Śaṅkara's gloss: कष्टतर
+   - Ultimate comparison
+
+## IV. Connection to Previous Verses
+
+### A. From Status Loss (2.35):
+   - महारथ judgment
+   - Essential diminution
+   - Value reversal
+
+### B. To Active Opposition (2.36):
+   - Enemy speech
+   - Power criticism
+   - Ultimate suffering
+# Trans-Idealist Analysis: Bhagavad Gītā 2.36
+
+## I. 1804 Framework Integration
+
+### A. Speech Development
+1. First Moment: Proper Speech
+   - Natural limits
+   - Essential order
+   - Original boundaries
+
+2. Second Moment: Violation
+   - Beyond limits
+   - Multiple forms
+   - Complete negativity
+
+3. Third Moment: Ultimate Suffering
+   - Through criticism
+   - Essential pain
+   - Complete manifestation
+
+### B. Integration Framework
+1. Speech Structure:
+   - Beyond proper limits
+   - Multiple violations
+   - Complete negativity
+
+2. Power Analysis:
+   - Essential capacity
+   - Past manifestation
+   - Present criticism
+
+## II. Buddhist-Vedāntic Integration
+
+### A. Madhyamaka Elements
+1. Analysis of Speech:
+   - Beyond proper limits
+   - Multiple forms
+   - Essential violation
+
+2. Suffering Structure:
+   - Through criticism
+   - Essential pain
+   - Ultimate comparison
+
+### B. Yogācāra Framework
+1. Consciousness Structure:
+   - Speech violation
+   - Power criticism
+   - Complete suffering
+
+2. Practice Framework:
+   - Through opposition
+   - Essential criticism
+   - Ultimate pain
+
+## III. Systematic Development
+
+### A. From Previous Understanding
+1. Status Framework (2.35):
+   - Recognition structure
+   - Value reversal
+   - Complete transformation
+
+2. To Active Opposition:
+   - Speech violation
+   - Power criticism
+   - Ultimate suffering
+
+### B. Pain Development
+1. Through Speech:
+   - Beyond limits
+   - Multiple forms
+   - Complete violation
+
+2. Through Criticism:
+   - Power focus
+   - Essential capacity
+   - Ultimate suffering
+
+## IV. Practical Implementation
+
+### A. Understanding Process
+1. Speech Analysis:
+   - Beyond limits
+   - Multiple forms
+   - Complete violation
+
+2. Opposition Structure:
+   - Enemy framework
+   - Power criticism
+   - Ultimate suffering
+
+### B. Final Resolution
+1. Through Recognition:
+   - Speech violation
+   - Power criticism
+   - Complete suffering
+
+2. Ultimate Question:
+   - Beyond comparison
+   - Essential pain
+   - Complete manifestation

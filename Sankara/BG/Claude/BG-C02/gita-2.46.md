@@ -143,6 +143,7 @@
    - Through knowledge
    - To original unity
    - Complete fulfillment
+
 # Analysis of Śaṅkara's Commentary on BG 2.46
 
 ## I. Opening Question

@@ -1,216 +1,255 @@
-# BG 2.40 Śaṅkara's Commentary
+# Technical Analysis of Mantra 2.40
 
-## I. Introduction
+## I. Base Text
 
-### Sanskrit
-किञ्च अन्यत् —
+### A. Sanskrit
+```sanskrit
+नेहाभिक्रमनाशोऽस्ति प्रत्यवायो न विद्यते |
+स्वल्पमप्यस्य धर्मस्य त्रायते महतो भयात् || 40 ||
+```
 
-### Transliteration
-kiñca anyat —
-
-### Translation
-Moreover, something else —
-
-## II. Mūla Verse
-
-### Sanskrit
-नेहाभिक्रमनाशोऽस्ति प्रत्यवायो न विद्यते ।
-स्वल्पमप्यस्य धर्मस्य त्रायते महतो भयात् ॥ ४० ॥
-
-### Transliteration
-nehābhikramanāśo'sti pratyavāyo na vidyate |
-svalpamapyasya dharmasya trāyate mahato bhayāt || 40 ||
-
-### Translation
-In this [path] there is no loss of beginning effort, nor is there adverse result. Even a little of this dharma protects from great fear.
-
-## III. Śaṅkara's Commentary
-
-### Sanskrit
-न इह मोक्षमार्गे कर्मयोगे अभिक्रमनाशः अभिक्रमणमभिक्रमः प्रारम्भः तस्य नाशः नास्ति यथा कृष्यादेः । योगविषये प्रारम्भस्य न अनैकान्तिकफलत्वमित्यर्थः । किञ्च — नापि चिकित्सावत् प्रत्यवायः विद्यते भवति । किं तु स्वल्पमपि अस्य धर्मस्य योगधर्मस्य अनुष्ठितं त्रायते रक्षति महतः भयात् संसारभयात् जन्ममरणादिलक्षणात् ॥ ४० ॥
-
-### Transliteration
-na iha mokṣamārge karmayoge abhikramanāśaḥ abhikramaṇamabhikramaḥ prārambhaḥ tasya nāśaḥ nāsti yathā kṛṣyādeḥ | yogaviṣaye prārambhasya na anaikāntikaphalatvamartha | kiñca — nāpi cikitsāvat pratyavāyaḥ vidyate bhavati | kiṃ tu svalpamapi asya dharmasya yogadharmasya anuṣṭhitaṃ trāyate rakṣati mahataḥ bhayāt saṃsārabhayāt janmamaraṇādilakṣaṇāt || 40 ||
-
-### Translation
-In this path of liberation through karma-yoga, there is no loss of beginning effort - 'abhikramaṇa' means 'abhikrama' which means beginning, and there is no loss of that, unlike in agriculture etc. The meaning is that in the subject of yoga, the beginning does not have uncertain results. Moreover - there is no adverse effect, as there is in medical treatment. Rather, even a little of this dharma, this yoga-dharma, when practiced, protects, saves from great fear - the fear of saṃsāra characterized by birth, death, etc.
-
-## IV. Key Technical Terms
-
-1. अभिक्रमनाश (abhikramanāśa)
-   - Beginning effort (अभिक्रम) and its loss (नाश)
-   - Contrasted with worldly efforts like agriculture
-   - Certainty of yoga's results emphasized
+### B. Key Term Analysis
+1. अभिक्रमनाश (abhikrama-nāśa)
+   - अभि + क्रम = beginning/undertaking
+   - नाश = destruction/loss
+   - Technical term for effort's fruit
 
 2. प्रत्यवाय (pratyavāya)
-   - Adverse or contrary result
-   - Compared to medical treatment
-   - Absent in yoga practice
+   - प्रति + अव + √इ
+   - Technical term for adverse effect
+   - Negative consequence
 
-3. योगधर्म (yogadharma)
-   - The dharma of yoga
-   - Specifically karma-yoga
-   - In context of मोक्षमार्ग (path to liberation)
+3. त्रायते (trāyate)
+   - √त्रै (√trai) - to protect/save
+   - Ātmanepada usage
+   - Essential protection
 
-4. संसारभय (saṃsārabhaya)
-   - Fear of worldly existence
-   - Characterized by birth, death, etc.
-   - What yoga protects from
+## II. Technical Structure
 
-## V. Commentary Structure
+### A. Double Negation
+1. First Negation:
+   - न अभिक्रमनाशः अस्ति
+   - No loss of beginning
+   - Essential permanence
 
-### A. Three Main Points
-1. No loss of beginning effort
-   - Contrasted with agriculture
-   - Certainty of results emphasized
+2. Second Negation:
+   - प्रत्यवायः न विद्यते
+   - No adverse effect
+   - Complete safety
 
-2. No adverse effects
-   - Contrasted with medical treatment
-   - Safety of practice established
+### B. Protection Framework
+1. Even Small Amount:
+   - स्वल्पम् अपि
+   - Minimalist framework
+   - Essential efficacy
 
-3. Protection from great fear
-   - Even through small practice
-   - From saṃsāric existence
+2. From Great Fear:
+   - महतः भयात्
+   - Ablative usage
+   - Complete protection
 
-### B. Key Analogies
-1. कृषि (Agriculture)
-   - Shows uncertainty of worldly efforts
-   - Contrasted with yoga's certainty
+## III. Philosophical Analysis
 
-2. चिकित्सा (Medical treatment)
-   - Shows potential for adverse effects
-   - Contrasted with yoga's safety
+### A. Nature of This Dharma
+1. Essential Character:
+   - No loss possible
+   - No negative effect
+   - Perfect safety
 
-## VI. Philosophical Implications
+2. Minimal Requirement:
+   - स्वल्पम् अपि
+   - Sufficiency principle
+   - Complete efficacy
 
-1. Nature of Yogic Progress
-   - Cumulative rather than uncertain
-   - Safe rather than risky
-   - Protective rather than merely beneficial
+### B. Protection Structure
+1. Source of Protection:
+   - अस्य धर्मस्य
+   - This specific dharma
+   - Essential nature
 
-2. Relationship to Liberation
-   - Direct path (मोक्षमार्ग)
-   - Through कर्मयोग
-   - Certainty of results
+2. From What Protected:
+   - महतः भयात्
+   - Great fear
+   - Complete threat
 
-# BG 2.40 Technical Analysis
+## IV. Technical Implications
 
-## I. Compound Analysis
+### A. Knowledge Structure
+1. Perfect Safety:
+   - No loss possible
+   - No adverse effect
+   - Complete protection
 
-### A. अभिक्रमनाश (abhikramanāśa)
-1. Formation:
-   - अभिक्रमण + नाश
-   - Tatpuruṣa compound
-   - Genitive relationship
+2. Minimal Sufficiency:
+   - Even small amount
+   - Essential efficacy
+   - Perfect result
 
-2. Components:
-   - अभि + क्रम → अभिक्रम
-   - Extended to अभिक्रमण
-   - नाश as loss/destruction
+### B. Action Framework
+1. Beginning Process:
+   - अभिक्रम structure
+   - Essential start
+   - Perfect continuity
 
-### B. योगधर्म (yogadharma)
-1. Formation:
-   - योग + धर्म
-   - Tatpuruṣa compound
-   - Genitive relationship
+2. Protection Process:
+   - त्रै framework
+   - Essential saving
+   - Complete safety
 
-2. Śaṅkara's Explanation:
-   - Specifically कर्मयोग context
-   - Related to मोक्षमार्ग
-   - Practice-oriented meaning
+## V. Mantra Function
 
-## II. Grammatical Analysis
+### A. In Immediate Context
+1. Following 2.39:
+   - From buddhi teaching
+   - To safety assurance
+   - Perfect encouragement
 
-### A. Verse Structure
-1. First Line:
-   - न + इह = नेह (sandhi)
-   - अस्ति as main verb
-   - Parallel negative constructions
+2. Building Pattern:
+   - Knowledge certainty
+   - Action safety
+   - Complete framework
 
-2. Second Line:
-   - स्वल्पम् as subject
-   - त्रायते as main verb
-   - Ablative भयात्
+### B. In Teaching Structure
+1. Assurance Framework:
+   - Perfect safety
+   - Essential efficacy
+   - Complete protection
 
-### B. Commentary Structure
-1. Term Definitions:
-   - अभिक्रमणम् → अभिक्रमः → प्रारम्भः
-   - Progressive definition
-   - Synonym chains
+2. Transition Role:
+   - To एकाग्र teaching
+   - Perfect preparation
+   - Essential foundation
 
-2. Comparison Constructions:
-   - यथा कृष्यादेः
-   - चिकित्सावत्
-   - Ablative of comparison
+## VI. Special Features
 
-## III. Syntactical Features
+### A. Double Protection
+1. From Loss:
+   - Of beginning effort
+   - Essential permanence
+   - Perfect continuity
 
-### A. Negations
-1. Primary Negations:
-   - नेह (na iha)
-   - न विद्यते
-   - Double negative structure
+2. From Harm:
+   - No adverse effect
+   - Complete safety
+   - Perfect protection
 
-2. Extended Negation:
-   - नापि in commentary
-   - Strengthening original negation
-   - Comparative context
+### B. Minimal Sufficiency
+1. स्वल्पम् अपि Structure:
+   - Even small amount
+   - Essential efficacy
+   - Perfect result
 
-### B. Conditional Structures
-1. अपि Constructions:
-   - स्वल्पमपि
-   - Concessive force
-   - Emphasizing minimal sufficiency
+2. Protection Power:
+   - From great fear
+   - Complete safety
+   - Perfect freedom
 
-2. तु Constructions:
-   - किं तु
-   - Contrastive force
-   - Introducing positive statement
+# Technical Analysis of Śaṅkara's Commentary on BG 2.38
 
-## IV. Technical Terms Analysis
+## I. Opening Framework
 
-### A. Path Terms
-1. मोक्षमार्ग
-   - Compound: मोक्ष + मार्ग
-   - Path of liberation
-   - Context-setting term
+### A. Initial Context
+तत्र युद्धं स्वधर्मं इत्येवं युध्यमानस्योपदेशम् (tatra yuddhaṃ svadharmaṃ ityevaṃ yudhyamānasyopadeśam)
+- Technical context setting
+- स्वधर्म framework
+- Essential teaching
 
-2. कर्मयोग
-   - Compound: कर्म + योग
-   - Method specification
-   - Practice context
+## II. Equanimity Analysis
 
-### B. Result Terms
-1. अनैकान्तिकफलत्व
-   - अन् + एकान्तिक + फल + त्व
-   - Uncertainty of results
-   - What is negated in yoga
+### A. Two Levels of Sama
+1. External Pairs:
+   - सुखदुःखे समे = तुल्ये (sukhaduḥkhe same = tulye)
+   - लाभालाभौ (lābhālābhau)
+   - जयाजयौ (jayājayau)
 
-2. प्रत्यवाय
-   - प्रति + अवाय
-   - Adverse effect
-   - Technical term for obstacle
+2. Internal Transformation:
+   - रागद्वेषावप्यकृत्वा (rāgadveṣāvapyakṛtvā)
+   - Beyond attraction-aversion
+   - Essential equanimity
 
-## V. Commentary Method
+## III. Action Framework
 
-### A. Definition Pattern
-1. Primary Definition:
-   - Term statement
-   - Etymology/derivation
-   - Practical meaning
+### A. Engagement Structure
+1. Technical Terms:
+   - युज्यस्व (yujyasva) = घटस्व (ghaṭasva)
+   - Technical equivalence
+   - Essential effort
 
-2. Comparative Method:
-   - Worldly analogy
-   - Contrast with yoga
-   - Establishing distinction
+2. Liberation Framework:
+   - नैवं पापम् अवाप्स्यसि (naivaṃ pāpam avāpsyasi)
+   - Freedom from binding
+   - Perfect result
 
-### B. Argument Structure
-1. Initial Negation:
-   - What yoga is not
-   - Through comparisons
-   - Building to positive
+## IV. Philosophical Context
 
-2. Positive Assertion:
-   - What yoga is
-   - Benefits stated
-   - Final conclusion
+### A. Two Teaching Levels
+1. लौकिको न्यायः (laukiko nyāyaḥ):
+   - स्वधर्म framework
+   - Previous verses
+   - Preliminary teaching
+
+2. परमार्थदर्शनम् (paramārthadarśanam):
+   - Supreme vision
+   - Essential teaching
+   - Main topic (प्रकृतम्)
+
+## V. Scripture Division
+
+### A. Technical Framework
+1. शास्त्रविषयविभाग (śāstraviṣayavibhāga):
+   - Two paths structure
+   - Clear distinction
+   - Perfect complementarity
+
+2. Dual Path:
+   - ज्ञानयोगेन साङ्‍ख्यानाम् (jñānayogena sāṅkhyānām)
+   - कर्मयोगेन योगिनाम् (karmayogena yoginām)
+   - Complete framework
+
+## VI. Technical Vocabulary
+
+### A. Key Terms
+1. Equanimity Framework:
+   - सम (sama) = तुल्य (tulya)
+   - Beyond रागद्वेष (rāgadveṣa)
+   - Perfect balance
+
+2. Action Structure:
+   - युज् (yuj) = घट् (ghaṭ)
+   - Essential effort
+   - Perfect engagement
+
+### B. Teaching Levels
+1. लौकिक (laukika):
+   - Worldly reasoning
+   - Preliminary stage
+   - Necessary foundation
+
+2. परमार्थ (paramārtha):
+   - Supreme truth
+   - Essential teaching
+   - Perfect realization
+
+## VII. Commentary Function
+
+### A. Integration Structure
+1. From External:
+   - Paired opposites
+   - Essential balance
+   - Perfect equanimity
+
+2. To Internal:
+   - Beyond attraction-aversion
+   - Essential transformation
+   - Perfect freedom
+
+### B. Teaching Framework
+1. Progressive Development:
+   - From worldly to supreme
+   - Through equanimity
+   - To perfect realization
+
+2. Clear Division:
+   - Two paths distinguished
+   - Perfect complementarity
+   - Complete teaching

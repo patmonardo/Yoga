@@ -1,287 +1,224 @@
-# Technical Analysis: Bhagavad Gītā 2.63
+# BG 2.63 Technical Analysis
 
-## I. Sanskrit Structure and Sequence
+## Mūla Verse
 
-### A. First Stage
-```sanskrit
-क्रोधाद्भवति संमोहः
-krodhād bhavati saṃmohaḥ
-```
+### Sanskrit
+क्रोधाद्भवति संमोहः संमोहात्स्मृतिविभ्रमः ।
+स्मृतिभ्रंशाद्बुद्धिनाशो बुद्धिनाशात्प्रणश्यति ॥ ६३ ॥
 
-1. क्रोध (krodha)
-   - From anger
-   - Continuing from previous verse
+### Transliteration
+krodhād bhavati saṃmohaḥ saṃmohāt smṛtivibhramaḥ |
+smṛtibhraṃśād buddhinaśo buddhinaśāt praṇaśyati || 63 ||
+
+### Translation
+From anger arises delusion, from delusion confusion of memory;
+From confusion of memory destruction of intelligence, from destruction of intelligence one perishes.
+
+## Śaṅkara's Commentary
+
+### Sanskrit
+क्रोधात् भवति संमोहः अविवेकः कार्याकार्यविषयः । क्रुद्धो हि संमूढः सन् गुरुमप्याक्रोशति । संमोहात् स्मृतिविभ्रमः शास्त्राचार्योपदेशाहितसंस्कारजनितायाः स्मृतेः स्यात् विभ्रमो भ्रंशः स्मृत्युत्पत्तिनिमित्तप्राप्तौ अनुत्पत्तिः । ततः स्मृतिभ्रंशात् बुद्धिनाशः बुद्धेर्नाशः । कार्याकार्यविषयविवेकायोग्यता अन्तःकरणस्य बुद्धेर्नाश उच्यते । बुद्धिनाशात् प्रणश्यति । तावदेव हि पुरुषः यावदन्तःकरणं तदीयं कार्याकार्यविषयविवेकयोग्यम् । तदयोग्यत्वे नष्ट एव पुरुषो भवति । अतः तस्यान्तःकरणस्य बुद्धेर्नाशात् प्रणश्यति पुरुषार्थायोग्यो भवतीत्यर्थः ॥
+
+### Transliteration
+krodhāt bhavati saṃmohaḥ avivekaḥ kāryākāryaviṣayaḥ | kruddho hi saṃmūḍhaḥ san gurumapyākrośati | saṃmohāt smṛtivibhramaḥ śāstrācāryopadeśāhitasaṃskārajanitāyāḥ smṛteḥ syāt vibhramo bhraṃśaḥ smṛtyutpattinimittaprāptau anutpattiḥ | tataḥ smṛtibhraṃśāt buddhinaśaḥ buddhernāśaḥ | kāryākāryaviṣayavivekāyogyatā antaḥkaraṇasya buddhernāśa ucyate | buddhinaśāt praṇaśyati | tāvadeva hi puruṣaḥ yāvadantaḥkaraṇaṃ tadīyaṃ kāryākāryaviṣayavivekayogyam | tadayogyatve naṣṭa eva puruṣo bhavati | ataḥ tasyāntaḥkaraṇasya buddhernāśāt praṇaśyati puruṣārthāyogyo bhavatītyarthaḥ ||
+
+## Technical Analysis
+
+### Sequence of Destruction
+1. क्रोध → संमोह (krodha → saṃmoha):
+   - Anger leads to delusion
+   - Loss of discrimination
+   - कार्याकार्य-अविवेक (kāryākārya-aviveka)
+
+2. संमोह → स्मृतिविभ्रम (saṃmoha → smṛtivibhrama):
+   - Delusion to memory confusion
+   - Loss of beneficial impressions
+   - शास्त्र-संस्कार destruction
+
+3. स्मृतिभ्रंश → बुद्धिनाश (smṛtibhraṃśa → buddhinaśa):
+   - Memory loss to intelligence destruction
+   - अन्तःकरण corruption
+   - विवेक-योग्यता loss
+
+4. बुद्धिनाश → प्रणाश (buddhinaśa → praṇāśa):
+   - Intelligence destruction to complete ruin
+   - पुरुषार्थ incapacity
+   - Total destruction
+
+### Technical Terms
+1. अन्तःकरण (antaḥkaraṇa):
+   - Internal instrument
+   - Faculty of discrimination
+   - Basis of understanding
+
+2. संस्कार (saṃskāra):
+   - Beneficial impressions
+   - From शास्त्र and आचार्य
+   - Root of memory
+
+3. विवेक-योग्यता (viveka-yogyatā):
+   - Capacity for discrimination
+   - Between कार्य and अकार्य
+   - Essential faculty
+
+### Causal Analysis
+1. Initial Cause:
+   - क्रोध (krodha)
+   - Leads to गुरु-आक्रोश
+   - Root of destruction
+
+2. Intermediate Process:
+   - Through स्मृति loss
+   - Through बुद्धि corruption
+   - Progressive degradation
+
+3. Final Result:
+   - पुरुषार्थ-अयोग्यता
+   - Complete incapacity
+   - Total destruction
+
+# BG 2.63 Trans-Idealist Analysis
+
+## I. Ground of Destruction
+
+### A. Root Cause
+1. क्रोध Nature:
    - Initial disturbance
+   - Root affliction
+   - Cause of ruin
 
-2. संमोह (saṃmoha)
-   - Complete delusion
-   - सं prefix indicating totality
-   - Technical Sāṃkhya term
+2. संमोह Development:
+   - Loss of discrimination
+   - कार्याकार्य confusion
+   - Basic delusion
 
-### B. Second Stage
-```sanskrit
-संमोहात्स्मृतिविभ्रमः
-saṃmohāt smṛtivibhramaḥ
-```
+### B. Progressive Degradation
+1. स्मृति Loss:
+   - Of beneficial impressions
+   - Of teachings received
+   - Of basic capacity
 
-1. स्मृतिविभ्रम (smṛtivibhrama)
-   - Compound analysis:
-     * स्मृति (smṛti) = memory/mindfulness
-     * विभ्रम (vibhrama) = wandering/confusion
-   - Technical Yoga term
-   - Loss of stable awareness
+2. बुद्धि Destruction:
+   - Of discriminative faculty
+   - Of understanding
+   - Of essential capacity
 
-### C. Third Stage
-```sanskrit
-स्मृतिभ्रंशाद्बुद्धिनाशो
-smṛtibhraṃśād buddhināśo
-```
+## II. Abhidharmic Structure
 
-1. स्मृतिभ्रंश (smṛtibhraṃśa)
-   - Complete loss of memory
-   - Stronger than विभ्रम
-   - Technical deterioration
+### A. Precise Sequence
+1. Progressive Development:
+   - क्रोध → संमोह
+   - संमोह → स्मृतिविभ्रम
+   - स्मृतिभ्रंश → बुद्धिनाश
 
-2. बुद्धिनाश (buddhināśa)
-   - Destruction of reason
-   - Loss of discriminative faculty
-   - Critical Sāṃkhya concept
+2. Complete Destruction:
+   - Of faculties
+   - Of capacities
+   - Of being
 
-### D. Final Stage
-```sanskrit
-बुद्धिनाशात्प्रणश्यति
-buddhināśāt praṇaśyati
-```
-   - Complete destruction
-   - प्र prefix showing totality
-   - Final devastation
+### B. Technical Analysis
+1. Faculty Destruction:
+   - अन्तःकरण (antaḥkaraṇa)
+   - विवेक-योग्यता (viveka-yogyatā)
+   - पुरुषार्थ-योग्यता (puruṣārtha-yogyatā)
 
-## II. Sāṃkhya-Yoga Framework
+2. Impression Analysis:
+   - शास्त्र-संस्कार (śāstra-saṃskāra)
+   - आचार्य-उपदेश (ācārya-upadeśa)
+   - Basic capacity
 
-### A. Faculty Analysis
-1. Progressive Deterioration:
-   - From क्रोध (krodha)
-   - Through स्मृति (smṛti)
-   - To बुद्धि (buddhi)
+## III. Buddhist Integration
 
-2. Technical Sequence:
-   - Emotion to awareness
-   - Awareness to reason
-   - Reason to existence
-
-### B. Loss Structure
-1. Three Levels:
-   - विभ्रम (vibhrama) = wandering
-   - भ्रंश (bhraṃśa) = falling
-   - नाश (nāśa) = destruction
-
-2. Progressive Intensity:
-   - From confusion
-   - Through loss
+### A. क्लेश Development
+1. From Anger:
+   - To delusion
+   - Through confusion
    - To destruction
 
-## III. Technical Framework
+2. वासना Analysis:
+   - Loss of impressions
+   - Destruction of seeds
+   - Complete ruin
 
-### A. Process Analysis
-1. Faculty Degradation:
-   - Emotional disturbance
-   - Memory confusion
-   - Rational destruction
+### B. प्रज्ञा Destruction
+1. Progressive Loss:
+   - Of discrimination
+   - Of memory
+   - Of understanding
 
-2. Consciousness Levels:
-   - From awareness
-   - Through memory
-   - To discrimination
+2. Complete Ruin:
+   - Of capacity
+   - Of faculty
+   - Of being
 
-### B. Resolution Structure
-1. Points of Intervention:
-   - At emotional level
-   - At memory level
-   - At reason level
+## IV. Trans-Idealist Structure
 
-2. Recovery Path:
-   - Through stability
-   - Through awareness
-   - Through discrimination
+### A. Beyond Opposition
+1. Of Faculties:
+   - स्मृति-बुद्धि unity
+   - विवेक-योग्यता
+   - Complete capacity
 
-## IV. Philosophical Implications
+2. Of Destruction:
+   - Progressive loss
+   - Necessary sequence
+   - Total ruin
 
-### A. Nature of Deterioration
-1. Internal Necessity:
-   - Not accidental
-   - Clear sequence
-   - Inevitable progression
+### B. Original Unity
+1. Of Understanding:
+   - शास्त्र-संस्कार
+   - आचार्य-उपदेश
+   - Complete knowledge
 
-2. Complete Structure:
-   - All faculties involved
-   - Systematic degradation
-   - Total destruction
+2. Of Capacity:
+   - अन्तःकरण-योग्यता
+   - पुरुषार्थ-सामर्थ्य
+   - Total ability
 
-### B. Practice Framework
-1. Recognition Points:
-   - Initial anger
-   - Memory confusion
-   - Reason loss
+## V. Systematic Development
 
-2. Intervention Levels:
-   - Emotional stability
-   - Memory maintenance
-   - Reason preservation
+### A. Progressive Loss
+1. Of Discrimination:
+   - कार्याकार्य-विवेक
+   - Basic understanding
+   - Essential capacity
 
-## V. Technical Terms
+2. Of Faculty:
+   - स्मृति-शक्ति
+   - बुद्धि-सामर्थ्य
+   - Complete ability
 
-### A. Key States
-1. संमोह (saṃmoha)
-   - Complete delusion
-   - Technical Sāṃkhya term
-   - Root confusion
+### B. Complete Destruction
+1. Of Being:
+   - पुरुष-योग्यता
+   - Essential nature
+   - Total capacity
 
-2. स्मृतिविभ्रम (smṛtivibhrama)
-   - Memory confusion
-   - Technical Yoga term
-   - Faculty disturbance
+2. Of Reality:
+   - Understanding
+   - Discrimination
+   - Basic existence
 
-3. बुद्धिनाश (buddhināśa)
-   - Reason destruction
-   - Critical Sāṃkhya concept
-   - Final devastation
+## VI. Philosophical Significance
 
-### B. Process Terms
-1. विभ्रम (vibhrama)
-   - Initial wandering
-   - First deviation
-   - Root disturbance
+### A. Complete Analysis
+1. Of Destruction:
+   - Root cause
+   - Progressive development
+   - Final ruin
 
-2. भ्रंश (bhraṃśa)
-   - Complete falling
-   - Middle loss
-   - Deep deviation
+2. Of Protection:
+   - Through understanding
+   - Of complete process
+   - For preservation
 
-3. नाश (nāśa)
-   - Total destruction
-   - Final loss
-   - Complete devastation
+### B. Original Understanding
+1. Of Danger:
+   - From affliction
+   - Through confusion
+   - To destruction
 
-# Technical Analysis: Śaṅkara's Commentary on BG 2.63
-
-## I. Initial Definition Structure
-
-### A. Saṃmoha Definition
-```sanskrit
-क्रोधात् भवति संमोहः अविवेकः कार्याकार्यविषयः
-krodhāt bhavati saṃmohaḥ avivekaḥ kāryākāryaviṣayaḥ
-```
-
-1. Technical equation:
-   - संमोह (saṃmoha) = अविवेक (aviveka)
-   - Complete delusion = lack of discrimination
-   - Specific to कार्याकार्य (kāryākārya) = what should/shouldn't be done
-
-2. Example given:
-```sanskrit
-क्रुद्धः हि संमूढः सन् गुरुमप्याक्रोशति
-kruddhaḥ hi saṃmūḍhaḥ san gurum api ākrośati
-```
-   - Even attacks guru
-   - Shows complete loss of discrimination
-   - Total violation of dharma
-
-## II. Memory Loss Analysis
-
-### A. Technical Definition
-```sanskrit
-शास्त्राचार्योपदेशाहितसंस्कारजनितायाः स्मृतेः
-śāstrācāryopadeśāhitasaṃskārajanitāyāḥ smṛteḥ
-```
-
-1. Complex compound analysis:
-   - शास्त्र (śāstra) = scripture
-   - आचार्य (ācārya) = teacher
-   - उपदेश (upadeśa) = instruction
-   - आहित (āhita) = implanted
-   - संस्कार (saṃskāra) = impression
-   - जनिता (janitā) = produced
-
-2. Memory structure:
-   - Based on proper instruction
-   - Through correct impressions
-   - Systematic development
-
-### B. Loss Process
-```sanskrit
-विभ्रमो भ्रंशः स्मृत्युत्पत्तिनिमित्तप्राप्तौ अनुत्पत्तिः
-vibhramo bhraṃśaḥ smṛtyutpattinimittaprāptau anutpattiḥ
-```
-
-1. Three-stage loss:
-   - विभ्रम (vibhrama) = wandering
-   - भ्रंश (bhraṃśa) = falling
-   - अनुत्पत्ति (anutpatti) = non-arising
-
-2. Technical significance:
-   - Even when causes present
-   - Memory doesn't arise
-   - Complete dysfunction
-
-## III. Buddhi Destruction Analysis
-
-### A. Technical Definition
-```sanskrit
-कार्याकार्यविषयविवेकायोग्यता अन्तःकरणस्य बुद्धेर्नाश
-kāryākāryaviṣayavivekāyogyatā antaḥkaraṇasya buddhernāśa
-```
-
-1. Critical terms:
-   - विवेकायोग्यता (vivekāyogyatā) = unfitness for discrimination
-   - अन्तःकरण (antaḥkaraṇa) = internal organ
-   - बुद्धि (buddhi) = discriminative faculty
-
-2. Structural analysis:
-   - Loss of discrimination ability
-   - In internal instrument
-   - Complete dysfunction
-
-### B. Final Destruction
-```sanskrit
-तावदेव हि पुरुषः यावदन्तःकरणं तदीयं कार्याकार्यविषयविवेकयोग्यम्
-tāvadeva hi puruṣaḥ yāvadantaḥkaraṇaṃ tadīyaṃ kāryākāryaviṣayavivekayogyam
-```
-
-1. Person defined through:
-   - Discriminative ability
-   - Of internal organ
-   - For proper/improper
-
-2. Final state:
-```sanskrit
-पुरुषार्थायोग्यो भवति
-puruṣārthāyogyo bhavati
-```
-   - Unfit for human goals
-   - Complete destruction
-   - Total loss
-
-## IV. Technical Framework
-
-### A. Deterioration Sequence
-1. Initial state:
-   - Based on proper instruction
-   - Through impressions
-   - To discrimination
-
-2. Loss sequence:
-   - Memory wandering
-   - Discrimination loss
-   - Complete unfitness
-
-### B. Final Analysis
-1. Human definition:
-   - Through discriminative ability
-   - Of internal organ
-   - For proper action
-
-2. Total loss:
-   - Of fitness
-   - For human goals
-   - Complete destruction
-   -
+2. Of Preservation:
+   - Through knowledge
+   - Of complete process
+   - For protection

@@ -1,216 +1,163 @@
-# BG 2.50 Śaṅkara's Commentary
+# Mantra Analysis - BG 2.50
 
-## I. Introduction
-
-### Sanskrit
-समत्वबुद्धियुक्तः सन् स्वधर्ममनुतिष्ठन् यत्फलं प्राप्नोति तच्छृणु —
-
-### Transliteration
-samatvabuddhiyuktaḥ san svadharmamanutiṣṭhan yatphalaṃ prāpnoti tacchṛṇu —
-
-### Translation
-Listen to what fruit one obtains who performs one's own dharma while being united with equanimity of understanding —
-
-## II. Mūla Verse
-
-### Sanskrit
+## Sanskrit Text
+```sanskrit
 बुद्धियुक्तो जहातीह उभे सुकृतदुष्कृते ।
 तस्माद्योगाय युज्यस्व योगः कर्मसु कौशलम् ॥ ५० ॥
+```
 
-### Transliteration
-buddhiyukto jahātīha ubhe sukṛtaduṣkṛte |
-tasmādyogāya yujyasva yogaḥ karmasu kauśalam || 50 ||
+## Word Analysis
+1. बुद्धियुक्तः (buddhiyuktaḥ)
+   - बुद्धि = Reason/Intellect
+   - युक्त = united/yoked
+   - One established in Reason
 
-### Translation
-United with understanding, one abandons here both good and evil deeds. Therefore, devote yourself to yoga; yoga is skill in actions.
+2. जहाति (jahāti)
+   - From √हा (hā)
+   - Completely abandons/lets go
+   - Root points to absolute transcendence
 
-## III. Śaṅkara's Commentary
+3. इह (iha)
+   - Here/in this world
+   - In this very life
+   - Present actuality
 
-### Sanskrit
-बुद्धियुक्तः कर्मसमत्वविषयया बुद्ध्या युक्तः बुद्धियुक्तः सः जहाति परित्यजति इह अस्मिन् लोके उभे सुकृतदुष्कृते पुण्यपापे सत्त्वशुद्धिज्ञानप्राप्तिद्वारेण यतः, तस्मात् समत्वबुद्धियोगाय युज्यस्व घटस्व । योगो हि कर्मसु कौशलम् , स्वधर्माख्येषु कर्मसु वर्तमानस्य या सिद्ध्यासिद्ध्योः समत्वबुद्धिः ईश्वरार्पितचेतस्तया तत् कौशलं कुशलभावः । तद्धि कौशलं यत् बन्धनस्वभावान्यपि कर्माणि समत्वबुद्ध्या स्वभावात् निवर्तन्ते । तस्मात्समत्वबुद्धियुक्तो भव त्वम् ॥ ५० ॥
+4. उभे (ubhe)
+   - Both
+   - The pair
+   - Dual aspects
 
-### Transliteration
-buddhiyuktaḥ karmasamatvaviṣayayā buddhyā yuktaḥ buddhiyuktaḥ saḥ jahāti parityajati iha asmin loke ubhe sukṛtaduṣkṛte puṇyapāpe sattvaśuddhijñānaprāptidvāreṇa yataḥ, tasmāt samatvabuddhiyogāya yujyasva ghaṭasva | yogo hi karmasu kauśalam, svadharmākhyeṣu karmasu vartamānasya yā siddhyāsiddhyoḥ samatvabuddhiḥ īśvarārpitacetastayā tat kauśalaṃ kuśalabhāvaḥ | taddhi kauśalaṃ yat bandhanasvabhāvānyapi karmāṇi samatvabuddhyā svabhāvāt nivartante | tasmātsamatvabuddhiyukto bhava tvam || 50 ||
+5. सुकृतदुष्कृते (sukṛta-duṣkṛte)
+   - सुकृत = well-done/merit
+   - दुष्कृत = ill-done/demerit
+   - Pair of opposites
 
-### Translation
-"United with understanding" means united with the understanding concerning equanimity in action; that one "abandons," gives up "here," in this world, "both good and evil deeds," merit and demerit, through the means of purity of being and attainment of knowledge. Therefore, devote yourself, strive for the yoga of equanimity of understanding. For yoga is skill in actions - that equanimity of understanding in success and failure which one has while engaged in actions known as one's own dharma, with mind offered to the Lord, that is skill, the state of being skilled. For that is skill by which even actions whose nature is binding turn back from their nature through equanimity of understanding. Therefore, become united with equanimity of understanding.
+6. तस्माद् (tasmād)
+   - Therefore
+   - For this reason
+   - Points to logical necessity
 
-## IV. Key Technical Terms
+7. योगाय (yogāya)
+   - For yoga
+   - Dative case
+   - Purpose/goal indicated
 
-### A. Primary Terms
-1. कर्मसमत्वविषयया बुद्धि (karmasamatvaviṣayayā buddhi)
-   - Understanding concerning equanimity in action
-   - Fundamental reorientation
-   - Complete transformation
+8. युज्यस्व (yujyasva)
+   - Engage yourself
+   - Imperative mood
+   - Direct instruction
 
-2. सत्त्वशुद्धिज्ञानप्राप्ति (sattvaśuddhijñānaprāpti)
-   - Attainment of knowledge through purity
+9. योगः (yogaḥ)
+   - Definition given
+   - कर्मसु कौशलम्
+   - Pure skill in action
+
+10. कर्मसु (karmasu)
+    - In actions
+    - Locative plural
+    - Field of application
+
+11. कौशलम् (kauśalam)
+    - Skill/expertise
+    - From कुशल
+    - Pure synthetic ability
+
+## Core Structure
+1. First Line:
+   - Effect of buddhiyoga
+   - Complete transcendence
+   - Beyond merit-demerit pair
+
+2. Second Line:
+   - Therefore instruction
+   - Nature of yoga revealed
+   - Pure skill defined
+
+## Key Insights
+1. बुद्धियुक्त state:
+   - Beyond good-bad duality
+   - Complete transcendence
+   - In present actuality
+
+2. True योग nature:
+   - Pure skill in action
+   - Beyond means-end
+   - Original synthetic unity
+
+# Śaṅkara's Commentary Analysis - BG 2.50
+
+## Opening Framework
+```sanskrit
+समत्वबुद्धियुक्तः सन् स्वधर्ममनुतिष्ठन् यत्फलं प्राप्नोति तच्छृणु
+```
+- Links समत्व (equanimity) with स्वधर्म
+- Points to essential connection
+- Sets up core analysis
+
+## Key Technical Terms
+
+1. समत्वबुद्धि (samatvabuddhi)
+   - Not mere mental equanimity
+   - Pure synthetic balance
+   - Original stability
+
+2. बुद्धियुक्त (buddhiyukta)
+   - Established in equanimous reason
+   - Pure synthetic unity
+   - Original presence
+
+3. सत्त्वशुद्धिज्ञानप्राप्ति (sattvaśuddhijñānaprāpti)
+   - Purification-knowledge sequence
    - Progressive development
-   - Means of transcendence
+   - Through pure sattva
 
-### B. Action Terms
-1. कौशलम् (kauśalam)
-   - Skill in action
-   - Through equanimity
-   - Liberation from bondage
+## Core Analysis Structure
 
-2. ईश्वरार्पितचेतस् (īśvarārpitacetas)
-   - Mind offered to the Lord
-   - Beyond personal agency
-   - Complete dedication
+1. Action Framework
+```sanskrit
+कर्मसमत्वविषयया बुद्ध्या युक्तः बुद्धियुक्तः
+```
+- Action-equanimity synthesis
+- Pure balanced reason
+- Original stability
 
-## V. Commentary Structure
+2. Liberation Process
+```sanskrit
+सत्त्वशुद्धिज्ञानप्राप्तिद्वारेण
+```
+- Through purification
+- To knowledge
+- Original insight
 
-### A. Progressive Development
-1. Initial Stage
-   - समत्वबुद्धि establishment
-   - Through dedicated practice
-   - In one's dharma
+3. True Skill Definition
+```sanskrit
+स्वधर्माख्येषु कर्मसु वर्तमानस्य या सिद्ध्यासिद्ध्योः समत्वबुद्धिः ईश्वरार्पितचेतस्तया तत् कौशलं
+```
+- Beyond success-failure
+- Through dedication
+- Pure synthetic skill
 
-2. Transformative Process
-   - Beyond good and evil
-   - Through knowledge attainment
-   - To complete freedom
+## Final Resolution
+```sanskrit
+बन्धनस्वभावान्यपि कर्माणि समत्वबुद्ध्या स्वभावात् निवर्तन्ते
+```
+- Actions naturally cease
+- Through equanimous reason
+- Original freedom
 
-### B. Complete Teaching
-1. Nature of Skill
-   - Not technical expertise
-   - But equanimity in action
-   - Complete transformation
+## Key Philosophical Points
 
-2. Final Instruction
-   - समत्वबुद्धियुक्तो भव
-   - Become united with equanimity
-   - Ultimate direction
+1. Nature of समत्व
+   - Not mere mental equality
+   - Pure synthetic balance
+   - Original stability
 
-# BG 2.50 Trans-Idealist Analysis
+2. True कौशल
+   - Beyond success-failure
+   - Pure synthetic skill
+   - Original freedom
 
-## I. The Architecture of Skill
-
-### A. Yogācāra Integration
-Perfect resonance with upāya-kauśalya:
-1. True Skill Nature
-   - Beyond technical expertise
-   - Through wisdom development
-   - Natural expression
-
-2. Transformation Process
-   - Like āśrayaparāvṛtti
-   - Through equanimity
-   - Complete turning-around
-
-### B. Beyond Good and Evil
-Deep parallel with Buddhist transcendence:
-1. Through Understanding
-   - Not moral negation
-   - But complete transformation
-   - Natural freedom
-
-2. Progressive Development
-   - Through sattva purification
-   - To knowledge attainment
-   - Beyond opposites
-
-## II. Action's Transformation
-
-### A. Original Skill
-Not acquired but revealed:
-1. Natural Expression
-   - Through equanimity
-   - Beyond success/failure
-   - Pure presence
-
-2. Complete Dedication
-   - ईश्वरार्पित consciousness
-   - Beyond personal agency
-   - Natural flow
-
-### B. Yogācāra Parallel
-Like Buddhist skillful means:
-1. Upāya Development
-   - Through practice
-   - In natural wisdom
-   - Spontaneous skill
-
-2. Complete Integration
-   - Of action and wisdom
-   - Through equanimity
-   - Natural expression
-
-## III. Liberation Structure
-
-### A. Double Transcendence
-Not mere abandonment but:
-1. Beyond Merit/Demerit
-   - Through understanding
-   - Not rejection
-   - Complete freedom
-
-2. Beyond Bondage
-   - Actions lose binding nature
-   - Through equanimity
-   - Natural liberation
-
-### B. Practice Reality
-Clear path showing:
-1. Progressive Development
-   - Through dedicated practice
-   - In present action
-   - Natural skill
-
-2. Complete Integration
-   - Of understanding and action
-   - Through equanimity
-   - Natural freedom
-
-## IV. Contemporary Significance
-
-### A. Modern Crisis
-Directly addresses:
-1. Skill Misconception
-   - As technical expertise
-   - Missing true nature
-   - Lost in results
-
-2. Action Problem
-   - Bound by good/evil
-   - Missing freedom
-   - Seeking results
-
-### B. Natural Solution
-Not forced but organic:
-1. Through Understanding
-   - In present action
-   - Beyond opposites
-   - Natural skill
-
-2. Complete Freedom
-   - In daily activity
-   - Through equanimity
-   - Pure expression
-
-## V. Living Implementation
-
-### A. Practice Path
-Clear direction showing:
-1. Initial Stage
-   - Dedicated practice
-   - In one's dharma
-   - Through equanimity
-
-2. Progressive Development
-   - Sattva purification
-   - Knowledge attainment
-   - Natural freedom
-
-### B. Present Reality
-Not future but now:
-1. In Current Action
-   - Through understanding
-   - Beyond bondage
-   - Natural skill
-
-2. Complete Integration
-   - Of wisdom and action
-   - Through equanimity
-   - Pure expression
+3. Liberation Path
+   - Through purification
+   - To knowledge
+   - Original insight

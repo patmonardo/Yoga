@@ -1,269 +1,230 @@
-# Technical Analysis: Bhagavad Gītā 2.68
+# BG 2.68 Technical Analysis
 
-## I. Sanskrit Structure and Control
+## Introduction
 
-### A. Technical Terms
-```sanskrit
-निगृहीतानि सर्वशः
-nigṛhītāni sarvaśaḥ
-```
+### Sanskrit
+'यततो हि' (भ. गी. २ । ६०) इत्युपन्यस्तस्यार्थस्य अनेकधा उपपत्तिमुक्त्वा तं चार्थमुपपाद्य उपसंहरति —
 
-1. Key Term Analysis:
-   - निगृहीत (nigṛhīta) = completely restrained
-   - From नि + √grah
-   - Technical term for supreme control
+### Transliteration
+'yatato hi' (bha. gī. 2.60) ityupanyastasyārthasya anekadhā upapattimuktvā taṃ cārthamupapādya upasaṃharati —
 
-2. Scope:
-   - सर्वशः (sarvaśaḥ) = completely/entirely
-   - Total system
-   - No exception
+### Translation
+Having explained through many arguments the meaning presented in "yatato hi" (2.60), he now concludes that meaning:
 
-### B. Faculty-Object Relationship
-```sanskrit
-इन्द्रियाणीन्द्रियार्थेभ्यः
-indriyāṇīndriyārthebhyaḥ
-```
+## Mūla Verse
 
-1. Technical Structure:
-   - इन्द्रिय (indriya) = faculties
-   - इन्द्रियार्थ (indriyārtha) = faculty-objects
-   - Ablative showing separation
+### Sanskrit
+तस्माद्यस्य महाबाहो निगृहीतानि सर्वशः ।
+इन्द्रियाणीन्द्रियार्थेभ्यस्तस्य प्रज्ञा प्रतिष्ठिता ॥ ६८ ॥
 
-2. Significance:
-   - Not suppression
-   - Proper relationship
-   - Transcendental control
+### Transliteration
+tasmādyasya mahābāho nigṛhītāni sarvaśaḥ |
+indriyāṇīndriyārthebhyastasya prajñā pratiṣṭhitā || 68 ||
 
-## II. Result Structure
+### Translation
+Therefore, O mighty-armed one, one whose senses are completely withdrawn
+From sense objects - their wisdom is firmly established.
 
-### A. Established Wisdom
-```sanskrit
-तस्य प्रज्ञा प्रतिष्ठिता
-tasya prajñā pratiṣṭhitā
-```
+## Śaṅkara's Commentary
 
-1. Technical Terms:
-   - प्रज्ञा (prajñā) = transcendental wisdom
-   - प्रतिष्ठिता (pratiṣṭhitā) = firmly established
-   - Complete stability
+### Sanskrit
+इन्द्रियाणां प्रवृत्तौ दोष उपपादितो यस्मात् , तस्मात् यस्य यतेः हे महाबाहो, निगृहीतानि सर्वशः सर्वप्रकारैः मानसादिभेदैः इन्द्रियाणि इन्द्रियार्थेभ्यः शब्दादिभ्यः तस्य प्रज्ञा प्रतिष्ठिता ॥
 
-2. Nature:
-   - Not mere knowledge
+### Transliteration
+indriyāṇāṃ pravṛttau doṣa upapādito yasmāt, tasmāt yasya yateḥ he mahābāho, nigṛhītāni sarvaśaḥ sarvaprakāraiḥ mānasādibhedaiḥ indriyāṇi indriyārthebhyaḥ śabdādibhyaḥ tasya prajñā pratiṣṭhitā ||
+
+## Technical Analysis
+
+### Key Abhidharmic Terms
+1. निगृहीत (nigṛhīta):
+   - Complete withdrawal
+   - सर्वशः (sarvaśaḥ) - in all ways
+   - Perfect control
+
+2. इन्द्रियार्थ (indriyārtha):
+   - शब्दादि (śabdādi)
+   - Sense objects
+   - Complete range
+
+3. प्रज्ञा-प्रतिष्ठा (prajñā-pratiṣṭhā):
    - Established wisdom
-   - Original insight
+   - Firm understanding
+   - Complete achievement
 
-## III. Technical Framework
+### Technical Structure
+1. Levels of Control:
+   - मानसादिभेद (mānasādibheda)
+   - Various modes
+   - Complete mastery
 
-### A. Control Analysis
-1. Nature of Control:
-   - निगृहीत (nigṛhīta)
-   - Complete restraint
-   - Transcendental mastery
+2. Object Categories:
+   - शब्द (śabda) - sound
+   - And other objects
+   - Complete range
 
-2. Scope of Control:
+3. Achievement Process:
+   - निग्रह (nigraha)
+   - प्रतिष्ठा (pratiṣṭhā)
+   - Complete establishment
+
+### Systematic Development
+1. Prerequisites:
+   - Complete withdrawal
+   - Perfect control
+   - Total mastery
+
+2. Method:
+   - सर्वप्रकार (sarvaprakāra)
+   - All modes
+   - Complete application
+
+3. Achievement:
+   - प्रज्ञा-प्रतिष्ठा (prajñā-pratiṣṭhā)
+   - Firm establishment
+   - Perfect realization
+
+# BG 2.68 Trans-Idealist Analysis
+
+## I. Ground of Complete Control
+
+### A. निगृहीत Nature
+1. Perfect Withdrawal:
    - सर्वशः (sarvaśaḥ)
-   - All faculties
-   - Total system
+   - Complete control
+   - Total mastery
 
-### B. Object Relationship
-1. Proper Distance:
-   - Not suppression
-   - Not involvement
-   - Right relationship
+2. All Modes:
+   - मानसादिभेद (mānasādibheda)
+   - Various aspects
+   - Complete range
 
-2. Technical Structure:
+### B. Object Transcendence
+1. इन्द्रियार्थ Range:
+   - शब्दादि (śabdādi)
+   - Complete spectrum
+   - Perfect transcendence
+
+2. Total Freedom:
+   - From all objects
    - Through control
-   - Of complete system
-   - To stable wisdom
+   - To establishment
 
-## IV. Transcendental Framework
+## II. Abhidharmic Structure
 
-### A. Controller Function
-1. Complete System:
-   - All faculties
-   - All objects
-   - Total relationship
+### A. इन्द्रिय-निग्रह (indriya-nigraha)
+1. Complete Control:
+   - Of all senses
+   - Through all modes
+   - Perfect mastery
 
-2. Nature of Control:
-   - Not suppression
-   - Supreme mastery
-   - Transcendental function
+2. Perfect Method:
+   - सर्वप्रकार (sarvaprakāra)
+   - All approaches
+   - Complete application
 
-### B. Wisdom Establishment
-1. Nature:
-   - प्रज्ञा (prajñā)
-   - Transcendental wisdom
-   - Original insight
+### B. प्रज्ञा Achievement
+1. Firm Establishment:
+   - Through control
+   - Beyond objects
+   - Perfect stability
 
-2. State:
-   - प्रतिष्ठिता (pratiṣṭhitā)
+2. Complete Realization:
+   - Of wisdom
+   - Through mastery
+   - Perfect achievement
+
+## III. Buddhist Integration
+
+### A. इन्द्रिय-संवर (indriya-saṃvara)
+1. Perfect Guard:
+   - Of sense doors
+   - Through vigilance
+   - Complete protection
+
+2. Progressive Achievement:
+   - Through control
+   - To wisdom
+   - Perfect establishment
+
+### B. प्रज्ञा-प्रतिष्ठा (prajñā-pratiṣṭhā)
+1. Established Wisdom:
+   - Through control
+   - Beyond objects
+   - Perfect realization
+
+2. Complete Achievement:
+   - Of understanding
+   - Through mastery
+   - Perfect stability
+
+## IV. Trans-Idealist Structure
+
+### A. Beyond Opposition
+1. Of Control-Freedom:
+   - Not mere restraint
+   - Perfect mastery
+   - Complete liberation
+
+2. Of Method-Achievement:
+   - Through all modes
+   - Perfect application
+   - Complete realization
+
+### B. Original Unity
+1. Of Control-Understanding:
+   - निग्रह-प्रज्ञा
+   - Perfect integration
+   - Complete achievement
+
+2. Of Practice-Realization:
+   - Through mastery
+   - To wisdom
+   - Perfect establishment
+
+## V. Systematic Development
+
+### A. Complete Method
+1. All Aspects:
+   - सर्वशः (sarvaśaḥ)
+   - सर्वप्रकार (sarvaprakāra)
+   - Total application
+
+2. Perfect Integration:
+   - Of control
+   - Of understanding
+   - Complete achievement
+
+### B. Final Reality
+1. प्रज्ञा Nature:
    - Firmly established
-   - Complete stability
+   - Beyond objects
+   - Perfect wisdom
 
-## V. Practice Framework
+2. Complete Achievement:
+   - Through mastery
+   - Of all aspects
+   - Perfect realization
 
-### A. Control Development
-1. Complete System:
-   - All faculties
-   - Total scope
-   - Systematic approach
+## VI. Philosophical Significance
 
-2. Relationship:
-   - With objects
-   - Proper distance
-   - Right function
+### A. Complete Method
+1. Perfect Integration:
+   - Of control and wisdom
+   - Of practice and achievement
+   - Of means and end
+
+2. Total Application:
+   - Through all modes
+   - In all aspects
+   - Complete mastery
 
 ### B. Final Achievement
-1. Established Wisdom:
-   - Complete stability
-   - Original insight
-   - Perfect establishment
+1. प्रज्ञा-प्रतिष्ठा (prajñā-pratiṣṭhā):
+   - Established wisdom
+   - Perfect understanding
+   - Complete realization
 
-2. Technical Process:
-   - Through control
-   - Of total system
-   - To stable wisdom
-
-## VI. Technical Terms
-
-### A. Control Terms
-1. निगृहीत (nigṛhīta):
-   - Complete restraint
-   - Supreme control
-   - Transcendental mastery
-
-2. सर्वशः (sarvaśaḥ):
-   - Completely
-   - Entirely
-   - Total scope
-
-### B. Result Terms
-1. प्रज्ञा (prajñā):
-   - Transcendental wisdom
-   - Original insight
-   - Pure understanding
-
-2. प्रतिष्ठिता (pratiṣṭhitā):
-   - Firmly established
-   - Complete stability
-   - Perfect establishment
-
-# Technical Analysis: Śaṅkara's Commentary on BG 2.68
-
-## I. Initial Framework
-
-### A. Reference Structure
-```sanskrit
-यततो हि इत्युपन्यस्तस्यार्थस्य अनेकधा उपपत्तिम्
-yatato hi ity upanyastasyārthasya anekadhā upapattim
-```
-
-1. Technical Process:
-   - उपन्यस्त (upanyasta) = previously stated
-   - अनेकधा (anekadhā) = in many ways
-   - उपपत्ति (upapatti) = logical demonstration
-
-2. Significance:
-   - Complete systematic explanation
-   - Multiple approaches
-   - Final resolution
-
-## II. Faculty Problem Analysis
-
-### A. Technical Definition
-```sanskrit
-इन्द्रियाणां प्रवृत्तौ दोष उपपादितो यस्मात्
-indriyāṇāṃ pravṛttau doṣa upapādito yasmāt
-```
-
-1. Problem Structure:
-   - इन्द्रियप्रवृत्ति (indriyapravṛtti) = faculty operation
-   - दोष (doṣa) = defect/fault
-   - Root issue
-
-2. Technical Import:
-   - Not mere activity
-   - Fundamental problem
-   - Systematic defect
-
-## III. Control Framework
-
-### A. Complete System
-```sanskrit
-सर्वशः सर्वप्रकारैः मानसादिभेदैः
-sarvaśaḥ sarvaprakāraiḥ mānasādibhedaiḥ
-```
-
-1. Three-fold Totality:
-   - सर्वशः (sarvaśaḥ) = completely
-   - सर्वप्रकारैः (sarvaprakāraiḥ) = in all ways
-   - मानसादिभेदैः (mānasādibhedaiḥ) = with mental and other distinctions
-
-2. Technical Significance:
-   - Complete system
-   - All levels
-   - Total control
-
-### B. Object Relationship
-```sanskrit
-इन्द्रियार्थेभ्यः शब्दादिभ्यः
-indriyārthebhyaḥ śabdādibhyaḥ
-```
-
-1. Object Types:
-   - शब्दादि (śabdādi) = sound etc.
-   - Complete range
-   - Systematic coverage
-
-2. Technical Relation:
-   - Proper distance
-   - Right relationship
-   - Transcendental control
-
-## IV. Technical Framework
-
-### A. Control Structure
-1. Complete Coverage:
-   - All faculties
-   - All modes
-   - All levels
-
-2. Systematic Approach:
-   - Mental level
-   - Faculty level
-   - Object level
-
-### B. Resolution Process
-1. From Problem:
-   - Faculty operation
-   - Root defect
-   - Systematic issue
-
-2. To Solution:
-   - Complete control
-   - All levels
-   - Perfect establishment
-
-## V. Practice Framework
-
-### A. Control Development
-1. Three-fold System:
-   - Mental control
-   - Faculty control
-   - Object relationship
-
-2. Complete Coverage:
-   - All ways
-   - All levels
-   - Total system
-
-### B. Final Resolution
-1. Perfect Control:
-   - Complete system
-   - All levels
-   - Right relationship
-
-2. Established Wisdom:
-   - Through control
-   - Perfect stability
-   - Original insight
+2. Original Reality:
+   - Beyond objects
+   - Through mastery
+   - Perfect freedom

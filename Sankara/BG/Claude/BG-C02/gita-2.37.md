@@ -69,6 +69,7 @@
    - Double fulfillment
    - Essential resolution
    - Firm determination
+
 # Trans-Idealist Analysis: Bhagavad Gītā 2.37
 
 ## I. 1804 Framework Integration

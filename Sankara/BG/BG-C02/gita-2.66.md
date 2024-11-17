@@ -1,291 +1,231 @@
-# Technical Analysis: Bhagavad Gītā 2.66
+# BG 2.66 Technical Analysis
 
-## I. Sanskrit Structure and Sequence
+## Introduction
 
-### A. Initial Negation
-```sanskrit
-नास्ति बुद्धिरयुक्तस्य न चायुक्तस्य भावना
-nāsti buddhir ayuktasya na cāyuktasya bhāvanā
-```
+### Sanskrit
+सेयं प्रसन्नता स्तूयते —
 
-1. Two-fold Absence:
-   - बुद्धि (buddhi) = reason/discrimination
-   - भावना (bhāvanā) = contemplation/cultivation
-   - Progressive negation
+### Transliteration
+seyaṃ prasannatā stūyate —
 
-2. Root Condition:
-   - अयुक्त (ayukta) = non-integrated
-   - Technical term from yoga
-   - Lack of unification
+### Translation
+This serenity is praised:
 
-### B. Final Sequence
-```sanskrit
-न चाभावयतः शान्तिरशान्तस्य कुतः सुखम्
-na cābhāvayataḥ śāntir aśāntasya kutaḥ sukham
-```
+## Mūla Verse
 
-1. Progressive Development:
-   - भावना (bhāvanā) → शान्ति (śānti)
-   - शान्ति (śānti) → सुख (sukha)
-   - Complete sequence
+### Sanskrit
+नास्ति बुद्धिरयुक्तस्य न चायुक्तस्य भावना ।
+न चाभावयतः शान्तिरशान्तस्य कुतः सुखम् ॥ ६६ ॥
 
-2. Technical Structure:
-   - अभावयत् (abhāvayat) = non-cultivating
-   - अशान्त (aśānta) = non-peaceful
-   - Negative sequence
+### Transliteration
+nāsti buddhirayuktasya na cāyuktasya bhāvanā |
+na cābhāvayataḥ śāntiraśāntasya kutaḥ sukham || 66 ||
 
-## II. Technical Framework
+### Translation
+There is no wisdom for the undisciplined, nor for the undisciplined is there meditation;
+For one who does not meditate there is no peace; for the peaceless, how can there be happiness?
 
-### A. Four-fold Sequence
-1. Integration (युक्त):
-   - Root condition
-   - Technical yoga term
-   - Base requirement
+## Śaṅkara's Commentary
 
-2. Discrimination (बुद्धि):
-   - Pure reason
-   - Discriminative faculty
-   - First development
+### Sanskrit
+नास्ति न विद्यते न भवतीत्यर्थः, बुद्धिः आत्मस्वरूपविषया अयुक्तस्य असमाहितान्तःकरणस्य । न च अस्ति अयुक्तस्य भावना आत्मज्ञानाभिनिवेशः । तथा — न च अस्ति अभावयतः आत्मज्ञानाभिनिवेशमकुर्वतः शान्तिः उपशमः । अशान्तस्य कुतः सुखम् ? इन्द्रियाणां हि विषयसेवातृष्णातः निवृत्तिर्या तत्सुखम् , न विषयविषया तृष्णा । दुःखमेव हि सा । न तृष्णायां सत्यां सुखस्य गन्धमात्रमप्युपपद्यते इत्यर्थः ॥
 
-3. Cultivation (भावना):
-   - Systematic practice
-   - Technical term
+### Transliteration
+nāsti na vidyate na bhavatītyarthaḥ, buddhiḥ ātmasvarūpaviṣayā ayuktasya asamāhitāntaḥkaraṇasya | na ca asti ayuktasya bhāvanā ātmajñānābhiniveśaḥ | tathā — na ca asti abhāvayataḥ ātmajñānābhiniveśamakurvataḥ śāntiḥ upaśamaḥ | aśāntasya kutaḥ sukham ? indriyāṇāṃ hi viṣayasevatṛṣṇātaḥ nivṛttiryā tatsukham, na viṣayaviṣayā tṛṣṇā | duḥkhameva hi sā | na tṛṣṇāyāṃ satyāṃ sukhasya gandhamātramapyupapadyate ityarthaḥ ||
+
+## Technical Analysis
+
+### Sequential Development
+1. युक्त (yukta) → बुद्धि (buddhi):
+   - समाहितान्तःकरण (samāhitāntaḥkaraṇa)
+   - आत्मस्वरूप-विषया बुद्धि
+   - Basic establishment
+
+2. बुद्धि → भावना (bhāvanā):
+   - आत्मज्ञानाभिनिवेश (ātmajñānābhiniveśa)
+   - Continuous meditation
    - Progressive development
 
-4. Peace (शान्ति):
-   - Complete peace
-   - Technical state
-   - Final achievement
-
-### B. Final Result
-1. Happiness (सुख):
-   - Ultimate result
-   - Complete fulfillment
-   - Natural state
-
-2. Technical Structure:
-   - Complete sequence
-   - Internal necessity
-   - Natural progression
-
-## III. Abhidharmic Framework
-
-### A. Practice Structure
-1. Initial Requirements:
-   - युक्त (yukta) = integration
-   - बुद्धि (buddhi) = discrimination
-   - Foundation pair
-
-2. Development Process:
-   - भावना (bhāvanā) = cultivation
-   - Technical Buddhist term
-   - Systematic practice
-
-### B. Result Structure
-1. Peace Level:
-   - शान्ति (śānti) = peace
-   - Technical state
+3. भावना → शान्ति (śānti):
+   - उपशम (upaśama)
+   - Perfect peace
    - Complete tranquility
+
+4. शान्ति → सुख (sukha):
+   - विषयसेवातृष्णा-निवृत्ति (viṣayasevatṛṣṇā-nivṛtti)
+   - Freedom from craving
+   - Perfect happiness
+
+### Technical Terms
+1. अयुक्त (ayukta):
+   - असमाहितान्तःकरण (asamāhitāntaḥkaraṇa)
+   - Undisciplined mind
+   - Lack of integration
+
+2. भावना (bhāvanā):
+   - आत्मज्ञानाभिनिवेश (ātmajñānābhiniveśa)
+   - Continuous meditation
+   - Deep application
+
+3. सुख (sukha):
+   - तृष्णा-निवृत्ति (tṛṣṇā-nivṛtti)
+   - Beyond craving
+   - Perfect happiness
+
+### Causal Analysis
+1. Negative Sequence:
+   - अयुक्त → no बुद्धि
+   - No बुद्धि → no भावना
+   - No भावना → no शान्ति
+   - No शान्ति → no सुख
+
+2. Positive Development:
+   - युक्त → बुद्धि
+   - बुद्धि → भावना
+   - भावना → शान्ति
+   - शान्ति → सुख
+# BG 2.66 Trans-Idealist Analysis
+
+## I. Ground of Development
+
+### A. युक्त Nature
+1. समाहितान्तःकरण (samāhitāntaḥkaraṇa):
+   - Integrated consciousness
+   - Basic discipline
+   - Root establishment
+
+2. Prerequisites:
+   - For बुद्धि (buddhi)
+   - For भावना (bhāvanā)
+   - For complete development
+
+### B. Sequential Necessity
+1. Causal Chain:
+   - युक्त → बुद्धि
+   - बुद्धि → भावना
+   - भावना → शान्ति
 
 2. Final Achievement:
-   - सुख (sukha) = happiness
-   - Natural result
-   - Complete fulfillment
+   - शान्ति → सुख
+   - Perfect peace
+   - Complete happiness
 
-## IV. Philosophical Framework
+## II. Abhidharmic Structure
 
-### A. Progressive Necessity
-1. No Discrimination Without:
-   - Integration
-   - Unification
-   - Root condition
+### A. Progressive Development
+1. Through Stages:
+   - From discipline
+   - Through wisdom
+   - To peace
 
-2. No Cultivation Without:
-   - Discrimination
-   - Pure reason
-   - Clear understanding
+2. Complete Integration:
+   - Of understanding
+   - Of practice
+   - Of achievement
 
-3. No Peace Without:
-   - Cultivation
-   - Systematic practice
-   - Complete development
-
-4. No Happiness Without:
-   - Peace
-   - Complete tranquility
-   - Natural state
-
-### B. Technical Structure
-1. Foundation:
-   - युक्त (yukta)
-   - बुद्धि (buddhi)
-   - Base pair
-
-2. Development:
-   - भावना (bhāvanā)
-   - Systematic practice
-   - Progressive cultivation
-
-3. Achievement:
-   - शान्ति (śānti)
-   - सुख (sukha)
-   - Complete fulfillment
-
-## V. Practice Framework
-
-### A. Complete Sequence
-1. Integration → Discrimination
-2. Discrimination → Cultivation
-3. Cultivation → Peace
-4. Peace → Happiness
-
-### B. Technical Requirements
-1. Each Stage:
-   - Necessary condition
-   - Internal connection
-   - Natural development
-
-2. Complete Process:
-   - Systematic progression
-   - Internal necessity
-   - Natural fulfillment
-
-# Technical Analysis: Śaṅkara's Commentary on BG 2.66
-
-## I. Initial Framework
-
-### A. Root Definition
-```sanskrit
-बुद्धिः आत्मस्वरूपविषया अयुक्तस्य असमाहितान्तःकरणस्य
-buddhiḥ ātmasvarūpaviṣayā ayuktasya asamāhitāntaḥkaraṇasya
-```
-
-1. Critical Technical Terms:
-   - आत्मस्वरूपविषया (ātmasvarūpaviṣayā) = concerning essential nature
-   - असमाहितान्तःकरण (asamāhitāntaḥkaraṇa) = non-integrated internal organ
-   - Points to Hṛdaya level
-
-2. Technical Structure:
-   - Root buddhi
-   - Essential nature
-   - Internal instrument
-
-## II. Development Analysis
-
-### A. Bhāvanā Definition
-```sanskrit
-भावना आत्मज्ञानाभिनिवेशः
-bhāvanā ātmajñānābhiniveśaḥ
-```
-
-1. Technical Equation:
-   - भावना (bhāvanā) = आत्मज्ञानाभिनिवेश (ātmajñānābhiniveśa)
-   - Cultivation = absorption in self-knowledge
-   - Deep technical meaning
-
-2. Practice Structure:
-   - Not mere thinking
-   - Complete absorption
-   - In essential nature
-
-### B. Peace Development
-```sanskrit
-अभावयतः आत्मज्ञानाभिनिवेशमकुर्वतः शान्तिः उपशमः
-abhāvayataḥ ātmajñānābhiniveśam akurvataḥ śāntiḥ upaśamaḥ
-```
-
-1. Two-fold Definition:
-   - शान्ति (śānti) = उपशम (upaśama)
-   - Peace = complete cessation
-   - Root tranquility
-
-2. Technical Process:
-   - Through absorption
-   - In self-knowledge
-   - To complete peace
-
-## III. Final Analysis
-
-### A. True Happiness
-```sanskrit
-इन्द्रियाणां हि विषयसेवातृष्णातः निवृत्तिर्या तत्सुखम्
-indriyāṇāṃ hi viṣayasevatṛṣṇātaḥ nivṛttir yā tat sukham
-```
-
-1. Technical Definition:
-   - सुख (sukha) = तृष्णानिवृत्ति (tṛṣṇānivṛtti)
-   - Happiness = cessation of craving
-   - Complete freedom
-
-2. Structural Analysis:
-   - From faculties
-   - Through cessation
-   - To happiness
-
-### B. Craving Problem
-```sanskrit
-न विषयविषया तृष्णा । दुःखमेव हि सा
-na viṣayaviṣayā tṛṣṇā | duḥkham eva hi sā
-```
-
-1. Technical Identity:
-   - तृष्णा (tṛṣṇā) = दुःख (duḥkha)
-   - Craving is suffering
-   - Essential equation
-
-2. Complete Resolution:
-```sanskrit
-न तृष्णायां सत्यां सुखस्य गन्धमात्रमप्युपपद्यते
-na tṛṣṇāyāṃ satyāṃ sukhasya gandhamātram apy upapadyate
-```
-   - Not even trace
-   - Of happiness
-   - With craving
-
-## IV. Technical Framework
-
-### A. Hṛdaya Level
-1. Internal Instrument:
-   - अन्तःकरण (antaḥkaraṇa)
-   - In-Itself
-   - Essential nature
-
-2. Integration Need:
-   - समाहित (samāhita)
-   - Complete collection
-   - Natural unity
-
-### B. Knowledge Structure
-1. Essential Nature:
-   - आत्मस्वरूप (ātmasvarūpa)
-   - In-Itself
-   - Pure being
-
-2. Absorption Process:
-   - अभिनिवेश (abhiniveśa)
-   - Complete absorption
-   - Natural state
-
-## V. Resolution Framework
-
-### A. Peace Nature
-1. Complete Cessation:
-   - उपशम (upaśama)
-   - Root tranquility
-   - Natural peace
-
-2. True Happiness:
-   - तृष्णानिवृत्ति (tṛṣṇānivṛtti)
-   - Craving cessation
-   - Natural freedom
-
-### B. Final State
-1. No Trace:
-   - Of craving
-   - Of suffering
-   - Pure freedom
+### B. तृष्णा Analysis
+1. Root Cause:
+   - विषयसेवा (viṣayasevā)
+   - Object engagement
+   - Basic craving
 
 2. Complete Freedom:
-   - In essential nature
-   - Natural state
-   - Pure being
+   - तृष्णा-निवृत्ति (tṛṣṇā-nivṛtti)
+   - Beyond craving
+   - Perfect happiness
+
+## III. Buddhist Integration
+
+### A. Sequential Path
+1. शील-समाधि-प्रज्ञा:
+   - युक्त as शील
+   - बुद्धि as प्रज्ञा
+   - भावना as समाधि
+
+2. Complete Development:
+   - To शान्ति
+   - To निर्वाण
+   - Perfect peace
+
+### B. तृष्णा-क्षय (tṛṣṇā-kṣaya)
+1. Root Destruction:
+   - Of craving
+   - Through peace
+   - To happiness
+
+2. Complete Achievement:
+   - Beyond suffering
+   - Perfect peace
+   - Original happiness
+
+## IV. Trans-Idealist Structure
+
+### A. Beyond Opposition
+1. Of Practice-Achievement:
+   - Not mere sequence
+   - Necessary development
+   - Original unity
+
+2. Of Peace-Happiness:
+   - Not mere states
+   - Complete integration
+   - Perfect reality
+
+### B. Original Unity
+1. Of Understanding:
+   - बुद्धि-भावना
+   - Wisdom-practice
+   - Complete integration
+
+2. Of Achievement:
+   - शान्ति-सुख
+   - Peace-happiness
+   - Perfect reality
+
+## V. Systematic Development
+
+### A. Necessary Sequence
+1. Initial Ground:
+   - युक्त state
+   - Basic discipline
+   - Root establishment
+
+2. Progressive Achievement:
+   - Through wisdom
+   - Through practice
+   - To completion
+
+### B. Perfect Integration
+1. Of Practice:
+   - Discipline
+   - Understanding
+   - Meditation
+
+2. Of Achievement:
+   - Peace
+   - Freedom
+   - Happiness
+
+## VI. Philosophical Significance
+
+### A. Complete Method
+1. Necessary Development:
+   - Through stages
+   - In sequence
+   - To completion
+
+2. Perfect Integration:
+   - Of understanding and practice
+   - Of peace and happiness
+   - Of being and achievement
+
+### B. Final Reality
+1. Beyond Craving:
+   - तृष्णा-निवृत्ति (tṛṣṇā-nivṛtti)
+   - Perfect peace
+   - Original happiness
+
+2. Complete Achievement:
+   - Of understanding
+   - Of peace
+   - Of reality

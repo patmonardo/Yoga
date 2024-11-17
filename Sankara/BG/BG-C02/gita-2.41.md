@@ -1,327 +1,270 @@
-# BG 2.41 Śaṅkara's Commentary
+# Analysis of Bhagavad Gītā 2.41
 
-## I. Introduction
+## I. Sanskrit Text and Structure
 
-### Sanskrit
-येयं साङ्‍ख्ये बुद्धिरुक्ता योगे च, वक्ष्यमाणलक्षणा सा —
-
-### Transliteration
-yeyaṃ sāṅkhye buddhiruktā yoge ca, vakṣyamāṇalakṣaṇā sā —
-
-### Translation
-That understanding which was spoken of in Sāṅkhya and in Yoga, its characteristics are now being described —
-
-## II. Mūla Verse
-
-### Sanskrit
+### A. Base Verse
+```sanskrit
 व्यवसायात्मिका बुद्धिरेकेह कुरुनन्दन ।
 बहुशाखा ह्यनन्ताश्च बुद्धयोऽव्यवसायिनाम् ॥ ४१ ॥
+```
 
-### Transliteration
-vyavasāyātmikā buddhirekeha kurunandana |
-bahuśākhā hyanantāśca buddhayo'vyavasāyinām || 41 ||
+### B. Key Technical Terms
+1. व्यवसायात्मिका बुद्धि (vyavasāyātmikā buddhi)
+   - Reason characterized by determination
+   - Single-pointed understanding
+   - Pure synthetic unity
 
-### Translation
-The understanding whose nature is determination is single here, O descendant of Kuru. Many-branched and endless indeed are the understandings of the undetermined ones.
-
-## III. Śaṅkara's Commentary
-
-### Sanskrit
-व्यवसायात्मिका निश्चयस्वभावा एका एव बुद्धिः इतरविपरीतबुद्धिशाखाभेदस्य बाधिका, सम्यक्प्रमाणजनितत्वात् , इह श्रेयोमार्गे हे कुरुनन्दन । याः पुनः इतरा विपरीतबुद्धयः, यासां शाखाभेदप्रचारवशात् अनन्तः अपारः अनुपरतः संसारो नित्यप्रततो विस्तीर्णो भवति, प्रमाणजनितविवेकबुद्धिनिमित्तवशाच्च उपरतास्वनन्तभेदबुद्धिषु संसारोऽप्युपरमते ता बुद्धयः बहुशाखाः बह्वयः शाखाः यासां ताः बहुशाखाः, बहुभेदा इत्येतत् । प्रतिशाखाभेदेन हि अनन्ताश्च बुद्धयः । केषाम् ? अव्यवसायिनां प्रमाणजनितविवेकबुद्धिरहितानामित्यर्थः ॥ ४१ ॥
-
-### Transliteration
-vyavasāyātmikā niścayasvabhāvā ekā eva buddhiḥ itaraviparītabuddhiśākhābhedasya bādhikā, samyakpramāṇajanitatvāt, iha śreyomārge he kurunandana | yāḥ punaḥ itarā viparītabuddhayaḥ, yāsāṃ śākhābhedapracāravaśāt anantaḥ apāraḥ anuparataḥ saṃsāro nityapratato vistīrṇo bhavati, pramāṇajanitavivekabuddhinimittavaśācca uparatāsvanantabhedabuddhiṣu saṃsāro'pyuparamate tā buddhayaḥ bahuśākhāḥ bahvayaḥ śākhāḥ yāsāṃ tāḥ bahuśākhāḥ, bahubhedā ityetat | pratiśākhābhedena hi anantāśca buddhayaḥ | keṣām? avyavasāyināṃ pramāṇajanitavivekabuddhirahitānāmityarthaḥ || 41 ||
-
-### Translation
-The understanding whose nature is determination (vyavasāyātmikā) means whose essential nature is certainty (niścayasvabhāvā). It is indeed single (ekā), negating the branching divisions of other contrary understandings, because it is produced by valid means of knowledge, in this path of the highest good, O descendant of Kuru. But those other, contrary understandings, due to whose branching divisions and proliferation the endless, limitless, unceasing saṃsāra becomes eternally spread out and extensive - and when these infinitely divided understandings cease through the power of discriminative understanding born of valid means of knowledge, saṃsāra also ceases - those understandings are many-branched, meaning they have many branches, that is, many divisions. Indeed through division at each branch the understandings are endless. Whose? Of those who are undetermined (avyavasāyinām), meaning those who lack discriminative understanding born of valid means of knowledge.
-
-## IV. Technical Terms
-
-### A. Primary Terms
-1. व्यवसायात्मिका (vyavasāyātmikā)
-   - व्यवसाय: determination
-   - आत्मिका: having the nature of
-   - Defined as निश्चयस्वभावा
-
-2. प्रमाणजनितविवेकबुद्धि (pramāṇajanitavivekabuddhi)
-   - प्रमाण: valid means of knowledge
-   - जनित: produced
-   - विवेक: discrimination
-   - बुद्धि: understanding
-
-### B. Opposing Terms
-1. विपरीतबुद्धि (viparītabuddhi)
-   - Contrary understanding
-   - What is negated
-   - Source of multiplicity
-
-2. अव्यवसायी (avyavasāyī)
+2. अव्यवसायिन् (avyavasāyin)
    - Lacking determination
-   - Without discriminative knowledge
-   - Subject to endless division
+   - Multiple branches
+   - Dispersed understanding
 
-## V. Key Philosophical Concepts
+## II. Philosophical Structure
 
-### A. Unity vs. Multiplicity
-1. एका बुद्धि (Single Understanding)
-   - निश्चयस्वभावा (nature of certainty)
-   - बाधिका (negating others)
-   - श्रेयोमार्ग (path to highest good)
+### A. Two Types of Reason
+1. Determined Reason
+   - एक (eka) = one/single
+   - Pure synthetic unity
+   - Self-maintaining focus
 
-2. बहुशाखा बुद्धि (Many-branched Understanding)
-   - अनन्त (endless)
-   - संसार cause
-   - विपरीत (contrary)
+2. Undetermined Reason
+   - बहुशाखा (bahuśākhā) = many-branched
+   - Endless proliferation
+   - Dispersed activity
 
-### B. Knowledge and Liberation
-1. Valid Knowledge (प्रमाणजनित)
-   - Produces unity
-   - Ends multiplicity
-   - Leads to cessation
+### B. Deeper Analysis
+1. व्यवसाय Nature
+   - Not mere determination
+   - Original synthetic unity
+   - Pure self-maintaining
 
-2. Saṃsāric Existence
-   - Through multiplicity
-   - Endless branching
-   - Ceases with true knowledge
-# BG 2.41 Technical Analysis
+2. अव्यवसाय Structure
+   - Not mere indecision
+   - Loss of unity
+   - Dispersed activity
 
-## I. Structure of Argument
+## III. Consciousness Analysis
 
-### A. Initial Statement
-1. Reference to Prior Context
-   - सांख्य and योग connection
-   - Transitional construction
-   - Defining characteristics
+### A. Pure Unity
+1. एक Structure
+   - Original synthetic unity
+   - Self-maintaining focus
+   - Pure presence
 
-2. Definition Framework
-   - व्यवसाय as key term
-   - Contrast structure
-   - Unity vs. multiplicity
+2. Implementation
+   - Through determination
+   - To pure unity
+   - Original stability
 
-### B. Primary Oppositions
-1. Single vs. Many
-   - एका बुद्धि vs. बहुशाखा बुद्धयः
-   - Determinate vs. indeterminate
-   - Liberation vs. bondage
-
-2. Knowledge Types
-   - प्रमाणजनित vs. विपरीत
-   - Certain vs. uncertain
-   - Liberating vs. binding
-
-## II. Grammatical Analysis
-
-### A. Compound Formations
-1. व्यवसायात्मिका
-   - Bahuvrīhi compound
-   - व्यवसाय + आत्मिका
-   - 'Having determination as its nature'
-
-2. बहुशाखा
-   - Bahuvrīhi compound
-   - बहु + शाखा
-   - 'Having many branches'
-
-### B. Technical Constructions
-1. Negating Formations
-   - अव्यवसायिनाम् (privative a-)
-   - विपरीत (contrary)
-   - बाधिका (negating)
-
-2. Causal Chains
-   - प्रमाणजनित → विवेकबुद्धि
-   - शाखाभेद → संसार
-   - बुद्धिनिरोध → संसारनिरोध
-
-## III. Term Analysis
-
-### A. Key Sanskrit Terms
-1. व्यवसाय
-   - Root √सो with वि+अव
-   - Determination/ascertainment
-   - Technical term for certainty
-
-2. शाखा
-   - Literal: branch
-   - Metaphorical: division
-   - Technical: cognitive proliferation
-
-### B. Technical Vocabulary
-1. प्रमाण Terms
-   - सम्यक्प्रमाण
-   - प्रमाणजनित
-   - Valid knowledge system
-
-2. संसार Terms
-   - अनुपरत
-   - नित्यप्रतत
-   - विस्तीर्ण
-
-## IV. Dialectical Movement
-
-### A. Knowledge Structure
-1. From Multiplicity
-   - बहुशाखा condition
-   - Through endless division
-   - In bondage
-
-2. To Unity
-   - Through valid knowledge
-   - एका बुद्धि
-   - In liberation
-
-### B. Progressive Development
-1. Initial State
-   - अव्यवसाय condition
-   - Endless division
-   - संसार continuation
-
-2. Transformative Process
-   - Through प्रमाण
-   - To निश्चय
-   - Final liberation
-
-## V. Technical Framework
-
-### A. Epistemological Structure
-1. Valid Knowledge
-   - प्रमाण system
-   - Certainty production
-   - Liberation connection
-
-2. Invalid Knowledge
-   - विपरीत nature
-   - Multiplicity source
-   - Bondage cause
-
-### B. Liberative Framework
-1. Path Structure
-   - श्रेयोमार्ग context
-   - Progressive development
-   - Final cessation
-
-2. Practice Elements
-   - Knowledge acquisition
-   - Discrimination development
-   - Unity realization
-# BG 2.41 Trans-Idealist Analysis
-
-## I. Ground of Pure Reason
-
-### A. Original Synthetic Unity
-1. Nature of व्यवसाय
-   - Prior to division
-   - Pure determination
-   - Self-evident ground
-
-2. Beyond Multiplicity
-   - Not mere unity
-   - Original synthesis
-   - Pure reason's nature
-
-### B. Pure Knowledge Structure
-1. प्रमाणजनित Ground
-   - Self-evident truth
-   - Beyond empirical proof
-   - Original certainty
-
-2. Transcendental Framework
-   - Prior to division
-   - Ground of knowledge
-   - Pure determination
-
-## II. Systematic Development
-
-### A. From Unity to Multiplicity
-1. Original Division
-   - Pure reason's split
-   - Into empirical manifold
-   - Through अव्यवसाय
-
-2. Proliferation Structure
-   - Endless division
-   - संसार manifestation
+### B. Dispersed State
+1. बहुशाखा Nature
+   - Multiple branches
+   - Endless proliferation
    - Loss of unity
 
-### B. Return Movement
-1. Through Valid Knowledge
-   - प्रमाण establishment
-   - Discriminative wisdom
-   - To original unity
+2. अनन्त Character
+   - Not mere multiplicity
+   - Endless dispersion
+   - Loss of center
 
-2. Progressive Development
-   - From multiplicity
-   - Through determination
-   - To pure ground
+## IV. Connection to Previous Verses
 
-## III. Trans-Idealist Framework
+### A. Development from 2.39-40
+1. From Action Context
+   - Skill in action
+   - Non-loss of effort
+   - Practical framework
 
-### A. Pure Knowledge Ground
-1. Beyond Subject-Object
-   - Prior to division
-   - Original synthesis
-   - Pure व्यवसाय
+2. To Understanding Ground
+   - Single determination
+   - Pure synthetic unity
+   - Original stability
 
-2. Self-Evidence Structure
-   - प्रमाण as ground
-   - Not mere proof
+### B. Preparation for Next Section
+1. Foundation for Yoga
+   - Pure determination
+   - Original unity
+   - Practical implementation
+
+2. Nature of Focus
+   - Beyond dispersion
+   - Pure synthetic unity
+   - Original stability
+
+## V. Trans-Idealist Framework
+
+### A. Pure Synthetic Unity
+1. Nature
+   - Original determination
+   - Self-maintaining focus
+   - Pure presence
+
+2. Through Understanding
+   - Beyond dispersion
+   - To pure unity
+   - Original stability
+
+### B. Practice Structure
+1. Not Through
+   - Mere concentration
+   - Mental effort
+   - Force of will
+
+2. But Through
+   - Original unity
+   - Pure presence
+   - Self-maintaining focus
+
+## VI. Practical Implementation
+
+### A. Understanding Process
+1. Recognition of Unity
+   - Original determination
+   - Pure presence
+   - Self-maintaining focus
+
+2. Beyond Dispersion
+   - Not mere collection
+   - Original unity
+   - Pure stability
+
+### B. Direct Practice
+1. Through Understanding
+   - Pure determination
+   - Original unity
+   - Self-maintaining focus
+
+2. Beyond Effort
+   - Not mere trying
+   - Original stability
+   - Pure presence
+
+# Analysis of Śaṅkara's Commentary on BG 2.41
+
+## I. Opening Framework
+
+### A. Initial Context
+```sanskrit
+येयं साङ्‍ख्ये बुद्धिरुक्ता योगे च, वक्ष्यमाणलक्षणा सा
+```
+1. Key Point: Same buddhi in both
+   - सांख्य = Transcendental knowledge
+   - योग = Practical implementation
+   - Unified understanding
+
+2. Technical Implication
+   - Not two separate buddhis
+   - Single determination
+   - Different aspects
+
+## II. Core Analysis
+
+### A. Nature of Determined Reason
+```sanskrit
+व्यवसायात्मिका निश्चयस्वभावा एका एव बुद्धिः इतरविपरीतबुद्धिशाखाभेदस्य बाधिका
+```
+
+1. Essential Nature
+   - निश्चयस्वभावा = Characterized by certainty
+   - एका एव = Absolutely one
+   - Pure synthetic unity
+
+2. Negating Function
+   - बाधिका = Negates/cancels
+   - इतरविपरीत = Other/contrary
+   - Original synthetic activity
+
+### B. Epistemological Ground
+```sanskrit
+सम्यक्प्रमाणजनितत्वात्
+```
+
+1. Valid Knowledge Source
+   - सम्यक्प्रमाण = Right means of knowledge
+   - Direct self-evidence
    - Original certainty
 
-### B. Complete Integration
-1. Knowledge-Being Unity
-   - व्यवसाय as ground
-   - Beyond division
+2. Implementation Path
+   - Through valid knowledge
+   - To pure understanding
+   - Original unity
+
+## III. Analysis of Dispersed Understanding
+
+### A. Nature of Multiplicity
+```sanskrit
+याः पुनः इतरा विपरीतबुद्धयः, यासां शाखाभेदप्रचारवशात् अनन्तः अपारः अनुपरतः संसारो
+```
+
+1. Endless Division
+   - शाखाभेदप्रचार = Proliferation of branches
+   - अनन्त = Endless
+   - Loss of unity
+
+2. Saṃsāra Connection
+   - अनुपरत = Non-cessation
+   - नित्यप्रतत = Ever-expanding
+   - Endless continuation
+
+### B. Resolution Structure
+```sanskrit
+प्रमाणजनितविवेकबुद्धिनिमित्तवशाच्च उपरतास्वनन्तभेदबुद्धिषु संसारोऽप्युपरमते
+```
+
+1. Through Knowledge
+   - विवेकबुद्धि = Discriminative understanding
+   - प्रमाणजनित = Born of valid means
+   - Original insight
+
+2. Final Resolution
+   - उपरत = Cessation
+   - Of both multiplicity and saṃsāra
+   - Pure unity
+
+## IV. Technical Framework
+
+### A. Nature of True Buddhi
+1. Pure Unity
+   - एका एव
+   - Self-maintaining
+   - Original stability
+
+2. Valid Ground
+   - प्रमाणजनित
+   - Self-evident nature
+   - Direct certainty
+
+### B. Resolution Path
+1. Through Understanding
+   - विवेकबुद्धि
+   - Discriminative insight
+   - Original unity
+
+2. Beyond Multiplicity
+   - Not mere collection
    - Pure presence
+   - Original stability
 
-2. Liberation Structure
-   - Through knowledge
-   - In pure presence
-   - Beyond division
+## V. Philosophical Implications
 
-## IV. Buddhist Integration
+### A. Nature of Knowledge
+1. Self-Evidence
+   - Direct certainty
+   - Beyond multiplicity
+   - Original unity
 
-### A. Two Truths Framework
-1. Conventional Level
-   - बहुशाखा reality
-   - Empirical division
-   - संसार structure
-
-2. Ultimate Truth
-   - एका बुद्धि
-   - Pure presence
-   - Beyond division
-
-### B. Practice Integration
-1. From Conventional
+2. Implementation
    - Through discrimination
-   - Valid knowledge
-   - To ultimate
+   - To pure presence
+   - Original stability
 
-2. Complete Path
-   - प्रमाण establishment
-   - विवेक development
-   - Pure realization
+### B. Resolution Structure
+1. Not Through
+   - Mere accumulation
+   - Mental effort
+   - Force of will
 
-## V. Philosophical Implementation
-
-### A. In Knowledge
-1. Pure Ground
-   - Self-evident truth
-   - Original synthesis
-   - Beyond division
-
-2. Development
-   - Through discrimination
-   - Valid knowledge
-   - To realization
-
-### B. In Practice
-1. Path Structure
-   - From multiplicity
-   - Through determination
-   - To unity
-
-2. Complete Integration
-   - Knowledge-being unity
+2. But Through
+   - Original understanding
    - Pure presence
-   - Liberation realized
+   - Self-maintaining unity

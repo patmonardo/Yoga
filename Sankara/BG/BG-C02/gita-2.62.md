@@ -1,289 +1,251 @@
-# Technical Analysis: Bhagavad Gītā 2.62
+# BG 2.62 Technical Analysis
 
-## I. Sanskrit Structure and Sequence
+## Introduction (Śaṅkara)
 
-### A. Opening Terms
-```sanskrit
-ध्यायतो विषयान्पुंसः
-dhyāyato viṣayān puṃsaḥ
-```
+### Sanskrit
+अथेदानीं पराभविष्यतः सर्वानर्थमूलमिदमुच्यते —
 
-1. ध्यायत (dhyāyata)
-   - Present participle of √dhyai
-   - Technical meaning: brooding/dwelling upon
-   - Root of meditation term ध्यान (dhyāna)
+### Transliteration
+athedānīṃ parābhaviṣyataḥ sarvānarthamūlamidamucyate —
 
-2. विषयान् (viṣayān)
-   - Objects of experience
-   - Sense domains
-   - Experiential fields
+### Translation
+Now is spoken this root of all misfortune for one who will be overcome:
 
-### B. Sequence Analysis
-1. First Link
-```sanskrit
-सङ्गस्तेषूपजायते
-saṅgas teṣūpajāyate
-```
-   - सङ्ग (saṅga) = attachment
-   - उपजायते (upajāyate) = arises near/close
+## Mūla Verse
 
-2. Second Link
-```sanskrit
-सङ्गात्सञ्जायते कामः
-saṅgāt sañjāyate kāmaḥ
-```
-   - From attachment
-   - काम (kāma) = desire
-   - सञ्जायते (sañjāyate) = arises completely
+### Sanskrit
+ध्यायतो विषयान्पुंसः सङ्गस्तेषूपजायते ।
+सङ्गात्सञ्जायते कामः कामात्क्रोधोऽभिजायते ॥ ६२ ॥
 
-3. Third Link
-```sanskrit
-कामात्क्रोधोऽभिजायते
-kāmāt krodho'bhijāyate
-```
-   - From desire
-   - क्रोध (krodha) = anger
-   - अभिजायते (abhijāyate) = arises toward/against
+### Transliteration
+dhyāyato viṣayān puṃsaḥ saṅgas teṣūpajāyate |
+saṅgāt sañjāyate kāmaḥ kāmāt krodho'bhijāyate || 62 ||
 
-## II. Abhidharmic Analysis
+### Translation
+For one dwelling on objects, attachment to them arises;
+From attachment is born desire; from desire anger is produced.
 
-### A. Causation Structure
-1. Three Levels of Arising:
-   - उप-जायते (upa-jāyate) = proximate arising
-   - सं-जायते (saṃ-jāyate) = complete arising
-   - अभि-जायते (abhi-jāyate) = directed arising
+## Śaṅkara's Commentary
 
-2. Progressive Intensification:
-   - From attachment
-   - Through desire
-   - To anger
+### Sanskrit
+ध्यायतः चिन्तयतः विषयान् शब्दादीन् विषयविशेषान् आलोचयतः पुंसः पुरुषस्य सङ्गः आसक्तिः प्रीतिः तेषु विषयेषु उपजायते उत्पद्यते । सङ्गात् प्रीतेः सञ्जायते समुत्पद्यते कामः तृष्णा । कामात् कुतश्चित् प्रतिहतात् क्रोधः अभिजायते ॥
 
-### B. Buddhist Parallels
-1. Dependent Origination:
-   - Similar to प्रतीत्यसमुत्पाद (pratītyasamutpāda)
-   - Clear causal sequence
-   - Progressive development
+### Transliteration
+dhyāyataḥ cintayataḥ viṣayān śabdādīn viṣayaviśeṣān ālocayataḥ puṃsaḥ puruṣasya saṅgaḥ āsaktiḥ prītiḥ teṣu viṣayeṣu upajāyate utpadyate | saṅgāt prīteḥ sañjāyate samutpadyate kāmaḥ tṛṣṇā | kāmāt kutaścit pratihatāt krodhaḥ abhijāyate ||
 
-2. Mental Formation:
-   - ध्याय (dhyāya) as saṅkhāra
-   - सङ्ग (saṅga) as upādāna
-   - कामः (kāmaḥ) as taṇhā
+## Technical Analysis
 
-## III. Technical Framework
+### Abhidharmic Process
+1. ध्यान/चिन्तन (dhyāna/cintana):
+   - विषय-आलोचन (viṣaya-ālocana)
+   - Mental dwelling
+   - Initial engagement
 
-### A. Root Problem
-1. ध्याय Process
-   - Not mere thinking
-   - Brooding/dwelling
-   - Root of attachment
-
-2. विषय Structure
-   - Not mere objects
-   - Fields of experience
-   - Domains of attachment
-
-### B. Development Process
-1. Attachment Phase
-   - Proximate arising
-   - Initial connection
-   - Root of sequence
-
-2. Desire Phase
-   - Complete arising
-   - Full development
-   - Middle stage
-
-3. Anger Phase
-   - Directed arising
-   - Final opposition
-   - Complete manifestation
-
-## IV. Philosophical Implications
-
-### A. Nature of Bondage
-1. Progressive Development
-   - Not sudden
-   - Clear sequence
-   - Internal necessity
-
-2. Root Cause
-   - ध्याय process
-   - Dwelling upon
-   - Initial mistake
-
-### B. Practice Implications
-1. Point of Intervention
-   - At dwelling stage
-   - Before attachment
-   - Root prevention
-
-2. Understanding Need
-   - Clear sequence
-   - Internal necessity
-   - Prevention possibility
-
-## V. Technical Terms
-
-### A. Three Forms of Arising
-1. उपजायते (upajāyate)
-   - Proximate/near arising
-   - Initial development
-   - Root connection
-
-2. सञ्जायते (sañjāyate)
-   - Complete arising
-   - Full development
-   - Total manifestation
-
-3. अभिजायते (abhijāyate)
-   - Directed arising
-   - Toward/against
-   - Final opposition
-
-### B. Key States
-1. सङ्ग (saṅga)
+2. सङ्ग/आसक्ति (saṅga/āsakti):
+   - प्रीति (prīti)
    - Attachment
-   - Connection
-   - Root bondage
+   - Emotional binding
 
-2. काम (kāma)
-   - Desire
-   - Active wanting
-   - Middle development
+3. काम/तृष्णा (kāma/tṛṣṇā):
+   - Craving
+   - Thirst
+   - Intense desire
 
-3. क्रोध (krodha)
-   - Anger
-   - Opposition
-   - Final manifestation
+4. क्रोध (krodha):
+   - From प्रतिहत-काम (pratihata-kāma)
+   - Frustrated desire
+   - Manifested anger
 
-# Technical Analysis: Śaṅkara's Commentary on BG 2.62
+### Progressive Development
+1. Initial Stage:
+   - ध्यान (dhyāna)
+   - विषय-आलोचन (viṣaya-ālocana)
+   - Mental engagement
 
-## I. Opening Framework
+2. First Transformation:
+   - सङ्ग-उत्पत्ति (saṅga-utpatti)
+   - आसक्ति (āsakti)
+   - Attachment arising
 
-### A. Root Problem Definition
-```sanskrit
-सर्वानर्थमूलम्
-sarvānarthamūlam
-```
-1. Technical compound:
-   - सर्व (sarva) = all
-   - अनर्थ (anartha) = misfortune/evil
-   - मूल (mūla) = root
+3. Second Transformation:
+   - काम-उत्पत्ति (kāma-utpatti)
+   - तृष्णा (tṛṣṇā)
+   - Desire arising
 
-2. Points to:
-   - Universal problem
-   - Fundamental cause
-   - Root bondage
+4. Final Manifestation:
+   - क्रोध-अभिजनन (krodha-abhijanana)
+   - From frustration
+   - Complete affliction
 
-## II. Detailed Process Analysis
+### Technical Terms Analysis
+1. विषय (viṣaya):
+   - शब्दादि (śabdādi)
+   - Sense objects
+   - Specific objects
 
-### A. First Stage: Thinking Process
-```sanskrit
-ध्यायतः चिन्तयतः विषयान् शब्दादीन् विषयविशेषान् आलोचयतः
-dhyāyataḥ cintayataḥ viṣayān śabdādīn viṣayaviśeṣān ālocayataḥ
-```
+2. Multiple Terms for Attachment:
+   - सङ्ग (saṅga)
+   - आसक्ति (āsakti)
+   - प्रीति (prīti)
 
-1. Three-fold definition:
-   - ध्यायत (dhyāyata) = dwelling upon
-   - चिन्तयत (cintayata) = thinking about
-   - आलोचयत (ālocayata) = considering
+3. Multiple Terms for Desire:
+   - काम (kāma)
+   - तृष्णा (tṛṣṇā)
+   - Craving/thirst
 
-2. Object specification:
-   - विषयान् (viṣayān) = objects
-   - शब्दादीन् (śabdādīn) = sound etc.
-   - विषयविशेषान् (viṣayaviśeṣān) = specific objects
+### Causal Structure
+1. Primary Sequence:
+   - ध्यान → सङ्ग
+   - सङ्ग → काम
+   - काम → क्रोध
 
-### B. Second Stage: Attachment Development
-```sanskrit
-सङ्गः आसक्तिः प्रीतिः
-saṅgaḥ āsaktiḥ prītiḥ
-```
+2. Intermediate Links:
+   - आलोचन → आसक्ति
+   - प्रीति → तृष्णा
+   - प्रतिघात → क्रोध
 
-1. Three-fold progression:
-   - सङ्ग (saṅga) = attachment
-   - आसक्ति (āsakti) = clinging
-   - प्रीति (prīti) = delight
+# BG 2.62 Trans-Idealist Analysis
 
-2. Technical significance:
-   - Progressive deepening
-   - Emotional investment
-   - Root of bondage
+## I. Ground of Affliction
 
-### C. Third Stage: Desire Formation
-```sanskrit
-कामः तृष्णा
-kāmaḥ tṛṣṇā
-```
+### A. Initial Engagement
+1. ध्यान Process:
+   - Mental dwelling
+   - Object fixation
+   - Root engagement
 
-1. Two-fold definition:
-   - काम (kāma) = desire
-   - तृष्णा (tṛṣṇā) = craving
+2. विषय-आलोचन (viṣaya-ālocana):
+   - Object consideration
+   - Specific attention
+   - Initial binding
 
-2. Buddhist parallel:
-   - Direct use of तृष्णा (tṛṣṇā)
-   - Technical Buddhist term
-   - Points to dependent origination
+### B. Progressive Development
+1. Through Attachment:
+   - सङ्ग (saṅga)
+   - आसक्ति (āsakti)
+   - प्रीति (prīti)
 
-### D. Final Stage: Anger Arising
-```sanskrit
-कामात् कुतश्चित् प्रतिहतात् क्रोधः
-kāmāt kutaścit pratihatāt krodhaḥ
-```
+2. To Desire:
+   - काम (kāma)
+   - तृष्णा (tṛṣṇā)
+   - Complete binding
 
-1. Causal sequence:
-   - From thwarted desire
-   - Through opposition
-   - To anger
+## II. Abhidharmic Structure
 
-2. Technical structure:
-   - प्रतिहत (pratihata) = thwarted/opposed
-   - Shows necessary connection
-   - Internal causation
+### A. Precise Causation
+1. Primary Sequence:
+   - ध्यान → सङ्ग
+   - सङ्ग → काम
+   - काम → क्रोध
 
-## III. Abhidharmic Framework
+2. Technical Precision:
+   - Multiple terms
+   - Exact relationships
+   - Complete development
 
-### A. Causation Structure
-1. Clear sequence:
-   - From thinking (ध्यायत/dhyāyata)
-   - Through attachment (सङ्ग/saṅga)
-   - To craving (तृष्णा/tṛṣṇā)
+### B. क्लेश Analysis
+1. Root Development:
+   - From attention
+   - Through attachment
+   - To affliction
 
-2. Buddhist terminology:
-   - Direct use of तृष्णा (tṛṣṇā)
-   - Dependent origination parallel
-   - Technical precision
+2. Complete Manifestation:
+   - Of latent tendencies
+   - Through conditions
+   - To active states
 
-### B. Process Analysis
-1. Mental Formation:
-   - Three types of thinking
-   - Progressive development
-   - Internal necessity
+## III. Buddhist Integration
 
-2. Emotional Development:
-   - Three stages of attachment
-   - Clear progression
-   - Root bondage
+### A. प्रतीत्यसमुत्पाद Structure
+1. Causal Chain:
+   - Precise sequence
+   - Necessary arising
+   - Complete development
 
-## IV. Technical Implications
+2. क्लेश Origination:
+   - From subtle to gross
+   - Through conditions
+   - To manifestation
 
-### A. Practice Framework
-1. Point of Intervention:
-   - At thinking stage
-   - Before attachment
-   - Root prevention
+### B. तृष्णा Analysis
+1. Progressive Development:
+   - From attachment
+   - Through craving
+   - To affliction
 
-2. Understanding Need:
-   - Clear sequence
-   - Internal necessity
-   - Prevention possibility
+2. Complete Structure:
+   - Of suffering
+   - Through desire
+   - To manifestation
 
-### B. Liberation Path
-1. Through Understanding:
-   - Root cause
-   - Internal process
-   - Clear sequence
+## IV. Trans-Idealist Development
 
-2. To Freedom:
-   - From bondage
-   - Through knowledge
-   - To liberation
+### A. Beyond Opposition
+1. Of Subject-Object:
+   - In initial dwelling
+   - Through engagement
+   - To attachment
+
+2. Of Internal-External:
+   - In consideration
+   - Through binding
+   - To affliction
+
+### B. Necessary Development
+1. Of Consciousness:
+   - From attention
+   - Through fixation
+   - To bondage
+
+2. Of Affliction:
+   - From subtle
+   - Through gross
+   - To complete
+
+## V. Systematic Structure
+
+### A. Progressive Unfolding
+1. Of Attention:
+   - ध्यान (dhyāna)
+   - चिन्तन (cintana)
+   - आलोचन (ālocana)
+
+2. Of Attachment:
+   - सङ्ग (saṅga)
+   - आसक्ति (āsakti)
+   - प्रीति (prīti)
+
+### B. Complete Development
+1. Of Desire:
+   - काम (kāma)
+   - तृष्णा (tṛṣṇā)
+   - Complete craving
+
+2. Of Affliction:
+   - प्रतिघात (pratighāta)
+   - क्रोध (krodha)
+   - Full manifestation
+
+## VI. Philosophical Significance
+
+### A. Complete Analysis
+1. Of Consciousness:
+   - Initial engagement
+   - Progressive binding
+   - Complete bondage
+
+2. Of Affliction:
+   - Root development
+   - Necessary sequence
+   - Full manifestation
+
+### B. Original Understanding
+1. Of Bondage:
+   - From attention
+   - Through attachment
+   - To affliction
+
+2. Of Liberation:
+   - Through understanding
+   - Of complete process
+   - To freedom

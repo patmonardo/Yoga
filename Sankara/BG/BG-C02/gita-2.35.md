@@ -1,279 +1,177 @@
-# BG 2.35 Technical Analysis
+# Technical Analysis: Bhagavad Gītā 2.35
 
-## I. Text Establishment
+## I. Mūla Verse and Structure
 
-### A. Core Verse
-भयाद्रणादुपरतं मंस्यन्ते त्वां महारथाः ।
-येषां च त्वं बहुमतो भूत्वा यास्यसि लाघवम् ॥ ३५ ॥
-(*bhayād raṇād uparataṃ maṃsyante tvāṃ mahārathāḥ* |
-*yeṣāṃ ca tvaṃ bahumato bhūtvā yāsyasi lāghavam* || 35 ||)
+```sanskrit
+भयाद्रणादुपरतं मंस्यन्ते त्वां महारथाः |
+येषां च त्वं बहुमतो भूत्वा यास्यसि लाघवम् || 35 ||
+```
 
-### B. Śaṅkara's Commentary
-भयात् कर्णादिभ्यः रणात् युद्धात् उपरतं निवृत्तं मंस्यन्ते चिन्तयिष्यन्ति न कृपयेति त्वां महारथाः दुर्योधनप्रभृतयः...
-(*bhayāt karṇādibhyaḥ raṇāt yuddhāt uparataṃ nivṛttaṃ maṃsyante cintayiṣyanti na kṛpayeti tvāṃ mahārathāḥ duryodhanaprabṛtayaḥ*...)
+## II. Śaṅkara's Commentary
 
-## II. Technical Analysis
+```sanskrit
+किञ्च भयात् कर्णादिभ्यः रणात् युद्धात् उपरतं निवृत्तं मंस्यन्ते चिन्तयिष्यन्ति त्वां महारथाः दुर्योधनप्रभृतयः न कृपया । येषां च त्वं बहुभिः गुणैः युक्तः एवं मतः सन् लघुभावं यास्यसि प्राप्स्यसि ।
+```
 
-### A. Key Terms Structure
-1. Recognition Terms:
-   - बहुमत (*bahumata*) - highly esteemed
-   - लाघव (*lāghava*) - lightness/contempt
-   - महारथ (*mahāratha*) - great warrior
+### A. Bhāṣya Analysis
+1. Fear Framework:
+   - भयात् (bhayāt):
+      * Specified as: कर्णादिभ्यः (karṇādibhyaḥ)
+      * Concrete reference
+      * Essential cause
 
-2. Movement Terms:
-   - उपरत (*uparata*) - withdrawn
-   - निवृत्त (*nivṛtta*) - turned back
-   - यास्यसि (*yāsyasi*) - will go to
+2. Judgment Structure:
+   - मंस्यन्ते (maṃsyante):
+      * Gloss: चिन्तयिष्यन्ति (cintayiṣyanti)
+      * Key qualification: न कृपया (na kṛpayā)
+      * Not from compassion
 
-### B. Dialectical Structure
-1. Recognition Movement:
-   - From बहुमत (esteem)
-   - Through भय (fear)
-   - To लाघव (contempt)
+3. Status Transformation:
+   - बहुमत (bahumata):
+      * Defined: बहुभिः गुणैः युक्तः (bahubhiḥ guṇaiḥ yuktaḥ)
+      * Multiple qualities
+      * Essential recognition
 
-2. Philosophical Development:
-   - Initial recognition
-   - Through mediation
-   - To negative determination
+   - लाघव (lāghava):
+      * Gloss: लघुभाव (laghubhāva)
+      * Complete diminution
+      * Value reversal
 
-## III. Philosophical Framework
+## III. Technical Term Analysis
 
-### A. Pure Method
-1. Recognition Structure:
-   - Beyond mere opinion
-   - Through social mediation
-   - To determinate negation
+### A. Key Terms
+1. भय-रण Compound:
+   - Double ablative
+   - Causal relation
+   - Essential field
 
-2. Complete Development:
-   - Clear progression
-   - Necessary stages
-   - Total vision
+2. महारथ (mahāratha):
+   - Śaṅkara's reference: दुर्योधनप्रभृतयः
+   - Technical status term
+   - Essential judgment
 
-### B. Critical Integration
-1. Hegelian Structure:
-   - Recognition dialectic
-   - Through mediation
-   - To determinate negation
+### B. Status Movement
+1. बहुमत Framework:
+   - Multiple qualities
+   - Essential recognition
+   - Complete value
 
-2. Method Achievement:
-   - Clear progression
-   - Necessary development
-   - Complete vision
+2. लाघव Structure:
+   - Essential diminution
+   - Complete reversal
+   - Value transformation
 
-## IV. Technical Terms
+## IV. Connection to Previous Verses
 
-### A. Core Compounds
-1. Status Terms:
-   - बहुमत (*bahumata*) - highly regarded
-   - महारथ (*mahāratha*) - great warrior
-   - लाघव (*lāghava*) - lightness/contempt
+### A. From Eternal Infamy (2.34):
+   - Universal recognition
+   - Eternal duration
+   - Beyond death
 
-2. Process Terms:
-   - उपरत (*uparata*) - withdrawal
-   - निवृत्त (*nivṛtta*) - turning back
-   - चिन्तयिष्यन्ति (*cintayiṣyanti*) - will think
+### B. To Present Judgment (2.35):
+   - Concrete recognition
+   - Status reversal
+   - Essential transformation
 
-### B. Philosophical Terms
-1. Structure Analysis:
-   - बहुमत → लाघव dialectic
-   - भय (fear) as mediation
-   - Social recognition structure
+# Trans-Idealist Analysis: Bhagavad Gītā 2.35
 
-2. Integration:
-   - Through systematic necessity
-   - Complete development
-   - Total vision
+## I. 1804 Framework Integration
 
-## V. Systematic Development
+### A. Recognition Structure
+1. First Moment: Essential Status
+   - Multiple qualities
+   - Social recognition
+   - Complete value
 
-### A. Method Structure
-1. Progressive Analysis:
-   - From esteem
-   - Through mediation
-   - To contempt
+2. Second Moment: Fear-Based Action
+   - Essential deviation
+   - Complete withdrawal
+   - Value negation
 
-2. Complete Vision:
-   - Clear progression
-   - Systematic development
-   - Total realization
+3. Third Moment: Status Transformation
+   - Through judgment
+   - Essential reversal
+   - Complete diminution
 
-### B. Integration Points
-1. With Previous Verse:
-   - From eternal negativity
-   - Through recognition
-   - To determinate contempt
+### B. Integration Framework
+1. Recognition Level:
+   - Essential qualities
+   - Social judgment
+   - Complete framework
 
-2. With Later Development:
-   - Foundation established
-   - Method demonstrated
-   - Path prepared
+2. Transformation Structure:
+   - Through fear
+   - Essential withdrawal
+   - Complete reversal
 
-## VI. Philosophical Impact
+## II. Buddhist-Vedāntic Integration
 
-### A. Method Achievement
-1. Pure Analysis:
-   - Recognition structure
-   - Through mediation
-   - To determinate negation
+### A. Madhyamaka Elements
+1. Analysis of Status:
+   - Beyond mere recognition
+   - Essential qualities
+   - Complete framework
 
-2. Total Vision:
-   - Clear progression
-   - Necessary stages
-   - Complete realization
+2. Transformation Method:
+   - Through withdrawal
+   - Essential reversal
+   - Complete movement
 
-### B. Critical Integration
-1. Systematic Method:
-   - Complete development
-   - Through necessity
-   - To practical wisdom
-
-2. Final Vision:
-   - Clear understanding
-   - Total development
-   - Complete realization
-
-# BG 2.35 Philosophical Analysis
-
-## I. Recognition Dialectic
-
-### A. Structural Movement
-1. Recognition Framework:
-   - बहुमत (*bahumata*) as initial esteem
-   - Through भय (*bhaya*) mediation
-   - To लाघव (*lāghava*) contempt
-
-2. Complete Structure:
-   - Beyond mere opinion
-   - Through social determination
-   - To concrete negativity
-
-### B. Hegelian Integration
-1. Recognition Elements:
-   - Initial mutual recognition
-   - Through fear and struggle
-   - To determinate negation
-
-2. Total Framework:
-   - Beyond abstract recognition
-   - Through concrete mediation
-   - To determinate result
-
-## II. Philosophical Method
-
-### A. Pure Development
-1. Dialectical Structure:
-   - From abstract esteem
-   - Through mediation
-   - To concrete contempt
-
-2. Complete Framework:
-   - Clear progression
-   - Necessary development
-   - Total vision
-
-### B. Critical Achievement
-1. Method Structure:
-   - Pure necessity
-   - Systematic development
-   - Complete understanding
-
-2. Vision Complete:
-   - Clear progression
-   - Necessary stages
-   - Total realization
-
-## III. Integration Framework
-
-### A. With Critical Philosophy
-1. Pure Method:
-   - Beyond abstraction
-   - Through mediation
-   - To concrete determination
-
-2. Complete Structure:
-   - Recognition analysis
-   - Systematic development
-   - Total vision
-
-### B. With Previous Development
-1. Methodological Progress:
-   - From eternal negativity
-   - Through recognition
-   - To determinate contempt
-
-2. Total Vision:
-   - Clear progression
-   - Complete development
-   - Final realization
-
-## IV. Practical Implications
-
-### A. For Understanding
-1. Clear Method:
-   - Recognition structure
-   - Through mediation
-   - To concrete determination
-
-2. Complete Vision:
-   - Clear progression
-   - Necessary stages
-   - Total realization
-
-### B. For Practice
-1. Direct Application:
-   - Clear understanding
-   - Systematic development
-   - Practical wisdom
-
-2. Total Achievement:
-   - Through precise stages
-   - In necessary progression
-   - To complete realization
-
-## V. Final Integration
-
-### A. Method Complete
-1. Pure Development:
-   - From recognition
-   - Through mediation
-   - To determination
-
-2. Vision Achieved:
-   - Clear progression
-   - Systematic stages
-   - Total realization
-
-### B. Complete Framework
-1. Theoretical Structure:
-   - Pure necessity
-   - Systematic development
-   - Complete understanding
-
-2. Practical Achievement:
-   - Clear method
-   - Necessary stages
-   - Total realization
-
-## VI. Key Insights
-
-### A. Methodological
-1. Pure Necessity:
-   - Recognition structure
-   - Through mediation
-   - To determination
-
-2. Total Vision:
-   - Clear progression
-   - Necessary stages
-   - Complete realization
-
-### B. Practical
-1. Direct Application:
-   - From understanding
-   - Through mediation
-   - To wisdom
-
-2. Total Achievement:
-   - Clear method
-   - Systematic stages
+### B. Yogācāra Framework
+1. Consciousness Structure:
+   - Recognition patterns
+   - Essential judgment
    - Complete transformation
+
+2. Practice Framework:
+   - Through fear
+   - Essential deviation
+   - Value reversal
+
+## III. Systematic Development
+
+### A. From Previous Understanding
+1. Eternal Framework (2.34):
+   - Universal recognition
+   - Eternal duration
+   - Beyond death
+
+2. To Present Judgment (2.35):
+   - Concrete recognition
+   - Status reversal
+   - Essential transformation
+
+### B. Value Movement
+1. Recognition Structure:
+   - Multiple qualities
+   - Essential status
+   - Complete framework
+
+2. Transformation Pattern:
+   - Through fear
+   - Essential withdrawal
+   - Complete reversal
+
+## IV. Practical Implementation
+
+### A. Understanding Process
+1. Status Recognition:
+   - Essential qualities
+   - Social framework
+   - Complete value
+
+2. Fear Analysis:
+   - Essential cause
+   - Complete withdrawal
+   - Value reversal
+
+### B. Final Resolution
+1. Through Understanding:
+   - Recognition structure
+   - Essential movement
+   - Complete transformation
+
+2. Value Framework:
+   - From recognition
+   - Through withdrawal
+   - To diminution

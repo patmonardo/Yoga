@@ -1,295 +1,232 @@
-# Technical Analysis: Bhagavad Gītā 2.65
+# BG 2.65 Technical Analysis
 
-## I. Sanskrit Structure and Key Terms
+## Introduction
 
-### A. Prasāda Framework
-```sanskrit
-प्रसादे सर्वदुःखानां हानिरस्योपजायते
-prasāde sarvaduḥkhānāṃ hānirsyopajāyate
-```
+### Sanskrit
+प्रसादे सति किं स्यात् इत्युच्यते —
 
-1. Technical Structure:
-   - प्रसाद (prasāda) = clear serenity
-   - सर्वदुःखानां हानि = cessation of all suffering
-   - उपजायते (upajāyate) = arises near/close
+### Transliteration
+prasāde sati kiṃ syāt ityucyate —
 
-2. Technical Import:
-   - Not mere peace
-   - Complete resolution
-   - Root transformation
+### Translation
+What occurs when serenity is present? Thus it is said:
 
-### B. Buddhi Establishment
-```sanskrit
-प्रसन्नचेतसो ह्याशु बुद्धिः पर्यवतिष्ठते
-prasannacetaso hyāśu buddhiḥ paryavatiṣṭhate
-```
+## Mūla Verse
 
-1. Key Terms:
-   - प्रसन्नचेतस् (prasannacetas) = serene consciousness
-   - आशु (āśu) = quickly/immediately
-   - पर्यवतिष्ठते (paryavatiṣṭhate) = becomes fully established
+### Sanskrit
+प्रसादे सर्वदुःखानां हानिरस्योपजायते ।
+प्रसन्नचेतसो ह्याशु बुद्धिः पर्यवतिष्ठते ॥ ६५ ॥
 
-2. Technical Framework:
-   - Complete establishment
-   - Through serenity
-   - To pure reason
+### Transliteration
+prasāde sarvadukḥānāṃ hānirasyo pajāyate |
+prasannacetaso hyāśu buddhiḥ paryavatiṣṭhate || 65 ||
 
-## II. Technical Structure
+### Translation
+In serenity arises the destruction of all sorrows for this one;
+Indeed, for one of serene mind, quickly wisdom becomes firmly established.
 
-### A. Two-Phase Process
-1. Initial Phase:
-   - प्रसाद (prasāda) achievement
-   - Suffering cessation
-   - Root transformation
+## Śaṅkara's Commentary
 
-2. Final Phase:
-   - बुद्धि (buddhi) establishment
-   - Complete stability
-   - Pure reason
+### Sanskrit
+प्रसादे सर्वदुःखानाम् आध्यात्मिकादीनां हानिः विनाशः अस्य यतेः उपजायते । किञ्च — प्रसन्नचेतसः स्वस्थान्तःकरणस्य हि यस्मात् आशु शीघ्रं बुद्धिः पर्यवतिष्ठते आकाशमिव परि समन्तात् अवतिष्ठते, आत्मस्वरूपेणैव निश्चलीभवतीत्यर्थः ॥
+एवं प्रसन्नचेतसः अवस्थितबुद्धेः कृतकृत्यता यतः, तस्मात् रागद्वेषवियुक्तैः इन्द्रियैः शास्त्राविरुद्धेषु अवर्जनीयेषु युक्तः समाचरेत् इति वाक्यार्थः ॥
 
-### B. Prasāda Analysis
-1. As Condition:
-   - Not mere state
-   - Active principle
-   - Transformative power
+### Transliteration
+prasāde sarvadukḥānām ādhyātmikādīnāṃ hāniḥ vināśaḥ asya yateḥ upajāyate | kiñca — prasannacetasaḥ svasthāntaḥkaraṇasya hi yasmāt āśu śīghraṃ buddhiḥ paryavatiṣṭhate ākāśamiva pari samantāt avatiṣṭhate, ātmasvarūpeṇaiva niścalībhavatītyarthaḥ ||
+evaṃ prasannacetasaḥ avasthitabuddheḥ kṛtakṛtyatā yataḥ, tasmāt rāgadveṣaviyuktaiḥ indriyaiḥ śāstrāviruddheṣu avarjanīyeṣu yuktaḥ samācaret iti vākyārthaḥ ||
 
-2. As Resolution:
-   - Of all suffering
-   - Through serenity
-   - To pure reason
+## Technical Analysis
 
-## III. Prajna Framework
-
-### A. Development Structure
-1. Through Prasāda:
-   - Clear serenity
-   - Beyond disturbance
-   - Root transformation
-
-2. To Pure Reason:
-   - Complete establishment
-   - Original stability
-   - Pure insight
-
-### B. Technical Progression
-1. Initial Achievement:
-   - प्रसाद (prasāda)
-   - Clear serenity
-   - Root transformation
-
-2. Final Establishment:
-   - बुद्धि (buddhi)
-   - Pure reason
-   - Complete stability
-
-## IV. Philosophical Framework
-
-### A. Knowledge Structure
-1. Real Path:
-   - Through serenity
-   - Suffering cessation
-   - To pure reason
-
-2. Ideal Path:
-   - Through pure reason
-   - Complete establishment
-   - Original insight
-
-### B. Integration Level
-1. Prasāda Nature:
-   - Beyond disturbance
-   - Clear serenity
-   - Root transformation
-
-2. Buddhi Nature:
-   - Pure reason
-   - Complete establishment
-   - Original stability
-
-## V. Technical Terms
-
-### A. Key States
+### Key Abhidharmic Terms
 1. प्रसाद (prasāda):
-   - Clear serenity
-   - Beyond disturbance
-   - Root transformation
+   - Root serenity
+   - स्वस्थान्तःकरण (svasthāntaḥkaraṇa)
+   - Perfect peace
 
 2. प्रसन्नचेतस् (prasannacetas):
-   - Serene consciousness
-   - Complete clarity
-   - Pure awareness
+   - Serene mind
+   - Clear consciousness
+   - Perfect stability
 
-### B. Final Terms
-1. हानि (hāni):
-   - Complete cessation
-   - Root resolution
-   - Total freedom
-
-2. पर्यवतिष्ठते (paryavatiṣṭhate):
-   - Full establishment
+3. पर्यवस्थित-बुद्धि (paryavasthita-buddhi):
+   - Firmly established wisdom
+   - आकाशवत् (ākāśavat) - like space
    - Complete stability
-   - Original insight
 
-## VI. Practice Framework
+### Progressive Development
+1. Initial State:
+   - प्रसाद (prasāda)
+   - Inner serenity
+   - Basic peace
 
-### A. Initial Achievement
-1. Clear Serenity:
-   - Beyond disturbance
-   - Root transformation
-   - Pure presence
-
-2. Suffering Cessation:
+2. Transformation:
+   - दुःख-हानि (duḥkha-hāni)
+   - सर्व-दुःख destruction
    - Complete freedom
-   - Root resolution
-   - Total peace
 
-### B. Final Establishment
-1. Pure Reason:
-   - Complete stability
-   - Original insight
+3. Final Achievement:
+   - बुद्धि-स्थिति (buddhi-sthiti)
+   - निश्चल-स्थिति (niścala-sthiti)
    - Perfect establishment
 
-2. Immediate Realization:
-   - Direct achievement
+### Technical Structure
+1. Types of दुःख:
+   - आध्यात्मिक (ādhyātmika)
+   - आधिभौतिक (ādhibhautika)
+   - आधिदैविक (ādhidaivika)
+
+2. Characteristics of Achievement:
+   - आशु (āśu) - quickly
+   - समन्तात् (samantāt) - completely
+   - निश्चल (niścala) - unmoving
+
+3. Final State:
+   - कृतकृत्यता (kṛtakṛtyatā)
+   - Complete fulfillment
+   - Perfect accomplishment
+
+# BG 2.65 Trans-Idealist Analysis
+
+## I. Ground of Complete Peace
+
+### A. प्रसाद Nature
+1. Original Serenity:
+   - Root peace
+   - Perfect stability
+   - Complete clarity
+
+2. स्वस्थान्तःकरण (svasthāntaḥkaraṇa):
+   - Healthy inner instrument
+   - Perfect functioning
+   - Complete integration
+
+### B. प्रसन्नचेतस् (prasannacetas)
+1. Serene Consciousness:
+   - Clear awareness
+   - Perfect stability
+   - Original peace
+
+2. निश्चल Reality:
+   - Unmoving being
+   - Perfect establishment
+   - Complete achievement
+
+## II. Abhidharmic Structure
+
+### A. दुःख Analysis
+1. Complete Destruction:
+   - आध्यात्मिक (ādhyātmika)
+   - आधिभौतिक (ādhibhautika)
+   - आधिदैविक (ādhidaivika)
+
+2. Perfect Freedom:
+   - From all suffering
    - Through serenity
-   - To pure reason
+   - To peace
 
-# Technical Analysis: Śaṅkara's Commentary on BG 2.66
-
-## I. Initial Framework
-
-### A. Root Definition
-```sanskrit
-बुद्धिः आत्मस्वरूपविषया अयुक्तस्य असमाहितान्तःकरणस्य
-buddhiḥ ātmasvarūpaviṣayā ayuktasya asamāhitāntaḥkaraṇasya
-```
-
-1. Critical Technical Terms:
-   - आत्मस्वरूपविषया (ātmasvarūpaviṣayā) = concerning essential nature
-   - असमाहितान्तःकरण (asamāhitāntaḥkaraṇa) = non-integrated internal organ
-   - Points to Hṛdaya level
-
-2. Technical Structure:
-   - Root buddhi
-   - Essential nature
-   - Internal instrument
-
-## II. Development Analysis
-
-### A. Bhāvanā Definition
-```sanskrit
-भावना आत्मज्ञानाभिनिवेशः
-bhāvanā ātmajñānābhiniveśaḥ
-```
-
-1. Technical Equation:
-   - भावना (bhāvanā) = आत्मज्ञानाभिनिवेश (ātmajñānābhiniveśa)
-   - Cultivation = absorption in self-knowledge
-   - Deep technical meaning
-
-2. Practice Structure:
-   - Not mere thinking
-   - Complete absorption
-   - In essential nature
-
-### B. Peace Development
-```sanskrit
-अभावयतः आत्मज्ञानाभिनिवेशमकुर्वतः शान्तिः उपशमः
-abhāvayataḥ ātmajñānābhiniveśam akurvataḥ śāntiḥ upaśamaḥ
-```
-
-1. Two-fold Definition:
-   - शान्ति (śānti) = उपशम (upaśama)
-   - Peace = complete cessation
-   - Root tranquility
-
-2. Technical Process:
-   - Through absorption
-   - In self-knowledge
-   - To complete peace
-
-## III. Final Analysis
-
-### A. True Happiness
-```sanskrit
-इन्द्रियाणां हि विषयसेवातृष्णातः निवृत्तिर्या तत्सुखम्
-indriyāṇāṃ hi viṣayasevatṛṣṇātaḥ nivṛttir yā tat sukham
-```
-
-1. Technical Definition:
-   - सुख (sukha) = तृष्णानिवृत्ति (tṛṣṇānivṛtti)
-   - Happiness = cessation of craving
+### B. बुद्धि Achievement
+1. Perfect Establishment:
+   - आकाशवत् (ākāśavat)
+   - Like space
    - Complete freedom
 
-2. Structural Analysis:
-   - From faculties
-   - Through cessation
-   - To happiness
+2. निश्चल Reality:
+   - Unmoving
+   - Perfect stability
+   - Original being
 
-### B. Craving Problem
-```sanskrit
-न विषयविषया तृष्णा । दुःखमेव हि सा
-na viṣayaviṣayā tṛṣṇā | duḥkham eva hi sā
-```
+## III. Buddhist Integration
 
-1. Technical Identity:
-   - तृष्णा (tṛṣṇā) = दुःख (duḥkha)
-   - Craving is suffering
-   - Essential equation
-
-2. Complete Resolution:
-```sanskrit
-न तृष्णायां सत्यां सुखस्य गन्धमात्रमप्युपपद्यते
-na tṛṣṇāyāṃ satyāṃ sukhasya gandhamātram apy upapadyate
-```
-   - Not even trace
-   - Of happiness
-   - With craving
-
-## IV. Technical Framework
-
-### A. Hṛdaya Level
-1. Internal Instrument:
-   - अन्तःकरण (antaḥkaraṇa)
-   - In-Itself
-   - Essential nature
-
-2. Integration Need:
-   - समाहित (samāhita)
-   - Complete collection
-   - Natural unity
-
-### B. Knowledge Structure
-1. Essential Nature:
-   - आत्मस्वरूप (ātmasvarūpa)
-   - In-Itself
-   - Pure being
-
-2. Absorption Process:
-   - अभिनिवेश (abhiniveśa)
-   - Complete absorption
-   - Natural state
-
-## V. Resolution Framework
-
-### A. Peace Nature
+### A. दुःख-निरोध (duḥkha-nirodha)
 1. Complete Cessation:
-   - उपशम (upaśama)
-   - Root tranquility
-   - Natural peace
+   - Of all suffering
+   - Through peace
+   - To freedom
 
-2. True Happiness:
-   - तृष्णानिवृत्ति (tṛṣṇānivṛtti)
-   - Craving cessation
-   - Natural freedom
+2. Perfect Achievement:
+   - Through serenity
+   - To stability
+   - Complete peace
 
-### B. Final State
-1. No Trace:
-   - Of craving
-   - Of suffering
-   - Pure freedom
+### B. प्रज्ञा-स्थिति (prajñā-sthiti)
+1. Established Wisdom:
+   - Through peace
+   - In stability
+   - As reality
 
-2. Complete Freedom:
-   - In essential nature
-   - Natural state
-   - Pure being
+2. Complete Being:
+   - As space
+   - Perfect freedom
+   - Original reality
+
+## IV. Trans-Idealist Structure
+
+### A. Beyond Opposition
+1. Of Peace-Achievement:
+   - Not mere state
+   - Original serenity
+   - Complete being
+
+2. Of Wisdom-Stability:
+   - Perfect establishment
+   - Complete integration
+   - Original reality
+
+### B. Original Unity
+1. Of Consciousness:
+   - प्रसन्नचेतस् (prasannacetas)
+   - Clear awareness
+   - Perfect stability
+
+2. Of Being:
+   - आकाशवत् (ākāśavat)
+   - Like space
+   - Complete freedom
+
+## V. Systematic Development
+
+### A. Progressive Achievement
+1. Through Serenity:
+   - प्रसाद (prasāda)
+   - Inner peace
+   - Perfect clarity
+
+2. To Freedom:
+   - दुःख-हानि (duḥkha-hāni)
+   - Complete cessation
+   - Perfect liberation
+
+### B. Final Reality
+1. बुद्धि Nature:
+   - पर्यवस्थित (paryavasthita)
+   - Firmly established
+   - Perfect stability
+
+2. आत्म Reality:
+   - निश्चल (niścala)
+   - Unmoving
+   - Original being
+
+## VI. Philosophical Significance
+
+### A. Complete Method
+1. Through Peace:
+   - To freedom
+   - Through stability
+   - To reality
+
+2. Perfect Integration:
+   - Of consciousness and being
+   - Of wisdom and stability
+   - Of peace and freedom
+
+### B. Final Achievement
+1. कृतकृत्यता (kṛtakṛtyatā):
+   - Complete fulfillment
+   - Perfect accomplishment
+   - Original reality
+
+2. निश्चल-स्थिति (niścala-sthiti):
+   - Unmoving being
+   - Perfect stability
+   - Complete freedom

@@ -1,280 +1,151 @@
-# BG 2.31 Technical Analysis
+# Technical Analysis: Bhagavad Gītā 2.31
 
-## I. Text Establishment
+## I. Mūla Verse and Structure
 
-### A. Core Verse
-स्वधर्ममपि चावेक्ष्य न विकम्पितुमर्हसि ।
-धर्म्याद्धि युद्धाच्छ्रेयोऽन्यत्क्षत्त्रियस्य न विद्यते ॥ ३१ ॥
-(*svadharmamapi cāvekṣya na vikampitumarhasi* |
-*dharmyāddhi yuddhācchreyo'nyat kṣatriyasya na vidyate* || 31 ||)
+```sanskrit
+स्वधर्ममपि चावेक्ष्य न विकम्पितुमर्हसि |
+धर्म्याद्धि युद्धाच्छ्रेयोऽन्यत्क्षत्रियस्य न विद्यते || 31 ||
+```
 
-### B. Śaṅkara's Commentary
-स्वधर्ममपि स्वो धर्मः क्षत्रियस्य युद्धं तमपि अवेक्ष्य त्वं न विकम्पितुं प्रचलितुम् नार्हसि क्षत्रियस्य स्वाभाविकाद्धर्मात् आत्मस्वाभाव्यादित्यभिप्रायः...
-(*svadharmamapi svo dharmaḥ kṣatriyasya yuddhaṃ tamapi avekṣya tvaṃ na vikampituṃ pracalitum nārhasi kṣatriyasya svābhāvikāddharmāt ātmasvābhāvyādityabhiprāyaḥ*...)
+## II. Śaṅkara's Commentary
 
-## II. Technical Analysis
+```sanskrit
+स्वधर्मं स्वभावप्रभवं कर्म क्षात्रं प्रकृतिनियतं जन्मप्राप्तम् अपि च आवेक्ष्य विचार्य न विकम्पितुम् अर्हसि । धर्म्यात् धर्मानुगुणात् युद्धात् श्रेयः अन्यत् क्षत्रियस्य न विद्यते न अस्ति ।
+```
 
-### A. Key Terms Structure
-1. Primary Concepts:
-   - स्वधर्म (*svadharma*) - own duty
-   - धर्म्य (*dharmya*) - righteous
-   - विकम्प (*vikampa*) - wavering
-   - श्रेयस् (*śreyas*) - highest good
+### A. Bhāṣya Analysis
+1. स्वधर्म Analysis:
+   - स्वभावप्रभव (svabhāvaprabhava):
+      * Natural arising
+      * Essential nature
+      * Original determination
 
-2. Foundational Terms:
-   - स्वाभाविक (*svābhāvika*) - natural
-   - आत्मस्वाभाव्य (*ātmasvābhāvya*) - self-nature
-   - धर्मार्थ (*dharmārtha*) - for dharma's sake
+   - प्रकृतिनियत (prakṛtiniyata):
+      * Fixed by nature
+      * Essential order
+      * Natural law
 
-### B. Logical Structure
-1. Triple Foundation:
-   - परमार्थतत्त्व (*paramārtha-tattva*) - absolute truth
-   - स्वधर्म (*svadharma*) - own duty
-   - प्रजारक्षण (*prajārakṣaṇa*) - protection of people
+2. Resolution Framework:
+   - आवेक्ष्य विचार्य (āvekṣya vicārya):
+      * Proper consideration
+      * Reflective understanding
 
-2. Philosophical Development:
-   - From absolute truth
-   - Through particular duty
-   - To practical determination
+   - धर्मानुगुण (dharmānuguṇa):
+      * In accordance with dharma
+      * Essential ordering
+      * Natural law
 
-## III. Philosophical Framework
+## III. Technical Term Analysis
 
-### A. Pure Method
-1. Transition Structure:
-   - From pure Being
-   - Through determination
-   - To practical action
+### A. Key Terms
+1. स्वधर्म (svadharma):
+   - Formation: स्व + धर्म
+   - Śaṅkara's gloss: स्वभावप्रभवं कर्म
+   - Essential nature-based action
 
-2. Complete Development:
-   - Clear progression
-   - Necessary stages
-   - Total integration
+2. विकम्प (vikampa):
+   - Formation: वि + कम्प्
+   - Technical meaning: wavering
+   - To be transcended
 
-### B. Critical Integration
-1. Transcendental Structure:
-   - Beyond mere abstraction
-   - Through concrete determination
-   - To practical reason
+### B. Resolution Terms
+1. धर्म्य (dharmya):
+   - According to dharma
+   - Essential order
+   - Natural law
 
-2. Method Achievement:
-   - Clear progression
-   - Necessary development
-   - Complete vision
+2. श्रेयस् (śreyas):
+   - Highest good
+   - Ultimate benefit
+   - Essential aim
 
-## IV. Technical Terms
+## IV. Connection to Previous Verses
 
-### A. Core Compounds
-1. Duty Terms:
-   - स्वधर्म (*svadharma*) - own duty
-   - धर्म्य युद्ध (*dharmya yuddha*) - righteous battle
-   - प्रजारक्षण (*prajārakṣaṇa*) - protection of people
+### A. From Universal Truth (2.30):
+   - Indestructible nature
+   - All beings
+   - Essential truth
 
-2. Nature Terms:
-   - स्वाभाविक (*svābhāvika*) - natural
-   - आत्मस्वाभाव्य (*ātmasvābhāvya*) - self-nature
-   - श्रेयस् (*śreyas*) - highest good
+### B. To Practical Application (2.31):
+   - Through स्वधर्म
+   - Natural order
+   - Essential action
 
-### B. Philosophical Terms
-1. Structure Analysis:
-   - परमार्थतत्त्व (*paramārtha-tattva*) - absolute truth
-   - स्वधर्म (*svadharma*) - particular duty
-   - विकम्प (*vikampa*) - wavering
+# Trans-Idealist Analysis: Bhagavad Gītā 2.31
 
-2. Integration:
-   - Through systematic necessity
-   - Complete development
-   - Total vision
+## I. 1804 Framework Integration
 
-## V. Systematic Development
+### A. Practical Development
+1. First Moment: Essential Nature
+   - स्वधर्म as principle
+   - Natural determination
+   - Original order
 
-### A. Method Structure
-1. Progressive Analysis:
-   - From absolute truth
-   - Through particular duty
-   - To practical action
+2. Second Moment: Action
+   - Practical application
+   - Through natural law
+   - Essential doing
 
-2. Complete Vision:
-   - Clear progression
-   - Systematic development
-   - Total realization
+3. Third Moment: Unity
+   - Knowledge-action synthesis
+   - Through natural order
+   - Original activity
 
-### B. Integration Points
-1. With Previous Section:
-   - From pure Being
-   - To concrete determination
-   - In practical wisdom
+### B. Integration Framework
+1. Understanding Level:
+   - Essential nature
+   - Natural law
+   - Original order
 
-2. With Later Development:
-   - Foundation established
-   - Method demonstrated
-   - Path prepared
+2. Action Level:
+   - Practical manifestation
+   - Through स्वधर्म
+   - Essential doing
 
-## VI. Philosophical Impact
+## II. Buddhist-Vedāntic Integration
 
-### A. Method Achievement
-1. Pure Analysis:
-   - Beyond mere abstraction
-   - Through concrete determination
-   - To practical wisdom
+### A. Madhyamaka Elements
+1. Nature of Action:
+   - Beyond mere doing
+   - Essential order
+   - Original activity
 
-2. Total Vision:
-   - Clear progression
-   - Necessary stages
-   - Complete realization
+2. Resolution Method:
+   - Through natural law
+   - Essential order
+   - Pure doing
 
-### B. Critical Integration
-1. Systematic Method:
-   - Complete development
-   - Through necessity
-   - To practical wisdom
+### B. Yogācāra Framework
+1. Consciousness Structure:
+   - Natural ordering
+   - Through essential nature
+   - Original awareness
 
-2. Final Vision:
-   - Clear understanding
-   - Total development
-   - Complete realization
+2. Practice Framework:
+   - स्वधर्म realization
+   - Through natural order
+   - Pure activity
 
-# BG 2.31 Philosophical Analysis
+## III. Systematic Development
 
-## I. Pure Method Development
+### A. From Previous Understanding
+1. Universal Truth (2.30):
+   - Essential nature
+   - All beings
+   - Original truth
 
-### A. Transition Structure
-1. From Pure Being:
-   - परमार्थतत्त्व (*paramārtha-tattva*) as ground
-   - Through concrete determination
-   - To practical necessity
+2. To Practical Application:
+   - Through स्वधर्म
+   - Natural order
+   - Essential action
 
-2. Complete Framework:
-   - Beyond mere abstraction
-   - Through systematic development
-   - To practical wisdom
+### B. Integration Level
+1. Knowledge-Action Unity:
+   - Not mere combination
+   - Essential synthesis
+   - Original activity
 
-### B. Critical Integration
-1. Kantian Elements:
-   - Beyond pure reason
-   - Through determination
-   - To practical reason
-
-2. Fichtean Development:
-   - From pure I
-   - Through self-positing
-   - To concrete action
-
-## II. Philosophical Method
-
-### A. Pure Development
-1. Necessity Structure:
-   - From absolute truth
-   - Through particular duty
-   - To practical action
-
-2. Complete Framework:
-   - Clear progression
-   - Necessary development
-   - Total vision
-
-### B. Critical Achievement
-1. Method Structure:
-   - Pure necessity
-   - Systematic development
-   - Complete understanding
-
-2. Vision Complete:
-   - Clear progression
-   - Necessary stages
-   - Total realization
-
-## III. Integration Framework
-
-### A. With Critical Philosophy
-1. Pure Method:
-   - Beyond abstraction
-   - Through determination
-   - To practical reason
-
-2. Complete Structure:
-   - Transcendental analysis
-   - Systematic development
-   - Total vision
-
-### B. With Previous Development
-1. Methodological Progress:
-   - From pure Being
-   - Through determination
-   - To practical wisdom
-
-2. Total Vision:
-   - Clear progression
-   - Complete development
-   - Final realization
-
-## IV. Practical Implications
-
-### A. For Understanding
-1. Clear Method:
-   - Beyond abstraction
-   - Through concrete duty
-   - To practical wisdom
-
-2. Complete Vision:
-   - Clear progression
-   - Necessary stages
-   - Total realization
-
-### B. For Practice
-1. Direct Application:
-   - Clear understanding
-   - Systematic development
-   - Practical wisdom
-
-2. Total Achievement:
-   - Through precise stages
-   - In necessary progression
-   - To complete realization
-
-## V. Final Integration
-
-### A. Method Complete
-1. Pure Development:
-   - From abstraction
-   - Through determination
-   - To practical wisdom
-
-2. Vision Achieved:
-   - Clear progression
-   - Systematic stages
-   - Total realization
-
-### B. Complete Framework
-1. Theoretical Structure:
-   - Pure necessity
-   - Systematic development
-   - Complete understanding
-
-2. Practical Achievement:
-   - Clear method
-   - Necessary stages
-   - Total realization
-
-## VI. Key Insights
-
-### A. Methodological
-1. Pure Necessity:
-   - Beyond abstraction
-   - Through determination
-   - To practical wisdom
-
-2. Total Vision:
-   - Clear progression
-   - Necessary stages
-   - Complete realization
-
-### B. Practical
-1. Direct Application:
-   - From understanding
-   - Through duty
-   - To wisdom
-
-2. Total Achievement:
-   - Clear method
-   - Systematic stages
-   - Complete transformation
+2. Practical Wisdom:
+   - Through ordered action
+   - Natural law
+   - Pure presence

@@ -1,87 +1,153 @@
-# BG 2.43 Śaṅkara's Commentary
+# Analysis of Bhagavad Gītā 2.43
 
-## I. Introduction
+## I. Sanskrit Text Structure
 
-### Sanskrit
-ते च —
-
-### Transliteration
-te ca —
-
-### Translation
-And they —
-
-## II. Mūla Verse
-
-### Sanskrit
+### A. Base Verse
+```sanskrit
 कामात्मानः स्वर्गपरा जन्मकर्मफलप्रदाम् ।
 क्रियाविशेषबहुलां भोगैश्वर्यगतिं प्रति ॥ ४३ ॥
+```
 
-### Transliteration
-kāmātmānaḥ svargaparā janmakarmaphalapradām |
-kriyāviśeṣabahulāṃ bhogaiśvaryagatiṃ prati || 43 ||
-
-### Translation
-Those whose nature is desire, who are intent on heaven, [speaking] that which bestows rebirth as the fruit of action, which is full of various specific rituals, directed towards the attainment of pleasure and power.
-
-## III. Śaṅkara's Commentary
-
-### Sanskrit
-कामात्मानः कामस्वभावाः, कामपरा इत्यर्थः । स्वर्गपराः स्वर्गः परः पुरुषार्थः येषां ते स्वर्गपराः स्वर्गप्रधानाः । जन्मकर्मफलप्रदां कर्मणः फलं कर्मफलं जन्मैव कर्मफलं जन्मकर्मफलं तत् प्रददातीति जन्मकर्मफलप्रदा, तां वाचम् । प्रवदन्ति इत्यनुषज्यते । क्रियाविशेषबहुलां क्रियाणां विशेषाः क्रियाविशेषाः ते बहुला यस्यां वाचि तां स्वर्गपशुपुत्राद्यर्थाः यया वाचा बाहुल्येन प्रकाश्यन्ते । भोगैश्वर्यगतिं प्रति भोगश्च ऐश्वर्यं च भोगैश्वर्ये, तयोर्गतिः प्राप्तिः भोगैश्वर्यगतिः, तां प्रति साधनभूताः ये क्रियाविशेषाः तद्बहुलां तां वाचं प्रवदन्तः मूढाः संसारे परिवर्तन्ते इत्यभिप्रायः ॥ ४३ ॥
-
-### Transliteration
-kāmātmānaḥ kāmasvabhāvāḥ, kāmaparā ityarthaḥ | svargaparāḥ svargaḥ paraḥ puruṣārthaḥ yeṣāṃ te svargaparāḥ svargaprādhānāḥ | janmakarmaphalapradāṃ karmaṇaḥ phalaṃ karmaphalaṃ janmaiva karmaphalaṃ janmakarmaphalaṃ tat pradadātīti janmakarmaphalapradā, tāṃ vācam | pravadanti ityanusajyate | kriyāviśeṣabahulāṃ kriyāṇāṃ viśeṣāḥ kriyāviśeṣāḥ te bahulā yasyāṃ vāci tāṃ svargapaśuputrādyarthāḥ yayā vācā bāhulyena prakāśyante | bhogaiśvaryagatiṃ prati bhogaśca aiśvaryaṃ ca bhogaiśvarye, tayorgatiḥ prāptiḥ bhogaiśvaryagatiḥ, tāṃ prati sādhanabhūtāḥ ye kriyāviśeṣāḥ tadbahulāṃ tāṃ vācaṃ pravadantaḥ mūḍhāḥ saṃsāre parivartante ityabhiprāyaḥ || 43 ||
-
-### Translation
-"Those whose nature is desire" means whose essential nature is desire, whose highest aim is desire. "Intent on heaven" means those for whom heaven is the highest human goal, who are primarily focused on heaven. "Bestowing rebirth as the fruit of action" - the fruit of action is karma-phala, rebirth itself is the fruit of karma, that which bestows this is janmakarmaphalapradā, referring to that speech. "Pravadanti" (they speak) is to be supplied. "Full of various specific rituals" means the specific varieties of rituals are numerous in which speech, through which speech the purposes of heaven, cattle, sons, etc. are abundantly revealed. "Directed towards the attainment of pleasure and power" - pleasure and power are bhoga and aiśvarya, their attainment or reaching is bhogaiśvaryagati, the specific rituals which are means towards that, being full of those - speaking such speech, the deluded revolve in saṃsāra is the meaning.
-
-## IV. Key Technical Terms
-
-### A. Major Compounds
+### B. Key Technical Terms
 1. कामात्मन् (kāmātman)
-   - कामस्वभाव (kāmasvabhāva)
-   - Whose essence is desire
-   - कामपर (kāmapara)
+   - Desire-natured
+   - Dominated by wants
+   - Loss of true self
 
-2. जन्मकर्मफलप्रदा (janmakarmaphalapradā)
-   - कर्मफल = fruit of action
-   - जन्मकर्मफल = rebirth as fruit
-   - प्रदा = bestowing
+2. क्रियाविशेषबहुला (kriyāviśeṣabahulā)
+   - Many special rites
+   - Multiplicity of actions
+   - Loss of unity
 
-### B. Action Terms
-1. क्रियाविशेष (kriyāviśeṣa)
-   - Specific rituals
+3. भोगैश्वर्यगति (bhogaiśvaryagati)
+   - Path to pleasure/power
+   - Empirical aims
+   - Missing true goal
+
+## II. Philosophical Structure
+
+### A. Three-fold Problem
+1. Nature Level
+   - कामात्मन् = desire-self
+   - False identification
+   - Loss of true being
+
+2. Action Level
+   - क्रियाविशेष = special rites
+   - Multiple activities
+   - Missing unity
+
+3. Goal Level
+   - भोगैश्वर्य = pleasure/power
+   - Empirical aims
+   - Loss of transcendence
+
+### B. Progressive Development
+1. From False Self
+   - Desire-based nature
+   - Through actions
+   - To limited goals
+
+2. Missing Truth
+   - True nature
+   - Unified action
+   - Real aim
+
+## III. Connection to Previous Verses
+
+### A. Development of Critique
+1. From Verbal Level (2.42)
+   - Flowery speech
+   - Missing meaning
+   - Surface understanding
+
+2. To Action Level (2.43)
+   - Multiple rites
+   - Dispersed activity
+   - Loss of unity
+
+### B. Progressive Loss
+1. Of Understanding
+   - Through false words
+   - To wrong action
+   - Missing truth
+
+2. Of Unity
+   - Multiple desires
    - Various rites
-   - Ritual details
+   - Scattered aims
 
-2. भोगैश्वर्यगति (bhogaiśvaryagati)
-   - भोग = enjoyment
-   - ऐश्वर्य = power
-   - गति = attainment
+## IV. Technical Framework
 
-## V. Commentary Structure
+### A. False Self Structure
+1. Desire Nature
+   - कामात्मन् = desire-self
+   - Wrong identification
+   - Loss of truth
 
-### A. Term Analysis
-1. Progressive Definition:
-   - Initial term
-   - Synonym explanation
-   - Technical meaning
+2. Result Framework
+   - जन्मकर्मफलप्रद = giving birth-action-fruits
+   - Causal chain
+   - Bondage structure
 
-2. Compound Resolution:
-   - Component analysis
-   - Meaning synthesis
-   - Contextual application
+### B. Action Problem
+1. Multiplicity
+   - क्रियाविशेष = special rites
+   - Various means
+   - Loss of unity
 
-### B. Philosophical Import
-1. Nature of Bondage:
-   - Through desire (काम)
-   - Through action (कर्म)
-   - Through rebirth (जन्म)
+2. Goal Structure
+   - भोगैश्वर्य = pleasure/power
+   - Limited aims
+   - Missing truth
 
-2. Path of Liberation:
-   - Beyond desire
-   - Beyond ritual
-   - Beyond rebirth
+## V. Trans-Idealist Analysis
+
+### A. False Self Problem
+1. Nature
+   - Wrong identification
+   - Desire-based
+   - Missing truth
+
+2. Resolution
+   - Through understanding
+   - To true self
+   - Original unity
+
+### B. Action Structure
+1. Multiple Activities
+   - Special rites
+   - Various means
+   - Loss of unity
+
+2. True Integration
+   - Beyond multiplicity
+   - Through understanding
+   - Original synthesis
+
+## VI. Practical Implementation
+
+### A. Recognition Process
+1. Of False Structure
+   - Desire-based self
+   - Multiple actions
+   - Limited aims
+
+2. Beyond Limitation
+   - To true nature
+   - Unified action
+   - Real goal
+
+### B. Resolution Path
+1. Not Through
+   - Multiple desires
+   - Various rites
+   - Limited aims
+
+2. But Through
+   - True understanding
+   - Unified action
+   - Original goal
 
 # Analysis of Śaṅkara's Commentary on BG 2.43
 
