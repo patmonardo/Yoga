@@ -1,3 +1,4 @@
+
 ## Samapatti
 
 ### 1. **The Self-Positing Ego and *Samapatti***

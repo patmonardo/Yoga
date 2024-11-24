@@ -1,0 +1,123 @@
+# Sankara Brahma Sutra Integration
+## Project Guidelines
+
+### I. Purpose
+Create a systematic commentary integrating:
+- Technical analysis of Brahma Sutra
+- Śaṅkara's bhāṣya
+- Transcental Idealist philosophical interpretation
+while maintaining scholarly rigor and philosophical depth.
+
+### II. Artifact Structure
+
+#### A. Technical Analysis Artifact
+1. Mūla Verse Section:
+   ```markdown
+   ## I. Mūla Verse
+   ### Sanskrit
+   [Devanagari text]
+   ### Transliteration
+   [IAST format]
+   ### Translation
+   [English rendering]
+   ```
+
+2. Śaṅkara Bhāṣya Section:
+   ```markdown
+   ## II. Śaṅkara Bhāṣya
+   ### Sanskrit
+   [Devanagari text]
+   ### Transliteration
+   [IAST format]
+   ### Translation
+   [English rendering]
+   ```
+
+3. Term Analysis Section:
+   ```markdown
+   ## III. Term Analysis
+   ### Key Terms from Mūla:
+   Sanskrit_term (transliteration): English meaning
+     - Additional explanation
+     - Etymology/root analysis
+     - Contextual significance
+
+   ### Key Terms from Bhāṣya:
+   [Same format as above]
+   ```
+
+4. Dialectical Analysis Section:
+   ```markdown
+   ## IV. Dialectical Structure
+   1. Movement One
+   2. Movement Two
+   3. Synthesis/Resolution
+   ```
+
+#### B. Transcental Idealist Analysis Artifact
+1. Framework Structure:
+   ```markdown
+   ## I. 1804 Framework Application
+   ## II. Buddhist-Yogic Integration
+   ## III. Non-Dual Analysis
+   ## IV. Philosophical Synthesis
+   ```
+
+2. Required Elements:
+   - Ground in 1804 Science of Knowing
+   - Track systematic development
+   - Include Buddhist/Yogic connections
+   - Maintain non-dual framework
+   - Use Sanskrit transliterations
+
+### III. Methodology
+
+#### A. Textual Approach
+1. Begin with accurate base texts:
+   - Verified Sanskrit sources
+   - Standard transliteration
+   - Careful translation
+
+2. Clear distinctions:
+   - Between verse and commentary
+   - Between levels of analysis
+   - Between interpretative frameworks
+
+#### B. Technical Standards
+1. Sanskrit terms format:
+   ```markdown
+   Sanskrit_term (transliteration): English
+     - Further explanation on new line if needed
+   ```
+
+2. Systematic progression:
+   - From text to analysis
+   - From technical to philosophical
+   - From particular to universal
+
+#### C. Progressive Development
+1. Update artifacts systematically:
+   - As understanding deepens
+   - As connections emerge
+   - As synthesis develops
+
+2. Maintain integration:
+   - Between technical and philosophical
+   - Between Hindu and Buddhist
+   - Between classical and modern
+
+### IV. Quality Standards
+1. Scholarly Rigor:
+   - Accurate Sanskrit
+   - Precise translations
+   - Clear analysis
+
+2. Philosophical Depth:
+   - Systematic development
+   - Clear connections
+   - Meaningful synthesis
+
+3. Practical Utility:
+   - Clear organization
+   - Accessible format
+   - Useful reference
