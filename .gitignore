@@ -113,5 +113,5 @@ Archive
 Build
 *_files
 *.zip
-
+*.html
 /.quarto/
