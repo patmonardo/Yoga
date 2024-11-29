@@ -1,4 +1,4 @@
-### **Segmenting the First Section of Śaṅkara’s Commentary**
+## **Segmenting the First Section of Śaṅkara’s Commentary**
 
 ---
 
@@ -73,8 +73,7 @@ This first segment from Śaṅkara emphasizes that Brahman is known solely throu
 
 ---
 
-Would you like to proceed with further segments or analyze specific sections in more detail?
-### **Detailed Analysis of Section 1**
+## **Detailed Analysis of Section 1**
 
 ---
 
@@ -168,8 +167,7 @@ Would you like to proceed with further segments or analyze specific sections in 
 
 ---
 
-Would you like to proceed with analyzing the next section or further refine this analysis?
-### **Analysis of Section 2**
+## **Analysis of Section 2**
 
 ---
 
@@ -260,8 +258,7 @@ Would you like to proceed with analyzing the next section or further refine this
 
 ---
 
-Would you like to proceed to Section 3 or further refine this analysis?
-### **Analysis of Section 3**
+## **Analysis of Section 3**
 
 ---
 
@@ -381,8 +378,7 @@ Would you like to proceed to Section 3 or further refine this analysis?
 
 ---
 
-Would you like to proceed to summarizing the entire commentary or explore another specific section?
-### **Analysis of Section 1: Distinction Between Karma and Brahman-Knowledge**
+## **Analysis of Section 1: Distinction Between Karma and Brahman-Knowledge**
 
 ---
 
@@ -474,8 +470,7 @@ This section establishes the fundamental distinction between karma and Brahman-k
 
 ---
 
-Would you like to proceed to Section 2 or further refine this analysis?
-### **Analysis of Section 2: Nature of Mokṣa**
+## **Analysis of Section 2: Nature of Mokṣa**
 
 ---
 
@@ -577,8 +572,7 @@ Mokṣa, as described in this section, is the realization of the self as eternal
 
 ---
 
-Would you like to proceed to Section 3 or refine this analysis further?
-### **Analysis of Section 3: Refutation of Mokṣa as a Product or Modification**
+## **Analysis of Section 3: Refutation of Mokṣa as a Product or Modification**
 
 ---
 
@@ -686,8 +680,7 @@ Mokṣa is not a product, modification, or attainment but the inherent, eternal 
 
 ---
 
-Would you like to proceed to Section 4 or refine this analysis?
-### **Analysis of Section 4: Distinction Between Knowledge and Action**
+## **Analysis of Section 4: Distinction Between Knowledge and Action**
 
 ---
 
@@ -789,8 +782,7 @@ This section establishes the fundamental difference between knowledge and action
 
 ---
 
-Would you like to proceed to Section 5 or further elaborate on this analysis?
-### **Analysis of Section 5: Upaniṣadic Instructions and Their Purpose**
+## **Analysis of Section 5: Upaniṣadic Instructions and Their Purpose**
 
 ---
 
@@ -889,9 +881,7 @@ The Upaniṣadic injunction-like statements serve to redirect the seeker from ex
 
 ---
 
-Would you like to proceed to Section 6 or refine this analysis further?
-
-### **Analysis of Section 6: Liberation as the Fulfillment of All Duties**
+## **Analysis of Section 6: Liberation as the Fulfillment of All Duties**
 
 ---
 
@@ -1094,8 +1084,7 @@ This section concludes that liberation is not achieved through action but throug
 
 ---
 
-Would you like to summarize the entire passage, proceed with further analysis, or refine this section?
-### **Analysis of Section 1: Refutation of Vedas as Purely Action-Oriented**
+## **Analysis of Section 1: Refutation of Vedas as Purely Action-Oriented**
 
 ---
 
@@ -1200,8 +1189,7 @@ Would you like to summarize the entire passage, proceed with further analysis, o
 
 ---
 
-Would you like to proceed to Section 2 or refine this section further?
-### **Analysis of Section 2: Realities and the Scriptural Purpose**
+## **Analysis of Section 2: Realities and the Scriptural Purpose**
 
 ---
 
@@ -1288,8 +1276,7 @@ In this section, Śaṅkara addresses the distinction between scriptural instruc
 
 ---
 
-Would you like to proceed to Section 3 or refine this section further?
-### **Analysis of Section 3: The Role of Prohibitive Statements in Vedānta**
+## **Analysis of Section 3: The Role of Prohibitive Statements in Vedānta**
 
 ---
 
@@ -1375,8 +1362,7 @@ Would you like to proceed to Section 3 or refine this section further?
 
 ---
 
-Would you like to proceed to Section 4 or refine this section further?
-### **Analysis of Section 4: Realities, Prohibitions, and Their Purpose**
+## **Analysis of Section 4: Realities, Prohibitions, and Their Purpose**
 
 ---
 
@@ -1465,8 +1451,7 @@ In this section, Śaṅkara explains the intrinsic nature of prohibitive stateme
 
 ---
 
-Would you like to proceed to Section 5 or refine this section further?
-### **Analysis of Section 5: Realities as Intrinsic and Knowledge-Based**
+## **Analysis of Section 5: Realities as Intrinsic and Knowledge-Based**
 
 ---
 
@@ -1552,8 +1537,7 @@ In this section, Śaṅkara underscores that teachings about intrinsic realities
 
 ---
 
-Would you like to proceed to Section 6 or refine this section further?
-### **Analysis of Final Passage: Affirmation of Vedānta’s Independent Authority**
+## **Analysis of Final Passage: Affirmation of Vedānta’s Independent Authority**
 
 ---
 

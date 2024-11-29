@@ -80,8 +80,7 @@
 
 ---
 
-Would you like to proceed with the **Bhasya analysis**?
-### **Analysis of Section 1: Refutation of Pradhāna as Cause**
+## **Analysis of Section 1: Refutation of Pradhāna as Cause**
 
 ---
 
@@ -129,8 +128,7 @@ Would you like to proceed with the **Bhasya analysis**?
 ### **Conclusion**
 Section 1 sets the stage for Śaṅkara’s comprehensive critique of Sāṅkhya by rejecting *Pradhāna* as both unscriptural and inconsistent with Vedāntic philosophy. The emphasis on Śruti authority and the primacy of consciousness underscores the foundational differences between Sāṅkhya and Vedānta.
 
-Would you like to proceed with **Section 2**?
-### **Analysis of Section 2: Scriptural Basis for a Conscious Cause**
+## **Analysis of Section 2: Scriptural Basis for a Conscious Cause**
 
 ---
 
@@ -183,8 +181,7 @@ In this section, Śaṅkara begins his scriptural defense against the Sāṅkhya
 ### **Conclusion**
 Section 2 further dismantles the Sāṅkhya argument by demonstrating that the Upaniṣads explicitly describe a conscious and intentional creator. Śaṅkara effectively establishes that *Pradhāna* is incompatible with the Vedāntic framework of creation as deliberate and purposeful.
 
-Would you like to proceed with **Section 3**?
-### **Analysis of Section 3: Supporting Texts for Brahman’s Deliberation**
+## **Analysis of Section 3: Supporting Texts for Brahman’s Deliberation**
 
 ---
 
@@ -239,8 +236,7 @@ Would you like to proceed with **Section 3**?
 ### **Conclusion**
 Section 3 reinforces Śaṅkara’s argument by demonstrating how the Upaniṣads consistently describe Brahman as the conscious substratum of the universe. The deliberate act of creation (*īkṣaṇa*) and the transformation of *sat* into differentiated existence highlight Brahman’s unique role as the sole cause of creation, further invalidating the Sāṅkhya concept of *Pradhāna*.
 
-Would you like to move to **Section 4**?
-### **Analysis of Section 4: Additional Scriptural References**
+## **Analysis of Section 4: Additional Scriptural References**
 
 ---
 
@@ -292,8 +288,7 @@ Would you like to move to **Section 4**?
 ### **Conclusion**
 Section 4 provides additional scriptural validation for Brahman as the conscious and intentional cause of the universe. By citing multiple Upaniṣadic references, Śaṅkara reinforces the Vedāntic stance and eliminates any room for *Pradhāna* as a plausible alternative.
 
-Would you like to proceed with **Section 5**?
-### **Analysis of Section 5: Technical Clarification of *Ikṣateḥ***
+## **Analysis of Section 5: Technical Clarification of *Ikṣateḥ***
 
 ---
 
@@ -341,8 +336,7 @@ Would you like to proceed with **Section 5**?
 ### **Conclusion**
 Section 5 reinforces Śaṅkara’s argument by focusing on the technical meaning of *īkṣateḥ* as a deliberate act of seeing or willing. This clarification further invalidates the Sāṅkhya concept of *Pradhāna* as an inert cause and underscores the Vedāntic view of Brahman as a conscious, intentional creator.
 
-Would you like to continue with **Section 6**?
-### **Analysis of Section 6: Final Scriptural Support**
+## **Analysis of Section 6: Final Scriptural Support**
 
 ---
 
@@ -393,8 +387,7 @@ Would you like to continue with **Section 6**?
 ### **Conclusion**
 Section 6 concludes Śaṅkara’s argument by introducing further scriptural support for Brahman as the conscious and intentional cause of the universe. These references consolidate the Vedāntic view of creation as a deliberate act by an omniscient and omnipotent Brahman, further invalidating the inert and unconscious *Pradhāna* as a plausible alternative.
 
-Would you like to move on to summarizing the entire passage or proceed to the next segment?
-### **Analysis of Section 1: Refutation of Sāṅkhya's Claim on *Sattva*-Based Omniscience**
+## **Analysis of Section 1: Refutation of Sāṅkhya's Claim on *Sattva*-Based Omniscience**
 
 ---
 
@@ -439,8 +432,7 @@ Would you like to move on to summarizing the entire passage or proceed to the ne
 ### **Conclusion**
 Śaṅkara effectively dismantles the Sāṅkhya claim that *Pradhāna* can achieve omniscience through *sattva*. He highlights the logical inconsistencies in the argument and emphasizes the impossibility of knowledge arising from an unconscious, balanced state of *guṇas*. This sets the stage for a broader critique of *Pradhāna* as a valid cosmic cause.
 
-Would you like to continue with **Section 2**?
-### **Analysis of Section 2: Rejection of the Knowledge-Restricting Powers of *Pradhāna***
+## **Analysis of Section 2: Rejection of the Knowledge-Restricting Powers of *Pradhāna***
 
 ---
 
@@ -485,8 +477,7 @@ Would you like to continue with **Section 2**?
 ### **Conclusion**
 Śaṅkara demonstrates that the Sāṅkhya attribution of omniscience to *Pradhāna* through *sattva* is fundamentally flawed. The co-existence of knowledge-promoting and obstructing powers in *Pradhāna* creates logical inconsistencies, disqualifying it as a source of true omniscience. This reinforces the Vedāntic argument for a conscious Brahman as the ultimate cause of the universe.
 
-Would you like to proceed with **Section 3**?
-### **Analysis of Section 3: Consciousness as Essential for Knowledge**
+## **Analysis of Section 3: Consciousness as Essential for Knowledge**
 
 ---
 
@@ -578,8 +569,7 @@ In this section, Śaṅkara refutes the Sāṅkhya argument that *Pradhāna’s*
 ### **Conclusion**
 Śaṅkara discredits the analogy of *Pradhāna’s* knowledge to yogins or to instruments empowered by external forces. He establishes that *Pradhāna*, lacking inherent consciousness, cannot serve as the ultimate cause of knowledge or omniscience. This further solidifies the Vedāntic view that Brahman, as the sole conscious principle, is the true substratum of omniscience and universal causality.
 
-Would you like to proceed with **Section 5**?
-### **Analysis of Section 5: Defense of Brahman’s Omniscience Against Sāṅkhya Objections**
+## **Analysis of Section 5: Defense of Brahman’s Omniscience Against Sāṅkhya Objections**
 
 ---
 
@@ -625,8 +615,7 @@ In this section, Śaṅkara addresses the Sāṅkhya objection that Brahman’s 
 ### **Conclusion**
 Śaṅkara dismantles the Sāṅkhya objection that eternal knowledge compromises Brahman’s freedom. He clarifies that Brahman’s omniscience is intrinsic and independent, rooted in its very nature. This refutation further establishes Brahman’s unique status as the conscious and ultimate cause of the universe.
 
-Would you like to proceed with **Section 6**?
-### **Analysis of Section 6: Clarification of Brahman’s Eternal Omniscience**
+## **Analysis of Section 6: Clarification of Brahman’s Eternal Omniscience**
 
 ---
 
@@ -673,8 +662,7 @@ Would you like to proceed with **Section 6**?
 ### **Conclusion**
 Śaṅkara effectively dismantles the Sāṅkhya objection by affirming that Brahman’s eternal knowledge is consistent with its omniscience and independence. This section underscores the Vedāntic position that Brahman is fundamentally distinct from inert entities like *Pradhāna* and is the only viable candidate for the ultimate cause of the universe.
 
-Would you like to proceed with further analysis or begin the next segment?
-### **Analysis of Section 1: Rejection of Pradhāna’s Omniscience by Analogy**
+## **Analysis of Section 1: Rejection of Pradhāna’s Omniscience by Analogy**
 
 ---
 
@@ -720,8 +708,7 @@ This section focuses on refuting the Sāṅkhya argument that *Pradhāna*—an i
 ### **Conclusion**
 In this section, Śaṅkara firmly establishes that *Pradhāna* cannot be reconciled with Vedāntic teachings, paving the way for the assertion of Brahman as the ultimate cause. The dependency on *īksitṛtvam* as a defining criterion highlights the centrality of consciousness in Vedāntic cosmology.
 
-Would you like to proceed to Section 2?
-### **Analysis of Section 2: Brahman’s Knowledge Without Instruments**
+## **Analysis of Section 2: Brahman’s Knowledge Without Instruments**
 
 ---
 
@@ -770,8 +757,7 @@ This section addresses the objection raised by the Sāṅkhya school: how can Br
 ### **Conclusion**
 Śaṅkara successfully counters the objection that Brahman’s lack of bodily instruments renders it incapable of knowledge or creation. By emphasizing Brahman’s inherent and eternal knowledge, this section solidifies Brahman’s status as the conscious and intentional cause of the universe.
 
-Would you like to move to Section 3?
-### **Analysis of Section 3: Refutation of Sāṅkhya’s Mechanistic Knowledge Attribution**
+## **Analysis of Section 3: Refutation of Sāṅkhya’s Mechanistic Knowledge Attribution**
 
 ---
 
@@ -820,8 +806,7 @@ In this section, Śaṅkara addresses the Sāṅkhya argument that *Pradhāna*, 
 ### **Conclusion**
 This section decisively refutes the Sāṅkhya position by demonstrating the necessity of consciousness for knowledge and omniscience. Śaṅkara reinforces the Vedāntic position that Brahman, not *Pradhāna*, is the true omniscient cause.
 
-Would you like to continue with Section 4?
-### **Analysis of Section 4: Brahman’s Independent Knowledge and Omniscience**
+## **Analysis of Section 4: Brahman’s Independent Knowledge and Omniscience**
 
 ---
 
@@ -868,8 +853,7 @@ In this section, Śaṅkara continues his refutation of the Sāṅkhya position 
 ### **Conclusion**
 Śaṅkara effectively demonstrates that Sāṅkhya’s attempt to attribute *īksitṛtvam* to *Pradhāna* through a conscious witness only reinforces Brahman’s supremacy as the independent, omniscient cause. This section further solidifies the Vedāntic argument against the Sāṅkhya position.
 
-Would you like to proceed with Section 5?
-### **Analysis of Section 5: Brahman’s Eternal Knowledge and the Misconception of Its Limitation**
+## **Analysis of Section 5: Brahman’s Eternal Knowledge and the Misconception of Its Limitation**
 
 ---
 
@@ -918,8 +902,7 @@ This section addresses the Sāṅkhya claim that Brahman’s eternal knowledge (
 ### **Conclusion**
 Śaṅkara dismantles the Sāṅkhya objection by affirming that Brahman’s eternal knowledge is not a limitation but the very reason for its omniscience. The argument strengthens the Vedāntic position that Brahman is the self-sufficient, ultimate cause, inherently free and all-knowing.
 
-Would you like to move to Section 6?
-### **Analysis of Section 6: Rebuttal to Sāṅkhya’s View of Brahman’s Dependency on Instruments**
+## **Analysis of Section 6: Rebuttal to Sāṅkhya’s View of Brahman’s Dependency on Instruments**
 
 ---
 
@@ -973,8 +956,7 @@ In this final section, Śaṅkara addresses a critical Sāṅkhya objection: Bra
 ### **Conclusion**
 Śaṅkara concludes by reaffirming that Brahman’s omniscience and omnipotence are inherent and independent, refuting the Sāṅkhya view that these require external instruments. The section strengthens the Vedāntic position that Brahman is the unconditioned, eternal, and self-sufficient cause of the universe.
 
-Would you like a summary of the entire Sutra and its analysis?
-### **Summary of Sutra 5: Refutation of Sāṅkhya’s Pradhāna**
+## **Summary of Sutra 5: Refutation of Sāṅkhya’s Pradhāna**
 
 ---
 
@@ -1020,5 +1002,3 @@ The Sutra *“Īkṣaternāśabdam”* establishes that the Vedāntic Brahman, n
 
 ### **Concluding Significance**
 Sutra 5 firmly establishes Brahman as the sole intelligent cause of the universe, refuting Pradhāna’s claim to causality. Śaṅkara’s exhaustive commentary sets the stage for further debates with other schools while affirming the Vedāntic view of an omniscient, independent Brahman as the foundation of all existence.
-
-Would you like to proceed to Sutra 6 or revisit any key arguments?

@@ -179,6 +179,7 @@ By one goes to non-return, by the other returns again.
    - Non-return vs return
    - Perfect distinction
    - Complete understanding
+
 # Trans-Idealist Analysis: The Absolute Distinction of Return and Non-Return
 
 ## I. 1804 Framework Application

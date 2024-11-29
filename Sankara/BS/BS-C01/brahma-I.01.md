@@ -1,4 +1,4 @@
-### **Section 1: Definition and Nature of Adhyāsa**
+## **Section 1: Definition and Nature of Adhyāsa**
 
 #### **Sanskrit (Devanagari):**
 > युष्मदस्मत्प्रत्ययगोचरयोर्विषयविषयिणोस्तमःप्रकाशवद्विरुद्धस्वभावयोरितरेतरभावानुपपत्तौ सिद्धायाम्, तद्धर्माणामपि सुतरामितरेतरभावानुपपत्तिः — इत्यतः अस्मत्प्रत्ययगोचरे विषयिणि चिदात्मके युष्मत्प्रत्ययगोचरस्य विषयस्य तद्धर्माणां चाध्यासः तद्विपर्ययेण विषयिणस्तद्धर्माणां च विषयेऽध्यासो मिथ्येति भवितुं युक्तम्।
@@ -66,9 +66,7 @@
 ### **Conclusion for Section 1:**
 Śaṅkara defines **adhyāsa** as the mutual superimposition of attributes between the subject (self) and the object (non-self). This error, driven by ignorance, forms the basis of all empirical interactions and misperceptions in the world. Understanding and dissolving this adhyāsa is the first step in realizing the non-dual self.
 
-Let me know if you’d like any refinements or if we should proceed to the next section!
-
-### **Section 2: Philosophical Objection and Śaṅkara’s Response**
+## **Section 2: Philosophical Objection and Śaṅkara’s Response**
 
 ---
 
@@ -142,8 +140,7 @@ Let me know if you’d like any refinements or if we should proceed to the next 
 ### **Conclusion for Section 2:**
 Śaṅkara systematically defines **adhyāsa** as the erroneous superimposition caused by ignorance. By providing relatable examples (nacre-silver, double moon), he bridges abstract philosophical ideas with tangible experiences, preparing the ground for deeper arguments. This section reinforces the centrality of ignorance in perpetuating the illusion of duality.
 
-Should we move to **Section 3: Examples and Illustrations of Adhyāsa**?
-### **Section 3: Examples and Illustrations of Adhyāsa**
+## **Section 3: Examples and Illustrations of Adhyāsa**
 
 ---
 
@@ -215,8 +212,7 @@ Should we move to **Section 3: Examples and Illustrations of Adhyāsa**?
 
 ---
 
-Should we proceed to **Section 4: Adhyāsa and the Self**? This section will delve into how superimposition specifically applies to the **pratyagātmā** (inner self).
-### **Section 4: Adhyāsa and the Self**
+## **Section 4: Adhyāsa and the Self**
 
 ---
 
@@ -306,8 +302,7 @@ Thus, it is not contradictory that the non-self (anātman) is superimposed upon 
 
 ---
 
-Should we proceed to **Section 5: Practical Implications of Adhyāsa**? This section explores how superimposition underpins worldly and scriptural practices.
-### **Section 5: Practical Implications of Adhyāsa**
+## **Section 5: Practical Implications of Adhyāsa**
 
 ---
 
@@ -394,8 +389,7 @@ Indeed, all scriptures concerned with injunctions, prohibitions, and liberation 
 
 ---
 
-Should we move to **Section 6: Resolution through Knowledge**, or would you like to refine this section further?
-### **Section 6: Resolution Through Knowledge**
+## **Section 6: Resolution Through Knowledge**
 
 ---
 
@@ -477,9 +471,7 @@ The purport of all Vedāntas is the same, and we will demonstrate this in the pr
 
 ---
 
-This marks the conclusion of Śaṅkara's introduction to the Brahma Sutra. Should we proceed with analyzing **Sutra I.1.1**, or would you like to refine this section further?
-
-### **Analysis Plan for Sutra I.1.1 and Śaṅkara’s Bhāṣya**
+## **Analysis Plan for Sutra I.1.1 and Śaṅkara’s Bhāṣya**
 
 The sutra and commentary for **Brahma Sutra I.1.1 (Jijñāsādhikaraṇam)** is dense and layered with philosophical significance. To effectively analyze it, we will proceed section-by-section as follows:
 
@@ -524,7 +516,7 @@ The sutra and commentary for **Brahma Sutra I.1.1 (Jijñāsādhikaraṇam)** is 
 
 ---
 
-### **Section 1: The Meaning of the Sutra**
+## **Section 1: The Meaning of the Sutra**
 
 #### **Sanskrit (Devanagari):**
 > अथातो ब्रह्मजिज्ञासा ॥
@@ -592,8 +584,7 @@ The first sutra, "Athāto brahmajijñāsā," succinctly establishes the purpose 
 
 ---
 
-Should we proceed to **Section 2: Prerequisites for Brahmajijñāsā**, or refine this section further?
-### **Section 2: Prerequisites for Brahmajijñāsā**
+## **Section 2: Prerequisites for Brahmajijñāsā**
 
 ---
 
@@ -677,8 +668,7 @@ Should we proceed to **Section 2: Prerequisites for Brahmajijñāsā**, or refin
 
 ---
 
-Should we move to **Section 3: Purpose and Scope of Brahmajijñāsā**, or refine this section further?
-### **Section 3: Purpose and Scope of Brahmajijñāsā**
+## **Section 3: Purpose and Scope of Brahmajijñāsā**
 
 ---
 
@@ -784,8 +774,7 @@ The purpose of Brahmajijñāsā is distinct from other inquiries like dharmajij�
 
 ---
 
-Should we proceed to **Section 4: Nature of Brahman**, or refine this section further?
-### **Section 4: Nature of Brahman**
+## **Section 4: Nature of Brahman**
 
 ---
 
@@ -886,9 +875,7 @@ Should we proceed to **Section 4: Nature of Brahman**, or refine this section fu
 
 ---
 
-Should we move to **Section 5: Common Misconceptions About Brahman**, or refine this section further?
-
-### **Section 5: Common Misconceptions About Brahman**
+## **Section 5: Common Misconceptions About Brahman**
 
 ---
 
@@ -992,8 +979,7 @@ Should we move to **Section 5: Common Misconceptions About Brahman**, or refine 
 
 ---
 
-Shall we proceed to **Section 6: The Need for Inquiry**, or refine this section further?
-### **Section 6: The Need for Inquiry**
+## **Section 6: The Need for Inquiry**
 
 ---
 

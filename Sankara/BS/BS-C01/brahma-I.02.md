@@ -1,4 +1,4 @@
-### **Segment 1: The Sutra and Its Immediate Context**
+## **Segment 1: The Sutra and Its Immediate Context**
 
 ---
 
@@ -111,8 +111,7 @@ The second sūtra introduces Brahman’s defining characteristic as the ultimate
 
 ---
 
-Shall we proceed to **Segment 2: Analysis of "Janma-Adi"**, or refine this segment further?
-### **Segment 2: Analysis of "Janma-Adi"**
+## **Segment 2: Analysis of "Janma-Adi"**
 
 ---
 
@@ -232,8 +231,7 @@ The analysis of "janma-ādi" highlights Brahman as the ultimate cause of the uni
 
 ---
 
-Shall we proceed to **Segment 3: Brahman as the Cause**, or refine this segment further?
-### **Segment 3: Brahman as the Cause**
+## **Segment 3: Brahman as the Cause**
 
 ---
 
@@ -354,8 +352,7 @@ Shall we proceed to **Segment 3: Brahman as the Cause**, or refine this segment 
 
 ---
 
-Shall we proceed to **Segment 4: Scriptural and Logical Basis**, or refine this segment further?
-### **Segment 4: Scriptural and Logical Basis**
+## **Segment 4: Scriptural and Logical Basis**
 
 ---
 
@@ -483,8 +480,7 @@ Shall we proceed to **Segment 4: Scriptural and Logical Basis**, or refine this 
 
 ---
 
-Shall we proceed to **Segment 5: Vedāntic Exposition of Brahman**, or refine this segment further?
-### **Segment 5: Vedāntic Exposition of Brahman**
+## **Segment 5: Vedāntic Exposition of Brahman**
 
 ---
 
@@ -612,8 +608,7 @@ The Taittirīya Upaniṣad’s exposition of Brahman aligns perfectly with the s
 
 ---
 
-Shall we proceed to **Segment 6: Rejection of Alternate Causal Theories**, or refine this segment further?
-### **Segment 6: Rejection of Alternate Causal Theories**
+## **Segment 6: Rejection of Alternate Causal Theories**
 
 ---
 
@@ -732,8 +727,7 @@ Shall we proceed to **Segment 6: Rejection of Alternate Causal Theories**, or re
 
 ---
 
-Shall we proceed to **Segment 7: Brahman Knowledge as Objectively True**, or refine this segment further?
-### **Segment 7: Brahman Knowledge as Objectively True**
+## **Segment 7: Brahman Knowledge as Objectively True**
 
 ---
 
@@ -869,8 +863,7 @@ Shall we proceed to **Segment 7: Brahman Knowledge as Objectively True**, or ref
 
 ---
 
-Would you like to summarize the entire analysis of Sutra I.1.2 or proceed with further elaborations?
-### **Summary of Brahma Sutra I.1.2 and Śaṅkara’s Bhāṣya**
+## **Summary of Brahma Sutra I.1.2 and Śaṅkara’s Bhāṣya**
 
 ---
 
@@ -946,7 +939,3 @@ The second sūtra defines Brahman as the ultimate cause of the universe, answeri
 
 ### **Conclusion:**
 Brahma Sutra I.1.2 establishes Brahman as the ultimate cause of the universe’s origin, sustenance, and dissolution, aligning with the Upaniṣadic vision of non-dual reality. Śaṅkara’s commentary reinforces this definition by refuting alternative causal theories and emphasizing the objectivity of Brahman-knowledge. This sūtra serves as a cornerstone for understanding the nature of Brahman and the purpose of its inquiry.
-
----
-
-Would you like to proceed to the next sūtra (I.1.3: Śāstra-Yonitvāt) or refine any part of this summary?
