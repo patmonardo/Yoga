@@ -1,0 +1,9 @@
+project:
+  output-dir: Build
+
+toc: true
+
+format:
+  typst:
+    toc: true
+
