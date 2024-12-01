@@ -4,17 +4,17 @@
 
 ### **Sanskrit**
 
-**य एनं वेत्ति हन्तारं यश्चैनं मन्यते हतम् ।
-उभौ तौ न विजानीतो नायं हन्ति न हन्यते ॥ २.१९ ॥**
+*य एनं वेत्ति हन्तारं यश्चैनं मन्यते हतम् ।
+उभौ तौ न विजानीतो नायं हन्ति न हन्यते ॥ २.१९ ॥*
 
 ### **Transliteration**
 
-**ya enaṁ vetti hantāraṁ yaś cainaṁ manyate hatam |
-ubhau tau na vijānīto nāyaṁ hanti na hanyate || 2.19 ||**
+*ya enaṁ vetti hantāraṁ yaś cainaṁ manyate hatam |
+ubhau tau na vijānīto nāyaṁ hanti na hanyate || 2.19 ||*
 
 ### **Translation**
 
-**"He who thinks this Self to be the slayer and he who thinks it to be slain—both of them do not know; this Self neither slays nor is slain."**
+*"He who thinks this Self to be the slayer and he who thinks it to be slain—both of them do not know; this Self neither slays nor is slain."*
 
 ---
 
