@@ -1,4 +1,4 @@
-# Technical Analysis: Bhagavad Gītā 2.72
+# Bhagavad Gītā 2.72
 
 ## I. Sanskrit Analysis
 
@@ -190,7 +190,7 @@
    - Knowledge path
    - Complete integration
 
-# Technical Analysis: Śaṅkara's Commentary on BG 2.72
+# Śaṅkara's Commentary on BG 2.72
 
 ## I. Opening Framework
 

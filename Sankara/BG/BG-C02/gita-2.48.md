@@ -1,4 +1,4 @@
-# Analysis of Bhagavad Gītā 2.48
+# Bhagavad Gītā 2.48
 
 ## I. Sanskrit Text Structure
 
@@ -143,7 +143,8 @@
    - Yoga as समत्व
    - Pure stability
    - Original synthesis
-# Analysis of Śaṅkara's Commentary on BG 2.48
+
+# Śaṅkara's Commentary on BG 2.48
 
 ## I. Opening Framework
 

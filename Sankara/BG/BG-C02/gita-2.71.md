@@ -1,4 +1,4 @@
-# Technical Analysis: Bhagavad Gītā 2.71
+# Bhagavad Gītā 2.71
 
 ## I. Sanskrit Analysis
 
@@ -187,7 +187,7 @@
    - Perfect spontaneity
    - Original freedom
 
-# Technical Analysis: Śaṅkara's Commentary on BG 2.71
+# Śaṅkara's Commentary on BG 2.71
 
 ## I. Opening Structure
 

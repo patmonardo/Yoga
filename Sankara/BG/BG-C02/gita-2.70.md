@@ -1,4 +1,4 @@
-# Technical Analysis: Bhagavad Gītā 2.70
+# Bhagavad Gītā 2.70
 
 ## I. Sanskrit Analysis
 
@@ -182,7 +182,8 @@
    - Through discrimination
    - Complete absorption
    - Perfect stability
-# Technical Analysis: Śaṅkara's Commentary on BG 2.70
+
+# Śaṅkara's Commentary on BG 2.70
 
 ## I. Opening Framework
 
