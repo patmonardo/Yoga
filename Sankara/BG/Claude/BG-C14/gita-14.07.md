@@ -47,6 +47,7 @@ Know rajas to be of the nature of passion, arising from craving and attachment. 
    - From desire to attachment
    - From attachment to action
    - From action to bondage
+
 # Śaṅkara Commentary Analysis: BG 14.7
 
 ## I. Main Commentary Text
@@ -111,5 +112,3 @@ Know rajas to be of the nature of passion, from coloring (rañjana), having pass
    - Complete desire cycle
    - Total action involvement
    - Full binding process
-
-

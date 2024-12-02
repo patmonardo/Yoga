@@ -151,6 +151,7 @@ kṣetrajñeśvaraikatvaviṣayaṃ jñānaṃ mokṣasādhanam 'yajjñātvām�
    - Precise inquiry
    - Seeking cause
    - For explanation
+
 # Bhagavad Gītā 13.26 - Section II
 ## Analysis of Mūla Verse
 
@@ -298,7 +299,8 @@ kṣetrakṣetrajñasaṃyogāttadviddhi bharatarṣabha || 26 ||
    - Clear understanding
    - Perfect comprehension
 
-   # Bhagavad Gītā 13.26 - Section III
+# Bhagavad Gītā 13.26 - Section III
+
 ## Analysis of Initial Commentary
 
 ### I. Text Analysis
@@ -971,4 +973,3 @@ yathāśāstraṃ kṣetrakṣetrajñalakṣaṇabhedaparijñānapūrvakaṃ pr�
    - False removed
    - Truth seen
    - Freedom achieved
-   

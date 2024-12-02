@@ -47,6 +47,7 @@ Having met dissolution in rajas, one is born among those attached to action. Sim
    - State determines birth
    - Quality persists
    - Level of manifestation
+
 # Śaṅkara Commentary Analysis: BG 14.15
 
 ## I. Main Commentary Text

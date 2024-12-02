@@ -58,6 +58,7 @@ Seated as if indifferent, who is not moved by the guṇas; who, thinking "the gu
    - Understanding guṇa operation
    - Maintaining stability
    - Perfect establishment
+
 # Śaṅkara Commentary Analysis: BG 14.23
 
 ## I. Main Commentary Text

@@ -58,6 +58,7 @@ Equal in pleasure and pain, self-abiding, seeing a clod, stone and gold as equal
    - In feelings
    - In perceptions
    - In reactions
+
 # Śaṅkara Commentary Analysis: BG 14.24
 
 ## I. Main Commentary Text

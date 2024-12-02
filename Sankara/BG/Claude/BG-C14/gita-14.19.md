@@ -57,6 +57,7 @@ When the seer sees no other doer than the guṇas, and knows what is beyond the 
    - Attainment of divine state
    - Freedom from guṇas
    - Complete liberation
+
 # Śaṅkara Commentary Analysis: BG 14.19
 
 ## I. Main Commentary Text
