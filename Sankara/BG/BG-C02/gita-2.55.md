@@ -1,231 +1,132 @@
-# BG 2.55 Technical Analysis
+Below is the analysis of **Bhagavad Gītā 2.55**, continuing our integrative approach. This verse introduces the concept of “situated wisdom” (sthita-prajñā) and describes the internal state of one who is no longer driven by desires. Although it does not explicitly mention terms like āsana or prāṇāyāma, we will look carefully for words and concepts that can analogously point toward the internal disciplines of Yoga. As per the hint, even though pratyāhāra itself is not named, words like “samharate” (to withdraw) appear in related contexts (later verses) and can serve as conceptual bridges, showing how the Gītā’s psychological transformations mirror the progressive stages of Yoga practice.
 
-## Introduction (Śaṅkara)
+---
 
-### Sanskrit
-यो ह्यादित एव संन्यस्य कर्माणि ज्ञानयोगनिष्ठायां प्रवृत्तः, यश्च कर्मयोगेन, तयोः 'प्रजहाति' इत्यारभ्य आ अध्यायपरिसमाप्तेः स्थितप्रज्ञलक्षणं साधनं चोपदिश्यते । सर्वत्रैव हि अध्यात्मशास्त्रे कृतार्थलक्षणानि यानि तान्येव साधनानि उपदिश्यन्ते, यत्नसाध्यत्वात् । यानि यत्नसाध्यानि साधनानि लक्षणानि च भवन्ति तानि श्रीभगवानुवाच —
+# Technical Analysis Artifact: Bhagavad Gītā 2.55
 
-### Transliteration
-yo hyādita eva saṃnyasya karmāṇi jñānayoganiṣṭhāyāṃ pravṛttaḥ, yaśca karmayogena, tayoḥ 'prajahāti' ityārabhya ā adhyāyaparisamāpteḥ sthitaprajñalakṣaṇaṃ sādhanaṃ copadiśyate | sarvatraiva hi adhyātmaśāstre kṛtārthalakṣaṇāni yāni tānyeva sādhanāni upadiśyante, yatnasādhyatvāt | yāni yatnasādhyāni sādhanāni lakṣaṇāni ca bhavanti tāni śrībhagavānuvāca —
+### I. Mūla Verse
 
-### Translation
-For one who from the very beginning, renouncing actions, is established in devotion to the yoga of knowledge, and for one who follows karma-yoga - for both, beginning with "prajahāti" until the end of the chapter, the characteristics of the sthitaprajña and the means are taught. Indeed, in all spiritual texts, those characteristics which mark accomplishment are taught as the very means, due to being achievable through effort. The Blessed Lord spoke of those means and characteristics which are achievable through effort:
+**Sanskrit**
+```markdown
+प्रजहाति यदा कामान्सर्वान्पार्थ मनोगतान् ।
+आत्मन्येवात्मना तुष्टः स्थितप्रज्ञस्तदोच्यते ॥ ५५ ॥
+```
 
-## Mūla Verse
+**Transliteration**
+```markdown
+prajahāti yadā kāmān sarvān pārtha mano-gatān |
+ātmany evātmana tuṣṭaḥ sthita-prajñas tadocyate || 55 ||
+```
 
-### Sanskrit
-श्रीभगवानुवाच —
+**Translation**
+"O Pārtha, when a person completely abandons all desires that arise in the mind, and is satisfied in the Self alone by the Self, then that person is said to be ‘sthita-prajña’ — one of steady wisdom."
+
+---
+
+### II. Śaṅkara Bhāṣya
+
+**Sanskrit Original (Provided Text)**
+```markdown
+यो ह्यादित एव संन्यस्य कर्माणि ज्ञानयोगनिष्ठायां प्रवृत्तः, यश्च कर्मयोगेन,
+तयोः ‘प्रजहाति’ इत्यारभ्य आ अध्यायपरिसमाप्तेः स्थितप्रज्ञलक्षणं साधनं चोपदिश्यते ।
+सर्वत्रैव हि अध्यात्मशास्त्रे कृतार्थलक्षणानि यानि तान्येव साधनानि उपदिश्यन्ते,
+यत्नसाध्यत्वात् ।
+यानि यत्नसाध्यानि साधनानि लक्षणानि च भवन्ति तानि श्रीभगवानुवाच —
+
 प्रजहाति यदा कामान्सर्वान्पार्थ मनोगतान् ।
 आत्मन्येवात्मना तुष्टः स्थितप्रज्ञस्तदोच्यते ॥ ५५ ॥
 
-### Transliteration
-śrībhagavānuvāca —
-prajahāti yadā kāmān sarvān pārtha manogatān |
-ātmanyevātmanā tuṣṭaḥ sthitaprajñas tadocyate || 55 ||
+प्रजहाति प्रकर्षेण जहाति परित्यजति यदा यदा
+यस्मिन्काले सर्वान् समस्तान् कामान् इच्छाभेदान् हे पार्थ,
+मनोगतान् मनसि प्रविष्टान् हृदि प्रविष्टान् ।
+सर्वकामपरित्यागे तुष्टिकारणाभावात् शरीरधारणनिमित्तशेषे च सति
+उन्मत्तप्रमत्तस्येव प्रवृत्तिः प्राप्ता, इत्यत उच्यते —
+आत्मन्येव प्रत्यगात्मस्वरूपे एव आत्मना स्वेनैव बाह्यलाभनिरपेक्षः तुष्टः
+परमार्थदर्शनामृतरसलाभेन अन्यस्मादलंप्रत्ययवान्
+स्थितप्रज्ञः स्थिता प्रतिष्ठिता आत्मानात्मविवेकजा प्रज्ञा यस्य सः स्थितप्रज्ञः विद्वान् तदा उच्यते ।
+त्यक्तपुत्रवित्तलोकैषणः संन्यासी आत्माराम आत्मक्रीडः स्थितप्रज्ञ इत्यर्थः ।
+```
 
-### Translation
-The Blessed Lord said:
-When one completely abandons all desires that have entered the mind, O Pārtha,
-Content in the Self by the Self alone, then one is called established in wisdom.
+**Transliteration** (Key Excerpts)
+```markdown
+prajahāti prakṛṣeṇa jahāti parityajati yadā yasmin kāle sarvān kāmān mano-gatān…
+ātmany eva pratyag-ātma-svarūpe eva ātmanā svenaiva bāhya-lābha-nirapekṣaḥ tuṣṭaḥ…
+sthita-prajñaḥ… tyakta-putra-vitta-lokaaiṣaṇaḥ saṃnyāsī ātmārāma ātmakrīḍaḥ…
+```
 
-## Śaṅkara's Commentary
+**Translation (Provisional)**
+"From the beginning, whether one has renounced actions to be established in the yoga of knowledge or reached this point through Karma Yoga, the defining characteristics and methods of one who is of steady wisdom are taught from ‘prajahāti’ (2.55) up to the end of this chapter. In spiritual scriptures, the marks of one who has achieved the goal are also taught as the means, since they can be pursued through effort.
 
-### Sanskrit
-प्रजहाति प्रकर्षेण जहाति परित्यजति यदा यस्मिन्काले सर्वान् समस्तान् कामान् इच्छाभेदान् हे पार्थ, मनोगतान् मनसि प्रविष्टान् हृदि प्रविष्टान् । सर्वकामपरित्यागे तुष्टिकारणाभावात् शरीरधारणनिमित्तशेषे च सति उन्मत्तप्रमत्तस्येव प्रवृत्तिः प्राप्ता, इत्यत उच्यते — आत्मन्येव प्रत्यगात्मस्वरूपे एव आत्मना स्वेनैव बाह्यलाभनिरपेक्षः तुष्टः परमार्थदर्शनामृतरसलाभेन अन्यस्मादलंप्रत्ययवान् स्थितप्रज्ञः स्थिता प्रतिष्ठिता आत्मानात्मविवेकजा प्रज्ञा यस्य सः स्थितप्रज्ञः विद्वान् तदा उच्यते । त्यक्तपुत्रवित्तलोकैषणः संन्यासी आत्माराम आत्मक्रीडः स्थितप्रज्ञ इत्यर्थः ॥
+‘Prajahāti’ means thoroughly abandoning all desires. When one abandons all desires arising in the mind, O Pārtha, one who is satisfied in the very Self by oneself, independent of external gains, having realized the nectar of the highest truth, and feeling that nothing else is needed — that one is called ‘sthita-prajña,’ established in the wisdom born of discriminating the Self from the non-Self. This wise one, having renounced worldly longings such as for progeny, wealth, and fame, is a true renunciate, delighting in the Self alone."
 
-### Transliteration
-prajahāti prakarṣeṇa jahāti parityajati yadā yasmin kāle sarvān samastān kāmān icchābhedān he pārtha, manogatān manasi praviṣṭān hṛdi praviṣṭān | sarvakāmaparityāge tuṣṭikāraṇābhāvāt śarīradhāraṇanimittaśeṣe ca sati unmattapramattasyeva pravṛttiḥ prāptā, ityata ucyate — ātmanyeva pratyagātmasvarūpe eva ātmanā svenaiva bāhyalābhanirapekṣaḥ tuṣṭaḥ paramārthadarśanāmṛtarasalābhena anyasmādalampratyayavān sthitaprajñaḥ sthitā pratiṣṭhitā ātmānātmavivekajā prajñā yasya saḥ sthitaprajñaḥ vidvān tadā ucyate | tyaktaputravittalokaiṣaṇaḥ saṃnyāsī ātmārāma ātmakrīḍaḥ sthitaprajña ityarthaḥ ||
+---
 
-### Translation
-"Prajahāti" means completely (prakarṣeṇa) abandons, thoroughly relinquishes when, at which time, all, the entire collection of desires, the various forms of wishes, O Pārtha, that have entered (praviṣṭān) the mind, entered the heart. Since in the complete abandonment of all desires, there being no cause for contentment, and only the maintenance of the body remaining, one might conclude that activity would be like that of a madman or one intoxicated, therefore it is said - content in the Self alone, in the nature of the inner Self alone, by the Self, by oneself alone, independent of external gain, satisfied through obtaining the nectar-essence of the vision of the highest truth, complete in himself without dependence on anything else, he is called established in wisdom - one in whom wisdom born of the discrimination between Self and non-Self is established and grounded, he is the sthitaprajña, the wise one. The meaning is: a sannyāsin who has abandoned the desires for progeny, wealth and worlds, rejoicing in the Self, playing in the Self - this is the sthitaprajña.
+### III. Term Analysis
 
-## Technical Analysis
+**Key Terms from Mūla Verse**:
 
-### Key Compounds
-1. स्थितप्रज्ञ (sthitaprajña):
-   - आत्मानात्मविवेकजा प्रज्ञा (ātmānātmavivekajā prajñā)
-   - Wisdom born of Self/non-Self discrimination
-   - Established (स्थिता) and grounded (प्रतिष्ठिता)
+- **प्रजहाति (prajahāti)**: To completely abandon or discard
+  *Contextual Significance*: This act of abandoning desires parallels the inner process of sensory withdrawal. While pratyāhāra involves withdrawing the senses from external objects, prajahāti indicates a mental withdrawal from internal desires. It’s a psychological “letting go” that sets the stage for deeper inward practices like prāṇāyāma (to calm the mind-body system) and eventually pratyāhāra (to turn senses inward).
 
-2. मनोगत (manogata):
-   - मनसि प्रविष्ट (manasi praviṣṭa)
-   - Entered into mind
-   - Root in heart (हृदि प्रविष्ट)
+- **आत्मन्येवात्मना तुष्टः (ātmany evātmana tuṣṭaḥ)**: Content in the Self alone, by the Self
+  *Contextual Significance*: Indicates an inward turning, an internal stabilization that resonates with the qualities needed for advanced Yoga. Just as a stable āsana is being comfortable and steady in one’s own posture, being satisfied in the Self is a mental “posture” of stability.
 
-### Technical Terms
-1. प्रजहाति (prajahāti):
-   - प्रकर्षेण जहाति (prakarṣeṇa jahāti)
-   - Complete abandonment
-   - Thorough relinquishment
+- **स्थितप्रज्ञ (sthita-prajña)**: One of steady wisdom
+  *Contextual Significance*: Sthita-prajña is akin to a stable platform of the mind. This mental stability parallels the physical stability of āsana and the rhythmic steadiness of prāṇāyāma. Only when the mind is stable can it undertake subtle processes like “samharate” (withdraw) in the coming verses.
 
-2. आत्मारामः (ātmārāmaḥ):
-   - Rejoicing in Self
-   - Self-contained delight
-   - Beyond external satisfaction
+**Key Concepts from Bhāṣya**:
 
-3. तुष्टः (tuṣṭaḥ):
-   - Content in Self
-   - परमार्थदर्शनामृतरसलाभ (paramārthadarśanāmṛtarasalābha)
-   - Through vision of highest truth
+- **त्यक्त… ऐषणः (tyakta… aiṣaṇaḥ)**: Renouncing all forms of worldly longing
+  *Contextual Significance*: Similar to pratyāhāra’s withdrawing senses from their objects, here the practitioner withdraws from the psychological drives and cravings. This mental renunciation sets the inner space clear for subtle breath control and eventually sense-withdrawal.
 
-### Philosophical Structure
-1. Two Paths Mentioned:
-   - ज्ञानयोगनिष्ठा (jñānayoganiṣṭhā)
-   - कर्मयोग (karmayoga)
-   - Leading to same realization
+- **आत्माराम आत्मक्रीड (ātmārāma ātmakrīḍa)**: Rejoicing and playing in the Self
+  *Contextual Significance*: Suggests an inward enjoyment free of external stimuli. In the progressive path, after achieving external stability (āsana) and internal rhythmic harmony (prāṇāyāma), the mind can “rest” inwardly, preparing for the deeper inward turn (pratyāhāra).
 
-2. Complete Integration:
-   - Of wisdom and renunciation
-   - Of understanding and contentment
-   - In established wisdom
+---
 
-# BG 2.55 Trans-Idealist Analysis
+### IV. Dialectical Structure (Being / Essence / Concept)
 
-## I. Ground of Complete Abandonment
+1. **Being (Initial Moment)**: Initially, the practitioner is entangled with various desires, analogous to a body unsettled (no stable āsana) and breath uncontrolled (no prāṇāyāma). The mind is outward-directed, fixated on external gains.
 
-### A. Nature of प्रजहाति (prajahāti)
-1. Beyond Mere Negation:
-   - प्रकर्षेण जहाति (prakarṣeṇa jahāti)
-   - Complete abandonment
-   - Original synthetic unity
+2. **Essence (Deeper Insight)**: Through understanding and gradual practice, the seeker abandons all mental desires (prajahāti). This mirrors the psychological readiness for internal disciplines: the mind becomes stable, content in itself. This internal stabilization is a conceptual stepping stone toward controlling the subtle aspects of the bodily-mind system, akin to how mastery of āsana precedes prāṇāyāma.
 
-2. Positive Achievement:
-   - Not mere absence
-   - परमार्थदर्शन (paramārthadarśana)
-   - Vision of highest truth
+3. **Concept (Culminating Synthesis)**: Once desires are renounced, the practitioner attains a stable mental posture (sthita-prajñā). This stable wisdom is a mental environment where prāṇāyāma (control of breath) can be effectively introduced to refine internal energies, and eventually, the senses can be withdrawn (pratyāhāra) without distraction. Although “samharate” (to withdraw) will appear explicitly in a later verse (2.58) to describe sense-withdrawal akin to pratyāhāra, the current verse lays the mental groundwork: without the storm of desires, sense-withdrawal becomes possible.
 
-### B. Integration of Paths
-1. ज्ञानयोगनिष्ठा (jñānayoganiṣṭhā):
-   - Direct establishment
-   - Through pure wisdom
-   - Original understanding
+---
 
-2. कर्मयोग (karmayoga):
-   - Progressive realization
-   - Through action
-   - Complete integration
+# Trans-Idealist Analysis Artifact: Krishna-Sankara-Abhidharma Integration
 
-## II. Structure of Realization
+### I. 1804 Framework Application
 
-### A. Three Aspects
-1. काम-त्याग (kāma-tyāga):
-   - Complete abandonment
-   - Of all desires
-   - Root transformation
+- **Systematic Refinement**: The text transitions from intellectual steadiness to emotional and sensory equanimity. This systematic refinement aligns with rational and experiential unfolding, characteristic of the 1804 Science of Knowing: from external entanglements to internal clarity.
 
-2. आत्म-तुष्टि (ātma-tuṣṭi):
-   - Self-contentment
-   - Beyond external
-   - Pure self-evidence
+- **Non-Dual Conditioning**: Abandoning desires dissolves the subject-object tension that drives the mind outward. Non-dual insight arises naturally when the mind no longer seeks external fulfillment. This non-dual state supports subtle Yogic interventions like prāṇāyāma and eventual sense-withdrawal (pratyāhāra).
 
-3. प्रज्ञा-स्थिति (prajñā-sthiti):
-   - Established wisdom
-   - Complete realization
-   - Original unity
+### II. Buddhist-Yogic Integration
 
-### B. Philosophical Integration
-1. Beyond Opposition:
-   - Of renunciation and fulfillment
-   - Of wisdom and contentment
-   - Of being and understanding
+- **Comparative Analysis**: Similar to Buddhism’s ideal of nirodha (cessation), the Gītā’s abandoning of desires reduces mental proliferations. Yoga’s pratyāhāra involves turning senses inward, and this verse shows the mental equivalent: turning desire inward until it ceases. Stable wisdom prepares for prāṇāyāma by reducing inner turbulence, making sense-withdrawal (samharate) straightforward later.
 
-2. Original Unity:
-   - Not mere combination
-   - Complete integration
-   - Pure self-evidence
+- **From Ethical to Internal Yoga**: Just as external moral restraint (yama, niyama) and physical stability (āsana) set the stage for controlling the breath (prāṇāyāma), here mental stability and desirelessness set the stage for sense-withdrawal (pratyāhāra). Although not stated as “āsana” or “prāṇāyāma,” the underlying structure mirrors these steps.
 
-## III. Buddhist-Yogic Framework
+### III. Non-Dual Analysis
 
-### A. शून्यता-प्रज्ञा (śūnyatā-prajñā)
-1. Complete Emptying:
-   - Of all desires
-   - Through wisdom
-   - As positive achievement
+- **Advaita Vedānta Perspective**: Being content in the Self eliminates the need for external objects, revealing the Self’s non-dual nature. Once the non-dual ground is realized, controlling subtle aspects of being (like breath and senses) is a matter of deepening into what already is, rather than striving for what is not.
 
-2. परमार्थसत्य (paramārthasatya):
-   - Highest truth
-   - Beyond negation
-   - Pure realization
+- **Abhidharma Parallels**: Abhidharma stresses uprooting underlying tendencies (āsava). Abandoning all desires parallels uprooting these tendencies, paving the way for tranquil concentration and insight. Similarly, in Yoga, with mental agitation pacified, controlling the subtle energies (prāṇāyāma) and withdrawing senses (pratyāhāra) becomes more natural.
 
-### B. समाधि Achievement
-1. आत्मारामता (ātmārāmatā):
-   - Self-delight
-   - Beyond external
-   - Complete fulfillment
+### IV. Philosophical Synthesis
 
-2. प्रज्ञा-स्थिति (prajñā-sthiti):
-   - Established wisdom
-   - Original understanding
-   - Pure consciousness
+- **Unified Understanding**: Verse 2.55 establishes that renouncing desires yields a stable, inwardly content mind. This mental posture is to the inner world what āsana is to the body and prāṇāyāma is to the breath. It’s a psychic alignment enabling the subtle work of sense-withdrawal.
 
-## IV. Trans-Idealist Structure
+- **Foundation for Samharate (Pratyāhāra)**: Although we have not yet seen “samharate” in this verse, its conceptual prerequisites are here. By achieving sthita-prajñā, the practitioner lays the foundation so that when the instruction to withdraw senses appears (verse 2.58: “yadā saṁharate cāyaṁ…”), the mind is ready to follow it effortlessly.
 
-### A. Beyond Subject-Object
-1. आत्मानात्मविवेक (ātmānātmaviveka):
-   - Not mere discrimination
-   - Original synthetic unity
-   - Pure self-evidence
+---
 
-2. परमार्थदर्शन (paramārthadarśana):
-   - Vision of truth
-   - Beyond perception
-   - Complete realization
+# Next Steps
 
-### B. Original Unity
-1. Of Paths:
-   - ज्ञान and कर्म
-   - Direct and progressive
-   - Complete integration
+- **Looking Ahead**: As we continue forward, we will watch for terms like “samharate” (2.58) that echo pratyāhāra and consider how the mental stability achieved here enables that subtle inward turn.
+- **Refining the Trajectory**: We have established a pattern: mental purification and stability first, followed by subtle internal disciplines. The journey sets the stage for understanding how the Gītā’s teachings align with the yoga limbs without explicitly naming them.
 
-2. Of Achievement:
-   - Renunciation and fulfillment
-   - Wisdom and contentment
-   - Being and understanding
+---
 
-## V. Progressive Development
-
-### A. लक्षण as साधन
-1. Characteristics as Means:
-   - यत्नसाध्य (yatnasādhya)
-   - Achievable through effort
-   - Progressive realization
-
-2. Complete Integration:
-   - Of method and achievement
-   - Of path and goal
-   - Of means and end
-
-### B. Final Achievement
-1. स्थितप्रज्ञ Nature:
-   - त्यक्तपुत्रवित्तलोकैषण (tyaktaputravittalokaiṣaṇa)
-   - Complete renunciation
-   - Pure fulfillment
-
-2. आत्मारामता (ātmārāmatā):
-   - Self-delight
-   - Beyond external
-   - Original unity
-
-## VI. Philosophical Significance
-
-### A. Complete Method
-1. Integration of Paths:
-   - Direct and progressive
-   - Wisdom and action
-   - Understanding and practice
-
-2. Beyond Opposition:
-   - Of renunciation and fulfillment
-   - Of wisdom and contentment
-   - Of being and understanding
-
-### B. Original Achievement
-1. Pure Self-Evidence:
-   - परमार्थदर्शन (paramārthadarśana)
-   - Beyond proof
-   - Complete realization
-
-2. Original Unity:
-   - Of all aspects
-   - In pure wisdom
-   - As concrete reality
+By analyzing Verse 2.55, we see how mental equanimity and self-sufficiency resemble the stable foundation needed for advanced Yogic techniques. Just as prāṇāyāma refines internal energies after achieving a stable āsana, the mental stillness and desirelessness described here prepare the practitioner for the internal sense-withdrawal hinted at by terms like “samharate.”

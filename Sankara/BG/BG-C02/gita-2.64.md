@@ -1,230 +1,106 @@
-# BG 2.64 Technical Analysis
+Below is the analysis of **Bhagavad Gītā 2.64**, continuing the integrative approach and the **Being / Essence / Concept** structure. In this verse, the Gītā introduces the positive alternative to the downward spiral described earlier. Having shown that dwelling on sense objects leads to destruction of discernment, the text now instructs that the way to avoid that fate is to move beyond likes and dislikes (rāga and dveṣa) and control the senses internally (ātmavaśyair indriyaiḥ). This inner discipline opens the way to ekāgratā — the one-pointedness that is the heart of dhāraṇā, a key step in achieving deeper meditative states and stable wisdom.
 
-## Introduction (Śaṅkara)
+---
 
-### Sanskrit
-सर्वानर्थस्य मूलमुक्तं विषयाभिध्यानम् । अथ इदानीं मोक्षकारणमिदमुच्यते —
+# Technical Analysis Artifact: Bhagavad Gītā 2.64
 
-### Transliteration
-sarvānarthasya mūlamuktaṃ viṣayābhidhyānam | atha idānīṃ mokṣakāraṇamidamucyate —
+### I. Mūla Verse
 
-### Translation
-Having stated dwelling on objects as the root of all misfortune, now is spoken this cause of liberation:
-
-## Mūla Verse
-
-### Sanskrit
+**Sanskrit**
+```markdown
 रागद्वेषवियुक्तैस्तु विषयानिन्द्रियैश्चरन् ।
 आत्मवश्यैर्विधेयात्मा प्रसादमधिगच्छति ॥ ६४ ॥
+```
 
-### Transliteration
-rāgadveṣaviyuktaistu viṣayānindriyaiścaran |
-ātmavaśyairvidheyātmā prasādamadhigacchati || 64 ||
+**Transliteration**
+```markdown
+rāga-dveṣa-viyuktais tu viṣayān indriyaiś caran |
+ātma-vaśyair vidheyātmā prasādam adhigacchati || 64 ||
+```
 
-### Translation
-But moving among objects with senses free from attraction and aversion,
-With senses under self-control, the self-disciplined one attains serenity.
+**Translation**
+"One who, free from attraction and aversion, moves among the objects of the senses with senses under one’s own control, having a well-directed mind, attains tranquility (prasāda)."
 
-## Śaṅkara's Commentary
+---
 
-### Sanskrit
-रागद्वेषवियुक्तैः रागश्च द्वेषश्च रागद्वेषौ, तत्पुरःसरा हि इन्द्रियाणां प्रवृत्तिः स्वाभाविकी, तत्र यो मुमुक्षुः भवति सः ताभ्यां वियुक्तैः श्रोत्रादिभिः इन्द्रियैः विषयान् अवर्जनीयान् चरन् उपलभमानः आत्मवश्यैः आत्मनः वश्यानि वशीभूतानि इन्द्रियाणि तैः आत्मवश्यैः विधेयात्मा इच्छातः विधेयः आत्मा अन्तःकरणं यस्य सः अयं प्रसादम् अधिगच्छति । प्रसादः प्रसन्नता स्वास्थ्यम् ॥
+### II. Śaṅkara Bhāṣya
 
-### Transliteration
-rāgadveṣaviyuktaiḥ rāgaśca dveṣaśca rāgadveṣau, tatpuraḥsarā hi indriyāṇāṃ pravṛttiḥ svābhāvikī, tatra yo mumukṣuḥ bhavati saḥ tābhyāṃ viyuktaiḥ śrotrādibhiḥ indriyaiḥ viṣayān avarjanīyān caran upalabhamānaḥ ātmavaśyaiḥ ātmanaḥ vaśyāni vaśībhūtāni indriyāṇi taiḥ ātmavaśyaiḥ vidheyātmā icchātaḥ vidheyaḥ ātmā antaḥkaraṇaṃ yasya saḥ ayaṃ prasādam adhigacchati | prasādaḥ prasannatā svāsthyam ||
+**Sanskrit Original (Provided Text)**
+```markdown
+रागद्वेषवियुक्तैः ... इन्द्रियैः ... आत्मवश्यैः ... विधेयात्मा ...
+प्रसादम् अधिगच्छति । प्रसादः प्रसन्नता स्वास्थ्यम् ॥ ६४ ॥
+```
 
-## Technical Analysis
+**Key Points from the Bhāṣya**:
+- Rāga (attachment) and dveṣa (aversion) are natural tendencies of the senses. The advanced seeker is one who is free of these, i.e., not controlled by likes and dislikes.
+- The senses, now ātma-vaśya (under the control of the Self), operate among sense objects without creating inner turmoil.
+- Vidheyātmā: One whose inner instrument (antaḥkaraṇa) is well-governed and disciplined.
+- As a result, the practitioner attains prasāda (tranquility, clarity, and calmness), a mental purity akin to a stable, luminous mental field.
 
-### Key Abhidharmic Terms
-1. रागद्वेषवियुक्त (rāgadveṣaviyukta):
-   - Freedom from attraction-aversion
-   - Root affliction transcendence
-   - Basic liberation
+---
 
-2. आत्मवश्य (ātmavaśya):
-   - Self-controlled
-   - वशीभूत (vaśībhūta) - mastered
-   - Complete mastery
+### III. Term Analysis
 
-3. विधेयात्मन् (vidheyātman):
-   - Self-disciplined
-   - इच्छातः विधेय (icchātaḥ vidheya)
-   - Controlled inner nature
+**Key Terms from Mūla Verse**:
 
-### Progressive Development
-1. Initial State:
-   - स्वाभाविकी प्रवृत्ति (svābhāvikī pravṛtti)
-   - Natural tendency
-   - Of sense activity
+- **रागद्वेषवियुक्त (rāga-dveṣa-viyukta)**: Free from attachment and aversion
+  *Contextual Significance*: Without rāga and dveṣa, the mind can remain stable and balanced. This neutrality paves the way for the mind to become ekāgra (one-pointed), as it no longer gets pulled in multiple directions by preferences and fears.
 
-2. Liberation Process:
-   - रागद्वेष-वियोग (rāgadveṣa-viyoga)
-   - इन्द्रिय-वश (indriya-vaśa)
-   - आत्म-विधेयता (ātma-vidheyatā)
+- **आत्मवश्य (ātma-vaśya)**: Under the control of the Self
+  *Contextual Significance*: Self-mastery is key for progressing toward dhāraṇā, which requires steady directing of attention. If the senses serve the mind’s higher purpose rather than dictating it, the mind can rest steadily on a chosen object.
 
-3. Final Achievement:
-   - प्रसाद (prasāda)
-   - प्रसन्नता (prasannatā)
-   - स्वास्थ्य (svāsthya)
+- **विधेयात्मा (vidheyātmā)**: One whose mind is well-directed or disciplined
+  *Contextual Significance*: Discipline is the heart of dhāraṇā. The mind is not scattered; it can be placed on what the practitioner intends — i.e., it can become ekāgra, the essence of concentration that leads to dhyāna and samādhi.
 
-### Technical Structure
-1. Two Levels of Control:
-   - इन्द्रिय-वश (indriya-vaśa)
-   - अन्तःकरण-विधेयता (antaḥkaraṇa-vidheyatā)
-   - Complete mastery
+- **प्रसाद (prasāda)**: Tranquility, clarity, mental ease
+  *Contextual Significance*: A mind at prasāda is free of turbulence. Such tranquility is essential for sustained ekāgratā. Without prasāda, concentration (dhāraṇā) is fragile.
 
-2. Object Engagement:
-   - अवर्जनीय-विषय (avarjanīya-viṣaya)
-   - Necessary objects
-   - Proper relation
+---
 
-3. Final State:
-   - प्रसाद (prasāda)
-   - Inner serenity
-   - Complete establishment
+### IV. Dialectical Structure (Being / Essence / Concept)
 
-# BG 2.64 Trans-Idealist Analysis
+1. **Being (Initial Moment)**: Before achieving this state, the mind is prone to rāga and dveṣa, constantly disturbed by what it likes or dislikes. This disturbance prevents stable attention.
 
-## I. Ground of Liberation
+2. **Essence (Deeper Insight)**: By removing attachment and aversion and bringing senses under the self’s control, the mind no longer oscillates. It becomes disciplined (vidheyātmā), setting the stage for ekāgratā (one-pointed concentration), the core of dhāraṇā.
 
-### A. Transcendence of Affliction
-1. रागद्वेष-वियोग (rāgadveṣa-viyoga):
-   - Beyond attraction-aversion
-   - Root freedom
-   - Original independence
+3. **Concept (Culminating Synthesis)**: The end result — prasāda — is a state of mental clarity where ekāgratā can flourish. This one-pointedness is critical for progressing through the internal limbs of Yoga. Such a mind is prepared for nirodha (cessation of fluctuations) and samādhi (complete absorption), but it begins with achieving a stable focus (dhāraṇā) rooted in tranquility.
 
-2. स्वाभाविक-निरोध (svābhāvika-nirodha):
-   - Natural tendency control
-   - Basic transformation
-   - Complete mastery
+---
 
-### B. Establishment of Control
-1. इन्द्रिय-वश (indriya-vaśa):
-   - Sense mastery
-   - Complete control
-   - Perfect freedom
+# Trans-Idealist Analysis Artifact: Krishna-Sankara-Abhidharma Integration
 
-2. विधेयात्मन् (vidheyātman):
-   - Self-discipline
-   - Inner control
-   - Original mastery
+### I. 1804 Framework Application
 
-## II. Abhidharmic Structure
+- **Rational-Experiential Fusion**: The Gītā rationally explains that by removing emotional biases (rāga-dveṣa), one attains an experiential state of calm. Idealist approaches would say the form of the mind shapes reality—here, shaping the mind away from dualities leads to stable perception and concentration.
 
-### A. Progressive Development
-1. From Natural State:
-   - स्वाभाविकी प्रवृत्ति (svābhāvikī pravṛtti)
-   - Basic tendency
-   - Root activity
+- **Non-Dual Conditioning**: Without attachment and aversion, dualities lose grip. The mind’s evenness mirrors a non-dual perspective where objects neither attract nor repel. This non-duality supports ekāgratā, as the mind rests naturally without distraction.
 
-2. Through Control:
-   - इन्द्रिय-वश (indriya-vaśa)
-   - आत्म-विधेयता (ātma-vidheyatā)
-   - Complete mastery
+### II. Buddhist-Yogic Integration
 
-### B. Final Achievement
-1. प्रसाद Nature:
-   - Inner serenity
-   - Complete peace
-   - Original stability
+- **Comparative Analysis**: In Buddhism, abandoning craving and aversion leads to uppekkhā (equanimity), a conducive state for jhāna (meditative absorption). Similarly, in Yoga, freedom from rāga-dveṣa provides the calm necessary for pratyāhāra and dhāraṇā. With senses mastered, ekāgratā emerges, facilitating deep meditation.
 
-2. स्वास्थ्य Reality:
-   - Self-establishment
-   - Perfect health
-   - Complete being
+- **From Pratyāhāra to Dharana**: The previous verses showed the dangers of improper focus. Now, by controlling senses and shedding liking and disliking, the practitioner establishes a mental environment ideal for dhāraṇā. Ekāgratā, the heart of dhāraṇā, relies on this inner calm.
 
-## III. Buddhist Integration
+### III. Non-Dual Analysis
 
-### A. इन्द्रिय-संवर (indriya-saṃvara)
-1. Complete Protection:
-   - Of sense faculties
-   - Through control
-   - To freedom
+- **Advaita Vedānta Perspective**: Identifying with the Self, free from rāga-dveṣa, the mind no longer clings to dualistic notions. Ekāgratā is easy when the mind sees no separate “other” to be attracted or repelled by. This stable focus forms a base for realizing the Self as Brahman.
 
-2. Progressive Development:
-   - Through practice
-   - With discrimination
-   - To establishment
+- **Abhidharma Parallels**: Abhidharma notes that nonattachment (alobha) and nonhatred (adosa) lead to clarity. This clarity stabilizes attention, a prerequisite for strong concentration. The Gītā’s emphasis on prasāda aligns with Abhidharma’s calm state favorable for insight and one-pointed concentration.
 
-### B. प्रसाद Achievement
-1. शमथ Development:
-   - Inner peace
-   - Mental stability
-   - Complete serenity
+### IV. Philosophical Synthesis
 
-2. विपश्यना Integration:
-   - Clear seeing
-   - Perfect understanding
-   - Complete wisdom
+- **Unified Understanding**: Verse 2.64 shows the positive counterpart to the previous verses’ warning. Without likes and dislikes, senses remain well-ordered under the self’s guidance. The mind, now free of agitation, gains prasāda (tranquility), becoming ripe for ekāgratā (one-pointedness) at the heart of dhāraṇā.
 
-## IV. Trans-Idealist Structure
+- **Bridge to Higher States**: This verse sets the conditions for moving from outward sense control (pratyāhāra) to inward focus (dhāraṇā). By achieving mental clarity and evenness, the practitioner can fix attention steadily on a single point, an essential step toward dhyāna and samādhi.
 
-### A. Beyond Opposition
-1. Of Control-Freedom:
-   - Not mere suppression
-   - Original mastery
-   - Complete liberation
+---
 
-2. Of Activity-Serenity:
-   - Proper engagement
-   - Perfect balance
-   - Complete integration
+# Next Steps
 
-### B. Original Unity
-1. Of Understanding-Control:
-   - विधेयात्मन् (vidheyātman)
-   - Perfect discipline
-   - Complete wisdom
+- **Looking Forward**: Future verses may further describe the fruits of this tranquility and the stable wisdom that emerges. Each step reinforces why ekāgratā (one-pointed concentration) and stable prajñā depend on freedom from emotional disturbance.
 
-2. Of Being-Achievement:
-   - प्रसाद-स्वास्थ्य
-   - Perfect health
-   - Original reality
+- **Refining the Path**: We now have a conceptual map: from removing emotional entanglement (rāga-dveṣa) and controlling senses (pratyāhāra), to attaining clarity (prasāda) and cultivating ekāgratā (dhāraṇā), paving the way for deeper meditative states.
 
-## V. Systematic Development
+---
 
-### A. Two Levels
-1. External Control:
-   - इन्द्रिय-वश (indriya-vaśa)
-   - Sense mastery
-   - Complete restraint
-
-2. Internal Discipline:
-   - अन्तःकरण-विधेयता
-   - Inner control
-   - Perfect stability
-
-### B. Complete Integration
-1. Of Activity:
-   - Proper engagement
-   - Perfect balance
-   - Complete freedom
-
-2. Of Achievement:
-   - Inner serenity
-   - Perfect health
-   - Original being
-
-## VI. Philosophical Significance
-
-### A. Complete Method
-1. Progressive Development:
-   - From natural state
-   - Through control
-   - To freedom
-
-2. Perfect Integration:
-   - Of activity and serenity
-   - Of control and freedom
-   - Of wisdom and peace
-
-### B. Final Achievement
-1. प्रसाद Reality:
-   - Perfect serenity
-   - Complete stability
-   - Original peace
-
-2. स्वास्थ्य Being:
-   - Perfect health
-   - Complete establishment
-   - Original reality
+By analyzing Verse 2.64, we see how relinquishing attachment and aversion leads to a disciplined mind and tranquility, enabling the practitioner to develop ekāgratā. This single-pointed focus is the essence of dhāraṇā, bridging the earlier emphasis on avoiding mental downfall with the positive vision of stable, insight-driven meditative practice.
