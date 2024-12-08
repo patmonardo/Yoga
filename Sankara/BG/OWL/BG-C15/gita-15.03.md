@@ -59,6 +59,7 @@ Its form is not thus perceived here, neither its end nor beginning nor its found
    - With previous tree description
    - With liberation method
    - With following quest
+
 # Śaṅkara Commentary Analysis: BG 15.3
 
 ## I. Nature of Illusoriness

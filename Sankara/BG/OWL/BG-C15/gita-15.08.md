@@ -58,6 +58,7 @@ When the Lord obtains a body and also when He departs, He takes these and goes, 
    - With previous verse
    - With sense-drawing
    - With transmigration process
+   
 # Śaṅkara Commentary Analysis: BG 15.8
 
 ## I. Time of Movement

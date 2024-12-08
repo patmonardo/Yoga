@@ -57,6 +57,7 @@ Equal in honor and dishonor, equal towards the parties of friends and enemies, h
    - Of guṇa transcendence
    - Complete state
    - Perfect freedom
+
 # Śaṅkara Commentary Analysis: BG 14.25
 
 ## I. Main Commentary Text

@@ -58,6 +58,7 @@ They say that of good action, the fruit is sattvic and pure; but of rajas the fr
    - Action-result correlation
    - Quality determines nature
    - Clear causation
+
 # BG 14.16: Introduction and Verse Analysis
 
 ## I. Introductory Statement

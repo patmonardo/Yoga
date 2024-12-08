@@ -58,6 +58,7 @@ But different is the Supreme Puruṣa, called the Paramātmā, who, entering the
    - With previous divisions
    - With absolute nature
    - With manifested function
+
 # Śaṅkara Commentary Analysis: BG 15.17
 
 ## I. Supreme Description

@@ -58,6 +58,7 @@ When the embodied one meets dissolution while sattva is predominant, then he att
    - Through attachment
    - Secondary nature
    - Relative attainment
+
 # BG 14.14: Introduction and Verse Analysis
 
 ## I. Introductory Statement
@@ -118,4 +119,3 @@ When the embodied one meets dissolution while sattva is predominant, then he att
    - Through attachment
    - Secondary nature
    - Relative attainment
-

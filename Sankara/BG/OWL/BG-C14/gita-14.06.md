@@ -58,6 +58,7 @@ There, sattva, being pure, is illuminating and harmless. It binds through attach
    - Most pure guṇa
    - Yet still binds
    - Through subtle attachment
+
 # Śaṅkara Commentary Analysis: BG 14.6
 
 ## I. Main Commentary Text
@@ -122,4 +123,3 @@ Due to its purity, like a crystal, sattva is illuminating and harmless, free fro
    - All binding through avidyā
    - Properties belong to field
    - Self remains unattached
-   
