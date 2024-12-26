@@ -58,6 +58,7 @@ For I am the foundation of Brahman - the immortal and immutable, of the eternal 
    - Being as ground
    - Truth as eternal
    - Bliss as absolute
+
 # Śaṅkara Commentary Analysis: BG 14.27
 
 ## I. Main Commentary Text

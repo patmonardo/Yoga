@@ -497,3 +497,4 @@ vikārāṃśca guṇāṃścaiva vakṣyamāṇānvikārān buddhyādidehendrya
    - As eternal control
    - Through dual prakṛti
    - For complete manifestation
+   

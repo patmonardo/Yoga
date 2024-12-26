@@ -58,6 +58,7 @@ Having transcended these three guṇas from which bodies arise, the embodied one
    - Beyond bodily existence
    - Complete liberation
    - Immortal state
+
 # Śaṅkara Commentary Analysis: BG 14.20
 
 ## I. Main Commentary Text

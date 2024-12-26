@@ -1,63 +1,52 @@
-# BG 15.14: Introduction and Verse Analysis
+# BG 15.4: Introduction and Verse Analysis
 
-## I. Introductory Statement
-
-### Sanskrit
-किञ्च —
-
-### Transliteration
-kiñca —
-
-### Translation
-Moreover —
-
-## II. Main Verse
+## I. Main Verse
 
 ### Sanskrit
-अहं वैश्वानरो भूत्वा प्राणिनां देहमाश्रितः ।
-प्राणापानसमायुक्तः पचाम्यन्नं चतुर्विधम् ॥ १४ ॥
+ततः पदं तत्परिमार्गितव्यं यस्मिन्गता न निवर्तन्ति भूयः ।
+तमेव चाद्यं पुरुषं प्रपद्ये यतः प्रवृत्तिः प्रसृता पुराणी ॥ ४ ॥
 
 ### Transliteration
-ahaṃ vaiśvānaro bhūtvā prāṇināṃ dehamāśritaḥ |
-prāṇāpānasamāyuktaḥ pacāmyannaṃ caturvidham || 14 ||
+tataḥ padaṃ tat parimārgitavyaṃ yasmin gatā na nivartanti bhūyaḥ |
+tam eva cādyaṃ puruṣaṃ prapadye yataḥ pravṛttiḥ prasṛtā purāṇī || 4 ||
 
 ### Translation
-Becoming the Vaiśvānara fire, dwelling in the bodies of living beings, united with prāṇa and apāna, I digest the four kinds of food.
+Then that state must be sought, from which those who reach it do not return again. I take refuge in that primeval Puruṣa from whom has flowed forth this ancient activity.
 
 ## III. Term Analysis
 
 ### Key Technical Terms
-1. vaiśvānara (वैश्वानर)
-   - Technical meaning: digestive fire
-   - Context: cosmic fire in individual
-   - Function: food digestion
+1. pada (पद)
+   - Root: pad (to go, to attain)
+   - Technical meaning: state, abode, goal
+   - Context: ultimate destination
 
-2. prāṇāpāna (प्राणापान)
-   - Compound: prāṇa + apāna
-   - Technical meaning: vital breaths
-   - Context: digestive function
+2. parimārgitavya (परिमार्गितव्य)
+   - Root: mārg with pari (to seek thoroughly)
+   - Technical meaning: to be sought
+   - Context: spiritual quest
 
-3. caturvidha (चतुर्विध)
-   - Compound: catur + vidha
-   - Technical meaning: four types
-   - Context: food classification
+3. pravṛtti (प्रवृत्ति)
+   - Compound: pra + vṛtti
+   - Technical meaning: flowing forth, activity
+   - Context: cosmic manifestation
 
 ## IV. Structural Analysis
 
-1. Divine Function
-   - As digestive fire
-   - In all beings
-   - Through vital forces
+1. Two-fold Movement
+   - Seeking the goal
+   - Taking refuge in source
 
-2. Integration Points
-   - With previous verses
-   - Cosmic-individual link
-   - Sustenance theme
+2. Liberation Description
+   - No return
+   - Through refuge
+   - Complete freedom
 
-3. Transformation Process
-   - Divine to physical
-   - Through vital forces
-   - For nourishment
+3. Integration Points
+   - With tree cutting
+   - With ultimate goal
+   - With original source
+
 # Śaṅkara Commentary Analysis: BG 15.4
 
 ## I. State to be Sought
@@ -131,4 +120,3 @@ Who is that Puruṣa? It is said - from which Puruṣa has flowed forth, emerged
    - With tree metaphor
    - With māyā doctrine
    - With refuge path
-
