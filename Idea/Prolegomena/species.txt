@@ -1,0 +1,274 @@
+@prefix : <http://example.org/logic#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+# Canonical species derived from Idea/Prolegomena/genera-list.md
+# Each genus g1..g27 has three species gNs1..gNs3
+
+:g1 a :Genus ; rdfs:label "Being / Identity / Freedom" .
+:g1s1 a :Species ; rdfs:label "Formal Presence" ; :genus :g1 .
+:g1s2 a :Species ; rdfs:label "Numerical Self-Identity" ; :genus :g1 .
+:g1s3 a :Species ; rdfs:label "Practical Spontaneity" ; :genus :g1 .
+
+:g2 a :Genus ; rdfs:label "Being / Identity / Necessity" .
+:g2s1 a :Species ; rdfs:label "Lawful Presence" ; :genus :g2 .
+:g2s2 a :Species ; rdfs:label "Structural Identity" ; :genus :g2 .
+:g2s3 a :Species ; rdfs:label "Compulsive Order" ; :genus :g2 .
+
+:g3 a :Genus ; rdfs:label "Being / Identity / Mediation" .
+:g3s1 a :Species ; rdfs:label "Reflexive Presence" ; :genus :g3 .
+:g3s2 a :Species ; rdfs:label "Articulated Identity" ; :genus :g3 .
+:g3s3 a :Species ; rdfs:label "Institutional Freedom" ; :genus :g3 .
+
+:g4 a :Genus ; rdfs:label "Being / Difference / Freedom" .
+:g4s1 a :Species ; rdfs:label "Differentiated Presence" ; :genus :g4 .
+:g4s2 a :Species ; rdfs:label "Relational Plurality" ; :genus :g4 .
+:g4s3 a :Species ; rdfs:label "Creative Agency" ; :genus :g4 .
+
+:g5 a :Genus ; rdfs:label "Being / Difference / Necessity" .
+:g5s1 a :Species ; rdfs:label "Patterned Multiplicity" ; :genus :g5 .
+:g5s2 a :Species ; rdfs:label "Determined Variance" ; :genus :g5 .
+:g5s3 a :Species ; rdfs:label "Normative Differentiation" ; :genus :g5 .
+
+:g6 a :Genus ; rdfs:label "Being / Difference / Mediation" .
+:g6s1 a :Species ; rdfs:label "Synthesized Forms" ; :genus :g6 .
+:g6s2 a :Species ; rdfs:label "Relational Determination" ; :genus :g6 .
+:g6s3 a :Species ; rdfs:label "Coordinated Plurality" ; :genus :g6 .
+
+:g7 a :Genus ; rdfs:label "Being / Contradiction / Freedom" .
+:g7s1 a :Species ; rdfs:label "Tensional Presence" ; :genus :g7 .
+:g7s2 a :Species ; rdfs:label "Resolutive Agency" ; :genus :g7 .
+:g7s3 a :Species ; rdfs:label "Emergent Novelty" ; :genus :g7 .
+
+:g8 a :Genus ; rdfs:label "Being / Contradiction / Necessity" .
+:g8s1 a :Species ; rdfs:label "Institutionalized Contradiction" ; :genus :g8 .
+:g8s2 a :Species ; rdfs:label "Limitative Structure" ; :genus :g8 .
+:g8s3 a :Species ; rdfs:label "Systemic Constraint" ; :genus :g8 .
+
+:g9 a :Genus ; rdfs:label "Being / Contradiction / Mediation" .
+:g9s1 a :Species ; rdfs:label "Mediated Reconciliation" ; :genus :g9 .
+:g9s2 a :Species ; rdfs:label "Dialectical Formation" ; :genus :g9 .
+:g9s3 a :Species ; rdfs:label "Higher Unity" ; :genus :g9 .
+
+:g10 a :Genus ; rdfs:label "Nothing / Identity / Freedom" .
+:g10s1 a :Species ; rdfs:label "Formal Non-Being" ; :genus :g10 .
+:g10s2 a :Species ; rdfs:label "Proto-Identity" ; :genus :g10 .
+:g10s3 a :Species ; rdfs:label "Creative Formation" ; :genus :g10 .
+
+:g11 a :Genus ; rdfs:label "Nothing / Identity / Necessity" .
+:g11s1 a :Species ; rdfs:label "Privational Law" ; :genus :g11 .
+:g11s2 a :Species ; rdfs:label "Stabilized Negation" ; :genus :g11 .
+:g11s3 a :Species ; rdfs:label "Compulsory Non-Being" ; :genus :g11 .
+
+:g12 a :Genus ; rdfs:label "Nothing / Identity / Mediation" .
+:g12s1 a :Species ; rdfs:label "Formed Possibility" ; :genus :g12 .
+:g12s2 a :Species ; rdfs:label "Structured Absence" ; :genus :g12 .
+:g12s3 a :Species ; rdfs:label "Productive Void" ; :genus :g12 .
+
+:g13 a :Genus ; rdfs:label "Nothing / Difference / Freedom" .
+:g13s1 a :Species ; rdfs:label "Open Possibility" ; :genus :g13 .
+:g13s2 a :Species ; rdfs:label "Generative Otherness" ; :genus :g13 .
+:g13s3 a :Species ; rdfs:label "Exploratory Agency" ; :genus :g13 .
+
+:g14 a :Genus ; rdfs:label "Nothing / Difference / Necessity" .
+:g14s1 a :Species ; rdfs:label "Segmented Negation" ; :genus :g14 .
+:g14s2 a :Species ; rdfs:label "Constraint of Otherness" ; :genus :g14 .
+:g14s3 a :Species ; rdfs:label "Determinate Lack" ; :genus :g14 .
+
+:g15 a :Genus ; rdfs:label "Nothing / Difference / Mediation" .
+:g15s1 a :Species ; rdfs:label "Constructed Plurality" ; :genus :g15 .
+:g15s2 a :Species ; rdfs:label "Negative Synthesis" ; :genus :g15 .
+:g15s3 a :Species ; rdfs:label "Formative Reconciliation" ; :genus :g15 .
+
+:g16 a :Genus ; rdfs:label "Nothing / Contradiction / Freedom" .
+:g16s1 a :Species ; rdfs:label "Abyssal Spark" ; :genus :g16 .
+:g16s2 a :Species ; rdfs:label "Transgressive Agency" ; :genus :g16 .
+:g16s3 a :Species ; rdfs:label "Creative Resolution" ; :genus :g16 .
+
+:g17 a :Genus ; rdfs:label "Nothing / Contradiction / Necessity" .
+:g17s1 a :Species ; rdfs:label "Hardened Void" ; :genus :g17 .
+:g17s2 a :Species ; rdfs:label "Tragic Structure" ; :genus :g17 .
+:g17s3 a :Species ; rdfs:label "Immutable Limit" ; :genus :g17 .
+
+:g18 a :Genus ; rdfs:label "Nothing / Contradiction / Mediation" .
+:g18s1 a :Species ; rdfs:label "Dialectical Conversion" ; :genus :g18 .
+:g18s2 a :Species ; rdfs:label "Reconstituted Presence" ; :genus :g18 .
+:g18s3 a :Species ; rdfs:label "Mediated Emergence" ; :genus :g18 .
+
+:g19 a :Genus ; rdfs:label "Becoming / Identity / Freedom" .
+:g19s1 a :Species ; rdfs:label "Provisional Self" ; :genus :g19 .
+:g19s2 a :Species ; rdfs:label "Dynamic Continuity" ; :genus :g19 .
+:g19s3 a :Species ; rdfs:label "Creative Stabilization" ; :genus :g19 .
+
+:g20 a :Genus ; rdfs:label "Becoming / Identity / Necessity" .
+:g20s1 a :Species ; rdfs:label "Teleological Form" ; :genus :g20 .
+:g20s2 a :Species ; rdfs:label "Lawful Development" ; :genus :g20 .
+:g20s3 a :Species ; rdfs:label "Settled Telos" ; :genus :g20 .
+
+:g21 a :Genus ; rdfs:label "Becoming / Identity / Mediation" .
+:g21s1 a :Species ; rdfs:label "Staged Individuation" ; :genus :g21 .
+:g21s2 a :Species ; rdfs:label "Processual Articulation" ; :genus :g21 .
+:g21s3 a :Species ; rdfs:label "Institutionalized Growth" ; :genus :g21 .
+
+:g22 a :Genus ; rdfs:label "Becoming / Difference / Freedom" .
+:g22s1 a :Species ; rdfs:label "Proliferative Divergence" ; :genus :g22 .
+:g22s2 a :Species ; rdfs:label "Emergent Plurality" ; :genus :g22 .
+:g22s3 a :Species ; rdfs:label "Adaptive Creativity" ; :genus :g22 .
+
+:g23 a :Genus ; rdfs:label "Becoming / Difference / Necessity" .
+:g23s1 a :Species ; rdfs:label "Stabilizing Repetition" ; :genus :g23 .
+:g23s2 a :Species ; rdfs:label "Regulative Patterns" ; :genus :g23 .
+:g23s3 a :Species ; rdfs:label "Constraint of Growth" ; :genus :g23 .
+
+:g24 a :Genus ; rdfs:label "Becoming / Difference / Mediation" .
+:g24s1 a :Species ; rdfs:label "Coordinated Multiplicity" ; :genus :g24 .
+:g24s2 a :Species ; rdfs:label "Synthesized Variety" ; :genus :g24 .
+:g24s3 a :Species ; rdfs:label "Channelled Differentiation" ; :genus :g24 .
+
+:g25 a :Genus ; rdfs:label "Becoming / Contradiction / Freedom" .
+:g25s1 a :Species ; rdfs:label "Dialectical Breakthrough" ; :genus :g25 .
+:g25s2 a :Species ; rdfs:label "Innovative Reversal" ; :genus :g25 .
+:g25s3 a :Species ; rdfs:label "Experimental Agency" ; :genus :g25 .
+
+:g26 a :Genus ; rdfs:label "Becoming / Contradiction / Necessity" .
+:g26s1 a :Species ; rdfs:label "Processual Sedimentation" ; :genus :g26 .
+:g26s2 a :Species ; rdfs:label "Institutionalized Reversal" ; :genus :g26 .
+:g26s3 a :Species ; rdfs:label "Entrenched Outcome" ; :genus :g26 .
+
+:g27 a :Genus ; rdfs:label "Becoming / Contradiction / Mediation" .
+:g27s1 a :Species ; rdfs:label "Higher Synthesis" ; :genus :g27 .
+:g27s2 a :Species ; rdfs:label "Self-Posited Determination" ; :genus :g27 .
+:g27s3 a :Species ; rdfs:label "Culminating Actuality" ; :genus :g27 .
+@prefix : <http://127.0.0.1:3000/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@base <http://127.0.0.1:3000/> .
+
+<species.owl> owl:imports <system.owl> ;
+    rdfs:label "SPECIES" .
+
+@base <http://127.0.0.1:3000/logic/> .
+
+<being.owl> owl:imports <pure-being.owl> ;
+    rdfs:label "BEING" .
+<nothing.owl> owl:imports <pure-being.owl> ;
+    rdfs:label "NOTHING" .
+<becoming.owl> owl:imports <pure-being.owl> ;
+    rdfs:label "BECOMING" .
+
+<existence-as-such.owl> owl:imports <existence.owl> ;
+    rdfs:label "EXISTENCE AS SUCH" .
+<finitude.owl> owl:imports <existence.owl> ;
+    rdfs:label "FINITUDE" .
+<infinity.owl> owl:imports <existence.owl> ;
+    rdfs:label "INFINITY" .
+
+<self-as-such.owl> owl:imports <self.owl> ;
+    rdfs:label "BEING-FOR-ITSELF AS SUCH" .
+<one-many.owl> owl:imports <self.owl> ;
+    rdfs:label "THE ONE AND THE MANY" .
+<repulsion-attraction.owl> owl:imports <self.owl> ;
+    rdfs:label "REPULSION AND ATTRACTION" .
+
+@base <http://127.0.0.1:3000/logic/being/quantity/> .
+
+<quantity.owl> owl:imports <pure-quantity.owl> ;
+    rdfs:label "PURE QUANTITY" .
+<continuous-discrete.owl> owl:imports <pure-quantity.owl> ;
+    rdfs:label "CONTINUOUS AND DISCRETE MAGNITUDE" .
+<limiting-quantity.owl> owl:imports <oure-quantity.owl> ;
+    rdfs:label "THE LIMITING OF QUANTITY" .
+
+<number.owl> owl:imports <quantum.owl> ;
+    rdfs:label "NUMBER" .
+<extensive-intensive.owl> owl:imports <quantum.owl> ;
+    rdfs:label "EXTENSIVE AND INTENSIVE QUANTUM" .
+<quantitative-infinity.owl> owl:imports <quantum.owl> ;
+    rdfs:label "QUANTITATIVE INFINITY" .
+
+<ratio-direct.owl> owl:imports <ratio.owl> ;
+    rdfs:label "THE DIRECT RATIO" .
+<ratio-inverse.owl> owl:imports <ratio.owl> ;
+    rdfs:label "THE INVERSE RATIO" .
+<ratio-powers.owl> owl:imports <ratio.owl> ;
+    rdfs:label "THE RATIO OF POWERS" .
+
+@base <http://127.0.0.1:3000/logic/being/measure/> .
+
+<specific-quantum..owl> owl:imports <specific-quantity.owl> ;
+    rdfs:label "THE SPECIFIC QUANTUM" .
+<specifying-measure.owl> owl:imports <specific-quantity.owl> ;
+    rdfs:label "SPECIFYING MEASURE" .
+<self-measure.owl> owl:imports <specific-quantity.owl> ;
+    rdfs:label "THE BEING-FOR-ITSELF IN MEASURE" .
+
+<independent-measures.owl> owl:imports <real-measure.owl> ;
+    rdfs:label "THE RELATION OF INDEPENDENT MEASURES" .
+<nodal-lines.owl> owl:imports <real-measure.owl> ;
+    rdfs:label "NODAL LINES OF MEASURE-RELATIONS" .
+<measureless.owl> owl:imports <real-measure.owl> ;
+    rdfs:label "THE MEASURELESS" .
+
+<absolute-indifference.owl> owl:imports <becoming-essence.owl> ;
+    rdfs:label "ABSOLUTE INDIFFERENCE" .
+<indifference-factors.owl> owl:imports <becoming-essence.owl> ;
+    rdfs:label "INDIFFERENCE AS INVERSE RATIO OF ITS FACTORS" .
+<transition-essence.owl> owl:imports <becoming-essence.owl> ;
+    rdfs:label "TRANSITION INTO ESSENCE" .
+
+@base <http://127.0.0.1:3000/logic/essence/reflection/> .
+
+<essential-unessential.owl> owl:imports <shine.owl> ;
+    rdfs:label "THE ESSENTIAL AND THE UNESSENTIAL" .
+<essential-shine.owl> owl:imports <shine.owl> ;
+    rdfs:label "SHINE" .
+<essential-reflection.owl> owl:imports <shine.owl> ;
+    rdfs:label "REFLECTION" .
+
+<reflection-identity.owl> owl:imports <reflection.owl> ;
+    rdfs:label "IDENTITY" .
+<reflection-difference.owl> owl:imports <reflection.owl> ;
+    rdfs:label "DIFFERENCE" .
+<reflection-contradiction.owl> owl:imports <reflection.owl> ;
+    rdfs:label "CONTRADICTION" .
+
+<ground-absolute.owl> owl:imports <ground.owl> ;
+    rdfs:label "ABSOLUTE GROUND" .
+<ground-determinate.owl> owl:imports <ground.owl> ;
+    rdfs:label "DETERMINATE GROUND" .
+<ground-condition.owl> owl:imports <ground.owl> ;
+    rdfs:label "CONDITION" .
+
+@base <http://127.0.0.1:3000/logic/essence/appearance/> .
+
+<thing-properties.owl> owl:imports <thing.owl> ;
+    rdfs:label "THE THING AND ITS PROPERTIES" .
+<thing-matters.owl> owl:imports <thing.owl> ;
+    rdfs:label "THE CONSTITUTION OF THE THING OUT OF MATTERS" .
+<thing-dissolution.owl> owl:imports <thing.owl> ;
+    rdfs:label "DISSOLUTION OF THE THING" .
+
+<appearance-law.owl> owl:imports <world.owl> ;
+    rdfs:label "THE LAW OF APPEARANCE" .
+<appearance-world.owl> owl:imports <world.owl> ;
+    rdfs:label "THE WORLD OF APPEARANCE AND THE WORLD-IN-ITSELF" .
+<appearance-dissolution.owl> owl:imports <world.owl> ;
+    rdfs:label "THE DISSOLUTION OF APPEARANCE" .
+
+<whole-parts.owl> owl:imports <essential-relation.owl> ;
+    rdfs:label "THE RELATION OF WHOLE AND PARTS" .
+<force-expression.owl> owl:imports <essential-relation.owl> ;
+    rdfs:label "THE RELATION OF FORCE AND ITS EXPRESSION" .
+<inner-outer.owl> owl:imports <essential-relation.owl> ;
+    rdfs:label "RELATION OF OUTER AND INNER" .
+
+@base <http://127.0.0.1:3000/logic/essence/actuality/> .
+
+<absolute-exposition.owl> owl:imports <absolute.owl> ;
+    rdfs:label "THE EXPOSITION OF THE ABSOLUTE" .
+<absolute-attribute.owl> owl:imports <absolute.owl> ;
+    rdfs:label "THE ABSOLUTE ATTRIBUTE" .
+<absolute-mode.owl> owl:imports <absolute.owl> ;
+    rdfs:label "THE MODE OF THE ABSOLUTE" .

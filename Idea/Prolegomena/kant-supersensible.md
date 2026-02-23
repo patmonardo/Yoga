@@ -2,6 +2,10 @@ Remark II. The following important comment suggests itself here: namely, that th
 
 Kant's "Remark II" touches on a crucial aspect of his philosophy, particularly concerning the limitations and nature of human cognition. Let's break down this passage to understand its implications:
 
+### Related
+
+- For a late-Kant “highest standpoint” / Opus Postumum slant (God and World; “Doctrine of Science” language): see [kant-opus-postumum-doctrine-of-science.md](kant-opus-postumum-doctrine-of-science.md).
+
 ### Line-by-Line Analysis
 
 **Remark II.** **The following important comment suggests itself here: namely, that there are three kinds of antinomy of pure reason, which, however, all coincide in this, that they force reason to give up the otherwise very natural presupposition that holds objects of the senses to be things in themselves, and rather to count them as appearances, and ascribe to them an intelligible substratum (something supersensible, the concept of which is only an idea and permits no genuine cognition).**

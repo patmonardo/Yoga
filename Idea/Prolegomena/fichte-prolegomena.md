@@ -2,6 +2,11 @@
 jupyter: python3
 ---
 
+### Related
+
+-   If you want the Schelling background for the nondual/“genetic” pressure on Kant (especially via the Freedom Essay): see [schelling-demonic.md](schelling-demonic.md).
+-   For an immanent refutation of Kantian dualism using late Kant (Opus Postumum) + this 1804 thread: see [refutation-kantian-dualism-kant-fichte.md](refutation-kantian-dualism-kant-fichte.md).
+
 ```
 First Lecture
 Monday, April 16, 1804

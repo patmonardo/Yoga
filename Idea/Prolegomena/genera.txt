@@ -1,0 +1,109 @@
+@prefix : <http://127.0.0.1:3000/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@base <http://127.0.0.1:3000/> .
+
+<genera.owl> owl:imports <system.owl> ;
+    rdfs:label "Genera" .
+
+@base <http://127.0.0.1:3000/logic/> .
+
+<being.owl> owl:imports <system.owl> ;
+    rdfs:label "Being" .
+<essence.owl> owl:imports <system.owl> ;
+    rdfs:label "Essence" .
+<concept.owl> owl:imports <system.owl> ;
+    rdfs:label "The concept" .
+
+@base <http://127.0.0.1:3000/logic/being/> .
+
+<quality.owl> owl:imports <being.owl> ;
+    rdfs:label "Quality" .
+<quantity.owl> owl:imports <being.owl> ;
+    rdfs:label "Quantity" .
+<measure.owl> owl:imports <being.owl> ;
+    rdfs:label "Measure" .
+
+<being.owl> owl:imports <determinateness.owl> ;
+    rdfs:label "Being" .
+<existence.owl> owl:imports <determinateness.owl> ;
+    rdfs:label "Existence" .
+<self.owl> owl:imports <determinateness.owl> ;
+    rdfs:label "Being-for-itself" .
+
+<quantity.owl> owl:imports <magnitude.owl> ;
+    rdfs:label "Quantity" .
+<quantum.owl> owl:imports <magnitude.owl> ;
+    rdfs:label "Quantum" .
+<ratio.owl> owl:imports <magnitude.owl> ;
+    rdfs:label "Ratio" .
+
+<specific-quantity.owl> owl:imports <measure.owl> ;
+    rdfs:label "Specific Quantity" .
+<real-measure.owl> owl:imports <measure.owl> ;
+    rdfs:label "Real Measure" .
+<becoming-essence.owl> owl:imports <measure.owl> ;
+    rdfs:label "Becoming of Essence" .
+
+@base <http://127.0.0.1:3000/logic/essence/> .
+
+<reflection.owl> owl:imports <essence.owl> ;
+    rdfs:label "Essence as reflection within" .
+<appearance.owl> owl:imports <essence.owl> ;
+    rdfs:label "Appearance" .
+<actuality.owl> owl:imports <essence.owl> ;
+    rdfs:label "Actuality" .
+
+<shine.owl> owl:imports <reflection.owl> ;
+    rdfs:label "Shine" .
+<reflect.owl> owl:imports <reflection.owl> ;
+    rdfs:label "The determinations of reflection" .
+<ground.owl> owl:imports <reflection.owl> ;
+    rdfs:label "Ground" .
+
+<thing.owl> owl:imports <appearance.owl> ;
+    rdfs:label "Concrete existence" .
+<world.owl> owl:imports <appearance.owl> ;
+    rdfs:label "Appearance" .
+<essential-relation.owl> owl:imports <appearance.owl> ;
+    rdfs:label "The essential relation" .
+
+<absolute.owl> owl:imports <actuality.owl> ;
+    rdfs:label "The absolute" .
+<absolute-modality.owl> owl:imports <actuality.owl> ;
+    rdfs:label "Actuality" .
+<absolute-relation.owl> owl:imports <actuality.owl> ;
+    rdfs:label "The absolute relation" .
+
+@base <http://127.0.0.1:3000/logic/concept/> .
+
+<subjectivity.owl> owl:imports <concept.owl> ;
+    rdfs:label "Subjectivity" .
+<objectivity.owl> owl:imports <concept.owl> ;
+    rdfs:label "Objectivity" .
+<idea.owl> owl:imports <concept.owl> ;
+    rdfs:label "Idea" .
+
+<concept.owl> owl:imports <subjectivity.owl> ;
+    rdfs:label "The concept" .
+<judgment.owl> owl:imports <subjectivity.owl> ;
+    rdfs:label "Judgment" .
+<syllogism.owl> owl:imports <subjectivity.owl> ;
+    rdfs:label "Syllogism" .
+
+<mechanism.owl> owl:imports <objectivity.owl> ;
+    rdfs:label "Mechanism" .
+<chemism.owl> owl:imports <objectivity.owl> ;
+    rdfs:label "Chemism" .
+<teleology.owl> owl:imports <objectivity.owl> ;
+    rdfs:label "Teleology" .
+
+<life.owl> owl:imports <idea.owl> ;
+    rdfs:label "Life" .
+<cognition.owl> owl:imports <idea.owl> ;
+    rdfs:label "The idea of cognition" .
+<absolute-idea.owl> owl:imports <idea.owl> ;
+    rdfs:label "The absolute idea" .

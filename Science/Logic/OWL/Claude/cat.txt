@@ -1,0 +1,254 @@
+@prefix : <http://example.org/being#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+:Being a owl:Class .
+:Quality a owl:Class ; rdfs:subClassOf :Being .
+:Quantity a owl:Class ; rdfs:subClassOf :Being .
+:Measure a owl:Class ; rdfs:subClassOf :Being .
+
+:Being_ a owl:Class ; rdfs:subClassOf :Quality .
+:Existence a owl:Class ; rdfs:subClassOf :Quality .
+:BeingForItself a owl:Class ; rdfs:subClassOf :Quality .
+
+:BEING a owl:Class ; rdfs:subClassOf :Being_ .
+:NOTHING a owl:Class ; rdfs:subClassOf :Being_ .
+:BECOMING a owl:Class ; rdfs:subClassOf :Being_ .
+
+:UnityOfBeingAndNothing a owl:Class ; rdfs:subClassOf :BECOMING .
+:TheMomentsOfBecoming a owl:Class ; rdfs:subClassOf :BECOMING .
+:SublationOfBecoming a owl:Class ; rdfs:subClassOf :BECOMING .
+
+:EXISTENCEASUCH a owl:Class ; rdfs:subClassOf :Existence .
+:FINITUDE a owl:Class ; rdfs:subClassOf :Existence .
+:INFINITY a owl:Class ; rdfs:subClassOf :Existence .
+
+:ExistenceInGeneral a owl:Class ; rdfs:subClassOf :EXISTENCEASUCH .
+:Quality_ a owl:Class ; rdfs:subClassOf :EXISTENCEASUCH .
+:Something a owl:Class ; rdfs:subClassOf :EXISTENCEASUCH .
+
+:SomethingAndOther a owl:Class ; rdfs:subClassOf :FINITUDE .
+:DeterminationConstitutionAndLimit a owl:Class ; rdfs:subClassOf :FINITUDE .
+:Finitude_ a owl:Class ; rdfs:subClassOf :FINITUDE .
+
+:TheImmediacyOfFinitude a owl:Class ; rdfs:subClassOf :Finitude_ .
+:RestrictionAndTheOught a owl:Class ; rdfs:subClassOf :Finitude_ .
+:TransitionOfTheFiniteIntoTheInfinite a owl:Class ; rdfs:subClassOf :Finitude_ .
+
+:TheInfiniteInGeneral a owl:Class ; rdfs:subClassOf :INFINITY .
+:AlternatingDeterminationOfFiniteAndInfinite a owl:Class ; rdfs:subClassOf :INFINITY .
+:AffirmativeInfinity a owl:Class ; rdfs:subClassOf :INFINITY .
+
+:BEINGFORITSELF_AS_SUCH a owl:Class ; rdfs:subClassOf :BeingForItself .
+:THE_ONE_AND_THE_MANY a owl:Class ; rdfs:subClassOf :BeingForItself .
+:REPULSION_AND_ATTRACTION a owl:Class ; rdfs:subClassOf :BeingForItself .
+
+:ExistenceAndBeingForItself a owl:Class ; rdfs:subClassOf :BEINGFORITSELF_AS_SUCH .
+:BeingForOne a owl:Class ; rdfs:subClassOf :BEINGFORITSELF_AS_SUCH .
+:TheOne a owl:Class ; rdfs:subClassOf :BEINGFORITSELF_AS_SUCH .
+
+:TheOneWithin a owl:Class ; rdfs:subClassOf :THE_ONE_AND_THE_MANY .
+:TheOneAndTheVoid a owl:Class ; rdfs:subClassOf :THE_ONE_AND_THE_MANY .
+:ManyOnes a owl:Class ; rdfs:subClassOf :THE_ONE_AND_THE_MANY .
+
+:ExclusionOfTheOne a owl:Class ; rdfs:subClassOf :REPULSION_AND_ATTRACTION .
+:TheOneOneOfAttraction a owl:Class ; rdfs:subClassOf :REPULSION_AND_ATTRACTION .
+:TheConnectionOfRepulsionAndAttraction a owl:Class ; rdfs:subClassOf :REPULSION_AND_ATTRACTION .
+
+:PURE_QUANTITY a owl:Class ; rdfs:subClassOf :Quantity .
+:CONTINUOUS_AND_DISCRETE_MAGNITUDE a owl:Class ; rdfs:subClassOf :Quantity .
+:THE_LIMITING_OF_QUANTITY a owl:Class ; rdfs:subClassOf :Quantity .
+
+:Quantum a owl:Class ; rdfs:subClassOf :Quantity .
+
+:NUMBER a owl:Class ; rdfs:subClassOf :Quantum .
+:EXTENSIVE_AND_INTENSIVE_QUANTUM a owl:Class ; rdfs:subClassOf :Quantum .
+:QUANTITATIVE_INFINITY a owl:Class ; rdfs:subClassOf :Quantum .
+
+:TheirDifference a owl:Class ; rdfs:subClassOf :EXTENSIVE_AND_INTENSIVE_QUANTUM .
+:IdentityOfExtensiveAndIntensiveMagnitude a owl:Class ; rdfs:subClassOf :EXTENSIVE_AND_INTENSIVE_QUANTUM .
+:AlterationOfQuantum a owl:Class ; rdfs:subClassOf :EXTENSIVE_AND_INTENSIVE_QUANTUM .
+
+:ItsConcept a owl:Class ; rdfs:subClassOf :QUANTITATIVE_INFINITY .
+:TheQuantitativeInfiniteProcess a owl:Class ; rdfs:subClassOf :QUANTITATIVE_INFINITY .
+:TheInfinityOfQuantum a owl:Class ; rdfs:subClassOf :QUANTITATIVE_INFINITY .
+
+:RatioOrTheQuantitativeRelation a owl:Class ; rdfs:subClassOf :Quantity .
+
+:THE_DIRECT_RATIO a owl:Class ; rdfs:subClassOf :RatioOrTheQuantitativeRelation .
+:THE_INVERSE_RATIO a owl:Class ; rdfs:subClassOf :RatioOrTheQuantitativeRelation .
+:THE_RATIO_OF_POWERS a owl:Class ; rdfs:subClassOf :RatioOrTheQuantitativeRelation .
+
+:SpecificQuantity a owl:Class ; rdfs:subClassOf :Measure .
+:RealMeasure a owl:Class ; rdfs:subClassOf :Measure .
+:TheBecomingOfEssence a owl:Class ; rdfs:subClassOf :Measure .
+
+:THE_SPECIFIC_QUANTUM a owl:Class ; rdfs:subClassOf :SpecificQuantity .
+:SPECIFYING_MEASURE a owl:Class ; rdfs:subClassOf :SpecificQuantity .
+:THE_BEING_FOR_ITSELF_IN_MEASURE a owl:Class ; rdfs:subClassOf :SpecificQuantity .
+
+:TheRule a owl:Class ; rdfs:subClassOf :SPECIFYING_MEASURE .
+:SpecifyingMeasure_ a owl:Class ; rdfs:subClassOf :SPECIFYING_MEASURE .
+:RelationOfTheTwoSidesAsQualities a owl:Class ; rdfs:subClassOf :SPECIFYING_MEASURE .
+
+:THE_RELATION_OF_INDEPENDENT_MEASURES a owl:Class ; rdfs:subClassOf :RealMeasure .
+:NODAL_LINES_OF_MEASURE_RELATIONS a owl:Class ; rdfs:subClassOf :RealMeasure .
+:THE_MEASURELESS a owl:Class ; rdfs:subClassOf :RealMeasure .
+
+:CombinationOfTwoMeasures a owl:Class ; rdfs:subClassOf :THE_RELATION_OF_INDEPENDENT_MEASURES .
+:MeasureAsASeriesOfMeasureRelations a owl:Class ; rdfs:subClassOf :THE_RELATION_OF_INDEPENDENT_MEASURES .
+:ElectiveAffinity a owl:Class ; rdfs:subClassOf :THE_RELATION_OF_INDEPENDENT_MEASURES .
+
+:ABSOLUTE_INDIFFERENCE a owl:Class ; rdfs:subClassOf :TheBecomingOfEssence .
+:INDIFFERENCE_AS_INVERSE_RATIO_OF_ITS_FACTORS a owl:Class ; rdfs:subClassOf :TheBecomingOfEssence .
+:TRANSITION_INTO_ESSENCE a owl:Class ; rdfs:subClassOf :TheBecomingOfEssence .
+
+:hasChild a owl:ObjectProperty .
+
+# Define the child relationships
+:Being :hasChild :Quality, :Quantity, :Measure .
+:Quality :hasChild :Being_, :Existence, :BeingForItself .
+:Being_ :hasChild :BEING, :NOTHING, :BECOMING .
+:BECOMING :hasChild :UnityOfBeingAndNothing, :TheMomentsOfBecoming, :SublationOfBecoming .
+:Existence :hasChild :EXISTENCEASUCH, :FINITUDE, :INFINITY .
+:EXISTENCEASUCH :hasChild :ExistenceInGeneral, :Quality_, :Something .
+:FINITUDE :hasChild :SomethingAndOther, :DeterminationConstitutionAndLimit, :Finitude_ .
+:Finitude_ :hasChild :TheImmediacyOfFinitude, :RestrictionAndTheOught, :TransitionOfTheFiniteIntoTheInfinite .
+:INFINITY :hasChild :TheInfiniteInGeneral, :AlternatingDeterminationOfFiniteAndInfinite, :AffirmativeInfinity .
+:BeingForItself :hasChild :BEINGFORITSELF_AS_SUCH, :THE_ONE_AND_THE_MANY, :REPULSION_AND_ATTRACTION .
+:BEINGFORITSELF_AS_SUCH :hasChild :ExistenceAndBeingForItself, :BeingForOne, :TheOne .
+:THE_ONE_AND_THE_MANY :hasChild :TheOneWithin, :TheOneAndTheVoid, :ManyOnes .
+:REPULSION_AND_ATTRACTION :hasChild :ExclusionOfTheOne, :TheOneOneOfAttraction, :TheConnectionOfRepulsionAndAttraction .
+:Quantity :hasChild :PURE_QUANTITY, :CONTINUOUS_AND_DISCRETE_MAGNITUDE, :THE_LIMITING_OF_QUANTITY .
+:Quantum :hasChild :NUMBER, :EXTENSIVE_AND_INTENSIVE_QUANTUM, :QUANTITATIVE_INFINITY .
+:EXTENSIVE_AND_INTENSIVE_QUANTUM :hasChild :TheirDifference, :IdentityOfExtensiveAndIntensiveMagnitude, :AlterationOfQuantum .
+:QUANTITATIVE_INFINITY :hasChild :ItsConcept, :TheQuantitativeInfiniteProcess, :TheInfinityOfQuantum .
+:RatioOrTheQuantitativeRelation :hasChild :THE_DIRECT_RATIO, :THE_INVERSE_RATIO, :THE_RATIO_OF_POWERS .
+:Measure :hasChild :SpecificQuantity, :RealMeasure, :TheBecomingOfEssence .
+:SpecificQuantity :hasChild :THE_SPECIFIC_QUANTUM, :SPECIFYING_MEASURE, :THE_BEING_FOR_ITSELF_IN_MEASURE .
+:SPECIFYING_MEASURE :hasChild :TheRule, :SpecifyingMeasure_, :RelationOfTheTwoSidesAsQualities .
+:RealMeasure :hasChild :THE_RELATION_OF_INDEPENDENT_MEASURES, :NODAL_LINES_OF_MEASURE_RELATIONS, :THE_MEASURELESS .
+:THE_RELATION_OF_INDEPENDENT_MEASURES :hasChild :CombinationOfTwoMeasures, :MeasureAsASeriesOfMeasureRelations, :ElectiveAffinity .
+:TheBecomingOfEssence :hasChild :ABSOLUTE_INDIFFERENCE, :INDIFFERENCE_AS_INVERSE_RATIO_OF_ITS_FACTORS, :TRANSITION_INTO_ESSENCE .
+
+
+
+@prefix : <http://example.org/concept#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+:Concept a owl:Class .
+:Subjectivity a owl:Class ; rdfs:subClassOf :Concept .
+:Objectivity a owl:Class ; rdfs:subClassOf :Concept .
+:TheIdea a owl:Class ; rdfs:subClassOf :Concept .
+
+:TheConcept a owl:Class ; rdfs:subClassOf :Subjectivity .
+:Judgment a owl:Class ; rdfs:subClassOf :Subjectivity .
+:TheSyllogism a owl:Class ; rdfs:subClassOf :Subjectivity .
+
+:TheUniversalConcept a owl:Class ; rdfs:subClassOf :TheConcept .
+:TheParticularConcept a owl:Class ; rdfs:subClassOf :TheConcept .
+:TheSingular a owl:Class ; rdfs:subClassOf :TheConcept .
+
+:TheJudgmentOfExistence a owl:Class ; rdfs:subClassOf :Judgment .
+:TheJudgmentOfReflection a owl:Class ; rdfs:subClassOf :Judgment .
+:TheJudgmentOfNecessity a owl:Class ; rdfs:subClassOf :Judgment .
+:TheJudgmentOfTheConcept a owl:Class ; rdfs:subClassOf :Judgment .
+
+:ThePositiveJudgment a owl:Class ; rdfs:subClassOf :TheJudgmentOfExistence .
+:TheNegativeJudgment a owl:Class ; rdfs:subClassOf :TheJudgmentOfExistence .
+:TheInfiniteJudgment a owl:Class ; rdfs:subClassOf :TheJudgmentOfExistence .
+
+:TheSingularJudgment a owl:Class ; rdfs:subClassOf :TheJudgmentOfReflection .
+:TheParticularJudgment a owl:Class ; rdfs:subClassOf :TheJudgmentOfReflection .
+:TheUniversalJudgment a owl:Class ; rdfs:subClassOf :TheJudgmentOfReflection .
+
+:TheCategoricalJudgment a owl:Class ; rdfs:subClassOf :TheJudgmentOfNecessity .
+:TheHypotheticalJudgment a owl:Class ; rdfs:subClassOf :TheJudgmentOfNecessity .
+:TheDisjunctiveJudgment a owl:Class ; rdfs:subClassOf :TheJudgmentOfNecessity .
+
+:TheAssertoricalJudgment a owl:Class ; rdfs:subClassOf :TheJudgmentOfTheConcept .
+:TheProblematicJudgment a owl:Class ; rdfs:subClassOf :TheJudgmentOfTheConcept .
+:TheApodicticalJudgment a owl:Class ; rdfs:subClassOf :TheJudgmentOfTheConcept .
+
+:TheSyllogismOfExistence a owl:Class ; rdfs:subClassOf :TheSyllogism .
+:TheSyllogismOfReflection a owl:Class ; rdfs:subClassOf :TheSyllogism .
+:TheSyllogismOfNecessity a owl:Class ; rdfs:subClassOf :TheSyllogism .
+
+:FirstFigureOfTheSyllogism a owl:Class ; rdfs:subClassOf :TheSyllogismOfExistence .
+:TheSecondFigure a owl:Class ; rdfs:subClassOf :TheSyllogismOfExistence .
+:TheThirdFigure a owl:Class ; rdfs:subClassOf :TheSyllogismOfExistence .
+
+:TheSyllogismOfAllness a owl:Class ; rdfs:subClassOf :TheSyllogismOfReflection .
+:TheSyllogismOfInduction a owl:Class ; rdfs:subClassOf :TheSyllogismOfReflection .
+:TheSyllogismOfAnalogy a owl:Class ; rdfs:subClassOf :TheSyllogismOfReflection .
+
+:TheCategoricalSyllogism a owl:Class ; rdfs:subClassOf :TheSyllogismOfNecessity .
+:TheHypotheticalSyllogism a owl:Class ; rdfs:subClassOf :TheSyllogismOfNecessity .
+:TheDisjunctiveSyllogism a owl:Class ; rdfs:subClassOf :TheSyllogismOfNecessity .
+
+:Mechanism a owl:Class ; rdfs:subClassOf :Objectivity .
+:Chemism a owl:Class ; rdfs:subClassOf :Objectivity .
+:Teleology a owl:Class ; rdfs:subClassOf :Objectivity .
+
+:TheMechanicalObject a owl:Class ; rdfs:subClassOf :Mechanism .
+:TheMechanicalProcess a owl:Class ; rdfs:subClassOf :Mechanism .
+:AbsoluteMechanism a owl:Class ; rdfs:subClassOf :Mechanism .
+
+:TheFormalMechanicalProcess a owl:Class ; rdfs:subClassOf :TheMechanicalProcess .
+:TheRealMechanicalProcess a owl:Class ; rdfs:subClassOf :TheMechanicalProcess .
+:TheProductOfTheMechanicalProcess a owl:Class ; rdfs:subClassOf :TheMechanicalProcess .
+
+:TheCenter a owl:Class ; rdfs:subClassOf :AbsoluteMechanism .
+:TheLaw a owl:Class ; rdfs:subClassOf :AbsoluteMechanism .
+:TransitionOfMechanism a owl:Class ; rdfs:subClassOf :AbsoluteMechanism .
+
+:TheChemicalObject a owl:Class ; rdfs:subClassOf :Chemism .
+:TheProcess a owl:Class ; rdfs:subClassOf :Chemism .
+:TransitionOfChemism a owl:Class ; rdfs:subClassOf :Chemism .
+
+:TheSubjectivePurpose a owl:Class ; rdfs:subClassOf :Teleology .
+:TheMeans a owl:Class ; rdfs:subClassOf :Teleology .
+:TheRealizedPurpose a owl:Class ; rdfs:subClassOf :Teleology .
+
+:Life a owl:Class ; rdfs:subClassOf :TheIdea .
+:TheIdeaOfCognition a owl:Class ; rdfs:subClassOf :TheIdea .
+:TheAbsoluteIdea a owl:Class ; rdfs:subClassOf :TheIdea .
+
+:TheLivingIndividual a owl:Class ; rdfs:subClassOf :Life .
+:TheLifeProcess a owl:Class ; rdfs:subClassOf :Life .
+:TheGenus a owl:Class ; rdfs:subClassOf :Life .
+
+:TheIdeaOfTheTrue a owl:Class ; rdfs:subClassOf :TheIdeaOfCognition .
+:TheIdeaOfTheGood a owl:Class ; rdfs:subClassOf :TheIdeaOfCognition .
+
+:AnalyticCognition a owl:Class ; rdfs:subClassOf :TheIdeaOfTheTrue .
+:SyntheticCognition a owl:Class ; rdfs:subClassOf :TheIdeaOfTheTrue .
+
+:hasChild a owl:ObjectProperty .
+
+# Define the child relationships
+:Concept :hasChild :Subjectivity, :Objectivity, :TheIdea .
+:Subjectivity :hasChild :TheConcept, :Judgment, :TheSyllogism .
+:TheConcept :hasChild :TheUniversalConcept, :TheParticularConcept, :TheSingular .
+:Judgment :hasChild :TheJudgmentOfExistence, :TheJudgmentOfReflection, :TheJudgmentOfNecessity, :TheJudgmentOfTheConcept .
+:TheJudgmentOfExistence :hasChild :ThePositiveJudgment, :TheNegativeJudgment, :TheInfiniteJudgment .
+:TheJudgmentOfReflection :hasChild :TheSingularJudgment, :TheParticularJudgment, :TheUniversalJudgment .
+:TheJudgmentOfNecessity :hasChild :TheCategoricalJudgment, :TheHypotheticalJudgment, :TheDisjunctiveJudgment .
+:TheJudgmentOfTheConcept :hasChild :TheAssertoricalJudgment, :TheProblematicJudgment, :TheApodicticalJudgment .
+:TheSyllogism :hasChild :TheSyllogismOfExistence, :TheSyllogismOfReflection, :TheSyllogismOfNecessity .
+:TheSyllogismOfExistence :hasChild :FirstFigureOfTheSyllogism, :TheSecondFigure, :TheThirdFigure .
+:TheSyllogismOfReflection :hasChild :TheSyllogismOfAllness, :TheSyllogismOfInduction, :TheSyllogismOfAnalogy .
+:TheSyllogismOfNecessity :hasChild :TheCategoricalSyllogism, :TheHypotheticalSyllogism, :TheDisjunctiveSyllogism .
+:Objectivity :hasChild :Mechanism, :Chemism, :Teleology .
+:Mechanism :hasChild :TheMechanicalObject, :TheMechanicalProcess, :AbsoluteMechanism .
+:TheMechanicalProcess :hasChild :TheFormalMechanicalProcess, :TheRealMechanicalProcess, :TheProductOfTheMechanicalProcess .
+:AbsoluteMechanism :hasChild :TheCenter, :TheLaw, :TransitionOfMechanism .
+:Chemism :hasChild :TheChemicalObject, :TheProcess, :TransitionOfChemism .
+:Teleology :hasChild :TheSubjectivePurpose, :TheMeans, :TheRealizedPurpose .
+:TheIdea :hasChild :Life, :TheIdeaOfCognition, :TheAbsoluteIdea .
+:Life :hasChild :TheLivingIndividual, :TheLifeProcess, :TheGenus .
+:TheIdeaOfCognition :hasChild :TheIdeaOfTheTrue, :TheIdeaOfTheGood .
+:TheIdeaOfTheTrue :hasChild :AnalyticCognition, :SyntheticCognition .
