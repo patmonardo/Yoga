@@ -16,7 +16,7 @@
 <essence.owl> owl:imports <system.owl> ;
     rdfs:label "Essence" .
 <concept.owl> owl:imports <system.owl> ;
-    rdfs:label "The concept" .
+    rdfs:label "Concept" .
 
 @base <http://127.0.0.1:3000/logic/being/> .
 
@@ -88,7 +88,7 @@
     rdfs:label "Idea" .
 
 <concept.owl> owl:imports <subjectivity.owl> ;
-    rdfs:label "The concept" .
+    rdfs:label "Concept as such" .
 <judgment.owl> owl:imports <subjectivity.owl> ;
     rdfs:label "Judgment" .
 <syllogism.owl> owl:imports <subjectivity.owl> ;

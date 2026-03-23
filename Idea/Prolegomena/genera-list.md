@@ -10,7 +10,7 @@ This file records the canonical genera for the Logic project. Each entry mirrors
 
 - Being — The domain of determinateness, existence, and modes of presence.
 - Essence — The domain of reflection, appearance, and actuality (structure of underlying determinations).
-- The Concept — The domain of conceptual determination: subjectivity, objectivity, and ideas.
+- Concept — The domain of conceptual determination: subjectivity, objectivity, and ideas.
 
 **Being (primary subdivisions)**
 
