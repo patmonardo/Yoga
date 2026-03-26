@@ -1,0 +1,950 @@
+
+Appendix
+On the amphiboly of the concepts
+of rejlection b through the confusion of the
+empirical use of the understanding with
+the transcendental.
+a
+
+A 260/B 3 16
+
+A261
+B 317
+
+Reflectionc (rejlexio) does not have to do with objects themselves, in
+order to acquire concepts directly from them, but is rather the state of
+mind in which we first prepare ourselves to find out the subjective con­
+ditions under which we can arrive at concepts.97 It is the consciousness
+of the relation d of given representations to our various sources of cog­
+nition, through which alone their relation among themselves can be
+correctly determined. The first question prior to all further treatment
+of our representation is this: In which cognitive faculty do they belong
+together? Is it the understanding or is it the senses before which they
+are connected or compared? Many a judgment is accepted out of habit,
+or connected through inclination: but since no reflection preceded or at
+least critically succeeded it, i t counts as one that has received its origin
+in the understanding. Not all judgments require an investigation, i.e.,
+attention to the grounds of truth; for if they are immediately certain,
+e.g., between two points there can b e only one straight line, then no
+further mark of truth can be given for them than what they themselves
+express. But all judgments, indeed all comparisons, require a reflec­
+tion, i.e., a distinction of the cognitive power to which the given con-
+
+a There are only minor differences between the versions of this section in the two edi­
+
+b
+
+tions, mostly changes in orthography that do not affect the translation. Thus only one
+version of the section will be presented here.
+
+Reflexion
+, Uberlegung; since the following parenthesis shows that Kant treats this Germanic term
+as synonymous with the Latinate Reflexion, we will not mark any distinction between
+occurrences of Uberlegung and Reflexion.
+d Verbaltnisses. Since Beziebung occurs only three times in this section, we will note only
+when "relation" is used to translate that term rather than the far more frequent occur­
+rences of Verbaltnis.
+
+3 66
+
+On the amphiboly of concepts of reflection
+
+cepts belong.a The action through which I make the comparison of rep­
+resentations in general with the cognitive power in which they are sit­
+uated, and through which I distinguish whether they are to be
+compared to one another as belonging to the pure understanding or to
+pure intuition, I call transcendental reflection. The relation, however,
+in which the concepts in a state of mind can belong to each other are
+those of identity and difference, of agreement and opposition, of the
+inner and the outer, and finally of the determinable and the deter­
+mination (matter and form). The correct determination of this relation
+depends on the cognitive power in which they subjectively belong to
+each other, whether in sensibility or in understanding. For the differ­
+ence in the latter makes a great difference in the way in which one
+ought to think of the former.
+Prior to all objective judgments we compare the concepts, with regard to identityb (of many representations under one concept) for the
+sake of universal judgments, or their difference, for the generation of
+particular ones, with regard to agreement, for affirmative judgments,
+or opposition,' for negative ones, etc. On this ground it would seem
+that we ought to call these concepts concepts of comparison (conceptus
+comparationis). But since, if it is not the logical form but the content of
+concepts that is concerned, i.e., whether the things themselves are identical or different, in agreement or in opposition, etc., the things can
+have a twofold relation to our power of cognition, namely to sensibility
+and to understanding, yet it is this place in which they belong that concerns how they ought to belong to each other, then it is transcendental
+reflection, i.e., the relation of given representations to one or the other
+kind of cognition, that can alone determine their relation among themselves, and whether the things are identical or different, in agreement
+or in opposition, etc., cannot immediately be made out from the concepts themselves through mere comparison (comparatio), but rather only
+through the distinction of the kind of cognition to which they belong,
+by means of a transcendental reflection (reflexio). To be sure, one could
+a Inserted in Kant's copy of the first edition: "The judgment in accordance with concepts
+of reflection is, with regard to things in themselves, analytic, only the consciousness to
+determine, in appearances, is synthetic." (E CXLI, p. 44; 2 3 : 3 7)
+b Einerleybeit. The following note is inserted in Kant's copy of the first edition: "VV"hether
+identical concepts of things prove one and the same thing, and therefore no multiplicity,
+or whether in spite of complete identity of concepts there can yet be many things, on ac­
+count of the difference in places - this belongs to logical quantity." (E CXLII, p. 44;
+2 3 '37)
+, Widerstreit. Inserted in Kant's copy of the first edition: "Mutually non-contradictory
+concepts of realities are in agreement. Can I therefore say that the things are in agree­
+ment, which consist in those very things together? Conversely, can two opposed deter­
+minations in an alteration be in opposition to each other in the thing in itself, but in
+agreement in the phaenomenon?" (E CXLIII, pp. 44-5; 23:37)
+
+3 67
+
+A 262
+
+B 3 18
+
+Doctrine of Elements. Pt. II. Div. I. Bk. II. Appendix
+
+A 26 3
+B 3 19
+
+A 2 64
+B 3 20
+
+therefore say that logical reflection is a mere comparison, for in its
+case there is complete abstraction from the cognitive power to which
+the given representations belong, and they are thus to be treated the
+same as far as their seat in the mind is concerned; transcendental re­
+flection, however, (which goes to the objects themselves) contains the
+ground of the possibility of the objective comparison of the representa­
+tions to each other, and is therefore very different from the other, since
+the cognitive power to which the representations belong is not precisely
+the same. This transcendental reflection is a duty from which no one
+can escape ifhe would judge anything about things a priori. We will now
+take it in hand, and will draw from it not a little illumination of the de­
+termination of the proper business of the understanding.a
+1 . Identity and difference.98 If an object is presented to us several
+times, but always with the same inner determinations (qualitas et quan­
+titas), then it is always exactly the same if it counts as an object of pure
+understanding, not many but only oneb thing (numerica identitas)/ but if
+it is appearance, then the issue is not the comparison of concepts, but
+rather, however identical everything may be in regard to that, the dif­
+ference of the places of these appearances at the same time is still an ad­
+equate ground for the numerical difference of the object (of the
+senses) itself. Thus, in the case of two drops of water one can completely abstract from all inner difference (of quality and quantity), and
+it is enough that they be intuited in different places at the same time in
+order for them to be held to be numerically different. Leibniz99 took
+the appearances for things in themselves, thus for intelligibilia, i.e., ob­
+jects of the pure understanding (although on account of the confusion
+of their representations he labeled them with the name ofphenomena),d
+and there his principle of non-discernibility (principium identitatis in­
+discernibilium), could surely not be disputed,IOO but since they are ob­
+jects of sensibility, and the understanding with regard to them is not of
+pure but of empirical use, multiplicity and numerical difference are al­
+ready given by space itself as the condition of outer appearances. For a
+part of space, even though it might be completely similar and equal to
+anotller, is nevertheless outside of it, and is on that account a different
+part from that which is added to it in order to constitute a larger space;
+and this must therefore hold of everything that exists simultaneously in
+Inserted in Kant's copy of the first edition: "These propositions obviously teach that
+space and time hold only of things, and among them also of ourselves, as appearances;
+for otherwise they would not yield entirely opposed propositions, like those we assert
+of things in themselves." (E CXLIV; p. 45; 2 3 : 3 7)
+b In the first edition, "many" (viel) and "only one" (nur Ein) were emphasized.
+, numerical identity
+d Not in roman type.
+, principle of the identity of indiscernibles
+a
+
+3 68
+
+On the amphiboly of concepts of reflection
+
+the various positions in space, no matter how similar and equal they
+might otherwise be.
+2. Agreement and opposition. If reality is represented only through
+the pure understanding (realitas noumenon), then no opposition be­
+tween realities can be thought, i.e., a relation such that when they are
+bound together in one subject they cancel out their consequences, as in
+3 - 3 = a.a,IOI Realitiesb in appearance (realitas phaenomenon), on the
+contrary, can certainly be in opposition with each other and, united in
+the same subject, one can partly or wholly destroy the consequence of
+the other, like two moving forces in the same straight line that either
+push or pull a point in opposed directions, or also like an enjoyment
+that balances the scale against a pain. c
+3 .d The inner and the outer. In an object of the pure understanding
+only that is internal that has no relation e (as far as the existence is concerned) to anything that is different from it. The inner determinations
+of a substantia phaenomenonf in space, on the contrary, are nothing but
+relations, and it is itself entirely a sum total of mere relations.g,b We
+know substance in space only through forces that are efficacious in it,
+whether in drawing others to it (attraction) or in preventing penetration
+of it (repulsion and impenetrability); we are not acquainted with other
+properties constituting the concept of the substance that appears in
+space and which we call matter. As object i of the pure understanding,
+on the contrary, every substance must have inner determinations and
+forces that pertain to its inner reality. Yet what can I think of as inner
+accidents except for those which my inner sense offers me? - namely
+that which is either itself thinking or which is analogous to one. Thus
+because he represented them as noumena, taking away in thought everything that might signify outer relation! thus even composition, Leibniz made out of all substances, even the constituents of matter, simple
+subjects gifted with powers of representation, in a word, monads. I02
+4. Matter and form. These are two concepts that ground all other rea
+
+b
+
+Kant's copy of the first edition adds: "for reality is opposed to mere negation = 0. "
+( E CXLV; p . 45; 2 3 =49)
+
+Das Reale
+
+Inserted in Kant's copy of the first edition: "This misunderstanding causes one to place
+all ill and evil in the world, all vice and pain, in mere negations, and to value reality so
+highly." (E CXLVI, p. 45; 2 3 = 3 7)
+d Added in Kant's copy of the first edition: "Idealism and dualism." (E CXLVII, p. 45)
+C
+
+,
+
+Beziehung
+
+g
+
+Relationen
+
+f phenomenal substance
+h Inserted in Kant's copy of the first edition: "In space there are solely outer relations, in
+i
+
+time purely inner ones; the absolute is absent." (E CXLVIII, p. 45; 2 3 : 3 7)
+
+Object
+J Relation
+
+3 69
+
+A 2 6S
+B 321
+
+A 266
+B 32 2
+
+Doctrine of Elements. Pt. II. Div. I. Bk. II. Appendix
+
+flection, so inseparably are they bound up with every use of the under­
+standing. The former signifies the determinable in general, the latter its
+determination a (both in the transcendental sense,h since one abstracts
+from all differences in what is given and from the way in which that is
+determined). The logicians formerly called the universal the matter, but
+the specific difference the form. In every judgment one can call the given
+concepts logical matter (for judgment), their relation (by means of the
+copula) the form of the judgment. In every being its components (essen­
+tialia) are the matter; the way in which they are connected in a thing, the
+essential form. Also, in respect to things in general, unbounded reality is
+regarded as the matter of all possibility, but its limitation (negation) as
+A 2 67 that form through which One thing is distinguished from another in ac­
+cordance with transcendental concepts. The understanding, namely, deB 3 2 3 mands first that something be given (at least in the concept) in order to
+be able to determine it in a certain way. Hence in the concept of pure
+understanding matter precedes form, and on this account Leibniz first
+assumed things (monads) and an internal power of representation in
+them, in order subsequently to ground On that their outer relation and
+the community of their states (namely of the representations) on that.
+Hence space and time were possible, the former only through the rela­
+tion of substances, the latter through the connection of their determina­
+tions as grounds and consequences.!03 And so would it in fact have to be
+if the pure understanding could be related to objects immediately, and if
+space and time were determinations of the things in themselves. But if it
+is only sensible intuitions in which we determine all objects merely as
+appearances, then the form of intuition (as a subjective constitution of
+sensibility) precedes all matter (the sensations), thus space and time pre­
+cede all appearances and all data of appearances, and instead first make
+the latter possible. The intellectualist philosopher could not bear it that
+form should precede the things and determine their possibility; a quite
+appropriate criticism, if he assumed that we intuit things as they are
+A 268 (though with confused representation). But since sensible intuition is an
+B 324 entirely peculiar subjective condition, which grounds all perception a
+priori, and the form of which is original, thus the form is given for itself
+alone, and so far is it from being the case that the matter (or the things
+themselves, which appear) ought to be the ground (as one would have to
+judge according to mere concepts), that rather their possibility presup­
+poses a formal intuition (of space and time) as given.
+a Inserted in Kant's copy of the first edition: "The thoroughgoing determination as prin­
+
+h
+
+ciple [Princip] is grounded on the unity of consciousness: existence determined in space
+and time. Hence in noumena the highest reality contains the matter and the form con­
+tains the perfection. Theformale is the best." (E CXLIX, p. 45; 2 3 :37)
+
+Verstande
+3 70
+
+On the amphiboly of concepts of reflection
+
+Remark
+to the amphiboly of the concepts of reflection.
+Allow me to call the position that we assign to a concept either in sen­
+sibility or in pure understanding its transcendental place. In the same
+way, the estimation of this position that pertains to every concept in ac­
+cordance with the difference in its use, and guidance for determining
+this place for all concepts in accordance with rules, would be the tran­
+scendental topic, a doctrine that would thoroughly protect against
+false pretenses of the pure understanding and illusions arising there­
+from by always distinguishing to which cognitive power the concepts
+properly belong. One can call every concept, every title under which
+many cognitions belong, a logical place. On this is grounded the log­
+ical topics of Aristotle, which schoolteachers and orators could use in
+order to hunt up certain titles of thinking to find that which best fits A 2 6 9
+their current matter and rationalize or garrulously chatter about it with B 3 2 5
+an appearance of thoroughness. 104
+The transcendental topic, on the contrary, contains nothing more
+than the four titles for all comparison and distinction introduced above,
+which are distinguished from categories by the fact that what is exhib­
+ited through them is not the object in accordance with what constitutes
+its concept (magnitude, reality), but rather only the comparison of rep­
+resentations, in all their manifoldness, which precedes the concepts of
+things. This comparison, however, first requires a reflection, i.e., a de­
+termination of the place where the representations of the things that are
+compared belong, thus of whether they are thought by the pure under­
+standing or given in appearance by sensibility.
+The concepts can be compared logically without worrying about
+where their objectsa belong, whether as noumenab to the understanding
+or as phenomena" to sensibility. But if we would get to the objects with
+these concepts, then transcendental reflection about which cognitive
+power they are objects for, whether for the pure understanding or for
+sensibility, is necessary first of all. Without this reflection I can make
+only a very insecure use of these concepts, and there arise allegedly syn- .
+thetic principles, which critical reason cannot acknowledge and that are A 2 70/ B 3 26
+grounded solely on a transcendental amphiboly, i.e., a confusion of the
+pure object of the understandingd with the appearance.
+Lacking such a transcendental topic, and thus deceived by the am­
+phiboly of the concepts of reflection, the famous Leibniz constructed
+Objecte
+b Not in roman type.
+a
+
+, Not in roman type.
+
+d Verstandesobjects
+371
+
+Doctrine of Elements. Pt. II. Div. I. Bk. II. Appendix
+
+an intellectual system of the world, or rather believed himself able to
+cognize the inner constitution of things by comparing all objects only
+with the understanding and the abstract formal concepts of its thinking.
+Our table of the concepts of reflection gives us the unexpected advan­
+tage of laying before our eyes that which is distinctive in his theory in
+all its parts and the leading ground of this peculiar way of thinking,
+which rests on nothing but a misunderstanding. He compared all things
+with each other solely through concepts, and found, naturally, no other
+differences than those through which the understanding distinguishes
+its pure concepts from each other. The conditions of sensible intuition,
+which bring with them their own distinctions, he did not regard as orig­
+inal; for sensibility was only a confused kind of representation for him,
+and not a special source of representations; for him appearance was the
+representation of the thing in itself, although distinguished from cog­
+nition through the understanding in its logical form, since with its cus­
+tomary lack of analysis the former draws a certain mixture of subsidiary
+representations into the concept of the thing, from which the under­
+standing knows how to abstract. In a word, Leibniz intellectualized
+the appearances, just as Locke totally sensitivized the concepts of un­
+derstanding in accordance with his system of noogony (if ! am permit­
+ted this expression), i.e., interpreted them as nothing but empirical or
+abstracted concepts of reflection. 105 Instead of seeking two entirely dif­
+ferent sources of representation in the understanding and the sensibil­
+ity, which could judge about things with objective validity only in
+conjunction,a each of these great men holds on only to one of them,
+which in his opinion is immediately related to things in themselves,
+while the other does nothing but confuse or order the representations
+of the first.
+Leibniz accordingly compared the objects of the senses with each
+other as things in general, merely in the understanding, b first, so far as
+they are to be judged by the understanding as identical or different.
+Since he therefore had before his eyes solely their concepts, and not
+their position in the intuition in which alone the objects can be given,
+and left entirely out of consideration the transcendental place of these
+concepts (whether the object C is to be counted among appearances or
+among things in themselves), it could not have turned out otherwise but
+that he extended his principle of indiscernibles,d which holds merely of
+concepts of things in general, to the objects of the senses (mundus
+phaenomenon),e and thereby believed himself to have made no little ada
+
+b
+,
+
+Verkniipfong
+Using a comma as in the first edition rather than a period as in the second.
+
+Object
+
+d That is, the principle of the identity of indiscernibles.
+
+, phenomenal world
+
+3 72
+
+On the amphiboly of concepts of reflection
+
+vance in the cognition of nature. Of course, if ! know a drop of water as
+a thing in itself according to all of its inner determinations, I cannot let
+any one drop count as different from another if the entire concept of
+the former is identical with that of the latter. But if it is an appearance
+in space, then it has its place not merely in the understanding (under
+concepts), but also in the sensible outer intuition (in space), and since
+the physical places are entirely indifferent with regard to the inner de­
+terminations of the things, a place = b can just as readily accept a thing
+that is fully similar and equal to another in a place = a as it could if the
+former were ever so internally different from the latter. Without fur­
+ther conditions, the difference in place already makes the multiplicity
+and distinction of objects as appearances not only possible in itself but
+also necessary. Thus that putative law is no law of nature. It is simply an
+analytical rule or comparison of things through mere concepts.
+Second, the principle that realities (as mere affirmations) never logically oppose each other is an entirely true proposition about the relations o f concepts, but signifies nothing a t all either in regard to nature
+nor overall in regard to anything in itself (of this we have no concept).
+For real opposition always obtains where A B = 0, i.e., where one reality, if combined in one subject with another, cancels out the effect of
+the latter, which is unceasingly placed before our eyes by all hindrances
+and countereffects in nature, which, since they rest on forces, must be
+called realitates phaenomena.a General mechanics can even provide the
+empirical condition of this opposition in aD a priori rule by looking to
+the opposition of directions - a condition about which the transcendental concept of reality knows nothing at all. 1 06 Although Herr von
+Leibniz did not exactly announce this proposition with the pomp of a
+new principle, he nevertheless used it for new assertions, and his successors expressly incorporated it into their Leibnizian-Wolffian doctrine. According to this principle, e.g., all ills are nothing but conse­
+quences of the limits of created beings, i.e., negations, since these are
+the only opposing things in reality (this is really so in the concept of a
+thing in general, but not in things as appearances).107 Similarly, its adherents find it not merely possible but also natural to unite all reality in
+one being without any worry about opposition, since they do not recognize any opposition except that of contradiction (through which the
+concept of a thing would itself be canceled out), lOS and do not recognize
+the opposition of reciprocal destruction, where one real ground cancels
+out the effect of another, the conditions for the representation of which
+we find only in sensibility.
+Third, the Leibnizian monadology has no ground at all other than
+the fact that this philosopher represented the distinction of the inner
+
+A 273
+B 329
+
+-
+
+n phenomenal realities
+
+373
+
+B 330
+A 2 74
+
+Doctrine of Elements. Pt. II. Div. I. Bk. II. Appendix
+
+and outer merely in relation to the understanding. Substances in gen­
+eral must have something inner, which is therefore free of all outer re­
+lations, consequently also of composition. The simple is therefore the
+foundation of the inner in things in themselves. But that which is inner
+in their state cannot consist in place, shape, contact, or motion (which
+determinations are all outer relations), and we can therefore attribute to
+the substances no other inner state than that through which we inter­
+nally determine our sense itself, namely the state of representations.
+This completes the monads, which are to constitute the fundamental
+matter of the entire universe, the active power of which, however, con­
+sists merely in representations, through which they are properly effica­
+cious merely within themselves.
+For this very reason, however, his principlea of the possible commu­
+nity of substances among themselves also had to be predetermined
+harmony and could not be a physical influence. 1 09 For since everything
+is only internal, i.e., occupied with its own representations, the state of
+the representations of one substance could not stand in any efficacious
+connection at all with that of another, but some third cause influencing
+all of them had to make their states correspond to one another, not, to
+be sure, through occasional assistance specially brought about in each
+case (systema assistentiae),b but rather through the unity of the idea of one
+cause valid for all, from which, in accordance with general laws, they
+must all together acquire their existence and persistence, thus also their
+reciprocal correspondence with each other.
+Fourth, Leibniz's famous doctrine of space and time, in which he
+intellectualized these forms of sensibility, arose solely from this very
+same deception of transcendental reflection. If I would represent outer
+relations of things through the mere understanding, this can be done
+only by means of a concept of their reciprocal effect, and should I con­
+nect one state of the one and the same thing with another state, then
+this can only be done in the order of grounds and consequences. Thus
+Leibniz thought of space as a certain order in the community of sub­
+stances, and thought of time as the dynamic sequence of their states.IIO
+The uniqueness and independence from things, however, which both of
+these seem to have in themselves, he ascribed to the confusion of these
+concepts, which made that which is a mere form of dynamical relations
+be taken for an intuition subsisting by itself and preceding the things
+themselves. Thus space and time became the intelligible form of the
+connection of the things (substances and their states) in themselves.
+The things, however, were intelligible substances (substantiae noumena).
+Nevertheless he wanted to make these concepts valid for appearances,
+" Principium
+b "System of assistance," i.e., the occasionalism of Nicolas Malebranche.
+3 74
+
+On the amphiboly of concepts of reflection
+
+since he conceded to sensibility no kind of intuition of its own, but
+rather sought everything in the understanding, even the empirical rep­
+resentation of objects, and left nothing for the senses but the con­
+temptible occupation of confusing and upsetting the representations of
+the former.
+But even if we could say anything synthetically about things in
+themselves through the pure understanding (which is nevertheless im­
+possible), this still could not be related to appearances at all, which do
+not represent things in themselves. In this latter case, therefore, I will
+always have to compare my concepts in transcendental reflection only
+under the conditions of sensibility, and thus space and time will not be
+determinations of things in themselves, but of appearances; what the
+things may be in themselves I do not know, and also do not need to
+know, since a thing can never come before me except in appearance.
+I proceed in the same way with the other concepts of reflection.
+Matter is substantia phaenomenon.a What pertains to it internally I seek
+in all parts of space that it occupies and in all effects that it carries out,
+and which can certainly always be only appearances of outer sense. I
+therefore have nothing absolutely but only comparatively internal,
+which itself in turn consists of outer relations. Yet the absolutely inter­
+nal in matter, according to pure understanding, is a mere fancy, for it is
+nowhere an object for the pure understanding; the transcendental ob­
+ject,b however, which might be the ground of this appearance that we
+call matter, is a mere something, about which we would not understand
+what it is even if someone could tell us. For we cannot understand any­
+thing except that which has something corresponding to our words in
+intuition. If the complaints "That we have no insight into the inner
+in things"!I I are to mean that we do not understand through pure rea­
+son what the things that appear to us might be in themselves, then they
+are entirely improper and irrational; for they would have us be able to
+cognize things, thus intuit them, even without senses, consequently
+they would have it that we have a faculty of cognition entirely distinct
+from the human not merely in degree but even in intuition and kind,
+and thus that we ought to be not humans but beings that we cannot
+even say are possible, let alone how they are constituted. Observation
+and analysis of the appearances penetrate into what is inner in nature,
+and one cannot know how far this will go in time. Those transcenden­
+tal questions, however, that go beyond nature, we will never be able to
+answer, even if all of nature is revealed to us, sinceC it is never given to
+a
+
+phenomenal substance
+
+b Object
+
+, Following the second edition, reading da instead of undo In his copy of the first edition,
+Kant substituted weil for und (E, p. 45)·
+
+375
+
+A277
+B 333
+
+A278
+B 3 34
+
+Doctrine of Elements. Pt. II. Div. I. Bk. II. Appendix
+
+us to observe our own mind with any other intuition that that of our
+inner sense. For in that lies the mystery of the origin of our sensibility.
+Its relationa to an object, b and what might be the transcendental ground
+of this unity, undoubtedly lie too deeply hidden for us, who know even
+ourselves only through inner sense, thus as appearance, to be able to use
+such an unsuitable tool of investigation to find out anything except al­
+ways more appearances, even though we would gladly investigate their
+non-sensible cause.
+What makes this critique of the inferences from the mere actions of
+reflection useful above all is that it clearly establishes the nullity of all in­
+ferences about objects that one simply compares with each other in the
+understanding, and at the same time confirms what we have chiefly em­
+phasized: that although appearances cannot be comprehended among
+the objectsC of pure understanding as things in themselves, they are nev­
+ertheless the only things by means of which our cognition can have ob­
+jective reality, namely, where intuition corresponds to the concepts.
+If we reflect merely logically, then we simply compare our concepts
+with each other in the understanding, seeing whether two of them con­
+tain the very same thing, whether they contradict each other or not,
+whether something is contained in the concept internally or is added to
+it, and which of them should count as given and which as a manner of
+thinking of that which is given. But if I apply these concepts to an ob­
+ject in general (in the transcendental sense),d without further determin­
+ing whether this is an object of sensible or intellectual intuition, then
+limitations (which do not flow from this concept) immediately show up,
+which pervert all empirical use of them, and by that very means prove
+that the representation of an object as a thing in general is not merely
+insufficient but rather, without sensible determinations of it and inde­
+pendent of an empirical condition, contradictory in itself, thus that
+one must either abstract from any object (in logic), or else, if one as­
+sumes an object, then one must think it under conditions of sensible in­
+tuition; thus the intelligible would require an entirely special intuition,
+which we do not have, and in the absence of this would be nothing for
+us, though on the contrary appearances also cannot be objects in them­
+selves. For, if I think of mere things in general, then the difference in
+the outer relations certainly does not constitute a difference in the
+thingse themselves, but rather presupposes this, and, if the concept of
+the one is not internally distinct from that of the other, then I merely
+a Beziehung
+b Object
+, Objecten
+d Verstande
+, Sacben
+376
+
+On the amphiboly of concepts of reflection
+
+posit one and the same thing in different relations. Further, through the
+addition of one mere affirmation (reality) to another the positive is in­
+creased, and nothing is taken away from it or canceled out; hence the
+real in things in general cannot contradict each other, etc.
+* * *
+
+As we have shown, through a certain misinterpretation the concepts
+of reflection have had such an influence on the use of the understand­
+ing that they have even been able to seduce one of the most acute of all
+philosophers into a supposed system of intellectual cognition, which
+undertakes to determine its object without supplementation by the
+senses. For just this reason the exposition of the deceptive cause of the
+amphiboly of these concepts, as the occasion of false principles, is of
+great utility in reliably determining and securing the boundaries of the
+understanding.
+One must say, to be sure, that whatever pertains to or contradicts a
+concept in general also pertains to or contradicts everything particular
+that is contained under that concept (dictum de Omni et Nullo);a," 2 but it
+would be absurd to alter this logical principle so that it would read:
+"\Vhatever is not contained in a general concept is also not contained
+in the particular ones that stand under it"; for the latter are particular
+concepts precisely because they contain more than is thought in the
+general concept. Yet Leibniz's entire intellectual system is really built
+on the latter principle: it therefore falls together with it, along with all
+of the ambiguity in the use of the understanding that arises from it.
+The principle of indiscernibles is really based on the presupposition
+that if a certain distinction is not to be found in the concept of a thing
+in general, then it is also not to be found in the things themselves; con­
+sequently all things are completely identical (numero eadem)b that are
+not already distinguished from each other in their concepts (as to quality or quantity). But since in the mere concept of anything abstraction
+is made from many necessary conditions of an intuition, it is with peculiar haste that that from which abstraction has been made is taken as
+something that is not to be encountered at all, and nothing conceded to
+the thing except what is contained in its concept.
+The concept of a cubic foot of space, wherever and however often I
+think it, i s i n itself always completely the same. Yet two cubic feet are
+nevertheless distinguished in space merely through their locations (numero diversa);' these are conditions of the intuition in which the objectd
+a principle of All or Nothing
+
+b "the same in number," i.e., even numerically identical.
+, numerically diverse
+
+d
+
+Object
+3 77
+
+B 337
+A28I
+
+B 3 38
+A282
+
+Doctrine of Elements. Pt. II. Div. 1. Bk. II. Appendix
+
+of this concept is given, which do not belong to the concept but to the
+entire sensibility. In the same way, there is no contradiction at all in the
+concept of a thing if nothing negative is connected with something af­
+firmative, and merely affirmative concepts cannot, in combination, ef­
+fect any cancellation. Yet in the sensible intuition in which reality (e.g.,
+motion) is given, there are conditions (opposed directions), from which
+one had abstracted in the concept of motion in general, that make pos­
+sible a conflict, which is certainly not a logical one, that produces a zero
+= 0 out of that which is entirely positive; and one could not say that all
+reality is in agreement just because no conflict a is to be found among its
+concepts.* According to mere concepts the inner is the substratum of all
+relation or outer determinations. If, therefore, I abstract from all con­
+ditions of intuition, and restrict myself solely to the concept of a thing
+in general, then I can abstract from every outer relation, and yet there
+must remain a concept of it, that signifies no relation but merely inner
+determinations. Now it seems as if it follows from this that in every
+thing (substance) there is something that is absolutely internal and pre­
+cedes all outer determinations, first making them possible, thus that this
+substratum is something that contains no more outer relations in itself,
+consequently that it is simple (for corporeal things are still always only
+relations, at least of the parts outside one another); and since we are not
+acquainted with any absolutely inner determinations except through
+our inner sense, this substratum would be not only simple, but also (ac­
+cording to the analogy with our inner sense) determined through rep­
+resentations, i.e., all things would really be monads, or simple beings
+endowed with representations. " 3 And this would all be correct, were it
+not that something more than the concept of a thing in general belongs
+to the conditions under which alone objects of outer intuition can be
+given to us, and from which the pure concept abstracts. For these show
+that a persistent appearance in space (impenetrable extension) contains
+mere relations and nothing absolutely internal, and nevertheless can be
+the primary substratum of all outer perception. Through mere con­
+cepts, of course, I cannot think of something external without anything
+
+B 339
+
+* If one wanted to make use of the usual escape here, that at least realitates
+noumena cannot act in opposition to each other, one would still have to intro­
+duce an example of such pure and non-sensible reality in order to understand
+whether such a reality represents something or nothing at all. But no example
+can be derived from anywhere except experience, which never offers more
+than phaenomena, and thus this proposition signifies nothing more than that a
+concept that contains only affirmations does not contain anything negative: a
+proposition that we have never doubted.
+a
+
+Widerstreit
+3 78
+
+On the amphiboly of concepts of reflection
+
+inner, for the very reason that relational concepts absolutely presuppose
+given things and are not possible without these. But since something is
+contained in the intuition that does not lie at all in the mere concept of
+a thing in general, and this yields the substratum that cannot be cog­
+nized through mere concepts, namely a space that, along with every­
+thing that it contains, consists of purely formal or also real relations, I
+cannot say that since without something absolutely inner no thing can
+be represented through mere concepts, there is also nothing outer
+that does not have something absolutely internal as its ground in the
+things themselves that are contained under these concepts and in their
+intuition. For if we have abstracted from all conditions of intuition,
+then of course there remains nothing in the mere concept except the
+inner in general, and its relation in that, through which alone the outer
+is possible. But this necessity, which is grounded only on abstraction,
+does not obtain in the case of things insofar as they are given in intuition with determinations that express mere relations without having
+anything inner at their ground, since these are not things in themselves
+but simply appearances. And whatever we can cognize only in matter is
+pure relations (that which we call their inner determinations is only
+comparatively internal); but there are among these some self-sufficient
+and persistent ones, through which a determinate object is given to us.
+The fact that if I abstract from these relations I have nothing further to
+think at all does not cancel out the concept of a thing as appearance, nor
+the concept of an object in abstracto, but does cancel all possibility of
+such an object determinable in accordance with mere concepts, i.e., a
+concept of a noumenon.a It is certainly startling to hear that a thing
+should consist entirely of relations, but such a thing is also mere ap­
+pearance, and cannot be thought at all through pure categories; it itself
+consists in the mere relation of something in general to the senses. In
+the same way, if one begins with mere concepts one cannot very well
+think of the relations of things in abstracto except by thinking that one
+is the cause of the determinations in the other; for that is our concept
+of the understanding of relations itself. Yet since in this case we abstract
+from all intuition, an entire way in which the manifold can determine
+its place, namely the form of sensibility (space) disappears, which yet
+precedes all empirical causality.
+If by merely intelligible objects we understand those things that are
+thoughtb through pure categories, without any schema of sensibility,
+then things of this sort are impossible. For the condition of the objec­
+tive use of all our concepts of understanding is merely the manner of
+our sensible intuition, through which objects are given to us, and, if we
+a
+
+Not in roman type.
+
+b Altered in Kant's copy of the first edition to "are cognized by us" (E eL, p. 46; 2 3 '49).
+3 79
+
+B 341
+
+A 28 S
+
+B 342
+
+A 2 86
+
+Doctrine of Elements. Pt. II. Div. I. Bk. II. Appendix
+
+B 34 3
+
+A z 87
+
+B 3 44
+
+A z88
+
+abstract from the latter, then the former have no relation a at all to any
+sort of object.b Indeed, even if one would assume another sort of intu­
+ition than this our sensible one, our functions for thinking would still
+be without any significance in regard to it. If we understand thereby
+only objects of a non-sensible intuition, of which our categories are cer­
+tainly not valid, and of which we can therefore never have any cogni­
+tion at all (neither intuition nor concept), then noumena in this merely
+negative sense must of course be allowed: for they would then not say
+anything but that our manner of intuition does not pertain to all things,
+but only to objects of our senses, consequently that their objective va­
+lidity is bounded, and room thus remains for some other sort of intu­
+ition and therefore also for things as its objects.c But in that case the
+concept of a noumenon is problematic, i.e., the representation of a thing
+of which we can say neither that it is possible nor that it is impossible,
+since we are acquainted with no sort of intuition other than our own
+sensible one and no other sort of concepts than the categories, neither
+of which, however, is suited to an extrasensible object. Hence we can­
+not thereby positively expand the field of the objects of our thinking be­
+yond the conditions of our sensibility, and assume beyond appearances
+objects of pure thinking, i.e., noumena, since those do not have any
+positive significance that can be given. For one must concede that the
+categories alone are not sufficient for the cognition of things in them­
+selves, and without the data of sensibility they would be merely subjec­
+tive forms of the unity of the understanding, but without any object.
+Thinking in itself, to be sure, is not a product of the senses, and to this
+extent is also not limited by them, but it is not on that account imme­
+diately of any independent and pure use, without assistance from sensi­
+bility, for it is in that case without an object.d And one cannot call the
+noumenon e such an object! for this signifies precisely the problematic
+concept of an object for an entirely different intuition and an entirely
+different understanding than our own, which is thus a problem itself.
+The concept of the noumenong is therefore not the concept of an ob­
+ject,h but rather the problem, unavoidably connected with the limitation
+of our sensibility, of whether there may not be objects entirely exempt
+from the intuition of our sensibility, a question that can only be given
+a Beziehung
+b Object
+, Objecte
+d Object
+
+, Not in roman type.
+
+f Object
+g
+h
+
+Not in roman type.
+
+Object
+
+3 80
+
+On the amphiboly of concepts of reflection
+
+the indeterminate answer that since sensible intuition does not pertain
+to all things without distinction room remains for more and other ob­
+jects; they cannot therefore be absolutely denied, but in the absence of
+a determinate concept (for which no category is serviceable) they also
+cannot be asserted as objects for our understanding.
+The understanding accordingly bounds sensibility without thereby
+expanding its own field, and in warning sensibility not to presume to
+reach for things in themselves but solely for appearances it thinks of an
+object in itself, but only as a transcendental object,a which is the caus�
+of appearance (thus not itself appearance), and that cannot be thought
+of either as magnitude or as reality or as substance, etc. (since these con­
+cepts always require sensible forms in which they determine an object);
+it therefore remains completely unknown whether such an object is to
+be encountered within or without us, whether it would be canceled out
+along with sensibility or whether it would remain even if we took sensibility away. If we want to call this object b a noumenonC because the B 345
+representation of it is nothing sensible, we are free to do so. But since
+we caimot apply any of our concepts of the understanding to it, this rep­
+resentation still remains empty for us, and serves for nothing but to designate the boundaries of our sensible cognition and leave open a space A 2 8 9
+that we can fill up neither through possible experience nor through the
+pure understanding.
+The critique of this pure understanding thus does not allow us to create a new field of objects beyond those that can come before it as ap­
+pearances, and to indulge in intelligible worlds, or even in the concept
+of them. I The mistake that most obviously leads to this, and can certainly be excused though not justified, lies in this: that the use of the un­
+derstanding, contrary to its vocation, d is made transcendental, and the
+objects, i.e., possible intuitions, are made to conform themselves to
+concepts, but concepts are not made to conform themselves to possible
+intuitions (on which alone rests their objective validity). The cause of
+this, however, is in turn that apperception and, with it, thinking precede
+all possible determination of the arrangement of representations. We
+therefore think something in general, and on the one side determine it
+sensibly, only we also distinguish the object represented in general and B 346
+in abstracto from this way of intuiting it; thus there remains to us a way
+of determining it merely through thinking that is, to be sure, a merely
+logical form without content, but that nevertheless seems to us to be a
+a Object
+b
+
+Object
+
+, Not in roman type.
+
+d Bestimmung
+
+381
+
+Doctrine of Elements. Pt. II. Div. 1. Bk. II. Appendix
+
+way in which the objecta exists in itself (noumenon), without regard to
+the intuition to which our sensibility is limited.
+* * *
+
+A 290
+
+B 347
+
+Before we leave the Transcendental Analytic behind, we must add
+something that, although not in itself especially indispensable, never­
+theless may seem requisite for the completeness of the system. The
+highest concept with which one is accustomed to begin a transcenden­
+tal philosophy is usually the division between the possible and the im­
+possible. "4 But since every division presupposes a concept that is to be
+divided, a still higher one must be given, and this is the concept of an
+object in general (taken problematically, leaving undecided whether it is
+something or nothing). Since the categories are the only concepts that
+relate to objects in general, the distinction of whether an object is some­
+thing or nothing must proceed in accordance with the order and guid­
+ance of the categories.b, l l s
+I) To the concepts of all, many, and one there is opposed the con­
+cept of that which cancels everything out, i.e., none, and thus the
+object of a concept to which no intuition that can be given corre­
+sponds is nothing, i e., a concept without an object, like the
+noumena, which cannot be counted among the possibilities al­
+though they must not on that ground be asserted to be impossible
+(ens rationis),c or like something such as certain new fundamental
+forces, which one thinks, without contradiction, to b e sure, but
+also without any example from experience even being thought, and
+which must therefore not be counted among the possibilities.
+2) Reality is something, negation is nothing, namely, a concept of
+the absence of an object, such as a shadow or cold (nihilprivativum). d
+3) The mere form of intuition, without substance, is in itself not
+an object, but the merely formal condition of one (as appearance),
+like pure space and pure time, which are to be sure something, as
+the forms for intuiting, but are not in themselves objects that are
+intuited (ens imaginarium).e
+4) The object of a concept that contradicts itself is nothing be­
+cause the concept is nothing, the impossible, like a rectilinear fig­
+ure with two sides (nihil negativum)/
+==
+
+A 29 1
+
+B 348
+
+a Object
+b In�erted in Kant's copy of the first edition: "the highest concept is that of the object in
+
+general" (E CLI, p. 46; 2 3 : 3 8).
+being of mere reason
+d A privative nothing, i.e., a condition consisting solely in the absence of something else.
+, An imaginary being; in the first edition, this expression is inserted after "pure time."
+f a negative nothing
+,
+
+382
+
+On the amphiboly of concepts of reflection
+
+The table of this division of the concept of nothing (for the similar
+division of "something" follows of itself) must therefore be laid out
+thus:
+Nothing,
+as
+I.
+
+Empty concept without object,
+ens rationis.
+2.
+
+3·
+Empty intuition
+without an object,
+ens imaginarium.
+
+Empty object
+of a concept,
+nihil privativum.
+4·
+
+Empty object without concept,
+nihil negativum.
+
+One sees that the thought-entity (No. I) is distinguished from the nonentity (No. 4) by the fact that the former may not be ccunted among
+the possibilities because it is a mere invention (although not self-con­
+tradictory), whereas the latter is opposed to possibility because even its
+concept cancels itself out. Both, however, are empty concepts. The nihil
+privativum (NO. 2) and the ens imaginarium (No. 3), on the contrary, are
+empty data for concepts. If light were not given to the senses, then one
+would also not be able to represent darkness, and if extended beings
+were not perceived, one would not b e able to represent space. Negation
+as well as the mere form of intuition are, without something real, not
+objects.o
+a Objecte
+
+333
+
+B 349

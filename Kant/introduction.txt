@@ -1,0 +1,875 @@
+
+# Introduction
+
+> *Critique of Pure Reason* — Kant (Cambridge Edition, tr. Guyer & Wood)
+> *[PDF extract: some inline apparatus markers remain for hand cleanup]*
+
+## A — First Edition
+
+[A1]
+
+### 1. The idea of transcendental philosophy.
+
+Experience is without doubt the first product that our understanding
+brings forth as it works on the raw material of sensible sensations. 
+It is for this very reason the first teaching,
+and in its progress it is so inexhaustible in new instruction
+that the chain of life in all future generations 
+will never have any lack of new information that can be gathered
+on this terrain. Nevertheless it is far from the only field to which our
+understanding can be restricted. It tells us, to be sure, what is, but never
+that it must necessarily be thus and not otherwise. For that very reason
+it gives us no true universality, and reason, which is so desirous of this
+kind of cognitions, is more stimulated than satisfied by it. Now such
+universal cognitions, which at the same time have the character of inner
+necessity, must be clear and certain for themselves, independently of experience;
+hence one calls them a priori cognitions: whereas that which
+is merely borrowed from experience is, as it is put,
+cognized only a posteriori, or empirically)
+
+[A2]
+
+Now what is especially remarkable is that even among our experiences
+ cognitions are mixed in that must have their origin a priori and
+that perhaps serve only to establish connection among our representations of the senses. 
+For if one removes from our experiences every
+thing that belongs to the senses, there still remain certain original
+concepts and the judgments generated from them, which must have
+arisen entirely a priori, independently of experience, because they
+make one able to say more about the objects that appear to the senses
+than mere experience would teach, or at least make one believe that
+one can say this, and make assertions contain true universality and
+strict necessity, the likes of which merely empirical cognition can
+never afford.
+
+[B6]
+
+[A3]
+
+But what says still more is this, that certain cognitions even abandon the field of all possible experiences, and seem to expand the domain of our judgments beyond all bounds of experience through
+concepts to which no corresponding object at all can be given in
+experience.
+And precisely in these latter cognitions, which go beyond the world
+of the senses, where experience can give neither guidance nor correc
+
+[B7]
+
+tion, lie the investigations of our reason that we hold to be far more
+preeminent in their importance and sublime in their final aim than
+everything that the understanding can learn in the field of appearances,
+and on which we would rather venture everything, even at the risk of
+erring, than give up such important investigations because of any sort
+of reservation or from contempt and indifference.
+Now it may seem natural that as soon as one has abandoned the ter
+rain of experience, one would not immediately erect an edifice with
+cognitions that one possesses without knowing whence, and on the
+credit of principles whose origin one does not know, without having
+first assured oneself of its foundation through careful investigations,
+thus that one would have long since raised the question how the understanding could come to all these cognitions a priori and what do-
+
+[A4]
+
+main, validity, and value they might have. And in fact nothing is more
+
+[B8]
+
+natural, if one understands by this word that which properly and
+reasonably ought to happen; but if one understands by it that which
+usually happens, then conversely nothing is more natural and comprehensible than that this investigation should long have been neglected.
+For one part of these cognitions, the mathematical, has long been reliable, and thereby gives rise to a favorable expectation about others
+as well, although these may be of an entirely different nature. Fur Here the second edition adds two sentences characterizing the tasks of pure reason. See
+
+B7 below.
+
+thermore, if one is beyond the circle of experience, then one is sure not
+to be contradicted through experience. The charm in expanding one's
+
+cognitions is so great that one can be stopped in one's progress only by
+bumping into a clear contradiction. This, however, one can avoid if
+one makes his inventions carefully, even though they are not thereby
+inventions any the less. Mathematics gives us a splendid example of
+how far we can go with a priori cognition independently of experience.
+
+Now it is occupied, to be sure, with objects and cognitions only so far
+as these can be exhibited in intuition. This circumstance, however, is
+easily overlooked, since the intuition in question can itself be given a
+
+priori, and thus can hardly be distinguished from a mere pure concept.
+
+Encouraged by such a proof of the power of reason, the drive for expansion sees no bounds. The light dove, in free flight cutting through
+
+[A5]
+
+the air the resistance of which it feels, could get the ideaa that it could
+do even better in airless space. Likewise, Plato abandoned the world of
+the senses because it posed so many hindrances for the understanding,
+
+[B9]
+
+and dared to go beyond it on the wings of the ideas, in the empty space
+of pure understanding. He did not notice that he made no headway by
+his efforts, for he had no resistance, no support, as it were, by which he
+could stiffen himself, and to which he could apply his powers in order
+to get his understanding off the ground. It is, however, a customary
+fate of human reason in speculation to finish its edifice as early as
+possible and only then to investigate whether the ground has been
+adequately prepared for it. But at that point all sorts of excuses will
+be sought to assure us of its sturdiness or to refuse such a late and
+dangerous examination. What keeps us free of all worry and suspicion during the construction, however, and flatters us with apparent
+thoroughness, is this. A great part, perhaps the greatest part of the
+business of our reason consists in analyses of the concepts that we already have of objects. This affords us a multitude of cognitions that,
+though they are nothing more than illuminations or clarifications of
+that which is already thought in our concepts (though still in a con-
+
+fused way), are, at least a s far a s their form is concerned, treasured as
+
+[A6]
+
+if they were new insights, though they do not extend the concepts that
+we have in either matter or content but only set them apart from each
+other. Now since this procedure does yield a real a priori cognition,
+which makes secure and useful progress, reason, without itself noticing
+it, under these pretenses surreptitiously makes assertions of quite another sort, in which it adds something entirely alien to given concepts
+
+B IO
+
+with the distinction between these two kinds of cognition right at the
+outset.
+On the difference between analytic and
+synthetic judgments.
+
+[A7]
+B II
+
+[A8]
+
+In all judgments in which the relation of a subject to the predicate is
+thought (if ! consider only affirmative judgments, since the application
+to negative ones is easy), this relation is possible in two different ways.
+Either the predicate B belongs to the subject A as something that is
+(covertly) contained in this concept A; or B lies entirely outside the
+concept A, though to be sure it stands in connection with it. In the first
+case I call the judgment analytic, in the second synthetic. Analytic
+judgments (affirmative ones) are thus those in which the connection of
+the predicate is thought through identity, but those in which this connection is thought without identity are to be called synthetic judgments. One could also call the former judgments of clarification and
+the latter judgments of amplification, since through the predicate the
+former do not add anything to the concept of the subject, but only
+break it up by means of analysis into its component concepts, which
+were already thought in it (though confusedly); while the latter, on the
+contrary, add to the concept of the subject a predicate that was not
+thought in it at all, and could not have been extracted from it through
+any analysis; e.g., if ! say: "All bodies are extended," then this is an analytic judgment. For I do not need to go outside the conceptC that I
+combine with the word "body" in order to find that extension is connected with it, but rather I need only to analyze that concept, i.e., become conscious of the manifold that I always think in it, in order to
+encounter this predicate therein; it is therefore an analytic judgment.
+On the contrary, if I say: "All bodies are heavy," then the predicate is
+something entirely different from that which I think in the mere concept of a body in general. The addition of such a predicate thus yields
+
+judgments." (E V, p. 14)
+
+have, is set out, and made intelligible to me; 2) that in synthetic judgments I must have in addition to the concept of the subject something
+else eX) on which the understanding depends in cognizing a predicate
+that does not lie in that concept as nevertheless belonging to it.
+In the case of empirical judgments or judgments of experience there
+is no difficulty here. For this X is the complete experience of the object
+that I think through some concept A, which constitutes only a part of
+
+this experience. For althoughC I do not at all include the predicate of
+weight in the concept of a body in general, the concept nevertheless
+
+[B12]
+
+designates the complete experience through a part of it, to which I can
+therefore add still other parts of the very same experience as belonging
+to the former. I can first cognize the concept of body analytically
+through the marks of extension, of impenetrability, of shape, etc., which
+are all thought in this concept. But now I amplify my cognition and, in
+looking back to the experience from which I had extracted this concept
+of body, I find that weight is also always connected with the previous
+marks. Experience is therefore that X that lies outside the concept A
+and on which the possibility of the synthesis of the predicate of weight
+
+B with the concept A is grounded.
+But in synthetic a priori judgments this means of help is entirely lacking.5 I f I am to go outside the concept A in order to cognize another B
+
+as combined with it, what is it on which I depend and through which
+the synthesis becomes possible, since I here do not have the advantage
+of looking around for it in the field of experience? Take the proposition:
+that happens, I think, to be sure, of an existence which was preceded by
+
+something that happens, and is not contained in the latter representation at all. How then do I come to say something quite different about
+that which happens in general, and to cognize the concept of cause as
+belonging to it even though not contained in it?" What is the X here on
+which the understanding depends when it believes itself to discover beyond the concept of A a predicate that is foreign to it and that is yet
+
+called mere judgments of clarification, synthetic judgments, however, judgments of amplification." (E VII, p. 1 5)
+
+C
+
+[A9]
+
+[B13]
+
+connected with it? It cannot be experience, for the principle that has
+been adduced adds the latter representations to the former not only
+with greater generality than experience can provide, but also with the
+
+expression of necessity, hence entirely a priori and from mere concepts.
+Now the entire final aim of our speculative a priori cognition rests on
+
+such synthetic, i.e., ampliative, principles; for the analytic ones are, to
+
+be sure, most important and necessary, but only for attaining that distinctness of concepts that is requisite for a secure and extended synthesis as a really new construction.
+
+A certain mystery thus lies hidden here,* the elucidation of which
+alone can make progress in the boundless field of pure cognition of the
+understanding secure and reliable: namely, to uncover the �round of the
+possibility of synthetic a priori judgments with appropriate generality, to
+gain insight into the conditions that make every kind of them possible,
+
+and not merely to designate this entire cognition (which comprises its
+own species) in a cursory outline, but to determine it completely and
+adequately for every use in a system in accordance with its primary
+sources, divisions, domain, and boundaries. So much provisionally for
+the pecularities of synthetic judgments.
+
+[B24]
+
+Now from all of this there results the idea of a special science, which
+
+[A11]
+
+could serve for the critique of pure reason. Every cognition is called
+
+pure, however, that is not mixed with anything foreign to it. But a cog
+nition is called absolutely pure, in particular, in which no experience or
+sensation at all is mixed in, and that is thus fully a priori. Now reason is
+
+the faculty that provides the principlesd of cognition a priori. Hence
+
+pure reason is that which contains the principlese for cognizing some
+thing absolutely a priori. An organon of pure reason would be a sum
+
+[B25]
+
+total of those principles! in accordance with which all pure a priori cog-
+
+would have offered powerful resistance to all the systems of pure reason down
+to our own times, and would have spared us so many vain attempts that were
+blindly undertaken without knowledge of what was really at issue.
+
+replaced with Sections V and VI, B 14 through B 2 5.
+changes in the wording of the opening and fourth sentences. See B 24 below.
+
+nitions can be acquired and actually brought about. The exhaustive application of such an organon would create a system of pure reason. But
+since that requires a lot, and it is still an open question whether such an
+
+amplification of our cognition is possible at all and in what cases it
+
+would be possible, we can regard a science of the mere estimation of
+pure reason, of its sources and boundaries, as the propaedeutic to the
+system of pure reason. Such a thing would not be a doctrine, but must
+be called only a critique of pure reason, and its utility would really be
+only negative, serving not for the amplification but only for the purification of our reason, and for keeping it free of errors, by which a great
+deal is already won. I call all cognition transcendental that is occupied
+not so much with objects but rather with our a priori concepts of objects
+
+in general.a,6 A system of such concepts would be called transcendental
+
+[A12]
+
+philosophy. But this is again too much for the beginning. For since such
+
+in scope, since we need to take the analysis only as far as is indispensably necessary in order to provide insight into the principles of a priori
+
+synthesis in their entire scope, which is our only concern. This investigation, which we can properly call not doctrine but only transcenden-
+
+[B26]
+
+tal critique, since it does not aim at the amplification of the cognitions
+themselves but only at their correction, and is to supply the touchstone
+of the worth or worthlessness of all cognitions a priori, is that with
+
+which we are now concerned. Such a critique is accordingly a preparation, if possible, for an organon, and, if this cannot be accomplished,
+
+then at least for a canon, in accordance with which the complete system
+of the philosophy of pure reason, whether it is to consist in the amplification or the mere limitationb of its cognition, can in any case at least
+some day be exhibited both analytically and synthetically. For that this
+should be possible, indeed that such a system should not be too great in
+scope for us to hope to be able entirely to complete it, can be assessed
+in advance from the fact that our object is not the nature of things,
+which is inexhaustible, but the understanding, which judges about the
+nature of things, and this in turn only in regard to its a priori cognition,
+
+the supply of which, since we do not need to search for it externally,
+
+cannot remain hidden from us, and in all likelihood is small enough to
+be completely recorded, its worth or worthlessness assessed, and subjected to a correct appraisal.
+
+jects insofar as this is to be possible a priori." See B 2 5 below.
+
+[A13]
+
+[B27]
+
+### II. Division of Transcendental Philosophy
+
+Transcendental philosophy is here only an idea, for which the critique of pure reason is to outline the entire plan architectonically, i.e.,
+from principles,' with a full guarantee for the completeness and certainty of all the components that comprise this edifice. That this critique is not itself already called transcendental philosophy rests solely
+on the fact that in order to be a complete system it would also have to
+contain an exhaustive analysis of all of human cognition a priori. Now
+our critique must, to be sure, lay before us a complete enumeration of
+all of the ancestral conceptse that comprise the pure cognition in question. Only it properly refrains from the exhaustive analysis of these concepts themselves as well as from the complete review of all of those
+derived from them, partly because this analysis would not be purpose-
+
+A I4/B Z8
+
+ful l since it does not contain the difficulty that is encountered in the
+synthesis on account of which the whole critique is actually undertaken,
+partly because it would be contrary to the unity of the plan to take on
+responsibility for the completeness of such an analysis and derivation,
+from which one could after all be relieved given one's aim. This completeness of the analysis as well as the derivation from the a priori concepts which are to be provided in the future will nevertheless be easy to
+complete as long as they are present as exhaustive principle� of synthesis, and if nothing is lacking in them in regard to this essential aim.
+To the critique of pure reason there accordingly belongs everything
+that constitutes transcendental philosophy, and it is the complete idea
+of transcendental philosophy, but is not yet this science itself, since it
+goes only so far in the analysis as is requisite for the complete estimation of synthetic a priori cognition.
+The chief target in the division of such a science is that absolutely no
+concepts must enter into it that contain anything empirical, or that the
+
+priori cognition be entirely pure. Hence, although the supreme prin-
+
+C
+
+the second edition inserts the sentence "It is the system of all principles
+
+[Principien] of pure reason." In his copy of the first edition, Kant had added here: "For
+
+without this the former must also be without any touchstone, and therefore entirely
+groundless." (E IX, p. I 5)
+
+ciples of morality and the fundamental concepts of it are a priori cognitions, they still do not belong in transcendental philosophy, since the
+
+[A15]
+
+concepts of pleasure and displeasure, of desires and inclinations, of
+
+[B29]
+
+choice, etc., which are all of empirical origin, must there be presupposed.n Hence transcendental philosophy is a philosophyb of pure,
+merely speculative reason. For everything practical, insofar as it contains motives, is related to feelings, which belong among empirical
+sources of cognition.
+Now if one wants to set up the division of this science from the general viewpoint of a system in general, then the one that we will now present must contain first a Doctrine of Elements and second a Doctrine
+of Method of pure reason. Each of these main parts will have its subdivision, the grounds for which cannot yet be expounded here. All that
+seems necessary for an introduction or a preliminary is that there are
+two stems of human cognition, which may perhaps arise from a common but to us unknown root, namely sensibility and understanding,
+through the first of which objects are given to us, but through the second of which they are thought. Now if sensibility were to contain a
+
+priori representations, which constitute the conditions under which ob-
+
+jects are given to us, it would belong to transcendental philosophy. The
+transcendental doctrine of the senses will have to belong to the first part
+of the science of elements, since the conditions under which alone the
+objects of human cognition are given precede those under which those
+objects are thought.
+
+beginning with the Groundwork of the Metaphysics ofMorals of 1 785, that the principle of
+morality if not its application is indeed entirely a priori. See B 2 8-9 below.
+
+[B30]
+
+[A16]
+
+---
+
+## B — Second Edition
+
+[B1]
+
+### I. On the difference between pure and empirical cognition.
+
+There is no doubt whatever that all our cognition begins with experience; for how else should the cognitive faculty be awakened into exercise if not through objects that stimulate our senses and in part
+themselves produce representations, in part bring the activity of our understanding into motion to compare these, to connect or separate them,
+and thus to work up the raw material of sensible impressions into a
+cognition of objects that is called experience? As far as time is con
+cerned, then, no cognition in us precedes experience, and with experience every cognition begins.
+But although all our cognition commences with experience, yet it
+does not on that account all arise from experience. For it could well be
+that even our experiential cognition is a composite of that which we receive through impressions and that which our own cognitive faculty
+(merely prompted by sensible impressions) provides out of itself,
+
+[B2]
+
+which addition we cannot distinguish from that fundamental material
+until long practice has made us attentive to it and skilled in separating
+it out.
+It is therefore at least a question requiring closer investigation, and
+one not to be dismissed at first glance, whether there is any such cognition independent of all experience and even of all impressions of the
+senses. One calls such cognitions a priori, C and distinguishes them
+from empirical ones, which have their sources a posteriori, namely in
+experience.
+The former expressiond is nevertheless not yet sufficiently determinate to designate the whole sense of the question before us. For it is customary to say of many a cognition derived from experiential sources that
+we are capable of it or partake in it a priori, because we do not derive it
+
+Sections I and II (B I -6) replace the first two paragraphs of Section I in the first edition
+(AI-2).
+
+immediately from experience, but rather from a general rule that we
+have nevertheless itself borrowed from experience. So one says of someone who undermined the foundation of his house that he could have
+known a priori that it would collapse, i.e., he need not have waited for
+the experience of it actually collapsing. Yet he could not have known this
+entirely a priori. For that bodies are heavy and hence fall if their support
+
+is taken away must first have become known to him through experience.
+
+In the sequel therefore we will understand by a priori cognitions not
+those that occur independently of this or that experience, but rather
+those that occur absolutely independently of all experience. Opposed to
+them are empirical cognitions, or those that are possible only" a posteri-
+
+[B3]
+
+ori, i.e., through experience. Among a priori cognitions, however, those
+are called pure with which nothing empirical is intermixed. Thus, e.g.,
+the proposition "Every alteration has its cause" is an a priori proposition, only not pure, since alteration is a concept that can be drawn only
+from experience.
+
+### II. We are in possession of certain a priori cognitions, and even the common understanding is never without them.
+
+At issue here is a mark by means of which we can securely distinguish a
+pure cognition from an empirical one. Experience teaches us, to be
+
+sure, that something is constituted thus and so, but not that it could not
+
+be otherwise. First, then, if a proposition is thought along with its necessity, it is an a priori judgment; if it is, moreover, also not derived
+from any proposition except one that in turn is valid as a necessary
+proposition, then it is absolutely a priori. Second: Experience never
+gives its judgments true or strict but only assumed and comparative
+
+universality (through induction), so properly it must be said: as far as
+we have yet perceived, there is no exception to this or that rule. Thus if
+
+therefore only an arbitrary increase in validity from that which holds in
+
+most cases to that which holds in all, as in, e.g., the proposition "All
+bodies are heavy," whereas strict universality belongs to a judgment essentially; this points to a special source of cognition for it, namely a faculty of a priori cognition. Necessity and strict universality are therefore
+secure indicationsfl of an a priori cognition, and also belong together in-
+
+[B4]
+
+[B5]
+
+[B6]
+
+separably. But since in their use it is sometimes easier to show the empirical limitation in judgments than the contingency in them, or is often
+more plausible to show the unrestricted universality that we ascribe to
+
+### III. Philosophy needs a science that determines the possibility, the principles, and the domain of all cognitions a priori.
+
+But what says still more than all the foregoing' is this, that certain
+cognitions even abandon the field of all possible experiences, and seem
+to expand the domain of our judgments beyond all bounds of experi�nce through concepts to which no corresponding object at all can be
+given in experience.
+And precisely in these latter cognitions, which go beyond the world
+of the senses, where experience can give neither guidance nor correction, lie the investigations of our reason that we hold to be far more
+preeminent in their importance and sublime in their final aim than
+everything that the understanding can learn in the field of appearances,
+in which we would rather venture everything, even at the risk of erring,
+than give up such important investigations because of any sort of reservation or from contempt and indifference. dThese unavoidable problems of pure reason itself are God, freedom and immortality. But the
+science whose final aim in all its preparations is directed properly only
+to the solution of these problems is called metaphysics, whose procedure is in the beginning dogmatic, i.e., it confidently takes on the execution of this task without an antecedent examination of the capacity or
+incapacitye of reason for such a great undertaking.
+Now it may seem natural that as soon as one has abandoned the terrain of experience one would not immediately erect an edifice with cognitions that one possesses without knowing whence, and on the credit
+of principles whose origin one does not know, without having first assured oneself of its foundation through careful investigations, thus that
+one would all the morefhave long since raised the question how the understanding could come to all these cognitions a priori and what domain, validity, and value they might have. And in fact nothing is more
+natural, if one understands by the word natural g that which properly
+and reasonably ought to happen; but if one understands by it that which
+usually happens, then conversely nothing is more natural and comprea This section number and title added in the second edition. The ensuing paragraph com
+
+mences the first part of the introduction common to both editions, extending from here
+to B 14, though with one major interpolation in the next paragraph and another change
+at B 1 1 - 1 2 .
+
+[A3]
+
+[B7]
+
+[A4]
+
+[B8]
+
+[A5]
+
+[B9]
+
+[A6]
+
+hensible than that this investigation should long have been neglected.
+For one part of these cognitions, the mathematical, has long been reliable, and thereby gives rise to a favorable expectation about others as
+well, although these may be of an entirely different nature. Furthermore, if one is beyond the circle of experience, then one is sure of not
+being refutedb through experience. The charm in expanding one's cognitions is so great that one can be stopped in one's progress only by
+bumping into a clear contradiction. This, however, one can avoid if one
+makes his inventions carefully, even though they are not thereby inventions any the less. Mathematics gives us a splendid example of how far
+we can go with a priori cognition independently of experience. Now it
+is occupied, to be sure, with objects and cognitions only so far as these
+can be exhibited in intuitions. This circumstance, however, is easily
+overlooked, since the intuition in question can itself be given a priori,
+and thus can hardly be distinguished from a mere pure concept.
+CaptivatedC by such a proof of the power of reason, the drive for expansion sees no bounds. The light dove, in free flight cutting through
+the air the resistance of which it feels, could get the idead that it could
+do even better in airless space. Likewise, Plato abandoned the world of
+the senses because it set such narrow limitse for the understanding, and
+dared to go beyond it on the wings of the ideas, in the empty space of
+pure understanding. He did not notice that he made no headway by his
+efforts, for he had no resistance, no support, as it were, by which he
+could stiffen himself, and to which he could apply his powers in order
+to put his understanding into motion. It is, however, a customary fate
+of human reason in speculation to finish its edifice as early as possible
+and only then to investigate whether the ground has been adequately
+prepared for it. But at that point all sorts of excuses will be sought to assure us of its sturdiness or also, even better! to refuse such a late and
+dangerous examination. What keeps us free of all worry and suspicion
+during the construction, however, and flatters us with apparent thoroughness, is this. A great part, perhaps the greatest part, of the business
+of our reason consists in analyses of the concepts that we already have of
+objects. This affords us a multitude of cognitions that, although they
+are nothing more than illuminations or clarifications of that which is already thought in our concepts (though still in a confused way), are, at
+least as far as their form is concerned, treasured as if they were new ina The second edition reads "lange" instead of "lange Zeit. "
+
+sights, though they do not extend the concepts that we have in either
+matter or content, but only set them apart from each other. Now since
+this procedure does yield a real a priori cognition, which makes secure
+and useful progress, reason, without itself noticing it, under these pretenses surreptitiously makes assertions of quite another sort, in which
+reason adds something entirely alien to given concepts and indeeda does
+so a priori, without one knowing how it was able to do this and without
+such ab question even being allowed to come to mind. I will therefore
+deal with the distinction between these two sorts of cognition right at
+the outset.
+
+[B10]
+
+### IV. On the difference between analytic and synthetic judgments.
+
+In all judgments in which the relation of a subject to the predicate is
+thought (if I consider only affirmative judgments, since the application
+to negative ones is easy) this relation is possible in two different ways.
+Either the predicate B belongs to the subject A as something that is
+(covertly) contained in this concept A; or B lies entirely outside the con:
+ceptA, though to be sure it stands in connection with it. In the first case
+I call the judgment analytic, in the second synthetic. Analytic judgments (affirmative ones) are thus those in which the connection of the
+predicate is thought through identity, but those in which this connection is thought without identity are to be called synthetic judgments.
+One could also call the former judgments of clarification, and the latter judgments of amplification/ since through the predicate the former do not add anything to the concept of the subject, but only break
+it up by means of analysis into its component concepts, which were already thought in it (though confusedly); while the latter, on the contrary, add to the concept of the subject a predicate that was not thought
+in it at all, and could not have been extracted from it through any analysis. E.g., if I say: "All bodies are extended," then this is an analytic judgment. For I do not need to go beyonde the concept that I combine with
+the body! in order to find that extension is connected with it, but rather
+I need only to analyze that concept, i.e., become conscious of the manifold that I always think in it, in order to encounter this predicate
+therein; it is therefore an analytic judgment. On the contrary, if I say:
+
+[A7]
+
+BII
+
+[B12]
+
+[A8]
+
+[A9]
+
+[B13]
+
+The addition of such a predicate thus yields a synthetic judgment.
+Judgments of experience, as such, are all synthetic. For it would
+be absurd to ground an analytic judgment on experience, since I do not
+need to go beyond my concept at all in order to formulate the judgment, and therefore need no testimony from experience for that. That
+
+see A 7-8 above.
+The text common to the first edition resumes here.
+The second edition has "einen Gegenstand der Erfahrung" instead of the first edition's
+
+something that happens, I think, to be sure, of an existence that was
+preceded by a time, etc., and from that analytic judgments can be
+drawn. But the concept of a cause lies entirely outside that concept,
+anda indicates something different than the concept of what happens in
+general, and is thereforeb not contained in the latter representation at
+all. How then do I come to say something quite different about that
+which happens in general, and to cognize the concept of cause as belonging to it, indeed necessarily,' even though not contained in it?
+What is the unknown =eX here on which the understanding depends
+when it believes itself to discover beyond the concept of A a predicate
+that is foreign to it yet which it nevertheless believes to be connected
+with it?fIt cannot be experience, for the principle that has been adduced
+adds the latter representations to the former not only with greater generality than experience can provide, but also with the expression of necessity, hence entirely a priori and from mere concepts. Now the entire
+final aim of our speculative a priori cognition rests on such synthetic,
+i.e., ampliative principles; for the analytic ones are, to be sure, most important and necessary, but only for attaining that distinctness of concepts which is requisite for a secure and extended synthesis as a really
+new acquisition.
+
+### V. Synthetic a priori judgments are contained as principles in all theoretical sciences of reason.
+
+[A10]
+
+[B14]
+
+[B15]
+
+quired by the nature of any apodictic certainty), one was persuaded that
+the principles could also be cognized from the principlea of contradiction, in which, however, theyb erred; for a synthetic proposition can of
+course be comprehended in accordance with the principle of contradiction, but only insofar as another synthetic proposition is presupposed
+from which it can be deduced, never in itself.
+It must first be remarked that properly mathematical propositions are
+always a priori judgments and are never empirical, because they carry
+necessity with them, which cannot be derived from experience. But if
+one does not want to concede this, well then, I will restrict myproposition to pure mathematics, the concept of which already implies that it
+does not contain empirical but merely pure a priori cognition.
+To be sure, one might initially think that the proposition " 7 + 5 I 2 "
+is a merely analytic proposition that follows from the concept of a sum
+of seven and five in accordance with the principle of contradiction. Yet
+if one considers it more closely, one finds that the concept of the sum
+of 7 and 5 contains nothing more than the unification of both numbers
+in a single one, through which it is not at all thought what this single
+number is which comprehends the two of them. The concept of twelve
+is by no means already thought merely by my thinking of that unification of seven and five, and no matter how long I analyze my concept of
+such a possible sum I will still not find twelve in it. One must go beyond
+these concepts, seeking assistance in the intuition that corresponds to
+one of the two, one's five fingers, say, or (as in Segner's arithmetic)!7 five
+points, and one after another add the units of the five given in the intuition to the concept of seven. cFor I take first the number 7, and, as I
+take the fingers of my hand as an intuition for assistance with the concept of 5, to that image of mine I now add the units that I have previously taken together in order to constitute the number 5 one after
+another to the number 7, and thus see the number I 2 arise. That 7
+should be added to 5 I have, to be sure, thought in the concept of a sum
+7 + 5, but not that this sum is equal to the number I 2 . The arithmetical proposition is therefore always synthetic; one becomes all the
+more distinctly aware of that if one takes somewhat larger numbers, for
+it is then clear that, twist and turn our concepts as we will, without getting help from intuition we could never find the sum by means of the
+mere analysis of our concepts.
+=
+
+[B16]
+
+=
+
+wirklich seinen Begriff durch diesen Satz 7 + 5 1 2 und thut zu dem ersteren Begriff einen
+neuen hinzu, der in jenem gar nicht gedacht war" (One therefore really amplifies his concept through this proposition "7 + 5 I 2 " and adds a new concept to the former, which
+was not thought in it) in the Prolegomena (4:z69).
+=
+
+=
+
+Just as little is any principle of pure geometry analytic. That the
+straight line between two points is the shortest is a synthetic proposition. For my concept of the straight contains nothing of quantity, but
+only a quality. I 8 The concept of the shortest is therefore entirely additional to it, and cannot be extracted out of the concept of the straight
+line by any analysis. Help must here be gotten from intuition, by means
+of which alone the synthesis is possible.
+To be sure, a few principles that the geometers presuppose are actually analytic and rest on the principle of contradiction; but they alsoa
+only serve, as identical propositions, for the chain of method and not as
+principles, e.g., a = a, the whole is equal to itself, or (a + b) > a, i.e., the
+whole is greater than its part. And yet even these, although they are
+valid in accordance with mere concepts, are admitted in mathematics
+only because they can be exhibited in intuition. What usually makes
+us believe here that the predicate of such apodictic judgments already
+lies in our concept, and that the judgment is therefore analytic, is
+merely the ambiguity of the expression. We should, namely, add a certain predicate to a given concept in thought, and this necessity already
+attaches to the concepts. But the question is not what we should think
+in addition to the given concept, but what we actually think in it,
+though only obscurely, and there it is manifest that the predicate certainly adheres to those concepts necessarily, though not as thought in
+the concept itself, C but by means of an intuition that must be added to
+the concept.
+2 . Natural science (Physica) contains within itself synthetic a priori judgments as principles. I will adduce only a couple of propositions as examples, such as the proposition that in all alterations of the
+corporeal world the quantity of matter remains unaltered, or that in all
+communication of motion effect and counter-effect must always be
+equal. In both of these not only the necessity, thus their a priori origin,
+but also that they are synthetic propositions is clear. For in the concept
+of matter I d o not think persistence, but only its presence in space
+through the filling of space. Thus I actually go beyond the concept of
+matter in order to add something to it a priori that I did not think in it.
+The proposition is thus not analytic, but synthetic, and nevertheless
+thought a priori, and likewise with the other propositions of the pure
+part of natural science.
+3 . In metaphysics, even if one regards it as a science that has thus far
+
+[B17]
+
+[B18]
+
+merely been sought but is nevertheless indispensable because of the nature of human reason, synthetic a priori cognitions are supposed to
+be contained, and it is not concerned merely with analyzing concepts
+that we make of things a priori and thereby clarifying them analytically,
+but we want to amplify our cognition a priori; to this end we must make
+use of such principles that add something to the given concepts that was
+not contained in them, and through synthetic a priori judgments go so
+far beyond that experience itself cannot follow us that far, e.g., in the
+proposition "The world must have a first beginning," and others besides, and thus metaphysics, at least as far as its end is concerned, consists of purely synthetic a priori propositions.
+
+### VI. The general problem of pure reason.
+
+[B20]
+
+One has already gained a great deal if one can bring a multitude of investigations under the formula of a single problem. For one thereby not
+only lightens one's own task, by determining it precisely, but also the
+judgment of anyone else who wants to examine whether we have satisfied our plan or not. The real problem of pure reason is now contained
+in the question: How are synthetic judgments a priori possible?
+That metaphysics has until now remained in such a vacillating state
+of uncertainty and contradictions is to be ascribed solely to the cause
+that no one has previously thought of this problem and perhaps even of
+the distinction between analytic and synthetic judgments. On the solution of this problem, or on a satisfactory proof that the possibility that
+it demands to have explained does not in fact exist at all, metaphysics
+now stands or falls. David Hume, who among all philosophers came
+closest to this problem, still did not conceive of it anywhere near determinately enough and in its universality, but rather stopped with the synthetic proposition of the connection of the effect with its cause
+(Principium causalitatis), believing himself to have brought out that such
+an a priori proposition is entirely impossible, and according to his inferences everything that we call metaphysics would come down to a
+mere delusion of an alleged insight of reason into that which has in fact
+merely been borrowed from experience and from habit has taken on the
+appearance of necessity; an assertion, destructive of all pure philosophy,
+on which he would never have fallen if he had had our problem in its
+generality before his eyes, since then he would have comprehended that
+according to his argument there could also be no pure mathematics,
+since this certainly contains synthetic a priori propositions, an assertion
+
+from which his sound understanding would surely have protected
+him.
+In the solution of the above problem there is at the same time contained the possibility of the pure use of reason in the grounding and execution of all sciences that contain a theoretical a priori cognition of
+objects, i.e., the answer to the questions:
+
+How is pure mathematics possible?
+How is pure natural science possible?
+About these sciences, since they are actually given, it can appropriately be asked how they are possible; for that they must be possible is
+proved through their actuality. * As far as metaphysics is concerned,
+however, its poor progress up to now, and the fact that of no metaphysics thus far expounded can it even be said that, as far as its essential
+end is concerned, it even really exists, leaves everyone with ground to
+doubt its possibility.
+But now this kind of cognition is in a certain sense also to be regarded as given, and metaphysics is actual, if not as a science yet as a
+natural predisposition (metaphysica naturalis). For human reason, without being moved by the mere vanity of knowing it all, inexorably pushes
+on, driven by its own need to such questions that cannot be answered
+by any experiential use of reason and of principlesa borrowed from such
+
+need merely consider the various propositions that come forth at the outset of
+proper (empirical) physics, such as those of the persistence of the same quantity of matter, of inertia, of the equality of effect and counter-effect, etc., and
+one will quickly be convinced that they constitute a physica pura (or rationalis),
+which well deserves to be separately established, as a science of its own, in its
+whole domain, whether narrow or wide.
+
+B2I
+
+[B22]
+
+B2I
+
+to certainty regarding either the knowledge or ignorance of objects, i.e.,
+to come to a decision either about the objects of its questions or about
+the capacity and incapacity" of reason for judging something about
+them, thus either reliably to extend our pure reason or else to set determinate and secure limits for it. This last question, which flows from
+the general problem above, would rightly be this: How is metaphysics
+
+possible as science?
+
+[B23]
+
+[B24]
+
+The critique of reason thus finally leads necessarily to science; the
+dogmatic use of it without critique, on the contrary, leads to groundless
+assertions, to which one can oppose equally plausible ones, thus to
+
+skepticism.
+Further, this science cannot be terribly extensive, for it does not deal
+with objectsb of reason, whose multiplicity; is infinite, but merely with
+itself, with problems that spring entirely from its own womb, and that
+are not set before it by the nature of things that are distinct from it but
+through its own nature; so that, once it has become completely familiar
+with its own capacity" in regard to the objects that may come before it
+in experience, then it must become easy to determine, completely and
+securely, the domain and the bounds of its attempted use beyond all
+bounds of experience.
+Thus one can and must regard as undone all attempts made until now
+to bring about a metaphysics dogmatically; for what is analytic in one
+or the other of them, namely the mere analysis of the concepts that inhabit our reason a priori, is not the end at all, but only a preparation for
+metaphysics proper, namely extending its a priori cognition synthetically, and it is useless for this end, because it merely shows what is contained in these concepts, but not how we attain such concepts a priori in
+order thereafter to be able to determine their valid use in regard to the
+objects of all cognition in general. It also requires only a little selfdenial in order to give up all these claims, since the contradictions of
+reason, which cannot be denied and which are also unavoidable in dogmatic procedure, have long since destroyed the authority of every previous metaphysics. More resolution will be necessary in order not to he
+deterred by internal difficulty and external resistance from using another approach,' entirely opposed to the previous one, in order to promote the productive and fruitful growth of a science that is indispensable for human reason, and from which one can chop down every
+stem that has shot up without ever being able to eradicate its root.
+
+### VII. The idea and division of a special science under the name of a critique of pure reason.
+
+Now from all of this there results the idea of a special science, which
+can be called the critique of pure reason. ForC reason is the faculty
+that provides the principlesd of cognition a priori. Hence pure reason is
+that which contains the principlese for cognizing something absolutely
+
+edition, following which the text common to the two editions resumes, with minor alterations.
+
+[A11]
+
+[B25]
+
+[A12]
+
+B 26\
+
+[A13]
+
+can properly call not doctrine but only transcendental critique, since it
+does not aim at the amplification of cognitions themselves but only at
+their correction, and is to supply the touchstone of the worth or worthlessness of all cognitions a priori, is that with which we are now concerned. Such a critique is accordingly a preparation, if possible, for an
+organon, and, if this cannot be accomplished, then at least for a canon,
+in accordance with which the complete system of the philosophy of
+pure reason, whether it is to consist in the amplification or mere limitationa of its cognition, can in any case at least some day be exhibited
+both analytically and synthetically. For that this should be possible, indeed that such a system should not be too great in scope for us to hope
+to be able entirely to complete it, can be assessed in advance from the
+fact that our object is not the nature of things, which is inexhaustible,
+but the understanding, which judges about the nature of things, and this
+in turn only in regard to its a priori cognition, the supply of which, since
+we do not need to search for it externally, cannot remain hidden from
+us, and in all likelihood is small enough to be completely recorded, its
+
+[B27]
+
+worth or worthlessness assessed, and subjected to a correct appraisal.
+Even less can one expect here a critique of the books and systems of
+pure reason, but rather that of the pure faculty of reason itself. Only if
+this is one's ground does one have a secure touchstone for appraising
+the philosophical content of old and new works in this specialty; otherwise the unqualified historian and judge assesses the groundless assertions of others through his own, which are equally groundless.
+the critique of pure reason is to outline the entire plan architectonically,
+i.e., from principles," with a full guarantee for the completeness and certainty of all the components that comprise this edifice. It is the system
+of all principles! of pure reason. That this critique is not itself already
+called transcendental philosophy rests solely on the fact that in order to
+be a complete system it would also have to contain an exhaustive analysis of all of human cognition a priori. Now our critique must, to be sure,
+lay before us a complete enumeration of all of the ancestral conceptsh
+that comprise the pure cognition in question. Only it properly refrains
+from the exhaustive analysis of these concepts themselves as well as
+
+The next two sentences are added in the second edition.
+The title "II. Division of transcendental philosophy" present in the first edition is
+omitted in the second.
+
+from the complete review of all of those derived from them, partly because this analysis would not be purposefut, since it does not contain
+the difficulty encountered in the synthesis on account of which the
+whole critique is actually undertaken, partly because it would be contrary to the unity of the plan to take on responsibility for the completeness of such an analysis and derivation, from which one could yet
+be relieved given its aim. This completeness of the analysis as well as
+the derivation from the a priori concepts that are to be provided in the
+future will nevertheless be easy to complete as long as they are present
+as exhaustive principlesb of synthesis, and if nothing is lacking in them
+in regard to this essential aim.
+To the critique of pure reason there accordingly belongs everything
+that constitutes transcendental philosophy, and it is the complete idea
+of transcendental philosophy, but is not yet this science itself, since it
+goes only so far in the analysis as is requisite for the complete estimation of synthetic a priori cognition.
+The chief target in the division of such a science is that absolutely no
+concept must enter into it that contains anything empirical, or that the
+
+the first: "since the concepts of pleasure and displeasure, of desires and inclinations, of
+choice, etc., which are all of empirical origin, must thereby be presupposed."
+
+AIS
+
+[B29]
+
+[B30]
+
+[A16]
+
+necessary for an introduction or preliminary is that there are two stems
+of human cognition, which may perhaps arise from a common but to us
+unknown root, namely sensibility and understanding, through the first
+of which objects are given to us, but through the second of which they
+are thought. Now if sensibility were to contain a priori representations,
+which constitute the conditiona under which objects are given to us, it
+will belong to transcendental philosophy. The transcendental doctrine
+of the senses will have to belong to the first part of the science of elements, since the conditions under which alone the objects of human
+cognition are given precede those under which those objects are
+thought.
+

@@ -1,0 +1,882 @@
+
+Transcendental Logic
+First Division
+
+The Transcendental Analytic
+This Analytic is the analysisa of the entirety of our a priori cognition
+into the elements of the pure cognition of the understanding. It is con­
+cerned with the following points: I .b That the concepts be pure and not
+empirical concepts. 2 . That they belong not to intuition and to sensibility, but rather to thinking and understanding. 3 . That they be ele­
+mentary concepts, and clearly distinguished from those which are
+derived or composed from them. 4. That the table of them be complete,
+and that they entirely exhaust the entire field of pure understanding.
+Now this completeness of a science cannot reliably be assumed from a
+rough calculation of an aggregate put together by mere estimates;
+hence it is possible only by means of an idea of the whole of the a priori cognition of the understanding, and throughC the division of concepts that such an idea determines and that constitutes it, thus only
+through their connection in a system. The pure understanding separates itself completely not only from everything empirical, but even
+from all sensibility. It is therefore a unity that subsists on its own, which
+is sufficient by itself, and which is not to be supplemented by any external additions. Hence the sum total of its cognition will constitute a
+system that is to be grasped and determined under one idea, the com­
+pleteness and articulation of which system can at the same time yield a
+touchstone of the correctness and genuineness of all the pieces of cognition fitting into it. This whole part of the transcendental logic, however, consists of two books, the first of which contains the concepts of
+pure understanding, the second its principles.
+a Zergliederung
+b The numeral " 1 . " is missing in the second edition.
+, Added in the second edition.
+
+201
+
+A6S
+
+B 90
+
+Transcendental Analytic
+First Book
+The Analytic of Concepts. °
+
+A66
+
+B 91
+
+I understand by an analytic of concepts not their analysis, or the usual
+procedure of philosophical investigations, that of analyzingh the content
+of concepts that present themselves and bringing them to distinctness,
+but rather the much less frequently attempted analysisC of the faculty
+of understanding itself, in order to research the possibility of a priori
+concepts by seeking them only in the understanding as their birthplace
+and analyzing its pure use in general; for this is the proper business of
+a transcendental philosophy; the rest i s the logical treatment o f con-
+
+a
+
+The following notes appear at this point in Kant's copy of the first edition:
+"We remarked above that experience consists of synthetic propositions, and how
+synthetic a posteriori propositions are possible is not to be regarded as a question re­
+quiring a solution, since it is a fact.
+"Now it is to be asked how this fact is possible.
+"Experience consists of judgments, but it is to be asked whether these empirical
+judgments do not in the end presuppose a priori (pure) judgments. The analysis
+[Analysis] of experience contains, first, its analysis [Zergleiderung] insofar as judgments
+are in it; second, beyond the a posteriori concepts also a priori concepts.
+"The problem is: How is experience possible? 1. vVhat does the understanding do
+in judgments in general? 2. What do the senses do in empirical judgments? 3. In em­
+pirical cognition, what does the understanding, applied to the representations of the
+senses, do in order to bring forth a cognition of objects [Objecte] ?
+"One sees at first that experience is only possible through synthetic a pri01'i propo­
+sitions. Hence a priori principles [Principien] are 1 . immanent: in accordance with use;
+2. it is to be asked, whether they are also transcendent.
+"The test for whether something is also experience, i.e., a fact, is as it were experi­
+mentation with the universal propositions under which the particular empirical judg­
+ment belongs. If the latter cannot stand under a universal rule for judging, if no concept
+can be made out of that, then it is a vitium subreptionis [vicious fallacy] . Why in supersti­
+tion and credulity." (E XXXIII, pp. 2 1-2; 2 3 :24-5)
+
+b zergliedern
+, Zergliederung
+
+2 02
+
+Div. I. Transcendental Analytic
+
+cepts in philosophy in general. We will therefore pursue the pure con­
+cepts into their first seeds and predispositions in the human under­
+standing, where they lie ready, until with the opportunity of experience
+they are finally developed and exhibited in their clarity by the very same
+understanding, liberated from the empirical conditions attaching to
+them.
+
+203
+
+The Analytic of Concepts
+First Chapter
+On the Clue to the Discovery of all
+Pure Concepts of the Understanding
+
+A67
+B 92
+
+If one sets a faculty of cognition into play, then on various occasions dif­
+ferent concepts will become prominent that will make this faculty
+known and that can be collected in a more or less exhaustive treatise de­
+pending on whether they have been observed for a longer time or with
+greater acuteness. Where this investigation will be completed can never
+be determined with certainty by means of this as it were mechanical
+procedure. Further, the concepts that are discovered only as the opportunity arises will not reveal any order and systematic unity, but will
+rather be ordered in pairs only according to similarities and placed in
+series only in accord with the magnitude of their content, from the sim­
+ple to the more composite, which series are by no means systematic
+even if to some extent methodically produced.
+Transcendental philosophy has the advantage but also the obligation
+to seek its concepts in accordance with a principle,a since they spring
+pure and unmixed from the understanding, as absolute unity, and must
+therefore be connected among themselves in accordance with a concept
+or idea. Such a connection, however, provides a rule by means of which
+the place of each pure concept of the understanding and the complete­
+ness of all of them together can be determined a priori, which would
+otherwise depend upon whim or chance.
+On the Transcendental Clue for the Discovery of all Pure
+Concepts of the Understanding
+First Section
+On the logical use of the understanding
+in general.
+
+A68
+
+The understanding has been explained above only negatively, as a non­
+sensible faculty of cognition. Now we cannot partake of intuition indea Princip
+
+204
+
+Section 1. On the logical use of the understanding in general
+
+pendently of sensibility. The understanding is therefore not a faculty of
+intuition. But besides intuition there is no other kind of cognition than
+through concepts. Thus the cognition of every, at least human, under­
+standing is a cognition through concepts, not intuitive but discursive.
+All intuitions, as sensible, rest on affections, concepts therefore on
+functions. By a function, however, I understand the unity of the action
+of ordering different representations under a common one. Concepts
+are therefore grounded on the spontaneity of thinking, as sensible intuitions are grounded on the receptivity of impressions. Now the under­
+standing can make no other use of these concepts than that of judging
+by means of them. Since noa representation pertains to the object im­
+mediately except intuition alone, a concept is thus never immediately
+related to an object, but is always related to some other representation
+of it (whether that be an intuition or itself already a concept).b Judgment
+is therefore the mediate cognition of an object, hence the representation of a representation of it. In every judgment there is a concept that
+holds of many, and that among this many also comprehends a given
+representation, which is then related immediately to the object.5 So in
+the judgment, e.g., "All bodies are divisible,"c the concept of the di­
+visible is related to various other concepts; among these, however, it is
+here particularly related to the concept of body, and this in turn is related to certain appearances d that come before us. These objects are
+therefore mediately represented by the concept of divisibility. All judgments are accordingly functions of unity among our representations,
+since instead of an immediate representation a higher one, which com­
+prehends this and other representations under itself, is used for the cognition of the object, and many possible cognitions are thereby drawn
+together into one. We can, however, trace all actions of the under­
+standing back to judgments, so that the understanding in general can
+be represented as a faculty for judging. For according to what has been
+said above it is a faculty for thinking. Thinking is cognition through
+concepts. Concepts, however, as predicates of possible judgments, are
+related to some representation of a still undetermined object. The concept of body thus signifies something, e.g., metal, which can be cognized through that concept. It is therefore a concept only because other
+representations are contained under it by means of which it can be reIn his copy of the first edition, Kant inserts here the word "other" (E XXIV; p. 2 3 ;
+2 3 :45)·
+b Kant's copy of the first edition replaces this parenthetical aside with the following
+words, without parentheses: "which itself contains intuition only mediately or immedi­
+ately" (E xxxv, p. 2 3 ; 2 3 :45)·
+, Teilbar, rather than veranderlich, following the fourth edition.
+d Kant's copy of the first edition changes "appearances" to "intuitions" (E XXXVI , p. 2 3 ;
+2 3 :45)·
+a
+
+205
+
+B 93
+
+A69
+B 94
+
+Doctrine of Elements. Pt. II. Div. I. Bk I. Ch. I
+
+lated to objects. It is therefore the predicate for a possible judgment,
+e.g., "Every metal is a body." The functions of the understanding can
+therefore all be found together if one can exhaustively exhibit the func­
+tions of unity in judgments. The following section will make it evident
+that this can readily be accomplished.
+On the Clue to the Discovery of all Pure
+Concepts of the Understanding
+Second Section
+
+<§ 9 . > a
+
+On the logical function of the understanding
+in judgments.
+If we abstract from all content of a judgment in general, and attend only
+to the mere form of the understanding in it, we find that the function
+of thinking in that can be brought under four titles, each of which con­
+tains under itself three moments. They can suitably be represented in
+the following table.6
+I.
+
+Quantity o fJudgments
+Universal
+Particular
+Singular
+2.
+
+3·
+
+Quality
+Mfirmative
+Negative
+Infinite
+
+Relationb
+Categorical
+Hypothetical
+Disjunctive
+4·
+Modality
+Problematic
+Assertoric
+Apodictic
+
+B 96
+A7I
+
+Since this division seems to depart in several points, although not es­
+sential ones, from the customary technique of the logicians, the follow­
+ing protests against a worrisome misunderstanding are not unnecessary.
+a Here Kant resumes the numbering of paragraphs begun in the "Transcendental
+
+Aesthetic" in the second edition. This will continue through the end of the "Transcen­
+dental Deduction."
+b Here Kant uses the latinate word Relation instead of either Beziehung or Verhidtnis.
+
+2 06
+
+Section II. On the logical function in judgments
+
+I . The logicians rightly say that in the use of judgments in syllogisms
+singular judgments can be treated like universal ones. For just because
+they have no domain at all, their predicate is not merely related to some
+of what is contained under the concept of the subject while being ex­
+cluded from another part of it. The predicate therefore holds of that
+concept without exception, just as if the latter were a generally valida
+concept with a domain with the predicate applying to the whole of what
+is signified. b If, on the contrary, we compare a singular judgment with a
+generally valid one, merely as cognition, with respect to quantity," then
+the formerd relates to the latter as unity relates to infinity, and is therefore in itself essentially different from the latter. Therefore, if! consider
+a singular judgment ( judicium singulare) not only with respect to its
+internal validity, but also, as cognition in general, with respect to the
+quantitye it has in comparison with other cognitions, then it is surely i
+different from generally valid judgments (judicia communia), and deserves a special place in a complete table of the moments of thinking in
+general (though obviously not in that logic that is limited only to the B 97
+use of judgments with respect to each other).
+2 . Likewise, in a transcendental logic infinite judgments must also
+be distinguished from affirmative ones, even though in general logic A 72
+they are rightly included with the latter and do not constitute a special
+member of the classification. General logic abstracts from all content of
+the predicate (even if it is negative), and considers only whether it is at­
+tributed to the subject or opposed to it. Transcendental logic, however,
+also considers the value or content of the logical affirmation made in a
+judgment by means of a merely negative, predicate, and what sort of
+gain this yields for the whole of cognition,Jf I had said of the soul that
+it is not mortal, then I would at least have avoided an error by means of
+a negative judgment. Now by means of the proposition "The soul is not
+mortal" I have certainly made an actual affirmation as far as logical form
+is concerned, for I have placed the soul within the unlimited domain of
+undying beings. Now since that which is mortal contains one part of the
+whole domain of possible beings, but that which is undying! the other,
+a
+
+ge11leingiiltiger. While this would normally be translated "commonly valid," in this con­
+text it clearly refers to the universal (allge11lein) judgment; we have used "generally" to
+preserve this reference while still marking the difference from allge11lein.
+b von dessen ganzer Bedeutung; here Kant uses Bedeutung, as Frege was later to use it, to
+mean the reference or denotation of a concept; more typically, he uses it to mean some­
+thing closer to what Frege called Sinn or sense, that is, the connotation.
+
+, Grofle
+
+d The text has
+
+sie rather than es, but in spite of the shift in gender there is nothing for the
+pronoun to refer to except "a singular judgment."
+
+, Grofle
+
+f In the second edition, Nichtsterbende; in the first, Nichtsterbliche, or "immortal."
+
+207
+
+Doctrine of Elements. Pt. II. Div. 1. Bk I. Ch. I
+
+B 98
+A 73
+
+B 99
+
+A 74
+
+nothing is said by my proposition but that the soul is One of the infinite
+multitude of things that remain if I take away everything that is mortal.
+But the infinite sphere of the possible is thereby limited only to the ex­
+tent that that which is mortal is separated from it, and the soul is placed
+in the remaining space of its domain.a But even with this exception this
+space still remains infinite, and more parts could be taken away from it
+without the concept of the soul growing in the least and being affirma­
+tively determined. In regard to logical domain, therefore, this infinite
+judgment is merely limiting with regard to the COntent of cognition in
+general, and to this extent it must not be omitted from the transcen­
+dental table of all moments of thinking in judgments, since the function
+of understanding that is hereby exercised may perhaps be important in
+the field of its pure a priori cognition.7
+3. All relationsb of thinking in judgments are those a) of the predicate
+to the subject, b) of the ground to the consequence, and c) between the
+cognition that is to be divided andc all of the members of the division.
+In the first kind of judgment only two concepts are considered to be in
+relation to each other, in the second, two judgments, and in the third,
+several judgments. The hypothetical proposition "If there is perfect jus­
+tice, then obstinate evil will be punished" really contains the relation of
+two propositions, "There is a perfect justice" and "Obstinate evil is pun­
+ished." Whether both of these propositions in themselves are true re­
+mains unsettled here. It is only the implication that is thought by means
+of this judgment. Finally, the disjunctive judgment contains the relations
+of two or more propositions to One another, though not the relation of
+sequence, but rather that of logical opposition, insofar as the sphere of
+one judgment excludes that of the other, yet at the same time the rela­
+tion of community, insofar as the judgments together exhaust the sphere
+of cognition proper; it is therefore a relation of the parts of the sphere
+of a cognition where the sphere of each part is the complement of that
+of the others in the sum total of the divided cognition, e.g., "The world
+exists either through blind chance, or through inner necessity, or
+through an external cause." Each of these propositions occupies one
+part of the sphere of the possible cognition about the existence of a
+world in general, and together they occupy the entire sphere. To remove
+the cognition from one of these spheres means to place it in one of the
+a Following the first edition, Raum ihres Umfangs, rather than the second, Umfangs ihres
+b
+
+C
+
+Raums.
+Verhaltnisse; although he is now speaking of the functions of judgment the table had
+listed under the latinate heading Relation, Kant now reverts to Verhaltnis, and in the re­
+mainder of this paragraph Verhaltnis is translated by "relation." Kant's reversion to
+Verhaltnis here is consistent with his use of this term elsewhere, since he is talking of the
+relation of parts of judgments to each other rather than to us.
+Kant's copy of the first edition replaces "and" with "of" (E XXXVI I, p. 2 3 ; 2 3 :45).
+
+208
+
+Section II. On the logical function in judgments
+
+others, and to place it in one sphere, on the contrary, means to remove
+it from the others. In a disjunctive judgment there is therefore a certain
+community of cognitions, consisting in the fact that they mutually ex­
+clude each other, yet thereby determine the true cognition in its en­
+tirety, since taken together they constitute the entire content of a
+particular given cognition.8 And this is also all that I find it necessary to
+remark upon for the sake of what follows."
+4. The modality of judgments is a quite special function of them,
+which is distinctive in that it contributes nothing to the content of the
+judgment (for besides quantity, quality, and relationb there is nothing
+more that constitutes the content of a judgment), but rather concerns
+only the value of the copula in relation to thinking in genera1.9
+Problematic judgments are those in which one regards the assertion 6fdenial as merely possible (arbitrary). Assertoric judgments are those in
+which it is considered actual (true). Apodictic judgments are those in
+which it is seen as necessary. * Thus the two judgments whose relation
+constitutes the hypothetical judgment (antecedens and consequens), as well
+as those in whose reciprocal relatione the disjunctive judgment consists
+(the members of the division), are all merely problematic. In the above
+example the proposition "There is a perfect justice" is not said assertorically, but is only thought of as an arbitrary judgment that it is possible
+that someone might assume, and only the implication is assertoric. Thus
+such judgments can be obviously false and yet, if taken problematically,
+conditions of the cognition of truth. Thus the judgment "The world
+exists through blind chance" is of only problematic significance in the
+disjunctive judgment, that is, someone might momentarily assume this
+proposition, and yet it serves (like the designation of the false path
+among the number of all of those one can take) to find the true one. The
+problematic proposition is therefore that which only expresses logical
+possibility (which is not objective), i.e., a free choice to allow such a
+proposition to count as valid, a merely arbitrary assumption of it in the
+understanding. The assertoric proposition speaks of logical actuality or
+truth, as say in a hypothetical syllogism the antecedent in the major
+premise is problematic, but that in the minor premise assertoric, and in* It is just as if in the first case thought were a function of the understanding,
+in the second of the power of judgment, and in the third of reason. This is
+a remark the elucidation of which can be expected only in the sequel.
+n
+
+b
+
+The following note occurs in Kant's copy of the first edition: "Judgments and proposi­
+tions are different. That the latter are verbis expressa [explicit words] , since they are as­
+sertoric" (E XXXVIII, p. 2 3 ; 2 3 :25).
+
+Verhdltnis
+, Wechselwirkung
+209
+
+B r oo
+
+A 75
+
+B IO I
+
+A 76
+
+Doctrine of Elements. Pt. II. Div. I. Bk I. Ch. I
+
+dicates that the proposition is already bound to the understanding ac­
+cording to its laws; the apodictic proposition thinks of the assertoric one
+as determined through these laws of the understanding itself, and as
+thus asserting a priori, and in this way expresses logical necessity. Now
+since everything here is gradually incorporated into the understanding,
+so that one first judges something problematically, then assumes it as­
+sertorically as true, and finally asserts it to be inseparably connected
+with the understanding, i.e., asserts it as necessary and apodictic, these
+three functions of modality can also be called so many moments of
+thinking in general.
+B I02
+
+On the Clue to the Discovery of all Pure
+Concepts of the Understanding
+Third Section
+<§ I O. >
+On the pure concepts of the understanding
+or categories.
+As has already been frequently said, general logic abstracts from all con­
+
+A 77
+
+E
+
+I03
+
+tent of cognition, and expects that representations will be given to it
+from elsewhere, wherever this may be, in order for it to transform them
+into concepts analytically. Transcendental logic, on the contrary, has a
+manifold of sensibility that lies before it a priori, which the transcendental aesthetic has offered to it, in order to provide the pure concepts
+of the understanding with a matter, without which they would be with­
+out any content, thus completely empty. Now space and time contain a
+manifold of pure a priori intuition, but belong nevertheless among the
+conditions of the receptivity of our mind, under which alone it can re­
+ceive representations of objects, and thus they must always also affect
+the concept of these objects. Only the spontaneity of our thought re­
+quires that this manifold first be gone through, taken up, and combined
+in a certain way in order for a cognition to be made out of it. I call this
+action synthesis.
+By synthesis in the most general sense, however, I understanda the
+action of putting different representations together with each other and
+comprehending their manifoldness in one cognition. Such a synthesis is
+pure if the manifold is given not empirically but a priori (as is that in
+space and time). Prior to all analysis of our representations these must
+first be given, and no concepts can arise analytically as far as the COlla In his copy of the first edition, Kant changes this sentence to this point to "1 under­
+
+stand by synthesis, however, the action through which synthetic judgments come to be,
+in the general sense, .
+" (E XXXIX, p. 2 3 ; 2 3 '45). Kant also adds the words
+"Combination, composition, and nexus" (E XL, p. 24)·
+.
+
+.
+
+2 10
+
+Section III. On the pure concepts of the understanding
+
+a
+
+tent is concerned. The synthesis of a manifold, however, (whether it
+be given empirically or a priorz) first brings forth a cognition, which to
+be sure may initially still be raw and confused, and thus in need of
+analysis; yet the synthesis alone is that which properly collects the elements for cognitions and unifies them into a certain content; it is therefore the first thing to which we have to attend if we wish to judge about
+the first origin of our cognition.
+Synthesis in general is, as we shall subsequently see, the mere effect
+of the imagination, of a blind though indispensable function of the
+souI,b without which we would have no cognition at all, but of which we
+are seldom even conscious. Yet to bring this synthesis to concepts is a
+function that pertains to the understanding, and by means of which it
+first provides cognition in the proper sense."
+Now pure synthesis, generally represented, yields the pure concept of the understanding. By this synthesis, however, I understand that
+which rests on a ground of synthetic unity a priori; thus our counting (as
+is especially noticeable in the case of larger numbers) is a synthesis in
+accordance with concepts, since it takes place in accordance with a
+common ground of unity (e.g., the decad). Under this concept, therefore, the synthesis of the manifold becomes necessary.
+Different representations are brought under one concept analyti­
+cally (a business treated by general logic). Transcendental logic, how­
+ever, teaches how to bring under concepts not the representations but
+the pure synthesis of representations. The first thing that must be
+given to us a priori for the cognition of all objects is the manifold of
+pure intuition; the synthesis of this manifold by means of the imagination is the second thing, but it still does not yield cognition. The
+concepts that give this pure sythesis unity, and that consist solely in the
+representation of this necessary synthetic unity, are the third thing necessary for cognition of an object that comes before us, and they depend
+on the understanding. 1 0
+The same function that gives unity to the different representations in
+a judgment also gives unity to the mere synthesis of different representations in an intuition, which, expressed generally, is called the pure
+concept of understanding. I I The same understanding, therefore, and indeed by means of the very same actions through which it brings the logical form of a judgment into concepts by means of the analytical unity,
+also brings a transcendental content into its representations by means of
+a In the first edition, the right-hand running head is " Section III. On the pure concepts
+b
+
+of understanding or categories"
+In his copy of the first edition Kant replaces this clause with "of a function of the un­
+derstanding" (E XLI, p. 24; 2 3 :45).
+
+, in eigentlicher Bedeutung
+211
+
+A 78
+
+B I04
+
+A 79
+
+B IOS
+
+Doctrine of Elements. Pt. II. Div. I. Bk I. Ch. I
+
+A80
+
+the synthetic unity of the manifold in intuition in general, on account of
+which they are called pure concepts of the understanding that pertain to
+objects a a priori; this can never be accomplished by universal logic.
+In such a way there arise exactly as many pure concepts of the un­
+derstanding, which apply to objects of intuition in general a priori, as
+there were logical functions of all possible judgments in the previous
+table: for the understanding is completely exhausted and its capacity b
+entirely measured by these functions.c Following Aristotle we will call
+these concepts categories, for our aim is basically identical with his al­
+though very distant from it in execution.d
+
+B 106
+
+Table of CategoriesIZ
+I.
+
+O f Quantity
+Unity
+Plurality
+Totality
+2.
+
+3·
+Of Relation'
+Of Inherence and Subsistence
+(substantia et accidens)
+Of Causality and Dependence
+(cause and effect)
+Of Community (reciprocity
+between agent and patient)
+
+Of Quality
+Reality
+Negation
+Limitation
+
+4·
+Of Modality
+. Possibility - Impossibility
+Existence - Non-existence
+Necessity - Contingency
+n
+
+Objecte
+
+b Vermijgen
+
+, gedachte Functionen
+
+,I The following notes precede the ensuing table of the categories in Kant's copy of tbe
+
+first edition:
+"Logical functions are only forms for tbe relation of concepts in tbinking. Categor­
+ies are concepts, through which certain intuitions are determined in regard to tbe syn­
+thetic unity of tbeir consciousness as contained under tbese functions; e.g., what must
+be tbought as subject and not as predicate." (E XLII, p. 24; 2 3 :25)
+"On the use of the categories in tbe division of a system.
+"On tbe analytic of tbe categories and tbe predicables.
+"On a characteristic of concepts; of intellectual, empirical, and pure sensible represen­
+tations.
+
+,
+
+" - Lex originaria: concept of tbe understanding." (E XLIII, p. 2 4; 2 3: 2 5)
+Relation
+2 12
+
+Section III. On the pure concepts of the understanding
+
+Now this is the listing of all original pure concepts of synthesisa that
+the understanding contains in itself a priori, and on account of which it
+is only a pure understanding; for by these concepts alone can it understand something in the manifold of intuition, i.e., think an objectb for
+it. This division is systematically generated from a common principle,"
+namely the faculty for judging (which is the same as the faculty for
+thinking), and has not arisen rhapsodically from a haphazard search for
+pure concepts, of the completeness of which one could never be certain,
+since one would only infer it through induction, without reflecting that
+in this way one would never see why just these and not other concepts
+should inhabit the pure understanding. ruistotle's search for these fun­
+damental concepts was an effort worthy of an acute man. But since he
+had no principle,d he rounded them up as he stumbled on them, and
+first got up a list of ten of them, which he called categories (predicaments). Subsequently he believed that he had found five more of them,
+which he added under the name of post-pre dicaments. But his table still
+had holes. Further, it also included several modi of pure sensibility
+(quando, ubi, situs, as well as prius, simul,) e as well as an empirical one
+(motus)/ which do not belong in this ancestral registryg of the under­
+standing; derivative concepts were also included among the primary
+ones (actio, passio),h and several of the latter were entirely missing.
+For the sake of the primary concepts it is therefore still necessary to
+remark that the categories, as the true ancestral conceptsi of pure un­
+derstanding, also have their equally pure derivativej concepts, which
+could by no means be passed over in a complete system of transcen­
+dental philosophy, but with the mere mention of which I can be satisfied in a merely critical essay.
+Let me be allowed to call these pure but derivative concepts the
+predicables of pure understanding (in contrast to the predicaments). If
+one has the original and primitive concepts, the derivative and subalternate ones can easily be added, and the family treek of pure under­
+standing fully illustrated. Since I am concerned here not with the
+a
+
+The words "of synthesis" are stricken in Kant's copy of the first edition ( E XLIV, p. 24;
+2 3 :46).
+
+b Object
+
+, Princip
+d Principium
+
+That is, the concepts of when, where, and position, and the relations of priority and simultaneity.
+f motion
+e
+
+g
+h
+
+Stammregister
+action, passion
+
+, Stammbegriffe
+
+J
+
+k
+
+Clearly emphasized only in the first edition.
+
+Stammbaum
+213
+
+A8I
+B 107
+
+A82
+B 108
+
+Doctrine of Elements. Pt. II. Div. I. Bk 1. Ch. I
+
+A83
+
+B 1 09
+
+completeness of the system but rather only with the principlesa for a
+system, I reserve this supplementation for another job. But one could
+readily reach this aim if one took the ontological textbooks in hand,
+and, e.g., under the category of causality, subordinated the predicables
+of force, action, and passion; under that of community, those of pres­
+ence and resistance; under the predicaments of modality those of gen­
+eration, corruption, alteration, and so on. The categories combined
+either with the modis of sensibility or with each other yield a great mul­
+titude of derivative a priori concepts, to take note of which and, as far as
+possible, completely catalogue would be a useful and not unpleasant but
+here dispensable effort.
+I deliberately spare myself the definitions of these categories in this
+treatise, although I should like to be in possession of them. 13 In the se­
+quel I will analyze these concepts to the degree that is sufficient in relation to the doctrine of method that I am working up. In a system of
+pure reason one could rightly demand these of me; but here they would
+only distract us from the chief point of the investigation by arousing
+doubts and objections that can well be referred to another occasion
+without detracting from our essential aim. In any case, from the little
+that I have here adduced it becomes clear that a complete lexicon with
+all the requisite definitions should be not only possible but even easy to
+produce. The headings already exist; it is merely necessary to fill them
+out, and a systematic topic, such as the present one, will make it easy
+not to miss the place where every concept properly belongs and at the
+same time will make it easy to notice any that is still empty.b
+<§ 1 1 . c
+Subtle considerations about this table of categories could be made,
+which could perhaps have considerable consequences with regard to the
+scientific form of all cognitions of reason. For that this table is uncom­
+monly useful, indeed indispensable in the theoretical part of philosophy
+for completely outlining the plan for the whole of a science insofar
+as it rests on a priori concepts, and dividing it mathematically in ac­
+cordance with determinate principles,d is already self-evident from
+the fact that this table completely contains all the elementary concepts
+a
+
+b
+
+Principien
+
+Inserted in Kant's copy of the first edition:
+"What are categories? - - That they extend only to objects of experience.
+" I . Whence do they arise?
+"
+2 . How are they valid a priori of objects of experience?" ( E XLV; pp. 24-5; 2 3 : 2 5)
+, Sections I I and 1 2 were added in the second edition. This explains how Kant can refer
+to the Metaphysical Foundations o/Natural SCience, not published until 1 786.
+
+d
+
+Principien
+214
+
+Section III. On the pure concepts of the understanding
+
+of the understanding, indeed even the form of a system of them in the
+human understanding, consequently that it gives instruction about all
+the moments, indeed even of their order, of a planned speculative science, as I have elsewhere given proof.* Now here are several of these
+remarks.
+The first is that this table, which contains four classes of concepts of
+the understanding, can first be split into two divisions, the first of which
+is concerned with objects of intuition (pure as well as empirical), the
+second of which, however, is directed at the existence of these objects
+(either in relation to each other or to the understanding).
+I will call the first class the mathematical categories, the second, the
+dynamical ones. As one sees, the first class has no correlates, which are
+to be met with only in the second class. Yet this difference must have a
+ground in the nature of the understanding.
+Second remark: that each class always has the same number of cat­
+egories, namely three, which calls for reflection, since otherwise all a
+priori division by means of concepts must be a dichotomy. But here the
+third category always arises from the combination of the first two in its
+class.
+Thus allness (totality) is nothing other than plurality considered as a
+unity, limitation is nothing other than reality combined with negation,
+community is the causality of a substance in the reciprocal determination of others, finally necessity is nothing other than the existence that
+is given by possibility itself. But one should not think that the third category is therefore a merely derivative one and not an ancestral concept
+of pure understanding. For the combination of the first and second in
+order to bring forth the third concept requires a special act of the un­
+derstanding, which is not identical with that act performed in the first
+and second. Thus the concept of a number (which belongs to the category of allness) is not always possible wherever the concepts of multitude and of unity are (e.g., in the representation of the infinite); or
+influence, i.e., how one substance can be the cause of something in another substance, is not to be understood immediately by combining the
+concept of a cause and that of a substance. From this it is clear that a
+special act of the understanding is requisite for this; and likewise in the
+other cases.
+Third remark: The agreement of a single category, namely that of
+community, which is to be found under the third title, with the form
+of a disjunctive judgment, which is what corresponds to it in the table
+of logical functions, is not as obvious as in the other cases.
+In order to be assured of this agreement one must note that in all dis­
+junctive judgments the sphere (the multitude of everything that is con* Metaphysical Foundations ofNatural Science.
+215
+
+B I IO
+
+B III
+
+B I 12
+
+B I IO
+
+Doctrine of Elements. Pt. II. Div. I. Bk I. Ch. I
+
+B II3
+
+tained under it) is represented as a whole divided into parts (the subor­
+dinated concepts), and, since none of these can be contained under any
+other, they are thought of as coordinated with one another, not sub­
+ordinated, so that they do not determine each other unilaterally, as in
+a series, but reciprocally, as in an aggregate (if one member of the di­
+vision is posited, all the rest are excluded, and vice versa).
+Now a similar connection is thought of in an entirety of things,
+since one is not subordinated,a as effect, under another, as the cause of
+its existence, but is rather coordinatedb with the other simultaneously
+and reciprocally as cause with regard to its determination (e.g., in a
+body, the parts of which reciprocally attract yet also repel each other),
+which is an entirely different kind of connection from that which is to
+be found in the mere relation' of cause to effect (of ground to con­
+sequence), in which the consequence does not reciprocally determine
+the ground and therefore does not constitute a whole with the latter (as
+the world-creator with the world). The understanding follows the same
+procedure when it represents the divided sphere of a concept as when
+it thinks of a thing as divisible, and just as in the first case the members
+of the division exclude each other and yet are connected in one sphere,
+so in the latter case the parts are represented as ones to which existence
+(as substances) pertains to each exclusively of the others, and which are
+yet connected in one whole.
+§ 12.
+But there is also yet another chapter in the transcendental philosophy
+of the ancients that contains pure concepts of the understanding that,
+although they are not reckoned among the categories, nevertheless ac­
+cording to them should also count as a priori concepts of objects, in
+which case, however, they would increase the number of the categories,
+which cannot be. These are expounded in the proposition, so famous
+among the scholastics: quodlibet ens est unum, verum, bonum.d Now al­
+though the use of this principlee for inferences has turned out to be very
+meager (they have yielded merely tautological propositions), so that in
+modern times it has been customary to grant it a place in metaphysics
+almost solely by courtesy, nevertheless a thought that has sustained it­
+self so long, no matter how empty it seems, always deserves an investi­
+gation of its origin, and justifies the conjecture that it must have its
+" untergeordnet
+b beygeordnet
+, Verhaitnis
+
+d Every being is one, true, and good.
+e
+
+Princips
+
+2 16
+
+Section III. On the pure concepts of the understanding
+
+ground in some rule of the understanding, which, as so often happens,
+has merely been falsely interpreted. These supposedly transcendental
+predicates of things are nothing other than logical requisites and criteria of all cognition of things in general, and ground it in the categories
+of quantity, namely, the categories of unity, plurality, and totality; yet
+these categories must really have been taken as material, as belonging
+to the possibility of things itself, when in fact they should have been
+used in a merely formal sense, as belonging to the logical requirements
+for every cognition; thus these criteria of thinking were carelessly made
+into properties of things in themselves. In every cognition of an objecta
+there is, namely, unity of the concept, which one can call qualitative
+unity insofar as by that only the unity of the comprehensionb of the
+manifold of cognition is thought, as, say, the unity of the theme in a
+play, a speech, or a fable. Second, truth in respect of the consequences.
+The more true consequences from a given concept, the more indication
+of its objective reality. One could call this the qualitative plurality of
+the marks that belong to a concept as a common ground (not thought
+of in it as a magnitude). Third, finally, perfection, which consists in this
+plurality conversely being traced back to the unity of the concept, and
+agreeing completely with this one and no other one, which one can call
+qualitative completeness (totality). From this it is obvious that these
+logical criteria of the possibility of cognition in general transform the
+three categories of magnitude,c in which the unity in the generation of
+the magnituded must be assumed to be completely homogeneous, into
+a principle ' with the quality of a cognition for the connection of het­
+erogeneous elements of cognition into one consciousness also. Thus
+the criterion of the possibility of a concept (not of its object)! is the definition, in which the unity of the concept, the truth of everything that
+may initially be derived from it, and finally the completeness of everything that is drawn from it, constitute everything that is necessary for
+the production of the entire concept; or the criterion of a hypothesis
+"
+is also the intelligibility of the assumel ground of explanation or its
+unity (without auxiliary hypotheses), the truth (agreement with itself
+and with experience) of the consequences that are derived from it, and
+finally the completeness of the ground of explanation of these conse­
+quences, which do not refer us back to anything more or less than was
+already assumed in the hypothesis, and which merely analytically give
+back a posteriori and agree with that which was thought synthetically a
+
+a Objects
+
+b Zusammenfassung
+
+, Grofe
+Quantum
+, Princips
+f Objects
+d
+
+217
+
+B 1 14
+
+B I I5
+
+Doctrine of Elements. Pt. II. Div. 1. Bk 1. Ch. I
+
+priori. The transcendental table of the categories is thus not com­
+pleted with the concepts of unity, truth, and perfection, as if it were
+lacking something, but rather, the relationa of these concepts to objects b
+being entirely set aside, our procedure with these concepts is only being
+thought under general logical rules for the agreement of cognition with
+itself.>
+-
+
+B I 16
+
+Verhiiltnis
+b Objecte
+a
+
+218
