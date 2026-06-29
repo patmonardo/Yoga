@@ -16,11 +16,11 @@
 
 | Pada | Form | Meaning |
 |---|---|---|
-| anāsravāḥ | nom.pl.m | uncontaminated |
+| anāsravāḥ | nom.pl.m | unconditioned-by-outflow |
 | mārga-satyam | nom.sg.n compound | the truth of the path |
 | trividham | nom./acc.sg.n | threefold |
 | ca api | indeclinables | and also |
-| asaṃskṛtam | nom./acc.sg.n | unconditioned |
+| asaṃskṛtam | nom./acc.sg.n | unconstructed |
 | ākāśam | nom./acc.sg.n | space |
 | dvau | nom.du.m | two |
 | nirodhau | nom.du.m | cessations |
@@ -31,19 +31,19 @@
 
 ## 4. Literal Translation
 
-> The uncontaminated are the truth of the path and also the three kinds of the unconditioned: space and the two cessations. Among these, space is non-obstruction.
+> The unconditioned-by-outflow are the truth of the path and also the threefold unconstructed: space and the two cessations. Among these, space is non-obstruction.
 
 ## 5. Philosophical Translation
 
-> The sphere of the uncontaminated comprises both liberating cognition itself and the unconditioned determinations. These latter are threefold: space and the two forms of cessation. Space is defined not as a substance but as pure non-obstruction.
+> The sphere free from outflow-conditioning comprises both liberating cognition itself and the unconstructed determinations. These unconstructed determinations are threefold: space and the two forms of cessation. Space is defined not as a substance but as pure non-obstruction.
 
 ## 6. Technical Vocabulary
 
 | Sanskrit | Rendering | Note |
 |---|---|---|
-| anāsrava | uncontaminated | free from afflictive continuity |
+| anāsrava | unconditioned-by-outflow | free from afflictive continuity |
 | mārga-satya | truth of the path | liberating cognition |
-| asaṃskṛta | unconditioned | not produced or compounded |
+| asaṃskṛta | unconstructed | not produced, compounded, or made-up |
 | ākāśa | space | defined negatively as non-obstruction |
 | nirodha | cessation | suspension or elimination |
 | anāvṛti | non-obstruction | absence of impediment |
@@ -76,5 +76,6 @@ vak:VAK_1_5
 ## 9. Commit History
 
 - Initial scientific artifact for VAK_1.5.
-- Establishes the threefold unconditioned.
+- Establishes the threefold asaṃskṛta.
+- Revised inherited terminology: anāsrava rendered as unconditioned-by-outflow; asaṃskṛta rendered as unconstructed.
 - Repository serves as canonical archive.
