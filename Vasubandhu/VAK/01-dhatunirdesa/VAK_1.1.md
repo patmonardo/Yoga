@@ -14,57 +14,30 @@
 
 ## 3. Padaccheda
 
-> yaḥ
->
-> sarvathā
->
-> sarva-hata-andhakāraḥ
->
-> saṃsāra-paṅkāt
->
-> jagat
->
-> ujjahāra
->
-> tasmai
->
-> namaskṛtya
->
-> yathārtha-śāstre
->
-> śāstram
->
-> pravakṣyāmi
->
-> abhidharma-kośam
-
-## 4. Morphology
-
-| Word | Form | Meaning |
+| Pada | Form | Meaning |
 |---|---|---|
 | yaḥ | relative pronoun, nom.sg.m | he who |
 | sarvathā | indeclinable | in every respect |
-| sarva-hata | compound participle | utterly destroyed |
-| andhakāraḥ | nom.sg.m | darkness |
-| saṃsāra-paṅkāt | abl.sg | from the mire of saṃsāra |
+| sarva-hata-andhakāraḥ | compound, nom.sg.m | whose darkness was utterly destroyed |
+| saṃsāra-paṅkāt | compound, abl.sg | from the mire of saṃsāra |
 | jagat | acc.sg | the world |
-| ujjahāra | perfect | lifted up, rescued |
+| ujjahāra | perfect, 3rd sg | lifted up, rescued |
 | tasmai | dat.sg | to him |
 | namaskṛtya | absolutive | having bowed |
-| yathārtha-śāstre | loc.sg | in the science of reality-as-it-is |
+| yathārtha-śāstre | compound, loc.sg | in the science of reality-as-it-is |
 | śāstram | acc.sg | the treatise/science |
-| pravakṣyāmi | fut.1sg | I shall expound |
-| abhidharma-kośam | acc.sg | the Abhidharma Treasury |
+| pravakṣyāmi | future, 1st sg | I shall expound |
+| abhidharma-kośam | compound, acc.sg | the Abhidharma Treasury |
 
-## 5. Literal Translation
+## 4. Literal Translation
 
 > Having bowed to him who utterly destroyed darkness in every respect and lifted the world from the mire of saṃsāra, I shall expound the Abhidharmakośa, a science concerning reality as it truly is.
 
-## 6. Philosophical Translation
+## 5. Philosophical Translation
 
 > Having paid homage to the one who dispelled ignorance completely and raised the world from conditioned existence, I shall expound the Abhidharmakośa as a scientific exposition of reality as it truly is.
 
-## 7. Technical Vocabulary
+## 6. Technical Vocabulary
 
 | Sanskrit | Rendering | Note |
 |---|---|---|
@@ -74,11 +47,11 @@
 | śāstra | science | systematic cognition |
 | abhidharma | higher doctrine | science of dharmas |
 
-## 8. Logical Determination
+## 7. Logical Determination
 
 Teacher → Removal of Ignorance → Liberation from Saṃsāra → Possibility of Science → Exposition of Abhidharma
 
-## 9. OWL++ Seed
+## 8. OWL++ Seed
 
 ```ttl
 vak:VAK_1_1
@@ -88,9 +61,9 @@ vak:VAK_1_1
     vak:establishes vak:AbhidharmaScience .
 ```
 
-## 10. Commit History
+## 9. Commit History
 
 - Initial scientific artifact for the VAK project.
-- Padaccheda added as a canonical pedagogical layer.
+- Padaccheda adopted as the canonical grammatical layer.
 - Chat serves as workshop.
 - Repository serves as canonical archive.
