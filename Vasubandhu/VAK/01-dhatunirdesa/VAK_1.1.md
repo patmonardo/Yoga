@@ -35,7 +35,7 @@
 
 ## 5. Philosophical Translation
 
-> Having paid homage to the one who dispelled ignorance completely and raised the world from conditioned existence, I shall expound the Abhidharmakośa as a scientific exposition of reality as it truly is.
+> Having paid homage to the one who completely eliminated ignorance and thereby rendered possible the scientific cognition of reality, I shall expound the Abhidharmakośa as a systematic science of things as they truly are.
 
 ## 6. Technical Vocabulary
 
@@ -65,5 +65,6 @@ vak:VAK_1_1
 
 - Initial scientific artifact for the VAK project.
 - Padaccheda adopted as the canonical grammatical layer.
+- Philosophical Translation retained as the interpretive layer.
 - Chat serves as workshop.
 - Repository serves as canonical archive.
