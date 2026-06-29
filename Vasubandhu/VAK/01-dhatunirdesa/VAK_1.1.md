@@ -12,7 +12,33 @@
 >
 > tasmai namaskṛtya yathārthaśāstre śāstraṃ pravakṣyāmyabhidharmakośam //
 
-## 3. Morphology
+## 3. Padaccheda
+
+> yaḥ
+>
+> sarvathā
+>
+> sarva-hata-andhakāraḥ
+>
+> saṃsāra-paṅkāt
+>
+> jagat
+>
+> ujjahāra
+>
+> tasmai
+>
+> namaskṛtya
+>
+> yathārtha-śāstre
+>
+> śāstram
+>
+> pravakṣyāmi
+>
+> abhidharma-kośam
+
+## 4. Morphology
 
 | Word | Form | Meaning |
 |---|---|---|
@@ -28,17 +54,17 @@
 | yathārtha-śāstre | loc.sg | in the science of reality-as-it-is |
 | śāstram | acc.sg | the treatise/science |
 | pravakṣyāmi | fut.1sg | I shall expound |
-| abhidharmakośam | acc.sg | the Abhidharma Treasury |
+| abhidharma-kośam | acc.sg | the Abhidharma Treasury |
 
-## 4. Literal Translation
+## 5. Literal Translation
 
 > Having bowed to him who utterly destroyed darkness in every respect and lifted the world from the mire of saṃsāra, I shall expound the Abhidharmakośa, a science concerning reality as it truly is.
 
-## 5. Philosophical Translation
+## 6. Philosophical Translation
 
 > Having paid homage to the one who dispelled ignorance completely and raised the world from conditioned existence, I shall expound the Abhidharmakośa as a scientific exposition of reality as it truly is.
 
-## 6. Technical Vocabulary
+## 7. Technical Vocabulary
 
 | Sanskrit | Rendering | Note |
 |---|---|---|
@@ -48,11 +74,11 @@
 | śāstra | science | systematic cognition |
 | abhidharma | higher doctrine | science of dharmas |
 
-## 7. Logical Determination
+## 8. Logical Determination
 
 Teacher → Removal of Ignorance → Liberation from Saṃsāra → Possibility of Science → Exposition of Abhidharma
 
-## 8. OWL++ Seed
+## 9. OWL++ Seed
 
 ```ttl
 vak:VAK_1_1
@@ -62,8 +88,9 @@ vak:VAK_1_1
     vak:establishes vak:AbhidharmaScience .
 ```
 
-## 9. Commit History
+## 10. Commit History
 
 - Initial scientific artifact for the VAK project.
+- Padaccheda added as a canonical pedagogical layer.
 - Chat serves as workshop.
 - Repository serves as canonical archive.
