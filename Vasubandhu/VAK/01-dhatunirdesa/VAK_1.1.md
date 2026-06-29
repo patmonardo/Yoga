@@ -1,23 +1,75 @@
 # VAK_1.1
 
-## Sanskrit (Devanāgarī)
-
-> यः सर्वथासर्वहतान्धकारः संसारपङ्काज्जगदुज्जहार ।
->
-> तस्मै नमस्कृत्य यथार्थशास्त्रे शास्त्रं प्रवक्ष्याम्यभिधर्मकोशम् ॥
-
-## Sanskrit (IAST)
+## 1. Sanskrit Source
 
 > yaḥ sarvathāsarvahatāndhakāraḥ saṃsārapaṅkājjagadujjahāra /
 >
 > tasmai namaskṛtya yathārthaśāstre śāstraṃ pravakṣyāmyabhidharmakośam //
 
-## Working Translation
+## 2. Sanskrit (Devanāgarī)
+
+> यः सर्वथासर्वहतान्धकारः संसारपङ्काज्जगदुज्जहार ।
+>
+> तस्मै नमस्कृत्य यथार्थशास्त्रे शास्त्रं प्रवक्ष्याम्यभिधर्मकोशम् ॥
+
+## 3. Sanskrit (IAST)
+
+> yaḥ sarvathāsarvahatāndhakāraḥ saṃsārapaṅkājjagadujjahāra /
+>
+> tasmai namaskṛtya yathārthaśāstre śāstraṃ pravakṣyāmyabhidharmakośam //
+
+## 4. Morphology
+
+| Word | Form | Meaning |
+|---|---|---|
+| yaḥ | relative pronoun, nom.sg.m | he who |
+| sarvathā | indeclinable | in every respect |
+| sarva-hata | compound participle | utterly destroyed |
+| andhakāraḥ | nom.sg.m | darkness |
+| saṃsāra-paṅkāt | abl.sg | from the mire of saṃsāra |
+| jagat | acc.sg | the world |
+| ujjahāra | perfect | lifted up, rescued |
+| tasmai | dat.sg | to him |
+| namaskṛtya | absolutive | having bowed |
+| yathārtha-śāstre | loc.sg | in the science of reality-as-it-is |
+| śāstram | acc.sg | the treatise/science |
+| pravakṣyāmi | fut.1sg | I shall expound |
+| abhidharmakośam | acc.sg | the Abhidharma Treasury |
+
+## 5. Literal Translation
 
 > Having bowed to him who utterly destroyed darkness in every respect and lifted the world from the mire of saṃsāra, I shall expound the Abhidharmakośa, a science concerning reality as it truly is.
 
-## Notes
+## 6. Philosophical Translation
 
-- Initial artifact for the VAK project.
-- Chat serves as workshop; repository serves as canonical archive.
-- Future sections: morphology, technical vocabulary, logical determination, OWL++, SHACL, SPIN.
+> Having paid homage to the one who dispelled ignorance completely and raised the world from conditioned existence, I shall expound the Abhidharmakośa as a scientific exposition of reality as it truly is.
+
+## 7. Technical Vocabulary
+
+| Sanskrit | Rendering | Note |
+|---|---|---|
+| andhakāra | darkness | ignorance |
+| saṃsāra | conditioned existence | cyclic becoming |
+| yathārtha | reality as it is | objective truth |
+| śāstra | science | systematic cognition |
+| abhidharma | higher doctrine | science of dharmas |
+
+## 8. Logical Determination
+
+Teacher → Removal of Ignorance → Liberation from Saṃsāra → Possibility of Science → Exposition of Abhidharma
+
+## 9. OWL++ Seed
+
+```ttl
+vak:VAK_1_1
+    rdf:type vak:Karika ;
+    vak:invokes vak:Buddha ;
+    vak:concerns vak:Yathartha ;
+    vak:establishes vak:AbhidharmaScience .
+```
+
+## 10. Commit History
+
+- Initial scientific artifact for the VAK project.
+- Chat serves as workshop.
+- Repository serves as canonical archive.
