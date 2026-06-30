@@ -17,87 +17,93 @@
 | Pada | Form | Meaning |
 |---|---|---|
 | vijñānam | nom.sg.n | discriminative cognition, determinate cognition |
-| prativijñaptiḥ | nom.sg.f | counter-cognition, determinate recognition, cognitive apprehension |
+| prativijñaptiḥ | nom.sg.f | correlative cognition, determinate recognition, counter-presentation |
 | manaḥ | nom.sg.n | mind, mental faculty |
-| āyatanam | nom.sg.n | cognitive field, sense-domain |
+| āyatanam | nom.sg.n | cognitive field, domain, sense-base |
 | ca | particle | and |
 | tat | nom.sg.n pronoun | that |
-| dhātavaḥ | nom.pl.m | continuities, elements, domains |
+| dhātavaḥ | nom.pl.m | dhātus, elemental continuities, domains |
 | sapta | numeral | seven |
 | ca | particle | and |
-| matāḥ | nom.pl.m past passive participle | are considered, are held to be |
+| matāḥ | nom.pl.m past passive participle | are regarded, are considered |
 | ṣaṭ | numeral | six |
 | vijñānāni | nom.pl.n | cognitions, discriminative cognitions |
-| atho | particle | and further, moreover |
+| atho | particle | and also, further |
 | manaḥ | nom.sg.n | mind |
 
 ## 4. Literal Translation
 
-> Vijñāna is prativijñapti, determinate cognitive recognition. That also is the mind-āyatana. The dhātus are held to be seven: the six vijñānas and, further, mind.
+> Vijñāna is prativijñapti. That also is the mind-āyatana. The dhātus are regarded as seven: the six vijñānas and also mind.
 
 ## 5. Philosophical Translation
 
-> Vijñāna is not pure awareness but determinate recognition. As mind-field, it gathers the six modes of cognition and mind itself into a sevenfold continuity of knowing.
+> Vijñāna is determinate cognition as correlative recognition. It is not pure awareness, but cognition in its relation to what is cognized. As manas it is also the mind-field; as dhātu it is counted sevenfold: the six cognitions and mind.
 
 ## 6. Technical Vocabulary
 
 | Sanskrit | Rendering | Note |
 |---|---|---|
-| vijñāna | determinate cognition | discriminative cognition, not pure awareness |
-| prativijñapti | determinate recognition | cognition as recognition of its object or determination |
-| manas | mind | the mental faculty or coordinating field |
-| mana-āyatana | mind-field | the cognitive domain of mind |
-| dhātu | continuity, domain | here the sevenfold cognitive continuity |
-| ṣaḍ-vijñāna | six cognitions | visual, auditory, olfactory, gustatory, tactile, and mental cognitions |
+| vijñāna | determinate cognition | discriminative cognition; not pure awareness |
+| prativijñapti | correlative recognition | cognition as a counter-presentation or determinate registration of its object |
+| manas | mind | the mental faculty, treated here as āyatana and dhātu |
+| mana-āyatana | mind-field | the āyatana corresponding to mind |
+| dhātu | continuity, domain | here the sevenfold cognitive domain |
+| ṣaḍ-vijñāna | six cognitions | the six modes of discriminative cognition |
 
 ## 7. Logical Determination
 
-Saṃjñā
-        ↓
-Marks
-        ↓
-Saṃskāra
-        ↓
-Constructive Preservation
-        ↓
 Vijñāna
         ↓
-Prativijñapti / Determinate Recognition
+Prativijñapti
         ↓
-Mind-field
+Determinate Cognition
+        ↓
+Manas as Āyatana
+        ↓
+Six Vijñānas + Manas
+        ↓
+Seven Dhātus
 
-## 8. Comparative Architectonic
+## 8. Interpretive Note
 
-Vijñāna here should not be read as pure awareness. Vasubandhu defines it explicitly as **prativijñapti**, determinate recognition.
+This verse gives a strict definition and should not be inflated into a doctrine of pure awareness. Vasubandhu defines **vijñāna** as **prativijñapti**: cognition as determinate recognition or counter-presentation.
 
-This supports the emerging comparison:
+The important movement is classificatory and transcendental at once:
 
-Saṃjñā  = marks / determinative features
-Saṃskāra = memory / constructive preservation
-Vijñāna = determinate recognition / knowing
+- as **skandha**, vijñāna is the aggregate of cognition;
+- as **āyatana**, it is the mind-field;
+- as **dhātu**, it is articulated as seven cognitive domains: the six vijñānas and manas.
 
-Possible Sāṃkhya correspondence:
+This keeps vijñāna distinct from saṃjñā and saṃskāra. Saṃjñā grasps marks. Saṃskāra preserves and constructs determinations. Vijñāna is the discriminative cognition in which the known is determinately registered.
 
-Manas      → Saṃjñā
-Ahaṃkāra   → Saṃskāra
-Buddhi     → Vijñāna
+## 9. Comparative Architectonic
 
-## 9. OWL++ Seed
+A cautious Sāṃkhya comparison may be preserved for later review:
+
+```text
+Saṃjñā    → mark-grasping
+Saṃskāra  → constructive preservation / memory
+Vijñāna   → discriminative cognition
+```
+
+This suggests an analogy with the movement from manas and ahaṃkāra toward buddhi, but the comparison should remain provisional. The verse itself does not yet teach Sāṃkhya; it defines the Abhidharma placement of vijñāna within skandha, āyatana, and dhātu.
+
+## 10. OWL++ Seed
 
 ```ttl
 vak:VAK_1_16
     rdf:type vak:Karika ;
     vak:defines vak:Vijnana ;
     vak:defines vak:Prativijnapti ;
-    vak:hasDomain vak:ManaAyatana ;
-    vak:hasContinuity vak:SevenCognitiveDhatus ;
+    vak:hasAyatana vak:ManaAyatana ;
+    vak:hasDhatu vak:SevenCognitiveDhatus ;
     vak:includes vak:SixVijnanas ;
     vak:includes vak:Manas .
 ```
 
-## 10. Commit History
+## 11. Commit History
 
 - Initial scientific artifact for VAK_1.16.
-- Establishes vijñāna as prativijñapti, determinate recognition.
-- Avoids translating vijñāna as pure awareness.
-- Marks the transition from transactional cognition toward the science of knowing.
+- Revised to restore the thread method and avoid speculative inflation.
+- Establishes vijñāna as prativijñapti: determinate cognition, not pure awareness.
+- Clarifies the threefold placement of vijñāna as skandha, manas as āyatana, and six vijñānas plus manas as seven dhātus.
