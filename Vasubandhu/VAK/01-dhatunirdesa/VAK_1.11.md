@@ -1,64 +1,75 @@
-# VAK 1.11
+# VAK_1.11
 
-## Sanskrit
+## 1. Sanskrit (Devanāgarī)
 
-```sanskrit
-विक्षिप्तचित्तकस्यापि योऽनुबन्धः शुभाशुभः ।
-महाभूतान्युपादाय स ह्यविज्ञप्तिरुच्यते ॥
-```
+> विक्षिप्तचित्तकस्यापि योऽनुबन्धः शुभाशुभः ।
+>
+> महाभूतान्युपादाय स ह्यविज्ञप्तिरुच्यते ॥
 
-## IAST
+## 2. Sanskrit (IAST)
 
-```text
-vikṣiptacittakasyāpi yo'nubandhaḥ śubhāśubhaḥ |
-mahābhūtānyupādāya sa hyavijñaptirucyate ||
-```
+> vikṣiptācittakasyāpi yo 'nubandhaḥ śubhāśubhaḥ /
+>
+> mahābhūtānyupādāya sa hyavijñaptirucyate //
 
-## Padaccheda
+## 3. Padaccheda
 
-```text
-vikṣipta-cittakasya api
-yaḥ anubandhaḥ
-śubha-aśubhaḥ
-mahābhūtāni upādāya
-saḥ hi avijñaptiḥ ucyate
-```
+| Pada | Form | Meaning |
+|---|---|---|
+| vikṣipta-acittakasya | gen.sg.m/n compound | of one whose consciousness is dispersed or absent-minded |
+| api | particle | even, also |
+| yaḥ | nom.sg.m relative pronoun | which, that which |
+| anubandhaḥ | nom.sg.m | connection, persistence, consequential continuance |
+| śubha-aśubhaḥ | nom.sg.m compound | wholesome or unwholesome |
+| mahābhūtāni | acc.pl.n | the great elements |
+| upādāya | absolutive | having taken up, having appropriated, grounded upon |
+| saḥ | nom.sg.m demonstrative pronoun | that |
+| hi | particle | indeed, for |
+| avijñaptiḥ | nom.sg.f | non-manifest determination |
+| ucyate | 3rd sg. passive present | is called, is said to be |
 
-## Word Meanings
+## 4. Literal Translation
 
-| Sanskrit | Meaning |
-|---|---|
-| vikṣipta | distracted, dispersed |
-| citta | consciousness, mind |
-| anubandha | connection, persistence, consequence |
-| śubha | wholesome |
-| aśubha | unwholesome |
-| mahābhūta | great element |
-| upādāya | having appropriated, grounded upon |
-| avijñapti | implicit determination, unrepresented persistence |
+> Even for one whose consciousness is dispersed, that wholesome or unwholesome persistence which is grounded upon the great elements is indeed called **avijñapti**.
 
-## Literal Translation
+## 5. Philosophical Translation
 
-> Even for one whose consciousness is distracted, that persistence of consequence, whether wholesome or unwholesome, which is grounded upon the great elements, is called **avijñapti**.
+> Even when consciousness is not explicitly gathered, a wholesome or unwholesome consequential determination may persist, grounded upon the elemental field of materiality. This is called **non-manifest determination**.
 
-## Philosophical Translation
+## 6. Technical Vocabulary
 
-> Even when explicit consciousness has become dispersed, the consequential persistence of a wholesome or unwholesome determination, grounded in the elemental field of existence, is called **implicit determination (avijñapti)**.
+| Sanskrit | Rendering | Note |
+|---|---|---|
+| vikṣipta-acittaka | dispersed-consciousness | condition in which explicit consciousness is not operative or gathered |
+| anubandha | persistence, consequential continuance | what remains connected after the explicit act |
+| śubha-aśubha | wholesome / unwholesome | ethical polarity of the consequential determination |
+| mahābhūta | great element | elemental basis of rūpa |
+| upādāya | grounded upon, appropriating | dependence upon the great elements |
+| avijñapti | non-manifest determination | rūpa that persists without explicit manifestation |
 
-## Commentary
+## 7. Logical Determination
 
-**Avijñapti** is one of the difficult and disputed technical terms of Abhidharma. For now, we keep the treatment economical and follow the verse itself.
-
-The verse says that even when consciousness is distracted or dispersed, a wholesome or unwholesome **anubandha** remains. This is not yet a full metaphysical theory of invisible matter. It is the recognition that a determination may continue as consequence even when it is no longer explicitly represented in consciousness.
-
-```text
-Explicit Determination
+Rūpa
         ↓
-Dispersal of Consciousness
+Great Elements
         ↓
-Persistence of Consequence
+Consequential Persistence
         ↓
 Avijñapti
+
+## 8. OWL++ Seed
+
+```ttl
+vak:VAK_1_11
+    rdf:type vak:Karika ;
+    vak:defines vak:Avijnapti ;
+    vak:dependsOn vak:Mahabhuta ;
+    vak:hasDetermination vak:Anubandha ;
+    vak:hasPolarity vak:SubhaAsubha .
 ```
 
-Thus, in this first pass, **avijñapti** is read as the implicit persistence of determination within the field of rūpa.
+## 9. Commit History
+
+- Initial scientific artifact for VAK_1.11.
+- Revised to match the established VAK format.
+- Establishes avijñapti as non-manifest determination grounded upon the great elements.
