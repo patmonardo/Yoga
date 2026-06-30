@@ -26,8 +26,8 @@
 | ṣoḍhā | indeclinable | sixfold |
 | caturvidhaḥ | nom.sg.m | fourfold |
 | gandhaḥ | nom.sg.m | smell |
-| spṛśyam | nom.sg.n | the tangible |
-| ekādaśa-ātmakam | nom.sg.n | elevenfold in nature |
+| spṛśyam | nom.sg.n | tangible |
+| ekādaśātmakam | nom.sg.n | elevenfold in nature |
 
 ## 4. Literal Translation
 
@@ -35,7 +35,7 @@
 
 ## 5. Philosophical Translation
 
-> The objective determinations of materiality are internally articulated according to specific modes of differentiation. Visibility, sound, taste, smell, and tangibility each possess their own determinate multiplicity.
+> The objective determinations of materiality are internally articulated according to distinct modes of differentiation. Visibility, sound, taste, smell, and tangibility each possess their own determinate multiplicity.
 
 ## 6. Technical Vocabulary
 
@@ -46,12 +46,6 @@
 | rasa | taste | gustatory determination |
 | gandha | smell | olfactory determination |
 | spṛśya | tangible | tactile determination |
-| dvidhā | twofold | primary division |
-| viṃśatidhā | twentyfold | articulated division |
-| aṣṭavidha | eightfold | eightfold differentiation |
-| ṣoḍhā | sixfold | sixfold differentiation |
-| caturvidha | fourfold | fourfold differentiation |
-| ekādaśātmakam | elevenfold in nature | elevenfold constitution |
 
 ## 7. Logical Determination
 
@@ -66,16 +60,9 @@ Rūpa / Śabda / Rasa / Gandha / Spṛśya
 ```ttl
 vak:VAK_1_10
     rdf:type vak:Karika ;
-    vak:defines vak:ObjectiveMaterialDetermination ;
-    vak:hasMode vak:VisibleForm ;
-    vak:hasMode vak:Sound ;
-    vak:hasMode vak:Taste ;
-    vak:hasMode vak:Smell ;
-    vak:hasMode vak:Tangible .
+    vak:defines vak:ObjectiveMaterialDetermination .
 ```
 
 ## 9. Commit History
 
-- Initial scientific artifact for VAK_1.10.
-- Establishes internal divisions of visible form, sound, taste, smell, and tangibility.
-- Repository serves as canonical archive.
+- Rewritten scientific artifact for VAK_1.10.
