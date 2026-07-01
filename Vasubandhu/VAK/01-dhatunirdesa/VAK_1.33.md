@@ -18,10 +18,10 @@
 |---|---|---|
 | sapta | numeral | seven |
 | sa-ālambanāḥ | nom.pl.m. | possessing an object-support |
-| citta-dhātavaḥ | nom.pl.m. | knowledge-elements |
+| citta-dhātavaḥ | nom.pl.m. | knowledge-domains |
 | ardham | acc.sg.n. | half |
 | ca | indeclinable | and |
-| dharmataḥ | abl.sg. | with respect to the dharma-element |
+| dharmataḥ | abl.sg. | with respect to the dharma-domain |
 | nava | numeral | nine |
 | anupāttāḥ | nom.pl.m. | unappropriated |
 | te | pronoun | those |
@@ -35,7 +35,7 @@
 
 ## 4. Literal Translation
 
-> Seven knowledge-elements possess object-support, and half of the dharma-element likewise. Nine are unappropriated: the eight and sound. The remaining nine are twofold.
+> Seven knowledge-domains possess object-support, and half of the dharma-domain likewise. Nine are unappropriated: the eight and sound. The remaining nine are twofold.
 
 ## 5. Philosophical Translation
 
@@ -78,4 +78,5 @@ vak:VAK_1_33
 ## 10. Commit History
 
 - Initial draft artifact for VAK_1.33.
+- Replaced inherited 'element' terminology with canonical 'domain' terminology.
 - Preserves functional classification of dhātus.
