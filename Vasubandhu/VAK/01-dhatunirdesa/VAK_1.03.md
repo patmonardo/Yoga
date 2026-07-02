@@ -4,73 +4,133 @@
 
 > धर्माणां प्रविचयमन्तरेण नास्ति क्लेशानां यत उपशान्तयेऽभ्युपायः ।
 >
-> क्लेशैश्च भ्रमति भवार्णवेऽत्र लोकस्तद्धेतोरत उदितः किलैष शास्त्रः ॥
+> क्लेशैश्च भ्रमति भवार्णवेऽत्र लोकस्तद्धेतोरत उदितः किलैष शास्त्रः ॥ १.३ ॥
 
 ## 2. Sanskrit (IAST)
 
-> dharmāṇāṃ pravicayamantareṇa nāsti kleśānāṃ yata upaśāntaye 'bhyupāyaḥ /
+> dharmāṇāṃ pravicayam antareṇa nāsti kleśānāṃ yata upaśāntaye 'bhyupāyaḥ /
 >
-> kleśaiśca bhramati bhavārṇave 'tra lokastaddhetorata uditaḥ kilaiṣa śāstraḥ //
+> kleśaiś ca bhramati bhavārṇave 'tra lokas taddhetor ata uditaḥ kilaiṣa śāstraḥ // VAkK_1.3 //
 
 ## 3. Padaccheda
 
-| Pada | Form | Meaning |
+| Form | Padaccheda | Meaning |
 |---|---|---|
-| dharmāṇām | gen.pl | of the dharmas |
-| pravicayam | acc.sg | analytical discrimination |
-| antareṇa | indeclinable | without |
-| na asti | verbal expression | there is not |
-| kleśānām | gen.pl | of the afflictions |
-| yataḥ | conjunction | because |
-| upaśāntaye | dat.sg | for pacification |
-| abhyupāyaḥ | nom.sg | means, method |
-| kleśaiḥ | instr.pl | by the afflictions |
-| bhramati | pres.3sg | wanders |
-| bhava-arṇave | loc.sg | in the ocean of becoming |
-| lokaḥ | nom.sg | the world |
-| tat-hetoḥ | abl.sg | for that reason |
-| ataḥ | indeclinable | therefore |
-| uditaḥ | past participle | expounded |
-| eṣaḥ śāstraḥ | nom.sg | this science |
+| dharmāṇām | dharmāṇām | of dharmas |
+| pravicayam | pravicayam | discriminative analysis, investigation |
+| antareṇa | antareṇa | without |
+| nāsti | na asti | there is not |
+| kleśānām | kleśānām | of the defilements |
+| upaśāntaye | upaśāntaye | for pacification |
+| abhyupāyaḥ | abhyupāyaḥ | adequate means, method |
+| kleśaiḥ ca | kleśaiḥ ca | and by defilements |
+| bhramati | bhramati | wanders |
+| bhava-arṇave | bhava-arṇave | in the ocean of becoming |
+| lokaḥ | lokaḥ | the world |
+| tad-hetoḥ | tad-hetoḥ | for that reason |
+| ataḥ | ataḥ | therefore |
+| uditaḥ | uditaḥ | spoken, taught, arisen |
+| eṣaḥ śāstraḥ | eṣaḥ śāstraḥ | this treatise |
 
-## 4. Literal Translation
+## 4. Grammar
 
-> Without the analytical discernment of the dharmas, there is no means for the pacification of the afflictions. Because the world wanders in the ocean of becoming through the afflictions, therefore this science has been expounded.
+The argument is explicit:
 
-## 5. Philosophical Translation
+```text
+without pravicaya of dharmas
+    there is no method for pacifying kleśas
 
-> Since there is no means for overcoming the afflictive determinations apart from the discriminative analysis of the dharmas, and since beings wander in conditioned existence through those afflictions, this science is set forth as the necessary path of knowledge.
+because of kleśas
+    the world wanders in the ocean of becoming
 
-## 6. Technical Vocabulary
-
-| Sanskrit | Rendering | Note |
-|---|---|---|
-| dharma | determination | object of analysis |
-| pravicaya | analytical discrimination | decisive discernment |
-| kleśa | affliction | obscuring factor |
-| upaśānti | pacification | cessation |
-| abhyupāya | method | cognitive means |
-| bhava-arṇava | ocean of becoming | saṃsāric existence |
-| śāstra | science | systematic knowledge |
-
-## 7. Logical Determination
-
-Dharmas → Discrimination → Knowledge of Affliction → Pacification
-
-Affliction → Becoming → Necessity of Science
-
-## 8. OWL++ Seed
-
-```ttl
-vak:VAK_1_3
-    rdf:type vak:Karika ;
-    vak:requires vak:Pravicaya ;
-    vak:hasObject vak:Dharma ;
-    vak:concerns vak:Klesa ;
-    vak:establishes vak:AbhidharmaScience .
+therefore
+    this śāstra has been taught
 ```
 
-## 9. Commit History
+The key term is **pravicaya**: discriminative investigation of dharmas. This is the operational form of prajñā introduced in VAK_1.2.
 
-- Initial scientific artifact for VAK_1.3.
-- Establishes pravicaya as the necessary method.
+## 5. Literal Translation
+
+> Without discriminative analysis of dharmas, there is no adequate means for the pacification of the defilements. And by the defilements the world wanders here in the ocean of becoming. For that reason, therefore, this treatise has been taught.
+
+## 6. Philosophical Translation
+
+> The pacification of affliction requires discriminative analysis of dharmas. Because beings wander in the ocean of becoming under the power of kleśa, the Abhidharma śāstra is taught as the method of Dharma-discrimination.
+
+Organon rendering:
+
+> Liberation requires the analysis of determinations. Kleśa persists where Dharma is not discriminated. The world wanders in becoming because its determinations are confused. Abhidharma is therefore the śāstric means by which Dharma becomes knowable and affliction is pacified.
+
+## 7. Technical Vocabulary
+
+| Sanskrit | Project rendering | Note |
+|---|---|---|
+| dharma | determination / law | object of pravicaya |
+| pravicaya | discriminative analysis | analytic operation of prajñā |
+| kleśa | defilement / affliction | what obscures and agitates |
+| upaśānti | pacification | stilling of kleśa |
+| abhyupāya | adequate means | effective method |
+| bhava-arṇava | ocean of becoming | saṃsāric field of wandering |
+| śāstra | treatise | taught because pravicaya is necessary |
+
+## 8. Logical Determination
+
+The verse establishes the necessity of Abhidharma:
+
+```text
+kleśa
+    ↓
+wandering in becoming
+    ↓
+need for pacification
+    ↓
+pravicaya of dharmas
+    ↓
+śāstra
+```
+
+Thus Dharma-analysis is not optional. It is the adequate means to pacify affliction.
+
+## 9. Interpretive Note
+
+This verse gives the methodological core of the chapter. The reason for enumerating dharmas is not taxonomy. It is pacification through discriminative knowing.
+
+This is why the project rendering **dharma = determination / law** matters. The world wanders because determinations are not known as determinations. Kleśa is confusion in the field of appearance. Pravicaya restores lawful discrimination.
+
+Organon note:
+
+```text
+pravicaya
+    = analysis of determinate Dharma
+
+kleśa
+    = confused projection
+
+upaśānti
+    = pacification through principle
+```
+
+## 10. OWL++ Seed
+
+```ttl
+@prefix vak: <http://127.0.0.1:3000/vak#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+vak:VAK_1_3
+    a vak:Karika ;
+    rdfs:label "VAK 1.3" ;
+    vak:hasIAST "dharmāṇāṃ pravicayam antareṇa nāsti kleśānāṃ yata upaśāntaye 'bhyupāyaḥ / kleśaiś ca bhramati bhavārṇave 'tra lokas taddhetor ata uditaḥ kilaiṣa śāstraḥ" ;
+    vak:hasTopic vak:NecessityOfPravicaya ;
+    vak:belongsTo vak:Dhatunirdesa .
+
+vak:Pravicaya
+    a vak:Method ;
+    rdfs:label "discriminative analysis of dharmas" ;
+    vak:pacifies vak:Klesa .
+```
+
+## 11. Commit History
+
+- Added first-pass expanded Organon analysis for VAK_1.3.
+- Establishes pravicaya of dharmas as necessary for pacifying kleśa.
+- Frames Abhidharma as method for ending wandering in the ocean of becoming.
