@@ -2,78 +2,97 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> द्रव्येन्द्रियाणि पञ्चैव भौतिकत्वाच्चतुर्विधम् ।
+> विशेषणार्थं प्राधान्याद्बहुधर्माग्रसंग्रहात् ।
 >
-> मनोऽनन्तराश्रित्यं विज्ञानानां ततः क्रमः ॥
+> एकमायतनं रूपमेकं धर्माख्यमुच्यते ॥ १.२४ ॥
 
 ## 2. Sanskrit (IAST)
 
-> dravyendriyāṇi pañcaiva bhautikatvāc caturvidham /
+> viśeṣaṇārthaṃ prādhānyād bahudharmāgrasaṃgrahāt /
 >
-> mano'nantarāśrityaṃ vijñānānāṃ tataḥ kramaḥ //
+> ekam āyatanaṃ rūpam ekaṃ dharmākhyam ucyate // VAkK_1.24 //
+
+Source label in GRETIL: `VAkK_1.24`. Project-normalized label: `VAkK_1.24`.
 
 ## 3. Padaccheda
 
-| Pada | Form | Meaning |
+| Form | Padaccheda | Meaning |
 |---|---|---|
-| dravya-indriyāṇi | nom.pl.n. compound | the substantial faculties |
-| pañca | numeral | five |
-| eva | indeclinable | indeed, precisely |
-| bhautikatvāt | abl.sg.n. | because of being elemental |
-| catur-vidham | nom./acc.sg.n. | fourfold |
-| manaḥ | nom.sg.n. | mind, manas |
-| anantara-āśrityam | nom./acc.sg.n. compound | dependence on immediate antecedence |
-| vijñānānām | gen.pl.n. | of the cognitions |
-| tataḥ | indeclinable | therefore, from that |
-| kramaḥ | nom.sg.m. | order, sequence |
+| viśeṣaṇa-artham | viśeṣaṇa-artham | for the sake of specification |
+| prādhānyāt | prādhānyāt | because of predominance |
+| bahu-dharma-agra-saṃgrahāt | bahu-dharma-agra-saṃgrahāt | because it gathers many foremost dharmas |
+| ekam āyatanam | ekam āyatanam | one sphere |
+| rūpam | rūpam | form |
+| ekam | ekam | one |
+| dharma-ākhyam | dharma-ākhyam | called dharma |
+| ucyate | ucyate | is called |
 
-## 4. Literal Translation
+## 4. Grammar
 
-> The substantial faculties are indeed five because of their elemental nature; the fourfold grouping is due to their material constitution. Mind depends upon immediate antecedence; therefore there is an order among the cognitions.
+The verse explains why **rūpa** is treated as one sphere and **dharma** as one sphere. Rūpa is singled out for specification because of predominance. Dharma is one sphere because it gathers many dharmas, including subtle and unconditioned determinations.
 
-## 5. Philosophical Translation
+## 5. Literal Translation
 
-> The sensory faculties are grouped according to their elemental constitution, whereas mind is distinguished by its dependence upon immediate succession. Consequently, cognition itself follows a determinate sequence.
+> For the sake of specification, because of predominance, form is called one sphere; and because it gathers many chief dharmas, the one called dharma is [also] one sphere.
 
-## 6. Technical Vocabulary
+## 6. Philosophical Translation
 
-| Sanskrit | Rendering | Note |
+> Rūpa is treated as a single sphere because of its predominance in sensory appearance. Dharma is treated as a single sphere because it gathers many determinations, including those not reducible to the five sensory objects.
+
+Organon rendering:
+
+> The system compresses without flattening. Rūpa receives one sphere because visible/material appearance is dominant; dharma receives one sphere because it is the gathering-domain of manifold determinations.
+
+## 7. Technical Vocabulary
+
+| Sanskrit | Project rendering | Note |
 |---|---|---|
-| dravyendriya | substantial faculty | actual cognitive faculty |
-| bhautika | elemental | constituted by the elements |
-| manas | mind | internal faculty |
-| anantara | immediate antecedence | immediate succession |
-| āśritya | dependence | conditioned support |
-| vijñāna | cognition | cognitive event |
-| krama | sequence | ordered succession |
+| viśeṣaṇa | specification | reason for separate designation |
+| prādhānya | predominance | prominence of rūpa in sensory appearance |
+| saṃgraha | gathering | inclusion of many dharmas |
+| rūpa | form | one sphere by predominance |
+| dharma | determination / law | one sphere by manifold gathering |
+| āyatana | sphere | access-field |
 
-## 7. Logical Determination
+## 8. Logical Determination
 
-Faculty
-        ↓
-Support
-        ↓
-Succession
-        ↓
-Cognition
+```text
+rūpa-āyatana
+    = one sphere by predominance
 
-## 8. Interpretive Note
-
-This verse continues the analysis of sequence (krama). The sensory faculties are ordered according to their material constitution, whereas mind is characterized by dependence upon immediate antecedent conditions. The sequence of cognitions is therefore grounded in a determinate structure of succession.
-
-## 9. OWL++ Seed
-
-```ttl
-vak:VAK_1_24
-    rdf:type vak:Karika ;
-    vak:defines vak:Indriya ;
-    vak:defines vak:Manas ;
-    vak:hasGround vak:Anantara ;
-    vak:hasGround vak:Krama .
+dharmāyatana
+    = one sphere by gathering many dharmas
 ```
 
-## 10. Commit History
+## 9. Interpretive Note
 
-- Initial artifact for VAK_1.24.
-- Preserves grammatical padaccheda.
-- Continues the analysis of sequence and cognitive succession.
+This verse prevents a misunderstanding of compression. A single sphere may be single for different reasons. Rūpa is single because of prominence; dharma is single because of inclusive scope.
+
+Organon note:
+
+```text
+rūpa
+    = dominant appearance-field
+
+dharma
+    = manifold determination-field
+```
+
+This prepares the higher dharmadhātu analysis: the dharma-sphere is not a residual category but the gathering of determinations as such.
+
+## 10. OWL++ Seed
+
+```ttl
+@prefix vak: <http://127.0.0.1:3000/vak#> .
+
+vak:VAK_1_24 a vak:Karika ;
+    vak:hasSourceLabel "VAkK_1.24" ;
+    vak:hasProjectLabel "VAkK_1.24" ;
+    vak:hasTopic vak:RupaAndDharmaSpheres .
+```
+
+## 11. Commit History
+
+- Corrected VAK_1.24 against the Sanskrit source.
+- Replaced stale verse body with source-aligned text.
+- Explains why rūpa and dharma are each treated as one sphere.
