@@ -4,93 +4,117 @@
 
 > सर्वसंग्रह एकेन स्कन्धेनायतनेन च ।
 >
-> धातुना च स्वभावेन परभाववियोगतः ॥
+> धातुना च स्वभावेन परभाववियोगतः ॥ १.१८ ॥
 
 ## 2. Sanskrit (IAST)
 
 > sarvasaṃgraha ekena skandhenāyatanena ca /
 >
-> dhātunā ca svabhāvena parabhāvaviyogataḥ //
+> dhātunā ca svabhāvena parabhāvaviyogataḥ // VAkK_1.18 //
+
+Source label in GRETIL: `VAkK_1.18`. Project-normalized label: `VAkK_1.18`.
 
 ## 3. Padaccheda
 
-| Pada | Form | Meaning |
+| Form | Padaccheda | Meaning |
 |---|---|---|
-| sarva-saṃgrahaḥ | nom.sg.m | complete inclusion, total classification |
-| ekena | instr.sg | by one |
-| skandhena | instr.sg.m | by a skandha |
-| āyatanena | instr.sg.n | by an āyatana |
-| ca | particle | and |
-| dhātunā | instr.sg.m | by a dhātu |
-| ca | particle | and |
-| svabhāvena | instr.sg.m | by its own determination, own nature |
-| para-bhāva-viyogataḥ | abl.sg compound | by exclusion from other determinations |
+| sarva-saṃgrahaḥ | sarva-saṃgrahaḥ | inclusion of all |
+| ekena | ekena | by one |
+| skandhena | skandhena | aggregate |
+| āyatanena ca | āyatanena ca | and sphere |
+| dhātunā ca | dhātunā ca | and domain |
+| svabhāvena | svabhāvena | by own-nature |
+| para-bhāva-viyogataḥ | para-bhāva-viyogataḥ | because of separation from other-nature |
 
-## 4. Literal Translation
+## 4. Grammar
 
-> Every dharma is completely included by one skandha, one āyatana, and one dhātu, by virtue of its own determination and its exclusion from other determinations.
-
-## 5. Philosophical Translation
-
-> A dharma is not an arbitrary cognition but a determinate cognitive whole. It is constituted through its own determination and through the exclusion of alternative determinations, thereby belonging uniquely to a skandha, āyatana, and dhātu.
-
-## 6. Technical Vocabulary
-
-| Sanskrit | Rendering | Note |
-|---|---|---|
-| dharma | determinate cognitive whole | not any cognition whatsoever |
-| svabhāva | own determination | identity through self-determination |
-| para-bhāva-viyoga | exclusion of others | determination through negation |
-| skandha | aggregate | mode of manifestation |
-| āyatana | field | domain of cognition |
-| dhātu | continuity | domain of persistence |
-
-## 7. Logical Determination
-
-Svabhāva
-        ↓
-Identity
-        ↓
-Exclusion
-        ↓
-Determinate Concept
-        ↓
-Skandha / Āyatana / Dhātu
-
-## 8. Interpretive Note
-
-This verse is fundamentally logical rather than metaphysical. A dharma is determined both positively and negatively:
+The verse gives the rule of inclusion:
 
 ```text
-A = A
-because
-A ≠ B,C,D,...
+all dharmas are included
+    by one aggregate
+    by one sphere
+    by one domain
 ```
 
-A provisional Kantian interpretation:
+The ground is **svabhāva**: each dharma is included by its own-nature because it is distinct from what is other than itself.
+
+## 5. Literal Translation
+
+> The inclusion of all is by one aggregate, by one sphere, and by one domain, according to own-nature, because of separation from other-nature.
+
+## 6. Philosophical Translation
+
+> Every dharma is included in its proper aggregate, sphere, and domain according to its own-nature. Its inclusion is determined by what it is, and by its separation from what it is not.
+
+Organon rendering:
+
+> Classification is grounded in self-determination. A dharma belongs where its own-nature places it. Inclusion is therefore not arbitrary grouping but the logical result of difference from other-nature.
+
+## 7. Technical Vocabulary
+
+| Sanskrit | Project rendering | Note |
+|---|---|---|
+| saṃgraha | inclusion / collection | systematic gathering |
+| skandha | aggregate | aggregate-form of inclusion |
+| āyatana | sphere | relational inclusion |
+| dhātu | domain | domain inclusion |
+| svabhāva | own-nature | self-determination |
+| parabhāva | other-nature | what the dharma is not |
+| viyoga | separation | distinction from other |
+
+## 8. Logical Determination
 
 ```text
-Vijñapti        = Judgment
-Prativijñapti  = Recognition / Inference
+inclusion
+    = by own-nature
+    = through exclusion of other-nature
 ```
 
-A dharma is therefore not any isolated cognition, but a completed cognitive cycle grounded in the Dharma-dhātu itself. Only the unity of vijñapti and prativijñapti constitutes a determinate dharma.
+Thus:
 
-## 9. OWL++ Seed
+```text
+classification
+    rests on self-determination
+```
+
+## 9. Interpretive Note
+
+This is the logical heart of the taxonomy. The systems of aggregate, sphere, and domain are not competing lists. They are modes of including dharmas according to svabhāva.
+
+Organon note:
+
+```text
+svabhāva
+    = own determination
+
+classification
+    = placing each dharma according to that determination
+```
+
+This becomes the foundation for the entire Dhātunirdeśa.
+
+## 10. OWL++ Seed
 
 ```ttl
+@prefix vak: <http://127.0.0.1:3000/vak#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
 vak:VAK_1_18
-    rdf:type vak:Karika ;
-    vak:defines vak:Svabhava ;
-    vak:defines vak:ParabhavaViyoga ;
-    vak:classifiesBy vak:Skandha ;
-    vak:classifiesBy vak:Ayatana ;
-    vak:classifiesBy vak:Dhatu .
+    a vak:Karika ;
+    rdfs:label "VAK 1.18" ;
+    vak:hasSourceLabel "VAkK_1.18" ;
+    vak:hasProjectLabel "VAkK_1.18" ;
+    vak:hasTopic vak:InclusionByOwnNature ;
+    vak:belongsTo vak:Dhatunirdesa .
+
+vak:InclusionByOwnNature
+    vak:groundedIn vak:Svabhava ;
+    vak:requiresSeparationFrom vak:Parabhava .
 ```
 
-## 10. Commit History
+## 11. Commit History
 
-- Initial scientific artifact for VAK_1.18.
-- Interprets the verse as a theory of logical determination.
-- Preserves the emerging distinction between vijñapti and prativijñapti.
-- Notes the hypothesis that a dharma is a complete cognitive cycle.
+- Upgraded VAK_1.18 with expanded Organon analysis.
+- Establishes inclusion by aggregate, sphere, and domain according to svabhāva.
+- Reads classification as self-determination through distinction from other-nature.
