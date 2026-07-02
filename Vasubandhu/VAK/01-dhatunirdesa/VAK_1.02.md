@@ -1,16 +1,18 @@
-# VAK_1.2
+# VAK_1.02
 
 ## 1. Sanskrit (Devanāgarī)
 
 > प्रज्ञामला सानुचराभिधर्मः तत्प्राप्तये यापि च यच्च शास्त्रम् ।
 >
-> तस्यार्थतोऽस्मिन् समनुप्रवेशात् स चाश्रयोऽस्येत्यभिधर्मकोशम् ॥ १.२ ॥
+> तस्यार्थतोऽस्मिन् समनुप्रवेशात् स चाश्रयोऽस्येत्यभिधर्मकोशम् ॥ १.०२ ॥
 
 ## 2. Sanskrit (IAST)
 
 > prajñāmalā sānucarābhidharmaḥ tatprāptaye yāpi ca yacca śāstram /
 >
-> tasyārthato 'smin samanupraveśāt sa cāśrayo 'syety abhidharmakośam // VAkK_1.2 //
+> tasyārthato 'smin samanupraveśāt sa cāśrayo 'syety abhidharmakośam // VAkK_1.02 //
+
+Source label in GRETIL: `VAkK_1.2`. Project-normalized label: `VAkK_1.02`.
 
 ## 3. Padaccheda
 
@@ -116,10 +118,12 @@ This gives the authority for reading the chapter as a principial architecture ra
 @prefix vak: <http://127.0.0.1:3000/vak#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
-vak:VAK_1_2
+vak:VAK_1_02
     a vak:Karika ;
-    rdfs:label "VAK 1.2" ;
+    rdfs:label "VAK 1.02" ;
     vak:hasIAST "prajñāmalā sānucarābhidharmaḥ tatprāptaye yāpi ca yacca śāstram / tasyārthato 'smin samanupraveśāt sa cāśrayo 'syety abhidharmakośam" ;
+    vak:hasSourceLabel "VAkK_1.2" ;
+    vak:hasProjectLabel "VAkK_1.02" ;
     vak:hasTopic vak:DefinitionOfAbhidharma ;
     vak:belongsTo vak:Dhatunirdesa .
 
@@ -131,7 +135,9 @@ vak:Abhidharma
 
 ## 11. Commit History
 
-- Added first-pass expanded Organon analysis for VAK_1.2.
+- Added first-pass expanded Organon analysis for VAK_1.02.
+- Normalized project verse numbering to padded lexical form: `VAK_1.02` / `VAkK_1.02`.
+- Preserves the original GRETIL source label as `VAkK_1.2` for source verification.
 - Defines Abhidharma as stainless prajñā with attendants.
 - Distinguishes primary Abhidharma from supporting śāstra.
 - Frames Kośa as treasury/support of Abhidharma's meaning.
