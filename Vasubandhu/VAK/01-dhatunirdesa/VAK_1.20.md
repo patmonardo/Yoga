@@ -4,98 +4,131 @@
 
 > राश्यायद्वारगोत्रार्थाः स्कन्धायतनधातवः ।
 >
-> मोहैन्द्रियरुचित्रैधात्तिस्त्रः स्कन्धादिदेशनाः ॥
+> मोहेन्द्रियरुचित्रैधात्तिस्रः स्कन्धादिदेशनाः ॥ १.२० ॥
 
 ## 2. Sanskrit (IAST)
 
-> rāśy-āya-dvāra-gotrārthāḥ skandhāyatanadhātavaḥ /
+> rāśyāyadvāragotrārthāḥ skandhāyatanadhātavaḥ /
 >
-> mohendriya-ruci-traidhāt tisraḥ skandhādideśanāḥ //
+> mohendriyarucitraidhāt tisraḥ skandhādideśanāḥ // VAkK_1.20 //
+
+Source label in GRETIL: `VAkK_1.20`. Project-normalized label: `VAkK_1.20`.
 
 ## 3. Padaccheda
 
-| Pada | Form | Meaning |
+| Form | Padaccheda | Meaning |
 |---|---|---|
-| rāśi | m. | aggregate, collection |
-| āya | m. | approach, access |
-| dvāra | n. | gateway |
-| gotra | n. | lineage, continuity, family |
-| arthāḥ | nom.pl.m | signifying, denoting |
-| skandha-āyatana-dhātavaḥ | nom.pl.m | skandhas, āyatanas, and dhātus |
-| moha | m. | confusion, ignorance |
-| indriya | n. | faculty, capacity |
-| ruci | f. | inclination, disposition |
-| traidhāt | indecl. | in three ways |
-| tisraḥ | nom.pl.f | three |
-| skandha-ādi-deśanāḥ | nom.pl.f | teachings beginning with the skandhas |
+| rāśi-arthaḥ | rāśi-arthaḥ | aggregate has the meaning of heap/collection |
+| āya-dvāra-arthaḥ | āya-dvāra-arthaḥ | sphere has the meaning of entrance/gateway |
+| gotra-arthaḥ | gotra-arthaḥ | domain has the meaning of lineage/source-kind |
+| skandha-āyatana-dhātavaḥ | skandha-āyatana-dhātavaḥ | aggregates, spheres, domains |
+| moha-indriya-ruci-traidhāt | moha-indriya-ruci-traidhāt | because of threefold delusion, faculty, and inclination |
+| tisraḥ | tisraḥ | three |
+| skandha-ādi-deśanāḥ | skandha-ādi-deśanāḥ | teachings beginning with aggregates |
 
-## 4. Literal Translation
+## 4. Grammar
 
-> The skandhas, āyatanas, and dhātus signify aggregate, gateway, and lineage respectively. The three teachings beginning with the skandhas are taught in three ways according to confusion, faculties, and dispositions.
-
-## 5. Philosophical Translation
-
-> Skandha, āyatana, and dhātu are not three ontologies but three presentations of dharma: as aggregate, as gateway, and as continuity or lineage. Their distinct presentation serves pedagogical and transcendental purposes.
-
-## 6. Technical Vocabulary
-
-| Sanskrit | Rendering | Note |
-|---|---|---|
-| rāśi | aggregate | manifest collection |
-| āya/dvāra | gateway | access to cognition |
-| gotra | lineage | continuity, transmission, persistence |
-| moha | confusion | mode of cognitive limitation |
-| indriya | faculty | capacity for cognition |
-| ruci | disposition | inclination of the learner |
-| deśanā | presentation | mode of teaching |
-
-## 7. Logical Determination
-
-Dharma
-        ↓
-Aggregate
-        (Skandha)
-
-Dharma
-        ↓
-Gateway
-        (Āyatana)
-
-Dharma
-        ↓
-Lineage / Continuity
-        (Dhātu)
-
-## 8. Interpretive Note
-
-This verse indicates that skandha, āyatana, and dhātu are three pedagogical and transcendental presentations of the same dharmas.
+The verse defines the three analytic schemes by their meanings:
 
 ```text
-Skandha  = Manifest Aggregate
-Āyatana = Gateway of Cognition
-Dhātu   = Continuity / Lineage
+skandha
+    = rāśi, collection/aggregate
+
+āyatana
+    = āya-dvāra, entrance/gateway
+
+dhātu
+    = gotra, lineage/source-kind/domain-family
 ```
 
-The term *gotra* strongly suggests continuity, lineage, and transmission rather than substance. This supports the emerging interpretation of dhātu as serial continuity.
+It also gives the pedagogical reason for three teachings: beings differ by delusion, faculty, and inclination.
 
-The three presentations are taught according to differing confusions, faculties, and dispositions. Thus the Abhidharma begins not with ontology but with an encyclopedia of cognitive determinations.
+## 5. Literal Translation
 
-## 9. OWL++ Seed
+> Aggregates, spheres, and domains have the meanings of collection, entrance-gateway, and lineage. Because of the threefold difference in delusion, faculties, and inclinations, there are three teachings beginning with aggregates.
+
+## 6. Philosophical Translation
+
+> The aggregates analyze dharmas as collections; the spheres analyze them as gateways of relation; the domains analyze them as source-kinds or domain-families. The Buddha teaches these three schemes because beings differ in confusion, capacity, and disposition.
+
+Organon rendering:
+
+> The three systems are not redundant lists. They are three lawful pedagogical forms: aggregate for collection, sphere for access, domain for generative kind. The teaching adapts to the structure of the learner while preserving the one Dharma-field.
+
+## 7. Technical Vocabulary
+
+| Sanskrit | Project rendering | Note |
+|---|---|---|
+| skandha | aggregate | rāśi: collection/aggregate structure |
+| āyatana | sphere | āya-dvāra: gateway or access-field |
+| dhātu | domain | gotra: lineage/source-kind |
+| deśanā | teaching | pedagogical exposition |
+| moha | delusion | confusion-type of learner |
+| indriya | faculty | capacity of learner |
+| ruci | inclination | disposition/preference |
+
+## 8. Logical Determination
+
+```text
+skandha
+    = collection-form
+
+āyatana
+    = access-form
+
+dhātu
+    = domain/source-form
+```
+
+The three teachings are grounded in:
+
+```text
+threefold learner-condition:
+    moha
+    indriya
+    ruci
+```
+
+## 9. Interpretive Note
+
+This verse explains why the chapter uses three schemes. They are not merely different taxonomies. Each reveals the same Dharma-field under a distinct logical form.
+
+Organon note:
+
+```text
+aggregate
+    = determination as collection
+
+sphere
+    = determination as gateway of relation
+
+domain
+    = determination as source-kind / generative family
+```
+
+This is a profound pedagogical principle: doctrine is shaped to the capacities and confusions of the learner without sacrificing truth.
+
+## 10. OWL++ Seed
 
 ```ttl
+@prefix vak: <http://127.0.0.1:3000/vak#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
 vak:VAK_1_20
-    rdf:type vak:Karika ;
-    vak:defines vak:SkandhaPresentation ;
-    vak:defines vak:AyatanaPresentation ;
-    vak:defines vak:DhatuPresentation ;
-    vak:hasGround vak:Moha ;
-    vak:hasGround vak:Indriya ;
-    vak:hasGround vak:Ruci .
+    a vak:Karika ;
+    rdfs:label "VAK 1.20" ;
+    vak:hasSourceLabel "VAkK_1.20" ;
+    vak:hasProjectLabel "VAkK_1.20" ;
+    vak:hasTopic vak:ThreeAnalyticTeachings ;
+    vak:belongsTo vak:Dhatunirdesa .
+
+vak:Skandha vak:hasMeaning vak:Rasi .
+vak:Ayatana vak:hasMeaning vak:AyaDvara .
+vak:Dhatu vak:hasMeaning vak:Gotra .
 ```
 
-## 10. Commit History
+## 11. Commit History
 
-- Initial scientific artifact for VAK_1.20.
-- Interprets skandha, āyatana, and dhātu as three presentations of dharma.
-- Preserves the interpretation of dhātu as continuity or lineage.
-- Notes the pedagogical structure of the Abhidharma encyclopedia.
+- Upgraded VAK_1.20 with expanded Organon analysis.
+- Defines skandha, āyatana, and dhātu through rāśi, āya-dvāra, and gotra.
+- Explains the three teaching schemes by differences in delusion, faculties, and inclinations.
