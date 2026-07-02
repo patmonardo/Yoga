@@ -27,7 +27,7 @@ caturṇṇāṃ pañcakāṣṭānāṃ saṃkleśavyavadānayoḥ // VAkK_2.1 
 |---|---|---|
 | caturṣvartheṣu | caturṣu artheṣu | in four functions / meanings / aims |
 | pañcānām | pañcānām | of the five |
-| ādhipatyam | ādhipatyam | dominance, governing power, sovereignty |
+| ādhipatyam | ādhipatyam | governing efficacy |
 | dvayoḥ | dvayoḥ | of the two |
 | kila | kila | indeed, as taught |
 | caturṇṇām | caturṇām | of the four |
@@ -47,7 +47,7 @@ pañcānām
 
 ādhipatyam
     nominative / accusative singular neuter
-    “governing dominance,” “sovereign efficacy”
+    “governing efficacy,” “effective rule,” “operative dominance”
 
 dvayoḥ
     genitive dual
@@ -75,10 +75,42 @@ The verse is elliptical. The governing syntactic idea is:
 That is:
 
 ```text
-Because of governing power, these are faculties.
+Because of governing efficacy, these are faculties.
 ```
 
-## 5. Minimal Classification Note
+## 5. Etymological Note — ādhipatya
+
+```text
+ādhipatya
+    < adhi + pati + ya
+```
+
+```text
+adhi
+    over, above, toward, concerning, with reference to, governing with respect to
+
+pati
+    lord, ruler, master, protector, possessor
+
+-patya / -ya
+    abstract state, condition, or function
+```
+
+Therefore:
+
+```text
+ādhipatya
+    =
+the condition or function of rule
+    =
+governing efficacy
+```
+
+For this project, **governing efficacy** is the primary working translation. Terms such as “sovereignty,” “lordship,” or “dominance” may be useful interpretive resonances, but they should not displace the functional sense.
+
+Textual caution: this kārikā has **ādhipatya**, not **adhyātman**. Any later use of **adhyātman** belongs to the Bhāṣya layer only where Vasubandhu explicitly introduces it, and should not be imported into the kārikā translation.
+
+## 6. Minimal Classification Note
 
 This verse compresses the full doctrine of the twenty-two *indriyas*. We introduce the list only as orientation, not as a full Bhāṣya-based exposition.
 
@@ -122,20 +154,20 @@ Twenty-two indriyas:
 
 The important point is that **indriya** is not yet merely “sense organ.” It is a determination that has **ādhipatya**, governing efficacy.
 
-## 6. Literal Translation
+## 7. Literal Translation
 
 ```text
-Of the five, there is governing dominance with respect to four functions;
+Of the five, there is governing efficacy with respect to four functions;
 of the two, indeed; of the four, and of the fivefold and eightfold groups,
 with respect to defilement and purification.
 ```
 
 This literal translation intentionally preserves the elliptical compression of the kārikā.
 
-## 7. Philosophical Translation
+## 8. Philosophical Translation
 
 ```text
-The faculties are called faculties because they exercise governing power:
+The faculties are called faculties because they exercise governing efficacy:
 the first five govern four functional domains;
 the two govern sexual differentiation;
 the life faculty governs persistence of the living series;
@@ -145,12 +177,12 @@ and the pure and realization faculties govern defilement and purification.
 
 This is an expanded philosophical translation, informed by VAK_2.02–VAK_2.05 but not yet by a fully cleaned Bhāṣya source.
 
-## 8. Technical Vocabulary
+## 9. Technical Vocabulary
 
 | Sanskrit | Working Translation | Note |
 |---|---|---|
-| indriya | faculty / governing power | Not simply “sense organ” |
-| ādhipatya | governing dominance / sovereignty | Key definition of *indriya* |
+| indriya | faculty / governing efficacy | Not simply “sense organ” |
+| ādhipatya | governing efficacy | Key definition of *indriya* |
 | artha | function / meaning | Here probably functional object-domain |
 | saṃkleśa | defilement / entanglement | Impure involvement |
 | vyavadāna | purification / clarification | Purifying release or clarification |
@@ -158,7 +190,7 @@ This is an expanded philosophical translation, informed by VAK_2.02–VAK_2.05 b
 | prajñā | principle / discriminative knowing | Already fixed in project vocabulary |
 | smṛti | recollection | Already fixed in project vocabulary |
 
-## 9. Logical Determination
+## 10. Logical Determination
 
 ```text
 indriya
@@ -166,7 +198,15 @@ indriya
 a dharma insofar as it has ādhipatya
 ```
 
-So the chapter begins not with a catalogue of organs but with a principle of **dominant functional determination**.
+That is:
+
+```text
+indriya
+    =
+a determination endowed with governing efficacy
+```
+
+So the chapter begins not with a catalogue of organs but with a principle of **operative rule**.
 
 The movement from Chapter 1 to Chapter 2 is therefore:
 
@@ -177,12 +217,12 @@ determination of domains
 
 Indriyanirdeśa
     =
-determination of governing powers within domains
+determination of governing efficacies within domains
 ```
 
 Chapter 1 defined the field. Chapter 2 asks which determinations govern the field.
 
-## 10. Organon Interpretation
+## 11. Organon Interpretation
 
 This is a major transition.
 
@@ -191,7 +231,7 @@ VAK_1:
     domain-structure
 
 VAK_2:
-    command-structure
+    command-structure / model-structure
 ```
 
 Or:
@@ -203,14 +243,28 @@ where a determination belongs
 
 indriya
     =
-where a determination rules
+where a determination operates with governing efficacy
 ```
 
-The *indriya* is therefore not primarily a substance, organ, faculty, or psychological capacity. It is a **functional sovereignty** within the dharma-field.
+The *indriya* is therefore not primarily a substance, organ, or passive psychological capacity. It is an operative model of experience: a faculty-driver that produces representation under a governed schema.
 
-This is why **ādhipatya** is the hinge term. The faculty is not just present; it governs.
+In Organon terms:
 
-## 11. OWL++ Seed
+```text
+indriya
+    =
+relative prajñā-dharma formation
+    =
+conditioned model of experience
+    =
+SDSL-level faculty-driver
+```
+
+This belongs to the level of specialized models of experience, not yet to the deeper internal generative level of GDSL.
+
+The faculty is not autonomous. Its **ādhipatya** is delegated rule: a local governing efficacy through which conditioned experience is schematized and made available to knowledge.
+
+## 12. OWL++ Seed
 
 ```turtle
 @prefix vak: <http://127.0.0.1:3000/vak#> .
@@ -224,33 +278,38 @@ vak:VAK_2_01 a vak:Karika ;
     vak:hasTopic vak:Indriya ;
     vak:hasKeyTerm vak:Adhipatya ;
     vak:hasLiteralTranslation
-        "Of the five, there is governing dominance with respect to four functions; of the two, indeed; of the four, and of the fivefold and eightfold groups, with respect to defilement and purification." ;
+        "Of the five, there is governing efficacy with respect to four functions; of the two, indeed; of the four, and of the fivefold and eightfold groups, with respect to defilement and purification." ;
     vak:hasPhilosophicalTranslation
-        "The faculties are called faculties because they exercise governing power: the first five govern four functional domains; the two govern sexual differentiation; the life faculty governs persistence of the living series; the feeling faculties govern affective involvement; and the pure and realization faculties govern defilement and purification." .
+        "The faculties are called faculties because they exercise governing efficacy: the first five govern four functional domains; the two govern sexual differentiation; the life faculty governs persistence of the living series; the feeling faculties govern affective involvement; and the pure and realization faculties govern defilement and purification." .
 
 vak:Indriya a logic:Determination ;
     rdfs:label "indriya" ;
-    vak:canonicalTranslation "faculty / governing power" ;
+    vak:canonicalTranslation "faculty / governing efficacy" ;
     vak:definedBy vak:Adhipatya .
 
 vak:Adhipatya a logic:Determination ;
     rdfs:label "ādhipatya" ;
-    vak:canonicalTranslation "governing dominance / functional sovereignty" .
+    vak:canonicalTranslation "governing efficacy" ;
+    vak:etymology "adhi + pati + ya" ;
+    vak:logicalFunction "Operative rule or effective governance within a determinate domain." .
 
 vak:Indriyanirdesa a vak:Chapter ;
     rdfs:label "Indriyanirdeśa" ;
-    vak:logicalFunction "Determination of governing powers within the domain-structure." .
+    vak:logicalFunction "Determination of governing efficacies within the domain-structure." .
 ```
 
-## 12. Commit History
+## 13. Commit History
 
 ```text
 VAK_2.01 opened.
 Chapter: Indriyanirdeśa.
 Method: kārikā-first.
 Bhāṣya: acknowledged but not yet integrated as cleaned source.
-Key decision: indriya = faculty / governing power, not merely sense organ.
-Key term: ādhipatya = governing dominance / functional sovereignty.
+Key decision: indriya = faculty / governing efficacy, not merely sense organ.
+Key term: ādhipatya = governing efficacy.
+Etymological note added: ādhipatya < adhi + pati + ya.
+Textual caution added: adhyātman is not imported into the kārikā layer.
 Twenty-two indriyas introduced only as structural orientation.
+Organon note added: indriya as relative prajñā-dharma model / SDSL-level faculty-driver.
 Zero-padded file naming adopted: VAK_2.01, VAK_2.02, etc.
 ```
