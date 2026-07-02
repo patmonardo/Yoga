@@ -1,16 +1,18 @@
-# VAK_1.1
+# VAK_1.01
 
 ## 1. Sanskrit (Devanāgarī)
 
 > यः सर्वथासर्वहतान्धकारः संसारपङ्काज्जगदुज्जहार ।
 >
-> तस्मै नमस्कृत्य यथार्थशास्त्रे शास्त्रं प्रवक्ष्याम्यभिधर्मकोशम् ॥ १.१ ॥
+> तस्मै नमस्कृत्य यथार्थशास्त्रे शास्त्रं प्रवक्ष्याम्यभिधर्मकोशम् ॥ १.०१ ॥
 
 ## 2. Sanskrit (IAST)
 
 > yaḥ sarvathāsarvahatāndhakāraḥ saṃsārapaṅkājjagadujjahāra /
 >
-> tasmai namaskṛtya yathārthaśāstre śāstraṃ pravakṣyāmy abhidharmakośam // VAkK_1.1 //
+> tasmai namaskṛtya yathārthaśāstre śāstraṃ pravakṣyāmy abhidharmakośam // VAkK_1.01 //
+
+Source label in GRETIL: `VAkK_1.1`. Project-normalized label: `VAkK_1.01`.
 
 ## 3. Padaccheda
 
@@ -123,16 +125,20 @@ Kośa
 @prefix vak: <http://127.0.0.1:3000/vak#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
-vak:VAK_1_1
+vak:VAK_1_01
     a vak:Karika ;
-    rdfs:label "VAK 1.1" ;
+    rdfs:label "VAK 1.01" ;
     vak:hasIAST "yaḥ sarvathāsarvahatāndhakāraḥ saṃsārapaṅkājjagadujjahāra / tasmai namaskṛtya yathārthaśāstre śāstraṃ pravakṣyāmy abhidharmakośam" ;
+    vak:hasSourceLabel "VAkK_1.1" ;
+    vak:hasProjectLabel "VAkK_1.01" ;
     vak:hasTopic vak:HomageAndAnnouncement ;
     vak:belongsTo vak:Dhatunirdesa .
 ```
 
 ## 11. Commit History
 
-- Added first-pass expanded Organon analysis for VAK_1.1.
+- Added first-pass expanded Organon analysis for VAK_1.01.
+- Normalized project verse numbering to padded lexical form: `VAK_1.01` / `VAkK_1.01`.
+- Preserves the original GRETIL source label as `VAkK_1.1` for source verification.
 - Establishes the opening as removal of darkness and proclamation of yathārtha-śāstra.
 - Frames Abhidharma as Dharma-analysis according to reality.
