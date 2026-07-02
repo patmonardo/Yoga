@@ -4,77 +4,98 @@
 
 > छिद्रमाकाशधात्वाख्यम् आलोकतमसी किल ।
 >
-> विज्ञानधातुर्विज्ञानं सास्रवं जन्मनिश्रयाः ॥
+> विज्ञानधातुर्विज्ञानं सास्रवं जन्मनिश्रयाः ॥ १.२८ ॥
 
 ## 2. Sanskrit (IAST)
 
 > chidram ākāśadhātvākhyam ālokatamasī kila /
 >
-> vijñānadhātur vijñānaṃ sāsravaṃ janmaniśrayāḥ //
+> vijñānadhātur vijñānaṃ sāsravaṃ janmaniśrayāḥ // VAkK_1.28 //
+
+Source label in GRETIL: `VAkK_1.28`. Project-normalized label: `VAkK_1.28`.
 
 ## 3. Padaccheda
 
-| Pada | Form | Meaning |
+| Form | Padaccheda | Meaning |
 |---|---|---|
-| chidram | nom./acc.sg.n. | aperture, cavity, opening |
-| ākāśa-dhātu-ākhyam | nom./acc.sg.n. compound | called the space-element |
-| āloka-tamasī | nom.du.n. compound | light and darkness |
-| kila | indeclinable | indeed, it is said |
-| vijñāna-dhātuḥ | nom.sg.m. compound | the consciousness-element |
-| vijñānam | nom./acc.sg.n. | consciousness, cognition |
-| sa-āsravam | nom./acc.sg.n. | associated with influxes |
-| janma-niśrayāḥ | nom.pl.m. compound | dependent upon birth/existence |
+| chidram | chidram | aperture, opening, cavity |
+| ākāśa-dhātu-ākhyam | ākāśa-dhātu-ākhyam | called space-domain |
+| āloka-tamasī | āloka-tamasī | light and darkness |
+| kila | kila | indeed / it is said |
+| vijñāna-dhātuḥ | vijñāna-dhātuḥ | knowledge-domain |
+| vijñānam | vijñānam | knowledge |
+| sāsravam | sāsravam | with outflows |
+| janmaniśrayāḥ | janmaniśrayāḥ | bases/supports of birth |
 
-## 4. Literal Translation
+## 4. Grammar
 
-> The aperture or cavity is called the space-element; likewise light and darkness, it is said. The consciousness-element is consciousness associated with the influxes and dependent upon birth.
+The verse distinguishes technical **ākāśa-dhātu** from unconditioned ākāśa. Here space-domain is the aperture or opening associated with light and darkness. The knowledge-domain is sāsrava knowledge and functions as support for birth.
 
-## 5. Philosophical Translation
+## 5. Literal Translation
 
-> Space is presented as an opening or cavity, together with the polarity of light and darkness. Consciousness, insofar as it is a dhātu, is conditioned cognition bound to influx and dependent upon embodied existence.
+> An opening is called the space-domain, [with] light and darkness, it is said. The knowledge-domain is sāsrava knowledge, a support of birth.
 
-## 6. Technical Vocabulary
+## 6. Philosophical Translation
 
-| Sanskrit | Rendering | Note |
+> The space-domain here is not the unconditioned non-obstruction of VAK_1.05, but the conditioned opening in which light and darkness appear. The knowledge-domain in this context is sāsrava knowledge, bound to the supports of birth.
+
+Organon rendering:
+
+> Space has two registers: unconditioned non-obstruction and conditioned aperture. Here the domain-system treats space as the opening of appearance. Knowledge too is here not pure prajñā but sāsrava disclosure implicated in birth.
+
+## 7. Technical Vocabulary
+
+| Sanskrit | Project rendering | Note |
 |---|---|---|
-| chidra | aperture, cavity | opening or interval |
-| ākāśadhātu | space-element | space as dhātu |
-| āloka | light | manifest illumination |
-| tamas | darkness | obscuration or non-illumination |
-| vijñānadhātu | consciousness-element | cognition as domain |
-| sāsrava | with influxes | conditioned by defilement/inflow |
-| janmaniśraya | dependent upon birth | grounded in embodied existence |
+| chidra | aperture / opening | conditioned space-domain |
+| ākāśadhātu | space-domain | not identical with unconditioned ākāśa |
+| āloka | light | appearance-condition |
+| tamas | darkness | absence/obscuration condition |
+| vijñānadhātu | knowledge-domain | here sāsrava knowledge |
+| janmaniśraya | support of birth | birth-basis |
 
-## 7. Logical Determination
+## 8. Logical Determination
 
-Opening
-        ↓
-Light / Darkness
-        ↓
-Cognition
-        ↓
-Birth-dependence
+```text
+ākāśa as unconditioned
+    = non-obstruction
 
-## 8. Interpretive Note
-
-This verse introduces the space-element as an opening or cavity rather than as a simple material substance. Its association with light and darkness suggests that ākāśa is treated as a condition for manifestation, concealment, and distinction. The verse then turns to vijñānadhātu, defined as conditioned cognition associated with influx and dependent upon birth.
-
-## 9. OWL++ Seed
-
-```ttl
-vak:VAK_1_28
-    rdf:type vak:Karika ;
-    vak:defines vak:AkasaDhatu ;
-    vak:defines vak:VijnanaDhatu ;
-    vak:hasGround vak:Chidra ;
-    vak:hasGround vak:Aloka ;
-    vak:hasGround vak:Tamas ;
-    vak:hasGround vak:Sasrava ;
-    vak:hasGround vak:Janman .
+ākāśa-dhātu
+    = aperture within conditioned appearance
 ```
 
-## 10. Commit History
+and:
 
-- Initial artifact for VAK_1.28.
-- Introduces ākāśadhātu as cavity/opening with light and darkness.
-- Defines vijñānadhātu as conditioned cognition dependent upon birth.
+```text
+vijñānadhātu
+    = sāsrava knowledge as support of birth
+```
+
+## 9. Interpretive Note
+
+This verse is important because it prevents confusion between unconditioned space and space-domain. The same term ākāśa shifts depending on analytic level.
+
+Organon note:
+
+```text
+unconditioned openness
+    ≠
+conditioned aperture of appearance
+```
+
+## 10. OWL++ Seed
+
+```ttl
+@prefix vak: <http://127.0.0.1:3000/vak#> .
+
+vak:VAK_1_28 a vak:Karika ;
+    vak:hasSourceLabel "VAkK_1.28" ;
+    vak:hasProjectLabel "VAkK_1.28" ;
+    vak:hasTopic vak:SpaceDomainAndKnowledgeDomain .
+```
+
+## 11. Commit History
+
+- Upgraded VAK_1.28 with expanded Organon analysis.
+- Distinguishes unconditioned ākāśa from conditioned ākāśadhātu.
+- Reads vijñānadhātu here as sāsrava knowledge supporting birth.
