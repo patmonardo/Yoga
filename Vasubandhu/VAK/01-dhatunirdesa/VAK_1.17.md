@@ -4,92 +4,119 @@
 
 > षण्णामनन्तरातीतं विज्ञानं यद्धि तन्मनः ।
 >
-> षष्ठाश्रयप्रसिद्ध्यर्थं धातवोऽष्टादश स्मृताः ॥
+> षष्ठाश्रयप्रसिद्ध्यर्थं धातवोऽष्टादश स्मृताः ॥ १.१७ ॥
 
 ## 2. Sanskrit (IAST)
 
 > ṣaṇṇām anantarātītaṃ vijñānaṃ yad dhi tan manaḥ /
 >
-> ṣaṣṭhāśrayaprasiddhyarthaṃ dhātavo 'ṣṭādaśa smṛtāḥ //
+> ṣaṣṭhāśrayaprasiddhyarthaṃ dhātavo 'ṣṭādaśa smṛtāḥ // VAkK_1.17 //
+
+Source label in GRETIL: `VAkK_1.17`. Project-normalized label: `VAkK_1.17`.
 
 ## 3. Padaccheda
 
-| Pada | Form | Meaning |
+| Form | Padaccheda | Meaning |
 |---|---|---|
-| ṣaṇṇām | gen.pl | of the six |
-| anantara-atītam | nom.sg.n compound | immediately preceding and passed away |
-| vijñānam | nom.sg.n | determinate cognition |
-| yat | relative pronoun | which |
-| dhi | particle | indeed |
-| tat | pronoun | that |
-| manaḥ | nom.sg.n | mind |
-| ṣaṣṭha-āśraya-prasiddhi-artham | compound | for establishing the sixth support |
-| dhātavaḥ | nom.pl.m | dhātus |
-| aṣṭādaśa | numeral | eighteen |
-| smṛtāḥ | ppp nom.pl.m | are taught, are held |
+| ṣaṇṇām | ṣaṇṇām | of the six |
+| anantara-atītam | anantara-atītam | immediately past |
+| vijñānam | vijñānam | knowledge |
+| yat hi | yat hi | whatever indeed |
+| tat manaḥ | tat manaḥ | that is mind |
+| ṣaṣṭha-āśraya-prasiddhi-artham | ṣaṣṭhāśraya-prasiddhyartham | for establishing the sixth support |
+| dhātavaḥ aṣṭādaśa | dhātavaḥ aṣṭādaśa | eighteen domains |
+| smṛtāḥ | smṛtāḥ | are remembered / taught |
 
-## 4. Literal Translation
+## 4. Grammar
 
-> That cognition which has immediately passed after the six is indeed mind. For the establishment of the sixth support, the dhātus are taught as eighteen.
-
-## 5. Philosophical Translation
-
-> Mind is not a substance or independent faculty but the immediately preceding cognition functioning as support. The eighteen dhātus are taught to establish this sixfold cognitive continuity.
-
-## 6. Technical Vocabulary
-
-| Sanskrit | Rendering | Note |
-|---|---|---|
-| vijñāna | determinate cognition | discriminative cognition |
-| manas | mind | the immediately preceding cognition functioning as support |
-| anantarātīta | immediately past | cognition that has just ceased |
-| āśraya | support | cognitive ground or basis |
-| dhātu | continuity, domain | articulated cognitive continuities |
-
-## 7. Logical Determination
-
-Vijñāna
-        ↓
-Recognition
-        ↓
-Passing
-        ↓
-Persistence
-        ↓
-Manas
-        ↓
-Support
-        ↓
-Subsequent Recognition
-
-## 8. Interpretive Note
-
-This verse defines manas functionally rather than substantially. Manas is the immediately preceding cognition serving as the support for subsequent cognition.
-
-A provisional logical comparison:
+The verse defines **manas** functionally:
 
 ```text
-Vijñapti        = Judgment
-Prativijñapti  = Recognition through a prior judgment
-               = Inference
+whatever knowledge among the six
+has just passed away immediately
+    = manas
 ```
 
-Thus manas belongs to the transactional continuity of cognition, while vijñāna as prativijñapti points toward the recognition of determinate cognition itself.
+This establishes the sixth support. Therefore eighteen domains are taught:
 
-## 9. OWL++ Seed
+```text
+six faculties
+six objects
+six knowledges
+    = eighteen domains
+```
+
+## 5. Literal Translation
+
+> Whatever knowledge of the six has immediately passed, that indeed is mind. For the sake of establishing the sixth support, eighteen domains are taught.
+
+## 6. Philosophical Translation
+
+> Manas is the immediately past sixfold knowledge functioning as the support for the next mental occurrence. The eighteen domains are taught in order to establish this sixth support alongside the other faculties.
+
+Organon rendering:
+
+> Mind is not an isolated substance. It is the immediate past of knowledge functioning as support. The cognitive series becomes possible because prior disclosure turns into the condition for subsequent disclosure.
+
+## 7. Technical Vocabulary
+
+| Sanskrit | Project rendering | Note |
+|---|---|---|
+| anantara | immediate | without intervening gap |
+| atīta | past | just-past occurrence |
+| vijñāna | knowledge | sixfold knowledge-event |
+| manas | mind | immediately past knowledge as support |
+| āśraya | support | condition for subsequent knowledge |
+| dhātu | domain | eighteen-domain system |
+| smṛta | remembered / taught | doctrinally established |
+
+## 8. Logical Determination
+
+```text
+sixfold knowledge
+    ↓ immediately past
+manas
+    ↓ support
+next knowledge
+```
+
+The eighteen domains are required because mind must be counted as the sixth support.
+
+## 9. Interpretive Note
+
+This is one of the great anti-substantialist verses. Manas is not introduced as a hidden self. It is the immediately past knowledge-event functioning as support.
+
+Organon note:
+
+```text
+mind
+    = temporalized support
+    = knowledge become condition
+```
+
+This is the first explicit logic of cognitive succession in the chapter. It also prepares the later account of mental knowledge being supported by the past.
+
+## 10. OWL++ Seed
 
 ```ttl
+@prefix vak: <http://127.0.0.1:3000/vak#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
 vak:VAK_1_17
-    rdf:type vak:Karika ;
-    vak:defines vak:Manas ;
-    vak:derivedFrom vak:ImmediatelyPastVijnana ;
-    vak:hasFunction vak:Asraya ;
-    vak:hasCardinality "18"^^xsd:integer .
+    a vak:Karika ;
+    rdfs:label "VAK 1.17" ;
+    vak:hasSourceLabel "VAkK_1.17" ;
+    vak:hasProjectLabel "VAkK_1.17" ;
+    vak:hasTopic vak:ManasAsImmediatelyPastKnowledge ;
+    vak:belongsTo vak:Dhatunirdesa .
+
+vak:Manas
+    vak:definedAs vak:ImmediatelyPastVijnana ;
+    vak:functionsAs vak:SixthSupport .
 ```
 
-## 10. Commit History
+## 11. Commit History
 
-- Initial scientific artifact for VAK_1.17.
-- Establishes manas as immediately preceding cognition.
-- Preserves the distinction between transactional continuity and determinate recognition.
-- Notes the logical relation between vijñapti and prativijñapti for future study.
+- Upgraded VAK_1.17 with expanded Organon analysis.
+- Defines manas as immediately past sixfold knowledge.
+- Establishes the eighteen domains as necessary for the sixth support.
