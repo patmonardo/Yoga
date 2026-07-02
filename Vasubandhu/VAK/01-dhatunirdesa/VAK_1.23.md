@@ -4,77 +4,89 @@
 
 > प्राक्पञ्च वार्त्तमानार्थ्यात् भौतिकार्थ्याच्चतुष्टयम् ।
 >
-> दूराशुतरवृत्त्यन्यत् यथास्थानं क्रमोऽथवा ॥
+> दूराशुतरवृत्त्यन्यत् यथास्थानं क्रमोऽथवा ॥ १.२३ ॥
 
 ## 2. Sanskrit (IAST)
 
 > prāk pañca vārttamānārthyāt bhautikārthyāc catuṣṭayam /
 >
-> dūrāśutaravṛtty anyat yathāsthānaṃ kramo 'thavā //
+> dūrāśutaravṛtty anyat yathāsthānaṃ kramo 'thavā // VAkK_1.23 //
+
+Source label in GRETIL: `VAkK_1.23`. Project-normalized label: `VAkK_1.23`.
 
 ## 3. Padaccheda
 
-| Pada | Form | Meaning |
+| Form | Padaccheda | Meaning |
 |---|---|---|
-| prāk | indeclinable | first, before |
-| pañca | numeral | the five |
-| vārttamāna-arthyāt | abl.sg.n. compound | because of present function or operation |
-| bhautika-arthyāt | abl.sg.n. compound | because of elemental function |
-| catuṣṭayam | nom./acc.sg.n. | the group of four |
-| dūra | adjective | distant |
-| āśutara | comparative adjective | more rapid |
-| vṛttyā | instr.sg.f. | by operation, function |
-| anyat | nom./acc.sg.n. | the remainder |
-| yathā-sthānam | indeclinable compound | according to position |
-| kramaḥ | nom.sg.m. | order, sequence |
-| athavā | indeclinable | or alternatively |
+| prāk pañca | prāk pañca | first five |
+| vārttamāna-arthyāt | vārttamāna-arthyāt | because their objects are present |
+| bhautika-arthyāt | bhautika-arthyāt | because of derivative-material objecthood |
+| catuṣṭayam | catuṣṭayam | the tetrad |
+| dūra-āśu-tara-vṛtti | dūra-āśu-tara-vṛtti | operating farther or more quickly |
+| anyat | anyat | the other |
+| yathā-sthānam | yathā-sthānam | according to place |
+| kramaḥ athavā | kramaḥ athavā | or the order |
 
-## 4. Literal Translation
+## 4. Grammar
 
-> The first five are ordered because of their present operation; the group of four because of their elemental function. The remainder are ordered according to remoteness and rapidity of operation, or according to their respective positions.
+The verse explains the ordering of the spheres/domains. The first five are placed first because they take present objects. The next four are grouped through derivative material objecthood. Other ordering principles include distance, speed, and bodily location.
 
-## 5. Philosophical Translation
+## 5. Literal Translation
 
-> The arrangement of the faculties and domains follows determinate principles of operation, elemental constitution, and functional sequence. The order of exposition is grounded in the intrinsic character and activity of the dharmas themselves.
+> The first five [stand first] because their objects are present; the tetrad because of derivative-material objecthood. The other [order] is by farther and swifter operation, or according to location.
 
-## 6. Technical Vocabulary
+## 6. Philosophical Translation
 
-| Sanskrit | Rendering | Note |
+> The order of the faculties and objects is determined by mode of object-relation, material derivation, range, speed, and bodily placement.
+
+Organon rendering:
+
+> The order is not arbitrary. The domain-system is organized by actuality of object, material constitution, operational reach, speed of functioning, and embodied location.
+
+## 7. Technical Vocabulary
+
+| Sanskrit | Project rendering | Note |
 |---|---|---|
-| vārttamāna | present operation | actual functioning |
-| bhautika | elemental | pertaining to the material elements |
-| vṛtti | operation | mode of activity |
-| krama | sequence | ordered arrangement |
-| sthāna | place | position within the system |
+| vārttamāna | present | present object-condition |
+| artha | object / meaning | object-side of disclosure |
+| bhautika | derivative-material | grounded in great elements |
+| dūra | far | distance of operation |
+| āśutara | quicker | speed of operation |
+| yathāsthāna | according to place | bodily/topological order |
 
-## 7. Logical Determination
+## 8. Logical Determination
 
-Function
-        ↓
-Element
-        ↓
-Operation
-        ↓
-Order
-
-## 8. Interpretive Note
-
-This verse continues the argument that the order of exposition in the Abhidharma is not arbitrary. The sequence of dharmas is justified by their operation, elemental constitution, functional activity, and systematic position.
-
-## 9. OWL++ Seed
-
-```ttl
-vak:VAK_1_23
-    rdf:type vak:Karika ;
-    vak:defines vak:Krama ;
-    vak:hasGround vak:Varttamana ;
-    vak:hasGround vak:Bhautika ;
-    vak:hasGround vak:Vrtti ;
-    vak:hasGround vak:Sthana .
+```text
+order
+    = present objecthood
+    + derivative materiality
+    + distance/speed
+    + place
 ```
 
-## 10. Commit History
+## 9. Interpretive Note
 
-- Initial artifact for VAK_1.23.
-- Restored grammatical padaccheda.
-- Preserved the interpretation of order as a principle of exposition.
+This verse makes sequence itself a doctrine. The order of domains teaches how object-relation moves from immediate present contact to more mediated forms of disclosure.
+
+Organon note:
+
+```text
+krama
+    = pedagogical logic of domain-order
+```
+
+## 10. OWL++ Seed
+
+```ttl
+@prefix vak: <http://127.0.0.1:3000/vak#> .
+
+vak:VAK_1_23 a vak:Karika ;
+    vak:hasSourceLabel "VAkK_1.23" ;
+    vak:hasProjectLabel "VAkK_1.23" ;
+    vak:hasTopic vak:OrderOfDomains .
+```
+
+## 11. Commit History
+
+- Upgraded VAK_1.23 with expanded Organon analysis.
+- Reads domain order through present objecthood, materiality, reach, speed, and location.
