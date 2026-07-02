@@ -4,75 +4,108 @@
 
 > आरूप्याप्ता मनोधर्ममनोविज्ञानधातवः ।
 >
-> सास्रवानास्रवा एते त्रयः शेषास्तु सास्रवाः ॥
+> सास्रवानास्रवा एते त्रयः शेषास्तु सास्रवाः ॥ १.३१ ॥
 
 ## 2. Sanskrit (IAST)
 
 > ārūpyāptā manodharmamanovijñānadhātavaḥ /
 >
-> sāsravānāsravā ete trayaḥ śeṣās tu sāsravāḥ //
+> sāsravānāsravā ete trayaḥ śeṣās tu sāsravāḥ // VAkK_1.31 //
+
+Source label in GRETIL: `VAkK_1.31`. Project-normalized label: `VAkK_1.31`.
 
 ## 3. Padaccheda
 
-| Pada | Form | Meaning |
+| Form | Padaccheda | Meaning |
 |---|---|---|
-| ārūpya-āptāḥ | nom.pl.m. compound | belonging to the formless realm |
-| manaḥ-dharma-mano-vijñāna-dhātavaḥ | nom.pl.m. compound | the mind-, dharma-, and mind-knowledge-elements |
-| sa-āsrava-anāsravāḥ | nom.pl.m. compound | with influxes and without influxes |
-| ete | nom.pl.m. pronoun | these |
-| trayaḥ | nom.pl.m. numeral | three |
-| śeṣāḥ | nom.pl.m. | the remainder |
-| tu | indeclinable | but, however |
-| sa-āsravāḥ | nom.pl.m. compound | with influxes |
+| ārūpya-āptāḥ | ārūpyāptāḥ | belonging to the formless domain |
+| mano-dharma-mano-vijñāna-dhātavaḥ | mano-dharma-manovijñāna-dhātavaḥ | mind-, dharma-, and mental-knowledge domains |
+| sāsrava-anāsravāḥ | sāsravānāsravāḥ | with outflows and without outflows |
+| ete trayaḥ | ete trayaḥ | these three |
+| śeṣāḥ tu | śeṣāḥ tu | but the remaining |
+| sāsravāḥ | sāsravāḥ | with outflows |
 
-## 4. Literal Translation
+## 4. Grammar
 
-> Belonging to the formless realm are the mind-element, the dharma-element, and the mind-knowledge-element. These three are both with influxes and without influxes; the remainder, however, are with influxes.
+The formless domain contains only three domains:
 
-## 5. Philosophical Translation
-
-> In the formless domain, only the mind-element, dharma-element, and mind-knowledge-element remain operative. These three alone span both conditioned manifestation and uncontaminated realization, while the remaining elements belong to conditioned manifestation.
-
-## 6. Technical Vocabulary
-
-| Sanskrit | Rendering | Note |
-|---|---|---|
-| ārūpya | formless realm | domain without form-determination |
-| manodhātu | mind-element | domain of mental operation |
-| dharmadhātu | dharma-element | domain of dharmas as such |
-| manovijñānadhātu | mind-knowledge-element | domain of mental knowledge |
-| sāsrava | with influxes | conditioned, contaminated |
-| anāsrava | without influxes | uncontaminated, unconditioned in function |
-
-## 7. Logical Determination
-
-Mind
-        ↓
-Dharma
-        ↓
-Mind-Knowledge
-        ↓
-Conditioned / Unconditioned Span
-
-## 8. Interpretive Note
-
-This verse distinguishes the formless realm by reduction of manifestational determination. In ārūpya, only three dhātus remain: manodhātu, dharmadhātu, and manovijñānadhātu. These alone can be both sāsrava and anāsrava, while the remaining dhātus belong only to the sāsrava order.
-
-## 9. OWL++ Seed
-
-```ttl
-vak:VAK_1_31
-    rdf:type vak:Karika ;
-    vak:defines vak:ArupyaDhatu ;
-    vak:defines vak:ManoDhatu ;
-    vak:defines vak:DharmaDhatu ;
-    vak:defines vak:ManoVijnanaDhatu ;
-    vak:hasProperty vak:Sasrava ;
-    vak:hasProperty vak:Anasrava .
+```text
+manodhātu
+dharmadhātu
+manovijñānadhātu
 ```
 
-## 10. Commit History
+These three may be either sāsrava or anāsrava. The remaining domains are sāsrava.
 
-- Initial artifact for VAK_1.31.
-- Identifies the three dhātus belonging to the formless realm.
-- Preserves vijñāna as knowledge in manovijñānadhātu.
+## 5. Literal Translation
+
+> The mind-, dharma-, and mental-knowledge domains belong to the formless domain. These three are with outflows and without outflows; the remaining ones, however, are with outflows.
+
+## 6. Philosophical Translation
+
+> In the formless domain only the mental triad remains: mind, dharma, and mental knowledge. These three alone span both contaminated and uncontaminated status; the other domains belong to the sāsrava field.
+
+Organon rendering:
+
+> As the realm refines, the domain-system contracts to the mental-dharma triad. This triad alone can stand on both sides of the outflow divide, because it is the field where bondage and release, appearance and truth, are both possible.
+
+## 7. Technical Vocabulary
+
+| Sanskrit | Project rendering | Note |
+|---|---|---|
+| ārūpya | formless domain | realm without gross form-domains |
+| manodhātu | mind-domain | temporal support-domain |
+| dharmadhātu | dharma-domain | domain of determinations |
+| manovijñānadhātu | mental knowledge-domain | mental disclosure |
+| sāsrava | with outflows | contaminated status |
+| anāsrava | without outflows | uncontaminated status |
+
+## 8. Logical Determination
+
+```text
+ārūpyadhātu
+    = manodhātu
+    + dharmadhātu
+    + manovijñānadhātu
+```
+
+and:
+
+```text
+these three
+    = sāsrava or anāsrava
+
+remaining domains
+    = sāsrava
+```
+
+## 9. Interpretive Note
+
+This verse closes the realm-classification and prepares VAK_1.32–1.33. The decisive triad is mind, dharma, and mental knowledge. Here alone the domain-system can cross the boundary between outflow and freedom from outflow.
+
+Organon note:
+
+```text
+mental-dharma triad
+    = hinge between saṃsāric projection and path-truth
+```
+
+This is the immediate threshold to the vitarka/vicāra and vikalpa analyses that follow.
+
+## 10. OWL++ Seed
+
+```ttl
+@prefix vak: <http://127.0.0.1:3000/vak#> .
+
+vak:VAK_1_31 a vak:Karika ;
+    vak:hasSourceLabel "VAkK_1.31" ;
+    vak:hasProjectLabel "VAkK_1.31" ;
+    vak:hasTopic vak:FormlessDomainAndMentalTriad .
+```
+
+## 11. Commit History
+
+- Upgraded VAK_1.31 with expanded Organon analysis.
+- Establishes the formless domain as the triad of mind, dharma, and mental knowledge.
+- Reads this triad as capable of both sāsrava and anāsrava status.
+- Prepares the transition into VAK_1.32–1.33.
