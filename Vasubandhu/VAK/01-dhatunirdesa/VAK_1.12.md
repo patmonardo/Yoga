@@ -4,71 +4,128 @@
 
 > भूतानि पृथिवीधातुरप्तेजोवायुधातवः ।
 >
-> धृत्यादिकर्मसंसिद्धाः खरस्नेहोष्णतेरणाः ॥
+> धृत्यादिकर्मसंसिद्धाः खरस्नेहोष्णतेरणाः ॥ १.१२ ॥
 
 ## 2. Sanskrit (IAST)
 
-> bhūtāni pṛthivīdhātur ap-tejo-vāyu-dhātavaḥ /
+> bhūtāni pṛthivīdhātur aptejovāyudhātavaḥ /
 >
-> dhṛtyādi-karma-saṃsiddhā khara-snehoṣṇa-teraṇāḥ //
+> dhṛtyādikarmasaṃsiddhāḥ kharasnehoṣṇateraṇāḥ // VAkK_1.12 //
+
+Source label in GRETIL: `VAkK_1.12`. Project-normalized label: `VAkK_1.12`.
 
 ## 3. Padaccheda
 
-| Pada | Form | Meaning |
+| Form | Padaccheda | Meaning |
 |---|---|---|
-| bhūtāni | nom.pl.n | the elements |
-| pṛthivī-dhātuḥ | nom.sg.f compound | the earth-element |
-| ap-tejo-vāyu-dhātavaḥ | nom.pl.m compound | the water-, fire-, and air-elements |
-| dhṛti-ādi-karma-saṃsiddhāḥ | nom.pl.m compound | established through functions beginning with support |
-| khara | nom.sg.n | hardness, resistance |
-| sneha | nom.sg.m | cohesion, adhesion |
-| uṣṇatā | nom.sg.f | heat, maturation |
-| teraṇā (īraṇā) | nom.sg.f | movement, propulsion |
+| bhūtāni | bhūtāni | the elements / become-bases |
+| pṛthivī-dhātuḥ | pṛthivī-dhātuḥ | earth-domain |
+| ap-tejo-vāyu-dhātavaḥ | ap-tejas-vāyu-dhātavaḥ | water, fire, and wind domains |
+| dhṛti-ādi-karma-saṃsiddhāḥ | dhṛti-ādi-karma-saṃsiddhāḥ | established by functions beginning with support |
+| khara | khara | hard, resistant |
+| sneha | sneha | cohesion, moistness |
+| uṣṇatā | uṣṇatā | heat |
+| īraṇā | īraṇā | motion, impulsion |
 
-## 4. Literal Translation
+## 4. Grammar
 
-> The elements are the earth-element and the water-, fire-, and air-elements, established by their respective functions beginning with support: hardness, cohesion, heat, and movement.
+The four **mahābhūtas** are named as domains:
 
-## 5. Philosophical Translation
-
-> The great elements are not defined as substances but as functional determinations of materiality: resistance, cohesion, transformation, and motion.
-
-## 6. Technical Vocabulary
-
-| Sanskrit | Rendering | Note |
-|---|---|---|
-| mahābhūta | great element | fundamental material determination |
-| pṛthivī | resistance | support, hardness |
-| ap | cohesion | binding, adhesion |
-| tejas | transformation | heat, maturation |
-| vāyu | motion | propulsion, movement |
-| karma | function, operation | constitutive activity |
-
-## 7. Logical Determination
-
-Mahābhūta
-        ↓
-Function (karma)
-        ↓
-Resistance / Cohesion / Transformation / Motion
-        ↓
-Constructed World
-
-## 8. OWL++ Seed
-
-```ttl
-vak:VAK_1_12
-    rdf:type vak:Karika ;
-    vak:defines vak:Mahabhuta ;
-    vak:hasDetermination vak:Prthivi ;
-    vak:hasDetermination vak:Ap ;
-    vak:hasDetermination vak:Tejas ;
-    vak:hasDetermination vak:Vayu ;
-    vak:isConstitutedBy vak:Karma .
+```text
+pṛthivī-dhātu
+ap-dhātu
+tejo-dhātu
+vāyu-dhātu
 ```
 
-## 9. Commit History
+They are established through function and characteristic:
 
-- Initial scientific artifact for VAK_1.12.
-- Establishes the Mahābhūtas as functional rather than substantial determinations.
-- Distinguishes the constructed elements from the unconstructed dimension of space (ākāśa).
+```text
+earth  = hardness / support
+water  = cohesion
+fire   = heat / maturation
+wind   = motion / impulsion
+```
+
+## 5. Literal Translation
+
+> The elements are the earth-domain, and the water-, fire-, and wind-domains. They are established by functions beginning with support: hardness, cohesion, heat, and motion.
+
+## 6. Philosophical Translation
+
+> The great elements are not inert stuffs but functional domains. Earth supports through hardness, water coheres, fire heats and matures, and wind moves or impels.
+
+Organon rendering:
+
+> Materiality begins from four functional determinations. Earth, water, fire, and wind are not substances lying under qualities; they are elemental domains whose reality is known through support, cohesion, transformation, and motion.
+
+## 7. Technical Vocabulary
+
+| Sanskrit | Project rendering | Note |
+|---|---|---|
+| bhūta | element / become-basis | elemental basis of derivative form |
+| dhātu | domain | never merely element in this project layer |
+| pṛthivī | earth | hardness/support function |
+| ap | water | cohesion |
+| tejas | fire | heat, maturation |
+| vāyu | wind | motion, impulsion |
+| karma | function | element known through operation |
+
+## 8. Logical Determination
+
+```text
+mahābhūta
+    = elemental domain
+    = functionally established
+```
+
+The four functions are:
+
+```text
+support
+cohesion
+heating / maturation
+motion
+```
+
+## 9. Interpretive Note
+
+This is not naive physics. The so-called elements are functional conditions of material manifestation. They are dhātus because they are domains of operation.
+
+Organon note:
+
+```text
+element
+    = functional domain
+
+materiality
+    = support + cohesion + heat + motion
+```
+
+This prepares VAK_1.35, where derivative materiality is grounded on the great elements.
+
+## 10. OWL++ Seed
+
+```ttl
+@prefix vak: <http://127.0.0.1:3000/vak#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+vak:VAK_1_12
+    a vak:Karika ;
+    rdfs:label "VAK 1.12" ;
+    vak:hasSourceLabel "VAkK_1.12" ;
+    vak:hasProjectLabel "VAkK_1.12" ;
+    vak:hasTopic vak:FourGreatElements ;
+    vak:belongsTo vak:Dhatunirdesa .
+
+vak:EarthDomain vak:hasFunction vak:Support .
+vak:WaterDomain vak:hasFunction vak:Cohesion .
+vak:FireDomain vak:hasFunction vak:Heat .
+vak:WindDomain vak:hasFunction vak:Motion .
+```
+
+## 11. Commit History
+
+- Added expanded Organon analysis for VAK_1.12.
+- Interprets the four great elements as functional domains.
+- Establishes materiality through support, cohesion, heat, and motion.
