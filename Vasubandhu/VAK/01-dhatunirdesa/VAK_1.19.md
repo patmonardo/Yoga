@@ -4,91 +4,119 @@
 
 > जातिगोचरविज्ञानसामान्यादेकधातुता ।
 >
-> द्वित्वेऽपि चक्षुरादीनां शोभार्थं तु द्वयोद्भवः ॥
+> द्वित्वेऽपि चक्षुरादीनां शोभार्थं तु द्वयोद्भवः ॥ १.१९ ॥
 
 ## 2. Sanskrit (IAST)
 
 > jātigocaravijñānasāmānyād ekadhātutā /
 >
-> dvitve 'pi cakṣurādīnāṃ śobhārthaṃ tu dvayodbhavaḥ //
+> dvitve 'pi cakṣurādīnāṃ śobhārthaṃ tu dvayodbhavaḥ // VAkK_1.19 //
+
+Source label in GRETIL: `VAkK_1.19`. Project-normalized label: `VAkK_1.19`.
 
 ## 3. Padaccheda
 
-| Pada | Form | Meaning |
+| Form | Padaccheda | Meaning |
 |---|---|---|
-| jāti | f. | class, kind |
-| gocara | m. | domain, object-field |
-| vijñāna | n. | cognition |
-| sāmānyāt | abl.sg | because of commonality |
-| eka-dhātutā | nom.sg.f | being one dhātu |
-| dvitve api | loc.sg | although being twofold |
-| cakṣus-ādīnām | gen.pl | of the eye and the others |
-| śobhārtham | acc.sg | for elegance, symmetry, exposition |
-| tu | particle | however |
-| dvaya-udbhavaḥ | nom.sg.m | arising as a pair |
+| jāti | jāti | kind, class |
+| gocara | gocara | range, object-field |
+| vijñāna | vijñāna | knowledge |
+| sāmānyāt | sāmānyāt | because of commonality |
+| eka-dhātutā | eka-dhātutā | being one domain |
+| dvitve api | dvitve api | even though dual |
+| cakṣus-ādīnām | cakṣus-ādīnām | of eye and the others |
+| śobhārtham | śobhārtham | for beauty/symmetry |
+| tu | tu | but |
+| dvaya-udbhavaḥ | dvaya-udbhavaḥ | arising as a pair |
 
-## 4. Literal Translation
+## 4. Grammar
 
-> Because of the commonality of class, object-field, and cognition, there is a single dhātu. Although the eye and the others are twofold, their duality is for the sake of exposition.
+The verse explains why paired faculties such as the two eyes are counted as one domain.
 
-## 5. Philosophical Translation
-
-> The unity of a dhātu is grounded not in substance but in the commonality of kind, field, and cognition. Apparent dualities are retained for explanatory purposes.
-
-## 6. Technical Vocabulary
-
-| Sanskrit | Rendering | Note |
-|---|---|---|
-| jāti | class | universal determination |
-| gocara | field | domain of appearance |
-| vijñāna | cognition | determinate recognition |
-| sāmānya | commonality | basis of unity |
-| dhātu | continuity, domain | completed cognitive unity |
-| śobhārtha | expository elegance | pedagogical distinction |
-
-## 7. Logical Determination
-
-Jāti
-        ↓
-Universal
-        ↓
-Gocara
-        ↓
-Field of Appearance
-        ↓
-Vijñāna
-        ↓
-Recognition
-        ↓
-Ekadhātutā
-
-## 8. Interpretive Note
-
-This verse presents a criterion for the unity of a dhātu. Unity arises through the commonality of class, object-field, and cognition.
-
-A provisional Kantian interpretation:
+They have commonality of:
 
 ```text
-Vijñapti       = Judgment
-Prativijñapti = Recognition / Inference
+jāti       kind
+ gocara    object-field
+vijñāna    corresponding knowledge
 ```
 
-A dharma is therefore not an isolated cognition but a completed cognitive cycle. The unity of judgment and recognition grounds the determination of a dharma within the Dharma-dhātu.
+Therefore they have **ekadhātutā**, one-domain status, even though they arise as pairs.
 
-## 9. OWL++ Seed
+## 5. Literal Translation
+
+> Because of commonality of kind, object-field, and knowledge, there is one-domain status, even in the duality of eye and the others. Their arising as pairs is for beauty/symmetry.
+
+## 6. Philosophical Translation
+
+> The paired sense faculties are counted as single domains because each pair shares the same class, object-range, and corresponding knowledge. Their dual occurrence serves bodily symmetry, not a doubling of domain-status.
+
+Organon rendering:
+
+> Domain-unity is not numerical singleness. Two eyes may function as one visual domain because their kind, object-field, and knowledge are common. The domain is determined by function and range, not by anatomical count.
+
+## 7. Technical Vocabulary
+
+| Sanskrit | Project rendering | Note |
+|---|---|---|
+| jāti | kind / class | shared nature of paired faculty |
+| gocara | object-range | field of objects |
+| vijñāna | knowledge | corresponding knowledge-domain |
+| sāmānya | commonality | basis of one-domain status |
+| ekadhātutā | one-domain status | unity despite paired occurrence |
+| dvitva | duality | paired bodily manifestation |
+| śobhā | beauty / symmetry | reason for paired arising |
+
+## 8. Logical Determination
+
+```text
+one-domain status
+    = common kind
+    + common object-range
+    + common knowledge
+```
+
+Thus:
+
+```text
+numerical duality
+    ≠
+domain duality
+```
+
+## 9. Interpretive Note
+
+This verse prevents a crude counting error. Domain is not counted by visible organs but by functional unity. The two eyes are not two visual domains because they share one object-range and one corresponding knowledge-type.
+
+Organon note:
+
+```text
+domain
+    = functional unity of kind, range, and knowledge
+```
+
+This is a strong logical principle for all later modeling.
+
+## 10. OWL++ Seed
 
 ```ttl
+@prefix vak: <http://127.0.0.1:3000/vak#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
 vak:VAK_1_19
-    rdf:type vak:Karika ;
-    vak:defines vak:Ekadhatuta ;
-    vak:hasGround vak:Jati ;
-    vak:hasGround vak:Gocara ;
-    vak:hasGround vak:Vijnana .
+    a vak:Karika ;
+    rdfs:label "VAK 1.19" ;
+    vak:hasSourceLabel "VAkK_1.19" ;
+    vak:hasProjectLabel "VAkK_1.19" ;
+    vak:hasTopic vak:OneDomainStatus ;
+    vak:belongsTo vak:Dhatunirdesa .
+
+vak:OneDomainStatus
+    vak:groundedIn vak:CommonKind , vak:CommonObjectRange , vak:CommonKnowledge .
 ```
 
-## 10. Commit History
+## 11. Commit History
 
-- Initial scientific artifact for VAK_1.19.
-- Interprets dhātu unity through common cognition.
-- Preserves the provisional distinction between vijñapti and prativijñapti.
-- Notes the hypothesis that a dharma is a completed cognitive cycle.
+- Upgraded VAK_1.19 with expanded Organon analysis.
+- Explains one-domain status through common kind, object-range, and knowledge.
+- Distinguishes paired bodily occurrence from domain plurality.
