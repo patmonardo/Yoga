@@ -4,75 +4,88 @@
 
 > धर्मस्कन्धसहस्राणि यान्यशीतिं जगौ मुनिः ।
 >
-> तानि वाङ्नाम वेत्येषां रूपसंस्कारसंग्रहः ॥
+> तानि वाङ्नाम वेत्येषां रूपसंस्कारसंग्रहः ॥ १.२५ ॥
 
 ## 2. Sanskrit (IAST)
 
-> dharmaskandhasahasrāṇi yānyaśītiṃ jagau muniḥ /
+> dharmaskandhasahasrāṇi yāny aśītiṃ jagau muniḥ /
 >
-> tāni vāṅnāma vety eṣāṃ rūpasaṃskārasaṃgrahaḥ //
+> tāni vāṅnāma vety eṣāṃ rūpasaṃskārasaṃgrahaḥ // VAkK_1.25 //
+
+Source label in GRETIL: `VAkK_1.25`. Project-normalized label: `VAkK_1.25`.
 
 ## 3. Padaccheda
 
-| Pada | Form | Meaning |
+| Form | Padaccheda | Meaning |
 |---|---|---|
-| dharma-skandha-sahasrāṇi | nom.pl.n. compound | thousands of dharma-collections |
-| yāni | nom.pl.n. relative pronoun | which |
-| aśītim | acc.sg.f. numeral | eighty |
-| jagau | 3rd sg. perfect | taught, proclaimed |
-| muniḥ | nom.sg.m. | the Sage, the Buddha |
-| tāni | nom.pl.n. demonstrative | those |
-| vāk-nāma | nom./acc.sg.n. compound | speech and name |
-| vā iti | indeclinable | or, namely |
-| eṣām | gen.pl. | of these |
-| rūpa-saṃskāra-saṃgrahaḥ | nom.sg.m. compound | collection under rūpa and saṃskāra |
+| dharma-skandha-sahasrāṇi | dharma-skandha-sahasrāṇi | thousands of dharma-aggregates |
+| yāni aśītim | yāni aśītim | which are eighty |
+| jagau muniḥ | jagau muniḥ | the Sage declared |
+| tāni | tāni | those |
+| vāk nāma vā iti | vāk nāma vā iti | whether speech or name |
+| eṣām | eṣām | of these |
+| rūpa-saṃskāra-saṃgrahaḥ | rūpa-saṃskāra-saṃgrahaḥ | inclusion in form and formations |
 
-## 4. Literal Translation
+## 4. Grammar
 
-> The eighty thousand dharma-skandhas taught by the Sage are, as speech and name, included within the categories of rūpa and saṃskāra.
+The eighty thousand dharma-skandhas taught by the Sage are analyzed as either speech or name. Speech belongs to rūpa; name belongs to saṃskāra. Thus the vast teaching-body is included within the aggregate system.
 
-## 5. Philosophical Translation
+## 5. Literal Translation
 
-> The numerous dharma-classifications taught by the Buddha are gathered under broader systematic categories through the principles of expression and construction.
+> The eighty thousand dharma-aggregates which the Sage declared: whether these are speech or name, they are included in form and formations.
 
-## 6. Technical Vocabulary
+## 6. Philosophical Translation
 
-| Sanskrit | Rendering | Note |
+> Even the vast body of Dharma teaching is included analytically: as spoken expression it belongs to form, and as name or designation it belongs to formations.
+
+Organon rendering:
+
+> Doctrine itself enters the domain-system. The teaching is not outside Dharma-analysis: as voiced speech it has form-status; as name it has formation-status.
+
+## 7. Technical Vocabulary
+
+| Sanskrit | Project rendering | Note |
 |---|---|---|
-| dharmaskandha | dharma-aggregate | doctrinal collection |
-| muni | sage | the Buddha |
-| vāk | speech | linguistic expression |
-| nāma | name | conceptual designation |
-| saṃgraha | collection | systematic inclusion |
-| saṃskāra | formative determination | constructed factor |
+| dharmaskandha | dharma-aggregate | unit of teaching/Dharma collection |
+| muni | Sage | the Buddha |
+| vāk | speech | form-side of teaching |
+| nāman | name | formation-side of teaching |
+| rūpa | form | voiced expression |
+| saṃskāra | formation | naming/designation |
+| saṃgraha | inclusion | analytic containment |
 
-## 7. Logical Determination
+## 8. Logical Determination
 
-Multiplicity
-        ↓
-Expression
-        ↓
-Collection
-        ↓
-System
-
-## 8. Interpretive Note
-
-This verse introduces the eighty thousand dharma-skandhas attributed to the Buddha. Their multiplicity is not merely enumerative but organized through principles of collection (saṃgraha) and systematic inclusion.
-
-## 9. OWL++ Seed
-
-```ttl
-vak:VAK_1_25
-    rdf:type vak:Karika ;
-    vak:defines vak:Dharmaskandha ;
-    vak:defines vak:Samgraha ;
-    vak:hasGround vak:Vak ;
-    vak:hasGround vak:Samskara .
+```text
+Dharma teaching
+    as speech → rūpa
+    as name   → saṃskāra
 ```
 
-## 10. Commit History
+## 9. Interpretive Note
 
-- Initial artifact for VAK_1.25.
-- Introduces the eighty thousand dharma-skandhas.
-- Establishes saṃgraha as a principle of systematic inclusion.
+The verse folds the teaching back into the system it teaches. Śāstra is not externally exempt from analysis. Its voiced and named forms are themselves dharmas.
+
+Organon note:
+
+```text
+teaching
+    = form as utterance
+    = formation as name
+```
+
+## 10. OWL++ Seed
+
+```ttl
+@prefix vak: <http://127.0.0.1:3000/vak#> .
+
+vak:VAK_1_25 a vak:Karika ;
+    vak:hasSourceLabel "VAkK_1.25" ;
+    vak:hasProjectLabel "VAkK_1.25" ;
+    vak:hasTopic vak:DharmaTeachingIncludedInAggregates .
+```
+
+## 11. Commit History
+
+- Upgraded VAK_1.25 with expanded Organon analysis.
+- Includes the eighty thousand dharma-skandhas as speech/form or name/formation.
