@@ -4,71 +4,121 @@
 
 > पृथिवी वर्णसंस्थानमुच्यते लोकसंज्ञया ।
 >
-> आपस्तेजश्च वायुस्तु धातुरेव तथापि च ॥
+> आपस्तेजश्च वायुस्तु धातुरेव तथापि च ॥ १.१३ ॥
 
 ## 2. Sanskrit (IAST)
 
 > pṛthivī varṇasaṃsthānam ucyate lokasaṃjñayā /
 >
-> āpas tejaś ca vāyus tu dhātur eva tathāpi ca //
+> āpas tejaś ca vāyus tu dhātur eva tathāpi ca // VAkK_1.13 //
+
+Source label in GRETIL: `VAkK_1.13`. Project-normalized label: `VAkK_1.13`.
 
 ## 3. Padaccheda
 
-| Pada | Form | Meaning |
+| Form | Padaccheda | Meaning |
 |---|---|---|
-| pṛthivī | nom.sg.f | earth |
-| varṇa-saṃsthānam | acc.sg.n compound | color and configuration |
-| ucyate | 3rd sg. passive present | is called |
-| loka-saṃjñayā | instr.sg.f | according to worldly designation |
-| āpaḥ | nom.pl.f | waters |
-| tejaḥ | nom.sg.n | fire |
-| ca | particle | and |
-| vāyuḥ | nom.sg.m | air |
-| tu | particle | however |
-| dhātuḥ eva | nom.sg.m | are merely elements |
-| tathā api ca | indeclinable expression | likewise also |
+| pṛthivī | pṛthivī | earth |
+| varṇa-saṃsthānam | varṇa-saṃsthānam | color and shape/configuration |
+| ucyate | ucyate | is called |
+| loka-saṃjñayā | loka-saṃjñayā | by worldly designation |
+| āpas | āpas | water |
+| tejaḥ ca | tejaḥ ca | and fire |
+| vāyuḥ tu | vāyuḥ tu | and wind |
+| dhātuḥ eva | dhātuḥ eva | just domain |
+| tathā api ca | tathā api ca | and likewise |
 
-## 4. Literal Translation
+## 4. Grammar
 
-> Earth is called color and configuration according to worldly convention; likewise water, fire, and air are merely elements.
+The verse distinguishes ordinary speech from technical Abhidharma analysis.
 
-## 5. Philosophical Translation
+Worldly designation calls visible color and shape **earth**:
 
-> What ordinary experience calls the material world consists of conventional appearances. The true determinations are the elemental functions underlying those appearances.
-
-## 6. Technical Vocabulary
-
-| Sanskrit | Rendering | Note |
-|---|---|---|
-| loka-saṃjñā | worldly designation | conventional cognition of the world |
-| dhātu | elemental determination | transcendental constituent of appearance |
-| varṇa | color | visible appearance |
-| saṃsthāna | configuration | spatial arrangement or form |
-| mahābhūta | great element | operative determination underlying appearance |
-
-## 7. Logical Determination
-
-Dhātu
-        ↓
-Mahābhūta
-        ↓
-Loka-saṃjñā
-        ↓
-Visible World
-
-## 8. OWL++ Seed
-
-```ttl
-vak:VAK_1_13
-    rdf:type vak:Karika ;
-    vak:defines vak:LokaSamjna ;
-    vak:dependsOn vak:Mahabhuta ;
-    vak:hasAppearance vak:Varna ;
-    vak:hasAppearance vak:Samsthana .
+```text
+lokasaṃjñayā
+    pṛthivī = varṇa + saṃsthāna
 ```
 
-## 9. Commit History
+But technically, earth, water, fire, and wind are dhātus: functional domains, not merely visible appearances.
 
-- Initial scientific artifact for VAK_1.13.
-- Distinguishes elemental determination from worldly designation.
-- Establishes the visible world as a conventional appearance grounded in the Mahābhūtas.
+## 5. Literal Translation
+
+> Earth is called color-and-shape by worldly designation. But water, fire, and wind likewise are only domains.
+
+## 6. Philosophical Translation
+
+> Ordinary language identifies earth with visible color and configuration, but Abhidharma treats earth, water, fire, and wind as elemental domains rather than as the appearances named by common speech.
+
+Organon rendering:
+
+> The verse separates worldly naming from principial determination. What the world calls earth is visible configuration. What Abhidharma analyzes is the elemental domain: the functional ground of material appearance.
+
+## 7. Technical Vocabulary
+
+| Sanskrit | Project rendering | Note |
+|---|---|---|
+| pṛthivī | earth | worldly name versus technical domain |
+| varṇa | color | visible appearance |
+| saṃsthāna | configuration / shape | spatial appearance |
+| lokasaṃjñā | worldly designation | conventional naming |
+| dhātu | domain | technical Abhidharma category |
+| āpas / tejas / vāyu | water / fire / wind | functional elemental domains |
+
+## 8. Logical Determination
+
+```text
+worldly designation
+    = appearance-name
+
+Abhidharma dhātu
+    = functional domain
+```
+
+Thus:
+
+```text
+visible earth
+    ≠
+earth-domain as functional support
+```
+
+## 9. Interpretive Note
+
+This verse is methodologically important. It warns us not to confuse common names with Abhidharma determinations. The world names what appears. Abhidharma analyzes the domain-function behind the appearance.
+
+Organon note:
+
+```text
+loka-saṃjñā
+    = name at the level of appearance
+
+dhātu
+    = principial domain-determination
+```
+
+This supports the project rule: dhātu must remain domain, not element in the crude sense.
+
+## 10. OWL++ Seed
+
+```ttl
+@prefix vak: <http://127.0.0.1:3000/vak#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+vak:VAK_1_13
+    a vak:Karika ;
+    rdfs:label "VAK 1.13" ;
+    vak:hasSourceLabel "VAkK_1.13" ;
+    vak:hasProjectLabel "VAkK_1.13" ;
+    vak:hasTopic vak:WorldlyDesignationAndDomain ;
+    vak:belongsTo vak:Dhatunirdesa .
+
+vak:WorldlyDesignation
+    rdfs:label "worldly designation" ;
+    vak:notEqualTo vak:DhatuDetermination .
+```
+
+## 11. Commit History
+
+- Added expanded Organon analysis for VAK_1.13.
+- Distinguishes worldly designation from technical dhātu analysis.
+- Reinforces dhātu as domain, not merely element or common-sense substance.
