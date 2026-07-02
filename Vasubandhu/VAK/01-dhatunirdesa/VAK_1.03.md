@@ -1,16 +1,18 @@
-# VAK_1.3
+# VAK_1.03
 
 ## 1. Sanskrit (Devanāgarī)
 
 > धर्माणां प्रविचयमन्तरेण नास्ति क्लेशानां यत उपशान्तयेऽभ्युपायः ।
 >
-> क्लेशैश्च भ्रमति भवार्णवेऽत्र लोकस्तद्धेतोरत उदितः किलैष शास्त्रः ॥ १.३ ॥
+> क्लेशैश्च भ्रमति भवार्णवेऽत्र लोकस्तद्धेतोरत उदितः किलैष शास्त्रः ॥ १.०३ ॥
 
 ## 2. Sanskrit (IAST)
 
 > dharmāṇāṃ pravicayam antareṇa nāsti kleśānāṃ yata upaśāntaye 'bhyupāyaḥ /
 >
-> kleśaiś ca bhramati bhavārṇave 'tra lokas taddhetor ata uditaḥ kilaiṣa śāstraḥ // VAkK_1.3 //
+> kleśaiś ca bhramati bhavārṇave 'tra lokas taddhetor ata uditaḥ kilaiṣa śāstraḥ // VAkK_1.03 //
+
+Source label in GRETIL: `VAkK_1.3`. Project-normalized label: `VAkK_1.03`.
 
 ## 3. Padaccheda
 
@@ -47,7 +49,7 @@ therefore
     this śāstra has been taught
 ```
 
-The key term is **pravicaya**: discriminative investigation of dharmas. This is the operational form of prajñā introduced in VAK_1.2.
+The key term is **pravicaya**: discriminative investigation of dharmas. This is the operational form of prajñā introduced in VAK_1.02.
 
 ## 5. Literal Translation
 
@@ -116,10 +118,12 @@ upaśānti
 @prefix vak: <http://127.0.0.1:3000/vak#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
-vak:VAK_1_3
+vak:VAK_1_03
     a vak:Karika ;
-    rdfs:label "VAK 1.3" ;
+    rdfs:label "VAK 1.03" ;
     vak:hasIAST "dharmāṇāṃ pravicayam antareṇa nāsti kleśānāṃ yata upaśāntaye 'bhyupāyaḥ / kleśaiś ca bhramati bhavārṇave 'tra lokas taddhetor ata uditaḥ kilaiṣa śāstraḥ" ;
+    vak:hasSourceLabel "VAkK_1.3" ;
+    vak:hasProjectLabel "VAkK_1.03" ;
     vak:hasTopic vak:NecessityOfPravicaya ;
     vak:belongsTo vak:Dhatunirdesa .
 
@@ -131,6 +135,8 @@ vak:Pravicaya
 
 ## 11. Commit History
 
-- Added first-pass expanded Organon analysis for VAK_1.3.
+- Added first-pass expanded Organon analysis for VAK_1.03.
+- Normalized project verse numbering to padded lexical form: `VAK_1.03` / `VAkK_1.03`.
+- Preserves the original GRETIL source label as `VAkK_1.3` for source verification.
 - Establishes pravicaya of dharmas as necessary for pacifying kleśa.
 - Frames Abhidharma as method for ending wandering in the ocean of becoming.
