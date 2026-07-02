@@ -4,91 +4,123 @@
 
 > चतुर्भ्योऽन्ये तु संस्कारस्कन्धः एते पुनस्त्रयः ।
 >
-> धर्मायतनधात्वाख्याः सहाविज्ञप्त्यसंस्कृतैः ॥
+> धर्मायतनधात्वाख्याः सहाविज्ञप्त्यसंस्कृतैः ॥ १.१५ ॥
 
 ## 2. Sanskrit (IAST)
 
 > caturbhyo 'nye tu saṃskāraskandhaḥ ete punas trayaḥ /
 >
-> dharmāyatana-dhātvākhyāḥ sahāvijñaptyasaṃskṛtaiḥ //
+> dharmāyatanadhātvākhyāḥ sahāvijñaptyasaṃskṛtaiḥ // VAkK_1.15 //
+
+Source label in GRETIL: `VAkK_1.15`. Project-normalized label: `VAkK_1.15`.
 
 ## 3. Padaccheda
 
-| Pada | Form | Meaning |
+| Form | Padaccheda | Meaning |
 |---|---|---|
-| caturbhyaḥ | abl.pl | from the four |
-| anye | nom.pl | the others |
-| tu | particle | however |
-| saṃskāra-skandhaḥ | nom.sg.m | the aggregate of formations |
-| ete | nom.pl | these |
-| punaḥ | adverb | further |
-| trayaḥ | nom.pl | the three |
-| dharma-āyatana-dhātu-ākhyāḥ | nom.pl compound | designated as dharma-āyatana and dharma-dhātu |
-| saha | indecl. | together with |
-| avijñapti | instr.sg | non-manifest determination |
-| asaṃskṛtaiḥ | instr.pl | the unconstructed |
+| caturbhyaḥ anye | caturbhyaḥ anye | others than the four |
+| tu | tu | but |
+| saṃskāra-skandhaḥ | saṃskāra-skandhaḥ | aggregate of formations |
+| ete | ete | these |
+| punaḥ | punaḥ | again |
+| trayaḥ | trayaḥ | three |
+| dharma-āyatana-dhātu-ākhyāḥ | dharma-āyatana-dhātu-ākhyāḥ | called dharma-sphere and dharma-domain |
+| saha | saha | together with |
+| avijñapti-asaṃskṛtaiḥ | avijñapti-asaṃskṛtaiḥ | avijñapti and the unconditioned |
 
-## 4. Literal Translation
+## 4. Grammar
 
-> The conditioned dharmas other than these four constitute the Saṃskāra-skandha. These three, together with avijñapti and the unconstructed, are designated as the dharma-āyatana and dharma-dhātu.
+The formations aggregate is defined negatively:
 
-## 5. Philosophical Translation
-
-> Beyond appearance, receptivity, determination, and awareness lies the entire field of constructive activity. Saṃskāra denotes the preserved and operative determinations through which cognition and worldhood are constituted.
-
-## 6. Technical Vocabulary
-
-| Sanskrit | Rendering | Note |
-|---|---|---|
-| saṃskāra | constructive formation | preserved and operative determination |
-| skandha | aggregate | moment of cognition |
-| vijñāna | awareness | knowing determination |
-| avijñapti | non-manifest determination | continuity not directly perceived |
-| asaṃskṛta | unconstructed | beyond conditioned formation |
-| dharma-āyatana | field of dharma | domain of conceptual determination |
-| dharma-dhātu | continuity of dharma | persistence of determination |
-
-## 7. Logical Determination
-
-Rūpa
-        ↓
-Vedanā
-        ↓
-Saṃjñā
-        ↓
-Vijñāna
-        ↓
-Saṃskāra
-        ↓
-Dharma
-
-## 8. Comparative Architectonic
-
-Saṃjñā  = marks (nimitta)
-Saṃskāra = memory / constructive preservation
-Vijñāna = awareness / knowing
-
-Possible Sāṃkhya correspondence:
-
-Manas      → Saṃjñā
-Ahaṃkāra   → Saṃskāra
-Buddhi     → Vijñāna
-
-## 9. OWL++ Seed
-
-```ttl
-vak:VAK_1_15
-    rdf:type vak:Karika ;
-    vak:defines vak:Samskara ;
-    vak:hasDomain vak:DharmaAyatana ;
-    vak:hasContinuity vak:DharmaDhatu ;
-    vak:includes vak:Avijnapti ;
-    vak:includes vak:Asamskrta .
+```text
+saṃskāraskandha
+    = conditioned factors other than the four aggregates
 ```
 
-## 10. Commit History
+The verse then gathers the three non-material/non-sensory categories as **dharmāyatana** and **dharmadhātu**:
 
-- Initial scientific artifact for VAK_1.15.
-- Interprets saṃskāra as constructive and preservative activity.
-- Notes possible correspondences with Sāṃkhya cognition.
-- Marks the transition from appearance to the transcendental conditions of knowledge.
+```text
+vedanā
+saṃjñā
+saṃskāra
++ avijñapti
++ asaṃskṛta dharmas
+    = dharmāyatana / dharmadhātu
+```
+
+## 5. Literal Translation
+
+> The others than the four are the aggregate of formations. These three again, together with avijñapti and the unconditioned, are called the dharma-sphere and dharma-domain.
+
+## 6. Philosophical Translation
+
+> All conditioned factors not included in the other four aggregates belong to the aggregate of formations. Feeling, saṃjñā, and formations, together with avijñapti and the unconditioned, are gathered under the dharma-sphere and dharma-domain.
+
+Organon rendering:
+
+> The dharma-domain begins to emerge as the gathering place of determinations not reducible to visible materiality or sensory objecthood. It includes mental factors, subtle form, and the unconditioned.
+
+## 7. Technical Vocabulary
+
+| Sanskrit | Project rendering | Note |
+|---|---|---|
+| saṃskāra | formation | conditioned formative factor |
+| skandha | aggregate | structured aggregate-field |
+| dharmāyatana | dharma-sphere | sixth object-sphere for manas |
+| dharmadhātu | dharma-domain | domain of dharmas/determinations |
+| avijñapti | non-disclosive form | included in dharma-domain |
+| asaṃskṛta | unconditioned | included in dharma-domain |
+
+## 8. Logical Determination
+
+```text
+other conditioned factors
+    = saṃskāraskandha
+```
+
+and:
+
+```text
+vedanā + saṃjñā + saṃskāra
++ avijñapti
++ asaṃskṛta
+    = dharmāyatana / dharmadhātu
+```
+
+## 9. Interpretive Note
+
+This is one of the crucial early dharmadhātu verses. Dharmadhātu is not merely a leftover bin. It is the domain in which mental factors, subtle form, and the unconditioned are gathered as dharmas.
+
+Organon note:
+
+```text
+dharmadhātu
+    = domain of determinations
+    = mental factors + subtle form + unconditioned
+```
+
+This prepares the later insight that dharmadhātu alone has real-domain status.
+
+## 10. OWL++ Seed
+
+```ttl
+@prefix vak: <http://127.0.0.1:3000/vak#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+vak:VAK_1_15
+    a vak:Karika ;
+    rdfs:label "VAK 1.15" ;
+    vak:hasSourceLabel "VAkK_1.15" ;
+    vak:hasProjectLabel "VAkK_1.15" ;
+    vak:hasTopic vak:FormationsAndDharmaDomain ;
+    vak:belongsTo vak:Dhatunirdesa .
+
+vak:DharmaDhatu
+    vak:includes vak:Vedana , vak:Samjna , vak:Samskara , vak:Avijnapti , vak:AsamskrtaDharmas .
+```
+
+## 11. Commit History
+
+- Added expanded Organon analysis for VAK_1.15.
+- Defines saṃskāraskandha by exclusion from the other four aggregates.
+- Establishes dharmāyatana/dharmadhātu as including mental factors, avijñapti, and the unconditioned.
