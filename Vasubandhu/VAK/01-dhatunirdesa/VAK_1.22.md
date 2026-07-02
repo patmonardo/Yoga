@@ -4,76 +4,96 @@
 
 > स्कन्धेष्वसंस्कृतं नोक्तमर्थायोगात् क्रमः पुनः ।
 >
-> यथौदारिकसंक्लेशभाजनाद्यर्थधातुतः ॥
+> यथौदारिकसंक्लेशभाजनाद्यर्थधातुतः ॥ १.२२ ॥
 
 ## 2. Sanskrit (IAST)
 
 > skandheṣv asaṃskṛtaṃ noktam arthāyogāt kramaḥ punaḥ /
 >
-> yathaudārikasaṃkleśabhājanādyarthadhātutaḥ //
+> yathaudārikasaṃkleśabhājanādyarthadhātutaḥ // VAkK_1.22 //
+
+Source label in GRETIL: `VAkK_1.22`. Project-normalized label: `VAkK_1.22`.
 
 ## 3. Padaccheda
 
-| Pada | Meaning |
-|---|---|
-| skandheṣu | among the skandhas |
-| asaṃskṛtam | the unconditioned |
-| na uktam | is not stated |
-| artha-ayogāt | because it does not fit the meaning |
-| kramaḥ | order, sequence |
-| punaḥ | furthermore |
-| audārika | grossness |
-| saṃkleśa | entanglement, defilement |
-| bhājana | receptacle, support |
-| artha-dhātutaḥ | according to meaning and dhātu |
-
-## 4. Literal Translation
-
-> The unconditioned is not included among the skandhas because it does not fit their meaning. Furthermore, the order is determined according to grossness, entanglement, receptaclehood, meaning, and dhātu.
-
-## 5. Philosophical Translation
-
-> The unconstructed is excluded from the skandhas because the skandhas designate conditioned principles of manifestation. The sequence of exposition follows a rational order grounded in function, meaning, and continuity.
-
-## 6. Technical Vocabulary
-
-| Sanskrit | Rendering | Note |
+| Form | Padaccheda | Meaning |
 |---|---|---|
-| asaṃskṛta | unconstructed | beyond conditioned aggregation |
-| krama | sequence | ordered continuity |
-| audārika | grossness | degree of manifestation |
-| saṃkleśa | entanglement | cognitive/worldly involvement |
-| bhājana | receptacle | supporting basis |
-| dhātu | continuity | ordering principle |
+| skandheṣu | skandheṣu | among the aggregates |
+| asaṃskṛtam | asaṃskṛtam | the unconditioned |
+| na uktam | na uktam | is not stated |
+| artha-ayogāt | artha-ayogāt | because the meaning does not fit |
+| kramaḥ punaḥ | kramaḥ punaḥ | and the order again |
+| yathā | yathā | according to |
+| audārika | audārika | grossness |
+| saṃkleśa | saṃkleśa | defilement/contamination |
+| bhājana-ādi | bhājana-ādi | vessel and so on |
+| artha-dhātutaḥ | artha-dhātutaḥ | by meaning and domain-status |
 
-## 7. Logical Determination
+## 4. Grammar
 
-Manifestation
-        ↓
-Entanglement
-        ↓
-Support
-        ↓
-Continuity
+The unconditioned is not included among the aggregates because aggregate-meaning does not fit it. Aggregates concern conditioned accumulation. The order of aggregates is then explained by several criteria: grossness, contamination, vessel-like basis, meaning, and domain-status.
 
-## 8. Interpretive Note
+## 5. Literal Translation
 
-This verse establishes that the order of exposition in the Abhidharma is not arbitrary. The sequence of dharmas follows determinate principles of manifestation, entanglement, support, meaning, and continuity.
+> The unconditioned is not stated among the aggregates because the meaning does not fit. The order, again, is according to grossness, contamination, vessel and the like, meaning, and domain-status.
 
-## 9. OWL++ Seed
+## 6. Philosophical Translation
 
-```ttl
-vak:VAK_1_22
-    rdf:type vak:Karika ;
-    vak:defines vak:Krama ;
-    vak:hasGround vak:Audarika ;
-    vak:hasGround vak:Samklesa ;
-    vak:hasGround vak:Bhajana ;
-    vak:hasGround vak:Dhatu .
+> The unconditioned is excluded from the aggregates because it is not an accumulated conditioned structure. The aggregate order is not arbitrary; it follows increasing subtlety and doctrinal function.
+
+Organon rendering:
+
+> The unconditioned cannot be forced into aggregate-form. Aggregation belongs to conditioned appearance. The order of aggregates is a logical pedagogy: from the gross to the subtle, from material support to affective and cognitive contamination, toward knowledge.
+
+## 7. Technical Vocabulary
+
+| Sanskrit | Project rendering | Note |
+|---|---|---|
+| asaṃskṛta | unconditioned | not suitable for aggregate inclusion |
+| skandha | aggregate | conditioned accumulation |
+| artha | meaning | criterion of fit |
+| krama | order | systematic sequence |
+| audārika | grossness | order by accessibility |
+| saṃkleśa | contamination | defilement-structure |
+| dhātu | domain | domain criterion |
+
+## 8. Logical Determination
+
+```text
+unconditioned
+    ≠ aggregate
+
+because:
+    aggregate means conditioned accumulation
 ```
 
-## 10. Commit History
+## 9. Interpretive Note
 
-- Refactored to canonical VAK schema.
-- Restored philological structure.
-- Preserved the interpretation of sequence as an ordering principle.
+This verse protects the unconditioned from being absorbed into the conditioned analytic scheme. The aggregates are an analysis of saṃskṛta dharmas. The asaṃskṛta remains within Dharma-analysis, but not within skandha-analysis.
+
+Organon note:
+
+```text
+skandha
+    = conditioned aggregate-form
+
+asaṃskṛta
+    = not aggregate-form
+```
+
+## 10. OWL++ Seed
+
+```ttl
+@prefix vak: <http://127.0.0.1:3000/vak#> .
+
+vak:VAK_1_22 a vak:Karika ;
+    vak:hasSourceLabel "VAkK_1.22" ;
+    vak:hasProjectLabel "VAkK_1.22" ;
+    vak:hasTopic vak:UnconditionedExcludedFromAggregates .
+```
+
+## 11. Commit History
+
+- Upgraded VAK_1.22 with expanded Organon analysis.
+- Explains why asaṃskṛta is not included among the aggregates.
+- Reads aggregate-order as logical and pedagogical sequence.
