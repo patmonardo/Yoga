@@ -4,75 +4,87 @@
 
 > शास्त्रप्रमाणा इत्येके स्कन्धादीनां कथैकशः ।
 >
-> चरितप्रतिपक्षस्तु धर्मस्कन्धोऽनुवर्णितः ॥
+> चरितप्रतिपक्षस्तु धर्मस्कन्धोऽनुवर्णितः ॥ १.२६ ॥
 
 ## 2. Sanskrit (IAST)
 
 > śāstrapramāṇā ity eke skandhādīnāṃ kathaikaśaḥ /
 >
-> caritapratipakṣas tu dharmaskandho 'nuvarṇitaḥ //
+> caritapratipakṣas tu dharmaskandho 'nuvarṇitaḥ // VAkK_1.26 //
+
+Source label in GRETIL: `VAkK_1.26`. Project-normalized label: `VAkK_1.26`.
 
 ## 3. Padaccheda
 
-| Pada | Form | Meaning |
+| Form | Padaccheda | Meaning |
 |---|---|---|
-| śāstra-pramāṇāḥ | nom.pl.m. compound | scriptural authorities |
-| iti | indeclinable | thus |
-| eke | nom.pl.m. | some, certain authorities |
-| skandha-ādīnām | gen.pl. compound | of the skandhas and related categories |
-| kathā | nom.sg.f. | exposition, discussion |
-| ekaśaḥ | indeclinable | individually |
-| carita-pratipakṣaḥ | nom.sg.m. compound | counteragent to a disposition |
-| tu | indeclinable | but |
-| dharma-skandhaḥ | nom.sg.m. compound | dharma-aggregate |
-| anuvarṇitaḥ | nom.sg.m. PPP | has been described |
+| śāstra-pramāṇāḥ | śāstra-pramāṇāḥ | measured by treatise/scriptural extent |
+| iti eke | iti eke | so some say |
+| skandha-ādīnām | skandha-ādīnām | of aggregates and the others |
+| kathaṃ ekaśaḥ | katham ekaśaḥ | how each singly? |
+| carita-pratipakṣaḥ tu | carita-pratipakṣaḥ tu | but as antidote to conduct/disposition |
+| dharma-skandhaḥ | dharma-skandhaḥ | dharma-aggregate |
+| anuvarṇitaḥ | anuvarṇitaḥ | is described/explained |
 
-## 4. Literal Translation
+## 4. Grammar
 
-> Some maintain that the scriptural authorities constitute the exposition of the skandhas and related categories individually. But a dharma-skandha has been described as the counteragent to a particular disposition.
+Some explain the dharma-skandhas by śāstra-measure. Vasubandhu gives the stronger principle: a dharma-skandha is described according to the antidote for a type of conduct or disposition.
 
-## 5. Philosophical Translation
+## 5. Literal Translation
 
-> One interpretation understands the dharma-skandhas as scriptural divisions. Another, preferred here, understands them functionally, as remedies corresponding to particular dispositions and tendencies.
+> Some say they are measured by the treatise. But how is each of the aggregates and so on [to be counted]? A dharma-aggregate is described as an antidote to conduct/disposition.
 
-## 6. Technical Vocabulary
+## 6. Philosophical Translation
 
-| Sanskrit | Rendering | Note |
+> The dharma-skandha is not merely a textual unit. It is a teaching-unit defined by its function as a counteractive remedy for a given disposition.
+
+Organon rendering:
+
+> Doctrine is measured not only by textual extent but by transformative function. A dharma-skandha is a principled antidote: a teaching-form matched to a mode of character and bondage.
+
+## 7. Technical Vocabulary
+
+| Sanskrit | Project rendering | Note |
 |---|---|---|
-| śāstra | scripture | authoritative exposition |
-| pramāṇa | authority | normative source |
-| dharmaskandha | dharma-aggregate | doctrinal unit |
-| carita | disposition | characteristic tendency |
-| pratipakṣa | counteragent | corrective principle |
-| anuvarṇita | expounded | systematically described |
+| śāstra-pramāṇa | scriptural measure | textual extent as one view |
+| carita | conduct / disposition | learner's mode |
+| pratipakṣa | antidote / counter-agent | transformative opposition |
+| dharmaskandha | dharma-aggregate | functional teaching-unit |
+| anuvarṇita | described | doctrinal explanation |
 
-## 7. Logical Determination
+## 8. Logical Determination
 
-Disposition
-        ↓
-Counteragent
-        ↓
-Dharma
-        ↓
-Science
+```text
+dharma-skandha
+    ≠ merely textual quantity
 
-## 8. Interpretive Note
-
-This verse concludes the introductory discussion of the dharma-skandhas. Their organization is understood not merely as a textual classification but also according to their function as counteragents to particular dispositions.
-
-## 9. OWL++ Seed
-
-```ttl
-vak:VAK_1_26
-    rdf:type vak:Karika ;
-    vak:defines vak:Dharmaskandha ;
-    vak:hasGround vak:Carita ;
-    vak:hasGround vak:Pratipaksa ;
-    vak:hasGround vak:Sastra .
+dharma-skandha
+    = teaching-antidote for a disposition
 ```
 
-## 10. Commit History
+## 9. Interpretive Note
 
-- Initial artifact for VAK_1.26.
-- Concludes the introductory discussion of dharma-skandhas.
-- Preserves the functional interpretation of dharma-skandha.
+This verse keeps Abhidharma practical. The Dharma is not counted for book-keeping alone; it is articulated as a remedy for character-forms and defilement-patterns.
+
+Organon note:
+
+```text
+teaching
+    = functional counter-determination
+```
+
+## 10. OWL++ Seed
+
+```ttl
+@prefix vak: <http://127.0.0.1:3000/vak#> .
+
+vak:VAK_1_26 a vak:Karika ;
+    vak:hasSourceLabel "VAkK_1.26" ;
+    vak:hasProjectLabel "VAkK_1.26" ;
+    vak:hasTopic vak:DharmaAggregateAsAntidote .
+```
+
+## 11. Commit History
+
+- Upgraded VAK_1.26 with expanded Organon analysis.
+- Reads dharma-skandha as functional antidote to disposition rather than mere textual measure.
