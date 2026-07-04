@@ -69,7 +69,7 @@ ca + ārūpiṇaḥ
 | **nānātva-kāya-saṃjñāḥ** | nānātva-kāya-saṃjñā | nom. pl. | “those with diversity of body and perception” |
 | **ca** | ca | indeclinable | “and” |
 | **nānā-kāya-eka-saṃjñinaḥ** | nānā-kāya-eka-saṃjñin | nom. masc. pl. | “those with diverse bodies and one perception” |
-| **viparyayāt** | viparyaya | abl. sg. | “by reversal,” “by inversion” |
+| **viparyayāt** | viparyaya | abl. sg. | “by reversal,” “by inversion,” with error/reversal retained as a semantic force |
 | **eka-kāya-saṃjñāḥ** | eka-kāya-saṃjñā | nom. pl. compressed expression | “those with one body and [the relevant perception-types]” |
 | **ārūpiṇaḥ** | ārūpin | nom. masc. pl. | “formless ones,” beings/classes belonging to formlessness |
 | **trayaḥ** | tri | nom. masc. pl. | “three” |
@@ -118,7 +118,7 @@ Third:
 viparyayāt ca
 ```
 
-This tells us to generate inverse cases:
+This tells us to generate reversed cases, but the reversal should not be treated as merely neutral. **Viparyaya remains reversal/error/inversion**, though here it functions at the level of body-perception configuration rather than reflective false judgment.
 
 ```text
 By reversal:
@@ -177,7 +177,7 @@ The classification now proceeds by body and perception. There are beings whose b
 Organon-clean:
 
 ```text
-The world-field is now analyzed as a semantic matrix of embodiment and perception. Beings are not merely located in domains; they are configured by body-structure and perception-structure, and this matrix is extended by the three formless modes.
+The world-field is now analyzed as a semantic matrix of embodiment and perception. Beings are not merely located in domains; they are configured by body-structure and perception-structure. Perception here is embodied recognition, not pure knowing; bodily configuration can alter the perceptual field. The matrix is then extended by the three formless modes.
 ```
 
 ---
@@ -241,9 +241,37 @@ saṃjñā
     perception
     recognition
     designation-perception
+    recognitional marking
 ```
 
 This is not yet conceptual thinking. In this verse it is the perceptual/recognitional configuration of a class of beings.
+
+Important correction:
+
+```text
+saṃjñā is not free-floating cognition.
+It is embodied perception.
+```
+
+The verse links **kāya** and **saṃjñā**, which means that bodily configuration can condition perceptual marking. A concrete example is bodily disease:
+
+```text
+fever
+pain
+intoxication
+neurological disease
+exhaustion
+```
+
+These can alter the appearance-field by altering the way things are perceived, recognized, valued, or made salient. Thus:
+
+```text
+kāya changes
+    ↓
+saṃjñā changes
+```
+
+So **saṃjñā** here is not pure knowing and not apperceptive ownership. It is embodied recognitional perception within the dhātu-field.
 
 ### viparyaya
 
@@ -251,10 +279,28 @@ This is not yet conceptual thinking. In this verse it is the perceptual/recognit
 viparyaya
     reversal
     inversion
-    contrary arrangement
+    error
+    distorted arrangement
 ```
 
-Here it is not error or false cognition in the usual Yoga sense. It is a combinatorial instruction: reverse the relation of body/perception to generate the other cases.
+This term should not be neutralized. **Viparyaya remains connected to Error.** However, in VAkK 3.5 it is not yet reflective false judgment by an ego-subject. It marks reversal at the structural level of the body-perception field.
+
+```text
+viparyaya here:
+    not merely a logical flip
+    not yet reflective false cognition
+    but structural reversal in kāya-saṃjñā configuration
+```
+
+Thus Error is present at the level of the Law of Appearance:
+
+```text
+Error as structural reversal
+    before
+Error as explicit false judgment
+```
+
+This also preserves the Yoga connection without importing the full Yoga epistemic doctrine too early.
 
 ### ārūpin
 
@@ -317,6 +363,15 @@ Formlessness:
 
 So the world is not only a location or destiny. It is also a structured configuration of embodiment and perception.
 
+The revised logical point:
+
+```text
+Perception is not added to body externally.
+Perception is conditioned through embodiment.
+```
+
+Thus the Law of Appearance already includes the possibility of structural reversal/error in the way body and perception are configured.
+
 ---
 
 ## 10. Organon Interpretation
@@ -357,6 +412,26 @@ The Agent appears with feature-bearing configuration:
 
 This is not a moral command. It is the Law of Appearance as a structured feature-space.
 
+The added point is embodiment:
+
+```text
+The Agent’s semantic dataset is not merely conceptual.
+It is embodied.
+
+A change in bodily substrate can change the feature-space of recognition.
+```
+
+So **viparyaya** remains Error, but at this level Error is not yet an explicit judgment such as “this is a cat” when it is not. It is a structural reversal or distortion in the embodied appearance-field.
+
+```text
+Law of Appearance
+    includes lawful conditions of perception
+    includes bodily alteration of perception
+    includes structural reversal/error
+```
+
+This prepares the later distinction between perception, knowledge-station, and karmic carrying.
+
 ---
 
 ## 11. OWL++ Seed
@@ -364,6 +439,7 @@ This is not a moral command. It is the Law of Appearance as a structured feature
 ```turtle
 @prefix vak:   <http://127.0.0.1:3000/vak#> .
 @prefix loka:  <http://127.0.0.1:3000/loka#> .
+@prefix abhi:  <http://127.0.0.1:3000/abhidharma#> .
 @prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix owl:   <http://www.w3.org/2002/07/owl#> .
 @prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
@@ -381,7 +457,8 @@ loka:BodyConfiguration
 
 loka:PerceptionConfiguration
     a owl:Class ;
-    rdfs:label "Perception-configuration" .
+    rdfs:label "Perception-configuration" ;
+    rdfs:comment "Embodied recognitional perception; conditioned by kāya." .
 
 loka:NanaKaya
     a loka:BodyConfiguration ;
@@ -407,6 +484,19 @@ loka:hasPerceptionConfiguration
     a owl:ObjectProperty ;
     rdfs:label "has perception-configuration" .
 
+loka:conditionsPerception
+    a owl:ObjectProperty ;
+    rdfs:label "conditions perception" ;
+    rdfs:comment "Relation by which bodily configuration conditions recognitional perception." .
+
+loka:BodyConfiguration
+    loka:conditionsPerception loka:PerceptionConfiguration .
+
+abhi:Viparyaya
+    a owl:Class ;
+    rdfs:label "Viparyaya / reversal-error" ;
+    rdfs:comment "Structural reversal or error in the body-perception configuration; not yet reflective false judgment." .
+
 loka:BodyPerceptionClass
     a owl:Class ;
     rdfs:label "Body/perception class" ;
@@ -427,10 +517,11 @@ VAK_3a.05
 Analyze VAkK_3.5 as the construction of the classes later named as seven vijñāna-sthiti.
 Preserve the verse-by-verse format.
 Parse the verse as a body/perception feature matrix plus three formless classes.
-Introduce kāya as body-configuration and saṃjñā as perception-configuration.
-Read viparyaya here as reversal/inversion generating the complementary matrix cases.
-Determine World as body/perception configuration.
-Seed OWL++ classes for BodyConfiguration, PerceptionConfiguration, and related feature values.
+Introduce kāya as body-configuration and saṃjñā as embodied perception/recognitional marking.
+Correct viparyaya: it remains reversal/error, but here operates as structural reversal in the kāya-saṃjñā field rather than reflective false judgment.
+Add bodily alteration of perception as an example: disease, pain, intoxication, neurological condition, or exhaustion can alter the appearance-field.
+Determine World as body/perception configuration with lawful possibility of structural reversal.
+Seed OWL++ classes for BodyConfiguration, PerceptionConfiguration, Viparyaya, and related feature values.
 ```
 
 ## Working Summary
@@ -446,8 +537,10 @@ It does this through:
 
 The result is a semantic feature matrix:
     kāya      body-configuration
-    saṃjñā    perception-configuration
+    saṃjñā    embodied perception / recognitional marking
+    viparyaya structural reversal-error
     ārūpin    formless class
 
 World now appears as configured embodiment and perception.
+Perception is conditioned by body; bodily alteration can alter the appearance-field.
 ```
