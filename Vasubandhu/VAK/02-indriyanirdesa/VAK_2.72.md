@@ -14,14 +14,28 @@ vipākajairyāpathikaśailpasthānikanairmitam /
 caturdhāvyākṛtaṃ kāme rūpe śilpavivarjitam // VAkK_2.72 //
 ```
 
-## 3. Literal Translation
+## 3. Padaccheda
+
+| Text | Padaccheda | Basic Sense |
+|---|---|---|
+| vipākajaiḥ | vipākajaiḥ | maturation-born |
+| īryāpathika | īryāpathika | activity-related |
+| śailpasthānika | śailpasthānika | craft-based |
+| nairmitam | nairmitam | constructed |
+| caturdhā | caturdhā | fourfold |
+| vyākṛtam | vyākṛtam | divided, determined |
+| kāme | kāme | in the desire realm |
+| rūpe | rūpe | in the form realm |
+| śilpavivarjitam | śilpa-vivarjitam | excluding craft-based |
+
+## 4. Literal Translation
 
 ```text
 In the desire realm, the indeterminate is fourfold: maturation-born, activity-related, craft-based, and constructed.
 In the form realm, it is without the craft-based class.
 ```
 
-## 4. Philosophical Translation
+## 5. Philosophical Translation
 
 ```text
 Indeterminate citta is itself subdivided by functional source.
@@ -29,7 +43,7 @@ In the desire realm it has four profiles: maturation-born, activity-related, cra
 In the form realm the craft-based class is excluded.
 ```
 
-## 5. Technical Vocabulary
+## 6. Technical Vocabulary
 
 | Sanskrit | Working Translation | Note |
 |---|---|---|
@@ -42,7 +56,7 @@ In the form realm the craft-based class is excluded.
 | rūpa | form realm | Realm-status |
 | śilpa-vivarjita | excluding craft | Form-realm exclusion |
 
-## 6. Logical Determination
+## 7. Logical Determination
 
 ```text
 DesireRealmAvyakrta:
@@ -57,7 +71,7 @@ FormRealmAvyakrta:
 
 This is functional subdivision of neutral citta.
 
-## 7. Organon Interpretation
+## 8. Organon Interpretation
 
 ```text
 AvyakrtaCittaProfile:
@@ -68,7 +82,7 @@ AvyakrtaCittaProfile:
 
 Neutrality is therefore not featurelessness; it has operational source-types.
 
-## 8. Commit History
+## 9. Commit History
 
 ```text
 VAK_2.72 opened.

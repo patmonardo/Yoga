@@ -14,14 +14,28 @@ cittacaittā acaramā utpannāḥ samanantaraḥ /
 ālambanaṃ sarvadharmāḥ kāraṇākhyo 'dhipaḥ smṛtaḥ // VAkK_2.62 //
 ```
 
-## 3. Literal Translation
+## 3. Padaccheda
+
+| Text | Padaccheda | Basic Sense |
+|---|---|---|
+| cittacaittāḥ | citta-caittāḥ | citta and caittas |
+| acaramāḥ | acaramāḥ | not final, not last |
+| utpannāḥ | utpannāḥ | arisen |
+| samanantaraḥ | samanantaraḥ | immediately antecedent |
+| ālambanaṃ | ālambanam | object-support |
+| sarvadharmāḥ | sarva-dharmāḥ | all dharmas |
+| kāraṇākhyaḥ | kāraṇa-ākhyaḥ | called kāraṇa |
+| adhipaḥ | adhipaḥ | dominant condition |
+| smṛtaḥ | smṛtaḥ | remembered, said |
+
+## 4. Literal Translation
 
 ```text
 Citta and caittas, arisen and not final, are the immediately antecedent condition.
 All dharmas are object-support. What is called kāraṇa is remembered as the dominant condition.
 ```
 
-## 4. Philosophical Translation
+## 5. Philosophical Translation
 
 ```text
 The four conditions are defined.
@@ -30,7 +44,7 @@ All dharmas can serve as object-support.
 The kāraṇa ground is recast as dominant condition.
 ```
 
-## 5. Technical Vocabulary
+## 6. Technical Vocabulary
 
 | Sanskrit | Working Translation | Note |
 |---|---|---|
@@ -42,7 +56,7 @@ The kāraṇa ground is recast as dominant condition.
 | kāraṇa | conditioning ground | Recast here as dominant condition |
 | adhipati | dominant condition | Governing/dominant condition |
 
-## 6. Logical Determination
+## 7. Logical Determination
 
 VAK_2.62 defines the condition-types:
 
@@ -70,7 +84,7 @@ dominant condition
     -> enabling force
 ```
 
-## 7. Relation to Yoga Sūtra IV.11
+## 8. Relation to Yoga Sūtra IV.11
 
 This verse directly illuminates:
 
@@ -80,7 +94,7 @@ hetu-phala-āśraya-ālambana
 
 Here `ālambana` is no longer vague objecthood. It is a formal condition-type.
 
-## 8. Organon Interpretation
+## 9. Organon Interpretation
 
 ```text
 ConditionTypes:
@@ -98,7 +112,7 @@ an event requires:
     dominant enabling condition
 ```
 
-## 9. OWL++ Seed
+## 10. OWL++ Seed
 
 ```turtle
 @prefix vak: <http://organon.dev/abhidharma/vak/> .
@@ -113,7 +127,7 @@ vak:AdhipatiPratyaya a vak:Pratyaya ;
     vak:relatedHetu vak:KaranaHetu .
 ```
 
-## 10. Commit History
+## 11. Commit History
 
 ```text
 VAK_2.62 opened.

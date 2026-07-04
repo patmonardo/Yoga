@@ -14,21 +14,42 @@ nava cittāni tat ṣaṇṇāṃ nivṛtāt sapta tat tathā /
 caturbhyaḥ śaikṣam asmāt tu pañca aśaikṣaṃ tu pañcakāt // VAkK_2.70 //
 ```
 
-## 3. Literal Translation
+## 3. Padaccheda
+
+| Text | Padaccheda | Basic Sense |
+|---|---|---|
+| nava | nava | nine |
+| cittāni | cittāni | cittas |
+| tat | tat | that |
+| ṣaṇṇām | ṣaṇṇām | of six |
+| nivṛtāt | nivṛtāt | from the obscured |
+| sapta | sapta | seven |
+| tat | tat | that |
+| tathā | tathā | likewise |
+| caturbhyaḥ | caturbhyaḥ | from four |
+| śaikṣam | śaikṣam | trainee |
+| asmāt | asmāt | from this |
+| tu | tu | but |
+| pañca | pañca | five |
+| aśaikṣam | aśaikṣam | non-trainee |
+| tu | tu | but |
+| pañcakāt | pañcakāt | from five |
+
+## 4. Literal Translation
 
 ```text
 Nine cittas; that from six. From the obscured, seven; that likewise.
 The trainee arises from four; from this, five. The non-trainee from five.
 ```
 
-## 4. Philosophical Translation
+## 5. Philosophical Translation
 
 ```text
 The transition matrix reaches the outflow-free path classes.
 Trainee and non-trainee cittas have distinct source and successor profiles, completing the transition from ordinary realm-bound citta to path-status citta.
 ```
 
-## 5. Technical Vocabulary
+## 6. Technical Vocabulary
 
 | Sanskrit | Working Translation | Note |
 |---|---|---|
@@ -41,7 +62,7 @@ Trainee and non-trainee cittas have distinct source and successor profiles, comp
 | pañca | five | Count-profile |
 | pañcaka | set of five | Count-profile |
 
-## 6. Logical Determination
+## 7. Logical Determination
 
 ```text
 PathCittaTransitionMatrix:
@@ -52,7 +73,7 @@ PathCittaTransitionMatrix:
 
 The matrix now includes path-transitions, not merely realm-transitions.
 
-## 7. Organon Interpretation
+## 8. Organon Interpretation
 
 ```text
 PathCittaTransition:
@@ -63,7 +84,7 @@ PathCittaTransition:
 
 This is where the objective arising matrix touches liberation-status.
 
-## 8. Commit History
+## 9. Commit History
 
 ```text
 VAK_2.70 opened.

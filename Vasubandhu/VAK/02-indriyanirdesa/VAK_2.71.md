@@ -14,20 +14,36 @@ tasmāc catvāri cittāni dvādaśaitāni viṃśatiḥ /
 prāyogikopapattyāptaṃ śubhaṃ bhittvā triṣu dvidhā // VAkK_2.71 //
 ```
 
-## 3. Literal Translation
+## 3. Padaccheda
+
+| Text | Padaccheda | Basic Sense |
+|---|---|---|
+| tasmāt | tasmāt | from that |
+| catvāri | catvāri | four |
+| cittāni | cittāni | cittas |
+| dvādaśa | dvādaśa | twelve |
+| etāni | etāni | these |
+| viṃśatiḥ | viṃśatiḥ | twenty |
+| prāyogika-upapatty-āptam | prāyogika-upapatty-āptam | practice-acquired and rebirth-acquired |
+| śubham | śubham | wholesome |
+| bhittvā | bhittvā | having divided |
+| triṣu | triṣu | in the three |
+| dvidhā | dvidhā | twofold |
+
+## 4. Literal Translation
 
 ```text
 From that, four cittas. These are twelve; twenty when the wholesome is divided in the three realms into practice-acquired and rebirth-acquired.
 ```
 
-## 4. Philosophical Translation
+## 5. Philosophical Translation
 
 ```text
 The citta matrix is summarized and expanded.
 The basic twelvefold citta classification becomes twentyfold when wholesome citta in the three realms is divided into practice-acquired and rebirth-acquired types.
 ```
 
-## 5. Technical Vocabulary
+## 6. Technical Vocabulary
 
 | Sanskrit | Working Translation | Note |
 |---|---|---|
@@ -40,7 +56,7 @@ The basic twelvefold citta classification becomes twentyfold when wholesome citt
 | triṣu | in the three | Three realms |
 | dvidhā | twofold | Twofold split |
 
-## 6. Logical Determination
+## 7. Logical Determination
 
 ```text
 BasicCittaMatrix:
@@ -55,7 +71,7 @@ ExpandedCittaMatrix:
 
 This is classification expansion by acquisition-mode.
 
-## 7. Organon Interpretation
+## 8. Organon Interpretation
 
 ```text
 CittaClassExpansion:
@@ -66,7 +82,7 @@ CittaClassExpansion:
 
 The Dataset must permit feature-class refinement without losing the base matrix.
 
-## 8. Commit History
+## 9. Commit History
 
 ```text
 VAK_2.71 opened.

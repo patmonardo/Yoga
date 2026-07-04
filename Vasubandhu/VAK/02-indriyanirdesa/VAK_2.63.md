@@ -14,14 +14,31 @@ nirudhyamāne kāritraṃ dvau hetū kurutaḥ trayaḥ /
 jāyamāne tato 'nyau tu pratyayau tadviparyayāt // VAkK_2.63 //
 ```
 
-## 3. Literal Translation
+## 3. Padaccheda
+
+| Text | Padaccheda | Basic Sense |
+|---|---|---|
+| nirudhyamāne | nirudhyamāne | while ceasing |
+| kāritram | kāritram | activity, function |
+| dvau | dvau | two |
+| hetū | hetū | grounds |
+| kurutaḥ | kurutaḥ | do, perform |
+| trayaḥ | trayaḥ | three |
+| jāyamāne | jāyamāne | while arising |
+| tato | tataḥ | from that |
+| anyau | anyau | the other two |
+| tu | tu | but |
+| pratyayau | pratyayau | conditions |
+| tadviparyayāt | tad-viparyayāt | from the reverse of that |
+
+## 4. Literal Translation
 
 ```text
 When cessation is occurring, two grounds perform activity; three do so.
 When arising is occurring, the other two conditions are the reverse of that.
 ```
 
-## 4. Philosophical Translation
+## 5. Philosophical Translation
 
 ```text
 Causal and conditional activity is temporally specified.
@@ -29,7 +46,7 @@ Some grounds perform their function at the moment of cessation, while other cond
 The engine is therefore not merely a list of causes and conditions, but a time-indexed operation-system.
 ```
 
-## 5. Technical Vocabulary
+## 6. Technical Vocabulary
 
 | Sanskrit | Working Translation | Note |
 |---|---|---|
@@ -40,7 +57,7 @@ The engine is therefore not merely a list of causes and conditions, but a time-i
 | pratyaya | condition | Condition-type |
 | viparyaya | reverse / converse | Opposite temporal relation |
 
-## 6. Logical Determination
+## 7. Logical Determination
 
 VAK_2.63 gives timing rules.
 
@@ -62,7 +79,7 @@ This is objective factual temporality:
 arising and perishing are governed by phase-specific operations.
 ```
 
-## 7. Relation to Objective Logic
+## 8. Relation to Objective Logic
 
 This is the harsh Objective Logic the chapter is unfolding:
 
@@ -72,7 +89,7 @@ not intention,
 but the factual timing of ground and condition.
 ```
 
-## 8. Organon Interpretation
+## 9. Organon Interpretation
 
 ```text
 TemporalOperationRule:
@@ -83,7 +100,7 @@ TemporalOperationRule:
 
 Dataset transformations require phase-sensitive operators.
 
-## 9. Commit History
+## 10. Commit History
 
 ```text
 VAK_2.63 opened.

@@ -14,14 +14,30 @@ varttamānāḥ phalaṃ pañca gṛṇhanti dvau prayacchataḥ /
 varttamānābhyatītau dvau eko 'tītaḥ prayacchati // VAkK_2.59 //
 ```
 
-## 3. Literal Translation
+## 3. Padaccheda
+
+| Text | Padaccheda | Basic Sense |
+|---|---|---|
+| varttamānāḥ | varttamānāḥ | present ones |
+| phalaṃ | phalaṃ | fruit |
+| pañca | pañca | five |
+| gṛṇhanti | gṛṇhanti | take, receive |
+| dvau | dvau | two |
+| prayacchataḥ | prayacchataḥ | give, produce |
+| varttamānābhyatītau | varttamāna-abhyatītau | present and past |
+| dvau | dvau | two |
+| ekaḥ | ekaḥ | one |
+| atītaḥ | atītaḥ | past |
+| prayacchati | prayacchati | gives, produces |
+
+## 4. Literal Translation
 
 ```text
 Present ones, five, take fruit; two give fruit.
 Two, present and past, give; one past gives.
 ```
 
-## 4. Philosophical Translation
+## 5. Philosophical Translation
 
 ```text
 The hetu-phala engine is temporally constrained.
@@ -29,7 +45,7 @@ Different ground-types take and give results according to present and past statu
 Fruit-production is therefore governed by temporal position, not by an abstract causal relation alone.
 ```
 
-## 5. Technical Vocabulary
+## 6. Technical Vocabulary
 
 | Sanskrit | Working Translation | Note |
 |---|---|---|
@@ -41,7 +57,7 @@ Fruit-production is therefore governed by temporal position, not by an abstract 
 | dvau | two | Two hetus in specific giving relation |
 | eka | one | One hetu in past relation |
 
-## 6. Logical Determination
+## 7. Logical Determination
 
 VAK_2.59 gives temporal operation rules.
 
@@ -60,7 +76,7 @@ which ground can give fruit?
 at what temporal status?
 ```
 
-## 7. Organon Interpretation
+## 8. Organon Interpretation
 
 ```text
 TemporalGroundRule:
@@ -71,7 +87,7 @@ TemporalGroundRule:
 
 The Dataset requires time-indexed ground-result transitions.
 
-## 8. Commit History
+## 9. Commit History
 
 ```text
 VAK_2.59 opened.

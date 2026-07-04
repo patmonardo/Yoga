@@ -14,21 +14,39 @@ kliṣṭe traidhātuke lābhaḥ ṣaṇṇāṃ ṣaṇṇāṃ dvayoḥ śubh
 trayāṇāṃ rūpaje śaikṣe caturṇāṃ tasya śeṣite // VAkK_2.73 //
 ```
 
-## 3. Literal Translation
+## 3. Padaccheda
+
+| Text | Padaccheda | Basic Sense |
+|---|---|---|
+| kliṣṭe | kliṣṭe | in the afflicted |
+| traidhātuke | traidhātuke | across the three realms |
+| lābhaḥ | lābhaḥ | acquisition |
+| ṣaṇṇām | ṣaṇṇām | of six |
+| ṣaṇṇām | ṣaṇṇām | of six |
+| dvayoḥ | dvayoḥ | of two |
+| śubhe | śubhe | in the wholesome |
+| trayāṇām | trayāṇām | of three |
+| rūpaje | rūpaje | in the form-born |
+| śaikṣe | śaikṣe | in the trainee |
+| caturṇām | caturṇām | of four |
+| tasya | tasya | of that |
+| śeṣite | śeṣite | in the remaining, residual |
+
+## 4. Literal Translation
 
 ```text
 In the afflicted across the three realms there is acquisition of six and six; in the wholesome, of two.
 In the form-born, of three; in the trainee, of four; in the remaining of that, likewise to be determined.
 ```
 
-## 4. Philosophical Translation
+## 5. Philosophical Translation
 
 ```text
 The chapter closes with an acquisition matrix.
 Different citta/status classes acquire different sets of associated or relevant factors across the three realms, form-born status, trainee status, and remaining classifications.
 ```
 
-## 5. Technical Vocabulary
+## 6. Technical Vocabulary
 
 | Sanskrit | Working Translation | Note |
 |---|---|---|
@@ -41,7 +59,7 @@ Different citta/status classes acquire different sets of associated or relevant 
 | śaikṣa | trainee / learner | Path-status |
 | śeṣita | remaining | Residual class; exact scope to verify |
 
-## 6. Logical Determination
+## 7. Logical Determination
 
 VAK_2.73 closes the chapter by returning to acquisition.
 
@@ -56,7 +74,7 @@ AcquisitionMatrix:
 
 The chapter thus ends where the structural-operator block had focused: with lawful acquisition profiles.
 
-## 7. Organon Interpretation
+## 8. Organon Interpretation
 
 ```text
 FinalAcquisitionProfile:
@@ -68,7 +86,7 @@ FinalAcquisitionProfile:
 
 This closes the Indriyanirdeśa feature logic by linking citta-status, realm, path-status, and prāpti/lābha.
 
-## 8. Chapter-Level Closing Note
+## 9. Chapter-Level Closing Note
 
 Indriyanirdeśa has now unfolded:
 
@@ -97,7 +115,7 @@ Arising Matrix
 
 This is the first complete Feature Logic of conditioned experience.
 
-## 9. Commit History
+## 10. Commit History
 
 ```text
 VAK_2.73 opened.

@@ -14,21 +14,38 @@ pañcabhyo 'nivṛtaṃ tasmāt sapta cittāny anantaram /
 rūpe daśaikaṃ ca śubhāt navabhyas tadanantaram // VAkK_2.68 //
 ```
 
-## 3. Literal Translation
+## 3. Padaccheda
+
+| Text | Padaccheda | Basic Sense |
+|---|---|---|
+| pañcabhyaḥ | pañcabhyaḥ | from five |
+| anivṛtam | anivṛtam | unobscured |
+| tasmāt | tasmāt | from that |
+| sapta | sapta | seven |
+| cittāni | cittāni | cittas |
+| anantaram | anantaram | immediately after |
+| rūpe | rūpe | in the form realm |
+| daśaikam | daśa-ekam | eleven |
+| ca | ca | and |
+| śubhāt | śubhāt | from wholesome |
+| navabhyaḥ | navabhyaḥ | from nine |
+| tadanantaram | tad-anantaram | immediately after that |
+
+## 4. Literal Translation
 
 ```text
 The unobscured arises from five; from that, seven cittas immediately follow.
 In the form realm, from wholesome, eleven; immediately after that, from nine.
 ```
 
-## 4. Philosophical Translation
+## 5. Philosophical Translation
 
 ```text
 The desire-realm matrix completes the unobscured profile and shifts into the form-realm sequence.
 Unobscured citta has its own source and successor count; form-realm wholesome citta begins a higher-realm transition matrix.
 ```
 
-## 5. Technical Vocabulary
+## 6. Technical Vocabulary
 
 | Sanskrit | Working Translation | Note |
 |---|---|---|
@@ -41,7 +58,7 @@ Unobscured citta has its own source and successor count; form-realm wholesome ci
 | daśaikam | eleven | Count-profile |
 | navabhyaḥ | from nine | Source-count profile |
 
-## 6. Logical Determination
+## 7. Logical Determination
 
 ```text
 DesireRealm:
@@ -55,7 +72,7 @@ FormRealm:
 
 This is continuation of the citta-transition matrix.
 
-## 7. Organon Interpretation
+## 8. Organon Interpretation
 
 ```text
 CittaTransitionMatrix:
@@ -65,7 +82,7 @@ CittaTransitionMatrix:
     successorCount
 ```
 
-## 8. Commit History
+## 9. Commit History
 
 ```text
 VAK_2.68 opened.

@@ -14,7 +14,21 @@ kuśalākuśalaṃ kāme nivṛtānivṛtaṃ manaḥ /
 rūpārūpyeṣv akuśalād anyatra anāsravaṃ dvidhā // VAkK_2.66 //
 ```
 
-## 3. Literal Translation
+## 3. Padaccheda
+
+| Text | Padaccheda | Basic Sense |
+|---|---|---|
+| kuśalākuśalam | kuśala-akuśalam | wholesome and unwholesome |
+| kāme | kāme | in the desire realm |
+| nivṛtānivṛtam | nivṛta-anivṛtam | obscured and unobscured |
+| manaḥ | manaḥ | mind |
+| rūpārūpyeṣu | rūpa-ārūpyeṣu | in the form and formless realms |
+| akuśalāt | akuśalāt | than unwholesome |
+| anyatra | anyatra | elsewhere, apart from |
+| anāsravaṃ | anāsravam | outflow-free |
+| dvidhā | dvidhā | twofold |
+
+## 4. Literal Translation
 
 ```text
 In the desire realm, mind is wholesome, unwholesome, obscured, and unobscured.
@@ -22,14 +36,14 @@ In the form and formless realms it is otherwise than unwholesome.
 The outflow-free is twofold.
 ```
 
-## 4. Philosophical Translation
+## 5. Philosophical Translation
 
 ```text
 The citta arising-matrix begins by classifying mind according to realm and moral/status profile.
 Desire-realm mind has four statuses; form and formless mind exclude the unwholesome; outflow-free mind has a twofold path profile.
 ```
 
-## 5. Technical Vocabulary
+## 6. Technical Vocabulary
 
 | Sanskrit | Working Translation | Note |
 |---|---|---|
@@ -44,7 +58,7 @@ Desire-realm mind has four statuses; form and formless mind exclude the unwholes
 | anāsrava | outflow-free | Pure/path status |
 | dvidhā | twofold | Likely śaikṣa/aśaikṣa; verify with Bhāṣya |
 
-## 6. Logical Determination
+## 7. Logical Determination
 
 ```text
 CittaStatusMatrix:
@@ -55,7 +69,7 @@ CittaStatusMatrix:
 
 This establishes the status-classes used in the following arising-count verses.
 
-## 7. Organon Interpretation
+## 8. Organon Interpretation
 
 ```text
 CittaClass:
@@ -68,7 +82,7 @@ CittaClass:
 
 This is the classification header for the final arising matrix.
 
-## 8. Commit History
+## 9. Commit History
 
 ```text
 VAK_2.66 opened.

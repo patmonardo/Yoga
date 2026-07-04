@@ -14,21 +14,38 @@ dvidhā bhūtāni taddhetuḥ bhautikasya tu pañcadhā /
 tridhā bhautikam anyonyaṃ bhūtānām ekadhaiva tat // VAkK_2.65 //
 ```
 
-## 3. Literal Translation
+## 3. Padaccheda
+
+| Text | Padaccheda | Basic Sense |
+|---|---|---|
+| dvidhā | dvidhā | twofold |
+| bhūtāni | bhūtāni | elements |
+| taddhetuḥ | tat-hetuḥ | its ground, cause |
+| bhautikasya | bhautikasya | of the derived-material |
+| tu | tu | but |
+| pañcadhā | pañcadhā | fivefold |
+| tridhā | tridhā | threefold |
+| bhautikam | bhautikam | derived-material |
+| anyonyaṃ | anyonyam | mutually, one another |
+| bhūtānām | bhūtānām | of the elements |
+| ekadhaiva | ekadhā eva | only onefold |
+| tat | tat | that |
+
+## 4. Literal Translation
 
 ```text
 The elements are twofold as ground of that. For the derived-material it is fivefold.
 Derived-material is threefold in relation to one another; for the elements it is only onefold.
 ```
 
-## 4. Philosophical Translation
+## 5. Philosophical Translation
 
 ```text
 The arising matrix begins with materiality.
 Great elements and derived materiality stand in distinct ground-relations: elements ground material derivatives in one way, derivatives relate to each other in another, and derived materiality has a different relation back to the elements.
 ```
 
-## 5. Technical Vocabulary
+## 6. Technical Vocabulary
 
 | Sanskrit | Working Translation | Note |
 |---|---|---|
@@ -41,7 +58,7 @@ Great elements and derived materiality stand in distinct ground-relations: eleme
 | anyonya | mutual / one another | Reciprocal relation |
 | ekadhā | onefold | Single relation-profile |
 
-## 6. Logical Determination
+## 7. Logical Determination
 
 VAK_2.65 begins the final Arising Matrix.
 
@@ -54,7 +71,7 @@ MaterialArisingMatrix:
 
 The verse is a count-rule for material ground-relations.
 
-## 7. Organon Interpretation
+## 8. Organon Interpretation
 
 ```text
 MaterialDependencyProfile:
@@ -65,7 +82,7 @@ MaterialDependencyProfile:
 
 This applies the Objective Logic of ground to material feature-frames.
 
-## 8. Commit History
+## 9. Commit History
 
 ```text
 VAK_2.65 opened.

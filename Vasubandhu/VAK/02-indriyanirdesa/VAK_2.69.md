@@ -14,21 +14,41 @@ aṣṭābhyo nivṛtaṃ tasmāt ṣaṭ tribhyo 'nivṛtaṃ punaḥ /
 tasmāt ṣaṭ evam ārūpye tasya nītiḥ śubhāt punaḥ // VAkK_2.69 //
 ```
 
-## 3. Literal Translation
+## 3. Padaccheda
+
+| Text | Padaccheda | Basic Sense |
+|---|---|---|
+| aṣṭābhyaḥ | aṣṭābhyaḥ | from eight |
+| nivṛtam | nivṛtam | obscured |
+| tasmāt | tasmāt | from that |
+| ṣaṭ | ṣaṭ | six |
+| tribhyaḥ | tribhyaḥ | from three |
+| anivṛtam | anivṛtam | unobscured |
+| punaḥ | punaḥ | again |
+| tasmāt | tasmāt | from that |
+| ṣaṭ | ṣaṭ | six |
+| evam | evam | thus |
+| ārūpye | ārūpye | in the formless realm |
+| tasya | tasya | of that |
+| nītiḥ | nītiḥ | rule, method |
+| śubhāt | śubhāt | from wholesome |
+| punaḥ | punaḥ | again |
+
+## 4. Literal Translation
 
 ```text
 The obscured arises from eight; from that, six. The unobscured again from three;
 from that, six. Thus in the formless realm; its rule again from the wholesome.
 ```
 
-## 4. Philosophical Translation
+## 5. Philosophical Translation
 
 ```text
 The form-realm transition matrix continues and then the same style of rule is extended to the formless realm.
 Obscured and unobscured citta-types each receive source and successor counts, showing that even higher-realm mental events are governed by a formal succession-rule.
 ```
 
-## 5. Technical Vocabulary
+## 6. Technical Vocabulary
 
 | Sanskrit | Working Translation | Note |
 |---|---|---|
@@ -41,7 +61,7 @@ Obscured and unobscured citta-types each receive source and successor counts, sh
 | nīti | rule / method | Applied transition-rule |
 | śubha | wholesome | Wholesome status |
 
-## 6. Logical Determination
+## 7. Logical Determination
 
 ```text
 FormRealm:
@@ -56,7 +76,7 @@ FormlessRealm:
 
 Technical count mechanics are provisional pending Bhāṣya review.
 
-## 7. Organon Interpretation
+## 8. Organon Interpretation
 
 ```text
 HigherRealmCittaTransition:
@@ -65,7 +85,7 @@ HigherRealmCittaTransition:
     transitionCountProfile
 ```
 
-## 8. Commit History
+## 9. Commit History
 
 ```text
 VAK_2.69 opened.
