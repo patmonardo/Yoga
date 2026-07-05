@@ -49,6 +49,19 @@ avidyā / vidyā
 
 The first pass is not final commentary. It builds the field by walking it.
 
+## VAK_3 Thread Structure
+
+Keep Chapter 3, Lokanirdeśa, to four working threads only:
+
+```text
+VAK_3a
+VAK_3b
+VAK_3c
+VAK_3d
+```
+
+The point is not tiny perfect blocks. The point is steady first-pass coverage. Today's work showed that 20+ verses can be handled in one focused session, so each thread can carry a larger field.
+
 ## Completed First-Pass Kārikā Files
 
 ### VAK_3a / VAK_3b — Lokanirdeśa, first human-experience block
@@ -131,7 +144,7 @@ inner conditioned human-experience world
     → larger world-container / cosmological field
 ```
 
-## Estimated Remaining Lokanirdeśa Blocks
+## Simplified Remaining Lokanirdeśa Projection
 
 Source range remaining in Chapter 3:
 
@@ -145,83 +158,60 @@ Estimated remaining count:
 58 kārikās
 ```
 
-Provisional block plan for VAK_3c and following threads:
+Use only two remaining threads for the rest of Chapter 3:
 
-### VAK_3c — Container-World Foundations
+### VAK_3c — Container-World and Desire-World Cosmology
+
+Projected range:
 
 ```text
-3.45–3.52
+VAkK_3.45–VAkK_3.72
+```
+
+Estimated count:
+
+```text
+28 verses
 ```
 
 Topic estimate:
 
 ```text
-vāyumaṇḍala
-jala-maṇḍala
-kāñcana-maṇḍala
+bhājanaloka
+vāyumaṇḍala / jala-maṇḍala / kāñcana-maṇḍala
 Meru
-mountains
-seas
-world-structure foundations
-```
-
-Count:
-
-```text
-8 verses
-```
-
-### VAK_3d — Continents, Hells, Sun/Moon, Time-of-Day
-
-```text
-3.53–3.62
-```
-
-Topic estimate:
-
-```text
-Jambūdvīpa and other continents
-intermediate islands
-lakes / geography
+mountains and seas
+continents and intermediate islands
 hells
-sun/moon motion
+sun and moon
 day/night and seasonal variation
-```
-
-Count:
-
-```text
-10 verses
-```
-
-### VAK_3e — Deva-Worlds and Desire-World Modes
-
-```text
-3.63–3.72
-```
-
-Topic estimate:
-
-```text
 heavenly measures
 Mahārājika and Trāyastriṃśa gods
 Sudarśana city
-gardens / assembly places
 desire-realm sexuality and birth modes
-higher happy births / dhyāna-levels
-limits of perception between levels
+higher happy births and dhyāna-level transitions
 ```
 
-Count:
+Working determination:
 
 ```text
-10 verses
+world as container
+    → cosmological field
+        → desire-world organization
 ```
 
-### VAK_3f — Larger World-Systems, Heights, Lifespans
+### VAK_3d — World-Systems, Measures, Kalpas, Decline, Dissolution
+
+Projected range:
 
 ```text
-3.73–3.84
+VAkK_3.73–VAkK_3.102
+```
+
+Estimated count:
+
+```text
+30 verses
 ```
 
 Topic estimate:
@@ -229,27 +219,9 @@ Topic estimate:
 ```text
 thousand-world systems
 trisāhasra-mahāsāhasra structure
-realm heights / measures
-lifespans in desire, form, and lower destinies
-hell lifespans
-preta and animal measures
-```
-
-Count:
-
-```text
-12 verses
-```
-
-### VAK_3g — Measures, Kalpas, Buddhas, Kings
-
-```text
-3.85–3.96
-```
-
-Topic estimate:
-
-```text
+realm heights
+lifespans
+hell, preta, and animal measures
 spatial measures
 atomic and gross measures
 time measures
@@ -257,23 +229,6 @@ kalpa types
 vivarta / saṃvarta cycles
 Buddhas / pratyekabuddhas
 cakravartins
-```
-
-Count:
-
-```text
-12 verses
-```
-
-### VAK_3h — Decline, Destruction, Cosmic Dissolution
-
-```text
-3.97–3.102
-```
-
-Topic estimate:
-
-```text
 early beings and decline
 karmapatha increase
 lifespan decline
@@ -281,10 +236,13 @@ fire / water / wind destructions
 cosmic dissolution cycles
 ```
 
-Count:
+Working determination:
 
 ```text
-6 verses
+world as system
+    → measures and time
+        → karmic decline
+            → destruction and renewal
 ```
 
 ## Work Rhythm
@@ -303,6 +261,12 @@ Today's demonstrated pace:
 
 ```text
 about 20+ kārikās in a skilled morning session
+```
+
+Because of this, projected threads should be broad:
+
+```text
+one thread can carry 20–30 verses
 ```
 
 ### Bhāṣya Pass
