@@ -100,35 +100,39 @@ The Bhāṣya pass should verify the preferred reading and any editorial discuss
 
 ## 6. Philosophical translation
 
-> The single anuśaya called `view` is internally differentiated into five determinate modes: appropriation of the aggregate-complex as self or belonging to self; false denial or distortion; fixation upon an extreme; attachment to a view precisely as superior or authoritative; and attachment to disciplines or observances as intrinsically sufficient. Once `dṛṣṭi` is unfolded into these five species, the previously stated six anuśayas are recalculated as ten.
+> The single anuśaya called `view` is internally differentiated into five determinate modes: appropriation of the aggregate-complex as self or belonging to self; false denial or distortion; fixation upon an extreme; attachment to a view precisely as superior or authoritative; and attachment to disciplines or observances as intrinsically sufficient. Once `dṛṣṭi` is unfolded into these five species, the originally stated six anuśayas are alternatively recalculated as ten.
 
-The verse therefore performs a second internal differentiation:
+The opening verses therefore offer distinct enumerative unfoldings of the original six:
 
 ```text
 5.1
-    six anuśayas
+    six principal anuśayas
 
 5.2
-    rāga divided
+    divide rāga into two
         six → seven
 
 5.3
-    dṛṣṭi divided into five
-        seven → ten
+    return to the original six
+    and divide dṛṣṭi into five
+        six - one + five = ten
 ```
 
-The arithmetic is:
+Thus the sevenfold and tenfold counts are not cumulative.
+
+They are alternative differentiations of the sixfold root classification:
 
 ```text
-seven
-    minus the undivided member dṛṣṭi
-    plus its five species
-    = eleven
+sixfold system
+    differentiated by rāga
+        → seven
+
+sixfold system
+    differentiated by dṛṣṭi
+        → ten
 ```
 
-But the chapter's conventional count at this point is stated as ten. This means the exact relation between the sixfold, sevenfold, and tenfold enumerations must be handled carefully rather than reconstructed casually from arithmetic alone. The kārikā clearly states the five views and the renewed count of ten; the Bhāṣya must supply the precise classificatory reconciliation.
-
-This is a deliberate point of openness for the later VAKB pass.
+The exact doctrinal relation among these enumerations remains a proper subject for the Bhāṣya pass, but the arithmetic of the kārikā is already determinate.
 
 ---
 
@@ -387,7 +391,7 @@ What precisely does satkāya mean?
 Which denials define mithyā-dṛṣṭi?
 Which extremes define antagraha-dṛṣṭi?
 What is the grammatical and doctrinal force of parāmarśa?
-How exactly does the fivefold division yield the renewed count of ten?
+How are the five views distributed through the later abandonment scheme?
 ```
 
 These are not defects in the first-pass study. They mark the point where the encyclopedic kārikā presupposes its Bhāṣya.
@@ -441,6 +445,6 @@ vak:FiveViews
 VAkK_5.03
     first-pass kārikā analysis
     fivefold division of dṛṣṭi
-    renewed tenfold anuśaya classification
+    alternative tenfold anuśaya classification
     Bhāṣya questions explicitly preserved
 ```
