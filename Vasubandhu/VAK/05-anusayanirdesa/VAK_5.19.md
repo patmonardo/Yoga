@@ -23,7 +23,7 @@ saha ābhyām
 ca
 mohaḥ
 śeṣāḥ
-तु
+tu
 iha
 aśubhāḥ
 ```
