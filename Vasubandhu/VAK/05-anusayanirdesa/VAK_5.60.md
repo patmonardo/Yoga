@@ -1,226 +1,168 @@
-# VAkK 5.60
+# VAK 5.60
 
 ## Sanskrit
-
-### Devanāgarī
 
 आलम्बनपरिज्ञानात् तदालम्बनसंक्षयात् ।
 आलम्बनप्रहाणाच्च प्रतिपक्षोदयात् क्षयः ॥ ५.६० ॥
 
-### IAST
+## IAST
 
 ālambana-parijñānāt tad-ālambana-saṃkṣayāt |
+
 ālambana-prahāṇāc ca pratipakṣodayāt kṣayaḥ || 5.60 ||
 
-## Provisional translation
+## Padaccheda
 
-Destruction occurs through complete knowledge of the object, through the destruction of what takes that as its object, through abandonment of the object, and through the arising of the counteragent.
+| Pada | Form | Grammar | Working sense |
+|---|---|---|---|
+| ālambana-parijñānāt | ālambana-parijñāna | ablative singular, neuter | from complete knowledge of the object-support |
+| tad-ālambana-saṃkṣayāt | tad-ālambana-saṃkṣaya | ablative singular, masculine | from the exhaustion of that which has it as object-support |
+| ālambana-prahāṇāt | ālambana-prahāṇa | ablative singular, neuter | from abandonment of the object-support |
+| ca | ca | indeclinable | and |
+| pratipakṣa-udayāt | pratipakṣodaya | ablative singular, masculine | from the arising of the counteragent |
+| kṣayaḥ | kṣaya | nominative singular, masculine | exhaustion; destruction |
 
-## Padaccheda and terms
+## Grammar
 
-- **ālambana-parijñānāt** — through complete knowledge (*parijñāna*) of the object or cognitive support (*ālambana*)
-- **tad-ālambana-saṃkṣayāt** — through the complete destruction of that which takes it as its object
-- **ālambana-prahāṇāt** — through abandonment of the object
-- **ca** — and
-- **pratipakṣa-udayāt** — through the arising of the counteragent, antidote, or opposing factor
-- **kṣayaḥ** — destruction, exhaustion, cessation
+The verse is governed by the nominative subject `kṣayaḥ`.
 
-## Structural analysis
-
-The verse opens the final movement of the chapter by asking not what an anuśaya is, but how its effective destruction occurs.
-
-The answer is fourfold:
-
-1. **the object is completely known**;
-2. **the afflictive complex directed toward that object is exhausted**;
-3. **the object that sustains the affliction is abandoned**;
-4. **the opposing factor arises**.
-
-The sequence therefore moves from cognition to relation, from relation to removal, and from removal to positive counteraction.
+Four ablative compounds state the grounds or conditions from which exhaustion occurs:
 
 ```text
-parijñāna
-    complete knowledge of the object
+ālambana-parijñānāt
 
-saṃkṣaya
-    exhaustion of what takes it as object
+tad-ālambana-saṃkṣayāt
 
-prahāṇa
-    abandonment of the sustaining object
+ālambana-prahāṇāt
 
-pratipakṣodaya
-    arising of the counteragent
+pratipakṣodayāt
 ```
 
-## Parijñā is not bare recognition
+The verse does not itself say that these are four successive temporal stages. Grammatically, they are four distinct ablative grounds of `kṣaya`.
 
-The first cause is **ālambana-parijñāna**: complete knowledge of the object.
-
-This is stronger than merely noticing or naming the object. The prefix **pari-** indicates a cognition that comprehends the object adequately and from all relevant sides. Such knowledge destroys the possibility of maintaining the former afflicted determination unchanged.
-
-Thus:
+The compound `tad-ālambana` is relational:
 
 ```text
-mere contact with the object
-    does not destroy affliction
+tat
+    that
 
-adequate comprehension of the object
-    undermines the afflicted relation
+ālambana
+    object-support
 ```
 
-The verse therefore confirms the priority of *darśana* already visible earlier in the chapter. Affliction is not removed simply by suppressing a feeling; its object and the manner in which that object is determined must be known.
+It therefore indicates something whose object-support is “that.” Its exact doctrinal referent must be recovered from the Bhāṣya.
 
-## The object and what takes it as object
+## Literal Translation
 
-The second member, **tad-ālambana-saṃkṣaya**, distinguishes the object from the afflicted factors that take that object as their field.
+Exhaustion occurs from complete knowledge of the object-support, from the exhaustion of that which has it as object-support, from abandonment of the object-support, and from the arising of the counteragent.
 
-This preserves the relational structure developed in 5.17–5.18:
+## Philosophical Translation
+
+An afflicted determination is exhausted in four ways: when its object-support is completely known; when the determinations directed toward that support are exhausted; when the support itself is abandoned; and when the contrary determination arises.
+
+## Technical Vocabulary
+
+### ālambana
 
 ```text
 ālambana
-    the objective pole
-
-ālambaka / tad-ālambana
-    that which takes the object
+    = object-support
 ```
 
-Destruction is therefore not reducible to alteration of an isolated mental item. The entire object-directed afflictive relation must be exhausted.
+The term preserves the objective relation of a cognition or affliction. It should not be reduced either to an external object alone or to a merely subjective representation.
 
-A provisional reading is:
+### parijñāna
 
 ```text
-object
-    ↕
-afflicted cognition directed toward it
-
-kṣaya
-    requires dissolution of this relation
+pari-jñāna
+    complete or comprehensive knowing
 ```
 
-The exact grammatical and doctrinal scope of **tad-ālambana** must be fixed from the Bhāṣya.
+At this point the verse uses `parijñāna`, not yet the later technical enumeration of the `parijñā` attainments. The relation between them remains open.
 
-## Abandonment of the object
-
-The third cause is **ālambana-prahāṇa**.
-
-This does not necessarily mean that an external entity is annihilated. In Abhidharma usage, the relevant object may be a conditioned basis, a class of dharmas, or an appropriated support upon which an affliction depends.
-
-The point is functional:
+### saṃkṣaya
 
 ```text
-while the sustaining basis remains appropriated
-    the corresponding affliction can recur
-
-when that basis is abandoned
-    the affliction loses its support
+sam-kṣaya
+    complete exhaustion
 ```
 
-Thus abandonment concerns the practical severance of dependence, not merely a theoretical judgment.
+The prefix intensifies `kṣaya`. The verse distinguishes the exhaustion of an afflictive determination from the abandonment of its object-support.
 
-## Positive counteraction
-
-The fourth cause is **pratipakṣodaya**, the arising of the counteragent.
-
-This is the most explicitly positive moment of the verse. Destruction is not complete through absence alone. A contrary determination must arise.
+### prahāṇa
 
 ```text
-ignorance
-    opposed by knowledge
-
-false seeing
-    opposed by right seeing
-
-attachment
-    opposed by non-attachment
-
-an afflicted mode
-    opposed by its appropriate pratipakṣa
+prahāṇa
+    abandonment
 ```
 
-The Kośa therefore does not present liberation as an empty disappearance. It is a determinate transformation produced by an effective contrary.
+This is a determinate path-operation, not simple disappearance.
 
-## Dialectical determination
-
-The verse gives a four-stage dialectic of abandonment:
+### pratipakṣa
 
 ```text
-1. cognition
-   the object is adequately known
-
-2. relational dissolution
-   what takes that object afflictively is exhausted
-
-3. practical separation
-   the sustaining object is abandoned
-
-4. positive replacement
-   the counteragent arises
+pratipakṣa
+    counteragent
+    opposing determination
 ```
 
-This may be expressed more compactly as:
+Verse 5.61 immediately takes up its classification.
+
+## Logical Determination
+
+The verse distinguishes four relations involved in exhaustion:
 
 ```text
-truth of the object
-    → dissolution of the false relation
-    → severance of its support
-    → actuality of the contrary
+knowledge of the object-support
+
+exhaustion of what takes it as object-support
+
+abandonment of the object-support
+
+arising of the counteragent
 ```
 
-The decisive point is that **kṣaya** is mediated. It is not an unexplained vanishing of a kleśa. It has intelligible conditions.
+The first-pass determination is therefore not a speculative four-stage dialectic. It is a fourfold analysis of the grounds of `kṣaya`.
 
-## Scientific significance
-
-VAkK 5.60 supplies a causal schema for the destruction of affliction:
+The most important distinction is:
 
 ```text
-object-knowledge
-relation-exhaustion
-support-abandonment
-counteragent-arising
-    ↓
-kṣaya
+object-support
+    ≠
+what takes that object-support
 ```
 
-This is already more than moral exhortation. It is a theory of transformation specifying:
-
-- what must be known;
-- what relation must cease;
-- what support must be relinquished;
-- what contrary must become actual.
-
-## Relation to the chapter
-
-The chapter began by identifying the anuśayas as the roots of continued existence. It now turns toward their destruction.
+and also:
 
 ```text
-5.01
-anuśayas as roots of bhava
-
-5.02–5.59
-classification, operation, objects, conjunctions, and secondary forms
-
-5.60
-conditions of kṣaya
+exhaustion
+    ≠
+abandonment
+    ≠
+arising of the counteragent
 ```
 
-The final ten verses therefore begin not with a list but with a general law of abandonment.
+The kārikā thus preserves a differentiated science of removal.
 
-## Questions reserved for the Bhāṣya pass
+## Organon Interpretation
 
-1. What precisely is the referent of **tad-ālambana**?
-2. Which kinds of kleśa are destroyed by each of the four causes?
-3. Does **ālambana-prahāṇa** mean abandonment of a conditioned object, abandonment of an object-class, or abandonment of appropriation toward it?
-4. How does this fourfold account map onto abandonment through seeing and abandonment through cultivation?
-5. Is **pratipakṣa** here a general opposing factor or a technically classified set of four counteragents introduced in 5.61?
-6. Does **parijñāna** here anticipate the later technical doctrine of **parijñā**?
-
-## Core determination
+Restrained Organon formulation:
 
 ```text
-Affliction is destroyed
-not by simple negation,
-but through adequate knowledge,
-dissolution of its objective relation,
-abandonment of its support,
-and the arising of a determinate counteragent.
+A determination is not removed in only one way.
+
+Its objective support,
+its object-directed relation,
+and its contrary
+must be distinguished.
 ```
+
+This is enough for the kārikā pass. The exact allocation of the four grounds belongs to the Bhāṣya pass.
+
+## Bhāṣya Questions
+
+1. What precisely is the referent of `tad-ālambana`?
+2. Which afflictions are exhausted through each of the four grounds?
+3. Does `ālambana-prahāṇa` mean abandonment of an object-class, abandonment of appropriation, or another technical relation?
+4. Are the four ablatives alternatives, coordinated conditions, or path-moments assigned to distinct cases?
+5. How does 5.60 prepare the fourfold `pratipakṣa` of 5.61?
