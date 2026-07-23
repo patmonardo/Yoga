@@ -1,4 +1,4 @@
-# VAkK_7.01 — Knowledge, View, and Acceptance
+# VAK_7.01 — Knowledge, View, and Acceptance
 
 ## Sanskrit
 
