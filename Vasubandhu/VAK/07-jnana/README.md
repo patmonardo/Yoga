@@ -4,7 +4,7 @@
 
 ```text
 Repository: patmonardo/Yoga
-Folder:     Vasubandhu/VAK/07-jnananirdesa/
+Folder:     Vasubandhu/VAK/07-jnana/
 Source:     Sources/vakobhku.txt
 Range:      VAkK_7.1–VAkK_7.56
 ```
