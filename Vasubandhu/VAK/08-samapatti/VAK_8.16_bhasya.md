@@ -1,0 +1,271 @@
+# VAK_8.16 — Bhāṣya
+
+## Kārikā
+
+> kliṣṭāt svaṃ śuddhakaṃ kliṣṭam evaṃ cādharaśuddhakam /
+> cyutau tu śuddhakāt kliṣṭaṃ sarvaṃ kliṣṭāt tu nottaram // VAK_8.16 //
+
+**Best current translation:**  
+After a defiled attainment, there may arise a pure or defiled attainment of the same level, and likewise a lower pure attainment. At death, however, after a pure attainment any defiled state may arise; after a defiled attainment, not one belonging to a higher level.
+
+**Kārikā analysis:** [`VAK_8.16.md`](./VAK_8.16.md)
+
+## Bhāṣya Source
+
+Pradhan 444|09–445|02.
+
+```text
+[444|09]
+     kliṣṭāt svaṃ śuddhakaṃ kliṣṭaṃ
+
+[444|10]
+kliṣṭātsamāpattidravyādanantaraṃ svabhūmike śuddhakakliṣṭe utpadyete /
+
+[444|11]
+     evaṃ cādharaśuddhakam /
+
+[444|12]
+kleśotpīḍito hyadharamapi samāpattiṃ śuddhakaṃ bahu manyate /
+
+[444|12-444|13]
+yadi kliṣṭaṃ paricchidyādhaḥ saṃcarati /
+
+[444|13]
+kuśalātsaṃcarito bhavati na kliṣṭāt /
+athāparicchidya kathaṃ saṃcarati /
+
+[444|14-444|15]
+pūrvāvedhāt pūrvaṃ hi sa evaṅkāmo bhavati varamadhastāt śuddhakaṃ nopariṣṭāt kliṣṭamiti /
+
+[444|15]
+pūrvābhiprāyaṃ ca saṃtatiranuvartate sattvānām /
+
+[444|15-444|16]
+praṇidhāya suptasyābhipretakālaprabodhavat /
+
+[444|16]
+anāsravaṃ tu kliṣṭādanantaraṃ sarvathā notpadyate /
+
+[444|16-444|17]
+samāpattikālaṃ pratyetaduktam /
+
+[444|17-444|18]
+śuddhakāt kliṣṭācca samanantaraṃ svabhūmikameva kliṣṭamutpadyate nānyabhūmikamiti /
+
+[444|19]
+     cyutau tu śuddhakāt kliṣṭaṃ sarvaṃ
+
+[444|20]
+cyutikāle tu upapattilābhikācchuddhakādanantaraṃ sarvabhūmikaṃ kliṣṭamutpadyate /
+
+[444|21]
+     kliṣṭāttu nottaram // VAkK_8.16 //
+
+[445|01]
+kliṣṭāttu dhyānārūpyādanantaraṃ cyutikāle svādharabhūmikaṃ kliṣṭamutpadyate /
+
+[445|01-445|02]
+nordhvabhūmikam /
+```
+
+## Source Caution
+
+The Bhāṣya itself marks a decisive contextual boundary: the first succession rules concern **samāpatti-time** (`samāpattikāla`), whereas the second half concerns **death-time** (`cyutikāla`). These must not be collapsed into one transition table.
+
+The source also explains a seemingly anomalous downward movement from defiled attainment to a lower pure attainment through a prior intention (`pūrvābhiprāya`) that continues to govern the stream.
+
+## Natural Argument
+
+VAK 8.15 established what can follow pure and uncontaminated attainments. VAK 8.16 completes the succession matrix by asking what may immediately follow a **defiled** attainment.
+
+During meditative succession, two same-level outcomes are possible:
+
+```text
+kliṣṭa on level X
+    → śuddhaka on level X
+    → kliṣṭa on level X
+```
+
+A lower pure attainment may also follow:
+
+```text
+kliṣṭa on level X
+    → śuddhaka on level X-1
+```
+
+Vasubandhu explains why. A practitioner oppressed by the defilements of the present level may value a lower but pure attainment more highly than the present higher but defiled one.
+
+If the practitioner first interrupts the defiled state and then moves downward, the transition proceeds from a wholesome state. If the downward movement appears to occur without such an explicit interruption, Vasubandhu explains it through an earlier impulse or resolve:
+
+```text
+"Better a lower pure attainment
+than a higher defiled one."
+```
+
+That prior intention continues in the stream, like someone who falls asleep after resolving to wake at a particular time and later awakens at the intended time.
+
+One transition is absolutely excluded:
+
+```text
+kliṣṭa
+    ↛ anāsrava
+```
+
+An uncontaminated attainment can never arise immediately after a defiled one.
+
+The Bhāṣya then explicitly says that all of the foregoing rules concern **the time of meditative attainment**.
+
+At death, a different transition law applies. After a pure attainment acquired through rebirth, a defiled state belonging to any rebirth-level may arise, according to the destination of rebirth. But after death from a defiled dhyāna or ārūpya, the subsequent defiled state may belong only to the same or a lower level, never a higher one.
+
+## Argument Reconstruction
+
+```text
+SAMĀPATTI-TIME
+
+kliṣṭa X
+    ├──→ śuddhaka X
+    ├──→ kliṣṭa X
+    └──→ śuddhaka lower
+
+kliṣṭa
+    └──X→ anāsrava
+```
+
+The lower-pure transition is explained genetically:
+
+```text
+present higher state is defiled
+        ↓
+kleśa-pressure
+        ↓
+prior resolve:
+"better lower-pure than higher-defiled"
+        ↓
+continuity of intention in the stream
+        ↓
+lower pure attainment
+```
+
+At death:
+
+```text
+DEATH-TIME
+
+upapattilābhika śuddhaka
+    → kliṣṭa of any rebirth-level
+
+kliṣṭa dhyāna / ārūpya
+    → kliṣṭa same level
+    → kliṣṭa lower level
+    ↛ kliṣṭa higher level
+```
+
+The important methodological point is that the admissible successor relation depends on **context**. The transition system governing meditative moments is not identical to the transition system governing death and rebirth.
+
+## New Technical Terms
+
+- **pūrvāvedha** — a prior impulse or previously established momentum
+  - **status:** rare in the Kārikās
+  - **function:** causal explanation of a later transition that is not immediately generated by the presently defiled state
+
+- **pūrvābhiprāya** — prior intention or earlier resolve
+  - **status:** Bhāṣya-explicit
+  - **function:** explains continuity of a previously formed preference through the mental stream
+
+- **samāpattikāla** — the time/context of meditative attainment
+  - **status:** absent from the Kārikā
+  - **function:** restricts the scope of the first succession rules
+
+- **cyutikāla** — the time/context of death
+  - **status:** Bhāṣya-explicit
+  - **function:** opens a distinct transition regime governed by rebirth
+
+- **upapattilābhika** — acquired by rebirth
+  - **status:** previously encountered conceptually
+  - **function:** identifies the pure attainment from which death-time rebirth transitions are considered
+
+## Doctrinal Determination
+
+VAK 8.16 completes the immediate-succession analysis by distinguishing **mode**, **level**, and **transition-context**.
+
+First, defilement does not force immediate descent. A defiled attainment can remain on its own level and be followed either by a pure or another defiled attainment of that same ground.
+
+Second, downward movement need not itself be defiled. One can move from a higher defiled state toward a lower pure one. The relevant value-order is therefore not simply:
+
+```text
+higher > lower
+```
+
+but rather:
+
+```text
+lower + pure
+    may be preferable to
+higher + defiled
+```
+
+Third, no direct transition from defiled to uncontaminated attainment is admitted. The path from affliction to anāsrava requires an intervening wholesome determination.
+
+Fourth, death introduces a new causal order. Rebirth-successions cannot simply be inferred from meditative-successions.
+
+## Translation Consequences
+
+The Kārikā should be read with the contextual contrast made explicit:
+
+**During meditative succession:** after a defiled attainment there may arise a pure or defiled attainment of the same level, and also a lower pure attainment.
+
+**At death:** after a rebirth-acquired pure attainment, defiled cognition corresponding to any rebirth-level may arise; after a defiled dhyāna or ārūpya, only a same-level or lower defiled state can follow, not a higher one.
+
+This is more exact than treating `cyutau` as merely another case inside the ordinary samāpatti succession table.
+
+## Logical Determination
+
+The verse adds a new parameter to the transition system:
+
+```text
+state
+    + level
+    + qualitative mode
+    + transition-context
+```
+
+Thus the successor relation is conditional:
+
+```text
+mayFollow(A, B)
+```
+
+is not determined by A and B alone. It also depends upon whether the transition occurs:
+
+```text
+inside samāpatti
+or
+at death/rebirth
+```
+
+The same source state therefore has different admissible outgoing transitions under different conditions.
+
+The prior-intention discussion adds another important temporal structure. A later wholesome transition can be governed by a determination formed earlier rather than by the immediately preceding defiled state itself:
+
+```text
+prior resolve
+    ↓ persists through saṃtati
+later transition
+```
+
+This is a precise case where immediate sequence and causal genesis are not identical.
+
+## Light Organon Contact
+
+The restrained systems observation is that a transition rule cannot be inferred merely from adjacency. The Kośa now distinguishes:
+
+```text
+immediate predecessor
+causal ground
+context of transition
+allowed successor
+```
+
+The example of prior resolve is especially useful: what immediately precedes a state need not be what rationally generates it. A determination established earlier can remain operative through the continuity of the stream.
+
+No stronger reconstruction is required here. The Bhāṣya itself has already supplied a sophisticated conditional transition logic.
