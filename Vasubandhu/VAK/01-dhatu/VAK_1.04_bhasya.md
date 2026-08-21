@@ -461,4 +461,62 @@ anāsrava Path
     conditioned determination whose activity counters recurrence
 ```
 
+### Organon Method Note: Root Division and Genetic Division
+
+The Bhāṣya itself makes a stronger methodological statement than a merely local classification:
+
+> *eṣa sarvadharmāṇāṃ samāsanirdeśaḥ*
+>
+> This is the summary designation of all dharmas.
+
+Textually, this establishes the `sāsrava / anāsrava` division as a comprehensive first articulation of the entire field of dharmas.
+
+The following is a **provisional Organon interpretation**, not a claim that Vasubandhu explicitly formulates a Kantian, Fichtean, or Hegelian method.
+
+If this division is taken seriously as the root division of `sarvadharma`, then subsequent scientific divisions should not be treated as externally juxtaposed taxonomies. They should be sought as further determinations of a field already articulated by the prior division.
+
+```text
+sarvadharmāḥ
+    ↓
+sāsrava | anāsrava
+    ↓
+further determinations within the divided whole
+    ↓
+further division from prior division
+```
+
+This gives a possible Abhidharma analogue to the methodological demand of First Philosophy:
+
+```text
+no imported term
+no merely external juxtaposition
+no later division without a prior determining ground
+
+prior determination
+    → internal differentiation
+    → further determination
+```
+
+The philosophical force is that a science cannot simply place independently given predicates side by side if it is operating at the level of principle. External juxtaposition presupposes that the terms have already been supplied by some field of presentation. In a genetic science, difference must instead arise through the determination of what has already been established.
+
+On this reading, `samāsanirdeśa` is therefore methodologically important: it identifies a first comprehensive articulation from which later divisions can be tested for systematic dependence.
+
+This also changes how the Kośa's many later matrices should be approached. Their scientific value would lie not merely in exhaustive sorting, but in whether they can be reconstructed as subordinate determinations of previously established divisions.
+
+A provisional comparative formula is:
+
+```text
+Fichtean First Philosophy
+    division must be generated from prior determination
+
+Hegelian Logic
+    later determination must exhibit its genesis from the earlier
+
+Kośa, read through the Organon
+    later dharma-division should be tested as further articulation
+    of an already principially divided whole
+```
+
+The comparison is intentionally methodological rather than historical. The text warrants the claim that Vasubandhu presents `sāsrava / anāsrava` as a summary division of all dharmas; the stronger thesis of **genetic division from prior division** is the Organon hypothesis to be tested against the subsequent architecture of the Kośa.
+
 This is only a local contact point. The complete logic of `anuśaya` belongs to the later chapter explicitly cited by Vasubandhu.
