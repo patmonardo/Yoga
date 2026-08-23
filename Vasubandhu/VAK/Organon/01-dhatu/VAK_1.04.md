@@ -60,14 +60,18 @@ An outflow may arise with cessation or Path as its object without either becomin
 
 ## 6. Philosophical Translation
 
-> The first universal division of dharmas concerns their relation to afflictive persistence. A dharma is sāsrava not because affliction can refer to it, but because affliction can lodge and continue within it. The conditioned Path is exceptional because it does not sustain that recurrence.
+> Dharmas are consequential or unconsequential. Conditioned dharmas, apart from the Path, are consequential because outflow settles and continues in them. The Path is conditioned but unconsequential: it brings the consequential series to comprehension without initiating a further unresolved outflow.
+
+Organon rendering:
+
+> A principle is actual only through its consequences. `Sāsrava` names determination with consequence: a dharma in which outflow can settle, persist, and generate a further series. `Anāsrava` names determination without further consequence: not inert or ineffective, but complete, with no unresolved outflow beyond it.
 
 ## 7. Technical Vocabulary
 
 | Sanskrit | Rendering | Determination |
 |---|---|---|
-| sāsrava | with outflows | capable of sustaining their settlement |
-| anāsrava | without outflows | not a lodging of outflows |
+| sāsrava | consequential (lit. with outflows) | capable of sustaining outflow and a further series |
+| anāsrava | unconsequential (lit. without outflows) | complete without a further unresolved outflow |
 | saṃskṛta | conditioned | distinct axis from outflow-status |
 | mārgasatya | Truth of the Path | conditioned yet anāsrava |
 | samanuśayana | settling and continuing within | criterion of sāsravatva |
@@ -83,7 +87,7 @@ Conditioned(Path) ∧ Anāsrava(Path)
 
 ## 9. Interpretive Note
 
-Contamination is not mere objectification by an afflicted cognition. It is a reproductive relation: a field sustains latent affliction. The Path occurs conditionally while countering, rather than housing, that recurrence.
+The inherited account treats outflow as afflictive persistence. The Organon preserves that mechanism but raises it into logical form: outflow is consequence, the reproductive passage of one determination into another. The Path occurs conditionally while comprehending and completing that series rather than housing a further unresolved consequence.
 
 ## 10. OWL++ Seed
 

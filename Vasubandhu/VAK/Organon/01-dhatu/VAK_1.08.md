@@ -35,7 +35,8 @@ The verse identifies the **sāsrava aggregates** as **upādāna-skandhas**:
 
 ```text
 sāsrava skandhas
-    = aggregates of appropriation
+    = consequential aggregates
+    = aggregates of clinging
 ```
 
 The same sāsrava aggregate-field is then named under several doctrinal determinations:
@@ -56,20 +57,20 @@ These are not separate substances. They are different determinations of the appr
 
 ## 6. Philosophical Translation
 
-> The aggregates that are permeated by outflows are the appropriated aggregates. The same field is designated as suffering, origin, world, the seat of views, and becoming.
+> The consequential aggregates are the aggregates of clinging. The same field is suffering, origin, world, the seat of views, and becoming.
 
 Organon rendering:
 
-> When the aggregate-field is taken up by outflow and appropriation, it becomes the world of bondage. It is suffering because it is unstable and appropriated; origin because it generates further becoming; world because it is the field of appearance; view-place because false seeing fixes itself there; becoming because it continues the cycle.
+> When outflow settles in the aggregate-field, the aggregates become consequential: each determination passes into a further determination. Clinging is this fixation of the consequential field as independently subsistent. The field is suffering as unresolved contradiction, origin as the generation of consequence, world as the field of appearance, view-place as fixed cognition, and becoming as the continuation of the series.
 
 ## 7. Technical Vocabulary
 
 | Sanskrit | Project rendering | Note |
 |---|---|---|
-| sāsrava | with outflows | field in which āsrava adheres |
-| upādāna | appropriation / clinging | taking-up as mine/for self |
-| upādānaskandha | aggregate of appropriation | sāsrava aggregate-field |
-| duḥkha | suffering | conditioned appropriation as instability |
+| sāsrava | consequential (lit. with outflows) | field from which a further consequential series proceeds |
+| upādāna | clinging / appropriation | fixation of a determination as independently subsistent |
+| upādānaskandha | aggregate of clinging | consequential aggregate-field |
+| duḥkha | suffering | unresolved contradiction in the consequential field |
 | samudaya | origin | source of further becoming |
 | loka | world | appearance-field of sāsrava aggregates |
 | dṛṣṭisthāna | place of view | support of false or fixed views |
@@ -97,16 +98,16 @@ bhava
 
 ## 9. Interpretive Note
 
-This verse is the first explicit transformation of neutral analysis into path-analysis. The same aggregate-field becomes suffering and world when it is sāsrava and appropriated.
+This verse is the first explicit transformation of neutral analysis into consequential Science. The aggregate-field becomes suffering and world when it is consequential and held in clinging. `Āsrava` is therefore rendered rationally as consequence: the outflow by which a principle develops into a series of determinations.
 
 The point is not that aggregates as such are evil. Rather:
 
 ```text
-aggregate + outflow + appropriation
-    = world of bondage
+aggregate + consequence + clinging
+    = unresolved world-series
 ```
 
-This prepares the later doctrine that seeing does not destroy the real. It removes the false appropriation and view-structure that make the aggregate-field into saṃsāric becoming.
+Seeing does not destroy the consequential field. It dissolves the clinging and fixed view-structure that prevent consequence from being comprehended as the necessary development of its principle. `Anāsrava`, the unconsequential, is consequently not an empty absence: it is the completion of the series without a further unresolved outflow.
 
 ## 10. OWL++ Seed
 
@@ -122,7 +123,6 @@ vak:VAK_1_08
 
 vak:UpadanaSkandha
     a vak:AggregateStatus ;
-    rdfs:label "aggregate of appropriation" ;
+    rdfs:label "aggregate of clinging" ;
     vak:hasDetermination vak:Duhkha , vak:Samudaya , vak:Loka , vak:Drstisthana , vak:Bhava .
 ```
-

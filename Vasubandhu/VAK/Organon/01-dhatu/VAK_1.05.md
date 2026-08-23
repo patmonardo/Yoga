@@ -56,13 +56,13 @@ The names of the two cessations are supplied by the Bhāṣya and defined in 1.0
 
 ## 6. Philosophical Translation
 
-> Freedom from outflows and freedom from conditioning are distinct determinations. The Path is produced through conditions yet does not lodge outflows; the three unconditioned dharmas are likewise anāsrava. Space is defined exactly by non-obstruction of material movement.
+> The unconsequential and the unconditioned are distinct determinations. The Path is conditioned yet unconsequential: it completes the consequential series without producing a further unresolved outflow. The three unconditioned dharmas are likewise unconsequential. Space is defined exactly by non-obstruction of material movement.
 
 ## 7. Technical Vocabulary
 
 | Sanskrit | Rendering | Determination |
 |---|---|---|
-| anāsrava | without outflows | outflows do not settle within it |
+| anāsrava | unconsequential (lit. without outflows) | no further unresolved outflow proceeds from it |
 | mārga-satya | Truth of the Path | conditioned and anāsrava |
 | asaṃskṛta | unconditioned | space and the two cessations |
 | ākāśa | space | non-obstruction |
@@ -86,7 +86,7 @@ Two axes must remain independent:
 
 ## 9. Interpretive Note
 
-The Kośa begins comprehension through intersecting predicates rather than a single metaphysical division. “Conditioned” does not entail “contaminated,” and `anāsrava` does not mean “unconditioned.” The earlier seed's language of an unlimited “opened field” is therefore restricted here to the Bhāṣya's concrete determination of space.
+The Kośa begins comprehension through intersecting predicates rather than a single metaphysical division. “Conditioned” does not entail “consequential,” and `anāsrava` does not mean “unconditioned.” Unconsequential means complete without further unresolved consequence, not sterile or devoid of efficacy. The earlier seed's language of an unlimited “opened field” is therefore restricted here to the Bhāṣya's concrete determination of space.
 
 ## 10. OWL++ Seed
 
