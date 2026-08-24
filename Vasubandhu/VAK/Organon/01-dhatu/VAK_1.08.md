@@ -61,7 +61,7 @@ These are not separate substances. They are different determinations of the appr
 
 Organon rendering:
 
-> When outflow settles in the aggregate-field, the aggregates become consequential: each determination passes into a further determination. Clinging is this fixation of the consequential field as independently subsistent. The field is suffering as unresolved contradiction, origin as the generation of consequence, world as the field of appearance, view-place as fixed cognition, and becoming as the continuation of the series.
+> When outflow settles in the aggregate-field, the aggregates become consequential: each conditioned determination directs understanding to a further condition. Clinging fixes a member of this consequential field as independently subsistent. The field is suffering as unresolved contradiction, origin as the generation of consequence, world as the field of appearance, view-place as fixed cognition, and becoming as the continuation of the series.
 
 ## 7. Technical Vocabulary
 
@@ -98,7 +98,7 @@ bhava
 
 ## 9. Interpretive Note
 
-This verse is the first explicit transformation of neutral analysis into consequential Science. The aggregate-field becomes suffering and world when it is consequential and held in clinging. `Āsrava` is therefore rendered rationally as consequence: the outflow by which a principle develops into a series of determinations.
+This verse is the first explicit transformation of neutral analysis into consequential Science. The aggregate-field becomes suffering and world when it is consequential and held in clinging. `Āsrava` is therefore rendered rationally as consequence: the outflow by which understanding is moved from a conditioned determination to its further condition. The Hegelian development of a principle into its determinations is the systematic completion of this initially Kantian movement.
 
 The point is not that aggregates as such are evil. Rather:
 

@@ -66,6 +66,10 @@ Organon rendering:
 
 > A principle is actual only through its consequences. `Sāsrava` names determination with consequence: a dharma in which outflow can settle, persist, and generate a further series. `Anāsrava` names determination without further consequence: not inert or ineffective, but complete, with no unresolved outflow beyond it.
 
+Kantian determination:
+
+> Outflow is the movement of understanding from a conditioned determination to the further condition on which it depends. A field is consequential while this passage from condition to condition remains open. It is unconsequential when no further uncomprehended condition is demanded beyond the completed series.
+
 ## 7. Technical Vocabulary
 
 | Sanskrit | Rendering | Determination |

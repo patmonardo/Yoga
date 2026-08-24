@@ -74,7 +74,7 @@ The names of the two cessations are supplied by the Bhāṣya and defined in 1.0
 
 Two axes must remain independent:
 
-| Dharma class | Conditioned? | With outflows? |
+| Dharma class | Conditioned? | Consequential (with outflows)? |
 |---|---:|---:|
 | ordinary conditioned dharmas | yes | yes |
 | Path-truth | yes | no |

@@ -146,6 +146,8 @@ Organon rendering:
 
 > The book is not the first meaning of Abhidharma. Abhidharma is stainless prajñā in concrete occurrence. Learning, reflection, cultivation, and śāstra belong to it by their directedness toward that attainment. The Kośa is therefore both a containment of Abhidharma in meaning and an extraction from Abhidharma as source.
 
+> In rational terms, the path-prajñā is consequential: it moves through conditioned determinations toward stainless prajñā. Stainless prajñā is unconsequential, not because it is inert, but because the movement has no further uncomprehended condition beyond it.
+
 ## 7. Technical Vocabulary
 
 ### Kārikā terms

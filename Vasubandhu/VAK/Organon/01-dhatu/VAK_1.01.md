@@ -24,7 +24,7 @@
 | ujjahāra | ujjahāra | lifted up, raised out |
 | tasmai | tasmai | to him |
 | namaskṛtya | namaskṛtya | having bowed |
-| yathārtha-śāstre | yathārtha-śāstre | in / with respect to the teaching according to reality |
+| yathārtha-śāstre | yathārtha-śāstṛ | to the teacher according to reality / teacher of reality (dative singular) |
 | śāstram | śāstram | treatise, teaching |
 | pravakṣyāmi | pravakṣyāmi | I shall proclaim |
 | abhidharmakośam | abhidharma-kośam | Treasury of Abhidharma |
@@ -48,7 +48,7 @@ The Buddha is described by two acts:
    he raised the world from the mire of saṃsāra
 ```
 
-After bowing to him, Vasubandhu announces the work:
+The dative `yathārtha-śāstre` stands in apposition to `tasmai`: homage is offered to him as the teacher of reality. After bowing to that teacher, Vasubandhu announces the work:
 
 ```text
 śāstraṃ pravakṣyāmi abhidharmakośam
@@ -57,11 +57,11 @@ After bowing to him, Vasubandhu announces the work:
 
 ## 5. Literal Translation
 
-> Having bowed to him who, with darkness destroyed in every way, raised the world from the mire of saṃsāra, I shall proclaim the treatise, the Abhidharmakośa, in accordance with the teaching of reality.
+> Having bowed to him who, with darkness destroyed in every way, raised the world from the mire of saṃsāra—to the teacher of reality—I shall proclaim the treatise, the Abhidharmakośa.
 
 ## 6. Philosophical Translation
 
-> The work begins by bowing to the one whose ignorance has been wholly extinguished and who raises beings out of saṃsāric entanglement. The Abhidharmakośa is then announced as a śāstra ordered to yathārtha: reality as it is.
+> The work begins by bowing to the one whose ignorance has been wholly extinguished, who raises beings out of saṃsāric entanglement, and who is therefore the teacher according to reality. The Abhidharmakośa is then announced as the śāstra to be proclaimed.
 
 Organon rendering:
 
@@ -74,7 +74,7 @@ Organon rendering:
 | andhakāra | darkness | ignorance / obscuration |
 | saṃsāra-paṅka | mire of saṃsāra | entangled cyclic appearance |
 | jagat | world | beings/world-process caught in saṃsāra |
-| yathārtha | according to reality | reality as it is, not mere appearance |
+| yathārtha-śāstṛ | teacher according to reality | epithet of the Buddha in the dative singular `yathārtha-śāstre` |
 | śāstra | treatise / teaching | principled doctrinal exposition |
 | abhidharmakośa | Treasury of Abhidharma | treasury of Dharma-analysis |
 
