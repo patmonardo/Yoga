@@ -1,0 +1,40 @@
+This is a sample translation and transliteration we are producing.
+We want the Roman Transliteration mixed in with the corresponding
+Sanskrit Translation. I provide the original text already
+broken into lines of semantic units.
+
+Continuing with the translation of Hegel's text into Sanskrit, along with the Roman transliteration:
+
+Sanskrit Translation:
+
+    संकल्पना का निर्धारण स्वयं मूलतः एक संबंध है,
+    Saṅkalpanā kā nirdhāraṇa svayaṃ mūlataḥ eka sambandha hai,
+
+    क्योंकि यह एक सार्वभौमिक है;
+    Kyōṅki yaha eka sārvabhaumika hai;
+
+    इसलिए, वही निर्धारण जो विषय और विधेय प्रत्येक में होते हैं,
+    Isalie, vahī nirdhāraṇa jo viṣaya aura vidheya pratyeka meṃ hote haiṃ,
+
+    उनके संबंध में भी होते हैं।
+    Unake sambandha meṃ bhī hote haiṃ.
+
+    संबंध सार्वभौमिक है,
+    Sambandha sārvabhaumika hai,
+
+    क्योंकि यह दोनों की, विषय और विधेय की, सकारात्मक पहचान है;
+    Kyōṅki yaha donoṃ kī, viṣaya aura vidheya kī, sakārātmaka pahacāna hai;
+
+    लेकिन यह निर्धारित भी है,
+    Lekina yaha nirdhārita bhī hai,
+
+    क्योंकि विधेय की निर्धारितता विषय की निर्धारितता है;
+    Kyōṅki vidheya kī nirdhāritatā viṣaya kī nirdhāritatā hai;
+
+    यह एकवचनीय भी है, क्योंकि इसमें स्वयं-स्थायी चरम सीमाएँ
+    Yaha ekavacanīya bhī hai, kyōṅki isameṃ svayaṃ-sthāyī carama sīmāeṃ
+
+    उनकी नकारात्मक एकता में निष्क्रिय होती हैं।
+    Unakī nakārātmaka ekatā meṃ niṣkriya hotī haiṃ.
+
+In this passage, Hegel describes the determination of the concept as fundamentally a connection because it is universal. Both the subject and the predicate have the same determinations, which are also present in their connection. This connection is universal as it represents the positive identity of both the subject and predicate. However, it is also determinate, as the determinateness of the predicate is the determinateness of the subject. It is singular too because in it, the self-subsisting extremes are sublated in their negative unity. This analysis reflects Hegel's intricate understanding of the interconnectedness and unity of concept, subject, and predicate in the dialectical process. If you have more texts to translate or need further explanations, please let me know!

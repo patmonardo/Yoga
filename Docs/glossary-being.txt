@@ -1,0 +1,77 @@
+| Hegelian Term                         | Sanskrit Translation           |
+|---------------------------------------|-------------------------------|
+| Being-Bound                           | Sat-Bandha                    |
+| Being-Determined                      | Nirupita-Satta                |
+| Being-Determined-for-Itself           | Sva-Nirupita-Satta            |
+| Being-Determined-in-and-for-Itself    | Sva-Para-Nirupita-Satta       |
+| Being-Determined-in-Itself            | Svarupa-Nishthita-Satta       |
+| Being-for-Another                     | Parartha-Satta                |
+| Being-for-Itself                      | Sva-Artha-Satta               |
+| Being-for-One                         | Eka-Artha-Satta               |
+| Being-for-Other                       | Anya-Artha-Satta              |
+| Being-in-and-for-Itself               | Sva-Para-Sankalpita-Satta     |
+| Being-in-It                           | Sva-Vastha-Satta              |
+| Being-in-Itself                       | Svarupa-Satta                 |
+| Being-in-the-Something                | Vishishta-Sthiti-Satta        |
+| Being-Mediated                        | Madhyasta-Niyamita-Satta      |
+| Being-Negated                         | Sat-Nishedha                  |
+| Being-Other                           | Anyatva-Satta                 |
+| Being-Outside-Itself                  | Sat-Bahihsthita               |
+| Being-Outside-One-Another             | Paraspara-Bahihsthita-Satta   |
+| Being-Posited                         | Sat-Nishpanna                 |
+| Being-Reflected-Into-Itself           | Sva-Pratibimbita-Satta        |
+| Being-Reflected-Within-Itself         | Sva-Antar-Pratibimbita-Satta  |
+| Being-That-Is-Posited                 | Nishpanna-Satta               |
+| Being-The-Other-of-Each-Other         | Paraspara-Anyatva-Satta       |
+| Being-Turned-Back-Into-Itself         | Sva-Pratyavartana-Satta       |
+| Being-Within-Itself                   | Sva-Antar-Nihita-Satta        |
+
+1. **Being-Bound**: The state of being confined or limited by certain conditions or determinations.
+
+2. **Being-Determined**: A state of being defined or shaped by specific attributes or conditions.
+
+3. **Being-Determined-for-Itself**: The process of self-determination, where a being defines or constitutes itself independently.
+
+4. **Being-Determined-in-and-for-Itself**: A synthesis of being determined both independently (in itself) and in relation to others or the whole (for itself).
+
+5. **Being-Determined-in-Itself**: Being defined or characterized by its intrinsic nature or essence.
+
+6. **Being-for-Another**: Existing or being perceived in relation to another entity or concept.
+
+7. **Being-for-Itself**: The state of being self-referential or existing independently for its own sake.
+
+8. **Being-for-One**: Existing or being considered for a singular entity or purpose.
+
+9. **Being-for-Other**: Existing in relation to or for the sake of something else.
+
+10. **Being-in-and-for-Itself**: A state that encompasses both independent existence and relational existence.
+
+11. **Being-in-It**: Existing within a certain context or framework.
+
+12. **Being-in-Itself**: Existence as understood in its essential or inherent nature.
+
+13. **Being-in-the-Something**: Existing within a specific entity or concept.
+
+14. **Being-Mediated**: The state of being influenced or conditioned by intermediary factors or processes.
+
+15. **Being-Negated**: The process of being denied, contradicted, or nullified.
+
+16. **Being-Other**: The state of being different or distinct from something else.
+
+17. **Being-Outside-Itself**: Existing or extending beyond its own limits or nature.
+
+18. **Being-Outside-One-Another**: The state of multiple entities existing independently and externally to each other.
+
+19. **Being-Posited**: Being established, asserted, or put forward in a certain way.
+
+20. **Being-Reflected-Into-Itself**: The process of self-reflection or turning back upon itself.
+
+21. **Being-Reflected-Within-Itself**: The state of internal self-reflection or self-examination.
+
+22. **Being-That-Is-Posited**: An entity or concept that has been established or defined in a certain way.
+
+23. **Being-The-Other-of-Each-Other**: The mutual relationship where entities or concepts define themselves in opposition to each other.
+
+24. **Being-Turned-Back-Into-Itself**: The process of returning or reverting to its own nature or essence.
+
+25. **Being-Within-Itself**: The state of containing or encompassing within its own nature or essence.
