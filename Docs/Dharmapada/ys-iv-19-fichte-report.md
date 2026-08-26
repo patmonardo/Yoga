@@ -193,9 +193,9 @@ the attempt to make objectified Citta the principle of its own illumination.
 
 ## Citta does not die
 
-IV.19 is a dangerous place for the Citta-killer. If Citta is not
-self-luminous, one may conclude that it is a dead instrument illuminated by
-an utterly external Puruṣa.
+IV.19 is a dangerous place for any interpretation that seeks to annihilate
+Citta. If Citta is not self-luminous, one may conclude that it is a dead
+instrument illuminated by an utterly external Puruṣa.
 
 But the Sūtra establishes a functional distinction, not necessarily two
 alien substances:
