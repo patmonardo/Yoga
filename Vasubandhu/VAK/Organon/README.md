@@ -22,6 +22,10 @@ Samāpatti.
   translation.
 - Speculative interpretation does not silently enter the primary
   translation.
+- Metaphysical subject-negation is not used as an organizing doctrine or a
+  recurring interpretive disclaimer. Where a source invokes it, register it
+  briefly as an anti-adhyāsa warning, accept its local caution, and proceed to
+  the positive technical determination of the passage.
 - OWL++ seeds are retained as a formal knowledge layer and reviewed only
   after the textual and conceptual analysis.
 - Uncertainty, source problems, and bhāṣya-dependent decisions are marked
@@ -42,4 +46,3 @@ Samāpatti.
 
 The official study begins with `01-dhatu/VAK_1.01.md` and advances in strict
 textual sequence.
-

@@ -119,7 +119,7 @@ distinguished. It concerns what makes that distinction true.
 | samanvaya / samanvāgama | possession / endowment | maintained possession after acquisition; contextual senses such as mastery remain possible |
 | aprāpti | non-acquisition | absence of the acquisition-possession status within its defined domain |
 | svasaṃtāna-patita | belonging to one's own continuum | domain restriction for conditioned dharmas |
-| saṃtāna | continuum | Bhāṣya: conditioned dharmas of the three times ordered through cause and result; not a permanent person |
+| saṃtāna | continuum | Bhāṣya: conditioned dharmas of the three times ordered through cause and result |
 | pratisaṃkhyā-nirodha | cessation through discriminative comprehension | one of the two cessations to which possession-status may apply |
 | apratisaṃkhyā-nirodha | cessation not produced through discriminative comprehension | the other cessation; said in the cited Abhidharma to be possessed by all sentient beings |
 | ākāśa | space | unconditioned but outside both acquisition and non-acquisition according to the Bhāṣya |

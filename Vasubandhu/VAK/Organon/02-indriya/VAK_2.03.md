@@ -92,7 +92,7 @@ a faculty; they are not one undifferentiated purifying power.
 
 Organon rendering:
 
-> The conditioned Agent is not merely equipped to receive objects. Its continuum must persist; its experience acquires affective tendencies; and its practice can be governed toward purification. Indriyanirdeśa identifies the powers exercising command at each of these points. This is an operative Techne of the living and cultivated continuum, not an account of Self.
+> The conditioned Agent is not merely equipped to receive objects. Its continuum must persist; its experience acquires affective tendencies; and its practice can be governed toward purification. Indriyanirdeśa identifies the powers exercising command at each of these points. This is an operative Techne of the living and cultivated continuum.
 
 ## 7. Technical Vocabulary
 
@@ -133,7 +133,6 @@ AlreadyConstituted(LivingContinuum)
 
 LifeFaculty
     ↛ CreatesAggregates
-    ↛ SelfSubstance
 ```
 
 Feeling and affliction must remain distinct:
@@ -191,16 +190,13 @@ ConditioningGovernance   → FiveFeelings
 TransformativeGovernance → FivePathFaculties
 ```
 
-These are determinations of conditioned operation. Their logical articulation
-does not authorize a passage from the governed continuum to Ātman.
+These are determinations of conditioned operation.
 
 ## 9. Interpretive Note
 
-The life-faculty governs `sthiti`, not the creation of life and not an
-indwelling owner of life. Its field is the persistence of the present
-aggregate-continuum as a member of its determinate class. The Kośa thereby
-assigns continuity a functional condition without treating that condition as
-a Self.
+The life-faculty governs `sthiti`, not the creation of life. Its field is the
+persistence of the present aggregate-continuum as a member of its determinate
+class. The Kośa thereby assigns continuity a functional condition.
 
 The account of feeling is exceptionally precise. Pleasure is not attachment,
 pain is not aversion, and neutral feeling is not ignorance. Rather, each
@@ -233,9 +229,8 @@ practical purification
 ```
 
 All four remain operations within conditioned Techne. `Prajñā` here is one
-purificatory faculty among others; it is neither a component of Sāṃkhya
-Buddhi nor a bridge to Ātman. Any attempt to place these conditioned powers
-between Techne and Self would add the very adhyāsa the Organon must prevent.
+purificatory faculty among others, with the specific function of discernment
+within the path.
 
 ## 10. OWL++ Seed
 
@@ -282,6 +277,5 @@ vak:Purification
 organon:ConditionedIndriyaTechne
     organon:models vak:Continuity,
         vak:AffectiveSusceptibility,
-        vak:PathTransformation ;
-    organon:hasNoAuthorityOver organon:Atman .
+        vak:PathTransformation .
 ```

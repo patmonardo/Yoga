@@ -186,7 +186,7 @@ The three teachings correspond in order to three learner profiles:
 
 | Teaching | Primary confusion | Capacity | Preferred extent |
 |---|---|---|---|
-| skandha | mental factors grasped as a unitary self | sharp | brief |
+| skandha | mental factors grasped as one undifferentiated personal unity | sharp | brief |
 | āyatana | form | middling | intermediate |
 | dhātu | both form and mind | weak | extensive |
 

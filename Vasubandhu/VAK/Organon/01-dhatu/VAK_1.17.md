@@ -105,7 +105,7 @@ though another necessary cause for a later cognition is absent.
 
 ## 6. Philosophical Translation
 
-> Mind is not introduced as an enduring entity behind the cognitive series. Cognition itself, upon immediately ceasing, acquires a new relational determination: it becomes the support of possible subsequent mental cognition. The unity of mind is thus articulated through lawful succession rather than substantial identity.
+> Cognition itself, upon immediately ceasing, acquires a new relational determination: it becomes the support of possible subsequent mental cognition. Mind is thereby articulated through lawful succession.
 
 Organon rendering:
 
@@ -208,9 +208,8 @@ system. The result is not a pile of faculties, objects, and cognitions but a
 sixfold relational architecture. Each cognitive field is complete only as a
 triad of support, object, and apprehension.
 
-Manas is the decisive final component because it supplies continuity without
-introducing a permanent mind-substance. The same cognition receives a new
-determination through temporal relation:
+Manas is the decisive final component because it supplies continuity. The same
+cognition receives a new determination through temporal relation:
 
 ```text
 vijñāna
@@ -228,9 +227,8 @@ effect without the remaining causes.
 
 The comparative Sāṃkhya resonance is powerful but controlled. Manas belongs
 to the sattvic articulation of cognition because it mediates and transmits
-determination. Vasubandhu's manas, however, is not simply Sāṃkhya's enduring
-inner organ. It is a functional-temporal status of cognition itself. The
-comparison reveals a common systematic role while preserving doctrinal
+determination. Here it is the functional-temporal status of cognition itself.
+The comparison reveals a common systematic role while preserving doctrinal
 difference.
 
 With this verse the proposed “Buddha Mind” trademark acquires its first

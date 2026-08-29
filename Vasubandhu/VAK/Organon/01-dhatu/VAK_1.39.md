@@ -63,13 +63,11 @@ six knowledge-Domains
 ```
 
 The excluded external six are visible form, sound, smell, taste, tangible
-matter, and Dharma. The Bhāṣya frames its explanation with the doctrinal
-presupposition `ātmany asati`, “if/when no self exists.” It then explains why
-internal/external language nevertheless operates: mind is conventionally
-called self because ego-making (`ahaṃkāra`) rests upon it. The faculties are
-internal through proximity as supports; objects are external through their
-object-function. This explains possible self-superimposition; the present
-classification does not itself demonstrate the nonexistence of Ātman.
+matter, and Dharma. The Bhāṣya opens this explanation with its standard
+anti-adhyāsa warning and then proceeds to the operative point: ego-making
+(`ahaṃkāra`) rests upon mind, so mind receives a conventional first-person
+designation. The faculties are internal through proximity as supports;
+objects are external through their object-function.
 
 The next construction states:
 
@@ -104,24 +102,24 @@ marks actual or assured functional participation across the three times.
 
 ### Bhāṣya-informed translation
 
-> The six faculty-supports and six knowledge-Domains are internal; the six object-Domains are external. On the Bhāṣya's no-self presupposition, internal language remains possible because mind is conventionally designated as self and the faculties stand nearest to it as supports. The Dharma-domain is always functionally participating because every dharma can become an object of mental knowledge. Every other Domain may either participate in its proper operation—past, present, future, or assured—or remain a member of the same kind without exercising that operation.
+> The six faculty-supports and six knowledge-Domains are internal; the six object-Domains are external. Mind receives a conventional first-person designation because ego-making rests upon it, and the faculties stand nearest to it as supports. The Dharma-domain is always functionally participating because every dharma can become an object of mental knowledge. Every other Domain may either participate in its proper operation—past, present, future, or assured—or remain a member of the same kind without exercising that operation.
 
 ## 6. Philosophical Translation
 
-> The Domain-system determines interiority relationally: faculties and knowledges form the internal side because they support or constitute cognition, while their objects form the external side. Its account of mind as the conventional bearer of self-language describes the basis of possible self-superimposition without deciding the ultimate status of Ātman. Membership in a Domain lineage must then be distinguished from participation in its proper work.
+> The Domain-system determines interiority relationally: faculties and knowledges form the internal side because they support or constitute cognition, while their objects form the external side. Ego-making rests upon mind and supplies a conventional first-person designation. Membership in a Domain lineage must then be distinguished from participation in its proper work.
 
 Organon rendering:
 
-> The Principle of the Agent now distinguishes possession of a form from participation in its operation. “Internal” marks the support-and-knowing side of an Agent-continuum; the attribution of selfhood to that side is a further act of superimposition. `Sabhāga` is realized participation among faculty, object, and knowledge. `Tat-sabhāga` preserves the lineage without its proper work becoming actual.
+> The Principle of the Agent now distinguishes possession of a form from participation in its operation. “Internal” marks the support-and-knowing side of an Agent-continuum. `Sabhāga` is realized participation among faculty, object, and knowledge. `Tat-sabhāga` preserves the lineage without its proper work becoming actual.
 
 ## 7. Technical Vocabulary
 
 | Sanskrit | Project rendering | Determination |
 |---|---|---|
-| adhyātmika | internal | proximate to mind as support or belonging to the cognitive side; does not by itself decide the status of Ātman |
+| adhyātmika | internal | proximate to mind as support or belonging to the cognitive side |
 | bāhya | external | standing as one of the six object-Domains |
-| ahaṃkārasanniśraya | basis upon which ego-making rests | reason mind is conventionally designated “self” |
-| upacāra | conventional or figurative designation | explains how mind receives the designation “self” |
+| ahaṃkārasanniśraya | basis upon which ego-making rests | reason mind receives a conventional first-person designation |
+| upacāra | conventional or figurative designation | rule governing that designation |
 | pratyāsanna | proximate / standing nearest | grounds the internality of faculty-supports |
 | sabhāga | functionally participating | performs, has performed, will perform, or is assured to perform its proper operation |
 | tat-sabhāga | corresponding non-participant | shares the kind-nature but does not perform its proper function |
@@ -156,12 +154,8 @@ SupportsMind(x)
 FunctionsAsCognitiveObject(x)
     → External(x)
 
-Internal(x)
-    ↛ EstablishesUltimateStatusOfAtman(x)
-
 EgoMakingRestsUpon(Mind)
-    → ConventionallyDesignated(Mind, Self)
-    → PossibleAtmanAdhyasa(Mind)
+    → ConventionallyFirstPersonDesignated(Mind)
 ```
 
 Functional status is:
@@ -204,26 +198,23 @@ DomainKind(x)
 
 ## 9. Interpretive Note
 
-VAK 1.39 determines the Agent's internal side without possessing the means
-to settle the ultimate status of Ātman. This is not a spatial interior hidden
-behind the body. It is the relational side of supports and knowledges ordered
-around mind. The six object-Domains are external because they stand in
-object-function, not because they belong to a metaphysically alien substance.
+VAK 1.39 determines the Agent's internal side. This is not a spatial interior
+hidden behind the body. It is the relational side of supports and knowledges
+ordered around mind. The six object-Domains are external because they stand
+in object-function.
 
 The Bhāṣya's use of `ahaṃkāra` is exact and limited:
 
 ```text
 ego-making rests upon mind
-    → mind may conventionally be called self
-    → a site of possible Ātman-adhyāsa is identified
+    → mind receives a conventional first-person designation
 ```
 
-The Bhāṣya begins from its Buddhist no-self presupposition, but that
-presupposition is not proved by this classificatory account. The positive
-scientific result is narrower: it identifies mind as the support upon which
-ego-making and self-designation operate. This may later be important for our
-Sāṃkhya comparison, but it should not be converted into an identity between
-Buddhist citta and Sāṃkhya Ahaṃkāra.
+The opening warning is accepted and left behind. The positive scientific
+result identifies mind as the support upon which ego-making and conventional
+first-person designation operate. This may later be important for our
+Sāṃkhya comparison, but Buddhist `citta` and Sāṃkhya `ahaṃkāra` retain their
+distinct systematic positions.
 
 The stronger contribution is `sabhāga`. A Domain is functionally
 participating through its proper operation, and that operation is not an

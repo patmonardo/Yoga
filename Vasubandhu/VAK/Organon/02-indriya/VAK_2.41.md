@@ -247,8 +247,8 @@ non-reflective condition
 citta-caitta cessation
     states its strong local Abhidharma mechanism
 
-Self-realization
-    is not asserted here
+resolution status
+    remains confined to the stated cessation mechanism
 ```
 
 ## 10. OWL++ Seed

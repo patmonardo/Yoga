@@ -118,9 +118,8 @@ wider enabling field
 | prāpyate | is attained | relation used by the Bhāṣya for analytical cessation through Path-force |
 | nirmāṇa-citta | mind of magical creation | cognition generated through the efficacy of meditative cognition |
 
-`Puruṣakāra` must not be used as evidence for an enduring Puruṣa or permanent
-agent. The Bhāṣya explicitly explains it through figurative attribution of
-activity to a dharma.
+`Puruṣakāra` names operative efficacy here. The Bhāṣya explains it through
+figurative attribution of activity to a dharma.
 
 `Apūrva` likewise does not establish absolute novelty. The result is new as
 this conditioned occurrence relative to what has already arisen.
@@ -198,10 +197,9 @@ NOT OrdinaryConditionedProduct(AnalyticalCessation)
 
 ## 9. Interpretive Note
 
-VAK 2.58 makes causal “agency” operational. The source counts as an agent not
-because it owns an enduring self but because the result arises through its
-force. This is exactly the sort of distinction an Agent architecture must
-make:
+VAK 2.58 makes causal “agency” operational. The source counts as an agent
+because the result arises through its force. This is exactly the sort of
+distinction an Agent architecture must make:
 
 ```text
 AgentRole {

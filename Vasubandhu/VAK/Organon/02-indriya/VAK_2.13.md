@@ -141,8 +141,8 @@ technical analogy to preserve the Bhāṣya's instance-sensitive distinctions.
 | nirdoṣa | faultless | Bhāṣya ground for non-abandonment |
 | prakārabheda | distinction of types | Bhāṣya phrase closing the extended classificatory block |
 
-“Not to be abandoned” does not mean causally inert, permanent substance, or
-Self. It marks a technical path-status of faultless faculties.
+“Not to be abandoned” marks a technical path-status of faultless faculties;
+it does not mean causally inert or exempt from analysis.
 
 ## 8. Logical Determination
 

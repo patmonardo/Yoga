@@ -94,7 +94,7 @@ impression that sensory knowledge lacks the immediately past mental support.
 
 Organon rendering:
 
-> The Agent's knowledge-events now acquire a support signature. Sensory knowledge is doubly supported by past mental continuity and present faculty-capacity; mental knowledge is supported by the immediately preceding mind-event. Contact faculties additionally enforce equality at their active material interface. This remains an instrumental science of cognition, not Buddhi or Self-realization.
+> The Agent's knowledge-events now acquire a support signature. Sensory knowledge is doubly supported by past mental continuity and present faculty-capacity; mental knowledge is supported by the immediately preceding mind-event. Contact faculties additionally enforce equality at their active material interface. This is an instrumental science of cognitive succession and support.
 
 ## 7. Technical Vocabulary
 
@@ -225,11 +225,9 @@ material magnitude
     ≠ universal measure of cognition
 ```
 
-The Kośa still lacks Buddhi in the Sāṃkhya–Yoga sense. Its temporal mental
-support and sensory instrumentation do not perform Self-realization, and
-their absence cannot be elevated into realization of void. What the text
-does possess is a precise Agent-side technē of cognitive succession and
-embodied support.
+The Kośa here supplies a precise Agent-side technē of cognitive succession and
+embodied support. Its temporal mental support and sensory instrumentation are
+the positive determinations established by the verse.
 
 That technē will be useful to our Yoga only after Yoga supplies its own
 principles. The present study should therefore retain the Kośa's powerful

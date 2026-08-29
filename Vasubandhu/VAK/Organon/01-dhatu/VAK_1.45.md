@@ -213,10 +213,9 @@ knowledge-Domain
     → event joining the two relations
 ```
 
-The Kośa remains Agent-technē. It has not discovered Sāṃkhya Buddhi,
-Puruṣa, Prakṛti, or Self-realization. Yet its limited science is powerful:
-it determines why cognition varies with its instrument and how one object
-can remain shareable across multiple acts of knowledge.
+The Kośa remains Agent-technē. Its science determines why cognition varies
+with its instrument and how one object can remain shareable across multiple
+acts of knowledge.
 
 For the later Organon Vārttika, this will support a precise Agent model of
 capacity and objectivity. It should not be promoted into Yoga metaphysics or

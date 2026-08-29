@@ -125,7 +125,7 @@ desire:
 
 ## 6. Philosophical Translation
 
-> The end of a continuum is analyzed through the coordinated cessation of its governing faculties, not through the departure of a substantial bearer. Realm and embodied configuration determine the terminal faculty-set. Even the formless continuum ends through a threefold cessation of life, mind, and neutral feeling; form adds the sensory faculties, while desire may add one or both sexual faculties.
+> The end of a continuum is analyzed through the coordinated cessation of its governing faculties. Realm and embodied configuration determine the terminal faculty-set. Even the formless continuum ends through a threefold cessation of life, mind, and neutral feeling; form adds the sensory faculties, while desire may add one or both sexual faculties.
 
 Organon rendering:
 

@@ -203,7 +203,7 @@ Vijnana(c)
     → ObjectIndexed(c)
 
 Vijnana(c)
-    ↛ SelfEnclosedAwareness(c)
+    → ObjectSpecifiedApprehension(c)
 ```
 
 ## 9. Interpretive Note
@@ -213,11 +213,9 @@ spheres, and eighteen domains. The same dharmas are not merely renamed.
 Each system makes a different structure explicit: collection, access, and
 domain articulation.
 
-The definition of vijñāna is decisive. It is not an inward substance or an
-undifferentiated witness. It is apprehension specified by a corresponding
-object-domain. Consequently, the cognitive term and its object are
-distinguishable without first existing as two self-enclosed things that must
-somehow be joined afterward.
+The definition of vijñāna is decisive: it is apprehension specified by a
+corresponding object-domain. The cognitive term and its object are
+distinguishable moments within one correlated structure.
 
 This supplies the disciplined sattvic reading:
 
@@ -240,10 +238,9 @@ domain is not reduced to a gross element, and cognition is not reduced to
 its material support. Dharma maintains their difference while determining
 their reciprocal structure.
 
-We should not yet say that manas coordinates the six cognitions or exists as
-a seventh mental substance. VAK 1.17 gives its exact derivation from the
-immediately past cognition and thereby explains cognitive succession without
-introducing an enduring mind-entity.
+We should not yet say that manas coordinates the six cognitions. VAK 1.17
+gives its exact derivation from the immediately past cognition and thereby
+explains cognitive succession.
 
 ## 10. OWL++ Seed
 

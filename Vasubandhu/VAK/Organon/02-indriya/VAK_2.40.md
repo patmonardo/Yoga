@@ -167,8 +167,8 @@ OR GroundTransition(S, B1, B2)
     → NOT Pṛthagjanatva(S)
 ```
 
-This is a status transition, not a claim that an enduring person-substance
-has been replaced.
+This is a status transition determined by acquisition and non-acquisition
+within the continuum.
 
 Reification produces a second-order requirement:
 

@@ -191,9 +191,7 @@ SeparateFacultyDesignation(x)
     ↛ SeparateSubstance(x)
 ```
 
-This is a logical determination inside the Kośa's Techne. It does not supply
-any predicate concerning Ātman, and applying it between conditioned Techne
-and Self would be adhyāsa.
+This is a logical determination inside the Kośa's Techne.
 
 ## 9. Interpretive Note
 
@@ -214,8 +212,7 @@ shareable object-support.
 
 Mind has the same functional form with a different range. Each sensory
 faculty governs one proper field; mind governs apprehension of all object-
-Domains. “All” does not make mind absolute, universal consciousness, Buddhi,
-or Self. It identifies the complete object-range available to conditioned
+Domains. “All” identifies the complete object-range available to conditioned
 mental apprehension within the Kośa system.
 
 The second half demonstrates why the twenty-two-faculty system cannot be an
@@ -238,10 +235,8 @@ material part
 a distributed conditioned configuration
 ```
 
-Nothing in this analysis qualifies the Kośa to address Ātman. Its entire
-achievement remains inside ordinary Seer–seen: it distinguishes the powers
-that govern conditioned apprehension and embodied configuration. Any use of
-these predicates as a mediation toward Self would be adhyāsa.
+The achievement of this analysis is exact: it distinguishes the powers that
+govern conditioned apprehension and embodied configuration.
 
 ## 10. OWL++ Seed
 
@@ -278,7 +273,5 @@ vak:MaleFaculty
     vak:governs vak:MaleConfiguration .
 
 organon:KosaIndriyaTechne
-    organon:operatesWithin organon:OrdinarySeerSeen ;
-    organon:hasNoPredicateFor organon:Atman ;
-    organon:mustNotMediateTo organon:Self .
+    organon:operatesWithin organon:OrdinarySeerSeen .
 ```

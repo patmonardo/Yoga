@@ -132,7 +132,7 @@ structure.
 | bhojana | food | functional analogue of vedanā |
 | vyañjana | seasoning / differentiating flavor | functional analogue of saṃjñā |
 | kartṛ | maker / cook | functional analogue of saṃskāra |
-| bhoktṛ | enjoyer | functional analogue of vijñāna, without implying a self |
+| bhoktṛ | enjoyer | functional analogue of vijñāna in the Bhāṣya's meal simile |
 | vijñāna-sthiti | station of cognition | structured field in which cognition is established |
 | kṣetra-bīja | field and seed | relation of aggregate-configurations to cognition |
 | bhavāgra | summit of existence | highest formless level, dominated here by formations |

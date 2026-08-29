@@ -157,7 +157,7 @@ UnassociatedPortion(DharmaDhatu)
     → AlwaysWithout(Vitarka, Vicara)
 ```
 
-Self-association is prohibited:
+Association with a second instance of the same factor is prohibited:
 
 ```text
 ¬AssociatedWith(Vitarka, SecondVitarka)

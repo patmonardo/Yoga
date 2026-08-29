@@ -216,8 +216,8 @@ manas
     → no single bodily location
 ```
 
-This does not turn manas into a permanent supersensible substance. VAK 1.17
-already defined it as immediately past cognition functioning as support. The
+VAK 1.17 already defined manas as immediately past cognition functioning as
+support. The
 two determinations belong together: manas is temporally mediating rather than
 anatomically localized.
 

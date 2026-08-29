@@ -95,7 +95,7 @@ the present life.
 
 Organon rendering:
 
-> Indriya now determines the practical succession of knowing within the Kośa's Techne: knowledge as task, knowledge operating through cultivation, and knowledge completed in liberated mind. These faculties govern transformations of the continuum. They do not disclose, define, or mediate to Ātman; their entire scope is the Kośa path and its attained results.
+> Indriya now determines the practical succession of knowing within the Kośa's Techne: knowledge as task, knowledge operating through cultivation, and knowledge completed in liberated mind. These faculties govern transformations of the continuum through the Kośa path and its attained results.
 
 ## 7. Technical Vocabulary
 
@@ -161,16 +161,6 @@ The sequence must not be flattened into grammatical tense alone:
       with distinct abandonment and attainment functions
 ```
 
-Nor does completion entail Self-knowledge:
-
-```text
-CompletedKosaPathKnowledge
-    → LiberatedMindWithinKosaPath
-
-CompletedKosaPathKnowledge
-    ↛ KnowledgeOfAtman
-```
-
 ## 9. Interpretive Note
 
 VAK 2.04 completes the enumeration of twenty-two faculties. The final three
@@ -190,12 +180,9 @@ completed knowing makes possible the present experience of liberation's joy
 and happiness. Knowledge here is measured by the transformation it governs,
 not by the accumulation of propositions.
 
-Still, none of this authorizes a metaphysical promotion. `Ājñātāvin`, “one
-who has known,” names attainment within the Kośa path. It does not name the
-Transcendental Seer, and `parinirvāṇa` in this passage is not a Kośa doctrine
-of Ātman. We can later examine Samāpatti as a form of nondual realization,
-but no category in this verse may be inserted between conditioned Techne and
-Self.
+`Ājñātāvin`, “one who has known,” names completed attainment within this
+ordered path. The Kārikā's positive result is the succession of knowledge as
+task, cultivation, completion, liberated abiding, and parinirvāṇa.
 
 ## 10. OWL++ Seed
 
@@ -225,5 +212,5 @@ vak:FacultyOfOneWhoHasKnown
 
 organon:KosaPathKnowledge
     a organon:ConditionedTechne ;
-    organon:notIdenticalWith organon:KnowledgeOfAtman .
+    organon:culminatesIn vak:FacultyOfOneWhoHasKnown .
 ```

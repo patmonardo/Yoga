@@ -102,7 +102,7 @@ repeat the preceding enumeration.
 
 Organon rendering:
 
-> The first Indriya unit closes by defining the boundary of its SDK. The Kośa includes exactly those governing powers required to constitute, differentiate, sustain, entangle, equip, and purify its ordinary Agent. Other real causal powers remain outside the `indriya` interface because they add no new required position to this architecture. This is functional completeness within Techne, not completeness of reality, Logic, or Self.
+> The first Indriya unit closes by defining the boundary of its SDK. The Kośa includes exactly those governing powers required to constitute, differentiate, sustain, entangle, equip, and purify its ordinary Agent. Other real causal powers remain outside the `indriya` interface because they add no new required position to this architecture. This is functional completeness within Techne.
 
 ## 7. Technical Vocabulary
 
@@ -110,7 +110,7 @@ Organon rendering:
 |---|---|---|
 | citta-āśraya | support of mind | role of the six sensory-and-mental faculties |
 | ṣaḍāyatana | sixfold Sphere-system | concrete basis constituted by the six faculties |
-| maula-sattva-dravya | fundamental real constitution of a living being | Bhāṣya's description of the sixfold basis; not an eternal substance |
+| maula-sattva-dravya | fundamental real constitution of a living being | Bhāṣya's description of the sixfold basis |
 | tad-vikalpa | its differentiation | female and male differentiation of the living basis |
 | sthiti | persistence | governed by the life-faculty |
 | saṃkleśa | defilement | governed through the five feelings |
@@ -251,13 +251,11 @@ They are differently designed classifications.
 
 `Maula-sattva-dravya` also deserves precision. The sixfold Sphere-system is
 the fundamental real constitution of the conventionally designated living
-being within this analysis. `Dravya` gives it real constituent status; it
-does not turn the living being into Ātman or an eternal substance.
+being within this analysis. `Dravya` gives it real constituent status.
 
 The closing boundary is now exact. This is a technically complete faculty-
-interface for the Kośa's conditioned path, not a complete account of Being.
-Its classifications stop where their six modeled functions stop. Projecting
-that closure upward into a doctrine of Self would be adhyāsa.
+interface for the Kośa's conditioned path. Its classifications stop where
+their six modeled functions stop.
 
 ## 10. OWL++ Seed
 
@@ -301,8 +299,5 @@ vak:SexualOrgan
 
 organon:KosaIndriyaInterface
     a organon:FunctionallyCompleteTechne ;
-    organon:completeOnlyFor vak:SixRequiredFunctions ;
-    organon:notCompleteFor organon:Reality,
-        organon:Logic,
-        organon:Self .
+    organon:completeOnlyFor vak:SixRequiredFunctions .
 ```

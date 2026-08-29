@@ -114,7 +114,7 @@ disconnection:
 | vipāka | maturation-result | delayed, individually appropriated, unobscured-indeterminate result of determinate karma |
 | avyākṛta | indeterminate | neither wholesome nor unwholesome as a matured result |
 | anivṛta-avyākṛta | unobscured-indeterminate | full Bhāṣya specification of maturation's ethical status |
-| sattvākhyā | associated with a sentient continuum | belonging to a living series without positing a permanent person |
+| sattvākhyā | associated with a sentient continuum | belonging to the living series for which maturation is specified |
 | vyākṛtodbhava | arisen from what is determinate | generated from wholesome or unwholesome karma |
 | asādhāraṇa | non-common / unshared | individually appropriated result not experienced as another's maturation |
 | sādhāraṇa-karma | common karma | ground of shared results such as a common environment |
@@ -127,8 +127,8 @@ disconnection:
 | dhī | insight / discriminative knowing | wisdom through which the afflictive bond is exhausted |
 | pratisaṃkhyā-nirodha | analytical cessation | disconnection realized through discriminative wisdom |
 
-`Sattvākhyā` is relational and classificatory. It must not be translated as
-though maturation belonged to an eternal self.
+`Sattvākhyā` is relational and classificatory: it identifies the sentient
+continuity in relation to which maturation is specified.
 
 `Dhī` is stronger than ordinary recognition. In this causal definition it
 names knowing that performs the discriminative work through which the bond is

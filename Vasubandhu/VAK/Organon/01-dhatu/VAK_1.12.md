@@ -189,8 +189,8 @@ material stream at location A
     → successive production at location B
 ```
 
-The lamp-flame example therefore analyzes movement as ordered continuation,
-not as the transport of one permanently identical substance.
+The lamp-flame example therefore analyzes movement as ordered continuation
+through successive production.
 
 ## 9. Interpretive Note
 
