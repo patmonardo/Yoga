@@ -64,7 +64,7 @@ vijñapti
 a mode of bodily and verbal karma, but its positive constitution must be
 established by the following units.
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The opening resumes 4.01:
 
@@ -132,7 +132,7 @@ here but continues into VAK 4.03.
 
 ## 5. Translation
 
-### Close syntactic construe
+### Literal Translation
 
 > Those two, however, are manifestation and non-manifestation. Bodily
 > manifestation is held to be configuration, not motion, because the

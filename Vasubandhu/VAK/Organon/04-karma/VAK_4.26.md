@@ -100,7 +100,7 @@ vijñāpana
 The ordinary procedure involves formal notification between persons or by the
 Saṃgha. It is an efficacious disciplinary act, not mere information transfer.
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 **Meditation-born restraint**
 
@@ -144,7 +144,7 @@ The instrumental plural prevents reduction to a single universal ceremony.
 
 ## 5. Translation
 
-### Close syntactic construe
+### Literal Translation
 
 > Meditation-born restraint is acquired only through a dhyāna ground;
 > uncontaminated restraint is acquired through that same ground in its noble

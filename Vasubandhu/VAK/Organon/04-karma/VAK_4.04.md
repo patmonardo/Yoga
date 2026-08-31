@@ -74,7 +74,7 @@ atīta-mahābhūta-jā
     generated from past great material determinations
 ```
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The instrumental plural ending governs the compressed proof-list:
 
@@ -128,7 +128,7 @@ present bodily mahābhūtas
 
 ## 5. Translation
 
-### Close syntactic construe
+### Literal Translation
 
 > [Its existence is argued] from the teaching of threefold and uncontaminated
 > form, from increase, from the action-path of one not personally acting, and

@@ -128,7 +128,7 @@ acquisitions appear to be produced by a mind of a different ethical type. The
 Bhāṣya marks this as requiring an explanation; the simple origination rule
 must not be presented as exceptionless without qualification.
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The first pāda has an understood ethical predicate:
 
@@ -209,7 +209,7 @@ The Bhāṣya identifies them as space and non-analytical cessation.
 
 ## 5. Translation
 
-### Close syntactic construe
+### Literal Translation
 
 > Those joined with them are wholesome through association; actions and the
 > rest are wholesome through their originating condition. The unwholesome is

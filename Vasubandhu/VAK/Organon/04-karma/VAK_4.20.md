@@ -93,7 +93,7 @@ VAK 4.19’s condition `atyāgāt`, “because of non-abandonment,” remains in
 throughout. `Sadā` therefore means continual possession while the restraint
 has not been abandoned, not unconditional eternity.
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 **Non-restraint by anaphora**
 
@@ -142,7 +142,7 @@ restraint are possessed, but no past instance exists.
 
 ## 5. Translation
 
-### Close syntactic construe
+### Literal Translation
 
 > One established in non-restraint is likewise. One possessing meditation
 > restraint is continually endowed with past and future avijñapti. The noble

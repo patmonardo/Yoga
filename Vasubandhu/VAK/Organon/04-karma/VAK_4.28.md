@@ -90,7 +90,7 @@ The restriction concerns adornment productive of vanity or intoxication.
 Habitual adornment is expressly excepted by the Bhāṣya because it does not
 strongly generate `mada`.
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 **Main obligation**
 
@@ -154,7 +154,7 @@ samagra-aṅgaḥ
 
 ## 5. Translation
 
-### Close syntactic construe
+### Literal Translation
 
 > The upavāsa restraint is to be received at sunrise from another, by one
 > positioned deferentially and repeating the words after they are spoken. It

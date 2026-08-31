@@ -81,7 +81,7 @@ vināśaka
 
 The verse contests the need for the second in order to explain the first.
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The opening is elliptical because `vināśa`, destruction, is carried from the
 Bhāṣya argument under VAK 4.02:
@@ -142,7 +142,7 @@ manifestation to the identification of manifest verbal action with sound.
 
 ## 5. Translation
 
-### Close syntactic construe
+### Literal Translation
 
 > For nothing would [destruction] be causeless, and the cause would become a
 > destroyer. [Configuration] would be apprehensible by two [faculties], and it

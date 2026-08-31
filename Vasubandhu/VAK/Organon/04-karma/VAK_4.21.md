@@ -97,7 +97,7 @@ past — present — future
 The two times are past and present. Future possession is not predicated of the
 occasional avijñapti belonging to the middle person here.
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 **The dual subject**
 
@@ -148,7 +148,7 @@ non-abandonment, continues to govern this possession.
 
 ## 5. Translation
 
-### Close syntactic construe
+### Literal Translation
 
 > The concentrated practitioner and the one established in the noble Path are
 > joined with present avijñapti. If one standing in the middle possesses

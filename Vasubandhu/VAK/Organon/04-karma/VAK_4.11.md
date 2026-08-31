@@ -126,7 +126,7 @@ The difficult objection concerning the Path-classification of produced form is
 preserved as an argument. It should not be simplified into a claim that every
 predicate of a cause transfers to its effect.
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The first pāda is a direct predication:
 
@@ -196,7 +196,7 @@ classification of contaminated bodily and verbal action.
 
 ## 5. Translation
 
-### Close syntactic construe
+### Literal Translation
 
 > Cognition to be abandoned by seeing is initiating. Mental cognition to be
 > abandoned by cultivation is, in turn, both; the fivefold [sensory cognition

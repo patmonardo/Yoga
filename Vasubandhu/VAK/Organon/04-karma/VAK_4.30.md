@@ -93,7 +93,7 @@ external classification by an observer.
 `Ukti` is the subsequent statement of the training rules. The Bhāṣya assigns
 it the function of `vyutpādana`, instruction or clarification.
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 **Eligibility for upavāsa**
 
@@ -148,7 +148,7 @@ understand its determinate content.
 
 ## 5. Translation
 
-### Close syntactic construe
+### Literal Translation
 
 > Upavāsa restraint may also arise for another, but not for one who has not
 > gone for refuge. From entering upāsaka status restraint arises; the statement

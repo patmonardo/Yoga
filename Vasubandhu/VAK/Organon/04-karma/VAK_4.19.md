@@ -94,7 +94,7 @@ The kārikā’s `anvita` is explained by `samanvāgata` in the Bhāṣya. “En
 with” names a technical possession-relation between the person’s continuum
 and avijñapti in a specified temporal mode.
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The governing subject is `prātimokṣasthitaḥ`, “one established in
 prātimokṣa.” Its predicate is `anvitaḥ`, “endowed.” Two instrumental phrases
@@ -139,7 +139,7 @@ atyāgāt
 
 ## 5. Translation
 
-### Close syntactic construe
+### Literal Translation
 
 > One established in prātimokṣa restraint is continually endowed with present
 > avijñapti because it has not been abandoned; after the first moment, he is

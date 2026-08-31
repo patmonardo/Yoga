@@ -96,7 +96,7 @@ anutpanna-vijñapti
 
 The Bhāṣya locates the latter case after transition into another birth.
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 **First crossed case**
 
@@ -144,7 +144,7 @@ In either circumstance the noble person remains endowed with avijñapti.
 
 ## 5. Translation
 
-### Close syntactic construe
+### Literal Translation
 
 > A person established in neither restraint nor non-restraint, acting with
 > weak intention, is endowed only with manifestation. A noble person whose

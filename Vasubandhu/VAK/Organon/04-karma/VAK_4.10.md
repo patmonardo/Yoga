@@ -125,7 +125,7 @@ but not every brief objection and response carries an independently marked
 speaker. The uncertainty concerns voice assignment, not the twofold definition
 of `samutthāna`.
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The first sentence is a nominal predication:
 
@@ -191,7 +191,7 @@ contemporaneous origination
     because it follows along during the time of performance
 ```
 
-The relation can therefore be construed without treating the two conditions as
+The relation can therefore be read without treating the two conditions as
 two independent actions:
 
 ```text
@@ -202,7 +202,7 @@ one performed action
 
 ## 5. Translation
 
-### Close syntactic construe
+### Literal Translation
 
 > The originating condition is twofold, designated causal origination and
 > origination in that very moment. Of these two, the first is the initiator;

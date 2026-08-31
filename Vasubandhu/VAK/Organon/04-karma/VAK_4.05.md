@@ -68,7 +68,7 @@ karma belonging to bhūmi X
 materially supported determinations; they are not simply identical with their
 supporting mahābhūtas.
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The first hemistich states the same-level rule:
 
@@ -124,7 +124,7 @@ non-manifest action
 
 ## 5. Translation
 
-### Close syntactic construe
+### Literal Translation
 
 > Contaminated bodily and verbal karma depends upon its own great material
 > determinations. Uncontaminated [bodily and verbal karma depends upon those

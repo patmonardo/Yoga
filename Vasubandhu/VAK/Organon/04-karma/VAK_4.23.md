@@ -100,7 +100,7 @@ As in VAK 4.21, the present is the middle of past and future. Thus
 restates it with `anāgata`, future, and categorically denies possession of
 future vijñapti.
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 **Present production and possession**
 
@@ -147,7 +147,7 @@ arisen manifestation is presently possessed as vijñapti.
 
 ## 5. Translation
 
-### Close syntactic construe
+### Literal Translation
 
 > But now, with vijñapti in turn: all who are acting are endowed with it as
 > present. After the first moment, provided it has not been abandoned, they are

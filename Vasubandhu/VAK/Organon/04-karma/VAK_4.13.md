@@ -77,7 +77,7 @@ as a vague “other.”
 `Prātimokṣa` is retained as a technical term. Its internal divisions begin in
 the following verse.
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The first predication is:
 
@@ -131,7 +131,7 @@ words of the kārikā.
 
 ## 5. Translation
 
-### Close syntactic construe
+### Literal Translation
 
 > Non-manifest action is to be understood as threefold: restraint,
 > non-restraint, and the other. Restraint is that called `prātimokṣa`, that born

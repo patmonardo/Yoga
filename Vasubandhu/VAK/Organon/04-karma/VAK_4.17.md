@@ -89,7 +89,7 @@ Here `citta` is rendered “consciousness.” The predicate is technical: the
 restraint occurs and ceases in dependence upon the corresponding
 consciousness.
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The verse consists of three bearer–restraint constructions followed by a
 dual predication.
@@ -152,7 +152,7 @@ They—not prātimokṣa restraint—are predicated as following consciousness.
 
 ## 5. Translation
 
-### Close syntactic construe
+### Literal Translation
 
 > The eight are endowed with prātimokṣa restraint. One endowed with that
 > [dhyāna] is endowed with the restraint born from dhyāna. Noble beings are

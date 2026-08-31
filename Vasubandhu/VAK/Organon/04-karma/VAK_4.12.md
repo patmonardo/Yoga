@@ -152,7 +152,7 @@ magical-creation cognition
 The functional argument does not depend upon concealing these textual
 irregularities.
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The first half establishes a conditional range:
 
@@ -215,7 +215,7 @@ nirabhisaṃskāra-vāhitvāt
 
 ## 5. Translation
 
-### Close syntactic construe
+### Literal Translation
 
 > When the initiator is wholesome and so forth, the continuator may
 > nevertheless be threefold. For the Sage it corresponds, with variation only

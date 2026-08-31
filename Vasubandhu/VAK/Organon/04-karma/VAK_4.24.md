@@ -102,7 +102,7 @@ The Bhāṣya explains “its path” as `karmapatha`, path of action, because t
 determination is included in the fundamental or principal phase (`maula`) of
 the action-course.
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 **Completion of the vijñapti rule**
 
@@ -156,7 +156,7 @@ karmapatha
 
 ## 5. Translation
 
-### Close syntactic construe
+### Literal Translation
 
 > And no one is endowed with the past obscured-indeterminate or
 > unobscured-indeterminate vijñaptis. Non-restraint is [also called]

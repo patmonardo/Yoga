@@ -64,7 +64,7 @@ prātimokṣa-kriyāpathaḥ   → prātimokṣakriyāpathaḥ
 
 **Correction of `ādye`**
 
-The initial seed construed `ādye` as “the first two” names, `śīla` and
+The initial seed read `ādye` as “the first two” names, `śīla` and
 `sucarita`.
 
 The Bhāṣya explicitly rules that out:
@@ -94,7 +94,7 @@ Bhāṣya doctrinal gloss
 
 No silent replacement is made.
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The first line gives four coordinated predicates of the understood
 `prātimokṣasaṃvara`:
@@ -156,7 +156,7 @@ prātimokṣa restraint
 
 ## 5. Translation
 
-### Close syntactic construe
+### Literal Translation
 
 > It is further called discipline, good conduct, action, and restraint. In the
 > first [moment], manifest and non-manifest action are `prātimokṣa`; [it is] a

@@ -98,7 +98,7 @@ mindfulness: the non-loss of the practical or contemplative orientation.
 
 They operate jointly in each of the two cognitive restraints.
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 **First predication**
 
@@ -163,7 +163,7 @@ clear comprehension.
 
 ## 5. Translation
 
-### Close syntactic construe
+### Literal Translation
 
 > In the preliminary concentration the two are called abandonment
 > restraints—those two born in the uninterrupted paths. Mind-restraint and

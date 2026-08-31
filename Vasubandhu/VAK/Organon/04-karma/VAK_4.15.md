@@ -63,7 +63,7 @@ bhikṣutā                  → bhikṣutā
 pañca + aṣṭa + daśa + sarvebhyaḥ
 ```
 
-Each number is construed with `varjyebhyaḥ`:
+Each number is read with `varjyebhyaḥ`:
 
 ```text
 from five things to be avoided
@@ -93,7 +93,7 @@ fivefold construction. It remains preserved in the research witness.
 The status terms are retained rather than replaced by approximate modern
 institutional equivalents.
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The governing ablative is causal:
 
@@ -141,7 +141,7 @@ from all prohibited
 
 ## 5. Translation
 
-### Close syntactic construe
+### Literal Translation
 
 > Through undertaking abstention from five, eight, ten, or all prohibited
 > actions, there is respectively the state of an `upāsaka`, one established in

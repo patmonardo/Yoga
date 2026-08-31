@@ -92,7 +92,7 @@ The verb signifies deliberate undertaking. The verse’s denial concerns the
 recognized mode in which non-restraint is normally acquired, not the mere
 possibility of harmful action during a day.
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 **Two durations of restraint**
 
@@ -139,7 +139,7 @@ Bhāṣya does not treat this first answer as the end of inquiry.
 
 ## 5. Translation
 
-### Close syntactic construe
+### Literal Translation
 
 > Restraint is undertaken for life or for one day and night. Non-restraint is
 > not recognized for merely one day and night, since it is not ordinarily

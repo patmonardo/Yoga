@@ -121,7 +121,7 @@ No emendation is silently introduced here.
 The secure determinations of the passage do not depend upon forcing a final
 translation of that sentence.
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The opening statement is direct:
 
@@ -208,7 +208,7 @@ not above that
 
 ## 5. Translation
 
-### Close syntactic construe
+### Literal Translation
 
 > There is no ethically indeterminate `avijñapti`; the remaining [karmas] are
 > threefold. The unwholesome, however, exists in the desire domain.

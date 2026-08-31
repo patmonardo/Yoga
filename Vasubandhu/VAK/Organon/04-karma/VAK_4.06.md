@@ -68,7 +68,7 @@ agreement with it.
 `Sattvākhyā` must not be inflated into a substantial self. It marks the
 conventional designation of ordinary `avijñapti` in relation to a sentient
 causal continuum. Likewise, `abhinna` does not name an indivisible metaphysical
-stuff. The commentary construes it relationally: the seven samādhi-born
+stuff. The commentary reads it relationally: the seven samādhi-born
 restraints arise dependent upon the same set of great elements.
 
 **Witness caution**
@@ -79,7 +79,7 @@ prose as `anupātāni`. The doctrinal explanation and VAK 4.05 both support the
 normalized reading `anupāttā` / `anupāttāni`. The textual variation is retained
 here as a witness caution rather than silently made philosophically decisive.
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The first hemistich supplies four coordinated determinations of ordinary
 `avijñapti`:
@@ -154,7 +154,7 @@ seven `avijñaptis` depend upon distinct sets of great elements.
 
 ## 5. Translation
 
-### Close syntactic construe
+### Literal Translation
 
 > [Non-manifest action] is homogeneous-outflow-derived and designated in
 > relation to a sentient being, born from homogeneous-outflow-derived,

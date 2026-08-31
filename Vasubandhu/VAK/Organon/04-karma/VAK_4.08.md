@@ -70,7 +70,7 @@ mūla-hrī-apatrapāḥ        → mūlahryapatrapāḥ
 | hrī | feminine noun | ethical self-respect; moral shame before oneself |
 | apatrāpāḥ | nominative plural form in the compressed list | moral concern or circumspection before others |
 
-**Two corrections to the initial construe**
+**Two corrections to the initial reading**
 
 The understood subject of `nivṛtā` is `vijñapti`, not `avijñapti`.
 
@@ -123,7 +123,7 @@ The exact graphic segmentation of `mūlahryapatrapāḥ` is difficult at the
 kārikā level. Its doctrinal segmentation is secure because the Bhāṣya supplies
 the list.
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The first statement carries `vijñaptiḥ` forward from VAK 4.07:
 
@@ -208,7 +208,7 @@ The prose renders `svataḥ` doctrinally as `svabhāvena`: by intrinsic nature.
 
 ## 5. Translation
 
-### Close syntactic construe
+### Literal Translation
 
 > Even in the desire domain there is no obscured-indeterminate
 > [manifestation], because its originating condition does not exist.

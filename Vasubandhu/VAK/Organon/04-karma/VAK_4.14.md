@@ -111,7 +111,7 @@ untouched.
 The compact second line contains two arguments. The Bhāṣya is required to avoid
 attaching `pṛthak ... avirodhinaḥ` to the wrong plurality.
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The first line contrasts two standards of enumeration:
 
@@ -174,7 +174,7 @@ to the male and female names just discussed.
 
 ## 5. Translation
 
-### Close syntactic construe
+### Literal Translation
 
 > The restraint called `prātimokṣa` is eightfold, but as distinct real type it
 > is fourfold. Because designation transfers according to the sex-

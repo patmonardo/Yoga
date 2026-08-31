@@ -85,7 +85,7 @@ vega
 The duration of the contrary avijñapti follows the duration of its generating
 force.
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 **First distributed construction**
 
@@ -147,7 +147,7 @@ This is commentary, not wording contained in the kārikā itself.
 
 ## 5. Translation
 
-### Close syntactic construe
+### Literal Translation
 
 > One established in non-restraint may be endowed with wholesome avijñapti,
 > and one established in restraint with unwholesome avijñapti, for as long as
