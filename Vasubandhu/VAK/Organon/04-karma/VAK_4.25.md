@@ -53,7 +53,7 @@ avijñaptyā
 | `avijñaptyā` | instrumental feminine singular | with non-manifest action |
 | `āryapudgalaḥ` | nominative masculine singular | noble person |
 
-### `mṛducetanā`
+**`mṛducetanā`**
 
 ```text
 mṛdu
@@ -69,7 +69,7 @@ cetanā
 The weakness belongs to the volitional determination. The act can become
 manifest without acquiring sufficient force to establish avijñapti.
 
-### Restrictive `eva`
+**Restrictive `eva`**
 
 `Eva` is essential:
 
@@ -82,7 +82,7 @@ vijñaptyā eva
 The verse is not merely emphasizing manifestation; it excludes the other mode
 of possession in this case.
 
-### `tyaktānutpannavijñapti`
+**`tyaktānutpannavijñapti`**
 
 The compound joins two alternatives:
 
@@ -98,7 +98,7 @@ The Bhāṣya locates the latter case after transition into another birth.
 
 ## 4. Grammar and Construe
 
-### First crossed case
+**First crossed case**
 
 ```text
 madhyasthaḥ mṛdu-cetanaḥ
@@ -112,7 +112,7 @@ vijñaptyā eva anvitaḥ
 The Bhāṣya supplies the excluded predicate: not endowed with avijñapti. The
 action may be wholesome or unwholesome.
 
-### Second crossed case
+**Second crossed case**
 
 ```text
 tyakta-anutpanna-vijñaptiḥ
@@ -126,7 +126,7 @@ avijñaptyā [eva anvitaḥ]
 The possession-predicate is carried forward elliptically. The Bhāṣya makes the
 exclusion explicit: avijñapti but not vijñapti.
 
-### Scope of the noble-person alternatives
+**Scope of the noble-person alternatives**
 
 The Bhāṣya specifies:
 
@@ -142,15 +142,9 @@ the relevant vijñapti
 
 In either circumstance the noble person remains endowed with avijñapti.
 
-### Close construe
-
-> A middle-position person acting with weak intention is endowed with
-> vijñapti alone. A noble person whose vijñapti has been abandoned or has not
-> yet arisen is endowed with avijñapti [alone].
-
 ## 5. Translation
 
-### Close syntactic translation
+### Close syntactic construe
 
 > A person established in neither restraint nor non-restraint, acting with
 > weak intention, is endowed only with manifestation. A noble person whose
@@ -183,13 +177,13 @@ the same kind of avijñapti.
 
 ## 7. Technical Vocabulary
 
-### The middle-position agent
+**The middle-position agent**
 
 The `madhyastha` possesses neither the comprehensive restraint system nor the
 comprehensive non-restraint system. A particular act can therefore remain an
 episode rather than establishing either standing form.
 
-### Weak intention and manifest action
+**Weak intention and manifest action**
 
 ```text
 weak cetanā
@@ -201,7 +195,7 @@ weak cetanā
 The sensible occurrence of action does not by itself prove the acquisition of
 a persistent practical determination.
 
-### Indeterminate action and the exception
+**Indeterminate action and the exception**
 
 The Bhāṣya says the absence of avijñapti is still more evident for
 indeterminate action, while preserving an exception expressed through the
@@ -209,13 +203,13 @@ compressed term `aupadika-puṇyakriyā-vastu-karmapatha`. Because the exact sco
 of this technical expression is not developed in the present unit, the
 exception is retained rather than expanded into the primary translation.
 
-### Noble avijñapti without vijñapti
+**Noble avijñapti without vijñapti**
 
 The noble person’s avijñapti is the uncontaminated restraint associated with
 the Path. Its possession is not conditional upon a simultaneous bodily or
 verbal expression.
 
-### `janmāntaraparivṛtti`
+**`janmāntaraparivṛtti`**
 
 ```text
 janmāntara
@@ -228,7 +222,7 @@ parivṛtti
 The continuum can enter another birth already possessing noble avijñapti,
 before a new corresponding vijñapti has arisen there.
 
-### Closure of the possession analysis
+**Closure of the possession analysis**
 
 After these cases, Vasubandhu declares the arrangement of possession of
 vijñapti and avijñapti for restraint bearers, non-restraint bearers, and the
@@ -236,7 +230,7 @@ middle position complete. The next topic is how the restraints are acquired.
 
 ## 8. Logical Determination
 
-### First independence relation
+**First independence relation**
 
 ```text
 vijñapti
@@ -246,7 +240,7 @@ avijñapti
 
 The weakly intending middle-position person is the witness.
 
-### Reverse independence relation
+**Reverse independence relation**
 
 ```text
 avijñapti
@@ -256,7 +250,7 @@ presently possessed vijñapti
 
 The noble person with abandoned or unarisen vijñapti is the witness.
 
-### The catuṣkoṭika frame
+**The catuṣkoṭika frame**
 
 The four formal possibilities are:
 
@@ -272,7 +266,7 @@ already supplied the wider possession arrangement. This formal completion is
 a reconstruction of the announced four-cornered question, not four clauses
 contained in the kārikā.
 
-### Cetanā mediates without replacing the dyad
+**Cetanā mediates without replacing the dyad**
 
 ```text
 cetanā
@@ -288,9 +282,9 @@ avijñapti
 Weak cetanā explains one separation-case. It does not make vijñapti and
 avijñapti mere names for volitional strength.
 
-## 9. Interpretive Essay
+## 9. Interpretive Note
 
-### Reciprocation is stronger than inseparability
+**Reciprocation is stronger than inseparability**
 
 This verse gives the dialectical Wheel an exact test. If vijñapti and
 avijñapti were merely two inseparable properties of every bodily and verbal
@@ -305,7 +299,7 @@ Their reciprocity is therefore semantic and functional, not the requirement
 that both be instantiated at every moment. Each term can be understood through
 the other while remaining capable of independent possession.
 
-### The Wheel permits passage in both directions
+**The Wheel permits passage in both directions**
 
 ```text
 vijñapti → avijñapti
@@ -324,7 +318,7 @@ avijñapti without current vijñapti
 The Wheel is not a machine forcing every transition. It is the semantic plane
 on which the possible relations between the two Aspects are articulated.
 
-### Cetanā is the determining mediation
+**Cetanā is the determining mediation**
 
 Karma first divided into volition and action produced from volition. The
 present verse returns that original determination to the vijñapti-avijñapti
@@ -343,7 +337,7 @@ manifestation, and current manifestation can either generate or fail to
 generate persistent form. Karma is the Concept holding these differentiated
 relations together.
 
-### A practical act is not exhausted by appearance
+**A practical act is not exhausted by appearance**
 
 The weak-intention case proves that appearance alone does not establish
 persistence. The noble-person case proves that absence of present appearance
@@ -364,7 +358,7 @@ This is an Organon reconstruction. Vasubandhu explicitly establishes the two
 crossed possession-cases and closes the local arrangement of vijñapti and
 avijñapti.
 
-## 10. OWL++ Formalization
+## 10. OWL++ Seed
 
 ```text
 Class: Karma

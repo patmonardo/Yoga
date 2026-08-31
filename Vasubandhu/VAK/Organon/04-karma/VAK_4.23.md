@@ -61,7 +61,7 @@ ajātayā
 | `na asti` | negated existential construction | there is not; no one possesses |
 | `ajātayā` | instrumental feminine singular | with not-yet-arisen, future [vijñapti] |
 
-### `tu punaḥ`
+**`tu punaḥ`**
 
 The two particles jointly carry the transition:
 
@@ -75,7 +75,7 @@ punaḥ
 
 The phrase is modest grammatically but structurally decisive.
 
-### `sarve`
+**`sarve`**
 
 The Bhāṣya identifies “all” as the three practical positions already
 distinguished:
@@ -89,12 +89,12 @@ one established in neither
 The temporal rule for manifestation applies irrespective of standing ethical
 status.
 
-### `madhyā`
+**`madhyā`**
 
 As in VAK 4.21, the present is the middle of past and future. Thus
 `madhyayā anvitaḥ` means endowed with vijñapti in its present temporal mode.
 
-### `ajāta`
+**`ajāta`**
 
 “Not yet arisen” functions as the future temporal determination. The Bhāṣya
 restates it with `anāgata`, future, and categorically denies possession of
@@ -102,7 +102,7 @@ future vijñapti.
 
 ## 4. Grammar and Construe
 
-### Present production and possession
+**Present production and possession**
 
 ```text
 sarve kurvantaḥ
@@ -119,7 +119,7 @@ yāvat vijñaptiṃ kurvanti tāvat
     for that long they possess it as present
 ```
 
-### Possession after the first moment
+**Possession after the first moment**
 
 ```text
 atītayā [vijñaptyā anvitāḥ]
@@ -133,7 +133,7 @@ atyāgāt
 The Bhāṣya resolves the implicit moment as `prathamāt kṣaṇāt`, the first
 moment.
 
-### Categorical denial of future possession
+**Categorical denial of future possession**
 
 ```text
 na asti ajātayā [vijñaptyā samanvāgataḥ]
@@ -145,15 +145,9 @@ This is a rule about `samanvāgama`, technical possession. It does not deny
 that future actions may later be performed; it denies that their not-yet-
 arisen manifestation is presently possessed as vijñapti.
 
-### Close construe
-
-> But now, in turn, all who are acting are endowed with present vijñapti. After
-> the first moment, because it has not been abandoned, [they are also endowed]
-> with past [vijñapti]. There is no [possession] of future [vijñapti].
-
 ## 5. Translation
 
-### Close syntactic translation
+### Close syntactic construe
 
 > But now, with vijñapti in turn: all who are acting are endowed with it as
 > present. After the first moment, provided it has not been abandoned, they are
@@ -184,13 +178,13 @@ Wheel into the source translation.
 
 ## 7. Technical Vocabulary
 
-### `vijñapti`
+**`vijñapti`**
 
 `Vijñapti` is bodily or verbal action insofar as it manifests, indicates, or
 makes the act known. The present verse treats not its ethical content but the
 temporal modes in which the agent is technically endowed with it.
 
-### Actual production
+**Actual production**
 
 Present possession is coextensive with doing:
 
@@ -202,25 +196,25 @@ production has ceased
     → that occurrence is no longer present vijñapti
 ```
 
-### Past vijñapti
+**Past vijñapti**
 
 After the first moment, the prior manifest occurrence is possessed as past.
 This supplies the return from current expression into the temporal history of
 the agent’s action.
 
-### No future possession
+**No future possession**
 
 No agent possesses a future vijñapti because manifestation requires actual
 arising. This distinguishes a presently operative disposition or projected
 possibility from an action that has become manifest.
 
-### `atyāga`
+**`atyāga`**
 
 Non-abandonment governs possession of past vijñapti. The verse does not claim
 that every performed manifestation remains indefinitely attributable under
 all conditions.
 
-### Transition marker
+**Transition marker**
 
 The sequence is explicit:
 
@@ -237,7 +231,7 @@ reciprocation belong to the Organon interpretation.
 
 ## 8. Logical Determination
 
-### Temporal grammar of manifestation
+**Temporal grammar of manifestation**
 
 ```text
 actual production
@@ -252,7 +246,7 @@ not-yet-arisen action
 
 Manifestation is therefore indexed to actual expression.
 
-### Universal across practical status
+**Universal across practical status**
 
 ```text
 restraint bearer
@@ -265,7 +259,7 @@ same temporal rule while producing vijñapti
 Standing ethical classification affects the quality and wider karmic context
 of action, but not this elementary temporal form of manifestation.
 
-### Reciprocation is not temporal symmetry
+**Reciprocation is not temporal symmetry**
 
 The return from avijñapti to vijñapti does not make their temporal ranges
 identical:
@@ -282,7 +276,7 @@ vijñapti
 
 Semantic reciprocity preserves rather than erases this difference.
 
-### Manifestation requires actuality
+**Manifestation requires actuality**
 
 ```text
 future possibility of action
@@ -292,9 +286,9 @@ future vijñapti presently possessed
 
 The predicate `vijñapti` becomes valid only with the act’s manifest arising.
 
-## 9. Interpretive Essay
+## 9. Interpretive Note
 
-### The return to vijñapti
+**The return to vijñapti**
 
 The textual movement now exhibits the Wheel’s dyadic plane with unusual
 clarity:
@@ -320,7 +314,7 @@ non-manifest determination is produced through action, attributed to an agent,
 and made intelligible through the manifest pole it negates. Each term sends
 semantic determination back into the other.
 
-### The dyadic plane of the Wheel
+**The dyadic plane of the Wheel**
 
 The reciprocation can be stated exactly:
 
@@ -344,7 +338,7 @@ preserving action-determination. The return removes the temptation to make
 avijñapti a transcendent hidden thing: its truth must be expressible back in
 the field of vijñapti.
 
-### Reciprocation preserves asymmetry
+**Reciprocation preserves asymmetry**
 
 A dialectical return is not a flattening symmetry. VAK 4.23 draws a strict
 temporal boundary around manifestation. Future vijñapti cannot be possessed;
@@ -369,7 +363,7 @@ Without vijñapti, the analysis loses actual expression. Without avijñapti, it
 loses instituted persistence. Without their return into one another, it loses
 the practical act as a complete movement.
 
-### Paramārthika dyads
+**Paramārthika dyads**
 
 At the Organon level, this provides a model for arranging the Paramārthika
 Principles as dyadic oppositions. A Principle differentiates itself into
@@ -392,7 +386,7 @@ This is our Organon synthesis. Vasubandhu explicitly supplies the structural
 return to vijñapti and its temporal possession-rule; he does not formulate the
 Paramārthika Wheel in these terms.
 
-## 10. OWL++ Formalization
+## 10. OWL++ Seed
 
 ```text
 Class: Vijnapti

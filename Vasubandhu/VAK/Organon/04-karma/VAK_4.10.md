@@ -64,7 +64,7 @@ anuvartakam                → anuvartakam
 | dvitīyam | nominative neuter singular ordinal adjective | the second |
 | anuvartakam | nominative neuter singular agent/function noun | continuing with; accompanying and sustaining |
 
-### The compound naming the two forms
+**The compound naming the two forms**
 
 The Bhāṣya resolves the compressed compound explicitly:
 
@@ -82,7 +82,7 @@ tatra eva kṣaṇe tad-bhāvāt
     because it exists in that very moment
 ```
 
-### `Pravartaka` and `anuvartaka`
+**`Pravartaka` and `anuvartaka`**
 
 Both terms derive from `√vṛt`, but their prefixes specify different functions:
 
@@ -101,7 +101,7 @@ anu-√vṛt
 `Anuvartaka` should not be reduced to an abstract substance that survives
 through time. It names a contemporaneous causal function.
 
-### `Tat-kṣaṇa` and momentary presentation
+**`Tat-kṣaṇa` and momentary presentation**
 
 The expression does not by itself posit a separately existing temporal atom.
 
@@ -115,7 +115,7 @@ the condition is present
 Any stronger theory about the ultimate ontology of moments belongs to a wider
 doctrinal argument, not to the morphology of this compound alone.
 
-### Witness caution
+**Witness caution**
 
 The compound boundaries are lightly restored for analysis. The research
 witness remains unchanged.
@@ -270,7 +270,7 @@ continue it.
 | saṃvara | restraint | practical determination whose occurrence in an unconscious condition supplies the objection |
 | sphuṭatara | more distinct / more explicit | greater realized force of action when conscious accompaniment is present |
 
-### Controlled Organon terms
+**Controlled Organon terms**
 
 | Organon term | Function here |
 |---|---|
@@ -284,7 +284,7 @@ textual translation.
 
 ## 8. Logical Determination
 
-### The question inherited from 4.09
+**The question inherited from 4.09**
 
 VAK 4.09 stated that bodily and verbal karma receive ethical determination
 through their originating condition.
@@ -320,7 +320,7 @@ material support
     ≠ ethically originated action
 ```
 
-### The unresolved samādhi-born `avijñapti` problem
+**The unresolved samādhi-born `avijñapti` problem**
 
 The answer immediately encounters a harder case.
 
@@ -365,7 +365,7 @@ to every samādhi-produced capacity or support?
 That question is central to the future positive Kant-clean and Yoga-clean
 account of `avijñapti`.
 
-### Scriptural sequence and Abhidharma analysis
+**Scriptural sequence and Abhidharma analysis**
 
 Another apparent contradiction concerns wrong view.
 
@@ -396,7 +396,7 @@ another citta present during performance
 A cognition can therefore belong to the causal genesis of an action without
 being the cognition present at the moment of bodily or verbal manifestation.
 
-### Projective and operative Aspects
+**Projective and operative Aspects**
 
 The causal structure is:
 
@@ -427,7 +427,7 @@ What makes the projected action operative
 throughout its actual performance?
 ```
 
-### The corpse argument
+**The corpse argument**
 
 The objector asks what efficacy the contemporaneous condition adds.
 
@@ -449,7 +449,7 @@ presently enacted performance.
 
 The contemporaneous mind gives the action its explicit operative actuality.
 
-### The unconscious-state objection
+**The unconscious-state objection**
 
 The objector then invokes restraint arising in an `acittaka` condition.
 
@@ -474,9 +474,9 @@ performance `sphuṭatara`.
 The difference is one of operative articulation, not simple existence versus
 nonexistence.
 
-## 9. Interpretive Essay
+## 9. Interpretive Note
 
-### The pipeline becomes internally temporal
+**The pipeline becomes internally temporal**
 
 VAK 4.09 showed Dharma arranging itself through intrinsic, associative,
 originative, ultimate, and maturation Aspects.
@@ -506,7 +506,7 @@ ethical determination
 An action is not simply present or absent. It becomes actual through a
 structured passage.
 
-### `Kṣaṇa` as an operative relation
+**`Kṣaṇa` as an operative relation**
 
 The expression `tat-kṣaṇa-samutthāna` is especially important after our
 discussion of momentariness.
@@ -536,7 +536,7 @@ The appearance of the action vanishes. Yet the action is intelligible because
 its projective ground, operative accompaniment, and later efficacy form one
 differentiated process.
 
-### Persistence through differentiated functions
+**Persistence through differentiated functions**
 
 This verse gives a positive model of persistence.
 
@@ -563,7 +563,7 @@ The unity belongs to the practical determination.
 The difference belongs to the functions through which that determination
 becomes actual.
 
-### A living action is more than bodily displacement
+**A living action is more than bodily displacement**
 
 The corpse analogy makes an existential distinction.
 
@@ -589,7 +589,7 @@ The performer's intention is directed toward the action, not toward the great
 elements as such. The material, intentional, ethical, and operative Aspects
 must therefore be discriminated.
 
-### The positive `avijñapti` problem becomes exact
+**The positive `avijñapti` problem becomes exact**
 
 The Bhāṣya's refusal to give an easy answer is valuable.
 
@@ -630,7 +630,7 @@ problem open, and so do we.
 But the required form is becoming visible: a positive `avijñapti` must be an
 Aspect of disciplined practical persistence, not a transcendent carrier.
 
-### Abhidharma as discrimination of causal functions
+**Abhidharma as discrimination of causal functions**
 
 The strength of the passage is that it does not solve a contradiction by
 discarding either scripture or analysis.
@@ -653,7 +653,7 @@ The apparent conflict disappears once the functional Aspects are separated.
 This is Abhidharma at its best: not atomization, but exact discrimination of
 the roles through which one action becomes a complete practical process.
 
-## 10. OWL++ Formalization
+## 10. OWL++ Seed
 
 ```text
 Class: Dharma

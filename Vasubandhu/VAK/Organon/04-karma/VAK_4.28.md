@@ -54,18 +54,18 @@ nirbhūṣeṇa
 | `nirbhūṣeṇa` | instrumental masculine singular | by one without exceptional adornment |
 | `āniśākṣayāt` | temporal compound with ablative terminus | until the exhaustion of the night; until next sunrise |
 
-### `kālyam`
+**`kālyam`**
 
 The proper time is the initial sunrise of the day-and-night observance. The
 vow is normally instituted as the temporal period begins.
 
-### `grāhya`
+**`grāhya`**
 
 The gerundive means “to be received” as well as “to be undertaken.” The
 Bhāṣya’s giver–receiver analysis makes reception the more precise value in the
 ordinary procedure.
 
-### `uktānuvāditā`
+**`uktānuvāditā`**
 
 ```text
 ukta
@@ -79,12 +79,12 @@ anu-vad
 The sequence is constitutive: the recipient neither anticipates the formula
 nor speaks simultaneously with the giver.
 
-### `samagrāṅga`
+**`samagrāṅga`**
 
 The observance must contain all eight limbs. `Samagra` means complete or
 integral; `aṅga` means constituent limb.
 
-### `nirbhūṣa`
+**`nirbhūṣa`**
 
 The restriction concerns adornment productive of vanity or intoxication.
 Habitual adornment is expressly excepted by the Bhāṣya because it does not
@@ -92,7 +92,7 @@ strongly generate `mada`.
 
 ## 4. Grammar and Construe
 
-### Main obligation
+**Main obligation**
 
 ```text
 upavāsaḥ grāhyaḥ
@@ -103,7 +103,7 @@ upavāsaḥ grāhyaḥ
 The remaining expressions specify how, from whom, in what condition, and for
 what duration.
 
-### Temporal and interpersonal conditions
+**Temporal and interpersonal conditions**
 
 ```text
 kālyam
@@ -117,7 +117,7 @@ The Bhāṣya adds an exception to the morning rule: one who has previously
 formed the standing undertaking, “I shall always observe the eight,” may
 receive it even after eating.
 
-### Recipient’s embodied condition
+**Recipient’s embodied condition**
 
 ```text
 nīcaiḥ sthitena
@@ -130,7 +130,7 @@ nirbhūṣeṇa
 Both instrumentals qualify the recipient. Bodily posture and presentation are
 parts of the practical act of reception.
 
-### Speech sequence
+**Speech sequence**
 
 ```text
 ukta-anuvāditā
@@ -141,7 +141,7 @@ ukta-anuvāditā
 The Bhāṣya denies both prior and simultaneous recitation. Otherwise the
 relation of giving and receiving would not be established.
 
-### Completeness and terminus
+**Completeness and terminus**
 
 ```text
 samagra-aṅgaḥ
@@ -152,16 +152,9 @@ samagra-aṅgaḥ
     until the following sunrise
 ```
 
-### Close construe
-
-> The upavāsa restraint is to be received at the proper morning time from
-> another, by one positioned deferentially and repeating what has been spoken;
-> it is to be complete in all its limbs, [received] without exceptional
-> adornment, and [maintained] until the night is exhausted.
-
 ## 5. Translation
 
-### Close syntactic translation
+### Close syntactic construe
 
 > The upavāsa restraint is to be received at sunrise from another, by one
 > positioned deferentially and repeating the words after they are spoken. It
@@ -197,7 +190,7 @@ Organon level; they are not translations of single Sanskrit words.
 
 ## 7. Technical Vocabulary
 
-### Sunrise-to-sunrise form
+**Sunrise-to-sunrise form**
 
 ```text
 initial sunrise
@@ -211,13 +204,13 @@ initial sunrise
 The temporal determination discussed abstractly in VAK 4.27 is now embodied
 as a concrete procedure.
 
-### Reception from another
+**Reception from another**
 
 The Bhāṣya says the observance is not ordinarily to be assumed privately in
 disregard of another when the proper conditions are available. Receiving it
 from another helps guard against transgression.
 
-### `agaurava`
+**`agaurava`**
 
 ```text
 gaurava
@@ -231,7 +224,7 @@ Vasubandhu states that restraint does not arise in one lacking respect. The
 lower posture is therefore the embodied expression of a required practical
 disposition, not decorative etiquette.
 
-### `dānagrahaṇa`
+**`dānagrahaṇa`**
 
 Giving and receiving require ordered difference:
 
@@ -244,18 +237,18 @@ giver articulates
 If both speak simultaneously, or the recipient speaks first, the specific
 relation “received from another” is not constituted.
 
-### `vikalāṅga`
+**`vikalāṅga`**
 
 `Vikalāṅga` means deficient in limbs. A selectively truncated observance may
 contain good practices, but it is not the complete eight-limbed upavāsa.
 
-### `ājasrika-alaṅkāra`
+**`ājasrika-alaṅkāra`**
 
 Habitual adornment is permitted because it does not strongly produce vanity.
 This prevents the terse `nirbhūṣeṇa` from becoming an absolute ban unsupported
 by the commentary.
 
-### `sucaritamātra`
+**`sucaritamātra`**
 
 The Bhāṣya draws the decisive boundary:
 
@@ -270,7 +263,7 @@ conduct generated through the complete acquisition procedure
 The distinction is between ethical quality and technically instituted
 practical status.
 
-### `upavāsa` and `poṣadha`
+**`upavāsa` and `poṣadha`**
 
 The Bhāṣya offers complementary explanations:
 
@@ -290,7 +283,7 @@ The etymologies express the observance’s exemplary and cultivational functions
 
 ## 8. Logical Determination
 
-### Necessary procedural structure
+**Necessary procedural structure**
 
 ```text
 proper time
@@ -307,7 +300,7 @@ proper time
 The elements are coordinated conditions of one acquisition, not independent
 ritual decorations.
 
-### Good conduct does not entail vow-status
+**Good conduct does not entail vow-status**
 
 ```text
 sucarita
@@ -318,7 +311,7 @@ upavāsa-saṃvara
 The same outward acts can have different practical status according to their
 genesis and formal determination.
 
-### Repetition is not duplication
+**Repetition is not duplication**
 
 ```text
 the giver’s statement
@@ -330,7 +323,7 @@ the recipient’s repetition
 
 Identity of words is compatible with difference of practical function.
 
-### Completeness is internal articulation
+**Completeness is internal articulation**
 
 ```text
 whole observance
@@ -343,9 +336,9 @@ eight limbs
 Removing a limb changes the acquired form rather than merely reducing its
 quantity.
 
-## 9. Interpretive Essay
+## 9. Interpretive Note
 
-### The vow is generated, not merely intended
+**The vow is generated, not merely intended**
 
 VAK 4.28 provides a detailed answer to a question often left vague in ethical
 commentary: how does an intention become an instituted discipline? Private
@@ -364,7 +357,7 @@ intention to undertake
 This does not make the procedure magical. It makes explicit the mediations by
 which a practical determination gains objectivity and persistence.
 
-### The Copula is the giver–receiver relation
+**The Copula is the giver–receiver relation**
 
 The spoken formula travels through an ordered relation:
 
@@ -383,7 +376,7 @@ The difference between giver and receiver must be preserved for mediation to
 occur. Simultaneous speech would flatten the relation into undifferentiated
 sound and fail to constitute reception from another.
 
-### Form and conduct
+**Form and conduct**
 
 The distinction between `sucaritamātra` and upavāsa restraint is perhaps the
 most important teaching in the passage. An observer may accidentally or
@@ -401,7 +394,7 @@ This is why the section is more than yama commentary. It does not merely tell
 the practitioner what not to do; it analyzes the genesis through which a
 universal norm becomes the practitioner’s continuing form.
 
-### Respect is productive
+**Respect is productive**
 
 The bodily lowering is not submission to arbitrary personality. It marks the
 recipient’s willingness to receive a form not invented from momentary private
@@ -417,7 +410,7 @@ This is an Organon reconstruction. Vasubandhu explicitly teaches the complete
 procedure, its exceptions, and the distinction between mere good conduct and
 upavāsa restraint.
 
-## 10. OWL++ Formalization
+## 10. OWL++ Seed
 
 ```text
 Class: UpavasaRestraint

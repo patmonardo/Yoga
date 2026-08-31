@@ -59,13 +59,13 @@ abhi-atītayā
 | `na` | negation | not |
 | `abhyatītayā` | instrumental feminine singular | with past [avijñapti] |
 
-### `asaṃvara`
+**`asaṃvara`**
 
 `Asaṃvara`, non-restraint, is not the mere absence of a vow. It is the
 acquired contrary practical determination discussed in VAK 4.13. Its temporal
 possession can therefore be analyzed in parallel with prātimokṣa restraint.
 
-### `atītājāta`
+**`atītājāta`**
 
 ```text
 atīta
@@ -81,13 +81,13 @@ The Bhāṣya paraphrases the expression with the dual
 `atītānāgatābhyām avijñaptibhyām`, “with past and future avijñaptis.” The
 translation therefore makes both temporal modes explicit.
 
-### `abhyatīta`
+**`abhyatīta`**
 
 In context `abhyatītayā` is understood as past avijñapti. The negation applies
 only to the noble person’s first Path moment, not to all subsequent noble
 moments.
 
-### `sadā` and `atyāga`
+**`sadā` and `atyāga`**
 
 VAK 4.19’s condition `atyāgāt`, “because of non-abandonment,” remains in force
 throughout. `Sadā` therefore means continual possession while the restraint
@@ -95,7 +95,7 @@ has not been abandoned, not unconditional eternity.
 
 ## 4. Grammar and Construe
 
-### Non-restraint by anaphora
+**Non-restraint by anaphora**
 
 ```text
 tathā eva asaṃvara-sthaḥ api
@@ -109,7 +109,7 @@ The Bhāṣya spells out the anaphora. While non-restraint is not abandoned, its
 bearer possesses present avijñapti; after the first moment, the bearer also
 possesses past avijñapti.
 
-### The bearer of meditation restraint
+**The bearer of meditation restraint**
 
 ```text
 dhyāna-saṃvara-vān sadā atīta-ajātayā [avijñaptyā anvitaḥ]
@@ -125,7 +125,7 @@ Present possession is supplied by its previously established status as
 `cittānuvartin`: the present restraint accompanies the corresponding present
 consciousness. The present verse adds the past and future modes.
 
-### The noble exception
+**The noble exception**
 
 ```text
 āryaḥ tu [evam]
@@ -140,16 +140,9 @@ The Bhāṣya supplies “likewise” for uncontaminated restraint, then states 
 exception. At the first noble Path moment, present and future uncontaminated
 restraint are possessed, but no past instance exists.
 
-### Close construe
-
-> One established in non-restraint is also just so. One possessing meditation
-> restraint is continually [endowed] with past and future [avijñapti]. The
-> noble person is likewise; but in the first [Path moment] he is not [endowed]
-> with past [avijñapti].
-
 ## 5. Translation
 
-### Close syntactic translation
+### Close syntactic construe
 
 > One established in non-restraint is likewise. One possessing meditation
 > restraint is continually endowed with past and future avijñapti. The noble
@@ -187,7 +180,7 @@ possession.
 
 ## 7. Technical Vocabulary
 
-### The temporal pattern of non-restraint
+**The temporal pattern of non-restraint**
 
 ```text
 first moment
@@ -205,13 +198,13 @@ This parallel confirms that avijñapti can sustain either disciplined or
 undisciplined practical determination. Persistence alone does not decide
 ethical value.
 
-### `dhyānasaṃvaralābhin`
+**`dhyānasaṃvaralābhin`**
 
 The Bhāṣya calls the bearer one who has obtained meditation restraint. Such a
 bearer possesses the restraint as past and future, and possesses its present
 mode when the corresponding meditative consciousness occurs.
 
-### `janmāntaratyakta`
+**`janmāntaratyakta`**
 
 ```text
 janma-antara
@@ -225,19 +218,19 @@ At the first current moment of meditation restraint, the practitioner obtains
 past restraint abandoned in another birth. The present acquisition is thus not
 the absolute beginning of this class of determination in the continuum.
 
-### `pūrvam anutpādita`
+**`pūrvam anutpādita`**
 
 The first noble Path moment differs because the Path was “not previously
 produced.” No earlier uncontaminated restraint can therefore be possessed as
 past at that moment.
 
-### `ārya`
+**`ārya`**
 
 Here `ārya` is not merely an honorific. It identifies the person in whom the
 uncontaminated Path has arisen. The temporal exception applies to the first
 moment of that Path.
 
-### Three-times possession
+**Three-times possession**
 
 For meditation restraint, and for uncontaminated restraint apart from its
 first-moment exception, the analysis involves:
@@ -253,7 +246,7 @@ the mind-following relation established in VAK 4.17.
 
 ## 8. Logical Determination
 
-### Similar present status, different past
+**Similar present status, different past**
 
 ```text
 first present moment of recovered meditation restraint
@@ -265,7 +258,7 @@ first present moment of the noble Path
 
 The difference cannot be inferred from “first present moment” alone.
 
-### Prior history is the discriminator
+**Prior history is the discriminator**
 
 ```text
 if determination D previously arose in continuum C
@@ -278,7 +271,7 @@ if determination D never previously arose in continuum C
 Temporal possession therefore requires both a present classification and the
 history of the continuum.
 
-### Ethical polarity does not alter the basic temporal form
+**Ethical polarity does not alter the basic temporal form**
 
 ```text
 prātimokṣa restraint
@@ -291,7 +284,7 @@ non-restraint
 The same formal pattern can carry opposed practical contents. The form of
 continuity and the value of what continues are distinct determinations.
 
-### The governing non-abandonment condition
+**The governing non-abandonment condition**
 
 ```text
 possession through the temporal modes
@@ -302,9 +295,9 @@ the determination has not been abandoned
 This inherited condition applies to non-restraint, meditation restraint, and
 uncontaminated restraint throughout the Bhāṣya’s discussion.
 
-## 9. Interpretive Essay
+## 9. Interpretive Note
 
-### The present does not contain its whole truth immediately
+**The present does not contain its whole truth immediately**
 
 VAK 4.20 demonstrates that present actuality cannot by itself disclose the
 complete determination of a continuum. Two practitioners may each be in a
@@ -323,7 +316,7 @@ current appearance
     → complete temporal determination
 ```
 
-### Persistence is content-neutral
+**Persistence is content-neutral**
 
 The parallel between restraint and non-restraint is philosophically severe.
 Avijñapti does not guarantee goodness. It is the mode by which a practical
@@ -339,7 +332,7 @@ At the level of yama, the implication is exact: discipline must not only posit
 a good rule but displace the contrary instituted continuity. Non-restraint is
 already organized practical form, not blank material awaiting instruction.
 
-### History as a determination of the Copula
+**History as a determination of the Copula**
 
 In the Organon reconstruction, the Ideal Copula must carry more than present
 predication:
@@ -359,7 +352,7 @@ intelligible determination through which past, present, and future modes form
 one ordered field. But that Organon thesis must remain distinguished from the
 Sarvāstivāda claim that avijñapti is possessed in three temporal modes.
 
-### A genuine beginning
+**A genuine beginning**
 
 The first noble Path moment reveals what a genuine beginning means. It is not
 merely the latest appearance in a repeating series. Because the Path was never
@@ -371,7 +364,7 @@ a determination without a prior instance becomes actual and opens a new
 future. This is an Organon development of the contrast Vasubandhu explicitly
 draws between recovered meditation restraint and the unprecedented noble Path.
 
-## 10. OWL++ Formalization
+## 10. OWL++ Seed
 
 ```text
 Class: PracticalDetermination

@@ -196,7 +196,7 @@ neither
 
 ## 8. Logical Determination
 
-### The first triad
+**The first triad**
 
 ```text
 Avijñapti =
@@ -218,7 +218,7 @@ not saṃvara
 The exact positive constitution of `asaṃvara` remains for the subsequent
 verses.
 
-### The functional definition of restraint
+**The functional definition of restraint**
 
 The Bhāṣya gives:
 
@@ -237,7 +237,7 @@ saṃvara
 Restraint is not identical with one presently manifest abstention. It governs
 whether misconduct is allowed to extend into action.
 
-### The second triad
+**The second triad**
 
 | Restraint | Mode of constitution | Discipline/domain |
 |---|---|---|
@@ -248,9 +248,9 @@ whether misconduct is allowed to extend into action.
 The classification is therefore not based only on prohibited content. It also
 asks how the restraint is constituted and within what field it functions.
 
-## 9. Interpretive Essay
+## 9. Interpretive Note
 
-### The transition into Discipline
+**The transition into Discipline**
 
 VAK 4.13 confirms the structural transition anticipated after 4.12.
 
@@ -270,7 +270,7 @@ This is why `avijñapti` remains central. A discipline cannot exist only during
 the instant in which a visible abstention occurs. It must continue to govern
 conduct when no corresponding act is presently manifest.
 
-### Contact with yama and niyama
+**Contact with yama and niyama**
 
 The strongest Yoga comparison here is with `yama`.
 
@@ -299,7 +299,7 @@ saṃvara block
 The comparison remains Organon/Yoga interpretation. Vasubandhu's terms here
 are `saṃvara` and `śīla`.
 
-### Three grounds of discipline
+**Three grounds of discipline**
 
 The three restraints also prevent discipline from being reduced to a rule
 externally imposed upon action.
@@ -322,7 +322,7 @@ This is enough Organon Light for the present verse. The following units can
 develop the precise forms of restraint without repeating the deep metaphysical
 architecture already established.
 
-## 10. OWL++ Formalization
+## 10. OWL++ Seed
 
 ```text
 Class: Avijnapti

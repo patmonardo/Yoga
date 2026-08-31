@@ -68,7 +68,7 @@ dhruve                    → dhruve
 | avyākṛte | nominative neuter dual | the two indeterminate ones |
 | dhruve | nominative neuter dual | the two permanent ones |
 
-### The reference of `tad`
+**The reference of `tad`**
 
 `Tad` refers to the factors identified as intrinsically wholesome in VAK 4.08:
 
@@ -80,7 +80,7 @@ apatrāpya
 
 Dharmas conjoined with those factors are wholesome through association.
 
-### The range of `kriyādayaḥ`
+**The range of `kriyādayaḥ`**
 
 `Kriyādayaḥ` is broader than a single observable action.
 
@@ -101,7 +101,7 @@ These do not receive their ethical quality through simultaneous mental
 association. They receive it through the wholesome or unwholesome complex that
 produces them.
 
-### The dual `paramāvyākṛte dhruve`
+**The dual `paramāvyākṛte dhruve`**
 
 The two permanent, ultimately indeterminate dharmas are identified by the
 Bhāṣya:
@@ -113,7 +113,7 @@ apratisaṃkhyā-nirodha
 
 They are both unconditioned.
 
-### Witness cautions
+**Witness cautions**
 
 The prose witness contains visible spacing and typographical disturbances,
 including forms corresponding to `samutthānāt`, `kāyavākkarmaṇi`, and the
@@ -283,7 +283,7 @@ association, origin, or ultimate status into independent substances.
 | ākāśa | space | unconditioned non-obstruction; ultimately indeterminate |
 | apratisaṃkhyā-nirodha | non-analytical cessation | unconditioned non-arising not obtained through analytical knowledge |
 
-### Controlled Organon term
+**Controlled Organon term**
 
 | Organon term | Function here |
 |---|---|
@@ -315,7 +315,7 @@ valid.
 
 ## 8. Logical Determination
 
-### The wholesome functional pipeline
+**The wholesome functional pipeline**
 
 The four grounds can now be displayed as an articulated order:
 
@@ -362,7 +362,7 @@ cognitive complex → action/product
 This distinction prevents `saṃprayoga` from being reduced to causation and
 prevents `samutthāna` from being reduced to mere coexistence.
 
-### The medicinal analogies
+**The medicinal analogies**
 
 The Bhāṣya makes the difference concrete.
 
@@ -393,7 +393,7 @@ The first analogy concerns mixture or conjunction.
 
 The second concerns transmission through genesis.
 
-### The inverse unwholesome pipeline
+**The inverse unwholesome pipeline**
 
 `Viparyayeṇa` does not mean a random negation of goodness.
 
@@ -422,7 +422,7 @@ Thus ethical opposition does not destroy the pipeline form.
 
 It reverses its determining content.
 
-### The `prāpti` complication
+**The `prāpti` complication**
 
 The Bhāṣya notices that some acquisitions may be produced by a mind of a
 different ethical class.
@@ -449,7 +449,7 @@ but the exact rule governing every prāpti
     cannot be inferred from this verse alone
 ```
 
-### Ultimate and maturation-relative classification
+**Ultimate and maturation-relative classification**
 
 Calling saṃsāra ultimately unwholesome generates an objection:
 
@@ -494,7 +494,7 @@ while also
         and therefore being functionally wholesome
 ```
 
-### What is ultimately indeterminate?
+**What is ultimately indeterminate?**
 
 If indeterminacy is demanded at the ultimate level itself, only two permanent
 unconditioned dharmas qualify:
@@ -507,9 +507,9 @@ apratisaṃkhyā-nirodha
 They are neither liberation, which is ultimately wholesome, nor saṃsāra, which
 is ultimately unwholesome.
 
-## 9. Interpretive Essay
+## 9. Interpretive Note
 
-### Dharma arranges itself as functional pipelines
+**Dharma arranges itself as functional pipelines**
 
 VAK 4.09 gives textual substance to the proposition that Dharma arranges
 itself in functional pipelines.
@@ -548,7 +548,7 @@ and further conditioned determinations.
 The pipeline preserves identity through transformation without requiring an
 unchanging particle to travel from stage to stage.
 
-### Persistence without a travelling substance
+**Persistence without a travelling substance**
 
 This provides another control for our account of persistence.
 
@@ -576,7 +576,7 @@ duration. The same ethical determination does not need to remain present as
 one unaltered appearance. It persists by governing the relations through which
 the pipeline develops.
 
-### Aspects preserve logical levels
+**Aspects preserve logical levels**
 
 The objection concerning saṃsāra shows why the term is necessary.
 
@@ -613,7 +613,7 @@ What does it produce?
 What maturation does it yield?
 ```
 
-### Abhidharma as pipeline discrimination
+**Abhidharma as pipeline discrimination**
 
 Here Abhidharma begins to show its positive meaning as Absolute
 Discrimination.
@@ -656,7 +656,7 @@ This is an Organon reconstruction, but it is closely answerable to the
 Bhāṣya's actual distinctions between intrinsic nature, association,
 origination, maturation, and ultimate status.
 
-### Consequence for the positive `avijñapti`
+**Consequence for the positive `avijñapti`**
 
 The positive theory of `avijñapti` remains open, as agreed.
 
@@ -687,7 +687,7 @@ continuity into a transcendent carrier.
 VAK 4.09 does not yet provide the completed answer. It shows why a functional
 Aspect account is possible.
 
-## 10. OWL++ Formalization
+## 10. OWL++ Seed
 
 ```text
 Class: Dharma

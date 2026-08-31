@@ -70,7 +70,7 @@ mūla-hrī-apatrapāḥ        → mūlahryapatrapāḥ
 | hrī | feminine noun | ethical self-respect; moral shame before oneself |
 | apatrāpāḥ | nominative plural form in the compressed list | moral concern or circumspection before others |
 
-### Two corrections to the initial construe
+**Two corrections to the initial construe**
 
 The understood subject of `nivṛtā` is `vijñapti`, not `avijñapti`.
 
@@ -97,7 +97,7 @@ samutthānam asat
 The prose explains that there is no obscured-indeterminate desire-domain mind
 of the class capable of producing this outward manifestation.
 
-### Resolution of the final compound
+**Resolution of the final compound**
 
 The transmitted `mūlahryapatrapāḥ` is compressed.
 
@@ -113,7 +113,7 @@ ethical self-respect,
 and moral circumspection
 ```
 
-### Witness cautions
+**Witness cautions**
 
 The prose witness reads `nivṛktāvyākṛtaṃ`, evidently where
 `nivṛtāvyākṛtaṃ` is expected. The normalized form is used in analysis, but the
@@ -302,7 +302,7 @@ samutthānataḥ
 
 ## 8. Logical Determination
 
-### Distribution of obscured-indeterminate manifestation
+**Distribution of obscured-indeterminate manifestation**
 
 The first argument has two sides.
 
@@ -343,7 +343,7 @@ Brahmaloka within the first dhyāna
 The Bhāṣya cites Mahābrahmā's deceit-generated bodily action concerning
 Āyuṣmat Aśvajit as the reported example.
 
-### Causal origin does not exhaust ethical truth
+**Causal origin does not exhaust ethical truth**
 
 The interlocutor generalizes too quickly:
 
@@ -379,7 +379,7 @@ same ground of predication
 This is not accidental polysemy. The Bhāṣya deliberately determines the
 relation through which the predicate belongs.
 
-### Ultimate goodness
+**Ultimate goodness**
 
 The argument is:
 
@@ -396,7 +396,7 @@ Health is not merely one beneficial item among other beneficial items. It is
 the condition in which illness has been pacified. Nirvāṇa is ultimately good
 as the complete pacification of suffering.
 
-### Intrinsic goodness
+**Intrinsic goodness**
 
 The argument is:
 
@@ -418,7 +418,7 @@ The comparison is with beneficial medicine.
 Medicine bears its curative character in itself rather than receiving that
 character merely by proximity to something else curative.
 
-### Four relations, not four substances
+**Four relations, not four substances**
 
 The Bhāṣya is classifying grounds of ethical attribution.
 
@@ -434,9 +434,9 @@ This distinction is especially important for the Transcendental reading. The
 understanding must determine the relation under which a predicate is valid. It
 must not convert that relation into a transcendent entity called “Goodness.”
 
-## 9. Interpretive Essay
+## 9. Interpretive Note
 
-### The Dharma Talk: how does a predicate belong?
+**The Dharma Talk: how does a predicate belong?**
 
 The major Dharma Talk of VAK 4.08 begins when the interlocutor asks whether the
 ethical character of dharmas is known solely from their originating condition.
@@ -462,7 +462,7 @@ This moves Abhidharma beyond the construction of inventories.
 It becomes discrimination of the relations through which determinations
 belong to their subjects.
 
-### Attribute and modality
+**Attribute and modality**
 
 Our immediately preceding inquiry concerned the movement:
 
@@ -496,7 +496,7 @@ with a Hegelian or Sāṃkhya sequence. Its textual achievement is already
 substantial: it prevents ethical determination from collapsing into a single
 causal relation.
 
-### Genesis and intrinsic nature
+**Genesis and intrinsic nature**
 
 The distinction between `samutthānataḥ` and `svabhāvataḥ` is particularly
 important.
@@ -530,7 +530,7 @@ ultimate goodness
     → names completion in the pacification of suffering
 ```
 
-### Abhidharma as discrimination rather than atomism
+**Abhidharma as discrimination rather than atomism**
 
 The verse also supports our positive reconstruction of Abhidharma.
 
@@ -558,7 +558,7 @@ That is closer to the positive sense of Abhidharma we are seeking: not a heap
 of ultimate particles, but mastery of the determinate relations through which
 Dharma articulates itself.
 
-### A control for the positive theory of `avijñapti`
+**A control for the positive theory of `avijñapti`**
 
 We have left open a Kant-clean and Yoga-clean account of `avijñapti`.
 
@@ -583,7 +583,7 @@ object beyond that field.
 That positive reconstruction remains open. The present verse gives us part of
 the method by which it can eventually be made rigorous.
 
-## 10. OWL++ Formalization
+## 10. OWL++ Seed
 
 ```text
 Class: Karma

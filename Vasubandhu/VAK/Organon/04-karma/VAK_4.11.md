@@ -71,7 +71,7 @@ anuvartakam               → anuvartakam
 | tu | contrastive particle | but; whereas |
 | anuvartakam | nominative neuter singular | continuing; accompanying action during execution |
 
-### Controlled translation of `vijñāna`
+**Controlled translation of `vijñāna`**
 
 `Vijñāna` is not translated here with the project's controlled term
 “consciousness,” which is reserved for `citta` when that distinction matters.
@@ -89,7 +89,7 @@ vijñāna
 Accordingly, the readable translation uses “cognition,” while the vocabulary
 table preserves “knowledge / differentiated cognition.”
 
-### The scope of `pañcakam`
+**The scope of `pañcakam`**
 
 The Bhāṣya resolves the collective form:
 
@@ -101,7 +101,7 @@ pañca vijñāna-kāyāḥ
 These are the visual, auditory, olfactory, gustatory, and bodily sensory
 cognitions.
 
-### Kārikā compression and Bhāṣya completion
+**Kārikā compression and Bhāṣya completion**
 
 The verse explicitly states three members:
 
@@ -117,7 +117,7 @@ formulates the complete `catuṣkoṭika`.
 It therefore belongs in the Bhāṣya-informed translation and logical
 determination, not as an unmarked word of the kārikā.
 
-### Witness caution
+**Witness caution**
 
 The prose witness alternates `pravartaka` and `pravarttaka`. The kārikā spelling
 `pravartaka` is used analytically without altering the research witness.
@@ -263,7 +263,7 @@ inner state must remain numerically present throughout the deed.
 | avidyā | ignorance | other member of the opposition to which undefiled form is neutral |
 | catuṣkoṭika | fourfold alternative | exhaustive distribution: initiator only, continuator only, both, neither |
 
-### Controlled Organon terms
+**Controlled Organon terms**
 
 | Organon term | Function here |
 |---|---|
@@ -274,7 +274,7 @@ inner state must remain numerically present throughout the deed.
 
 ## 8. Logical Determination
 
-### The explicit `catuṣkoṭika`
+**The explicit `catuṣkoṭika`**
 
 The Bhāṣya gives a complete fourfold matrix:
 
@@ -309,7 +309,7 @@ predicates.
 
 They are not four metaphysical worlds.
 
-### Why seeing-abandoned cognition initiates
+**Why seeing-abandoned cognition initiates**
 
 The Bhāṣya gives a mediated causal structure:
 
@@ -325,7 +325,7 @@ the action.
 
 It is `hetu-samutthāna`: the causal ground that projects the sequence.
 
-### Why it does not continue
+**Why it does not continue**
 
 At the time of bodily or verbal performance:
 
@@ -348,7 +348,7 @@ genetic belonging to the action
 The action retains causal unity even though the initiating cognition has
 vanished.
 
-### Why sensory cognition cannot initiate
+**Why sensory cognition cannot initiate**
 
 The five sensory cognition-bodies participate in the outward field of
 performance.
@@ -368,7 +368,7 @@ But they do not supply the mental projection that sets the deed into operation.
 
 Their role is operative rather than projective.
 
-### Why mental cognition abandoned by cultivation is both
+**Why mental cognition abandoned by cultivation is both**
 
 Mental cognition has the functional range to:
 
@@ -383,7 +383,7 @@ remain present in outward execution
 The same type of cognition can therefore occupy both Aspects, though the
 functions remain logically distinguishable.
 
-### Why causal classification does not transfer to form
+**Why causal classification does not transfer to form**
 
 The objector presses a difficult inference:
 
@@ -417,7 +417,7 @@ The relation of production must determine which predicates transmit.
 every ontological or Path-classification of the initiating cognition to the
 material product.
 
-### Scriptural and Abhidharma levels
+**Scriptural and Abhidharma levels**
 
 The scriptural sequence from wrong view to wrong action speaks at the level of
 causal genesis:
@@ -441,9 +441,9 @@ what is abandoned by cultivation
 Once `hetu-samutthāna` is distinguished from `tat-kṣaṇa-samutthāna`, the two
 accounts no longer conflict.
 
-## 9. Interpretive Essay
+## 9. Interpretive Note
 
-### One deed, several cognitive Aspects
+**One deed, several cognitive Aspects**
 
 VAK 4.11 decisively rejects the picture of action as the outward expression of
 one simple inner state that remains numerically identical from intention to
@@ -471,7 +471,7 @@ The cognitive stations through which it becomes actual are many.
 
 That is the exact sense in which Dharma arranges itself as functional pipelines.
 
-### Persistence after the initiating cognition vanishes
+**Persistence after the initiating cognition vanishes**
 
 This verse returns us to the central problem of persistence in a kṣaṇa-dominated
 field.
@@ -501,7 +501,7 @@ functional Aspects.
 
 This is an especially clear case of Essence beneath vanishing Appearance.
 
-### Aspect is not predicate contagion
+**Aspect is not predicate contagion**
 
 Functional unity does not mean that every determination flows indiscriminately
 through the pipeline.
@@ -533,7 +533,7 @@ Which determination does that relation transmit?
 Which determination remains local to its bearer?
 ```
 
-### The sensory field continues but does not project
+**The sensory field continues but does not project**
 
 The five sensory cognitions are `anuvartaka` only.
 
@@ -559,7 +559,7 @@ a field and the opened eye that receives its differentiated appearances.
 The comparison is Organon-level. The textual claim is the narrower functional
 distribution of `manovijñāna` and the five `vijñāna-kāyas`.
 
-### The fourfold alternative as pipeline completeness
+**The fourfold alternative as pipeline completeness**
 
 The `catuṣkoṭika` is not merely a scholastic display.
 
@@ -588,7 +588,7 @@ the action-process unifies the distributed functions
 We need not turn this into a rigid Hegelian identity. The Bhāṣya already
 performs the required logical work.
 
-### The limits of the present block
+**The limits of the present block**
 
 The user's proposed chapter map remains plausible:
 
@@ -607,7 +607,7 @@ origination rather than yet giving the discipline of restraint itself.
 The transition should be confirmed from 4.12 and 4.13 rather than asserted in
 advance as kārikā terminology.
 
-## 10. OWL++ Formalization
+## 10. OWL++ Seed
 
 ```text
 Class: Dharma

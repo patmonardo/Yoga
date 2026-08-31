@@ -57,7 +57,7 @@ bhikṣutā                  → bhikṣutā
 | śramaṇoddeśa | technical status term | one designated toward ascetic status; novice |
 | bhikṣutā | feminine abstract/status noun | the state or status of a bhikṣu |
 
-### The numerical compound
+**The numerical compound**
 
 ```text
 pañca + aṣṭa + daśa + sarvebhyaḥ
@@ -72,7 +72,7 @@ from ten things to be avoided
 from all things to be avoided
 ```
 
-### `Virati-graha` and `virati-samādāna`
+**`Virati-graha` and `virati-samādāna`**
 
 The kārikā says `virati-graha`, taking up abstention.
 
@@ -85,7 +85,7 @@ virati-samādāna
 
 The restraint is therefore not inferred from accidental non-performance.
 
-### Witness caution
+**Witness caution**
 
 The prose witness reads `pañccabhyo`, an evident e-text irregularity for the
 fivefold construction. It remains preserved in the research witness.
@@ -195,7 +195,7 @@ practical relation that constitutes it.
 | akāla-bhojana | eating at an improper time | field prohibited in extended observance |
 | jātarūpa-rajata-pratigraha | acceptance of gold and silver | added novice prohibition |
 
-### The enumerated fields
+**The enumerated fields**
 
 The five lay restraints are:
 
@@ -221,7 +221,7 @@ accepting gold and silver.
 
 ## 8. Logical Determination
 
-### Undertaking, not mere omission
+**Undertaking, not mere omission**
 
 ```text
 person x does not presently perform prohibited action y
@@ -239,7 +239,7 @@ specified prohibited field
         → corresponding restraint-status
 ```
 
-### The four scopes
+**The four scopes**
 
 | Scope | Restraint-status | Structural determination |
 |---|---|---|
@@ -248,7 +248,7 @@ specified prohibited field
 | ten | novice | expanded and more finely articulated field |
 | all | `bhikṣu` | complete bodily/verbal disciplinary extension |
 
-### Not merely a numerical ladder
+**Not merely a numerical ladder**
 
 The progression is internally heterogeneous:
 
@@ -268,7 +268,7 @@ The progression is internally heterogeneous:
 Therefore number records the articulation of discipline, but number alone does
 not explain the distinct restraint-type.
 
-### Relation to `avirodhinaḥ`
+**Relation to `avirodhinaḥ`**
 
 VAK 4.14 established that successively acquired restraints are distinct yet
 compatible.
@@ -292,9 +292,9 @@ At the Organon level, this compatibility permits the vows to form a coherent
 practical system. That is the result of `avirodha`, not its literal grammatical
 operation.
 
-## 9. Interpretive Essay
+## 9. Interpretive Note
 
-### Discipline as an undertaken field
+**Discipline as an undertaken field**
 
 The verse gives Discipline a precise structure:
 
@@ -316,7 +316,7 @@ subjective undertaking
 objective field of possible action
 ```
 
-### Yama contact and difference
+**Yama contact and difference**
 
 The fivefold lay restraint has a strong structural relation to Yoga's yamas:
 
@@ -345,7 +345,7 @@ but
     → enumerate and ground those fields differently
 ```
 
-### Compatible differentiation
+**Compatible differentiation**
 
 VAK 4.14–4.15 together show that fuller discipline is neither simple
 replacement nor mere accumulation.
@@ -362,7 +362,7 @@ In Organon Light, the higher discipline integrates rather than contradicts the
 earlier determination. But the textual claim remains the coexistence of
 distinct restraints.
 
-## 10. OWL++ Formalization
+## 10. OWL++ Seed
 
 ```text
 Class: PratimokshaRestraint

@@ -223,7 +223,7 @@ and above the arranged plurality.
 
 ## 8. Logical Determination
 
-### Production and destruction are asymmetric
+**Production and destruction are asymmetric**
 
 ```text
 arising of a conditioned occurrence
@@ -252,7 +252,7 @@ but:
 This establishes `kṣaṇabhaṅga` without treating non-being as a manufactured
 effect.
 
-### Motion becomes serial appearance
+**Motion becomes serial appearance**
 
 ```text
 moment A₁ arises and perishes at place A
@@ -266,7 +266,7 @@ uninterrupted serial arising
 
 No numerically identical mover traverses A, B, and C.
 
-### Configuration undergoes immanent criticism
+**Configuration undergoes immanent criticism**
 
 The rejection of motion initially appeared to secure configuration as bodily
 manifestation. The Sautrāntika now tests that proposed entity:
@@ -296,7 +296,7 @@ many material determinations
         → grounded prajñapti of configuration
 ```
 
-### The location of bodily karma shifts
+**The location of bodily karma shifts**
 
 ```text
 saṃkalpa-cetanā
@@ -325,7 +325,7 @@ retains `saṃsthāna` itself as a real material determination. This disagreemen
 must remain visible because it governs the impending dispute over
 `avijñapti`.
 
-### Verbal manifestation
+**Verbal manifestation**
 
 ```text
 operative volition

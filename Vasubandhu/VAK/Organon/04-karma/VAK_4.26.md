@@ -54,7 +54,7 @@ para-vijñāpana-ādibhiḥ
 | `prātimokṣākhyaḥ` | nominative masculine singular compound | the restraint called prātimokṣa |
 | `paravijñāpanādibhiḥ` | instrumental plural compound | through notification by another and the other recognized means |
 
-### `dhyānaja`
+**`dhyānaja`**
 
 ```text
 dhyāna + ja
@@ -64,7 +64,7 @@ dhyāna + ja
 The Bhāṣya specifies that this restraint is acquired together with a
 dhyāna-level consciousness because the two are co-arising.
 
-### `dhyānabhūmi`
+**`dhyānabhūmi`**
 
 `Bhūmi` is a ground or level. Here it includes both:
 
@@ -79,13 +79,13 @@ sāmantakīya
 For meditation-born restraint, the relevant consciousness is contaminated
 (`sāsrava`) yet belongs to the dhyāna level.
 
-### `ārya`
+**`ārya`**
 
 The same meditative ground, when uncontaminated and noble, is the acquisition
 ground for uncontaminated restraint. `Ārya` therefore qualifies the ground,
 not merely the social status of a bearer.
 
-### `paravijñāpana`
+**`paravijñāpana`**
 
 ```text
 para
@@ -102,7 +102,7 @@ Saṃgha. It is an efficacious disciplinary act, not mere information transfer.
 
 ## 4. Grammar and Construe
 
-### Meditation-born restraint
+**Meditation-born restraint**
 
 ```text
 dhyāna-jaḥ [saṃvaraḥ]
@@ -115,7 +115,7 @@ labhyate
 The Bhāṣya sharpens “through”: when dhyāna-level consciousness is acquired,
 the restraint is acquired simultaneously because it is `sahabhū`, co-arising.
 
-### Uncontaminated restraint
+**Uncontaminated restraint**
 
 ```text
 anāsravaḥ [saṃvaraḥ]
@@ -129,7 +129,7 @@ tayā [dhyāna-bhūmyā]
 The prior noun `dhyānabhūmi` and verb `labhyate` are carried forward
 elliptically.
 
-### Prātimokṣa restraint
+**Prātimokṣa restraint**
 
 ```text
 prātimokṣa-ākhyaḥ [saṃvaraḥ]
@@ -142,16 +142,9 @@ para-vijñāpana-ādibhiḥ
 
 The instrumental plural prevents reduction to a single universal ceremony.
 
-### Close construe
-
-> Meditation-born restraint is acquired only through a dhyāna ground;
-> uncontaminated restraint [is acquired] through that same [ground] when noble;
-> the restraint called prātimokṣa [is acquired] through notification by
-> another and the other [recognized procedures].
-
 ## 5. Translation
 
-### Close syntactic translation
+### Close syntactic construe
 
 > Meditation-born restraint is acquired only through a dhyāna ground;
 > uncontaminated restraint is acquired through that same ground in its noble
@@ -187,7 +180,7 @@ The source specifies the acquisition grounds and recognized procedures.
 
 ## 7. Technical Vocabulary
 
-### `sahabhū`
+**`sahabhū`**
 
 `Sahabhū`, co-arising, explains the acquisition of meditation-born restraint:
 
@@ -199,7 +192,7 @@ acquisition of dhyāna-level consciousness
 The relation is co-presence and causal coordination, not identity of
 consciousness and restraint.
 
-### Contaminated and uncontaminated grounds
+**Contaminated and uncontaminated grounds**
 
 ```text
 sāsrava dhyāna ground
@@ -212,13 +205,13 @@ anāsrava ārya dhyāna ground
 The same general domain of meditative ground is differently determined by its
 contamination-status and relation to the noble Path.
 
-### Six uncontaminated dhyāna grounds
+**Six uncontaminated dhyāna grounds**
 
 The Bhāṣya notes that six dhyāna grounds can be uncontaminated: the four
 dhyānas, the `anāgamya`, and the intermediate attainment. Their detailed
 treatment is explicitly postponed and need not be imported into this verse.
 
-### Acquisition from Saṃgha or individual
+**Acquisition from Saṃgha or individual**
 
 The Bhāṣya distinguishes:
 
@@ -233,7 +226,7 @@ from an individual
 This is a Vinaya determination of valid acquisition, not merely a sociological
 description.
 
-### Ten modes of ordination
+**Ten modes of ordination**
 
 The Vinayavibhāṣikas recognize ten modes of `upasaṃpad`. The Bhāṣya’s long
 enumeration includes self-arising acquisition for Buddhas and solitary
@@ -246,7 +239,7 @@ threefold-refuge procedure.
 The list explains `ādi`; its purpose here is not to reconstruct every Vinaya
 case but to establish procedural plurality.
 
-### Not universally `vijñaptyadhīna`
+**Not universally `vijñaptyadhīna`**
 
 Vasubandhu concludes:
 
@@ -261,7 +254,7 @@ not universally reducible to that one manifest event.
 
 ## 8. Logical Determination
 
-### One genus, three adequate grounds
+**One genus, three adequate grounds**
 
 ```text
 saṃvara
@@ -275,7 +268,7 @@ saṃvara
 
 Shared classification as restraint does not entail identical genesis.
 
-### State and restraint co-arise
+**State and restraint co-arise**
 
 ```text
 meditative consciousness acquired
@@ -288,7 +281,7 @@ noble uncontaminated ground acquired
 The state does not first exist as a complete acquisition and then manufacture
 restraint in an externally subsequent moment.
 
-### Procedure is causally efficacious
+**Procedure is causally efficacious**
 
 ```text
 valid notification or recognized alternative procedure
@@ -298,7 +291,7 @@ valid notification or recognized alternative procedure
 Convention here is practical form with causal consequences. It neither merely
 describes an already acquired vow nor creates it through arbitrary words.
 
-### The `ādi` prevents a false universal
+**The `ādi` prevents a false universal**
 
 ```text
 ordinary prātimokṣa acquisition
@@ -310,9 +303,9 @@ all prātimokṣa acquisition
 
 The exceptional cases belong to the definition of the acquisition field.
 
-## 9. Interpretive Essay
+## 9. Interpretive Note
 
-### From possession to genesis
+**From possession to genesis**
 
 VAK 4.19–4.25 asked which determinations are possessed, in what temporal mode,
 and whether vijñapti and avijñapti can separate. VAK 4.26 changes the question:
@@ -329,7 +322,7 @@ The result is a practical science of genesis. A durable determination cannot
 be explained only by pointing to its later persistence; its adequate ground of
 acquisition must be specified.
 
-### Does cetanā divide into vijñapti and avijñapti?
+**Does cetanā divide into vijñapti and avijñapti?**
 
 The proposal remains powerful but requires qualification. VAK 4.25 showed
 that weak cetanā may produce vijñapti without avijñapti, so cetanā certainly
@@ -365,7 +358,7 @@ specific acquisition-ground
 This preserves the user’s insight without prematurely forcing every
 acquisition into a single derivation.
 
-### The vow is more than a prohibition
+**The vow is more than a prohibition**
 
 The contrast with conventional yama commentary is now especially clear. This
 sequence does not merely enumerate prohibited acts or praise ethical ideals.
@@ -383,7 +376,7 @@ That is why this section exceeds a simple yama–niyama comparison. It supplies
 the missing ontology of discipline: how a rule becomes an actual form of the
 continuum.
 
-### Institution as practical causality
+**Institution as practical causality**
 
 Prātimokṣa acquisition is philosophically striking because formal procedure
 can institute real karmic form. A declaration does not merely report an inward
@@ -410,7 +403,7 @@ This is an Organon reconstruction. Vasubandhu explicitly teaches the three
 acquisition grounds, co-arising with meditative consciousness, and the Vinaya
 plurality included by `ādi`.
 
-## 10. OWL++ Formalization
+## 10. OWL++ Seed
 
 ```text
 Class: Restraint

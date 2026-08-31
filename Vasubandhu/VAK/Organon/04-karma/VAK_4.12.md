@@ -75,7 +75,7 @@ vipāka-jam                → vipākajam
 | ubhayam | nominative neuter singular | either/both functional roles taken together |
 | vipākajam | nominative neuter singular compound adjective | born from karmic maturation |
 
-### The range of `śubhādi`
+**The range of `śubhādi`**
 
 The Bhāṣya expands `śubha` and “so forth” into the standard threefold ethical
 classification:
@@ -93,7 +93,7 @@ indeterminate
 For each possible initiator, the continuator may belong to any of the three
 classes.
 
-### The referent of `muni`
+**The referent of `muni`**
 
 `Muni` is not left as a generic sage in the commentary.
 
@@ -106,7 +106,7 @@ buddhasya tu bhagavataḥ
 
 The Buddha-case must therefore be translated specifically.
 
-### The compressed `tulyaṃ ... śubhaṃ yāvat`
+**The compressed `tulyaṃ ... śubhaṃ yāvat`**
 
 The kārikā compresses an asymmetric rule.
 
@@ -129,7 +129,7 @@ Thus `tulya` does not establish exceptionless identity. It establishes a
 restricted correspondence whose possible variation is only toward the
 wholesome.
 
-### Witness cautions
+**Witness cautions**
 
 The verse line in the prose witness reads `vipāpkajam`; the sense and following
 explanation require `vipākajam`.
@@ -288,7 +288,7 @@ karma.
 | nirabhisaṃskāra-vāhitva | proceeding without deliberate construction | reason maturation-born cognition is neither initiator nor continuator |
 | saṃtati | continuum | ordered cognitive series in which ethical variation occurs |
 
-### Controlled Organon terms
+**Controlled Organon terms**
 
 | Organon term | Function here |
 |---|---|
@@ -309,7 +309,7 @@ not
 
 ## 8. Logical Determination
 
-### The ordinary ninefold matrix
+**The ordinary ninefold matrix**
 
 The Bhāṣya rejects an exceptionless matching rule:
 
@@ -339,7 +339,7 @@ Thus:
 
 The action-series is causally connected without being ethically homogeneous.
 
-### The Buddha's constrained transition relation
+**The Buddha's constrained transition relation**
 
 No unwholesome cognition is assigned to the Buddha in this discussion.
 
@@ -377,7 +377,7 @@ wholesome
 “Monotonic” is an Organon description of the transition rule, not a Sanskrit
 term in the passage.
 
-### The school dispute about Buddha-cognition
+**The school dispute about Buddha-cognition**
 
 Another school argues:
 
@@ -420,7 +420,7 @@ magical-creation cognition
 
 The Bhāṣya preserves the disagreement rather than erasing it.
 
-### Why maturation-born cognition is neither
+**Why maturation-born cognition is neither**
 
 The functional contrast is:
 
@@ -447,7 +447,7 @@ causally unrelated to the continuum.
 It means that receiving a result is not the same function as actively
 projecting or sustaining a new deed.
 
-### Continuity without qualitative identity
+**Continuity without qualitative identity**
 
 The action-process can be represented as:
 
@@ -466,9 +466,9 @@ yet A remains one causally organized action-series
 Identity of process is therefore grounded in causal-functional organization,
 not in repetition of one ethical predicate at every moment.
 
-## 9. Interpretive Essay
+## 9. Interpretive Note
 
-### Closure of the difficult opening architecture
+**Closure of the difficult opening architecture**
 
 VAK 4.12 completes the analysis begun when bodily and verbal karma were divided
 into manifest and non-manifest modes.
@@ -502,7 +502,7 @@ ethical variation permitted within the continuing action-series
 This is not yet a declaration that the next verse must have a predetermined
 meaning. But 4.12 does complete a coherent causal-functional block.
 
-### A pipeline is not ethical automation
+**A pipeline is not ethical automation**
 
 The functional pipeline does not mechanically reproduce the ethical quality of
 its first station.
@@ -531,7 +531,7 @@ continuity
     ≠ automatic reproduction of the beginning
 ```
 
-### Persistence and transformation
+**Persistence and transformation**
 
 We can now state more precisely how a practical determination persists through
 a vanishing field.
@@ -556,7 +556,7 @@ different cognitions and different ethical values within one action-series.
 
 Essence persists by organizing difference.
 
-### The Buddha as disciplined transition
+**The Buddha as disciplined transition**
 
 The Buddha-case does not abolish functional plurality.
 
@@ -589,7 +589,7 @@ not necessarily
 This strongly supports our understanding of discipline as organization of the
 field rather than suppression of differentiation.
 
-### Result is not production
+**Result is not production**
 
 The exclusion of maturation-born cognition introduces a decisive pipeline
 boundary.
@@ -620,7 +620,7 @@ The distinction will matter whenever Karma is treated as a functional system.
 A pipeline must identify which stages receive, which transform, which project,
 and which sustain.
 
-### The transition toward discipline
+**The transition toward discipline**
 
 If 4.13 begins the restraint material anticipated by the chapter map, the
 preceding block has prepared it thoroughly.
@@ -646,7 +646,7 @@ That makes a later comparison with yama and niyama potentially substantive.
 But the exact transition belongs to VAK 4.13 and must be established from that
 text after the coffee boundary.
 
-## 10. OWL++ Formalization
+## 10. OWL++ Seed
 
 ```text
 Class: Dharma

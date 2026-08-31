@@ -54,7 +54,7 @@ tat-pathaḥ
 | `karma` | nominative neuter singular | action; karma |
 | `tatpathaḥ` | nominative masculine singular | its path; the corresponding action-course |
 
-### The omitted `avyākṛta`
+**The omitted `avyākṛta`**
 
 The Bhāṣya expands the first compound as:
 
@@ -69,7 +69,7 @@ anivṛta-avyākṛta
 Thus `nivṛta` and `anivṛta` do not oppose restraint and non-restraint. They
 differentiate two kinds of ethically indeterminate or neutral vijñapti.
 
-### `asaṃvara`
+**`asaṃvara`**
 
 ```text
 a-saṃvara
@@ -80,7 +80,7 @@ The privative prefix does not name simple absence. The middle position from
 VAK 4.21 already supplies the case of one established in neither restraint nor
 non-restraint. `Asaṃvara` is a positive acquired contrary determination.
 
-### `duścarita`
+**`duścarita`**
 
 ```text
 dus + carita
@@ -91,12 +91,12 @@ dus + carita
 The Bhāṣya grounds this name in censure by good people and in the production
 of undesirable fruit.
 
-### `dauḥśīlya`
+**`dauḥśīlya`**
 
 `Dauḥśīlya` is the condition opposed to `śīla`. “Bad discipline” preserves
 that explicit relation better than a generic moral label.
 
-### `tatpatha`
+**`tatpatha`**
 
 The Bhāṣya explains “its path” as `karmapatha`, path of action, because the
 determination is included in the fundamental or principal phase (`maula`) of
@@ -104,7 +104,7 @@ the action-course.
 
 ## 4. Grammar and Construe
 
-### Completion of the vijñapti rule
+**Completion of the vijñapti rule**
 
 ```text
 na [kaścit]
@@ -119,7 +119,7 @@ samanvitaḥ
 The subject “no one” and the nouns `avyākṛta` and `vijñapti` are supplied by
 the Bhāṣya. The dual morphology covers both kinds.
 
-### Five co-referential predicates
+**Five co-referential predicates**
 
 ```text
 asaṃvaraḥ
@@ -133,7 +133,7 @@ The change of grammatical gender does not multiply the referents. Vasubandhu
 calls the expressions `paryāyaśabdāḥ`, alternative designations of the same
 non-restraint complex.
 
-### Grounds of predication
+**Grounds of predication**
 
 The prose assigns a distinct ground to each name:
 
@@ -154,15 +154,9 @@ karmapatha
     because it belongs to the fundamental action-course
 ```
 
-### Close construe
-
-> And no one is endowed with past vijñapti of either the obscured-neutral or
-> unobscured-neutral kind. Non-restraint [is also called] bad conduct, bad
-> discipline, karma, and its action-course.
-
 ## 5. Translation
 
-### Close syntactic translation
+### Close syntactic construe
 
 > And no one is endowed with the past obscured-indeterminate or
 > unobscured-indeterminate vijñaptis. Non-restraint is [also called]
@@ -195,18 +189,18 @@ gives the alternative names and their distinct explanatory grounds.
 
 ## 7. Technical Vocabulary
 
-### `nivṛtāvyākṛta`
+**`nivṛtāvyākṛta`**
 
 Obscured-indeterminate action is ethically neutral yet associated with an
 obscuring condition. The verse concerns past manifest action of this class,
 not every obscured-neutral dharma.
 
-### `anivṛtāvyākṛta`
+**`anivṛtāvyākṛta`**
 
 Unobscured-indeterminate action is neutral without that obscuring condition.
 Its past vijñapti is likewise not possessed.
 
-### Weak acquisition
+**Weak acquisition**
 
 The recovered Bhāṣya gives the rule:
 
@@ -219,7 +213,7 @@ weak dharma
 When asked why the dharma is weak, Vasubandhu answers that it is made by
 consciousness (`cittakṛta`).
 
-### `jaḍā` and `paratantrā`
+**`jaḍā` and `paratantrā`**
 
 An interlocutor could object that an obscured-neutral consciousness should
 then also lack continuing acquisition. Vasubandhu distinguishes vijñapti:
@@ -236,13 +230,13 @@ consciousness
 A vijñapti produced by a weak consciousness is weaker still. This is the
 Bhāṣya’s reason that its past neutral forms are not possessed.
 
-### `paryāyaśabda`
+**`paryāyaśabda`**
 
 The five expressions are alternative names. Their co-reference does not make
 their meanings interchangeable in every context, because each predicate is
 licensed by a different ground.
 
-### `maulasaṃgṛhīta`
+**`maulasaṃgṛhīta`**
 
 To be included in the fundamental phase is to belong to the principal
 completion of an action-course rather than merely its preparation or aftermath.
@@ -250,7 +244,7 @@ This is why the non-restraint complex can be called a `karmapatha`.
 
 ## 8. Logical Determination
 
-### Occurrence does not guarantee past possession
+**Occurrence does not guarantee past possession**
 
 VAK 4.23 gave the general rule that, after the first moment, vijñapti may be
 possessed as past. VAK 4.24 restricts it:
@@ -267,13 +261,13 @@ past neutral vijñapti
 The ethical-causal strength of the determination affects its temporal
 attachment.
 
-### Dependency does not mean unreality
+**Dependency does not mean unreality**
 
 The Bhāṣya calls vijñapti dependent and inert. This explains the weakness of a
 neutral manifestation produced by weak consciousness; it does not deny that
 the manifest action occurred.
 
-### Determinate negation
+**Determinate negation**
 
 ```text
 absence of restraint
@@ -287,7 +281,7 @@ asaṃvara
 The prefix `a-` therefore marks a positive contrary here, not bare logical
 non-being.
 
-### One determination, several Aspect-predicates
+**One determination, several Aspect-predicates**
 
 ```text
 one asaṃvara complex
@@ -301,9 +295,9 @@ one asaṃvara complex
 The identity of the referent and the difference of the grounds must be held
 together.
 
-## 9. Interpretive Essay
+## 9. Interpretive Note
 
-### The return to vijñapti gains a limit
+**The return to vijñapti gains a limit**
 
 VAK 4.23 returned from avijñapti to vijñapti and established manifestation as
 present during production, past afterward, and never possessed as future.
@@ -323,7 +317,7 @@ manifest action
 The temporal predicate depends upon what kind of action has appeared, not
 merely upon the passage of its moment.
 
-### The second privative dyad
+**The second privative dyad**
 
 The chapter now gives another `a-` opposition:
 
@@ -357,7 +351,7 @@ madhyastha
 The dyadic plane therefore rests within a wider field capable of distinguishing
 opposition from simple absence.
 
-### The negative series mirrors the positive series
+**The negative series mirrors the positive series**
 
 VAK 4.16 named the restraint complex through discipline, good conduct, karma,
 restraint, and action-course. VAK 4.24 supplies its counter-series:
@@ -387,7 +381,7 @@ each becomes manifest and non-manifest
 through its own practical course
 ```
 
-### The Copula distributes predicates by grounds
+**The Copula distributes predicates by grounds**
 
 The alternative names display the Ideal Copula in a precise classificatory
 form. To say “asaṃvara is karma” does not reduce non-restraint to a synonym of
@@ -409,7 +403,7 @@ This is an Organon synthesis. Vasubandhu’s explicit teaching is the absence of
 past possession for neutral vijñapti and the five grounded designations of
 non-restraint.
 
-## 10. OWL++ Formalization
+## 10. OWL++ Seed
 
 ```text
 Class: Vijnapti

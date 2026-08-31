@@ -62,7 +62,7 @@ prātimokṣa-kriyāpathaḥ   → prātimokṣakriyāpathaḥ
 | prātimokṣa | technical term | strict first-moment release or casting off of evil |
 | kriyāpatha | course of activity | transmitted kārikā expression; prose explains `karmapatha` |
 
-### Correction of `ādye`
+**Correction of `ādye`**
 
 The initial seed construed `ādye` as “the first two” names, `śīla` and
 `sucarita`.
@@ -76,7 +76,7 @@ saṃvara-samādānasya prathame
 
 Thus `ādye` is locative singular, not nominative dual.
 
-### Textual caution in the final expression
+**Textual caution in the final expression**
 
 The kārikā witness gives `prātimokṣakriyāpathaḥ`; the prose e-text contains
 `prātimokṣakiyāpathaḥ` at the verse citation but immediately explains the term
@@ -235,7 +235,7 @@ Vasubandhu's preceding explanation.
 
 ## 8. Logical Determination
 
-### Four predicates, four grounds
+**Four predicates, four grounds**
 
 | Predicate | Ground of predication |
 |---|---|
@@ -247,7 +247,7 @@ Vasubandhu's preceding explanation.
 The terms converge upon one restraint-complex without becoming synonyms in
 every context.
 
-### How `avijñapti` can be `akriyā` and `karma`
+**How `avijñapti` can be `akriyā` and `karma`**
 
 The objection is:
 
@@ -282,7 +282,7 @@ How does restraint itself become actual?
     → it is positively produced
 ```
 
-### Acquisition and continuation
+**Acquisition and continuation**
 
 ```text
 first moment of restraint-taking
@@ -303,7 +303,7 @@ initiation
     ≠ continuation
 ```
 
-### Fundamental and subsequent phases
+**Fundamental and subsequent phases**
 
 The Bhāṣya distinguishes:
 
@@ -319,9 +319,9 @@ pṛṣṭha
 fundamental phase. The subsequent phase is not itself that fundamental
 action-course.
 
-## 9. Interpretive Essay
+## 9. Interpretive Note
 
-### Discipline is positive practical activity
+**Discipline is positive practical activity**
 
 VAK 4.16 guards against treating restraint as an empty absence.
 
@@ -348,7 +348,7 @@ whose function is the non-performance of evil
 The precise ontological reconstruction remains open. The textual distinction
 is already secure.
 
-### Acquisition is not persistence
+**Acquisition is not persistence**
 
 The strict meaning of `prātimokṣa` belongs to the first moment because release
 from evil is then actively accomplished through manifest and non-manifest
@@ -369,7 +369,7 @@ This is another example of Dharma arranging itself through functional Aspects.
 The same discipline has an initiating station and a continuing station without
 requiring those stations to be identical.
 
-### Contact with yama
+**Contact with yama**
 
 The Yoga contact remains clear but controlled.
 
@@ -381,7 +381,7 @@ But VAK 4.16 is especially concerned with the Buddhist technical relation
 among `vijñapti`, `avijñapti`, `prātimokṣa`, and `karmapatha`. Those terms should
 not be replaced by Yoga vocabulary.
 
-## 10. OWL++ Formalization
+## 10. OWL++ Seed
 
 ```text
 Class: PratimokshaRestraint

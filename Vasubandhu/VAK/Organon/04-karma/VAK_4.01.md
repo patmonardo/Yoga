@@ -183,7 +183,7 @@ problem opens with `vijñapti` and `avijñapti` in the following unit.
 
 ## 8. Logical Determination
 
-### Explanatory and genetic orders
+**Explanatory and genetic orders**
 
 The exposition begins from actuality and asks for its ground:
 
@@ -206,7 +206,7 @@ The middle relation—how momentary activity acquires or retains the efficacy
 to produce later results—is not yet supplied by VAK 4.01. It is the problem
 bequeathed to the chapter.
 
-### Two intersecting divisions
+**Two intersecting divisions**
 
 ```text
 causal division:
@@ -224,7 +224,7 @@ The members of the threefold division are therefore not coordinate in every
 respect. Mental action is the determining activity; bodily and verbal actions
 are its generated expressions.
 
-### Bhāṣya test of classification
+**Bhāṣya test of classification**
 
 No single undifferentiated criterion preserves the threefold distinction:
 
@@ -246,7 +246,7 @@ The attributed Vaibhāṣika solution uses distinct classificatory grounds in
 sequence. The Bhāṣya thereby turns a received list into a question about what
 makes each distinction valid.
 
-### Immanent rather than external production
+**Immanent rather than external production**
 
 ```text
 not:

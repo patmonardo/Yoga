@@ -62,18 +62,18 @@ bhikṣu-vat
 | `tu` | contrastive particle | however; in turn |
 | `bhikṣuvat` | indeclinable comparative | as in the case of a monk |
 
-### `anyasya`
+**`anyasya`**
 
 The Bhāṣya explains “another” as a person not previously established as an
 upavāsaka. Prior temporary-observer status is not required.
 
-### `śaraṇagamana`
+**`śaraṇagamana`**
 
 The verse says “one who has not gone for refuge.” The Bhāṣya specifies refuge
 in Buddha, Dharma, and Saṃgha as the required orientation preceding
 acquisition of upavāsa.
 
-### `upāsakatvopagama`
+**`upāsakatvopagama`**
 
 ```text
 upāsakatva
@@ -88,14 +88,14 @@ upagama
 The compound names a practical transition into lay-follower status, not mere
 external classification by an observer.
 
-### `ukti`
+**`ukti`**
 
 `Ukti` is the subsequent statement of the training rules. The Bhāṣya assigns
 it the function of `vyutpādana`, instruction or clarification.
 
 ## 4. Grammar and Construe
 
-### Eligibility for upavāsa
+**Eligibility for upavāsa**
 
 ```text
 anyasya api upavāsaḥ asti
@@ -106,7 +106,7 @@ anyasya api upavāsaḥ asti
 The Bhāṣya completes the condition: that person goes for refuge and then
 undertakes the day-and-night observance.
 
-### Refuge qualification
+**Refuge qualification**
 
 ```text
 śaraṇam tu agatasya na [asti]
@@ -117,7 +117,7 @@ undertakes the day-and-night observance.
 The verb `asti` carries forward. The denial concerns acquisition of the
 restraint, not the physical possibility of imitating its outward conduct.
 
-### Acquisition of lay restraint
+**Acquisition of lay restraint**
 
 ```text
 upāsakatva-upagamāt saṃvṛt
@@ -134,7 +134,7 @@ upāsaka-saṃvaraḥ jāyate
 
 This is the Kāśmīra interpretation presented in the commentary.
 
-### Function of the later statement
+**Function of the later statement**
 
 ```text
 uktiḥ tu bhikṣu-vat
@@ -146,16 +146,9 @@ The analogy concerns instruction after acquisition. Monks and novices who
 already possess restraint are subsequently taught its training rules so they
 understand its determinate content.
 
-### Close construe
-
-> Upavāsa restraint also arises for one not previously established in it, but
-> not for one who has not gone for refuge. From undertaking upāsaka status,
-> restraint [arises]; the subsequent statement [of the rules], however, is for
-> instruction, as with a monk.
-
 ## 5. Translation
 
-### Close syntactic translation
+### Close syntactic construe
 
 > Upavāsa restraint may also arise for another, but not for one who has not
 > gone for refuge. From entering upāsaka status restraint arises; the statement
@@ -189,13 +182,13 @@ Bhāṣya. The Bahirdeśaka alternative identifies refuge itself as sufficient.
 
 ## 7. Technical Vocabulary
 
-### `anupavāsaka`
+**`anupavāsaka`**
 
 One who was not previously an upavāsaka can still receive the observance. The
 procedure creates the relevant temporary status; it does not presuppose the
 very status it institutes.
 
-### Refuge as orientation
+**Refuge as orientation**
 
 ```text
 Buddha
@@ -209,7 +202,7 @@ For upavāsa acquisition, refuge supplies the required Buddhist orientation.
 The verse does not yet analyze what the Three Refuges are; that comes in VAK
 4.32.
 
-### Bahirdeśaka position
+**Bahirdeśaka position**
 
 ```text
 going for refuge
@@ -219,7 +212,7 @@ going for refuge
 Teachers of the outer regions take refuge itself as sufficient to establish
 the lay follower.
 
-### Kāśmīra position
+**Kāśmīra position**
 
 ```text
 refuge alone
@@ -232,18 +225,18 @@ undertaking upāsaka status
 
 Their controlling claim is that there is no upāsaka without restraint.
 
-### `upāsakasaṃvara`
+**`upāsakasaṃvara`**
 
 Lay restraint is the practical determination produced through undertaking
 upāsaka status on the Kāśmīra account. Status and restraint are internally
 connected rather than externally paired labels.
 
-### `vyutpādana`
+**`vyutpādana`**
 
 `Vyutpādana` is instruction, explication, or causing someone to understand.
 The training rules articulate what the already acquired restraint requires.
 
-### Elliptical lifelong formula
+**Elliptical lifelong formula**
 
 The Bhāṣya glosses the undertaking extending “for life, free from taking
 life” as an ellipsis for being free from killing and the other transgressions.
@@ -252,7 +245,7 @@ separate clause of the kārikā.
 
 ## 8. Logical Determination
 
-### Three moments
+**Three moments**
 
 ```text
 orientation
@@ -269,7 +262,7 @@ explication
 
 The moments are ordered but not interchangeable.
 
-### Acquisition is not instruction
+**Acquisition is not instruction**
 
 ```text
 restraint acquired
@@ -280,7 +273,7 @@ training rules fully stated
 Therefore explicit propositional knowledge of every limb is not, on the
 Kāśmīra account, the event that first generates the restraint.
 
-### Orientation and status are disputed
+**Orientation and status are disputed**
 
 ```text
 Bahirdeśaka:
@@ -293,7 +286,7 @@ Kāśmīra:
 
 The Bhāṣya preserves a genuine alternative in the analysis of genesis.
 
-### Status is not a free-standing label
+**Status is not a free-standing label**
 
 ```text
 upāsaka status
@@ -303,9 +296,9 @@ upāsaka status
 For the Kāśmīras, each determines the other. A merely nominal upāsaka without
 restraint is rejected.
 
-## 9. Interpretive Essay
+## 9. Interpretive Note
 
-### Vasubandhu distinguishes genesis from exposition
+**Vasubandhu distinguishes genesis from exposition**
 
 This is precisely the kind of distinction that makes Vasubandhu “one of us.”
 The surface sequence might suggest that refuge, declaration, restraint, status,
@@ -326,7 +319,7 @@ instruction
 The analysis refuses to substitute the final verbal exposition for the
 genetic act by which the status arose.
 
-### Practical form can precede explicit comprehension
+**Practical form can precede explicit comprehension**
 
 The recipient may acquire restraint before being instructed in every rule it
 contains. This does not make the rules accidental. It means the acquired whole
@@ -343,7 +336,7 @@ whole practical status acquired
 
 The genetic order and the order of explicit knowledge are therefore distinct.
 
-### The dispute concerns the Copula of identity
+**The dispute concerns the Copula of identity**
 
 What makes someone an upāsaka?
 
@@ -367,7 +360,7 @@ restraint arises
 
 The status and its practical content reciprocally determine one another.
 
-### Beyond artificial ethical commentary
+**Beyond artificial ethical commentary**
 
 An artificial system merely states who belongs to a category and lists the
 rules attached to it. Vasubandhu reconstructs the transitions:
@@ -386,7 +379,7 @@ This is an Organon development. The school positions, acquisition sequence,
 and distinction between restraint and subsequent instruction are explicit in
 the Bhāṣya.
 
-## 10. OWL++ Formalization
+## 10. OWL++ Seed
 
 ```text
 Class: Person

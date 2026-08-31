@@ -196,7 +196,7 @@ rūpa-classified
 
 ## 8. Logical Determination
 
-### Same-level support for contaminated action
+**Same-level support for contaminated action**
 
 ```text
 For each ordinary material level X:
@@ -207,7 +207,7 @@ For each ordinary material level X:
 
 The relation is systematically level-indexed, not merely organism-indexed.
 
-### Uncontaminated action crosses two axes
+**Uncontaminated action crosses two axes**
 
 ```text
 Axis 1 — soteriological status:
@@ -238,7 +238,7 @@ it does not follow that
     the supporting matter is itself uncontaminated
 ```
 
-### Pure action does not imply pure matter
+**Pure action does not imply pure matter**
 
 The rejected inference would be:
 
@@ -260,7 +260,7 @@ therefore its material actuality is mediated by
 
 This blocks a duplication of substances at the material level.
 
-### Materiality and appropriation
+**Materiality and appropriation**
 
 ```text
 avijñapti

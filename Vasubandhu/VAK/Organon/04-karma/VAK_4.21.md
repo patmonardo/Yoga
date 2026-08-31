@@ -58,18 +58,18 @@ dvi-kālayā
 | `ūrdhvam` | adverb | afterward; subsequently |
 | `dvikālayā` | instrumental feminine singular compound | with [avijñapti in] two times |
 
-### `samāhita`
+**`samāhita`**
 
 `Samāhita` means collected, concentrated, or actually entered into meditative
 concentration. The Bhāṣya contrasts this with `vyutthita`, one who has emerged
 from that state.
 
-### `āryamārgastha`
+**`āryamārgastha`**
 
 One “standing in the noble Path” is presently entered into the Path-state.
 The corresponding present avijñapti is uncontaminated restraint.
 
-### `madhyastha`
+**`madhyastha`**
 
 The Bhāṣya defines the term exactly:
 
@@ -82,7 +82,7 @@ nor established in non-restraint
 mean moderation, synthesis, neutrality of every action, or spiritual
 attainment.
 
-### `madhyā`
+**`madhyā`**
 
 The present is called the middle temporal mode because it stands between past
 and future:
@@ -92,14 +92,14 @@ past — present — future
        middle
 ```
 
-### `dvikāla`
+**`dvikāla`**
 
 The two times are past and present. Future possession is not predicated of the
 occasional avijñapti belonging to the middle person here.
 
 ## 4. Grammar and Construe
 
-### The dual subject
+**The dual subject**
 
 ```text
 samāhita [and] āryamārgastha
@@ -116,13 +116,13 @@ one entered into the noble Path
     → present uncontaminated avijñapti
 ```
 
-### Actual entry, not mere qualification
+**Actual entry, not mere qualification**
 
 The prose adds `na tu vyutthitau`, “but not when emerged.” Present possession
 requires actual occurrence of the corresponding consciousness. This completes
 the meaning of `cittānuvartin` from VAK 4.17.
 
-### The conditional middle case
+**The conditional middle case**
 
 ```text
 madhyasthasya asti cet
@@ -133,7 +133,7 @@ madhyasthasya asti cet
 The conditional is doctrinally important. A person established in neither
 system does not necessarily possess avijñapti at all.
 
-### First and later moments
+**First and later moments**
 
 ```text
 ādau madhyayā
@@ -146,16 +146,9 @@ system does not necessarily possess avijñapti at all.
 The Bhāṣya identifies the latter as past and present. `Atyāga`,
 non-abandonment, continues to govern this possession.
 
-### Close construe
-
-> The concentrated practitioner and the one established in the noble Path are
-> respectively joined with present [avijñapti]. If one in the middle position
-> possesses [avijñapti], at first [he is joined] with the middle [time, the
-> present], and afterward with [it in] two times.
-
 ## 5. Translation
 
-### Close syntactic translation
+### Close syntactic construe
 
 > The concentrated practitioner and the one established in the noble Path are
 > joined with present avijñapti. If one standing in the middle possesses
@@ -190,13 +183,13 @@ determination without converting the `madhyastha` into a metaphysical Middle.
 
 ## 7. Technical Vocabulary
 
-### `vyutthita`
+**`vyutthita`**
 
 `Vyutthita` means emerged from or no longer entered into a meditative or Path
 state. A person may retain the status of a meditator or noble person while not
 presently possessing the corresponding mind-following avijñapti.
 
-### Present mind-following restraint
+**Present mind-following restraint**
 
 ```text
 corresponding consciousness present
@@ -210,7 +203,7 @@ This is narrower than saying the continuum has lost every temporal relation to
 that restraint. VAK 4.20 already distinguished possession in past and future
 modes.
 
-### The middle practical position
+**The middle practical position**
 
 The threefold field from VAK 4.13 is now temporally completed:
 
@@ -223,20 +216,20 @@ neither restraint nor non-restraint
 The third position lacks an established restraint-system or non-restraint-
 system. It is nevertheless open to determinate karmic production.
 
-### Occasional avijñapti
+**Occasional avijñapti**
 
 The Bhāṣya mentions avijñapti included under misconduct, components of
 discipline, and related cases. Such avijñapti is episodic rather than the
 continuous mark of an established practical status.
 
-### `dauḥśīlyaśīlāṅgādi-saṃgṛhīta`
+**`dauḥśīlyaśīlāṅgādi-saṃgṛhīta`**
 
 This Bhāṣya expression gathers occasional avijñapti connected with bad
 conduct, components of discipline, and similar cases. It shows that the
 middle person’s action can receive either practical coloration without making
 the person established in the corresponding comprehensive system.
 
-### Non-abandonment
+**Non-abandonment**
 
 The inherited `atyāga` condition remains operative. Once an occasional
 avijñapti has arisen, its past-and-present possession continues only so long as
@@ -244,7 +237,7 @@ it has not been abandoned.
 
 ## 8. Logical Determination
 
-### State-dependent present determination
+**State-dependent present determination**
 
 ```text
 meditative consciousness
@@ -257,7 +250,7 @@ noble-Path consciousness
 The double arrow marks co-presence in the present analysis, not identity of
 consciousness and restraint.
 
-### System and episode
+**System and episode**
 
 ```text
 established restraint or non-restraint
@@ -271,7 +264,7 @@ madhyastha
 One action-trace does not automatically constitute the bearer as established
 in a comprehensive vow or counter-vow.
 
-### Temporal development of the episode
+**Temporal development of the episode**
 
 ```text
 first moment
@@ -283,7 +276,7 @@ subsequent moments
 
 Even an episodic determination acquires temporal depth once produced.
 
-### The opposition is not exhaustive
+**The opposition is not exhaustive**
 
 ```text
 not established in restraint
@@ -298,9 +291,9 @@ established in restraint
 The `madhyastha` blocks conversion of contrary practical systems into a simple
 exhaustive binary.
 
-## 9. Interpretive Essay
+## 9. Interpretive Note
 
-### A vow is a system, not an isolated good deed
+**A vow is a system, not an isolated good deed**
 
 VAK 4.21 helps distinguish a vow from an occasional action. A middle person
 may perform a deed connected with discipline and thereby acquire an
@@ -321,7 +314,7 @@ undertaken vow
 The difference is not that one is real and the other unreal. It concerns the
 scope and organization of the practical determination.
 
-### The third position is not the speculative Middle
+**The third position is not the speculative Middle**
 
 The word `madhyastha` is tempting because the preceding studies have developed
 the productive Middle of the Ideal Copula. Here the Sanskrit licenses a much
@@ -344,7 +337,7 @@ madhyastha here
 Keeping those levels separate prevents a useful analogy from falsifying the
 text.
 
-### Practice beyond formal vows
+**Practice beyond formal vows**
 
 This verse also explains why practical knowledge cannot be reduced to the
 formal taxonomy of vows. A person outside both established systems can still
@@ -360,7 +353,7 @@ categories. Those inward disciplines would have to be reconstructed from
 other domains of study, contemplation, and Path rather than extracted from
 this restraint taxonomy.
 
-### Two ways determination enters actuality
+**Two ways determination enters actuality**
 
 At the Organon level, VAK 4.21 distinguishes:
 
@@ -380,7 +373,7 @@ This is an Organon reconstruction. Vasubandhu’s explicit claims concern
 present possession during concentration or Path, its absence when emerged,
 and the conditional temporal possession of a middle person’s avijñapti.
 
-## 10. OWL++ Formalization
+## 10. OWL++ Seed
 
 ```text
 Class: Restraint

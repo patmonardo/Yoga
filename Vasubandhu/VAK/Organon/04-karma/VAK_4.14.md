@@ -58,7 +58,7 @@ avirodhinaḥ               → avirodhinaḥ
 | te | nominative masculine plural pronoun | those; Bhāṣya: successively acquired restraints |
 | avirodhin | nominative masculine plural adjective | mutually non-conflicting or compatible |
 
-### Eight by disciplinary name
+**Eight by disciplinary name**
 
 The Bhāṣya enumerates:
 
@@ -73,7 +73,7 @@ The Bhāṣya enumerates:
 8. upavāsa restraint
 ```
 
-### Four by distinct type
+**Four by distinct type**
 
 The four real restraint-types are:
 
@@ -87,7 +87,7 @@ The four real restraint-types are:
 The corresponding female disciplinary designations do not add new restraint-
 natures to this fourfold classification.
 
-### `Dravya` caution
+**`Dravya` caution**
 
 `Dravyataḥ` asks how many genuinely distinct restraint-determinations are
 recognized within this Abhidharma classification.
@@ -95,7 +95,7 @@ recognized within this Abhidharma classification.
 It should not be made to carry an imported Aristotelian or modern material
 notion of “substance.” The controlled rendering is “as distinct real type.”
 
-### `Liṅga` determined by the Bhāṣya
+**`Liṅga` determined by the Bhāṣya**
 
 The prose glosses `liṅga` with `vyañjana`: the bodily sex-characteristic by
 which female and male are distinguished in this disciplinary system.
@@ -103,7 +103,7 @@ which female and male are distinguished in this disciplinary system.
 This is narrower than the full lexical range of `liṅga`, which can otherwise
 mean mark, sign, or characteristic.
 
-### Witness caution
+**Witness caution**
 
 The prose alternates `śramaṇera` and `śrāmaṇera`. The source readings remain
 untouched.
@@ -250,7 +250,7 @@ different restraint
 
 ## 8. Logical Determination
 
-### Nominal and real classification
+**Nominal and real classification**
 
 ```text
 eight names
@@ -274,7 +274,7 @@ therefore
     name-change alone does not entail restraint-type change
 ```
 
-### Qualitative distinction versus quantitative increase
+**Qualitative distinction versus quantitative increase**
 
 The next question concerns a practitioner who successively undertakes:
 
@@ -310,7 +310,7 @@ therefore
 This is qualitative expansion of the practical field, not simple arithmetic
 addition.
 
-### Difference without opposition
+**Difference without opposition**
 
 The restraints are distinct but compatible:
 
@@ -334,9 +334,9 @@ simultaneous coexistence
 are compatible
 ```
 
-## 9. Interpretive Essay
+## 9. Interpretive Note
 
-### Discipline as differentiated practical fields
+**Discipline as differentiated practical fields**
 
 VAK 4.14 does not merely list institutional statuses.
 
@@ -356,7 +356,7 @@ The first test blocks over-differentiation. The second blocks reduction of
 higher discipline to a numerical pile of additional rules. The third blocks
 the assumption that difference must mean opposition.
 
-### Contact with Yoga discipline
+**Contact with Yoga discipline**
 
 The Yoga comparison remains strongest at the level of restraint from causal
 occasions of misconduct.
@@ -376,7 +376,7 @@ possibility rather than a checklist of disconnected commands.
 The present verse still does not supply Yoga's positive `niyama` structure.
 Nor should the institutional prātimokṣa classes be translated as Yoga limbs.
 
-### Aspect discrimination
+**Aspect discrimination**
 
 In Organon Light, the verse distinguishes three Aspects of difference:
 
@@ -395,7 +395,7 @@ This is precisely the restraint needed in classification: neither multiplying
 dharmas from every name nor collapsing genuinely different practical grounds
 into one undifferentiated discipline.
 
-## 10. OWL++ Formalization
+## 10. OWL++ Seed
 
 ```text
 Class: PratimokshaRestraint

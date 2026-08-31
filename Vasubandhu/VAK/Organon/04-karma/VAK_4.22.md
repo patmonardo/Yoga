@@ -54,25 +54,25 @@ prasāda-kleśa-vega-vān
 | `kleśa` | compound member | defilement; affliction |
 | `vegavān` | nominative masculine singular possessive adjective | possessing force, momentum, or intensity |
 
-### `śubha` and `aśubha`
+**`śubha` and `aśubha`**
 
 The verse uses the broad evaluative pair wholesome/unwholesome. The Bhāṣya’s
 prose restates it as `kuśala` and `akuśala`. The point is ethical opposition
 between the bearer’s established status and the occasional avijñapti.
 
-### `prasāda`
+**`prasāda`**
 
 `Prasāda` combines clarity, serene confidence, and faith. Here it is not mere
 assent to a proposition. It is a wholesome affective-cognitive force capable
 of generating praise, reverence, and related action.
 
-### `kleśa`
+**`kleśa`**
 
 `Kleśa` is a defilement or affliction. In this verse it supplies the force by
 which one established in restraint can nevertheless generate an unwholesome
 action-trace.
 
-### `vega`
+**`vega`**
 
 ```text
 vega
@@ -87,7 +87,7 @@ force.
 
 ## 4. Grammar and Construe
 
-### First distributed construction
+**First distributed construction**
 
 ```text
 asaṃvara-sthaḥ
@@ -99,7 +99,7 @@ asaṃvara-sthaḥ
 The Bhāṣya gives praise and reverence as examples of acts produced by a strong
 movement of `prasāda`.
 
-### Second distributed construction
+**Second distributed construction**
 
 ```text
 saṃvare sthitaḥ
@@ -111,7 +111,7 @@ aśubhayā avijñaptyā anvitaḥ
 The Bhāṣya gives killing, binding, and striking as examples of actions
 produced by a powerful defilement.
 
-### Duration clause
+**Duration clause**
 
 ```text
 yāvat prasāda-kleśa-vega-vān
@@ -131,7 +131,7 @@ The standing restraint or non-restraint has its own acquisition and
 abandonment conditions. This duration clause governs the occasional contrary
 avijñapti, not the entire established system.
 
-### Temporal possession
+**Temporal possession**
 
 The Bhāṣya adds the temporal rule:
 
@@ -145,15 +145,9 @@ later moments
 
 This is commentary, not wording contained in the kārikā itself.
 
-### Close construe
-
-> One established in non-restraint is endowed with wholesome avijñapti, and
-> one established in restraint with unwholesome avijñapti, for as long as he
-> possesses the force of serene confidence or of defilement [respectively].
-
 ## 5. Translation
 
-### Close syntactic translation
+### Close syntactic construe
 
 > One established in non-restraint may be endowed with wholesome avijñapti,
 > and one established in restraint with unwholesome avijñapti, for as long as
@@ -185,7 +179,7 @@ made by the verse and Bhāṣya without replacing the source categories.
 
 ## 7. Technical Vocabulary
 
-### Established ethical status
+**Established ethical status**
 
 ```text
 saṃvarastha
@@ -198,7 +192,7 @@ asaṃvarastha
 These are standing practical classifications. Neither is a complete inventory
 of every determination that can occur in the continuum.
 
-### Contrary occasional avijñapti
+**Contrary occasional avijñapti**
 
 ```text
 non-restraint bearer
@@ -213,19 +207,19 @@ restraint bearer
 The contrary trace is real without automatically replacing the bearer’s
 established classification.
 
-### `stavavandana`
+**`stavavandana`**
 
 Praise and reverence exemplify wholesome action generated within a continuum
 established in non-restraint. The examples show that the standing status does
 not make wholesome action impossible.
 
-### `vadhabandhanatāḍana`
+**`vadhabandhanatāḍana`**
 
 Killing, binding, and striking exemplify unwholesome action generated within a
 continuum established in restraint. A vow-system therefore does not provide
 automatic immunity from grave contrary action.
 
-### Force-dependent duration
+**Force-dependent duration**
 
 The occasional trace persists according to a different rule from the
 established system:
@@ -238,7 +232,7 @@ generating force ceases
     → contrary avijñapti ceases
 ```
 
-### Closure of the avijñapti topic
+**Closure of the avijñapti topic**
 
 After explaining the first and later temporal moments, Vasubandhu states:
 
@@ -252,7 +246,7 @@ VAK 4.23 therefore begins a new analysis centered upon possession of
 
 ## 8. Logical Determination
 
-### Standing determination and occurrent determination
+**Standing determination and occurrent determination**
 
 ```text
 standing ethical status
@@ -263,7 +257,7 @@ ethical quality of every occurring action
 The same continuum can simultaneously bear an established orientation and a
 contrary local determination.
 
-### Neither status is mechanically total
+**Neither status is mechanically total**
 
 ```text
 established in restraint
@@ -278,7 +272,7 @@ every possible action is unwholesome
 This does not make the established statuses meaningless. It prevents their
 conversion into exceptionless descriptions of occurrent conduct.
 
-### Distinct conditions of persistence
+**Distinct conditions of persistence**
 
 ```text
 established system
@@ -291,7 +285,7 @@ contrary episode
 Coexistence does not imply identity because the two determinations have
 different causal grounds and duration rules.
 
-### Temporal articulation of the episode
+**Temporal articulation of the episode**
 
 ```text
 moment 1
@@ -304,9 +298,9 @@ later moments while force continues
 Thus intensity determines duration, while temporal position determines the
 mode in which the trace is possessed.
 
-## 9. Interpretive Essay
+## 9. Interpretive Note
 
-### A vow is resilient, not magical
+**A vow is resilient, not magical**
 
 VAK 4.22 gives a sober account of vows. To be established in restraint is to
 possess a durable practical system; it is not to become incapable of contrary
@@ -330,7 +324,7 @@ their conflict
     real, but requiring further rules to determine the result
 ```
 
-### Non-restraint is not a complete essence of the person
+**Non-restraint is not a complete essence of the person**
 
 The converse case is equally important. A person established in non-restraint
 can act through powerful `prasāda` and produce wholesome avijñapti. The
@@ -341,7 +335,7 @@ The Kośa therefore avoids defining the bearer as a homogeneous moral
 substance. It analyzes a continuum carrying determinations of different scope,
 quality, cause, and duration.
 
-### Practical freedom appears as a cross-current
+**Practical freedom appears as a cross-current**
 
 At the Organon level, the contrary episode is a cross-current within an
 established practical pipeline. The pipeline conditions what normally arises,
@@ -363,7 +357,7 @@ fantasy of uninterrupted psychological purity. It must understand how contrary
 forces arise, how they persist, and when they merely cross the vow versus when
 they undo it.
 
-### The completed avijñapti movement
+**The completed avijñapti movement**
 
 The section beginning at VAK 4.13 has now moved through:
 
@@ -391,7 +385,7 @@ This synthesis is Organon Light. Vasubandhu’s explicit teaching is the
 possibility and duration of contrary wholesome or unwholesome avijñapti within
 an established opposite status.
 
-## 10. OWL++ Formalization
+## 10. OWL++ Seed
 
 ```text
 Class: EstablishedEthicalStatus

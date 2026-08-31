@@ -70,7 +70,7 @@ sa-vicārayoḥ               → savicārayoḥ
 | vijñaptiḥ | nominative feminine singular | manifest or disclosive bodily/verbal action |
 | savicārayoḥ | locative dual of `savicāra` | in the two levels possessing `vicāra` |
 
-### The scope of `anyat`
+**The scope of `anyat`**
 
 The singular `anyat` is compressed.
 
@@ -97,7 +97,7 @@ avyākṛta
 The close translation must therefore allow a collective remainder even though
 the Sanskrit expression is singular.
 
-### The scope of `savicārayoḥ`
+**The scope of `savicārayoḥ`**
 
 `Savicārayoḥ` is locative dual.
 
@@ -111,7 +111,7 @@ prathama-dhyāna
 Thus `vijñapti` occurs in the desire domain and in the first dhyāna, but not in
 higher dhyānas.
 
-### Witness caution
+**Witness caution**
 
 The transmitted prose `kuśalāvyākṛtaṃ tu sarvatra prativedhāt` is semantically
 difficult in its present form.
@@ -298,7 +298,7 @@ non-manifest
 
 ## 8. Logical Determination
 
-### Ethical classification
+**Ethical classification**
 
 The first matrix is:
 
@@ -337,7 +337,7 @@ to continue after its originating mental event has ceased
 The converse is not established automatically. Causal force alone does not
 prove that every continuation is a distinct `avijñapti` dharma.
 
-### Domain classification
+**Domain classification**
 
 The second matrix is:
 
@@ -386,7 +386,7 @@ formless attainments
 
 The final cluster is explicitly presented as the Vaibhāṣika position.
 
-### The objection concerning uncontaminated restraint
+**The objection concerning uncontaminated restraint**
 
 The Bhāṣya allows a natural objection to appear.
 
@@ -408,7 +408,7 @@ Therefore the uncontaminated status of the Path does not create formless
 matter or permit a formless-domain `avijñapti` to depend upon heterogeneous
 material elements.
 
-### Manifest action and `vicāra`
+**Manifest action and `vicāra`**
 
 The final restriction is:
 
@@ -428,9 +428,9 @@ This is not a general claim that nothing practical occurs at higher levels.
 
 It is a domain restriction upon manifest bodily and verbal karma.
 
-## 9. Interpretive Essay
+## 9. Interpretive Note
 
-### Occurrence is not yet effective determination
+**Occurrence is not yet effective determination**
 
 The major Dharma Talk within this Bhāṣya begins from a deceptively simple
 question:
@@ -478,7 +478,7 @@ ethical force
 This comparison belongs to our philosophical reconstruction. The Bhāṣya itself
 speaks of the mind ceasing and the projected karma continuing.
 
-### Strength as determinative capacity
+**Strength as determinative capacity**
 
 `Durbala` and `balavat` should not be psychologized.
 
@@ -517,7 +517,7 @@ continuity?
 That is the proper point at which the Vaibhāṣika and Sautrāntika constructions
 can later be compared.
 
-### Determination requires a field
+**Determination requires a field**
 
 The second half of the Dharma Talk prevents practical continuity from becoming
 an abstract power detached from its conditions.
@@ -558,7 +558,7 @@ avijñapti
     → requires both determinate force and suitable material support
 ```
 
-### Readable form and doctrinal form
+**Readable form and doctrinal form**
 
 The argument itself shows why the perfected Kośa cannot be written as packed
 textbook prose.
@@ -584,7 +584,7 @@ The Doctrine App and PDF should instead let the reader descend through the
 argument one determination at a time. The visible spacing is not ornamental.
 It is part of the pedagogical representation of the logical structure.
 
-## 10. OWL++ Formalization
+## 10. OWL++ Seed
 
 ```text
 Class: Karma

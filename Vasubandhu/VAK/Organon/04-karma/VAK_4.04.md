@@ -214,7 +214,7 @@ producing basis and present sustaining support perform different functions.
 
 ## 8. Logical Determination
 
-### The common problem
+**The common problem**
 
 ```text
 manifest action
@@ -233,7 +233,7 @@ therefore:
 
 Both schools accept this problem. They disagree about its middle term.
 
-### Vaibhāṣika inference
+**Vaibhāṣika inference**
 
 ```text
 continuing efficacy beyond manifestation
@@ -258,7 +258,7 @@ scriptural form classifications
         → avijñapti exists
 ```
 
-### Sautrāntika counter-model
+**Sautrāntika counter-model**
 
 The Sautrāntika does not infer a separate bearer:
 
@@ -296,7 +296,7 @@ is that a new dharma separate from the operative psycho-physical continuum is
 introduced where transformation of that continuum already explains the
 result.
 
-### The Eightfold Path test
+**The Eightfold Path test**
 
 The Vaibhāṣika argues:
 
@@ -338,7 +338,7 @@ simultaneous possession of eight entities
 one achieved Path whose transformation governs all eight functions
 ```
 
-### Restraint as a falsifiable efficacy
+**Restraint as a falsifiable efficacy**
 
 The Sautrāntika adds a practical test:
 
@@ -353,7 +353,7 @@ therefore restraint operates through
 not necessarily through an automatic material barrier
 ```
 
-### Vaibhāṣika material mechanics
+**Vaibhāṣika material mechanics**
 
 After asserting the real entity, the Vaibhāṣika distinguishes its causes:
 

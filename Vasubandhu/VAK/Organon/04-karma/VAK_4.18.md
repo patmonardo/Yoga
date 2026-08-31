@@ -50,14 +50,14 @@ manaḥ-indriya-saṃvarau
 | `tu` | adversative particle | but; however |
 | `manaindriyasaṃvarau` | nominative masculine dual compound | mind-restraint and faculty-restraint |
 
-### `anāgamya`
+**`anāgamya`**
 
 `Anāgamya` names the preliminary or threshold concentration. The Bhāṣya
 restricts the rule to its nine uninterrupted paths; it does not apply the name
 `prahāṇasaṃvara` to every occurrence of meditation-born or uncontaminated
 restraint.
 
-### `prahāṇākhya`
+**`prahāṇākhya`**
 
 ```text
 prahāṇa
@@ -72,7 +72,7 @@ prahāṇa
 The compound states a designation acquired under definite conditions. It does
 not posit a fourth substance beside the previously distinguished restraints.
 
-### `ānantaryamārga`
+**`ānantaryamārga`**
 
 ```text
 ānantarya
@@ -87,7 +87,7 @@ mārga
 “Uninterrupted path” is retained as the technical rendering. Here it refers to
 the nine path-moments specified by the Bhāṣya.
 
-### `saṃprajñāna` and `smṛti`
+**`saṃprajñāna` and `smṛti`**
 
 `Saṃprajñāna` is situated discriminative awareness: the operation through
 which what is being done and its relevant conditions are clearly comprehended.
@@ -100,7 +100,7 @@ They operate jointly in each of the two cognitive restraints.
 
 ## 4. Grammar and Construe
 
-### First predication
+**First predication**
 
 ```text
 anāgamye prahāṇa-ākhyau
@@ -115,7 +115,7 @@ the predicate `prahāṇākhyau`:
 The identity of “the two” is carried forward from VAK 4.17: meditation-born
 restraint and uncontaminated restraint.
 
-### Qualification of the two
+**Qualification of the two**
 
 ```text
 tau ānantarya-mārga-jau
@@ -128,7 +128,7 @@ The pronoun and compound are nominative dual:
 The Bhāṣya specifies the nine uninterrupted paths of the `anāgamya`. The
 participial force may be conveyed more naturally in English by “when born in.”
 
-### The apparent distributive reading
+**The apparent distributive reading**
 
 The surface sequence may tempt the reader to distribute the terms in order:
 
@@ -141,7 +141,7 @@ The Bhāṣya expressly blocks this `yathāsaṃkhya` construction. The repeated
 indication of duality is meant to show that each restraint is twofold in
 nature.
 
-### Bhāṣya-governed construction
+**Bhāṣya-governed construction**
 
 ```text
 manaḥsaṃvara
@@ -154,23 +154,16 @@ indriyasaṃvara
 Thus `saṃprajñānasmṛtī dve` predicates a twofold constitution of both members
 of `manaindriyasaṃvarau`.
 
-### Force of `tu`
+**Force of `tu`**
 
 `Tu`, “however,” marks a categorical turn. Mind-restraint and faculty-restraint
 are called restraints, but the Bhāṣya says that they are not by nature
 avijñapti-discipline. Their nature is cognitive: recollection together with
 clear comprehension.
 
-### Close construe
-
-> In the preliminary concentration, those two, when born in the uninterrupted
-> paths, are called abandonment restraints. Mind-restraint and
-> faculty-restraint, however, are each twofold: clear comprehension and
-> recollection.
-
 ## 5. Translation
 
-### Close syntactic translation
+### Close syntactic construe
 
 > In the preliminary concentration the two are called abandonment
 > restraints—those two born in the uninterrupted paths. Mind-restraint and
@@ -202,7 +195,7 @@ determinations into the bare words of the kārikā.
 
 ## 7. Technical Vocabulary
 
-### `prahāṇasaṃvara`
+**`prahāṇasaṃvara`**
 
 Abandonment restraint names meditation-born and uncontaminated restraint only
 under a specific functional determination:
@@ -216,7 +209,7 @@ within the nine uninterrupted paths of the anāgamya
 The name therefore expresses what the restraint accomplishes in that Path
 relation.
 
-### `dauḥśīlya`
+**`dauḥśīlya`**
 
 `Dauḥśīlya` is bad conduct or breach of discipline. The Bhāṣya does not stop at
 the inhibition of its outward expression. Abandonment restraint reaches both:
@@ -228,13 +221,13 @@ the kleśas that generate it
 
 This is the passage’s decisive deepening of discipline.
 
-### `tatsamutthāpaka kleśa`
+**`tatsamutthāpaka kleśa`**
 
 The compound expression means the defilements that give rise to that bad
 conduct. `Samutthāpaka` identifies a productive condition, not merely a state
 that happens to accompany the deed.
 
-### `catuṣkoṭika`
+**`catuṣkoṭika`**
 
 The Bhāṣya applies a four-cornered analysis to prevent the identity of
 meditation restraint and abandonment restraint:
@@ -248,18 +241,18 @@ An analogous analysis applies when uncontaminated restraint is taken as the
 starting predicate. The exact membership varies with contamination-status,
 path, and moment.
 
-### `manaḥsaṃvara`
+**`manaḥsaṃvara`**
 
 Mind-restraint regulates the mental field. Its nature is not avijñapti but the
 joint presence of mindfulness and clear comprehension.
 
-### `indriyasaṃvara`
+**`indriyasaṃvara`**
 
 Faculty-restraint governs engagement through the sensory faculties. It too is
 constituted by both mindfulness and clear comprehension; it is not assigned to
 mindfulness alone.
 
-### `avijñaptiśīla`
+**`avijñaptiśīla`**
 
 The Bhāṣya’s denial is exact:
 
@@ -274,7 +267,7 @@ not establish one identical ontological nature in everything called
 
 ## 8. Logical Determination
 
-### A functional predicate is not a new substance
+**A functional predicate is not a new substance**
 
 ```text
 meditation-born restraint or uncontaminated restraint
@@ -290,7 +283,7 @@ The restraint receives a new predicate because of its function in a
 determinate relation. The new predicate neither erases its prior determination
 nor produces a numerically separate restraint.
 
-### The classes cross-cut
+**The classes cross-cut**
 
 ```text
 dhyānasaṃvara ≠ prahāṇasaṃvara
@@ -300,7 +293,7 @@ anāsravasaṃvara ≠ prahāṇasaṃvara
 But instances can overlap. The `catuṣkoṭika` represents the extension of the
 predicates rather than reducing one definition to the other.
 
-### One term, different natures
+**One term, different natures**
 
 ```text
 saṃvara as avijñapti restraint
@@ -318,7 +311,7 @@ Identity of designation does not entail identity of dharma-nature. Conversely,
 one restraint can acquire multiple valid designations under different
 relations.
 
-### Both factors belong to both restraints
+**Both factors belong to both restraints**
 
 ```text
 not:
@@ -334,9 +327,9 @@ Mindfulness preserves the governing determination; clear comprehension
 discriminates the present activity and situation. Either without the other
 would leave the restraint incomplete.
 
-## 9. Interpretive Essay
+## 9. Interpretive Note
 
-### Yama reaches the producer of misconduct
+**Yama reaches the producer of misconduct**
 
 The profound advance in VAK 4.18 is that restraint is no longer considered
 only as the inhibition of an outward extreme. Abandonment restraint removes
@@ -361,7 +354,7 @@ This comparison does not identify Yoga’s categories with the nine
 uninterrupted paths. It identifies the shared practical demand that restraint
 reach the source of action rather than merely police its result.
 
-### The Middle discriminates its own functions
+**The Middle discriminates its own functions**
 
 The previous verses showed the Middle projecting manifest and non-manifest
 Aspects and sustaining their practical unity. Here that Middle performs a
@@ -386,7 +379,7 @@ that licenses the predication. “This restraint is abandonment restraint” mea
 that it functions as abandonment here—not that the two expressions are
 universally interchangeable.
 
-### Mindfulness and clear comprehension
+**Mindfulness and clear comprehension**
 
 The second half makes the practical Middle explicitly cognitive. Mindfulness
 retains the rule; clear comprehension discriminates the present field. Their
@@ -418,7 +411,7 @@ teaching is the conditional designation of abandonment restraint, the
 cross-cutting classifications, and the dual cognitive nature of both
 mind-restraint and faculty-restraint.
 
-## 10. OWL++ Formalization
+## 10. OWL++ Seed
 
 ```text
 Class: Restraint

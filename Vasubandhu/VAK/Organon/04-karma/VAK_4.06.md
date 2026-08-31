@@ -71,7 +71,7 @@ causal continuum. Likewise, `abhinna` does not name an indivisible metaphysical
 stuff. The commentary construes it relationally: the seven samādhi-born
 restraints arise dependent upon the same set of great elements.
 
-### Witness caution
+**Witness caution**
 
 The kārikā witness gives `anupāttā`, “non-appropriated.” In the available
 commentarial e-text, the corresponding phrase appears as `anupātā` and the
@@ -234,7 +234,7 @@ non-manifest
 
 ## 8. Logical Determination
 
-### Two axes of classification
+**Two axes of classification**
 
 The verse crosses two logically distinct questions:
 
@@ -271,7 +271,7 @@ prātimokṣa restraint:
 Thus numerical plurality at the level of normative content does not determine
 numerical plurality at the level of material support.
 
-### Causal determination without a hidden subject
+**Causal determination without a hidden subject**
 
 The ordinary sequence can be stated as:
 
@@ -295,7 +295,7 @@ Nothing in this inference requires an imperceptible agent outside the series.
 being analyzed; its explanatory conditions remain within the psycho-physical
 and contemplative series.
 
-### Unity and differentiation
+**Unity and differentiation**
 
 The Bhāṣya explains the common basis by analogy with mind:
 
@@ -318,9 +318,9 @@ it produces
 The unity belongs to genesis and support; the difference belongs to the
 determinate objects of abstention.
 
-## 9. Interpretive Essay
+## 9. Interpretive Note
 
-### Samādhi as productive practical unity
+**Samādhi as productive practical unity**
 
 VAK 4.06 gives unusually concrete support to the top-level architecture now
 guiding our reading of the Kośa. Samādhi is not presented only as a terminal
@@ -356,7 +356,7 @@ kārikā as Hegelian terminology. Yet VAK 4.06 supplies its real textual
 occasion. The culmination does not merely leave the preceding moments behind;
 it gathers them and makes their practical articulation internally one.
 
-### Transcendental determination, not a transcendent object
+**Transcendental determination, not a transcendent object**
 
 This verse also disciplines the treatment of `avijñapti`. If it is imagined as
 an invisible thing residing behind appearances, it becomes transcendent in the
@@ -385,7 +385,7 @@ restraints—that supplies the truth which the item only represents? VAK 4.06
 does not settle that question, but it gives us the exact terrain on which to
 pose it without caricaturing the Vaibhāṣika position.
 
-### The first appearance of the larger result
+**The first appearance of the larger result**
 
 The “Absolute Idea” should therefore not be imported here as a finished slogan.
 What appears is one of its required shapes: a unity that is productive,
@@ -398,7 +398,7 @@ beginning to show how Path-determination can become objective practical form.
 The sought unity of knowledge, action, Path, and samādhi is not yet proven, but
 the machinery required for such a synthesis is visibly entering the text.
 
-## 10. OWL++ Formalization
+## 10. OWL++ Seed
 
 ```text
 Class: Avijnapti

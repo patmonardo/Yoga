@@ -57,13 +57,13 @@ pragṛhyate
 | `evam` | adverb | in this manner |
 | `pragṛhyate` | third-person singular present passive of `pra-grah` | is undertaken; is formally assumed |
 
-### `samādāna`
+**`samādāna`**
 
 `Samādāna` is intentional taking-up. The Bhāṣya later speaks of
 `samādānabalādhāna`, the imparting of force through undertaking. The vow is not
 merely described; the undertaking contributes to its acquisition.
 
-### `yāvajjīva`
+**`yāvajjīva`**
 
 ```text
 yāvat jīvam
@@ -73,7 +73,7 @@ yāvat jīvam
 
 The seven lifelong prātimokṣa classes are governed by this limit.
 
-### `ahorātra`
+**`ahorātra`**
 
 ```text
 ahas
@@ -86,7 +86,7 @@ rātra
 Together they form one complete day-and-night observance, the recognized
 duration of upavāsa restraint.
 
-### `pragṛhyate`
+**`pragṛhyate`**
 
 The verb signifies deliberate undertaking. The verse’s denial concerns the
 recognized mode in which non-restraint is normally acquired, not the mere
@@ -94,7 +94,7 @@ possibility of harmful action during a day.
 
 ## 4. Grammar and Construe
 
-### Two durations of restraint
+**Two durations of restraint**
 
 ```text
 saṃvṛteḥ samādānam
@@ -115,7 +115,7 @@ upavāsa restraint
     → one day and night
 ```
 
-### The received denial
+**The received denial**
 
 ```text
 na asaṃvaraḥ asti aho-rātram
@@ -126,7 +126,7 @@ na asaṃvaraḥ asti aho-rātram
 The bare kārikā is categorical. The Bhāṣya qualifies its force by examining
 how non-restraint is actually acquired.
 
-### Reason given by the verse
+**Reason given by the verse**
 
 ```text
 na kila evam pragṛhyate
@@ -137,16 +137,9 @@ na kila evam pragṛhyate
 `Kila` marks the received or reported character of the explanation. The
 Bhāṣya does not treat this first answer as the end of inquiry.
 
-### Close construe
-
-> The undertaking of restraint is for as long as life, and [for another form]
-> for one day and night. There is no [recognized] non-restraint for one day and
-> night, since, according to the received account, it is not undertaken in
-> that manner.
-
 ## 5. Translation
 
-### Close syntactic translation
+### Close syntactic construe
 
 > Restraint is undertaken for life or for one day and night. Non-restraint is
 > not recognized for merely one day and night, since it is not ordinarily
@@ -182,7 +175,7 @@ preserving the verse’s stated classification.
 
 ## 7. Technical Vocabulary
 
-### Two `kālaparyanta`
+**Two `kālaparyanta`**
 
 The Bhāṣya identifies two temporal termini:
 
@@ -197,7 +190,7 @@ jīvita-paryanta
 Longer conventional intervals repeat day-and-night units; they do not add a
 third fundamental terminus to the received classification.
 
-### Time as indication of conditioned processes
+**Time as indication of conditioned processes**
 
 Vasubandhu asks what dharma “time” is and answers:
 
@@ -210,7 +203,7 @@ kāla
 Day names the illuminated state of the inhabited world; night names its dark
 state. Time is not introduced here as a separately existing substance.
 
-### Why lifelong restraint ends at death
+**Why lifelong restraint ends at death**
 
 The restraint does not arise beyond that life because:
 
@@ -222,13 +215,13 @@ there is no recollection of the undertaking
 
 The duration is therefore tied to the continuum in which the vow was acquired.
 
-### `yuktyavirodha`
+**`yuktyavirodha`**
 
 Vasubandhu observes that restraint arising beyond one day and night contains
 no contradiction with reasoning. This opens a genuine question about the
 scriptural one-day upavāsa rule.
 
-### Pedagogical prescription
+**Pedagogical prescription**
 
 Two readings are distinguished:
 
@@ -247,7 +240,7 @@ The Vaibhāṣikas do not accept extending the prescribed upavāsa beyond one da
 and night, but Vasubandhu has exposed that doctrinal prescription and intrinsic
 possibility are not self-evidently identical.
 
-### `āśaya`
+**`āśaya`**
 
 `Āśaya` is the underlying practical intention or disposition. The Bhāṣya
 distinguishes:
@@ -263,13 +256,13 @@ kālāntara-vipanna āśaya
     → not necessarily standing non-restraint
 ```
 
-### `samādānabalādhāna`
+**`samādānabalādhāna`**
 
 Formal undertaking imparts force. Upavāsa can therefore be acquired even when
 the practitioner’s underlying disposition is not already absolute or lifelong,
 because the practitioner seeks restraint.
 
-### Sautrāntika reconstruction
+**Sautrāntika reconstruction**
 
 The Sautrāntikas deny that non-restraint exists as a separate substance. They
 identify it with:
@@ -287,7 +280,7 @@ non-restraint bearer even while a wholesome consciousness presently occurs.
 
 ## 8. Logical Determination
 
-### Duration belongs to the undertaking
+**Duration belongs to the undertaking**
 
 ```text
 lifelong undertaking
@@ -300,7 +293,7 @@ day-and-night undertaking
 The temporal boundary is an internal determination of the vow acquired, not a
 quantity added afterward to an otherwise complete form.
 
-### Prescription does not prove impossibility
+**Prescription does not prove impossibility**
 
 ```text
 scripture prescribes one-day upavāsa
@@ -311,7 +304,7 @@ longer finite restraint is intrinsically impossible
 Vasubandhu’s `yuktyavirodha` keeps the logical possibility open even while the
 Vaibhāṣika rule remains the received classification.
 
-### Occurrence and standing form
+**Occurrence and standing form**
 
 ```text
 temporary harmful act
@@ -324,7 +317,7 @@ utterly corrupted practical intention
 Duration of misconduct alone does not determine whether `asaṃvara` has been
 acquired; the depth and persistence of intention matter.
 
-### The asymmetry is defeasible
+**The asymmetry is defeasible**
 
 ```text
 ordinary observation:
@@ -338,9 +331,9 @@ conditional concession:
 Restraint and non-restraint are genetically asymmetric without being related
 by a feature-for-feature metaphysical prohibition.
 
-## 9. Interpretive Essay
+## 9. Interpretive Note
 
-### The vow produces its own time
+**The vow produces its own time**
 
 VAK 4.27 does not treat a vow as a timeless content later placed inside an
 external temporal container. The undertaking determines the temporal form of
@@ -360,7 +353,7 @@ The Bhāṣya’s account of time reinforces this. `Kāla` indicates differentia
 states of conditioned processes; it is not a second substance in which a
 ready-made vow is deposited.
 
-### Vasubandhu interrogates the failed symmetry
+**Vasubandhu interrogates the failed symmetry**
 
 The received system initially appears rigid:
 
@@ -381,7 +374,7 @@ This is exactly why the Kośa surpasses a merely artificial list of ethical
 rules. It tests the conditions under which the rule becomes a real practical
 determination.
 
-### Cetanā returns as the candidate ground
+**Cetanā returns as the candidate ground**
 
 The Sautrāntika intervention gives strong support to the user’s hypothesis:
 
@@ -420,7 +413,7 @@ accounts for the required persistence. The Bhāṣya records this as a dispute
 between Vaibhāṣika and Sautrāntika; our final Organon decision should await the
 full argument.
 
-### More than yama–niyama commentary
+**More than yama–niyama commentary**
 
 This passage supplies what a merely enumerative commentary on discipline
 usually lacks:
@@ -440,7 +433,7 @@ This is an Organon development. Vasubandhu explicitly raises the rational
 question about longer upavāsa, qualifies the one-day non-restraint rule, and
 records the Sautrāntika intentional reconstruction.
 
-## 10. OWL++ Formalization
+## 10. OWL++ Seed
 
 ```text
 Class: PracticalUndertaking

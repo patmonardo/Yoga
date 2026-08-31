@@ -55,14 +55,14 @@ citta-anuvartinau
 | `antyau` | nominative masculine dual | the latter two |
 | `cittānuvartinau` | nominative masculine dual | following consciousness |
 
-### `anvita` and `samanvāgata`
+**`anvita` and `samanvāgata`**
 
 `anvita`, “connected with” or “endowed with,” is unfolded in the Bhāṣya by
 `samanvāgata`. The relation does not identify the restraint with its bearer.
 It states that the restraint-dharma belongs to or is present in that
 continuum.
 
-### `dhyānaja`
+**`dhyānaja`**
 
 The Bhāṣya explicitly gives two expansions:
 
@@ -76,7 +76,7 @@ dhyāne jāta
 
 The compound therefore should not be forced into only one causal nuance.
 
-### `cittānuvartin`
+**`cittānuvartin`**
 
 ```text
 citta + anuvartin
@@ -94,7 +94,7 @@ consciousness.
 The verse consists of three bearer–restraint constructions followed by a
 dual predication.
 
-### First construction
+**First construction**
 
 ```text
 prātimokṣa-anvitāḥ aṣṭau
@@ -106,7 +106,7 @@ prātimokṣa-anvitāḥ aṣṭau
 
 The eight are the eight disciplinary classes distinguished in VAK 4.14.
 
-### Second construction
+**Second construction**
 
 ```text
 dhyāna-jena tad-anvitaḥ
@@ -127,7 +127,7 @@ Thus `tad-anvitaḥ` designates the one endowed with that—dhyāna—and
 `dhyānajena` supplies the restraint with which that person is necessarily
 endowed.
 
-### Third construction
+**Third construction**
 
 ```text
 anāsraveṇa ārya-sattvāḥ [anvitāḥ]
@@ -137,7 +137,7 @@ The predicate of possession is carried forward elliptically:
 
 > Noble beings are endowed with uncontaminated restraint.
 
-### Final dual predication
+**Final dual predication**
 
 ```text
 antyau citta-anuvartinau
@@ -150,16 +150,9 @@ Both words are nominative dual. `Antyau`, “the latter two,” refers to:
 
 They—not prātimokṣa restraint—are predicated as following consciousness.
 
-### Close construe
-
-> The eight [disciplinary classes] are prātimokṣa-endowed; one endowed with
-> that [dhyāna] is [endowed] with the dhyāna-born [restraint]; noble beings
-> [are endowed] with the uncontaminated [restraint]; the latter two follow
-> consciousness.
-
 ## 5. Translation
 
-### Close syntactic translation
+### Close syntactic construe
 
 > The eight are endowed with prātimokṣa restraint. One endowed with that
 > [dhyāna] is endowed with the restraint born from dhyāna. Noble beings are
@@ -192,13 +185,13 @@ it is not a translation of a single Sanskrit term in the verse.
 
 ## 7. Technical Vocabulary
 
-### The eight disciplinary classes
+**The eight disciplinary classes**
 
 The “eight” carries forward the nominal series of VAK 4.14, from the monk and
 nun through the upavāsa observer. This verse predicates prātimokṣa restraint
 of all eight without reopening their internal classification.
 
-### `samādānaśīla`
+**`samādānaśīla`**
 
 The Bhāṣya asks whether outsiders possess no undertaken discipline. Its answer
 is carefully differentiated:
@@ -211,7 +204,7 @@ outsiders do not thereby possess prātimokṣasaṃvara
 Vasubandhu does not deny the reality of their discipline. He denies that it
 has the specific character and end of prātimokṣa restraint.
 
-### `bhavasaṃniśrita`
+**`bhavasaṃniśrita`**
 
 The outsiders’ undertaken discipline is said to be dependent upon `bhava`,
 continued existence or becoming. Therefore, according to the Bhāṣya, it does
@@ -219,7 +212,7 @@ not conduce to complete release from evil. This is Vasubandhu’s doctrinal
 criterion in this passage, not a neutral definition of every non-Buddhist
 discipline.
 
-### `sāmantaka`
+**`sāmantaka`**
 
 The neighboring or preliminary attainment is included under `dhyāna` by
 extended designation. The Bhāṣya compares this with calling the outskirts of
@@ -227,7 +220,7 @@ a village “the village.” The extension enlarges the range of `dhyāna` for t
 present rule without erasing the technical distinction between a preliminary
 attainment and dhyāna proper.
 
-### `āryapudgala`
+**`āryapudgala`**
 
 The Bhāṣya identifies the noble bearers as:
 
@@ -241,14 +234,14 @@ aśaikṣa
 
 Both are endowed with uncontaminated restraint.
 
-### `acittaka`
+**`acittaka`**
 
 `Acittaka`, a mindless condition, supplies the strongest contrastive test.
 Prātimokṣa restraint can continue even there. This does not make it absolutely
 uncaused or independent of a continuum; it establishes only that it does not
 require the corresponding consciousness to be presently occurring.
 
-### `sahabhūhetu`
+**`sahabhūhetu`**
 
 The Bhāṣya recalls the earlier doctrine of coexistent cause. Meditation-born
 and uncontaminated restraint follow consciousness as co-occurring
@@ -256,7 +249,7 @@ determinations. Prātimokṣa restraint has a different mode of continuation.
 
 ## 8. Logical Determination
 
-### Three bearers
+**Three bearers**
 
 ```text
 prātimokṣa restraint
@@ -275,7 +268,7 @@ The relation at issue is `samanvāgama`, possession or endowment. The bearer is
 not the restraint, and the restraint is not reduced to a verbal description
 of the bearer.
 
-### Two modes of persistence
+**Two modes of persistence**
 
 ```text
 mind-following persistence
@@ -290,7 +283,7 @@ non-mind-following continuation
 “independent of all consciousness.” It means that the restraint continues
 when another consciousness occurs and even in a mindless state.
 
-### The Bhāṣya’s contrastive proof
+**The Bhāṣya’s contrastive proof**
 
 ```text
 if restraint R requires its corresponding present consciousness C,
@@ -311,7 +304,7 @@ prātimokṣa restraint continues without present consciousness
 therefore prātimokṣa restraint is not cittānuvartin
 ```
 
-### Outward similarity does not determine the restraint
+**Outward similarity does not determine the restraint**
 
 An undertaken discipline and prātimokṣa restraint may resemble one another at
 the level of observable conduct. The Bhāṣya distinguishes them through their
@@ -326,9 +319,9 @@ restraint tending toward complete release from evil
 The practical determination is therefore not exhausted by the visible deed.
 Its end belongs to what kind of restraint it is.
 
-## 9. Interpretive Essay
+## 9. Interpretive Note
 
-### Restraint persists according to its ground
+**Restraint persists according to its ground**
 
 VAK 4.16 showed restraint arising through the manifest and non-manifest
 Aspects of a practical undertaking. VAK 4.17 now prevents those Aspects from
@@ -352,7 +345,7 @@ hidden transcendent substance. It names a karmically effective determination
 whose mode of persistence cannot be reduced to a presently manifest act or a
 presently corresponding consciousness.
 
-### The practical Copula
+**The practical Copula**
 
 At the Organon level, the verse differentiates two operations of the practical
 Copula:
@@ -382,7 +375,7 @@ This is an Organon reconstruction. Vasubandhu’s explicit claim is the narrower
 technical distinction between the two mind-following restraints and the
 non-mind-following continuation of prātimokṣa restraint.
 
-### Contact with yama
+**Contact with yama**
 
 The controlled Yoga contact becomes sharper here. `Yama` must govern conduct
 when the practitioner is not presently rehearsing the vow. In that respect,
@@ -395,7 +388,7 @@ or with the Sarvāstivāda theory of avijñapti. It isolates a shared practical
 problem: how a discipline becomes continuously efficacious rather than
 remaining an occasional intention.
 
-## 10. OWL++ Formalization
+## 10. OWL++ Seed
 
 ```text
 Class: Restraint

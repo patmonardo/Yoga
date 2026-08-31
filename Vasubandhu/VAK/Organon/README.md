@@ -20,6 +20,14 @@ Samāpatti.
   and Organon interpretation are kept visibly distinct.
 - The close syntactic construe is distinguished from the readable study
   translation.
+- Every kārikā study uses the same ten numbered stage headings, in the same
+  order: Sanskrit (Devanāgarī), Sanskrit (IAST), Padaccheda and Lexical
+  Analysis, Grammar and Construe, Translation, Philosophical Translation,
+  Technical Vocabulary, Logical Determination, Interpretive Note, and OWL++
+  Seed.
+- Only `Close syntactic construe` and `Bhāṣya-informed study translation` are
+  subsection headings. Verse-specific divisions inside the other stages are
+  bold editorial signposts, not additional report sections.
 - Speculative interpretation does not silently enter the primary
   translation.
 - Metaphysical subject-negation is not used as an organizing doctrine or a
