@@ -1,0 +1,474 @@
+# VAK_4.22
+
+## 1. Sanskrit (Devanāgarī)
+
+```sanskrit
+असंवरस्थः शुभयाशुभया संवरे स्थितः ।
+अविज्ञप्त्यान्वितो यावत् प्रसादक्लेशवेगवान् ॥ ४.२२ ॥
+```
+
+## 2. Sanskrit (IAST)
+
+```iast
+asaṃvarasthaḥ śubhayāśubhayā saṃvare sthitaḥ /
+avijñaptyānvito yāvat prasādakleśavegavān // 4.22 //
+```
+
+Padapāṭha-style separation:
+
+```iast
+asaṃvara-sthaḥ śubhayā aśubhayā saṃvare sthitaḥ /
+avijñaptyā anvitaḥ yāvat prasāda-kleśa-vega-vān //
+```
+
+The syntax distributes the two instrumental adjectives across two subjects.
+The Bhāṣya confirms the respective pairing: wholesome avijñapti belongs to
+the non-restraint bearer’s contrary episode, and unwholesome avijñapti to the
+restraint bearer’s contrary episode.
+
+## 3. Padaccheda and Lexical Analysis
+
+```text
+asaṃvara-sthaḥ
+śubhayā
+aśubhayā
+saṃvare
+sthitaḥ
+
+avijñaptyā
+anvitaḥ
+yāvat
+prasāda-kleśa-vega-vān
+```
+
+| Form | Morphology | Lexical value here |
+|---|---|---|
+| `asaṃvarasthaḥ` | nominative masculine singular compound | one established in non-restraint |
+| `śubhayā` | instrumental feminine singular | with wholesome [avijñapti] |
+| `aśubhayā` | instrumental feminine singular | with unwholesome [avijñapti] |
+| `saṃvare sthitaḥ` | locative plus nominative masculine singular participle | one established in restraint |
+| `avijñaptyā` | instrumental feminine singular | with avijñapti |
+| `anvitaḥ` | nominative masculine singular | endowed with; connected with |
+| `yāvat` | relative adverb | for as long as |
+| `prasāda` | compound member | serene clarity, confidence, or faith |
+| `kleśa` | compound member | defilement; affliction |
+| `vegavān` | nominative masculine singular possessive adjective | possessing force, momentum, or intensity |
+
+### `śubha` and `aśubha`
+
+The verse uses the broad evaluative pair wholesome/unwholesome. The Bhāṣya’s
+prose restates it as `kuśala` and `akuśala`. The point is ethical opposition
+between the bearer’s established status and the occasional avijñapti.
+
+### `prasāda`
+
+`Prasāda` combines clarity, serene confidence, and faith. Here it is not mere
+assent to a proposition. It is a wholesome affective-cognitive force capable
+of generating praise, reverence, and related action.
+
+### `kleśa`
+
+`Kleśa` is a defilement or affliction. In this verse it supplies the force by
+which one established in restraint can nevertheless generate an unwholesome
+action-trace.
+
+### `vega`
+
+```text
+vega
+    force
+    momentum
+    intensity
+    powerful impulse
+```
+
+The duration of the contrary avijñapti follows the duration of its generating
+force.
+
+## 4. Grammar and Construe
+
+### First distributed construction
+
+```text
+asaṃvara-sthaḥ
+śubhayā avijñaptyā anvitaḥ
+```
+
+> One established in non-restraint is endowed with wholesome avijñapti.
+
+The Bhāṣya gives praise and reverence as examples of acts produced by a strong
+movement of `prasāda`.
+
+### Second distributed construction
+
+```text
+saṃvare sthitaḥ
+aśubhayā avijñaptyā anvitaḥ
+```
+
+> One established in restraint is endowed with unwholesome avijñapti.
+
+The Bhāṣya gives killing, binding, and striking as examples of actions
+produced by a powerful defilement.
+
+### Duration clause
+
+```text
+yāvat prasāda-kleśa-vega-vān
+```
+
+The compound is distributed correspondingly:
+
+```text
+wholesome contrary avijñapti
+    lasts while the force of prasāda continues
+
+unwholesome contrary avijñapti
+    lasts while the force of kleśa continues
+```
+
+The standing restraint or non-restraint has its own acquisition and
+abandonment conditions. This duration clause governs the occasional contrary
+avijñapti, not the entire established system.
+
+### Temporal possession
+
+The Bhāṣya adds the temporal rule:
+
+```text
+first moment
+    present avijñapti only
+
+later moments
+    present and past avijñapti
+```
+
+This is commentary, not wording contained in the kārikā itself.
+
+### Close construe
+
+> One established in non-restraint is endowed with wholesome avijñapti, and
+> one established in restraint with unwholesome avijñapti, for as long as he
+> possesses the force of serene confidence or of defilement [respectively].
+
+## 5. Translation
+
+### Close syntactic translation
+
+> One established in non-restraint may be endowed with wholesome avijñapti,
+> and one established in restraint with unwholesome avijñapti, for as long as
+> the force of serene confidence or defilement continues.
+
+### Bhāṣya-informed study translation
+
+> A person established in non-restraint may generate wholesome avijñapti while
+> acting under a powerful movement of `prasāda`, such as in praise or
+> reverence. Conversely, a person established in restraint may generate
+> unwholesome avijñapti while acting under a powerful defilement, as in killing,
+> binding, or striking. Each contrary avijñapti continues only for as long as
+> its generating force continues.
+
+The examples and the explicit causal language are supplied by the Bhāṣya.
+
+## 6. Philosophical Translation
+
+> An established ethical orientation does not mechanically determine every
+> action arising in its bearer. Non-restraint can coexist temporarily with a
+> wholesome determination generated by powerful serene confidence; restraint
+> can coexist temporarily with an unwholesome determination generated by a
+> powerful defilement. The established system and the contrary episode remain
+> distinguishable, and the episode persists only with the momentum that
+> produced it.
+
+“System” and “episode” are analytical terms. They articulate the distinction
+made by the verse and Bhāṣya without replacing the source categories.
+
+## 7. Technical Vocabulary
+
+### Established ethical status
+
+```text
+saṃvarastha
+    established in restraint
+
+asaṃvarastha
+    established in non-restraint
+```
+
+These are standing practical classifications. Neither is a complete inventory
+of every determination that can occur in the continuum.
+
+### Contrary occasional avijñapti
+
+```text
+non-restraint bearer
+    + strong prasāda
+    → wholesome avijñapti
+
+restraint bearer
+    + strong kleśa
+    → unwholesome avijñapti
+```
+
+The contrary trace is real without automatically replacing the bearer’s
+established classification.
+
+### `stavavandana`
+
+Praise and reverence exemplify wholesome action generated within a continuum
+established in non-restraint. The examples show that the standing status does
+not make wholesome action impossible.
+
+### `vadhabandhanatāḍana`
+
+Killing, binding, and striking exemplify unwholesome action generated within a
+continuum established in restraint. A vow-system therefore does not provide
+automatic immunity from grave contrary action.
+
+### Force-dependent duration
+
+The occasional trace persists according to a different rule from the
+established system:
+
+```text
+generating force continues
+    → contrary avijñapti continues
+
+generating force ceases
+    → contrary avijñapti ceases
+```
+
+### Closure of the avijñapti topic
+
+After explaining the first and later temporal moments, Vasubandhu states:
+
+```text
+avijñaptyadhikāraḥ samāptaḥ
+    the topic concerning avijñapti is concluded
+```
+
+VAK 4.23 therefore begins a new analysis centered upon possession of
+`vijñapti`.
+
+## 8. Logical Determination
+
+### Standing determination and occurrent determination
+
+```text
+standing ethical status
+    ≠
+ethical quality of every occurring action
+```
+
+The same continuum can simultaneously bear an established orientation and a
+contrary local determination.
+
+### Neither status is mechanically total
+
+```text
+established in restraint
+    does not imply
+every possible action is wholesome
+
+established in non-restraint
+    does not imply
+every possible action is unwholesome
+```
+
+This does not make the established statuses meaningless. It prevents their
+conversion into exceptionless descriptions of occurrent conduct.
+
+### Distinct conditions of persistence
+
+```text
+established system
+    persists by its own non-abandonment conditions
+
+contrary episode
+    persists through prasāda-vega or kleśa-vega
+```
+
+Coexistence does not imply identity because the two determinations have
+different causal grounds and duration rules.
+
+### Temporal articulation of the episode
+
+```text
+moment 1
+    contrary avijñapti present
+
+later moments while force continues
+    contrary avijñapti present and past
+```
+
+Thus intensity determines duration, while temporal position determines the
+mode in which the trace is possessed.
+
+## 9. Interpretive Essay
+
+### A vow is resilient, not magical
+
+VAK 4.22 gives a sober account of vows. To be established in restraint is to
+possess a durable practical system; it is not to become incapable of contrary
+action. A sufficiently powerful kleśa can cut across the standing orientation
+and produce an unwholesome avijñapti.
+
+Yet the contrary act does not by itself prove that the vow never existed. The
+Bhāṣya distinguishes the duration of the force-generated episode from the
+conditions governing the established restraint. This gives us the conceptual
+space required for serious analysis of breach, weakening, repair, and eventual
+abandonment without collapsing them into one event.
+
+```text
+vow-system
+    enduring practical orientation
+
+contrary act
+    locally produced determination
+
+their conflict
+    real, but requiring further rules to determine the result
+```
+
+### Non-restraint is not a complete essence of the person
+
+The converse case is equally important. A person established in non-restraint
+can act through powerful `prasāda` and produce wholesome avijñapti. The
+standing system is ethically grave, but it does not exhaust the person’s
+capacity for a contrary determination.
+
+The Kośa therefore avoids defining the bearer as a homogeneous moral
+substance. It analyzes a continuum carrying determinations of different scope,
+quality, cause, and duration.
+
+### Practical freedom appears as a cross-current
+
+At the Organon level, the contrary episode is a cross-current within an
+established practical pipeline. The pipeline conditions what normally arises,
+but does not render opposed determination logically impossible.
+
+```text
+standing rule
+    structures the continuum
+
+contrary motivating force
+    produces a local opposed determination
+
+duration of the cross-current
+    follows the force that produced it
+```
+
+This is valuable for yama because genuine discipline cannot be measured by a
+fantasy of uninterrupted psychological purity. It must understand how contrary
+forces arise, how they persist, and when they merely cross the vow versus when
+they undo it.
+
+### The completed avijñapti movement
+
+The section beginning at VAK 4.13 has now moved through:
+
+```text
+three kinds of avijñapti
+    restraint, non-restraint, neither
+
+acquisition and continuing possession
+
+mind-following and non-mind-following persistence
+
+past, present, and future temporal modes
+
+systematic and occasional determinations
+
+contrary cross-currents and their duration
+```
+
+This is indeed a compact practical science of vows. It explains how a
+determination is undertaken, sustained, temporally articulated, opposed, and
+locally contradicted. The Bhāṣya explicitly closes the avijñapti topic here;
+the next verse turns to `vijñapti`.
+
+This synthesis is Organon Light. Vasubandhu’s explicit teaching is the
+possibility and duration of contrary wholesome or unwholesome avijñapti within
+an established opposite status.
+
+## 10. OWL++ Formalization
+
+```text
+Class: EstablishedEthicalStatus
+Class: RestraintStatus
+Class: NonRestraintStatus
+Class: RestraintBearer
+Class: NonRestraintBearer
+Class: OccasionalAvijnapti
+Class: WholesomeAvijnapti
+Class: UnwholesomeAvijnapti
+Class: Prasada
+Class: Defilement
+Class: MotivatingForce
+Class: PrasadaForce
+Class: DefilementForce
+Class: FirstMoment
+Class: SubsequentMoment
+Class: PresentMode
+Class: PastMode
+
+ObjectProperty: establishedIn
+ObjectProperty: endowedWith
+ObjectProperty: generatedBy
+ObjectProperty: continuesWhile
+ObjectProperty: hasTemporalMode
+ObjectProperty: occursAt
+ObjectProperty: contraryTo
+
+RestraintStatus SubClassOf EstablishedEthicalStatus
+NonRestraintStatus SubClassOf EstablishedEthicalStatus
+WholesomeAvijnapti SubClassOf OccasionalAvijnapti
+UnwholesomeAvijnapti SubClassOf OccasionalAvijnapti
+PrasadaForce SubClassOf MotivatingForce
+DefilementForce SubClassOf MotivatingForce
+
+WholesomeAvijnapti SubClassOf
+    generatedBy some PrasadaForce
+WholesomeAvijnapti SubClassOf
+    continuesWhile some PrasadaForce
+
+UnwholesomeAvijnapti SubClassOf
+    generatedBy some DefilementForce
+UnwholesomeAvijnapti SubClassOf
+    continuesWhile some DefilementForce
+
+Rule: WholesomeCrossCurrent
+    NonRestraintBearer(?p)
+    and PrasadaForce(?f)
+    and generatedBy(?a, ?f)
+    and WholesomeAvijnapti(?a)
+    -> endowedWith(?p, ?a)
+
+Rule: UnwholesomeCrossCurrent
+    RestraintBearer(?p)
+    and DefilementForce(?f)
+    and generatedBy(?a, ?f)
+    and UnwholesomeAvijnapti(?a)
+    -> endowedWith(?p, ?a)
+
+Constraint: StatusDoesNotFixEveryEpisode
+    RestraintBearer may possess UnwholesomeAvijnapti
+    NonRestraintBearer may possess WholesomeAvijnapti
+
+Constraint: CrossCurrentDoesNotAutomaticallyReplaceStatus
+    possession of contrary OccasionalAvijnapti
+    does not by itself imply
+    abandonment of EstablishedEthicalStatus
+
+Constraint: ForceGovernsDuration
+    OccasionalAvijnapti a generatedBy MotivatingForce f
+    continues only while f continues
+
+Constraint: FirstAndLaterTemporalModes
+    at FirstMoment a has PresentMode only
+    at SubsequentMoment a has PresentMode and PastMode
+```
+
+The formal seed preserves the distinction among standing status, local ethical
+quality, motivating force, and duration. No one feature is permitted to stand
+for the whole practical continuum.
