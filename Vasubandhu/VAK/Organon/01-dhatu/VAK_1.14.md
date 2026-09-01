@@ -12,7 +12,7 @@
 >
 > vedanānubhavaḥ saṃjñā nimittodgrahaṇātmikā // 1.14 //
 
-## 3. Padaccheda
+## 3. Lexical Analysis
 
 ```text
 indriyārthās     → indriya-arthāḥ

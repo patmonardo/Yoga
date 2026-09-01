@@ -13,7 +13,7 @@
 > sa evādhvā kathāvastu saniḥsārāḥ savastukāḥ // 1.07 //
 
 
-## 3. Padaccheda
+## 3. Lexical Analysis
 
 | Form | Padaccheda | Meaning |
 |---|---|---|

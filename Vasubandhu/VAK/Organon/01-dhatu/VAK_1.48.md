@@ -16,7 +16,7 @@ knowledge-Domains.
 >
 > dharmārdham indriyaṃ ye ca dvādaśādhyātmikāḥ smṛtāḥ // 1.48 //
 
-## 3. Padaccheda
+## 3. Lexical Analysis
 
 ```text
 bāhyāḥ              → bāhyāḥ

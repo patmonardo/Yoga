@@ -12,7 +12,7 @@
 >
 > sabhāgas tatsabhāgāś ca śeṣā yo na svakarmakṛt // 1.39 //
 
-## 3. Padaccheda
+## 3. Lexical Analysis
 
 ```text
 dvādaśādhyātmikāḥ    → dvādaśa adhyātmikāḥ

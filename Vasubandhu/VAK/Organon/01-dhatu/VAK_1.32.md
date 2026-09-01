@@ -12,7 +12,7 @@
 >
 > antyās trayas triprakārāḥ śeṣā ubhayavarjitāḥ // 1.32 //
 
-## 3. Padaccheda
+## 3. Lexical Analysis
 
 ```text
 savitarkavicārāḥ    → sa-vitarka-vicārāḥ

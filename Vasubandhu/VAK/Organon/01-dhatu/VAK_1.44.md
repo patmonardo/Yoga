@@ -12,7 +12,7 @@
 >
 > caramasyāśrayo 'tītaḥ pañcānāṃ sahajaś ca taiḥ // 1.44 //
 
-## 3. Padaccheda
+## 3. Lexical Analysis
 
 ```text
 tribhir ghrāṇādibhiḥ       → tribhiḥ ghrāṇa-ādibhiḥ

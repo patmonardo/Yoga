@@ -12,7 +12,7 @@
 >
 > caittebhyo vedanāsaṃjñe pṛthakskandhau niveśitau // 1.21 //
 
-## 3. Padaccheda
+## 3. Lexical Analysis
 
 ```text
 vivādamūlasaṃsārahetutvāt → vivāda-mūla-saṃsāra-hetutvāt

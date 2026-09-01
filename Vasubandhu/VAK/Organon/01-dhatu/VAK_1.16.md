@@ -12,7 +12,7 @@
 >
 > dhātavaḥ sapta ca matāḥ ṣaḍvijñānāny atho manaḥ // 1.16 //
 
-## 3. Padaccheda
+## 3. Lexical Analysis
 
 ```text
 vijñānaṃ             → vijñānam

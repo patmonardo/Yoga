@@ -16,7 +16,7 @@ analysis: `adhara-svabhūmi`, “of a lower or its own plane.”
 >
 > kāyavijñānam adharasvabhūmy aniyataṃ manaḥ // 1.47 //
 
-## 3. Padaccheda
+## 3. Lexical Analysis
 
 ```text
 sarvam eva          → sarvam eva

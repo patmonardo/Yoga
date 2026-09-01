@@ -12,7 +12,7 @@
 >
 > pañcavijñānasahajā dhīr na dṛṣṭir atīraṇāt // 1.41 //
 
-## 3. Padaccheda
+## 3. Lexical Analysis
 
 ```text
 cakṣuś ca              → cakṣuḥ ca

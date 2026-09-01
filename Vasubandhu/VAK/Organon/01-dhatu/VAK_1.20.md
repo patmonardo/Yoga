@@ -12,7 +12,7 @@
 >
 > mohendriyarucitraidhāt tisraḥ skandhādideśanāḥ // 1.20 //
 
-## 3. Padaccheda
+## 3. Lexical Analysis
 
 ```text
 rāśyāyadvāragotrārthāḥ → rāśi-āya-dvāra-gotra-arthāḥ

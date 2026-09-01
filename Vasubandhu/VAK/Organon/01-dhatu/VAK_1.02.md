@@ -12,7 +12,7 @@
 >
 > tasyārthato 'smin samanupraveśāt sa cāśrayo 'syety abhidharmakośam // 1.02 //
 
-## 3. Padaccheda
+## 3. Lexical Analysis
 
 ### Sandhi resolution
 

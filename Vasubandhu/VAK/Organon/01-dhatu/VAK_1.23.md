@@ -12,7 +12,7 @@
 >
 > dūrāśutaravṛttyānyat yathāsthānaṃ kramo 'thavā // 1.23 //
 
-## 3. Padaccheda
+## 3. Lexical Analysis
 
 ```text
 prāk pañca            → prāk pañca

@@ -12,7 +12,7 @@
 >
 > āpas tejaś ca vāyus tu dhātur eva tathāpi ca // 1.13 //
 
-## 3. Padaccheda
+## 3. Lexical Analysis
 
 ```text
 varṇasaṃsthānam  → varṇa-saṃsthānam

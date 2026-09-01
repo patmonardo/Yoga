@@ -12,7 +12,7 @@
 >
 > ṣoḍhā caturvidho gandhaḥ spṛśyam ekādaśātmakam // 1.10 //
 
-## 3. Padaccheda
+## 3. Lexical Analysis
 
 ```text
 śabdas tv             → śabdaḥ tu

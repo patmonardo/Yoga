@@ -12,7 +12,7 @@
 >
 > na śabdo 'pratighā aṣṭau naiḥṣyandika-vipākajāḥ // 1.37 //
 
-## 3. Padaccheda
+## 3. Lexical Analysis
 
 ```text
 vipākajaupacayikāḥ      → vipākajāḥ aupacayikāḥ

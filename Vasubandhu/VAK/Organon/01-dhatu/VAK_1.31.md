@@ -12,7 +12,7 @@
 >
 > sāsravānāsravā ete trayaḥ śeṣās tu sāsravāḥ // 1.31 //
 
-## 3. Padaccheda
+## 3. Lexical Analysis
 
 ```text
 ārūpyāptāḥ                    → ārūpya-āptāḥ

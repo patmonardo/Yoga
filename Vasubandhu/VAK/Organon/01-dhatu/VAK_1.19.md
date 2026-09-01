@@ -12,7 +12,7 @@
 >
 > dvitve 'pi cakṣurādīnāṃ śobhārthaṃ tu dvayodbhavaḥ // 1.19 //
 
-## 3. Padaccheda
+## 3. Lexical Analysis
 
 ```text
 jātigocaravijñānasāmānyāt → jāti-gocara-vijñāna-sāmānyāt

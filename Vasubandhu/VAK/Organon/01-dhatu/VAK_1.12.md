@@ -12,7 +12,7 @@
 >
 > dhṛtyādikarmasaṃsiddhāḥ kharasnehoṣṇateraṇāḥ // 1.12 //
 
-## 3. Padaccheda
+## 3. Lexical Analysis
 
 ```text
 pṛthivīdhātur           → pṛthivī-dhātuḥ

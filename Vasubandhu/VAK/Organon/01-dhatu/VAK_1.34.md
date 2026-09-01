@@ -12,7 +12,7 @@
 >
 > navānupāttās te cāṣṭau śabdaś cānye nava dvidhā // 1.34 //
 
-## 3. Padaccheda
+## 3. Lexical Analysis
 
 ```text
 sālambanāḥ         → sa-ālambanāḥ

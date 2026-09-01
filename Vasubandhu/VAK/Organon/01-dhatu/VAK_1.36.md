@@ -12,7 +12,7 @@
 >
 > dahyate tulayaty evaṃ vivādo dagdhṛtulyayoḥ // 1.36 //
 
-## 3. Padaccheda
+## 3. Lexical Analysis
 
 ```text
 chidyate           → chidyate

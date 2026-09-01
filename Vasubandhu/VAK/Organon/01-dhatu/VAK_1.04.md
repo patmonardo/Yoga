@@ -12,7 +12,7 @@
 >
 > sāsravāḥ āsravās teṣu yasmāt samanuśerate // 1.04 //
 
-## 3. Padaccheda
+## 3. Lexical Analysis
 
 ```text
 sāsravānāsravāḥ → sāsravāḥ anāsravāḥ

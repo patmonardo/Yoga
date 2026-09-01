@@ -12,7 +12,7 @@
 >
 > ākāśaṃ dvau nirodhau ca tatrākāśam anāvṛtiḥ // 1.05 //
 
-## 3. Padaccheda
+## 3. Lexical Analysis
 
 ```text
 cāpy → ca api                  tatrākāśam → tatra ākāśam

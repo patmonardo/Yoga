@@ -12,7 +12,7 @@
 >
 > tau prajñā mānasī vyagrā smṛtiḥ sarvaiva mānasī // 1.33 //
 
-## 3. Padaccheda
+## 3. Lexical Analysis
 
 ```text
 nirūpaṇānusmaraṇavikalpena

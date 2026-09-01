@@ -12,7 +12,7 @@
 >
 > caritapratipakṣas tu dharmaskandho 'nuvarṇitaḥ // 1.26 //
 
-## 3. Padaccheda
+## 3. Lexical Analysis
 
 ```text
 śāstrapramāṇāḥ       → śāstra-pramāṇāḥ

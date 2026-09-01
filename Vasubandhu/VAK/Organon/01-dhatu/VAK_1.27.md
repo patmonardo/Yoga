@@ -12,7 +12,7 @@
 >
 > pratipādyā yathokteṣu saṃpradhārya svalakṣaṇam // 1.27 //
 
-## 3. Padaccheda
+## 3. Lexical Analysis
 
 ```text
 tathānye 'pi              → tathā anye api

@@ -12,7 +12,7 @@
 >
 > dhātunā ca svabhāvena parabhāvaviyogataḥ // 1.18 //
 
-## 3. Padaccheda
+## 3. Lexical Analysis
 
 ```text
 sarvasaṃgrahaḥ          → sarva-saṃgrahaḥ

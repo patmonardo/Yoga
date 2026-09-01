@@ -12,7 +12,7 @@
 >
 > kleśaiś ca bhramati bhavārṇave 'tra lokas taddhetor ata uditaḥ kilaiṣa śāstraḥ // 1.03 //
 
-## 3. Padaccheda
+## 3. Lexical Analysis
 
 ```text
 nāsti → na asti                         kleśaiś ca → kleśaiḥ ca

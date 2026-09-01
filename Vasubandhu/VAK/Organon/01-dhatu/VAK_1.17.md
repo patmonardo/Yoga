@@ -12,7 +12,7 @@
 >
 > ṣaṣṭhāśrayaprasiddhyarthaṃ dhātavo 'ṣṭādaśa smṛtāḥ // 1.17 //
 
-## 3. Padaccheda
+## 3. Lexical Analysis
 
 ```text
 ṣaṇṇām anantarātītam       → ṣaṇṇām anantara-atītam

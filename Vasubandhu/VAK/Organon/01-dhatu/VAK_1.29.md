@@ -12,7 +12,7 @@
 >
 > rūpiṇo 'vyākṛtā aṣṭau ta evārūpaśabdakāḥ // 1.29 //
 
-## 3. Padaccheda
+## 3. Lexical Analysis
 
 ```text
 sanidarśanaḥ       → sa-nidarśanaḥ

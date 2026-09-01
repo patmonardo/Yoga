@@ -12,7 +12,7 @@
 >
 > ekam āyatanaṃ rūpam ekaṃ dharmākhyam ucyate // 1.24 //
 
-## 3. Padaccheda
+## 3. Lexical Analysis
 
 ```text
 viśeṣaṇārtham             → viśeṣaṇa-artham

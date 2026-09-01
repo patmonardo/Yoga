@@ -12,7 +12,7 @@
 >
 > cakṣuḥśrotramano 'prāptaviṣayaṃ trayam anyathā // 1.43 //
 
-## 3. Padaccheda
+## 3. Lexical Analysis
 
 ```text
 ubhābhyām api          → ubhābhyām api

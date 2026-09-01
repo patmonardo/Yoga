@@ -12,7 +12,7 @@
 >
 > tasmai namaskṛtya yathārthaśāstre śāstraṃ pravakṣyāmy abhidharmakośam // 1.01 //
 
-## 3. Padaccheda
+## 3. Lexical Analysis
 
 | Form | Padaccheda | Meaning |
 |---|---|---|

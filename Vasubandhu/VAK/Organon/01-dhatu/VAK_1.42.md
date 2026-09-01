@@ -12,7 +12,7 @@
 >
 > vijñānaṃ dṛśyate rūpaṃ na kilāntaritaṃ yataḥ // 1.42 //
 
-## 3. Padaccheda
+## 3. Lexical Analysis
 
 ```text
 cakṣuḥ              → cakṣuḥ

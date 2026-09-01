@@ -12,7 +12,7 @@
 >
 > dharmadhātvekadeśaś ca saṃcitā daśa rūpiṇaḥ // 1.35 //
 
-## 3. Padaccheda
+## 3. Lexical Analysis
 
 ```text
 spraṣṭavyam             → spraṣṭavyam

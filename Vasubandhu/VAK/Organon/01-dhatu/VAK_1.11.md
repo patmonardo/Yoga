@@ -12,7 +12,7 @@
 >
 > mahābhūtāny upādāya sa hy avijñaptir ucyate // 1.11 //
 
-## 3. Padaccheda
+## 3. Lexical Analysis
 
 ```text
 vikṣiptācittakasyāpi  → vikṣipta-acittakasya api

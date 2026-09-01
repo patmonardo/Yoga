@@ -13,7 +13,7 @@
 > utpādātyantavighno 'nyo nirodho 'pratisaṃkhyayā // 1.06 //
 
 
-## 3. Padaccheda
+## 3. Lexical Analysis
 
 | Form | Padaccheda | Meaning |
 |---|---|---|

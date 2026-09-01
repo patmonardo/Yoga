@@ -12,7 +12,7 @@
 >
 > ato 'sādhāraṇatvād dhi vijñānaṃ tair nirucyate // 1.45 //
 
-## 3. Padaccheda
+## 3. Lexical Analysis
 
 ```text
 tadvikāravikāritvāt    → tad-vikāra-vikāritvāt

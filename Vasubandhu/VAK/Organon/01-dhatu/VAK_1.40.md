@@ -12,7 +12,7 @@
 >
 > na dṛṣṭiheyam akliṣṭaṃ na rūpaṃ nāpy aṣaṣṭhajam // 1.40 //
 
-## 3. Padaccheda
+## 3. Lexical Analysis
 
 ```text
 bhāvanayā heyāḥ       → bhāvanayā heyāḥ

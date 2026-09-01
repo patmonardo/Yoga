@@ -12,7 +12,7 @@
 >
 > tadvijñānāśrayā rūpaprasādāś cakṣurādayaḥ // 1.09 //
 
-## 3. Padaccheda
+## 3. Lexical Analysis
 
 ```text
 pañcendriyāṇy arthāḥ   → pañca indriyāṇi arthāḥ

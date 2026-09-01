@@ -13,7 +13,7 @@
 > duḥkhaṃ samudayo loko dṛṣṭisthānaṃ bhavaś ca te // 1.08 //
 
 
-## 3. Padaccheda
+## 3. Lexical Analysis
 
 | Form | Padaccheda | Meaning |
 |---|---|---|

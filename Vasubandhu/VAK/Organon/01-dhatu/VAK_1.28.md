@@ -12,7 +12,7 @@
 >
 > vijñānadhātur vijñānaṃ sāsravaṃ janmaniśrayāḥ // 1.28 //
 
-## 3. Padaccheda
+## 3. Lexical Analysis
 
 ```text
 ākāśadhātvākhyam    → ākāśa-dhātu-ākhyam

@@ -12,7 +12,7 @@
 >
 > tāni vāṅnāma vety eṣāṃ rūpasaṃskārasaṃgrahaḥ // 1.25 //
 
-## 3. Padaccheda
+## 3. Lexical Analysis
 
 ```text
 dharmaskandhasahasrāṇi → dharma-skandha-sahasrāṇi
