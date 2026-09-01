@@ -12,7 +12,7 @@
 >
 > vidikṣu kūṭāś catvāra uṣitā vajrapāṇibhiḥ // 3.65 //
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 meru-mūrdhni               → merumūrdhni
@@ -44,7 +44,7 @@ vajra-pāṇibhiḥ             → vajrapāṇibhiḥ
 specifies the latter as a class of yakṣas rather than merely translating the
 compound as an epithet.
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The opening locative establishes the summit population:
 

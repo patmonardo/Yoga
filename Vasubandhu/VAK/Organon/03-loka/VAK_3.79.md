@@ -12,7 +12,7 @@
 >
 > kāme 'dharāṇāṃ tenāyuḥ pañcavarṣaśatāni tu // 3.79 //
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 nṛṇām                 → nṛṇāṃ
@@ -46,7 +46,7 @@ The Bhāṣya makes `adharāṇām` exact: these are the Cāturmahārājakāyika
 lowest class of desire-realm devas. It also makes explicit that the five
 hundred years are divine years constituted through the preceding conversion.
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The first line is an equation between two differently indexed temporal units:
 

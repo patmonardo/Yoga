@@ -8,7 +8,7 @@
 
 > samyaṅmithyātvaniyatā āryānantaryakāriṇaḥ // 3.44 //
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 samyaktva-niyatāḥ          → samyaṅ...niyatā
@@ -29,7 +29,7 @@ mithyātva-niyatāḥ          → ...mithyātvaniyatā
 `samyaktva-niyatāḥ` and `mithyātva-niyatāḥ`. The two following nouns supply
 their respective subjects.
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The elliptical verse resolves as two parallel clauses:
 

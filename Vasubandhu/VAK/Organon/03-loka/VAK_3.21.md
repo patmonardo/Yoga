@@ -18,7 +18,7 @@ The first pāda must be segmented with `daśā`, “state,” not `daśa`, “te
 pūrva-kleśa-daśā + avidyā
 ```
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 pūrva-kleśā daśā        → pūrvakleśā daśā
@@ -49,7 +49,7 @@ The Bhāṣya explicitly states `daśeti varttate`: “state” is carried forwa
 the second definition. Thus `saṃskāra` designates the karmic state of the
 former birth whose maturation occurs in the present birth.
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The verse supplies four stage-definitions:
 

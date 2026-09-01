@@ -12,7 +12,7 @@
 >
 > utkarṣā apakarṣāś ca kalpā aṣṭādaśāpare // 3.91 //
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 antar-kalpaḥ          → antaḥkalpaḥ → antaḥkalpo (before a-)
@@ -45,7 +45,7 @@ apare                 → apare
 values. The Bhāṣya fixes their ordinary endpoints at ten and eighty thousand
 years.
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The first line defines the first intermediate kalpa of the standing World by
 its directed lifespan-change:

@@ -12,7 +12,7 @@
 >
 > catvāraḥ sāsravāḥ skandhāḥ svabhūmāv eva kevalam // 3.7 //
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 anicchā-avasanāt + na + anye → anicchāvasanān nānye
@@ -43,7 +43,7 @@ The ablative `anicchāvasanāt` gives the reason for excluding further abodes.
 The Bhāṣya makes its subject explicit: beings in the bad destinies dwell there
 unwillingly.
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The first clause closes the preceding classification of being-abodes:
 

@@ -16,7 +16,7 @@ The first line remains highly compressed in the metrical witness. Its meaning
 is secured by the Bhāṣya: the twentieth intermediate kalpa consists of one
 increase from a ten-year human lifespan to the upper limit of 80,000 years.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 utkarṣaḥ              → utkarṣa (before e-)
@@ -52,7 +52,7 @@ viṃśatim              → viṃśatim
 `Vivṛtta` names the expanded condition already achieved; `tiṣṭhati` names its
 measured persistence. Formation and standing are therefore distinct phases.
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The first line completes the sequence begun in 3.91:
 

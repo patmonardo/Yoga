@@ -12,7 +12,7 @@
 >
 > manomayaḥ saṃbhavaiṣī gandharvaścāntarābhavaḥ // 3.40 //
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 sparśa-saṃcetanā-vijñāḥ     → sparśasaṃcetanāvijñā
@@ -42,7 +42,7 @@ The initial compound coordinates three further nutriments rather than naming
 one compound entity. Together with morsel nutriment from 3.39, they complete
 the fourfold class.
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The first hemistich predicates nutriment-status and realm-distribution:
 

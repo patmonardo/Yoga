@@ -12,7 +12,7 @@
 >
 > kāmāḥ ṣaṇṇāṃ caturṇāṃ sva ekasyālambanaṃ paraḥ // 3.34 //
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 svaḥ                        → svo
@@ -52,7 +52,7 @@ The Kārikā is compressed tabular language. The referents and the two dhyāna
 pairs cannot be recovered securely from the verse alone; the Bhāṣya supplies
 the governing matrix.
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The opening continues the analysis of mental rangings belonging to the first
 two form-realm dhyānas from 3.33:

@@ -12,7 +12,7 @@
 >
 > trayāṇām uttaraḥ dhyānadvaye dvādaśa kāmagāḥ // 3.33 //
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 kāme                       → kāme
@@ -44,7 +44,7 @@ The compact verse moves between two axes which the Bhāṣya explicitly
 distinguishes: realm-membership (`pratisaṃyukta`) and object-support
 (`ālambana`).
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The first three clauses concern the realms that may serve as object-supports:
 

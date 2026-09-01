@@ -12,7 +12,7 @@
 >
 > ṣoḍaśāṣṭau sahasrāṇi catvāri dve ca nirgatāḥ // 3.63 //
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 pariṣaṇḍāḥ                 → pariṣaṇḍāś
@@ -45,7 +45,7 @@ The feminine numeral `catasraḥ` and participle `nirgatāḥ` agree with the fo
 terraces. The unit `yojana` is supplied by the established cosmographical
 context and made explicit in the Bhāṣya.
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The first half states the number of terraces and their vertical interval:
 

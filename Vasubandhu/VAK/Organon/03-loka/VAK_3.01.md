@@ -12,7 +12,7 @@
 >
 > kāmadhātuḥ sa narakadvīpabhedena viṃśatiḥ // 3.1 //
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 naraka-preta-tiryañcaḥ → naraka-preta-tiryañcaḥ
@@ -41,7 +41,7 @@ hell-being or hell-destiny. `Preta` is retained as a technical term rather than
 being reduced to the conventional “hungry ghost.” `Tiryañc`, literally one
 that goes across or horizontally, has the established sense “animal.”
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The verse first presents a nominative enumeration and then identifies its
 domain:

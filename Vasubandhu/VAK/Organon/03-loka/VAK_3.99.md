@@ -18,7 +18,7 @@ mahākalpa. The repeated `ca` has cumulative force: disease lasts seven months
 plus seven days, and famine lasts seven years plus seven months and seven
 days.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 kalpasya                    → kalpasya
@@ -52,7 +52,7 @@ The instrumental expressions identify three alternative crisis-modes by
 which the antarakalpa reaches its terminal passage. They do not describe three
 stages that must all occur successively in one exit.
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The first half states the three alternatives:
 

@@ -19,7 +19,7 @@ kila + iṣṭaḥ          → kileṣṭaḥ
 prādhānyāt + tu       → prādhānyāt tv
 ```
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 āvasthikaḥ             → āvasthikaḥ
@@ -51,7 +51,7 @@ saṃmoha-vinivṛttaye    → saṃmohavinivṛttaye
 intended in the sūtra; it need not assert that this is the sole exhaustive
 form of dependent origination.
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The first statement selects the model:
 

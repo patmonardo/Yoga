@@ -12,7 +12,7 @@
 >
 > vyāpādānunayasparśau sukhavedyādayas trayaḥ // 3.31 //
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 vidyā-avidyā-itara-sparśāḥ  → vidyāvidyetarasparśāḥ
@@ -39,7 +39,7 @@ trayaḥ                      → trayaḥ
 The Kārikā superimposes several classifications upon the same contact-field;
 it does not state a new temporal sequence.
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The first line correlates two threefold classifications:
 

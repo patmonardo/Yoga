@@ -17,7 +17,7 @@ The final word is textually decisive. The Bhāṣya glosses `avadhāḥ` through
 by weapons. It must therefore be read as **without killing**, not as
 “boundaries” or “territorial limits.”
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 eka-dvi-tri-catur-dvīpāḥ     → ekadvitricaturdvīpā
@@ -49,7 +49,7 @@ cakravartins established in 3.95. The second series distributes four modes of
 conquest across the same ordered class. The Bhāṣya, not the compressed surface
 alone, fixes both mappings.
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The first statement supplies territorial scope:
 

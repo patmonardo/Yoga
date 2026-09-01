@@ -16,7 +16,7 @@ The verse fixes both an eligibility threshold and a ranked classification.
 The Bhāṣya specifies that cakravartins arise while human lifespan ranges from
 immeasurable duration down to eighty thousand years, never below that limit.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 cakravarti-samutpattiḥ    → cakravartisamutpattir (before n-)
@@ -49,7 +49,7 @@ The long nominal compound enumerates four kinds of `cakrin`; it does not
 describe one wheel composed of four materials. The Bhāṣya confirms that each
 material marks a distinct sovereign rank.
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The first half gives the temporal boundary:
 

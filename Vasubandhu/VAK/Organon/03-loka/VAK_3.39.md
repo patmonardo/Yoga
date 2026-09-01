@@ -12,7 +12,7 @@
 >
 > na rūpāyatanaṃ tena svākṣamuktānanugrahāt // 3.39 //
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 kavaḍīkāraḥ                 → kavaḍīkāra
@@ -42,7 +42,7 @@ The three spheres are not named in the Kārikā. The Bhāṣya specifies them as
 odor, taste, and tangible. It also controls the dense final compound through
 the functional criterion of `anugraha`, sustaining support.
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The first hemistich defines the realm and constitution of morsel nutriment:
 

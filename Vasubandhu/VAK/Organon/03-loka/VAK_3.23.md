@@ -15,7 +15,7 @@
 The Sanskrit witness reads `vittiḥ`. The Bhāṣya explicitly identifies it here
 as the `vedanā-avasthā`, the stage of feeling.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 vittiḥ                  → vittiḥ
@@ -46,7 +46,7 @@ paridhāvataḥ            → paridhāvataḥ
 The genitives in the latter two definitions qualify the person whose concrete
 developmental state receives the name `tṛṣṇā` or `upādāna`.
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The verse defines three successive stages:
 

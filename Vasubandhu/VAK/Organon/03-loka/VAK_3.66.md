@@ -12,7 +12,7 @@
 >
 > puraṃ sudarśanaṃ nāma haimaṃ citratalaṃ mṛdu // 3.66 //
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 madhye                     → madhye
@@ -42,7 +42,7 @@ The numerical compound `sārdhadvisāhasra` is resolved by the Bhāṣya as 2,50
 not merely as an unspecified “two thousand with a half.” The second measure is
 explicitly assigned to height in the commentary.
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The locative places the city at the center of the summit established in 3.65:
 

@@ -17,7 +17,7 @@ destruction. The Bhāṣya resolves its compressed count: seven fire-contraction
 precede each of seven water-contractions; seven further fire-contractions are
 then followed by one wind-contraction, producing sixty-four events in all.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 sapta                       → sapta
@@ -52,7 +52,7 @@ tataḥ                       → tataḥ
 as seven `tejaḥsaṃvartanīs`. The arithmetic is therefore commentary-resolved,
 not fully transparent from the isolated verse.
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The opening gives the recurrent unit:
 

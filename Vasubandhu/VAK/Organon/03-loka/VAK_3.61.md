@@ -12,7 +12,7 @@
 >
 > hemantānāṃ caturthe tu hīyate 'har viparyayāt // 3.61 //
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 prāvṛṭ-māse                → prāvṛṇmāse
@@ -44,7 +44,7 @@ viparyayāt                 → viparyayāt
 The Bhāṣya corrects a tempting but imprecise reading of `antyanavamī`: it is
 not simply a “final ninth day,” but the ninth day of the second fortnight.
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The first clause fixes a calendrical trigger and its process:
 

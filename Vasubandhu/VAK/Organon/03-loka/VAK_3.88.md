@@ -12,7 +12,7 @@
 >
 > tatkṣaṇas te punaḥ ṣaṣṭir lavas triṃśadguṇottarāḥ // 3.88 //
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 te                    → te
@@ -47,7 +47,7 @@ The Bhāṣya's prose gloss `kṣaṇānāṃ viṃśaṃ śatam` secures the id
 120. The final plural `triṃśadguṇottarāḥ` looks forward to the subsequent
 time-units; it does not retroactively govern the factors 120 and 60.
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The opening completes the spatial ladder:
 

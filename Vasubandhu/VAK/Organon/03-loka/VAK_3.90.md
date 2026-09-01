@@ -16,7 +16,7 @@ The first boundary is `naraka-asaṃbhava`, non-arising in the narakas, not
 `naraka-saṃbhava`, their arising. The Kārikā and Bhāṣya make contraction and
 expansion complementary intervals with opposite boundary events.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 saṃvarta-kalpaḥ       → saṃvartakalpaḥ → saṃvartakalpo (before n-)
@@ -42,7 +42,7 @@ naraka-saṃbhavaḥ      → narakasaṃbhavaḥ
 all naraka beings. `Bhājanakṣaya` is likewise the final environmental event,
 not the whole contraction process compressed into one destruction.
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The first line defines a process-interval by initial and terminal events:
 

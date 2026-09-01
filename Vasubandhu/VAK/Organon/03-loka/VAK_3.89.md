@@ -18,7 +18,7 @@ thirty muhūrtas a day-night, and thirty day-nights a month. `Sonarātraḥ` is
 likewise controlled by the explanation of six `ūnarātras`, omitted or
 deficient nights used in constructing the year.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 trayaḥ / [triṃśat]        → trayo
@@ -49,7 +49,7 @@ The Bhāṣya is indispensable here. Surface segmentation alone cannot safely
 recover either the repeated factor thirty or the technical force of
 `sonarātraḥ`.
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The opening continues the `triṃśadguṇottarāḥ` rule announced in 3.88. The
 Bhāṣya distributes three parallel equations:

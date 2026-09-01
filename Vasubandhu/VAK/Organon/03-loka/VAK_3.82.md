@@ -12,7 +12,7 @@
 >
 > saṃjīvādiṣu ṣaṭsv āyus tais teṣāṃ kāmadevavat // 3.82 //
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 kāma-deva-āyuṣā      → kāmadevāyuṣā
@@ -44,7 +44,7 @@ The two apparent comparisons have different functions. `tulya` equates a
 deva lifespan with a hell day-night; `-vat` transfers the corresponding deva
 lifespan's numerical year-count into the hell calendar.
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The first construction establishes six ordered unit conversions:
 

@@ -12,7 +12,7 @@
 >
 > pañcapratighasaṃsparśaḥ ṣaṣṭho 'dhivacanāhvayaḥ // 3.30 //
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 nāma                    → nāma
@@ -45,7 +45,7 @@ adhivacana-āhvayaḥ      → adhivacanāhvayaḥ
 The supplied Devanāgarī/IAST compresses `pañca-pratigha-saṃsparśāḥ`; the
 plural predicate is understood from `pañca`, as confirmed by the Bhāṣya.
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The first definition is a nominal identity:
 

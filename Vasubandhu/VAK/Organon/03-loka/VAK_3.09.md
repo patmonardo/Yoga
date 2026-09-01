@@ -12,7 +12,7 @@
 >
 > antarābhavadevāś ca pretā api jarāyujāḥ // 3.9 //
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 caturdhā                  → caturdhā
@@ -41,7 +41,7 @@ jarāyujāḥ                 → jarāyujāḥ
 `antarābhavāḥ` and `devāḥ`. The Bhāṣya explicitly interprets `api` to mean
 that pretas are spontaneously arisen as well as womb-born.
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The verse distributes the four birth-modes across classes of beings:
 

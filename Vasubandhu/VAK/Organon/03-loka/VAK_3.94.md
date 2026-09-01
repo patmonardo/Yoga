@@ -18,7 +18,7 @@ year human lifespan down to a lifespan of one hundred years; and the
 `kalpaśata` associated with the solitary Pratyekabuddha consists specifically
 of one hundred **mahākalpas**.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 buddhatvam                → buddhatvam
@@ -51,7 +51,7 @@ The surface `khaḍga`, literally “rhinoceros,” is expanded by the commentar
 connected preparatory continuity; it does not make the one hundred kalpas a
 mere external date.
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The first half answers the Bhāṣya's question whether Buddhas arise during
 lifespan-increase or lifespan-decrease:

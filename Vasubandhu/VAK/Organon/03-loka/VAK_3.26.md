@@ -12,7 +12,7 @@
 >
 > phalahetvabhisaṃkṣepo dvayor madhyānumānataḥ // 3.26 //
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 kleśāḥ                 → kleśās
@@ -47,7 +47,7 @@ The Bhāṣya explicitly explains `vastu` through `kleśa-karmāśrayatva`: the
 seven are the support of affliction and karma. The same seven are `phala`
 when determined as products of prior causes.
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The first half gives three functional classifications:
 

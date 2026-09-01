@@ -12,7 +12,7 @@
 >
 > sārdhe dve madhyamasyāṣṭau caturasraḥ kuruḥ samaḥ // 3.55 //
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 godānīyaḥ                  → godānīyaḥ
@@ -41,7 +41,7 @@ samaḥ                      → samaḥ
 | Kuruḥ | nominative masculine singular | Kuru, northern continent |
 | samaḥ | nominative masculine singular | equal; having equal sides |
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The first continent receives total measure and shape:
 

@@ -15,7 +15,7 @@
 The local witness reads `vinitaka` and `nimindhara`; these forms are preserved
 pending comparison with a critical edition and variant cosmological lists.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 aśvakarṇaḥ                  → aśvakarṇo
@@ -45,7 +45,7 @@ saḥ                         → sa
 | saḥ | nominative masculine singular pronoun | that one, Cakravāḍa |
 | āyasaḥ | nominative masculine singular | iron, made of iron |
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The first line finishes the list begun in 3.48:
 

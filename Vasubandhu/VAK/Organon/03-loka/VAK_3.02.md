@@ -12,7 +12,7 @@
 >
 > dhyānaṃ tribhūmikaṃ tatra caturthaṃ tvaṣṭabhūmikam // 3.2 //
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 ūrdhvam                → ūrdhvam
@@ -43,7 +43,7 @@ The transmitted `tvaṣṭabhūmikam` resolves as `tu + aṣṭa-bhūmikam`. The
 Bhāṣya glosses distributive `pṛthak pṛthak` with `pratyekam`, “each
 separately.”
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The first clause locates and counts the next domain:
 

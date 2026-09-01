@@ -12,7 +12,7 @@
 >
 > lakṣadvādaśakaṃ caiva jalakāñcanamaṇḍalam // 3.47 //
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 tiryak                       → tiryak
@@ -38,7 +38,7 @@ jala-kāñcana-maṇḍalam        → jalakāñcanamaṇḍalam
 `Sārdhaṃ śatacatuṣṭayam` denotes four hundred plus half of a hundred, or 450.
 The complete transverse measure is therefore 1,203,450 yojanas.
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The measured subject is `jalakāñcanamaṇḍalam`; its copula and unit are supplied
 from context:

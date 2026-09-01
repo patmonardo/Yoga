@@ -12,7 +12,7 @@
 >
 > śītāḥ saptāntarāṇy eṣām ādyāśītisahasrikā // 3.51 //
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 ardha-ardha-hāniḥ           → ardhārdhahānir
@@ -40,7 +40,7 @@ aśīti-sahasrikā             → aśītisahasrikā
 | ādyā | nominative feminine singular | the first Śītā |
 | aśītisahasrikā | nominative feminine singular | measuring eighty thousand |
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The opening gives a rule over the eight-member mountain series:
 

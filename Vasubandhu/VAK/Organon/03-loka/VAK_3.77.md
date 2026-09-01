@@ -17,7 +17,7 @@ the half-increment rule and the force of the Anabhraka clause cannot be made
 secure from the metrical wording alone. The Bhāṣya supplies the distribution
 that governs the study translation below.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 ardha-ardha-vṛddhiḥ      → ardhārdhavṛddhiḥ
@@ -47,7 +47,7 @@ tri-yojanam              → triyojanam
 yojana, not one half of the preceding body's magnitude. `āśraya` designates
 the bodily support appropriate to a station of birth.
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The opening expression completes the forward pointer `tataḥ param` at the end
 of 3.76:

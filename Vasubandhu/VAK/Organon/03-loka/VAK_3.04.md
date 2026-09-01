@@ -12,7 +12,7 @@
 >
 > akliṣṭāvyākṛtā eva sattvākhyā nāntarābhavaḥ // 3.4 //
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 naraka-ādi-sva-nāma-uktāḥ → narakādi-svanāmoktāḥ
@@ -43,7 +43,7 @@ na antarā-bhavaḥ           → nāntarābhavaḥ
 deriving a new list. The verbal force of `gati`, from √`gam`, remains audible:
 a destiny is a course or going, not merely a static place.
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The first half places and identifies the five destinies:
 

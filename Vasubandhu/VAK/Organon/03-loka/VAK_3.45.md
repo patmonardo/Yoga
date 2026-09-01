@@ -12,7 +12,7 @@
 >
 > lakṣaṣoḍaśakodvedham asaṃkhyaṃ vāyumaṇḍalam // 3.45 //
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 tatra                       → tatra
@@ -39,7 +39,7 @@ vāyu-maṇḍalam               → vāyumaṇḍalam
 `Lakṣa` is one hundred thousand. Sixteen `lakṣas` therefore gives 1,600,000;
 the Bhāṣya supplies `yojana` as the unit.
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The principal construction is:
 

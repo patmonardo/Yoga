@@ -20,7 +20,7 @@ because the Bhāṣya explicitly completes the classification with three
 formless stations and VAK 3.06 names the resulting seven. This is a marked
 source decision, not a silent normalization.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 nānātva-kāya-saṃjñāḥ + ca → nānātvakāyasaṃjñāś ca
@@ -44,7 +44,7 @@ The compressed verse does not restate both one-body combinations in full.
 The Bhāṣya supplies them: one body with diverse perceptions and one body with
 one perception.
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The verse constructs four embodied classes through two binary features:
 

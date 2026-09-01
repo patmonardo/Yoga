@@ -12,7 +12,7 @@
 >
 > pārśvatrayaṃ tathāsyaikaṃ sārdhaṃ triśatayojanam // 3.54 //
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 sa-ardha-tri-yojanam        → sārdhatriyojanam
@@ -43,7 +43,7 @@ tri-śata-yojanam            → triśatayojanam
 half a yojana to three yojanas; with `triśata` it adds half a hundred to three
 hundreds.
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The opening clause completes the Jambūdvīpa description from 3.53:
 

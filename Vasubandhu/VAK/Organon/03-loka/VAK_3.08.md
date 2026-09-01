@@ -12,7 +12,7 @@
 >
 > catasro yonayas tatra sattvānām aṇḍajādayaḥ // 3.8 //
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 vijñānam             → vijñānam
@@ -47,7 +47,7 @@ aṇḍaja-ādayaḥ        → aṇḍajādayaḥ
 defines it as a four-way inclusion analysis between the seven cosmological
 cognition-stations and the four aggregate-stations.
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The opening statement closes the preceding support analysis:
 

@@ -12,7 +12,7 @@
 >
 > sakalākṣaḥ apratighavān anivartyaḥ sa gandhabhuk // 3.14 //
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 sajāti-śuddha-divya-akṣi-dṛśyaḥ → sajātiśuddhadivyākṣidṛśyaḥ
@@ -41,7 +41,7 @@ The Bhāṣya construes the first compound distributively: visible to
 intermediate beings of the same class and visible to a purified divine eye.
 It does not make `sajāti` qualify the eye.
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The verse is a sequence of predicates sharing one subject, `saḥ`, which
 refers to the intermediate being established in the preceding verses:

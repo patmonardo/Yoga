@@ -17,7 +17,7 @@ authority, and lifespan decline into one sequence. The Bhāṣya is required to
 recover its intermediate links and to determine `sāgrahaiḥ` as possessive
 appropriation rather than a generic act of grasping.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 ālasyāt                     → ālasyāt
@@ -50,7 +50,7 @@ of conduct exemplified by theft, armed punishment, and false speech. The bare
 compound should therefore not be translated as though ethically neutral
 activity in general shortened lifespan.
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The first line condenses two stages linked by the absolutive:
 

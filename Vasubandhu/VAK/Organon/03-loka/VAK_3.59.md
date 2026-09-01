@@ -18,7 +18,7 @@ local primary Kārikā source and confirmed by the 3.59 Bhāṣya. Both research
 witnesses remain unchanged. The local source reads `arvuda`; that form is
 preserved rather than normalized to the more familiar `arbuda`.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 kukūlam                     → kukūlaṃ
@@ -47,7 +47,7 @@ arvuda-ādayaḥ               → arvudādayaḥ
 | anye aṣṭau | nominative masculine plural phrase | eight others |
 | arvudādayaḥ | nominative masculine plural compound | beginning with Arvuda |
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The first line enumerates four subsidiary-region types, with an understood
 class predicate:

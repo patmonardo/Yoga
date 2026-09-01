@@ -16,7 +16,7 @@ The normalized `arbudāt` follows the Bhāṣya's citation and syntax: after
 Arbuda, the later cold-naraka lifespans increase successively twentyfold. The
 immediate metrical witness has an unstable form at this point.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 vāhāt                         → vāhād (before v-)
@@ -47,7 +47,7 @@ The compact first line can sound like an equation between Arbuda lifespan and
 the depletion time. The Bhāṣya explicitly blocks that construal by calling the
 procedure `upamānamātra`, comparison alone.
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The first line presents the comparison through a compressed lifespan
 compound:

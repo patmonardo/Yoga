@@ -18,7 +18,7 @@ external medium that destroys it. The second half blocks an invalid inference.
 The fourth dhyāna's immunity from those three contractions is relative; its
 abodes still arise and pass away with their beings.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 tat-apakṣāla-sādharmyāt     → tadapakṣālasādharmyāt
@@ -48,7 +48,7 @@ The Bhāṣya explains `aniñjana` through `āneñja`, “immovable” or
 `apakṣāla`. This is immunity from a specified failure-mode, not
 unconditionedness.
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The first half joins the general explanation to its fourth-dhyāna exception:
 

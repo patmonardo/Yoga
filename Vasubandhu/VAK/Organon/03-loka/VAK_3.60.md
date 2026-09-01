@@ -17,7 +17,7 @@ Bhāṣya. The primary e-text prints `madhyānha` and `sakṛta`; the grammatica
 expected forms `madhyāhna` and `sakṛt`, also used by the Bhāṣya witness, are
 adopted here with the e-text forms recorded as witness irregularities.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 ardhena                     → ardhena
@@ -43,7 +43,7 @@ sakṛt                       → sakṛt
 | udayaḥ | nominative masculine singular | rising / sunrise |
 | sakṛt | indeclinable | at once, simultaneously |
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The first statement gives level and ordered measures:
 

@@ -12,7 +12,7 @@
 >
 > ardhārdhenāparāḥ śītāḥ śeṣaṃ bāhyo mahodadheḥ // 3.52 //
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 ābhyantaraḥ                 → ābhyantaraḥ
@@ -46,7 +46,7 @@ mahā-udadheḥ                → mahodadheḥ
 The final expression is elliptical. The Bhāṣya resolves `śeṣam` as the interval
 between Nimindhara and Cakravāḍa and identifies it as the outer great ocean.
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The first Śītā is reclassified:
 

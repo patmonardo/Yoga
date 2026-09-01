@@ -12,7 +12,7 @@
 >
 > pūrvottare pārijātaḥ sudharmā dakṣiṇāvare // 3.68 //
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 viṃśati-antaritāni         → viṃśatyantaritāny
@@ -40,7 +40,7 @@ The Bhāṣya explicitly glosses `dakṣiṇāvara` as `dakṣiṇapaścima`, so
 and determines `subhūmi` as a deva recreation-place. The name `Sudharmā` is
 retained rather than converted into a doctrinal claim by etymology alone.
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The first half relates a second set of recreation-grounds to the four gardens
 of 3.67:

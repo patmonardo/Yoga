@@ -12,7 +12,7 @@
 >
 > manovijñāna eveṣṭāḥ upekṣāyāṃ cyutodbhavau // 3.42 //
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 cheda                       → cheda
@@ -45,7 +45,7 @@ cyuta-udbhavau             → cyutodbhavau
 The first line is not a generic sequence of cutting and joining. The Bhāṣya
 expands each compact member into a specific doctrinal event.
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The first predication assigns six events to one cognitive locus:
 

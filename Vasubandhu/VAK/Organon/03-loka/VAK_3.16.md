@@ -12,7 +12,7 @@
 >
 > niṣkrāmaty api sarvāṇi mūḍho 'nyaḥ nityam aṇḍajaḥ // 3.16 //
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 saṃprajānan                 → saṃprajānan
@@ -44,7 +44,7 @@ The Bhāṣya explicitly carries `saṃprajānan` and the earlier actions forwar
 through each `api`. The three clear profiles are therefore cumulative, not
 three isolated moments.
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The cumulative syntax yields four profiles:
 

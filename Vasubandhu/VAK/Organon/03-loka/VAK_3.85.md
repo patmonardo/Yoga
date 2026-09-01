@@ -12,7 +12,7 @@
 >
 > rūpa-nāmādhva-paryantāḥ paramāṇur aṇus tathā // 3.85 //
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 kuru-bāhyaḥ                → kurubāhyaḥ → kurubāhyo (before a-)
@@ -42,7 +42,7 @@ The coordinated compounds encode a respective mapping rather than three
 undifferentiated minima: `paramāṇu → rūpa`, `akṣara → nāma`, and `kṣaṇa →
 adhvan`.
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The opening statement qualifies the lifespan tables just completed:
 

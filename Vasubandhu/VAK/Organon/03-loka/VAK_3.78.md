@@ -17,7 +17,7 @@ accordance with the Bhāṣya's segmented citation and explanation. This removes
 an unstable vowel division in the immediate metrical witness without changing
 the verse's meaning.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 sahasram            → sahasram
@@ -53,7 +53,7 @@ The Bhāṣya identifies the dual `dvayoḥ` as Godānīya and Pūrvavideha. It 
 glosses `amitam` with `aparimāṇam`: the initial lifespan is not merely large
 but unavailable to numerical determination.
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The first clause fixes the Uttarakuru lifespan:
 

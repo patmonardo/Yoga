@@ -12,7 +12,7 @@
 >
 > antarābhavasaṃtatyā kukṣim eti pradīpavat // 3.18 //
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 na + ātmā + asti                 → nātmāsti
@@ -43,7 +43,7 @@ The syntax opposes the objector's proposed transition-principle to the positive
 account: `na ... tu ...`—not the former, but the aggregate-series conditioned
 by affliction and karma.
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The opening is categorical:
 

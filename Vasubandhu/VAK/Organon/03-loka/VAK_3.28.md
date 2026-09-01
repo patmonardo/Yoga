@@ -24,7 +24,7 @@ vidyā-vipakṣaḥ dharmaḥ anyaḥ avidyā
 amitra-anṛta-ādi-vat
 ```
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 hetuḥ                   → hetur
@@ -56,7 +56,7 @@ amitra-anṛta-ādi-vat    → amitrānṛtādivat
 | anṛta | compound member | untruth; determinate contrary of truth |
 | ādivat | indeclinable comparative suffix | as in these and similar negative compounds |
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The first half is a pair of nominal determinations:
 

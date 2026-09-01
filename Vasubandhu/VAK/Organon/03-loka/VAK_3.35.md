@@ -12,7 +12,7 @@
 >
 > eko maule svaviṣayaḥ sarve 'ṣṭādaśa sāsravāḥ // 3.35 //
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 catvāraḥ                   → catvāro
@@ -45,7 +45,7 @@ The first three clauses complete the distribution of rangings connected with
 the formless realm. The last clause predicates `sāsrava` of the complete
 eighteenfold class.
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The first hemistich concerns the threshold of the first formless attainment:
 

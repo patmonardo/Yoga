@@ -12,7 +12,7 @@
 >
 > mahārājikadevāś ca parvateṣv api saptasu // 3.64 //
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 karoṭa-pāṇayaḥ            → karoṭapāṇayas
@@ -42,7 +42,7 @@ saptasu                    → saptasu
 literal components assist recognition but do not replace their classificatory
 function in this passage.
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The first line places three named populations on the terraces previously
 defined:

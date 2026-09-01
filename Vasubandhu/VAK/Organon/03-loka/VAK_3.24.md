@@ -21,7 +21,7 @@ The transmitted `ā vidaḥ` is likely corrupt. The prose gloss
 related to the preceding Kārikā's `vitti`; no silent emendation is adopted in
 the Sanskrit witness.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 saḥ                     → sa
@@ -56,7 +56,7 @@ jarā-maraṇam            → jarāmaraṇam
 `Bhaviṣyad-bhava-phala` is the result produced by the karma, while the Bhāṣya
 identifies the `bhava` member with the renewal-producing karma itself.
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The first sentence continues the agent of 3.23:
 

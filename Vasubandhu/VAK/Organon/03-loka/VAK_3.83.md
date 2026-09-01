@@ -17,7 +17,7 @@ Bhāṣya's citation and explanation: with a day-and-night whose magnitude is on
 human month. The immediate metrical witness has an unstable letter-order at
 this point, but the intended temporal conversion is secure.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 ardham                → ardhaṃ
@@ -51,7 +51,7 @@ The Bhāṣya is required to supply the omitted unit after `ardham`, the modal
 force of `param`, and the complete calendar relation compressed into
 `māsāhnā`.
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The first two clauses assign fixed lifespans to the remaining principal hot
 narakas:

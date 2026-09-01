@@ -14,7 +14,7 @@
 
 The opening phrase completes the definition of `nāmarūpa` begun in 3.21.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 prāk                    → prāk
@@ -43,7 +43,7 @@ The Kārikā states the stages elliptically through their ending boundaries.
 The Bhāṣya supplies `avasthā`, “stage,” throughout and explicates the `trika`
 as faculty, cognitive field, and differentiated cognition.
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The three constructions continue the stage-definitions of 3.21:
 

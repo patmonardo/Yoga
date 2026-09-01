@@ -12,7 +12,7 @@
 >
 > kramacyutau pādanābhihṛdayeṣu manaścyutiḥ // 3.43 //
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 na                          → na
@@ -42,7 +42,7 @@ The compound `ekāgrācittayoḥ` is resolved as `ekāgra-acittayoḥ`, not as o
 undivided category. `Etau` carries forward death and arising from the preceding
 verse.
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The opening is grammatically dependent upon 3.42:
 

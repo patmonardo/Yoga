@@ -12,7 +12,7 @@
 >
 > bījavan nāgavan mūlavṛkṣavat tuṣavat tathā // 3.36 //
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 uktam                       → uktaṃ
@@ -51,7 +51,7 @@ The transmitted Sanskrit has `kleśa iṣyate`; its singular sense is secured by
 the Bhāṣya's `kleśo ... veditavyaḥ`. The five `-vat` forms predicate distinct
 similarities of affliction rather than five names for one entity.
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The first hemistich explains the selective scope of the present discussion:
 

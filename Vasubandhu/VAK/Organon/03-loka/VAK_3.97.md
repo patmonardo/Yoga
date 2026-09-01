@@ -17,7 +17,7 @@ a new genetic exposition of the Human World. The Bhāṣya fixes `rūpivat` as
 “like beings of the rūpa realm” and unfolds the otherwise elliptical
 `rasarāgāt tataḥ śanaiḥ` into a long sequence of gradual transformation.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 deśa-stha-uttapta-pūrṇatvaiḥ  → deśasthottaptapūrṇatvair (before l-)
@@ -51,7 +51,7 @@ The instrumental abstracts `deśasthatva`, `uttaptatva`, and `pūrṇatva` state
 the respects in which the marks are superior. `Rasarāgāt` is causal: the
 genealogy turns not on the mere presence of savor but on attachment to it.
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The opening clause compares the thirty-two marks possessed by Buddhas and
 cakravartins:

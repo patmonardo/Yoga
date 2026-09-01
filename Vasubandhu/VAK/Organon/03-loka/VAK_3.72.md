@@ -12,7 +12,7 @@
 >
 > nordhvaṃ darśanam asty eṣām anyatrarddhiparāśrayāt // 3.72 //
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 sthānāt                    → sthānāt
@@ -48,7 +48,7 @@ The Bhāṣya separates the final expression into two alternatives: access by
 one's own `ṛddhi`, or access through reliance upon another. It should not be
 flattened into one compound power.
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The first line establishes a rule of vertical spacing:
 

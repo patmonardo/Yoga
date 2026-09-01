@@ -16,7 +16,7 @@ The plural `magnāḥ`, confirmed by the Bhāṣya, refers to the mountains
 collectively. It must not be silently changed to singular `magnaḥ` and made to
 refer only to Meru.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 catū-ratna-mayaḥ            → catūratnamayo
@@ -43,7 +43,7 @@ aśīti-sahasrakaḥ            → 'śītisahasrakaḥ
 | bhūyaḥ | indeclinable | further, again, in addition |
 | aśīti-sahasrakaḥ | nominative masculine singular compound | measuring eighty thousand |
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The first predicate qualifies Meru materially:
 

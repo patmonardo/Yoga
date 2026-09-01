@@ -12,7 +12,7 @@
 >
 > gandhasthānābhikāmo 'nyaḥ ūrdhvapādas tu nārakaḥ // 3.15 //
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 viparyasta-matiḥ + yāti       → viparyastamatir yāti
@@ -41,7 +41,7 @@ The subject of `yāti` is the intermediate being carried forward from VAK
 3.14. `Riraṃsayā` expresses the affective means of approach, while
 `gatideśam` supplies its accusative destination.
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The first clause describes approach to womb-birth according to the Bhāṣya:
 

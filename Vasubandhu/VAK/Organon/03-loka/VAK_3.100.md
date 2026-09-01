@@ -18,7 +18,7 @@ claim that cosmic contraction leaves no subtle part of the receptacle-world
 remaining raises the question of how another World can form without an
 indestructible material seed.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 saṃvartanyaḥ               → saṃvartanyaḥ
@@ -51,7 +51,7 @@ the collective contraction of beings associated with a dhyāna level.
 `Śīrṣa` does not name the highest level destroyed; it names the level
 immediately above the destruction's reach.
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The first half enumerates three contractions through their instrumental
 media:

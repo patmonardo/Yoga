@@ -12,7 +12,7 @@
 >
 > dhanuḥ pañcaśatāny eṣāṃ krośo 'raṇyaṃ ca tan matam // 3.87 //
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 catur-viṃśatiḥ       → caturviṃśatir (before a-)
@@ -47,7 +47,7 @@ The final words change category. `Araṇya` is not another member of the
 arithmetic unit-series; the Bhāṣya makes it a spatial designation applied to a
 region at about a krośa from a village.
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The first three predications are conversion equations:
 

@@ -15,7 +15,7 @@
 The second line is construed as `tataḥ punaḥ vastu kleśāḥ ca jāyante`:
 from the resultant support, further support and afflictions arise again.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 kleśāt                 → kleśāt
@@ -51,7 +51,7 @@ nayaḥ                  → nayaḥ
 The Bhāṣya identifies `kriyā` functionally with karma and expands the compact
 verse into five permitted transition-types.
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The first half states two productions from affliction and the production from
 action:

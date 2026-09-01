@@ -17,7 +17,7 @@ The first line completes the sentence begun in the Bhāṣya immediately after
 for which it expands, contracts, and stands contracted. `Saṃvṛtta` here means
 contracted, not expanded.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 vivartate                → vivartate
@@ -53,7 +53,7 @@ The compound `asaṃkhyatrayodbhavam` does not mean that three logically
 uncountable quantities somehow become countable. The Bhāṣya assigns
 `asaṃkhya` a determinate place in a conventional large-number sequence.
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The first line must be construed with the immediately preceding statement:
 

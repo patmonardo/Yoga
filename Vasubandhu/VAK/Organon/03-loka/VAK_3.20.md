@@ -12,7 +12,7 @@
 >
 > pūrvāparāntayor dve dve madhye 'ṣṭau paripūriṇaḥ // 3.20 //
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 saḥ                     → sa
@@ -42,7 +42,7 @@ The Bhāṣya supplies the antecedent of `saḥ`: the aggregate-continuum descri
 across three births in 3.18–3.19. It also construes `paripūriṇaḥ` as qualifying
 the person whose present life traverses all the relevant successive states.
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The first half identifies and predicates:
 

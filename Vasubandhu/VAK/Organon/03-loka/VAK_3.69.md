@@ -16,7 +16,7 @@ The local Kārikā witness has apparent orthographic noise in the second line,
 including `vasita`. The Bhāṣya's distributive explanation confirms `hasita`,
 “smile” or “laughter,” adopted here.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 tataḥ                      → tata
@@ -50,7 +50,7 @@ The compound lists five modes for six classes. The Bhāṣya resolves the appare
 count mismatch by assigning the first mode, bodily pairing, jointly to the
 first two classes.
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The first half contains two related determinations with different scopes:
 

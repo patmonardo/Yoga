@@ -12,7 +12,7 @@
 >
 > pañcāśadvistṛtāyāmaṃ saro 'rvāg gandhamādanāt // 3.57 //
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 iha                         → iha
@@ -40,7 +40,7 @@ gandhamādanāt               → gandhamādanāt
 | arvāk | indeclinable | on this side of, before reaching |
 | Gandhamādanāt | ablative masculine singular | in relation to Gandhamādana |
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The first line gives a directed traversal:
 

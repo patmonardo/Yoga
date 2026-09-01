@@ -16,7 +16,7 @@ The local Sanskrit witnesses read `īśādhāraḥ`; that form is retained here.
 Its relation to the better-known mountain name `Īṣādhara` remains a
 philological question for critical-edition review.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 samantataḥ                   → samantatas
@@ -44,7 +44,7 @@ tathā                        → tathā
 | sudarśana-giriḥ | nominative masculine singular compound | Mount Sudarśana |
 | tathā | indeclinable | likewise, and also |
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The opening completes the measurement of 3.47:
 

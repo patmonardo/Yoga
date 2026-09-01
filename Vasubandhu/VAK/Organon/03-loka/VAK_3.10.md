@@ -12,7 +12,7 @@
 >
 > gamyadeśānupetatvān nopapanno 'ntarābhavaḥ // 3.10 //
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 mṛtyu-upapatti-bhavayoḥ → mṛtyupapattibhavayoḥ
@@ -41,7 +41,7 @@ The compound `mṛtyu-upapatti-bhavayoḥ` establishes two terminal phases and
 locates the referent of `yaḥ` between them. The second half names that referent
 by excluding arrival at the destination.
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The relative clause and its nominal resolution may be construed as follows:
 

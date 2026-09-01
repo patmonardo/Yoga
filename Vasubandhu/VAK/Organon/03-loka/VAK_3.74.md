@@ -12,7 +12,7 @@
 >
 > tatsahasraṃ trisāhasraḥ samasaṃvartasaṃbhavaḥ // 3.74 //
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 tat-sahasram               → tatsahasraṃ
@@ -41,7 +41,7 @@ The ordinal force of `dvi-` and `tri-` belongs to recursive thousandfold scale,
 not to a flat count of two thousand and three thousand local worlds. The
 Bhāṣya makes each `tat` refer to the immediately preceding aggregate.
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The first half takes the small thousandfold world-system of 3.73 as its unit:
 

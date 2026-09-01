@@ -16,7 +16,7 @@ The first line is a highly compressed technical list. Its members are not
 translated by conjecturally decomposing the metrical compound. The sequence
 below follows the explicit forms and relations supplied by the Bhāṣya.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 loha-apa-śaśa-avi-go-cchidra-rajaḥ-likṣāḥ
@@ -44,7 +44,7 @@ The Bhāṣya resolves the list operationally as `loharajas`, `avrajas`,
 `yūkā`. These technical source-forms are retained where their lexical history
 is less secure than their place in the measure-series.
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The verse continues the sequence begun by `paramāṇur aṇus tathā` at the end of
 3.85. Its distributed predicate is:

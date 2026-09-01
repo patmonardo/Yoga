@@ -12,7 +12,7 @@
 >
 > punaścāṣṭādaśavidhā sā manopavicārataḥ // 3.32 //
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 tat-jāḥ                    → tajjāḥ
@@ -44,7 +44,7 @@ The sixfold division follows causal origin in contact. The five-and-one division
 follows support. The eighteenfold division follows the structure of mental
 ranging.
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The first hemistich states the production and then divides the result:
 

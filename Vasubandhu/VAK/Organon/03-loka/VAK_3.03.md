@@ -12,7 +12,7 @@
 >
 > nikāyaṃ jīvitaṃ cātra niśritā cittasantatiḥ // 3.3 //
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 ārūpya-dhātuḥ + asthānaḥ → ārūpya-dhātur asthānaḥ
@@ -40,7 +40,7 @@ citta-santatiḥ             → citta-santatiḥ
 The sandhi `ārūpyadhātuḥ + asthānaḥ → ārūpyadhātur asthānaḥ` joins the
 subject and its predicate. `Cātra` resolves as `ca + atra`.
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The first half negates station while retaining differentiation:
 

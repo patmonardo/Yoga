@@ -12,7 +12,7 @@
 >
 > karma-jñānobhayeṣāṃ vā viśadatvād yathākramam // 3.17 //
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 garbha-avakrāntayaḥ                → garbhāvakrāntayaḥ
@@ -40,7 +40,7 @@ The compound `cakravartti-svayaṃbhuvām` compresses three exceptional types.
 The Bhāṣya resolves it as the cakravartin and two independently awakened
 ones: the Pratyekabuddha and the Samyaksaṃbuddha.
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The first half assigns the three clarified womb-descents:
 

@@ -12,7 +12,7 @@
 >
 > siddhānnapānavad vastu tasmin bhavacatuṣṭaye // 3.37 //
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 tuṣi-taṇḍula-vat            → tuṣitaṇḍulavat
@@ -40,7 +40,7 @@ bhava-catuṣṭaye             → bhavacatuṣṭaye
 the grain that possesses or is enclosed by a husk: karma joined with the
 afflictive enclosure established in 3.36.
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The first hemistich predicates three analogical determinations of `karma`:
 

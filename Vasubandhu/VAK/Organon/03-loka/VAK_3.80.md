@@ -12,7 +12,7 @@
 >
 > nāsty ahorātram āyus tu kalpaiḥ svāśrayasaṃmitaiḥ // 3.80 //
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 dvi-guṇa-uttaram        → dviguṇottaram
@@ -46,7 +46,7 @@ The Bhāṣya resolves `ubhayam` as `ahorātraś ca āyuś ca`: both the day-nig
 conversion and the lifespan. It also renders `svāśrayasaṃmita` mathematically
 exact rather than loosely comparative.
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The first construction continues the kāma-deva sequence announced after 3.79:
 

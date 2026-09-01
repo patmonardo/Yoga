@@ -12,7 +12,7 @@
 >
 > tac caitrarathapāruṣyamiśranandanabhūṣitam // 3.67 //
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 sārdha-dvi-śata-pārśvaḥ    → sārdhadviśatapārśvo
@@ -43,7 +43,7 @@ The names are retained rather than replaced by speculative etymological
 translations. The Bhāṣya expands the middle names as `Pāruṣyaka` and
 `Miśraka` and specifies the types and uses of all four locations.
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The first half makes Vaijayanta the subject and gives it a location and
 measure:

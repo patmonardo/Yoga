@@ -16,7 +16,7 @@ The Bhāṣya confirms the segmentation into eight names: Deha, Videha, Kuru,
 Kaurava, Cāmara, Avara, Gāṭha, and Uttaramantriṇa. The local witness spellings
 are retained pending comparison with a critical edition.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 dehāḥ                       → dehā
@@ -48,7 +48,7 @@ uttara-mantriṇaḥ            → uttaramantriṇaḥ
 The plural-looking forms function as proper regional names within the
 enumeration. `Tat` refers to the four principal continents already described.
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The eight names stand in apposition to the class term:
 

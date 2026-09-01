@@ -12,7 +12,7 @@
 >
 > saṃbhavaty eṣu saṃpūrṇāḥ savastrāś caiva rūpiṇaḥ // 3.70 //
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 pañca-varṣa-upamaḥ         → pañcavarṣopamo
@@ -45,7 +45,7 @@ The surface sequence permits `saṃpūrṇāḥ savastrāḥ rūpiṇaḥ` to be
 further description of the six kāma-deva children. The Bhāṣya explicitly
 assigns those predicates to the rūpāvacara devas instead.
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The first sentence gives a range whose members are distributed across the six
 classes of 3.69:

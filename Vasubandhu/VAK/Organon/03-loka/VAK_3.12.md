@@ -12,7 +12,7 @@
 >
 > kaṇṭhokteś cāsti gandharvāt pañcokteḥ gatisūtrataḥ // 3.12 //
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 saha + ekatra          → sahaikatra
@@ -43,7 +43,7 @@ The verse crosses an argumentative boundary at `kaṇṭhokteś cāsti`. The fir
 three ablatives complete the rejection of reflection begun in VAK 3.11; the
 remaining ablatives give textual grounds for `asti [antarābhavaḥ]`.
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The first half supplies three grounds for the ellipsed conclusion
 `pratibimbam anidarśanam` carried forward from VAK 3.11:

@@ -12,7 +12,7 @@
 >
 > dviguṇottaravṛddhayā tu pūrvagodottarāvhayāḥ // 3.75 //
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 jāmbū-dvīpāḥ               → jāmbūdvīpāḥ
@@ -39,7 +39,7 @@ The transmitted numerical compound in the first line is unusually compressed.
 The Bhāṣya resolves the principal Jambūdvīpa measure as 3½ hastas and records
 an alternative of 4 hastas.
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The first line assigns a body-measure to the Jambūdvīpa population:
 

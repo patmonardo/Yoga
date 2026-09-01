@@ -12,7 +12,7 @@
 >
 > svacchāyayārkasāmīpyād vikalendusamīkṣaṇam // 3.62 //
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 lavaśaḥ                    → lavaśo
@@ -34,7 +34,7 @@ vikala-indu-samīkṣaṇam     → vikalendusamīkṣaṇam
 | arkasāmīpyāt | ablative neuter singular compound | because of proximity to the sun |
 | vikalendusamīkṣaṇam | nominative/accusative neuter singular compound | seeing the lunar disk as incomplete |
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The first line relates incremental change to solar direction:
 

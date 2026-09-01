@@ -16,7 +16,7 @@ The form `pādavṛddhyā` is adopted here: an increase by one quarter. It is th
 reading required by both the construction and the exact series supplied by
 the Bhāṣya.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 pāda-vṛddhyā      → pādavṛddhyā
@@ -51,7 +51,7 @@ param             → param
 made exact there: it refers to the Brahmakāyika devas, the first form-realm
 station in this measurement series.
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The first construction concerns only the desire-realm heaven-dwellers:
 

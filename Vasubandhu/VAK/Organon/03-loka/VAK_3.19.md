@@ -12,7 +12,7 @@
 >
 > paralokaṃ punar yāti ity anādibhavacakrakam // 3.19 //
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 yathā-ākṣepam           → yathākṣepam
@@ -43,7 +43,7 @@ The subject is `santānaḥ`. It is modified by `vṛddhaḥ`, while `kramāt`,
 `yathākṣepam`, and `kleśakarmabhiḥ` determine the order, measure, and formative
 conditions of its development.
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The first construction states the development of the continuum:
 

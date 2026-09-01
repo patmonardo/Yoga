@@ -12,7 +12,7 @@
 >
 > tridhā 'nye traya ārūpye āhārasthitikaṃ jagat // 3.38 //
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 upapatti-bhavaḥ             → upapattibhavaḥ
@@ -44,7 +44,7 @@ The continuous-looking witness `tridhānye` must be segmented as `tridhā
 'nye`. The Bhāṣya makes both terms explicit: the three modes other than
 rebirth-becoming can each be wholesome, defiled, or indeterminate.
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The first hemistich predicates an exceptionless condition of rebirth-becoming:
 

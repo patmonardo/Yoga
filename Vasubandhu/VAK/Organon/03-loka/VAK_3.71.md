@@ -12,7 +12,7 @@
 >
 > sukhopapattayas tisro nava tridhyānabhūmayaḥ // 3.71 //
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 kāma-upapattayaḥ           → kāmopapattayas
@@ -40,7 +40,7 @@ The verse gives the counts and broad domains. The Bhāṣya determines the three
 `kāmopapatti` by the provenance of desired objects and groups the nine grounds
 of the first three dhyānas into the three `sukhopapatti`.
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The first half presents a threefold classification within kāmadhātu:
 

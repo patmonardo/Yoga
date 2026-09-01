@@ -12,7 +12,7 @@
 >
 > bhavāgrāsaṃjñisattvāś ca sattvāvāsā nava smṛtāḥ // 3.6 //
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 vijñāna-sthitayaḥ       → vijñānasthitayaḥ
@@ -42,7 +42,7 @@ The compound `vijñāna-sthiti` must retain its two parts: differentiated
 cognition and its standing or establishment. `Bhavāgrāsaṃjñisattvāḥ` resolves
 as the coordinated additions `bhavāgra` and `asaṃjñi-sattvāḥ`.
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The first predication names the seven classes constructed in VAK 3.05:
 

@@ -12,7 +12,7 @@
 >
 > jambūdvīpo dvisāhasras tripārśvaḥ śakaṭākṛtiḥ // 3.53 //
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 lakṣa-trayam                → lakṣatrayam
@@ -44,7 +44,7 @@ tri-pārśvaḥ                 → tripārśvaḥ
 The first line gives 322,000 yojanas: three `lakṣas` plus twenty-two thousand.
 The Bhāṣya identifies this as the width of the outer great ocean.
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The opening completes the measure begun in 3.52:
 

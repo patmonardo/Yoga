@@ -12,7 +12,7 @@
 >
 > aṣṭalakṣaucchrayaṃ paścāc cheṣaṃ bhavati kāñcanam // 3.46 //
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 apām                         → apām
@@ -44,7 +44,7 @@ kāñcanam                     → kāñcanam
 The compressed number in the first hemistich is resolved by the Bhāṣya as
 eleven `lakṣas` plus twenty thousand yojanas: 1,120,000 yojanas.
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The first clause continues `maṇḍalam` from 3.45, as the Bhāṣya explicitly
 states:

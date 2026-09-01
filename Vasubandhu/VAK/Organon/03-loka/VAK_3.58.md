@@ -12,7 +12,7 @@
 >
 > tadūrdhvaṃ sapta narakāḥ sarve 'ṣṭau ṣoḍaśotsadāḥ // 3.58 //
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 adhaḥ                       → adhaḥ
@@ -43,7 +43,7 @@ aṣṭau                       → 'ṣṭau
 | sarve aṣṭau | nominative masculine plural phrase | all eight in total |
 | ṣoḍaśotsadāḥ | nominative masculine plural compound | each having sixteen subsidiary regions |
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The opening is reference-relative:
 

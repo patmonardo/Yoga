@@ -12,7 +12,7 @@
 >
 > pratibimbam asiddhatvād asāmyāc cānidarśanam // 3.11 //
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 vrīhi-santāna-sādharmyāt  → vrīhisantānasādharmyāt
@@ -40,7 +40,7 @@ The two ablatives in the second half state independent defects: reflection is
 not established in the manner required, and—even if provisionally granted—it
 lacks the relevant similarity.
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The first half gives the positive inference:
 

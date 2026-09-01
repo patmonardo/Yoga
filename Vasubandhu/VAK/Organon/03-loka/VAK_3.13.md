@@ -12,7 +12,7 @@
 >
 > sa punar maraṇāt pūrva upapattikṣaṇāt paraḥ // 3.13 //
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 eka-ākṣepāt                         → ekākṣepāt
@@ -42,7 +42,7 @@ The referent changes across the two halves. `Asau` points to `antarābhava`;
 required by the Bhāṣya's definition and by the natural government of `pūrvaḥ`
 and `paraḥ`.
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The first half determines the form of intermediate existence:
 

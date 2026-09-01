@@ -12,7 +12,7 @@
 >
 > dvayam anyabhavākṣepanirvṛttyarthaṃ yathākramam // 3.41 //
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 iha                         → iha
@@ -42,7 +42,7 @@ explanation of intermediate existence and is not part of this Kārikā. The
 Bhāṣya also fixes the final compound as `ākṣepa-nirvṛtti`, projection and
 production—not `ākṣepa-nivṛtti`, projection and cessation.
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The first hemistich assigns the first pair of nutriments to present existence:
 

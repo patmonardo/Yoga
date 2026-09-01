@@ -12,7 +12,7 @@
 >
 > brahmalokasahasraṃ ca sāhasraś cūḍiko mataḥ // 3.73 //
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 catur-dvīpaka-candra-arka-
@@ -41,7 +41,7 @@ The first compound is compressed: the understood count `sahasra` ranges over
 its coordinated members. The Bhāṣya expands the series and identifies the
 precise continents and deva classes included.
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The genitive compound supplies the heterogeneous things counted by thousands:
 

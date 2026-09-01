@@ -17,7 +17,7 @@ exposition. It resolves the corrupted compression in the immediate metrical
 witness as `prabhṛti ardham adhas tataḥ`: beginning from Parīttābha the unit is
 a mahākalpa; below that boundary it is half.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 ārūpye                 → ārūpye
@@ -49,7 +49,7 @@ tataḥ                  → tataḥ
 governs the magnitude of the unit called `kalpa`. These are separate
 determinations.
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The first line states an increasing series within the formless realm:
 

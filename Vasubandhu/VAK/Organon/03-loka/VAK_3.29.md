@@ -23,7 +23,7 @@ ku-prajñā cet?
 na
 ```
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 saṃyojana-ādi-vacanāt    → saṃyojanādivacanāt
@@ -50,7 +50,7 @@ prajñā-upakleśa-deśanāt  → prajñopakleśadeśanāt
 `Darśanāt` is elliptical. The Bhāṣya supplies `dṛṣṭayo hi kuprajñāḥ`: wrong
 views are instances of faulty prajñā.
 
-## 4. Grammar and Construe
+## 4. Grammar
 
 The opening ablative completes the proof that ignorance is an operative
 factor:
