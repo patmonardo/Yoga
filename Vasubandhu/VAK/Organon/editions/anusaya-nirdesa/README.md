@@ -1,7 +1,7 @@
-# Karmanirdeśa Complete-Chapter Edition
+# Anuśayanirdeśa Complete-Chapter Edition
 
 This directory contains the provisional PDF reading edition generated from
-all 127 current studies in `Organon/04-karma`, VAK 4.01–4.127.
+all 70 current studies in `Organon/05-anusaya`, VAK 5.01–5.70.
 
 The study files remain the canonical editable sources. The PDF is a derived
 reading artifact. Every kārikā begins on a new page, while long individual
@@ -22,4 +22,4 @@ Build requirements:
 
 Run `./build.sh` from this directory to rebuild the PDF.
 
-Output: `Organon-Kosa-Karma-Nirdesa.pdf`
+Output: `Organon-Kosa-Anusaya-Nirdesa.pdf`

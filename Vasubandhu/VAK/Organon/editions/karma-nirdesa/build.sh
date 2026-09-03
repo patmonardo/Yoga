@@ -3,10 +3,11 @@ set -euo pipefail
 
 edition_dir="$(cd "$(dirname "$0")" && pwd)"
 organon_dir="$(cd "$edition_dir/../.." && pwd)"
-output_file="$edition_dir/Organon-Kosa-Karma-Nirdesa-Part-One.pdf"
+output_file="$edition_dir/Organon-Kosa-Karma-Nirdesa.pdf"
 
 sources=()
-for number in $(seq -w 1 66); do
+for index in $(seq 1 127); do
+  number=$(printf '%02d' "$index")
   sources+=("$organon_dir/04-karma/VAK_4.$number.md")
 done
 
@@ -16,9 +17,9 @@ pandoc "${sources[@]}" \
   --lua-filter="$edition_dir/pagebreak.lua" \
   --include-in-header="$edition_dir/book-header.tex" \
   --metadata title="The Organon Kośa: Karmanirdeśa" \
-  --metadata subtitle="The Systematic Analysis of Karma · Part One" \
+  --metadata subtitle="The Systematic Analysis of Karma" \
   --metadata author="The Organon Project" \
-  --metadata date="Special Provisional Edition · VAK 4.01–4.66" \
+  --metadata date="Provisional Complete-Chapter Edition · VAK 4.01–4.127" \
   --variable papersize=letter \
   --variable geometry:margin=0.78in \
   --variable mainfont="FreeSerif" \
