@@ -70,7 +70,7 @@ Thus mindfulness becomes a foundation through Prajñā's determinate operation u
 
 ## 7. Technical Vocabulary
 
-### prajñā
+**prajñā**
 
 Here **Prajñā** is the intrinsic nature (*svabhāva*) of a foundation of mindfulness. The Bhāṣya identifies the contemplative “seeing” (*anupaśyanā*) with Prajñā: it discriminates the object in the mode required by the practice.
 
@@ -82,7 +82,7 @@ This Prajñā is genetically differentiated as:
 
 The formulation continues the developmental sequence stated in VAK 6.05 rather than introducing three unrelated faculties.
 
-### smṛtyupasthāna
+**smṛtyupasthāna**
 
 The Bhāṣya distinguishes three senses of “foundation of mindfulness”:
 
@@ -92,13 +92,13 @@ The Bhāṣya distinguishes three senses of “foundation of mindfulness”:
 
 The term therefore names one practice-complex under three relational determinations. It must not be flattened into either a subjective faculty alone or an objective topic alone.
 
-### Why “foundation of mindfulness” if its nature is Prajñā?
+**Why “foundation of mindfulness” if its nature is Prajñā?**
 
 The Vaibhāṣika explanation gives mindfulness a predominant role: Prajñā's operation depends upon the strength of mindfulness, just as split wood is held by a wedge.
 
 Vasubandhu presents another explanation as preferable: mindfulness is established through Prajñā. What has been seen by Prajñā can thereby be retained and articulated. The name marks this establishment of mindfulness through discriminative seeing, not the replacement of Prajñā by a separate substance.
 
-### yathotpatti-krama
+**yathotpatti-krama**
 
 **yathotpatti** means that the four foundations are stated in their order of arising. The Bhāṣya records an explanation by relative coarseness: the coarser field is taken first. It also gives the Vaibhāṣika causal sequence:
 
@@ -109,7 +109,7 @@ Vasubandhu presents another explanation as preferable: mindfulness is establishe
 
 The ordered practice reverses this implicated structure by making each moment an explicit field of contemplation.
 
-### viparyāsa and vipakṣa
+**viparyāsa and vipakṣa**
 
 **viparyāsa** is an inversion: a systematic taking of what is otherwise than it is. **vipakṣa** is the opposing or counteractive factor. The fourfold correspondence is:
 
@@ -122,7 +122,7 @@ The ordered practice reverses this implicated structure by making each moment an
 
 The four are therefore functionally determined by the four errors they counter.
 
-### ālambana
+**ālambana**
 
 **Ālambana** is the object-support of cognition, not a self-standing “object” detached from the cognitive operation. The first three foundations have their respectively unmixed fields: body, feeling, and citta. The foundation concerned with dharmas may take dharmas alone or a mixed field including body, feeling, citta, and dharmas.
 
