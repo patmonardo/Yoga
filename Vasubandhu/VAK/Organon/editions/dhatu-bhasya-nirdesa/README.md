@@ -1,23 +1,18 @@
-# Dhātunirdeśa Bhāṣya, Part One
+# Dhātunirdeśa Bhāṣya
 
-This directory contains the provisional PDF reading edition generated from
-the first eight Bhāṣya studies in `Organon/01-dhatu`, VAK 1.01–1.08.
+Complete Chapter 1 reading edition, containing all 48 Bhāṣya studies,
+VAK 1.01–1.48, through the chapter colophon.
 
-The Markdown studies remain the canonical editable sources. The PDF is a
-derived reading artifact for reviewing the continuous Sanskrit, continuous
-conventional translations, and focused studies together. The presentation
-retains the technical precision of the Organon reports while remaining a
-study of the Bhāṣya rather than an Organon Engineering document.
+The Markdown studies in `Organon/01-dhatu` remain the canonical editable
+sources. This derived PDF retains continuous Sanskrit, readable conventional
+translations, and focused analysis. Complete coverage does not remove the
+studies' provisional textual readings or review qualifications.
 
-This is a work in progress. It does not claim to be a complete edition of the
-Dhātunirdeśa Bhāṣya.
+Run `./build.sh` from this directory. Requires Pandoc, XeLaTeX, and the
+FreeSerif, Lato, and FreeMono fonts.
 
-Build requirements:
+Output: `Organon-Kosa-Dhatu-Bhasya-Nirdesa.pdf`
 
-- Pandoc
-- XeLaTeX
-- FreeSerif, Lato, and FreeMono fonts
-
-Run `./build.sh` from this directory to rebuild the PDF.
-
-Output: `Organon-Kosa-Dhatu-Bhasya-Nirdesa-Part-One.pdf`
+The earlier `Organon-Kosa-Dhatu-Bhasya-Nirdesa-Part-One.pdf` covers 1.01–1.08
+and is retained as a historical artifact. The build now produces the complete
+chapter edition.
