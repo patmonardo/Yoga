@@ -3,11 +3,12 @@ set -euo pipefail
 
 edition_dir="$(cd "$(dirname "$0")" && pwd)"
 organon_dir="$(cd "$edition_dir/../.." && pwd)"
-output_file="$edition_dir/Organon-Kosa-Indriya-Nirdesa.pdf"
+output_file="$edition_dir/Organon-Kosa-Indriya-Bhasya-Nirdesa.pdf"
 
 sources=()
-for number in $(seq -w 1 73); do
-  sources+=("$organon_dir/02-indriya/VAK_2.$number.md")
+for index in $(seq 1 73); do
+  number="$(printf '%02d' "$index")"
+  sources+=("$organon_dir/02-indriya/VAK_2.$number"_bhasya.md)
 done
 
 pandoc "${sources[@]}" \
@@ -15,8 +16,8 @@ pandoc "${sources[@]}" \
   --pdf-engine=xelatex \
   --lua-filter="$edition_dir/pagebreak.lua" \
   --include-in-header="$edition_dir/book-header.tex" \
-  --metadata title="The Organon Kośa: Indriyanirdeśa Kārikā" \
-  --metadata subtitle="The Systematic Analysis of Governing Capacities" \
+  --metadata title="The Organon Kośa: Indriyanirdeśa Bhāṣya" \
+  --metadata subtitle="A Continuous Translation and Focused Study" \
   --metadata author="The Organon Project" \
   --metadata date="Complete Chapter Study Edition · VAK 2.01–2.73" \
   --variable papersize=letter \

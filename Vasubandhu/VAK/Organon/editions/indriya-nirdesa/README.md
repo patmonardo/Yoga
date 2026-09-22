@@ -1,14 +1,17 @@
 # Indriyanirdeśa Book Edition
 
 This directory contains the print-oriented PDF edition generated from the
-forty-eight studies in `Organon/02-indriya`, VAK 2.01–2.48.
+73 kārikā studies in `Organon/02-indriya`, VAK 2.01–2.73.
 
 The study files remain the canonical editable sources. The PDF is a derived
 reading artifact. Every kārikā begins on a new page, while long individual
 studies may continue across as many pages as required.
 
-This edition stops at VAK 2.48. The `hetu–pratyaya` inquiry beginning with VAK
-2.49 is intentionally reserved for the next stage of study.
+This edition includes the complete chapter and the upgraded final studies.
+Bhāṣya study files are excluded from this build. Individual studies retain
+their provisional readings and review qualifications.
+
+Output: `Organon-Kosa-Indriya-Nirdesa.pdf`
 
 Copyright notice in this edition:
 
