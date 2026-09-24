@@ -69,7 +69,7 @@ study.
 > cchandato 'pi hi vācāṃ pravṛttirarthastu parīkṣyaḥ /
 
 The excerpt follows the running transcription at printed
-52.19–54.02 in `Vasubandhu/Sources/kosabhasaya.txt`, with source
+52.19–54.02 in `Vasubandhu/Sources/kosabhasya.txt`, with source
 labels removed and the verse number regularized. Apparent defects
 are retained rather than silently repaired. Section 8 identifies
 the principal contextual resolutions used in translation. No

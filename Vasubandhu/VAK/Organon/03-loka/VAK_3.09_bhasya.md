@@ -71,7 +71,7 @@ birth; it does not assign every destiny one exclusive biological type.
 > pradeśaḥ, sarve cāntarābhāvikā iti /
 
 This unit runs from printed 119.03 through 120.05 in
-`Vasubandhu/Sources/kosabhasaya.txt`. The question `ko 'yam antarābhāvo nāma`
+`Vasubandhu/Sources/kosabhasya.txt`. The question `ko 'yam antarābhāvo nāma`
 at 120.06 begins VAK 3.10 and the sustained proof of intermediate existence.
 
 Word division and punctuation are editorial. Several obvious e-text forms

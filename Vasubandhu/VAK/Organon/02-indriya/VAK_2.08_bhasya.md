@@ -39,7 +39,7 @@ respect to the effect of feeling.
 > avikalpanād abhedaḥ /
 
 The complete unit runs from printed 41.16 through 42.05–06 in
-`Vasubandhu/Sources/kosabhasaya.txt`. It ends before the verse
+`Vasubandhu/Sources/kosabhasya.txt`. It ends before the verse
 beginning *dṛgbhāvanā* at 42.07, which opens VAK 2.09.
 
 Word division and punctuation are editorial. The mechanical

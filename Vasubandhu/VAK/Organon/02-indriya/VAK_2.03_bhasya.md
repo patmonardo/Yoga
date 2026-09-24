@@ -23,7 +23,7 @@ The three governed functions correspond to the three groups in order.
 > ata ete 'pi pratyekam indriyam iṣṭāḥ /
 
 This is the complete prose unit at printed 39.20–23 in
-`Vasubandhu/Sources/kosabhasaya.txt`, following the verse at 39.18–19.
+`Vasubandhu/Sources/kosabhasya.txt`, following the verse at 39.18–19.
 It ends before the next kārikā at 40.01–02. Word division has been
 supplied for readability; no substantive emendation is needed.
 The initial avagraha in *'duḥkhāsukhāyām* represents the elided

@@ -60,7 +60,7 @@ and the full ensuing classification debate.
 > tayośca paścāllakṣaṇaṃ vakṣyate /
 
 This excerpt follows printed 56.02–57.03 in
-`Vasubandhu/Sources/kosabhasaya.txt`. Source labels are removed
+`Vasubandhu/Sources/kosabhasya.txt`. Source labels are removed
 and the verse number regularized; the transcription is otherwise
 retained. Section 8 records principal contextual resolutions.
 No independent collation is claimed.

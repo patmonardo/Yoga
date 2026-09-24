@@ -194,7 +194,7 @@ full debate through its explicit close.
 > uktāni lakṣaṇāni //
 
 The excerpt follows printed 75.19–80.11 in
-`Vasubandhu/Sources/kosabhasaya.txt`, with source labels removed
+`Vasubandhu/Sources/kosabhasya.txt`, with source labels removed
 and verse numbers regularized. Apparent defects are retained;
 consequential contextual readings are identified below. No
 independent collation is claimed.

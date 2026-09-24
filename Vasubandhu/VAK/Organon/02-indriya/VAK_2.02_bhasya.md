@@ -45,7 +45,7 @@ last two are portions of the body-faculty, not entities distinct from it.
 
 The natural unit runs from *apare punar āhuḥ* at printed 39.03
 through *etad dhi puṃsaḥ puṃstvam* at 39.17 in
-`Vasubandhu/Sources/kosabhasaya.txt`. It includes the objection
+`Vasubandhu/Sources/kosabhasya.txt`. It includes the objection
 preceding the verse and ends before the verse on life, feeling,
 and faith at 39.18–19. This continues the boundary established in
 the preceding Organon Bhāṣya study.

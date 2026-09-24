@@ -100,7 +100,7 @@ seven `vijñānasthiti`, stations of differentiated cognition.
 > ārūpyās trayo yathāsūtram ity etāḥ sapta vijñānasthitayaḥ /
 
 This unit runs from printed 115.17 through 117.03 in
-`Vasubandhu/Sources/kosabhasaya.txt`. The following question at 117.04,
+`Vasubandhu/Sources/kosabhasya.txt`. The following question at 117.04,
 `kātra vijñānasthitiḥ`, begins the analysis attached to VAK 3.06.
 
 The working e-text reads `cārūpiṇasrayaḥ` in the verse. The official Study

@@ -40,7 +40,7 @@ preserving the distinct relations expressed by the predicates.
 > nirdiṣṭāścittacaittāḥ savistaraprabhedāḥ /
 
 The excerpt follows printed 61.20–62.10 in
-`Vasubandhu/Sources/kosabhasaya.txt`, with source labels removed
+`Vasubandhu/Sources/kosabhasya.txt`, with source labels removed
 and the verse number regularized. Transcription defects remain
 visible; contextual resolutions are identified below. No independent
 collation is claimed.

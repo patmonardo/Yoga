@@ -37,7 +37,7 @@ of discriminating consciousness and mental factors.
 > buddhigrāhyāḥ /
 
 The unit occupies printed 54.16–55.02 in
-`Vasubandhu/Sources/kosabhasaya.txt`. Word division is editorial;
+`Vasubandhu/Sources/kosabhasya.txt`. Word division is editorial;
 the separated *'duḥkhā sukhaśca* is joined as *'duḥkhāsukhaś ca*.
 The damaged *viṣayanimittodrūha* remains visible. The translation
 contextually reads apprehension of an object's distinguishing

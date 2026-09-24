@@ -68,7 +68,7 @@ for the next study.
 > tadvairāgyasya dvimārgaprāpaṇāt /
 
 This is the complete attainment discussion at printed 49.05–50.08
-in `Vasubandhu/Sources/kosabhasaya.txt`. Locators and the source's
+in `Vasubandhu/Sources/kosabhasya.txt`. Locators and the source's
 verse identifier are removed; its wording, including defective
 forms, is otherwise retained. The malformed locator preceding
 *ayaṃ tu viśeṣaḥ* is also omitted. The next inquiry begins at 50.09:

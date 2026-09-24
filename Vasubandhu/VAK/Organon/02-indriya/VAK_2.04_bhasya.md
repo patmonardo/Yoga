@@ -27,7 +27,7 @@ introduces another account of the three faculties' governing functions.
 > vimuktiprītisukhasaṃvedanād iti /
 
 The complete prose unit occupies printed 40.03–08 in
-`Vasubandhu/Sources/kosabhasaya.txt`, after the verse at 40.01–02.
+`Vasubandhu/Sources/kosabhasya.txt`, after the verse at 40.01–02.
 It ends with the experience of liberation's joy and happiness.
 The following objection, beginning *ādhipatyād indriyatve*, belongs
 with the answer in VAK 2.05, as in the research sequence.

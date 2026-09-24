@@ -98,7 +98,7 @@ phase lasts and records several incompatible answers.
 > utpattum ekakarmākṣepād iti vaktavyam etat /
 
 This unit runs from printed 124.22 through 126.18 in
-`Vasubandhu/Sources/kosabhasaya.txt`. The sentence at 126.19 and the verse
+`Vasubandhu/Sources/kosabhasya.txt`. The sentence at 126.19 and the verse
 fragment `viparyastamatir yāti gatideśaṃ riraṃsayā` at 126.20 begin VAK 3.15.
 
 The research Bhāṣya witness stops at 125.22 after the first duration theory.

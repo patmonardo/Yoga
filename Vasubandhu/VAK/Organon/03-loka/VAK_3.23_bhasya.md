@@ -32,7 +32,7 @@ acquisition.
 > asāv avasthā upādānam ity ucyate /
 
 This natural unit runs from printed 132.11 through 132.18 in
-`Vasubandhu/Sources/kosabhasaya.txt`. The inherited phrase
+`Vasubandhu/Sources/kosabhasya.txt`. The inherited phrase
 `paricchedasāmarthye sati` links the unit to VAK 3.22: the feeling-stage begins
 once the capacity for discrimination has arisen. The next prose begins the
 definition of becoming in VAK 3.24.

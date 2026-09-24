@@ -51,7 +51,7 @@ rebirth in a dependently arisen continuum of momentary aggregates.
 > skandhānāṃ saṃtāno mātuḥ kukṣim āpadyata iti /
 
 This natural unit runs from printed 129.05 through 129.20 in
-`Vasubandhu/Sources/kosabhasaya.txt`. The words `sa punaḥ` at 129.21 begin the
+`Vasubandhu/Sources/kosabhasya.txt`. The words `sa punaḥ` at 129.21 begin the
 next account: how the continuum grows according to its karmic projection and
 again passes to another world. That belongs to VAK 3.19.
 

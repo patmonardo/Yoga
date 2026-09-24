@@ -57,7 +57,7 @@ VAK 2.40 and the debate over ordinary-person status.
 > "anutpannāryadharmasantatiḥ pṛthagjanatvami"ti /
 
 The excerpt follows printed 65.30–66.20 in
-`Vasubandhu/Sources/kosabhasaya.txt`, with source labels removed
+`Vasubandhu/Sources/kosabhasya.txt`, with source labels removed
 and the verse number regularized. Apparent defects remain visible;
 consequential contextual readings are marked below. No independent
 collation is claimed.

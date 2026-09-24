@@ -60,7 +60,7 @@ the closing sentence at 56.01.
 > uktāḥ kuśalā mahābhūmikāḥ /
 
 This excerpt preserves the running transcription at printed
-55.02–56.01 in `Vasubandhu/Sources/kosabhasaya.txt`, with source
+55.02–56.01 in `Vasubandhu/Sources/kosabhasya.txt`, with source
 labels removed and the verse number regularized. Apparent defects
 and a duplicated phrase remain visible. Contextual translation
 repairs are recorded below; no independent collation is claimed.

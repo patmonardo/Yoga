@@ -77,7 +77,7 @@ or mode of birth, and groups beings through similarity of generation.
 > devanārakāntarābhavikādayaḥ /
 
 This unit runs from printed 117.28 through 119.02 in
-`Vasubandhu/Sources/kosabhasaya.txt`. The question at 119.03—how many modes of
+`Vasubandhu/Sources/kosabhasya.txt`. The question at 119.03—how many modes of
 birth occur in each destiny—opens VAK 3.09.
 
 Word division and punctuation are editorial. The source label

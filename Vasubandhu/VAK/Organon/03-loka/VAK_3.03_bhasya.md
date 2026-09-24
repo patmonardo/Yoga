@@ -53,7 +53,7 @@ support-model to sustained criticism.
 > iti /
 
 This unit runs from printed 112.01 through 112.23 in
-`Vasubandhu/Sources/kosabhasaya.txt`. The question at 112.24,
+`Vasubandhu/Sources/kosabhasya.txt`. The question at 112.24,
 `atha kasmād ete kāmarūpārūpyadhātava ity ucyante`, begins the exposition of
 VAK 3.04.
 

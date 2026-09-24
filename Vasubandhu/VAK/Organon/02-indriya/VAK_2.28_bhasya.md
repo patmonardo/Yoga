@@ -45,7 +45,7 @@ includes the complete explanation of regret through 58.03.
 > tadetadubhayamapyubhayādhiṣṭānam /
 
 The excerpt follows printed 57.09–58.03 in
-`Vasubandhu/Sources/kosabhasaya.txt`, with source labels removed
+`Vasubandhu/Sources/kosabhasya.txt`, with source labels removed
 and the verse number regularized. Apparent transcription defects
 remain visible; contextual resolutions are noted in Section 8.
 No independent collation is claimed.

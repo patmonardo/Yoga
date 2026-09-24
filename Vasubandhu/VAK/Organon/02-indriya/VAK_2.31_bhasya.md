@@ -34,7 +34,7 @@ The Bhāṣya specifies the inherited exclusions and further interprets
 > uktametadyasyāṃ bhūmau yatra citte yāvantaścaittāḥ //
 
 The excerpt follows printed 59.02–59.15 in
-`Vasubandhu/Sources/kosabhasaya.txt`, with source labels removed
+`Vasubandhu/Sources/kosabhasya.txt`, with source labels removed
 and the verse number regularized. Transcription defects are
 retained and contextual resolutions identified below. No
 independent collation is claimed.

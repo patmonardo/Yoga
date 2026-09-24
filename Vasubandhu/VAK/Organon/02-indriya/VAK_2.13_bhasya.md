@@ -30,7 +30,7 @@ Mind together with three feelings counts as four faculties.
 > na hi nirdoṣaṃ prahāṇārham / uktaḥ prakārabhedaḥ /
 
 This is the complete unit at printed 47.04–15 in
-`Vasubandhu/Sources/kosabhasaya.txt`. Word division is editorial;
+`Vasubandhu/Sources/kosabhasya.txt`. Word division is editorial;
 the mechanical *dauarmanasyaṃ* is read as *daurmanasyaṃ*, following
 the research Bhāṣya. The anchor's *bhāvanayā* follows the running
 verse rather than the research kārikā's defective source-form

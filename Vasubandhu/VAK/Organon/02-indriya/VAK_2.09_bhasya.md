@@ -63,7 +63,7 @@ compound includes *aśaikṣa*, no-more-training, as the prose confirms.
 > na cānāsravāṇāṃ dharmāṇām eṣa parīkṣāprakāraḥ //
 
 The unit runs from printed 42.07 through 43.07 in
-`Vasubandhu/Sources/kosabhasaya.txt`. The next question, concerning
+`Vasubandhu/Sources/kosabhasya.txt`. The next question, concerning
 maturation at 43.08, opens VAK 2.10. The debate following the verse
 is part of the present unit and is retained in full.
 

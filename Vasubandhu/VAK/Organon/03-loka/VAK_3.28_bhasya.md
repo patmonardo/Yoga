@@ -284,7 +284,7 @@ causal meaning of dependent arising itself.
 > dharmāntaram evāvidyā /
 
 This sustained unit runs from printed 135.07 through 141.08 in
-`Vasubandhu/Sources/kosabhasaya.txt`. VAK 3.29 begins by testing whether
+`Vasubandhu/Sources/kosabhasya.txt`. VAK 3.29 begins by testing whether
 ignorance might instead be defective `prajñā`.
 
 The working e-text is unusually damaged across this unit. Word division,

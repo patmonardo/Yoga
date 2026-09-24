@@ -33,7 +33,7 @@ formative ground of each profile.
 > śeṣāṇāṃ caturthīti siddhaṃ bhavati /
 
 This natural unit runs from printed 128.26 through 129.04 in
-`Vasubandhu/Sources/kosabhasaya.txt`. At 129.05 external proponents of an
+`Vasubandhu/Sources/kosabhasya.txt`. At 129.05 external proponents of an
 ātman raise a new objection concerning transmigration; that begins the
 argument of VAK 3.18.
 

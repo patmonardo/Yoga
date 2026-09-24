@@ -90,7 +90,7 @@ the explicit completion of their discussion at 73.13.
 > vyākhyāte samāpattī //
 
 The excerpt follows printed 71.16–73.13 in
-`Vasubandhu/Sources/kosabhasaya.txt`, with source labels removed
+`Vasubandhu/Sources/kosabhasya.txt`, with source labels removed
 and the verse number regularized. Apparent transcription defects
 remain visible; consequential contextual resolutions are identified
 below. No independent collation is claimed.

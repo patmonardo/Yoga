@@ -44,7 +44,7 @@ non-percipient beings are abodes without being cognition-stations.
 > eṣu hi sattvā āvasanti svecchayā /
 
 This unit runs from printed 117.04 through 117.16 in
-`Vasubandhu/Sources/kosabhasaya.txt`. The naming phrase
+`Vasubandhu/Sources/kosabhasya.txt`. The naming phrase
 `vijñānasthitayaḥ sapta` first appears at 115.20 and was necessarily included
 in the exposition of VAK 3.05; it is repeated here as the opening member of
 the present verse. The next fragment, `anicchāvasanān nānye`, begins VAK 3.07.

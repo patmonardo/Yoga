@@ -34,7 +34,7 @@ the scope of the enumeration, rather than introducing more faculties.
 
 The unit begins with the objection at printed 40.08–09 and ends
 with *ato nāvidyādīnām indriyatvam iṣṭam* at 40.16–17 in
-`Vasubandhu/Sources/kosabhasaya.txt`. It includes the verse at
+`Vasubandhu/Sources/kosabhasya.txt`. It includes the verse at
 40.12–13. The next verse begins at 40.18–19 and belongs to VAK 2.06.
 
 Word division is editorial. Following the research Bhāṣya, the

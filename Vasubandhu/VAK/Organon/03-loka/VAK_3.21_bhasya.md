@@ -35,7 +35,7 @@ correction is grammatical: `daśā` means “state,” not the numeral “ten.�
 > nāmarūmam ataḥ param // 3.21 //
 
 This verse-unit runs from printed 131.19 through 132.01 in
-`Vasubandhu/Sources/kosabhasaya.txt`. The next pāda, `prāk
+`Vasubandhu/Sources/kosabhasya.txt`. The next pāda, `prāk
 ṣaḍāyatanotpādāt`, supplies the ending boundary of the name-and-form stage and
 belongs to VAK 3.22. It has not been absorbed into the present Study.
 

@@ -48,7 +48,7 @@ desire-realm life.
 > pañcāparāntikaḥ, saphalahetukayoḥ pūrvāparāntayor grahaṇāt /
 
 This natural unit runs from printed 131.03 through 131.18 in
-`Vasubandhu/Sources/kosabhasaya.txt`. The question `atha ka ime 'vidyādayaḥ`
+`Vasubandhu/Sources/kosabhasya.txt`. The question `atha ka ime 'vidyādayaḥ`
 at 131.19 begins the detailed definition of the individual members in VAK
 3.21.
 

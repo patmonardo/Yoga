@@ -121,7 +121,7 @@ recitations, rival interpretations, and apparent countertexts.
 > gatir iti /
 
 This unit runs from printed 121.19 through 123.19 in
-`Vasubandhu/Sources/kosabhasaya.txt`. The question at 123.20 concerning the
+`Vasubandhu/Sources/kosabhasya.txt`. The question at 123.20 concerning the
 form assumed by one going to a particular destiny introduces VAK 3.13.
 
 The research Bhāṣya witness ends around 122.19 and omits the last third of the

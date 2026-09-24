@@ -41,7 +41,7 @@ to keep their relation visible.
 > vāgādīnām indriyatvam //
 
 The complete prose unit runs from printed 40.20 through 41.03–04
-in `Vasubandhu/Sources/kosabhasaya.txt`, after the verse at 40.18–19.
+in `Vasubandhu/Sources/kosabhasya.txt`, after the verse at 40.18–19.
 It includes the detailed rejection of the proposed action-faculties.
 The following survey of what has and has not yet been explained
 begins the research unit for VAK 2.07 and is reserved for that study.

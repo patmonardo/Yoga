@@ -140,7 +140,7 @@ intermediate existence is maintained, though its justification is debated.
 > evety eke / aupacayikasvabhāvā apīty apare /
 
 This complete unit runs from printed 112.24 through 115.16 in
-`Vasubandhu/Sources/kosabhasaya.txt`. The transitional sentence at 115.17 and
+`Vasubandhu/Sources/kosabhasya.txt`. The transitional sentence at 115.17 and
 the verse beginning `nānātvakāyasaṃjñāś ca` open VAK 3.05.
 
 The research Bhāṣya witness begins only at 114.04 and ends at 114.27. The

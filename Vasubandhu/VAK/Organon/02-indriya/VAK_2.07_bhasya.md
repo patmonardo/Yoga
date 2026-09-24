@@ -31,7 +31,7 @@ introductory prose also locates these definitions within the chapter.
 > na hi tatra kāyikī vedanā 'sti / pañcavijñānakāyābhāvāt /
 
 The complete unit runs from printed 41.05 through 41.15 in
-`Vasubandhu/Sources/kosabhasaya.txt`. The opening survey belongs
+`Vasubandhu/Sources/kosabhasya.txt`. The opening survey belongs
 with this first definition of the feeling-faculties, as in the
 research Bhāṣya. The following *anyatra sā saumanasyam* begins
 VAK 2.08 and is reserved for that study.

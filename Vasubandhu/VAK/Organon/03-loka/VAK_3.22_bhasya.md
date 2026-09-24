@@ -34,7 +34,7 @@ when the continuum acquires a new structure or capacity.
 > ucyate /
 
 This natural unit runs from printed 132.02 through 132.11 in
-`Vasubandhu/Sources/kosabhasaya.txt`. VAK 3.23 begins with the definition of
+`Vasubandhu/Sources/kosabhasya.txt`. VAK 3.23 begins with the definition of
 the feeling-stage immediately afterward.
 
 Word division and punctuation are editorial. The dense e-text form

@@ -78,7 +78,7 @@ leads to it.
 > sattveṣūpapadyate /
 
 This unit runs from printed 123.20 through 124.21 in
-`Vasubandhu/Sources/kosabhasaya.txt`. The next sentence and verse fragment at
+`Vasubandhu/Sources/kosabhasya.txt`. The next sentence and verse fragment at
 124.22–23 begin VAK 3.14's account of the intermediate being's visibility,
 speed, faculties, penetrability, and irreversible destination.
 

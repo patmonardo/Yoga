@@ -44,7 +44,7 @@ differentiated cognition becomes established.
 > visabhāgabhūmikeṣu skandheṣu vijñānaṃ tṛṣṇāvaśāt pratitiṣṭhatīti /
 
 This unit runs from the linking sentence at printed 117.16 through 117.28 in
-`Vasubandhu/Sources/kosabhasaya.txt`. The following question,
+`Vasubandhu/Sources/kosabhasya.txt`. The following question,
 `kasmān na vijñānaṃ vijñānasthitir ucyate`, begins the exposition of VAK
 3.08, whose first half states that cognition itself is not called a support.
 

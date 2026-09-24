@@ -40,7 +40,7 @@ on whether Mahābrahmā's superior station constitutes a distinct `bhūmi`.
 > bhūmyantaram iti /
 
 This unit runs from printed 111.15 through 111.27 in
-`Vasubandhu/Sources/kosabhasaya.txt`. The next phrase,
+`Vasubandhu/Sources/kosabhasya.txt`. The next phrase,
 `ārūpyadhātur asthānaḥ`, begins VAK 3.03.
 
 Word division and punctuation are editorial. The transmitted analogy

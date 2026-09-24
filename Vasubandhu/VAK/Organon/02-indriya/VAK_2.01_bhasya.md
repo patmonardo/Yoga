@@ -63,7 +63,7 @@ group from the eight. The kārikā study is left unchanged.
 > iti vaibhāṣikāḥ /
 
 The unit runs from printed 38.03 through the Vaibhāṣika statement
-at 39.02–03 in `Vasubandhu/Sources/kosabhasaya.txt`. The preceding
+at 39.02–03 in `Vasubandhu/Sources/kosabhasya.txt`. The preceding
 *oṃ namo buddhāya* is a chapter invocation. The next *apare punar āhuḥ*
 opens the objection retained with VAK 2.02 in the research sequence.
 The present study stops before that objection.

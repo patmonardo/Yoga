@@ -74,7 +74,7 @@ and the full regional debate, extending into VAK 2.44.
 > pūrvameva tu varṇayanti kāśmīrāḥ /
 
 The excerpt follows printed 69.24–71.15 in
-`Vasubandhu/Sources/kosabhasaya.txt`, with source labels removed
+`Vasubandhu/Sources/kosabhasya.txt`, with source labels removed
 and the verse number regularized. Apparent defects remain visible;
 contextual translation decisions are recorded below. No independent
 collation is claimed.

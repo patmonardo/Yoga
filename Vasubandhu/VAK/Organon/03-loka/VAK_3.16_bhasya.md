@@ -66,7 +66,7 @@ emergence—permit four progressively differentiated cognition-profiles.
 > pravartete /
 
 This natural unit runs from printed 127.26 through 128.25 in
-`Vasubandhu/Sources/kosabhasaya.txt`. The words `atra punar apadiśyate` at
+`Vasubandhu/Sources/kosabhasya.txt`. The words `atra punar apadiśyate` at
 128.26 introduce the three exceptional womb-descents assigned in VAK 3.17.
 
 Word division and punctuation are editorial. The e-text's `nityāha` has been

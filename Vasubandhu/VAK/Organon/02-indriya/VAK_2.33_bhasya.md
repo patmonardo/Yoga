@@ -51,7 +51,7 @@ remain separate in the translation.
 > saṃprahaṛśaṇaviśeṣo mada ityapare /
 
 The excerpt follows printed 60.23–61.19 in
-`Vasubandhu/Sources/kosabhasaya.txt`, with source labels removed
+`Vasubandhu/Sources/kosabhasya.txt`, with source labels removed
 and the verse number regularized. Transcription defects are
 retained; contextual translation resolutions are identified below.
 No independent collation is claimed.

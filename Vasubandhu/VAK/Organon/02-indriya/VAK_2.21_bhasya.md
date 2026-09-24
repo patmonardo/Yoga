@@ -30,7 +30,7 @@ are two separate cases, not a single description of one person.
 > ukta indriyāṇāṃ dhātuprabhedaprasaṅgenāgatānāṃ vistareṇa prabhedaḥ /
 
 The unit is printed 52.09–52.18 in
-`Vasubandhu/Sources/kosabhasaya.txt`. Word division is editorial.
+`Vasubandhu/Sources/kosabhasya.txt`. Word division is editorial.
 The mechanical *ekānnaviṃāśatyā* is normalized to *ekānnaviṃśatyā*,
 *anā sravaṇi* to *anāsravāṇi*, and *dvayośācānyatarat* to
 *dvayoś cānyatarat*. No independent collation is claimed.

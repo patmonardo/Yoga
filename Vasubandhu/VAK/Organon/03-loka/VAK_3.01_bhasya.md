@@ -39,7 +39,7 @@ desire-domain, but they are not identical classifications.
 > tu yāvad vāyumaṇḍalam /
 
 This unit runs from printed 111.03 through 111.15 in
-`Vasubandhu/Sources/kosabhasaya.txt`. The next words, `etasmāc ca
+`Vasubandhu/Sources/kosabhasya.txt`. The next words, `etasmāc ca
 kāmadhātoḥ`, open the determination of the form-domain accompanying VAK 3.02.
 
 Word division and punctuation are editorial. The running e-text transmits

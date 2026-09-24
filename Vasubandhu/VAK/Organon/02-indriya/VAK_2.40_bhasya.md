@@ -41,7 +41,7 @@ relinquishment and includes the full ensuing regress discussion.
 > itarathā hyākāśe 'pyava kāśo na syāt dvitīyasya prāṇinaḥ //
 
 The excerpt follows printed 66.21–67.12 in
-`Vasubandhu/Sources/kosabhasaya.txt`, with source labels removed
+`Vasubandhu/Sources/kosabhasya.txt`, with source labels removed
 and the verse number regularized. Transcription defects remain
 visible; contextual resolutions are noted below. No independent
 collation is claimed.

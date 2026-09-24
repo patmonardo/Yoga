@@ -38,7 +38,7 @@ opening half of VAK 2.39 that completes its material cases.
 > sahajā cāsti paścātkālajā ca /
 
 The excerpt follows printed 65.12–65.29 in
-`Vasubandhu/Sources/kosabhasaya.txt`, with source labels removed
+`Vasubandhu/Sources/kosabhasya.txt`, with source labels removed
 and the verse number regularized. Apparent transcription defects
 are retained and contextual resolutions identified below. No
 independent collation is claimed.

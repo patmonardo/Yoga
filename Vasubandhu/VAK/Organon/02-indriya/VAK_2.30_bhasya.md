@@ -32,7 +32,7 @@ transition to the higher levels.
 > yatra dvāviṃśatistatra trayoviṃśatiryatra trayoviṃśatistatra caturviṃśatirityevamādi /
 
 The excerpt follows printed 58.18–59.02 in
-`Vasubandhu/Sources/kosabhasaya.txt`, ending before the separately
+`Vasubandhu/Sources/kosabhasya.txt`, ending before the separately
 marked 59.02 transition, *ya eva kāmadhātau*. Source labels are
 removed and the verse number regularized. Transcription defects
 remain visible; contextual resolutions are recorded in Section 8.

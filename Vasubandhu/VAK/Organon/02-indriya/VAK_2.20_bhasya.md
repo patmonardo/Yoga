@@ -33,7 +33,7 @@ explains both compressed expressions.
 > aṣṭādhikārād bālādhikārāc ca //
 
 This unit occupies printed 51.23–52.08 in
-`Vasubandhu/Sources/kosabhasaya.txt`. Word division and punctuation
+`Vasubandhu/Sources/kosabhasya.txt`. Word division and punctuation
 are editorial. The mechanical *srvālpaiḥ* and *niḥśāubhaḥ* are
 normalized to *sarvālpaiḥ* and *niḥśubhaḥ*. The final damaged
 *naṣṭādhikārād dvālādhikārācca* is read as

@@ -24,7 +24,7 @@ classification and acknowledges further factors not fixed in it.
 > anye 'pi cāniyatāḥ santi vitarkavicārakaukṛtyamiddhādayaḥ /
 
 The unit occupies printed 57.04–57.09 in
-`Vasubandhu/Sources/kosabhasaya.txt`, ending before the question
+`Vasubandhu/Sources/kosabhasya.txt`, ending before the question
 *tatra vaktavyaṃ kasmiṃścitte kati caittā avaśyaṃ bhavantīti*.
 That question begins the next study's inquiry into necessary
 mental-factor counts.

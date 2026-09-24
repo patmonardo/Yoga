@@ -47,7 +47,7 @@ for the next study.
 > evam ārūpyeṣv aṣṭau nirodhayati rūpeṣu trayodaśeti vistareṇa gaṇanīyam /
 
 The complete death unit occupies printed 48.15–49.04 in
-`Vasubandhu/Sources/kosabhasaya.txt`. The preceding acquisition
+`Vasubandhu/Sources/kosabhasya.txt`. The preceding acquisition
 closure was included in VAK 2.14. The research files overlap at
 the gradual-death discussion; the present study includes that
 discussion and its wholesome-mind qualification together. The

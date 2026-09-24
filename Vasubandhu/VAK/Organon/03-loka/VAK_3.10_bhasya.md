@@ -38,7 +38,7 @@ where a projected karmic result becomes manifest and reaches completion.
 > yuktiṃ niśrityocyate /
 
 This unit runs from printed 120.06 through 120.16 in
-`Vasubandhu/Sources/kosabhasaya.txt`. The next line,
+`Vasubandhu/Sources/kosabhasya.txt`. The next line,
 `vrīhisantānasādharmyād avicchinnabhavodbhavaḥ`, begins VAK 3.11's rational
 proof. The present unit announces that proof but does not absorb it.
 

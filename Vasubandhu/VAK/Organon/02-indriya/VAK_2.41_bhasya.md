@@ -69,7 +69,7 @@ non-percipient beings.
 > yathottarakauravāṇāṃ devopapāttivedanīyam /
 
 The excerpt follows printed 67.13–68.27 in
-`Vasubandhu/Sources/kosabhasaya.txt`, with source labels removed
+`Vasubandhu/Sources/kosabhasya.txt`, with source labels removed
 and the verse number regularized. Apparent transcription defects
 remain visible; contextual translation decisions are noted below.
 No independent collation is claimed.

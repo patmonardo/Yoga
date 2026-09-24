@@ -48,7 +48,7 @@ faculty present at birth.
 > ukto lābhaḥ /
 
 The unit runs from printed 47.16 through the closure at 48.14 in
-`Vasubandhu/Sources/kosabhasaya.txt`. The research VAK 2.15 places
+`Vasubandhu/Sources/kosabhasya.txt`. The research VAK 2.15 places
 that closure at its opening; it is included here to close acquisition.
 The next study begins with *tyāga idānīṃ vaktavyaḥ*, the transition
 to relinquishment, at 48.15.

@@ -35,7 +35,7 @@ gathered under aging-and-death.
 > jarāmaraṇam / ity etāni dvādaśāṅgāni /
 
 This natural unit runs from printed 132.18 through 132.27 in
-`Vasubandhu/Sources/kosabhasaya.txt`. The next sentence, `sa caiṣa
+`Vasubandhu/Sources/kosabhasya.txt`. The next sentence, `sa caiṣa
 pratītyasamutpādaś caturvidha ucyate`, opens the fourfold classification of
 dependent arising that culminates in VAK 3.25 and is not included here.
 

@@ -30,7 +30,7 @@ number of faculties possessed.
 > ājñāsyāmīndriyeṇa ca //
 
 The unit is printed 51.16–51.22 in
-`Vasubandhu/Sources/kosabhasaya.txt`. Word division is editorial;
+`Vasubandhu/Sources/kosabhasya.txt`. Word division is editorial;
 the broken spacing in *ājñā tāvīndriyeṇa* has been joined. Three
 problematic forms remain visible: *ājñāta indriyam*, the subsequent
 *ya ājñātendriyeṇa*, and *manaśraddhādibahir*. The last is damaged

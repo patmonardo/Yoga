@@ -47,7 +47,7 @@ results of prior causes and the bases supporting renewed affliction and karma.
 > 'numātum iti noktaḥ / punar aparātmakaṃ hi yatnaṃ mā kāryam iti /
 
 This natural unit runs from printed 134.04 through 134.20 in
-`Vasubandhu/Sources/kosabhasaya.txt`. VAK 3.27 begins by recasting the same
+`Vasubandhu/Sources/kosabhasya.txt`. VAK 3.27 begins by recasting the same
 members as afflictions, karma, and bases arising from one another.
 
 Word division and punctuation are editorial. The e-text's `phābhūtāni` has

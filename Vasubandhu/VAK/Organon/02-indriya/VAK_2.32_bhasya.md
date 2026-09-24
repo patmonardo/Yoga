@@ -70,7 +70,7 @@ the final realm restriction.
 > te ceha premagaurave abhiprete /
 
 The excerpt follows printed 59.16–60.22 in
-`Vasubandhu/Sources/kosabhasaya.txt`, with source labels removed
+`Vasubandhu/Sources/kosabhasya.txt`, with source labels removed
 and the verse number regularized. Apparent defects are retained,
 including the difficult reversal of the negative ethical pair.
 Contextual translation repairs are marked below. No independent

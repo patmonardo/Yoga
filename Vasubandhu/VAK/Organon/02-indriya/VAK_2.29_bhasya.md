@@ -35,7 +35,7 @@ associations add one.
 > anyakleśopakleśasaṃprayukte tvekaviṃśatiḥ /
 
 The excerpt follows printed 58.04–58.17 in
-`Vasubandhu/Sources/kosabhasaya.txt`, with source labels removed
+`Vasubandhu/Sources/kosabhasya.txt`, with source labels removed
 and the verse number regularized. Transcription defects remain
 visible; contextual resolutions are identified in Section 8.
 No independent collation is claimed.

@@ -27,7 +27,7 @@ is retained here so that its cross-verse syntax remains visible.
 > etad avyākṛtam eva //
 
 This is the complete ethical-classification unit at printed 46.07–16
-in `Vasubandhu/Sources/kosabhasaya.txt`. Word division is editorial;
+in `Vasubandhu/Sources/kosabhasya.txt`. Word division is editorial;
 no substantive repair is made. The witness's compact *kiñcid anyat*
 is construed contextually as asking what the remainder is. The next
 question, at 46.17, concerns affiliation with the realms and begins

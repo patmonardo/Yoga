@@ -73,7 +73,7 @@ sentient-life presentation.
 > hy ete hetava iti /
 
 This natural unit runs from printed 132.27 through 134.04 in
-`Vasubandhu/Sources/kosabhasaya.txt`. The following sentence reorganizes the
+`Vasubandhu/Sources/kosabhasya.txt`. The following sentence reorganizes the
 twelve members into affliction, karma, and result-basis and begins VAK 3.26.
 
 Word division and punctuation are editorial. Obvious e-text irregularities

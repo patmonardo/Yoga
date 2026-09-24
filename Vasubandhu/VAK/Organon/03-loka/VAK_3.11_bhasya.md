@@ -77,7 +77,7 @@ continuity cannot produce rebirth at another place through an absolute break.
 > upapattibhavaprādurbhāvaḥ / tasmād asty evāntarābhavaḥ /
 
 This unit runs from printed 120.17 through 121.18 in
-`Vasubandhu/Sources/kosabhasaya.txt`. The next words, `kaṇṭhokteś cāsti`, at
+`Vasubandhu/Sources/kosabhasya.txt`. The next words, `kaṇṭhokteś cāsti`, at
 121.19 begin the proof from explicit scriptural statement developed in VAK
 3.12.
 

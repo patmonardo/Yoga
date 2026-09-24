@@ -92,7 +92,7 @@ acquisition and includes its full ensuing debate.
 > eṣa hi naḥ siddhānta iti /
 
 The excerpt follows printed 62.15–64.12 in
-`Vasubandhu/Sources/kosabhasaya.txt`, ending before *sā kilaiṣā
+`Vasubandhu/Sources/kosabhasya.txt`, ending before *sā kilaiṣā
 praptiḥ*. Source labels are removed and the verse number regularized.
 Transcription defects remain visible. Contextual repairs, including
 a consequential missing negation, are marked in the translation

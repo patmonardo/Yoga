@@ -78,7 +78,7 @@ destination in a form toward which desire can move.
 > gāthābhidhānāt /
 
 This unit runs from printed 126.19 through 127.25 in
-`Vasubandhu/Sources/kosabhasaya.txt`. VAK 3.16 begins at 127.26 by asking
+`Vasubandhu/Sources/kosabhasya.txt`. VAK 3.16 begins at 127.26 by asking
 whether every intermediate being necessarily enters the mother's womb in the
 manner just described.
 

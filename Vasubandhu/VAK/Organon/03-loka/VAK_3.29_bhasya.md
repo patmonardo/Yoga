@@ -78,7 +78,7 @@ claiming to settle the final own-nature of ignorance.
 > vicāryamāṇe bahu vaktavyaṃ jāyate / tasmāt tiṣṭhatv etat /
 
 This natural unit runs from printed 141.08 through 142.14 in
-`Vasubandhu/Sources/kosabhasaya.txt`. At 142.15 the text turns to
+`Vasubandhu/Sources/kosabhasya.txt`. At 142.15 the text turns to
 `nāmarūpa` and then to the analysis of contact that culminates in VAK 3.30.
 
 Word division and punctuation are editorial. The e-text contains such forms

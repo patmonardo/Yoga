@@ -42,7 +42,7 @@ witness rather than the research kārikā's shortened *upekṣa*.
 > apratipiddhāsvavasthāsu yathoktasamanvāgato veditavyaḥ /
 
 The unit runs from printed 50.09 through 50.22 in
-`Vasubandhu/Sources/kosabhasaya.txt`. Locators and the verse identifier
+`Vasubandhu/Sources/kosabhasya.txt`. Locators and the verse identifier
 are removed; otherwise the witness, including its defective forms,
 is retained. The next verse begins at 50.23 with the further
 possession counts of VAK 2.18.

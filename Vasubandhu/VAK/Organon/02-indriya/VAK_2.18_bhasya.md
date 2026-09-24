@@ -42,7 +42,7 @@ the eleven- and thirteen-faculty realization cases.
 > śraddhādimāṃs tu taiś ca pañcabhir upekṣājīvitamanobhiś ca /
 
 The unit occupies printed 50.23–51.15 in
-`Vasubandhu/Sources/kosabhasaya.txt`. It includes the opening numeral
+`Vasubandhu/Sources/kosabhasya.txt`. It includes the opening numeral
 of VAK 2.19 and the prose completing the subject introduced at the
 end of VAK 2.18. The next clause begins at 51.16.
 

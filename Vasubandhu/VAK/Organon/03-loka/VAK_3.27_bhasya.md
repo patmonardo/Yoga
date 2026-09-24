@@ -39,7 +39,7 @@ the sequence.
 > bhavati” iti vacanāt / anyathā hi kim asya sāmarthyaṃ syāt?
 
 This natural unit runs from printed 134.22 through 135.06 in
-`Vasubandhu/Sources/kosabhasaya.txt`. The next sentence begins the extended
+`Vasubandhu/Sources/kosabhasya.txt`. The next sentence begins the extended
 inquiry into the cause and nature of ignorance that culminates in VAK 3.28.
 
 Word division and punctuation are editorial. The e-text's `karmavastu` has

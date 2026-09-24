@@ -73,7 +73,7 @@ wheel has no first beginning yet can have an end.
 > yuktaḥ, hetvadhīnatvāj janmano bījakṣayād ivāṅkurasyeti /
 
 This natural unit runs from printed 129.21 through 131.02 in
-`Vasubandhu/Sources/kosabhasaya.txt`. At 131.03 the text identifies the
+`Vasubandhu/Sources/kosabhasya.txt`. At 131.03 the text identifies the
 three-life aggregate-continuum with twelve-membered dependent arising; that
 begins VAK 3.20.
 

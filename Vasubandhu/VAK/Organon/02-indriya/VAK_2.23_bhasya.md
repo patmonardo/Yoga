@@ -40,7 +40,7 @@ explanation also restricts the acquisition clause.
 > ye sarvatra cetasi bhavanti /
 
 The unit occupies printed 54.03–54.16 in
-`Vasubandhu/Sources/kosabhasaya.txt`, ending before the question
+`Vasubandhu/Sources/kosabhasya.txt`, ending before the question
 *ke punaḥ sarvatra cetasi*, “Which occur in every consciousness?”
 That question introduces the list in VAK 2.24.
 

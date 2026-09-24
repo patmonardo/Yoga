@@ -57,7 +57,7 @@ specifies what acquisition “in one time” means.
 > acittaka tvānnānāgatā bhāvyate /
 
 The excerpt follows printed 68.28–69.23 in
-`Vasubandhu/Sources/kosabhasaya.txt`, with source labels removed
+`Vasubandhu/Sources/kosabhasya.txt`, with source labels removed
 and the verse number regularized. Apparent transcription defects
 remain visible; contextual resolutions are noted below. No
 independent collation is claimed.

@@ -103,7 +103,7 @@ next natural unit and are reserved for VAK 2.46.
 > uktaṃ jīvitam //
 
 The excerpt follows printed 73.14–75.18 in
-`Vasubandhu/Sources/kosabhasaya.txt`, with source labels removed.
+`Vasubandhu/Sources/kosabhasya.txt`, with source labels removed.
 Transcription defects are retained, including difficult quotations
 and the list of protected lives. Contextual resolutions and
 uncertainties are identified below. No independent collation

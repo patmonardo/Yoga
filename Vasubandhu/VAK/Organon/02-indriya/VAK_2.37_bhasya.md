@@ -47,7 +47,7 @@ classifications, completed by the opening half of VAK 2.38.
 > tasyaivāryamārgaprāptasyānāsravā 'heyā mārgasatyasya ca /
 
 The excerpt follows printed 64.12–65.11 in
-`Vasubandhu/Sources/kosabhasaya.txt`, beginning with *sā kilaiṣā
+`Vasubandhu/Sources/kosabhasya.txt`, beginning with *sā kilaiṣā
 praptiḥ*. Source labels are removed and the verse number regularized.
 Transcription defects remain visible; contextual resolutions are
 noted below. No independent collation is claimed.

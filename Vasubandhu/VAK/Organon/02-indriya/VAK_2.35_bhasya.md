@@ -21,7 +21,7 @@ unit; the detailed inquiry into acquisition begins in the next study.
 > ime saṃskārā na cittena asaṃprayuktā naca rūpasvabhāvā iti cittaviprayuktāucyante /
 
 The unit occupies printed 62.11–62.14 in
-`Vasubandhu/Sources/kosabhasaya.txt`. The verse number is regularized;
+`Vasubandhu/Sources/kosabhasya.txt`. The verse number is regularized;
 the defective prose is retained. Its *na cittena asaṃprayuktā*
 literally introduces a double negation contrary to the class-name
 and its explanation. The translation contextually reads “not

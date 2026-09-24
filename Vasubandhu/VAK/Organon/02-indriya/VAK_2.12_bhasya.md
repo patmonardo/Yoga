@@ -41,7 +41,7 @@ of every listed faculty by every being in that realm.
 > etāny ārūpyapratisaṃyuktāni santi nānyāni /
 
 The complete unit runs from printed 46.17 through 47.03 in
-`Vasubandhu/Sources/kosabhasaya.txt`. The next question, at 47.04,
+`Vasubandhu/Sources/kosabhasya.txt`. The next question, at 47.04,
 concerns abandonment and begins VAK 2.13.
 
 Word division is editorial. Mechanical repairs are *kāmachātau*
