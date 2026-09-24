@@ -33,13 +33,19 @@ and causal relations.
 > sahetukatvāt savastukāḥ / hetuvacanaḥ kila vastuśabda iti vaibhāṣikāḥ /
 > ity ete saṃskṛtadharmaparyāyāḥ /
 
-This is the natural unit from the question identifying the conditioned
-dharmas through the conclusion that these expressions are their alternative
-designations. Word division, punctuation, and obvious sandhi have been
-supplied for reading. The running witness omits `saṃjñāskandha` from its prose
-list of aggregates and contains unstable readings in the second derivation
-of `adhvan` and the title `Prakaraṇagrantha`; these have not been used to
-silently reconstruct a critical text.
+This unit runs from the question identifying the conditioned dharmas at
+`[004|23]` through the conclusion that these expressions are alternative
+designations at `[005|08]`. The next sentence begins the account of 1.08.
+The running witness omits `saṃjñāskandha` from its prose list of five
+aggregates. It also has `dhārmā` in the first verse citation,
+`adyante 'nitayatyeti vā` in the second derivation of `adhvan`,
+`kathā vāvāyam`, `saṃskṛntaṃ`, `urakaraṇagrantho`,
+`vaibhāṣicāḥ`, and `saṃskṛtadharmauaryāyāḥ`. The reading text supplies
+`dharmā`, `adyante 'nityatayeti vā`, `kathā vākyam`, `saṃskṛtaṃ`,
+`prakaraṇagrantho`, `vaibhāṣikāḥ`, and `saṃskṛtadharmaparyāyāḥ`.
+These provisional repairs are not directly attested in those places of the
+running witness; the second derivation of `adhvan` remains especially
+uncertain.
 
 ## 3. Continuous Conventional Translation
 
@@ -179,10 +185,9 @@ terminology attributed to Vasubandhu.
 
 ## 9. Review Status
 
-Provisional seventh example of the final Bhāṣya-pass method. The first three
-sections provide a continuous textual foundation, and the conventional
-translation contains no internal commentary. The later study concentrates on
-joint conditional production and the several relations of the same
-conditioned field. The unit boundary has been checked against the running
-Sanskrit source. The omitted `saṃjñāskandha` and unstable wording in the
-second explanation of `adhvan` remain explicit witness-level questions.
+QA reviewed against the local Kārikā and Bhāṣya witnesses and the running
+Sanskrit source, `[004|23]`–`[005|08]`. The study preserves plural conditional
+production and the several designations of the same conditioned field.
+The omitted `saṃjñāskandha`, the uncertain second derivation of `adhvan`,
+and the other witness repairs remain explicit in Section 2. The study is
+provisional pending further textual review.

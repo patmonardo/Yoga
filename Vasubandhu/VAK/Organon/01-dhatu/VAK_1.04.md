@@ -60,13 +60,13 @@ An outflow may arise with cessation or Path as its object without either becomin
 
 ## 6. Philosophical Translation
 
-> Dharmas are consequential or unconsequential. Conditioned dharmas, apart from the Path, are consequential because outflow settles and continues in them. The Path is conditioned but unconsequential: it brings the consequential series to comprehension without initiating a further unresolved outflow.
+> Dharmas are divided into those with outflows and those without them. Conditioned dharmas apart from the Truth of the Path bear outflows because outflows can settle and persist in them. The Path is conditioned but without outflows: its status depends on whether outflows lodge there, not on whether an afflicted cognition can take it as an object.
 
-Organon rendering:
+Organon rendering (project reconstruction):
 
 > A principle is actual only through its consequences. `Sāsrava` names determination with consequence: a dharma in which outflow can settle, persist, and generate a further series. `Anāsrava` names determination without further consequence: not inert or ineffective, but complete, with no unresolved outflow beyond it.
 
-Kantian determination:
+Kantian determination (project comparison):
 
 > Outflow is the movement of understanding from a conditioned determination to the further condition on which it depends. A field is consequential while this passage from condition to condition remains open. It is unconsequential when no further uncomprehended condition is demanded beyond the completed series.
 
@@ -74,8 +74,8 @@ Kantian determination:
 
 | Sanskrit | Rendering | Determination |
 |---|---|---|
-| sāsrava | consequential (lit. with outflows) | capable of sustaining outflow and a further series |
-| anāsrava | unconsequential (lit. without outflows) | complete without a further unresolved outflow |
+| sāsrava | with outflows | outflows can settle in this field; “consequential” is the Organon analogy above |
+| anāsrava | without outflows | outflows do not settle here; “unconsequential” is the Organon analogy above |
 | saṃskṛta | conditioned | distinct axis from outflow-status |
 | mārgasatya | Truth of the Path | conditioned yet anāsrava |
 | samanuśayana | settling and continuing within | criterion of sāsravatva |

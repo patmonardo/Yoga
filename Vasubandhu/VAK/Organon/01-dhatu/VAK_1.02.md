@@ -134,7 +134,7 @@ In the first derivation, this treatise occupies the place of a treasury because 
 
 ### Bhāṣya-informed translation
 
-> Stainless prajñā together with its attendants is Abhidharma in the ultimate sense. In the conventional sense, so too are the outflow-associated prajñā directed toward attaining it and the treatise serving as equipment for that attainment. This work is called the *Abhidharmakośa* either because the principal meaning of śāstric Abhidharma is contained within it, or because it has been drawn from Abhidharma as its supporting treasury.
+> Stainless prajñā together with its attendants is Abhidharma in the ultimate sense. In the conventional sense, so too are prajñā with outflows directed toward attaining it and the treatise serving as equipment for that attainment. This work is called the *Abhidharmakośa* either because the principal meaning of śāstric Abhidharma is contained within it, or because it has been drawn from Abhidharma as its supporting treasury.
 
 The second translation makes the Bhāṣya's determinations explicit; it is not offered as a word-for-word rendering of the Kārikā alone.
 
@@ -201,7 +201,7 @@ The title then expresses reciprocal dependence:
 
 ```text
 Abhidharma ──principal meaning enters──▶ Kośa
-Abhidharma ◀──treatise drawn from────── Kośa
+Kośa ──is drawn from───────────────▶ Abhidharma
 
 first relation:  Kośa is treasury-like for Abhidharma
 second relation: Abhidharma is the treasury-source of the Kośa

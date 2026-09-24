@@ -18,7 +18,8 @@ of dharmas.
 
 ## 2. Continuous Sanskrit
 
-> yaḥ sāsravair dharmair visaṃyogaḥ sa pratisaṃkhyānirodhaḥ / duḥkhādīnām
+> pratisaṃkhyānirodho yo visaṃyogaḥ / yaḥ sāsravair dharmair visaṃyogaḥ
+> sa pratisaṃkhyānirodhaḥ / duḥkhādīnām
 > āryasatyānāṃ pratisaṃkhyānaṃ pratisaṃkhyā prajñāviśeṣas tena prāpyo
 > nirodhaḥ / pratisaṃkhyānirodhaḥ / madhyapadalopāt gorathavat / kiṃ punar
 > eka eva sarveṣāṃ sāsravāṇāṃ dharmāṇāṃ pratisaṃkhyānirodhaḥ / nety āha /
@@ -30,7 +31,8 @@ of dharmas.
 > kasyacid ity ayam asya vākyasyārtho na tu nāsya kaścit sabhāgo 'stīti /
 > uktaḥ pratisaṃkhyānirodhaḥ /
 >
-> anāgatānāṃ dharmāṇām utpādasyātyantaṃ vighnabhūto visaṃyogād yo 'nyo
+> utpādātyantavighno 'nyo nirodho 'pratisaṃkhyayā / anāgatānāṃ dharmāṇām
+> utpādasyātyantaṃ vighnabhūto visaṃyogād yo 'nyo
 > nirodhaḥ so 'pratisaṃkhyānirodhaḥ / na hy asau pratisaṃkhyayā labhyate /
 > kiṃ tarhi / pratyayavaikalyāt / yathaikarūpavyāsaktacakṣurmanaso yāni
 > rūpāṇi śabdagandharasaspraṣṭavyāni cātyayante tadālambanaiḥ pañcabhir
@@ -45,12 +47,18 @@ of dharmas.
 > anutpattidharmāṇām / santi yeṣāṃ nobhayam / tadyathātītapratyutpanna-
 > utpattidharmāṇām anāsravāṇām iti / uktaṃ trividham asaṃskṛtam /
 
-This is the natural unit from the definition of cessation through
-discriminative consideration through the fourfold classification and the
-conclusion of the three unconditioned dharmas. Word division, punctuation,
-and obvious sandhi have been supplied for reading. The running witness has
-several joined or unstable forms, especially in the sensory example; the
-text above follows the provisional normalization of the local Bhāṣya study.
+This unit runs from the first cited verse fragment at `[003|24]` through the
+fourfold classification and closure of the three unconditioned dharmas at
+`[004|22]`. The next question at `[004|23]` begins 1.07. The cited verse
+fragments are retained in their running-source positions. Word division,
+punctuation, and editorial repairs have been supplied for reading. The
+running witness is unstable in the sensory example, particularly
+`na hi te satyā atītaṃ viṣayamālambayi tulmiti` at `[004|16-004|17]`;
+the reading text's `na hi te saty atītaṃ viṣayam ālambayitum` is a
+conjectural repair, while the conventional translation follows the clear
+context concerning the five sensory consciousnesses. Other repairs include
+`anutpasttidharmāṇām` to `anutpattidharmāṇām` and `aṇāsravāṇām` to
+`anāsravāṇām`. This is a reading text, not a critical edition.
 
 ## 3. Continuous Conventional Translation
 
@@ -106,7 +114,7 @@ The Bhāṣya defines each cessation by its ground and then tests their ranges:
 pratisaṃkhyā-nirodha
     → disjunction from sāsrava dharmas
     → attained through a special prajñā concerning the Noble Truths
-    → distinct for each determinate conjunction
+    → attained distinctly for each determinate conjunction
     → required in this plurality by the successive cultivation of the Path
 
 apratisaṃkhyā-nirodha
@@ -118,7 +126,7 @@ both definitions
     → tested through a fourfold classification
 ```
 
-Two topics govern the unit: the distinct disjunctions produced through
+Two topics govern the unit: the distinct disjunctions attained through
 discriminative consideration and the non-arising established when the
 necessary conditions are no longer available.
 
@@ -146,11 +154,11 @@ with the plurality required by the articulated work of release.
 ## 6. Non-Arising through Deficiency of Conditions
 
 The other cessation concerns a future dharma whose arising has become
-absolutely impossible. Its ground is not liberating discernment but
-`pratyayavaikalya`, deficiency of conditions. The sensory example makes the
-point concrete: while attention is occupied with one form, other possible
-objects pass; the particular sensory cognitions that depended upon those
-occasions can no longer arise.
+absolutely impossible. It is attained through `pratyayavaikalya`, deficiency
+of conditions, rather than through liberating discernment. The sensory
+example makes the point concrete: while attention is occupied with one form,
+other possible objects pass; the particular sensory cognitions that depended
+upon those occasions can no longer arise.
 
 The fourfold classification shows that outflow-status and capacity for
 arising remain independent determinations:
@@ -204,11 +212,8 @@ that Vasubandhu presents the later project in these terms.
 
 ## 9. Review Status
 
-Provisional sixth example of the final Bhāṣya-pass method. The first three
-sections provide the textual foundation, with the conventional translation
-kept free of internal commentary. The later study is concentrated on the two
-grounds of cessation and uses the fourfold classification only to clarify
-their independent ranges. The unit boundary and principal readings have been
-checked against the local research study and running Sanskrit source; the
-unstable wording in the sensory example remains a witness-level issue rather
-than a silent claim to a critical text.
+QA reviewed against the local Kārikā and Bhāṣya witnesses and the running
+Sanskrit source, `[003|24]`–`[004|22]`. All three cited verse fragments, the
+fourfold classification, and the unit's closure are retained. The sensory
+example's damaged witness wording and the editorial repair remain explicit
+in Section 2. The study is provisional pending further textual review.

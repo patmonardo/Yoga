@@ -26,17 +26,24 @@ the remaining names from distinct functions of this same field.
 > saraṇā api / raṇā hi kleśāḥ, ātmaparavyābādhanāt / tadanuśayitatvāt
 > saraṇāḥ, sāsravavat / punaḥ duḥkhaṃ samudayo loko dṛṣṭisthānaṃ bhavaś
 > ca te / āryāṇāṃ pratikūlatvād duḥkham / samudety asmād duḥkham iti
-> samudayaḥ / lupyata iti lokaḥ / dṛṣṭir asmiṃs tiṣṭhaty anuśayanād iti
+> samudayaḥ / lujyata iti lokaḥ / dṛṣṭir asmiṃs tiṣṭhaty anuśayanād iti
 > dṛṣṭisthānam / bhavatīti bhavaḥ / ity ete sāsravāṇāṃ dharmāṇām
 > anvarthaparyāyāḥ /
 
-This is the natural unit from the return to the conditioned dharmas through
-the conclusion that these are meaningfully derived designations of sāsrava
-dharmas. Word division, punctuation, and obvious sandhi have been supplied
-for reading. The running witness is corrupt in several places. In particular,
-it prints `lakṣyata` where the local research study reads `lupyata`; the latter
-fits the traditional derivation of `loka` through dissolution and is retained
-provisionally rather than presented as a critical reconstruction.
+This unit runs from the return to the conditioned dharmas at `[005|08]`
+through the conclusion that these are meaningfully derived designations of
+sāsrava dharmas at `[005|20]`. The next question at `[005|21]` begins 1.09.
+Word division and editorial repairs have been supplied for reading. The
+running witness has `lakṣyata iti lokaḥ`; the local research study instead
+has `lupyata`. The reading text uses `lujyata`, found in Yaśomitra's
+[commentary on I.8](https://textgridrep.de/browse/49p10.0), where it is
+explained as breaking down. This is an editorial choice supported by a
+parallel commentary, not the local running witness's reading. Other damaged
+forms include `truṇatupāgnivat`, `taddhidheyatvād`, `raṇsā`,
+`stadanuśayitatvāt`, and the closing `sāsravāṇasaṃ` and
+`ānvarthaparyāyāḥ`. They are provisionally read here as
+`tṛṇatuṣāgnivat`, `tadvidheyatvād`, `raṇā`, `tadanuśayitatvāt`,
+`sāsravāṇāṃ`, and `anvarthaparyāyāḥ`.
 
 ## 3. Continuous Conventional Translation
 
@@ -182,10 +189,9 @@ attributed to Vasubandhu.
 
 ## 9. Review Status
 
-Provisional eighth example of the final Bhāṣya-pass method. The first three
-sections provide a continuous conventional reading without internal
-commentary. The later study is limited to the reciprocal structure of
-appropriation and the differentiated names of the sāsrava field. The natural
-boundary has been checked against the running Sanskrit source. The damaged
-source forms, especially `lakṣyata` beside the research study's `lupyata`,
-remain marked for philological review.
+QA reviewed against the local Kārikā and Bhāṣya witnesses and the running
+Sanskrit source, `[005|08]`–`[005|20]`. The study preserves the three
+relations between appropriation and the aggregates and the distinct grounds
+for the names of the sāsrava field. The witness's `lakṣyata`, the selected
+`lujyata`, and other repairs remain explicit in Section 2. The study is
+provisional pending further textual review.

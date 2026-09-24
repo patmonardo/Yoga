@@ -16,7 +16,7 @@
 
 ```text
 pañcendriyāṇy arthāḥ   → pañca indriyāṇi arthāḥ
-pañcāvijñaptir         → pañca avijñaptiḥ
+arthāḥ pañcāvijñaptir  → arthāḥ pañca avijñaptiḥ
 tadvijñānāśrayāḥ       → tad-vijñāna-āśrayāḥ
 rūpaprasādāś           → rūpa-prasādāḥ
 cakṣurādayaḥ           → cakṣus-ādayaḥ
@@ -33,6 +33,8 @@ cakṣurādayaḥ           → cakṣus-ādayaḥ
 | cakṣus-ādayaḥ | cakṣus-ādayaḥ | the eye and the remaining faculties |
 
 The Bhāṣya glosses `arthāḥ` with `viṣayāḥ`: the five respective sensory domains—visible form, sound, odor, taste, and the tangible. This controls the stronger philosophical senses that might otherwise be assigned to `artha`.
+The `pañca` in `arthāḥ pañcāvijñaptiḥ` counts the objects; `avijñaptiḥ`
+is an additional single member of the rūpa inventory.
 
 ## 4. Grammar
 
@@ -71,22 +73,22 @@ The first translation preserves `artha` as “object.” The second follows the 
 
 ## 6. Philosophical Translation
 
-> Rūpa is the articulated material condition of sensory cognition. It includes the internal support-side, the corresponding sensory domain, and avijñapti, a material determination not disclosed in the ordinary sensory manner. Each faculty is defined through the determinate cognition it makes possible.
+> The rūpa aggregate comprises five sensory faculties, their five respective sensory domains, and avijñapti. The faculties are material clarities serving as supports for corresponding sensory cognitions. Avijñapti is included here but is not yet defined.
 
-Organon rendering:
+Organon rendering (project reconstruction):
 
 > The five `arthas` are not yet objects in the strong Kantian sense. An object is not a ready-made thing simply placed before cognition; it requires the synthetic unity through which a manifold can count as one object of experience. Here the Bhāṣya gives only `viṣaya`: the proper domain correlated with a faculty and its cognition. VAK 1.09 therefore begins with a conditional architecture rather than a finished ontology of objects.
 
-Kant–Fichte determination:
+Kant–Fichte comparison (project reconstruction):
 
-> A `viṣaya` is not an empirical item occupying a domain. It is the a priori domain-principle determining what can count as content for a particular mode of knowing. A particular color is empirical; the visual `viṣaya` is the prior field under which color can become visual content. A particular sound is empirical; the auditory `viṣaya` is the prior field under which sound can become auditory content.
+> The project can test `viṣaya` as a domain principle for possible sensory content. That transcendental description goes beyond the Bhāṣya's local gloss, which identifies the respective sensory domains of the five faculties. A particular color or sound and the domain in which it can be cognized may then be distinguished within the Organon analysis.
 
 ```text
 indriya
     = material condition of knowing
         ↕
 viṣaya
-    = a priori domain-principle of knowability
+    = sensory domain; proposed domain-principle in the project
         ↕
 vijñāna
     = actual determinate knowing
@@ -100,16 +102,16 @@ vijñāna
 |---|---|---|
 | rūpa | material form-field | broader than visible shape; the first aggregate under analysis |
 | indriya | faculty | refined material support of a corresponding cognition |
-| artha | content-domain / correlate | glossed by the Bhāṣya as `viṣaya`; “object” retained only as a literal option |
-| viṣaya | a priori domain-principle | determines the kind of content that can become knowable through a faculty |
+| artha | sensory object or domain here | glossed by the Bhāṣya as the respective `viṣaya` of a faculty |
+| viṣaya | sensory domain | a priori domain-principle is an Organon proposal, not the Bhāṣya's lexical gloss |
 | vijñāna | determinate sensory cognition | cognition whose material support is the corresponding faculty |
 | āśraya | support | the conditioning basis supplied by the faculty |
 | rūpa-prasāda | refined material form | sensitive derivative materiality, not merely the gross organ |
-| avijñapti | non-manifest material determination | included here but defined only in VAK 1.11 |
+| avijñapti | avijñapti | included in rūpa here; its definition belongs to VAK 1.11 |
 
 ## 8. Logical Determination
 
-VAK 1.07 identified conditioned dharmas with the five aggregates. VAK 1.08 distinguished the consequential aggregates as aggregates of clinging. VAK 1.09 now begins the internal articulation of the first aggregate:
+VAK 1.07 identified conditioned dharmas with the five aggregates. VAK 1.08 distinguished aggregates with outflows as aggregates of appropriation. VAK 1.09 now begins the internal articulation of the first aggregate:
 
 ```text
 conditioned dharmas
@@ -120,17 +122,19 @@ conditioned dharmas
             └── avijñapti
 ```
 
-The basic relation is not yet:
+The Bhāṣya establishes these source-level relations:
 
 ```text
-subject → independently constituted object
+faculty = material clarity
+faculty → supports its corresponding sensory cognition
+sensory object/domain → corresponds to that faculty
 ```
 
-It is:
+The following formalization is an Organon hypothesis about those relations:
 
 ```text
 Faculty(f) ∧ MaterialConditionOf(f, k)
-Visaya(v) ∧ AprioriDomainPrincipleOf(v, k)
+Visaya(v) ∧ ProposedDomainPrincipleOf(v, k)
 Knowing(k) ∧ ActualizesWithin(k, f, v)
 ```
 
@@ -141,32 +145,51 @@ EmpiricalContent(e) ∧ AppearsWithin(e, v)
 Visaya(v) ↛ EmpiricalContent(v)
 ```
 
-This is a reciprocal determination of the conditions of knowing, not yet a demonstrated derivation of one side from another.
+This is a proposed reciprocal determination of the conditions of knowing, not
+a derivation asserted by Vasubandhu here.
 
 ## 9. Interpretive Note
 
-The verse begins a theory of embodied cognition without reducing cognition to anatomy. A faculty belongs to rūpa, yet its definition is functional and relational: it is the refined material support of a determinate sensory cognition. Conversely, `artha` is not introduced as an absolutely external thing. Through the Bhāṣya's `viṣaya`, it becomes the domain-principle within which that faculty-cognition relation can operate.
+The verse begins an account of sensory cognition through its material
+supports. A faculty belongs to rūpa and supports a determinate sensory
+cognition. The Bhāṣya identifies each `artha` as a `viṣaya` respectively
+correlated with a faculty. A stronger account of these domains as principles
+of possible knowing belongs to the Organon comparison, not to the source
+gloss itself.
 
-This provides a disciplined Kantian hook:
+The Organon can test this Kantian comparison:
 
 ```text
 faculty
     = material condition of possible sensory cognition
 
 viṣaya
-    = a priori domain-principle of possible sensory content
+    = proposed domain-principle of possible sensory content
 
 empirical appearance
     = variable content given within that domain
 ```
 
-The `viṣaya` is therefore a Principle of Knowing before anything within it is constituted as an Object known. `Vastu` names the Thing or real basis; empirical content is given within a sensory domain; Object names the truth of the Thing achieved through synthetic comprehension. Translating `viṣaya` immediately as “object” erases this transcendental sequence.
+Within that project comparison, `viṣaya` can be treated as a Principle of
+Knowing before a determinate Object is constituted. This is an Organon
+proposal; the Bhāṣya here permits the simpler translation “sensory object”
+or “sensory domain.”
 
-The interpretation must not yet claim that the faculty unilaterally creates its domain or that their unity is already the Absolute Concept. The warranted Fichtean claim is reciprocal: faculty and domain are distinguishable poles determined within one relation of possible knowing. A full genetic derivation remains work for the subsequent analysis.
+In this Fichtean comparison, faculty and domain can be treated as
+distinguishable poles within one relation of possible knowing. A genetic
+derivation of that relation remains work for the subsequent analysis; it is
+not supplied by the kārikā or Bhāṣya here.
 
-`Avijñapti` is the critical surplus in the classification. The rūpa aggregate includes a material determination that is not ordinarily manifest. This will become central to Moral Agency because an action may cease to be displayed while a consequential determination remains operative. Here, however, the term is only included; its definition must wait for VAK 1.11.
+`Avijñapti` is an additional member of the classification. VAK 1.09 names it
+without defining it. Its later explanation in VAK 1.11 can ground the
+project's study of action and a material determination that is not ordinarily
+manifest; that account should not be read back into this enumeration.
 
 ## 10. OWL++ Seed
+
+The inventory and faculty-support triples below record the source-level
+claims. The final domain-principle triples are proposed Organon modeling and
+do not represent the Bhāṣya's definition of `viṣaya`.
 
 ```ttl
 @prefix vak: <http://127.0.0.1:3000/vak#> .
@@ -186,8 +209,11 @@ vak:SensoryFaculty
     vak:supports vak:CorrespondingSensoryCognition .
 
 vak:SensoryDomain
-    rdfs:label "a priori sensory domain-principle (artha glossed as viṣaya)" ;
-    a vak:AprioriPrincipleOfKnowing ;
-    vak:determinesPossibleContentOf vak:CorrespondingSensoryCognition ;
+    rdfs:label "sensory domain (artha glossed as viṣaya)" ;
     vak:correspondsTo vak:SensoryFaculty , vak:CorrespondingSensoryCognition .
+
+vak:ProposedDomainPrinciple
+    a vak:OrganonHypothesis ;
+    vak:proposedFor vak:SensoryDomain ;
+    vak:proposedToDeterminePossibleContentOf vak:CorrespondingSensoryCognition .
 ```

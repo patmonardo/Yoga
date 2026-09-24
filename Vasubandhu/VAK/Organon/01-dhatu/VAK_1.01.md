@@ -18,7 +18,7 @@
 |---|---|---|
 | yaḥ | yaḥ | he who |
 | sarvathā | sarvathā | in every way |
-| sarva-hata-andhakāraḥ | sarva-hata-andhakāraḥ | whose darkness is wholly destroyed |
+| sarva-hata-andhakāraḥ | sarva-hata-andhakāraḥ | whose darkness is destroyed concerning everything |
 | saṃsāra-paṅkāt | saṃsāra-paṅkāt | from the mire of saṃsāra |
 | jagat | jagat | the world |
 | ujjahāra | ujjahāra | lifted up, raised out |
@@ -42,7 +42,7 @@ The Buddha is described by two acts:
 
 ```text
 1. sarvathā sarva-hata-andhakāraḥ
-   darkness destroyed in every way
+   darkness destroyed in every way and concerning everything
 
 2. saṃsāra-paṅkāt jagat ujjahāra
    he raised the world from the mire of saṃsāra
@@ -57,11 +57,11 @@ The dative `yathārtha-śāstre` stands in apposition to `tasmai`: homage is off
 
 ## 5. Literal Translation
 
-> Having bowed to him who, with darkness destroyed in every way, raised the world from the mire of saṃsāra—to the teacher of reality—I shall proclaim the treatise, the Abhidharmakośa.
+> Having bowed to him whose darkness has been destroyed in every way and concerning everything, who raised the world from the mire of saṃsāra—to that teacher according to reality—I shall proclaim the treatise, the *Abhidharmakośa*.
 
 ## 6. Philosophical Translation
 
-> The work begins by bowing to the one whose ignorance has been wholly extinguished, who raises beings out of saṃsāric entanglement, and who is therefore the teacher according to reality. The Abhidharmakośa is then announced as the śāstra to be proclaimed.
+> The work begins by bowing to the one whose ignorance has been extinguished in every way and concerning everything, who raises beings out of saṃsāric entanglement, and who teaches according to reality. The *Abhidharmakośa* is then announced as the śāstra to be proclaimed.
 
 Organon rendering:
 

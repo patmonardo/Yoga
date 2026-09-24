@@ -251,10 +251,14 @@ next inquiry into the elements develops the material basis of the account.
 
 ## 10. Review Status
 
-Provisional eleventh study in the Bhāṣya edition. The natural unit,
-continuous Sanskrit and translation, comparison with acquisition, explicit
-Vaibhāṣika attribution, explanation of naming, and paired origins have been
-checked against the local research files and the running Sanskrit source.
+QA reviewed against the running source from the announcement of avijñapti
+at [007|29] through the summary definition at [008|09–10]. The following
+question about the great elements begins 1.12. The review confirms the
+separate distracted and mindless cases, the inclusion of an undistracted
+person with mind, the contrast with acquisition, the explicit Vaibhāṣika
+causal gloss, non-disclosure to another, and the paired origins in the
+Bhāṣya's summary. The continuous Sanskrit and translation retain this
+natural unit.
 
 The differing Devanāgarī verse opening is recorded rather than silently
 repaired in the original. The antecedent in the brief “different mind”

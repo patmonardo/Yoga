@@ -21,7 +21,7 @@
 | sāsravāḥ | sāsravāḥ | with outflows |
 | upādāna-skandhāḥ | upādāna-skandhāḥ | aggregates of appropriation/clinging |
 | te | te | they |
-| saraṇāḥ api | saraṇāḥ api | also with conflict / vulnerable course; term to review |
+| saraṇāḥ api | saraṇāḥ api | also accompanied by conflict, as explained by the Bhāṣya |
 | duḥkham | duḥkham | suffering |
 | samudayaḥ | samudayaḥ | origin / arising-source |
 | lokaḥ | lokaḥ | world |
@@ -35,7 +35,6 @@ The verse identifies the **sāsrava aggregates** as **upādāna-skandhas**:
 
 ```text
 sāsrava skandhas
-    = consequential aggregates
     = aggregates of clinging
 ```
 
@@ -53,28 +52,29 @@ These are not separate substances. They are different determinations of the appr
 
 ## 5. Literal Translation
 
-> Those which are with outflows are the aggregates of appropriation; they are also saraṇa. They are suffering, origin, world, place of view, and becoming.
+> Those aggregates which are with outflows are the aggregates of appropriation; they are also accompanied by conflict. They are suffering, origin, world, the station of views, and becoming.
 
 ## 6. Philosophical Translation
 
-> The consequential aggregates are the aggregates of clinging. The same field is suffering, origin, world, the seat of views, and becoming.
+> Aggregates with outflows are aggregates of appropriation and are accompanied by conflict. The Bhāṣya relates them to afflictions in three ways: they arise from appropriation, are governed by it, and give rise to more of it. This same field is suffering because it is adverse to the noble ones, origin because suffering arises from it, world because it breaks down, the station of views because views lie latent there, and becoming because it comes to be.
 
-Organon rendering:
+Organon rendering (project reconstruction):
 
-> When outflow settles in the aggregate-field, the aggregates become consequential: each conditioned determination directs understanding to a further condition. Clinging fixes a member of this consequential field as independently subsistent. The field is suffering as unresolved contradiction, origin as the generation of consequence, world as the field of appearance, view-place as fixed cognition, and becoming as the continuation of the series.
+> The three relations between appropriation and the aggregates form a reciprocal pattern: affliction shapes a conditioned field that can generate further affliction. “Consequential” may name this pattern in the Organon, but it is not a translation of `sāsrava`. Seeing or manifestation alone does not entail appropriation; the Bhāṣya here concerns the aggregate-field in which afflictions can lie latent.
 
 ## 7. Technical Vocabulary
 
 | Sanskrit | Project rendering | Note |
 |---|---|---|
-| sāsrava | consequential (lit. with outflows) | field from which a further consequential series proceeds |
-| upādāna | clinging / appropriation | fixation of a determination as independently subsistent |
-| upādānaskandha | aggregate of clinging | consequential aggregate-field |
-| duḥkha | suffering | unresolved contradiction in the consequential field |
-| samudaya | origin | source of further becoming |
-| loka | world | appearance-field of sāsrava aggregates |
-| dṛṣṭisthāna | place of view | support of false or fixed views |
-| bhava | becoming | ongoing conditioned existence |
+| sāsrava | with outflows | the relevant afflictions can lie latent in this field |
+| upādāna | appropriation | identified here with afflictions; cause, governor, and product in three derivations |
+| upādānaskandha | aggregate of appropriation | sāsrava aggregate; not every aggregate is one |
+| saraṇa | accompanied by conflict | afflictions injure self and others and lie latent here |
+| duḥkha | suffering | adverse to the noble ones in this derivation |
+| samudaya | origin | suffering arises from this field |
+| loka | world | explained by breaking down, following the marked `lujyata` reading |
+| dṛṣṭisthāna | station of views | views stand here through latency |
+| bhava | becoming | that which comes to be |
 
 ## 8. Logical Determination
 
@@ -89,6 +89,7 @@ conditioned aggregates
 The appropriated aggregate-field is:
 
 ```text
+saraṇa
 duḥkha
 samudaya
 loka
@@ -98,16 +99,19 @@ bhava
 
 ## 9. Interpretive Note
 
-This verse is the first explicit transformation of neutral analysis into consequential Science. The aggregate-field becomes suffering and world when it is consequential and held in clinging. `Āsrava` is therefore rendered rationally as consequence: the outflow by which understanding is moved from a conditioned determination to its further condition. The Hegelian development of a principle into its determinations is the systematic completion of this initially Kantian movement.
-
-The point is not that aggregates as such are evil. Rather:
+The Bhāṣya restricts appropriation-aggregates to aggregates with outflows; it
+does not make every conditioned aggregate an aggregate of appropriation.
+Its three derivations give a reciprocal pattern:
 
 ```text
-aggregate + consequence + clinging
-    = unresolved world-series
+appropriation → sāsrava aggregates → further appropriation
+                 ↑ governed by appropriation
 ```
 
-Seeing does not destroy the consequential field. It dissolves the clinging and fixed view-structure that prevent consequence from being comprehended as the necessary development of its principle. `Anāsrava`, the unconsequential, is consequently not an empty absence: it is the completion of the series without a further unresolved outflow.
+The Organon may study this as a reproductive structure of affliction. That is
+a project interpretation, not a claim that manifestation or seeing itself
+produces clinging. The source still distinguishes conditioned aggregates
+without outflows from this appropriated field.
 
 ## 10. OWL++ Seed
 
@@ -124,5 +128,5 @@ vak:VAK_1_08
 vak:UpadanaSkandha
     a vak:AggregateStatus ;
     rdfs:label "aggregate of clinging" ;
-    vak:hasDetermination vak:Duhkha , vak:Samudaya , vak:Loka , vak:Drstisthana , vak:Bhava .
+    vak:hasDetermination vak:Sarana , vak:Duhkha , vak:Samudaya , vak:Loka , vak:Drstisthana , vak:Bhava .
 ```

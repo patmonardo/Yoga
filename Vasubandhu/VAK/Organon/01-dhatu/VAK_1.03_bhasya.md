@@ -6,6 +6,10 @@
 >
 > kleśaiś ca bhramati bhavārṇave 'tra lokas taddhetor ata uditaḥ kilaiṣa śāstraḥ // 1.03 //
 
+The running witness ends the verse with `śāstrā`. The displayed `śāstraḥ`
+is a conjectural normalization, not an established source reading; the
+Kārikā study records the unresolved grammar.
+
 > Since there is no means for pacifying the afflictions without discrimination
 > of dharmas, and since the world wanders here in the ocean of becoming
 > through those afflictions, for that reason this treatise is said to have
@@ -28,13 +32,16 @@ to the Vaibhāṣikas.
 > sthāpito bhadantadharmatrātodānavargīyakaraṇavad ity āhur vaibhāṣikāḥ /
 > katame punas te dharmā yeṣāṃ pravicayārtham abhidharmopadeśa ity āha /
 
-This is the natural Bhāṣya unit from the questions about the purpose and first
-teacher of Abhidharma through the question that introduces VAK 1.04. Word
-division and obvious sandhi have been supplied for reading. The running
-witness has irregular forms including `yaṭa`, `saṃsāramahārṇeve 'sminan`,
-`śāstrā`, and the compressed sequence around `sthāpito bhadanta`; the
-readable text above records provisional normalization rather than a critical
-edition.
+The explanatory unit runs from the questions about the purpose and first
+teacher of Abhidharma at `[002|18]` through the Vaibhāṣika attribution at
+`[003|04]`. The final question at `[003|05]` introduces VAK 1.04 and is
+included here as a transition; its answer belongs to the next unit. Word
+division and some repairs have been supplied for reading. The running
+witness has irregular `yaṭa`, `saṃsāramahārṇeve 'sminan`, and `śāstrā` in
+both the verse and the subsequent prose. The reading text supplies `yata`,
+`saṃsāramahārṇave 'smin`, and conjectural `śāstraṃ` in that prose. It also
+divides the compressed sequence around `sthāpito bhadanta` provisionally.
+These repairs are not a critical edition.
 
 ## 3. Continuous Conventional Translation
 
@@ -127,7 +134,7 @@ The text is neither the accomplished result nor an inert container of
 information. Its stated function is to mediate the formation of a capacity in
 the disciple. The final explanation then turns from the necessity of
 instruction to its received historical form. `Ity āhur vaibhāṣikāḥ`
-explicitly marks the following as the Vaibhāṣika account:
+attributes the preceding compilation account to the Vaibhāṣikas:
 
 ```text
 the Blessed One
@@ -214,10 +221,9 @@ disciple's need for instruction, and the Vaibhāṣika account of compilation.
 
 ## 9. Review Status
 
-Provisional revised example of the final Bhāṣya-pass method. The first three
-sections retain the textual foundation without internal editorial commentary.
-The later study is concentrated on its two active topics: the necessity of
-Dharma-discrimination and the formation and transmission of that capacity.
-The natural unit and its principal determinations have been checked against
-the local research witness and running Sanskrit source; the witness's
-irregular readings remain recorded in Section 2.
+QA reviewed against the local Kārikā and Bhāṣya witnesses and the running
+Sanskrit source, `[002|18]`–`[003|05]`. The study concentrates on the
+necessity of dharma-discrimination, the disciple's need for instruction, and
+the explicitly attributed Vaibhāṣika compilation account. The uncertain
+verse ending and prose repairs remain visible in Sections 1–2. The study
+remains provisional pending further textual review.

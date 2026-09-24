@@ -24,7 +24,7 @@ sa hy avijñaptir      → saḥ hi avijñaptiḥ
 
 | Form | Morphology | Lexical force here |
 |---|---|---|
-| vikṣipta | past passive participle, substantivized within the compound | distracted; having a mind directed elsewhere |
+| vikṣipta | past passive participle, used in the compressed opening | distracted; glossed as having a different mind |
 | acittakasya | genitive singular | of one without occurrent mind |
 | api | indeclinable | even; marks the stated cases as non-restrictive |
 | yaḥ | relative pronoun, nominative masculine singular | that which; agrees with `anubandhaḥ` |
@@ -41,7 +41,7 @@ The Bhāṣya gives four lexical controls:
 
 ```text
 vikṣipta-citta  = tad-anya-citta
-                  a mind directed to something else
+                  a mind different from the one in question
 
 acittaka        = one in a mindless attainment
 
@@ -69,7 +69,7 @@ The correlative `saḥ` resumes that continuity, while the feminine
 `avijñaptiḥ` supplies its technical designation.
 
 `Vikṣipta-acittakasya` compresses the two striking conditions under which
-the continuity persists: the person may have a mind directed elsewhere or
+the continuity persists: the person may have a different mind or
 may be without occurrent mind. The genitive depends upon `anubandhaḥ`: it is
 the continuity belonging to such a person. The Bhāṣya explains the mindless
 case through the attainments of non-perception and cessation.
@@ -80,8 +80,8 @@ also when a person is conscious and undistracted.
 
 `Mahābhūtāni upādāya` is an absolutive phrase qualifying the continuity:
 it exists in dependence upon the great elements. The Vaibhāṣikas interpret
-this dependence causally because the great elements function as causes of
-its production and continuation. This phrase distinguishes avijñapti from
+this dependence causally, citing production and other causal functions
+without enumerating them here. This phrase distinguishes avijñapti from
 the comparable wholesome or unwholesome stream of acquisition
 (`prāpti-vāha`).
 
@@ -102,20 +102,27 @@ The syntactic construe is therefore:
 
 ### Bhāṣya-informed translation
 
-> Avijñapti is the wholesome or unwholesome stream of form that continues whether the mind is otherwise directed, absent, or present and undistracted; it depends causally upon the great elements and, unlike bodily or verbal manifestation, does not disclose the action to another.
+> Avijñapti is the wholesome or unwholesome stream of form that can continue when the mind is different, absent, or present and undistracted. It depends upon the great elements and, unlike manifestation, does not make something known to another. The causal construal of that dependence is explicitly Vaibhāṣika.
 
 The first translation follows the Kārikā's syntax. The second incorporates
-three explicit Bhāṣya clarifications: `anubandha` is a stream, `api` includes
-ordinary undistracted consciousness, and non-disclosure is non-manifestation
-to another rather than nonexistence or mere unconsciousness.
+the Bhāṣya's gloss of `anubandha` as a stream, its expansion of `api` to an
+undistracted person with mind, and its account of non-disclosure to another.
+The object of `vijñāpayati` is left unstated in the Sanskrit.
 
 ## 6. Philosophical Translation
 
-> The material field includes more than what is presently manifested to a perceiver. A wholesome or unwholesome determination can continue through changes or interruption of occurrent mentality while remaining causally grounded in material form. Avijñapti names this non-disclosive continuity.
+> The rūpa aggregate includes a wholesome or unwholesome material stream
+> that can continue when the present mental state changes or is absent. Its
+> dependence on the great elements distinguishes it from a similar stream
+> of acquisition. Although it has the nature of form and action, it does
+> not make something known to another as manifestation does.
 
-Organon rendering:
+Organon rendering (project reconstruction):
 
-> Disclosure does not exhaust determination. An action may cease to appear as bodily or verbal expression while its ethical form continues. Avijñapti is therefore not an invisible object added behind appearance, but the continuing, non-disclosive determination of action within the rūpa-domain.
+> Disclosure does not exhaust determination. An action may cease to appear as
+> bodily or verbal expression while its ethical form continues. Avijñapti
+> can be studied as a continuing, non-disclosive determination of action
+> within the rūpa aggregate.
 
 The Bhāṣya summarizes avijñapti as wholesome or unwholesome form produced
 from either disclosure (`vijñapti`) or meditative concentration (`samādhi`).
@@ -125,17 +132,17 @@ The concept is therefore broader than a residue left by outward action.
 
 | Sanskrit | Project rendering | Determination |
 |---|---|---|
-| avijñapti | non-disclosive form | wholesome or unwholesome rūpa that does not manifest an action to another |
-| vijñapti | disclosure / manifest action | bodily or verbal action insofar as it makes something known to another |
+| avijñapti | non-disclosive form | wholesome or unwholesome rūpa that does not make something known to another as manifestation does |
+| vijñapti | manifestation / disclosure | the contrasting mode that makes something known to another |
 | anubandha | continuing stream | temporal continuity; explicitly glossed as `pravāha` |
 | pravāha | stream | a series, not a single static deposit |
-| vikṣipta-citta | otherwise-directed mind | a present mind different from that associated with the originating act or discipline |
+| vikṣipta-citta | different mind | `tadanyacitta`; the local gloss does not specify the originating act |
 | acittaka | without occurrent mind | exemplified by the attainments of non-perception and cessation |
 | kuśala / akuśala | wholesome / unwholesome | the ethical determination of the stream itself |
-| mahābhūta | great element | causal material basis upon which avijñapti depends |
+| mahābhūta | great element | material basis upon which avijñapti depends; the Vaibhāṣikas read the relation causally |
 | upādāya | depending upon | read causally by the Vaibhāṣikas |
-| prāpti-vāha | stream of acquisition | rival ethical continuity distinguished from avijñapti by the latter's dependence on the great elements |
-| vijñapti-saṃbhūta | produced from disclosure | avijñapti originating from bodily or verbal manifestation |
+| prāpti-vāha | stream of acquisition | similar ethical continuity distinguished from avijñapti by the latter's elemental dependence |
+| vijñapti-saṃbhūta | produced from manifestation | one origin named in the Bhāṣya's summary |
 | samādhi-saṃbhūta | produced from concentration | avijñapti originating from meditative concentration |
 
 ## 8. Logical Determination
@@ -157,12 +164,16 @@ WholesomeOrUnwholesome(x)
 ∧ ContinuesAsStream(x)
     ↛ Avijñapti(x)
 
-WholesomeOrUnwholesome(x)
-∧ ContinuesAsStream(x)
-∧ DependsOnGreatElements(x)
-∧ DoesNotDiscloseToAnother(x)
-    → Avijñapti(x)
+Avijñapti(x)
+    → WholesomeOrUnwholesome(x)
+    ∧ ContinuesAsStream(x)
+    ∧ DependsOnGreatElements(x)
+    ∧ DoesNotDiscloseToAnother(x)
 ```
+
+This records properties the verse and Bhāṣya ascribe to avijñapti; it does
+not claim that those properties alone define every case in the wider system.
+The Bhāṣya's summary also names origin from manifestation or samādhi.
 
 Its range across mental conditions is:
 
@@ -181,23 +192,26 @@ vijñapti ──┐
 samādhi ───┘
 ```
 
-The decisive distinction is functional:
+The summary does not distribute both ethical qualities across both origins
+in every possible combination.
+
+The contrast concerning disclosure is:
 
 ```text
 vijñapti
-    = action as disclosure to another
+    = manifestation that makes something known to another
 
 avijñapti
-    = action-form continuing without such disclosure
+    = material action-form without such disclosure
 ```
 
 ## 9. Interpretive Note
 
-This verse completes the account of the rūpa aggregate begun in VAK 1.09.
-Its importance is methodological: classification must include a determination
-that is real within the Abhidharma system although it is not an immediately
-displayed sensory object. The rūpa-domain is therefore not identical with a
-heap of outward appearances.
+This verse completes the three-part inventory of the rūpa aggregate begun in
+VAK 1.09. The Bhāṣya gives avijñapti the status of material form and action
+while distinguishing it from an outward manifestation. The rūpa aggregate
+therefore includes a member that does not make something known to another in
+the way `vijñapti` does.
 
 Avijñapti should not be psychologized as a memory, intention, or unconscious
 idea. The Bhāṣya insists that it has the nature of form and action, depends
@@ -213,13 +227,16 @@ what is outwardly disclosed
 what is determinately operative
 ```
 
-Dhātu analysis must consequently comprehend both manifest relation and
-non-manifest determination. VAK 1.11 contributes to the sattvic exposition
-not by naming “Buddha Mind,” but by training cognition to distinguish a
-domain's intelligible structure from whatever happens to be outwardly
-visible within it.
+For the Organon study, the passage makes present mental activity, material
+continuity, and disclosure to another separate questions. Applying this
+distinction to learning or agency is a project comparison; the Bhāṣya does
+not identify avijñapti with memory or acquired understanding.
 
 ## 10. OWL++ Seed
+
+The source-grounded triples record stream, ethical quality, elemental
+dependence, and non-disclosure. The contrast with memory and a static residue
+is interpretive and is kept outside the source-level seed.
 
 ```ttl
 @prefix vak: <http://127.0.0.1:3000/vak#> .
@@ -235,17 +252,16 @@ vak:Avijnapti
     a vak:NonDisclosiveForm ;
     rdfs:label "avijñapti: non-disclosive form" ;
     vak:hasTemporalForm vak:Stream ;
-    vak:hasEthicalPolarity vak:Wholesome , vak:Unwholesome ;
+    vak:hasPossibleEthicalQuality vak:Wholesome , vak:Unwholesome ;
     vak:dependsOn vak:GreatElements ;
     vak:mayAriseFrom vak:Disclosure , vak:MeditativeConcentration ;
     vak:doesNotDiscloseTo vak:AnotherKnower ;
     vak:belongsTo vak:RupaSkandha .
 
 vak:Avijnapti
-    vak:distinctFrom vak:StreamOfAcquisition , vak:MereMemory ,
-        vak:StaticKarmicResidue .
+    vak:distinctFrom vak:StreamOfAcquisition .
 
 vak:Disclosure
-    rdfs:label "vijñapti: manifest bodily or verbal action" ;
+    rdfs:label "vijñapti: manifestation" ;
     vak:disclosesTo vak:AnotherKnower .
 ```

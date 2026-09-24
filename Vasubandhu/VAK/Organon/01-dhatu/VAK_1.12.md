@@ -106,17 +106,24 @@ explains through growth and spreading; mere “motion” is too narrow.
 
 ## 6. Philosophical Translation
 
-> Material manifestation is grounded in four irreducible domains. Earth sustains, water gathers, fire matures, and wind expands. Each domain is known both through what it does within a material complex and through its own characteristic determination.
+> The four great elements support other material form. Earth sustains and is
+> characterized by hardness; water gathers and is characterized by
+> cohesiveness; fire matures and is characterized by heat; wind expands and
+> is characterized by impulsion. Function and own-nature are related, but
+> the Bhāṣya states them in separate lists.
 
-Organon rendering:
+Organon rendering (project reconstruction):
 
-> The elements are not first presented as outward masses or inert stuffs. A mahābhūta is a sustaining domain: it holds its own characteristic and supports derivative material form. Materiality becomes intelligible through the coordinated determinations of support, cohesion, maturation, and expansion.
+> The elemental dhātus can be studied as sustaining conditions of material
+> form. Their characteristics and functions must both enter an account of
+> material determination. “Domain” is the project's rendering of `dhātu`
+> here; the Bhāṣya itself explains the term through sustaining.
 
 The Bhāṣya explains `dhātu` here through `dhāraṇa`, sustaining. It explains
-“great” through the elements' support of all other material form and through
-their gross prominence. Ordinary masses called earth, water, fire, and wind
-are derivative formations in which the corresponding elemental domain is
-especially concentrated.
+“great” first through magnitude as support of all other material form, then
+offers an alternative account based on their extensive presence in masses
+called earth, water, fire, and wind. The precise relation between those
+ordinary masses and the elemental dhātus becomes the question of VAK 1.13.
 
 ## 7. Technical Vocabulary
 
@@ -136,7 +143,7 @@ especially concentrated.
 | sneha | cohesiveness | intrinsic characteristic of the water-domain |
 | uṣṇatā | heat | intrinsic characteristic of the fire-domain |
 | īraṇā | impulsion | intrinsic characteristic of the wind-domain |
-| bhūta-srotas | material stream | continuum produced successively in another location through impulsion |
+| bhūta-srotas | stream of elements | described as impelled through production in another place; the lamp flame is the example |
 
 ## 8. Logical Determination
 
@@ -170,27 +177,28 @@ fire   : maturation ↔ heat
 wind   : expansion  ↔ impulsion
 ```
 
-The relation between domain and ordinary elemental mass is not identity:
+The Bhāṣya names elemental dhātus and ordinary masses in this unit but
+reserves their precise difference for VAK 1.13. Here it supplies an
+alternative explanation of greatness through extensive presence in those
+masses:
 
 ```text
-ElementalDomain(x)
-    ≠ OrdinaryVisibleMass(x)
-
-OrdinaryElementalMass(m)
-    → DerivativeFormation(m)
-    ∧ PredominanceOf(m, ElementalDomain)
+great elements
+    → support other material form
+    or, in the alternative explanation,
+    → have extensive presence in elemental masses
 ```
 
 Wind makes the process-character especially clear:
 
 ```text
-material stream at location A
-    → impulsion
-    → successive production at location B
+impulsion
+    → elemental stream produced in another place
+    → lamp-flame comparison
 ```
 
-The lamp-flame example therefore analyzes movement as ordered continuation
-through successive production.
+This describes the wind dhātu's impulsion in the local argument. A general
+theory of motion or momentariness is not stated here.
 
 ## 9. Interpretive Note
 
@@ -199,37 +207,36 @@ question is inherited directly from the preceding verse: if avijñapti is
 form dependent upon the great elements, what are those elements? The answer
 places even non-disclosive form within an articulated elemental ground.
 
-This establishes a decisive order inside the rūpa analysis:
+The local sequence inside the rūpa analysis is:
 
 ```text
-sensory faculties and sensory domains
-    + avijñapti
-        ↓ depend upon
-four elemental domains
-        ↓ support
-derivative material manifestation
+1.09–1.11: faculties, sensory objects, and avijñapti
+1.12: the four great elements invoked as material basis
+Bhāṣya: the elements sustain their own-characteristics and derived form
 ```
 
-For the comparative Organon, this is the point at which the Sāṃkhya
-distinction may be introduced cautiously. A `tanmātra` is not a tiny sensed
-object but the supersensible principle of a determinate sensory quality; a
-`mahābhūta` is that determination in manifest elemental organization. The
-Kośa does not state this Sāṃkhya derivation, so it must not enter the primary
-translation. It supplies a controlled comparison for understanding why the
-sensory domain is conceptually prior to the gross element.
+For the comparative Organon, the four functions can be studied with the
+four own-natures as two related determinations of material form. The Bhāṣya's
+wind example gives a precise relation: a function makes an own-nature
+evident. An account of the whole material field cannot simply replace one
+list with the other.
 
 Avijñapti occupies the hinge. It belongs to rūpa and depends on the elements,
-yet it is not outwardly disclosed as a sensory object. It therefore prevents
-the passage from sensory determination to elemental manifestation from
-being mistaken for a descent into merely external things.
+yet it does not make something known to another as manifestation does. The
+four-element analysis supplies a material basis for this non-disclosive form
+without identifying it with an ordinary sensory object.
 
-“First manifest world” may become an Organon determination of this threshold,
-but “heaven” would presently say more than the Kārikā or Bhāṣya establishes.
-The warranted result at VAK 1.12 is exact: the inwardly articulated rūpa-field
-has an elemental ground, and that ground consists of sustaining functional
-domains rather than four self-subsistent external substances.
+The project's possible comparison with Sāṃkhya `tanmātra` and `mahābhūta`
+requires its own argument. This verse does not state that derivation or
+establish a conceptual priority of sensory domains over the great elements.
+The source-level conclusion is that the four dhātus sustain derived form and
+have distinguishable functions and own-natures.
 
 ## 10. OWL++ Seed
+
+The element inventory, functions, and own-natures below reflect the Bhāṣya.
+`SustainingDomain` is an Organon rendering of the source's explanation of
+`dhātu` through sustaining.
 
 ```ttl
 @prefix vak: <http://127.0.0.1:3000/vak#> .

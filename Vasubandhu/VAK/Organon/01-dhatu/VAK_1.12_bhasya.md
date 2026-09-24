@@ -254,10 +254,14 @@ without treating all forms of disclosure as the same operation.
 
 ## 10. Review Status
 
-Provisional twelfth study in the Bhāṣya edition. The natural boundary,
-continuous Sanskrit and translation, derivation of dhātu, explanations of
-greatness, two fourfold lists, and concluding wind discussion have been
-checked against the local research witnesses and running Sanskrit.
+QA reviewed against the running Sanskrit from the question about the great
+elements at [008|11] through the explanation of wind at [008|24–25]. The
+following question about conventional earth and the earth-dhātu opens 1.13.
+The review confirms the explanation of `dhātu` through sustaining, the two
+accounts of greatness, the separate fourfold lists of function and
+own-nature, and the distinction between wind's impulsion and derived
+lightness. The continuous Sanskrit and translation preserve the natural
+unit.
 
 The readings of `tadudbhūtavṛttiṣu`, `laghusamudīraṇatvam`, and the English
 nuance of `sneha` remain marked for review. The question concerning

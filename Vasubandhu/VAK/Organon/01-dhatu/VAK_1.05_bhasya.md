@@ -24,11 +24,13 @@ through the unobstructed movement of material form.
 > uddiṣṭam / tatrākāśam anāvṛtiḥ / anāvaraṇasvabhāvam ākāśaṃ yatra
 > rūpasya gatiḥ /
 
-This is the natural unit from the question concerning the anāsrava dharmas
-through the definition of space. Word division and obvious sandhi have been
-supplied for reading. The running witness has `anasravāḥ`, `katamattri
-vidham`, and other joined forms; the readable text above provisionally
-normalizes them without claiming a critical edition.
+This unit begins with the question concerning the anāsrava dharmas at
+`[003|15]` and closes with the definition of space at `[003|23]`. The next
+line opens the account of the first cessation in 1.06. Word division and
+editorial repairs have been supplied for reading. The running witness has
+`anasravāḥ` and `katamattri vidham`; the reading text supplies `anāsravāḥ`
+and `katamat trividham`. These are provisional repairs, not a critical
+edition.
 
 ## 3. Continuous Conventional Translation
 
@@ -157,10 +159,8 @@ meaning as already stated by Vasubandhu.
 
 ## 9. Review Status
 
-Provisional fifth example of the final Bhāṣya-pass method. The first three
-sections provide the textual foundation without internal editorial
-commentary. The later study is concentrated on the two-axis constitution of
-the anāsrava field and the bounded definition of space. The natural boundary
-and principal determinations have been checked against the local research
-witness and running Sanskrit source; the definitions of the two cessations
-remain for 1.06.
+QA reviewed against the local Kārikā and Bhāṣya witnesses and the running
+Sanskrit source, `[003|15]`–`[003|23]`. The study preserves the distinct
+conditioned and outflow axes and the bounded definition of space as
+non-obstruction. The two cessations are named here; their definitions remain
+for 1.06. The study is provisional pending further textual review.

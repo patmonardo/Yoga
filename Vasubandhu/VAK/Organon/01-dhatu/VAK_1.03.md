@@ -12,6 +12,13 @@
 >
 > kleśaiś ca bhramati bhavārṇave 'tra lokas taddhetor ata uditaḥ kilaiṣa śāstraḥ // 1.03 //
 
+The running Sanskrit witness reads `śāstrā` at the end of this verse.
+`Śāstraḥ` above is an editorial conjecture, not a reading established by that
+witness. It fits `uditaḥ` and `eṣaḥ` formally, but `śāstra` is ordinarily
+neuter; the exact ending remains unsettled. The Devanāgarī line reflects the
+same conjecture. The translation conveys the contextual sense without
+claiming that the transmitted ending has been resolved.
+
 ## 3. Lexical Analysis
 
 ```text
@@ -35,7 +42,7 @@ taddhetor → tad-dhetoḥ                 kilaiṣa → kila eṣaḥ
 | tad-dhetoḥ / ataḥ | ablatival expressions | for that reason / therefore |
 | uditaḥ | past participle, nominative singular | taught, declared |
 | kila | particle | reportedly; according to the received account |
-| eṣaḥ śāstraḥ | nominative singular | this treatise |
+| eṣaḥ śāstraḥ | nominative singular in the conjectural reading | this treatise; transmitted `śāstrā` remains unsettled |
 
 ## 4. Grammar
 

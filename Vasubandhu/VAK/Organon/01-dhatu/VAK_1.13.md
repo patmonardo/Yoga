@@ -107,16 +107,24 @@ technical distinction with an ontology of hidden substances.
 
 ## 6. Philosophical Translation
 
-> Ordinary cognition names an elemental thing through the appearance it can indicate. Dharma analysis instead distinguishes that presented complex from the characteristic and function by which an elemental domain is determined. Wind shows that the two levels can coincide without becoming identical in principle.
+> Ordinary usage calls visible color and configuration “earth,” “water,” or
+> “fire.” It can call the wind-dhātu itself “wind,” while also naming visible
+> color and configuration as wind. The Bhāṣya then asks what unifies the
+> entire rūpa aggregate, including avijñapti, under one designation.
 
-Organon rendering:
+Organon rendering (project reconstruction):
 
-> Worldly designation fixes the name upon what appears; dhātu-analysis determines the domain through which the appearance is intelligible. The domain is real without being another sensible thing concealed behind the appearance. Like a mathematical determination, it is objective through its lawful role rather than through independent visibility.
+> Worldly naming and technical determination can refer to the same
+> situation under different relations. Wind prevents a simple rule that
+> every worldly name designates only an appearance. The ensuing debate
+> tests whether the proposed definition of rūpa really reaches each member
+> of the aggregate, especially non-disclosive avijñapti.
 
 The Bhāṣya then asks why the entire series from the five faculties through
-avijñapti is called `rūpa`. Its answer is `raupaṇa`: rūpa is susceptible to
-being affected, disturbed, or altered. Materiality is determined through
-conditional transformability, not merely through visibility.
+avijñapti is called `rūpa`. It proposes `raupaṇa`, being affected, and
+explains the affecting of material form as production of alteration. A
+second account, attributed to others, appeals to obstruction. The rest of
+the unit tests how far these accounts can extend.
 
 ## 7. Technical Vocabulary
 
@@ -139,12 +147,16 @@ conditional transformability, not merely through visibility.
 
 ## 8. Logical Determination
 
-The first distinction is not between an apparent object and a second hidden
-object:
+The kārikā and Bhāṣya first distribute ordinary designation and technical
+determination asymmetrically:
 
 ```text
-WorldlyDesignation(x, n)
-    → NamesThroughPresentedColorAndConfiguration(x, n)
+earth / water / fire as worldly names
+    → visible color and configuration
+
+wind as worldly name
+    → wind-dhātu itself
+    → also visible color and configuration in some usages
 
 DhatuDetermination(d)
     → HasIntrinsicCharacteristic(d, s)
@@ -161,49 +173,53 @@ earth-domain
     = hardness functioning as support
 
 ordinary earth ≠ earth-domain
-ordinary earth depends upon earth-domain
 ```
 
-The Bhāṣya's definition of rūpa introduces a second determination:
+The Bhāṣya proposes and tests a common criterion for the rūpa aggregate:
 
 ```text
-Rupa(x)
-    → SusceptibleToConditionalAlteration(x)
+proposed: rūpa is susceptible to being affected
+local gloss: affecting of rūpa = production of alteration
+others' account: obstruction by material form
 ```
 
 Objections test its range:
 
 ```text
 isolated atom?
-    → reply: no separately functioning material atom
+    → reply: no separately existing single material atom;
+      the atom is affected within an aggregate
 
 past and future form?
     → affected / to-be-affected / belonging to the same kind
 
 avijñapti?
-    → neither visibly struck nor altered like gross form
-    → dependence upon mahābhūtas proposed and contested
+    → being affected through manifestation is proposed, then rejected
+    → classification through affected elemental support is debated
 ```
 
-The avijñapti debate exposes two different dependence relations:
+The avijñapti debate distinguishes proposed explanations from objections:
 
 ```text
-avijñapti
-    → claimed continuous dependence upon elemental support
+shadow/tree and radiance/jewel analogy
+    → rejected: their material basis and cessation conditions differ
 
-sensory vijñāna
-    → faculty is a condition for its arising
-    ↛ vijñāna is material
+final reply by others
+    → cognition has differentiated supports, including mind;
+      avijñapti does not have that same range of supports
 ```
 
-This yields a categorical constraint:
+The cognition objection also establishes a limit on the proposed support
+criterion:
 
 ```text
 DependsForArising(cognition, materialFaculty)
     ↛ Material(cognition)
 ```
 
-Relation does not abolish difference between cognition and material support.
+The final differentiated-support reply is reported as another position. It
+does not reinstate the rejected analogies or give an unrestricted theory of
+how every later moment of avijñapti is supported.
 
 ## 9. Interpretive Note
 

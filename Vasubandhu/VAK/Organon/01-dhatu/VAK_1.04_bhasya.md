@@ -25,12 +25,14 @@ outflow from the field in which an outflow can settle.
 > yathā 'tra nānuśerate tat paścād anuśayanirdeśa eva jñāpayiṣyāmaḥ /
 > uktāḥ sāsravāḥ /
 
-This is the natural unit from the question carried forward by 1.03 through
-the completion of the account of dharmas with outflows. Word division and
-obvious sandhi have been supplied for reading. The running witness has
-`samāsanirddeśa`, `na tinuśerate`, and `sāsravatvaprasañgaḥ`; the readable
-text above provisionally normalizes these forms without claiming a critical
-edition.
+This unit takes up the transition question at `[003|05]`, also noted at the
+close of the 1.03 study, and runs through `uktāḥ sāsravāḥ` at `[003|14]`.
+The next question at `[003|15]` begins the account of dharmas without
+outflows. Word division and editorial repairs have been supplied for
+reading. The running witness has `samāsanirddeśa`, `na tinuśerate`, and
+`sāsravatvaprasañgaḥ`; the reading text supplies `samāsanirdeśa`,
+`na tv anuśerate`, and `sāsravatvaprasaṅgaḥ`. These are provisional repairs,
+not a critical edition.
 
 ## 3. Continuous Conventional Translation
 
@@ -60,8 +62,8 @@ Which dharmas are to be discriminated?
         → conditioned dharmas excluding the Truth of the Path
     → why?
         → outflows settle and continue within them
-    → objection: outflows also take cessation and Path as objects
-    → reply: taking as object is not settling within
+    → concession: outflows also take cessation and Path as objects
+    → qualification: taking as object is not settling within
     → full proof deferred to the Anuśayanirdeśa
 ```
 
@@ -101,10 +103,10 @@ enumerate all dharmas without outflows; that becomes the work of 1.05.
 
 ## 6. Object and Lodging
 
-The anticipated objection observes that outflows can arise while taking the
+The concession observes that outflows can arise while taking the
 Truth of Cessation or the Truth of the Path as their object. If object-relation
 were sufficient, both truths would have to be classified as with outflows.
-The reply blocks that inference:
+The next clause blocks that inference:
 
 ```text
 an outflow takes x as object
@@ -134,8 +136,9 @@ The commentary controls the final reading in four ways:
    field in which an outflow settles.
 
 The anchor translation includes the specification of the Path and the
-stronger rendering of `samanuśerate`. The objection, its reply, and the
-cross-reference to Chapter 5 remain Bhāṣya determinations.
+stronger rendering of `samanuśerate`. The concession, its qualification, and
+the cross-reference to Chapter 5 remain Bhāṣya determinations. No separate
+objector is marked in the Sanskrit.
 
 ## 8. Philosophical and Organon Study
 
@@ -167,10 +170,9 @@ difference between object and lodging.
 
 ## 9. Review Status
 
-Provisional fourth example of the final Bhāṣya-pass method. The first three
-sections provide the textual foundation without internal editorial
-commentary. The later study is concentrated on the comprehensive division
-and the distinction between object and lodging. The natural boundary and
-principal determinations have been checked against the local research witness
-and running Sanskrit source; the full theory of non-settling remains
-explicitly deferred to the Anuśayanirdeśa.
+QA reviewed against the local Kārikā and Bhāṣya witnesses and the running
+Sanskrit source, `[003|05]`–`[003|14]`. The study preserves the comprehensive
+division and the distinction between taking an object and lodging in it.
+Witness repairs remain explicit in Section 2; the full account of
+non-settling remains deferred to the Anuśayanirdeśa. The study is
+provisional pending further textual review.

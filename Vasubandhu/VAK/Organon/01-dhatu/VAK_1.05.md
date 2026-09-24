@@ -56,13 +56,17 @@ The names of the two cessations are supplied by the Bhāṣya and defined in 1.0
 
 ## 6. Philosophical Translation
 
-> The unconsequential and the unconditioned are distinct determinations. The Path is conditioned yet unconsequential: it completes the consequential series without producing a further unresolved outflow. The three unconditioned dharmas are likewise unconsequential. Space is defined exactly by non-obstruction of material movement.
+> Being without outflows and being unconditioned are distinct determinations. The Truth of the Path is conditioned yet without outflows; space and the two cessations are unconditioned and without outflows. Space is non-obstruction, explained by the Bhāṣya as allowing material form to move.
+
+Organon rendering (project reconstruction):
+
+> “Unconsequential” is a proposed logical analogy for `anāsrava`, not its translation. The Path is conditioned yet does not lodge outflows; the three unconditioned dharmas likewise do not lodge them. This analogy must retain the distinct conditioned status of the Path and the unconditioned three.
 
 ## 7. Technical Vocabulary
 
 | Sanskrit | Rendering | Determination |
 |---|---|---|
-| anāsrava | unconsequential (lit. without outflows) | no further unresolved outflow proceeds from it |
+| anāsrava | without outflows | outflows do not settle within these dharmas; “unconsequential” is the Organon analogy above |
 | mārga-satya | Truth of the Path | conditioned and anāsrava |
 | asaṃskṛta | unconditioned | space and the two cessations |
 | ākāśa | space | non-obstruction |
@@ -74,7 +78,7 @@ The names of the two cessations are supplied by the Bhāṣya and defined in 1.0
 
 Two axes must remain independent:
 
-| Dharma class | Conditioned? | Consequential (with outflows)? |
+| Dharma class | Conditioned? | With outflows? |
 |---|---:|---:|
 | ordinary conditioned dharmas | yes | yes |
 | Path-truth | yes | no |
@@ -86,7 +90,7 @@ Two axes must remain independent:
 
 ## 9. Interpretive Note
 
-The Kośa begins comprehension through intersecting predicates rather than a single metaphysical division. “Conditioned” does not entail “consequential,” and `anāsrava` does not mean “unconditioned.” Unconsequential means complete without further unresolved consequence, not sterile or devoid of efficacy. The earlier seed's language of an unlimited “opened field” is therefore restricted here to the Bhāṣya's concrete determination of space.
+The Kośa begins comprehension through intersecting predicates rather than a single metaphysical division. “Conditioned” does not entail “with outflows,” and `anāsrava` does not mean “unconditioned.” The Organon analogy of “unconsequential” names an interpretation of this distinction; it is not Vasubandhu's term. A broader image of space as an unlimited “opened field” must remain a project analogy, bounded here by the Bhāṣya's concrete account of material movement.
 
 ## 10. OWL++ Seed
 

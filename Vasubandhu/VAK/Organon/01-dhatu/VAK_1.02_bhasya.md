@@ -35,11 +35,14 @@ remain distinct.
 > 'bhidharma etasyāśrayabhūtaḥ śāstrasya / tato hy etan nirākṛṣṭam /
 > ataḥ sa evāsyābhidharmaḥ kośa ity etac chāstram abhidharmakośam /
 
-This is the natural unit from the question “What is Abhidharma?” through the
-two explanations of the title. Word division and evident sandhi resolution
-have been supplied for reading. The running witness ends with the irregular
-`abhidharmavarmakośam`; the translation follows the contextually secure
-`abhidharmakośam` while retaining the source irregularity here for review.
+This is the natural unit from the question “What is Abhidharma?” at `[002|02]`
+through the two explanations of the title at `[002|17]`. The next question,
+at `[002|18]`, opens the unit for 1.03. Word division and evident sandhi
+resolution have been supplied for reading. The running witness has
+`sa cāśrayo syety` in the verse citation and ends with the irregular
+`abhidharvarmakośam`. The reading text supplies `sa cāśrayo 'syety` and
+the contextually secure `abhidharmakośam`; neither repair is directly
+attested in those places of the running witness.
 
 ## 3. Continuous Conventional Translation
 
@@ -57,8 +60,8 @@ have been supplied for reading. The running witness ends with the irregular
 > also called Abhidharma because it serves as equipment for it.
 >
 > As for the derivation: a dharma is so called because it bears its own
-> characteristic. This dharma is directed either toward the ultimate dharma,
-> nirvāṇa, or toward the characteristics of dharmas; hence it is called
+> characteristic. This dharma, directed either toward the ultimate dharma,
+> nirvāṇa, or toward the characteristics of dharmas, is therefore called
 > Abhidharma.
 >
 > Abhidharma has been explained. But how is this treatise an
@@ -269,9 +272,10 @@ conventional Abhidharma, prajñā, śāstra, and the two derivations of `kośa`.
 
 ## 12. Review Status
 
-Provisional second example of the final Bhāṣya-pass method. The natural unit,
-continuous translation, ultimate/conventional distinction, four forms of
-prajñā, `saṃbhāra` relation, etymologies of `dharma` and `abhidharma`, and
-both derivations of `kośa` have been checked against the local research
-witness and the running Sanskrit source. The running source's final
-`abhidharmavarmakośam` remains recorded as a textual irregularity.
+QA reviewed against the local Kārikā and Bhāṣya witnesses and the running
+Sanskrit source, `[002|02]`–`[002|17]`. The ultimate/conventional distinction,
+four forms of prajñā, `saṃbhāra` relation, etymologies of `dharma` and
+`abhidharma`, and both derivations of `kośa` remain distinct. The running
+source's irregular `abhidharvarmakośam` and the reading-text repairs are
+recorded in Section 2. The study remains provisional pending further textual
+review.

@@ -36,17 +36,20 @@ teacher according to reality.
 > abhyuddhṛtavān / iti ya evam ātmaparahitapratipattisaṃpadā yuktas
 > tasmai namaskṛtyeti śirasā praṇipatya / yathārtham aviparītaṃ śāstīti
 > yathārthaśāstā / anena parahitapratipattyupāyam asyāviṣkaroti /
-> yathābhūtaśāsanāc chāstā bhavan sa saṃsārapaṅkājjagad ujjahāra na tv
+> yathābhūtaśāsanāc chāstā bhavann asau saṃsārapaṅkājjagad ujjahāra na tv
 > ṛddhivarapradānaprabhāveṇeti / tasmai namaskṛtya kiṃ kariṣyāmīty āha
 > śāstraṃ pravakṣyāmi / śiṣyaśāsanāc chāstram / katamac chāstram ity
 > āha abhidharmakośam /
 
 This presents the natural Bhāṣya unit from the intention to compose the
-treatise through its identification as the *Abhidharmakośa*. Word division
-and obvious sandhi have been supplied for reading. The running witness has
-minor irregular forms, including `pratyaikabuddha`,
-`bhūtārthadarśanapratibandhādhakāram`, and `bhavanntasau`; no substantive
-decision rests on silently treating those forms as authoritative readings.
+treatise through its identification as the *Abhidharmakośa* at `[002|02]`;
+the next question begins a new unit. Word division and obvious sandhi have
+been supplied for reading. The running witness has irregular
+`pratyaikabuddha`, `bhūtārthadarśanapratibandhādhakāram`, `tatha hy`, and
+`bhavanntasau`. The reading text supplies `pratyekabuddha`,
+`bhūtārthadarśanapratibandhāndhakāram`, `tathā hy`, and `bhavann asau`
+respectively. The last is a grammatical repair of an uncertain witness form,
+not a reading directly attested there.
 
 ## 3. Continuous Conventional Translation
 
@@ -89,8 +92,8 @@ decision rests on silently treating those forms as authoritative readings.
 > therefore the teacher according to reality. This expression reveals the
 > means by which he accomplishes the benefit of others. It was by teaching
 > things as they really are that he became the Teacher and raised the world
-> from the mire of saṃsāra, not through the power of granting miraculous
-> favors.
+> from the mire of saṃsāra, not through the power of supernormal feats or
+> the granting of boons.
 >
 > What will Vasubandhu do after bowing to him? He says, “I shall proclaim the
 > treatise.” It is called a `śāstra` because it instructs disciples. Which
@@ -184,7 +187,7 @@ means of that benefit
     = teaching things as they really are
 
 rejected means
-    = granting liberation through miraculous power or favors
+    = supernormal feats or the granting of boons
 ```
 
 The mire image is similarly controlled: saṃsāra is where beings become stuck
@@ -214,10 +217,12 @@ not express:
 ```text
 the Buddha raised the world
     → through instruction according to reality
-    → not through the bestowal of miraculous liberation
+    → not through supernormal feats or the granting of boons
 ```
 
-The anchor translation incorporates the grammatical decision. The means by
+The anchor translation incorporates the grammatical decision. The Kārikā
+study also now renders both `sarvathā` and `sarva`, which the previous literal
+translation compressed into “in every way.” The means by
 which the Buddha raises beings remains a Bhāṣya determination and is not
 inserted into the words of the Kārikā. Likewise, the distinctions between
 afflicted and non-afflicted ignorance and between the two accomplishments
@@ -243,10 +248,9 @@ the capacities of those taught.
 
 ## 9. Review Status
 
-Provisional revised example of the final Bhāṣya-pass method. The first three
-sections retain the textual foundation without internal editorial commentary.
-The later study is concentrated on its two active topics: complete destruction
-of ignorance and liberation through instruction. The natural unit and its
-principal determinations have been checked against the local research witness
-and running Sanskrit source; the minor witness irregularities remain recorded
-in Section 2.
+QA reviewed against the local Kārikā and Bhāṣya witnesses and the running
+Sanskrit source, `[001|08]`–`[002|02]`. The first three sections give the
+textual foundation; the later study concentrates on complete destruction of
+ignorance and liberation through instruction. The witness repairs remain
+explicit in Section 2. The study remains provisional pending further textual
+review.

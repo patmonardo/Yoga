@@ -23,8 +23,8 @@
 | saḥ eva | saḥ eva | that very same |
 | adhvā | adhvā | temporal course |
 | kathā-vastu | kathā-vastu | basis of discourse |
-| sa-niḥsārāḥ | sa-niḥsārāḥ | with a process of going-out / release-context |
-| sa-vastukāḥ | sa-vastukāḥ | with real basis |
+| sa-niḥsārāḥ | sa-niḥsārāḥ | possessed of an exit; the Bhāṣya identifies it as nirvāṇa |
+| sa-vastukāḥ | sa-vastukāḥ | possessed of causes, under the local Vaibhāṣika gloss of `vastu` |
 
 ## 4. Grammar
 
@@ -36,19 +36,22 @@ saṃskṛtā dharmāḥ
     = the five aggregates beginning with form
 ```
 
-The same conditioned field is then described as temporal course, basis of discourse, and real basis.
+The same conditioned field is then described as the temporal courses, basis of
+discourse, possessed of an exit, and possessed of causes. The last rendering
+follows the Vaibhāṣika gloss reported by the Bhāṣya; it does not set a
+universal meaning for `vastu`.
 
 ## 5. Literal Translation
 
-> Those conditioned dharmas, again, are the five aggregates beginning with form. That very same [set] is temporal course, basis of discourse, with niḥsāra, and with real basis.
+> Those conditioned dharmas, again, are the five aggregates beginning with form. Those very same dharmas are the temporal courses, the basis of discourse, possessed of an exit, and possessed of a basis (`vastu`).
 
 ## 6. Philosophical Translation
 
-> Conditioned dharmas are the five aggregates beginning with rūpa. The same aggregate-field is also the temporal course, the basis upon which discourse operates, and a real basis for analysis.
+> Conditioned dharmas are the five aggregates beginning with material form. The same dharmas are the temporal courses and the basis of meaningful discourse; they possess nirvāṇa as their exit and, under the Vaibhāṣika explanation reported here, causes as their `vastu`.
 
 Organon rendering:
 
-> The conditioned field is not an abstract list. It is aggregate-structure, temporal course, discourse-basis, and analyzable reality. The five aggregates are the first articulated body of conditioned determination.
+> The conditioned field is not an abstract list. It is aggregate structure, temporal course, and basis of discourse; it is produced through causes and stands in relation to nirvāṇa as its exit. The five aggregates are the first articulated body of conditioned determination.
 
 ## 7. Technical Vocabulary
 
@@ -59,8 +62,10 @@ Organon rendering:
 | rūpa | form / material form-bearing domain | first aggregate |
 | adhvā | temporal course | conditioned dharmas across time |
 | kathāvastu | basis of discourse | what doctrinal speech concerns |
-| vastu | real thing / real basis | analyzable reality |
-| savastuka | with real basis | not merely verbal fiction |
+| niḥsāra | exit | nirvāṇa is the exit from everything conditioned in the Bhāṣya |
+| saniḥsāra | possessed of an exit | the conditioned has nirvāṇa as its exit |
+| vastu | cause in this local gloss | Vaibhāṣika explanation reported by the Bhāṣya; other uses remain open |
+| savastuka | possessed of a basis; locally, with causes | causal rendering follows that attributed gloss |
 
 ## 8. Logical Determination
 
@@ -77,7 +82,8 @@ The same field is determined under several aspects:
 aggregate
     temporal course
     discourse-basis
-    real basis
+    possessed of an exit in nirvāṇa
+    possessed of causes (Vaibhāṣika gloss)
 ```
 
 ## 9. Interpretive Note
@@ -91,10 +97,14 @@ conditioned dharma
     = aggregate-structure
     = temporal course
     = basis for discourse
-    = real analyzable field
+    = possessed of nirvāṇa as an exit
+    = causally grounded under the attributed Vaibhāṣika gloss
 ```
 
-The system is multi-perspectival without being arbitrary. The perspectives are lawful determinations of the same conditioned field.
+The system gives several determinations of the same conditioned field.
+`Savastuka` is rendered causally here because the Bhāṣya attributes that
+explanation to the Vaibhāṣikas; it is not a general equation of `vastu` and
+cause.
 
 ## 10. OWL++ Seed
 
@@ -110,6 +120,5 @@ vak:VAK_1_07
 
 vak:ConditionedDharmas
     vak:identifiedWith vak:FiveAggregates ;
-    vak:hasAspect vak:TemporalCourse , vak:DiscourseBasis , vak:RealBasis .
+    vak:hasAspect vak:TemporalCourse , vak:DiscourseBasis , vak:ExitInNirvana , vak:PossessedOfCauses .
 ```
-

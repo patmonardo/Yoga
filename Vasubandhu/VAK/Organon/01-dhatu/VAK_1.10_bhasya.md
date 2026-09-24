@@ -518,11 +518,15 @@ within saṃvṛti can proceed.
 
 ## 12. Review Status
 
-Provisional tenth study in the Bhāṣya edition. The continuous reading
-extends through the commentary's own closure concerning the five objects
-and their apprehension. Both research witnesses and the running Sanskrit
-have been consulted; the local HTML repeats the damaged configuration
-passage and is not treated as independent confirmation.
+QA reviewed against the running Sanskrit from `tatra tāvat` at [006|07]
+through the commentary's closure concerning the five objects and their
+apprehension at [007|27–28]. The following announcement of avijñapti
+belongs to 1.11. The review confirms the alternative counts, the local
+scope of the knowing/existing clarification, the unanswered
+bodily-manifestation objection, and the sense-base level of own-character.
+Both research witnesses have been consulted; the local HTML repeats the
+damaged configuration passage and is not treated as independent
+confirmation.
 
 Open philological points are the damaged configuration-only example, the
 precise contrast of `vṛtta` and `parimaṇḍala`, and the technical force of

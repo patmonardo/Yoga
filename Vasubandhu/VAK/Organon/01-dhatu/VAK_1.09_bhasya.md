@@ -241,12 +241,14 @@ cognition participates in the development of discriminative understanding.
 
 ## 9. Review Status
 
-Provisional ninth study in the established Bhāṣya edition method. The
-continuous Sanskrit and translation preserve the natural unit, including
-the object-based antecedent omitted from the research report's segmented
-analysis. The focused study distinguishes the extent of rūpa, the respective
-sensory domains, material constitution, and the two construals of the
-cognitive support relation.
+QA reviewed against the running source at [005|21]–[006|07], ending after
+`arthāḥ pañca nirdeśyāḥ` and before `tatra tāvat`, which opens the next
+unit. The continuous Sanskrit and translation preserve both antecedents of
+`tad`: first the five sensory objects, then the five faculties. The
+object-based antecedent is present in the running source although omitted
+from the research report's segmented analysis. The study keeps the
+eleven-member extent of rūpa distinct from the sensory cognitions that its
+faculties support.
 
 The unit has been compared with the local kārikā and Bhāṣya research files
 and the running Sanskrit source. Transcription repairs and quotation

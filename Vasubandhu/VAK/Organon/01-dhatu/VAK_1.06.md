@@ -40,7 +40,7 @@ apratisaṃkhyā-nirodha
     = absolute obstruction of arising
 ```
 
-The first is cessation through discriminative knowing. The second is cessation not produced by such analysis, but by the definitive non-arising of a dharma due to the absence or blockage of its conditions.
+The first is cessation attained through discriminative knowing. The second is attained without that discrimination, when deficiency of conditions absolutely prevents a future dharma from arising. Neither unconditioned cessation is produced as a conditioned event.
 
 ## 5. Literal Translation
 
@@ -48,7 +48,7 @@ The first is cessation through discriminative knowing. The second is cessation n
 
 ## 6. Philosophical Translation
 
-> Pratisaṃkhyā-nirodha is the cessation that occurs through discriminative insight, the separate disjunction from each object of bondage. Apratisaṃkhyā-nirodha is another cessation: the complete prevention of arising, not produced by discriminative analysis.
+> Pratisaṃkhyā-nirodha is attained through a specific prajñā directed to the Noble Truths: it is disjunction from dharmas with outflows, separately for each conjunction. Apratisaṃkhyā-nirodha is attained through deficiency of conditions: it is the absolute obstruction of a future arising, without discriminative insight being its means.
 
 Organon rendering:
 
@@ -58,11 +58,11 @@ Organon rendering:
 
 | Sanskrit | Project rendering | Note |
 |---|---|---|
-| pratisaṃkhyā | discrimination / analytic insight | principled discrimination of dharmas |
+| pratisaṃkhyā | discriminative consideration | a specific prajñā directed to the Noble Truths in the Bhāṣya |
 | nirodha | cessation | unconditioned cessation here |
-| visaṃyoga | disjunction / separation | release from bondage |
+| visaṃyoga | disjunction / separation | specifically from dharmas with outflows in the Bhāṣya |
 | pṛthak pṛthak | separately | each defilement/determination severed distinctly |
-| apratisaṃkhyā | not through discrimination | not produced by insight |
+| apratisaṃkhyā | not through discriminative consideration | cessation is attained through deficient conditions rather than through that prajñā |
 | utpāda | arising | production/manifestation of a dharma |
 | atyanta-vighna | absolute obstruction | complete prevention of arising |
 
@@ -136,4 +136,3 @@ vak:ApratisamkhyaNirodha
     rdfs:label "cessation not through discrimination" ;
     vak:definedAs vak:AbsoluteObstructionOfArising .
 ```
-
