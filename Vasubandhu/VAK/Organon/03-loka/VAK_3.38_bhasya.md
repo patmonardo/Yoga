@@ -133,8 +133,10 @@ maraṇabhava
 ```
 
 Rebirth-becoming is the establishment or binding of a renewed series and is
-therefore never ethically neutral in the present account. The same necessity
-applies to the linking into intermediate becoming.
+therefore never ethically neutral in the present account. The linking *into*
+intermediate becoming is also necessarily defiled; this does not make every
+moment of intermediate becoming defiled, since it belongs among the three
+modes that may be wholesome, defiled, or indeterminate.
 
 `Svabhūmika` restricts the afflictive condition by level. The relevant
 affliction belongs to the same ground as the rebirth-being it binds. “All
@@ -154,14 +156,12 @@ frequent prior enactment
         → the affliction that presents itself at linking
 ```
 
-This passage distinguishes the affliction as a causal disposition from an
-independent active outbreak. The transmitted wording is difficult, but the
-Bhāṣya clearly refuses to treat rebirth-linking as an unconditioned selection
-among possible afflictions.
+The passage distinguishes `kleśa` from independent `paryavasthānas`, but
+does not define that relation here. It does say that frequent prior enactment
+and proximity condition which affliction presents itself at linking.
 
-The present state may be slight while still carrying the directional force
-of a repeatedly enacted history. Manifest intensity and conditioning efficacy
-are therefore different axes.
+The present state may be slight even where an affliction repeatedly enacted
+earlier comes to the fore. The force of `pūrvāvedha` remains provisional.
 
 ## 7. Why the Formless Realm Has Only Three Becomings
 
@@ -182,7 +182,7 @@ formless realm
 The reason is functional rather than merely numerical. Intermediate becoming
 serves passage toward another spatially delimited destination. The formless
 realm is not delimited as another place in that sense, so no intermediate
-body or mode is produced for reaching it.
+becoming is produced for reaching it.
 
 This keeps topology and ontology distinct. The omission of intermediate
 becoming does not mean that the remaining three are compressed into a single
@@ -256,10 +256,10 @@ the threefold status of the other becomings, the absence of intermediate
 becoming from the formless realm, and the transition from arising to
 persistence through nutriment.
 
-The Sanskrit and translation remain provisional. The corrupted wording of
-the rebirth-linking claim, the distinction between `kleśa` and
-`paryavasthāna`, `mandikā`, `pūrvāvedha`, the spatial argument for the
-formless realm, and the sūtra citation require comparison with critical
-Sanskrit, Tibetan, Chinese, and established translations. The Study ends with
-the announcement of four nutriments and does not begin their analysis in VAK
-3.39.
+The Sanskrit and translation remain provisional. Most consequential is the
+unresolved rebirth-linking sentence at 151.22–23; the Kārikā's same-level
+qualification is clear, while this prose sentence needs collation before its
+universal scope is asserted. The distinction between `kleśa` and
+`paryavasthāna`, `mandikā`, `pūrvāvedha`, and the sūtra wording also require
+comparison with critical witnesses. The Study ends with the announcement of
+four nutriments and does not begin their analysis in VAK 3.39.
