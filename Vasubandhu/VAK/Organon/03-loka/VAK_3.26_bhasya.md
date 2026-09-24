@@ -46,15 +46,21 @@ results of prior causes and the bases supporting renewed affliction and karma.
 > madhyenaiva hi pūrvāntāparāntayor api hetuphalavistaraḥ śakyo
 > 'numātum iti noktaḥ / punar aparātmakaṃ hi yatnaṃ mā kāryam iti /
 
-This natural unit runs from printed 134.04 through 134.20 in
-`Vasubandhu/Sources/kosabhasya.txt`. VAK 3.27 begins by recasting the same
-members as afflictions, karma, and bases arising from one another.
+This natural unit begins with `sa punar eṣa` in the span labeled
+134.03–134.04 and ends at 134.20 in `Vasubandhu/Sources/kosabhasya.txt`.
+The opening shares its printed span with the final clause of VAK 3.25.
+VAK 3.27 begins in the next span, labeled 134.20–134.22, by raising an
+objection about the apparent beginning and end of the twelve-member series.
 
-Word division and punctuation are editorial. The e-text's `phābhūtāni` has
-been provisionally read as `phalabhūtāni`, supported directly by the syntax
-and argument. `Punar aparātmakaṃ` in the final sentence is textually awkward;
-the translation follows its evident warning against performing the same
-analytic effort again, but the phrase requires collation. The running source
+Word division and punctuation are editorial. At 134.07 the running e-text's
+`avidyātṛṣṇepādānāni` is provisionally read as
+`avidyātṛṣṇopādānāni`; at 134.14 `phābhūtāni` is read as
+`phalabhūtāni`, supported by the nearby `phalaṃ tathā`; and at 134.19
+`'numānum` is read as `'numātum`, supported by `madhyānumānataḥ` in the
+kārikā and the sentence's construction. The final `punaraparātmakaṃ` at
+134.20 remains uncertain; its general point concerns avoiding further
+effort, but its exact qualifier requires collation. The earlier research
+witness silently normalizes these damaged readings. The running source
 remains unchanged.
 
 ## 3. Continuous Conventional Translation
@@ -84,8 +90,8 @@ is compressed because affliction is taught under a single heading.
 “Cause and result are compressed at the two limits because they can be
 inferred from the middle.” From the middle alone, the expanded cause-and-
 result structure of the prior and subsequent limits can also be inferred.
-Therefore it is not stated again, so that the same effort need not be
-undertaken a second time.
+Therefore it is not stated again, so that no further effort need be made.
+The precise qualification of “effort” in the damaged final phrase is uncertain.
 
 ## 4. Movement and Voice of the Commentary
 
@@ -200,8 +206,8 @@ perceived as spectacle. Their causal articulation is inferable from the
 manifest structure of the present course.
 
 The Bhāṣya also gives an economy principle: once the full pattern has been
-shown in the middle, repeating the same expansion at both limits would impose
-unnecessary analytic effort.
+shown in the middle, further elaboration at both limits would require
+additional effort.
 
 ## 9. Philosophical and Organon Study
 
@@ -239,7 +245,8 @@ future; it reconstructs them from the causal organization presently given.
 
 ## 10. Review Status
 
-This Study restores the complete natural unit at 134.04–134.20. It preserves
+This Study restores the complete natural unit from the shared 134.03–134.04
+span through 134.20. It preserves
 the three functional natures, the five-cause/seven-result division, the double
 role of the seven as results and supports, the expanded structure of the
 middle, and the inference by which the compressed temporal limits are

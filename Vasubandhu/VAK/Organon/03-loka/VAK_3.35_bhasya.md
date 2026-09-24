@@ -88,7 +88,12 @@ The running witness is damaged in the dense possession calculation and in
 several compounds. The continuous text regularizes evident mechanical forms,
 but the sequence beginning `kāmadhātūpapannaḥ` remains a provisional
 reconstruction. No doctrinal conclusion below depends upon treating every
-case-ending in that passage as critically secure.
+case-ending in that passage as critically secure. At 150.04–05
+`apratisṅkhyāya` is provisionally read as `apratisaṃkhyāya`; at 150.10 the
+source's `śāstrā gamitatvāt` is represented by the uncertain compound
+`śāstrāgamitattvāt`. Its exact sense, and thus the stated warrant for the
+thirty-sixfold division, requires collation. The running source remains
+unchanged.
 
 ## 3. Continuous Conventional Translation
 
@@ -110,10 +115,11 @@ All these eighteen mental rangings are with outflows; not one is without
 outflows.
 
 Who possesses how many? A being born in the desire realm who has not acquired
-a wholesome form-realm mind possesses all the desire-realm rangings, eight
-defiled rangings belonging to the first and second concentrations, four
-defiled rangings belonging to the third and fourth after excluding those
-whose objects are odor and taste, and only one defiled formless-realm ranging.
+a wholesome form-realm mind possesses all the desire-realm rangings. On the
+provisional reading of the compressed passage, that being also possesses
+eight defiled rangings at each of the first and second concentrations, four
+at each of the third and fourth after excluding those whose objects are odor
+and taste, and one defiled formless-realm ranging.
 A desire-realm being not dispassionate and lacking acquisition of a wholesome
 form-realm mind possesses all the desire-realm rangings; ten belonging to the
 first concentration—four defiled gladness-rangings after excluding odor and
@@ -145,9 +151,9 @@ that constitutes mental ranging.
 
 Those same states beginning with gladness become the thirty-six teacher's
 terms through the distinction between being grounded in attachment and being
-grounded in renunciation, a distinction transmitted in the teaching. Those
-grounded in attachment are defiled; those grounded in renunciation are
-wholesome.
+grounded in renunciation, a distinction whose stated textual warrant is
+uncertain in the running witness. Those grounded in attachment are defiled;
+those grounded in renunciation are wholesome.
 
 Thus the limb of becoming called feeling is to be understood as differentiated
 in many ways.

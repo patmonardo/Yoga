@@ -26,7 +26,7 @@ ekāntena. katamena kleśena?
 sarvakleśaiḥ svabhūmikaiḥ.
 
 yadbhūmika upapattibhavas tadbhūmikair eva sarvakleśaiḥ. na hi sa kleśo
-'sti yena pratisaṃdhibandhaḥ pratividhyate ity ābhidharmikāḥ. kleśair eva
+'sti yena pratisaṃdhibandhaḥ pratividyate ity ābhidharmikāḥ. kleśair eva
 tu, na paryavasthānaiḥ svatantraiḥ.
 
 yady api sāvasthā mandikā, yas tu yatrābhīkṣṇaṃ carita āsannaś ca, tasya
@@ -57,20 +57,25 @@ eko dharmo bhagavatā svayam abhijñāyābhisaṃbudhyākhyātaḥ, yad uta
 ke punar āhārāḥ? catvāra āhārāḥ.
 ```
 
-The running witness has multiple mechanical corruptions in compounds and
-case endings, especially at 151.21–24, and a damaged verb in the sūtra
-introduction. The continuous text regularizes these provisionally. The exact
-relation between `kleśa` and `paryavasthāna` and the wording of the cited
-sūtra require critical comparison.
+The running witness has `yadbhamika`, `tadbhūmikaīreva`, and
+`svatantraīḥ` at 151.22–24; these are provisionally normalized above.
+Its `pratividyate` at 151.22–23 is retained. Taken without another
+negative, that sentence sits uneasily beside `sarvakleśaiḥ` and the
+following `kleśair eva`; neither its verb nor the scope of its negation is
+secure. The sūtra introduction at 152.09–10 has
+`abhisaṃbadhyākhyāto` and `sarvasttvā`, provisionally read above as
+`abhisaṃbudhyākhyātaḥ` and `sarvasattvā`. These passages need collation;
+the running witness has not been altered.
 
 ## 3. Continuous Conventional Translation
 
 Rebirth-becoming is defiled—necessarily so. By which affliction? By all the
 afflictions belonging to its own level. Whatever level the rebirth-becoming
-belongs to, it is bound by all the afflictions of that same level. The
-Abhidharmikas say that there is no affliction by which rebirth-linking cannot
-be effected. It is effected by the afflictions themselves, however, not by
-independent active outbreaks taken as autonomous factors.
+belongs to, its defilement concerns afflictions of that same level. The
+Abhidharmikas' next sentence appears to say that no such affliction is
+excluded from effecting rebirth-linking, although its transmitted wording is
+uncertain. Rebirth-linking is through afflictions themselves, however, not
+through independent `paryavasthānas`.
 
 Although the state at that moment is weak, whichever affliction has been
 frequently enacted in a given case and is near at hand is the very affliction
@@ -99,18 +104,19 @@ The unit makes four moves:
 
 1. Rebirth-becoming is necessarily defiled by an affliction belonging to its
    own level.
-2. The Abhidharmikas hold that every same-level affliction can bind
-   rebirth-linking; habitual and proximate affliction becomes manifest through
-   prior momentum.
+2. The Abhidharmikas' damaged sentence appears to extend rebirth-linking to
+   each same-level affliction; the habitual and proximate one becomes present
+   through prior momentum.
 3. The other modes admit three ethical statuses, while the formless realm
    lacks intermediate becoming because it is not another spatially delimited
    place.
 4. The exposition changes from the production of sentient beings through
    dependent co-arising to their maintenance through nutriment.
 
-The universal rebirth-linking claim is explicitly attributed to the
-Abhidharmikas. No objector speaks in this unit. The four nutriments are only
-announced at the endpoint; their determination belongs to the next Study.
+The claim following `sarvakleśaiḥ` is attributed to the Abhidharmikas, though
+its exact wording is uncertain. No objector speaks in this unit. The four
+nutriments are only announced at the endpoint; their determination belongs
+to the next Study.
 
 ## 5. Rebirth-Being Is Necessarily Defiled
 

@@ -50,17 +50,17 @@ rebirth in a dependently arisen continuum of momentary aggregates.
 > tasmāt siddham etad: asaty apy ātmani kleśakarmābhisaṃskṛtaḥ
 > skandhānāṃ saṃtāno mātuḥ kukṣim āpadyata iti /
 
-This natural unit runs from printed 129.05 through 129.20 in
-`Vasubandhu/Sources/kosabhasya.txt`. The words `sa punaḥ` at 129.21 begin the
-next account: how the continuum grows according to its karmic projection and
-again passes to another world. That belongs to VAK 3.19.
+This natural unit runs from printed 129.05 through the opening of 129.21 in
+`Vasubandhu/Sources/kosabhasya.txt`. The words `sa punaḥ`, also at 129.21,
+begin the next account: how the continuum grows according to its karmic
+projection and again passes to another world. That belongs to VAK 3.19.
 
 Word division and punctuation are editorial. The e-text's `skndhān` has been
 regularized to `skandhān`, `tadṛśo` to `tādṛśo`, and `saṃskṛṭaḥ` to
-`saṃskṛtaḥ`. At 129.18, the printed `kleśamātram antarābhāsaṃjñikayā` is
-incoherent in context and has provisionally been read as `skandhamātram
-antarābhavasaṃjñikayā`; this is a substantive repair requiring collation. The
-running source remains unchanged.
+`saṃskṛtaḥ`. At 129.18, the running e-text reads `kleśamātram
+antarābhāsaṃjñikayā`, which is incoherent in context. It has provisionally
+been read as `skandhamātram antarābhavasaṃjñikayā`; this is a substantive
+repair requiring collation. The running source remains unchanged.
 
 ## 3. Continuous Conventional Translation
 
@@ -228,19 +228,18 @@ personal designation
 momentary aggregates + karma + maturation + dependent arising + continuum
 ```
 
-This source argument successfully removes a supposed empirical transmigrator
-from the rebirth mechanism. It should neither be weakened into nihilistic
-discontinuity nor silently converted into the Organon's separate account of
-absolute Self-recognition. At this textual level, the positive work is done
-by dependent arising and the conditioned aggregate-continuum; any comparison
-with Yoga Vidyā belongs to a later, explicitly comparative meditation.
+This source argument denies an inner transmigrator as a causal requirement
+for rebirth. Dependent arising and the conditioned aggregate-continuum do the
+positive explanatory work here. The Organon's account of Self-recognition
+belongs to a later comparative study.
 
 ## 10. Review Status
 
-This Study restores the complete natural unit at 129.05–129.20, including the
-externalist inference, the scriptural appeal to dependent arising, the
-figurative use of “ātman” for the aggregates, the objection that aggregates
-would then transmigrate, and the reply through momentariness and continuum.
+This Study restores the complete natural unit from 129.05 to the opening of
+129.21. It includes the externalist inference, the scriptural appeal to
+dependent arising, the figurative use of “ātman” for the aggregates, the
+objection that aggregates would then transmigrate, and the reply through
+momentariness and continuum.
 
 The translation remains provisional. The substantial repair at 129.18 and
 the syntax surrounding `skandhamātraṃ tu nātra saṃcarati` require comparison

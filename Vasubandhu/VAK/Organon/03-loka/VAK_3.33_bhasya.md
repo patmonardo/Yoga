@@ -28,7 +28,7 @@ duḥkhopavicārābhāvāc ceti.
 yadi manobhūmikā evaite, yat tarhi sūtra uktaṃ “cakṣuṣā rūpāṇi dṛṣṭvā
 saumanasyasthānīyāni rūpāṇy upavicarati” ity evamādi, katham?
 pañcavijñānakāyābhinirhṛtatvam abhisaṃdhāyaitad uktam. manobhūmikā hy ete,
-tad yathāśubhā cakṣurvijñānābhinirhṛtā ca manobhūmikā ceti.
+tad yathā 'śubhā cakṣurvijñānābhinirhṛtā ca manobhūmikā ceti.
 
 api tu “dṛṣṭvā yāvat spṛṣṭvā” iti vacanād acodyam evaitat. ye 'py adṛṣṭvā
 yāvad aspṛṣṭvopavicaranti te 'pi manopavicārāḥ. itarathā hi kāmadhātau
@@ -74,7 +74,12 @@ The running witness contains evident mechanical corruption throughout
 147.10–148.11, including damaged negatives, sandhi, and the opening of the
 desire-realm statement. The continuous text makes provisional contextual
 repairs. Its division of speakers and the precise wording of the sensory
-example require verification against critical witnesses.
+example require verification against critical witnesses. At 147.14–15 the
+running `tadyathā 'śubhā` is divided as `tad yathā 'śubhā`, preserving the
+elided initial *a-* of *aśubhā* (“unattractive”). Other repairs include
+`kuḥkhopavicāra` to `duḥkhopavicāra` at 147.10–11,
+`tvbālambanam` to `tv ālambanam` at 147.21–22, and `āmadhātau` to
+`kāmadhātau` at 147.26. The running source remains unchanged.
 
 ## 3. Continuous Conventional Translation
 
@@ -270,6 +275,11 @@ These coordinates answer different questions. Where an operation is
 constituted does not determine what it can be about; what elicited it does not
 exhaust its subsequent range; and an affective type is not a property stored
 in the object independently of every continuum.
+
+In the project's judicial analogy, realm of belonging is the operation's
+seat, while object-range concerns which matters it can take up. The analogy
+helps keep jurisdiction and admissible subject matter distinct; these are
+Organon terms, not the Bhāṣya's legal vocabulary.
 
 This is especially useful for an Ocular Dataset. The source-domain of an
 artifact, the state of the analyzing agent, the event that prompted an

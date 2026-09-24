@@ -18,6 +18,10 @@ The first pāda must be segmented with `daśā`, “state,” not `daśa`, “te
 pūrva-kleśa-daśā + avidyā
 ```
 
+The running e-text spaces this as `pūrvakleśā daśā 'vidyā`. Its exact
+compound division remains provisional; the Bhāṣya's `kleśāvasthā` and
+`daśeti varttate` establish the “state” reading.
+
 ## 3. Lexical Analysis
 
 ```text
@@ -34,7 +38,7 @@ ataḥ param              → ataḥ param
 
 | Form | Morphology | Lexical force here |
 |---|---|---|
-| pūrvakleśā daśā | nominative feminine singular phrase | the afflictive state of the former birth |
+| pūrvakleśā daśā | `daśā` is nominative feminine singular; e-text division uncertain | the afflictive state of the former birth |
 | avidyā | nominative feminine singular | ignorance; designation of that entire former afflictive state |
 | saṃskārāḥ | nominative masculine plural | formations; designation of the former karmic state |
 | pūrvakarmaṇaḥ | genitive neuter singular | of former karma |

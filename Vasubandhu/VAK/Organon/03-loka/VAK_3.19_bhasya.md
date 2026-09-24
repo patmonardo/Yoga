@@ -174,6 +174,11 @@ growth. `Krama` then concerns order: the projected life develops through
 successive material stages rather than appearing as an already completed
 body.
 
+The verse's `kleśakarmabhiḥ` is best read with its return to another world:
+the prose first describes renewed affliction and accumulated karma after
+faculty-maturation, then says `sa taiḥ ... paralokaṃ punar yāti`, “through
+these it goes again to another world.”
+
 The five stages give the order traditional to this passage:
 
 ```text

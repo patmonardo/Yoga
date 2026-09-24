@@ -6,7 +6,7 @@
 > gandhasthānābhikāmo 'nya ūrdhvapādas tu nārakaḥ // 3.15 //
 
 > With inverted understanding, the intermediate being goes to the place of
-> its destiny through longing. Another is attracted toward a scent-place; but
+> its destiny through longing. Another is attracted toward scent or a place; but
 > the hell-bound intermediate being goes with feet upward.
 
 The Bhāṣya explains how a destination already projected by karma becomes an
@@ -136,10 +136,10 @@ egg-born and womb-born modes of birth. In the other cases, they say, the
 explanation should be adapted as appropriate. The following application is
 found there.
 
-“Another is attracted toward a scent-place.” One entering a moisture-born
-mode of birth goes to its place of rebirth through attraction, toward an
-impure or a pure place as the case may be. One entering a spontaneous mode of
-birth does so through attraction to the place itself.
+“Another is attracted toward scent or a place.” One entering a moisture-born
+mode of birth approaches an impure or pure place of rebirth, drawn by scent.
+One entering a spontaneous mode of birth does so through attraction to the
+place itself.
 
 How can there be attraction to a place in the hells? Because cognition is
 inverted. The being sees itself afflicted by cold wind and driving rain, and
@@ -255,7 +255,8 @@ The prose fixes the verse's compressed terms:
   mispresent the transition, most explicitly when hell appears as relief.
 - `riraṃsayā` is the longing that carries the being into womb-birth; it does
   not establish an unconditioned choice of destiny.
-- `gandhasthānābhikāma` belongs specifically to the account of moisture-birth.
+- `gandha` in `gandhasthānābhikāma` belongs to moisture-birth, while `sthāna`
+  belongs to spontaneous birth.
 - `ūrdhvapāda` distinguishes the inverted orientation of the hell-bound
   intermediate being and is reinforced by a cited verse.
 

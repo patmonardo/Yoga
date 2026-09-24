@@ -8,14 +8,14 @@
 
 ## 2. Sanskrit (IAST)
 
-> mṛtyupapattibhavayor antarā bhavatīha yaḥ /
+> mṛtyūpapattibhavayor antarā bhavatīha yaḥ /
 >
 > gamyadeśānupetatvān nopapanno 'ntarābhavaḥ // 3.10 //
 
 ## 3. Lexical Analysis
 
 ```text
-mṛtyu-upapatti-bhavayoḥ → mṛtyupapattibhavayoḥ
+mṛtyu-upapatti-bhavayoḥ → mṛtyūpapattibhavayoḥ
 antarā                   → antarā
 bhavati + iha            → bhavatīha
 yaḥ                      → yaḥ

@@ -291,7 +291,9 @@ The working e-text is unusually damaged across this unit. Word division,
 punctuation, and obvious forms have been regularized provisionally, including
 `dṛtvā`, `ubhyaṃ`, `dhrmatā`, and numerous sandhi failures. Several verses,
 citations, school attributions, and the grammatical analysis require critical
-collation. The running source remains unchanged.
+collation. The earlier research witness excerpts only the discussions at
+136.02–136.13 and 140.26–141.08; it omits most of this sustained argument.
+The running source remains unchanged.
 
 ## 3. Continuous Conventional Translation
 
@@ -440,9 +442,17 @@ Teachers offer further explanations. One says the pair shows non-abandonment
 and arising: while ignorance is not abandoned, formations are not abandoned;
 from its arising, they arise. Others say it displays continuity and arising:
 the stream of effect lasts as long as the stream of cause, and the effect
-arises from the cause's arising. This latter reading is challenged as poorly
-ordered and as importing cessation into a passage explicitly explaining
-arising; it is therefore rejected.
+arises from the cause's arising. The objection asks why a passage about
+arising would mention persistence first, and why the Buddha would put
+persistence before arising.
+
+A further proposal takes “when this exists, that exists” to mean that the
+cause ceases when its effect exists; “from the arising of this, that arises”
+would then rule out an uncaused effect. The reply says the first formula
+would instead have said “when this exists, that does not exist,” and the
+teaching would have mentioned production before cessation. A statement
+about cessation is out of place in an explanation of dependent arising.
+This proposal is rejected as the sūtra's meaning.
 
 Vasubandhu then gives the association of the members. An ordinary person,
 failing to know that this is merely dependently arisen formation, adheres to
@@ -592,6 +602,10 @@ what arises from condition C
     exists when C exists
     not because some other substrate S exists
 ```
+
+Later readings assign the pair to non-abandonment and arising, or to
+continuity and arising. The continuity reading is challenged for its order;
+a separate reading in terms of the cause's cessation is expressly rejected.
 
 The long grammatical dispute reaches a restrained conclusion: conventional
 agent-action grammar cannot dictate an impossible metaphysics of a thing that

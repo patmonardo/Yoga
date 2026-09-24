@@ -118,13 +118,12 @@ The running source remains unchanged.
 This intermediate existence is “visible to those of its own class and to a
 purified divine eye.” It is seen only by intermediate beings of the same kind.
 Those whose divine eye is extremely purified and produced through
-superknowledge also see it. It is not seen by the ordinary eye acquired at
-birth because of the transparency and subtlety belonging to its mode of
-arising.
+superknowledge also see it. It is not seen by the eye acquired at birth
+because of its inherent transparency.
 
-An intermediate deva sees all intermediate beings. Others say that human,
-preta, animal, and hell intermediate beings see the classes successively
-below them.
+Others say that a deva intermediate being sees all intermediate beings,
+while human, preta, animal, and hell intermediate beings see the classes
+successively below them.
 
 It “possesses the speed of karmic power.” Extraordinary power is movement
 through space; extraordinary power produced by karma is karmic power; and the
@@ -187,8 +186,8 @@ conditions. Others say that if these are not fixed, it is born elsewhere in a
 similar class.
 
 For example, cattle mate predominantly in the hot season, dogs in autumn,
-bears in winter, and horses in their season, whereas wild cattle, jackals,
-donkeys, and hyenas have different or unrestricted times. On this alternate
+and bears and horses in winter, whereas wild cattle, jackals,
+donkeys, and hyenas have no fixed season. On this alternate
 account, one destined for cattle may arise among wild cattle, one destined for
 dogs among jackals, one destined for horses among donkeys, and one destined
 for bears among hyenas when the original conditions are unavailable.
@@ -351,7 +350,7 @@ type or destination during execution.
 
 The duration dispute adds an important restraint to any proposed Oculus
 schema. The source does not give one settled timeout. It gives rival models:
-condition-bound persistence, periodic renewal, a seven-week maximum, and
+condition-bound persistence, periodic renewal, a seven-week term, and
 rapid junction. A faithful dataset would preserve these as attributed
 alternatives rather than collapse them into one property value.
 

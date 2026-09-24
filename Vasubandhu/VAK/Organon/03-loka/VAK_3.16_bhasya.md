@@ -65,9 +65,10 @@ emergence—permit four progressively differentiated cognition-profiles.
 > tiṣṭhāmi, ata eva niryāmi” iti / nāsya viparītau saṃjñādhimokṣau
 > pravartete /
 
-This natural unit runs from printed 127.26 through 128.25 in
-`Vasubandhu/Sources/kosabhasya.txt`. The words `atra punar apadiśyate` at
-128.26 introduce the three exceptional womb-descents assigned in VAK 3.17.
+This natural unit runs from printed 127.26 through the opening of 128.26 in
+`Vasubandhu/Sources/kosabhasya.txt`. The words `atra punar apadiśyate`,
+also at 128.26, introduce the three exceptional womb-descents assigned in
+VAK 3.17.
 
 Word division and punctuation are editorial. The e-text's `nityāha` has been
 read provisionally as `na ity āha`, `saṃprājānan` as `saṃprajānan`, and
@@ -245,10 +246,11 @@ presentation, determination, and awareness can be recorded as distinct axes.
 
 ## 10. Review Status
 
-This Study restores the complete natural unit at 127.26–128.25. In particular,
-it restores the positive definition of clear awareness omitted from the first
-Bhāṣya pass and retains the cumulative syntax, reverse ordering, prospective
-naming argument, and differentiated imagery of low- and high-status beings.
+This Study restores the complete natural unit from 127.26 to the opening of
+128.26. It restores the positive definition of clear awareness omitted from
+the first Bhāṣya pass, and retains the cumulative syntax, reverse ordering,
+prospective naming argument, and differentiated imagery of low- and
+high-status beings.
 
 The translation remains provisional. The corrupt prose at 128.02, the reading
 of `kuṇḍayamūla`, and the exact examples supporting prospective designation

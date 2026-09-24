@@ -16,7 +16,7 @@ sentient-life presentation.
 
 ## 2. Continuous Sanskrit
 
-> sa caiṣa pratītyasamutpādaś caturvidha ucyate: kṣaṇikaḥ, prākarṣikaḥ,
+> sa caiṣa pratītyasamutpādaś caturvidha ucyate: kṣaṇikaḥ, prakarṣikaḥ,
 > sāṃbandhikaḥ, āvasthikaś ca / kathaṃ kṣaṇikaḥ? ekasmin khalv api kṣaṇe
 > dvādaśāṅgāni bhavanti / tad yathā lobhavaśena prāṇinaṃ jīvitād
 > vyaparopayet: yo mohaḥ sāvidyā; yā cetanā te saṃskārāḥ;
@@ -72,14 +72,19 @@ sentient-life presentation.
 > tṛṣṇopādānabhavā apy aparāntasaṃmohavyāvartanārtham ity apare / tasyaiva
 > hy ete hetava iti /
 
-This natural unit runs from printed 132.27 through 134.04 in
-`Vasubandhu/Sources/kosabhasya.txt`. The following sentence reorganizes the
-twelve members into affliction, karma, and result-basis and begins VAK 3.26.
+This natural unit begins with the second statement at printed 132.27 and ends
+with `tasyaiva hy ete hetava iti` in the span labeled 134.03–134.04 in
+`Vasubandhu/Sources/kosabhasya.txt`. The next sentence in that same span begins
+VAK 3.26 by reorganizing the twelve members into affliction, karma, and basis.
+The earlier research witness begins only at 133.11; it omits the fourfold
+opening, the single-moment example, and the initial stage-based explanation.
 
 Word division and punctuation are editorial. Obvious e-text irregularities
 such as `ṣaḍḍāyatana`, `parīpāka`, `prādhānyattv`, and `vicicitsā` have been
-provisionally regularized. The meanings of `prākarṣika` and `sāṃbandhika`
-remain dependent upon this compressed classification and require collation.
+provisionally regularized. The running source itself has `prakarṣika` in the
+initial list at 133.01 and `prākarṣika` at 133.10 and 133.17–18; both forms
+are retained above. The meanings of this term and `sāṃbandhika` remain
+dependent upon this compressed classification and require collation.
 The running source remains unchanged.
 
 ## 3. Continuous Conventional Translation
@@ -212,7 +217,7 @@ sūtra — abhiprāyika
     according to the teaching's intended work
 
 Abhidharma — lākṣaṇika
-    characterizes dependent arising extensionally
+    characterizes dependent arising by its defining scope
     as all conditioned dharmas
 ```
 
@@ -282,7 +287,8 @@ proper object and must not be inserted into Vasubandhu's own explanation.
 
 ## 10. Review Status
 
-This Study restores the complete natural unit at 132.27–134.04. It includes
+This Study restores the complete natural unit from 132.27 into the shared
+134.03–134.04 source span. It includes
 the four modes, the single-moment killing example, the stage-based
 five-aggregate interpretation, naming by predominance, the distinction
 between sūtra intention and Abhidharma characteristic, the three temporal

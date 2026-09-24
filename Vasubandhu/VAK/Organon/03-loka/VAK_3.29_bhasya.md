@@ -82,11 +82,14 @@ This natural unit runs from printed 141.08 through 142.14 in
 `nāmarūpa` and then to the analysis of contact that culminates in VAK 3.30.
 
 Word division and punctuation are editorial. The e-text contains such forms
-as `prajña`, `saṃprāyokṣyata`, `vyavkīryamāṇā`, and `uapahataṃ`; their
+as `prajña`, `saṃprāyokṣyata`, `vyavkīryamāṇā`, `uapahataṃ`, and
+`satyavanna` (provisionally read as `satyānāṃ` at 142.04); their
 regularization here is provisional. The compressed Dharmatrāta formula at
-142.09 is especially uncertain and has been marked typographically rather
-than silently forced into a definitive compound analysis. The running source
-remains unchanged.
+142.09 is especially uncertain and is marked typographically rather than
+forced into a definitive compound analysis. The earlier research witness
+gives a short passage labeled 143.19–143.24 that does not match this unit
+in the running source; its wording and labels require separate collation.
+The running source remains unchanged.
 
 ## 3. Continuous Conventional Translation
 
@@ -117,8 +120,8 @@ reversed, it is liberated. In the same way, one might conceive prajñā defiled
 by ignorance simply as prajñā damaged by defective prajñā.
 
 The reply is pointed: who can prevent someone from constructing such an
-interpretation? The authoritative description, however, presents ignorance
-as a factor of another kind.
+interpretation? The received description, however, presents ignorance as a
+factor of another kind.
 
 The same reasoning excludes the view that all afflictions collectively are
 ignorance. If ignorance had the nature of all afflictions, it would not be
@@ -140,9 +143,10 @@ The reply says that dharmas can be defined relationally in just this fashion.
 For example: “What is the eye? The clear material form that serves as the
 support of eye-consciousness.”
 
-The venerable Dharmatrāta says that ignorance is the “I am” form of
-sentient-being selfhood. An objection asks how this selfhood differs from the
-conceit “I am.” A sūtra distinguishes cravings, views, forms of mine-making,
+The venerable Dharmatrāta proposes an “I am” form of mine-making as
+ignorance; the transmitted wording is uncertain. An objection asks how this
+mine-making differs from the conceit “I am.” A sūtra distinguishes cravings,
+views, forms of mine-making,
 ego-making, possessiveness, the conceit “I am,” adherence, and latent
 tendencies, and speaks of their abandonment and complete knowledge.
 
@@ -190,7 +194,7 @@ prajñā
     discriminative comprehension
 
 kuprajñā / dṛṣṭi
-    defective determination made by that faculty
+    defective prajñā in the form of view
 
 avidyā
     distinct factor associated with wrong view

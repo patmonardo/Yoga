@@ -34,10 +34,12 @@ gathered under aging-and-death.
 > aṅgāni nāmarūpaṣaḍāyatanasparśavedanās tāny evānyatra
 > jarāmaraṇam / ity etāni dvādaśāṅgāni /
 
-This natural unit runs from printed 132.18 through 132.27 in
-`Vasubandhu/Sources/kosabhasya.txt`. The next sentence, `sa caiṣa
-pratītyasamutpādaś caturvidha ucyate`, opens the fourfold classification of
-dependent arising that culminates in VAK 3.25 and is not included here.
+This natural unit runs from the second statement at printed 132.18 through
+the first statement at 132.27 in `Vasubandhu/Sources/kosabhasya.txt`. The
+next sentence, `sa caiṣa pratītyasamutpādaś caturvidha ucyate`, also at
+132.27, opens the fourfold classification of dependent arising developed
+under VAK 3.25. The research Bhāṣya witness carries that later material under
+3.24; this Study assigns it to the next unit.
 
 Word division and punctuation are editorial. The transmitted final phrase
 `jarāmaraṇam ā vidaḥ` is uncertain. Its prose gloss unambiguously gives
@@ -206,10 +208,11 @@ claim remains the completion of the three-life twelve-member scheme.
 
 ## 10. Review Status
 
-This Study restores the proper VAK 3.24 unit at 132.18–132.27. It separates
-the verse from the extensive fourfold classification that begins afterward,
-and preserves becoming as renewal-producing karma, the future junction as
-birth, and the future developmental range through feeling as aging-and-death.
+This Study restores the VAK 3.24 unit from the second statement at 132.18
+through the first statement at 132.27. It separates the verse from the
+fourfold classification that begins afterward. It preserves becoming as
+renewal-producing karma, the future junction as birth, and the future
+developmental range through feeling as aging-and-death.
 
 The translation remains provisional because the transmitted
 `jarāmaraṇam ā vidaḥ` is corrupt or at least obscure. Its interpretation is

@@ -12,7 +12,7 @@
 The verse constructs four embodied combinations from two variables, body and
 perception, and adds three formless classes. The running exposition immediately
 supplies the name completed in the opening words of VAK 3.06: these are the
-seven `vijñānasthiti`, stations of differentiated cognition.
+seven `vijñānasthiti`, stations of consciousness.
 
 ## 2. Continuous Sanskrit
 
@@ -99,7 +99,7 @@ seven `vijñānasthiti`, stations of differentiated cognition.
 >
 > ārūpyās trayo yathāsūtram ity etāḥ sapta vijñānasthitayaḥ /
 
-This unit runs from printed 115.17 through 117.03 in
+This unit runs from printed 115.17 through the sentence marked 117.03–117.04 in
 `Vasubandhu/Sources/kosabhasya.txt`. The following question at 117.04,
 `kātra vijñānasthitiḥ`, begins the analysis attached to VAK 3.06.
 
@@ -115,11 +115,11 @@ Within these same three domains and five destinies, the following should be
 understood in order: those with diverse bodies and diverse perceptions; those
 with diverse bodies and one perception; by reversal, those with one body and
 diverse or one perception; and the three formless classes. These are the seven
-stations of differentiated cognition.
+stations of consciousness.
 
 The sūtra says: “There are form-possessing beings with diverse bodies and
 diverse perceptions, such as humans and certain devas. This is the first
-station of differentiated cognition.” Which are those certain devas? Those of
+station of consciousness.” Which are those certain devas? Those of
 the desire-domain and those belonging to the level of the first dhyāna, apart
 from the beings first arisen there.
 
@@ -130,7 +130,7 @@ pleasure.
 
 The sūtra continues: “There are form-possessing beings with diverse bodies
 and one perception, such as the Brahmakāyika devas first arisen there. This is
-the second station of differentiated cognition.”
+the second station of consciousness.”
 
 Those newly arisen beings all have the same perception: “We were created by
 this Brahmā.” Brahmā likewise thinks, “These were created by me.” They
@@ -159,7 +159,7 @@ the thought “we saw him” arose in them.
 
 The sūtra continues: “There are form-possessing beings with one body and
 diverse perceptions, such as the Ābhāsvara devas. This is the third station of
-differentiated cognition.” Because the terminal class is named here, the
+consciousness.” Because the terminal class is named here, the
 entire second dhyāna must be understood; otherwise, under which station would
 the Parīttābhas and Apramāṇābhas be placed? They have one body because color,
 sex-characteristics, and bodily configuration do not differ. They have
@@ -192,7 +192,7 @@ and neither pain nor pleasure.
 
 The sūtra continues: “There are form-possessing beings with one body and one
 perception, such as the Śubhakṛtsna devas. This is the fourth station of
-differentiated cognition.” They have one body because their color,
+consciousness.” They have one body because their color,
 configuration, and sex-characteristics do not differ. They have one
 perception because they perceive pleasure.
 
@@ -200,7 +200,7 @@ Thus, in the first dhyāna, beings have one perception through an afflicted
 perception; in the second they have diverse perceptions through wholesome
 perception; and in the third they have one perception through a
 maturation-born perception. The three formless classes are as stated in the
-sūtra. These are the seven stations of differentiated cognition.
+sūtra. These are the seven stations of consciousness.
 
 ## 4. Movement and Voices of the Commentary
 
@@ -319,6 +319,11 @@ translated “perception,” while its recognitional force is retained wherever
 the beings understand the same flame as danger or as a familiar phase of a
 cosmic process.
 
+`Vijñānasthiti` is translated “station of consciousness.” The earlier
+rendering “station of differentiated cognition” added a qualifier absent from
+the Sanskrit. The distinction between the seven stations is supplied by their
+listed conditions, not by an adjective modifying `vijñāna`.
+
 The phrase `vijñānasthitayaḥ sapta` belongs metrically to VAK 3.06, but it is
 syntactically and explanatorily required by the prose on 3.05. This Study
 includes that naming phrase and stops after the seven classes are completed;
@@ -336,7 +341,7 @@ domain
     destiny
         body-configuration
         perception-configuration
-            station of differentiated cognition
+            station of consciousness
 ```
 
 The decisive result is a non-entailment: bodily sameness does not entail
@@ -357,16 +362,20 @@ coordinates bodily and perceptual configurations without identifying them.
 
 ## 10. Review Status
 
-Provisional fifth study of the Lokanirdeśa Bhāṣya sequence. The research
-kārikā and Bhāṣya witnesses, the official Organon kārikā study, the adjacent
-VAK 3.04 Bhāṣya Study, and the running Sanskrit at 115.17–117.03 have been
-compared.
+Fifth study of the Lokanirdeśa Bhāṣya sequence, reviewed in a second pass.
+The research kārikā and Bhāṣya witnesses, the official Organon kārikā study,
+the adjacent VAK 3.04 Bhāṣya Study, and the running Sanskrit at 115.17–117.04
+have been compared.
 
 The research Bhāṣya correctly identifies the broad unit, but its continuous
 translation compresses the Brahmā memory dispute and does not fully separate
 the two explanations of Ābhāsvara perceptual diversity. Both have been
 restored here. The verse's damaged final sequence is repaired with explicit
 Bhāṣya support and remains provisional pending a critical witness.
+
+This pass removed the unsupported qualifier “differentiated” from the
+translation of `vijñānasthiti` and clarified that the final sentence shares
+the 117.04 source marker with the opening question of VAK 3.06.
 
 The research witnesses, running source, existing Kārikā study, and preceding
 Bhāṣya Studies remain unchanged. VAK 3.06 begins its distinct inquiry at

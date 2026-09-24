@@ -24,7 +24,7 @@ tuṣo 'syāstīti tuṣī. tuṣasthānīyaḥ kleśa uktaḥ. idānīṃ
 tuṣitaṇḍulasthānīyaṃ karmocyate.
 
 santy oṣadhayaḥ phalapākāntāḥ. evaṃ karmāṇi vipacya punar vipākān
-nābhinirvartayante.
+[na] abhinirvartayante.
 
 yathā ca puṣpaṃ phalotpattāv āsannaṃ kāraṇam, evaṃ karmāṇi vipākotpattau
 veditavyāni.
@@ -33,7 +33,7 @@ siddhānnapānavad vastu.
 
 yathā siddham annaṃ pānaṃ ca kevalaṃ paribhogāya kalpyate, na punar
 virohāya, evaṃ vipākākhyaṃ vastu. na hi punar vipākād vipākāntaraṃ
-janmāntareṣu pravartate. yadi hi pravarteta, mokṣo na syāt.
+janmāntareṣu pravartate. yadi hi pravardheta, mokṣo na syāt.
 
 na khalv eṣa janmasaṃtāna evaṃ pratītyasamutpadyamāno bhavacatuṣṭayaṃ
 nātikrāmati, yad utāntarābhavam upapattibhavaṃ pūrvakālabhavaṃ maraṇabhavaṃ
@@ -42,11 +42,16 @@ ca. te ca vyākhyātāḥ.
 tasmin bhavacatuṣṭaye.
 ```
 
-The running witness contains several transparent mechanical errors:
-`karmma`, `pathā` for `yathā`, and damaged forms around the flower and
-maturation clauses. The continuous text repairs these provisionally from
-syntax and the argument. The negative in the plant comparison is essential
-to the reading and should be checked against critical witnesses.
+The running witness has `karmma`, `phalotpattavāsannaṃ`, `vipākotpatto`, and
+`pathā` where the continuous text reads `karma`, `phalotpattāv āsannaṃ`,
+`vipākotpattau`, and `yathā`. More consequentially, at 151.09–10 it has
+`vipākānabhinirvarttayante` without an explicit negative. The supplied
+`[na]` makes the plant comparison agree with `phalapākāntāḥ` and the
+following denial that maturation-result produces another maturation-result;
+it remains a conjecture pending collation. At 151.14–15 the witness reads
+`pravarhate` and then `pravardheta`. The first is provisionally normalized
+to `pravartate`; the second is retained, rather than silently changed to
+`pravarteta`.
 
 ## 3. Continuous Conventional Translation
 
@@ -55,9 +60,9 @@ flower. Something that possesses a husk is called “husked.” Affliction has
 already been said to occupy the place of the husk; now action is said to
 occupy the place of the grain enclosed in that husk.
 
-There are plants whose endpoint is the ripening of their fruit. In the same
-way, actions, once they have ripened, do not again produce further
-maturation-results.
+There are plants whose endpoint is the ripening of their fruit. On the
+conjecturally supplied negative, actions likewise do not produce further
+maturation-results once they have ripened.
 
 And just as a flower is a cause proximate to the arising of fruit, so actions
 are to be understood in relation to the arising of maturation-result.
@@ -65,8 +70,8 @@ are to be understood in relation to the arising of maturation-result.
 Resultant fact is like prepared food and drink. Just as prepared food and
 drink are fit only for consumption and not for germination, so is the
 resultant fact called maturation-result. Another maturation-result does not
-proceed from a maturation-result in later births. For if it did proceed, there
-would be no liberation.
+proceed from a maturation-result in later births. For if it continued to do
+so, there would be no liberation.
 
 This continuum of births, dependently co-arising in this way, does not pass
 beyond four modes of becoming: intermediate becoming, rebirth becoming,
@@ -97,8 +102,8 @@ Each image makes a different claim:
 
 ```text
 husked grain
-    action joined with affliction
-    retains germinative capacity
+    action enclosed by affliction
+    is capable of germinating into another birth
 
 plant
     action reaches its terminus in maturation
@@ -109,11 +114,11 @@ flower
     of the arising of maturation-result
 ```
 
-The plant and flower comparisons must not be conflated. The plant marks the
-completion and exhaustion of a productive process in its fruit. The flower
-marks causal proximity to the fruit's arising. The grain image, inherited
-from the preceding verse, marks action's fertility while enclosed by
-affliction.
+The plant and flower comparisons must not be conflated. With the supplied
+negative, the plant marks a limit to repeated maturation after ripening. The
+flower marks causal proximity to the fruit's arising. The grain image,
+inherited from the preceding verse, marks action's capacity to germinate
+while enclosed by affliction.
 
 Thus action is neither an eternally productive substance nor a mere result.
 It bears a conditioned capacity, ripens, and reaches a terminus in the result
@@ -182,8 +187,8 @@ Across the paired Studies, the compact triad has become:
 
 | Factor | Causal role |
 |---|---|
-| `kleśa` | generates, sustains, renews, and preserves fertility |
-| `karma` | carries conditioned productive efficacy and matures |
+| `kleśa` | conditions action's capacity to germinate into another birth |
+| `karma` | can produce maturation-result under the stated conditions |
 | `vastu` | is the matured result available for experience |
 
 The logical relations are:
@@ -238,9 +243,10 @@ husked grain, plant, and flower; resultant fact as prepared food and drink;
 the non-productivity of maturation-result as such; the argument from the
 possibility of liberation; and the four modes of becoming.
 
-The Sanskrit and translation remain provisional. The negative construction
-in the plant analogy, `phalotpattāv āsannaṃ kāraṇam`, the exact force of
-`paribhoga`, `pūrvakālabhava`, and the relation of the closing locative to the
-verse require comparison with critical Sanskrit, Tibetan, Chinese, and
-established translations. The Study stops at `tasmin bhavacatuṣṭaye` and does
-not begin VAK 3.38's detailed characterization of the four modes.
+The Sanskrit and translation remain provisional. The supplied negative in
+the plant analogy is especially consequential and needs comparison with
+critical witnesses. The repairs to `phalotpattāv āsannaṃ kāraṇam` and
+`pravartate`, the exact force of `paribhoga`, and the relation of the closing
+locative to the verse also need checking. The Study stops at
+`tasmin bhavacatuṣṭaye` and does not begin VAK 3.38's detailed
+characterization of the four modes.

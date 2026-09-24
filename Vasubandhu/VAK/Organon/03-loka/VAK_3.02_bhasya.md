@@ -44,9 +44,10 @@ This unit runs from printed 111.15 through 111.27 in
 `ārūpyadhātur asthānaḥ`, begins VAK 3.03.
 
 Word division and punctuation are editorial. The transmitted analogy
-`parigaṇa iva` is retained. Its exact nuance—an enclosed or raised precinct,
-terrace-like place, or a place set apart around one leader—remains provisional;
-no silent lexical repair or critical reconstruction is claimed.
+`parigaṇa iva` is retained. Buddhist Sanskrit lexica attest `parigaṇa`
+as “house”; the exact image and its attachment to Mahābrahmā's station
+remain provisional. No silent lexical repair or critical reconstruction
+is claimed.
 
 ## 3. Continuous Conventional Translation
 
@@ -65,12 +66,12 @@ beings dwelling in them.
 
 The Kāśmīras say that there are sixteen. They hold that among the
 Brahmapurohitas there has arisen a more elevated station for Mahābrahmā,
-something like a precinct set apart for a single leader, but not another
-distinct ground.
+like a house under one leader, but not another distinct ground.
 
 “Level” renders `bhūmi` in the continuous translation and “station” renders
 `sthāna`. Their non-identity is the decisive point of the Kāśmīra account.
-The rendering of `parigaṇa` is deliberately provisional, as noted above.
+The house comparison's precise attachment in the compressed sentence
+remains provisional, as noted above.
 
 ## 4. Movement and Voices of the Commentary
 
@@ -156,7 +157,9 @@ station:
 Mahābrahmā
     has a more elevated sthāna
     among the Brahmapurohitas
-    and is the single leader of that precinct
+
+the comparison
+    is to a house under one leader
 ```
 
 But it denies the stronger inference:
@@ -169,7 +172,7 @@ another bhūmi
 
 This is not merely disagreement over arithmetic. The two totals depend upon a
 criterion of structural individuation. A named or elevated position can remain
-internal to an existing ground. Difference of rank, inhabitant, or precinct
+internal to an existing ground. Difference of rank, inhabitant, or position
 does not by itself establish difference of `bhūmi`.
 
 The passage thereby places a control on the enumeration of worlds. A
@@ -247,10 +250,10 @@ VAK 3.01 Bhāṣya Study, and the running Sanskrit at 111.15–111.27 have been
 compared.
 
 The natural unit includes the Kāśmīra sixteen-station alternative and ends
-before `ārūpyadhātur asthānaḥ`, which opens VAK 3.03. The precise image carried
-by `parigaṇa` remains provisional and is not made to bear the argument. The
-argument requires only a specially differentiated station for a single leader
-within the Brahmapurohita level.
+before `ārūpyadhātur asthānaḥ`, which opens VAK 3.03. `Parigaṇa` most
+likely supplies the image of a house, though its exact syntactic attachment
+remains provisional. The argument requires only a specially differentiated
+station within the Brahmapurohita level, not another `bhūmi`.
 
 The research witnesses, running source, existing Kārikā study, and VAK 3.01
 Bhāṣya Study remain unchanged. This study remains provisional pending critical

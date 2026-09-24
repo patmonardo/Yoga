@@ -124,8 +124,9 @@ This unit runs from printed 121.19 through 123.19 in
 `Vasubandhu/Sources/kosabhasya.txt`. The question at 123.20 concerning the
 form assumed by one going to a particular destiny introduces VAK 3.13.
 
-The research Bhāṣya witness ends around 122.19 and omits the last third of the
-unit. The official Study restores the critique of alternate explanations, the
+The research Bhāṣya witness's Sanskrit stops with the third fire simile at
+122.13, although its reference line extends to approximately 122.19. This
+Study restores the critique of alternate explanations, the
 recension crisis, and the apparent countertexts concerning Dūṣī Māra, Avīci,
 immediate rebirth, and lodging in between.
 
@@ -330,11 +331,9 @@ after death
     intermediate existence reaches Avīci
 ```
 
-Thus the text does not place an Avīci building called Potala in Tibet, nor
-does it make Māra bodily relocate into an earthly structure. `Avīci` is the
-hell destiny reached when the corresponding result matures; the phrase “with
-his own body” is explained through present-life hellish affliction before the
-subsequent rebirth.
+`Avīci` is the hell destiny reached when the corresponding result matures;
+the phrase “with his own body” is explained through present-life hellish
+affliction before the subsequent rebirth.
 
 The five deeds of immediate retribution are handled by the same semantic
 discipline. “Immediately” means without entering another destiny and marks
@@ -410,7 +409,8 @@ kārikā and Bhāṣya witnesses, the official Organon kārikā study, the adjac
 VAK 3.11 Bhāṣya Study, and the running Sanskrit at 121.19–123.19 have been
 compared.
 
-The research Bhāṣya truncates the natural unit around 122.19. This Study
+The research Bhāṣya's Sanskrit truncates the natural unit at 122.13, despite
+its reference line extending to approximately 122.19. This Study
 restores the remaining rival interpretations, the explicit reflection on
 fragmented transmission, and the apparent countertexts concerning Dūṣī Māra,
 Avīci, immediate-retribution karma, and intermediate lodging. Numerous cited

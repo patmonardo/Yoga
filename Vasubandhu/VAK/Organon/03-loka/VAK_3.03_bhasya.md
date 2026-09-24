@@ -57,10 +57,13 @@ This unit runs from printed 112.01 through 112.23 in
 `atha kasmād ete kāmarūpārūpyadhātava ity ucyante`, begins the exposition of
 VAK 3.04.
 
-Word division and punctuation are editorial. The transmitted source has
-minor irregularities, including `naivarāñjñānāsaṃjñāyatana`; the conventional
-form `naivasaṃjñānāsaṃjñāyatana` is printed here as an explicit editorial
-normalization rather than silently made to support an interpretation.
+Word division and punctuation are editorial. The running source reads
+`ādeśasthā`, `auttarādharya`, `tatsmāpattilābhinaḥ`, `pravrttate`,
+`balavattvām`, and `naivarāñjñānāsaṃjñāyatana`. The continuous text
+prints the contextually required `adeśasthā`, `auttarādharyaṃ`,
+`tatsamāpattilābhinaḥ`, `pravartate`, `balavattvam`, and the conventional
+`naivasaṃjñānāsaṃjñāyatana`. These are disclosed repairs to the working
+e-text, not readings established by manuscript collation.
 
 ## 3. Continuous Conventional Translation
 
@@ -70,7 +73,7 @@ dharmas are not spatially situated.
 
 Nevertheless, it is fourfold according to rebirth. The formless-domain is
 fourfold through differentiation of rebirth: namely, the sphere of the
-infinitude of space, the sphere of the infinitude of differentiated cognition,
+infinitude of space, the sphere of the infinitude of consciousness,
 the sphere of nothingness, and the sphere of neither perception nor
 non-perception. But these are not distinguished as higher and lower by spatial
 location. In whatever place those who have attained the corresponding
@@ -86,11 +89,12 @@ formless-domain?
 the life-faculty.
 
 If so, why does the continuity of consciousness among beings possessing form
-not proceed in dependence upon those same two? Because they are weak. What
-makes them strong in the formless-domain? Their arising from a distinctive
-attainment. For that attainment has removed the representation of form. If
-they are strong for precisely that reason, however, the continuity should
-proceed by that strength itself; what need is there of a further support?
+not proceed in dependence upon those same two? Because of weakness. What
+makes that continuity strong in the formless-domain? Its arising from a
+distinctive attainment. For that attainment has removed the representation
+of form. If the continuity is strong for precisely that reason, however,
+it should proceed by that strength itself; what need is there of a further
+support?
 
 Another difficulty must also be stated. Just as the common class-character and
 the life-faculty among beings possessing form proceed in dependence upon form,
@@ -144,7 +148,7 @@ Fourfoldness nevertheless remains. Its differentiating principle is not
 | Formless rebirth | Controlled rendering |
 |---|---|
 | `ākāśānantyāyatana` | sphere of the infinitude of space |
-| `vijñānānantyāyatana` | sphere of the infinitude of differentiated cognition |
+| `vijñānānantyāyatana` | sphere of the infinitude of consciousness |
 | `ākiñcanyāyatana` | sphere of nothingness |
 | `naivasaṃjñānāsaṃjñāyatana` | sphere of neither perception nor non-perception |
 
@@ -173,14 +177,13 @@ cittasantati
 
 Neither term should be converted into an enduring self or an immaterial
 substance. They are conditioned dharmas proposed as supports within this
-doctrinal account. The reply that they are strong because they arise from a
-distinctive attainment adds a genetic condition: the relevant attainment has
-cleared away the representation of form.
+doctrinal account. In the first exchange, the feminine `tasyāḥ` resumes
+`cittasantati`: the question is what makes that continuity strong in the
+formless-domain. The reply cites its arising from a distinctive attainment
+that has cleared away the representation of form.
 
-That reply does not settle the matter. If the attainment can confer sufficient
-strength, the critic asks why that strength cannot belong directly to the
-continuity whose occurrence is being explained. The proposed supports begin
-to look explanatorily redundant.
+That reply does not settle the matter. If the continuity is strong from
+that attainment, the critic asks why it needs the proposed supports at all.
 
 ## 7. From Mutual Support to a Genetic Account
 
@@ -194,9 +197,11 @@ if mutual support suffices in the formless-domain,
 why does it not suffice among beings possessing form?
 ```
 
-The renewed appeal to their strength from a distinctive attainment does not
-break the symmetry, because that explanation can equally be applied to the
-continuity of consciousness—or to consciousness and its mental factors.
+In this second exchange, `tayoḥ` explicitly refers to the two proposed
+supports: they are said to be weak among beings with form and strong in the
+formless-domain because of a distinctive attainment. The critic replies
+that this same explanation can equally be applied to the continuity of
+consciousness—or to consciousness and its mental factors.
 
 The Sautrāntika conclusion replaces the reciprocal support-pair with a causal
 account:

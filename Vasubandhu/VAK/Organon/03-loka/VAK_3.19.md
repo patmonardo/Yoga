@@ -39,9 +39,10 @@ anādi-bhava-cakrakam    → anādibhavacakrakam
 | anādi | compound member | without a first beginning |
 | bhavacakrakam | nominative neuter singular | wheel of becoming |
 
-The subject is `santānaḥ`. It is modified by `vṛddhaḥ`, while `kramāt`,
-`yathākṣepam`, and `kleśakarmabhiḥ` determine the order, measure, and formative
-conditions of its development.
+The subject is `santānaḥ`, modified by `vṛddhaḥ`. `Kramāt` and
+`yathākṣepam` determine the order and measure of its development. The
+Bhāṣya's `sa taiḥ ... paralokaṃ punar yāti` takes `kleśakarmabhiḥ` with
+its onward passage, after afflictions and karma have arisen anew.
 
 ## 4. Grammar
 
@@ -51,22 +52,21 @@ The first construction states the development of the continuum:
 santānaḥ
     yathākṣepam
     kramāt
-    kleśa-karmabhiḥ
     vṛddhaḥ [bhavati]
 ```
 
-> The continuum develops in sequence, according to its projection, through
-> afflictions and karmic actions.
+> The continuum develops in sequence according to its projection.
 
 The second states recurrence:
 
 ```text
 [saḥ santānaḥ]
+    kleśa-karmabhiḥ
     paralokaṃ
     punaḥ yāti
 ```
 
-> It goes again to another world.
+> Through afflictions and karma it goes again to another world.
 
 The concluding `iti` gathers the entire mechanism under one name:
 
@@ -85,8 +85,8 @@ its causes.
 
 ### Close syntactic construe
 
-> The continuum, developed in sequence according to its projection through
-> afflictions and karmic actions, goes again to another world. Thus is the
+> The continuum, developed in sequence according to its projection, goes
+> again to another world through afflictions and karmic actions. Thus is the
 > beginningless wheel of becoming.
 
 ### Bhāṣya-informed study translation

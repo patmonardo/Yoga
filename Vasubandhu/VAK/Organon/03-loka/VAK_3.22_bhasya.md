@@ -33,9 +33,10 @@ when the continuum acquires a new structure or capacity.
 > vedanātrayakāraṇaparicchedena samartho bhavati sāvasthā sparśa ity
 > ucyate /
 
-This natural unit runs from printed 132.02 through 132.11 in
-`Vasubandhu/Sources/kosabhasya.txt`. VAK 3.23 begins with the definition of
-the feeling-stage immediately afterward.
+This natural unit runs from printed 132.02 through the first statement at
+132.11 in `Vasubandhu/Sources/kosabhasya.txt`. The next statement,
+`paricchedasāmarthye sati`, also at 132.11, introduces the feeling-stage of
+VAK 3.23.
 
 Word division and punctuation are editorial. The dense e-text form
 `prakcaturāyatanotpādādini` has provisionally been divided as `prāk
@@ -101,17 +102,15 @@ changes.
 ## 6. Why the Text Says Six Spheres
 
 The Bhāṣya observes that, strictly speaking, the boundary could be described
-as the arising of four spheres. The reason is that the bodily and mental
-bases are already present at the junction, while the remaining sensory bases
-develop subsequently. Yet the doctrinal member is called `ṣaḍāyatana`
-because the complete six-sphere structure is established at that stage.
+as the arising of four spheres. Yet the doctrinal member is called
+`ṣaḍāyatana` because the six-sphere structure is established at that stage.
+This passage does not specify which four spheres newly arise.
 
 The point is classificatory:
 
 ```text
-four bases newly arise
-    → together with two already operative bases
-    → full six-sphere organization is established
+arising of four spheres marks the boundary
+    → six-sphere organization is established
     → stage designated ṣaḍāyatana
 ```
 
@@ -191,11 +190,11 @@ than a translation of Vasubandhu.
 
 ## 10. Review Status
 
-This Study restores the complete natural unit at 132.02–132.11. It completes
-the definition of name-and-form, preserves the precise four-versus-six sphere
-qualification, identifies the triad as faculty, object, and consciousness,
-and defines contact through both its arising condition and its terminal
-discriminative capacity.
+This Study restores the complete natural unit from 132.02 through the first
+statement at 132.11. It completes the definition of name-and-form, preserves
+the four-versus-six sphere qualification, and identifies the triad as faculty,
+object, and consciousness. It defines contact through its arising condition
+and the discriminative capacity that marks its end.
 
 The Sanskrit and translation remain provisional. The compound at 132.04–05,
 the reason for the four-sphere formulation, and the exact temporal force of

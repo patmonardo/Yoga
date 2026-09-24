@@ -64,7 +64,7 @@ leads to it.
 >
 > rūpāvacaro 'py antarābhavaḥ saṃpūrṇapramāṇaḥ savastraś ca prādurbhavati,
 > apatrāpyotsadatvāt / bodhisattvasya savastraḥ, Śuklāyāś ca bhikṣuṇyāḥ
-> praṇidhānavaśāt / yāvat tam eva pariveṣṭitā nirdagdhā / anyo nagnaḥ,
+> praṇidhānavaśādhyāvantam eva pariveṣṭitā nirdagdhā / anyo nagnaḥ,
 > kāmadhātor anapatrāpyotsadatvāt /
 >
 > atha ko 'yaṃ pūrvakālabhavo nāma /
@@ -83,16 +83,16 @@ This unit runs from printed 123.20 through 124.21 in
 speed, faculties, penetrability, and irreversible destination.
 
 The research Bhāṣya witness gives the opening projection argument and the
-closing definition of the four existences, but omits most of 123.28–124.16.
+closing definition of the four existences, but omits 123.28–124.16.
 The official Study restores the discussion of size, womb-entry, the
 Bodhisattva dream, poetic testimony, and clothing.
 
 Word division and punctuation are editorial. The dream list and the account
-of the nun Śuklā are textually difficult; the e-text around
-`yāvat tam eva pariveṣṭitā nirdagdhā` is especially uncertain and has been
-retained without forcing a detailed translation. Evident forms such as
-`upapattibhabo` and `maraṇabhabo` are normalized. The running source remains
-unchanged.
+of the nun Śuklā are textually difficult; the running e-text reads
+`praṇidhānavaśādhyāvantameva pariveṣṭitā nirdagdhā`, whose division and
+meaning remain uncertain. No detailed translation is forced. Evident forms
+such as `upapattibhabo` and `maraṇabhabo` are normalized. The running source
+remains unchanged.
 
 ## 3. Continuous Conventional Translation
 
@@ -111,9 +111,9 @@ destined for hell not burn the womb?
 
 Even during embodied life, hell-beings wandering through the auxiliary hells
 are not always aflame; how much less must intermediate beings always be so.
-But suppose the intermediate being is aflame. Because its sentient
-configuration is transparent and subtle, just as it cannot ordinarily be
-seen, neither can it be touched. The objection therefore does not arise.
+But suppose the intermediate being is aflame. Because its body is transparent,
+it cannot be touched, just as it cannot be seen. The objection therefore does
+not arise.
 Moreover, intermediate beings do not adhere physically to one another in the
 womb, and karmic obstruction prevents burning.
 
@@ -121,7 +121,7 @@ As for size, an intermediate being is like a child of five or six years, but
 it possesses all six faculties. The Bodhisattva's intermediate form, however,
 is like that of a fully grown young man and possesses the major and minor
 marks. Accordingly, when the Bodhisattva in intermediate existence entered
-his mother's womb, hundreds of millions of four-continent world-systems were
+his mother's womb, a hundred crores of four-continent world-systems were
 illuminated.
 
 But the Bodhisattva's mother saw in a dream a young white elephant entering

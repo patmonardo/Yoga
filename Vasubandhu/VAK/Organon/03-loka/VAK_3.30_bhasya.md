@@ -92,6 +92,14 @@ The continuous text regularizes them provisionally from syntax and the verse,
 including `ṣparśāḥ`, `kparihāram`, and the damaged final forms. The readings
 `kāryakāraṇabhāva` and the blue-example punctuation remain especially
 important points for comparison with critical witnesses and translations.
+At 143.19–20 the running source actually has `kāryakāraṇābhāva`; the
+continuous text's `kāryakāraṇabhāva` is a conjectural repair supported by
+the preceding cause-and-effect discussion and its argument about which
+faculty, object, and cognition form a contact. The compact
+`nāmendriyārthavaśena` at 142.17 has no secure division in this witness;
+its English rendering below is provisional. The earlier research witness
+preserves the passage but does not settle these readings. The running source
+remains unchanged.
 
 ## 3. Continuous Conventional Translation
 
@@ -99,9 +107,9 @@ What, then, is meant by “name-and-form”? Form has been explained in detail a
 above.
 
 Name, however, is the non-rūpa aggregates. Why? It is called name because it
-inclines toward objects under the influence of the name-faculty and its
-objects. Under the influence of which name? That which is commonly recognized
-in the world as indicating the several objects—“cow,” “horse,” “form,”
+inclines toward objects under the influence of names, faculties, and objects.
+Under the influence of which name? That which is commonly recognized in the
+world as indicating the several objects—“cow,” “horse,” “form,”
 “taste,” and so forth. But why is this itself called name? Because that name
 inclines toward those several objects. Others say that the non-rūpa aggregates
 are called name because, when the body has been laid down here, they incline
@@ -308,6 +316,11 @@ it can itself enter a subsequent cognitive operation as an object-support.
 This gives a precise source-side analogue for labeling and typing as
 projection primitives, but “projection” remains the Organon's reconstruction,
 not Vasubandhu's term here.
+
+In our project architecture, the TS Agent is where Hegelian Logic can inform
+the interpretation and practical workflow of these designations; the Kernel
+is assigned the machine-learning and logic mechanisms. This is an Organon
+mapping, not a claim made by the Bhāṣya.
 
 The contact dispute also supplies a methodological warning for Dataset and
 ontology design:

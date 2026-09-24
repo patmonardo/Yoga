@@ -14,6 +14,9 @@ excluding the bad destinies. The second half introduces a distinct scriptural
 classification of four `vijñānasthiti`. Here “support” conveys the Bhāṣya's
 functional explanation: these are the four aggregates upon which
 differentiated cognition becomes established.
+The translation's “exclusively in its own ground” follows `svabhūmāv eva`;
+the delayed `kevalam` also limits the exclusion of consciousness to the
+fourfold scheme, as the commentary explains below.
 
 ## 2. Continuous Sanskrit
 
@@ -38,21 +41,43 @@ differentiated cognition becomes established.
 >
 > te punaḥ—
 >
-> svabhūmāv eva kevalam // 3.07 //
+> svabhūmāv eva /
 >
 > nānyatra bhūmau / kiṃ kāraṇam / pratiṣṭā hi sthitiḥ / na ca
 > visabhāgabhūmikeṣu skandheṣu vijñānaṃ tṛṣṇāvaśāt pratitiṣṭhatīti /
 
-This unit runs from the linking sentence at printed 117.16 through 117.28 in
-`Vasubandhu/Sources/kosabhasya.txt`. The following question,
-`kasmān na vijñānaṃ vijñānasthitir ucyate`, begins the exposition of VAK
-3.08, whose first half states that cognition itself is not called a support.
+> kasmān na vijñānaṃ vijñānasthitir ucyate, yathā saptasu
+> vijñānasthitiṣu pañca skandhā iti / sthātuḥ parihāreṇa sthitividhānāt /
+> na hi sthātaiva sthitir ucyate, yathā na rājaiva rājāsanam iti / yāṃś ca
+> dharmān abhiruhya vijñānaṃ vāhayati naunāvikanyāyena te dharmā
+> vijñānasthitaya uktāḥ / na tu vijñānaṃ vijñānam evāruhya vāhayati /
+> ato noktam iti vaibhāṣikāḥ /
+
+> yat tarhi sūtra uktaṃ—“vijñāne āhāre asti nandī asti rāgaḥ / yatrāsti
+> nandī asti rāgaḥ pratiṣṭhitaṃ tatra vijñānam adhirūḍham” iti / tat
+> katham / “sapta ca vijñānasthitayaḥ pañcaskandhasaṃgṛhītāḥ” iti tat
+> katham /
+
+> evaṃ tarhy abhedenopapattyāyatanasaṃgṛhīteṣu skandheṣu sābhirāmāyāṃ
+> vijñānapravṛttau vijñānaṃ vijñānasthitiḥ / pratyekaṃ tu yathā
+> rūpādayo vijñānasya saṃkleśāya bhavanti / tasmāc catasṛṣu
+> vijñānasthitiṣu—
+
+> kevalam // 3.07 //
+
+This unit runs from the linking sentence at printed 117.16 through the final
+word of VAK 3.07 at 118.09 in `Vasubandhu/Sources/kosabhasya.txt`. The
+question at 117.28 anticipates the first half of VAK 3.08, but the
+commentary reaches the final `kevalam` of VAK 3.07 only after that question.
+The two Studies therefore share this transitional argument. VAK 3.08's next
+verse fragment begins at 118.10.
 
 Word division and punctuation are editorial. The working e-text reads
-`skanheṣu` at the endpoint; this is provisionally normalized to `skandheṣu`.
-The research Bhāṣya witness stops after `nānyatra bhūmau` and omits the final
-reason beginning `pratiṣṭā hi sthitiḥ`; that reason has been restored from the
-running source without altering the witness.
+`skanheṣu` at 117.27–117.28; this is provisionally normalized to
+`skandheṣu`. The research Bhāṣya witness stops after `nānyatra bhūmau` and
+omits the ensuing explanation through `kevalam`; that text has been restored
+from the running source without altering the witness. The pagination label
+`[118|01-128|01]` is defective and is not copied into the Study.
 
 ## 3. Continuous Conventional Translation
 
@@ -74,9 +99,27 @@ ground. Why? Because a `sthiti` is an establishment. Under the power of
 craving, differentiated cognition does not become established in aggregates
 belonging to a dissimilar ground.
 
+Why is consciousness not itself called a station of consciousness, when the
+seven stations include all five aggregates? Because a station is designated
+apart from what stands upon it. The one that stands is not itself its seat,
+just as a king is not the royal throne. The Vaibhāṣikas say that the dharmas
+which consciousness mounts and by which it travels, like a boat passenger,
+are called its stations. Consciousness does not mount itself and travel;
+hence it is not named among the four.
+
+But how, then, should we understand the sūtra saying that when there is
+delight and craving for consciousness as nutriment, consciousness is
+established and mounted there? And how are the seven stations said to be
+included in the five aggregates? In that case, when consciousness operates
+with delight in the aggregates taken together within a realm of rebirth,
+consciousness too is included in a station of consciousness. Considered
+separately, however, form and the other aggregates become conditions for the
+defilement of consciousness. Therefore the restriction applies **only** to
+the four stations: `kevalam`.
+
 ## 4. Movement and Voices of the Commentary
 
-The passage contains two compact movements:
+The passage contains three movements:
 
 ```text
 nine sentient abodes
@@ -84,14 +127,21 @@ nine sentient abodes
 
 seven cognition-stations taught in one context
     four aggregate-supports taught in another context
+
+why consciousness belongs to the seven but not the four
+    Vaibhāṣika seat/rider explanation
+    scriptural challenge and qualified answer
 ```
 
 The expository voice makes explicit both objects suppressed by the verse:
 “no others” means no bad destinies among the sentient abodes, and the four
-`sthiti` are supports of differentiated cognition associated with form,
-feeling, perception, and formations.
+`sthiti` are supports of consciousness associated with form, feeling,
+perception, and formations. The Vaibhāṣikas are explicitly named for the
+seat/rider explanation. An unnamed questioner presses two scriptural
+counterexamples, prompting a distinction between the aggregates taken
+together and the four considered separately.
 
-No opposing school is named. The questions are expository. The image of
+No opposing school is named. The image of
 `karmarākṣasas` belongs to the Bhāṣya's explanation and should be preserved as
 an image rather than transformed into a separately asserted class of demonic
 beings.
@@ -156,8 +206,13 @@ four supports associated with differentiated cognition:
 | associated with formations | formations aggregate with outflows |
 
 `Sāsrava` restricts these supports to conditioned aggregates with outflows.
-The cognition aggregate is not included in this fourfold list; the reason for
-that exclusion is raised and argued in VAK 3.08, not in the present unit.
+The consciousness aggregate is not included in this fourfold list. The
+question why is already raised and argued before the final word `kevalam` of
+VAK 3.07. The Vaibhāṣika explanation distinguishes what stands from its seat;
+the scriptural challenge then requires a more qualified account. In the
+sevenfold scheme, all five aggregates are included together within a rebirth
+realm. In the fourfold scheme, the supports are considered individually, in
+their relation to the defilement of consciousness.
 
 The final restriction is equally important. A support functions only in its
 own `bhūmi`, not in a dissimilar ground. The Bhāṣya explains this through the
@@ -181,9 +236,13 @@ Their shared name does not make the enumerated members identical.
 formations. “Aggregates with outflows” retains the Sanskrit structure;
 “contaminated aggregates” is the doctrinal shorthand.
 
-`Svabhūmāv eva kevalam` is emphatically restrictive: each functions only in
-its own ground. The omitted final prose in the research witness confirms that
-this is a rule of establishment rather than simply a geographical statement.
+`Svabhūmāv eva` restricts each support to its own ground. The Bhāṣya's
+`pratiṣṭā hi sthitiḥ` confirms that this is a rule of establishment rather
+than simply a geographical statement. The delayed `kevalam` also limits the
+fourfold scheme: consciousness is excluded as a support *only* when the four
+are considered separately. It is included in the sevenfold scheme as part of
+the complete aggregate complex. The two restrictions must not be collapsed
+into a single redundant “exclusively.”
 
 ## 9. Philosophical and Organon Study
 
@@ -216,17 +275,19 @@ is relational, conditioned, and ground-specific.
 
 ## 10. Review Status
 
-Provisional seventh study of the Lokanirdeśa Bhāṣya sequence. The research
-kārikā and Bhāṣya witnesses, the official Organon kārikā study, the adjacent
-VAK 3.06 Bhāṣya Study, and the running Sanskrit at 117.16–117.28 have been
-compared.
+Seventh study of the Lokanirdeśa Bhāṣya sequence, reviewed in a second pass.
+The research kārikā and Bhāṣya witnesses, the official Organon kārikā study,
+the adjacent VAK 3.06 Bhāṣya Study, and the running Sanskrit at 117.16–118.09
+have been compared.
 
-The research Bhāṣya identifies the main movement but stops before the reason
-`pratiṣṭā hi sthitiḥ` and the corresponding ground-specific explanation.
-Those sentences have been restored. The Study does not enter the following
-dispute over why differentiated cognition is not itself one of the four
-supports.
+The research Bhāṣya identifies the opening movement but stops before the
+reason `pratiṣṭā hi sthitiḥ`, the ensuing dispute over the excluded fifth
+aggregate, and the verse's final `kevalam`. This pass restores that omitted
+text, including the explicit Vaibhāṣika view and the scriptural challenge.
+The fuller seed/field explanation and four-cornered inclusion belong to the
+following VAK 3.08 exposition.
 
 The research witnesses, running source, existing Kārikā study, and preceding
-Bhāṣya Studies remain unchanged. VAK 3.08 begins with the question at 117.28
-and has not been undertaken here.
+Bhāṣya Studies remain unchanged. The VAK 3.08 Study also quotes the shared
+transitional argument from 117.28; its next verse fragment begins at 118.10.
+That Study has not been revised in this pass.

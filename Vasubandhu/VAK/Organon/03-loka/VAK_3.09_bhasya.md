@@ -80,6 +80,9 @@ have been provisionally normalized, including `paña`, `jarāyurjāṃ yorni`,
 `yeṣumanuṣyā anye ca prajāṃ vijñāya` is especially uncertain; the Study reads
 `yeṣu manuṣyā anye ca prasādaṃ vijñāya` to recover the stated relic argument,
 but this requires a critical witness. The running source remains unchanged.
+The segmentation of the moisture-born names, especially the sequence after
+`māndhātu`, is also tentative; the e-text does not securely establish every
+name printed below.
 
 ## 3. Continuous Conventional Translation
 
@@ -89,7 +92,7 @@ The question is raised: in which destiny are how many modes of birth found?
 include the elders Śaila and Upaśaila, who emerged from Krauñcī, the thirty-two
 sons of Mṛgāramātṛ, and the five hundred sons of the king of Pañcāla.
 Womb-born humans are those commonly observed now. Moisture-born humans include
-Māndhātṛ, Cāru, Upacāru, Kapotamālinī, Āmrapālī, and others. The spontaneously
+Māndhātṛ, [Cāru and Upacāru], Kapotamālinī, Āmrapālī, and others. The spontaneously
 arisen humans are those at the beginning of a cosmic age.
 
 Animals likewise occur in four ways. Three modes are directly observed; the
@@ -119,7 +122,7 @@ a magician has appeared in the world and is devouring the world through
 magic.”
 
 Others say that he adopts womb-birth so that bodily relics may remain. Through
-confidence arising in relation to them, humans and other beings have by the
+[confidence in] them, humans and other beings have by the
 thousands reached heaven and liberation. For spontaneously arisen beings lack
 an external seed, and their bodies do not remain after death; they disappear
 like the flame of an oil lamp at the end of night.
@@ -222,7 +225,8 @@ the beings to be trained.
 ## 7. Relics and the Bodies of Spontaneously Arisen Beings
 
 The alternative explanation says that womb-birth permits bodily relics to
-remain and thereby become occasions for confidence, heaven, and liberation.
+remain and, on the provisional `prasāda` reading, thereby become occasions
+for confidence, heaven, and liberation.
 It supports this by claiming that spontaneously arisen beings lack an external
 seed and leave no corpse; their bodies disappear at death like an oil-lamp
 flame.
@@ -290,16 +294,20 @@ unavoidable.
 
 ## 10. Review Status
 
-Provisional ninth study of the Lokanirdeśa Bhāṣya sequence. The research
-kārikā and Bhāṣya witnesses, the official Organon kārikā study, the adjacent
-VAK 3.08 Bhāṣya Study, and the running Sanskrit at 119.03–120.05 have been
-compared.
+Ninth study of the Lokanirdeśa Bhāṣya sequence, reviewed in a second pass.
+The research kārikā and Bhāṣya witnesses, the official Organon kārikā study,
+the adjacent VAK 3.08 Bhāṣya Study, and the running Sanskrit at 119.03–120.05
+have been compared.
 
 The research Bhāṣya identifies the complete natural unit. This Study preserves
 the distinction between the main purposive explanation and the reported relic
 explanation, together with the criticism of the latter. Several e-text forms,
 especially the sentence describing confidence in bodily relics, remain
 provisional and require a critical witness.
+
+This pass marked the uncertain segmentation of the moisture-born names and
+the conjectural confidence reading in the continuous translation. Neither
+reading is now presented as an unqualified feature of the source.
 
 The research witnesses, running source, existing Kārikā study, and preceding
 Bhāṣya Studies remain unchanged. VAK 3.10 begins with the question at 120.06

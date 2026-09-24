@@ -2,8 +2,8 @@
 
 ## 1. Kārikā Anchor
 
-> pūrvakleśadaśāvidyā saṃskārāḥ pūrvakarmaṇaḥ /
-> saṃdhiskandhās tu vijñānaṃ nāmarūmam ataḥ param // 3.21 //
+> pūrvakleśā daśāvidyā saṃskārāḥ pūrvakarmaṇaḥ /
+> saṃdhiskandhās tu vijñānaṃ nāmarūpam ataḥ param // 3.21 //
 
 > The former afflictive state is ignorance; formations are the state of
 > former karma. The aggregates at the junction are consciousness; after this
@@ -17,7 +17,7 @@ correction is grammatical: `daśā` means “state,” not the numeral “ten.�
 
 > atha ka ime 'vidyādayaḥ?
 >
-> pūrvakleśadaśāvidyā /
+> pūrvakleśā daśā 'vidyā /
 >
 > yā pūrvake janmani kleśāvasthā, seha avidyety ucyate / sāhacaryāt,
 > tadvaśena teṣāṃ samudācārāc ca / rājāgamanavacane tadanuyātrikā-
@@ -32,18 +32,18 @@ correction is grammatical: `daśā` means “state,” not the numeral “ten.�
 >
 > mātuḥ kukṣau pratisaṃdhikṣaṇe pañca skandhā vijñānam /
 >
-> nāmarūmam ataḥ param // 3.21 //
+> nāmarūpam ataḥ param // 3.21 //
 
 This verse-unit runs from printed 131.19 through 132.01 in
 `Vasubandhu/Sources/kosabhasya.txt`. The next pāda, `prāk
 ṣaḍāyatanotpādāt`, supplies the ending boundary of the name-and-form stage and
 belongs to VAK 3.22. It has not been absorbed into the present Study.
 
-Word division and punctuation are editorial. The first pāda has been joined
-as `pūrvakleśadaśāvidyā` to display the verse construction, while the prose
-establishes its analysis as `pūrvakleśadaśā avidyā`. The e-text's `mātuḥ
-kukṣī` has provisionally been read as locative `mātuḥ kukṣau`. The running
-source remains unchanged.
+Word division and punctuation are editorial. The running e-text's first pāda
+reads `pūrvakleśā daśā 'vidyā`; the prose construes `daśā` as the state of
+former afflictions, so its exact compound division remains provisional. The
+e-text's `mātuḥ kukṣī` has provisionally been read as locative `mātuḥ kukṣau`.
+The running source remains unchanged.
 
 ## 3. Continuous Conventional Translation
 

@@ -152,6 +152,11 @@ forms have been editorially normalized; notably, the transmitted
 long citations especially require comparison with a critical
 edition before they can be treated as established text.
 
+In the rain simile, `īṣādhāre deve varṣati` is read as “when the rain god
+Īṣādhāra rains.” [Edgerton's Buddhist Hybrid Sanskrit dictionary](https://kosha.sanskrit.today/word/sa/%E0%A4%88%E0%A4%B7%E0%A4%BE%E0%A4%A7%E0%A4%BE%E0%A4%B0)
+also records Īṣādhāra as the name of a rain-giving deity; the image does not
+describe rain falling *onto* an axle-support.
+
 ## 3. Continuous Conventional Translation
 
 Why are these called the desire-, form-, and formless-domains? A domain is so
@@ -207,8 +212,8 @@ there is no appearance of completely new beings. Although innumerable beings
 attain complete nirvāṇa at the appearance of each Buddha, beings are never
 exhausted, just as space is not exhausted.
 
-How are the world-systems arranged? The Tiryaksūtra says that, just as when a
-god rains upon the axle-support there is no break or interval between the
+How are the world-systems arranged? The Tiryaksūtra says that, just as when the
+rain god Īṣādhāra rains there is no break or interval between the
 streams of water falling from the sky, so toward the east there is no break
 or interval among world-systems contracting and expanding; and likewise in
 the south, west, and north. It does not say “above and below.” Others say that
@@ -216,9 +221,9 @@ there are systems above and below too, according to a reading of another
 school. Above Akaniṣṭha there is again a desire-domain, and below a
 desire-domain there are again Akaniṣṭhas. One who is free from attachment to
 one desire-domain is free from attachment to all of them, and likewise for
-the form- and formless-domains. One who produces higher cognition supported
-by the first dhyāna reaches only the Brahmā-world belonging to the
-world-system in which that cognition was produced, not another.
+the form- and formless-domains. Someone born in a given world-system who
+develops a supernormal power based on the first dhyāna reaches only that
+world-system's Brahmā-world, not another.
 
 Within the three domains just stated are “five destinies called by their own
 names beginning with hell”: hell-beings, animals, pretas, devas, and humans.
@@ -484,10 +489,10 @@ configuration, and the designation of the agent within it.
 
 ## 10. Review Status
 
-Provisional fourth study of the Lokanirdeśa Bhāṣya sequence. The research
-kārikā and Bhāṣya witnesses, the official Organon kārikā study, the adjacent
-VAK 3.03 Bhāṣya Study, and the running Sanskrit at 112.24–115.16 have been
-compared.
+Fourth study of the Lokanirdeśa Bhāṣya sequence, reviewed in a second pass.
+The research kārikā and Bhāṣya witnesses, the official Organon kārikā study,
+the adjacent VAK 3.03 Bhāṣya Study, and the running Sanskrit at 112.24–115.16
+have been compared.
 
 This Study deliberately exceeds the boundary claimed by the research Bhāṣya
 report. The running source places a substantial domain inquiry before the
@@ -496,6 +501,10 @@ to the natural commentary unit. Several readings and the scriptural citations
 remain provisional because the e-text is non-critical. The source typo
 `[114|26-224|26]` is treated only as a faulty page label and has not been
 copied into the Study's reference boundary.
+
+This pass corrected the rain simile and translated `ṛddhim utpādayati` as
+developing a supernormal power. The placement in the world-system of birth is
+now explicit in the latter sentence.
 
 The research witnesses, running source, existing Kārikā study, and preceding
 Bhāṣya Studies remain unchanged. This study remains provisional pending

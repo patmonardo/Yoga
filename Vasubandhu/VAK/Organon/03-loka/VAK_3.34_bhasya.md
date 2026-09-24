@@ -47,10 +47,10 @@ ekasyālambanaṃ paraḥ.
 rūpapratisaṃyuktāḥ.
 ```
 
-The running witness duplicates `sa eva rūpadhātus teṣāṃ svaḥ` at 148.13 and
-has minor mechanical irregularities in compounds and sandhi. The continuous
-text removes the duplicate and regularizes those forms provisionally without
-claiming to establish a critical edition.
+At 148.13 the running witness gives `sa eva rūpadhātus teṣaṃ svaḥ` and then
+repeats it as `sa eva rūpadhātus teṣāṃ svaḥ`. The continuous text retains the
+second, better-spelled occurrence once. Minor irregularities in compounds
+and sandhi are regularized provisionally; the running source is unchanged.
 
 ## 3. Continuous Conventional Translation
 
@@ -225,9 +225,10 @@ two concentrations, the restriction of the latter two concentrations to six
 equanimity-rangings, and their six-four-one lower, own, and higher
 distribution.
 
-The Sanskrit and translation remain provisional. The duplicated source line,
-the compact syntax of `svo 'ṣṭālambanam`, the precise extension of
-`dhyānadvaya`, and the relation between the verse's counts and the inherited
-eighteenfold matrix should be checked against critical Sanskrit, Tibetan,
-Chinese, and established translations. The Study stops at the explicit
-closure of the form-realm-connected rangings and does not begin VAK 3.35.
+The Sanskrit and translation remain provisional. The compact syntax of
+`svo 'ṣṭālambanam` and the relation between the verse's counts and the
+inherited eighteenfold matrix invite comparison with critical Sanskrit,
+Tibetan, Chinese, and established translations. The Bhāṣya explicitly
+identifies `dhyānadvaya` here as the third and fourth dhyānas. The Study
+stops at the explicit closure of the form-realm-connected rangings and does
+not begin VAK 3.35.

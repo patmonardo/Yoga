@@ -135,7 +135,10 @@ upavicārikā, avikalpakatvād ity ayogaḥ.
 The running witness is unusually corrupt in this unit. The continuous text
 regularizes obvious mechanical errors and reconstructs several required
 forms, including the moment-sequence around 145.20 and the nine planes at
-146.06–10. Those repairs are provisional; the argument must be checked
+146.06–10. At 145.09–10 the running source has `sūtre tv aniṣṭam`; the
+continuous text provisionally reads `śāstre tv aniṣṭam` to preserve the
+argument's contrast between what the treatise accepts and the sūtra denies.
+Those repairs are provisional; the argument must be checked
 against critical Sanskrit and parallel witnesses before being treated as an
 established text.
 
@@ -195,6 +198,8 @@ mean that all ten factors occur in every mind. It can mean that certain
 factors occur, as appropriate rather than all simultaneously, throughout the
 three contemplative planes, the wholesome, unwholesome, and indeterminate
 planes, and the trainee, adept, and neither-trainee-nor-adept planes.
+The unwholesome universal factors were not included in this recitation;
+formerly they were not recited.
 
 Scriptural arguments continue. One sūtra says that with eye and forms as
 conditions eye-cognition arises; the conjunction of the three is contact;
@@ -205,7 +210,8 @@ recognition, volition, and cognition are blended rather than unblended. Yet
 the meaning of “blended” must be determined: does it establish identity of
 object-support or identity of moment?
 
-The counterargument appeals to other uses of “blended” and to the definition
+The counterargument notes that life and heat are called “blended” when they
+coexist, supporting a same-moment reading. It also invokes the definition
 of contact as the conjunction of three. How could cognition exist without
 the threefold conjunction and therefore without contact? It concludes that
 contact must occur wherever cognition occurs and feeling must arise together
@@ -213,7 +219,8 @@ with contact. Enough of this overextended discussion; the original sequence
 should be resumed.
 
 Mental feeling has been stated in summary. It is again divided eighteenfold
-through the establishment of eighteen mental rangings: six rangings of
+through the establishment of eighteen mental rangings; the connection marked
+by “again” is to be observed here. There are six rangings of
 gladness, six of distress, and six of equanimity. Why exactly eighteen? By
 own-nature alone there would be three; by association alone there would be
 one, since all are associated with mind; by object-support alone there would
@@ -398,6 +405,11 @@ itself. A schema learned from Sources must remain answerable to those Sources.
 The existence of a universal field in a data model does not prove that every
 record manifests that field simultaneously, just as a treatise's universal
 category does not by itself settle the phenomenological and textual dispute.
+
+In our judicial analogy, the `bhūmi` classifications specify domains of
+applicability, while the appeal to sūtra over treatise concerns authority for
+the rule. Neither establishes that all listed factors occur together in every
+case. “Jurisdiction” is our Organon comparison, not Vasubandhu's term.
 
 ## 10. Review Status
 

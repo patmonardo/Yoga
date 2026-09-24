@@ -38,15 +38,21 @@ the sequence.
 > upasaṃkhyeyam / “evam asya kevalasya mahato duḥkhaskandhasya samudayo
 > bhavati” iti vacanāt / anyathā hi kim asya sāmarthyaṃ syāt?
 
-This natural unit runs from printed 134.22 through 135.06 in
-`Vasubandhu/Sources/kosabhasya.txt`. The next sentence begins the extended
-inquiry into the cause and nature of ignorance that culminates in VAK 3.28.
+This natural unit begins with `yadi khalu` in the span labeled 134.20–134.22
+and ends at 135.06 in `Vasubandhu/Sources/kosabhasya.txt`. Its opening
+shares a printed span with the last sentence of VAK 3.26. At 135.07 the
+next inquiry turns to the cause and nature of ignorance and leads into VAK
+3.28.
 
-Word division and punctuation are editorial. The e-text's `karmavastu` has
-been construed as `karmaṇo vastu` in accordance with the parallel ablative
-relations and the examples that follow. The compact verse compound
-`vastukleśāḥ` is unfolded by the prose as both basis-from-basis and affliction-
-from-basis. The running source remains unchanged.
+Word division and punctuation are editorial. The e-text's `karmavastu` at
+135.01 has been construed as `karmaṇo vastu` in accordance with the parallel
+ablative relations and examples, but this expansion requires collation.
+Its `vastuno vastuvijñānānāmarūpaṃ` at 135.01–02 is divided into a rubric
+and example, `vastuno vastu: vijñānān nāmarūpam`; `vedanāyā stṛṣṇeti` at
+135.02–03 is provisionally divided as `vedanāyās tṛṣṇeti`. The verse's
+`bhavāṅganāmayaṃ` is read as `bhavāṅgānām ayaṃ`. The compact verse compound
+`vastukleśāḥ` is unfolded by the prose as both basis-from-basis and
+affliction-from-basis. The running source remains unchanged.
 
 ## 3. Continuous Conventional Translation
 
@@ -192,7 +198,7 @@ conditions remain effective.
 
 ## 9. Philosophical and Organon Study
 
-The passage moves from classified data to an executable causal grammar:
+The passage moves from classified members to a generative causal grammar:
 
 ```text
 typed member
@@ -218,7 +224,8 @@ an additional member or an inner transmigrating agent.
 
 ## 10. Review Status
 
-This Study restores the complete natural unit at 134.22–135.06. It preserves
+This Study restores the complete natural unit from the shared 134.20–134.22
+span through 135.06. It preserves
 the endpoint objection, the regress argument against adding members, all five
 transition-types with their examples, the reconnection of ignorance and
 aging-and-death, and the final scriptural confirmation.

@@ -51,11 +51,13 @@ evaṃ kleśaprāptituṣāvanaddhaṃ karma janmāntaravirohaṇe samarthaṃ b
 na kevalam. ity evaṃ tāvat kleśo bījādivad veditavyaḥ.
 ```
 
-The running witness has ordinary mechanical irregularities, including
-`vīja` for `bīja`, a damaged repetition around `kālena kālam`, and compressed
-compounds. The continuous text regularizes these provisionally. The cited
-earlier verses and chapter cross-references are retained as Bhāṣya prose, not
-silently imported into the kārikā.
+The running witness has `vīja` for `bīja`, `nāgādhiṣṭitaṃ` beside the later
+`nāgādhiṣṭhitaṃ`, and the damaged `kālena kālalṃ`. At 151.03–06 it reads
+`kleśaprāptatuṣāvanaddhaṃ`; the continuous text provisionally construes
+this as `kleśaprāpti-tuṣāvanaddhaṃ`, “enclosed in the husk of affliction's
+acquisition.” These are editorial readings, not established readings of a
+critical edition. The cited earlier verses and chapter cross-references
+remain Bhāṣya prose rather than Kārikā wording.
 
 ## 3. Continuous Conventional Translation
 
@@ -130,11 +132,11 @@ kleśa
 Affliction does not produce only more affliction. It generates the afflictive,
 active, and resultant dimensions of the series.
 
-The nāga analogy shifts from origination to maintenance. A lake presided over
-by a nāga does not dry up; likewise affliction sustains the “lake of birth.”
-The image does not identify affliction with a creator. It isolates the
-condition under which the birth-series continues rather than becoming
-exhausted.
+The nāga analogy shifts from origination to continued presence. A lake
+occupied by a nāga does not dry up; likewise the “lake of birth” occupied by
+the nāga of affliction does not dry up. The comparison identifies a condition
+of the continuing birth-series; it does not specify a separate mechanism of
+maintenance.
 
 ## 6. Root and Tree: Regeneration and Repeated Production
 
@@ -153,11 +155,11 @@ present existence interrupted
 The relevant term is `anapoddhṛta`, not pulled out or extracted. Mere cutting
 of manifest growth does not remove its regenerative ground.
 
-The tree analogy adds periodic and repeated productivity. An established tree
-produces flowers and fruits again and again; likewise afflictions repeatedly
-cause affliction, action, and resultant fact. Seed and tree are therefore not
-ornamental duplicates: seed marks differentiated generation, whereas tree
-marks recurrent production by an established causal system.
+The tree analogy adds repeated productivity. A tree produces flowers and
+fruits over time; likewise afflictions repeatedly cause affliction, action,
+and resultant fact. Seed and tree thus have different emphases here: the
+seed comparison names what arises, while the tree comparison adds `asakṛt`,
+“repeatedly.”
 
 ## 7. Husk: The Conditional Fertility of Action
 
@@ -178,14 +180,13 @@ karma alone
     → not capable of germinating another birth
 ```
 
-Affliction does not replace action as productive efficacy. Rather, the
-acquisition or possession of affliction encloses action as the husk encloses
-the grain, preserving its capacity for another-birth germination.
+The Bhāṣya compares action enclosed by `kleśaprāpti` to a husked grain. It
+says this action can germinate into another birth whereas action alone cannot.
+The comparison does not itself describe how long that capacity persists.
 
-This preserves the distinction among carrier, enabling condition, and
-result. `Karma` is the productive carrier; `kleśaprāpti` is the afflictive
-condition that keeps it reproductively effective; another birth is the
-possible result.
+This distinguishes action, the afflictive condition associated with it, and
+the possible result of another birth. The precise mechanism of
+`kleśaprāpti` is not worked out in this local comparison.
 
 ## 8. Five Non-Redundant Causal Profiles
 
@@ -194,20 +195,20 @@ The five similes can now be stated compactly:
 | Simile | Function of affliction |
 |---|---|
 | seed | generates affliction, action, and resultant fact |
-| nāga | maintains the lake of birth |
+| nāga | keeps the lake of birth from drying up while present |
 | root | permits regeneration until extracted |
 | tree | produces causes and results repeatedly |
-| husk | preserves action's capacity to germinate as another birth |
+| husk | marks action's capacity to germinate when enclosed by `kleśaprāpti` |
 
 Together they yield a recursive structure:
 
 ```text
 kleśa
     generates karma and vastu
-    sustains the birth-series
+    accompanies the continuing birth-series
     survives surface interruption as root
     repeatedly renews the same causal complex
-    enables karma to remain fertile for another birth
+    conditions karma's capacity to germinate into another birth
 ```
 
 The recursion does not require an unchanging bearer passing intact through
@@ -216,9 +217,10 @@ of its enabling conditions.
 
 ## 9. Philosophical and Organon Study
 
-This unit is a strong source-side model of pathological Learning. Past action
-does not reproduce the World merely because it occurred. Its productive
-capacity is retained and reactivated under an afflictive condition:
+For the Organon, this unit can model recurrent afflictive learning. The
+Bhāṣya states the more restricted claim: action joined to the acquisition
+of affliction can germinate into another birth, while action alone cannot.
+One possible project model of that relation is:
 
 ```text
 afflictive operation
@@ -227,23 +229,19 @@ afflictive operation
             → renewed afflictive conditions
 ```
 
-For the Organon, the five similes distinguish functions that a single generic
-“causes” edge would conceal: generation, maintenance, regeneration, repeated
-production, and preservation of fertility. An Ocular causal model should
-therefore type causal relations rather than reduce them all to one arrow.
+For the Organon, the five similes suggest different relation types that a
+single generic “causes” edge would conceal: generation, continued presence,
+regeneration, repeated production, and conditional germination. An Ocular
+causal model could represent these separately.
 
-The husk analogy is especially important for the theory of a Project or
-Outflow. A retained operation is not independently fated to execute forever;
-its future manifestation depends upon enabling conditions. In Dataset terms,
-provenance of a stored transformation is not identical with a currently
-executable transformation. Capability, acquisition, activation, and result
-must remain separate.
+The husk analogy also suggests a distinction for a project model: the record
+of an action and the conditions for a later result need separate fields. That
+is an analogy to the Bhāṣya's action and `kleśaprāpti`, not a claim that its
+account already specifies a stored transformation or an execution mechanism.
 
-The practical implication follows without being back-projected into the
-source translation. Suppressing an output while preserving its generative
-root leaves recurrence possible. Transformation must reach the condition that
-maintains and re-enables production. This is an Organon reconstruction of the
-root and husk similes, not a modern vocabulary attributed to Vasubandhu.
+The root comparison allows a practical inference: cutting visible growth
+while leaving its root permits regrowth. Applying that inference to a modern
+system remains an Organon reconstruction, not a claim made by the Bhāṣya.
 
 ## 10. Review Status
 

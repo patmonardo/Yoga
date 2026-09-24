@@ -31,11 +31,12 @@ acquisition.
 > yasyām avasthāyāṃ viṣayaprāptaye paryeṣṭim āpannaḥ sarvato dhāvati,
 > asāv avasthā upādānam ity ucyate /
 
-This natural unit runs from printed 132.11 through 132.18 in
-`Vasubandhu/Sources/kosabhasya.txt`. The inherited phrase
-`paricchedasāmarthye sati` links the unit to VAK 3.22: the feeling-stage begins
-once the capacity for discrimination has arisen. The next prose begins the
-definition of becoming in VAK 3.24.
+This natural unit runs from the second statement at printed 132.11 through
+the first statement at 132.18 in `Vasubandhu/Sources/kosabhasya.txt`. The
+inherited phrase `paricchedasāmarthye sati` links the unit to VAK 3.22: the
+feeling-stage begins once the capacity for discrimination has arisen. The next
+prose begins the definition of becoming in VAK 3.24 with `tathā ca
+paridhāvan`, also at 132.18.
 
 Word division and punctuation are editorial. The Sanskrit of this unit is
 comparatively clear; no substantive conjectural repair has been introduced.
@@ -176,9 +177,10 @@ appropriation.
 
 ## 10. Review Status
 
-This Study restores the complete natural unit at 132.11–132.18. It preserves
-the link from discriminative capacity to feeling, the manifestation of
-passion as craving, and the new practical operation—search for acquisition—
+This Study restores the complete natural unit from the second statement at
+132.11 through the first statement at 132.18. It preserves the link from
+discriminative capacity to feeling, the manifestation of passion as craving,
+and the new practical operation—search for acquisition—
 that defines appropriation.
 
 The Sanskrit and translation remain provisional, especially the developmental

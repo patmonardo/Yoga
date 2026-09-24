@@ -1,11 +1,11 @@
-# VAK_3.08 Bhāṣya — Cognition, Field, Inclusion, and Birth
+# VAK_3.08 Bhāṣya — Consciousness, Field, Inclusion, and Birth
 
 ## 1. Kārikā Anchor
 
 > vijñānaṃ na sthitiḥ proktaṃ catuṣkoṭi tu saṃgrahe /
 > catasro yonayas tatra sattvānām aṇḍajādayaḥ // 3.08 //
 
-> Differentiated cognition is not itself declared to be one of the four
+> Consciousness is not itself declared to be one of the four
 > supports; when inclusion is examined, however, the relation is
 > four-cornered. Within that three-domain world, beings have four modes of
 > birth, beginning with egg-birth.
@@ -84,39 +84,43 @@ Word division and punctuation are editorial. The source label
 `[118|01-128|01]` is treated as a pagination typo. The defective
 `jarāyujā yoiḥ` is provisionally read as `jarāyujā yoniḥ`; `upapadane` is
 read as the source's own suggested `upapādane`. The difficult phrase
-`yuvanty asyāṃ` is retained provisionally rather than made to bear the
-translation; the explanation securely turns on `prasavasāmya`, similarity of
-generation. The running witness remains unchanged.
+`yuvanty asyāṃ` is retained provisionally and translated only tentatively;
+the explanation securely turns on `prasavasāmya`, similarity of generation.
+In the four-corner list, the transmitted `prathamāḥ ... yaddhijñānam` is
+provisionally read as `prathamā ... yad vijñānam`; the compressed
+`caturthyetānākārān` is divided as `caturthī etān ākārān`.
+The running witness remains unchanged. The opening passage at 117.28–118.09
+is shared with VAK 3.07, whose delayed `kevalam` closes that verse; the next
+fragment, `vijñānaṃ na sthitiḥ proktam`, begins VAK 3.08 at 118.10.
 
 ## 3. Continuous Conventional Translation
 
-Why is differentiated cognition not itself called a support of differentiated
-cognition, whereas in the seven cognition-stations all five aggregates are
-included? Because a support is designated while excluding that which stands
-upon it. The one that stands is not itself called its support, just as the king
-is not himself the royal seat. The Vaibhāṣikas say that the dharmas which
-differentiated cognition mounts and through which it travels—like one carried
-by a boat—are called its supports. Cognition does not mount cognition itself
-and travel; therefore it is not included.
+Why is consciousness not itself called a station of consciousness, whereas
+the seven stations include all five aggregates? Because a station is designated
+apart from what stands upon it. The one that stands is not itself its seat,
+just as the king is not himself the royal throne. The Vaibhāṣikas say that
+the dharmas which consciousness mounts and by which it travels, like a boat
+passenger, are called its stations. Consciousness does not mount itself and
+travel; therefore it is not included among the four.
 
 But what, then, of the sūtra statement: “When there is delight and craving for
-the nutriment of differentiated cognition, cognition is established and has
-mounted there”? And how is it said that “the seven cognition-stations are
+consciousness as nutriment, consciousness is established and has mounted
+there”? And how is it said that “the seven stations of consciousness are
 included within the five aggregates”?
 
-In that case, when cognition occurs with delight in the aggregates included,
-without distinction, within a birthplace, cognition too belongs to a
-cognition-station. But when the four are considered individually as form and
-the rest, each becomes a condition for the defilement of cognition. Therefore,
-among the four supports alone, “differentiated cognition is not declared to be
-a support.”
+In that case, when consciousness occurs with delight in the aggregates taken
+together, without distinction, within a birthplace, consciousness too belongs
+to a station of consciousness. But when the four are considered individually
+as form and the rest, each becomes a condition for the defilement of
+consciousness. Therefore, among the four stations alone, “consciousness is
+not declared to be a station.”
 
-Moreover, the Blessed One taught the four supports of differentiated
-cognition under the aspect of field, while differentiated cognition together
-with appropriation, taken as a whole, was taught under the aspect of seed. He
-did not establish the seed itself as the field of that seed. The dharmas that
-coexist with cognition are better fitted to function as its field; therefore
-they alone are called its supports.
+Moreover, the Blessed One taught the four stations of consciousness under
+the aspect of field, while consciousness together with appropriation, taken
+as a whole, was taught under the aspect of seed. He did not establish the
+seed itself as the field of that seed. The dharmas that coexist with
+consciousness are better fitted to function as its field; therefore they
+alone are called its stations.
 
 How, then, are the four supports included within the seven cognition-stations,
 or the seven within the four? The four are not simply included within the
@@ -124,17 +128,18 @@ seven, nor are the seven simply included within the four.
 
 “When inclusion is examined, the relation is four-cornered.” Four cases must
 be understood. Something may be included within the seven but not within the
-four, and so forth. The first corner is the cognition occurring within the
-seven cognition-stations. The second is the aggregates other than cognition
-in the bad destinies, the fourth dhyāna, and the peak of existence. The third
-is the four aggregates within the seven cognition-stations. The fourth is what
-remains after these cases are set aside.
+four, and so forth. The first corner is the consciousness occurring within the
+seven stations. The second is the aggregates other than consciousness, as
+present in the bad destinies, the fourth dhyāna, and the peak of existence.
+The third is the four support aggregate types, as applicable, within the
+seven stations. The fourth is what remains after these cases are set aside.
 
 The three-domain world described above as differentiated by destinies and the
 other distinctions should also be understood as containing “four modes of
 birth for beings, beginning with egg-birth.” These are egg-birth, womb-birth,
 moisture-birth, and spontaneous birth. `Yoni` means a kind of birth. Beings
-are grouped within one mode because their manner of generation is similar.
+[join or mingle] within it, grouped by similarity in their manner of
+generation.
 
 Which is egg-birth? Beings born from eggs, such as geese, cranes, cakravāka
 birds, peacocks, parrots, mynahs, and others.
@@ -147,8 +152,8 @@ worms, insects, moths, mosquitoes, and others.
 
 Which is spontaneous birth? Beings who arise all at once, complete, with
 unimpaired faculties and furnished with all major and minor limbs. They are
-called spontaneously born because their arising is fully accomplished at
-once. Devas, hell-beings, beings in intermediate existence, and others are
+called spontaneously born because their production is [well accomplished].
+Devas, hell-beings, beings in intermediate existence, and others are
 examples.
 
 ## 4. Movement and Voices of the Commentary
@@ -200,7 +205,7 @@ aggregates within the seven cognition-stations. The Bhāṣya consequently
 distinguishes two scopes:
 
 ```text
-five aggregates taken together within a birthplace
+associated aggregates taken together within a birthplace
     cognition may be included in a cognition-station
 
 four aggregates considered individually as fields of cognition
@@ -217,7 +222,7 @@ The second explanation assigns different functions:
 
 | Function | Member |
 |---|---|
-| seed | differentiated cognition together with appropriation |
+| seed | consciousness together with appropriation |
 | field | the four coexisting aggregates |
 
 A seed is not the field for itself. The aggregates coexisting with cognition
@@ -231,9 +236,10 @@ The passage does not license translating `upādāna` as a substantial owner of
 the aggregates. Seed and field are explanatory roles occupied by conditioned
 dharmas.
 
-The field account also explains why the four supports are `sāsrava`: they are
-the concurrent conditions through which cognition becomes established under
-appropriation, delight, craving, and defilement.
+The field account fits the earlier qualification `sāsrava`: these aggregates
+can serve as fields for consciousness under appropriation, delight, craving,
+and defilement. The Bhāṣya does not derive their with-outflow status from the
+seed-and-field analogy alone.
 
 ## 7. Four-Cornered Inclusion and Four Birth-Modes
 
@@ -243,14 +249,20 @@ four propositions:
 | Corner | In the seven | In the four | Bhāṣya case |
 |---|---:|---:|---|
 | first | yes | no | cognition occurring within the seven cognition-stations |
-| second | no | yes | four non-cognition aggregates in bad destinies, fourth dhyāna, and peak of existence |
-| third | yes | yes | four aggregates occurring within the seven |
+| second | no | yes | aggregates other than consciousness in bad destinies, fourth dhyāna, and peak of existence |
+| third | yes | yes | the four support aggregate types, where present, within the seven |
 | fourth | no | no | remaining cases after the preceding three are excluded |
 
 The two classifications overlap but neither simply contains the other. Their
 different membership follows from their different questions: the seven
 classify modes of existence in which cognition stands; the four classify the
 aggregate-fields supporting cognition.
+
+The second corner says `vijñānavarjyāḥ skandhāḥ`, aggregates other than
+consciousness. It must not be glossed as four aggregates in every excluded
+state: the formless peak of existence lacks the form aggregate. The same
+qualification applies to the third corner's four support types wherever a
+formless station is under consideration.
 
 The verse then moves from establishment to generation. The four `yoni` are
 not four substantial species of self but four similarities in the manner of
@@ -319,16 +331,23 @@ absolute projector or `yoni` a substantial vessel of self.
 
 ## 10. Review Status
 
-Provisional eighth study of the Lokanirdeśa Bhāṣya sequence. The research
-kārikā and Bhāṣya witnesses, the official Organon kārikā study, the adjacent
-VAK 3.07 Bhāṣya Study, and the running Sanskrit at 117.28–119.02 have been
-compared.
+Eighth study of the Lokanirdeśa Bhāṣya sequence, reviewed in a second pass.
+The research kārikā and Bhāṣya witnesses, the official Organon kārikā study,
+the adjacent VAK 3.07 Bhāṣya Study, and the running Sanskrit at 117.28–119.02
+have been compared.
 
-The research Bhāṣya identifies the complete source range. This Study restores
-the dialectical order before the seed–field account, preserves the restricted
+The research Bhāṣya starts at 118.10; this Study also retains the preceding
+question and answer from 117.28–118.09 as shared context with VAK 3.07. It
+preserves the dialectical order before the seed–field account and the restricted
 scope in which cognition is not a support, and records the uncertain e-text
 forms in the modes-of-birth passage. The difficult `yuvanty asyāṃ` phrase
-remains unresolved and is not silently translated as though secure.
+remains unresolved; its bracketed rendering is tentative.
+
+This pass marked the overlap with VAK 3.07, aligned the conventional
+translation of `vijñāna` with VAK 3.05–3.06, and corrected the second and
+third inclusion corners for formless states. The seed-and-field account's
+relation to `sāsrava` is now identified as an inference rather than an
+explicit derivation by the Bhāṣya.
 
 The research witnesses, running source, existing Kārikā study, and preceding
 Bhāṣya Studies remain unchanged. VAK 3.09 begins with the question at 119.03

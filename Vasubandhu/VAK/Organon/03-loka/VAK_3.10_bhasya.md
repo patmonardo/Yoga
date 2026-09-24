@@ -2,7 +2,7 @@
 
 ## 1. Kārikā Anchor
 
-> mṛtyupapattibhavayor antarā bhavatīha yaḥ /
+> mṛtyūpapattibhavayor antarā bhavatīha yaḥ /
 > gamyadeśānupetatvān nopapanno 'ntarābhavaḥ // 3.10 //
 
 > That which arises here between death-existence and rebirth-existence is
@@ -17,7 +17,7 @@ where a projected karmic result becomes manifest and reaches completion.
 
 > ko 'yam antarābhāvo nāma /
 >
-> mṛtyupapattibhavayor antarā bhavatīha yaḥ /
+> mṛtyūpapattibhavayor antarā bhavatīha yaḥ /
 >
 > maraṇabhavasyopapattibhavasya cāntarā ya ātmabhāvo 'bhinirvartate
 > deśāntaropapattisaṃprāptaye so 'ntarābhava ity ucyate /
@@ -47,6 +47,10 @@ Word division and punctuation are editorial. The opening e-text form
 as `yaḥ`, and `vīpāka` is normalized to `vipāka`. These are evident working-
 text defects, not a claim to have established a critical edition. The running
 source remains unchanged.
+
+The verse's `mṛtyūpapatti-` preserves the regular sandhi of `mṛtyu +
+upapatti` and agrees with the running witness and Devanāgarī. The earlier
+IAST `mṛtyupapatti-` was a transcription error.
 
 ## 3. Continuous Conventional Translation
 
@@ -232,16 +236,20 @@ that proof, one argument at a time.
 
 ## 10. Review Status
 
-Provisional tenth study of the Lokanirdeśa Bhāṣya sequence. The research
-kārikā and Bhāṣya witnesses, the official Organon kārikā study, the adjacent
-VAK 3.09 Bhāṣya Study, and the running Sanskrit at 120.06–120.16 have been
-compared.
+Tenth study of the Lokanirdeśa Bhāṣya sequence, reviewed in a second pass.
+The research kārikā and Bhāṣya witnesses, the official Organon kārikā study,
+the adjacent VAK 3.09 Bhāṣya Study, and the running Sanskrit at 120.06–120.16
+have been compared.
 
 The research Bhāṣya identifies the correct natural boundary. This Study keeps
 definition, controversy, and proof-status distinct: VAK 3.10 rejects the
 discontinuity thesis and announces two modes of proof, but does not yet supply
 the rice-continuum argument. Evident e-text repairs are disclosed above.
 
-The research witnesses, running source, existing Kārikā study, and preceding
-Bhāṣya Studies remain unchanged. VAK 3.11 begins with the reasoning at 120.17
-and has not been undertaken here.
+This pass corrected `mṛtyūpapatti-` in the official IAST here and in the
+adjacent Kārikā study. The running witness and the Kārikā's Devanāgarī support
+the reading; the underlying research witnesses were not changed.
+
+The research witnesses, running source, and preceding Bhāṣya Studies remain
+unchanged. VAK 3.11 begins with the reasoning at 120.17 and has not been
+undertaken here.

@@ -30,7 +30,7 @@ nārakaḥ                       → nārakaḥ
 | yāti | third-person singular present of √yā | goes; proceeds |
 | gati-deśam | accusative masculine singular compound | place belonging to the projected destiny |
 | riraṃsayā | instrumental feminine singular | through desire to enjoy; through longing |
-| gandha-sthāna | compound member | place characterized or indicated by scent |
+| gandha-sthāna | compound members | scent and place, distributed across two birth-modes in the Bhāṣya |
 | abhikāmaḥ | nominative masculine singular adjective | strongly desiring; attracted toward |
 | anyaḥ | nominative masculine singular | another [intermediate being or birth-case] |
 | ūrdhva-pādaḥ | nominative masculine singular compound | with feet upward; inverted in orientation |
@@ -62,7 +62,7 @@ anyaḥ [antarābhavaḥ]
     gandha-sthāna-abhikāmaḥ [yāti]
 ```
 
-> Another, attracted toward a scent-place, [goes there].
+> Another, attracted toward scent or a place, [goes there].
 
 The final clause specifies the hell-bound orientation:
 
@@ -82,15 +82,15 @@ to spontaneous birth, and distinctive orientation to different destinies.
 ### Close syntactic construe
 
 > With inverted understanding, it goes to the place of its destiny through
-> longing. Another is attracted toward a scent-place; but the hell-bound
+> longing. Another is attracted toward scent or a place; but the hell-bound
 > intermediate being goes with feet upward.
 
 ### Bhāṣya-informed study translation
 
 > The intermediate being approaches its karmically projected rebirth-place
 > through a distorted presentation and the longing corresponding to its mode
-> of birth. A moisture-born transition is attracted toward a pure or impure
-> scent-place; a spontaneously arisen transition is attracted toward its
+> of birth. A moisture-born transition approaches an impure or pure site,
+> drawn by scent; a spontaneously arisen transition is attracted toward its
 > place. A hell-bound transition moves inverted, with feet upward.
 
 The distribution across womb, moisture, and spontaneous birth and the pure or
@@ -115,7 +115,7 @@ impure character of scent are Bhāṣya determinations.
 | upapatti-deśa | place of rebirth | Bhāṣya sharpening of `gati-deśa` |
 | riraṃsā | longing to enjoy | affective attraction mediating approach to womb-birth |
 | abhilāṣa | desire / attraction | Bhāṣya's more general term for destination-directed approach |
-| gandha-sthāna | scent-place | attractor associated with moisture-birth |
+| gandha-sthāna | scent and place | scent applies to moisture-birth; place to spontaneous birth |
 | yoni | mode of birth | determines the proximate mode under which a destination is approached |
 | karma-prabhāva-saṃbhūta-cakṣus | eye produced by karmic efficacy | sees its own distant place of rebirth |
 | ūrdhva-pāda | feet-upward | orientation assigned to the hell-bound intermediate being |
@@ -180,7 +180,7 @@ womb-birth
     inverted presentation + longing
 
 moisture-birth
-    attraction toward a scent-place
+    attraction through scent toward a rebirth-site
 
 spontaneous birth
     attraction toward a place

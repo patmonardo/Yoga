@@ -29,7 +29,7 @@ naivavidyānāvidyāsaṃsparśa iti. ete punar yathākramaṃ veditavyāḥ:
 amalakliṣṭaśeṣitāḥ.
 
 anāsravaḥ sparśo vidyāsaṃsparśaḥ; kliṣṭo 'vidyāsaṃsparśo
-'vidyayā saṃprayuktatvāt. śeṣo naivavidyānāvidyāsaṃsparśa
+vidyāvidyābhyāṃ saṃprayuktatvāt. śeṣo naivavidyānāvidyāsaṃsparśa
 ubhābhyām asaṃprayogāt. kaḥ punaḥ śeṣaḥ? kuśalasāsravo
 'nivṛtāvyākṛtaś ca.
 
@@ -51,11 +51,13 @@ duḥkhāduḥkhāsukhavedanīyāv api yojyau.
 ta ete ṣoḍaśa sparśā bhavanti. uktaḥ sparśaḥ.
 ```
 
-The running witness reads the association clause at 144.12–13 in a compressed
-and likely damaged form and has the mechanical error `soparśau` at 144.15.
-The continuous text provisionally reads the first as association with
-`avidyā`, required by the contrast, and repairs the second to `sparśau`. These
-are transparent working repairs, not claims to a critical text.
+The running witness reads `vidyā 'vidyābhyāṃ saṃprayuktatvāt` at
+144.12–13. The continuous text provisionally joins this as
+`vidyāvidyābhyāṃ`, a paired reference to association with knowledge and
+ignorance respectively, rather than assigning the clause only to ignorance.
+The e-text's `soparśau` at 144.14–15 is repaired to `sparśau`. These are
+working readings, not claims to a critical text. The running source remains
+unchanged.
 
 ## 3. Continuous Conventional Translation
 
@@ -64,12 +66,12 @@ knowledge, contact associated with ignorance, and another distinct from those
 two—contact associated with neither knowledge nor ignorance. These are to be
 understood respectively as uncontaminated, defiled, and remaining.
 
-Uncontaminated contact is contact associated with knowledge. Defiled contact
-is contact associated with ignorance, because it is associated with
-ignorance. The remainder is contact associated with neither knowledge nor
-ignorance, because it is associated with neither. What, then, is the
-remainder? Wholesome but contaminated contact and unobstructed-indeterminate
-contact.
+Uncontaminated contact is contact associated with knowledge; defiled contact
+is contact associated with ignorance, because they are associated with
+knowledge and ignorance respectively. The remainder is contact associated
+with neither knowledge nor ignorance, because it is conjoined with neither.
+What constitutes the remainder? Wholesome but contaminated contact and
+unobstructed-indeterminate contact.
 
 Again, by taking a frequently manifesting portion of contact associated with
 ignorance, there are two contacts: contact of aversion and contact of

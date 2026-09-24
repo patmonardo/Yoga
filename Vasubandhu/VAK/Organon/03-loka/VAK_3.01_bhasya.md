@@ -31,7 +31,7 @@ desire-domain, but they are not identical classifications.
 >
 > sthānānīti vākyaśeṣaḥ saṃbadhyate / aṣṭau mahānarakāḥ / saṃjīvaḥ
 > kālasūtraḥ saṃghāto rauravo mahārauravas tapanaḥ pratāpano 'vīciś
-> ceti / catvāro dvīpāḥ / jambūdvīpaḥ pūrvavideho 'varagodānīya
+> ceti / catvāro dvīpāḥ / jambūdvīpaḥ pūrvavideho 'varagodānīyaḥ
 > uttarakuruś ca / ṣaṭ cānantaroktā devanikāyās tiryaścaḥ pretāś ca
 > viṃśatiḥ sthānāni /
 >
@@ -45,7 +45,9 @@ kāmadhātoḥ`, open the determination of the form-domain accompanying VAK 3.02
 Word division and punctuation are editorial. The running e-text transmits
 `strāyastriṃśā`; the expected standard name is `trāyastriṃśā`. The transmitted
 reading remains visible above rather than being silently corrected. The source
-is treated as a working textual witness, not as a critical edition.
+is treated as a working textual witness, not as a critical edition. The
+continent name `avaragodānīyaḥ` retains the final `ḥ` present in the running
+source; it had been omitted in the earlier continuous transcription.
 
 ## 3. Continuous Conventional Translation
 
@@ -77,6 +79,10 @@ the container-world is included, it extends as far down as the wind-circle.
 other dharmas a determinate belonging to one or more domains. “Container-world”
 renders `bhājanaloka`; **Cosmic Frame** is reserved for the later Organon study
 and is not inserted into the conventional translation.
+
+The “four destinies” here are the four nondeva groups named before the six
+deva classes. The later five-destiny formulation in 3.04 includes the deva
+destiny, of which these six classes are the desire-domain portion.
 
 ## 4. Movement and Voice of the Commentary
 
@@ -129,8 +135,10 @@ sentient existence that belong to it.
 
 The prose calls hell-beings, pretas, animals, and humans `catasro gatayaḥ`,
 four destinies. It then separately names six `devanikāya`, classes of devas.
-Both expressions are Bhāṣya determinations; neither `gati` nor `devanikāya`
-occurs in the Kārikā itself.
+This local count of four does not deny the five-destiny scheme: 3.04 counts
+devas as the fifth destiny and distributes that destiny across the three
+domains. Both expressions are Bhāṣya determinations; neither `gati` nor
+`devanikāya` occurs in the Kārikā itself.
 
 ## 6. Sentient Existence and the Container-World
 
@@ -140,7 +148,7 @@ orders:
 
 ```text
 sentient order
-    four destinies + six deva classes
+    four nondeva destinies + six desire-domain deva classes
 
 supporting order
     bhājanaloka, the container-world
@@ -167,13 +175,17 @@ The Bhāṣya asks `kati sthānāni`, “how many locations?” and then states 
 | great hells | 8 |
 | continents | 4 |
 | desire-domain deva classes | 6 |
-| animal location | 1 |
-| preta location | 1 |
+| animals, counted as one station | 1 |
+| pretas, counted as one station | 1 |
 | **Total** | **20** |
 
-Humans are not added as a twenty-first location. Human existence is located
-through the four continents. This confirms that the verse's opening list of
-sentient modes and its closing count of locations answer different questions.
+Humans are not added as a twenty-first location: in this reckoning the four
+continents carry their contribution to the total. Animals and pretas each
+count once; the passage does not thereby assert that all members of either
+group inhabit one physical place. `Sthāna` here serves the enumeration of
+stations of existence, which combines hells, continents, deva classes,
+animals, and pretas. The verse's opening list of sentient modes and its
+closing count of stations answer different questions.
 
 The final sentence then distinguishes two extents:
 

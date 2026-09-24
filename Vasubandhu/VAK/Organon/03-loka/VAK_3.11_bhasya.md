@@ -70,8 +70,8 @@ continuity cannot produce rebirth at another place through an absolute break.
 > upapattibhavasyāpi dvābhyāṃ kāraṇābhyāṃ saṃbhavo maraṇabhavāc
 > cānyataś ca pradhānabhūtād ity ato 'py ayam asamāno dṛṣṭāntaḥ /
 >
-> na ca yuktam uktaṃ bāhyam eva cetanaṃ śukraśoṇitaṃ pradhānakāraṇam iti /
-> yatra cāṇḍakāṇā eva prādurbhāva upapādukānāṃ tatra kiṃ parikalpyate /
+> na ca yuktam uktaṃ bāhyam eva [a]cetanaṃ śukraśoṇitaṃ pradhānakāraṇam iti /
+> yatra cāndhakāṇa eva prādurbhāva upapādukānāṃ tatra kiṃ parikalpyate /
 >
 > evaṃ tāvad yuktito neṣyate / na maraṇabhavād vicchinna
 > upapattibhavaprādurbhāvaḥ / tasmād asty evāntarābhavaḥ /
@@ -85,9 +85,14 @@ Word division and punctuation are editorial. The working source contains
 numerous evident defects: `sādharmvād`, the page label `[120|19-120|920]`,
 `dharmāhntaram`, doubled `dharmāṇāṃ`, `vimvasya`, `saṃvaddhatvāt`, and
 `marāṇabhavāt`. These have been provisionally normalized. The difficult
-reading `andhakāṇa` near the end is read as `aṇḍakāṇā`, “in the egg,” in line
-with the argument reported by the research witness, but this requires
-critical verification. The running source remains unchanged.
+reading `cāndhakāṇa` near the end has no secure construal here; the earlier
+repair `aṇḍakāṇā`, “in the egg,” conflicts with the example of spontaneous
+birth and has been withdrawn. The source also has `cetanaṃ` for the
+reproductive materials. The provisional `[a]cetanaṃ`, “insentient,” agrees
+with the argument and with [Xuanzang's parallel as analyzed in a modern
+study](https://www.cambridge.org/core/journals/religious-studies/article/sanghabhadras-arguments-for-the-existence-of-an-intermediate-state-antarabhava-between-biological-death-and-rebirth-as-translated-by-xuanzang-602664-ce/28669B53C3214D19E80FB5CAAE990E4D).
+That parallel has spontaneous beings appear “in space”; it does not by itself
+establish the damaged Sanskrit word. The running source remains unchanged.
 
 ## 3. Continuous Conventional Translation
 
@@ -146,9 +151,9 @@ the principal cause. Rebirth-existence does not likewise arise from two
 principal causes—from death-existence and from some other independent
 principal cause. For this reason too the example is dissimilar.
 
-Nor is it reasonable to say that external, animate semen and blood alone are
-the principal cause. What would be imagined as the principal cause where
-spontaneously arisen beings appear, or in egg-birth?
+Nor is it reasonable to say that external, [insentient] semen and blood alone
+are the principal cause. Where spontaneously arisen beings appear without
+such materials, what principal cause would be posited?
 
 Thus, on the basis of reasoning, the arising of rebirth-existence after a
 break from death-existence is not accepted. Therefore intermediate existence
@@ -267,9 +272,9 @@ proposed rebirth
 ```
 
 External reproductive materials cannot fill this role universally, because
-the classification includes spontaneous generation and other cases not
-explained by that proposed model. The counterexample therefore lacks the
-relevant similarity required of a probative example.
+the classification includes spontaneous generation without those materials.
+The counterexample therefore lacks the relevant similarity required of a
+probative example.
 
 ## 8. The Bhāṣya's Decisions for the Kārikā
 
@@ -322,16 +327,18 @@ appropriate model. The proof from scripture follows next.
 
 ## 10. Review Status
 
-Provisional eleventh study of the Lokanirdeśa Bhāṣya sequence. The research
-kārikā and Bhāṣya witnesses, the official Organon kārikā study, the adjacent
-VAK 3.10 Bhāṣya Study, and the running Sanskrit at 120.17–121.18 have been
-compared.
+Eleventh study of the Lokanirdeśa Bhāṣya sequence, reviewed in a second pass.
+The research kārikā and Bhāṣya witnesses, the official Organon kārikā study,
+the adjacent VAK 3.10 Bhāṣya Study, and the running Sanskrit at 120.17–121.18
+have been compared.
 
 The research Bhāṣya identifies the complete argumentative range but abbreviates
 the optical discussion in its continuous translation. This Study restores
 that discussion and keeps the two defects—unestablishedness and dissimilarity—
-separate. Several damaged readings, especially the final reproductive example,
-remain provisional pending a critical witness.
+separate. The last reproductive example remains textually damaged. This pass
+withdrew the unsupported “egg-birth” reading and marked “insentient” as a
+conjectural repair supported by Xuanzang's parallel. A critical Sanskrit
+witness is still needed for the exact wording.
 
 The research witnesses, running source, existing Kārikā study, and preceding
 Bhāṣya Studies remain unchanged. VAK 3.12 begins the proof from scriptural

@@ -33,9 +33,12 @@ formative ground of each profile.
 > śeṣāṇāṃ caturthīti siddhaṃ bhavati /
 
 This natural unit runs from printed 128.26 through 129.04 in
-`Vasubandhu/Sources/kosabhasya.txt`. At 129.05 external proponents of an
-ātman raise a new objection concerning transmigration; that begins the
-argument of VAK 3.18.
+`Vasubandhu/Sources/kosabhasya.txt`. At 129.05 external proponents use
+transmigration to argue for an ātman; that begins the argument of VAK 3.18.
+
+The research Bhāṣya witness begins at 128.24 and repeats the closing
+definition of clear awareness from VAK 3.16. This Study begins instead with
+`atra punar apadiśyate` at 128.26, after that definition.
 
 Word division and punctuation are editorial. The e-text's compressed
 `viśadakarmaṇāmdārapuṇyakriyāṇāṃ` has provisionally been divided and read as
@@ -191,5 +194,5 @@ the fourth profile's derivation by remainder.
 The Sanskrit and translation remain provisional. The corrupt compound at
 129.02 and the exact force of `vā` require comparison with critical Sanskrit,
 Tibetan, Chinese, and established translations during the later learning
-pass. The Study stops before the externalists' anti-transmigration objection
-at 129.05 and does not enter VAK 3.18.
+pass. The Study stops before the externalists' inference of an ātman from
+transmigration at 129.05 and does not enter VAK 3.18.

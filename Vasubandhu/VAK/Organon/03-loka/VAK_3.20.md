@@ -29,7 +29,7 @@ paripūriṇaḥ             → paripūriṇaḥ
 | Form | Morphology | Lexical force here |
 |---|---|---|
 | saḥ | nominative masculine singular pronoun | that previously described continuum |
-| pratītyasamutpādaḥ | nominative masculine singular compound | dependent co-arising; conditioned arising in mutual sequence |
+| pratītyasamutpādaḥ | nominative masculine singular compound | dependent arising; arising in dependence on conditions |
 | dvādaśāṅgaḥ | nominative masculine singular compound | possessing twelve members |
 | trikāṇḍakaḥ | nominative masculine singular adjective | divided into three sections |
 | pūrvāparāntayoḥ | locative dual compound | at the prior and subsequent limits |
@@ -52,7 +52,7 @@ saḥ pratītyasamutpādaḥ
     tri-kāṇḍakaḥ [asti]
 ```
 
-> That dependent co-arising has twelve members and three sections.
+> That dependent arising has twelve members and three sections.
 
 The second half distributes the members:
 
@@ -77,14 +77,14 @@ Bhāṣya.
 
 ### Close syntactic construe
 
-> That dependent co-arising is twelve-membered and three-sectioned: two at
+> That dependent arising is twelve-membered and three-sectioned: two at
 > each of the prior and subsequent limits, and eight in the middle for one who
 > completes the course.
 
 ### Bhāṣya-informed study translation
 
 > The aggregate-continuum previously followed through rebirth is dependent
-> co-arising articulated into twelve members across three lives: ignorance and
+> arising articulated into twelve members across three lives: ignorance and
 > formations belong to the past life; birth and aging-and-death to the future
 > life; and the other eight to the complete present desire-realm life that
 > traverses all the relevant stages.
@@ -106,7 +106,7 @@ restriction are Bhāṣya determinations rather than additional Kārikā wording
 
 | Sanskrit | Controlled rendering | Determination in this unit |
 |---|---|---|
-| pratītyasamutpāda | dependent co-arising | the three-birth articulation of the previously described continuum |
+| pratītyasamutpāda | dependent arising | the three-birth articulation of the previously described continuum |
 | aṅga | member | a functional-temporal determination within the twelvefold series |
 | dvādaśāṅga | twelve-membered | ignorance through aging-and-death as enumerated by the Bhāṣya |
 | kāṇḍa | section | one of the three temporal divisions of the series |
