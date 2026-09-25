@@ -219,9 +219,9 @@ a developed capacity of understanding remains our further Organon inquiry.
 
 ## 11. Review Status
 
-Provisional twenty-fourth study in the Bhāṣya edition. The local research
+QA review of the twenty-fourth Bhāṣya study. The local research
 commentary, kārikā opening, and running Sanskrit have been compared through
-the closing alternative. The source repairs, distribution of reasons,
+017.03. The source repairs, distribution of reasons,
 individual-base distinction, and three-eye attribution are preserved.
 
 The research account's faculty-only description of the naming remainder

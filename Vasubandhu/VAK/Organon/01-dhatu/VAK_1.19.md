@@ -65,8 +65,12 @@ The Bhāṣya distributes the three commonalities for the eye:
 two eyes
     share eye-nature                 → jāti-sāmānya
     have visible form as object      → gocara-sāmānya
-    support one type of eye-cognition → vijñāna-sāmānya
+    support one eye-cognition         → vijñāna-sāmānya
 ```
+
+The Bhāṣya says “one eye-cognition”; this establishes the shared cognitive
+relation for the count without specifying whether both supports are active
+in every particular act of seeing.
 
 The same construction is to be applied analogically to the two ears and two
 nostril sites.
@@ -93,11 +97,11 @@ The aesthetic explanation is not a fourth criterion of domain-unity.
 
 ### Bhāṣya-informed translation
 
-> The two eyes constitute one eye-domain because they share one faculty-kind, take the same class of visible objects, and support the same type of visual cognition. The same reasoning applies to the paired ears and nostril sites. Their bodily occurrence in pairs serves the symmetry of the supporting organism rather than multiplying the domains.
+> The two eyes constitute one eye-domain because they share one faculty-kind, have visible form as their object, and are supports of one eye-cognition. The same reasoning applies to the paired ears and nasal faculties. Their bodily occurrence in pairs is said to serve the beauty of the bodily support; it does not multiply the domains.
 
 The second translation distinguishes anatomical instances from the classes
-recognized by the dhātu system. The faculties remain numerically paired and
-fully real as bodily supports.
+recognized by the dhātu system. The passage acknowledges paired bodily sites
+without identifying the faculty simply with a gross visible organ.
 
 ## 6. Philosophical Translation
 
@@ -117,11 +121,11 @@ more than one bodily instance.
 |---|---|---|
 | jāti | faculty-kind | shared intrinsic class of the paired supports |
 | gocara | object-range | kind of content toward which a faculty is directed |
-| vijñāna | corresponding cognition | one cognitive type supported by both members of a pair |
+| vijñāna | corresponding cognition | one eye-cognition is named for both supports in the example |
 | sāmānya | commonality | shared determination grounding domain-unity |
 | jāti-sāmānya | commonality of kind | both bodily sites possess the same faculty-nature |
 | gocara-sāmānya | commonality of object-range | both take the same class of object |
-| vijñāna-sāmānya | commonality of cognition | both support the same cognition-type |
+| vijñāna-sāmānya | commonality of cognition | both share the stated relation to one corresponding cognition |
 | eka-dhātutā | one-domain status | conceptual unity despite numerical embodiment |
 | dvitva | duality | occurrence as two bodily sites |
 | āśraya | support | bodily faculty-site conditioning cognition |
@@ -147,13 +151,15 @@ NumericallyDistinct(x, y)
     ↛ DomainDistinct(x, y)
 ```
 
-One-domain status requires three commonalities:
+For these paired faculties, the three commonalities establish one-domain
+status:
 
 ```text
-SameDomain(x, y)
-    ↔ SameFacultyKind(x, y)
+PairedFacultySupports(x, y)
     ∧ SameObjectRange(x, y)
-    ∧ SupportsSameCognitionType(x, y)
+    ∧ SameFacultyKind(x, y)
+    ∧ SupportsOneCorrespondingCognition(x, y)
+    → SameDhatu(x, y)
 ```
 
 For the eyes:
@@ -161,7 +167,7 @@ For the eyes:
 ```text
 EyeNature(leftEye) = EyeNature(rightEye)
 ObjectRange(leftEye) = VisibleForm = ObjectRange(rightEye)
-CognitionType(leftEye) = VisualCognition = CognitionType(rightEye)
+CommonCognitionRelation(leftEye, rightEye) = support of eye-cognition
     → OneEyeDomain
 ```
 
@@ -180,8 +186,8 @@ than by gross anatomical enumeration.
 
 ## 9. Interpretive Note
 
-VAK 1.19 is the first worked test of the classification method. The system
-encounters an apparent counterexample: if classification follows what a
+VAK 1.19 is a worked test of domain counting within the chapter's setup.
+The system encounters an apparent counterexample: if classification follows what a
 dharma is, should two eyes not be two eye-domains? The answer refines
 `svabhāva`. Own-nature is not numerical individuality. It is the determinate
 kind together with its object-range and cognition.
@@ -198,7 +204,7 @@ shared visible domain
 shared visual cognition-type
 ```
 
-The cognitive criterion is decisive but not solitary. Vasubandhu gives three
+The cognitive criterion is essential but not solitary. Vasubandhu gives three
 irreducible grounds—kind, object-range, and cognition. We should therefore
 not rewrite the verse as though vijñānaskandha alone produces the unity. The
 domain is the structured correlation of all three.
@@ -229,18 +235,18 @@ vak:VAK_1_19
 
 vak:OneDomainStatus
     vak:groundedIn vak:CommonFacultyKind , vak:CommonObjectRange ,
-        vak:CommonCognitionType ;
+        vak:CommonCognitionRelation ;
     vak:compatibleWith vak:NumericallyMultipleSupports .
 
 vak:PairedEyeSupports
     vak:constitute vak:OneEyeDomain ;
     vak:share vak:EyeNature , vak:VisibleFormRange ,
-        vak:VisualCognitionType .
+        vak:EyeCognitionRelation .
 
 vak:NumericalMultiplicity
     vak:doesNotImply vak:DomainMultiplicity .
 
 vak:PairedEmbodiment
-    vak:hasStatedPurpose vak:BodilySymmetry ;
+    vak:hasStatedPurpose vak:BodilyBeauty ;
     vak:distinctFrom vak:GroundOfDomainUnity .
 ```

@@ -205,10 +205,10 @@ source word remains unresolved.
 
 ## 10. Review Status
 
-Provisional twenty-eighth study in the Bhāṣya edition. The local research
+QA review of the twenty-eighth Bhāṣya study. The local research
 commentary, kārikā opening, and running Sanskrit have been compared through
-the final assignment; the HTML transcription was checked specifically for
-`cittasthaṃ` and repeats the unresolved reading.
+018.25. The existing HTML check for `cittasthaṃ` records the same unresolved
+reading.
 
 The reportive attributions, agha uncertainty, sāsrava restriction, plural
 birth-function, and final mapping are preserved. Original research files

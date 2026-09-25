@@ -4,7 +4,7 @@
 
 > विवादमूलसंसारहेतुत्वात् क्रमकारणात् ।
 >
-> चित्तेभ्यो वेदनासंज्ञे पृथक्स्कन्धौ निवेशितौ ॥ १.२१ ॥
+> चैत्तेभ्यो वेदनासंज्ञे पृथक्स्कन्धौ निवेशितौ ॥ १.२१ ॥
 
 ## 2. Sanskrit (IAST)
 
@@ -40,13 +40,18 @@ The Bhāṣya supplies `pradhāna-hetu`, “principal cause,” as the force of 
 first compound. Vedanā and saṃjñā are not asserted to be the only causes of
 dispute or saṃsāra.
 
+The research kārikā's Devanāgarī has `चित्तेभ्यो` (*cittebhyaḥ*). The
+running source, research IAST, and opening Bhāṣya prose support
+`चैत्तेभ्यो` (*caittebhyaḥ*), “from the other mental factors”; the official
+Devanāgarī is corrected accordingly.
+
 ## 4. Grammar
 
 The two ablatives state three grounds for the classificatory decision:
 
 ```text
-vivāda-mūlatvāt
-    because they are roots of dispute
+vivāda-mūla-hetutvāt
+    because they are causes of the roots of dispute
 
 saṃsāra-hetutvāt
     because they are principal causes of saṃsāra
@@ -81,11 +86,11 @@ the aggregate sequence belongs to VAK 1.22.
 
 ### Close syntactic construe
 
-> Because they are roots of dispute and causes of saṃsāra, and because of the reason for the sequence, feeling and recognition are established as aggregates separate from the other mental factors.
+> Because they cause the roots of dispute and saṃsāra, and because of the reason for the sequence, feeling and recognition are established as aggregates separate from the other mental factors.
 
 ### Bhāṣya-informed translation
 
-> Vedanā and saṃjñā receive separate aggregate status because they are principal roots of conflict and cyclic continuation: savoring feeling leads to fixation upon sensual desire, while inverted recognition leads to fixation upon views. Their separation is also required by the systematic order of the aggregates, explained in the following verse.
+> Vedanā and saṃjñā receive separate aggregate status because they are principal causes of the two roots of dispute and of cyclic continuation: savoring feeling leads to fixation upon sensual pleasures, while inverted recognition leads to fixation upon views. Their separation is also connected with the order of the aggregates, whose rationale is explained next.
 
 The translation preserves `saṃjñā` as recognition through a mark. “Ideas”
 would obscure the causal claim: views arise through fixation upon marks that
@@ -146,12 +151,16 @@ The two dispute-series are:
 vedanā
     → savoring of feeling
     → fixation upon sensual desire
-    → dispute and continued saṃsāra
+    → a root of dispute
 
 saṃjñā
     → inverted grasping of a mark
     → fixation upon views
-    → dispute and continued saṃsāra
+    → a root of dispute
+
+greed for the savor of feeling
+∧ distorted saṃjñā
+    → continued wandering in saṃsāra
 ```
 
 The causal qualification must remain:
@@ -185,9 +194,8 @@ identified. When that taking-up is inverted, the false mark stabilizes the
 field upon which a view is then fixed:
 
 ```text
-misrecognition
-    precedes and conditions
-dogmatic fixation
+distorted recognition
+    conditions fixation upon views
 ```
 
 The verse therefore diagnoses bad doctrine without reducing doctrine to
@@ -237,10 +245,16 @@ vak:Samjna
     vak:mayBecome vak:InvertedRecognition .
 
 vak:SensualFixation
-    vak:isRootOf vak:Dispute , vak:Samsara .
+    vak:isRootOf vak:Dispute .
 
 vak:ViewFixation
-    vak:isRootOf vak:Dispute , vak:Samsara .
+    vak:isRootOf vak:Dispute .
+
+vak:Vedana
+    vak:isPrincipalCauseOf vak:Samsara .
+
+vak:Samjna
+    vak:isPrincipalCauseOf vak:Samsara .
 
 vak:SeparateAggregateStatus
     vak:mayBeGroundedIn vak:CausalSalience , vak:SystematicSequence .

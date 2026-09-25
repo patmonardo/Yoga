@@ -223,26 +223,27 @@ how every later moment of avijñapti is supported.
 
 ## 9. Interpretive Note
 
-VAK 1.13 brings the distinction between outward appearance and inward
-Dharma-determination into the text's own method. Ordinary language points to
-a color and configuration and calls it earth. Abhidharma asks what
-characteristic and function make the elemental complex intelligible. Dhātu
-therefore names a domain of determination, not a subtler piece of matter
-hidden behind the visible piece.
+The Bhāṣya asks what ordinary elemental names designate. Earth, water, and
+fire are pointed out through visible color and configuration; wind can be
+named as the wind-dhātu itself and also through visible descriptions. The
+contrast therefore depends on the particular usage, not on a uniform split
+between ordinary words and technical entities.
 
-The extended Bhāṣya makes the result stronger. Rūpa is unified by its
-susceptibility to alteration, yet avijñapti resists easy inclusion under that
-definition. The proposed analogies of tree and shadow or jewel and radiance
-are criticized because avijñapti may continue after its originating material
-supports have ceased. The classification is retained, but its exact
-ontological defense remains disputed. Our study should preserve that
-difficulty rather than pretending that “Dharma-controlled reality” has
-already solved the Vaibhāṣika problem.
+The extended Bhāṣya asks why the whole group through avijñapti is called
+rūpa. Being affected supplies an initial answer, but avijñapti is a hard
+case. The analogies with shadow and radiance are criticized because their
+constitution and cessation do not match avijñapti's. A final reply by others
+distinguishes avijñapti's support from cognition's mixed supports. The
+classification remains in place while its justification is argued.
 
-The Organon result is nevertheless powerful. Dharma is real as lawful
-determination, as number is real, without becoming a sensible object. Its
-dialectic relates material faculty and cognition while preventing their
-collapse:
+For the Organon reconstruction, this is a concrete test of classification.
+A universal definition must be able to determine its difficult singular
+case; naming that case as a member does not itself explain its ground. The
+Bhāṣya's successive proposals, objections, and revised reply make that
+scientific work visible. This is one way our Science of Knowing can study the
+Kośa's determinations while remaining answerable to their textual limits.
+
+The cognition objection also fixes a useful relation:
 
 ```text
 material faculty
@@ -252,13 +253,17 @@ sensory cognition
     ≠ material effect contained in the faculty
 ```
 
-In this exact sense Dharma keeps spirit and matter apart. It does not isolate
-them into unrelated worlds; it maintains their determinate difference within
-one articulated relation. The inward turn of Dhātu is therefore not an
-erasure of matter but comprehension of the lawful distinctions through which
-matter, appearance, faculty, and cognition can stand together.
+In the project's terms, Buddha Mind as the Scientist of Knowing's instrument
+would sustain such discrimination: it keeps material support, cognition,
+origin, and continuing dependence in their proper relations while testing
+the classification. This is Yoga Vidyā's reconstruction. The Bhāṣya itself
+argues about rūpa, avijñapti, and support without using that designation.
 
 ## 10. OWL++ Seed
+
+The worldly-name and rūpa-criterion triples represent local claims and
+proposals in this unit. `DomainDetermination` and the Science of Knowing
+reading are Organon interpretations.
 
 ```ttl
 @prefix vak: <http://127.0.0.1:3000/vak#> .
@@ -270,17 +275,21 @@ vak:VAK_1_13
     vak:hasTopic vak:WorldlyDesignationAndDhatuDetermination ;
     vak:belongsTo vak:Dhatunirdesa .
 
-vak:WorldlyDesignation
+vak:OrdinaryEarthWaterFireName
     a vak:ConventionalNaming ;
-    vak:namesThrough vak:PresentedColor , vak:PresentedConfiguration ;
-    vak:distinctFrom vak:DhatuDetermination .
+    vak:namesThrough vak:PresentedColor , vak:PresentedConfiguration .
+
+vak:WindName
+    vak:mayName vak:WindDhatu ;
+    vak:mayNameThrough vak:PresentedColor , vak:PresentedConfiguration .
 
 vak:DhatuDetermination
     a vak:DomainDetermination ;
     vak:hasDimension vak:IntrinsicCharacteristic , vak:Function .
 
-vak:Rupa
-    vak:isSusceptibleTo vak:ConditionalAlteration .
+vak:ProposedRupaCriterion
+    vak:proposes vak:SusceptibilityToAlteration ;
+    vak:testedBy vak:AtomicForm , vak:PastFutureForm , vak:Avijnapti .
 
 vak:SensoryFaculty
     a vak:MaterialSupport ;

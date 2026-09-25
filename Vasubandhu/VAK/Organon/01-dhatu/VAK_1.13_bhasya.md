@@ -345,11 +345,14 @@ material-support analogy.
 
 ## 11. Review Status
 
-Provisional thirteenth study in the Bhāṣya edition. The complete natural
-unit, wind syntax, scriptural derivation, atomic and temporal replies, and
-successive avijñapti defenses have been checked against the research files
-and running Sanskrit. The corrected grouping in the anchor is recorded
-without editing the research kārikā.
+QA reviewed against the running Sanskrit from the question at [008|26]
+through the differentiated-support reply at [010|05–06]. The next unit
+begins with the return to rūpa constituents at [010|07]. The review confirms
+the special syntax of wind, the extension of worldly naming to its visible
+appearances, the scriptural derivation of rūpa, the atomic and temporal
+replies, and the full sequence of avijñapti proposals and objections. The
+corrected grouping in the anchor is preserved without editing the research
+kārikā.
 
 The damaged support phrase is normalized explicitly. Speaker identities
 remain unassigned where the prose supplies only an objection or reply.

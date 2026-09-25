@@ -148,7 +148,6 @@ The Bhāṣya's examples show the operation:
 
 ```text
 DisciplineAggregate
-    → HasMaterialDisciplinaryForm
     → IncludedIn(RupaSkandha)
 
 Concentration | Wisdom | Liberation | KnowledgeAndVision
@@ -167,7 +166,7 @@ The established systems claim exhaustive inclusion, not uniformity:
 
 ```text
 EveryAdditionalScripturalClassification(x)
-    → HasAppropriatePlacementWithin(5 Skandhas, 12 Ayatanas, 18 Dhatus)
+    → HasAppropriatePlacementWithinApplicableEstablishedArrangement(x)
 
 Exhaustive(x)
     ↛ Undifferentiated(x)
@@ -175,7 +174,7 @@ Exhaustive(x)
 
 ## 9. Interpretive Note
 
-VAK 1.27 is the methodological culmination of the preceding problems.
+VAK 1.27 states a general assignment rule within the chapter's system setup.
 VAK 1.25 rejected classification by the accidental recurrence of the word
 `skandha`. VAK 1.26 required a principle for counting one teaching-division.
 Now 1.27 states the general rule: determine what the received expression
@@ -194,13 +193,6 @@ Are its associates included?
 What is its intrinsic characteristic?
 Under which established analysis does it therefore fall?
 ```
-
-That is a useful difference to preserve when comparing Vasubandhu with
-Vyāsa. It is not yet a historical claim that Vyāsa simply reproduces a
-Buddhist system. Rather, within our reading, Vyāsa often appears at the
-compressed architectural level proper to sūtra commentary, whereas the
-Kośa displays the labor of analytical classification by which such a system
-must justify its boundaries.
 
 The principal-factor/associated-complex distinction is crucial. The same
 scriptural expression can be correctly placed in different ways without

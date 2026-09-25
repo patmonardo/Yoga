@@ -42,7 +42,8 @@ are normalized to `pṛthak skandhau`, `viparyastasaṃjñaḥ`, and
 syntax. The research kārikā's Devanāgarī reads `cittebhyaḥ`, while its
 IAST and the running source have `caittebhyaḥ`. The latter, “from the
 mental factors,” is followed here; the opening prose's `caitasikāḥ`
-confirms the subject of the comparison. The original files are unchanged.
+confirms the subject of the comparison. The official kārikā Devanāgarī
+has been corrected; the research files remain unchanged.
 
 ## 3. Continuous Conventional Translation
 
@@ -194,7 +195,7 @@ to its actual place in the text.
 
 ## 10. Review Status
 
-Provisional twenty-first study in the Bhāṣya edition. The unit has been
+QA review of the twenty-first Bhāṣya study. The unit through 014.23 has been
 compared with the local research commentary, the kārikā opening in both
 scripts, and the running Sanskrit. These are comparisons within the local
 corpus, not a collation of every surviving textual witness.

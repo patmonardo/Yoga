@@ -218,9 +218,9 @@ resolved through a project-level model.
 
 ## 10. Review Status
 
-Provisional twenty-third study in the Bhāṣya edition. The local research
+QA review of the twenty-third Bhāṣya study. The local research
 commentary, kārikā opening, and running Sanskrit have been compared through
-the complete unit. The successive criteria and alternative location account
+016.13. The successive criteria and alternative location account
 are preserved.
 
 The mental-object compound, food/tongue phrase, body-site clause, and

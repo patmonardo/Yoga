@@ -45,8 +45,8 @@ The research kārikā reads `śāstrapramāṇā ity eke`, with a long final
 vowel, whereas the running verse and research Bhāṣya have
 `śāstrapramāṇa ity eke`. The latter is retained in the anchor and reading
 text. It permits the sandhi of singular `śāstrapramāṇaḥ` before `iti`,
-consistent with the question about one dharmaskandha. The variant is
-recorded without changing either research witness.
+consistent with the question about one dharmaskandha. The official kārikā
+has been corrected to this reading; both research witnesses remain unchanged.
 
 ## 3. Continuous Conventional Translation
 
@@ -190,9 +190,9 @@ while preserving the distinct measures the Bhāṣya has reported.
 
 ## 10. Review Status
 
-Provisional twenty-sixth study in the Bhāṣya edition. The local research
+QA review of the twenty-sixth Bhāṣya study. The local research
 commentary, kārikā opening, and running Sanskrit have been compared through
-the complete measure discussion. The three accounts and their attributions
+017.20. The three accounts and their attributions
 remain distinct.
 
 The first-clause vowel variant, unstated unit of six thousand, and topic-list

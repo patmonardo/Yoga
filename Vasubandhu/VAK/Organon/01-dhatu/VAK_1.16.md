@@ -114,7 +114,7 @@ wisdom.
 
 ## 6. Philosophical Translation
 
-> Cognition is not first an empty inward awareness that subsequently reaches an object. Each cognition is already a determinate apprehension relative to a particular domain. The one cognition aggregate is therefore expressible as a single mental gateway and as seven differentiated domains of cognitive occurrence and succession.
+> Cognition is not first an empty inward awareness that subsequently reaches an object. Each cognition is already a determinate apprehension relative to a particular domain. The one cognition aggregate is therefore expressible as a single mind-base and as seven differentiated domains. The relation of the seventh domain to cognitive succession is explained in 1.17.
 
 Organon rendering:
 
@@ -143,12 +143,12 @@ eighteenfold system.
 
 ## 8. Logical Determination
 
-The Bhāṣya defines cognition distributively:
+The Bhāṣya defines each cognition in relation to its object; the definition
+does not assert that cognition occurs for every available object-domain:
 
 ```text
-ForEach(ObjectDomain(v))
-    → CorrespondingApprehension(c, v)
-    → Vijnana(c)
+Vijnana(c)
+    → ∃v (ObjectDomain(v) ∧ ApprehendsWithRespectTo(c, v))
 ```
 
 The sixfold mapping is:
@@ -171,15 +171,20 @@ VijnanaSkandha
     → as Dhatu:     six cognition-domains + mind-domain
 ```
 
-The Bhāṣya now summarizes the whole conversion:
+The Bhāṣya now coordinates the three classifications:
 
 ```text
-FiveSkandhas
-    ↔ TwelveAyatanas
-    ↔ EighteenDhatus
+five skandhas: conditioned aggregates
+twelve āyatanas: ten sensory bases + dharmāyatana + mana-āyatana
+eighteen dhātus: ten sensory domains + dharmadhātu
+                  + six cognition-domains + manodhātu
 ```
 
-with the distributions:
+This is a mapping of contents under different arrangements, not a one-to-one
+correspondence. The unconditioned belong to dharmāyatana and dharmadhātu
+without becoming members of an aggregate.
+
+The detailed distributions are:
 
 ```text
 RupaSkandha minus Avijnapti

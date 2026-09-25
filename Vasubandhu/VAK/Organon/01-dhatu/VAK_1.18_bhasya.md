@@ -208,7 +208,7 @@ Bhāṣya itself establishes the coverage and meaning of saṃgraha.
 
 ## 10. Review Status
 
-Provisional eighteenth study in the Bhāṣya edition. The natural unit,
+QA review of the eighteenth Bhāṣya study. The natural unit through 012.16,
 continuous Sanskrit and translation, differing scopes, three-category
 coverage, own-nature rule, eye example, and conventional-gathering contrast
 have been checked against the research Bhāṣya, kārikā opening, and running

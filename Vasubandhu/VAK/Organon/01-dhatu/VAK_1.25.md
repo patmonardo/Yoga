@@ -100,11 +100,11 @@ conditional character of the two reported positions.
 
 ## 6. Philosophical Translation
 
-> The teaching is not exempt from the system it teaches. As an audible occurrence, Buddha-word has material form; as an articulated name-structure, it is a formation. The same teaching is classified according to the determination selected for analysis without becoming an entity outside the established Dharma-field.
+> The teaching is included within the system it teaches. On the reported speech-nature account, Buddha-word is included in material form; on the reported name-nature account, it is included in formations. Either account places the Dharma-collections within the established classifications.
 
 Organon rendering:
 
-> Doctrine has both a material vehicle and a symbolic articulation. The Discriminator asks which aspect is being posited as intrinsic in the present analysis and assigns it accordingly. Exhaustiveness does not erase levels of presentation; it makes their distinct classifications explicit.
+> An Organon model can distinguish the audible vehicle of teaching from its linguistic articulation. The Bhāṣya here reports rival accounts of what Buddha-word is by nature; their possible relation as two aspects belongs to our reconstruction, not to its stated conclusion.
 
 The verse therefore folds the map back into the territory classified by the
 map. Speech and naming are themselves dharmas answerable to the system.
@@ -186,10 +186,10 @@ skandha as one of five ontological classifications
 dharmaskandha as a division of teaching
 ```
 
-The spoken/name distinction then shows two valid analytical levels. The
-sound of the teaching is rūpa; its articulated designation is saṃskāra. The
-meaning of Dharma is not declared material merely because its audible vehicle
-is material.
+The speech/name distinction reports two accounts of Buddha-word's nature.
+Under the first, the teaching is included as material sound; under the
+second, as a linguistic name within formations. Neither account declares
+the meaning taught to be material merely because sound can carry it.
 
 For the Oculus image, we may cautiously say:
 
@@ -208,7 +208,7 @@ But the present verse's exact achievement is narrower: either analysis fits
 within the exhaustive five-skandha system. The classification changes with
 the selected svabhāva without becoming arbitrary.
 
-VAK 1.25 therefore adds the first problem-solving rule:
+VAK 1.25 therefore adds a rule to the chapter's system setup:
 
 ```text
 an inherited label does not determine its category;

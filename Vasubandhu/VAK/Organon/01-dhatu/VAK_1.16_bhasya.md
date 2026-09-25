@@ -210,8 +210,8 @@ coordinating faculty could do.
 
 ## 10. Review Status
 
-Provisional sixteenth study in the Bhāṣya edition. The definition, natural
-boundary, referents of the classificatory statements, and completed
+QA review of the sixteenth Bhāṣya study. The definition, natural boundary
+through 011.18, referents of the classificatory statements, and completed
 five/twelve/eighteen summary have been checked against both research files
 and the running Sanskrit source.
 

@@ -25,7 +25,7 @@ nimittodgrahaṇa- → nimitta-udgrahaṇa-
 | Form | Morphology | Lexical force here |
 |---|---|---|
 | indriya-arthāḥ | nominative masculine plural coordinative compound | the faculties and their objects |
-| te | nominative masculine plural demonstrative | those; resumes the factors of the rūpa aggregate |
+| te | nominative masculine plural demonstrative | those; resumes the five faculties and five sensory objects |
 | eva | emphatic particle | precisely those very same |
 | iṣṭāḥ | nominative masculine plural past passive participle | accepted, maintained in the doctrinal arrangement |
 | daśa | numeral | ten in each of the two arrangements |
@@ -41,7 +41,9 @@ nimittodgrahaṇa- → nimitta-udgrahaṇa-
 The Bhāṣya restricts the potentially broad word `anubhava`: here it is the
 hedonic undergoing that is pleasant, painful, or neither. It illustrates
 `nimitta` through sensory, spatial, personal, social, and evaluative marks:
-blue, yellow, long, short, woman, man, friend, enemy, pleasant, and painful.
+blue, yellow, long, short, woman, man, friend, enemy, pleasure, and pain.
+The friend/enemy pair follows a provisional repair of the source's damaged
+`mitramitra`; it is not an intact witness reading.
 
 ## 4. Grammar
 
@@ -83,11 +85,12 @@ The gender difference between feminine `vedanā` and masculine `anubhavaḥ`
 is permitted in a predicate-noun construction. In the second definition,
 the feminine `ātmikā` agrees directly with `saṃjñā`.
 
-The Bhāṣya distributes each mental factor sixfold according to its basis:
+The Bhāṣya divides vedanā into six groups born from contact and divides
+saṃjñā into six groups by analogy with vedanā:
 
 ```text
 eye-contact-born ... mind-contact-born feeling
-eye-based ... mind-based mark-grasping
+six groups of mark-grasping, as with feeling
 ```
 
 Vedanā is also threefold by tone: pleasant, painful, and neither painful nor
@@ -109,23 +112,28 @@ second guards against taking `anubhava` as consciousness in general or
 
 ## 6. Philosophical Translation
 
-> One material content-field admits several exact organizations. As aggregate, its terms belong to an immediate collection; as āyatanas, they are ordered as gateways of encounter; as dhātus, they occupy determinate domains. Within experience, vedanā is the immediate felt tone of contact, while saṃjñā fixes what is encountered through a recognizable mark.
+> The five faculties and five sensory objects belong to the rūpa aggregate
+> and enter both the ten-base and ten-dhātu arrangements. Vedanā is felt
+> experience, differentiated by tone and by contact; saṃjñā grasps a mark
+> and is likewise divided into six groups. These are distinct operations
+> even where their examples or sixfold divisions correspond.
 
-Organon rendering:
+Organon rendering (project reconstruction):
 
-> The passage from skandha to āyatana to dhātu does not move outward toward increasingly material things. It moves from given content, through essential relation, to conceptual domain. The sensible factors remain the same; their intelligible organization becomes progressively explicit.
+> The same material factors can occupy several systematic positions without
+> becoming new substances. The passage gives our Science of Knowing a
+> concrete classification problem: preserve the factor, specify its role
+> under each arrangement, and keep felt undergoing distinct from grasping
+> a mark.
 
-The movement within the mental aggregates begins in parallel:
+The two mental definitions are parallel in this unit:
 
 ```text
 vedanā
-    = encounter as undergone
+    = felt undergoing
 
 saṃjñā
-    = encounter determined by a mark
-
-saṃskāra
-    = formative activity, developed next
+    = grasping a mark
 ```
 
 ## 7. Technical Vocabulary
@@ -143,9 +151,7 @@ saṃskāra
 | nimitta | mark | feature under which something is apprehended as determinate |
 | udgrahaṇa | grasping / taking up | apprehensive function of saṃjñā |
 | vedanā-kāya | class of feeling | one of six classes correlated with the six contacts |
-| saṃjñā-kāya | class of recognition | one of six classes correlated with the six sensory-mental bases |
-| cetanā | volition | principal formation because it is karma in mental form |
-| abhisaṃskaraṇa | active formation | conditioning activity for which volition is foremost |
+| saṃjñā-kāya | class of mark-grasping | one of six classes, divided as with vedanā |
 
 ## 8. Logical Determination
 
@@ -156,8 +162,8 @@ MaterialFactors(M)
     = FiveFaculties(M)
     + FiveSensoryObjects(M)
 
-ArrangeAsSkandha(M)
-    → ImmediateMaterialAggregate(M)
+RupaSkandhaIncludes(M)
+RupaSkandhaIncludes(Avijnapti)
 
 ArrangeAsAyatana(M)
     → TenRelationalGateways(M)
@@ -173,77 +179,57 @@ SameFactors(x)
     ∧ DifferentSystematicArrangement(x)
     ↛ NewSubstances(x)
 
-Ayatana(x) ↔ Dhatu(x) in extension here
-AyatanaMeaning ≠ DhatuMeaning
+TenMaterialFactorsUnderAyatana
+    = TenMaterialFactorsUnderDhatu
+
+AyatanaArrangement ≠ DhatuArrangement
 ```
 
-The two definitions introduce successive cognitive functions:
+The two definitions distinguish operations without asserting their temporal
+sequence:
 
 ```text
 Contact(c)
-    → FeltAs(c, pleasant | painful | neutral)
-    → Vedana(c)
+    → FeelingBornOf(c), with pleasant | painful | neutral tone
 
 PresentedContent(x)
-    → GraspedUnder(x, mark)
-    → Samjna(x)
+    → MarkGraspedIn(x)
 ```
 
-The Bhāṣya then supplies a systematic reason for including all remaining
-formations in the saṃskāra aggregate:
-
-```text
-ExcludedFromAllAggregates(x)
-    → ExcludedFromSufferingAndOrigin(x)
-    → NotSubjectToComprehensionOrAbandonment(x)
-
-but every relevant conditioned dharma
-must be comprehended and, where appropriate, abandoned
-
-therefore remaining formations
-    → IncludedInSamskaraSkandha
-```
-
-Classification is already internally related to the Path.
+The argument for including the remaining formations in the saṃskāra
+aggregate begins with VAK 1.15 and belongs to that study.
 
 ## 9. Interpretive Note
 
-VAK 1.14 begins the explicit conversion of one content-field into the three
-classificatory systems. The five faculties and five objects are material
-factors within the rūpa aggregate, but that does not exhaust their truth.
-They also function as relational gateways and as determinate domains. Calling
-them dhātus therefore need not place them on the side of inert external
-matter.
+VAK 1.14 states that the same five faculties and five sensory objects,
+already included within rūpa, furnish ten entries in the āyatana
+arrangement and ten in the dhātu arrangement. The Bhāṣya supplies the
+endpoints of the lists. It does not treat a faculty-object pair as one entry,
+nor does it include avijñapti in these ten.
 
-This is the exact textual opening for our sattvic reading:
+For the Organon reconstruction, this is a test of classification:
 
 ```text
-indriya and sensory artha
-    are not exhausted by gross organ and external thing
-
-as āyatana
-    they articulate possible encounter
-
-as dhātu
-    they articulate a lawful cognitive domain
+same material factor
+    → position in rūpa-skandha
+    → corresponding position in the āyatana arrangement
+    → corresponding position in the dhātu arrangement
 ```
 
-The Sāṃkhya comparison remains an Organon construction rather than
-Vasubandhu's vocabulary. Its force is nevertheless clear: faculties and
-sensory determinations belong to the luminous articulation through which a
-world becomes knowable; they should not be reduced to the tamasic great
-elements that support their material manifestation.
+This correspondence preserves the identity of the factors and the difference
+between the arrangements. The verse establishes their tenfold placements;
+the fuller derivation of the classifications awaits later discussion.
 
-Vedanā and saṃjñā then show the inward articulation of the same field.
-Contact is first undergone with a determinate tone and then grasped through
-a mark. This is more than a static inventory of skandhas. The Kośa is showing
-how an immediately given content becomes differentiated within a cognitive
-system.
+Vedanā and saṃjñā add a second distinction. The Bhāṣya defines feeling by
+pleasant, painful, or neutral undergoing and by six kinds born from contact.
+It defines saṃjñā through grasping a mark and then divides it into six
+groups as with vedanā. These definitions do not specify a temporal order in
+which undergoing must first turn into mark-grasping.
 
-The Bhāṣya's closing argument adds a practical constraint. Classification
-must include every conditioned factor because inclusion determines whether
-that factor can be comprehended and abandoned. The Dharma-system is not a
-neutral table: its conceptual completeness is required by liberation.
+Our Science of Knowing can investigate how an experience becomes
+discriminable, but that genetic account is a project task. This unit secures
+the distinct operations and their controlled placements. The Path argument
+about including all remaining formations begins in 1.15.
 
 ## 10. OWL++ Seed
 
@@ -257,10 +243,9 @@ vak:VAK_1_14
     vak:hasTopic vak:TenAyatanasTenDhatusVedanaSamjna ;
     vak:belongsTo vak:Dhatunirdesa .
 
-vak:FiveSensoryFaculties
-    vak:with vak:FiveSensoryObjects ;
-    vak:organizedAs vak:RupaSkandhaFactors , vak:TenAyatanas ,
-        vak:TenDhatus .
+vak:TenMaterialFactors
+    vak:includes vak:FiveSensoryFaculties , vak:FiveSensoryObjects ;
+    vak:hasArrangement vak:TenAyatanas , vak:TenDhatus .
 
 vak:AyatanaArrangement
     a vak:RelationalOrganization ;
@@ -271,14 +256,10 @@ vak:DhatuArrangement
 
 vak:Vedana
     vak:definedAs vak:FeltUndergoing ;
-    vak:hasTone vak:Pleasant , vak:Painful , vak:Neutral ;
+    vak:hasPossibleTone vak:Pleasant , vak:Painful , vak:Neutral ;
     vak:hasClassCount 6 .
 
 vak:Samjna
     vak:definedAs vak:GraspingOfMark ;
     vak:hasClassCount 6 .
-
-vak:ConditionedDharma
-    vak:requiresClassificationFor vak:FullComprehension ,
-        vak:Abandonment .
 ```

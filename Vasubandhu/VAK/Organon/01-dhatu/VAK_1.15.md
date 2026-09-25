@@ -39,9 +39,10 @@ sahāvijñaptyasaṃskṛtaiḥ    → saha avijñapti-asaṃskṛtaiḥ
 | asaṃskṛtaiḥ | instrumental neuter plural | the unconditioned dharmas |
 
 The “four” are `rūpa`, `vedanā`, `saṃjñā`, and `vijñāna`. The “three” are
-`vedanā`, `saṃjñā`, and `saṃskāra`. The Bhāṣya identifies the unconditioned
-plural as space, cessation through discernment, and cessation independent of
-discernment.
+`vedanā`, `saṃjñā`, and `saṃskāra`. The three unconditioned dharmas were
+identified in 1.05 as space, cessation through discernment, and cessation
+independent of discernment; the 1.15 Bhāṣya gives their collective count
+without renaming them individually.
 
 ## 4. Grammar
 
@@ -110,10 +111,12 @@ Organon rendering:
 
 > Dharma-domain is not a container filled with one homogeneous kind of thing. It comprehends mental factors, non-disclosive material determination, and the unconditioned according to their common place in the architecture of knowability. Their unity is conceptual and functional, not sensible or material.
 
-The Bhāṣya gives this classification an explicitly practical necessity. A
-conditioned factor left outside the aggregates would be left outside the
-truths of suffering and origin and therefore outside full comprehension and
-abandonment. Systematic completeness is required by liberation.
+The Bhāṣya gives the inclusion of the remaining mental and mind-dissociated
+formations an explicitly practical necessity. If excluded from the aggregate,
+these factors would fall outside suffering and origin as the truths to be
+comprehended and abandoned. The argument concerns those factors; it does not
+make every conditioned dharma an object of abandonment, since the conditioned
+Path can be without outflows.
 
 ## 7. Technical Vocabulary
 
@@ -129,7 +132,7 @@ abandonment. Systematic completeness is required by liberation.
 | dharma-dhātu | Dharma-domain | determinate domain containing the seven enumerated classes |
 | avijñapti | non-disclosive form | rūpa included within the mental object-domain |
 | asaṃskṛta | unconditioned dharma | space and the two cessations |
-| dravya | distinct real content | unit used by the Bhāṣya in the sevenfold count |
+| dravya | counted constituent | unit used by the Bhāṣya in the sevenfold count, without implying that each aggregate is one indivisible item |
 | parijñā | full comprehension | Path-function directed to the truth of suffering |
 | prahāṇa | abandonment | Path-function directed to what must be relinquished |
 
@@ -179,22 +182,24 @@ mental factors
     → one Dharma-domain
 ```
 
-The Bhāṣya's path argument is compulsory:
+The Bhāṣya's Path argument concerns the remaining formations:
 
 ```text
-RelevantConditionedDharma(x)
-    → MustBeClassified(x)
-    → IncludedInTruthStructure(x)
-    → AvailableForComprehensionOrAbandonment(x)
+RemainingMentalOrDissociatedFormation(x)
+    → IncludedInSamskaraSkandha(x)
+    → NotExcludedFromRelevantTruthAndPathTasks(x)
 ```
 
-Conversely:
+Its counterfactual is:
 
 ```text
-Unclassified(x)
-    → NotComprehendedOrAbandoned(x)
-    → EndingOfSufferingIncomplete
+ExcludedFromAllSkandhas(x)
+    → ExcludedFromSufferingAndOriginAsTruths(x)
+    → ComprehensionAndAbandonmentWouldNotApply(x)
 ```
+
+Classification makes the factor available to the relevant analysis and
+practice; it does not itself perform either Path task.
 
 ## 9. Interpretive Note
 
@@ -225,10 +230,12 @@ it holds mental, subtle-material, and unconditioned determinations together
 while preserving exactly what each is. In the comparative Sāṃkhya idiom,
 this is luminous differentiation rather than tamasic externalization.
 
-The most radical point of the Bhāṣya is practical. Nothing implicated in
-bondage may remain conceptually unclassified, because an unclassified factor
-could neither be fully known nor properly abandoned. The completeness of the
-Dharma-system is thus internally demanded by the possibility of liberation.
+The Bhāṣya's practical point is that the remaining mental and dissociated
+formations must be included in the saṃskāra aggregate. Its counterfactual
+shows why their exclusion would disrupt the relation of the truths to the
+tasks of comprehension and abandonment. In the Organon reconstruction, this
+gives systematic classification a role in the possibility of liberation,
+without equating classification with the accomplishment of those tasks.
 
 ## 10. OWL++ Seed
 
@@ -261,7 +268,9 @@ vak:DharmaDhatu
         vak:SamskaraSkandha , vak:Avijnapti , vak:Akasa ,
         vak:PratisamkhyaNirodha , vak:ApratisamkhyaNirodha .
 
-vak:RelevantConditionedDharma
-    vak:requiresClassificationFor vak:FullComprehension ,
-        vak:Abandonment , vak:EndingOfSuffering .
+vak:RemainingMentalFactors
+    vak:includedIn vak:SamskaraSkandha .
+
+vak:MindDissociatedFormations
+    vak:includedIn vak:SamskaraSkandha .
 ```

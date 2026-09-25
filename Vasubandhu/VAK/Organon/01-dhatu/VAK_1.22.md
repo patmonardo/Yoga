@@ -90,6 +90,11 @@ in this order? The remaining compound supplies four answers:
 The grammar is therefore enumerative and explanatory, not a single compound
 definition of the aggregates.
 
+The preceding Bhāṣya unit promised a threefold demonstration, while this
+unit gives four ordering accounts. Its closing recap also calls vedanā and
+saṃjñā “vessel and seasoning,” although the meal analogy assigns them food
+and seasoning. Both discrepancies remain open in the transmitted commentary.
+
 ## 5. Translation
 
 ### Close syntactic construe
@@ -177,14 +182,16 @@ most resistant/manifest
     → most subtle
 ```
 
-The second is the genetic sequence of defilement:
+The second traces explanatory grounds of attraction in reverse order from
+the visible result, then notes the affliction of citta:
 
 ```text
-attractive form
-    → savoring of feeling
-    → inverted recognition
-    → afflicted formations
-    → defiled cognition
+attraction to form
+    ← greed for the savor of feeling
+    ← distortion of saṃjñā
+    ← afflictions
+
+afflictions → citta is afflicted
 ```
 
 The third is functional cooperation:
@@ -222,8 +229,8 @@ FiveAggregates
 
 ## 9. Interpretive Note
 
-VAK 1.22 closes the concentrated presentation of the threefold Dharma-
-classification by making its method explicit: do not confuse exhaustive
+VAK 1.22 deepens the setup for the threefold Dharma-classification by making
+its method explicit: do not confuse exhaustive
 reality with one classificatory scheme. Skandha, āyatana, and dhātu have
 different meanings, operations, and extensions.
 
@@ -259,10 +266,9 @@ vijñāna
     = established within them
 ```
 
-The text does not say that vijñāna creates every field or that all dharmas
-are mental contents. It does say that cognition has no abstract existence
-apart from articulated stations and that those stations reach their
-systematic completion in relation to cognition.
+The text places vijñāna within articulated stations and relates them as
+field and seed. The Organon can investigate that relation while preserving
+the difference between those stations and the cognition established in them.
 
 The five-verse Method may now be summarized:
 
@@ -274,7 +280,7 @@ The five-verse Method may now be summarized:
 1.22  require applicability of category-meaning and justify number and order
 ```
 
-That is the recovered classification system. The Organon raises it into
+That is the setup for the detailed classification to follow. The Organon raises it into
 Living Light by making its operations visible while keeping every operation
 answerable to the Sanskrit and Bhāṣya.
 

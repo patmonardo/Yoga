@@ -112,11 +112,11 @@ as an additional substance over and above its constituent dharmas.
 
 ## 6. Philosophical Translation
 
-> The three classifications are three distinct operations. Skandha gathers a manifold into an aggregate; āyatana opens a relational access through which mental occurrence becomes possible; dhātu determines the intrinsic source-kind capable of maintaining its kind across a continuum. The teaching selects among these forms according to the condition of the learner.
+> The three classifications have distinct meanings. Skandha gathers a manifold into an aggregate; āyatana names a gateway through which mind and mental factors extend; dhātu specifies an intrinsic source-kind. For conditioned dharmas, that kind can continue through homogeneous causation. The teaching selects among these presentations according to the condition of the learner.
 
 Organon rendering:
 
-> Immediate content is gathered as skandha; essential relation operates through āyatana; conceptual determination appears as dhātu, the source from which a kind maintains and reproduces itself. Domain is therefore not a passive region. It is the lawful matrix of a determinate Dharma.
+> Immediate content is gathered as skandha; essential relation operates through āyatana; conceptual determination appears as dhātu, the source-kind of a determinate dharma. In conditioned series a kind can continue through homogeneous causation. The unconditioned retains a dhātu position by intrinsic kind without becoming a produced effect.
 
 The source-character must not be absolutized. For conditioned dharmas it is
 causal; for the unconditioned, the text requires the broader meaning of
@@ -244,6 +244,14 @@ learner. The Buddha's teaching changes form according to delusion, capacity,
 and inclination while preserving the same Dharma-field. Our Organon may
 privilege Dhātu for its conceptual power, but it must understand why the
 Kośa retains all three.
+
+In our Science of Knowing, the three meanings also suggest a research
+procedure: gather the relevant contents, locate the gateways of mental
+access, and determine their intrinsic kinds. The dhātu determination gives
+the resulting dharma its specific kind, while the other arrangements retain
+their own explanatory work. This is an Organon reconstruction of the three
+meanings; the Bhāṣya presents them as teachings suited to different trainees,
+not as a mandatory chronological sequence for every inquiry.
 
 The third rule of the Method is therefore:
 

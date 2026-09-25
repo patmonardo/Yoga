@@ -64,9 +64,9 @@ each of the ten material āyatanas is understood individually through the
 relation of object and object-possessor (`viṣaya-viṣayin`), rather than all
 ten being mistaken for one collective material sphere.
 
-The material faculties have already received the specific names eye, ear,
-nose, tongue, and body. The remaining material object-field therefore keeps
-the unqualified name `rūpa`.
+The other nine material bases have their specific faculty or object names:
+eye, ear, nose, tongue, body, sound, odor, taste, and tangible form. The
+remaining visible-form base therefore keeps the unqualified name `rūpa`.
 
 `Prādhānyāt` supplies a second reason for that name. Visible form is
 predominant because it is resistant (`sapratigha`), visible and spatially
@@ -125,7 +125,7 @@ system.
 | dharma-āyatana | Dharma-sphere | general mental object-field containing heterogeneous dharmas |
 | saṃgraha | gathering / inclusion | reason for the comprehensive name dharma |
 | agra-dharma | foremost Dharma | nirvāṇa, included in dharma-āyatana alone |
-| māṃsa-cakṣus | fleshly eye | one of three ranges in the alternative explanation |
+| māṃsa-cakṣus | fleshly eye | first of three eyes said to have visible form as range |
 | divya-cakṣus | divine eye | second eye in the alternative explanation |
 | ārya-prajñā-cakṣus | noble wisdom-eye | third eye in the alternative explanation |
 
@@ -177,14 +177,14 @@ DharmaAyatanaUnity
     → ComprehensiveInclusion
 ```
 
-The alternative teachers add three proposed grounds for rūpa's singular
-designation: twenty varieties, grossness, and being the object-range of the
-fleshly, divine, and noble wisdom eyes. These remain reported alternatives,
-not Vasubandhu's unmarked conclusion.
+The alternative teachers appeal to grossness through twentyfold variety and
+to visible form's being the object-range of the fleshly, divine, and noble
+wisdom eyes. This remains a reported alternative, not Vasubandhu's unmarked
+conclusion.
 
 ## 9. Interpretive Note
 
-VAK 1.24 opens the Problems of the Triadic Abhidharma with a problem of
+VAK 1.24 continues the chapter's system setup with a problem of
 technical naming. If the ten material spheres all belong to rūpa, why does
 only visible form bear the class-name? If everything classified is a dharma,
 why does only one sphere bear that universal name? The answer shows that
@@ -208,8 +208,8 @@ inclusion.
 
 The inclusion of nirvāṇa is decisive. The Dharma-sphere does not merely
 collect whatever the sensory system failed to classify. It alone among the
-āyatanas includes the foremost Dharma. Its apparent residuality is therefore
-the external appearance of its greater systematic reach.
+āyatanas includes the foremost Dharma. Its apparent residuality therefore
+conceals a positive reason for its particular technical name.
 
 For the Organon, this contrast makes the inward movement visible:
 
@@ -221,10 +221,9 @@ dharma-āyatana
     = domain named from what it can comprehend
 ```
 
-We should not yet identify dharma-āyatana with the whole Buddha Mind system;
-it remains one sphere within the twelvefold arrangement. But its unity
-demonstrates that the most comprehensive domain cannot be modeled as a heap
-of outward elements.
+Dharmāyatana remains one sphere within the twelvefold arrangement. Its unity
+shows how heterogeneous contents can share a technical position without
+being modeled as a heap of outward elements.
 
 ## 10. OWL++ Seed
 

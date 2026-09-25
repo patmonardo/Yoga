@@ -218,9 +218,9 @@ operation's formation and achievement require their own analysis.
 
 ## 10. Review Status
 
-Provisional twenty-seventh study in the Bhāṣya edition. The local research
+QA review of the twenty-seventh Bhāṣya study. The local research
 commentary, kārikā opening, and running Sanskrit have been compared through
-the full series of examples. The opening comparison reserved from 1.26
+018.09. The opening comparison reserved from 1.26
 is included here with its corresponding verse clause.
 
 The five-practice-aggregate expansion and sound-base repair are marked.

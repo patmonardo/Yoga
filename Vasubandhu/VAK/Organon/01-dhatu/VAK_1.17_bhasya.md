@@ -224,7 +224,7 @@ manas and the eighteenfold arrangement.
 
 ## 10. Review Status
 
-Provisional seventeenth study in the Bhāṣya edition. The full unit,
+QA review of the seventeenth Bhāṣya study. The full unit through 012.03,
 including the arhat's final citta, has been compared with the local research
 Bhāṣya, the kārikā opening, and the running Sanskrit source.
 

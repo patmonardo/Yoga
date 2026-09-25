@@ -2,20 +2,20 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> शास्त्रप्रमाणा इत्येके स्कन्धादीनां कथैकशः ।
+> शास्त्रप्रमाण इत्येके स्कन्धादीनां कथैकशः ।
 >
 > चरितप्रतिपक्षस्तु धर्मस्कन्धोऽनुवर्णितः ॥ १.२६ ॥
 
 ## 2. Sanskrit (IAST)
 
-> śāstrapramāṇā ity eke skandhādīnāṃ kathaikaśaḥ /
+> śāstrapramāṇa ity eke skandhādīnāṃ kathaikaśaḥ /
 >
 > caritapratipakṣas tu dharmaskandho 'nuvarṇitaḥ // 1.26 //
 
 ## 3. Lexical Analysis
 
 ```text
-śāstrapramāṇāḥ       → śāstra-pramāṇāḥ
+śāstrapramāṇaḥ       → śāstra-pramāṇaḥ
 ity eke               → iti eke
 skandhādīnām          → skandha-ādīnām
 kathaikaśaḥ           → kathā ekaśaḥ
@@ -25,7 +25,7 @@ dharmaskandhaḥ        → dharma-skandhaḥ
 
 | Form | Morphology | Lexical force here |
 |---|---|---|
-| śāstra-pramāṇāḥ | nominative masculine plural compound | having a treatise as their measure; measured by textual extent |
+| śāstra-pramāṇaḥ | nominative masculine singular compound | having a treatise as its measure; said of one Dharma-collection |
 | iti | quotative particle | thus; marks a reported position |
 | eke | nominative masculine plural | some teachers |
 | skandha-ādīnām | genitive plural compound | of the aggregates and the other doctrinal topics |
@@ -41,13 +41,18 @@ the omitted attribution `apare punar āhuḥ`: “others, however, say.” The
 verse compresses three reported criteria for individuating a
 `dharmaskandha`.
 
+The research kārikā has plural `śāstrapramāṇā`, while the running verse
+and research Bhāṣya have singular `śāstrapramāṇa` before `iti`. The official
+IAST and Devanāgarī follow that singular reading; the research variant is
+retained in its original file.
+
 ## 4. Grammar
 
 The first two accounts are elliptical:
 
 ```text
-śāstra-pramāṇāḥ [dharmaskandhāḥ] iti eke
-    some say: Dharma-collections are measured by a treatise
+śāstra-pramāṇaḥ [dharmaskandhaḥ] iti eke
+    some say: a Dharma-collection has a treatise as its measure
 
 skandhādīnāṃ kathā ekaśaḥ [dharmaskandha iti apare]
     others say: each separate exposition of aggregates and the other topics
@@ -141,8 +146,8 @@ The Bhāṣya explains the traditional number through the third rule:
 
 ```text
 80,000 differentiated dispositions
-    ↔ 80,000 corresponding antidotes
-    ↔ 80,000 Dharma-collections
+    → corresponding counteracting teachings
+    → stated as 80,000 Dharma-collections
 ```
 
 This is functional differentiation, not the addition of eighty thousand
@@ -171,12 +176,11 @@ determinate Dharma-response.
 
 This does not make truth relative to the learner. It distinguishes the
 truth of a teaching from the principle by which a body of teaching is
-divided into effective units. The Dharma-collection is one because it has
-one counteractive office within a differentiated field of dispositions.
+divided into effective units. Under the third account, a Dharma-collection
+is one by its counteractive office within a field of dispositions.
 
-The verse therefore teaches us something essential about the Triadic
-system's apparent “problems.” They are tests of the Discriminator. An
-inherited count cannot be accepted as a heap of names; the system must state
+The verse continues the chapter's system setup by asking what makes an
+inherited count intelligible. The system must state
 the ground upon which each unit is one. VAK 1.27 can then return all such
 teaching-divisions to the five Aggregates by determining their actual
 intrinsic nature.

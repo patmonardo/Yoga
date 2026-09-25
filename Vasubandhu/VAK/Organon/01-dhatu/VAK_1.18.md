@@ -95,19 +95,19 @@ not yet a metaphysical thesis that every dharma exists in absolute isolation.
 
 ### Bhāṣya-informed translation
 
-> All dharmas are exhaustively included through the relevant aggregate, sphere, and domain according to what each dharma intrinsically is. Strict inclusion cannot proceed through another's nature, from which that dharma is distinct.
+> Taken together, the rūpa aggregate, mind-base, and dharma-domain include all dharmas. A dharma is strictly included under an appropriate classification by its own nature, not by another's nature from which it is separate.
 
 The Bhāṣya further distinguishes the scopes of the systems:
 
 ```text
 skandhas             → all conditioned dharmas
-aggregates of clinging → all dharmas with outflows
+aggregates of appropriation → all dharmas with outflows
 āyatanas and dhātus  → all dharmas, including the unconditioned
 ```
 
 ## 6. Philosophical Translation
 
-> The Dharma-system is exhaustive because its classifications are immanent to their contents. A dharma belongs to an aggregate, gateway, and domain through its own determination, while its difference from other determinations prevents arbitrary transfer between classes. Inclusion and exclusion are two sides of the same exact act.
+> The Dharma-system is exhaustive because its classifications are grounded in their contents. A dharma belongs under the classifications appropriate to its own determination, while its difference from other determinations prevents arbitrary transfer between classes. The three selected categories cover the whole field jointly, even though the unconditioned belong to no aggregate.
 
 Organon rendering:
 
@@ -161,25 +161,21 @@ RupaSkandha
 Strict membership has a two-sided condition:
 
 ```text
-StrictlyIncludes(Classification(c), Dharma(d))
-    ↔ Expresses(c, Svabhava(d))
-    ∧ DistinctFrom(d, Parabhava)
-```
+StrictlyIncludedIn(d, c)
+    → GroundedInOwnNatureOf(d, c)
 
-Consequently:
-
-```text
-HasAlienNature(c, d)
-    → ¬StrictlyIncludes(c, d)
+SeparatedFromNatureOf(d, c)
+    → ¬StrictlyIncludedIn(d, c)
 ```
 
 The Bhāṣya contrasts this with conventional gathering:
 
 ```text
-ConventionallyGathers(g, assembly)
-    → Occasional(g)
-    ∧ PracticalRelation(g)
-    ↛ IntrinsicInclusion(g)
+AssemblyGatheredByMeans(g, a)
+    → Occasional(g, a) ∧ Conventional(g, a)
+
+AssemblyGatheredByMeans(g, a)
+    ↛ StrictlyIncludedIn(a, g)
 ```
 
 Classification is therefore neither resemblance alone nor accidental

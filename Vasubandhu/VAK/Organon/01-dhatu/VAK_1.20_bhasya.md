@@ -22,9 +22,9 @@ to be trained.
 >
 > rāśyāyadvāragotrārthāḥ skandhāyatanadhātavaḥ /
 >
-> 'yat kiñcidrūpamatītānāgatapratyutpannamādhyātmikabāhyam audārikaṃ vā
+> “yat kiñcid rūpam atītānāgatapratyutpannam ādhyātmikabāhyam audārikaṃ vā
 > sūkṣmaṃ vā hīnaṃ vā praṇītaṃ vā yadvā dūre antike
-> tatsarvamaikadhyamabhisaṃkṣipya rūpaskandha iti saṃkhyāṃ gacchatīti vacanāt
+> tat sarvam aikadhyam abhisaṃkṣipya rūpaskandha iti saṃkhyāṃ gacchati” iti vacanāt
 > sūtre rāśyarthaḥ skandhārtha iti siddham /
 >
 > tatrātītaṃ rūpamanityatāniruddham /
@@ -56,7 +56,7 @@ to be trained.
 >
 > atītādīnāṃ svaśabdenābhi hitatvāt /
 >
-> evam vedanādayo 'pi veditavyāḥ /
+> evaṃ vedanādayo 'pi veditavyāḥ /
 >
 > dūrāntikatvaṃ tu teṣāmāśrayavaśāt / audārikasūkṣmatvaṃ tu pūrvavaditi //
 >
@@ -88,14 +88,14 @@ to be trained.
 > ekasyāpi dravyaparamāṇoḥ skandhatvāt / na tarhi rāśyarthaḥ skandhārtha iti
 > vaktavyam /
 >
-> na hyekasyāsti rāśitvamiti / kāryab hārodvahanārthaḥ skandhārtha ityapare /
+> na hyekasyāsti rāśitvamiti / kāryabhārodvahanārthaḥ skandhārtha ityapare /
 >
 > pracchedārtho vā /
 >
 > tathāhi vaktāro bhavanti tribhiḥ skandhakairdeyaṃ dāsyāma iti /
 > tadetadutsūtram /
 >
-> sūtraṃ hi rāśyarthameva bravīti "yatkiñcidrūpamatītānāgatapratyutpannami"ti
+> sūtraṃ hi rāśyarthameva bravīti “yat kiñcid rūpam atītānāgatapratyutpannam” iti
 > vistaraḥ
 >
 > pratyekamatītādirūpasya skandhatvaṃ tatra vijñāpyate /
@@ -104,7 +104,7 @@ to be trained.
 >
 > na śakyamevaṃ vijñātum /
 >
-> "tatsarvamaikadhyamabhisaṃkṣipye"ti vacanāt / tasmādrāśivadeva skandhāḥ
+> “tat sarvam aikadhyam abhisaṃkṣipya” iti vacanāt / tasmādrāśivadeva skandhāḥ
 > prajñaptisantaḥ
 >
 > rūpīṇy api tarhyāyatanāni prajñaptisanti prāpnuvanti /
@@ -151,11 +151,14 @@ Sanskrit unit begins only at the āyatana definition; the earlier scriptural
 collection passage and its alternative explanations are restored here from
 the running source.
 
-Word joining largely follows the running witness. Editorial repairs include
+Word joining largely follows the running witness. Quotation marks and
+quote-final sandhi in the scriptural citation are resolved for reading.
+Editorial repairs include
 `ādhyātmibāhyam`, `svāsāntānikaṃ`, `viśaṣaḥ`, `pañacendriya`,
 `pūarvavad`, `gotrāni`, `gotrāṇyuacyante`, `aṣṭādaśdharmāṇāṃ`,
 `rūpoīnyapi`, `bahunāṃ`, `paṭṭaiakadeśe`, `kirthaṃ`, and
-`skandhādimudhena`. Evident vowel lengths, broken word spacing, and damaged
+`skandhādimudhena` and the broken `kāryab hārodvahanārthaḥ`. Evident vowel
+lengths, broken word spacing, and damaged
 page apparatus have also been regularized.
 
 The doubtful `cittacittānāṃ` is retained. The research report interprets
@@ -418,7 +421,7 @@ open to rigorous analysis.
 
 ## 11. Review Status
 
-Provisional twentieth study in the Bhāṣya edition. The full unit includes
+QA review of the twentieth Bhāṣya study. The full unit through 014.14 includes
 the opening scripture and classification discussion absent from the research
 report's Sanskrit unit. The running source, research report, and kārikā
 opening have been compared.

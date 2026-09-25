@@ -183,9 +183,9 @@ classificatory consequences.
 
 ## 10. Review Status
 
-Provisional twenty-fifth study in the Bhāṣya edition. The local research
+QA review of the twenty-fifth Bhāṣya study. The local research
 commentary, kārikā opening, and running Sanskrit have been compared through
-the complete short unit. The substantive wording agrees, and only reading
+017.09. The substantive wording agrees, and only reading
 punctuation and word division have been supplied.
 
 The two positions remain attributed without named schools or a declared

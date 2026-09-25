@@ -96,7 +96,7 @@ It does not claim that all eighteen are mutually distinct substances.
 
 ### Bhāṣya-informed translation
 
-> Manodhātu is not a seventh cognition added to the six. Any one of the six cognitions, once it has ceased immediately before, is designated manas insofar as it supports the next mental cognition. The system therefore teaches eighteen domains so that mental cognition, like the five sensory cognitions, has an explicitly established support.
+> Manodhātu is not a seventh cognition added to the six. Any one of the six cognitions, once it has just ceased, is designated manas in its role as the immediate support for mental cognition. The system therefore teaches eighteen domains so that mental cognition, like the five sensory cognitions, has an explicitly established support.
 
 The second translation makes explicit the Bhāṣya's answer to the objection.
 The support-function does not imply that a successor must actually arise in
@@ -121,8 +121,9 @@ object-domain
 cognition-domain
 ```
 
-Its conceptual completeness, rather than a count of eighteen isolated
-things, is the reason for the classification.
+The explicit reason for teaching eighteen is to establish the sixth support.
+This completes the sixfold arrangement of supports, objects, and cognitions
+without implying eighteen isolated substances.
 
 ## 7. Technical Vocabulary
 
@@ -136,7 +137,7 @@ things, is the reason for the classification.
 | mano-vijñāna-dhātu | mental-cognition domain | supported cognition directed toward dharma-domain |
 | āśraya | support | condition upon which a cognition arises |
 | āśrita | supported cognition | cognitive event dependent upon a support |
-| ālambana | object-support / object-domain | that toward which cognition is directed |
+| ālambana | object-domain | that toward which cognition is directed, distinct from its faculty-support |
 | prasiddhi | establishment | formal recognition of the sixth support in the system |
 | anyakāraṇa-vaikalya | absence of another required cause | reason no cognition follows the arhat's final cognition |
 | dravya | real item | what is not multiplied merely by a new relational designation |
@@ -146,9 +147,12 @@ things, is the reason for the classification.
 Manas is derived without adding a substance:
 
 ```text
-Vijnana(c, t)
-∧ CeasesImmediatelyBefore(c, t+1)
-    → FunctionsAs(c, Manas, t+1)
+Vijnana(c)
+∧ HasJustCeased(c)
+    → HasStatusOf(c, Manas)
+
+HasStatusOf(c, Manas)
+    ↛ HasActualSuccessor(c)
 
 Vijnana(c)
 ∧ Manas(c)
@@ -158,13 +162,13 @@ Vijnana(c)
 The Bhāṣya's analogies formalize relational identity:
 
 ```text
-SamePerson(x)
-    → SonRelativeTo(x, parent)
-    → FatherRelativeTo(x, child)
+SonRelativeTo(x, parent)
+∧ FatherRelativeTo(x, child)
+    → OnePersonWithTwoRelationalNames(x)
 
-SameEvent(y)
-    → FruitRelativeTo(y, priorCause)
-    → SeedRelativeTo(y, laterEffect)
+FruitRelativeTo(y, priorCause)
+∧ SeedRelativeTo(y, laterEffect)
+    → OneItemWithTwoRelationalNames(y)
 ```
 
 The eighteen domains are six complete cognitive triads:
@@ -208,8 +212,9 @@ system. The result is not a pile of faculties, objects, and cognitions but a
 sixfold relational architecture. Each cognitive field is complete only as a
 triad of support, object, and apprehension.
 
-Manas is the decisive final component because it supplies continuity. The same
-cognition receives a new determination through temporal relation:
+Manas is the decisive final component because it supplies the support-position
+for possible continuity. The same cognition receives a new determination
+through temporal relation:
 
 ```text
 vijñāna

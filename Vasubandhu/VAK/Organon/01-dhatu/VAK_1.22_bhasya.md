@@ -310,9 +310,9 @@ that such understanding must preserve.
 
 ## 11. Review Status
 
-Provisional twenty-second study in the Bhāṣya edition. The local research
+QA review of the twenty-second Bhāṣya study. The local research
 commentary, kārikā opening, and running Sanskrit have been compared through
-the complete two-part unit. The exclusion argument, challenged analogy,
+015.21. The exclusion argument, challenged analogy,
 four ordering accounts, and final recap are retained.
 
 The three/four count and vessel/food discrepancy remain open. The source

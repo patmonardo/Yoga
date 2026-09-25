@@ -28,8 +28,8 @@ janmaniśrayāḥ        → janma-niśrayāḥ
 | ākāśa-dhātu-ākhyam | nominative neuter singular compound | bearing the name “space-domain” |
 | āloka-tamasī | nominative neuter dual compound | light and darkness |
 | kila | reportive particle | so it is said; according to the received account |
-| vijñāna-dhātuḥ | nominative masculine singular | consciousness-domain |
-| vijñānam | nominative neuter singular | consciousness |
+| vijñāna-dhātuḥ | nominative masculine singular | cognition-domain |
+| vijñānam | nominative neuter singular | cognition |
 | sa-āsravam | nominative neuter singular | accompanied by outflows; contaminated |
 | janma-niśrayāḥ | nominative masculine plural compound | supports or bases of birth |
 
@@ -50,73 +50,73 @@ chidram
     is called the space-domain
 ```
 
-The following dual, `āloka-tamasī`, supplies the received Vaibhāṣika
+The following dual, `āloka-tamasī`, supplies a reported
 analysis of that aperture: no separate cavity is perceived apart from the
 light or darkness occupying it. `Kila` is reportive and should remain
-audible in translation; Vasubandhu is transmitting a school explanation,
-not presenting “aperture equals light and darkness” as an unmarked truism.
+audible in translation. The local passage does not name a school for this
+account or present “aperture equals light and darkness” as an unmarked truism.
 
-The second statement restricts the consciousness-domain:
+The second statement restricts the cognition-domain:
 
 ```text
 vijñāna-dhātuḥ
-    the consciousness-domain
+    the cognition-domain
 
 vijñānaṃ sāsravam
-    is outflow-bound consciousness
+    is cognition with outflows
 ```
 
-The final `janmaniśrayāḥ` is plural. The Bhāṣya makes all six Domains—earth,
-water, fire, wind, space, and consciousness—its subject. They are taught
+The final `janmaniśrayāḥ` is plural. The Bhāṣya makes all six domains—earth,
+water, fire, wind, space, and cognition—its subject. They are taught
 together because they support birth. Consequently, it is grammatically and
 doctrinally misleading to attach “support of birth” only to the singular
-consciousness-domain.
+cognition-domain.
 
 The Bhāṣya defines the relevant life-continuum as extending from
-rebirth-linking consciousness (`pratisandhicitta`) through death-consciousness
-(`cyuticitta`). Because outflow-free consciousness does not support such
-birth, it is excluded from `vijñānadhātu` in this particular six-domain
+rebirth-linking citta (`pratisandhicitta`) through death citta
+(`cyuticitta`). Because dharmas without outflows are not common to this
+birth-span, they are excluded from `vijñānadhātu` in this particular six-domain
 teaching.
 
 ## 5. Translation
 
 ### Close syntactic construe
 
-> An aperture is called the space-domain—light and darkness, according to the received account. The consciousness-domain is outflow-bound consciousness; [the six Domains] are supports of birth.
+> An aperture is called the space-domain—light and darkness, according to the received account. The cognition-domain is cognition with outflows; [the six domains] are supports of birth.
 
 ### Bhāṣya-informed translation
 
-> In the sūtra's teaching of six Domains, “space-domain” denotes a conditioned aperture, analyzed by the Vaibhāṣikas as the light or darkness appearing there. “Consciousness-domain” denotes only consciousness accompanied by outflows. The six are grouped together because they support the continuum of birth.
+> In the sūtra's teaching of six domains, “space-domain” denotes an aperture, explained in a reported account as light or darkness. “Cognition-domain” denotes cognition with outflows. The six are grouped together because they support the course of birth.
 
 The clarifying phrases in the second rendering derive from the Bhāṣya. They
 must not be silently read into every occurrence of `ākāśa` or `vijñāna`.
 
 ## 6. Philosophical Translation
 
-> The same name can operate at different levels of determination. Here “space” is not unconditioned non-obstruction but a conditioned opening within visible appearance. Here “consciousness” is not consciousness without qualification but the outflow-bound consciousness implicated in birth. Their place is determined by the function of the particular teaching in which they occur.
+> The same name can operate at different levels of determination. Here “space” denotes an opening assigned to visible form. Here “cognition” is restricted to cognition with outflows implicated in birth. Their place is determined by the function of the particular teaching in which they occur.
 
 Organon rendering:
 
-> The Discriminator prevents universal terms from floating free of their determinate use. Space as absolute non-obstruction must be distinguished from the aperture through which appearance is articulated as light and darkness. Consciousness as such must be distinguished from the conditioned consciousness sustaining the course of birth. The Domain is not an outward element; it is the precisely bounded range within which a determination has validity.
+> The Discriminator keeps each term tied to its determinate use. Unconditioned space as non-obstruction differs from the aperture described through light and darkness. Cognition in general differs from the cognition with outflows selected for this birth-support teaching. A domain has a precisely bounded range within a stated arrangement.
 
 ## 7. Technical Vocabulary
 
 | Sanskrit | Project rendering | Determination |
 |---|---|---|
-| ṣaḍ-dhātu | six Domains | earth, water, fire, wind, space, and consciousness in this sūtra teaching |
+| ṣaḍ-dhātu | six domains | earth, water, fire, wind, space, and cognition in this sūtra teaching |
 | chidra | aperture / opening | conditioned referent of `ākāśadhātu` here |
 | ākāśa | unconditioned space / non-obstruction | asaṃskṛta established earlier; not the present aperture |
 | ākāśadhātu | space-domain | conditioned aperture included within visible form |
 | āloka | light | one perceptible determination of the aperture |
 | tamas | darkness | the other perceptible determination of the aperture |
-| kila | according to the received account | marks the Vaibhāṣika explanation |
-| aghasāmantaka-rūpa | aperture-bordering form | technical and etymologically disputed designation for the conditioned space-domain |
-| vijñānadhātu | consciousness-domain | here restricted to outflow-bound consciousness |
+| kila | according to a reported account | does not itself identify a school |
+| aghasāmantaka-rūpa | form near agha | technical designation with an uncertain local etymology |
+| vijñānadhātu | cognition-domain | here restricted to cognition with outflows |
 | sāsrava | accompanied by outflows / contaminated | implicated in conditioned existence and birth |
-| anāsrava | outflow-free | excluded from this six-domain consciousness classification |
+| anāsrava | without outflows | excluded from the cognition member of this six-domain teaching |
 | janmaniśraya | support of birth | shared functional reason for grouping the six Domains |
-| pratisandhicitta | rebirth-linking consciousness | opening consciousness of a new life-continuum |
-| cyuticitta | death-consciousness | terminal consciousness of that continuum |
+| pratisandhicitta | rebirth-linking citta | opening citta of a new life-continuum |
+| cyuticitta | death citta | terminal citta of that continuum |
 
 ## 8. Logical Determination
 
@@ -127,7 +127,7 @@ Named(x, AkashaDhatu)
     → UnconditionedSpace(x)?
 
 Named(y, VijnanaDhatu)
-    → EveryKindOfConsciousness(y)?
+    → EveryKindOfCognition(y)?
 ```
 
 Both unrestricted inferences are denied:
@@ -135,12 +135,12 @@ Both unrestricted inferences are denied:
 ```text
 AkashaDhatuInSixDomainTeaching
     = ConditionedAperture
-    = LightOrDarknessForm
+    → ReportedAs(LightOrDarknessForm)
     → IncludedIn(RupaDhatu)
 
 VijnanaDhatuInSixDomainTeaching
-    = SasravaConsciousness
-    → IncludedIn(SevenConsciousnessDhatus)
+    = SasravaCognition
+    → IncludedIn(SevenCognitionDhatus)
 ```
 
 The remaining four are reintegrated as follows:
@@ -156,8 +156,8 @@ The governing functional restriction is:
 MemberOf(x, SixDomainTeaching)
     → Supports(x, BirthContinuum)
 
-AnasravaConsciousness(x)
-    → DoesNotSupport(x, BirthContinuum)
+AnasravaDharma(x)
+    → NotCommonTo(x, BirthSpanDescribedHere)
     → ExcludedFrom(x, VijnanaDhatuInThisTeaching)
 ```
 
@@ -167,7 +167,7 @@ Domains:
 ```text
 four material supports → tangible-domain
 conditioned aperture  → visible-form domain
-conditioned awareness → seven consciousness-domains
+cognition with outflows → seven cognition-domains as applicable
 ```
 
 ## 9. Interpretive Note
@@ -196,14 +196,15 @@ unconditioned status of `ākāśa` nor applies that status to every expression
 containing the word. It shows why conceptual discipline is necessary: the
 shared word does not abolish the difference of Domains.
 
-The restriction of consciousness is equally powerful. `Vijñāna` here is
+The restriction of cognition is equally powerful. `Vijñāna` here is
 not pure Buddha Mind and not liberating cognition. It is precisely the
-conditioned consciousness that participates in the span from rebirth-linking
+conditioned cognition that participates in the span from rebirth-linking
 to death. The six Domains constitute a genetic support-system of embodied
 birth, but they do not thereby become six new primitives outside the
 eighteen Domains.
 
-This completes the present sequence of classificatory problems:
+This completes the system setup before the classification questions beginning
+in 1.29:
 
 ```text
 1.24  distinguish technical names from universal class-words
@@ -238,15 +239,15 @@ vak:UnconditionedSpace
 vak:ConditionedSpaceDomain
     a vak:ConditionedAperture,
         vak:VisibleForm ;
-    vak:manifestAs vak:Light,
+    vak:reportedAs vak:Light,
         vak:Darkness ;
     vak:includedIn vak:RupaDhatu .
 
-vak:ConsciousnessDomainInSixDomainTeaching
-    a vak:SasravaConsciousness ;
+vak:CognitionDomainInSixDomainTeaching
+    a vak:SasravaCognition ;
     vak:supports vak:BirthContinuum ;
-    vak:includedIn vak:SevenConsciousnessDhatus ;
-    vak:excludes vak:AnasravaConsciousness .
+    vak:includedIn vak:SevenCognitionDhatus ;
+    vak:excludes vak:AnasravaCognition .
 
 vak:SixDomainTeaching
     a vak:SpecializedScripturalClassification ;

@@ -227,11 +227,13 @@ understanding how a field becomes systematically articulated.
 
 ## 10. Review Status
 
-Provisional fourteenth study in the Bhāṣya edition. The continuous reading
-and analysis have been checked against the local kārikā, research Bhāṣya,
-and running Sanskrit. The boundary stops before the opening of 1.15;
-the research report's overlapping saṃskāra material is reserved for that
-study.
+QA reviewed against the running Sanskrit from the return to rūpa factors
+at [010|07] through the sixfold saṃjñā statement at [010|18]. The next
+line, `caturbhyo 'nye tu saṃskāraskandhaḥ`, opens 1.15; the research
+report's overlapping saṃskāra argument remains reserved for that study.
+The review confirms ten separate material factors in each arrangement,
+vedanā's three tones and six contact-born groups, and saṃjñā's distinct
+mark-grasping operation with six groups as with vedanā.
 
 The running-source defects, the provisional friend/enemy repair, and the
 compressed `yāvan` construction are recorded. The ten material factors are

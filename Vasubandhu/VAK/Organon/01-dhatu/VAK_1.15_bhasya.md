@@ -238,11 +238,11 @@ The relation to vijñāna receives its next explicit determination in 1.16.
 
 ## 10. Review Status
 
-Provisional fifteenth study in the Bhāṣya edition. The complete unit,
+QA review of the fifteenth Bhāṣya study. The complete unit,
 including the saṃskāra passage reserved from 1.14, has been compared with
-the local research witnesses and running Sanskrit. The account retains
-scriptural attribution, the distinction between predominance and complete
-extension, the Path-based inclusion argument, and the sevenfold count.
+the local research witnesses and running Sanskrit through 011.05. The account
+retains scriptural attribution, the distinction between predominance and
+complete extension, the Path-based inclusion argument, and the sevenfold count.
 
 The transmitted `parijñāparihāṇe` and the numerical level of `sapta
 dravyāṇi` are explained rather than silently regularized. The scope of

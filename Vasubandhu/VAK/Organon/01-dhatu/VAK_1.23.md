@@ -52,7 +52,7 @@ first states the governing dependency:
 ```text
 faculty order
     → corresponding object-domain order
-    → corresponding cognition-domain order
+    → corresponding cognition-domain order (in parallel)
 ```
 
 The first ablative gives a temporal criterion:
@@ -63,8 +63,10 @@ prāk pañca vārttamāna-arthyāt
     because they take present objects
 ```
 
-Manas has an unrestricted temporal range. It can take present, past, future,
-and non-temporal dharmas as objects.
+Manas has an unrestricted object-range. The further division of its objects
+appears to include present, other temporal, and non-temporal dharmas, but the
+running source's compound is damaged; the Bhāṣya study marks that construal
+as provisional.
 
 The second ablative selects four within the five:
 
@@ -88,10 +90,11 @@ nose before tongue
     → quicker apprehension before food contacts the tongue
 ```
 
-`Athavā` introduces a complete alternative explanation. The faculties may
-instead be ordered according to the bodily location of their supports: eye,
-ear, nose, tongue, then the body distributed more generally. Manas depends
-upon those faculties but has no single determinate spatial site.
+`Athavā` introduces an alternative explanation. The faculties may instead
+be ordered according to the bodily location of their supports: eye, ear,
+nose, tongue, and then a damaged clause concerning the body. The reading
+that places the body mostly below is provisional. Manas depends upon the
+sense faculties but has no determinate spatial site in this account.
 
 ## 5. Translation
 
@@ -101,14 +104,14 @@ upon those faculties but has no single determinate spatial site.
 
 ### Bhāṣya-informed translation
 
-> The five sensory faculties precede manas because their objects are restricted to the present, whereas mind can take temporally varied and non-temporal objects. Among the five, eye, ear, nose, and tongue precede body because their objects are derivative matter, while touch may apprehend the great elements, derivative matter, or both. Eye precedes ear by greater reach and nose precedes tongue by quicker access; alternatively, the entire order follows the bodily placement of the faculties, with manas left non-localized.
+> The five sensory faculties precede manas because their objects are restricted to the present, whereas mind has a wider object-range. Among the five, eye, ear, nose, and tongue precede body because their objects are derivative matter, while touch may apprehend the great elements, derivative matter, or both. Eye precedes ear by the comparison of distance and nose precedes tongue by the earlier apprehension of food's odor; alternatively, bodily location explains the order, though the body-site clause is damaged.
 
 The Bhāṣya orders objects and cognitions through the faculties; it does not
 claim that faculties temporally produce their objects.
 
 ## 6. Philosophical Translation
 
-> Once the domains have been classified, their display is ordered through determinate relations: temporal restriction, material constitution of the object, operational reach, processing priority, and embodied location. Manas concludes the sequence because its object-range exceeds the present and its support is not confined to one bodily place.
+> The established domains are displayed in an order explained through determinate relations: temporal restriction, material constitution of the object, operational reach, priority in the cited food example, and embodied location. Manas concludes the sequence because its object-range is wider than that of the five senses; the alternative account also calls it non-localized.
 
 Organon rendering:
 
@@ -147,19 +150,19 @@ Order(Faculties)
 The first discriminator separates sensory faculty from manas:
 
 ```text
-TakesOnlyPresentObjects(f)
-    → SensoryFaculty(f)
+SensoryFaculty(f)
+    → TakesOnlyPresentObjects(f)
     → OrderedBefore(f, Manas)
 
 Manas(m)
-    → MayTake(m, Present | Past | Future | NonTemporalObject)
+    → HasUnrestrictedObjectRange(m)
 ```
 
 The second discriminates within the senses:
 
 ```text
-HasDerivativeMaterialObject(f)
-    → MemberOf(f, EyeEarNoseTongueGroup)
+MemberOf(f, EyeEarNoseTongueGroup)
+    → HasDerivativeMaterialObject(f)
 
 BodyFaculty(b)
     → MayTake(b, GreatElement | DerivativeMatter | Both)
@@ -181,8 +184,8 @@ The alternative topological sort is:
 eye → ear → nose → tongue → distributed body → non-localized manas
 ```
 
-The Core Discriminator therefore performs both classification and ordered
-serialization:
+For the Organon reconstruction, the Discriminator also arranges an ordered
+display:
 
 ```text
 Classify(x)
@@ -192,7 +195,7 @@ Classify(x)
 
 ## 9. Interpretive Note
 
-VAK 1.23 completes the Core Discriminator. Verses 1.18–1.22 determine
+VAK 1.23 continues the chapter's system setup. Verses 1.18–1.22 determine
 membership, unity, classificatory form, causal salience, and category-fit.
 This verse explains how the finished domain-system is ordered for exposition.
 
@@ -212,7 +215,7 @@ sense
     → localized material support
 
 manas
-    → objects across time and outside time
+    → wider object-range (further details depend on a damaged reading)
     → no single bodily location
 ```
 
@@ -221,7 +224,7 @@ support. The
 two determinations belong together: manas is temporally mediating rather than
 anatomically localized.
 
-The completed six-verse Method is:
+The preparatory method through six verses is:
 
 ```text
 1.18  intrinsic membership and determinate difference
@@ -232,8 +235,7 @@ The completed six-verse Method is:
 1.23  relational ordering and display
 ```
 
-This is why `VAK 1.23` belongs to the Discriminator rather than to the
-subsequent problems. VAK 1.24 can now ask why the completed system gives one
+VAK 1.24 can now ask why the established system gives one
 material domain the special designation `rūpa` and gathers the vast Dharma-
 field into a single dharma-āyatana.
 

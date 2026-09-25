@@ -197,7 +197,7 @@ is the positive content the Organon study can develop.
 
 ## 10. Review Status
 
-Provisional nineteenth study in the Bhāṣya edition. The natural unit,
+QA review of the nineteenth Bhāṣya study. The natural unit through 013.01,
 continuous Sanskrit and translation, three commonalities, analogical
 extension, and separate beauty explanation have been checked against the
 research Bhāṣya, kārikā opening, and running Sanskrit source.
