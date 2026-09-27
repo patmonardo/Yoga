@@ -1,19 +1,17 @@
-# Karmanirdeśa Bhāṣya, Current Studies
+# Karmanirdeśa Bhāṣya Reading Edition
 
-Provisional combined reading edition of sixty-six consecutive official Bhāṣya
-studies, VAK 4.01–4.66 (the ranges previously issued as Parts One and Two).
-This is a work in progress, not a complete chapter edition; the Kośa continues
-past VAK 4.66.
+Complete Chapter 4 study sequence: 127 consecutive Bhāṣya studies,
+VAK 4.01–4.127, through the chapter colophon. Individual Sanskrit readings
+and analyses remain provisional and are subject to further textual QA.
 
 The Markdown studies in `Organon/04-karma` remain the canonical editable
 sources. This derived PDF presents continuous Sanskrit, conventional
-translation, and focused study. Individual readings remain provisional.
+translation, and focused study.
 
 Run `./build.sh` from this directory. Requires Pandoc, XeLaTeX, and the
 FreeSerif, Lato, and FreeMono fonts.
 
-Output: `Organon-Kosa-Karma-Bhasya-Nirdesa-Studies-4.01-4.66.pdf`
+Output: `Organon-Kosa-Karma-Bhasya-Nirdesa.pdf`
 
-The earlier `Organon-Kosa-Karma-Bhasya-Nirdesa-Part-One.pdf` remains as a
-snapshot of VAK 4.01–4.12. The separate Part Two edition is under
-`../karma-bhasya-part-two/`.
+Older PDFs for partial ranges are snapshots. The present build includes
+all Chapter 4 studies in verse order.
