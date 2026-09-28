@@ -6,18 +6,22 @@
 
 This report now precedes the projected Organon Gītā Report.
 
-The reason is systematic. The Kośa study has supplied the differentiated
-causal, ethical, physical, temporal, and Path structures required to complete
-the Saṃyama-bhūmis. Yoga Sūtras II and III can therefore be interpreted as one
-continuous Practical Reason:
+The Kośa study supplies differentiated causal, ethical, physical, temporal,
+and Path structures for the Yoga inquiry. Yoga Sūtras II and III can be studied
+as a connected movement, with distinct comparative resources at distinct
+stations:
 
 ```text
 YS II
-    constructs and purifies the practical Bhūmi
+    presents Kriyā Yoga, the kleśas, discernment,
+    and the limbs of Yoga; Vasubandhu and the Kośa
+    provide the primary comparative architecture
 
 YS III
-    applies Saṃyama through the Bhūmis
-    and produces their determinate Jñānas
+    develops Saṃyama through the Bhūmis;
+    Hegel's Logic addresses its middle movement,
+    and Fichtean Knowing addresses vivekaja-jñāna
+    and the ending
 ```
 
 The Organon Gītā Report remains necessary, but it should follow this work so
@@ -32,10 +36,12 @@ which that unity becomes practical and knowable.
 
 The present report argues:
 
-> Yoga Sūtras II and III together exhibit Practical Reason as Kriyā Yoga and
-> Saṃyama. Book II constructs the disciplined causal ground of practice. Book
-> III performs Schema Inference upon the appearances proper to each Bhūmi,
-> producing determinate Jñāna and culminating in non-arising.
+> This report proposes reading Yoga Sūtras II and III together through Kriyā
+> Yoga and Saṃyama. Vasubandhu and the Kośa supply comparative resources for
+> the still unestablished systematic account of Book II. In Book III, Hegel's
+> Logic bears on Saṃyama's middle movement, while Fichtean Knowing bears on
+> vivekaja-jñāna and the ending. The Bhūmis, including Ethics and Physics,
+> require their own determinate Kośa-informed development.
 
 The complete movement is:
 
@@ -43,7 +49,7 @@ The complete movement is:
 Transcendental Principle
     → conditioned appearance
     → Kriyā
-    → purified Bhūmi
+    → [relation to Bhūmi to be established]
     → Saṃyama
     → Schema Inference
     → Jñāna
@@ -95,9 +101,10 @@ Jñāna
     the Path's determinate comprehension of its field
 ```
 
-The Kośa is therefore not supplementary Buddhist terminology added to Yoga.
-It provides the differentiated Dharmaskandha through which the
-Saṃyama-bhūmis can become complete.
+The Kośa is a comparative architecture for investigating YS II and for
+developing the ethical and physical Bhūmis of YS III. Its Dharma
+determinations must be worked out from the sources rather than assigned to
+Yoga in advance.
 
 ## The eleven Saṃyama-bhūmis
 
@@ -313,7 +320,7 @@ SchemaInference(P, B2) → J3 / B3
 The Path is dialectical because each valid Kriyā transforms the conditions of
 the next inference.
 
-## Yoga Sūtra II: construction of the practical Bhūmi
+## Yoga Sūtra II: textual sequence for investigation
 
 The first full commentary pass should follow these textual movements without
 rearranging the sūtras:
@@ -329,15 +336,17 @@ rearranging the sūtras:
 | II.25–27 | Viyoga, discernment, and sevenfold Prajñā | Mārga → Jñāna |
 | II.28–34 | limbs, Yama, Niyama, and counter-cultivation | disciplined Karma |
 | II.35–45 | results of ethical discipline | Karma-phala |
-| II.46–48 | Āsana | embodied Bhūmi |
+| II.46–48 | Āsana | embodied practice; Bhūmi relation unresolved |
 | II.49–53 | Prāṇāyāma | vital and cognitive mediation |
 | II.54–55 | Pratyāhāra | Indriya reorganized for Saṃyama |
 
-The controlling interpretation is:
+The proposed comparative task is:
 
 ```text
 YS II
-    = Ethics and Physics of the Saṃyama-capable agent
+    read the discipline through Patañjali and Vyāsa,
+    then test its relations with Vasubandhu's Kośa;
+    its systematic relation to Bhūmi remains open
 ```
 
 ## Yoga Sūtra III: operation through the Bhūmis
@@ -422,7 +431,9 @@ Vasubandhu and the Kośa
     differentiated causal and practical architecture
 
 Organon synthesis
-    Hegelian and Fichtean comprehension of systematic necessity
+    Kośa-informed reconstruction of YS II and the Bhūmis;
+    Hegelian Logic for the Saṃyama middle;
+    Fichtean Knowing for vivekaja-jñāna and the ending
 ```
 
 The purpose of this distinction is not to weaken the Organon thesis. It allows
@@ -457,7 +468,8 @@ Kośa
     → differentiated Dharmaskandha
 
 YS II
-    → construction of the practical Bhūmi
+    → close commentary required before assigning
+      its systematic relation to Bhūmi
 
 YS III
     → complete traversal of Saṃyama-bhūmis

@@ -70,7 +70,7 @@ The Path now distinguishes the construction of a truth-structured cognition from
 
 From their graded maturation arises Acceptance: the Truth-structure begins to be received with a stability that resists reversal. Its lower two grades preserve the preceding mode of formation, while its strengthening is concentrated entirely within the comprehensive dharma-foundation.
 
-Thus advancement is neither the mere repetition of identical cognition nor the simple addition of new content. What has been formed becomes increasingly present, effective, and stable.
+Thus advancement is neither the mere repetition of identical cognition nor the simple addition of new content. A stronger grade develops from what was formed, while earlier attained grades need not remain manifest.
 
 ## 7. Technical Vocabulary
 
@@ -80,7 +80,7 @@ In ordinary usage **ākaraṇa** can mean making or producing. Here the Bhāṣy
 
 **vardhana**
 
-**Vardhana** is the increase or strengthening of what has already been acquired. The Bhāṣya explains that, during development, previously acquired determinations become increasingly present (*saṃmukhībhāva*) because they are no longer weak.
+**Vardhana** is the development of a stage through practice. The Bhāṣya says previously attained grades become *non-present* (`asaṃmukhībhāva`) as the series develops, owing to reduced regard for them. Their genetic role does not require their continued manifestation.
 
 Formation and strengthening therefore answer different questions:
 
@@ -105,9 +105,9 @@ Acceptance has three grades:
 
 The present verse expressly assimilates the first two grades to the preceding mode of formation. The highest Acceptance receives its further determination in 6.19.
 
-**saṃmukhībhāva**
+**asaṃmukhībhāva**
 
-The Bhāṣya's **saṃmukhībhāva** is becoming present or directly operative. Strengthening is therefore not an external quantitative addition. The already acquired truth-modes come increasingly to the fore as effective cognition.
+The Bhāṣya's **asaṃmukhībhāva** is the non-presence of previously attained grades during later development. Its reason is `avahumānatva`, diminished regard for those earlier grades. This qualifies the relation between genetic succession and what is presently operative.
 
 **aparihāṇi**
 
@@ -139,7 +139,7 @@ The crucial determination is the difference between identity of structure and mo
 ```text
 same Four Truths
 + same sixteen modes
-+ increased cognitive presence
++ later grade attained through cultivation
 + increased stability
 = new Path-capacity
 ```
@@ -148,13 +148,13 @@ The source and Bhāṣya establish formation, strengthening, graded increase, an
 
 ## 9. Interpretive Note
 
-VAK 6.17 showed that Heat and Summit can share the same object and formal structure while differing in strength. VAK 6.18 explains the mechanism of that difference. The modes are first placed upon the Truths; afterward the resulting cognition is cultivated until its determinations become increasingly present.
+VAK 6.17 showed that Heat and Summit can share the same object and formal structure while differing in strength. VAK 6.18 distinguishes their first formation from later development. The modes are first placed upon the Truths; the resulting stages are then cultivated through graded succession, without requiring earlier grades to remain manifest.
 
 The verse therefore provides a precise alternative to treating Meaning as a static representation. A truth-content is not yet a Path merely because it has been correctly formulated. It must first be organized into a determinate cognitive structure and then strengthened until it governs apprehension.
 
 Acceptance names the emerging stability of this structure. Yet the concentration of its development in the dharma-foundation should be read technically: the comprehensive Truth-field becomes the exclusive basis of its strengthening. It need not be converted into a claim that body, feeling, or citta cease to matter; their prior determinations have already entered the comprehensive field.
 
-The definition of ākaraṇa, the account of increasing presence, the three grades of Acceptance, and the restriction of its strengthening to the dharma-foundation are Bhāṣya determinations. The language of determinate Meaning becoming practically governing is the Organon's reconstruction.
+The definition of ākaraṇa, the non-presence of previously attained grades during development, the three grades of Acceptance, and the restriction of its development to the dharma-foundation are Bhāṣya determinations. The language of determinate Meaning becoming practically governing is the Organon's reconstruction.
 
 ## 10. OWL++ Seed
 
@@ -181,7 +181,7 @@ Class: StrongAcceptance
 Class: DharmaFoundation
 Class: FourFoundations
 Class: TruthModePlacement
-Class: CognitivePresence
+Class: GradedAttainment
 
 ObjectProperty: initiallyFormedBy
 ObjectProperty: strengthenedBy
@@ -205,7 +205,7 @@ Acceptance Facts:
   strengthenedBy DharmaFoundation
 
 InitialFormation increases TruthModePlacement
-Strengthening increases CognitivePresence
+Strengthening develops GradedAttainment
 
 Constraint: Initial formation and subsequent strengthening are distinct Path operations.
 Constraint: WeakAcceptance and MediumAcceptance are initially formed in the manner of Summit.

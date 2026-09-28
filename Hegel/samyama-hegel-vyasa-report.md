@@ -330,7 +330,8 @@ III.20  Pratyaya distinguished from its Alambana
 
 `tat-pravibhaga-samyamat sarva-bhuta-ruta-jnanam`
 
-Sabda, Artha, and Pratyaya are ordinarily confused through mutual Adhyasa:
+**Patañjali's determination.** Śabda, Artha, and Pratyaya are mixed through
+mutual Adhyāsa (`itaretara-adhyāsa`):
 
 ```text
 Sabda      articulated sign
@@ -338,7 +339,20 @@ Artha      intended object or Meaning
 Pratyaya   determinate cognitive presentation
 ```
 
-Samyama performs `pravibhaga`, precise differentiation without fragmentation. Nonduality cannot mean an immediate mixture in which every distinction is ignored; that would be `sankara`. A higher unity requires that each moment first become determinate.
+Saṃyama on their separation (`tat-pravibhāga-saṃyama`) yields knowledge of the
+utterances of all beings (`sarva-bhūta-ruta-jñāna`). This is the result named
+by the sūtra. It does not itself mention Anuśaya or define a general account
+of how all Jñāna is produced.
+
+**Organon–Kośa reconstruction.** We call the undoing of this superimposition
+*Negative Dialectic*. The proposed connection to Anuśaya asks how latent
+afflictive dispositions sustain or reproduce such confusion; that connection
+must be argued from the Kośa, not attributed to III.17. On this reading,
+discriminating the mixed terms makes Artha determinate within the discipline,
+while the Jñāna specified here arises as its result. This is a proposed model
+for the wider Artha–Jñāna movement, not a claim that the sūtra states the
+whole model. A higher unity requires each term to become determinate rather
+than remain in `saṅkara`, mixture.
 
 #### Vyasa on III.17
 

@@ -149,7 +149,7 @@ In Organon terms, explicitly as project synthesis, this is a **causally prepared
 
 ## 9. Interpretive Note
 
-VAK 6.18 showed the Truth-structure becoming increasingly present and stable as Acceptance. VAK 6.19 carries this development to a point of maximal concentration: the cognitive range contracts to one truth in one domain for one moment. The Path advances here by exactness, not by breadth.
+VAK 6.18 distinguished initial formation from graded development as Acceptance, without requiring the earlier grades to remain manifest. VAK 6.19 carries this development to a point of maximal concentration: the cognitive range contracts to one truth in one domain for one moment. The Path advances here by exactness, not by breadth.
 
 The Highest Mundane Dharmas are the limit internal to mundane cultivation. Their philosophical importance lies in their threshold efficacy. The Bhāṣya neither identifies them with the supramundane Path nor severs that Path from its preparation. The classification *mundane* should not here be silently equated with the distinct two-truth designation *saṃvṛti*.
 
