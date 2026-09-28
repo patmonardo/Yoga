@@ -7,7 +7,7 @@
 > tadvijñānāśrayā rūpaprasādāś cakṣurādayaḥ // 1.09 //
 
 > Material form comprises the five faculties, the five sensory objects, and
-> avijñapti. The eye and the other faculties are clear material forms that
+> avijñapti. The eye and the other faculties are material clarities that
 > serve as supports for the corresponding cognitions.
 
 The Bhāṣya begins the internal analysis of the rūpa aggregate. It enumerates
@@ -37,24 +37,27 @@ cognitions” leaves room for the two construals of `tad` explained below.
 
 The natural unit begins with the return to the five aggregates and ends with
 the announcement that the five sensory objects are to be explained. The
-following `tatra tāvat` introduces their analysis and is left to the next
-unit. This boundary has been checked against the running Sanskrit source,
-printed locations 005.21–006.07.
+local IAST marks the passage at `[005|21]`–`[006|07]`; the following
+`tatra tāvat` introduces their analysis and is left to the next unit.
 
-Word division, punctuation, and evident transcription errors have been
-normalized for reading. The source's damaged faculty list,
-`cakṣuḥśtrotragrhāṇajihvākāyendariyā ṇa`, is read as
-`cakṣuḥśrotraghrāṇajihvākāyendriyāṇi`, following the local research study
-and the intact enumeration later in the prose. Other local normalizations
-include `uktani` to `uktāni`, `prakaraṇagraṇtho` to `prakaraṇagrantho`,
-and `pañcā nirddeśyāḥ` to `pañca nirdeśyāḥ`. The running source closes the
-scriptural quotation after `upādāya`; the quotation here includes
-`rūpaprasāda`, as in the research study. That punctuation is editorial.
-The quoted form `rūpaprasāda` before `iti` is retained. This is a normalized
-reading text, not a critical edition.
+Word division, punctuation, and transcription normalizations have been
+supplied for reading. The local IAST's damaged faculty list,
+`cakṣuḥśtrotragrhāṇajihvākāyendariyā ṇa`, is read here as
+`cakṣuḥśrotraghrāṇajihvākāyendriyāṇi`, following the earlier research study
+and the intact enumeration later in the prose. Other local forms are
+`uktani`, `prakaraṇagraṇtho`, and `pañcā nirddeśyāḥ`; this transcription
+normalizes them as `uktāni`, `prakaraṇagrantho`, and `pañca nirdeśyāḥ`.
+The local text closes the scriptural quotation after `upādāya`; this
+transcription places `rūpaprasāda` inside the quotation, following the
+research study. That punctuation is editorial; the form `rūpaprasāda`
+before `iti` is retained. The local IAST is an edited best reading based
+especially on Pradhan and also on Shastri; its original e-text provenance is
+unknown, and it is not a critical edition. These normalizations and the
+quotation punctuation have not been independently checked against the
+printed editions.
 
 The sentence `tatra ya ete pañca rūpādayo 'rthā uktāḥ`, present in the
-running source but omitted from the research report's segmented analysis,
+local IAST text but omitted from the research report's segmented analysis,
 is retained because it establishes the first antecedent of `tad`.
 
 ## 3. Continuous Conventional Translation
@@ -68,16 +71,16 @@ is retained because it establishes the first antecedent of `tad`.
 > is the full extent of the aggregate of material form.
 >
 > Now, with regard to those five objects beginning with visible form that
-> have been mentioned: the eye and the other faculties are clear material
-> forms serving as supports for the cognitions of those objects. The five
-> clarities of a material nature that serve as supports for cognitions of
+> have been mentioned: the eye and the other faculties are material
+> clarities serving as supports for the cognitions of those objects. The five
+> material clarities that serve as supports for cognitions of
 > visible form, sound, odor, taste, and the tangible are to be understood,
 > respectively, as eye, ear, nose, tongue, and body.
 >
 > As the Blessed One has said: “The eye, monk, is the internal sense-base,
 > a material clarity dependent upon the four great elements,” and so forth.
 > With regard to those faculties beginning with the eye that have been
-> mentioned, the eye and the others are clear material forms serving as
+> mentioned, the eye and the others are material clarities serving as
 > supports for their corresponding cognitions. The meaning is: supports of
 > eye-cognition and the rest. Understood in this way, the Prakaraṇa text is
 > also followed: “What is the eye? A material clarity serving as the support
@@ -156,9 +159,9 @@ joins `rūpaprasāda` to `vijñānāśraya`. The prose expands these as
 construction `ye ... te ... veditavyāḥ` says that those five material
 clarities are to be understood as the five faculties, in sequence.
 
-The translation retains “clear material form” and “material clarity” close
-to `prasāda`. “Sensitive” or “refined material form” can help explain the
-technical use, but the present prose does not give a separate account of
+The translation uses “material clarity” consistently for `rūpaprasāda`.
+“Sensitive” or “refined material form” can help explain the technical use,
+but the present prose does not give a separate account of
 such refinement. Its explicit determinations are material nature, support
 of cognition, and dependence on the four great elements. Visual transparency
 alone would not explain the term's application to all five faculties.
@@ -241,18 +244,18 @@ cognition participates in the development of discriminative understanding.
 
 ## 9. Review Status
 
-QA reviewed against the running source at [005|21]–[006|07], ending after
+Reviewed against the current Kārikā study and the local IAST text at
+`[005|21]`–`[006|07]`, ending after
 `arthāḥ pañca nirdeśyāḥ` and before `tatra tāvat`, which opens the next
 unit. The continuous Sanskrit and translation preserve both antecedents of
 `tad`: first the five sensory objects, then the five faculties. The
-object-based antecedent is present in the running source although omitted
+object-based antecedent is present in the local IAST text although omitted
 from the research report's segmented analysis. The study keeps the
 eleven-member extent of rūpa distinct from the sensory cognitions that its
 faculties support.
 
-The unit has been compared with the local kārikā and Bhāṣya research files
-and the running Sanskrit source. Transcription repairs and quotation
-punctuation are recorded above. The technical English for `prasāda` and the
-editorial normalization remain provisional for philological review. The
-original research files and the completed Part One reading artifact are
-preserved.
+Section 2 records the damaged faculty list, working normalizations, and the
+editorial quotation boundary. The working rendering of `prasāda` as
+“material clarity” remains provisional. No independent collation against the
+printed editions is claimed. The original research files and the completed
+Part One reading artifact are preserved.

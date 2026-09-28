@@ -36,16 +36,19 @@ and causal relations.
 This unit runs from the question identifying the conditioned dharmas at
 `[004|23]` through the conclusion that these expressions are alternative
 designations at `[005|08]`. The next sentence begins the account of 1.08.
-The running witness omits `saṃjñāskandha` from its prose list of five
-aggregates. It also has `dhārmā` in the first verse citation,
+The local IAST text omits `saṃjñāskandha` from its prose list of five
+aggregates. It reads `dhārmā` in the first verse citation,
 `adyante 'nitayatyeti vā` in the second derivation of `adhvan`,
-`kathā vāvāyam`, `saṃskṛntaṃ`, `urakaraṇagrantho`,
-`vaibhāṣicāḥ`, and `saṃskṛtadharmauaryāyāḥ`. The reading text supplies
-`dharmā`, `adyante 'nityatayeti vā`, `kathā vākyam`, `saṃskṛtaṃ`,
-`prakaraṇagrantho`, `vaibhāṣikāḥ`, and `saṃskṛtadharmaparyāyāḥ`.
-These provisional repairs are not directly attested in those places of the
-running witness; the second derivation of `adhvan` remains especially
-uncertain.
+`kathā vāvāyam`, `saṃskṛntaṃ`, `urakaraṇagrantho`, `vaibhāṣicāḥ`, and
+`saṃskṛtadharmauaryāyāḥ`. This transcription normalizes these as `dharmā`,
+`adyante 'nityatayeti vā`, `kathā vākyam`, `saṃskṛtaṃ`,
+`prakaraṇagrantho`, `vaibhāṣikāḥ`, and `saṃskṛtadharmaparyāyāḥ` for reading.
+The local IAST is an edited best reading based especially on Pradhan and also
+on Shastri; its original e-text provenance is unknown, and it is not a
+critical edition. The omission of `saṃjñāskandha` is retained rather than
+silently repaired. These normalizations have not been independently checked
+against the printed editions. The second derivation of `adhvan` remains
+especially uncertain.
 
 ## 3. Continuous Conventional Translation
 
@@ -56,7 +59,7 @@ uncertain.
 > the aggregate of consciousness—these are the conditioned dharmas.
 >
 > They are called conditioned because they are made by conditions coming
-> together and acting together. For nothing is produced by a single
+> together and combining. For nothing is produced by a single
 > condition. There is no contradiction in applying the term to future
 > dharmas, because they belong to the same kind, as with milk and fuel.
 >
@@ -71,8 +74,8 @@ uncertain.
 > contradicted: “The bases of discourse are included within the eighteen
 > domains.”
 >
-> The exit, the going out, from everything conditioned is nirvāṇa. Because
-> they possess this, they are called possessed of an exit. Because they
+> Nirvāṇa is the exit from everything conditioned. Because the conditioned
+> dharmas have this exit, they are called possessed of an exit. Because they
 > possess causes, they are called possessed of causes. The Vaibhāṣikas say
 > that the word `vastu` here expresses “cause.” These are alternative
 > designations of conditioned dharmas.
@@ -101,7 +104,7 @@ different relations disclosed by their alternative designations.
 ## 5. The Conditioned as Jointly Produced
 
 The five aggregates give the complete aggregate-description of conditioned
-dharmas. The electronic witness lists material form, feeling, formations, and
+dharmas. The local IAST text lists material form, feeling, formations, and
 consciousness but omits recognition (`saṃjñā`) in its prose expansion. Since
 the kārikā explicitly says “five aggregates,” the omission should remain a
 textual note rather than determine the doctrinal inventory.
@@ -154,9 +157,10 @@ of `vastu` with cause.
 The commentary controls the final reading in five ways:
 
 1. The five aggregates constitute the conditioned field under aggregate-
-   description; the missing recognition aggregate in the prose witness is a
+    description; the missing recognition aggregate in the local IAST prose is a
    textual omission.
-2. `Saṃskṛta` means produced through plural conditions acting together.
+2. `Saṃskṛta` means produced through plural conditions coming together and
+    combining.
 3. `Adhvan` names conditioned dharmas under past, present, and future
    determination.
 4. `Saniḥsāra` means possessed of an exit, with nirvāṇa specified as that
@@ -185,9 +189,9 @@ terminology attributed to Vasubandhu.
 
 ## 9. Review Status
 
-QA reviewed against the local Kārikā and Bhāṣya witnesses and the running
-Sanskrit source, `[004|23]`–`[005|08]`. The study preserves plural conditional
+Reviewed against the current Kārikā study and the local IAST text at
+`[004|23]`–`[005|08]`. The study preserves plural conditional
 production and the several designations of the same conditioned field.
 The omitted `saṃjñāskandha`, the uncertain second derivation of `adhvan`,
-and the other witness repairs remain explicit in Section 2. The study is
+and the other working normalizations remain explicit in Section 2. The study is
 provisional pending further textual review.

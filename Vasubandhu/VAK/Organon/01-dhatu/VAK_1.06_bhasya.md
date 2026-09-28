@@ -51,14 +51,16 @@ This unit runs from the first cited verse fragment at `[003|24]` through the
 fourfold classification and closure of the three unconditioned dharmas at
 `[004|22]`. The next question at `[004|23]` begins 1.07. The cited verse
 fragments are retained in their running-source positions. Word division,
-punctuation, and editorial repairs have been supplied for reading. The
-running witness is unstable in the sensory example, particularly
-`na hi te satyā atītaṃ viṣayamālambayi tulmiti` at `[004|16-004|17]`;
-the reading text's `na hi te saty atītaṃ viṣayam ālambayitum` is a
-conjectural repair, while the conventional translation follows the clear
-context concerning the five sensory consciousnesses. Other repairs include
+punctuation, and editorial normalizations have been supplied for reading.
+The local IAST text is an edited best reading based especially on Pradhan
+and also on Shastri; its original e-text provenance is unknown, and it is not
+a critical edition. In the sensory example, the local text reads
+`na hi te satyā atītaṃ viṣayamālambayi tulmiti` at `[004|16-004|17]`. This
+transcription conjecturally reads `na hi te saty atītaṃ viṣayam ālambayitum`,
+following the context of the five sensory consciousnesses; the repair has not
+been checked against the printed editions. Other normalizations are
 `anutpasttidharmāṇām` to `anutpattidharmāṇām` and `aṇāsravāṇām` to
-`anāsravāṇām`. This is a reading text, not a critical edition.
+`anāsravāṇām`.
 
 ## 3. Continuous Conventional Translation
 
@@ -212,8 +214,9 @@ that Vasubandhu presents the later project in these terms.
 
 ## 9. Review Status
 
-QA reviewed against the local Kārikā and Bhāṣya witnesses and the running
-Sanskrit source, `[003|24]`–`[004|22]`. All three cited verse fragments, the
-fourfold classification, and the unit's closure are retained. The sensory
-example's damaged witness wording and the editorial repair remain explicit
-in Section 2. The study is provisional pending further textual review.
+Reviewed against the current Kārikā study and the local IAST text at
+`[003|24]`–`[004|22]`. All three cited verse fragments, the fourfold
+classification, and the unit's closure are retained. Section 2 records the
+damaged sensory example and its conjectural reading. No independent
+collation against the printed editions is claimed; the study remains
+provisional.

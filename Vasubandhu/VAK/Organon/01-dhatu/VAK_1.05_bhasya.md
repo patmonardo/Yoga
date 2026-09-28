@@ -27,10 +27,12 @@ through the unobstructed movement of material form.
 This unit begins with the question concerning the anāsrava dharmas at
 `[003|15]` and closes with the definition of space at `[003|23]`. The next
 line opens the account of the first cessation in 1.06. Word division and
-editorial repairs have been supplied for reading. The running witness has
-`anasravāḥ` and `katamattri vidham`; the reading text supplies `anāsravāḥ`
-and `katamat trividham`. These are provisional repairs, not a critical
-edition.
+editorial normalizations have been supplied for reading. The local IAST text
+has `anasravāḥ` and `katamattri vidham`; this transcription normalizes these
+as `anāsravāḥ` and `katamat trividham`. The local IAST is an edited,
+non-critical best reading based especially on Pradhan and also on Shastri.
+These forms have not been independently collated here against the printed
+editions.
 
 ## 3. Continuous Conventional Translation
 
@@ -43,9 +45,9 @@ edition.
 > Truth of the Path, constitutes the dharmas without outflows. Why? Because
 > the outflows do not settle within them.
 >
-> Concerning the threefold unconditioned that has been enumerated: among
-> these, space is non-obstruction. Space has non-obstruction as its intrinsic
-> nature; it is that in which material form can move.
+> Among the three unconditioned dharmas just enumerated, space is
+> non-obstruction. Its nature is non-obstruction; it is where material form
+> can move.
 
 ## 4. Movement of the Commentary
 
@@ -159,8 +161,9 @@ meaning as already stated by Vasubandhu.
 
 ## 9. Review Status
 
-QA reviewed against the local Kārikā and Bhāṣya witnesses and the running
-Sanskrit source, `[003|15]`–`[003|23]`. The study preserves the distinct
-conditioned and outflow axes and the bounded definition of space as
-non-obstruction. The two cessations are named here; their definitions remain
-for 1.06. The study is provisional pending further textual review.
+Reviewed against the current Kārikā study and the local IAST text at
+`[003|15]`–`[003|23]`. The study preserves the distinct conditioned and
+outflow axes and the bounded definition of space as non-obstruction. The two
+cessations are named here; their definitions remain for 1.06. Section 2
+records the working normalizations. No independent collation against the
+printed editions is claimed; the study remains provisional.

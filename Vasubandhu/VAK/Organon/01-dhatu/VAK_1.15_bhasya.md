@@ -8,7 +8,7 @@
 
 > The formations other than the four constitute the saṃskāra aggregate.
 > These three, together with avijñapti and the unconditioned, are called
-> dharmāyatana and dharmadhātu.
+> the Dharma-Sphere and the Dharma-Domain.
 
 The Bhāṣya explains which formations the first clause includes and why the
 scriptural emphasis on volition does not exhaust them. It then identifies
@@ -34,19 +34,22 @@ dharmāyatana and dharmadhātu.
 > sahāvijñaptyasaṃskṛtaiḥ / ity etāni sapta dravyāṇi dharmāyatanaṃ
 > dharmadhātuś cety ākhyāyante /
 
-The unit begins with the opening of 1.15 at printed location 010.19 and
-ends with the sevenfold count at 011.05. It includes the saṃskāra discussion
-also reproduced in the research report for 1.14; the official 1.14 study
-reserved that material for this verse. The following definition of vijñāna
-opens 1.16.
+The unit begins with the opening of 1.15 at source marker `[010|19]` and
+ends with the sevenfold count at `[011|05]`. It includes the saṃskāra
+discussion also reproduced in the research report for 1.14; the official
+1.14 study reserved that material for this verse. The following definition
+of vijñāna opens 1.16.
 
-Word division and quotation punctuation have been supplied for reading.
-The source's `catubbryo` is normalized to `caturbhyo`, and the quotation
-mark in `saṃgraho "bhyupagantavyaḥ` is read as the avagraha indicating
-`saṃgraho 'bhyupagantavyaḥ`. The quoted `ucyata` before `iti` is retained
-as the transmitted sandhi form. The source's `parijñāparihāṇe` is also
-retained: the following `aprahāya` controls the rendering “full comprehension
-and abandonment.” This normalized reading does not claim a critical edition.
+Word division and quotation punctuation have been supplied for reading. The
+local IAST's `catubbryo` is normalized to `caturbhyo`, and the quotation mark
+in `saṃgraho "bhyupagantavyaḥ` is read as the avagraha in
+`saṃgraho 'bhyupagantavyaḥ`. The quoted `ucyata` before `iti` is retained as
+transmitted sandhi. The local `parijñāparihāṇe` is also retained: the
+following `aprahāya` controls the rendering “full comprehension and
+abandonment.” The local IAST is an edited best reading based especially on
+Pradhan and also on Shastri; its original e-text provenance is unknown, and
+it is not a critical edition. No independent collation against the printed
+editions is claimed.
 
 ## 3. Continuous Conventional Translation
 
@@ -69,15 +72,15 @@ and abandonment.” This normalized reading does not claim a critical edition.
 > must necessarily be accepted.
 >
 > These three—the aggregates of vedanā, saṃjñā, and saṃskāra—within the
-> arrangement of āyatanas and dhātus, together with avijñapti and the
-> unconditioned, are called dharmāyatana and dharmadhātu. These seven
-> substances are designated the dharma-base and the dharma-domain.
+> Sphere and Domain arrangements, together with avijñapti and the
+> unconditioned, are called the Dharma-Sphere and the Dharma-Domain. These
+> seven substances are designated the Dharma-Sphere and the Dharma-Domain.
 
 ## 4. Movement of the Commentary
 
 The first movement establishes the extent of an aggregate and defends its
-inclusiveness. The second reorganizes specified contents under the āyatana
-and dhātu arrangements:
+inclusiveness. The second reorganizes specified contents under the Sphere
+and Domain arrangements:
 
 ```text
 formations outside the other four aggregates
@@ -184,7 +187,7 @@ while “counted constituents” clarifies the enumeration in the analysis.
 
 This completes the placement of avijñapti left open by the ten material
 entries of 1.14. It belongs to the rūpa aggregate but is included here in
-the dharma-base and dharma-domain. Its classificatory placement changes
+the Dharma-Sphere and Dharma-Domain. Its classificatory placement changes
 without a change in its material status.
 
 The unconditioned entries likewise retain their status. Being gathered with
@@ -238,14 +241,14 @@ The relation to vijñāna receives its next explicit determination in 1.16.
 
 ## 10. Review Status
 
-QA review of the fifteenth Bhāṣya study. The complete unit,
-including the saṃskāra passage reserved from 1.14, has been compared with
-the local research witnesses and running Sanskrit through 011.05. The account
-retains scriptural attribution, the distinction between predominance and
-complete extension, the Path-based inclusion argument, and the sevenfold count.
+Reviewed against the current Kārikā study and local IAST text at
+`[010|19]`–`[011|05]`. The complete unit includes the saṃskāra passage
+reserved from 1.14. The translation retains scriptural attribution, the
+distinction between predominance and complete extension, the Path-based
+inclusion argument, and the sevenfold count.
 
-The transmitted `parijñāparihāṇe` and the numerical level of `sapta
-dravyāṇi` are explained rather than silently regularized. The scope of
-suffering, origin, and abandonment remains distinguished from the status
-of all conditioned factors. Original research files and the Part One
-reading artifact are preserved.
+The local `parijñāparihāṇe` and the numerical level of `sapta dravyāṇi` are
+explained rather than silently regularized. The scope of suffering, origin,
+and abandonment remains distinguished from the status of all conditioned
+factors. No independent collation against the printed editions is claimed;
+the original research files and the Part One reading artifact are preserved.

@@ -28,11 +28,13 @@ outflow from the field in which an outflow can settle.
 This unit takes up the transition question at `[003|05]`, also noted at the
 close of the 1.03 study, and runs through `uktāḥ sāsravāḥ` at `[003|14]`.
 The next question at `[003|15]` begins the account of dharmas without
-outflows. Word division and editorial repairs have been supplied for
-reading. The running witness has `samāsanirddeśa`, `na tinuśerate`, and
-`sāsravatvaprasañgaḥ`; the reading text supplies `samāsanirdeśa`,
-`na tv anuśerate`, and `sāsravatvaprasaṅgaḥ`. These are provisional repairs,
-not a critical edition.
+outflows. Word division and editorial normalizations have been supplied for
+reading. The local IAST text reads `samāsanirddeśa`, `na tinuśerate`, and
+`sāsravatvaprasañgaḥ`; this transcription normalizes them as
+`samāsanirdeśa`, `na tv anuśerate`, and `sāsravatvaprasaṅgaḥ`. The local IAST
+is an edited, non-critical best reading based especially on Pradhan and also
+on Shastri. These forms have not been independently collated here against the
+printed editions.
 
 ## 3. Continuous Conventional Translation
 
@@ -170,9 +172,9 @@ difference between object and lodging.
 
 ## 9. Review Status
 
-QA reviewed against the local Kārikā and Bhāṣya witnesses and the running
-Sanskrit source, `[003|05]`–`[003|14]`. The study preserves the comprehensive
-division and the distinction between taking an object and lodging in it.
-Witness repairs remain explicit in Section 2; the full account of
-non-settling remains deferred to the Anuśayanirdeśa. The study is
-provisional pending further textual review.
+Reviewed against the current Kārikā study and the local IAST text at
+`[003|05]`–`[003|14]`. The study preserves the comprehensive division and the
+distinction between taking an object and lodging in it. Section 2 records the
+working Sanskrit normalizations; the full account of non-settling remains
+deferred to the Anuśayanirdeśa. No independent collation against the printed
+editions is claimed; the study remains provisional.

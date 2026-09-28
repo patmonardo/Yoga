@@ -1,4 +1,4 @@
-# VAK_1.14 Bhāṣya — Ten Material Bases and Domains, Feeling, and Mark-Grasping
+# VAK_1.14 Bhāṣya — Ten Material Spheres and Domains, Feeling, and Mark-Grasping
 
 ## 1. Kārikā Anchor
 
@@ -6,11 +6,11 @@
 >
 > vedanānubhavaḥ saṃjñā nimittodgrahaṇātmikā // 1.14 //
 
-> Those very faculties and objects are accepted as ten āyatanas and ten
-> dhātus. Vedanā is felt experience; saṃjñā has the nature of grasping a mark.
+> Those very faculties and objects are accepted as ten Spheres and ten
+> Domains. Vedanā is felt experience; saṃjñā has the nature of grasping a mark.
 
 The Bhāṣya places the five faculties and five sensory objects already
-analyzed within the āyatana and dhātu arrangements. It then defines the
+analyzed within the Sphere and Domain arrangements. It then defines the
 aggregates of vedanā and saṃjñā, distinguishing their operations and their
 sixfold divisions.
 
@@ -30,16 +30,16 @@ sixfold divisions.
 > nīlapītadīrghahrasvastripuruṣamitrāmitrasukhaduḥkhādinimittodgrahaṇam
 > asau saṃjñāskandhaḥ / sa punar bhidyamānaḥ ṣaṭsaṃjñākāyā vedanāvat /
 
-The unit runs from the return to the constituents of rūpa at printed
-location 010.07 through the sixfold saṃjñā statement at 010.18. The
-following `caturbhyo 'nye tu saṃskāraskandhaḥ` begins 1.15. The local
-research Bhāṣya report includes that next verse's opening and its commentary;
-here it is reserved for the next numbered study so that the sequence does
-not duplicate or anticipate its analysis.
+The unit runs from the return to the constituents of rūpa at source marker
+`[010|07]` through the sixfold saṃjñā statement at `[010|18]`. The following
+`caturbhyo 'nye tu saṃskāraskandhaḥ` begins 1.15. The local research Bhāṣya
+report includes that next verse's opening and its commentary; here it is
+reserved for the next numbered study so that the sequence does not duplicate
+or anticipate its analysis.
 
-The running text has several evident defects. Its `indriyārthasta`,
+The local IAST has several evident defects. Its `indriyārthasta`,
 `aśāyatanadhātavaḥ`, `cakṣurchātū`, `vaktavyaḥ`, and
-`yāvamvanaḥsaṃsparśajā` are read as `indriyārthās ta`,
+`yāvamvanaḥsaṃsparśajā` are read here as `indriyārthās ta`,
 `daśāyatanadhātavaḥ`, `cakṣurdhātū`, `vaktavyāḥ`, and
 `yāvan manaḥsaṃsparśajā`. The damaged third feeling term,
 `, duḥkhāsukhaś ca`, is read as `'duḥkhāsukhaś ca`, following the
@@ -47,22 +47,26 @@ research report and the explicit threefold division. Word division and
 punctuation are editorial. `Cakṣurdhātū` before `rūpadhātuḥ` preserves
 the sandhi of the masculine singular `cakṣurdhātuḥ`.
 
-In the mark list, both local texts print `mitramitra`; the reading
-`mitrāmitra`, friend and enemy, is supplied provisionally and recorded as
-a repair rather than silently treated as an intact witness reading.
-The introductory `yāvan` is retained and rendered “as far as” below; its
-compressed connection with the following enumeration remains provisional.
+In the mark list, both local research texts print `mitramitra`; the reading
+`mitrāmitra`, friend and enemy, is supplied provisionally and recorded as a
+repair rather than treated as an intact reading. The introductory `yāvan`
+is retained and rendered “as far as” below; its compressed connection with
+the following enumeration remains provisional. The local IAST is an edited
+best reading based especially on Pradhan and also on Shastri; its original
+e-text provenance is unknown, and it is not a critical edition. These
+normalizations have not been independently checked against the printed
+editions.
 
 ## 3. Continuous Conventional Translation
 
 > Those very faculties and objects that have been stated to have the nature
-> of the rūpa aggregate are accepted as ten āyatanas and ten dhātus. In the
-> arrangement by āyatanas, they are ten āyatanas: the eye-base and
-> visible-form base, through the body-base and tangible base. In the
-> arrangement by dhātus, those same factors are ten dhātus: the eye-domain
-> and visible-form domain, through the body-domain and tangible domain.
+> of the rūpa aggregate are accepted as ten Spheres and ten Domains. In the
+> Sphere arrangement, they are ten Spheres: the eye-Sphere and visible-form
+> Sphere, through the body-Sphere and tangible Sphere. In the Domain
+> arrangement, those same factors are ten Domains: the eye-Domain and
+> visible-form Domain, through the body-Domain and tangible Domain.
 >
-> The rūpa aggregate and its arrangement as āyatanas have been explained.
+> The rūpa aggregate and its Sphere arrangement have been explained.
 > Vedanā and the rest must be explained. Here vedanā is experience. The
 > vedanā aggregate is threefold experience: pleasant, painful, and neither
 > painful nor pleasant. Further divided, it comprises six groups of vedanā:
@@ -81,8 +85,8 @@ aggregates.
 
 ```text
 five faculties and five sensory objects
-    → ten entries in the āyatana arrangement
-    → the same ten entries in the dhātu arrangement
+   → ten entries in the Sphere arrangement
+   → the same ten entries in the Domain arrangement
 
 vedanā aggregate
     → experience: pleasant, painful, neither painful nor pleasant
@@ -103,18 +107,18 @@ the opening of 1.15, not to these sentences.
 The relative-correlative `ya eva ... ta eva` preserves identity of the
 factors across the classificatory change. `Indriyārthāḥ` joins the
 faculties and their sensory objects; `daśāyatanadhātavaḥ` is explicitly
-unpacked in the prose as ten āyatanas and ten dhātus.
+unpacked in the prose as ten Spheres and ten Domains.
 
 The repeated locative `vyavasthāyām` specifies the arrangement under which
 the factors are being counted. The list proceeds in faculty/object pairs:
 
-| Pair | Āyatana arrangement | Dhātu arrangement |
+| Pair | Sphere arrangement | Domain arrangement |
 |---|---|---|
-| eye and visible form | eye-base and visible-form base | eye-domain and visible-form domain |
-| ear and sound | ear-base and sound-base | ear-domain and sound-domain |
-| nose and odor | nose-base and odor-base | nose-domain and odor-domain |
-| tongue and taste | tongue-base and taste-base | tongue-domain and taste-domain |
-| body and tangible | body-base and tangible base | body-domain and tangible domain |
+| eye and visible form | eye-Sphere and visible-form Sphere | eye-Domain and visible-form Domain |
+| ear and sound | ear-Sphere and sound-Sphere | ear-Domain and sound-Domain |
+| nose and odor | nose-Sphere and odor-Sphere | nose-Domain and odor-Domain |
+| tongue and taste | tongue-Sphere and taste-Sphere | tongue-Domain and taste-Domain |
+| body and tangible | body-Sphere and tangible Sphere | body-Domain and tangible Domain |
 
 The prose gives the endpoints with `yāvat`, “through”; the intervening
 pairs are expanded here from the fivefold enumeration already established
@@ -128,9 +132,9 @@ particular tenfold enumeration. The passage therefore does not equate
 
 Identity of the factors also does not make the classifications synonymous.
 The present unit establishes correspondence and counts; it does not yet
-give the complete derivations of āyatana and dhātu or enumerate their
-remaining members. “Base” and “domain” in the translation keep the two
-series distinguishable without supplying those later explanations.
+give the complete derivations of Sphere and Domain or enumerate their
+remaining members. The terms remain distinct without supplying those later
+explanations.
 
 ## 6. Vedanā: Threefold Experience and Sixfold Contact
 
@@ -227,15 +231,16 @@ understanding how a field becomes systematically articulated.
 
 ## 10. Review Status
 
-QA reviewed against the running Sanskrit from the return to rūpa factors
-at [010|07] through the sixfold saṃjñā statement at [010|18]. The next
-line, `caturbhyo 'nye tu saṃskāraskandhaḥ`, opens 1.15; the research
-report's overlapping saṃskāra argument remains reserved for that study.
-The review confirms ten separate material factors in each arrangement,
-vedanā's three tones and six contact-born groups, and saṃjñā's distinct
-mark-grasping operation with six groups as with vedanā.
+Reviewed against the current Kārikā study and local IAST from the return to
+rūpa factors at `[010|07]` through the sixfold saṃjñā statement at
+`[010|18]`. The next line, `caturbhyo 'nye tu saṃskāraskandhaḥ`, opens 1.15;
+the research report's overlapping saṃskāra argument remains reserved for
+that study. The review preserves ten separate material factors in each
+arrangement, vedanā's three tones and six contact-born groups, and saṃjñā's
+distinct mark-grasping operation with six groups as with vedanā.
 
-The running-source defects, the provisional friend/enemy repair, and the
-compressed `yāvan` construction are recorded. The ten material factors are
-kept distinct from the entire rūpa aggregate. Original research files and
-the Part One reading artifact are preserved.
+Section 2 records the local text's transcription defects, provisional
+friend/enemy repair, and compressed `yāvan` construction. The ten material
+factors remain distinct from the entire rūpa aggregate. No independent
+collation against the printed editions is claimed; the original research
+files and Part One reading artifact are preserved.

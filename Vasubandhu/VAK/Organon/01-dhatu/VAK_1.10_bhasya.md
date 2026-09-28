@@ -161,18 +161,26 @@ are simultaneously presented.
 >
 > uktāḥ pañcendriyārthāḥ yathā ca teṣāṃ grahaṇaṃ /
 
-The natural unit runs from `tatra tāvat` at printed location 006.07 through
-`uktāḥ pañcendriyārthāḥ yathā ca teṣāṃ grahaṇam` at 007.27–28. The
-preceding announcement that the five objects are to be explained is retained
-at the close of 1.09. The following announcement of avijñapti opens 1.11.
+The natural unit runs from `tatra tāvat` at source marker `[006|07]` through
+`uktāḥ pañcendriyārthāḥ yathā ca teṣāṃ grahaṇam` at `[007|27]`–`[007|28]`.
+The preceding announcement that the five objects are to be explained is
+retained at the close of 1.09. The following announcement of avijñapti opens
+1.11.
 
-The reading text follows the running Sanskrit, retaining its compound word
+This transcription follows the local IAST, retaining its compound word
 joining while removing page apparatus and normalizing evident transcription
-errors. These include `samsthāna`, `dīrghadi`, `vimśati`, `maṇīnaṃ`,
-`nīlapītalohitavadāta`, `nīlādīnaṃ`, `mahābhuta`, `vijñaptiṣabda`,
-`yathaikau`, `ṣoḍha`, `titta`, `ātmadkam`, `vakṣyāmḥ`, `sasntateḥ`, and
-`pañācendriya`. The damaged separator in `viṣama sthānaml` is read as
-`viṣamasthānam /`. Such repairs are editorial, not independent readings.
+errors. Working normalizations are: `samsthāna` -> `saṃsthāna`,
+`dīrghadi` -> `dīrghādi`, `vimśati` -> `viṃśati`, `maṇīnaṃ` -> `maṇīnāṃ`,
+`nīlapītalohitavadāta` -> `nīlapītalohitāvadāta`, `nīlādīnaṃ` ->
+`nīlādīnāṃ`, `mahābhuta` -> `mahābhūta`, `vijñaptiṣabda` ->
+`vijñaptiśabda`, `yathaikau` -> `yathaiko`, `ṣoḍha` -> `ṣoḍhā`,
+`titta` -> `tikta`, `ātmadkam` -> `ātmakaṃ`, `vakṣyāmḥ` -> `vakṣyāmaḥ`,
+`sasntateḥ` -> `santateḥ`, and `pañācendriya` -> `pañcendriya`. The
+damaged separator `viṣama sthānaml` is read as `viṣamasthānam /`. These are
+editorial normalizations, not independently verified readings. The local
+IAST identifies itself as a corrected best
+reading based especially on Pradhan and also on Shastri; its original e-text
+provenance is unknown, and it is not a critical edition.
 
 Two places require particular caution. The damaged
 `ghādīnāṃ pradeṣaḥ kāyavijñaptisvabhāvaḥ` is retained in the Sanskrit;
@@ -181,8 +189,9 @@ configurations]” provisionally from the surrounding classification. The
 source's `bhoktukāmatāvarjitatvāt` is construed as
 `bhoktukāmatā-āvarjitatvāt`, being inclined by the desire to eat, with
 `santateḥ` as its genitive subject. The precise wording of the first passage
-remains unresolved. The local HTML transcription repeats these source forms
-and supplies no independent correction.
+remains unresolved. The local HTML transcription repeats these forms and
+supplies no independent correction. No independent collation against the
+printed editions has been made here.
 
 ## 3. Continuous Conventional Translation
 
@@ -518,15 +527,15 @@ within saṃvṛti can proceed.
 
 ## 12. Review Status
 
-QA reviewed against the running Sanskrit from `tatra tāvat` at [006|07]
-through the commentary's closure concerning the five objects and their
-apprehension at [007|27–28]. The following announcement of avijñapti
-belongs to 1.11. The review confirms the alternative counts, the local
-scope of the knowing/existing clarification, the unanswered
-bodily-manifestation objection, and the sense-base level of own-character.
-Both research witnesses have been consulted; the local HTML repeats the
-damaged configuration passage and is not treated as independent
-confirmation.
+Reviewed against the current Kārikā study and local IAST text from `tatra
+tāvat` at `[006|07]` through the commentary's closure concerning the five
+objects and their apprehension at `[007|27]`–`[007|28]`. The following
+announcement of avijñapti belongs to 1.11. The review preserves the
+alternative counts, the local scope of the knowing/existing clarification,
+the unanswered bodily-manifestation objection, and the sense-base level of
+own-character. The local HTML repeats the damaged configuration passage and
+is not treated as independent confirmation. No independent collation against
+the printed editions is claimed; both local research files remain preserved.
 
 Open philological points are the damaged configuration-only example, the
 precise contrast of `vṛtta` and `parimaṇḍala`, and the technical force of

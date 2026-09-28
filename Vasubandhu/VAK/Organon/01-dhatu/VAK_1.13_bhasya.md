@@ -6,11 +6,11 @@
 >
 > āpas tejaś ca vāyus tu dhātur eva tathāpi ca // 1.13 //
 
-> By worldly designation, color and configuration are called earth; so too
-> water and fire. Wind, however, is the dhātu itself, yet is also designated
-> in that way.
+> By worldly designation, color and configuration are called “earth”; so
+> too for water and fire. Wind, however, is the Domain itself, yet it too
+> receives that worldly designation.
 
-The Bhāṣya distinguishes worldly elemental names from the dhātus defined
+The Bhāṣya distinguishes worldly names from the Domains defined
 in 1.12, preserving wind's special case. It then asks why the entire series
 ending in avijñapti is called the rūpa aggregate and tests the proposed
 definition against atoms, past and future form, and avijñapti.
@@ -105,32 +105,35 @@ definition against atoms, past and future form, and avijñapti.
 >
 > tasmādasamānaḥ prasaṅgaḥ ityata upapannametadāśrayarūpaṇādrūpamiti /
 
-The unit runs from the question at printed location 008.26 through the
-final differentiated-support reply at 010.05–06. The following return to
-the constituents of the rūpa aggregate opens the next classificatory unit.
-The Sanskrit follows the running source with editorial punctuation and
-repairs to evident transcription errors.
+The unit runs from the question at source marker `[008|26]` through the
+final differentiated-support reply at `[010|05]`–`[010|06]`. The following
+return to the constituents of the rūpa aggregate opens the next
+classificatory unit.
 
-The source forms `vāyuar`, `tathapi`, `tatha`, `rupyate`/`rupyata`,
+The local IAST has `vāyuar`, `tathapi`, `tatha`, `rupyate`/`rupyata`,
 `rūpopādānasdandha`, `badhanā`, `sañghātastha`, `āśrtya`,
-`utpattinimikta`, and `kaṣcid` have been normalized. The damaged
-`avijña ptyāśayeṣu` is read as `avijñaptyāśrayeṣu`, following the support
-relation in the surrounding argument. The misplaced sentence break between
-`āśritā` and `yujyate` is removed. These are marked editorial repairs,
-not claims to a critical reconstruction.
+`utpattinimikta`, `kaṣcid`, and `avijña ptyāśayeṣu`. This transcription
+normalizes them as `vāyuḥ`, `tathāpi`, `tathā`, `rūpyate`/`rūpyata`,
+`rūpopādānaskandha`, `bādhanā`, `saṃghātastha`, `āśritya`,
+`utpattinimitta`, `kaścid`, and `avijñaptyāśrayeṣu`. The misplaced sentence
+break between `āśritā` and `yujyate` is removed. These are working
+normalizations, not critical readings. The local IAST is an edited best
+reading based especially on Pradhan and also on Shastri; its original e-text
+provenance is unknown, and it is not a critical edition. No independent
+collation against the printed editions is claimed.
 
 ## 3. Continuous Conventional Translation
 
-> What, then, is the difference between earth and the rest and the
-> earth-dhātu and the rest? By worldly designation, color and configuration
-> are called earth. For when people point out earth, they point out color
-> and configuration. As with earth, so also with water and fire: color and
-> configuration alone are called by those names in worldly designation.
+> What, then, distinguishes the common names “earth” and the like from the
+> Earth-Domain and the other Domains? By worldly designation, color and
+> configuration are called “earth.” For when people point out earth, they
+> point out color and configuration. As with earth, so also with water and
+> fire: color and configuration alone are called by those worldly names.
 >
-> Wind, however, is the dhātu itself. The very wind-dhātu is what is called
-> wind in the world. Yet it is also designated in that way. Just as color
-> and configuration are called earth by worldly designation, so also wind:
-> “a blue windstorm,” “a circular windstorm.”
+> Wind, however, is the Domain itself. The very Wind-Domain is what is
+> called “wind” in the world. Yet wind is also designated in the same way.
+> Just as color and configuration are called “earth” by worldly designation,
+> so too for wind: “a blue windstorm,” “a circular windstorm.”
 >
 > Why is this series, extending as far as avijñapti, called the aggregate of
 > rūpa? Because of being affected. The Blessed One said: “It is affected,
@@ -154,20 +157,20 @@ not claims to a critical reconstruction.
 > because it does not undergo such modification. Moreover, when manifestation
 > ceased, avijñapti would cease, as a shadow is absent when the tree is absent.
 >
-> Others say: because the elements serving as its support are affected.
+> Others say: because the Elements serving as its support are affected.
 > Then eye-cognition and the rest would also have to be rūpa, because their
 > supports are affected. This comparison is unequal. Avijñapti continues
-> depending upon the elements as a shadow upon a tree or radiance upon a
+> depending upon the Elements as a shadow upon a tree or radiance upon a
 > jewel. Eye-cognition and the rest do not continue depending upon the eye
 > and the other faculties in that way; those faculties are merely conditions
 > for their arising.
 >
 > To begin with, the claim that a shadow continues depending upon a tree and
 > radiance upon a jewel is not Vaibhāṣika, since it is accepted that each
-> color atom of shadow and the rest depends upon its own set of four elements.
+> color atom of shadow and the rest depends upon its own set of four Elements.
 > Even if shadow and radiance did depend upon those things, avijñapti could
 > not reasonably be dependent in just that way. It is accepted that avijñapti
-> does not cease even when the great elements supporting it have ceased.
+> does not cease even when the great Elements supporting it have ceased.
 > Therefore this is not a successful reply.
 >
 > Others offer a reply here: the support of eye-cognition and the rest is
@@ -189,7 +192,7 @@ The second develops through successive tests of the proposed criterion.
 | obstruction by material form | others' explanation |
 | atomic and temporal objections and replies | unassigned dialectical exchange |
 | manifestation and tree-shadow analogy | proposed reply, then rejected |
-| elemental support and cognition objection | others' reply, then a challenge |
+| support by great Elements and cognition objection | others' reply, then a challenge |
 | continuous dependence and jewel-radiance analogy | proposed defense |
 | non-Vaibhāṣika analogy and ceased supports | explicit criticism of that defense |
 | differentiated supports | another reply attributed to others |
@@ -204,12 +207,12 @@ its presentation as others' reply should remain visible.
 `Lokasaṃjñayā` gives the mode of naming: by worldly designation. The
 explanation appeals to an act of showing. When people point out earth,
 they show color and configuration. Water and fire follow that pattern.
-The dhātus defined in 1.12 by hardness, cohesiveness, and heat are therefore
+The Domains defined in 1.12 by hardness, cohesiveness, and heat are therefore
 distinguished from what is visually indicated under the ordinary names.
 
 The verse's syntax is asymmetric. `Āpas tejaś ca` continues the first
 clause; `vāyus tu` introduces the contrast. The prose's
-`ya eva ... sa eva` identifies the wind-dhātu itself with what the world
+`ya eva ... sa eva` identifies the Wind-Domain itself with what the world
 calls wind. `Tathāpi ca` then extends designation through color and
 configuration to wind as well. The blue and circular windstorms illustrate
 the two visible determinations.
@@ -220,7 +223,7 @@ the anchor above. The worldly name can coincide with a technical
 determination in wind's case while also admitting a visible use.
 
 This is a local account of conventional naming. It supplies no explicit
-classification of each worldly name under saṃvṛti and each dhātu under
+classification of each worldly name under saṃvṛti and each Domain under
 paramārtha. That further relation belongs to philosophical investigation.
 
 ## 6. Rūpa through Being Affected
@@ -345,17 +348,18 @@ material-support analogy.
 
 ## 11. Review Status
 
-QA reviewed against the running Sanskrit from the question at [008|26]
-through the differentiated-support reply at [010|05–06]. The next unit
-begins with the return to rūpa constituents at [010|07]. The review confirms
-the special syntax of wind, the extension of worldly naming to its visible
-appearances, the scriptural derivation of rūpa, the atomic and temporal
-replies, and the full sequence of avijñapti proposals and objections. The
-corrected grouping in the anchor is preserved without editing the research
-kārikā.
+Reviewed against the current Kārikā study and local IAST text from the
+question at `[008|26]` through the differentiated-support reply at
+`[010|05]`–`[010|06]`. The next unit begins with the return to rūpa
+constituents at `[010|07]`. The study preserves the special syntax of wind,
+the extension of worldly naming to its visible appearances, the scriptural
+derivation of rūpa, the atomic and temporal replies, and the full sequence of
+avijñapti proposals and objections. The corrected grouping in the anchor is
+preserved without editing the research Kārikā.
 
-The damaged support phrase is normalized explicitly. Speaker identities
-remain unassigned where the prose supplies only an objection or reply.
-The final defense is preserved as others' reply, while the preceding
-analogies remain rejected on the grounds actually stated. Original research
-files and the Part One reading artifact are preserved.
+The damaged support phrase and source normalizations are recorded in Section
+2. Speaker identities remain unassigned where the prose supplies only an
+objection or reply. The final defense is preserved as others' reply, while
+the preceding analogies remain rejected on the grounds actually stated. No
+independent collation against the printed editions is claimed; the original
+research files and Part One reading artifact are preserved.

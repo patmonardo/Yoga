@@ -46,57 +46,55 @@ treatise through its identification as the *Abhidharmakośa* at `[002|02]`;
 the next question begins a new unit. Word division and obvious sandhi have
 been supplied for reading. The running witness has irregular
 `pratyaikabuddha`, `bhūtārthadarśanapratibandhādhakāram`, `tatha hy`, and
-`bhavanntasau`. The reading text supplies `pratyekabuddha`,
-`bhūtārthadarśanapratibandhāndhakāram`, `tathā hy`, and `bhavann asau`
-respectively. The last is a grammatical repair of an uncertain witness form,
-not a reading directly attested there.
+`bhavanntasau`. The local IAST text describes itself as a corrected best
+reading based especially on Pradhan and also on Shastri; its original e-text
+provenance is unknown, and it is not a critical edition. This transcription
+uses the normalized forms `pratyekabuddha`,
+`bhūtārthadarśanapratibandhāndhakāram`, and `tathā hy` for reading. It also
+uses `bhavann asau` as a grammatical repair of `bhavanntasau`. These forms
+have not been independently collated here against the printed editions.
 
 ## 3. Continuous Conventional Translation
 
-> Desiring to compose the treatise, and wishing to make known the greatness
-> of his own Teacher, Vasubandhu begins the homage expressed by the words “he
-> who.” He prefaces that homage with a declaration of the Teacher’s qualities.
+> Wishing to compose a treatise and to make known the greatness of his own
+> teacher, he begins his homage to him, preceded by a declaration of
+> qualities, with the words “he who.”
 >
-> He speaks with reference to the Blessed Buddha. “One whose darkness has
-> been destroyed” may mean one in whom darkness has been destroyed, or one by
-> whom darkness has been destroyed. He is “one whose darkness has been
-> destroyed in every way and concerning everything” because darkness has
-> been destroyed in him in every manner and with respect to every object of
-> knowledge. For ignorance is darkness: it obstructs the seeing of things as
-> they really are. In the Blessed Buddha that ignorance has been destroyed
-> absolutely through the attainment of its counteragent, since it has acquired
-> the character of never arising again, in any way, with regard to anything
-> knowable. Therefore he is one whose darkness has been destroyed in every
-> way and concerning everything.
+> With reference to the Blessed Buddha, he says: “His darkness has been
+> destroyed,” or “darkness has been destroyed by him”; hence, “one whose
+> darkness has been destroyed.” He has had darkness destroyed in every way
+> and with respect to everything. For ignorance is the darkness that
+> obstructs the seeing of things as they are. In the Blessed Buddha, that
+> ignorance has been destroyed completely through attainment of its
+> counteragent, because it cannot arise again, in any way, with respect to
+> anything knowable. Therefore he is one whose darkness has been destroyed
+> in every way and with respect to everything.
 >
 > Pratyekabuddhas and śrāvakas, it is true, have darkness destroyed
 > throughout, because afflicted delusion has been completely removed. But
 > their darkness has not been destroyed in every way. They still have
-> non-afflicted ignorance concerning the distinctive qualities of Buddhas,
-> things belonging to extremely distant places and times, and objects in
-> their limitless divisions.
+> non-afflicted ignorance concerning the qualities of Buddhas, things at
+> extremely distant places and times, and objects of limitless variety.
 >
-> Having thus praised the Blessed One for the accomplishment of the practice
-> directed toward his own benefit, Vasubandhu next praises that same Blessed
-> One for the accomplishment of the practice directed toward the benefit of
-> others, saying, “who raised the world from the mire of saṃsāra.” Saṃsāra is
-> like mire because it is a place in which the world becomes stuck and because
-> it is difficult to cross. Moved by compassion for the world submerged there
-> and without protection, the Blessed One raised it up according to the
-> capacities of beings by extending to them the hands of the teaching of the
+> Having praised him through perfection in the practice for his own benefit,
+> he praises that same Blessed One again through perfection in the practice
+> for the benefit of others, saying: “He raised the world from the mire of
+> saṃsāra.” For saṃsāra is like mire because it is a place where the world
+> becomes stuck and because it is difficult to cross. Taking pity on the
+> world submerged there and without protection, the Blessed One raised it up
+> according to its capacities, by giving the hand of instruction in the
 > True Dharma.
 >
-> “Having bowed to him” therefore means having bowed one’s head to the one
-> endowed with these accomplishments of practice for his own benefit and for
-> the benefit of others. He teaches what is real without inversion, and is
-> therefore the teacher according to reality. This expression reveals the
-> means by which he accomplishes the benefit of others. It was by teaching
-> things as they really are that he became the Teacher and raised the world
-> from the mire of saṃsāra, not through the power of supernormal feats or
-> the granting of boons.
+> Thus, “having bowed to him” means having prostrated with one’s head to him
+> who is endowed with such perfection in the practice for his own and others’
+> benefit. “He teaches reality without distortion”; therefore he is the
+> teacher according to reality. By this, the means by which he benefits
+> others is revealed. As teacher, instructing in accordance with reality, he
+> raised the world from the mire of saṃsāra, not through the power of
+> supernormal feats or the granting of boons.
 >
-> What will Vasubandhu do after bowing to him? He says, “I shall proclaim the
-> treatise.” It is called a `śāstra` because it instructs disciples. Which
+> Having bowed to him, what shall I do? “I shall expound a treatise,” he
+> says. It is called a `śāstra` because it instructs disciples. What
 > treatise? He says: the *Abhidharmakośa*.
 
 ## 4. Movement of the Commentary
@@ -175,9 +173,9 @@ raising the world from saṃsāra
     → accomplishment directed toward the benefit of others
 ```
 
-The first supplies the non-inverted knowing exercised in the second. The
-second is neither an external gift of liberation nor an exercise of power
-upon passive beings. The means is specified as instruction:
+The Bhāṣya first praises the Buddha's own benefit through the destruction of
+ignorance, then his benefit to others through raising the world from saṃsāra.
+It specifies instruction as the means:
 
 ```text
 benefit of others

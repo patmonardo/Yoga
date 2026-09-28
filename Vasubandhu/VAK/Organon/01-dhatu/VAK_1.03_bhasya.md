@@ -36,30 +36,35 @@ The explanatory unit runs from the questions about the purpose and first
 teacher of Abhidharma at `[002|18]` through the Vaibhāṣika attribution at
 `[003|04]`. The final question at `[003|05]` introduces VAK 1.04 and is
 included here as a transition; its answer belongs to the next unit. Word
-division and some repairs have been supplied for reading. The running
-witness has irregular `yaṭa`, `saṃsāramahārṇeve 'sminan`, and `śāstrā` in
-both the verse and the subsequent prose. The reading text supplies `yata`,
-`saṃsāramahārṇave 'smin`, and conjectural `śāstraṃ` in that prose. It also
-divides the compressed sequence around `sthāpito bhadanta` provisionally.
-These repairs are not a critical edition.
+division and some repairs have been supplied for reading. The local IAST text
+reads `yaṭa`, `saṃsāramahārṇeve 'sminan`, and `śāstrā` in both the verse and
+the subsequent prose. This transcription normalizes the first two as `yata`
+and `saṃsāramahārṇave 'smin`, and conjecturally reads `śāstraṃ` in the prose.
+It also segments the compressed sequence as
+`sthāpito bhadantadharmatrātodānavargīyakaraṇavad`, while the compound
+boundaries there remain uncertain. These working readings have not been
+independently collated against the printed editions. The conjectural verse
+ending `śāstraḥ` remains as displayed in the current Kārikā study; it is not
+established by the local IAST text.
 
 ## 3. Continuous Conventional Translation
 
-> But for what purpose is Abhidharma taught? By whom was it first taught, such
-> that the master undertakes to expound the *Abhidharmakośa*? He answers:
+> Why, then, is instruction in Abhidharma given, and by whom was it first
+> taught, that the teacher undertakes to expound the *Abhidharmakośa*? He
+> answers:
 > without discrimination of dharmas there is no means for pacifying the
 > afflictions, and the afflictions cause the world to wander in this great
-> ocean of saṃsāra. Therefore, for that reason, Abhidharma is said to have
-> been taught as a treatise by the Buddha for the sake of this discrimination
-> of dharmas. For without instruction in Abhidharma, a disciple is not capable
-> of discriminating the dharmas.
+> ocean of saṃsāra. For that reason, Abhidharma is said to have been taught
+> by the Buddha as a treatise for the sake of this discrimination of dharmas.
+> For without instruction in Abhidharma, a disciple cannot discriminate the
+> dharmas.
 >
 > The Vaibhāṣikas say that it was taught in dispersed form by the Blessed One
 > and was then collected and established by the venerable Kātyāyanīputra and
 > others, just as the venerable Dharmatrāta compiled the *Udānavarga*.
 >
 > But which are those dharmas for whose discrimination Abhidharma instruction
-> is given? He states them next.
+> is given? He says:
 
 ## 4. Movement of the Commentary
 
@@ -221,9 +226,10 @@ disciple's need for instruction, and the Vaibhāṣika account of compilation.
 
 ## 9. Review Status
 
-QA reviewed against the local Kārikā and Bhāṣya witnesses and the running
-Sanskrit source, `[002|18]`–`[003|05]`. The study concentrates on the
-necessity of dharma-discrimination, the disciple's need for instruction, and
-the explicitly attributed Vaibhāṣika compilation account. The uncertain
-verse ending and prose repairs remain visible in Sections 1–2. The study
-remains provisional pending further textual review.
+Reviewed against the current Kārikā study and the local IAST text at
+`[002|18]`–`[003|05]`. The study concentrates on the necessity of
+dharma-discrimination, the disciple's need for instruction, and the explicitly
+attributed Vaibhāṣika compilation account. Section 2 records the working
+prose normalizations, the uncertain compound segmentation, and the
+conjectural verse ending. No independent collation against the printed
+editions is claimed; the study remains provisional.

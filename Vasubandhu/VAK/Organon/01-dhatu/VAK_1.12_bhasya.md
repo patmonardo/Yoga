@@ -35,19 +35,22 @@ wind agrees with cited descriptions.
 > uktaṃ prakaraṇeṣu / ato ya īraṇāsvabhāvo dharmaḥ sa vāyur iti karmaṇā
 > 'sya svabhāvo 'bhivyaktaḥ /
 
-The natural unit runs from the question about the elements at printed
-location 008.11 through the explanation of wind's nature at 008.24–25.
+The natural unit runs from the question about the elements at source marker
+`[008|11]` through the explanation of wind's nature at `[008|24]`–`[008|25]`.
 The following question about the difference between ordinary earth and the
 earth-dhātu introduces 1.13 and is reserved for that study.
 
-Word division and punctuation are editorial. The running source's
-`mahāsṇniveśatvāt`, `te punahete`, `saṃsidhāḥ`, `kharasnehosṇateraṇāḥ`,
-`prakāraṇeṣu`, and `karṃaṇā` are normalized respectively to
-`mahāsaṃniveśatvāt`, `te punar ete`, `saṃsiddhāḥ`,
+Word division and punctuation are editorial. The local IAST reads
+`mahāsṇniveśatvāt`, `te punahete`, `saṃsidhāḥ`,
+`kharasnehosṇateraṇāḥ`, `prakāraṇeṣu`, and `karṃaṇā`; this transcription
+normalizes them as `mahāsaṃniveśatvāt`, `te punar ete`, `saṃsiddhāḥ`,
 `kharasnehoṣṇateraṇāḥ`, `prakaraṇeṣu`, and `karmaṇā`. The local research
-report supports these repairs; they are not presented as independently
-established critical readings. The compound `tadudbhūtavṛttiṣu` and the
-quoted `laghusamudīraṇatvam` require interpretive care, discussed below.
+report supports these working readings, but they have not been independently
+verified against the printed editions. The compound `tadudbhūtavṛttiṣu` and
+the quoted `laghusamudīraṇatvam` require interpretive care, discussed below.
+The local IAST is an edited best reading based especially on Pradhan and also
+on Shastri; its original e-text provenance is unknown, and it is not a
+critical edition.
 
 ## 3. Continuous Conventional Translation
 
@@ -254,16 +257,16 @@ without treating all forms of disclosure as the same operation.
 
 ## 10. Review Status
 
-QA reviewed against the running Sanskrit from the question about the great
-elements at [008|11] through the explanation of wind at [008|24–25]. The
-following question about conventional earth and the earth-dhātu opens 1.13.
-The review confirms the explanation of `dhātu` through sustaining, the two
-accounts of greatness, the separate fourfold lists of function and
-own-nature, and the distinction between wind's impulsion and derived
-lightness. The continuous Sanskrit and translation preserve the natural
-unit.
+Reviewed against the current Kārikā study and local IAST text from the
+question about the great elements at `[008|11]` through the explanation of
+wind at `[008|24]`–`[008|25]`. The following question about conventional earth
+and the earth-dhātu opens 1.13. The study preserves the explanation of
+`dhātu` through sustaining, the two accounts of greatness, the separate
+fourfold lists of function and own-nature, and the distinction between wind's
+impulsion and derived lightness.
 
-The readings of `tadudbhūtavṛttiṣu`, `laghusamudīraṇatvam`, and the English
-nuance of `sneha` remain marked for review. The question concerning
-conventional elemental names is reserved for 1.13. Original research files
-and the Part One reading artifact are preserved.
+Section 2 records the working normalizations. The readings of
+`tadudbhūtavṛttiṣu`, `laghusamudīraṇatvam`, and the English nuance of `sneha`
+remain open. No independent collation against the printed editions is
+claimed. The original research files and the Part One reading artifact are
+preserved.

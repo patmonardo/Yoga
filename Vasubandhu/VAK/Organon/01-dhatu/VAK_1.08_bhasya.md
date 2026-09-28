@@ -33,22 +33,25 @@ the remaining names from distinct functions of this same field.
 This unit runs from the return to the conditioned dharmas at `[005|08]`
 through the conclusion that these are meaningfully derived designations of
 sāsrava dharmas at `[005|20]`. The next question at `[005|21]` begins 1.09.
-Word division and editorial repairs have been supplied for reading. The
-running witness has `lakṣyata iti lokaḥ`; the local research study instead
-has `lupyata`. The reading text uses `lujyata`, found in Yaśomitra's
-[commentary on I.8](https://textgridrep.de/browse/49p10.0), where it is
-explained as breaking down. This is an editorial choice supported by a
-parallel commentary, not the local running witness's reading. Other damaged
-forms include `truṇatupāgnivat`, `taddhidheyatvād`, `raṇsā`,
-`stadanuśayitatvāt`, and the closing `sāsravāṇasaṃ` and
-`ānvarthaparyāyāḥ`. They are provisionally read here as
-`tṛṇatuṣāgnivat`, `tadvidheyatvād`, `raṇā`, `tadanuśayitatvāt`,
-`sāsravāṇāṃ`, and `anvarthaparyāyāḥ`.
+Word division and editorial normalizations have been supplied for reading.
+The local IAST text reads `lakṣyata iti lokaḥ`; the earlier research study
+has `lupyata`. This transcription adopts `lujyata` on the support of
+Yaśomitra's [commentary on I.8](https://textgridrep.de/browse/49p10.0), where
+it is explained as breaking down. This is an editorial choice supported by a
+parallel commentary, not a reading attested in the local IAST text. Other
+local forms include `truṇatupāgnivat`, `taddhidheyatvād`, `raṇsā`,
+`stadanuśayitatvāt`, `sāsravāṇasaṃ`, and `ānvarthaparyāyāḥ`; this
+transcription normalizes them as `tṛṇatuṣāgnivat`, `tadvidheyatvād`, `raṇā`,
+`tadanuśayitatvāt`, `sāsravāṇāṃ`, and `anvarthaparyāyāḥ`. The local IAST is
+an edited best reading based especially on Pradhan and also on Shastri; its
+original e-text provenance is unknown, and it is not a critical edition.
+These normalizations have not been independently checked against the printed
+editions.
 
 ## 3. Continuous Conventional Translation
 
-> Those very same conditioned dharmas are again under consideration. Those
-> aggregates that are with outflows are the aggregates of appropriation. What
+> Again, these are the same conditioned dharmas. Those with outflows are the
+> aggregates of appropriation. What
 > follows from this? Whatever are aggregates of appropriation are also
 > aggregates, but not every aggregate is an aggregate of appropriation, for
 > there are conditioned formations without outflows.
@@ -70,8 +73,7 @@ forms include `truṇatupāgnivat`, `taddhidheyatvād`, `raṇsā`,
 > They are origin because suffering arises from them. They are world because
 > they dissolve. They are the station of views because views stand within
 > them by lying latent there. They are becoming because they come to be.
-> These are designations of the dharmas with outflows whose expressions
-> correspond to their meanings.
+> These are names for the dharmas with outflows, each fitting its meaning.
 
 ## 4. Movement of the Commentary
 
@@ -189,9 +191,10 @@ attributed to Vasubandhu.
 
 ## 9. Review Status
 
-QA reviewed against the local Kārikā and Bhāṣya witnesses and the running
-Sanskrit source, `[005|08]`–`[005|20]`. The study preserves the three
-relations between appropriation and the aggregates and the distinct grounds
-for the names of the sāsrava field. The witness's `lakṣyata`, the selected
-`lujyata`, and other repairs remain explicit in Section 2. The study is
-provisional pending further textual review.
+Reviewed against the current Kārikā study and the local IAST text at
+`[005|08]`–`[005|20]`. The study preserves the three relations between
+appropriation and the aggregates and the distinct grounds for the names of
+the sāsrava field. Section 2 distinguishes the local `lakṣyata`, the
+parallel-supported editorial choice `lujyata`, and other working
+normalizations. No independent collation against the printed editions is
+claimed; the study remains provisional.

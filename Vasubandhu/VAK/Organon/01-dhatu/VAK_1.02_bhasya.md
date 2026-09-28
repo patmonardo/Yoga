@@ -38,41 +38,41 @@ remain distinct.
 This is the natural unit from the question “What is Abhidharma?” at `[002|02]`
 through the two explanations of the title at `[002|17]`. The next question,
 at `[002|18]`, opens the unit for 1.03. Word division and evident sandhi
-resolution have been supplied for reading. The running witness has
-`sa cāśrayo syety` in the verse citation and ends with the irregular
-`abhidharvarmakośam`. The reading text supplies `sa cāśrayo 'syety` and
-the contextually secure `abhidharmakośam`; neither repair is directly
-attested in those places of the running witness.
+resolution have been supplied for reading. The local running text has
+`sa cāśrayo syety` in the verse citation and ends with `abhidharvarmakośam`.
+This transcription normalizes these as `sa cāśrayo 'syety` and
+`abhidharmakośam` for reading. The local IAST text describes itself as an
+edited best reading based especially on Pradhan and also on Shastri; its
+original e-text provenance is unknown, and it is not a critical edition.
+These normalizations have not been independently collated here against the
+printed editions.
 
 ## 3. Continuous Conventional Translation
 
-> What is this that is called Abhidharma? Stainless prajñā together with its
-> attendants is Abhidharma. Here prajñā is the discrimination of dharmas.
-> “Stainless” means without outflows. “With attendants” means together with
-> its retinue. Thus Abhidharma is said to be an outflow-free complex of the
-> five aggregates. This, to begin with, is Abhidharma in the ultimate sense.
+> What is called Abhidharma? Stainless prajñā together with its attendants
+> is Abhidharma. Here, prajñā is the discrimination of dharmas. “Stainless”
+> means without outflows; “with attendants” means accompanied by its retinue.
+> Thus Abhidharma is an outflow-free complex comprising the five aggregates.
+> This is, first of all, Abhidharma in the ultimate sense.
 >
-> Abhidharma in the conventional sense, however, is the prajñā that is for
-> the attainment of that, and the treatise that is for its attainment. This
-> is the prajñā with outflows constituted through learning, reflection, and
-> cultivation, as well as the prajñā acquired by birth, together with their
-> attendants. The treatise for the attainment of that outflow-free prajñā is
-> also called Abhidharma because it serves as equipment for it.
+> In the conventional sense, Abhidharma also includes what is directed
+> toward attaining that stainless prajñā: prajñā with outflows, formed
+> through hearing, reflection, and cultivation, as well as prajñā acquired
+> by birth, each with its attendants; and the treatise intended to attain
+> that outflow-free prajñā. The treatise too is called Abhidharma because it
+> is part of the equipment for that attainment.
 >
-> As for the derivation: a dharma is so called because it bears its own
-> characteristic. This dharma, directed either toward the ultimate dharma,
-> nirvāṇa, or toward the characteristics of dharmas, is therefore called
-> Abhidharma.
+> As for the derivation, dharma is so called because it bears its own
+> characteristic. Abhidharma is dharma directed either toward the ultimate
+> dharma, nirvāṇa, or toward the characteristics of dharmas.
 >
-> Abhidharma has been explained. But how is this treatise an
-> *Abhidharmakośa*? Because that Abhidharma enters this treatise through its
-> meaning, and because it is its support, it is called the
-> *Abhidharmakośa*. For the Abhidharma designated as treatise is included in
-> this work through its meaning, according to what is principal. This treatise
-> therefore occupies the place of a treasury for it. Alternatively, that
-> Abhidharma is the supporting basis of this treatise, for this treatise has
-> been drawn out from it. Therefore that Abhidharma itself is the treasury of
-> this treatise, and this treatise is called the *Abhidharmakośa*.
+> Abhidharma has been explained. How, then, is this treatise an
+> *Abhidharmakośa*? It is so called because the meaning of Abhidharma is
+> included in this treatise. The Abhidharma designated as a treatise is
+> included here according to what is principal; hence this work serves as its
+> treasury. Alternatively, Abhidharma is the support of this treatise, for
+> this treatise has been drawn from it. Thus Abhidharma itself is the treasury
+> of this treatise, which is called the *Abhidharmakośa*.
 
 ## 4. Movement of the Commentary
 
@@ -272,10 +272,10 @@ conventional Abhidharma, prajñā, śāstra, and the two derivations of `kośa`.
 
 ## 12. Review Status
 
-QA reviewed against the local Kārikā and Bhāṣya witnesses and the running
-Sanskrit source, `[002|02]`–`[002|17]`. The ultimate/conventional distinction,
-four forms of prajñā, `saṃbhāra` relation, etymologies of `dharma` and
-`abhidharma`, and both derivations of `kośa` remain distinct. The running
-source's irregular `abhidharvarmakośam` and the reading-text repairs are
-recorded in Section 2. The study remains provisional pending further textual
-review.
+Reviewed against the current Kārikā study and the local IAST text at
+`[002|02]`–`[002|17]`. The ultimate/conventional distinction, four forms of
+prajñā, `saṃbhāra` relation, etymologies of `dharma` and `abhidharma`, and both
+derivations of `kośa` remain distinct. Section 2 records the local text's
+irregular title form and the working normalizations used here. No independent
+collation against the printed editions is claimed; the study remains
+provisional.

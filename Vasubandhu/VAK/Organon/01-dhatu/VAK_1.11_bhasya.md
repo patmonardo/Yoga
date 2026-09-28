@@ -36,15 +36,18 @@ location 007.29 and ends with the summary at 008.09–10. The preceding
 closure concerning the five sensory objects belongs to 1.10. The following
 question, asking which great elements have been mentioned, opens 1.12.
 
-Word division and punctuation have been supplied for reading. The running
-source's `anubaṇdhaḥ` and separated `anu bandha` are normalized to
-`anubandhaḥ` and `anubandha`; a broken page marker before `ucyata iti` is
-removed. The research kārikā's Devanāgarī first line reads
-`vikṣiptacittakasyāpi`, while its IAST and the running verse read
-`vikṣiptācittakasyāpi`. The latter is followed here: the Bhāṣya separately
-explains both distracted and mindless cases. The original witnesses are
-preserved, and this is a normalized reading text rather than a critical
-edition.
+Word division and punctuation have been supplied for reading. The local IAST
+has `anubaṇdhaḥ` in the verse and separates `anu bandha` in the prose gloss;
+this transcription normalizes them as `anubandhaḥ` and `anubandha`. A broken
+page marker before `ucyata iti` is removed. The earlier research Kārikā's
+Devanāgarī first line reads `vikṣiptacittakasyāpi`; the current Kārikā,
+local IAST, and running verse read `vikṣiptācittakasyāpi`. This transcription
+retains the latter, while recording the variant rather than treating the
+choice as settled. The Bhāṣya separately glosses `vikṣiptacittakasya` (one
+whose mind is different) and `acittakasya api` (one without mind). The local
+IAST is an edited best reading based especially on Pradhan and also on
+Shastri; its original e-text provenance is unknown, and it is not a critical
+edition. No independent collation against the printed editions is claimed.
 
 ## 3. Continuous Conventional Translation
 
@@ -251,17 +254,13 @@ next inquiry into the elements develops the material basis of the account.
 
 ## 10. Review Status
 
-QA reviewed against the running source from the announcement of avijñapti
-at [007|29] through the summary definition at [008|09–10]. The following
-question about the great elements begins 1.12. The review confirms the
-separate distracted and mindless cases, the inclusion of an undistracted
-person with mind, the contrast with acquisition, the explicit Vaibhāṣika
-causal gloss, non-disclosure to another, and the paired origins in the
-Bhāṣya's summary. The continuous Sanskrit and translation retain this
-natural unit.
-
-The differing Devanāgarī verse opening is recorded rather than silently
-repaired in the original. The antecedent in the brief “different mind”
-gloss and the unnamed teacher remain without further specification; later
-causal mechanics and the distribution of origins are not supplied here.
-Original research files and the Part One reading artifact are preserved.
+Reviewed against the current Kārikā study and local IAST text from the
+announcement of avijñapti at `[007|29]` through the summary at
+`[008|09]`–`[008|10]`. The following question about the great elements begins
+1.12. The translation preserves the distracted, mindless, and undistracted
+cases; the contrast with acquisition; the explicitly Vaibhāṣika causal
+gloss; non-disclosure to another; and the paired origins in the Bhāṣya's
+summary. Section 2 records the verse variant and working normalizations.
+Later causal mechanics and the distribution of origins are not supplied
+here. No independent collation against the printed editions is claimed; the
+original research files and Part One reading artifact remain preserved.
