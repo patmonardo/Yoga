@@ -6,7 +6,7 @@ organon_dir="$(cd "$edition_dir/../.." && pwd)"
 output_file="$edition_dir/Organon-Kosa-Marga-Bhasya-Nirdesa-Part-One.pdf"
 
 sources=()
-for index in $(seq 1 26); do
+for index in $(seq 1 46); do
   number="$(printf '%02d' "$index")"
   source_file="$organon_dir/06-marga/VAK_6.$number"_bhasya.md
   test -f "$source_file"
@@ -21,7 +21,7 @@ pandoc "${sources[@]}" \
   --metadata title="The Organon Kośa: Mārganirdeśa Bhāṣya, Part One" \
   --metadata subtitle="A Continuous Translation and Focused Study" \
   --metadata author="The Organon Project" \
-  --metadata date="Provisional Work in Progress · VAK 6.01–6.26" \
+  --metadata date="Provisional Work in Progress · VAK 6.01–6.46" \
   --variable papersize=letter \
   --variable geometry:margin=0.78in \
   --variable mainfont="FreeSerif" \
