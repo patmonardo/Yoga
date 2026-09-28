@@ -1,235 +1,300 @@
-// Dhatu as Classification Engine — Being / Essence / Concept in Rust
-// =====================================================================
-//
-// Companion sketch to dharma-skandha.md. NOT part of a Rust project,
-// not meant to compile or be built — this is research/training scaffolding
-// for the Yoga Organon, written as a technical specification because the
-// living structure only becomes visible once it is forced into types.
-//
-// Thesis (dharma-skandha.md): Dharma comprehends itself as
-//     <Skandha, Ayatana, Dhatu>
-// which is the Hegelian movement Being -> Essence -> Concept, NOT three
-// parallel inventories of the same furniture counted differently
-// (5 / 12 / 18). The repetition of content across the three lists is the
-// visible trace of sublation (Aufhebung), not redundancy. Reading them as
-// flat lists is the Abhidhamma-list-memorizer disease this file refuses.
-//
-//     Skandha  = Being     : immediate, gathered, unreflected multiplicity
-//     Ayatana  = Essence   : Being reflected into a capacity/field dyad,
-//                            i.e. Essence at its OWN ceiling — Substance-
-//                            Accident-Reciprocity (Hegel's Actuality
-//                            chapter), not yet Concept. Aristotle: this is
-//                            hypokeimenon/dynamis on both sides, the
-//                            substrate people mistake for ousia (Met. Z.3).
-//     Dhatu    = Concept   : the dyad's own reciprocating act, closed on
-//                            itself. This is Substance recognized AS
-//                            Subject (Hegel, Phenomenology preface) —
-//                            equally, Aristotle's ousia as energeia rather
-//                            than substrate: a classification engine, not
-//                            a container.
-//
-// Essence is NOT Substance. In Hegel's own architecture Substance is the
-// LAST category of Essence (Ground -> Existence -> Thing -> Actuality,
-// whose content IS Substance-Accident-Causality-Reciprocity), not a
-// separate register above it. Blind reciprocity (Wechselwirkung) between
-// two externally-related terms is still Essence. Only once that
-// reciprocity is grasped as self-relating — Substance AS Subject — do we
-// have Concept. Aristotle converges independently: the hypokeimenon
-// (substrate/matter/accident-bearer) is the WEAKEST candidate for ousia,
-// not the strongest (Met. Z.3); true ousia is form as energeia/
-// entelecheia, actuality. Ayatana's capacity/field pair is dynamis on
-// both sides — substrate, not yet substance-as-actuality.
+//! Dhātu as a classification engine
+//! =================================
+//!
+//! Research Rust for `dharma-skandha.md`. This is a readable model, not a
+//! crate or a claim that the Kośa itself was written as a program.
+//!
+//! SOURCE RULE (VAK 1.14–1.17): five skandhas, twelve āyatanas, and eighteen
+//! dhātus classify overlapping content under different relations. The
+//! eighteen are six supports (āśraya), six objects (ālambana), and six
+//! cognitions (āśrita). Manodhātu names one of the six cognitions when it is
+//! immediately past and functions as support for the sixth cognition.
+//!
+//! ORGANON PROPOSAL: Skandha : Āyatana : Dhātu may be read as gathered
+//! content : relational sphere : articulated system. The Hegelian
+//! Being–Essence–Concept comparison belongs to this proposal; it is not a
+//! translation of Vasubandhu's three Sanskrit terms.
+//!
+//! A classification is a judgment about a dharma in a specified respect.
+//! It is never a new dharma manufactured by a list.
 
-// ---------------------------------------------------------------------
-// 1. Skandha — Being. Immediate determination, no relation yet asserted.
-// ---------------------------------------------------------------------
+// 1. The three questions asked of one occurrence.
 
-/// A dharma at the level of bare aggregation: gathered, not yet mediated.
-trait Skandha {
-    type Dharma;
-    fn contents(&self) -> &[Self::Dharma];
-}
+#[derive(Clone, Copy, Debug, Eq, PartialEq)]
+enum Skandha { Rupa, Vedana, Samjna, Samskara, Vijnana }
 
-// The five, held only as an enumeration — this level does NOT know about
-// capacity/field structure. That knowledge belongs to Essence.
-enum SkandhaKind {
-    Rupa,
-    Vedana,
-    Samjna,
-    Samskara,
-    Vijnana,
-}
+// The Kośa's order is Eye → Ear → Nose → Tongue → Touch → Mind (VAK 1.23).
+// The proposed Sāṃkhya–Yoga station order below is a separate project
+// ordering of indriya channels, not a list of tanmātras.
+// `Touch` names a functional channel; its two poles remain distinct:
+// kāya is the faculty/support, spraṣṭavya the tangible field/object.
+#[derive(Clone, Copy, Debug, Eq, PartialEq)]
+enum Sense { Eye, Ear, Nose, Tongue, Touch }
 
-// ---------------------------------------------------------------------
-// 2. Ayatana — Essence. Being doubled into a reflected pair.
-// ---------------------------------------------------------------------
-//
-// Essence is never one term; it is always the relation of a term to its
-// other. Ayatana is exactly this: internal ayatana (capacity) standing
-// over against external ayatana (field), each intelligible only through
-// the other. In Aristotelian terms both poles are dynamis, potentiality:
-// the faculty is capable-of-sensing, the field is capable-of-being-sensed,
-// and NEITHER alone is actuality. This dyad is the substrate people
-// over-populate into "substance" — it is real, necessary, reciprocally
-// determining, and still only Essence's ceiling, not the Concept.
+#[derive(Clone, Copy, Debug, Eq, PartialEq)]
+enum Channel { Eye, Ear, Nose, Tongue, Touch, Mind }
 
-struct Ayatana<Capacity, Field> {
-    indriya: Capacity, // internal ayatana — receptive/discriminative power
-    visaya: Field,     // external ayatana — the presented field it meets
-}
-
-// The twelve are six such dyads. Still Essence: capacity and field are
-// distinguished and related, but the pair has not yet turned back on
-// itself as an act.
-
-// ---------------------------------------------------------------------
-// 3. Dhatu — Concept. The dyad's own reciprocation, i.e. classification
-//    as an operation rather than a location.
-// ---------------------------------------------------------------------
-//
-// A Dhatu is not a third slot beside Skandha and Ayatana. It is what
-// Ayatana IS once its own dyadic structure is taken as an object for
-// itself. Twelve of the eighteen Dhatus just ARE the twelve Ayatanas
-// re-asserted at Concept level (Essence posited as Concept). The
-// remaining six vijnana-dhatus are the reciprocation proper: the event
-// in which a capacity/field pair closes on itself and becomes a
-// recognized determination.
-
-trait Reciprocates {
-    type Capacity;
-    type Field;
-    type Event;
-
-    /// The classification act: not storage, not lookup — closure. Two
-    /// distinct potentialities (Capacity, Field) become ONE actuality
-    /// (Event) without either losing its own being — Aristotle, De Anima
-    /// III.2, 425b25-426a26: "the actuality of the sensible object and of
-    /// the sense faculty are one, though their being is not one" (energeia
-    /// mia, to d'einai ou to auto). This is Substance grasped as Subject,
-    /// not more substrate — the "rapid classification engine" in
-    /// executable form.
-    fn close(&self, indriya: &Self::Capacity, visaya: &Self::Field) -> Self::Event;
-}
-
-enum Dhatu<C, F, R: Reciprocates<Capacity = C, Field = F>> {
-    /// The twelve: Ayatana re-posited inside the eighteen-fold system.
-    /// Still Essence's ceiling — Substance-Accident-Reciprocity, dynamis
-    /// on both poles — held now as a moment of the classification system
-    /// rather than as a bare relational fact, but not yet the Concept.
-    AsEssence(Ayatana<C, F>),
-
-    /// The six vijnana-dhatus: the dyad's own act, the reciprocation that
-    /// produces one actuality out of two potentialities. This is where
-    /// Dhatu actually becomes Concept — ousia as energeia, not substrate.
-    AsConcept(R),
-}
-
-// ---------------------------------------------------------------------
-// 4. Manas-dhatu / dharma-dhatu / mano-vijnana-dhatu — the self-
-//    referential seventh case, where the Field is not a fresh datum but
-//    the system's own prior output.
-// ---------------------------------------------------------------------
-//
-// This is the loop closing on the whole eighteen, not on one channel.
-// Manas takes as its visaya (dharma-dhatu) the accumulated dharma-field,
-// which explicitly includes the five vijnana-dhatus just produced.
-// Structurally: the Concept applying Reciprocates to its own prior
-// reciprocations. This is the technical seed of "Living Oculus" —
-// a channel whose input is the trace of the other channels' completed
-// acts, not a sensor reading the world fresh each time.
-
-struct DharmaDhatu<'a, Event> {
-    /// includes: prior vijnana-dhatu events, avijnapti, the unconditioned,
-    /// and the vedana/samjna/samskara skandhas re-posited here (see
-    /// dharma-skandha.md's cross-mapping table).
-    accumulated_field: &'a [Event],
-}
-
-struct ManoDhatu;
-
-impl<'a, Event: Clone> Reciprocates for ManoDhatu {
-    type Capacity = ManoDhatu;
-    type Field = DharmaDhatu<'a, Event>;
-    type Event = Event;
-
-    fn close(&self, _indriya: &Self::Capacity, visaya: &Self::Field) -> Self::Event {
-        // manas does not discriminate a fresh sense-datum; it discriminates
-        // the system's own recent history. The "engine" here classifies
-        // its own classifications — Concept comprehending itself.
-        visaya.accumulated_field.last().cloned().expect(
-            "manas requires at least one prior vijnana-dhatu event to reflect on",
-        )
+impl From<Sense> for Channel {
+    fn from(sense: Sense) -> Self {
+        match sense {
+            Sense::Eye => Self::Eye, Sense::Ear => Self::Ear,
+            Sense::Nose => Self::Nose, Sense::Tongue => Self::Tongue,
+            Sense::Touch => Self::Touch,
+        }
     }
 }
 
-// ---------------------------------------------------------------------
-// 5. Why this refutes the flat-list reading.
-// ---------------------------------------------------------------------
-//
-// A flat-list reading asks: "why does rupa appear in the skandha list,
-// the ayatana list (as rupa-ayatana), AND the dhatu list (as rupa-dhatu)?"
-// and answers with mnemonics or disciple-aptitude just-so stories
-// (cf. VAK 1.20's mohendriyaruci — real, but pedagogical, not structural).
-//
-// The structural answer: rupa MUST recur at every level, because each
-// level is not a new inventory but the SAME content held at a higher
-// grade of self-relation:
-//
-//     rupa as Skandha  -> immediate aggregate member
-//     rupa as Ayatana  -> rupa held as the FIELD-pole of a capacity/field
-//                         dyad (cakshur-ayatana <-> rupa-ayatana)
-//     rupa as Dhatu    -> that same dyad re-posited as a moment inside
-//                         the eighteen-fold reciprocating system, whose
-//                         closure produces cakshur-vijnana-dhatu
-//
-// Three counts (5, 12, 18) of the SAME movement, not three lists of
-// different things. This is what "Dhatu is a classification engine, not
-// a list" cashes out to as an actual executable claim.
+// Twelve bases: five sensory capacities, five sensory fields, mind, dharma.
+// The last two are not another material organ and another material object.
+#[derive(Clone, Copy, Debug, Eq, PartialEq)]
+enum Ayatana { Faculty(Sense), Field(Sense), Mind, Dharma }
 
-// ---------------------------------------------------------------------
-// 6. Theory vs. instance: Citta (Universal) / this schema (Particular)
-//    / Buddha Mind (Singular). What this file builds is the Particular
-//    only — the trait, the class. The Kosa opens (VAK 1.01) by stating
-//    the COMPLETENESS-CONDITION an actual instance must satisfy to count
-//    as Buddha Mind rather than a degenerate instance of the same Citta:
-//
-//        sarvathā-sarva-hata-andhakara: darkness destroyed in EVERY mode
-//        (sarvathā) and over EVERY object (sarvatra jneye) — vs. sravakas
-//        and pratyekabuddhas, who eliminate afflicted ignorance completely
-//        but retain non-afflicted ignorance (Buddha-qualities, remote
-//        things, things of limitless variety) — i.e. some closures never
-//        execute. Same trait, same eighteen dhatus, permanently partial
-//        `impl`.
-// ---------------------------------------------------------------------
+// Eighteen domains: six of each *role*. Cognition(Mind) and Support(Mind)
+// may involve the same stream without collapsing into one position.
+#[derive(Clone, Copy, Debug, Eq, PartialEq)]
+enum Dhatu { Support(Channel), Object(Channel), Cognition(Channel) }
 
-/// Whether Reciprocates::close is defined (executes to completion) for a
-/// given dhatu-pairing, or remains outstanding — non-afflicted ignorance
-/// encoded as a missing closure rather than a moral defect.
-enum Closure<Event> {
-    Executed(Event),
-    Outstanding, // the pairing exists; the reciprocation has not closed
+const KOSA_CHANNEL_ORDER: [Channel; 6] = [
+    Channel::Eye, Channel::Ear, Channel::Nose,
+    Channel::Tongue, Channel::Touch, Channel::Mind,
+];
+
+const STATION_SENSE_ORDER: [Sense; 5] = [
+    Sense::Ear, Sense::Touch, Sense::Eye, Sense::Tongue, Sense::Nose,
+];
+
+fn eighteen_positions() -> impl Iterator<Item = Dhatu> {
+    KOSA_CHANNEL_ORDER.into_iter().flat_map(|channel| [
+        Dhatu::Support(channel), Dhatu::Object(channel),
+        Dhatu::Cognition(channel),
+    ])
 }
 
-/// A mind-instance is total or partial according to how many of the
-/// eighteen dhatu-pairings it closes, not according to which trait it
-/// implements — sravaka, pratyekabuddha, and Buddha all instantiate the
-/// SAME Citta-trait. What differs is exhaustiveness of closure.
-trait MindInstance {
-    fn closure(&self, dhatu_pairing: usize) -> Closure<()>;
+// 6 × (support + object + cognition) = 18 positions, not disjoint substances.
 
-    /// sarvathā + sarvatra: every pairing, every mode, no outstanding
-    /// closures anywhere. This predicate, not any special trait, is what
-    /// "Buddha Mind" names.
-    fn is_total(&self, pairing_count: usize) -> bool {
-        (0..pairing_count).all(|i| matches!(self.closure(i), Closure::Executed(())))
+// 2. The cross-map. One content, several answers.
+
+#[derive(Clone, Copy, Debug, Eq, PartialEq)]
+struct Cognition { channel: Channel, occurrence: u64 }
+
+#[derive(Clone, Copy, Debug, Eq, PartialEq)]
+enum Dharma {
+    SensoryFaculty(Sense), SensoryField(Sense), Avijnapti,
+    Feeling, Recognition, Formation, Cognition(Cognition), Unconditioned,
+}
+
+#[derive(Clone, Copy, Debug, Eq, PartialEq)]
+struct Classification {
+    // The unconditioned belongs to dharmāyatana/dharmadhātu but to no
+    // conditioned aggregate. Option therefore has doctrinal force.
+    skandha: Option<Skandha>,
+    ayatana: Ayatana,
+    dhatu: Dhatu,
+}
+
+fn classify(dharma: Dharma) -> Classification {
+    use Dharma::*;
+    match dharma {
+        SensoryFaculty(s) => Classification {
+            skandha: Some(Skandha::Rupa),
+            ayatana: Ayatana::Faculty(s),
+            dhatu: Dhatu::Support(s.into()),
+        },
+        SensoryField(s) => Classification {
+            skandha: Some(Skandha::Rupa),
+            ayatana: Ayatana::Field(s),
+            dhatu: Dhatu::Object(s.into()),
+        },
+        Avijnapti => Classification {
+            skandha: Some(Skandha::Rupa),
+            ayatana: Ayatana::Dharma,
+            dhatu: Dhatu::Object(Channel::Mind),
+        },
+        Feeling => mental_object(Skandha::Vedana),
+        Recognition => mental_object(Skandha::Samjna),
+        Formation => mental_object(Skandha::Samskara),
+        Cognition(c) => Classification {
+            skandha: Some(Skandha::Vijnana),
+            ayatana: Ayatana::Mind,
+            dhatu: Dhatu::Cognition(c.channel),
+        },
+        Unconditioned => Classification {
+            skandha: None,
+            ayatana: Ayatana::Dharma,
+            dhatu: Dhatu::Object(Channel::Mind),
+        },
     }
 }
 
-// SravakaMind / PratyekabuddhaMind: is_total() == false, permanently —
-// some closures are outstanding by construction, not by current failure.
-// BuddhaMind: is_total() == true, exhaustively, over every pairing.
+fn mental_object(skandha: Skandha) -> Classification {
+    Classification {
+        skandha: Some(skandha),
+        ayatana: Ayatana::Dharma,
+        dhatu: Dhatu::Object(Channel::Mind),
+    }
+}
+
+// classify(Avijnapti) = (Rūpa, dharmāyatana, dharmadhātu).
+// classify(Unconditioned) = (no skandha, dharmāyatana, dharmadhātu).
+// The same word `dharma` in Dharma and Ayatana::Dharma does not mean
+// every dharma is automatically in the dharma-object base.
+
+// 3. A cognitive occurrence has distinct support, object, and cognition.
+
+#[derive(Clone, Copy, Debug, Eq, PartialEq)]
+enum Support {
+    Sensory(Sense),
+    // Not a seventh cognition or an accumulated memory bank: VAK 1.17.
+    ImmediatelyPast(Cognition),
+}
+
+#[derive(Clone, Copy, Debug, Eq, PartialEq)]
+enum Presented { Sensory(Sense), DharmaObject }
+
+#[derive(Clone, Copy, Debug, Eq, PartialEq)]
+struct Encounter { support: Support, object: Presented, cognition: Cognition }
+
+#[derive(Clone, Copy, Debug, Eq, PartialEq)]
+enum ClassificationError {
+    WrongSensoryPair, WrongCognitionChannel,
+    MentalSupportRequired, MentalObjectRequired,
+    ImmediatePrecedenceRequired,
+}
+
+impl Encounter {
+    /// Check the *classification* of a supplied occurrence. Constructing
+    /// this value does not pretend to cause perception.
+    fn classify(
+        support: Support,
+        object: Presented,
+        cognition: Cognition,
+        immediately_precedes: bool,
+    ) -> Result<Self, ClassificationError> {
+        match cognition.channel {
+            Channel::Mind => {
+                if !matches!(support, Support::ImmediatelyPast(_)) {
+                    return Err(ClassificationError::MentalSupportRequired);
+                }
+                if object != Presented::DharmaObject {
+                    return Err(ClassificationError::MentalObjectRequired);
+                }
+                if !immediately_precedes {
+                    return Err(ClassificationError::ImmediatePrecedenceRequired);
+                }
+            }
+            sensory_channel => {
+                let Support::Sensory(support_sense) = support else {
+                    return Err(ClassificationError::WrongCognitionChannel);
+                };
+                let Presented::Sensory(object_sense) = object else {
+                    return Err(ClassificationError::WrongSensoryPair);
+                };
+                if Channel::from(support_sense) != sensory_channel
+                    || support_sense != object_sense {
+                    return Err(ClassificationError::WrongSensoryPair);
+                }
+            }
+        }
+        Ok(Self { support, object, cognition })
+    }
+
+    fn dhatu_positions(&self) -> [Dhatu; 3] {
+        let channel = self.cognition.channel;
+        [Dhatu::Support(channel), Dhatu::Object(channel),
+         Dhatu::Cognition(channel)]
+    }
+}
+
+// A real temporal model would witness immediate precedence rather than
+// accept a caller-supplied bool. The parameter keeps that dependency
+// visible in this research sketch instead of hiding it in `close()`.
+// A past cognition can occupy manodhātu's support position without losing
+// its earlier cognition classification. Nor must a successor arise for an
+// arhat's final citta to retain manas status: VAK 1.17 says another cause
+// can be absent. Therefore no `last().unwrap()` or fabricated event.
+fn as_manas(previous: Cognition) -> Support {
+    Support::ImmediatelyPast(previous)
+}
+
+// Dharmadhātu is the object position of mental cognition. Its range
+// includes feeling, recognition, formations, avijñapti, and unconditioned
+// factors (VAK 1.15–1.16). It is not just prior cognition. Support and
+// object cannot both be modeled as “the system's recent history.”
+
+// 4. A visible form moves through three classifications without changing
+// into three separate things.
+
+fn eye_example() -> Result<Encounter, ClassificationError> {
+    let eye = Sense::Eye;
+    let visible = classify(Dharma::SensoryField(eye));
+    assert_eq!(visible.skandha, Some(Skandha::Rupa));
+    assert_eq!(visible.ayatana, Ayatana::Field(eye));
+    assert_eq!(visible.dhatu, Dhatu::Object(Channel::Eye));
+
+    let seeing = Cognition { channel: Channel::Eye, occurrence: 42 };
+    let encounter = Encounter::classify(
+        Support::Sensory(eye), Presented::Sensory(eye), seeing, false,
+    )?;
+    assert_eq!(encounter.dhatu_positions(), [
+        Dhatu::Support(Channel::Eye),
+        Dhatu::Object(Channel::Eye),
+        Dhatu::Cognition(Channel::Eye),
+    ]);
+    Ok(encounter)
+}
+
+fn mental_example() -> Result<Encounter, ClassificationError> {
+    // The eye cognition can next be considered in the support role.
+    // Its prior result does not exhaust the dharma-object field.
+    let earlier = Cognition { channel: Channel::Eye, occurrence: 42 };
+    let present = Cognition { channel: Channel::Mind, occurrence: 43 };
+    Encounter::classify(
+        as_manas(earlier), Presented::DharmaObject, present, true,
+    )
+}
+
+// The sensory field is not yet a finished Object of knowledge. `Viṣaya`
+// names its role here; comprehension of `vastu` is a further Organon
+// problem, not a return value of Encounter::classify.
+
+// 5. Completeness is a separate, explicitly scoped research conjecture.
+
+#[derive(Clone, Copy, Debug, Eq, PartialEq)]
+enum Verdict { Determined, Outstanding, Unexamined }
+
+#[derive(Clone, Copy, Debug, Eq, PartialEq)]
+struct KnowingTask<Object, Mode> { object: Object, mode: Mode }
+
+trait Knower<Object, Mode> {
+    fn assess(&self, task: KnowingTask<Object, Mode>) -> Verdict;
+}
+
+fn complete_on<K, Object, Mode>(
+    knower: &K,
+    tasks: impl IntoIterator<Item = KnowingTask<Object, Mode>>,
+) -> bool
+where K: Knower<Object, Mode> {
+    let mut tasks = tasks.into_iter().peekable();
+    // The empty audit has no warrant to call any mind complete.
+    tasks.peek().is_some()
+        && tasks.all(|task| knower.assess(task) == Verdict::Determined)
+}
+
+// This proves completeness only relative to the supplied scope. VAK
+// 1.01's sarvathā / sarvatra makes an unrestricted claim about modes and
+// knowables. Eighteen dhātu positions are *not* eighteen knowing tasks;
+// a finite audit cannot establish the Buddha's exhaustive knowledge.
+
+// 6. The architectural wager.
 //
-// The homage verse of VAK 1.01 is therefore not praise external to the
-// system; it is the specification that the rest of Chapter 1's engine
-// must be read as describing the is_total() == true case, on pain of
-// reading the whole chapter as a theory of degenerate minds by default.
+// Skandha asks: under what gathered kind is this occurrence considered?
+// Āyatana asks: in what capacity/field sphere does it become available?
+// Dhātu asks: which support/object/cognition position does it occupy?
+//
+// Their overlap is the important datum. Avijñapti remains rūpa as
+// aggregate while entering dharmāyatana and dharmadhātu in the other
+// arrangements. A 5/12/18 mnemonic does not express that movement.
+//
+// The Organon's Being–Essence–Concept reading must answer to the exact
+// cross-mappings and to manas as a change of role within one stream.
+// If a source distinction defeats the analogy, revise the analogy.
