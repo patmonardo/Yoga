@@ -1,98 +1,60 @@
-# VAK 6.35 Bhāṣya — The Sixth Grade and the Second Fruit
+# VAK_6.35 Bhāṣya — Fifth-Range Candidate; Sixth Grade Is Once-Return
 
-## Kārikā Anchor
+## 1. Kārikā Anchor
 
 > āpañcamaprakāraghno dvitīyapratipannakaḥ |
 > kṣīṇaṣaṣṭhaprakāras tu sakṛdāgāmy asau punaḥ || 6.35 ||
 
-> One who destroys up through the fifth grade proceeds toward the
-> second fruit. When the sixth grade has been exhausted, that same
-> person becomes a once-returner.
+Literal (from the kārikā study):
 
-See the [official kārikā study](./VAK_6.35.md). This is sequential
-progress after establishment in stream-entry, distinct from the
-prior mundane abandonment considered in 6.30.
+> One who destroys up through the fifth grade is a candidate for the second
+> [fruit]. But when the sixth grade is exhausted, that one in turn is a
+> once-returner.
 
-## Continuous Sanskrit Witness
+Kārikā study: [`VAK_6.35.md`](./VAK_6.35.md). Next: 6.36, ekavīcika and non-return.
 
-> sa eva punaḥ phalasthaḥ
-> āpañcamaprakāraghno dvitīyapratīpannakaḥ /
-> yasya phalasthasyaikaprakāroyāvatpañcamaḥ prahīṇo bhavati asau dvitīyaphalapratipannako veditavyaḥ /
-> kṣīṇaṣaṣṭhaprakārastu sakṛdāgāmyasau punaḥ
-> dvitīyaphalaprāpto bhavati /
-> devān gatvā sakṛnmanuṣyalokāgamanātsakṛdāgāmī /
-> pareṇa janmāghāvāt /
-> rāgadveṣamohānāṃ ca tanutvādityucyate /
-> mṛduprakārāvaśeṣatvāt /
+## 2. Continuous Sanskrit Witness
 
-The unit runs from Pradhan [357|20] through the first sentence
-at [358|03] in the [running source](../../../Sources/kosabhasya.txt).
-The split kārikā remains interleaved with its explanation. Page
-labels and the verse marker are omitted. The witness's
-`pratīpannakaḥ` and `janmāghāvāt` are retained, not silently
-repaired. The following `sa eva punaḥ phalasthaḥ` begins the
-next person's classification in 6.36.
+> sa eva punaḥ phalasthaḥ / āpañcamaprakāraghno dvitīyapratipannakaḥ /
+> yasya phalasthasyaika-prakāro yāvat pañcamaḥ prahīṇo bhavati asau dvitīyaphalapratipannako veditavyaḥ /
+> kṣīṇaṣaṣṭhaprakāras tu sakṛdāgāmy asau punaḥ // 6.35 //
+> dvitīyaphalaprāpto bhavati / devān gatvā sakṛn manuṣyalokāgamanāt sakṛdāgāmī /
+> … rāgadveṣamohānāṃ ca tanutvāt / mṛduprakārāvaśeṣatvāt /
 
-## Continuous Conventional Translation
+**Witness.** Pradhan 357|20–358|03. Voice: Vasubandhu. 6.36 at next `sa eva punaḥ phalasthaḥ`.
 
-> That same person, now established in a fruit, is “one who
-> destroys up through the fifth grade and proceeds toward the
-> second.” One established in the first fruit for whom one grade,
-> or as many as five, has been abandoned should be understood as
-> proceeding toward the second fruit. “But when the sixth grade
-> has been exhausted, that one is a once-returner.” The person
-> has attained the second fruit. Such a person is called a
-> once-returner because, after going among the gods, there is
-> one return to the human world; the stated birth-range is
-> limited. The name also reflects the attenuation of greed,
-> hatred, and delusion, because only mild grades remain.
+## 3. Continuous Conventional Translation
 
-The running witness's `janmāghāvāt` is damaged; “the stated
-birth-range is limited” records its apparent role without
-claiming a secure word-for-word restoration. The account of
-attenuation is explicit in the following Sanskrit.
+> That same fruit-established one: destroying through the fifth grade, proceeds
+> toward the second. If one through five grades have been abandoned, understand
+> a candidate for the second fruit. When the sixth is exhausted, that one is a
+> once-returner: the second fruit is attained. After going among the gods, one
+> coming to the human world. Also said because greed, hatred, and delusion are
+> thin — only mild grades remain.
 
-## Movement of the Commentary
+## 4. Movement of the Commentary
 
-The starting person is already **phalastha**, established in
-stream-entry. Through renewed Cultivation, abandonment of one
-through five grades makes that person **dvitīyaphalapratipannaka**,
-proceeding toward the second fruit. This is an active new course,
-in accord with 6.32's distinction between merely possessing a
-fruit and applying oneself toward a higher one.
+```text
+already srota-āpanna + prayoga
+1–5 = pratipannaka to once-return
+6 = phalastha as sakṛdāgāmin
+not the 6.30 pre-Seeing count
+```
 
-Exhaustion of the sixth grade changes the status to
-**sakṛdāgāmin**, once-returner, explicitly glossed as one who
-has attained the second fruit. The difference between five and
-six is thus the difference between a course still underway and
-its accomplished fruit. This sequential case should not be
-conflated with 6.30, where the same grade count described what
-had already been removed *before* Noble Seeing.
+## 5. Organon Light (typed)
 
-The Bhāṣya explains the once-returner name through a restricted
-return to human existence after a divine birth. It also links
-that existential limit to a changed afflictive structure: greed,
-hatred, and delusion are attenuated, since only mild grades
-remain. The fruit-name is therefore connected to the causal
-condition of the practitioner, not an arbitrary label.
+```ts
+type AfterSrota = { grades: 1|2|3|4|5; role: "candidate" } | { grades: 6; role: "sakrdagamin" };
+```
 
-## Organon Response — Completion at a Definite Threshold
+## 6. The Bhāṣya's Decisions for the Kārikā
 
-For our Science of Knowing, 6.35 presents a finite course with
-an exact threshold. One through five removals are real changes,
-but their operative direction is still toward the second fruit.
-The sixth completes that direction and places the practitioner
-in a new present position.
+- sequential after first fruit;
+- sixth = fruit, not another candidate-step;
+- name tied to remaining mild residue, not a travel brochure.
 
-The threshold and the affliction/rebirth correlation are source
-claims. Describing them as an End becoming actual through a
-course is our Organon reconstruction. It must remain distinct
-from the further thesis that the entire Kośa can contribute to
-a Science of the Absolute.
+## 7. Review Status
 
-## Review Status
-
-Provisional official Bhāṣya study. The split verse, one-to-five
-range, sixth-grade threshold, once-return explanation, and
-boundary with 6.36 have been checked against the running source.
-Damaged witness forms remain marked for collation.
+Upgrade against kārikā Literal, first-pass parent, running source 357|20–358|03.
+Verse-English from [`VAK_6.35.md`](./VAK_6.35.md) §5 Literal. Medium.
+Next: 6.36.
