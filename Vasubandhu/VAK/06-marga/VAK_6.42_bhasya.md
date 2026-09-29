@@ -2,10 +2,12 @@
 
 ## Kārikā
 
-**ākīryate caturthaṃ prāk niṣpatti-kṣaṇa-miśraṇāt |**  
+**ākīryate caturthaṃ prāk niṣpatti kṣaṇamiśraṇāt |**  
 **upapatti-vihārārthaṃ kleśa-bhīrutayāpi ca || 6.42 ||**
 
-The fourth meditation is mixed first; its completion is through the mixing of moments. It is cultivated for the sake of rebirth and abiding, and also from fear of the afflictions.
+The fourth meditation is mixed first; completion is through the mixing of moments. It is cultivated for rebirth and abiding, and also from wariness of affliction.
+
+**Textual note:** The running witness has `niṣpatti kṣaṇamiśraṇāt` without a visarga after `niṣpatti`. The Bhāṣya's explanation supports reading the phrase as `niṣpattiḥ kṣaṇa-miśraṇāt` ("completion through the mixing of moments"), not as a single compound.
 
 ## Bhāṣya Source
 

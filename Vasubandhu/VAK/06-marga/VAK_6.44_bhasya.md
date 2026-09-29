@@ -5,9 +5,11 @@
 **ābhavāgrāṣṭabhāgakṣidarhattve pratipannakaḥ /**  
 **navamasyāpyānantaryapathe vajropamaśca saḥ // VAkK_6.44 //**
 
+**Textual note:** The running Bhāṣya witness reads `pratipakṣakaḥ` in the first kārikā fragment, while its prose gloss calls the practitioner `arhattva-pratipannaka`. The normalized kārikā reading above, `pratipannakaḥ`, should not be mistaken for the exact reading of the running witness.
+
 ## Bhāṣya Source
 
-Pradhan 364|10–365|10.
+Pradhan 364|10–365|09; see the [running source text](../../Sources/kosabhasya.txt).
 
 ## 1. From the Non-Returner to the Candidate for Arhatship
 
@@ -19,9 +21,9 @@ Vasubandhu states:
 
 > `sa khalvayamanāgāmī prathamadhyānaikaprakāravairāgyāt prabṛti yāvat bhavāgrāṣṭaprakāraprahāṇādarhattvapratipannako bhavanti`
 
-From the abandonment of one grade belonging to the first dhyāna onward, up through the abandonment of eight grades belonging to the summit of existence, the non-returner is a **practitioner entered upon arhatship** (*arhattva-pratipannaka*).
+From dispassion with respect to one grade belonging to the first dhyāna onward, up through the abandonment of eight grades belonging to the summit of existence, the non-returner is a **practitioner proceeding toward arhatship** (*arhattva-pratipannaka*).
 
-The point is therefore broader than the bare kārikā might first suggest. The candidate-status is not produced only at the very last eight-grade threshold. Rather, once the practitioner has crossed beyond the desire-realm work and is proceeding through the remaining higher-realm cultivation-abandonables, the trajectory is already specifically directed toward arhatship.
+The Bhāṣya's stated span begins with dispassion regarding a grade of the first dhyāna and continues through abandoning eight grades at the summit of existence. It does not say that candidate-status begins only at the final eight-grade threshold.
 
 ```text
 anāgāmin

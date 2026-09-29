@@ -7,19 +7,20 @@
 
 **IAST**
 
-ākīryate caturthaṃ prāk niṣpatti-kṣaṇa-miśraṇāt |
+ākīryate caturthaṃ prāk niṣpatti kṣaṇa-miśraṇāt |
 upapatti-vihārārthaṃ kleśa-bhīrutayāpi ca || 6.42 ||
 
 ## Source Caution
 
-The mounted source reads `caturtha prāk`; the expected syntactic form is taken here as `caturthaṃ prāk`. The Bhāṣya pass should verify the exact reading and the technical force of `ākīryate` and `niṣpatti-kṣaṇa-miśraṇa`.
+The kārikā witness `vakobhau.txt` reads `caturtha prāk`; the running Bhāṣya witness in `kosabhasya.txt` reads `caturthaṃ prāk`. This study follows the latter. The Bhāṣya parses the next phrase as `niṣpatti kṣaṇa-miśraṇāt`: completion through the mixing of moments, rather than one compound meaning mixing "at the moment of completion."
 
 ## Padaccheda
 
 - ākīryate
 - caturtham
 - prāk
-- niṣpatti-kṣaṇa-miśraṇāt
+- niṣpattiḥ
+- kṣaṇa-miśraṇāt
 - upapatti-vihāra-artham
 - kleśa-bhīrutayā
 - api
@@ -30,17 +31,17 @@ The mounted source reads `caturtha prāk`; the expected syntactic form is taken 
 - **ākīryate** — passive, “is mixed,” “is interspersed,” or “is combined.”
 - **caturtham** — the fourth, here the fourth meditation.
 - **prāk** — beforehand, prior to.
-- **niṣpatti-kṣaṇa-miśraṇāt** — because of mixing at the moment of completion or consummation.
+- **niṣpattiḥ kṣaṇa-miśraṇāt** — completion [occurs] through the mixing of moments.
 - **upapatti-vihāra-artham** — for the purpose of rebirth and abiding.
 - **kleśa-bhīrutayā** — through fear of the afflictions.
 
 ## Literal Translation
 
-The fourth [meditation] is mixed beforehand, through mixing at the moment of completion, for the sake of rebirth and abiding, and also because of fear of the afflictions.
+The fourth [meditation] is mixed first; completion is through the mixing of moments. [It is mixed] for the sake of rebirth and abiding, and also because of fear of the afflictions.
 
 ## Philosophical Translation
 
-The fourth meditation is deliberately combined in advance at the point of completion so that it can serve both as a basis for rebirth and as a mode of abiding, while also reflecting the practitioner’s fear of renewed affliction.
+The fourth meditation is the first to be mixed. The practice is completed through the interspersion of moments; it serves rebirth and present abiding, and is also cultivated from wariness of affliction.
 
 ## Technical Determination
 
@@ -56,8 +57,8 @@ The verse therefore continues the classification of the upward-streamer by expla
 
 ```text
 fourth meditation
-    → mixed beforehand
-    → at the completion moment
+  → mixed first
+  → completed through the mixing of moments
     → for rebirth
     → for abiding
     → from fear of affliction
