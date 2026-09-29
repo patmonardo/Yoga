@@ -1,149 +1,71 @@
-# VAK 6.38 Bhāṣya — Routes of the Upward Stream
+# VAK_6.38 Bhāṣya — Leaper, Half-Leaper, All Stations; Here Also
 
-## Kārikā Anchor
+## 1. Kārikā Anchor
 
 > sa pluto 'rdhaplutaḥ sarvacyutaś cānyo bhavāgragaḥ |
 > ārūpyagaś caturdhānya iha nirvāpako 'paraḥ || 6.38 ||
 
-> That one may be a leaper, a half-leaper, or one who traverses
-> all stations; another goes to the summit of existence. Another
-> goes to the formless realm in four ways; a further one attains
-> final nirvāṇa here.
+Literal (from the kārikā study):
 
-See the [official kārikā study](./VAK_6.38.md). The Akaniṣṭha-
-bound upward-streamer of 6.37 is now divided by route, then
-placed alongside other modes of non-return.
+> That one is a leaper, a half-leaper, or one who passes through all [the
+> stations]; another goes to the summit of existence. Another who goes to the
+> formless realm is fourfold; a further one attains final nirvāṇa here.
 
-## Continuous Sanskrit Witness
+Kārikā study: [`VAK_6.38.md`](./VAK_6.38.md). Next: 6.39.
 
-> sa pluto 'rdhaplutaḥ sarvacyutaśca
-> sa punareṣo 'kaniṣṭhaparama ūrdhvaṃsrotāstrividhaḥ /
-> plutādibhedāt /
-> tatra pluto nāma ya iha dhyānāni vyayakīrya dhyānacyāt oparihīṇaṃ prathamaṃ dhyānamāsvādya brahmakāyikeṣūpapannaḥ pūrvābhyāsavaśāccaturthaṃ dhyānaṃ vyavakīrya tasmāt pracyuto 'kaniṣṭheṣūpapadyate /
-> eṣa himadhyānimajjanāt plutaḥ /
-> ardhpluto nāma yastataḥ śuddhāvāseṣūpapadya madhyādekamapi sthānāntaraṃ vilaṅghacyākaniṣṭhān praviśati /
-> mahābrahmasvāryo nopapadyate dṛṣṭisthānatvādekanāyakatvācceti /
-> sarvacyuto nāma yaḥ sarvāṇi sthānāntarāṇi saṃcaryākaniṣṭhān praviśati /
-> na ca dakācidanāgāmī /
-> tatraivolpatyāyatane dvitīyaṃ janmābhinirvartayati /
-> viśeṣagāmitvāt /
-> evaṃ cāsya paripūrṇamanāgāmitvaṃ bhavati /
-> yatropapannastasyādhastatra cātyantamanāgamanāt /
-> evaṃ tāvaddhacyāne vyavakīrṇe 'kaniṣṭago veditavyaḥ /
-> tataḥ
-> anyo bhavāgragaḥ /
-> avyavakīrṇadhyāna ūrdhvaṃsrotā bhavāgraniṣṭho bhavati /
-> sa hi samāpattyantarāṇyāsvādayan sarvasthānāntareṣūpapadyāpraviśyaiva śuddhāvasānārupyakramotpattito bhavāgraṃ gatvā parinirvāti /
-> śamathacarito hyeṣaḥ /
-> pūrvakastu vipaśyanācaritaḥ /
-> antarāpi tu parinirvāṇamūrdhvaṃsrotaso yujyamānaṃ paśyāmaḥ /
-> akaniṣṭhabhavāgraparamatvaṃ tu pareṇa gatyabhāvādyathā sapta kṛtvaḥparamatvaṃ srota āpannasyeti /
-> ime tāvat pañca rupopagā anāgāminaḥ /
-> ārugyagaścaturdhānyaḥ
-> anya ārupyago 'nāgāmī yo rūpavītarāga itaścacyutvārupyeṣupapadyate /
-> sa punaścaturvidha upapadyādiparinirvāyibhedāt /
-> ta ete ṣaḍanāgāmino bhavanti /
-> tataḥ
-> iha nirvāpako 'paraḥ
-> ihaiva janmanyaparaḥ parinirvāti /
-> sa dṛṣṭadharmaparinirvāyo saptamaḥ /
+## 2. Continuous Sanskrit Witness
 
-The unit runs from Pradhan [359|15] through [360|12] in the
-[running source](../../../Sources/kosabhasya.txt). The kārikā
-is unusually dispersed through its prose. Page labels and verse
-marker are omitted; the running witness itself has displaced
-page-range labels near the Akaniṣṭha transition. Forms such as
-`ardhpluto`, `dakācit`, and `ārugyaga` remain as transmitted.
-The next kārikā begins at [360|13] by recasting the count of
-form-realm non-returners.
+> sa punar eṣo 'kaniṣṭhaparama ūrdhvasrotās trividhaḥ / plutādibhedāt /
+> pluto … madhyānimajjanāt / ardhapluto … ekam api sthānāntaraṃ vilaṅghya /
+> sarvacyuto … sarvāṇi sthānāntarāṇi saṃcarya / … viśeṣagāmitvāt /
+> anyo bhavāgragaḥ / avyavakīrṇadhyāna … bhavāgraṃ gatvā parinirvāti /
+> śamathacarito hy eṣaḥ / pūrvakas tu vipaśyanācaritaḥ /
+> ārūpyago 'nāgāmī … caturvidha upapadyādi-parinirvāyibhedāt /
+> ihaiva janmany aparaḥ parinirvāti / sa dṛṣṭadharmaparinirvāyī /
 
-## Continuous Conventional Translation
+**Witness.** Pradhan 359|15–360|12. Voice: Vasubandhu. 6.39 at 360|13.
 
-> “That one is a leaper, half-leaper, or one traversing all
-> stations”: the Akaniṣṭha-bound upward-streamer is threefold.
-> A leaper has intermingled dhyāna in this life, is reborn among
-> the Brahmakāyika gods, and through the force of earlier
-> cultivation again intermingles the fourth dhyāna before
-> reaching Akaniṣṭha. The name marks not entering the middle
-> stations. A half-leaper is reborn among the Pure Abodes and
-> reaches Akaniṣṭha while skipping at least one intermediate
-> station. A noble person is not reborn as Mahābrahmā, a station
-> associated with a fixed view and a single ruler. The one
-> called *sarvacyuta* passes through all intermediate stations
-> before entering Akaniṣṭha. A non-returner does not take a
-> second birth in the same station, for the course proceeds
-> toward a superior state; the person does not return to the
-> station of rebirth or below it. This explains the Akaniṣṭha-
-> goer with intermingled dhyāna.
+## 3. Continuous Conventional Translation
+
+> The Akaniṣṭha-bound upward-streamer is threefold. Leaper: does not sink into the
+> middle stations. Half-leaper: enters the Pure Abodes and skips at least one station.
+> *Sarvacyuta*: passes through all stations before Akaniṣṭha. A non-returner does not
+> take a second birth in the same station — the course is toward a superior state.
 >
-> “Another goes to the summit of existence”: an upward-streamer
-> with unintermingled dhyāna goes as far as *bhavāgra*. Delighting
-> in the intermediate attainments, this person passes through
-> the relevant stations, then through the formless attainments,
-> and reaches final nirvāṇa at the summit. This one is disposed
-> toward calm (*śamatha*); the previous one is disposed toward
-> insight (*vipaśyanā*). An upward-streamer can also reach final
-> nirvāṇa earlier. Akaniṣṭha and the summit are maximal limits,
-> as seven births are a maximum for a stream-enterer. So far
-> these are five non-returners who go to the form realm.
+> Another goes to the summit of existence: unmixed dhyāna, delighting in the
+> intervening attainments, through formless stations to *bhavāgra*, finishes there.
+> This one is calm-disposed; the former, insight-disposed. An upward-streamer may
+> finish earlier; Akaniṣṭha and the summit are maxima, as seven is a maximum for a
+> stream-enterer. So far, five form-going non-returners.
 >
-> “Another who goes to the formless realm is fourfold”: this is
-> one who has become detached from form and, upon dying here,
-> is reborn in a formless state. This type has four modes,
-> beginning with completion after rebirth. These make six
-> broad non-returner types. “Another attains final nirvāṇa
-> here”: a person who reaches it in this very life is the
-> seventh, the present-life completer.
+> Formless-going: already detached from form, reborn formless; fourfold from the
+> after-arising types. Another finishes here, in this very life — seventh, seen-in-
+> this-life completer.
 
-The fourfold formless division is indicated by `upapadyādi-`
-and the preceding fivefold series. Naming its four members
-explicitly is an inference from that series, not a separate
-list in this source unit. The crowded Akaniṣṭha itinerary and
-its irregular readings remain provisional pending collation.
+## 4. Movement of the Commentary
 
-## Movement of the Commentary
+```text
+three Akaniṣṭha routes + bhavāgra route
+vipaśyanā-carita / śamatha-carita = local cause, not Yoga lecture
+iha possible: higher worlds not required
+```
 
-**Three Akaniṣṭha routes.** *Pluta* skips the intervening stations;
-*ardhapluta* enters the Pure Abodes but skips at least one;
-*sarvacyuta* traverses them all. The Bhāṣya's own route
-descriptions control the names, especially *sarvacyuta*, whose
-bare etymology could mislead. The non-returner proceeds toward
-a superior state rather than returning to the same or a lower
-station.
+## 5. Organon Light (typed)
 
-**Another upward destination.** Unintermingled dhyāna is
-associated with the summit-of-existence course and a calm-
-oriented disposition; the Akaniṣṭha course is associated with
-an insight-oriented disposition. These are the source's local
-causal correlations. Their destinations are **maxima**, not
-mandatory stopping places; the commentary explicitly permits
-earlier final nirvāṇa along an upward course.
+```ts
+type Route = "pluta" | "ardha" | "sarva" | "bhavagra" | "arupya" | "iha";
+// shop-sign darśanas stay on karmakāṇḍa maps of stations
+// jñānakāṇḍa is the hold, not a better itinerary
+```
 
-**Broader count.** The five broad types discussed in 6.37 are
-form-going non-returners. A formless-going type, previously
-detached from form, is added as a sixth and divided fourfold.
-Present-life completion is added as a seventh. The verse thus
-prevents the map of higher rebirths from becoming a compulsory
-itinerary for every non-returner.
+## 6. The Bhāṣya's Decisions for the Kārikā
 
-## Organon Response — Route and End
+- *sarvacyuta* = traverse all, not “fallen from all”;
+- maxima, not mandatory tours;
+- *iha* keeps the map from becoming compulsory.
 
-For our Science of Knowing, the same maximal destination can
-be approached through different routes: skipping, partial
-traversal, or complete traversal. A destination does not by
-itself exhaust the form of the course. The source also makes
-the end of the remaining course possible in this life, so no
-higher conditioned destination is required for final completion.
+## 7. Review Status
 
-This is an Organon response to the taxonomy. Vasubandhu's
-determinations concern conditioned meditative levels and
-non-returner trajectories. They should not be identified
-directly with our nondual Samāpatti or Absolute Reason.
-
-## Review Status
-
-Provisional official Bhāṣya study. The dispersed verse, three
-Akaniṣṭha routes, summit-bound alternative, formless and
-present-life types, and boundary with 6.39 have been checked
-against the running source. Irregular witness forms and
-compressed itinerary remain for collation.
+Upgrade against kārikā Literal, first-pass parent, running source 359|15–360|12.
+Verse-English from [`VAK_6.38.md`](./VAK_6.38.md) §5 Literal. Medium.
+Next: 6.39.
