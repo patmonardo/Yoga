@@ -1,153 +1,92 @@
-# VAK 6.15 Bhāṣya — Prajñā, Recollection, and Four Counterforces
+# VAK_6.15 Bhāṣya — Prajñā as Own-Nature; Four Counters to Inversion
 
-## Kārikā Anchor
+## 1. Kārikā Anchor
 
 > prajñā śrutādimayī anye saṃsargālambanāḥ kramaḥ |
 > yathotpatti catuṣkaṃ tu viparyāsavipakṣataḥ || 6.15 ||
 
-> Prajñā, arising from hearing and the other modes, is the
-> establishment in its own nature; the other [uses of the name]
-> concern association and object-support. The sequence follows
-> arising, but the fourfold number follows opposition to the
-> inversions.
+Literal (from the kārikā study):
 
-See the [official kārikā study](./VAK_6.15.md). The question follows
-6.14's prescription to cultivate the establishments of recollection.
+> Prajñā, produced through hearing and the succeeding modes, [is the intrinsic
+> foundation of mindfulness]; the others are [foundations] by association and by
+> object-support. Their sequence is according to arising, but the fourfold
+> division is because they oppose the inversions.
 
-## Continuous Sanskrit Witness
+Kārikā study: [`VAK_6.15.md`](./VAK_6.15.md). Next: 6.16.
+
+## 2. Continuous Sanskrit Witness
 
 > atha smṛtyupasthānānāṃ kaḥ svabhāvaḥ /
-> vividhasmṛtyupasthānaṃ svabhāvasaṃsrgālambanasmṛtyupasthānam /
-> tatra svabhāvasmṛtyupasthānam /
-> prajñā
-> kīdṛśī prajñā /
-> śrutādimayī
-> śrutamayī cintāmayī bhāvanāmayī ca /
-> trividhāni smṛtyupasthānāni śrutacintābhāvanāmayāni /
-> anye saṃsargālambanāḥ
+> … svabhāva-saṃsarga-ālambana-smṛtyupasthānam /
+> tatra svabhāvasmṛtyupasthānam / prajñā /
+> kīdṛśī prajñā / śrutādimayī / śrutamayī cintāmayī bhāvanāmayī ca /
 > anye tatsahabhuvo dharmāḥ saṃsargasmṛtyupasthānam /
 > tadālambanā ālambanasmṛtyupasthānam /
-> svabhāvasmṛtyupasthānaṃ prajñeti /
-> kuta eva tat /
-> "kāme kāyānupaśyanā smṛtyupasthāna"miti vacanāt /
-> kā punaranupaśyanā /
-> prajñā /
-> tayā hi tadvānanupaśyaḥ kriyate /
-> yataścokta "madhyātmaṃ kāye kāyānupaśyī viharatī"ti /
-> anupaśyamasyāsti darśanamityanupaśyī /
-> kāye 'nupaśyī kāyānupaśyī /
-> kasmāt prajñā smṛtyupasthānamityuktā bhagavatā /
-> smṛtyudrekatvāditi vaibhāṣikāḥ /
-> smṛtivalādhānavṛttitvāditi yo 'rthaḥ /
-> dārūpāṭana kīlasaṃdhāraṇavat /
-> evaṃ tu yujyate /
-> smṛtiranayopatiṣṭhata iti smṛtyupasthānaṃ prajñā yathādṛṣṭasyābhilapanāt /
-> tadyathā hyuktamāyuṣmatā aniruddhena "tasya kāye kāyānupaśiyano viharataḥ kāyālalmbanānusmṛtistiṣṭhati saṃtiṣṭhata" iti vistaraḥ /
-> bhagāvatā 'pi coktaṃ "tasya kāye kāyānupaśiyano viharata upasthitā smṛtirbhavatyasaṃmūḍhe"ti /
-> yatra tūktaṃ "kathaṃ bhikṣavaścaturṇāṃ smṛtyupasthānānāṃ samudayaśca bhavatyastaṅgamaśca /
-> āharasamudayātkāyasya samudayo bhavatyāhāranirodhātkāyasyāstaṅgama"ityatrālambanameva smṛtyupasthānamuktam /
-> smṛtiratropatiṣṭhata iti kṛtvā /
-> yathālambanaṃ caiṣāṃ nāma svaparobhayasaṃtatyālambanatvāt pratyekameṣāṃ traividhyam /
-> kramaḥ /
-> yathotpatti
-> kasmātpunarevamutpattiḥ /
-> audārikasya pūrvaṃ darśanāt /
-> yato vā kāmarāgasya kāyo 'dhaṣṭhānaṃ sa ca vedanā 'bhilāṣātsa ca cittasyādāntatvāt tatkleśāprahāṇāditi vaibhāṣikāḥ /
-> catuṣkaṃ tu viparyāsavipakṣataḥ // VAkK_6.15 //
-> śucisukhanityātmaviparyāsanāṃ caturṇāṃ pratipakṣeṇa catvāri smṛtyupasthā nānyuktāni yathākramaṃ nādhikanyūnāni evaṃ ca trīṇyasaṃbhinnālambanāni caturthamubhayathā /
-> yadidharmāneva paśyatyasaṃbhinnālambanam /
-> atha kāyādīnāṃ dve trīṇi catvāri vā samastāni paśyati saṃbhinnālambanam /
+> kasmāt prajñā smṛtyupasthānam ity uktā / smṛtyudrekatvād iti vaibhāṣikāḥ /
+> evaṃ tu yujyate / smṛtir anayopatiṣṭhata iti … yathādṛṣṭasyābhilapanāt /
+> kramaḥ / yathotpatti /
+> catuṣkaṃ tu viparyāsavipakṣataḥ // 6.15 //
+> śuci-sukha-nityātma-viparyāsānāṃ caturṇāṃ pratipakṣeṇa …
+> trīṇy asaṃbhinnālambanāni caturtham ubhayathā /
 
-This unit runs from Pradhan [341|16] through [343|04] in the
-[running source](../../../Sources/kosabhasya.txt). The sentence at
-[343|04–05], `evaṃ kāyādyālambanāni smṛtyupasthānānyabhyasya`,
-begins the movement of 6.16. Page labels have been removed, while
-the split kārikā and the source's irregular `saṃsrgā`, `anupaśiyano`,
-`āharasamudayāt`, and `smṛtyupasthā nāni` remain visible.
+**Witness.** Pradhan 341|16–343|04. Voices: Vasubandhu; Vaibhāṣika on name and
+order; sūtra citations (irregular). 6.16 at 343|04–05.
 
-## Continuous Conventional Translation
+## 3. Continuous Conventional Translation
 
-> What is the intrinsic nature of the establishments of recollection?
-> “Establishment of recollection” has several uses: according to own
-> nature, association, and object-support. In its own nature it is
-> prajñā. What kind of prajñā? That arising from hearing, reflection,
-> or cultivation. Other dharmas that arise with it are establishments
-> by association; what it takes as object is an establishment by
-> object-support.
+> What is the own-nature of the establishments of recollection? The name is
+> used in several ways: by own-nature, by association, by object-support. By
+> own-nature it is Prajñā. What kind? Produced from hearing, from reflection,
+> from cultivation. The other dharmas that arise with it are the establishment
+> by association. What it takes as support is the establishment by object-support.
 >
-> Why call the intrinsic establishment prajñā? Scriptural wording
-> names contemplation of the body an establishment of recollection.
-> The contemplative seeing, `anupaśyanā`, is prajñā. Why then did the
-> Blessed One call prajñā an establishment *of recollection*? The
-> Vaibhāṣikas say recollection predominates and supports the
-> operation, like a wedge holding split wood. But this explanation
-> is preferable: recollection becomes established through prajñā,
-> because what has been seen is articulated and retained. The
-> commentary invokes sayings attributed to Aniruddha and the Buddha
-> in which recollection stands established for one contemplating the
-> body. In a saying about the arising and cessation of the
-> establishments, however, the name designates the *object*: the
-> body arises with nutriment and ceases with its cessation. Each
-> establishment can take one's own continuum, another's, or both as
-> object.
+> Why did the Blessed One call Prajñā an establishment *of recollection*?
+> Vaibhāṣikas: because recollection predominates — the work runs on recollection’s
+> strength, like a wedge holding split wood. This fits better: recollection is
+> established *through* this Prajñā, by articulating what has been seen.
 >
-> Their order follows the order of arising. The coarse is seen first;
-> alternatively, the Vaibhāṣikas explain that the body underlies
-> sensual desire, feeling is desired in relation to it, citta is
-> undisciplined, and affliction remains unabandoned. Why exactly
-> four? They counter the four inversions of purity, pleasure,
-> permanence, and self, respectively. The first three have distinct,
-> unmixed objects. The fourth may take dharmas alone or a mixed field
-> of two, three, or all four of body, feeling, citta, and dharmas.
+> The order is according to arising: the coarser is seen first; or, say the
+> Vaibhāṣikas, body underlies sensual desire, feeling is wanted on that account,
+> citta is undisciplined, affliction unabandoned. Why four? They counter the four
+> inversions — purity, pleasure, permanence, self — neither more nor fewer. The
+> first three have unmixed supports. The fourth may take dharmas alone or a mixed
+> field of two, three, or all four.
 
-The transmitted examples and cited sayings contain irregular words;
-the translation preserves their stated argumentative functions
-without silently normalizing the Sanskrit quotations.
+## 4. Movement of the Commentary
 
-## Movement of the Commentary
+```text
+svabhāva = Prajñā (śruta / cintā / bhāvanā)
+name also = associates + ālambana
+Vaibhāṣika wedge vs Vasubandhu: smṛti established by seeing
+order ≠ number (arising vs four viparyāsas)
+```
 
-The Bhāṣya first prevents one term from being mistaken for one kind
-of entity. `Smṛtyupasthāna` names prajñā in its own nature, its
-co-arising dharmas by association, and its object by object-support.
-The intrinsic prajñā may be born of hearing, reflection, or
-cultivation. The cited wording about contemplative seeing supports
-its identification with prajñā; another citation establishes a
-genuine object-support use of the same name.
+## 5. Organon Light (typed)
 
-The explanation of the name has two voices. The Vaibhāṣikas stress
-the predominance and supporting strength of recollection. Vasubandhu
-marks his own preferred reading with `evaṃ tu yujyate`: recollection
-is established through the seeing performed by prajñā. These are
-different accounts of the relation between discriminating and
-retaining, not two interchangeable paraphrases.
+```ts
+type Smrtyupasthana =
+  | { tag: "svabhava"; core: Prajna; via: "sruta" | "cinta" | "bhavana" }
+  | { tag: "samsarga"; with: Dharma[] }
+  | { tag: "alambana"; field: Field };
 
-Order and number also answer different questions. The order body,
-feeling, citta, dharmas follows the arising of examination; the
-Vaibhāṣikas offer a particular causal account of it. The number four
-follows the four inversions opposed. Body counters purity-inversion,
-feeling pleasure-inversion, citta permanence-inversion, and dharmas
-self-inversion. The fourth establishment can retain its own dharma
-object or gather a mixed field; this prepares the comprehensive
-examination of 6.16.
+type Counter = ["kaya","asuci"], ["vedana","duhkha"],
+               ["citta","anitya"], ["dharma","anatman"];
 
-## Organon Response — Knowing That Establishes Recollection
+// not: Spiritualist XOR Materialist
+// the four fields stay together or the practice dies
+```
 
-Here prajñā does the seeing, while recollection holds what that seeing
-has disclosed. The practice is neither a free-standing faculty nor
-an object-list: its intrinsic operation, associated dharmas,
-object-support, genesis, and counteractive work determine one
-another. The fourfold form is required by the errors it corrects.
+Spiritualist and materialist each want one half of the four and call that
+medicine. Apart, only death. Not Vasubandhu’s sentence.
 
-For our Science of Knowing, this puts a demand on “I can know the
-Absolute”: knowing must specify its operation, what it takes as
-object, how it retains its disclosure, and which inversion it undoes.
-The Bhāṣya establishes this disciplined Path structure. Identifying
-its ultimate object with the Absolute is a further Organon thesis,
-not a statement in this passage.
+## 6. The Bhāṣya's Decisions for the Kārikā
 
-## Review Status
+- three senses of the name;
+- `evaṃ tu yujyate` prefers establishment *through* Prajñā;
+- four = four inversions; fourth field can mix.
 
-Provisional official Bhāṣya study. The split verse, cited voices,
-mixed-object account, and complete local unit have been checked
-against the running source. Irregular witness forms still require
-collation before publication.
+## 7. Review Status
+
+Upgrade against kārikā Literal, first-pass parent, running source 341|16–343|04.
+Verse-English copied from [`VAK_6.15.md`](./VAK_6.15.md) §5 Literal. Provisional.
+Next: 6.16.
