@@ -1,109 +1,78 @@
-# VAK 6.21 Bhāṣya — Support, Manifestation, and Loss
+# VAK_6.21 Bhāṣya — Desire-Domain Support; How the Roots Are Lost
 
-## Kārikā Anchor
+## 1. Kārikā Anchor
 
 > kāmāśrayāṇy agradharmān dvayāśrayān labhate 'ṅganā |
 > bhūmityāgāt tyajaty āryas tāny anāryas tu mṛtyunā || 6.21 ||
 
-> These roots have a desire-domain support. A woman obtains Highest
-> Mundane Dharmas related to either bodily support. A Noble one
-> relinquishes the roots by leaving their ground; an ordinary one,
-> through death.
+Literal (from the kārikā study):
 
-See the [official kārikā study](./VAK_6.21.md). The Bhāṣya now
-specifies the support and continuity of the four roots gathered in
-6.20.
+> [The four] have the desire-domain as their support. A woman obtains the
+> Highest Dharmas with both supports. A Noble practitioner relinquishes them
+> through abandonment of the level, but a non-Noble through death.
 
-## Continuous Sanskrit Witness
+Kārikā study: [`VAK_6.21.md`](./VAK_6.21.md). Next: 6.22, further decline.
 
-> sarvāṇyapi tvetāni catvāri
-> kāmāśrayāṇi
-> trīṇi manuṣyeṣvevotpadyante /
-> triṣu dvīpeṣu /
-> utpāditapūrvāṇāṃ tu deveṣu saṃmukhībhāvaḥ /
-> caturthaṃ deveṣvapi /
+## 2. Continuous Sanskrit Witness
+
+> sarvāṇy api tv etāni catvāri kāmāśrayāṇi /
+> trīṇi manuṣyeṣv evotpadyante / triṣu dvīpeṣu /
+> utpāditapūrvāṇāṃ tu deveṣu saṃmukhībhāvaḥ / caturthaṃ deveṣv api /
 > trīṇi strīpuruṣā ubhayāśrayāṇi labhante /
-> agradharmān dvacyāśrayān labhate 'ṅganā /
-> agradharmāstu stryeva dvacyāśrayān labhate /
-> puruṣaḥ puruṣāśrayāneva /
-> strītva syāpratisaṃkhyānirodhalābhāt /
+> agradharmān dvayāśrayān labhate 'ṅganā /
+> … puruṣaḥ puruṣāśrayān eva / … apratisaṃkhyānirodhalābhāt /
 > kathaṃ nirvedhabhāgīyānāṃ tyāgaḥ /
-> bhūmityāgāttyajatyāryastāni
-> yadbhūmikānyanena pratilabdhānibhavanti tāṃ bhūmi tyajannāryastānyapi tyajati nānyathā bhūmityāgaḥ punarbhūmisaṃcārāt /
-> anāryastu mṛtyunā // VAkK_6.21 //
-> pṛthagjanastu nikāyasabhāgatyāgenaiva tyajatisatyasati vā bhūmisaṃcāre /
+> bhūmityāgāt tyajaty āryas tāni / … bhūmisaṃcārāt /
+> anāryas tu mṛtyunā // 6.21 // /
+> pṛthagjanas tu nikāyasabhāgatyāgenaiva tyajati saty asati vā bhūmisaṃcāre /
 
-The unit runs from Pradhan [346|17] through [347|07] in the
-[running source](../../../Sources/kosabhasya.txt). At [347|08],
-`ādye dve parihāṇyā ca` begins 6.22's further analysis of loss.
-Page labels have been removed. The witness's `dvacyāśrayān`,
-`strītva syā`, and compressed `pratilabdhānibhavanti` remain visible
-pending collation.
+**Witness.** Pradhan 346|17–347|07. Voice: Vasubandhu reporting classification.
+6.22 at 347|08.
 
-## Continuous Conventional Translation
+## 3. Continuous Conventional Translation
 
-> All four [roots conducive to penetration] have a desire-domain
-> support. The first three initially arise only among humans, on
-> the three inhabited continents. If previously produced, they can
-> later become manifest among gods. The fourth can also arise among
-> gods. Women and men obtain the first three in relation to both
-> female and male supports.
+> All four have desire-domain support. The first three arise only among humans,
+> on the three continents. If already produced, they can later become present
+> among gods. The fourth can arise among gods as well. Women and men obtain the
+> first three with both supports.
 >
-> A woman obtains the Highest Mundane Dharmas related to either
-> support, but a man obtains them only in relation to male support.
-> The Bhāṣya explains this through the acquisition of non-analytic
-> cessation with respect to female status.
+> A woman obtains the Highest Dharmas with both supports; a man, only with male
+> support. The prose gives the reason as acquisition of non-analytic cessation
+> with respect to female status.
 >
-> How are the roots conducive to penetration relinquished? A Noble
-> practitioner relinquishes those attained on a given ground by
-> leaving that ground, and not otherwise; leaving the ground occurs
-> through movement to another ground. An ordinary practitioner
-> relinquishes them through death, that is, by leaving the present
-> `nikāyasabhāga`, whether or not a change of ground has occurred.
+> How are they relinquished? A Noble one leaves those obtained on a ground by
+> leaving that ground, and not otherwise; leaving the ground is moving to another
+> ground. An ordinary person relinquishes them through death — by leaving the
+> present nikāyasabhāga — whether or not a change of ground has occurred.
 
-The sex-support statements report this passage's received technical
-classification. Their precise physiological rationale is not
-expanded beyond the Bhāṣya's brief explanation.
+## 4. Movement of the Commentary
 
-## Movement of the Commentary
+```text
+āśraya ≠ bhūmi (kāma-body can hold a dhyāna-ground root)
+utpāda ≠ saṃmukhībhāva
+ārya loss = bhūmisaṃcāra; pṛthagjana loss = death
+```
 
-The first distinction is between `āśraya` and `bhūmi`. The four
-roots have a desire-domain living support, although 6.20 placed
-their meditative operation on concentration grounds. The next
-distinction is between first production and later manifestation:
-the first three arise initially among humans, but an already
-produced root may later become present among gods. The fourth has
-a wider initial locus.
+## 5. Organon Light (typed)
 
-The source then states a sex-support allocation for acquisition,
-with a narrower rule for men in the case of the Highest Mundane
-Dharmas. This belongs to the doctrinal classification being
-reported; it is not a general proposition about who can know the
-Truths.
+```ts
+type Root = { asraya: "kamadhatu"; bhumi: ConcentrationGround };
+type Loss =
+  | { who: "arya"; by: "leave_bhumi" }
+  | { who: "prthagjana"; by: "death" };
+// first production ≠ later manifestation
+```
 
-Finally, mode of loss depends on practitioner status. The Noble
-practitioner relinquishes a root by leaving its acquired meditative
-ground. The ordinary practitioner relinquishes it when the present
-life-continuum ends, regardless of whether a ground-shift also
-occurs. The next unit adds further kinds of decline; this verse
-establishes the primary contrast.
+Sex-support rule recorded as local Abhidharma physiology. Not expanded.
 
-## Organon Response — A History of Knowing
+## 6. The Bhāṣya's Decisions for the Kārikā
 
-The Path capacity has a ground, a living support, a first arising,
-a possible later manifestation, and a way it can be lost. These
-relations prevent us from treating prajñā as a free-floating
-proposition or as an act with no history in a continuum.
+- all four kāmāśraya;
+- first-production loci filled;
+- `anārya` = pṛthagjana; death = nikāyasabhāga-tyāga.
 
-For our Science of Knowing, the important consequence is that
-“I can know the Absolute” must be tested through the conditions
-under which knowing is acquired, made present, and preserved. The
-Bhāṣya determines these conditions for the preparatory roots.
-The application to Absolute Knowing remains an Organon proposal.
+## 7. Review Status
 
-## Review Status
-
-Provisional official Bhāṣya study. The split kārikā and complete
-local unit have been checked against the running source. Irregular
-witness forms and the exact sex-support rationale require collation
-before publication.
+Upgrade against kārikā Literal, first-pass parent, running source 346|17–347|07.
+Verse-English from [`VAK_6.21.md`](./VAK_6.21.md) §5 Literal. Provisional.
+Next: 6.22.
