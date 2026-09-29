@@ -1,138 +1,112 @@
-# VAK 6.05 Bhāṣya — From Hearing to Samādhi-born Prajñā
+# VAK_6.05 Bhāṣya — How Seeing Is Prepared: Hearing, Reflection, Cultivation
 
-## Kārikā Anchor
+## 1. Kārikā Anchor
 
 > vṛttasthaḥ śrutacintāvān bhāvanāyāṃ prayujyate |
 > nāmobhayārthaviṣayāḥ śrutamayyādikā dhiyaḥ || 6.05 ||
 
-> Established in conduct and possessing learning and reflection, one
-> engages in cultivation. The cognitions beginning with that formed from
-> learning have respectively name, both [name and Meaning], and Meaning
-> as their objects.
+Literal (from the kārikā study — not a fourth English):
 
-See the [official kārikā study](./VAK_6.05.md). After establishing the
-truths and their two modes in 6.04, Vasubandhu asks how seeing them occurs.
+> Established in conduct and possessing learning and reflection, one applies
+> oneself to cultivation. The cognitions beginning with that formed from
+> learning have, respectively, name, both [name and Meaning], and Meaning as
+> their objects.
 
-## Continuous Sanskrit Witness
+Kārikā study: [`VAK_6.05.md`](./VAK_6.05.md). Next: how cultivation succeeds, 6.06.
 
-> uktāni satyāni /
-> kathaṃ punasteṣāṃ darśanaṃ bhavati /
-> vaktavyam /
-> ata ādiprāthānamārabhyocyate /
-> vṛttasthaḥ śrutacintāvānbhāvanāyāṃ prayujyate /
+## 2. Continuous Sanskrit Witness
+
+> uktāni satyāni / kathaṃ punas teṣāṃ darśanaṃ bhavati / vaktavyam /
+> ata ādiprāsthānam ārabhya ucyate /
+> vṛttasthaḥ śrutacintāvān bhāvanāyāṃ prayujyate /
 > satyāni ha draṣṭukāma ādita eva śīlaṃ pālayati /
-> tataḥ satyadarśanasyānulomaṃ śrutamudgṛhlātyarthaṃ vā śruṇeni /
-> śrutvā cintayati aviparītaṃ cintayitvā bhāvanāyāṃ prayujyate /
+> tataḥ satyadarśanasyānulomaṃ śrutam udgṛhṇāti / arthaṃ vā śṛṇoti /
+> śrutvā cintayati / aviparītaṃ cintayitvā bhāvanāyāṃ prayujyate /
 > samādhau tasya śrutamayīṃ prajñāṃ niśritya cintāmayī jāyate /
 > cintāmayīṃ niśritya bhāvanāmayī jāyate /
-> kiṃ punarāsāṃ prajñānāṃ lakṣaṇam /
+> kiṃ punar āsāṃ prajñānāṃ lakṣaṇam /
 > nāmobhayārthaviṣayā śrutamayyādikā dhiyaḥ // 6.05 //
-> nāmālambanā kila śrutamayī prajñā /
-> nāmārthālambanā cintāmayī /
-> kadācidvacyañjanenārthamākarṣati kadācidarthena vyañjanam /
-> arthalamvanaiva bhāvanāmayī /
-> sā hi vyañjananirapekṣā arthe pravartate /
-> tadyathā 'mbhasi plotumaśikṣitaḥ plavanneva muñcati /
-> kiyacchikṣitaḥ kadācit muñcet kadācidālamvate /
-> suśikṣitā plavan nirapekṣastaratītyeṣa dṛṣṭāntaḥ iti vaibhāṣikāḥ /
-> asyāṃ tu kalpanāyāṃ cintāmayī prajñā na siddhacyatītyapare /
-> yāhi nāmālambanā śrutamayī prāpnoti yā 'rthālambanā bhāvanāmayīti /
+> nāmālambanā kila śrutamayī prajñā / nāmārthālambanā cintāmayī /
+> kadācid vyañjanenārtham ākarṣati kadācid arthena vyañjanam /
+> arthālambanaiva bhāvanāmayī / sā hi vyañjananirapekṣā arthe pravartate /
+> tad yathā ambhasi plotum aśikṣitaḥ … suśikṣitaḥ plavan nirapekṣas tarati /
+> ity eṣa dṛṣṭānta iti vaibhāṣikāḥ /
+> asyāṃ tu kalpanāyāṃ cintāmayī prajñā na sidhyatīty apare /
+> yā hi nāmālambanā śrutamayī prāpnoti yā 'rthālambanā bhāvanāmayīti /
 > idaṃ tu lakṣaṇaṃ nāniravadyaṃ vidyate /
 > āptavacanaprāmāṇyajātaniścayaḥ śrutamayī /
-> yuktinidhyānajaścintāmayī /
-> samādhijjo bhāvanāmayīti /
-> hetau mayaṭvidhānāt /
-> yadyathā 'nnamayāḥ prāṇāḥ tṛṇamayyo gāyaḥ iti /
+> yuktinidhyānajāś cintāmayī /
+> samādhijo bhāvanāmayīti /
+> hetau mayaṭ-vidhānāt / yad yathā annamayāḥ prāṇāḥ tṛṇamayyo gāvaḥ iti /
 
-This is the complete unit from Pradhan [334|13] to [335|07] in the
-[running source](../../../Sources/kosabhasya.txt). At [335|08] the Bhāṣya
-asks what makes cultivation succeed, introducing 6.06. Page labels are
-removed, while source spellings and irregularities are retained. The
-research transcription supplies useful readings, but the displayed text
-has not been independently collated with printed editions.
+**Witness.** Pradhan 334|13–335|07. Voices: Vasubandhu; Vaibhāṣikas (swimmer);
+apare (middle term fails). Running faults not adopted: `udgṛhlāt`, `śruṇeni`,
+`siddhacyatī`, `samādhijjo`, `gāyaḥ`. Next question at 335|08 is 6.06.
 
-## Continuous Conventional Translation
+## 3. Continuous Conventional Translation
 
-> The truths have been stated. How, then, does their seeing occur? That
-> must be explained, beginning from the initial preparation. One
-> established in conduct, possessed of learning and reflection, applies
-> oneself to cultivation. A person who wishes to see the truths first
-> guards ethical conduct. Then one takes up teaching conformable to seeing
-> the truths, or hears the Meaning. Having heard, one reflects; having
-> reflected without inversion, one engages in cultivation. For that
-> practitioner in samādhi, Prajñā born of reflection arises relying on
-> Prajñā born of hearing, and Prajñā born of cultivation arises relying
-> on Prajñā born of reflection.
+> The truths have been stated. How does seeing of them occur? That must be said,
+> beginning from the first preparation.
 >
-> What are the defining marks of these cognitions? The cognitions beginning
-> with that formed from hearing have name, both, and Meaning as their
-> respective objects. Prajñā born of hearing is said to have name as its
-> object; Prajñā born of reflection has name and Meaning. At times it draws
-> Meaning from expression, and at times expression from Meaning. Prajñā
-> born of cultivation has Meaning alone as its object: it operates toward
-> Meaning without dependence on expression. The Vaibhāṣikas compare this
-> to swimming. The untrained swimmer cannot release support; one partly
-> trained sometimes releases it and sometimes grasps it; the well-trained
-> swimmer crosses without depending on support.
+> One established in conduct, possessing learning and reflection, applies oneself
+> to cultivation. One who wishes to see the truths first guards śīla. Then one
+> takes up learning that runs toward seeing the truths, or hears the Meaning.
+> Having heard, one reflects. Having reflected without inversion, one applies
+> oneself to cultivation. In samādhi, relying on prajñā formed from hearing,
+> prajñā formed from reflection arises; relying on that, prajñā formed from
+> cultivation arises.
 >
-> Other teachers object that this account does not establish Prajñā born
-> of reflection. A cognition whose object is name would count as born of
-> hearing, and one whose object is Meaning as born of cultivation. A
-> completely faultless definition is difficult. A stronger distinction
-> is this: Prajñā born of hearing is certainty arising from the authority
-> of a reliable statement; Prajñā born of reflection arises from
-> considered reasoning; Prajñā born of cultivation arises from samādhi.
-> The suffix *-maya* is used with reference to a cause, as in “lives
-> sustained by food” and “cows sustained by grass.”
+> What is the mark of these prajñās? The cognitions beginning with that formed
+> from learning have name, both, and Meaning as their objects. Prajñā from
+> hearing, they say, has name as support. Prajñā from reflection has name and
+> Meaning: sometimes it draws Meaning from the wording, sometimes wording from
+> Meaning. Prajñā from cultivation has Meaning alone: it proceeds toward Meaning
+> without depending on the wording.
+>
+> The Vaibhāṣikas: one untrained to swim in water does not let go; one somewhat
+> trained sometimes lets go and sometimes takes hold; one well trained crosses
+> without depending on a hold.
+>
+> Others: on that construction, prajñā from reflection is not established. What
+> has name as support falls to hearing-prajñā; what has Meaning as support falls
+> to cultivation-prajñā. A mark without remainder of fault is hard to find.
+>
+> Rather: prajñā from hearing is certainty born from the authority of a reliable
+> statement. Prajñā from reflection is born from examination by reasoning.
+> Prajñā from cultivation is born from samādhi. *-maya* is used of the cause —
+> as lives formed from food, cows formed from grass.
 
-## Movement of the Commentary
+## 4. Movement of the Commentary
 
-The question is practical: how does seeing the truths take place? Vasubandhu
-begins with ethical conduct (`śīla`), then teaching or Meaning heard,
-non-inverted reflection, and cultivation. The three Prajñās arise in
-dependence on one another (`niśritya`). The text thus presents a genesis of
-knowing, not merely three independent kinds of information.
+```text
+how is seeing? → śīla, śruta, cintā, bhāvanā
+niśritya: each prajñā relies on the one before
+object-marks, then the swimmer, then the middle fails
+cause-marks: āpta-vacana / yukti-nidhyāna / samādhi
+```
 
-The kārikā gives their respective object ranges: `nāma → nāma-and-artha →
-artha`. The Vaibhāṣika swimmer simile explains the gradual release from
-verbal support. The objection by `apare` exposes a weakness in using object
-range alone to individuate the middle Prajñā: name would belong to hearing
-and Meaning to cultivation, leaving reflection without a stable mark.
-The ensuing causal characterization distinguishes them by what produces
-their certainty: reliable teaching, reasoned contemplation, and samādhi.
+## 5. Object-Mark ≠ Cause-Mark
 
-The source has `samādhau` in the earlier dependence sentence and
-`samādhij[o] bhāvanāmayī` in the later definition. The latter gives the
-stronger genetic determination: cultivational Prajñā is born from samādhi.
-It should not be reduced to mere nonverbal attention to an object.
+The three objects do not cancel. They are not enough to hold the middle.
+Cultivation here is not yet 6.01's uncontaminated Path of Seeing. `Artha` in
+the official verse-English is Meaning; this file does not mint another word.
 
-## Doctrinal Determination
+## 6. Two Distinctions the Prose Actually Makes
 
-`Artha` here is the object or Meaning toward which cultivation operates.
-The text distinguishes dependence on verbal expression from access to
-Meaning, then tests that distinction by asking how each Prajñā is produced.
-The two accounts have different jobs: object-range describes what the
-cognition attends to; causal genesis distinguishes the three forms when
-their objects overlap. This prevents the sequence from being flattened
-into either a vocabulary ladder or a single undifferentiated knowing.
+| prajñā | object (Vaibhāṣika) | born from (Vasubandhu) |
+|---|---|---|
+| śrutamayī | nāma | certainty from reliable speech |
+| cintāmayī | nāma and artha | examination by reasoning |
+| bhāvanāmayī | artha, without wording | samādhi |
 
-The path to Seeing is prepared through conduct, received instruction,
-reflection, and cultivation. This does not make the preparatory stages
-identical with the uncontaminated Path of Seeing of 6.01.
+## 7. The Bhāṣya's Decisions for the Kārikā
 
-## Organon Response — Artha and Jñāna
+- first half = preparation-order, not three hobbies;
+- `dhiyaḥ` named as three prajñās;
+- `-maya` read as cause.
 
-This passage gives our Yoga–Kośa inquiry a precise hinge. *Artha* becomes
-the explicit object of cultivational Prajñā, yet the Bhāṣya defines that
-Prajñā by its emergence from samādhi. We can therefore test the proposal
-that Meaning is determined within discipline while Jñāna arises as a
-result from a determinate ground. That latter formulation remains our
-Organon reconstruction; the Kośa passage itself speaks of three Prajñās,
-their objects, and their causes.
+## 8. Review Status
 
-## Review Status
-
-Provisional official Bhāṣya study. The local source boundary has been
-checked; damaged forms in the running witness remain visible for later
-collation. The next unit begins at [335|08] with the question of how
-cultivation succeeds.
+Upgrade against kārikā Literal, first-pass parent, running source 334|13–335|07.
+Verse-English copied from [`VAK_6.05.md`](./VAK_6.05.md) §5 Literal. Witness
+faults listed, not silently cleaned. Provisional. Next: 6.06.
