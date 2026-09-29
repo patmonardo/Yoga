@@ -1,104 +1,94 @@
-# VAK 6.08 Bhāṣya — Livelihood, Work, and the Pacification of Thirst
+# VAK_6.08 Bhāṣya — Livelihood and Work; Present and Final Pacification
 
-## Kārikā Anchor
+## 1. Kārikā Anchor
 
 > karmāntena tribhir vṛttis tṛṣṇotpāda-vipakṣataḥ |
 > mamāhaṃkāra-vastv-icchā tat-kālātyanta-śāntaye || 6.08 ||
 
-> Livelihood is by the three and work by the fourth, since these oppose
-> the arising of thirst. Desire for the objects of mine-making and
-> I-making is pacified, respectively for the present and finally.
+Literal (from the kārikā study):
 
-See the [official kārikā study](./VAK_6.08.md). The four noble lineages
-were introduced in 6.07; this unit explains what they provide and why.
+> Livelihood is by the three, and work by [the fourth], because they are
+> counterforces to productions of thirst. [They are prescribed] for the
+> present and final pacification of desire concerning objects of mine-making
+> and I-making.
 
-## Continuous Sanskrit Witness
+Kārikā study: [`VAK_6.08.md`](./VAK_6.08.md). Next: 6.09, entry into cultivation.
 
-> atha caturbhirāryavaṃśaiḥ kiṃ darśitaṃ bhagavatā /
-> karmāntena tribhirvṛttiḥ
-> dharmasvāminā hi bhagavatā parityaktasvavṛttikarmāntebhyaḥ śiṣyebhyo mokṣārthamabhyupagatebhyo dvayaṃ prajñaptaṃ vṛttiśca karma ca /
-> tribhirāryavaṃśairvṛttiścaturyena karma /
-> anayā vṛttyedaṃ karma kurvāṇā bhavantī na cirānmokṣaṃ prāpsyantīti /
-> kasmātpunariyamīdṛśī vṛttiridaṃ ca karma prajñaptam /
+## 2. Continuous Sanskrit Witness
+
+> atha caturbhir āryavaṃśaiḥ kiṃ darśitaṃ bhagavatā /
+> karmāntena tribhir vṛttiḥ /
+> dharmasvāminā hi bhagavatā parityaktasvavṛttikarmāntebhyaḥ śiṣyebhyo mokṣārtham abhyupagatebhyo dvayaṃ prajñaptaṃ vṛttiś ca karma ca /
+> tribhir āryavaṃśair vṛttiś caturthena karma /
+> anayā vṛttyedaṃ karma kurvāṇā … na cirān mokṣaṃ prāpsyantīti /
+> kasmāt punar iyam īdṛśī vṛttir idaṃ ca karma prajñaptam /
 > tṛṣṇotpādavipakṣataḥ /
-> catvārastṛṣṇotpādāḥ sūtra uktāḥ /
-> "cīvarahetorbhikṣostṛṣṇotpadyamānā utpadyate pratitiṣṭhanti pratitiṣṭhati abhiniviśamānā 'bhiniviśate /
-> piṇḍapātahetoḥ śayyāsanahetoriti /
-> bhavavibhavahetorbhikṣostṛṣṇotpadyamānā utpadyata" iti vistaraḥ /
+> catvāras tṛṣṇotpādāḥ sūtra uktāḥ /
+> cīvarahetoḥ … piṇḍapātahetoḥ śayyāsanahetoḥ … bhavavibhavahetoḥ … /
 > eṣāṃ pratipakṣeṇa catvāra āryavaṃśā deśitāḥ /
-> mamāha kāravastvicchātatkālātyantaśāntaye // 6.08 //
+> mamāhaṃkāravastvicchā tat-kālātyanta-śāntaye // 6.08 //
 > sa evārthaḥ punaḥ pariśeṣeṇocyate /
-> mamakāravastu cīvarādayo 'haṃ kāravastvātmabhāvaḥ /
-> tatrecchā tṛṣṇā /
-> tatra mamakāravastvicchāyāstatkālaśāntaye traya āryavaṃśā bhavanti /
-> ubhayecchātyantaśāntaye caturtha iti /
-> uktāmidaṃ yathā bhūtasya bhāvanā saṃpadyate /
+> mamakāravastu cīvarādayo 'haṃkāravastv ātmabhāvaḥ /
+> tatra icchā tṛṣṇā /
+> tatra mamakāravastvicchāyās tat-kāla-śāntaye traya āryavaṃśā bhavanti /
+> ubhayecchātyanta-śāntaye caturtha iti /
+> uktam idaṃ yathā bhūtasya bhāvanā saṃpadyate /
 
-This unit runs from Pradhan [336|13] through [337|06] in the
-[running source](../../../Sources/kosabhasya.txt). The question at
-[337|07], concerning entry into cultivation, begins 6.09. Page labels
-are removed, but the source's spellings and its split kārikā are
-retained. In particular, the citation on the four arisings of thirst
-has uneven transmitted syntax and remains a witness reading rather
-than a silently repaired quotation.
+**Witness.** Pradhan 336|13–337|06. Voices: Vasubandhu; sūtra on four tṛṣṇotpādas
+(citation syntax uneven — not silently repaired). 6.09 begins 337|07.
 
-## Continuous Conventional Translation
+## 3. Continuous Conventional Translation
 
-> What did the Blessed One show through the four noble lineages?
-> “Livelihood is by the three, and work by the fourth.” The Blessed
-> One, master of Dharma, prescribed two things—livelihood and work—for
-> disciples who had left their former livelihoods and occupations and
-> entered upon the pursuit of liberation. Livelihood is provided by
-> the first three noble lineages; work by the fourth. Sustaining
-> yourselves in this way and performing this work, you will attain
-> liberation before long.
+> What did the Blessed One show by the four noble lineages? Livelihood is by the
+> three; work by the fourth. The Blessed One, master of Dharma, prescribed two
+> things for disciples who had left their own former livelihood and occupation
+> and taken up the aim of liberation: livelihood and work. Livelihood is by the
+> three noble lineages; work by the fourth. Living by this livelihood and doing
+> this work, they will reach liberation before long.
 >
-> Why prescribe this particular livelihood and work? Because they
-> oppose the arising of thirst. The sūtra speaks of four occasions for
-> thirst: robes, alms food, lodging, and existence or non-existence.
-> The four noble lineages were taught as their counterforces.
+> Why was just this livelihood and this work prescribed? Because they are
+> counterforces to productions of thirst. The sūtra names four: on account of
+> robes, of alms-food, of lodging, of existence or non-existence. The four noble
+> lineages were taught as their counterforces.
 >
-> The same meaning is stated another way: for the present and final
-> pacification of desire concerning the objects of mine-making and
-> I-making. Robes and similar things are objects of mine-making; one's
-> own embodied existence is the object of I-making. Desire toward
-> these is thirst. The first three noble lineages presently pacify
-> desire toward objects of mine-making; the fourth finally pacifies
-> desire toward both kinds of object. This explains how cultivation
-> succeeds for such a practitioner.
+> The same meaning, completed: for present and final pacification of desire
+> toward objects of mine-making and of I-making. Objects of mine-making are
+> robes and the like. The object of I-making is one’s own existence
+> (ātmabhāva). Desire there is thirst. The three lineages are for present
+> pacification of desire toward objects of mine-making. The fourth is for final
+> pacification of both desires. This is how cultivation comes about for such a
+> person.
 
-## Movement of the Commentary
+## 4. Movement of the Commentary
 
-Vasubandhu distinguishes `vṛtti`, the means of living, from `karma`,
-the work undertaken for liberation. The first three lineages regulate
-robes, food, and lodging; the fourth is delight in abandonment and
-cultivation. The renunciant's maintenance is thus ordered to a
-determinate activity. It is neither an end in itself nor an accidental
-background for meditative knowledge.
+```text
+what do the four show? → vṛtti by three / karma by fourth
+why this pair? → four tṛṣṇotpādas
+mamakāra-vastu vs ahaṃkāra-vastu (ātmabhāva)
+tat-kāla-śānti vs atyanta-śānti
+```
 
-The cited sūtra gives four occasions on which thirst may arise. The
-four lineages meet these as counterforces (`vipakṣa`). The Bhāṣya then
-distinguishes objects made “mine” from the embodied existence treated
-as “I.” The first three yield `tatkāla-śānti`, pacification for the
-present of desire for the former; the fourth aims at `atyanta-śānti`,
-final pacification of desire directed toward both. These scopes should
-not be flattened into one general virtue of simplicity.
+## 5. Livelihood ≠ the Work
 
-The closing sentence says that the account of how cultivation
-succeeds is complete. The next inquiry will ask how a practitioner
-made fit by this discipline enters cultivation.
+The three do not finish appropriation. They bound maintenance now. Final
+pacification of both “mine” and “I” is reserved to the fourth. Simplicity of
+gear is not the Path of Seeing.
 
-## Organon Response — Practical Form of Mārga
+## 6. The Three-plus-One
 
-The Path now has a concrete economy: a mode of subsistence and a work
-to be done. The fourth lineage gives that work its aim in the final
-pacification of thirst. This supports our reading of Mārga as an
-operation that changes the conditions under which appropriation
-recurs. The distinction between livelihood and work is Vasubandhu's;
-the wider Path synthesis is our reconstruction.
+| | counters | pacifies |
+|---|---|---|
+| robes / alms / lodging | tṛṣṇā for those supports | mine-making, for the present |
+| delight in abandonment and cultivation | tṛṣṇā for bhava / vibhava | both mine-making and I-making, finally |
 
-## Review Status
+## 7. The Bhāṣya's Decisions for the Kārikā
 
-Provisional official Bhāṣya study. The split verse and complete local
-unit have been checked in the running source. The sūtra citation and
-other irregular witness readings require collation before publication.
+- `tribhiḥ vṛttiḥ` / `caturthena karma` is the split of the first pāda;
+- `ahaṃkāra-vastu` = ātmabhāva;
+- `tat-kāla` on the three; `atyanta` on the fourth covering both icchās.
+
+## 8. Review Status
+
+Upgrade against kārikā Literal, first-pass parent, running source 336|13–337|06.
+Verse-English copied from [`VAK_6.08.md`](./VAK_6.08.md) §5 Literal. Provisional.
+Next: 6.09.
