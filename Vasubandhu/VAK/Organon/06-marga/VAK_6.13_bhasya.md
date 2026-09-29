@@ -1,121 +1,92 @@
-# VAK 6.13 Bhāṣya — What Kind of Object Is Breath?
+# VAK_6.13 Bhāṣya — The Breaths Typed as Object
 
-## Kārikā Anchor
+## 1. Kārikā Anchor
 
 > ānāpānau yataḥ kāyaḥ sattvākhyāv anupāttakau |
 > naiḥṣyandikau nādhareṇa lakṣyete manasā ca tau || 6.13 ||
 
-> Inhalation and exhalation belong to the level of the body. They are
-> counted within a sentient continuum, yet are unappropriated; they
-> are products of homogeneous flow and are not discerned by a mind
-> of a lower level.
+Literal (from the kārikā study):
 
-See the [official kārikā study](./VAK_6.13.md). Having classified
-breath recollection in 6.12, the Bhāṣya now classifies the breaths it
-takes as object.
+> Inhalation and exhalation belong to whatever level the body [belongs to].
+> They are designated within a sentient being, are unappropriated, and are
+> homogeneous-flow products. Those two are not apprehended by a lower-level
+> mind [but by cognition of their own or a higher level].
 
-## Continuous Sanskrit Witness
+Kārikā study: [`VAK_6.13.md`](./VAK_6.13.md). Next: 6.14, the two entry-mouths closed.
 
-> tatra punarveditavyau
-> ānāpātau yataḥ kāyaḥ /
-> yadbhūmiko hi kāyaḥ tadbhūmikāvetai /
-> kāyaikadeśatvāt /
+## 2. Continuous Sanskrit Witness
+
+> tatra punar veditavyau / ānāpānau yataḥ kāyaḥ /
+> yadbhūmiko hi kāyaḥ tadbhūmikāv etau / kāyaikadeśatvāt /
 > kāyacittaviśeṣasaṃniśritā āśvāsapraśvāsā vartante /
-> ārupyakalalādigatānāmabhāvāt acittacaturthadhyānasamāpannānāṃ ca /
-> yadi hi kāyaḥ śuṣiro bhavati āśvāsapraśvāsabhūmikaṃ ca cittaṃ saṃmukhībhūtamevaṃ te varttante /
-> jāyamānasya caturthadhyānādvyuttiṣṭhamānasya ca praviśanti bhiyamāṇasya caturthaṃ ca dhyānaṃ samāpadyamānasya niṣkrāmanti /
-> etau cānāpānau /
-> sattvākhyau
-> nāsattvasaṃkhyātau /
-> anupāttakau /
-> indriyavinirbhāgitvāt /
-> naiḥṣyandikau
-> naupacayikavipākajau /
-> kāyopacayanānupacayāt chhinnānāṃ punaḥ pratisaṃdhānācca /
-> nahyetadvipākarūpasyāsti /
-> nādhareṇa lakṣayete manasā ca tau // VAkK_6.13 //
-> svabhūmyuparibhūmikena ca tayościttenopalakṣaṇam /
-> nāvareṇeryāpathika nairmāṇikena /
+> ārūpyakalalādigatānām abhāvāt acitta-caturthadhyānasamāpannānāṃ ca /
+> yadi hi kāyaḥ śuṣiro bhavati āśvāsapraśvāsabhūmikaṃ ca cittaṃ saṃmukhībhūtam evaṃ te vartante /
+> jāyamānasya caturthadhyānād vyuttiṣṭhamānasya ca praviśanti /
+> mriyamāṇasya caturthaṃ ca dhyānaṃ samāpadyamānasya niṣkrāmanti /
+> etau cānāpānau sattvākhyau / nāsattvasaṃkhyātau /
+> anupāttakau / indriyavinirbhāgitvāt /
+> naiḥṣyandikau / naupacayika-vipākajau /
+> … chinnānāṃ punaḥ pratisaṃdhānāc ca /
+> nādhareṇa lakṣyete manasā ca tau // 6.13 //
+> svabhūmy-uparibhūmikena ca tayoś cittenopalakṣaṇam / nāvareṇa … /
 
-The unit runs from Pradhan [340|15] through [341|06] in the
-[running source](../../../Sources/kosabhasya.txt). At [341|07],
-`ukte dve avatāramukhe` closes the two entry-practices and begins the
-transition to 6.14. Page labels have been removed. The witness's
-`vetai`, `bhiyamāṇasya`, `lakṣayete`, and compressed final phrase are
-retained; these require collation rather than silent repair.
+**Witness.** Pradhan 340|15–341|06. Voice: Vasubandhu, classification. Last clause
+on īryāpathika / nairmāṇika left open pending collation. 6.14 at 341|07.
 
-## Continuous Conventional Translation
+## 3. Continuous Conventional Translation
 
-> Further, inhalation and exhalation must be understood. They belong
-> to whatever level the body belongs to, because they are a part of
-> the body. They occur in dependence on a specific condition of body
-> and citta. They are absent for those in the formless domain, those
-> in the early embryonic state and similar conditions, and those
-> absorbed in a mindless attainment or the fourth dhyāna. When the
-> body has the requisite openness and citta of a level in which
-> breathing occurs is present, they occur. They enter for one being
-> born and one emerging from fourth dhyāna; they depart for one dying
-> and one entering fourth dhyāna.
+> These two must be understood further. Inhalation and exhalation belong to
+> whatever level the body belongs to, because they are a part of the body. They
+> occur depending on a particular condition of body and citta. They are absent
+> for those in the formless domain, in the early embryo and like states, and for
+> those absorbed without citta or in fourth dhyāna. When the body is open enough
+> and citta of a breathing-level is present, they occur. They enter for one being
+> born and one rising from fourth dhyāna; they leave for one dying and one
+> entering fourth dhyāna.
 >
-> These two breaths are counted within a sentient being, rather than
-> among what is not so counted. They are unappropriated because they
-> are separable from the faculties. They are products of homogeneous
-> flow, not products of bodily increase or of karmic maturation: they
-> do not increase simply with bodily increase, and after interruption
-> they can reconnect. That latter feature does not belong to
-> maturation-born material form.
+> These two are counted within a sentient being, not among what is not so
+> counted. They are unappropriated, because separable from the faculties. They
+> are homogeneous-flow products, not products of bodily increase or of ripening:
+> they do not increase simply as the body increases, and after a break they can
+> join again. That last is not a mark of ripening-born form.
 >
-> They are not discerned by a lower-level mind. Cognition of their own
-> or a higher level discerns them, not cognition of a lower level. The
-> final witness phrase also names activity-related and magically
-> created cognition, but its compressed syntax needs collation before
-> its exact scope can be stated securely.
+> They are not discerned by a lower-level mind. Cognition of their own or a
+> higher level discerns them, not a lower one.
 
-The final qualification is deliberately kept open. The clear
-`svabhūmyuparibhūmikena ... nāvareṇa` establishes the level rule;
-the relation of `īryāpathika` and `nairmāṇika` to that rule is less
-secure in this witness.
+## 4. Movement of the Commentary
 
-## Movement of the Commentary
+```text
+same bhūmi as body (part of body)
+occurs only if body + citta of a breathing-level
+in the continuum, not appropriated as indriya
+flow-product, not heap, not vipāka
+same-or-higher cognition only
+```
 
-The object of breath recollection is neither an undifferentiated
-sensation nor a breath present in every possible life-state. The
-Bhāṣya first relates its level to the body, then gives a joint
-body–citta condition for its occurrence. The absence cases and the
-entry and departure cases make this condition concrete.
+## 5. “My Breath” Is Not a Type
 
-The remaining predicates separate classifications that ordinary
-speech can conflate. Being counted within a sentient continuum does
-not make breath an appropriated faculty: `anupāttaka` is explained by
-its separability from the `indriyas`. Its causal status is
-`naiḥṣyandika`, distinguished from both accumulation-produced and
-maturation-born material form. Finally, its discernment depends on
-the level of cognition. These are different relations to one
-conditioned process, not rival descriptions of a single substance.
+Counted in the living continuum ≠ appropriated faculty. Present body ≠ always
+breathing. Lower bhūmi cannot take the object. That is the medicine: type the
+object before you claim the knowing.
 
-This unit completes the analytic counterpart of 6.12. There the
-practice was prajñā by nature, with wind as object. Here the wind
-process receives its own bodily, causal, and cognitive determinations.
+## 6. Five Axes
 
-## Organon Response — Determinate Object, Determinate Knowing
+| axis | determination |
+|---|---|
+| level | same as body |
+| continuum | sattvākhya |
+| appropriation | anupāttaka |
+| cause | naiḥṣyandika |
+| access | own or higher bhūmi |
 
-The relation of breath to knowing is more exact than “I notice my
-breath.” Its occurrence depends upon body and citta; its presence in
-the continuum differs from appropriation by a faculty; and the level
-of cognition constrains its discernment. Prajñā therefore has a
-determinate object whose relations it must learn, rather than an
-immediate possession guaranteed by first-person attention.
+## 7. The Bhāṣya's Decisions for the Kārikā
 
-For our Science of Knowing, this is a local exercise in the discipline
-our larger claim requires: distinguish what is, the conditions under
-which it appears, and the cognition able to disclose it. This does
-not make breath the Absolute. It makes the Path's claim to knowledge
-answerable to the object it says it knows. The larger application is
-Organon reconstruction; the classifications are the Bhāṣya's.
+- `yataḥ kāyaḥ` = yadbhūmikaḥ kāyas tadbhūmikau;
+- `anupāttaka` reasoned by separability from indriyas;
+- `nādhareṇa` filled by svabhūmi / uparibhūmi.
 
-## Review Status
+## 8. Review Status
 
-Provisional official Bhāṣya study. The split kārikā and complete
-local unit have been checked against the running source. Several
-witness forms, especially the final cognitive qualification, still
-require collation before publication.
+Upgrade against kārikā Literal, first-pass parent, running source 340|15–341|06.
+Verse-English copied from [`VAK_6.13.md`](./VAK_6.13.md) §5 Literal. Provisional.
+Next: 6.14.
