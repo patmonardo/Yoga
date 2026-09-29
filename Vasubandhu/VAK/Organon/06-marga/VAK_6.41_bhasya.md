@@ -1,144 +1,70 @@
-# VAK 6.41 Bhāṣya — Later Birth, Faculty, and Non-Regression
+# VAK_6.41 Bhāṣya — Another Birth; No Faculty-Transfer; No Fall
 
-## Kārikā Anchor
+## 1. Kārikā Anchor
 
 > na parāvṛttajanmāryaḥ kāme dhātvantaropagaḥ |
 > sa cordhvajaś ca naivākṣasaṃcāraparihāṇibhāk || 6.41 ||
 
-> A Noble who has undergone another birth in the desire-domain
-> does not pass to another realm. Neither that Noble nor one
-> born above undergoes faculty-transfer or falling away.
+Literal (from the kārikā study):
 
-See the [official kārikā study](./VAK_6.41.md). The preceding
-verse treated good-person courses as irreversible; this unit
-specifies several restrictions after another Noble birth.
+> A Noble who has undergone another birth in the desire realm does not go to
+> another realm. Both that one and the Noble born above certainly undergo neither
+> transfer of faculties nor falling away.
 
-## Continuous Sanskrit Witness
+Kārikā study: [`VAK_6.41.md`](./VAK_6.41.md). Next: 6.42, mixed dhyāna.
 
-> kiṃ punaḥ parivṛttajanmano 'pyanāgāmina eṣa bhedo 'sti /
-> yasmāt
-> na parāvṛttajanmāryaḥ kāme dhātvantaropagaḥ /
-> kāmadhātau parāvṛttajanmāntara āryo na dhātvantaraṃ gacchati /
-> anāgāmi phalaṃ prāpya tatraiva janmani parinirvāṇāt /
-> rūpadhātau tu parāvṛttajanma kadācidārupyānpraviśati /
-> ya ūrdhvaṃsrotā bhavāgraparamaḥ /
-> yattarhi śakreṇoktaṃ "ye te devā akaniṣṭhā iti viśrutāḥ /
-> ante me hīyamānasya tatropapattirbhaviṣyati" /
-> abhidharmā nabhijñatvāditi vaibhāṣikāḥ /
-> bhavatā "pyanivāraṇaṃ saṃharṣaṇīyatvā" diti /
-> sa cordhvajaśca naivākṣasaṃcāraparihāṇibhāk
-> sa ca kāmadhātau parivṛttajanmā ūrdhvadhātūpapannaścāryo naivendriyāṇi saṃcarati nāpi kathañcit parihīyate /
-> kiṃ punaḥ kāraṇaṃ parivṛttajanmāntāsyāryasya rūpārupyapraveśendriyasaṃcāraparihāṇayo neṣyante /
-> yasmānna santi /
-> kasmānna santi /
-> janmāntaraparivāsenendriyāṇāṃ paripakvataratvādāśrayaviśeṣalābhācca /
-> atha kasmādvītarāgaḥ śaikṣo nāntarāye parinirvāyī bhavati /
-> mārgasyājitatvādasaṃmukhībhāvataḥ anuśayānāṃ ca nātimandatvāt duḥsamatikrāmatvātkāmavātoriti vaibhāṣikāḥ /
-> bahu hyanena kartavyaṃ bhavati /
-> akuśalāmyākṛtakleśaprahāṇaṃ dvitriśrāmaṇyaphalaprāptistridhātusamatikramaśca /
-> taccāntarābhavastho na śaktaḥ kartumiti /
+## 2. Continuous Sanskrit Witness
 
-The full unit runs from Pradhan [361|15] through [362|09] in
-the [running source](../../../Sources/kosabhasya.txt). The
-kārikā halves are separated by the Śakra exchange, which the
-research summary did not reproduce. Page labels and verse
-marker are omitted. Forms including `parivṛttajanmano`,
-`nabhijñatvā`, `bhavatā "pyanivāraṇaṃ`, and
-`akuśalāmyākṛta` remain visible as witness readings. The
-question at [362|10] opens 6.42's account of intermingled dhyāna.
+> kāmadhātau parāvṛttajanmāntara āryo na dhātvantaraṃ gacchati / … tatraiva janmani parinirvāṇāt /
+> rūpadhātau tu … kadācid ārūpyān praviśati / ya ūrdhvasrotā bhavāgraparamah /
+> yattarhi śakreṇoktam … akaniṣṭhā … / abhidharmānabhijñatvād iti vaibhāṣikāḥ /
+> sa ca … naivendriyāṇi saṃcarati nāpi kathñcit parihīyate /
+> janmāntaraparivāsenendriyāṇāṃ paripakvataratvād āśrayaviśeṣalābhāc ca /
+> atha kasmād vītarāgaḥ śaikṣo nāntarāye parinirvāyī bhavati / … iti vaibhāṣikāḥ /
 
-## Continuous Conventional Translation
+**Witness.** Pradhan 361|15–362|09. Voices: Vasubandhu; Vaibhāṣika; śakra quote. 6.42 at 362|10.
 
-> Does this differentiation also hold for a non-returner who
-> has undergone another birth? Hence: “A Noble who has undergone
-> another birth in the desire-domain does not pass into another
-> realm.” Such a Noble does not enter another realm because,
-> having attained the fruit of non-return, final nirvāṇa is
-> reached in that same life. A Noble who has undergone another
-> birth in the form-domain, however, can sometimes enter the
-> formless levels: this is the upward-streamer whose maximal
-> destination is the summit of existence.
+## 3. Continuous Conventional Translation
+
+> After another desire-domain birth a Noble does not go to another realm: non-return
+> attained, final nirvāṇa in that life. After another form-domain birth, sometimes
+> the formless is entered — the upward-streamer whose cap is the summit. śakra said
+> he would be born among the Akaniṣṭhas. Vaibhāṣikas: he did not know the Abhidharma
+> on this. A damaged line may allow the speech as encouragement.
 >
-> But Śakra said that, upon falling from his present position,
-> he would be reborn among the gods called Akaniṣṭha. The
-> Vaibhāṣikas reply that he did not know the Abhidharma on this
-> point. The transmitted rejoinder appears to say that such
-> a statement is not to be prohibited, being intended to
-> encourage; its wording needs collation.
+> Neither that Noble nor one born above shifts faculties or falls away. Why not?
+> Because they do not occur. Why? Residence over another birth ripens the faculties
+> and a superior basis is got.
 >
-> “Neither that one nor a Noble born above undergoes transfer
-> of faculties or falling away.” The Noble who has undergone
-> another desire-domain birth and the Noble born in a higher
-> realm neither transfers faculties nor falls away in any way.
-> Why are entry into the form and formless realms, faculty-
-> transfer, and falling away denied to the former? Because
-> they do not occur. Why not? Through residence over another
-> birth, the faculties have become more mature and a superior
-> basis has been acquired.
->
-> Why does a desire-detached trainee not attain final nirvāṇa
-> in the intermediate existence? The Vaibhāṣikas say the Path
-> has not been mastered or brought into presence, the latent
-> tendencies are not weak enough, and the desire-domain current
-> is difficult to cross. Much remains to be done: abandoning
-> unwholesome and indeterminate afflictions, attaining two or
-> three further fruits of the contemplative life, and crossing
-> the three realms. A person in the intermediate existence is
-> unable to perform all this work.
+> Why does a desire-detached trainee not finish in the interval? Vaibhāṣikas: Path
+> not mastered, not made present; tendencies not weak enough; desire-current hard to
+> cross. Much left: abandon unwholesome and indeterminate afflictions, get two or
+> three further fruits, cross three realms. The interval-being cannot do all that.
 
-The Śakra rejoinder at [361|21] is damaged; the translation
-marks its sense as tentative. The Vaibhāṣika answers are kept
-attributed. `Asaṃmukhībhāva` is non-presence of the Path here,
-not a heightened presence or a completed realization.
+## 4. Movement of the Commentary
 
-## Movement of the Commentary
+```text
+kāma-reborn Noble: finishes here, no other realm
+form-reborn summit-streamer may enter ārūpya
+maturity + better āśraya → no saṃcāra, no parihāṇi
+detachment ≠ work finished
+```
 
-The first half imposes a **local realm restriction**. A Noble
-after another desire-domain birth reaches non-return and final
-nirvāṇa in that life, without a subsequent move to a different
-realm. The contrasting form-born upward-streamer may enter the
-formless levels. These cases should not be collapsed into one
-universal rule for every later-born Noble.
+## 5. Organon Light (typed)
 
-The Śakra quotation tests the restriction against a scriptural
-claim of future Akaniṣṭha birth. The Vaibhāṣikas invoke lack of
-Abhidharma knowledge; a further transmitted reply appears to
-read the statement as allowable encouragement. The source does
-not permit a secure harmonization without collation, so the
-voices and uncertainty remain distinct.
+```ts
+type AfterBirth = { facultyShift: false; fall: false };
+// asaṃmukhībhāva = Path not present, not "more present"
+```
 
-The second half excludes **indriya-saṃcāra** and **parihāṇi** for
-the two specified Noble positions. The explanation is positive:
-another birth has matured the faculties and supplied a superior
-`āśraya`, or support. The absence of regression is thus tied to
-formed capacity and basis, not merely stated as a prohibition.
+## 6. The Bhāṣya's Decisions for the Kārikā
 
-The final Vaibhāṣika answer prevents a hasty inference from
-desire-detachment to immediate final liberation. The trainee's
-Path may still be unmastered and non-present; latent tendencies
-may remain forceful; substantial work across affliction, fruit,
-and realm remains. The intermediate state cannot accommodate
-all of that work.
+- local restriction, not a universal freeze;
+- śakra line remains disputed;
+- Vaibhāṣika block on interval-liberation stays attributed.
 
-## Organon Response — Maturation Narrows Possible Transitions
+## 7. Review Status
 
-For our Science of Knowing, the passage shows that development
-can change the range of operations available to a continuum.
-Mature faculties and a superior support stabilize the attained
-Path; earlier possibilities of faculty-change and regression
-no longer apply to these particular positions. That is our
-Organon reading of the source's causal explanation.
-
-The text also keeps a crucial distinction between a Path
-already attained in some respect and a Path actually present
-for the work still required. This is a technical Abhidharma
-distinction, not yet a general proof that the Absolute is
-present to the practitioner.
-
-## Review Status
-
-Provisional official Bhāṣya study. The complete split-verse
-unit, omitted Śakra exchange, attributed Vaibhāṣika answers,
-faculty-maturation explanation, and boundary with 6.42 have
-been checked against the running source. The Śakra rejoinder
-and several transmitted forms remain for collation.
+Upgrade against kārikā Literal, first-pass parent, running source 361|15–362|09.
+Verse-English from [`VAK_6.41.md`](./VAK_6.41.md) §5 Literal. Medium; śakra wording for QA.
+Next: 6.42.
