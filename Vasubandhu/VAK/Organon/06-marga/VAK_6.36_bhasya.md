@@ -1,130 +1,69 @@
-# VAK 6.36 Bhāṣya — One Interval and Non-Return
+# VAK_6.36 Bhāṣya — One Interval; Ninth Grade Is Non-Return
 
-## Kārikā Anchor
+## 1. Kārikā Anchor
 
 > kṣīṇasaptāṣṭadoṣāṃśa ekajanmaikavīcikaḥ |
 > tṛtīyapratipannaś ca so 'nāgāmi navakṣayāt || 6.36 ||
 
-> One who has exhausted seven or eight portions of the faults is
-> one-birth, one-interval, and proceeding toward the third fruit.
-> With destruction of the ninth, that one is a non-returner.
+Literal (from the kārikā study):
 
-See the [official kārikā study](./VAK_6.36.md). The once-returner
-of 6.35 now moves toward the fruit of non-return.
+> One in whom seven or eight portions of the faults have been exhausted is
+> one-birth, one-interval, and proceeding toward the third [fruit]. From
+> destruction of the ninth, that one is a non-returner.
 
-## Continuous Sanskrit Witness
+Kārikā study: [`VAK_6.36.md`](./VAK_6.36.md). Next: 6.37, kinds of non-returner.
 
-> sa eva punaḥ phalasthaḥ /
-> kṣīṇasaptāṣṭadoṣāṃśa ekajanmaikavīcikaḥ /
-> tṛtīyapratipannaśca
-> tribhiḥ kāraṇaiḥ /
-> sa eva sakṛdāgāmyekavīcido veditavyaḥ /
-> saptāṣṭaprakāraprahāṇāt /
-> tatpratipakṣānāsravendriyalābhādekajanmāvaśeṣatvāt /
-> kathamasyaikaḥ prakāraḥ phalaṃ vidhnayitum śaknoti /
-> dhātvatikramāt /
-> avasthātraye hi karmāṇi vidhnāyopatiṣṭhanta" ityuktaṃ prāk /
-> yathā karmāṇyevaṃ kleśā api veditavyā iti /
-> vipākaniḥṣyandaphalabhūmyatikramāt /
-> vīcirnāmāntaraṃ tasya caikajamavyavahitatvāt nirvāṇasya ekakleśaprakāravyavahitatvādvā 'nāgāmiphalasyaiko vīcirasyetyekavīcikaḥ /
-> tṛtīyaphalapratipannakaścaikavīciko veditavyaḥ prahīṇasaptāṣṭaprakāraḥ /
-> pūrvaprahīṇaprakārastu phalaprāptau na tāvatkulaṅkulo bhavatyekavīciko vā yāvatphalaviśiṣṭo mārgo na samukhīkṛtaḥ /
-> so 'nāgāmī navakṣayāt
-> sa evapunaḥ phalastho navaprakāraprahāṇādanāgāmī upadiṣṭaḥ /
-> kāmadhātvanāgamanāt /
-> "pañcānāmavarabhāgīyānāṃ saṃyojanānāṃ prahāṇādi"tyucyate prahāṇasaṃkulanāt /
-> avaśyaṃ dve trīṇi vā pūrvaṃ prahīṇāni bhavanti /
+## 2. Continuous Sanskrit Witness
 
-The full unit runs from the final sentence at Pradhan [358|03]
-through [358|18] in the [running source](../../../Sources/kosabhasya.txt).
-The kārikā halves remain at their prose positions. Page labels
-and verse marker are omitted. The witness's `ekavīcido`,
-`vyavahitatvāt`, `samukhīkṛtaḥ`, and malformed citation punctuation
-remain visible for collation. The verse at [358|19] begins 6.37's
-classification of non-returners.
+> sa eva punaḥ phalasthaḥ / kṣīṇasaptāṣṭadoṣāṃśa ekajanmaikavīcikaḥ / tṛtīyapratipannaś ca /
+> tribhiḥ kāraṇaiḥ / … saptāṣṭaprakāraprahāṇāt / tatpratipakṣānāsravendriyalābhāt / ekajanmāvaśeṣatvāt /
+> katham asyaikaḥ prakāraḥ phalaṃ vighnayituṃ śaknoti / dhātvatikramāt /
+> vīcir nāmāntaram … ekajanmāvyavahitatvān nirvāṇasya / ekakleśaprakāravyavahitatvād vā 'nāgāmiphalasya /
+> … yāvat phalaviśiṣṭo mārgo na saṃmukhīkṛtaḥ /
+> so 'nāgāmī navakṣayāt / … kāmadhātv-anāgamanāt /
 
-## Continuous Conventional Translation
+**Witness.** Pradhan 358|03–358|18. Voice: Vasubandhu. 6.37 at 358|19.
 
-> That same person is again established in a fruit. “Having
-> exhausted seven or eight portions of faults, one-birth,
-> one-interval, and proceeding toward the third fruit”: the
-> once-returner is understood as one-interval for three reasons.
-> Seven or eight grades have been abandoned; the uncontaminated
-> faculty opposing them has been acquired; and only one birth
-> remains.
+## 3. Continuous Conventional Translation
+
+> That same fruit-established one: seven or eight fault-portions gone — one-birth,
+> one-interval, proceeding toward the third. Three reasons: those grades abandoned;
+> the opposing uncontaminated faculty acquired; one birth left.
 >
-> How can a single remaining grade obstruct the fruit? Because
-> the issue is crossing beyond a domain. Earlier it was said
-> that karmas obstruct at three critical states; afflictions
-> should be understood similarly, with respect to crossing
-> beyond maturation, outflow-result, and ground. *Vīci* means
-> an interval. One birth stands between the person and Nirvāṇa;
-> or one grade of affliction stands between the person and the
-> fruit of non-return. The one-interval practitioner, having
-> abandoned seven or eight grades, is thus proceeding toward
-> the third fruit. If grades were abandoned previously, merely
-> obtaining a fruit does not yet make one family-to-family or
-> one-interval; the Path superior to that fruit must first be
-> brought into presence.
+> How can one remaining grade block the fruit? Because what is at stake is crossing
+> a domain. Afflictions obstruct at transitions as karmas do. *Vīci* is an interval:
+> one birth from Nirvāṇa, or one affliction-grade from the non-return fruit. Prior
+> abandonment at fruit-attainment does not yet make family-to-family or one-interval
+> until the Path superior to that fruit is made present.
 >
-> “With destruction of the ninth, that one is a non-returner”:
-> the same fruit-established practitioner is so designated
-> because all nine grades have been abandoned and there is no
-> return to the desire-domain. The standard expression about
-> abandonment of the five lower fetters groups abandonments
-> together; two or three had necessarily been abandoned earlier.
+> Destruction of the ninth: non-returner — no coming again to the desire-domain.
+> “Five lower fetters abandoned” groups what was dropped; two or three were already
+> gone earlier.
 
-The compressed phrase `vipākaniḥṣyandaphalabhūmyatikramāt` and
-the two alternative `vīci` explanations are translated without
-forcing their distinct referents into one account. The witness's
-`ekajamavyavahitatvāt` is textually uncertain; the translation
-follows the locally explicit one-birth explanation.
+## 4. Movement of the Commentary
 
-## Movement of the Commentary
+```text
+7–8 = ekavīcika + third-fruit candidate
+9 = anāgāmin (no return to kāmadhātu)
+one grade can block a whole-domain crossing
+6.32 rule repeats: saṃmukhīkṛta required
+```
 
-The **ekavīcika** classification is threefold: seven or eight
-afflictive grades abandoned, corresponding uncontaminated
-counter-faculty acquired, and one birth remaining. Progress
-therefore involves a positive acquisition as well as removal.
-The practitioner is also **tṛtīyaphalapratipannaka**, proceeding
-toward the third fruit.
+## 5. Organon Light (typed)
 
-The objection about one remaining grade is answered by
-`dhātvatikrama`, crossing beyond a domain. A numerically small
-remainder may be structurally decisive when complete departure
-from the desire-domain is at stake. The Bhāṣya compares this
-obstructive function with karma at critical transitions. Its
-two explanations of `vīci` preserve different distances: one
-birth from Nirvāṇa, or one afflictive grade from non-return.
+```ts
+type Vici = "one_birth" | "one_grade";
+// dhātu here = kāmadhātu as realm of return, not the 18 Concept-cells
+```
 
-The earlier rule from 6.32 is repeated: prior abandonment does
-not automatically give an intermediate path-status. The Path
-superior to the attained fruit must actually be made present.
-When the ninth grade is destroyed, the person becomes
-**anāgāmin**, one who does not return to `kāmadhātu`. The
-standard five-lower-fetter formula gathers abandonments into
-one description even though some occurred earlier. The source
-therefore preserves the sequential causal account beneath a
-collective scriptural expression.
+## 6. The Bhāṣya's Decisions for the Kārikā
 
-## Organon Response — A Small Remainder With a Whole Domain at Stake
+- three causes, not one nickname;
+- two readings of vīci kept;
+- ninth is domain-exit, not item nine on a list.
 
-For our Science of Knowing, 6.36 shows why counting alone cannot
-measure a remaining obstacle. A single grade can still hold the
-boundary of a domain. Its removal is a change in what kinds of
-return remain possible. The simultaneous acquisition of an
-uncontaminated counter-faculty makes the transition positive as
-well as eliminative.
+## 7. Review Status
 
-This is our Organon reconstruction of the threshold. Vasubandhu
-states the grade count, domain-crossing argument, need to make
-the superior Path present, and non-return to the desire-domain.
-Those are Buddhist Path determinations; their possible relation
-to Nondual Absolute Reason requires another argument.
-
-## Review Status
-
-Provisional official Bhāṣya study. The split verse, three
-classification grounds, two `vīci` explanations, prior-abandonment
-qualification, and boundary with 6.37 have been checked against
-the running source. Damaged witness forms remain for collation.
+Upgrade against kārikā Literal, first-pass parent, running source 358|03–18.
+Verse-English from [`VAK_6.36.md`](./VAK_6.36.md) §5 Literal. Medium.
+Next: 6.37.
