@@ -1,103 +1,94 @@
-# VAK 6.07 Bhāṣya — Non-greed and the Noble Lineages
+# VAK_6.07 Bhāṣya — Counterforces, Non-Greed, Noble Lineages
 
-## Kārikā Anchor
+## 1. Kārikā Anchor
 
 > viparyāsāt tad-vipakṣau tri-dhātv-āptāv amalau ca tau |
 > alobha āryavaṃśāś ca teṣāṃ tuṣṭy-ātmakās trayaḥ || 6.07 ||
 
-> By reversal, there are two counterforces to those defects. They belong
-> to the three domains and may also be uncontaminated. Their own nature
-> is non-greed; so too are the noble lineages, three of which have
-> contentment as their nature.
+Literal (from the kārikā study):
 
-See the [official kārikā study](./VAK_6.07.md). The first quarter of
-the verse begins immediately after the 6.06 Bhāṣya's revised account of
-discontent and great desire.
+> By reversal, the two counterforces to those [two defects] belong to the three
+> domains and are also uncontaminated. Those two are non-greed. There are also
+> the noble lineages; among them, three have contentment as their nature.
 
-## Continuous Sanskrit Witness
+Kārikā study: [`VAK_6.07.md`](./VAK_6.07.md). Next: 6.08.
 
-> viparyāsāttadvipakṣau
+## 2. Continuous Sanskrit Witness
+
+> viparyāsāt tad-vipakṣau /
 > asaṃtuṣṭimahecchatāviparyayeṇa tatpratipakṣau veditavyau /
-> saṃtuṣṭiścālpecchatā ceti /
-> tridhātvāptāmalau ca tau /
-> tadvipakṣāviti vartate /
-> tridhātukau ca poratisaṃyuktau ca /
-> sāsravānāsravatvāt /
-> asaṃtuṣṭimahecchate ca kāmāvacaryāveva /
-> kaḥ punaranayoralpecchatāsaṃtuṣṭacyoḥ svabhāva ityāha /
-> alobhaḥ
-> alobhasvabhāve hyete /
-> āryavaṃśāśca
-> alobha iti vartate /
-> āryāṇāmebhyaḥ prasavādāryavaṃśāścatvāraḥ /
-> te 'pyalobhasvabhāvāḥ /
-> teṣāṃ tuṣṭacyātmakāstrayaḥ // 6.07 //
-> jsaṃtuṣṭisvabhāvāḥ /
-> cīvarapiṇḍapātaśayanāsanasaṃtuṣṭayaḥ /
-> prahāṇabhāvanārāmatā caturtha āryavaṃśaḥ kathamalobhasvabhāvaḥ /
+> saṃtuṣṭiś cālpecchatā ceti /
+> tridhātvāptāv amalau ca tau /
+> tad-vipakṣāv iti vartate /
+> tridhātukau ca … sāsravānāsravatvāt /
+> asaṃtuṣṭimahecchate ca kāmāvacaryāv eva /
+> kaḥ punar anayor alpecchatāsaṃtuṣṭyoḥ svabhāva ity āha /
+> alobhaḥ / alobhasvabhāve hy ete /
+> āryavaṃśāś ca / alobha iti vartate /
+> āryāṇām ebhyaḥ prasavād āryavaṃśāś catvāraḥ /
+> te 'py alobhasvabhāvāḥ /
+> teṣāṃ tuṣṭyātmakās trayaḥ // 6.07 //
+> saṃtuṣṭisvabhāvāḥ / cīvarapiṇḍapātaśayanāsanasaṃtuṣṭayaḥ /
+> prahāṇabhāvanārāmatā caturtha āryavaṃśaḥ katham alobhasvabhāvaḥ /
 > bhavakāmarāgavaimukhyāt /
 
-The full local unit runs from Pradhan [335|19] to [336|12] in the
-[running source](../../../Sources/kosabhasya.txt). The next question at
-[336|13], concerning what the Buddha showed through the four lineages,
-begins 6.08. Page labels have been removed; the running witness's
-irregular `poratisaṃyuktau`, `saṃtuṣṭacyoḥ`, `tuṣṭacyātmakās`, and
-`jsaṃtuṣṭisvabhāvāḥ` remain visible rather than silently emended.
+**Witness.** Pradhan 335|19–336|12. Voice: Vasubandhu, exposition. Running
+faults not adopted (`poratisaṃyuktau`, `tuṣṭacyātmakās`, `jsaṃtuṣṭisvabhāvāḥ`).
+6.08 begins 336|13.
 
-## Continuous Conventional Translation
+## 3. Continuous Conventional Translation
 
-> Through reversal of discontent and great desire, their two
-> counterforces are understood: contentment and fewness of wishes.
-> These two belong to the three domains and may be uncontaminated. They
-> are called counterforces; they occur in all three domains and may be
-> contaminated or uncontaminated. Discontent and great desire, by
-> contrast, belong only to the desire domain. What is the own nature
-> of fewness of wishes and contentment? Non-greed. Both have non-greed
-> as their own nature.
+> By reversal of discontent and great desire, their two counterforces are to be
+> known: contentment and fewness of wishes. Those two belong to the three
+> domains and are also uncontaminated — they occur in all three domains, and
+> they may be contaminated or uncontaminated. Discontent and great desire belong
+> only to the desire-domain.
 >
-> The noble lineages also have non-greed as their own nature. There are
-> four, called lineages of the noble ones because noble persons arise
-> from them. Three have contentment as their nature: contentment with
-> robes, with alms food, and with lodging. The fourth is delight in
-> cultivation and abandonment. How can it too have non-greed as its
-> own nature? Because it turns away from craving for existence and
-> sensual desire.
+> What is the own-nature of these two, fewness of wishes and contentment?
+> Non-greed. They have non-greed as own-nature.
+>
+> The noble lineages also: non-greed continues. They are four, lineages of the
+> noble because noble ones arise from them. They too have non-greed as
+> own-nature. Among them three have contentment as their nature: contentment
+> with robes, with alms-food, and with lodging. The fourth is delight in the
+> cultivation of abandonment. How is that also non-greed by nature? Because it
+> turns away from craving for existence and from sensual desire.
 
-## Movement of the Commentary
+## 4. Movement of the Commentary
 
-Vasubandhu first determines the positive counterforces to the two
-obstacles of 6.06. Discontent about what one has is opposed by
-contentment; desire directed toward greater unpossessed goods by
-fewness of wishes. This is a `vipakṣa` relation, not the bare absence
-of an unwanted state.
+```text
+reverse the two defects → saṃtuṣṭi / alpecchatā
+wider range than the defects; both sāsrava and anāsrava possible
+one svabhāva: alobha
+four āryavaṃśa; three are contentment; fourth is prahāṇa-bhāvanā-rāmatā
+```
 
-The counterforces have a wider range than the defects. They can occur
-in all three domains and may be either contaminated or uncontaminated;
-discontent and great desire are restricted to the desire domain. Their
-shared own nature is `alobha`. This gives the two practical virtues
-one doctrinal root while preserving their different relations to what
-is possessed and what is sought.
+## 5. Reversal ≠ Mere Absence
 
-The discussion then introduces four noble lineages. Three specify
-contentment in relation to robes, alms food, and lodging. The fourth,
-delight in cultivating abandonment, also has non-greed as its own
-nature because it turns away from craving for existence and sensual
-desire. Its object is wider than the goods governed by the first
-three. The Bhāṣya does not treat the fourth as greed for practice;
-its delight is determined by disengagement from craving.
+The defects stay in kāmadhātu. The counterforces do not. Virtue-name does not
+by itself fix Path-status: the same two may be contaminated or not. The fourth
+lineage is not greed-for-practice; the prose gives vaimukhya as the reason.
 
-## Organon Response — Counterforce and Path
+## 6. The Two Pairs and the Four
 
-The passage gives our Path synthesis a positive form of negation.
-Discontent and great desire do not disappear through simple omission;
-the practitioner develops contentment and fewness of wishes as
-determinate counterforces grounded in `alobha`. The fourth lineage
-extends this practical reorganization from possessions to the desire
-for becoming itself. This is our systematic reading of the source's
-counterforce structure, whose doctrinal terms remain Vasubandhu's.
+| defect | counterforce |
+|---|---|
+| asaṃtuṣṭi | saṃtuṣṭi |
+| mahecchatā | alpecchatā |
 
-## Review Status
+| āryavaṃśa | nature |
+|---|---|
+| robes / alms / lodging | saṃtuṣṭi |
+| delight in cultivating abandonment | alobha by turning from bhava- and kāma-rāga |
 
-Provisional official Bhāṣya study. The split kārikā and complete
-commentary boundary have been checked in the running source. The
-retained witness irregularities need collation before publication.
+## 7. The Bhāṣya's Decisions for the Kārikā
+
+- `tad-vipakṣau` named: saṃtuṣṭi, alpecchatā;
+- `alobhaḥ` = svabhāva of both, and of the lineages;
+- four lineages; three are the contentments the verse counted.
+
+## 8. Review Status
+
+Upgrade against kārikā Literal, first-pass parent, running source 335|19–336|12.
+Verse-English copied from [`VAK_6.07.md`](./VAK_6.07.md) §5 Literal. Provisional.
+Next: 6.08.
