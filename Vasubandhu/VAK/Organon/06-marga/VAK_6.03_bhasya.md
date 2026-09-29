@@ -154,18 +154,9 @@ definition of duḥkhatā.
 ## 4. Movement of the Talk
 
 ```text
-1. question     only pain-feeling is painful-by-nature;
-                why all sāsrava saṃskāras?
-2. verse        three modes / as applicable / without remainder
-3. map          manāpa / amanāpa / tadanya  ↔  three feelings
-4. deepen       distinctive modes named; saṃskāra-duḥkhatā of all
-5. who sees     ārya only; hair on palm / hair in eye; Avīci vs bhavāgra
-6. path-bar     conditioned ≠ this first truth; pratikūla is the mark
-7. how sukha    anitya-aspect draws duḥkha-aspect
-8. denial       ekīya: no pleasant feeling
-9. defense      ābhidhārmikāḥ: svalakṣaṇataḥ it exists
-10. two results same feeling: āsvāda → bandha; duḥkhato dṛṣṭa → mokṣa
-11. close       asty eva sukhā vedanā  AND  sarvaṃ sāsravaṃ duḥkham
+question → verse → three-feeling map → distinctive modes / universal depth
+who sees (hair; Avīci / bhavāgra) → path-bar → anitya draws duḥkha
+denial of pleasure → Abhidharmika defense → bondage / release → double close
 ```
 
 ## 5. What the Talk Refuses
@@ -207,45 +198,106 @@ definition of duḥkhatā.
 - `Āryā eva paśyanti` is a discrimination-claim, not extra pain-quota.
 - Close of the talk is a double siddhānta: pleasure stands; the verse stands.
 
-## 8. Philosophical and Organon Study
+## 8. Logical Determination
 
-This section is reconstruction. It is not the translation.
-
-This is Path as Concept-work doing something exact: one content, two questions.
-What is this feeling *as its own mark*? What is this feeling *in the contaminated
-field*? Vidyā holds both. The denial-school drops the first question. A crude
-“all is pain” monk drops it on purpose. Appearance would either cancel pleasure
-or cancel the first truth.
-
-The hair-image is not empty spiritual light. It is content: the same saṃskāra
-hair, two seats of knowing. Palm does not feel it. Eye cannot not feel it. That
-is śakti of seeing from 6.01, now in a concrete case.
-
-`Anityākāra ākarṣati duḥkhākāram` is the talk’s inner machine. Impermanence is
-not already suffering. Seen, it *draws* the adverse aspect. That is not a leak
-of Jñāna-as-Idea into this chapter. It is still Path-Concept: an aspect pulling
-an aspect.
-
-Practical consequence is stated without metaphysics:
+These are the talk's own joints. Not imported science.
 
 ```text
-same sukhā vedanā
-    sukhato dṛṣṭā + āsvāda  → bandha
-    duḥkhato dṛṣṭā + vairāgya → mokṣa
+sāsrava-saṃskāra(x)  →  duḥkha-satya(x)
+     by yathāyogam + aśeṣataḥ
 ```
 
-The Buddhas do not command a lie. They command the seeing that releases.
+```text
+amanāpa(x)   → distinctive duḥkha-duḥkhatā
+manāpa(x)    → distinctive vipariṇāma-duḥkhatā
+tadanya(x)   → distinctive saṃskāra-duḥkhatā
+saṃskāra(x)  → depth saṃskāra-duḥkhatā     (the “tu” sentence)
+```
 
-Sāṃkhya hears an echo (transformation, formation). Do not import Puman. Do not
-refute Puman with this talk. Pudgala is not on the table.
+```text
+saṃskṛta(x)  ⇏  duḥkha-satya(x)
+mārga(x) ∧ ¬pratikūla-to-ārya(x)  →  ¬duḥkha-satya(x)
+```
 
-## 9. Review Status
+```text
+sukhā vedanā
+    svalakṣaṇataḥ     = sukha
+    paryāyataḥ         = duḥkha   (vipariṇāma + anitya)
+```
 
-Major QA against:
+No contradiction: the predicates answer different questions.
 
-- running source 328|23–333|02;
-- first-pass `Vasubandhu/VAK/06-marga/VAK_6.03_bhasya.md` (Pradhan span held);
-- Organon kārikā `VAK_6.03.md`.
+```text
+anitya-dṛṣṭa  →  pratikūla  →  duḥkha-ākāra
+     (anityākāra ākarṣati duḥkhākāram)
+```
 
-Prior short Organon bhāṣya replaced. Hinge at 333|02–03 (samudaya) left for the
-next unit. Not a critical edition. Provisional.
+Impermanence is not already the first truth. Seen, it draws the adverse aspect.
+
+```text
+sukhato dṛṣṭā + āsvāda     → bandha
+duḥkhato dṛṣṭā + vairāgya  → mokṣa
+```
+
+Same feeling. Two seeings. Two destinies. That is the Path-power opened in 6.01,
+now as a determination, not as a mood.
+
+`Ābhiprāyika` blocks the collapse: “whatever is felt is of suffering” does not
+cancel the three feelings the same teacher named.
+
+## 9. Interpretive Note
+
+**Conventional layer stays with the talk.** Pleasure exists. The contaminated
+field is this first truth. The path is conditioned and not this truth. Those are
+Vasubandhu's closes, not ours.
+
+**This section is reconstruction.**
+
+Path here is Concept-work: typed aspects, typed results. Not Jñāna as Idea. Vidyā
+sees both determinations of one content and does not smash either. Appearance
+would cancel pleasure or cancel the first truth. The denial-school takes the
+first cancellation and calls it holiness.
+
+The hair is content, not empty light. Same saṃskāra-hair; palm does not know it;
+eye cannot not know it. That is seeing's śakti from 6.01 in a body-image.
+
+Sāṃkhya hears transformation and formation. Do not import Puman. Do not “refute
+Puruṣa” with this talk. Pudgala is not on the table.
+
+The Buddhas command the seeing that releases. They do not command a lie that the
+feeling was never pleasant.
+
+## 10. OWL++ Seed
+
+```text
+Class: SasravaSamskara
+Class: DuhkhaSatyaObject
+Class: Marga
+Class: SukhaVedana
+Class: Duhkhata
+Class: Akara
+
+SasravaSamskara SubClassOf DuhkhaSatyaObject
+Marga not SubClassOf DuhkhaSatyaObject
+
+ObjectProperty: hasDistinctiveDuhkhata
+ObjectProperty: hasDepthDuhkhata
+ObjectProperty: hasSvalaksana
+ObjectProperty: hasParyaya
+ObjectProperty: draws
+
+AnityaAkara draws DuhkhaAkara
+SukhaVedana hasSvalaksana Pleasantness
+SukhaVedana hasParyaya DuhkhaUnderTransformationAndImpermanence
+
+Constraint: Conditionedness doesNotEntail DuhkhaSatyaObject
+Constraint: AbhiprayikaSutra doesNotCancel ThreeFeelings
+```
+
+Declarative seed, not executable OWL.
+
+## 11. Review Status
+
+Major QA against running source 328|23–333|02; first-pass parent bhāṣya; Organon
+kārikā. Stages 8–9 restored as Logical Determination and Interpretive Note.
+Hinge at 333|02–03 left for samudaya. Not a critical edition. Provisional.
