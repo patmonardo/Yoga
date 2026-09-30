@@ -60,7 +60,7 @@ bhavāgra vairāgya: lokottara only
 ## 5. Organon Light (typed)
 
 ```ts
-type Arhat = { fruit: "arh//attva"; trainTowardNextFruit: false };
+type Arhat = { fruit: "arhattva"; trainTowardNextFruit: false };
 // give her the due: completed work, not a failed Ārya
 // Bodhicitta is not smuggled in as the better name for this fruit
 ```
