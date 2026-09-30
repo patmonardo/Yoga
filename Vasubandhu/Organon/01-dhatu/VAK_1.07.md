@@ -12,99 +12,162 @@
 >
 > sa evādhvā kathāvastu saniḥsārāḥ savastukāḥ // 1.07 //
 
+## 3. Padaccheda and Lexical Analysis
 
-## 3. Lexical Analysis
+**Padaccheda**
 
-| Form | Padaccheda | Meaning |
+te | punaḥ | saṃskṛtāḥ | dharmāḥ | rūpa-ādi-skandha-pañcakam |
+saḥ | eva | adhvā | kathā-vastu | sa-niḥsārāḥ | sa-vastukāḥ
+
+| Form | Analysis | Contextual force |
 |---|---|---|
-| te punaḥ | te punaḥ | these again |
-| saṃskṛtāḥ dharmāḥ | saṃskṛtāḥ dharmāḥ | conditioned dharmas |
-| rūpādi-skandha-pañcakam | rūpa-ādi-skandha-pañcakam | five aggregates beginning with form |
-| saḥ eva | saḥ eva | that very same |
-| adhvā | adhvā | temporal course |
-| kathā-vastu | kathā-vastu | basis of discourse |
-| sa-niḥsārāḥ | sa-niḥsārāḥ | possessed of an exit; the Bhāṣya identifies it as nirvāṇa |
-| sa-vastukāḥ | sa-vastukāḥ | possessed of causes, under the local Vaibhāṣika gloss of `vastu` |
+| **te** | nominative masculine plural pronoun | those already marked as conditioned in 1.04–1.05 |
+| **punaḥ** | indeclinable | resumes and specifies; not a new inventory |
+| **saṃskṛtāḥ** | nominative masculine plural past passive participle | made by conditions acting together |
+| **dharmāḥ** | nominative masculine plural | the classified field, not “phenomena” as a modern leftover |
+| **rūpa-ādi-skandha-pañcakam** | nominative neuter singular collective compound | the five aggregates beginning with material form |
+| **saḥ eva** | demonstrative + restrictive particle | that very same field; paryāya, not addition |
+| **adhvā** | nominative masculine singular | temporal course: the conditioned under gone / going / about-to-go |
+| **kathā-vastu** | nominative neuter singular compound | basis of discourse; what meaningful speech takes up |
+| **sa-niḥsārāḥ** | nominative masculine plural bahuvrīhi | possessed of an exit |
+| **sa-vastukāḥ** | nominative masculine plural bahuvrīhi | possessed of a *vastu*; locally glossed as causes |
+
+The second line does not add four extra classes beside the five aggregates. It redescribes the same conditioned field.
 
 ## 4. Grammar
 
-The verse identifies the conditioned dharmas:
+Identity first, then paryāya:
 
 ```text
 saṃskṛtā dharmāḥ
     = rūpādi-skandha-pañcakam
-    = the five aggregates beginning with form
 ```
 
-The same conditioned field is then described as the temporal courses, basis of
-discourse, possessed of an exit, and possessed of causes. The last rendering
-follows the Vaibhāṣika gloss reported by the Bhāṣya; it does not set a
-universal meaning for `vastu`.
+`Pañcakam` is a collective singular predicate of a plural subject. The five are one conditioned field under aggregate-form.
 
-## 5. Literal Translation
+`Sa eva` binds every remaining name to that same subject:
 
-> Those conditioned dharmas, again, are the five aggregates beginning with form. Those very same dharmas are the temporal courses, the basis of discourse, possessed of an exit, and possessed of a basis (`vastu`).
+```text
+saṃskṛta-field
+    = adhvan
+    = kathāvastu
+    = saniḥsāra
+    = savastuka
+```
+
+The Bhāṣya supplies the two derivations of `adhvan`, the Prakaraṇa constraint on `kathāvastu`, the identification of `niḥsāra` with nirvāṇa, and the attributed Vaibhāṣika gloss of `vastu` as `hetu`. Those belong to the study translation, not to the close construe.
+
+## 5. Translation
+
+### Literal Translation
+
+Those conditioned dharmas, again, are the five aggregates beginning with form. That very same [field] is the temporal course, the basis of discourse, possessed of an exit, and possessed of a *vastu*.
+
+### Bhāṣya-informed study translation
+
+The conditioned dharmas are the five aggregates beginning with material form. They are called conditioned because they are made by conditions that come together and act together; nothing is produced by a single condition. That same field is the temporal courses, because it has the states of having gone, going, and being about to go — or because it is consumed by impermanence. It is the basis of discourse, because meaningful speech takes the conditioned as its basis; otherwise the Prakaraṇa statement that the bases of discourse are included in the eighteen domains would be contradicted. It is possessed of an exit, because nirvāṇa is the exit from everything conditioned. It is possessed of a *vastu*, because it has causes: the Vaibhāṣikas say that here the word *vastu* expresses cause.
 
 ## 6. Philosophical Translation
 
-> Conditioned dharmas are the five aggregates beginning with material form. The same dharmas are the temporal courses and the basis of meaningful discourse; they possess nirvāṇa as their exit and, under the Vaibhāṣika explanation reported here, causes as their `vastu`.
+Conditioned dharmas are not an open remainder after the unconditioned have been named. They are the five aggregates as one field. Time, speech, exit, and causal grounding are determinations of that field, not four extra heaps.
 
-Organon rendering:
+Organon rendering (project reconstruction; not Vasubandhu's wording):
 
-> The conditioned field is not an abstract list. It is aggregate structure, temporal course, and basis of discourse; it is produced through causes and stands in relation to nirvāṇa as its exit. The five aggregates are the first articulated body of conditioned determination.
+```text
+saṃskṛta
+    = Being under aggregate-form (skandha)
+    = the same field as temporal course
+    = the same field as what discourse can take as vastu
+    = the same field as having nirvāṇa for exit
+    = the same field as having hetu for vastu (local gloss)
+```
+
+Skandha is the first official Being-form of the conditioned. Āyatana and Dhātu are not yet in play. Do not call this verse the Concept.
 
 ## 7. Technical Vocabulary
 
-| Sanskrit | Project rendering | Note |
-|---|---|---|
-| saṃskṛta | conditioned | constructed by grounds and conditions |
-| skandha | aggregate | structured aggregate-field |
-| rūpa | form / material form-bearing domain | first aggregate |
-| adhvā | temporal course | conditioned dharmas across time |
-| kathāvastu | basis of discourse | what doctrinal speech concerns |
-| niḥsāra | exit | nirvāṇa is the exit from everything conditioned in the Bhāṣya |
-| saniḥsāra | possessed of an exit | the conditioned has nirvāṇa as its exit |
-| vastu | cause in this local gloss | Vaibhāṣika explanation reported by the Bhāṣya; other uses remain open |
-| savastuka | possessed of a basis; locally, with causes | causal rendering follows that attributed gloss |
+These renderings are proposed as import-lexicon for the rest of Dhātu-nirdeśa. Conventional column answers the Sanskrit and Bhāṣya. Organon column is project determination and must not leak back into §5.
+
+| Sanskrit | Conventional rendering | Organon determination | Do not use |
+|---|---|---|---|
+| **saṃskṛta** | conditioned | jointly produced; plural *pratyaya* is constitutive | “compounded” as mere part-assembly; “created” |
+| **dharma** | dharma | holding-to-be-true remains a deferred Organon thesis (`√dhṛ`) | “phenomenon,” “factor” as a emptied placeholder |
+| **skandha** | aggregate | Being: the conditioned gathered as one articulated body | “heap” as dismissive; “Being” inside conventional English |
+| **rūpa-skandha** | aggregate of material form | first actuality of the conditioned field; inventory begins at 1.09 | “matter” as modern mass; “body” alone |
+| **vedanā-skandha** | aggregate of feeling | not yet defined; do not psychologize in advance | “sensation” if that erases affective determination |
+| **saṃjñā-skandha** | aggregate of recognition | DHI-side naming-power; full JÑA↔DHI treatment deferred | “perception”; silent drop of this member |
+| **saṃskāra-skandha** | aggregate of formations | residual conditioned after the other four; Prajñā later lives here as *caitta* | “volitions” as the whole skandha |
+| **vijñāna-skandha** | aggregate of cognition | Knowing under *vi-*; object-indexed apprehension from 1.16 | English “consciousness” (that word belongs to Cit–Citi–Citta) |
+| **adhvan** | temporal course | the conditioned themselves as gone / going / about-to-go | time as an independent container |
+| **kathā** | discourse / speech | *vākya*; doctrinal speech, not chat | “story” |
+| **kathāvastu** | basis of discourse | what Science can take up; Prakaraṇa includes it in the eighteen Domains | “topic of conversation” |
+| **niḥsāra / niḥsaraṇa** | exit | nirvāṇa as exit from *all* saṃskṛta | an exit located inside the conditioned |
+| **saniḥsāra** | possessed of an exit | the conditioned stand in relation to that exit | “having essence” by false etymology |
+| **vastu** | *vastu*; locally “cause” | Thing / real basis in other uses; Object is later, as comprehended Truth of the Thing | universal equation *vastu* = *hetu* |
+| **savastuka** | possessed of a *vastu*; here, of causes | causal grounding under an attributed Vaibhāṣika gloss | first-pass “with real basis” as if that were this verse's own gloss |
+| **pratyaya** | condition | co-acting grounds; *na hy ekapratyayajanitaṃ kiñcid asti* | isolated efficient cause |
+| **paryāya** | alternative designation | same field, several lawful names | synonym that can be swapped without remainder |
+
+**Import rule for later verses.** Until a later card revises a row, Dhātu-nirdeśa uses this table. `Vijñāna` will be defined at 1.16 as *prativijñapti / upalabdhi*; this card only forbids emptying the fifth aggregate and forbids “consciousness.”
 
 ## 8. Logical Determination
 
-VAK_1.07 gives the conditioned side of the architecture:
-
 ```text
-saṃskṛta dharmas
-    = five aggregates
+Conditioned(x) ↔ AggregateMember(x)
+Unconditioned(x) → ¬AggregateMember(x)
 ```
 
-The same field is determined under several aspects:
+The Path remains conditioned (1.04) and therefore belongs to the five aggregates. Outflow-status is a different axis:
 
 ```text
-aggregate
-    temporal course
-    discourse-basis
-    possessed of an exit in nirvāṇa
-    possessed of causes (Vaibhāṣika gloss)
+Conditioned(x)
+    ↛ Sāsrava(x)
 ```
+
+Paryāya structure:
+
+```text
+SameField(aggregates)
+    ∧ TemporalCourse(aggregates)
+    ∧ DiscourseBasis(aggregates)
+    ∧ HasExit(aggregates, nirvana)
+    ∧ HasVastu(aggregates)
+```
+
+Local gloss, marked as attributed:
+
+```text
+VaibhasikaClaim: vastu-śabda = hetu-vacana
+∴ Savastuka(x) ↔ HasCause(x)     // here only
+```
+
+Discourse constraint from the Prakaraṇa citation:
+
+```text
+Kathavastu ⊆ EighteenDhatus
+```
+
+That is the first textual hitch of Domain into speech. It is not yet the Concept-reading of the six vijñāna-dhātus.
+
+Future dharmas may be called conditioned by kind (*tajjātīyatva*), as milk and fuel are named before use. Prospective naming does not make the future presently produced.
 
 ## 9. Interpretive Note
 
-This verse bridges the pure division of dharmas into the analytic apparatus of aggregates. The five aggregates are not merely psychological categories. They are the whole conditioned field under aggregate-form.
+VAK 1.04–1.06 divided dharmas by outflow and by the three unconditioned. VAK 1.07 gives the conditioned their body: five aggregates. The chapter can now stop saying “conditioned” as a remainder and start analyzing a field.
 
-Organon note:
+Two restraints.
 
-```text
-conditioned dharma
-    = aggregate-structure
-    = temporal course
-    = basis for discourse
-    = possessed of nirvāṇa as an exit
-    = causally grounded under the attributed Vaibhāṣika gloss
-```
+First, the local e-text at Pradhan `[004|26]` lists rūpa, vedanā, saṃskāra, vijñāna and omits saṃjñā. The kārikā says *pañcakam*. The omission is a witness fault, not a four-aggregate doctrine. Recognition stays in the inventory.
 
-The system gives several determinations of the same conditioned field.
-`Savastuka` is rendered causally here because the Bhāṣya attributes that
-explanation to the Vaibhāṣikas; it is not a general equation of `vastu` and
-cause.
+Second, *savastuka* is the place where first-pass English and the Bhāṣya part company. “With real basis” is a possible sense of *vastu* elsewhere and an Organon sense of Thing. It is not this gloss. Here the Vaibhāṣikas take *vastu* as *hetu*. Keep the Thing-reading available; do not smuggle it into the conventional line.
+
+Organon, marked as project:
+
+This verse is where Skandha becomes usable as Being. The five are not a psychological toolkit laid beside two other lists. They are the conditioned as gathered determination. Essence (āyatana as capacity/field) and Concept (only the six vijñāna-dhātus as Reciprocates) are later grades of the same movement. Saying that here as Science is allowed; writing it into the translation is not.
+
+*Kathāvastu* matters for the Organon product. Discourse does not float over the field. The Prakaraṇa already includes the bases of discourse in the eighteen Domains. Dharma-skandha as communicable Science has its first textual hook in this paryāya.
+
+Nirvāṇa as *niḥsāra* is exit from the whole conditioned, including the Path as conditioned. The exit is not a sixth aggregate and not a mood.
 
 ## 10. OWL++ Seed
 
@@ -118,7 +181,36 @@ vak:VAK_1_07
     vak:hasTopic vak:ConditionedDharmasAsAggregates ;
     vak:belongsTo vak:Dhatunirdesa .
 
-vak:ConditionedDharmas
+vak:ConditionedDharma
     vak:identifiedWith vak:FiveAggregates ;
-    vak:hasAspect vak:TemporalCourse , vak:DiscourseBasis , vak:ExitInNirvana , vak:PossessedOfCauses .
+    vak:hasParyaya vak:TemporalCourse ,
+                    vak:DiscourseBasis ,
+                    vak:PossessedOfExit ,
+                    vak:PossessedOfVastu .
+
+vak:FiveAggregates
+    vak:includes vak:RupaSkandha ,
+                 vak:VedanaSkandha ,
+                 vak:SamjnaSkandha ,
+                 vak:SamskaraSkandha ,
+                 vak:VijnanaSkandha .
+
+vak:SamjnaSkandha
+    vak:witnessNote "omitted at local [004|26]; restored from pañcakam" .
+
+vak:Sanihsara
+    vak:hasExit vak:Nirvana .
+
+vak:Savastuka
+    vak:localGloss vak:PossessedOfCauses ;
+    vak:glossAttributedTo vak:Vaibhasika ;
+    vak:doesNotUniversalize vak:VastuAsHetu .
+
+vak:Kathavastu
+    vak:includedWithin vak:EighteenDhatus ;
+    vak:source "Prakaraṇa citation at [005|05]" .
+
+vak:VijnanaSkandha
+    rdfs:label "cognition aggregate" ;
+    vak:forbiddenLabel "consciousness" .
 ```
