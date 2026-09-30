@@ -1,4 +1,4 @@
-# VAK_1.07 Bhāṣya — Conditioned Dharmas and Their Designations
+# VAK_1.07 Bhāṣya — Conditioned Dharmas as the Five Aggregates
 
 ## 1. Kārikā Anchor
 
@@ -6,192 +6,90 @@
 >
 > sa evādhvā kathāvastu saniḥsārāḥ savastukāḥ // 1.07 //
 
-> Those conditioned dharmas are the five aggregates beginning with material
-> form. Those very same dharmas are the temporal courses, the basis of
-> discourse, possessed of an exit, and possessed of causes.
+Literal (from the kārikā study):
 
-The Bhāṣya defines the conditioned through the convergent activity of plural
-conditions. It then explains the remaining expressions as alternative
-designations of this same field under temporal, discursive, soteriological,
-and causal relations.
+> Those conditioned dharmas, again, are the five aggregates beginning with form. That very same [field] is the temporal course, the basis of discourse, possessed of an exit, and possessed of a *vastu*.
 
-## 2. Continuous Sanskrit
+Kārikā study: [`VAK_1.07.md`](./VAK_1.07.md). Previous: 1.06, the two cessations. Next: 1.08, the sāsrava restriction of the aggregates.
+
+## 2. Continuous Sanskrit Witness
 
 > yat tūktam “saṃskṛtā mārgavarjitāḥ sāsravā” iti katame te saṃskṛtāḥ /
-> te punaḥ saṃskṛtā dharmā rūpādiskandhapañcakam / rūpaskandho
-> vedanāskandhaḥ saṃskāraskandho vijñānaskandhaś cety ete saṃskṛtā
-> dharmāḥ / sametya saṃbhūya pratyayaiḥ kṛtā iti saṃskṛtāḥ / na hy
-> ekapratyayajanitaṃ kiñcid astīti / tajjātīyatvād anāgateṣv avirodho
-> dugdhendhanavat /
+> te punaḥ saṃskṛtā dharmā rūpādiskandhapañcakam /
+> rūpaskandho vedanāskandhaḥ saṃskāraskandho vijñānaskandhaś cety ete saṃskṛtā dharmāḥ /
+> sametya saṃbhūya pratyayaiḥ kṛtā iti saṃskṛtāḥ / na hy ekapratyayajanitaṃ kiñcid astīti /
+> tajjātīyatvād anāgateṣv avirodho dugdhendhanavat /
 >
-> ta evādhvā kathāvastu saniḥsārāḥ savastukāḥ / ta eva saṃskṛtā
-> gatagacchadgamiṣyadbhāvād adhvānaḥ, adyante 'nityatayeti vā / kathā
-> vākyam, tasyā vastu nāma / sārthakavastugrahaṇāt tu saṃskṛtaṃ
-> kathāvastūcyate / anyathā hi prakaraṇagrantho virudhyeta /
-> “kathāvastūny aṣṭādaśabhir dhātubhiḥ saṃgṛhītāni” / niḥsaraṇaṃ
-> niḥsāraḥ sarvasya saṃskṛtasya nirvāṇam / tad eṣām astīti saniḥsārāḥ /
-> sahetukatvāt savastukāḥ / hetuvacanaḥ kila vastuśabda iti vaibhāṣikāḥ /
+> ta evādhvā kathāvastu saniḥsārāḥ savastukāḥ /
+> ta eva saṃskṛtā gatagacchadgamiṣyadbhāvād adhvānaḥ, adyante 'nityatayeti vā /
+> kathā vākyam, tasyā vastu nāma /
+> sārthakavastugrahaṇāt tu saṃskṛtaṃ kathāvastūcyate /
+> anyathā hi prakaraṇagrantho virudhyeta /
+> “kathāvastūny aṣṭādaśabhir dhātubhiḥ saṃgṛhītāni” /
+> niḥsaraṇaṃ niḥsāraḥ sarvasya saṃskṛtasya nirvāṇam /
+> tad eṣām astīti saniḥsārāḥ /
+> sahetukatvāt savastukāḥ /
+> hetuvacanaḥ kila vastuśabda iti vaibhāṣikāḥ /
 > ity ete saṃskṛtadharmaparyāyāḥ /
 
-This unit runs from the question identifying the conditioned dharmas at
-`[004|23]` through the conclusion that these expressions are alternative
-designations at `[005|08]`. The next sentence begins the account of 1.08.
-The local IAST text omits `saṃjñāskandha` from its prose list of five
-aggregates. It reads `dhārmā` in the first verse citation,
-`adyante 'nitayatyeti vā` in the second derivation of `adhvan`,
-`kathā vāvāyam`, `saṃskṛntaṃ`, `urakaraṇagrantho`, `vaibhāṣicāḥ`, and
-`saṃskṛtadharmauaryāyāḥ`. This transcription normalizes these as `dharmā`,
-`adyante 'nityatayeti vā`, `kathā vākyam`, `saṃskṛtaṃ`,
-`prakaraṇagrantho`, `vaibhāṣikāḥ`, and `saṃskṛtadharmaparyāyāḥ` for reading.
-The local IAST is an edited best reading based especially on Pradhan and also
-on Shastri; its original e-text provenance is unknown, and it is not a
-critical edition. The omission of `saṃjñāskandha` is retained rather than
-silently repaired. These normalizations have not been independently checked
-against the printed editions. The second derivation of `adhvan` remains
-especially uncertain.
+**Witness.** Pradhan `[004|23]`–`[005|08]`. Voice: Vasubandhu, with one attributed Vaibhāṣika gloss on *vastu*. 1.08 begins at the next `ta eva punaḥ saṃskṛtā dharmāḥ`.
+
+**Faults in the local IAST.** The prose list at `[004|26]` omits `saṃjñāskandha`. This transcription keeps that omission in the witness line above and does not silently repair it. Other local forms normalized for reading: `dhārmā` → `dharmā`; `adyante 'nitayatyeti vā` → `adyante 'nityatayeti vā`; `kathā vāvāyam` → `kathā vākyam`; `saṃskṛntaṃ` → `saṃskṛtaṃ`; `urakaraṇagrantho` → `prakaraṇagrantho`; `vaibhāṣicāḥ` → `vaibhāṣikāḥ`; `saṃskṛtadharmauaryāyāḥ` → `saṃskṛtadharmaparyāyāḥ`. The local IAST is an edited best reading based especially on Pradhan and also on Shastri; it is not a critical edition. The second derivation of `adhvan` remains especially uncertain. These normalizations have not been independently checked against the printed editions.
 
 ## 3. Continuous Conventional Translation
 
-> As for what was said, “Conditioned dharmas, excluding the Path, are with
-> outflows”: which are those conditioned dharmas? Those conditioned dharmas
-> are the five aggregates beginning with material form. The aggregate of
-> material form, the aggregate of feeling, the aggregate of formations, and
-> the aggregate of consciousness—these are the conditioned dharmas.
+> As for what was said — “Conditioned dharmas, excluding the Path, are with outflows” — which are those conditioned dharmas? Those conditioned dharmas are the five aggregates beginning with material form. The aggregate of material form, the aggregate of feeling, the aggregate of formations, and the aggregate of cognition — these are the conditioned dharmas.
 >
-> They are called conditioned because they are made by conditions coming
-> together and combining. For nothing is produced by a single
-> condition. There is no contradiction in applying the term to future
-> dharmas, because they belong to the same kind, as with milk and fuel.
+> They are called conditioned because they are made by conditions coming together and combining. For nothing is produced by a single condition. There is no contradiction in applying the term to future dharmas, because they belong to the same kind, as with milk and fuel.
 >
-> Those very same dharmas are the temporal courses, the basis of discourse,
-> possessed of an exit, and possessed of causes. The conditioned dharmas are
-> the temporal courses because they have the states of having gone, going,
-> and being about to go, or because they are consumed by impermanence.
+> Those very same dharmas are the temporal courses, the basis of discourse, possessed of an exit, and possessed of a *vastu*. The conditioned dharmas are the temporal courses because they have the states of having gone, going, and being about to go, or because they are consumed by impermanence.
 >
-> Discourse is speech, and that which is its basis is so called. Because
-> meaningful discourse takes conditioned things as its basis, the conditioned
-> is called the basis of discourse. Otherwise the Prakaraṇa treatise would be
-> contradicted: “The bases of discourse are included within the eighteen
-> domains.”
+> Discourse is speech, and that which is its basis is so called. Because meaningful discourse takes the conditioned as its basis, the conditioned is called the basis of discourse. Otherwise the Prakaraṇa treatise would be contradicted: “The bases of discourse are included within the eighteen domains.”
 >
-> Nirvāṇa is the exit from everything conditioned. Because the conditioned
-> dharmas have this exit, they are called possessed of an exit. Because they
-> possess causes, they are called possessed of causes. The Vaibhāṣikas say
-> that the word `vastu` here expresses “cause.” These are alternative
-> designations of conditioned dharmas.
+> Nirvāṇa is the exit from everything conditioned. Because the conditioned dharmas have this exit, they are called possessed of an exit. Because they possess causes, they are called possessed of a *vastu*. The Vaibhāṣikas say that the word *vastu* here expresses “cause.” These are alternative designations of conditioned dharmas.
+
+The conventional list follows the local witness and therefore names four aggregates in the prose expansion. The kārikā's *pañcakam* still requires five; recognition is the omitted member, not a doctrinal deletion.
 
 ## 4. Movement of the Commentary
 
-The commentary first identifies and defines the conditioned field, then
-unfolds the several relations named in the second half of the verse:
-
 ```text
-Which dharmas are conditioned?
-    → the five aggregates
-    → produced through the convergence of plural conditions
-    → future dharmas included by belonging to the same kind
-
-How else is this same field designated?
-    → temporal courses: past, present, and future
-    → basis of discourse: what meaningful speech takes up
-    → possessed of an exit: nirvāṇa is its exit
-    → possessed of causes: the Vaibhāṣika explanation of vastu
+1.04 named the conditioned, Path excepted, as sāsrava
+    → which, then, are the conditioned?
+        → five aggregates beginning with rūpa
+        → produced by plural conditions acting together
+        → future included by kind (milk, fuel)
+    → the same field under other names
+        → temporal course
+        → basis of discourse (Prakaraṇa: inside the 18 domains)
+        → possessed of exit = nirvāṇa
+        → possessed of vastu = causes (Vaibhāṣika, kila)
 ```
 
-The two active topics are the joint production of conditioned dharmas and the
-different relations disclosed by their alternative designations.
+Two active topics: joint production, and paryāya of one field. The commentary does not begin the internal analysis of rūpa; that is 1.09.
 
-## 5. The Conditioned as Jointly Produced
+## 5. The Bhāṣya's Decisions for the Kārikā
 
-The five aggregates give the complete aggregate-description of conditioned
-dharmas. The local IAST text lists material form, feeling, formations, and
-consciousness but omits recognition (`saṃjñā`) in its prose expansion. Since
-the kārikā explicitly says “five aggregates,” the omission should remain a
-textual note rather than determine the doctrinal inventory.
+1. The five aggregates *are* the conditioned under aggregate-description. The missing recognition aggregate in the local prose is a textual omission.
+2. `Saṃskṛta` means produced through plural conditions coming together and combining. A single condition produces nothing here.
+3. `Adhvan` names those same dharmas under past, present, and future determination, with a second, less secure derivation from being consumed by impermanence.
+4. `Kathāvastu` is constrained by the Prakaraṇa: bases of discourse are included in the eighteen domains. The term is not a casual topic-name.
+5. `Saniḥsāra` means possessed of an exit; that exit is nirvāṇa from all that is conditioned. Nirvāṇa is not placed inside the field.
+6. `Savastuka` is locally “possessed of causes,” by an attributed Vaibhāṣika explanation of *vastu* as *hetu*. That explanation does not govern every later use of *vastu*.
 
-The derivation of `saṃskṛta` makes production relational:
+The first-pass kārikā line “with real basis” is therefore withdrawn from the conventional rendering of this verse.
 
-```text
-conditions come together and act together
-    → a conditioned dharma is produced
+## 6. Organon Note
 
-no conditioned dharma
-    ← one isolated condition alone
-```
+Marked as project reconstruction.
 
-The future can still be called conditioned because future dharmas belong to
-the kind produced in this way. The milk-and-fuel analogy supports prospective
-naming, although the compressed examples do not warrant a more elaborate
-causal reconstruction here. The decisive claim is that conditioned existence
-has plural conditional genesis.
+This is the first card on which Skandha can be read as Being without inventing a sixth pile. The five are the conditioned as gathered determination. Essence and Concept are not yet the work of the verse.
 
-## 6. One Field under Several Relations
+`Kathāvastu ⊆ EighteenDhatus` is the first hitch of Domain into speech. Dharma-skandha as communicable Science uses that hitch; the conventional translation does not announce the essay.
 
-The second half does not enumerate new classes alongside the aggregates. It
-redescribes those same conditioned dharmas:
+`Vijñāna` in the witness-list is already a full aggregate. English “consciousness” is refused here so that 1.16 can define the term as object-specific apprehension without first emptying the skandha.
 
-| Designation | Relation disclosed |
-|---|---|
-| five aggregates | their structural articulation |
-| temporal courses | their past, present, and future states |
-| basis of discourse | their availability to meaningful speech |
-| possessed of an exit | nirvāṇa as exit from them |
-| possessed of causes | their causal dependence |
+Deferred, not applied: *vastu* as Thing versus Object as comprehended Truth of the Thing; *dharma* as Fürwahrhalten; sublation = nirodha.
 
-The temporal courses are the conditioned dharmas themselves in their modes
-of having gone, going, and being about to go; time is not introduced here as
-an independent container. As `kathāvastu`, this same field supplies the basis
-of meaningful discourse. The citation concerning the eighteen domains shows
-that the expression concerns the analyzable conditioned field, rather than a
-casual topic of conversation.
+## 7. Review Status
 
-The final two terms require particular restraint. `Saniḥsāra` establishes
-nirvāṇa as the exit from all conditioned existence; it does not place nirvāṇa
-inside the conditioned field. `Savastuka` is locally explained as possessing
-causes, because the Vaibhāṣikas take `vastu` in this expression as a word for
-`hetu`. That attributed explanation should not become a universal equation
-of `vastu` with cause.
-
-## 7. The Bhāṣya's Decisions for the Kārikā
-
-The commentary controls the final reading in five ways:
-
-1. The five aggregates constitute the conditioned field under aggregate-
-    description; the missing recognition aggregate in the local IAST prose is a
-   textual omission.
-2. `Saṃskṛta` means produced through plural conditions coming together and
-    combining.
-3. `Adhvan` names conditioned dharmas under past, present, and future
-   determination.
-4. `Saniḥsāra` means possessed of an exit, with nirvāṇa specified as that
-   exit.
-5. `Savastuka` is locally rendered “possessed of causes,” following the
-   explicitly attributed Vaibhāṣika explanation.
-
-The anchor therefore revises the earlier provisional “with real basis” for
-`savastuka`. The Bhāṣya supports a causal rendering here while leaving the
-meaning of `vastu` in other contexts open to their own determinations.
-
-## 8. Philosophical and Organon Study
-
-The unit exhibits one conditioned field under several lawful descriptions.
-Aggregate structure, causal genesis, temporal articulation, discursive
-availability, and relation to release neither compete nor collapse into one
-another. Each answers a different question about the same dharmas.
-
-For the Yoga Vidyā–Technē project, this supplies a strong methodological
-model. Vidyā can identify one field through distinct axes without multiplying
-the objects whenever the description changes. Technē can then locate
-operations within their plural conditions and their temporal occasions while
-retaining nirvāṇa as the determinate exit from that conditioned nexus. This
-is an Organon reconstruction of the passage's form of determination, not
-terminology attributed to Vasubandhu.
-
-## 9. Review Status
-
-Reviewed against the current Kārikā study and the local IAST text at
-`[004|23]`–`[005|08]`. The study preserves plural conditional
-production and the several designations of the same conditioned field.
-The omitted `saṃjñāskandha`, the uncertain second derivation of `adhvan`,
-and the other working normalizations remain explicit in Section 2. The study is
-provisional pending further textual review.
+Expert upgrade of the Organon pair against the current kārikā study and the local IAST at `[004|23]`–`[005|08]`. Verse-English in §1 copies [`VAK_1.07.md`](./VAK_1.07.md) §5 Literal. Conventional translation keeps the four-name witness list and the Vaibhāṣika *hetu* gloss. Organon reading confined to §6. Provisional pending printed-edition check of `[004|26]` and of the second *adhvan* derivation. Next: 1.08.
