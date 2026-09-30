@@ -1,4 +1,4 @@
-# VAK_1.09 Bhāṣya — Material Form, Sensory Domains, and Supports of Cognition
+# VAK_1.09 Bhāṣya — Faculties, Domains, and Supports of Cognition
 
 ## 1. Kārikā Anchor
 
@@ -6,256 +6,85 @@
 >
 > tadvijñānāśrayā rūpaprasādāś cakṣurādayaḥ // 1.09 //
 
-> Material form comprises the five faculties, the five sensory objects, and
-> avijñapti. The eye and the other faculties are material clarities that
-> serve as supports for the corresponding cognitions.
+Literal (from the kārikā study):
 
-The Bhāṣya begins the internal analysis of the rūpa aggregate. It enumerates
-its constituents, then defines the five faculties through their material
-nature and their support of sensory cognition. The wording “corresponding
-cognitions” leaves room for the two construals of `tad` explained below.
+> Rūpa is the five faculties, the five *arthas*, and avijñapti also. The eye and the others are material clarities, supports of the corresponding cognitions.
 
-## 2. Continuous Sanskrit
+Kārikā study: [`VAK_1.09.md`](./VAK_1.09.md). Previous: 1.08, the sāsrava restriction. Next: 1.10, the divisions of the domains.
 
-> pañca rūpādayaḥ skandhā ity uktam / tatra rūpaṃ pañcendriyāṇy arthāḥ
-> pañcāvijñaptir eva ca / pañcendriyāṇi
-> cakṣuḥśrotraghrāṇajihvākāyendriyāṇi / pañcārthās teṣām eva
-> cakṣurādīnām indriyāṇāṃ yathāsvaṃ ye pañca viṣayāḥ
-> rūpaśabdagandharasaspraṣṭavyākhyāḥ / avijñaptiś ceti / etāvān
-> rūpaskandhaḥ / tatra ya ete pañca rūpādayo 'rthā uktāḥ /
+## 2. Continuous Sanskrit Witness
+
+> pañca rūpādayaḥ skandhā ity uktam / tatra rūpaṃ pañcendriyāṇy arthāḥ pañcāvijñaptir eva ca /
+> pañcendriyāṇi cakṣuḥśrotraghrāṇajihvākāyendriyāṇi /
+> pañcārthās teṣām eva cakṣurādīnām indriyāṇāṃ yathāsvaṃ ye pañca viṣayāḥ rūpaśabdagandharasaspraṣṭavyākhyāḥ /
+> avijñaptiś ceti / etāvān rūpaskandhaḥ /
+> tatra ya ete pañca rūpādayo 'rthā uktāḥ /
 > tadvijñānāśrayā rūpaprasādāś cakṣurādayaḥ /
-> rūpaśabdagandharasaspraṣṭavyavijñānānām āśrayabhūtā ye pañca
-> rūpātmakāḥ prasādās te yathākramaṃ
-> cakṣuḥśrotraghrāṇajihvākāyā veditavyāḥ /
+> rūpaśabdagandharasaspraṣṭavyavijñānānām āśrayabhūtā ye pañca rūpātmakāḥ prasādās te yathākramaṃ cakṣuḥśrotraghrāṇajihvākāyā veditavyāḥ /
 >
-> yathoktaṃ bhagavatā “cakṣur bhikṣo ādhyātmikam āyatanaṃ catvāri
-> mahābhūtāny upādāya rūpaprasāda” iti vistaraḥ / yāny etāni
-> cakṣurādīny uktāni tadvijñānāśrayā rūpaprasādāś cakṣurādayaḥ /
-> cakṣurvijñānādyāśrayā ity arthaḥ / evaṃ kṛtvā prakaraṇagrantho 'py
-> anuvṛtto bhavati / “cakṣuḥ katamat / cakṣurvijñānāśrayo rūpaprasāda”
-> iti vistaraḥ / nirddiṣṭāni pañcendriyāṇi / arthāḥ pañca nirdeśyāḥ /
+> yathoktaṃ bhagavatā “cakṣur bhikṣo ādhyātmikam āyatanaṃ catvāri mahābhūtāny upādāya rūpaprasāda” iti vistaraḥ /
+> yāny etāni cakṣurādīny uktāni tadvijñānāśrayā rūpaprasādāś cakṣurādayaḥ /
+> cakṣurvijñānādyāśrayā ity arthaḥ /
+> evaṃ kṛtvā prakaraṇagrantho 'py anuvṛtto bhavati /
+> “cakṣuḥ katamat / cakṣurvijñānāśrayo rūpaprasāda” iti vistaraḥ /
+> nirdiṣṭāni pañcendriyāṇi / arthāḥ pañca nirdeśyāḥ /
 
-The natural unit begins with the return to the five aggregates and ends with
-the announcement that the five sensory objects are to be explained. The
-local IAST marks the passage at `[005|21]`–`[006|07]`; the following
-`tatra tāvat` introduces their analysis and is left to the next unit.
+**Witness.** Pradhan `[005|21]`–`[006|07]`. Voice: Vasubandhu, with one saying of the Blessed One and one Prakaraṇa definition. Next unit begins at `tatra tāvat`.
 
-Word division, punctuation, and transcription normalizations have been
-supplied for reading. The local IAST's damaged faculty list,
-`cakṣuḥśtrotragrhāṇajihvākāyendariyā ṇa`, is read here as
-`cakṣuḥśrotraghrāṇajihvākāyendriyāṇi`, following the earlier research study
-and the intact enumeration later in the prose. Other local forms are
-`uktani`, `prakaraṇagraṇtho`, and `pañcā nirddeśyāḥ`; this transcription
-normalizes them as `uktāni`, `prakaraṇagrantho`, and `pañca nirdeśyāḥ`.
-The local text closes the scriptural quotation after `upādāya`; this
-transcription places `rūpaprasāda` inside the quotation, following the
-research study. That punctuation is editorial; the form `rūpaprasāda`
-before `iti` is retained. The local IAST is an edited best reading based
-especially on Pradhan and also on Shastri; its original e-text provenance is
-unknown, and it is not a critical edition. These normalizations and the
-quotation punctuation have not been independently checked against the
-printed editions.
-
-The sentence `tatra ya ete pañca rūpādayo 'rthā uktāḥ`, present in the
-local IAST text but omitted from the research report's segmented analysis,
-is retained because it establishes the first antecedent of `tad`.
+**Faults.** Local faculty list `cakṣuḥśtrotragrhāṇajihvākāyendariyā ṇa` read as `cakṣuḥśrotraghrāṇajihvākāyendriyāṇi`. Other normalizations: `uktani` → `uktāni`; `prakaraṇagraṇtho` → `prakaraṇagrantho`; `pañcā nirddeśyāḥ` → `pañca nirdeśyāḥ`. Quotation boundary around `rūpaprasāda` is editorial. The sentence `tatra ya ete pañca rūpādayo 'rthā uktāḥ` is kept: it is the first antecedent of *tad*. Local IAST is an edited best reading, not a critical edition.
 
 ## 3. Continuous Conventional Translation
 
-> It has been said that there are five aggregates beginning with material
-> form. Among them, material form comprises the five faculties, the five
-> sensory objects, and avijñapti. The five faculties are the faculties of
-> eye, ear, nose, tongue, and body. The five objects are the five respective
-> domains of those very faculties beginning with the eye, called visible
-> form, sound, odor, taste, and the tangible. And there is avijñapti. This
-> is the full extent of the aggregate of material form.
+> It has been said that there are five aggregates beginning with material form. Among them, material form comprises the five faculties, the five *arthas*, and avijñapti. The five faculties are the faculties of eye, ear, nose, tongue, and body. The five *arthas* are the five respective domains of those very faculties beginning with the eye, called visible form, sound, odor, taste, and the tangible. And there is avijñapti. This is the full extent of the aggregate of material form.
 >
-> Now, with regard to those five objects beginning with visible form that
-> have been mentioned: the eye and the other faculties are material
-> clarities serving as supports for the cognitions of those objects. The five
-> material clarities that serve as supports for cognitions of
-> visible form, sound, odor, taste, and the tangible are to be understood,
-> respectively, as eye, ear, nose, tongue, and body.
+> Now, with regard to those five *arthas* beginning with visible form that have been mentioned: the eye and the other faculties are material clarities serving as supports for the cognitions of those domains. The five material clarities that serve as supports for cognitions of visible form, sound, odor, taste, and the tangible are to be understood, respectively, as eye, ear, nose, tongue, and body.
 >
-> As the Blessed One has said: “The eye, monk, is the internal sense-base,
-> a material clarity dependent upon the four great elements,” and so forth.
-> With regard to those faculties beginning with the eye that have been
-> mentioned, the eye and the others are material clarities serving as
-> supports for their corresponding cognitions. The meaning is: supports of
-> eye-cognition and the rest. Understood in this way, the Prakaraṇa text is
-> also followed: “What is the eye? A material clarity serving as the support
-> of eye-cognition,” and so forth.
+> As the Blessed One has said: “The eye, monk, is the internal sphere, a material clarity dependent upon the four great Elements,” and so forth. With regard to those faculties beginning with the eye that have been mentioned, the eye and the others are material clarities serving as supports for their corresponding cognitions. The meaning is: supports of eye-cognition and the rest. Understood in this way, the Prakaraṇa text is also followed: “What is the eye? A material clarity serving as the support of eye-cognition,” and so forth.
 >
-> The five faculties have been explained. The five objects are to be
-> explained.
+> The five faculties have been explained. The five *arthas* are to be explained.
+
+*Viṣaya* is rendered *domain*, not *object*. *Artha* is kept where the verse-word is being pointed at, then immediately identified as those domains.
 
 ## 4. Movement of the Commentary
 
-The commentary moves from the extension of an aggregate to the definition
-of its first group of constituents:
-
 ```text
 five aggregates already stated
-    → rūpa aggregate
-        → five faculties
-        → five respective sensory domains
-        → avijñapti
-    → faculties defined as material supports of cognition
-        → cognition named through its sensory domain
-        → scriptural citation: internal sense-base dependent on elements
-        → cognition named through its faculty
-        → agreement with the Prakaraṇa definition
-    → transition to explanation of the five sensory objects
+    → rūpa aggregate = 5 faculties + 5 domains + avijñapti
+    → faculties as material supports of cognition
+        → first tad: cognition named from the domain
+        → scripture: internal sphere, dependent on four Elements
+        → second tad: cognition named from the faculty
+        → Prakaraṇa agrees with the second wording
+    → five domains announced, not yet divided
 ```
 
-The prose is explanatory. Vasubandhu introduces a saying of the Blessed One
-and subsequently a definition from the Prakaraṇa text; neither citation is
-the speech of a newly introduced opponent. The second explanation of the
-verse's compound brings its wording into agreement with the cited scholastic
-definition.
+No new opponent. Avijñapti completes the count and is left shut.
 
-Avijñapti completes the enumeration but receives no definition here. The
-five objects are named and paired with their faculties, while their detailed
-analysis is expressly deferred.
+## 5. The Bhāṣya's Decisions for the Kārikā
 
-## 5. The Extent of Rūpa and the Respective Sensory Domains
+1. The rūpa-skandha has eleven members. Visible form is one domain inside that aggregate, not the aggregate.
+2. *Arthāḥ* are the respective *viṣayāḥ* of the faculties, distributed by *yathāsvam*. Conventional English: domain. Not Object.
+3. *Tad* has two antecedents. Both are kept. “Corresponding cognitions” in the Literal covers both; the continuous translation shows each expansion.
+4. *Rūpaprasāda* is material clarity: material nature, support of cognition, dependence on the four great Elements. Visual transparency alone will not cover all five faculties.
+5. *Upādāya* here is dependence of derived form on the Elements. It is not the appropriation of 1.08.
+6. *Ādhyātmika āyatana* is internal sphere. “Sense-base” is not used as the general name of *āyatana*.
+7. Avijñapti is included and undefined. The five domains are named and deferred to 1.10.
 
-The two uses of `rūpa` must remain distinct. As `rūpaskandha`, it names the
-whole aggregate of material form. Within the list beginning
-`rūpaśabdagandha`, it names visible form, one of the five sensory domains.
-The aggregate therefore includes both sensory faculties and their objects,
-as well as avijñapti.
+## 6. Organon Note
 
-The sentence `etāvān rūpaskandhaḥ`, “this is the full extent of the rūpa
-aggregate,” closes an enumeration of eleven constituents: five faculties,
-five sensory objects, and avijñapti. It does not add cognition itself to that
-aggregate.
+Marked as project reconstruction.
 
-The Bhāṣya determines `artha` here through `viṣaya`. The genitive
-`teṣām eva ... indriyāṇām` relates the domains to those very faculties;
-`yathāsvam`, “respectively” or “each according to its own,” distributes them
-in their proper correspondence:
+```text
+Saṃskṛta : Viṣaya
+Conditioned : Condition
+```
 
-| Faculty | Its sensory domain | Cognition named by that domain |
-|---|---|---|
-| eye | visible form | cognition of visible form |
-| ear | sound | cognition of sound |
-| nose | odor | cognition of odor |
-| tongue | taste | cognition of taste |
-| body | the tangible | cognition of the tangible |
+This is the first verse that *shows* the dyad rather than only naming the Conditioned. Faculty and domain are given together. The faculty is not the Condition. The domain is. The faculty is the material clarity that can support a cognition in that Condition.
 
-“Object” in the continuous translation consequently has a controlled sensory
-meaning. “Sensory domain” makes the relation explicit in the analysis. The
-broader Organon determination of `artha` as Meaning remains a philosophical
-question; the local gloss supplies the precise sensory use that a reading of
-this passage must preserve.
+Object is the Truth of a Thing. It belongs to Objectivity inside the Subjective Logic, not to the Objective Logic, and not to this translation. Spending it on *viṣaya* is the mistranslation the set is written to stop.
 
-## 6. Material Clarity and the Two Construals of Support
+*Āyatana* in the citation is Essence touching the faculty. It is not the Concept.
 
-**Material constitution and cognitive function.** The defining expression
-joins `rūpaprasāda` to `vijñānāśraya`. The prose expands these as
-`rūpātmakāḥ prasādāḥ`, clarities whose nature is material, and
-`āśrayabhūtāḥ`, functioning as supports. The relative-correlative
-construction `ye ... te ... veditavyāḥ` says that those five material
-clarities are to be understood as the five faculties, in sequence.
+## 7. Review Status
 
-The translation uses “material clarity” consistently for `rūpaprasāda`.
-“Sensitive” or “refined material form” can help explain the technical use,
-but the present prose does not give a separate account of
-such refinement. Its explicit determinations are material nature, support
-of cognition, and dependence on the four great elements. Visual transparency
-alone would not explain the term's application to all five faculties.
-
-The scriptural citation identifies the eye as an `ādhyātmika āyatana`, an
-internal sense-base. `Catvāri mahābhūtāny upādāya` expresses dependence on
-the four great elements and supplies the basis for speaking of derived
-material form. The absolutive `upādāya` is translated here as “dependent
-upon”; it does not itself introduce the afflictive appropriation analyzed
-in 1.08.
-
-**The antecedent of `tad`.** The running prose preserves two approaches to
-`tad-vijñāna-āśraya`, “support of the cognition of those”:
-
-| Prose antecedent | Expansion of the cognition term | Result |
-|---|---|---|
-| the five objects beginning with visible form | cognitions of visible form, sound, odor, taste, and the tangible | faculties are identified through the cognitions of their domains |
-| the faculties beginning with the eye | eye-cognition and the rest | faculties are identified as supports of the cognitions named after them |
-
-The first is introduced by `ya ete pañca rūpādayo 'rthā uktāḥ`. The second
-begins `yāny etāni cakṣurādīny uktāni` and is explicitly glossed by
-`cakṣurvijñānādyāśrayā ity arthaḥ`. Although the transition has no explicit
-“alternatively,” the changed antecedent and changed expansion distinguish
-the two construals. The continuous translation preserves their sequence.
-
-Both determine the same five support relations. The first names cognition
-from its sensory domain; the second names it from its faculty. The latter
-matches the Prakaraṇa definition: the eye is a material clarity serving as
-the support of eye-cognition. Neither construal identifies the faculty with
-the cognition it supports.
-
-## 7. The Bhāṣya's Decisions for the Kārikā
-
-The commentary controls the reading in six ways:
-
-1. `Rūpa` as the aggregate includes five faculties, five sensory objects,
-   and avijñapti; visible form is only one constituent of that aggregate.
-2. `Arthāḥ` are the respective `viṣayāḥ` of the faculties. “Sensory objects”
-   in translation and “sensory domains” in analysis preserve this local use.
-3. `Tad` is first explained through the objects and then through the
-   faculties. “Corresponding cognitions” accommodates both in the anchor;
-   the continuous translation makes their distinct expansions visible.
-4. `Rūpaprasāda` retains a material determination. The support relation
-   gives its cognitive function, while the scriptural citation states its
-   dependence on the four great elements.
-5. `Vijñāna` here is differentiated sensory cognition. Naming it by domain
-   or faculty does not yet supply an account of developed prajñā.
-6. Avijñapti is included but not defined, and the detailed explanation of
-   the five sensory objects belongs to the next unit.
-
-## 8. Philosophical and Organon Study
-
-The faculty has a double determination: it belongs to material form and
-serves as the support of a specific cognition. Its material constitution
-and cognitive role are articulated together. The sensory domain is likewise
-introduced through its correspondence with a faculty. This yields a
-structured relation among material support, sensory domain, and cognition.
-
-The two construals sharpen that relation. A cognition can be named through
-what it cognizes or through the faculty that supports it. The commentary
-preserves the difference between these relations while aligning them in
-one sensory articulation. A domain is therefore already relational in this
-passage: visible form is specified as the eye's domain, and the eye is
-specified through its support of the corresponding cognition.
-
-For the Organon reconstruction, this supplies a concrete starting point for
-studying how knowing becomes manifest under determinate conditions. Our
-question concerning learning and the manifestation of prajñā within
-saṃvṛti can begin from such conditions, while keeping sensory support and
-attained discrimination distinct. The present passage establishes the
-support and domain relations of sensory vijñāna; the transformation through
-which learning develops prajñā requires further determination.
-
-Read alongside 1.02, the philosophical task is to connect this differentiated
-sensory articulation with the learning, reflection, and cultivation directed
-toward stainless prajñā. This is a question for the Organon study, not an
-additional assertion inserted into the Bhāṣya's translation. It gives the
-inquiry a precise point of departure: how the supported occurrence of
-cognition participates in the development of discriminative understanding.
-
-## 9. Review Status
-
-Reviewed against the current Kārikā study and the local IAST text at
-`[005|21]`–`[006|07]`, ending after
-`arthāḥ pañca nirdeśyāḥ` and before `tatra tāvat`, which opens the next
-unit. The continuous Sanskrit and translation preserve both antecedents of
-`tad`: first the five sensory objects, then the five faculties. The
-object-based antecedent is present in the local IAST text although omitted
-from the research report's segmented analysis. The study keeps the
-eleven-member extent of rūpa distinct from the sensory cognitions that its
-faculties support.
-
-Section 2 records the damaged faculty list, working normalizations, and the
-editorial quotation boundary. The working rendering of `prasāda` as
-“material clarity” remains provisional. No independent collation against the
-printed editions is claimed. The original research files and the completed
-Part One reading artifact are preserved.
+Expert upgrade of 1.09 as the third card of the 1.07–1.09 lexicon set. Verse-English in §1 copies [`VAK_1.09.md`](./VAK_1.09.md) §5 Literal. Conventional translation refuses Object for *viṣaya*. Both antecedents of *tad* kept. Organon confined to §6. Provisional pending printed-edition check of the quotation boundary and the damaged faculty list. Next: 1.10.
