@@ -6,11 +6,13 @@
 >
 > āpas tejaś ca vāyus tu dhātur eva tathāpi ca // 1.13 //
 
-Literal (from the kārikā study):
+Literal (from [`VAK_1.13.md`](./VAK_1.13.md)):
 
 > By worldly designation, color and configuration are called “earth.” Water and fire too. Wind, however, is the *dhātu* itself — and yet also in that way.
 
-Kārikā: [`VAK_1.13.md`](./VAK_1.13.md). Previous: 1.12. Next: return to rūpa constituents at `[010|07]`.
+Previous: 1.12, four Territories, Display of Meaning closed. Next: return to rūpa constituents at `[010|07]`.
+
+This unit is two questions. The verse answers the first. The Bhāṣya then asks the second and does not stop until avijñapti has been tested.
 
 ## 2. Continuous Sanskrit Witness
 
@@ -55,7 +57,9 @@ Kārikā: [`VAK_1.13.md`](./VAK_1.13.md). Previous: 1.12. Next: return to rūpa 
 > na tv evam avijñaptiḥ /
 > tasmād asamānaḥ prasaṅga ity ata upapannam etad āśrayarūpaṇād rūpam iti /
 
-**Witness.** Pradhan `[008|26]`–`[010|06]`. Next unit `[010|07]`. Working normalizations as in the prior full Organon file (`rūpyate`, `bādhanā`, `saṃghātastha`, `utpattinimitta`, `avijñaptyāśrayeṣu`). Not a critical edition.
+**Witness.** Pradhan `[008|26]`–`[010|06]`. Voices: Vasubandhu; scripture (*rūpyate*; Arthavargīya); *apare* / *anye* replies; one analogy marked `avaibhāṣikīyam`. Next: `[010|07]`.
+
+**Faults.** Working normalizations from the prior full file: `rūpyate` / `rūpyata`, `rūpopādānaskandha`, `bādhanā`, `saṃghātastha`, `āśritya`, `utpattinimitta`, `avijñaptyāśrayeṣu`. Local IAST is an edited best reading, not a critical edition.
 
 ## 3. Continuous Conventional Translation
 
@@ -75,46 +79,71 @@ Kārikā: [`VAK_1.13.md`](./VAK_1.13.md). Previous: 1.12. Next: return to rūpa 
 >
 > Others offer a reply here: the support of eye-cognition and the rest is differentiated. Some support, such as the eye, is affected; some, such as mind, is not affected. This is not the case with avijñapti. Therefore the consequence is not parallel. On this ground it is reasonable to call it form because its support is affected.
 
-## 4. Movement and Voices
+## 4. First question — worldly name and the *dhātu*
 
-Two questions. First: worldly names vs *dhātus*. Second: why the whole series through avijñapti is *rūpa*. The second is a run of proposals, objections, and replies.
+The opening question is exact: *kaḥ … viśeṣaḥ* — what distinguishes “earth” from the earth-*dhātu*?
+
+The answer is not “the world is wrong.” The answer is a different act. *Darśayantaḥ*: when people **point**, they show color and configuration. *Loka-saṃjñā* is that pointing. It uses the 1.10 pair (*varṇa-saṃsthāna*) as a name. Water and fire follow the same clause. The verse’s *āpas tejaś ca* is not a new rule.
+
+Wind is the exception the verse marked with *tu*. *Ya eva … sa eva*: what the world calls wind may be the wind-*dhātu* itself — impulsion met as impulsion, not first as a lump. *Tathāpi ca* does not cancel that. It adds the visible use: blue storm, circular storm. Two worldly uses of “wind.” One worldly use of “earth.”
+
+Do not flatten pāda b into “water, fire, and wind are likewise only *dhātus*.” That reading kills *tu*.
+
+*Loka* here is designation. It is not Chapter 3. Pre-Loka of the volume is not contradicted by *loka-saṃjñā*.
+
+## 5. Second question — why the series through avijñapti is *rūpa*
+
+*Avijñaptiparyantaḥ* gathers the whole 1.09 inventory by its last member. The verse did not ask this. The Bhāṣya does.
+
+**Etymology.** *Raupaṇāt*. Scripture: *rūpyate rūpyate*. Gloss: *bādhyate*. The Arthavargīya dart-verse gives the verbal sense of affliction. It does not add desire as an extra piece of form.
+
+The citation names the *rūpopādānaskandha*. The question was the *rūpa-skandha* through avijñapti. Keep both wordings. 1.08’s appropriation is not erased by this etymology.
+
+**Two accounts of affliction.** Vasubandhu: *vipariṇāmotpādanā* — production of alteration. Others: *pratighāto rūpeṇa* — obstruction by form. Both are “being acted upon.” They are not the same sentence.
+
+## 6. Tests that must stay in order
+
+**Atom.** If form is what is affected, a lone atom is not affected, so not form. Reply: a single atom does not exist separately (*na … ekaṃ pṛthag bhūtam asti*). In an aggregate it is affected. Atoms as constituents are not denied. Isolated atomic form is.
+
+**Past and future.** Same objection at the times. Reply: has been affected, will be affected, and is of that kind (*tajjātīya*). Fuel can be called fuel beyond the moment of burning. Present alteration is not demanded of every instance at every time.
+
+**Avijñapti — first try: through vijñapti.** Shadow moves when the tree moves. Two refusals. *Nāvikārāt*: avijñapti does not undergo that modification. And if the analogy held, avijñapti would cease when manifestation ceases, as shadow ceases with the tree. That contradicts the stream 1.11 just defined.
+
+**Second try: through affected Elements.** Then *cakṣurvijñāna* would be form, because its support (the eye) is affected. Defense: the comparison is unequal (*viṣamo 'yam upanyāsaḥ*). Avijñapti *continues depending* on the Elements (shadow/tree, radiance/jewel). Eye-cognition does not continue depending on the eye that way. The faculty is only *utpattinimitta* — a condition of arising.
+
+**Those analogies themselves fail.** First, shadow-on-tree and radiance-on-jewel are not Vaibhāṣika: each color-atom has its own four Elements. Second, even granting the picture, avijñapti is accepted to **not cease** when those supporting great Elements have ceased (*niruddheṣv api … anirodhaḥ*). So the modeled dependence does not fit. `Ato na bhavaty eṣa parihāraḥ`.
+
+This does not say avijñapti has no material basis at all. It says these analogies do not explain the basis it has.
+
+**Last reply, attributed to others.** The supports of eye-cognition are mixed: some affected (the eye), some not (manas). Avijñapti does not have that mix. So the consequence “then cognition is form” is not parallel. On that ground it is reasonable to call avijñapti form because its support is affected.
+
+“Unaffected” here follows the local *rūpa* criterion. It does not say manas is unconditioned. The last reply does not revive shadow and jewel. No further objection follows in this unit. Keep it as *anye*.
+
+## 7. Decisions for the kārikā
+
+1. First question: pointing vs Territory. Earth/water/fire names show color-configuration. Wind may name the *dhātu* itself, and may also name a storm.
+2. *Tathāpi ca* adds a use. It does not erase *tu*.
+3. Second question is extra to the verse and is the bulk of the unit. A stub of that bulk is a failed card.
+4. *Raupaṇa* is the proposed unity of Form. Alteration is Vasubandhu’s gloss. Obstruction is others’.
+5. Atom and times extend the criterion beyond a present isolated twitch.
+6. Avijñapti is the hard member. Every analogy in the run is refused or qualified in place. The last defense is others’ and is left standing *here*.
+7. Dependence for arising ≠ continuing dependence ≠ classificatory basis. The unit exists to keep those three from collapsing.
+
+## 8. Organon Note
+
+Marked as project. Vidyā is not a leak. The Dharma-talk is §4–§6, not a slogan over a missing debate.
 
 ```text
-pointing: earth/water/fire = color-configuration
-wind: the dhātu itself, and also storms
-raupaṇa / rūpyate / bādhyate
-alteration vs obstruction
-atom → only in an aggregate
-past/future → kind and fuel
-avijñapti via vijñapti / shadow → rejected (no modification; cessation)
-via elemental support → cognition-consequence
-shadow/jewel → not Vaibhāṣika; avijñapti can outlast those Elements
-others: mixed supports of cognition vs avijñapti — last reply in-unit
+loka-saṃjñā     Name — the pointing that shows the 1.10 pair
+dhātu           Territory a Will rules; particular dataset / lineage of Lines
 ```
 
-`Avaibhāṣikīyam` names one analogy. It does not brand every prior voice Vaibhāṣika. The last reply is *anye*.
+Ordinary earth ≠ earth-Territory. Display of Meaning closed at 1.12. 1.13 is how Name misses Territory — except wind.
 
-## 5. The Bhāṣya's Decisions for the Kārikā
+The second question is Form Theory under cross-examination: does the projector still count as Form if Form is “what can be affected”? The text does not solve that by a metaphor. It burns the metaphors and leaves others’ last distinction of supports.
 
-1. Water and fire continue the color-configuration clause. Wind has *tu*, then *tathāpi ca*.
-2. *Loka-saṃjñā* is pointing. Not Chapter-3 Loka.
-3. The unit then leaves the verse and tests the unity of Form.
-4. Being affected = production of alteration. Obstruction is others' account.
-5. Atom: no separately existing single atom; affected in the aggregate.
-6. Past/future: has been / will be / of that kind — fuel.
-7. Avijñapti analogies fail in order. Last defense is others' and left standing here.
+Pre-Loka. No Object. No Sphere. *Cakṣurvijñāna* in this conventional line stays the Bhāṣya’s cognition-word. Principle-English is not printed over the objection.
 
-## 6. Organon Note
+## 9. Review Status
 
-Marked as project. The Dharma-talk is the **whole unit**, not the first paragraph.
-
-```text
-loka-saṃjñā     Name — pointing at the 1.10 pair
-dhātu           Territory a Will rules / particular dataset
-```
-
-Ordinary earth ≠ earth-Territory. Wind can coincide. Then Vasubandhu tests whether Form still includes the projector when “affected” is the criterion. That test is the talk. Do not print Object. Do not stub the objections. Pre-Loka holds.
-
-## 7. Review Status
-
-Restored full witness and full conventional translation for `[008|26]`–`[010|06]`. The previous pass had condensed §3 into a sketch; that was the fault. Organon confined to §6. Next: `[010|07]`.
+Upgrade of the full unit `[008|26]`–`[010|06]`. Witness complete. Conventional translation complete and sequential. Argument followed through atom, times, three avijñapti tries, two analogy-failures, last *anye* reply. Organon confined to §8. Prior stub and prior “restore” that left §4–§6 thin are superseded. Next: `[010|07]`.
