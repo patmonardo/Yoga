@@ -12,217 +12,170 @@
 >
 > ṣoḍhā caturvidho gandhaḥ spṛśyam ekādaśātmakam // 1.10 //
 
-## 3. Lexical Analysis
+## 3. Padaccheda and Lexical Analysis
 
-```text
-śabdas tv             → śabdaḥ tu
-aṣṭavidhaḥ            → aṣṭa-vidhaḥ
-caturvidhaḥ           → catur-vidhaḥ
-spṛśyam ekādaśātmakam → spṛśyam ekādaśa-ātmakam
-```
+**Padaccheda**
 
-| Form | Padaccheda | Meaning |
+rūpam | dvidhā | viṃśati-dhā | śabdaḥ | tu | aṣṭa-vidhaḥ | rasaḥ |
+ṣoḍhā | catur-vidhaḥ | gandhaḥ | spṛśyam | ekādaśa-ātmakam
+
+| Form | Analysis | Contextual force |
 |---|---|---|
-| rūpam | rūpam | visible form-domain here, not the whole rūpa aggregate |
-| dvidhā | dvidhā | twofold |
-| viṃśatidhā | viṃśati-dhā | twentyfold |
-| śabdaḥ tu | śabdaḥ tu | sound, however |
-| aṣṭavidhaḥ | aṣṭa-vidhaḥ | eightfold |
-| rasaḥ | rasaḥ | taste |
-| ṣoḍhā | ṣoḍhā | sixfold |
-| caturvidhaḥ | catur-vidhaḥ | fourfold |
-| gandhaḥ | gandhaḥ | smell |
-| spṛśyam | spṛśyam | the tangible / domain of touch |
-| ekādaśātmakam | ekādaśa-ātmakam | having eleven kinds as its nature |
+| **rūpam** | nominative neuter singular | the visible-form domain of 1.09, not the rūpa-skandha |
+| **dvidhā** | indeclinable | twofold: color and configuration |
+| **viṃśatidhā** | indeclinable | twentyfold enumeration of that same domain |
+| **śabdaḥ tu** | nominative + particle | sound-domain; *tu* turns to the next domain |
+| **aṣṭavidhaḥ** | nominative masculine singular | eightfold |
+| **rasaḥ** | nominative masculine singular | taste-domain |
+| **ṣoḍhā** | indeclinable | sixfold |
+| **caturvidhaḥ gandhaḥ** | nominative | odor-domain, fourfold |
+| **spṛśyam** | nominative neuter singular | tangible domain; prose uses *spraṣṭavya* |
+| **ekādaśātmakam** | bahuvrīhi | having eleven kinds as its nature |
+
+*Rūpa* here is one *viṣaya*. The two counts are two descriptions of that same domain, not two domains.
 
 ## 4. Grammar
 
-The verse distributes a distinct modal count to each of the five sensory domains introduced in VAK 1.09:
+The verse assigns a count to each of the five domains named at 1.09:
 
 ```text
-visible-form domain
-    = twofold at the primary division
-    = twentyfold in further enumeration
-
-sound domain
-    = eightfold
-
-taste domain
-    = sixfold
-
-smell domain
-    = fourfold
-
-tangible domain
-    = elevenfold in its constituted nature
+visible-form domain   dvidhā and viṃśatidhā
+sound domain          eightfold
+taste domain          sixfold
+odor domain           fourfold
+tangible domain       elevenfold in nature
 ```
 
-The Bhāṣya controls `dvidhā viṃśatidhā`: visible form is divided into color
-(`varṇa`) and configuration (`saṃsthāna`), and that same visible-form
-sense-base is also enumerated in twenty kinds. The two counts describe the
-same domain at different levels; the prose does not assign every one of the
-twenty kinds to a branch of a strict two-level tree. It also reports a
-twenty-onefold variant that adds the single-colored sky.
+`Tad eva rūpāyatanaṃ punar ucyate` in the Bhāṣya binds the twenty to the same sphere already divided as two. The twenty is not a second visible-form.
 
-`Rūpa` has a restricted sense here. It means the visible-form domain (`rūpāyatana`), not the complete rūpa-skandha of VAK 1.09.
+`Ekādaśātmakam` is expanded as `ekādaśa-dravya-svabhāvam`: eleven substances as nature, not eleven nicknames of one stuff.
 
-## 5. Literal Translation
+## 5. Translation
 
-### Close syntactic construe
+### Literal Translation
 
-> Visible form is twofold and twentyfold. Sound, however, is eightfold; taste is sixfold; smell is fourfold; and the tangible has eleven kinds as its nature.
+Visible form is twofold [and] twentyfold. Sound, however, is eightfold; taste is sixfold; odor is fourfold; the tangible has eleven kinds as its nature.
 
-### Bhāṣya-informed translation
+### Bhāṣya-informed study translation
 
-> The visible-form domain divides primarily into color and configuration and is further enumerated in twenty modes. The sound-domain has eight modes, taste six, smell four, and the tangible domain is constituted through eleven kinds.
-
-The domain-language in the second translation follows the transition from
-VAK 1.09. Here `rūpa` means visible form as a sensory object, not the entire
-material-form aggregate.
+The visible-form domain is twofold as color and configuration, and that same sphere is further enumerated as twenty. Sound is eightfold: first fourfold by appropriated or non-appropriated elemental cause and by sentient or non-sentient designation, then doubled by agreeable and disagreeable. Taste is sixfold. Odor is fourfold; a treatise list of three is also cited. The tangible has eleven substances as its nature: the four great Elements and seven further tangibles. How a cognition takes one kind or many, and how Sphere-own-character differs from substance-own-character, belongs to the prose, not to the verse-count.
 
 ## 6. Philosophical Translation
 
-> The five sensory objects receive distinct classifications. Visible form is
-> divided into color and configuration and is also enumerated in twenty
-> kinds. Sound is eightfold, taste sixfold, odor fourfold, and the tangible
-> consists of eleven kinds. The Bhāṣya then examines how these objects are
-> apprehended by sensory cognition.
+The five Conditions of 1.09 now receive internal counts. Visible form is the only domain given a dyad first (*varṇa : saṃsthāna*) and then an enumeration. The other four are counted by mixed respects: cause, designation, agreeableness, taste-kind, even/uneven odor, elemental plus derived tangibles. Those counts are not one principle applied five times.
 
-Organon rendering (project reconstruction):
-
-> These lists invite an inquiry into how material differences are grouped
-> within each sensory domain and how a cognition discriminates one kind or
-> apprehends many together. Treating a domain as an a priori principle is a
-> further Organon proposal, not Vasubandhu's definition of these objects.
-
-In its discussion of color and configuration, the Bhāṣya clarifies the
-local use of `vidyate`:
-
-> `jñānārtho hy eṣa vidir na sattārthaḥ` — “This expression concerns cognition, not existence.”
-
-Color and configuration can both be cognized in one presentation. Here the
-verb concerns how the visible form is known, not an assertion of separate
-existence. A renewed objection about bodily manifestation follows without
-an answer in this unit. The clarification should therefore stay within this
-local argument.
+Organon rendering (project reconstruction; not Vasubandhu's wording):
 
 ```text
-source: sensory object → classified kinds → possible apprehension
-project question: how can a domain organize discriminable content?
+viṣaya           = Condition (1.09)
+this verse        = modes inside each Condition
+varṇa : saṃsthāna = the one dyadic cut
+twenty / eight / six / four / eleven = empirical enumerations
 ```
+
+A priori division in this project is dyadic. Quadratic and twentyfold lists are empirical. Do not promote the twenty to a rational division.
+
+The Bhāṣya's load-bearing sentence is not a count:
+
+```text
+jñānārtho hy eṣa vidir na sattārthaḥ
+this vid is Knowing-sense, not existence-sense
+```
+
+Color and configuration can both be cognized in one presentation. That is a claim about Knowing, not a claim that two substances exist there. The sentence is local. It does not turn every later *vidyate* into epistemology, and it does not spend Object.
+
+Second load-bearing distinction:
+
+```text
+āyatana-svalakṣaṇa  ≠  dravya-svalakṣaṇa
+Sphere-own-character ≠ substance-own-character
+```
+
+A cognition-group can take a collection and still be own-character-domained with respect to the Sphere. Essence is doing work here. Do not call *āyatana* the Concept.
 
 ## 7. Technical Vocabulary
 
-| Sanskrit | Project rendering | Determination |
-|---|---|---|
-| rūpāyatana | visible-form sense-base | visible object here, not the whole rūpa aggregate |
-| varṇa | color | one of the two primary visible-form divisions |
-| saṃsthāna | configuration | the other primary division |
-| śabda | sound | divided by material cause, sentient designation, and agreeableness |
-| rasa | taste | six kinds named in the Bhāṣya |
-| gandha | odor | fourfold here; the Bhāṣya also cites a threefold list |
-| spṛśya / spraṣṭavya | tangible | eleven substances: four great elements and seven further tangibles |
-| prajñāna | cognition or discernment | color and configuration can both be cognized in one case |
-| jñānārtha / sattārtha | cognitive / existential sense | a local clarification of `vidyate` in the visible-form dispute |
-| āyatanasvalakṣaṇa | own-character of a sense-base | the relevant particularity of a sensory cognition here |
-| dravyasvalakṣaṇa | own-character of an individual substance | not required for that claim about sensory cognition |
-| vāgvijñapti | vocal manifestation | the Bhāṣya's example of sentient-designated sound |
-| kāryopacāra | applying an effect's name to its cause | explains the effect-based naming of a tangible condition |
+Continued from 1.07–1.09. Conventional column answers this Bhāṣya.
+
+| Sanskrit | Conventional rendering | Organon determination | Do not use |
+|---|---|---|---|
+| **rūpa** (here) | visible form | one *viṣaya*, not the rūpa-skandha | the whole aggregate |
+| **rūpāyatana** | visible-form sphere | Sphere of the visible-form Condition | “sense-base” as the general name of *āyatana* |
+| **varṇa** | color | one pole of the visible-form dyad | “quality” as a leftover |
+| **saṃsthāna** | configuration | the other pole of that dyad | “shape” if that erases posture/arrangement |
+| **viṣaya** | domain | Condition; here internally counted | Object |
+| **śabda** | sound | eightfold by mixed respects | mere acoustic event |
+| **upātta / anupātta** | appropriated / non-appropriated | living-continuum basis of the elemental cause | 1.08 *upādāna* read back as the whole sense |
+| **vāgvijñapti** | vocal manifestation | sentient-designated sound | “speech-act” as modern leftover |
+| **rasa** | taste | six named kinds | “flavor” as cuisine |
+| **gandha** | odor | fourfold here; treatise-three cited | collapsing the two lists |
+| **spṛśya / spraṣṭavya** | tangible | eleven substances as nature | “touch-object” |
+| **mahābhūta** | great Element | Element; defined later | chemistry-element |
+| **kāryopacāra** | applying an effect-name to a cause | hunger named from the desire it produces | desire as a twelfth tangible |
+| **vidyate** (local) | is known / is found | *jñānārtha*, not *sattārtha* | existence-claim for every *vid* |
+| **jñānārtha** | Knowing-sense | science-of-dharma-knowing uses this cell | a free pass to empty ontology |
+| **sattārtha** | existence-sense | what this *vid* is *not* | |
+| **āyatana-svalakṣaṇa** | own-character of the sphere | Essence-grade particularity of the domain | requiring one isolated *dravya* |
+| **dravya-svalakṣaṇa** | own-character of an individual substance | not required for the five cognition-groups here | |
+| **sāmānya-viṣaya** | common-character domain | the fault if collection cancelled own-character | |
+
+**Import rule.** Counts stay empirical. The dyad *varṇa : saṃsthāna* is the only cut on this card that looks rational. *Jñānārtha* is local to this *vid*. 1.11 is avijñapti.
 
 ## 8. Logical Determination
 
-VAK 1.09 enumerated the faculties and their corresponding sensory objects.
-The Bhāṣya to 1.10 supplies the following divisions:
-
 ```text
-visible form: color / configuration; also twenty kinds
-sound: four kinds, each agreeable or disagreeable → eight
-taste: six kinds
-odor: four kinds; a cited treatise gives three
-tangible: four great elements + seven further kinds → eleven
+1.09  rūpa-skandha = 5 faculties + 5 domains + avijñapti
+1.10  each domain internally counted
 ```
 
-The twenty-onefold visible-form variant and the threefold odor list are
-reported alongside the kārikā's counts. Sound's fourfold account names two
-respects—appropriated or non-appropriated material cause, and sentient or
-non-sentient designation—before agreeable/disagreeable doubles the count.
-The prose does not illustrate every possible combination.
-
-The Bhāṣya then distinguishes a local cognitive use from an existential
-use of `vidyate`:
+Source counts:
 
 ```text
-known by color and configuration
-    ≠ an assertion that two separate substances exist
+VisibleForm = Color ∨ Configuration          // dvidhā
+VisibleForm has 20 named kinds               // also 21 with single-colored sky
+Sound       = 4 respects × agreeable/disagreeable → 8
+Taste       = 6 kinds
+Odor        = 4; treatise cites 3
+Tangible    = 4 Elements + 7 → 11 substances
 ```
 
-That reply is followed by an unanswered objection about bodily
-manifestation. It does not settle every ontological question raised by the
-classifications.
-
-A sensory cognition may arise with one discriminated material kind or with
-many constituents apprehended together. The Bhāṣya locates the relevant
-own-character at the sense-base rather than requiring the own-character of
-one individual substance:
+Knowing, not existing:
 
 ```text
-own-character of sense-base (āyatana)
-    ≠ required own-character of one substance (dravya)
+vidyate_local → Jnanartha
+vidyate_local ↛ Sattartha
+KnownAs(color) ∧ KnownAs(configuration) ↛ TwoSubstancesExist
 ```
 
-The final inquiry adds a temporal condition: when an object reaches tongue
-and body together, the stronger object takes priority; if their presentation
-is equal, tongue-cognition comes first because the continuum is inclined by
-the desire to eat.
-
-The Organon may model these relations, provided its stronger domain theory
-is identified as a proposal:
+Apprehension:
 
 ```text
-SensoryDomain(v) ∧ HasClassifiedKinds(v)
-SensoryCognition(c) ∧ Apprehends(c, v)
-ProposedDomainPrinciple(p) ∧ OrganonModels(p, v)
+Sometimes  EyeCognition ← one dravya     // kind distinguished
+Sometimes  EyeCognition ← many dravyas   // army, heap of jewels
+SvalaksanaVisaya w.r.t. AyatanaSvalaksana
+SvalaksanaVisaya ↛ requires DravyaSvalaksana
+```
+
+Priority when tongue and body are reached together:
+
+```text
+stronger domain first
+equal presentation → tongue-cognition first   // continuum inclined to eat
 ```
 
 ## 9. Interpretive Note
 
-The five counts classify different sensory objects; they do not all arise
-from the same principle of division. Visible form is counted by color and
-configuration, sound by several causal and classificatory respects, and the
-tangible by eleven material constituents. The Bhāṣya also preserves variant
-lists and objections. This specificity matters when the Organon compares
-sensory classification with rational determination.
+1.09 correlated faculty to domain. 1.10 counts inside the domain. That is all the verse does. The Bhāṣya does more: it asks how Knowing takes those counts.
 
-An Organon comparison can distinguish:
+The sentence *jñānārtho hy eṣa vidir na sattārthaḥ* is why this chapter can be a science of dharma-knowing without becoming a creation-story. *Vid* here tracks cognition. It does not found a second visible-form substance. The open objection about bodily manifestation stays open. Do not close it for Vasubandhu.
 
-```text
-material distinctions named in the Bhāṣya
-    → their classification and apprehension
-project inquiry
-    → conditions under which such distinctions become knowledge
-```
+Sphere-own-character is the other precision. A military formation is many colors and configurations seen at once. The cognition is still own-character-domained because the Sphere, not the isolated atom, is the relevant particularity. That is Essence at work in a sensory example. It is not the Concept, and it is not Object.
 
-The visible-form discussion distinguishes what is cognized from what is
-asserted to exist separately in one disputed use of `vidyate`. The reply
-leaves a further bodily-manifestation objection open. Its limit belongs in
-the study alongside its insight.
+Hunger is named from the desire it produces (*kāryopacāra*). Desire is not added as a tangible. Thirst has no separate gloss in this witness; do not invent one.
 
-The discussion of collections fixes a different distinction. A sensory
-cognition can apprehend several material constituents while still taking the
-own-character of its sense-base as object. The Bhāṣya does not require one
-isolated substance for that claim.
-
-For the project's inquiry into action, appropriated material causes and
-vocal manifestation are relevant examples. The Bhāṣya's classification of
-sound does not by itself derive moral agency. Hunger and thirst are included
-among tangibles, with the naming of a cause through its effect explained
-explicitly for hunger; the supplied prose gives no separate thirst gloss.
+Single-colored sky in the twenty-onefold variant is a visible-form kind. It is not the unconditioned *ākāśa* of 1.05.
 
 ## 10. OWL++ Seed
-
-The counts and sensory-object inventory below represent the source. The
-`ProposedDomainPrinciple` node records a separate Organon hypothesis. The
-knowing/existing distinction is tied to the local visible-form dispute.
 
 ```ttl
 @prefix vak: <http://127.0.0.1:3000/vak#> .
@@ -231,26 +184,24 @@ knowing/existing distinction is tied to the local visible-form dispute.
 vak:VAK_1_10
     a vak:Karika ;
     rdfs:label "VAK 1.10" ;
-    vak:hasTopic vak:FiveSensoryObjectClassifications ;
-    vak:belongsTo vak:Dhatunirdesa .
+    vak:hasTopic vak:ModesOfTheFiveDomains ;
+    vak:belongsTo vak:Dhatunirdesa ;
+    vak:continuesSet vak:VAK_1_07 , vak:VAK_1_08 , vak:VAK_1_09 .
 
-vak:VisibleFormDomain vak:hasPrimaryMode vak:Color , vak:Configuration ; vak:hasModeCount 20 .
+vak:VisibleFormDomain
+    vak:hasDyad vak:Color , vak:Configuration ;
+    vak:hasModeCount 20 .
+
 vak:SoundDomain vak:hasModeCount 8 .
 vak:TasteDomain vak:hasModeCount 6 .
-vak:SmellDomain vak:hasModeCount 4 .
+vak:OdorDomain vak:hasModeCount 4 .
 vak:TangibleDomain vak:hasModeCount 11 .
 
-vak:FiveSensoryObjects
-    vak:includes vak:VisibleFormDomain , vak:SoundDomain ,
-        vak:TasteDomain , vak:SmellDomain , vak:TangibleDomain .
+vak:VidyateLocal
+    vak:sense vak:Jnanartha ;
+    vak:notSense vak:Sattartha .
 
-vak:VisibleFormVidyateConstrual
-    vak:distinctFrom vak:AssertionOfSeparateExistence .
-
-vak:DomainSpecificParticularity
-    vak:distinctFrom vak:SubstanceSpecificParticularity .
-
-vak:ProposedDomainPrinciple
-    a vak:OrganonHypothesis ;
-    vak:proposedFor vak:FiveSensoryObjects .
+vak:AyatanaSvalaksana
+    vak:distinctFrom vak:DravyaSvalaksana ;
+    vak:grade vak:Essence .
 ```
