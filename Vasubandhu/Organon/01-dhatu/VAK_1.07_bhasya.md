@@ -50,13 +50,15 @@ Kārikā study: [`VAK_1.07.md`](./VAK_1.07.md). Previous: 1.06, the two cessatio
 
 The conventional list follows the local witness and therefore names four aggregates in the prose expansion. The kārikā's *pañcakam* still requires five; recognition is the omitted member, not a doctrinal deletion.
 
+The etymology is *pratyayaiḥ kṛtā* — made by conditions. The conventional headword stays *conditioned*, not *created*.
+
 ## 4. Movement of the Commentary
 
 ```text
 1.04 named the conditioned, Path excepted, as sāsrava
     → which, then, are the conditioned?
         → five aggregates beginning with rūpa
-        → produced by plural conditions acting together
+        → made by plural conditions acting together
         → future included by kind (milk, fuel)
     → the same field under other names
         → temporal course
@@ -70,7 +72,7 @@ Two active topics: joint production, and paryāya of one field. The commentary d
 ## 5. The Bhāṣya's Decisions for the Kārikā
 
 1. The five aggregates *are* the conditioned under aggregate-description. The missing recognition aggregate in the local prose is a textual omission.
-2. `Saṃskṛta` means produced through plural conditions coming together and combining. A single condition produces nothing here.
+2. `Saṃskṛta` is named from *pratyayaiḥ kṛtā*: made by conditions coming together and combining. A single condition produces nothing here. The English headword is *conditioned*. *Created* is not used.
 3. `Adhvan` names those same dharmas under past, present, and future determination, with a second, less secure derivation from being consumed by impermanence.
 4. `Kathāvastu` is constrained by the Prakaraṇa: bases of discourse are included in the eighteen domains. The term is not a casual topic-name.
 5. `Saniḥsāra` means possessed of an exit; that exit is nirvāṇa from all that is conditioned. Nirvāṇa is not placed inside the field.
@@ -82,7 +84,17 @@ The first-pass kārikā line “with real basis” is therefore withdrawn from t
 
 Marked as project reconstruction.
 
-This is the first card on which Skandha can be read as Being without inventing a sixth pile. The five are the conditioned as gathered determination. Essence and Concept are not yet the work of the verse.
+This is the first card on which Skandha can be read as Being without inventing a sixth pile. The five are the Conditioned as gathered determination. Essence and Concept are not yet the work of the verse.
+
+Algebra locked on the kārikā card:
+
+```text
+viṣaya     = Condition
+saṃskṛta  = Conditioned
+asaṃskṛta = Unconditioned
+```
+
+English Conditioned *means* created-by-conditions. The headword is not created. This is Eternal Dharma under conditions. *Pratyaya* here is the co-acting condition that makes; it is not *viṣaya*. The Kant–Hegel word of import is the Unconditioned.
 
 `Kathāvastu ⊆ EighteenDhatus` is the first hitch of Domain into speech. Dharma-skandha as communicable Science uses that hitch; the conventional translation does not announce the essay.
 
@@ -92,4 +104,4 @@ Deferred, not applied: *vastu* as Thing versus Object as comprehended Truth of t
 
 ## 7. Review Status
 
-Expert upgrade of the Organon pair against the current kārikā study and the local IAST at `[004|23]`–`[005|08]`. Verse-English in §1 copies [`VAK_1.07.md`](./VAK_1.07.md) §5 Literal. Conventional translation keeps the four-name witness list and the Vaibhāṣika *hetu* gloss. Organon reading confined to §6. Provisional pending printed-edition check of `[004|26]` and of the second *adhvan* derivation. Next: 1.08.
+Expert upgrade of the Organon pair against the current kārikā study and the local IAST at `[004|23]`–`[005|08]`. Verse-English in §1 copies [`VAK_1.07.md`](./VAK_1.07.md) §5 Literal. Conventional translation keeps the four-name witness list and the Vaibhāṣika *hetu* gloss. *Created* withdrawn as headword; etymology *kṛtā* kept. Organon reading confined to §6. Provisional pending printed-edition check of `[004|26]` and of the second *adhvan* derivation. Next: 1.08.
