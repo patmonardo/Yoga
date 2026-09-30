@@ -23,7 +23,7 @@ tad-vijñāna-āśrayāḥ | rūpa-prasādāḥ | cakṣus-ādayaḥ
 |---|---|---|
 | **rūpam** | nominative neuter singular | the rūpa-skandha as Form, not visible form alone |
 | **pañca indriyāṇi** | five faculties | sattva-side powers; rules applied to nature |
-| **arthāḥ** | verse-word | Five Meanings; Bhāṣya glosses *viṣayāḥ* |
+| **arthāḥ** | verse-word | first Moment of Meaning; Bhāṣya glosses *viṣayāḥ* |
 | **pañca avijñaptiḥ** | *pañca* counts the *arthas*; *avijñapti* singular | eleventh member |
 | **tad-vijñāna-āśrayāḥ** | bahuvrīhi | supports of the corresponding Principles; two *tad* antecedents |
 | **rūpa-prasādāḥ** | material clarities | derived Form, not pigment |
@@ -32,7 +32,7 @@ tad-vijñāna-āśrayāḥ | rūpa-prasādāḥ | cakṣus-ādayaḥ
 pañcārthās teṣām eva … yathāsvaṃ ye pañca viṣayāḥ
 ```
 
-*Artha* is not Object. Conventional gloss: respective *viṣaya*. Organon: Meaning.
+Conventional gloss of *artha*: respective *viṣaya*. Organon: Meaning. Pre-Loka does not spend Object.
 
 ## 4. Grammar
 
@@ -59,58 +59,57 @@ Rūpa is the five faculties, the five *arthas*, and avijñapti also. The eye and
 
 The aggregate of form comprises the five faculties, the five respective *viṣayas* of those faculties (the verse-word is *artha*), and avijñapti. That is the full extent of the rūpa-skandha. The faculties beginning with the eye are material clarities that support the Principles correlated with those *viṣayas* — or, in the second construal, that support eye-principle and the rest. The Blessed One calls the eye an internal *āyatana*, a material clarity dependent upon the four great Elements. The Prakaraṇa agrees. Avijñapti is named, not defined. The five *arthas* remain to be explained.
 
-Literal keeps *artha*. Study translation follows the *viṣaya* gloss and does not print Object or Sphere.
+Literal keeps *artha*. Study translation follows the *viṣaya* gloss. Sphere is not used. Object is not used. This unit is Pre-Loka.
 
 ## 6. Philosophical Translation
 
-### Problems in the received / first Organon card
+### Problems that had to die
 
-1. *Rūpa-skandha* read as stuff or as color-shape (1.10 read back into 1.09).
-2. *Artha* treated as a disposable verse-word that dies into “domain / object.”
-3. Five *arthas* left as sense-objects instead of Five Meanings / *tanmātra*.
-4. *Indriya* left as an organ instead of a rule applied to nature (sattva-side).
-5. *Āyatana* printed as Sphere (Path/*bhūmi* word; Sphere = set of all extensions).
-6. *Avijñapti* left as a mute eleventh instead of the projector named at 1.11.
-7. Volume 1 treated as proto-cosmology. This block is **Pre Loka:Karma** — All Rational.
-8. *Vijñāna* as “cognition / consciousness” instead of Principle Applied.
+1. *Rūpa* as stuff or as 1.10 color-shape.
+2. *Artha* dying into object.
+3. Five *arthas* as sense-objects instead of first Moment of Meaning / *tanmātra*.
+4. *Indriya* as organ, not sattva-rule.
+5. Sphere for *āyatana*.
+6. *Avijñapti* mute.
+7. Object imported into Pre-Loka.
+8. Volume 1 treated as proto-world.
 
-### Hegel-clean fixes
+### Meaning-evolution (Hegel-clean)
+
+Kośa lists the *bhūtas* **after** the *tanmātras*. That order is the Science:
+
+```text
+first Moment of Meaning     five arthas = tanmātra
+Form : Matter               the engine working
+then bhūtas                 exposed Content
+                            that whole stretch is Meaning
+```
 
 ```text
 Form : Essence
 Form : Matter
-Form : Content     Content exposed as mahābhūta
+Form : Content     mahābhūta as exposed Content
                    Content as saṃyoga of Bhūtādi and Tanmātra
 ```
 
 ```text
-five indriyas     sattva-side
-                  rules applied to nature
-                  Form as power
-
-five arthas       Five Meanings
-                  tanmātra
-                  tamas-side of the same engine
-                  sight, sound, odor, taste, tangible as Meanings
-                  not five finished objects
-
-avijñapti         Idea-pole of Form
-                  projector — named here, defined at 1.11
+five indriyas     sattva — rules applied to nature
+five arthas       first Moment of Meaning — tanmātra — tamas-side
+avijñapti         projector, Idea-pole — defined 1.11
 ```
 
-Organon rendering (project reconstruction):
+Pre Loka:Karma. All Rational. Māyā is Displaying the Meaning of the Word. *Satkārya*: Meaning already in the Principle.
 
-This is Pre Loka. No world-chapter yet. *Rūpa* is Form Theory: Relational Mechanism, Possibility of Relation. The māyic projector is Buddha Mind. **Māyā is Displaying the Meaning of the Word.** *Satkārya*: the Meaning displayed was already in the Principle.
+Object is real **later**: *artha* dependent on *vastu* — the Thing — Truth of the Thing. That cell is not Pre-Loka. Eliminate Object from this volume's speech. Do not define it here in order to forbid it. Just do not use it.
 
 ```text
-indriya     rule applied to nature (sattva)
-artha       Meaning / tanmātra (tamas-side)
+indriya     sattva-rule
+artha       Meaning (first moment: tanmātra)
 viṣaya     Condition-gloss of that Meaning
 vijñāna    Principle Applied — not a member of rūpa
-Object      Truth of a Thing — not this verse
 ```
 
-Algebra still holds: *Saṃskṛta : Viṣaya* = Conditioned : Condition. It now sits inside Form Theory, not as the only story.
+Algebra still holds inside Form Theory: Conditioned : Condition.
 
 ## 7. Technical Vocabulary
 
@@ -118,40 +117,41 @@ Algebra still holds: *Saṃskṛta : Viṣaya* = Conditioned : Condition. It now
 |---|---|---|---|
 | **rūpa-skandha** | aggregate of form | Form Theory; outer projector | matter; color-shape as the whole |
 | **indriya** | faculty | sattva; rule applied to nature | gross organ alone |
-| **artha** | *artha*; five *viṣayas* | **Five Meanings**; *tanmātra* | Object; leftover verse-word |
-| **viṣaya** | respective field of a faculty | Condition | Object |
+| **artha** | *artha*; five *viṣayas* | first Moment of Meaning; *tanmātra* | leftover verse-word |
+| **viṣaya** | respective field of a faculty | Condition | |
 | **tanmātra** | — | Organon of the five *arthas* | printed as Vasubandhu's list-word |
-| **vijñāna** | (close: corresponding principle) | Principle Applied | consciousness; science; knowledge |
+| **mahābhūta** | great Element | later moment of Meaning; exposed Content | Domain |
+| **vijñāna** | corresponding principle | Principle Applied | consciousness; science; knowledge |
 | **āyatana** | *āyatana* | Dharmic Extension | Sphere |
-| **mahābhūta** | great Element | exposed Content | Domain |
-| **avijñapti** | avijñapti | projector, Idea-pole; defined 1.11 | mute extra atom |
-| **Object** | — | Truth of a Thing | any 1.09 headword |
+| **avijñapti** | avijñapti | projector; defined 1.11 | mute extra atom |
+
+Pre-Loka ban: no Object-cell on this card.
 
 ## 8. Logical Determination
 
 ```text
-1.07  Conditioned = five aggregates
-1.08  sāsrava slice
-1.09  Form = 5 sattva-powers + 5 Meanings + projector
+Meaning_1  = tanmātra = five arthas
+Form : Matter
+Meaning_n  = bhūta as exposed Content
 ```
 
 ```text
-Indriya(f) = RuleOnNature(f) ∧ Sattva(f)
-Artha(a)   = Meaning(a) ∧ Tanmatra(a)
-Visaya(a)  = ConditionGloss(a)
-Avijnapti  named; Projects Mahabhuta at 1.11
+Indriya = RuleOnNature ∧ Sattva
+Artha   = Meaning_1 ∧ Tanmatra
+Visaya  = ConditionGloss(Artha)
+Avijnapti named; Projects Mahabhuta at 1.11
 Vijnana ∉ RupaSkandha
 ```
 
-Pre Loka:Karma. All Rational.
+Pre Loka:Karma. All Rational. Object ∉ this volume.
 
 ## 9. Interpretive Note
 
-Vasubandhu correlates faculty to *viṣaya* by *yathāsvam*. That correlation survives. What dies is the object-reading and the Sphere-reading.
+*Yathāsvam* survives. Object-speech does not.
 
-Five Meanings are how sight and sound enter Form Theory without becoming a paint-box. 1.10 may still count color and configuration *inside* the visible-form Meaning. That count is not the skandha.
+The lucid point: Meaning is not a sticker on a finished thing. First it is *tanmātra*. Then Form and Matter work. Then the *bhūtas* are Meaning as exposed Content. Kośa's order (arthas, then Elements) is that evolution.
 
-Māyā displaying the Meaning of the Word is the māyic projector based on Buddha Mind. Not a trick. *Satkārya* as Knowing Reality, not as a school-sticker on this conventional line.
+When there is a *vastu*, *artha* as Truth of the Thing can be said. That is not this chapter.
 
 ## 10. OWL++ Seed
 
@@ -162,17 +162,13 @@ vak:VAK_1_09
     a vak:Karika ;
     vak:hasTopic vak:FormTheory ;
     vak:preLoka true ;
-    vak:continuesSet vak:VAK_1_07 , vak:VAK_1_08 .
-
-vak:RupaSkandha
-    vak:includes vak:FiveIndriyas , vak:FiveMeanings , vak:Avijnapti .
+    vak:forbids vak:Object .
 
 vak:FiveMeanings
-    vak:organonAs vak:Tanmatra ;
-    vak:verseWord vak:Artha ;
-    vak:bhasyaGloss vak:Visaya .
+    vak:moment vak:FirstMomentOfMeaning ;
+    vak:organonAs vak:Tanmatra .
 
-vak:Indriya
-    vak:guna vak:Sattva ;
-    vak:is vak:RuleAppliedToNature .
+vak:Mahabhuta
+    vak:moment vak:LaterMomentOfMeaning ;
+    vak:follows vak:Tanmatra .
 ```
