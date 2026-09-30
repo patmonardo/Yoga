@@ -12,184 +12,179 @@
 >
 > tadvijñānāśrayā rūpaprasādāś cakṣurādayaḥ // 1.09 //
 
-## 3. Lexical Analysis
+## 3. Padaccheda and Lexical Analysis
+
+**Padaccheda**
+
+rūpam | pañca | indriyāṇi | arthāḥ | pañca | avijñaptiḥ | eva | ca |
+tad-vijñāna-āśrayāḥ | rūpa-prasādāḥ | cakṣus-ādayaḥ
+
+| Form | Analysis | Contextual force |
+|---|---|---|
+| **rūpam** | nominative neuter singular | the rūpa-skandha, not yet visible form alone |
+| **pañca indriyāṇi** | numeral + nominative neuter plural | five faculties |
+| **arthāḥ** | nominative masculine plural | the verse-word; Bhāṣya glosses as the five *viṣayāḥ* |
+| **pañca avijñaptiḥ** | *pañca* counts the *arthas*; *avijñapti* is one further member | eleven-member inventory |
+| **eva ca** | particles | and also |
+| **tad-vijñāna-āśrayāḥ** | bahuvrīhi | supports of the corresponding cognitions; *tad* has two prose antecedents |
+| **rūpa-prasādāḥ** | nominative masculine plural | material clarities |
+| **cakṣus-ādayaḥ** | nominative masculine plural | the eye and the remaining faculties |
+
+The Bhāṣya does the decisive work on *artha*:
 
 ```text
-pañcendriyāṇy arthāḥ   → pañca indriyāṇi arthāḥ
-arthāḥ pañcāvijñaptir  → arthāḥ pañca avijñaptiḥ
-tadvijñānāśrayāḥ       → tad-vijñāna-āśrayāḥ
-rūpaprasādāś           → rūpa-prasādāḥ
-cakṣurādayaḥ           → cakṣus-ādayaḥ
+pañcārthās teṣām eva … indriyāṇāṃ yathāsvaṃ ye pañca viṣayāḥ
 ```
 
-| Form | Padaccheda | Meaning |
-|---|---|---|
-| rūpam | rūpam | form / material form-field |
-| pañca indriyāṇi | pañca indriyāṇi | five faculties |
-| arthāḥ pañca | arthāḥ pañca | five sensory objects or domains |
-| avijñaptiḥ eva ca | avijñaptiḥ eva ca | and avijñapti also |
-| tad-vijñāna-āśrayāḥ | tad-vijñāna-āśrayāḥ | supports of their corresponding cognitions |
-| rūpa-prasādāḥ | rūpa-prasādāḥ | clear or refined material forms |
-| cakṣus-ādayaḥ | cakṣus-ādayaḥ | the eye and the remaining faculties |
-
-The Bhāṣya glosses `arthāḥ` with `viṣayāḥ`: the five respective sensory domains—visible form, sound, odor, taste, and the tangible. This controls the stronger philosophical senses that might otherwise be assigned to `artha`.
-The `pañca` in `arthāḥ pañcāvijñaptiḥ` counts the objects; `avijñaptiḥ`
-is an additional single member of the rūpa inventory.
+*Artha* here is not Object. It is glossed as the *viṣaya* respectively correlated with a faculty.
 
 ## 4. Grammar
 
-The first half gives the complete extension of the rūpa-skandha:
+First line: extension of the aggregate.
 
 ```text
 rūpa-skandha
     = five faculties
-    + five sensory domains
+    + five arthas ( = five viṣayas )
     + avijñapti
 ```
 
-The second half begins the definition of its first member. `Tad-vijñāna-āśrayāḥ` distributes correlatively: each faculty is the support of the cognition corresponding to it.
+`Etāvān rūpaskandhaḥ` in the Bhāṣya closes that count at eleven. Cognition itself is not a twelfth member of rūpa.
+
+Second line: definition of the first five.
 
 ```text
-eye       → support of visual cognition
-ear       → support of auditory cognition
-nose      → support of olfactory cognition
-tongue    → support of gustatory cognition
-body      → support of tactile cognition
+cakṣur-ādayaḥ
+    = rūpa-prasādāḥ
+    = tad-vijñāna-āśrayāḥ
 ```
 
-`Rūpa-prasāda` identifies the faculty as refined material form. The faculty is therefore neither the gross organ alone nor an immaterial power detached from rūpa.
+`Tad` is distributed. The prose gives two antecedents without collapsing them: first the five *arthas*, then the five faculties. Both yield the same five support-relations.
 
-## 5. Literal Translation
+Two uses of *rūpa* stay distinct: the aggregate, and visible form as one *viṣaya* inside `rūpa-śabda-gandha-rasa-spraṣṭavya`.
 
-### Close syntactic construe
+## 5. Translation
 
-> Rūpa is the five faculties, the five objects, and avijñapti also. The eye and the others are clear material forms serving as supports of their corresponding cognitions.
+### Literal Translation
 
-### Bhāṣya-informed translation
+Rūpa is the five faculties, the five *arthas*, and avijñapti also. The eye and the others are material clarities, supports of the corresponding cognitions.
 
-> The rūpa aggregate comprises the five sensory faculties, their five respective sensory domains, and avijñapti. The faculties beginning with the eye are refined material forms that support the sensory cognitions corresponding to those domains.
+### Bhāṣya-informed study translation
 
-The first translation preserves `artha` as “object.” The second follows the Bhāṣya's gloss `viṣaya` and renders the term relationally as “sensory domain.”
+The aggregate of material form comprises the five faculties, the five respective domains (*viṣayāḥ*) of those faculties, and avijñapti. That is the full extent of the rūpa-skandha. The faculties beginning with the eye are material clarities that support the cognitions correlated with those domains — or, in the second construal, that support eye-cognition and the rest. The Blessed One calls the eye an internal sphere, a material clarity dependent upon the four great Elements. The Prakaraṇa agrees: the eye is a material clarity serving as the support of eye-cognition. Avijñapti is named, not defined. The five domains remain to be explained.
+
+The Literal keeps the verse-word *artha*. The study translation follows the Bhāṣya's gloss *viṣaya* and does not print Object.
 
 ## 6. Philosophical Translation
 
-> The rūpa aggregate comprises five sensory faculties, their five respective sensory domains, and avijñapti. The faculties are material clarities serving as supports for corresponding sensory cognitions. Avijñapti is included here but is not yet defined.
+The first aggregate is not a pile of stuff. It is five faculties, five domains, and avijñapti. A faculty is material clarity supporting a determinate cognition. A domain is what that faculty is *of*, respectively. The two construals of *tad* name the same support from the domain-side and from the faculty-side. Neither turns the domain into an Object.
 
-Organon rendering (project reconstruction):
-
-> The five `arthas` are not yet objects in the strong Kantian sense. An object is not a ready-made thing simply placed before cognition; it requires the synthetic unity through which a manifold can count as one object of experience. Here the Bhāṣya gives only `viṣaya`: the proper domain correlated with a faculty and its cognition. VAK 1.09 therefore begins with a conditional architecture rather than a finished ontology of objects.
-
-Kant–Fichte comparison (project reconstruction):
-
-> The project can test `viṣaya` as a domain principle for possible sensory content. That transcendental description goes beyond the Bhāṣya's local gloss, which identifies the respective sensory domains of the five faculties. A particular color or sound and the domain in which it can be cognized may then be distinguished within the Organon analysis.
+Organon rendering (project reconstruction; not Vasubandhu's wording):
 
 ```text
-indriya
-    = material condition of knowing
-        ↕
-viṣaya
-    = sensory domain; proposed domain-principle in the project
-        ↕
-vijñāna
-    = actual determinate knowing
+Saṃskṛta : Viṣaya
+Conditioned : Condition
 ```
 
-> This structure is Kant–Fichtean. Kant supplies the distinction between the a priori form of a domain and the empirical contents given within it. Fichte supplies the reciprocal determination of the subjective and objective poles within knowing: faculty and `viṣaya` are not two independently finished things subsequently brought together. A Hegelian reading becomes warranted only if the later analysis shows that these moments generate and comprehend themselves as a self-developing whole. That stronger claim is not yet contained in this verse.
+1.07 gave the Conditioned its body as five aggregates. 1.09 opens that body at rūpa by correlating **indriya** to **viṣaya**. That correlation is the Algebra at work inside the first aggregate. People translate *viṣaya* as object because they want the relation already closed. The text does not close it. It pairs a power of disclosure with the domain in which a content can appear.
+
+```text
+indriya     = faculty: material clarity as support of a cognition
+viṣaya     = Condition: the respective domain of that faculty
+vijñāna    = cognition actual under that support and that domain
+Object      = Truth of a Thing
+            — Objectivity inside the Subjective Logic
+            — not a cell of the Objective Logic
+            — not this verse's word
+```
+
+*Vastu* as Thing was already reserved at 1.07. Object is later than Thing. Do not spend it here.
 
 ## 7. Technical Vocabulary
 
-| Sanskrit | Project rendering | Determination |
+Import-lexicon continued from 1.07–1.08. Conventional column answers this Bhāṣya. Organon column stays marked.
+
+| Sanskrit | Conventional rendering | Organon determination | Do not use |
 |---|---|---|
-| rūpa | material form-field | broader than visible shape; the first aggregate under analysis |
-| indriya | faculty | refined material support of a corresponding cognition |
-| artha | sensory object or domain here | glossed by the Bhāṣya as the respective `viṣaya` of a faculty |
-| viṣaya | sensory domain | a priori domain-principle is an Organon proposal, not the Bhāṣya's lexical gloss |
-| vijñāna | determinate sensory cognition | cognition whose material support is the corresponding faculty |
-| āśraya | support | the conditioning basis supplied by the faculty |
-| rūpa-prasāda | refined material form | sensitive derivative materiality, not merely the gross organ |
-| avijñapti | avijñapti | included in rūpa here; its definition belongs to VAK 1.11 |
+| **rūpa-skandha** | aggregate of material form | first actuality of the Conditioned | “matter”; visible form as the whole aggregate |
+| **rūpa** (in the fivefold list) | visible form | one *viṣaya*, not the aggregate | collapsing the two *rūpas* |
+| **indriya** | faculty | power of disclosure as refined material support | gross organ alone; occult power detached from rūpa |
+| **artha** | *artha*; here the five *viṣayas* | not Meaning (*artha* of jñāna) in this unit | Object |
+| **viṣaya** | (sensory) domain | Condition in the Algebra Saṃskṛta:Viṣaya | Object; “sense-object” as finished thing |
+| **yathāsvam** | respectively / each according to its own | the correlation itself: this faculty, this domain | a loose “as appropriate” |
+| **vijñāna** | cognition | determinate sensory cognition; still not Ch. 7 *jñāna* | English “consciousness” |
+| **āśraya** | support | the faculty as conditioning basis of a cognition | substrate as dead matter |
+| **rūpa-prasāda** | material clarity | sensitive derived form; *rūpātmaka prasāda* | mere visual transparency; “purity” as a moral word |
+| **ādhyātmika āyatana** | internal sphere | Essence-grade appears in the citation; not yet the Concept | “sense-base” as the general name of *āyatana* |
+| **mahābhūta** | great Element | Element, not Domain | “element” as modern chemistry |
+| **upādāya** (here) | dependent upon | dependence of derived form on the four Elements | 1.08 appropriation read back into this absolutive |
+| **avijñapti** | avijñapti | named in the inventory; defined at 1.11 | an occult atom invented here |
+| **Object** | — | Truth of a Thing; Objectivity in the Subjective Logic | a translation of *viṣaya* or *artha* in this card |
+
+**Import rule.** *Viṣaya* = Condition is Organon. Conventional English on this card is *domain*, distributed by *yathāsvam* to a faculty. *Pratyaya* from 1.07 remains the co-acting condition that makes the Conditioned; it is not this *viṣaya*. 1.10 will divide the domains; 1.11 will define avijñapti.
 
 ## 8. Logical Determination
 
-VAK 1.07 identified conditioned dharmas with the five aggregates. VAK 1.08 distinguished aggregates with outflows as aggregates of appropriation. VAK 1.09 now begins the internal articulation of the first aggregate:
+Set 1.07–1.09:
 
 ```text
-conditioned dharmas
-    → five aggregates
-        → rūpa-skandha
-            ├── five faculties
-            ├── five sensory domains
-            └── avijñapti
+1.07  Conditioned = five aggregates
+1.08  sāsrava slice = upādānaskandha
+1.09  rūpa-skandha = 5 faculties + 5 domains + avijñapti
 ```
 
-The Bhāṣya establishes these source-level relations:
+Source relations:
 
 ```text
-faculty = material clarity
-faculty → supports its corresponding sensory cognition
-sensory object/domain → corresponds to that faculty
+Indriya(f) → RupaPrasada(f) ∧ AsrayaOf(f, cognition_f)
+Artha(a) ↔ Visaya(a)
+Visaya(a) ↔ RespectiveDomainOf(a, f)
+Vijnana ∉ RupaSkandha
 ```
 
-The following formalization is an Organon hypothesis about those relations:
+Two construals of *tad*, same supports:
 
 ```text
-Faculty(f) ∧ MaterialConditionOf(f, k)
-Visaya(v) ∧ ProposedDomainPrincipleOf(v, k)
-Knowing(k) ∧ ActualizesWithin(k, f, v)
+tad ← five arthas   → supports of cognitions-of-those-domains
+tad ← five faculties → supports of eye-cognition and the rest
 ```
 
-The empirical content must be distinguished from its domain-principle:
+Algebra, marked as project:
 
 ```text
-EmpiricalContent(e) ∧ AppearsWithin(e, v)
-Visaya(v) ↛ EmpiricalContent(v)
+Saṃskṛta : Viṣaya
+Conditioned : Condition
+
+Visaya(v)  ↛ Object(v)
+Object     = TruthOf(Thing)
+Object     ∈ SubjectiveLogic.Objectivity
+Object     ∉ ObjectiveLogic
 ```
 
-This is a proposed reciprocal determination of the conditions of knowing, not
-a derivation asserted by Vasubandhu here.
+Empirical content is not the domain:
+
+```text
+AppearsWithin(content, visaya)
+Visaya(v) ↛ Content(v)
+```
 
 ## 9. Interpretive Note
 
-The verse begins an account of sensory cognition through its material
-supports. A faculty belongs to rūpa and supports a determinate sensory
-cognition. The Bhāṣya identifies each `artha` as a `viṣaya` respectively
-correlated with a faculty. A stronger account of these domains as principles
-of possible knowing belongs to the Organon comparison, not to the source
-gloss itself.
+This verse is why the dyad is not a slogan. Vasubandhu does not say: faculty meets object. He says: these faculties have, each according to its own, these five *viṣayas*. Then he defines the faculty as material clarity supporting the correlated cognition. Domain and support are given together. That is the relation.
 
-The Organon can test this Kantian comparison:
+The two antecedents of *tad* are the same intelligence from two sides. Name the cognition from what it is of, or name it from the faculty that supports it. The Prakaraṇa prefers the second wording. Neither wording spends Object.
 
-```text
-faculty
-    = material condition of possible sensory cognition
+Organon, marked as project:
 
-viṣaya
-    = proposed domain-principle of possible sensory content
+Conditioned:Condition is now inside rūpa, not only as a chapter-heading Algebra. The faculty is not the Condition. The domain is. The faculty is the material clarity through which a cognition can be supported in that Condition. Object comes when a Thing has been comprehended as Object — that work belongs to Objectivity in the Subjective Logic, after Subjectivity, not in Being or Essence. Spending Object in 1.09 would flatten the Science back into the mistranslation this set exists to stop.
 
-empirical appearance
-    = variable content given within that domain
-```
+*Āyatana* appears in the citation as internal sphere. That is Essence touching the faculty-definition. It is not a warrant to call *āyatana* the Concept.
 
-Within that project comparison, `viṣaya` can be treated as a Principle of
-Knowing before a determinate Object is constituted. This is an Organon
-proposal; the Bhāṣya here permits the simpler translation “sensory object”
-or “sensory domain.”
+*Upādāya* on the Elements is dependence of derived form. It is not the afflictive appropriation of 1.08.
 
-In this Fichtean comparison, faculty and domain can be treated as
-distinguishable poles within one relation of possible knowing. A genetic
-derivation of that relation remains work for the subsequent analysis; it is
-not supplied by the kārikā or Bhāṣya here.
-
-`Avijñapti` is an additional member of the classification. VAK 1.09 names it
-without defining it. Its later explanation in VAK 1.11 can ground the
-project's study of action and a material determination that is not ordinarily
-manifest; that account should not be read back into this enumeration.
+Avijñapti is the eleventh member and a silence. 1.11 may speak. This card may not invent it.
 
 ## 10. OWL++ Seed
-
-The inventory and faculty-support triples below record the source-level
-claims. The final domain-principle triples are proposed Organon modeling and
-do not represent the Bhāṣya's definition of `viṣaya`.
 
 ```ttl
 @prefix vak: <http://127.0.0.1:3000/vak#> .
@@ -199,21 +194,32 @@ vak:VAK_1_09
     a vak:Karika ;
     rdfs:label "VAK 1.09" ;
     vak:hasTopic vak:RupaSkandhaArticulation ;
-    vak:belongsTo vak:Dhatunirdesa .
+    vak:belongsTo vak:Dhatunirdesa ;
+    vak:continuesSet vak:VAK_1_07 , vak:VAK_1_08 .
 
 vak:RupaSkandha
-    vak:includes vak:FiveSensoryFaculties , vak:FiveSensoryDomains , vak:Avijnapti .
+    vak:includes vak:FiveSensoryFaculties ,
+                 vak:FiveVisayas ,
+                 vak:Avijnapti .
 
 vak:SensoryFaculty
-    a vak:RefinedMaterialForm ;
-    vak:supports vak:CorrespondingSensoryCognition .
+    a vak:RupaPrasada ;
+    vak:supports vak:CorrespondingCognition ;
+    vak:hasRespectiveDomain vak:Visaya .
 
-vak:SensoryDomain
-    rdfs:label "sensory domain (artha glossed as viṣaya)" ;
-    vak:correspondsTo vak:SensoryFaculty , vak:CorrespondingSensoryCognition .
+vak:Visaya
+    rdfs:label "domain; Organon Condition" ;
+    vak:glossesVerseWord vak:Artha ;
+    vak:forbiddenLabel "object" .
 
-vak:ProposedDomainPrinciple
-    a vak:OrganonHypothesis ;
-    vak:proposedFor vak:SensoryDomain ;
-    vak:proposedToDeterminePossibleContentOf vak:CorrespondingSensoryCognition .
+vak:Algebra
+    vak:dyad vak:SamskrtaVisaya ;
+    vak:condition vak:Visaya ;
+    vak:conditioned vak:Samskrta .
+
+vak:Object
+    vak:definedAs vak:TruthOfThing ;
+    vak:belongsTo vak:SubjectiveLogicObjectivity ;
+    vak:doesNotBelongTo vak:ObjectiveLogic ;
+    vak:notUsedAsTranslationOf vak:Visaya , vak:Artha .
 ```
