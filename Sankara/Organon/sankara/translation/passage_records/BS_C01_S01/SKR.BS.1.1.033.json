@@ -1,0 +1,90 @@
+{
+  "record_id": "SKR.BS.1.1.033",
+  "work_code": "BS",
+  "section_code": "1.1",
+  "source": {
+    "source_url": "https://advaitasharada.sringeri.net/display/bhashya/BS/devanagari?id=BS_C01&page=1",
+    "source_sha256": "3e25449a44a0e912318db91030eb2e604e0c4eb2f8b5ceaa4ff4f92ae5e5bb80",
+    "language": "sa",
+    "script": "Devanagari",
+    "edition_note": "Draft block record from BS_C01_S01.json::BS_C01_S01_V05_VERSETEXT_01 (versetext)."
+  },
+  "text": {
+    "source_text": "ईक्षतेर्नाशब्दम् ॥ ५ ॥",
+    "transliteration_iast": "īkṣaternāśabdam || 5 ||",
+    "segmentation_note": "Block-level extraction from BS_C01_S01_V05/BS_C01_S01_V05_VERSETEXT_01."
+  },
+  "translation": {
+    "literal_translation": "Because of seeing/intending, not (the unscriptured one). (5)",
+    "technical_translation": "Sutra 1.1.5: Pradhana is excluded; causal referent is conscious, as indicated by ikshateh (intentional seeing).",
+    "interpretive_note": "Sutra hinge for sentient-cause requirement."
+  },
+  "analysis": {
+    "lexical_notes": [
+      {
+        "headword_iast": "īkṣateḥ",
+        "gloss": "from deliberate seeing/willing",
+        "contextual_sense": "Sutra reason-sign that causal subject in the text is intentional, not inert.",
+        "grammatical_role": "ablative reason term",
+        "alternate_glosses": [
+          "because of intentional regard",
+          "on account of purposive cognition"
+        ]
+      },
+      {
+        "headword_iast": "aśabdam",
+        "gloss": "not scripturally denoted here",
+        "contextual_sense": "Excludes Pradhana since the Upanishadic wording does not establish it as referent.",
+        "grammatical_role": "predicate adjective",
+        "alternate_glosses": [
+          "textually unsupported",
+          "non-signified by this passage"
+        ]
+      },
+      {
+        "headword_iast": "cetana-kāraṇa-niyama",
+        "gloss": "constraint that cause be sentient",
+        "contextual_sense": "The deliberative marker functions as a rule restricting admissible first-cause candidates.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "sentient-cause requirement",
+          "awareness-conditioned causality rule"
+        ]
+      },
+      {
+        "headword_iast": "pradhāna-vyāvṛtti",
+        "gloss": "exclusion of Pradhana option",
+        "contextual_sense": "The concise sutra cuts off Sankhya reinterpretation opened in the prior objection.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "Sankhya-cause elimination",
+          "inert-principle exclusion"
+        ]
+      }
+    ],
+    "argument_tags": [
+      "resolution"
+    ],
+    "tags": [
+      "layout:chapter-section-record",
+      "policy:append-and-supersede-never-delete",
+      "strata:sutra"
+    ]
+  },
+  "provenance": {
+    "extraction_timestamp_utc": "2026-06-02T16:24:50Z",
+    "extractor_version": "extract_bs_records.py@0.1",
+    "translator_version": "human+llm@bs-c01-s01-curation-pass-5",
+    "reviewer_version": "pending",
+    "source_manifest_path": "reality/src/logos/sankara/raw/manifest.jsonl"
+  },
+  "qa": {
+    "status": "draft",
+    "confidence": 0.97,
+    "uncertainty_notes": [
+      "Curated in contiguous S01 pass with stable inferential-tag schema.",
+      "A later philological pass should revisit ikshateh/atman lexical precision and figurative-language boundary claims in records 1.1.032-1.1.039."
+    ]
+  },
+  "record_kind": "sutra"
+}

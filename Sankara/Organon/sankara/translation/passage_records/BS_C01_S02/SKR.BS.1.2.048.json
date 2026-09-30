@@ -1,0 +1,90 @@
+{
+  "record_id": "SKR.BS.1.2.048",
+  "work_code": "BS",
+  "section_code": "1.2",
+  "source": {
+    "source_url": "https://advaitasharada.sringeri.net/display/bhashya/BS/devanagari?id=BS_C01&page=1",
+    "source_sha256": "3e25449a44a0e912318db91030eb2e604e0c4eb2f8b5ceaa4ff4f92ae5e5bb80",
+    "language": "sa",
+    "script": "Devanagari",
+    "edition_note": "Draft block record from BS_C01_S02.json::BS_C01_S02_V19_VERSETEXT_01 (versetext)."
+  },
+  "text": {
+    "source_text": "न च स्मार्तमतद्धर्माभिलापात् ॥ १९ ॥",
+    "transliteration_iast": "na ca smārtamataddharmābhilāpāt || 19 ||",
+    "segmentation_note": "Block-level extraction from BS_C01_S02_V19/BS_C01_S02_V19_VERSETEXT_01."
+  },
+  "translation": {
+    "literal_translation": "And not the Smrti-based one, because attributes not belonging to it are spoken. (19)",
+    "technical_translation": "Sutra 1.2.19: Smrti-Pradhana is excluded as antaryamin since the passage attributes non-Pradhana properties.",
+    "interpretive_note": "Sutra compression of the ataddharma criterion."
+  },
+  "analysis": {
+    "lexical_notes": [
+      {
+        "headword_iast": "na ca smartam",
+        "gloss": "nor the Smrti-based candidate",
+        "contextual_sense": "Sutra explicitly excludes Pradhana imported from Smrti traditions.",
+        "grammatical_role": "negative doctrinal phrase",
+        "alternate_glosses": [
+          "not the smarta option",
+          "Smrti candidate denied"
+        ]
+      },
+      {
+        "headword_iast": "ataddharma-abhilapat",
+        "gloss": "because non-Pradhana properties are stated",
+        "contextual_sense": "Reason clause: assigned attributes do not belong to insentient Pradhana.",
+        "grammatical_role": "ablative reason phrase",
+        "alternate_glosses": [
+          "from incompatible property assertion",
+          "due to alien predicate ascription"
+        ]
+      },
+      {
+        "headword_iast": "smrti-sruti-viveka",
+        "gloss": "discrimination between Smrti import and Sruti intent",
+        "contextual_sense": "Protects local scriptural context from being overridden by external doctrinal constructs.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "textual hierarchy discrimination",
+          "revelation-tradition sorting"
+        ]
+      },
+      {
+        "headword_iast": "sutra-pratisedha",
+        "gloss": "aphoristic negation",
+        "contextual_sense": "Concise rejection formula closing the Pradhana branch of the debate.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "terse exclusion",
+          "brief doctrinal denial"
+        ]
+      }
+    ],
+    "argument_tags": [
+      "resolution"
+    ],
+    "tags": [
+      "layout:chapter-section-record",
+      "policy:append-and-supersede-never-delete",
+      "strata:sutra"
+    ]
+  },
+  "provenance": {
+    "extraction_timestamp_utc": "2026-06-02T16:24:50Z",
+    "extractor_version": "extract_bs_records.py@0.1",
+    "translator_version": "human+llm@bs-c01-s02-curation-pass-7",
+    "reviewer_version": "pending",
+    "source_manifest_path": "reality/src/logos/sankara/raw/manifest.jsonl"
+  },
+  "qa": {
+    "status": "draft",
+    "confidence": 0.95,
+    "uncertainty_notes": [
+      "Curated in contiguous S02 pass with stable cadence and inferential-tag schema.",
+      "A later philological pass should revisit antaryamin and akshara-bhuta-yoni terminology in records 1.2.047-1.2.054."
+    ]
+  },
+  "record_kind": "sutra"
+}

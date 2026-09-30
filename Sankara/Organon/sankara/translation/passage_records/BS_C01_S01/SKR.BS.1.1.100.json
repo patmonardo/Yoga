@@ -1,0 +1,90 @@
+{
+  "record_id": "SKR.BS.1.1.100",
+  "work_code": "BS",
+  "section_code": "1.1",
+  "source": {
+    "source_url": "https://advaitasharada.sringeri.net/display/bhashya/BS/devanagari?id=BS_C01&page=1",
+    "source_sha256": "3e25449a44a0e912318db91030eb2e604e0c4eb2f8b5ceaa4ff4f92ae5e5bb80",
+    "language": "sa",
+    "script": "Devanagari",
+    "edition_note": "Draft block record from BS_C01_S01.json::BS_C01_S01_V30_VERSETEXT_01 (versetext)."
+  },
+  "text": {
+    "source_text": "शास्त्रदृष्ट्या तूपदेशो वामदेववत् ॥ ३० ॥",
+    "transliteration_iast": "śāstradṛṣṭyā tūpadeśo vāmadevavat || 30 ||",
+    "segmentation_note": "Block-level extraction from BS_C01_S01_V30/BS_C01_S01_V30_VERSETEXT_01."
+  },
+  "translation": {
+    "literal_translation": "The teaching is from scriptural vision, as in Vamadeva. (30)",
+    "technical_translation": "Sutra 1.1.30: speaker's first-person instruction is understood through shastra-drsti identity realization (Vamadeva paradigm).",
+    "interpretive_note": "Sutra codifies the non-literal narrative speaker reading."
+  },
+  "analysis": {
+    "lexical_notes": [
+      {
+        "headword_iast": "sastra-drstya upadesah",
+        "gloss": "instruction from scriptural realization-vision",
+        "contextual_sense": "Sutra states that first-person teaching is from realized standpoint recognized in scripture.",
+        "grammatical_role": "sutra phrase",
+        "alternate_glosses": [
+          "vision-based instruction",
+          "realization-grounded teaching"
+        ]
+      },
+      {
+        "headword_iast": "vamadeva-vat",
+        "gloss": "as in Vamadeva",
+        "contextual_sense": "Classic precedent authorizes identity-speech without narrowing referent to individual ego.",
+        "grammatical_role": "comparative phrase",
+        "alternate_glosses": [
+          "like Vamadeva",
+          "Vamadeva paradigm"
+        ]
+      },
+      {
+        "headword_iast": "atmopadesa-laksana",
+        "gloss": "interpretive handling of self-referential speech",
+        "contextual_sense": "First-person pronoun is read functionally through realization context.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "self-speech interpretation",
+          "I-statement hermeneutic"
+        ]
+      },
+      {
+        "headword_iast": "deha-devata-vyavrtti",
+        "gloss": "exclusion of bodily-deity limitation",
+        "contextual_sense": "Speaker is not confined to finite form when uttering realization-based identity.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "finite speaker exclusion",
+          "deity-form limitation denied"
+        ]
+      }
+    ],
+    "argument_tags": [
+      "resolution"
+    ],
+    "tags": [
+      "layout:chapter-section-record",
+      "policy:append-and-supersede-never-delete",
+      "strata:sutra"
+    ]
+  },
+  "provenance": {
+    "extraction_timestamp_utc": "2026-06-02T16:24:50Z",
+    "extractor_version": "extract_bs_records.py@0.1",
+    "translator_version": "human+llm@bs-c01-s01-curation-pass-13",
+    "reviewer_version": "pending",
+    "source_manifest_path": "reality/src/logos/sankara/raw/manifest.jsonl"
+  },
+  "qa": {
+    "status": "draft",
+    "confidence": 0.97,
+    "uncertainty_notes": [
+      "Curated in contiguous S01 pass with stable inferential-tag schema.",
+      "A later philological pass should revisit truncated Kausitaki argument lines and detailed phrasing around upasa-traividhya in records 1.1.101-1.1.103."
+    ]
+  },
+  "record_kind": "sutra"
+}

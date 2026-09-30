@@ -1,0 +1,90 @@
+{
+  "record_id": "SKR.BS.1.1.065",
+  "work_code": "BS",
+  "section_code": "1.1",
+  "source": {
+    "source_url": "https://advaitasharada.sringeri.net/display/bhashya/BS/devanagari?id=BS_C01&page=1",
+    "source_sha256": "3e25449a44a0e912318db91030eb2e604e0c4eb2f8b5ceaa4ff4f92ae5e5bb80",
+    "language": "sa",
+    "script": "Devanagari",
+    "edition_note": "Draft block record from BS_C01_S01.json::BS_C01_S01_V17_VERSETEXT_01 (versetext)."
+  },
+  "text": {
+    "source_text": "भेदव्यपदेशाच्च ॥ १७ ॥",
+    "transliteration_iast": "bhedavyapadeśācca || 17 ||",
+    "segmentation_note": "Block-level extraction from BS_C01_S01_V17/BS_C01_S01_V17_VERSETEXT_01."
+  },
+  "translation": {
+    "literal_translation": "And because of declaration of difference. (17)",
+    "technical_translation": "Sutra 1.1.17: anandamaya is not jiva, established by explicit difference-statements.",
+    "interpretive_note": "Sutra compression of bheda-vyapadesha argument."
+  },
+  "analysis": {
+    "lexical_notes": [
+      {
+        "headword_iast": "bheda-vyapadeśāc ca",
+        "gloss": "and because difference is explicitly stated",
+        "contextual_sense": "Sutra treats differentiation-language as further evidence against jiva-identification.",
+        "grammatical_role": "sutra reason phrase",
+        "alternate_glosses": [
+          "from stated distinction",
+          "due to explicit dual reference"
+        ]
+      },
+      {
+        "headword_iast": "labdha-labdhavya-nyāya",
+        "gloss": "principle that attained is distinct from attainer",
+        "contextual_sense": "Supports reading of pedagogical duality without positing ultimate two-self doctrine.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "attainer-attained rule",
+          "acquirer-object principle"
+        ]
+      },
+      {
+        "headword_iast": "jīva-pakṣa-nivṛtti",
+        "gloss": "withdrawal of jiva thesis",
+        "contextual_sense": "Finite-self referent is decisively retired in this stage of adjudication.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "individualist reading retreat",
+          "bound-self thesis withdrawal"
+        ]
+      },
+      {
+        "headword_iast": "adhikaraṇa-dṛḍhīkaraṇa",
+        "gloss": "strengthening of topical conclusion",
+        "contextual_sense": "Adds a second line of support after anupapatti-based exclusion.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "argument reinforcement",
+          "conclusion fortification"
+        ]
+      }
+    ],
+    "argument_tags": [
+      "resolution"
+    ],
+    "tags": [
+      "layout:chapter-section-record",
+      "policy:append-and-supersede-never-delete",
+      "strata:sutra"
+    ]
+  },
+  "provenance": {
+    "extraction_timestamp_utc": "2026-06-02T16:24:50Z",
+    "extractor_version": "extract_bs_records.py@0.1",
+    "translator_version": "human+llm@bs-c01-s01-curation-pass-9",
+    "reviewer_version": "pending",
+    "source_manifest_path": "reality/src/logos/sankara/raw/manifest.jsonl"
+  },
+  "qa": {
+    "status": "draft",
+    "confidence": 0.97,
+    "uncertainty_notes": [
+      "Curated in contiguous S01 pass with stable inferential-tag schema.",
+      "A later philological pass should revisit tadyoga nuance and the heavily compressed debate text in records 1.1.069-1.1.071."
+    ]
+  },
+  "record_kind": "sutra"
+}

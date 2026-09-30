@@ -1,0 +1,101 @@
+{
+  "record_id": "SKR.BS.1.1.006",
+  "work_code": "BS",
+  "section_code": "1.1",
+  "source": {
+    "source_url": "https://advaitasharada.sringeri.net/display/bhashya/BS/devanagari?id=BS_C01&page=1",
+    "source_sha256": "3e25449a44a0e912318db91030eb2e604e0c4eb2f8b5ceaa4ff4f92ae5e5bb80",
+    "language": "sa",
+    "script": "Devanagari",
+    "edition_note": "Draft block record from BS_C01_S01.json::BS_C01_S01_V01_B2 (bhashya)."
+  },
+  "text": {
+    "source_text": "अतःशब्दः हेत्वर्थः । यस्मा द्वे द एव अग्निहोत्रादीनां श्रेयःसाधनानामनित्यफलतां दर्शयति — ‘ तद्यथेह कर्मचितो लोकः क्षीयत एवमेवामुत्र पुण्यचितो लोकः क्षीयते ’ (छा. उ. ८ । १ । ६) इत्यादिः ; तथा ब्रह्मविज्ञानादपि परं पुरुषार्थं दर्शयति — ‘ ब्रह्मविदाप्नोति परम् ’ (तै. उ. २ । १ । १) इत्यादिः । तस्मात् यथोक्तसाधनसम्पत्त्यनन्तरं ब्रह्मजिज्ञासा कर्तव्या ॥",
+    "transliteration_iast": "ataḥśabdaḥ hetvarthaḥ | yasmā dve da eva agnihotrādīnāṃ śreyaḥsādhanānāmanityaphalatāṃ darśayati — ‘ tadyatheha karmacito lokaḥ kṣīyata evamevāmutra puṇyacito lokaḥ kṣīyate ’ (chā. u. 8 | 1 | 6) ityādiḥ ; tathā brahmavijñānādapi paraṃ puruṣārthaṃ darśayati — ‘ brahmavidāpnoti param ’ (tai. u. 2 | 1 | 1) ityādiḥ | tasmāt yathoktasādhanasampattyanantaraṃ brahmajijñāsā kartavyā ||",
+    "segmentation_note": "Block-level extraction from BS_C01_S01_V01/BS_C01_S01_V01_B2."
+  },
+  "translation": {
+    "literal_translation": "The word 'atah' has causal force: because scripture itself shows the impermanence of results from works such as Agnihotra ('as here a world won by action perishes, so too in the next world the merit-won world perishes'), and also shows the supreme human end beyond that through Brahman-knowledge ('the knower of Brahman attains the Highest'). Therefore, after acquiring the stated preparatory qualifications, inquiry into Brahman should be undertaken.",
+    "technical_translation": "Bhashya reads 'atah' as hetu: finitude of karma-phala and supremacy of brahma-vidya motivate transition to Brahma-jijnasa.",
+    "interpretive_note": "Moves the argument from lexical parsing to existential motive."
+  },
+  "analysis": {
+    "lexical_notes": [
+      {
+        "headword_iast": "atah",
+        "gloss": "therefore/from this reason",
+        "contextual_sense": "Read as hetu indicating transition to Brahman-inquiry from prior discerned grounds.",
+        "grammatical_role": "indeclinable causal particle",
+        "alternate_glosses": [
+          "hence",
+          "for this reason"
+        ]
+      },
+      {
+        "headword_iast": "hetvartha",
+        "gloss": "causal-force meaning",
+        "contextual_sense": "Bhashya insists atah functions logically, not merely sequentially.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "reason-value",
+          "causal import"
+        ]
+      },
+      {
+        "headword_iast": "karma-phala-anityatva",
+        "gloss": "impermanence of ritual fruits",
+        "contextual_sense": "Scriptural evidence of finite outcomes motivates seeking the highest purushartha.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "transience of works-results",
+          "non-eternity of ritual gain"
+        ]
+      },
+      {
+        "headword_iast": "brahma-vidya-paratva",
+        "gloss": "supremacy of Brahman-knowledge",
+        "contextual_sense": "Contrasted with finite karmic attainments as reason for inquiry shift.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "primacy of liberating knowledge",
+          "highest epistemic path"
+        ]
+      },
+      {
+        "headword_iast": "jijnasa-pravritti-hetu",
+        "gloss": "motivating ground for inquiry",
+        "contextual_sense": "Combines finite-result critique with liberation orientation.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "inquiry impetus",
+          "reason for turning to Brahman-question"
+        ]
+      }
+    ],
+    "argument_tags": [
+      "definition",
+      "resolution"
+    ],
+    "tags": [
+      "layout:chapter-section-record",
+      "policy:append-and-supersede-never-delete",
+      "strata:bhasya"
+    ]
+  },
+  "provenance": {
+    "extraction_timestamp_utc": "2026-06-02T16:24:50Z",
+    "extractor_version": "extract_bs_records.py@0.1",
+    "translator_version": "human+llm@bs-c01-s01-curation-pass-1",
+    "reviewer_version": "pending",
+    "source_manifest_path": "reality/src/logos/sankara/raw/manifest.jsonl"
+  },
+  "qa": {
+    "status": "draft",
+    "confidence": 0.93,
+    "uncertainty_notes": [
+      "Curated in contiguous S01 opening pass with stable inferential-tag schema.",
+      "A later philological pass should revisit dense adhyasa technical vocabulary and karmani-sasthi grammatical framing in PRE-1.1.007."
+    ]
+  },
+  "record_kind": "bhasya"
+}

@@ -1,0 +1,90 @@
+{
+  "record_id": "SKR.BS.1.1.057",
+  "work_code": "BS",
+  "section_code": "1.1",
+  "source": {
+    "source_url": "https://advaitasharada.sringeri.net/display/bhashya/BS/devanagari?id=BS_C01&page=1",
+    "source_sha256": "3e25449a44a0e912318db91030eb2e604e0c4eb2f8b5ceaa4ff4f92ae5e5bb80",
+    "language": "sa",
+    "script": "Devanagari",
+    "edition_note": "Draft block record from BS_C01_S01.json::BS_C01_S01_V13_VERSETEXT_01 (versetext)."
+  },
+  "text": {
+    "source_text": "विकारशब्दान्नेति चेन्न प्राचुर्यात् ॥ १३ ॥",
+    "transliteration_iast": "vikāraśabdānneti cenna prācuryāt || 13 ||",
+    "segmentation_note": "Block-level extraction from BS_C01_S01_V13/BS_C01_S01_V13_VERSETEXT_01."
+  },
+  "translation": {
+    "literal_translation": "If it be said 'No, because it is a modification-word,' no - because of abundance. (13)",
+    "technical_translation": "Sutra 1.1.13: mayat in anandamaya is taken as pracurya, not vikara.",
+    "interpretive_note": "Sutra settles the suffix dispute in favor of Brahman-reference."
+  },
+  "analysis": {
+    "lexical_notes": [
+      {
+        "headword_iast": "vikāra-śabdāt na iti cet",
+        "gloss": "if from modification-word, no",
+        "contextual_sense": "Sutra voices objection that mayat implies producthood.",
+        "grammatical_role": "conditional argumentative phrase",
+        "alternate_glosses": [
+          "modification objection clause",
+          "vikara challenge statement"
+        ]
+      },
+      {
+        "headword_iast": "na prācuryāt",
+        "gloss": "no, because of abundance sense",
+        "contextual_sense": "Resolution affirms plenitude semantics for anandamaya.",
+        "grammatical_role": "reason phrase",
+        "alternate_glosses": [
+          "denied due to plenitude",
+          "rejected via abundance reading"
+        ]
+      },
+      {
+        "headword_iast": "śabda-śakti-vikalpa",
+        "gloss": "alternative semantic power of a term",
+        "contextual_sense": "A single morphological form can license more than one meaning by context.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "polyvalent lexical force",
+          "semantic option structure"
+        ]
+      },
+      {
+        "headword_iast": "brahma-viṣayatā-rakṣaṇa",
+        "gloss": "preservation of Brahman-reference",
+        "contextual_sense": "Suffix dispute is resolved without sacrificing the already-fixed supreme topic.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "Brahman-topic protection",
+          "referent continuity defense"
+        ]
+      }
+    ],
+    "argument_tags": [
+      "resolution"
+    ],
+    "tags": [
+      "layout:chapter-section-record",
+      "policy:append-and-supersede-never-delete",
+      "strata:sutra"
+    ]
+  },
+  "provenance": {
+    "extraction_timestamp_utc": "2026-06-02T16:24:50Z",
+    "extractor_version": "extract_bs_records.py@0.1",
+    "translator_version": "human+llm@bs-c01-s01-curation-pass-8",
+    "reviewer_version": "pending",
+    "source_manifest_path": "reality/src/logos/sankara/raw/manifest.jsonl"
+  },
+  "qa": {
+    "status": "draft",
+    "confidence": 0.97,
+    "uncertainty_notes": [
+      "Curated in contiguous S01 pass with stable inferential-tag schema.",
+      "A later philological pass should revisit mayat suffix semantics and anandamaya mantra-brahmana continuity framing in records 1.1.056-1.1.063."
+    ]
+  },
+  "record_kind": "sutra"
+}

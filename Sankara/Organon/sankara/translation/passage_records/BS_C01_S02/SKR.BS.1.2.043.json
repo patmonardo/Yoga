@@ -1,0 +1,90 @@
+{
+  "record_id": "SKR.BS.1.2.043",
+  "work_code": "BS",
+  "section_code": "1.2",
+  "source": {
+    "source_url": "https://advaitasharada.sringeri.net/display/bhashya/BS/devanagari?id=BS_C01&page=1",
+    "source_sha256": "3e25449a44a0e912318db91030eb2e604e0c4eb2f8b5ceaa4ff4f92ae5e5bb80",
+    "language": "sa",
+    "script": "Devanagari",
+    "edition_note": "Draft block record from BS_C01_S02.json::BS_C01_S02_V17_VERSETEXT_01 (versetext)."
+  },
+  "text": {
+    "source_text": "अनवस्थितेरसम्भवाच्च नेतरः ॥ १७ ॥",
+    "transliteration_iast": "anavasthiterasambhavācca netaraḥ || 17 ||",
+    "segmentation_note": "Block-level extraction from BS_C01_S02_V17/BS_C01_S02_V17_VERSETEXT_01."
+  },
+  "translation": {
+    "literal_translation": "Not the other one, because of non-stability and because of non-applicability. (17)",
+    "technical_translation": "Sutra 1.2.17: alternative candidates are rejected on anavasthiti and asambhava grounds.",
+    "interpretive_note": "Sutra close of the exclusion argument."
+  },
+  "analysis": {
+    "lexical_notes": [
+      {
+        "headword_iast": "anavasthiter",
+        "gloss": "because of instability",
+        "contextual_sense": "Sutra reason excluding non-Brahman candidates that cannot remain as fixed referent.",
+        "grammatical_role": "ablative reason phrase",
+        "alternate_glosses": [
+          "from non-abidingness",
+          "due to lack of stability"
+        ]
+      },
+      {
+        "headword_iast": "asambhavac ca",
+        "gloss": "and because of impossibility",
+        "contextual_sense": "Second reason dismissing options that cannot host the required attributes.",
+        "grammatical_role": "causal phrase",
+        "alternate_glosses": [
+          "further due to infeasibility",
+          "also from impossibility"
+        ]
+      },
+      {
+        "headword_iast": "netarah",
+        "gloss": "not the other (alternative) referent",
+        "contextual_sense": "Aphoristic elimination of all non-Ishvara options in this context.",
+        "grammatical_role": "negative referential pronoun",
+        "alternate_glosses": [
+          "none of the alternatives",
+          "not any other candidate"
+        ]
+      },
+      {
+        "headword_iast": "nirakarana-krama",
+        "gloss": "sequence of eliminative refutation",
+        "contextual_sense": "Sutra preserves the bhashya’s method of rejecting by stability and compatibility tests.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "stepwise exclusion",
+          "eliminative method"
+        ]
+      }
+    ],
+    "argument_tags": [
+      "resolution"
+    ],
+    "tags": [
+      "layout:chapter-section-record",
+      "policy:append-and-supersede-never-delete",
+      "strata:sutra"
+    ]
+  },
+  "provenance": {
+    "extraction_timestamp_utc": "2026-06-02T16:24:50Z",
+    "extractor_version": "extract_bs_records.py@0.1",
+    "translator_version": "human+llm@bs-c01-s02-curation-pass-6",
+    "reviewer_version": "pending",
+    "source_manifest_path": "reality/src/logos/sankara/raw/manifest.jsonl"
+  },
+  "qa": {
+    "status": "draft",
+    "confidence": 0.94,
+    "uncertainty_notes": [
+      "Curated in contiguous S02 pass with stable cadence and inferential-tag schema.",
+      "A later philological pass should revisit antaryamin technical vocabulary and akshi-purusha predicate nuances in records 1.2.040-1.2.046."
+    ]
+  },
+  "record_kind": "sutra"
+}

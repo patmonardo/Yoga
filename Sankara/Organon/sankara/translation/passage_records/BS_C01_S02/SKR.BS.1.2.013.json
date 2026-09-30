@@ -1,0 +1,91 @@
+{
+  "record_id": "SKR.BS.1.2.013",
+  "work_code": "BS",
+  "section_code": "1.2",
+  "source": {
+    "source_url": "https://advaitasharada.sringeri.net/display/bhashya/BS/devanagari?id=BS_C01&page=1",
+    "source_sha256": "3e25449a44a0e912318db91030eb2e604e0c4eb2f8b5ceaa4ff4f92ae5e5bb80",
+    "language": "sa",
+    "script": "Devanagari",
+    "edition_note": "Draft block record from BS_C01_S02.json::BS_C01_S02_V06_B1 (bhashya)."
+  },
+  "text": {
+    "source_text": "स्मृतिश्च शारीरपरमात्मनोर्भेदं दर्शयति — ‘ ईश्वरः सर्वभूतानां हृद्देशेऽर्जुन तिष्ठति । भ्रामयन्सर्वभूतानि यन्त्रारूढानि मायया ’ (भ. गी. १८ । ६१) इत्याद्या ।",
+    "transliteration_iast": "smṛtiśca śārīraparamātmanorbhedaṃ darśayati — ‘ īśvaraḥ sarvabhūtānāṃ hṛddeśe'rjuna tiṣṭhati | bhrāmayansarvabhūtāni yantrārūḍhāni māyayā ’ (bha. gī. 18 | 61) ityādyā |",
+    "segmentation_note": "Block-level extraction from BS_C01_S02_V06/BS_C01_S02_V06_B1."
+  },
+  "translation": {
+    "literal_translation": "And smriti too shows difference between embodied self and Supreme Self, in passages such as: 'The Lord dwells in the heart-region of all beings, O Arjuna, causing all beings to revolve, mounted on machine-like structures, by maya.'",
+    "technical_translation": "Bhashya support line: smriti corroborates jiva-Ishvara distinction relevant to the adhikarana conclusion.",
+    "interpretive_note": "Cross-text reinforcement from Gita-style antaryami language."
+  },
+  "analysis": {
+    "lexical_notes": [
+      {
+        "headword_iast": "smrti",
+        "gloss": "remembered tradition (e.g., Gita)",
+        "contextual_sense": "Corroborative authority used to reinforce bheda already grounded in sruti reasoning.",
+        "grammatical_role": "noun",
+        "alternate_glosses": [
+          "traditional scripture",
+          "secondary revelation"
+        ]
+      },
+      {
+        "headword_iast": "jiva-isvara-bheda",
+        "gloss": "difference between individual self and Lord",
+        "contextual_sense": "Doctrinal distinction cited from smriti to support non-identity in contemplative grammar.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "soul-Lord distinction",
+          "individual-divine differentiation"
+        ]
+      },
+      {
+        "headword_iast": "anugraha-pramana",
+        "gloss": "supportive evidentiary reinforcement",
+        "contextual_sense": "Smrti functions not as primary source here, but as confirmatory strengthening of prior siddhanta.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "confirming proof",
+          "supplementary validation"
+        ]
+      },
+      {
+        "headword_iast": "adhikarana-samarthana",
+        "gloss": "support of the topical conclusion",
+        "contextual_sense": "The line’s function is to stabilize the current adhikarana decision before moving onward.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "topic-level support",
+          "argument stabilization"
+        ]
+      }
+    ],
+    "argument_tags": [
+      "example",
+      "resolution"
+    ],
+    "tags": [
+      "layout:chapter-section-record",
+      "policy:append-and-supersede-never-delete",
+      "strata:bhasya"
+    ]
+  },
+  "provenance": {
+    "extraction_timestamp_utc": "2026-06-02T16:24:50Z",
+    "extractor_version": "extract_bs_records.py@0.1",
+    "translator_version": "human+llm@bs-c01-s02-curation-pass-2",
+    "reviewer_version": "pending",
+    "source_manifest_path": "reality/src/logos/sankara/raw/manifest.jsonl"
+  },
+  "qa": {
+    "status": "draft",
+    "confidence": 0.92,
+    "uncertainty_notes": [
+      "Curated in contiguous S02 pass with stable cadence and inferential-tag schema.",
+      "A later philological pass should revisit sharira/jiva/upadhi precision in records 1.2.007-1.2.014."
+    ]
+  },
+  "record_kind": "bhasya"
+}

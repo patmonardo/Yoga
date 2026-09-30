@@ -1,0 +1,90 @@
+{
+  "record_id": "SKR.BS.1.1.059",
+  "work_code": "BS",
+  "section_code": "1.1",
+  "source": {
+    "source_url": "https://advaitasharada.sringeri.net/display/bhashya/BS/devanagari?id=BS_C01&page=1",
+    "source_sha256": "3e25449a44a0e912318db91030eb2e604e0c4eb2f8b5ceaa4ff4f92ae5e5bb80",
+    "language": "sa",
+    "script": "Devanagari",
+    "edition_note": "Draft block record from BS_C01_S01.json::BS_C01_S01_V14_VERSETEXT_01 (versetext)."
+  },
+  "text": {
+    "source_text": "तद्धेतुव्यपदेशाच्च ॥ १४ ॥",
+    "transliteration_iast": "taddhetuvyapadeśācca || 14 ||",
+    "segmentation_note": "Block-level extraction from BS_C01_S01_V14/BS_C01_S01_V14_VERSETEXT_01."
+  },
+  "translation": {
+    "literal_translation": "And because of declaration as the cause of that. (14)",
+    "technical_translation": "Sutra 1.1.14: anandamaya is Brahman due to explicit statement of being cause/source of bliss.",
+    "interpretive_note": "Sutra compacts the bliss-causality proof."
+  },
+  "analysis": {
+    "lexical_notes": [
+      {
+        "headword_iast": "tad-hetu-vyapadeśāt ca",
+        "gloss": "and because of being declared the cause of that",
+        "contextual_sense": "Sutra condenses bliss-causality argument as direct indicator of referent status.",
+        "grammatical_role": "sutra reason phrase",
+        "alternate_glosses": [
+          "from cause-designation",
+          "due to source-attribution"
+        ]
+      },
+      {
+        "headword_iast": "hetu-liṅga",
+        "gloss": "inferential sign from causality",
+        "contextual_sense": "Stated causal role functions as semantic criterion for term-resolution.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "cause-marker",
+          "causal indicator"
+        ]
+      },
+      {
+        "headword_iast": "ānanda-pravartakatva",
+        "gloss": "capacity to occasion bliss in others",
+        "contextual_sense": "Only an intrinsically full principle can ground universal bliss-dispensation.",
+        "grammatical_role": "abstract noun",
+        "alternate_glosses": [
+          "bliss-initiating role",
+          "joy-generative status"
+        ]
+      },
+      {
+        "headword_iast": "brahma-lakṣaṇa-saṃgraha",
+        "gloss": "collection of Brahman-defining signs",
+        "contextual_sense": "This sutra adds another lakshana to prior abhyasa and contextual continuity grounds.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "Brahman-mark aggregation",
+          "defining-sign consolidation"
+        ]
+      }
+    ],
+    "argument_tags": [
+      "resolution"
+    ],
+    "tags": [
+      "layout:chapter-section-record",
+      "policy:append-and-supersede-never-delete",
+      "strata:sutra"
+    ]
+  },
+  "provenance": {
+    "extraction_timestamp_utc": "2026-06-02T16:24:50Z",
+    "extractor_version": "extract_bs_records.py@0.1",
+    "translator_version": "human+llm@bs-c01-s01-curation-pass-8",
+    "reviewer_version": "pending",
+    "source_manifest_path": "reality/src/logos/sankara/raw/manifest.jsonl"
+  },
+  "qa": {
+    "status": "draft",
+    "confidence": 0.97,
+    "uncertainty_notes": [
+      "Curated in contiguous S01 pass with stable inferential-tag schema.",
+      "A later philological pass should revisit mayat suffix semantics and anandamaya mantra-brahmana continuity framing in records 1.1.056-1.1.063."
+    ]
+  },
+  "record_kind": "sutra"
+}

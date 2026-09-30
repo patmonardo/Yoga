@@ -1,0 +1,90 @@
+{
+  "record_id": "SKR.BS.1.2.054",
+  "work_code": "BS",
+  "section_code": "1.2",
+  "source": {
+    "source_url": "https://advaitasharada.sringeri.net/display/bhashya/BS/devanagari?id=BS_C01&page=1",
+    "source_sha256": "3e25449a44a0e912318db91030eb2e604e0c4eb2f8b5ceaa4ff4f92ae5e5bb80",
+    "language": "sa",
+    "script": "Devanagari",
+    "edition_note": "Draft block record from BS_C01_S02.json::BS_C01_S02_V21_VERSETEXT_01 (versetext)."
+  },
+  "text": {
+    "source_text": "अदृश्यत्वादिगुणको धर्मोक्तेः ॥ २१ ॥",
+    "transliteration_iast": "adṛśyatvādiguṇako dharmokteḥ || 21 ||",
+    "segmentation_note": "Block-level extraction from BS_C01_S02_V21/BS_C01_S02_V21_VERSETEXT_01."
+  },
+  "translation": {
+    "literal_translation": "Characterized by invisibility and the like, because of statement of the attribute. (21)",
+    "technical_translation": "Sutra 1.2.21: the adrsyatva-qualified bhuta-yoni is Brahman, established by explicit statement of Brahmanic attributes.",
+    "interpretive_note": "Sutra seal for Mundaka-source identification."
+  },
+  "analysis": {
+    "lexical_notes": [
+      {
+        "headword_iast": "adrsyatvadi-gunaka",
+        "gloss": "qualified by invisibility-type attributes",
+        "contextual_sense": "Sutra reuses attribute cluster while assigning it to Brahman via later predicate fit.",
+        "grammatical_role": "compound adjectival noun",
+        "alternate_glosses": [
+          "bearing unseenness attributes",
+          "non-sensory-qualified referent"
+        ]
+      },
+      {
+        "headword_iast": "dharma-ukteh",
+        "gloss": "because of property statement",
+        "contextual_sense": "Causal ground in sutra: explicit Brahmanic predicates settle identity.",
+        "grammatical_role": "ablative reason phrase",
+        "alternate_glosses": [
+          "from predicate declaration",
+          "due to stated properties"
+        ]
+      },
+      {
+        "headword_iast": "sutra-hetu",
+        "gloss": "aphoristic inferential reason",
+        "contextual_sense": "Condenses full bhashya argument into one decisive criterion.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "compressed rationale",
+          "terse proof-ground"
+        ]
+      },
+      {
+        "headword_iast": "bhuta-yoni-brahmatva",
+        "gloss": "Brahman-identity of source-principle",
+        "contextual_sense": "Conclusion secured by combining attribute cluster with omniscience declarations.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "source as Brahman",
+          "cosmic-origin absolute identity"
+        ]
+      }
+    ],
+    "argument_tags": [
+      "resolution"
+    ],
+    "tags": [
+      "layout:chapter-section-record",
+      "policy:append-and-supersede-never-delete",
+      "strata:sutra"
+    ]
+  },
+  "provenance": {
+    "extraction_timestamp_utc": "2026-06-02T16:24:50Z",
+    "extractor_version": "extract_bs_records.py@0.1",
+    "translator_version": "human+llm@bs-c01-s02-curation-pass-7",
+    "reviewer_version": "pending",
+    "source_manifest_path": "reality/src/logos/sankara/raw/manifest.jsonl"
+  },
+  "qa": {
+    "status": "draft",
+    "confidence": 0.95,
+    "uncertainty_notes": [
+      "Curated in contiguous S02 pass with stable cadence and inferential-tag schema.",
+      "A later philological pass should revisit antaryamin and akshara-bhuta-yoni terminology in records 1.2.047-1.2.054."
+    ]
+  },
+  "record_kind": "sutra"
+}

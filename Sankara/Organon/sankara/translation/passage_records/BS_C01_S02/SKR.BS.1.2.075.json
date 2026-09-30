@@ -1,0 +1,90 @@
+{
+  "record_id": "SKR.BS.1.2.075",
+  "work_code": "BS",
+  "section_code": "1.2",
+  "source": {
+    "source_url": "https://advaitasharada.sringeri.net/display/bhashya/BS/devanagari?id=BS_C01&page=1",
+    "source_sha256": "3e25449a44a0e912318db91030eb2e604e0c4eb2f8b5ceaa4ff4f92ae5e5bb80",
+    "language": "sa",
+    "script": "Devanagari",
+    "edition_note": "Draft block record from BS_C01_S02.json::BS_C01_S02_V29_VERSETEXT_01 (versetext)."
+  },
+  "text": {
+    "source_text": "अभिव्यक्तेरित्याश्मरथ्यः ॥ २९ ॥",
+    "transliteration_iast": "abhivyakterityāśmarathyaḥ || 29 ||",
+    "segmentation_note": "Block-level extraction from BS_C01_S02_V29/BS_C01_S02_V29_VERSETEXT_01."
+  },
+  "translation": {
+    "literal_translation": "Because of manifestation - so Asmarathya. (29)",
+    "technical_translation": "Sutra 1.2.29: pradesa-matra is justified by manifestation (abhivyakti), per Asmarathya.",
+    "interpretive_note": "Sutra shorthand for manifestation-based construal."
+  },
+  "analysis": {
+    "lexical_notes": [
+      {
+        "headword_iast": "abhivyakteh",
+        "gloss": "because of manifestation",
+        "contextual_sense": "Sutra reason grounding pradesa-matra wording in how Brahman appears for upasana.",
+        "grammatical_role": "ablative reason term",
+        "alternate_glosses": [
+          "from manifestation",
+          "due to appearing mode"
+        ]
+      },
+      {
+        "headword_iast": "asmarathyah",
+        "gloss": "Asmarathya",
+        "contextual_sense": "Sutra attributes this harmonizing explanation to Asmarathya authority.",
+        "grammatical_role": "proper noun",
+        "alternate_glosses": [
+          "Asmarathya teacher",
+          "Asmarathya lineage view"
+        ]
+      },
+      {
+        "headword_iast": "pradesa-matra-anvaya",
+        "gloss": "interpretive linkage of measure-language",
+        "contextual_sense": "Finite-span expression mapped to manifestation rather than intrinsic measure.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "measure-expression reconciliation",
+          "span-language integration"
+        ]
+      },
+      {
+        "headword_iast": "sutra-hetu",
+        "gloss": "aphoristic reason clause",
+        "contextual_sense": "Condensed statement of the manifestation-based solution.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "terse rationale",
+          "compressed proof-ground"
+        ]
+      }
+    ],
+    "argument_tags": [
+      "resolution"
+    ],
+    "tags": [
+      "layout:chapter-section-record",
+      "policy:append-and-supersede-never-delete",
+      "strata:sutra"
+    ]
+  },
+  "provenance": {
+    "extraction_timestamp_utc": "2026-06-02T16:24:50Z",
+    "extractor_version": "extract_bs_records.py@0.1",
+    "translator_version": "human+llm@bs-c01-s02-curation-pass-10",
+    "reviewer_version": "pending",
+    "source_manifest_path": "reality/src/logos/sankara/raw/manifest.jsonl"
+  },
+  "qa": {
+    "status": "draft",
+    "confidence": 0.95,
+    "uncertainty_notes": [
+      "Curated in contiguous S02 pass with stable cadence and inferential-tag schema.",
+      "A later philological pass should revisit pradesa-matra, sampatti, and recensional lexical correspondences in records 1.2.071-1.2.078."
+    ]
+  },
+  "record_kind": "sutra"
+}

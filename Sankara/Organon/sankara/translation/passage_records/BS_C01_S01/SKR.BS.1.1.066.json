@@ -1,0 +1,102 @@
+{
+  "record_id": "SKR.BS.1.1.066",
+  "work_code": "BS",
+  "section_code": "1.1",
+  "source": {
+    "source_url": "https://advaitasharada.sringeri.net/display/bhashya/BS/devanagari?id=BS_C01&page=1",
+    "source_sha256": "3e25449a44a0e912318db91030eb2e604e0c4eb2f8b5ceaa4ff4f92ae5e5bb80",
+    "language": "sa",
+    "script": "Devanagari",
+    "edition_note": "Draft block record from BS_C01_S01.json::BS_C01_S01_V18_B1 (bhashya)."
+  },
+  "text": {
+    "source_text": "आनन्दमयाधिकारे च ‘ सोऽकामयत बहु स्यां प्रजायेयेति ’ (तै. उ. २ । ६ । १) इति कामयितृत्वनिर्देशात् नानुमानिकमपि साङ्ख्यपरिकल्पितमचेतनं प्रधानमानन्दमयत्वेन कारणत्वेन वा अपेक्षितव्यम् । ‘ ईक्षते र्नाशब्दम् ’ (ब्र. सू. १ । १ । ५) इति निराकृतमपि प्रधानं पूर्वसूत्रोदाहृतां कामयितृत्वश्रुतिमाश्रित्य प्रसङ्गात्पुनर्निराक्रियते गतिसामान्यप्रपञ्चनाय ॥ १८ ॥",
+    "transliteration_iast": "ānandamayādhikāre ca ‘ so'kāmayata bahu syāṃ prajāyeyeti ’ (tai. u. 2 | 6 | 1) iti kāmayitṛtvanirdeśāt nānumānikamapi sāṅkhyaparikalpitamacetanaṃ pradhānamānandamayatvena kāraṇatvena vā apekṣitavyam | ‘ īkṣate rnāśabdam ’ (bra. sū. 1 | 1 | 5) iti nirākṛtamapi pradhānaṃ pūrvasūtrodāhṛtāṃ kāmayitṛtvaśrutimāśritya prasaṅgātpunarnirākriyate gatisāmānyaprapañcanāya || 18 ||",
+    "segmentation_note": "Block-level extraction from BS_C01_S01_V18/BS_C01_S01_V18_B1."
+  },
+  "translation": {
+    "literal_translation": "And in the anandamaya section too, because there is mention of willing ('He desired: may I become many, may I be born'), one should not rely even on inferentially imagined Sankhya non-conscious Pradhana as anandamaya or as cause. Though Pradhana was already rejected by 'because of seeing, not from word,' it is rejected again here on account of the willing-text cited in the previous sutra, to further elaborate the common-drift argument. (18)",
+    "technical_translation": "Bhashya on 1.1.18 re-applies anti-Pradhana reasoning in anandamaya context: kama/intentional willing marks conscious cause and blocks anumana-based Pradhana import.",
+    "interpretive_note": "Rejection is reiterated to secure consistency across all relevant passages."
+  },
+  "analysis": {
+    "lexical_notes": [
+      {
+        "headword_iast": "kāmayitṛtva-nirdeśa",
+        "gloss": "designation of willing agency",
+        "contextual_sense": "Intentional volition in the text blocks non-conscious causal substitution.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "volitional-agency indication",
+          "intentionality marker"
+        ]
+      },
+      {
+        "headword_iast": "anumānika-pradhāna-nirāsa",
+        "gloss": "rejection of inferentially posited Pradhana",
+        "contextual_sense": "Sankhya causal postulate is excluded where sruti gives direct conscious-cause signals.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "inferential Pradhana denial",
+          "anumana-based matter-cause rejection"
+        ]
+      },
+      {
+        "headword_iast": "īkṣateḥ-nyāya-punaranuvṛtti",
+        "gloss": "reapplication of the ikshateh principle",
+        "contextual_sense": "Earlier sentient-cause rule is carried into anandamaya discussion for consistency.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "ikshateh rule recurrence",
+          "prior criterion carryover"
+        ]
+      },
+      {
+        "headword_iast": "śruti-prādhānya",
+        "gloss": "priority of revelation over speculative inference",
+        "contextual_sense": "Direct textual indicators outrank imported cosmological hypotheses.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "scriptural priority",
+          "revelation-first hermeneutic"
+        ]
+      },
+      {
+        "headword_iast": "caitanya-kāraṇa-ekatā",
+        "gloss": "one consistent conscious-cause doctrine",
+        "contextual_sense": "Maintains doctrinal continuity across causality passages without compartmental exceptions.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "uniform sentient-source view",
+          "single aware-cause framework"
+        ]
+      }
+    ],
+    "argument_tags": [
+      "response",
+      "resolution",
+      "definition"
+    ],
+    "tags": [
+      "layout:chapter-section-record",
+      "policy:append-and-supersede-never-delete",
+      "strata:bhasya"
+    ]
+  },
+  "provenance": {
+    "extraction_timestamp_utc": "2026-06-02T16:24:50Z",
+    "extractor_version": "extract_bs_records.py@0.1",
+    "translator_version": "human+llm@bs-c01-s01-curation-pass-9",
+    "reviewer_version": "pending",
+    "source_manifest_path": "reality/src/logos/sankara/raw/manifest.jsonl"
+  },
+  "qa": {
+    "status": "draft",
+    "confidence": 0.9,
+    "uncertainty_notes": [
+      "Curated in contiguous S01 pass with stable inferential-tag schema.",
+      "A later philological pass should revisit tadyoga nuance and the heavily compressed debate text in records 1.1.069-1.1.071."
+    ]
+  },
+  "record_kind": "bhasya"
+}

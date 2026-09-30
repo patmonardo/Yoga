@@ -1,0 +1,90 @@
+{
+  "record_id": "SKR.BS.1.1.036",
+  "work_code": "BS",
+  "section_code": "1.1",
+  "source": {
+    "source_url": "https://advaitasharada.sringeri.net/display/bhashya/BS/devanagari?id=BS_C01&page=1",
+    "source_sha256": "3e25449a44a0e912318db91030eb2e604e0c4eb2f8b5ceaa4ff4f92ae5e5bb80",
+    "language": "sa",
+    "script": "Devanagari",
+    "edition_note": "Draft block record from BS_C01_S01.json::BS_C01_S01_V06_VERSETEXT_01 (versetext)."
+  },
+  "text": {
+    "source_text": "गौणश्चेन्नात्मशब्दात् ॥ ६ ॥",
+    "transliteration_iast": "gauṇaścennātmaśabdāt || 6 ||",
+    "segmentation_note": "Block-level extraction from BS_C01_S01_V06/BS_C01_S01_V06_VERSETEXT_01."
+  },
+  "translation": {
+    "literal_translation": "If figurative, no - because of the word self. (6)",
+    "technical_translation": "Sutra 1.1.6: figurative reading is denied; atman-sabda secures conscious referent.",
+    "interpretive_note": "Atman-word is decisive constraint on interpretation."
+  },
+  "analysis": {
+    "lexical_notes": [
+      {
+        "headword_iast": "gauṇaś cet na",
+        "gloss": "if secondary sense, no",
+        "contextual_sense": "Sutra rejects figurative fallback as soon as self-term evidence is considered.",
+        "grammatical_role": "conditional phrase",
+        "alternate_glosses": [
+          "secondary-reading denied",
+          "metaphor option blocked"
+        ]
+      },
+      {
+        "headword_iast": "ātma-śabdāt",
+        "gloss": "because of atman-word",
+        "contextual_sense": "Decisive inferential pivot: lexical self-reference secures conscious subject.",
+        "grammatical_role": "ablative reason term",
+        "alternate_glosses": [
+          "from self-designator",
+          "owing to atman expression"
+        ]
+      },
+      {
+        "headword_iast": "mukhya-vṛtti-bala",
+        "gloss": "force of primary signification",
+        "contextual_sense": "Primary meaning takes precedence where no compelling contradiction appears.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "literal-sense priority",
+          "direct denotation strength"
+        ]
+      },
+      {
+        "headword_iast": "pradhāna-asambhava",
+        "gloss": "Pradhana untenability",
+        "contextual_sense": "Insentient candidate cannot satisfy required self-referential semantics.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "inert-candidate failure",
+          "Sankhya option collapse"
+        ]
+      }
+    ],
+    "argument_tags": [
+      "resolution"
+    ],
+    "tags": [
+      "layout:chapter-section-record",
+      "policy:append-and-supersede-never-delete",
+      "strata:sutra"
+    ]
+  },
+  "provenance": {
+    "extraction_timestamp_utc": "2026-06-02T16:24:50Z",
+    "extractor_version": "extract_bs_records.py@0.1",
+    "translator_version": "human+llm@bs-c01-s01-curation-pass-5",
+    "reviewer_version": "pending",
+    "source_manifest_path": "reality/src/logos/sankara/raw/manifest.jsonl"
+  },
+  "qa": {
+    "status": "draft",
+    "confidence": 0.97,
+    "uncertainty_notes": [
+      "Curated in contiguous S01 pass with stable inferential-tag schema.",
+      "A later philological pass should revisit ikshateh/atman lexical precision and figurative-language boundary claims in records 1.1.032-1.1.039."
+    ]
+  },
+  "record_kind": "sutra"
+}

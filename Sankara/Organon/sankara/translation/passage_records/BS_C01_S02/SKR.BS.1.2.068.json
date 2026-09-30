@@ -1,0 +1,90 @@
+{
+  "record_id": "SKR.BS.1.2.068",
+  "work_code": "BS",
+  "section_code": "1.2",
+  "source": {
+    "source_url": "https://advaitasharada.sringeri.net/display/bhashya/BS/devanagari?id=BS_C01&page=1",
+    "source_sha256": "3e25449a44a0e912318db91030eb2e604e0c4eb2f8b5ceaa4ff4f92ae5e5bb80",
+    "language": "sa",
+    "script": "Devanagari",
+    "edition_note": "Draft block record from BS_C01_S02.json::BS_C01_S02_V26_VERSETEXT_01 (versetext)."
+  },
+  "text": {
+    "source_text": "शब्दादिभ्योऽन्तःप्रतिष्ठानाच्च नेति चेन्न तथादृष्ट्युपदेशादसम्भवात्पुरुषमपि चैनमधीयते ॥ २६॥",
+    "transliteration_iast": "śabdādibhyo'ntaḥpratiṣṭhānācca neti cenna tathādṛṣṭyupadeśādasambhavātpuruṣamapi cainamadhīyate || 26||",
+    "segmentation_note": "Block-level extraction from BS_C01_S02_V26/BS_C01_S02_V26_VERSETEXT_01."
+  },
+  "translation": {
+    "literal_translation": "If it be said 'No, because of word and the rest, and because of inner-establishment' - not so: because of instruction of that vision; because of impossibility; and because they also read him as person. (26)",
+    "technical_translation": "Sutra 1.2.26: lexical/locative objections fail due to drsti-upadesa, impossibility of full predicate-fit otherwise, and recensional support for person-form reading.",
+    "interpretive_note": "Sutra triad rebuts the jatharagni-only interpretation."
+  },
+  "analysis": {
+    "lexical_notes": [
+      {
+        "headword_iast": "sabdadibhyo antah-pratisthanac ca na",
+        "gloss": "not (rejected) merely from lexical and locative grounds",
+        "contextual_sense": "Sutra denies the purvapaksa exclusion of Brahman based on word-usage and inner location.",
+        "grammatical_role": "negative argumentative clause",
+        "alternate_glosses": [
+          "word/location objection denied",
+          "lexical-locative refutation"
+        ]
+      },
+      {
+        "headword_iast": "drsti-upadesat",
+        "gloss": "because of contemplative instruction",
+        "contextual_sense": "Primary sutra reason preserving Brahman-reference despite fire-language.",
+        "grammatical_role": "ablative reason phrase",
+        "alternate_glosses": [
+          "from meditation-teaching",
+          "due to vision-instruction"
+        ]
+      },
+      {
+        "headword_iast": "asambhavat",
+        "gloss": "because of impossibility (otherwise)",
+        "contextual_sense": "Alternative candidates cannot bear full set of textual predicates.",
+        "grammatical_role": "ablative reason term",
+        "alternate_glosses": [
+          "from non-fit",
+          "due to infeasibility"
+        ]
+      },
+      {
+        "headword_iast": "purusam api enam adhiyate",
+        "gloss": "and this is also read as a person",
+        "contextual_sense": "Recensional testimony further supports non-literal, personal-cosmic referent.",
+        "grammatical_role": "textual assertion phrase",
+        "alternate_glosses": [
+          "also transmitted as purusa",
+          "person-reading attested"
+        ]
+      }
+    ],
+    "argument_tags": [
+      "resolution"
+    ],
+    "tags": [
+      "layout:chapter-section-record",
+      "policy:append-and-supersede-never-delete",
+      "strata:sutra"
+    ]
+  },
+  "provenance": {
+    "extraction_timestamp_utc": "2026-06-02T16:24:50Z",
+    "extractor_version": "extract_bs_records.py@0.1",
+    "translator_version": "human+llm@bs-c01-s02-curation-pass-9",
+    "reviewer_version": "pending",
+    "source_manifest_path": "reality/src/logos/sankara/raw/manifest.jsonl"
+  },
+  "qa": {
+    "status": "draft",
+    "confidence": 0.95,
+    "uncertainty_notes": [
+      "Curated in contiguous S02 pass with stable cadence and inferential-tag schema.",
+      "A later philological pass should revisit vaisvanara lexical-rhetorical pivots and drsti-upadesa framing in records 1.2.063-1.2.070."
+    ]
+  },
+  "record_kind": "sutra"
+}

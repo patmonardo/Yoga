@@ -1,0 +1,89 @@
+{
+  "record_id": "SKR.BS.1.1.003",
+  "work_code": "BS",
+  "section_code": "1.1",
+  "source": {
+    "source_url": "https://advaitasharada.sringeri.net/display/bhashya/BS/devanagari?id=BS_C01&page=1",
+    "source_sha256": "3e25449a44a0e912318db91030eb2e604e0c4eb2f8b5ceaa4ff4f92ae5e5bb80",
+    "language": "sa",
+    "script": "Devanagari",
+    "edition_note": "Draft block record from BS_C01_S01.json::BS_C01_S01_I03 (intro_bhashya)."
+  },
+  "text": {
+    "source_text": "कथं पुनः प्रत्यगात्म न्य विषये अध्यासो विषयतद्धर्माणाम् ? सर्वो हि पुरोऽवस्थित एव विषये विषयान्तरमध्यस्यति ; युष्म त्प्रत्ययापेतस्य च प्रत्यगात्मनः अविषयत्वं ब्रवीषि । उच्यते — न ताव द यमेकान्तेनाविषयः , अस्म त्प्रत्ययविषयत्वात् अपरोक्षत्वाच्च प्रत्यगा त्मप्रसिद्धेः । न चा य मस्ति नियमः — पुरोऽवस्थित एव विषये विषयान्तरमध्यसितव्यमिति । अप्रत्यक्षेऽपि ह्याकाशे बालाः तलमलिनतादि अध्यस्यन्ति । एवम विरुद्धः प्रत्यगात्मन्यपि अनात्माध्यासः ॥",
+    "transliteration_iast": "kathaṃ punaḥ pratyagātma nya viṣaye adhyāso viṣayataddharmāṇām ? sarvo hi puro'vasthita eva viṣaye viṣayāntaramadhyasyati ; yuṣma tpratyayāpetasya ca pratyagātmanaḥ aviṣayatvaṃ bravīṣi | ucyate — na tāva da yamekāntenāviṣayaḥ , asma tpratyayaviṣayatvāt aparokṣatvācca pratyagā tmaprasiddheḥ | na cā ya masti niyamaḥ — puro'vasthita eva viṣaye viṣayāntaramadhyasitavyamiti | apratyakṣe'pi hyākāśe bālāḥ talamalinatādi adhyasyanti | evama viruddhaḥ pratyagātmanyapi anātmādhyāsaḥ ||",
+    "segmentation_note": "Block-level extraction from BS_C01_S01_PRE/BS_C01_S01_I03."
+  },
+  "translation": {
+    "literal_translation": "How can there be superimposition of object and object-properties upon the inner self, which is not an object? For people superimpose one object only upon another object standing before them, and you yourself say the inner self is outside the 'you'-cognition domain. Reply: the inner self is not absolutely non-object, since it is given in 'I'-cognition and is immediately evident. Nor is there a rule that superimposition occurs only on what is perceptually present before one. Even in imperceptible space, children superimpose dirtiness and the like. So too, non-self can be superimposed on the inner self without contradiction.",
+    "technical_translation": "Defense of atman-adhyasa possibility: pratyagatman is aparoksa via asmadvritti, and adhyasa is not restricted to present perceptual substrates.",
+    "interpretive_note": "Removes the epistemic objection that self cannot host superimposition."
+  },
+  "analysis": {
+    "lexical_notes": [
+      {
+        "headword_iast": "pratyagatman",
+        "gloss": "inner self/immediate subject",
+        "contextual_sense": "Though said non-objectifiable in one sense, it remains aparoksa in asmadvritti for adhyasa discourse.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": ["inward self", "immediate witness-self"]
+      },
+      {
+        "headword_iast": "aparoksa",
+        "gloss": "immediate, non-mediated givenness",
+        "contextual_sense": "Used to rebut objection that adhyasa requires only externally objectified substrates.",
+        "grammatical_role": "adjective/substantive",
+        "alternate_glosses": ["directly evident", "non-indirectly known"]
+      },
+      {
+        "headword_iast": "asmat-pratyaya-visayatva",
+        "gloss": "being the content of the I-cognition",
+        "contextual_sense": "Establishes self-presence sufficient for superimposition dynamics.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": ["I-notion referentiality", "ego-cognition scope"]
+      },
+      {
+        "headword_iast": "adhyasa-anapeksa-purovarti",
+        "gloss": "adhyasa not restricted to present perceptual substrate",
+        "contextual_sense": "Defends broader error structure beyond strict face-to-face object conditions.",
+        "grammatical_role": "compound doctrinal phrase",
+        "alternate_glosses": [
+          "non-local substrate requirement",
+          "not-only-present-object error rule"
+        ]
+      },
+      {
+        "headword_iast": "atmadhyasa-upapatti",
+        "gloss": "coherence of self-superimposition",
+        "contextual_sense": "Conclusion: subject-side adhyasa remains philosophically admissible.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "self-superimposition validity",
+          "subject-error coherence"
+        ]
+      }
+    ],
+    "argument_tags": ["objection", "response", "resolution", "example"],
+    "tags": [
+      "layout:chapter-section-record",
+      "policy:append-and-supersede-never-delete",
+      "strata:bhasya"
+    ]
+  },
+  "provenance": {
+    "extraction_timestamp_utc": "2026-06-02T16:24:50Z",
+    "extractor_version": "extract_bs_records.py@0.1",
+    "translator_version": "human+llm@bs-c01-s01-curation-pass-1",
+    "reviewer_version": "pending",
+    "source_manifest_path": "reality/src/logos/sankara/raw/manifest.jsonl"
+  },
+  "qa": {
+    "status": "draft",
+    "confidence": 0.9,
+    "uncertainty_notes": [
+      "Curated in contiguous S01 opening pass with stable inferential-tag schema.",
+      "A later philological pass should revisit dense adhyasa technical vocabulary and karmani-sasthi grammatical framing in PRE-1.1.007."
+    ]
+  },
+  "record_kind": "bhasya"
+}

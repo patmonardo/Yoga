@@ -1,0 +1,90 @@
+{
+  "record_id": "SKR.BS.1.1.079",
+  "work_code": "BS",
+  "section_code": "1.1",
+  "source": {
+    "source_url": "https://advaitasharada.sringeri.net/display/bhashya/BS/devanagari?id=BS_C01&page=1",
+    "source_sha256": "3e25449a44a0e912318db91030eb2e604e0c4eb2f8b5ceaa4ff4f92ae5e5bb80",
+    "language": "sa",
+    "script": "Devanagari",
+    "edition_note": "Draft block record from BS_C01_S01.json::BS_C01_S01_V22_VERSETEXT_01 (versetext)."
+  },
+  "text": {
+    "source_text": "आकाशस्तल्लिङ्गात् ॥ २२ ॥",
+    "transliteration_iast": "ākāśastalliṅgāt || 22 ||",
+    "segmentation_note": "Block-level extraction from BS_C01_S01_V22/BS_C01_S01_V22_VERSETEXT_01."
+  },
+  "translation": {
+    "literal_translation": "Akasha, because of that indicator. (22)",
+    "technical_translation": "Sutra 1.1.22: akasha in this passage denotes Brahman, established by contextual linga.",
+    "interpretive_note": "Sutra close for Brahman-akasha determination."
+  },
+  "analysis": {
+    "lexical_notes": [
+      {
+        "headword_iast": "ākāśaḥ tat-liṅgāt",
+        "gloss": "akasha due to contextual sign",
+        "contextual_sense": "Aphoristic closure: here akasha denotes Brahman on marker-based grounds.",
+        "grammatical_role": "sutra phrase",
+        "alternate_glosses": [
+          "Brahman-akasha conclusion",
+          "liṅga-based akasha verdict"
+        ]
+      },
+      {
+        "headword_iast": "liṅga-prābalya",
+        "gloss": "strength of contextual indicator",
+        "contextual_sense": "Semantic sign-force outruns dictionary-priority when conflict appears.",
+        "grammatical_role": "abstract noun",
+        "alternate_glosses": [
+          "marker dominance",
+          "contextual force superiority"
+        ]
+      },
+      {
+        "headword_iast": "bhūtākāśa-vyāvṛtti",
+        "gloss": "exclusion of elemental space referent",
+        "contextual_sense": "Physical-space meaning is ruled out as insufficient for stated predicates.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "ether-reading exclusion",
+          "elemental referent elimination"
+        ]
+      },
+      {
+        "headword_iast": "adhikaraṇa-parisamāpti",
+        "gloss": "topical closure",
+        "contextual_sense": "Marks end of akasha adjudication sequence before prana dispute begins.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "argument completion",
+          "topic wrap-up"
+        ]
+      }
+    ],
+    "argument_tags": [
+      "resolution"
+    ],
+    "tags": [
+      "layout:chapter-section-record",
+      "policy:append-and-supersede-never-delete",
+      "strata:sutra"
+    ]
+  },
+  "provenance": {
+    "extraction_timestamp_utc": "2026-06-02T16:24:50Z",
+    "extractor_version": "extract_bs_records.py@0.1",
+    "translator_version": "human+llm@bs-c01-s01-curation-pass-10",
+    "reviewer_version": "pending",
+    "source_manifest_path": "reality/src/logos/sankara/raw/manifest.jsonl"
+  },
+  "qa": {
+    "status": "draft",
+    "confidence": 0.97,
+    "uncertainty_notes": [
+      "Curated in contiguous S01 pass with stable inferential-tag schema.",
+      "A later philological pass should revisit antaraditya imagery and akasha lexical-paradigmatic nuances in records 1.1.072-1.1.079."
+    ]
+  },
+  "record_kind": "sutra"
+}

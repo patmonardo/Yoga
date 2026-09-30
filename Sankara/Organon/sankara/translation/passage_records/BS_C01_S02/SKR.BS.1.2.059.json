@@ -1,0 +1,90 @@
+{
+  "record_id": "SKR.BS.1.2.059",
+  "work_code": "BS",
+  "section_code": "1.2",
+  "source": {
+    "source_url": "https://advaitasharada.sringeri.net/display/bhashya/BS/devanagari?id=BS_C01&page=1",
+    "source_sha256": "3e25449a44a0e912318db91030eb2e604e0c4eb2f8b5ceaa4ff4f92ae5e5bb80",
+    "language": "sa",
+    "script": "Devanagari",
+    "edition_note": "Draft block record from BS_C01_S02.json::BS_C01_S02_V23_I01 (leading_bhashya)."
+  },
+  "text": {
+    "source_text": "कुतश्च परमेश्वरो भूतयोनिः ? —",
+    "transliteration_iast": "kutaśca parameśvaro bhūtayoniḥ ? —",
+    "segmentation_note": "Block-level extraction from BS_C01_S02_V23/BS_C01_S02_V23_I01."
+  },
+  "translation": {
+    "literal_translation": "And from what is the source of beings known to be the Supreme Lord? -",
+    "technical_translation": "Transition to Sutra 1.2.23 posing the inferential ground for Brahman-identification of bhuta-yoni.",
+    "interpretive_note": "Interrogative hinge introducing the decisive linga."
+  },
+  "analysis": {
+    "lexical_notes": [
+      {
+        "headword_iast": "kutas ca",
+        "gloss": "and from what reason?",
+        "contextual_sense": "Transition question introducing fresh inferential support for Brahman identification.",
+        "grammatical_role": "interrogative causal phrase",
+        "alternate_glosses": [
+          "what further basis",
+          "on what ground further"
+        ]
+      },
+      {
+        "headword_iast": "bhuta-yoni-paramesvara",
+        "gloss": "source of beings as Supreme Lord",
+        "contextual_sense": "Target conclusion announced before giving final reason in next sutra.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "cosmic source as Ishvara",
+          "origin-principle Supreme reading"
+        ]
+      },
+      {
+        "headword_iast": "uttara-hetu-prastava",
+        "gloss": "proposal of a further proof",
+        "contextual_sense": "Signals movement from previous arguments to an additional conclusive indicator.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "next-ground introduction",
+          "supplementary reason setup"
+        ]
+      },
+      {
+        "headword_iast": "adhikarana-sandhi",
+        "gloss": "bridge within the argument sequence",
+        "contextual_sense": "Connects earlier bheda/visesana reasoning to the rupa-upanyasa proof.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "topical transition knot",
+          "inferential bridge step"
+        ]
+      }
+    ],
+    "argument_tags": [
+      "definition"
+    ],
+    "tags": [
+      "layout:chapter-section-record",
+      "policy:append-and-supersede-never-delete",
+      "strata:bhasya"
+    ]
+  },
+  "provenance": {
+    "extraction_timestamp_utc": "2026-06-02T16:24:50Z",
+    "extractor_version": "extract_bs_records.py@0.1",
+    "translator_version": "human+llm@bs-c01-s02-curation-pass-8",
+    "reviewer_version": "pending",
+    "source_manifest_path": "reality/src/logos/sankara/raw/manifest.jsonl"
+  },
+  "qa": {
+    "status": "draft",
+    "confidence": 0.94,
+    "uncertainty_notes": [
+      "Curated in contiguous S02 pass with stable cadence and inferential-tag schema.",
+      "A later philological pass should revisit akshara/avyakrta and vaisvanara lexical decisions in records 1.2.055-1.2.062."
+    ]
+  },
+  "record_kind": "bhasya"
+}

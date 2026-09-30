@@ -1,0 +1,206 @@
+# BS_C01 Keyword Analysis Sweep Queue
+
+## Audit Basis
+- Minimum keyword entries: 2
+- Minimum complete keyword entries: 2
+- Required lexical fields: headword_iast, gloss, contextual_sense, grammatical_role
+
+## Summary
+- Records scanned: 369
+- Records needing sweep: 184
+- Records passing audit: 185
+
+## Queue By Section
+
+### Section 1.3
+- Pending records: 110
+
+- SKR.BS.1.3.001 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.3.002 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.3.003 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.3.004 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.3.005 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.3.006 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.3.007 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.3.008 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.3.009 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.3.010 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.3.011 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.3.012 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.3.013 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.3.014 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.3.015 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.3.016 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.3.017 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.3.018 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.3.019 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.3.020 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.3.021 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.3.022 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.3.023 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.3.024 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.3.025 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.3.026 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.3.027 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.3.028 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.3.029 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.3.030 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.3.031 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.3.032 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.3.033 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.3.034 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.3.035 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.3.036 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.3.037 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.3.038 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.3.039 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.3.040 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.3.041 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.3.042 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.3.043 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.3.044 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.3.045 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.3.046 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.3.047 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.3.048 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.3.049 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.3.050 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.3.051 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.3.052 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.3.053 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.3.054 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.3.055 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.3.056 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.3.057 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.3.058 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.3.059 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.3.060 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.3.061 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.3.062 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.3.063 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.3.064 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.3.065 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.3.066 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.3.067 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.3.068 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.3.069 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.3.070 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.3.071 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.3.072 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.3.073 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.3.074 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.3.075 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.3.076 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.3.077 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.3.078 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.3.079 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.3.080 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.3.081 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.3.082 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.3.083 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.3.084 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.3.085 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.3.086 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.3.087 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.3.088 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.3.089 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.3.090 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.3.091 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.3.092 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.3.093 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.3.094 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.3.095 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.3.096 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.3.097 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.3.098 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.3.099 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.3.100 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.3.101 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.3.102 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.3.103 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.3.104 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.3.105 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.3.106 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.3.107 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.3.108 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.3.109 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.3.110 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+
+### Section 1.4
+- Pending records: 74
+
+- SKR.BS.1.4.001 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.4.002 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.4.003 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.4.004 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.4.005 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.4.006 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.4.007 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.4.008 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.4.009 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.4.010 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.4.011 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.4.012 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.4.013 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.4.014 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.4.015 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.4.016 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.4.017 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.4.018 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.4.019 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.4.020 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.4.021 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.4.022 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.4.023 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.4.024 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.4.025 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.4.026 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.4.027 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.4.028 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.4.029 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.4.030 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.4.031 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.4.032 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.4.033 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.4.034 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.4.035 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.4.036 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.4.037 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.4.038 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.4.039 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.4.040 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.4.041 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.4.042 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.4.043 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.4.044 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.4.045 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.4.046 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.4.047 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.4.048 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.4.049 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.4.050 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.4.051 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.4.052 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.4.053 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.4.054 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.4.055 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.4.056 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.4.057 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.4.058 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.4.059 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.4.060 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.4.061 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.4.062 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.4.063 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.4.064 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.4.065 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.4.066 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.4.067 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.4.068 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.4.069 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.4.070 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.4.071 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.4.072 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.4.073 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+- SKR.BS.1.4.074 | keywords=1 | complete=1 | missing_fields=0 | keyword_count_below_min, complete_keyword_count_below_min
+

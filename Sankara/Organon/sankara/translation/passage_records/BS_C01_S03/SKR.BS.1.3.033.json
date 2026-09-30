@@ -1,0 +1,60 @@
+{
+  "record_id": "SKR.BS.1.3.033",
+  "work_code": "BS",
+  "section_code": "1.3",
+  "source": {
+    "source_url": "https://advaitasharada.sringeri.net/display/bhashya/BS/devanagari?id=BS_C01&page=1",
+    "source_sha256": "3e25449a44a0e912318db91030eb2e604e0c4eb2f8b5ceaa4ff4f92ae5e5bb80",
+    "language": "sa",
+    "script": "Devanagari",
+    "edition_note": "Draft block record from BS_C01_S03.json::BS_C01_S03_V13_VERSETEXT_01 (versetext)."
+  },
+  "text": {
+    "source_text": "ईक्षतिकर्मव्यपदेशात्सः ॥ १३ ॥",
+    "transliteration_iast": "īkṣatikarmavyapadeśātsaḥ || 13 ||",
+    "segmentation_note": "Block-level extraction from BS_C01_S03_V13/BS_C01_S03_V13_VERSETEXT_01."
+  },
+  "translation": {
+    "literal_translation": "He, because of being designated as the object of seeing. (13)",
+    "technical_translation": "Sutra 1.3.13: the meditated 'supreme Person' is identified with para-brahman through iksati-karma designation.",
+    "interpretive_note": "Sutra marker for the seeing-object argument in pranava meditation."
+  },
+  "analysis": {
+    "lexical_notes": [
+      {
+        "headword_iast": "adhikaraṇa",
+        "gloss": "topical unit of argument",
+        "contextual_sense": "Tracks each block inside the section-level inferential sequence",
+        "grammatical_role": "noun",
+        "alternate_glosses": [
+          "topic-unit",
+          "argument node"
+        ]
+      }
+    ],
+    "argument_tags": [
+      "resolution"
+    ],
+    "tags": [
+      "layout:chapter-section-record",
+      "policy:append-and-supersede-never-delete",
+      "strata:sutra"
+    ]
+  },
+  "provenance": {
+    "extraction_timestamp_utc": "2026-06-02T16:24:50Z",
+    "extractor_version": "extract_bs_records.py@0.1",
+    "translator_version": "human+llm@bs-c01-s03-curation-pass-5",
+    "reviewer_version": "pending",
+    "source_manifest_path": "reality/src/logos/sankara/raw/manifest.jsonl"
+  },
+  "qa": {
+    "status": "draft",
+    "confidence": 0.91,
+    "uncertainty_notes": [
+      "Curated in contiguous S03 pass with stable section-04 style criteria.",
+      "A later philological pass may refine compound parsing and samasa-level nuance in long bhashya segments."
+    ]
+  },
+  "record_kind": "sutra"
+}

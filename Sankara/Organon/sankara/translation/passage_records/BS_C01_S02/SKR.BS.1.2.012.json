@@ -1,0 +1,90 @@
+{
+  "record_id": "SKR.BS.1.2.012",
+  "work_code": "BS",
+  "section_code": "1.2",
+  "source": {
+    "source_url": "https://advaitasharada.sringeri.net/display/bhashya/BS/devanagari?id=BS_C01&page=1",
+    "source_sha256": "3e25449a44a0e912318db91030eb2e604e0c4eb2f8b5ceaa4ff4f92ae5e5bb80",
+    "language": "sa",
+    "script": "Devanagari",
+    "edition_note": "Draft block record from BS_C01_S02.json::BS_C01_S02_V05_VERSETEXT_01 (versetext)."
+  },
+  "text": {
+    "source_text": "शब्दविशेषात् ॥ ५ ॥",
+    "transliteration_iast": "śabdaviśeṣāt || 5 ||",
+    "segmentation_note": "Block-level extraction from BS_C01_S02_V05/BS_C01_S02_V05_VERSETEXT_01."
+  },
+  "translation": {
+    "literal_translation": "Because of specific wording. (5)",
+    "technical_translation": "Sutra 1.2.5: śabda-viśeṣa (specific grammatical wording) supports referential distinction.",
+    "interpretive_note": "Sutra condensation of linguistic-evidence argument."
+  },
+  "analysis": {
+    "lexical_notes": [
+      {
+        "headword_iast": "sabda-visesat",
+        "gloss": "because of specific wording",
+        "contextual_sense": "Sutra-form reason: grammatical precision is treated as decisive inferential ground.",
+        "grammatical_role": "ablative causal phrase",
+        "alternate_glosses": [
+          "from textual specificity",
+          "owing to grammatical form"
+        ]
+      },
+      {
+        "headword_iast": "linga-pramana",
+        "gloss": "indicative mark as means of proof",
+        "contextual_sense": "Sutra condenses the use of grammatical marking as linga for referent determination.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "indicator-evidence",
+          "sign-based proof"
+        ]
+      },
+      {
+        "headword_iast": "vakyartha-nirnaya",
+        "gloss": "determination of sentence-meaning",
+        "contextual_sense": "What the sutra secures by privileging precise expression over loose thematic reading.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "semantic adjudication",
+          "sentence-level determination"
+        ]
+      },
+      {
+        "headword_iast": "anvaya",
+        "gloss": "connected construal",
+        "contextual_sense": "Proper linkage of words/cases preserves doctrinal coherence and blocks mistaken identity claims.",
+        "grammatical_role": "noun",
+        "alternate_glosses": [
+          "syntactic connection",
+          "contextual linkage"
+        ]
+      }
+    ],
+    "argument_tags": [
+      "resolution"
+    ],
+    "tags": [
+      "layout:chapter-section-record",
+      "policy:append-and-supersede-never-delete",
+      "strata:sutra"
+    ]
+  },
+  "provenance": {
+    "extraction_timestamp_utc": "2026-06-02T16:24:50Z",
+    "extractor_version": "extract_bs_records.py@0.1",
+    "translator_version": "human+llm@bs-c01-s02-curation-pass-2",
+    "reviewer_version": "pending",
+    "source_manifest_path": "reality/src/logos/sankara/raw/manifest.jsonl"
+  },
+  "qa": {
+    "status": "draft",
+    "confidence": 0.94,
+    "uncertainty_notes": [
+      "Curated in contiguous S02 pass with stable cadence and inferential-tag schema.",
+      "A later philological pass should revisit sharira/jiva/upadhi precision in records 1.2.007-1.2.014."
+    ]
+  },
+  "record_kind": "sutra"
+}

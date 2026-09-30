@@ -1,0 +1,102 @@
+{
+  "record_id": "SKR.BS.1.1.049",
+  "work_code": "BS",
+  "section_code": "1.1",
+  "source": {
+    "source_url": "https://advaitasharada.sringeri.net/display/bhashya/BS/devanagari?id=BS_C01&page=1",
+    "source_sha256": "3e25449a44a0e912318db91030eb2e604e0c4eb2f8b5ceaa4ff4f92ae5e5bb80",
+    "language": "sa",
+    "script": "Devanagari",
+    "edition_note": "Draft block record from BS_C01_S01.json::BS_C01_S01_V11_B1 (bhashya)."
+  },
+  "text": {
+    "source_text": "स्वशब्दे नै व च सर्वज्ञ ईश्वरो जगतः कारणमिति श्रूयते , श्वेताश्वतराणां मन्त्रोपनिषदि सर्वज्ञमीश्वरं प्रकृत्य — ‘ स कारणं करणाधिपाधिपो न चास्य कश्चिज्जनिता न चाधिपः ’ (श्वे. उ. ६ । ९) इति । तस्मा त्सर्वज्ञं ब्रह्म जगतः कारणम् , नाचेतनं प्रधान मन्यद्वेति सिद्धम् ॥ ११ ॥",
+    "transliteration_iast": "svaśabde nai va ca sarvajña īśvaro jagataḥ kāraṇamiti śrūyate , śvetāśvatarāṇāṃ mantropaniṣadi sarvajñamīśvaraṃ prakṛtya — ‘ sa kāraṇaṃ karaṇādhipādhipo na cāsya kaścijjanitā na cādhipaḥ ’ (śve. u. 6 | 9) iti | tasmā tsarvajñaṃ brahma jagataḥ kāraṇam , nācetanaṃ pradhāna manyadveti siddham || 11 ||",
+    "segmentation_note": "Block-level extraction from BS_C01_S01_V11/BS_C01_S01_V11_B1."
+  },
+  "translation": {
+    "literal_translation": "And in a direct word too it is heard that the omniscient Lord alone is cause of the world: in the Svetasvatara mantra-upanishad, after introducing the omniscient Lord, it says, 'He is the cause, the lord of lords of instruments; He has no producer and no overlord.' Therefore it is established that omniscient Brahman is world-cause, not non-conscious Pradhana or anything else. (11)",
+    "technical_translation": "Bhashya on 1.1.11 invokes explicit shruti testimony (svasabda/shrutatva) naming omniscient Ishvara as cause, further excluding Pradhana.",
+    "interpretive_note": "Direct scriptural naming supplements prior inferential-hermeneutic exclusions."
+  },
+  "analysis": {
+    "lexical_notes": [
+      {
+        "headword_iast": "svaśabda-śruti",
+        "gloss": "direct naming testimony",
+        "contextual_sense": "Bhashya cites explicit scriptural wording naming omniscient Ishvara as causal source.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "self-word revelation",
+          "direct lexical testimony"
+        ]
+      },
+      {
+        "headword_iast": "sarvajña-īśvara-vacana",
+        "gloss": "statement of omniscient Lord",
+        "contextual_sense": "Positive theological naming supplements prior inferential eliminations.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "all-knowing Lord declaration",
+          "Ishvara naming clause"
+        ]
+      },
+      {
+        "headword_iast": "śvetāśvatara-mantra-pramāṇa",
+        "gloss": "evidence from Svetasvatara mantra",
+        "contextual_sense": "Cross-Upanishadic citation strengthens causal conclusion with explicit mantra authority.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "Svetasvatara textual warrant",
+          "mantric confirmation"
+        ]
+      },
+      {
+        "headword_iast": "karaṇādhipādhipa",
+        "gloss": "lord of lords of instruments",
+        "contextual_sense": "Phrase emphasizes transcendent sovereignty incompatible with Pradhana mechanism.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "supreme over instrumental powers",
+          "meta-lord designation"
+        ]
+      },
+      {
+        "headword_iast": "śruti-sākṣāt-pratipatti",
+        "gloss": "immediate ascertainment from revelation",
+        "contextual_sense": "Here the text does not merely imply but directly states the causal subject.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "direct revelatory determination",
+          "explicit scriptural ascertainment"
+        ]
+      }
+    ],
+    "argument_tags": [
+      "response",
+      "resolution",
+      "definition"
+    ],
+    "tags": [
+      "layout:chapter-section-record",
+      "policy:append-and-supersede-never-delete",
+      "strata:bhasya"
+    ]
+  },
+  "provenance": {
+    "extraction_timestamp_utc": "2026-06-02T16:24:50Z",
+    "extractor_version": "extract_bs_records.py@0.1",
+    "translator_version": "human+llm@bs-c01-s01-curation-pass-7",
+    "reviewer_version": "pending",
+    "source_manifest_path": "reality/src/logos/sankara/raw/manifest.jsonl"
+  },
+  "qa": {
+    "status": "draft",
+    "confidence": 0.92,
+    "uncertainty_notes": [
+      "Curated in contiguous S01 pass with stable inferential-tag schema.",
+      "A later philological pass should revisit anandamaya technical layering and the long transition bridge in records 1.1.048-1.1.055."
+    ]
+  },
+  "record_kind": "bhasya"
+}

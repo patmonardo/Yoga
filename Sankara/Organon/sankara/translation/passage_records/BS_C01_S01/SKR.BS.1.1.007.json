@@ -1,0 +1,103 @@
+{
+  "record_id": "SKR.BS.1.1.007",
+  "work_code": "BS",
+  "section_code": "1.1",
+  "source": {
+    "source_url": "https://advaitasharada.sringeri.net/display/bhashya/BS/devanagari?id=BS_C01&page=1",
+    "source_sha256": "3e25449a44a0e912318db91030eb2e604e0c4eb2f8b5ceaa4ff4f92ae5e5bb80",
+    "language": "sa",
+    "script": "Devanagari",
+    "edition_note": "Draft block record from BS_C01_S01.json::BS_C01_S01_V01_B3 (bhashya)."
+  },
+  "text": {
+    "source_text": "ब्रह्मणो जिज्ञासा ब्रह्मजिज्ञासा । ब्रह्म च वक्ष्यमाणलक्षणम् ‘ जन्माद्यस्य यतः ’ इति । अत एव न ब्रह्मशब्दस्य जात्याद्यर्थान्तरमाशङ्कितव्यम् । ब्रह्मण इति कर्मणि षष्ठी , न शेषे ; जिज्ञास्या पेक्षत्वाज्जिज्ञासायाः । जिज्ञास्यान्तरा निर्देशाच्च । ननु शेषषष्ठीपरिग्रहेऽपि ब्रह्मणो जिज्ञासाकर्मत्वं न विरुध्यते , सम्बन्धसामान्यस्य विशेषनिष्ठत्वात् । एवमपि प्रत्यक्षं ब्रह्मणः कर्मत्वमुत्सृज्य सामान्यद्वारेण परोक्षं कर्मत्वं कल्पयतो व्यर्थः प्रयासः स्यात् । न व्यर्थः , ब्रह्माश्रिताशेष विचारप्रतिज्ञानार्थत्वादिति चेत् न ; प्रधान परिग्रहे तदपेक्षितानामर्थाक्षिप्तत्वात् । ब्रह्म हि ज्ञानेनाप्तुमिष्टतमत्वात्प्रधानम् । तस्मि न्प्रधाने जिज्ञासाकर्मणि परिगृहीते , यैर्जिज्ञासितैर्विना ब्रह्म जिज्ञासितं न भवति , तान्यर्थाक्षिप्तान्येवेति न पृथक्सूत्रयितव्यानि । यथा ‘ राजासौ गच्छति ’ इत्युक्ते सपरिवारस्य राज्ञो गमनमुक्तं भवति , तद्वत् । श्रु त्यनुगमाच्च । ‘ यतो वा इमानि भूतानि जायन्ते ’ (तै. उ. ३ । १ । १) इत्याद्याः श्रुतयः ‘ तद्विजिज्ञासस्व । तद्ब्रह्म ’ (तै. उ. ३ । १ । १) इति प्रत्यक्षमेव ब्रह्मणो जिज्ञासाकर्मत्वं दर्शयन्ति । तच्च कर्मणिषष्ठीपरिग्रहे सूत्रेणानुगतं भवति । तस्मा द्ब्रह्मण इति कर्मणि षष्ठी ॥",
+    "transliteration_iast": "brahmaṇo jijñāsā brahmajijñāsā | brahma ca vakṣyamāṇalakṣaṇam ‘ janmādyasya yataḥ ’ iti | ata eva na brahmaśabdasya jātyādyarthāntaramāśaṅkitavyam | brahmaṇa iti karmaṇi ṣaṣṭhī , na śeṣe ; jijñāsyā pekṣatvājjijñāsāyāḥ | jijñāsyāntarā nirdeśācca | nanu śeṣaṣaṣṭhīparigrahe'pi brahmaṇo jijñāsākarmatvaṃ na virudhyate , sambandhasāmānyasya viśeṣaniṣṭhatvāt | evamapi pratyakṣaṃ brahmaṇaḥ karmatvamutsṛjya sāmānyadvāreṇa parokṣaṃ karmatvaṃ kalpayato vyarthaḥ prayāsaḥ syāt | na vyarthaḥ , brahmāśritāśeṣa vicārapratijñānārthatvāditi cet na ; pradhāna parigrahe tadapekṣitānāmarthākṣiptatvāt | brahma hi jñānenāptumiṣṭatamatvātpradhānam | tasmi npradhāne jijñāsākarmaṇi parigṛhīte , yairjijñāsitairvinā brahma jijñāsitaṃ na bhavati , tānyarthākṣiptānyeveti na pṛthaksūtrayitavyāni | yathā ‘ rājāsau gacchati ’ ityukte saparivārasya rājño gamanamuktaṃ bhavati , tadvat | śru tyanugamācca | ‘ yato vā imāni bhūtāni jāyante ’ (tai. u. 3 | 1 | 1) ityādyāḥ śrutayaḥ ‘ tadvijijñāsasva | tadbrahma ’ (tai. u. 3 | 1 | 1) iti pratyakṣameva brahmaṇo jijñāsākarmatvaṃ darśayanti | tacca karmaṇiṣaṣṭhīparigrahe sūtreṇānugataṃ bhavati | tasmā dbrahmaṇa iti karmaṇi ṣaṣṭhī ||",
+    "segmentation_note": "Block-level extraction from BS_C01_S01_V01/BS_C01_S01_V01_B3."
+  },
+  "translation": {
+    "literal_translation": "'Brahman-inquiry' means inquiry into Brahman. Brahman is what will be defined as 'that from which are birth and so on of this (world).' Therefore one should not suspect that the term Brahman here means class or some other sense. The genitive in 'of Brahman' is objective (karmani), not merely relational, because inquiry depends on an object-to-be-inquired. Scripture too directly presents Brahman as the object of inquiry ('that from which these beings are born... seek to know that; that is Brahman'). Even if one tried to retain a relational genitive and derive objecthood indirectly, that would be needless when direct objecthood is available. Nor is it required to make the phrase cover every Brahman-related investigation explicitly; once Brahman as principal object is taken, subordinate inquiries required for that inquiry are already implied, just as saying 'the king goes' includes his retinue. Hence in the sutra, the genitive is objective: inquiry has Brahman as its direct object.",
+    "technical_translation": "Bhashya on 1.1.1 secures brahmanah as karmani-sasthi and fixes Brahman as principal visaya of jijnasa, with supporting sruti continuity and implied sub-inquiries.",
+    "interpretive_note": "Grammatical decision safeguards the directness and scope of Vedantic inquiry."
+  },
+  "analysis": {
+    "lexical_notes": [
+      {
+        "headword_iast": "brahmano jijnasa",
+        "gloss": "inquiry into Brahman",
+        "contextual_sense": "Compound is parsed with object-focused genitive (karmani-sasthi).",
+        "grammatical_role": "compound phrase",
+        "alternate_glosses": [
+          "Brahman-inquiry",
+          "questioning Brahman as object"
+        ]
+      },
+      {
+        "headword_iast": "karmani-sasthi",
+        "gloss": "objective genitive construction",
+        "contextual_sense": "Secures Brahman as that-to-be-known rather than merely related topic.",
+        "grammatical_role": "grammatical term",
+        "alternate_glosses": [
+          "object-genitive",
+          "accusative-like genitive force"
+        ]
+      },
+      {
+        "headword_iast": "visaya-niscaya",
+        "gloss": "determination of principal subject",
+        "contextual_sense": "Bhashya blocks alternative broad lexical readings of brahman.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "topic fixation",
+          "subject adjudication"
+        ]
+      },
+      {
+        "headword_iast": "janmady-asya-yatah-laksana",
+        "gloss": "defining mark: source of origination etc.",
+        "contextual_sense": "Forward reference anchors intended Brahman as jagat-karana.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "cosmological defining indicator",
+          "creation-etc source mark"
+        ]
+      },
+      {
+        "headword_iast": "sruti-anvaya",
+        "gloss": "continuity with scriptural context",
+        "contextual_sense": "Contextual coherence supports this object-determining grammatical parse.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "scriptural linkage",
+          "textual continuity"
+        ]
+      }
+    ],
+    "argument_tags": [
+      "definition",
+      "response",
+      "resolution",
+      "example"
+    ],
+    "tags": [
+      "layout:chapter-section-record",
+      "policy:append-and-supersede-never-delete",
+      "strata:bhasya"
+    ]
+  },
+  "provenance": {
+    "extraction_timestamp_utc": "2026-06-02T16:24:50Z",
+    "extractor_version": "extract_bs_records.py@0.1",
+    "translator_version": "human+llm@bs-c01-s01-curation-pass-1",
+    "reviewer_version": "pending",
+    "source_manifest_path": "reality/src/logos/sankara/raw/manifest.jsonl"
+  },
+  "qa": {
+    "status": "draft",
+    "confidence": 0.9,
+    "uncertainty_notes": [
+      "Curated in contiguous S01 opening pass with stable inferential-tag schema.",
+      "A later philological pass should revisit dense adhyasa technical vocabulary and karmani-sasthi grammatical framing in PRE-1.1.007."
+    ]
+  },
+  "record_kind": "bhasya"
+}

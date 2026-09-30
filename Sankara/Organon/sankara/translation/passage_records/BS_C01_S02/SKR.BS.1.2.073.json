@@ -1,0 +1,102 @@
+{
+  "record_id": "SKR.BS.1.2.073",
+  "work_code": "BS",
+  "section_code": "1.2",
+  "source": {
+    "source_url": "https://advaitasharada.sringeri.net/display/bhashya/BS/devanagari?id=BS_C01&page=1",
+    "source_sha256": "3e25449a44a0e912318db91030eb2e604e0c4eb2f8b5ceaa4ff4f92ae5e5bb80",
+    "language": "sa",
+    "script": "Devanagari",
+    "edition_note": "Draft block record from BS_C01_S02.json::BS_C01_S02_V29_B1 (bhashya)."
+  },
+  "text": {
+    "source_text": "अतिमात्रस्यापि परमेश्वरस्य प्रादेशमात्रत्वमभिव्यक्तिनिमित्तं स्यात् । अभिव्यज्यते किल प्रादेशमात्रपरिमाणः परमेश्वर उपासकानां कृते । प्रदेशविशेषेषु वा हृदयादिषूपलब्धिस्थानेषु विशेषेणाभिव्यज्यते । अतः परमेश्वरेऽपि प्रादेशमात्रश्रुतिरभिव्यक्तेरुपपद्यत इत्याश्मरथ्य आचार्यो मन्यते ॥ २९ ॥",
+    "transliteration_iast": "atimātrasyāpi parameśvarasya prādeśamātratvamabhivyaktinimittaṃ syāt | abhivyajyate kila prādeśamātraparimāṇaḥ parameśvara upāsakānāṃ kṛte | pradeśaviśeṣeṣu vā hṛdayādiṣūpalabdhisthāneṣu viśeṣeṇābhivyajyate | ataḥ parameśvare'pi prādeśamātraśrutirabhivyakterupapadyata ityāśmarathya ācāryo manyate || 29 ||",
+    "segmentation_note": "Block-level extraction from BS_C01_S02_V29/BS_C01_S02_V29_B1."
+  },
+  "translation": {
+    "literal_translation": "Even though the Supreme Lord is measureless, the 'span-sized' description may be due to manifestation. The Supreme, though vast, is manifested for worshipers as if of span-measure; or He is especially manifested in specific loci of apprehension such as the heart. Therefore even for the Supreme, the sruti of pradesa-matra (span-measure) is intelligible through manifestation - so Acarya Asmarathya holds. (29)",
+    "technical_translation": "Bhashya on 1.2.29 (Asmarathya) explains pradesa-matra as abhivyakti-nimitta: finite measure-language tracks manifested accessibility, not intrinsic limitation of Brahman.",
+    "interpretive_note": "Localization vocabulary is treated as phenomenological disclosure, not ontological size."
+  },
+  "analysis": {
+    "lexical_notes": [
+      {
+        "headword_iast": "pradesa-matra",
+        "gloss": "measure of a limited span (span-like extent)",
+        "contextual_sense": "Finite-measure language requiring reconciliation with all-pervasive Brahman.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "span-measure expression",
+          "limited-extent term"
+        ]
+      },
+      {
+        "headword_iast": "abhivyakti-nimitta",
+        "gloss": "occasioned by manifestation",
+        "contextual_sense": "Asmarathya explains measure-language as manifestation condition for meditators, not ontic limit.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "manifestation-based reason",
+          "appearance-conditioned designation"
+        ]
+      },
+      {
+        "headword_iast": "upalabdhi-sthana",
+        "gloss": "site of apprehension (e.g., heart)",
+        "contextual_sense": "Localization belongs to cognition-access points where Brahman is specially manifested.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "cognitive locus",
+          "perceptual access-point"
+        ]
+      },
+      {
+        "headword_iast": "asmarathya-mata",
+        "gloss": "Asmarathya’s position",
+        "contextual_sense": "Provides first major harmonization of finite-language with infinite referent.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "Asmarathya view",
+          "Asmarathya interpretation"
+        ]
+      },
+      {
+        "headword_iast": "a-pariccheda-siddhanta",
+        "gloss": "doctrine of non-delimitation",
+        "contextual_sense": "Underlying protection that Brahman is not intrinsically bounded by pradesa terms.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "non-limitation principle",
+          "unboundedness doctrine"
+        ]
+      }
+    ],
+    "argument_tags": [
+      "response",
+      "definition",
+      "resolution"
+    ],
+    "tags": [
+      "layout:chapter-section-record",
+      "policy:append-and-supersede-never-delete",
+      "strata:bhasya"
+    ]
+  },
+  "provenance": {
+    "extraction_timestamp_utc": "2026-06-02T16:24:50Z",
+    "extractor_version": "extract_bs_records.py@0.1",
+    "translator_version": "human+llm@bs-c01-s02-curation-pass-10",
+    "reviewer_version": "pending",
+    "source_manifest_path": "reality/src/logos/sankara/raw/manifest.jsonl"
+  },
+  "qa": {
+    "status": "draft",
+    "confidence": 0.89,
+    "uncertainty_notes": [
+      "Curated in contiguous S02 pass with stable cadence and inferential-tag schema.",
+      "A later philological pass should revisit pradesa-matra, sampatti, and recensional lexical correspondences in records 1.2.071-1.2.078."
+    ]
+  },
+  "record_kind": "bhasya"
+}

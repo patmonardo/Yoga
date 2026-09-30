@@ -1,0 +1,90 @@
+{
+  "record_id": "SKR.BS.1.1.074",
+  "work_code": "BS",
+  "section_code": "1.1",
+  "source": {
+    "source_url": "https://advaitasharada.sringeri.net/display/bhashya/BS/devanagari?id=BS_C01&page=1",
+    "source_sha256": "3e25449a44a0e912318db91030eb2e604e0c4eb2f8b5ceaa4ff4f92ae5e5bb80",
+    "language": "sa",
+    "script": "Devanagari",
+    "edition_note": "Draft block record from BS_C01_S01.json::BS_C01_S01_V20_VERSETEXT_01 (versetext)."
+  },
+  "text": {
+    "source_text": "अन्तस्तद्धर्मोपदेशात् ॥ २० ॥",
+    "transliteration_iast": "antastaddharmopadeśāt || 20 ||",
+    "segmentation_note": "Block-level extraction from BS_C01_S01_V20/BS_C01_S01_V20_VERSETEXT_01."
+  },
+  "translation": {
+    "literal_translation": "Inner, because attributes of that are taught. (20)",
+    "technical_translation": "Sutra 1.1.20: the inner sun/eye person is Brahman, established by teaching of Brahmanic attributes.",
+    "interpretive_note": "Sutra seal for taddharma-upadesha criterion."
+  },
+  "analysis": {
+    "lexical_notes": [
+      {
+        "headword_iast": "antaḥ tad-dharma-upadeśāt",
+        "gloss": "the inner one, because those attributes are taught",
+        "contextual_sense": "Sutra applies attribute-criterion to identify inner sun/eye person with Brahman.",
+        "grammatical_role": "sutra reason phrase",
+        "alternate_glosses": [
+          "inner referent by attribute teaching",
+          "taddharma-based determination"
+        ]
+      },
+      {
+        "headword_iast": "antaḥ-puruṣa-brahma-niścaya",
+        "gloss": "fixing inner person as Brahman",
+        "contextual_sense": "Aphoristic verdict resolves locative-form ambiguity in favor of supreme indweller.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "inner-indweller determination",
+          "solar-eye Brahman adjudication"
+        ]
+      },
+      {
+        "headword_iast": "liṅga-sāra",
+        "gloss": "core inferential marker",
+        "contextual_sense": "Specific predicates function as semantic anchors stronger than surface imagery.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "decisive sign-core",
+          "marker-based resolution"
+        ]
+      },
+      {
+        "headword_iast": "upāsanā-rūpa-anugraha",
+        "gloss": "concessive form for meditation",
+        "contextual_sense": "Locative portrayal is retained as contemplative aid after referent determination.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "worship-form concession",
+          "meditative representation allowance"
+        ]
+      }
+    ],
+    "argument_tags": [
+      "resolution"
+    ],
+    "tags": [
+      "layout:chapter-section-record",
+      "policy:append-and-supersede-never-delete",
+      "strata:sutra"
+    ]
+  },
+  "provenance": {
+    "extraction_timestamp_utc": "2026-06-02T16:24:50Z",
+    "extractor_version": "extract_bs_records.py@0.1",
+    "translator_version": "human+llm@bs-c01-s01-curation-pass-10",
+    "reviewer_version": "pending",
+    "source_manifest_path": "reality/src/logos/sankara/raw/manifest.jsonl"
+  },
+  "qa": {
+    "status": "draft",
+    "confidence": 0.97,
+    "uncertainty_notes": [
+      "Curated in contiguous S01 pass with stable inferential-tag schema.",
+      "A later philological pass should revisit antaraditya imagery and akasha lexical-paradigmatic nuances in records 1.1.072-1.1.079."
+    ]
+  },
+  "record_kind": "sutra"
+}

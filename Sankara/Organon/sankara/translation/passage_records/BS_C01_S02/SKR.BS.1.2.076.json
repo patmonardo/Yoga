@@ -1,0 +1,103 @@
+{
+  "record_id": "SKR.BS.1.2.076",
+  "work_code": "BS",
+  "section_code": "1.2",
+  "source": {
+    "source_url": "https://advaitasharada.sringeri.net/display/bhashya/BS/devanagari?id=BS_C01&page=1",
+    "source_sha256": "3e25449a44a0e912318db91030eb2e604e0c4eb2f8b5ceaa4ff4f92ae5e5bb80",
+    "language": "sa",
+    "script": "Devanagari",
+    "edition_note": "Draft block record from BS_C01_S02.json::BS_C01_S02_V30_B1 (bhashya)."
+  },
+  "text": {
+    "source_text": "प्रादेशमात्रहृदयप्रतिष्ठेन वायं मनसानुस्मर्यते । तेन ‘ प्रादेशमात्रः ’ इत्युच्यते । यथा प्रस्थमिता यवाः प्रस्था इत्युच्यन्ते , तद्वत् । यद्यपि च यवेषु स्वगतमेव परिमाणं प्रस्थसम्बन्धाद्व्यज्यते , न चेह परमेश्वरगतं किञ्चित्परिमाणमस्ति , यद्धृदयसम्बन्धाद्व्यज्येत ; तथापि प्रयुक्तायाः प्रादेशमात्रश्रुतेः सम्भवति यथाकथञ्चि द नुस्मरणमालम्बनमित्युच्यते । प्रादेश मात्रत्वेन वायमप्रादेशमात्रोऽप्यनुस्मरणीयः प्रादेशमात्रश्रुत्यर्थवत्तायै । एवमनुस्मृतिनिमित्ता परमेश्वरे प्रादेशमात्रश्रुतिरिति बादरिराचार्यो मन्यते ॥ ३० ॥",
+    "transliteration_iast": "prādeśamātrahṛdayapratiṣṭhena vāyaṃ manasānusmaryate | tena ‘ prādeśamātraḥ ’ ityucyate | yathā prasthamitā yavāḥ prasthā ityucyante , tadvat | yadyapi ca yaveṣu svagatameva parimāṇaṃ prasthasambandhādvyajyate , na ceha parameśvaragataṃ kiñcitparimāṇamasti , yaddhṛdayasambandhādvyajyeta ; tathāpi prayuktāyāḥ prādeśamātraśruteḥ sambhavati yathākathañci da nusmaraṇamālambanamityucyate | prādeśa mātratvena vāyamaprādeśamātro'pyanusmaraṇīyaḥ prādeśamātraśrutyarthavattāyai | evamanusmṛtinimittā parameśvare prādeśamātraśrutiriti bādarirācāryo manyate || 30 ||",
+    "segmentation_note": "Block-level extraction from BS_C01_S02_V30/BS_C01_S02_V30_B1."
+  },
+  "translation": {
+    "literal_translation": "Or this one is mentally recollected as established in the span-sized heart-region; therefore it is called 'span-sized,' just as barley measured by a prastha is called a prastha. Though in barley an internal measure is manifested through relation to the measuring vessel, here in the Supreme there is no intrinsic measure manifested by relation to heart. Still, since sruti has employed the expression 'span-sized,' one must allow some mode of recollective support. Thus the non-span-sized Supreme is to be recollected as span-sized for meaningfulness of the sruti statement. Therefore, according to Acarya Badari, the span-measure statement regarding the Supreme is based on recollection. (30)",
+    "technical_translation": "Bhashya on 1.2.30 (Badari) grounds pradesa-matra in anusmrti-nimitta: pedagogical recollection-support, not real dimensional predicate of Brahman.",
+    "interpretive_note": "Measure-language functions as meditative aid through intentional cognitive framing."
+  },
+  "analysis": {
+    "lexical_notes": [
+      {
+        "headword_iast": "anusmrti-nimitta",
+        "gloss": "occasioned by meditative recollection",
+        "contextual_sense": "Badari grounds pradesa-matra in mnemonic-practice function rather than ontology.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "recollection-based reason",
+          "mnemonic contemplation basis"
+        ]
+      },
+      {
+        "headword_iast": "hrdaya-pratistha",
+        "gloss": "heart-centered establishment",
+        "contextual_sense": "Localization serves recollective concentration in upasana procedure.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "heart-seat placement",
+          "cardiac contemplative locus"
+        ]
+      },
+      {
+        "headword_iast": "prastha-yava-drstanta",
+        "gloss": "measure-grain analogy",
+        "contextual_sense": "Illustrates how naming by associated measure need not imply intrinsic dimensionality.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "standard-measure analogy",
+          "indirect-quantification example"
+        ]
+      },
+      {
+        "headword_iast": "badari-mata",
+        "gloss": "Badari’s interpretive position",
+        "contextual_sense": "Alternative harmonization emphasizing practice-memory over manifestation-language.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "Badari view",
+          "Badari explanation"
+        ]
+      },
+      {
+        "headword_iast": "a-parimana-brahman",
+        "gloss": "Brahman without intrinsic measure",
+        "contextual_sense": "Protective doctrinal baseline in Badari’s argument.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "non-quantified absolute",
+          "dimensionless Brahman"
+        ]
+      }
+    ],
+    "argument_tags": [
+      "response",
+      "definition",
+      "example",
+      "resolution"
+    ],
+    "tags": [
+      "layout:chapter-section-record",
+      "policy:append-and-supersede-never-delete",
+      "strata:bhasya"
+    ]
+  },
+  "provenance": {
+    "extraction_timestamp_utc": "2026-06-02T16:24:50Z",
+    "extractor_version": "extract_bs_records.py@0.1",
+    "translator_version": "human+llm@bs-c01-s02-curation-pass-10",
+    "reviewer_version": "pending",
+    "source_manifest_path": "reality/src/logos/sankara/raw/manifest.jsonl"
+  },
+  "qa": {
+    "status": "draft",
+    "confidence": 0.87,
+    "uncertainty_notes": [
+      "Curated in contiguous S02 pass with stable cadence and inferential-tag schema.",
+      "A later philological pass should revisit pradesa-matra, sampatti, and recensional lexical correspondences in records 1.2.071-1.2.078."
+    ]
+  },
+  "record_kind": "bhasya"
+}

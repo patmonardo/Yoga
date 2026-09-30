@@ -1,0 +1,90 @@
+{
+  "record_id": "SKR.BS.1.2.056",
+  "work_code": "BS",
+  "section_code": "1.2",
+  "source": {
+    "source_url": "https://advaitasharada.sringeri.net/display/bhashya/BS/devanagari?id=BS_C01&page=1",
+    "source_sha256": "3e25449a44a0e912318db91030eb2e604e0c4eb2f8b5ceaa4ff4f92ae5e5bb80",
+    "language": "sa",
+    "script": "Devanagari",
+    "edition_note": "Draft block record from BS_C01_S02.json::BS_C01_S02_V22_VERSETEXT_01 (versetext)."
+  },
+  "text": {
+    "source_text": "विशेषणभेदव्यपदेशाभ्यां च नेतरौ ॥ २२ ॥",
+    "transliteration_iast": "viśeṣaṇabhedavyapadeśābhyāṃ ca netarau || 22 ||",
+    "segmentation_note": "Block-level extraction from BS_C01_S02_V22/BS_C01_S02_V22_VERSETEXT_01."
+  },
+  "translation": {
+    "literal_translation": "And not the other two, because of qualifying attributes and declarations of distinction. (22)",
+    "technical_translation": "Sutra 1.2.22: bhuta-yoni is not jiva or Pradhana, established by visesana and bheda-vyapadesha indicators.",
+    "interpretive_note": "Sutra condensation of the twofold exclusion test."
+  },
+  "analysis": {
+    "lexical_notes": [
+      {
+        "headword_iast": "visesana-bheda-vyapadesabhyam",
+        "gloss": "by qualification and statement of distinction",
+        "contextual_sense": "Dual-ground sutra reason for excluding jiva and Pradhana.",
+        "grammatical_role": "instrumental compound phrase",
+        "alternate_glosses": [
+          "via qualifiers and differentiation",
+          "through twofold indicator"
+        ]
+      },
+      {
+        "headword_iast": "na itarau",
+        "gloss": "not the other two",
+        "contextual_sense": "Sutra’s explicit rejection of rival pair (jiva and Pradhana).",
+        "grammatical_role": "negative dual phrase",
+        "alternate_glosses": [
+          "neither of the alternatives",
+          "both others excluded"
+        ]
+      },
+      {
+        "headword_iast": "dvi-hetu-nisedha",
+        "gloss": "two-reason exclusion",
+        "contextual_sense": "Aphorism compresses bhashya’s positive and differentiating arguments.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "paired-ground refutation",
+          "dual-criterion denial"
+        ]
+      },
+      {
+        "headword_iast": "bhuta-yoni-siddhanta",
+        "gloss": "settled doctrine of source-principle",
+        "contextual_sense": "Stabilizes Brahman-reference after eliminating both rival candidates.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "source-principle final view",
+          "cosmic-origin doctrinal settlement"
+        ]
+      }
+    ],
+    "argument_tags": [
+      "resolution"
+    ],
+    "tags": [
+      "layout:chapter-section-record",
+      "policy:append-and-supersede-never-delete",
+      "strata:sutra"
+    ]
+  },
+  "provenance": {
+    "extraction_timestamp_utc": "2026-06-02T16:24:50Z",
+    "extractor_version": "extract_bs_records.py@0.1",
+    "translator_version": "human+llm@bs-c01-s02-curation-pass-8",
+    "reviewer_version": "pending",
+    "source_manifest_path": "reality/src/logos/sankara/raw/manifest.jsonl"
+  },
+  "qa": {
+    "status": "draft",
+    "confidence": 0.95,
+    "uncertainty_notes": [
+      "Curated in contiguous S02 pass with stable cadence and inferential-tag schema.",
+      "A later philological pass should revisit akshara/avyakrta and vaisvanara lexical decisions in records 1.2.055-1.2.062."
+    ]
+  },
+  "record_kind": "sutra"
+}

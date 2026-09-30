@@ -1,0 +1,90 @@
+{
+  "record_id": "SKR.BS.1.1.076",
+  "work_code": "BS",
+  "section_code": "1.1",
+  "source": {
+    "source_url": "https://advaitasharada.sringeri.net/display/bhashya/BS/devanagari?id=BS_C01&page=1",
+    "source_sha256": "3e25449a44a0e912318db91030eb2e604e0c4eb2f8b5ceaa4ff4f92ae5e5bb80",
+    "language": "sa",
+    "script": "Devanagari",
+    "edition_note": "Draft block record from BS_C01_S01.json::BS_C01_S01_V21_VERSETEXT_01 (versetext)."
+  },
+  "text": {
+    "source_text": "भेदव्यपदेशाच्चान्यः ॥ २१ ॥",
+    "transliteration_iast": "bhedavyapadeśāccānyaḥ || 21 ||",
+    "segmentation_note": "Block-level extraction from BS_C01_S01_V21/BS_C01_S01_V21_VERSETEXT_01."
+  },
+  "translation": {
+    "literal_translation": "And because of declaration of difference, (He is) another. (21)",
+    "technical_translation": "Sutra 1.1.21: the inner person is other than jiva, established by explicit bheda-vyapadesha.",
+    "interpretive_note": "Sutra compression of antaryamin distinction proof."
+  },
+  "analysis": {
+    "lexical_notes": [
+      {
+        "headword_iast": "bheda-vyapadeśāc ca anyaḥ",
+        "gloss": "and because of difference statement, another",
+        "contextual_sense": "Sutra infers inner controller is distinct from empirical jiva position.",
+        "grammatical_role": "sutra reason phrase",
+        "alternate_glosses": [
+          "other due to explicit distinction",
+          "difference-based otherness conclusion"
+        ]
+      },
+      {
+        "headword_iast": "anya-pada-niścaya",
+        "gloss": "fixing meaning of “other”",
+        "contextual_sense": "Aphorism secures ontological distinction required by antaryamin structure.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "other-term determination",
+          "distinctness fixation"
+        ]
+      },
+      {
+        "headword_iast": "jīva-īśvara-bheda-vyavahāra",
+        "gloss": "difference discourse between jiva and Ishvara",
+        "contextual_sense": "Transactional distinction is maintained for scriptural consistency in governance passages.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "individual-lord difference language",
+          "regulative dual discourse"
+        ]
+      },
+      {
+        "headword_iast": "antaryāmitva-siddhi",
+        "gloss": "establishment of inner-controller status",
+        "contextual_sense": "Distinct controller role cannot collapse into controlled entity.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "inner-rule proof",
+          "indwelling sovereignty establishment"
+        ]
+      }
+    ],
+    "argument_tags": [
+      "resolution"
+    ],
+    "tags": [
+      "layout:chapter-section-record",
+      "policy:append-and-supersede-never-delete",
+      "strata:sutra"
+    ]
+  },
+  "provenance": {
+    "extraction_timestamp_utc": "2026-06-02T16:24:50Z",
+    "extractor_version": "extract_bs_records.py@0.1",
+    "translator_version": "human+llm@bs-c01-s01-curation-pass-10",
+    "reviewer_version": "pending",
+    "source_manifest_path": "reality/src/logos/sankara/raw/manifest.jsonl"
+  },
+  "qa": {
+    "status": "draft",
+    "confidence": 0.97,
+    "uncertainty_notes": [
+      "Curated in contiguous S01 pass with stable inferential-tag schema.",
+      "A later philological pass should revisit antaraditya imagery and akasha lexical-paradigmatic nuances in records 1.1.072-1.1.079."
+    ]
+  },
+  "record_kind": "sutra"
+}

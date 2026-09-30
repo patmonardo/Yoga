@@ -1,0 +1,102 @@
+{
+  "record_id": "SKR.BS.1.1.038",
+  "work_code": "BS",
+  "section_code": "1.1",
+  "source": {
+    "source_url": "https://advaitasharada.sringeri.net/display/bhashya/BS/devanagari?id=BS_C01&page=1",
+    "source_sha256": "3e25449a44a0e912318db91030eb2e604e0c4eb2f8b5ceaa4ff4f92ae5e5bb80",
+    "language": "sa",
+    "script": "Devanagari",
+    "edition_note": "Draft block record from BS_C01_S01.json::BS_C01_S01_V07_I01 (leading_bhashya)."
+  },
+  "text": {
+    "source_text": "अथो च्येत — अचेतनेऽपि प्रधाने भवत्यात्मशब्दः , आत्मनः सर्वार्थकारित्वात् ; यथा राज्ञः सर्वार्थकारिणि भृत्ये भवत्यात्मशब्दः ‘ ममात्मा भद्रसेनः ’ इति । प्रधानं हि पुरुषस्यात्मनो भोगापवर्गौ कुर्वदुपकरोति , राज्ञ इव भृत्यः सन्धिविग्रहादिषु वर्तमानः । अथ वै क एवात्मशब्दश्चेतनाचेतनविषयो भविष्यति , ‘ भूतात्मा ’ ‘ इन्द्रियात्मा ’ इति च प्रयोगदर्शनात् ; य थै क एव ज्योतिःशब्दः क्रतुज्वलनविषयः । तत्र कुत एतदात्मशब्दादीक्षतेरगौणत्वमित्यत उत्तरं पठति —",
+    "transliteration_iast": "atho cyeta — acetane'pi pradhāne bhavatyātmaśabdaḥ , ātmanaḥ sarvārthakāritvāt ; yathā rājñaḥ sarvārthakāriṇi bhṛtye bhavatyātmaśabdaḥ ‘ mamātmā bhadrasenaḥ ’ iti | pradhānaṃ hi puruṣasyātmano bhogāpavargau kurvadupakaroti , rājña iva bhṛtyaḥ sandhivigrahādiṣu vartamānaḥ | atha vai ka evātmaśabdaścetanācetanaviṣayo bhaviṣyati , ‘ bhūtātmā ’ ‘ indriyātmā ’ iti ca prayogadarśanāt ; ya thai ka eva jyotiḥśabdaḥ kratujvalanaviṣayaḥ | tatra kuta etadātmaśabdādīkṣateragauṇatvamityata uttaraṃ paṭhati —",
+    "segmentation_note": "Block-level extraction from BS_C01_S01_V07/BS_C01_S01_V07_I01."
+  },
+  "translation": {
+    "literal_translation": "Suppose one says: even in non-conscious Pradhana the word atman applies because it serves all purposes of the self, like a servant called 'my self' by a king because he accomplishes everything for him. Pradhana helps the self (purusha) attain enjoyment and liberation, as servant helps king in treaty-conflict matters. Or let atman be one common word for conscious and non-conscious, since usage like 'element-self' and 'sense-self' is seen, just as one jyotis-word applies to ritual and luminous fire. Then why insist atman and seeing here are non-figurative? To that, the answer sutra is read -",
+    "technical_translation": "Final purvapaksha before 1.1.7 proposes instrumental-functional and polysemous defenses for Pradhana under atman usage.",
+    "interpretive_note": "Last attempt to salvage Pradhana through semantic flexibility."
+  },
+  "analysis": {
+    "lexical_notes": [
+      {
+        "headword_iast": "sarvārtha-kāritva-ātma-śabda",
+        "gloss": "atman-usage from all-purpose serviceability",
+        "contextual_sense": "Purvapaksha extends servant-analogy to justify atman-word for Pradhana.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "functional atman usage",
+          "service-based self-term claim"
+        ]
+      },
+      {
+        "headword_iast": "bhṛtya-rāja-dṛṣṭānta",
+        "gloss": "servant-king analogy",
+        "contextual_sense": "Cited to defend non-primary atman application by relational utility.",
+        "grammatical_role": "illustrative compound",
+        "alternate_glosses": [
+          "retainer-lord example",
+          "instrumental proxy analogy"
+        ]
+      },
+      {
+        "headword_iast": "bhoga-apavarga-upakāra",
+        "gloss": "assistance in enjoyment and release",
+        "contextual_sense": "Pradhana is pitched as pragmatic facilitator for purusha aims.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "experience-liberation support role",
+          "dual-end facilitation"
+        ]
+      },
+      {
+        "headword_iast": "śabda-bahuvṛtti-āśraya",
+        "gloss": "reliance on polysemous word-function",
+        "contextual_sense": "Objection appeals to lexical flexibility to keep Pradhana semantically admissible.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "multi-sense lexeme strategy",
+          "polyvalence-based defense"
+        ]
+      },
+      {
+        "headword_iast": "prādhānya-gauṇya-vikalpa",
+        "gloss": "primary-secondary sense alternation",
+        "contextual_sense": "Seeks interpretive room where context does not immediately force one sense.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "literal-figurative toggling",
+          "sense-priority alternation"
+        ]
+      }
+    ],
+    "argument_tags": [
+      "objection",
+      "definition",
+      "example"
+    ],
+    "tags": [
+      "layout:chapter-section-record",
+      "policy:append-and-supersede-never-delete",
+      "strata:bhasya"
+    ]
+  },
+  "provenance": {
+    "extraction_timestamp_utc": "2026-06-02T16:24:50Z",
+    "extractor_version": "extract_bs_records.py@0.1",
+    "translator_version": "human+llm@bs-c01-s01-curation-pass-5",
+    "reviewer_version": "pending",
+    "source_manifest_path": "reality/src/logos/sankara/raw/manifest.jsonl"
+  },
+  "qa": {
+    "status": "draft",
+    "confidence": 0.9,
+    "uncertainty_notes": [
+      "Curated in contiguous S01 pass with stable inferential-tag schema.",
+      "A later philological pass should revisit ikshateh/atman lexical precision and figurative-language boundary claims in records 1.1.032-1.1.039."
+    ]
+  },
+  "record_kind": "bhasya"
+}

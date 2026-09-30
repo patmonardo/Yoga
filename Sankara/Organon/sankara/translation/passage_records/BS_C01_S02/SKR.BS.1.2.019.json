@@ -1,0 +1,90 @@
+{
+  "record_id": "SKR.BS.1.2.019",
+  "work_code": "BS",
+  "section_code": "1.2",
+  "source": {
+    "source_url": "https://advaitasharada.sringeri.net/display/bhashya/BS/devanagari?id=BS_C01&page=1",
+    "source_sha256": "3e25449a44a0e912318db91030eb2e604e0c4eb2f8b5ceaa4ff4f92ae5e5bb80",
+    "language": "sa",
+    "script": "Devanagari",
+    "edition_note": "Draft block record from BS_C01_S02.json::BS_C01_S02_V08_VERSETEXT_01 (versetext)."
+  },
+  "text": {
+    "source_text": "सम्भोगप्राप्तिरिति चेन्न वैशेष्यात् ॥ ८ ॥",
+    "transliteration_iast": "sambhogaprāptiriti cenna vaiśeṣyāt || 8 ||",
+    "segmentation_note": "Block-level extraction from BS_C01_S02_V08/BS_C01_S02_V08_VERSETEXT_01."
+  },
+  "translation": {
+    "literal_translation": "If one says enjoyment would result, no - because of distinction. (8)",
+    "technical_translation": "Sutra 1.2.8: bhoga does not accrue to Brahman despite all-pervasiveness/non-duality claims, due to decisive jiva-Ishvara distinction at relevant level.",
+    "interpretive_note": "Sutra compression of the bhoga-transfer refutation."
+  },
+  "analysis": {
+    "lexical_notes": [
+      {
+        "headword_iast": "na bhoga",
+        "gloss": "no experiential accrual",
+        "contextual_sense": "Sutra denial that Brahman becomes subject to finite karmic enjoyment/suffering.",
+        "grammatical_role": "negative doctrinal predication",
+        "alternate_glosses": [
+          "no bhoga-transfer",
+          "absence of experiential attribution"
+        ]
+      },
+      {
+        "headword_iast": "bheda-vyavastha",
+        "gloss": "regulated distinction framework",
+        "contextual_sense": "Maintains operational difference sufficient to block objection while preserving higher non-duality.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "structured differentiation",
+          "functional distinction order"
+        ]
+      },
+      {
+        "headword_iast": "adhikarana-parisamapti",
+        "gloss": "closure of topical inferential cycle",
+        "contextual_sense": "Sutra seals the bhoga-objection sequence with a concise negative conclusion.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "topic closure",
+          "argument cycle completion"
+        ]
+      },
+      {
+        "headword_iast": "sarvagatabrahman",
+        "gloss": "all-pervading Brahman",
+        "contextual_sense": "Affirmed without conceding experiential contamination by finite embodied states.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "omnipresent absolute",
+          "all-pervasive reality"
+        ]
+      }
+    ],
+    "argument_tags": [
+      "resolution"
+    ],
+    "tags": [
+      "layout:chapter-section-record",
+      "policy:append-and-supersede-never-delete",
+      "strata:sutra"
+    ]
+  },
+  "provenance": {
+    "extraction_timestamp_utc": "2026-06-02T16:24:50Z",
+    "extractor_version": "extract_bs_records.py@0.1",
+    "translator_version": "human+llm@bs-c01-s02-curation-pass-3",
+    "reviewer_version": "pending",
+    "source_manifest_path": "reality/src/logos/sankara/raw/manifest.jsonl"
+  },
+  "qa": {
+    "status": "draft",
+    "confidence": 0.94,
+    "uncertainty_notes": [
+      "Curated in contiguous S02 pass with stable cadence and inferential-tag schema.",
+      "A later philological pass should revisit upadhi/vyavahara terminology and atta-grahana technical choices in records 1.2.016-1.2.022."
+    ]
+  },
+  "record_kind": "sutra"
+}

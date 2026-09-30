@@ -1,0 +1,103 @@
+{
+  "record_id": "SKR.BS.1.1.028",
+  "work_code": "BS",
+  "section_code": "1.1",
+  "source": {
+    "source_url": "https://advaitasharada.sringeri.net/display/bhashya/BS/devanagari?id=BS_C01&page=1",
+    "source_sha256": "3e25449a44a0e912318db91030eb2e604e0c4eb2f8b5ceaa4ff4f92ae5e5bb80",
+    "language": "sa",
+    "script": "Devanagari",
+    "edition_note": "Draft block record from BS_C01_S01.json::BS_C01_S01_V05_B1 (bhashya)."
+  },
+  "text": {
+    "source_text": "न साङ्ख्यपरिकल्पितमचेतनं प्रधानं जगतः कारणं शक्यं वेदान्तेष्वाश्रयितुम् । अशब्दं हि तत् । कथमशब्दत्वम् ? ईक्षतेः ईक्षितृत्वश्रवणात्कारणस्य । कथम् ? एवं हि श्रूयते — ‘ सदेव सोम्येदमग्र आसीदेकमेवाद्वितीयम् ’ (छा. उ. ६ । २ । १) इत्युपक्रम्य ‘ तदैक्षत बहु स्यां प्रजा येयेति त त्तेजोऽसृजत ’ (छा. उ. ६ । २ । ३) इति । तत्र इदंशब्दवाच्यं नामरूपव्याकृतं जगत् प्रागुत्पत्तेः सदात्मनावधार्य , तस्यैव प्रकृतस्य सच्छब्दवाच्यस्येक्षणपूर्वकं तेजःप्रभृतेः स्रष्टृत्वं दर्शयति । तथान्यत्र — ‘ आत्मा वा इदमेक एवाग्र आसीत् । नान्यत्किञ्चन मिषत् । स ईक्षत लोकान्नु सृजा इति ।’ (ऐ. उ. १ । १ । १) ‘ स इमाँल्लोकानसृजत ’ (ऐ. उ. १ । १ । २) इतीक्षापूर्विकामेव सृष्टिमाचष्टे । क्वचिच्च षोडशकलं पुरुषं प्रस्तुत्याह — ‘ स ईक्षाञ्चक्रे ’ (प्र. उ. ६ । ३) , ‘ स प्राणमसृजत ’ (प्र. उ. ६ । ४) इति । ईक्षतेरिति च धात्वर्थनिर्देशोऽभिप्रेतः , यजतेरितिवत् , न धातुनिर्देशः । तेन ‘ यः सर्वज्ञः सर्वविद्यस्य ज्ञानमयं तपः । तस्मा दे तद्ब्रह्म नाम रूपमन्नं च जायते ’ (मु. उ. १ । १ । ९) इत्येवमादीन्यपि सर्वज्ञेश्वरकारणपराणि वाक्यान्युदाहर्तव्यानि ॥",
+    "transliteration_iast": "na sāṅkhyaparikalpitamacetanaṃ pradhānaṃ jagataḥ kāraṇaṃ śakyaṃ vedānteṣvāśrayitum | aśabdaṃ hi tat | kathamaśabdatvam ? īkṣateḥ īkṣitṛtvaśravaṇātkāraṇasya | katham ? evaṃ hi śrūyate — ‘ sadeva somyedamagra āsīdekamevādvitīyam ’ (chā. u. 6 | 2 | 1) ityupakramya ‘ tadaikṣata bahu syāṃ prajā yeyeti ta ttejo'sṛjata ’ (chā. u. 6 | 2 | 3) iti | tatra idaṃśabdavācyaṃ nāmarūpavyākṛtaṃ jagat prāgutpatteḥ sadātmanāvadhārya , tasyaiva prakṛtasya sacchabdavācyasyekṣaṇapūrvakaṃ tejaḥprabhṛteḥ sraṣṭṛtvaṃ darśayati | tathānyatra — ‘ ātmā vā idameka evāgra āsīt | nānyatkiñcana miṣat | sa īkṣata lokānnu sṛjā iti |’ (ai. u. 1 | 1 | 1) ‘ sa imā~llokānasṛjata ’ (ai. u. 1 | 1 | 2) itīkṣāpūrvikāmeva sṛṣṭimācaṣṭe | kvacicca ṣoḍaśakalaṃ puruṣaṃ prastutyāha — ‘ sa īkṣāñcakre ’ (pra. u. 6 | 3) , ‘ sa prāṇamasṛjata ’ (pra. u. 6 | 4) iti | īkṣateriti ca dhātvarthanirdeśo'bhipretaḥ , yajateritivat , na dhātunirdeśaḥ | tena ‘ yaḥ sarvajñaḥ sarvavidyasya jñānamayaṃ tapaḥ | tasmā de tadbrahma nāma rūpamannaṃ ca jāyate ’ (mu. u. 1 | 1 | 9) ityevamādīnyapi sarvajñeśvarakāraṇaparāṇi vākyānyudāhartavyāni ||",
+    "segmentation_note": "Block-level extraction from BS_C01_S01_V05/BS_C01_S01_V05_B1."
+  },
+  "translation": {
+    "literal_translation": "The non-conscious Pradhana imagined by Sankhya cannot be taken as world-cause in Vedanta. It is asabda - not scripturally denoted. Why asabda? Because the cause is heard as seeing/thinking (ikshateh). Scripture says: 'Being alone was this in the beginning, one without a second,' and then, 'it saw: may I become many, may I be born; it created fire.' Here the manifest world denoted by 'this' is first resolved into sat before creation, and that very sat, now the topic, is shown as creator of fire etc. preceded by seeing. Elsewhere too: 'Self alone was this in the beginning... it saw: let me create worlds... it created these worlds' - again creation preceded by seeing. Elsewhere a sixteen-part purusha is introduced and said 'he deliberated' and 'he created prana.' The reference to ikshateh is to the verbal sense (not merely root citation), as in ritual examples. Therefore other statements like 'he who is all-knowing, all-wise, whose tapas is knowledge - from him are born name, form, food' should also be cited as indicating omniscient Ishvara as cause.",
+    "technical_translation": "Bhashya on 1.1.5 uses ikshateh as conscious-intent marker to exclude acaitanya Pradhana and secure sentient Brahman/Ishvara causality.",
+    "interpretive_note": "Intentional creation language is the decisive anti-Pradhana lever."
+  },
+  "analysis": {
+    "lexical_notes": [
+      {
+        "headword_iast": "īkṣateḥ",
+        "gloss": "because of seeing/intending",
+        "contextual_sense": "Conscious-intent marker used to deny inert Pradhana as ultimate cause.",
+        "grammatical_role": "ablative reason term",
+        "alternate_glosses": [
+          "from intentional seeing",
+          "due to conscious willing"
+        ]
+      },
+      {
+        "headword_iast": "aśabda-pradhāna",
+        "gloss": "Pradhana not scripturally taught here",
+        "contextual_sense": "Pradhana is excluded as unscriptural and semantically unfit in Vedanta context.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "non-sruti Pradhana",
+          "textually unsupported primal matter"
+        ]
+      },
+      {
+        "headword_iast": "cetana-kāraṇatva",
+        "gloss": "sentient causal status",
+        "contextual_sense": "Causal principle must be conscious to match ikshana statements.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "conscious causality",
+          "aware sourcehood"
+        ]
+      },
+      {
+        "headword_iast": "sad-eva-agra-āsīt",
+        "gloss": "Being alone existed in the beginning",
+        "contextual_sense": "Upanishadic basis cited to anchor conscious-cause interpretation.",
+        "grammatical_role": "scriptural citation phrase",
+        "alternate_glosses": [
+          "primordial Being statement",
+          "originary sat declaration"
+        ]
+      },
+      {
+        "headword_iast": "pradhāna-nirākaraṇa",
+        "gloss": "refutation of Pradhana",
+        "contextual_sense": "Sankhya inert cause is ruled out at the onset of causality adhikarana.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "Sankhya cause denial",
+          "insentient source rejection"
+        ]
+      }
+    ],
+    "argument_tags": [
+      "response",
+      "resolution",
+      "definition",
+      "example"
+    ],
+    "tags": [
+      "layout:chapter-section-record",
+      "policy:append-and-supersede-never-delete",
+      "strata:bhasya"
+    ]
+  },
+  "provenance": {
+    "extraction_timestamp_utc": "2026-06-02T16:24:50Z",
+    "extractor_version": "extract_bs_records.py@0.1",
+    "translator_version": "human+llm@bs-c01-s01-curation-pass-4",
+    "reviewer_version": "pending",
+    "source_manifest_path": "reality/src/logos/sankara/raw/manifest.jsonl"
+  },
+  "qa": {
+    "status": "draft",
+    "confidence": 0.9,
+    "uncertainty_notes": [
+      "Curated in contiguous S01 pass with stable inferential-tag schema.",
+      "A later philological pass should revisit long compound argument boundaries and technical Mimamsa-Sankhya polemic vocabulary in records 1.1.024-1.1.031."
+    ]
+  },
+  "record_kind": "bhasya"
+}

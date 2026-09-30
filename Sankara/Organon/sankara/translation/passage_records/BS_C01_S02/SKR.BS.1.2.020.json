@@ -1,0 +1,102 @@
+{
+  "record_id": "SKR.BS.1.2.020",
+  "work_code": "BS",
+  "section_code": "1.2",
+  "source": {
+    "source_url": "https://advaitasharada.sringeri.net/display/bhashya/BS/devanagari?id=BS_C01&page=1",
+    "source_sha256": "3e25449a44a0e912318db91030eb2e604e0c4eb2f8b5ceaa4ff4f92ae5e5bb80",
+    "language": "sa",
+    "script": "Devanagari",
+    "edition_note": "Draft block record from BS_C01_S02.json::BS_C01_S02_V09_B1 (bhashya)."
+  },
+  "text": {
+    "source_text": "कठवल्लीषु पठ्यते ‘ यस्य ब्रह्म च क्षत्रं चोभे भवत ओदनः । मृत्युर्यस्योपसेचनं क इत्था वेद यत्र सः ’ (क. उ. १ । २ । २५) इति । अत्र कश्चिदोदनोपसेचनसूचितोऽत्ता प्रतीयते । तत्र किमग्निरत्ता स्यात् , उत जीवः , अथवा परमात्मा , इति संशयः । विशे षा नवधारणात् । त्रयाणां चाग्निजीवपरमात्मनामस्मिन्ग्रन्थे प्रश्नोपन्यासोपलब्धेः । किं ताव त्प्राप्तम् ? अग्निरत्तेति । कुतः ? ‘ अग्निरन्नादः ’ (बृ. उ. १ । ४ । ६) इति श्रुतिप्रसिद्धिभ्याम् । जीवो वा अत्ता स्यात् ‘ तयोरन्यः पिप्पलं स्वाद्वत्ति ’ (मु. उ. ३ । १ । १) इति दर्शनात् । न परमात्मा , ‘ अनश्नन्नन्योऽभिचाकशीति ’ इति दर्शनादित्येवं प्राप्ते ब्रूमः —",
+    "transliteration_iast": "kaṭhavallīṣu paṭhyate ‘ yasya brahma ca kṣatraṃ cobhe bhavata odanaḥ | mṛtyuryasyopasecanaṃ ka itthā veda yatra saḥ ’ (ka. u. 1 | 2 | 25) iti | atra kaścidodanopasecanasūcito'ttā pratīyate | tatra kimagnirattā syāt , uta jīvaḥ , athavā paramātmā , iti saṃśayaḥ | viśe ṣā navadhāraṇāt | trayāṇāṃ cāgnijīvaparamātmanāmasmingranthe praśnopanyāsopalabdheḥ | kiṃ tāva tprāptam ? agniratteti | kutaḥ ? ‘ agnirannādaḥ ’ (bṛ. u. 1 | 4 | 6) iti śrutiprasiddhibhyām | jīvo vā attā syāt ‘ tayoranyaḥ pippalaṃ svādvatti ’ (mu. u. 3 | 1 | 1) iti darśanāt | na paramātmā , ‘ anaśnannanyo'bhicākaśīti ’ iti darśanādityevaṃ prāpte brūmaḥ —",
+    "segmentation_note": "Block-level extraction from BS_C01_S02_V09/BS_C01_S02_V09_B1."
+  },
+  "translation": {
+    "literal_translation": "In the Katha section it is read: 'For whom brahmana and kshatra both are food, and death is condiment - who thus knows where He is?' Here an eater is indicated by the food-condiment imagery. The doubt is: is the eater fire, or the jiva, or the Supreme Self? There is no immediate determination by special mark, and in this textual region all three - fire, jiva, and Supreme - are encountered in question and exposition. Prima facie one may take fire as eater, from scriptural/common usage ('fire is eater of food'). Or one may take jiva, as seen in texts where one of two birds eats the sweet fruit. Not the Supreme, since another text says one (the higher) does not eat but merely witnesses. With this prima facie view, we reply -",
+    "technical_translation": "Opening purvapaksha for 1.2.9 frames triadic candidate analysis (agni/jiva/Brahman) for the 'attā' passage with lexical and intertextual arguments.",
+    "interpretive_note": "Sets the eater-identification problem before the decisive caracara criterion."
+  },
+  "analysis": {
+    "lexical_notes": [
+      {
+        "headword_iast": "atta",
+        "gloss": "the eater/consumer",
+        "contextual_sense": "Key disputed term launching triadic candidate analysis (fire, jiva, Brahman) in the new adhikarana.",
+        "grammatical_role": "agent noun",
+        "alternate_glosses": [
+          "consumer",
+          "devourer"
+        ]
+      },
+      {
+        "headword_iast": "purvapaksa",
+        "gloss": "prima facie thesis",
+        "contextual_sense": "Methodic opening stance that tests multiple candidate referents before siddhanta selection.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "initial objection-framework",
+          "provisional thesis"
+        ]
+      },
+      {
+        "headword_iast": "trivikalpa",
+        "gloss": "three-way alternative analysis",
+        "contextual_sense": "Interpretive structure in which agni, jiva, and Brahman are comparatively evaluated.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "triadic option set",
+          "threefold candidate frame"
+        ]
+      },
+      {
+        "headword_iast": "lakshana-linga-pariksa",
+        "gloss": "testing by defining marks and indicators",
+        "contextual_sense": "Procedure used to discriminate among candidate referents in ambiguous scriptural expressions.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "indicator-testing method",
+          "mark-based adjudication"
+        ]
+      },
+      {
+        "headword_iast": "prakarana-pravesa",
+        "gloss": "entry into a new topical sequence",
+        "contextual_sense": "Signals transition from previous closure into fresh inferential debate architecture.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "topic-entry",
+          "new argument sequence opening"
+        ]
+      }
+    ],
+    "argument_tags": [
+      "objection",
+      "definition",
+      "example"
+    ],
+    "tags": [
+      "layout:chapter-section-record",
+      "policy:append-and-supersede-never-delete",
+      "strata:bhasya"
+    ]
+  },
+  "provenance": {
+    "extraction_timestamp_utc": "2026-06-02T16:24:50Z",
+    "extractor_version": "extract_bs_records.py@0.1",
+    "translator_version": "human+llm@bs-c01-s02-curation-pass-3",
+    "reviewer_version": "pending",
+    "source_manifest_path": "reality/src/logos/sankara/raw/manifest.jsonl"
+  },
+  "qa": {
+    "status": "draft",
+    "confidence": 0.85,
+    "uncertainty_notes": [
+      "Curated in contiguous S02 pass with stable cadence and inferential-tag schema.",
+      "A later philological pass should revisit upadhi/vyavahara terminology and atta-grahana technical choices in records 1.2.016-1.2.022."
+    ]
+  },
+  "record_kind": "bhasya"
+}

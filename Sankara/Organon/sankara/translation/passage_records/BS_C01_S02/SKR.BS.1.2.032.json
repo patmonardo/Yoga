@@ -1,0 +1,90 @@
+{
+  "record_id": "SKR.BS.1.2.032",
+  "work_code": "BS",
+  "section_code": "1.2",
+  "source": {
+    "source_url": "https://advaitasharada.sringeri.net/display/bhashya/BS/devanagari?id=BS_C01&page=1",
+    "source_sha256": "3e25449a44a0e912318db91030eb2e604e0c4eb2f8b5ceaa4ff4f92ae5e5bb80",
+    "language": "sa",
+    "script": "Devanagari",
+    "edition_note": "Draft block record from BS_C01_S02.json::BS_C01_S02_V12_VERSETEXT_01 (versetext)."
+  },
+  "text": {
+    "source_text": "विशेषणाच्च ॥ १२ ॥",
+    "transliteration_iast": "viśeṣaṇācca || 12 ||",
+    "segmentation_note": "Block-level extraction from BS_C01_S02_V12/BS_C01_S02_V12_VERSETEXT_01."
+  },
+  "translation": {
+    "literal_translation": "And because of the qualifying marks. (12)",
+    "technical_translation": "Sutra 1.2.12: specific qualifiers in the passage confirm the intended pair as jiva and Supreme Self.",
+    "interpretive_note": "Sutra signal that viśeṣaṇa evidence is decisive."
+  },
+  "analysis": {
+    "lexical_notes": [
+      {
+        "headword_iast": "visesana",
+        "gloss": "qualifying descriptor",
+        "contextual_sense": "Sutra reason: specific qualifiers in the source text distinguish the intended referent pair.",
+        "grammatical_role": "noun",
+        "alternate_glosses": [
+          "qualifier",
+          "determinative attribute"
+        ]
+      },
+      {
+        "headword_iast": "linga-pramana",
+        "gloss": "indicator-based proof",
+        "contextual_sense": "Qualifiers operate as linga to settle interpretation in favor of jiva-Paramatman reading.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "sign-evidence",
+          "indicative warrant"
+        ]
+      },
+      {
+        "headword_iast": "dvaya-nirnaya",
+        "gloss": "determination of the intended pair",
+        "contextual_sense": "Aphoristic closure of candidate uncertainty by appeal to qualifier fit.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "pair adjudication",
+          "dual-reference settlement"
+        ]
+      },
+      {
+        "headword_iast": "sutra-sankshepa",
+        "gloss": "aphoristic condensation",
+        "contextual_sense": "Condenses the broader bhashya argument into one causal marker: visesana.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "terse doctrinal compression",
+          "brief inferential node"
+        ]
+      }
+    ],
+    "argument_tags": [
+      "resolution"
+    ],
+    "tags": [
+      "layout:chapter-section-record",
+      "policy:append-and-supersede-never-delete",
+      "strata:sutra"
+    ]
+  },
+  "provenance": {
+    "extraction_timestamp_utc": "2026-06-02T16:24:50Z",
+    "extractor_version": "extract_bs_records.py@0.1",
+    "translator_version": "human+llm@bs-c01-s02-curation-pass-5",
+    "reviewer_version": "pending",
+    "source_manifest_path": "reality/src/logos/sankara/raw/manifest.jsonl"
+  },
+  "qa": {
+    "status": "draft",
+    "confidence": 0.94,
+    "uncertainty_notes": [
+      "Curated in contiguous S02 pass with stable cadence and inferential-tag schema.",
+      "A later philological pass should revisit ka/kha lexical interpretation and eye-person technical terminology in records 1.2.033-1.2.038."
+    ]
+  },
+  "record_kind": "sutra"
+}

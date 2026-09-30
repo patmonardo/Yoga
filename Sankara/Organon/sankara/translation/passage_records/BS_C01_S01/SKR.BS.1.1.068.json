@@ -1,0 +1,102 @@
+{
+  "record_id": "SKR.BS.1.1.068",
+  "work_code": "BS",
+  "section_code": "1.1",
+  "source": {
+    "source_url": "https://advaitasharada.sringeri.net/display/bhashya/BS/devanagari?id=BS_C01&page=1",
+    "source_sha256": "3e25449a44a0e912318db91030eb2e604e0c4eb2f8b5ceaa4ff4f92ae5e5bb80",
+    "language": "sa",
+    "script": "Devanagari",
+    "edition_note": "Draft block record from BS_C01_S01.json::BS_C01_S01_V19_B1 (bhashya)."
+  },
+  "text": {
+    "source_text": "इतश्च न प्रधाने जीवे वानन्दमयशब्दः ; यस्मादस्मिन्नानन्दमये प्रकृत आत्मनि , प्रतिबुद्धस्यास्य जीवस्य , तद्योगं शास्ति — तदात्मना योगस्तद्योगः , तद्भावापत्तिः , मुक्ति रि त्यर्थः — तद्योगं शास्ति शास्त्रम् — ‘ यदा ह्येवैष एतस्मिन्नदृश्येऽनात्म्येऽनिरुक्तेऽनिलयनेऽभयं प्रतिष्ठां विन्दते । अथ सोऽभयं गतो भवति । यदा ह्येवैष एतस्मिन्नुदरमन्तरं कुरुते । अथ तस्य भयं भवति ’ (तै. उ. २ । ७ । १) इति । एतदुक्तं भवति — यदैतस्मिन्नानन्दमयेऽल्पमप्यन्तरमतादात्म्यरूपं पश्यति , तदा संसारभयान्न निवर्तते । यदा त्वेतस्मिन्नानन्दमये निरन्तरं तादात्म्येन प्रतितिष्ठति , तदा संसारभयान्निवर्तत इति । तच्च परमात्मपरिग्रहे घटते , न प्रधानपरिग्रहे जीवपरिग्रहे वा । तस्मादानन्दमयः परमात्मेति स्थितम् ॥ १९ ॥",
+    "transliteration_iast": "itaśca na pradhāne jīve vānandamayaśabdaḥ ; yasmādasminnānandamaye prakṛta ātmani , pratibuddhasyāsya jīvasya , tadyogaṃ śāsti — tadātmanā yogastadyogaḥ , tadbhāvāpattiḥ , mukti ri tyarthaḥ — tadyogaṃ śāsti śāstram — ‘ yadā hyevaiṣa etasminnadṛśye'nātmye'nirukte'nilayane'bhayaṃ pratiṣṭhāṃ vindate | atha so'bhayaṃ gato bhavati | yadā hyevaiṣa etasminnudaramantaraṃ kurute | atha tasya bhayaṃ bhavati ’ (tai. u. 2 | 7 | 1) iti | etaduktaṃ bhavati — yadaitasminnānandamaye'lpamapyantaramatādātmyarūpaṃ paśyati , tadā saṃsārabhayānna nivartate | yadā tvetasminnānandamaye nirantaraṃ tādātmyena pratitiṣṭhati , tadā saṃsārabhayānnivartata iti | tacca paramātmaparigrahe ghaṭate , na pradhānaparigrahe jīvaparigrahe vā | tasmādānandamayaḥ paramātmeti sthitam || 19 ||",
+    "segmentation_note": "Block-level extraction from BS_C01_S01_V19/BS_C01_S01_V19_B1."
+  },
+  "translation": {
+    "literal_translation": "And for this reason too, anandamaya does not denote Pradhana or jiva: in this anandamaya self, scripture teaches this awakened jiva's union with That - union meaning identity-attainment, i.e., liberation: 'when indeed this one finds fearlessness in that invisible, bodiless, unnameable, unsupported reality, then he becomes fearless; when he makes even the slightest gap in it, then fear comes.' The sense is: as long as one sees even a slight non-identity gap in this anandamaya, one does not transcend samsaric fear; when one is established in uninterrupted identity with this anandamaya, samsaric fear ceases. This fits only on taking it as Supreme Self, not as Pradhana or individual jiva. Therefore anandamaya is established as Paramatman. (19)",
+    "technical_translation": "Bhashya on 1.1.19 reads tadyoga teaching as fearlessness-through-identity with Brahman, excluding both Pradhana and finite jiva referents.",
+    "interpretive_note": "Fear/abheda pedagogy is used as a decisive referential test."
+  },
+  "analysis": {
+    "lexical_notes": [
+      {
+        "headword_iast": "tad-yoga-upadeśa",
+        "gloss": "instruction of union/identity with that",
+        "contextual_sense": "Teaching promises fearlessness through assimilation to the discussed anandamaya referent.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "that-identity instruction",
+          "Brahman-assimilation teaching"
+        ]
+      },
+      {
+        "headword_iast": "abhaya-prāpti",
+        "gloss": "attainment of fearlessness",
+        "contextual_sense": "Freedom from fear is treated as diagnostic fruit of Brahman-realization, not Pradhana relation.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "fear-transcendence",
+          "security-through-identity"
+        ]
+      },
+      {
+        "headword_iast": "tad-bhāva-āpatti",
+        "gloss": "arrival into that very being",
+        "contextual_sense": "Moksha is interpreted as identity-realization rather than spatial conjunction.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "becoming-that realization",
+          "identity-attainment"
+        ]
+      },
+      {
+        "headword_iast": "pratibuddha-jīva-adhikāra",
+        "gloss": "domain of the awakened jiva",
+        "contextual_sense": "Instruction addresses the knower in transition from ignorance to stabilized non-dual insight.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "awakened-seeker locus",
+          "realizing-subject context"
+        ]
+      },
+      {
+        "headword_iast": "pradhāna-jīva-vyāvṛtti-yugma",
+        "gloss": "paired exclusion of Pradhana and finite self",
+        "contextual_sense": "Fearlessness criterion simultaneously rejects inert cause and bound individual as final referent.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "double exclusion frame",
+          "two-candidate elimination"
+        ]
+      }
+    ],
+    "argument_tags": [
+      "response",
+      "resolution",
+      "definition"
+    ],
+    "tags": [
+      "layout:chapter-section-record",
+      "policy:append-and-supersede-never-delete",
+      "strata:bhasya"
+    ]
+  },
+  "provenance": {
+    "extraction_timestamp_utc": "2026-06-02T16:24:50Z",
+    "extractor_version": "extract_bs_records.py@0.1",
+    "translator_version": "human+llm@bs-c01-s01-curation-pass-9",
+    "reviewer_version": "pending",
+    "source_manifest_path": "reality/src/logos/sankara/raw/manifest.jsonl"
+  },
+  "qa": {
+    "status": "draft",
+    "confidence": 0.9,
+    "uncertainty_notes": [
+      "Curated in contiguous S01 pass with stable inferential-tag schema.",
+      "A later philological pass should revisit tadyoga nuance and the heavily compressed debate text in records 1.1.069-1.1.071."
+    ]
+  },
+  "record_kind": "bhasya"
+}

@@ -1,0 +1,90 @@
+{
+  "record_id": "SKR.BS.1.1.051",
+  "work_code": "BS",
+  "section_code": "1.1",
+  "source": {
+    "source_url": "https://advaitasharada.sringeri.net/display/bhashya/BS/devanagari?id=BS_C01&page=1",
+    "source_sha256": "3e25449a44a0e912318db91030eb2e604e0c4eb2f8b5ceaa4ff4f92ae5e5bb80",
+    "language": "sa",
+    "script": "Devanagari",
+    "edition_note": "Draft block record from BS_C01_S01.json::BS_C01_S01_V11_VERSETEXT_01 (versetext)."
+  },
+  "text": {
+    "source_text": "श्रुतत्वाच्च ॥ ११ ॥",
+    "transliteration_iast": "śrutatvācca || 11 ||",
+    "segmentation_note": "Block-level extraction from BS_C01_S01_V11/BS_C01_S01_V11_VERSETEXT_01."
+  },
+  "translation": {
+    "literal_translation": "And because it is heard in scripture. (11)",
+    "technical_translation": "Sutra 1.1.11: Brahman as world-cause is secured by explicit shruti hearing (shrutatvac ca).",
+    "interpretive_note": "Sutra compression of direct textual testimony."
+  },
+  "analysis": {
+    "lexical_notes": [
+      {
+        "headword_iast": "śrutatvāc ca",
+        "gloss": "and because it is explicitly heard",
+        "contextual_sense": "Sutra clinches Brahman-causality by direct scriptural declaration.",
+        "grammatical_role": "ablative reason phrase",
+        "alternate_glosses": [
+          "from explicit hearing",
+          "due to direct revelation"
+        ]
+      },
+      {
+        "headword_iast": "pratyakṣa-śruti-bala",
+        "gloss": "force of explicit revelation",
+        "contextual_sense": "Not inferred only from context; conclusion rests on unambiguous textual statement.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "direct textual force",
+          "manifest scriptural authority"
+        ]
+      },
+      {
+        "headword_iast": "sarvajña-brahma-kāraṇatva",
+        "gloss": "omniscient Brahman as causal source",
+        "contextual_sense": "Finalized referent after cumulative dialectic against Pradhana alternatives.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "all-knowing causal Brahman",
+          "omniscient source doctrine"
+        ]
+      },
+      {
+        "headword_iast": "sūtra-avasāna-nirṇaya",
+        "gloss": "closing aphoristic determination",
+        "contextual_sense": "This concise reason functions as the final seal for the present exclusion chain.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "terminal sutra verdict",
+          "final aphoristic closure"
+        ]
+      }
+    ],
+    "argument_tags": [
+      "resolution"
+    ],
+    "tags": [
+      "layout:chapter-section-record",
+      "policy:append-and-supersede-never-delete",
+      "strata:sutra"
+    ]
+  },
+  "provenance": {
+    "extraction_timestamp_utc": "2026-06-02T16:24:50Z",
+    "extractor_version": "extract_bs_records.py@0.1",
+    "translator_version": "human+llm@bs-c01-s01-curation-pass-7",
+    "reviewer_version": "pending",
+    "source_manifest_path": "reality/src/logos/sankara/raw/manifest.jsonl"
+  },
+  "qa": {
+    "status": "draft",
+    "confidence": 0.97,
+    "uncertainty_notes": [
+      "Curated in contiguous S01 pass with stable inferential-tag schema.",
+      "A later philological pass should revisit anandamaya technical layering and the long transition bridge in records 1.1.048-1.1.055."
+    ]
+  },
+  "record_kind": "sutra"
+}

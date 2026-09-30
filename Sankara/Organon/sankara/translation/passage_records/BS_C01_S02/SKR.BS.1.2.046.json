@@ -1,0 +1,90 @@
+{
+  "record_id": "SKR.BS.1.2.046",
+  "work_code": "BS",
+  "section_code": "1.2",
+  "source": {
+    "source_url": "https://advaitasharada.sringeri.net/display/bhashya/BS/devanagari?id=BS_C01&page=1",
+    "source_sha256": "3e25449a44a0e912318db91030eb2e604e0c4eb2f8b5ceaa4ff4f92ae5e5bb80",
+    "language": "sa",
+    "script": "Devanagari",
+    "edition_note": "Draft block record from BS_C01_S02.json::BS_C01_S02_V18_VERSETEXT_01 (versetext)."
+  },
+  "text": {
+    "source_text": "अन्तर्याम्यधिदैवादिषु तद्धर्मव्यपदेशात् ॥ १८ ॥",
+    "transliteration_iast": "antaryāmyadhidaivādiṣu taddharmavyapadeśāt || 18 ||",
+    "segmentation_note": "Block-level extraction from BS_C01_S02_V18/BS_C01_S02_V18_VERSETEXT_01."
+  },
+  "translation": {
+    "literal_translation": "In the inner-controller passage regarding deity and related domains, because of designation of His attributes. (18)",
+    "technical_translation": "Sutra 1.2.18: antaryamin is Brahman, established by explicit ascription of Brahmanic attributes.",
+    "interpretive_note": "Sutra encapsulation of the antaryamin determination."
+  },
+  "analysis": {
+    "lexical_notes": [
+      {
+        "headword_iast": "antaryami-adhidaivadisu",
+        "gloss": "inner controller across deity and other domains",
+        "contextual_sense": "Sutra situates one controller-function through multiple ontological layers.",
+        "grammatical_role": "locative compound phrase",
+        "alternate_glosses": [
+          "cross-domain antaryamin reference",
+          "multi-level inner governance"
+        ]
+      },
+      {
+        "headword_iast": "taddharma-vyapadesat",
+        "gloss": "because of ascription of His attributes",
+        "contextual_sense": "Decisive reason clause identifying controller as Brahman by predicate profile.",
+        "grammatical_role": "ablative reason phrase",
+        "alternate_glosses": [
+          "from Brahmanic attribute assignment",
+          "due to specific property attribution"
+        ]
+      },
+      {
+        "headword_iast": "sutra-hetu",
+        "gloss": "sutra-level inferential ground",
+        "contextual_sense": "Compressed form of the full bhashya reasoning on antaryamin identity.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "aphoristic rationale",
+          "terse proof basis"
+        ]
+      },
+      {
+        "headword_iast": "brahma-antaryamin-aikya",
+        "gloss": "identity of Brahman and inner controller",
+        "contextual_sense": "Final doctrinal equation secured by attribute evidence across sections.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "Brahman-controller identity",
+          "inner ruler as absolute"
+        ]
+      }
+    ],
+    "argument_tags": [
+      "resolution"
+    ],
+    "tags": [
+      "layout:chapter-section-record",
+      "policy:append-and-supersede-never-delete",
+      "strata:sutra"
+    ]
+  },
+  "provenance": {
+    "extraction_timestamp_utc": "2026-06-02T16:24:50Z",
+    "extractor_version": "extract_bs_records.py@0.1",
+    "translator_version": "human+llm@bs-c01-s02-curation-pass-6",
+    "reviewer_version": "pending",
+    "source_manifest_path": "reality/src/logos/sankara/raw/manifest.jsonl"
+  },
+  "qa": {
+    "status": "draft",
+    "confidence": 0.94,
+    "uncertainty_notes": [
+      "Curated in contiguous S02 pass with stable cadence and inferential-tag schema.",
+      "A later philological pass should revisit antaryamin technical vocabulary and akshi-purusha predicate nuances in records 1.2.040-1.2.046."
+    ]
+  },
+  "record_kind": "sutra"
+}

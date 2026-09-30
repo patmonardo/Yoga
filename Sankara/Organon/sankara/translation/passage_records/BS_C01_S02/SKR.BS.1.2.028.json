@@ -1,0 +1,90 @@
+{
+  "record_id": "SKR.BS.1.2.028",
+  "work_code": "BS",
+  "section_code": "1.2",
+  "source": {
+    "source_url": "https://advaitasharada.sringeri.net/display/bhashya/BS/devanagari?id=BS_C01&page=1",
+    "source_sha256": "3e25449a44a0e912318db91030eb2e604e0c4eb2f8b5ceaa4ff4f92ae5e5bb80",
+    "language": "sa",
+    "script": "Devanagari",
+    "edition_note": "Draft block record from BS_C01_S02.json::BS_C01_S02_V11_VERSETEXT_01 (versetext)."
+  },
+  "text": {
+    "source_text": "गुहां प्रविष्टावात्मानौ हि तद्दर्शनात् ॥ ११ ॥",
+    "transliteration_iast": "guhāṃ praviṣṭāvātmānau hi taddarśanāt || 11 ||",
+    "segmentation_note": "Block-level extraction from BS_C01_S02_V11/BS_C01_S02_V11_VERSETEXT_01."
+  },
+  "translation": {
+    "literal_translation": "The two selves are indeed entered into the cave, because that is seen (in scripture). (11)",
+    "technical_translation": "Sutra 1.2.11: guhapraviṣṭa-darśana supports jiva-paramatma dual reference.",
+    "interpretive_note": "Sutra seal for the cave-entered two-selves reading."
+  },
+  "analysis": {
+    "lexical_notes": [
+      {
+        "headword_iast": "guham pravistau",
+        "gloss": "the two entered the cave",
+        "contextual_sense": "Sutra cites this as decisive textual marker for identifying both as selves.",
+        "grammatical_role": "quoted locative phrase",
+        "alternate_glosses": [
+          "cave-entry indicator",
+          "heart-cavity dual marker"
+        ]
+      },
+      {
+        "headword_iast": "atmanau hi",
+        "gloss": "indeed, two selves",
+        "contextual_sense": "Aphoristic resolution that both dual referents are conscious principles.",
+        "grammatical_role": "assertive doctrinal phrase",
+        "alternate_glosses": [
+          "both are selves",
+          "self-dual assertion"
+        ]
+      },
+      {
+        "headword_iast": "tad-darsanat",
+        "gloss": "because that is seen in scripture",
+        "contextual_sense": "Scriptural observation clause grounding the sutra’s inferential closure.",
+        "grammatical_role": "ablative reason term",
+        "alternate_glosses": [
+          "from textual witnessing",
+          "owing to scriptural indication"
+        ]
+      },
+      {
+        "headword_iast": "linga-siddhi",
+        "gloss": "establishment by indicator",
+        "contextual_sense": "Summarizes how the guha-reference functions as linga to settle identity.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "indicator-based establishment",
+          "sign-grounded proof"
+        ]
+      }
+    ],
+    "argument_tags": [
+      "resolution"
+    ],
+    "tags": [
+      "layout:chapter-section-record",
+      "policy:append-and-supersede-never-delete",
+      "strata:sutra"
+    ]
+  },
+  "provenance": {
+    "extraction_timestamp_utc": "2026-06-02T16:24:50Z",
+    "extractor_version": "extract_bs_records.py@0.1",
+    "translator_version": "human+llm@bs-c01-s02-curation-pass-4",
+    "reviewer_version": "pending",
+    "source_manifest_path": "reality/src/logos/sankara/raw/manifest.jsonl"
+  },
+  "qa": {
+    "status": "draft",
+    "confidence": 0.94,
+    "uncertainty_notes": [
+      "Curated in contiguous S02 pass with stable cadence and inferential-tag schema.",
+      "A later philological pass should revisit sattva-kshetrajna and bhoktrtva figurative-usage choices in records 1.2.025-1.2.030."
+    ]
+  },
+  "record_kind": "sutra"
+}

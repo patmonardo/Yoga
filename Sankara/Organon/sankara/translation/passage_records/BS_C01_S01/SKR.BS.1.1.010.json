@@ -1,0 +1,90 @@
+{
+  "record_id": "SKR.BS.1.1.010",
+  "work_code": "BS",
+  "section_code": "1.1",
+  "source": {
+    "source_url": "https://advaitasharada.sringeri.net/display/bhashya/BS/devanagari?id=BS_C01&page=1",
+    "source_sha256": "3e25449a44a0e912318db91030eb2e604e0c4eb2f8b5ceaa4ff4f92ae5e5bb80",
+    "language": "sa",
+    "script": "Devanagari",
+    "edition_note": "Draft block record from BS_C01_S01.json::BS_C01_S01_V01_VERSETEXT_01 (versetext)."
+  },
+  "text": {
+    "source_text": "अथातो ब्रह्मजिज्ञासा ॥ १ ॥",
+    "transliteration_iast": "athāto brahmajijñāsā || 1 ||",
+    "segmentation_note": "Block-level extraction from BS_C01_S01_V01/BS_C01_S01_V01_VERSETEXT_01."
+  },
+  "translation": {
+    "literal_translation": "Then, therefore, inquiry into Brahman. (1)",
+    "technical_translation": "Sutra restatement: the project is Brahma-jijnasa.",
+    "interpretive_note": "Repetition functions as formal sutra anchor within the running bhashya sequence."
+  },
+  "analysis": {
+    "lexical_notes": [
+      {
+        "headword_iast": "atha",
+        "gloss": "now/thereafter",
+        "contextual_sense": "Signals commencement conditioned by prior preparedness and causal ground.",
+        "grammatical_role": "indeclinable particle",
+        "alternate_glosses": [
+          "thereupon",
+          "at this juncture"
+        ]
+      },
+      {
+        "headword_iast": "atah",
+        "gloss": "therefore",
+        "contextual_sense": "Marks inferential transition from finite-result critique to Brahman inquiry.",
+        "grammatical_role": "causal particle",
+        "alternate_glosses": [
+          "hence",
+          "for this reason"
+        ]
+      },
+      {
+        "headword_iast": "brahma-jijnasa",
+        "gloss": "inquiry into Brahman",
+        "contextual_sense": "Programmatic sutra declaration of the Vedanta project.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "Brahman-investigation",
+          "nondual inquiry project"
+        ]
+      },
+      {
+        "headword_iast": "adhikarana-pravesa",
+        "gloss": "entry into the opening topical unit",
+        "contextual_sense": "Functions as root launch-node for all subsequent sutra adjudications.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "foundational topic entry",
+          "opening argument initiation"
+        ]
+      }
+    ],
+    "argument_tags": [
+      "definition"
+    ],
+    "tags": [
+      "layout:chapter-section-record",
+      "policy:append-and-supersede-never-delete",
+      "strata:sutra"
+    ]
+  },
+  "provenance": {
+    "extraction_timestamp_utc": "2026-06-02T16:24:50Z",
+    "extractor_version": "extract_bs_records.py@0.1",
+    "translator_version": "human+llm@bs-c01-s01-curation-pass-2",
+    "reviewer_version": "pending",
+    "source_manifest_path": "reality/src/logos/sankara/raw/manifest.jsonl"
+  },
+  "qa": {
+    "status": "draft",
+    "confidence": 0.96,
+    "uncertainty_notes": [
+      "Curated in contiguous S01 pass with stable inferential-tag schema.",
+      "A later philological pass should revisit janmadi-lakshana and sastra-yonitva technical compression in records 1.1.008-1.1.015."
+    ]
+  },
+  "record_kind": "sutra"
+}

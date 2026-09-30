@@ -1,0 +1,90 @@
+{
+  "record_id": "SKR.BS.1.1.027",
+  "work_code": "BS",
+  "section_code": "1.1",
+  "source": {
+    "source_url": "https://advaitasharada.sringeri.net/display/bhashya/BS/devanagari?id=BS_C01&page=1",
+    "source_sha256": "3e25449a44a0e912318db91030eb2e604e0c4eb2f8b5ceaa4ff4f92ae5e5bb80",
+    "language": "sa",
+    "script": "Devanagari",
+    "edition_note": "Draft block record from BS_C01_S01.json::BS_C01_S01_V04_VERSETEXT_01 (versetext)."
+  },
+  "text": {
+    "source_text": "तत्तु समन्वयात् ॥ ४ ॥",
+    "transliteration_iast": "tattu samanvayāt || 4 ||",
+    "segmentation_note": "Block-level extraction from BS_C01_S01_V04/BS_C01_S01_V04_VERSETEXT_01."
+  },
+  "translation": {
+    "literal_translation": "But that (Brahman), because of harmonization. (4)",
+    "technical_translation": "Sutra 1.1.4: Brahman is the Vedanta purport, established by samanvaya of the Upanishadic corpus.",
+    "interpretive_note": "Sutra key for resolving kriyarthatva dispute."
+  },
+  "analysis": {
+    "lexical_notes": [
+      {
+        "headword_iast": "tat tu samanvayāt",
+        "gloss": "but that (Brahman) from convergence",
+        "contextual_sense": "Sutra verdict: Vedanta corpus coheres around Brahman as principal purport.",
+        "grammatical_role": "sutra phrase",
+        "alternate_glosses": [
+          "Brahman through harmonized purport",
+          "nondual convergence determination"
+        ]
+      },
+      {
+        "headword_iast": "tu-śabda-vyāvṛtti",
+        "gloss": "contrastive exclusion via tu",
+        "contextual_sense": "Indicates rejection of prior kriyarthatva-based objection.",
+        "grammatical_role": "grammatical-doctrinal term",
+        "alternate_glosses": [
+          "objection exclusion marker",
+          "contrastive turn"
+        ]
+      },
+      {
+        "headword_iast": "samanvaya-hetu",
+        "gloss": "reason of textual convergence",
+        "contextual_sense": "Serves as decisive interpretive criterion in this adhikarana.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "harmonization reason",
+          "purport-convergence ground"
+        ]
+      },
+      {
+        "headword_iast": "vedānta-tātparya-niścaya",
+        "gloss": "fixing Vedanta’s intended meaning",
+        "contextual_sense": "Establishes Brahman as autonomous revelatory object of Upanishads.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "Upanishadic intent determination",
+          "Vedanta purport fixation"
+        ]
+      }
+    ],
+    "argument_tags": [
+      "resolution"
+    ],
+    "tags": [
+      "layout:chapter-section-record",
+      "policy:append-and-supersede-never-delete",
+      "strata:sutra"
+    ]
+  },
+  "provenance": {
+    "extraction_timestamp_utc": "2026-06-02T16:24:50Z",
+    "extractor_version": "extract_bs_records.py@0.1",
+    "translator_version": "human+llm@bs-c01-s01-curation-pass-4",
+    "reviewer_version": "pending",
+    "source_manifest_path": "reality/src/logos/sankara/raw/manifest.jsonl"
+  },
+  "qa": {
+    "status": "draft",
+    "confidence": 0.97,
+    "uncertainty_notes": [
+      "Curated in contiguous S01 pass with stable inferential-tag schema.",
+      "A later philological pass should revisit long compound argument boundaries and technical Mimamsa-Sankhya polemic vocabulary in records 1.1.024-1.1.031."
+    ]
+  },
+  "record_kind": "sutra"
+}

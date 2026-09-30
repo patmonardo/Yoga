@@ -1,0 +1,90 @@
+{
+  "record_id": "SKR.BS.1.1.013",
+  "work_code": "BS",
+  "section_code": "1.1",
+  "source": {
+    "source_url": "https://advaitasharada.sringeri.net/display/bhashya/BS/devanagari?id=BS_C01&page=1",
+    "source_sha256": "3e25449a44a0e912318db91030eb2e604e0c4eb2f8b5ceaa4ff4f92ae5e5bb80",
+    "language": "sa",
+    "script": "Devanagari",
+    "edition_note": "Draft block record from BS_C01_S01.json::BS_C01_S01_V02_I01 (leading_bhashya)."
+  },
+  "text": {
+    "source_text": "ब्रह्म जिज्ञासितव्यमित्युक्तम् । किंलक्षणकं पुनस्तद्ब्रह्मे त्यत आह भगवान्सूत्रकारः —",
+    "transliteration_iast": "brahma jijñāsitavyamityuktam | kiṃlakṣaṇakaṃ punastadbrahme tyata āha bhagavānsūtrakāraḥ —",
+    "segmentation_note": "Block-level extraction from BS_C01_S01_V02/BS_C01_S01_V02_I01."
+  },
+  "translation": {
+    "literal_translation": "It has been said that Brahman is to be inquired into. But what is the defining mark of that Brahman? Therefore the revered sutrakara says -",
+    "technical_translation": "Transition introducing the lakshana-sutra for Brahman.",
+    "interpretive_note": "Sets up formal definition after programmatic call to inquiry."
+  },
+  "analysis": {
+    "lexical_notes": [
+      {
+        "headword_iast": "brahma-laksana-prasna",
+        "gloss": "question of Brahman’s defining mark",
+        "contextual_sense": "Transition asks how the previously declared inquiry-object is to be identified.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "Brahman-definition query",
+          "object-marking question"
+        ]
+      },
+      {
+        "headword_iast": "jijnasa-visaya-nirdharana",
+        "gloss": "fixing the object of inquiry",
+        "contextual_sense": "Moves from injunction to investigate toward criterion for recognizing Brahman.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "inquiry-object determination",
+          "visaya clarification"
+        ]
+      },
+      {
+        "headword_iast": "sutra-pravesa",
+        "gloss": "entry into next aphoristic unit",
+        "contextual_sense": "Signals transition from introductory justification to lakshana-formula.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "next-sutra entry",
+          "formal transition node"
+        ]
+      },
+      {
+        "headword_iast": "laksana-upakrama",
+        "gloss": "commencement of defining indicator",
+        "contextual_sense": "Begins specification sequence anchored in janmadi-sutra.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "definition opening",
+          "indicator initiation"
+        ]
+      }
+    ],
+    "argument_tags": [
+      "definition"
+    ],
+    "tags": [
+      "layout:chapter-section-record",
+      "policy:append-and-supersede-never-delete",
+      "strata:bhasya"
+    ]
+  },
+  "provenance": {
+    "extraction_timestamp_utc": "2026-06-02T16:24:50Z",
+    "extractor_version": "extract_bs_records.py@0.1",
+    "translator_version": "human+llm@bs-c01-s01-curation-pass-2",
+    "reviewer_version": "pending",
+    "source_manifest_path": "reality/src/logos/sankara/raw/manifest.jsonl"
+  },
+  "qa": {
+    "status": "draft",
+    "confidence": 0.95,
+    "uncertainty_notes": [
+      "Curated in contiguous S01 pass with stable inferential-tag schema.",
+      "A later philological pass should revisit janmadi-lakshana and sastra-yonitva technical compression in records 1.1.008-1.1.015."
+    ]
+  },
+  "record_kind": "bhasya"
+}

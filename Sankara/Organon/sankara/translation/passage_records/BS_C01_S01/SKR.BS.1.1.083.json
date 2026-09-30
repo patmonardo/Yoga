@@ -1,0 +1,90 @@
+{
+  "record_id": "SKR.BS.1.1.083",
+  "work_code": "BS",
+  "section_code": "1.1",
+  "source": {
+    "source_url": "https://advaitasharada.sringeri.net/display/bhashya/BS/devanagari?id=BS_C01&page=1",
+    "source_sha256": "3e25449a44a0e912318db91030eb2e604e0c4eb2f8b5ceaa4ff4f92ae5e5bb80",
+    "language": "sa",
+    "script": "Devanagari",
+    "edition_note": "Draft block record from BS_C01_S01.json::BS_C01_S01_V23_VERSETEXT_01 (versetext)."
+  },
+  "text": {
+    "source_text": "अत एव प्राणः ॥ २३ ॥",
+    "transliteration_iast": "ata eva prāṇaḥ || 23 ||",
+    "segmentation_note": "Block-level extraction from BS_C01_S01_V23/BS_C01_S01_V23_VERSETEXT_01."
+  },
+  "translation": {
+    "literal_translation": "For that very reason, prana. (23)",
+    "technical_translation": "Sutra 1.1.23: prana in this passage denotes Brahman by the same contextual indicator principle.",
+    "interpretive_note": "Sutra closure of prastava-prana determination."
+  },
+  "analysis": {
+    "lexical_notes": [
+      {
+        "headword_iast": "prāṇa-śabda",
+        "gloss": "the word prana",
+        "contextual_sense": "Here the term is tested against Brahmanic context, not accepted at face-value as vital air.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "prana-term",
+          "breath-word"
+        ]
+      },
+      {
+        "headword_iast": "talliṅga",
+        "gloss": "that contextual marker",
+        "contextual_sense": "The prior marker principle continues to govern interpretation in this shorter aphorism.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "same-sign principle",
+          "contextual indicator"
+        ]
+      },
+      {
+        "headword_iast": "brahma-prāṇa-bheda-nivāraṇa",
+        "gloss": "removal of any split between Brahman and prana",
+        "contextual_sense": "The upshot is not a second principle but Brahman named through the prana-term.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "Brahman-prana identity",
+          "dual-reading exclusion"
+        ]
+      },
+      {
+        "headword_iast": "sūtra-saṅkṣepa",
+        "gloss": "aphoristic compression",
+        "contextual_sense": "The whole argument is collapsed into a single contextual tag.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "sutra condensation",
+          "brief doctrinal seal"
+        ]
+      }
+    ],
+    "argument_tags": [
+      "resolution"
+    ],
+    "tags": [
+      "layout:chapter-section-record",
+      "policy:append-and-supersede-never-delete",
+      "strata:sutra"
+    ]
+  },
+  "provenance": {
+    "extraction_timestamp_utc": "2026-06-02T16:24:50Z",
+    "extractor_version": "extract_bs_records.py@0.1",
+    "translator_version": "human+llm@bs-c01-s01-curation-pass-11",
+    "reviewer_version": "pending",
+    "source_manifest_path": "reality/src/logos/sankara/raw/manifest.jsonl"
+  },
+  "qa": {
+    "status": "draft",
+    "confidence": 0.97,
+    "uncertainty_notes": [
+      "Curated in contiguous S01 pass with stable inferential-tag schema.",
+      "A later philological pass should revisit truncated source lines and detailed jyotis/gayatri technical phrasing in records 1.1.084-1.1.087."
+    ]
+  },
+  "record_kind": "sutra"
+}

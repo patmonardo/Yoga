@@ -1,0 +1,90 @@
+{
+  "record_id": "SKR.BS.1.2.024",
+  "work_code": "BS",
+  "section_code": "1.2",
+  "source": {
+    "source_url": "https://advaitasharada.sringeri.net/display/bhashya/BS/devanagari?id=BS_C01&page=1",
+    "source_sha256": "3e25449a44a0e912318db91030eb2e604e0c4eb2f8b5ceaa4ff4f92ae5e5bb80",
+    "language": "sa",
+    "script": "Devanagari",
+    "edition_note": "Draft block record from BS_C01_S02.json::BS_C01_S02_V10_VERSETEXT_01 (versetext)."
+  },
+  "text": {
+    "source_text": "प्रकरणाच्च ॥ १० ॥",
+    "transliteration_iast": "prakaraṇācca || 10 ||",
+    "segmentation_note": "Block-level extraction from BS_C01_S02_V10/BS_C01_S02_V10_VERSETEXT_01."
+  },
+  "translation": {
+    "literal_translation": "And because of the section-context. (10)",
+    "technical_translation": "Sutra 1.2.10: prakarana directly supports identifying the eater as Brahman.",
+    "interpretive_note": "Sutra condensation of the context argument."
+  },
+  "analysis": {
+    "lexical_notes": [
+      {
+        "headword_iast": "prakaranac ca",
+        "gloss": "and because of context",
+        "contextual_sense": "Sutra-compressed appeal to topical continuity for referent decision.",
+        "grammatical_role": "causal phrase",
+        "alternate_glosses": [
+          "further from topical frame",
+          "context-grounded reason"
+        ]
+      },
+      {
+        "headword_iast": "prakrta-visaya",
+        "gloss": "already-introduced subject matter",
+        "contextual_sense": "Prevents shifting from Brahman to lower candidates without textual necessity.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "established topic",
+          "current semantic subject"
+        ]
+      },
+      {
+        "headword_iast": "visaya-niyama",
+        "gloss": "restriction by topic-domain",
+        "contextual_sense": "Methodic guard against overextension into unrelated meanings.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "topic constraint",
+          "domain restriction"
+        ]
+      },
+      {
+        "headword_iast": "sutra-sankshepa",
+        "gloss": "compressed aphoristic condensation",
+        "contextual_sense": "Single-word sutra carries forward full bhashya logic from surrounding discussion.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "aphoristic compression",
+          "doctrinal shorthand"
+        ]
+      }
+    ],
+    "argument_tags": [
+      "resolution"
+    ],
+    "tags": [
+      "layout:chapter-section-record",
+      "policy:append-and-supersede-never-delete",
+      "strata:sutra"
+    ]
+  },
+  "provenance": {
+    "extraction_timestamp_utc": "2026-06-02T16:24:50Z",
+    "extractor_version": "extract_bs_records.py@0.1",
+    "translator_version": "human+llm@bs-c01-s02-curation-pass-4",
+    "reviewer_version": "pending",
+    "source_manifest_path": "reality/src/logos/sankara/raw/manifest.jsonl"
+  },
+  "qa": {
+    "status": "draft",
+    "confidence": 0.94,
+    "uncertainty_notes": [
+      "Curated in contiguous S02 pass with stable cadence and inferential-tag schema.",
+      "A later philological pass should revisit sattva-kshetrajna and bhoktrtva figurative-usage choices in records 1.2.025-1.2.030."
+    ]
+  },
+  "record_kind": "sutra"
+}

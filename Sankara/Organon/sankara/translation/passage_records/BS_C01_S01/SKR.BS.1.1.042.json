@@ -1,0 +1,90 @@
+{
+  "record_id": "SKR.BS.1.1.042",
+  "work_code": "BS",
+  "section_code": "1.1",
+  "source": {
+    "source_url": "https://advaitasharada.sringeri.net/display/bhashya/BS/devanagari?id=BS_C01&page=1",
+    "source_sha256": "3e25449a44a0e912318db91030eb2e604e0c4eb2f8b5ceaa4ff4f92ae5e5bb80",
+    "language": "sa",
+    "script": "Devanagari",
+    "edition_note": "Draft block record from BS_C01_S01.json::BS_C01_S01_V08_VERSETEXT_01 (versetext)."
+  },
+  "text": {
+    "source_text": "हेयत्वावचनाच्च ॥ ८ ॥",
+    "transliteration_iast": "heyatvāvacanācca || 8 ||",
+    "segmentation_note": "Block-level extraction from BS_C01_S01_V08/BS_C01_S01_V08_VERSETEXT_01."
+  },
+  "translation": {
+    "literal_translation": "And because no statement of rejectability. (8)",
+    "technical_translation": "Sutra 1.1.8: sat cannot be Pradhana, since scripture never marks it as a provisional rejectable referent.",
+    "interpretive_note": "Sutra compression of the heya-vacana argument."
+  },
+  "analysis": {
+    "lexical_notes": [
+      {
+        "headword_iast": "heyatva-avacanāt",
+        "gloss": "because no rejectability is stated",
+        "contextual_sense": "Sutra infers sat is not a provisional pointer since scripture never instructs abandoning it.",
+        "grammatical_role": "ablative reason phrase",
+        "alternate_glosses": [
+          "absence of discard-marking",
+          "non-provisionality indicator"
+        ]
+      },
+      {
+        "headword_iast": "anātma-upadeśa-doṣa",
+        "gloss": "defect of teaching non-self as self",
+        "contextual_sense": "If referent were Pradhana, identity-instruction would become pedagogically perverse.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "false-self instruction fault",
+          "non-self pedagogy contradiction"
+        ]
+      },
+      {
+        "headword_iast": "pratipādyavastu-sthairya",
+        "gloss": "stability of taught referent",
+        "contextual_sense": "The same object is preserved across teaching sequence without later correction.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "referential stability",
+          "teaching-object continuity"
+        ]
+      },
+      {
+        "headword_iast": "sūtra-saṅkṣepa-nyāya",
+        "gloss": "compressed aphoristic reasoning",
+        "contextual_sense": "Brief form condenses the prior Arundhati-style argument against provisional designation.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "sutra condensation logic",
+          "compressed inferential form"
+        ]
+      }
+    ],
+    "argument_tags": [
+      "resolution"
+    ],
+    "tags": [
+      "layout:chapter-section-record",
+      "policy:append-and-supersede-never-delete",
+      "strata:sutra"
+    ]
+  },
+  "provenance": {
+    "extraction_timestamp_utc": "2026-06-02T16:24:50Z",
+    "extractor_version": "extract_bs_records.py@0.1",
+    "translator_version": "human+llm@bs-c01-s01-curation-pass-6",
+    "reviewer_version": "pending",
+    "source_manifest_path": "reality/src/logos/sankara/raw/manifest.jsonl"
+  },
+  "qa": {
+    "status": "draft",
+    "confidence": 0.97,
+    "uncertainty_notes": [
+      "Curated in contiguous S01 pass with stable inferential-tag schema.",
+      "A later philological pass should revisit svapya etymological nuances and gati-samanya phrasing in records 1.1.040-1.1.047."
+    ]
+  },
+  "record_kind": "sutra"
+}

@@ -1,0 +1,60 @@
+{
+  "record_id": "SKR.BS.1.3.014",
+  "work_code": "BS",
+  "section_code": "1.3",
+  "source": {
+    "source_url": "https://advaitasharada.sringeri.net/display/bhashya/BS/devanagari?id=BS_C01&page=1",
+    "source_sha256": "3e25449a44a0e912318db91030eb2e604e0c4eb2f8b5ceaa4ff4f92ae5e5bb80",
+    "language": "sa",
+    "script": "Devanagari",
+    "edition_note": "Draft block record from BS_C01_S03.json::BS_C01_S03_V06_I01 (leading_bhashya)."
+  },
+  "text": {
+    "source_text": "कुतश्च न प्राणभृत् द्युभ्वाद्यायतनत्वेनाश्रयितव्यः ? —",
+    "transliteration_iast": "kutaśca na prāṇabhṛt dyubhvādyāyatanatvenāśrayitavyaḥ ? —",
+    "segmentation_note": "Block-level extraction from BS_C01_S03_V06/BS_C01_S03_V06_I01."
+  },
+  "translation": {
+    "literal_translation": "And from what further reason should the life-bearer not be accepted as the support of heaven and earth?",
+    "technical_translation": "Repeated lead-in before giving the prakarana-based reason in sutra 6.",
+    "interpretive_note": "Bridging line retained from source segmentation."
+  },
+  "analysis": {
+    "lexical_notes": [
+      {
+        "headword_iast": "adhikaraṇa",
+        "gloss": "topical unit of argument",
+        "contextual_sense": "Tracks each block inside the section-level inferential sequence",
+        "grammatical_role": "noun",
+        "alternate_glosses": [
+          "topic-unit",
+          "argument node"
+        ]
+      }
+    ],
+    "argument_tags": [
+      "objection"
+    ],
+    "tags": [
+      "layout:chapter-section-record",
+      "policy:append-and-supersede-never-delete",
+      "strata:bhasya"
+    ]
+  },
+  "provenance": {
+    "extraction_timestamp_utc": "2026-06-02T16:24:50Z",
+    "extractor_version": "extract_bs_records.py@0.1",
+    "translator_version": "human+llm@bs-c01-s03-curation-pass-2",
+    "reviewer_version": "pending",
+    "source_manifest_path": "reality/src/logos/sankara/raw/manifest.jsonl"
+  },
+  "qa": {
+    "status": "draft",
+    "confidence": 0.86,
+    "uncertainty_notes": [
+      "Curated in contiguous S03 pass with S04-style inferential framing.",
+      "A later philological pass may refine precision around kṣetrajña/upādhi and two-birds imagery terms."
+    ]
+  },
+  "record_kind": "bhasya"
+}

@@ -1,0 +1,90 @@
+{
+  "record_id": "SKR.BS.1.2.015",
+  "work_code": "BS",
+  "section_code": "1.2",
+  "source": {
+    "source_url": "https://advaitasharada.sringeri.net/display/bhashya/BS/devanagari?id=BS_C01&page=1",
+    "source_sha256": "3e25449a44a0e912318db91030eb2e604e0c4eb2f8b5ceaa4ff4f92ae5e5bb80",
+    "language": "sa",
+    "script": "Devanagari",
+    "edition_note": "Draft block record from BS_C01_S02.json::BS_C01_S02_V06_VERSETEXT_01 (versetext)."
+  },
+  "text": {
+    "source_text": "स्मृतेश्च ॥ ६ ॥",
+    "transliteration_iast": "smṛteśca || 6 ||",
+    "segmentation_note": "Block-level extraction from BS_C01_S02_V06/BS_C01_S02_V06_VERSETEXT_01."
+  },
+  "translation": {
+    "literal_translation": "And from smriti too. (6)",
+    "technical_translation": "Sutra 1.2.6: smriti corroborates the distinction used to deny sharira-jiva as final referent.",
+    "interpretive_note": "Sutra closure adding smriti as supportive pramana."
+  },
+  "analysis": {
+    "lexical_notes": [
+      {
+        "headword_iast": "smrtes ca",
+        "gloss": "and because of smriti",
+        "contextual_sense": "Sutra-level appeal to remembered tradition as corroborative evidence for the established distinction.",
+        "grammatical_role": "causal phrase",
+        "alternate_glosses": [
+          "further from tradition",
+          "also due to smriti witness"
+        ]
+      },
+      {
+        "headword_iast": "sahakari-pramana",
+        "gloss": "auxiliary means of proof",
+        "contextual_sense": "Smrti functions as secondary support, reinforcing sruti-grounded inference.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "supporting evidence",
+          "subsidiary proof"
+        ]
+      },
+      {
+        "headword_iast": "nirnita-bheda",
+        "gloss": "already-determined distinction",
+        "contextual_sense": "The sutra re-seals non-identity already argued, preventing regression into jiva-upasya reading.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "settled difference",
+          "resolved non-identity"
+        ]
+      },
+      {
+        "headword_iast": "sutra-anuvada",
+        "gloss": "reiterative sutra confirmation",
+        "contextual_sense": "Compressed restatement of prior reasoning with an added corroborative source marker.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "confirmatory recap",
+          "compressed reaffirmation"
+        ]
+      }
+    ],
+    "argument_tags": [
+      "resolution"
+    ],
+    "tags": [
+      "layout:chapter-section-record",
+      "policy:append-and-supersede-never-delete",
+      "strata:sutra"
+    ]
+  },
+  "provenance": {
+    "extraction_timestamp_utc": "2026-06-02T16:24:50Z",
+    "extractor_version": "extract_bs_records.py@0.1",
+    "translator_version": "human+llm@bs-c01-s02-curation-pass-3",
+    "reviewer_version": "pending",
+    "source_manifest_path": "reality/src/logos/sankara/raw/manifest.jsonl"
+  },
+  "qa": {
+    "status": "draft",
+    "confidence": 0.94,
+    "uncertainty_notes": [
+      "Curated in contiguous S02 pass with stable cadence and inferential-tag schema.",
+      "A later philological pass should revisit upadhi/vyavahara terminology and atta-grahana technical choices in records 1.2.016-1.2.022."
+    ]
+  },
+  "record_kind": "sutra"
+}

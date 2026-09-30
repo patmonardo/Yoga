@@ -1,0 +1,103 @@
+{
+  "record_id": "SKR.BS.1.1.058",
+  "work_code": "BS",
+  "section_code": "1.1",
+  "source": {
+    "source_url": "https://advaitasharada.sringeri.net/display/bhashya/BS/devanagari?id=BS_C01&page=1",
+    "source_sha256": "3e25449a44a0e912318db91030eb2e604e0c4eb2f8b5ceaa4ff4f92ae5e5bb80",
+    "language": "sa",
+    "script": "Devanagari",
+    "edition_note": "Draft block record from BS_C01_S01.json::BS_C01_S01_V14_B1 (bhashya)."
+  },
+  "text": {
+    "source_text": "इतश्च प्राचुर्यार्थे मयट् ; यस्मादानन्दहेतुत्वं ब्रह्मणो व्यपदिशति श्रुतिः — ‘ एष ह्येवानन्दयाति ’ इति — आनन्दयतीत्यर्थः । यो ह्यन्यानानन्दयति स प्रचुरानन्द इति प्रसिद्धं भवति ; यथा लोके योऽन्येषां धनिकत्वमापादयति स प्रचुरधन इति गम्यते , तद्वत् । तस्मात्प्राचुर्यार्थेऽपि मयटः सम्भवादानन्दमयः पर एवात्मा ॥ १४ ॥",
+    "transliteration_iast": "itaśca prācuryārthe mayaṭ ; yasmādānandahetutvaṃ brahmaṇo vyapadiśati śrutiḥ — ‘ eṣa hyevānandayāti ’ iti — ānandayatītyarthaḥ | yo hyanyānānandayati sa pracurānanda iti prasiddhaṃ bhavati ; yathā loke yo'nyeṣāṃ dhanikatvamāpādayati sa pracuradhana iti gamyate , tadvat | tasmātprācuryārthe'pi mayaṭaḥ sambhavādānandamayaḥ para evātmā || 14 ||",
+    "segmentation_note": "Block-level extraction from BS_C01_S01_V14/BS_C01_S01_V14_B1."
+  },
+  "translation": {
+    "literal_translation": "And for this reason too mayat is in the abundance sense: scripture declares Brahman to be the cause of bliss - 'He indeed makes bliss.' One who gives bliss to others is known to be abundant in bliss, just as in worldly life one who makes others wealthy is understood to be richly endowed with wealth. Therefore, since mayat can signify abundance, anandamaya is the Supreme Self alone. (14)",
+    "technical_translation": "Bhashya on 1.1.14 adds hetu-vyapadesha: Brahman as source/dispenser of bliss implies intrinsic bliss-plenitude, supporting pracurya reading.",
+    "interpretive_note": "Causal language about giving bliss confirms abundance semantics."
+  },
+  "analysis": {
+    "lexical_notes": [
+      {
+        "headword_iast": "ānanda-hetu-vyapadeśa",
+        "gloss": "designation as cause of bliss",
+        "contextual_sense": "Scripture describes Brahman as that which makes others blissful, implying intrinsic fullness.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "bliss-cause predication",
+          "source-of-joy attribution"
+        ]
+      },
+      {
+        "headword_iast": "ānandayati-iti-vyākhyā",
+        "gloss": "interpretation of “it causes bliss”",
+        "contextual_sense": "Verbal analysis supports a possessor-overflow model, not borrowed or incidental joy.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "causative-bliss exegesis",
+          "joy-bestowal gloss"
+        ]
+      },
+      {
+        "headword_iast": "dhanika-dṛṣṭānta",
+        "gloss": "wealth-analogy for abundance inference",
+        "contextual_sense": "One who enriches others is inferred rich; likewise source of bliss is bliss-plentiful.",
+        "grammatical_role": "illustrative compound",
+        "alternate_glosses": [
+          "prosperity analogy",
+          "abundance inference example"
+        ]
+      },
+      {
+        "headword_iast": "prācurya-siddhi",
+        "gloss": "establishment of plenitude sense",
+        "contextual_sense": "Causal-dispenser language confirms mayat as abundance-marker here.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "abundance proof",
+          "plenitude confirmation"
+        ]
+      },
+      {
+        "headword_iast": "vikāra-pakṣa-nivṛtti",
+        "gloss": "withdrawal of modification thesis",
+        "contextual_sense": "Derivative-entity reading loses force once causal bliss language is admitted.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "product-reading retreat",
+          "vikara-thesis collapse"
+        ]
+      }
+    ],
+    "argument_tags": [
+      "response",
+      "resolution",
+      "definition",
+      "example"
+    ],
+    "tags": [
+      "layout:chapter-section-record",
+      "policy:append-and-supersede-never-delete",
+      "strata:bhasya"
+    ]
+  },
+  "provenance": {
+    "extraction_timestamp_utc": "2026-06-02T16:24:50Z",
+    "extractor_version": "extract_bs_records.py@0.1",
+    "translator_version": "human+llm@bs-c01-s01-curation-pass-8",
+    "reviewer_version": "pending",
+    "source_manifest_path": "reality/src/logos/sankara/raw/manifest.jsonl"
+  },
+  "qa": {
+    "status": "draft",
+    "confidence": 0.93,
+    "uncertainty_notes": [
+      "Curated in contiguous S01 pass with stable inferential-tag schema.",
+      "A later philological pass should revisit mayat suffix semantics and anandamaya mantra-brahmana continuity framing in records 1.1.056-1.1.063."
+    ]
+  },
+  "record_kind": "bhasya"
+}

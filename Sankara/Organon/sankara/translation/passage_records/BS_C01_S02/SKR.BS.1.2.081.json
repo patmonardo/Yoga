@@ -1,0 +1,90 @@
+{
+  "record_id": "SKR.BS.1.2.081",
+  "work_code": "BS",
+  "section_code": "1.2",
+  "source": {
+    "source_url": "https://advaitasharada.sringeri.net/display/bhashya/BS/devanagari?id=BS_C01&page=1",
+    "source_sha256": "3e25449a44a0e912318db91030eb2e604e0c4eb2f8b5ceaa4ff4f92ae5e5bb80",
+    "language": "sa",
+    "script": "Devanagari",
+    "edition_note": "Draft block record from BS_C01_S02.json::BS_C01_S02_V32_VERSETEXT_01 (versetext)."
+  },
+  "text": {
+    "source_text": "आमनन्ति चैनमस्मिन् ॥ ३२ ॥",
+    "transliteration_iast": "āmananti cainamasmin || 32 ||",
+    "segmentation_note": "Block-level extraction from BS_C01_S02_V32/BS_C01_S02_V32_VERSETEXT_01."
+  },
+  "translation": {
+    "literal_translation": "And they also teach Him in this (place). (32)",
+    "technical_translation": "Sutra 1.2.32: additional tradition (amnanti) teaches Him here, supporting Brahman-reference of Vaisvanara.",
+    "interpretive_note": "Sutra seal invoking supplementary scriptural testimony."
+  },
+  "analysis": {
+    "lexical_notes": [
+      {
+        "headword_iast": "amananti",
+        "gloss": "they teach/transmit in tradition",
+        "contextual_sense": "Sutra invokes supplementary transmitted authority to reinforce Vaisvanara as Brahman.",
+        "grammatical_role": "finite verbal form",
+        "alternate_glosses": [
+          "they declare",
+          "they hand down"
+        ]
+      },
+      {
+        "headword_iast": "ca enam",
+        "gloss": "and Him (indeed this very referent)",
+        "contextual_sense": "Anaphoric pointer preserves continuity with the already-determined Vaisvanara-Ishvara referent.",
+        "grammatical_role": "enclitic demonstrative phrase",
+        "alternate_glosses": [
+          "and this one",
+          "and that very one"
+        ]
+      },
+      {
+        "headword_iast": "asmin",
+        "gloss": "in this locus/context",
+        "contextual_sense": "Locative marker indicating corroborative teaching appears in this very doctrinal frame.",
+        "grammatical_role": "locative pronoun",
+        "alternate_glosses": [
+          "herein",
+          "in this setting"
+        ]
+      },
+      {
+        "headword_iast": "amnaya-samarthana",
+        "gloss": "support from transmitted scriptural tradition",
+        "contextual_sense": "Concluding corroboration strategy: auxiliary testimony seals the established Brahman reading.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "traditional witness support",
+          "lineage-text corroboration"
+        ]
+      }
+    ],
+    "argument_tags": [
+      "resolution"
+    ],
+    "tags": [
+      "layout:chapter-section-record",
+      "policy:append-and-supersede-never-delete",
+      "strata:sutra"
+    ]
+  },
+  "provenance": {
+    "extraction_timestamp_utc": "2026-06-02T16:24:50Z",
+    "extractor_version": "extract_bs_records.py@0.1",
+    "translator_version": "human+llm@bs-c01-s02-curation-pass-11",
+    "reviewer_version": "pending",
+    "source_manifest_path": "reality/src/logos/sankara/raw/manifest.jsonl"
+  },
+  "qa": {
+    "status": "draft",
+    "confidence": 0.95,
+    "uncertainty_notes": [
+      "Curated in contiguous S02 pass with stable cadence and inferential-tag schema.",
+      "A later philological pass should revisit Jabala Avimukta phrasing and abhimana etymological glosses in records 1.2.079-1.2.081."
+    ]
+  },
+  "record_kind": "sutra"
+}

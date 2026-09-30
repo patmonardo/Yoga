@@ -1,0 +1,90 @@
+{
+  "record_id": "SKR.BS.1.1.055",
+  "work_code": "BS",
+  "section_code": "1.1",
+  "source": {
+    "source_url": "https://advaitasharada.sringeri.net/display/bhashya/BS/devanagari?id=BS_C01&page=1",
+    "source_sha256": "3e25449a44a0e912318db91030eb2e604e0c4eb2f8b5ceaa4ff4f92ae5e5bb80",
+    "language": "sa",
+    "script": "Devanagari",
+    "edition_note": "Draft block record from BS_C01_S01.json::BS_C01_S01_V12_VERSETEXT_01 (versetext)."
+  },
+  "text": {
+    "source_text": "आनन्दमयोऽभ्यासात् ॥ १२ ॥",
+    "transliteration_iast": "ānandamayo'bhyāsāt || 12 ||",
+    "segmentation_note": "Block-level extraction from BS_C01_S01_V12/BS_C01_S01_V12_VERSETEXT_01."
+  },
+  "translation": {
+    "literal_translation": "Anandamaya, because of repetition. (12)",
+    "technical_translation": "Sutra 1.1.12: anandamaya denotes Brahman, established by repeated ananda-language applied to the Supreme.",
+    "interpretive_note": "Sutra key for resolving the kosha-vs-Brahman ambiguity."
+  },
+  "analysis": {
+    "lexical_notes": [
+      {
+        "headword_iast": "ānandamayo abhyāsāt",
+        "gloss": "anandamaya, due to repetition",
+        "contextual_sense": "Sutra crystallizes recurrent bliss-language as decisive for referent fixation.",
+        "grammatical_role": "sutra phrase",
+        "alternate_glosses": [
+          "anandamaya by reiteration",
+          "repetition-based determination"
+        ]
+      },
+      {
+        "headword_iast": "abhyāsa-liṅga",
+        "gloss": "indicator from repeated usage",
+        "contextual_sense": "Hermeneutic sign that recurrence tracks primary topic rather than incidental descriptor.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "repetition marker",
+          "iterative sign"
+        ]
+      },
+      {
+        "headword_iast": "brahma-paratva-niścaya",
+        "gloss": "ascertainment of Brahman-orientation",
+        "contextual_sense": "Short aphorism settles kosha-versus-Brahman dispute in favor of the latter.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "Brahman referent fixation",
+          "supreme-orientation certainty"
+        ]
+      },
+      {
+        "headword_iast": "kośa-pakṣa-vyāvṛtti",
+        "gloss": "exclusion of sheath-only view",
+        "contextual_sense": "Finite layer interpretation is set aside at the sutra level.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "sheath reading exclusion",
+          "layer-model rejection"
+        ]
+      }
+    ],
+    "argument_tags": [
+      "resolution"
+    ],
+    "tags": [
+      "layout:chapter-section-record",
+      "policy:append-and-supersede-never-delete",
+      "strata:sutra"
+    ]
+  },
+  "provenance": {
+    "extraction_timestamp_utc": "2026-06-02T16:24:50Z",
+    "extractor_version": "extract_bs_records.py@0.1",
+    "translator_version": "human+llm@bs-c01-s01-curation-pass-7",
+    "reviewer_version": "pending",
+    "source_manifest_path": "reality/src/logos/sankara/raw/manifest.jsonl"
+  },
+  "qa": {
+    "status": "draft",
+    "confidence": 0.97,
+    "uncertainty_notes": [
+      "Curated in contiguous S01 pass with stable inferential-tag schema.",
+      "A later philological pass should revisit anandamaya technical layering and the long transition bridge in records 1.1.048-1.1.055."
+    ]
+  },
+  "record_kind": "sutra"
+}

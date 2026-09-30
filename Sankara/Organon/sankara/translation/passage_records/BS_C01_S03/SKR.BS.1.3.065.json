@@ -1,0 +1,62 @@
+{
+  "record_id": "SKR.BS.1.3.065",
+  "work_code": "BS",
+  "section_code": "1.3",
+  "source": {
+    "source_url": "https://advaitasharada.sringeri.net/display/bhashya/BS/devanagari?id=BS_C01&page=1",
+    "source_sha256": "3e25449a44a0e912318db91030eb2e604e0c4eb2f8b5ceaa4ff4f92ae5e5bb80",
+    "language": "sa",
+    "script": "Devanagari",
+    "edition_note": "Draft block record from BS_C01_S03.json::BS_C01_S03_V27_VERSETEXT_01 (versetext)."
+  },
+  "text": {
+    "source_text": "विरोधः कर्मणीति चेन्नानेकप्रतिपत्तेर्दर्शनात् ॥ २७ ॥",
+    "transliteration_iast": "virodhaḥ karmaṇīti cennānekapratipatterdarśanāt || 27 ||",
+    "segmentation_note": "Block-level extraction from BS_C01_S03_V27/BS_C01_S03_V27_VERSETEXT_01."
+  },
+  "translation": {
+    "literal_translation": "If one says there is contradiction in ritual action, no: because multiple manifestation is observed. (27)",
+    "technical_translation": "Sutra 1.3.27: karma-level contradiction fails due to aneka-pratipatti (simultaneous multi-form manifestation) evidenced in scripture.",
+    "interpretive_note": "Compact sutra response to the karma-virodha objection."
+  },
+  "analysis": {
+    "lexical_notes": [
+      {
+        "headword_iast": "adhikaraṇa",
+        "gloss": "topical unit of argument",
+        "contextual_sense": "Tracks each block inside the section-level inferential sequence",
+        "grammatical_role": "noun",
+        "alternate_glosses": [
+          "topic-unit",
+          "argument node"
+        ]
+      }
+    ],
+    "argument_tags": [
+      "objection",
+      "response",
+      "resolution"
+    ],
+    "tags": [
+      "layout:chapter-section-record",
+      "policy:append-and-supersede-never-delete",
+      "strata:sutra"
+    ]
+  },
+  "provenance": {
+    "extraction_timestamp_utc": "2026-06-02T16:24:50Z",
+    "extractor_version": "extract_bs_records.py@0.1",
+    "translator_version": "human+llm@bs-c01-s03-curation-pass-9",
+    "reviewer_version": "pending",
+    "source_manifest_path": "reality/src/logos/sankara/raw/manifest.jsonl"
+  },
+  "qa": {
+    "status": "draft",
+    "confidence": 0.92,
+    "uncertainty_notes": [
+      "Curated in contiguous S03 pass with stable cadence and inferential-tag schema.",
+      "A later philological pass should revisit technical choices around sphota/varna vocabulary in records 1.3.068 and 1.3.069."
+    ]
+  },
+  "record_kind": "sutra"
+}

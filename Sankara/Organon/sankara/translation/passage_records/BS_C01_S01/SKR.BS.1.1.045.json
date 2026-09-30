@@ -1,0 +1,90 @@
+{
+  "record_id": "SKR.BS.1.1.045",
+  "work_code": "BS",
+  "section_code": "1.1",
+  "source": {
+    "source_url": "https://advaitasharada.sringeri.net/display/bhashya/BS/devanagari?id=BS_C01&page=1",
+    "source_sha256": "3e25449a44a0e912318db91030eb2e604e0c4eb2f8b5ceaa4ff4f92ae5e5bb80",
+    "language": "sa",
+    "script": "Devanagari",
+    "edition_note": "Draft block record from BS_C01_S01.json::BS_C01_S01_V09_VERSETEXT_01 (versetext)."
+  },
+  "text": {
+    "source_text": "स्वाप्ययात् ॥ ९ ॥",
+    "transliteration_iast": "svāpyayāt || 9 ||",
+    "segmentation_note": "Block-level extraction from BS_C01_S01_V09/BS_C01_S01_V09_VERSETEXT_01."
+  },
+  "translation": {
+    "literal_translation": "Because of merger in sleep. (9)",
+    "technical_translation": "Sutra 1.1.9: sat is not Pradhana, since sleep-dissolution teaching implies a conscious ground.",
+    "interpretive_note": "Sutra shorthand for svapya-linga argument."
+  },
+  "analysis": {
+    "lexical_notes": [
+      {
+        "headword_iast": "svāpyayāt",
+        "gloss": "because of dissolution in sleep",
+        "contextual_sense": "Sutra states that deep-sleep merger points to conscious sat as causal basis.",
+        "grammatical_role": "ablative reason term",
+        "alternate_glosses": [
+          "from sleep-resolution evidence",
+          "due to suṣupti reabsorption"
+        ]
+      },
+      {
+        "headword_iast": "suṣupti-pramāṇa",
+        "gloss": "deep sleep as means of knowing",
+        "contextual_sense": "Experiential scripture of sleep functions as metaphysical evidence, not psychology alone.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "sleep-state proof",
+          "susupti warrant"
+        ]
+      },
+      {
+        "headword_iast": "sat-kāraṇa-niścaya",
+        "gloss": "fixing sat as the cause",
+        "contextual_sense": "The dissolution pattern stabilizes sat-reference against material reinterpretation.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "causal sat determination",
+          "being-cause ascertainment"
+        ]
+      },
+      {
+        "headword_iast": "pradhāna-vyudāsa",
+        "gloss": "setting aside Pradhana",
+        "contextual_sense": "Inert candidate cannot serve as meaningful terminus of conscious return.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "Pradhana sidelining",
+          "matter-cause exclusion"
+        ]
+      }
+    ],
+    "argument_tags": [
+      "resolution"
+    ],
+    "tags": [
+      "layout:chapter-section-record",
+      "policy:append-and-supersede-never-delete",
+      "strata:sutra"
+    ]
+  },
+  "provenance": {
+    "extraction_timestamp_utc": "2026-06-02T16:24:50Z",
+    "extractor_version": "extract_bs_records.py@0.1",
+    "translator_version": "human+llm@bs-c01-s01-curation-pass-6",
+    "reviewer_version": "pending",
+    "source_manifest_path": "reality/src/logos/sankara/raw/manifest.jsonl"
+  },
+  "qa": {
+    "status": "draft",
+    "confidence": 0.97,
+    "uncertainty_notes": [
+      "Curated in contiguous S01 pass with stable inferential-tag schema.",
+      "A later philological pass should revisit svapya etymological nuances and gati-samanya phrasing in records 1.1.040-1.1.047."
+    ]
+  },
+  "record_kind": "sutra"
+}

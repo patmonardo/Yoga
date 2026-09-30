@@ -1,0 +1,90 @@
+{
+  "record_id": "SKR.BS.1.2.035",
+  "work_code": "BS",
+  "section_code": "1.2",
+  "source": {
+    "source_url": "https://advaitasharada.sringeri.net/display/bhashya/BS/devanagari?id=BS_C01&page=1",
+    "source_sha256": "3e25449a44a0e912318db91030eb2e604e0c4eb2f8b5ceaa4ff4f92ae5e5bb80",
+    "language": "sa",
+    "script": "Devanagari",
+    "edition_note": "Draft block record from BS_C01_S02.json::BS_C01_S02_V13_VERSETEXT_01 (versetext)."
+  },
+  "text": {
+    "source_text": "अन्तर उपपत्तेः ॥ १३ ॥",
+    "transliteration_iast": "antara upapatteḥ || 13 ||",
+    "segmentation_note": "Block-level extraction from BS_C01_S02_V13/BS_C01_S02_V13_VERSETEXT_01."
+  },
+  "translation": {
+    "literal_translation": "The inner one (is Brahman), because of applicability. (13)",
+    "technical_translation": "Sutra 1.2.13: antar-purusha in the eye is Brahman/Ishvara by attribute-fit.",
+    "interpretive_note": "Sutra compression of the upapatti-based conclusion."
+  },
+  "analysis": {
+    "lexical_notes": [
+      {
+        "headword_iast": "antarah",
+        "gloss": "the inner one",
+        "contextual_sense": "Sutra identifies the eye-interior referent as transcendent indweller, not incidental image.",
+        "grammatical_role": "adjectival substantive",
+        "alternate_glosses": [
+          "interior indweller",
+          "inner presence"
+        ]
+      },
+      {
+        "headword_iast": "upapatter iti",
+        "gloss": "because of explanatory fit",
+        "contextual_sense": "Causal marker that grounds the decision in predicate coherence from preceding bhashya.",
+        "grammatical_role": "ablative reason phrase",
+        "alternate_glosses": [
+          "on account of suitability",
+          "from coherent application"
+        ]
+      },
+      {
+        "headword_iast": "aksi-antah-purusa",
+        "gloss": "person within the eye",
+        "contextual_sense": "Now decisively read as Brahman/Ishvara by attribute adequacy.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "intra-ocular person",
+          "eye-indweller"
+        ]
+      },
+      {
+        "headword_iast": "sutra-nirnaya",
+        "gloss": "aphoristic doctrinal determination",
+        "contextual_sense": "Brief line that seals the multi-candidate debate from record 033-034.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "terse verdict",
+          "aphoristic resolution"
+        ]
+      }
+    ],
+    "argument_tags": [
+      "resolution"
+    ],
+    "tags": [
+      "layout:chapter-section-record",
+      "policy:append-and-supersede-never-delete",
+      "strata:sutra"
+    ]
+  },
+  "provenance": {
+    "extraction_timestamp_utc": "2026-06-02T16:24:50Z",
+    "extractor_version": "extract_bs_records.py@0.1",
+    "translator_version": "human+llm@bs-c01-s02-curation-pass-5",
+    "reviewer_version": "pending",
+    "source_manifest_path": "reality/src/logos/sankara/raw/manifest.jsonl"
+  },
+  "qa": {
+    "status": "draft",
+    "confidence": 0.94,
+    "uncertainty_notes": [
+      "Curated in contiguous S02 pass with stable cadence and inferential-tag schema.",
+      "A later philological pass should revisit ka/kha lexical interpretation and eye-person technical terminology in records 1.2.033-1.2.038."
+    ]
+  },
+  "record_kind": "sutra"
+}

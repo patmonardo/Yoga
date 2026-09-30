@@ -1,0 +1,103 @@
+{
+  "record_id": "SKR.BS.1.2.080",
+  "work_code": "BS",
+  "section_code": "1.2",
+  "source": {
+    "source_url": "https://advaitasharada.sringeri.net/display/bhashya/BS/devanagari?id=BS_C01&page=1",
+    "source_sha256": "3e25449a44a0e912318db91030eb2e604e0c4eb2f8b5ceaa4ff4f92ae5e5bb80",
+    "language": "sa",
+    "script": "Devanagari",
+    "edition_note": "Draft block record from BS_C01_S02.json::BS_C01_S02_V32_B1 (bhashya)."
+  },
+  "text": {
+    "source_text": "आमनन्ति चैनं परमेश्वरमस्मिन्मूर्धचुबुकान्तराले जाबालाः — ‘ य एषोऽनन्तोऽव्यक्त आत्मा सोऽविमुक्ते प्रतिष्ठित इति । सोऽविमुक्तः कस्मिन्प्रतिष्ठित इति । वरणायां नास्यां च मध्ये प्रतिष्ठित इति । का वै वरणा का च नासीति ’ । तत्र चेमामेव नासिकाम् ‘ सर्वाणीन्द्रियकृतानि पापानि वारयतीति सा वरणा , सर्वाणीन्द्रियकृतानि पापानि नाशयतीति सा नासी ’ इति वरणानासीति निरुच्य , पुनरप्यामनन्ति — ‘ कतमच्चास्य स्थानं भवतीति । भ्रुवोर्घ्राणस्य च यः सन्धिः स एष द्युलोकस्य परस्य च सन्धिर्भवति ’ (जा. उ. २) इति । तस्मादुपपन्ना परमेश्वरे प्रादेशमात्रश्रुतिः । अभिविमानश्रुतिः प्रत्यगात्मत्वाभिप्राया । प्रत्यगात्मतया सर्वैः प्राणिभिरभिविमीयत इत्यभिविमानः । अभिगतो वायं प्रत्यगात्मत्वात् , विमानश्च मानवियोगात् इत्यभिविमानः । अभिविमिमीते वा सर्वं जगत् , कारणत्वादित्यभिविमानः । तस्मात्परमेश्वरो वैश्वानर इति सिद्धम् ॥ ३२ ॥",
+    "transliteration_iast": "āmananti cainaṃ parameśvaramasminmūrdhacubukāntarāle jābālāḥ — ‘ ya eṣo'nanto'vyakta ātmā so'vimukte pratiṣṭhita iti | so'vimuktaḥ kasminpratiṣṭhita iti | varaṇāyāṃ nāsyāṃ ca madhye pratiṣṭhita iti | kā vai varaṇā kā ca nāsīti ’ | tatra cemāmeva nāsikām ‘ sarvāṇīndriyakṛtāni pāpāni vārayatīti sā varaṇā , sarvāṇīndriyakṛtāni pāpāni nāśayatīti sā nāsī ’ iti varaṇānāsīti nirucya , punarapyāmananti — ‘ katamaccāsya sthānaṃ bhavatīti | bhruvorghrāṇasya ca yaḥ sandhiḥ sa eṣa dyulokasya parasya ca sandhirbhavati ’ (jā. u. 2) iti | tasmādupapannā parameśvare prādeśamātraśrutiḥ | abhivimānaśrutiḥ pratyagātmatvābhiprāyā | pratyagātmatayā sarvaiḥ prāṇibhirabhivimīyata ityabhivimānaḥ | abhigato vāyaṃ pratyagātmatvāt , vimānaśca mānaviyogāt ityabhivimānaḥ | abhivimimīte vā sarvaṃ jagat , kāraṇatvādityabhivimānaḥ | tasmātparameśvaro vaiśvānara iti siddham || 32 ||",
+    "segmentation_note": "Block-level extraction from BS_C01_S02_V32/BS_C01_S02_V32_B1."
+  },
+  "translation": {
+    "literal_translation": "And the Jabala tradition also teaches this one-the Supreme Lord-as established in this interval between head and chin: 'That infinite unmanifest Self is established in Avimukta.' 'Where is that Avimukta established?' 'It is established between Varana and Nasi.' 'What are Varana and Nasi?' There it interprets this very nasal region: 'because it wards off sins done by the senses, it is Varana; because it destroys sins done by the senses, it is Nasi,' thus deriving Varana and Nasi. Again they teach: 'And what is His place? The junction of the eyebrows and the nose-that is the junction of this world and the higher world.' Therefore the span-measure teaching is coherent in relation to the Supreme Lord. The expression abhimana is intended in the sense of inward selfhood: as inward self He is measured/approached by all beings; or He is approached as inward self and 'mana' implies non-separateness from humans; or He measures/pervades the whole world as cause. Therefore it is established that Vaishvanara is the Supreme Lord. (32)",
+    "technical_translation": "Bhashya on 1.2.32 adds Jabala-upanishadic support: craniofacial Avimukta localization and abhimana etymologies are read as contemplative markers of Brahman as inner self, confirming Vaisvanara=Ishvara.",
+    "interpretive_note": "Tradition-based localization and word-derivation reinforce the non-literal, contemplative Brahman reading."
+  },
+  "analysis": {
+    "lexical_notes": [
+      {
+        "headword_iast": "jabala-amnaya",
+        "gloss": "Jabala Upanishadic transmission",
+        "contextual_sense": "Additional scriptural witness for contemplative localization of the same Supreme referent.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "Jabala testimony",
+          "Jabala textual tradition"
+        ]
+      },
+      {
+        "headword_iast": "avimukta-pratistha",
+        "gloss": "establishment in Avimukta locus",
+        "contextual_sense": "Craniofacial localization is read as contemplative marker, not ontic confinement.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "Avimukta localization",
+          "sacred-site establishment"
+        ]
+      },
+      {
+        "headword_iast": "abhimana-nirvacana",
+        "gloss": "etymological interpretation through reflective naming",
+        "contextual_sense": "Name-analysis is used to support contemplative orientation toward inner Brahman.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "etymological contemplative gloss",
+          "name-based doctrinal unpacking"
+        ]
+      },
+      {
+        "headword_iast": "murdha-cubuka-antaram",
+        "gloss": "space between crown and chin",
+        "contextual_sense": "Body-zone invoked as meditative mapping field in upasana discourse.",
+        "grammatical_role": "locative compound phrase",
+        "alternate_glosses": [
+          "craniofacial interval",
+          "head-to-chin contemplative field"
+        ]
+      },
+      {
+        "headword_iast": "vaisvanara-isvara-sthairya",
+        "gloss": "stabilization of Vaisvanara as Ishvara",
+        "contextual_sense": "Jabala support consolidates the already reached doctrinal conclusion.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "Vaisvanara-Ishvara consolidation",
+          "conclusion reinforcement"
+        ]
+      }
+    ],
+    "argument_tags": [
+      "response",
+      "resolution",
+      "definition",
+      "example"
+    ],
+    "tags": [
+      "layout:chapter-section-record",
+      "policy:append-and-supersede-never-delete",
+      "strata:bhasya"
+    ]
+  },
+  "provenance": {
+    "extraction_timestamp_utc": "2026-06-02T16:24:50Z",
+    "extractor_version": "extract_bs_records.py@0.1",
+    "translator_version": "human+llm@bs-c01-s02-curation-pass-11",
+    "reviewer_version": "pending",
+    "source_manifest_path": "reality/src/logos/sankara/raw/manifest.jsonl"
+  },
+  "qa": {
+    "status": "draft",
+    "confidence": 0.86,
+    "uncertainty_notes": [
+      "Curated in contiguous S02 pass with stable cadence and inferential-tag schema.",
+      "A later philological pass should revisit Jabala Avimukta phrasing and abhimana etymological glosses in records 1.2.079-1.2.081."
+    ]
+  },
+  "record_kind": "bhasya"
+}

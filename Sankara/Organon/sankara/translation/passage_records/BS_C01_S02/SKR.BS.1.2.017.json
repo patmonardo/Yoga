@@ -1,0 +1,90 @@
+{
+  "record_id": "SKR.BS.1.2.017",
+  "work_code": "BS",
+  "section_code": "1.2",
+  "source": {
+    "source_url": "https://advaitasharada.sringeri.net/display/bhashya/BS/devanagari?id=BS_C01&page=1",
+    "source_sha256": "3e25449a44a0e912318db91030eb2e604e0c4eb2f8b5ceaa4ff4f92ae5e5bb80",
+    "language": "sa",
+    "script": "Devanagari",
+    "edition_note": "Draft block record from BS_C01_S02.json::BS_C01_S02_V07_VERSETEXT_01 (versetext)."
+  },
+  "text": {
+    "source_text": "अर्भकौकस्त्वात्तद्व्यपदेशाच्च नेति चेन्न निचाय्यत्वादेवं व्योमवच्च ॥ ७ ॥",
+    "transliteration_iast": "arbhakaukastvāttadvyapadeśācca neti cenna nicāyyatvādevaṃ vyomavacca || 7 ||",
+    "segmentation_note": "Block-level extraction from BS_C01_S02_V07/BS_C01_S02_V07_VERSETEXT_01."
+  },
+  "translation": {
+    "literal_translation": "If one says 'not so, because of small abode and such designation,' no; because this is due to focused contemplation - like space. (7)",
+    "technical_translation": "Sutra 1.2.7: arbhakaukas/minuteness language does not force jiva-reference; it is upasana-conditioned, analogous to localized speech about all-pervasive space.",
+    "interpretive_note": "Sutra answer to the locality-size objection."
+  },
+  "analysis": {
+    "lexical_notes": [
+      {
+        "headword_iast": "arbhakaukas",
+        "gloss": "small abode expression",
+        "contextual_sense": "Sutra handles minuteness-language as contemplative specification, not proof of jiva-reference.",
+        "grammatical_role": "compound expression",
+        "alternate_glosses": [
+          "minute-seat formulation",
+          "small-locus phrase"
+        ]
+      },
+      {
+        "headword_iast": "upamana (akasa-drsanta)",
+        "gloss": "analogy via space-example",
+        "contextual_sense": "Local speech about all-pervasive space supports analogous reading for Brahman localization-language.",
+        "grammatical_role": "inferential device",
+        "alternate_glosses": [
+          "illustrative analogy",
+          "space-example reasoning"
+        ]
+      },
+      {
+        "headword_iast": "upasana-nimitta",
+        "gloss": "meditation-conditioned basis",
+        "contextual_sense": "Ground for reading restrictive descriptors as practice-tools within a larger non-restrictive ontology.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "contemplative condition",
+          "practice-driven qualifier"
+        ]
+      },
+      {
+        "headword_iast": "sarvagatatva",
+        "gloss": "all-pervasiveness",
+        "contextual_sense": "Underlying property preserved despite pedagogical localization language.",
+        "grammatical_role": "abstract noun",
+        "alternate_glosses": [
+          "omnipresence",
+          "unrestricted pervasion"
+        ]
+      }
+    ],
+    "argument_tags": [
+      "resolution"
+    ],
+    "tags": [
+      "layout:chapter-section-record",
+      "policy:append-and-supersede-never-delete",
+      "strata:sutra"
+    ]
+  },
+  "provenance": {
+    "extraction_timestamp_utc": "2026-06-02T16:24:50Z",
+    "extractor_version": "extract_bs_records.py@0.1",
+    "translator_version": "human+llm@bs-c01-s02-curation-pass-3",
+    "reviewer_version": "pending",
+    "source_manifest_path": "reality/src/logos/sankara/raw/manifest.jsonl"
+  },
+  "qa": {
+    "status": "draft",
+    "confidence": 0.94,
+    "uncertainty_notes": [
+      "Curated in contiguous S02 pass with stable cadence and inferential-tag schema.",
+      "A later philological pass should revisit upadhi/vyavahara terminology and atta-grahana technical choices in records 1.2.016-1.2.022."
+    ]
+  },
+  "record_kind": "sutra"
+}

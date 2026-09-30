@@ -1,0 +1,103 @@
+{
+  "record_id": "SKR.BS.1.1.046",
+  "work_code": "BS",
+  "section_code": "1.1",
+  "source": {
+    "source_url": "https://advaitasharada.sringeri.net/display/bhashya/BS/devanagari?id=BS_C01&page=1",
+    "source_sha256": "3e25449a44a0e912318db91030eb2e604e0c4eb2f8b5ceaa4ff4f92ae5e5bb80",
+    "language": "sa",
+    "script": "Devanagari",
+    "edition_note": "Draft block record from BS_C01_S01.json::BS_C01_S01_V10_B1 (bhashya)."
+  },
+  "text": {
+    "source_text": "यदि तार्किक समय इव वेदान्तेष्वपि भिन्ना कारणावगतिरभविष्यत् , क्वचिच्चेतनं ब्रह्म जगतः कारणम् , क्वचिदचेतनं प्रधानम् , क्वचिदन्यदेवेति । ततः कदाचित्प्रधानकारणवादानुरोधेनापीक्षत्यादिश्रवणमकल्पयिष्यत । न त्वेत द स्ति । समानैव हि सर्वेषु वेदान्तेषु चेतनकारणावगतिः । ‘ यथाग्नेर्ज्वलतः सर्वा दिशो विस्फुलिङ्गा विप्रतिष्ठेरन्नेवमेवैतस्मादात्मनः सर्वे प्राणा यथायतनं विप्रतिष्ठन्ते प्राणेभ्यो देवा देवेभ्यो लोकाः ’ (कौ. उ. ३ । ३) इति , ‘ तस्माद्वा एतस्मादात्मन आकाशः सम्भूतः ’ (तै. उ. २ । १ । १) इति , ‘ आत्मत एवेदं सर्वम् ’ (छा. उ. ७ । २६ । १) इति , ‘ आत्मन एष प्राणो जायते ’ (प्र. उ. ३ । ३) इति च आत्मनः कारणत्वं दर्शयन्ति सर्वे वेदान्ताः । आत्मशब्दश्च चेतनवचन इत्यवोचाम । महच्च प्रामाण्यकारणमेतत् , यद्वेदान्तवाक्यानां चेतनकारणत्वे समानगतित्वम् , चक्षु रा दीनामिव रूपादिषु । अतो गतिसामान्यात्सर्वज्ञं ब्रह्म जगतः कारणम् ॥ १० ॥",
+    "transliteration_iast": "yadi tārkika samaya iva vedānteṣvapi bhinnā kāraṇāvagatirabhaviṣyat , kvaciccetanaṃ brahma jagataḥ kāraṇam , kvacidacetanaṃ pradhānam , kvacidanyadeveti | tataḥ kadācitpradhānakāraṇavādānurodhenāpīkṣatyādiśravaṇamakalpayiṣyata | na tveta da sti | samānaiva hi sarveṣu vedānteṣu cetanakāraṇāvagatiḥ | ‘ yathāgnerjvalataḥ sarvā diśo visphuliṅgā vipratiṣṭherannevamevaitasmādātmanaḥ sarve prāṇā yathāyatanaṃ vipratiṣṭhante prāṇebhyo devā devebhyo lokāḥ ’ (kau. u. 3 | 3) iti , ‘ tasmādvā etasmādātmana ākāśaḥ sambhūtaḥ ’ (tai. u. 2 | 1 | 1) iti , ‘ ātmata evedaṃ sarvam ’ (chā. u. 7 | 26 | 1) iti , ‘ ātmana eṣa prāṇo jāyate ’ (pra. u. 3 | 3) iti ca ātmanaḥ kāraṇatvaṃ darśayanti sarve vedāntāḥ | ātmaśabdaśca cetanavacana ityavocāma | mahacca prāmāṇyakāraṇametat , yadvedāntavākyānāṃ cetanakāraṇatve samānagatitvam , cakṣu rā dīnāmiva rūpādiṣu | ato gatisāmānyātsarvajñaṃ brahma jagataḥ kāraṇam || 10 ||",
+    "segmentation_note": "Block-level extraction from BS_C01_S01_V10/BS_C01_S01_V10_B1."
+  },
+  "translation": {
+    "literal_translation": "If, as in tarka systems, Vedanta too gave divergent causal knowledge - here conscious Brahman, elsewhere non-conscious Pradhana, elsewhere something else - then perhaps hearing of seeing/intending could be reinterpreted in line with Pradhana-cause doctrine. But this is not so. Across all Vedantas there is one and the same understanding of a conscious cause: from this self all pranas and worlds emerge; from this self space is born; from self alone this all is; from self this prana is born. We have already stated that atman-word denotes consciousness. And this uniform movement of Vedanta sentences toward conscious causality is a major ground of validity, like the eyes uniformly operating regarding forms. Therefore, by common drift (gati-samanya), the omniscient Brahman is cause of the world. (10)",
+    "technical_translation": "Bhashya on 1.1.10 invokes gati-samanya: cross-Upanishadic convergence on conscious atman-causality secures Brahman as jagat-karana against plural causal reinterpretations.",
+    "interpretive_note": "Corpus-wide semantic convergence is treated as an evidentiary principle."
+  },
+  "analysis": {
+    "lexical_notes": [
+      {
+        "headword_iast": "gati-sāmānya",
+        "gloss": "uniform scriptural trajectory",
+        "contextual_sense": "Across Upanishads, discourse-direction converges on conscious atman-brahman causality.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "shared movement of texts",
+          "cross-corpus directional unity"
+        ]
+      },
+      {
+        "headword_iast": "vedānta-ekārthya",
+        "gloss": "single purport of Vedanta corpus",
+        "contextual_sense": "Plural incompatible causes are denied by hermeneutic demand for coherent intention.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "corpus-level univocity",
+          "one-intent scriptural reading"
+        ]
+      },
+      {
+        "headword_iast": "vikalpa-kāraṇa-nirāsa",
+        "gloss": "rejection of multiple causal options",
+        "contextual_sense": "Bhashya refuses to treat Brahman, Pradhana, and others as parallel valid referents.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "alternative-cause denial",
+          "causal plurality rebuttal"
+        ]
+      },
+      {
+        "headword_iast": "samānārthatā-pramāṇa",
+        "gloss": "proof from same-meaning alignment",
+        "contextual_sense": "Repeated thematic vectors across passages are used as evidence, not mere style.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "concordant-signification evidence",
+          "shared-semantic proof"
+        ]
+      },
+      {
+        "headword_iast": "jagat-kāraṇa-caitanya",
+        "gloss": "world-cause marked by sentience",
+        "contextual_sense": "Convergent testimony fixes causality in conscious absolute rather than inert principle.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "sentient-source world-causality",
+          "aware first-cause marker"
+        ]
+      }
+    ],
+    "argument_tags": [
+      "response",
+      "resolution",
+      "definition",
+      "example"
+    ],
+    "tags": [
+      "layout:chapter-section-record",
+      "policy:append-and-supersede-never-delete",
+      "strata:bhasya"
+    ]
+  },
+  "provenance": {
+    "extraction_timestamp_utc": "2026-06-02T16:24:50Z",
+    "extractor_version": "extract_bs_records.py@0.1",
+    "translator_version": "human+llm@bs-c01-s01-curation-pass-6",
+    "reviewer_version": "pending",
+    "source_manifest_path": "reality/src/logos/sankara/raw/manifest.jsonl"
+  },
+  "qa": {
+    "status": "draft",
+    "confidence": 0.9,
+    "uncertainty_notes": [
+      "Curated in contiguous S01 pass with stable inferential-tag schema.",
+      "A later philological pass should revisit svapya etymological nuances and gati-samanya phrasing in records 1.1.040-1.1.047."
+    ]
+  },
+  "record_kind": "bhasya"
+}

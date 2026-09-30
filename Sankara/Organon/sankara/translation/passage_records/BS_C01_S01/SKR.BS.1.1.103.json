@@ -1,0 +1,90 @@
+{
+  "record_id": "SKR.BS.1.1.103",
+  "work_code": "BS",
+  "section_code": "1.1",
+  "source": {
+    "source_url": "https://advaitasharada.sringeri.net/display/bhashya/BS/devanagari?id=BS_C01&page=1",
+    "source_sha256": "3e25449a44a0e912318db91030eb2e604e0c4eb2f8b5ceaa4ff4f92ae5e5bb80",
+    "language": "sa",
+    "script": "Devanagari",
+    "edition_note": "Draft block record from BS_C01_S01.json::BS_C01_S01_V31_VERSETEXT_01 (versetext)."
+  },
+  "text": {
+    "source_text": "जीवमुख्यप्राणलिङ्गान्नेति चेन्नोपासात्रैविध्यादाश्रितत्वादिह तद्योगात् ॥ ३१ ॥",
+    "transliteration_iast": "jīvamukhyaprāṇaliṅgānneti cennopāsātraividhyādāśritatvādiha tadyogāt || 31 ||",
+    "segmentation_note": "Block-level extraction from BS_C01_S01_V31/BS_C01_S01_V31_VERSETEXT_01."
+  },
+  "translation": {
+    "literal_translation": "If it be said 'No, due to jiva and main-prana indicators,' no - because of threefold upasana, because they are dependent (on Brahman), and because here they are connected with That. (31)",
+    "technical_translation": "Sutra 1.1.31: jiva/mukhya-prana lingas do not negate Brahman-reference, as they function as dependent upadhi-modes within tri-fold Brahman-upasana.",
+    "interpretive_note": "Sutra closes the Kausitaki reconciliation by integrating all indicators under one referent."
+  },
+  "analysis": {
+    "lexical_notes": [
+      {
+        "headword_iast": "jiva-mukhya-prana-lingan na iti cet",
+        "gloss": "if denied due to jiva and main-prana indicators",
+        "contextual_sense": "Sutra acknowledges the objection from mixed signs before integrating them.",
+        "grammatical_role": "conditional sutra phrase",
+        "alternate_glosses": [
+          "mixed-marker objection clause",
+          "jiva-prana denial premise"
+        ]
+      },
+      {
+        "headword_iast": "nopasa-traividhyat",
+        "gloss": "no, because of threefold upasana",
+        "contextual_sense": "Tripartite contemplative framing reconciles the indicator plurality.",
+        "grammatical_role": "reason phrase",
+        "alternate_glosses": [
+          "denial via triple contemplation",
+          "three-mode resolution"
+        ]
+      },
+      {
+        "headword_iast": "ashritatvad iha tadyogat",
+        "gloss": "because they are dependent and connected with That here",
+        "contextual_sense": "Non-Brahman indicators are subordinated as dependent expressions of the same ultimate referent.",
+        "grammatical_role": "reason phrase",
+        "alternate_glosses": [
+          "dependent linkage reason",
+          "That-connectedness criterion"
+        ]
+      },
+      {
+        "headword_iast": "samanvaya-parisamapti",
+        "gloss": "completion of integrative reconciliation",
+        "contextual_sense": "Final sutra closes the Kausitaki sequence by preserving one referent across layered language.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "harmonization closure",
+          "integration finale"
+        ]
+      }
+    ],
+    "argument_tags": [
+      "resolution"
+    ],
+    "tags": [
+      "layout:chapter-section-record",
+      "policy:append-and-supersede-never-delete",
+      "strata:sutra"
+    ]
+  },
+  "provenance": {
+    "extraction_timestamp_utc": "2026-06-02T16:24:50Z",
+    "extractor_version": "extract_bs_records.py@0.1",
+    "translator_version": "human+llm@bs-c01-s01-curation-pass-13",
+    "reviewer_version": "pending",
+    "source_manifest_path": "reality/src/logos/sankara/raw/manifest.jsonl"
+  },
+  "qa": {
+    "status": "draft",
+    "confidence": 0.97,
+    "uncertainty_notes": [
+      "Curated in contiguous S01 pass with stable inferential-tag schema.",
+      "A later philological pass should revisit truncated Kausitaki argument lines and detailed phrasing around upasa-traividhya in records 1.1.101-1.1.103."
+    ]
+  },
+  "record_kind": "sutra"
+}

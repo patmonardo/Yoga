@@ -1,0 +1,90 @@
+{
+  "record_id": "SKR.BS.1.2.031",
+  "work_code": "BS",
+  "section_code": "1.2",
+  "source": {
+    "source_url": "https://advaitasharada.sringeri.net/display/bhashya/BS/devanagari?id=BS_C01&page=1",
+    "source_sha256": "3e25449a44a0e912318db91030eb2e604e0c4eb2f8b5ceaa4ff4f92ae5e5bb80",
+    "language": "sa",
+    "script": "Devanagari",
+    "edition_note": "Draft block record from BS_C01_S02.json::BS_C01_S02_V12_I01 (leading_bhashya)."
+  },
+  "text": {
+    "source_text": "कुतश्च विज्ञानात्मपरमात्मानौ गृह्येते ? —",
+    "transliteration_iast": "kutaśca vijñānātmaparamātmānau gṛhyete ? —",
+    "segmentation_note": "Block-level extraction from BS_C01_S02_V12/BS_C01_S02_V12_I01."
+  },
+  "translation": {
+    "literal_translation": "And on what further grounds are the knowing self and the Supreme Self taken (as the pair)?",
+    "technical_translation": "Leading transition that asks for additional inferential grounds in the two-in-the-cave discussion.",
+    "interpretive_note": "Sets up the next supporting sutra for the jiva-paramatma reading."
+  },
+  "analysis": {
+    "lexical_notes": [
+      {
+        "headword_iast": "vijnanatma-paramatma",
+        "gloss": "individual cognizer and Supreme Self pair",
+        "contextual_sense": "Question seeks additional grounds for why this precise dual, rather than alternatives, is adopted in the cave passage.",
+        "grammatical_role": "compound dyadic phrase",
+        "alternate_glosses": [
+          "jiva-Ishvara pair",
+          "cognizer-Supreme dual"
+        ]
+      },
+      {
+        "headword_iast": "hetu-anvesana",
+        "gloss": "search for inferential ground",
+        "contextual_sense": "Transition move demanding explicit justification beyond prior provisional reasoning.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "reason-seeking",
+          "proof-demand"
+        ]
+      },
+      {
+        "headword_iast": "adhikarana-parivartana",
+        "gloss": "shift to a new inferential step within topic",
+        "contextual_sense": "Marks the procedural move from accepted claim to demand for stronger linga support.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "argument-phase shift",
+          "topical progression"
+        ]
+      },
+      {
+        "headword_iast": "samsaya-prastavana",
+        "gloss": "formal introduction of doubt",
+        "contextual_sense": "Frames the need to restate and secure the dual-reference conclusion with further precision.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "doubt setup",
+          "question framework"
+        ]
+      }
+    ],
+    "argument_tags": [
+      "objection"
+    ],
+    "tags": [
+      "layout:chapter-section-record",
+      "policy:append-and-supersede-never-delete",
+      "strata:bhasya"
+    ]
+  },
+  "provenance": {
+    "extraction_timestamp_utc": "2026-06-02T16:24:50Z",
+    "extractor_version": "extract_bs_records.py@0.1",
+    "translator_version": "human+llm@bs-c01-s02-curation-pass-5",
+    "reviewer_version": "pending",
+    "source_manifest_path": "reality/src/logos/sankara/raw/manifest.jsonl"
+  },
+  "qa": {
+    "status": "draft",
+    "confidence": 0.91,
+    "uncertainty_notes": [
+      "Curated in contiguous S02 pass with stable cadence and inferential-tag schema.",
+      "A later philological pass should revisit ka/kha lexical interpretation and eye-person technical terminology in records 1.2.033-1.2.038."
+    ]
+  },
+  "record_kind": "bhasya"
+}

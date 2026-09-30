@@ -1,0 +1,102 @@
+{
+  "record_id": "SKR.BS.1.1.075",
+  "work_code": "BS",
+  "section_code": "1.1",
+  "source": {
+    "source_url": "https://advaitasharada.sringeri.net/display/bhashya/BS/devanagari?id=BS_C01&page=1",
+    "source_sha256": "3e25449a44a0e912318db91030eb2e604e0c4eb2f8b5ceaa4ff4f92ae5e5bb80",
+    "language": "sa",
+    "script": "Devanagari",
+    "edition_note": "Draft block record from BS_C01_S01.json::BS_C01_S01_V21_B1 (bhashya)."
+  },
+  "text": {
+    "source_text": "अस्ति चादित्यादिशरीराभिमानिभ्यो जीवेभ्योऽन्य ईश्वरोऽन्तर्यामी — ‘ य आदित्ये तिष्ठन्नादित्यादन्तरो य मा दित्यो न वेद य स्या दित्यः शरीरं य आदित्यमन्तरो यमय त्येष त आत्मान्तर्याम्यमृतः ’ (बृ. उ. ३ । ७ । ९) इति श्रुत्यन्तरे भेदव्यपदेशात् । तत्र हि ‘ आदित्यादन्तरो यमादित्यो न वेद ’ इति वेदितुरादित्याद्विज्ञानात्मनोऽन्योऽन्तर्यामी स्पष्टं निर्दिश्यते । स एवेहाप्यन्तरादित्ये पुरुषो भवितुमर्हति , श्रुतिसामान्यात् । तस्मात्परमेश्वर एवेहोपदिश्यत इति सिद्धम् ॥ २१ ॥",
+    "transliteration_iast": "asti cādityādiśarīrābhimānibhyo jīvebhyo'nya īśvaro'ntaryāmī — ‘ ya āditye tiṣṭhannādityādantaro ya mā dityo na veda ya syā dityaḥ śarīraṃ ya ādityamantaro yamaya tyeṣa ta ātmāntaryāmyamṛtaḥ ’ (bṛ. u. 3 | 7 | 9) iti śrutyantare bhedavyapadeśāt | tatra hi ‘ ādityādantaro yamādityo na veda ’ iti vediturādityādvijñānātmano'nyo'ntaryāmī spaṣṭaṃ nirdiśyate | sa evehāpyantarāditye puruṣo bhavitumarhati , śrutisāmānyāt | tasmātparameśvara evehopadiśyata iti siddham || 21 ||",
+    "segmentation_note": "Block-level extraction from BS_C01_S01_V21/BS_C01_S01_V21_B1."
+  },
+  "translation": {
+    "literal_translation": "And there is another Lord, distinct from the jivas who identify with solar and other bodies: 'He who dwells in the sun, within the sun, whom the sun does not know, whose body is the sun, who controls the sun from within - He is your self, the inner controller, immortal.' In that other scripture, difference is explicitly declared. There, by saying 'within the sun whom the sun does not know,' an inner controller distinct from the conscious sun-associated self is clearly indicated. That very one should also be the person within the sun here, because the scriptural pattern is the same. Therefore it is established that the Supreme Lord alone is taught here. (21)",
+    "technical_translation": "Bhashya on 1.1.21 adduces antaryamin-brāhmana bheda-vyapadesha to confirm that inner solar person is Ishvara distinct from conditioned jiva.",
+    "interpretive_note": "Cross-text identity via shared 'inner controller' structure."
+  },
+  "analysis": {
+    "lexical_notes": [
+      {
+        "headword_iast": "antaryāmin-brāhmaṇa-pramāṇa",
+        "gloss": "evidence from the antaryamin brāhmaṇa",
+        "contextual_sense": "Cross-text citation confirms a distinct inner ruler beyond embodied occupants.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "inner-controller textual warrant",
+          "antaryamin evidence"
+        ]
+      },
+      {
+        "headword_iast": "āditya-śarīra-jīva-vilakṣaṇatā",
+        "gloss": "difference from the jiva identified with solar body",
+        "contextual_sense": "Passage distinguishes indwelling regulator from body-associated conscious principle.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "solar-body jiva distinction",
+          "embodied-occupant differentiation"
+        ]
+      },
+      {
+        "headword_iast": "yamayitṛtva",
+        "gloss": "governing/controlling function",
+        "contextual_sense": "Regulative sovereignty marks Ishvara, not conditioned experiencer.",
+        "grammatical_role": "abstract noun",
+        "alternate_glosses": [
+          "inner governance",
+          "regulator-status"
+        ]
+      },
+      {
+        "headword_iast": "amṛtatva-vyapadeśa",
+        "gloss": "ascription of immortality",
+        "contextual_sense": "Immortality predicate supports supra-samsaric referent identification.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "deathless designation",
+          "immortal-marker predication"
+        ]
+      },
+      {
+        "headword_iast": "śrutyantara-samanvaya",
+        "gloss": "harmonization with parallel revelation",
+        "contextual_sense": "Interpretation is reinforced through convergent Upanishadic testimony.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "cross-text concordance",
+          "parallel-shruti integration"
+        ]
+      }
+    ],
+    "argument_tags": [
+      "response",
+      "resolution",
+      "definition"
+    ],
+    "tags": [
+      "layout:chapter-section-record",
+      "policy:append-and-supersede-never-delete",
+      "strata:bhasya"
+    ]
+  },
+  "provenance": {
+    "extraction_timestamp_utc": "2026-06-02T16:24:50Z",
+    "extractor_version": "extract_bs_records.py@0.1",
+    "translator_version": "human+llm@bs-c01-s01-curation-pass-10",
+    "reviewer_version": "pending",
+    "source_manifest_path": "reality/src/logos/sankara/raw/manifest.jsonl"
+  },
+  "qa": {
+    "status": "draft",
+    "confidence": 0.9,
+    "uncertainty_notes": [
+      "Curated in contiguous S01 pass with stable inferential-tag schema.",
+      "A later philological pass should revisit antaraditya imagery and akasha lexical-paradigmatic nuances in records 1.1.072-1.1.079."
+    ]
+  },
+  "record_kind": "bhasya"
+}

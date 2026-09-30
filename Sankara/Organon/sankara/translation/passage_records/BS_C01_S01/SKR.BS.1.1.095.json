@@ -1,0 +1,90 @@
+{
+  "record_id": "SKR.BS.1.1.095",
+  "work_code": "BS",
+  "section_code": "1.1",
+  "source": {
+    "source_url": "https://advaitasharada.sringeri.net/display/bhashya/BS/devanagari?id=BS_C01&page=1",
+    "source_sha256": "3e25449a44a0e912318db91030eb2e604e0c4eb2f8b5ceaa4ff4f92ae5e5bb80",
+    "language": "sa",
+    "script": "Devanagari",
+    "edition_note": "Draft block record from BS_C01_S01.json::BS_C01_S01_V28_VERSETEXT_01 (versetext)."
+  },
+  "text": {
+    "source_text": "प्राणस्तथानुगमात् ॥ २८ ॥",
+    "transliteration_iast": "prāṇastathānugamāt || 28 ||",
+    "segmentation_note": "Block-level extraction from BS_C01_S01_V28/BS_C01_S01_V28_VERSETEXT_01."
+  },
+  "translation": {
+    "literal_translation": "Prana (is Brahman), because of such consistent progression. (28)",
+    "technical_translation": "Sutra 1.1.28: Kausitaki prana is Brahman, established by tathanugama (coherent textual flow).",
+    "interpretive_note": "Sutra seal for multi-linga integration by discourse continuity."
+  },
+  "analysis": {
+    "lexical_notes": [
+      {
+        "headword_iast": "pranah tathanugamat",
+        "gloss": "prana, because of coherent progression",
+        "contextual_sense": "Sutra states that discourse-flow consistency fixes prana as Brahman in this locus.",
+        "grammatical_role": "sutra phrase",
+        "alternate_glosses": [
+          "prana by textual continuity",
+          "flow-grounded determination"
+        ]
+      },
+      {
+        "headword_iast": "anugama-pramana",
+        "gloss": "evidence from thematic carry-through",
+        "contextual_sense": "A holistic criterion is elevated above local lexical reflex.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "continuity evidence",
+          "coherence warrant"
+        ]
+      },
+      {
+        "headword_iast": "linga-ekikarana",
+        "gloss": "unification of indicators",
+        "contextual_sense": "Diverse signs are reconciled under one referent instead of split into separate targets.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "marker integration",
+          "sign consolidation"
+        ]
+      },
+      {
+        "headword_iast": "adhikarana-samapti-cihna",
+        "gloss": "marker of topical closure",
+        "contextual_sense": "Sutra seals the primary adjudication before the speaker-objection sequence.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "closure sign",
+          "argument completion marker"
+        ]
+      }
+    ],
+    "argument_tags": [
+      "resolution"
+    ],
+    "tags": [
+      "layout:chapter-section-record",
+      "policy:append-and-supersede-never-delete",
+      "strata:sutra"
+    ]
+  },
+  "provenance": {
+    "extraction_timestamp_utc": "2026-06-02T16:24:50Z",
+    "extractor_version": "extract_bs_records.py@0.1",
+    "translator_version": "human+llm@bs-c01-s01-curation-pass-12",
+    "reviewer_version": "pending",
+    "source_manifest_path": "reality/src/logos/sankara/raw/manifest.jsonl"
+  },
+  "qa": {
+    "status": "draft",
+    "confidence": 0.97,
+    "uncertainty_notes": [
+      "Curated in contiguous S01 pass with stable inferential-tag schema.",
+      "A later philological pass should revisit truncated source lines and precise phrasing in the jyotis/gayatri bridge and Kausitaki prana section (1.1.084-1.1.095)."
+    ]
+  },
+  "record_kind": "sutra"
+}

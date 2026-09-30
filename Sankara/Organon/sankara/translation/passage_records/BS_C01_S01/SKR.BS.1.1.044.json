@@ -1,0 +1,90 @@
+{
+  "record_id": "SKR.BS.1.1.044",
+  "work_code": "BS",
+  "section_code": "1.1",
+  "source": {
+    "source_url": "https://advaitasharada.sringeri.net/display/bhashya/BS/devanagari?id=BS_C01&page=1",
+    "source_sha256": "3e25449a44a0e912318db91030eb2e604e0c4eb2f8b5ceaa4ff4f92ae5e5bb80",
+    "language": "sa",
+    "script": "Devanagari",
+    "edition_note": "Draft block record from BS_C01_S01.json::BS_C01_S01_V09_I01 (leading_bhashya)."
+  },
+  "text": {
+    "source_text": "कुतश्च न प्रधानं सच्छब्दवाच्यम् ? —",
+    "transliteration_iast": "kutaśca na pradhānaṃ sacchabdavācyam ? —",
+    "segmentation_note": "Block-level extraction from BS_C01_S01_V09/BS_C01_S01_V09_I01."
+  },
+  "translation": {
+    "literal_translation": "And from what further reason is Pradhana not denoted by sat? -",
+    "technical_translation": "Transition to the next sutra-ground after sleep-based reasoning.",
+    "interpretive_note": "Signals continuation of cumulative exclusion method."
+  },
+  "analysis": {
+    "lexical_notes": [
+      {
+        "headword_iast": "kutaś ca na pradhānam",
+        "gloss": "what further ground excludes Pradhana?",
+        "contextual_sense": "Interrogative bridge opens the next evidentiary layer beyond sleep-argument.",
+        "grammatical_role": "interrogative phrase",
+        "alternate_glosses": [
+          "why else not Pradhana?",
+          "additional exclusion prompt"
+        ]
+      },
+      {
+        "headword_iast": "hetvantara-anveṣaṇa",
+        "gloss": "search for an additional reason",
+        "contextual_sense": "Signals cumulative method: one exclusion is reinforced by another independent line.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "further-ground inquiry",
+          "supplementary proof pursuit"
+        ]
+      },
+      {
+        "headword_iast": "adhikaraṇa-sandhi",
+        "gloss": "junction in argumentative flow",
+        "contextual_sense": "Connects svapya logic to upcoming cross-text convergence proof.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "topical hinge",
+          "argument transition node"
+        ]
+      },
+      {
+        "headword_iast": "pūrvapakṣa-avaśeṣa-śaṅkā",
+        "gloss": "residual opponent doubt",
+        "contextual_sense": "A remaining ambiguity is surfaced explicitly so it can be fully dissolved.",
+        "grammatical_role": "compound noun",
+        "alternate_glosses": [
+          "leftover objection cue",
+          "residual uncertainty signal"
+        ]
+      }
+    ],
+    "argument_tags": [
+      "definition"
+    ],
+    "tags": [
+      "layout:chapter-section-record",
+      "policy:append-and-supersede-never-delete",
+      "strata:bhasya"
+    ]
+  },
+  "provenance": {
+    "extraction_timestamp_utc": "2026-06-02T16:24:50Z",
+    "extractor_version": "extract_bs_records.py@0.1",
+    "translator_version": "human+llm@bs-c01-s01-curation-pass-6",
+    "reviewer_version": "pending",
+    "source_manifest_path": "reality/src/logos/sankara/raw/manifest.jsonl"
+  },
+  "qa": {
+    "status": "draft",
+    "confidence": 0.96,
+    "uncertainty_notes": [
+      "Curated in contiguous S01 pass with stable inferential-tag schema.",
+      "A later philological pass should revisit svapya etymological nuances and gati-samanya phrasing in records 1.1.040-1.1.047."
+    ]
+  },
+  "record_kind": "bhasya"
+}
