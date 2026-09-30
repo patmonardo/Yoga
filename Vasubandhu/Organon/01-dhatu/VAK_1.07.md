@@ -23,7 +23,7 @@ saḥ | eva | adhvā | kathā-vastu | sa-niḥsārāḥ | sa-vastukāḥ
 |---|---|---|
 | **te** | nominative masculine plural pronoun | those already marked as conditioned in 1.04–1.05 |
 | **punaḥ** | indeclinable | resumes and specifies; not a new inventory |
-| **saṃskṛtāḥ** | nominative masculine plural past passive participle | made by conditions acting together |
+| **saṃskṛtāḥ** | nominative masculine plural past passive participle | Conditioned; etymology is made by conditions acting together |
 | **dharmāḥ** | nominative masculine plural | the classified field, not “phenomena” as a modern leftover |
 | **rūpa-ādi-skandha-pañcakam** | nominative neuter singular collective compound | the five aggregates beginning with material form |
 | **saḥ eva** | demonstrative + restrictive particle | that very same field; paryāya, not addition |
@@ -67,6 +67,8 @@ Those conditioned dharmas, again, are the five aggregates beginning with form. T
 
 The conditioned dharmas are the five aggregates beginning with material form. They are called conditioned because they are made by conditions that come together and act together; nothing is produced by a single condition. That same field is the temporal courses, because it has the states of having gone, going, and being about to go — or because it is consumed by impermanence. It is the basis of discourse, because meaningful speech takes the conditioned as its basis; otherwise the Prakaraṇa statement that the bases of discourse are included in the eighteen domains would be contradicted. It is possessed of an exit, because nirvāṇa is the exit from everything conditioned. It is possessed of a *vastu*, because it has causes: the Vaibhāṣikas say that here the word *vastu* expresses cause.
 
+The etymology uses *kṛtā* (“made”). The headword remains *conditioned*, not *created*.
+
 ## 6. Philosophical Translation
 
 Conditioned dharmas are not an open remainder after the unconditioned have been named. They are the five aggregates as one field. Time, speech, exit, and causal grounding are determinations of that field, not four extra heaps.
@@ -75,6 +77,7 @@ Organon rendering (project reconstruction; not Vasubandhu's wording):
 
 ```text
 saṃskṛta
+    = Conditioned
     = Being under aggregate-form (skandha)
     = the same field as temporal course
     = the same field as what discourse can take as vastu
@@ -82,7 +85,19 @@ saṃskṛta
     = the same field as having hetu for vastu (local gloss)
 ```
 
-Skandha is the first official Being-form of the conditioned. Āyatana and Dhātu are not yet in play. Do not call this verse the Concept.
+Algebra of this chapter (project lock):
+
+```text
+viṣaya        = Condition
+saṃskṛta     = Conditioned
+asaṃskṛta    = Unconditioned
+```
+
+English “Conditioned” *means* created-by-conditions. That is the sense, not the translation. “Created” as a headword is withdrawn: this is Eternal Dharma under conditions, not a cosmogonic making. The Kant–Hegel word of import is the Unconditioned.
+
+`Pratyaya` in this Bhāṣya is the co-acting condition that *makes* the Conditioned. It is not the same cell as `viṣaya`. Do not collapse them.
+
+Skandha is the first official Being-form of the Conditioned. Āyatana and Dhātu are not yet in play. Do not call this verse the Concept.
 
 ## 7. Technical Vocabulary
 
@@ -90,9 +105,12 @@ These renderings are proposed as import-lexicon for the rest of Dhātu-nirdeśa.
 
 | Sanskrit | Conventional rendering | Organon determination | Do not use |
 |---|---|---|---|
-| **saṃskṛta** | conditioned | jointly produced; plural *pratyaya* is constitutive | “compounded” as mere part-assembly; “created” |
+| **saṃskṛta** | conditioned | Conditioned. Sense: created-by-conditions. Eternal Dharma under conditions | “created” as translation; “compounded” as mere part-assembly |
+| **asaṃskṛta** | unconditioned | Unconditioned: Kant–Hegel word of import; 1.05–1.06 already named ākāśa and the two nirodhas | “uncreated”; “eternal” as if only the unconditioned were eternal |
+| **viṣaya** | not in this verse; 1.09 conventional remains sensory domain until that card is revised | Condition in the Algebra | collapsing into *pratyaya*; reading Condition into 1.07 prose |
+| **pratyaya** | condition | co-acting grounds of the Conditioned (*kṛtā* by *pratyaya-s*). Distinct from *viṣaya* as Condition | isolated efficient cause; “creator” |
 | **dharma** | dharma | holding-to-be-true remains a deferred Organon thesis (`√dhṛ`) | “phenomenon,” “factor” as a emptied placeholder |
-| **skandha** | aggregate | Being: the conditioned gathered as one articulated body | “heap” as dismissive; “Being” inside conventional English |
+| **skandha** | aggregate | Being: the Conditioned gathered as one articulated body | “heap” as dismissive; “Being” inside conventional English |
 | **rūpa-skandha** | aggregate of material form | first actuality of the conditioned field; inventory begins at 1.09 | “matter” as modern mass; “body” alone |
 | **vedanā-skandha** | aggregate of feeling | not yet defined; do not psychologize in advance | “sensation” if that erases affective determination |
 | **saṃjñā-skandha** | aggregate of recognition | DHI-side naming-power; full JÑA↔DHI treatment deferred | “perception”; silent drop of this member |
@@ -105,16 +123,22 @@ These renderings are proposed as import-lexicon for the rest of Dhātu-nirdeśa.
 | **saniḥsāra** | possessed of an exit | the conditioned stand in relation to that exit | “having essence” by false etymology |
 | **vastu** | *vastu*; locally “cause” | Thing / real basis in other uses; Object is later, as comprehended Truth of the Thing | universal equation *vastu* = *hetu* |
 | **savastuka** | possessed of a *vastu*; here, of causes | causal grounding under an attributed Vaibhāṣika gloss | first-pass “with real basis” as if that were this verse's own gloss |
-| **pratyaya** | condition | co-acting grounds; *na hy ekapratyayajanitaṃ kiñcid asti* | isolated efficient cause |
 | **paryāya** | alternative designation | same field, several lawful names | synonym that can be swapped without remainder |
 
-**Import rule for later verses.** Until a later card revises a row, Dhātu-nirdeśa uses this table. `Vijñāna` will be defined at 1.16 as *prativijñapti / upalabdhi*; this card only forbids emptying the fifth aggregate and forbids “consciousness.”
+**Import rule for later verses.** Until a later card revises a row, Dhātu-nirdeśa uses this table. Algebra: *viṣaya* = Condition, *saṃskṛta* = Conditioned, *asaṃskṛta* = Unconditioned. `Vijñāna` will be defined at 1.16 as *prativijñapti / upalabdhi*; this card only forbids emptying the fifth aggregate and forbids “consciousness.” 1.09 still owes a conventional *viṣaya* line; do not overwrite that card from here.
 
 ## 8. Logical Determination
 
 ```text
 Conditioned(x) ↔ AggregateMember(x)
 Unconditioned(x) → ¬AggregateMember(x)
+```
+
+Algebra, marked as project:
+
+```text
+Condition(viṣaya) : Conditioned(saṃskṛta) : Unconditioned(asaṃskṛta)
+pratyaya ≠ viṣaya
 ```
 
 The Path remains conditioned (1.04) and therefore belongs to the five aggregates. Outflow-status is a different axis:
@@ -155,6 +179,8 @@ Future dharmas may be called conditioned by kind (*tajjātīyatva*), as milk and
 
 VAK 1.04–1.06 divided dharmas by outflow and by the three unconditioned. VAK 1.07 gives the conditioned their body: five aggregates. The chapter can now stop saying “conditioned” as a remainder and start analyzing a field.
 
+“Created” is withdrawn as a translation of *saṃskṛta*. The Bhāṣya does say *pratyayaiḥ kṛtā*: made by conditions coming together. That etymology is kept. The headword is Conditioned, because this is Eternal Dharma, not a beginning of what was not. For English, Conditioned *means* Created-by-Conditions. The word that then matters in Kant and Hegel is the Unconditioned.
+
 Two restraints.
 
 First, the local e-text at Pradhan `[004|26]` lists rūpa, vedanā, saṃskāra, vijñāna and omits saṃjñā. The kārikā says *pañcakam*. The omission is a witness fault, not a four-aggregate doctrine. Recognition stays in the inventory.
@@ -163,7 +189,7 @@ Second, *savastuka* is the place where first-pass English and the Bhāṣya part
 
 Organon, marked as project:
 
-This verse is where Skandha becomes usable as Being. The five are not a psychological toolkit laid beside two other lists. They are the conditioned as gathered determination. Essence (āyatana as capacity/field) and Concept (only the six vijñāna-dhātus as Reciprocates) are later grades of the same movement. Saying that here as Science is allowed; writing it into the translation is not.
+This verse is where Skandha becomes usable as Being. The five are not a psychological toolkit laid beside two other lists. They are the Conditioned as gathered determination. Essence (āyatana as capacity/field) and Concept (only the six vijñāna-dhātus as Reciprocates) are later grades of the same movement. Saying that here as Science is allowed; writing it into the translation is not.
 
 *Kathāvastu* matters for the Organon product. Discourse does not float over the field. The Prakaraṇa already includes the bases of discourse in the eighteen Domains. Dharma-skandha as communicable Science has its first textual hook in this paryāya.
 
@@ -186,7 +212,16 @@ vak:ConditionedDharma
     vak:hasParyaya vak:TemporalCourse ,
                     vak:DiscourseBasis ,
                     vak:PossessedOfExit ,
-                    vak:PossessedOfVastu .
+                    vak:PossessedOfVastu ;
+    vak:forbiddenLabel "created" .
+
+vak:Algebra
+    vak:condition vak:Visaya ;
+    vak:conditioned vak:Samskrta ;
+    vak:unconditioned vak:Asamskrta .
+
+vak:Pratyaya
+    vak:distinctFrom vak:Visaya .
 
 vak:FiveAggregates
     vak:includes vak:RupaSkandha ,
