@@ -1,300 +1,474 @@
 //! Dhātu as a classification engine
 //! =================================
 //!
-//! Research Rust for `dharma-skandha.md`. This is a readable model, not a
-//! crate or a claim that the Kośa itself was written as a program.
+//! Research Rust for `dharma-skandha.md`. A readable model, not a crate,
+//! and not a claim that the Kośa was written as a program.
 //!
-//! SOURCE RULE (VAK 1.14–1.17): five skandhas, twelve āyatanas, and eighteen
-//! dhātus classify overlapping content under different relations. The
-//! eighteen are six supports (āśraya), six objects (ālambana), and six
-//! cognitions (āśrita). Manodhātu names one of the six cognitions when it is
-//! immediately past and functions as support for the sixth cognition.
+//! Replaces the earlier sketch that generated eighteen domains as
+//! `6 × (support, object, cognition)`. That product is true for the five
+//! senses. It is false for the sixth, and it made the cross-map invisible.
 //!
-//! ORGANON PROPOSAL: Skandha : Āyatana : Dhātu may be read as gathered
-//! content : relational sphere : articulated system. The Hegelian
-//! Being–Essence–Concept comparison belongs to this proposal; it is not a
-//! translation of Vasubandhu's three Sanskrit terms.
+//! SOURCE RULE (VAK 1.14–1.17): five skandhas, twelve āyatanas, and
+//! eighteen dhātus classify overlapping content under different relations.
+//! The fifteen sensory positions are a real product. The last three are not
+//! another row of that product:
 //!
-//! A classification is a judgment about a dharma in a specified respect.
-//! It is never a new dharma manufactured by a list.
+//! ```text
+//! 5 × (support, object, cognition) = 15
+//! manodhātu     = a past cognition in the support role, not a sixth organ
+//! dharmadhātu   = a heterogeneous object-bin, not "mind's color"
+//! mano-vijñāna  = the present mental cognition
+//!                                  = 18
+//! ```
+//!
+//! `classify` is a projection, not a partition and not a bijection.
+//! Many contents share one Sphere and one Domain. If it were injective,
+//! avijñapti could not be rūpa and dharmāyatana at once.
+//!
+//! ORGANON, fenced, not a translation: Skandha is the gathered answer,
+//! Āyatana is the capacity/field Sphere (Essence, not Concept), and only
+//! the support–object–cognition closure is Concept-grade. `Position` is
+//! not "the Concept enum." The Concept is the closure, not the list.
 
-// 1. The three questions asked of one occurrence.
+#![allow(dead_code)] // research sketch: the functions are the text
+
+// 1. Positions. The sixth row cannot be built by the product that builds
+// the fifteen.
 
 #[derive(Clone, Copy, Debug, Eq, PartialEq)]
-enum Skandha { Rupa, Vedana, Samjna, Samskara, Vijnana }
-
-// The Kośa's order is Eye → Ear → Nose → Tongue → Touch → Mind (VAK 1.23).
-// The proposed Sāṃkhya–Yoga station order below is a separate project
-// ordering of indriya channels, not a list of tanmātras.
-// `Touch` names a functional channel; its two poles remain distinct:
-// kāya is the faculty/support, spraṣṭavya the tangible field/object.
-#[derive(Clone, Copy, Debug, Eq, PartialEq)]
-enum Sense { Eye, Ear, Nose, Tongue, Touch }
-
-#[derive(Clone, Copy, Debug, Eq, PartialEq)]
-enum Channel { Eye, Ear, Nose, Tongue, Touch, Mind }
-
-impl From<Sense> for Channel {
-    fn from(sense: Sense) -> Self {
-        match sense {
-            Sense::Eye => Self::Eye, Sense::Ear => Self::Ear,
-            Sense::Nose => Self::Nose, Sense::Tongue => Self::Tongue,
-            Sense::Touch => Self::Touch,
-        }
-    }
+enum Sense {
+    Eye,
+    Ear,
+    Nose,
+    Tongue,
+    Touch,
 }
 
-// Twelve bases: five sensory capacities, five sensory fields, mind, dharma.
-// The last two are not another material organ and another material object.
 #[derive(Clone, Copy, Debug, Eq, PartialEq)]
-enum Ayatana { Faculty(Sense), Field(Sense), Mind, Dharma }
+enum SenseRole {
+    Support,
+    Object,
+    Cognition,
+}
 
-// Eighteen domains: six of each *role*. Cognition(Mind) and Support(Mind)
-// may involve the same stream without collapsing into one position.
+/// Eighteen slots. Not eighteen substances.
 #[derive(Clone, Copy, Debug, Eq, PartialEq)]
-enum Dhatu { Support(Channel), Object(Channel), Cognition(Channel) }
+enum Position {
+    Sense { channel: Sense, role: SenseRole },
+    ManoDhatu,
+    DharmaDhatu,
+    ManoVijnana,
+}
 
-const KOSA_CHANNEL_ORDER: [Channel; 6] = [
-    Channel::Eye, Channel::Ear, Channel::Nose,
-    Channel::Tongue, Channel::Touch, Channel::Mind,
+const SENSES: [Sense; 5] = [
+    Sense::Eye,
+    Sense::Ear,
+    Sense::Nose,
+    Sense::Tongue,
+    Sense::Touch,
 ];
 
-const STATION_SENSE_ORDER: [Sense; 5] = [
-    Sense::Ear, Sense::Touch, Sense::Eye, Sense::Tongue, Sense::Nose,
+const SENSE_ROLES: [SenseRole; 3] = [
+    SenseRole::Support,
+    SenseRole::Object,
+    SenseRole::Cognition,
 ];
 
-fn eighteen_positions() -> impl Iterator<Item = Dhatu> {
-    KOSA_CHANNEL_ORDER.into_iter().flat_map(|channel| [
-        Dhatu::Support(channel), Dhatu::Object(channel),
-        Dhatu::Cognition(channel),
+fn sensory_positions() -> impl Iterator<Item = Position> {
+    SENSES.into_iter().flat_map(|channel| {
+        SENSE_ROLES.into_iter().map(move |role| Position::Sense { channel, role })
+    })
+}
+
+fn eighteen_positions() -> impl Iterator<Item = Position> {
+    sensory_positions().chain([
+        Position::ManoDhatu,
+        Position::DharmaDhatu,
+        Position::ManoVijnana,
     ])
 }
 
-// 6 × (support + object + cognition) = 18 positions, not disjoint substances.
-
-// 2. The cross-map. One content, several answers.
+// 2. Spheres. Twelve, not eighteen. Six cognitions share mana-āyatana.
 
 #[derive(Clone, Copy, Debug, Eq, PartialEq)]
-struct Cognition { channel: Channel, occurrence: u64 }
+enum Sphere {
+    Faculty(Sense),
+    Field(Sense),
+    Mind,
+    Dharma,
+}
+
+fn twelve_spheres() -> impl Iterator<Item = Sphere> {
+    SENSES
+        .into_iter()
+        .map(Sphere::Faculty)
+        .chain(SENSES.into_iter().map(Sphere::Field))
+        .chain([Sphere::Mind, Sphere::Dharma])
+}
+
+// 3. Gathered kind. `None` is the unconditioned's datum, not a missing field.
 
 #[derive(Clone, Copy, Debug, Eq, PartialEq)]
-enum Dharma {
-    SensoryFaculty(Sense), SensoryField(Sense), Avijnapti,
-    Feeling, Recognition, Formation, Cognition(Cognition), Unconditioned,
+enum Gathered {
+    Rupa,
+    Vedana,
+    Samjna,
+    Samskara,
+    Vijnana,
 }
 
 #[derive(Clone, Copy, Debug, Eq, PartialEq)]
-struct Classification {
-    // The unconditioned belongs to dharmāyatana/dharmadhātu but to no
-    // conditioned aggregate. Option therefore has doctrinal force.
-    skandha: Option<Skandha>,
-    ayatana: Ayatana,
-    dhatu: Dhatu,
+enum Channel {
+    Sense(Sense),
+    Mind,
 }
 
-fn classify(dharma: Dharma) -> Classification {
-    use Dharma::*;
-    match dharma {
-        SensoryFaculty(s) => Classification {
-            skandha: Some(Skandha::Rupa),
-            ayatana: Ayatana::Faculty(s),
-            dhatu: Dhatu::Support(s.into()),
+#[derive(Clone, Copy, Debug, Eq, PartialEq)]
+struct Cognition {
+    channel: Channel,
+    occurrence: u64,
+}
+
+#[derive(Clone, Copy, Debug, Eq, PartialEq)]
+enum Content {
+    Faculty(Sense),
+    Field(Sense),
+    Avijnapti,
+    Feeling,
+    Recognition,
+    Formation,
+    Cognition(Cognition),
+    Unconditioned,
+}
+
+/// Content is kept. The cross-map has to survive the projection.
+#[derive(Clone, Copy, Debug, Eq, PartialEq)]
+struct Classified {
+    content: Content,
+    gathered: Option<Gathered>,
+    sphere: Sphere,
+    position: Position,
+}
+
+fn classify(content: Content) -> Classified {
+    use Content::*;
+    match content {
+        Faculty(s) => Classified {
+            content,
+            gathered: Some(Gathered::Rupa),
+            sphere: Sphere::Faculty(s),
+            position: Position::Sense {
+                channel: s,
+                role: SenseRole::Support,
+            },
         },
-        SensoryField(s) => Classification {
-            skandha: Some(Skandha::Rupa),
-            ayatana: Ayatana::Field(s),
-            dhatu: Dhatu::Object(s.into()),
+        Field(s) => Classified {
+            content,
+            gathered: Some(Gathered::Rupa),
+            sphere: Sphere::Field(s),
+            position: Position::Sense {
+                channel: s,
+                role: SenseRole::Object,
+            },
         },
-        Avijnapti => Classification {
-            skandha: Some(Skandha::Rupa),
-            ayatana: Ayatana::Dharma,
-            dhatu: Dhatu::Object(Channel::Mind),
+        // Rūpa that is not a sense-field.
+        Avijnapti => Classified {
+            content,
+            gathered: Some(Gathered::Rupa),
+            sphere: Sphere::Dharma,
+            position: Position::DharmaDhatu,
         },
-        Feeling => mental_object(Skandha::Vedana),
-        Recognition => mental_object(Skandha::Samjna),
-        Formation => mental_object(Skandha::Samskara),
-        Cognition(c) => Classification {
-            skandha: Some(Skandha::Vijnana),
-            ayatana: Ayatana::Mind,
-            dhatu: Dhatu::Cognition(c.channel),
+        Feeling => mental_object(content, Gathered::Vedana),
+        Recognition => mental_object(content, Gathered::Samjna),
+        Formation => mental_object(content, Gathered::Samskara),
+        Cognition(c) => Classified {
+            content,
+            gathered: Some(Gathered::Vijnana),
+            // Six vijñānas, one mana-āyatana. The split returns only as Domain.
+            sphere: Sphere::Mind,
+            position: match c.channel {
+                Channel::Sense(s) => Position::Sense {
+                    channel: s,
+                    role: SenseRole::Cognition,
+                },
+                Channel::Mind => Position::ManoVijnana,
+            },
         },
-        Unconditioned => Classification {
-            skandha: None,
-            ayatana: Ayatana::Dharma,
-            dhatu: Dhatu::Object(Channel::Mind),
+        Unconditioned => Classified {
+            content,
+            gathered: None,
+            sphere: Sphere::Dharma,
+            position: Position::DharmaDhatu,
         },
     }
 }
 
-fn mental_object(skandha: Skandha) -> Classification {
-    Classification {
-        skandha: Some(skandha),
-        ayatana: Ayatana::Dharma,
-        dhatu: Dhatu::Object(Channel::Mind),
+fn mental_object(content: Content, gathered: Gathered) -> Classified {
+    Classified {
+        content,
+        gathered: Some(gathered),
+        sphere: Sphere::Dharma,
+        position: Position::DharmaDhatu,
     }
 }
 
-// classify(Avijnapti) = (Rūpa, dharmāyatana, dharmadhātu).
-// classify(Unconditioned) = (no skandha, dharmāyatana, dharmadhātu).
-// The same word `dharma` in Dharma and Ayatana::Dharma does not mean
-// every dharma is automatically in the dharma-object base.
+// Feeling, recognition, formations, avijñapti, and the unconditioned share
+// DharmaDhatu. They do not share Gathered. That shared slot plus unshared
+// kind is the algebra a 5/12/18 mnemonic cannot say.
 
-// 3. A cognitive occurrence has distinct support, object, and cognition.
+// 4. Encounter. Precedence is a witness, not a bool.
+//
+// VAK 1.17: manodhātu is the citta immediately past, functioning as support.
+// An arhat's final citta remains manas though no successor arises — another
+// cause can be absent. Do not fabricate that successor, and do not require
+// `last().unwrap()`.
+
+#[derive(Clone, Copy, Debug, Eq, PartialEq)]
+enum ManasStatus {
+    /// This citta immediately precedes a present cognition.
+    Precedes { next: u64 },
+    /// No further cause. Still manas. Not a made-up next event.
+    NoFurtherCause,
+}
 
 #[derive(Clone, Copy, Debug, Eq, PartialEq)]
 enum Support {
-    Sensory(Sense),
-    // Not a seventh cognition or an accumulated memory bank: VAK 1.17.
-    ImmediatelyPast(Cognition),
+    Faculty(Sense),
+    PastCitta { which: Cognition, status: ManasStatus },
 }
 
 #[derive(Clone, Copy, Debug, Eq, PartialEq)]
-enum Presented { Sensory(Sense), DharmaObject }
-
-#[derive(Clone, Copy, Debug, Eq, PartialEq)]
-struct Encounter { support: Support, object: Presented, cognition: Cognition }
-
-#[derive(Clone, Copy, Debug, Eq, PartialEq)]
-enum ClassificationError {
-    WrongSensoryPair, WrongCognitionChannel,
-    MentalSupportRequired, MentalObjectRequired,
-    ImmediatePrecedenceRequired,
+enum Presented {
+    Field(Sense),
+    Dharma,
 }
 
-impl Encounter {
-    /// Check the *classification* of a supplied occurrence. Constructing
-    /// this value does not pretend to cause perception.
-    fn classify(
-        support: Support,
-        object: Presented,
-        cognition: Cognition,
-        immediately_precedes: bool,
-    ) -> Result<Self, ClassificationError> {
-        match cognition.channel {
-            Channel::Mind => {
-                if !matches!(support, Support::ImmediatelyPast(_)) {
-                    return Err(ClassificationError::MentalSupportRequired);
-                }
-                if object != Presented::DharmaObject {
-                    return Err(ClassificationError::MentalObjectRequired);
-                }
-                if !immediately_precedes {
-                    return Err(ClassificationError::ImmediatePrecedenceRequired);
-                }
+#[derive(Clone, Copy, Debug, Eq, PartialEq)]
+struct Encounter {
+    support: Support,
+    object: Presented,
+    cognition: Cognition,
+    positions: [Position; 3],
+}
+
+#[derive(Clone, Copy, Debug, Eq, PartialEq)]
+enum ClassError {
+    NeedFaculty,
+    NeedField,
+    BrokenPair,
+    ManasIsARole,
+    NeedDharmaObject,
+}
+
+fn encounter(
+    support: Support,
+    object: Presented,
+    cognition: Cognition,
+) -> Result<Encounter, ClassError> {
+    let positions = match cognition.channel {
+        Channel::Sense(s) => {
+            let Support::Faculty(faculty) = support else {
+                return Err(ClassError::NeedFaculty);
+            };
+            let Presented::Field(field) = object else {
+                return Err(ClassError::NeedField);
+            };
+            if faculty != s || field != s {
+                return Err(ClassError::BrokenPair);
             }
-            sensory_channel => {
-                let Support::Sensory(support_sense) = support else {
-                    return Err(ClassificationError::WrongCognitionChannel);
-                };
-                let Presented::Sensory(object_sense) = object else {
-                    return Err(ClassificationError::WrongSensoryPair);
-                };
-                if Channel::from(support_sense) != sensory_channel
-                    || support_sense != object_sense {
-                    return Err(ClassificationError::WrongSensoryPair);
-                }
-            }
+            [
+                Position::Sense {
+                    channel: s,
+                    role: SenseRole::Support,
+                },
+                Position::Sense {
+                    channel: s,
+                    role: SenseRole::Object,
+                },
+                Position::Sense {
+                    channel: s,
+                    role: SenseRole::Cognition,
+                },
+            ]
         }
-        Ok(Self { support, object, cognition })
-    }
+        Channel::Mind => {
+            let Support::PastCitta { .. } = support else {
+                return Err(ClassError::ManasIsARole);
+            };
+            if object != Presented::Dharma {
+                return Err(ClassError::NeedDharmaObject);
+            }
+            [
+                Position::ManoDhatu,
+                Position::DharmaDhatu,
+                Position::ManoVijnana,
+            ]
+        }
+    };
+    Ok(Encounter {
+        support,
+        object,
+        cognition,
+        positions,
+    })
+}
 
-    fn dhatu_positions(&self) -> [Dhatu; 3] {
-        let channel = self.cognition.channel;
-        [Dhatu::Support(channel), Dhatu::Object(channel),
-         Dhatu::Cognition(channel)]
+/// Role-change. The same citta was a cognition; it is now support.
+/// It does not become the object, and it does not fill dharmadhātu.
+fn as_manas(previous: Cognition, status: ManasStatus) -> Support {
+    Support::PastCitta {
+        which: previous,
+        status,
     }
 }
 
-// A real temporal model would witness immediate precedence rather than
-// accept a caller-supplied bool. The parameter keeps that dependency
-// visible in this research sketch instead of hiding it in `close()`.
-// A past cognition can occupy manodhātu's support position without losing
-// its earlier cognition classification. Nor must a successor arise for an
-// arhat's final citta to retain manas status: VAK 1.17 says another cause
-// can be absent. Therefore no `last().unwrap()` or fabricated event.
-fn as_manas(previous: Cognition) -> Support {
-    Support::ImmediatelyPast(previous)
-}
+fn eye_example() -> Result<Encounter, ClassError> {
+    let visible = classify(Content::Field(Sense::Eye));
+    assert_eq!(visible.gathered, Some(Gathered::Rupa));
+    assert_eq!(visible.sphere, Sphere::Field(Sense::Eye));
+    assert_eq!(
+        visible.position,
+        Position::Sense {
+            channel: Sense::Eye,
+            role: SenseRole::Object,
+        }
+    );
 
-// Dharmadhātu is the object position of mental cognition. Its range
-// includes feeling, recognition, formations, avijñapti, and unconditioned
-// factors (VAK 1.15–1.16). It is not just prior cognition. Support and
-// object cannot both be modeled as “the system's recent history.”
-
-// 4. A visible form moves through three classifications without changing
-// into three separate things.
-
-fn eye_example() -> Result<Encounter, ClassificationError> {
-    let eye = Sense::Eye;
-    let visible = classify(Dharma::SensoryField(eye));
-    assert_eq!(visible.skandha, Some(Skandha::Rupa));
-    assert_eq!(visible.ayatana, Ayatana::Field(eye));
-    assert_eq!(visible.dhatu, Dhatu::Object(Channel::Eye));
-
-    let seeing = Cognition { channel: Channel::Eye, occurrence: 42 };
-    let encounter = Encounter::classify(
-        Support::Sensory(eye), Presented::Sensory(eye), seeing, false,
+    let seeing = Cognition {
+        channel: Channel::Sense(Sense::Eye),
+        occurrence: 42,
+    };
+    let met = encounter(
+        Support::Faculty(Sense::Eye),
+        Presented::Field(Sense::Eye),
+        seeing,
     )?;
-    assert_eq!(encounter.dhatu_positions(), [
-        Dhatu::Support(Channel::Eye),
-        Dhatu::Object(Channel::Eye),
-        Dhatu::Cognition(Channel::Eye),
-    ]);
-    Ok(encounter)
+    assert_eq!(
+        met.positions,
+        [
+            Position::Sense {
+                channel: Sense::Eye,
+                role: SenseRole::Support,
+            },
+            Position::Sense {
+                channel: Sense::Eye,
+                role: SenseRole::Object,
+            },
+            Position::Sense {
+                channel: Sense::Eye,
+                role: SenseRole::Cognition,
+            },
+        ]
+    );
+    Ok(met)
 }
 
-fn mental_example() -> Result<Encounter, ClassificationError> {
-    // The eye cognition can next be considered in the support role.
-    // Its prior result does not exhaust the dharma-object field.
-    let earlier = Cognition { channel: Channel::Eye, occurrence: 42 };
-    let present = Cognition { channel: Channel::Mind, occurrence: 43 };
-    Encounter::classify(
-        as_manas(earlier), Presented::DharmaObject, present, true,
+fn cross_map_example() {
+    let avijnapti = classify(Content::Avijnapti);
+    let unconditioned = classify(Content::Unconditioned);
+    let feeling = classify(Content::Feeling);
+
+    assert_eq!(avijnapti.position, Position::DharmaDhatu);
+    assert_eq!(unconditioned.position, Position::DharmaDhatu);
+    assert_eq!(feeling.position, Position::DharmaDhatu);
+
+    assert_eq!(avijnapti.gathered, Some(Gathered::Rupa));
+    assert_eq!(unconditioned.gathered, None);
+    assert_eq!(feeling.gathered, Some(Gathered::Vedana));
+
+    let seeing = classify(Content::Cognition(Cognition {
+        channel: Channel::Sense(Sense::Eye),
+        occurrence: 42,
+    }));
+    assert_eq!(seeing.sphere, Sphere::Mind);
+    assert_eq!(
+        seeing.position,
+        Position::Sense {
+            channel: Sense::Eye,
+            role: SenseRole::Cognition,
+        }
+    );
+}
+
+fn mental_example() -> Result<Encounter, ClassError> {
+    let earlier = Cognition {
+        channel: Channel::Sense(Sense::Eye),
+        occurrence: 42,
+    };
+    let present = Cognition {
+        channel: Channel::Mind,
+        occurrence: 43,
+    };
+    // The eye-citta changes role. It is not "recent history," and it is
+    // not the dharma-object.
+    encounter(
+        as_manas(earlier, ManasStatus::Precedes { next: 43 }),
+        Presented::Dharma,
+        present,
     )
 }
 
-// The sensory field is not yet a finished Object of knowledge. `Viṣaya`
-// names its role here; comprehension of `vastu` is a further Organon
-// problem, not a return value of Encounter::classify.
-
-// 5. Completeness is a separate, explicitly scoped research conjecture.
-
-#[derive(Clone, Copy, Debug, Eq, PartialEq)]
-enum Verdict { Determined, Outstanding, Unexamined }
-
-#[derive(Clone, Copy, Debug, Eq, PartialEq)]
-struct KnowingTask<Object, Mode> { object: Object, mode: Mode }
-
-trait Knower<Object, Mode> {
-    fn assess(&self, task: KnowingTask<Object, Mode>) -> Verdict;
+fn final_citta_is_still_manas() -> Support {
+    let last = Cognition {
+        channel: Channel::Mind,
+        occurrence: 99,
+    };
+    as_manas(last, ManasStatus::NoFurtherCause)
 }
 
-fn complete_on<K, Object, Mode>(
-    knower: &K,
-    tasks: impl IntoIterator<Item = KnowingTask<Object, Mode>>,
-) -> bool
-where K: Knower<Object, Mode> {
-    let mut tasks = tasks.into_iter().peekable();
-    // The empty audit has no warrant to call any mind complete.
-    tasks.peek().is_some()
-        && tasks.all(|task| knower.assess(task) == Verdict::Determined)
+// Viṣaya names the sensory field's role. Comprehension of vastu is a
+// further Organon problem, not a return value of `encounter`.
+
+// 5. Counts are schemas, not ontologies.
+//
+// VAK 1.01 (sarvathā / sarvatra) is another theorem. Eighteen positions
+// are not eighteen knowing-tasks. A finite audit of this file cannot
+// establish exhaustive knowing. That conjecture does not live here.
+// Station order of the indriyas does not live here either.
+
+fn schema_counts() {
+    assert_eq!(sensory_positions().count(), 15);
+    assert_eq!(eighteen_positions().count(), 18);
+    assert_eq!(twelve_spheres().count(), 12);
 }
 
-// This proves completeness only relative to the supplied scope. VAK
-// 1.01's sarvathā / sarvatra makes an unrestricted claim about modes and
-// knowables. Eighteen dhātu positions are *not* eighteen knowing tasks;
-// a finite audit cannot establish the Buddha's exhaustive knowledge.
+// 6. Architectural wager.
+//
+// Skandha asks: under what gathered kind is this content considered?
+// Āyatana asks: in what capacity/field sphere is it available?
+// Dhātu asks: which position does it occupy — and, for manas, in which role?
+//
+// Overlap is the datum. Avijñapti stays rūpa while sitting in dharmāyatana
+// and dharmadhātu. The unconditioned sits in those same two and in no skandha.
+// Six cognitions are one skandha and one Sphere, then six cognition-domains.
+//
+// If a source distinction defeats this, revise the types. Do not restore
+// a flat 5/12/18 mnemonic and call it a movement.
 
-// 6. The architectural wager.
-//
-// Skandha asks: under what gathered kind is this occurrence considered?
-// Āyatana asks: in what capacity/field sphere does it become available?
-// Dhātu asks: which support/object/cognition position does it occupy?
-//
-// Their overlap is the important datum. Avijñapti remains rūpa as
-// aggregate while entering dharmāyatana and dharmadhātu in the other
-// arrangements. A 5/12/18 mnemonic does not express that movement.
-//
-// The Organon's Being–Essence–Concept reading must answer to the exact
-// cross-mappings and to manas as a change of role within one stream.
-// If a source distinction defeats the analogy, revise the analogy.
+#[cfg(test)]
+mod checks {
+    use super::*;
+
+    #[test]
+    fn the_schema_holds() {
+        schema_counts();
+        cross_map_example();
+        eye_example().unwrap();
+        let met = mental_example().unwrap();
+        assert_eq!(
+            met.positions,
+            [
+                Position::ManoDhatu,
+                Position::DharmaDhatu,
+                Position::ManoVijnana,
+            ]
+        );
+        assert!(matches!(
+            final_citta_is_still_manas(),
+            Support::PastCitta {
+                status: ManasStatus::NoFurtherCause,
+                ..
+            }
+        ));
+    }
+}
