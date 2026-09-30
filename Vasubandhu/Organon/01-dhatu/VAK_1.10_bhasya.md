@@ -1,4 +1,4 @@
-# VAK_1.10 Bhāṣya — Sensory Differentiation and the Own-Character of a Domain
+# VAK_1.10 Bhāṣya — Modes of the Five Domains
 
 ## 1. Kārikā Anchor
 
@@ -6,540 +6,145 @@
 >
 > ṣoḍhā caturvidho gandhaḥ spṛśyam ekādaśātmakam // 1.10 //
 
-> Visible form is twofold and, in further enumeration, twentyfold. Sound is
-> eightfold; taste is sixfold; odor is fourfold; the tangible is constituted
-> by eleven kinds.
+Literal (from the kārikā study):
 
-The Bhāṣya explains the five sensory objects announced at the end of 1.09.
-It proceeds from their classifications to the way sensory cognition
-apprehends them, ending with the order of cognition when taste and touch
-are simultaneously presented.
+> Visible form is twofold [and] twentyfold. Sound, however, is eightfold; taste is sixfold; odor is fourfold; the tangible has eleven kinds as its nature.
 
-## 2. Continuous Sanskrit
+Kārikā study: [`VAK_1.10.md`](./VAK_1.10.md). Previous: 1.09, faculties and domains. Next: 1.11, avijñapti.
+
+## 2. Continuous Sanskrit Witness
 
 > tatra tāvat /
->
-> rūpaṃ dvidhā
->
-> varṇaḥ saṃsthānaṃ ca / tatra varṇaścaturvidho nīlādiḥ / tadbhedā anye /
->
+> rūpaṃ dvidhā /
+> varṇaḥ saṃsthānaṃ ca / tatra varṇaś caturvidho nīlādiḥ / tadbhedā anye /
 > saṃsthānam aṣṭavidhaṃ dīrghādi visātāntam /
->
-> tadeva rūpāyatanaṃ punarucyate /
->
-> viṃśatidhā
->
-> tadyathā nīlaṃ pītaṃ lohitamavadātaṃ dīrghaṃ hrasvaṃ vṛttaṃ parimaṇḍalaṃ
-> unnatamavanataṃ sātaṃ visātaṃ abhraṃ dhūmo rajo mahikā cchāyā ātapaḥ ālokaḥ
-> andhakāramiti /
->
-> kecinnabhaścaikavarṇamiti ekaviṃśatiṃ saṃpaṭhanti /
->
-> tatra sātaṃ samasthānam / visātaṃ viṣamasthānam / mahikā nīhāraḥ / ātapaḥ
-> sūryaprabhā /
->
+> tad eva rūpāyatanaṃ punar ucyate /
+> viṃśatidhā /
+> tadyathā nīlaṃ pītaṃ lohitam avadātaṃ dīrghaṃ hrasvaṃ vṛttaṃ parimaṇḍalaṃ unnatam avanataṃ sātaṃ visātaṃ abhraṃ dhūmo rajo mahikā cchāyā ātapaḥ ālokaḥ andhakāram iti /
+> kecin nabhaś caikavarṇam iti ekaviṃśatiṃ saṃpaṭhanti /
+> tatra sātaṃ samasthānam / visātaṃ viṣamasthānam / mahikā nīhāraḥ / ātapaḥ sūryaprabhā /
 > ālokaḥ candratārakāgnyoṣadhimaṇīnāṃ prabhā /
->
-> chāyā yatra rūpāṇāṃ darśanam / viparyayādandhakāram /
->
-> śeṣaṃ sugamatvānna vipañcitam /
->
-> asti rūpāyatanaṃ varṇato vidyate na saṃsthānataḥ
->
+> chāyā yatra rūpāṇāṃ darśanam / viparyayād andhakāram /
+> śeṣaṃ sugamatvān na vipañcitam /
+> asti rūpāyatanaṃ varṇato vidyate na saṃsthānataḥ /
 > nīlapītalohitāvadātacchāyātapālokāndhakārākhyam /
->
 > asti saṃsthānato na varṇataḥ /
->
 > ghādīnāṃ pradeṣaḥ kāyavijñaptisvabhāvaḥ /
+> asty ubhayathā / pariśiṣṭaṃ rūpāyatanam /
+> ātapālokāv eva varṇato vidyete ity apare /
+> “dṛśyate hi nīlādīnāṃ dīrghādipariccheda” iti /
+> kathaṃ punar ekaṃ dravyam ubhayathā vidyate / asty ubhayasya tatra prajñānāt /
+> jñānārtho hy eṣa vidir na sattārthaḥ /
+> kāyavijñaptāv api tarhi prasaṅgaḥ / uktaṃ rūpāyatanam //
 >
-> astyubhayathā / pariśiṣṭaṃ rūpāyatanam /
->
-> ātapālokāveva varṇato vidyete ityapare /
->
-> "dṛśyate hi nīlādīnāṃ dīrghādipariccheda" iti /
->
-> kathaṃ punarekaṃ dravyamubhayathā vidyate / astyubhayasya tatra prajñānāt /
->
-> jñānārtho hyeṣa vidirna sattārthaḥ /
->
-> kāyavijñaptāvapi tarhi prasaṅgaḥ / uktaṃ rūpāyatanaṃ //
->
-> śabdastvaṣṭavidhaḥ /
->
-> upāttānupāttamahābhūtahetukaḥ sattvāsattvākhyaśceti caturvidhaḥ /
->
-> punarmanojñāmanojñabhedādaṣṭavidho bhavati /
->
-> tatropāttamahābhūtahetuko yathā hastavākchabdaḥ /
->
+> śabdas tv aṣṭavidhaḥ /
+> upāttānupāttamahābhūtahetukaḥ sattvāsattvākhyaś ceti caturvidhaḥ /
+> punar manojñāmanojñabhedād aṣṭavidho bhavati /
+> tatrōpāttamahābhūtahetuko yathā hastavākchabdaḥ /
 > anupāttamahābhūtahetuko yathā vāyuvanaspatinadīśabdaḥ /
->
 > sattvākhyo vāgvijñaptiśabdaḥ /
->
-> asattvākhyo 'nyaḥ
->
-> upāttānupāttamahābhūtahetuko 'pyasti śabda ityapare /
->
+> asattvākhyo 'nyaḥ /
+> upāttānupāttamahābhūtahetuko 'py asti śabda ity apare /
 > tadyathā hastamṛdaṅgasaṃyogaja iti /
->
-> sa tu yathaiko varṇaparamāṇurna bhūtacatuṣkadvayamupādāyeṣyate tathā
-> naivaiṣṭavya iti /
->
+> sa tu yathaiko varṇaparamāṇur na bhūtacatuṣkadvayam upādāyeṣyate tathā naivaiṣṭavya iti /
 > uktaḥ śabdaḥ //
 >
-> rasaḥ /
->
-> ṣoḍhā
->
+> rasaḥ / ṣoḍhā /
 > madhurāmlalavaṇakaṭukatiktakaṣāyabhedāt /
+> caturvidho gandhaḥ /
+> sugandhadurgandhayoḥ samaviṣamagandhatvāt / trividhas tu śāstre /
+> “sugandho durgandhaḥ samagandha” iti /
+> spṛśyam ekādaśātmakam /
+> spraṣṭavyam ekādaśadravyasvabhāvam /
+> catvāri mahābhūtāni ślakṣṇatvaṃ karkaśatvaṃ gurutvaṃ laghutvaṃ śītaṃ jighatsā pipāsā ceti /
+> tatra bhūtāni paścād vakṣyāmaḥ /
+> ślakṣṇatvaṃ mṛdutā / karkaśatvaṃ paruṣatā / gurutvaṃ yena bhāvās tulyante / laghutvaṃ viparyayāt /
+> śītam uṣṇābhilāṣakṛt / jighatsā bhojanābhilāṣakṛt / kāraṇe kāryopacārāt /
+> yathā “buddhānāṃ sukha utpādaḥ sukhā dharmasya deśanā / sukhā saṅghasya sāmagrī samagrāṇāṃ tapaḥ sukham” iti /
+> tatra rūpadhātau jighatsāpipāse na staḥ / śeṣam asti /
+> yady api tatra vastrāṇy ekaśo na tulyante sañcitāni punas tulyante /
+> śītam upaghātakaṃ nāsti / anugrāhakaṃ kilāsti /
 >
-> caturvidho gandhaḥ
->
-> sugandhadurgandhayoḥ samaviṣamagandhatvāt / trividhastu śāstre /
->
-> "sugandho durgandhaḥ samagandha" iti /
->
-> spṛśyamekādaśātmakam // 1.10 //
->
-> spraṣṭavyamekādaśadravyasvabhāvam /
->
-> catvāri mahābhūtāni ślakṣṇatvaṃ karkaśatvaṃ gurutvaṃ laghutvaṃ śītaṃ
-> jighatsā pipāsā ceti /
->
-> tatra bhūtāni paścādvakṣyāmaḥ /
->
-> ślakṣṇatvaṃ mṛdutā /
->
-> karkaśatvaṃ paruṣatā / gurutvaṃ yena bhāvāstulyante / laghutvaṃ viparyayāt /
->
-> śītamuṣṇābhilāṣakṛt /
->
-> jighatsā bhojanābhilāṣakṛt / kāraṇe kāryopacārāt / yathā
->
-> "buddhānāṃ sukha utpādaḥ sukhā dharmasya deśanā / sukhā saṅghasya sāmagrī
-> samagrāṇāṃ tapaḥ sukhaṃ" // iti /
->
-> tatra rūpadhātau jighatsāpipāse na staḥ / śeṣamasti
->
-> yadyapi tatra vastrāṇyekaśo na tulyante sañcitāni punastulyante /
->
-> śītamupaghātakaṃ nāsti /
->
-> anugrāhakaṃ kilāsti /
->
-> yadetadbahuvidhaṃ rūpamuktaṃ tatra kadācidekena dravyeṇa
-> cakṣurvijñānamutpadyate yadā tatprakāravyavacchedo bhavati /
->
-> kadācid bahubhiryadā na vyavacchedaḥ /
->
-> tadyathā senāvyūhamanekavarṇasaṃsthānaṃ maṇisamūhaṃ ca dūrāt paśyataḥ /
->
-> evaṃ śrotrādivijñānaṃ veditavyaṃ /
->
-> kāyavijñānaṃ tu paraṃ pañcabhiḥ spraṣṭavyairutpadyata ityeke /
->
-> caturbhirmahābhūtairekena ca ślakṣṇatvādinā /
->
-> sarvairekādaśabhirityapare /
->
-> nanu caivaṃ samastālambanatvāt sāmānyaviṣayāḥ pañca vijñānakāyāḥ prāpnuvanti
-> na svalakṣaṇaviṣayāḥ /
->
-> āyatanasvalakṣaṇaṃ pratyete svalakṣaṇaviṣayā iṣyante na
-> dravyasvalakṣaṇamityadoṣaḥ /
->
+> yad etad bahuvidhaṃ rūpam uktaṃ tatra kadācid ekena dravyeṇa cakṣurvijñānam utpadyate yadā tatprakāravyavacchedo bhavati /
+> kadācid bahubhir yadā na vyavacchedaḥ /
+> tadyathā senāvyūham anekavarṇasaṃsthānaṃ maṇisamūhaṃ ca dūrāt paśyataḥ /
+> evaṃ śrotrādivijñānaṃ veditavyam /
+> kāyavijñānaṃ tu paraṃ pañcabhiḥ spraṣṭavyair utpadyata ity eke /
+> caturbhir mahābhūtair ekena ca ślakṣṇatvādinā /
+> sarvair ekādaśabhir ity apare /
+> nanu caivaṃ samastālambanatvāt sāmānyaviṣayāḥ pañca vijñānakāyāḥ prāpnuvanti na svalakṣaṇaviṣayāḥ /
+> āyatanasvalakṣaṇaṃ praty ete svalakṣaṇaviṣayā iṣyante na dravyasvalakṣaṇam ity adoṣaḥ /
 > idaṃ vicāryate /
->
-> kāyajihvendriyayoryugapad viṣayaprāptau satyāṃ katarad vijñānaṃ
-> pūrvamutpadyate /
->
+> kāyajihvendriyayor yugapad viṣayaprāptau satyāṃ katarad vijñānaṃ pūrvam utpadyate /
 > yasya viṣayaḥ paṭīyān /
->
-> samaprāpte tu viṣaye jihvāvijñānaṃ pūrvamutpadyate /
->
+> samaprāpte tu viṣaye jihvāvijñānaṃ pūrvam utpadyate /
 > bhoktukāmatāvarjitatvāt santateḥ /
->
-> uktāḥ pañcendriyārthāḥ yathā ca teṣāṃ grahaṇaṃ /
+> uktāḥ pañcendriyārthāḥ yathā ca teṣāṃ grahaṇam /
 
-The natural unit runs from `tatra tāvat` at source marker `[006|07]` through
-`uktāḥ pañcendriyārthāḥ yathā ca teṣāṃ grahaṇam` at `[007|27]`–`[007|28]`.
-The preceding announcement that the five objects are to be explained is
-retained at the close of 1.09. The following announcement of avijñapti opens
-1.11.
+**Witness.** Pradhan `[006|07]`–`[007|28]`. Next unit: `avijñaptir idānīṃ vaktavyā`.
 
-This transcription follows the local IAST, retaining its compound word
-joining while removing page apparatus and normalizing evident transcription
-errors. Working normalizations are: `samsthāna` -> `saṃsthāna`,
-`dīrghadi` -> `dīrghādi`, `vimśati` -> `viṃśati`, `maṇīnaṃ` -> `maṇīnāṃ`,
-`nīlapītalohitavadāta` -> `nīlapītalohitāvadāta`, `nīlādīnaṃ` ->
-`nīlādīnāṃ`, `mahābhuta` -> `mahābhūta`, `vijñaptiṣabda` ->
-`vijñaptiśabda`, `yathaikau` -> `yathaiko`, `ṣoḍha` -> `ṣoḍhā`,
-`titta` -> `tikta`, `ātmadkam` -> `ātmakaṃ`, `vakṣyāmḥ` -> `vakṣyāmaḥ`,
-`sasntateḥ` -> `santateḥ`, and `pañācendriya` -> `pañcendriya`. The
-damaged separator `viṣama sthānaml` is read as `viṣamasthānam /`. These are
-editorial normalizations, not independently verified readings. The local
-IAST identifies itself as a corrected best
-reading based especially on Pradhan and also on Shastri; its original e-text
-provenance is unknown, and it is not a critical edition.
-
-Two places require particular caution. The damaged
-`ghādīnāṃ pradeṣaḥ kāyavijñaptisvabhāvaḥ` is retained in the Sanskrit;
-the translation supplies “[a portion of the long and the other
-configurations]” provisionally from the surrounding classification. The
-source's `bhoktukāmatāvarjitatvāt` is construed as
-`bhoktukāmatā-āvarjitatvāt`, being inclined by the desire to eat, with
-`santateḥ` as its genitive subject. The precise wording of the first passage
-remains unresolved. The local HTML transcription repeats these forms and
-supplies no independent correction. No independent collation against the
-printed editions has been made here.
+**Faults.** Damaged `ghādīnāṃ pradeṣaḥ kāyavijñaptisvabhāvaḥ` kept as-is; translation marks the configuration-only example as provisional. `bhoktukāmatāvarjitatvāt` read as inclination by desire to eat. Local IAST is an edited best reading, not a critical edition.
 
 ## 3. Continuous Conventional Translation
 
-> First, visible form is twofold: color and configuration. Color is fourfold,
-> beginning with blue; the others are subdivisions of these. Configuration
-> is eightfold, beginning with long and ending with uneven. That same
-> visible-form sense-base is further said to be twentyfold: blue, yellow,
-> red, white, long, short, round, circular, raised, lowered, even, uneven,
-> cloud, smoke, dust, mist, shadow, sunlight, light, and darkness. Some also
-> recite a twenty-first, the single-colored sky.
+> First, visible form is twofold: color and configuration. Color is fourfold, beginning with blue; the others are subdivisions of these. Configuration is eightfold, beginning with long and ending with uneven. That same visible-form sphere is further said to be twentyfold: blue, yellow, red, white, long, short, round, circular, raised, lowered, even, uneven, cloud, smoke, dust, mist, shadow, sunlight, light, and darkness. Some also recite a twenty-first, the single-colored sky.
 >
-> Here “even” is an even configuration; “uneven” is an uneven configuration.
-> Mist is fog. Sunlight is the radiance of the sun. Light is the radiance of
-> the moon, stars, fire, herbs, and jewels. Shadow is where visible forms can
-> be seen; darkness is the reverse. The rest is not explained in detail
-> because it is easy to understand.
+> Here “even” is an even configuration; “uneven” is an uneven configuration. Mist is fog. Sunlight is the radiance of the sun. Light is the radiance of the moon, stars, fire, herbs, and jewels. Shadow is where visible forms can be seen; darkness is the reverse. The rest is not explained in detail because it is easy to understand.
 >
-> There is visible form known through color and not through configuration:
-> that called blue, yellow, red, white, shadow, sunlight, light, and darkness.
-> There is that known through configuration and not through color: [a portion
-> of the long and the other configurations] whose nature is bodily
-> manifestation. There is that known in both ways: the remainder of the
-> visible-form sense-base. Others say that sunlight and light alone are known
-> through color, for a delimitation as long and so forth is seen in blue and
-> the other colors.
+> There is visible form known through color and not through configuration: that called blue, yellow, red, white, shadow, sunlight, light, and darkness. There is that known through configuration and not through color: [a portion of the long and the other configurations] whose nature is bodily manifestation. There is that known in both ways: the remainder of the visible-form sphere. Others say that sunlight and light alone are known through color, for a delimitation as long and so forth is seen in blue and the other colors.
 >
-> But how can one substance be known in both ways? It can, because both are
-> cognized there. For this verb “vid” has the sense of knowing, not of
-> existing. Then the same consequence would follow for bodily manifestation
-> too. The visible-form sense-base has been explained.
+> But how can one substance be known in both ways? It can, because both are cognized there. For this *vid* has the sense of knowing, not of existing. Then the same consequence would follow for bodily manifestation too. The visible-form sphere has been explained.
 >
-> Sound, however, is eightfold. It is fourfold as caused by appropriated or
-> non-appropriated great elements and as designated sentient or non-sentient.
-> It becomes eightfold through the further distinction of agreeable and
-> disagreeable. Sound caused by appropriated great elements is, for example,
-> the sound of a hand or of speech. Sound caused by non-appropriated great
-> elements is, for example, the sound of wind, trees, or rivers. Sound
-> designated sentient is the sound of vocal manifestation; the other sound
-> is designated non-sentient.
+> Sound, however, is eightfold. It is fourfold as caused by appropriated or non-appropriated great Elements and as designated sentient or non-sentient. It becomes eightfold through the further distinction of agreeable and disagreeable. Sound caused by appropriated great Elements is, for example, the sound of a hand or of speech. Sound caused by non-appropriated great Elements is, for example, the sound of wind, trees, or rivers. Sound designated sentient is the sound of vocal manifestation; the other sound is designated non-sentient. Others say there is also sound caused by both appropriated and non-appropriated great Elements, for example that produced by the conjunction of a hand and a drum. But just as one atom of color is not accepted as depending upon two sets of four great Elements, this should not be accepted either. Sound has been explained.
 >
-> Others say that there is also sound caused by both appropriated and
-> non-appropriated great elements, for example that produced by the conjunction
-> of a hand and a drum. But just as one atom of color is not accepted as
-> depending upon two sets of four great elements, this should not be accepted
-> either. Sound has been explained.
+> Taste is sixfold, through the distinction of sweet, sour, salty, pungent, bitter, and astringent. Odor is fourfold because pleasant and unpleasant odors each have even and uneven odor. In the treatise, however, it is threefold: pleasant odor, unpleasant odor, and even odor.
 >
-> Taste is sixfold, through the distinction of sweet, sour, salty, pungent,
-> bitter, and astringent. Odor is fourfold because pleasant and unpleasant
-> odors each have even and uneven odor. In the treatise, however, it is
-> threefold: pleasant odor, unpleasant odor, and even odor.
+> The tangible is constituted by eleven kinds. Its nature consists of eleven substances: the four great Elements, smoothness, roughness, heaviness, lightness, cold, hunger, and thirst. We shall explain the Elements later. Smoothness is softness. Roughness is harshness. Heaviness is that by which things are weighed; lightness is the reverse. Cold produces desire for warmth. Hunger produces desire for food. This is a figurative application of the effect to the cause, as in: “The arising of Buddhas is happiness; the teaching of Dharma is happiness; the concord of the Saṅgha is happiness; the discipline of those in concord is happiness.”
 >
-> The tangible is constituted by eleven kinds. Its nature consists of eleven
-> substances: the four great elements, smoothness, roughness, heaviness,
-> lightness, cold, hunger, and thirst. We shall explain the elements later.
-> Smoothness is softness. Roughness is harshness. Heaviness is that by which
-> things are weighed; lightness is the reverse. Cold produces desire for
-> warmth. Hunger produces desire for food. This is a figurative application
-> of the effect to the cause, as in: “The arising of Buddhas is happiness;
-> the teaching of Dharma is happiness; the concord of the Saṅgha is happiness;
-> the discipline of those in concord is happiness.”
+> In the form realm, hunger and thirst are absent; the remainder is present. Although garments there are not weighed individually, they are weighed when accumulated. Injurious cold is absent; beneficial coolness is said to be present.
 >
-> In the form realm, hunger and thirst are absent; the remainder is present.
-> Although garments there are not weighed individually, they are weighed
-> when accumulated. Injurious cold is absent; beneficial coolness is said to
-> be present.
+> Among the many kinds of visible form just stated, eye-cognition sometimes arises with one substance, when that particular kind is distinguished. Sometimes it arises with many, when there is no such distinction: for example, when someone sees from a distance a military formation of many colors and configurations or a collection of jewels. Ear-cognition and the other cognitions should be understood in the same way. Some say that body-cognition arises with at most five tangibles: the four great Elements and one of smoothness and the rest. Others say with all eleven. But in that case, because their support-object is a collection, would the five groups of cognition not have a common-character domain instead of an own-character domain? There is no fault: they are accepted as having own-character domains with reference to the own-character of the sphere, not the own-character of an individual substance.
 >
-> Among the many kinds of visible form just stated, eye-cognition sometimes
-> arises with one substance, when that particular kind is distinguished.
-> Sometimes it arises with many, when there is no such distinction: for
-> example, when someone sees from a distance a military formation of many
-> colors and configurations or a collection of jewels. Ear-cognition and the
-> other cognitions should be understood in the same way.
->
-> Some say that body-cognition arises with at most five tangibles: the four
-> great elements and one of smoothness and the rest. Others say with all
-> eleven. But in that case, because their object is a collection, would the
-> five groups of cognition not have a common-character object instead of an
-> own-character object? There is no fault: they are accepted as having
-> own-character objects with reference to the own-character of the sense-base,
-> not the own-character of an individual substance.
->
-> This is considered: when an object reaches the body and tongue faculties
-> simultaneously, which cognition arises first? That whose object is more
-> intense. When the object is presented equally, tongue-cognition arises
-> first, because the continuum is inclined by the desire to eat. The five
-> objects of the faculties have been explained, together with how they are
-> apprehended.
+> This is considered: when a domain reaches the body and tongue faculties simultaneously, which cognition arises first? That whose domain is more intense. When the domain is presented equally, tongue-cognition arises first, because the continuum is inclined by the desire to eat. The five *arthas* of the faculties have been explained, together with how they are apprehended.
 
 ## 4. Movement of the Commentary
 
-The verse supplies five counts. The prose explains their different grounds
-and then asks what these differentiated fields imply for sensory cognition:
-
 ```text
-five sensory domains
-    → their internal classifications
-    → qualifications, alternative enumerations, and objections
-    → one or many material constituents in sensory apprehension
-    → own-character of a sense-base versus an individual substance
-    → priority of cognition when taste and touch arrive together
+five domains of 1.09
+    → internal counts
+        → visible form: dyad, then twenty (some: twenty-one)
+        → known by color / configuration / both
+        → vid = Knowing-sense, not existence-sense
+        → open objection on bodily manifestation
+        → sound, taste, odor, tangible
+    → one or many substances in a cognition
+    → Sphere-own-character vs substance-own-character
+    → tongue before body when presentation is equal
 ```
 
-The local research report omits several parts of that movement: the
-alternative restriction of color-only visibility to sunlight and light;
-the renewed objection concerning bodily manifestation; the verse illustrating
-naming a cause by its effect; and the final taste/touch inquiry. All are
-retained in the continuous reading here.
+The commentary does not choose between five and eleven tangibles for body-cognition. It does not answer the bodily-manifestation objection. Those limits stay.
 
-The commentary does not resolve every question it raises. Its visible-form
-discussion ends immediately after the renewed objection. The alternatives
-of five or eleven tangibles are reported without an explicit selection.
-These limits belong to the argument as transmitted.
+## 5. The Bhāṣya's Decisions for the Kārikā
 
-## 5. Visible Form: Classification, Cognition, and an Open Objection
+1. *Rūpa* here is the visible-form sphere, one domain of 1.09, not the aggregate.
+2. Twofold and twentyfold describe that same sphere at two grains. The twenty is not a second domain. Single-colored sky is a visible-form kind, not 1.05 *ākāśa*.
+3. *Vid* in the color/configuration dispute is Knowing-sense (*jñānārtha*), not existence-sense (*sattārtha*). Scope is this verb here.
+4. The configuration-only example is damaged in the local witness. Bodily manifestation is the topic; the exact phrase is provisional.
+5. Sound's eight is mixed respects, not eight equal causes. The hand-and-drum double basis is refused.
+6. Hunger is named from its effect. Thirst has no separate gloss in this witness.
+7. Own-character of the five cognition-groups is Sphere-own-character, not substance-own-character.
+8. Avijñapti is announced next. It is not a twelfth visible-form kind.
 
-**Twofold and twentyfold.** `Rūpa` here is the visible-form sense-base,
-`rūpāyatana`, one member of the aggregate analyzed in 1.09. Its primary
-division is color (`varṇa`) and configuration (`saṃsthāna`). Four basic
-colors and eight configurations are named; cloud, smoke, dust, mist, shadow,
-sunlight, light, and darkness complete the enumeration of twenty. Some
-recite the single-colored sky as a twenty-first. This sky entry is part of
-a visible-form enumeration; it does not itself identify the unconditioned
-space discussed in 1.05.
+## 6. Organon Note
 
-The paired renderings “round” and “circular” preserve `vṛtta` and
-`parimaṇḍala` provisionally. This unit gives no further geometrical
-definition with which to fix their English contrast. Likewise, the
-light/shadow descriptions are retained as local definitions rather than
-expanded into a general theory of visibility.
+Marked as project reconstruction.
 
-**Three modes of being known.** The prose distinguishes color alone,
-configuration alone, and both. In `varṇato` and `saṃsthānataḥ`, the
-adverbial suffix identifies the respect in which visible form is known.
-The damaged configuration-only example concerns bodily manifestation,
-`kāyavijñapti`. Its exact Sanskrit cannot be recovered securely from the
-local transcriptions.
+This card counts inside the Conditions of 1.09. *Varṇa : saṃsthāna* is the one dyad. The twenty and the other lists are empirical enumerations. Do not raise them to rational division.
 
-Another position restricts the color-only case to sunlight and light,
-pointing to the discernible long and other configurations of blue and the
-other colors. This is a substantive alternative to the preceding eight-item
-color-only list.
+*Jñānārtho hy eṣa vidir na sattārthaḥ* is why Kośa can be a science of dharma-knowing. The verb tracks Knowing. It does not found extra substances, and it does not empty the field. The open objection remains open.
 
-The question “How can one substance be known in both ways?” elicits the
-explicit semantic clarification:
+*Āyatana-svalakṣaṇa* is Essence at work: a collection can be seen and the cognition is still own-character-domained because the Sphere, not the atom, is the relevant particularity. Do not call *āyatana* the Concept. Do not spend Object on *viṣaya*.
 
-> jñānārtho hy eṣa vidir na sattārthaḥ
+## 7. Review Status
 
-Here the verb is used in the sense of knowing. The reply distinguishes how
-something is apprehended from an assertion about its existence. Its scope
-is this use of `vidyate` in the color/configuration classification.
-
-The next sentence renews the difficulty: if both can be cognized together,
-why would the same not follow for bodily manifestation? No further answer
-appears before the commentary closes the visible-form discussion. The
-semantic clarification therefore must be retained together with the
-challenge it leaves standing. It is not a warrant to recast every material
-classification in the chapter as exclusively epistemic.
-
-## 6. Sound, Taste, and Odor: Different Grounds of Division
-
-**Sound.** The eightfold count combines distinctions concerning material
-cause, sentient designation, and agreeableness. The compressed prose names
-appropriated/non-appropriated great elements and sentient/non-sentient
-designation, calling the resulting classification fourfold; agreeable and
-disagreeable then make it eightfold. These are different classificatory
-respects. The four terms should not be described as four equivalent causal
-sources, and the passage does not illustrate every combination separately.
-
-`Upātta` concerns the appropriation of the material basis within a living
-continuum. The hand and speech exemplify an appropriated basis; wind, trees,
-and rivers exemplify a non-appropriated basis. The separate gloss
-`sattvākhyo vāgvijñaptiśabdaḥ` identifies sentient-designated sound with
-vocal manifestation. This distinction is more specific than merely asking
-whether an organism makes a sound.
-
-The hand-and-drum example raises a question about a joint elemental basis.
-The reply appeals to the rule that one color atom is not derived from two
-sets of four great elements. Its target is the proposed double basis of one
-sound. The prose does not deny that hand and drum meet or supply a complete
-alternative account of every sound generated by their meeting.
-
-**Taste and odor.** Taste is divided into sweet, sour, salty, pungent,
-bitter, and astringent without a local dispute. Odor receives two binary
-distinctions: pleasant/unpleasant and even/uneven. The genitive dual
-`sugandhadurgandhayoḥ` makes evenness and unevenness apply to both pleasant
-and unpleasant odor. This yields four. The separately cited treatise list
-has three entries: pleasant, unpleasant, and even odor.
-
-The unit does not explain the precise sensory criterion of `sama` and
-`viṣama`. “Even” and “uneven” consequently remain close provisional
-renderings; no additional criterion of intensity or distribution is inserted
-into the translation.
-
-## 7. Tangibles and Naming a Cause by Its Effect
-
-The prose expands `ekādaśātmakam` as `ekādaśadravyasvabhāvam`: the tangible
-has eleven substances as its nature. It lists the four great elements and
-seven further tangibles. Their elemental explanation is expressly deferred.
-
-| Tangible determination | Local explanation |
-|---|---|
-| smoothness | softness |
-| roughness | harshness |
-| heaviness | that by which things are weighed |
-| lightness | the reverse of heaviness |
-| cold | productive of desire for warmth |
-| hunger | productive of desire for food |
-| thirst | included in the list; no separate definition in this witness |
-
-The absence of a separate thirst gloss matters. An analogous desire for
-drink is intelligible as explanation, but it is not a sentence present in
-the supplied Sanskrit and is not added to the continuous translation.
-
-`Kāraṇe kāryopacārāt` gives the semantic rule: an effect's designation is
-figuratively applied to its cause. The tangible condition is named through
-the desire it produces. The quoted verse illustrates calling auspicious
-causes “happiness” through their result. It thus explains a naming operation,
-rather than adding desire itself as another material constituent.
-
-The form-realm qualification removes hunger and thirst while retaining the
-other tangibles. Accumulated garments explain the applicability of weight;
-beneficial coolness is reported with `kila`, “it is said,” while injurious
-cold is excluded. These are doctrinal qualifications within the commentary,
-not measurements offered as contemporary physical evidence.
-
-## 8. Many Constituents and the Own-Character of a Sense-Base
-
-A cognition may apprehend one material kind distinctly, or many without
-separately distinguishing them. A distant military formation and a collection
-of jewels illustrate the second case. `Vyavaccheda` here concerns
-discrimination of the particular kind in the presented field. The text does
-not say that the viewer exhaustively identifies each constituent of a
-collection.
-
-For body-cognition, some allow at most the four great elements plus one
-further tangible; others allow all eleven. The ensuing objection asks whether
-apprehending a collection would make the five sensory cognitions concern
-common character (`sāmānya`) instead of own-character (`svalakṣaṇa`).
-
-The reply fixes the level at which own-character is being asserted:
-
-```text
-āyatana-svalakṣaṇa
-    own-character of the sense-base
-
-rather than the requirement of
-
-dravya-svalakṣaṇa
-    own-character of one individual substance
-```
-
-The accusative with `prati` in `āyatanasvalakṣaṇaṃ prati` specifies the
-reference of the claim. A sensory field can contain many material
-constituents while remaining within the determinate character of its
-sense-base. Multiplicity of constituents does not by itself make the
-cognition a grasp of common character.
-
-This reply distinguishes two levels of determination. It neither abolishes
-the individual substances named elsewhere in the unit nor makes the
-sense-base into a single new substance. It specifies the relevant sense of
-particularity for the five sensory cognitions.
-
-## 9. Which Cognition Arises First?
-
-The final inquiry moves from the composition of an object-field to the
-sequence of cognition. The locative absolute
-`kāyajihvendriyayor yugapad viṣayaprāptau satyām` sets the circumstance:
-an object reaches the body and tongue faculties simultaneously.
-
-The first criterion is relative intensity, `paṭīyān`: the cognition whose
-object is stronger arises first. Equal presentation introduces a second
-criterion. Tongue-cognition comes first because the continuum is inclined
-by the desire to eat. The statement is situated in this taste/touch case;
-it does not state an unrestricted precedence of taste over every other
-sensory cognition.
-
-The final `yathā ca teṣāṃ grahaṇam`, “and how they are apprehended,” confirms
-that the unit has explained more than a list of sensory objects. Its account
-includes multiplicity, discriminability, domain-specific character, and
-priority within a directed continuum.
-
-## 10. The Bhāṣya's Decisions for the Kārikā
-
-1. `Rūpa` is visible form here; the twofold division and twentyfold
-   enumeration concern the same sensory domain.
-2. The twenty-onefold variant and the alternative color-only account are
-   reported positions, while the renewed bodily-manifestation objection
-   remains unanswered within this unit.
-3. The knowing/existing clarification controls the local verb `vidyate`;
-   it should not be generalized into a denial of the material classifications.
-4. Sound's divisions concern several respects; taste and odor have their
-   own classificatory grounds. The threefold odor list remains visible
-   alongside the fourfold count.
-5. The elevenfold tangible is explicitly glossed through eleven substances.
-   Its effect-based names and realm qualifications belong to the prose.
-6. Sensory own-character is explained with reference to the sense-base,
-   allowing a collection of material constituents as object.
-7. The unit closes with the priority of taste or touch cognition, governed
-   by intensity and, under equal presentation, inclination toward eating.
-
-The anchor retains the verse's counts. Their definitions, controversies,
-and consequences for apprehension are articulated in the continuous
-translation and the subsequent study.
-
-## 11. Philosophical and Organon Study
-
-The strongest determination for our domain inquiry is the explicit
-separation of a sense-base's own-character from an individual substance's
-own-character. A domain can preserve its determinate character across a
-presentation composed of many constituents. The relation between field and
-constituents becomes part of what the account of cognition must explain.
-
-The local clarification of `vidyate` adds a second distinction: the respect
-in which something is known must be articulated separately from the question
-of its existence. The unanswered bodily-manifestation challenge shows that
-this semantic distinction itself remains subject to further testing within
-the commentary.
-
-For the Organon reconstruction, these passages support studying a knowledge
-domain through its proper determination, the multiplicity it admits, and
-the ways its contents become discriminable. The final taste/touch case adds
-the direction of the continuum: what is apprehended first depends both on
-the strength of presentation and on an inclination already operative in the
-knower.
-
-This bears on our question about learning. The conditions under which
-cognition occurs include a differentiated sensory field and a directed
-continuum; the development of prajñā must be investigated with those
-conditions in view. The present passage does not explain that development
-or classify all these cognitions as pāramārthika. It supplies determinate
-relations through which the Organon inquiry into learning and manifestation
-within saṃvṛti can proceed.
-
-## 12. Review Status
-
-Reviewed against the current Kārikā study and local IAST text from `tatra
-tāvat` at `[006|07]` through the commentary's closure concerning the five
-objects and their apprehension at `[007|27]`–`[007|28]`. The following
-announcement of avijñapti belongs to 1.11. The review preserves the
-alternative counts, the local scope of the knowing/existing clarification,
-the unanswered bodily-manifestation objection, and the sense-base level of
-own-character. The local HTML repeats the damaged configuration passage and
-is not treated as independent confirmation. No independent collation against
-the printed editions is claimed; both local research files remain preserved.
-
-Open philological points are the damaged configuration-only example, the
-precise contrast of `vṛtta` and `parimaṇḍala`, and the technical force of
-even/uneven odor. The unresolved bodily-manifestation objection, alternative
-counts, missing separate thirst gloss, and reported beneficial coolness
-remain explicit. Original research files and the Part One reading artifact
-are preserved.
+Expert upgrade of 1.10 as the next card of the skandha teaching. Verse-English in §1 copies [`VAK_1.10.md`](./VAK_1.10.md) §5 Literal. Conventional translation keeps domain/sphere and refuses Object. Organon confined to §6. Provisional on the damaged configuration-only line and on *vṛtta* / *parimaṇḍala*. Next: 1.11.
