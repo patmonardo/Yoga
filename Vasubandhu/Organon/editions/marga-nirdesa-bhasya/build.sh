@@ -3,10 +3,10 @@ set -euo pipefail
 
 edition_dir="$(cd "$(dirname "$0")" && pwd)"
 organon_dir="$(cd "$edition_dir/../.." && pwd)"
-output_file="$edition_dir/Organon-Kosa-Marga-Bhasya-Nirdesa-Part-One.pdf"
+output_file="$edition_dir/Organon-Kosa-Marga-Nirdesa-Bhasya.pdf"
 
 sources=()
-for index in $(seq 1 46); do
+for index in $(seq 1 79); do
   number="$(printf '%02d' "$index")"
   source_file="$organon_dir/06-marga/VAK_6.$number"_bhasya.md
   test -f "$source_file"
@@ -18,10 +18,10 @@ pandoc "${sources[@]}" \
   --pdf-engine=xelatex \
   --lua-filter="$edition_dir/pagebreak.lua" \
   --include-in-header="$edition_dir/book-header.tex" \
-  --metadata title="The Organon Kośa: Mārganirdeśa Bhāṣya, Part One" \
+  --metadata title="The Organon Kośa: Mārganirdeśa Bhāṣya" \
   --metadata subtitle="A Continuous Translation and Focused Study" \
   --metadata author="The Organon Project" \
-  --metadata date="Provisional Work in Progress · VAK 6.01–6.46" \
+  --metadata date="Provisional Work in Progress · VAK 6.01–6.79" \
   --variable papersize=letter \
   --variable geometry:margin=0.78in \
   --variable mainfont="FreeSerif" \

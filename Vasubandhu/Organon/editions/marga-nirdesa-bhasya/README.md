@@ -1,6 +1,6 @@
-# Mārganirdeśa Bhāṣya, Part One
+# Mārganirdeśa Bhāṣya
 
-Provisional reading edition of 26 consecutive studies, VAK 6.01–6.26.
+Provisional reading edition of 79 consecutive studies, VAK 6.01–6.79.
 The chapter and the commentary studies remain in progress. Individual
 Sanskrit readings and translations are subject to further collation.
 
@@ -11,4 +11,4 @@ Sanskrit witness, conventional translation, and focused study.
 Run `./build.sh` from this directory. Requires Pandoc, XeLaTeX, and the
 FreeSerif, Lato, and FreeMono fonts.
 
-Output: `Organon-Kosa-Marga-Bhasya-Nirdesa-Part-One.pdf`
+Output: `Organon-Kosa-Marga-Nirdesa-Bhasya.pdf`
