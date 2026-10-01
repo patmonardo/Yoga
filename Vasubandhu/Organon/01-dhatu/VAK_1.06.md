@@ -4,7 +4,7 @@
 
 > प्रतिसंख्यानिरोधो यो विसंयोगः पृथक् पृथक् ।
 >
-> उत्पादात्यन्तविघ्नोऽन्यो निरोधोऽप्रतिसंख्यया ॥ १.०६ ॥
+> उत्पादात्यन्तविघ्नोऽन्यो निरोधोऽप्रतिसंख्यया ॥ १.०६ ॥॥
 
 ## 2. Sanskrit (IAST)
 
@@ -12,107 +12,93 @@
 >
 > utpādātyantavighno 'nyo nirodho 'pratisaṃkhyayā // 1.06 //
 
-
 ## 3. Lexical Analysis
 
 | Form | Padaccheda | Meaning |
 |---|---|---|
-| pratisaṃkhyā-nirodhaḥ | pratisaṃkhyā-nirodhaḥ | cessation through discriminative insight |
+| pratisaṃkhyā-nirodhaḥ | pratisaṃkhyā-nirodhaḥ | cessation through discrimination |
 | yaḥ | yaḥ | which |
-| visaṃyogaḥ | visaṃyogaḥ | disjunction, separation, release |
+| visaṃyogaḥ | visaṃyogaḥ | disjunction |
 | pṛthak pṛthak | pṛthak pṛthak | separately, one by one |
 | utpāda-atyanta-vighnaḥ | utpāda-atyanta-vighnaḥ | absolute obstruction of arising |
 | anyaḥ | anyaḥ | the other |
 | nirodhaḥ | nirodhaḥ | cessation |
-| apratisaṃkhyayā | a-pratisaṃkhyayā | not through discriminative insight |
+| apratisaṃkhyayā | a-pratisaṃkhyayā | not through discrimination |
 
 ## 4. Grammar
 
-The two cessations from VAK_1.05 are now defined:
+The two cessations from 1.05 are now defined:
 
 ```text
 pratisaṃkhyā-nirodha
     = visaṃyogaḥ pṛthak pṛthak
-    = disjunction separately, item by item
+    = disjunction, separately and separately
 
 apratisaṃkhyā-nirodha
     = utpāda-atyanta-vighnaḥ
     = absolute obstruction of arising
 ```
 
-The first is cessation attained through discriminative knowing. The second is attained without that discrimination, when deficiency of conditions absolutely prevents a future dharma from arising. Neither unconditioned cessation is produced as a conditioned event.
+The first is attained through discrimination. The second is not. It is the absolute block on a future arising when conditions fail. Neither is produced as a conditioned event.
 
-## 5. Literal Translation
+## 5. Translation
+
+### Literal Translation
 
 > Cessation through discrimination is disjunction, separately and separately. The other cessation, not through discrimination, is the absolute obstruction of arising.
 
+### Bhāṣya-informed translation
+
+> Cessation through discrimination is disjunction from Impure dharmas, separately for each conjunction. Discrimination here is a particular prajñā directed to the Noble Truths, beginning with suffering. The other cessation is not attained by that prajñā. It is the absolute obstruction of a future arising, got by deficiency of conditions.
+
 ## 6. Philosophical Translation
 
-> Pratisaṃkhyā-nirodha is attained through a specific prajñā directed to the Noble Truths: it is disjunction from dharmas with outflows, separately for each conjunction. Apratisaṃkhyā-nirodha is attained through deficiency of conditions: it is the absolute obstruction of a future arising, without discriminative insight being its means.
+> One cessation is disjunction by discrimination, one conjunction at a time. The other is non-arising: a future dharma is blocked because its conditions fail. Liberation and mere non-production are not the same.
 
-Organon rendering:
-
-> Cessation is twofold. One is principled release: Dharma is discriminated, and bondage is severed one determination at a time. The other is non-arising: a determination is blocked from manifestation. Thus the unconditioned includes both liberating disjunction and absolute non-production.
+Organon note: samādhi read as deep sleep is the second cessation, not this discrimination. Not conventional English.
 
 ## 7. Technical Vocabulary
 
 | Sanskrit | Project rendering | Note |
 |---|---|---|
-| pratisaṃkhyā | discriminative consideration | a specific prajñā directed to the Noble Truths in the Bhāṣya |
+| pratisaṃkhyā | discrimination | Bhāṣya: a particular prajñā directed to the Noble Truths |
 | nirodha | cessation | unconditioned cessation here |
-| visaṃyoga | disjunction / separation | specifically from dharmas with outflows in the Bhāṣya |
-| pṛthak pṛthak | separately | each defilement/determination severed distinctly |
-| apratisaṃkhyā | not through discriminative consideration | cessation is attained through deficient conditions rather than through that prajñā |
-| utpāda | arising | production/manifestation of a dharma |
+| visaṃyoga | disjunction | from Impure dharmas |
+| pṛthak pṛthak | separately | as many disjunctions as conjunctions |
+| sāsrava | Impure | the field of disjunction |
+| anāsrava | Pure | no disjunction required |
+| apratisaṃkhyā | not through discrimination | attained by deficient conditions |
+| utpāda | arising | of a future dharma |
 | atyanta-vighna | absolute obstruction | complete prevention of arising |
+| pratyayavaikalya | deficiency of conditions | how the second cessation is got |
 
 ## 8. Logical Determination
-
-VAK_1.06 completes the threefold unconditioned:
 
 ```text
 ākāśa
     = non-obstruction
 
 pratisaṃkhyā-nirodha
-    = discriminative disjunction
+    = disjunction by discrimination
+    = separately, one conjunction at a time
 
 apratisaṃkhyā-nirodha
     = obstruction of arising
+    = deficiency of conditions
 ```
 
-The two cessations are not identical:
-
 ```text
-release by insight
-    ≠
-non-arising by obstruction
+Impure, able to arise          first only
+Pure and conditioned, unable   second only
+Impure, unable to arise        both
+Pure, able to arise            neither
 ```
 
 ## 9. Interpretive Note
 
-This verse is crucial for the project because it separates liberation from mere absence. Pratisaṃkhyā-nirodha is not nothingness. It is disjunction through prajñā: the analytic cutting of bondage.
+Cessation through discrimination is not nothing. It is disjunction, item by item. If one seeing ended every affliction, the rest of the Path would be useless.
 
-Apratisaṃkhyā-nirodha is also not ordinary absence. It is the absolute non-arising of a dharma due to the blocking of its conditions. The unconditioned therefore has a rich structure:
-
-```text
-openness
-release
-non-arising
-```
-
-Organon note:
-
-```text
-ākāśa
-    = open field
-
-pratisaṃkhyā-nirodha
-    = liberation by principle
-
-apratisaṃkhyā-nirodha
-    = non-manifestation by blocked arising
-```
+The other cessation is not that Path. A future arising is absolutely blocked because the conditions are gone. The eye taken by one form cannot later take what has already passed.
 
 ## 10. OWL++ Seed
 
