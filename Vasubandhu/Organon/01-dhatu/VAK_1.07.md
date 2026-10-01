@@ -25,7 +25,7 @@ saḥ | eva | adhvā | kathā-vastu | sa-niḥsārāḥ | sa-vastukāḥ
 | **punaḥ** | indeclinable | resumes and specifies; not a new inventory |
 | **saṃskṛtāḥ** | nominative masculine plural past passive participle | Conditioned; etymology is made by conditions acting together |
 | **dharmāḥ** | nominative masculine plural | the classified field, not “phenomena” as a modern leftover |
-| **rūpa-ādi-skandha-pañcakam** | nominative neuter singular collective compound | the five aggregates beginning with material form |
+| **rūpa-ādi-skandha-pañcakam** | nominative neuter singular collective compound | the five aggregates beginning with form |
 | **saḥ eva** | demonstrative + restrictive particle | that very same field; paryāya, not addition |
 | **adhvā** | nominative masculine singular | temporal course: the conditioned under gone / going / about-to-go |
 | **kathā-vastu** | nominative neuter singular compound | basis of discourse; what meaningful speech takes up |
@@ -65,13 +65,13 @@ Those conditioned dharmas, again, are the five aggregates beginning with form. T
 
 ### Bhāṣya-informed study translation
 
-The conditioned dharmas are the five aggregates beginning with material form. They are called conditioned because they are made by conditions that come together and act together; nothing is produced by a single condition. That same field is the temporal courses, because it has the states of having gone, going, and being about to go — or because it is consumed by impermanence. It is the basis of discourse, because meaningful speech takes the conditioned as its basis; otherwise the Prakaraṇa statement that the bases of discourse are included in the eighteen domains would be contradicted. It is possessed of an exit, because nirvāṇa is the exit from everything conditioned. It is possessed of a *vastu*, because it has causes: the Vaibhāṣikas say that here the word *vastu* expresses cause.
+The conditioned dharmas are the five aggregates beginning with form. They are called conditioned because they are made by conditions that come together and act together; nothing is produced by a single condition. That same field is the temporal courses, because it has the states of having gone, going, and being about to go — or because it is consumed by impermanence. It is the basis of discourse, because meaningful speech takes the conditioned as its basis; otherwise the Prakaraṇa statement that the bases of discourse are included in the eighteen domains would be contradicted. It is possessed of an exit, because nirvāṇa is the exit from everything conditioned. It is possessed of a *vastu*, because it has causes: the Vaibhāṣikas say that here the word *vastu* expresses cause.
 
 The etymology uses *kṛtā* (“made”). The headword remains *conditioned*, not *created*, and not *constructed*.
 
 ## 6. Philosophical Translation
 
-Conditioned dharmas are not an open remainder after the unconditioned have been named. They are the five aggregates as one field. Time, speech, exit, and causal grounding are determinations of that field, not four extra heaps.
+Conditioned dharmas are not an open remainder after the unconditioned have been named. They are the five aggregates as one field. Time, speech, exit, and possession of *vastu* are determinations of that field, not four extra heaps. The causal reading is the Bhāṣya's attributed Vaibhāṣika gloss, not the final determination of *vastu*.
 
 Organon rendering (project reconstruction; not Vasubandhu's wording):
 
@@ -82,7 +82,10 @@ saṃskṛta
     = the same field as temporal course
     = the same field as what discourse can take as vastu
     = the same field as having nirvāṇa for exit
-    = the same field as having hetu for vastu (local gloss)
+    = the same field as possessing vastu
+    = Vaibhāṣika: having hetu for vastu (local gloss)
+        = Organon: having a Thing with natural properties,
+            modeled through features articulated by guṇas
 ```
 
 Algebra of this chapter (project lock):
@@ -122,7 +125,7 @@ These renderings are proposed as import-lexicon for the rest of Dhātu-nirdeśa.
 | **nirmāṇa / nirmāṇa-citta** | not in this verse | Construct: a citta that produces *aneka* cittas | a synonym of Condition or of *saṃskṛta* |
 | **dharma** | dharma | holding-to-be-true remains a deferred Organon thesis (`√dhṛ`) | “phenomenon,” “factor” as a emptied placeholder |
 | **skandha** | aggregate | Being: the Conditioned gathered as one articulated body | “heap” as dismissive; “Being” inside conventional English |
-| **rūpa-skandha** | aggregate of material form | first actuality of the conditioned field; inventory begins at 1.09 | “matter” as modern mass; “body” alone |
+| **rūpa-skandha** | aggregate of form | first actuality of the conditioned field; inventory begins at 1.09 | “matter” as modern mass; “body” alone |
 | **vedanā-skandha** | aggregate of feeling | not yet defined; do not psychologize in advance | “sensation” if that erases affective determination |
 | **saṃjñā-skandha** | aggregate of recognition | DHI-side naming-power; full JÑA↔DHI treatment deferred | “perception”; silent drop of this member |
 | **saṃskāra-skandha** | aggregate of formations | residual conditioned after the other four; Prajñā later lives here as *caitta* | “volitions” as the whole skandha; “constructs” as if this were *nirmāṇa* |
@@ -132,8 +135,8 @@ These renderings are proposed as import-lexicon for the rest of Dhātu-nirdeśa.
 | **kathāvastu** | basis of discourse | what Science can take up; Prakaraṇa includes it in the eighteen Domains | “topic of conversation” |
 | **niḥsāra / niḥsaraṇa** | exit | nirvāṇa as exit from *all* saṃskṛta | an exit located inside the conditioned |
 | **saniḥsāra** | possessed of an exit | the conditioned stand in relation to that exit | “having essence” by false etymology |
-| **vastu** | *vastu*; locally “cause” | Thing / real basis in other uses; Object is later, as comprehended Truth of the Thing | universal equation *vastu* = *hetu* |
-| **savastuka** | possessed of a *vastu*; here, of causes | causal grounding under an attributed Vaibhāṣika gloss | first-pass “with real basis” as if that were this verse's own gloss |
+| **vastu** | *vastu*; locally glossed as “cause” | Thing with natural properties, modeled through features articulated by guṇas. Object is later, as comprehended Truth of the Thing | universal equation *vastu* = *hetu* |
+| **savastuka** | possessed of a *vastu*; Vaibhāṣika gloss: possessed of causes | possessing that Thing; its features enter relational conflict, and are causes in that act | first-pass “with real basis” as if that were this verse's own gloss |
 | **paryāya** | alternative designation | same field, several lawful names | synonym that can be swapped without remainder |
 
 **Import rule for later verses.** Until a later card revises a row, Dhātu-nirdeśa uses this table. Algebra: *viṣaya* = Condition, *saṃskṛta* = Conditioned, *asaṃskṛta* = Unconditioned. Construct ≠ Condition. `Vijñāna` will be defined at 1.16 as *prativijñapti / upalabdhi*; this card only forbids emptying the fifth aggregate and forbids “consciousness.” 1.09 conventional *viṣaya* is *domain*.
@@ -198,7 +201,15 @@ Two restraints.
 
 First, the local e-text at Pradhan `[004|26]` lists rūpa, vedanā, saṃskāra, vijñāna and omits saṃjñā. The kārikā says *pañcakam*. The omission is a witness fault, not a four-aggregate doctrine. Recognition stays in the inventory.
 
-Second, *savastuka* is the place where first-pass English and the Bhāṣya part company. “With real basis” is a possible sense of *vastu* elsewhere and an Organon sense of Thing. It is not this gloss. Here the Vaibhāṣikas take *vastu* as *hetu*. Keep the Thing-reading available; do not smuggle it into the conventional line.
+Second, *savastuka* requires two registers. The conventional line retains
+“possessed of a *vastu*.” The Bhāṣya attributes to the Vaibhāṣikas the
+reading *vastu* = *hetu*, so “possessed of causes” is their local gloss, not
+the compound's universal sense. In the Organon, *vastu* is a Thing with
+natural properties, modeled through features articulated by guṇas. Those
+features enter relational conflict and are causes in that act. Thus
+*savastuka* names the conditioned as possessing that Thing. This Yogic
+determination is project work; it does not replace the conventional line or
+suppress the attributed causal reading.
 
 Organon, marked as project:
 
@@ -207,6 +218,14 @@ This verse is where Skandha becomes usable as Being. The five are not a psycholo
 Condition is the problem of Knowledge. Construct is another problem: Fichte's Original and Reconstruction of an Original; *nirmāṇa-citta* and the many cittas it produces. Those cells stay closed on this card.
 
 *Kathāvastu* matters for the Organon product. Discourse does not float over the field. The Prakaraṇa already includes the bases of discourse in the eighteen Domains. Dharma-skandha as communicable Science has its first textual hook in this paryāya.
+
+*Savastuka* makes a different claim. The conditioned possess *vastu*: a
+Thing with natural properties, modeled through features articulated by
+guṇas. Those features enter relational conflict and are causes in that act;
+the Vaibhāṣika causal gloss therefore catches a real moment without
+exhausting the Thing. *Kathāvastu* and *savastuka* meet at *vastu* without
+collapsing: the one concerns what discourse can take up, the other the
+determinate actuality that is thereby available.
 
 Nirvāṇa as *niḥsāra* is exit from the whole conditioned, including the Path as conditioned. The exit is not a sixth aggregate and not a mood.
 
@@ -260,9 +279,15 @@ vak:Sanihsara
     vak:hasExit vak:Nirvana .
 
 vak:Savastuka
+    vak:hasVastu vak:Vastu ;
     vak:localGloss vak:PossessedOfCauses ;
     vak:glossAttributedTo vak:Vaibhasika ;
     vak:doesNotUniversalize vak:VastuAsHetu .
+
+vak:Vastu
+    vak:organonDetermination "Thing with natural properties, modeled through features articulated by guṇas" ;
+    vak:featuresEnter vak:RelationalConflict ;
+    vak:hasVaibhasikaGloss vak:Hetu .
 
 vak:Kathavastu
     vak:includedWithin vak:EighteenDhatus ;

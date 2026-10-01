@@ -42,13 +42,13 @@ Kārikā study: [`VAK_1.08.md`](./VAK_1.08.md). Previous: 1.07, the conditioned 
 
 ## 3. Continuous Conventional Translation
 
-> Again, these are the same conditioned dharmas. Those with outflows are the aggregates of appropriation. What follows from this? Whatever are aggregates of appropriation are also aggregates, but not every aggregate is an aggregate of appropriation, for there are formations without outflows.
+> These are the same conditioned dharmas. Those with outflows are the aggregates of appropriation. What follows from this? Whatever are aggregates of appropriation are also aggregates, but not every aggregate is an aggregate of appropriation, for there are formations without outflows.
 >
 > Here the appropriations are the afflictions. Because the aggregates arise from appropriation, they are called aggregates of appropriation, like a fire produced from grass or chaff. Or they are so called because they are subject to appropriation, like the servants of a king. Or they are aggregates of appropriation because appropriations arise from them, as flowers and fruits arise from a tree. These very dharmas are called dharmas with outflows.
 >
 > They are also accompanied by conflict. For the afflictions are conflicts, because they injure oneself and others. Because those conflicts lie latent within the aggregates, the aggregates are called accompanied by conflict, just as they are called with outflows.
 >
-> Again, they are suffering, origin, world, the station of views, and becoming. They are suffering because they are contrary to the noble ones. They are origin because suffering arises from them. They are world because they dissolve. They are the station of views because views stand within them by lying latent there. They are becoming because they come to be. These are names for the dharmas with outflows, each matching its meaning.
+> They are also suffering, origin, world, the station of views, and becoming. They are suffering because they are contrary to the noble ones. They are origin because suffering arises from them. They are world because they dissolve. They are the station of views because views stand within them by lying latent there. They are becoming because they come to be. These are names for the dharmas with outflows, each matching its meaning.
 
 “Dissolve” follows the Yaśomitra-supported `lujyata`. The local IAST `lakṣyata` would yield a weaker “is marked / is perceived,” which this translation does not adopt as the working sense.
 
@@ -86,6 +86,15 @@ Marked as project reconstruction.
 The circuit is Practical Reason's first machine in the chapter: an operation that produces a field that reproduces the operation. Vidyā holds the three relations at once. Technē will later look for interruption; this unit does not name it.
 
 Being is now specified as consequential Being. Essence (āyatana) and Concept (Reciprocates) are still ahead. Do not promote *loka* to appearance-field in the conventional line in order to hurry that movement.
+
+The `ta eva` with which the Bhāṣya begins keeps 1.07 in force: this is the
+same conditioned Thing, not a second object beside it. The restriction by
+*sāsrava* determines that Thing where its features enter the reciprocal
+operation of appropriation and affliction. The three derivations show the
+same field as produced by, governed by, and productive of appropriation.
+Thus the causal conflict belongs to one conditioned actuality rather than to
+an accidental psychological overlay. This is an Organon reconstruction; the
+Bhāṣya itself gives the three relations and names the field *sāsrava*.
 
 *Dṛṣṭi* here is view as what lodges. It is not *darśana* as Kantian Intuition and not “Indian philosophy.”
 

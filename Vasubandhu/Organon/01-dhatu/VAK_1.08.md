@@ -74,6 +74,12 @@ They are suffering, because they are contrary to the noble ones. They are origin
 
 The five aggregates of 1.07 are the whole conditioned. This verse cuts that field by the lodging of outflow. Appropriation-aggregates are not a sixth pile and not a poetic synonym for “person.” They are the sāsrava restriction of the same five.
 
+This remains the conditioned Thing determined in 1.07, not another object
+beside it. Here its features enter the reciprocal operation of appropriation
+and affliction: the field is produced by, governed by, and productive of that
+operation. This is the Organon continuation of the Bhāṣya's three
+derivations, not a replacement for its conventional account.
+
 The three derivations of *upādānaskandha* give a closed circuit, not a one-way grasp:
 
 ```text

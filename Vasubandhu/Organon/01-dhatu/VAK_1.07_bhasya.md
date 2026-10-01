@@ -33,7 +33,12 @@ Medium unit: compact witness.
 > hetuvacanaḥ kila vastuśabda iti vaibhāṣikāḥ /
 > ity ete saṃskṛtadharmaparyāyāḥ /
 
-**Witness.** Local prose at `[004|26]` lists four aggregates and omits `saṃjñāskandha`. That line is not patched. Pruden supplies the fifth name; this file does not. The kārikā still says *pañcakam*. Other working normalizations as before. Not a critical edition.
+**Witness.** The local IAST is a working e-text, not a critical edition. At
+`[004|26]` it lists four aggregates and omits `saṃjñāskandha`; that line is
+not patched. Pruden supplies the fifth name; this file does not. The kārikā
+still says *pañcakam*. The readings `kathā vākyam` at `[005|03]` and
+`adyante 'nityatayeti vā` at `[005|03]` repair damaged local strings
+contextually; both remain provisional pending a printed-edition check.
 
 ## 3. Continuous Conventional Translation
 
@@ -121,13 +126,15 @@ Future dharmas are called conditioned by kind (`tajjātīyatva`), as milk and fu
 | *adhvan* | those same dharmas as gone / going / about-to-go; or as consumed by impermanence |
 | *kathāvastu* | the basis of meaningful doctrinal speech; Prakaraṇa includes the bases in the eighteen *dhātus* |
 | *saniḥsāra* | they have an exit; that exit is nirvāṇa from all that is conditioned |
-| *savastuka* | they have causes; *vastu* = *hetu* is a Vaibhāṣika gloss (*kila*) |
+| *savastuka* | they possess a *vastu*; the Vaibhāṣika gloss makes that *vastu* a cause (*hetu*, *kila*) |
 
 Time is not a container around the aggregates. The courses *are* the conditioned under temporal determination.
 
 Nirvāṇa is not a sixth aggregate and not a property packed inside the five. It is the exit from the whole field, Path included as conditioned.
 
-`Savastuka` is not, in this unit, “with real basis.” *Vastu* as Thing remains available elsewhere. It is not this gloss.
+`Savastuka` means “possessed of a *vastu*.” The Bhāṣya reports a Vaibhāṣika
+gloss in which *vastu* expresses `hetu`; it does not license a universal
+equation of *vastu* with cause.
 
 ## 8. The Bhāṣya's Decisions for the Kārikā
 
@@ -138,13 +145,31 @@ Nirvāṇa is not a sixth aggregate and not a property packed inside the five. I
 5. `Adhvan` names those dharmas as past, present, and future.
 6. `Kathāvastu` is constrained by the Prakaraṇa inclusion in the eighteen *dhātus*.
 7. `Saniḥsāra`: nirvāṇa is the exit from all that is conditioned.
-8. `Savastuka`: locally, possessed of causes, by an attributed gloss.
+8. `Savastuka`: possessed of a *vastu*; the local Vaibhāṣika gloss reads that
+    *vastu* as cause.
 
 ## 9. Organon Note
 
 Marked as project. Not a substitute for §3–§7.
 
 This is the first verse at which Skandha can be read as Being: the Conditioned gathered as one articulated body. Āyatana and Dhātu are not yet the work of the verse. Do not call 1.07 the Concept.
+
+For the Organon, `kathāvastu` and `savastuka` must remain distinct. The
+first names the conditioned as what discourse can take up. The second names
+them as possessing *vastu*: a Thing with natural properties, modeled through
+features articulated by the guṇas. These features enter relations and their
+conflict is causal. The Vaibhāṣika equation of *vastu* with `hetu` is thus
+retained as the Bhāṣya's attributed causal reading, but it does not exhaust
+the project determination of *vastu*.
+
+Taken together, the *paryāyas* articulate one conditioned actuality rather
+than an appended list of predicates. Skandha gathers its determinations;
+*adhvan* determines their transformation as temporal; *kathāvastu*
+determines that same unity as communicable; *saniḥsāra* holds nirvāṇa as its
+exit; and *savastuka* determines it as Thing. The project bridge to Yoga
+Sūtra 4.13–4.14 is explicit: Guṇa-nature becomes *vastu* where its
+transformation is one (`pariṇāmaikatvād vastu-tattvam`). This is an Organon
+reconstruction, not an additional claim of the Bhāṣya.
 
 Algebra remains on the verse study. It does not rewrite this translation.
 

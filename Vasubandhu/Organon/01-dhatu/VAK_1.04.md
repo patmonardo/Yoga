@@ -1,6 +1,6 @@
 # VAK_1.04
 
-## 1. Sanskrit (Devanāgarī)
+## 1. Sanskrit (Devanagari)
 
 > सास्रवानास्रवा धर्माः संस्कृता मार्गवर्जिताः ।
 >
@@ -15,90 +15,144 @@
 ## 3. Lexical Analysis
 
 ```text
-sāsravānāsravāḥ → sāsravāḥ anāsravāḥ
-mārgavarjitāḥ → mārga-varjitāḥ
-āsravās teṣu → āsravāḥ teṣu
+sāsravānāsravāḥ -> sāsravāḥ anāsravāḥ
+mārgavarjitāḥ -> mārga-varjitāḥ
+āsravās teṣu -> āsravāḥ teṣu
 ```
 
 | Pada | Features | Local force |
 |---|---|---|
-| sāsravāḥ / anāsravāḥ | adjectives, nominative plural | exhaustive first division of `dharmāḥ` |
-| dharmāḥ | masculine nominative plural | classified field |
-| saṃskṛtāḥ | participial adjective, nominative plural | conditioned dharmas |
+| sāsravāḥ / anāsravāḥ | adjectives, nominative plural | impure / pure: the first division of `dharmāḥ` |
+| dharmāḥ | masculine nominative plural | Laws of Appearance |
+| saṃskṛtāḥ | participial adjective, nominative plural | conditioned |
 | mārga-varjitāḥ | adjective, nominative plural | excluding the Path |
-| āsravāḥ | masculine nominative plural | outflows, subject |
+| āsravāḥ | masculine nominative plural | `āsravas`, the mark of impurity |
 | teṣu | locative plural | in those dharmas |
 | yasmāt | causal relative adverb | because |
-| samanuśerate | 3rd plural middle | settle and continue within |
+| samanuśerate | 3rd plural middle | persist through; continue in |
 
 ## 4. Grammar
 
 ```text
-all dharmas = sāsrava ∪ anāsrava
-sāsrava = conditioned dharmas − Path-truth
+Dharma Knowing
+    = impure / pure
+
+impure
+    = conditioned, excluding the Path
+
+pure
+    = conditioned Path
+    + unconditioned Dharma
 ```
 
-The Bhāṣya identifies `mārga` as `mārgasatya`. The decisive locative relation is expressed by `teṣu samanuśerate`: the outflows settle within these dharmas.
+The verse states the impure side of this division. The Bhāṣya identifies
+`mārga` as `mārgasatya`, the Truth of the Path: it is conditioned, yet pure.
+VAK 1.05 completes the pure side by determining the unconditioned dharmas.
 
-The Bhāṣya then blocks a false inference:
+`Teṣu samanuśerate` gives the reason for impurity. The `āsravas` persist
+through the conditioned dharmas other than the Path. The Bhāṣya distinguishes
+this persistence from an `āsrava` merely taking cessation or the Path as its
+`ālambana`.
+
+## 5. Conventional Translation
+
+> Dharmas are impure and pure. Conditioned dharmas, excluding the Path, are
+> impure, because the `āsravas` persist through them.
+
+The translation renders `sāsrava` as "impure" and `anāsrava` as "pure";
+`āsrava` itself remains untranslated where its technical relation matters.
+
+## 6. Dharma Knowing: Real / Ideal
+
+ Dharma is the **Law of Appearance**. Dharma Knowing is the self-articulation
+ of that law:
 
 ```text
-outflow takes X as object (ālambana)  ≠  outflow settles in X (anuśayana)
+Dharma Knowing
+    = Real / Ideal
+
+Real
+    = conditioned appearance
+    = the Law of Appearance in determinate enactment
+
+Ideal
+    = pure determination
+    = the law free in and for itself
 ```
 
-An outflow may arise with cessation or Path as its object without either becoming sāsrava. The full mechanism is explicitly deferred to the Anuśayanirdeśa.
+VAK 1.04 is the first articulation internal to this knowing. The conditioned
+is not simply impure: the Truth of the Path is conditioned and pure. The Path
+is the Real's pure activity, the conditioned enactment in which appearance is
+referred to its Ideal determination. The unconditioned, introduced in the next
+verse, is pure without conditional production.
 
-## 5. Literal Translation
+```text
+impure
+    = conditioned appearance whose determination remains divided
 
-### Close syntactic construe
+pure Path
+    = conditioned knowing adequate to its law
 
-> Dharmas are with outflows and without outflows. Conditioned dharmas, excluding the Path, are with outflows, because the outflows settle and continue within them.
+pure unconditioned
+    = the Ideal free from conditional production
+```
 
-### Bhāṣya-informed translation
-
-> All dharmas are comprehensively divided into those with and those without outflows. Conditioned dharmas other than the Truth of the Path are with outflows because they can serve as the field in which outflows settle; merely being taken as an outflow's object does not meet this condition.
-
-## 6. Philosophical Translation
-
-> Dharmas are divided into those with outflows and those without them. Conditioned dharmas apart from the Truth of the Path bear outflows because outflows can settle and persist in them. The Path is conditioned but without outflows: its status depends on whether outflows lodge there, not on whether an afflicted cognition can take it as an object.
-
-Organon rendering (project reconstruction):
-
-> A principle is actual only through its consequences. `Sāsrava` names determination with consequence: a dharma in which outflow can settle, persist, and generate a further series. `Anāsrava` names determination without further consequence: not inert or ineffective, but complete, with no unresolved outflow beyond it.
-
-Kantian determination (project comparison):
-
-> Outflow is the movement of understanding from a conditioned determination to the further condition on which it depends. A field is consequential while this passage from condition to condition remains open. It is unconsequential when no further uncomprehended condition is demanded beyond the completed series.
+The division therefore does not contrast an empirical object with a separate
+ideal elsewhere. It distinguishes impurity and purity within the Law of
+Appearance itself, and makes the Path the conditioned actuality of their
+reconciliation.
 
 ## 7. Technical Vocabulary
 
 | Sanskrit | Rendering | Determination |
 |---|---|---|
-| sāsrava | with outflows | outflows can settle in this field; “consequential” is the Organon analogy above |
-| anāsrava | without outflows | outflows do not settle here; “unconsequential” is the Organon analogy above |
-| saṃskṛta | conditioned | distinct axis from outflow-status |
-| mārgasatya | Truth of the Path | conditioned yet anāsrava |
-| samanuśayana | settling and continuing within | criterion of sāsravatva |
-| ālambana | object-support | not equivalent to lodging |
+| dharma | Law of Appearance | the generative law of what appears |
+| sāsrava | impure | conditioned Dharma other than the Path |
+| anāsrava | pure | the Path and the unconditioned |
+| āsrava | `āsrava` | Sanskrit retained for the technical mark of impurity |
+| saṃskṛta | conditioned | produced through conditions |
+| asaṃskṛta | unconditioned | not produced through conditions |
+| mārgasatya | Truth of the Path | conditioned and pure |
+| samanuśayana | persistence through | the relation named in the criterion of impurity |
+| ālambana | object-support | not sufficient for impurity |
 
 ## 8. Logical Determination
 
 ```text
-Sāsrava(x) ↔ outflows can settle in x
-ObjectOfOutflow(x) ↛ Sāsrava(x)
-Conditioned(Path) ∧ Anāsrava(Path)
+Pure(x) or Impure(x)
+
+Impure(x)
+    -> Conditioned(x)
+    -> not PathTruth(x)
+
+Conditioned(PathTruth) and Pure(PathTruth)
+
+Unconditioned(x)
+    -> Pure(x)
 ```
+
+The Path refutes the false identification of the conditioned with the impure.
+Purity is not withdrawal from appearance; it is conditioned appearance whose
+law is active without the division named by `āsrava`.
 
 ## 9. Interpretive Note
 
-The inherited account treats outflow as afflictive persistence. The Organon preserves that mechanism but raises it into logical form: outflow is consequence, the reproductive passage of one determination into another. The Path occurs conditionally while comprehending and completing that series rather than housing a further unresolved consequence.
+ The first division of Dharma Knowing is the Real / Ideal in its initial
+ practical form: impure and pure. The Real is conditioned appearance; the
+ Ideal is the pure self-relation of its law. The Path is their living
+ mediation, because it is conditioned without being impure.
 
 ## 10. OWL++ Seed
 
 ```ttl
 @prefix vak: <http://127.0.0.1:3000/vak#> .
-vak:VAK_1_04 a vak:Karika ; vak:hasTopic vak:SasravaAnasravaDivision ; vak:belongsTo vak:Dhatunirdesa .
-vak:SasravaDharma vak:lodges vak:Asrava .
-vak:PathTruth a vak:ConditionedDharma, vak:AnasravaDharma .
-vak:ObjectRelation vak:distinctFrom vak:LodgingRelation .
+
+vak:VAK_1_04 a vak:Karika ;
+    vak:hasTopic vak:PureImpureDivision ;
+    vak:belongsTo vak:Dhatunirdesa .
+
+vak:ImpureDharma a vak:ConditionedDharma .
+vak:PathTruth a vak:ConditionedDharma, vak:PureDharma .
+vak:UnconditionedDharma a vak:PureDharma .
+vak:Dharma a vak:LawOfAppearance .
 ```
