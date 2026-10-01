@@ -1,4 +1,4 @@
-# VAK_1.08 Bhāṣya — Aggregates of Appropriation
+# VAK_1.08 Bhāṣya — The Impure Division
 
 ## 1. Kārikā Anchor
 
@@ -6,11 +6,11 @@
 >
 > duḥkhaṃ samudayo loko dṛṣṭisthānaṃ bhavaś ca te // 1.08 //
 
-Literal (from the kārikā study):
+From [`VAK_1.08.md`](./VAK_1.08.md):
 
-> Those [aggregates] which are with outflows are the aggregates of appropriation; they are also accompanied by conflict. They are suffering, origin, world, the station of views, and becoming.
+Those which are Impure are the *upādānaskandhas*. They are also *saraṇa*. They are suffering, origin, world, the station of views, and becoming.
 
-Kārikā study: [`VAK_1.08.md`](./VAK_1.08.md). Previous: 1.07, the conditioned as five aggregates. Next: 1.09, the articulation of rūpa-skandha.
+Span: Pradhan `[005|08]`–`[005|20]`. Next question at `[005|21]` opens 1.09.
 
 ## 2. Continuous Sanskrit Witness
 
@@ -24,7 +24,6 @@ Kārikā study: [`VAK_1.08.md`](./VAK_1.08.md). Previous: 1.07, the conditioned 
 > tadvidheyatvād vā rājapuruṣavat /
 > upādānāni vā tebhyaḥ saṃbhavantīty upādānaskandhāḥ puṣpaphalavṛkṣavat /
 > ta eva sāsravā dharmā ucyante /
->
 > saraṇā api /
 > raṇā hi kleśāḥ, ātmaparavyābādhanāt /
 > tadanuśayitatvāt saraṇāḥ, sāsravavat /
@@ -36,68 +35,76 @@ Kārikā study: [`VAK_1.08.md`](./VAK_1.08.md). Previous: 1.07, the conditioned 
 > bhavatīti bhavaḥ /
 > ity ete sāsravāṇāṃ dharmāṇām anvarthaparyāyāḥ /
 
-**Witness.** Pradhan `[005|08]`–`[005|20]`. Voice: Vasubandhu. 1.09 begins at `[005|21]` with the question that the five aggregates beginning with rūpa have been stated.
+Local IAST reads `lakṣyata iti lokaḥ`. Working reading `lujyata`, with Yaśomitra: it breaks down. Not a printed-edition claim.
 
-**Faults and editorial choices.** Local IAST reads `lakṣyata iti lokaḥ`. An earlier research study had `lupyata`. This transcription adopts `lujyata` on Yaśomitra's explanation of the derivation as breaking down. That is an editorial choice supported by a parallel commentary, not the local IAST reading. Other local forms normalized for reading: `truṇatupāgnivat` → `tṛṇatuṣāgnivat`; `taddhidheyatvād` → `tadvidheyatvād`; `raṇsā` → `raṇā`; `stadanuśayitatvāt` → `tadanuśayitatvāt`; `sāsravāṇasaṃ` → `sāsravāṇāṃ`; `ānvarthaparyāyāḥ` → `anvarthaparyāyāḥ`; `puyaḥ` / `dharamāḥ` / `diddhaṃ` at the seam with 1.07 as `punaḥ` / `dharmāḥ` / `siddham`. The local IAST is an edited best reading based especially on Pradhan and also on Shastri; it is not a critical edition. These normalizations have not been independently checked against the printed editions.
+## 3. Continuous Translation
 
-## 3. Continuous Conventional Translation
+**The same field**
 
-> These are the same conditioned dharmas. Those with outflows are the aggregates of appropriation. What follows from this? Whatever are aggregates of appropriation are also aggregates, but not every aggregate is an aggregate of appropriation, for there are formations without outflows.
->
-> Here the appropriations are the afflictions. Because the aggregates arise from appropriation, they are called aggregates of appropriation, like a fire produced from grass or chaff. Or they are so called because they are subject to appropriation, like the servants of a king. Or they are aggregates of appropriation because appropriations arise from them, as flowers and fruits arise from a tree. These very dharmas are called dharmas with outflows.
->
-> They are also accompanied by conflict. For the afflictions are conflicts, because they injure oneself and others. Because those conflicts lie latent within the aggregates, the aggregates are called accompanied by conflict, just as they are called with outflows.
->
-> They are also suffering, origin, world, the station of views, and becoming. They are suffering because they are contrary to the noble ones. They are origin because suffering arises from them. They are world because they dissolve. They are the station of views because views stand within them by lying latent there. They are becoming because they come to be. These are names for the dharmas with outflows, each matching its meaning.
+These are the same Conditioned dharmas. Those which are Impure are the *upādānaskandhas*.
 
-“Dissolve” follows the Yaśomitra-supported `lujyata`. The local IAST `lakṣyata` would yield a weaker “is marked / is perceived,” which this translation does not adopt as the working sense.
+What follows? Whatever is an *upādānaskandha* is a skandha. Not every skandha is an *upādānaskandha*. There are Pure formations.
 
-## 4. Movement of the Commentary
+**The three relations**
+
+Here the *upādānas* are the afflictions. The aggregates are called *upādānaskandhas* because they arise from that, as fire from grass or chaff. Or because they are governed by it, as the king’s servant. Or because the *upādānas* arise from them, as flowers and fruit from a tree. These same dharmas are called Impure.
+
+**Conflict**
+
+They are also *saraṇa*. The afflictions are conflicts, because they injure oneself and others. Because those conflicts persist in the aggregates, the aggregates are *saraṇa*, as they are Impure.
+
+**The names**
+
+They are also suffering, origin, world, the station of views, and becoming.
+
+Suffering, because they are contrary to the Āryas.
+
+Origin, because suffering arises from them.
+
+World, because they dissolve.
+
+Station of views, because views stand in them by persisting there.
+
+Becoming, because they come to be.
+
+These are names of the Impure dharmas, each matching its meaning. Coextensive. Not synonyms.
+
+## 4. Movement
 
 ```text
-same conditioned dharmas as 1.07
-    → restrict by sāsrava
+same Conditioned field as 1.07
+    → restrict by Impure
         → upādānaskandha
-        → corollary: Path-formations remain skandha and anāsrava
-    → upādāna = kleśa
+        → the Path remains skandha and Pure
+    → upādāna = affliction
         → produced from
         → governed by
         → productive of
-    → saraṇa by the same latency used for sāsrava
-    → five further names, each with its own ground
+    → saraṇa, by the same persistence
+    → five names, each with its ground
 ```
 
-The two active topics are the reciprocal circuit of appropriation and the refusal to treat the names as interchangeable synonyms.
+## 5. Buddha Mind
 
-## 5. The Bhāṣya's Decisions for the Kārikā
+1.07 and 1.08 are the Dharma Chakra. This verse is the summary division of that wheel.
 
-1. Only sāsrava aggregates are aggregates of appropriation. Anāsrava conditioned formations are aggregates without being aggregates of appropriation.
-2. *Upādāna* is identified here with the afflictions and stands in productive, governing, and reciprocally productive relations to the aggregates. All three derivations are kept.
-3. *Saraṇa* is “accompanied by conflict,” because afflictions injure self and other and lie latent in this field. The formation parallels *sāsrava*.
-4. *Loka* is explained here as that which dissolves. “Field of appearance” is not this Bhāṣya's derivation.
-5. *Duḥkha*, *samudaya*, *dṛṣṭisthāna*, and *bhava* keep the distinct grounds the commentary states. Closing *anvarthaparyāya* forbids collapsing them.
+```text
+Impure : Pure
+    āsrava : anāsrava
+    the root dyad
+    not the sheath
 
-The anchor therefore keeps the kārikā's compact list. The continuous translation lets each name receive its stated reason.
+duḥkha, samudaya
+    the first two Truths
+    of what persists
 
-## 6. Organon Note
+dṛṣṭisthāna
+    the station of views
+    not the station of prajñā
+```
 
-Marked as project reconstruction.
+What persists is Impure. The Path is Conditioned and Pure. A Rational Dharma does not Persist. The sheath is not opened in this unit.
 
-The circuit is Practical Reason's first machine in the chapter: an operation that produces a field that reproduces the operation. Vidyā holds the three relations at once. Technē will later look for interruption; this unit does not name it.
+## 6. Review
 
-Being is now specified as consequential Being. Essence (āyatana) and Concept (Reciprocates) are still ahead. Do not promote *loka* to appearance-field in the conventional line in order to hurry that movement.
-
-The `ta eva` with which the Bhāṣya begins keeps 1.07 in force: this is the
-same conditioned Thing, not a second object beside it. The restriction by
-*sāsrava* determines that Thing where its features enter the reciprocal
-operation of appropriation and affliction. The three derivations show the
-same field as produced by, governed by, and productive of appropriation.
-Thus the causal conflict belongs to one conditioned actuality rather than to
-an accidental psychological overlay. This is an Organon reconstruction; the
-Bhāṣya itself gives the three relations and names the field *sāsrava*.
-
-*Dṛṣṭi* here is view as what lodges. It is not *darśana* as Kantian Intuition and not “Indian philosophy.”
-
-## 7. Review Status
-
-Expert upgrade of the Organon pair against the current kārikā study and the local IAST at `[005|08]`–`[005|20]`. Verse-English in §1 copies [`VAK_1.08.md`](./VAK_1.08.md) §5 Literal. Conventional translation keeps the three derivations and the *anvarthaparyāya* close. `lujyata` marked as editorial against local `lakṣyata`. Organon reading confined to §6. Provisional pending printed-edition check. Next: 1.09.
+First pass. Old English removed. Witness unpatched. Printed editions not collated.
