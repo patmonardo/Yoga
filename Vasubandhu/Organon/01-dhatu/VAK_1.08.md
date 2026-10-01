@@ -2,9 +2,9 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> ये सास्रवо उपादानस्कन्धоस्ते सरणо अपि ।
+> ये सास्रवा उपादानस्कन्धास्ते सरणा अपि ।
 >
-> दुःखं समुदयो लोको दृष्टिस्थоनं भवश्च ते ॥ १.०८ ॥॥
+> दुःखं समुदयो लोको दृष्टिस्थानं भवश्च ते ॥ १.०८ ॥॥
 
 ## 2. Sanskrit (IAST)
 
@@ -32,41 +32,41 @@ One field under a summary division. The second line names that same Impure field
 
 ## 5. Translation
 
-### Withdrawn
-
-Those which are with outflows are the aggregates of appropriation.
-
-“Outflows settle” and “aggregates of appropriation” are withdrawn.
-
-### The kārikā
+### Literal
 
 Those which are Impure are the *upādānaskandhas*. They are also *saraṇa*. They are suffering, origin, world, the station of views, and becoming.
 
-Impure is the top-level summary division. The sheath is not opened here.
+### Bhāṣya-informed
+
+The Impure aggregates are the *upādānaskandhas*. Not every aggregate is one: the Path is Conditioned and Pure. The five names are coextensive with this Impure field. Each has its own ground. Those grounds wait on the Bhāṣya.
 
 ## 6. Philosophical Translation
 
-1.07 was the wheel. 1.08 divides that wheel.
+1.07 was the wheel. 1.08 divides it.
 
 ```text
 Impure          what persists
-                the summary cut
-                not yet the sheath
+                the summary division
+                the sheath is not this verse
 
 Path            Conditioned
-                not Impure
-                not this verse
+                Pure
+                not this field
 ```
 
-The five names are coextensive with that Impure field. They are not synonyms, and they are not a dive into the sheath. Suffering, origin, world, station of views, becoming: names of the division, each with its own ground, waiting on the Bhāṣya.
+Suffering, origin, world, station of views, becoming: names of that division. Not synonyms. Not a second list.
 
 ## 7. Vocabulary
 
-| Sanskrit | Withdrawn | Determination |
-|---|---|---|
-| sāsrava | with outflows; settle | Impure. Summary division |
-| upādānaskandha | aggregate of appropriation | the Impure subset. Sheath not opened |
-| anāsrava | without outflows | Pure. The Path is this, and not the subset |
+| Sanskrit | Determination |
+|---|---|
+| sāsrava | Impure. Summary division |
+| upādānaskandha | the Impure subset of the aggregates |
+| anāsrava | Pure. The Path |
+| saraṇa | with conflict. Coextensive with the Impure field |
+| loka | here, what dissolves |
+| dṛṣṭisthāna | station of views |
+| bhava | becoming |
 
 ## 8. Logical Determination
 
@@ -78,7 +78,7 @@ Path is Conditioned and Pure
 
 ## 9. Interpretive Note
 
-Do not pretend this verse touches the sheath. Impure is the division. The Bhāṣya is not synced.
+Impure is the top-level division. The sheath is later. The Bhāṣya is not synced.
 
 ## 10. OWL++ Seed
 
