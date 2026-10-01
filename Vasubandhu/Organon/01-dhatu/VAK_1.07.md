@@ -12,68 +12,43 @@
 >
 > sa evādhvā kathāvastu saniḥsārāḥ savastukāḥ // 1.07 //
 
-## 3. Padaccheda and Lexical Analysis
-
-**Padaccheda**
+## 3. Padaccheda
 
 te | punaḥ | saṃskṛtāḥ | dharmāḥ | rūpa-ādi-skandha-pañcakam |
 saḥ | eva | adhvā | kathā-vastu | sa-niḥsārāḥ | sa-vastukāḥ
 
-| Form | Analysis | Contextual force |
-|---|---|---|
-| **te** | nominative masculine plural pronoun | those already marked as conditioned |
-| **punaḥ** | indeclinable | resumes; not a new inventory |
-| **saṃskṛtāḥ** | nominative masculine plural | Conditioned |
-| **dharmāḥ** | nominative masculine plural | the field |
-| **rūpa-ādi-skandha-pañcakam** | collective compound | the five aggregates beginning with form |
-| **saḥ eva** | restrictive | that same field |
-| **adhvā** | nominative masculine singular | the course |
-| **kathā-vastu** | compound | not discourse. See Rational Comment |
-| **sa-niḥsārāḥ** | bahuvrīhi | the *sāra* term. See Rational Comment |
-| **sa-vastukāḥ** | bahuvrīhi | possessed of a *vastu* |
+`Sa eva` binds the second line to the first. Four names, one field. Not four extra heaps.
 
-## 4. Grammar
+## 4. Literal Translation
 
-```text
-saṃskṛtā dharmāḥ = rūpādi-skandha-pañcakam
+Those conditioned dharmas, again, are the five aggregates beginning with form. That very same field is the temporal course, the basis of discourse, possessed of an exit, and possessed of a *vastu*.
 
-sa eva
-    = adhvan
-    = kathāvastu
-    = saniḥsāra
-    = savastuka
-```
+Kept so Pruden can be checked. Not the science.
 
-The Bhāṣya glosses `niḥsāra` as nirvāṇa and `vastu` as cause (*kila*, Vaibhāṣika). Those are glosses. They are not the reading.
+## 5. The Science
 
-## 5. Translation
+This is a compulsory method. Not magic. The precise movement of the one Rational Citta, by which all dharma is discriminated.
 
-### Literal Translation
-
-Those conditioned dharmas, again, are the five aggregates beginning with form. That very same [field] is the temporal course, the basis of discourse, possessed of an exit, and possessed of a *vastu*.
-
-Kept for the Pruden comparison. Not the reading.
-
-### Bhāṣya-informed study translation
-
-The conditioned dharmas are the five aggregates beginning with form. They are called conditioned because they are made by conditions that come together and act together. Nothing is produced by a single condition. That same field is the courses, because it has gone, is going, and is about to go, or because it is consumed by impermanence. The Prakaraṇa includes the *kathāvastu* in the eighteen *dhātus*. The Bhāṣya says the exit from everything conditioned is nirvāṇa, and the Vaibhāṣikas say the word *vastu* expresses cause. Those two sentences are glosses.
-
-## 6. Rational Comment
-
-The inventory comment is withdrawn. Discourse and exit made the line worthless.
+Presupposed: Yoga:Kośa is one dyad. The Sūtra is the *paramārtha*. Hegel is the bhāṣya of that key. Fichte names the act of Knowing as an Original and the Reconstruction of an Original. None of that is copied into the literal.
 
 ```text
-kathāvastu
+Essential Being
+    skandha
+    the Conditioned gathered, beginning with form
+    one body, five members
+    Being, not a list
+
+Essential Reflection
+    kathāvastu
     not discourse
     not a topic
-    Essential Reflection
     the vāsanā the Kośa does not name
-    Yoga has vāsanā
-    this is that cell
+    Fichte: the Reconstruction
+    the Citta reflecting the Original
 
-saniḥsārāḥ
-    the sāra term
-    Essential Relation is Dharma qua sāra
+Essential Relation
+    saniḥsāra
+    Dharma qua sāra
     not “possessed of an exit” as the reading
     the Bhāṣya gloss nirvāṇa stays a gloss
 
@@ -81,29 +56,46 @@ vastu
     Appearance of Essence
     the Thing and its properties
     Essential Relation, not Absolute Relation
+    substance does not Appear
+    the properties do
     YS 4.14 pariṇāmaikatvād vastutattvam
 
 adhvan
     the course of that Appearance
-    YS 4.12
+    gone, going, about to go
+    YS 4.12 atītānāgataṃ svarūpato 'sti adhvabhedād dharmāṇām
+    Persistence is the Empirical latch
+    a Rational Dharma does not Persist
 ```
 
-*Kathāvastu* and *savastuka* meet at *vastu* and do not collapse. One is Essential Reflection, the vāsanā. The other is the Appearance reflected. *Saniḥsāra* is the *sāra* of that relation, not a door out of a list.
+The word Essential could be dropped inside the Sphere of Essence. It stays. What is shining is the reform of Buddha Dharma.
 
-Presupposed: Yoga:Kośa is one dyad. The Sūtra is the *paramārtha*. Hegel is the bhāṣya of that key. Not copied into the literal.
+The Vaibhāṣika sentence, the word *vastu* expresses cause, catches the moment the thing becomes cause through its properties. It is not the reading.
 
-## 7. Technical Vocabulary
+This verse is not yet the Concept. Vijñāna is what makes Skandha, Āyatana, Dhātu a Concept. The method does not park the next grade offstage. It also does not call this line that Concept.
 
-| Sanskrit | Conventional, for Pruden check | Organon | Do not use as the reading |
-|---|---|---|---|
-| **kathāvastu** | basis of discourse | Essential Reflection. The vāsanā Kośa does not name | discourse; topic |
-| **saniḥsāra** | possessed of an exit | the *sāra* term. Dharma qua *sāra* | exit as the reading |
-| **vastu** | *vastu* | Appearance of Essence. Thing and properties | cause; topic; substrate |
-| **savastuka** | possessed of a *vastu* | possessed of that Appearance | possessed of causes |
-| **adhvan** | temporal course | course of the Appearance. YS 4.12 | a clock |
-| **saṃskṛta** | conditioned | Conditioned | created; constructed |
-| **rūpa** | form | form | material form |
+```text
+viṣaya      Condition
+saṃskṛta   Conditioned
+asaṃskṛta  Unconditioned
+pratyaya   ≠ viṣaya
+Construct  ≠ Condition
+```
 
-## 8. Review Status
+Conditioned means created-by-conditions. The headword is not created. Construct is *nirmāṇa*, not this verse.
 
-Literal kept. Inventory comment withdrawn. Witness at `[004|26]` still omits *saṃjñā*. Not patched.
+## 6. Vocabulary
+
+| Sanskrit | Check against Pruden | Science |
+|---|---|---|
+| skandha | aggregate | Essential Being |
+| kathāvastu | basis of discourse | Essential Reflection |
+| saniḥsāra | possessed of an exit | Essential Relation. Dharma qua *sāra* |
+| vastu | *vastu* / cause | Appearance of Essence |
+| adhvan | temporal course | course of that Appearance |
+| saṃskṛta | conditioned | Conditioned |
+| rūpa | form | form |
+
+## 7. Review
+
+Literal fenced. Science is the method. Witness omission of *saṃjñā* at `[004|26]` is not patched. The kārikā says five.
