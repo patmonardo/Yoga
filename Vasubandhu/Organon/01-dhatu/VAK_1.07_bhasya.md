@@ -33,13 +33,13 @@ Medium unit: compact witness.
 > hetuvacanaḥ kila vastuśabda iti vaibhāṣikāḥ /
 > ity ete saṃskṛtadharmaparyāyāḥ /
 
-**Witness.** Local prose at `[004|26]` omits `saṃjñāskandha`. The omission is kept in the line above. The kārikā says *pañcakam*; recognition is not doctrinally deleted. Other working normalizations as on the prior Organon card. Not a critical edition.
+**Witness.** Local prose at `[004|26]` lists four aggregates and omits `saṃjñāskandha`. That line is not patched. Pruden supplies the fifth name; this file does not. The kārikā still says *pañcakam*. Other working normalizations as before. Not a critical edition.
 
 ## 3. Continuous Conventional Translation
 
 > As for what was said — “Conditioned dharmas, excluding the Path, are with outflows” — which, then, are those conditioned dharmas?
 >
-> Those conditioned dharmas, again, are the five aggregates beginning with material form. The aggregate of material form, the aggregate of feeling, the aggregate of formations, and the aggregate of cognition — these are the conditioned dharmas.
+> Those conditioned dharmas, again, are the five aggregates beginning with form. The aggregate of form, the aggregate of feeling, the aggregate of formations, and the aggregate of cognition — these are the conditioned dharmas.
 >
 > They are called conditioned because they are made by conditions that have come together and that function together. For there is nothing produced by a single condition. There is no contradiction in applying the term to future dharmas, because they belong to the same kind, as with milk and fuel.
 >
@@ -55,7 +55,7 @@ Medium unit: compact witness.
 >
 > These are alternative designations of conditioned dharmas.
 
-The conventional list follows the local witness and therefore names four aggregates in the prose expansion. The fifth member is recognition. The etymology is *pratyayaiḥ kṛtā*. The headword remains *conditioned*, not *created*.
+The conventional list follows the local witness. Recognition is not inserted into that list. The etymology is *pratyayaiḥ kṛtā*. The headword remains *conditioned*, not *created*. *Rūpa* is form, not “material form.”
 
 ## 4. Movement of the Commentary
 
@@ -82,28 +82,28 @@ This is the definitional sentence of the chapter:
 saṃskṛtā dharmāḥ  =  rūpādi-skandha-pañcakam
 ```
 
-A skandha is not a leftover psychological heading. It is the form in which the conditioned are gathered and counted as one field. `Pañcakam` is a collective singular predicate of a plural subject: five members, one conditioned body.
+A skandha is the form in which the conditioned are gathered and counted as one field. `Pañcakam` is a collective singular predicate of a plural subject: five members, one conditioned body.
 
-The five, restored from the kārikā:
+The five named by the kārikā:
 
 ```text
-rūpa-skandha       aggregate of material form
+rūpa-skandha       aggregate of form
 vedanā-skandha     aggregate of feeling
 saṃjñā-skandha     aggregate of recognition
 saṃskāra-skandha   aggregate of formations
 vijñāna-skandha    aggregate of cognition
 ```
 
-The local prose drops recognition. That is a witness fault. It is not a four-aggregate doctrine.
+The expansion line does not list recognition. Pruden does. This file does not add the name to the witness. The kārikā still requires five.
 
 What the identity confers:
 
 1. After 1.04–1.06 the conditioned are no longer a remainder opposite the unconditioned. They have a body.
 2. The second pāda does not add four extra classes. Time, discourse, exit, and *vastu* are names of that same body (*paryāya*).
 3. 1.08 will restrict a subset of this same body as *upādānaskandha*. It will not invent another five.
-4. Internal analysis of rūpa begins at 1.09. This unit only identifies the field.
+4. Internal analysis of form begins at 1.09. This unit only identifies the field.
 
-English “consciousness” is not used for the fifth aggregate. 1.16 still owes the conventional definition. “Heap” as a dismissive is not used.
+English “consciousness” is not used for the fifth aggregate. “Heap” as a dismissive is not used. “Material form” is not used for *rūpa*.
 
 ## 6. Why they are called conditioned
 
@@ -127,17 +127,18 @@ Time is not a container around the aggregates. The courses *are* the conditioned
 
 Nirvāṇa is not a sixth aggregate and not a property packed inside the five. It is the exit from the whole field, Path included as conditioned.
 
-`Savastuka` is not, in this unit, “with real basis.” That first-pass English is withdrawn from the conventional line. *Vastu* as Thing remains available elsewhere. It is not this gloss.
+`Savastuka` is not, in this unit, “with real basis.” *Vastu* as Thing remains available elsewhere. It is not this gloss.
 
 ## 8. The Bhāṣya's Decisions for the Kārikā
 
 1. The five aggregates *are* the conditioned under aggregate-description.
-2. Recognition belongs to the five even when the local prose omits it.
+2. The witness expansion is left unpatched. The kārikā still says five.
 3. `Saṃskṛta` is *pratyayaiḥ kṛtā*. Headword: conditioned.
-4. `Adhvan` names those dharmas as past, present, and future.
-5. `Kathāvastu` is constrained by the Prakaraṇa inclusion in the eighteen *dhātus*.
-6. `Saniḥsāra`: nirvāṇa is the exit from all that is conditioned.
-7. `Savastuka`: locally, possessed of causes, by an attributed gloss.
+4. `Rūpa` in English is form.
+5. `Adhvan` names those dharmas as past, present, and future.
+6. `Kathāvastu` is constrained by the Prakaraṇa inclusion in the eighteen *dhātus*.
+7. `Saniḥsāra`: nirvāṇa is the exit from all that is conditioned.
+8. `Savastuka`: locally, possessed of causes, by an attributed gloss.
 
 ## 9. Organon Note
 
@@ -145,8 +146,8 @@ Marked as project. Not a substitute for §3–§7.
 
 This is the first verse at which Skandha can be read as Being: the Conditioned gathered as one articulated body. Āyatana and Dhātu are not yet the work of the verse. Do not call 1.07 the Concept.
 
-Algebra remains on the kārikā card. It does not rewrite this translation.
+Algebra remains on the verse study. It does not rewrite this translation.
 
 ## 10. Review Status
 
-Re-upgrade against [`VAK_1.07.md`](./VAK_1.07.md) and first-pass `VAK/01-dhatu/VAK_1.07_bhasya.md`. Section 5 added so the identity of skandha is conferred before the paryāya list. Conventional English keeps the four-name witness and the Vaibhāṣika *hetu* gloss. Next: 1.08.
+Witness unpatched. *Rūpa* = form. Bootstrap passes stay what they were. This pass is Expert and may move into Organon proper before a third full pass. Next: 1.08.
