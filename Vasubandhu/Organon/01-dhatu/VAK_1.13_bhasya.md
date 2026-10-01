@@ -124,21 +124,109 @@ Word division is editorial. Working normalizations: `rūpyate` / `rūpyata`, `r�
 
 ## 3. Continuous Conventional Translation
 
-> What, then, distinguishes the common names “earth” and the like from the earth-*dhātu* and the other *dhātus*? By worldly designation, color and configuration are called “earth.” For when people point out earth, they point out color and configuration. As with earth, so also with water and fire: color and configuration alone are called by those worldly names.
+Line-for-line with §2.
+
+> What, then, is the difference between earth and the like, and the earth-*dhātu* and the other *dhātus*?
 >
-> Wind, however, is the *dhātu* itself. The very wind-*dhātu* is what is called “wind” in the world. Yet wind is also designated in the same way. Just as color and configuration are called “earth” by worldly designation, so too for wind: “a blue windstorm,” “a circular windstorm.”
+> By worldly designation, color and configuration are called “earth.”
 >
-> Why is this series, extending as far as avijñapti, called the aggregate of form? Because of being affected. The Blessed One said: “It is affected, it is affected, monks; therefore it is called the aggregate of appropriation consisting of form. By what is it affected? Even when touched by the hand, it is affected,” and so forth. “It is affected” means “it is afflicted.” For it is said in the Arthavargīya verses: “If the desires of that embodied person who desires, in whom longing has arisen, are not fulfilled, he is afflicted as though pierced by a dart.”
+> For when people point out earth, they point out color and configuration.
 >
-> What, then, is the affliction of form? The production of alteration. Others say: obstruction by form. Then atomic form would not qualify as form, because it is not affected. But a single atomic form does not exist separately; situated in an aggregate, it is indeed affected. Then past and future form would not qualify as form. That too has been affected, will be affected, and belongs to that kind; hence it is form, as with fuel.
+> As with earth, so also with water and fire:
 >
-> Then avijñapti would not qualify. It too becomes affected through the affecting of manifestation, as a shadow moves when a tree moves. No, because it does not undergo such modification. Moreover, when manifestation ceased, avijñapti would cease, as a shadow is absent when the tree is absent.
+> color and configuration alone are called by those worldly names.
 >
-> Others say: because the Elements serving as its support are affected. Then eye-cognition and the rest would also have to be form, because their supports are affected. This comparison is unequal. Avijñapti continues depending upon the Elements as a shadow upon a tree or radiance upon a jewel. Eye-cognition and the rest do not continue depending upon the eye and the other faculties in that way; those faculties are merely conditions for their arising.
+> Wind, however, is the *dhātu* itself.
 >
-> To begin with, the claim that a shadow continues depending upon a tree and radiance upon a jewel is not Vaibhāṣika, since it is accepted that each color atom of shadow and the rest depends upon its own set of four Elements. Even if shadow and radiance did depend upon those things, avijñapti could not reasonably be dependent in just that way. It is accepted that avijñapti does not cease even when the great Elements supporting it have ceased. Therefore this is not a successful reply.
+> The very wind-*dhātu* is what is called “wind” in the world.
 >
-> Others offer a reply here: the support of eye-cognition and the rest is differentiated. Some support, such as the eye, is affected; some, such as mind, is not affected. This is not the case with avijñapti. Therefore the consequence is not parallel. On this ground it is reasonable to call it form because its support is affected.
+> Yet also in that way.
+>
+> Just as color and configuration are called “earth” by worldly designation, so too for wind:
+>
+> “a blue windstorm,” “a circular windstorm.”
+>
+> Why, then, is this series, extending as far as avijñapti, called the aggregate of form?
+>
+> Because of being affected.
+>
+> The Blessed One said:
+>
+> “It is affected, it is affected, monks; therefore it is called the aggregate of appropriation consisting of form.
+>
+> By what is it affected?
+>
+> Even when touched by the hand, it is affected,” and so forth.
+>
+> “It is affected” means “it is afflicted.”
+>
+> For it is said in the Arthavargīya verses:
+>
+> “If the desires of that embodied person who desires, in whom longing has arisen,
+>
+> are not fulfilled, he is afflicted as though pierced by a dart.”
+>
+> What, then, is the affliction of form?
+>
+> The production of alteration.
+>
+> Others say: obstruction by form.
+>
+> Then atomic form would not qualify as form, because it is not affected.
+>
+> But a single atomic form does not exist separately.
+>
+> Situated in an aggregate, it is indeed affected.
+>
+> Then past and future form would not qualify as form.
+>
+> That too has been affected, will be affected, and belongs to that kind; hence it is form, as with fuel.
+>
+> Then avijñapti would not qualify.
+>
+> It too becomes affected through the affecting of manifestation,
+>
+> as a shadow moves when a tree moves.
+>
+> No, because it does not undergo such modification.
+>
+> Moreover, when manifestation ceased, avijñapti would cease, as a shadow is absent when the tree is absent.
+>
+> Others say: because the Elements serving as its support are affected.
+>
+> Then eye-cognition and the rest would also have to be form, because their supports are affected.
+>
+> This comparison is unequal.
+>
+> Avijñapti continues depending upon the Elements as a shadow upon a tree or radiance upon a jewel.
+>
+> Eye-cognition and the rest do not continue depending upon the eye and the other faculties in that way.
+>
+> Those faculties are merely conditions for their arising.
+>
+> To begin with, the claim that a shadow continues depending upon a tree and radiance upon a jewel is not Vaibhāṣika,
+>
+> since it is accepted that each color atom of shadow and the rest depends upon its own set of four Elements.
+>
+> Even if shadow and radiance did depend upon those things, avijñapti could not reasonably be dependent in just that way.
+>
+> It is accepted that avijñapti does not cease even when the great Elements supporting it have ceased.
+>
+> Therefore this is not a successful reply.
+>
+> Others offer a reply here.
+>
+> The support of eye-cognition and the rest is differentiated.
+>
+> Some support, such as the eye, is affected.
+>
+> Some, such as mind, is not affected.
+>
+> This is not the case with avijñapti.
+>
+> Therefore the consequence is not parallel.
+>
+> On this ground it is reasonable to call it form because its support is affected.
 
 ## 4. Movement and Voices
 
@@ -237,4 +325,4 @@ The first movement distinguishes a worldly name from the *dhātu* determined at 
 
 ## 11. Review Status
 
-Restored to the Organon Bhāṣya sectioning: Anchor; Continuous Sanskrit Witness; Continuous Conventional Translation; Movement and Voices; then the analysis of the two questions; Decisions; Organon Note; Review Status. Witness remains line-by-line because this is a Dharma-Talk. Translation of §3 is unchanged in substance. The preceding rewrite that replaced house sectioning with ad hoc beats is withdrawn. Next unit `[010|07]`.
+House sectioning kept. Section 3 restored as line-for-line English matching §2; the paragraph compression that truncated the translation is withdrawn. Next unit `[010|07]`.
