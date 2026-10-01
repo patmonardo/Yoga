@@ -42,40 +42,67 @@ Local title form `abhidharvarmakośam` and verse citation `sa cāśrayo syety` a
 
 What is this that is called Abhidharma?
 
-**Exposition**
+**Definition of Abhidharma, ultimate**
 
-Stainless prajñā together with its attendants is Abhidharma. Here, prajñā is the discrimination of dharmas. “Stainless” means Pure (*anāsrava*). “With attendants” means with its retinue. Thus what has been said is: Abhidharma is a Pure complex of the five aggregates. This, to begin with, is Abhidharma in the ultimate sense.
+Stainless prajñā, together with its attendants, is Abhidharma.
 
-**Conventional**
+Here, prajñā is the discrimination of dharmas.
 
-Abhidharma in the conventional sense, however, is whatever is for the attainment of that, and whatever treatise. That is: prajñā that is Impure, constituted through hearing, reflection, and cultivation, and also prajñā acquired by birth, each with its attendants; and the treatise whose purpose is the attainment of that Pure prajñā. That treatise too is called Abhidharma, because it has the nature of equipment for that attainment.
+“Stainless” means Pure (*anāsrava*).
+
+“With attendants” means with its retinue.
+
+Thus what has been said is this: Abhidharma is a Pure complex consisting of the five aggregates.
+
+This, to begin with, is Abhidharma in the ultimate sense.
+
+**Definition of Abhidharma, conventional**
+
+Abhidharma in the conventional sense, however, is whatever [prajñā] is for the attainment of that, and whatever treatise [is for that attainment].
+
+Also the Impure prajñā constituted by hearing, by reflection, and by cultivation, and the prajñā acquired by birth, together with its attendants.
+
+And the treatise whose purpose is the attainment of that Pure prajñā: that too is called Abhidharma, because it is equipment for that attainment.
 
 **Definition of dharma**
 
-As for the derivation: a dharma is so called because of the bearing of its own mark (*svalakṣaṇa-dhāraṇa*).
+As for the derivation: it is called dharma because of the bearing of its own mark (*svalakṣaṇa-dhāraṇa*).
 
-**Definition of Abhidharma**
+**Definition of the name Abhidharma**
 
-Therefore this is a dharma facing toward the ultimate dharma, namely nirvāṇa, or facing toward the mark of a dharma. Hence it is Abhidharma.
+Therefore this — this prajñā just defined — is a dharma facing toward the ultimate dharma, that is, nirvāṇa, or facing toward the mark of a dharma. Hence it is called Abhidharma.
+
+The prefix is the facing. *Abhi-* is *pratyabhimukha*. Two facings, not one:
+
+```text
+paramārtha-dharma    = nirvāṇa
+dharma-lakṣaṇa       = the mark of a dharma
+```
 
 **Title**
 
 Abhidharma has been stated. How, then, is this treatise an *Abhidharmakośa*?
 
-Because that enters into this by meaning, and because that is the support of this, it is the *Abhidharmakośa*. For the Abhidharma that bears the name of treatise is included in this work by meaning, according to what is principal. Hence this treatise stands in the place of a treasury for it. Or else that Abhidharma is the support of this treatise, since this treatise has been drawn out from it. Therefore that Abhidharma itself is the treasury of this treatise, and this treatise is called the *Abhidharmakośa*.
+Because that enters into this by meaning, and because that is the support of this, it is the *Abhidharmakośa*.
 
-*Anāsrava* is rendered Pure. *Sāsrava* is rendered Impure. These are the Theoretical cut: Always First, and what presupposes a before. They are not moral stain-words.
+For the Abhidharma that bears the name of treatise is included in this work by meaning, according to what is principal. Hence this treatise stands in the place of a treasury for it.
+
+Or else that Abhidharma is the support of this treatise, since this treatise has been drawn out from it. Therefore that Abhidharma itself is the treasury of this treatise, and this treatise is called the *Abhidharmakośa*.
+
+*Anāsrava* is Pure. *Sāsrava* is Impure. Always First, and what presupposes a before. Not moral stain.
 
 ## 4. Movement of the Commentary
 
 ```text
 What is Abhidharma?
     → ultimate: Pure prajñā with retinue
+        → discrimination of dharmas
         → a Pure five-aggregate complex
     → conventional: Impure prajñā ordered to attaining it
+        → hearing, reflection, cultivation, birth-acquired
         → treatise as equipment
     → dharma = bearing of its own mark
-    → Abhidharma = a dharma facing nirvāṇa, or facing the mark of a dharma
+    → Abhidharma = this dharma facing nirvāṇa, or facing the mark
 Why is this work a Kośa?
     → principal meaning enters here
     → or this work is drawn from Abhidharma as support
@@ -83,24 +110,26 @@ Why is this work a Kośa?
 
 No opponent is marked.
 
-## 5. The two definitions
+## 5. What the definition contains
 
-These two sentences were condensed in the prior English. They are the definitions.
+Nothing in the name-definition is optional. The prior English packed it.
 
 ```text
-dharma
-    svalakṣaṇa-dhāraṇāt
-    because it bears its own mark
+prajñā            dharmapravicaya
+amalā            anāsravā = Pure
+sānucarā         saparivārā
+result           Pure five-aggregate complex
+sense            pāramārthika, to begin with
 
-Abhidharma
-    a dharma that is pratyabhimukha
-    facing paramārtha-dharma = nirvāṇa
-    or facing dharma-lakṣaṇa
+dharma           svalakṣaṇa-dhāraṇāt
+Abhidharma       ayaṃ dharmaḥ pratyabhimukhaḥ
+                 toward paramārtha-dharma = nirvāṇa
+                 or toward dharma-lakṣaṇa
 ```
 
-*Dhāraṇa* is the holding. The root in play is *dhṛ*. A dharma is not named from a list. It is named because it bears its own mark.
+*Dhāraṇa* is the holding. The root in play is *dhṛ*. A dharma is named because it bears its own mark.
 
-The second sentence is the one that faces Sāṃkhya. Sāṃkhya also speaks of a dharma as what is borne, and of a mark. Here the direction is reversed in one respect and kept in another. The dharma bears its own mark; it is not a quality riding a substrate that is not the mark. And Abhidharma is that dharma turned to face either nirvāṇa or the mark itself. Both facings stay. Analysis and the end are one definition.
+The facing-sentence is the Sāṃkhya hinge, and it is part of the definition, not a tail. Sāṃkhya speaks of a dharma as what is borne, and of a mark. Here the dharma bears its own mark. Abhidharma is that dharma turned to face either nirvāṇa or the mark. Both facings stay. Dropping either facing drops the definition.
 
 This is not a complete ontology of *svalakṣaṇa*. It is the derivation the unit gives.
 
@@ -136,15 +165,15 @@ this treatise is drawn from Abhidharma
 2. *Amalā* is Pure. The Bhāṣya’s word is *anāsrava*. The English is not “outflow-free.”
 3. *Tatprāptaye yā* includes the four Impure prajñās and their attendants.
 4. The treatise is equipment, not a vague support.
-5. *Dharma* is bearing of its own mark. *Abhidharma* is a dharma facing nirvāṇa or facing the mark.
+5. *Dharma* is bearing of its own mark. *Abhidharma* is this dharma facing nirvāṇa, or facing the mark. Neither facing is dropped.
 6. The two *kośa* derivations reverse container and source.
 
 ## 9. Organon Note
 
 Marked as project. Not a substitute for §3 and §5.
 
-Abhidharma in the ultimate sense is the Dharma of a Buddha: the Discriminator. Pure here is Always First, not a moral grade. The book is equipment. English does not yet carry the system. The later form of this definition is Rust, not another paragraph.
+Abhidharma in the ultimate sense is the Dharma of a Buddha: the Discriminator. Pure here is Always First, not a moral grade. The book is equipment.
 
 ## 10. Review Status
 
-Outflow-free withdrawn. *Dhāraṇa* and the facing-sentence restored as their own sentences. Sāṃkhya hinge marked on the second definition, not written into the conventional line as a Sāṃkhya lecture. Next: 1.03 when called.
+Abhidharma definition written clause by clause: discrimination, Pure, retinue, five aggregates, ultimate sense, then the name-derivation with both facings. Next: 1.03 when called.
