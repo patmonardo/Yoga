@@ -34,17 +34,17 @@ The second line: the eye and the rest are *rūpa-prasāda*, supports of the corr
 
 ### Literal
 
-Form is the five faculties, the five *arthas*, and *avijñapti* also. The eye and the others are clarities of form, supports of the corresponding Principles.
+Form is the five faculties, the five Meanings, and *avijñapti* also. The eye and the others are clarities of form, supports of the corresponding Principles.
 
-*Artha* stands. The Bhāṣya glosses it as *viṣaya*. They are not two cells. *Artha* is the wiggle of *viṣaya*.
+*Artha* is Meaning. The Bhāṣya glosses it as *viṣaya*. They are not two cells. Meaning is the wiggle of *viṣaya*.
 
 ### Bhāṣya-informed
 
-The aggregate of form is the five faculties, the five respective *viṣayas* of those faculties, and *avijñapti*. That is the whole of the *rūpa-skandha*. The faculties beginning with the eye are clarities of form. They support the Principle correlated with each. *Avijñapti* is named, not defined. The five *arthas* remain to be explained.
+The aggregate of form is the five faculties, the five respective *viṣayas* of those faculties, and *avijñapti*. That is the whole of the *rūpa-skandha*. The faculties beginning with the eye are clarities of form. They support the Principle correlated with each. *Avijñapti* is named, not defined. The five Meanings remain to be explained.
 
 ## 6. Philosophical Translation
 
-Schema, as Ontology. Not a second vocabulary pasted on the verse.
+Schema, as Ontology. The method of constructing it.
 
 ```text
 skandha        Base
@@ -52,17 +52,24 @@ skandha        Base
 dhātu          Definition
 ```
 
-This verse is the Base of form. Eleven members. Meaning is what happens when members combine. Definition is not this verse. Definition is *dhātu*.
+This verse is the Base of form. Eleven members. Meaning is what the members combine into. Definition is *dhātu*. Not this verse.
 
 ```text
 sound              the member, on the Base
 what is heard      the combination
 what it means      Meaning
-                   āyatana
-                   not yet Definition
 ```
 
-*Artha* is that wiggle: damn hot, very hot, hot, room temp. One Condition. Degrees. The gloss *viṣaya* points at the wiggle. It does not hand over an Object. Object is another point in the pipeline, Hegel’s Object, reached by the chakras. Not spent here.
+Sāṃkhya discriminates *tanmātra* and the subtle Elements. Vedānta tosses that discrimination. Form Theory and Substance Theory do not.
+
+```text
+tanmātra           Form
+                   the five Meanings
+subtle Element     not the same cell
+                   Substance Theory keeps the cut
+```
+
+The gloss *viṣaya* points at the wiggle. It does not hand over an Object. Object is another point in the pipeline.
 
 ## 7. Vocabulary
 
@@ -70,8 +77,9 @@ what it means      Meaning
 |---|---|
 | rūpa-skandha | the Base of form. Eleven |
 | indriya | faculty. A rule applied to nature |
-| artha | the wiggle of *viṣaya*. Left untranslated in the literal |
+| artha | Meaning. The wiggle of *viṣaya* |
 | viṣaya | the Bhāṣya gloss. Condition |
+| tanmātra | Form-side of the five Meanings. Not Vedānta-collapsed into the subtle Element |
 | avijñapti | named. Not defined until 1.11 |
 | vijñāna | Principle. Not a member of this Base |
 | āyatana | Meaning. Not this verse’s count |
@@ -80,15 +88,16 @@ what it means      Meaning
 ## 8. Logical Determination
 
 ```text
-RūpaSkandha = Indriya×5 + Artha×5 + Avijñapti
+RūpaSkandha = Indriya×5 + Meaning×5 + Avijñapti
 Vijñāna ∉ RūpaSkandha
-Artha = wiggle(Viṣaya)
+Meaning = wiggle(Viṣaya)
+Tanmātra ≠ SubtleElement
 Object ∉ this verse
 ```
 
 ## 9. Interpretive Note
 
-Kośa voice. The schema is how the received count is read: a Base, whose members combine into Meaning. Definition waits. The Bhāṣya is not synced.
+Kośa voice. Meaning is the English of *artha* because that is how the Ontology is built. The Bhāṣya is not synced.
 
 ## 10. OWL++ Seed
 
@@ -99,7 +108,6 @@ vak:VAK_1_09 a vak:Karika ;
     vak:hasTopic vak:RupaBase ;
     vak:belongsTo vak:Dhatunirdesa .
 
-vak:Skandha vak:schemaRole "Base" .
-vak:Ayatana vak:schemaRole "Meaning" .
-vak:Dhatu vak:schemaRole "Definition" .
+vak:Artha vak:english "Meaning" .
+vak:Tanmatra vak:distinctFrom vak:SubtleElement .
 ```
