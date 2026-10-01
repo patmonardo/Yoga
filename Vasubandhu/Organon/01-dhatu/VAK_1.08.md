@@ -2,9 +2,9 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> ये सास्रवा उपादानस्कन्धास्ते सरणा अपि ।
+> ये सास्रवо उपादानस्कन्धоस्ते सरणо अपि ।
 >
-> दुःखं समुदयो लोको दृष्टिस्थानं भवश्च ते ॥ १.०८ ॥॥
+> दुःखं समुदयो लोको दृष्टिस्थоनं भवश्च ते ॥ १.०८ ॥॥
 
 ## 2. Sanskrit (IAST)
 
@@ -17,7 +17,7 @@
 ye | sāsravāḥ | upādāna-skandhāḥ | te | saraṇāḥ | api |
 duḥkham | samudayaḥ | lokaḥ | dṛṣṭi-sthānam | bhavaḥ | ca | te
 
-`Ye … te` restricts 1.07. Not every aggregate is this. The Path is Conditioned and not this.
+`Ye … te` restricts 1.07. Not every aggregate is this. The Path is Conditioned and not Impure.
 
 ## 4. Grammar
 
@@ -28,81 +28,57 @@ ye sāsravāḥ
     = duḥkha, samudaya, loka, dṛṣṭisthāna, bhava
 ```
 
-One field under restriction. The second line is coextensive names, not a second inventory.
+One field under a summary division. The second line names that same Impure field. It is not a second inventory.
 
 ## 5. Translation
 
 ### Withdrawn
 
-Those which are with outflows are the aggregates of appropriation; they are also accompanied by conflict. They are suffering, origin, world, the station of views, and becoming.
+Those which are with outflows are the aggregates of appropriation.
 
-“Outflows settle” and “aggregates of appropriation” are the broken brain. Not the reading.
+“Outflows settle” and “aggregates of appropriation” are withdrawn.
 
 ### The kārikā
 
-Those which are Impure are Being under grip. They are also the conflict. They are suffering, origin, the world that dissolves, the station of views, and becoming.
+Those which are Impure are the *upādānaskandhas*. They are also *saraṇa*. They are suffering, origin, world, the station of views, and becoming.
 
-```text
-sāsrava              Impure
-                     what persists
-                     not the Path
-
-upādānaskandha      Being under grip
-                     the Empirical latch of 1.07
-                     proper subset
-                     the Path is Conditioned and not this
-
-saraṇa               the conflict
-                     the battle
-                     properties as armor
-
-duḥkha               suffering
-                     contrary to the Āryas
-
-samudaya            origin
-                     suffering arises from this field
-
-loka                dissolves
-                     not a field of appearance
-
-dṛṣṭisthāna         station of views
-                     views stand here by persisting
-
-bhava               becoming
-                     what comes to be
-```
+Impure is the top-level summary division. The sheath is not opened here.
 
 ## 6. Philosophical Translation
 
-1.07 was the wheel. 1.08 is the wheel where it persists.
+1.07 was the wheel. 1.08 divides that wheel.
 
-Essential Being, when Impure, is under grip. The grip is the affliction. It produces the field, governs the field, and is produced again from the field. That circuit is the battle. The armor is the properties. A Rational Dharma does not Persist, so the Path stays Being and stays off this list.
+```text
+Impure          what persists
+                the summary cut
+                not yet the sheath
 
-The five names are one field. They are not synonyms. Each names the grip under a function: contrary to the Āryas, origin of suffering, dissolving, where views persist, what comes to be.
+Path            Conditioned
+                not Impure
+                not this verse
+```
+
+The five names are coextensive with that Impure field. They are not synonyms, and they are not a dive into the sheath. Suffering, origin, world, station of views, becoming: names of the division, each with its own ground, waiting on the Bhāṣya.
 
 ## 7. Vocabulary
 
 | Sanskrit | Withdrawn | Determination |
 |---|---|---|
-| sāsrava | with outflows; settle | Impure. Persists |
-| upādānaskandha | aggregate of appropriation | Being under grip |
-| upādāna | grasping as a hand | here, the affliction |
-| saraṇa | accompanied by conflict | the battle |
-| loka | field of appearance | dissolves |
-| dṛṣṭisthāna | a topic of opinion | views persist here |
-| bhava | a container called existence | becoming |
+| sāsrava | with outflows; settle | Impure. Summary division |
+| upādānaskandha | aggregate of appropriation | the Impure subset. Sheath not opened |
+| anāsrava | without outflows | Pure. The Path is this, and not the subset |
 
 ## 8. Logical Determination
 
 ```text
-Impure(x) ↔ BeingUnderGrip(x)
-Being(x) ↛ BeingUnderGrip(x)
-Path is Conditioned and not this
+Impure(x) ↔ Upādānaskandha(x)
+Being(x) ↛ Impure(x)
+Path is Conditioned and Pure
 ```
 
 ## 9. Interpretive Note
 
-Focused kārikā. Bhāṣya not synced. The three examples in the prose — fire from grass, the king’s servant, fruit from the tree — are the circuit. They wait in the Bhāṣya.
+Do not pretend this verse touches the sheath. Impure is the division. The Bhāṣya is not synced.
 
 ## 10. OWL++ Seed
 
@@ -110,9 +86,9 @@ Focused kārikā. Bhāṣya not synced. The three examples in the prose — fire
 @prefix vak: <http://127.0.0.1:3000/vak#> .
 
 vak:VAK_1_08 a vak:Karika ;
-    vak:hasTopic vak:ImpureBeing ;
+    vak:hasTopic vak:ImpureDivision ;
     vak:belongsTo vak:Dhatunirdesa .
 
-vak:BeingUnderGrip vak:properSubsetOf vak:EssentialBeing .
-vak:Path vak:not vak:BeingUnderGrip .
+vak:Impure vak:summaryDivision true .
+vak:Path vak:not vak:Impure .
 ```
