@@ -4,7 +4,7 @@
 
 > प्रज्ञामला सानुचराभिधर्मः तत्प्राप्तये यापि च यच्च शास्त्रम् ।
 >
-> तस्यार्थतोऽस्मिन् समनुप्रवेशात् स चाश्रयोऽस्येत्यभिधर्मकोशम् ॥ १.०२ ॥
+> तस्यार्थतोऽस्मिन् समनुप्रवेशात् स चाश्रयोऽस्येत्यभिधर्मकोशम् ॥ १.०२ ॥॥
 
 ## 2. Sanskrit (IAST)
 
@@ -32,7 +32,7 @@ abhidharmakośam            → abhidharma-kośam
 | Surface form | Pada / lemma | Morphological features | Local force |
 |---|---|---|---|
 | prajñā | prajñā | noun; feminine; nominative singular | subject of the first definition |
-| amalā | amala | adjective; feminine; nominative singular | qualifies `prajñā`: stainless |
+| amalā | amala | adjective; feminine; nominative singular | qualifies `prajñā`: stainless; Bhāṣya = Pure |
 | sānucarā | sa-anucara | adjective; feminine; nominative singular | qualifies `prajñā`: with attendants |
 | abhidharmaḥ | abhidharma | noun; masculine; nominative singular | predicate nominative |
 | tatprāptaye | tad-prāpti | compound noun; feminine; dative singular | purpose: for attainment of that |
@@ -63,7 +63,7 @@ yat ca śāstram [tat-prāptaye]
     and whatever treatise [is directed] to attaining that
 ```
 
-The Kārikā itself does not state that the second prajñā is `sāsrava`. That doctrinal feature is supplied by the Bhāṣya.
+The Kārikā itself does not state that the second prajñā is Impure. That determination is supplied by the Bhāṣya.
 
 ## 4. Grammar
 
@@ -91,14 +91,14 @@ tat-prāptaye
     └── yat ca śāstram
 ```
 
-The dative `tat-prāptaye` gives the common purpose governing both the unexpressed `prajñā` and the expressed `śāstram`: they are ordered toward attainment of **that**, namely the stainless prajñā already defined.
+The dative `tat-prāptaye` gives the common purpose governing both the unexpressed `prajñā` and the expressed `śāstram`: they are ordered toward attainment of that, namely the Pure prajñā already defined.
 
 The Bhāṣya assigns the two levels explicitly:
 
 ```text
 pāramārthika Abhidharma
     amalā prajñā sānucarā
-    stainless prajñā with attendants
+    Pure prajñā with attendants
 
 sāṃketika Abhidharma
     yā [prajñā] tat-prāptaye
@@ -106,7 +106,7 @@ sāṃketika Abhidharma
     prajñā and treatise directed to its attainment
 ```
 
-It further determines the first as an `anāsrava` five-aggregate complex, and the path-prajñā as `sāsrava` prajñā constituted through hearing, reflection, cultivation, or birth-acquisition. These are Bhāṣya determinations, not words contained in the Kārikā.
+It further determines the first as a Pure five-aggregate complex, and the path-prajñā as Impure prajñā constituted through hearing, reflection, cultivation, or birth-acquisition. These are Bhāṣya determinations, not words contained in the Kārikā.
 
 ### The two title derivations
 
@@ -126,27 +126,27 @@ The last half-verse permits two directions of construal, made explicit by the Bh
 
 In the first derivation, this treatise occupies the place of a treasury because it contains the principal meaning of śāstric Abhidharma. In the second, Abhidharma is itself the treasury or source from which this treatise is drawn.
 
-## 5. Literal Translation
+## 5. Translation
 
-### Close syntactic construe
+### Literal Translation
 
 > Stainless prajñā, with its attendants, is Abhidharma; so also is whatever [prajñā] is for the attainment of that, and whatever treatise [is for its attainment]. Because that enters into this by meaning—and because that is the supporting basis of this—[this treatise is called] the *Abhidharmakośa*.
 
 ### Bhāṣya-informed translation
 
-> Stainless prajñā together with its attendants is Abhidharma in the ultimate sense. In the conventional sense, so too are prajñā with outflows directed toward attaining it and the treatise serving as equipment for that attainment. This work is called the *Abhidharmakośa* either because the principal meaning of śāstric Abhidharma is contained within it, or because it has been drawn from Abhidharma as its supporting treasury.
+> Pure prajñā together with its attendants is Abhidharma in the ultimate sense: the discrimination of dharmas, with its retinue, a Pure complex of the five aggregates. In the conventional sense, so too are the Impure prajñā constituted by hearing, reflection, and cultivation, and the prajñā acquired by birth, each with its attendants, and the treatise that is equipment for attaining that Pure prajñā. A dharma is so called because it bears its own mark. Abhidharma is this dharma facing the ultimate dharma, nirvāṇa, or facing the mark of a dharma. This work is called the *Abhidharmakośa* either because the principal meaning of śāstric Abhidharma is contained within it, or because it has been drawn from Abhidharma as its supporting treasury.
 
-The second translation makes the Bhāṣya's determinations explicit; it is not offered as a word-for-word rendering of the Kārikā alone.
+The second translation makes the Bhāṣya's determinations explicit. It is not a word-for-word rendering of the Kārikā alone. Neither facing in the name-definition is dropped.
 
 ## 6. Philosophical Translation
 
-> Abhidharma is first an accomplished mode of knowing: stainless discrimination of dharmas occurring with its full accompanying complex. By designation, the name also extends to the still-conditioned forms of prajñā and to the treatise that function as equipment for attaining it. The Kośa mediates between these orders: it gathers Abhidharma's principal meaning, yet is itself drawn from Abhidharma as its source.
+> Abhidharma is first the Discriminator: Pure discrimination of dharmas, occurring with its full accompanying complex. By designation, the name also extends to Impure prajñā and to the treatise that function as equipment for attaining it. The Kośa mediates between these orders: it gathers Abhidharma's principal meaning, yet is itself drawn from Abhidharma as its source.
 
 Organon rendering:
 
-> The book is not the first meaning of Abhidharma. Abhidharma is stainless prajñā in concrete occurrence. Learning, reflection, cultivation, and śāstra belong to it by their directedness toward that attainment. The Kośa is therefore both a containment of Abhidharma in meaning and an extraction from Abhidharma as source.
+> The book is not the first meaning of Abhidharma. Abhidharma is the Dharma of a Buddha. Hearing, reflection, cultivation, birth-acquired prajñā, and the śāstra belong to it by their directedness toward that attainment. The Kośa is both a containment of Abhidharma in meaning and an extraction from Abhidharma as source.
 
-> In rational terms, the path-prajñā is consequential: it moves through conditioned determinations toward stainless prajñā. Stainless prajñā is unconsequential, not because it is inert, but because the movement has no further uncomprehended condition beyond it.
+> Pure is Always First. Impure prajñā presupposes that attainment as its before. It is not a moral grade.
 
 ## 7. Technical Vocabulary
 
@@ -154,10 +154,10 @@ Organon rendering:
 
 | Sanskrit | Project rendering | Determination |
 |---|---|---|
-| prajñā | discriminative knowing | Defined by the Bhāṣya as `dharmapravicaya`, discrimination of dharmas |
-| amala | stainless | Specified by the Bhāṣya as `anāsrava`, without outflows |
-| sānucara | with attendants | Prajñā together with its accompanying complex; the attendants are not enumerated here |
-| tatprāpti | attainment of that | Attainment of stainless prajñā with attendants |
+| prajñā | discriminative knowing | Bhāṣya: `dharmapravicaya`, discrimination of dharmas |
+| amala | stainless | Bhāṣya: Pure (`anāsrava`). Not outflow-free. Not a moral stain-word |
+| sānucara | with attendants | Prajñā together with its retinue; the attendants are not enumerated here |
+| tatprāpti | attainment of that | Attainment of Pure prajñā with attendants |
 | śāstra | treatise | Conventionally Abhidharma because it is equipment for that attainment |
 | arthataḥ | by meaning | The mode in which Abhidharma is included in this work |
 | samanupraveśa | comprehensive entry | Inclusion of the principal meaning of śāstric Abhidharma |
@@ -168,73 +168,83 @@ Organon rendering:
 
 | Sanskrit | Project rendering | Function here |
 |---|---|---|
-| pāramārthika | in the ultimate sense | Classifies stainless prajñā with attendants |
+| pāramārthika | in the ultimate sense | Classifies Pure prajñā with attendants |
 | sāṃketika | conventional / designated | Classifies path-prajñā and the treatise |
-| anāsrava | without outflows | Doctrinal determination of `amala` |
-| sāsrava | associated with outflows | Doctrinal status of the prajñā directed toward attainment |
+| anāsrava | Pure | Determination of `amala`. Always First. Not “outflow-free” |
+| sāsrava | Impure | Status of the prajñā directed toward attainment. Presupposes a before |
 | pañcaskandhaka | consisting of five aggregates | Concrete complex of ultimate Abhidharma |
-| saṃbhāra | equipment / provision | Why the treatise is conventionally Abhidharma |
+| saṃbhāra | equipment | Why the treatise is conventionally Abhidharma |
 | dharmapravicaya | discrimination of dharmas | Operational definition of prajñā |
-| pratyabhimukha | directed toward | Explains `abhi-`: toward nirvāṇa or dharma-determination |
+| dharma | dharma | `svalakṣaṇa-dhāraṇāt`: because it bears its own mark |
+| dhāraṇa | bearing | The holding. Root `dhṛ`. Not dropped from the definition |
+| svalakṣaṇa | own mark | What a dharma bears |
+| pratyabhimukha | facing toward | The prefix `abhi-`. Two facings, both kept |
+| paramārtha-dharma | ultimate dharma | Identified here with nirvāṇa. First facing |
+| dharma-lakṣaṇa | mark of a dharma | Second facing. The Sāṃkhya hinge. Not dropped |
 
 ## 8. Logical Determination
-
-The verse and Bhāṣya yield a typed architecture:
 
 ```text
 ABHIDHARMA
 │
 ├── ultimate (pāramārthika)
-│   └── anāsrava prajñā with attendants
-│       └── an anāsrava five-aggregate complex
+│   └── Pure prajñā with attendants
+│       └── discrimination of dharmas
+│       └── a Pure five-aggregate complex
 │
 └── conventional (sāṃketika)
-    ├── sāsrava prajñā directed toward the ultimate
+    ├── Impure prajñā directed toward the ultimate
     │   ├── hearing-constituted
     │   ├── reflection-constituted
     │   ├── cultivation-constituted
     │   └── birth-acquired
     └── śāstra serving as equipment for attainment
+
+dharma
+    = bears its own mark
+
+Abhidharma
+    = this dharma facing nirvāṇa
+      or facing the mark of a dharma
 ```
 
 The title then expresses reciprocal dependence:
 
 ```text
 Abhidharma ──principal meaning enters──▶ Kośa
-Kośa ──is drawn from───────────────▶ Abhidharma
+Kośa ──is drawn from──────────────▶ Abhidharma
 
 first relation:  Kośa is treasury-like for Abhidharma
 second relation: Abhidharma is the treasury-source of the Kośa
 ```
 
-The two relations must not be reduced to a single generic notion of “support.” They reverse the direction of containment and dependence.
+The two relations must not be reduced to a single generic notion of “support.” They reverse the direction of containment and dependence. The two facings must not be reduced to one.
 
 ## 9. Interpretive Note
 
-VAK 1.02 determines the relation between realized knowledge, the path that produces it, and the textual system that serves that path. The levels are unequal but continuous:
+VAK 1.02 determines the relation between realized discrimination, the path that produces it, and the textual equipment that serves that path.
 
 ```text
-conditioned prajñā and textual equipment
+Impure prajñā and textual equipment
     are directed toward
-stainless prajñā with attendants
+Pure prajñā with attendants
 ```
 
-This makes the Kośa neither a merely external description nor the ultimate Abhidharma itself. It is an instrument whose organization carries the principal meaning of Abhidharma and whose material is extracted from the Abhidharma tradition.
+The Kośa is neither a merely external description nor the ultimate Abhidharma itself.
 
 Organon note:
 
 ```text
 ultimate Abhidharma
-    = the attained discriminative operation
+    = the Dharma of a Buddha
+    = the Discriminator
 
 conventional Abhidharma
     = the operations and equipment ordered toward its attainment
 
 Kośa
-    = a meaning-container compiled from Abhidharma as source
+    = a meaning-container drawn from Abhidharma as source
 ```
-
-This is the first explicit warrant for treating the Kośa as an operational architecture. The analogy with a compiler is methodological: each representational stage serves the production of a determinate cognitive result. It does not replace Vasubandhu's own distinction between ultimate and conventional Abhidharma.
 
 ## 10. OWL++ Seed
 
@@ -252,13 +262,19 @@ vak:VAK_1_02
 vak:ParamarthikaAbhidharma
     a vak:AbhidharmaSense ;
     rdfs:label "Abhidharma in the ultimate sense" ;
-    vak:definedAs vak:StainlessPrajnaWithAttendants .
+    vak:definedAs vak:PurePrajnaWithAttendants .
 
 vak:SamketikaAbhidharma
     a vak:AbhidharmaSense ;
     rdfs:label "Abhidharma in the conventional sense" ;
-    vak:includes vak:PathPrajna, vak:AttainmentTreatise ;
-    vak:directedToward vak:StainlessPrajnaWithAttendants .
+    vak:includes vak:ImpurePathPrajna, vak:AttainmentTreatise ;
+    vak:directedToward vak:PurePrajnaWithAttendants .
+
+vak:Dharma
+    vak:definedAs vak:BearsOwnMark .
+
+vak:Abhidharma
+    vak:faces vak:Nirvana, vak:DharmaLaksana .
 
 vak:Abhidharmakosa
     a vak:Treatise ;
