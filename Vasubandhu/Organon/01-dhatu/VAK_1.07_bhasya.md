@@ -10,11 +10,11 @@ Literal (from [`VAK_1.07.md`](./VAK_1.07.md)):
 
 > Those conditioned dharmas, again, are the five aggregates beginning with form. That very same [field] is the temporal course, the basis of discourse, possessed of an exit, and possessed of a *vastu*.
 
-Previous: 1.06, the two cessations. Next: 1.08, the sāsrava restriction of the same aggregates. Span: Pradhan `[004|23]`–`[005|08]`.
+The literal is harsh. It is kept for the Pruden comparison. The Rational comment is in the verse study. It is not copied into §3.
+
+Span: Pradhan `[004|23]`–`[005|08]`. Next: 1.08.
 
 ## 2. Continuous Sanskrit Witness
-
-Medium unit: compact witness.
 
 > yat tūktam “saṃskṛtā mārgavarjitāḥ sāsravā” iti katame te saṃskṛtāḥ /
 > te punaḥ saṃskṛtā dharmā rūpādiskandhapañcakam /
@@ -33,16 +33,11 @@ Medium unit: compact witness.
 > hetuvacanaḥ kila vastuśabda iti vaibhāṣikāḥ /
 > ity ete saṃskṛtadharmaparyāyāḥ /
 
-**Witness.** The local IAST is a working e-text, not a critical edition. At
-`[004|26]` it lists four aggregates and omits `saṃjñāskandha`; that line is
-not patched. Pruden supplies the fifth name; this file does not. The kārikā
-still says *pañcakam*. The readings `kathā vākyam` at `[005|03]` and
-`adyante 'nityatayeti vā` at `[005|03]` repair damaged local strings
-contextually; both remain provisional pending a printed-edition check.
+At `[004|26]` the witness lists four aggregates and omits `saṃjñāskandha`. Not patched. The kārikā says five.
 
 ## 3. Continuous Conventional Translation
 
-> As for what was said — “Conditioned dharmas, excluding the Path, are with outflows” — which, then, are those conditioned dharmas?
+> As for what was said — “Conditioned dharmas, excluding the Path, are Impure” — which, then, are those conditioned dharmas?
 >
 > Those conditioned dharmas, again, are the five aggregates beginning with form. The aggregate of form, the aggregate of feeling, the aggregate of formations, and the aggregate of cognition — these are the conditioned dharmas.
 >
@@ -54,125 +49,48 @@ contextually; both remain provisional pending a printed-edition check.
 >
 > Discourse is speech. That which is its basis is so called. Because meaningful discourse takes the conditioned as its basis, the conditioned is called the basis of discourse. Otherwise the Prakaraṇa treatise would be contradicted: “The bases of discourse are included within the eighteen *dhātus*.”
 >
-> The exit — the going-out — from everything conditioned is nirvāṇa. Because they have that exit, they are called possessed of an exit.
+> The exit from everything conditioned is nirvāṇa. Because they have that exit, they are called possessed of an exit.
 >
 > Because they possess causes, they are called possessed of a *vastu*. The Vaibhāṣikas say that here the word *vastu* expresses cause.
 >
 > These are alternative designations of conditioned dharmas.
 
-The conventional list follows the local witness. Recognition is not inserted into that list. The etymology is *pratyayaiḥ kṛtā*. The headword remains *conditioned*, not *created*. *Rūpa* is form, not “material form.”
+The conventional list follows the local witness. Recognition is not inserted. *Rūpa* is form. The cause-sentence is the Vaibhāṣika gloss. It is not the reading of *vastu*.
 
-## 4. Movement of the Commentary
-
-No objector is marked in this unit. One gloss is attributed to the Vaibhāṣikas.
+## 4. Movement
 
 ```text
-1.04: conditioned, Path excepted, are sāsrava
-    → which are the conditioned?
-        → they are the five aggregates
-        → made by plural conditions acting together
-        → future included by kind (milk, fuel)
+which are the conditioned?
+    → the five aggregates
+    → made by plural conditions acting together
+    → future included by kind
     → the same field under other names
-        → temporal course
-        → basis of discourse (inside the eighteen dhātus)
-        → possessed of exit = nirvāṇa
-        → possessed of vastu = causes (Vaibhāṣika, kila)
+        → course
+        → basis of discourse, inside the eighteen dhātus
+        → exit = nirvāṇa
+        → possessed of vastu
+            Vaibhāṣika, kila: the word expresses cause
 ```
 
-## 5. What a skandha is in this unit
+## 5. Decisions for the Kārikā
 
-This is the definitional sentence of the chapter:
-
-```text
-saṃskṛtā dharmāḥ  =  rūpādi-skandha-pañcakam
-```
-
-A skandha is the form in which the conditioned are gathered and counted as one field. `Pañcakam` is a collective singular predicate of a plural subject: five members, one conditioned body.
-
-The five named by the kārikā:
-
-```text
-rūpa-skandha       aggregate of form
-vedanā-skandha     aggregate of feeling
-saṃjñā-skandha     aggregate of recognition
-saṃskāra-skandha   aggregate of formations
-vijñāna-skandha    aggregate of cognition
-```
-
-The expansion line does not list recognition. Pruden does. This file does not add the name to the witness. The kārikā still requires five.
-
-What the identity confers:
-
-1. After 1.04–1.06 the conditioned are no longer a remainder opposite the unconditioned. They have a body.
-2. The second pāda does not add four extra classes. Time, discourse, exit, and *vastu* are names of that same body (*paryāya*).
-3. 1.08 will restrict a subset of this same body as *upādānaskandha*. It will not invent another five.
-4. Internal analysis of form begins at 1.09. This unit only identifies the field.
-
-English “consciousness” is not used for the fifth aggregate. “Heap” as a dismissive is not used. “Material form” is not used for *rūpa*.
-
-## 6. Why they are called conditioned
-
-`Sametya saṃbhūya pratyayaiḥ kṛtāḥ`: made by conditions that have come together and that function together. `Na hy ekapratyayajanitaṃ kiñcid asti`: nothing here is produced by one isolated condition.
-
-The name is relational genesis, not assembly from parts, and not cosmogonic making. The English headword stays *conditioned*. The etymology *kṛtā* is kept.
-
-Future dharmas are called conditioned by kind (`tajjātīyatva`), as milk and fuel are named before use. Prospective naming does not make the future presently produced.
-
-## 7. The same field under four further names
-
-| Name | What it discloses |
-|---|---|
-| five aggregates | structural composition of the conditioned |
-| *adhvan* | those same dharmas as gone / going / about-to-go; or as consumed by impermanence |
-| *kathāvastu* | the basis of meaningful doctrinal speech; Prakaraṇa includes the bases in the eighteen *dhātus* |
-| *saniḥsāra* | they have an exit; that exit is nirvāṇa from all that is conditioned |
-| *savastuka* | they possess a *vastu*; the Vaibhāṣika gloss makes that *vastu* a cause (*hetu*, *kila*) |
-
-Time is not a container around the aggregates. The courses *are* the conditioned under temporal determination.
-
-Nirvāṇa is not a sixth aggregate and not a property packed inside the five. It is the exit from the whole field, Path included as conditioned.
-
-`Savastuka` means “possessed of a *vastu*.” The Bhāṣya reports a Vaibhāṣika
-gloss in which *vastu* expresses `hetu`; it does not license a universal
-equation of *vastu* with cause.
-
-## 8. The Bhāṣya's Decisions for the Kārikā
-
-1. The five aggregates *are* the conditioned under aggregate-description.
+1. The five aggregates are the conditioned under aggregate-description.
 2. The witness expansion is left unpatched. The kārikā still says five.
 3. `Saṃskṛta` is *pratyayaiḥ kṛtā*. Headword: conditioned.
 4. `Rūpa` in English is form.
 5. `Adhvan` names those dharmas as past, present, and future.
 6. `Kathāvastu` is constrained by the Prakaraṇa inclusion in the eighteen *dhātus*.
 7. `Saniḥsāra`: nirvāṇa is the exit from all that is conditioned.
-8. `Savastuka`: possessed of a *vastu*; the local Vaibhāṣika gloss reads that
-    *vastu* as cause.
+8. `Savastuka`: possessed of a *vastu*. The Vaibhāṣika gloss is marked *kila*. It is not the reading.
 
-## 9. Organon Note
+## 6. Rational Comment
 
-Marked as project. Not a substitute for §3–§7.
+Presupposed: Yoga:Kośa is one dyad. The Sūtra is the *paramārtha*. Hegel is the bhāṣya of that key. Not copied into §3.
 
-This is the first verse at which Skandha can be read as Being: the Conditioned gathered as one articulated body. Āyatana and Dhātu are not yet the work of the verse. Do not call 1.07 the Concept.
+*Vastu* is Appearance of Essence: the Thing and its properties. Essential Relation, not Absolute Relation. YS 4.14: the reality of the *vastu* is the oneness of the transformation. YS 4.12 is the course this verse calls *adhvan*. YS 4.15: the *vastu* is the same, the cittas differ.
 
-For the Organon, `kathāvastu` and `savastuka` must remain distinct. The
-first names the conditioned as what discourse can take up. The second names
-them as possessing *vastu*: a Thing with natural properties, modeled through
-features articulated by the guṇas. These features enter relations and their
-conflict is causal. The Vaibhāṣika equation of *vastu* with `hetu` is thus
-retained as the Bhāṣya's attributed causal reading, but it does not exhaust
-the project determination of *vastu*.
+The gloss *hetuvacanaḥ kila vastuśabda* catches the moment the thing becomes cause through its properties. It does not define the word. Substance does not Appear. The properties do.
 
-Taken together, the *paryāyas* articulate one conditioned actuality rather
-than an appended list of predicates. Skandha gathers its determinations;
-*adhvan* determines their transformation as temporal; *kathāvastu*
-determines that same unity as communicable; *saniḥsāra* holds nirvāṇa as its
-exit; and *savastuka* determines it as Thing. The project bridge to Yoga
-Sūtra 4.13–4.14 is explicit: Guṇa-nature becomes *vastu* where its
-transformation is one (`pariṇāmaikatvād vastu-tattvam`). This is an Organon
-reconstruction, not an additional claim of the Bhāṣya.
+## 7. Review Status
 
-Algebra remains on the verse study. It does not rewrite this translation.
-
-## 10. Review Status
-
-Witness unpatched. *Rūpa* = form. Bootstrap passes stay what they were. This pass is Expert and may move into Organon proper before a third full pass. Next: 1.08.
+Literal kept. Rational comment added. Witness unpatched. Next mark is the user’s.
