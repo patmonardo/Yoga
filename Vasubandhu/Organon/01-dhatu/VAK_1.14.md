@@ -31,24 +31,25 @@ No new item. *Avijñapti* is not in the ten.
 
 ```text
 vedanā = anubhava
-saṃjñā = nimitta-udgrahaṇa-ātmikā
+saṃjñā = reflection
+nimitta-udgrahaṇa stays in the padaccheda
 ```
 
 ## 5. Translation
 
 ### Literal
 
-These very faculties and meanings are accepted as the ten essences and the ten principles. Feeling is undergoing. *Saṃjñā* consists in taking up a mark.
+These very faculties and meanings are accepted as the ten essences and the ten principles. Feeling is undergoing. *Saṃjñā* consists in reflection.
 
 ### Bhāṣya-informed
 
-The five faculties and the five meanings already stated are the ten essences and the ten principles. *Avijñapti* is not among them. Feeling is undergoing: pleasant, painful, or neither. *Saṃjñā* is the taking up of a mark: blue, yellow, long, short, and the rest.
+The five faculties and the five meanings already stated are the ten essences and the ten principles. *Avijñapti* is not among them. Feeling is undergoing. *Saṃjñā* consists in reflection.
 
 ## 6. Philosophical Translation
 
-Exit from form. The same ten, placed twice. Essence, then principle. Eye-essence, eye-principle, and the rest of the ten. Not a relation.
+Exit from form. The same ten, placed twice. Essence, then principle. Not a relation.
 
-Feeling undergoes. *Saṃjñā* takes up a mark. The verse does not say *vijñāna*.
+Feeling undergoes. *Saṃjñā* is reflection. The verse does not say *vijñāna*.
 
 ## 7. Vocabulary
 
@@ -60,9 +61,8 @@ Feeling undergoes. *Saṃjñā* takes up a mark. The verse does not say *vijñā
 | dhātu | principle |
 | vedanā | feeling |
 | anubhava | undergoing |
-| saṃjñā | kept |
-| nimitta | mark |
-| udgrahaṇa | taking up |
+| saṃjñā | reflection |
+| nimitta-udgrahaṇa | not the English |
 
 ## 8. Logical Determination
 
@@ -76,7 +76,7 @@ Feeling undergoes. *Saṃjñā* takes up a mark. The verse does not say *vijñā
 
 ## 9. Interpretive Note
 
-Kārikā. Relation is not the English. The Bhāṣya is synced to this verse-English.
+Kārikā. Relation is not the English. Reflection is the English of *saṃjñā*. Essences and principles stay lower case.
 
 ## 10. OWL++ Seed
 
