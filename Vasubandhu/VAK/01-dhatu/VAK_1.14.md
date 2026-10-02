@@ -4,7 +4,7 @@
 
 > इन्द्रियार्थास्त एवेष्टा दशायतनधातवः ।
 >
-> वेदनानुभवः संज्ञा निमित्तोद्ग्रहणात्मिका ॥ १.१४ ॥
+> वेदनानुभवः संज्ञा निमित्तोद्ग्रहणात्मिका ॥ १.१४ ॥॥
 
 ## 2. Sanskrit (IAST)
 
@@ -21,83 +21,62 @@ Source label in GRETIL: `VAkK_1.14`. Project-normalized label: `VAkK_1.14`.
 | indriya-arthāḥ | indriya-arthāḥ | faculties and objects |
 | te eva | te eva | these very same |
 | iṣṭāḥ | iṣṭāḥ | are accepted |
-| daśa-āyatana-dhātavaḥ | daśa āyatana-dhātavaḥ | ten spheres and domains |
+| daśa-āyatana-dhātavaḥ | daśa āyatana-dhātavaḥ | ten Relations and ten Principles |
 | vedanā | vedanā | feeling |
-| anubhavaḥ | anubhavaḥ | experience, undergoing |
-| saṃjñā | saṃjñā | recognition / sign-cognition |
-| nimitta-udgrahaṇa-ātmikā | nimitta-udgrahaṇa-ātmikā | consisting in grasping marks/signs |
+| anubhavaḥ | anubhavaḥ | undergoing |
+| saṃjñā | saṃjñā | mark-taking |
+| nimitta-udgrahaṇa-ātmikā | nimitta-udgrahaṇa-ātmikā | consisting in taking up a mark |
 
 ## 4. Grammar
 
-The ten faculties and objects are simultaneously counted as ten **āyatanas** and ten **dhātus**:
+The ten faculties and objects are counted twice:
 
 ```text
 five faculties
 five objects
-    = ten spheres
-    = ten domains
+    = ten Relations
+    = ten Principles
 ```
 
-The second half defines two aggregates:
+No new item. `te eva`.
 
 ```text
 vedanā
-    = anubhava, undergoing/experience
+    = anubhava
 
 saṃjñā
-    = nimitta-udgrahaṇa, grasping of marks
+    = nimitta-udgrahaṇa
 ```
 
 ## 5. Literal Translation
 
-> The faculties and objects themselves are accepted as the ten spheres and domains. Feeling is experience; saṃjñā has as its nature the grasping of signs.
+> These very faculties and objects are accepted as the ten Relations and the ten Principles. Feeling is undergoing. Saṃjñā is the taking up of a mark.
 
-## 6. Philosophical Translation
+## 6. Determination
 
-> The five faculties and five objects function both as spheres and as domains. Feeling is the undergone experience of contact, while saṃjñā is the grasping of a determinate mark.
+Relation is pure composite chained access to appearance. Faculty to object. Already in rūpa. Nothing added.
 
-Organon rendering:
+Principle is the logogenesis of that same factor, before Logic. Same ten, second placement. Not a hybrid.
 
-> The same structure can be read as faculty-object relation, sphere, or domain. Vedanā is the immediate undergoing of experience; saṃjñā is the taking-up of a mark, the first stabilization of what is encountered as recognizable.
+Avijñapti is not in the ten.
+
+Vedanā is undergoing: pleasant, painful, or neither. Not citta.
+
+Saṃjñā is mark-taking. Not Idea. Idea stays with vijñāna, and this verse does not say vijñāna.
 
 ## 7. Technical Vocabulary
 
 | Sanskrit | Project rendering | Note |
 |---|---|---|
-| indriya | faculty | power/support of sensory knowing |
-| artha | meaning / object | object-side of disclosure |
-| āyatana | sphere | field of contact/relation |
-| dhātu | domain | lawful domain of analysis |
-| vedanā | feeling | experience/undergoing |
-| anubhava | experience | felt undergoing |
-| saṃjñā | recognition / sign-cognition | grasping a mark |
-| nimitta | mark / sign | recognizable determination |
+| āyatana | Relation | pure composite chained access to appearance |
+| dhātu | Principle | logogenesis before Logic |
+| vedanā | feeling | undergoing |
+| anubhava | undergoing | pleasant, painful, neither |
+| saṃjñā | mark-taking | not Idea |
+| nimitta | mark | what is taken up |
+| artha | object | object-side of the chain |
 
-## 8. Logical Determination
-
-```text
-faculty + object
-    = āyatana
-    = dhātu
-```
-
-and:
-
-```text
-vedanā
-    = undergoing
-
-saṃjñā
-    = mark-grasping
-```
-
-## 9. Interpretive Note
-
-This verse shows that the same material structure can be re-read under different formal determinations. As āyatana, it is a sphere of relation. As dhātu, it is a domain. This is not duplication; it is logical perspective.
-
-The definitions of vedanā and saṃjñā are also precise: feeling is not emotion in the modern sense; it is experience as undergone. Saṃjñā is not full conceptual thought; it is the grasping of a mark.
-
-## 10. OWL++ Seed
+## 8. OWL++ Seed
 
 ```ttl
 @prefix vak: <http://127.0.0.1:3000/vak#> .
@@ -108,15 +87,18 @@ vak:VAK_1_14
     rdfs:label "VAK 1.14" ;
     vak:hasSourceLabel "VAkK_1.14" ;
     vak:hasProjectLabel "VAkK_1.14" ;
-    vak:hasTopic vak:TenSpheresDomainsAndTwoAggregates ;
+    vak:hasTopic vak:TenRelationsAndPrinciples ;
     vak:belongsTo vak:Dhatunirdesa .
 
+vak:Ayatana rdfs:label "Relation" .
+vak:Dhatu rdfs:label "Principle" .
 vak:Vedana vak:definedAs vak:Anubhava .
 vak:Samjna vak:definedAs vak:NimittaUdgrahana .
 ```
 
-## 11. Commit History
+## 9. Commit History
 
-- Added expanded Organon analysis for VAK_1.14.
-- Establishes faculties and objects as ten spheres/domains.
-- Defines vedanā as experience and saṃjñā as mark-grasping.
+- Upgraded VAK_1.14.
+- Āyatana locked as Relation: pure composite chained access to appearance.
+- Dhātu locked as Principle.
+- Saṃjñā kept off Idea.
