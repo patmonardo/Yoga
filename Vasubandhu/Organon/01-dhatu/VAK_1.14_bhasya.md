@@ -27,7 +27,7 @@ These very faculties and meanings are accepted as the ten essences and the ten p
 
 The five faculties and the five meanings already stated are those ten. No new item is named. *Avijñapti* is not among them. The same ten are placed twice: as essences, then as principles.
 
-Feeling is undergoing. *Saṃjñā* consists in reflection. The compound remains *nimitta-udgrahaṇa*. It is not the English. The verse does not say *vijñāna*.
+Feeling is undergoing. *Saṃjñā* consists in reflection. The compound *nimitta-udgrahaṇa* is the reflective mark. The verse does not say *vijñāna*.
 
 ## 4. Movement
 
