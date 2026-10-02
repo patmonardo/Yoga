@@ -21,7 +21,7 @@ Source label in GRETIL: `VAkK_1.14`. Project-normalized label: `VAkK_1.14`.
 | indriya-arthāḥ | indriya-arthāḥ | faculties and objects |
 | te eva | te eva | these very same |
 | iṣṭāḥ | iṣṭāḥ | are accepted |
-| daśa-āyatana-dhātavaḥ | daśa āyatana-dhātavaḥ | ten Relations and ten Principles |
+| daśa-āyatana-dhātavaḥ | daśa āyatana-dhātavaḥ | ten essences and ten principles |
 | vedanā | vedanā | feeling |
 | anubhavaḥ | anubhavaḥ | undergoing |
 | saṃjñā | saṃjñā | mark-taking |
@@ -34,7 +34,7 @@ The ten faculties and objects are counted twice:
 ```text
 five faculties
 five objects
-    = ten Relations
+    = ten Essences
     = ten Principles
 ```
 
@@ -54,7 +54,7 @@ saṃjñā
 
 ## 6. Determination
 
-Relation is pure composite chained access to appearance. Faculty to object. Already in rūpa. Nothing added.
+Essence is pure composite chained access to appearance. Faculty to object. Already in rūpa. Nothing added.
 
 Principle is the logogenesis of that same factor, before Logic. Same ten, second placement. Not a hybrid.
 
@@ -62,19 +62,19 @@ Avijñapti is not in the ten.
 
 Vedanā is undergoing: pleasant, painful, or neither. Not citta.
 
-Saṃjñā is mark-taking. Not Idea. Idea stays with vijñāna, and this verse does not say vijñāna.
+Saṃjñā is reflecting. Not Idea. Idea stays with vijñāna, and this verse does not say vijñāna.
 
 ## 7. Technical Vocabulary
 
 | Sanskrit | Project rendering | Note |
 |---|---|---|
-| āyatana | Relation | pure composite chained access to appearance |
+| āyatana | Essence | pure composite chained access to appearance |
 | dhātu | Principle | logogenesis before Logic |
 | vedanā | feeling | undergoing |
 | anubhava | undergoing | pleasant, painful, neither |
 | saṃjñā | mark-taking | not Idea |
 | nimitta | mark | what is taken up |
-| artha | object | object-side of the chain |
+| artha | meaning | object-side of the chain |
 
 ## 8. OWL++ Seed
 
