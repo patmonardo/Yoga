@@ -32,7 +32,7 @@ No new item. *Avijñapti* is not in the ten.
 ```text
 vedanā = anubhava
 saṃjñā = reflection
-nimitta-udgrahaṇa stays in the padaccheda
+nimitta-udgrahaṇa = reflective mark
 ```
 
 ## 5. Translation
@@ -62,7 +62,7 @@ Feeling undergoes. *Saṃjñā* is reflection. The verse does not say *vijñāna
 | vedanā | feeling |
 | anubhava | undergoing |
 | saṃjñā | reflection |
-| nimitta-udgrahaṇa | not the English |
+| nimitta-udgrahaṇa | reflective mark |
 
 ## 8. Logical Determination
 
