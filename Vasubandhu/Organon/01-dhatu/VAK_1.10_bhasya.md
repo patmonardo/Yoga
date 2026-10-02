@@ -1,4 +1,4 @@
-# VAK_1.10 Bhāṣya — Modes of the Five Domains
+# VAK_1.10 Bhāṣya — Counts of the five meanings
 
 ## 1. Kārikā Anchor
 
@@ -6,11 +6,11 @@
 >
 > ṣoḍhā caturvidho gandhaḥ spṛśyam ekādaśātmakam // 1.10 //
 
-Literal (from the kārikā study):
+From [`VAK_1.10.md`](./VAK_1.10.md):
 
-> Visible form is twofold [and] twentyfold. Sound, however, is eightfold; taste is sixfold; odor is fourfold; the tangible has eleven kinds as its nature.
+Visible form is twofold and twentyfold. Sound is eightfold. Taste is sixfold. Odor is fourfold. The tangible is elevenfold in nature.
 
-Kārikā study: [`VAK_1.10.md`](./VAK_1.10.md). Previous: 1.09, faculties and domains. Next: 1.11, avijñapti.
+Span: Pradhan `[006|07]`–`[007|28]`. Next: *avijñapti*.
 
 ## 2. Continuous Sanskrit Witness
 
@@ -81,70 +81,32 @@ Kārikā study: [`VAK_1.10.md`](./VAK_1.10.md). Previous: 1.09, faculties and do
 > bhoktukāmatāvarjitatvāt santateḥ /
 > uktāḥ pañcendriyārthāḥ yathā ca teṣāṃ grahaṇam /
 
-**Witness.** Pradhan `[006|07]`–`[007|28]`. Next unit: `avijñaptir idānīṃ vaktavyā`.
+The line `ghādīnāṃ pradeṣaḥ` is damaged in the local witness. Kept. Not repaired.
 
-**Faults.** Damaged `ghādīnāṃ pradeṣaḥ kāyavijñaptisvabhāvaḥ` kept as-is; translation marks the configuration-only example as provisional. `bhoktukāmatāvarjitatvāt` read as inclination by desire to eat. Local IAST is an edited best reading, not a critical edition.
+## 3. Continuous Translation
 
-## 3. Continuous Conventional Translation
+Visible form is twofold: color and configuration. Color is fourfold, beginning with blue. Configuration is eightfold, from long to uneven. That same visible-form *āyatana* is said again as twentyfold: blue, yellow, red, white, long, short, round, circular, raised, lowered, even, uneven, cloud, smoke, dust, mist, shadow, sunlight, light, darkness. Some add a twenty-first, the single-colored sky.
 
-> First, visible form is twofold: color and configuration. Color is fourfold, beginning with blue; the others are subdivisions of these. Configuration is eightfold, beginning with long and ending with uneven. That same visible-form sphere is further said to be twentyfold: blue, yellow, red, white, long, short, round, circular, raised, lowered, even, uneven, cloud, smoke, dust, mist, shadow, sunlight, light, and darkness. Some also recite a twenty-first, the single-colored sky.
->
-> Here “even” is an even configuration; “uneven” is an uneven configuration. Mist is fog. Sunlight is the radiance of the sun. Light is the radiance of the moon, stars, fire, herbs, and jewels. Shadow is where visible forms can be seen; darkness is the reverse. The rest is not explained in detail because it is easy to understand.
->
-> There is visible form known through color and not through configuration: that called blue, yellow, red, white, shadow, sunlight, light, and darkness. There is that known through configuration and not through color: [a portion of the long and the other configurations] whose nature is bodily manifestation. There is that known in both ways: the remainder of the visible-form sphere. Others say that sunlight and light alone are known through color, for a delimitation as long and so forth is seen in blue and the other colors.
->
-> But how can one substance be known in both ways? It can, because both are cognized there. For this *vid* has the sense of knowing, not of existing. Then the same consequence would follow for bodily manifestation too. The visible-form sphere has been explained.
->
-> Sound, however, is eightfold. It is fourfold as caused by appropriated or non-appropriated great Elements and as designated sentient or non-sentient. It becomes eightfold through the further distinction of agreeable and disagreeable. Sound caused by appropriated great Elements is, for example, the sound of a hand or of speech. Sound caused by non-appropriated great Elements is, for example, the sound of wind, trees, or rivers. Sound designated sentient is the sound of vocal manifestation; the other sound is designated non-sentient. Others say there is also sound caused by both appropriated and non-appropriated great Elements, for example that produced by the conjunction of a hand and a drum. But just as one atom of color is not accepted as depending upon two sets of four great Elements, this should not be accepted either. Sound has been explained.
->
-> Taste is sixfold, through the distinction of sweet, sour, salty, pungent, bitter, and astringent. Odor is fourfold because pleasant and unpleasant odors each have even and uneven odor. In the treatise, however, it is threefold: pleasant odor, unpleasant odor, and even odor.
->
-> The tangible is constituted by eleven kinds. Its nature consists of eleven substances: the four great Elements, smoothness, roughness, heaviness, lightness, cold, hunger, and thirst. We shall explain the Elements later. Smoothness is softness. Roughness is harshness. Heaviness is that by which things are weighed; lightness is the reverse. Cold produces desire for warmth. Hunger produces desire for food. This is a figurative application of the effect to the cause, as in: “The arising of Buddhas is happiness; the teaching of Dharma is happiness; the concord of the Saṅgha is happiness; the discipline of those in concord is happiness.”
->
-> In the form realm, hunger and thirst are absent; the remainder is present. Although garments there are not weighed individually, they are weighed when accumulated. Injurious cold is absent; beneficial coolness is said to be present.
->
-> Among the many kinds of visible form just stated, eye-cognition sometimes arises with one substance, when that particular kind is distinguished. Sometimes it arises with many, when there is no such distinction: for example, when someone sees from a distance a military formation of many colors and configurations or a collection of jewels. Ear-cognition and the other cognitions should be understood in the same way. Some say that body-cognition arises with at most five tangibles: the four great Elements and one of smoothness and the rest. Others say with all eleven. But in that case, because their support-object is a collection, would the five groups of cognition not have a common-character domain instead of an own-character domain? There is no fault: they are accepted as having own-character domains with reference to the own-character of the sphere, not the own-character of an individual substance.
->
-> This is considered: when a domain reaches the body and tongue faculties simultaneously, which cognition arises first? That whose domain is more intense. When the domain is presented equally, tongue-cognition arises first, because the continuum is inclined by the desire to eat. The five *arthas* of the faculties have been explained, together with how they are apprehended.
+Even is an even configuration. Uneven is an uneven one. Mist is fog. Sunlight is the sun’s radiance. Light is the radiance of moon, stars, fire, herbs, and jewels. Shadow is where forms are seen. Darkness is the reverse.
 
-## 4. Movement of the Commentary
+There is visible form known by color and not by configuration. There is that known by configuration and not by color: the damaged line, whose topic is bodily *vijñapti*. There is that known both ways: the rest. Others say only sunlight and light are known by color, since a long-delimitation is seen in blue and the rest.
 
-```text
-five domains of 1.09
-    → internal counts
-        → visible form: dyad, then twenty (some: twenty-one)
-        → known by color / configuration / both
-        → vid = Knowing-sense, not existence-sense
-        → open objection on bodily manifestation
-        → sound, taste, odor, tangible
-    → one or many substances in a cognition
-    → Sphere-own-character vs substance-own-character
-    → tongue before body when presentation is equal
-```
+How is one substance known both ways? Because both are cognized there. This *vid* is knowing-sense, not existence-sense. Then the same would follow for bodily *vijñapti*. The objection stands. Visible form has been explained.
 
-The commentary does not choose between five and eleven tangibles for body-cognition. It does not answer the bodily-manifestation objection. Those limits stay.
+Sound is eightfold. Fourfold by cause, appropriated or not, and by designation, sentient or not. Eightfold by agreeable and disagreeable. A hand or a voice. Wind, trees, a river. Vocal *vijñapti* is the sentient-designated sound. Others add a sound from both causes, hand and drum. Refused: one color-atom is not taken as depending on two sets of four elements.
 
-## 5. The Bhāṣya's Decisions for the Kārikā
+Taste is sixfold: sweet, sour, salty, pungent, bitter, astringent.
 
-1. *Rūpa* here is the visible-form sphere, one domain of 1.09, not the aggregate.
-2. Twofold and twentyfold describe that same sphere at two grains. The twenty is not a second domain. Single-colored sky is a visible-form kind, not 1.05 *ākāśa*.
-3. *Vid* in the color/configuration dispute is Knowing-sense (*jñānārtha*), not existence-sense (*sattārtha*). Scope is this verb here.
-4. The configuration-only example is damaged in the local witness. Bodily manifestation is the topic; the exact phrase is provisional.
-5. Sound's eight is mixed respects, not eight equal causes. The hand-and-drum double basis is refused.
-6. Hunger is named from its effect. Thirst has no separate gloss in this witness.
-7. Own-character of the five cognition-groups is Sphere-own-character, not substance-own-character.
-8. Avijñapti is announced next. It is not a twelfth visible-form kind.
+Odor is fourfold: pleasant and unpleasant, each even and uneven. The treatise says three: pleasant, unpleasant, even.
 
-## 6. Organon Note
+The tangible is eleven substances: four great elements, smoothness, roughness, heaviness, lightness, cold, hunger, thirst. Hunger is named from the desire to eat. The effect’s name is applied to the cause. In the form realm, hunger and thirst are absent.
 
-Marked as project reconstruction.
+Eye-principle sometimes arises from one substance, when the kind is cut off. Sometimes from many, when it is not: an army, a heap of jewels, seen from far. Ear-principle and the rest, the same way. Some say body-principle arises from at most five tangibles. Others, from all eleven. No fault if the support is a collection: own-character is meant with regard to the *āyatana*, not with regard to the single substance.
 
-This card counts inside the Conditions of 1.09. *Varṇa : saṃsthāna* is the one dyad. The twenty and the other lists are empirical enumerations. Do not raise them to rational division.
+If body and tongue are reached together, the stronger meaning comes first. If equal, tongue-principle comes first. The continuum is inclined to eat.
 
-*Jñānārtho hy eṣa vidir na sattārthaḥ* is why Kośa can be a science of dharma-knowing. The verb tracks Knowing. It does not found extra substances, and it does not empty the field. The open objection remains open.
+The five meanings of the faculties have been explained, and how they are taken.
 
-*Āyatana-svalakṣaṇa* is Essence at work: a collection can be seen and the cognition is still own-character-domained because the Sphere, not the atom, is the relevant particularity. Do not call *āyatana* the Concept. Do not spend Object on *viṣaya*.
+## 4. Review
 
-## 7. Review Status
-
-Expert upgrade of 1.10 as the next card of the skandha teaching. Verse-English in §1 copies [`VAK_1.10.md`](./VAK_1.10.md) §5 Literal. Conventional translation keeps domain/sphere and refuses Object. Organon confined to §6. Provisional on the damaged configuration-only line and on *vṛtta* / *parimaṇḍala*. Next: 1.11.
+Synced to the kārikā. Color and configuration are the dyad. The counts are enumerations. *Vid* here is knowing-sense. The bodily-*vijñapti* objection is open. *Avijñapti* is next.
