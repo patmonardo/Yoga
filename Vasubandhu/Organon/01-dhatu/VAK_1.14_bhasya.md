@@ -1,6 +1,6 @@
 # VAK_1.14 Bhāṣya — Ten Essences, Feeling, Saṃjñā
 
-Source: [`VAK_1.14.md`](./VAK_1.14.md). Not an outside text.
+Source: [`VAK_1.14.md`](./VAK_1.14.md).
 
 ## 1. Kārikā Anchor
 
@@ -8,9 +8,9 @@ Source: [`VAK_1.14.md`](./VAK_1.14.md). Not an outside text.
 >
 > vedanānubhavaḥ saṃjñā nimittodgrahaṇātmikā // 1.14 //
 
-Literal, copied from the kārikā file:
+Literal:
 
-> These very faculties and meanings are accepted as the ten essences and the ten principles. Feeling is undergoing. *Saṃjñā* consists in taking up a mark.
+> These very faculties and meanings are accepted as the ten essences and the ten principles. Feeling is undergoing. *Saṃjñā* consists in reflection.
 
 Previous: 1.13. Next: 1.15.
 
@@ -21,13 +21,13 @@ The witness is the kārikā.
 > indriya-arthāḥ | te eva | iṣṭāḥ | daśa-āyatana-dhātavaḥ |
 > vedanā | anubhavaḥ | saṃjñā | nimitta-udgrahaṇa-ātmikā
 
-No prose is in the kārikā file. None is added here.
-
 ## 3. Conventional Translation
 
-The verse, as the kārikā file has it.
+These very faculties and meanings are accepted as the ten essences and the ten principles. Feeling is undergoing. *Saṃjñā* consists in reflection.
 
-> These very faculties and meanings are accepted as the ten essences and the ten principles. Feeling is undergoing. *Saṃjñā* consists in taking up a mark.
+The five faculties and the five meanings already stated are those ten. No new item is named. *Avijñapti* is not among them. The same ten are placed twice: as essences, then as principles.
+
+Feeling is undergoing. *Saṃjñā* consists in reflection. The compound remains *nimitta-udgrahaṇa*. It is not the English. The verse does not say *vijñāna*.
 
 ## 4. Movement
 
@@ -37,18 +37,16 @@ te eva          these very ones
 daśa āyatanāni  ten essences
 daśa dhātavaḥ    ten principles
 vedanā          undergoing
-saṃjñā          taking up a mark
+saṃjñā          reflection
 ```
 
 ## 5. Decisions
 
-From the kārikā file only.
-
 1. No new item. The ten are the faculties and meanings already stated.
-2. Two placements. Essence, then principle.
+2. Two placements. Essence, then principle. Lower case in the English.
 3. *Avijñapti* is not in the ten.
 4. Feeling is undergoing.
-5. *Saṃjñā* is taking up a mark. The verse does not say *vijñāna*.
+5. *Saṃjñā* is reflection. Not mark-taking.
 
 ## 6. Organon Note
 
@@ -56,4 +54,4 @@ Not part of the translation. Eye-essence, then eye-principle. Relation is not th
 
 ## 7. Review Status
 
-Synced to [`VAK_1.14.md`](./VAK_1.14.md). Prose not in that file, so not written here.
+Fixed to the locked line. Essences and principles, lower case. *Saṃjñā* is reflection. Synced to [`VAK_1.14.md`](./VAK_1.14.md).
