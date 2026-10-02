@@ -1,4 +1,4 @@
-# VAK_1.09 Bhāṣya — The Base of Form
+# VAK_1.09 Bhāṣya — The base of form
 
 ## 1. Kārikā Anchor
 
@@ -8,9 +8,9 @@
 
 From [`VAK_1.09.md`](./VAK_1.09.md):
 
-Form is the five faculties, the five Meanings, and *avijñapti* also. The eye and the others are clarities of form, supports of the corresponding Principles.
+Form is the five faculties, the five meanings, and *avijñapti* also. The eye and the others are clarities of form, supports of the corresponding principles.
 
-Span: Pradhan `[005|21]`–`[006|07]`. Next: the five Meanings, at 1.10.
+Span: Pradhan `[005|21]`–`[006|07]`. Next: 1.10.
 
 ## 2. Continuous Sanskrit Witness
 
@@ -31,56 +31,24 @@ Span: Pradhan `[005|21]`–`[006|07]`. Next: the five Meanings, at 1.10.
 
 ## 3. Continuous Translation
 
-It has been said that there are five aggregates beginning with form. Among them, form is the five faculties, the five Meanings, and *avijñapti*.
+It has been said that there are five aggregates beginning with form. Among them, form is the five faculties, the five meanings, and *avijñapti*.
 
 The five faculties are eye, ear, nose, tongue, and body.
 
-The five Meanings are the five respective *viṣayas* of those faculties, each to its own: visible form, sound, odor, taste, and the tangible.
+The five meanings are the five respective *viṣayas* of those faculties, each to its own: visible form, sound, odor, taste, and the tangible.
 
 And *avijñapti*. This is the whole of the aggregate of form.
 
-Those five Meanings have been named. The eye and the others are clarities of form, supports of the Principles of those *viṣayas*. The five clarities that support the Principles of visible form, sound, odor, taste, and the tangible are, in order, eye, ear, nose, tongue, and body.
+Those five meanings have been named. The eye and the others are clarities of form, supports of the principles of those *viṣayas*. The five clarities that support the principles of visible form, sound, odor, taste, and the tangible are, in order, eye, ear, nose, tongue, and body.
 
-As the Blessed One said: the eye, monk, is the internal *āyatana*, a clarity of form dependent on the four great Elements. And the rest.
+As the Blessed One said: the eye, monk, is the internal *āyatana*, a clarity of form dependent on the four great elements. And the rest.
 
 Read the other way: supports of eye-principle and the rest. So read, the Prakaraṇa agrees. What is the eye? A clarity of form that supports eye-principle.
 
-The five faculties have been indicated. The five Meanings are still to be indicated.
+The five faculties have been indicated. The five meanings are still to be indicated.
 
-*Viṣaya:artha* is a dyad. The prose glosses *artha* as *viṣaya*. It does not make them two inventories. *Upādāya* here is dependence on the Elements, not the grip of 1.08.
+*Viṣaya:artha* is a dyad. The prose glosses *artha* as *viṣaya*. It does not make them two inventories. *Upādāya* here is dependence on the elements, not the division of 1.08.
 
-## 4. Movement
+## 4. Review
 
-```text
-five aggregates already stated
-    → form = 5 faculties + 5 Meanings + avijñapti
-    → eleven
-    → faculties are clarities of form
-        → support the Principle of each Meaning
-        → or support eye-principle and the rest
-    → five Meanings named, not yet divided
-```
-
-## 5. Schema
-
-```text
-BASE : MEANING :: DEFINITION
-
-five indriyas     one side
-five arthas       the other
-                  the dyad
-                  the Meanings branch into the cosmos
-
-avijñapti        named
-                  not defined
-                  1.11
-
-Definition        not this unit
-                  dhātu
-```
-
-Sound is the member. What is heard is the combination. What it means is Meaning. Instant *prakāśa*. Not a dictionary entry.
-
-## 6. Review
-
-Synced to the kārikā. Meaning is the English of *artha*. Witness unpatched.
+Synced. *Meaning* is not capitalized. The English remains substitutable.
