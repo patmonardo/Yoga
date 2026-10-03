@@ -31,12 +31,12 @@ dhātavo 'ṣṭādaśa          → dhātavaḥ aṣṭādaśa
 | yat | relative pronoun, nominative neuter singular | whichever cognition |
 | hi | explanatory/emphatic particle | indeed, for |
 | tat | demonstrative pronoun, nominative neuter singular | that same cognition |
-| manaḥ | nominative neuter singular | manas, mind-domain in its support-function |
+| manaḥ | nominative neuter singular | manas, mind-principle in its support-function |
 | ṣaṣṭha | ordinal in compound | sixth |
 | āśraya | masculine noun in compound | support, conditioning basis |
 | prasiddhi | feminine noun in compound | establishment, explicit recognition |
 | artham | accusative neuter singular used adverbially | for the purpose of |
-| dhātavaḥ | nominative masculine plural | domains |
+| dhātavaḥ | nominative masculine plural | principles |
 | aṣṭādaśa | numeral | eighteen |
 | smṛtāḥ | nominative masculine plural past passive participle | taught, transmitted, established in the doctrine |
 
@@ -60,12 +60,15 @@ tat hi manaḥ
 singular. The genitive `ṣaṇṇām` identifies the six cognitive classes from
 which the immediately past event is drawn.
 
-The identity is relational, not substantial addition:
+The identity is relational, not substantial addition. In 1.16, the
+cognition-base is mind-essence and is articulated in the principle
+arrangement as six cognition-principles and mind-principle. This verse
+specifies the relation of that mind-principle to the six cognitions:
 
 ```text
 the same cognition
-    as present object-apprehension → vijñāna-dhātu
-    as immediately past support   → mano-dhātu
+    as present apprehension       → one of the six cognition-principles
+    as immediately past support   → mind-principle (mano-dhātu)
 ```
 
 The Bhāṣya illustrates the grammar of relational predication with two
@@ -74,7 +77,7 @@ to another; the same occurrence is fruit relative to its cause and seed
 relative to its effect.
 
 `Ṣaṣṭha-āśraya-prasiddhi-artham` is a purpose compound qualifying why the
-eighteen domains are taught. The first five sensory cognitions have five
+eighteen principles are taught. The first five sensory cognitions have five
 material faculty-supports. Mental cognition has no additional material
 faculty; its sixth support is the immediately preceding cognition designated
 as manas.
@@ -83,7 +86,7 @@ The second line therefore means:
 
 ```text
 for establishing the sixth support
-    eighteen domains are taught
+    eighteen principles are taught
 ```
 
 It does not claim that all eighteen are mutually distinct substances.
@@ -92,11 +95,11 @@ It does not claim that all eighteen are mutually distinct substances.
 
 ### Close syntactic construe
 
-> Whichever cognition among the six has just passed immediately before, that indeed is manas. The eighteen domains are taught in order to establish the sixth support.
+> Whichever cognition among the six has just passed immediately before, that indeed is manas. The eighteen principles are taught in order to establish the sixth support.
 
 ### Bhāṣya-informed translation
 
-> Manodhātu is not a seventh cognition added to the six. Any one of the six cognitions, once it has just ceased, is designated manas in its role as the immediate support for mental cognition. The system therefore teaches eighteen domains so that mental cognition, like the five sensory cognitions, has an explicitly established support.
+> Mind-principle is not a seventh cognition added to the six. Any one of the six cognitions, once it has just ceased, is designated manas in its role as the immediate support for mental cognition. The system therefore teaches eighteen principles so that mental cognition, like the five sensory cognitions, has an explicitly established support.
 
 The second translation makes explicit the Bhāṣya's answer to the objection.
 The support-function does not imply that a successor must actually arise in
@@ -105,25 +108,31 @@ though another necessary cause for a later cognition is absent.
 
 ## 6. Philosophical Translation
 
-> Cognition itself, upon immediately ceasing, acquires a new relational determination: it becomes the support of possible subsequent mental cognition. Mind is thereby articulated through lawful succession.
+**Organon reconstruction: the sixth support in the principle arrangement**
 
-Organon rendering:
-
-> Knowledge becomes the condition of knowledge. The present cognitive act passes over into manas, not by changing into another substance, but by occupying the position of immediate support for what follows. The cognitive domain is therefore temporal and self-mediating.
-
-The eighteenfold system expresses this architecture through six triads:
+VAK 1.16 carries the cognition-base into the essence arrangement as
+mind-essence and into the principle arrangement as six cognition-principles
+plus mind-principle. VAK 1.17 determines how that seventh named position
+relates to the six: it is not another cognition, but one of those same
+cognitions under the relation of having just ceased and serving as support.
 
 ```text
-support-domain
-    ↕
-object-domain
-    ↕
-cognition-domain
+vijñāna-base
+    → mind-essence
+    → six cognition-principles + mind-principle
+
+one of the six cognitions
+    as present apprehension → cognition-principle
+    as just-past support   → mind-principle
 ```
 
-The explicit reason for teaching eighteen is to establish the sixth support.
-This completes the sixfold arrangement of supports, objects, and cognitions
-without implying eighteen isolated substances.
+The same base is thus articulated through distinct classificatory
+determinations; no additional cognitive substance is required. The purpose
+given in the verse is to establish the sixth support, not to make eighteen
+independent substances or to reduce the principles to a flat list. The
+Bhāṣya further distinguishes the support's status from the actual arising of
+a successor: the final cognition of an arhat remains manas even when another
+required cause is absent.
 
 ## 7. Technical Vocabulary
 
@@ -131,13 +140,13 @@ without implying eighteen isolated substances.
 |---|---|---|
 | anantarātīta | immediately past | just ceased without an intervening cognition |
 | samanantara-niruddha | ceased immediately before | Bhāṣya specification of `anantarātīta` |
-| vijñāna | object-specific cognition | present apprehension belonging to one of six classes |
+| vijñāna | cognition | one of the six cognition-principles in the principle arrangement |
 | manas | mind as immediate support | the same cognition under its just-past relational determination |
-| mano-dhātu | mind-domain | sixth support for mental cognition |
-| mano-vijñāna-dhātu | mental-cognition domain | supported cognition directed toward dharma-domain |
+| mano-dhātu | mind-principle | the just-past cognition in the sixth-support role |
+| mano-vijñāna-dhātu | mental-cognition principle | mental cognition supported by mind-principle |
 | āśraya | support | condition upon which a cognition arises |
 | āśrita | supported cognition | cognitive event dependent upon a support |
-| ālambana | object-domain | that toward which cognition is directed, distinct from its faculty-support |
+| ālambana | object | that toward which cognition is directed, distinct from its support |
 | prasiddhi | establishment | formal recognition of the sixth support in the system |
 | anyakāraṇa-vaikalya | absence of another required cause | reason no cognition follows the arhat's final cognition |
 | dravya | real item | what is not multiplied merely by a new relational designation |
@@ -171,27 +180,27 @@ FruitRelativeTo(y, priorCause)
     → OneItemWithTwoRelationalNames(y)
 ```
 
-The eighteen domains are six complete cognitive triads:
+The principle arrangement has eighteen positions. As the Bhāṣya explains,
+they are articulated through six supports, six supported cognitions, and six
+objects; the sixth support is established as mind-principle:
 
 ```text
-6 supports
-+ 6 object-domains
-+ 6 supported cognitions
-= 18 dhātus
+six supports + six supported cognitions + six objects
+    = eighteen principles
 ```
 
 For the first five:
 
 ```text
-sensory faculty-domain
-    → supports corresponding sensory cognition
+sensory faculty
+    → supports corresponding sensory cognition-principle
 ```
 
 For the sixth:
 
 ```text
-immediately past cognition as mano-dhātu
-    → supports mano-vijñāna
+immediately past cognition as mind-principle
+    → supports mental-cognition principle
 ```
 
 Support-status is not sufficient causation:
@@ -207,14 +216,11 @@ distinct determinations.
 
 ## 9. Interpretive Note
 
-VAK 1.17 completes the presentation of the components of the classification
-system. The result is not a pile of faculties, objects, and cognitions but a
-sixfold relational architecture. Each cognitive field is complete only as a
-triad of support, object, and apprehension.
-
-Manas is the decisive final component because it supplies the support-position
-for possible continuity. The same cognition receives a new determination
-through temporal relation:
+VAK 1.17 answers the question left open in 1.16: how can mind-principle be
+counted alongside the six cognition-principles without becoming a seventh
+cognition? It is one of the same six cognitions under a different relation.
+When present, it is cognition; having just ceased, it is mind as the
+immediate support for subsequent mental cognition:
 
 ```text
 vijñāna
@@ -224,34 +230,10 @@ manas
     = cognition as immediately past support
 ```
 
-This is close to our Organon meaning of mediation. What has occurred does not
-vanish into a blank past; it becomes the determinate condition from which a
-new act can arise. Yet Dharma keeps the moments distinct: support is not
-supported cognition, and the presence of a support does not guarantee an
-effect without the remaining causes.
-
-The comparative Sāṃkhya resonance is powerful but controlled. Manas belongs
-to the sattvic articulation of cognition because it mediates and transmits
-determination. Here it is the functional-temporal status of cognition itself.
-The comparison reveals a common systematic role while preserving doctrinal
-difference.
-
-With this verse the proposed “Buddha Mind” trademark acquires its first
-complete textual diagram:
-
-```text
-six support-domains
-    ↕
-six object-domains
-    ↕
-six cognition-domains
-```
-
-The stronger thesis is not that these eighteen positions are contents inside
-a cosmic consciousness. It is that their fully articulated relational whole
-is the sattvic cognitive system our Organon calls Buddha Mind. The next
-verses can now explain the principles and problems of classifying dharmas
-within that system.
+This is the principle arrangement's relational determination, not a change
+in the cognition-base into a second substance. The Bhāṣya's final case
+preserves the distinction between support and result: manas remains the
+sixth support even when the conditions for another cognition are incomplete.
 
 ## 10. OWL++ Seed
 

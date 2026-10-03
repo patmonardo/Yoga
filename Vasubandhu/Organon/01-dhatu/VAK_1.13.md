@@ -14,93 +14,156 @@
 
 ## 3. Padaccheda and Lexical Analysis
 
-**Padaccheda**
+**Sentence words**
 
-pṛthivī | varṇa-saṃsthānam | ucyate | loka-saṃjñayā |
+```text
+pṛthivī | varṇasaṃsthānam | ucyate | lokasaṃjñayā |
 āpaḥ | tejaḥ | ca | vāyuḥ | tu | dhātuḥ | eva | tathā | api | ca
+```
 
-| Form | Analysis | Contextual force |
+**Sandhi and compound members**
+
+| Verse form | Resolved form | Force |
 |---|---|---|
-| **pṛthivī** | nominative | earth as commonly named |
-| **varṇa-saṃsthānam** | color-and-configuration | the 1.10 pair now as what pointing shows |
-| **loka-saṃjñayā** | instrumental | by worldly designation — not Chapter-3 Loka |
-| **āpas tejaś ca** | water and fire | same naming pattern as earth |
-| **vāyus tu** | wind, contrast | special case |
-| **dhātur eva** | the *dhātu* itself | Territory itself can be what the world names |
-| **tathāpi ca** | nevertheless also | wind also gets color-configuration names |
+| varṇasaṃsthānam ucyate | varṇa + saṃsthānam; ucyate | color and configuration are what is shown |
+| āpas tejaś ca | āpaḥ + tejaḥ + ca | water and fire |
+| vāyus tu | vāyuḥ + tu | wind, in contrast |
+| dhātur eva | dhātuḥ + eva | the principle itself |
+| tathāpi ca | tathā + api + ca | and yet also in that way |
+
+*Lokasaṃjñayā* is *loka* + *saṃjñā*, “by worldly designation.”
+It is the act of naming in ordinary usage, not the formal definition
+of *saṃjñā* given in 1.14. *Varṇasaṃsthāna* coordinates color and
+configuration; both were specified under visible form in 1.10.
+
+**Morphology**
+
+| Pada | Form | Syntactic role |
+|---|---|---|
+| pṛthivī | nominative feminine singular | the worldly name “earth” |
+| varṇasaṃsthānam | nominative neuter singular compound | the visible complex so named |
+| ucyate | third singular present passive, *√vac* | “is called” |
+| lokasaṃjñayā | instrumental feminine singular | means or register of designation |
+| āpaḥ | nominative feminine plural | “waters,” conventionally water |
+| tejaḥ | nominative neuter singular | fire |
+| vāyuḥ | nominative masculine singular | wind |
+| dhātuḥ | nominative masculine singular | technical principle predicated of wind |
+| tu, eva, api, ca | indeclinables | contrast, restriction, concession, addition |
 
 ## 4. Grammar
 
-```text
-color-configuration  is called “earth”  by worldly designation
-so water, so fire
-wind, however        = the dhātu itself
-and also             color-configuration (“blue storm,” “circular storm”)
-```
+**Worldly naming and the change at wind**
 
-Do not read pāda b as “water, fire, and wind are likewise only *dhātus*.” *Tu* blocks that.
+In the first clause, *varṇasaṃsthānam* is what is called
+*pṛthivī* by worldly designation. The nouns differ in gender
+because the sentence relates the visible complex to its name;
+it does not equate their grammatical forms. The Bhāṣya makes the
+construe concrete: when people show earth, they show color and
+configuration.
+
+The verb is understood with *āpas tejaś ca*: the same worldly
+designation applies to water and fire. *Vāyus tu* then introduces
+a contrast. *Dhātur eva* predicates the principle itself of wind;
+the commentary identifies this as *vāyudhātu*. *Tathāpi ca*
+qualifies that contrast: wind can also receive a visible
+color-and-configuration name, such as a blue or circular storm.
+It does not retroactively make water and fire “only principles.”
 
 ## 5. Translation
 
 ### Literal Translation
 
-By worldly designation, color and configuration are called “earth.” Water and fire too. Wind, however, is the *dhātu* itself — and yet also in that way.
+By worldly designation, color and configuration are called “earth.”
+Water and fire too. Wind, however, is the principle itself—and yet
+also in that way.
 
 ### Bhāṣya-informed study translation
 
-When people point at earth, they point at color and configuration. The same for water and fire. What the world calls wind may be the wind-*dhātu* itself (impulsion), and it may also be a visible storm. The Bhāṣya then asks why the whole series through avijñapti is called *rūpa*: because it is affected (*raupaṇa* / *rūpyate*). Tests follow: atom, past/future, avijñapti.
+What people point out as earth, water, or fire is a visible color and
+configuration, distinct from the corresponding elemental principle.
+What they call wind may be the wind-principle itself. Yet a visible
+storm may also be called wind through its color or configuration.
+
+The pointing criterion, the identification of *vāyudhātu*, and the
+storm examples are supplied by the Bhāṣya. Its further question
+about why the whole form-base, including *avijñapti*, counts as
+*rūpa* belongs to the accompanying Bhāṣya study.
 
 ## 6. Philosophical Translation
 
-This is Vasubandhu's Dharma-talk after Display of Meaning has closed (1.12).
+**Organon reconstruction**
 
-```text
-loka-saṃjñā     worldly Name — pointing at color-configuration
-dhātu           Territory a Will rules — particular dharma
-```
+The appearance named in ordinary speech and its principial
+determination can be distinguished without separating them into
+unrelated things. The name “earth” follows a visible presentation;
+the earth-principle is determined in 1.12 through hardness and
+support. Wind tests the distinction: ordinary naming can reach
+the wind-principle itself and can also follow a visible storm.
 
-Ordinary “earth” is not the earth-Territory. It is the 1.10 pair used as a name. Wind breaks the easy rule: the world can name the Territory itself, because impulsion is met as such, not first as a lump.
-
-*Loka* here is designation, not the world-chapter. Volume 1 stays Pre Loka:Karma. No Object. *Varṇa-saṃsthāna* is still inside one Meaning (visible form), now used as what pointing shows.
-
-The second movement (*raupaṇa*) asks what keeps the whole Form-aggregate one — including the projector. That is the talk testing Form Theory against its hard member.
+For the base / essence / principle machine, this passage requires
+the material form-base to retain both its visible presentation
+and the elemental principle at work. A change in the register of
+designation does not itself change what is present. Nor does the
+Bhāṣya's question about *avijñapti* receive an easy answer from
+the machine: its material classification remains a live problem
+in the commentary's debate.
 
 ## 7. Technical Vocabulary
 
-| Sanskrit | Conventional rendering | Organon determination | Do not use |
-|---|---|---|---|
-| **loka-saṃjñā** | worldly designation | Name pointing at color-configuration | Chapter-3 world; falsehood |
-| **varṇa-saṃsthāna** | color and configuration | 1.10 pair as what is shown | the *dhātu* |
-| **dhātu** | *dhātu* | Territory / particular dharma | empty Domain; Sphere |
-| **raupaṇa / rūpyate** | being affected | why the series is called *rūpa* | |
-| **vipariṇāma** | production of alteration | affliction of form | |
-| **pratighāta** | obstruction | others' account | |
+| Sanskrit | Working English | Scope here |
+|---|---|---|
+| pṛthivī, āpas, tejas, vāyu | earth, water, fire, wind | ordinary names in the question |
+| varṇa | color | visible form |
+| saṃsthāna | configuration | visible form |
+| loka-saṃjñā | worldly designation | how an appearance is named |
+| dhātu | principle | technical elemental determination |
+| vāyu-dhātu | wind-principle | impulsion and spreading in 1.12 |
+| rūpa-skandha | form-base | Bhāṣya context, not a term in this verse |
+| raupaṇa | being affected | Bhāṣya explanation of *rūpa* |
+
+The verse's *lokasaṃjñā* means designation; the adopted
+“reflection” for *saṃjñā* in 1.14 names a distinct use.
 
 ## 8. Logical Determination
 
 ```text
-ordinary earth  = varṇa-saṃsthāna named “earth”
-earth-dhātu     = hardness functioning as support
-ordinary earth ≠ earth-dhātu
+1.12  earth-principle: hardness / support
+      water-principle: cohesion / gathering
+      fire-principle: heat / ripening
+      wind-principle: impulsion / spreading
 
-wind-name       → wind-dhātu itself
-                ∨ associated color-configuration
+1.13  ordinary earth, water, fire
+          → named through visible color and configuration
+      ordinary wind
+          → may name the wind-principle itself
+          → may also name a visible wind-formation
+
+Bhāṣya  why does the entire form-base through avijñapti count as rūpa?
+          → being affected, tested by objections and replies
 ```
 
-Proposed unity of *rūpa*: susceptible to being affected. Tested on atom, times, avijñapti. Analogies fail; others' last reply stands in-unit.
+The arrows mark movements of determination, not production of one
+element from another. The worldly and technical descriptions are
+related, but not interchangeable classifications.
 
 ## 9. Interpretive Note
 
-Dharma-talk: do not confuse the heap you point at with the Territory Will rules. Display of Meaning ended at 1.12. 1.13 is how Name and Territory come apart — except wind, where they can coincide. Pre-Loka. Object stays out.
+*Tu* and *tathāpi ca* are the two hinges. The first distinguishes
+wind; the second preserves its visible worldly use. The Bhāṣya then
+tests the unity of the form-base against its difficult member,
+*avijñapti*. Its competing accounts of material support must remain
+separate from the verse's claim about worldly names.
+
+The Organon can use the contrast to discriminate appearance,
+designation, and principle. It cannot count the Bhāṣya's last
+defense of *avijñapti* as a settled solution to materiality.
 
 ## 10. OWL++ Seed
 
 ```ttl
 @prefix vak: <http://127.0.0.1:3000/vak#> .
 
-vak:VAK_1_13
-    a vak:Karika ;
-    vak:is vak:DharmaTalk ;
-    vak:followsCloseOf vak:DisplayOfMeaning ;
-    vak:distinguishes vak:LokaSamjna , vak:DhatuTerritory .
+vak:VAK_1_13 a vak:Karika ;
+    vak:hasTopic vak:WorldlyDesignationAndPrinciple ;
+    vak:belongsTo vak:Dhatunirdesa .
 ```

@@ -1,4 +1,4 @@
-# VAK_1.16 Bhāṣya — Object-Specific Apprehension and the Completed Classification
+# VAK_1.16 Bhāṣya — Idea-Base, Object-Directed Reason, and the Machine
 
 ## 1. Kārikā Anchor
 
@@ -6,14 +6,16 @@
 >
 > dhātavaḥ sapta ca matāḥ ṣaḍvijñānāny atho manaḥ // 1.16 //
 
-> Vijñāna is apprehension with respect to each object. That same aggregate
-> is the mind-base; it is also accepted as seven dhātus: the six vijñānas
+> Vijñāna is apprehension with respect to each object. That is also
+> mind-essence, and seven principles are also accepted: the six vijñānas
 > and mind.
 
-The Bhāṣya explains `prativijñapti` through object-specific apprehension,
-then places the vijñāna aggregate within the āyatana and dhātu arrangements.
-Its closing summary coordinates the five aggregates, twelve āyatanas, and
-eighteen dhātus established through the preceding studies.
+The Bhāṣya explains `prativijñapti` through apprehension directed to each
+object. It then tracks the same vijñāna-base through the essence and
+principle arrangements. Its closing summary gathers the five bases, twelve
+essences, and eighteen principles established through the preceding studies.
+The textual account and the Organon identification of Idea-base and Reason
+are kept distinct below.
 
 ## 2. Continuous Sanskrit
 
@@ -46,45 +48,45 @@ summary is read as an avagraha, giving `trayo 'vijñaptiḥ` in resolved
 form. The source's separate `dvādaśāyatanāni aṣṭādaśa` is joined by sandhi.
 These are editorial normalizations, not a critical reconstruction.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Textual Translation
 
 > Vijñāna is apprehension with respect to each object. Apprehension,
-> upalabdhi, with respect to each object is called the vijñāna aggregate.
-> It comprises six groups of vijñāna: eye-cognition through mind-cognition.
-> That vijñāna aggregate which has been stated is, in the arrangement of
-> āyatanas, the mind-base. In the arrangement of dhātus, that same aggregate
-> is accepted as seven dhātus. Which seven? The six vijñānas and mind:
-> the eye-cognition domain through the mind-cognition domain, together with
-> the mind-domain.
+> *upalabdhi*, with respect to each object is called the vijñāna-base. It
+> comprises six groups of vijñāna, from eye-vijñāna through mind-vijñāna.
+> That vijñāna-base which has been stated is, in the essence arrangement,
+> mind-essence. In the principle arrangement, that same base is accepted as
+> seven principles. Which seven? The six vijñānas and mind: the
+> eye-vijñāna-principle through the mind-vijñāna-principle, together with
+> mind-principle.
 >
-> Thus five aggregates, twelve āyatanas, and eighteen dhātus have been
-> explained here. The rūpa aggregate excluding avijñapti constitutes ten
-> āyatanas and ten dhātus. The three aggregates beginning with vedanā,
-> together with avijñapti and the unconditioned, constitute dharmāyatana
-> and dharmadhātu. The vijñāna aggregate constitutes the mind-base, the
-> six cognition-domains, and the mind-domain.
+> Thus five bases, twelve essences, and eighteen principles have been
+> explained here. The rūpa-base, apart from avijñapti, accounts for ten
+> essences and ten principles. The three bases beginning with vedanā,
+> together with avijñapti and the unconditioned, constitute dharma-essence
+> and dharma-principle. The vijñāna-base constitutes mind-essence, the six
+> vijñāna-principles, and mind-principle.
 
 ## 4. Movement of the Commentary
 
-The passage first determines the operation, then its classes, then its
-positions in the two further arrangements. A summary gathers the preceding
-classificatory work:
+The passage first determines object-directed apprehension, then its six
+groups, then the positions of the same base in the essence and principle
+arrangements. A summary gathers the preceding classificatory work:
 
 ```text
 vijñāna
     → apprehension with respect to each object
-    → six groups, eye-cognition through mind-cognition
-    → one mind-base in the āyatana arrangement
-    → seven dhātus in the dhātu arrangement
+    → six groups, eye-vijñāna through mind-vijñāna
+    → one mind-essence in the essence arrangement
+    → seven principles in the principle arrangement
 
 completed summary
-    → five aggregates
-    → twelve āyatanas
-    → eighteen dhātus
+    → five bases
+    → twelve essences
+    → eighteen principles
 ```
 
 The question `katame sapta`, “which seven?”, is answered directly by the
-six cognition-domains and manodhātu. No separately speaking opponent or
+six vijñāna-principles and manodhātu. No separately speaking opponent or
 school attribution occurs in this unit. The apparent difficulty of counting
 seven from six becomes the next unit's explicit question.
 
@@ -100,113 +102,148 @@ The prefix is therefore controlled by the prose's relational construction.
 “Counter-disclosure,” found in the research kārikā, gives `prati` a force
 that this explanation does not supply. Likewise, a definition through fully
 developed discriminative wisdom would go beyond `upalabdhi`. The present
-rendering is object-specific cognition or apprehension.
+rendering is object-specific apprehension.
 
 The local use of `vijñapti` also needs to be distinguished from the outward
 manifestation discussed in 1.11–1.13. Here its gloss is apprehension. The
-shared word does not make sensory cognition an act of communicating an
+shared word does not make this apprehension an act of communicating an
 intention to another person.
 
 The distributive wording does not impose one isolated material atom per
-cognition. In 1.10, the commentary allowed a sensory cognition to apprehend
-a collection while retaining the own-character of its sense-base. “Each
-object” here specifies directed apprehension; it does not reverse that
-account of a composite sensory field.
+act of apprehension. In 1.10, the commentary allowed apprehension of a
+collection while retaining the own-character of its sensory faculty.
+“Each object” here specifies Reason's object-directed determination in the
+Organon reading; it does not reverse that account of a composite sensory
+field.
 
-## 6. Six Groups, One Mind-Base, Seven Domains
+## 6. Idea-Base, Mind-Essence, Seven Principles
 
-The singular `saḥ` resumes the vijñāna aggregate, which the prose divides
-into `ṣaḍ vijñānakāyāḥ`, six groups. The stated endpoints, eye-cognition
-and mind-cognition, delimit the familiar sixfold series. “Groups” retains
-the classificatory sense of `kāya`; the word alone does not establish a
-particular temporal mechanism of cognitive succession.
+The singular `saḥ` resumes the *vijñānaskandha*, the vijñāna-base, which
+the prose divides into `ṣaḍ vijñānakāyāḥ`, six groups. The stated endpoints,
+eye-vijñāna and mind-vijñāna, delimit the familiar sixfold series. “Groups”
+retains the classificatory sense of `kāya`; the word alone does not
+establish a particular temporal mechanism of succession.
 
 `Ya eṣa vijñānaskandha uktaḥ` fixes the subject of the next statement.
-The verse's `tat`, “that,” refers to the aggregate already defined. It is
-that aggregate which, in the āyatana arrangement, is `mana āyatanam`,
-the mind-base. The verse is not merely appending a statement that mind is
-some unspecified sphere.
+The verse's `tat`, “that,” refers to the base already defined. That same
+Idea-base is named `mana āyatanam`, mind-essence, in the essence
+arrangement. The statement does not introduce a second, undefined
+mind-essence or posit an independent mind-substance; it classifies the same
+vijñāna-base under another relation.
 
-The repeated `sa eva`, “that same,” maintains the subject in the dhātu
-arrangement. It supplies seven entries: the six cognition-domains together
-with manodhātu. Manovijñānadhātu and manodhātu must remain distinguishable
-names in the enumeration. The first belongs to the six; the second is the
-additional classified position named alongside them.
+The repeated `sa eva`, “that same,” maintains the subject in the principle
+arrangement. It supplies seven positions: the six vijñāna-principles
+together with mind-principle (*manodhātu*). *Manovijñānadhātu* and
+*manodhātu* must remain distinguishable names in the enumeration. The
+first belongs to the six Reason-principles; the second is the additional
+principial position named alongside them.
 
-The text has not yet explained why this is possible without a further
-independent kind of cognition. Nor has it described manas as a coordinator
-of the six groups. That explanatory work belongs to the following inquiry.
-The present study preserves the count and its explicit referents.
+The text has not yet explained how the one Idea-base yields six
+Reason-principles alongside mind-principle, nor has it described the
+specific support-function of *manodhātu*. That explanatory work belongs
+to the following inquiry in 1.17. Here the exact count and referents are
+preserved without importing the next argument prematurely.
 
 ## 7. The Completed Map and Its Limits
 
 The concluding prose states the distribution precisely:
 
-| Contents being arranged | Āyatana arrangement | Dhātu arrangement |
+| Base or constituents | Essence arrangement | Principle arrangement |
 |---|---|---|
-| rūpa aggregate excluding avijñapti | ten āyatanas | ten dhātus |
-| vedanā, saṃjñā, saṃskāra, avijñapti, and the unconditioned | dharmāyatana | dharmadhātu |
-| vijñāna aggregate | mind-base | six cognition-domains and manodhātu |
+| rūpa-base constituents apart from avijñapti | ten essences | ten principles |
+| feeling-base, Reflection-base, Formation-base, avijñapti, and the unconditioned | dharma-essence | dharma-principle |
+| Idea-base (*vijñānaskandha*) | mind-essence | six vijñāna-principles and mind-principle |
 | total | twelve | eighteen |
 
-The first row explicitly excludes avijñapti. The second relocates that
-material constituent alongside the three specified aggregates and the
-unconditioned. The third gives one āyatana and seven dhātus for vijñāna.
-Thus the arithmetic is `10 + 1 + 1 = 12` and `10 + 1 + 7 = 18`.
+The first row excludes avijñapti from the ten essence and principle
+positions associated with rūpa-base; it does not remove avijñapti from that
+base. The second places it alongside the three specified bases and the
+unconditioned under dharma-essence and dharma-principle. The third gives
+one essence and seven principles for the Idea-base. Thus the arithmetic is
+`10 + 1 + 1 = 12` and
+`10 + 1 + 7 = 18`.
 
-The five aggregates are rūpa, vedanā, saṃjñā, saṃskāra, and vijñāna.
-The unconditioned entries appear in the āyatana/dhātu summary without being
-additional aggregates. Consequently, “three arrangements of the same
-contents” needs qualification: their correspondences are stated precisely,
-but the aggregate classification does not acquire the unconditioned merely
-because the summary coordinates all three systems.
+The five bases are rūpa, vedanā, saṃjñā, saṃskāra, and vijñāna. The
+unconditioned entries appear in the essence/principle summary without being
+additional bases. Consequently, “three arrangements of the same contents”
+needs qualification: their correspondences are stated precisely, but the
+base classification does not acquire the unconditioned merely because the
+summary coordinates all three systems.
 
-This is also why the table is more exact than an undifferentiated equation
-between skandha, āyatana, and dhātu. Avijñapti changes classified position;
-unconditioned dharmas are included in the two broader arrangements; vijñāna
-receives a different count under each. Those relations are the content of
-the coordination.
+This is why the table is more exact than an undifferentiated equation
+between base, essence, and principle. Avijñapti changes classified
+position; the unconditioned are included in the two broader arrangements;
+and the Idea-base receives a different count under each. Those relations
+are the content of the coordination.
 
 ## 8. The Bhāṣya's Decisions for the Kārikā
 
 1. `Prativijñapti` means apprehension with respect to each object, explicitly
    glossed by `upalabdhi`.
-2. The six groups distinguish eye-cognition through mind-cognition within
-   the vijñāna aggregate.
-3. `Tat` refers to that aggregate: in the āyatana arrangement it is the
-   mind-base.
-4. The same aggregate supplies seven dhātu positions: the six cognition-
-   domains and manodhātu. Their detailed relation is reserved for 1.17.
-5. The completed summary expressly excludes avijñapti from the ten material
-   entries and includes it in dharmāyatana/dharmadhātu.
+2. The six groups distinguish eye-vijñāna through mind-vijñāna within the
+   vijñāna-base.
+3. `Tat` refers to that same base: in the essence arrangement it is
+   mind-essence.
+4. The same Idea-base supplies seven principle positions: six
+   vijñāna-principles and mind-principle. Their detailed relation is
+   reserved for 1.17.
+5. The completed summary excludes avijñapti from the ten essence and
+   principle positions associated with rūpa-base, while including it in
+   dharma-essence and dharma-principle.
 6. The unconditioned remain within those latter arrangements without
-   becoming aggregate constituents.
+   becoming constituents of a base.
 
 ## 9. Philosophical and Organon Study
 
-The definition gives our knowledge-domain inquiry a direct textual basis:
-apprehension is articulated with respect to its object. Its sixfold
-classification preserves differentiation within the unity of an aggregate.
-The change from one mind-base to seven domains then makes systematic
-position a further determination to be explained.
+The text defines *vijñāna* through `prativijñapti`, apprehension with
+respect to each object. In the Organon vocabulary, *vijñāna* itself is
+Reason: the object-directed operation. The six groups gathered as
+*vijñānaskandha* form the Idea-base. Idea is therefore not a synonym for
+Reason; it is the systematic base in which the sixfold differentiation of
+Reason is gathered.
 
-For the Organon reconstruction, this connects the knowing operation with
-the structure of the field in which it is classified. The relation has to
-remain exact: the passage assigns the vijñāna aggregate seven dhātus; its
-summary distributes the other contents separately. An Organon account of
-the unity of knowing must preserve that articulated distribution rather
-than treating every classified factor as a constituent of vijñānaskandha.
+```text
+each object (viṣaya)
+    → object-directed apprehension (prativijñapti / upalabdhi)
+    → Reason (vijñāna)
 
-The distinction also sharpens our question about learning. Object-specific
-apprehension supplies a determinate starting point, while the development
-of prajñā concerns how understanding becomes capable of discriminating and
-comprehending its contents. This passage defines vijñāna; it does not make
-every instance of apprehension an achieved paramārthika knowing.
+six groups of vijñāna
+    → Idea-base (vijñānaskandha)
+        ├─ essence arrangement: mind-essence (mana-āyatana)
+        └─ principle arrangement:
+             six vijñāna-principles + mind-principle
+```
 
-The positive next question arises from the exposition itself: how the
-sixfold apprehending aggregate supplies the seventh domain called manas.
-That question will determine the relation more closely than an assumed
-coordinating faculty could do.
+This is the emerging machine: not three flat inventories, and not one
+substance copied into three lists, but the chapter's classified material
+articulated through base, essence, and principle. The `tat` and `sa eva` of
+the Bhāṣya preserve the identity of the vijñāna-base across those
+arrangements; the different counts express distinct relations.
+Avijñapti belongs to the rūpa-base, yet is placed in dharma-essence and
+dharma-principle in the other arrangements.
+The unconditioned are included in those arrangements without becoming
+constituents of a base. These are precise cross-classifications, not a
+migration of contents from one base to another.
+
+The Kantian-transcendental question is how object-directed apprehension is
+possible as a determinate relation rather than an undirected mental event.
+This Bhāṣya supplies the form of the relation—Reason apprehends with respect
+to each object—and the systematic placements of its Idea-base. It does not
+yet explain the conditions of the sixth support. That question is carried
+forward to 1.17.
+
+The Hegelian movement is visible in the preservation of the same base
+through its essence determination and its principial differentiation.
+Unity is not an undivided One: the six Reason-principles and mind-principle
+are distinguished without becoming seven Idea-bases. Nor is the principle
+list alone the Concept; the sixfold support–object–Reason reciprocity must
+be made explicit. The next verse develops the role of *manodhātu* in that
+closure.
+
+The passage thus defines a specific act of Reason, not an accomplished
+wisdom. Object-directed apprehension is the determinate beginning; the
+reflective comprehension of the machine is the Organon reconstruction, not
+a claim that the Bhāṣya itself uses Kantian or Hegelian terminology.
 
 ## 10. Review Status
 
@@ -217,6 +254,7 @@ and the running Sanskrit source.
 
 The source repairs are recorded. The study distinguishes the local
 apprehension sense of `vijñapti` from outward manifestation and preserves
-the different coverage of the aggregate and āyatana/dhātu arrangements.
-The manodhātu explanation is reserved for 1.17. Original research files
-and the Part One reading artifact are preserved.
+the different coverage of the base, essence, and principle arrangements.
+The Idea-base / Reason distinction is confined to the Organon section;
+the *manodhātu* explanation is reserved for 1.17. A byte-for-byte copy of
+the pre-revision file is preserved in the session backup.

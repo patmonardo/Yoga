@@ -1,4 +1,6 @@
-# VAK_1.12 Bhāṣya — The Four Elements
+# The Principles
+
+## VAK_1.12 Bhāṣya — The Four Great Elements
 
 ## 1. Kārikā Anchor
 
@@ -6,9 +8,9 @@
 >
 > dhṛtyādikarmasaṃsiddhāḥ kharasnehoṣṇateraṇāḥ // 1.12 //
 
-Literal (from the kārikā study):
+Literal (from the Kārikā study):
 
-> The elements are the earth-principle and the water-, fire-, and wind-principles. They are established in functions beginning with support: hardness, cohesion, heat, and impulsion.
+> The Elements are the earth-Principle and the water-, fire-, and wind-Principles. They are established in functions beginning with support; the verse then names hardness, cohesion, heat, and impulsion.
 
 Kārikā: [`VAK_1.12.md`](./VAK_1.12.md). Previous: 1.11. Next: 1.13.
 
@@ -20,40 +22,51 @@ Kārikā: [`VAK_1.12.md`](./VAK_1.12.md). Previous: 1.11. Next: 1.13.
 
 ## 3. Continuous Conventional Translation
 
-> “Depending upon the great elements” was stated. Which elements are these? The elements are the earth-principle and the water-, fire-, and wind-principles. These four are called principles, and the four great elements, because they hold their own character and derived form. Their greatness is due to their magnitude as the support of all other form. Alternatively, it is because of their great aggregation in masses of earth, water, fire, and wind in which the corresponding element operates prominently.
+> “Depending on the Great Elements” was stated. Which Elements are these? They are the earth-Principle and the water-, fire-, and wind-Principles. These four are called Principles and Great Elements because they hold their own-character and derived Form. Their greatness is due to their magnitude as support of all other Form. Alternatively, it is due to their great aggregation in masses of earth, water, fire, and wind, where the corresponding Principle operates prominently.
 >
-> In what function are these principles established, and of what own-nature are they? Established in functions beginning with support. The earth-, water-, fire-, and wind-principles are established, in order, in the functions of support, gathering, ripening, and spreading. Spreading is to be understood as increase and extension. This is their function. Their own-nature, in order, is hardness, cohesion, heat, and impulsion.
+> In what functions are these Principles established, and what is their own-character? They are established, in order, in the functions of support, gathering, ripening, and spreading. Spreading is to be understood as increase and extension. This is their function. Their own-character, in order, is hardness, cohesion, heat, and impulsion.
 >
-> Hardness is the earth-principle. Cohesion is the water-principle. Heat is the fire-principle. Impulsion is the wind-principle. It is called impulsion because by it the stream of elements is impelled, from production in another place, as the impulsion of a lamp-flame.
+> Hardness is the earth-Principle. Cohesion is the water-Principle. Heat is the fire-Principle. Impulsion is the wind-Principle. It is called impulsion because by it the stream of Elements is impelled, producing in another place, like the movement of a lamp-flame.
 >
-> In the treatises, and in a sūtra, it is stated: “What is the wind-principle? Light motion.” But that lightness is also said in the treatises to be derived form. Therefore wind is the dharma whose own-nature is impulsion. Its own-nature is made evident by its function.
+> In the treatises and a sūtra it is stated: “What is the wind-Principle? Lightness of movement.” But that lightness is also said in the treatises to be derived Form. Therefore wind is the Dharma whose own-character is impulsion. Its own-character is made evident by its function.
 
 ## 4. Movement of the Commentary
 
 ```text
 which elements?
-    → four principles
-why principle?   → they hold own-character and derived form
-why great?      → support of all other form / aggregation in masses
-function : own-nature
-wind            → function makes own-nature evident
+    → four Principles
+why Principle?   → they hold own-character and derived Form
+why Great?       → support of all other Form / aggregation in masses
+function : own-character
+wind             → function makes own-character evident
 ```
 
 ## 5. The Bhāṣya's Decisions for the Kārikā
 
-1. *Dhātu* is explained by holding, not by an empty box-word.
-2. Greatness is magnitude as support, or aggregation in masses. *Skandha* in that sentence is a mass, not the five Bases.
-3. Function and own-nature are two lists.
+1. *Dhātu* is explained through holding, not as an empty box-word.
+2. Greatness is magnitude as support or aggregation in masses. *Skandha* in that sentence means mass, not one of the five Bases.
+3. Function and own-character are distinct lists.
 4. Spreading is increase and extension.
-5. Lightness is derived form. Wind is impulsion.
-6. Function makes own-nature evident.
+5. Technical lightness is derived Form; wind is impulsion.
+6. Function makes own-character evident.
 
 ## 6. Organon Note
 
 Not part of the conventional translation.
 
-These four are principles. They are not members of a Base. Holding derived form is not being that form. The mass in the greatness-sentence is not the five Bases. This is the *mahābhūta* theory of *kāmadhātu*.
+This is where **System Light** becomes legible: function discloses
+own-character, and own-character is intelligible through function. It is
+the sole Organon indicator that the Form–Essence machine is working.
+These four are determined as Principles; the mass-word *skandha* in the
+greatness sentence is not one of the five Bases. The same Elemental
+content may be classified through the Form Base elsewhere. The Bhāṣya's
+technical lightness (*laghutva*) is derived Form, not “System Light.”
+This is the *mahābhūta* determination of *kāmadhātu*, not a geology
+appendix.
 
 ## 7. Review Status
 
-Conventional translation tracks the Pradhan span. Verse-English in §1 copies [`VAK_1.12.md`](./VAK_1.12.md). Next: 1.13.
+The conventional translation tracks the Pradhan span. The Kārikā anchor
+is synced to [`VAK_1.12.md`](./VAK_1.12.md). The function/own-character
+relation is translated from the Bhāṣya; System Light is the Organon
+interpretation. Next: 1.13.

@@ -1,4 +1,6 @@
-# VAK_1.23 Bhāṣya — The Order of Faculties and Their Object-Relations
+# The Principles
+
+## VAK_1.23 Bhāṣya — Ordering Faculties, Fields, and Cognitions
 
 ## 1. Kārikā Anchor
 
@@ -7,11 +9,11 @@
 > dūrāśutaravṛtty anyat yathāsthānaṃ kramo 'thavā // 1.23 //
 
 > The five come first because their objects are present; four because their
-> objects are derived material form. The remainder is ordered by farther
-> or quicker operation; alternatively, the order follows location.
+> objects are derived Form. The remainder is ordered by farther or quicker
+> operation; alternatively, the order follows location.
 
 The Bhāṣya explains successive distinctions within the six faculties.
-Their objects and cognitions follow their classificatory order. Bodily
+Their object-fields and Cognitions follow the faculty order. Bodily
 location is then offered as an alternative explanation.
 
 ## 2. Continuous Sanskrit
@@ -40,7 +42,8 @@ location is then offered as an alternative explanation.
 
 The unit runs from the opening at printed location 015.22 through the
 location account at 016.12–13. The next question concerns why one material
-āyatana is called rūpāyatana and one āyatana dharmāyatana, opening 1.24.
+Essence Base is called the Form Essence Base and one Essence Base the Dharma
+Essence Base, opening the problems with Principle in 1.24.
 
 Word division and punctuation are editorial. The running verse's
 `vārttamārthyāt` is read as `vārttamānārthyāt`, supported by the research
@@ -60,19 +63,19 @@ independent intact readings of the running witness.
 
 ## 3. Continuous Conventional Translation
 
-> The order of the six āyatanas and dhātus beginning with the eye must be
-> explained. The order of their objects and cognitions follows that order.
-> Of those six, the five come first because their objects are present.
-> The five beginning with the eye are stated first because they have present
-> objects. Mind, however, has an unrestricted object-range: some has a
-> present object, some [objects across times and outside temporal divisions;
-> the compound is damaged].
+> The order of the six faculty-pairs in the Essence Base and Principle
+> arrangements, beginning with the eye, must be explained. The order of
+> their object-fields and Cognitions follows that order. Of those six, the
+> five come first because their objects are present. The five beginning
+> with the eye are stated first because they have present objects. Mind,
+> however, has an unrestricted object-range: some of its objects are
+> present, some [extend across times and outside temporal divisions; the
+> compound is damaged].
 >
-> Four come first because their objects are derived material form. “First”
-> carries forward. Of the five, four are stated first because they have
-> derived material form as object. The body's object is unrestricted in
-> this respect: sometimes the great elements, sometimes derived material
-> form, sometimes both.
+> Four come first because their objects are derived Form. “First” carries
+> forward. Of the five, four are stated first because they have derived Form
+> as object. The body's object is unrestricted in this respect: sometimes
+> the great elements, sometimes derived Form, sometimes both.
 >
 > The remainder is ordered by farther or quicker operation. The remaining
 > faculties are stated first, as appropriate, through farther or quicker
@@ -94,28 +97,28 @@ independent intact readings of the running witness.
 The principal account successively distinguishes smaller groups:
 
 ```text
-six faculties
-    → five sensory faculties before mind
+six faculty-pairs in Essence Base and Principle
+   → five sensory faculties before Mind
 five sensory faculties
-    → four with derived material objects before body
+   → four with derived-Form objects before Body
 remaining four
     → eye and ear before nose and tongue
     → eye before ear; nose before tongue
 
 alternative account
-    → order according to bodily sites, with mind treated separately
+   → order according to bodily sites, with Mind treated separately
 ```
 
-The opening states that corresponding object and cognition lists follow
-the faculty list. It does not assert that the faculties create their objects
-in that temporal sequence. The unit is explanatory, with no separately
-speaking objector or explicit school attribution.
+The opening states that corresponding object-field and Cognition lists
+follow the faculty list. It does not assert that the faculties create their
+objects in that temporal sequence. The unit is explanatory, with no
+separately speaking objector or explicit school attribution.
 
-## 5. Present Objects and Derived Material Objects
+## 5. Present Objects and Derived Form
 
 The first distinction concerns temporal range. `Varttamānaviṣayatva`
-explains why the five sensory faculties precede mind. `Aniyataviṣaya`
-then contrasts mind's range with their restriction to present objects.
+explains why the five sensory faculties precede Mind. `Aniyataviṣaya`
+then contrasts Mind's range with their restriction to present objects.
 
 The damaged `vyadhvānadhraviṣayam` cannot be treated as a securely
 reconstructed compound. Its context and the research report support a
@@ -124,15 +127,16 @@ is bracketed in the translation. The primary claim is secure at the level
 of the explicit opposition: present objects versus mind's unrestricted
 range. The exact wording of the further division remains open.
 
-The second distinction is material. `Bhautika` concerns form derived from
-the great elements. Eye, ear, nose, and tongue have such objects; the tangible
-field also includes the great elements themselves. The body faculty's
-`aniyata` therefore concerns a different respect from mind's: it ranges
-across elements, derived form, and both, rather than simply across times.
+The second distinction concerns the object's constitution. `Bhautika`
+concerns Form derived from the great elements. Eye, ear, nose, and tongue
+have such objects; the tactile field also includes the great elements
+themselves. The Body faculty's `aniyata` therefore concerns a different
+respect from Mind's: its object-range includes elements, derived Form, or
+both, rather than a range across times.
 
 `Prāg iti varttate`, “first carries forward,” is an explicit grammatical
 instruction. The omitted precedence in the second verse phrase is supplied
-from the first. Thus four are placed before body within the already selected
+from the first. Thus four are placed before Body within the already selected
 five, not declared to precede all six under a new unrelated enumeration.
 
 ## 6. Distance and Quicker Operation
@@ -173,55 +177,61 @@ below the tongue, or merely paraphrase it as “throughout the body.”
 Mind is described as depending on “those very” faculties and as
 `adeśastha`, not situated in a place. This statement belongs to the
 alternative ordering account. Its exact dependence should be read alongside
-the preceding manodhātu analysis rather than expanded into an assertion
-that each mental cognition requires all five sensory faculties together.
+the preceding Mind-Principle analysis rather than expanded into an assertion
+that each Cognition requires all five sensory faculties together.
 Nor does non-location itself identify manas with an unconditioned dharma.
 
 ## 8. The Bhāṣya's Decisions for the Kārikā
 
-1. The faculty sequence governs the corresponding object and cognition
-   sequences as an expository arrangement.
-2. Present-object restriction places the sensory five before mind; the
-   further mental-object compound remains damaged.
-3. Derived material objects place four before body, whose tangible field
-   includes elements, derived form, or both.
+1. The faculty sequence governs the corresponding object-field and
+   Cognition sequences as an expository arrangement.
+2. Present-object restriction places the sensory five before Mind; the
+   further Mind-object compound remains damaged.
+3. Derived-Form objects place four before Body, whose tactile field
+   includes elements, derived Form, or both.
 4. The prose explicitly carries “first” into the second phrase.
 5. Distance and quicker operation apply to different comparisons, with
    river and food examples supplying the stated grounds.
 6. Location is an alternative account, whose body-site clause remains
    uncertain and whose mind clause is preserved within that setting.
 
-## 9. Philosophical and Organon Study
+## 9. Science of Dharma-Knowing: The Empirical Root
 
-The ordering depends on the respect in which the factors are compared.
-Temporal range, material constitution, operational reach, and bodily site
-are different determinations. The repeated idea of an unrestricted range
-itself changes meaning between mind and body because the relevant contrast
-changes.
+This completes the present setup sequence, VAK 1.18–1.23. The verses move
+from membership and unity through Base, Essence Base, and Principle,
+causal salience, category-fit, and finally the ordering of faculties,
+fields, and Cognitions. This sequence is closed; the complete machine is
+not. Its remaining development continues through VAK 1.28.
 
-For the Organon reconstruction, this gives a concrete requirement for
-systematic ordering: state the comparison, its range of application, and
-the ground of precedence. A single sequence may be intelligible through
-more than one account without those accounts becoming interchangeable.
+Empirical sciences must be applied to appearances, so their root is the
+Form Base. In the Organon reading, *sarvadharma* names the manifold
+appearances of dharmas captured in the Form Base for empirical inquiry.
+This is not a claim that all dharmas are material substances. It identifies
+the appearance-manifold as the empirical ground on which Science works.
 
-This bears on learning because following a classification requires more
-than remembering its order. Understanding why four precede body requires
-recognizing the distinction between elemental and derived tangibles;
-understanding why five precede mind requires attending to temporal scope.
-These are different acts of discrimination within one exposition.
+VAK 1.23 orders the faculties and their corresponding Essence Base fields
+and Cognitions by temporal range, object constitution, reach, speed, and
+location. These relations show how empirical appearances are accessed and
+organized. Mind's wider object-range exceeds the present-only restriction
+of the sensory faculties, while remaining within the ordered system.
 
-The commentary supplies the reasons offered for its sequence, while the
-full development of the capacity to comprehend those reasons remains our
-further question about prajñā. The uncertain source expressions are part
-of that work of understanding and are retained for review rather than
-resolved through a project-level model.
+Here *vijñāna* is Cognition: knowing in operation. It is not interchangeable
+with *vijñānaskandha*, the Knowledge Base. The Form Base supplies the
+empirical root; the Essence Base and Principle articulate the relations
+through which this manifold is accessed and ordered. This is the developing
+Idea-base interpretation, not a claim that this verse completes the
+architecture or gives the final Concept-level closure.
+
+The textual uncertainties remain visible: the damaged compound for Mind's
+objects, the food-and-tongue phrase, and the body-site clause are not
+resolved by the Organon interpretation.
 
 ## 10. Review Status
 
-QA review of the twenty-third Bhāṣya study. The local research
-commentary, kārikā opening, and running Sanskrit have been compared through
-016.13. The successive criteria and alternative location account
-are preserved.
+QA review of the twenty-third Bhāṣya study, closing the VAK 1.18–1.23
+setup sequence. The local research commentary, kārikā opening, and running
+Sanskrit have been compared through 016.13. The successive criteria and
+alternative location account are preserved.
 
 The mental-object compound, food/tongue phrase, body-site clause, and
 instrumental verse variation remain explicit. Structural validation does

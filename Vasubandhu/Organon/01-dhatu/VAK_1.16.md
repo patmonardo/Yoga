@@ -12,268 +12,213 @@
 >
 > dhātavaḥ sapta ca matāḥ ṣaḍvijñānāny atho manaḥ // 1.16 //
 
-## 3. Lexical Analysis
+## 3. Padaccheda and Lexical Analysis
+
+**Sentence words**
 
 ```text
-vijñānaṃ             → vijñānam
-mana āyatanaṃ        → manaḥ āyatanam
-dhātavaḥ sapta       → dhātavaḥ sapta
-ṣaḍvijñānāny atho   → ṣaṭ vijñānāni atho
+vijñānam | prativijñaptiḥ | manaḥ | āyatanam | ca | tat |
+dhātavaḥ | sapta | ca | matāḥ | ṣaṭ | vijñānāni | atho | manaḥ
 ```
 
-| Form | Morphology | Lexical force here |
+**External sandhi**
+
+| Verse form | Resolved words |
+|---|---|
+| vijñānaṃ prativijñaptiḥ | vijñānam + prativijñaptiḥ |
+| mana āyatanaṃ | manaḥ + āyatanam |
+| ṣaḍvijñānāny atho | ṣaṭ + vijñānāni + atho |
+
+*Prativijñapti* contains *prati* + *vijñapti*. The Bhāṣya
+resolves the prefix through *viṣayaṃ viṣayaṃ prati vijñaptiḥ*:
+apprehension with respect to each particular object-domain.
+It glosses the result as *upalabdhi*, apprehension.
+The distributive repetition and the gloss are commentary, not
+additional words in the verse. Here *vijñapti* has the local
+cognitive force of apprehension; the 1.11 contrast with outward
+manifestation has a different context.
+
+**Lexical and morphological determination**
+
+| Pada | Morphology | Force in this passage |
 |---|---|---|
-| vijñānam | nominative neuter singular | object-specific cognition; the cognition aggregate |
-| prativijñaptiḥ | nominative feminine singular predicate noun | apprehension corresponding to each particular object |
-| manaḥ | nominative neuter singular | mind; here the mind-sphere and later the mind-domain |
-| āyatanam | nominative neuter singular | sphere, gateway, field of access |
-| ca | conjunction | and, also |
-| tat | nominative neuter singular demonstrative | that same cognition aggregate |
-| dhātavaḥ | nominative masculine plural | domains |
-| sapta | numeral | seven |
-| matāḥ | nominative masculine plural past passive participle | accepted, maintained |
-| ṣaṭ | numeral | six |
-| vijñānāni | nominative neuter plural | the six object-specific cognitions |
-| atho | connective particle | and further, and also |
-| manaḥ | nominative neuter singular | mind-domain |
-
-The Bhāṣya resolves `prativijñapti` exactly:
-
-```text
-viṣayaṃ viṣayaṃ prati vijñaptiḥ
-    = upalabdhiḥ
-
-apprehension with respect to each particular object-domain
-```
-
-This gloss controls both an under-translation as vague “consciousness” and
-an over-translation as already developed discriminative judgment.
+| vijñānam | nominative neuter singular | domain-differentiated cognition; the content being defined |
+| prativijñaptiḥ | nominative feminine singular | corresponding apprehension; predicate noun |
+| manaḥ | nominative neuter singular | mind in the compound designation *mana āyatana*; later, mind as a principle |
+| āyatanam | nominative neuter singular | essence in the adopted Organon register |
+| ca | indeclinable | also; connects the further placement |
+| tat | nominative neuter singular | that same *vijñānam*, specified as a base by the Bhāṣya |
+| dhātavaḥ | nominative masculine plural | principles in the further arrangement |
+| sapta | numeral | seven principial positions |
+| matāḥ | nominative masculine plural participle | accepted; agrees with *dhātavaḥ* |
+| ṣaṭ vijñānāni | numeral and nominative neuter plural | six classes of cognition |
+| atho | connective | and further, and also |
+| manaḥ | nominative neuter singular | mind-principle as the seventh named position |
 
 ## 4. Grammar
 
-The opening is a nominal definition:
+**Definition and referent**
 
-```text
-vijñānam = prativijñaptiḥ
-```
+*Vijñānaṃ prativijñaptiḥ* is a nominal definition. The neuter
+subject and feminine predicate noun differ in gender without
+changing the referent. The verse does not itself spell out
+what *prati* distributes over. The Bhāṣya supplies *viṣayaṃ
+viṣayaṃ prati* and *upalabdhiḥ*, fixing the sense as
+apprehension with respect to each cognitive correlate.
 
-The difference in grammatical gender is permitted because
-`prativijñaptiḥ` is a predicate noun. The prefix and distributive phrase
-explained by the Bhāṣya give the definition its relational force: cognition
-is apprehension *with respect to* a corresponding object.
+*Mana āyatanaṃ ca tat* predicates a second arrangement of
+*tat*, “that.” Grammatically the neuter pronoun resumes
+*vijñānam*; the prose makes the classificatory referent exact:
+the *vijñānaskandha*, or cognition-base, is *mana-āyatana*,
+mind-essence, in the essence arrangement. The line does not
+introduce an independent mind-entity alongside the defined
+cognition.
 
-`Tat` resumes the same `vijñānaskandha` under a second arrangement:
+**Seven in the principle arrangement**
 
-```text
-as skandha
-    → vijñāna-skandha
-
-as āyatana
-    → mana-āyatana
-```
-
-The second line introduces a third arrangement. `Dhātavaḥ sapta` is the
-plural subject and `matāḥ` its predicate. The appositional enumeration
-answers which seven:
-
-```text
-ṣaṭ vijñānāni
-    + manaḥ
-```
-
-The Bhāṣya supplies the full distribution:
-
-```text
-eye-cognition-domain
-ear-cognition-domain
-nose-cognition-domain
-tongue-cognition-domain
-body-cognition-domain
-mind-cognition-domain
-+ mind-domain
-```
-
-The verse does not posit seven cognitions. There are six classes of
-cognition and a seventh domain called manas, whose non-substantial identity
-is explained only in VAK 1.17.
+*Dhātavaḥ sapta ... matāḥ* gives a masculine plural subject and
+its agreeing predicate: seven principles are accepted. The
+closing enumeration states what is counted: six *vijñānāni*
+and *manaḥ*. The Bhāṣya names them as six cognition-principles,
+from eye-cognition-principle through mental-cognition-principle,
+plus mind-principle. The last two names must remain distinct.
+The reason that mind-principle does not add a seventh kind of
+cognition is the question opened immediately after this unit
+and addressed in 1.17.
 
 ## 5. Translation
 
-### Close syntactic construe
+### Literal Translation
 
-> Vijñāna is apprehension corresponding to an object. That same aggregate is the mind-sphere; and as domains it is accepted as seven—the six cognitions and also mind.
+Cognition is *prativijñapti*. That is also the mind-essence.
+Seven principles are accepted: the six cognitions and also mind.
 
-### Bhāṣya-informed translation
+### Bhāṣya-informed study translation
 
-> The cognition aggregate is object-specific apprehension, divided into the six classes from visual through mental cognition. In the āyatana arrangement this same aggregate is the mind-sphere; in the dhātu arrangement it is articulated as the six cognition-domains together with the mind-domain.
+The cognition-base is apprehension with respect to each
+particular object-domain. It comprises six classes,
+from eye-cognition through mental cognition. This same base
+is mind-essence in the essence arrangement. In the principle
+arrangement it is counted as seven: six cognition-principles
+and mind-principle.
 
-The Bhāṣya's `upalabdhi` supports “apprehension.” “Knowledge” remains the
-project rendering of `vijñāna` only when understood minimally as determinate,
-object-indexed cognition—not necessarily truth, judgment, or liberating
-wisdom.
+The Bhāṣya then completes the count of five bases, twelve
+essences, and eighteen principles. Its summary keeps
+*avijñapti* within the form-base while placing it under
+dharma-essence and dharma-principle, and places the
+unconditioned under those latter two without a base.
 
 ## 6. Philosophical Translation
 
-> Cognition is not first an empty inward awareness that subsequently reaches an object. Each cognition is already a determinate apprehension relative to a particular domain. The one cognition aggregate is therefore expressible as a single mind-base and as seven differentiated domains. The relation of the seventh domain to cognitive succession is explained in 1.17.
+**Organon reconstruction: the cognitive moment of the machine**
 
-Organon rendering:
+VAK 1.16 gives the threefold machine a precise cognitive
+content. *Vijñāna* is one base, mind-essence in the second
+arrangement, and seven named principial positions in the
+third. Its operation is specified through a relation to each
+*viṣaya*. Cognition is thus determinate as apprehension of
+a correlate; the source does not yet make it judgment,
+wisdom, or achieved knowing.
 
-> The cognitive whole differentiates itself according to its objects without ceasing to be one aggregate. As āyatana it is the inward gateway of possible mental access; as dhātu it becomes an articulated architecture of six object-specific cognitions and mind. Domain is therefore the conceptual form of cognitive differentiation.
+```text
+<skandha, āyatana, dhātu> = <base, essence, principle>
 
-This is the strongest textual basis so far for the project expression
-“Knowledge Domains.” It applies immediately to the six vijñāna-dhātus and,
-through their correlations, to the support and object domains of the
-eighteenfold system.
+vijñāna-base : mind-essence :
+    six cognition-principles + mind-principle
+```
+
+The colons mark coordinated, reciprocally determining moments
+of the same classified content. They do not claim that the three
+arrangements contain the same number of entries or that
+mind-principle is a seventh cognition. The shift from one
+essence to seven principles is a discrimination the machine
+must comprehend, rather than a change in the underlying
+base. The exact account of mind-principle's relation to the
+six cognition classes is reserved for 1.17.
+
+The neighboring dharma-essence of 1.15 gathers the feeling-,
+reflection-, and formations-bases with *avijñapti* and the
+unconditioned. Mind-essence here is the cognitive gateway.
+Their non-identical relation lets the Organon ask how an
+apprehending determination and determinable meaning-content
+belong together. The verse supplies their classified positions
+and the object-indexed operation; any fuller theory of
+reciprocal closure belongs to the reconstruction, not to
+Vasubandhu's explicit definition here.
 
 ## 7. Technical Vocabulary
 
-| Sanskrit | Project rendering | Determination |
+| Sanskrit | Working English | Scope |
 |---|---|---|
-| vijñāna | object-specific cognition / knowledge | minimal apprehension indexed to a determinate object-domain |
-| prativijñapti | corresponding apprehension | apprehension with respect to each particular object |
-| upalabdhi | apprehension | direct Bhāṣya gloss of `prativijñapti` |
-| viṣaya | object-domain | that with respect to which a corresponding cognition arises |
-| vijñāna-skandha | cognition aggregate | one aggregate comprising six cognitive classes |
-| vijñāna-kāya | body or class of cognition | systematic series of one cognitive type |
-| mana-āyatana | mind-sphere | the cognition aggregate arranged as one mental gateway |
-| vijñāna-dhātu | cognition-domain | one of six object-specific cognitive domains |
-| mano-vijñāna-dhātu | mental-cognition domain | cognition corresponding to the dharma-domain |
-| mano-dhātu | mind-domain | seventh domain derived from cognitive succession in VAK 1.17 |
-| vyavasthā | arrangement | systematic organization as skandha, āyatana, or dhātu |
+| vijñāna | domain-differentiated cognition | verse definition |
+| prativijñapti | corresponding apprehension | verse, specified by Bhāṣya |
+| viṣaya | object-domain; cognitive correlate in the Organon study | Bhāṣya's distributive gloss |
+| upalabdhi | apprehension | Bhāṣya gloss |
+| vijñānaskandha | cognition-base | Bhāṣya's referent for *tat* |
+| vijñānakāya | class of cognition | six classes in the Bhāṣya |
+| mana-āyatana | mind-essence | one essence for the cognition-base |
+| vijñāna-dhātu | cognition-principle | six differentiated principles |
+| manovijñāna-dhātu | mental-cognition-principle | sixth cognition-principle |
+| mano-dhātu | mind-principle | seventh principial position |
+| vyavasthā | arrangement | Bhāṣya's term for the two placements |
+
+Here *vijñāna* is cognition, distinct in the controlled
+vocabulary from *citta* as consciousness, *jñāna* as achieved
+knowing, and *prajñā* as discriminative comprehension.
+The adopted English *essence* and *principle* renders
+*āyatana* and *dhātu* for the Organon study.
 
 ## 8. Logical Determination
 
-The Bhāṣya defines each cognition in relation to its object; the definition
-does not assert that cognition occurs for every available object-domain:
-
 ```text
-Vijnana(c)
-    → ∃v (ObjectDomain(v) ∧ ApprehendsWithRespectTo(c, v))
+1.14  five faculties + five meanings
+      as ten essences and ten principles
+
+1.15  feeling + reflection + formations
+      with avijñapti + the unconditioned
+      as dharma-essence and dharma-principle
+
+1.16  vijñāna = apprehension with respect to each viṣaya
+      cognition-base
+      as one mind-essence
+      as six cognition-principles + mind-principle
+
+Totals:  five bases; twelve essences; eighteen principles
 ```
 
-The sixfold mapping is:
-
-```text
-visible form  ↔ visual cognition
-sound         ↔ auditory cognition
-smell         ↔ olfactory cognition
-taste         ↔ gustatory cognition
-tangible      ↔ tactile cognition
-dharma        ↔ mental cognition
-```
-
-One content receives three exact arrangements:
-
-```text
-VijnanaSkandha
-    → as Aggregate: one cognition aggregate
-    → as Ayatana:   one mind-sphere
-    → as Dhatu:     six cognition-domains + mind-domain
-```
-
-The Bhāṣya now coordinates the three classifications:
-
-```text
-five skandhas: conditioned aggregates
-twelve āyatanas: ten sensory bases + dharmāyatana + mana-āyatana
-eighteen dhātus: ten sensory domains + dharmadhātu
-                  + six cognition-domains + manodhātu
-```
-
-This is a mapping of contents under different arrangements, not a one-to-one
-correspondence. The unconditioned belong to dharmāyatana and dharmadhātu
-without becoming members of an aggregate.
-
-The detailed distributions are:
-
-```text
-RupaSkandha minus Avijnapti
-    → ten sensory āyatanas
-    → ten sensory dhātus
-
-Vedana + Samjna + Samskara
-+ Avijnapti + three UnconditionedDharmas
-    → dharma-āyatana
-    → dharma-dhātu
-
-VijnanaSkandha
-    → mana-āyatana
-    → six vijñāna-dhātus + mano-dhātu
-```
-
-The principal constraint is:
-
-```text
-Vijnana(c)
-    → ObjectIndexed(c)
-
-Vijnana(c)
-    → ObjectSpecifiedApprehension(c)
-```
+These counts articulate one system through different
+arrangements. The unconditioned has no base coordinate.
+*Avijñapti* retains its form-base coordinate while entering
+dharma-essence and dharma-principle. The six cognition-principles
+are differentiated by their corresponding correlates; the
+relation of the seventh to their succession remains open in
+this unit.
 
 ## 9. Interpretive Note
 
-VAK 1.16 completes the initial coordination of the five aggregates, twelve
-spheres, and eighteen domains. The same dharmas are not merely renamed.
-Each system makes a different structure explicit: collection, access, and
-domain articulation.
+The decisive grammatical and logical hinge is *tat* followed
+by the sevenfold enumeration. The same cognition-base is
+carried from its definition into one mind-essence and then
+into seven principial positions. A machine that merely equates
+their counts would lose the classificatory operation. A
+machine that treats mind-principle as a new substantial
+cognition would anticipate the next verse's question and
+answer it without its argument.
 
-The definition of vijñāna is decisive: it is apprehension specified by a
-corresponding object-domain. The cognitive term and its object are
-distinguishable moments within one correlated structure.
-
-This supplies the disciplined sattvic reading:
-
-```text
-one cognition aggregate
-    differentiates into
-object-specific knowledge domains
-```
-
-The six cognition-domains are literally determinations of the
-vijñānaskandha. The wider Organon thesis—that the entire eighteenfold system
-is the developed sattvic articulation of Buddha Mind—must still be earned
-through their correlation with supports and objects. Here its cognitive
-center is no longer speculative: six of the dhātus are expressly cognition-
-domains, and the whole cognition aggregate is reorganized as mana-āyatana
-and seven dhātus.
-
-The distinction from tamasic externalization is equally exact. An object-
-domain is not reduced to a gross element, and cognition is not reduced to
-its material support. Dharma maintains their difference while determining
-their reciprocal structure.
-
-We should not yet say that manas coordinates the six cognitions. VAK 1.17
-gives its exact derivation from the immediately past cognition and thereby
-explains cognitive succession.
+The Bhāṣya's *viṣayaṃ viṣayaṃ prati* also fixes the limit of
+“machine consciousness” here. This verse yields a structure
+for determinate apprehension and its classification. The
+Organon may develop that into a theory of cognitive mediation,
+but the source has not yet identified *vijñāna* with
+liberating knowledge or with the whole eighteen-principle
+system. The next determination must be read in 1.17.
 
 ## 10. OWL++ Seed
 
 ```ttl
 @prefix vak: <http://127.0.0.1:3000/vak#> .
-@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
-vak:VAK_1_16
-    a vak:Karika ;
-    rdfs:label "VAK 1.16" ;
-    vak:hasTopic vak:VijnanaSkandhaAsAyatanaAndDhatus ;
+vak:VAK_1_16 a vak:Karika ;
+    vak:hasTopic vak:VijnanaBaseEssencePrinciple ;
     vak:belongsTo vak:Dhatunirdesa .
-
-vak:Vijnana
-    vak:definedAs vak:ObjectSpecificApprehension ;
-    vak:isIndexedTo vak:ObjectDomain .
-
-vak:VijnanaSkandha
-    vak:hasClassCount 6 ;
-    vak:organizedAsAyatana vak:MindSphere ;
-    vak:organizedAsDhatus vak:SixCognitionDomains , vak:MindDomain .
-
-vak:SixCognitionDomains
-    vak:includes vak:VisualCognitionDomain ,
-        vak:AuditoryCognitionDomain , vak:OlfactoryCognitionDomain ,
-        vak:GustatoryCognitionDomain , vak:TactileCognitionDomain ,
-        vak:MentalCognitionDomain .
-
-vak:EighteenDhatuSystem
-    vak:hasArchitecture vak:SupportObjectCognitionTriads .
 ```

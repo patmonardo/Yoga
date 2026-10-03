@@ -1,10 +1,12 @@
-# VAK_1.09
+# The Principles
+
+## VAK_1.09 — The Form Base: Faculties, Meanings, and Avijñapti
 
 ## 1. Sanskrit (Devanāgarī)
 
-> रूपं पञ्चेन्द्रиयाण्यर्थоः पञ्चाविज्ञप्तिरेव च ।
+> रूपं पञ्चेन्द्रियाण्यर्थाः पञ्चाविज्ञप्तिरेव च ।
 >
-> तद्विज्ञоनоश्रयо रूपप्रसоदоश्चक्षुरоदयः ॥ १.०९ ॥॥
+> तद्विज्ञानाश्रया रूपप्रसादाश्चक्षुरादयः ॥ १.०९ ॥
 
 ## 2. Sanskrit (IAST)
 
@@ -17,38 +19,58 @@
 rūpam | pañca | indriyāṇi | arthāḥ | pañca | avijñaptiḥ | eva | ca |
 tad-vijñāna-āśrayāḥ | rūpa-prasādāḥ | cakṣus-ādayaḥ
 
-`Pañca` counts the *arthas*. `Avijñapti` is singular. Eleven. *Vijñāna* is not a twelfth member of *rūpa*.
+`Pañca` counts the *arthas*. *Avijñapti* is singular. Eleven. Cognition
+(*vijñāna*) is not a twelfth member of the Form Base; it is the operation
+for which the faculties provide support.
 
 ## 4. Grammar
 
 ```text
-rūpa-skandha
-    = five indriyas
-    + five arthas
+Form Base (rūpa-skandha)
+    = five faculties
+    + five meanings
     + avijñapti
+
+Form clarities (rūpa-prasāda)
+    = supports for the corresponding Cognitions
 ```
 
 ## 5. Translation
 
 ### Literal
 
-Form is the five faculties, the five meanings, and *avijñapti* also. The eye and the others are clarities of form, supports of the corresponding principles.
+The Form Base comprises five faculties, five meanings, and *avijñapti*.
+The Form clarities, beginning with the eye, support the corresponding
+Cognitions.
 
-*Artha* is meaning. The Bhāṣya glosses it as *viṣaya*. They are a dyad, not two inventories.
+*Artha* is meaning. The Bhāṣya glosses it as *viṣaya*. Meaning and object
+are a dyad here, not two inventories.
 
 ### Bhāṣya-informed
 
-The aggregate of form is the five faculties, the five respective *viṣayas* of those faculties, and *avijñapti*. That is the whole of the *rūpa-skandha*. The faculties beginning with the eye are clarities of form. They support the principle correlated with each. *Avijñapti* is named, not defined. The five meanings remain to be explained.
+The Form Base consists of the five faculties, the five respective
+*viṣayas* of those faculties, and *avijñapti*. The faculties beginning
+with the eye are Form clarities. They support the Cognition corresponding
+to each *viṣaya*. *Avijñapti* is named, not defined here. The five
+meanings remain to be explained.
 
 ## 6. Philosophical Translation
 
-```text
-base : meaning :: definition
-```
+This verse determines the Form Base as eleven members: five faculties,
+five meanings, and *avijñapti*. Meaning remains lowercase: it is the
+object-side of the faculty–meaning dyad. Form means Form Theory, the
+empirical determination of appearance, not material substance.
 
-This verse is the base of form. Eleven members. Meaning, uncapitalized, is what the members combine into. Definition is *dhātu*. Not this verse. Domain remains the English of *dhātu* until an upgrade is forced.
+Empirical science takes appearances as its field. The Form Base is its
+ground, organizing the manifold appearances of *sarvadharma* through
+faculty, meaning, and *avijñapti*. This is the Organon determination, not
+an expansion of the Kārikā’s literal enumeration.
 
-A faculty is a rule system for the form system.
+A faculty is a rule system within Form Theory; its corresponding meaning
+is not a second inventory but the other side of the relation. The
+faculties support their respective Cognitions. This verse names the
+Form-Base structure; it does not enumerate the Essence Bases (*āyatana*)
+or Principles (*dhātu*).
 
 ```text
 sound              the member
@@ -62,14 +84,17 @@ Sāṃkhya discriminates *tanmātra* and the subtle elements. Vedānta tosses th
 
 | Sanskrit | In this verse |
 |---|---|
-| rūpa-skandha | the base of form. Eleven |
-| indriya | faculty. A rule system for the form system |
-| artha | meaning. The wiggle of *viṣaya* |
-| viṣaya | the Bhāṣya gloss. The other side of the dyad |
-| avijñapti | named. Not defined until 1.11 |
-| āyatana | meaning. Not this verse’s count |
-| dhātu | domain, until the upgrade. Scientifically, definition |
+| rūpa-skandha | Form Base; eleven members |
+| rūpa-prasāda | Form clarity; faculty-side support for Cognition |
+| indriya | faculty; a rule system within Form Theory |
+| artha | meaning; the object-side of the dyad |
+| viṣaya | the Bhāṣya gloss for *artha*; not a second inventory |
+| avijñapti | named, not defined here |
+| vijñāna | Cognition; the supported operation, not a twelfth Form member |
+| āyatana | Essence Base; not enumerated here |
+| dhātu | Principle; not enumerated here |
 
 ## 8. Review
 
-English is substitutable. *Meaning* is not capitalized. Bhāṣya synced in the same pass.
+The Form Base vocabulary is aligned with the developing machine. *Meaning*
+remains lowercase. The Bhāṣya still needs its own synchronization pass.

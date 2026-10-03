@@ -7,13 +7,13 @@
 > ṣaṣṭhāśrayaprasiddhyarthaṃ dhātavo 'ṣṭādaśa smṛtāḥ // 1.17 //
 
 > Whatever cognition among the six is immediately past, that is manas.
-> Eighteen dhātus are taught in order to establish the sixth support.
+> Eighteen principles are taught in order to establish the sixth support.
 
-The Bhāṣya answers the apparent difficulty left by 1.16: the six groups
-already constitute vijñānaskandha, yet manodhātu is counted alongside them.
-It explains the temporal and relational determination of manas, preserves
-the eighteenfold arrangement, and tests the account against an arhat's final
-mental occurrence.
+The Bhāṣya answers the apparent difficulty left by 1.16: the six cognition
+classes already constitute the cognition-base, yet mind-principle is counted
+alongside them. It explains the temporal and relational determination of
+manas, preserves the eighteenfold principle arrangement, and tests the
+account against an arhat's final mental occurrence.
 
 ## 2. Continuous Sanskrit
 
@@ -57,23 +57,24 @@ normalized reading rather than a critical edition.
 
 ## 3. Continuous Conventional Translation
 
-> But it was said that the six groups of vijñāna are the vijñāna aggregate.
+> But it was said that the six groups of vijñāna are the vijñāna-base.
 > What, then, is this manodhātu different from them? It is certainly nothing
 > different. What is it, then? Whatever cognition among those same six is
 > immediately past, that is manas. Whatever cognition has ceased immediately
 > before would be called manodhātu. It is as when the same son becomes the
 > father of another, or the same fruit is the seed of another.
 >
-> In that case, in terms of substance there would be seventeen dhātus, or
-> twelve, because the six cognition-domains and the mind-domain are included
-> in one another. Why are eighteen established? Even so, eighteen dhātus are
-> taught in order to establish the sixth support. The five cognition-domains
-> have five supports, beginning with the eye-domain or eye-base. The sixth,
-> the mind-cognition domain, has no other support. Therefore manodhātu is
-> taught to establish its support. Thus there are eighteen dhātus through
-> the arrangement of six supports, six dependents, and six objects.
+> In that case, in terms of substance there would be seventeen principles,
+> or twelve, because the six cognition-principles and mind-principle are
+> included in one another. Why are eighteen established? Even so, eighteen
+> principles are taught in order to establish the sixth support. The five
+> cognition-principles have five supports, beginning with the eye-principle
+> or eye-base. The sixth, the mental-cognition principle, has no other
+> support. Therefore mind-principle is taught to establish its support. Thus
+> there are eighteen principles through the arrangement of six supports,
+> six dependents, and six objects.
 >
-> Then an arhat's final citta would not be manas, for there is no cognition
+> Then an arhat's final citta would not be manas , for there is no cognition
 > with respect to which it would be immediately past. No: it too remains
 > established in the status of manas. A subsequent cognition does not arise
 > because another cause is deficient.
@@ -127,16 +128,18 @@ status of every category.
 The objection introduces `dravyataḥ`, with respect to substance, and points
 to `itaretarāntarbhāva`, mutual inclusion. The two proposed counts express
 the problem in different ways: removing a separately counted manodhātu from
-eighteen yields seventeen; collecting the six cognition-domains under the
-mind-domain yields twelve. These arithmetic explanations make explicit
+eighteen yields seventeen; collecting the six cognition-principles under
+mind-principle yields twelve. These arithmetic explanations make explicit
 the overlap named by the prose, rather than identifying two new systems
 endorsed by the reply.
 
 The answer changes the criterion of the count to the establishment of the
 sixth support. `Ṣaṣṭhāśrayaprasiddhyartham` states its purpose. The first
-five cognition-domains already have the five sensory supports. For the
-sixth, manovijñānadhātu, manodhātu supplies the support that must be
-specified in the arrangement.
+five cognition-principles already have the five sensory supports. For the
+sixth, mental-cognition principle, mind-principle supplies the support that
+must be specified in the arrangement. This continues 1.16's distinction:
+the cognition-base is articulated as six cognition-principles plus
+mind-principle, and 1.17 explains why the latter is not a seventh cognition.
 
 The concluding compound distributes the structure into three sixes:
 
@@ -144,7 +147,7 @@ The concluding compound distributes the structure into three sixes:
 |---|---|
 | `āśraya`, support | five sensory faculties and manas |
 | `āśrita`, dependent | six cognitions |
-| `ālambana`, object | five sensory objects and the dharma-object domain |
+| `ālambana`, object | five sensory objects and dharma as object |
 
 The last column expands the structural summary using the preceding
 classifications. The five sensory supports retain the material nature
@@ -152,11 +155,11 @@ established in 1.09; they are not called gross visible organs here.
 Manas fills the sixth support-position through the cognitive determination
 just explained.
 
-The eighteenfold arrangement therefore preserves differences of role even
-where the relevant contents overlap. Support, dependent cognition, and
-object remain distinguishable relations. `Ālambana` should not be merged
-with `āśraya` merely because both can receive English expressions involving
-“support.”
+The eighteenfold principle arrangement therefore preserves differences of
+role even where the relevant contents overlap. Support, dependent cognition,
+and object remain distinguishable relations. `Ālambana` should not be
+merged with `āśraya` merely because both can receive English expressions
+involving “support.”
 
 ## 7. An Arhat's Final Citta and an Unproduced Successor
 
@@ -183,30 +186,36 @@ case together determine how the support designation applies.
 
 ## 8. The Bhāṣya's Decisions for the Kārikā
 
-1. Manas is not a cognition additional to the six; it is a determination
-   of those same cognitions.
+1. Mind-principle is not a cognition additional to the six; it is a
+   determination of those same cognitions.
 2. “Immediately past” is explained as immediately ceased, preserving the
    precise temporal relation.
 3. The two analogies illustrate the same item receiving different relational
    designations.
-4. Eighteen is retained to establish six supports, six dependents, and six
-   objects, despite overlap at the level invoked by `dravyataḥ`.
-5. Manodhātu supplies the explicitly stated support of manovijñānadhātu.
+4. Eighteen principles are retained to establish six supports, six
+   dependents, and six objects, despite overlap at the level invoked by
+   `dravyataḥ`.
+5. Mind-principle supplies the explicitly stated support of
+   mental-cognition principle.
 6. An arhat's final citta remains manas even without a successor; the
    commentary attributes non-arising to another causal deficiency.
 
 ## 9. Philosophical and Organon Study
 
-The passage gives domain-determination a direct relational content. One
-cognition can be determined through its apprehending role and through the
-role designated manas. The eighteenfold articulation preserves the relevant
-positions instead of reducing its count to non-overlapping substances.
+Read alongside 1.16, the passage determines the principle-moment of the
+base / essence / principle machine. The cognition-base is mind-essence in
+the essence arrangement and six cognition-principles plus mind-principle in
+the principle arrangement. VAK 1.17 explains this last placement: the same
+cognition is a cognition-principle as present apprehension and
+mind-principle as immediately past support. The shift is relational, not
+the addition of another cognitive substance.
 
-For the Organon reconstruction, this makes cognitive succession a concrete
-part of the domain inquiry. Knowing has a relation to what immediately
-precedes it, and the support-position is filled through cognition itself.
-The account gains its force from the exact temporal qualification and the
-threefold distinction of support, dependent, and object.
+The eighteen principles preserve the distinctions needed to articulate
+support, dependent cognition, and object, even where their contents overlap.
+This is the verse's principial classification, not a flat list of
+independent substances. The exact temporal qualification and the final
+arhat case constrain the reconstruction: support-status remains even when
+another required cause for a successor is absent.
 
 The arhat case adds an equally necessary qualification: a defined role is
 not identical with its actual exercise in every instance. Understanding a
@@ -214,13 +223,10 @@ condition requires knowing both what it contributes and what other
 conditions are needed for an effect. The commentary states that distinction
 without specifying the missing cause in this unit.
 
-Our inquiry into learning can proceed from these relations while retaining
-its further question. Immediate cognitive succession explains neither the
-retention of an entire learned content nor the achievement of prajñā by
-itself. It does establish a precise support relation within which the
-development of understanding can be investigated. That is the Organon
-contact point; the Bhāṣya's stated result remains the determination of
-manas and the eighteenfold arrangement.
+The Organon can investigate cognitive mediation from this relation without
+claiming that the Bhāṣya itself presents a complete theory of learning or
+of prajñā. Its stated result remains the determination of manas and the
+eighteenfold principle arrangement.
 
 ## 10. Review Status
 

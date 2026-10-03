@@ -1,4 +1,4 @@
-# VAK_1.18 Bhāṣya — Comprehensive Inclusion and Its Ground in Own-Nature
+# VAK_1.18 Bhāṣya — The Ground of Comprehensive Inclusion
 
 ## 1. Kārikā Anchor
 
@@ -6,12 +6,13 @@
 >
 > dhātunā ca svabhāvena parabhāvaviyogataḥ // 1.18 //
 
-> All are included by one aggregate, one āyatana, and one dhātu together.
-> Inclusion is by own-nature, because of separation from another's nature.
+> The inclusion of all is through one base, one essence, and one principle,
+> by own-nature, because of separation from another's nature.
 
-The Bhāṣya identifies the three selected categories as rūpaskandha, the
-mind-base, and dharmadhātu. It then explains the basis of classificatory
-inclusion and distinguishes it from the conventional gathering of an assembly.
+The Bhāṣya identifies the three selected classifications as rūpaskandha,
+mana-āyatana, and dharma-dhātu: form-base, mind-essence, and
+dharma-principle. It explains the ground of their inclusion and distinguishes
+principial membership from the practical, occasional gathering of an assembly.
 
 ## 2. Continuous Sanskrit
 
@@ -44,12 +45,12 @@ preserves the source's distinction between strict and conventional inclusion.
 
 ## 3. Continuous Conventional Translation
 
-> Here all conditioned dharmas are included by the aggregates; all dharmas
-> with outflows by the aggregates of appropriation; and all dharmas by the
-> āyatanas and dhātus. In brief, it should be understood that all are
-> included by one aggregate, one āyatana, and one dhātu. The inclusion of
-> all dharmas is to be understood through the rūpa aggregate, the mind-base,
-> and the dharma-domain together.
+> Here all conditioned dharmas are included by the bases; all Impure dharmas
+> by the bases of appropriation; and all dharmas by the essences
+> and principles. In brief, it should be understood that all are included
+> by one base, one essence, and one principle. The inclusion of all dharmas
+> is to be understood through the form-base, mind-essence, and
+> dharma-principle together.
 >
 > Wherever this inclusion is spoken of, it is to be understood as inclusion
 > by own-nature, not by another's nature. Why? Because of separation from
@@ -57,12 +58,18 @@ preserves the source's distinction between strict and conventional inclusion.
 > it cannot reasonably be included by that very nature from which it is
 > separate.
 >
-> For example, the eye faculty is included in the rūpa aggregate, the
-> eye-base and eye-domain, and the truths of suffering and origin, because
-> it has their nature. It is not included in the other aggregates and the
+> For example, the eye faculty is included in the form-base, eye-essence and
+> eye-principle, and the truths of suffering and origin, because
+> it has their nature. It is not included in the other bases and the
 > rest, because it is separate from their nature. But when one thing is
 > said to gather another, as assemblies are gathered by the means of
 > gathering, that is to be understood as conventional because it is occasional.
+
+The working English renders *skandha* as “base,” *āyatana* as “essence,”
+*dhātu* as “principle,” and *sāsrava* as “Impure,” following the established
+Organon vocabulary. These terms are used throughout this study; Sanskrit is
+retained where needed to identify the source form. “With outflows” is not
+used as the operative English term.
 
 ## 4. Movement of the Commentary
 
@@ -71,15 +78,15 @@ membership and then to a contrasting use of the same word:
 
 ```text
 scope of inclusion
-    → conditioned, sāsrava, and all dharmas
-compressed coverage
-    → rūpa aggregate + mind-base + dharma-domain
-basis of inclusion
-    → own-nature
+    → conditioned, Impure, and all dharmas
+compressed selection
+    → form-base + mind-essence + dharma-principle
+ground of classification
+    → own-nature, not another's nature
 example
     → eye faculty under several appropriate classifications
-contrasting use
-    → occasional gathering of assemblies
+practical contrast
+    → occasional, conventional gathering of assemblies
 ```
 
 The prose asks and answers a question about the ground of inclusion. No
@@ -91,32 +98,33 @@ than an alternative exhaustive classification of dharmas.
 
 The opening distinguishes three ranges:
 
-| Classification | What it includes |
+| Systematic determination | What it includes |
 |---|---|
-| aggregates | all conditioned dharmas |
-| aggregates of appropriation | all sāsrava dharmas |
-| āyatanas and dhātus | all dharmas |
+| bases (*skandhas*) | all conditioned dharmas |
+| bases of appropriation (*upādāna-skandhas*) | all Impure dharmas (*sāsrava*) |
+| essences and principles (*āyatanas*, *dhātus*) | all dharmas |
 
-The second row restricts the first to the appropriation-field; the third
-includes the unconditioned as well. This is not a simple progression in
-which every successive row is larger than the preceding one. The different
-scopes must be retained explicitly.
+The second row identifies the Impure scope through the bases of
+appropriation; the third includes the unconditioned as well. This is not a
+simple progression in which every successive row is larger than the
+preceding one. The different scopes must be retained explicitly.
 
 The verse's compressed selection is then identified by three instrumentals:
-`rūpaskandhena`, `mana āyatanena`, and `dharmadhātunā`. Together they
-cover all dharmas. It is not asserted that each selected category by itself
-contains everything.
+`rūpaskandhena`, `mana āyatanena`, and `dharmadhātunā`: form-base,
+mind-essence, and dharma-principle. Together they cover all dharmas. It is
+not asserted that each selected determination by itself contains everything.
 
-| Selected category | Contents established in the preceding studies |
+| Selected determination | Contents established in the preceding studies |
 |---|---|
-| rūpaskandha | five material faculties, five sensory objects, avijñapti |
-| mind-base | the vijñāna aggregate |
-| dharmadhātu | vedanā, saṃjñā, saṃskāra, avijñapti, and the unconditioned |
+| form-base (*rūpaskandha*) | five material faculties, five sensory objects, *avijñapti* |
+| mind-essence (*mana-āyatana*) | cognition-base (*vijñānaskandha*) |
+| dharma-principle (*dharmadhātu*) | *vedanā*, *saṃjñā*, *saṃskāra*, *avijñapti*, and the unconditioned |
 
-This is comprehensive coverage with overlap: avijñapti occurs in both the
-rūpa aggregate and dharmadhātu. It is not a division into three mutually
-exclusive classes. The unconditioned enter through dharmadhātu, preserving
-the opening statement that aggregates alone cover only the conditioned.
+This is comprehensive coverage with overlap: *avijñapti* occurs in both the
+form-base and dharma-principle. It is not a division into three mutually
+exclusive classes. The unconditioned enter through the principle
+arrangement, preserving the opening statement that bases alone cover only
+the conditioned.
 
 ## 6. Inclusion by Own-Nature
 
@@ -127,20 +135,20 @@ The relative-correlative `yena ... tenaiva` makes the rejection exact:
 what it is separate from cannot itself be the nature by which it is included.
 
 Here `saṃgraha` means inclusion within a classification. The statement
-concerns what warrants membership; it does not say that a dharma cannot
-stand in causal, supporting, or object relations to other dharmas. Those
-relations have been explicit throughout the preceding studies.
+concerns what warrants principial membership; it does not say that a dharma
+cannot stand in causal, supportive, or object-relations to other dharmas.
+Those relations have been explicit throughout the preceding studies.
 
-The eye faculty supplies the positive example. It belongs to the rūpa
-aggregate, the eye-base, the eye-domain, and suffering and origin. The
-reason is `tatsvabhāvatvāt`, because of having that nature. It does not
-belong to other aggregates and categories whose nature it lacks.
+The eye faculty supplies the positive example. It belongs to the form-base,
+eye-essence and eye-principle, and suffering and origin. The reason is
+`tatsvabhāvatvāt`, because of having that nature. It does not belong to other
+bases or determinations whose nature it lacks.
 
-Membership under these several classifications does not identify the whole
-rūpa aggregate with the eye faculty, or make suffering and origin identical
-in meaning. A factor can satisfy several determinations while the
-classifications preserve their different scope and function. The eye example
-therefore continues the exact correspondence established in 1.14–1.16.
+Membership under these several determinations does not identify the whole
+form-base with the eye faculty, or make suffering and origin identical in
+meaning. A factor can satisfy several determinations while base, essence,
+and principle preserve their different scope and function. The eye example
+therefore continues the differentiated system established in 1.14–1.16.
 
 “Own-nature” retains the technical term's force without adding a theory
 of absolute isolation. The classificatory distinction is the argument's
@@ -159,62 +167,91 @@ Such gathering is called `sāṃketika`, conventional, because it is
 conditions. It does not place them within the gatherer's own nature in
 the classificatory sense just explained.
 
-The distinction concerns two uses of a word. Conventional gathering remains
-an intelligible practical operation; it simply does not provide the same
-basis of inclusion as the eye faculty's membership in rūpa. Nor does the
-text explicitly name the strict classificatory use `pāramārthika` here.
-That further characterization should not be inserted into its translation.
+The distinction concerns two grounds of relation. Conventional gathering
+remains an intelligible practical operation; it simply does not provide the
+same ground of principial inclusion as the eye faculty's membership in the
+form-base, eye-essence, and eye-principle. Nor does the text explicitly name
+the strict classificatory use `pāramārthika` here. That further
+characterization should not be inserted into its translation.
 
 ## 8. The Bhāṣya's Decisions for the Kārikā
 
-1. The ranges of aggregates, aggregates of appropriation, and āyatanas/
-   dhātus differ and must be stated separately.
-2. The selected aggregate, āyatana, and dhātu are rūpaskandha, the mind-base,
-   and dharmadhātu. Their joint coverage includes all dharmas.
+1. The ranges of bases, bases of appropriation, and essences/principles
+   differ and must be stated separately.
+2. The selected determinations are form-base, mind-essence, and
+   dharma-principle. Their joint coverage includes all dharmas.
 3. Their coverage overlaps at avijñapti; it is not an exclusive partition.
 4. `Svabhāvena` governs classificatory inclusion, with `parabhāva` supplying
    the contrasting nature under which a dharma cannot be included.
 5. The eye example shows one factor appropriately included under multiple
    determinations without equating those classifications in their entirety.
 6. The gathering of assemblies is a conventional, occasional use of
-   `saṃgraha`, distinct from the classificatory use.
+   `saṃgraha`, distinct from principial inclusion.
 
 ## 9. Philosophical and Organon Study
 
-The domain inquiry now receives a rule of membership. A domain must specify
-why a determination belongs within it. The explanation cannot be replaced
-by the bare observation that factors are associated or have been gathered
-for a purpose. The eye example supplies the positive demand: show which
-classificatory determinations the factor satisfies.
+**The threefold movement: base, essence, principle**
 
-For the Organon reconstruction, the comprehensive selection is equally
-instructive. Full coverage need not be an exclusive partition. The same
-avijñapti belongs within two selected classifications while retaining its
-own determination, and the unconditioned enter through the category that
-actually includes them. Systematic unity depends on preserving these
-relations of scope and overlap.
+The Bhāṣya's selected classifications can be read through the Organon's
+threefold determination:
 
-This refines our question about paramārtha and domains. Establishing a
-domain requires both a range and a ground of inclusion; conventional naming
-or practical gathering supplies a different relation. The text supports
-that distinction without identifying all conventional organization with
-error or calling one selected category the sole real domain.
+```text
+<skandha, āyatana, dhātu>
+    = <base, essence, principle>
 
-For learning, classification provides a determinate question to investigate:
-what warrants including this content here? The capacity to answer that
-question through the content's determination is a further achievement of
-understanding. This is the Organon extension of the passage's rule; the
-Bhāṣya itself establishes the coverage and meaning of saṃgraha.
+VAK 1.18
+    rūpaskandha   → form-base
+    mana-āyatana  → mind-essence
+    dharma-dhātu  → dharma-principle
+```
+
+The base gathers conditioned multiplicity; essence articulates the
+capacity-field of relation; principle determines a dharma within the complete
+classification. These are not three flat inventories or three separate
+wholes. The Bhāṣya's claim is that the three selected terms together cover
+all dharmas, while their distinct scopes and overlapping contents remain
+intact. *Avijñapti* is the instructive case: it remains within the form-base
+and also enters dharma-principle. The unconditioned, by contrast, enter the
+essence and principle arrangements without thereby becoming a base.
+
+The Kantian question is transcendental: what grounds the possibility of
+this comprehensive classification, and what warrants a dharma's placement?
+The Bhāṣya answers at the level of its own argument: *svabhāva*, own-nature,
+not *parabhāva*, another's nature. The Hegelian reconstruction treats the
+paired terms as reflective determination: a classification becomes
+intelligible through both its positive ground and its distinction from what
+it is not. This is determinate difference, not an assertion that every
+dharma is an isolated substance. These are Organon interpretations, not
+Kantian or Hegelian terms in the Sanskrit source.
+
+The eye-faculty example makes the rule concrete. Its inclusion under
+form-base, eye-essence, eye-principle, and (when Impure) suffering and
+origin is grounded in the nature it has; its difference from other natures
+limits where it can be classified. The same factor's several placements
+show that systematic unity is not an exclusive partition. Reflection
+preserves both the common member and the distinct determinations under which
+it is known.
+
+The final assembly example keeps practical life within the account. People
+are brought together through conventional means for contingent purposes;
+that gathering is real as a practical relation, though it does not establish
+classificatory inclusion by own-nature. The reflective task is to distinguish
+these grounds without abstracting the system from practice or reducing
+principial classification to practical association. Thus the passage
+coordinates practical organization and reflective judgment while preserving
+their difference.
 
 ## 10. Review Status
 
 QA review of the eighteenth Bhāṣya study. The natural unit through 012.16,
-continuous Sanskrit and translation, differing scopes, three-category
+continuous Sanskrit and translation, differing scopes, threefold
 coverage, own-nature rule, eye example, and conventional-gathering contrast
 have been checked against the research Bhāṣya, kārikā opening, and running
 Sanskrit source.
 
 The study makes the joint coverage and avijñapti overlap explicit, while
-preserving the local scope of `parabhāvaviyoga`. The assembly means are
-not expanded beyond the supplied text. Original research files and the
-Part One reading artifact are preserved.
+preserving the local scope of `parabhāvaviyoga`. The Organon section
+distinguishes the textual account from the base / essence / principle
+reconstruction and retains the practical force of the assembly example. The
+assembly means are not expanded beyond the supplied text. Original research
+files and the Part One reading artifact are preserved.

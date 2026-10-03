@@ -1,10 +1,12 @@
-# VAK_1.10
+# The Principles
+
+## VAK_1.10 — Counts Within the Five Meanings
 
 ## 1. Sanskrit (Devanāgarī)
 
 > रूपं द्विधा विंशतिधा शब्दस्त्वष्टविधः रसः ।
 >
-> षोढा चतुर्विधो गन्धः स्पृश्यमेकादशात्मकम् ॥ १.१० ॥॥
+> षोढा चतुर्विधो गन्धः स्पृश्यमेकादशात्मकम् ॥ १.१० ॥
 
 ## 2. Sanskrit (IAST)
 
@@ -29,7 +31,8 @@ odor             fourfold
 tangible         eleven as its nature
 ```
 
-The twenty is the same visible form, counted again. Not a second domain.
+The twentyfold enumeration is the same visible-form meaning counted in
+detail, not a second meaning or a new Base.
 
 ## 5. Translation
 
@@ -43,7 +46,8 @@ Visible form is twofold as color and configuration, and the same is enumerated a
 
 ## 6. Philosophical Translation
 
-1.09 named five meanings. 1.10 counts inside them. The tree branches. The fruit is these counts.
+1.09 named five meanings within the Form Base. 1.10 counts within them.
+The tree branches; the fruit is these enumerations.
 
 ```text
 color : configuration     the one dyad
@@ -51,26 +55,35 @@ color : configuration     the one dyad
 
 twenty, eight, six,
 four, eleven              enumerations
-                          not a second principle
+                          not a second meaning or Base
 ```
 
-A *dhātu* is Base::Meaning. This verse is the meaning-side, counted. Definition is not forced here. Domain remains available.
+Visible form is one of the five meanings, not the Form Base itself. Its
+twofold and twentyfold determinations remain within that one meaning.
+Form, in the Organon vocabulary, is Form Theory rather than material
+substance; here visible form is the sensory meaning being counted.
 
-The prose will say the *vid* is knowing-sense, not existence-sense. That waits on the Bhāṣya. Not written into the count.
+This is the meaning-side within the empirical Form Base. The Kārikā
+enumerates these meanings; it does not name an Essence Base (*āyatana*) or
+a Principle (*dhātu*). The Bhāṣya relates visible form to its
+*rūpāyatana*, but that relation is not added to the literal verse.
+
+The prose will say the *vid* is knowing-sense, not existence-sense. That
+waits on the Bhāṣya; it is not written into the count.
 
 ## 7. Vocabulary
 
 | Sanskrit | In this verse |
 |---|---|
-| rūpa | visible form. One meaning. Not the aggregate |
+| rūpa | visible form; one meaning, not the Form Base |
 | dvidhā | color and configuration |
 | viṃśatidhā | twenty, the same visible form |
 | śabda | sound. Eightfold |
 | rasa | taste. Sixfold |
 | gandha | odor. Fourfold |
 | spṛśya | tangible. Eleven as its nature |
-| āyatana | essence |
-| dhātu | definition, scientifically. Domain until forced |
+| āyatana | Essence Base; not named in this Kārikā |
+| dhātu | Principle; not named in this Kārikā |
 
 ## 8. Logical Determination
 
@@ -83,7 +96,8 @@ counts ≠ rational division
 
 ## 9. Interpretive Note
 
-Kārikā only. The Bhāṣya is not synced. Do not overdo the count.
+Kārikā only in this pass. The Bhāṣya remains to be synchronized. Do not
+overread the counts as a second inventory or Principle.
 
 ## 10. OWL++ Seed
 

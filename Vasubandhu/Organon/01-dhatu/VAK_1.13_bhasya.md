@@ -1,4 +1,6 @@
-# VAK_1.13 Bhāṣya — Conventional Names and the Contested Unity of Rūpa
+# VAK_1.13 Bhāṣya — Worldly Names, the Form-Base, and Avijñapti
+
+Source: [`VAK_1.13.md`](./VAK_1.13.md).
 
 ## 1. Kārikā Anchor
 
@@ -6,24 +8,33 @@
 >
 > āpas tejaś ca vāyus tu dhātur eva tathāpi ca // 1.13 //
 
-Literal (from [`VAK_1.13.md`](./VAK_1.13.md)):
+Literal translation:
 
-> By worldly designation, color and configuration are called “earth.” Water and fire too. Wind, however, is the *dhātu* itself — and yet also in that way.
+> By worldly designation, color and configuration are called “earth.”
+> Water and fire too. Wind, however, is the principle itself—and yet
+> also in that way.
 
-The first-pass study already saw the contrast between worldly designation and technical determination. The Bhāṣya makes the syntax exact: `tathāpi ca` does not say that all four names are likewise only *dhātus*. It qualifies wind.
+The working vocabulary is *skandha* = base and *dhātu* = principle.
+The Bhāṣya makes the syntax of *tathāpi ca* exact: it qualifies
+wind, which can also receive a visible worldly name. The question
+then turns to the material unity of the form-base through *avijñapti*.
+The Organon response is marked separately in §13.
 
 ```text
-technically     worldly wind may be the vāyu-dhātu itself
-conventionally  wind may also be named through color and configuration
+technical identity   worldly wind may name the vāyu-dhātu itself
+visible designation  wind may also be named through color and configuration
 ```
 
-Span: Pradhan `[008|26]` through `[010|06]`. Next unit: `[010|07]`.
+Span in the local running source: `[008|26]` through `[010|06]`.
+The next natural unit begins at `[010|07]` with 1.14.
 
-Dharma-Talk format: §2 is clause-line Sanskrit. §3 is the same run in English, marked **Exposition** / **Scripture** / **Objection** / **Answer**, written full enough to sit beside Pruden. Pruden is a check, not a source copied here.
+Section 2 gives clause-line Sanskrit; §3 follows it continuously in
+English, with source voices marked. The local e-text is an edited
+working witness, not an independently collated critical edition.
 
 ## 2. Continuous Sanskrit Witness
 
-Dharma-Talk lineation: one clause to a line.
+One clause is placed on each line for comparison with the translation.
 
 > kaḥ punaḥ pṛthivyādīnāṃ pṛthivīdhātvādīnāṃ ca viśeṣaḥ /
 >
@@ -101,7 +112,7 @@ Dharma-Talk lineation: one clause to a line.
 >
 > na tv evaṃ cakṣurādīny āśritya vartante cakṣurvijñānādīni /
 >
-> kevalaṃ tv utpattinimittamātraṃ tāni teṣāṃ bhavanti /
+> kevalaṃ tv utpattinimittamātraṃ tāni teṣāṃ bhavantīti /
 >
 > idaṃ tāvad avaibhāṣikīyaṃ vṛkṣam āśritya cchāyā vartate maṇiṃ cāśritya prabheti /
 >
@@ -127,31 +138,53 @@ Dharma-Talk lineation: one clause to a line.
 >
 > ity ata upapannam etad āśrayarūpaṇād rūpam iti /
 
-Word division is editorial. Working normalizations: `rūpyate` / `rūpyata`, `rūpopādānaskandha`, `bādhanā`, `saṃghātastha`, `āśritya`, `utpattinimitta`, `avijñaptyāśrayeṣu`. Local IAST is an edited best reading, not a critical edition.
+Word division and quotation punctuation are editorial. The running
+text has damaged or uncertain forms, including `vāyuar`,
+`rūpopādānasdandha`, `sañghātasthaṃ`, `āśrtya`,
+`utpattinimiktamātraṃ`, and `avijña ptyāśayeṣu`. The displayed
+readings `vāyur`, `rūpopādānaskandha`, `saṃghātasthaṃ`, `āśritya`,
+`utpattinimittamātraṃ`, and `avijñaptyāśrayeṣu` are working
+repairs made for continuous reading. The source also has
+`rūpyate rupyata`, whose second form is left as `rūpyata` above.
+No independent collation against printed editions is claimed.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Bhāṣya Translation
 
-Same order as §2. Voices marked. English kept full so the argument can be compared with Pruden without using his wording.
+The translation follows §2 in order. Exposition, quoted scripture,
+objections, and proposed answers remain distinguishable.
 
 **Exposition**
 
-What, then, is the difference between “earth” and the other ordinary names, on the one hand, and the earth-*dhātu* and the other *dhātus*, on the other?
+What, then, is the difference between “earth” and the other ordinary
+names, on the one hand, and the earth-principle and the other elemental
+principles, on the other?
 
-By worldly designation, color and configuration are called “earth.” For when people point out earth, they point out a color and a configuration. They do not point out the hardness that 1.12 assigned to the earth-*dhātu*.
+By worldly designation, color and configuration are called “earth.”
+For when people point out earth, they point out a color and a
+configuration.
 
 As with earth, so also with water and fire: by worldly designation, color and configuration alone are called by those names.
 
-Wind, however, is the *dhātu* itself. The very wind-*dhātu* is what, in the world, is called “wind.”
+Wind, however, is the principle itself. The very wind-principle is
+what, in the world, is called “wind.”
 
 Nevertheless, wind is also designated in the same way as earth. Just as color and configuration are called “earth” by worldly designation, so too people speak of a blue windstorm and a circular windstorm.
 
-Why, then, is this entire series — extending as far as avijñapti — called the aggregate of form? Because of being affected (*raupaṇa*).
+Why, then, is this entire series—extending as far as *avijñapti*—
+called the form-base? Because of being affected (*raupaṇa*).
 
-**Scripture**
+**Exposition introducing scripture**
 
-The Blessed One said: “It is affected, it is affected, monks; therefore it is called the aggregate of appropriation consisting of form. By what is it affected? Even when touched by the hand, it is affected,” and the discourse continues in that vein.
+The Blessed One said: “It is affected, it is affected, monks;
+therefore it is called the form-base of appropriation. By what
+is it affected? Even when touched by the hand, it is affected,”
+and the discourse continues in that vein.
+
+**Exposition, glossing the quotation**
 
 Here “it is affected” means “it is afflicted / disturbed.”
+
+**Scriptural illustration introduced by the exposition**
 
 For it is said in the Arthavargīya verses: “If the desires of that embodied person who is pursuing desire, and in whom longing has arisen, are not fulfilled, he is afflicted as though pierced by a dart.”
 
@@ -169,7 +202,9 @@ In that case an individual atom of form would not be form, because it is not aff
 
 **Answer 1**
 
-But a single atomic form does not exist separately, as an independent occurrence. Situated in an aggregate, that atom is indeed affected.
+But a single atomic form does not exist separately, as an independent
+occurrence. Situated in a collection (*saṃghāta*), that atom is
+indeed affected.
 
 **Objection 2**
 
@@ -189,7 +224,9 @@ It too becomes affected through the affecting of the manifestation (*vijñapti*)
 
 **Objection 4**
 
-No: because avijñapti does not undergo that kind of modification. Moreover, when the manifestation ceased, avijñapti would also have to cease, just as a shadow is absent when the tree is absent. But avijñapti is accepted as a stream that can continue after the initiating manifestation has ceased.
+No: because *avijñapti* does not undergo that kind of modification.
+Moreover, when the manifestation ceased, *avijñapti* would also
+have to cease, just as a shadow is absent when the tree is absent.
 
 **Answer 4 (other teachers)**
 
@@ -217,7 +254,10 @@ Others offer a reply here. The support of eye-cognition and the rest is differen
 
 ## 4. Natural Unit, Movement, and Voices
 
-The unit begins with `kaḥ punaḥ pṛthivyādīnāṃ … viśeṣaḥ` and runs through the last *anye* reply. It is the closing analysis of the rūpa-skandha, not a lexical note on element-names.
+The unit begins with `kaḥ punaḥ pṛthivyādīnāṃ … viśeṣaḥ` and
+runs through the last *anye* reply. It closes the analysis of the
+form-base. The opening question about worldly names leads directly
+to the harder question of what makes *avijñapti* material.
 
 ```text
 ordinary earth, water, fire, and wind
@@ -235,7 +275,7 @@ Map of §3 onto the Sanskrit:
 | §3 label | Sanskrit cue |
 |---|---|
 | Exposition | opening through *nīlikā vātyā* and *raupaṇāt* |
-| Scripture | *uktaṃ bhagavatā* through the Arthavargīya verse |
+| Scripture and exposition | *uktaṃ bhagavatā*, its gloss, and the Arthavargīya verse |
 | Other account | *pratighāto rūpeṇety apare* |
 | Objection 1 / Answer 1 | atom |
 | Objection 2 / Answer 2 | past and future; fuel |
@@ -245,36 +285,71 @@ Map of §3 onto the Sanskrit:
 | Criticism of Answer 5 | *avaibhāṣikīyam*; persistence after those Elements cease |
 | Answer 6 | *anye … āhuḥ* |
 
-`Avaibhāṣikīyam` characterizes one analogy. It does not assign every prior reply to a named Vaibhāṣika speaker.
+**Lexical determination and construe**
+
+| Sanskrit | Construe | Force in the argument |
+|---|---|---|
+| *pṛthivyādīnāṃ pṛthivīdhātvādīnāṃ ca* | paired genitives with *viśeṣaḥ* | difference between ordinary names and elemental principles |
+| *lokasaṃjñayā* | instrumental with *ucyate* | by worldly designation |
+| *varṇasaṃsthānam* | coordinated compound | color and configuration as what is shown |
+| *vāyus tu dhātur eva* | contrasting subject and nominal predicate | wind is the principle itself |
+| *tathāpi ca* | concessive addition | visible wind is also so named |
+| *avijñaptiparyantaḥ* | compound qualifying the series | extending through *avijñapti* |
+| *raupaṇāt* | ablative of reason | because of being affected |
+| *āśrayarūpaṇāt* | ablative of reason | because the support is affected, a proposed defense |
+
+The two uses of *saṃjñā* must remain distinct: *loka-saṃjñā* here is
+worldly designation; the next verse defines *saṃjñā* as taking up
+marks, rendered “reflection” in the study. The derivation from
+*rūpyate* is the Bhāṣya's explanatory move, not an extra word of
+the Kārikā.
+
+`Avaibhāṣikīyam` characterizes the tree-shadow analogy. It does not
+assign every prior reply to a named Vaibhāṣika speaker.
 
 ## 5. Worldly designation and wind
 
-### A. Ordinary names and technical *dhātus*
+### A. Ordinary names and elemental principles
 
-The Bhāṣya distinguishes two levels. The common word and the *dhātu* are not automatically coextensive.
+The Bhāṣya distinguishes ordinary names and technical principles.
+The common word and the *dhātu* are not automatically coextensive.
 
 ```text
 pṛthivī, āpas, tejas, vāyu                         ordinary names
-pṛthivī-dhātu, ap-dhātu, tejo-dhātu, vāyu-dhātu   1.12 determinations
+pṛthivī-dhātu, ap-dhātu, tejo-dhātu, vāyu-dhātu   1.12 principles
 ```
 
 ### B. What the world calls earth
 
-When people point out earth, they show color and configuration. That is the 1.10 pair used as a name. It is not the earth-*dhātu* of 1.12 (hardness functioning as support). The criterion is the act of showing.
+When people point out earth, they show color and configuration.
+That is the 1.10 pair used as a name. The act of showing does not
+directly indicate the earth-principle of 1.12, whose own-character
+is hardness and whose function is support.
 
 ### C. Water and fire
 
-`Āpas tejaś ca` continues the first clause. Ordinary water and fire are likewise named as color-configuration complexes. Cohesiveness and heat remain the technical determinations beneath those names.
+`Āpas tejaś ca` continues the first clause. Ordinary water and
+fire are likewise named through color and configuration. Cohesion
+and heat are their technical elemental determinations. “Beneath”
+would suggest an unseen substance where the passage gives a
+distinction of designation and analysis.
 
 ### D. Wind as the *dhātu* itself
 
-`Vāyus tu` blocks flattening the four names. `Ya eva … sa eva`: what the world calls wind may be the wind-*dhātu* itself. Wind can be met as impulsion without first being identified through a stable visible configuration.
+`Vāyus tu` blocks flattening the four names. `Ya eva … sa eva`:
+what the world calls wind may be the wind-principle itself. The
+Bhāṣya of 1.12 determines that principle through impulsion and
+spreading. This is a technical connection between the passages;
+1.13 does not repeat the whole definition.
 
 ### E. Wind also named through color and configuration
 
-`Tathāpi ca` prevents an absolute opposition. Blue and circular windstorms name visible determinations associated with the wind-event. Two worldly uses of “wind.” One worldly use of “earth.”
+`Tathāpi ca` prevents an absolute opposition. Blue and circular
+windstorms are worldly names based on visible determinations.
+Thus “wind” may name its principle or a visible wind-formation.
 
-Do not read pāda b as “water, fire, and wind are likewise only *dhātus*.” `Loka` here is designation, not Volume 3.
+Pāda b gives wind its own contrasted clause. *Loka* here qualifies
+designation; it does not introduce the later Loka chapter.
 
 The passage does not, in this unit, classify each worldly name as *saṃvṛti* and each *dhātu* as *paramārtha*.
 
@@ -282,25 +357,38 @@ The passage does not, in this unit, classify each worldly name as *saṃvṛti* 
 
 ### A. The gathering question
 
-`Avijñaptiparyantaḥ` collects the 1.09 inventory by its last member: five faculties, five visayas, and avijñapti. The verse did not ask this. The Bhāṣya does.
+`Avijñaptiparyantaḥ` collects the 1.09 inventory by its last member:
+five faculties, five meanings, and *avijñapti*. The question belongs
+to the Bhāṣya, not to the verse's wording.
 
 ### B. Derivation through being affected
 
-`Raupaṇāt`. Scripture: `rūpyate rūpyate`. Gloss: `bādhyate`. Rūpa is that which is affected, altered, or subjected to impact. This is stricter than defining rūpa as visible appearance alone.
+`Raupaṇāt`. Scripture: `rūpyate rūpyate`. Gloss: `bādhyate`.
+*Rūpa* is explained through being affected or afflicted. The
+definition reaches beyond visible appearance, which is why it
+can be tested against non-disclosive *avijñapti*.
 
 ### C. Contact and the dart-verse
 
 Even touched by the hand, it is affected. The Arthavargīya verse confirms the verbal sense through frustrated desire. It does not add desire as a constituent of form.
 
-The citation names the rūpopādānaskandha. The question named the rūpa-skandha through avijñapti. Both wordings are kept. 1.08 is not cancelled.
+The citation names the *rūpopādānaskandha*, the form-base of
+appropriation. The question names the *rūpaskandha* through
+*avijñapti*. The scriptural phrase and the more general base
+must remain distinguishable.
 
 ### D. Two accounts of affliction
 
-Vasubandhu: `vipariṇāmotpādanā`, production of alteration. Others: `pratighāto rūpeṇa`, obstruction by form. Resistance or mutual exclusion is recorded. It is not adopted as the sole final definition.
+The exposition answers `vipariṇāmotpādanā`, production of alteration.
+An *apare* voice offers `pratighāto rūpeṇa`, obstruction by form.
+The text records this alternative without making it the only account.
 
 ## 7. Objections: atom and the times
 
-See Objection 1–2 and Answer 1–2 in §3. Constituent atoms are not denied. Isolated atomic form as a separate occurrence is denied. Membership in the kind is sufficient when the defining operation is not presently manifest.
+The atom reply denies an isolated atomic form as a separate occurrence,
+not atomic constituents. *Saṃghātasthaṃ* means situated in a
+collection. The time reply uses *tajjātīya*, belonging to that kind:
+past and future form need not be undergoing alteration now.
 
 ```text
 past rūpa      that which has undergone alteration
@@ -310,7 +398,9 @@ future rūpa    that which will undergo alteration
 
 ## 8. Avijñapti and the dependence debate
 
-See Objection 3–5, Answers 3–6, and the criticism of Answer 5 in §3. The hard member is avijñapti because 1.11 already placed it in rūpa as a non-disclosive stream.
+The hard member is *avijñapti*, placed in the form-base in 1.11
+as a non-disclosive stream. Section 3 keeps the successive proposed
+answers, objections, criticism, and last *anye* reply in order.
 
 ```text
 continuing dependence     avijñapti on the Elements
@@ -331,13 +421,13 @@ ordinary language names visible complexes
     “earth,” “water,” “fire”
         ↓
 Abhidharma distinguishes those appearances
-from hardness, cohesion, and heat as dhātus
+from hardness, cohesion, and heat as elemental principles
         ↓
 wind is a special case:
 worldly wind may name the vāyu-dhātu itself,
 though visible wind-formations also receive the name
         ↓
-what unifies the entire rūpa-skandha?
+what unifies the entire form-base?
         ↓
 rūpa as susceptibility to alteration or affliction
         ↓
@@ -356,30 +446,29 @@ exact grounding remains contested
 
 1. Water and fire continue the worldly color-configuration clause. Wind receives its own clause and then a qualification.
 2. `Tathāpi ca` allows worldly designation of wind through color and configuration. It does not flatten the four names into one formula.
-3. The prose extends beyond the verse to the unity of the rūpa aggregate, including avijñapti.
+3. The prose extends beyond the verse to the unity of the form-base, including *avijñapti*.
 4. Being affected is production of alteration. Obstruction is another account.
 5. Aggregation and temporal kind broaden the criterion beyond an isolated present twitch.
 6. The avijñapti debate must keep proposals, objections, rejected analogies, and the last differentiated-support reply in sequence.
 
 ## 11. Technical Vocabulary
 
-| Sanskrit | Conventional rendering | Do not collapse into |
+| Sanskrit | Working English | Distinction retained |
 |---|---|---|
-| `loka-saṃjñā` | worldly designation | Volume-3 Loka; mere error |
-| `varṇa-saṃsthāna` | color and configuration | the *dhātu* itself |
-| `dhātu` | *dhātu* | empty Domain; Sphere |
-| `raupaṇa` / `rūpyate` | being affected | visible appearance alone |
+| `loka-saṃjñā` | worldly designation | the *saṃjñā* defined in 1.14 |
+| `varṇa-saṃsthāna` | color and configuration | an elemental principle |
+| `dhātu` | principle | ordinary elemental name |
+| `rūpa-skandha` | form-base | *rūpopādānaskandha* in the scripture citation |
+| `raupaṇa` / `rūpyate` | being affected | visibility alone |
 | `bādhyate` | is afflicted | |
 | `vipariṇāmotpādanā` | production of alteration | |
-| `pratighāta` | obstruction | Vasubandhu’s sole definition |
-| `saṃghātastha` | situated in an aggregate | isolated atom |
-| `tajjātīya` | of that kind | present twitch only |
-| `vijñapti` | manifestation | avijñapti |
+| `pratighāta` | obstruction | the only account of materiality |
+| `saṃghātastha` | situated in a collection | an isolated atom |
+| `tajjātīya` | of that kind | present alteration only |
+| `vijñapti` | manifestation | *avijñapti* |
 | `āśraya` | support | `utpattinimitta` |
 | `utpattinimitta` | condition of arising | continuing dependence |
-| `avaibhāṣikīya` | not Vaibhāṣika | every prior voice |
-
-Object is not used. Sphere is not used.
+| `avaibhāṣikīya` | not Vaibhāṣika | a label for every prior speaker |
 
 ## 12. Open questions left by the unit
 
@@ -389,12 +478,74 @@ Object is not used. Sphere is not used.
 
 These are not solved here. They are what the unit leaves standing.
 
-## 13. Organon Note
+## 13. Philosophical and Organon Study
 
-Marked as project reconstruction. It is not a substitute for §3–§9.
+**Worldly designation and principial determination**
 
-The first movement distinguishes a worldly name from the *dhātu* of 1.12. The second tests whether a single determination of form can reach avijñapti. Origin, ongoing support, and classificatory basis are not interchangeable. Conventional *cakṣurvijñāna* in this debate remains cognition.
+The commentary tests a relation between how a material occurrence is
+shown and how it is determined. The ordinary name “earth” follows
+color and configuration; the earth-principle is specified in 1.12
+by hardness and support. Wind makes the relation more complex:
+the ordinary name can reach the wind-principle itself, and it can
+also follow a visible storm. The contrast is therefore neither a
+fixed split between two kinds of thing nor an identity of every
+ordinary name with a principle.
+
+**Organon reconstruction: base / essence / principle**
+
+```text
+<skandha, āyatana, dhātu> = <base, essence, principle>
+
+material determination
+    → gathered in the form-base
+    → articulated in an essence arrangement (1.14–1.15)
+    → determined by its principial role
+```
+
+The Kārikā here concerns worldly names and elemental principles.
+It does not itself enumerate the essences; the tenfold essence
+arrangement follows in 1.14. For the Organon machine, this passage
+requires a content to remain identifiable when its visible
+presentation, ordinary name, base membership, and principial
+determination differ. The difference must be intelligible through
+the relation among those placements, not treated as a mere renaming.
+
+The subsequent arrangements make one distinction especially exact:
+
+| Content | Base | Essence | Principle |
+|---|---|---|---|
+| visible form | form-base | visible-form-essence | visible-form-principle |
+| *avijñapti* | form-base | dharma-essence | dharma-principle |
+
+This cross-mapping comes from reading 1.13 with the placements made
+in 1.14–1.15. It is an Organon use of those source classifications,
+not an enumeration stated by the 1.13 Kārikā. Shared base membership
+therefore need not entail shared essence and principle positions.
+
+*Avijñapti* tests the machine's reach. The Bhāṣya retains its
+membership in the form-base while asking how the criterion of
+being affected applies to it. The proposed answers distinguish
+the affecting of a manifestation, the affecting of material
+support, continuous dependence, and a mere condition of arising.
+Those relations cannot be substituted for one another. The
+criticism of the shadow analogy and of its temporal dependence
+leaves a real explanatory pressure. The final *anye* reply is
+one proposed defense, not an independently verified resolution.
+
+The eye-cognition in the objection remains a cognition conditioned
+by a faculty; its material support does not make it form. Thus
+the machine must preserve different relations between content
+and support while seeking a principial account of materiality.
+The Bhāṣya supplies the debate; this formulation of the machine
+is the Organon's reconstruction.
 
 ## 14. Review Status
 
-Section 3 rewritten as a full Objection/Answer translation for comparison with Pruden. Tight paraphrase withdrawn. Pruden is not quoted. Next unit `[010|07]`.
+Reviewed against the current Kārikā study, the research Bhāṣya
+report, and `kosabhasya.txt` at `[008|26]`–`[010|06]`. The full
+objection and reply sequence remains in §3. Source damage and
+working repairs are identified in §2; no printed-edition collation
+is claimed. The base / essence / principle reconstruction is
+marked separately and leaves the material grounding of
+*avijñapti* open. The study remains provisional pending critical
+reading. The next unit begins at `[010|07]`.

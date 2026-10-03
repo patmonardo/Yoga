@@ -1,4 +1,8 @@
-# VAK_1.15 Bhāṣya — Formations, the Work of the Path, and the Dharma-Domain
+# The Principles
+
+## VAK_1.15 Bhāṣya — Formations Base and the Dharma Designations
+
+Source: [`VAK_1.15.md`](./VAK_1.15.md).
 
 ## 1. Kārikā Anchor
 
@@ -6,14 +10,19 @@
 >
 > dharmāyatanadhātvākhyāḥ sahāvijñaptyasaṃskṛtaiḥ // 1.15 //
 
-> The formations other than the four constitute the saṃskāra aggregate.
-> These three, together with avijñapti and the unconditioned, are called
-> the Dharma-Sphere and the Dharma-Domain.
+> The formations apart from the four Bases constitute the Formations Base.
+> These three, together with *avijñapti* and the unconditioned, are called
+> the Dharma Essence Base and the Dharma Principle.
 
 The Bhāṣya explains which formations the first clause includes and why the
 scriptural emphasis on volition does not exhaust them. It then identifies
-the three aggregates and the additional constituents gathered under
+the three bases and the additional constituents gathered under
 dharmāyatana and dharmadhātu.
+
+The working vocabulary is *skandha* = Base, *āyatana* = Essence Base,
+*dhātu* = Principle, and *saṃjñā* = Reflection. The continuous translation
+uses these renderings to follow the commentary's argument. The Organon
+reading and its Dataset implications are separated below.
 
 ## 2. Continuous Sanskrit
 
@@ -35,10 +44,9 @@ dharmāyatana and dharmadhātu.
 > dharmadhātuś cety ākhyāyante /
 
 The unit begins with the opening of 1.15 at source marker `[010|19]` and
-ends with the sevenfold count at `[011|05]`. It includes the saṃskāra
-discussion also reproduced in the research report for 1.14; the official
-1.14 study reserved that material for this verse. The following definition
-of vijñāna opens 1.16.
+ends with the sevenfold count at `[011|05]`. The complete saṃskāra
+discussion belongs here, although it is also reproduced in the research
+report for 1.14. The following definition of Knowing (*vijñāna*) opens 1.16.
 
 Word division and quotation punctuation have been supplied for reading. The
 local IAST's `catubbryo` is normalized to `caturbhyo`, and the quotation mark
@@ -51,45 +59,45 @@ Pradhan and also on Shastri; its original e-text provenance is unknown, and
 it is not a critical edition. No independent collation against the printed
 editions is claimed.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Bhāṣya Translation
 
-> The formations other than the four constitute the saṃskāra aggregate.
-> The formations other than the four—rūpa, vedanā, saṃjñā, and
-> vijñāna—constitute that aggregate. In a sūtra, however, the Blessed One
+> The formations other than the four constitute the Formations Base.
+> The formations other than the four—Form, Feeling, Reflection, and
+> Knowing—constitute that Base. In a sūtra, however, the Blessed One
 > spoke of six groups of volition because of its predominance. For volition
-> is principal in active formation because it has the nature of karma.
+> is predominant in active formation because it has the nature of karma.
 > For this very reason the Blessed One said: “It actively forms the
-> conditioned; therefore it is called the aggregate of appropriation
-> consisting of formations.”
+> conditioned; therefore it is called the Formations Base of appropriation.”
 >
 > Otherwise, since the remaining mental factors and the dissociated
-> formations would not be included in an aggregate, they would not have
+> formations would not be included in a Base, they would not have
 > the status of the truths of suffering and origin. Consequently, full
 > comprehension and abandonment would not apply to them either. The Blessed
 > One has said: “I do not declare the ending of suffering without directly
 > knowing and fully comprehending even a single dharma.” Likewise, “without
-> abandoning” is stated. Therefore their inclusion in the saṃskāra aggregate
+> abandoning” is stated. Therefore their inclusion in the Formations Base
 > must necessarily be accepted.
 >
-> These three—the aggregates of vedanā, saṃjñā, and saṃskāra—within the
-> Sphere and Domain arrangements, together with avijñapti and the
-> unconditioned, are called the Dharma-Sphere and the Dharma-Domain. These
-> seven substances are designated the Dharma-Sphere and the Dharma-Domain.
+> These three—the Feeling Base, Reflection Base, and Formations Base—
+> within the Essence Base and Principle arrangements, together with
+> *avijñapti* and the unconditioned, are called the Dharma Essence Base
+> and the Dharma Principle. These seven substances are designated the
+> Dharma Essence Base and the Dharma Principle.
 
 ## 4. Movement of the Commentary
 
-The first movement establishes the extent of an aggregate and defends its
-inclusiveness. The second reorganizes specified contents under the Sphere
-and Domain arrangements:
+The first movement establishes the extent of a Base and defends its
+inclusiveness. The second places specified contents under the Essence
+Base and Principle arrangements:
 
 ```text
-formations outside the other four aggregates
-    → saṃskāra aggregate
+formations outside the other four Bases
+    → Formations Base
 scriptural emphasis on six groups of volition
-    → explained by predominance, not exhaustiveness
+    → explained by volition's predominance in active formation
 remaining mental and dissociated formations
-    → must remain included in the work of comprehension and abandonment
-three aggregates + avijñapti + the unconditioned
+    → must remain included in the work of full comprehension and abandonment
+three Bases + avijñapti + three unconditioned dharmas
     → seven counted constituents
     → dharmāyatana and dharmadhātu
 ```
@@ -101,17 +109,41 @@ from the commentary's reasons for how it should be understood.
 
 ## 5. The Extent of Saṃskāra and the Predominance of Volition
 
+**Lexical determination and construe**
+
+```text
+rūpa-vedanā-saṃjñā-vijñānebhyaḥ  apart from Form, Feeling, Reflection, Knowing
+caturbhyaḥ                       apart from these four Bases
+anye tu saṃskārāḥ                the other conditioned formations
+saṃskāraskandhaḥ                 constitute the Formations Base
+```
+
+The coordinated compound carries one ablative plural ending.
+*Caturbhyaḥ* repeats its case and fixes the number of bases excluded.
+The plural subject *saṃskārāḥ* receives the singular predicate
+*saṃskāraskandhaḥ*: the formations are gathered as one Base.
+
 The ablative `caturbhyaḥ` with `anye` means “other than the four.” The
-prose names them: rūpa, vedanā, saṃjñā, and vijñāna. The supplied
+prose names them: Form, Feeling, Reflection, and Knowing
+(*vijñāna*). The supplied
 `saṃskārāḥ` determines what the otherwise compressed “others” refers to.
 The definition gathers the remaining conditioned formations; it does not
-place unconditioned dharmas in the saṃskāra aggregate.
+place unconditioned dharmas in the Formations Base.
 
 The scriptural six groups of `cetanā`, volition, raise a question of scope.
 The Bhāṣya answers with `prādhānyāt`, because of predominance. The feminine
-`sā` resumes volition, which is principal in `abhisaṃskaraṇa`, active
+`sā` resumes volition, which is predominant in `abhisaṃskaraṇa`, active
 formation, because it has the nature of karma. The main member can therefore
-be foregrounded in the teaching without being the aggregate's sole content.
+be foregrounded in the teaching without being the base's sole content.
+
+**Formation and formative operation**
+
+*Saṃskāra*, formation, and *saṃskṛta*, conditioned, share *saṃ-√kṛ*.
+*Abhisaṃskaroti* expresses the active forming of the conditioned.
+The commentary discriminates the extent of the Formations Base from
+the predominance of a particular operation within it. Volition's
+leading function supplies a reason for scriptural emphasis; the Formations
+Base still gathers the remaining mental and dissociated formations.
 
 `Saṃskṛtam abhisaṃskaroti` joins the conditioned as object with active
 forming as operation. The quotation gives a functional derivation of the
@@ -120,9 +152,9 @@ Nor does the mention of six groups give their individual names in this
 unit. Their sixfold number is preserved without inserting an unquoted list
 into the continuous translation.
 
-The scripture speaks of the aggregate of appropriation consisting of
+The scripture speaks of the Base of appropriation consisting of
 formations. As with the rūpa citation in 1.13, that wording is retained.
-The general saṃskāra aggregate and its sāsrava appropriation-field must not
+The Formations Base and its sāsrava appropriation-field must not
 become indistinguishable merely because the narrower scriptural formula
 helps explain the name.
 
@@ -130,11 +162,11 @@ helps explain the name.
 
 The counterfactual begins with `anyathā`, otherwise. If the remaining
 mental factors and dissociated formations were excluded here, they would
-not be gathered in any aggregate. The argument traces a consequence for
+not be gathered in any Base. The argument traces a consequence for
 the truths and their corresponding practical tasks:
 
 ```text
-exclusion from the aggregate classification
+exclusion from the base classification
     → exclusion from suffering and origin
     → absence of full comprehension and abandonment with respect to them
 ```
@@ -158,12 +190,27 @@ conditioned anāsrava Path has already been distinguished in the earlier
 studies. The argument must retain the relevant scope of the factors under
 discussion and the different tasks that apply to them.
 
-## 7. The Seven Constituents of Dharmāyatana and Dharmadhātu
+## 7. The Seven Constituents of the Dharma Essence Base and Dharma Principle
 
-`Ete punas trayaḥ` is explicitly resolved as the vedanā, saṃjñā, and
-saṃskāra aggregates. `Saha` governs their accompaniment by avijñapti and
+**From the three Bases to Essence Base and Principle**
+
+`Ete punas trayaḥ` is explicitly resolved as the Feeling, Reflection,
+and Formations Bases. `Saha` governs their accompaniment by *avijñapti* and
 the unconditioned. The locative `āyatanadhātuvyavasthāyām` specifies the
-arrangement in which the names dharmāyatana and dharmadhātu apply.
+arrangement in which the names *dharmāyatana* and *dharmadhātu* apply.
+
+```text
+ete punas trayaḥ                  these three again
+vedanā-saṃjñā-saṃskāra-skandhāḥ   Feeling, Reflection, Formations Bases
+āyatana-dhātu-vyavasthāyām        in the Essence Base and Principle arrangement
+dharma-āyatana-dhātu-ākhyāḥ       bearing the Dharma designations
+saha avijñaptyasaṃskṛtaiḥ         together with avijñapti and the unconditioned
+```
+
+*Ākhyā* supplies the naming construction. *Dharma* applies to both
+*āyatana* and *dhātu*. *Saha* governs the instrumental compound whose
+members are *avijñapti* and *asaṃskṛta*. The locative
+*vyavasthāyām* states the arrangement under which this naming holds.
 
 The Bhāṣya concludes with `sapta dravyāṇi`, seven substances. The count
 can be expanded using the three unconditioned dharmas already stated in
@@ -171,84 +218,138 @@ the opening studies:
 
 | Counted constituent | Status preserved in this arrangement |
 |---|---|
-| vedanā aggregate | conditioned aggregate |
-| saṃjñā aggregate | conditioned aggregate |
-| saṃskāra aggregate | conditioned aggregate |
-| avijñapti | material form included within rūpa |
-| ākāśa | unconditioned |
-| pratisaṃkhyānirodha | unconditioned |
-| apratisaṃkhyānirodha | unconditioned |
+| Feeling Base | conditioned Base |
+| Reflection Base | conditioned Base |
+| Formations Base | conditioned Base |
+| avijñapti | Form, retained in the Form Base |
+| ākāśa | unconditioned, no Base |
+| pratisaṃkhyānirodha | unconditioned, no Base |
+| apratisaṃkhyānirodha | unconditioned, no Base |
 
-The arithmetic is three aggregates, one avijñapti, and three unconditioned
+The arithmetic is three Bases, one *avijñapti*, and three unconditioned
 dharmas. The prose counts `dravya` at this stated classificatory level;
-it does not claim that each aggregate contains only one indivisible item.
+it does not claim that each Base contains only one indivisible item.
 “Substances” in the continuous translation retains the technical word,
 while “counted constituents” clarifies the enumeration in the analysis.
 
-This completes the placement of avijñapti left open by the ten material
-entries of 1.14. It belongs to the rūpa aggregate but is included here in
-the Dharma-Sphere and Dharma-Domain. Its classificatory placement changes
-without a change in its material status.
+This completes the placement of *avijñapti* left open after the ten
+Essence Bases and ten Principles in 1.14. It belongs to the Form Base
+but is included here in the Dharma Essence Base and Dharma Principle.
+Its classificatory placement changes without changing its status as Form.
 
 The unconditioned entries likewise retain their status. Being gathered with
-three aggregates does not make them conditioned or turn them into additional
-aggregates. Dharmadhātu includes different kinds of determination; the
+three Bases does not make them conditioned or turn them into additional
+Bases. *Dharmadhātu* includes different kinds of determination; the
 common classificatory position does not erase those differences.
 
 ## 8. The Bhāṣya's Decisions for the Kārikā
 
-1. “Other than the four” means the remaining formations outside rūpa,
-   vedanā, saṃjñā, and vijñāna.
+1. “Other than the four” means the remaining formations outside the Form,
+   Feeling, Reflection, and Knowledge Bases. The fourth is *vijñāna*,
+   rendered Knowing.
 2. The sūtra's emphasis on volition is explained by predominance. The
-   saṃskāra aggregate is not restricted to volition alone.
+   Formations Base is not restricted to volition alone.
 3. The remaining mental and dissociated formations must be included; the
    commentary supports this through the truths and the work of the Path.
-4. “These three” refers to vedanā, saṃjñā, and saṃskāra. Avijñapti and
-   the unconditioned accompany them in the new arrangement.
-5. The prose supplies the sevenfold count, expanded as three aggregates,
-   avijñapti, and the three unconditioned dharmas.
-6. Dharmāyatana and dharmadhātu designate these contents within distinct
+4. “These three” refers to the Feeling, Reflection, and Formations Bases.
+   *Avijñapti* and the unconditioned accompany them in the new arrangement.
+5. The prose supplies the sevenfold count: three Bases, *avijñapti*, and
+   the three unconditioned dharmas.
+6. *Dharmāyatana* and *dharmadhātu* designate these contents within distinct
    arrangements; inclusion preserves their differing constitutive status.
 
-## 9. Philosophical and Organon Study
+## 9. Organon and Oculus Design
 
-The passage gives domain-unity a concrete test. A single classificatory
-position gathers mental factors, non-disclosive material form, and the
-unconditioned without making their natures homogeneous. The domain's unity
-therefore needs to be understood through the systematic arrangement in
-which those contents belong together.
+**The Base–Essence Base–Principle relation**
 
-For the Organon reconstruction, this strengthens the distinction between
-what a determination is and the domain-position it occupies. Avijñapti
-provides the clearest example: material as an aggregate constituent, it
-enters dharmadhātu alongside contents with other statuses. A change of
-arrangement does not itself transform a material determination into a
-mental one.
+The Organon reads the classifications as related determinations, not as
+three flat inventories:
 
-The inclusion argument adds practical direction. The system must articulate
-the factors upon which comprehension and abandonment operate. Its coverage
-is connected with liberation, while coverage remains distinct from the
-achievement of those operations. This bears on learning: a complete account
-of the relevant contents is equipment for understanding, whose actual
-development still requires explanation.
+```text
+<skandha, āyatana, dhātu>
+    = <Base, Essence Base, Principle>
 
-Our question about paramārtha and its domains can proceed from this
-articulated diversity. The passage itself does not call dharmadhātu alone
-real, or identify all its constituents with pāramārthika knowing. Its
-positive contribution is the specified gathering of conditioned aggregates,
-material avijñapti, and unconditioned dharmas within one domain arrangement.
-The relation to vijñāna receives its next explicit determination in 1.16.
+Base         gathers a determination
+Essence Base articulates it through relation
+Principle    determines its place in the systematic whole
+```
+
+The sevenfold cross-mapping preserves each constituent's status:
+
+| Constituent | Base | Essence Base | Principle |
+|---|---|---|---|
+| Feeling | Feeling Base | Dharma Essence Base | Dharma Principle |
+| Reflection | Reflection Base | Dharma Essence Base | Dharma Principle |
+| Formations | Formations Base | Dharma Essence Base | Dharma Principle |
+| *avijñapti* | Form Base | Dharma Essence Base | Dharma Principle |
+| space | none | Dharma Essence Base | Dharma Principle |
+| cessation through discrimination | none | Dharma Essence Base | Dharma Principle |
+| cessation without discrimination | none | Dharma Essence Base | Dharma Principle |
+
+The shared designations do not make these constituents homogeneous.
+*Avijñapti* remains Form while entering the Dharma Essence Base and
+Dharma Principle arrangements. The unconditioned enters the same
+arrangements without acquiring a Base. That absence is a positive
+determination, not a missing value.
+
+In the project vocabulary, *Dharma-skandha* is the Essence Base. The
+Kārikā itself names *dharmāyatana* and *dharmadhātu*, not the compound
+*dharma-skandha*. Here “Dharma Essence Base” and “Dharma Principle”
+preserve those two distinct designations.
+
+**Ordinary and transcendental knowing**
+
+The terms mark different functions in the Organon:
+
+```text
+jñāna       ordinary knowing
+vijñāna     Transcendental Knowing: processes Principles within the
+            One Undemonstrated Science (Nirbīja)
+```
+
+The *vijñānaskandha* is the Knowledge Base, the Base of Transcendental
+Knowing named among the four excluded in the first clause. The term
+*vijñāna* is rendered Knowing, or more fully Transcendental Knowing: it
+processes Principles in the One Undemonstrated Science. This Organon
+determination does not alter the source count or add Knowing to the seven
+constituents; the three unconditioned dharmas counted by the Bhāṣya also
+remain distinct from the One Undemonstrated Science (Nirbīja).
+
+System Light—the sole Organon indication that the machine is working—
+appears when common Essence Base and Principle relations remain legible
+alongside these differences of Base and constitution.
+
+**Dataset design**
+
+For the Organon Oculus, the Dataset must retain the source constituent,
+its Base status (including no Base), and its Dharma Essence Base and
+Dharma Principle relations as separately traceable data. It must also
+distinguish the Knowledge Base from Knowing as the processing of
+Principles, and keep the Bhāṣya's sevenfold resolution separate from
+the Kārikā's wording. This lets the Oculus display one Science without
+flattening its different contents or their source provenance.
+
+The Bhāṣya's further arguments remain part of this design's evidence:
+volition's predominance does not exhaust the Formations Base, and the
+remaining mental and dissociated formations must be included within the
+Path's scope of full comprehension and abandonment. The conditioned
+Path's anāsrava status is not erased by that inclusion.
 
 ## 10. Review Status
 
 Reviewed against the current Kārikā study and local IAST text at
 `[010|19]`–`[011|05]`. The complete unit includes the saṃskāra passage
-reserved from 1.14. The translation retains scriptural attribution, the
-distinction between predominance and complete extension, the Path-based
-inclusion argument, and the sevenfold count.
+also reproduced in the research report for 1.14. The translation retains
+scriptural attribution, the distinction between volition's predominance
+and the full extent of the Formations Base, the Path-based inclusion
+argument, and the sevenfold count.
 
 The local `parijñāparihāṇe` and the numerical level of `sapta dravyāṇi` are
-explained rather than silently regularized. The scope of suffering, origin,
-and abandonment remains distinguished from the status of all conditioned
-factors. No independent collation against the printed editions is claimed;
-the original research files and the Part One reading artifact are preserved.
+explained rather than silently regularized. The scope of suffering,
+origin, and abandonment remains distinguished from the status of all
+conditioned factors. The Organon reading uses Base, Essence Base,
+Principle, and Reflection, and distinguishes ordinary knowing (*jñāna*)
+from Transcendental Knowing (*vijñāna*). The cross-mapping preserves
+*avijñapti*'s Form Base and the unconditioned's absence of a Base. The
+study remains provisional pending critical reading. No independent collation against
+the printed editions is claimed.

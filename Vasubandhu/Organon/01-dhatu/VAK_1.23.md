@@ -1,4 +1,6 @@
-# VAK_1.23
+# The Principles
+
+## VAK_1.23 — Ordering the Faculties and Their Fields
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -46,13 +48,14 @@ Devanāgarī.
 
 ## 4. Grammar
 
-The verse compresses a nested ordering of the six faculties. The Bhāṣya
-first states the governing dependency:
+The verse compresses an ordering of the six faculties within the Essence
+Base and Principle arrangements. The Bhāṣya states the governing
+dependency:
 
 ```text
 faculty order
-    → corresponding object-domain order
-    → corresponding cognition-domain order (in parallel)
+    → corresponding object-field order
+    → corresponding Cognition order
 ```
 
 The first ablative gives a temporal criterion:
@@ -64,20 +67,20 @@ prāk pañca vārttamāna-arthyāt
 ```
 
 Manas has an unrestricted object-range. The further division of its objects
-appears to include present, other temporal, and non-temporal dharmas, but the
-running source's compound is damaged; the Bhāṣya study marks that construal
-as provisional.
+appears to include present, other temporal, and non-temporal dharmas, but
+the running source's compound is damaged; the Bhāṣya study marks that
+construal as provisional.
 
 The second ablative selects four within the five:
 
 ```text
 bhautika-arthyāt catuṣṭayam
     eye, ear, nose, and tongue come first
-    because their objects are derivative matter
+    because their objects are Form derived from the great elements
 ```
 
-The body faculty follows because its tactile domain may contain the great
-elements themselves, derivative material form, or both.
+The body faculty follows because its tactile object-field may contain the
+great elements themselves, derivative Form, or both.
 
 The instrumental `dūra-āśutara-vṛttyā` supplies two comparative operational
 criteria for the remaining internal order:
@@ -100,25 +103,30 @@ sense faculties but has no determinate spatial site in this account.
 
 ### Close syntactic construe
 
-> The five come first because they have present objects; the group of four because they have derivative-material objects. The remaining order follows operation at a greater distance or more quickly—or, alternatively, according to location.
+> The five come first because they have present objects; the group of four because their objects are derived from the great elements. The remaining order follows operation at a greater distance or more quickly—or, alternatively, according to location.
 
 ### Bhāṣya-informed translation
 
-> The five sensory faculties precede manas because their objects are restricted to the present, whereas mind has a wider object-range. Among the five, eye, ear, nose, and tongue precede body because their objects are derivative matter, while touch may apprehend the great elements, derivative matter, or both. Eye precedes ear by the comparison of distance and nose precedes tongue by the earlier apprehension of food's odor; alternatively, bodily location explains the order, though the body-site clause is damaged.
+> The five sensory faculties precede manas because their objects are restricted to the present, whereas mind has a wider object-range. Among the five, eye, ear, nose, and tongue precede body because their objects are Form derived from the great elements, while touch may apprehend the great elements, derived Form, or both. Eye precedes ear by the comparison of distance and nose precedes tongue by the earlier apprehension of food's odor; alternatively, bodily location explains the order, though the body-site clause is damaged.
 
-The Bhāṣya orders objects and cognitions through the faculties; it does not
+The Bhāṣya orders object-fields and Cognitions through the faculties; it does not
 claim that faculties temporally produce their objects.
 
 ## 6. Philosophical Translation
 
-> The established domains are displayed in an order explained through determinate relations: temporal restriction, material constitution of the object, operational reach, priority in the cited food example, and embodied location. Manas concludes the sequence because its object-range is wider than that of the five senses; the alternative account also calls it non-localized.
+> The established faculty and object-field relations are displayed in an order explained through determinate grounds: temporal restriction, the constitution of the object, operational reach, priority in the cited food example, and embodied location. Manas concludes the sequence because its object-range is wider than that of the five senses; the alternative account also calls it non-localized.
 
 Organon rendering:
 
-> The Discriminator does not merely decide membership; it produces an intelligible order of presentation. Every position in the domain-system is justified by how a faculty relates to time, content, reach, priority, and embodiment. Sequence is the displayed rationality of the classified whole.
+> Empirical sciences must be applied to appearances; therefore they are rooted in the Form Base. Here *sarvadharma* is the manifold appearances of dharmas captured in the Form Base for empirical inquiry. The six faculties order access to this appearing manifold through presentness, the material constitution of objects, reach, speed, and bodily location. This does not reduce every dharma to material substance: it identifies appearance as the empirical ground from which Science proceeds.
 
-This is an order of cognitive architecture, not a ranking of spiritual worth
-among the senses.
+The verse itself orders faculties and their corresponding fields; it does
+not name *sarvadharma* or state the Form Base thesis. That is the Organon
+interpretation carried across the developing machine, whose complete
+architecture is not reached until VAK 1.28.
+
+This is an order of cognitive architecture, not a ranking of spiritual
+worth among the faculties.
 
 ## 7. Technical Vocabulary
 
@@ -126,16 +134,21 @@ among the senses.
 |---|---|---|
 | vārttamāna-viṣayatva | present-object restriction | defining temporal range of the five sensory faculties |
 | aniyata-viṣaya | unrestricted object-range | manas can take temporally varied and non-temporal objects |
-| bhautika | derivative material form | materiality dependent upon the great elements |
-| bhautika-viṣayatva | derivative-material objecthood | criterion grouping eye, ear, nose, and tongue |
+| bhautika | derivative Form | Form dependent upon the great elements |
+| bhautika-viṣayatva | derived-Form object relation | criterion grouping eye, ear, nose, and tongue |
 | bhūta | great element | direct possible content within the tactile field |
 | dūra-viṣaya | distance-accessible object | object available without direct bodily contact |
 | dūratara-vṛtti | farther operation | places eye before ear |
 | āśutara-vṛtti | quicker operation | places nose before tongue |
-| adhiṣṭhāna | bodily support or site | localized basis of a sensory faculty |
+| adhiṣṭhāna | bodily support or site | localized support of a sensory faculty |
 | yathā-sthāna | according to location | alternative topological ordering principle |
 | adeśa-stha | not situated in one place | characterization of manas in the alternative account |
-| krama | ordered display | sequence of faculties, objects, and cognitions |
+| krama | ordered display | sequence of faculties, object-fields, and Cognitions |
+| āyatana | Essence Base | access/field relation through which a faculty and its object are ordered |
+| dhātu | Principle | principial ordering of faculties and their corresponding Cognitions |
+| vijñāna | Cognition | knowing in operation, ordered in correspondence with faculties and fields |
+| rūpaskandha | Form Base | in the Organon reading, the empirical ground in which appearances are presented |
+| sarvadharma | manifold appearances of dharmas | captured in the Form Base for empirical inquiry in the Organon reading, not a term in this verse |
 
 ## 8. Logical Determination
 
@@ -143,7 +156,7 @@ The ordering begins with a dependency rule:
 
 ```text
 Order(Faculties)
-    → DeterminesOrder(CorrespondingObjects)
+    → DeterminesOrder(CorrespondingEssenceBaseFields)
     → DeterminesOrder(CorrespondingCognitions)
 ```
 
@@ -162,10 +175,10 @@ The second discriminates within the senses:
 
 ```text
 MemberOf(f, EyeEarNoseTongueGroup)
-    → HasDerivativeMaterialObject(f)
+    → HasDerivativeFormObject(f)
 
 BodyFaculty(b)
-    → MayTake(b, GreatElement | DerivativeMatter | Both)
+    → MayTake(b, GreatElement | DerivativeForm | Both)
 ```
 
 Operational comparisons refine the order:
@@ -184,25 +197,31 @@ The alternative topological sort is:
 eye → ear → nose → tongue → distributed body → non-localized manas
 ```
 
-For the Organon reconstruction, the Discriminator also arranges an ordered
-display:
+The Organon placement of the empirical manifold is:
 
 ```text
-Classify(x)
-    → DetermineRelevantRelations(x)
-    → PlaceInOrderedDisplay(x)
+SarvadharmaAppearances
+    → CapturedIn(FormBase)
+
+EmpiricalScience
+    → MustBeAppliedTo(Appearances)
+    → RootedIn(FormBase)
 ```
+
+This captures dharmas as appearances without reducing every dharma to
+material substance.
 
 ## 9. Interpretive Note
 
 VAK 1.23 continues the chapter's system setup. Verses 1.18–1.22 determine
 membership, unity, classificatory form, causal salience, and category-fit.
-This verse explains how the finished domain-system is ordered for exposition.
+This verse orders faculties and their corresponding Essence Base fields
+and Cognitions; it does not yet present the completed machine.
 
 Its method is plural but not arbitrary. No one relation can order the entire
 system. Temporal range separates the senses from mind; material object-type
 places touch; reach and speed distinguish paired sensory groups; bodily
-topology offers an alternative global sequence. The correct discriminator
+location offers an alternative sequence. The relevant discriminator
 selects the criterion appropriate to the local comparison.
 
 Manas is especially important for the inward presentation. It is not placed
@@ -219,25 +238,24 @@ manas
     → no single bodily location
 ```
 
-VAK 1.17 already defined manas as immediately past cognition functioning as
-support. The
-two determinations belong together: manas is temporally mediating rather than
-anatomically localized.
+VAK 1.17 already defined manas as immediately past Cognition functioning as
+support. The two determinations belong together: manas is temporally
+mediating rather than anatomically localized.
 
-The preparatory method through six verses is:
+The preparatory method through this sequence is:
 
 ```text
 1.18  intrinsic membership and determinate difference
-1.19  domain-unity across numerical multiplicity
-1.20  collection, access, and intrinsic source-kind
+1.19  Principle-unity across numerical multiplicity
+1.20  Base, Essence Base, and Principle by their distinct operations
 1.21  causal and systematic salience
 1.22  category-fit, justified number, and sequence
-1.23  relational ordering and display
+1.23  relational ordering of faculties, fields, and Cognitions
 ```
 
-VAK 1.24 can now ask why the established system gives one
-material domain the special designation `rūpa` and gathers the vast Dharma-
-field into a single dharma-āyatana.
+VAK 1.24 opens “Some Problems with the Principle”: why one material
+Essence Base receives the designation *rūpa*, and why the manifold of
+dharmas is gathered into a single Dharma Essence Base.
 
 ## 10. OWL++ Seed
 
@@ -248,11 +266,11 @@ field into a single dharma-āyatana.
 vak:VAK_1_23
     a vak:Karika ;
     rdfs:label "VAK 1.23" ;
-    vak:hasTopic vak:RelationalOrderingOfDomains ;
+    vak:hasTopic vak:RelationalOrderingOfFaculties ;
     vak:belongsTo vak:Dhatunirdesa .
 
 vak:FacultyOrder
-    vak:determines vak:ObjectDomainOrder , vak:CognitionDomainOrder ;
+    vak:determines vak:ObjectFieldOrder , vak:CognitionOrder ;
     vak:usesCriterion vak:TemporalRange , vak:MaterialObjectType ,
         vak:OperationalReach , vak:AccessPriority , vak:BodilyLocation .
 
@@ -265,8 +283,18 @@ vak:Manas
     vak:hasSpatialStatus vak:NonLocalized .
 
 vak:BodyFaculty
-    vak:mayTakeMaterialObject vak:GreatElement , vak:DerivativeMatter .
+    vak:mayTakeMaterialObject vak:GreatElement , vak:DerivativeForm .
+
+vak:SarvadharmaAppearances
+    a vak:EmpiricalManifold ;
+    vak:capturedIn vak:FormBase .
+
+vak:FormBase
+    vak:grounds vak:EmpiricalScience .
+
+vak:EmpiricalScience
+    vak:appliesTo vak:Appearances .
 
 vak:CoreDiscriminator
-    vak:hasTerminalOperation vak:OrderedDomainDisplay .
+    vak:hasTerminalOperation vak:OrderedPrincipleDisplay .
 ```

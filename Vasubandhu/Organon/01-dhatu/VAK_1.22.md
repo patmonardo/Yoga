@@ -1,4 +1,6 @@
-# VAK_1.22
+# The Principles
+
+## VAK_1.22 — The Unconditioned and the Order of the Bases
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -27,23 +29,24 @@ dhātutaḥ              → dhātutaḥ
 
 | Form | Morphology | Lexical force here |
 |---|---|---|
-| skandheṣu | locative masculine plural | among or within the aggregates |
+| skandheṣu | locative masculine plural | among or within the Bases |
 | asaṃskṛtam | nominative neuter singular | the unconditioned |
 | na uktam | nominative neuter singular passive construction | is not stated or included |
 | artha-ayogāt | ablative masculine singular | because the defining meaning is inapplicable |
-| kramaḥ | nominative masculine singular | the sequence or order of the aggregates |
+| kramaḥ | nominative masculine singular | the sequence or order of the Bases |
 | punaḥ | indeclinable | again; introducing the second question |
 | yathā | indeclinable | according to |
 | audārika | adjectival/abstract compound member | comparative grossness or manifestness |
-| saṃkleśa | masculine noun in compound | defilement, the production of bondage |
-| bhājana | neuter noun in compound | vessel; first term of a fivefold functional analogy |
+| saṃkleśa | masculine noun in compound | affliction and the progress of bondage |
+| bhājana | neuter noun in compound | vessel; first term of a five-part functional analogy |
 | ādi | compound member | beginning with, and so forth |
 | artha | masculine noun in compound | meaning or functional significance |
-| dhātutaḥ | ablatival adverbial formation | according to existential domains or levels |
+| dhātutaḥ | ablatival adverbial formation | according to Principle; in the Bhāṣya, differentiated levels of existence |
 
-The densely compressed second line names four independent explanations of
-the sequence. The Bhāṣya is required to recover them; it must not be reduced
-to a vague list of “grossness, vessel, and domain-status.”
+The densely compressed second line names four grounds for the sequence:
+relative grossness, the progress of Affliction, functional meaning beginning
+with a vessel, and Principle. The Bhāṣya unfolds these separately; they must
+not be reduced to a vague list of unrelated labels.
 
 ## 4. Grammar
 
@@ -55,55 +58,56 @@ asaṃskṛtam
     artha-ayogāt
 
 the unconditioned
-    is not included among the aggregates
+    is not included among the Bases
     because the defining meaning does not apply
 ```
 
 `Ayoga` does not mean merely that an author chose not to place it there.
-Skandha means `rāśi`, a collectable multiplicity. Conditioned aggregates can
-be gathered across past, future, present, internal, external, gross, subtle,
-inferior, superior, distant, and near determinations. The unconditioned is
-not differentiated and collected in that manner.
+Base (*skandha*) means `rāśi`, a collectable multiplicity. Conditioned Bases
+can be gathered across past, future, present, internal, external, gross,
+subtle, inferior, superior, distant, and near determinations. The
+unconditioned is not differentiated and collected in that manner.
 
-Nor can one simply add a sixth “unconditioned aggregate.” That would retain
-the word while abandoning its defining operation. The Bhāṣya also rejects
+Nor can one simply add a sixth “unconditioned Base.” That would retain the
+term while abandoning its defining operation. The Bhāṣya also rejects
 the weaker analogy that the cessation of a pot is not a pot: that argument
 would wrongly exclude cessation from dharma-āyatana and dharma-dhātu as well.
 
-`Kramaḥ punaḥ` introduces a second question: why do the five aggregates occur
-in this order? The remaining compound supplies four answers:
+`Kramaḥ punaḥ` introduces a second question: why do the five Bases occur in
+this order? The remaining compound supplies four grounds:
 
 ```text
 1. yathā-audārika
-   according to grossness
+   according to relative grossness
 
 2. saṃkleśa
-   according to the sequence of defilement
+   according to the progress of Affliction
 
 3. bhājana-ādi-artha
    according to the functional analogy beginning with vessel
 
 4. dhātutaḥ
-   according to dominance across existential domains
+   according to Principle, unfolded through differentiated levels
 ```
 
 The grammar is therefore enumerative and explanatory, not a single compound
-definition of the aggregates.
+definition of the Bases.
 
 The preceding Bhāṣya unit promised a threefold demonstration, while this
-unit gives four ordering accounts. Its closing recap also calls vedanā and
-saṃjñā “vessel and seasoning,” although the meal analogy assigns them food
-and seasoning. Both discrepancies remain open in the transmitted commentary.
+unit gives four ordering accounts. Its closing recap also calls Feeling and
+Reflection “vessel and seasoning,” although the meal analogy assigns them
+food and seasoning. Both discrepancies remain open in the transmitted
+commentary.
 
 ## 5. Translation
 
 ### Close syntactic construe
 
-> The unconditioned is not stated among the aggregates because their defining meaning does not apply. Their order, again, follows grossness, the sequence of defilement, the analogy beginning with vessel, and the existential domains.
+> The unconditioned is not stated among the Bases because their defining meaning does not apply. Their order, again, follows relative grossness, the progress of Affliction, the functional analogy beginning with a vessel, and Principle.
 
 ### Bhāṣya-informed translation
 
-> Because skandha means a collectable multiplicity, the unconditioned cannot be made a member—or a sixth aggregate—without violating the category’s meaning. The five aggregates are ordered through four convergent explanations: from gross to subtle; through the genesis of defilement; as vessel, food, seasoning, maker, and enjoyer; and by the domains of existence in which successive aggregate-configurations predominate and provide stations for cognition.
+> Because Base (*skandha*) means a collectable multiplicity, the unconditioned cannot be made a member—or a sixth Base—without violating the category’s meaning. The five Bases are ordered through four convergent explanations: from gross to subtle; through the progress of Affliction; as vessel, food, seasoning, maker, and eater; and by Principle across levels of existence. These differentiated Base-configurations serve as stations in which Cognition is established as seed in field.
 
 The second translation preserves the systematic force of `arthāyoga` and
 makes the fourfold explanation readable without importing it into the
@@ -111,14 +115,14 @@ Kārikā's individual words.
 
 ## 6. Philosophical Translation
 
-> A classification is valid only where its defining operation fits its content. The unconditioned belongs to the complete Dharma-field but not to aggregate-form, because it is not a temporal multiplicity to be collected. The conditioned aggregates, by contrast, possess an exact order disclosed through degrees of manifestation, the production of bondage, functional cooperation, and existential differentiation.
+> A classification is valid only where its defining operation fits its content. The unconditioned belongs to the Dharma-system but not to Base-form, because it is not a temporal multiplicity to be collected. The conditioned Bases, by contrast, possess an exact order disclosed through degrees of manifestation, the progress of Affliction, functional cooperation, and principial differentiation.
 
 Organon rendering:
 
-> Method is fidelity of form to content. The system neither excludes the unconditioned from reality nor forces it into an inadequate category. It changes classificatory form—from skandha to dharma-āyatana and dharma-dhātu—so that difference can be preserved within exhaustive comprehension.
+> Method is fidelity of form to content. The system neither excludes the unconditioned from reality nor forces it into an inadequate Base. It preserves its inclusion through the Dharma Essence Base and the Dharma Principle, while retaining the Base's distinct operation of gathering conditioned multiplicity.
 
-The sequence of the aggregates is consequently an ordered exposition rather
-than a heap. Several independent relations converge upon the same fivefold
+The sequence of the Bases is consequently an ordered exposition rather than
+a heap. Several independent relations converge upon the same fivefold
 structure.
 
 ## 7. Technical Vocabulary
@@ -126,21 +130,30 @@ structure.
 | Sanskrit | Project rendering | Determination |
 |---|---|---|
 | artha-yoga | applicability of defining meaning | criterion determining whether a category fits a dharma |
-| artha-ayoga | inapplicability of defining meaning | reason asaṃskṛta cannot enter skandha classification |
-| asaṃskṛta | unconditioned | included in Dharma analysis but not in aggregate-form |
-| rāśi | collectable multiplicity | defining meaning of skandha |
-| audārika | gross / manifest | first principle ordering the aggregates |
-| saṃkleśa | defilement | genetic sequence through which bondage is produced |
-| vedanā-āsvāda-gardha | greed for the savor of feeling | link from attractive form to attachment |
-| saṃjñā-viparyāsa | inversion of recognition | distorted mark-grasping conditioning greed and views |
-| bhājana | vessel | functional analogue of rūpa |
-| bhojana | food | functional analogue of vedanā |
-| vyañjana | seasoning / differentiating flavor | functional analogue of saṃjñā |
-| kartṛ | maker / cook | functional analogue of saṃskāra |
-| bhoktṛ | enjoyer | functional analogue of vijñāna in the Bhāṣya's meal simile |
-| vijñāna-sthiti | station of cognition | structured field in which cognition is established |
-| kṣetra-bīja | field and seed | relation of aggregate-configurations to cognition |
-| bhavāgra | summit of existence | highest formless level, dominated here by formations |
+| artha-ayoga | inapplicability of defining meaning | reason the unconditioned cannot enter Base classification |
+| asaṃskṛta | unconditioned | not gathered as a Base, while still included in the Dharma-system |
+| skandha | Base | a collection (*rāśi*) of conditioned multiplicity |
+| rāśi | collection | defining meaning of Base |
+| audārika | gross / manifest | first ground ordering the Bases |
+| saṃkleśa | Affliction | progress through which attachment and bondage are explained |
+| vedanā-āsvāda-gardha | greed for the savor of Feeling | link from felt savoring to attraction toward Form |
+| saṃjñā-viparyāsa | inversion of Reflection | distorted mark-grasping conditioning greed and views |
+| bhājana | vessel | functional analogue of Form |
+| bhojana | food | functional analogue of Feeling |
+| vyañjana | seasoning / differentiating flavor | functional analogue of Reflection |
+| kartṛ | maker / cook | functional analogue of Formations |
+| bhoktṛ | eater | functional analogue of Cognition in the Bhāṣya's meal simile |
+| vijñāna-sthiti | Cognition station | structured field in which Cognition is established |
+| kṣetra-bīja | field and seed | relation of Base-configurations to Cognition |
+| dhātu | Principle | source-kind and principial determination |
+| dhātutaḥ | according to Principle | ordering through differentiated levels of existence |
+| rūpaskandha | Form Base | first and grossest Base in the ordering account |
+| vedanāskandha | Feeling Base | second Base in the ordering account |
+| saṃjñāskandha | Reflection Base | third Base in the ordering account |
+| saṃskāraskandha | Formations Base | fourth Base in the ordering account |
+| vijñānaskandha | Knowledge Base | fifth Base; not identical with Cognition as operation |
+| vijñāna | Cognition | knowing in operation; in the field–seed account, established in the stations |
+| bhavāgra | summit of existence | highest formless level, where Formations predominate |
 
 ## 8. Logical Determination
 
@@ -154,17 +167,17 @@ ClassifyUnder(dharma, category)
 Applied to the unconditioned:
 
 ```text
-Skandha(x)
+Base(x)
     → CollectableMultiplicity(x)
     ∧ AdmitsTemporalAndComparativeDifferentiation(x)
 
 Unconditioned(u)
     → ¬CollectableMultiplicity(u)
-    → ¬Skandha(u)
+    → ¬Base(u)
 
 Unconditioned(u)
-    → MemberOf(u, DharmaAyatana)
-    ∧ MemberOf(u, DharmaDhatu)
+    → MemberOf(u, DharmaEssenceBase)
+    ∧ MemberOf(u, DharmaPrinciple)
 ```
 
 The result is differential inclusion, not exclusion from reality.
@@ -172,112 +185,115 @@ The result is differential inclusion, not exclusion from reality.
 The first ordering is gross-to-subtle:
 
 ```text
-rūpa
-    → vedanā
-    → saṃjñā
-    → saṃskāra
-    → vijñāna
+Form Base (rūpa)
+    → Feeling Base (vedanā)
+    → Reflection Base (saṃjñā)
+    → Formations Base (saṃskāra)
+    → Knowledge Base (vijñānaskandha)
 
 most resistant/manifest
     → most subtle
 ```
 
-The second traces explanatory grounds of attraction in reverse order from
-the visible result, then notes the affliction of citta:
+The second traces the explanatory grounds of attraction:
 
 ```text
-attraction to form
-    ← greed for the savor of feeling
-    ← distortion of saṃjñā
-    ← afflictions
+Afflictions
+    → inverted Reflection
+    → greed for the savor of Feeling
+    → attraction to Form
 
-afflictions → citta is afflicted
+Citta is afflicted by the Afflictions
 ```
 
-The third is functional cooperation:
+This is an explanatory relation, not a simple forward temporal chain. The
+third ordering account presents functional cooperation:
 
 ```text
-rūpa       = vessel
-vedanā     = food
-saṃjñā     = seasoning
-saṃskāra   = maker
-vijñāna    = enjoyer
+Form       = vessel
+Feeling    = food
+Reflection = seasoning
+Formations = maker
+Cognition  = eater
 ```
 
-The fourth is field and seed across existential domains:
+The fourth orders the levels by Principle:
 
 ```text
-desire-domain          → predominance of desirable forms
-dhyānas                → predominance of feeling
-first three formless levels → predominance of recognition
-summit of existence    → predominance of formations
+Desire Principle           → predominance of desirable Form
+dhyāna levels              → predominance of Feeling
+first three formless levels → predominance of Reflection
+summit of existence        → predominance of Formations
 
 these configurations
-    → stations or fields of cognition
+    → stations or fields of Cognition
 
-vijñāna
+Cognition (vijñāna)
     → established in them as seed in field
 ```
 
 The convergence of four explanations establishes:
 
 ```text
-FiveAggregates
+FiveBases
     → NeitherFewerNorMore
     ∧ OrderedNonArbitrarily
 ```
 
 ## 9. Interpretive Note
 
-VAK 1.22 deepens the setup for the threefold Dharma-classification by making
-its method explicit: do not confuse exhaustive
-reality with one classificatory scheme. Skandha, āyatana, and dhātu have
-different meanings, operations, and extensions.
+VAK 1.22 develops the Principle-of-the-Principle determination by testing
+whether the defining meaning of Base applies and by giving grounds for the
+fivefold Base order. It does not confuse the Dharma-system's full scope
+with any one classificatory form: Base, Essence Base, and Principle have
+different meanings and operations.
 
-This is precisely what disappears when English presents “heaps of elements.”
-Skandha alone means a conceptual collection; dhātu means intrinsic source-
-kind or domain. The unconditioned proves the difference:
+The unconditioned makes the difference decisive:
 
 ```text
-not a skandha
+not a Base
     because not collectable as conditioned multiplicity
 
-still dharma-āyatana and dharma-dhātu
-    because fully included in the Dharma-system
+still included as Dharma Essence Base and Dharma Principle
+    because Base is not the only classificatory form
 ```
 
-Classification is therefore an active science of category-fit, not the
-passive placement of things into synonymous lists.
+Classification is an active science of category-fit, not the passive
+placement of things into synonymous lists.
 
-The ordering analyses also show why the skandhas are not a loose inventory.
-The same five terms articulate degrees of manifestation, a causal genesis of
-bondage, a functional experiential complex, and the fields in which cognition
-is established. No single explanation is forced to do all the work; their
-convergence justifies both number and order.
+The four ordering analyses show why the five Bases are not a loose
+inventory. They articulate degrees of manifestation, the progress of
+Affliction, a functional experiential complex, and principial levels in
+which Cognition is established. No single explanation is forced to do all
+the work; their convergence justifies number and order.
 
-The `vijñāna-sthiti` and field-seed image gives the Buddha Mind reading its
-strongest restrained formulation in this unit:
+The `vijñāna-sthiti` and field–seed image contributes to the developing
+Idea-base reading:
 
 ```text
-articulated aggregate-configurations
+articulated Base-configurations
     = fields or stations
 
-vijñāna
+Cognition (vijñāna)
     = established within them
 ```
 
-The text places vijñāna within articulated stations and relates them as
-field and seed. The Organon can investigate that relation while preserving
-the difference between those stations and the cognition established in them.
+The Bhāṣya places Cognition within articulated stations and relates them as
+field and seed. This supports an Idea-base interpretation while preserving
+the distinction between the Knowledge Base (*vijñānaskandha*) and Cognition
+(*vijñāna*) as the operation established in the field.
 
-The five-verse Method may now be summarized:
+This advances the Base-and-Principle argument without completing the whole
+machine, which continues to develop through VAK 1.28.
+
+The method developed through this sequence may be summarized:
 
 ```text
 1.18  classify through own-nature and difference from other-nature
-1.19  distinguish domain-unity from numerical multiplicity
-1.20  distinguish collection, access, and intrinsic source-kind
-1.21  grant separate status where causal and systematic roles demand it
-1.22  require applicability of category-meaning and justify number and order
+1.19  distinguish Principle-unity from numerical multiplicity
+1.20  distinguish Base, Essence Base, and Principle by their operations
+1.21  distinguish Feeling and Reflection by causal and systematic role
+1.22  test category-fit and justify the number and order of the Bases
 ```
 
 That is the setup for the detailed classification to follow. The Organon raises it into
@@ -293,28 +309,35 @@ answerable to the Sanskrit and Bhāṣya.
 vak:VAK_1_22
     a vak:Karika ;
     rdfs:label "VAK 1.22" ;
-    vak:hasTopic vak:CategoryFitAndAggregateSequence ;
+    vak:hasTopic vak:CategoryFitAndBaseSequence ;
     vak:belongsTo vak:Dhatunirdesa .
 
 vak:CategoryFit
     vak:requires vak:ApplicabilityOfDefiningMeaning .
 
 vak:Unconditioned
-    vak:notIncludedIn vak:SkandhaSystem ;
-    vak:includedIn vak:DharmaAyatana , vak:DharmaDhatu .
+    vak:notIncludedIn vak:BaseClassification ;
+    vak:includedIn vak:DharmaEssenceBase , vak:DharmaPrinciple .
 
-vak:AggregateSequence
+vak:BaseSequence
     vak:justifiedBy vak:GrossToSubtleOrder ,
-        vak:DefilementSequence , vak:FunctionalAnalogy ,
-        vak:ExistentialDomainCorrespondence ;
+        vak:AfflictionProgression , vak:FunctionalAnalogy ,
+        vak:PrincipleDifferentiation ;
     vak:hasMemberCount 5 .
 
-vak:Vijnana
-    vak:isEstablishedIn vak:VijnanaStations ;
+vak:KnowledgeBase
+    a vak:Base ;
+    rdfs:label "Knowledge Base" ;
+    vak:denotes vak:VijnanaSkandha .
+
+vak:Cognition
+    a vak:KnowingOperation ;
+    rdfs:label "Cognition" ;
+    vak:isEstablishedIn vak:CognitionStations ;
     vak:relatedAs vak:SeedToField .
 
 vak:ThreefoldClassificationMethod
-    vak:hasRule vak:IntrinsicMembership , vak:DomainUnityCriterion ,
+    vak:hasRule vak:IntrinsicMembership , vak:PrincipleDifferentiation ,
         vak:ClassificationFormSelection , vak:CausalSalience ,
         vak:CategoryFit .
 ```

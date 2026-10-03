@@ -1,4 +1,6 @@
-# VAK_1.08 Bhāṣya — The Impure Division
+# The Principles
+
+## VAK_1.08 Bhāṣya — The Impure Division of the Bases
 
 ## 1. Kārikā Anchor
 
@@ -8,7 +10,9 @@
 
 From [`VAK_1.08.md`](./VAK_1.08.md):
 
-Those which are Impure are the *upādānaskandhas*. They are also *saraṇa*. They are suffering, origin, world, the station of views, and becoming.
+Those which are Impure are the Bases of appropriation
+(*upādānaskandhas*). They are also *saraṇa*. They are Suffering, Origin,
+World, the Station of Views, and Becoming.
 
 Span: Pradhan `[005|08]`–`[005|20]`. Next question at `[005|21]` opens 1.09.
 
@@ -41,21 +45,29 @@ Local IAST reads `lakṣyata iti lokaḥ`. Working reading `lujyata`, with Yaśo
 
 **The same field**
 
-These are the same Conditioned dharmas. Those which are Impure are the *upādānaskandhas*.
+These are the same Conditioned dharmas. Those which are Impure are the
+Bases of appropriation (*upādānaskandhas*).
 
-What follows? Whatever is an *upādānaskandha* is a skandha. Not every skandha is an *upādānaskandha*. There are Pure formations.
+What follows? Whatever is a Base of appropriation is a Base. Not every
+Base is a Base of appropriation. There are also Pure formations.
 
 **The three relations**
 
-Here the *upādānas* are the afflictions. The aggregates are called *upādānaskandhas* because they arise from that, as fire from grass or chaff. Or because they are governed by it, as the king’s servant. Or because the *upādānas* arise from them, as flowers and fruit from a tree. These same dharmas are called Impure.
+Here the appropriations are the afflictions. The Bases are called Bases of
+appropriation for three reasons: they arise from the appropriations, as
+fire from grass or chaff; they are governed by them, as the king’s servant;
+or the appropriations arise from them, as flowers and fruit from a tree.
+These same dharmas are called Impure.
 
 **Conflict**
 
-They are also *saraṇa*. The afflictions are conflicts, because they injure oneself and others. Because those conflicts persist in the aggregates, the aggregates are *saraṇa*, as they are Impure.
+They are also *saraṇa*. The afflictions are conflicts because they injure
+oneself and others. Because those conflicts persist latently in the Bases,
+the Bases are *saraṇa*, as they are Impure.
 
 **The names**
 
-They are also suffering, origin, world, the station of views, and becoming.
+They are also Suffering, Origin, World, the Station of Views, and Becoming.
 
 Suffering, because they are contrary to the Āryas.
 
@@ -67,26 +79,31 @@ Station of views, because views stand in them by persisting there.
 
 Becoming, because they come to be.
 
-These are names of the Impure dharmas, each matching its meaning. Coextensive. Not synonyms.
+These are designations of the Impure dharmas, each matching its meaning.
+They are coextensive, not synonyms.
 
 ## 4. Movement
 
 ```text
 same Conditioned field as 1.07
     → restrict by Impure
-        → upādānaskandha
-        → the Path remains skandha and Pure
+        → Base of appropriation
+        → the Path remains a Base and Pure
     → upādāna = affliction
         → produced from
         → governed by
         → productive of
-    → saraṇa, by the same persistence
+    → saraṇa, because conflict persists latently
     → five names, each with its ground
 ```
 
 ## 5. Buddha Mind
 
-1.07 and 1.08 are the Dharma Chakra. This verse is the summary division of that wheel.
+1.07 and 1.08 are the Dharma Chakra. 1.07 gathers the Conditioned dharmas
+as five Bases, beginning with the Form Base. Form is Form Theory, the
+empirical determination of appearance, not a material substrate. 1.08
+marks the Impure subset of that field; the Path remains Conditioned and
+Pure.
 
 ```text
 Impure : Pure
@@ -103,8 +120,12 @@ dṛṣṭisthāna
     not the station of prajñā
 ```
 
-What persists is Impure. The Path is Conditioned and Pure. A Rational Dharma does not Persist. The sheath is not opened in this unit.
+What persists is Impure. The Path is Conditioned and Pure. A Rational
+Dharma does not Persist. The sheath is not opened in this unit.
 
 ## 6. Review
 
-First pass. Old English removed. Witness unpatched. Printed editions not collated.
+Kārikā anchor synced to Base terminology and the Form Theory reading.
+The three relations of appropriation, the conflict gloss, and the five
+coextensive names remain distinct. Witness unpatched. Printed editions
+not collated.

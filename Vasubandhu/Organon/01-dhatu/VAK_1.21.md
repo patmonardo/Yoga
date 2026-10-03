@@ -1,4 +1,6 @@
-# VAK_1.21
+# The Principles
+
+## VAK_1.21 — Feeling and Reflection as Distinct Bases
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -28,17 +30,19 @@ pṛthakskandhau            → pṛthak-skandhau
 | mūla | neuter noun in compound | root, principal basis |
 | saṃsāra | masculine noun in compound | continued cyclic wandering |
 | hetutvāt | ablative neuter singular abstract formation | because of being causes |
-| krama | masculine noun in compound | order or sequence of the aggregates |
+| krama | masculine noun in compound | order or sequence of the bases |
 | kāraṇāt | ablative neuter singular | because of the reason |
 | caittebhyaḥ | ablative masculine plural | apart from the other mental factors |
-| vedanā-saṃjñe | nominative feminine dual | feeling and recognition |
+| vedanā-saṃjñe | nominative feminine dual | Feeling and Reflection |
 | pṛthak | indeclinable | separately, distinctly |
-| skandhau | nominative masculine dual | two aggregates |
+| skandhau | nominative masculine dual | two bases |
 | niveśitau | nominative masculine dual past passive participle | placed, established, assigned |
 
 The Bhāṣya supplies `pradhāna-hetu`, “principal cause,” as the force of the
-first compound. Vedanā and saṃjñā are not asserted to be the only causes of
-dispute or saṃsāra.
+first compound. Feeling and Reflection are not asserted to be the only
+causes of dispute or saṃsāra. In the machine vocabulary, generic
+*skandha* is Base, *vijñānaskandha* is the Knowledge Base, and
+*vijñāna* itself is Reasoning; these distinctions must not be collapsed.
 
 The research kārikā's Devanāgarī has `चित्तेभ्यो` (*cittebhyaḥ*). The
 running source, research IAST, and opening Bhāṣya prose support
@@ -57,52 +61,54 @@ saṃsāra-hetutvāt
     because they are principal causes of saṃsāra
 
 krama-kāraṇāt
-    because the order of the aggregates requires it
+    because the order of the bases requires it
 ```
 
-`Caittebhyaḥ` is an ablative of separation. Feeling and recognition remain
-mental factors, but they are removed from the undifferentiated remainder and
-assigned their own aggregate status.
+`Caittebhyaḥ` is an ablative of separation. Feeling and Reflection remain
+mental factors, but are distinguished from the remaining mental factors and
+assigned their own Base positions. The others remain gathered in the
+Formations Base.
 
 `Vedanā-saṃjñe` is a feminine dual subject. The masculine dual forms
 `skandhau` and `niveśitau` follow the grammatical gender of the predicate
-noun `skandha`: feeling and recognition are established as two distinct
-aggregates.
+noun `skandha`: Feeling and Reflection are established as two distinct
+bases.
 
 The Bhāṣya distributes the first two reasons in strict order (`yathākramam`):
 
 ```text
-vedanā
+Feeling (vedanā)
     → principal cause of fixation upon sensual desire
 
-saṃjñā
+Reflection (saṃjñā)
     → principal cause of fixation upon views
 ```
 
 The third reason is announced but deferred. The threefold justification of
-the aggregate sequence belongs to VAK 1.22.
+the base sequence belongs to VAK 1.22.
 
 ## 5. Translation
 
 ### Close syntactic construe
 
-> Because they cause the roots of dispute and saṃsāra, and because of the reason for the sequence, feeling and recognition are established as aggregates separate from the other mental factors.
+> Because they are causes of the roots of dispute and saṃsāra, and because of the rationale for the sequence, Feeling and Reflection are assigned two distinct Bases apart from the other mental factors.
 
 ### Bhāṣya-informed translation
 
-> Vedanā and saṃjñā receive separate aggregate status because they are principal causes of the two roots of dispute and of cyclic continuation: savoring feeling leads to fixation upon sensual pleasures, while inverted recognition leads to fixation upon views. Their separation is also connected with the order of the aggregates, whose rationale is explained next.
+> Feeling and Reflection receive distinct Base positions because they are principal causes of the roots of dispute: savoring Feeling leads to fixation upon sensual pleasures, while inverted Reflection leads to fixation upon views. Both are also principal causes of saṃsāra. Their separation is connected with the order of the bases, whose rationale is explained next.
 
-The translation preserves `saṃjñā` as recognition through a mark. “Ideas”
-would obscure the causal claim: views arise through fixation upon marks that
-have first been grasped in a distorted manner.
+The project rendering is *saṃjñā* = Reflection. Here the Bhāṣya specifies
+inverted Reflection as distorted grasping of a mark, which supports
+fixation upon views. The causal claim concerns an operation of Reflection,
+not a storehouse of ideas.
 
 ## 6. Philosophical Translation
 
-> Classification follows systematic significance, not genus alone. Although feeling and recognition belong to the wider class of mental factors, they receive independent positions because they are decisive points at which experience becomes attachment and misrecognition becomes doctrine.
+> Classification follows systematic significance, not genus alone. Although Feeling and Reflection belong to the wider class of mental factors, they receive distinct Base positions because their operations are decisive points at which felt experience becomes attachment and a distorted mark becomes fixation upon views.
 
 Organon rendering:
 
-> Immediate undergoing becomes bondage when its savor is appropriated; recognition becomes error when its mark is inverted and fixed as a view. Vedanā and saṃjñā are separated because each is a generative hinge through which the cognitive field reproduces conflict and saṃsāra.
+> Feeling becomes a hinge of bondage when its savor is appropriated; Reflection becomes a hinge of view-bondage when its mark is inverted and fixed. Their separate Base positions make these operations visible without turning them into self-subsisting substances.
 
 The distinction is functional and causal. It does not posit vedanā and
 saṃjñā as self-subsisting mental substances outside the continuum of mental
@@ -112,28 +118,28 @@ factors.
 
 | Sanskrit | Project rendering | Determination |
 |---|---|---|
-| caitta / caitasika | mental factor | general class from which vedanā and saṃjñā are distinguished |
-| vedanā | felt undergoing | pleasant, painful, or neutral experience of contact |
-| saṃjñā | recognition / conceiving through a mark | apprehension and stabilization of a distinguishing `nimitta` |
+| caitta / caitasika | mental factor | general class from which Feeling and Reflection receive distinct Base positions |
+| vedanā | Feeling / felt undergoing | pleasant, painful, or neutral experience of contact |
+| saṃjñā | Reflection | mark-taking and stabilization; inverted Reflection supports fixation upon views |
 | vivāda | dispute | conflict rooted in fixation upon desire and views |
 | adhyavasāna | fixation | decisive settling upon or committed attachment |
-| kāmādhyavasāna | fixation upon sensual desire | dispute-root principally conditioned by savoring feeling |
-| dṛṣṭyadhyavasāna | fixation upon views | dispute-root principally conditioned by distorted recognition |
-| vedanā-svāda | savor of feeling | relished feeling mediating attachment to sensual objects |
-| viparīta-saṃjñā | inverted recognition | distorted grasping of marks underlying fixation upon views |
+| kāmādhyavasāna | fixation upon sensual desire | dispute-root principally conditioned by savoring Feeling |
+| dṛṣṭyadhyavasāna | fixation upon views | dispute-root principally conditioned by inverted Reflection |
+| vedanā-svāda | savor of Feeling | relished feeling mediating attachment to sensual objects |
+| viparīta-saṃjñā | inverted Reflection | distorted grasping of marks underlying fixation upon views |
 | abhiṣvaj | to cling to / embrace | appropriation of sensual objects through relished feeling |
 | pradhāna-hetu | principal cause | predominant but not exclusive causal factor |
-| krama | systematic sequence | ordered position of the aggregates, explained in VAK 1.22 |
+| krama | systematic sequence | ordered position of the bases, explained in VAK 1.22 |
 
 ## 8. Logical Determination
 
 The classificatory problem is:
 
 ```text
-Vedana(x) ∧ MentalFactor(x)
-Samjna(y) ∧ MentalFactor(y)
+Feeling(x) ∧ MentalFactor(x)
+Reflection(y) ∧ MentalFactor(y)
 
-Why not place both only in SamskaraSkandha?
+Why not place both only in FormationsBase?
 ```
 
 The answer introduces causal salience as a ground of distinct presentation:
@@ -141,84 +147,89 @@ The answer introduces causal salience as a ground of distinct presentation:
 ```text
 MentalFactor(x)
 ∧ PrincipalIn(x, BondageProcess)
-∧ RequiredBy(x, AggregateSequence)
-    → MayReceiveSeparateAggregateStatus(x)
+∧ RequiredBy(x, BaseSequence)
+    → MayReceiveSeparateBaseStatus(x)
 ```
 
 The two dispute-series are:
 
 ```text
-vedanā
-    → savoring of feeling
+Feeling (vedanā)
+    → savoring of Feeling
     → fixation upon sensual desire
     → a root of dispute
 
-saṃjñā
+Reflection (saṃjñā)
     → inverted grasping of a mark
     → fixation upon views
     → a root of dispute
 
-greed for the savor of feeling
-∧ distorted saṃjñā
+greed for the savor of Feeling
+∧ inverted Reflection
     → continued wandering in saṃsāra
 ```
 
 The causal qualification must remain:
 
 ```text
-PrincipalCause(vedanā, sensualFixation)
-    ↛ SoleCause(vedanā, sensualFixation)
+PrincipalCause(Feeling, sensualFixation)
+    ↛ SoleCause(Feeling, sensualFixation)
 
-PrincipalCause(saṃjñā, viewFixation)
-    ↛ SoleCause(saṃjñā, viewFixation)
+PrincipalCause(Reflection, viewFixation)
+    ↛ SoleCause(Reflection, viewFixation)
 ```
 
 The Method therefore adds another criterion:
 
 ```text
-classification may distinguish a member of a wider class
+base-classification may distinguish a member of a wider class
 when its causal role and systematic position are independently decisive
 ```
 
-## 9. Interpretive Note
+## 9. Science of Dharma-Knowing
 
-VAK 1.21 shows that classification is neither a bare inventory of own-
-natures nor a simple hierarchy of genera and species. The system separates
-factors according to the work they perform within bondage and liberation.
-Vedanā and saṃjñā remain mental factors, but their causal prominence demands
-explicit visibility in the five-aggregate teaching.
+VAK 1.21 extends the Science of Knowing into a Science of Dharma-Knowing.
+The inquiry is not only how a knower classifies content, but how Dharma's
+own constituents perform distinct causal work. Feeling and Reflection are
+separated from the remaining mental factors because their operations are
+principal hinges in dispute and saṃsāra; their placement in the sequence is
+also significant.
 
-This gives `saṃjñā` its proper Organon importance. Recognition is not a
-warehouse of ideas. It takes up a mark under which something can be
-identified. When that taking-up is inverted, the false mark stabilizes the
-field upon which a view is then fixed:
+The machine is still being developed: VAK 1.20 establishes key terms, but
+the complete architecture is not in place until VAK 1.28. Verse 1.21
+contributes a specific determination within the Base classification.
+Feeling and Reflection receive distinct Base positions, apart from the
+remaining mental factors in the Formations Base. This does not make either
+an inner layer of the Knowledge Base or identify either with Reasoning.
+The distinction between *vijñānaskandha* as Knowledge Base and *vijñāna*
+as Reasoning belongs to the wider machine vocabulary; this verse itself
+does not discuss them.
 
-```text
-distorted recognition
-    conditions fixation upon views
-```
-
-The verse therefore diagnoses bad doctrine without reducing doctrine to
-mere opinion. A view becomes binding when recognition has already organized
-experience under distorted marks. Correcting a view requires more than
-replacing one verbal proposition with another; its underlying recognition
-must be transformed.
-
-Vedanā supplies the corresponding practical side. Feeling itself is not
-bondage. The critical passage is from felt tone to savoring and from savoring
-to fixation. Dharma analysis preserves these moments rather than condemning
-experience indiscriminately.
-
-For the Buddha Mind system, these are two points at which Living Light can
-become obscured without being annihilated:
+The Bhāṣya makes the causal operation explicit:
 
 ```text
-undergoing → appropriation
-recognition → inversion
+Feeling Base (vedanā)
+    → savor
+    → fixation upon sensual pleasures
+    → root of dispute
+
+Reflection Base (saṃjñā)
+    → inverted grasping of a mark
+    → fixation upon views
+    → root of dispute
+
+Feeling and Reflection
+    → principal causes of saṃsāra, not sole causes
 ```
 
-The Method responds by giving each hinge its own determinate place. The final
-ground—why that place occurs in this sequence—will be supplied in VAK 1.22.
+Feeling itself is not bondage: the operative transition is from felt
+undergoing to savoring and fixation. Reflection is not a store of ideas:
+inverted mark-taking stabilizes experience as a view. Science of
+Dharma-Knowing tracks these operations as the Dharma-system's conditioned
+activity, rather than stopping at a correct inventory of categories.
+
+The final stated ground is the order of the bases. VAK 1.22 supplies its
+further rationale; that promised explanation is not imported here.
 
 ## 10. OWL++ Seed
 
@@ -229,20 +240,24 @@ ground—why that place occurs in this sequence—will be supplied in VAK 1.22.
 vak:VAK_1_21
     a vak:Karika ;
     rdfs:label "VAK 1.21" ;
-    vak:hasTopic vak:SeparateStatusOfVedanaAndSamjna ;
+    vak:hasTopic vak:SeparateBaseStatusOfVedanaAndSamjna ;
     vak:belongsTo vak:Dhatunirdesa .
 
 vak:Vedana
     a vak:MentalFactor ;
-    vak:hasSeparateAggregateStatus true ;
+    vak:hasProjectRendering vak:Feeling ;
+    vak:hasBaseRole vak:FeelingBase ;
+    vak:hasSeparateBaseStatus true ;
     vak:isPrincipalCauseOf vak:SensualFixation ;
     vak:mayLeadThrough vak:SavoringOfFeeling .
 
 vak:Samjna
     a vak:MentalFactor ;
-    vak:hasSeparateAggregateStatus true ;
+    vak:hasProjectRendering vak:Reflection ;
+    vak:hasBaseRole vak:ReflectionBase ;
+    vak:hasSeparateBaseStatus true ;
     vak:isPrincipalCauseOf vak:ViewFixation ;
-    vak:mayBecome vak:InvertedRecognition .
+    vak:mayBecome vak:InvertedReflection .
 
 vak:SensualFixation
     vak:isRootOf vak:Dispute .
@@ -256,6 +271,9 @@ vak:Vedana
 vak:Samjna
     vak:isPrincipalCauseOf vak:Samsara .
 
-vak:SeparateAggregateStatus
+vak:OtherMentalFactors
+    vak:assignedTo vak:FormationsBase .
+
+vak:SeparateBaseStatus
     vak:mayBeGroundedIn vak:CausalSalience , vak:SystematicSequence .
 ```

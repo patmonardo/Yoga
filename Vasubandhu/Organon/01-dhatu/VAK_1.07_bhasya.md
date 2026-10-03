@@ -1,4 +1,6 @@
-# VAK_1.07 Bhāṣya — The Wheel, in a human language
+# The Principles
+
+## VAK_1.07 Bhāṣya — The Wheel in a Human Language
 
 ## 1. Kārikā Anchor
 
@@ -8,7 +10,9 @@
 
 From [`VAK_1.07.md`](./VAK_1.07.md):
 
-The Conditioned dharmas are Essential Being, beginning with form. That same Being is the Path of Dharma, Essential Reflection, Essential Relation, and Appearance.
+The Conditioned dharmas are the five Bases beginning with Form. That same
+field is the Path of Dharma, Essential Reflection, Essential Relation, and
+Appearance.
 
 Span: Pradhan `[004|23]`–`[005|08]`.
 
@@ -45,7 +49,9 @@ As for what was said, conditioned dharmas excluding the Path are Impure: which a
 
 **Answer**
 
-Those conditioned dharmas are the five aggregates beginning with form. The witness names form, feeling, formations, and cognition.
+Those Conditioned dharmas are the five Bases beginning with Form. The
+witness names the Form Base, Feeling Base, Formations Base, and Knowledge
+Base.
 
 They are called conditioned because they are made by conditions that have come together and that act together. Nothing is produced by a single condition. There is no contradiction in applying the name to future dharmas, by kind, as with milk and fuel.
 
@@ -63,7 +69,11 @@ The Vaibhāṣikas say, *kila*, that the word *vastu* expresses cause, and so, b
 
 These are alternative designations of conditioned dharmas.
 
-“Possessed of an exit” and “basis of discourse” are not this translation. The Prakaraṇa sentence places the reflection inside the eighteen *dhātus*. It does not define it. The nirvāṇa sentence and the cause sentence are glosses.
+“Possessed of an exit” and “basis of discourse” are not this translation.
+The Prakaraṇa sentence says the *kathāvastu* are included within the
+eighteen Principles. In the Organon reading, this places Essential
+Reflection within the Principle system; it does not define Reflection. The
+nirvāṇa sentence and the cause sentence are glosses.
 
 ## 4. The Dharma Talk
 
@@ -71,9 +81,10 @@ Vasubandhu is not listing. He is turning the wheel in a language.
 
 ```text
 Essential Being
-    the five as one gathering, beginning with form
-    the witness drops saṃjñā
-    the kārikā does not
+    the five Bases gathered as one, beginning with Form Base
+    the witness names Form, Feeling, Formations, and Knowledge Bases
+    the witness omits the Reflection Base
+    preserve the difference: the kārikā says five
 
 Path of Dharma
     adhvā
@@ -88,7 +99,7 @@ Essential Reflection
     kathāvastu
     the vāsanā the Kośa does not name
     Fichte: Reconstruction of an Original
-    the Prakaraṇa only seats it in the eighteen dhātus
+    the Prakaraṇa includes it in the eighteen Principles
 
 Essential Relation
     saniḥsāra
@@ -107,10 +118,30 @@ Appearance
     it does not define vastu
 ```
 
+Here **Form** means Form Theory, not matter. The Form Base is the empirical
+ground of appearance: empirical sciences apply to appearances, and the
+manifold appearances of *sarvadharma* are captured there. This is the
+Organon determination, not a claim that this is the sole lexical meaning of
+*rūpa*.
+
+The term distinction matters: *vijñānaskandha* is the **Knowledge Base**;
+*vijñāna* is **Cognition**, knowing in operation. The witness's Knowledge
+Base is one member of the fivefold gathering, not a synonym for the whole
+system or for Cognition itself.
+
+This passage foregrounds Dharma as Base—its gathered, Being-grade
+determination. The Prakaraṇa quotation points toward the Principle system,
+but this passage does not unfold the Essence Base or the reciprocal
+Concept-level closure of the six Cognition Principles. That larger machine
+continues through 1.28.
+
 One Rational Citta. Compulsory. This Bhāṣya is that Citta in the species of a human language. In itself, *paramārtha*. Buddha Mind does not persist. The Empirical latch is the armor. The talk discriminates the armor. It does not wear it.
 
 Yoga:Kośa is one dyad. The Sūtra is the *paramārtha* this prose is already speaking. Hegel is the bhāṣya of that key. Not pasted in.
 
 ## 5. Review
 
-Kārikā anchor synced to the wheel. Glosses marked. Witness unpatched. Not held back.
+Kārikā anchor synced to the wheel and current Base vocabulary. Form is
+explicitly Form Theory, not matter. The witness's omission of
+*saṃjñāskandha* remains unpatched; its four-member list is not silently
+expanded to match the kārikā's five.
