@@ -1,4 +1,4 @@
-# VAK_1.31
+# VAK_1.31 — The Principle Processor in the Formless Realm
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -25,47 +25,53 @@ sāsravānāsravāḥ               → sa-āsravāḥ an-āsravāḥ
 | Form | Morphology | Lexical force here |
 |---|---|---|
 | ārūpya-āptāḥ | nominative masculine plural compound | belonging to or connected with the Formless Realm |
-| mano-dhātu | compound member | mind-domain |
-| dharma-dhātu | compound member | Dharma-domain |
-| mano-vijñāna-dhātu | compound member | mental-consciousness Domain |
+| mano-dhātu | compound member | Mind Principle |
+| dharma-dhātu | compound member | Essence Principle |
+| mano-vijñāna-dhātu | compound member | Mental-Cognition Principle |
 | sa-āsravāḥ | nominative masculine plural adjective | accompanied by outflows; implicated in conditioned existence |
 | an-āsravāḥ | nominative masculine plural adjective | without outflows |
-| ete trayaḥ | demonstrative plus numeral, nominative plural | these three Domains |
-| śeṣāḥ | nominative masculine plural | the remaining fifteen Domains |
+| ete trayaḥ | demonstrative plus numeral, nominative plural | these three Principles |
+| śeṣāḥ | nominative masculine plural | the remaining fifteen Principles |
 | tu | contrastive particle | but |
 
-The opening compound enumerates exactly three Domains. The second line then
-classifies those same three by outflow-status and contrasts them with the
-remaining fifteen.
+The opening compound enumerates exactly three Principles. The second line
+classifies instances belonging to those same three by outflow-status and
+contrasts them with the remaining fifteen Principles.
 
 ## 4. Grammar
 
-VAK 1.30 began the threefold classification by realm. VAK 1.31 completes it:
+VAK 1.30 began the realm classification. VAK 1.31 completes it:
 
 ```text
 ārūpyāptāḥ
     belonging to the Formless Realm
 
 mano-dharma-mano-vijñāna-dhātavaḥ
-    are the mind-, Dharma-, and mental-consciousness Domains
+    are the Mind, Essence, and Mental-Cognition Principles
 ```
 
-The Bhāṣya derives this configuration from detachment from form. Ten
-material Domains are absent because their intrinsic nature is form. The
-five sensory consciousness-Domains are absent because both their material
-supports and their material objects are absent. Subtracting these fifteen
-from the eighteen leaves the final mental-Dharma triad.
+The Bhāṣya derives this configuration from detachment from Form. Ten
+Principles gathered in the Form Base are absent, as are the five sensory
+Cognition Principles that depend on those Faculties and their objects.
+Subtracting these fifteen from the eighteen leaves the Mind–Essence–Mental
+Cognition triad.
 
 The compact predicate `sāsravānāsravāḥ` is distributive over the three:
-they admit both outflow-bound and outflow-free instances. It does not say
-that every instance of each Domain possesses both contradictory statuses at
-once.
+each admits instances that are either with outflows or without outflows.
+It does not say that one instance has both statuses at once, or that every
+kind of instance in each Principle has both.
+
+The three are classified together, but not every status belongs to every
+Principle in the same way. Mind and Mental-Cognition are conditioned
+Principles; the unconditioned Essences belong under the Essence Principle.
+Path-truth supplies outflow-free conditioned instances without making
+cognition itself unconditioned.
 
 The Bhāṣya supplies the criterion:
 
 ```text
 included in Path-truth
-or included among the unconditioned dharmas
+or among unconditioned Essences
     → anāsrava
 
 otherwise
@@ -74,47 +80,66 @@ otherwise
 
 The final clause is stronger than a casual “the others have outflows.” The
 Bhāṣya calls the remaining fifteen `ekāntasāsrava`: exclusively and without
-exception outflow-bound.
+exception with outflows.
 
 ## 5. Translation
 
 ### Close syntactic construe
 
-> The mind-domain, Dharma-domain, and mental-consciousness Domain belong to the Formless Realm. These three may be with outflows or without outflows; the remaining [fifteen] are with outflows.
+> The Mind Principle, Essence Principle, and Mental-Cognition Principle
+> belong to the Formless Realm. These three admit instances with or
+> without outflows; the remaining [fifteen] are with outflows.
 
 ### Bhāṣya-informed translation
 
-> Only the mind-domain, Dharma-domain, and mental-consciousness Domain belong to the Formless Realm. The ten material Domains are absent there, as are the five sensory consciousnesses that depend upon material faculties and objects. The final three may be either outflow-bound or outflow-free; the other fifteen are exclusively outflow-bound.
+> Only the Mind, Essence, and Mental-Cognition Principles belong to the
+> Formless Realm. The ten Form Base Principles are absent there, as are
+> the five sensory-Cognition Principles that depend on those Faculties
+> and their objects. The final three admit both outflow-bearing and
+> outflow-free instances; the other fifteen are exclusively
+> outflow-bearing.
 
 “Only” in the second rendering expresses the Bhāṣya's subtraction, not an
 additional word in the Kārikā.
 
 ## 6. Philosophical Translation
 
-> When form, material support, and sensory object are withdrawn, the Domain-system contracts to mind, Dharma, and mental consciousness. This triad does not belong intrinsically either to bondage or to freedom: it can bear the outflows of conditioned existence, but it can also carry Path-truth and the outflow-free. The remaining sensory-material configuration belongs wholly to the outflow-bound field.
+> When Form Base Faculties and sensory objects are absent, the
+> Principle-system contracts to Mind, Essence, and Mental Cognition. This
+> triad is not intrinsically restricted to either outflow-bearing or
+> outflow-free instances: it can include the outflows of conditioned
+> existence, but it can also carry Path-truth and unconditioned Essences.
+> The remaining fifteen Principles are exclusively outflow-bearing.
 
 Organon rendering:
 
-> The final triad is the hinge within the Basis of the System. Mind supplies the cognitive succession, Dharma supplies its determinate object-field—including the Path and the unconditioned—and mental consciousness supplies their act of disclosure. Because this structure can be configured either under outflow or without it, the same conceptual lineage can mediate bondage and liberation without making them identical.
+> The final triad is a mode-sensitive part of the Principle processor:
+> the Mind Principle supplies succession, the Essence Principle supplies
+> determinate contents—including Path-truth and the unconditioned—and the
+> Mental-Cognition Principle supplies a particular act of representation.
+> The same triad admits outflow-bearing and outflow-free instances, without
+> making bondage and liberation identical.
 
 ## 7. Technical Vocabulary
 
 | Sanskrit | Project rendering | Determination |
 |---|---|---|
-| ārūpya | Formless Realm | configuration in which material supports and objects are absent |
-| ārūpyāpta | belonging to the Formless Realm | realm compatibility of the final three Domains |
-| rūpavītarāga | detached from form | causal condition for rebirth in the Formless Realm |
-| manodhātu | mind-domain | mental support and succession within the eighteen-Domain system |
-| dharmadhātu | Dharma-domain | mental object-domain containing conditioned and unconditioned dharmas |
-| manovijñānadhātu | mental-consciousness Domain | cognition correlated with mind and Dharma |
-| sāsrava | with outflows / outflow-bound | implicated in defilement, appropriation, and conditioned continuation |
+| dhātu | Principle | determinate position in the classification system |
+| ārūpya | Formless Realm | configuration in which the ten Form Base Principles and five sensory-Cognition Principles are absent |
+| ārūpyāpta | belonging to the Formless Realm | Realm compatibility of the final three Principles |
+| rūpavītarāga | detached from Form | causal condition for rebirth in the Formless Realm |
+| manodhātu | Mind Principle | mental support and succession within the eighteen-Principle system |
+| dharmadhātu | Essence Principle | mental object-field containing conditioned and unconditioned Essences |
+| manovijñānadhātu | Mental-Cognition Principle | particular cognition correlated with Mind and Essence |
+| sāsrava | with outflows / outflow-bearing | implicated in defilement and conditioned continuation |
 | anāsrava | without outflows / outflow-free | includes Path-truth and the unconditioned in the relevant respects |
-| ekāntasāsrava | exclusively outflow-bound | strict status of the remaining fifteen Domains |
+| ekāntasāsrava | exclusively with outflows | strict status of the remaining fifteen Principles |
 | mārgasatya | Path-truth | conditioned outflow-free content |
-| asaṃskṛta | unconditioned | included within the outflow-free Dharma-domain |
+| asaṃskṛta | unconditioned | included within the outflow-free Essence Principle |
 
-`Anāsrava` is not interchangeable with “formless.” The three formless
-compatible Domains can be either outflow-bound or outflow-free.
+`Anāsrava` is not interchangeable with “Formless.” The three Principles
+compatible with the Formless Realm can contain either outflow-bearing or
+outflow-free instances.
 
 ## 8. Logical Determination
 
@@ -122,41 +147,55 @@ The Formless configuration is obtained relationally:
 
 ```text
 DetachedFrom(Form)
-    → Absent(TenMaterialDomains)
+    → Absent(TenFormBasePrinciples)
 
-Absent(MaterialFacultySupports)
-∧ Absent(MaterialObjects)
-    → Absent(FiveSensoryConsciousnessDomains)
+Absent(FormBaseFacultySupports)
+∧ Absent(SensoryObjects)
+    → Absent(FiveSensoryCognitionPrinciples)
 
 18 − 10 − 5
-    = {ManoDhatu, DharmaDhatu, ManoVijnanaDhatu}
+    = {MindPrinciple, EssencePrinciple, MentalCognitionPrinciple}
 ```
 
 The outflow typing is:
 
 ```text
-DomainInstance(x)
-∧ x ∈ {ManoDhatu, DharmaDhatu, ManoVijnanaDhatu}
-    → MayHaveStatus(x, Sasrava)
-    ∨ MayHaveStatus(x, Anasrava)
+InstanceOf(x, MindPrinciple ∪ EssencePrinciple ∪ MentalCognitionPrinciple)
+    → MayBe(x, Sasrava)
+    ∨ MayBe(x, Anasrava)
 
-Domain(x)
-∧ x ∈ RemainingFifteenDomains
-    → NecessarilyHasStatus(x, Sasrava)
+Principle(x)
+∧ x ∈ RemainingFifteenPrinciples
+    → Necessarily(x, Sasrava)
 ```
 
 The Bhāṣya's positive criterion is:
 
 ```text
-IncludedIn(x, PathTruth)
-∨ IncludedIn(x, Unconditioned)
+WithinFinalTriad(x)
+∧ (IncludedIn(x, PathTruth)
+   ∨ IncludedAmong(x, UnconditionedEssences))
     → Anasrava(x)
 
-Otherwise(x)
+WithinFinalTriad(x)
+∧ ¬IncludedIn(x, PathTruth)
+∧ ¬IncludedAmong(x, UnconditionedEssences)
     → Sasrava(x)
 ```
 
-Two invalid inferences are thereby blocked:
+The Principle processor therefore performs two different operations:
+
+```text
+RealmFilter(FormlessRealm)
+    → MindPrinciple + EssencePrinciple + MentalCognitionPrinciple
+
+StatusCheck(instance)
+    → if PathTruth or UnconditionedEssence
+      then Anasrava
+      else Sasrava
+```
+
+This also blocks two invalid inferences:
 
 ```text
 Mental(x)
@@ -166,59 +205,59 @@ FormlessRealmCompatible(x)
     ↛ Anasrava(x)
 ```
 
-The Smart-Domain capability can therefore be expressed as:
-
-```text
-OutflowPolymorphic(x)
-    ↔ x ∈ FinalMentalDharmaTriad
-```
-
 ## 9. Interpretive Note
 
-VAK 1.31 completes the distribution begun in 1.30. The three realms are not
-three containers holding progressively fewer objects by accident. Each is a
-lawful configuration of possible supports, objects, and cognitions:
+VAK 1.31 completes the Realm distribution begun in 1.30 and immediately
+adds an outflow-status operation. The Realms are not containers holding
+progressively fewer objects by accident; each is a lawful configuration
+of possible supports, objects, and Cognition Principles:
 
 ```text
 Desire Realm
-    → all eighteen Domains
+    → all eighteen Principles
 
 Form Realm
-    → fourteen Domains
+    → fourteen Principles
 
 Formless Realm
-    → mind, Dharma, and mental consciousness
+    → Mind, Essence, and Mental-Cognition Principles
 ```
 
 The more important result lies in the second line. The final triad alone
 crosses the boundary between outflow-bound and outflow-free determination.
 This does not make “mind” inherently Buddha Mind. Ordinary mental activity
-remains fully capable of carrying outflows. Nor does it reduce liberation to
-a separate substance imported from outside the system. Path-truth and the
-unconditioned are available within the scope of the mental-Dharma triad.
+remains fully capable of carrying outflows. Nor does it reduce liberation to a separate substance imported from
+outside the system. Path-truth and the unconditioned are available within
+the scope of the Mind–Essence–Mental-Cognition triad.
 
-In our language of Dharma lineages, the same lineage admits opposed modes of
-actualization:
+In our language of Essence lineages, the same triad admits opposed modes
+of actualization:
 
 ```text
-mind–Dharma–mental consciousness
+Mind–Essence–Mental Cognition
     under outflow
         → conditioned cognition
 
-mind–Dharma–mental consciousness
+Mind–Essence–Mental Cognition
     without outflow
         → Path and liberating disclosure
 ```
 
-This is the first genuinely “smart” bifurcation in the Basis. The Domain
-does not merely announce what it contains; it specifies which modes of
-determination are permitted. The sensory-material fifteen have a fixed
-outflow type. The final triad is outflow-polymorphic.
+This is a mode-sensitive operation of the Principle processor. A Principle
+does not merely announce its members; the classification specifies which
+statuses are permitted for instances within it. The remaining fifteen—
+ten Form Base Principles and five sensory-Cognition Principles—are
+exclusively with outflows. The final triad admits both outflow-bearing and
+outflow-free instances.
 
-The Organon may see here the conceptual hinge through which Buddha Mind can
-eventually become explicit, but the verse itself remains exact and modest:
-these three Domains can be sāsrava or anāsrava. Their purity is a
-determination, not an automatic consequence of being inward or formless.
+Your proposed Organon relation is: Prajñā as *adhyātman*—the
+*paramārtha* pole—and Vijñāna as its particular representation in use.
+This verse offers a structural test for that
+relation, since the Mental-Cognition Principle participates in a triad
+whose instances can be either with or without outflows. But the kārikā
+does not equate *manovijñāna* with Prajñā or paramārtha, and it does not
+make formlessness itself liberation. The outflow determination still has
+to be made instance by instance according to the Bhāṣya's criterion.
 
 ## 10. OWL++ Seed
 
@@ -232,28 +271,28 @@ vak:VAK_1_31
     vak:hasTopic vak:FormlessRealmAndOutflowStatus ;
     vak:belongsTo vak:Dhatunirdesa .
 
-vak:Arupyadhatu
+vak:FormlessRealm
     a vak:RealmConfiguration ;
-    vak:supports vak:ManoDhatu,
-        vak:DharmaDhatu,
-        vak:ManoVijnanaDhatu ;
-    vak:excludes vak:TenMaterialDomains,
-        vak:FiveSensoryConsciousnessDomains .
+    vak:supports vak:MindPrinciple,
+        vak:EssencePrinciple,
+        vak:MentalCognitionPrinciple ;
+    vak:excludes vak:TenFormBasePrinciples,
+        vak:FiveSensoryCognitionPrinciples .
 
-vak:FinalMentalDharmaTriad
-    a vak:DomainSet,
-        vak:OutflowPolymorphicDomainSet ;
-    vak:hasMember vak:ManoDhatu,
-        vak:DharmaDhatu,
-        vak:ManoVijnanaDhatu ;
+vak:FinalMindEssenceCognitionTriad
+    a vak:PrincipleSet,
+        vak:OutflowPolymorphicPrincipleSet ;
+    vak:hasMember vak:MindPrinciple,
+        vak:EssencePrinciple,
+        vak:MentalCognitionPrinciple ;
     vak:permitsStatus vak:Sasrava,
         vak:Anasrava .
 
-vak:RemainingFifteenDomains
-    a vak:DomainSet ;
+vak:RemainingFifteenPrinciples
+    a vak:PrincipleSet ;
     vak:necessarilyHasStatus vak:Sasrava .
 
 vak:Anasrava
     vak:includes vak:PathTruth,
-        vak:UnconditionedDharmas .
+        vak:UnconditionedEssences .
 ```

@@ -7,11 +7,11 @@
 > na dṛṣṭiheyam akliṣṭaṃ na rūpaṃ nāpy aṣaṣṭhajam // 1.40 //
 
 > Ten are to be abandoned through cultivation, and five also.
-> The final three are threefold. Nothing undefiled is to be abandoned
-> by seeing, nor material form, nor what is not born from the sixth.
+> The final three are threefold. Nothing unafflicted is to be abandoned
+> by seeing, nor Form, nor what is not born from the sixth.
 
-The Bhāṣya supplies the domain names and the three meanings of
-“threefold.” Its *darśanaheya* names the same classification as the
+The Bhāṣya supplies the Principle names and specifies the three path-statuses
+of the final three. Its *darśanaheya* names the same classification as the
 verse's *dṛṣṭiheya*: to be abandoned by seeing.
 
 ## 2. Continuous Sanskrit
@@ -57,7 +57,7 @@ verse's *dṛṣṭiheya*: to be abandoned by seeing.
 > tasmād anyatra jātam aṣaṣṭhajaṃ pañcendriyajaṃ ca yat tad api nāsti darśanaprahātavyam //
 
 The unit extends from printed 28.25 through 29.12 in the running
-Sanskrit transcription. The question about which domains are views,
+Sanskrit transcription. The question about which Principles are views,
 beginning at 29.13, belongs to 1.41.
 
 Mechanical defects are regularized: *tatpraptayaśāca* to
@@ -65,177 +65,169 @@ Mechanical defects are regularized: *tatpraptayaśāca* to
 *tatsamanvāmat* to *tatsamanvāgamāt*, and the damaged forms of
 *aṣaṣṭhajam* to the reading supported by the kārikā witness and the
 prose explanation. *Akliṣṭavyākṛtam* is read as *akliṣṭāvyākṛtam*,
-“undefiled and indeterminate,” as in the research witness. The spacing
+“unafflicted and indeterminate,” as in the research witness. The spacing
 of *satyeṣva vipratipatter* is resolved as *satyeṣv avipratipatteḥ*,
 “because there is no misapprehension concerning the truths.” These
 are editorial repairs of the local transcription, not a manuscript
 collation.
 
-Punctuation separates the object's reason, *āryamārgavirodhitvāt*,
+Punctuation separates the questioner's reason, *āryamārgavirodhitvāt*,
 from the reply beginning *na*. It also attaches the possession argument
-to ordinary-person status, before the new statement about bodily and
-verbal karma. Both divisions matter for the translation.
+to ordinary-person status, before the new statement about Body-and-Voice
+action. Both divisions govern the translation.
 
 ## 3. Continuous Conventional Translation
 
-How many domains are to be abandoned by seeing, how many through
+How many Principles are to be abandoned by seeing, how many through
 cultivation, and how many are not to be abandoned? To begin with,
-the ten material domains are to be abandoned through cultivation,
-and so are the five cognition-domains.
+the ten Form Principles are to be abandoned through cultivation,
+and so are the five sensory Cognition Principles.
 
-The final three are threefold: the manas-domain, the dharma-domain,
-and the mental-cognition domain. These three, last in the order of
-recitation, are of three kinds. The eighty-eight latent afflictions,
-the factors co-arising with them, and their acquisitions, together
-with their attendants, are to be abandoned by seeing. The remaining
-outflow-bound dharmas are to be abandoned through cultivation.
-Outflow-free dharmas are not to be abandoned.
+The final three—Mind, Essence, and Mental Cognition—are threefold in
+their path-status. The eighty-eight latent afflictions, the Essences
+co-arisen with them, their acquisition-factors, and their attendants
+are to be abandoned by seeing. The remaining impure Essences are to be
+abandoned through cultivation. Pure Essences are not to be abandoned.
 
 But is there not something else to be abandoned by seeing—ordinary-person
-status and bodily and verbal karma leading to a bad destination—because
-they oppose the noble path?
+status and Body-and-Voice action leading to a bad destination—because
+they oppose the noble Path?
 
 They are not to be abandoned by seeing. For this is the summary:
-nothing undefiled is to be abandoned by seeing, nor material form,
-nor what is not born from the sixth. There is nothing undefiled that
-is to be abandoned by seeing, and no material form either.
+nothing unafflicted is to be abandoned by seeing, nor Form, nor what is
+not born from the sixth. There is nothing unafflicted to be abandoned by
+seeing, nor any Form.
 
-Ordinary-person status is undefiled and indeterminate, since even
+Ordinary-person status is unafflicted and indeterminate, since even
 those whose wholesome roots have been severed and those free from
-attachment possess it. Bodily and verbal karma are material form.
-Therefore these are not to be abandoned by seeing. There is no
-misapprehension of the truths [on their part]; moreover, [the contrary
-classification] would entail ordinary-person status at the moment
-of receptivity to dharma-knowledge concerning suffering.
+attachment possess it. Body-and-Voice action is Form. Therefore it is
+not to be abandoned by seeing. The clause concerning non-misapprehension
+of the truths and the consequence of ordinary-person status at the
+receptivity to Dharma-knowledge concerning suffering is compressed; its
+direction is preserved below without supplying a missing mechanism.
 
-“Nor what is not born from the sixth”: the mental sphere is called
+“Nor what is not born from the sixth”: the Mind Essence Base is called
 the sixth. What originates elsewhere is “not born from the sixth.”
-Whatever is born from the five faculties is likewise not to be
+Whatever is born through the five Faculties is likewise not to be
 abandoned by seeing.
-
-The bracketed phrases make the compressed reasoning explicit. The
-text states the consequence concerning ordinary-person status at
-*dharmajñānakṣānti*; it does not spell out the temporal mechanism
-of that consequence here.
 
 ## 4. Movement and Voices of the Commentary
 
-The opening exposition partitions the eighteen domains by abandonment
-status. It then specifies the members of the seeing-abandonable class
-and distinguishes the remaining outflow-bound dharmas from outflow-free
-dharmas.
+The opening exposition assigns path-status to the ten Form Principles,
+the five sensory Cognition Principles, and the final three Principles.
+It specifies the seeing-abandoned complex, then distinguishes remaining
+impure Essences from pure Essences.
 
-An objector proposes two further cases and supplies a reason: opposition
-to the noble path. The reply rejects their classification as
-seeing-abandonable and explains the verse's exclusions. Opposition
-alone therefore does not establish this technical status.
+A questioner proposes two further cases and gives a reason: opposition
+to the noble Path. The reply rejects seeing-abandonment as their status
+and explains the verse's exclusions. Opposition alone does not determine
+the technical mode of relinquishment.
 
 The possession argument concerns *pṛthagjanatva*. Its demonstrative
-*tat* refers back to ordinary-person status. It is not an argument
-that people with severed wholesome roots or freedom from attachment
-possess the bad-destination karma just mentioned. The research summary
-misplaces this reason under material karma.
+*tat* refers back to ordinary-person status. It is not an argument that
+those with severed wholesome roots or freedom from attachment possess
+the bad-destination action just mentioned. The research summary
+misplaces this reason under Body-and-Voice action.
 
-## 5. Three Statuses Across Eighteen Domains
+## 5. Three Path-Statuses
 
-| Domains | Classification in this passage |
+| Principles | Classification in this passage |
 |---|---|
-| Five material faculties and five material objects | To be abandoned through cultivation |
-| Five sensory cognition-domains | To be abandoned through cultivation |
-| Manas, dharma, and mental cognition | Each admits the threefold classification |
+| Five Faculty Principles and five Form field Principles | To be abandoned through cultivation |
+| Five sensory Cognition Principles | To be abandoned through cultivation |
+| Mind, Essence, and Mental Cognition | The final three are classified across the three path-statuses |
 
-“Threefold” distributes different members of the final three domains
-among seeing-abandonable, cultivation-abandonable, and non-abandonable
-classes. It does not assign all three statuses to one occurrence.
+“Threefold” applies to the final three in recitation order. The Bhāṣya
+identifies the three statuses as seeing-abandoned, cultivation-abandoned,
+and not to be abandoned; it does not make one occurrence simultaneously
+belong to all three.
 
-The eighty-eight *anuśayas* belong to the seeing-abandonable class;
-the sentence also includes their co-arisen factors and acquisitions,
-with attendants. *Sānucarāḥ* is a qualification, “with attendants,”
-rather than an independently enumerated fourth total. The detailed
-enumeration of the eighty-eight is not supplied in this unit.
+The eighty-eight *anuśayas* belong to the seeing-abandoned class; the
+sentence also includes their co-arisen Essences and acquisitions, with
+attendants. *Sānucarāḥ* qualifies the group as “with attendants,” rather
+than enumerating an independent fourth total. The detailed enumeration
+of the eighty-eight is not supplied in this unit.
 
-*Akliṣṭa*, “undefiled,” must remain distinct from *anāsrava*,
-“outflow-free.” The former excludes abandonment by seeing; the latter
-excludes abandonment altogether in this classification. An undefiled
-dharma is not thereby established as outflow-free.
+*Akliṣṭa*, “unafflicted,” remains distinct from *anāsrava*, “pure.”
+The former excludes seeing-abandonment; the latter is assigned
+non-abandonment altogether. An unafflicted Essence is not thereby
+established as pure.
 
-## 6. Ordinary-Person Status and the First Receptivity
+## 6. Ordinary-Person Status and Receptivity
 
-*Pṛthagjanatva* means the status of an ordinary person. The Bhāṣya
-classifies it as undefiled-indeterminate and supports that determination
-by its possession at contrasting conditions: even when wholesome roots
-have been severed and when attachment has been relinquished. Freedom
-from attachment in this argument cannot simply be equated with noble
-status, since the text expressly allows possession of ordinary-person
-status in that case.
+*Pṛthagjanatva* means ordinary-person status. The Bhāṣya classifies it
+as unafflicted and indeterminate and supports that determination by its
+presence under contrasting conditions: even when wholesome roots have
+been severed and when attachment has been relinquished. Freedom from
+attachment in this argument cannot simply be equated with noble status,
+since the text expressly allows ordinary-person status in that case.
 
-The final consequence is precise: classifying this status as
-seeing-abandonable would entail its presence at the receptivity to
-dharma-knowledge of suffering. The research report reverses the stated
-consequence when it says that one would “already cease” to be an ordinary
-person. *Pṛthagjanatvaprasaṅga* means the unwanted consequence of
-ordinary-person status, not its premature cessation.
+The final consequence is compressed. The text links non-misapprehension
+of the truths at receptivity to Dharma-knowledge of suffering with the
+unwanted consequence of ordinary-person status. The research report
+reverses the stated consequence when it says one would “already cease”
+to be an ordinary person. *Pṛthagjanatvaprasaṅga* means the consequence
+of ordinary-person status, not its premature cessation.
 
-The compact clause does not give a full account of abandonment at that
-path moment. What can safely be carried into this study is the direction
-of the argument: the proposed classification would leave ordinary-person
-status where the argument requires its exclusion. A fuller explanation
-of the path sequence belongs with its explicit treatment.
+The clause does not give a full account of path timing. This study
+preserves its stated consequence without supplying an unspoken
+mechanism; a fuller explanation belongs with the text's explicit
+treatment of the path sequence.
 
-## 7. Material Form and What Is Born from the Five Faculties
+## 7. Form and What Is Born from the Five Faculties
 
-The bodily and verbal karma invoked by the objector falls under material
-form. Its bad-destination character does not override the exclusion of
-material form from seeing-abandonment.
+The Body-and-Voice action invoked by the questioner belongs to Form.
+Its bad-destination character does not override the exclusion of Form
+from seeing-abandonment.
 
-The sixth is expressly identified as *mana āyatanam*, the mental sphere.
-*A-ṣaṣṭha-ja* means “not born from the sixth”; the prose identifies what
-is born from the five faculties as excluded. Mental origin is thus a
-necessary restriction on seeing-abandonment, not a sufficient condition
-for it. The final three domains also contain cultivation-abandonable
-and non-abandonable members.
+The sixth is expressly identified as *mana āyatana*, the Mind Essence
+Base. *A-ṣaṣṭha-ja* means “not born from the sixth”; the prose also
+excludes what is born through the five Faculties. Mental origin is
+therefore a restriction on seeing-abandonment, not a sufficient
+condition for it. The final three Principles also include
+cultivation-abandoned and non-abandoned Essences.
 
-The clause about absence of misapprehension concerning the truths is
-compressed. It supplies a reason for the exclusions rather than a claim
-that an ordinary person never misunderstands the truths. The status and
-material karma under discussion must be distinguished from the mental
-afflictions possessed by that person.
+The clause about non-misapprehension concerning the truths is
+compressed. It does not establish that an ordinary person never
+misunderstands the truths. Ordinary-person status and Body-and-Voice
+action must remain distinct from the impure mental Essences associated
+with that person.
 
 ## 8. The Bhāṣya's Decisions for the Kārikā
 
-- Supply ten material domains and five sensory cognition-domains for
+- Supply ten Form Principles and five sensory Cognition Principles for
   the first fifteen.
-- Identify the final three by their order of recitation: manas, dharma,
-  and mental cognition.
-- Distinguish eighty-eight latent afflictions with their associated
-  complex, remaining outflow-bound dharmas, and outflow-free dharmas.
-- Keep undefiled status distinct from outflow-free status.
+- Identify the final three by recitation order: Mind, Essence, and
+  Mental Cognition.
+- Distinguish the eighty-eight latent afflictions and their associated
+  complex, remaining impure Essences, and pure Essences.
+- Keep *akliṣṭa* (unafflicted) distinct from *anāsrava* (pure).
 - Attach the possession argument to ordinary-person status.
-- Preserve the stated consequence of ordinary-person status at the
-  first receptivity; do not reverse it into premature loss of that status.
-- Read “the sixth” as the mental sphere without making mental origin
-  sufficient for abandonment by seeing.
+- Preserve the stated consequence at receptivity to Dharma-knowledge of
+  suffering; do not reverse it into premature loss of ordinary-person
+  status.
+- Read “the sixth” as the Mind Essence Base without making mental origin
+  sufficient for seeing-abandonment.
 
 ## 9. Philosophical and Organon Study
 
-The passage requires discrimination between a dharma's incompatibility
-with the path and its technical mode of abandonment. The objection
-tests exactly this difference. A broad description such as “opposes
-the path” cannot replace the more determinate classification.
+The passage distinguishes incompatibility with the Path from the
+technical mode of abandonment. The question tests this difference:
+“opposes the noble Path” cannot replace the more precise classification
+by seeing, cultivation, or non-abandonment.
 
-For Organon study, this supports keeping ethical character, material
-or mental determination, and mode of abandonment distinct. A useful
-formal constraint is that failure to be seeing-abandonable does not
-imply non-abandonability: cultivation remains a separate possibility.
+In the Organon account, Pure:Impure is the root dyad. The Bhāṣya's
+classification then distinguishes two path-relations within impure
+Essences—seeing and cultivation—while pure Essences are not abandoned.
+This advances the account dyad to dyad. The separate predicate
+*akliṣṭa* remains visible: “unafflicted” is not a synonym for “pure.”
 
-The research report's language of capacity-development and transformation
-may serve a later comparative inquiry. It is not the translation of
-*bhāvanāheya*. This passage assigns abandonment statuses; it does not
-explain cultivation as increasing a faculty's quantitative range or
-retraining sensory performance. Likewise, the present classification
-does not by itself provide the full mechanism of abandoning material
-or undefiled outflow-bound dharmas. Those questions should remain open
-for their explicit textual treatment.
+This path-classification concerns the operation upon Form Principles;
+it does not posit a backing store beneath Form. The Mahābhūtas remain
+a Projection System requiring no backing store by default, while Persist
+names lodging in a field. Those are Organon commitments, not claims made
+by this passage. The Bhāṣya assigns modes of abandonment but does not
+explain them through a stored substrate or use Persist as its account.
 
 ## 10. Review Status
 
@@ -244,8 +236,7 @@ research commentary, and running Sanskrit have been compared through
 29.12. Continuous Sanskrit and a complete conventional translation
 are followed by focused analysis.
 
-The possession argument and the direction of the first-receptivity
-consequence are corrected relative to the research summary. Mechanical
-transcription repairs and supplied connective wording are marked above.
-The compressed path-timing argument remains limited to what this unit
-states. Original witnesses are preserved.
+The possession argument is attached to ordinary-person status, and
+the direction of the first-receptivity consequence is preserved without
+inventing its mechanism. Mechanical transcription repairs and supplied
+connective wording are marked above. Original witnesses are preserved.

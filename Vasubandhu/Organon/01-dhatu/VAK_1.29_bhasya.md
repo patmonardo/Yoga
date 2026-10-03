@@ -1,4 +1,4 @@
-# VAK_1.29 Bhāṣya — Visibility, Three Senses of Resistance, and Ethical Indeterminacy
+# VAK_1.29 Bhāṣya — Form Determination, Resistance, and Ethical Indeterminacy
 
 ## 1. Kārikā Anchor
 
@@ -6,14 +6,16 @@
 >
 > rūpiṇo 'vyākṛtā aṣṭau ta evārūpaśabdakāḥ // 1.29 //
 
-> One here is visible: visible form. Ten are resistant, the material
-> domains. Eight are ethically indeterminate: those same ten excluding
-> visible form and sound.
+> One here is visible: the Form Principle. Ten are subject to impediment:
+> the ten Form Base Principles. Eight are ethically indeterminate: those
+> same ten excluding the Form Principle and Sound Principle.
 
-The Bhāṣya applies different predicates to the eighteen dhātus. Its long
-explanation of resistance distinguishes physical obstruction, object-field
-limitation, and limitation by an apprehended object before specifying which
-sense governs the count of ten.
+The Bhāṣya applies different determinations to the eighteen Principles.
+Its extended discussion distinguishes obstruction, limitation by a
+faculty's field, and limitation by an apprehended object before specifying
+which sense of `pratigha` governs the count of ten. Whether the faculties'
+inclusion in that count means that an indriya itself can be “struck” remains
+a question for this first-pass study.
 
 ## 2. Continuous Sanskrit
 
@@ -131,19 +133,21 @@ identifications are not supplied as secure translations.
 
 ## 3. Continuous Conventional Translation
 
-> Of the eighteen dhātus stated, how many are visible and how many invisible?
-> One here is visible: visible form. It can be pointed out as “this, here,
-> there.” This means that the remainder are invisible.
+> Of the eighteen Principles stated, how many are visible and how many
+> invisible? One here is visible: the Form Principle. It can be pointed
+> out as “this, here, there.” This means that the remainder are invisible.
 >
-> How many are resistant and how many non-resistant? Ten are resistant:
-> the material ones. The ten domains included in the rūpa aggregate are
-> resistant. Resistance means impediment, and it is threefold: impediment
-> by obstruction, by object-field, and by apprehended object.
+> How many are subject to impediment and how many are not? Ten are subject
+> to impediment: the Form-bearing ones. The ten Principles included in the
+> Form Base are subject to impediment. `Pratigha` means impediment, and it
+> is threefold: obstruction, limitation by object-field, and limitation by
+> apprehended object.
 >
 > Obstructive impediment prevents another's arising in one's own place,
-> as a hand is impeded by a hand or stone, and a stone by either. Object-field
-> impediment applies to the eye and other possessors of objects with respect
-> to visible form and their other objects. As the Prajñapti says: “There
+> as a hand is impeded by a hand or stone, and a stone by either.
+> Object-field impediment applies to the eye and other faculties with
+> respect to visible Form and their other fields. As the Prajñapti says:
+> “There
 > is an eye that meets its field in water but not on land, as with fish;
 > on land but not in water, as generally with humans; in both, as with
 > śiśumāra, frogs, piśāca, kaivarta, and the rest; in neither, apart
@@ -153,36 +157,39 @@ identifications are not supplied as secure translations.
 > horses, leopards, cats, and the rest; in neither, apart from those cases.”
 > This is object-field impediment.
 >
-> Impediment by an apprehended object concerns citta and mental factors
+> Impediment by an apprehended object concerns mind and mental factors
 > with respect to their own objects. What distinguishes object-field from
 > apprehended object? That in which something exercises its activity is
-> its object-field. What citta and mental factors apprehend is an
+> its object-field. What mind and mental factors apprehend is an
 > apprehended object. Why is something operating in its own field or with
 > its own object said to be impeded? Because it does not operate beyond
 > that. Alternatively, impediment here is its incidence upon its own field,
 > its operation there.
 >
-> Here the ten are to be understood as resistant through obstructive
-> impediment, because they obstruct one another. Are those dharmas resistant
-> by object-field also resistant by obstruction? There are four cases.
-> First: the seven citta-domains and the associated portion of dharmadhātu.
-> Second: the five sensory objects. Third: the five faculties. Fourth:
-> the portion of dharmadhātu excluding associated factors.
+> Here the ten are counted as subject to impediment in the obstructive
+> sense, because they obstruct one another. Are Essences subject to
+> object-field impediment also subject to obstruction? There are four cases.
+> First: the six cognition Principles and the Mind Principle, together
+> with the associated portion of the Essence Principle.
+> Second: the five sensory-object Principles. Third: the five faculties.
+> Fourth: the portion of the Essence Principle excluding associated factors.
 >
-> Are those resistant by object-field also resistant by apprehended object?
-> The implication holds from the latter: whatever is resistant by apprehended
-> object is also resistant by object-field. Some are resistant only by
-> object-field, not by apprehended object: the five faculties.
+> Are Essences subject to object-field impediment also subject to
+> apprehended-object impediment? The backward implication gives this:
+> whatever is limited by an apprehended object is also limited by its
+> object-field. Some are limited by object-field but not by an apprehended
+> object: the five faculties.
 >
 > The Venerable Kumāralāta says: “That in relation to which others can
-> impede mind about to arise is to be known as resistant; the reverse is
-> accepted as non-resistant.” The resistant and non-resistant have been
-> explained.
+> impede a mind about to arise is to be known as subject to impediment; the
+> reverse is accepted as not subject to impediment.” The categories of
+> impediment and non-impediment have been explained.
 >
-> Of these eighteen dhātus, how many are wholesome, unwholesome, and
+> Of these eighteen Principles, how many are wholesome, unwholesome, and
 > ethically indeterminate? Eight are indeterminate. Which eight? Those
-> ten stated as resistant, excluding visible form and sound: the five
-> faculties and the odor-, taste-, and tangible-domains. These eight are
+> ten stated as subject to impediment, excluding the Form Principle and
+> Sound Principle: the five faculties and the Smell, Taste, and Tangible Principles.
+> These eight are
 > indeterminate because they are not declared wholesome or unwholesome.
 > Others say: because they are not determined with respect to karmic
 > maturation. In that case, the consequence would apply to the anāsrava
@@ -195,13 +202,13 @@ extended discrimination:
 
 ```text
 visibility
-    → one visible domain
+    → one visible Principle
 resistance
     → three meanings
     → the count of ten uses obstruction
     → four-case comparison and one-way implication
 ethical classification
-    → eight indeterminate material domains
+    → eight indeterminate Principles selected from the ten in the Form Base
     → alternative explanation and its objection
 ```
 
@@ -211,22 +218,24 @@ Kumāralāta. The karmic-maturation explanation is attributed to others and
 immediately challenged. These are not merged into an unqualified single
 voice.
 
-## 5. Visibility and the Ten Material Domains
+## 5. Form Determination and the Ten Form Base Principles
 
 `Sanidarśana` is explained through being pointed out: this, here, or there.
-The subject `rūpam` here is visible form, not the entire rūpa aggregate.
-The remaining seventeen are accordingly invisible. This predicate does
-not mean that the other domains cannot be known or analyzed.
+The subject `rūpam` here is the visible Form Principle, not the entire
+Form Base. The remaining seventeen Principles are accordingly
+non-demonstrable in this sense. This predicate does not mean that they
+cannot be known or analyzed.
 
-The ten resistant material domains are the five faculties and five sensory
-objects. The description does not make every item classified as rūpa
-resistant in this sense: avijñapti remains within dharmadhātu rather than
-among these ten, as the preceding distribution established.
+The ten Form Base Principles are the five faculties and five sensory
+objects. The description does not make every Essence gathered under the
+Form Base subject to impediment in this sense: avijñapti remains within
+the Essence Principle rather than among these ten, as the preceding
+distribution established.
 
 `Svadeśe parasyotpattipratibandhaḥ` defines obstruction by preventing
 another's arising in the same place. The hand and stone examples illustrate
-that material impediment. The text expressly returns to this sense when
-explaining why ten are called resistant in the verse.
+that physical impediment. The text expressly returns to this sense when
+explaining why ten are subject to impediment in the verse.
 
 ## 6. Functional Field and Apprehended Object
 
@@ -251,95 +260,116 @@ an operation is successfully taking place in its proper field.
 
 The first comparison is a complete four-case distinction:
 
-| Object-field limitation | Material obstruction | Members |
+| Object-field limitation | Physical obstruction | Members |
 |---|---|---|
-| yes | no | seven citta-domains; associated portion of dharmadhātu |
-| no | yes | five sensory objects |
-| yes | yes | five sensory faculties |
-| no | no | dharmadhātu excluding associated factors |
+| yes | no | six Cognition Principles and Mind Principle; associated portion of the Essence Principle |
+| no | yes | five sensory-object Principles |
+| yes | yes | five sensory-faculty Principles |
+| no | no | Essence Principle excluding associated factors |
 
 “Associated” here concerns mental factors associated with citta. The
-seven citta-domains recall the six cognition-domains and manodhātu.
-The final row must not be narrowed to dissociated formations alone;
-it is the entire remainder specified by the exclusion.
+six Cognition Principles together with the Mind Principle are the seven
+`cittadhātus` here. The final row must not be narrowed to dissociated
+formations alone; it is the entire remainder of the Essence Principle
+specified by the exclusion.
 
 The second comparison, compressed under `paścātpādakaḥ`, states an
 implication from the latter predicate. Apprehended-object limitation entails
 object-field limitation, but not conversely: the five faculties supply
 the counterexample. The research report's analysis omits this second
 comparison; it is retained here because it sharpens the distinction
-between a faculty's activity and cognitive apprehension.
+between the field within which a faculty operates and cognitive
+apprehension.
 
 Kumāralāta's formulation is then quoted. It describes resistance in
 relation to the possible impediment of mind about to arise. No detailed
 reconciliation with the threefold classification follows in this unit,
 so the quotation is preserved as his stated account without making it
-replace the verse's explicit obstructive criterion.
+replace the verse's explicit obstruction criterion.
 
-## 8. Eight Ethically Indeterminate Domains
+## 8. Eight Ethically Indeterminate Principles
 
-`Ta eva` resumes the resistant ten; `arūpaśabdakāḥ` excludes visible
-form and sound. The prose resolves the count as five faculties plus odor,
-taste, and tangible form. It does not mean eight non-material domains.
+`Ta eva` resumes the ten subject to impediment; `arūpaśabdakāḥ` excludes
+the visible Form Principle and Sound Principle. The prose resolves the
+count as five faculties plus the Smell, Taste, and Tangible Principles.
+It does not mean eight Principles without Form Base inclusion.
 
 The supplied derivation concerns not being declared wholesome or
 unwholesome, `kuśalākuśalabhāvenāvyākaraṇāt`. The alternative based on
 karmic maturation is challenged because it would also include the anāsrava
 under that explanation. The objection concerns the proposed defining
-criterion; it does not imply that all anāsrava dharmas share one ethical
-status.
+criterion; it does not imply that all Essences without outflows share one
+ethical status.
 
-Why visible form and sound admit other statuses is treated with the remaining
-ten in the next unit. The present study preserves their exclusion from
-the eight without importing that next explanation into its continuous
-translation.
+Why the Form Principle and Sound Principle admit other statuses is treated
+with the remaining ten in the next unit. The present study preserves their
+exclusion from the eight without importing that next explanation into its
+continuous translation.
 
 ## 9. The Bhāṣya's Decisions for the Kārikā
 
-1. One visible domain means visible form, not all material form.
-2. Ten resistant domains means the five faculties and five sensory objects.
-3. Their resistance here is material obstruction, expressly distinguished
-   from the other two senses.
+1. One demonstrable Principle means the visible Form Principle, not all
+   contents gathered in the Form Base.
+2. The ten subject to impediment are the five faculties and five
+   sensory-object Principles gathered in the Form Base.
+3. Their impediment in the verse's count is physical obstruction,
+   distinguished from limitation by object-field and apprehended object.
 4. `Viṣaya` and `ālambana` receive separate definitions and two logical
    comparisons, both of which must be retained.
 5. Kumāralāta's formulation and the Prajñapti examples retain attribution.
-6. The eight indeterminate domains are selected by excluding visible form
-   and sound from the ten; they remain material.
+6. The eight indeterminate Principles are selected by excluding the Form
+   and Sound Principles from the ten; they remain included in the Form Base.
 7. The karmic-maturation explanation is reported and challenged, not adopted
    as the final definition.
 
 ## 10. Philosophical and Organon Study
 
-The same term changes extension according to its specified meaning.
-Resistance can concern material exclusion, operational range, or an
-apprehended object. The four-case table and the subsequent implication
-show exactly why those meanings cannot be collapsed.
+The verse opens the classification sequence by determining the eighteen
+Principles along separate axes: demonstrability, impediment, and ethical
+status. Within the resistance discussion, the Bhāṣya further separates
+physical obstruction, the range of a faculty's operation, and the object
+apprehended by mind. The four-case table and the subsequent implication
+show that these relations can intersect without being interchangeable.
 
-For the Organon reconstruction, this is a concrete model of disciplined
-domain analysis. A field is determined through the operation that occurs
-within it, but the faculty, its object, and the apprehending event retain
-different classifications. Their relation does not make all of them bear
-the same predicates.
+This is Form Determination in a precise first-pass sense: the ten Form Base
+Principles receive the obstructive-resistance predicate, while the Form
+Principle and Sound Principle can also receive ethical determination
+through action. A Form Base classification does not flatten the faculties,
+their fields, and their objects into one thing; the system keeps their
+roles distinct while recording their relations.
+
+The question whether an `indriya` can be “struck” remains open. The
+Bhāṣya does include the five faculties among the ten that obstruct one
+another and places them in the quadrant that is both object-field-limited
+and obstructively resistant. But “struck” can suggest an ordinary physical
+impact on a sense organ, which is not what the threefold analysis alone
+establishes. This study therefore uses “subject to impediment” for
+`sapratigha` and preserves the specific obstruction relation without
+settling its Organon interpretation.
 
 This develops our inquiry into learning by showing what careful discrimination
 requires: identify the sense of a term, determine its extension, and test
-its relation to neighboring senses. Those operations make an account
-reviewable without yet explaining the full development of prajñā through
-which the distinctions are comprehended.
+its relation to neighboring determinations. A Principle is not a passive
+label; it keeps these differences apart and gathers their derivative
+relations into a classifiable science.
 
-The ethical question introduces another axis. A classification as material,
-visible, or resistant does not by itself settle wholesome or unwholesome
-status. The exposition proceeds by determining that status separately,
-continuing the articulated method already established.
+In the Organon, the Essence Base is a real, relation-bearing structure on
+the Other Side. A first-pass model is that it serves as the central bus
+holding cross-classifications of Form and the other Principles together.
+The verse and Bhāṣya provide determinations to test against that
+architecture; they do not themselves call the Essence Base a central bus
+or state that it controls Form theory. The mechanism remains a question
+for the following verses and later passes.
 
-## 11. Review Status
+## 11. First-Pass Status
 
-Provisional twenty-ninth study in the Bhāṣya edition. The local research
-commentary, kārikā opening, and running Sanskrit have been compared through
+This is a provisional first pass of the twenty-ninth Bhāṣya study. The
+local research commentary, kārikā opening, and running Sanskrit have been compared through
 the objection concluding the ethical-indeterminacy account.
 
 The complete resistance discussion includes the operational explanation,
 four-case analysis, and second implication omitted from the research
 summary. Difficult animal names remain untranslated rather than guessed.
-Source repairs and named attributions are explicit. Original research files
-and the Part One reading artifact remain unchanged.
+Source repairs and named attributions are explicit. Whether the faculty's
+obstructive determination is adequately described as being “struck” is
+intentionally left unresolved for the next pass.

@@ -6,14 +6,15 @@
 >
 > na śabdaḥ apratighā aṣṭau naiḥṣyandikavipākajāḥ // 1.37 //
 
-> The five internal domains are maturation-born and produced by
-> reinforcement. Sound is not maturation-born. The eight non-resistant
-> domains admit homogeneous-continuation and maturation-born instances.
+> The five internal [Faculty] Principles are maturation-born and
+> reinforced through upacaya. Sound is not maturation-born. The eight
+> non-resistant Principles include continuity-born and maturation-born
+> instances.
 
 *Vipākajaḥ* at the end of the first line is completed by *na śabdaḥ*
 at the beginning of the second. The line break must not turn it into
-a positive assertion that sound is maturation-born. The eight-domain
-statement identifies causal classes within those domains; it does not
+a positive assertion that Sound is maturation-born. The eight-Principle
+statement identifies causal classes among their instances; it does not
 make every member a product of both causes.
 
 ## 2. Continuous Sanskrit
@@ -85,14 +86,14 @@ make every member a product of both causes.
 The unit extends from printed page 25.06 through 26.01. The opening
 question also announces two classifications developed in 1.38. That
 next verse begins by completing the present causal enumeration with
-the remaining four domains; its *tridhā 'nye* is reserved there.
+the remaining four Principles; its *tridhā 'nye* is reserved there.
 
 Mechanical repairs are *naiḥṣyandikāḥ*, *dravyayuktāḥ*,
 *brahmacaryeṇa*, *śārīriky api*, *prāpnoti*, and
 *naiḥṣyandikavipākajāḥ*, replacing malformed forms in the running
 transcription. The badly damaged *śāhī hikyapi* is read as bodily
-feeling, following the research transcription and the argument's
-reference to karma-born elements.
+Feeling, following the research transcription and the argument's
+reference to karma-born Great Elements.
 
 Two defects are retained visibly. The Prajñaptiśāstra quotation ends
 with *nirvartta iti*; the translation reads the intended production of
@@ -103,15 +104,14 @@ provisional construal used below.
 
 ## 3. Continuous Conventional Translation
 
-How many domains are maturation-born, how many produced by reinforcement,
-how many arise through homogeneous continuation, how many possess
-substance, and how many are momentary? It is said:
+How many Principles are maturation-born, how many upacaya-reinforced,
+how many continuity-born, how many associated with substance, and how
+many are momentary? It is said:
 
-The five internal domains are maturation-born and produced by
-reinforcement. To begin with, the five internal domains, the eye and
-the others, are maturation-born and produced by reinforcement. There
-are no separately classified homogeneous-continuation instances,
-because there is no continuation distinct from those two.
+The five internal Principles—the Eye and the others—are both
+maturation-born and upacaya-reinforced. There are no separately
+classified homogeneous-continuation instances, because no continuation
+distinct from those two is identified.
 
 Those born from a maturation-cause are called maturation-born. The
 middle member is omitted, as in “ox-cart.” Alternatively, karma that
@@ -122,34 +122,36 @@ result's name be applied figuratively to its cause, just as the cause's
 name is applied to its result: “These six bases of contact should be
 understood as old karma.”
 
-Those built up by food, conditioning, sleep, and particular states of
-concentration are produced by reinforcement. Some add “and by celibate
+Those increased by nourishment, conditioning, sleep, and particular
+states of concentration are upacaya-reinforced. Some add “and by celibate
 discipline.” But through that there would be only freedom from injury,
 not increase. The reinforcement-continuum protects the
 maturation-continuum like a surrounding wall.
 
-Sound has reinforcement-produced and homogeneous-continuation
-instances. Sound is not maturation-born. Why? Because it proceeds
+Sound has upacaya-reinforced and homogeneous-continuation instances.
+Sound is not maturation-born. Why? Because it proceeds
 from exertion.
 
 But what of the statement in the Prajñaptiśāstra that through thorough
 cultivation of abstention from harsh speech, the great-person mark
 of a Brahmā-like voice is produced? Some say that this is a third-member
-succession: from karma come the elements, and from the elements sound.
+succession: from karma come the Great Elements, and from the Great
+Elements Sound.
 Others say it is a fifth-member succession: from karma come
-maturation-born great elements; from these, reinforced elements; from
-these, homogeneous-continuation elements; and from these, sound.
+maturation-born Great Elements; from these, upacaya-reinforced Great
+Elements; from these, homogeneous-continuation Great Elements; and from
+these, Sound.
 
-Then bodily feeling too, since it arises from karma-born elements,
+Then bodily Feeling too, since it arises from karma-born Great Elements,
 would fail to be maturation. — [That would follow] if there were a
-conflict with reasoning as in the case of sound.
+conflict with reasoning as in the case of Sound.
 
-The eight non-resistant domains admit homogeneous-continuation and
-maturation-born instances. Which eight? The seven citta-domains and
-the dharma-domain. Homogeneous-continuation instances are generated
-by homogeneous and universally operative causes; maturation-born
+The eight non-resistant Principles include homogeneous-continuation
+and maturation-born instances. Which eight? The seven Cognition
+Principles and the Essence Principle. Homogeneous-continuation instances
+are generated by homogeneous and universally operative causes; maturation-born
 instances are generated by a maturation-cause. There are no
-reinforcement-produced instances, because non-resistant dharmas
+upacaya-reinforced instances, because non-resistant Principles
 [lack accumulation].
 
 The bracketed final phrase follows the research repair of the damaged
@@ -159,8 +161,9 @@ this paragraph does not specify a regimen of bodily treatment or exercise.
 ## 4. Movement and Voices of the Commentary
 
 The introductory question announces five headings, but this verse
-develops the first three for the faculties, sound, and eight non-resistant
-domains. It is not a complete answer to the entire opening question.
+develops the first three for the Faculties, Sound, and eight
+non-resistant Principles. It is not a complete answer to the entire
+opening question.
 
 The explanation of *vipākaja* offers alternative analyses of the word,
 followed by an example of figurative transfer between cause and result.
@@ -192,53 +195,54 @@ These are explanations of technical naming and causation. They do not
 license an identity of every result with its cause. The transfer is
 expressly described as *upacāra*.
 
-For the faculties, *tadvyatiriktaniṣyandābhāva* is also important.
-The denial of a separate homogeneous-continuation class does not deny
-faculty continuity altogether. It says there is no such continuation
-outside the maturation and reinforcement classes already specified.
+For the five Faculty Principles, *tadvyatiriktaniṣyandābhāva* is also
+important. The denial of a separate homogeneous-continuation class does
+not deny Faculty continuity altogether. It says there is no such
+continuation outside the maturation and upacaya classes already
+specified.
 
 ## 6. Reinforcement and Protection from Injury
 
 *Aupacayika* is explained through *upacita*, built up. Food,
 conditioning, sleep, and distinctions of concentration supply the
-listed conditions. The classification concerns material reinforcement;
-it should not be equated with the generic aggregation of atoms in
-1.35. A material domain can be aggregated without that alone deciding
-its present causal class.
+listed conditions. The classification concerns upacaya-reinforcement;
+it should not be equated with the atomic aggregation distinguished in
+1.35. A Form-Principle can be atomically aggregated without that alone
+deciding its present causal class.
 
 The proposed addition of *brahmacarya* receives a precise reply:
 *anupaghātamātra*, merely non-injury, is distinguished from *upacaya*,
 increase. Preserving something and positively building it up are not
 being counted as the same contribution here.
 
-The wall analogy relates two continua: reinforcement protects
-maturation. It does not identify them or make their distinction one
-between two independently existing bodies. Nor does the paragraph
+The wall analogy relates two continua: upacaya protects maturation. It
+does not identify them or make their distinction one between two
+self-standing continua. Nor does the paragraph
 specify that every listed condition has the same effect or operates
 by the same mechanism.
 
 ## 7. Sound, Indirect Karmic Dependence, and the Counterexample
 
-*Īhātaḥ pravṛtti* is the stated reason for excluding sound from
+*Īhātaḥ pravṛtti* is the stated reason for excluding Sound from
 maturation-born status. “Exertion” preserves the initiating-activity
-sense without silently restricting every sound to conscious human
+sense without silently restricting every Sound to conscious human
 speech. The vocal-mark objection then supplies a case in which a
-sound-related excellence is expressly connected with karma.
+Sound-related excellence is expressly connected with karma.
 
 The two replies give these successions:
 
 | Reported account | Ordered members |
 | --- | --- |
-| Third-member succession | Karma → elements → sound |
-| Fifth-member succession | Karma → maturation-born elements → reinforced elements → homogeneous-continuation elements → sound |
+| Third-member succession | Karma → Great Elements → Sound |
+| Fifth-member succession | Karma → maturation-born Great Elements → upacaya-reinforced Great Elements → homogeneous-continuation Great Elements → Sound |
 
 The numbers count members of the stated succession, not three or five
 causal links. Both retain a karmic connection while distinguishing
-the eventual sound from a direct classification as maturation-born.
+the eventual Sound from a direct classification as maturation-born.
 
 The bodily-feeling counterexample prevents distance in a causal chain
-from doing all the explanatory work. Bodily feeling also arises from
-karma-born elements. The reply invokes whether the sound-like conflict
+from doing all the explanatory work. Bodily Feeling also arises from
+karma-born Great Elements. The reply invokes whether the Sound-like conflict
 with reasoning applies; it does not accept a universal rule that
 mediation excludes maturation.
 
@@ -246,26 +250,26 @@ Accordingly, “everything produced through present activity is excluded
 from maturation” would be broader than this unit establishes. The
 source argues a particular exclusion and tests its justification.
 
-## 8. The Eight Non-resistant Domains and the Kārikā's Decisions
+## 8. The Eight Non-resistant Principles and the Kārikā's Decisions
 
-The eight are seven citta-domains plus the dharma-domain. Their
-homogeneous-continuation instances are defined by *sabhāgahetu* and
+The eight are seven Cognition Principles plus the Essence Principle.
+Their homogeneous-continuation instances are defined by *sabhāgahetu* and
 *sarvatragahetu*, while maturation-born instances are defined by
 *vipākahetu*. “Continuation” here names specific causal relations,
 not simply persistence through time.
 
-The complete dharma-domain includes unconditioned dharmas. They cannot
-be made products of these causes merely by belonging to the named
-domain. The verse identifies the relevant generated classes within
-the domains; the announced further classifications still await 1.38.
+The Essence Principle includes unconditioned Essences. They cannot be
+made products of these causes merely by belonging to that Principle.
+The verse identifies the relevant generated classes within the
+Principles; the announced further classifications still await 1.38.
 
 The resulting translation decisions are:
 
-- Keep the negation with *vipākajaḥ*: sound is not maturation-born.
-- Treat the five as the five material faculties, not all internal
-  domains without restriction.
+- Keep the negation with *vipākajaḥ*: Sound is not maturation-born.
+- Treat the five as the five sensory Faculties, not all internal
+  Principles without restriction.
 - Preserve the reason why no additional continuation class is counted
-  for those faculties.
+  for those Faculties.
 - Distinguish reinforcement from mere protection against injury.
 - Preserve both mediated voice accounts and the bodily-feeling test.
 - Read the final causal predicates according to instances and causes,
@@ -277,10 +281,10 @@ For the Organon inquiry into learning, the passage distinguishes
 production of a capacity, its reinforcement, and protection against
 impairment. Those contributions are related but not equivalent. Its
 explicit mention of concentration among reinforcing conditions also
-connects cognitive practice with the conditions of material faculties,
+connects cognitive practice with the conditions of the Faculties,
 without supplying a complete theory of that connection.
 
-The sound discussion adds a distinction between having a karmic causal
+The Sound discussion adds a distinction between having a karmic causal
 history and belonging to a specific class of karmic result. A lineage
 of conditions alone does not settle the classification of its final
 event. The bodily-feeling objection makes that limit part of the
@@ -290,15 +294,15 @@ These distinctions may help frame how prajñā is cultivated and
 manifests within saṃvṛti: establishing conditions, sustaining a capacity,
 and the occurrence of understanding require separate explanations.
 The source does not here classify prajñā's relation to paramārtha or
-introduce a Seer for whose sake the faculties exist. Those would be
+introduce a Seer for whose sake the Faculties exist. Those would be
 additional Organon determinations, beyond the causal account given.
 
 ## 10. Review Status
 
 Provisional thirty-seventh study in the Bhāṣya edition. The local
 kārikā, research commentary, and running Sanskrit have been compared
-through the eight-domain explanation. The continuation concerning
-the remaining four domains and the two outstanding headings is
+through the eight-Principle explanation. The continuation concerning
+the remaining four Principles and the two outstanding headings is
 reserved for 1.38.
 
 The vocal-mark quotation's ending and final accumulation clause remain

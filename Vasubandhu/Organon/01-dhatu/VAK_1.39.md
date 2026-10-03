@@ -1,4 +1,4 @@
-# VAK_1.39
+# VAK_1.39 — Field Relations and Functional Participation
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -25,20 +25,20 @@ svakarmakṛt          → sva-karma-kṛt
 
 | Form | Morphology | Lexical force here |
 |---|---|---|
-| dvādaśa | numeral | twelve Domains |
+| dvādaśa | numeral | twelve Principles |
 | adhyātmikāḥ | nominative masculine plural adjective | internal, proximate to mind as support or belonging to the cognitive side |
 | hitvā | absolutive of `√hā` | having excluded or set aside |
-| rūpa-ādīn | accusative masculine plural | the six object-Domains beginning with visible form |
-| dharma-saṃjñakaḥ | nominative masculine singular compound | the Domain bearing the name Dharma |
+| rūpa-ādīn | accusative masculine plural | the six outer field Principles beginning with visible Form |
+| dharma-saṃjñakaḥ | nominative masculine singular compound | the Principle bearing the name Essence |
 | sabhāgaḥ | nominative masculine singular | functionally participating |
 | tat-sabhāgāḥ | nominative masculine plural | corresponding members of the same kind without proper functional participation |
-| śeṣāḥ | nominative masculine plural | the remaining seventeen Domains |
-| yaḥ | nominative masculine singular relative pronoun | whichever Domain |
+| śeṣāḥ | nominative masculine plural | the remaining seventeen Principles |
+| yaḥ | nominative masculine singular relative pronoun | whichever Principle |
 | na sva-karma-kṛt | negative plus compound | does not perform its proper function |
 
 The phrase `dharmasaṃjñakaḥ sabhāgaḥ` crosses the metrical line: “the one
-called Dharma is functionally participating.” It must not be absorbed into
-the preceding list of external objects and thereby lose its predicate.
+called Essence is functionally participating.” It must not be absorbed into
+the preceding list of outer field Principles and thereby lose its predicate.
 
 ## 4. Grammar
 
@@ -46,37 +46,37 @@ The first statement is elliptical but straightforward:
 
 ```text
 dvādaśa adhyātmikāḥ
-    twelve are internal
+    twelve Principles are internal
 
 hitvā rūpādīn
-    after excluding the six object-Domains beginning with visible form
+    after excluding the six outer field Principles beginning with visible Form
 ```
 
 The internal twelve are:
 
 ```text
-six supports
-    eye, ear, nose, tongue, body, mind
+six Faculty Principles
+    Eye, Ear, Nose, Tongue, Body, Mind
 
-six knowledge-Domains
-    five sensory knowledges and mental knowledge
+six Cognition Principles
+    five sensory Cognitions and mental Cognition
 ```
 
-The excluded external six are visible form, sound, smell, taste, tangible
-matter, and Dharma. The Bhāṣya opens this explanation with its standard
-anti-adhyāsa warning and then proceeds to the operative point: ego-making
-(`ahaṃkāra`) rests upon mind, so mind receives a conventional first-person
-designation. The faculties are internal through proximity as supports;
-objects are external through their object-function.
+The six excluded outer field Principles are visible Form, Sound, smell,
+taste, tangible Form, and Essence. The Bhāṣya opens this explanation with
+its standard anti-adhyāsa warning and then proceeds to the operative point:
+ego-making (`ahaṃkāra`) rests upon Mind, so Mind receives a conventional
+first-person designation. The Faculties are internal through proximity as
+supports; the other six Principles are outer through their field-function.
 
 The next construction states:
 
 ```text
 dharma-saṃjñakaḥ sabhāgaḥ
-    the Domain called Dharma is always functionally participating
+    the Principle called Essence is always functionally participating
 
 śeṣāḥ sabhāgāḥ tat-sabhāgāḥ ca
-    the remaining Domains may be functionally participating
+    the remaining Principles may be functionally participating
     or corresponding non-participants
 ```
 
@@ -98,50 +98,50 @@ marks actual or assured functional participation across the three times.
 
 ### Close syntactic construe
 
-> Twelve are internal, after excluding the [six object-Domains] beginning with visible form. The Domain called Dharma is functionally participating; the remaining [Domains] may be functionally participating or corresponding non-participants. A corresponding non-participant is one that does not perform its proper function.
+> Twelve are internal, after excluding the six outer field Principles beginning with visible Form. The Principle called Essence is functionally participating; the remaining Principles may be functionally participating or corresponding non-participants. A corresponding non-participant is one that does not perform its own function.
 
 ### Bhāṣya-informed translation
 
-> The six faculty-supports and six knowledge-Domains are internal; the six object-Domains are external. Mind receives a conventional first-person designation because ego-making rests upon it, and the faculties stand nearest to it as supports. The Dharma-domain is always functionally participating because every dharma can become an object of mental knowledge. Every other Domain may either participate in its proper operation—past, present, future, or assured—or remain a member of the same kind without exercising that operation.
+> The six Faculty Principles and six Cognition Principles are internal; the six field-side Principles are outer. Mind receives a conventional first-person designation because ego-making rests upon it, and the Faculties stand nearest to it as supports. The Essence Principle is always functionally participating because every Essence can become a field for Mental Cognition. Every other Principle may participate in its proper operation—past, present, future, or assured—or remain of the same kind without exercising that operation.
 
 ## 6. Philosophical Translation
 
-> The Domain-system determines interiority relationally: faculties and knowledges form the internal side because they support or constitute cognition, while their objects form the external side. Ego-making rests upon mind and supplies a conventional first-person designation. Membership in a Domain lineage must then be distinguished from participation in its proper work.
+> The Principle-system determines interiority relationally: Faculties and Cognitions form the internal side because they support or constitute cognition, while the field Principles form the outer side. Ego-making rests upon Mind and supplies a conventional first-person designation. Membership in a Principle lineage must be distinguished from participation in its operation.
 
 Organon rendering:
 
-> The Principle of the Agent now distinguishes possession of a form from participation in its operation. “Internal” marks the support-and-knowing side of an Agent-continuum. `Sabhāga` is realized participation among faculty, object, and knowledge. `Tat-sabhāga` preserves the lineage without its proper work becoming actual.
+> The Principle of the Agent now distinguishes Faculty, field, and Cognition without collapsing them into one another. “Internal” marks the support-and-knowing side of an Agent-continuum. `Sabhāga` is realized participation among Faculty, field, and Cognition. `Tat-sabhāga` preserves kind and lineage without that operation being performed.
 
 ## 7. Technical Vocabulary
 
 | Sanskrit | Project rendering | Determination |
 |---|---|---|
 | adhyātmika | internal | proximate to mind as support or belonging to the cognitive side |
-| bāhya | external | standing as one of the six object-Domains |
+| bāhya | outer | one of the six field Principles in this classification |
 | ahaṃkārasanniśraya | basis upon which ego-making rests | reason mind receives a conventional first-person designation |
 | upacāra | conventional or figurative designation | rule governing that designation |
-| pratyāsanna | proximate / standing nearest | grounds the internality of faculty-supports |
+| pratyāsanna | proximate / standing nearest | grounds the internality of Faculty Principles as supports |
 | sabhāga | functionally participating | performs, has performed, will perform, or is assured to perform its proper operation |
 | tat-sabhāga | corresponding non-participant | shares the kind-nature but does not perform its proper function |
-| sva-karma | proper function | characteristic operation of a Domain |
-| viṣaya-kāritra | operation with respect to an object | faculty's specific functional work |
-| sādhāraṇa | common | object available to multiple continua |
-| asādhāraṇa | non-common | faculty belonging to one Agent-continuum |
-| anyonyabhajana | mutual participation | relation among faculty, object, and knowledge |
+| sva-karma | own function | characteristic operation of a Principle |
+| viṣaya-kāritra | field-relative operation | Faculty's specific function with respect to a field |
+| sādhāraṇa | common | field available to multiple continua |
+| asādhāraṇa | non-common | Faculty belonging to one Agent-continuum |
+| anyonyabhajana | mutual participation | relation among Faculty, field, and Cognition |
 | sparśa-samāna-kāryatva | sharing contact as result | alternative explanation of their functional participation |
 | jāti-sāmānya | commonality of kind | what a non-operating member shares with operating members |
 
 ## 8. Logical Determination
 
-The internal/external partition is:
+The internal/outer classification is:
 
 ```text
-InternalDomains
-    = SixFacultySupports
-      ∪ SixKnowledgeDomains
+InternalTwelvePrinciples
+    = SixFacultyPrinciples
+      ∪ SixCognitionPrinciples
 
-ExternalDomains
-    = {Rupa, Sound, Smell, Taste, Tangible, Dharma}
+OuterSixFieldPrinciples
+    = {VisibleForm, Sound, Smell, Taste, TangibleForm, Essence}
 ```
 
 Its ground is relational:
@@ -151,8 +151,8 @@ SupportsMind(x)
 ∨ BelongsToCognitiveSide(x)
     → Internal(x)
 
-FunctionsAsCognitiveObject(x)
-    → External(x)
+FunctionsAsCognitiveField(x)
+    → Outer(x)
 
 EgoMakingRestsUpon(Mind)
     → ConventionallyFirstPersonDesignated(Mind)
@@ -164,27 +164,27 @@ Functional status is:
 PerformsProperFunction(x, Past | Present | Future)
     → Sabhaga(x)
 
-SharesDomainKind(x, y)
+SharesPrincipleKind(x, y)
 ∧ ¬PerformsProperFunction(x)
     → Tatsabhaga(x)
 ```
 
-The Dharma-domain is exceptional:
+The Essence Principle is exceptional:
 
 ```text
-ForEvery(dharma x)
-    EventuallyObjectOfMentalKnowledge(x)
+ForEvery(Essence x)
+    EventuallyAvailableToMentalCognitionAsField(x)
 
 Therefore:
-    AlwaysSabhaga(DharmaDhatu)
+    AlwaysSabhaga(EssencePrinciple)
 ```
 
 Functional participation has a triadic structure:
 
 ```text
 Faculty
-    + Object
-    + Knowledge
+    + Field
+    + Cognition
         → MutualFunctionalParticipation
         → Contact
 ```
@@ -192,41 +192,40 @@ Faculty
 The decisive distinction is:
 
 ```text
-DomainKind(x)
+PrincipleKind(x)
     ≠ FunctionalParticipation(x)
 ```
 
 ## 9. Interpretive Note
 
 VAK 1.39 determines the Agent's internal side. This is not a spatial interior
-hidden behind the body. It is the relational side of supports and knowledges
-ordered around mind. The six object-Domains are external because they stand
-in object-function.
+hidden behind the body. It is the relational side of Faculty and Cognition
+Principles ordered around Mind. The six outer field Principles are classified
+as outer by their field-function, not by spatial distance.
 
 The Bhāṣya's use of `ahaṃkāra` is exact and limited:
 
 ```text
-ego-making rests upon mind
-    → mind receives a conventional first-person designation
+ego-making rests upon Mind
+    → Mind receives a conventional first-person designation
 ```
 
 The opening warning is accepted and left behind. The positive scientific
-result identifies mind as the support upon which ego-making and conventional
+result identifies Mind as the support upon which ego-making and conventional
 first-person designation operate. This may later be important for our
 Sāṃkhya comparison, but Buddhist `citta` and Sāṃkhya `ahaṃkāra` retain their
 distinct systematic positions.
 
-The stronger contribution is `sabhāga`. A Domain is functionally
-participating through its proper operation, and that operation is not an
-isolated act. Faculty, object, and knowledge mutually participate and share
-contact as their result. The Agent is therefore constituted through an
-operative relation rather than by an internal subject facing an external
-thing.
+The stronger contribution is `sabhāga`. A Principle functionally
+participates through its own operation; that operation is not an isolated
+act. Faculty, field, and Cognition mutually participate and share contact
+as their result. The Agent is therefore constituted through an operative
+relation, not by a fixed subject opposed to a field.
 
 `Tat-sabhāga` preserves the difference between lineage and actuality:
 
 ```text
-same Domain-kind
+same Principle-kind
     + no proper functional participation
         → corresponding non-participant
 ```
@@ -239,14 +238,25 @@ manifestation.
 For the Agent-side Kośa science, the emerging structure is:
 
 ```text
-Domain lineage
+Principle lineage
     → capacity
     → possible or actual participation
     → coordinated contact-event
 ```
 
-No claim about the implementation of Kernel Logic or Agent Logic is needed.
-The Kośa is determining the Agent's functional science at its own level.
+The project takes **Pure:Impure** as a root dyad and treats logogenesis as
+movement from dyad to dyad. Here, `sabhāga:tat-sabhāga` makes a further
+functional distinction: participation in an own operation versus
+same-kind membership without that participation.
+
+In the Organon projection hypothesis, the Mahābhūtas form a Projection
+System: field determinations can be projected without a backing store being
+required by default. The Bhāṣya's sharedness-by-possibility discussion
+offers a local point of contact: a Form-field can be available across
+multiple continuities while each Faculty remains continuum-specific.
+**Persist** is the project's term for lodging in a field. These are
+Organon determinations; the Bhāṣya itself does not state a projection
+system, a backing-store rule, or the term `Persist`.
 
 ## 10. OWL++ Seed
 
@@ -261,35 +271,43 @@ vak:VAK_1_39
     vak:hasTopic vak:InteriorityAndFunctionalParticipation ;
     vak:belongsTo vak:Dhatunirdesa .
 
-vak:InternalTwelveDomains
-    a vak:DomainSet ;
-    vak:hasMemberSet vak:SixFacultySupports,
-        vak:SixKnowledgeDomains .
+vak:InternalTwelvePrinciples
+    a vak:PrincipleSet ;
+    vak:hasMemberSet vak:SixFacultyPrinciples,
+        vak:SixCognitionPrinciples .
 
-vak:ExternalSixDomains
-    a vak:DomainSet ;
-    vak:hasMember vak:RupaDhatu,
-        vak:SoundDhatu,
-        vak:SmellDhatu,
-        vak:TasteDhatu,
-        vak:SprastavyaDhatu,
-        vak:DharmaDhatu .
+vak:OuterSixFieldPrinciples
+    a vak:PrincipleSet ;
+    vak:hasMember vak:VisibleFormPrinciple,
+        vak:SoundPrinciple,
+        vak:SmellPrinciple,
+        vak:TastePrinciple,
+        vak:TangibleFormPrinciple,
+        vak:EssencePrinciple .
 
-vak:DharmaDhatu
+vak:EssencePrinciple
     vak:necessarilyHasFunctionalStatus vak:Sabhaga .
 
 vak:Sabhaga
     a vak:FunctionalParticipationStatus ;
-    vak:performs vak:ProperDomainFunction .
+    vak:performs vak:ProperPrincipleFunction .
 
 vak:Tatsabhaga
-    a vak:DomainKindMembership ;
+    a vak:PrincipleKindMembership ;
     vak:sharesKindWith vak:Sabhaga ;
-    vak:doesNotPerform vak:ProperDomainFunction .
+    vak:doesNotPerform vak:ProperPrincipleFunction .
+
+organon:MahabhutaProjectionSystem
+    a vak:ProjectionSystem ;
+    organon:requiresBackingStoreByDefault false .
+
+organon:Persist
+    a vak:FieldLodgingRelation ;
+    organon:relatesToField vak:OuterSixFieldPrinciples .
 
 organon:AgentFunctionalScience
     a vak:AgentSideModel ;
-    organon:distinguishes vak:DomainLineage,
+    organon:distinguishes vak:PrincipleLineage,
         vak:Capacity,
         vak:FunctionalParticipation .
 ```

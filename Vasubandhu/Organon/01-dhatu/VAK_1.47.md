@@ -29,19 +29,19 @@ aniyataṃ manaḥ      → aniyatam manaḥ
 | Form | Morphology | Lexical force here |
 |---|---|---|
 | tathā | indeclinable adverb | likewise; the ear follows the eye-rule of 1.46 |
-| śrotram | nominative neuter singular | ear-faculty / ear-Domain |
+| śrotram | nominative neuter singular | Ear Faculty Principle |
 | trayāṇām | genitive masculine plural | of the three: nose, tongue, and body faculties |
 | tu | contrastive particle | but; marks a different rule for the remaining three senses |
-| sarvam | nominative neuter singular | everything: faculty, object, and knowledge |
+| sarvam | nominative neuter singular | all three components: Faculty, field, and Cognition |
 | eva | restrictive-emphatic particle | precisely; only |
 | svabhūmikam | nominative neuter singular | belonging to its own plane |
-| kāyavijñānam | nominative neuter singular compound | body-knowledge; tactile knowledge |
+| kāyavijñānam | nominative neuter singular compound | Body-Cognition Principle |
 | adhara-sva-bhūmi | compound predicate | belonging to a lower plane or its own plane |
 | aniyatam | nominative neuter singular adjective | not fixed to one plane-relation |
-| manaḥ | nominative neuter singular | mind / mind-Domain |
+| manaḥ | nominative neuter singular | Mind Principle |
 
-`Sarvam` is distributive over the triads belonging to the three faculties.
-The Bhāṣya identifies the included terms as faculty, object, and knowledge.
+`Sarvam` is distributive over the Nose, Tongue, and Body triads. The Bhāṣya
+identifies their three components as Faculty, field, and Cognition.
 
 ## 4. Grammar
 
@@ -49,14 +49,14 @@ The Bhāṣya identifies the included terms as faculty, object, and knowledge.
 from 1.46:
 
 ```text
-ear is not lower than body
-sound is not higher than ear
-auditory knowledge is not higher than ear
+the Ear Principle is not lower than the Body Principle
+the sound field is not higher than the Ear Principle
+Ear-Cognition is not higher than the Ear Principle
 ```
 
-The remaining relations also carry over: sound may be higher, lower, or equal
-relative to auditory knowledge; both sound and auditory knowledge may bear
-any of these relations to the body.
+The remaining relations also carry over: the sound field may be higher, lower,
+or on the same plane as Ear-Cognition; both may bear any of these relations to
+the Body Principle.
 
 The contrastive `tu` introduces a general rule (`utsarga`) for the three
 contact faculties:
@@ -69,58 +69,58 @@ trayāṇām tu sarvam eva svabhūmikam
 The Bhāṣya distributes this over:
 
 ```text
-nose + smell + olfactory knowledge
-tongue + taste + gustatory knowledge
-body + tangible object + body-knowledge
+Nose Faculty + smell field + Nose-Cognition
+Tongue Faculty + taste field + Tongue-Cognition
+Body Faculty + tangible Form field + Body-Cognition
 ```
 
-The next phrase introduces an exception (`apavāda`) to the third triad. Body
-and tangible object remain own-plane, but:
+The next phrase qualifies the third triad. The Body Faculty and tangible Form
+field remain on the being's own plane, but:
 
 ```text
 kāyavijñānam adhara-sva-bhūmi
-    body-knowledge belongs to a lower plane or its own plane
+    Body-Cognition belongs to a lower plane or its own plane
 ```
 
 Finally, `aniyataṃ manaḥ` is an independent nominal clause. The Bhāṣya defines
-“not fixed” relationally: mind may be on the same, a higher, or a lower plane
-relative to body, mental knowledge, and Dharma-Domains.
+“not fixed” relationally: Mind may be on the same, a higher, or a lower plane
+relative to the Body Principle, Mind-Cognition, and Essence Principles.
 
 ## 5. Translation
 
 ### Close syntactic construe
 
-> Likewise the ear. But for the three, everything belongs precisely to its own plane. Body-knowledge belongs to a lower plane or its own plane. Mind is not fixed.
+> Likewise the Ear. For the three, all belong precisely to their own plane. Body-Cognition belongs to a lower plane or its own plane. Mind is not fixed.
 
 ### Bhāṣya-informed translation
 
-> The ear, sound, and auditory knowledge follow the same plane-relations as the eye, visible form, and visual knowledge. For nose, tongue, and body, the faculty, object, and knowledge normally belong to the same plane. Body-knowledge is the exception: it may belong either to the being's own plane or to a lower one, although body and tangible object remain own-plane. Mind has no single fixed plane-relation; it may be on the same, a higher, or a lower plane.
+> The Ear Principle, sound field, and Ear-Cognition follow the same plane-relations as the Eye Principle, visible Form field, and Eye-Cognition. For Nose, Tongue, and Body, each Faculty, field, and Cognition belongs to its own plane. Body-Cognition is qualified: it may belong either to the being's own plane or to a lower one, although the Body Faculty and tangible Form field remain on the own plane. Mind has no single fixed plane-relation; it may be on the same, a higher, or a lower plane relative to the Body Principle, Mind-Cognition, and Essence Principles.
 
 ## 6. Philosophical Translation
 
-> The sensory system does not impose one invariant relation upon every mode of knowledge. Vision and hearing can coordinate across planes under the faculty's limit. Smell, taste, and touch normally require identity of plane because their operation is by contact. Even here knowledge is not reducible to its bodily pair: tactile knowledge may operate from below the plane of the body and tangible object. Mind is still more mobile, since its plane-relation varies with embodiment, rebirth, and meditative attainment.
+> The plane rules are not identical for every Faculty-Cognition relation. Eye and Ear share the bounded relations stated in 1.46. Nose, Tongue, and Body are generally own-plane triads; Body-Cognition alone may be on a lower plane while its Faculty and tangible Form field remain on the being's own plane. Mind's plane-relation may be same, higher, or lower, with the Bhāṣya pointing to meditative attainment and rebirth as contexts for that variation.
 
-Organon rendering:
+Organon reading:
 
-> The System of Knowledge differentiates its powers by their admissible range. A Domain carries not merely a name but an operating condition: distant sensory disclosure, contact-bound disclosure, exceptional lower-plane knowledge, or variable mental reach. The system thereby specifies how the Rational Agent can know under different conditions without pretending to derive the categories of knowing from a Science of Logic.
+> The verse classifies plane-relations among differentiated Principles, Faculties, and fields. In the project's Principle Pipeline reading, these secondary Principles remain Principles because they arise within and stand on the recursive Principle structure; that does not make every Cognition the Pure Principle itself. Mind's variable plane-relation is still a conditioned rule, not freedom from the Principle system.
 
 ## 7. Technical Vocabulary
 
 | Sanskrit | Project rendering | Determination |
 |---|---|---|
-| śrotra | ear / ear-Domain | governed by the plane-relations already stated for the eye |
+| śrotra | Ear Faculty Principle | governed by the plane-relations already stated for the Eye |
 | trayāṇām | of the three | nose, tongue, and body faculties |
-| ghrāṇa | nose / olfactory Domain | contact faculty normally restricted to its own plane |
-| jihvā | tongue / gustatory Domain | contact faculty normally restricted to its own plane |
-| kāyadhātu | body-Domain | tactile faculty; always own-plane in this discussion |
-| spraṣṭavya | tangible object-Domain | tactile object; always own-plane here |
-| kāyavijñāna | body-knowledge Domain | own-plane or lower-plane tactile knowledge |
-| svabhūmika | belonging to its own plane | identity between operative plane and the relevant being's plane |
-| adharabhūmika | belonging to a lower plane | the exceptional range of body-knowledge |
-| aniyata | not fixed by plane | permits same-, higher-, or lower-plane relation |
-| manas | mind / mind-Domain | variable in plane according to the operative situation |
-| utsarga | general rule | the initial own-plane classification |
-| apavāda | exception | the qualification concerning body-knowledge |
+| ghrāṇa | Nose Faculty Principle | in the own-plane Nose-Cognition triad |
+| jihvā | Tongue Faculty Principle | in the own-plane Tongue-Cognition triad |
+| kāyadhātu | Body Faculty Principle | own-plane in this discussion |
+| spraṣṭavya | tangible Form field | own-plane in this discussion |
+| kāyavijñāna | Body-Cognition Principle | own-plane or lower-plane |
+| svabhūmika | belonging to its own plane | the same plane as the relevant being or triad |
+| adhara-sva-bhūmi | lower-plane or own-plane | the two permitted planes for Body-Cognition |
+| aniyata | not fixed to one plane-relation | permits same-, higher-, or lower-plane relations |
+| manas | Mind Principle | variable in plane-relation, but not unconditioned |
+| utsarga | general rule | the own-plane classification for the three triads |
+| apavāda | qualification | the lower-or-own-plane range of Body-Cognition |
 | samāpatti | meditative attainment | one context of cross-plane mental operation |
 | upapatti | rebirth / arising | another context of cross-plane operation |
 
@@ -129,27 +129,30 @@ Organon rendering:
 The auditory rule imports the structure of 1.46:
 
 ```text
-Plane(Body) ≤ Plane(Ear)
-Plane(Sound) ≤ Plane(Ear)
-Plane(AuditoryKnowledge) ≤ Plane(Ear)
+Plane(BodyPrinciple) ≤ Plane(EarPrinciple)
+Plane(SoundField) ≤ Plane(EarPrinciple)
+Plane(EarCognition) ≤ Plane(EarPrinciple)
 ```
 
 The general contact rule is:
 
 ```text
-For each S in {Smell, Taste, Touch}:
+For S in {Nose, Tongue}:
     Plane(Faculty(S))
-        = Plane(Object(S))
-        = Plane(Knowledge(S))
+        = Plane(Field(S))
+        = Plane(Cognition(S))
+        = OwnPlane
+
+Plane(BodyFaculty) = Plane(TangibleFormField) = OwnPlane
 ```
 
-The Bhāṣya then overrides only part of the touch case:
+The Bhāṣya then qualifies only the Body-Cognition term:
 
 ```text
 Plane(BodyFaculty) = OwnPlane
-Plane(TangibleObject) = OwnPlane
+Plane(TangibleFormField) = OwnPlane
 
-Plane(BodyKnowledge)
+Plane(BodyCognition)
     ∈ {OwnPlane, LowerPlane}
 ```
 
@@ -157,16 +160,16 @@ The condition is illustrated by the plane of birth:
 
 ```text
 BornIn(DesireRealm | FirstAbsorption)
-    → Plane(BodyKnowledge) = OwnPlane
+    → Plane(BodyCognition) = OwnPlane
 
 BornIn(SecondOrHigherAbsorption)
-    → Plane(BodyKnowledge) = LowerPlane
+    → Plane(BodyCognition) = LowerPlane
 ```
 
 Mind receives no single ordering constraint:
 
 ```text
-Compare(Plane(Mind), Plane(Body | MentalKnowledge | DharmaObject))
+Compare(Plane(MindPrinciple), Plane(BodyPrinciple | MindCognition | EssencePrinciples))
     ∈ {SamePlane, HigherPlane, LowerPlane}
 ```
 
@@ -179,37 +182,32 @@ aniyata
     = no invariant plane-relation
 ```
 
-This is a determination within the System of Knowledge. Its formal
-expression records the Kośa's classifications; it does not elevate those
-classifications into Logic itself.
+These are plane constraints within the verse's classification of Principles;
+they do not turn a variable relation into an unconditioned one.
 
 ## 9. Interpretive Note
 
-VAK 1.47 completes the plane-analysis begun in 1.46. It first transfers the
-visual pattern to hearing, then distinguishes the three contact senses. Nose,
-tongue, and body ordinarily require faculty, object, and knowledge to belong
-to one plane. The classification is not flat: the Bhāṣya explicitly states a
-general rule and then installs an exception.
+VAK 1.47 completes the plane analysis begun in 1.46. It first transfers the
+Eye, visible Form, and Eye-Cognition relations to hearing, then gives the
+Nose, Tongue, and Body triads an own-plane rule. The Bhāṣya qualifies that
+rule for Body-Cognition.
 
-That exception is revealing. For a being born in the Desire Realm or first
-absorption, body-knowledge is own-plane. For one born in the second or higher
-absorptions, body-knowledge is lower-plane. Body and tangible object remain
-on the being's own plane while the corresponding knowledge operates through
-a lower one. The knowledge-Domain therefore has a determination that cannot
-be read directly from the bodily faculty-object pair.
+For a being born in the Desire Realm or first absorption, Body-Cognition is
+own-plane. For one born in the second or higher absorptions, Body-Cognition is
+lower-plane. The Body Faculty and tangible Form field remain on the being's
+own plane. The Bhāṣya leaves the fuller account of Mind's plane variation to
+its later discussion of meditative attainment.
 
-`Aniyataṃ manaḥ` then gives mind a wider range, but not transcendence. “Not
-fixed” means that its plane may be equal, higher, or lower according to
-meditative attainment and rebirth. It does not mean lawless, unconditioned,
-or identical with Puruṣa or Buddhi. Vasubandhu postpones the full account to
-the Samāpattinirdeśa because it belongs to the system's later treatment of
-attainment.
+`Aniyataṃ manaḥ` means that Mind has no single fixed plane-relation: it may be
+same, higher, or lower relative to the named Principles. This does not mean
+unconditioned or unlimited Cognition; the Bhāṣya points to meditative
+attainment and rebirth but defers the full explanation.
 
-This is why the proper title for the achievement is a System of Knowledge.
-The Kośa classifies the powers, objects, and events of knowing and specifies
-their lawful ranges. It may exhibit an orderly form, and OWL++ may preserve
-that form, but the Kośa neither generates Logic's categories nor replaces the
-Organon's Kernel and Agent Logic.
+In the Organon reading, this is a differentiated system of Principles: each
+secondary Principle remains a Principle by standing within the Principle
+Pipeline, while the Pure Principle is the recursive structure itself. The
+verse's plane rules specify relations among those differentiated Principles;
+they do not identify Mind with the Pure Principle.
 
 ## 10. OWL++ Seed
 
@@ -221,34 +219,52 @@ Organon's Kernel and Agent Logic.
 vak:VAK_1_47
     a vak:Karika ;
     rdfs:label "VAK 1.47" ;
-    vak:hasTopic vak:PlaneRangesOfSensoryAndMentalDomains ;
+    vak:hasTopic vak:PlaneRelationsOfFacultiesFieldsAndCognitions ;
     vak:belongsTo vak:Dhatunirdesa .
 
-vak:EarDomain
-    vak:inheritsPlaneRuleFrom vak:EyeDomain .
+vak:EarPrinciple
+    vak:inheritsPlaneRuleFrom vak:EyePrinciple .
 
-vak:ContactSenseTriad
-    vak:hasMembers vak:NoseDomain,
-        vak:TongueDomain,
-        vak:BodyDomain ;
-    vak:hasGeneralRule vak:OwnPlaneOperation .
+vak:SoundField
+    vak:inheritsPlaneRuleFrom vak:VisibleFormField .
 
-vak:BodyDomain,
-vak:TangibleObjectDomain
+vak:EarCognition
+    vak:inheritsPlaneRuleFrom vak:EyeCognition .
+
+vak:NoseTriad
+    vak:hasMembers vak:NoseFacultyPrinciple,
+        vak:SmellField,
+        vak:NoseCognition ;
     vak:hasPlaneRelation vak:OwnPlane .
 
-vak:BodyKnowledgeDomain
+vak:TongueTriad
+    vak:hasMembers vak:TongueFacultyPrinciple,
+        vak:TasteField,
+        vak:TongueCognition ;
+    vak:hasPlaneRelation vak:OwnPlane .
+
+vak:BodyTriad
+    vak:hasMembers vak:BodyFacultyPrinciple,
+        vak:TangibleFormField,
+        vak:BodyCognition ;
+    vak:hasGeneralRule vak:OwnPlaneOperation .
+
+vak:BodyFacultyPrinciple,
+vak:TangibleFormField
+    vak:hasPlaneRelation vak:OwnPlane .
+
+vak:BodyCognition
     vak:hasPlaneRelation vak:OwnPlane,
         vak:LowerPlane ;
     vak:isExceptionTo vak:OwnPlaneOperation .
 
-vak:MindDomain
+vak:MindPrinciple
     vak:hasVariablePlaneRelation vak:SamePlane,
         vak:HigherPlane,
-        vak:LowerPlane .
+        vak:LowerPlane ;
+    rdfs:comment "Variable within the conditions described by the Bhāṣya; not unconditioned or unlimited." .
 
-organon:KosaSystemOfKnowledge
-    a organon:AgentTechne ;
-    organon:representedBy vak:DomainClassifications ;
-    organon:notIdenticalWith organon:ScienceOfLogic .
+organon:KosaPrinciplePipeline
+    rdfs:label "Kośa as the recursive Principle Pipeline" ;
+    rdfs:comment "Project interpretation: differentiated Principles remain Principles through their grounding in the Principle Pipeline; this is not the literal wording of VAK 1.47." .
 ```

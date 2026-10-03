@@ -6,14 +6,14 @@
 >
 > vijñānadhātur vijñānaṃ sāsravaṃ janmaniśrayāḥ // 1.28 //
 
-> An opening is called the space-dhātu: light and darkness, it is said.
-> The cognition-dhātu is cognition with outflows; these six are supports
-> of birth.
+> An opening is named the Space Principle—light and darkness, it is said.
+> The Cognition Principle is cognition with outflows; these [six] are
+> supports of birth.
 
-The Bhāṣya determines two members of a particular six-domain teaching.
-Its opening rejects unrestricted identification of ākāśadhātu with space
-and of vijñānadhātu with all cognition. Its closing assigns the six to
-the eighteen-dhātu arrangement.
+The Bhāṣya determines two members of a particular six-Principle teaching.
+Its opening rejects unrestricted identification of the Space Principle
+with unconditioned space and of the Cognition Principle with all cognition.
+Its closing assigns the six within the eighteen-Principle arrangement.
 
 ## 2. Continuous Sanskrit
 
@@ -36,7 +36,7 @@ the eighteen-dhātu arrangement.
 > spraṣṭavyadhātāv antarbhūtāḥ pañcamo rūpadhātau ṣaṣṭhaḥ saptasu
 > vijñānadhātuṣv iti /
 
-The unit runs from the six-domain question at printed location 018.10–11
+The unit runs from the six-Principle question at printed location 018.10–11
 through its reassignment at 018.24–25. The following question about
 visibility within the eighteen dhātus opens 1.29.
 
@@ -46,37 +46,37 @@ running text separates words. The difficult `cittasthaṃ` is retained
 without a conjectural replacement. The local HTML repeats that reading,
 so it does not supply independent confirmation of its correctness.
 
-The research report renders the phrase as form situated in mind. Here that
+The research report renders the phrase as Form situated in mind. Here that
 literal possibility is recorded but not adopted as a secure technical
 definition: its connection with the following striking/obstruction
 explanation remains unclear. The provisional translation marks the problem
-rather than attributing a new theory of mental form to the passage.
+rather than attributing a new theory of mental Form to the passage.
 
 ## 3. Continuous Conventional Translation
 
-> Of the six dhātus stated there—earth, water, fire, wind, space, and
-> cognition—the characteristics of two have not been stated. Is the
-> space-dhātu to be understood as space itself, and the cognition-dhātu as
-> all cognition? The answer is no. What, then? An opening in a door, window,
-> mouth, nose, and the like is called the space-dhātu. What should be
+> Of the six Principles stated there—earth, water, fire, wind, space, and
+> cognition—the characteristics of two have not been stated. Is the Space
+> Principle to be understood as space itself, and the Cognition Principle
+> as all cognition? The answer is no. What, then? An opening in a door, window,
+> mouth, nose, and the like is called the Space Principle. What should be
 > understood by “opening”? Light and darkness, it is said. For no opening
 > other than light and darkness is apprehended. Therefore, it is said, the
-> space-dhātu is to be understood as having light and darkness, night and
+> Space Principle is to be understood as having light and darkness, night and
 > day, as its nature.
 >
-> This is also called material form neighboring agha. Agha, it is said, is
-> [cittastha] form, because of extreme striking; this is its neighbor.
-> Others say that this is agha because other material form is not obstructed
-> there, and that it neighbors other material form.
+> This is also called Form neighboring agha. Agha, it is said, is
+> [cittastha] Form, because of extreme striking; this is its neighbor.
+> Others say that this is agha because other Form is not obstructed
+> there, and that it neighbors other Form.
 >
-> The cognition-dhātu is cognition with outflows. Why is cognition without
-> outflows not stated? Because these six dhātus are accepted as supports
+> The Cognition Principle is cognition with outflows. Why is cognition without
+> outflows not stated? Because these six Principles are accepted as supports
 > of birth. They are common to the course of birth from the rebirth-linking
-> citta through the death citta; dharmas without outflows are not so.
+> citta through the death citta; Essences without outflows are not so.
 >
-> Accordingly, the first four of these dhātus are included in the
-> tangible-domain, the fifth in the visible-form domain, and the sixth
-> in the seven cognition-domains.
+> Accordingly, the first four of these Principles are included in the
+> Tangible Principle, the fifth in the Form Principle, and the sixth
+> among the seven Cognition Principles.
 
 ## 4. Movement and Attributions
 
@@ -84,11 +84,11 @@ The passage follows the method of 1.27 by establishing the characteristics
 needed for assignment. It asks about two terms whose apparent familiarity
 could conceal a difference of scope:
 
-| Term in the sixfold list | Determination supplied | Assignment in the eighteenfold list |
+| Principle in the sixfold list | Determination supplied | Assignment among the eighteen Principles |
 |---|---|---|
-| first four elemental dhātus | already explained | tangible-domain |
-| ākāśadhātu | opening, explained as light and darkness | visible-form domain |
-| vijñānadhātu | cognition with outflows | seven cognition-domains |
+| first four elemental Principles | already explained | Tangible Principle |
+| Space Principle | opening, explained as light and darkness | Form Principle |
+| Cognition Principle | cognition with outflows | seven Cognition Principles |
 
 `Kila` repeatedly marks the received explanation of space and the first
 etymology of agha. It preserves reported status without by itself naming
@@ -105,22 +105,22 @@ is not apprehended in this account.
 
 The question `kim ākāśam eva` must be read against the earlier account
 of unconditioned space. The negative reply and the final placement in
-visible form distinguish the present ākāśadhātu from that unconditioned
+the Form Principle distinguish the present Space Principle from that unconditioned
 ākāśa. The shared name is insufficient to establish identity of the
-classified dharma.
+classified Essence.
 
 The following `rātrindivasvabhāva`, having night and day as its nature,
 is retained in the translation. It belongs to the received light/darkness
 account; the edition does not turn it into a general physical definition
 of space or a claim that empty volume is nothing but illumination.
-The positive local result is the assignment of this specified space-dhātu
-to the visible-form domain.
+The positive local result is the assignment of this specified Space
+Principle to the Form Principle.
 
 ## 6. The Uncertain Agha Derivations
 
 The first explanation treats `aghasāmantaka` as neighboring agha: the
-referent of `tasya`, its, is the agha-form just named. The source describes
-that form through the difficult `cittasthaṃ` and gives `atyarthaṃ ghātāt`,
+referent of `tasya`, its, is the agha-Form just named. The source describes
+that Form through the difficult `cittasthaṃ` and gives `atyarthaṃ ghātāt`,
 because of extreme striking, as its reason.
 
 A literal reading of `cittastha` would suggest situated in mind. The
@@ -128,11 +128,11 @@ surrounding explanation does not make that interpretation secure, and
 neither local transcription resolves the difficulty. The Sanskrit is
 therefore preserved and the English left visibly incomplete at that word.
 The unresolved term is a philological question, not evidence for identifying
-this material domain with a mental projection.
+this Form with a mental projection.
 
-The second account gives two predicates to the aperture-form itself: agha
-through the non-obstruction of other form there, and neighboring with
-respect to other form. Its wording differs from the first account's
+The second account gives two predicates to the aperture-Form itself: agha
+through the non-obstruction of other Form there, and neighboring with
+respect to other Form. Its wording differs from the first account's
 neighboring of something separately called agha. The edition retains both
 explanations without forcing their etymologies into one reconstructed
 meaning or assigning either a final victory.
@@ -144,45 +144,54 @@ sixfold teaching. The following question explicitly asks why the anāsrava
 case is not included. The answer invokes the role of all six.
 
 `Janmaniśrayāḥ` is plural and resumes `ime ṣaḍ dhātavaḥ`, these six
-dhātus. It cannot be translated as a predicate belonging only to the
-cognition-dhātu. The prose's span from `pratisandhicitta` to `cyuticitta`
+Principles. It cannot be translated as a predicate belonging only to the
+Cognition Principle. The prose's span from `pratisandhicitta` to `cyuticitta`
 expands the scope beyond the single initial moment of birth to the course
 of the life so constituted.
 
-The statement that anāsrava dharmas are “not so” gives the relevant
+The statement that anāsrava Essences are “not so” gives the relevant
 functional difference. It does not equate anāsrava with unconditioned:
 the conditioned Path was already classified as anāsrava. Nor does it
-exclude anāsrava cognition from the vijñāna aggregate in general. The
+exclude anāsrava cognition from the Cognition Base in general. The
 restriction concerns the member of this birth-support list.
 
-The final inclusion in seven cognition-domains recalls 1.16–1.17: six
-vijñāna-domains and manodhātu. The sāsrava member is assigned across those
-positions as applicable, rather than declared identical in extension with
-all cognition contained in every one of the seven.
+The final inclusion among seven Cognition Principles recalls 1.16–1.17:
+the six Cognition Principles and the Mind Principle. The sāsrava member is
+assigned across those positions as applicable, rather than declared
+identical in extension with all cognition contained in every one of the
+seven.
 
 ## 8. The Bhāṣya's Decisions for the Kārikā
 
-1. The verse defines members of a particular six-domain teaching; its
+1. The verse defines members of a particular six-Principle teaching; its
    terms cannot be given unrestricted meanings from their names alone.
-2. Ākāśadhātu is the specified opening, assigned to visible form rather
-   than unconditioned space.
+2. Ākāśadhātu is the specified opening, assigned to the Form Principle
+   rather than unconditioned space.
 3. The reportive `kila` and alternative `apare` must remain visible.
 4. The agha passage has an unresolved local reading, which is not converted
-   into a secure doctrine of form situated in mind.
+   into a secure doctrine of Form situated in mind.
 5. Vijñānadhātu here is restricted to sāsrava cognition.
 6. All six are the supports of birth, with the prose extending from
    rebirth-linking through death citta.
 7. The concluding four/one/one assignment places the six within the
-   tangible, visible-form, and seven cognition-domains.
+   Tangible Principle, the Form Principle, and the seven Cognition
+   Principles.
 
 ## 9. Philosophical and Organon Study
 
-This passage returns directly to our example of space. A term can indicate
-a domain only when its particular determination and function are established.
-Here “space” enters a birth-support classification through an aperture
-account, while the earlier unconditioned space retains a different placement.
-The task is to articulate that difference rather than infer identity from
-the shared word.
+This passage returns directly to our example of space. A Principle is not
+merely an inventory label or bin. It determines a characteristic,
+discriminates that determination from the others, and keeps the Principles
+apart. It also encloses the science of the derivatives proper to it: the
+relations and distinctions that follow from that Principle.
+
+The sixfold teaching and the eighteen-Principle arrangement show this
+classifying operation. The Bhāṣya does not make six new entries beside the
+eighteen. It determines the scope of each member, then maps the first four
+to the Tangible Principle, the conditioned opening to the Form Principle,
+and cognition with outflows among the seven Cognition Principles. The
+cross-mapping preserves distinctions while showing how the derivatives of
+each Principle are ordered; it is not a flat list or a set of synonyms.
 
 The cognition case adds another requirement: a familiar category can be
 restricted by the purpose of a particular teaching. The relevant scope is
@@ -190,18 +199,23 @@ sāsrava cognition because the six are being considered as supports of
 birth. Constitutive status, range, and function work together in the
 classification.
 
-For the Organon reconstruction, these distinctions make our question about
-paramārtha and manifestation more exact. They require identifying which
-space, which cognition, and which domain relation is being asserted before
-connecting them to that larger inquiry. The present sixfold teaching does
-not itself classify the aperture account as the manifestation of an
-unconditioned principle.
+For the Organon, the Essence Base is a real, operative structure on the
+Other Side, not merely a label for a classification. It is where relations
+among the Principles can be held as determinate structure, so their
+derivatives remain intelligible without collapsing into one another. This
+passage makes the question of paramārtha and manifestation more exact:
+identify which space, which cognition, and which Principle-relation is
+asserted before connecting them to that larger inquiry. The Bhāṣya does not
+itself classify the aperture as the manifestation of an unconditioned
+Principle, nor does it describe the Essence Base in these terms.
 
 For learning, the passage exemplifies a correction of seemingly obvious
 identifications. Understanding develops here through testing familiar names
 against the function of the list and the stated characteristics of its
 members. The resulting discrimination is concrete even while one difficult
-source word remains unresolved.
+source word remains unresolved. The Essence Base may be the architectural
+home for a FactStore, but that remains a design direction to test, not a
+claim made by this Bhāṣya.
 
 ## 10. Review Status
 

@@ -1,4 +1,4 @@
-# VAK_1.40
+# VAK_1.40 — Path Status and Modes of Abandonment
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -15,8 +15,7 @@
 ## 3. Lexical Analysis
 
 ```text
-bhāvanayā heyāḥ       → bhāvanayā heyāḥ
-pañca cāntyāḥ         → pañca ca antyāḥ
+pañca cāntyās trayaḥ  → pañca ca antyāḥ trayaḥ
 trayas tridhā         → trayaḥ tridhā
 dṛṣṭiheyam            → dṛṣṭi-heyam
 akliṣṭam              → a-kliṣṭam
@@ -25,255 +24,180 @@ nāpy aṣaṣṭhajam       → na api a-ṣaṣṭha-jam
 
 | Form | Morphology | Lexical force here |
 |---|---|---|
-| daśa | numeral | the ten material Domains |
-| bhāvanayā | instrumental feminine singular | through cultivation or repeated development |
-| heyāḥ | nominative masculine plural gerundive | to be abandoned or relinquished in their contaminated mode |
-| pañca | numeral | the five sensory knowledge-Domains |
-| antyāḥ trayaḥ | nominative masculine plural | mind-, Dharma-, and mental-knowledge Domains |
-| tridhā | adverb | in three modes of abandonability |
+| daśa | numeral | ten Form Principles, specified by the Bhāṣya as *rūpiṇaḥ* |
+| bhāvanayā | instrumental feminine singular | through cultivation or development |
+| heyāḥ | nominative masculine plural gerundive | to be abandoned or relinquished |
+| pañca ca | numeral and particle | and five more: the sensory Cognition Principles |
+| antyāḥ trayaḥ | nominative masculine plural | the final three Principles in recitation order |
+| tridhā | adverb | threefold, in three path-statuses |
 | dṛṣṭi-heya | neuter singular predicate | to be abandoned by seeing |
-| a-kliṣṭam | nominative/accusative neuter singular | undefiled, unafflicted |
-| rūpam | nominative/accusative neuter singular | material form |
-| a-ṣaṣṭha-jam | nominative/accusative neuter singular compound | not born from the sixth Sphere, the mental Sphere |
+| a-kliṣṭam | nominative/accusative neuter singular | unafflicted; distinct here from *anāsrava*, pure |
+| rūpam | nominative/accusative neuter singular | Form |
+| a-ṣaṣṭha-jam | nominative/accusative neuter singular compound | not born from the sixth, the Mind Essence Base |
 
-The Bhāṣya commonly uses `darśanaheya` for the Kārikā's `dṛṣṭiheya`.
-Both designate the technical category abandoned through seeing the truths.
+The Bhāṣya uses *darśanaheya* for the Kārikā's *dṛṣṭiheya*. Both name
+the path-status of what is abandoned through seeing the truths.
 
-## 4. Grammar
+## 4. Grammar and Classification
 
-The first line supplies three path-statuses across the eighteen Domains.
-The ten material Domains and five sensory knowledge-Domains are assigned to
-`bhāvanāheya`:
+The first line is elliptical. The Bhāṣya supplies the referents:
 
 ```text
-ten material Domains
-+ five sensory knowledge-Domains
-    → to be abandoned through cultivation
+ten Form Principles
++ five sensory Cognition Principles
+    → abandoned through cultivation
 ```
 
-This does not mean that matter, faculty, or sensory knowledge is annihilated
-as a Domain-kind. The Bhāṣya concerns their contaminated occurrences and
-operation.
-
-The final three are threefold:
+The ten Form Principles comprise five Faculties and five field Principles:
 
 ```text
-mind-domain
-Dharma-domain
-mental-knowledge Domain
-    → dṛṣṭiheya
-    ∨ bhāvanāheya
-    ∨ aheya
+Faculty Principles:
+    Eye, Ear, Nose, Tongue, Body
+
+field Principles:
+    visible Form, Sound, smell, taste, tangible Form
 ```
 
-The Bhāṣya identifies the three groups precisely:
+The five Cognition Principles are sensory: visual, auditory, olfactory,
+gustatory, and tactile Cognition.
+
+The final three are Mind, Essence, and Mental Cognition. Each admits the
+three path-statuses made explicit in the Bhāṣya:
 
 ```text
-eighty-eight latent afflictions,
-their co-arisen factors,
+88 latent afflictions,
+their co-arisen Essences,
 their acquisitions,
 and their attendants
     → abandoned by seeing
 
-remaining outflow-bound dharmas
-    → abandoned by cultivation
+remaining impure Essences
+    → abandoned through cultivation
 
-outflow-free dharmas
+pure Essences
     → not to be abandoned
 ```
 
-The second line gives necessary exclusions from seeing-abandonment. Nothing
-undefiled, nothing material, and nothing generated outside the sixth or
-mental Sphere is abandoned by seeing.
+The verse's negative clauses set limits on seeing-abandonment: nothing
+unafflicted, no Form, and nothing not born from the sixth is abandoned by
+seeing. The Bhāṣya identifies the sixth as the Mind Essence Base
+(*mana-āyatana*).
+
+Do not collapse *akliṣṭa* (“unafflicted”) into *anāsrava* (“pure”). The
+Bhāṣya calls ordinary-person status *akliṣṭa* and indeterminate while
+arguing that it is not abandoned by seeing. The terms mark distinct
+classifications.
 
 ## 5. Translation
 
 ### Close syntactic construe
 
-> Ten are to be abandoned through cultivation, and five also. The final three are threefold. Nothing undefiled is to be abandoned by seeing, nor material form, nor what is not born from the sixth.
+> Ten are to be abandoned through cultivation, and five also. The final three are threefold. Nothing unafflicted is to be abandoned by seeing, nor Form, nor what is not born from the sixth.
 
 ### Bhāṣya-informed translation
 
-> The contaminated modes of the ten material Domains and five sensory knowledge-Domains are relinquished through cultivation. Mind, Dharma, and mental knowledge contain three classes: afflictive factors abandoned through seeing, remaining outflow-bound factors abandoned through cultivation, and outflow-free factors that are not abandoned. Direct seeing abandons nothing undefiled, nothing material, and nothing not generated from the mental Sphere.
+> The ten Form Principles and five sensory Cognition Principles are to be abandoned through cultivation. Mind, Essence, and Mental Cognition are each threefold: the latent afflictions and their associated factors abandoned by seeing; the remaining impure Essences abandoned through cultivation; and the pure Essences that are not to be abandoned. Seeing abandons neither what is unafflicted, nor Form, nor what is not born from the Mind Essence Base.
 
-The qualification “contaminated modes” prevents the path-classification from
-being mistaken for destruction of the fifteen Domain lineages themselves.
+## 6. The Bhāṣya's Objection and Reply
 
-## 6. Philosophical Translation
+The questioner points to ordinary-person status and Body-and-Voice action
+that leads to a bad destination. These oppose the noble Path, so why are
+they not abandoned by seeing?
 
-> The Path differentiates its corrective operations according to the nature of their object. Seeing directly removes a delimited field of afflicted mental determination. Cultivation gradually relinquishes the remaining contaminated operation of embodied and sensory life. Outflow-free determination is not an object of correction. Abandonment is therefore typed transformation, not universal negation.
+The reply rejects that inference: opposition to the noble Path is not by
+itself enough to make something seeing-abandoned. Ordinary-person status is
+unafflicted and indeterminate. Body-and-Voice action belongs to Form, and
+Form is not abandoned by seeing. The Bhāṣya further explains *aṣaṣṭhajam*
+through the Mind Essence Base: what is born elsewhere, including what is
+born through the five Faculties, is not abandoned by seeing.
 
-Organon rendering:
-
-> The Principle of the Agent now receives a correction protocol. False mental determination, conditioned operational habit, and outflow-free knowing cannot be treated by one undifferentiated act. The Agent must discriminate what insight can terminate, what development must transform, and what must remain untouched. This is Kośa path-technē available for later appropriation by Yoga, not a rule imposed upon Yoga itself.
+Thus the second line does more than repeat the three path-statuses. It
+excludes whole classes from one specific operation, seeing, while leaving
+their relation to cultivation or non-abandonment to their other
+determinations.
 
 ## 7. Technical Vocabulary
 
 | Sanskrit | Project rendering | Determination |
 |---|---|---|
-| heya | to be abandoned / relinquished | path-status of a contaminated factor, not destruction of its Domain-kind |
-| dṛṣṭiheya / darśanaheya | to be abandoned by seeing | directly removed through seeing the truths |
-| bhāvanāheya | to be abandoned through cultivation | relinquished through repeated path-development |
-| aheya | not to be abandoned | status of outflow-free dharmas |
-| bhāvanā | cultivation / development | repeated transformation rather than one cognitive cut |
-| anuśaya | latent affliction | eighty-eight are assigned to seeing-abandonment |
-| sahabhū | co-arisen factor | factor arising with a latent affliction |
-| prāpti | acquisition / possession-factor | maintains possession of the relevant afflictive dharma |
-| sānucara | accompanied by attendants | extends the complex abandoned with the affliction |
-| akliṣṭa | undefiled / unafflicted | excluded from seeing-abandonment |
-| pṛthagjanatva | ordinary-person status | undefiled-indeterminate test case, though incompatible with the noble Path |
-| āryamārgavirodhitva | opposition to the noble Path | insufficient by itself to determine seeing-abandonment |
-| aṣaṣṭhaja | not born from the sixth | generated outside the mental Sphere and therefore not seeing-abandonable |
-| mana-āyatana | mental Sphere | the sixth Sphere intended by the Kārikā |
+| *heya* | to be abandoned / relinquished | path-status, not a claim that the Principle-system is erased |
+| *dṛṣṭiheya* / *darśanaheya* | abandoned by seeing | directly relinquished through seeing the truths |
+| *bhāvanāheya* | abandoned through cultivation | relinquished through path-development |
+| *aheya* | not to be abandoned | the Bhāṣya assigns this status to pure Essences |
+| *bhāvanā* | cultivation / development | path-operation distinct from seeing |
+| *anuśaya* | latent affliction | eighty-eight are assigned to seeing-abandonment |
+| *sahabhū* | co-arisen factor | arises together with a latent affliction |
+| *prāpti* | acquisition | included with the seeing-abandoned complex |
+| *sānucara* | accompanied by attendants | extends the complex abandoned with the affliction |
+| *akliṣṭa* | unafflicted | a separate predicate; not interchangeable with pure |
+| *sāsrava* | impure | the Bhāṣya assigns remaining instances to cultivation |
+| *anāsrava* | pure | the Bhāṣya assigns these to non-abandonment |
+| *aṣaṣṭhaja* | not born from the sixth | not born from the Mind Essence Base |
+| *mana-āyatana* | Mind Essence Base | the sixth, as identified in the Bhāṣya |
 
 ## 8. Logical Determination
 
-The path-status partition is:
-
 ```text
-ContaminatedInstanceOf(TenMaterialDomains)
-    → Bhavanaheya
+TenFormPrinciples
+    → Bhāvanāheya
 
-ContaminatedInstanceOf(FiveSensoryKnowledgeDomains)
-    → Bhavanaheya
+FiveSensoryCognitionPrinciples
+    → Bhāvanāheya
 
-InstanceOf(FinalMentalDharmaTriad)
-    → Drstiheya
-    ∨ Bhavanaheya
-    ∨ Aheya
+{MindPrinciple, EssencePrinciple, MentalCognitionPrinciple}
+    → {Darśanaheya, Bhāvanāheya, Aheya}
 ```
 
-The exact classes are:
+The Bhāṣya refines the final three:
 
 ```text
-EightyEightAnusayas
-∪ CoarisenFactors
-∪ Acquisitions
-∪ Attendants
-    → Drstiheya
+Impure:
+    latent afflictions + co-arisen Essences + acquisitions + attendants
+        → Darśanaheya
 
-RemainingSasravaDharmas
-    → Bhavanaheya
+    remaining Essences
+        → Bhāvanāheya
 
-AnasravaDharmas
+Pure:
     → Aheya
 ```
 
-The negative rule is:
+The exclusions and rejected inference are:
 
 ```text
-Aklishta(x)
-∨ Material(x)
-∨ NotBornFromMentalSphere(x)
-    → ¬Drstiheya(x)
-```
+Unafflicted(x)
+∨ Form(x)
+∨ NotBornFromMindEssenceBase(x)
+    → ¬Darśanaheya(x)
 
-Mere opposition is insufficient:
-
-```text
 OpposesNoblePath(x)
-    ↛ Drstiheya(x)
+    ↛ Darśanaheya(x)
 ```
 
-The operations must not be collapsed:
+## 9. Philosophical and Organon Reading
 
-```text
-SeeingAbandonment
-    ≠ CultivationAbandonment
-    ≠ NonAbandonment
-```
+VAK 1.39 established the distinction between a Principle's kind and its
+functional participation. VAK 1.40 adds path-status: the relevant
+determinations are now sorted by whether seeing relinquishes them,
+cultivation relinquishes them, or they are not to be abandoned. This is
+not a single undifferentiated negation of the system.
 
-Nor may the status of an occurrence be transferred to the entire lineage:
+Within the project's logogenetic account, Pure:Impure is the root dyad.
+The Bhāṣya's assignments give impure determinations two different path
+relations—seeing and cultivation—while pure Essences are not abandoned.
+This advances the account dyad to dyad without collapsing the verse's
+three path-statuses into a single pair. The separate *akliṣṭa* exclusion
+also remains visible: “unafflicted” is not simply a synonym for “pure.”
 
-```text
-Bhavanaheya(ContaminatedInstanceOfDomain)
-    ↛ Abolish(DomainKind)
-```
+The ten Form Principles are classified by path-operation, not as a claim
+that Form must be a stored substrate. The Mahābhūta Projection System
+requires no backing store by default; Persist names lodging in a field.
+Those are Organon commitments for interpreting the architecture, not
+claims made by this verse. Here they let us ask how Form determinations
+are relinquished through cultivation without turning the field into a
+thing that must be retained underneath its operation.
 
-## 9. Interpretive Note
-
-VAK 1.40 is the threshold at which the descriptive science of Domains
-becomes explicitly path-directed. The established Domains are now queried
-according to the mode by which their contaminated determinations cease.
-
-The principal safeguard is that seeing is selective. It does not abolish
-embodiment, sensory capacity, ordinary-person status merely because it is
-incompatible with the noble Path, or everything opposed to liberation. Its
-direct field is the afflicted mental complex rooted in the sixth Sphere.
-
-Cultivation performs different work. Material and sensory operations are
-conditioned capacities and habits. Their contaminated modes are relinquished
-through development rather than destroyed by insight:
-
-```text
-seeing
-    → direct termination of afflicted mental determination
-
-cultivation
-    → developmental transformation of remaining contamination
-
-outflow-free status
-    → no abandonment
-```
-
-This extends the distinction between Domain lineage and functional status
-from 1.39. The path does not delete the lineage because one of its modes is
-contaminated. It transforms or terminates the relevant occurrence according
-to its type.
-
-For the Principle of the Agent, this yields a precise correction science:
-
-```text
-Agent determination
-    → classify its path-status
-    → apply the corresponding mode of correction
-```
-
-The future Organon Vārttika may find this highly useful, but we should not
-overlay Kośa technē upon Yoga. The positive textual result is Abhidharma's
-own: different kinds of contamination require different kinds of
-abandonment, and outflow-free dharmas are not abandoned.
-
-This also keeps the comparison with Yoga answerable. Yoga may appropriate,
-translate, or reject aspects of this correction schema from its own higher
-principles. The Kośa supplies a potent Agent-side technē; it does not decide
-the metaphysics or final method of our Yoga.
-
-## 10. OWL++ Seed
-
-```ttl
-@prefix vak: <http://127.0.0.1:3000/vak#> .
-@prefix organon: <http://127.0.0.1:3000/organon#> .
-@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
-
-vak:VAK_1_40
-    a vak:Karika ;
-    rdfs:label "VAK 1.40" ;
-    vak:hasTopic vak:PathStatusOfDomains ;
-    vak:belongsTo vak:Dhatunirdesa .
-
-vak:Drstiheya
-    a vak:PathStatus ;
-    vak:appliesTo vak:EightyEightAnusayas,
-        vak:AfflictionAssociatedComplex .
-
-vak:Bhavanaheya
-    a vak:PathStatus ;
-    vak:appliesTo vak:RemainingSasravaDharmas .
-
-vak:Aheya
-    a vak:PathStatus ;
-    vak:appliesTo vak:AnasravaDharmas .
-
-vak:SeeingAbandonment
-    vak:distinctFrom vak:CultivationAbandonment .
-
-vak:DomainLineage
-    vak:notAbolishedBy vak:AbandonmentOfContaminatedInstance .
-
-organon:AgentCorrectionScience
-    a vak:AgentSideModel ;
-    organon:distinguishes vak:DirectSeeingCorrection,
-        vak:CultivationalTransformation,
-        vak:NonAbandonment .
-```
+The source-grounded result is narrower and firm: the path-status of a
+Principle is not determined merely by whether it opposes the noble Path;
+the mode of relinquishment matters. Yoga may later appropriate, transform,
+or reject this Kośa path-logic on its own terms.

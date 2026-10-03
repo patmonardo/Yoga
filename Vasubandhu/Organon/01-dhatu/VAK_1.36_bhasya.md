@@ -6,13 +6,15 @@
 >
 > dahyate tulayaty evaṃ vivādo dagdhṛtulyayoḥ // 1.36 //
 
-> The external tetrad of domains cuts and is cut. It is likewise burned
-> and weighs. There is dispute concerning what burns and what is weighed.
+> The outer tetrad of Principles cuts and is cut. It is likewise burned
+> and performs weighing. There is dispute concerning the burner and what
+> is weighed.
 
 The active and passive forms must remain distinct. *Dahyate*, “is
 burned,” belongs to the settled enumeration; *dagdhṛ*, “burner,” to
-the disputed pair. Likewise *tulayati*, “weighs,” and *tulya*, “what
-is weighed,” are not interchangeable. The Bhāṣya repeats those contrasts.
+the disputed pair. Likewise *tulayati*, “performs weighing,” and
+*tulya*, “what is weighed,” are not interchangeable. The Bhāṣya repeats
+those contrasts.
 
 ## 2. Continuous Sanskrit
 
@@ -51,7 +53,7 @@ is weighed,” are not interchangeable. The Bhāṣya repeats those contrasts.
 > kecidāhustejodhātureva dagdhā gurutvameva ca tulyamiti /
 
 The unit occupies printed pages 24.20–25.05 of the running Sanskrit.
-The next question, about maturation-born and other domains, is reserved
+The next question, about maturation-born and other Principles, is reserved
 for 1.37.
 
 The damaged opening *naṣṭādaśānaṃ ... kaśchīnatti kaśiciādyate* is
@@ -70,30 +72,30 @@ the displayed witness is left visible for review.
 
 ## 3. Continuous Conventional Translation
 
-Among the eighteen domains, which cuts, which is cut, which burns,
-which is burned, which weighs, and which is weighed?
+Among the eighteen Principles, which cuts, which is cut, which burns,
+which is burned, which performs weighing, and which is weighed?
 
-The external tetrad of domains cuts and is cut: the domains called
-visible form, smell, taste, and tangible, designated as an axe, wood,
-and the like.
+The outer tetrad of Principles cuts and is cut: visible Form, smell,
+taste, and tangible Form, designated as an axe, wood, and the like.
 
-What is this dharma called cutting? It is producing in divided form a
+What is the process called cutting? It is producing in divided form a
 stream of aggregates that arises in connection.
 
-The body-faculty and the other faculties are not cut, because even
+The bodily Faculty and the other Faculties are not cut, because even
 when a limb is completely severed they are not thereby made twofold.
 Faculties do not become two, since the severed limb is without the
-faculty. Nor do the faculties cut, [because of their clarity, like
+Faculty. Nor do the Faculties cut, [because of their clarity, like
 jewel-radiance].
 
-Just as the external tetrad cuts and is cut, it is likewise burned and
-weighs. That same tetrad is burned and that same tetrad weighs. The
-faculties do not, because of their clarity, like jewel-radiance; nor
-does sound, because it is discontinuous or liable to interruption.
+Just as the outer tetrad cuts and is cut, it is likewise burned and
+performs weighing. That same tetrad is burned and that same tetrad
+performs weighing. The Faculties do not, because of their clarity, like
+jewel-radiance; nor does Sound, because it is discontinuous or liable to
+interruption.
 
 There is dispute concerning what burns and what is weighed. Some say:
-that same tetrad of domains is what burns and what is weighed. Others
-say: the fire-domain alone is the burner, and heaviness alone is what
+that same tetrad of Principles is what burns and what is weighed. Others
+say: the Fire-Principle alone is the burner, and heaviness alone is what
 is weighed.
 
 “Weighs” preserves the active form *tulayati*, in contrast with being
@@ -104,10 +106,10 @@ reason; no duration or quantitative physical theory is supplied.
 ## 4. Movement and Voices of the Commentary
 
 The opening question sets out six predicates in three active/passive
-pairs. The commentary assigns cutting and being cut to the external
-tetrad, defines cutting, and explains why the faculties neither undergo
+pairs. The commentary assigns cutting and being cut to the outer
+tetrad, defines cutting, and explains why the Faculties neither undergo
 that division nor perform it. It then extends the assignment to being
-burned and weighing, excluding faculties and sound.
+burned and weighing, excluding Faculties and Sound.
 
 The remaining two predicates receive rival answers. Both are introduced
 by *kecid āhuḥ*, “some say.” The first assigns burning and being weighed
@@ -120,18 +122,17 @@ the weigher/weighed cases” broadens the dispute beyond the Sanskrit.
 The unit has already settled being burned and weighing within its
 operative account. The disputed pair is specifically burner and weighed.
 
-## 5. The External Tetrad and the Definition of Cutting
+## 5. The Outer Tetrad and the Definition of Cutting
 
-The tetrad is visible form, smell, taste, and tangible. *Bāhya*,
-“external,” identifies object-domains in the inventory; it does not
-mean that the bodily material under discussion must be outside a living
+The tetrad is visible Form, smell, taste, and tangible Form. *Bāhya*,
+“outer,” identifies the four Principles in this classification; it
+does not mean that the Form under discussion must be outside a living
 body. The subsequent limb example makes that restriction untenable.
 
-The axe and wood are ordinary designations of complexes described
-through these domains. The passage does not claim that an isolated
-smell or taste cuts independently. It attributes the operation to the
-specified material complex and gives a separate definition of its
-occurrence.
+The axe, wood, and related examples name complexes in which these
+Principles are present. The passage does not claim that smell or taste
+cuts independently. It attributes the operation to the Form-complex
+and gives a separate definition of how cutting occurs.
 
 *Saṃbandhotpādinaḥ saṃghātasrotasaḥ* is a genitive phrase: “of a stream
 of aggregates arising in connection.” *Vibhaktotpādanam* gives the
@@ -142,7 +143,7 @@ It does not require the further claim that each ultimate atom is split.
 This continues the preceding unit's concern with aggregates while
 asking a new question about their operations. It does not revive the
 research report's hierarchy in which aggregation was treated as a
-subdivision of derived matter alone.
+subdivision of Element-dependent Form alone.
 
 ## 6. Why a Severed Limb Does Not Divide a Faculty into Two
 
@@ -152,21 +153,23 @@ negative: the faculty does not become two faculties through that
 severance. The detached member is described as *nirindriya*, without
 the faculty.
 
-This distinguishes the material faculty from the bodily aggregate
-that can be divided. It does not assert that a faculty survives every
-injury, cannot cease, or is an immaterial seer. The previous unit
-explicitly classified the faculties as derived matter and as aggregated.
-The present account concerns what counts as cutting them.
+This distinguishes bodily division from the Faculty's classification:
+severance does not produce two Faculties, and the separated Form is
+described as without the Faculty. It does not assert that a Faculty
+survives every injury, cannot cease, or is a self-subsisting observer.
+The previous unit classified Faculties as Element-dependent Form and as
+atomically aggregated. The present account concerns what counts as
+cutting them.
 
 The jewel-radiance analogy supplies a different reason for why they
 do not cut. The secure later clause gives *acchatva*, clarity or
 transparency. That supports the provisional reading of the damaged
 first clause, but it does not make the analogy a general declaration
-that faculties are non-resistant. They were classified among the ten
-resistant material domains in 1.29. A property invoked to exclude
+that Faculties lack resistance. They were classified among the ten
+Form-Principles with resistance in 1.29. A property invoked to exclude
 cutting cannot silently overturn that earlier technical determination.
 
-The text likewise excludes faculties from the following burning and
+The text likewise excludes Faculties from the following burning and
 weighing assignment. Its account should be retained as the stated
 Abhidharma analysis rather than rewritten as a modern anatomical or
 experimental claim.
@@ -175,18 +178,19 @@ experimental claim.
 
 | Predicate | Assignment in this unit |
 | --- | --- |
-| Cuts | External tetrad |
-| Is cut | External tetrad |
-| Is burned | External tetrad |
-| Weighs | External tetrad |
-| Burns | Tetrad, according to some; fire alone, according to others |
+| Cuts | Outer tetrad of Principles |
+| Is cut | Outer tetrad of Principles |
+| Is burned | Outer tetrad of Principles |
+| Performs weighing | Outer tetrad of Principles |
+| Burns | Tetrad, according to some; Fire alone, according to others |
 | Is weighed | Tetrad, according to some; heaviness alone, according to others |
 
 The second position selects different kinds of determination for its
-two answers: fire is a primary element, while heaviness belongs to the
-derived tangibles. Thus the dispute cannot simply be described as
-“elements versus derived matter.” It concerns attribution to the
-complex or to a particular operative determination within the tangible.
+two answers: Fire is a Great Element, while heaviness is a determination
+within Element-dependent tangible Form. Thus the dispute cannot simply be
+described as “Great Elements versus Element-dependent Form.” It concerns
+attribution to the complex or to a particular operative determination
+within tangible Form.
 
 Sound is expressly excluded before this dispute, with *uccheditva* as
 the reason. Its exclusion does not imply that sound was excluded from
@@ -200,12 +204,12 @@ contrast that structures the final lines.
 
 ## 8. The Bhāṣya's Decisions for the Kārikā
 
-- The external tetrad is visible form, smell, taste, and tangible.
+- The outer tetrad is visible Form, smell, taste, and tangible Form.
 - Cutting is production in divided form within a connected
   aggregate-stream.
-- Complete bodily severance does not produce two faculties; the
-  separated member is described as without the faculty.
-- Clarity and the jewel-radiance analogy explain the faculty exclusions,
+- Complete bodily severance does not produce two Faculties; the
+  separated member is described as without the Faculty.
+- Clarity and the jewel-radiance analogy explain the Faculty exclusions,
   with the first occurrence textually damaged.
 - Being burned and weighing are assigned to the tetrad before the
   disagreement begins.
@@ -221,20 +225,21 @@ The definition of cutting makes the relation between successive
 configurations explicit: the aggregate-stream continues through
 production in divided form. For the Organon, this is a concrete example
 of explaining an operation through the relation it changes. The
-interpretation should stay anchored in that material definition rather
+interpretation should stay anchored in that processual definition rather
 than make cutting a universal model of transformation.
 
-The faculty argument adds a distinction between bodily division and
+The Faculty argument adds a distinction between bodily division and
 capacity. A divided bodily member does not thereby establish a second
-operative faculty. This helps discipline an account of the conditions
-under which cognition manifests, while leaving the faculty's material
+operative Faculty. This helps discipline an account of the conditions
+under which cognition manifests, while leaving the Faculty's Form
 classification intact.
 
 For the inquiry into learning, these are enabling distinctions rather
-than an explanation of prajñā's acquisition. The material support,
-its organization, the faculty, and the cognition occurring with that
-support require their own determinations. Their relations may matter
-to learning without making any one of them identical with understanding.
+than an explanation of prajñā's acquisition. The Form-support, its
+organization, the Faculty, and the cognition occurring with that
+support require their own determinations. Their relations may be
+relevant to learning without making any one of them identical with
+understanding.
 
 Finally, the dispute separates attribution to a complex from attribution
 to a particular determination. An Organon reconstruction can use that

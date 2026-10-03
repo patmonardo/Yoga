@@ -1,4 +1,4 @@
-# VAK_1.41
+# VAK_1.41 — Seeing, View, and Prajñā
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -26,33 +26,34 @@ atīraṇāt               → a-tīraṇāt
 
 | Form | Morphology | Lexical force here |
 |---|---|---|
-| cakṣuḥ | nominative neuter singular | eye-faculty Domain, called seeing through visual disclosure |
-| dharma-dhātoḥ | genitive masculine singular | of the Dharma-domain |
-| pradeśau | nominative masculine dual | the relevant members or portions counted as seeing/view |
-| dṛṣṭiḥ | nominative feminine singular | seeing when applied to eye; ascertainative view when applied to prajñā |
-| aṣṭadhā | adverb | in eight modes within the Dharma-domain portion |
-| pañca-vijñāna-sahajā | nominative feminine singular compound | co-arisen with the five sensory knowledges |
-| dhīḥ | nominative feminine singular | discernment; glossed by the Bhāṣya as prajñā |
-| na dṛṣṭiḥ | negative predicate | is not ascertainative view |
-| a-tīraṇāt | ablative masculine singular | because of absence of decisive ascertainment |
+| *cakṣuḥ* | nominative neuter singular | Eye Principle; called seeing through visual disclosure |
+| *dharma-dhātoḥ* | genitive masculine singular | of the Essence Principle |
+| *pradeśau* | nominative masculine dual | two portions, one of Eye and one of Essence |
+| *dṛṣṭiḥ* | nominative feminine singular | seeing or view, distinguished by its function |
+| *aṣṭadhā* | adverb | eightfold; the Bhāṣya enumerates eight kinds of view |
+| *pañca-vijñāna-sahajā* | nominative feminine singular compound | co-born with the five sensory Cognitions |
+| *dhīḥ* | nominative feminine singular | discernment; the Bhāṣya glosses it through *prajñā* |
+| *na dṛṣṭiḥ* | negative predicate | is not view |
+| *a-tīraṇāt* | ablative singular | because of non-ascertainment |
 
-The compressed first line is best resolved through the Bhāṣya: the eye
-counts as seeing, and an eightfold portion of the Dharma-domain counts as
-view. The whole Dharma-domain is not `dṛṣṭi`.
+The Bhāṣya distinguishes the two portions: the Eye Principle counts as
+seeing by disclosing visible Form; the Essence Principle portion is view
+in eight kinds. The whole Essence Principle is not thereby classified
+as view.
 
-## 4. Grammar
+## 4. Grammar and Eightfold View
 
-The term `dṛṣṭi` carries two coordinated but non-identical functions:
+The verse uses *dṛṣṭi* across two related but distinct functions:
 
 ```text
-cakṣus as dṛṣṭi
-    → visual disclosure or examination of visible form
+portion of the Eye Principle
+    → seeing as visual disclosure of visible Form
 
-Dharma-domain prajñā as dṛṣṭi
-    → attentive ascertainment of dharmas
+portion of the Essence Principle
+    → view as ascertainment, eightfold
 ```
 
-The eightfold Dharma-domain portion consists of:
+The eight kinds of view are:
 
 ```text
 five afflicted views beginning with satkāyadṛṣṭi
@@ -61,212 +62,159 @@ five afflicted views beginning with satkāyadṛṣṭi
 + adept's view
 ```
 
-Worldly right view is wholesome but still outflow-bound prajñā associated
-with mental knowledge. Trainee and adept views are outflow-free and are
-distinguished by the path-status of their bearer.
+The Bhāṣya leaves the detailed treatment of the five afflicted views to
+the later discussion of latent tendencies. It defines worldly right view
+as wholesome, impure *prajñā* associated with Mental Cognition. The
+trainee's and adept's views are pure, differentiated by their path-status.
+The remainder of the Essence Principle is not view.
 
-The second line excludes the `dhī` or prajñā arising with the five sensory
-knowledges:
+The second line excludes discernment co-born with the five sensory
+Cognitions:
 
 ```text
-pañca-vijñāna-sahajā dhīḥ
-    discernment co-arisen with sensory knowledge
-
-na dṛṣṭiḥ
-    is not ascertainative view
-
-atīraṇāt
-    because it does not decisively ascertain
+co-born sensory dhī
+    → glossed by the Bhāṣya as prajñā
+    → does not perform tīraṇa, ascertainment
+    → is not dṛṣṭi as view
 ```
 
-The Bhāṣya explains view as `santīrikā`, ascertainative, because it proceeds
-through attentive examination (`upadhyāna`). Not every prajñā therefore
-qualifies as view; the predicate follows function rather than the mere
-presence of a cognitive factor.
+This does not say that sensory Cognition is blank or has no distinction
+within its presentation. It says that the co-born discernment does not
+perform the ascertainive operation that defines view.
 
 ## 5. Translation
 
 ### Close syntactic construe
 
-> The eye and an eightfold portion of the Dharma-domain are seeing or view. The discernment co-arisen with the five sensory knowledges is not view, because it does not ascertain.
+> A portion of the Eye Principle and a portion of the Essence Principle are seeing or view; the latter is eightfold. The discernment co-born with the five sensory Cognitions is not view, because it does not ascertain.
 
 ### Bhāṣya-informed translation
 
-> The eye counts as seeing because it visually discloses forms. Eight kinds of prajñā within the Dharma-domain count as view: five afflicted views, worldly right view, the trainee's view, and the adept's view. Discernment accompanying sensory knowledge is not view because it does not attentively examine and decisively settle its object.
+> A portion of the Eye Principle counts as seeing because it discloses visible Form. A portion of the Essence Principle counts as view in eight kinds: five afflicted views, worldly right view, the trainee's view, and the adept's view. Discernment co-born with the five sensory Cognitions is not view, because it does not attentively examine and ascertain.
 
-The two English renderings “seeing” and “view” preserve the functional
-difference carried by the single Sanskrit term `dṛṣṭi`.
+“Seeing” and “view” preserve the two functions expressed by the single
+Sanskrit term *dṛṣṭi*; the translation does not force them into one
+undifferentiated operation.
 
-## 6. Philosophical Translation
+## 6. Prajñā and Ascertainment
 
-> Disclosure and ascertainment are distinct powers of seeing. The eye opens visible form without judging its truth. Sensory discernment differentiates within that presentation but does not yet settle its object. View arises only where prajñā performs attentive and decisive ascertainment within the Dharma-domain.
+The Bhāṣya's use of *prajñā* is carefully qualified. It defines worldly
+right view as *prajñā*, but not all *prajñā* is view. The *dhī* co-born
+with the five sensory Cognitions does not count as view because it lacks
+*tīraṇa*. The Bhāṣya explains *dṛṣṭi* as ascertainative (*santīrikā*),
+since it proceeds through attentive examination (*upadhyāna*).
 
-Organon rendering:
+The distinction is functional, not a dismissal of sensory cognition:
 
-> The Agent's visual capacity, sensory discrimination, and ascertainative judgment must not be collapsed. Appearance is disclosed through a faculty; differentiation accompanies knowledge; determination becomes view only through a further act that examines and settles. The Kośa technē therefore gives the Agent a graded science of seeing.
+```text
+prajñā co-born with sensory Cognition
+    → discernment without ascertainment
 
-## 7. Technical Vocabulary
+prajñā functioning as one of the specified views
+    → ascertainative view
+```
+
+The Bhāṣya further cautions that other *prajñā*, afflicted or unafflicted,
+does not qualify as view merely by being *prajñā*. Its source, path-status,
+and operation matter. The verse is not using *prajñā* as an automatic
+name for perfected or pure knowing.
+
+## 7. The Analogy and the Eye's Seeing
+
+The Bhāṣya compares seeing Essences through afflicted views, the
+unafflicted worldly view, trainee's view, and adept's view with seeing
+visible Forms under clouded or clear conditions, by night or by day. The
+comparison marks differing conditions of disclosure; it does not say that
+the Essence Principle is produced by the clarity or obscurity of a view.
+
+The Bhāṣya then asks: if the Eye does not ascertain, in what sense is it
+called seeing? Its answer is *rūpālocana*: it discloses or illuminates
+visible Form. This is not the same operation as ascertainative view.
+Whether the Eye itself sees or the Cognition dependent on it sees opens
+the next dispute, at 1.42; this study does not decide it.
+
+## 8. Technical Vocabulary
 
 | Sanskrit | Project rendering | Determination |
 |---|---|---|
-| dṛṣṭi | seeing / view | visual disclosure in the eye; ascertainative determination in the Dharma-domain |
-| pradeśa | portion / member | restricts view-status to an eightfold part of the Dharma-domain |
-| aṣṭaprakāra-dṛṣṭi | eightfold view | five afflicted views and three forms of right view |
-| satkāyadṛṣṭi | view of a real personality-complex | first of the five afflicted views; full treatment deferred |
-| laukikī samyagdṛṣṭi | worldly right view | wholesome, outflow-bound prajñā associated with mental knowledge |
-| śaikṣī dṛṣṭi | trainee's view | outflow-free view belonging to one still in training |
-| aśaikṣī dṛṣṭi | adept's view | outflow-free view belonging to one beyond training |
-| dhī | discernment | glossed here through prajñā |
-| prajñā | discriminative discernment | becomes view only when it performs ascertainment |
-| tīraṇa | ascertainment | decisive determination after examination |
-| santīrikā | ascertainative | functional characterization of view |
-| upadhyāna | attentive examination | operation through which ascertainment proceeds |
-| rūpālocana | visual disclosure or examination of form | sense in which the eye is called seeing |
+| *dṛṣṭi* | seeing / view | visual disclosure for Eye; ascertainment for the view-bearing Essences |
+| *pradeśa* | portion | limits the classification to parts of the two Principles |
+| *aṣṭadhā* | eightfold | five afflicted views and three further views |
+| *satkāyadṛṣṭi* | *satkāya* view | first of the five afflicted views; detailed treatment deferred |
+| *laukikī samyagdṛṣṭi* | worldly right view | wholesome, impure *prajñā* associated with Mental Cognition |
+| *śaikṣī dṛṣṭi* | trainee's view | pure view of one still in training |
+| *aśaikṣī dṛṣṭi* | adept's view | pure view of one beyond training |
+| *dhī* | discernment | glossed through *prajñā* in this explanation |
+| *prajñā* | discernment / wisdom | not automatically view; its function and status are specified |
+| *tīraṇa* | ascertainment | decisive determination after examination |
+| *santīrikā* | ascertainative | the functional character of view |
+| *upadhyāna* | attentive examination | operation through which ascertainment proceeds |
+| *rūpālocana* | visual disclosure | the sense in which the Eye is called seeing |
 
-## 8. Logical Determination
-
-The term `dṛṣṭi` is functionally overloaded:
+## 9. Logical Determination
 
 ```text
-EyeFaculty(x)
-∧ VisuallyDiscloses(x, VisibleForm)
-    → Seeing(x)
+EyePrinciplePortion
+∧ DisclosesVisibleForm
+    → Seeing
 
-Prajna(x)
-∧ MemberOf(x, EightfoldDharmaDomainPortion)
-∧ AttentivelyAscertains(x, Dharma)
-    → View(x)
+EssencePrinciplePortion
+    → FiveAfflictedViews
+      ∪ {WorldlyRightView, TraineeView, AdeptView}
+
+SensoryCognitionCoBornPrajñā
+∧ ¬Ascertainment
+    → NotView
 ```
 
-The eightfold set is:
-
-```text
-EightfoldView
-    = FiveAfflictedViews
-      ∪ {WorldlyRightView,
-         TraineeView,
-         AdeptView}
-```
-
-Worldly correctness and outflow-freedom are independent:
+The path and purity statuses are distinct:
 
 ```text
 WorldlyRightView
-    → Wholesome
-    ∧ Correct
-    ∧ Sasrava
+    → wholesome ∧ impure ∧ associated with Mental Cognition
 
 TraineeView ∨ AdeptView
-    → Anasrava
-```
-
-Sensory discernment fails the functional criterion:
-
-```text
-PrajnaCoarisenWithSensoryKnowledge(x)
-    → Discriminates(x)
-    ∧ ¬DecisivelyAscertains(x)
-    → ¬View(x)
+    → pure
 ```
 
 Therefore:
 
 ```text
-Prajna(x)
-    ↛ View(x)
+prajñā
+    ↛ view merely by being prajñā
 
-SensoryDiscrimination(x)
-    ↛ Ascertainment(x)
+sensory discernment
+    ↛ ascertainment
 
-VisualDisclosure(x)
-    ≠ AscertainativeView(x)
-```
-
-## 9. Interpretive Note
-
-VAK 1.40 classified what is abandoned through seeing. VAK 1.41 now prevents
-“seeing” from remaining an unanalyzed metaphor. Yet it does not reduce the
-term to one operation. The eye sees by disclosing visible form; prajñā is
-view when it attentively ascertains dharmas.
-
-The resulting cognitive gradation is:
-
-```text
 visual disclosure
-    → sensible form appears
-
-sensory prajñā
-    → differentiation accompanies the presentation
-
-ascertainative dṛṣṭi
-    → attentive determination settles a Dharma-object
+    ≠ ascertainative view
 ```
 
-This extends 1.32–1.33. Sensory knowledge is neither blank nor fully
-ascertainative. It possesses cognitive articulation, but the power to settle
-an object as determined belongs to a further mental operation.
+## 10. Principle Processor Closure
 
-The three forms of right view are also instructive. Correct determination
-need not already be outflow-free. Worldly right view is wholesome and
-correct while remaining `sāsrava`. Trainee and adept views are `anāsrava`.
-Correctness, purity, and path-status are therefore independently typed.
-
-The cloud, clear sky, night, and day analogy describes different conditions
-under which the same Dharma-field is disclosed. It does not establish that
-the object is produced by the clarity or obscurity of the view. The Kośa
-technē here classifies modes of cognitive access, not the final metaphysics
-of their object.
-
-For the Principle of the Agent, 1.41 adds a graded seeing-capacity:
+VAK 1.40 established what is abandoned by seeing. This final verse of the
+Principle Processor run asks what qualifies as seeing or view. It does not
+give a single, undifferentiated power:
 
 ```text
-faculty disclosure
-    ≠ sensory discernment
-    ≠ decisive ascertainment
+Eye Faculty
+    → discloses visible Form
+
+sensory Cognition with co-born discernment
+    → presents and differentiates, without tīraṇa
+
+specified prajñā
+    → functions as view through ascertainment
 ```
 
-This is strong Agent science. It should remain subordinate to our Yoga and
-should not be inflated into a complete theory of the Seer. The next verse
-opens the narrower scholastic dispute over whether the eye or the knowledge
-dependent upon it is literally the agent of seeing.
+The eightfold classification shows why *prajñā* is a consequential word
+here: worldly right view is wholesome yet impure, while trainee and adept
+views are pure. Correctness, purity, and ascertainive function are not
+interchangeable. The root Pure:Impure dyad therefore remains active inside
+the path classification, while the next functional distinction is
+discernment:ascertainment.
 
-## 10. OWL++ Seed
-
-```ttl
-@prefix vak: <http://127.0.0.1:3000/vak#> .
-@prefix organon: <http://127.0.0.1:3000/organon#> .
-@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
-
-vak:VAK_1_41
-    a vak:Karika ;
-    rdfs:label "VAK 1.41" ;
-    vak:hasTopic vak:SeeingAndAscertainment ;
-    vak:belongsTo vak:Dhatunirdesa .
-
-vak:EyeFaculty
-    vak:performs vak:VisualDisclosure ;
-    vak:hasStatus vak:Seeing .
-
-vak:EightfoldDharmaDomainView
-    a vak:DomainPart ;
-    vak:hasMemberSet vak:FiveAfflictedViews ;
-    vak:hasMember vak:WorldlyRightView,
-        vak:TraineeView,
-        vak:AdeptView ;
-    vak:performs vak:Ascertainment .
-
-vak:SensoryCobornPrajna
-    vak:performs vak:SensoryDiscrimination ;
-    vak:lacks vak:Ascertainment ;
-    vak:notStatus vak:View .
-
-vak:WorldlyRightView
-    vak:hasEthicalStatus vak:Wholesome ;
-    vak:hasOutflowStatus vak:Sasrava .
-
-organon:AgentSeeingScience
-    a vak:AgentSideModel ;
-    organon:distinguishes vak:VisualDisclosure,
-        vak:SensoryDiscrimination,
-        vak:AscertainativeView .
-```
+This completes the current Principle Processor sequence without claiming
+that 1.41 resolves the nature of the Seer. The Eye's visual disclosure
+and the Essence Principle's ascertainative view remain distinct; the
+commentarial dispute over who sees continues at 1.42.

@@ -1,4 +1,4 @@
-# VAK_1.31 Bhāṣya — The Formless Realm and the Scope of the Outflow-Free
+# VAK_1.31 Bhāṣya — The Principle Processor in the Formless Realm
 
 ## 1. Kārikā Anchor
 
@@ -6,14 +6,14 @@
 >
 > sāsravānāsravā ete trayaḥ śeṣās tu sāsravāḥ // 1.31 //
 
-> The manas-domain, dharma-domain, and mental-cognition domain belong to
-> the formless realm. These three admit both outflow-bearing and
-> outflow-free instances; the remaining domains are outflow-bearing.
+> The Mind Principle, Essence Principle, and Mental-Cognition Principle
+> belong to the Formless Realm. These three admit both outflow-bearing and
+> outflow-free instances; the remaining Principles are outflow-bearing.
 
 The first statement completes the realm enumeration begun in 1.30. The
 second begins a different classification, by *sāsrava* and *anāsrava*.
-“These three” carries forward the names of the domains, not a restriction
-of the new classification to occurrences in the formless realm.
+“These three” carries forward the names of the Principles, not a
+restriction of the new classification to occurrences in the Formless Realm.
 
 ## 2. Continuous Sanskrit
 
@@ -43,40 +43,41 @@ transcription repairs, not evidence of independent manuscript variants.
 
 ## 3. Continuous Conventional Translation
 
-The manas-domain, dharma-domain, and mental-cognition domain belong to
-the formless realm.
+The Mind Principle, Essence Principle, and Mental-Cognition Principle
+belong to the Formless Realm.
 
-Those free from passion for form are born there. Therefore the ten
-domains whose nature is material, and the five cognition-domains having
-those material domains as their supports and objects, do not occur there.
+Those free from passion for Form are born there. Therefore the ten
+Principles whose nature is Form, and the five sensory-Cognition Principles
+having those Principles as their supports and objects, do not occur there.
 
 How many are outflow-bearing, and how many outflow-free? The
-manas-domain, dharma-domain, and mental-cognition domain just mentioned:
-these three admit both outflow-bearing and outflow-free instances.
+Mind, Essence, and Mental-Cognition Principles just mentioned: these
+three admit both outflow-bearing and outflow-free instances.
 
 Those included in the truth of the path or among the unconditioned are
-outflow-free; the others are outflow-bearing.
+without outflows; the others have outflows.
 
-The remaining domains, however, are outflow-bearing. The remaining
-fifteen domains are exclusively outflow-bearing.
+The remaining Principles, however, have outflows. The remaining fifteen
+Principles are exclusively outflow-bearing.
 
 “Or” in the translation distributes the Sanskrit compound over two
-classes: inclusion in path-truth and inclusion among the unconditioned.
-It does not require a dharma to belong to both classes simultaneously.
+classes: inclusion in Path-truth and inclusion among the unconditioned
+Essences. It does not require an Essence to belong to both classes
+simultaneously.
 “Admit … instances” makes explicit the classificatory force of the
 paired predicates; it does not describe one occurrence as simultaneously
 outflow-bearing and outflow-free.
 
 ## 4. Movement and Voices of the Commentary
 
-The exposition first gives a reason for the formless-realm count.
-Detachment from form characterizes those born there; material domains
-are absent, as are the five sensory cognitions dependent on material
-supports and objects. No objection or rival explanation interrupts this
-account.
+The exposition first gives a reason for the Formless Realm count.
+Detachment from Form characterizes those born there; the ten Form Base
+Principles are absent, as are the five sensory-Cognition Principles that
+depend on those Faculties and objects. No objection or rival explanation
+interrupts this account.
 
 The question *kati sāsravāḥ katy anāsravāḥ* then resets the inquiry.
-The three named domains admit both statuses. The commentary supplies
+The three named Principles admit both statuses. The commentary supplies
 the criterion for the outflow-free instances and strengthens the verse's
 statement about the remainder with *ekānta*, “exclusively.”
 
@@ -84,73 +85,74 @@ There is no named school, quoted scripture, or marked alternative voice
 in this unit. The question is an expository transition. It should not be
 turned into a controversy that the text does not stage.
 
-## 5. Why Three Domains Remain
+## 5. Why Three Principles Remain
 
-The material ten are the five sensory faculties and their five objects.
-The additional five are visual, auditory, olfactory, gustatory, and
-bodily cognition. The compound *tadāśrayālambanāḥ* explains their
-dependence: the respective material faculties serve as supports and
-the respective material objects as objects of cognition. It does not
-say that every material domain performs both roles for every cognition.
+The ten Form Base Principles are the five sensory Faculties and their five
+objects. The additional five are visual, auditory, olfactory, gustatory,
+and bodily Cognition Principles. The compound *tadāśrayālambanāḥ*
+explains their dependence: the corresponding Form Base Faculties serve
+as supports and the corresponding sensory-object Principles as objects of
+cognition. It does not say that every Form Base Principle performs both
+roles for every cognition.
 
-Eighteen minus ten minus five leaves three. Manas and mental cognition
-retain their distinct positions in the domain inventory; their inclusion
-does not introduce two enduring mental substances. The earlier account
-of manas as cognition in its immediately preceding role remains the
-relevant background.
+Eighteen minus ten minus five leaves three. The Mind and
+Mental-Cognition Principles retain distinct positions in the Principle
+system; their inclusion does not introduce two enduring mental substances.
+The earlier account of manas as cognition in its immediately preceding
+role remains the relevant background.
 
-Nor does “three” count three individual dharmas. The dharma-domain is
-itself a classificatory range. The statement identifies which domains
-have occurrences belonging to this realm; it does not transfer every
-member of each named domain into the realm.
+Nor does “three” count three individual Essences. The Essence Principle
+is itself a classificatory range. The statement identifies which
+Principles have instances belonging to this Realm; it does not transfer
+every member of each named Principle into the Realm.
 
-This qualification matters especially for the dharma-domain. Its full
-extension elsewhere in the inventory includes avijñapti and the
-unconditioned. The present realm statement does not establish either
-that avijñapti occurs in the formless realm or that unconditioned dharmas
-are products of formless rebirth. The subsequent outflow classification
-must be read at its own scope.
+This qualification matters especially for the Essence Principle. Its full
+extension elsewhere in the classification includes avijñapti and
+unconditioned Essences. The present Realm statement does not establish
+either that avijñapti occurs in the Formless Realm or that unconditioned
+Essences are products of formless rebirth. The subsequent outflow
+classification must be read at its own scope.
 
 The explanation concerns *upapatti*, birth there. It should not be
 silently restated as a complete account of what happens to the bodily
-support of someone entering a formless meditative attainment in this
+support of someone entering a Formless meditative attainment in this
 life. That further question is outside this paragraph.
 
 ## 6. The Criterion of Anāsrava
 
 The key compound is *mārgasatyāsaṃskṛtasaṃgṛhītāḥ*: included in the
 truth of the path and in the unconditioned. The compound names the two
-classes admitted on the outflow-free side. The remaining instances
-within the three domains are outflow-bearing.
+classes admitted on the outflow-free side. The remaining instances within the three Principles are outflow-bearing.
 
-This is a distribution across the three domains taken together. It does
-not mean that each domain contains unconditioned instances. Manas and
-mental cognition are conditioned cognition; the unconditioned belongs
-under the dharma-domain. Path-truth supplies outflow-free cognition and
-its relevant accompanying dharmas without making cognition unconditioned.
+This is a distribution across the three Principles taken together. It
+does not mean that each Principle contains unconditioned instances. Mind
+and Mental-Cognition are conditioned Principles; unconditioned Essences
+belong under the Essence Principle. Path-truth supplies outflow-free
+conditioned cognition and its relevant accompanying Essences without
+making cognition itself unconditioned.
 
 | Classification | What the passage determines |
 | --- | --- |
-| Realm connection | Only the three named domains have occurrences belonging to the formless realm |
-| Outflow status of those domains | Each admits outflow-bearing and outflow-free instances |
+| Realm connection | Only the three named Principles have instances belonging to the Formless Realm |
+| Outflow status of those Principles | Each admits outflow-bearing and outflow-free instances |
 | Outflow-free criterion | Inclusion in path-truth or among the unconditioned |
-| Remaining fifteen domains | Exclusively outflow-bearing |
+| Remaining fifteen Principles | Exclusively outflow-bearing |
 
-Neither mental character nor detachment from material form is the
+Neither mental character nor detachment from Form is the
 criterion supplied for *anāsrava*. The transition question makes that
 separation visible. A higher realm and the truth of the path are not
 interchangeable classifications.
 
 The earlier ethical classification is another distinct axis. “Exclusively
 outflow-bearing” does not mean “exclusively unwholesome.” The preceding
-unit allowed wholesome visible-form and sound manifestations, while
-this unit includes both domains among the fifteen. The two predicates
+unit allowed wholesome Form and Sound manifestations, while this unit
+includes both Principles among the fifteen. The two predicates
 answer different questions.
 
 ## 7. The Force and Limits of “Exclusively”
 
 *Pañcadaśa* fixes the remainder at fifteen; *ekāntasāsrava* excludes an
-outflow-free subdivision within those domains. This is stronger than
+outflow-free subdivision within those Principles. This is stronger than
 saying they usually accompany outflows or are outflow-bearing only in
 the desire realm.
 
@@ -160,21 +162,21 @@ but “appropriated” can import an additional technical classification.
 The present prose establishes *sāsrava*; it does not separately determine
 appropriation. The translation therefore keeps to the stated predicate.
 
-Similarly, the absence of five sensory cognition-domains in the
-formless realm does not make sensory cognition unreal in the realms
+Similarly, the absence of five sensory-Cognition Principles in the
+Formless Realm does not make sensory cognition unreal in the Realms
 where it occurs. The argument specifies conditions of occurrence and a
 technical status, not a general dismissal of sensory knowledge.
 
 ## 8. The Bhāṣya's Decisions for the Kārikā
 
 - *Ārūpyāptāḥ* completes realm membership; the commentary explains it
-  through birth among those detached from form.
-- The absent fifteen comprise ten material domains and five sensory
-  cognition-domains dependent on their supports and objects.
+  through birth among those detached from Form.
+- The absent fifteen comprise ten Form Base Principles and five sensory
+  Cognition Principles dependent on their Faculties and objects.
 - *Ete trayaḥ* resumes the three names for a new classification, rather
-  than identifying formless existence with the outflow-free.
+  than identifying Formless existence with the outflow-free.
 - Path-truth and the unconditioned specify the outflow-free side; their
-  inclusion is distributed according to the contents of each domain.
+  inclusion is distributed according to the contents of each Principle.
 - *Śeṣāḥ* means the other fifteen, and the commentary's *ekānta* makes
   their exclusively outflow-bearing status explicit.
 
@@ -183,39 +185,51 @@ research kārikā or commentary files.
 
 ## 9. Philosophical and Organon Study
 
-For the Organon inquiry, the passage requires that a domain's range,
-its realm connection, and the status of its instances remain distinct.
-The same domain names participate in successive classifications because
-each classification asks something different about their contents.
+For the Organon, this passage makes the Principle processor executable
+in two stages. First, a Realm filter removes the ten Form Base Principles:
+the five sensory Faculties—Representation Factories—and their five
+objects. It also removes the five sensory-Cognition Principles that
+depend on them, leaving Mind, Essence, and Mental Cognition. Then a status
+check classifies instances of that triad: inclusion in Path-truth or among
+unconditioned Essences yields *anāsrava*; otherwise, *sāsrava*. The
+remaining fifteen Principles are fixed as exclusively with outflows.
 
-This helps sharpen the project's question about prajñā, paramārtha,
-and manifestation within saṃvṛti. Mental occurrence alone does not
-establish the status of an occurrence as knowledge, path, or outflow-free.
-An account of learning must determine what changes within cognition and
-under what conditions; merely removing sensory objects leaves that
-question unanswered.
+The Kant–Hegel reconstruction can now ask what kind of self-relation this
+processing expresses. The triad is not a bag of three mental items:
+Mind provides succession, Essence provides determinate content, and
+Mental Cognition is the particular act of representation. The status check
+then distinguishes a representation implicated in conditioned
+continuation from one included in Path-truth. Realm-membership alone does
+not perform that distinction.
 
-The source supplies path-truth and the unconditioned as its criterion
-here. It does not equate the formless realm with paramārtha, identify
-all mental cognition with prajñā, or explain the acquisition of
-understanding. Those proposed connections require their own argument
-at the Organon level.
+Your proposed Organon relation gives the larger hypothesis: Prajñā as
+*adhyātman*, the *paramārtha* pole, with Vijñāna as its particular
+representation in use. The bhāṣya does not state this formula or identify
+*manovijñāna* with Prajñā. Its contribution is more specific: it supplies
+a machine condition under which Mind, Essence, and Mental-Cognition
+instances can be classified as either with or without outflows. This lets
+the Organon reading develop boldly while keeping its textual evidence
+visible.
 
-A useful positive result nevertheless emerges: the field in which
-cognition can occur and the determination that makes an occurrence
-outflow-free are separately articulable. Preserving that separation
-allows the question of manifestation to become more precise.
+The important guardrail is that neither inwardness nor formlessness
+guarantees *anāsrava*. The outflow-free determination still depends on
+Path-truth or unconditioned Essence. That distinction keeps the machine
+from mistaking a particular representation for Prajñā merely because
+sensory Faculties and objects are absent. The bhāṣya's final account of
+craving through the six internal Essence Bases by way of embodied
+existence, rather than through their objects, offers another relation
+for the Organon to test without treating inwardness itself as liberation.
 
-## 10. Review Status
+## 10. First-Pass Status
 
-Provisional thirty-first study in the Bhāṣya edition. The local kārikā,
+This is a provisional first pass of the thirty-first Bhāṣya study. The local kārikā,
 research commentary, and running Sanskrit have been compared through
 the assertion that the remaining fifteen are exclusively outflow-bearing.
 
 The short unit presents no unresolved substantive reading after the
 listed transcription repairs. Its principal interpretive risks are
-scope errors: carrying formless-realm membership into the outflow
+scope errors: carrying Formless-Realm membership into the outflow
 classification, distributing unconditioned status to cognition, or
-identifying outflow-bearing with unwholesome. These are explicitly
-addressed. Original research files and the Part One reading artifact
-remain unchanged.
+identifying outflow-bearing with unwholesome. The distinction between
+textual determination and Kant–Hegel Organon reconstruction is explicit.
+Original research files and the Part One reading artifact remain unchanged.

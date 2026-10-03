@@ -1,4 +1,4 @@
-# VAK_1.44 Bhāṣya — Object Extent and the Supports of Cognition
+# VAK_1.44 Bhāṣya — Field Extent and Cognition Supports
 
 ## 1. Kārikā Anchor
 
@@ -6,14 +6,14 @@
 >
 > caramasyāśrayo 'tītaḥ pañcānāṃ sahajaś ca taiḥ // 1.44 //
 
-> Through the three beginning with the nose, apprehension of an
-> equal object is accepted. The support of the last is past;
+> Through the three beginning with the Nose, apprehension of an
+> equal-extent field is accepted. The support of the last is past;
 > for the five, it is also co-arisen with them.
 
-The Bhāṣya explains equality through faculty-atoms and object-atoms.
-“The last” is mental cognition; “the five” are sensory cognitions.
-“Also” preserves their past support in addition to the co-arisen
-faculty. The intervening exposition of faculty-atoms belongs to
+The Bhāṣya explains equality through Faculty atoms and field atoms.
+“The last” is Mind-Cognition; “the five” are sensory Cognitions.
+“Also” preserves their past support in addition to the co-born
+Faculty. The intervening exposition of Faculty atoms belongs to
 this same commentary unit.
 
 ## 2. Continuous Sanskrit
@@ -142,185 +142,181 @@ text; its sense is made explicit from the four answers that follow.
 
 ## 3. Continuous Conventional Translation
 
-Do the eye and the other faculties apprehend an object equal to
-their own extent, with mountains and the like apprehended through
-rapid operation, as with a circle of firebrand-light? Or do they
-apprehend objects both equal and unequal in extent? For those
-already said to have reached objects, apprehension of an equal
-object is accepted through the three beginning with the nose.
-For as many faculty-atoms as there are, that many object-atoms
-come together and produce cognition.
+Do the Eye and the other Faculties apprehend a field equal in
+extent to themselves, with mountains and the like apprehended
+through rapid operation, as with a firebrand-circle? Or do they
+apprehend fields both equal and unequal in extent? For those
+previously said to reach their fields through contact, equal-extent
+field-apprehension is accepted for the three beginning with the Nose.
+As many Faculty atoms as there are, that many field atoms come
+together and generate Cognition.
 
-With the eye and ear, however, there is no fixed rule. Sometimes
-[the object-atoms] are fewer, as when one sees the tip of a hair;
+With the Eye and Ear, however, there is no fixed rule. Sometimes
+[the field atoms] are fewer, as when one sees the tip of a hair;
 sometimes equal, as when one sees a grape; sometimes more, as when
-one sees a great mountain merely upon opening the eyes. Likewise
-with the ear in hearing the sounds of a mosquito, a cloud, and
-the like. Since manas is immaterial, no delimitation of its size
-is considered.
+one sees a great mountain merely upon opening the Eyes. Likewise
+the Ear hears sounds of a mosquito, a cloud, and the like. Since
+Mind is not Form, no delimitation of its spatial magnitude is
+considered.
 
-How are these atoms of the eye and other faculties arranged?
-The atoms of the eye-faculty are situated in the pupil like an
-ajājī flower. Covered by a transparent skin, they do not scatter.
-Others say that they are situated one above another, like a mass.
-They do not conceal one another, because they are transparent like
-crystal. The atoms of the ear-faculty are situated inside [a structure
-likened to] birch bark. Those of the nose-faculty are like rods
-within a pot. The first three faculties are arranged like a garland.
-The atoms of the tongue-faculty are arranged like a half-moon.
+How are the atoms of these Faculties arranged? The Eye-Faculty atoms
+are situated in the pupil like an ajājī flower. Covered by transparent
+skin, they do not scatter. Others say they are situated one above
+another, like a mass. They do not conceal one another because they
+are transparent like crystal. The Ear-Faculty atoms are situated
+inside [a structure likened to] birch bark. The Nose-Faculty atoms
+are like rods within a pot. The first three Faculties are arranged
+like a garland. The Tongue-Faculty atoms are arranged like a half-moon.
 Reportedly, an area the size of a hair-tip in the middle of the
-tongue is not pervaded by tongue-faculty atoms. The atoms of the
-body-faculty are arranged like the body. Those of the female faculty
-are like a kettledrum's bowl; those of the male faculty are like
-a thumb.
+Tongue is not pervaded by Tongue-Faculty atoms. The Body-Faculty
+atoms are arranged like the body. Those of the female Faculty are
+like a kettledrum's bowl; those of the male Faculty are like a thumb.
 
-Sometimes all the atoms of the eye-faculty are functionally
-participating; sometimes they are corresponding non-participants;
-sometimes some participate and some do not. The same holds through
-the atoms of the tongue-faculty. The atoms of the body-faculty,
-however, are never all functionally participating. Even for those
-confined within a blazing hell, innumerable body-faculty atoms are
-corresponding non-participants. Reportedly, if cognition arose
-through all of them, the support would disintegrate.
+Sometimes all the Eye-Faculty atoms are functionally participating;
+sometimes they are corresponding non-participants; sometimes some
+participate and some do not. The same holds through the Tongue-Faculty
+atoms. The Body-Faculty atoms, however, are never all functionally
+participating. Even for those confined within a blazing hell,
+innumerable Body-Faculty atoms are corresponding non-participants.
+Reportedly, if Cognition arose through all of them, the support would
+disintegrate.
 
-No single faculty-atom or object-atom produces cognition. For the
-five classes of cognition have accumulated [atoms] as their supports
-and objects. For this very reason an atom is non-visible, since
-it is not seen.
+No single Faculty atom or field atom produces Cognition. The five
+classes of Cognition have accumulated [atoms] as their supports and
+fields. For this very reason an atom is non-visible, since it is not
+seen.
 
-As for the six cognition-domains already stated, from visual through
-mental cognition: just as the object of the five is present and
-that of the last belongs to the three times, is their support also
-like that? The answer is no. What, then? The support of the last
-is past. The support of the mental-cognition domain is manas that
-has ceased immediately before it.
+As for the six Cognition Principles already stated, from Eye-Cognition
+through Mind-Cognition: just as the fields of the five are present
+and the field of the last belongs to all three times, are their
+supports likewise [present and threefold]? No. What, then? The
+support of the last is past. The support of the Mind-Cognition
+Principle is Mind that ceased immediately before it.
 
-For the five, the support is also co-arisen with them. “And” means
-past as well. The eye is the co-arisen support of visual cognition,
-and so on through the body-faculty as the support of bodily cognition.
-Their past support is manas. Thus these five classes of cognition
-have two faculties as supports.
+For the five, a support is also co-born with them. “And” means
+“past as well.” The Eye is the co-born support of Eye-Cognition,
+and so on through the Body as support of Body-Cognition. Their past
+support is Mind. Thus these five Cognition classes have two supports.
 
-For this reason the following is asked: whatever serves visual
-cognition as support, does it also serve it as an immediately
-preceding condition? There are four cases. The first is the eye.
-The second is the mental-factor portion of the dharma-domain that
-is immediately past. The third is immediately past manas. The
-fourth comprises dharmas other than those stated. The same is to
-be stated through bodily cognition, with each one's own faculty.
+For this reason the following is asked: whatever serves Eye-Cognition
+as support, does it also serve as an immediately preceding condition?
+There are four cases. The first is the Eye. The second is the
+immediately past mental-factor part of the Essence Principle. The
+third is immediately past Mind. The fourth comprises Essences other
+than those stated. The same is to be said through Body-Cognition,
+with each one's own Faculty.
 
-For mental cognition, the relation is one-sided. Whatever serves
-as its support also serves as its immediately preceding condition.
+For Mind-Cognition, the relation is one-sided. Whatever serves as
+its support also serves as its immediately preceding condition.
 There can, however, be something serving as immediately preceding
 condition without serving as support: the immediately past
-mental-factor portion of the dharma-domain.
+mental-factor part of the Essence Principle.
 
 Bracketed words clarify the implied subject or the compressed
-anatomical comparisons. The statement about the temporal range
-of mental cognition's objects is retained as the premise posed
-here; the passage's answer determines the time of its support.
+anatomical comparisons. The statement about the temporal range of
+Mind-Cognition's fields is retained as the premise posed here; the
+passage's answer determines the time of its support.
 
 ## 4. Movement and Voices of the Commentary
 
 The first question offers a rapid-operation explanation for apparently
-apprehending large objects and asks whether equality of extent is
+apprehending extensive fields and asks whether equality of extent is
 universal. The answer restricts equality to the three contact
-faculties, then gives variable cases for eye and ear and excludes
-material size as a measure of manas.
+Faculties, then gives variable cases for Eye and Ear and excludes
+spatial magnitude as a measure of Mind.
 
 A new question opens the faculty-atom descriptions. An alternative
-arrangement of the eye is explicitly attributed to “others.” The
+arrangement of the Eye is explicitly attributed to “others.” The
 following participation account distinguishes the first four sensory
-faculties from the body-faculty. Its use of *kila*, including the
+Faculties from the Body Faculty. Its use of *kila*, including the
 hell example's explanation, remains reportive in the translation.
 
-The final question compares the time of a cognition's object with
-the time of its support. The answer distinguishes past manas from
-co-arisen material faculties, then tests support against the
+The final question compares the temporal status of a Cognition's field
+with the time of its support. The answer distinguishes past Mind from
+co-born sensory Faculties, then tests support against the
 immediately preceding condition. That test is part of 1.44's
 exposition, not a later optional supplement.
 
 ## 5. Equality of Extent and Accumulated Atoms
 
 *Tribhir ghrāṇādibhiḥ* means through the three beginning with the
-nose: nose, tongue, and body. *Tulyaviṣayagrahaṇam* is explained
-through matching numbers of participating faculty-atoms and
-object-atoms coming together to produce cognition. It is not a
-claim that the whole external object must equal the whole organ
-in gross size.
+Nose: Nose, Tongue, and Body. *Tulyaviṣayagrahaṇam* is explained
+through matching numbers of participating Faculty atoms and field
+atoms coming together to produce Cognition. It is not a claim that
+the whole field must equal the whole Faculty in gross size.
 
-The eye and ear do not have this fixed equality. The hair-tip,
+The Eye and Ear do not have this fixed equality. The hair-tip,
 grape, and mountain examples concern fewer, equal, or more
-object-atoms in the proposed comparison. The mountain is seen
-merely upon opening the eyes, so the answer does not accept rapid
+field atoms in the proposed comparison. The mountain is seen
+merely upon opening the Eyes, so the answer does not accept rapid
 scanning as the universal explanation proposed in the question.
 The firebrand-circle is an example within that question, not the
 conclusion of the passage.
 
-The later statement about accumulated supports and objects is
+The later statement about accumulated supports and fields is
 essential: one isolated atom on either side does not produce a
-sensory cognition. *Saṃcitāśrayālambanatva* explicitly coordinates
-accumulated support and accumulated object. It therefore prevents
-the equality claim from being read as a single faculty-atom and
-single object-atom independently producing a complete cognition.
+sensory Cognition. *Saṃcitāśrayālambanatva* explicitly coordinates
+accumulated support and accumulated field. It therefore prevents
+the equality claim from being read as a single Faculty atom and
+single field atom independently producing a complete Cognition.
 
 The conclusion that an atom is not seen must remain tied to this
-argument. It does not say that visible aggregates are non-visible,
-or that material form has been reclassified as immaterial.
+argument. It does not say that visible Form-complexes are unseen,
+or that Form has been reclassified as non-Form.
 
 ## 6. Arrangement and Functional Participation
 
-The arrangements are the text's accounts of subtle faculty-atoms.
+The arrangements are the text's accounts of subtle Faculty atoms.
 They should not be presented as verified modern anatomy. They
 also should not be replaced by descriptions of gross organs:
-the eye passage expressly distinguishes its atoms from the
+the Eye passage expressly distinguishes its atoms from the
 transparent covering said to contain them.
 
-The female and male faculties appear within this anatomical
+The female and male Faculties appear within this anatomical
 excursus, although they are not added to the sixfold list of
-cognition-supports. Their presence does not change the number
-of sensory cognition-classes under discussion.
+Cognition supports. Their presence does not change the number
+of sensory Cognition classes under discussion.
 
 The terms *sabhāga* and *tat-sabhāga* recall 1.39's functional
 classification. The passage permits all-participating,
 all-non-participating, and mixed cases for the eye through the
-tongue; the body-faculty is said never to have every atom
+tongue; the Body Faculty is said never to have every atom
 participating. The extreme hell example supports that last
 claim within the doctrinal account.
 
 This is a determination of participation, not merely the number
-of atoms anatomically present. The report that total participation
+of atoms arranged anatomically. The report that total participation
 would disintegrate the support should not be expanded into a
 modern theory of overstimulation or a numerical threshold absent
 from the text.
 
 ## 7. Support and the Immediately Preceding Condition
 
-*Caramasya*, “of the last,” refers to mental cognition. Its
-support is the manas that has just ceased. For sensory cognition,
-*ca* is decisive: a co-arisen faculty-support is added to past
-manas. The research anchor omits “also” and thus conceals the
-two-support determination supplied explicitly by the prose.
+*Caramasya*, “of the last,” refers to Mind-Cognition. Its support
+is the Mind that has just ceased. For sensory Cognition, *ca* is
+decisive: a co-born Faculty support is added to past Mind. The
+research anchor omits “also” and thus conceals the two-support
+determination supplied explicitly by the prose.
 
-The four cases for visual cognition distinguish two relations:
+The four cases for Eye-Cognition distinguish two relations:
 
 | Case | Support (*āśraya*) | Immediately preceding condition (*samanantarapratyaya*) | Example |
 |---|---|---|---|
-| First | Yes | No | Eye-faculty |
-| Second | No | Yes | Immediately past mental factors within the dharma-domain |
-| Third | Yes | Yes | Immediately past manas |
-| Fourth | No | No | Dharmas outside the stated cases |
+| First | Yes | No | Eye Faculty |
+| Second | No | Yes | Immediately past mental factors within the Essence Principle |
+| Third | Yes | Yes | Immediately past Mind |
+| Fourth | No | No | Essences outside the stated cases |
 
-The same structure applies to the other sensory cognitions by
-substituting their own faculties. The second case does not mean
-the entire dharma-domain: *caitasika* restricts it to mental factors,
+The same structure applies to the other sensory Cognitions by
+substituting their own Faculties. The second case does not mean
+the entire Essence Principle: *caitasika* restricts it to mental factors,
 and the temporal qualification restricts it further.
 
-For mental cognition the implication is one-sided: support implies
+For Mind-Cognition the implication is one-sided: support implies
 immediately preceding condition, while the converse fails for
 immediately past mental factors. The text thus gives a relational
 distinction more exact than calling everything that conditions
-cognition its “support.”
+Cognition its “support.”
 
 This unit establishes which supports are past or co-arisen and
 how support differs from immediately preceding condition. The
@@ -329,49 +325,47 @@ name *āśraya* begins at 1.45 and remains there.
 
 ## 8. The Bhāṣya's Decisions for the Kārikā
 
-- Specify nose, tongue, and body as the three governed by equality.
-- Read the equality through participating faculty-atoms and object-atoms.
-- Preserve the absence of a fixed equality for eye and ear.
-- Restore the faculty arrangements and participation classifications.
-- Include the requirement of accumulated supports and objects.
-- Supply “also” for the sensory cognitions' co-arisen supports,
-  retaining past manas as their additional support.
+- Specify Nose, Tongue, and Body as the three governed by equality.
+- Read the equality through participating Faculty atoms and field atoms.
+- Preserve the absence of a fixed equality for Eye and Ear.
+- Restore the Faculty arrangements and participation classifications.
+- Include the requirement of accumulated supports and fields.
+- Supply “also” for the sensory Cognitions' co-born supports,
+  retaining past Mind as their additional support.
 - Preserve the fourfold support/condition analysis and its different
   implication pattern for mental cognition.
 
 ## 9. Philosophical and Organon Study
 
-This passage supplies a quantitative determination within its own
-atomic account: contact apprehension involves corresponding numbers
-on the faculty and object sides. Eye and ear are expressly exempt
-from a fixed equality. It therefore supports a differentiated
-inquiry into magnitude, rather than one universal measure of
-faculty-capacity.
+The Bhāṣya gives a quantitative relation only for the three Faculties
+that operate through contact: participating Faculty atoms and field
+atoms come together in equal numbers. Eye and Ear have no fixed
+equality of extent, while Mind is not measured by spatial magnitude.
 
-The temporal account supplies a different distinction. A sensory
-cognition depends on its co-arisen faculty and immediately past
-manas, while immediately past mental factors supply a preceding
-condition without supplying the same support relation. Object,
-support, and preceding condition must therefore be kept distinct
-in a reconstruction of the cognitive event.
+The support account is a separate determination. Each sensory
+Cognition depends on both immediately past Mind and its co-born
+Faculty; Mind-Cognition depends on immediately past Mind. The
+fourfold analysis further distinguishes support from an immediately
+preceding condition. A field, a support, and a temporal condition
+are therefore not interchangeable roles.
 
-For Organon work, the fourfold table is particularly useful because
-it specifies overlap without identity between relations. It does
-not require a serial diagram in which past manas produces a
-faculty, the faculty produces an object, and the object produces
-cognition. Such a chain would misrepresent the dependencies stated
-here. Nor does the passage itself establish the stronger theory
-that the object is formally contained in the faculty.
+In the project model, Dhātu is Pure Principle—Abhidharma itself.
+These differentiated Cognitions are impure *prajñā* products,
+grounded in their support relations. They remain Principles within
+the recursive Principle Pipeline because they stand on Principles.
+This is the Organon interpretation, not terminology attributed to
+the Bhāṣya.
 
 ## 10. Review Status
 
 Provisional forty-fourth study in the Bhāṣya edition. The running
 Sanskrit has been followed through 34.16. The omitted arrangements,
-participation discussion, accumulated-support/object statement,
-and support/condition analysis are restored. The 1.45 material
-included in the research excerpt is reserved for its own study.
+participation discussion, accumulated-support/field statement, and
+support/condition analysis are restored. The 1.45 passage included
+in the research excerpt is reserved for its own study.
 
 Mechanical repairs and uncertain anatomical wording are documented.
 The isolated *ghoṣam* remains visible in Sanskrit, with its limited
-translation treatment stated above. Original witnesses and the
-existing kārikā study are preserved.
+translation treatment stated above. The Organon reading is kept
+separate from the conventional translation. Original witnesses and
+the existing kārikā study are preserved.

@@ -6,14 +6,15 @@
 >
 > pañcavijñānasahajā dhīr na dṛṣṭir atīraṇāt // 1.41 //
 
-> The eye and a portion of the dharma-domain count as seeing or view;
-> that portion is eightfold. Discernment co-arising with the five
-> cognitions is not view, because it does not ascertain.
+> A portion of the Eye Principle and a portion of the Essence Principle
+> count as seeing or view; the latter portion is eightfold. Discernment
+> co-born with the five sensory Cognitions is not view, because it does
+> not ascertain.
 
 This is a Bhāṣya-guided construe. The local kārikā witnesses give the
 dual *pradeśau*, “two portions,” while the running commentary has the
 malformed *pradeśu*. Its following singular question, *katamaḥ saḥ*,
-and its enumeration identify an eightfold portion of the dharma-domain.
+and its enumeration identify an eightfold portion of the Essence Principle.
 The dual is retained above as witnessed; its precise textual resolution
 remains open. It should not be used to make the eightfold enumeration
 include the eye or to supply an otherwise unstated division of the eye.
@@ -74,38 +75,35 @@ edition or an independently collated set of manuscript variants.
 
 ## 3. Continuous Conventional Translation
 
-Of the eighteen domains, how many are seeing or view, and how many
-are not? The eye and a portion of the dharma-domain are seeing or
-view. Which portion is that? The verse says: it is eightfold.
+Of the eighteen Principles, how many are seeing or view, and how many
+are not? A portion of the Eye Principle and a portion of the Essence
+Principle are seeing or view. Which portion is that? The verse says:
+the view-bearing portion is eightfold.
 
-The five views beginning with the view concerning the existent
-personality-complex, worldly right view, the trainee's view, and the
-view of one beyond training: this eightfold [portion of the]
-dharma-domain is view. The remainder is not view. The appropriate
-occasion to explain the views beginning with the view concerning
-the personality-complex will come in the exposition of latent
-afflictions.
+The five views beginning with *satkāyadṛṣṭi*, worldly right view,
+the trainee's view, and the view of one beyond training: this
+eightfold portion of the Essence Principle is view. The remainder is
+not view. The appropriate occasion to explain the views beginning
+with *satkāyadṛṣṭi* will come in the exposition of latent afflictions.
 
-Worldly right view is wholesome, outflow-bound prajñā associated
-with mental cognition. The outflow-free view of a trainee is the
-trainee's view; that of one beyond training is the view of one
-beyond training.
+Worldly right view is wholesome, impure *prajñā* associated with
+Mental Cognition. The pure view of a trainee is the trainee's view;
+that of one beyond training is the adept's view.
 
-Seeing dharmas through defiled and undefiled worldly views, through
-the trainee's view, and through the view of one beyond training is
-like seeing visible forms by night or day, with clouds or without
-clouds.
+Seeing Essences through afflicted and unafflicted worldly views, the
+trainee's view, and the adept's view is like seeing visible Forms by
+night or day, with clouds or without clouds.
 
 Why, then, is worldly right view said to be associated specifically
-with mental cognition? Because discernment co-arising with the five
-cognitions is not view, since it does not ascertain. View is
+with Mental Cognition? Because discernment co-born with the five
+sensory Cognitions is not view, since it does not ascertain. View is
 ascertainative, for it operates through attentive examination.
-Prajñā co-arising with the five cognitions is not like that.
+Prajñā co-born with the five sensory Cognitions is not like that.
 Therefore it is not view. For this very reason, other prajñā too,
-whether defiled or undefiled, is not view.
+whether afflicted or unafflicted, is not view.
 
-But if the eye does not ascertain, how is it seeing? In the sense
-of looking at visible form. For “the eye sees visible forms.”
+But if the Eye does not ascertain, how is it seeing? In the sense
+of disclosing visible Form. For “the Eye sees visible Forms.”
 
 The last sentence opens the next kārikā's controversy. It records
 the answer being advanced here; it does not settle that controversy
@@ -113,10 +111,10 @@ in advance.
 
 ## 4. Movement and Voices of the Commentary
 
-The initial question classifies the domains. The exposition then
-enumerates the dharma-domain portion and defines worldly right view,
-the trainee's view, and the view of one beyond training. The detailed
-account of the five afflicted views is expressly deferred.
+The initial question classifies the Principles. The exposition then
+enumerates the Essence Principle portion and defines worldly right view,
+the trainee's view, and the adept's view. The detailed account of the
+five afflicted views is expressly deferred.
 
 A further question asks why worldly right view is restricted to
 association with mental cognition. The reply invokes the absence
@@ -129,36 +127,35 @@ The claim that the eye sees then becomes the subject of the following
 debate. It should be presented as the position under discussion, not
 as an unqualified final verdict attributed to Vasubandhu.
 
-## 5. The Eightfold Portion of the Dharma-Domain
+## 5. The Eightfold Portion of the Essence Principle
 
 | Members | Determination given here |
 |---|---|
 | Five views beginning with *satkāyadṛṣṭi* | Named as a group; detailed exposition deferred |
-| Worldly right view | Wholesome, outflow-bound prajñā associated with mental cognition |
-| Trainee's view | Outflow-free view belonging to a trainee |
-| View of one beyond training | The corresponding outflow-free view of one beyond training |
+| Worldly right view | Wholesome, impure *prajñā* associated with Mental Cognition |
+| Trainee's view | Pure view belonging to a trainee |
+| Adept's view | Pure view belonging to one beyond training |
 
 The count is five plus one plus one plus one. The eye is outside
 this eightfold enumeration. The passage neither enumerates eight
 visual faculties nor combines a visual portion with seven mental
 views.
 
-Association with mental cognition does not relocate prajñā into the
-mental-cognition domain. Prajñā is the factor here classified within
-the dharma-domain; mental cognition is what it is associated with.
-Keeping classification and association distinct is essential to
-reading the definition.
+Association with Mental Cognition does not relocate *prajñā* into the
+Mental Cognition Principle. *Prajñā* is the factor classified within
+the Essence Principle; Mental Cognition is what it is associated with.
+Keeping Principle classification and association distinct is essential
+to reading the definition.
 
-Worldly right view is explicitly wholesome and *sāsrava*. “Right”
-therefore does not entail “outflow-free.” Conversely, *dṛṣṭi* by
-itself does not entail rightness: the enumeration includes the five
-afflicted views.
+Worldly right view is explicitly wholesome and impure. “Right”
+therefore does not entail “pure.” Conversely, *dṛṣṭi* by itself does
+not entail rightness: the enumeration includes the five afflicted views.
 
 ## 6. Prajñā and Ascertainment
 
 The verse's *dhīḥ*, “discernment,” is explained in the prose as
-*prajñā*. *Pañcavijñānasahajā* means co-arising with the five sensory
-cognitions; it does not say that one factor simultaneously accompanies
+*prajñā*. *Pañcavijñānasahajā* means co-born with the five sensory
+Cognitions; it does not say that one factor simultaneously accompanies
 all five.
 
 *Atīraṇāt* is an ablative giving the reason: “because of
@@ -167,52 +164,52 @@ ascertainative, through *upadhyānapravṛttatva*, its proceeding by
 attentive examination. The relevant contrast concerns that operation,
 not the presence or absence of every cognitive distinction.
 
-The passage expressly acknowledges sensory co-arisen prajñā while
-excluding it from view. It also excludes other defiled or undefiled
-prajñā on the same ground. Neither being prajñā nor being associated
-with mental cognition is by itself a sufficient definition of view.
+The passage expressly acknowledges sensory co-born *prajñā* while
+excluding it from view. It also excludes other afflicted or unafflicted
+*prajñā* on the same ground. Neither being *prajñā* nor being associated
+with Mental Cognition is by itself a sufficient definition of view.
 
 “Ascertainment” must not be read as guaranteed true knowledge. The
 five afflicted views also fall under the classification. The term
 marks the examining and settling character of view, whose correctness
-requires a further determination. Rendering it simply as “truth-vision”
+requires a further determination. Rendering it simply as “true seeing”
 would erase the afflicted members of the list.
 
 ## 7. The Vision Analogy and the Eye
 
-The compound compares the viewing of dharmas with visible form seen
-under clouded or cloudless night and day. Read in the order of the
-four groups, it suggests defiled worldly view as clouded night,
-undefiled worldly view as cloudless night, trainee's view as clouded
-day, and the view of one beyond training as cloudless day. This
-pairing unpacks the compressed analogy; the text does not provide
-four separate explanatory sentences.
+The compound compares seeing Essences with visible Form seen under
+clouded or cloudless night and day. Read in the order of the four
+groups, it suggests afflicted worldly view as clouded night,
+unafflicted worldly view as cloudless night, trainee's view as clouded
+day, and the adept's view as cloudless day. This pairing unpacks the
+compressed analogy; the text does not provide four separate explanatory
+sentences.
 
-The analogy differentiates conditions of viewing. It does not equate
-worldly right view with outflow-free view, nor make every kind of view
-equally clear. It also does not supply a quantitative theory of sensory
+The analogy differentiates conditions of seeing. It does not equate
+worldly right view with pure view, nor make every kind of view equally
+clear. It also does not supply a quantitative theory of sensory
 thresholds.
 
-The eye is called *dṛṣṭi* in the sense of *rūpālocana*, looking at
-visible form. Translating this as “attentive examination” without
+The Eye is called *dṛṣṭi* in the sense of *rūpālocana*, disclosing
+visible Form. Translating this as “attentive examination” without
 qualification would import the very ascertainative operation the
-question denies to the eye. “Seeing” for the eye and “view” for the
-relevant prajñā keep the two uses legible while retaining their shared
+question denies to the Eye. “Seeing” for the Eye and “view” for the
+relevant *prajñā* keep the two uses legible while retaining their shared
 Sanskrit term.
 
-The next passage will qualify the eye's operation through *sabhāga*
-and dispute whether seeing belongs to the eye or its cognition.
+The next passage will qualify the Eye's operation through *sabhāga*
+and dispute whether seeing belongs to the Eye or its Cognition.
 That qualification should not be silently inserted into this unit
 as a translation of the uncertain *pradeśau*.
 
 ## 8. The Bhāṣya's Decisions for the Kārikā
 
-- Restrict the eightfold enumeration to the dharma-domain portion.
+- Restrict the eightfold enumeration to the Essence Principle portion.
 - Preserve the local opening-line difficulty rather than deriving
-  an unsupported eye-domain partition from it.
-- Keep prajñā's domain membership distinct from its association
-  with mental cognition.
-- Read worldly right view as wholesome yet outflow-bound.
+  an unsupported subdivision of the Eye Principle from it.
+- Keep *prajñā*'s Principle classification distinct from its association
+  with Mental Cognition.
+- Read worldly right view as wholesome yet impure.
 - Distinguish prajñā from its narrower classification as view.
 - Allow afflicted as well as right views within ascertainative view.
 - Explain the eye's seeing through visual operation and carry its
@@ -220,24 +217,25 @@ as a translation of the uncertain *pradeśau*.
 
 ## 9. Philosophical and Organon Study
 
-The useful distinction is between the presence of discernment and
-its determination as view. Sensory cognition can have co-arisen
-prajñā without thereby having the examining and settling operation
-specified here. On the other hand, that operation alone does not
-establish correctness, since afflicted views are included.
+The Bhāṣya distinguishes the presence of discernment from its
+determination as view. Sensory Cognition can have co-born *prajñā*
+without the examining and settling operation specified here. That
+operation alone does not establish correctness, since afflicted views
+are included.
 
-For Organon study, this requires separate questions: what cognitive
-factor is present, what operation it performs, whether its determination
-is right or afflicted, and what path-status belongs to it. Collapsing
-these questions would make every prajñā a view or every view true.
+In the Organon account, Pure:Impure is the root dyad. This passage
+shows why *prajñā* cannot be flattened into one status: worldly right
+view is wholesome yet impure, while trainee and adept views are pure.
+Afflicted and unafflicted, right and wrong, and pure and impure are
+related but not interchangeable determinations.
 
-The eye provides another distinction: a shared term can apply by
-different functions. The passage does not describe visual faculty
-and mental view as two pieces that must combine to produce a single
-faculty of truth. Such a synthesis would require an additional
-argument. Likewise, the research report's proposals about quantitative
-faculty ranges remain comparative hypotheses rather than conclusions
-of this Bhāṣya unit.
+The next functional distinction is discernment:ascertainment. Sensory
+co-born *prajñā* discriminates but is not view; *prajñā* in the
+specified view-forms is ascertainative. This is an Organon reading of
+the Bhāṣya's distinctions, not a claim that the commentary states a
+logogenetic dyad. The shared term *dṛṣṭi* does not by itself prove that
+visual disclosure and mental view combine into one faculty of truth.
+The question of who sees remains open for 1.42.
 
 ## 10. Review Status
 
@@ -248,7 +246,7 @@ and the short bridge into 1.42; the ensuing debate is reserved
 for the next study.
 
 The opening *pradeśau/pradeśu* difficulty remains explicitly marked.
-The eightfold count, the distinction between association and domain
-membership, and the inclusion of afflicted views are clarified.
+The eightfold count, the distinction between association and Principle
+classification, and the inclusion of afflicted views are clarified.
 Mechanical repairs are documented above. Original witnesses and
 the existing kārikā study are preserved.

@@ -24,15 +24,15 @@ nirucyate              → nirucyate
 
 | Form | Morphology | Lexical force here |
 |---|---|---|
-| tad-vikāra | compound member | alteration of those faculties |
-| vikāritvāt | ablative neuter singular abstract noun | because of undergoing corresponding alteration |
-| āśrayāḥ | nominative masculine plural | supports; determining bases of knowledge |
-| cakṣus-ādayaḥ | nominative masculine plural compound | eye and the other faculties |
+| tad-vikāra | compound member | alteration of those Faculties |
+| vikāritvāt | ablative neuter singular abstract noun | because Cognition is altered when they are altered |
+| āśrayāḥ | nominative masculine plural | supports |
+| cakṣus-ādayaḥ | nominative masculine plural compound | Eye and the other Faculties |
 | ataḥ | adverb | therefore, for this reason |
-| a-sādhāraṇa-tvāt | ablative neuter singular abstract noun | because of being non-common or specific |
+| a-sādhāraṇa-tvāt | ablative neuter singular abstract noun | because of being specific, not common |
 | hi | explanatory particle | indeed, for |
-| vijñānam | nominative neuter singular | knowledge |
-| taiḥ | instrumental masculine plural | by those faculties |
+| vijñānam | nominative neuter singular | Cognition |
+| taiḥ | instrumental masculine plural | by those Faculties |
 | nirucyate | third-person singular present passive | is designated or named |
 
 The first ablative gives the criterion for support-status. The second gives
@@ -43,8 +43,8 @@ the criterion for naming. They are related but not identical arguments.
 The Bhāṣya begins from dual dependence:
 
 ```text
-knowledge depends upon faculty
-knowledge depends upon object
+Cognition depends upon Faculty
+Cognition depends upon field
 ```
 
 It then asks why only eye and the other faculties are called `āśraya`.
@@ -52,78 +52,78 @@ The Kārikā answers:
 
 ```text
 tad-vikāra-vikāritvāt
-    because knowledge is altered when those faculties are altered
+    because Cognition is altered when those Faculties are altered
 
 āśrayāḥ cakṣur-ādayaḥ
-    eye and the others are supports
+    Eye and the others are supports
 ```
 
-The relevant faculty alterations are benefit or improvement, injury,
-acuity, and dullness. Knowledge follows these changes. The object remains an
-indispensable condition, but its alteration does not determine the capacity
-and quality of knowing in this same support-specific manner.
+The relevant Faculty alterations are benefit or improvement, injury,
+acuity, and dullness. Cognition follows these changes. The field remains
+an indispensable condition, but its alteration does not determine the
+capacity and quality of Cognition in this same support-specific manner.
 
-The second line answers a naming question. Why say eye-knowledge,
-ear-knowledge, and so on, rather than form-knowledge, sound-knowledge, and
+The second line answers a naming question. Why say Eye-Cognition,
+Ear-Cognition, and so on, rather than Form-Cognition, sound-Cognition, and
 so on?
 
 ```text
 asādhāraṇatvāt
-    because each faculty is non-common to other kinds of knowledge
+    because each Faculty is specific, not common to other Cognitions
 
 vijñānaṃ taiḥ nirucyate
-    knowledge is designated by those faculties
+    Cognition is designated by those Faculties
 ```
 
-One eye-faculty can support only its corresponding eye-knowledge. Visible
-form, by contrast, may become object-support for another person's visual
-knowledge and for a subsequent mental knowledge. The support is specific;
-the object is shareable.
+One Eye Faculty supports its corresponding Eye-Cognition. Visible Form,
+by contrast, may serve as a field-support for another person's visual
+Cognition and for a later Mind-Cognition. The Faculty support is specific;
+the field is shareable.
 
 ## 5. Translation
 
 ### Close syntactic construe
 
-> Eye and the other faculties are supports because knowledge is altered by their alteration. Therefore knowledge is designated by them, for they are non-common.
+> Eye and the other Faculties are supports because Cognition is altered by their alteration. Therefore Cognition is designated by them, for they are specific and not common.
 
 ### Bhāṣya-informed translation
 
-> The faculties are called determining supports because benefit, injury, acuity, or dullness in a faculty produces a corresponding alteration in its knowledge. Knowledge is named from its faculty—eye-knowledge, ear-knowledge, and so forth—because each faculty supports only its own specific kind of knowledge, whereas an object such as visible form can be shared by many sensory and mental acts of knowledge.
+> The Faculties are called supports because benefit, injury, acuity, or dullness in a Faculty produces a corresponding alteration in its Cognition. Cognition is named from its Faculty—Eye-Cognition, Ear-Cognition, and so forth—because each Faculty supports its own specific kind of Cognition, whereas a field such as visible Form can be shared by many sensory and mental Cognitions.
 
 ## 6. Philosophical Translation
 
-> A condition becomes the determining support of knowledge when variation in that condition governs variation in the knowing capacity. The object supplies what is apprehended, but the faculty supplies the specific mode through which it can be known. Knowledge therefore receives its name from the non-common faculty rather than from its shareable object.
+> A condition is the determining support of Cognition when its variation governs corresponding variation in Cognition. The field supplies what is apprehended; the Faculty supplies the specific mode of apprehending. Cognition therefore takes its name from the specific Faculty, not from its shareable field.
 
 Organon rendering:
 
-> The Agent's knowledge-event unites specific capacity with common content. The faculty determines how knowing occurs; the object determines toward what it is directed. Alteration of the faculty alters the disclosure, while one object may remain available across several knowers and later mental acts. The Kośa's Domain science thus preserves form of access and shareable objectivity as distinct relations.
+> Within the Principle Pipeline, a specific Faculty determines the mode of Cognition, while a field may be shared across Cognitions. Alteration of a Faculty alters its corresponding Cognition. The support relation and the field relation remain distinct.
 
 ## 7. Technical Vocabulary
 
 | Sanskrit | Project rendering | Determination |
 |---|---|---|
-| ubhayādhīna | dependent upon both | knowledge depends upon faculty and object |
-| tadvikāra-vikāritva | being altered through alteration of that | criterion establishing the faculty as determining support |
-| āśraya | support / determining support | specific basis whose condition governs the knowledge-event |
-| ālambana | object-support | that upon which knowledge is cognitively directed |
-| viṣaya | determinate object-field | kind and range of content appropriate to a faculty |
+| ubhayādhīna | dependent upon both | Cognition depends upon Faculty and field |
+| tadvikāra-vikāritva | being altered through alteration of that | criterion establishing the Faculty as support |
+| āśraya | support | specific basis whose condition governs Cognition |
+| ālambana | field-support | that toward which Cognition is directed |
+| viṣaya | field | kind and range of content appropriate to a Faculty |
 | anugraha | benefit / improvement | positive modification of faculty-capacity |
 | upaghāta | injury / impairment | negative modification of faculty-capacity |
-| paṭutā | acuity / sharpness | strengthened precision of faculty and knowledge |
-| mandatā | dullness / weakness | diminished precision of faculty and knowledge |
+| paṭutā | acuity / sharpness | strengthened precision of Faculty and Cognition |
+| mandatā | dullness / weakness | diminished precision of Faculty and Cognition |
 | tadadhīnatva | dependence upon that | stronger dependence grounding support-status |
-| asādhāraṇa | non-common / specific | faculty restricted to one corresponding knowledge-kind |
-| sādhāraṇa | common / shareable | object available to multiple knowledge-events and continua |
-| nirucyate | is designated | principled naming from the specific support |
+| asādhāraṇa | specific, not common | Faculty restricted to its corresponding kind of Cognition |
+| sādhāraṇa | common / shareable | field available to multiple Cognitions and continua |
+| nirucyate | is designated | naming from the specific support |
 
 ## 8. Logical Determination
 
-Knowledge has dual dependence:
+Cognition has dual dependence:
 
 ```text
-Arises(KnowledgeEvent)
+Arises(Cognition)
     → Requires(FacultySupport)
-    ∧ Requires(ObjectSupport)
+    ∧ Requires(FieldSupport)
 ```
 
 But the dependencies have different functions:
@@ -131,96 +131,90 @@ But the dependencies have different functions:
 ```text
 Alter(Faculty,
     Improvement | Injury | Acuity | Dullness)
-    → CorrespondinglyAlter(KnowledgeEvent)
+    → CorrespondinglyAlter(Cognition)
     → DeterminingSupport(Faculty)
 
-ObjectSupport(Object)
-    → SuppliesDirectionAndContent(KnowledgeEvent)
+FieldSupport(Field)
+    → SuppliesContentAndDirection(Cognition)
 ```
 
 The naming rule is:
 
 ```text
-SupportsOnly(EyeFaculty, EyeKnowledge)
+SupportsOnly(EyeFaculty, EyeCognition)
     → NonCommon(EyeFaculty)
-    → NamedFrom(EyeKnowledge, EyeFaculty)
+    → NamedFrom(EyeCognition, EyeFaculty)
 ```
 
-The object fails this uniqueness test:
+The field is shareable:
 
 ```text
 VisibleForm(x)
-    → MayBeObjectOf(x, ThisEyeKnowledge)
-    ∧ MayBeObjectOf(x, AnotherContinuumEyeKnowledge)
-    ∧ MayBeObjectOf(x, SubsequentMentalKnowledge)
-    → CommonObjectSupport(x)
+    → MayBeFieldOf(x, ThisEyeCognition)
+    ∧ MayBeFieldOf(x, AnotherContinuumEyeCognition)
+    ∧ MayBeFieldOf(x, SubsequentMindCognition)
+    → CommonFieldSupport(x)
 ```
 
 Therefore:
 
 ```text
-HowKnowledgeOccurs
+HowCognitionOccurs
     → determined by Asraya
 
-TowardWhatKnowledgeOccurs
+TowardWhatCognitionIsDirected
     → determined through Alambana and Visaya
 
 SpecificSupport
-    ≠ ShareableObjectSupport
+    ≠ ShareableFieldSupport
 ```
 
-The Agent-side knowledge signature is:
+The relation is:
 
 ```text
-KnowledgeEvent
-    = SpecificFacultyDetermination
-    + ShareableObjectDirection
+Cognition
+    = SpecificFacultySupport
+    + ShareableFieldRelation
 ```
 
 ## 9. Interpretive Note
 
-VAK 1.45 completes the support analysis begun in 1.44. Knowledge does not
-arise without an object, but not every necessary condition has the same
-systematic role. The faculty earns the name `āśraya` because alteration in
-the faculty governs alteration in knowledge.
+VAK 1.45 completes the support analysis begun in 1.44. Cognition does not
+arise without a field, but not every necessary condition has the same
+systematic role. The Faculty is called `āśraya` because alteration in the
+Faculty governs corresponding alteration in Cognition.
 
-This makes faculty-capacity graded rather than merely present or absent:
+Faculty-capacity is therefore graded, not merely present or absent:
 
 ```text
 benefited or injured
 sharp or dull
-    → correspondingly altered knowledge
+    → correspondingly altered Cognition
 ```
 
-The verse then explains the lineage-name of each knowledge-Domain. Eye-
-knowledge is not named from visible form because visible form is common: it
-can be seen by many continua and later taken by mental knowledge. The eye is
-non-common: it supports only its corresponding visual knowledge within one
-continuum.
+The verse also explains the naming of each Cognition Principle. Eye-Cognition
+is not named from visible Form because visible Form can be a field for
+Cognitions in multiple continua and for later Mind-Cognition. The Eye Faculty
+is specific: it supports its corresponding visual Cognition.
 
-This is why Dhātu is the indispensable machinery of the chapter. The system
-cannot express the result through a generic opposition of subject and
-object. It requires distinct Domains and relations:
+For the Organon, Dhātu is Pure Principle—Abhidharma itself. These
+differentiated Cognitions are impure *prajñā* products within the recursive
+Principle Pipeline. A product remains a Principle because its identity is
+grounded in supporting Principles. The verse's distinction is:
 
 ```text
-faculty-Domain
-    → specific determining support
+Faculty Principle
+    → specific support for its corresponding Cognition
 
-object-Domain
-    → common object-support and content-field
+Form field
+    → shareable field-support
 
-knowledge-Domain
-    → event joining the two relations
+Cognition Principle
+    → product determined through those distinct relations
 ```
 
-The Kośa remains Agent-technē. Its science determines why cognition varies
-with its instrument and how one object can remain shareable across multiple
-acts of knowledge.
-
-For the later Organon Vārttika, this will support a precise Agent model of
-capacity and objectivity. It should not be promoted into Yoga metaphysics or
-allowed to touch the Logic infrastructure. The present achievement belongs
-entirely to the high-level scientific modeling of the Rational Agent.
+This recursive model is the project interpretation, not terminology or
+metaphysics attributed to the Bhāṣya.
 
 ## 10. OWL++ Seed
 
@@ -232,30 +226,31 @@ entirely to the high-level scientific modeling of the Rational Agent.
 vak:VAK_1_45
     a vak:Karika ;
     rdfs:label "VAK 1.45" ;
-    vak:hasTopic vak:DeterminingSupportAndKnowledgeNaming ;
+    vak:hasTopic vak:SpecificSupportAndCognitionNaming ;
     vak:belongsTo vak:Dhatunirdesa .
 
 vak:FacultySupport
     a vak:Asraya ;
-    vak:hasProperty vak:NonCommonness ;
-    vak:determines vak:KnowledgeMode .
+    vak:hasProperty vak:Specificity ;
+    vak:determines vak:CognitionMode .
 
-vak:Object
+vak:FieldSupport
     a vak:Alambana ;
-    vak:hasProperty vak:Commonness ;
-    vak:supplies vak:KnowledgeDirection .
+    vak:hasProperty vak:Shareability ;
+    vak:supplies vak:CognitionContentAndDirection .
 
 vak:FacultyAlteration
-    vak:causesCorrespondingAlterationIn vak:KnowledgeEvent .
+    vak:causesCorrespondingAlterationIn vak:Cognition .
 
-vak:KnowledgeEvent
+vak:Cognition
     vak:namedFrom vak:SpecificFacultySupport ;
     vak:requires vak:FacultySupport,
-        vak:ObjectSupport .
+        vak:FieldSupport .
 
-organon:AgentKnowledgeModel
-    a vak:AgentSideModel ;
-    organon:distinguishes vak:DeterminingSupport,
-        vak:ObjectSupport,
-        vak:ObjectField .
+organon:PrinciplePipelineReading
+    a organon:ProjectInterpretation ;
+    organon:distinguishes vak:PurePrinciple,
+        vak:ImpurePrajna,
+        vak:SpecificFacultySupport,
+        vak:ShareableFieldRelation .
 ```

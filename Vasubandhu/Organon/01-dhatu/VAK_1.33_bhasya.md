@@ -1,4 +1,4 @@
-# VAK_1.33 Bhāṣya — Sensory Cognition, Examining Prajñā, and Recollection
+# VAK_1.33 Bhāṣya — Three Forms of Vikalpa in the Principle System
 
 ## 1. Kārikā Anchor
 
@@ -6,7 +6,7 @@
 >
 > tau prajñā mānasī vyagrā smṛtiḥ sarvaiva mānasī // 1.33 //
 
-> [The five sensory cognitions] are without vikalpa with respect to
+> [The five sensory-Cognition Principles] are without vikalpa with respect to
 > examining and recollective vikalpa. Those two are, respectively,
 > unconcentrated mental prajñā and all mental smṛti.
 
@@ -49,7 +49,7 @@ subject of the passage.
 > mānasyeva sarvā smṛtiḥ samāhitā cāsamāhitā cānusmaraṇavikalpaḥ /
 
 The unit occupies printed page 22.18–26 of the local running Sanskrit.
-The question about which domains have objects begins 1.34 and is reserved
+The question about which Principles have objects begins 1.34 and is reserved
 for that study. Page apparatus and verse labels have been removed;
 the wording otherwise follows the running transcription.
 
@@ -60,9 +60,9 @@ segmentation *abhinirūpaṇa-vikalpa*; the displayed Sanskrit retains the
 local form rather than silently regularizing it. The verse's shorter
 *nirūpaṇa* and the prose's *abhinirūpaṇa* are both preserved.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Close Translation
 
-If the five groups of sensory cognition are accompanied by vitarka and
+If the five sensory-Cognition Principles are accompanied by vitarka and
 vicāra, how are they called without vikalpa?
 
 They are without vikalpa with respect to examining and recollective
@@ -108,7 +108,7 @@ remaining two. *Yathākramam*, “in the stated order,” controls their
 pairing with prajñā and smṛti.
 
 The concluding glosses specify association and concentration. They do
-not introduce a second rival theory or a new sequence of attainments.
+not introduce a second rival theory or a sequence of attainments.
 
 ## 5. In What Respect Are the Five Avikalpaka?
 
@@ -171,22 +171,23 @@ mental smṛti; it does not erase *mānasī*.
 
 The local research report's heading “All memory is mental” risks
 broadening a definition of recollective vikalpa into a universal claim
-about smṛti. The safer reading preserves the Sanskrit's domain
-restriction and the explicit contrast in concentration scope.
+about smṛti. The safer reading preserves the Sanskrit's scope restriction
+and the explicit contrast in concentration scope.
 
 The passage also prevents a simple equation of concentration with the
 absence of every vikalpa. Concentrated mental smṛti is expressly included
 in recollective vikalpa. Any further account of non-discriminative
 attainment must specify which sense of vikalpa it means.
 
-The three rows are a classification by nature, not a narrated movement
-from sensation through examination to memory. The source provides no
-arrows of causal production, temporal succession, or pedagogical
-advancement between them.
+The three rows classify kinds and qualifications; they do not narrate
+movement from sensation through examination to memory. The source
+provides no arrows of causal production, temporal succession, or
+pedagogical advancement between them.
 
 ## 8. The Bhāṣya's Decisions for the Kārikā
 
-- Supply the five sensory cognitions as the subject of *avikalpakāḥ*.
+- Supply the five sensory-Cognition Principles as the subject of
+  *avikalpakāḥ*.
 - Restrict that designation to the examining and recollective kinds;
   intrinsic vikalpa remains present.
 - Identify intrinsic vikalpa with vitarka while preserving association
@@ -202,31 +203,32 @@ research commentary remain unchanged.
 
 ## 9. Philosophical and Organon Study
 
-This passage brings the project's question of learning into closer
-contact with an explicit use of prajñā. The text distinguishes sensory
-cognition's intrinsic vikalpa from examining prajñā and recollective
-smṛti. It supplies a vocabulary for asking how sensory occurrence,
-examination, and retention differ, while leaving their contribution to
-the acquisition of understanding to further inquiry.
+The passage brings the project's theory of Prajñā into contact with a
+precise local classification. Sensory cognition has intrinsic vikalpa,
+identified with vitarka; the two kinds it lacks are determining prajñā
+and recollective smṛti. The text also restricts the prajñā in view: it is
+associated with mental cognition and unconcentrated. This does not
+identify every instance of Prajñā with this one classified mode.
 
-For the proposed relation of prajñās to paramārtha and their manifestation
-within saṃvṛti, the immediate task is to specify which determination of
-prajñā is intended. Here the identification depends on mental-cognition
-association and lack of concentration. The paragraph itself does not
-assign that prajñā to paramārtha or offer a theory of the two truths.
-Those connections belong to the Organon reconstruction.
+The Fichtean nondual hypothesis can treat the three kinds as differentiated
+functions within one self-relating cognitive activity, not as independent
+substances. Hegelian logic can preserve those differences as determinate
+moments without making them a temporal ladder. The Bhāṣya supplies a
+typed classification, not a causal story in which sensation develops
+into examination and then memory.
 
-A useful distinction nevertheless becomes available. The presence of
-prajñā as a classified factor, its mode of operation, and the achievement
-of understanding require separate determinations. Likewise, retention
-in concentration cannot be excluded merely because concentration is
-loosely described as beyond discrimination: the text explicitly includes
-it under one defined kind.
+This gives the proposed Prajñā/Vijñāna relation a useful constraint.
+Prajñā may be explored as the self-relating pole and Vijñāna as its
+particular representation, but the local *prajñā* here is specifically
+unconcentrated and associated with mental cognition. The passage does not
+equate it with *paramārtha*, assign the three forms to the two truths, or
+explain how understanding is acquired. Those remain Organon questions.
 
-An Organon account of learning can ask how these functions cooperate,
-how examination becomes understanding, and how retention supports that
-change. It should preserve those as questions rather than present the
-threefold list as an already established developmental sequence.
+Likewise, concentrated mental smṛti remains recollective vikalpa. The
+classification therefore prevents concentration from serving as a
+shortcut for “beyond every form of discrimination.” The intended
+*prakāśa* is the Organon's eventual intelligibility of these differentiated
+operations; it is not a claim made explicitly by the Bhāṣya.
 
 ## 10. Review Status
 

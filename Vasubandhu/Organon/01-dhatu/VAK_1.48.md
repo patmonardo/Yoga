@@ -7,8 +7,8 @@
 > धर्मार्धमिन्द्रियं ये च द्वादशाध्यात्मिकाः स्मृताः ॥ १.४८ ॥
 
 The immediate source's `दिविज्ञेयाः` is read as the compound
-`द्विविज्ञेयाः`, confirmed by the Bhāṣya: each of the five is knowable by two
-knowledge-Domains.
+`द्विविज्ञेयाः`, confirmed by the Bhāṣya: each of the five external Principles
+is knowable through two Cognitions.
 
 ## 2. Sanskrit (IAST)
 
@@ -29,223 +29,223 @@ dvādaśādhyātmikāḥ   → dvādaśa adhyātmikāḥ
 
 | Form | Morphology | Lexical force here |
 |---|---|---|
-| pañca | numeral | five: visible form, sound, smell, taste, and tangible object |
-| bāhyāḥ | nominative masculine plural adjective | external Domains |
-| dvi-vijñeyāḥ | nominative masculine plural compound | knowable by two knowledge-Domains |
+| pañca | numeral | five: visible Form, sound, smell, taste, and tangible Form |
+| bāhyāḥ | nominative masculine plural adjective | external Principles |
+| dvi-vijñeyāḥ | nominative masculine plural compound | knowable through two Cognitions |
 | nityāḥ | nominative masculine plural adjective | permanent |
-| dharmāḥ | nominative masculine plural | dharmas / determinations |
+| dharmāḥ | nominative masculine plural | Essences |
 | asaṃskṛtāḥ | nominative masculine plural adjective | unconditioned; not produced by conditions |
-| dharma-ardham | nominative neuter singular compound | a portion of the Dharma-Domain |
-| indriyam | nominative neuter singular | possessing faculty-status / a faculty |
+| dharma-ardham | nominative neuter singular compound | a portion of the Essence Principle |
+| indriyam | nominative neuter singular | having Faculty-status / a Faculty |
 | ye | nominative masculine plural relative pronoun | those which |
 | ca | conjunction | and; joins the internal twelve to the faculty-distribution |
 | dvādaśa | numeral | twelve |
 | adhyātmikāḥ | nominative masculine plural adjective | internal |
-| smṛtāḥ | nominative masculine plural past participle | taught, recognized, or recalled as |
+| smṛtāḥ | nominative masculine plural past participle | held, taught, or recalled as |
 
-The agreement alternates according to the supplied head: `dhātavaḥ` is
-understood with the masculine plurals, while `dharmārdham` is neuter singular.
+The Bhāṣya supplies the omitted head `dhātavaḥ` (“Principles”) for the five
+external and the twelve internal. `Dharmārdham` is neuter singular: a portion
+of the Essence Principle.
 
 ## 4. Grammar
 
-The verse condenses answers to three successive questions. First, which of
-the eighteen Domains are knowable by which kinds of knowledge?
+The verse condenses three determinations. First, which of the eighteen
+Principles are knowable through which Cognitions?
 
 ```text
 pañca bāhyāḥ dvi-vijñeyāḥ
-    the five external Domains are knowable by two
+    the five external Principles are knowable through two Cognitions
 ```
 
-The Bhāṣya identifies the two: each external object is experienced by its
-corresponding sensory knowledge and known by mental knowledge. The remaining
-thirteen Domains are objects only of mental knowledge.
+The Bhāṣya identifies the two: each of the five is experienced through its
+corresponding sensory Cognition and known through Mind-Cognition. The
+remaining thirteen Principles are knowable only through Mind-Cognition.
 
-Second, which Domains are permanent?
+Second, which Essences are permanent?
 
 ```text
 nityāḥ dharmāḥ asaṃskṛtāḥ
-    the permanent dharmas are the unconditioned
+    the permanent Essences are unconditioned
 ```
 
-The sentence does not say that the entire Dharma-Domain is permanent. The
-Bhāṣya explicitly states that no complete Domain (`sakalo dhātuḥ`) is
-permanent. Only the unconditioned portion of the Dharma-Domain is permanent;
-the remainder is impermanent.
+The sentence does not say that an entire Principle is permanent. The Bhāṣya
+explicitly states that no complete Principle (`sakalo dhātuḥ`) is permanent.
+Only the unconditioned Essences in a portion of the Essence Principle are
+permanent; its conditioned remainder is impermanent.
 
-Third, what in the eighteen-Domain system has faculty-status?
+Third, where does Faculty-status occur?
 
 ```text
 dharma-ardham indriyam
-    a portion of the Dharma-Domain has faculty-status
+    a portion of the Essence Principle has Faculty-status
 
 ye ca dvādaśa adhyātmikāḥ smṛtāḥ
-    as do [elements among] those twelve taught as internal
+    and those twelve Principles are considered internal
 ```
 
-The Bhāṣya supplies the exact mapping. `Ardha` here is a non-mathematical
-“portion.” Faculty-status belongs to complete Domains in some cases and to
-portions of Domains in others.
+The Bhāṣya supplies the mapping of Faculties onto the internal Principles and
+parts of Principles. `Ardha` here is a non-mathematical “portion.”
+Faculty-status belongs to complete Principles in some cases and to portions
+of Principles in others.
 
 ## 5. Translation
 
 ### Close syntactic construe
 
-> The five external [Domains] are knowable by two. The permanent dharmas are the unconditioned. A portion of the Dharma-Domain has faculty-status, as do those [among] the twelve taught as internal.
+> The five external [Principles] are knowable through two Cognitions. The permanent Essences are unconditioned. A portion of the Essence Principle has Faculty-status, and those twelve are considered internal.
 
 ### Bhāṣya-informed translation
 
-> Each of the five external object-Domains is knowable both by its corresponding sensory knowledge and by mental knowledge; the other thirteen are knowable only by mental knowledge. No entire Domain is permanent: only the unconditioned dharmas, which form a portion of the Dharma-Domain, are permanent. Faculty-status belongs to portions of the Dharma-Domain and to the relevant Domains or portions contained among the twelve internal Domains.
+> Each of the five external Principles is experienced through its corresponding sensory Cognition and known through Mind-Cognition; the other thirteen are knowable only through Mind-Cognition. No entire Principle is permanent: only the unconditioned Essences, which occupy a portion of the Essence Principle, are permanent. Faculty-status belongs to a portion of the Essence Principle and to the relevant Principles or parts among the twelve internal Principles.
 
 ## 6. Philosophical Translation
 
-> The completed system distinguishes Domain from mode of access, whole from part, conditioned status from permanence, and classification from function. One external object can enter both sensory and mental knowledge. One Domain can contain both impermanent conditioned dharmas and permanent unconditioned dharmas. Faculty-status can occupy a whole Domain or only part of one. The classifications overlap without collapsing into one another.
+> The verse distinguishes a Principle from its modes of access, a whole from its parts, conditionedness from permanence, and Principle-identity from Faculty-status. Each external Principle is available through both a sensory Cognition and Mind-Cognition. The Essence Principle contains conditioned and unconditioned Essences; only the latter are permanent. Faculty-status can belong to a whole Principle or to a part. These determinations intersect without collapsing into one another.
 
-Organon rendering:
+Organon reading:
 
-> The Dhātu System closes as a System of Knowledge whose classifications are mutually articulated but irreducible. Externality does not mean exclusion from mind; permanence does not belong to an entire Domain; and faculty does not name a second inventory beside the Domains. Dhātu supplies the stable architecture through which objects, knowledges, conditions, and powers can be cross-classified. The Kośa is logical in this articulated operation, but it neither makes Logic nor becomes a Science of Logic.
+> As a project interpretation, the verse shows the Principle of a Dharma holding differentiated determinations in one architecture: Cognition-access, conditionedness and permanence, and Faculty-status. No one determination absorbs the others. The Dhātu Principles are not a flat inventory; their relations form a structured Principle system. This closes the Dhātu study, while the special Principle:Rule pass remains for after the Indriya-nirdeśa.
 
 ## 7. Technical Vocabulary
 
 | Sanskrit | Project rendering | Determination |
 |---|---|---|
-| bāhya | external | the five sensory object-Domains |
-| dvi-vijñeya | knowable by two | accessible to corresponding sensory knowledge and mental knowledge |
-| anubhūta | sensorily experienced | Bhāṣya term for the first mode of access |
-| manovijñāna | mental knowledge | the second mode of access to the external five; sole access to the remaining thirteen |
+| bāhya | external | the five sensory-field Principles |
+| dvi-vijñeya | knowable through two Cognitions | accessible through corresponding sensory Cognition and Mind-Cognition |
+| anubhūta | experienced | Bhāṣya term for the sensory mode of access |
+| manovijñāna | Mind-Cognition | the second mode of access to the external five; sole access to the remaining thirteen |
 | nitya | permanent | predicated only of unconditioned dharmas here |
-| anitya | impermanent | status of all conditioned dharmas |
+| anitya | impermanent | status of conditioned Essences |
 | asaṃskṛta | unconditioned | not produced through conditioning causes |
-| sakala dhātu | complete Domain | no complete Domain is permanent |
-| dharmadhātvekadeśa | portion of the Dharma-Domain | locus of the unconditioned and of several faculties |
-| dharmārdha | portion of the Dharma-Domain | non-arithmetic expression for the relevant part |
-| indriya | faculty / governing power | functional status distributed across Domains and Domain-parts |
-| sālambana | possessing an object-support | Bhāṣya's reason for placing mind among object-directed faculties |
-| adhyātmika | internal | the twelve faculty- and knowledge-side Domains recalled from 1.39 |
+| sakala dhātu | complete Principle | no complete Principle is permanent |
+| dharmadhātvekadeśa | portion of the Essence Principle | locus of unconditioned Essences and several Faculties |
+| dharmārdha | portion of the Essence Principle | non-arithmetic expression for the relevant part |
+| indriya | Faculty / governing power | functional status distributed across Principles and their parts |
+| sālambana | field-supported | Bhāṣya's reason for placing Mind-Faculty after Life-Faculty |
+| adhyātmika | internal | the twelve internal Principles recalled from 1.39 |
 
 ## 8. Logical Determination
 
 The knowability partition is:
 
 ```text
-ExternalFive
-    = {VisibleForm, Sound, Smell, Taste, TangibleObject}
+ExternalFivePrinciples
+    = {VisibleForm, Sound, Smell, Taste, TangibleForm}
 
-For each x in ExternalFive:
-    KnowableBy(x, CorrespondingSensoryKnowledge)
-    ∧ KnowableBy(x, MentalKnowledge)
+For each p in ExternalFivePrinciples:
+    KnowableThrough(p, CorrespondingSensoryCognition)
+    ∧ KnowableThrough(p, MindCognition)
 
-For each x in RemainingThirteen:
-    KnowableBy(x, MentalKnowledge)
-    ∧ not KnowableBy(x, SensoryKnowledge)
+For each p in RemainingThirteenPrinciples:
+    KnowableThrough(p, MindCognition)
+    ∧ not KnowableThrough(p, SensoryCognition)
 ```
 
 The permanence partition requires part-whole precision:
 
 ```text
-No x such that:
-    CompleteDomain(x) ∧ Permanent(x)
+No p such that:
+    CompletePrinciple(p) ∧ Permanent(p)
 
-UnconditionedDharma(x)
-    → Permanent(x)
-    ∧ PartOf(x, DharmaDomain)
+UnconditionedEssence(e)
+    → Permanent(e)
+    ∧ PartOf(e, EssencePrinciple)
 
-ConditionedDharma(x)
-    → Impermanent(x)
+ConditionedEssence(e)
+    → Impermanent(e)
 ```
 
 Thus it is invalid to infer:
 
 ```text
-ContainsPermanentPart(DharmaDomain)
-    → Permanent(DharmaDomain)
+ContainsPermanentPart(EssencePrinciple)
+    → Permanent(EssencePrinciple)
 ```
 
-Faculty-status cross-cuts Domain identity:
+Faculty-status cross-cuts Principle identity:
 
 ```text
 FacultyStatus(x)
-    may apply to CompleteDomain(x)
-    or DomainPart(x)
+    may apply to CompletePrinciple(x)
+    or PartOfPrinciple(x)
 
-Domain(x)
-    ↛ Faculty(x)
+Principle(x)
+    ↛ FacultyStatus(x)
 
-Faculty(x)
-    ↛ CompleteDomain(x)
+FacultyStatus(x)
+    ↛ CompletePrinciple(x)
 ```
 
 The Bhāṣya's principal mapping includes:
 
 ```text
-FiveSensoryFacultyDomains
-    → their five corresponding faculties
+FiveInternalSensoryPrinciples
+    → their five corresponding Faculties
 
-SevenCittaDomains
+SevenCittaPrinciples
     → MindFaculty
 
-PartOf(BodyDomain)
+PartOf(BodyPrinciple)
     → FemaleFaculty, MaleFaculty
 
-RelevantPartsOf(DharmaDomain)
-    → remaining mental, vital, affective, and path faculties
+RelevantPartsOf(EssencePrinciple)
+    → LifeFaculty, feeling Faculties, and further Faculties
 ```
 
-The completed System therefore operates through intersecting predicates:
+The classification therefore operates through intersecting determinations:
 
 ```text
-DomainIdentity
+PrincipleIdentity
 Knowability
-ConditionStatus
+Conditionedness
 PermanenceStatus
 FacultyStatus
 InternalExternalStatus
 
-all cross-classify the same dharmic field
+all cross-classify the same Principle architecture
 without becoming identical classifications
 ```
 
-This architecture is logical in form. It presupposes and uses determinate
-relations; it does not generate the Logic that makes such determination
-possible.
+The point is not that one determination generates the others. Their unity
+consists in their differentiated relations within the Principle architecture.
 
 ## 9. Interpretive Note
 
-The last verse does not culminate in one privileged substance. It completes a
-matrix. The five external object-Domains are “external” yet remain available
-to mental knowledge after sensory experience. The distinction between
-external and internal is therefore a classification of Domain-role, not an
-absolute barrier against mental appropriation.
+The last verse closes Dhātu-nirdeśa by bringing together knowability,
+permanence, and Faculty-status. The five external Principles remain
+knowable through Mind-Cognition as well as their corresponding sensory
+Cognitions. “External” and “internal” distinguish Principle-roles, not an
+absolute boundary on Cognition.
 
-The permanence result is equally exact. Space and the two cessations were
-already placed among the unconditioned dharmas, but they occupy only a portion
-of the Dharma-Domain. Consequently the Dharma-Domain contains both permanent
-and impermanent dharmas. The Domain is not itself converted into an eternal
-whole by containing an unconditioned part.
+The permanence result is equally exact. Space and the two cessations belong
+among the unconditioned Essences, which occupy only a portion of the Essence
+Principle. The Essence Principle therefore contains both permanent and
+impermanent Essences; it does not become a permanent whole by containing
+permanent parts.
 
-The final faculty-mapping displays the chapter's mature method. The eighteen
-Domains and twenty-two faculties are not competing inventories. `Indriya` is
-a functional classification laid across the Domain-system. Five sensory
-faculty-Domains bear faculty-status under their own names; the seven citta-
-Domains together constitute the mind-faculty; sex faculties occupy portions
-of the body-Domain; and numerous other faculties occupy portions of the
-Dharma-Domain. Some Domains and Domain-parts are not faculties at all.
+The final Faculty mapping prepares the movement into Indriya-nirdeśa. The
+eighteen Principles and twenty-two Faculties are not competing inventories.
+Faculty-status cuts across the Principle system: five internal sensory
+Principles bear their corresponding Faculty names; the seven Citta Principles
+map to Mind-Faculty; female and male Faculties occupy a part of the Body
+Principle; and further Faculties occupy a portion of the Essence Principle.
+The five external Principles and the non-faculty portion of the Essence
+Principle do not have Faculty-status.
 
-This finishes the Dhātu System as a System of Knowledge. It began from the
-classification of dharmas and arrived at a structured field in which:
+In the project's Organon reading, the verse shows the Principle of a Dharma
+holding unity and difference together: access, conditionedness, permanence,
+and Faculty-status are distinct determinations within one architecture. This
+is the Dhātu side of the work; the special Principle:Rule pass across Dhātu
+and Indriya remains for after the Indriya-nirdeśa.
 
 ```text
-faculty gives a specific capacity of access
-object gives a determinate field of access
-knowledge gives the event of disclosure
-Dharma-Domain gathers non-sensory objects and determinations
-cross-classifications specify status, range, and function
+Principle
+    remains one structured system
+    through distinct fields of determination:
+        Cognition-access
+        conditionedness and permanence
+        Faculty-status
 ```
-
-That is why “element” is so damaging when allowed to govern the imagination.
-The chapter has not accumulated outward pieces. It has constructed Domains of
-knowing and shown how their powers, objects, events, and statuses interlock.
-Its reasoning is thoroughly logical; its achievement remains the Kośa's
-systematic technē of knowledge, subordinate to the Organon's Logic and Yoga.
 
 ## 10. OWL++ Seed
 
@@ -257,42 +257,40 @@ systematic technē of knowledge, subordinate to the Organon's Logic and Yoga.
 vak:VAK_1_48
     a vak:Karika ;
     rdfs:label "VAK 1.48" ;
-    vak:hasTopic vak:CompletionOfDhatuSystem ;
+    vak:hasTopic vak:KnowabilityPermanenceAndFacultyStatus ;
     vak:belongsTo vak:Dhatunirdesa .
 
-vak:ExternalFiveDomains
-    a vak:DomainGroup ;
-    vak:knowableBy vak:CorrespondingSensoryKnowledge,
-        vak:MentalKnowledge .
+vak:ExternalFivePrinciples
+    a vak:PrincipleGroup ;
+    vak:knowableThrough vak:CorrespondingSensoryCognition,
+        vak:MindCognition .
 
-vak:RemainingThirteenDomains
-    a vak:DomainGroup ;
-    vak:knowableBy vak:MentalKnowledge .
+vak:RemainingThirteenPrinciples
+    a vak:PrincipleGroup ;
+    vak:knowableThrough vak:MindCognition .
 
-vak:UnconditionedDharmas
+vak:UnconditionedEssences
     vak:hasStatus vak:Permanent ;
-    vak:partOf vak:DharmaDomain .
+    vak:partOf vak:EssencePrinciple .
 
-vak:DharmaDomain
-    vak:hasPart vak:ConditionedDharmas,
-        vak:UnconditionedDharmas,
+vak:EssencePrinciple
+    vak:hasPart vak:ConditionedEssences,
+        vak:UnconditionedEssences,
         vak:FacultyBearingPart,
         vak:NonFacultyPart ;
     vak:notWholly vak:Permanent .
 
 vak:FacultyStatus
-    a vak:CrossDomainFunctionalClassification ;
-    vak:mayClassify vak:CompleteDomain,
-        vak:DomainPart .
+    a vak:CrossPrincipleFunctionalClassification ;
+    vak:mayClassify vak:CompletePrinciple,
+        vak:PrinciplePart .
 
-organon:KosaDhatuSystem
-    a organon:SystemOfKnowledge,
-        organon:LogicalTechne ;
-    organon:presupposes organon:Logic ;
-    organon:notIdenticalWith organon:ScienceOfLogic ;
-    organon:classifiesBy vak:DomainIdentity,
-        vak:KnowabilityStatus,
-        vak:ConditionStatus,
+organon:KosaPrincipleArchitecture
+    rdfs:label "Dhātu as a Principle architecture" ;
+    rdfs:comment "Project interpretation: Cognition-access, conditionedness, permanence, and Faculty-status remain distinct determinations in one Principle architecture. The cross-system Principle:Rule pass follows Indriya-nirdeśa." ;
+    organon:classifiesBy vak:PrincipleIdentity,
+        vak:Knowability,
+        vak:Conditionedness,
         vak:PermanenceStatus,
         vak:FacultyStatus,
         vak:InternalExternalStatus .

@@ -26,94 +26,91 @@ trayam anyathā         → trayam anyathā
 | Form | Morphology | Lexical force here |
 |---|---|---|
 | ubhābhyām | instrumental dual | with both |
-| cakṣurbhyām | instrumental dual | with the two eye-faculties |
+| cakṣurbhyām | instrumental dual | with the two Eye Faculties |
 | api | particle | also; one may see with one or with both |
 | paśyati | third-person singular present active | one sees |
 | vyakta-darśanāt | ablative neuter singular compound | because of clearer or more distinct seeing |
-| cakṣus | compound member | eye-faculty |
-| śrotra | compound member | ear-faculty |
-| manas | compound member | mind-faculty |
-| a-prāpta-viṣayam | nominative neuter singular compound | having an object-field not physically contacted |
+| cakṣus | compound member | Eye Faculty |
+| śrotra | compound member | Ear Faculty |
+| manas | compound member | Mind Faculty |
+| a-prāpta-viṣayam | nominative neuter singular compound | having a field not physically contacted |
 | trayam | nominative neuter singular collective | the triad |
-| anyathā | adverb | otherwise; the other three faculties require contact |
+| anyathā | adverb | otherwise; the other three Faculties operate through contact |
 
-The particle `api` is important. The Bhāṣya first says there is no exclusive
-rule: one may see with one eye or with both. The Kārikā emphasizes both-eye
-seeing because coordinated vision is clearer.
+The particle `api` matters: the Bhāṣya says there is no exclusive rule, so
+seeing may occur with one Eye Faculty or both. The Kārikā emphasizes both
+because their coordinated operation gives clearer seeing.
 
 ## 4. Grammar
 
-The first line provides an empirical-functional reason:
+The first line gives the reason for coordinated binocular operation:
 
 ```text
 ubhābhyām api cakṣurbhyāṃ paśyati
-    one also sees with both eyes
+    one also sees with both Eyes
 
 vyakta-darśanāt
     because the resulting seeing is clearer
 ```
 
-The Bhāṣya cites doubled appearances when one eye is closed and the other
-partly closed. It rejects the inference that knowledge must therefore be
-spatially split between two supports: material supports are spatially
-located and divisible, whereas the knowledge-event is not established in
-place in the manner of material form.
+The Bhāṣya cites doubled appearances under unequal eye conditions. It
+rejects the inference that visual Cognition must therefore be divided
+between two supports: the physical Eyes are spatially distinct, but
+Cognition is not spatially divided like Form.
 
-The second line divides the six faculties by physical contact with their
-object-fields:
+The second line divides the six Faculties by whether they physically reach
+their fields:
 
 ```text
-eye, ear, mind
+Eye, Ear, Mind
     → aprāpta-viṣaya
-    → non-contact object-fields
+    → fields not physically contacted
 
-nose, tongue, body
+Nose, Tongue, Body
     → anyathā
-    → contact object-fields
+    → fields reached through contact
 ```
 
-Eye sees forms at a distance but does not see collyrium directly upon it.
-Ear hears distant sound. Mind, being non-material in this analysis, cannot
-enter spatial contact with its Dharma-object at all.
+The Eye sees distant Forms but not collyrium placed directly upon it. The
+Ear hears distant sound. Mind cannot physically contact its Essence field.
 
-The Bhāṣya records an alternative position that hearing may have both
-contacted and non-contacted objects. It reports this briefly without
-adjudication.
+The Bhāṣya also records, without deciding, an alternative view that hearing
+has both contacted and non-contacted fields.
 
 ## 5. Translation
 
 ### Close syntactic construe
 
-> One also sees with both eyes, because seeing is clearer. Eye, ear, and mind form a triad whose object-fields are not physically contacted; the other [three faculties] operate otherwise.
+> One also sees with both Eyes, because seeing is clearer. Eye, Ear, and Mind form a triad whose fields are not physically contacted; the other three operate otherwise.
 
 ### Bhāṣya-informed translation
 
-> Seeing may occur through one eye or through both, but coordinated binocular operation yields a clearer visual presentation. Eye and ear apprehend objects without physically reaching them, and mind is incapable of spatial contact with its Dharma-object. Nose, tongue, and body normally require contact with their respective object-fields, though some teachers give hearing a mixed status.
+> Seeing may occur through one Eye or both, with clearer seeing through their coordinated operation. Eye and Ear disclose their fields without physical contact; Mind does not physically contact its Essence field. Nose, Tongue, and Body operate otherwise, through contact with their fields, though some teachers classify hearing as both contacted and non-contacted.
 
 ## 6. Philosophical Translation
 
-> A faculty's object-relation has a determinate mode and a determinate range. Multiple material supports can cooperate in one clearer presentation without dividing knowledge spatially. Some faculties operate across non-contact relation and others through contact, but neither mode grants unrestricted access to everything standing at a distance or in contact.
+> Faculties have distinct access modes. Eye, Ear, and Mind operate without physical contact with their fields; Nose, Tongue, and Body operate through contact. The mode does not determine unlimited access: each Faculty has a bounded field of operation.
 
 Organon rendering:
 
-> The Agent's instruments are typed by access-mode and bounded capacity. Eye, ear, and mind disclose without tactile contact; nose, tongue, and body require a contacted field. Yet access-mode alone never determines the full extension of a faculty. Each Indriya remains ordered toward a selective Domain and a conditioned range of operation.
+> A Faculty's access mode and its field of operation are distinct determinations. Coordinated Eyes support clearer visual Cognition, but neither contact nor non-contact grants unrestricted access to every field.
 
 ## 7. Technical Vocabulary
 
 | Sanskrit | Project rendering | Determination |
 |---|---|---|
-| vyakta-darśana | clear / distinct seeing | enhanced visual presentation through coordinated binocular operation |
+| vyakta-darśana | clear / distinct seeing | clearer visual Cognition through coordinated binocular operation |
 | vivṛta | open | condition of both eyes in clearer vision |
 | dvicandra-grahaṇa | apprehension of two moons | doubled visual presentation under asymmetrical eye conditions |
-| āśraya-viccheda | interruption of a support | physical division that does not spatially divide knowledge itself |
-| deśāpratiṣṭhitatva | not established in spatial location | status of knowledge as unlike material form |
-| viṣaya | determinate object-field | kind and functional field toward which a faculty is ordered |
-| prāpta-viṣaya | contacted object-field | object physically reached by a faculty |
-| aprāpta-viṣaya | non-contact object-field | object not physically reached by the faculty |
-| tiraskṛta | screened off | object excluded despite being spatially distant rather than contacted |
+| āśraya-viccheda | interruption of a support | division of physical support does not divide Cognition spatially |
+| deśāpratiṣṭhitatva | not established in spatial location | Cognition is not located as Form is |
+| viṣaya | field | determinate field toward which a Faculty is ordered |
+| prāpta-viṣaya | contacted field | field physically reached by a Faculty |
+| aprāpta-viṣaya | field not physically contacted | field not physically reached by the Faculty |
+| tiraskṛta | screened off | field excluded despite non-contact access |
 | ayaskānta | magnet | analogy showing that non-contact operation remains selective |
-| arūpitva | non-materiality | reason mind cannot physically contact its object |
-| prāptāprāpta-viṣaya | contact-and-non-contact object-field | alternative reported analysis of hearing |
+| arūpitva | non-Form | Mind has no physical extension with which to contact its field |
+| prāptāprāpta-viṣaya | contacted and non-contacted fields | alternative reported analysis of hearing |
 
 `Prāpta` and `aprāpta` mean physically contacted and not contacted here, not
 temporally present and absent.
@@ -123,40 +120,38 @@ temporally present and absent.
 The binocular relation is:
 
 ```text
-Open(Eye1)
-∧ Open(Eye2)
-∧ Coordinated(Eye1, Eye2)
-    → ClearerVisualPresentation
+Coordinated(Eye1, Eye2)
+    → ClearerVisualCognition
 
-Plural(MaterialSupports)
-    ↛ SpatiallyPlural(KnowledgeEvent)
+DistinctPhysicalSupports
+    ↛ SpatiallyDivided(Cognition)
 ```
 
 The contact-mode partition is:
 
 ```text
-NonContactObjectField
-    = {EyeFaculty, EarFaculty, MindFaculty}
+NonContactFaculty
+    = {Eye, Ear, Mind}
 
-ContactObjectField
-    = {NoseFaculty, TongueFaculty, BodyFaculty}
+ContactFaculty
+    = {Nose, Tongue, Body}
 ```
 
 But mode and range are independent:
 
 ```text
 NonContactFaculty(x)
-    ↛ ApprehendsEveryUncontactedObject(x)
+    ↛ CognizesEveryUncontactedField(x)
 
 ContactFaculty(x)
-    ↛ ApprehendsEveryContactedObject(x)
+    ↛ CognizesEveryContactedField(x)
 ```
 
 The Bhāṣya's magnet analogy has the same form:
 
 ```text
 MagnetActsWithoutContact
-    ∧ ¬AttractsEveryDistantIronObject
+    ∧ ¬AttractsEveryDistantIron
 
 Therefore:
     NonContactOperation
@@ -166,63 +161,58 @@ Therefore:
 Mind receives a categorical constraint:
 
 ```text
-NonMaterial(Mind)
-    → IncapableOfPhysicalContact(Mind, DharmaObject)
+NotForm(Mind)
+    → IncapableOfPhysicalContact(Mind, EssenceField)
 ```
 
-The Agent-side determination is:
+The Faculty determination is:
 
 ```text
-FacultyCapacity(x)
-    → HasObjectField(x)
+Faculty(x)
+    → HasField(x)
     ∧ HasAccessMode(x)
     ∧ HasBoundedOperatingRange(x)
 ```
 
 ## 9. Interpretive Note
 
-VAK 1.43 continues the operational inquiry begun in 1.41–1.42. It first
-shows that a single cognitive presentation may depend upon coordinated
-plural supports. Clearer binocular seeing does not require two spatially
-separated knowledge-events corresponding mechanically to the two eyes.
+VAK 1.43 adds two determinations to the inquiry into seeing: both Eye
+Faculties can coordinate in clearer visual Cognition, and Faculties differ
+by whether they physically reach their fields. The Bhāṣya does not infer
+that distinct physical supports spatially divide Cognition.
 
-The contact classification then gives each faculty a determinate mode of
-access. This is not yet a theory of representation and certainly not a
-Puruṣa–Prakṛti structure. It is a technical classification of how an
-Indriya stands to its `viṣaya`.
-
-The objection and magnet analogy supply the stronger result:
+Its objection and magnet analogy show that access mode does not determine
+unlimited range:
 
 ```text
 non-contact
-    ≠ omnidirectional or unlimited apprehension
+    ≠ access to every unreached field
 
 contact
-    ≠ apprehension of everything touching the faculty
+    ≠ access to every field in contact
 ```
 
-Thus a faculty is not defined merely by whether it touches. Its capacity is
-selective and conditioned. The eye sees some unreached visible forms but not
-everything distant, obstructed, too near, or placed directly upon it.
+`Aprāpta` means not physically contacted; it does not mean that the Faculty
+lacks a field or support. The Eye sees distant Forms but not collyrium
+placed directly upon it. The Bhāṣya also records an alternative view that
+hearing has both modes.
 
-For the Agent-side Kośa science, the Indriya now has at least three distinct
-determinations:
+The machine-design distinction made explicit here is:
 
 ```text
-object-field
-access-mode
-operating range
+Faculty
+    → access mode
+    → bounded field
+    → conditioned Cognition
+
+two Eye Faculties
+    → coordinated operation
+    → clearer visual Cognition
 ```
 
-The Bhāṣya directly establishes boundedness, but it does not quantify
-thresholds, magnitudes, or intensities. Any later quantitative model belongs
-to the Organon Vārttika and must not be smuggled into the primary translation.
-
-The Yoga comparison remains limited. Yoga can later determine these
-instruments through Prakṛti and order their operation toward Puruṣa. The
-Kośa passage itself knows only the faculty, its object-field, its contact
-mode, and the conditioned knowledge-event. That limitation is part of what
-makes its technē cleanly usable without granting it authority over Yoga.
+The Bhāṣya establishes boundedness but does not quantify thresholds or
+intensities. This model stays with the verse's own Faculty, field, contact,
+and Cognition distinctions.
 
 ## 10. OWL++ Seed
 
@@ -238,23 +228,23 @@ vak:VAK_1_43
     vak:belongsTo vak:Dhatunirdesa .
 
 vak:NonContactFacultySet
-    a vak:DomainSet ;
+    a vak:FacultySet ;
     vak:hasMember vak:EyeFaculty,
         vak:EarFaculty,
         vak:MindFaculty .
 
 vak:ContactFacultySet
-    a vak:DomainSet ;
+    a vak:FacultySet ;
     vak:hasMember vak:NoseFaculty,
         vak:TongueFaculty,
         vak:BodyFaculty .
 
 vak:BinocularOperation
-    vak:coordinates vak:TwoEyeSupports ;
-    vak:produces vak:ClearerVisualPresentation .
+    vak:coordinates vak:TwoEyeFaculties ;
+    vak:supports vak:ClearerVisualCognition .
 
 vak:FacultyCapacity
-    vak:requiresProperty vak:ObjectField,
+    vak:requiresProperty vak:FacultyField,
         vak:AccessMode,
         vak:BoundedOperatingRange .
 

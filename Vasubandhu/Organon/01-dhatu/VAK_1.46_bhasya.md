@@ -6,12 +6,12 @@
 >
 > vijñānaṃ cāsya rūpaṃ tu kāyasyobhe ca sarvataḥ // 1.46 //
 
-> The eye is not lower than the body; visible form is not higher
-> than the eye, and neither is cognition. But relative to that
-> cognition, form may be higher, equal, or lower; relative to
-> the body, both form and cognition may be so.
+> The Eye is not lower than the Body; visible Form is not higher
+> than the Eye, and neither is Eye-Cognition. But relative to that
+> Cognition, Form may be higher, equal, or lower; relative to
+> the Body, both Form and Cognition may be so.
 
-The Bhāṣya specifies the different ranges of these factors and
+The Bhāṣya specifies the different plane-ranges of these Principles and
 resolves the pronouns. The alternatives in the final clause are
 subject to those ranges, not unrestricted combinations.
 
@@ -79,7 +79,7 @@ examples omitted from the research excerpt are restored here.
 
 Mechanical defects in *rūpāṇi*, *vijñānarūpe*, *dvitīyadhyāna*,
 *cakṣūrūpe*, *prathamabhūmikam*, *adharabhūmikāni*, *prathamadhyāna*,
-and *ūrdhva* are regularized. The sentence at 35.04–05 is materially
+and *ūrdhva* are regularized. The sentence at 35.04–05 is substantially
 damaged: its surviving wording juxtaposes one's own forms,
 first-dhyāna forms, and “all three at that level,” without preserving
 the full construction. It is retained in Sanskrit and marked as a
@@ -88,79 +88,77 @@ These are local transcription repairs, not manuscript collation.
 
 ## 3. Continuous Conventional Translation
 
-When someone situated in a body sees visible forms with an eye,
-must that body, eye, visible form, and cognition all belong to one
-level, or can they belong to different levels? The answer is:
-there is differentiation among them all.
+When someone situated in a Body sees visible Forms with an Eye,
+must that Body, Eye, visible Form, and Cognition all belong to one
+plane, or can they belong to different planes? The answer is:
+they can differ.
 
-For someone born in the desire realm who sees forms of their own
-level with their own eye, everything belongs to their own level.
+For someone born in the Desire Realm who sees Forms of their own
+plane with their own Eye, everything belongs to that plane.
 [The next sentence is defective: it mentions that person's own
-forms, forms belonging to the first dhyāna, and three factors
+Forms, Forms belonging to the first dhyāna, and three Principles
 belonging to that level; the complete distribution cannot be
 translated securely from the surviving wording.]
 
-For that person seeing forms of their own level with an eye of
-the second dhyāna, body and form belong to their own level, the
-eye to that [second-dhyāna] level, and cognition to the first dhyāna.
-When they see forms of the first dhyāna, cognition and form belong
-to that level, the body to the desire realm, and the eye to the
-second dhyāna. When they see forms of the second dhyāna, eye and
-form belong to that level, the body to the desire realm, and
-cognition to the first dhyāna. The same is to be applied when,
-with an eye belonging to the third or fourth dhyāna, they see
-forms of that or a lower level.
+For that person, when seeing Forms of their own plane with an Eye
+of the second dhyāna, Body and Form belong to their own plane, the
+Eye to that [second-dhyāna] plane, and Cognition to the first dhyāna.
+When they see Forms of the first dhyāna, Cognition and Form belong
+to that plane, the Body to the Desire Realm, and the Eye to the
+second dhyāna. When they see Forms of the second dhyāna, Eye and
+Form belong to that plane, the Body to the Desire Realm, and
+Cognition to the first dhyāna. The same is to be applied when,
+with an Eye belonging to the third or fourth dhyāna, they see
+Forms of that or a lower plane.
 
-For someone born in the first dhyāna who sees forms of their own
-level with their own eye, everything belongs to their own level.
-When they see lower forms, three factors belong to their own level.
-When they see forms of their own level with a second-dhyāna eye,
-three belong to their own level and the eye to that [second-dhyāna]
-level. When they see desire-realm forms, body and cognition belong
-to their own level, the forms are lower, and the eye belongs to
-that [second-dhyāna] level. When they see second-dhyāna forms,
-eye and form belong to that level and the remainder to their own
-level. The same is to be applied with a third-dhyāna eye.
+For someone born in the first dhyāna who sees Forms of their own
+plane with their own Eye, everything belongs to that plane. When
+they see lower Forms, three Principles belong to their own plane.
+When they see Forms of their own plane with a second-dhyāna Eye,
+three belong to their own plane and the Eye to that [second-dhyāna]
+plane. When they see Desire-Realm Forms, Body and Cognition belong
+to their own plane, the Forms are lower, and the Eye belongs to
+that [second-dhyāna] plane. When they see second-dhyāna Forms,
+Eye and Form belong to that plane and the remainder to their own
+plane. The same is to be applied with a third-dhyāna Eye.
 
 For someone born in the second or a subsequent dhyāna, the cases
-of seeing forms of their own or another level with eyes of their
-own or another level are to be applied as appropriate.
+of seeing Forms of their own or another plane with Eyes of their
+own or another plane are to be applied as appropriate.
 
-This, however, is the fixed rule: the eye is not lower than the
-body. Body, eye, and visible form belong to five levels, from the
-desire realm through the fourth dhyāna. Visual cognition belongs
-to two levels: the desire realm and the first dhyāna. The eye
-belongs to the body's level or to a higher level, never to a lower
-one. Visible form belonging to the eye's level or a lower level
-becomes its object. Visible form is not higher than the eye:
-form belonging to a higher level can never be seen by an eye
-belonging to a lower one.
+This, however, is the fixed rule: the Eye is not lower than the
+Body. Body, Eye, and visible Form belong to five planes, from the
+Desire Realm through the fourth dhyāna. Eye-Cognition belongs to
+two planes: the Desire Realm and the first dhyāna. The Eye belongs
+to the Body's plane or a higher plane, never a lower one. Visible
+Form belonging to the Eye's plane or a lower plane becomes its
+field. Visible Form is not higher than the Eye: Form belonging to
+a higher plane can never be seen by an Eye belonging to a lower one.
 
-And cognition too is not higher than the eye, just as visible
-form is not. But relative to this cognition, visible form may
-be from any direction; relative to the body, both may be from
-any direction. “This” means the visual cognition just mentioned:
-visible form can be its object from above, below, or its own
-level. Relative to the body, both visible form and cognition
-can likewise be from any direction.
+Eye-Cognition too is not higher than the Eye, just as visible Form
+is not. But relative to this Cognition, visible Form may be higher,
+lower, or on the same plane; relative to the Body, both may be
+higher, lower, or on the same plane. “This” means the Eye-Cognition
+just mentioned: visible Form can be its field from any of those
+three planes. The same three possibilities hold for visible Form
+and Cognition relative to the Body.
 
-“Above” and “below” concern the stated levels, not physical height.
-The final alternatives apply within the previously specified domains
-and restrictions; they do not add visual cognition at the second
-through fourth dhyānas.
+“Above” and “below” concern the stated planes, not physical height.
+The final alternatives apply within the previously specified ranges
+and restrictions; they do not add Eye-Cognition at the second through
+fourth dhyānas.
 
 ## 4. Movement and Voices of the Commentary
 
-The opening question distinguishes four terms in a visual event:
-body, eye, visible form, and cognition. The examples first show
+The opening question distinguishes four Principles in a visual event:
+Body, Eye, visible Form, and Cognition. The examples first show
 that their levels need not coincide. The text then states a rule
 that organizes those distributions.
 
 The surviving examples are more extensive than the research
 excerpt's rule-only presentation. Their restoration shows why
-“one's own level” must be read relative to the person whose birth
-level is being discussed, while “that level” follows the particular
-eye or object just named.
+“one's own plane” must be read relative to the person's birth plane,
+while “that plane” follows the particular Eye or field just named.
 
 No rival school is explicitly named in this unit. The exposition
 works within the level-classification it states. The defective
@@ -169,21 +167,21 @@ competing doctrine.
 
 ## 5. Four Factors, Two Different Ranges
 
-| Factor | Levels stated in this passage |
+| Principle or field | Planes stated in this passage |
 |---|---|
-| Body | Desire realm and first through fourth dhyānas |
-| Eye | Desire realm and first through fourth dhyānas |
-| Visible form | Desire realm and first through fourth dhyānas |
-| Visual cognition | Desire realm and first dhyāna |
+| Body Principle | Desire Realm and first through fourth dhyānas |
+| Eye Principle | Desire Realm and first through fourth dhyānas |
+| Visible Form field | Desire Realm and first through fourth dhyānas |
+| Eye-Cognition Principle | Desire Realm and first dhyāna |
 
-Here *kāya* is the body in which the person is situated. It must
-remain distinct from *cakṣus*, the eye-faculty used in seeing.
-The passage is not assigning the body's level automatically to
-every faculty, object, or cognition associated with that person.
+Here *kāya* is the Body in which the person is situated. It must
+remain distinct from *cakṣus*, the Eye Faculty used in seeing.
+The passage does not assign the Body's plane automatically to
+every Faculty, field, or Cognition associated with that person.
 
-Likewise, a higher-level eye does not entail visual cognition of
-that same higher level. The explicit second-dhyāna-eye examples
-place cognition at the first dhyāna. This is why all four terms
+Likewise, a higher-plane Eye does not entail Eye-Cognition at
+that same plane. The explicit second-dhyāna-Eye examples place
+Cognition at the first dhyāna. This is why all four terms
 must be tracked separately.
 
 ## 6. The Relative-Level Rules
@@ -192,20 +190,20 @@ The verse gives three restrictions and two comparisons:
 
 | Comparison | Rule |
 |---|---|
-| Eye relative to body | Same level or higher |
-| Visible form relative to eye | Same level or lower |
-| Visual cognition relative to eye | Same level or lower |
-| Visible form relative to visual cognition | Higher, equal, or lower, as applicable |
-| Form and visual cognition relative to body | Higher, equal, or lower, as applicable |
+| Eye relative to Body | Same plane or higher |
+| Visible Form relative to Eye | Same plane or lower |
+| Eye-Cognition relative to Eye | Same plane or lower |
+| Visible Form relative to Eye-Cognition | Higher, same, or lower |
+| Visible Form and Eye-Cognition relative to Body | Higher, same, or lower |
 
-*Vijñānaṃ ca* carries forward “not higher than the eye.” The next
-*asya* refers to that visual cognition, as the prose expressly
-says. *Ubhe*, “both,” then refers to visible form and cognition,
-not to body and eye.
+*Vijñānaṃ ca* carries forward “not higher than the Eye.” The next
+*asya* refers to that Eye-Cognition, as the prose expressly says.
+*Ubhe*, “both,” then refers to visible Form and Cognition, not to
+Body and Eye.
 
-*Sarvataḥ* is explained as above, below, and at one's own level.
+*Sarvataḥ* is explained as higher, lower, and on one's own plane.
 It does not mean that every assignment of five levels to four
-factors is allowed. The restricted two-level range of cognition
+factors is allowed. The restricted two-plane range of Eye-Cognition
 and the eye-related inequalities remain in force. The inequalities
 summarize stated restrictions; they do not by themselves prove
 that every tuple satisfying them is realizable.
@@ -214,7 +212,7 @@ that every tuple satisfying them is realizable.
 
 The following are explicit intact cases from the opening exposition:
 
-| Birth/body level | Eye level | Form level | Visual-cognition level |
+| Body plane | Eye plane | Form-field plane | Eye-Cognition plane |
 |---|---|---|---|
 | Desire realm | Desire realm | Desire realm | Desire realm |
 | Desire realm | Second dhyāna | Desire realm | First dhyāna |
@@ -224,8 +222,8 @@ The following are explicit intact cases from the opening exposition:
 | First dhyāna | Second dhyāna | Second dhyāna | First dhyāna |
 
 The damaged 35.04–05 sentence is not used to populate this table.
-The intact second-dhyāna-eye examples already demonstrate the key
-point: body, faculty, object, and cognition may differ without
+The intact second-dhyāna-Eye examples already demonstrate the key
+point: Body, Faculty, field, and Cognition may differ without
 violating the stated ordering.
 
 The text instructs the reader to extend certain cases to higher
@@ -236,32 +234,32 @@ a license to invent additional levels of visual cognition.
 ## 8. The Bhāṣya's Decisions for the Kārikā
 
 - Interpret higher and lower through *bhūmi*, not spatial position.
-- Distinguish body, eye, visible form, and cognition throughout.
-- Preserve five possible levels for the first three and two for cognition.
-- Carry the negative comparison with the eye into *vijñānaṃ ca*.
-- Resolve *asya* as visual cognition and *ubhe* as form and cognition.
-- Restrict “from every direction” by the already stated ranges and rules.
+- Distinguish Body, Eye, visible Form, and Cognition throughout.
+- Preserve five possible planes for the first three and two for Eye-Cognition.
+- Carry the negative comparison with the Eye into *vijñānaṃ ca*.
+- Resolve *asya* as Eye-Cognition and *ubhe* as Form and Cognition.
+- Restrict “in every relation” by the already stated ranges and rules.
 - Preserve the damaged opening example as uncertain rather than
   completing it silently from the later rule.
 
 ## 9. Philosophical and Organon Study
 
-The passage makes the relation between a person's situation and
-a cognitive event more precise. Body-level, faculty-level,
-object-level, and cognition-level are distinct determinations.
-None should replace the other merely because they participate
-in one episode of seeing.
+The Bhāṣya distinguishes the planes of Body, Eye, visible Form,
+and Eye-Cognition. The Eye Principle bounds the planes of its
+visible Form field and Eye-Cognition from above, but the Body
+Principle does not impose the same upper bound. `Sarvataḥ` ranges
+over higher, lower, and same plane, subject to the stated constraints.
 
-For Organon study, this supplies a disciplined example of relational
-classification: allowable comparisons are specified between named
-terms, and those terms retain different ranges. A single label
-such as “higher cognition” would obscure the fact that a higher
-eye can be paired with first-dhyāna visual cognition.
+In the Organon model, these are relational rules within the Principle
+Pipeline, not another inventory. Dhātu is Pure Principle—Abhidharma
+itself—and the differentiated Cognitions are impure *prajñā* products.
+Their plane relations do not define the purity of Principle or the
+truth of a Cognition. This is project interpretation, not a claim
+attributed to the Bhāṣya.
 
-This remains the Kośa's account of levels. It does not by itself
-establish a modern hierarchy of perceptual resolution, a quantitative
-scale of consciousness, or an identification of higher level with
-more truthful judgment. Those would require separate arguments.
+The plane language refers to realms and meditative levels, not
+geometric height. A higher plane is not, on this evidence alone,
+a measure of greater accuracy or truth.
 
 ## 10. Review Status
 
@@ -272,6 +270,7 @@ to hearing is reserved for 1.47.
 
 The defective sentence at 35.04–05 remains visible and untranslated
 beyond its securely recognizable fragments. Mechanical repairs,
-pronoun resolutions, and limits on the level comparisons are
-stated above. Original witnesses and the existing kārikā study
-are preserved.
+pronoun resolutions, and limits on the plane comparisons are stated
+above. The Organon interpretation remains separate from the
+conventional translation. Original witnesses and the existing
+kārikā study are preserved.

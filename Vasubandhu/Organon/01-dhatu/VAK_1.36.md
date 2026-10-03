@@ -1,4 +1,4 @@
-# VAK_1.36
+# VAK_1.36 — Operation of the Outer Principle Tetrad
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -26,8 +26,8 @@ dagdhṛtulyayoḥ     → dagdhṛ-tulyayoḥ
 |---|---|---|
 | chinatti | third-person singular present active of `√chid` | cuts, divides |
 | chidyate | third-person singular present passive | is cut or divided |
-| bāhyam | nominative neuter singular adjective | external |
-| dhātu-catuṣṭayam | nominative neuter singular collective | tetrad of Domains |
+| bāhyam | nominative neuter singular adjective | outer |
+| dhātu-catuṣṭayam | nominative neuter singular collective | tetrad of Principles |
 | dahyate | third-person singular present passive of `√dah` | is burned |
 | tulayati | third-person singular present causative from `√tul` | weighs, places in a balance |
 | evam | adverb | likewise, in this way |
@@ -38,29 +38,29 @@ dagdhṛtulyayoḥ     → dagdhṛ-tulyayoḥ
 
 The transmitted wording around `dagdhṛ-tulya` and parts of the Bhāṣya is
 textually unstable. The doctrinal issue is nevertheless clear: disagreement
-concerns whether burning and weighed status belong to the concrete external
-tetrad or to the specific determinations fire and heaviness.
+concerns whether the roles of burner and what-is-weighed belong to the
+concrete outer tetrad or to the specific determinations Fire and heaviness.
 
 ## 4. Grammar
 
-The collective subject is the external tetrad:
+The collective subject is the outer tetrad of Principles:
 
 ```text
 rūpa-dhātu
-    visible-form Domain
+    visible-Form Principle
 
 gandha-dhātu
-    smell-domain
+    smell Principle
 
 rasa-dhātu
-    taste-domain
+    taste Principle
 
 spraṣṭavya-dhātu
-    tangible Domain
+    tangible Principle
 ```
 
-These occur concretely in complexes conventionally named axe, wood, and so
-forth. Sound is excluded, as are the five sensory faculties.
+These occur in complexes conventionally named axe, wood, and so forth.
+Sound is excluded, as are the five sensory Faculties.
 
 The active/passive pair `chinatti chidyate` attributes both operative roles
 to the tetrad. The Bhāṣya then defines cutting:
@@ -76,7 +76,7 @@ substance. It is a change in the manner in which an aggregate-continuum is
 produced.
 
 `Dahyate` and `tulayati` continue the predicates of the same tetrad: it is
-burned and enters the operation of weighing. The final dual marks a
+burned and participates in weighing. The final dual marks a
 scholastic dispute over the complementary attributions. One position assigns
 them to the concrete tetrad; another isolates fire as the burner and
 heaviness as what is weighed. The Kārikā records the disagreement rather
@@ -86,42 +86,50 @@ than resolving it.
 
 ### Close syntactic construe
 
-> The external tetrad of Domains both cuts and is cut; likewise it is burned and weighs. There is disagreement concerning what burns and what is weighed.
+> The outer tetrad of Principles both cuts and is cut; likewise it is burned and participates in weighing. There is disagreement concerning the burner and what is weighed.
 
 ### Bhāṣya-informed translation
 
-> Visible form, smell, taste, and tangible matter can divide a connected material aggregate-stream and can themselves undergo such division. They are also burnable and enter relations of weighing. Some assign burning and weighed status to the concrete four-Domain complex; others maintain that fire alone burns and heaviness alone is weighed.
+> The Principles of visible Form, smell, taste, and tangibility can divide a connected Form-stream and can themselves undergo such division. They are also burned and participate in weighing. Some assign the roles of burner and what-is-weighed to the concrete tetrad; others maintain that Fire alone burns and heaviness alone is weighed.
 
 The second rendering makes the reported positions explicit while preserving
 their unresolved status.
 
 ## 6. Philosophical Translation
 
-> Material operation does not presuppose a permanent body that first exists and is later destroyed. Cutting is the transition from connected production to divided production within an aggregate-stream. The same material complex may occupy active and passive roles, while analysis can still ask whether an operation belongs to the whole complex or to one specific determination within it.
+> Form-operation does not presuppose a permanent body that first exists and is later destroyed. Cutting is a change from connected production to divided production within a Form-stream. The same complex may occupy active and passive roles, while analysis can still ask whether an operation belongs to the whole tetrad or to one specific determination within it.
 
 Organon rendering:
 
-> The Smart Domain now acquires operational capabilities and role-typing. Material continuity can act, undergo action, and reconfigure its mode of continuation. Yet the system distinguishes operation at the level of the concrete aggregate from operation assigned to a specialized component. Agency is therefore neither a bare grammatical subject nor an unexplained property of substance.
+> The Principle processor now classifies operation and role. A connected Form-stream can divide, undergo division, be burned, and participate in weighing. The system distinguishes an operation assigned to the concrete tetrad from one assigned to a specific determination. Agency is therefore not fixed by grammatical subject alone.
+
+In a Fichtean nondual reading, active and passive roles are differences
+within one operative system, not relations between wholly independent
+substances. Hegelian logic preserves those differences and asks how the
+operation is determined: by the full tetrad, or by Fire and heaviness
+specifically. The kārikā leaves that attribution disputed. Its
+*prakāśa* for the Organon is the explicit distinction among operation,
+bearer, and role—not a claim that the verse itself resolves the dispute.
 
 ## 7. Technical Vocabulary
 
 | Sanskrit | Project rendering | Determination |
 |---|---|---|
-| bāhya-dhātu-catuṣṭaya | external tetrad of Domains | visible form, smell, taste, and tangible matter |
-| cheda | cutting / division | production of divided continuations from a connected aggregate-stream |
+| bāhya-dhātu-catuṣṭaya | outer tetrad of Principles | visible Form, smell, taste, and tangible Form |
+| cheda | cutting / division | production of divided continuations from a connected Form-stream |
 | sambandhotpādin | arising in connection | status of the aggregate-stream before division |
-| saṃghāta-srotas | stream of aggregates | material continuum subjected to division |
+| saṃghāta-srotas | stream of aggregates | connected continuum subjected to division |
 | vibhaktotpādana | production in divided form | exact processual definition of cutting |
-| nirindriya | without the faculty | status of a severed bodily member |
-| acchatva | clarity / translucence | subtle character invoked to exclude faculties from gross cutting operations |
+| nirindriya | without the Faculty | status of a severed bodily Form |
+| acchatva | clarity / translucence | subtle character invoked to exclude Faculties from being cut |
 | maṇiprabhā | jewel-radiance | analogy for the subtle faculty |
-| dāhaka / dagdhṛ | burner | disputed operative subject of burning |
+| dāhaka / dagdhṛ | burner | disputed bearer of the burning operation |
 | gurutva | heaviness | specific tangible determination held by one view to be what is weighed |
 | vivāda | doctrinal disagreement | explicitly preserved rather than adjudicated |
 
 ## 8. Logical Determination
 
-The material transformation is:
+The Form transformation is:
 
 ```text
 AggregateStream(s)
@@ -130,7 +138,7 @@ AggregateStream(s)
     → ProducesDividedContinuations(s1, s2, t3)
 ```
 
-This blocks substantial annihilation:
+This does not require annihilation of an enduring bearer:
 
 ```text
 Cut(x)
@@ -140,42 +148,42 @@ Cut(x)
     → ReconfiguredModeOfProduction(x)
 ```
 
-The tetrad permits reciprocal roles:
+The verse assigns these operative roles to the tetrad:
 
 ```text
-ExternalMaterialTetrad
+OuterPrincipleTetrad
     → CanCut
     ∧ CanBeCut
     ∧ CanBeBurned
     ∧ ParticipatesInWeighing
 ```
 
-The faculty-organ distinction is:
+The Faculty distinction is:
 
 ```text
-Severed(BodilyMember)
-    → Divided(BodilyAggregate)
-    ∧ Nirindriya(SeparatedMember)
+Divided(FormOfBodilyMember)
+    → Divided(FormContinuum)
+    ∧ Nirindriya(SeparatedForm)
 
-Severed(BodilyMember)
-    ↛ Duplicated(SenseFaculty)
+Divided(FormOfBodilyMember)
+    ↛ Duplicated(SensoryFaculty)
 ```
 
 The disputed attribution is:
 
 ```text
 PositionA:
-    ConcreteExternalTetrad
+    ConcreteOuterTetrad
         → BurnerAndWeighedComplex
 
 PositionB:
-    FireDhatu
+    FirePrinciple
         → Burner
     Heaviness
         → WhatIsWeighed
 ```
 
-The Smart-Domain rule separates capability from operative bearer:
+The Principle-processor rule separates capability from operative bearer:
 
 ```text
 SupportsOperation(x, o)
@@ -184,10 +192,9 @@ SupportsOperation(x, o)
 
 ## 9. Interpretive Note
 
-VAK 1.35 specified material constitution through elemental dependence and
-atomic aggregation. VAK 1.36 adds material operation. The Domains are not
-static entries bearing adjectives; they enter transformations with distinct
-active and passive roles.
+VAK 1.35 distinguished Element-dependence from atomic aggregation. VAK 1.36
+adds operation. Principles are not static labels; the outer tetrad is
+classified through active and passive roles.
 
 The definition of cutting is the central logical achievement:
 
@@ -197,41 +204,41 @@ connected aggregate-continuation
     → separately produced continuations
 ```
 
-Nothing here requires a substantial object that remains numerically
-identical beneath change. Nor is cutting sheer disappearance. The continuity
-is intelligible through a changed rule of production. This is why the logic
-shines: the Abhidharma has supplied an explicit ontology of the operation.
+Nothing here requires an enduring bearer that remains numerically
+identical beneath change. Nor is cutting sheer disappearance. Continuity
+is intelligible through a changed rule of production.
 
 The treatment of the faculty is equally important for Dhātu–Indriya. A
-gross bodily member can be cut, but the faculty does not become two
-faculties. The separated member is `nirindriya`. The indriya remains material
-in the Kośa's classification, yet it cannot be reduced to the visible
-anatomical piece:
+bodily Form can be divided, but the Faculty does not become two Faculties.
+The separated member is `nirindriya`. The Kośa classifies Faculties as
+Form-bearing, yet they cannot be reduced to the visible anatomical
+configuration:
 
 ```text
 embodied faculty
-    ≠ gross bodily member
+    ≠ visible bodily Form
 
-material status
-    ≠ visible objecthood
+Form-bearing status
+    ≠ visible configuration
 ```
 
-This is an exact textual basis for placing the faculty on the inward,
-Sattvic side of our comparison without pretending Vasubandhu declares it
-immaterial. The power of apprehension is embodied, but embodiment does not
-exhaust the power.
+The Bhāṣya gives a basis for asking how the Faculty's operative power
+relates to its visible configuration, without turning that distinction
+into a claim that Faculties are not Form-bearing. The Indriya chapter can
+make this relation shine in a fuller account.
 
 Finally, the reported dispute distinguishes two levels of causal analysis:
 
 ```text
-operation of the concrete material complex
+operation of the concrete Form-complex
     versus
 operation assigned to a specific component-property
 ```
 
-That distinction belongs directly in the future Vārttika. A typed operation
-must specify not only its input and output but the level at which agency is
-predicated: aggregate, Domain, or specialized determination.
+That distinction belongs directly in the future Vārttika. A typed
+operation must specify not only its conditions and result but the level
+at which agency is predicated: the whole tetrad, a Principle, or a
+specialized determination.
 
 ## 10. OWL++ Seed
 
@@ -243,37 +250,37 @@ predicated: aggregate, Domain, or specialized determination.
 vak:VAK_1_36
     a vak:Karika ;
     rdfs:label "VAK 1.36" ;
-    vak:hasTopic vak:MaterialOperationAndDivision ;
+    vak:hasTopic vak:FormOperationAndDivision ;
     vak:belongsTo vak:Dhatunirdesa .
 
-vak:ExternalMaterialTetrad
-    a vak:DomainSet ;
-    vak:hasMember vak:RupaDhatu,
-        vak:SmellDhatu,
-        vak:TasteDhatu,
-        vak:SprastavyaDhatu ;
+vak:OuterPrincipleTetrad
+    a vak:PrincipleSet ;
+    vak:hasMember vak:VisibleFormPrinciple,
+        vak:SmellPrinciple,
+        vak:TastePrinciple,
+        vak:TangiblePrinciple ;
     vak:permitsOperation vak:Cutting,
         vak:BeingCut,
         vak:BeingBurned,
         vak:Weighing .
 
 vak:Cutting
-    a vak:MaterialOperation ;
+    a vak:FormOperation ;
     vak:transforms vak:ConnectedAggregateStream ;
     vak:produces vak:DividedAggregateContinuations .
 
-vak:SenseFaculty
-    vak:embodiedIn vak:BodilyBasis ;
-    vak:distinctFrom vak:GrossBodilyMember ;
-    vak:notDuplicatedBy vak:BodilyDivision .
+vak:SensoryFaculty
+    vak:expressedThrough vak:BodilyForm ;
+    vak:distinctFrom vak:VisibleConfiguration ;
+    vak:notDuplicatedBy vak:FormDivision .
 
 vak:BurnerAndWeighedBearerDispute
     a vak:UnresolvedDoctrinalDispute ;
     vak:contrasts vak:ConcreteComplexAttribution,
         vak:SpecificDeterminationAttribution .
 
-organon:OperationalSmartDomain
-    a vak:SmartDomainCapability ;
+organon:OperationalPrincipleProcessor
+    a vak:PrincipleProcessorOperation ;
     organon:requiresParameter vak:ActiveRole,
         vak:PassiveRole,
         vak:TransformationRule,

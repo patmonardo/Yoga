@@ -28,51 +28,54 @@ arūpaśabdakāḥ       → a-rūpa-śabdakāḥ
 |---|---|---|
 | sa-nidarśanaḥ | nominative masculine singular adjective | visible, spatially demonstrable |
 | ekaḥ | nominative masculine singular | one alone |
-| atra | adverb | here, among these eighteen Domains |
-| rūpam | nominative neuter singular | visible form; supplies the identity of the one visible Domain |
+| atra | adverb | here, among these eighteen Principles |
+| rūpam | nominative neuter singular | visible Form; supplies the identity of the one visible Principle |
 | sa-pratighāḥ | nominative masculine plural adjective | resistant, obstructive |
 | daśa | numeral | ten |
-| rūpiṇaḥ | nominative masculine plural adjective | material, possessing form |
+| rūpiṇaḥ | nominative masculine plural adjective | Form-bearing; the ten included in the Form Base |
 | avyākṛtāḥ | nominative masculine plural adjective | ethically indeterminate; neither wholesome nor unwholesome |
 | aṣṭau | nominative masculine plural numeral | eight |
-| te eva | demonstrative plus emphatic particle | those very same [ten material Domains] |
+| te eva | demonstrative plus emphatic particle | those very same [ten Form Base Principles] |
 | a-rūpa-śabdakāḥ | nominative masculine plural compound | with rūpa and śabda excluded |
 
 The final compound is exceptionally easy to misread. It does **not** mean
-that the eight are “non-material.” The Bhāṣya explicitly identifies them as
-the previously mentioned ten material Domains after excluding the
-visible-form Domain (`rūpa`) and sound Domain (`śabda`).
+that the eight are without Form. The Bhāṣya explicitly identifies them as
+eight of the ten Principles included in the Form Base, after excluding the
+visible Form Principle (`rūpa`) and the Sound Principle (`śabda`). Here
+`rūpa` must be read in context: the Form Base gathers ten Principles, while
+the Form Principle names the single visible Form among the eighteen.
 
 ## 4. Grammar
 
-The verse answers three successive questions about the eighteen Domains:
+The verse answers three successive questions about the eighteen Principles:
 
 ```text
 How many are visible?
-    one: visible form
+    one: the visible Form Principle
 
 How many are resistant?
-    ten: the material Domains
+    ten: the Principles included in the Form Base
 
 How many are invariably ethically indeterminate?
-    eight: those ten minus visible form and sound
+    eight: those ten minus the Form Principle and Sound Principle
 ```
 
 The opening adjective is masculine because it agrees with understood
-`dhātuḥ`; neuter `rūpam` names that Domain:
+`dhātuḥ`; neuter `rūpam` names that Principle:
 
 ```text
 sanidarśanaḥ ekaḥ [dhātuḥ] atra — rūpam
-    one Domain here is visible—visible form
+    one Principle here is visible—the Form Principle
 ```
 
-Likewise, `rūpiṇaḥ` supplies an explanation of the ten resistant Domains:
-the five sensory faculties and five sensory objects are material. The
-Bhāṣya nevertheless warns that `pratigha` has three distinct senses:
+Likewise, `rūpiṇaḥ` identifies the ten resistant Principles as Form-bearing:
+the five sensory faculties and five sensory objects are gathered in the
+Form Base. The Bhāṣya nevertheless warns that `pratigha` has three distinct
+senses:
 
 ```text
 āvaraṇa-pratighāta
-    material resistance through mutual spatial obstruction
+    physical resistance through mutual spatial obstruction
 
 viṣaya-pratighāta
     limitation by the field within which a faculty can operate
@@ -82,10 +85,10 @@ viṣaya-pratighāta
 ```
 
 Only the first sense grounds the Kārikā's count of ten. They are
-`sapratigha` here because material Domains prevent one another from arising
+`sapratigha` here because these Form Base Principles prevent one another from arising
 in the same place.
 
-The eight indeterminate Domains are:
+The eight ethically indeterminate Principles are:
 
 ```text
 five sensory faculties
@@ -94,47 +97,71 @@ five sensory faculties
 + tangible object
 ```
 
-Visible form and sound are excluded because bodily and verbal actions
-produced by wholesome or unwholesome mind can give them corresponding
+Visible Form and sound are excluded because bodily and verbal actions
+produced by wholesome or unwholesome mind can give the Form and Sound
+Principles corresponding
 ethical determination.
 
 ## 5. Translation
 
 ### Close syntactic construe
 
-> Among these, one is visible: visible form. Ten are resistant—the material Domains. Eight are ethically indeterminate: those same [ten] with visible form and sound excluded.
+> Among these, one is visible: the Form Principle. Ten are resistant—the
+> Form Base Principles. Eight are ethically indeterminate: those same
+> [ten] with the Form Principle and Sound Principle excluded.
 
 ### Bhāṣya-informed translation
 
-> Of the eighteen Domains, visible form alone is spatially demonstrable. The five material faculties and five sensory objects are resistant because they mutually obstruct one another. Of these ten, eight—the five faculties together with smell, taste, and tangible objects—are invariably ethically indeterminate; visible form and sound may instead acquire wholesome or unwholesome determination through bodily and verbal action.
+> Of the eighteen Principles, the Form Principle alone is spatially
+> demonstrable. The five sensory faculties and five sensory-object
+> Principles gathered in the Form Base are resistant because they mutually
+> obstruct one another. Of these ten, eight—the five faculties together
+> with the Smell, Taste, and Tangible Principles—are invariably ethically
+> indeterminate; the Form and Sound Principles may instead acquire
+> wholesome or unwholesome determination through bodily and verbal action.
 
 The second rendering keeps the Bhāṣya's three explanations distinct:
-visibility concerns demonstrability, resistance here concerns material
+visibility concerns demonstrability, resistance here concerns physical
 obstruction, and indeterminacy concerns ethical status.
 
 ## 6. Philosophical Translation
 
-> A Domain does not receive one undifferentiate description. Visible form alone can be pointed out as “here” or “there”; ten Domains possess material resistance; only eight of those are invariably neutral with respect to wholesome and unwholesome determination. Manifestation, materiality, resistance, and ethical status are distinct dimensions of the same system.
+> A Principle does not receive one undifferentiated description. The Form
+> Principle alone can be pointed out as “here” or “there”; ten Form Base
+> Principles exhibit physical resistance; only eight of those ten are
+> invariably neutral with respect to wholesome and unwholesome
+> determination. Visibility, inclusion in the Form Base, resistance, and
+> ethical status are distinct dimensions of the system.
 
 Organon rendering:
 
-> The Naive Domain becomes a Smart Domain when its predicates are explicitly typed. What can be displayed is not identical with what can obstruct; what can obstruct is not thereby ethically neutral; and a common material basis does not erase the different determinations of its members. Rational classification begins by preventing one property from silently standing in for another.
+> An established Principle becomes analytically determinate when its
+> properties and relations are explicitly typed. What can be pointed out
+> is not identical with what can obstruct; what can obstruct is not thereby
+> ethically indeterminate; and gathering ten Principles in the Form Base
+> does not erase their different determinations. Rational classification
+> begins by preventing one property from silently standing in for another.
 
 ## 7. Technical Vocabulary
 
 | Sanskrit | Project rendering | Determination |
 |---|---|---|
 | sanidarśana | visible / spatially demonstrable | capable of being pointed out as here or there |
-| anidarśana | non-visible / non-demonstrable | complementary status of the other seventeen Domains |
-| rūpin | material / possessing form | applies to the ten material Domains |
+| dhātu | Principle | a determinate classification that distinguishes its members and relations |
+| rūpa | Form | in this verse, either the Form Base or the visible Form Principle according to context |
+| rūpaskandha | Form Base | the Base in which the ten Form-bearing Principles are gathered |
+| rūpadhātu | Form Principle | the single visible Form among the eighteen Principles |
+| anidarśana | non-visible / non-demonstrable | complementary status of the other seventeen Principles |
+| rūpin | Form-bearing | applies here to the ten Principles included in the Form Base |
 | pratigha / pratighāta | resistance / impediment | general term differentiated into three relations |
-| āvaraṇapratighāta | obstructive resistance | prevention of another material thing's arising in the same place |
+| āvaraṇapratighāta | obstructive resistance | prevention of another Form Base constituent's arising in the same place |
 | viṣayapratighāta | limitation by object-field | restriction of a faculty to the field of its possible activity |
 | ālambanapratighāta | limitation by cognitive object | determination of mind and mental factors by what they apprehend |
 | viṣaya | functional object-field | that within which a faculty exercises its activity |
 | ālambana | apprehended cognitive object | that which mind and mental factors take as object-support |
 | avyākṛta | ethically indeterminate | not specified as wholesome or unwholesome |
-| arūpaśabdaka | excluding visible form and sound | Bhāṣya-resolved selection of eight from the ten material Domains |
+| dharmadhātu | Essence Principle | the Principle whose associated and unassociated portions occur in the Bhāṣya's comparison |
+| arūpaśabdaka | excluding visible Form and sound | Bhāṣya-resolved selection of eight from the ten Form Base Principles |
 
 `Viṣaya` and `ālambana` must not be collapsed. A functional range and an
 apprehended cognitive object can overlap, but they state different
@@ -142,12 +169,11 @@ relations.
 
 ## 8. Logical Determination
 
-The first Smart-Domain specification establishes independent predicate
-axes:
+The analytic typing of a Principle establishes independent predicate axes:
 
 ```text
 Visibility(x)
-Materiality(x)
+FormBaseInclusion(x)
 ObstructiveResistance(x)
 FunctionalObjectRange(x)
 CognitiveObjectRelation(x)
@@ -158,23 +184,23 @@ Their extensions are:
 
 ```text
 Visible(x)
-    ↔ x = RupaDhatu
+    ↔ x = FormPrinciple
 
-MaterialAndObstructivelyResistant(x)
-    ↔ x ∈ FiveSenseFacultyDhatus
-       ∪ FiveSensoryObjectDhatus
+FormBaseIncludedAndObstructivelyResistant(x)
+    ↔ x ∈ FiveSenseFacultyPrinciples
+       ∪ FiveSensoryObjectPrinciples
 
 InvariablyAvyakrta(x)
-    ↔ x ∈ FiveSenseFacultyDhatus
-       ∪ {SmellDhatu, TasteDhatu, TangibleDhatu}
+    ↔ x ∈ FiveSenseFacultyPrinciples
+       ∪ {SmellPrinciple, TastePrinciple, TangiblePrinciple}
 ```
 
 The compound rule is:
 
 ```text
-EightAvyakrtaMaterialDhatus
-    = TenMaterialDhatus
-      − {RupaDhatu, SabdaDhatu}
+EightAvyakrtaFormBasePrinciples
+    = TenFormBasePrinciples
+      − {FormPrinciple, SoundPrinciple}
 ```
 
 The Bhāṣya's four-cornered analysis proves that forms of resistance cannot
@@ -182,65 +208,74 @@ be conflated:
 
 ```text
 ObjectFieldLimited ∧ ¬SpatiallyObstructive
-    → seven citta Domains and associated dharmadhātu
+    → six Cognition Principles and the Mind Principle,
+      with the associated portion of the Essence Principle
 
 SpatiallyObstructive ∧ ¬ObjectFieldLimited
-    → five sensory object-Domains
+    → five sensory-object Principles
 
 ObjectFieldLimited ∧ SpatiallyObstructive
-    → five sensory faculty-Domains
+    → five sensory-faculty Principles
 
 ¬ObjectFieldLimited ∧ ¬SpatiallyObstructive
-    → unassociated remainder of dharmadhātu
+    → the Essence Principle apart from its associated portion
 ```
 
 Thus:
 
 ```text
-SharedPredicate(x, y, Material)
+SharedPredicate(x, y, FormBaseInclusion)
     ↛ SharedPredicate(x, y, EthicalStatus)
 ```
 
 ## 9. Interpretive Note
 
-VAK 1.29 begins the Basis of the System by enriching the eighteen Domains
-with independently queryable determinations. The earlier verses established
-what the Domains are and how additional scriptural classifications are
-resolved into them. The present sequence asks what can validly be predicated
-of each established Domain.
+VAK 1.29 begins the second half's classification work by asking what can
+be predicated of the eighteen Principles already established. The earlier
+verses placed additional scriptural classifications among them; this verse
+starts to discriminate them along distinct axes.
 
-The first distinction is already philosophically exact. Only visible form
-is `sanidarśana`: it alone can be indicated as “this here” or “that there.”
-This is not a claim that the remaining seventeen Domains are unknowable.
+The first distinction is exact. Only the Form Principle is
+`sanidarśana`: it alone can be pointed out as “this here” or “that there.”
+This is not a claim that the remaining seventeen Principles are unknowable.
 Visibility is one mode of manifestation, not the universal criterion of
 reality.
 
-The analysis of resistance adds a second discipline. Material resistance,
-functional limitation, and cognitive object-dependence are three different
-relations. The Bhāṣya's four-cornered analysis acts like a type-checker: it
-constructs cases possessing either relation, both relations, or neither,
-thereby proving that the predicates are not synonyms.
+The analysis of resistance adds a second discrimination. Physical
+obstruction, functional-field limitation, and dependence on an apprehended
+object are different relations. The Bhāṣya's four-cornered analysis acts
+like a type-check: it constructs cases possessing either of the first two
+relations, both, or neither. The predicates can intersect without becoming
+synonyms.
 
-The ethical determination adds a third layer. Materiality does not by itself
-decide whether a Domain is wholesome, unwholesome, or indeterminate. The
-five faculties, smell, taste, and tangible objects are invariably
-indeterminate. Visible form and sound are removed from that set because
-bodily and verbal action can be produced by ethically determined mind.
+Ethical determination adds a third axis. Being included in the Form Base
+does not by itself decide whether a Principle is wholesome, unwholesome,
+or indeterminate. The five faculties, Smell, Taste, and Tangible Principles
+are invariably indeterminate. The Form and Sound Principles are excluded
+from that subset because bodily and verbal action can receive ethical
+determination through mind.
 
-In our provisional SDK image:
+In this first-round classification-engine image:
 
 ```text
-Naive Domain
-    = named member of the eighteenfold system
+Principle
+    = a determinate member of the eighteenfold system
 
-Smart Domain
-    = member whose independent properties and relations are explicitly typed
+Analytically Typed Principle
+    = a Principle whose distinct properties and relations are explicit
 ```
 
-This is not Vasubandhu's language, but it accurately marks the work now
-being performed. The system is acquiring a basis for later applications:
-queries about realm, cognition, causation, embodiment, and liberation will
-operate over Domains whose predicates can no longer be vaguely exchanged.
+This is an Organon interpretation, not Vasubandhu's wording. A Principle
+does not merely collect labels: it discriminates determinations, keeps
+their differences intact, and encloses the derivative relations that belong
+to its classification. This verse gives the engine three kinds of
+determination to test without collapsing visibility, resistance, and ethical
+status into one another.
+
+It does not yet prove that the Essence Base is the central bus governing
+Form theory. It supplies structured distinctions the following verses can
+test against that hypothesis; the mechanism should emerge from the
+classifications rather than be inserted in advance.
 
 ## 10. OWL++ Seed
 
@@ -251,35 +286,40 @@ operate over Domains whose predicates can no longer be vaguely exchanged.
 vak:VAK_1_29
     a vak:Karika ;
     rdfs:label "VAK 1.29" ;
-    vak:hasTopic vak:IndependentDomainPredicates ;
+    vak:hasTopic vak:IndependentPrinciplePredicates ;
     vak:belongsTo vak:Dhatunirdesa .
 
-vak:RupaDhatu
-    a vak:VisibleDomain,
-        vak:MaterialDomain,
-        vak:ObstructivelyResistantDomain .
+vak:FormPrinciple
+    a vak:VisiblePrinciple,
+        vak:FormBaseIncludedPrinciple,
+        vak:ObstructivelyResistantPrinciple .
 
-vak:TenMaterialDomains
-    a vak:DomainSet ;
-    vak:hasMemberSet vak:FiveSenseFacultyDomains,
-        vak:FiveSensoryObjectDomains ;
+vak:TenFormBasePrinciples
+    a vak:PrincipleSet ;
+    vak:hasMemberSet vak:FiveSenseFacultyPrinciples,
+        vak:FiveSensoryObjectPrinciples ;
     vak:hasProperty vak:ObstructiveResistance .
 
-vak:EightIndeterminateMaterialDomains
-    a vak:DomainSet ;
-    vak:derivedFrom vak:TenMaterialDomains ;
-    vak:excludes vak:RupaDhatu,
-        vak:SabdaDhatu ;
+vak:EightIndeterminateFormBasePrinciples
+    a vak:PrincipleSet ;
+    vak:derivedFrom vak:TenFormBasePrinciples ;
+    vak:excludes vak:FormPrinciple,
+        vak:SoundPrinciple ;
     vak:hasEthicalStatus vak:Avyakrta .
 
 vak:ObstructiveResistance
     vak:distinctFrom vak:ObjectFieldLimitation,
         vak:CognitiveObjectLimitation .
 
-vak:SmartDomain
+vak:EssencePrinciple
+    a vak:Principle ;
+    vak:hasAssociatedPortion vak:AssociatedEssences ;
+    vak:hasOtherPortion vak:UnassociatedEssences .
+
+vak:AnalyticallyTypedPrinciple
     a vak:OrganonInterpretiveClass ;
     vak:requiresExplicitTypingOf vak:Visibility,
-        vak:Materiality,
+        vak:FormBaseInclusion,
         vak:Resistance,
         vak:EthicalStatus .
 ```

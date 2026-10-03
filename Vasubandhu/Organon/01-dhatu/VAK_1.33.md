@@ -1,4 +1,4 @@
-# VAK_1.33
+# VAK_1.33 — Three Forms of Vikalpa in the Principle System
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -29,14 +29,14 @@ sarvaiva           → sarvā eva
 |---|---|---|
 | nirūpaṇa | compound member | examination, determination, discriminative specification |
 | anusmaraṇa | compound member | recollection, renewed or reproductive remembering |
-| vikalpena | instrumental masculine singular | with respect to discrimination; by the discriminative operation |
-| a-vikalpakāḥ | nominative masculine plural adjective | conventionally called non-discriminative in the restricted sense specified |
+| vikalpena | instrumental masculine singular | with respect to vikalpa; in the specific respect of discrimination |
+| a-vikalpakāḥ | nominative masculine plural adjective | called non-discriminative in the restricted sense specified |
 | tau | nominative masculine dual pronoun | those two: determining and recollective discrimination |
-| prajñā | nominative feminine singular | discernment or discriminative understanding |
-| mānasī | nominative feminine singular adjective | mental; associated with mental knowledge |
-| vyagrā | nominative feminine singular adjective | dispersed, distracted, unconcentrated |
+| prajñā | nominative feminine singular | discernment; here, determining vikalpa |
+| mānasī | nominative feminine singular adjective | mental; the Bhāṣya specifies association with mental cognition |
+| vyagrā | nominative feminine singular adjective | unconcentrated; glossed as *asamāhitā* |
 | smṛtiḥ | nominative feminine singular | memory, recollection |
-| sarvā eva | emphatic nominative feminine singular | all of it without exception |
+| sarvā eva | emphatic nominative feminine singular | all of it, without exception |
 
 The Kārikā has `nirūpaṇa`; the Bhāṣya names the corresponding full category
 `abhinirūpaṇa-vikalpa`. The two should be related without silently replacing
@@ -44,48 +44,50 @@ the transmitted verse.
 
 ## 4. Grammar
 
-The understood subject of `avikalpakāḥ` is the five sensory knowledge-Domains
-from VAK 1.32. The instrumental compound restricts the negation:
+The understood subject of `avikalpakāḥ` is the five sensory-Cognition
+Principles from VAK 1.32. The instrumental compound restricts the negation:
 
 ```text
 nirūpaṇa-anusmaraṇa-vikalpena
-    with respect to determining and recollective discrimination
+    with respect to determining and recollective vikalpa
 
 avikalpakāḥ
-    they are non-discriminative
+    they are called non-discriminative
 ```
 
-The verse does not say that sensory knowledge lacks every form of
+The verse does not say that sensory cognition lacks every form of
 discrimination. The Bhāṣya resolves the apparent contradiction by reporting
 three kinds of `vikalpa`:
 
 ```text
 svabhāva-vikalpa
-    intrinsic or elementary discrimination
+    intrinsic vikalpa
     = vitarka
 
 abhinirūpaṇa-vikalpa
-    examining or determining discrimination
+    examining or determining vikalpa
     = unconcentrated mental prajñā
 
 anusmaraṇa-vikalpa
-    recollective discrimination
-    = all mental smṛti
+    recollective vikalpa
+    = specifically mental smṛti, concentrated or unconcentrated
 ```
 
-Sensory knowledge possesses the first and lacks the latter two. It is called
-`avikalpaka` by conventional abbreviation, just as the Bhāṣya says that a
-horse with only one foot may be called “footless.”
+Sensory cognition possesses the first and lacks the latter two. It is
+called `avikalpaka` by conventional abbreviation, just as the Bhāṣya says
+that a horse with only one foot may be called “footless.” This is a
+classification by kind, not a narrated sequence through which cognition
+develops.
 
 The dual `tau` refers to determining and recollective discrimination. Their
 definitions are distributed across the second line:
 
 ```text
-[nirūpaṇa-vikalpa]
-    = prajñā that is mental and unconcentrated
+[abhinirūpaṇa-vikalpa]
+    = prajñā associated with mental cognition and unconcentrated
 
 [anusmaraṇa-vikalpa]
-    = smṛti, all of which is mental
+    = specifically mental smṛti, whether concentrated or unconcentrated
 ```
 
 The Bhāṣya glosses `vyagrā` with `asamāhitā`, “unconcentrated.” Hence the
@@ -95,38 +97,48 @@ first definition does not include every possible instance of prajñā.
 
 ### Close syntactic construe
 
-> [The five sensory knowledge-Domains] are non-discriminative with respect to determining and recollective discrimination. Those two are, respectively, unconcentrated mental discernment and memory, all of which is mental.
+> [The five sensory-Cognition Principles] are non-discriminative with respect to determining and recollective vikalpa. Those two are, respectively, mental discernment in an unconcentrated state and memory, all of which is mental.
 
 ### Bhāṣya-informed translation
 
-> Sensory knowledge is called non-discriminative only because it lacks the developed discriminations of mental examination and recollection; it still possesses intrinsic discrimination, identified with vitarka. Determining discrimination is unconcentrated discernment associated with mental knowledge, while recollective discrimination is memory, which belongs entirely to the mental sphere whether concentrated or unconcentrated.
+> Sensory cognition is called non-discriminative only because it lacks the developed forms of determining and recollective vikalpa; it still possesses intrinsic vikalpa, identified with vitarka. Determining vikalpa is unconcentrated prajñā associated with mental cognition, while recollective vikalpa is specifically mental smṛti, whether concentrated or unconcentrated.
 
 This translation preserves the relative force of `avikalpaka` and prevents
 “nonconceptual” from being mistaken for cognitively blank sensation.
 
 ## 6. Philosophical Translation
 
-> Sensory knowing already differentiates, but it does not yet determine through mental examination or reproduce through memory. Determination arises when discernment operates in unconcentrated mental activity; reproduction arises through memory, which is wholly mental. Cognition therefore develops through distinct and irreducible powers rather than leaping directly from sensation to a finished concept.
+> The classification distinguishes three kinds of vikalpa: intrinsic differentiation in sensory cognition, determining discernment in unconcentrated mental cognition, and recollective smṛti across concentrated and unconcentrated mental states. The distinctions describe kinds and qualifications of cognitive operation, not successive stages of a process.
 
 Organon rendering:
 
-> The Seed unfolds a graded synthesis. Immediate sensory knowledge carries intrinsic discrimination; manas adds determinate examination and the reproduction of what is no longer immediately present. Only by distinguishing these operations can the later Vārttika ask how recognition, conceptual unity, and rational agency emerge from their cooperation.
+> The Principle system differentiates cognitive operations without splitting them into independent substances. Sensory Cognition has intrinsic vikalpa; determining prajñā is mental and unconcentrated; recollective smṛti is mental whether concentrated or not. This is a typed map of functions and conditions, not a timeline in which sensation grows into memory or discernment.
+
+The Organon hypothesis is Fichtean in its nondual starting point: Prajñā
+is approached as self-relating activity, while Vijñāna is its particular
+representation, not a second independent knower. Hegelian logic then
+preserves the differences among intrinsic, determining, and recollective
+functions as determinate moments within that activity. The verse itself
+does not identify sensory cognition with Prajñā, nor does it equate its
+qualified mental prajñā with *paramārtha*. The intended *prakāśa* is the
+Principle system's intelligibility through its own distinctions, not a
+claim that this verse explicitly teaches illumination.
 
 ## 7. Technical Vocabulary
 
 | Sanskrit | Project rendering | Determination |
 |---|---|---|
 | vikalpa | discrimination / differentiating construction | genus with three forms in the Bhāṣya; not mere fantasy and not automatically a finished concept |
-| svabhāva-vikalpa | intrinsic discrimination | minimal discrimination present in sensory knowledge; identified with vitarka |
-| abhinirūpaṇa-vikalpa | determining or examining discrimination | unconcentrated mental prajñā |
-| anusmaraṇa-vikalpa | recollective discrimination | all mental memory, concentrated or unconcentrated |
-| avikalpaka | relatively non-discriminative | lacking the two developed mental forms, not all differentiation |
+| svabhāva-vikalpa | intrinsic vikalpa | present in sensory cognition; identified with vitarka |
+| abhinirūpaṇa-vikalpa | determining or examining vikalpa | prajñā associated with mental cognition and unconcentrated |
+| anusmaraṇa-vikalpa | recollective vikalpa | specifically mental smṛti, concentrated or unconcentrated |
+| avikalpaka | relatively non-discriminative | lacking the latter two kinds, not all differentiation |
 | nirūpaṇa | determination / examination | discriminative specification performed mentally |
 | anusmaraṇa | reproductive recollection | renewed presentation through memory |
-| prajñā | discernment | here specifically mental and unconcentrated, not prajñā without qualification |
+| prajñā | discernment | here, specifically the mental and unconcentrated determining kind |
 | vyagra | dispersed / unconcentrated | explicitly glossed as `asamāhita` |
-| smṛti | memory / recollection | wholly mental in this classification |
-| mānasī | mental | requiring the mental sphere rather than sensory knowledge alone |
+| smṛti | memory / recollection | all specifically mental smṛti is included, concentrated or unconcentrated |
+| mānasī | mental | the Bhāṣya specifies association with mental cognition for prajñā |
 
 ## 8. Logical Determination
 
@@ -134,11 +146,11 @@ The apparent contradiction is:
 
 ```text
 VAK 1.32:
-    SensoryKnowledge
+    FiveSensoryCognitionPrinciples
         → AssociatedWith(Vitarka, Vicara)
 
 VAK 1.33:
-    SensoryKnowledge
+    FiveSensoryCognitionPrinciples
         → Avikalpaka
 ```
 
@@ -150,7 +162,7 @@ Vikalpa
        AbhinirupanaVikalpa,
        AnusmaranaVikalpa}
 
-SensoryKnowledge
+FiveSensoryCognitionPrinciples
     → Has(SvabhavaVikalpa)
     ∧ Lacks(AbhinirupanaVikalpa)
     ∧ Lacks(AnusmaranaVikalpa)
@@ -162,12 +174,13 @@ The mental operations are typed separately:
 ```text
 AbhinirupanaVikalpa(x)
     ↔ Prajna(x)
-    ∧ AssociatedWith(x, MentalKnowledge)
+    ∧ AssociatedWith(x, MentalCognition)
     ∧ Unconcentrated(x)
 
 AnusmaranaVikalpa(x)
     ↔ Smrti(x)
-    ∧ Mental(x)
+    ∧ SpecificallyMental(x)
+    ∧ (Concentrated(x) ∨ Unconcentrated(x))
 ```
 
 Concentration restricts the first but not the second:
@@ -181,59 +194,72 @@ Smrti(x)
       whether Concentrated(x) or Unconcentrated(x)
 ```
 
-The resulting cognitive capability stack is:
+The resulting classification is a profile of distinct capabilities:
 
 ```text
-intrinsic sensory discrimination
-    → determining mental discrimination
-    → recollective mental discrimination
+SensoryCognition:
+    intrinsic vikalpa = present
+    determining vikalpa = absent
+    recollective vikalpa = absent
+
+ExaminingPrajna:
+    mental-cognition-associated = yes
+    unconcentrated = yes
+
+RecollectiveSmrti:
+    specifically mental = yes
+    concentrated or unconcentrated = either
 ```
 
-This is a differentiation of functions, not yet a claim that they form one
-Kantian transcendental synthesis.
+The three forms classify functions; they do not by themselves state a
+causal, temporal, or developmental sequence.
 
 ## 9. Interpretive Note
 
-VAK 1.33 is one of the decisive cognitive verses of the Dhātu chapter. It
-refuses the crude binary in which sensory cognition is either an
+VAK 1.33 is one of the decisive cognitive verses of the Principle chapter.
+It refuses the crude binary in which sensory cognition is either an
 undifferentiated given or already a fully conceptual judgment. Sensory
-knowledge has `svabhāva-vikalpa`; it differentiates through `vitarka`. What
-it lacks is the mental power to examine and determine, together with the
-power to reproduce through recollection.
+cognition has `svabhāva-vikalpa`, identified with `vitarka`; it is called
+`avikalpaka` only because it lacks the other two kinds. The verse classifies
+intrinsic, determining, and recollective vikalpa; it does not narrate their
+causal or developmental succession.
 
 The Kantian comparison is therefore compelling but must remain structurally
 exact:
 
 | Kośa operation | Provisional Kantian bridge |
 |---|---|
-| sensory knowledge with intrinsic discrimination | synthesis of apprehension |
+| sensory cognition with intrinsic vikalpa | synthesis of apprehension |
 | `anusmaraṇa-vikalpa` as mental `smṛti` | reproduction in imagination |
 | `abhinirūpaṇa-vikalpa` as mental `prajñā` | determination oriented toward recognition |
 
-The ordering in the Kārikā is not itself Kant's transcendental deduction,
-and `nirūpaṇa` is not simply identical with recognition in a concept.
+The order in which the Kārikā names these kinds is not itself Kant's
+transcendental deduction, and `nirūpaṇa` is not simply identical with recognition in a concept.
 Recognition requires a unity under which the reproduced manifold is known
 as the same. The present verse supplies determination and reproduction as
-typed cognitive powers; the Organon Vārttika must still demonstrate their
-unity.
+typed cognitive powers; their unity as a single transcendental operation
+remains for the Organon Vārttika to demonstrate.
 
 That restraint makes the comparison more powerful. We are not importing a
-ready-made Kantian triad. We have found a Kośa Seed whose native articulation
-makes such a triad constructible:
+ready-made Kantian triad. The Kośa gives a typed differentiation from which
+an Organon account of their coordination may be constructed:
 
 ```text
-present sensory differentiation
-    + mental reproduction
-    + determinate examination
-        → possible recognition
+intrinsic sensory vikalpa
+    | determining mental prajñā
+    | recollective mental smṛti
+        → functions to be related, not a sequence asserted by the verse
 ```
 
-The order also matters for Buddha Mind. The sensory level is not rejected
-as darkness, and the mental level is not automatically pure. Rather, the
-Basis specifies the functions that a rational cognitive agent must integrate
-and the precise Domain in which each function operates. Their translation
-into the Organon Vārttika will be a later systematic construction, grounded
-in this analysis rather than substituted for it.
+The Fichtean nondual proposal reads these as differentiated functions
+within one self-relating activity, not as three independent faculties.
+Hegelian logic keeps their differences determinate within that unity; it
+does not flatten them into an undifferentiated whole. Yet the local use of
+`prajñā` remains narrow: it names unconcentrated discernment associated
+with mental cognition. The broader hypothesis of Prajñā as *adhyātman* or
+the *paramārtha* pole must not be substituted for this local definition.
+The Organon Vārttika may develop that relation, grounded in this
+classification rather than imposed on it.
 
 ## 10. OWL++ Seed
 
@@ -248,7 +274,8 @@ vak:VAK_1_33
     vak:hasTopic vak:ThreefoldVikalpa ;
     vak:belongsTo vak:Dhatunirdesa .
 
-vak:SensoryKnowledge
+vak:FiveSensoryCognitionPrinciples
+    a vak:PrincipleSet ;
     vak:hasDiscrimination vak:SvabhavaVikalpa ;
     vak:lacksDiscrimination vak:AbhinirupanaVikalpa,
         vak:AnusmaranaVikalpa ;
@@ -260,19 +287,25 @@ vak:SvabhavaVikalpa
 
 vak:AbhinirupanaVikalpa
     a vak:DiscriminationMode ;
-    vak:realizedBy vak:UnconcentratedMentalPrajna .
+    vak:realizedBy vak:UnconcentratedPrajna ;
+    vak:associatedWith vak:MentalCognitionPrinciple .
 
 vak:AnusmaranaVikalpa
     a vak:DiscriminationMode ;
-    vak:realizedBy vak:MentalSmrti .
+    vak:realizedBy vak:SpecificallyMentalSmrti ;
+    vak:permitsConcentration vak:Concentrated,
+        vak:Unconcentrated .
 
 organon:ApprehensionBridge
-    organon:provisionallyGroundedIn vak:SensoryKnowledge .
+    organon:provisionallyGroundedIn vak:SvabhavaVikalpa ;
+    organon:isNotASequenceClaim true .
 
 organon:ReproductionBridge
-    organon:provisionallyGroundedIn vak:AnusmaranaVikalpa .
+    organon:provisionallyGroundedIn vak:AnusmaranaVikalpa ;
+    organon:isNotASequenceClaim true .
 
 organon:RecognitionBridge
     organon:provisionallyGroundedIn vak:AbhinirupanaVikalpa ;
-    organon:requiresFurtherDerivation true .
+    organon:requiresFurtherDerivation true ;
+    organon:isNotIdenticalWith vak:VAK_1_33 .
 ```

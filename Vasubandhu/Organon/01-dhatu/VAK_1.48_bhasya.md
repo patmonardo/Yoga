@@ -6,13 +6,14 @@
 >
 > dharmārdham indriyaṃ ye ca dvādaśādhyātmikāḥ smṛtāḥ // 1.48 //
 
-> The five external domains are cognizable by two. Unconditioned
-> dharmas are permanent. A portion of the dharma-domain is faculty,
-> as are those twelve stated to be internal.
+> The five external Principles are cognizable through two Cognitions.
+> Unconditioned Essences are permanent. A portion of the Essence
+> Principle has Faculty-status, as do those twelve stated to be internal.
 
-The Bhāṣya supplies the two kinds of cognition, restricts permanence
-to a portion of the dharma-domain, and maps the twenty-two faculties
-into the domain classification. This is the chapter's final kārikā.
+The Bhāṣya identifies the two Cognitions, restricts permanence to
+unconditioned Essences within a portion of the Essence Principle,
+and maps the twenty-two Faculties onto the Principle classification.
+This is the chapter's final kārikā.
 
 ## 2. Continuous Sanskrit
 
@@ -69,77 +70,77 @@ in this witness; they are not presented as the commentary on 1.48.
 Chapter 2 begins after them.
 
 Mechanical defects in the opening numeral, *dhātūnām*, *rūpaśabda*,
-*kaścit*, *dharmadhātvekadeśaḥ*, and several faculty names are
+*kaścit*, *dharmadhātvekadeśaḥ*, and several Faculty names are
 regularized. These include *daurmanasyendriya*, *samādhīndriya*,
 *prajñendriya*, and *anājñātamājñāsyāmīndriya*. The defective
 *kāyadhātupradeś iti* is read as *kāyadhātupradeśa iti*, following
 the research witness. No independent manuscript collation is claimed.
 
 The kārikā's *dvivijñeyāḥ* is supported by the prose's explicit
-“by two cognitions.” The malformed shorter form in the research
+“by two Cognitions.” The malformed shorter form in the research
 anchor is not adopted. *Dharmārdha* is translated as a portion of
-the dharma-domain, following the commentary's *pradeśa* explanation;
-it is not taken as a numerical claim that exactly half that domain
-consists of faculties.
+the Essence Principle, following the commentary's *pradeśa*
+explanation; it is not a numerical claim that exactly half the
+Principle consists of Faculties.
 
 ## 3. Continuous Conventional Translation
 
-This is now examined: of the eighteen domains, which is to be
-cognized by which of the six cognitions? The answer is: the five
-external domains are to be cognized by two. The domains of visible
-form, sound, smell, taste, and tangible, experienced respectively
-by visual, auditory, olfactory, gustatory, and bodily cognition,
-are cognized by mental cognition. Thus each of these is to be
-cognized by two cognitions. This also states that the remaining
-thirteen domains, since they are not objects of the five sensory
-classes of cognition, are to be cognized by mental cognition alone.
+This is now examined: of the eighteen Principles and six Cognitions,
+which Principle is cognizable through which Cognition? The answer is:
+the five external Principles are cognizable through two Cognitions.
+The Principles of visible Form, sound, smell, taste, and tangible Form,
+experienced respectively through Eye-, Ear-, Nose-, Tongue-, and
+Body-Cognition, are cognized through Mind-Cognition. Thus each of
+these five is cognizable through two Cognitions. The remaining
+thirteen Principles, since they are outside the field of the five
+sensory Cognitions, are cognizable through Mind-Cognition alone.
 
-Among these eighteen domains, how many are permanent and how many
-impermanent? No domain is permanent in its entirety. Rather,
-unconditioned dharmas are permanent. Thus one portion of the
-dharma-domain is permanent; the remainder are impermanent.
+Among these eighteen Principles, how many are permanent and how many
+impermanent? No Principle is permanent in its entirety. Rather,
+unconditioned Essences are permanent. Thus a portion of the Essence
+Principle is permanent; the remainder is impermanent.
 
-How many are faculties, and how many are not? A portion of the
-dharma-domain is faculty, as are those twelve stated to be internal.
-Twenty-two faculties are stated in the sūtra: eye, ear, nose,
-tongue, body, manas, female, male, life, pleasure, pain, gladness,
-distress, equanimity, faith, vigor, mindfulness, concentration,
-prajñā, “I shall know what has not been known,” knowing, and
-having known.
+How many have Faculty-status, and how many do not? A portion of the
+Essence Principle has Faculty-status, as do those twelve stated to be
+internal. Twenty-two Faculties are stated in the sūtra: Eye, Ear,
+Nose, Tongue, Body, Mind, Female, Male, Life, Pleasure, Pain,
+Gladness, Distress, Equanimity, Faith, Vigor, Mindfulness,
+Concentration, Prajñā, “I shall know what has not been known,”
+Knowing, and Having Known.
 
-The Ābhidharmikas, however, respecting the arrangement of the six
-spheres, recite the manas-faculty immediately after the life-faculty,
-because it has an object-support.
+The Ābhidharmikas, however, following the six-Base arrangement,
+recite the Mind Faculty immediately after the Life Faculty, because
+the Mind Faculty is *sālambana*—it has an *ālambana*.
 
-Here the portion of the dharma-domain consists of the eleven
-faculties beginning with life and a portion of the three, since
-these belong to a portion of the dharma-domain. Among the twelve
-internal domains, the five beginning with the eye are stated
-under their own names. The seven citta-domains are the manas-faculty.
-The female and male faculties are a portion of the body-domain,
-as will be stated later. It is thus established that the remaining
-five domains and the remaining portion of the dharma-domain are
-not faculties.
+Here the portion of the Essence Principle includes the eleven
+Faculties beginning with Life and portions of three further
+Faculties, since these are parts of the Essence Principle. Among
+the twelve internal Principles, the five beginning with Eye are
+stated under their own names. The seven Citta Principles map to the
+Mind Faculty. The Female and Male Faculties are parts of the Body
+Principle, as will be stated later. It is thus established that the
+remaining five external Principles and the remaining portion of the
+Essence Principle do not have Faculty-status.
 
 In the Abhidharmakośabhāṣya, the first Kośasthāna, called the
-Exposition of Domains, is completed.
+Dhātu-nirdeśa (Principle Exposition), is complete.
 
-The faculty names above are compact study renderings. The last
-three remain technical names whose composition and path-functions
-require the next chapter's fuller explanation.
+The Faculty names above are compact study renderings. The last
+three remain technical names whose composition and Path-functions
+require the Indriya-nirdeśa's fuller explanation.
 
 ## 4. Movement and Voices of the Commentary
 
-The text resumes the classification of domains after the incidental
-level discussion closed in 1.47. It asks three successive questions:
-which cognitions know them, which are permanent, and which have
-faculty-status.
+The text resumes classifying Principles after the incidental plane
+discussion closed in 1.47. It asks three successive questions:
+which Cognitions know them, which Essences are permanent, and where
+Faculty-status occurs.
 
 The third answer invokes a sūtra list and distinguishes its order
 from the Ābhidharmika recitation. This is an ordering difference
 explicitly reported in the text, not a disagreement about the
-number twenty-two. The distribution then maps those faculties
-into the eighteen-domain classification.
+number twenty-two. The distribution then maps those Faculties
+onto the eighteen-Principle classification.
 
 The chapter closes after this mapping. Its reference to what
 will be explained later prepares the analysis of faculties without
@@ -147,114 +148,131 @@ beginning that analysis here.
 
 ## 5. Knowable by Two or by One
 
-| Object-domain | Cognitions specified |
+| External Principle | Cognitions specified |
 |---|---|
-| Visible form | Visual and mental |
-| Sound | Auditory and mental |
-| Smell | Olfactory and mental |
-| Taste | Gustatory and mental |
-| Tangible | Bodily and mental |
-| Remaining thirteen domains | Mental alone |
+| Visible Form | Eye-Cognition and Mind-Cognition |
+| Sound | Ear-Cognition and Mind-Cognition |
+| Smell | Nose-Cognition and Mind-Cognition |
+| Taste | Tongue-Cognition and Mind-Cognition |
+| Tangible Form | Body-Cognition and Mind-Cognition |
+| Remaining thirteen Principles | Mind-Cognition alone |
 
-The five are external object-domains, not five cognitive faculties.
-The remaining thirteen comprise the twelve internal domains and
-the dharma-domain. The distinction concerns being cognizable;
-it does not turn a cognized faculty into a visible gross organ.
+The five are external field-Principles, not the five sensory Faculties.
+The remaining thirteen comprise the twelve internal Principles and
+the Essence Principle. The distinction concerns knowability; it does
+not turn a Faculty-Principle into a visible bodily organ.
 
-*Anubhūtāḥ* presents these objects as experienced by their respective
-sensory cognitions and cognized by mental cognition. The passage
-supports that sensory/mental distinction. It does not say that
-both cognitions operate simultaneously, that every object-token
-is actually known twice, or that the mental cognition must be
-only recollection. *Dvivijñeya* classifies knowability by two kinds.
+*Anubhūtāḥ* presents the five Principles as experienced through their
+respective sensory Cognitions and cognized through Mind-Cognition.
+The passage supports that sensory/mental distinction. It does not say
+that both Cognitions operate simultaneously, that every instance is
+actually cognized twice, or that Mind-Cognition is merely recollection.
+*Dvivijñeya* classifies knowability through two kinds of Cognition.
 
 ## 6. Permanence Belongs to a Portion
 
-The answer first denies that any complete domain is permanent.
-It then identifies unconditioned dharmas as permanent and locates
-them within the dharma-domain. The whole dharma-domain is therefore
-not assigned permanence.
+The answer first denies that any complete Principle is permanent.
+It then identifies unconditioned Essences as permanent and locates
+them within a portion of the Essence Principle. The whole Essence
+Principle is therefore not assigned permanence.
 
-This preserves the difference between a classificatory domain
-and the status of its members. A domain can contain a permanent
-portion while its other members are impermanent. Conversely,
-being cognizable by mental cognition alone does not entail
-permanence: that knowability classification also includes
-impermanent dharmas.
+This preserves the difference between a Principle and the status
+of its parts. The Essence Principle can contain permanent and
+impermanent Essences. Conversely, being cognizable by Mind-Cognition
+alone does not entail permanence: that knowability classification
+also includes impermanent Essences.
 
 The present unit does not re-enumerate the unconditioned dharmas
 or restate their earlier definitions. Its determination is their
 place in this final classification.
 
-## 7. Twenty-Two Faculties Within Eighteen Domains
+## 7. Twenty-Two Faculties Within Eighteen Principles
 
-| Placement | Faculties or faculty-members specified |
+| Placement | Faculties or Faculty-bearing Principles/parts |
 |---|---|
-| Five internal material faculty-domains | Eye, ear, nose, tongue, body |
-| Seven citta-domains | Manas-faculty |
-| Portion of body-domain | Female and male faculties |
-| Portion of dharma-domain | Eleven beginning with life, plus portions of the last three |
+| Five internal sensory Principles | Eye, Ear, Nose, Tongue, Body Faculties |
+| Seven Citta Principles | Mind Faculty |
+| Part of Body Principle | Female and Male Faculties |
+| Part of Essence Principle | Eleven beginning with Life, plus parts of the final three Faculties |
 
-The seven citta-domains are manas and the six cognition-domains.
-The mapping therefore does not count seven separate manas-faculties
-in the twenty-two-item list.
+The seven Citta Principles are the five sensory-Cognition Principles,
+the Mind Principle, and the Mind-Cognition Principle. Together they
+map to one Mind Faculty; the mapping does not count seven separate
+Mind Faculties in the twenty-two-item list.
 
-In the sūtra order, the eleven beginning with life are life;
+In the sūtra order, the eleven beginning with Life are Life;
 pleasure, pain, gladness, distress, and equanimity; faith, vigor,
 mindfulness, concentration, and prajñā. The remaining three are
-the final knowledge-related faculties. The text assigns portions
-of those three to the dharma-domain, not all three as indivisible
+the final Cognition-related Faculties. The text assigns portions
+of those three to the Essence Principle, not all three as indivisible
 additional entities within it.
 
-Moving manas immediately after life in the Ābhidharmika recitation
-does not change that eleven-member grouping from the sūtra list.
-The reason *sālambanatvāt*, having an object-support, identifies
-manas with the object-directed side of the arrangement. It should
-not be misconstrued as saying that the life-faculty has an
-object-support.
+Moving the Mind Faculty immediately after the Life Faculty in the
+Ābhidharmika recitation does not change the eleven-member grouping
+from the sūtra list. The reason *sālambanatvāt* means “because it
+has an *ālambana*,” a field-support. It explains this ordering; it
+does not say that the Life Faculty has an *ālambana*.
 
-Finally, the external five and the remaining dharma-domain portion
-are not faculties. The categories “internal,” “cognizable,”
-“permanent,” and “faculty” must therefore remain different axes
-of classification.
+Finally, the external five and the remaining portion of the Essence
+Principle do not have Faculty-status. “Internal,” “cognizable,”
+“permanent,” and “Faculty” are distinct determinations.
 
 ## 8. The Bhāṣya's Decisions for the Kārikā
 
-- Read *dvivijñeya* as cognizable by two kinds of cognition.
-- Identify the remaining thirteen as cognizable by mental cognition alone.
-- Restrict permanence to the unconditioned portion of the dharma-domain.
+- Read *dvivijñeya* as cognizable through two kinds of Cognition.
+- Identify the remaining thirteen as cognizable through Mind-Cognition alone.
+- Restrict permanence to unconditioned Essences in a portion of the
+  Essence Principle.
 - Read *dharmārdha* through the commentary's portion-language.
 - Preserve the sūtra list and the stated Ābhidharmika reordering.
-- Map the seven citta-domains to the manas-faculty without multiplying
+- Map the seven Citta Principles to the Mind Faculty without multiplying
   the faculty count.
 - Retain the partial allocation of the last three faculties.
 - End with the chapter colophon, distinguishing subsequent copying material.
 
-## 9. Philosophical and Organon Study
+## 9. Hetu, Phala, Āśraya, and Ālambana
 
-The chapter closes by intersecting classifications rather than
-reducing them to one. A dharma's object-relation, permanence,
-and faculty-status answer different questions. Their overlap
-must be determined rather than inferred from a shared term.
+| Term | Relation | Relevance here |
+|---|---|---|
+| *hetu* : *phala* | cause : result | This passage does not state a cause-result relation between sensory experience and Mind-Cognition. |
+| *āśraya* | support on which a Cognition depends | This is not the term used in the list-ordering explanation. |
+| *ālambana* | field-support Cognition apprehends | *Sālambanatvāt* says the Mind Faculty has an *ālambana*; this explains its placement after the Life Faculty. |
 
-For Organon study, the mapping of twenty-two faculties into
-eighteen domains is especially useful. Two classifications need
-not have matching counts or one-to-one members to remain precise.
-Several domains can fall under one faculty, and a domain can
-contain only a portion bearing a particular status.
+These relations must not be collapsed. *Hetu/phala* names causal
+production and its result; *āśraya* names a supporting basis; and
+*ālambana* names the field-support Cognition takes. The Bhāṣya uses
+*sālambanatva* here, not *hetu*, *phala*, or *āśraya*. The sensory
+experience/Mind-Cognition pair is a distinction between modes of
+access, not an asserted cause-and-result sequence.
 
-That relational precision also governs the transition to Chapter 2.
-The list of faculties has been situated; their governing function
-has not yet been fully explained. The next chapter can take up
-that question without dissolving the distinctions established here.
+For example, in the earlier visual analysis, the Eye Faculty
+Principle is the *āśraya* of Eye-Cognition, while visible Form is
+its *ālambana*—the field-support Cognition apprehends. Neither
+relation is itself *hetu/phala*. Here the Bhāṣya explicitly uses
+only *sālambanatva* to explain the ordering of the Mind Faculty.
 
-## 10. Review Status
+## 10. Philosophical and Organon Study
+
+The chapter closes by crossing distinct determinations: a Principle's
+knowability, the permanence of Essences within a portion of the Essence
+Principle, and Faculty-status across whole Principles and their parts.
+Their unity does not make them interchangeable.
+
+**Organon reading:** The Mind Faculty's *ālambana*-relation marks a
+field-directed capacity; it is not a cause-result claim and does not
+erase the difference between a cognitive support and a cognitive field.
+The eighteen Principles and twenty-two Faculties are intersecting
+classifications, not competing inventories. This positions the Dhātu
+account for the Indriya-nirdeśa without performing the later
+Principle:Rule pass in advance.
+
+## 11. Review Status
 
 Provisional forty-eighth study and final unit of the Dhātunirdeśa
 Bhāṣya sequence. The local kārikā, research commentary, and running
 Sanskrit have been compared through the chapter colophon at 37.18.
 
-The faculty list, its reordered recitation, and the partial-domain
+The Faculty list, its reordered recitation, and the part-to-Principle
 mappings are preserved. Mechanical repairs are documented above.
 The post-colophon verse and copying notice are distinguished from
 the commentary. Original witnesses and the existing kārikā study
