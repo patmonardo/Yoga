@@ -1,4 +1,6 @@
-# VAK_1.28
+# The Principles
+
+## VAK_1.28 — Space and Cognition in the Six Principles
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -12,212 +14,198 @@
 >
 > vijñānadhātur vijñānaṃ sāsravaṃ janmaniśrayāḥ // 1.28 //
 
-## 3. Lexical Analysis
+## 3. Padaccheda and Lexical Analysis
+
+**Padaccheda**
 
 ```text
-ākāśadhātvākhyam    → ākāśa-dhātu-ākhyam
-ālokatamasī          → āloka-tamasī
-vijñānadhātuḥ        → vijñāna-dhātuḥ
-sāsravam             → sa-āsravam
-janmaniśrayāḥ        → janma-niśrayāḥ
+chidram | ākāśa-dhātu-ākhyam | āloka-tamasī | kila |
+vijñāna-dhātuḥ | vijñānam | sa-āsravam | janma-niśrayāḥ
 ```
 
-| Form | Morphology | Lexical force here |
+| Form | Morphology | Force here |
 |---|---|---|
-| chidram | nominative neuter singular | aperture, opening, cavity |
-| ākāśa-dhātu-ākhyam | nominative neuter singular compound | bearing the name “space-domain” |
-| āloka-tamasī | nominative neuter dual compound | light and darkness |
-| kila | reportive particle | so it is said; according to the received account |
-| vijñāna-dhātuḥ | nominative masculine singular | cognition-domain |
+| chidram | nominative neuter singular | opening, aperture |
+| ākāśa-dhātu-ākhyam | nominative neuter singular compound | named the Space Principle |
+| āloka-tamasī | nominative neuter dual | light and darkness |
+| kila | reportive particle | it is said; marks a received account |
+| vijñāna-dhātuḥ | nominative masculine singular | Cognition Principle |
 | vijñānam | nominative neuter singular | cognition |
-| sa-āsravam | nominative neuter singular | accompanied by outflows; contaminated |
-| janma-niśrayāḥ | nominative masculine plural compound | supports or bases of birth |
+| sa-āsravam | nominative neuter singular | with outflows |
+| janma-niśrayāḥ | nominative masculine plural | supports of birth; the Bhāṣya supplies the six Principles as subject |
 
-`Dhātu` is rendered **Domain** in the Organon study. “Element” remains useful
-when discussing conventional translations of the sūtra's sixfold list, but
-it would obscure the inward classificatory work of this chapter if allowed
-to govern the primary rendering.
+`Dhātu` is rendered **Principle** in this project. The Bhāṣya identifies
+the larger list as six Principles: earth, water, fire, wind, space, and
+cognition. The verse's plural `janmaniśrayāḥ` predicates birth-support of
+the six together, not of the singular Cognition Principle alone.
 
 ## 4. Grammar
 
-The first statement identifies a named referent:
+The verse identifies two members whose characteristics had not yet been
+given in the six-Principle teaching:
 
 ```text
-chidram
-    an aperture
+chidram ākāśa-dhātu-ākhyam
+    an opening is named the Space Principle
 
-ākāśa-dhātu-ākhyam
-    is called the space-domain
+āloka-tamasī kila
+    light and darkness, it is said
+
+vijñāna-dhātuḥ vijñānaṃ sāsravam
+    the Cognition Principle is cognition with outflows
+
+[ime ṣaḍ dhātavaḥ] janmaniśrayāḥ
+    [these six Principles] are supports of birth
 ```
 
-The following dual, `āloka-tamasī`, supplies a reported
-analysis of that aperture: no separate cavity is perceived apart from the
-light or darkness occupying it. `Kila` is reportive and should remain
-audible in translation. The local passage does not name a school for this
-account or present “aperture equals light and darkness” as an unmarked truism.
+The bracketed subject of the final clause is made explicit by the Bhāṣya:
+`ime ṣaḍ dhātavaḥ`, these six Principles. The plural ending of
+`janmaniśrayāḥ` is decisive. It does not attach “supports of birth” to the
+singular Cognition Principle alone.
 
-The second statement restricts the cognition-domain:
-
-```text
-vijñāna-dhātuḥ
-    the cognition-domain
-
-vijñānaṃ sāsravam
-    is cognition with outflows
-```
-
-The final `janmaniśrayāḥ` is plural. The Bhāṣya makes all six domains—earth,
-water, fire, wind, space, and cognition—its subject. They are taught
-together because they support birth. Consequently, it is grammatically and
-doctrinally misleading to attach “support of birth” only to the singular
-cognition-domain.
-
-The Bhāṣya defines the relevant life-continuum as extending from
-rebirth-linking citta (`pratisandhicitta`) through death citta
-(`cyuticitta`). Because dharmas without outflows are not common to this
-birth-span, they are excluded from `vijñānadhātu` in this particular six-domain
-teaching.
+`Ālokatamasī` is dual. `Kila` marks the light-and-darkness explanation as
+reported, rather than presenting it as an unqualified definition. The
+Bhāṣya likewise distinguishes this conditioned Space Principle from
+unconditioned space and restricts the Cognition Principle here to cognition
+with outflows.
 
 ## 5. Translation
 
-### Close syntactic construe
+### Literal Translation
 
-> An aperture is called the space-domain—light and darkness, according to the received account. The cognition-domain is cognition with outflows; [the six domains] are supports of birth.
+> An opening is named the Space Principle—light and darkness, it is said.
+> The Cognition Principle is cognition with outflows; these [six] are
+> supports of birth.
 
-### Bhāṣya-informed translation
+### Bhāṣya-informed study translation
 
-> In the sūtra's teaching of six domains, “space-domain” denotes an aperture, explained in a reported account as light or darkness. “Cognition-domain” denotes cognition with outflows. The six are grouped together because they support the course of birth.
+> In the six-Principle teaching, the Space Principle is an opening,
+> explained in a reported account through light and darkness. The Cognition
+> Principle is cognition with outflows. All six are supports of birth,
+> common to the course from rebirth-linking cognition through death
+> cognition.
 
-The clarifying phrases in the second rendering derive from the Bhāṣya. They
-must not be silently read into every occurrence of `ākāśa` or `vijñāna`.
+The Bhāṣya supplies the sixfold subject and the life-span explanation.
+Its final sentence also assigns the first four Principles to the Tangible
+Principle, the fifth to the Form Principle, and the sixth among the seven
+Cognition Principles.
 
 ## 6. Philosophical Translation
 
-> The same name can operate at different levels of determination. Here “space” denotes an opening assigned to visible form. Here “cognition” is restricted to cognition with outflows implicated in birth. Their place is determined by the function of the particular teaching in which they occur.
+The same name does not guarantee the same determination. In this particular
+teaching, “space” names a conditioned opening and “cognition” is restricted
+to cognition with outflows. The six Principles are considered together by
+their shared function as supports of birth; this does not make them six new
+members outside the established eighteen Principles.
 
-Organon rendering:
+**Organon reading**
 
-> The Discriminator keeps each term tied to its determinate use. Unconditioned space as non-obstruction differs from the aperture described through light and darkness. Cognition in general differs from the cognition with outflows selected for this birth-support teaching. A domain has a precisely bounded range within a stated arrangement.
+> The Essence Base is real and operative on the Other Side; it is not
+> merely a name for a classification. This passage offers a concrete
+> cross-mapping for that structure: four of the six Principles enter the
+> Tangible Principle, the conditioned Space Principle enters the Form
+> Principle, and cognition with outflows is distributed among the seven
+> Cognition Principles. The Essence Base is where such relations can be
+> held as determinate structure, rather than flattened into an inventory.
+
+The possible placement of **FactStore** within the Essence Base is a
+working architectural direction to test against mappings of this kind,
+not a claim made by the kārikā. The verse establishes the textual
+determinations and the Bhāṣya supplies their placement among the eighteen
+Principles; the location of a software store remains an Organon design
+question.
 
 ## 7. Technical Vocabulary
 
 | Sanskrit | Project rendering | Determination |
 |---|---|---|
-| ṣaḍ-dhātu | six domains | earth, water, fire, wind, space, and cognition in this sūtra teaching |
-| chidra | aperture / opening | conditioned referent of `ākāśadhātu` here |
-| ākāśa | unconditioned space / non-obstruction | asaṃskṛta established earlier; not the present aperture |
-| ākāśadhātu | space-domain | conditioned aperture included within visible form |
-| āloka | light | one perceptible determination of the aperture |
-| tamas | darkness | the other perceptible determination of the aperture |
-| kila | according to a reported account | does not itself identify a school |
-| aghasāmantaka-rūpa | form near agha | technical designation with an uncertain local etymology |
-| vijñānadhātu | cognition-domain | here restricted to cognition with outflows |
-| sāsrava | accompanied by outflows / contaminated | implicated in conditioned existence and birth |
-| anāsrava | without outflows | excluded from the cognition member of this six-domain teaching |
-| janmaniśraya | support of birth | shared functional reason for grouping the six Domains |
-| pratisandhicitta | rebirth-linking citta | opening citta of a new life-continuum |
-| cyuticitta | death citta | terminal citta of that continuum |
+| dhātu | Principle | project term for this chapter's classifications |
+| ṣaḍ-dhātu | six Principles | earth, water, fire, wind, space, and cognition in the sūtra teaching |
+| chidra | opening; aperture | conditioned referent named as the Space Principle here |
+| ākāśa | unconditioned space; non-obstruction | distinct from the conditioned opening of this verse |
+| ākāśadhātu | Space Principle | opening explained through light and darkness; assigned to Form |
+| āloka | light | one reported determination of the opening |
+| tamas | darkness | the other reported determination |
+| kila | according to a received account | reportive; does not itself identify a school |
+| vijñānadhātu | Cognition Principle | restricted here to cognition with outflows |
+| sāsrava | with outflows | the cognition selected for this birth-support teaching |
+| anāsrava | without outflows | excluded from the Cognition Principle in this particular list |
+| janmaniśraya | support of birth | shared function of the six Principles |
+| pratisandhicitta | rebirth-linking cognition | opening cognition in the life-continuum described by the Bhāṣya |
+| cyuticitta | death cognition | terminal cognition in that life-continuum |
+| Essence Base | Organon structure on the Other Side | real, operative relational structure; possible home for FactStore remains under design |
 
 ## 8. Logical Determination
 
-The ambiguity tested by the verse is:
+The verse and Bhāṣya reject two unrestricted inferences:
 
 ```text
-Named(x, AkashaDhatu)
-    → UnconditionedSpace(x)?
+Named(x, SpacePrinciple)
+    ↛ IdenticalTo(x, UnconditionedSpace)
 
-Named(y, VijnanaDhatu)
-    → EveryKindOfCognition(y)?
+Named(y, CognitionPrinciple)
+    ↛ IncludesEveryKindOfCognition(y)
 ```
 
-Both unrestricted inferences are denied:
+The local determinations and cross-mapping are:
 
 ```text
-AkashaDhatuInSixDomainTeaching
-    = ConditionedAperture
-    → ReportedAs(LightOrDarknessForm)
-    → IncludedIn(RupaDhatu)
+SpacePrincipleInSixfoldTeaching
+    = ConditionedOpening
+    → ReportedAs(LightAndDarkness)
+    → IncludedIn(FormPrinciple)
 
-VijnanaDhatuInSixDomainTeaching
-    = SasravaCognition
-    → IncludedIn(SevenCognitionDhatus)
+CognitionPrincipleInSixfoldTeaching
+    = CognitionWithOutflows
+    → IncludedAmong(SevenCognitionPrinciples)
+
+Earth | Water | Fire | Wind Principles
+    → IncludedIn(TangiblePrinciple)
 ```
 
-The remaining four are reintegrated as follows:
+Their shared function is:
 
 ```text
-Earth | Water | Fire | Wind
-    → IncludedIn(SprastavyaDhatu)
-```
-
-The governing functional restriction is:
-
-```text
-MemberOf(x, SixDomainTeaching)
+MemberOf(x, SixPrincipleTeaching)
     → Supports(x, BirthContinuum)
 
-AnasravaDharma(x)
+WithoutOutflows(x)
     → NotCommonTo(x, BirthSpanDescribedHere)
-    → ExcludedFrom(x, VijnanaDhatuInThisTeaching)
+    → ExcludedFrom(CognitionPrincipleInThisTeaching)
 ```
 
-Thus the six-domain list is fully assignable within the established eighteen
-Domains:
-
-```text
-four material supports → tangible-domain
-conditioned aperture  → visible-form domain
-cognition with outflows → seven cognition-domains as applicable
-```
+Thus the sixfold teaching is reintegrated within the eighteen Principles;
+its entries do not become additional Principles outside that arrangement.
 
 ## 9. Interpretive Note
 
-VAK 1.28 is the worked proof of the method stated in 1.27. The sūtra gives a
-six-domain teaching whose names initially appear to cross the boundaries of
-the eighteen-domain system. Vasubandhu does not reject the sūtra and does not
-multiply the fundamental classes. He asks what `ākāśadhātu` and
-`vijñānadhātu` denote in this precise instructional context.
+VAK 1.28 is the worked case following the assignment procedure of 1.27.
+The *Bahudhātuka* teaching gives six Principles. The Bhāṣya specifies the
+two initially unexplained members: the Space Principle is an opening
+apprehended through light and darkness, and the Cognition Principle is
+cognition with outflows. It then maps the six into the eighteen Principles:
+four into the Tangible Principle, one into the Form Principle, and one
+among the seven Cognition Principles.
 
-The result is a decisive distinction between two spaces:
+The Space Principle here is not unconditioned space. The shared word
+*ākāśa* does not erase the distinction between non-obstruction and the
+conditioned opening described in this passage. Likewise, the restriction
+to cognition with outflows applies to this birth-support list; it does not
+define cognition in every context.
 
-```text
-unconditioned ākāśa
-    = non-obstruction
-    = not produced
+For the Organon, this case makes the Essence Base's reality consequential.
+It must do real work on the Other Side by preserving relations among the
+six-Principle teaching and the established eighteen-Principle system.
+FactStore may belong within that structure; this is a promising design
+direction, still to be tested rather than attributed to Vasubandhu's verse.
 
-conditioned ākāśadhātu here
-    = aperture apprehended through light or darkness
-    = visible-form domain
-```
-
-Our earlier poetic contact between unconditioned space and Brahman belongs
-entirely to the Organon comparison. The present verse neither retracts the
-unconditioned status of `ākāśa` nor applies that status to every expression
-containing the word. It shows why conceptual discipline is necessary: the
-shared word does not abolish the difference of Domains.
-
-The restriction of cognition is equally powerful. `Vijñāna` here is
-not pure Buddha Mind and not liberating cognition. It is precisely the
-conditioned cognition that participates in the span from rebirth-linking
-to death. The six Domains constitute a genetic support-system of embodied
-birth, but they do not thereby become six new primitives outside the
-eighteen Domains.
-
-This completes the system setup before the classification questions beginning
-in 1.29:
-
-```text
-1.24  distinguish technical names from universal class-words
-1.25  reintegrate inherited Dharma-collections by their nature
-1.26  state what can individuate one teaching-unit
-1.27  formulate classification by referent, scope, and own-characteristic
-1.28  demonstrate the method on the six-domain teaching
-```
-
-The lesson for the Organon is exact and restrained: a Domain is not a lump
-of outward matter. It is a determination whose extension depends upon the
-specified referent, scope, and function. The classifier becomes rational by
-refusing both verbal equivalence and external enumeration.
+The six Principles are supports of a life-continuum extending, in the
+Bhāṣya's account, from rebirth-linking cognition through death cognition.
+The classification is functional as well as referential: the included
+cognition is the cognition common to that birth-span. The difficult
+`cittasthaṃ` belongs to the Bhāṣya's explanation of *aghasāmantaka-rūpa*,
+not to this kārikā's wording, and remains unresolved in the separate
+commentary study.
 
 ## 10. OWL++ Seed
 
@@ -228,29 +216,30 @@ refusing both verbal equivalence and external enumeration.
 vak:VAK_1_28
     a vak:Karika ;
     rdfs:label "VAK 1.28" ;
-    vak:hasTopic vak:ReintegrationOfSixDomains ;
+    vak:hasTopic vak:ReintegrationOfSixPrinciples ;
     vak:belongsTo vak:Dhatunirdesa .
 
 vak:UnconditionedSpace
     a vak:AsamskrtaDharma ;
     vak:hasCharacteristic vak:NonObstruction ;
-    vak:distinctFrom vak:ConditionedSpaceDomain .
+    vak:distinctFrom vak:ConditionedSpacePrinciple .
 
-vak:ConditionedSpaceDomain
-    a vak:ConditionedAperture,
-        vak:VisibleForm ;
-    vak:reportedAs vak:Light,
-        vak:Darkness ;
-    vak:includedIn vak:RupaDhatu .
+vak:ConditionedSpacePrinciple
+    a vak:ConditionedOpening ;
+    vak:reportedAs vak:Light , vak:Darkness ;
+    vak:includedIn vak:FormPrinciple .
 
-vak:CognitionDomainInSixDomainTeaching
-    a vak:SasravaCognition ;
+vak:CognitionPrincipleInSixfoldTeaching
+    a vak:CognitionWithOutflows ;
     vak:supports vak:BirthContinuum ;
-    vak:includedIn vak:SevenCognitionDhatus ;
-    vak:excludes vak:AnasravaCognition .
+    vak:includedAmong vak:SevenCognitionPrinciples ;
+    vak:excludes vak:CognitionWithoutOutflows .
 
-vak:SixDomainTeaching
-    a vak:SpecializedScripturalClassification ;
-    vak:hasFunction vak:SupportOfBirth ;
-    vak:reintegratedWithin vak:EighteenDhatus .
+vak:EssenceBase
+    a vak:RealOtherSideStructure ;
+    vak:mayContain vak:FactStore .
+
+vak:FactStorePlacement
+    a vak:WorkingDesignHypothesis ;
+    vak:candidateFor vak:EssenceBase .
 ```

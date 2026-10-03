@@ -6,9 +6,10 @@
 >
 > caritapratipakṣas tu dharmaskandho 'nuvarṇitaḥ // 1.26 //
 
-> Some say a Dharma-collection has the measure of the treatise; an exposition
-> of the aggregates and other topics, each separately, is another account.
-> A Dharma-collection, however, is described as a counteragent to a disposition.
+> Some say a Dharma-collection has the measure of a treatise; another
+> account is an exposition of each of the Bases and the other topics.
+> A Dharma-collection, however, is described as a counteragent to a
+> disposition.
 
 The Bhāṣya distinguishes textual extent, individual doctrinal exposition,
 and a teaching's counteracting relation to a disposition. The last account
@@ -50,12 +51,12 @@ has been corrected to this reading; both research witnesses remain unchanged.
 
 ## 3. Continuous Conventional Translation
 
-> What is the measure of a Dharma-collection? Some say that it has the
-> measure of the treatise. Certain teachers say its measure is that of the
+> What is the measure of a Dharma-collection? Some say that a treatise is
+> its measure. Certain teachers say its measure is that of the
 > Abhidharma treatise named Dharmaskandha; that is six thousand [textual
-> units]. Others say: an exposition of the aggregates and the other topics,
-> each separately. An exposition of each of the aggregates, āyatanas,
-> dhātus, dependent arising, truths, nutriments, dhyānas, immeasurables,
+> units]. Others say: an exposition of the Bases and the other topics,
+> each separately. An exposition of each of the Bases, Essence Bases,
+> Principles, dependent arising, truths, nutriments, dhyānas, immeasurables,
 > formless attainments, liberations, bases of mastery, bases of totality,
 > factors conducive to awakening, higher knowledges, discriminations,
 > knowledge through resolve, freedom from conflict, and the rest is a
@@ -69,7 +70,7 @@ has been corrected to this reading; both research witnesses remain unchanged.
 
 ## 4. Movement and Reported Positions
 
-The question asks what makes a dharmaskandha a measured unit. The passage
+The question asks what makes a *dharmaskandha* a measured unit. The passage
 answers through three accounts:
 
 | Account | Basis of the unit | Attribution |
@@ -100,7 +101,7 @@ unstated here.
 The second account changes the criterion to `kathā`, exposition, qualified
 by `ekaśaḥ` in the verse and `pratyekam` in the prose: each separately.
 The long list illustrates doctrinal subjects. It does not state that each
-individual aggregate, each nutriment, or each factor of awakening must
+individual Base, each nutriment, or each factor of awakening must
 constitute a separate collection of fixed length. The securely stated
 principle is a separate exposition of a topic.
 
@@ -149,8 +150,15 @@ exposition. The Bhāṣya does not reduce that possible relation to a single
 criterion here. It preserves the distinct proposals and elaborates the
 third through the traditional count.
 
+The *dharmaskandha* remains a special teaching-collection in this
+conventional discussion; it is not an additional Base. The project's
+**Essence Base** is a distinct structural term in the nested Knowledge
+Base / Essence Base / Form Base design. The three measures here explain
+how a teaching-collection may be counted, not how that architecture is
+itself constituted.
+
 This inquiry also differs from 1.25. There the issue was whether Buddha-word
-is speech or name and how it is included in the aggregate scheme. Here the
+is speech or name and how it is included in the Base scheme. Here the
 issue is what makes one teaching-collection a unit. Textual measure,
 subject matter, and practical function do not themselves decide the earlier
 speech/name question.

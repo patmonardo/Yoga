@@ -1,4 +1,6 @@
-# VAK_1.25 Bhāṣya — Dharma-Collections as Speech or Name
+# The Principles
+
+## VAK_1.25 Bhāṣya — Dharma-Collections and Their Inclusion
 
 ## 1. Kārikā Anchor
 
@@ -6,12 +8,14 @@
 >
 > tāni vāṅnāma vety eṣāṃ rūpasaṃskārasaṃgrahaḥ // 1.25 //
 
-> The eighty thousand Dharma-collections proclaimed by the Sage are speech
-> or name; accordingly, they are included in rūpa or saṃskāra.
+> The eighty thousand Dharma-collections proclaimed by the Sage—speech or
+> name—are included in the Form Base and the Formations Base.
 
-The Bhāṣya introduces the problem of other scriptural classifications and
-uses Dharma-collections as its first example. Their inclusion depends on
-whether Buddha-word is understood as speech or as name.
+The Bhāṣya places this verse under a wider question: are scriptural things
+called Bases, Essence Bases, and Principles included in the established
+classifications, or do they stand apart? It answers that they are included,
+not separate. Here the Dharma-collections are its first example. Two
+accounts of Buddha-word's nature are reported: speech, or name.
 
 ## 2. Continuous Sanskrit
 
@@ -24,170 +28,170 @@ whether Buddha-word is understood as speech or as name.
 
 The natural unit runs from the question at printed location 017.04–05
 through the two positions at 017.09. The following question about the
-measure of a Dharma-collection introduces 1.26. The research report includes
-that question as a transition; this edition reserves it for the unit it
-opens, without answering it here.
+measure of a Dharma-collection introduces 1.26; it is not answered in this
+unit.
 
 Word division and punctuation are editorial. The running Sanskrit and
-research witnesses agree on the substantive wording of this short passage.
-No conjectural lexical repair is needed. The number is eighty thousand,
-as expressed by `aśītiṃ` with `sahasrāṇi`; it is not replaced by a different
-traditional count. The sandhi `vāṅnāma veti` is retained and analyzed below.
+research witnesses agree on the substantive wording. No conjectural
+lexical repair is needed. The number is eighty thousand, expressed by
+`aśītiṃ` with `sahasrāṇi`. The sandhi `vāṅnāma veti` is retained and
+resolved in the analysis below.
 
 ## 3. Continuous Conventional Translation
 
-> Other things designated as skandhas, āyatanas, and dhātus are also found
-> in the sūtras. Should their inclusion within these very classifications
-> be understood, or do they stand apart from them? They are included within
-> these very classifications; they do not stand apart.
+> Other things designated in the sūtras as Bases, Essence Bases, and
+> Principles are also found. Should their inclusion within these very
+> classifications be understood, or do they stand apart from them? They
+> are included within these very classifications; they do not stand apart.
 >
-> First, the eighty thousand Dharma-collections proclaimed by the Sage
-> are speech or name; accordingly, they are included in rūpa or saṃskāra.
-> For those who hold that Buddha-word has speech as its nature, those
-> collections are included in the rūpa aggregate. For those who hold that
-> it has name as its nature, they are included in the saṃskāra aggregate.
+> First, the eighty thousand Dharma-collections proclaimed by the Sage are
+> speech or name; their inclusion is in Form or Formations. For those who
+> hold that Buddha-word has speech as its nature, those collections are
+> included in the Form Base. For those who hold that it has name as its
+> nature, they are included in the Formations Base.
 
 ## 4. Movement of the Commentary
 
-The passage moves from a general question about scriptural terms to a
-specific case of inclusion:
+The Bhāṣya moves from the general question of scriptural designation to a
+specific case:
 
 ```text
-other scriptural skandha, āyatana, and dhātu designations
-    → included in the established classifications
-first case: eighty thousand Dharma-collections
-    → speech-nature account: rūpaskandha
-    → name-nature account: saṃskāraskandha
+other scriptural names for Bases, Essence Bases, and Principles
+    → included in these very classifications, not separate
+
+first example: the eighty thousand Dharma-collections
+    → speech-nature account: Form Base
+    → name-nature account: Formations Base
 ```
 
-The general answer is direct. The two analyses of Buddha-word are reported
-through `yeṣām ... teṣām`, “for those who ... for them.” Neither group
-is named, and neither analysis is selected as the author's final position
-within this unit.
+The general answer is stated directly. The two analyses of Buddha-word are
+introduced through `yeṣāṃ ... teṣām`, “for those who ... for them.” No
+group is named, and neither account is selected as the final position.
 
-## 5. Scriptural Names and Classificatory Inclusion
+## 5. Scriptural Names and Inclusion
 
-`Skandhāyatanadhātusaṃśabditāni` identifies things designated by these
-terms in sūtras. The occurrence of another name generates a question of
-inclusion, not an automatic addition to the previously established counts.
-`Ebhir eva`, “by these very,” refers back to the classifications already
-explained; `na vyatirekaḥ` denies that the further cases stand outside them.
+`Skandhāyatanadhātusaṃśabditāni` refers to things designated in the sūtras
+by the names of Bases, Essence Bases, and Principles. The occurrence of
+another designation raises a question; it does not by itself establish a further
+member outside the systems already explained. `Ebhir eva`, “by these very
+[classifications],” points back to those systems. `Na vyatirekaḥ` denies
+separate standing.
 
-This continues the rule of 1.18: inclusion requires determining what the
-item is. A shared word alone does not establish that two uses have identical
-scope. In particular, a dharmaskandha here is a body or collection of
-teaching. Its name does not create a sixth aggregate alongside rūpa,
-vedanā, saṃjñā, saṃskāra, and vijñāna.
+In this example, *dharma-skandha* names a special scriptural body or
+collection of teaching. Its use of *skandha* does not make it one more
+member of the five Bases. The Bhāṣya's question is where this teaching
+collection belongs under the two analyses of Buddha-word, not whether its
+name creates an additional ontological Base.
 
-The general statement also retains the previously established differences
-of coverage. Aggregates include conditioned dharmas; āyatanas and dhātus
-include the unconditioned as well. The present example places teaching in
-one of two conditioned aggregates under the two reported analyses. It does
-not extend the aggregate classification to every unconditioned item merely
-to make all three systems equally extensive.
+The passage is specific about the assignments it makes: the speech account
+places the teaching in the Form Base; the name account places it in the
+Formations Base. It does not here assign it to the Essence Base or the
+Knowledge Base.
 
 ## 6. The Two Analyses of Buddha-Word
 
-The verse's `yāni ... tāni` carries the Dharma-collections from the
-relative clause into the account of their nature. `Jagau`, a perfect form
-of √gai, is rendered “proclaimed” in the context of the Sage's teaching.
-The numerical expression gives eighty thousands; the prose does not yet
-explain the size of an individual collection.
+`Vāṅnāma veti` resolves as `vāk nāma vā iti`: “speech, or name.” The
+Bhāṣya develops the alternatives explicitly:
 
-`Vāṅnāma veti` resolves as `vāk nāma vā iti`: speech, or name. The
-Bhāṣya makes the alternative explicit through its paired statements:
-
-| Attributed nature of Buddha-word | Inclusion stated |
+| Reported nature of Buddha-word | Stated inclusion |
 |---|---|
-| `vāksvabhāva`, speech as nature | rūpa aggregate |
-| `nāmasvabhāva`, name as nature | saṃskāra aggregate |
+| `vāksvabhāva`, speech as its nature | Form Base |
+| `nāmasvabhāva`, name as its nature | Formations Base |
 
-In the first statement, `buddhavacanam` is qualified by `vāksvabhāvam`.
-In the second, both Buddha-word and the earlier inclusion predicate are
-understood from the preceding clause. The instrumental
-`saṃskāraskandhena` therefore expresses the parallel inclusion rather
-than a new act performed by formations.
+In the first statement, `buddhavacanam` is qualified by
+`vāksvabhāvam`: for those who hold Buddha-word to have speech as its
+nature, the collections are gathered into the Form Base. In the second,
+the prior material is understood: for those who hold it to have name as
+its nature, the collections are included by the Formations Base.
 
-The speech account is intelligible through the earlier classification of
-sound within rūpa. This is the classification of Buddha-word on the
-speech-nature account; the paragraph does not separately classify the full
-meaning or attainment conveyed by the teaching as material sound.
+The sound account is intelligible through the earlier inclusion of sound
+in Form. The name account treats linguistic name as a formation. The
+Bhāṣya does not further analyze the relations among sound, words, phrases,
+syllables, and meaning here; those distinctions should not be added to its
+translation.
 
-The name account assigns Buddha-word to saṃskāra. `Nāman` is retained as
-“name,” with linguistic designation as its working sense. The passage does
-not unpack the complete technical account of names, phrases, or syllables,
-and those further distinctions are not added to its continuous translation.
+The alternatives should not be turned into one endorsed account in which
+speech is merely a vehicle and name its semantic content. Such a model may
+be explored separately, but the commentary reports positions about what
+Buddha-word is by nature and states the inclusion corresponding to each.
 
-The alternatives should not be silently converted into a single endorsed
-theory with a material vehicle and a semantic component. That distinction
-may be useful in Organon interpretation, but the source reports positions
-about what constitutes Buddha-word and gives the classification under each.
+## 7. Dharma-Collection and Essence Base
 
-## 7. One Inclusion Result, an Undecided Analysis
+Two uses must be kept distinct:
 
-The result shared by both positions is inclusion in the established scheme.
-Their disagreement concerns the nature attributed to the teaching. The
-Bhāṣya can establish the former here without resolving the latter.
+| Level | Term | Determination |
+|---|---|---|
+| Conventional reading of this passage | *dharma-skandha* | a special collection or body of teaching; not one of the five Bases |
+| Organon vocabulary | Dharma-skandha / Essence Base | the project's structural determination in the Form Base–Essence Base–Knowledge Base design |
 
-This separates two questions:
+Thus **Dharma-collection** is the right rendering when identifying the
+eighty thousand scriptural units in the conventional translation. **Essence
+Base** is the project's name for the structural role of Dharma-skandha in
+the Organon design. These are related readings, not interchangeable
+translations of this passage's referent.
+
+The distinction also prevents a false inference from the shared word
+*skandha*. The eighty thousand teaching collections are not eighty thousand
+additional Bases, and the Essence Base is not a sixth item added to the
+fivefold classification. The term names the middle determination in the
+project's architecture:
 
 ```text
-Does the scriptural designation require a further aggregate?
-    → no, under either reported analysis
-
-Is Buddha-word speech or name in its nature?
-    → two positions reported; no decision given here
+[Knowledge Base
+    [Essence Base
+        [Form Base]]]
 ```
 
-`Rūpasaṃskārasaṃgrahaḥ` consequently has a distributed sense. It does
-not mean that every Dharma-collection must be simultaneously classified
-as both speech and name, nor that rūpa and saṃskāra have become one
-aggregate. The prose's paired conditionals preserve the relevant alternatives.
+VAK 1.25 does not by itself explain this full three-part architecture. Its
+immediate textual work is narrower: it takes the Dharma-collection as an
+example of inclusion and shows the two Form / Formations placements.
 
 ## 8. The Bhāṣya's Decisions for the Kārikā
 
-1. Dharmaskandha here names a teaching-collection whose inclusion must be
-   determined, not an additional aggregate inferred from its name.
-2. The transmitted count is eighty thousand; its unit of measure is left
-   to the next inquiry.
-3. Speech and name are alternative reported accounts of Buddha-word's
-   nature, not a single combined definition adopted here.
-4. Their classifications correspond respectively to rūpa and saṃskāra.
-5. Both positions support the immediate conclusion of inclusion in the
-   established aggregate scheme; their substantive disagreement remains open.
+1. Additional sūtra designations do not automatically stand outside the
+   established classifications.
+2. *Dharma-skandha* here means a teaching collection, not an additional
+   member of the five Bases.
+3. The number given is eighty thousand; the unit's measure is left to the
+   question opening 1.26.
+4. Speech and name are two reported accounts of Buddha-word's nature; the
+   Bhāṣya does not choose between them.
+5. Speech is included in the Form Base; name is included in the Formations
+   Base.
+6. The project's Essence Base terminology describes the Organon structure;
+   it is not substituted for the conventional referent of *dharma-skandha*
+   in this verse.
 
 ## 9. Philosophical and Organon Study
 
-The text of the teaching itself becomes an object of classification. The
-question is no longer only what the teaching describes, but what kind of
-determination the teaching is. The two reported answers place it within
-the same systematic field whose categories it expounds.
+The teaching that articulates the system is itself brought within the
+system's field of determination. The Bhāṣya first refuses to let a
+scriptural name create an independent classification, then asks what
+Buddha-word is held to be. Speech is placed in the Form Base; name is
+placed in the Formations Base. The content taught is not thereby reduced
+to audible sound: the local argument classifies Buddha-word under the
+reported account of its nature.
 
-For the Organon reconstruction, this opens a useful distinction between
-the occurrence of instruction and its linguistic articulation. The source
-requires us to preserve the rival accounts before developing that distinction
-as a model of their relation. Its immediate achievement is to show that
-neither account requires a further aggregate.
+In the Organon reading, the Dharma-collection has a special status. It is
+not just another item in the fivefold Base inventory: it is an articulated
+body of teaching through which Dharma is gathered and made intelligible.
+The project names this structural determination the **Essence Base**, in
+the architecture of Form Base, Essence Base, and Knowledge Base. This
+architectural use should not be confused with the conventional lexical
+meaning “teaching collection” in the verse.
 
-This returns to our question about learning. Classifying Buddha-word as
-speech or name does not yet explain how hearing or understanding it develops
-prajñā. Read with 1.02, the teaching can be investigated both in its
-constitution and in its role as equipment for attainment. Those are connected
-questions whose answers should not be substituted for one another.
+The two accounts of Buddha-word remain open at the textual level. The
+Organon may ask how outward speech and formed name function within the
+nested Knowledge Base / Essence Base / Form Base architecture, but 1.25
+does not yet synthesize those moments or explain the later focus on the
+eighteen Principles. It supplies the first worked case: determine the
+referent and its nature before deciding where it belongs.
 
-The Organon Dharma-collection can take this as a methodological requirement:
-state what the textual equipment consists in, what meaning it articulates,
-and what operation of understanding it is intended to enable. That is our
-reconstruction; the Bhāṣya here supplies the two accounts and their
-classificatory consequences.
+## 10. Working Status
 
-## 10. Review Status
-
-QA review of the twenty-fifth Bhāṣya study. The local research
-commentary, kārikā opening, and running Sanskrit have been compared through
-017.09. The substantive wording agrees, and only reading
-punctuation and word division have been supplied.
-
-The two positions remain attributed without named schools or a declared
-winner. The measure question is reserved for 1.26. Original research files
-and the Part One reading artifact remain unchanged.
+This is a working revision of the twenty-fifth Bhāṣya study. It preserves
+the witness reading and the unselected speech/name accounts, and now
+distinguishes the conventional Dharma-collection from the project's
+Essence Base terminology. The measure question remains with 1.26. The
+Form Base–Essence Base–Knowledge Base architecture is stated as project
+vocabulary, not attributed to the conventional translation of this passage.

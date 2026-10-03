@@ -1,4 +1,6 @@
-# VAK_1.27
+# The Principles
+
+## VAK_1.27 — Determine the Characteristic, Then Assign
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -12,202 +14,190 @@
 >
 > pratipādyā yathokteṣu saṃpradhārya svalakṣaṇam // 1.27 //
 
-## 3. Lexical Analysis
+## 3. Padaccheda and Lexical Analysis
+
+**Padaccheda**
 
 ```text
-tathānye 'pi              → tathā anye api
-yathāyogam                → yathā-yogam
-skandhāyatanadhātavaḥ     → skandha-āyatana-dhātavaḥ
-pratipādyāḥ               → pratipādyāḥ
-yathokteṣu                → yathā-ukteṣu
-saṃpradhārya              → sam-pra-√dhṛ + lyap
-svalakṣaṇam               → sva-lakṣaṇam
+tathā | anye | api | yathā-yogam | skandha-āyatana-dhātavaḥ |
+pratipādyāḥ | yathā-ukteṣu | saṃpradhārya | sva-lakṣaṇam
 ```
 
-| Form | Morphology | Lexical force here |
+| Form | Morphology | Force here |
 |---|---|---|
-| tathā | adverb | likewise; applies the preceding procedure to further scriptural classifications |
+| tathā | indeclinable adverb | likewise; carries forward the preceding inclusion discussion |
 | anye | nominative masculine plural | other, additional |
-| api | particle | also, even |
-| yathā-yogam | indeclinable compound used adverbially | according to the applicable relation; as appropriate in each case |
-| skandha-āyatana-dhātavaḥ | nominative masculine plural compound | aggregates, spheres, and domains |
-| pratipādyāḥ | nominative masculine plural gerundive of `prati-√pad` in causative sense | to be assigned, established, or accounted for |
-| yathā-ukteṣu | locative masculine plural | among those stated above |
-| saṃpradhārya | absolutive | having carefully considered or ascertained |
-| sva-lakṣaṇam | accusative neuter singular | the intrinsic characteristic proper to each item |
+| api | particle | also |
+| yathāyogam | indeclinable adverbial compound | as appropriate to each case |
+| skandha-āyatana-dhātavaḥ | nominative masculine plural compound | Bases, Essence Bases, and Principles |
+| pratipādyāḥ | nominative masculine plural gerundive | to be established or assigned |
+| yathokteṣu | locative plural | among those already stated |
+| saṃpradhārya | absolutive | having carefully considered or determined |
+| sva-lakṣaṇam | accusative neuter singular | the characteristic proper to each |
 
-The subject is not “other dharmas” generally. It is the additional things
-called aggregates, spheres, and domains in other sūtras. The Bhāṣya supplies
-that scriptural setting explicitly.
+The Bhāṣya expands *yathokteṣu* as the established five Bases, twelve
+Essence Bases, and eighteen Principles. It expands *svalakṣaṇam* as each
+category's own characteristic, determined as set out in this treatise.
 
 ## 4. Grammar
 
-The main construction is prescriptive:
+The verse gives an instruction whose order matters:
 
 ```text
 anye api skandha-āyatana-dhātavaḥ
-    the other aggregates, spheres, and domains also
+    other Bases, Essence Bases, and Principles too
 
-pratipādyāḥ
-    are to be assigned or established
+saṃpradhārya svalakṣaṇam
+    having carefully determined each one's own characteristic
 
-yathokteṣu
-    among those already stated
+yathokteṣu pratipādyāḥ
+    are to be established among those already stated
+
+yathāyogam
+    as appropriate in each case
 ```
 
-`Saṃpradhārya svalakṣaṇam` states the prior operation: their intrinsic
-characteristic must first be carefully determined. The singular
-`svalakṣaṇam` is distributive—one determines the characteristic proper to
-each named item—while `yathāyogam` qualifies the resulting placement. It
-means “according to the relation that applies,” not “by whatever analogy
-seems convenient.”
+`Saṃpradhārya` is an absolutive: determination precedes assignment.
+The Bhāṣya makes the distributive force explicit with `svaṃ svaṃ
+lakṣaṇam`, each one's own characteristic, and says it is to be considered
+as prescribed in the treatise.
 
-The Bhāṣya demonstrates why both qualifications matter. A scriptural name
-may denote:
-
-```text
-the principal dharma alone
-    or
-that dharma together with its associates (saparivāra)
-```
-
-The proper inclusion changes when the intended scope changes. Thus eight
-totality-spheres, considered through their principal nature of non-greed,
-belong to the Dharma-sphere. Considered together with their associated
-complex, they involve all five Aggregates and are included through the mind
-and Dharma spheres.
+`Pratipādyāḥ` is the gerundive governing the compound subject. It indicates
+that the additional scriptural classifications are to be accounted for
+within the systems already stated. The verse does not prescribe
+classification by the shared sound of a name; `yathāyogam` requires the
+assignment to fit the particular case.
 
 ## 5. Translation
 
-### Close syntactic construe
+### Literal Translation
 
-> Likewise, the other Aggregates, Spheres, and Domains are to be assigned, as appropriate, among those already stated, after carefully determining their intrinsic characteristic.
+> Likewise, the other Bases, Essence Bases, and Principles are to be
+> established, as appropriate, among those already stated, after carefully
+> determining each one's own characteristic.
 
-### Bhāṣya-informed translation
+### Bhāṣya-informed study translation
 
-> The additional Aggregates, Spheres, and Domains taught in other sūtras must likewise be subsumed, in each case appropriately, under the five Aggregates, twelve Spheres, and eighteen Domains already established. This placement is made only after determining what each expression actually denotes and what its intrinsic characteristic is.
+> Other classifications called Bases, Essence Bases, and Principles in the
+> sūtras are to be included, each as appropriate, within the five Bases,
+> twelve Essence Bases, and eighteen Principles already explained. First
+> determine what each one is and its proper characteristic; then establish
+> its place in the relevant system.
 
-The second translation exposes the exhaustive frameworks presupposed by
-`yathokteṣu` and the semantic analysis required by `svalakṣaṇa`.
+The prose illustrates the rule through several scriptural classifications.
+It also shows that an item considered by its principal nature may have a
+different inclusion when considered together with its attendants.
 
 ## 6. Philosophical Translation
 
-> A scriptural name does not determine its own systematic place. First ascertain the determination that the name presents—whether a single principal factor or a factor with its associated whole. Then place that determination within the established systems according to the relation it actually bears to them.
+An inherited name does not by itself determine a classification. The
+proper characteristic must be ascertained first; the item's scope must also
+be clear. Only then can it be assigned among the established Bases,
+Essence Bases, or Principles.
 
-Organon rendering:
+**Organon reading**
 
-> The Discriminator does not classify by verbal resemblance. It resolves a received representation into its intrinsic determination and its intended scope; only then does it establish the representation within the appropriate Aggregate, Sphere, and Domain. Systematic inclusion is therefore the consequence of determinate cognition, not the imposition of an external list.
+> The operation is determination before placement. Ask what the named
+> content is in its own right, and whether the name presents that principal
+> content alone or the content together with its attendants. The same
+> scriptural heading can therefore receive different placements without
+> contradiction when the scope under consideration differs.
+
+The Organon reading draws out the procedure enacted in the Bhāṣya's
+examples. It does not turn context-sensitive assignment into arbitrariness:
+the characteristic and scope constrain the result.
 
 ## 7. Technical Vocabulary
 
 | Sanskrit | Project rendering | Determination |
 |---|---|---|
-| anya-skandhāyatanadhātu | additional Aggregate, Sphere, or Domain | specialized classification taught elsewhere in the sūtras |
-| yathāyogam | as appropriate / according to the applicable relation | context-sensitive but rule-governed assignment |
-| pratipādya | to be assigned / established | to account for an item within an established system |
-| yathokta | already stated | the five Aggregates, twelve Spheres, and eighteen Domains |
-| saṃpradhārya | having carefully ascertained | deliberate examination prior to classification |
-| svalakṣaṇa | intrinsic characteristic / own mark | specific nature governing systemic inclusion |
-| saṃgraha | inclusion / subsumption | relation between a specialized teaching and an established class |
-| saparivāra | together with its associates | expanded scope including the principal dharma's accompanying complex |
-| kṛtsnāyatana | totality-sphere | meditative classification used to demonstrate scope-sensitive inclusion |
-| abhibhvāyatana | sphere of mastery | parallel example governed by the same procedure |
-
-Here `svalakṣaṇa` should not be inflated into an independent metaphysical
-thesis beyond the passage. Its immediate function is exact: it prevents
-classification by title alone.
+| skandha | Base | gathered classification; here, the established five |
+| āyatana | Essence Base | capacity-and-field determination; here, the established twelve |
+| dhātu | Principle | principial classification; here, the established eighteen |
+| yathāyogam | as appropriate | according to the relation that applies in each case |
+| pratipādya | to be established; assigned | brought into the relevant established system |
+| yathokta | already stated | the systems previously explained |
+| saṃpradhārya | having carefully determined | prior examination required before placement |
+| svalakṣaṇa | own characteristic | the specific character relevant to the item's inclusion |
+| saparivāra | together with its attendants | the principal content considered with its associated complex |
+| alobha | non-greed | the stated principal nature of eight totality Essence Bases |
+| prajñā | wisdom | the stated nature of the five liberation Essence Bases |
 
 ## 8. Logical Determination
 
-The general procedure is:
+The rule is procedural:
 
 ```text
-Receive(ScripturalDesignation, x)
-    → DetermineReferent(x)
-    → DetermineScope(x, PrincipalFactor | AssociatedComplex)
-    → AscertainSvalaksana(x)
-    → AssignAsAppropriate(x, SkandhaSystem | AyatanaSystem | DhatuSystem)
+Receive(AdditionalScripturalClassification)
+    → Determine(OwnCharacteristic)
+    → Determine(Scope: Principal | PrincipalWithAttendants)
+    → Assign(AsAppropriate, EstablishedBase | EssenceBase | Principle)
 ```
 
-The naming rule is negative:
+The Bhāṣya demonstrates why scope matters:
 
 ```text
-SharesCategoryWord(x, EstablishedClass)
-    ↛ DirectlyIncludedIn(x, EstablishedClass)
+EightTotalityEssenceBases, principal nature = NonGreed
+    → DharmaEssenceBase
+
+EightTotalityEssenceBases, with attendants = FiveBaseComplex
+    → MindEssenceBase + DharmaEssenceBase
 ```
 
-The positive rule is:
+Further examples follow the same rule:
 
 ```text
-HasSvalaksana(x, s)
-∧ HasIntendedScope(x, q)
-    → AppropriateInclusion(x, s, q)
+EightMasteryEssenceBases
+    → treated by analogy with the totality Essence Bases
+
+SpaceAndInfiniteCognitionTotalities and four formless attainments
+    → four-Base nature
+    → MindEssenceBase + DharmaEssenceBase
+
+FiveLiberationEssenceBases, principal nature = Wisdom
+    → DharmaEssenceBase
+
+FiveLiberationEssenceBases, with attendants
+    → SoundEssenceBase + MindEssenceBase + DharmaEssenceBase
+
+NonPercipientBeings
+    → ten Essence Bases, excluding smell and taste
+
+Beings in Neither-Perception-nor-Non-Perception
+    → MindEssenceBase + DharmaEssenceBase
+
+Sixty-two Principles of the Bahudhātuka discourse
+    → inclusion determined as appropriate
 ```
 
-The Bhāṣya's examples show the operation:
-
-```text
-DisciplineAggregate
-    → IncludedIn(RupaSkandha)
-
-Concentration | Wisdom | Liberation | KnowledgeAndVision
-    → IncludedIn(SamskaraSkandha)
-
-EightTotalitySpheres considered as principal factor
-    → HasSvalaksana(NonGreed)
-    → IncludedIn(DharmaAyatana)
-
-EightTotalitySpheres considered with associates
-    → HasScope(AllFiveSkandhas)
-    → IncludedThrough(ManoAyatana, DharmaAyatana)
-```
-
-The established systems claim exhaustive inclusion, not uniformity:
-
-```text
-EveryAdditionalScripturalClassification(x)
-    → HasAppropriatePlacementWithinApplicableEstablishedArrangement(x)
-
-Exhaustive(x)
-    ↛ Undifferentiated(x)
-```
+The final sixty-two-Principle reference states the application but does not
+enumerate every placement in this passage.
 
 ## 9. Interpretive Note
 
-VAK 1.27 states a general assignment rule within the chapter's system setup.
-VAK 1.25 rejected classification by the accidental recurrence of the word
-`skandha`. VAK 1.26 required a principle for counting one teaching-division.
-Now 1.27 states the general rule: determine what the received expression
-actually presents, ascertain its intrinsic characteristic, and only then
-place it.
+VAK 1.25 places the Dharma-collections within the five Bases under two
+reported analyses of Buddha-word. VAK 1.26 distinguishes ways to count a
+Dharma-collection. VAK 1.27 generalizes the inclusion problem: additional
+scriptural classifications are to be determined by their own
+characteristics and placed as appropriate among the established systems.
 
-This helps explain the distinctive difficulty of the Kośa. A sūtra-level
-presentation may give a teaching configuration in a compact, purposive
-form. Vasubandhu receives those configurations, but refuses to leave their
-systematic relations implicit. The Kośa repeatedly asks:
+The Bhāṣya's examples make the rule substantive. Eight totality Essence
+Bases, considered by their principal nature of non-greed, are included in
+the Dharma Essence Base. Considered with their attendants, they have a
+five-Base scope and are included through the Mind and Dharma Essence
+Bases. The change is not an inconsistency in classification; the scope has
+changed from principal nature to associated whole.
 
-```text
-What does this inherited name denote?
-What is the principal factor?
-Are its associates included?
-What is its intrinsic characteristic?
-Under which established analysis does it therefore fall?
-```
+This verse states a method of assignment, but does not yet explain why the
+chapter will focus on the eighteen Principles. Its closing reference to the
+sixty-two Principles of the *Bahudhātuka* directs the reader to apply the rule
+there without providing the full mapping here. That question remains open
+for the next movement of the chapter.
 
-The principal-factor/associated-complex distinction is crucial. The same
-scriptural expression can be correctly placed in different ways without
-contradiction when its scope changes:
-
-```text
-principal factor alone
-    ≠
-principal factor together with its complete field
-```
-
-Thus `yathāyogam` is neither rigidity nor arbitrariness. The classifier is
-sensitive to context because it is answerable to determination. This is the
-Core Discriminator in operation: classification follows the known mark and
-scope of the Dharma.
+The phrase *dharma-skandha* remains a special teaching-collection in the
+conventional discussion; it is not an added Base. The project's Essence
+Base remains a distinct structural term in the nested Knowledge Base /
+Essence Base / Form Base architecture.
 
 ## 10. OWL++ Seed
 
@@ -218,32 +208,24 @@ scope of the Dharma.
 vak:VAK_1_27
     a vak:Karika ;
     rdfs:label "VAK 1.27" ;
-    vak:hasTopic vak:ClassificationByIntrinsicCharacteristic ;
+    vak:hasTopic vak:AssignmentByOwnCharacteristic ;
     vak:belongsTo vak:Dhatunirdesa .
 
-vak:ScripturalDesignation
-    a vak:ReceivedTeachingExpression ;
-    vak:requiresDeterminationOf vak:Referent,
-        vak:IntendedScope,
-        vak:IntrinsicCharacteristic .
+vak:ScripturalClassification
+    a vak:AdditionalDesignation ;
+    vak:requiresDetermination vak:OwnCharacteristic ,
+        vak:IntendedScope ;
+    vak:assignedWithin vak:Base , vak:EssenceBase , vak:Principle .
 
-vak:PrincipalFactor
+vak:PrincipalNature
     a vak:ClassificationScope ;
-    vak:distinctFrom vak:AssociatedComplex .
+    vak:distinctFrom vak:PrincipalWithAttendants .
 
-vak:AssociatedComplex
+vak:PrincipalWithAttendants
     a vak:ClassificationScope ;
-    vak:includes vak:PrincipalFactor,
-        vak:AssociatedDharmas .
+    vak:includes vak:PrincipalNature , vak:AssociatedDharmas .
 
 vak:AppropriateAssignment
     a vak:ClassificationOperation ;
-    vak:governedBy vak:IntrinsicCharacteristic,
-        vak:IntendedScope ;
-    vak:assignsWithin vak:FiveSkandhas,
-        vak:TwelveAyatanas,
-        vak:EighteenDhatus .
-
-vak:ClassificationByNameAlone
-    a vak:InvalidClassificationProcedure .
+    vak:governedBy vak:OwnCharacteristic , vak:IntendedScope .
 ```

@@ -1,4 +1,6 @@
-# VAK_1.24
+# The Principles
+
+## VAK_1.24 — The Names Form and Essence in the Essential Relation Design
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -12,218 +14,198 @@
 >
 > ekam āyatanaṃ rūpam ekaṃ dharmākhyam ucyate // 1.24 //
 
-## 3. Lexical Analysis
+## 3. Padaccheda and Lexical Analysis
+
+**Padaccheda**
 
 ```text
-viśeṣaṇārtham             → viśeṣaṇa-artham
-prādhānyāt                → prādhānyāt
-bahudharmāgrasaṃgrahāt    → bahu-dharma-agra-saṃgrahāt
-ekam āyatanam             → ekam āyatanam
-dharmākhyam               → dharma-ākhyam
+viśeṣaṇa-artham | prādhānyāt | bahu-dharma-agra-saṃgrahāt |
+ekam | āyatanam | rūpam | ekam | dharma-ākhyam | ucyate
 ```
 
-| Form | Morphology | Lexical force here |
-|---|---|---|
-| viśeṣaṇa-artham | accusative neuter singular used adverbially | for the sake of specification or differentiation |
-| prādhānyāt | ablative neuter singular | because of predominance or prominence |
-| bahu-dharma | compound member | many heterogeneous dharmas |
-| agra | compound member | foremost; the Bhāṣya identifies this as nirvāṇa |
-| saṃgrahāt | ablative masculine singular | because of gathering or inclusion |
-| ekam | nominative neuter singular | one; agrees with `āyatanam` |
-| āyatanam | nominative neuter singular | sphere, relational access-field |
-| rūpam | nominative neuter singular | visible form, the rūpa-āyatana |
-| dharma-ākhyam | nominative neuter singular | bearing the name “dharma” |
-| ucyate | third-person singular present passive | is called |
+**Compound and sandhi**
 
-The Bhāṣya parses the dense compound as two linked inclusions:
+| Verse form | Analysis |
+|---|---|
+| viśeṣaṇārtham | viśeṣaṇa + artham |
+| prādhānyād bahu- | prādhānyāt + bahu-; external sandhi voices `t` before `b` |
+| bahudharmāgrasaṃgrahāt | bahu-dharma-agra-saṃgrahāt |
+| dharmākhyam | dharma-ākhyam |
+
+The Bhāṣya opens the last compound into two gathered contents:
 
 ```text
 bahūnāṃ dharmāṇāṃ saṃgrahaḥ
-    gathering of many dharmas
+    the gathering of many essences
 
 agrasya nirvāṇa-dharmasya saṃgrahaḥ
-    gathering of the foremost Dharma, nirvāṇa
+    the gathering of the highest Essence, nirvāṇa
 ```
 
-It does not describe all the included dharmas as “foremost.”
+“Many” and “highest” are separate determinations: the verse does not call
+all the gathered essences highest.
+
+| Form | Morphology | Force in the design |
+|---|---|---|
+| viśeṣaṇārtham | accusative neuter singular used adverbially | for the sake of distinction |
+| prādhānyāt | ablative singular | because of primacy or prominence |
+| bahu-dharma-agra-saṃgrahāt | ablative singular compound | because many essences and the highest Essence are gathered |
+| ekam āyatanam | nominative neuter singular | one Essential Relation |
+| rūpam | nominative neuter singular | Form; the Essential Relation of Form |
+| ekam dharmākhyam | nominative neuter singular | one [Essential Relation] named Essence |
+| ucyate | third-person singular present passive | is called |
+
+Project terms used here: `skandha` is **Base**, `āyatana` is **Essential
+Relation**, `rūpa` is **Form**, and `dharma` is **Essence**.
 
 ## 4. Grammar
 
-The verse answers two parallel naming problems:
+The verse sets up two naming questions:
 
 ```text
-ten āyatanas belong to rūpa-skandha
-    but only one is named rūpa-āyatana
+ten Essential Relations belong to the Form Base
+    but one is named Form
 
-all entities have dharma-nature
-    but only one is named dharma-āyatana
+all things have Essence-nature
+    but one Essential Relation is named Essence
 ```
 
-`Viśeṣaṇa-artham` supplies the shared purpose. The special names ensure that
-each of the ten material āyatanas is understood individually through the
-relation of object and object-possessor (`viṣaya-viṣayin`), rather than all
-ten being mistaken for one collective material sphere.
+`Viśeṣaṇārtham` gives the shared design purpose: each position must remain
+distinct within the Essential Relation arrangement. The Bhāṣya says the
+ten are to be understood individually, each arranged as object or capacity
+(`viṣaya-viṣayin`), not collapsed into one collective position.
 
-The other nine material bases have their specific faculty or object names:
-eye, ear, nose, tongue, body, sound, odor, taste, and tangible form. The
-remaining visible-form base therefore keeps the unqualified name `rūpa`.
+The Bhāṣya assigns primacy (`prādhānya`) to the Essential Relation of Form.
+The other nine material Essential Relations already have specific names:
+eye, ear, nose, tongue, body, sound, smell, taste, and tangible Form. The
+remaining visible Essential Relation is therefore named Form. It is also
+primary in ordinary experience: it resists contact, can be seen and pointed
+out as “this, here, there,” and is commonly called Form.
 
-`Prādhānyāt` supplies a second reason for that name. Visible form is
-predominant because it is resistant (`sapratigha`), visible and spatially
-indicable (`sanidarśana`), and commonly recognized as rūpa in ordinary
-language.
+The Essential Relation of Essence is named for what it gathers: many
+essences and nirvāṇa, the highest Essence. The Bhāṣya distributes the
+reasons precisely: distinction applies to both names; primacy explains
+Form; gathering explains Essence.
 
-The last causal compound applies especially to dharma-āyatana:
-
-```text
-because it includes many dharmas
-    +
-because it alone among the āyatanas includes nirvāṇa,
-the foremost Dharma
-```
-
-The singular `ucyate` governs the compact paired construction: one sphere is
-called rūpa, and one is called by the name dharma.
+The single `ucyate` carries both designations: one Essential Relation is
+called Form, and one is called Essence.
 
 ## 5. Translation
 
-### Close syntactic construe
+### Literal Translation
 
-> For the sake of specification, because of predominance, and because of gathering many dharmas together with the foremost Dharma, one sphere is called rūpa and one is called by the name dharma.
+> For distinction, because of primacy, and because it gathers many essences
+> and the highest Essence, one Essential Relation is called Form and one
+> is called Essence.
 
-### Bhāṣya-informed translation
+### Bhāṣya-informed study translation
 
-> One material sphere receives the unqualified name rūpa in order to distinguish the ten material spheres individually and because visible form is phenomenally predominant. One sphere receives the general name dharma because it gathers many heterogeneous dharmas and uniquely includes the foremost Dharma, nirvāṇa.
+> Within the Form Base, all ten Essential Relations keep their distinct
+> positions. Nine bear specific names; the remaining visible relation is
+> called Form, both to distinguish it and because Form is primary in
+> ordinary perception: it resists contact, is visible, and can be pointed
+> out as “this, here, there.” Another Essential Relation is called Essence
+> because it gathers many essences and includes nirvāṇa, the highest
+> Essence.
 
-The close translation preserves the compressed distribution of reasons. The
-second makes explicit which reasons the Bhāṣya assigns to each technical
-name.
+The first rendering keeps the verse's compressed structure. The second
+makes the allocation of its reasons visible.
 
 ## 6. Philosophical Translation
 
-> A single name may mark unity for different reasons. Visible form names one sphere through phenomenal prominence: it is resistant, demonstrable, and ordinarily recognized. Dharma names one sphere through principial inclusion: it gathers heterogeneous mental, subtle-material, and unconditioned determinations, including nirvāṇa.
+The Base and Essential Relation are different parts of the design. The
+Form Base gathers ten material Essential Relations; it is not itself the
+Essential Relation of Form. Each relation has its own position. Form names
+the visible relation because it is primary and outwardly evident. Essence
+names a different relation because that relation gathers a broad range of
+essences, including nirvāṇa.
 
-Organon rendering:
+**Organon reading**
 
-> The Triadic system distinguishes a field named by dominant appearance from a field named by comprehensive scope. Rūpa is prominent because it stands outwardly before cognition; Dharma is comprehensive because it includes determinations that cannot be reduced to outward presentation.
+> The Base is the gathered whole; the Essential Relation articulates the
+> object's field and the capacity that takes it. The Essential Relation of
+> Form is determined by what stands visibly before cognition. The Essential
+> Relation of Essence is determined by the range it gathers. Their unity is
+> not sameness: Form is distinguished by primacy, while Essence is
+> distinguished by scope.
 
-Technical naming therefore does not merely attach labels to preclassified
-things. It displays the reason a domain is singled out within the completed
-system.
+This is a reading of the design, not additional wording in the kārikā. The
+Essential Relation is a relational determination, not the completed
+Concept or whole machine. Verse 1.24 specifies two names within this layer.
 
 ## 7. Technical Vocabulary
 
 | Sanskrit | Project rendering | Determination |
 |---|---|---|
-| viśeṣaṇa | specification / differentiation | reason one member receives a technically distinctive name |
-| viṣaya | object-domain | object-side of an individually established āyatana |
-| viṣayin | object-possessor / faculty-side | pole correlated with an object-domain |
-| prādhānya | predominance | phenomenal prominence of visible form |
-| rūpa-āyatana | visible-form sphere | residual material object-field after the faculties are separately named |
-| sapratigha | resistant / obstructive | subject to impact or material interference |
-| sanidarśana | visible / demonstrable | spatially indicable as this, here, or there |
-| dharma-āyatana | Dharma-sphere | general mental object-field containing heterogeneous dharmas |
-| saṃgraha | gathering / inclusion | reason for the comprehensive name dharma |
-| agra-dharma | foremost Dharma | nirvāṇa, included in dharma-āyatana alone |
-| māṃsa-cakṣus | fleshly eye | first of three eyes said to have visible form as range |
-| divya-cakṣus | divine eye | second eye in the alternative explanation |
-| ārya-prajñā-cakṣus | noble wisdom-eye | third eye in the alternative explanation |
+| skandha | Base | gathered whole; here, the Form Base |
+| āyatana | Essential Relation | relation of capacity and field |
+| rūpa | Form | the visible determination named by the Essential Relation of Form |
+| dharma | Essence | the designation of the Essential Relation that gathers many essences |
+| viśeṣaṇa | distinction | preserving each relation's individual position |
+| viṣaya | object | object-side of the Essential Relation |
+| viṣayin | capacity / that which has an object | correlated capacity-side |
+| prādhānya | primacy; prominence | the reason associated with Form |
+| rūpāyatana | Essential Relation of Form | the visible material relation |
+| sapratigha | resistant; subject to contact | one aspect of Form's primacy in the Bhāṣya |
+| sanidarśana | visible; indicable | can be shown as “this, here, there” |
+| dharmāyatana | Essential Relation of Essence | gathers many essences and nirvāṇa |
+| saṃgraha | gathering | the reason associated with Essence |
+| agra-dharma | highest Essence | nirvāṇa in the Bhāṣya's explanation |
 
 ## 8. Logical Determination
 
-The problem distinguishes class-membership from privileged naming:
+The design distinguishes the Base from its Essential Relations, and shared
+membership from a specific name:
 
 ```text
-MemberOf(x, RupaSkandha)
-    ↛ Named(x, RupaAyatana)
+MemberOf(x, FormBase)
+    ↛ Named(x, Form)
 
-HasDharmaNature(x)
-    ↛ Named(x, DharmaAyatana)
+HasEssenceNature(x)
+    ↛ Named(x, Essence)
 ```
 
-Each material āyatana is individually relational:
+The two names are determined differently:
 
 ```text
-Ayatana(a)
-    → EstablishedAs(a, FacultyPole | ObjectPole)
-    → DistinctRelationalField(a)
+EssentialRelationOfForm
+    → one distinct position within the Form Base
+    → named through the primacy of visible Form
+
+EssentialRelationOfEssence
+    → one distinct position in the arrangement
+    → gathers many essences
+    → includes Nirvana, the highest Essence
 ```
 
-The naming rule for rūpa is:
+The Bhāṣya also reports an alternative explanation from others:
 
 ```text
-RemainingMaterialObjectField(x)
-∧ Resistant(x)
-∧ VisibleAndIndicable(x)
-∧ PredominantlyCalledRupa(x)
-    → Named(x, RupaAyatana)
+EssentialRelationOfForm
+    → gross through its twentyfold variety
+    → field of the fleshly, divine, and noble wisdom-eyes
 ```
 
-The naming rule for Dharma is:
-
-```text
-Includes(x, ManyHeterogeneousDharmas)
-∧ Includes(x, Nirvana)
-    → Named(x, DharmaAyatana)
-```
-
-The two unities have different grounds:
-
-```text
-RupaAyatanaUnity
-    → PhenomenalPredominance
-
-DharmaAyatanaUnity
-    → ComprehensiveInclusion
-```
-
-The alternative teachers appeal to grossness through twentyfold variety and
-to visible form's being the object-range of the fleshly, divine, and noble
-wisdom eyes. This remains a reported alternative, not Vasubandhu's unmarked
-conclusion.
+This remains an attributed alternative, not part of the preceding account.
 
 ## 9. Interpretive Note
 
-VAK 1.24 continues the chapter's system setup with a problem of
-technical naming. If the ten material spheres all belong to rūpa, why does
-only visible form bear the class-name? If everything classified is a dharma,
-why does only one sphere bear that universal name? The answer shows that
-naming follows systematic function rather than extension alone.
+VAK 1.23 orders faculties and their corresponding Essential Relations and
+Cognitions. VAK 1.24 then asks how the design names its positions. The answer
+prevents two machine-design errors: treating the Form Base as if it were
+one Essential Relation of Form, and treating the Essential Relation of
+Essence as if it were simply every thing with Essence-nature.
 
-This guards against two common flattenings:
+The Essential Relation of Form is singled out by position and primacy. The
+Essential Relation of Essence is singled out by the range it gathers,
+including nirvāṇa. These are different design principles: one identifies
+a prominent member; the other identifies a comprehensive field. The
+Essential Relation of Essence is not an accidental remainder after the
+material relations have been named.
 
-```text
-rūpa
-    ≠ every material factor under one undifferentiated label
-
-dharma-āyatana
-    ≠ an accidental remainder after the five sensory objects
-```
-
-Visible form receives its name through outward prominence. Dharma-āyatana
-receives its name because its content crosses ordinary ontological divisions:
-feeling, recognition, formations, avijñapti, space, and the two cessations.
-Its unity cannot be sensible likeness. It is unity through principial
-inclusion.
-
-The inclusion of nirvāṇa is decisive. The Dharma-sphere does not merely
-collect whatever the sensory system failed to classify. It alone among the
-āyatanas includes the foremost Dharma. Its apparent residuality therefore
-conceals a positive reason for its particular technical name.
-
-For the Organon, this contrast makes the inward movement visible:
-
-```text
-rūpa-āyatana
-    = domain named from what appears predominantly
-
-dharma-āyatana
-    = domain named from what it can comprehend
-```
-
-Dharmāyatana remains one sphere within the twelvefold arrangement. Its unity
-shows how heterogeneous contents can share a technical position without
-being modeled as a heap of outward elements.
+This is a local specification of the machine's Essential Relation layer,
+not its complete architecture. It tests whether the design can preserve
+individual positions while also gathering a manifold under one name.
 
 ## 10. OWL++ Seed
 
@@ -234,23 +216,25 @@ being modeled as a heap of outward elements.
 vak:VAK_1_24
     a vak:Karika ;
     rdfs:label "VAK 1.24" ;
-    vak:hasTopic vak:TechnicalNamingOfRupaAndDharmaAyatanas ;
+    vak:hasTopic vak:FormAndEssenceEssentialRelationDesign ;
     vak:belongsTo vak:Dhatunirdesa .
 
-vak:RupaAyatana
-    a vak:MaterialObjectSphere ;
-    vak:namedBy vak:Specification , vak:PhenomenalPredominance ;
+vak:EssentialRelationOfForm
+    a vak:EssentialRelation ;
+    vak:memberOf vak:FormBase ;
+    vak:namedThrough vak:Distinction , vak:Primacy ;
     vak:hasCharacteristic vak:Resistance , vak:Visibility .
 
-vak:DharmaAyatana
-    a vak:ComprehensiveMentalObjectSphere ;
-    vak:namedBy vak:InclusiveScope ;
-    vak:includes vak:ManyHeterogeneousDharmas , vak:Nirvana .
+vak:EssentialRelationOfEssence
+    a vak:EssentialRelation ;
+    vak:namedThrough vak:Distinction , vak:InclusiveGathering ;
+    vak:gathers vak:ManyEssences , vak:Nirvana .
 
 vak:Nirvana
-    a vak:ForemostDharma ;
-    vak:includedIn vak:DharmaAyatana .
+    a vak:HighestEssence ;
+    vak:gatheredIn vak:EssentialRelationOfEssence .
 
-vak:ClassMembership
-    vak:distinctFrom vak:PrivilegedTechnicalNaming .
+vak:EssentialRelation
+    vak:hasRelation vak:Capacity , vak:Field ;
+    vak:distinctFrom vak:Base .
 ```

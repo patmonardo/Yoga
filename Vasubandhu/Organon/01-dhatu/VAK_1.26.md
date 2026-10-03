@@ -1,4 +1,6 @@
-# VAK_1.26
+# The Principles
+
+## VAK_1.26 — What Makes One Dharma-Collection
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -12,178 +14,175 @@
 >
 > caritapratipakṣas tu dharmaskandho 'nuvarṇitaḥ // 1.26 //
 
-## 3. Lexical Analysis
+## 3. Padaccheda and Lexical Analysis
+
+**Padaccheda**
 
 ```text
-śāstrapramāṇaḥ       → śāstra-pramāṇaḥ
-ity eke               → iti eke
-skandhādīnām          → skandha-ādīnām
-kathaikaśaḥ           → kathā ekaśaḥ
-caritapratipakṣaḥ     → carita-pratipakṣaḥ
-dharmaskandhaḥ        → dharma-skandhaḥ
+śāstra-pramāṇaḥ | iti | eke | skandha-ādīnām | kathā | ekaśaḥ |
+carita-pratipakṣaḥ | tu | dharma-skandhaḥ | anuvarṇitaḥ
 ```
 
-| Form | Morphology | Lexical force here |
+The first pāda is elliptical. The Bhāṣya supplies *dharmaskandha* as the
+thing being measured and explains the treatise-measure as the extent of the
+Abhidharma work titled *Dharmaskandha*.
+
+| Form | Morphology | Force here |
 |---|---|---|
-| śāstra-pramāṇaḥ | nominative masculine singular compound | having a treatise as its measure; said of one Dharma-collection |
-| iti | quotative particle | thus; marks a reported position |
-| eke | nominative masculine plural | some teachers |
-| skandha-ādīnām | genitive plural compound | of the aggregates and the other doctrinal topics |
-| kathā | nominative feminine singular | exposition, coherent doctrinal treatment |
-| ekaśaḥ | distributive adverb | one by one, separately for each |
-| carita-pratipakṣaḥ | nominative masculine singular compound | an antidote corresponding to a disposition |
-| tu | contrastive particle | but; distinguishes the third account |
-| dharma-skandhaḥ | nominative masculine singular | Dharma-collection, division of teaching |
-| anuvarṇitaḥ | nominative masculine singular past passive participle of `anu-√varṇ` | described, traditionally explained |
+| śāstra-pramāṇaḥ | nominative masculine singular compound; understood of *dharmaskandhaḥ* | measured by a treatise, or having a treatise as its measure |
+| iti | quotative particle | introduces the reported account |
+| eke | nominative masculine plural | some [teachers] |
+| skandha-ādīnām | genitive plural compound | of the Bases and the other classifications |
+| kathā | nominative feminine singular | exposition or doctrinal treatment |
+| ekaśaḥ | distributive adverb | separately for each |
+| carita-pratipakṣaḥ | nominative masculine singular compound | a counteragent corresponding to a disposition |
+| tu | contrastive particle | but; introduces the final account |
+| dharma-skandhaḥ | nominative masculine singular | Dharma-collection, a unit or body of teaching |
+| anuvarṇitaḥ | nominative masculine singular past passive participle of `anu-√varṇ` | has been described or traditionally explained |
 
-`Kathā`, not interrogative `katham`, is required here. The Bhāṣya supplies
-the omitted attribution `apare punar āhuḥ`: “others, however, say.” The
-verse compresses three reported criteria for individuating a
-`dharmaskandha`.
+The research kārikā has the variant `śāstrapramāṇā ity eke`, with a long
+final vowel. The running verse and research Bhāṣya read singular
+`śāstrapramāṇa ity eke`; the official text retains that reading.
 
-The research kārikā has plural `śāstrapramāṇā`, while the running verse
-and research Bhāṣya have singular `śāstrapramāṇa` before `iti`. The official
-IAST and Devanāgarī follow that singular reading; the research variant is
-retained in its original file.
+In *skandhādīnām kathā*, the Bhāṣya supplies further classifications:
+Essence Bases, Principles, dependent arising, truths, meditations, and
+the remaining items in its list. Here *dharma-skandha* means a teaching
+collection, not another member of the five Bases.
 
 ## 4. Grammar
 
-The first two accounts are elliptical:
+The verse compresses three measures:
 
 ```text
 śāstra-pramāṇaḥ [dharmaskandhaḥ] iti eke
-    some say: a Dharma-collection has a treatise as its measure
+    some say: a Dharma-collection is measured by a treatise
 
-skandhādīnāṃ kathā ekaśaḥ [dharmaskandha iti apare]
-    others say: each separate exposition of aggregates and the other topics
-    is one Dharma-collection
+skandhādīnāṃ kathā ekaśaḥ
+    [others count] an exposition of each of the Bases and the rest
+
+carita-pratipakṣas tu dharmaskandho 'nuvarṇitaḥ
+    but a Dharma-collection is described as a counteragent to a disposition
 ```
 
-The Bhāṣya identifies the first measure with the extent of the Abhidharma
-treatise named *Dharmaskandha*, reckoned there as six thousand textual
-units. In the second account, `ekaśaḥ` distributes one teaching-unit to each
-coherent exposition: aggregates, spheres, domains, dependent origination,
-truths, meditations, awakening factors, and so forth.
+The second account has an understood predicate: the Bhāṣya supplies “others
+say” and takes each distinct exposition as one collection. The third clause
+is complete. `Tu` contrasts it with the preceding accounts, but the verse
+does not say that the first two are false.
 
-The final clause is grammatically complete:
-
-```text
-carita-pratipakṣaḥ tu
-    but an antidote corresponding to a disposition
-
-dharmaskandhaḥ anuvarṇitaḥ
-    is described as a Dharma-collection
-```
-
-The singular compounds agree with `dharmaskandhaḥ`. `Carita` here is a
-habitual disposition or dominant character-pattern, not merely an isolated
-act of conduct. `Pratipakṣa` is the teaching that opposes and remedies that
-pattern. The contrastive `tu` gives the therapeutic account special
-prominence, but the Bhāṣya reports all three explanations and does not stage
-an explicit polemical refutation of the first two.
+`Carita` here is a disposition or habitual character-pattern, not simply
+one isolated action. `Pratipakṣa` expresses an opposing or counteracting
+relation. The commentary explains this through differing dispositions and
+their corresponding Dharma-collections.
 
 ## 5. Translation
 
-### Close syntactic construe
+### Literal Translation
 
-> Some say that [the Dharma-collections] have a treatise as their measure; [others count] separately each exposition of the aggregates and the other topics. But a Dharma-collection is also described as an antidote corresponding to a disposition.
+> Some say [a Dharma-collection is] measured by a treatise; [others count]
+> an exposition of each of the Bases and the rest. But a Dharma-collection
+> is described as a counteragent to a disposition.
 
-### Bhāṣya-informed translation
+### Bhāṣya-informed study translation
 
-> Some measure a Dharma-collection by the extent of the treatise called *Dharmaskandha*. Others count each coherent exposition of a doctrinal topic—aggregates, spheres, domains, and so forth—as one collection. A further explanation defines one Dharma-collection by its function as the antidote appropriate to one disposition.
+> Some measure a Dharma-collection by the extent of the treatise called
+> *Dharmaskandha*. Others count a separate exposition of each doctrinal
+> topic as one collection. A further account defines a Dharma-collection by
+> its counteracting relation to a disposition.
 
-The second translation makes the three reported positions explicit without
-converting the third into an uncontested authorial definition.
+The commentary specifies six thousand for the treatise's extent and
+explains the eighty-thousand count through the variety of dispositions and
+their counteragents. It does not supply the unstated unit for six thousand
+or enumerate all eighty thousand pairings.
 
 ## 6. Philosophical Translation
 
-> A body of teaching may possess unity in three ways: as a determinate textual extent, as the exposition of a determinate subject, or as a determinate counterforce fitted to a disposition. In the third account, doctrine is not counted merely by how much is said or by what it discusses, but by the transformation it is capable of producing.
+One teaching-collection can be counted in different respects: by the
+extent of a text, by the topic separately expounded, or by the disposition
+the teaching counters. These are not simply three sizes of the same
+container. Each account identifies a different ground for treating a body
+of instruction as one.
 
-Organon rendering:
+**Organon reading**
 
-> The classification now turns upon the principle of individuation itself. A teaching-unit may be bounded by its vehicle, by its object, or by its counteractive function. In the therapeutic determination, Dharma differentiates itself according to the mode of bondage it must negate: a distinct disposition calls forth its corresponding antidote.
+> The measure changes with the determination being considered. The
+> treatise gives a textual boundary; a topic gives an articulated subject;
+> a disposition-counteragent relation gives instruction a practical
+> function. The last makes the teaching intelligible in relation to what it
+> is meant to transform, without erasing the other two reported measures.
+
+This reading develops the verse's contrast. The Bhāṣya reports the accounts
+and explains the traditional number through disposition and counteragent;
+it does not explicitly rank or reconcile the first two with the third.
 
 ## 7. Technical Vocabulary
 
 | Sanskrit | Project rendering | Determination |
 |---|---|---|
-| pramāṇa | measure / criterion of individuation | what makes one Dharma-collection count as one |
-| śāstra-pramāṇa | treatise-measure / textual extent | first reported criterion |
-| kathā | exposition / doctrinal treatment | coherent presentation of a single topic |
-| ekaśaḥ | separately for each | distributive principle in the thematic account |
-| carita | disposition / habitual character-pattern | dominant orientation such as attachment, hatred, delusion, or pride |
-| pratipakṣa | antidote / counteragent | teaching capable of opposing a disposition |
-| carita-pratipakṣa | antidote corresponding to a disposition | therapeutic criterion of a teaching-unit |
-| dharma-skandha | Dharma-collection / teaching-division | scriptural unit whose measure is under discussion |
-| anuvarṇita | traditionally described | signals a received explanation rather than a newly coined definition |
+| śāstra-pramāṇa | treatise-measure | textual extent as a way to count a collection |
+| pramāṇa | measure; criterion | the question is extent or unit, not a means of valid knowledge |
+| skandha | Base | one of the established classifications |
+| skandhādī | Bases and the rest | the Bhāṣya expands the list to Essence Bases, Principles, and other topics |
+| kathā | exposition; doctrinal treatment | a coherent treatment counted separately by topic |
+| ekaśaḥ | separately for each | distributes the exposition account across topics |
+| carita | disposition; habitual pattern | illustrated by attachment, hatred, delusion, pride, and the rest |
+| pratipakṣa | counteragent | an opposing or counteracting relation |
+| carita-pratipakṣa | disposition-counteragent | the practical account of a Dharma-collection |
+| dharma-skandha | Dharma-collection | special body or unit of teaching; not an additional Base |
+| anuvarṇita | described; traditionally explained | marks the received account in the verse |
 
 ## 8. Logical Determination
 
-The question is not yet where the eighty thousand collections belong, but
-what constitutes one countable collection:
+The verse asks what makes one Dharma-collection count as one:
 
 ```text
-WhatIsTheMeasure(DharmaCollection)?
+Measure(DharmaCollection) = ?
 ```
 
-Three individuation rules are reported:
+It gives three reported criteria:
 
 ```text
 TextualMeasure:
-    HasExtentOf(x, DharmaskandhaTreatise)
-        → CountAs(x, OneDharmaCollection)
+    MeasuredBy(DharmaCollection, TreatiseExtent)
 
 ThematicMeasure:
-    CoherentExpositionOf(x, OneDoctrinalTopic)
-        → CountAs(x, OneDharmaCollection)
+    SeparateExpositionOf(Topic)
+        → CountAs(OneDharmaCollection)
 
-TherapeuticMeasure:
-    Counteracts(x, OneDispositionType)
-        → CountAs(x, OneDharmaCollection)
+PracticalMeasure:
+    Counteracts(DharmaCollection, Disposition)
 ```
 
-The Bhāṣya explains the traditional number through the third rule:
+The Bhāṣya's traditional numerical explanation is:
 
 ```text
 80,000 differentiated dispositions
-    → corresponding counteracting teachings
-    → stated as 80,000 Dharma-collections
+    ↔ 80,000 corresponding counteracting Dharma-collections
 ```
 
-This is functional differentiation, not the addition of eighty thousand
-new ontological aggregates.
+The correspondence explains the count; the passage does not enumerate
+every disposition or provide a complete pairing table.
 
 ## 9. Interpretive Note
 
-VAK 1.25 showed that the inherited name `dharmaskandha` does not create a
-new aggregate outside the canonical five. VAK 1.26 now exposes a second
-problem: even after identifying these as divisions of teaching, by what
-principle are the divisions themselves counted?
+VAK 1.25 asks whether the eighty thousand Dharma-collections are speech or
+name and places them, under those alternatives, in the Form Base or
+Formations Base. VAK 1.26 asks a different question: what is the measure
+of one such collection? The answers distinguish textual extent, separate
+doctrinal exposition, and counteracting function.
 
-The three answers disclose three different kinds of unity:
+The third account is especially important because it makes the collection
+more than a textual quantity or a topic heading: it is instruction
+corresponding to a disposition. Yet `tu` and the Bhāṣya's explanation do
+not authorize collapsing the earlier accounts or declaring them refuted.
+The measure question is answered by preserving the difference among
+criteria.
 
-```text
-textual unity       → one bounded extent
-systematic unity    → one coherent topic
-therapeutic unity   → one disposition and its counteragent
-```
-
-The third is especially revealing for the Organon study. Classification is
-not exhausted by placing inert contents into containers. The teaching is
-articulated in relation to the structure of the mind it addresses. A
-disposition supplies the determinate problem; its `pratipakṣa` supplies the
-determinate Dharma-response.
-
-This does not make truth relative to the learner. It distinguishes the
-truth of a teaching from the principle by which a body of teaching is
-divided into effective units. Under the third account, a Dharma-collection
-is one by its counteractive office within a field of dispositions.
-
-The verse continues the chapter's system setup by asking what makes an
-inherited count intelligible. The system must state
-the ground upon which each unit is one. VAK 1.27 can then return all such
-teaching-divisions to the five Aggregates by determining their actual
-intrinsic nature.
+The phrase *dharma-skandha* remains a special name for a teaching
+collection in this conventional discussion, not an added Base. The
+project's **Essence Base** is a distinct architectural term in the nested
+Knowledge Base / Essence Base / Form Base design. This verse does not yet
+explain that architecture or the later focus on the eighteen Principles; it
+specifies three ways of counting a Dharma-collection.
 
 ## 10. OWL++ Seed
 
@@ -194,31 +193,17 @@ intrinsic nature.
 vak:VAK_1_26
     a vak:Karika ;
     rdfs:label "VAK 1.26" ;
-    vak:hasTopic vak:MeasureOfDharmaCollection ;
+    vak:hasTopic vak:MeasuresOfADharmaCollection ;
     vak:belongsTo vak:Dhatunirdesa .
-
-vak:TextualMeasure
-    a vak:IndividuationCriterion ;
-    vak:individuatesBy vak:TextualExtent .
-
-vak:ThematicMeasure
-    a vak:IndividuationCriterion ;
-    vak:individuatesBy vak:CoherentDoctrinalTopic .
-
-vak:TherapeuticMeasure
-    a vak:IndividuationCriterion ;
-    vak:individuatesBy vak:CounteractiveFunction .
-
-vak:Disposition
-    a vak:HabitualCharacterPattern .
-
-vak:Antidote
-    a vak:DharmaTeachingFunction ;
-    vak:counteracts vak:Disposition .
 
 vak:DharmaCollection
     a vak:ScripturalTeachingDivision ;
-    vak:mayBeIndividuatedBy vak:TextualMeasure,
-        vak:ThematicMeasure,
-        vak:TherapeuticMeasure .
+    vak:distinctFrom vak:AdditionalBase ;
+    vak:hasReportedMeasure vak:TreatiseExtent ,
+        vak:SeparateTopicalExposition ,
+        vak:DispositionCounteragent .
+
+vak:DispositionCounteragent
+    vak:correspondsTo vak:Disposition ;
+    vak:explainsCount vak:EightyThousand .
 ```

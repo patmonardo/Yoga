@@ -1,4 +1,6 @@
-# VAK_1.24 Bhāṣya — Why One Base Is Called Rūpa and One Dharma
+# The Principles
+
+## VAK_1.24 Bhāṣya — Why One Essential Relation Is Named Form and One Essence
 
 ## 1. Kārikā Anchor
 
@@ -6,13 +8,18 @@
 >
 > ekam āyatanaṃ rūpam ekaṃ dharmākhyam ucyate // 1.24 //
 
-> For differentiation, because of prominence, and because of the inclusion
-> of many dharmas and the foremost dharma, one āyatana is called rūpa
-> and one is named dharma.
+> For distinction, because of primacy, and because many essences and the
+> highest Essence are gathered, one Essential Relation is named Form and
+> one is named Essence.
 
-The Bhāṣya distributes these reasons between the two names. Differentiation
-applies to both; prominence explains rūpāyatana; the inclusion of many
-dharmas and of nirvāṇa explains dharmāyatana.
+The Bhāṣya distributes the reasons between the two names. Distinction
+applies to both; primacy explains the Essential Relation of Form; the
+gathering of many essences and nirvāṇa explains the Essential Relation
+of Essence.
+
+Here **Base** renders *skandha*, **Essential Relation** renders *āyatana*,
+**Form** renders *rūpa*, and **Essence** renders *dharma*. These are the
+project's working English design terms.
 
 ## 2. Continuous Sanskrit
 
@@ -36,7 +43,8 @@ dharmas and of nirvāṇa explains dharmāyatana.
 
 The unit runs from the two naming questions at printed location 016.14
 through the alternative explanation at 017.02–03. The following question
-about other scriptural skandha, āyatana, and dhātu designations opens 1.25.
+about other scriptural Base, Essential Relation, and Domain designations
+opens 1.25.
 
 Word division and punctuation are editorial. The running source's
 `dharmasvabhaveṣu` and `rūpakayātanam` are read as
@@ -48,183 +56,172 @@ reconstruction.
 
 ## 3. Continuous Conventional Translation
 
-> Why, among the ten āyatanas included in the rūpa aggregate, is only one
-> called rūpāyatana? And why, although all have the nature of dharmas, is
-> only one called dharmāyatana? It is said: for differentiation, because
-> of prominence, and because of the inclusion of many dharmas and the
-> foremost dharma, one āyatana is called rūpa and one is named dharma.
+> Why, among the ten Essential Relations included in the Form Base, is one
+> called the Essential Relation of Form? And why, although all things have
+> Essence-nature, is one called the Essential Relation of Essence? The
+> answer is: to distinguish them; because Form is primary; and because the
+> Essential Relation of Essence gathers many essences and the highest
+> Essence. One Essential Relation is named Form, and one is named Essence.
 >
-> How is this for differentiation? So that each of these ten is understood
-> individually as an āyatana, established as object or possessor of an
-> object, rather than all of them collectively. Once the others have been
-> distinguished by eye and the other names, what is material form and is
-> not designated by those names will be understood as rūpāyatana. Therefore
-> no further different name is given to it.
+> How does this distinguish them? So that each of these ten is understood
+> individually as an Essential Relation, arranged as object or capacity,
+> rather than as one collective whole. Once the others have been
+> distinguished by names such as eye, what is Form but is not called eye
+> or by the other specific names is recognized as the Essential Relation
+> of Form. No further name is needed for it.
 >
-> Alternatively, it is because of rūpāyatana's prominence. Because it is
-> resistant, it is affected when touched by the hand and the like. Because
-> it is visible, it can be indicated as “this, here, there.” In the world
-> too, this is recognized as rūpa, not the others.
+> Alternatively, the Essential Relation of Form is named for its primacy.
+> It is resistant: contact with a hand and the like affects it. It is
+> visible, and can be indicated as “this, here, there.” In ordinary usage
+> too, this is recognized as Form, unlike the others.
 >
-> Likewise, for differentiation only one is called dharmāyatana, not all.
-> Moreover, many dharmas, beginning with vedanā, are included here. It is
-> therefore designated generally by the word dharma. The foremost dharma,
-> nirvāṇa, is also included here, not in the others.
+> For distinction, one Essential Relation of Essence is named, not all.
+> Many essences, beginning with feeling, are gathered there, so the general
+> name Essence is used. The highest Essence, nirvāṇa, is gathered there
+> too, and not in the others.
 >
-> Others say that one is called rūpāyatana because of its grossness through
-> being twentyfold and because it is the range of three eyes: the fleshly
-> eye, the divine eye, and the noble wisdom-eye.
+> Others say that one Essential Relation is named Form because it is gross
+> through its twentyfold variety and because it is the field of three
+> eyes: the fleshly eye, the divine eye, and the noble wisdom-eye.
 
 ## 4. Movement of the Commentary
 
-The initial questions distinguish the scope of a general word from its
-use in a particular technical name. The answer explains how the names
-operate within the classification:
+The Bhāṣya moves through two design questions and answers them by different
+criteria:
 
-| Name | Reasons developed in the prose |
+| Essential Relation | What the Bhāṣya explains |
 |---|---|
-| rūpāyatana | differentiation from the other named material bases; prominence in being affected, visibility, and ordinary usage |
-| dharmāyatana | differentiation; inclusion of many dharmas; inclusion of nirvāṇa |
-| rūpāyatana, others' account | grossness associated with twentyfold variety; range of three eyes |
+| Form | distinction from the other nine material relations; primacy in contact, visibility, and ordinary naming |
+| Essence | distinction from the other relations; gathering many essences, including nirvāṇa |
+| Form, according to others | twentyfold variety, grossness, and the range of three eyes |
 
-The closing `ity apare` explicitly assigns the last explanation to others.
-The earlier question-and-answer exposition supplies no separately named
-opponent or school. The alternatives are preserved rather than merged
-into one undifferentiated justification.
+The first answer assigns one position to each of the ten Essential
+Relations within the Form Base. The second asks why a general word is
+reserved for one relation. The last account is expressly introduced by
+`ity apare`, “others say”; it remains an attributed alternative.
 
-## 5. Differentiation within a Shared General Class
+## 5. Ten Essential Relations within the Form Base
 
-All ten material āyatanas belong to rūpa, yet the name rūpāyatana applies
-to one. All āyatanas have the nature of dharmas, yet dharmāyatana names
-one. The questions concern technical designation, not the existence of
-only one material factor or one dharma.
+The ten are the five faculties—eye, ear, nose, tongue, and body—and the
+five corresponding objects—visible Form, sound, smell, taste, and tangible
+Form. All ten belong to the Form Base, but each has its own position in the
+Essential Relation design.
 
-`Viśeṣaṇārtham` states the purpose of differentiation. The contrast
-`pratyekam ... na samastānām` requires recognizing each of the ten as
-an āyatana individually, rather than treating the collection as a single
-base. `Viṣayaviṣayitvena` explains their arrangement through object and
-that which has an object. It distinguishes the object-side and faculty-side
-positions; it does not say that each base independently contains both
-sides as one merged unit.
+`Pratyekam ... na samastānām` is the key distinction: each is to be
+understood individually, not as the ten collapsed into one collective
+position. `Viṣayaviṣayitvena` describes their arrangement through object
+and capacity: the object-side and the side that has or takes an object.
+The Bhāṣya does not say that every relation merges both sides into one.
 
-The next explanation works through names already assigned. `Cakṣurādi`,
-eye and the rest, must include the other specifically named material bases
-relevant to the tenfold list, not only the five faculties. Removing only
-the faculty names would still leave sound, odor, taste, and tangible form,
-so it would not isolate visible form. Once the other nine bases have their
-specific names, the remaining visible form retains the general word rūpa.
-This makes the naming argument's range explicit.
+The remainder argument depends on naming the entire set. Eye, ear, nose,
+tongue, body, sound, smell, taste, and tangible Form already have specific
+names. What remains is visible Form. It keeps the unqualified name Form
+and is thereby recognized as the Essential Relation of Form. Naming only
+the five faculties would not suffice: the four other named objects would
+still have to be distinguished.
 
-The same differentiation prevents every base from bearing the particular
-name dharmāyatana merely because each consists of dharmas. General
-membership and technical naming remain distinct relations.
+## 6. Why Form Is Primary
 
-## 6. The Prominence of Visible Form
-
-The `athavā` account explains the name through `prādhānya`, prominence.
-It appeals both to being affected and to visible indication:
+The Bhāṣya gives three mutually supporting marks of Form's primacy:
 
 ```text
 sapratigha
-    → affected by contact with the hand and the like
+    → resistant; affected by contact with a hand and the like
+
 sanidarśana
-    → indicated as this, here, or there
+    → visible; indicable as “this, here, there”
+
 ordinary usage
-    → especially recognized under the name rūpa
+    → commonly recognized by the name Form
 ```
 
-The explanation continues the local account of `rūpyate` from 1.13, while
-visibility distinguishes rūpāyatana within the larger material field.
-Resistance alone is not presented as unique to visible form. The reasons
-must be read together with the account of naming and ordinary recognition.
+Resistance alone is not said to distinguish visible Form from every other
+material relation. The argument joins resistance with visibility and
+ordinary recognition. The hand-contact example remains as the Bhāṣya gives
+it; no further physical theory is added to explain how visible Form is
+affected.
 
-The relation between the hand-contact example and technical visible form
-is stated compactly. The translation preserves it without supplying a new
-physical theory of how color is affected. The immediate purpose is to
-explain the prominence that makes this base a bearer of the general name.
+## 7. Why One Relation Is Named Essence
 
-## 7. Many Dharmas and the Foremost Dharma
+The Bhāṣya distinguishes general nature from a particular place in the
+design. All things have Essence-nature, but that does not make every
+Essential Relation the Essential Relation of Essence.
 
-The prose separates the components of `bahudharmāgrasaṃgrahāt`:
-`bahūnāṃ dharmāṇām`, many dharmas, and `agrasya ... nirvāṇadharmasya`,
-the foremost dharma, nirvāṇa. It does not say “many foremost dharmas.”
+Two grounds explain the name:
 
-The first reason concerns inclusive scope. Vedanā and the other contents
-already enumerated give the general name dharma its application here.
-The second identifies nirvāṇa's specific inclusion in this āyatana and
-not in the others. “Here alone” has the āyatana comparison as its scope;
-it does not negate nirvāṇa's inclusion in dharmadhātu under the other
-arrangement.
+```text
+many essences are gathered there
+    → the general name Essence is apt
 
-This argument also does not make all dharmas members of dharmāyatana.
-The opening question presupposes dharmas in the other bases. A broad name
-can be reserved for one specified range without swallowing all the other
-ranges to which the general word applies.
+nirvāṇa, the highest Essence, is gathered there
+    → this relation has a distinctive scope
+```
+
+The compound `bahudharmāgrasaṃgrahāt` therefore has two parts: the
+gathering of many essences and the gathering of the highest Essence,
+nirvāṇa. The Bhāṣya does not say “many highest essences.” Nor does the
+inclusion of nirvāṇa here deny its place in the Domain arrangement. The
+comparison is between Essential Relations.
 
 ## 8. The Alternative Three-Eye Account
 
-The closing explanation links `viṃśatiprakāratvena`, being twentyfold,
-with `audārikatva`, grossness or prominence. The instrumental gives the
-respect in which grossness is asserted; the prose need not be flattened
-into three independent reasons with twentyfoldness and grossness detached.
-The twentyfold list recalls the visible-form enumeration of 1.10.
+The closing `ity apare` attributes another account to others. It connects
+the twentyfold variety of visible Form with its grossness, and says that
+Form is the field of three eyes: fleshly, divine, and noble wisdom-eye.
+The explicit `traya`, “three,” supports reading the three eye terms as a
+single three-member set.
 
-The additional reason is being the range of three eyes. The numeral
-`traya` supports the division into fleshly, divine, and noble wisdom-eye.
-The last is kept as one member, `āryaprajñācakṣus`, rather than separated
-into further eyes.
+This alternative is not merged with the preceding account. It does not say
+that the three eyes operate identically, or that the noble wisdom-eye has
+no other field. Its claim is limited to visible Form being their field.
 
-This attributed account names visible form as a range accessible to these
-three. It does not identify their operations with one another or claim
-that the wisdom-eye has no other range. Its relation to prajñā should be
-retained at the scope actually stated, without making the phrase a complete
-account of paramārthika knowing.
+## 9. Philological and Interpretive Decisions
 
-## 9. The Bhāṣya's Decisions for the Kārikā
+1. The question concerns how the names Form and Essence are assigned within
+   the arrangement, not whether only one material factor or one essence
+   exists.
+2. The ten material Essential Relations are treated individually, with
+   object and capacity distinguished.
+3. The remainder argument covers all nine other named material relations,
+   not only the five faculties.
+4. Primacy belongs to the Form explanation; the gathering of many essences
+   and nirvāṇa belongs to the Essence explanation.
+5. “Many essences” and “the highest Essence” remain separate parts of the
+   compound.
+6. The twentyfold and three-eye account remains attributed to others.
 
-1. The question concerns the reservation of general words as particular
-   āyatana names, not exclusive reality or existence.
-2. Differentiation applies to both names and preserves individual bases
-   within the classification.
-3. The naming-by-remainder explanation concerns all other specifically
-   named material bases, not just the five faculties.
-4. Prominence, visibility, and ordinary usage explain the name rūpāyatana.
-5. Many dharmas and the foremost dharma, nirvāṇa, are distinct reasons
-   for the designation dharmāyatana.
-6. The three-eye explanation is expressly attributed to others and retains
-   its own compact reasoning.
+The running text has local irregularities. The normalized forms
+`dharmasvabhāveṣu` and `rūpāyatanam` are adopted for reading; `jñāsyata`
+is retained. The last compound is punctuated to preserve the explicit
+three-eye count. These are reading decisions, not claims of a critical
+edition.
 
-## 10. Philosophical and Organon Study
+## 10. Philosophical and Organon Reading
 
-A technical name can preserve a general word while having a specific
-systematic range. Understanding the name requires the distribution of
-neighboring names, the content included, and the reason for prominence.
-The passage therefore joins lexical meaning with classificatory relations.
+The textual argument identifies two reasons for assigning names inside the
+Essential Relation design. Form is selected through primacy: it is the
+visible relation that stands out in ordinary experience. Essence is
+selected through scope: its field gathers a heterogeneous range, including
+nirvāṇa. The first is named through what is most prominent; the second
+through what it can contain.
 
-For the Organon reconstruction, this distinguishes the breadth of a term
-from the extension of the domain named by it. Dharmāyatana does not include
-every dharma simply because its name contains dharma. Its meaning depends
-on the articulated arrangement and the contents assigned there.
+**Organon reading**
 
-The two prominent cases also differ positively: rūpāyatana is explained
-through visible prominence and ordinary recognition; dharmāyatana through
-inclusive scope and the presence of nirvāṇa. Neither explanation can be
-substituted for the other merely because both justify a technical name.
+> The Base gathers its members; the Essential Relation differentiates the
+> object's field from the capacity that takes it. The Form relation marks
+> the prominent, outward presentation. The Essence relation marks the
+> inwardly comprehensive field. This is a determination within the
+> Essential Relation layer—not the completed Concept or the whole machine.
 
-For learning, this supplies a definite task: move from recognizing the word
-to understanding why it names this range here. The mention of the noble
-wisdom-eye makes a contact with prajñā, but the commentary's actual work
-in this unit is to clarify naming and scope. How such clarification becomes
-a developed capacity of understanding remains our further Organon inquiry.
+The philosophical reading does not replace the Bhāṣya's reasons. It
+describes how those reasons function in the developing design. The
+Essential Relation remains a relational determination; this passage does
+not itself provide the complete closure of the system.
 
-## 11. Review Status
+## 11. Working Status
 
-QA review of the twenty-fourth Bhāṣya study. The local research
-commentary, kārikā opening, and running Sanskrit have been compared through
-017.03. The source repairs, distribution of reasons,
-individual-base distinction, and three-eye attribution are preserved.
-
-The research account's faculty-only description of the naming remainder
-is clarified through the ten material bases. The Sanskrit compound's many/
-foremost distinction and the scope of nirvāṇa's inclusion remain explicit.
-Original research files and the Part One reading artifact are unchanged.
+This is a working revision for discussion. It preserves the commentary's
+distinction between the two naming arguments, the full ten-member remainder
+argument, the attributed three-eye alternative, and the stated limits of
+the running Sanskrit witness. The English design terms are provisional and
+should be tested against the next verses.
