@@ -4,7 +4,7 @@
 
 > चतुर्भ्योऽन्ये तु संस्कारस्कन्धः एते पुनस्त्रयः ।
 >
-> धर्मायतनधात्वाख्याः सहाविज्ञप्त्यसंस्कृतैः ॥ १.१५ ॥
+> धर्मायतनधात्वाख्याः सहाविज्ञप्त्यसंस्कृतैः ॥ १.१५ ॥॥
 
 ## 2. Sanskrit (IAST)
 
@@ -12,265 +12,73 @@
 >
 > dharmāyatanadhātvākhyāḥ sahāvijñaptyasaṃskṛtaiḥ // 1.15 //
 
-## 3. Lexical Analysis
+## 3. Padaccheda
 
-```text
-caturbhyo 'nye              → caturbhyaḥ anye
-saṃskāraskandhaḥ            → saṃskāra-skandhaḥ
-punaḥ trayaḥ                → punaḥ trayaḥ
-dharmāyatanadhātvākhyāḥ    → dharma-āyatana-dhātu-ākhyāḥ
-sahāvijñaptyasaṃskṛtaiḥ    → saha avijñapti-asaṃskṛtaiḥ
-```
-
-| Form | Morphology | Lexical force here |
-|---|---|---|
-| caturbhyaḥ | ablative plural | apart from the four previously distinguished aggregates |
-| anye | nominative masculine plural | the other conditioned formations |
-| tu | contrastive particle | but; distinguishes the remainder from the four |
-| saṃskāra-skandhaḥ | nominative masculine singular | the aggregate of formations |
-| ete | nominative masculine plural demonstrative | these; refers to the three aggregates just in view |
-| punaḥ | indeclinable | again; under a further classificatory arrangement |
-| trayaḥ | nominative masculine plural | the three: vedanā, saṃjñā, and saṃskāra aggregates |
-| dharma-āyatana | compound | the dharma-sphere, object-sphere of manas |
-| dharma-dhātu | compound | the dharma-domain |
-| ākhyāḥ | nominative masculine plural compound ending | called, bearing the names |
-| saha | indeclinable governing the instrumental | together with |
-| avijñapti | feminine noun in compound | non-disclosive form |
-| asaṃskṛtaiḥ | instrumental neuter plural | the unconditioned dharmas |
-
-The “four” are `rūpa`, `vedanā`, `saṃjñā`, and `vijñāna`. The “three” are
-`vedanā`, `saṃjñā`, and `saṃskāra`. The three unconditioned dharmas were
-identified in 1.05 as space, cessation through discernment, and cessation
-independent of discernment; the 1.15 Bhāṣya gives their collective count
-without renaming them individually.
+caturbhyaḥ | anye | tu | saṃskāra-skandhaḥ |
+ete | punaḥ | trayaḥ |
+dharma-āyatana-dhātu-ākhyāḥ | saha | avijñapti-asaṃskṛtaiḥ
 
 ## 4. Grammar
 
-The first pāda defines the saṃskāra aggregate by exhaustive remainder:
-
 ```text
-[rūpa + vedanā + saṃjñā + vijñāna]
-    = the four independently specified aggregates
-
-conditioned formations other than these four
-    = saṃskāra-skandha
+caturbhyaḥ anye     the others, apart from the four
+saṃskāra-skandhaḥ  the formations-base
+ete punaḥ trayaḥ    these three again
+ākhyāḥ             are called
+saha                together with
 ```
 
-`Caturbhyaḥ` is an ablative of separation. `Anye` supplies the plural
-subject—other formations—while the singular `saṃskāra-skandhaḥ` names the
-one aggregate under which they are collectively included.
-
-The second construction changes classificatory arrangements. `Ete trayaḥ`
-does not refer to three individual dharmas but to the three aggregates of
-feeling, recognition, and formations. `Punaḥ` marks their redescription
-within the āyatana and dhātu systems.
-
-`Dharma-āyatana-dhātu-ākhyāḥ` distributes two names across the same contents:
-
-```text
-these three aggregates
-    together with avijñapti
-    and the unconditioned dharmas
-        are called
-    dharma-āyatana
-    and dharma-dhātu
-```
-
-The compound governed by `saha` is instrumental. The Bhāṣya makes the count
-explicit:
-
-```text
-3 aggregates
-+ 1 avijñapti
-+ 3 unconditioned dharmas
-= 7 dravyas
-```
-
-The same seven contents belong to both arrangements; identity of extension
-does not make āyatana and dhātu identical in meaning.
+The four are form, feeling, reflection, and the vijñāna-base. The remainder is the formations-base. The three are feeling, reflection, and the formations-base. *Avijñapti* and the unconditioned accompany them. They are not a new base.
 
 ## 5. Translation
 
-### Close syntactic construe
+### Literal
 
-> The formations other than the four constitute the formations aggregate. These three, together with avijñapti and the unconditioned dharmas, are called the dharma-sphere and the dharma-domain.
+The others apart from the four are the formations-base. These three again, together with *avijñapti* and the unconditioned, are called dharma-essence and dharma-principle.
 
-### Bhāṣya-informed translation
+### Bhāṣya-informed
 
-> Every conditioned formation not included in the aggregates of form, feeling, recognition, or cognition belongs to the formations aggregate. The aggregates of feeling, recognition, and formations, together with avijñapti and the three unconditioned dharmas, constitute the seven contents arranged as dharma-āyatana and dharma-dhātu.
-
-The second translation makes the antecedents and the sevenfold count
-explicit. “Every conditioned formation” prevents the residual definition
-from sounding like an arbitrary miscellaneous category.
+Formations other than form, feeling, reflection, and the vijñāna-base are the formations-base. These three — feeling, reflection, and the formations-base — together with *avijñapti* and the unconditioned, are called dharma-essence and dharma-principle. The Bhāṣya counts seven.
 
 ## 6. Philosophical Translation
 
-> The system permits no conditioned determination to remain outside classification. The factors not independently specified by the other four aggregates are gathered as formations. When reorganized for mental access and domain analysis, feeling, recognition, formations, non-disclosive form, and the unconditioned together constitute the field of dharmas.
+Remainder. Not a drawer. The three are the useful dharma-skandha, named here as essence and as principle.
 
-Organon rendering:
+Form sits in that essence. *Avijñapti* is included, and it stays form. The vijñāna-base is the one left out of the three. It is not a member of this naming.
 
-> Dharma-domain is not a container filled with one homogeneous kind of thing. It comprehends mental factors, non-disclosive material determination, and the unconditioned according to their common place in the architecture of knowability. Their unity is conceptual and functional, not sensible or material.
+## 7. Vocabulary
 
-The Bhāṣya gives the inclusion of the remaining mental and mind-dissociated
-formations an explicitly practical necessity. If excluded from the aggregate,
-these factors would fall outside suffering and origin as the truths to be
-comprehended and abandoned. The argument concerns those factors; it does not
-make every conditioned dharma an object of abandonment, since the conditioned
-Path can be without outflows.
-
-## 7. Technical Vocabulary
-
-| Sanskrit | Project rendering | Determination |
-|---|---|---|
-| saṃskāra | formation | conditioned factor with formative or constructed status |
-| saṃskāra-skandha | formations aggregate | exhaustive class of conditioned formations outside the other four aggregates |
-| cetanā | volition | predominant formation because it has the nature of karma |
-| prādhānya | predominance | reason a principal member may stand for a wider class in scripture |
-| abhisaṃskaraṇa | active formation | operation of forming conditioned existence |
-| viprayukta-saṃskāra | mind-dissociated formation | conditioned formation not associated with ordinary mental factors |
-| dharma-āyatana | dharma-sphere | object-sphere accessible to manas |
-| dharma-dhātu | Dharma-domain | determinate domain containing the seven enumerated classes |
-| avijñapti | non-disclosive form | rūpa included within the mental object-domain |
-| asaṃskṛta | unconditioned dharma | space and the two cessations |
-| dravya | counted constituent | unit used by the Bhāṣya in the sevenfold count, without implying that each aggregate is one indivisible item |
-| parijñā | full comprehension | Path-function directed to the truth of suffering |
-| prahāṇa | abandonment | Path-function directed to what must be relinquished |
+| Sanskrit | In this verse |
+|---|---|
+| saṃskāra-skandha | formations-base |
+| vedanā | feeling |
+| saṃjñā | reflection |
+| āyatana | essence |
+| dhātu | principle |
+| avijñapti | avijñapti |
+| asaṃskṛta | unconditioned |
+| dharma-skandha | the three, Organon only |
 
 ## 8. Logical Determination
 
-The exhaustive definition of the formations aggregate is:
-
 ```text
-ConditionedDharma(x)
-∧ ¬Rupa(x)
-∧ ¬Vedana(x)
-∧ ¬Samjna(x)
-∧ ¬Vijnana(x)
-    → SamskaraSkandhaMember(x)
+1.14   ten essences, ten principles
+1.15   formations-base by remainder
+       three named as dharma-essence and dharma-principle
+       avijñapti included
+1.16   the vijñāna-base, not this naming
 ```
-
-Volition is principal without exhausting the class:
-
-```text
-Cetanā(x)
-    → HasNatureOf(x, Karma)
-    ∧ PrincipalIn(x, ActiveFormation)
-
-PrincipalMemberOf(cetanā, SamskaraSkandha)
-    ↛ SamskaraSkandha = CetanāAlone
-```
-
-The sevenfold domain is:
-
-```text
-Dharmayatana = Dharmadhatu in extension here
-    = VedanaSkandha
-    + SamjnaSkandha
-    + SamskaraSkandha
-    + Avijnapti
-    + Akasa
-    + PratisamkhyaNirodha
-    + ApratisamkhyaNirodha
-```
-
-Its unity cannot be material homogeneity:
-
-```text
-mental factors
-+ non-disclosive rūpa
-+ unconditioned dharmas
-    → one Dharma-domain
-```
-
-The Bhāṣya's Path argument concerns the remaining formations:
-
-```text
-RemainingMentalOrDissociatedFormation(x)
-    → IncludedInSamskaraSkandha(x)
-    → NotExcludedFromRelevantTruthAndPathTasks(x)
-```
-
-Its counterfactual is:
-
-```text
-ExcludedFromAllSkandhas(x)
-    → ExcludedFromSufferingAndOriginAsTruths(x)
-    → ComprehensionAndAbandonmentWouldNotApply(x)
-```
-
-Classification makes the factor available to the relevant analysis and
-practice; it does not itself perform either Path task.
 
 ## 9. Interpretive Note
 
-VAK 1.15 is the first explicit appearance of `dharma-dhātu` in its decisive
-scope. It gathers contents that cannot be reduced to either gross matter or
-private mentality: felt and recognitional factors, active formations,
-avijñapti, space, and two modes of cessation. Dharma-domain is therefore not
-a leftover drawer. It is the formal field in which heterogeneous realities
-receive determinate standing as possible dharmas for mind and Path.
-
-This gives “Dharma-controlled reality” a precise systematic meaning:
-
-```text
-Dharma does not make every content the same.
-Dharma assigns each content its determinate status
-within knowledge, suffering, origin, comprehension, and abandonment.
-```
-
-Avijñapti is pivotal because it crosses the simple opposition between mental
-and material. It remains rūpa, yet it enters dharma-āyatana and dharma-dhātu
-as a non-disclosive determination accessible to the mental system rather
-than as an ordinary sensory object. The unconditioned enters the same domain
-without becoming either matter or a mental event.
-
-The sattvic force lies in this articulation, not in denying the real
-differences among the contents. Dharmadhātu is a domain of intelligibility:
-it holds mental, subtle-material, and unconditioned determinations together
-while preserving exactly what each is. In the comparative Sāṃkhya idiom,
-this is luminous differentiation rather than tamasic externalization.
-
-The Bhāṣya's practical point is that the remaining mental and dissociated
-formations must be included in the saṃskāra aggregate. Its counterfactual
-shows why their exclusion would disrupt the relation of the truths to the
-tasks of comprehension and abandonment. In the Organon reconstruction, this
-gives systematic classification a role in the possibility of liberation,
-without equating classification with the accomplishment of those tasks.
+Kārikā. Sphere and domain are withdrawn. The encyclopedia of dharmas is not this verse. The Bhāṣya is not synced.
 
 ## 10. OWL++ Seed
 
 ```ttl
 @prefix vak: <http://127.0.0.1:3000/vak#> .
-@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
-vak:VAK_1_15
-    a vak:Karika ;
-    rdfs:label "VAK 1.15" ;
-    vak:hasTopic vak:SamskaraSkandhaAndDharmaDomain ;
+vak:VAK_1_15 a vak:Karika ;
+    vak:hasTopic vak:FormationsBaseAndDharmaEssence ;
     vak:belongsTo vak:Dhatunirdesa .
-
-vak:SamskaraSkandha
-    a vak:ExhaustiveConditionedClassification ;
-    vak:hasPrincipalMember vak:Cetana ;
-    vak:includes vak:RemainingMentalFactors ,
-        vak:MindDissociatedFormations .
-
-vak:Cetana
-    vak:hasNatureOf vak:Karma ;
-    vak:isPrincipalIn vak:ActiveFormation .
-
-vak:DharmaAyatana
-    vak:hasSameExtensionHereAs vak:DharmaDhatu .
-
-vak:DharmaDhatu
-    a vak:DomainOfKnowableDharmas ;
-    vak:includes vak:VedanaSkandha , vak:SamjnaSkandha ,
-        vak:SamskaraSkandha , vak:Avijnapti , vak:Akasa ,
-        vak:PratisamkhyaNirodha , vak:ApratisamkhyaNirodha .
-
-vak:RemainingMentalFactors
-    vak:includedIn vak:SamskaraSkandha .
-
-vak:MindDissociatedFormations
-    vak:includedIn vak:SamskaraSkandha .
 ```
