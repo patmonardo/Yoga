@@ -94,6 +94,13 @@ synchronic association:
     one support → one internally articulated Citta-event
 ```
 
+**Organon interpretation—not literal Bhāṣya doctrine.** The faculty as a
+Transcendental Time Determination of Śuddha Sattva has two irreducible forms
+here: cultivated capacity develops across occurrences, while associated
+factors belong to one supported Citta-event. Cognition names the universal mode of knowing
+through hearing, reflection, or cultivation; Ideas are the particular
+learned contents, not a reason to merge distinct supports or events.
+
 ## 7. Technical Vocabulary
 
 | Sanskrit | Controlled rendering | Determination in this unit |

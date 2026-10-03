@@ -150,6 +150,8 @@ Organon rendering:
 This is a Bhāṣya-grounded reconstruction of the alternative account. It does
 not yet claim that the Kośa derives both courses from one higher Principle.
 
+**Transcendental Time determination (Organon, not translation):** `Pravṛtti` and `nivṛtti` have a shared functional order—support, arising, persistence, and experienced completion—without becoming one course or a universal linear biography. Universal Cognition here names the determination of a course through these functions; the Ideas are the particular faculties occupying each position. This ordering is not measured duration, and it does not make nirvāṇa a conditioned event.
+
 ## 7. Technical Vocabulary
 
 | Sanskrit | Project rendering | Determination |
@@ -242,6 +244,8 @@ The Bhāṣya's `matavikalpa` prevents the two arrangements from being silently
 merged into one statement by Vasubandhu.
 
 ## 9. Interpretive Note
+
+**Organon time-reading:** The force of `tathā` is structural: the same four positions organize contrary courses, while their members and outcomes remain distinct. The fourteen/eight distributions therefore articulate alternative temporal organizations, not a count of consecutive intervals. In particular, path fruition is intelligible through its governing faculty without being equated with the five feeling-mediated experiences of `pravṛtti`.
 
 VAK 2.06 does more than divide the faculties into worldly and liberating
 groups. It discovers one functional form across two opposed directions. The

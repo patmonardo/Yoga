@@ -96,11 +96,11 @@ twenty-two, but the excluded members are different.
 
 Organon rendering:
 
-> The configuration space has two maximal states with the same cardinality but different governing forms. One maximizes conditioned equipment while lacking realization; the other is path-organized and excludes features incompatible with its developmental state. System identity belongs to typed inclusion and exclusion, not feature count.
+> Nineteen faculties can mark two different Transcendental Time Determinations of Śuddha Sattva. The worldly profile is complete in conditioned equipment while lacking every stainless realization-faculty; the trainee profile has the one stainless faculty appropriate to the present path-stage, while excluding one sexual faculty and the other two realization-faculties. Equal counts therefore do not measure a single linear scale of attainment: they name distinct present organizations of embodied differentiation and path-knowledge.
 
-“Configuration space,” “maximal state,” and “system identity” are Organon
-reconstructions. The textual analysis concerns the two greatest
-faculty-possession profiles.
+The Transcendental Time reading is an Organon reconstruction. The textual
+analysis concerns the two greatest faculty-possession profiles and their
+different exclusions.
 
 ## 7. Technical Vocabulary
 
@@ -209,15 +209,22 @@ that matters for realization. The Agent must therefore validate negative
 constraints as rigorously as positive possession. An invalid faculty for a
 given stage cannot be made acceptable by preserving the correct count.
 
-This also sharpens the Rational Moral Agent. “Maximum capability” is not the
-telos. A worldly continuum may maximize conditioned differentiation while
-lacking realization altogether. Rational-moral form lies in the correct
-organization, purification, and stage-appropriate limitation of capacities.
+For the Organon, the contrast concerns how the faculties governing
+differentiation and path-realization are organized in each present profile.
+The trainee's exclusions are compatible with a specific path-state; they
+are not deficits measured against the worldly case or a universal ascent
+through one prescribed biography.
 
 The Bhāṣya closes the extended faculty-property inquiry here. The sequence
 from necessary triad through minimum and maximum configurations has generated
-a typed state space governed by implication, mutual exclusion, realm,
+a field of configurations governed by implication, mutual exclusion, realm,
 ethical condition, and path-stage.
+
+**Organon temporal reading:** The nineteen-member cases are two distinct
+present organizations of Śuddha Sattva, not points on a single scale that
+advances by accumulating faculties. The excluded members articulate
+stage-specific limits on embodied differentiation and realization; their
+relation is structural and path-relative, not measured by clock-time.
 
 ## 10. OWL++ Seed
 

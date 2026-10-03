@@ -195,6 +195,13 @@ would need the actual factor definitions and distributions that
 follow. The present result is the relation between necessary
 co-arising and the scope of a factor's occurrence.
 
+**Organon reading:** Cognition names the universal cognitive determination
+of the articulated event; the five grounds specify the ranges within which
+factors operate. Those ranges are not five successive times, and acquisition
+does not collapse into conditioned co-arising. This reading places the
+classification within the temporal organization of Śuddha Sattva without
+attributing that philosophical framework to the Bhāṣya's translation.
+
 ## 10. Review Status
 
 Provisional twenty-third study of the restarted Indriyanirdeśa

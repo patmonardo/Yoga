@@ -142,21 +142,17 @@ the source's “arise”; the analysis makes this scope explicit.
 
 ## 7. Philosophical and Organon Study
 
-The preceding classification made the kinds distinguishable. This
-passage now supplies directed relations between them and identifies
-occasions that explain particular connections. As Organon interpretation,
-this is the further work that genus membership alone could not perform.
+**Organon reading:** The twelve kinds now enter directed temporal
+relations. Attainment, emergence, and rebirth are distinct contexts
+in which a particular mode of Cognition succeeds another; they are
+not interchangeable clock-time markers. The eight-predecessor and
+nine-successor counts make direction essential: the outgoing
+determination cannot be inferred by reversing the incoming list.
 
-The difference between eight predecessors and nine successors makes
-the point concrete. Knowing which kind of mind is present does not
-yet give one undirected list of related kinds. We must distinguish
-what can precede it from what can follow it, and then understand
-why attainment, emergence, or rebirth permits the connection.
-
-The text thereby advances from naming determinations to explaining
-their succession. A comparison with mediation can use that movement
-without treating these counts as a complete theory of rational
-subjectivity or a modern executable model.
+These relations articulate how particular determinations move within
+universal Cognition. Their stated occasions constrain the succession;
+the counts do not constitute a universal biography or unrestricted
+transition rule.
 
 ## 8. Review Status
 

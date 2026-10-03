@@ -92,7 +92,7 @@ a faculty; they are not one undifferentiated purifying power.
 
 Organon rendering:
 
-> The conditioned Agent is not merely equipped to receive objects. Its continuum must persist; its experience acquires affective tendencies; and its practice can be governed toward purification. Indriyanirdeśa identifies the powers exercising command at each of these points. This is an operative Techne of the living and cultivated continuum.
+> The faculties articulate Transcendental Time Determinations of Śuddha Sattva: persistence, affective latency, and transformative practice. The continuum is not merely equipped to receive objects; it is sustained, conditioned by feeling, and redirected through the path. Checking affliction and bringing the path forward are distinct operations within this temporal transformation.
 
 ## 7. Technical Vocabulary
 
@@ -219,16 +219,18 @@ begin; their activity is already the path being advanced. Still, the verse
 only establishes each faculty's irreducible contribution to purification.
 It does not yet define their individual operations in full.
 
-VAK 2.03 therefore expands the twenty-twofold system beyond sensory access:
+VAK 2.03 therefore makes explicit temporal determinations beyond sensory
+access:
 
 ```text
-ordinary knowing
+sensory disclosure
 living continuity
 affective entanglement
 practical purification
 ```
 
-All four remain operations within conditioned Techne. `Prajñā` here is one
+These are not four successive stages of an individual's biography but
+distinct determinations within the living process. `Prajñā` remains one
 purificatory faculty among others, with the specific function of discernment
 within the path.
 

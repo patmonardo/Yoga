@@ -164,6 +164,8 @@ of confidence separate.
 
 ## 9. Philosophical and Organon Study
 
+**Organon extension—not a literal Bhāṣya doctrine:** The three path-faculties may be read as Transcendental Time Determinations of Śuddha Sattva—prospective, cultivated, and completed knowing—whose universal Cognitions have different particular Ideas as necessary possession-sets. The count describes co-possession, not a simultaneity of all factors or a scale of attainment. The Organon reading leaves the Bhāṣya's uncertain damaged wording uncertain.
+
 The passage determines a faculty through necessary relations of
 possession while retaining its distinct identity. The later two
 realization faculties share ten accompanying possessions without

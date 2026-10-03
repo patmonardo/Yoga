@@ -99,11 +99,11 @@ thirteen. This is a reported alternative, not the principal count.
 
 Restrained Organon rendering:
 
-> The caitta profile is a time-indexed event schema. Ethical type determines the inherited base; compatibility determines which extensions are admissible; occurrence determines which admissible factor is counted at that moment. Possibility and actuality must remain separate.
+> Obscured and unobscured neutrality are distinct present determinations of a cognitive event, each with a defined composition. A compatible factor such as torpor may occur under more than one ethical type, but compatibility alone does not make it actual. This is event-time in the Organon sense—the determinate organization of a moment of Śuddha Sattva—not clock-time; the count changes with actual co-presence, not with mere possibility.
 
-“Time-indexed event schema” is a project rendering. The textual basis is the
-Bhāṣya's distinction between cross-class compatibility and actual conditional
-co-presence.
+The textual basis is the Bhāṣya's distinction between cross-class
+compatibility and actual conditional co-presence; the Organon interpretation
+does not change that account.
 
 ## 7. Technical Vocabulary
 
@@ -210,14 +210,14 @@ wholesome, unwholesome, or indeterminate ground because it may bear any of
 those determinations. Its organizing relation is compatibility rather than
 ground-wide necessity.
 
-This is where the user's time-schema reading becomes exact:
+The distinction between admissibility and actuality is decisive:
 
 ```text
 profile type
     states what must be present
     and what may be present
 
-event at time t
+particular event
     states which admissible factors actually occur
 ```
 
@@ -225,22 +225,28 @@ The factor is counted only in the event in which it occurs. A timeless list
 of everything compatible with a profile would falsely convert possibility
 into simultaneous actuality.
 
-The project's phrase “Pure Sattva” may name this demand for a completely
-discriminated event-form, but it remains an external characterization here.
-The Kośa's textual achievement is already sufficient: ethical status,
-obscuration, functional specialization, compatibility, and momentary
-occurrence are separate axes of one mental-event calculus.
+For the Organon, Śuddha Sattva names the living process whose events receive
+determinate organization; it is not a synonym for karmic neutrality and
+does not make this possibility/actuality distinction timeless. The Kośa's
+textual achievement is already sufficient: ethical status, obscuration,
+functional specialization, compatibility, and actual occurrence are
+separate axes of one mental-event analysis.
 
 For the Kośa Technē:
 
 ```text
-EventProfile<t> = {
+EventProfile<occurrence> = {
     inheritedBase,
     specializedModes,
     compatibleExtensions,
-    extensionsActualAt<t>
+    extensionsActualAt<occurrence>
 }
 ```
+
+**Organon temporal reading:** Obscured and unobscured neutral events are
+distinct configurations, while torpor remains merely admissible until it
+co-occurs. This is a determinate cognitive present within Śuddha Sattva, not
+a clock timestamp or a continuum-wide biography.
 
 ## 10. OWL++ Seed
 

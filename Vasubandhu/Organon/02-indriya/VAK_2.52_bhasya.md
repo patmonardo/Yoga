@@ -350,6 +350,12 @@ Learning the causal relation therefore includes learning which comparison
 is relevant. This is a local basis for our inquiry into mediation, not
 a textual identification of the account with Kant, Hegel, or Sāṃkhya.
 
+On the Organon reading, faculties are Transcendental Time Determinations of
+Śuddha Sattva: homogeneous causality gives them a diachronic form in prior
+similarity and permitted grade increase. Cognition names the universal
+capacity for this knowing; the Ideas are the particular Path-levels and
+contents transmitted, not stages in a universal biography.
+
 ## 10. Review Status
 
 Provisional fifty-second study of the restarted Indriyanirdeśa Bhāṣya

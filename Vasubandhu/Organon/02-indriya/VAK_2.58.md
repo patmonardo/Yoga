@@ -102,6 +102,14 @@ wider enabling field
     → dominant result
 ```
 
+**Organon interpretation—not literal Bhāṣya doctrine.** The Transcendental
+Time Determination of Śuddha Sattva is the contrast between direct efficacy
+in an occurrence and the wider field that enables or does not obstruct it;
+the same result may
+stand in both relations. Cognition names the universal operative knowing,
+whereas the particular Idea is the result as conditioned by a specified
+source, scope, and attainment or production relation.
+
 ## 7. Technical Vocabulary
 
 | Sanskrit | Controlled rendering | Determination in this unit |

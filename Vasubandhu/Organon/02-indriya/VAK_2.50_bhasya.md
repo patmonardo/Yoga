@@ -118,6 +118,14 @@ of mutual resulthood and the explicitly admitted asymmetric case.
 The later debate must test their grounds; this brief definition does
 not settle that debate in advance.
 
+**Organon reading (philosophical reconstruction, not Bhāṣya doctrine):**
+Faculty-governed Cognition is read as a Transcendental Time Determination of
+Śuddha Sattva: causal order distinguishes reciprocal
+sustaining from directional dependence among co-present particular Ideas.
+Their shared time-profile does not reduce causality to clock-time
+coincidence, and the subsidiary-marks case remains asymmetric as the
+commentary states.
+
 ## 10. Review Status
 
 Provisional fiftieth study of the restarted Indriyanirdeśa Bhāṣya

@@ -186,6 +186,14 @@ license treating every distinction as merely verbal, or every
 new term as a new constituent. The explanatory work lies in
 establishing the relevant identity or difference before counting.
 
+**Organon reading:** View particularizes discernment through its
+orientation/content without adding a second factor beside prajñā; an
+independently associated affliction does add a member to that occurrence.
+Thus universal Cognition and its particular Idea must not be counted as
+interchangeable items, nor should a difference in Ideas be mistaken for
+another cognition. This reconstruction preserves the Bhāṣya's local
+identity test.
+
 ## 10. Review Status
 
 Provisional twenty-ninth study of the restarted Indriyanirdeśa

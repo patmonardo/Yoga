@@ -187,6 +187,13 @@ is permitted. This completes the desire-realm inquiry while
 preparing the next passage's restrictions for higher meditative
 levels.
 
+**Organon reading:** The distinctions concern which determinations are
+actual in this event, not what could occur across a class of events.
+Obscured or unobscured neutrality fixes the profile; a compatible factor
+such as torpor changes its count only upon co-presence. Event-time here
+names the present organization of Śuddha Sattva, not clock-time. This
+philosophical reading leaves the Bhāṣya's attributional alternatives intact.
+
 ## 10. Review Status
 
 Provisional thirtieth study of the restarted Indriyanirdeśa Bhāṣya

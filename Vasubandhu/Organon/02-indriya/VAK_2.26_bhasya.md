@@ -267,6 +267,13 @@ without interpreting what each member counts. That interpretation
 must also preserve the alternative account and the limits of
 what the text supplies about it.
 
+**Organon reading:** Defilement here is a mode of present cognitive
+activity in which universal operations continue under afflicted
+determinations; it is not the disappearance of cognition or a clock-
+measured duration. The distinction between a factor's range, its qualified
+form, and predominance prevents the Organon account from turning the
+enumeration into one undifferentiated temporal state.
+
 ## 10. Review Status
 
 Provisional twenty-sixth study of the restarted Indriyanirdeśa

@@ -272,6 +272,14 @@ Its inclusion in the same list of dissociated formations does
 not make its function identical with commonality. Each formation
 requires its own argument and determination.
 
+**Organon reading (philosophical reconstruction, not Bhāṣya doctrine):**
+Faculty-governed Cognition is read as a Transcendental Time Determination of
+Śuddha Sattva: class-commonality holds likeness across particular
+Ideas without turning the universal into another member or substance. The
+non-percipient attainment, by contrast, is a conditioned interval whose
+temporal bounds follow its causal basis and exhaustion. The two determinations
+must not be collapsed into one account of persistence.
+
 ## 10. Review Status
 
 Provisional forty-first study of the restarted Indriyanirdeśa

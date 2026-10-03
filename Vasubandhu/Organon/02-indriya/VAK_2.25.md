@@ -107,9 +107,9 @@ bears the same Sanskrit name.
 
 Restrained Organon rendering:
 
-> `Kuśala` is a state constraint rather than a label. A state validates as wholesome only when its required factors are present; related names must still preserve distinct functions, and factors already inherited from the universal ground must not be counted twice.
+> Wholesomeness is a particular ethical determination of a cognitive occurrence: confidence, heedfulness, pliancy, equanimity, moral shame and caution, non-greed, non-hatred, non-harming, and energy coordinate its mode without becoming a new faculty-stage. Non-delusion is not counted again here because the commentary locates it in prajñā, already present in the universal ground. Read against the preceding account of purification, this configuration can prepare and support the purificatory movement, but the passage does not make every wholesome moment an accomplished path. Its object-content (the particular Idea) does not by itself settle the ethical character of the cognition.
 
-The validation language is project-level. The textual doctrine is that these
+This Organon reading remains distinct from the textual doctrine that these
 ten mental factors are invariably present in wholesome consciousness.
 
 ## 7. Technical Vocabulary
@@ -253,6 +253,12 @@ For the Kośa Technē, the restrained consequence is that a mental-state model
 must track factor identity, operating ground, aspect, and reason for
 designation. A name or Boolean wholesome flag cannot substitute for that
 structure.
+
+**Organon temporal reading:** The ten wholesome factors specify the ethical
+mode of an occurrence within the range of wholesome consciousness. Their
+coordination gives content to preparation for purification, but does not
+make each wholesome event a completed purificatory stage. The object's
+particular Idea and the cognition's ethical determination remain distinct.
 
 ## 10. OWL++ Seed
 

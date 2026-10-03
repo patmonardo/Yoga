@@ -103,6 +103,15 @@ that `prāpti` appears to require a `prāpti-prāpti`. The proposed solution of
 mutual possession blocks a simple regress only by generating an expanding
 population of acquisition-entities.
 
+**Organon rendering (philosophical reconstruction, not literal Bhāṣya
+doctrine):** Ordinary status is a provisional Transcendental Time
+Determination of Śuddha Sattva: the
+noble Path is not yet operative in this continuum, and path-acquisition
+reconfigures that status. This is neither an essence nor a universal
+linear biography. The particular Path-Idea changes the continuum's
+possibilities; Cognition determines the transition without requiring a
+second acquisition to possess the first.
+
 ## 7. Technical Vocabulary
 
 | Sanskrit | Controlled rendering | Determination in this unit |
@@ -245,6 +254,11 @@ At the project level, `bhūsaṃcāra` is especially suggestive for bhūmi-
 acquisition. The present study does not identify the Kośa's realm-transition
 with the Brahma-Yoga ascent. It first records the narrower mechanism: a change
 of ground changes the continuum's acquisition-status.
+
+**Organon temporal note:** The regress argument tests whether a status can be
+made intelligible as a further object at each moment. The temporal reading
+instead tracks the path-transition that makes the prior ordinary
+determination cease to apply.
 
 ## 10. OWL++ Seed
 

@@ -349,6 +349,15 @@ contribution is more specific: designation, relational completion,
 sequence, and substantial existence cannot be treated as interchangeable
 determinations.
 
+**Organon reading (philosophical reconstruction, not Bhāṣya doctrine):**
+The faculty's governing efficacy is a Transcendental Time Determination of
+Śuddha Sattva: the sequence's intelligibility depends on retention and synthesis across
+non-coexisting sounds: its temporality is constitutive of the completed
+expression, not a timestamp attached to it. Universal Cognition determines
+the ordered relation; phonetic and sentence Ideas remain particular. This
+proposal is an Organon development, not an explicit mechanism asserted in
+the local commentary.
+
 ## 10. Review Status
 
 Provisional forty-seventh study of the restarted Indriyanirdeśa Bhāṣya

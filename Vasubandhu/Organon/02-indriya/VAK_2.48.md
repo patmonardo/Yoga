@@ -115,6 +115,15 @@ through what kind of result did it arise?
 determinate structural knowledge
 ```
 
+**Organon rendering (philosophical reconstruction, not literal Bhāṣya
+doctrine):** The inventory becomes intelligible through provenance:
+homogeneous continuation, karmic maturation, or either mode of genesis
+determines how a particular Idea is present in a continuum. As
+Transcendental Time Determinations of Śuddha Sattva, these histories
+differentiate result-status without becoming a universal sequence. Cognition
+names the general determination of provenance; the resulting formations
+remain particular.
+
 ## 7. Technical Vocabulary
 
 | Sanskrit | Controlled rendering | Determination in this unit |
@@ -249,6 +258,11 @@ We should remain exact about the boundary. VAK 2.48 explicitly supplies a
 result-classification and the Bhāṣya explicitly asks next for causes and
 conditions. “The senses give laws to Nature” is our Kant-clean architectural
 conclusion from the chapter's sequence, not the kārikā's own formulation.
+
+**Organon temporal note:** Result-status is not a clock-date. It identifies
+the mode of genesis through which this particular determination has become
+available; the verse opens the causal inquiry rather than supplying its
+entire account.
 
 ## 10. OWL++ Seed
 

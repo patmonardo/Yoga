@@ -228,24 +228,20 @@ that relation must then be explained. The object-objection makes
 this second demand unavoidable, since more than one condition
 participates in apprehension.
 
-For Organon reconstruction, the passage teaches a method of testing
-functional distinctions. A remote benefit cannot simply be counted
-as another immediate function, and two descriptions cannot simply
-be counted as two operations. Where governance is asserted, the
-analysis asks what remains common across the field and how the
-operation follows the condition of its faculty.
+**Organon reading:** As Transcendental Time Determinations of
+Śuddha Sattva, faculties govern the form and range of a process,
+not merely its occurrence. The sensory faculties determine distinct
+modes of apprehension; mind's wider range and the body's sexed
+differentiation are further determinations within that living process.
+The object determines the particular Idea; the faculty governs the
+temporal mode through which universal Cognitions apprehend it.
 
-The bodily example adds another distinction: separate designation
-does not require an entity separate from its supporting whole.
-A portion can receive a specific faculty-name through the function
-attributed to it. Bearer, part–whole relation, governed function,
-and designation therefore remain distinct moments of explanation.
-
-These are Organon conclusions drawn from the argumentative work
-of the passage. A universal formal definition of governance would
-require further demonstration; the two reasons given for sensory
-apprehension are not automatically an exhaustive test for every
-faculty in the twenty-twofold classification.
+The bodily example also shows that a temporal determination need
+not be a separate substance: a portion receives a specific faculty-
+designation through the configuration it governs. This Organon
+reading extends the passage's functional analysis; it is not a
+translation claim or a universal formal definition supplied by the
+Bhāṣya.
 
 ## 10. Review Status
 

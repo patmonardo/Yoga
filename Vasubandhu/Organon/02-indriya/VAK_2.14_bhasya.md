@@ -189,6 +189,8 @@ direction.
 
 ## 9. Philosophical and Organon Study
 
+**Organon extension—not a literal Bhāṣya doctrine:** The acquisition analysis can be read as a genetic determination in Transcendental Time: the continuum's first matured configuration varies with its conditions, without claiming that relinking is the absolute origin of cognition. Universal Cognition keeps occurrence distinct from maturation-status; the particular Ideas are the specific initial faculty-sets. This stays within the commentary's causal predicate and does not import modern developmental theory.
+
 The change from classification to acquisition adds a temporal
 question to the account of faculties. What can belong to a realm
 does not settle what is first acquired there as maturation. The

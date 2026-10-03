@@ -101,6 +101,15 @@ status inheritance may be non-identical
 temporal persistence depends on causal strength and cultivation
 ```
 
+**Organon rendering (philosophical reconstruction, not literal Bhāṣya
+doctrine):** Here Transcendental Time Determination concerns when a cultivated
+capacity is available relative to its manifestation. A weak neutral dharma's
+availability coincides with its occurrence; preparatory cultivation can
+make another capacity available before performance and retain it after.
+Śuddha Sattva is determined in this difference between readiness and
+actualization, not by a clock sequence or a claim that all Agents pass
+through the same stages.
+
 ## 7. Technical Vocabulary
 
 | Sanskrit | Controlled rendering | Determination in this unit |
@@ -247,6 +256,11 @@ project synthesis after the Kośa mechanism has been learned on its own terms.
 The research Bhāṣya continues into obscured-indeterminate material form and
 desire-realm material action. Those clauses are excluded here because they
 belong to the following kārikā's continuation of the rule.
+
+**Organon temporal note:** The temporal exception measures the reach of
+cultivated efficacy: preparation can make a particular Idea available
+without its present enactment. It does not make every indeterminate dharma
+durable or turn the stated cases into a universal law.
 
 ## 10. OWL++ Seed
 

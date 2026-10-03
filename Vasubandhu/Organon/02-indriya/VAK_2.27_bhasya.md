@@ -171,6 +171,13 @@ The following inquiry must combine the classifications with
 more particular conditions of occurrence. This passage prepares
 that work rather than supplying its results in advance.
 
+**Organon reading:** This class is united by shared restrictions and
+cultivation-abandonment, not by inevitable co-presence at one moment. Its
+path-relation expresses a determinate transformation within the
+defilement/purification dimensions of Śuddha Sattva, rather than a
+universal sequence of episodes. This is a philosophical extension of the
+classification, not a teaching stated in the Bhāṣya.
+
 ## 10. Review Status
 
 Provisional twenty-seventh study of the restarted Indriyanirdeśa

@@ -103,6 +103,13 @@ reconstruction of these formations as independent structural
 operators. Such an account would require the definitions and
 arguments that follow.
 
+**Organon reading:** Acquisition/non-acquisition concerns whether a dharma
+stands in a relation of possession to the continuum, not whether it is
+manifest in this cognition. It therefore makes continuity across events
+thinkable without equating possession with clock-duration or asserting an
+independent entity. The following argument, rather than this Organon
+gloss, must decide the ontological status.
+
 ## 10. Review Status
 
 Provisional thirty-fifth study of the restarted Indriyanirdeśa

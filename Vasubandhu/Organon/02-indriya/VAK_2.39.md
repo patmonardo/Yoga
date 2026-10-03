@@ -107,6 +107,15 @@ aprāpti:
     negative status is ethically neutral but temporally indexed
 ```
 
+**Organon rendering (philosophical reconstruction, not literal Bhāṣya
+doctrine):** `Aprāpti` is a temporal determination of non-availability, not
+an empty interval or a negative substance. A universal Cognition can
+determine non-possession of a particular Idea across past, present, and
+future relations, while the present dharma's own non-acquisition is
+restricted as stated. This is Śuddha Sattva's Transcendental Time Determination of
+non-possession: an ordered differentiation of absence, not a clock-time
+measure or an immutable lack.
+
 ## 7. Technical Vocabulary
 
 | Sanskrit | Controlled rendering | Determination in this unit |
@@ -234,6 +243,10 @@ The Bhāṣya witness proceeds to realm classifications, Path non-acquisition,
 and ordinary-person status because its quoted kārikā has a different second
 half. Those determinations are deferred to VAK 2.40 in the repository's
 official sequence.
+
+**Organon temporal note:** The asymmetric matrix belongs to the relation
+between the particular dharma and its non-acquisition, not to a universal
+claim that absence persists identically in every continuum.
 
 ## 10. OWL++ Seed
 

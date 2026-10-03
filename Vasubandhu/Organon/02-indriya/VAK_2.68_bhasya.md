@@ -123,23 +123,17 @@ multiple simultaneous successors of one occurrence.
 
 ## 7. Philosophical and Organon Study
 
-As Organon interpretation, the commentary shows why a class-level
-relation needs a more particular explanation. “Desire-realm
-unobscured-indeterminate” identifies the broad kind; creation-mind
-identifies the relevant member for one connection, while rebirth
-explains different connections. The relation gains content through
-those determinations.
+**Organon reading:** Transformation-mind and rebirth determine
+different temporal paths through the same classified field. The
+particular transformation-mind case cannot be inferred from the
+general neutral kind alone; the commentary identifies the precise
+determination that enters this relation.
 
-The distinction between eleven successors and nine predecessors also
-prevents an undirected notion of association from replacing succession.
-Knowing that two kinds are connected in one direction does not establish
-the reverse. The task of learning is to retain the direction and
-the occasion that make the connection intelligible.
-
-A future formal representation could record these distinctions, but
-the present translation does not claim to supply a complete executable
-rule system. The source's compressed exclusions and explicitly given
-contexts remain the grounds for the study.
+The eleven-successor/nine-predecessor difference preserves direction.
+These are temporally ordered relations within universal Cognition,
+not an undirected association or a prediction that applies to every
+continuum. The Organon reading follows the Bhāṣya's named occasions
+and exclusions rather than extending them into an algorithm.
 
 ## 8. Review Status
 

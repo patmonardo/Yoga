@@ -336,6 +336,15 @@ keeps acquisition as a distinct real dharma, possession as designation,
 and the capacities grounding that designation visibly separate
 as claims within the debate.
 
+**Organon reading (philosophical reconstruction, not Bhāṣya doctrine):**
+The faculty's governing efficacy is read here as a Transcendental Time
+Determination of Śuddha Sattva: acquisition names a temporally extended
+determination of availability within
+a continuum, while its present Idea may be unmanifest. Śuddha Sattva makes
+that distinction intelligible without converting the temporal relation into
+a clock interval or a second entity. The Vaibhāṣika and Vasubandhu accounts
+remain distinct explanations in the source.
+
 ## 10. Review Status
 
 Provisional thirty-sixth study of the restarted Indriyanirdeśa

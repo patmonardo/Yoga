@@ -86,9 +86,12 @@ presently manifests(dharma, event)
 continuum is endowed with(dharma)
 ```
 
-Calling the second determination a `viprayukta-saṃskāra` classifies it;
-it does not yet settle whether it must be accepted as an additional real
-entity. The ensuing discussion tests precisely that question.
+In Organon terms, acquisition and non-acquisition name a temporal relation
+of a dharma to a continuum across occurrences: possession is not identical
+with the dharma's manifestation in the present cognition. This addresses
+continuity in Śuddha Sattva without reducing it to clock-duration or positing
+an independent entity; the Bhāṣya's ensuing analysis tests precisely that
+ontological question.
 
 ## 7. Technical Vocabulary
 
@@ -198,6 +201,12 @@ But we should not yet compile `prāpti` as a free-standing stored object. The
 next discussion asks whether it is a real entity additional to continuum and
 dharma, or whether possession-language can be grounded in the continuum's
 transformed capacities. VAK 2.35 opens the problem; it does not decide it.
+
+**Organon temporal reading:** `Lābha` and `samanvāgama` articulate obtaining
+and continuing possession as relations of a dharma to one continuum across
+events. They make persistence intelligible without reducing it to
+clock-duration, and they do not determine whether `prāpti` is an independent
+entity. That ontological question remains open in this verse.
 
 ## 10. OWL++ Seed
 

@@ -161,17 +161,17 @@ class of afflictions answers another. The third faculty completes
 the succession while also governing a positive mode of liberated
 abiding.
 
-For Organon reconstruction, this makes knowledge practical through
-its determinate efficacy. A name for knowing is unfolded into the
-attainment it governs, the work of transformation attributed to it,
-and the accomplished life it supports. Practice is intelligible
-within these relations of knowing and transformation.
+**Organon reading:** The three faculties articulate successive
+Transcendental Time Determinations of Śuddha Sattva. “I shall know,”
+knowing, and having known are not merely grammatical future, present,
+and past; their ordered efficacy carries the path from seeing, through
+cultivation, to completed knowing and liberated abiding. The succession
+is path-specific, not a universal biography imposed on every continuum.
 
-This is a reconstruction of the passage's method. The Bhāṣya itself
+This remains a reconstruction of the passage's method. The Bhāṣya
 gives the three technical faculties and their two distributions;
-it does not substitute a general philosophy of developmental stages
-for the specific distinctions of seeing, cultivation, liberation,
-and parinirvāṇa.
+the Organon reading does not replace its specific distinctions or
+make parinirvāṇa another faculty-stage.
 
 ## 10. Review Status
 

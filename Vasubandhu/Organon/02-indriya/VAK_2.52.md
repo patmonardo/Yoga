@@ -105,6 +105,14 @@ superior cultivated determination
     ↛ deliberately inferior homogeneous result
 ```
 
+**Organon interpretation—not literal Bhāṣya doctrine.** Facultyhood is read
+as a Transcendental Time Determination of Śuddha Sattva by which a prior
+capacity continues in kind and may be strengthened into an equal or superior
+Path-capacity. This is
+causal priority and graded transmission, not a universal linear biography:
+Cognition names the universal form of this knowing, while Ideas are the
+particular levels, grades, and objects carried by the series.
+
 ## 7. Technical Vocabulary
 
 | Sanskrit | Controlled rendering | Determination in this unit |

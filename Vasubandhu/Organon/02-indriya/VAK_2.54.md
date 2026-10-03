@@ -100,6 +100,13 @@ vipāka:
         → dissimilar terminal result
 ```
 
+**Organon interpretation—not literal Bhāṣya doctrine.** The relevant
+Transcendental Time Determination of Śuddha Sattva distinguishes propagation
+through an afflicted field from a karmically appropriated continuum's delayed,
+terminal transformation. It is not a clocked life-story: Cognition names
+the universal determination by which these causal relations are known;
+Ideas are the particular afflicted contents and result-profiles that differ.
+
 ## 7. Technical Vocabulary
 
 | Sanskrit | Controlled rendering | Determination in this unit |

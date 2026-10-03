@@ -107,6 +107,14 @@ therefore:
     no redundant BirthOperator is required
 ```
 
+**Organon rendering (philosophical reconstruction, not literal Bhāṣya
+doctrine):** Birth marks the determinate transition by which causes and
+conditions make a particular Idea present. The universal Cognition of
+genesis comprehends that transition through its complete conditions;
+`jāti` need not be a second agent that moves the Idea through clock-time.
+As the faculty's Transcendental Time Determination of Śuddha Sattva,
+arising is immanent causal actualization, not a universal chronology.
+
 ## 7. Technical Vocabulary
 
 | Sanskrit | Controlled rendering | Determination in this unit |
@@ -252,6 +260,10 @@ The Vaibhāṣika closes by retaining the substantial marks as established
 doctrine despite the objections. That conclusion must remain attributed; the
 Bhāṣya's argumentative weight, however, strongly favors Vasubandhu's
 immanent causal analysis.
+
+**Organon temporal note:** This passage locates temporal determination in
+causal completeness and the arising it explains. It does not erase the
+defender's separately real mark, which the Bhāṣya continues to report.
 
 ## 10. OWL++ Seed
 

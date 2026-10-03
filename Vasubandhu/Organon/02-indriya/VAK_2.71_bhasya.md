@@ -100,17 +100,15 @@ this subdivision.
 
 ## 7. Philosophical and Organon Study
 
-As Organon interpretation, refinement must account for the actual
-distinctions it introduces. Naming a new feature does not establish
-the size or content of the resulting classification. Here the mode
-of obtaining wholesome mind explains three additional kinds; the
-remaining increase requires another division.
+**Organon reading:** Refinement articulates finer Transcendental Time
+Determinations within the previously established succession field.
+How wholesome mind is obtained—through application or birth—marks
+different modes of its temporal emergence; the additional divisions
+require further determinations in 2.72.
 
-This also limits what can be transferred from the twelve-kind account.
-A coarser kind's permitted successors do not automatically become
-permitted successors of every refined member. The extended commentary
-following 2.72 will specify the finer relations. The present paragraph
-establishes the distinction that makes that further inquiry possible.
+The finer kinds do not simply inherit every relation of the coarser
+twelvefold scheme. Their temporal relations must be established at
+their own level, as the extended commentary does.
 
 ## 8. Review Status
 

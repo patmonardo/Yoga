@@ -124,6 +124,8 @@ Organon rendering:
 This rendering does not identify `prahāṇa` with software deletion. It uses a
 technical analogy to preserve the Bhāṣya's instance-sensitive distinctions.
 
+**Transcendental Time determination (Organon, not translation):** Seeing, cultivation, and non-abandonment are different path-relations to a qualified faculty-instance, not a one-size-fits-all chronology of deleting and replacing faculties. Universal Cognition names the operations of seeing and cultivation; the particular Ideas are the faulted or faultless modes to which abandonment applies. A faculty-type may persist through distinct determinations, and non-abandonability does not imply that every event persists uninterruptedly.
+
 ## 7. Technical Vocabulary
 
 | Sanskrit | Project rendering | Determination |
@@ -226,6 +228,8 @@ Faultless(x)
 ```
 
 ## 9. Interpretive Note
+
+**Organon time-reading:** The path's temporal work is differentiated by what a mode requires: seeing removes some faults, cultivation addresses others, and faultlessness is preserved. This is not a universal linear biography or an instruction to destroy embodied life; it is a rule for classifying the path-relation of particular instances.
 
 VAK 2.13 completes the long `prakārabheda`, the classification of the
 twenty-two faculties by their different modes. Its final axis is explicitly

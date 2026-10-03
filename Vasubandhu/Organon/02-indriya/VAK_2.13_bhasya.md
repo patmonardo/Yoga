@@ -151,6 +151,8 @@ faculty or omitting pain from the nine.
 
 ## 9. Philosophical and Organon Study
 
+**Organon extension—not a literal Bhāṣya doctrine:** The path-operation is a Transcendental Time determination because it specifies how a faculty-instance stands toward transformation, not when it occurs on a clock. Universal Cognition names seeing, cultivation, or preservation as distinct operations; the particular Idea is the instance's outflow-status and faultlessness. This interpretation retains the Bhāṣya's distinction between a faculty's ethical quality and its abandonability.
+
 The passage shows why practical classification must preserve the
 qualified determination under discussion. A faculty-name alone
 does not say whether seeing, cultivation, or non-abandonment applies.

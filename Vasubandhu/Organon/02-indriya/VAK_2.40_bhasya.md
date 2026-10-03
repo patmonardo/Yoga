@@ -208,6 +208,14 @@ and the critical calculation. A reconstruction should preserve
 all three rather than replace them with a general maxim against
 representing relations as entities.
 
+**Organon reading (philosophical reconstruction, not Bhāṣya doctrine):**
+The path-faculty's governing power is a Transcendental Time Determination of
+Śuddha Sattva: relinquishment of ordinary status is a real change in the continuum's
+temporal determination, not merely a new label or the next point on a
+universal life-sequence. The acquisition-regress exposes the cost of
+reifying that status at every stage; the source's reciprocal-possession
+defense and criticism remain attributed to their speakers.
+
 ## 10. Review Status
 
 Provisional fortieth study of the restarted Indriyanirdeśa Bhāṣya

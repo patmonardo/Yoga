@@ -199,6 +199,13 @@ are different determinations; the present analysis supplies the
 former as a reported doctrine and leaves the latter to further
 investigation.
 
+**Organon reading:** The ten factors are universal cognitive determinations
+of each event's articulated form, not a succession through which cognition
+is assembled over clock-time. The event's particular Idea, its object-
+content, is not another member of the ten. This offers an Organon account
+of universality without turning the reported doctrine into a claim that
+every cognition is equally adequate or realized.
+
 ## 10. Review Status
 
 Provisional twenty-fourth study of the restarted Indriyanirdeśa

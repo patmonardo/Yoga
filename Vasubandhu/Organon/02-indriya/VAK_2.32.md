@@ -107,10 +107,10 @@ Kārikā.
 
 Restrained Organon rendering:
 
-> A compressed equation may encode grounding, consequence, or classificatory proximity rather than strict identity. The mental-state model must preserve the relation type and the event's reference-condition before merging two factor names.
+> These ethical functions are differentiated by their relation to a present object, person, or normative condition, not by appearing as successive faculties in time. Faith and respect, and shame and moral caution, may stand in grounding or consequential relations without becoming identical. In Organon terms, the universal cognitive occurrence can thus receive distinct particular ethical determinations while the commentary's competing analyses remain visible.
 
-This relational reading follows the Bhāṣya's explicit fourfold tests and
-alternative explanations.
+This Organon reading follows the Bhāṣya's explicit fourfold tests and
+alternative explanations; it does not decide among them.
 
 ## 7. Technical Vocabulary
 
@@ -262,7 +262,7 @@ FactorRelation =
     | Opposes
     | SharesClassification
 
-FactorState<t> = {
+FactorState<cognitiveEvent> = {
     factor,
     relation,
     referenceCondition,
@@ -273,6 +273,13 @@ FactorState<t> = {
 
 The Bhāṣya's labor is precisely to prevent the Kārikā's compressed equations
 from erasing these relations.
+
+**Organon temporal reading:** The factor's relation to a person, dharma, or
+normative danger particularizes the ethical determination of a cognitive
+event; it does not introduce a new faculty-stage. The underlying Cognition
+remains the universal act, while the particular Idea/reference and the
+ethical factor's mode are distinguished. Grounding, following, and identity
+remain separate relations rather than chronological steps.
 
 ## 10. OWL++ Seed
 

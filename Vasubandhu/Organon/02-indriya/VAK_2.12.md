@@ -122,6 +122,8 @@ Organon rendering:
 The language of Agent profiles is a project reconstruction. The text
 classifies faculties by `pratisaṃyoga`, connection with the three realms.
 
+**Transcendental Time determination (Organon, not translation):** Realm-affiliation specifies a conditioned horizon of possible faculty-operations, not a chronological ladder that every continuum must ascend. Universal Cognition names the determinate mode of experience permitted by that horizon; the particular Ideas are the realm-linked faculty-configurations and their exclusions. The stainless triad's freedom from all three realms is not a fourth, higher rebirth-stage.
+
 ## 7. Technical Vocabulary
 
 | Sanskrit | Project rendering | Determination |
@@ -217,6 +219,8 @@ FormlessRealmCompatible
 ```
 
 ## 9. Interpretive Note
+
+**Organon time-reading:** The cumulative exclusions describe three distinct configurations of conditioned existence. They cannot be read as a universal biography of desire, form, and formlessness, nor can a higher realm by itself stand for realization. Temporal determination here concerns the conditions under which faculties can be disclosed and coordinated, while path-realization remains a separate relation.
 
 VAK 2.12 adds realm-connection to the growing multidimensional account of a
 faculty. The same `indriya` system has now been classified by function,

@@ -119,19 +119,18 @@ objector is introduced in this short expository unit.
 
 ## 7. Philosophical and Organon Study
 
-As Organon interpretation, the passage makes classification answerable
-to the question it prepares us to ask. Distinguishing the kinds is
-a beginning of the succession analysis; membership alone does not
-explain how one kind can follow another. The text itself marks this
-difference between the general condition and the particular rule
-still to be stated.
+**Organon reading:** The twelve kinds distinguish particular
+Transcendental Time Determinations within the chapter's account of
+Cognition. Realm, ethical status, obscuration, and training status
+specify different modes of the continuum; they do not yet explain
+how one mode succeeds another. The classification prepares the
+succession inquiry without being mistaken for its completed answer.
 
-This is a precise place to retain our distinction between beginning
-mediation with a genus and exhausting mediation in genus membership.
-The twelve kinds make the terms available for inquiry; the following
-commentary must establish their relations. Treating the enumeration
-as an already complete account of a cognitive continuum would omit
-that further work.
+The distinction between universal Cognition and these particular
+determinations matters here: the twelvefold scheme articulates
+specific forms and statuses, not twelve universal Cognitions.
+Succession and its grounds must still be established by the following
+commentary.
 
 ## 8. Review Status
 

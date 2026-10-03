@@ -143,6 +143,13 @@ dharma. The passage does not itself identify their articulation with
 Samādhi or divide causes and conditions into exclusively objective
 and subjective domains.
 
+As a separate Organon reading, faculties are Transcendental Time
+Determinations of Śuddha Sattva indexed to the conditioned dharma's state:
+present result, opening for succession, object of present apprehension, or
+non-obstruction. Cognition is the universal act-form; a particular Idea is
+the result or object in the state specified by its relation, not a spatial
+occupant or a timestamp.
+
 ## 7. Review Status
 
 Provisional continuous study checked against the research kārikā and

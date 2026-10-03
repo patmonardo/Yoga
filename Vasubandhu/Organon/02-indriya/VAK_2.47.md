@@ -92,6 +92,14 @@ not a hypostatized Name-substance
 but meaningful sound organized by convention and cognitive synthesis
 ```
 
+**Organon rendering (philosophical reconstruction, not literal Bhāṣya
+doctrine):** A sentence's meaning becomes available through a temporal
+order: phonetic Ideas occur successively, convention governs their
+particular application, and Cognition retains and synthesizes the sequence
+as one intelligible expression. This is a Transcendental Time Determination
+of Śuddha Sattva, not a simultaneous acoustic object or a claim that
+meaning is measured by elapsed clock-time.
+
 ## 7. Technical Vocabulary
 
 | Sanskrit | Controlled rendering | Determination in this unit |
@@ -247,6 +255,11 @@ Knowing(expression) requires:
 The kārikā itself states the linguistic groups and their classifications. The
 anti-reification argument belongs to Vasubandhu's Bhāṣya; the temporal
 synthesis and Agent architecture are the present Organon reconstruction.
+
+**Organon temporal note:** The sentence's completed Idea depends on retaining
+the differences among earlier and later sounds. Universal Cognition names
+that synthesis; it does not turn each particular phonetic event into an
+independent Name-substance.
 
 ## 10. OWL++ Seed
 

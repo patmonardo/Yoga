@@ -102,6 +102,8 @@ Organon rendering:
 reconstructions. The textual claims concern repeated attainment and necessary
 co-possession of faculties.
 
+**Transcendental Time determination (Organon, not translation):** Nine counts an attainment-event; eleven gathers alternatives across repeated attainments by one person. This is a distinction between event-local and historical scope, not a universal life-sequence. The universal Cognition of arhatship remains stable across events, while the particular Ideas include the mutually exclusive feeling-faculties realized on different occasions. The life–mind–neutral-feeling triad, by contrast, is necessary possession, not a claim of constant manifest feeling.
+
 ## 7. Technical Vocabulary
 
 | Sanskrit | Project rendering | Determination |
@@ -180,6 +182,8 @@ Faculty f ∉ T
 ```
 
 ## 9. Interpretive Note
+
+**Organon time-reading:** The Bhāṣya's 9/11 resolution requires a time-indexed account: union over a person's possible attainment-events differs from the configuration counted in one event. This is neither clock-time measurement nor a universal biography; it preserves the local possibility of falling away and reattaining. Possession of the necessary triad remains distinct from what is manifest in any one cognition.
 
 VAK 2.17 performs a logical cleanup essential to the faculty calculus. The
 previous verse said that arhatship is attained through nine faculties. The

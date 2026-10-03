@@ -143,18 +143,18 @@ Explaining faculty-status requires identifying which of these
 relations is at issue, rather than treating all efficacy as one
 undifferentiated power.
 
-For Organon reconstruction, the purificatory clause is especially
-productive. Restraining an opposed activity and bringing a path
-into operation are distinguishable tasks within transformation.
-The passage gives reason to study their relation without reducing
-positive development to the mere absence of obstruction.
+**Organon reading:** These are temporal determinations of Śuddha
+Sattva: persistence, affective latency, and transformative practice.
+They are not clock-time intervals or a claim that every life follows
+one biography. They articulate how a continuum persists, bears
+afflictive conditions, and is redirected. The two purificatory verbs
+preserve both sides of that movement: checking obstruction and
+bringing the path forward.
 
-This reconstruction remains grounded in the two stated verbs.
-The paragraph does not offer a universal definition of purification,
-nor does it demonstrate that checking afflictions is already their
-final elimination. Its accomplishment is local and precise: it
-explains why the five beginning with faith are faculties with
-respect to purification.
+This reading remains distinct from the close translation. The
+Bhāṣya gives no universal definition of purification and does not
+equate checking afflictions with their final elimination; its local
+claim is that the five beginning with faith govern purification.
 
 ## 10. Review Status
 

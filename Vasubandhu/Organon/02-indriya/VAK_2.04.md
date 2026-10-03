@@ -91,11 +91,11 @@ the present life.
 
 ## 6. Philosophical Translation
 
-> The final three faculties govern distinct stages of path-knowledge. The first carries what remains unknown into direct seeing; the second continues the work through cultivation; the third belongs to completed knowing, liberated abiding, and the condition necessary for parinirvāṇa. Their unity is neither a timeless knower nor a single undifferentiated insight, but an ordered efficacy by which one conditioned path-stage makes the next attainable.
+> The final three faculties govern distinct stages of path-knowledge. The first carries what remains unknown into direct seeing; the second continues the work through cultivation; the third belongs to completed knowing, liberated abiding, and the condition necessary for parinirvāṇa. Their unity is neither a timeless knower nor a single undifferentiated insight, but ordered Transcendental Time Determinations through which one path-stage makes the next attainable.
 
 Organon rendering:
 
-> Indriya now determines the practical succession of knowing within the Kośa's Techne: knowledge as task, knowledge operating through cultivation, and knowledge completed in liberated mind. These faculties govern transformations of the continuum through the Kośa path and its attained results.
+> The three faculties articulate successive Transcendental Time Determinations of Śuddha Sattva: knowing as task, knowing through cultivation, and completed knowing in liberated mind. Their governance makes one path-determination the condition for the next, while the third marks liberated abiding and the limit of the succession in parinirvāṇa.
 
 ## 7. Technical Vocabulary
 
@@ -177,8 +177,9 @@ account of liberation.
 The Bhāṣya's second explanation keeps the stages practical. Direct seeing
 abandons one class of affliction; repeated cultivation abandons another;
 completed knowing makes possible the present experience of liberation's joy
-and happiness. Knowledge here is measured by the transformation it governs,
-not by the accumulation of propositions.
+and happiness. In the Organon reading these are temporal determinations,
+not merely tenses or a universal biography. Knowledge is measured here by
+the transformation it governs, not by the accumulation of propositions.
 
 `Ājñātāvin`, “one who has known,” names completed attainment within this
 ordered path. The Kārikā's positive result is the succession of knowledge as

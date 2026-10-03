@@ -100,6 +100,14 @@ This study interpretation draws on the commentary. It does not make
 all conditioned events mental events or attribute an object-condition
 to every material process.
 
+**Organon interpretation—not literal Bhāṣya doctrine.** Faculties are
+Transcendental Time Determinations of Śuddha Sattva: the mind-condition
+orders a successor, whereas an object may retain its object-character
+without being a present mental antecedent; predominance names a wider
+enabling relation. This is not one linear clock: Cognition names the
+universal determination of knowing, and the particular Idea is the content
+that can be apprehended across distinct temporal positions.
+
 ## 7. Technical Vocabulary
 
 | Term | Controlled rendering | Bhāṣya determination |

@@ -137,6 +137,8 @@ Organon rendering:
 categories are initial acquisition, relinking, birth-mode, realm, and
 maturation-result.
 
+**Transcendental Time determination (Organon, not translation):** Initial acquisition at relinking marks a genesis within a newly established continuum, but this is not an absolute beginning of being or a universal developmental schedule. Universal Cognition distinguishes initial maturation-acquisition from mere presence; the particular Ideas are the realm- and birth-mode-specific faculty-sets first acquired as `vipāka`. Other faculties can already be present under different causal determinations.
+
 ## 7. Technical Vocabulary
 
 | Sanskrit | Project rendering | Determination |
@@ -223,6 +225,8 @@ This continues VAK 2.10's distinction between faculty identity and causal
 status.
 
 ## 9. Interpretive Note
+
+**Organon time-reading:** The verse locates a conditioned threshold—what is received as maturation at relinking—not a complete inventory of consciousness at that threshold. The changing counts track realm and generation-mode, while the exclusion of present mind and feeling from the `vipāka` count shows why temporal beginning cannot be reduced to a simple “first moment contains everything” model.
 
 VAK 2.14 begins `lābha`, the acquisition analysis, after VAK 2.13 closes the
 long classification of faculty-types. The question is genetic: which

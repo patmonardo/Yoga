@@ -505,6 +505,13 @@ a designation-based account must explain recognition and conditioned
 change without simply deleting them. The source examines both
 burdens and ends with the defender maintaining the doctrine.
 
+**Organon reading (philosophical reconstruction, not Bhāṣya doctrine):**
+The faculty's governing efficacy is read as a Transcendental Time
+Determination of Śuddha Sattva: arising is a transition internal to the causal history of
+the particular dharma, not as an independent event added after its causes.
+This is the temporal determination of Śuddha Sattva in this unit; it does
+not settle the source's dispute by translating `jāti` as a mere name.
+
 ## 10. Review Status
 
 Provisional forty-sixth study of the restarted Indriyanirdeśa

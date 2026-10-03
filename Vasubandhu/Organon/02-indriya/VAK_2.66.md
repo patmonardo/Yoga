@@ -169,15 +169,15 @@ The running source's page label 101.13
 within the page-103 passage is anomalous and does not change the
 order. Independent collation would be needed to finalize orthography.
 
-**Organon interpretation.** This is a concrete instance of classification
-preparing mediation: the kinds are distinguished so their succession
-can be investigated. Their names do not themselves explain the passage
-from one to another. Learning the system requires holding the domains
-and statuses apart while discovering the permitted relations among them.
+**Organon interpretation.** The twelve kinds distinguish particular
+Transcendental Time Determinations within universal Cognition. Realm,
+ethical status, obscuration, and training status specify different modes
+of the continuum; they do not yet explain how one mode succeeds another.
+The classification prepares the succession inquiry without completing it.
 
-A model of cognitive succession should therefore preserve these twelve
-kinds without treating the count as a completed theory of cognition.
-The transition rules and their grounds are the next task.
+The transition rules and their grounds are the next task. The twelvefold
+scheme is not twelve universal Cognitions, but a map of particular
+determinations to be related in the following verses.
 
 **Review status.** Provisional polished study checked against the research
 kārikā, research Bhāṣya, and running commentary at 103.09–18. Originals

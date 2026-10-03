@@ -207,6 +207,8 @@ are unreal or impossible.
 
 ## 9. Philosophical and Organon Study
 
+**Organon extension—not a literal Bhāṣya doctrine:** Read as Transcendental Time Determinations of Śuddha Sattva, the paired courses disclose functional order rather than clock-time: the path has support, origination, persistence, and fruition, but its temporal form is not a universal biography. This interpretation preserves the Bhāṣya's alternative-account marker and its distinct faculty assignments; it does not attribute the Organon vocabulary to the commentary.
+
 The alternative account gives two different courses a common
 explanatory form: support, arising, persistence, and experience.
 Their respective faculties differ, yet their functional positions

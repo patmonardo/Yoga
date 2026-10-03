@@ -102,10 +102,10 @@ The Bhāṣya does not settle a single uncontested functional definition.
 
 Restrained Organon rendering:
 
-> A factor may belong to a stage-profile without occurring in every moment of that stage. Functional identity therefore requires both a scale of attribution and a discriminant stronger than relative intensity. Comparative elevation and self-saturating attachment must likewise remain distinct state transformations.
+> The distinction between a factor attributed to a bhūmi and one attributed to a kṣaṇa is a difference of explanatory scale, not a translation of contemplative ground into clock-duration. The proposals about coarse and subtle consciousness remain unresolved: influence, intensity, and difference in kind cannot simply be identified. By contrast, conceit and intoxication determine a moment through different relations—comparison with others versus attachment to one's own condition.
 
-This rendering abstracts the Bhāṣya's explicit contrast between attribution by
-`bhūmi` and attribution by `kṣaṇa`.
+This Organon rendering preserves the Bhāṣya's explicit contrast between
+attribution by `bhūmi` and attribution by `kṣaṇa`.
 
 ## 7. Technical Vocabulary
 
@@ -219,10 +219,11 @@ kind-difference argument demands a positive discriminant. Merely calling one
 stronger and the other weaker cannot establish two dharmas, because each
 alleged kind can itself admit degrees.
 
-The non-simultaneity account then introduces the decisive time-schema:
+The non-simultaneity account then introduces a decisive distinction of
+attributional scope:
 
 ```text
-bhūmi-level possession
+bhūmi-level attribution
     ≠ kṣaṇa-level co-presence
 ```
 
@@ -253,6 +254,12 @@ StageProfile membership
 The passage closes the explanations of consciousness and mental factors by
 class. It does not eliminate the recorded doctrinal alternatives; their
 unresolved status is itself part of the scientific account.
+
+**Organon temporal reading:** Bhūmi and kṣaṇa mark different temporal
+determinations: the range attributed to a contemplative ground and the
+actual co-presence in an event. Neither is reducible to a clock-duration.
+The proposed non-simultaneity of vitarka and vicāra remains one disputed
+account; do not turn it into the chapter's settled chronology.
 
 ## 10. OWL++ Seed
 

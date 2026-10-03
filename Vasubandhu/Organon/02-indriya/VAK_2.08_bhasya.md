@@ -173,6 +173,8 @@ quoted explanation.
 
 ## 9. Philosophical and Organon Study
 
+**Organon extension—not a literal Bhāṣya doctrine:** Transcendental Time here concerns the differentiation of affective operation, not elapsed time: bodily and mental modes divide when their arising or effect differs, while neutral attending remains one. Universal Cognition names that operative distinction; the Ideas are the particular feeling-tones and modes being classified. The extension leaves the Bhāṣya's “for the most part” and its limits on `vikalpana` intact.
+
 The commentary asks what warrants a classificatory division.
 Bodily and mental modes are distinguishable, yet that distinction
 alone does not settle how many feeling-faculties to count. The

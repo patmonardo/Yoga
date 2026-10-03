@@ -105,6 +105,8 @@ Organon rendering:
 reconstructions. The textual doctrine concerns the exact faculties necessarily
 possessed with each path faculty.
 
+**Transcendental Time determination (Organon, not translation):** The realization designations differentiate prospective knowing, operative knowledge, and completed knowing; these are universal Cognitions of path-determination, not measures of how much realization someone has. Their particular Ideas are the distinct faculty-closures enumerated here, including the prospective case's body and feeling set. Necessary possession must not be mistaken for simultaneous operation of every listed faculty in one path-moment.
+
 ## 7. Technical Vocabulary
 
 | Sanskrit | Project rendering | Determination |
@@ -194,6 +196,8 @@ Count(Closure(x)) = Count(Closure(y))
 ```
 
 ## 9. Interpretive Note
+
+**Organon time-reading:** The faculty-closures specify what is possessed under each path-determination, while the prior path account supplies the temporal role of the realization faculty. The sets do not themselves establish a causal mechanism or a single event containing all their members. Thirteen is not more realization than eleven; each Ideas-set expresses its own particular condition.
 
 VAK 2.19 first repairs the open syntax of VAK 2.18. Its initial “with eight”
 belongs to the female-faculty group left waiting at the prior verse boundary.

@@ -243,6 +243,8 @@ in the local witness.
 
 ## 9. Philosophical and Organon Study
 
+**Organon extension—not a literal Bhāṣya doctrine:** The path-names can be read as Transcendental Time Determinations of Śuddha Sattva: prospective knowing, cultivated knowing, and completed knowing are universal cognitive forms, while their Ideas are the particular objects and tasks specified by the commentary. This reading preserves both the nine components' context-sensitive outflow-status and the triad's exclusive stainlessness; it does not claim that all components are simultaneous or that the Bhāṣya uses this vocabulary.
+
 The passage brings two relations into focus: a faculty-type can
 receive a path-designation through the task in which it operates,
 and that type can have different outflow-status across instances.

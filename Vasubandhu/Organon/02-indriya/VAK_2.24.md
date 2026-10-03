@@ -95,11 +95,11 @@ efficacy in every event.
 
 Organon rendering:
 
-> The Kośa supplies the invariant mental interface of the Agent. Every mental state instantiates ten operations, including discrimination and stabilization. Path development does not create cognition from nothing; it transforms the quality, range, and coordination of operations already structurally present.
+> The ten factors determine every consciousness as a co-articulated cognitive occurrence, not as ten additions arriving in succession. They are universal cognitive determinations of the event, while the particular Idea is its object-content and is not thereby another factor in the list. This universality describes the structure of an occurrence; it neither makes every occurrence equally adequate nor assigns it a predetermined path-stage.
 
-“Interface,” “Agent,” and “operations” are Organon reconstructions. The
-textual claim is the reported Vaibhāṣika doctrine that ten mental factors
-occur together in every consciousness.
+This is an Organon interpretation of the reported Vaibhāṣika doctrine that
+ten mental factors occur together in every consciousness, not an addition to
+the conventional translation.
 
 ## 7. Technical Vocabulary
 
@@ -258,6 +258,13 @@ difficult than subtle differences of taste among medicinal plants. The
 taxonomy is therefore not naïve introspection. The Agent will need explicit
 discriminative rules to infer functional distinctions that are not separately
 available as obvious appearances.
+
+**Organon temporal reading:** The ten are universal cognitive
+determinations because they co-occur in each cognition-event, not because
+they are powers acquired successively over time. Cognition is the universal
+articulation; the particular Idea is its object-content. Their universal
+presence supplies a structure that path-practice may transform, not a claim
+that every cognition is already perfected.
 
 ## 10. OWL++ Seed
 

@@ -298,6 +298,13 @@ of its result. These distinctions make the inquiry into grounds and
 conditions more determinate. “Transformation” alone would not supply
 that knowledge; the particular relation and its limits must be learned.
 
+On the Organon reading, faculties are Transcendental Time Determinations of
+Śuddha Sattva: pervasive affliction extends through a field, whereas
+maturation transforms an appropriated continuum toward a delayed,
+dissimilar result. Cognition names the universal determination by which
+these relations are known; the particular Ideas are the afflicted contents
+and terminal result, not points on one clocked life-course.
+
 ## 10. Review Status
 
 Provisional fifty-fourth study of the restarted Indriyanirdeśa Bhāṣya

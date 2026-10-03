@@ -93,6 +93,15 @@ with cessation through discriminative comprehension: its acquisition may be
 ordinary, trainee, or beyond-training in status according to the relevant
 mode of attainment.
 
+**Organon rendering (philosophical reconstruction, not literal Bhāṣya
+doctrine):** The verse makes acquisition's temporal determination independent
+of the acquired dharma's time: a past, present, or future Idea may be related
+to acquisition in any of those times. Read as Transcendental Time
+Determinations of Śuddha Sattva, these are indexed modes of a continuum's
+availability, not a universal biography. Cognition names the universal
+classificatory determination; each acquisition-status is a particular Idea
+of how that continuum relates to a dharma.
+
 ## 7. Technical Vocabulary
 
 | Sanskrit | Controlled rendering | Determination in this unit |
@@ -223,6 +232,11 @@ from the continuum's capacities, then VAK 2.37 specifies the contextual
 indices required by that derivation. The verse does not yet supply an
 implementation algorithm; it supplies the schema that any adequate
 implementation must preserve.
+
+**Organon temporal note:** Time here is a two-place determination—the time of
+the dharma and the time of its acquisition must not be collapsed. This is a
+philosophical reading of the matrix, not an added rule in the conventional
+translation.
 
 ## 10. OWL++ Seed
 

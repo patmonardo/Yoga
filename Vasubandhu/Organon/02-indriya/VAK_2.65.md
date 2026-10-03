@@ -110,6 +110,15 @@ This study interpretation preserves the different bases of enumeration.
 The numbers two, five, three, and one cannot all be read as counts of
 members of the same six-item list.
 
+**Organon interpretation—not literal Bhāṣya doctrine.** Faculties as
+Transcendental Time Determinations of Śuddha Sattva determine how sensible
+capacities and their fields become available:
+elemental cooperation, homogeneous continuity, support of derived matter,
+and maturation are distinct temporal relations, not a chronology of
+substances. Cognition names the universal determination of sensible
+knowing; particular Ideas are the elemental, derived, and karmic contents
+whose relations the verse distinguishes.
+
 ## 7. Technical Vocabulary
 
 | Term | Controlled rendering | Determination |

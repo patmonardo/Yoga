@@ -295,6 +295,14 @@ its meaning if these levels are silently interchanged. The final
 appeal to examining meaning is therefore continuous with the
 argument, not merely a general maxim appended to it.
 
+**Organon reading:** The co-arising rule constrains the material support
+within which faculty-bearing embodiment is possible; it does not make
+elements or faculties stages in a temporal succession. Elemental
+co-occurrence, perceptible predominance, causal activity, and seed-presence
+remain different relations. This philosophical extension does not identify
+the material count with a faculty-count or claim that the Bhāṣya teaches a
+Transcendental Time doctrine.
+
 ## 10. Review Status
 
 Provisional twenty-second study of the restarted Indriyanirdeśa

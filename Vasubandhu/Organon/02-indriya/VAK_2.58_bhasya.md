@@ -132,6 +132,12 @@ must be understood through attainment. These distinctions advance
 learning without requiring a general claim that every effect already
 exists in its cause.
 
+On the Organon reading, faculties are Transcendental Time Determinations of
+Śuddha Sattva: operative production and wider predominance can converge on
+one result without becoming one relation. Cognition is the universal
+operative form of knowing; the particular Idea is that result considered
+through its direct source, enabling field, and mode of attainment or arising.
+
 ## 10. Review Status
 
 Provisional fifty-eighth study of the restarted Indriyanirdeśa Bhāṣya

@@ -167,12 +167,17 @@ summary explicitly states *atadvataḥ*, “for one not possessing that,”
 which supports distinguishing new acquisition from continued possession.
 A continuous Bhāṣya pass should register the problematic local wording.
 
-**Organon interpretation.** Learning to distinguish a present act from
-an acquired capacity prevents a classificatory shortcut. Neither the
-name of the manifest kind nor its permissible successor list tells us
-what has just been obtained. The chapter adds the circumstances that
-make that further determination possible. This is a project interpretation,
-not a claim that the source describes a modern computational system.
+**Organon interpretation.** The close distinguishes the present occurrence
+of a mind-kind from its acquisition and possession. These are different
+temporal determinations: a kind may be acquired without being manifest,
+and a present occurrence need not be its first acquisition. Decline and
+reacquisition therefore belong to the account of a continuum's temporal
+articulation, not to immediate succession alone.
+
+The chapter's movement from faculty-governed processes through succession
+to acquisition gives the Organon a layered account of temporal
+determination within Śuddha Sattva. This remains a philosophical
+reconstruction, distinct from the conventional translation and colophon.
 
 **Chapter close and review status.** The source closes the discussion
 occasioned by conditions at 110.05 and Indriyanirdeśa at 110.06–08.

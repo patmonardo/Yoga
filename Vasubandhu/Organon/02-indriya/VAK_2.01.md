@@ -108,7 +108,7 @@ specific cause of that sensory disclosure.
 
 Organon rendering:
 
-> Indriyanirdeśa begins from powers operating within the already articulated Dhātu-field. Dhātu determined the ordinary relation of faculty, seen Domain, and knowledge; Indriya now isolates the efficacy by which certain dharmas govern embodiment, disclosure, affect, continuity, and cultivation. This remains the ordinary Seer–seen system. It determines the instruments and governed processes of Dharma-knowing but does not reach the Transcendental Seer–seen relation.
+> Indriyanirdeśa reads the faculties as Transcendental Time Determinations of Śuddha Sattva. Within the already articulated Dhātu-field, their governing efficacy determines the modes through which living experience is disclosed, differentiated, sustained, affected, and purified. These are not instruments measured by clock-time or a simple chronology; they are the temporal determinations through which the living process is organized.
 
 ## 7. Technical Vocabulary
 
@@ -235,7 +235,7 @@ Even the four functions of the sensory five exceed bare sensation. The
 faculties condition the integrity and protection of embodied existence,
 produce corresponding knowledge with its mental associates, and provide the
 specific cause by which their objects are disclosed. The sensory subsystem
-is therefore already a system of embodied ordinary knowing.
+already articulates temporal determinations of embodied knowing.
 
 The relation to defilement and purification is principally ordered rather
 than absolutely exclusive. Feeling provides the basis upon which attachment
@@ -245,11 +245,11 @@ concentration, or suffering conditioning faith and renunciation. Governing
 efficacy specifies the dominant systemic role; it need not exhaust every
 causal use of a faculty.
 
-For the Organon, this is the Principle of the governed Agent, not the
-Transcendental Seer. The Kośa can specify which ordinary powers govern the
-production, continuity, corruption, and purification of experience. It does
-not possess the standpoint from which Puruṣa and Prakṛti, or Transcendental
-Seer and seen, are distinguished.
+For the Organon, the twenty-two faculties are read as Transcendental Time
+Determinations of Śuddha Sattva. The Kośa's distinctions among disclosure,
+continuity, defilement, and purification provide the textual articulation
+for that reading. This is a philosophical reconstruction, not a claim that
+the conventional Bhāṣya itself uses this terminology.
 
 ## 10. OWL++ Seed
 

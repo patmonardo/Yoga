@@ -267,6 +267,13 @@ for. The commentary's deferral should remain visible in an
 Organon analysis, rather than disappear into a diagram suggesting
 that all dependencies have been resolved.
 
+**Organon reading:** The wholesome ground specifies a coordinated ethical
+determination of a cognitive occurrence and thus gives concrete form to
+the preparatory side of purification. It is not itself an additional
+faculty or proof that every wholesome moment is a path-attainment. The
+particular object-content cannot substitute for the distinct functions
+and relations the Bhāṣya carefully preserves.
+
 ## 10. Review Status
 
 Provisional twenty-fifth study of the restarted Indriyanirdeśa

@@ -112,6 +112,14 @@ causes with an exclusively objective domain or conditions with an
 exclusively subjective domain. The grouping explicitly links the two
 classifications.
 
+**Organon interpretation—not literal Bhāṣya doctrine.** The Transcendental
+Time Determination of Śuddha Sattva here is a change of explanatory register:
+five cause-types are re-read within the cause-condition without becoming a
+new chronological
+stage. Facultyhood names the power to organize such determinate relations;
+Cognition is their universal intelligible form, while each Idea is the
+particular cause or condition so classified.
+
 ## 7. Technical Vocabulary
 
 | Term | Controlled rendering | Determination |

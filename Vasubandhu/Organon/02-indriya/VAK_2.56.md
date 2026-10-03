@@ -97,6 +97,14 @@ pauruṣa:
     manifestation of a dharma's operative efficacy
 ```
 
+**Organon interpretation—not literal Bhāṣya doctrine.** These fruit-types
+articulate distinct Transcendental Time Determinations of Śuddha Sattva:
+delayed individual maturation, present enabling or non-obstruction,
+same-kind continuation, and operative efficacy. A faculty is not
+interchangeable with a cause; rather, Cognition
+is the universal determination of knowing such relations, and each Idea is
+the particular fruit-profile disclosed through one of them.
+
 ## 7. Technical Vocabulary
 
 | Sanskrit | Controlled rendering | Determination in this unit |

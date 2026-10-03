@@ -132,6 +132,8 @@ This is a formal reconstruction of the Bhāṣya's classification. It does not
 turn `kuśala`, `akuśala`, and `avyākṛta` into modern programming types at the
 textual level.
 
+**Transcendental Time determination (Organon, not translation):** Ethical quality qualifies a faculty's operation; it is not a later chronological stage or a synonym for facultyhood. Universal Cognition names the distinction among wholesome, unwholesome, and indeterminate modes, while the particular Ideas are the ethical qualities permitted for each faculty-instance. Śuddha Sattva's temporal articulation must not be collapsed into `kuśala`: the path-directed eight are wholesome, but the material and life faculties remain indispensable and indeterminate.
+
 ## 7. Technical Vocabulary
 
 | Sanskrit | Project rendering | Determination |
@@ -246,6 +248,8 @@ SavipakaTwofold
 ```
 
 ## 9. Interpretive Note
+
+**Organon time-reading:** The passage places unlike functions within one system without making them episodes in a moral biography: the same mind or feeling faculty can be qualified differently, distress has only two ethical possibilities, and the path-eight are fixed as wholesome. These are modal limits on operation, not an inferred progression from indeterminate through unwholesome to wholesome.
 
 VAK 2.11 begins by closing the unfinished count of VAK 2.10. The ten
 faculties that can either possess maturation as future result or not are mind,

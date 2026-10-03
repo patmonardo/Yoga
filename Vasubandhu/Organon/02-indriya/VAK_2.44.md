@@ -103,6 +103,14 @@ Sage:
     complete Path-sequence → awakening → immediate acquisition
 ```
 
+**Organon rendering (philosophical reconstruction, not literal Bhāṣya
+doctrine):** Preparation, first acquisition, mastery, and awakened
+actualization are different temporal relations, not compulsory stations on
+one life-story. Practice can prepare and stabilize an Idea; in the Sage's
+case the complete Path and awakening make immediate acquisition possible.
+These are Transcendental Time Determinations of Śuddha Sattva: readiness,
+attainment, and available operation, not durations measured by a clock.
+
 ## 7. Technical Vocabulary
 
 | Sanskrit | Controlled rendering | Determination in this unit |
@@ -257,6 +265,10 @@ The model remains conditioned Practical Reason. Its value is precisely the
 effort-side discipline: Grace does not exempt the Agent from typed supports,
 genetic provenance, cultivated mastery, or the labor of making Knowledge
 function.
+
+**Organon temporal note:** The attainment's genesis includes eligible
+support, path-history, and mode of acquisition. The Sage's case prevents
+preparation from being mistaken for a universal chronological prerequisite.
 
 ## 10. OWL++ Seed
 

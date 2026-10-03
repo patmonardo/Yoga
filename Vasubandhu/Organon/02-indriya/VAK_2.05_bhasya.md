@@ -188,19 +188,18 @@ intends. The objector exposes this by presenting further cases of
 governing efficacy; the answer states the functions for which
 faculty-status is being assigned.
 
-For Organon reconstruction, this is a useful distinction between
-establishing a relation and determining its place in a system.
-One must identify both what a power governs and why that governing
-relation belongs within the particular enumeration. The genital
-example makes the distinction concrete: overlapping bodily reference
-does not make the proposed and accepted functions interchangeable.
+**Organon reading:** The six functions articulate the Transcendental
+Time Determinations of Śuddha Sattva: support, differentiation,
+persistence, defilement, preparation for purification, and
+purification. They are dimensions of a living process, not six
+consecutive clock-time stages or a mandatory biography. The
+enumeration is complete relative to this architecture; it does not
+deny the reality of other governing powers.
 
-The six functions also keep constitution, persistence, defilement,
-provision, and purification in relation without reducing them to
-one process. Their order is explanatory here; the commentary does
-not narrate a mandatory biography through six successive stages.
-This Organon reading follows the passage's classificatory work
-while keeping its claim of completeness tied to its stated scope.
+The genital example preserves the distinction between a part and
+the configuration it governs. This philosophical reading extends
+the Bhāṣya's account of scope without changing its conventional
+translation or treating its Organon terminology as Sanskrit.
 
 ## 10. Review Status
 

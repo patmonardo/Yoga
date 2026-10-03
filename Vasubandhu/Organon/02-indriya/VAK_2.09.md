@@ -151,6 +151,8 @@ This is an Organon reconstruction of the Bhāṣya's collective classification.
 It does not identify the triad with Buddha Mind or `śuddha-sattva` as a textual
 claim.
 
+**Transcendental Time determination (Organon, not translation):** Seeing, cultivation, and no-more-training name universal Cognitions as distinct path-determinations: knowing what had not been known, sustaining knowing while remaining latent afflictions are abandoned, and completed knowing. Their Ideas are the particular truths, residual `anuśayas`, exhaustion, and non-arising at issue in each task. The sequence is path-ordered, not a clock-time biography, and the nine faculty-types are not thereby asserted to co-occur in every path-event.
+
 ## 7. Technical Vocabulary
 
 | Sanskrit | Project rendering | Determination |
@@ -266,6 +268,8 @@ be across contexts; the composite class states what the coordinated path-
 operation necessarily is.
 
 ## 9. Interpretive Note
+
+**Organon time-reading:** The three designations determine different temporal relations to knowing, while the same faculty-types can be organized under each task-context. The triad's stainless status belongs to these coordinated path-configurations; it is not inferred from a component's name alone. Thus the passage gives an ordered transformation of cognition without making `śuddha-sattva` a term of the Bhāṣya.
 
 VAK 2.09 begins a new classificatory phase. The chapter has defined the
 twenty-two faculties and completed the feeling subsystem. It now asks how

@@ -97,6 +97,15 @@ Vaibhāṣikas. Vasubandhu presses the first claim: common classification may
 be possible through determinate resemblance and designation without adding
 a separately existing universal substance.
 
+**Organon rendering (philosophical reconstruction, not literal Bhāṣya
+doctrine):** `Sabhāgatā` poses the temporal problem of how distinct members
+are recognized through one class-determination; Cognition is universal here,
+while each member and its classifying Idea remain particular. The
+non-percipient attainment poses another: a conditioned interval sustains
+continuity without present mental operation until its force is exhausted.
+These are distinct Transcendental Time Determinations of Śuddha Sattva, not
+one clock-measured pause or a universal developmental stage.
+
 ## 7. Technical Vocabulary
 
 | Sanskrit | Controlled rendering | Determination in this unit |
@@ -250,6 +259,12 @@ citta-caitta cessation
 resolution status
     remains confined to the stated cessation mechanism
 ```
+
+**Organon temporal note:** Class-membership spans distinct instances through
+a common determination; the non-percipient state instead marks a bounded
+condition of suspended operation with an entry and causal limit. Neither
+requires a separate universal object or an unconditioned timeless state in
+this reconstruction.
 
 ## 10. OWL++ Seed
 

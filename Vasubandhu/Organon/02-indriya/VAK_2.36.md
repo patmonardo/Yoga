@@ -109,6 +109,15 @@ Vasubandhu's critical account:
 The dispute is not whether acquired and abandoned determinations must be
 distinguished. It concerns what makes that distinction true.
 
+**Organon rendering (philosophical reconstruction, not literal Bhāṣya
+doctrine):** `Prāpti/aprāpti` can be read as a Transcendental Time
+Determination of Śuddha Sattva: a continuum's capacity to make a particular
+Idea available, retain it, or have its renewed arising foreclosed, whether
+or not that Idea is manifest now. The universal Cognition determines this
+acquired/abandoned relation; it does not posit another possession-object.
+Here time names the organized reach of a capacity through a continuum, not
+clock-duration.
+
 ## 7. Technical Vocabulary
 
 | Sanskrit | Controlled rendering | Determination in this unit |
@@ -275,6 +284,12 @@ bīja → saṃtāna-pariṇāma → productive capacity or incapacity
 The pair `prāpti/aprāpti` therefore survives Vasubandhu's critique, but as
 an accountable classification grounded in causal continuity rather than an
 independent metaphysical attachment.
+
+**Organon temporal note:** The temporal determination is the difference between
+a dharma's manifestation and the continuum's continuing or foreclosed
+availability of it. This reconstruction preserves the Bhāṣya's dispute over
+what grounds possession; it does not attribute the Organon account to the
+commentary.
 
 ## 10. OWL++ Seed
 

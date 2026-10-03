@@ -230,6 +230,13 @@ Learning the causal account requires more than replacing “cause” with
 and whether the example concerns taking, giving, or both. The source's
 corrections of its own acquisition examples model that precision.
 
+On the Organon reading, faculties are Transcendental Time Determinations of
+Śuddha Sattva: “taking” establishes a seed-capacity, and “giving” names its
+type-specific manifestation, with cause-conditions controlling the interval
+or succession between them. Cognition names the universal determination of
+causal knowing; the particular Idea is the result-profile, not a pre-existing
+finished effect.
+
 ## 10. Review Status
 
 Provisional fifty-ninth study of the restarted Indriyanirdeśa Bhāṣya

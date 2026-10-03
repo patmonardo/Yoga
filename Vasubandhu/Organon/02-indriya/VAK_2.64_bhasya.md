@@ -259,6 +259,13 @@ relations. It remains a further Organon inquiry, rather than a replacement
 for the source's condition counts or an attribution of Samādhi as their
 philosophical unity to Vasubandhu.
 
+As a separate Organon reading, faculties are Transcendental Time
+Determinations of Śuddha Sattva: antecedent mental preparation can condition
+an attainment whose operation interrupts mental succession and lacks an
+object-condition. Cognition names the universal knowing determination; the
+particular Ideas are the different condition-profiles and attainments, not
+one linear sequence of cognitive states.
+
 ## 8. Review Status
 
 Provisional continuous study checked against the research kārikā and

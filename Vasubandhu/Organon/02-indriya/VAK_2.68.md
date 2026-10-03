@@ -180,17 +180,16 @@ asserted. *Nirmāṇacitta* is nominative in the first explanation: it
 identifies the resulting neutral mind, not an extra intervening mind
 inserted between the two immediately successive occurrences.
 
-**Organon interpretation.** This passage distinguishes knowing a type
-from knowing its permitted relations. The broad neutral kind contains
-a functionally specific transformation case. A model that records only
-realm and ethical classification would lose what explains the selected
-cross-realm link.
+**Organon interpretation.** Transformation-mind and rebirth determine
+different temporal paths through the same classified field. The particular
+transformation-mind case cannot be inferred from the general neutral kind
+alone; the commentary identifies the precise determination that enters
+this relation.
 
-For our study, the counts therefore remain answers to relational
-questions: which can precede, which can follow, and in what context?
-Their articulation advances the inquiry into mediation without reducing
-the source to an unqualified transition diagram or identifying the
-classification with a modern computational theory.
+The eleven-successor/nine-predecessor difference preserves direction.
+These are temporally ordered relations within universal Cognition, not an
+undirected association or a prediction that applies to every continuum.
+The named occasions and exclusions constrain the Organon reading.
 
 **Review status.** Provisional polished study checked against the research
 kārikā, research Bhāṣya, and running Sanskrit at 104.09–21. The enumerated

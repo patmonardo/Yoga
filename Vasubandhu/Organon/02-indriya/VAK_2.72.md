@@ -147,12 +147,16 @@ the classification and its interpretive consequences; the planned
 continuous Bhāṣya edition must preserve those arguments and voices in
 full. No single unqualified attention rule is inferred here.
 
-**Organon interpretation.** A genus begins the discrimination but does
-not exhaust it. Knowing that a mind is unobscured-neutral does not yet
-explain its work or its relations to other minds. The refinement teaches
-which further distinctions matter, and the subsequent account tests
-them through particular successions. This is the project's reading of
-the exposition, kept separate from the literal translation.
+**Organon interpretation.** The twentyfold scheme makes the chapter's
+temporal determinations more precise: a mind's kind, its mode of arising,
+and its directed relations cannot be collapsed into one description.
+Application, birth, attention, and path-status specify distinct grounds
+and contexts. The reported disagreement about attention preserves a live
+question about whether a path relation is immediate or mediated.
+
+These profiles are not a universal timeline. The Organon reading follows
+their differences within Śuddha Sattva without resolving the Bhāṣya's
+competing explanations into a single rule.
 
 **Review status.** Provisional study checked against both research
 witnesses, the standalone kārikā, and the running commentary at

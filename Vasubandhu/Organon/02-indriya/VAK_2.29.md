@@ -95,10 +95,10 @@ addition of a numerically distinct associated factor.
 
 Restrained Organon rendering:
 
-> State specialization and state extension are different operations. Specializing an inherited factor changes its mode while preserving cardinality; adjoining a distinct factor changes both membership and count. The model must resolve identity before counting labels.
+> A view is a particular determination of discernment, not a second constituent added beside prajñā. Its content-specific orientation qualifies the present Cognition without increasing the count; by contrast, a separately associated affliction enlarges that event's profile. Thus Ideas may particularize what is discerned, but a difference of content or label does not by itself create another Cognition or mental factor.
 
-This distinction is a project rendering of the Bhāṣya's explanation that
-view is a `prajñā-viśeṣa`, a special determination of discernment.
+This Organon distinction follows the Bhāṣya's explanation that view is a
+`prajñā-viśeṣa`, a special determination of discernment.
 
 ## 7. Technical Vocabulary
 
@@ -237,6 +237,13 @@ specializeFactor(profile, factor, mode)
 associateFactor(profile, distinctFactor)
     increments membership count
 ```
+
+**Organon temporal reading:** A view changes the determination of
+discernment within this event without adding a second factor; an independently
+associated affliction extends the event's membership. This is a distinction
+between mode and co-presence in a present Cognition, not the addition of
+another step in a path chronology. A particular Idea may shape the view's
+orientation without becoming a separate cognition.
 
 ## 10. OWL++ Seed
 

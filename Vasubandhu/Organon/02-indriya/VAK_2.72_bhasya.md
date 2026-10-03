@@ -496,23 +496,18 @@ reply has been accepted.
 
 ## 8. Philosophical and Organon Study
 
-As Organon interpretation, refinement does more than multiply labels.
-It tests the relations previously stated at a broader level. Application
-and birth acquisition matter because they distinguish how a wholesome
-mind can enter and leave particular sequences. The commentary then
-asks why those directional differences hold.
+**Organon reading:** The twentyfold scheme makes the chapter's temporal
+determinations more precise: a mind's kind, its mode of arising, and
+its directed relations cannot be collapsed into one description.
+The commentary's competing accounts of attention test whether a path
+relation is immediate or mediated; they preserve a real question about
+how one determination leads into another.
 
-The attention discussion adds another demand: distinguish an immediate
-relation from one mediated by another act of attention. A cited
-connection between contemplation and the path can be construed directly
-or through an intervening determination, and the text preserves that
-dispute. The general term “attention” cannot decide it in advance.
-
-These are useful materials for our inquiry into learning and mediation.
-Their value depends on retaining the source's distinctions and contested
-explanations. Neither the transition table nor a formal representation
-of it replaces the arguments about preparation, emergence, and the
-status of the practitioner.
+The transition profiles are therefore not a universal timeline.
+Application, birth, attention, and path-status specify distinct grounds
+and contexts. The Organon reading follows these differences within
+Śuddha Sattva without resolving the Bhāṣya's reported disputes into
+a single rule.
 
 ## 9. Review Status
 

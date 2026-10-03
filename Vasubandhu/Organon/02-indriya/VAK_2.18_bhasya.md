@@ -173,6 +173,8 @@ The eleven- and thirteen-faculty cases remain for VAK 2.19.
 
 ## 9. Philosophical and Organon Study
 
+**Organon extension—not a literal Bhāṣya doctrine:** Read as Transcendental Time, `samanvāgama` names acquired continuity across events, whereas current manifestation belongs to a particular occasion. Universal Cognition identifies the rule of necessary co-possession; the particular Ideas are the different minimum faculty-sets it yields. This extension preserves the commentary's distinction between possession, causal dependence, and present operation.
+
 The passage makes possession relational: stating that one faculty
 is possessed can entail a determinate set of others. Those sets
 are sensitive to the faculty named. The same numeral can express

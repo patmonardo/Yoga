@@ -227,6 +227,15 @@ of mediated efficacy is then proposed as an alternative. Preserving that
 difference lets the Organon investigate synthesis without assuming that
 everything has already been shown to produce everything else.
 
+**Organon reading (philosophical reconstruction, not Bhāṣya doctrine):**
+The faculties' governing efficacy is a Transcendental Time Determination of
+Śuddha Sattva: cause is read through its specific efficacy in the conditioned becoming
+of a particular Idea: permitting an event, producing it, and mediating its
+arising are different temporal relations. The universal Cognition of
+causality preserves these differences; temporal precedence alone does not
+exhaust any of them. The alternative accounts remain attributed to their
+speakers in the source.
+
 ## 10. Review Status
 
 Provisional forty-ninth study of the restarted Indriyanirdeśa Bhāṣya

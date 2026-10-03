@@ -134,6 +134,8 @@ Organon rendering:
 “Terminal profile” is an Organon rendering. The textual frame is `tyāga`,
 loss of faculties at death, and `nirodha`, their cessation.
 
+**Transcendental Time determination (Organon, not translation):** Death marks a terminal relation to the faculties possessed in a particular realm-profile, not the inverse of initial maturation-acquisition or a universal shutdown sequence. Universal Cognition distinguishes simultaneous cessation from the gradual case taken up next; the particular Ideas are the terminal sets of faculties in each realm and sexual configuration. The count is conditional, not an account of every mode of dying.
+
 ## 7. Technical Vocabulary
 
 | Sanskrit | Project rendering | Determination |
@@ -225,6 +227,8 @@ TerminalFacultySet
 ```
 
 ## 9. Interpretive Note
+
+**Organon time-reading:** The terminal profile is determined by the configuration that has come to be and by the specified mode of dying. Its symmetry with initialization is not assumed: formless initial `vipāka` acquisition is life alone, whereas the terminal set includes mind and neutral feeling. This is a temporal boundary of one conditioned continuum, not a claim about every possible continuation.
 
 VAK 2.15 answers the inverse question to VAK 2.14, but it does not simply
 reverse the preceding lists. Initial acquisition asked which faculties are

@@ -205,24 +205,18 @@ at 110.09 lies outside this commentary unit.
 
 ## 7. Philosophical and Organon Study
 
-As Organon interpretation, the chapter's final distinction is between
-what occurs and what one comes to possess. Classification identified
-the kinds; succession specified their directed relations; acquisition
-now requires an account of the person's prior possession and the
-occasion of change. None of these questions can simply replace another.
+**Organon reading:** The close distinguishes the present occurrence
+of a mind-kind from its acquisition and possession. These are different
+temporal determinations: a kind may be acquired without being manifest,
+and a present occurrence need not be its first acquisition. Decline
+and reacquisition therefore belong to the account of a continuum's
+temporal articulation, not to immediate succession alone.
 
-This is particularly relevant to learning. An acquired capacity need
-not be presently exercised, and its present exercise need not be its
-first acquisition. The Kośa's particular acquisition cases give this
-distinction a determinate setting. A broader account of learning can
-work from it while retaining the source's path, realm, and karma
-contexts rather than treating them as interchangeable metaphors.
-
-The chapter closes by naming the discussion of conditions it has
-completed. Its movement from faculties through causal and conditional
-relations provides material for our inquiry into synthesis; the
-colophon itself does not announce an Organon system or a modern
-formal theory. That further reconstruction remains our responsibility.
+The chapter's movement from faculty-governed processes through
+succession to acquisition gives the Organon a layered account of
+temporal determination within Śuddha Sattva. Its colophon closes the
+Bhāṣya's discussion; it does not itself announce this philosophical
+reconstruction.
 
 ## 8. Review Status
 

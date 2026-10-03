@@ -172,16 +172,14 @@ antecedent of *tasya* is determinate. The research kārikā's “thus in
 the formless realm; its rule again from the wholesome” obscures both
 that reference and the new unfinished clause.
 
-**Organon interpretation.** This is a useful discipline for our inquiry
-into classification and mediation. A reusable rule has an identified
-scope and requires re-specification of its members. Mere similarity
-of numerical form does not establish identity of content.
+**Organon interpretation.** The repeated unobscured rule is a recurring
+temporal determination whose members must be specified anew in each realm.
+A repeated count does not make the underlying succession identical:
+scope and realm determine which particular modes are related.
 
-The text supports representing a repeated transition pattern. It does
-not itself supply an executable grammar or all the conditions needed
-to predict an individual's next mind. Learning the pattern includes
-knowing where its transfer is licensed and where the source begins
-a different case.
+The realm-specific sets constrain transfer. This is an articulation of
+universal Cognition's temporal relations, not an executable grammar for
+predicting an individual's next state.
 
 **Review status.** Provisional polished study checked against the research
 kārikā, research Bhāṣya, and running Sanskrit at 104.22–105.07. Counts,

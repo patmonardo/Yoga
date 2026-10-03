@@ -249,6 +249,8 @@ as much as the numerical contrast.
 
 ## 9. Philosophical and Organon Study
 
+**Organon extension—not a literal Bhāṣya doctrine:** Transcendental Time marks both the non-separability of the final four at gradual death and the ordered, potentially alternative mediation of a fruit. Universal Cognition names the result and its path-determination; the Ideas are the route-specific faculties and terminal conditions. The analogy does not make the Bhāṣya a formal path-planning theory or collapse path moments into one simultaneous event.
+
 The commentary separates an attained result from the route through
 which it is attained. It also separates the number of faculties
 from their composition and from the temporal span across which

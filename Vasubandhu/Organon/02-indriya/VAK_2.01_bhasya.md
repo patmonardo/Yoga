@@ -264,24 +264,24 @@ into the verse as though it were an expressed Sanskrit qualifier.
 ## 9. Philosophical and Organon Study
 
 The transition from Dhātu to Indriya changes the question asked of
-the classified dharmas. Chapter 1 closed by locating the faculties
-within the domains. This passage asks what justifies their common
-name and what each governs. Placement and efficacy become related
-determinations without becoming interchangeable.
+the classified dharmas. Chapter 1 locates faculties within Domains;
+this passage asks what each governs. Their functions are not a flat
+inventory: they include disclosure, embodied differentiation,
+persistence, defilement, and purification.
 
-For Organon reconstruction, the productive unit is therefore a
-determinate relation: a faculty exercises governing efficacy with
-respect to a specified function. The account must identify the bearer,
-the function, and the reason for attributing governance. A shared
-name or a bare list of twenty-two items cannot perform that work.
+**Organon reading:** The faculties are read as **Transcendental Time
+Determinations of Śuddha Sattva**. They do not merely name organs or
+capacities measured in clock-time; they determine how the living
+continuum is articulated through governing operations. The verse
+distributes these determinations across groups of faculties, without
+making them a simple chronological sequence.
 
-The commentary also exposes this attribution to revision. Different
-accounts of the sexual faculties compete, and feeling's placement
-under defilement is qualified through its purificatory relations.
-The system develops by making these relations intelligible and
-testing their adequacy. That is the Organon significance of the
-Bhāṣya's movement here; it is our reconstruction of its explanatory
-work, not additional terminology supplied by the Sanskrit.
+The commentary still distinguishes its own explanations and
+qualifications: accounts of the sexual faculties compete, and
+feeling's role in defilement is qualified by its participation in
+purification. The Organon reading is a philosophical reconstruction,
+not terminology supplied by the Sanskrit or a replacement for the
+conventional translation.
 
 ## 10. Review Status
 

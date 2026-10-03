@@ -116,10 +116,10 @@ externalized into a ready-made object standing outside the cognition-event.
 
 Restrained Organon rendering:
 
-> The Kośa defines organic event-unity through five equality constraints. A factor belongs to an event only when its provenance, registered content, manner, time, and numerical instance agree with that event. `Citta`, `manas`, and `vijñāna` are then three functional addresses of this one organized occurrence.
+> The five equalities define one cognitive occurrence through common faculty-support, object-support, aspect, time, and number. Their time-equality is not a shared clock reading but the co-presence that makes distinct factors members of one moment of Śuddha Sattva. Citta, manas, and vijñāna name functions or aspects of this universal cognitive act, not three successive events; the particular Idea is the shared content-support, not the act itself.
 
-“Organic event-unity,” “provenance,” and “functional address” are project
-renderings. The textual rule is fivefold `saṃprayoga`.
+This Organon reading extends the textual rule of fivefold `saṃprayoga`
+without collapsing distinct factors into one.
 
 ## 7. Technical Vocabulary
 
@@ -285,6 +285,12 @@ CognitionEvent<ksana> = {
     sharedAkara
 }
 ```
+
+**Organon temporal reading:** Equality of time means that distinct factors
+co-occur as one event, while common support, object-support, manner, and
+number articulate its unity. This cognitive present is not a shared clock
+timestamp. Citta, manas, and vijñāna are functional addresses of the
+universal Cognition, and the particular Idea is its object-content.
 
 ## 10. OWL++ Seed
 

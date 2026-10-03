@@ -167,6 +167,13 @@ of material constitution and the later account of the world should
 build from these stated relations rather than replace them with
 an additional metaphysical derivation.
 
+As a separate Organon reading, faculties are Transcendental Time
+Determinations of Śuddha Sattva insofar as they disclose sensible capacity
+within material conditions; they are not another list of causes. Cognition
+names the universal determination of sensible knowing, while the particular
+Ideas are elemental and derived contents considered through their distinct
+support, continuity, and maturation relations.
+
 ## 8. Review Status
 
 Provisional continuous study checked against the research witnesses,

@@ -180,6 +180,8 @@ remain visible in the translation.
 
 ## 9. Philosophical and Organon Study
 
+**Organon extension—not a literal Bhāṣya doctrine:** Transcendental Time here is the determinate ending of a conditioned configuration under the stated death-mode, not a chronology universalized to all beings. Universal Cognition discriminates simultaneous from gradual cessation; the particular Ideas are the faculties actually counted at the boundary. The distinction between `tyāga` and `nirodha`, and the next verse's gradual case, remains intact.
+
 The counts depend on several conditions together: realm, the
 specified bodily configuration, mode of dying, and quality of
 the terminal mind. The commentary makes those conditions explicit

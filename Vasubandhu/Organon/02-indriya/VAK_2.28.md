@@ -100,10 +100,11 @@ self-critical affect by itself does not make remorse wholesome.
 
 Restrained Organon rendering:
 
-> A mental profile is assembled from inherited ground requirements, realm requirements, and conditional factors. Optional does not mean untyped: remorse must be validated by its evaluative direction, because the same remembered action can support wholesome or unwholesome regret.
+> Here the temporal determination is the composition of a particular desire-realm consciousness: its ground and ethical character establish required factors, while remorse enters only when the occasion includes retrospective evaluation. That conditional addition is neither a permanent trait nor an inevitable stage in a life-history. Its ethical determination depends on what was done or omitted and on the direction of the regret; the remembered deed is its content, not a mental factor.
 
-The profile language is project-level. The textual doctrine gives the exact
-twenty-two/ twenty-three counts and the ethical determination of remorse.
+The profile language is an Organon reconstruction. The textual doctrine gives
+the exact twenty-two/twenty-three counts and the ethical determination of
+remorse.
 
 ## 7. Technical Vocabulary
 
@@ -229,6 +230,13 @@ OptionalFactorStatus
     requires relational evaluation
     not name matching or affect matching
 ```
+
+**Organon temporal reading:** The count composes one actual wholesome
+desire-realm cognition from its required ranges and conditional factors.
+Remorse enters only when this occasion evaluates an action or omission;
+its quality depends on the evaluative direction, not on a fixed temporal
+stage or on the deed's content alone. The particular Idea and the cognitive
+act's ethical determination are distinct.
 
 ## 10. OWL++ Seed
 

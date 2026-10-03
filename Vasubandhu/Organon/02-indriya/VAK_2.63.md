@@ -111,6 +111,15 @@ This is a commentary-informed study formulation. “Ceasing” here does
 not make the two simultaneous causes agents that destroy their result.
 Their result is present and directed toward cessation.
 
+**Organon interpretation—not literal Bhāṣya doctrine.** Faculties are
+Transcendental Time Determinations of Śuddha Sattva: a condition's activity
+is indexed to the state of the dharma it conditions: co-arisen
+efficacy concerns a present result; succession opens for a next cognition;
+object-conditioning serves present apprehension; predominance prevents
+obstruction. These are temporal determinations, not spatial displacement
+or clock intervals. Cognition is the universal act-form; the particular
+Idea is the object or result in the state specified by the relation.
+
 ## 7. Technical Vocabulary
 
 | Term | Controlled rendering | Determination |

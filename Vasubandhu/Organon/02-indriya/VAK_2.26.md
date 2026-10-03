@@ -97,11 +97,10 @@ great ground.
 
 Restrained Organon rendering:
 
-> A diagnostic model must separate capability from mode and class-membership. The same universal operation may execute wholesomely or afflictedly; a specifically afflicted factor is not identical with an afflicted mode of a universal factor. State labels based on predominance must also preserve co-present factors hidden by the label.
+> Affliction marks a determination under which universal cognitive functions continue to operate, not their temporal disappearance. The six factors proper to the afflicted ground characterize this mode, while an afflicted qualification of a universal factor and membership in an exclusively afflicted class remain distinct. In the Transcendental Time reading, this is defilement as a mode of the living continuum's present cognitive activity—not a duration measured by a clock or a stage through which every being must pass in the same biography.
 
-This diagnostic language is project-level. The textual analysis concerns
-operating grounds, afflicted modes, and the intention of competing
-Abhidharma enumerations.
+This Organon interpretation leaves intact the textual distinctions among
+operating grounds, afflicted modes, and competing Abhidharma enumerations.
 
 ## 7. Technical Vocabulary
 
@@ -268,6 +267,12 @@ diagnosticLabel
 
 No factor should be replaced by its label, and no corrupted mode should be
 mistaken for the absence of the underlying universal function.
+
+**Organon temporal reading:** The universal functions remain present while
+their modes are qualified by affliction; the classification describes that
+present configuration rather than a lapse in cognition. Shifts in mode and
+predominance are determinations of an event, not clock-duration or proof
+that every continuum follows the same sequence of defilement and release.
 
 ## 10. OWL++ Seed
 

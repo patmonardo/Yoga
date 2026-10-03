@@ -408,6 +408,8 @@ lifespan digression and therefore cannot alone establish this unit.
 
 ## 9. Philosophical and Organon Study
 
+**Organon extension—not a literal Bhāṣya doctrine:** Transcendental Time here is the distinction between a determination's provenance and its prospective efficacy. Universal Cognition distinguishes “matured from the past” from “productive of maturation”; the Ideas are particular faculties and their present modes. This framework does not reduce karma to chronological succession, collapse the two predicates, or attribute the Organon account to the commentary.
+
 A faculty's name does not settle its causal status. The commentary
 asks both how it has arisen and what kind of result it can produce.
 The difference becomes particularly clear in distress, which is

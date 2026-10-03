@@ -213,6 +213,14 @@ because its ontological basis was disputed. The explanatory
 rules and the disagreement about what grounds them must both
 remain visible.
 
+**Organon reading (philosophical reconstruction, not Bhāṣya doctrine):**
+Faculty-governance is extended here as a Transcendental Time Determination of
+Śuddha Sattva: the time-indices distinguish a dharma's own temporal status from when its
+acquisition is attributable to a continuum. Śuddha Sattva's temporal
+determination is thus a structured relation, not an ordinal clock or a
+one-way biography; universal Cognition holds the classification while each
+acquired dharma remains a particular Idea.
+
 ## 10. Review Status
 
 Provisional thirty-seventh study of the restarted Indriyanirdeśa

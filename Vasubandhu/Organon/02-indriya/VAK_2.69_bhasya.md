@@ -123,18 +123,15 @@ for 2.70_bhasya.
 
 ## 7. Philosophical and Organon Study
 
-As Organon interpretation, the passage distinguishes sameness of
-pattern from sameness of members. A count can recur across realms
-while the actual relations change. Understanding “likewise” therefore
-requires identifying what is preserved and what must be specified
-afresh.
+**Organon reading:** The repeated unobscured rule is a recurring
+temporal determination whose members must be specified anew in each
+realm. A repeated count does not make the underlying succession
+identical: scope and realm determine which particular modes are
+related.
 
-This continues the work beyond genus membership. The common
-unobscured-indeterminate classification does not alone yield its
-successions; the commentary supplies the realm-specific sets. A
-formal representation could preserve that explicit correspondence,
-but should not infer unrestricted transfer of every relation between
-classes that share a feature.
+The realm-specific sets constrain transfer. This is an articulation
+of universal Cognition's temporal relations, not an executable grammar
+for predicting an individual's next state.
 
 The immediate learning task is concrete: distinguish the obscured
 profile from the unobscured one, then retain the different members

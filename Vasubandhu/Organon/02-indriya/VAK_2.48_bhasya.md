@@ -171,6 +171,15 @@ Its own movement is from differentiated classifications to an explicit
 causal question, with the earlier distinction between acquisition,
 attainment, result, and marked dharma preserved.
 
+**Organon reading (philosophical reconstruction, not Bhāṣya doctrine):**
+Faculty-governance is read as a Transcendental Time Determination of Śuddha
+Sattva: the temporal determination here is causal provenance—how a particular
+dharma is continued or comes to maturity—not when it happened on a
+calendar. Universal Cognition can distinguish these result-modes without
+collapsing realm, ethical status, and continuum-relation into one Idea.
+This reading follows the passage's move from classification to causes and
+conditions without claiming that it states a Sāṃkhya or Hegelian theory.
+
 ## 10. Review Status
 
 Provisional forty-eighth study of the restarted Indriyanirdeśa Bhāṣya

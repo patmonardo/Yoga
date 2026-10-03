@@ -185,6 +185,8 @@ of stating one status.
 
 ## 9. Philosophical and Organon Study
 
+**Organon extension—not a literal Bhāṣya doctrine:** This distinction can be rendered as Transcendental Time: universal Cognition identifies the arhatship determination, while particular Ideas—pleasure, gladness, or neutrality—may qualify different attainment-events and aggregate only across the person's history. The necessary triad expresses co-possession, not continuous co-manifestation. This reading neither asserts that all fall away nor turns the count into a universal biography.
+
 The central determination is a necessary relation of possession
 that leaves further possessions variable. The commentary then
 makes that variability intelligible by specifying exclusions.

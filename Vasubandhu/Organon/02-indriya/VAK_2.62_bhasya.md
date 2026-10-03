@@ -390,6 +390,13 @@ philosophical synthesis must preserve these distinctions and their
 arguments. Here the work of learning is to remove the conflations
 that the objections expose.
 
+As a separate Organon reading, faculties are Transcendental Time
+Determinations of Śuddha Sattva: mind's successor-relation, an object's
+continuing object-character, and predominance's wider enabling scope are
+not one temporal axis. Cognition names the universal determination of
+knowing; the particular Idea is what that cognition takes as object, even
+when it is not the earlier mental condition.
+
 ## 10. Review Status
 
 Provisional continuous study of 2.62, checked against the research

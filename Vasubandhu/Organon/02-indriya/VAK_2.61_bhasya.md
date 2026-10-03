@@ -114,6 +114,12 @@ conditions. The other three conditions still require their own
 explanations. What this unit teaches is exactly where the preceding
 cause account enters the new classification.
 
+As a separate Organon reading, faculties are Transcendental Time
+Determinations of Śuddha Sattva: here their temporal work is relational
+reclassification, not a new chronological phase. Cognition names the
+universal intelligible form of knowing; a particular Idea is the cause or
+condition viewed under its stated role.
+
 ## 7. Review Status
 
 Provisional continuous study checked against the research kārikā and

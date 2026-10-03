@@ -159,6 +159,8 @@ references to groups already introduced.
 
 ## 9. Philosophical and Organon Study
 
+**Organon extension—not a literal Bhāṣya doctrine:** Read through Transcendental Time, the verse determines the mode under which pleasant feeling can govern experience: ordinarily bodily, but mental in the specified dhyāna where sensory Cognitions are absent. The particular Idea remains the feeling-content and its tone; the universal Cognition is the mode of apprehension that makes its faculty-classification possible. This extends, but does not translate, the commentary's narrow reason.
+
 This passage shows why a faculty-name cannot be read from one
 isolated attribute. Pleasantness alone does not settle the full
 classification; bodily or mental mode and the meditative setting

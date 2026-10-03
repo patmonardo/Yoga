@@ -265,6 +265,13 @@ into one preferred relation would erase the very comparisons
 and disagreements through which the commentary develops its
 meaning.
 
+**Organon reading:** These factors distinguish ethical determinations
+within a present cognitive event through their object/person-relations and
+through grounding or consequence; they are not successive powers in a
+faculty chronology. The universal cognitive occurrence can bear these
+particular ethical orientations without reducing them to one another.
+This framing does not resolve the Bhāṣya's competing explanations.
+
 ## 10. Review Status
 
 Provisional thirty-second study of the restarted Indriyanirdeśa

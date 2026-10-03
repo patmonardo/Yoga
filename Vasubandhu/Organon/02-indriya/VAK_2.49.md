@@ -98,6 +98,15 @@ productive causal ground
 The six causes are a typed causal schema, not six interchangeable names for
 one relation.
 
+**Organon rendering (philosophical reconstruction, not literal Bhāṣya
+doctrine):** The six causes determine different ways in which an Idea
+belongs to a causal field; non-obstruction and productive efficacy are not
+one relation. Their Transcendental Time Determination of Śuddha Sattva is conditional
+dependence, not simple before-and-after. Cognition names the universal
+distinction among causal forms, while each cause and result is particular.
+This does not make every faculty an isolated producer or Citta an
+unconditioned sovereign.
+
 ## 7. Technical Vocabulary
 
 | Sanskrit | Controlled rendering | Determination in this unit |
@@ -254,6 +263,10 @@ Organon reconstruction
     → treats the distinctions as requirements for an explicit
       Ocular causal schema
 ```
+
+**Organon temporal note:** A causal relation must specify what it enables or
+produces; mere precedence does not establish productive power. This is a
+typed account of temporal dependence, not a timeline.
 
 ## 10. OWL++ Seed
 

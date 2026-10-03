@@ -247,6 +247,12 @@ Their distinction is precisely what the debate investigates. The
 Organon should carry that question forward rather than decide it merely
 by calling the complex a whole or invoking shared class membership.
 
+On the Organon reading, faculties are Transcendental Time Determinations of
+Śuddha Sattva: here they make one Citta-event intelligible through its shared
+arising, duration, cessation, and result-profile. Cognition is the universal
+determination of knowing; its particular Idea is the object and ethical-causal
+character of this occurrence, not another universal mind.
+
 ## 10. Review Status
 
 Provisional fifty-first study of the restarted Indriyanirdeśa Bhāṣya

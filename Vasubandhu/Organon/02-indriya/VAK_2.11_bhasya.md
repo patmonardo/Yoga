@@ -134,6 +134,8 @@ distinct from the feeling-name *upekṣā*.
 
 ## 9. Philosophical and Organon Study
 
+**Organon extension—not a literal Bhāṣya doctrine:** The ethical predicates determine how a faculty can operate across the living process; they do not measure elapsed time or turn every occurrence into a stage of purification. Universal Cognition distinguishes admissible ethical modes, and the Ideas are the particular faculty-instances so qualified. The Organon reading does not identify Śuddha Sattva with the narrower ethical category `kuśala`.
+
 The passage makes ethical qualification a distinct question about
 an already established faculty system. A governing function can
 admit different ethical qualities, while another faculty-type is

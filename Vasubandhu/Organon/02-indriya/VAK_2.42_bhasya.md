@@ -216,6 +216,14 @@ justify a broader claim that every suspension of mental activity
 has the same function or result. The second attainment remains
 to be examined on its own terms in the next unit.
 
+**Organon reading (philosophical reconstruction, not Bhāṣya doctrine):**
+The faculty's governing efficacy is a Transcendental Time Determination of
+Śuddha Sattva: the acquisition's past, present, and future relations distinguish having
+attained, presently attaining, and cultivating what is not yet attained.
+Śuddha Sattva's temporal determination therefore includes path-history and
+availability, not only the present cessation. This does not equate the
+conditioned attainment with liberation.
+
 ## 10. Review Status
 
 Provisional forty-second study of the restarted Indriyanirdeśa

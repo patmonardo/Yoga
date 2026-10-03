@@ -152,6 +152,8 @@ feeling together in one moment.
 
 ## 9. Philosophical and Organon Study
 
+**Organon extension—not a literal Bhāṣya doctrine:** Transcendental Time here is qualitative configuration, not elapsed duration or a hierarchy inferred from counts. Universal Cognition applies the minimum-possession determination; the particular Ideas are the two explicitly conditioned eight-member sets. The framework preserves the shared triad without deriving from it a universal essence or an evolutionary sequence.
+
 The passage gives a numerical lower bound without reducing the
 possessor to one uniform set of powers. Eight can describe a case
 with severed wholesome roots or a formless ordinary person endowed

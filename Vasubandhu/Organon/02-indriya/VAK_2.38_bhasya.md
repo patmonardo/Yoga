@@ -189,6 +189,15 @@ relation, not an unrestricted equation of ethical value, intensity,
 and durable capacity. Those determinations remain distinct in
 the commentary's own examples.
 
+**Organon reading (philosophical reconstruction, not Bhāṣya doctrine):**
+The faculty's governing efficacy is extended as a Transcendental Time
+Determination of Śuddha Sattva in the difference between readiness and
+actualization: the preceding, co-arisen, and subsequent modes mark different temporal
+relations between an Idea and the continuum's cultivated capacity. They are
+not interchangeable clock positions: in the specified cases, preparation
+can sustain availability across manifestation, while weaker occurrences
+cannot. This preserves the exceptions' restricted scope.
+
 ## 10. Review Status
 
 Provisional thirty-eighth study of the restarted Indriyanirdeśa

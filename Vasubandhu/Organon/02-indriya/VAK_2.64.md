@@ -101,6 +101,15 @@ This is a commentary-informed study formulation. It preserves the
 local critique without making sequence itself an agent or replacing
 the condition counts with a universal formula for cognition.
 
+**Organon interpretation—not literal Bhāṣya doctrine.** The attainments
+show how faculties as Transcendental Time Determinations of Śuddha Sattva
+articulate a distinctive temporal profile: mental preparation precedes
+them, yet their objectless cessation interrupts mental occurrence.
+Facultyhood here is the power to determine those different conditions and
+limits, not a universal biography of cognition. Cognition names the universal knowing
+form; the Ideas are the particular conditioned dharmas, attainments, and
+single-world-cause claim being tested.
+
 ## 7. Technical Vocabulary
 
 | Term | Controlled rendering | Determination |

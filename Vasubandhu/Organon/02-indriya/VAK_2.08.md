@@ -115,6 +115,8 @@ This reconstruction follows the Bhāṣya's reasons. It does not make
 `vikalpana` the universal cause of every mental pleasure or pain; the text
 says `prāyeṇa`, “for the most part.”
 
+**Transcendental Time determination (Organon, not translation):** The fivefold scheme tracks how affect is differentiated or held together across bodily and mental modes, meditative levels, and ways of arising. Universal Cognition names the determinate mode of affective knowing; particular Ideas are the feeling-tones and feeling-types—pleasure, gladness, distress, and neutrality—whose differences or shared operation the Bhāṣya tests. This is functional articulation, not a chronology of moods.
+
 ## 7. Technical Vocabulary
 
 | Sanskrit | Project rendering | Determination |
@@ -215,6 +217,8 @@ FunctionalDifference(x, y)
 ```
 
 ## 9. Interpretive Note
+
+**Organon time-reading:** The classification's temporal force lies in provenance and operation: the way mental affect generally arises through `vikalpana`, bodily feeling under the force of its object, and neutral feeling without differentiation. These are distinct ways an affective present is constituted, not a linear sequence through which each person must pass. The single `upekṣā` faculty marks common neutral attending, not identity of every particular feeling.
 
 VAK 2.08 completes the affective subsystem begun in VAK 2.07. The resulting
 classification is not a flat grid of pleasant, unpleasant, and neutral

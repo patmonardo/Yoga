@@ -237,6 +237,13 @@ organize different explanations of mental elevation and intoxication.
 The terms acquire meaning through those relations, without
 requiring that both be reduced to a general emotion called pride.
 
+**Organon reading:** Attribution by bhūmi and by kṣaṇa distinguishes a
+ground's range from a moment's occurrence, not a temporal unit from a
+clock-duration. The disputed coarse/subtle proposals remain open; the
+contrast between conceit and intoxication is more determinate because each
+organizes self-relation differently. This keeps path-level and momentary
+determinations distinct within the account of Śuddha Sattva.
+
 ## 10. Review Status
 
 Provisional thirty-third study of the restarted Indriyanirdeśa

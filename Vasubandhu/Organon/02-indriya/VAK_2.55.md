@@ -108,6 +108,15 @@ liberative disclosure:
         → disconnection
 ```
 
+**Organon interpretation—not literal Bhāṣya doctrine.** Faculties as
+Transcendental Time Determinations of Śuddha Sattva determine conditioned
+temporal efficacy—causal scope, Path-transformation, and acquisition—but
+not the production of the unconditioned as another event.
+Disconnection marks secured non-arising, not a later clock-time episode;
+Cognition names the universal discriminative determination, and the
+particular Idea is the bond and its cessation as explained by the rival
+accounts, which this reading does not collapse.
+
 ## 7. Technical Vocabulary
 
 | Sanskrit | Controlled rendering | Determination in this unit |

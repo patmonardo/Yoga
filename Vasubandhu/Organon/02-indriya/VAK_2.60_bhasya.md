@@ -159,6 +159,13 @@ earlier identical achievement or treating it as causeless. A
 broader account of reflection and synthesis remains a separate
 comparative inquiry.
 
+On the Organon reading, faculties are Transcendental Time Determinations of
+Śuddha Sattva: the first uncontaminated occurrence has no prior homogeneous
+path instance, yet is causally grounded. Cognition names the universal
+determination of path-knowing; the particular Idea is this threshold profile
+with its specified exclusions, not a causeless beginning or universal
+chronological first.
+
 ## 10. Review Status
 
 Provisional sixtieth study of the restarted Indriyanirdeśa Bhāṣya

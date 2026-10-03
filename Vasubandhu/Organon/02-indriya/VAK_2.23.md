@@ -112,11 +112,11 @@ factors. The first class begins to be populated only in VAK 2.24.
 
 Organon rendering:
 
-> The Agent's mental state is not a container plus optional properties. It is a necessarily synthesized event whose functions are typed by operating ground. A `bhūmi` is therefore an execution-domain: it states the range of consciousness-states across which a mental factor is licensed, required, wholesome, defiled, or more narrowly operative.
+> A `bhūmi` determines the range across which a mental factor operates; it does not name a clock-time phase through which every continuum must pass. In Organon terms, Cognition is the universal cognitive determination of an articulated act, while a factor's ground specifies its range within such acts. This keeps reciprocal co-arising, conditioned marks, and acquisition distinct, rather than turning their several relations into successive moments or treating a particular object-content as a factor.
 
-“Agent,” “typed,” “execution-domain,” and “licensed” are Organon
-reconstructions. The Bhāṣya itself defines `bhūmi` as a factor's sphere of
-operation (`gativiṣaya`).
+This Organon reading extends the Bhāṣya's definition of `bhūmi` as a
+factor's sphere of operation (`gativiṣaya`); it does not alter the
+conventional translation.
 
 ## 7. Technical Vocabulary
 
@@ -256,6 +256,12 @@ MentalState
 Bhūmi
     = quantified OperatingDomain<Caitta, CittaState>
 ```
+
+**Organon temporal reading:** The grounds quantify where universal
+Cognitions are articulated with their factors; the classes are distributions
+over kinds of consciousness, not stages in a temporal itinerary. A
+particular Idea may be the event's object-content, but it is not identified
+with the universal cognitive act or with the factor's operating range.
 
 The next verses can now test the stronger Yoga relation. If their factor
 lists form ordered capacities for orientation, stabilization,

@@ -178,6 +178,14 @@ mechanism, or that a maximum inventory defines the goal of practice.
 Its positive result is the exact upper count together with two
 ways that count is instantiated.
 
+**Organon reading:** The two profiles are distinct present determinations
+within the faculty-system of Śuddha Sattva: conditioned completeness
+without stainless realization, and trainee path-status with a different
+embodied and realizational exclusion. Their equal number is not a linear
+measure of attainment or a biography every continuum follows. This
+interpretation extends the count philosophically; it is not a claim made
+by the Bhāṣya itself.
+
 ## 10. Review Status
 
 Provisional twenty-first study of the restarted Indriyanirdeśa

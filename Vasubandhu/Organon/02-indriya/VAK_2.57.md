@@ -107,6 +107,15 @@ disconnection:
     discriminative knowing → exhaustion of the bond
 ```
 
+**Organon interpretation—not literal Bhāṣya doctrine.** The faculty reading
+tracks three unlike Transcendental Time Determinations of Śuddha Sattva:
+maturation's delay, homogeneous continuation, and the exhaustion of a bond
+through discriminative knowing. The last is
+not an episode on a universal timeline; Cognition names the universal
+discriminative determination, while the particular Idea is the bond whose
+future recurrence is cut off. The verse's `dhī` is not silently replaced
+with `prajñā`.
+
 ## 7. Technical Vocabulary
 
 | Sanskrit | Controlled rendering | Determination in this unit |

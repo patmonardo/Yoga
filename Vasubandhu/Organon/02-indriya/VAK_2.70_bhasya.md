@@ -141,24 +141,16 @@ additional voices or unexpressed transition mechanisms.
 
 ## 7. Philosophical and Organon Study
 
-As Organon interpretation, these closing profiles make direction an
-essential part of the relation. A kind's predecessors and successors
-must be learned separately even when their counts agree. The formless
-obscured profile supplies a precise example: seven on each side,
-but different memberships.
+**Organon reading:** The closing profiles show temporal order to be
+asymmetric and content-specific: equal counts need not contain the
+same predecessors and successors. Trainee and beyond-training status
+further determine particular relations without reducing mind-
+succession to a person's enduring path-status.
 
-The trainee and beyond-training distinction further shows how path
-status enters the succession account without replacing its other
-determinations. Both have connections with realm-wholesome cognition,
-yet their mutual immediate relation is asymmetric. A broader account
-of development must preserve that local result while distinguishing
-it from acquisition, possession, and the status of the person.
-
-The explicit closure matters for the sequence of study. The twelve
-kinds have now been treated in their directed relations. The next
-question refines the kinds themselves; the refined succession rules
-will require their own account rather than automatic transfer of
-every relation in the coarser scheme.
+The twelve-kind account closes as one level of temporal determination.
+The next analysis refines these kinds into twenty; its finer relations
+must be established in their own right, not transferred automatically
+from this coarser scheme.
 
 ## 8. Review Status
 

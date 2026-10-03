@@ -127,6 +127,8 @@ The “incoming” and “outgoing” language is an Organon rendering of the tw
 classifications. The Kārikā and Bhāṣya speak technically of `vipāka` and
 `sa-vipāka`.
 
+**Transcendental Time determination (Organon, not translation):** `Vipāka` and `sa-vipāka` articulate opposite temporal directions: the present faculty-instance as received from prior action, and its bearing of future maturation. These are universal Cognitions of provenance and consequence, not clock-time measurements. The particular Ideas are the faculty-instances—especially life and distress—whose two causal relations must be judged separately.
+
 ## 7. Technical Vocabulary
 
 | Sanskrit | Project rendering | Determination |
@@ -252,6 +254,8 @@ This is not offered as a universal biconditional for every determination; it
 is the stated argument concerning distress.
 
 ## 9. Interpretive Note
+
+**Organon time-reading:** This is a two-directional account of karmic temporality, not one linear chain that makes every present state simply inherited or every consequence inevitable. Life illustrates received maturation; distress illustrates present construction and future productivity without itself being maturation. The distinction keeps causal history and prospective consequence separate while leaving the Bhāṣya's scope and exceptions intact.
 
 VAK 2.10 prevents a major causal confusion. A present faculty-instance may be
 the maturation of prior karma, may produce maturation in the future, may do

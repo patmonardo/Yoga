@@ -229,6 +229,14 @@ Classification of a real non-acquisition and definition through
 the continuum's condition remain different explanatory accounts.
 Their distinction is part of the result of this unit.
 
+**Organon reading (philosophical reconstruction, not Bhāṣya doctrine):**
+The faculty's temporal governance is extended here as a Transcendental Time
+Determination of Śuddha Sattva: ordinary-person status is read through the non-arising of the
+relevant noble Ideas in this continuum, rather than their mere absence from
+one present cognition. Universal Cognition must preserve the scope of that
+history; this reading does not erase the source's distinction between a
+real-non-acquisition account and the Sautrāntika definition.
+
 ## 10. Review Status
 
 Provisional thirty-ninth study of the restarted Indriyanirdeśa

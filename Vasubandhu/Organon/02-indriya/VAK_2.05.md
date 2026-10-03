@@ -102,7 +102,7 @@ repeat the preceding enumeration.
 
 Organon rendering:
 
-> The first Indriya unit closes by defining the boundary of its SDK. The Kośa includes exactly those governing powers required to constitute, differentiate, sustain, entangle, equip, and purify its ordinary Agent. Other real causal powers remain outside the `indriya` interface because they add no new required position to this architecture. This is functional completeness within Techne.
+> The first Indriya unit closes by defining the boundary of its faculty-system. The six functions articulate the Transcendental Time Determinations of Śuddha Sattva: support, differentiation, persistence, defilement, preparation, and purification. Other real governing powers remain outside this enumeration because they add no required determination to this architecture. Its completeness is systemic, not a claim that the six are a linear chronology.
 
 ## 7. Technical Vocabulary
 
@@ -253,9 +253,11 @@ They are differently designed classifications.
 the fundamental real constitution of the conventionally designated living
 being within this analysis. `Dravya` gives it real constituent status.
 
-The closing boundary is now exact. This is a technically complete faculty-
-interface for the Kośa's conditioned path. Its classifications stop where
-their six modeled functions stop.
+The closing boundary is now exact. In the Organon reading, the six functions
+are temporal determinations through which the living process is articulated,
+not a sequence of six clock-time events. The Bhāṣya closes its faculty
+enumeration at these functions; the Transcendental Time interpretation
+remains distinct from that conventional classification.
 
 ## 10. OWL++ Seed
 

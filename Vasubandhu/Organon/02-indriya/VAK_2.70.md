@@ -195,11 +195,16 @@ clear. These irregularities do not warrant inventing an additional kind.
 The reading of *ṣaṇṇām* remains grammatically marked as genitive, with
 its intended relation clarified by prose rather than silently emended.
 
-**Organon interpretation.** The passage sharpens what it means to know
-a relation rather than a count. Seven predecessors and seven successors
-can differ in content. Likewise, a transition between two path-mind
-kinds is a local relation whose wider implications require further
-argument. Learning the system includes learning those limits.
+**Organon interpretation.** The closing profiles show temporal order to
+be asymmetric and content-specific: equal counts need not contain the
+same predecessors and successors. Trainee and beyond-training status
+further determine particular relations without reducing mind-succession
+to a person's enduring path-status.
+
+The twelve-kind account closes as one level of temporal determination.
+The next analysis refines these kinds into twenty; its finer relations
+must be established in their own right, not transferred automatically
+from this coarser scheme.
 
 **Review status.** Provisional polished study checked against the research
 kārikā, research Bhāṣya, and running Sanskrit at 105.07–26, with the

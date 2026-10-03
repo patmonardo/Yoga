@@ -107,6 +107,15 @@ previous nonexistence
     → interruption of continuity
 ```
 
+**Organon rendering (philosophical reconstruction, not literal Bhāṣya
+doctrine):** Life and the four marks articulate immanent temporal
+determinations of conditioned existence: projected span, arising,
+connected persistence, phase-difference, and interruption. Śuddha Sattva
+is determined here through the continuum's own temporal organization,
+not by an external clock or a separate set of lifecycle operators.
+Universal Cognition determines this pattern; each living continuum and
+its phases remain particular Ideas.
+
 ## 7. Technical Vocabulary
 
 | Sanskrit | Controlled rendering | Determination in this unit |
@@ -262,6 +271,11 @@ constructed substantial operators
 
 The result is not loss of determination. It is a cleaner and more functional
 determination without ontological duplication.
+
+**Organon temporal note:** The marks distinguish the lived conditions of
+continuity and change; they are not a single biography imposed on every
+continuum. This interpretation keeps the Bhāṣya's causal account distinct
+from its opponent's separate lifespan-entity.
 
 ## 10. OWL++ Seed
 

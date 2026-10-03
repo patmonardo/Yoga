@@ -171,6 +171,13 @@ identical with the eye's support. The exposition preserves the
 terms while articulating the relation through which they matter
 to one another.
 
+On the Organon reading, faculties are Transcendental Time Determinations of
+Śuddha Sattva whose efficacy appears through distinct fruit-relations:
+delayed maturation, present enabling, homogeneous continuation, and
+operative activity. Cognition is the universal determination of causal
+knowing; the particular Idea is each fruit under its specific temporal and
+appropriation profile.
+
 ## 10. Review Status
 
 Provisional fifty-sixth study of the restarted Indriyanirdeśa Bhāṣya

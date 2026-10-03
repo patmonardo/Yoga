@@ -115,6 +115,8 @@ Organon rendering:
 This rendering concerns a specific Kośa classification. It does not establish
 a general independence of function from embodiment.
 
+**Transcendental Time determination (Organon, not translation):** The pleasure-faculty is not a timeless label for agreeable content; its realization depends on whether feeling is bodily or mental and on the third-dhyāna context. Universal Cognitions name these modes of apprehending, while the particular Ideas are the agreeable or disagreeable feelings classified in them. The third-dhyāna case changes the mode available to pleasure without turning mental feeling into bodily feeling or reducing the distinction to clock-time.
+
 ## 7. Technical Vocabulary
 
 | Sanskrit | Project rendering | Determination |
@@ -200,6 +202,8 @@ The exception is narrow. It does not erase the bodily/mental distinction or
 license every agreeable mental feeling to be called `sukha-indriya`.
 
 ## 9. Interpretive Note
+
+**Organon time-reading:** The third-dhyāna exception is a change in the conditions of affective disclosure: the sensory cognition-groups are absent, so mental feeling occupies the pleasure-faculty's role. This is a determination of how experience can be organized at that level, not a claim that every continuum follows one mandatory meditative chronology.
 
 VAK 2.07 begins the detailed definition of the five feeling-faculties that
 VAK 2.03 assigned a governing role in defilement and VAK 2.06 assigned to the

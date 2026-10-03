@@ -269,6 +269,12 @@ or as mind and associated factors. A single claim of unity would conceal
 those relations. The text's examples make their differences learnable
 without requiring a separate speculative theory in the translation.
 
+On the Organon reading, faculties are Transcendental Time Determinations of
+Śuddha Sattva: practice develops capacity across occurrences, while the five
+equalities delimit one supported cognitive event. Cognition names the
+universal mode of knowing; the Idea is the particular content of learning,
+and shared content alone does not unite distinct supports.
+
 ## 10. Review Status
 
 Provisional fifty-third study of the restarted Indriyanirdeśa Bhāṣya

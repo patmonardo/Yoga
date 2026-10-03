@@ -105,6 +105,8 @@ Organon rendering:
 Bhāṣya's immediate concern is necessary co-possession (`samanvāgama`) in a
 sentient continuum.
 
+**Transcendental Time determination (Organon, not translation):** Possession records what belongs to a continuum under acquisition and non-loss, even when it is not manifest in the present event. Universal Cognition names the necessary closure-relation among possessed faculties; particular Ideas are the specific closures triggered by body, pleasure, eye, gladness, or pain. This temporal persistence of capacity is not simultaneity of feeling or a causal claim that every member produces the others.
+
 ## 7. Technical Vocabulary
 
 | Sanskrit | Project rendering | Determination |
@@ -188,6 +190,8 @@ possess an afflicted pleasure faculty assigned to another meditative level
 without presently manifesting a purified attainment of that level.
 
 ## 9. Interpretive Note
+
+**Organon time-reading:** The second-dhyāna example makes the temporal distinction concrete: possession can precede or exceed present attainment and activation. The closures are therefore minimum relations within a capability-state, not snapshots of concurrent experience. Their exact membership, rather than cardinality alone, determines each case.
 
 VAK 2.18 turns the necessary triad into a graded dependency calculus. The
 counts are minimum closures, not totals of every faculty a given individual

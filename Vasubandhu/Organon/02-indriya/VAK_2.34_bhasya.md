@@ -193,6 +193,13 @@ must preserve the members and the relations stated, while allowing
 the preceding disputes about those relations to remain open
 where the commentary has left them open.
 
+**Organon reading:** Fivefold equality locates factors in one cognitive
+occurrence, with equality of time securing their co-presence rather than a
+shared clock timestamp. Citta, manas, and vijñāna are distinct functional
+addresses of the universal cognitive act; the shared object-support is
+its particular Idea. This interpretation preserves the factors' numerical
+and functional difference.
+
 ## 10. Review Status
 
 Provisional thirty-fourth study of the restarted Indriyanirdeśa

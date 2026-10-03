@@ -106,6 +106,15 @@ same extensional state-description
 same intensional and genetic determination
 ```
 
+**Organon rendering (philosophical reconstruction, not literal Bhāṣya
+doctrine):** Two cessations with the same present absence differ in their
+genesis and future bearing: imagined escape conditions one; the noble Path
+conditions the other. Their Transcendental Time Determination is thus the
+history that makes each Idea what it is, not the clock-time at which
+operation stops. Universal Cognition grasps this path-difference; the
+attainments are particular determinations, not interchangeable instances
+of a generic cessation.
+
 ## 7. Technical Vocabulary
 
 | Sanskrit | Controlled rendering | Determination in this unit |
@@ -257,6 +266,11 @@ Mārga-prāpti
 This final sequence is an Organon reconstruction. It must not replace the
 Kośa's narrower claim that `nirodha-samāpatti` is cessation of citta and
 caittas at the summit of existence.
+
+**Organon temporal note:** The preceding path and motive are constitutive of
+the cessation's meaning; a bare present-state description cannot supply
+that temporal genesis. This remains a reconstruction, not the Bhāṣya's
+literal terminology.
 
 ## 10. OWL++ Seed
 

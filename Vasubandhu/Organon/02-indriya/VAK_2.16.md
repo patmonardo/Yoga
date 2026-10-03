@@ -117,6 +117,8 @@ Organon rendering:
 reconstruction. The textual doctrine is the coordinated cessation and
 attainment of fruits through specified faculties.
 
+**Transcendental Time determination (Organon, not translation):** The terminal cluster in gradual dying and the alternative routes to fruit mark different temporal determinations: necessary ending of a conditioned continuum, and path-mediated realization of a result. Universal Cognitions name the fruits and path-relations; their particular Ideas are the distinct faculty-sets and routes that realize them. The route is not a mere clock-time procedure, and equal fruit does not require one universal biography.
+
 ## 7. Technical Vocabulary
 
 | Sanskrit | Project rendering | Determination |
@@ -216,6 +218,8 @@ or SameFacultySet(planA, planB)
 ```
 
 ## 9. Interpretive Note
+
+**Organon time-reading:** The fourfold terminal dependency is a limit within gradual cessation, not a rule that all faculties cease together. In the attainment analysis, fruit remains distinct from route: path moments and prior dispassion shape which particular configuration mediates the same result. This is ordered transformation, not a scalar measure of realization.
 
 VAK 2.16 completes the distinction opened by the preceding verse. VAK 2.15
 described simultaneous terminal profiles by realm. The present verse isolates

@@ -270,6 +270,15 @@ or assuming that every acquisition must follow prior manifestation.
 The source's particular arguments, qualifications, and voices
 supply the grounds for each claim.
 
+**Organon reading (philosophical reconstruction, not Bhāṣya doctrine):**
+The faculty's governing efficacy is read through a Transcendental Time
+Determination of Śuddha Sattva: the competing attainments are not two
+clock-time placements of one Idea;
+their distinct path-genesis and consequence are their temporal
+determinations. Universal Cognition names the determination of path and
+purpose, while each cessation remains a particular Idea. The disputed
+continuity conditions remain exactly as the source reports them.
+
 ## 10. Review Status
 
 Provisional forty-third study of the restarted Indriyanirdeśa

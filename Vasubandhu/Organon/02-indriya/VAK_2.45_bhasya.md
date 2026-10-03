@@ -331,6 +331,14 @@ class, but the commentary tests how that inference is licensed.
 This interpretive work belongs alongside the causal analysis
 in a continuous study of the passage.
 
+**Organon reading (philosophical reconstruction, not Bhāṣya doctrine):**
+The life-faculty is read as a Transcendental Time Determination of Śuddha
+Sattva: projected lifespan and the marks of arising, persistence, change, and
+cessation articulate different temporal questions. Their answer is
+immanent to the conditioned continuum and its causes, not a universal
+clock-duration detached from the conditions specified in the commentary.
+The defender's real lifespan-dharma remains attributed to that view.
+
 ## 10. Review Status
 
 Provisional forty-fifth study of the restarted Indriyanirdeśa

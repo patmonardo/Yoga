@@ -211,6 +211,14 @@ direction of the regret concerning it. This is the local result;
 a further theory of moral self-knowledge would require additional
 argument beyond the present definitions.
 
+**Organon reading:** The count describes the composition of a particular
+desire-realm cognitive occasion. Remorse is a conditional addition whose
+ethical determination depends on the deed and the direction of evaluation;
+it is not a lasting faculty or inevitable life-stage. Its remembered deed
+is the particular content under evaluation, not an additional factor.
+These are Organon terms for the analysis, not the Bhāṣya's own doctrine of
+Transcendental Time.
+
 ## 10. Review Status
 
 Provisional twenty-eighth study of the restarted Indriyanirdeśa

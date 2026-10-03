@@ -150,12 +150,15 @@ beginning that analysis here.
 
 | External Principle | Cognitions specified |
 |---|---|
-| Visible Form | Eye-Cognition and Mind-Cognition |
+| Sight | Eye-Cognition and Mind-Cognition |
 | Sound | Ear-Cognition and Mind-Cognition |
 | Smell | Nose-Cognition and Mind-Cognition |
 | Taste | Tongue-Cognition and Mind-Cognition |
-| Tangible Form | Body-Cognition and Mind-Cognition |
+| Touch | Body-Cognition and Mind-Cognition |
 | Remaining thirteen Principles | Mind-Cognition alone |
+
+Here Sight and Touch name object-Domains, not the Eye and Body Faculties or
+the acts of seeing and touching.
 
 The five are external field-Principles, not the five sensory Faculties.
 The remaining thirteen comprise the twelve internal Principles and
@@ -246,7 +249,7 @@ experience/Mind-Cognition pair is a distinction between modes of
 access, not an asserted cause-and-result sequence.
 
 For example, in the earlier visual analysis, the Eye Faculty
-Principle is the *āśraya* of Eye-Cognition, while visible Form is
+Principle is the *āśraya* of Eye-Cognition, while the Sight Domain is
 its *ālambana*—the field-support Cognition apprehends. Neither
 relation is itself *hetu/phala*. Here the Bhāṣya explicitly uses
 only *sālambanatva* to explain the ordering of the Mind Faculty.
@@ -261,6 +264,9 @@ Their unity does not make them interchangeable.
 **Organon reading:** The Mind Faculty's *ālambana*-relation marks a
 field-directed capacity; it is not a cause-result claim and does not
 erase the difference between a cognitive support and a cognitive field.
+In this register, the six *vijñāna*-dhātus are **Ideas**, particular
+determinations of universal **Cognitions**; the close translation above
+retains “Cognition” for *vijñāna*.
 The eighteen Principles and twenty-two Faculties are intersecting
 classifications, not competing inventories. This positions the Dhātu
 account for the Indriya-nirdeśa without performing the later

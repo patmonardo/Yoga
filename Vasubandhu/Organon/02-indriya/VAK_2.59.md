@@ -106,6 +106,14 @@ give fruit
     = the determinate result becomes manifest
 ```
 
+**Organon interpretation—not literal Bhāṣya doctrine.** Facultyhood is read
+as a Transcendental Time Determination of Śuddha Sattva through the
+transition from a cause's acquired seed-capacity to its type-specific
+exercise toward a result. “Taking” and “giving” determine
+causal phases, not clock-time stamps or a promise that the finished effect
+already exists. Cognition names the universal form of causal knowing; the
+particular Idea is the seed/result relation fixed by its cause-type.
+
 ## 7. Technical Vocabulary
 
 | Sanskrit | Controlled rendering | Determination in this unit |

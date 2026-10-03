@@ -93,10 +93,10 @@ Bhāṣya explicitly defers their detailed exposition.
 
 Restrained Organon rendering:
 
-> The class is defined intensionally by shared constraints, not extensionally as a required feature-set. Membership means satisfying the same association, domain, and abandonment rules. A valid model must therefore distinguish `ClassOfFactors` from `FactorsRequiredInEveryState`.
+> The fifth ground marks a shared path-relation, not a bundle that must appear in every moment: its members are related to ignorance, confined to the mental sphere, and abandoned through cultivation. In Organon terms, this is a determinate relation of defilement and its path-specific transformation within Śuddha Sattva, not a universal sequence of episodes. Classifying a factor by this range does not establish its co-presence with every other member.
 
-This distinction is project-level terminology applied to the Bhāṣya's exact
-range restrictions.
+This interpretation applies the Bhāṣya's exact range restrictions without
+converting them into a doctrine of necessary co-presence.
 
 ## 7. Technical Vocabulary
 
@@ -242,6 +242,12 @@ RequiredBundle
 
 GroundClass ≠ RequiredBundle
 ```
+
+**Organon temporal reading:** These members share a relation to ignorance
+and cultivation-abandonment, not necessary co-presence in one moment. Their
+classification marks a path-specific possibility for transforming
+defilement, not a set of events that must occur in every biography or a
+clock-timed duration of affliction.
 
 ## 10. OWL++ Seed
 

@@ -98,7 +98,7 @@ specific governing functions.
 
 Organon rendering:
 
-> The ordinary knowing system differentiates specialized and general powers of access. Five faculties govern apprehension within five proper object-Domains; mind governs apprehension across all object-Domains. The same functional method then distinguishes two formative faculties within the body. Indriya is thus a role in conditioned Techne: a dharma or Dharma-part becomes a faculty where its condition exercises predominant command over a determinate operation.
+> As Transcendental Time Determinations of Śuddha Sattva, the faculties articulate specialized and general modes of apprehension. Five govern apprehension within their proper object-Domains; mind governs it across all object-Domains. The female and male faculties further determine embodied differentiation without becoming substances separate from the body-faculty. The object determines the particular Idea; the faculty governs the temporal mode through which universal Cognitions apprehend it.
 
 ## 7. Technical Vocabulary
 
@@ -223,7 +223,8 @@ conduct, and orientation. The account should be preserved as the historical
 Kośa classification; it should not be silently converted into a contemporary
 biological, psychological, or ethical theory.
 
-The lesson for the Organon is strictly technical:
+The Organon reading retains the distinction between Domain and temporal
+determination:
 
 ```text
 Domain membership
@@ -236,7 +237,9 @@ a distributed conditioned configuration
 ```
 
 The achievement of this analysis is exact: it distinguishes the powers that
-govern conditioned apprehension and embodied configuration.
+govern apprehension and embodied configuration. The Transcendental Time
+reading is an Organon interpretation of that governing relation, not a
+replacement for the Bhāṣya's conventional account.
 
 ## 10. OWL++ Seed
 

@@ -171,17 +171,12 @@ The broader source includes transcription irregularities in the later
 twenty-kind summary; its enumerated divisions nevertheless establish
 the count. No independently collated Sanskrit edition is claimed.
 
-**Organon interpretation.** Refinement makes a previously unexpressed
-difference explicit. Here, knowledge of wholesomeness is supplemented
-by how that wholesome kind is obtained. The classification remains
-accountable to its members: an announced number must be explained
-by the actual distinctions made.
-
-For learning, this is an important correction to a merely formal
-account of richer classification. Adding a label called “acquisition
-mode” does not explain all eight new distinctions. Some arise from
-the wholesome split; others require a different subdivision in the
-next verse. Each operation needs its own textual and conceptual grounds.
+**Organon interpretation.** Refinement articulates finer Transcendental
+Time Determinations within the previously established succession field.
+How wholesome mind is obtained—through application or birth—marks
+different modes of its temporal emergence; the additional divisions
+require further determinations in 2.72. The finer kinds do not simply
+inherit every relation of the coarser twelvefold scheme.
 
 **Review status.** Provisional polished study checked against the research
 kārikā, research Bhāṣya, and running source at 105.24–106.12, with 2.72's

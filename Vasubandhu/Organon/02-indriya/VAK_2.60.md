@@ -104,6 +104,15 @@ complete cause system
     = admissible genetic profile
 ```
 
+**Organon interpretation—not literal Bhāṣya doctrine.** The first
+uncontaminated occurrence instantiates a threshold Transcendental Time
+Determination of Śuddha Sattva: it has no prior homogeneous noble instance,
+yet arises through its admissible causes.
+The faculty determines this change of cognitive status without turning it
+into the first moment of every continuum's biography. Cognition names the
+universal path-knowing determination; the particular Idea is this first
+uncontaminated profile and its excluded causal relations.
+
 ## 7. Technical Vocabulary
 
 | Sanskrit | Controlled rendering | Determination in this unit |

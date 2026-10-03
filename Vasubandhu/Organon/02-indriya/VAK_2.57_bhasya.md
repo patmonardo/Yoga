@@ -191,6 +191,12 @@ Disconnection then requires a further distinction, since knowing
 through wisdom is related to a result whose account cannot simply
 be borrowed from produced maturation.
 
+On the Organon reading, faculties are Transcendental Time Determinations of
+Śuddha Sattva across delay, same-kind continuation, and the exhaustion of
+bondage. Cognition names the universal discriminative determination; the
+particular Idea is the bond whose recurrence ceases. This interpretive
+coordination does not turn the Bhāṣya's `dhī` into `prajñā`.
+
 ## 10. Review Status
 
 Provisional fifty-seventh study of the restarted Indriyanirdeśa

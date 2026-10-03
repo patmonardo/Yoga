@@ -190,6 +190,13 @@ That argumentative use should remain attached to the source's
 particular example rather than become an independent theological
 thesis in the translation.
 
+**Organon reading:** The sequence of dhyāna exclusions is a path-specific
+ordering of contemplative determinations, not a clock chronology or
+universal life-course. Each stated ground constrains what may operate
+there, while the Bhāṣya expressly prevents equating exclusion of the
+unwholesome with elimination of every affliction. This does not make the
+stages interchangeable or the temporal order merely metaphorical.
+
 ## 10. Review Status
 
 Provisional thirty-first study of the restarted Indriyanirdeśa

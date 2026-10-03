@@ -99,6 +99,15 @@ cessation of reflective operation
     ⇏ possession of the Concept
 ```
 
+**Organon rendering (philosophical reconstruction, not literal Bhāṣya
+doctrine):** The verse distinguishes a temporal suspension that suppresses
+cognitive operation from a path-determined cessation grounded in Knowledge.
+Both can lack present mental activity, but only one has the noble Path as
+its genesis and measure. This is a Transcendental Time Determination of
+Śuddha Sattva: not a clock interval and not the claim that cessation itself
+is liberation. Universal Cognition cannot be inferred from a stopped
+process; the particular attainment-Idea retains its conditioned history.
+
 ## 7. Technical Vocabulary
 
 | Sanskrit | Controlled rendering | Determination in this unit |
@@ -246,6 +255,11 @@ no reflection event
 
 An Agent must be tested positively for Concept-possession and Path-knowledge,
 not classified as knowing merely because reflective search has ceased.
+
+**Organon temporal note:** The decisive time-relation is genetic: preparation
+and mistaken expectation condition the non-reflective attainment and its
+result. Its present suspension does not become Knowledge simply because
+reflection is absent.
 
 ## 10. OWL++ Seed
 

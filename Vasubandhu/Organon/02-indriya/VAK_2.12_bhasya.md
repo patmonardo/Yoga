@@ -179,6 +179,8 @@ form realm itself as the item being subtracted.
 
 ## 9. Philosophical and Organon Study
 
+**Organon extension—not a literal Bhāṣya doctrine:** Realm conditions can be read as different horizons for the temporal articulation of faculties, but not as a guaranteed itinerary or a measure of spiritual advancement. Universal Cognition names the mode of operation bounded by each realm-profile; the particular Ideas are the included and excluded faculties. The distinction preserves the commentary's separation of realm-affiliation from stainless path-realization.
+
 The passage tests how a previously defined faculty-system is
 qualified by realm. The same vocabulary must retain several
 relations: faculty identity, possible realm-affiliation, and

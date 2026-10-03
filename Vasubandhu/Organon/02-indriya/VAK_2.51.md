@@ -114,6 +114,13 @@ co-presence
     = citta-followership
 ```
 
+**Organon interpretation—not literal Bhāṣya doctrine.** Read the faculty
+here as a Transcendental Time Determination of Śuddha Sattva that lets this
+Citta-complex be one occurrence: shared arising, duration, cessation, and
+coordinated result-profile, not mere clock-time simultaneity. Cognition names the
+universal determination of knowing; the Idea is the particular object and
+ethical-causal profile disclosed in that occurrence.
+
 ## 7. Technical Vocabulary
 
 | Sanskrit | Controlled rendering | Determination in this unit |

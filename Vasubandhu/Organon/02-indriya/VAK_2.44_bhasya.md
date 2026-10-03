@@ -319,6 +319,15 @@ genesis and path-context, not their shared cessation alone.
 These determinations support a systematic reading without replacing
 the source's different voices with one preferred reconstruction.
 
+**Organon reading (philosophical reconstruction, not Bhāṣya doctrine):**
+The governing faculty's temporal power is a Transcendental Time
+Determination of Śuddha Sattva: prepared support, suspended operation,
+and return of cognition define different moments of one conditioned
+capacity; the attainment's name is
+not an extra event that causes them. The Sage's immediate acquisition
+qualifies any strictly sequential account. These distinctions interpret
+the source's arguments without assigning them a literal Organon vocabulary.
+
 ## 10. Review Status
 
 Provisional forty-fourth study of the restarted Indriyanirdeśa

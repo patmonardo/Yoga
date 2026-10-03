@@ -106,10 +106,10 @@ occurrence of crookedness, intoxication, and deception at that level.
 
 Restrained Organon rendering:
 
-> The bhūmi acts as a stage-indexed schema. Each transition inherits prior incompatibilities and adds new exclusions. State refinement is therefore monotonic with respect to forbidden factors, while the remaining factor-set must still be computed at each stage.
+> The dhyāna levels articulate a path-specific ordering of contemplative determinations: each higher ground inherits prior exclusions and adds the cessation of vitarka and then vicāra. This is a structured transformation in the purification of Śuddha Sattva, not a clock-time sequence or a universal biography. The exclusions describe what cannot operate in the relevant ground; they do not imply that all affliction has vanished or that every moment at a level is otherwise identical.
 
-“Stage-indexed schema” and “monotonic” are project renderings. The textual
-doctrine gives cumulative caitta exclusions across dhyāna levels.
+This Organon reconstruction is anchored in the textual doctrine of
+cumulative caitta exclusions across dhyāna levels.
 
 ## 7. Technical Vocabulary
 
@@ -199,13 +199,14 @@ The first dhyāna introduces exclusions; the intermediate dhyāna inherits them
 and removes `vitarka`; the second and higher levels inherit those exclusions
 and remove `vicāra` as well.
 
-This is a strict temporal and stage schema:
+This is a path-ordered configuration schema, not a clock-time or universal
+biographical timeline:
 
 ```text
-earlier configuration
+lower-ground configuration
     → inherited exclusions
     → additional incompatibility
-    → later configuration
+    → higher-ground configuration
 ```
 
 Yet the Bhāṣya refuses a simplistic ascent from “bad” to “good.” Crookedness,
@@ -237,11 +238,18 @@ how many caittas
 For the Kośa Technē, the restrained schema is:
 
 ```text
-CaittaProfile<bhumi, citta, time>
+CaittaProfile<bhūmi, citta-event>
     = inherited requirements
     − stage exclusions
     + event-local compatible factors
 ```
+
+**Organon temporal reading:** The dhyāna order determines a path-relative
+transformation in what may operate: first the named exclusions, then
+vitarka, then vicāra. This is an ordered determination of contemplative
+ground, not clock duration, not the total temporal history of any
+continuum, and not evidence that each higher ground contains only wholesome
+factors.
 
 ## 10. OWL++ Seed
 
