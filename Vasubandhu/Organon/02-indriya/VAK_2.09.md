@@ -145,7 +145,7 @@ path of no-more-training
 
 Organon rendering:
 
-> The same component architecture can be synthesized into different higher-order capacities by its path-context. The path does not erase mind, feeling, confidence, energy, recollection, concentration, or prajñā. It gives their coordinated operation one Agent-level identity. Stainlessness belongs necessarily to the three realized path-configurations, while nine of their component faculties remain capable of with-outflow or without-outflow operation according to context.
+> The same nine Faculty-types receive three path-designations according to their task: knowing what was not known, cultivating that knowing, and having known. Dhātu 1.48 supplies their reciprocal placement: Mind-Faculty maps to the Citta Domains; the five path Faculties and three feelings among the nine occupy the Essence-Domain portion; portions of the three path-realization Faculties are also there. The path does not erase those Dhātu positions; it reconstructs their coordinated operation as a stainless path-configuration.
 
 This is an Organon reconstruction of the Bhāṣya's collective classification.
 It does not identify the triad with Buddha Mind or `śuddha-sattva` as a textual
@@ -324,6 +324,28 @@ but provisionally:
 That is an Organon hypothesis, not Vasubandhu's terminology. What the text
 establishes is already powerful: many twofold faculties can constitute one
 necessarily stainless path-faculty through coordinated operation.
+
+**Reciprocal return to Dhātu.** The Dhātu map makes this path synthesis
+non-flat. The nine components do not all occupy one Domain: Mind-Faculty
+maps across the seven Citta Domains, while eight of the components—the
+five beginning with Confidence and the three feeling-Faculties named here—
+belong to the mapped portion of the Essence-Domain. Dhātu 1.48 also places
+portions of the final three realization-Faculties there. Indriya 2.09
+returns to those distinct loci and shows how path-context coordinates them.
+The Dharmadhātu is therefore a decisive locus in this account, but not
+the sole Domain of the nine-component path architecture.
+
+**Determinate negation.** The path's stainlessness negates outflow-status
+at the level of the realized triad, not the identities of its component
+Faculties. The nine twofold Faculty-types may occur with or without
+outflows; under the three path-tasks, their coordinated determination is
+exclusively without outflows. Likewise, the Bhāṣya rejects the claim that
+the five beginning with Confidence are exclusively stainless: they can
+occur with outflows in ordinary persons. This is the Fichtean return in
+mind—negate the false isolation of a Faculty from its path-context, then
+reconstruct its status through the Dhātu locus and operative task. The
+verse does not name Sāṃkhya–Yoga or identify its Faculties as belonging
+only to Dharmadhātu.
 
 ## 10. OWL++ Seed
 

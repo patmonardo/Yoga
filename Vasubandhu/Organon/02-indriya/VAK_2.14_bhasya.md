@@ -209,6 +209,16 @@ account of rebirth. Their systematic precision does not require
 turning that cosmology into modern developmental science or
 importing a further theory of the origin of consciousness.
 
+**Return to Dhātu at its last kārikā:** VAK 1.48's Faculty-incidence
+map is the exact return point. VAK 2.14 qualifies those same
+Domain-loci by initial acquisition as maturation-result according
+to realm and birth mode. The formless realm's one initial result
+is Life, but the Bhāṣya does not infer that the other Faculties
+or their Dhātu positions are absent. Mind and neutral feeling at
+relinking make explicit the distinction between presence and
+acquisition as *vipāka*. The return reconstructs the terminal
+Dhātu map through one causal predicate without replacing the map.
+
 ## 10. Review Status
 
 Provisional fourteenth study of the restarted Indriyanirdeśa Bhāṣya

@@ -156,6 +156,26 @@ words such as faith, concentration, or knowing are automatically
 wholesome. Their technical faculty-designations govern the scope
 of the claim here.
 
+**Return to Dhātu at its last kārikā:** The Organon return point is
+VAK 1.48, where Faculty-status is mapped across the Domains and
+their parts. The five beginning with Confidence and portions of the
+final three realization-Faculties occupy the Essence-Domain; these
+are the eight faculties classified as wholesome here. Mind maps to
+the Citta Domains and, with the four feelings other than distress,
+is ethically threefold. Distress is twofold; the seven material
+Faculties and Life are indeterminate-only. The ethical classification
+returns to Dhātu's terminal incidence map without relocating or
+replacing its Faculty-bearing loci.
+
+This is the Organon's Fichtean reconstruction: Dhātu's mapped
+Faculty architecture is suspended in itself until Indriya returns
+with another operative determination. Ethical qualification neither
+negates the Faculty nor changes its Dhātu placement; it determines
+the permissible ethical modes of its instances. Affective neutrality
+is not ethical indeterminacy, and wholesome status is not identical
+with stainlessness. This return is an Organon reading, not a claim
+that the Bhāṣya itself describes its classifications as suspended.
+
 ## 10. Review Status
 
 Provisional eleventh study of the restarted Indriyanirdeśa Bhāṣya

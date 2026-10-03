@@ -98,7 +98,7 @@ specific governing functions.
 
 Organon rendering:
 
-> As Transcendental Time Determinations of Śuddha Sattva, the faculties articulate specialized and general modes of apprehension. Five govern apprehension within their proper object-Domains; mind governs it across all object-Domains. The female and male faculties further determine embodied differentiation without becoming substances separate from the body-faculty. The object determines the particular Idea; the faculty governs the temporal mode through which universal Cognitions apprehend it.
+> Read with Dhātu 1.45 and 1.48, the object-Domain is the shareable *ālambana* and gives the particular Idea; the Faculty-Domain is the specific *āśraya* whose variation governs universal Cognitions. The five sensory Faculties govern their proper fields, while Mind governs apprehension across them all. Female and Male Faculties are not separate substances: as portions of the Body-Domain, they govern a distributed embodied configuration. These are Transcendental Time Determinations of Śuddha Sattva, not matching entries in two inventories.
 
 ## 7. Technical Vocabulary
 
@@ -223,23 +223,20 @@ conduct, and orientation. The account should be preserved as the historical
 Kośa classification; it should not be silently converted into a contemporary
 biological, psychological, or ethical theory.
 
-The Organon reading retains the distinction between Domain and temporal
-determination:
+**Reciprocal inference:** Dhātu supplies both a specific support-locus
+and a shareable object-field; Indriya distinguishes their governing
+roles. A change in the Faculty conditions a corresponding change in
+Cognition, while the object-field can be shared across several
+Cognitions without itself becoming a Faculty. Mind's *sarvārtha*
+extends the governing range across Domains but does not erase their
+distinctness. In the embodied case, a part of the Body-Domain governs
+a wider configuration without becoming a separate substance.
 
-```text
-Domain membership
-    does not settle
-functional faculty-status
-
-material part
-    may govern
-a distributed conditioned configuration
-```
-
-The achievement of this analysis is exact: it distinguishes the powers that
-govern apprehension and embodied configuration. The Transcendental Time
-reading is an Organon interpretation of that governing relation, not a
-replacement for the Bhāṣya's conventional account.
+The resulting feature has typed positions—Faculty support, object-field,
+governing operation, and particular Idea. Its structure can be preserved
+across Prajñā, GDSL, and SDSL without imposing an itemwise bijection
+between Domains and Faculties. This Organon inference extends the
+Bhāṣya's argument; it does not replace its conventional translation.
 
 ## 10. OWL++ Seed
 

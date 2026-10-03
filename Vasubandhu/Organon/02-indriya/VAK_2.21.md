@@ -220,6 +220,20 @@ from necessary triad through minimum and maximum configurations has generated
 a field of configurations governed by implication, mutual exclusion, realm,
 ethical condition, and path-stage.
 
+**Principle and Rule (Organon, not the Bhāṣya's terminology).** VAK 1.48
+provides the Principle: the typed incidence of Faculties in Domains and
+Domain-parts, not merely a total of twenty-two. VAK 2.21 states a local Rule
+over that Principle: the maximum is nineteen, realized either by the
+complete worldly possessor who excludes all three stainless Faculties, or
+by the attached noble trainee who excludes one sexual Faculty and two
+stainless Faculties. The Principle establishes the mapped Faculty
+determinations; the Rule selects compatible possession-configurations
+according to bearer and path-status. In turn, the two exclusion-patterns
+show how those determinations operate rather than remain a static map.
+Neither Principle nor Rule alone is this practical Science; their reciprocal
+determination is. This verse begins that local Principle–Rule articulation,
+without completing the broader synthesis reserved for after Indriya.
+
 **Organon temporal reading:** The nineteen-member cases are two distinct
 present organizations of Śuddha Sattva, not points on a single scale that
 advances by accumulating faculties. The excluded members articulate

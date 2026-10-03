@@ -232,6 +232,19 @@ instruction stream: the grammatical operand begun at the end of 2.18 is
 completed by the count at the start of 2.19. We record that interface here,
 but defer the composition of the eightfold configurations to the next study.
 
+**Return to Dhātu at its last kārikā, VAK 1.48.** Dhātu gives the five
+sensory Faculties their corresponding internal sensory Domains, places
+Female and Male Faculties in part of the Body-Domain, and locates Life and
+the feeling Faculties among those in a portion of the Essence-Domain; the
+Mind-Faculty is mapped across the seven Citta Domains. VAK 2.18 reconstructs
+co-possession across these distinct loci. For example, possession of Eye
+requires Body, Life, neutral feeling, and Mind: one sensory locus closes
+through Body, Essence, and Citta incidences. The count is thus not another
+Domain-to-Faculty bijection, but a determinate relation among already placed
+Faculties. The Fichtean return negates a merely static reading of Dhātu by
+showing how its map operates as dependency, without making co-possession
+causal production or simultaneous manifestation.
+
 ## 10. OWL++ Seed
 
 ```ttl

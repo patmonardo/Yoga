@@ -202,6 +202,20 @@ does not collapse into conditioned co-arising. This reading places the
 classification within the temporal organization of Śuddha Sattva without
 attributing that philosophical framework to the Bhāṣya's translation.
 
+**Return to the Dhātu Principle:** VAK 1.48 places Mind-Faculty across the
+seven Citta Domains. That typed incidence is not the same determination as
+the mental factors associated with Citta; VAK 2.23 makes their necessary
+co-arising explicit without converting a factor into a Faculty. The Rule of
+association is followed by a separate classification through *bhūmi*, the
+factor's operating range.
+
+**Section boundary:** In the Pruden framing you identify, VAK 2.22 marks
+the end of Rule Theory. VAK 2.23 is the transition into the Mental-Factor
+analysis: it carries co-arising into consciousness, then shifts its main
+question to the five classes and their grounds. For the deep dive, these
+relations must remain distinct: mutual co-arising of Citta and factors,
+conditioned marks, restricted *prāpti*, and factor-specific operating range.
+
 ## 10. Review Status
 
 Provisional twenty-third study of the restarted Indriyanirdeśa

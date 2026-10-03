@@ -159,20 +159,29 @@ references to groups already introduced.
 
 ## 9. Philosophical and Organon Study
 
-**Organon extension—not a literal Bhāṣya doctrine:** Read through Transcendental Time, the verse determines the mode under which pleasant feeling can govern experience: ordinarily bodily, but mental in the specified dhyāna where sensory Cognitions are absent. The particular Idea remains the feeling-content and its tone; the universal Cognition is the mode of apprehension that makes its faculty-classification possible. This extends, but does not translate, the commentary's narrow reason.
+**Organon extension—not a literal Bhāṣya doctrine:** Dhātu 1.48
+locates the five feeling-Faculties within a portion of the
+Essence-Domain. Indriya 2.07 returns to that map and distinguishes
+Pain and Pleasure by affective character and mode: disagreeable
+bodily feeling is pain; agreeable bodily feeling is ordinarily
+pleasure; agreeable mental feeling is also pleasure-faculty in the
+third dhyāna, where the five sensory Cognitions are absent. The
+Faculty classification persists through this qualified change, but
+the bodily and mental modes do not collapse into one another.
 
-This passage shows why a faculty-name cannot be read from one
-isolated attribute. Pleasantness alone does not settle the full
-classification; bodily or mental mode and the meditative setting
-also matter. The third-dhyāna assignment requires the study to
-retain those relations together.
+The Fichtean return negates the assumption that Pleasure-Faculty
+must always be bodily, then reconstructs its application under the
+stated third-dhyāna condition. This is a determinate exception, not
+a general detachment of Faculty from its conditions. The next verse
+will distinguish mental gladness; it must not be collapsed into this
+specific pleasure-faculty exception.
 
-For Organon reconstruction, the useful principle is precision about
-the conditions under which a determination applies. The name
-“pleasure-faculty” includes pleasant bodily feeling and the specified
-pleasant mental feeling without erasing their difference. That is
-a controlled classificatory relation, not evidence that every
-function can be detached from its conditions of realization.
+This passage does not establish that Sāṃkhya–Yoga Faculties belong
+only to the Essence-Domain. Dhātu 1.48 also maps sensory Faculties
+to sensory Domains, Mind-Faculty to the Citta Domains, and Female
+and Male Faculties to part of the Body-Domain. That broader
+Sāṃkhya–Yoga claim remains a hypothesis requiring its own textual
+argument; the current Bhāṣya only explains the two feeling-Faculties.
 
 The chapter's editorial transition is equally instructive. A faculty's
 governing role, its definition, and the category under which it is

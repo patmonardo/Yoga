@@ -233,6 +233,20 @@ wholesome roots are severed, yet their practical determination is opposed.
 Rational-moral evaluation must inspect the configuration and its direction,
 not maximize the count.
 
+**Return to Dhātu at its last kārikā, VAK 1.48.** The two minima actualize
+different parts of the typed map. In the root-severed case, Body-Faculty
+occupies its internal sensory Domain; the five feelings and Life belong to
+the Essence-Domain portion; Mind-Faculty is mapped across the Citta Domains.
+In the formless case, neutral feeling, Life, and the five wholesome
+Faculties are in the Essence-Domain portion, while Mind remains mapped to
+Citta; the sensory Faculties' Dhātu loci are not thereby erased, although
+they are absent from this possessor's configuration. The three realization
+Faculties also have portions in the Essence-Domain, but their locus there
+does not make them possessed by this ordinary person. The return negates a
+flat reading of Dhātu as an undifferentiated inventory and reconstructs
+each minimum as a realm- and status-conditioned possession-set. Equal count
+does not make these configurations identical or rank one above the other.
+
 ## 10. OWL++ Seed
 
 ```ttl

@@ -236,6 +236,19 @@ co-arising bears on the material support of Śuddha Sattva while leaving
 elemental composition distinct from the faculties whose governance is at
 issue elsewhere.
 
+**Principle and Rule: closure of Rule Theory (Organon reading).** Dhātu 1.48
+provides the Principle: a typed map that distinguishes Faculty-bearing
+Domains and Domain-parts from the external material fields without Faculty-
+status. The Bhāṣya here asks for a Rule: do conditioned dharmas with
+distinct characteristics arise separately, or do some necessarily arise
+together? Its material answer is conditional and exact: the soundless base
+has eight constituents; Body-Faculty adds one; another sensory Faculty adds
+one more, with sound adding one in the Bhāṣya's variants. The Rule does not
+collapse constituents into Faculties or replace their Dhātu placements; it
+specifies their lawful co-arising. In the Pruden framing you identify, this
+marks the end of Rule Theory at the faculty/material interface, before the
+inquiry broadens to further classes of conditioned dharmas.
+
 ## 10. OWL++ Seed
 
 ```ttl

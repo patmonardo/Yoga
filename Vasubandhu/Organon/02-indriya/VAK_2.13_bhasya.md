@@ -171,6 +171,22 @@ principle established by the Bhāṣya. A broader account of preservation,
 transformation, or the mechanisms of abandonment would require
 further textual demonstration.
 
+**Return to Dhātu at its last kārikā:** VAK 1.48's mapped incidence
+is the return point. The seven material Faculties and Life retain
+their mapped sensory, Body, and Essence-Domain loci while belonging
+to the cultivation-only group. Mind and the three feeling-Faculties
+are threefold in abandonment-status; Mind is mapped across the Citta
+Domains and the feelings to the Essence-Domain portion. The five
+beginning with Confidence and portions of the final three Faculties
+are also located in that Essence-Domain portion; outflow-status
+determines whether the former are abandoned or preserved, while the
+faultless triad is never abandoned.
+
+The return is Fichtean in the project's sense: negate the faulted
+instance, not its Faculty or Dhātu locus, then reconstruct the
+terminal Dhātu map as differentiated path-operations. VAK 2.13
+contributes the qualified distribution of abandonability.
+
 ## 10. Review Status
 
 Provisional thirteenth study of the restarted Indriyanirdeśa Bhāṣya

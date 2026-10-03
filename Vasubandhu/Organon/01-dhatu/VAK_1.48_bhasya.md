@@ -261,16 +261,22 @@ knowability, the permanence of Essences within a portion of the Essence
 Principle, and Faculty-status across whole Principles and their parts.
 Their unity does not make them interchangeable.
 
-**Organon reading:** The Mind Faculty's *ālambana*-relation marks a
-field-directed capacity; it is not a cause-result claim and does not
-erase the difference between a cognitive support and a cognitive field.
-In this register, the six *vijñāna*-dhātus are **Ideas**, particular
-determinations of universal **Cognitions**; the close translation above
-retains “Cognition” for *vijñāna*.
-The eighteen Principles and twenty-two Faculties are intersecting
-classifications, not competing inventories. This positions the Dhātu
-account for the Indriya-nirdeśa without performing the later
-Principle:Rule pass in advance.
+**Organon reading:** This closing mapping is the first explicit
+Dhātu–Indriya crosswalk. The Dhātu classification determines where
+Faculty-status is located: five internal sensory Domains, seven Citta
+Domains mapping to one Mind Faculty, portions of the Body and Essence
+Domains, and the non-faculty remainder. The Indriya chapter then asks
+what makes these selected loci Faculties. Its answer, *ādhipatya*,
+must be read together with this incidence map.
+
+The reciprocity is not a bijection between eighteen Domains and
+twenty-two Faculties. A Domain may be a Faculty's locus, a field it
+governs, or a non-faculty object-field; a Faculty may be a whole-Domain
+designation or a part-Domain determination. Thus Dhātu supplies the
+structured locus and field of operation, while Indriya articulates
+the governing determination within it. The six *vijñāna*-dhātus remain
+particular **Ideas** within universal **Cognitions** in the Organon
+reading; the close translation retains “Cognition” for *vijñāna*.
 
 ## 11. Review Status
 

@@ -265,6 +265,25 @@ construals before concluding that faith and the others can occur
 with outflows. This is a precise contribution to systematic study,
 without requiring an additional Organon doctrine to enter the translation.
 
+**Reciprocal return to Dhātu:** Dhātu 1.48 locates Mind-Faculty across
+the Citta Domains, the five Faculties beginning with Confidence and
+the feeling-Faculties in a portion of the Essence-Domain, and portions
+of the final three realization-Faculties there as well. Indriya 2.09
+shows how those distinct loci are coordinated under the three path-tasks.
+The Dharma-Domain is decisive for the path Faculties, but the nine-
+component architecture is not confined to it.
+
+The negation is also typed: the nine components' twofold outflow-status
+is not transferred to the triad as a whole. The same Faculty-types may
+operate with or without outflows, while their realized path-configuration
+is exclusively without outflows. Similarly, the five beginning with
+Confidence are not inherently stainless; the Bhāṣya argues that they
+also occur with outflows. On the project's Fichtean return, the path
+negates a fixed status assigned to a Faculty by name alone and
+reconstructs it through its Domain locus and actual task. The Bhāṣya
+does not identify this account with Sāṃkhya–Yoga or state that all
+its Faculties belong only to Dharmadhātu.
+
 ## 10. Review Status
 
 Provisional ninth study of the restarted Indriyanirdeśa Bhāṣya

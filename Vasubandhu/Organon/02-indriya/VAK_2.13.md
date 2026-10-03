@@ -119,7 +119,7 @@ na hi nirdoṣaṃ prahāṇārham
 
 Organon rendering:
 
-> Abandonment is a typed transformation policy applied to qualified faculty-instances. Seeing removes one class of fault; cultivation transforms and exhausts another; faultless operation is retained. The Agent must therefore preserve faculty identity, provenance, and mode while deciding whether a determination is rejected, cultivated away, or carried forward.
+> VAK 1.48 is the suspended Dhātu map to which this path-classification returns. Abandonment is a typed transformation of qualified Faculty-instances within that map: seeing removes some faults, cultivation exhausts others, and faultless operation is retained. The Agent preserves Faculty identity and Dhātu locus while determining whether a qualified instance is abandoned or carried forward.
 
 This rendering does not identify `prahāṇa` with software deletion. It uses a
 technical analogy to preserve the Bhāṣya's instance-sensitive distinctions.
@@ -271,6 +271,25 @@ never infer:
     one faulted instance
         → delete the governing faculty itself
 ```
+
+**Return to Dhātu at its last kārikā.** VAK 1.48's incidence map
+returns in exact detail. The seven material Faculties and Life
+belong to the cultivation-only group; their Dhātu loci remain the
+five internal sensory Domains, a part of Body, and the Essence-
+Domain portion. Mind and the three feeling-Faculties named with it
+are threefold in path-status; Mind maps across the Citta Domains,
+and feelings occupy the Essence-Domain portion. The five beginning
+with Confidence and the three realization-Faculties correspond to
+the wholesome path group, with the final three only partly placed
+in the Essence-Domain. VAK 2.13 does not replace any of these
+positions: it returns to the terminal Dhātu map to specify which
+qualified instances are abandoned, cultivated, or preserved.
+
+This is the Fichtean return in mind. The negation falls on the
+faulted instance, not the Faculty or its Dhātu placement. Conversely,
+the non-abandonable status of a faultless operation does not turn
+each occurrence into a permanent event. The return reconstructs the
+same mapped architecture under the path's distinct operations.
 
 The fivefold natural object and ten Samyama-bhūmis are Yoga–Organon
 architecture, not terms in VAK 2.13. The textual contribution is the

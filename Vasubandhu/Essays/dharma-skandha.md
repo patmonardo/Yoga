@@ -109,6 +109,26 @@ indriya
     ↔ vijñāna
 ```
 
+In this Organon comparison, Hegelian Logic is Pure Theoretical Reason,
+while the Kośa is Practical Reason: the former articulates the movement
+of determinations, and the latter shows that movement operating through
+Domains, Faculties, and Cognition. The return is Fichtean in method.
+Indriya negates Dhātu as a merely given classification and reconstructs
+its determinations as operative powers in mind; Dhātu, in turn, tests
+and constrains that reconstruction through its domain-loci and fields.
+Negation does not discard Dhātu. It returns Dhātu as a more fully
+articulated structure of living cognition. This is the project's
+philosophical method, not a historical attribution or a translation claim.
+
+Dhātu-nirdeśa reaches its own stopping point in its last kārikā, VAK 1.48,
+which gathers knowability, permanence, and typed Faculty-incidence in
+Domains and Domain-parts. In the Organon movement, Dhātu is complete in
+itself but remains suspended until Indriya returns to it. The return begins
+at that exact placement—not at a new substrate—and reconstructs it as a
+living organization of Faculty-functions, path, and consequence. Each
+Indriya study therefore returns to VAK 1.48 to disclose a further
+determination of the architecture already there.
+
 This correspondence is transcendental because it concerns the conditions under which determinate knowing is possible.
 
 ## 5. Sattva as Transparent Intelligibility

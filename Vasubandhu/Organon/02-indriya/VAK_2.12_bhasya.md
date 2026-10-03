@@ -200,6 +200,19 @@ while its admissible members vary with context. This reconstruction
 concerns the stated faculty classification. The Bhāṣya does not
 turn its final eight into a general theory of minimal mental life.
 
+**Return to Dhātu at its last kārikā:** VAK 1.48 is the exact point
+of return. It maps Faculty-status across the sensory Domains, the
+Citta Domains, a part of Body, and a portion of Essence. Realm-
+affiliation is a further axis: the formless eight comprise Mind,
+Life, neutral feeling, and the five beginning with Confidence; the
+three realization-Faculties are located partly in Essence yet are
+*apratisaṃyukta*, unconnected with all three realms. A Dhātu-locus
+therefore does not entail realm-connection.
+
+On the Fichtean return, the cumulative exclusions negate an
+undifferentiated realm-profile and reconstruct each profile from
+the Faculty-loci already given at Dhātu 1.48.
+
 ## 10. Review Status
 
 Provisional twelfth study of the restarted Indriyanirdeśa Bhāṣya

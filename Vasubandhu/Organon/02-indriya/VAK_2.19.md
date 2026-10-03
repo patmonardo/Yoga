@@ -238,6 +238,19 @@ support. It must also preserve exact set identity: an eight-count or
 eleven-count without its membership and provenance is semantically
 underdetermined.
 
+**Return to Dhātu at its last kārikā, VAK 1.48.** The eightfold cases
+continued from 2.18 include Faculties at the Body-Domain and in the
+Essence-Domain, with Mind-Faculty at the Citta Domains. The realization
+closures extend that same typed map: Body-Faculty belongs to the internal
+Body-Domain; Life, the feelings, the five beginning with Faith, and portions of
+the realization Faculties occupy the Essence-Domain; Mind-Faculty is mapped
+across the Citta Domains. The eleven- and thirteen-member sets are therefore
+not free-standing lists but distinct cross-Domain possession configurations
+keyed to a particular realization Faculty. The Fichtean return negates a
+merely static reading of Dhātu and reconstructs its loci as path-conditioned
+relations of necessary possession; neither the larger count nor the
+different membership ranks realization by quantity.
+
 ## 10. OWL++ Seed
 
 ```ttl

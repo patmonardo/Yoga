@@ -298,6 +298,26 @@ but also
     is admissible for that faculty-type
 ```
 
+**Return to Dhātu at its last kārikā.** VAK 1.48 is the exact return
+point: it places the five Faculties beginning with Confidence and
+portions of the final three realization-Faculties in the Essence-
+Domain. These are the wholesome eight of VAK 2.11. The same map places
+Mind-Faculty across the Citta Domains and the feeling-Faculties in
+the Essence-Domain; here Mind and four feelings other than distress
+are ethically threefold, while distress is twofold. The seven material
+Faculties and Life are indeterminate-only, though their Dhātu loci
+remain distinct. The terminal Dhātu map has been complete in itself;
+this Indriya return adds ethical qualification without moving or
+replacing those loci.
+
+This is a Fichtean reconstruction of Dhātu in mind: ethical quality
+negates neither Faculty identity nor Dhātu placement, but differentiates
+how each Faculty can be operative. In particular, affective neutrality
+(*upekṣā*) does not entail ethical indeterminacy (*avyākṛta*), and
+wholesomeness does not entail stainlessness (*anāsrava*). The ethical
+axis returns to the last Dhātu kārikā as another determination, not
+as a replacement for the earlier functional and outflow classifications.
+
 ## 10. OWL++ Seed
 
 ```ttl

@@ -186,6 +186,21 @@ necessarily from possession of a faculty. It does not here establish
 that every listed member causes the realization, or that all the
 members operate together as a single cognitive event.
 
+**Return to Dhātu at VAK 1.48:** Its typed map places the five sensory
+Faculties at their corresponding internal sensory Domains, including
+Body-Faculty at the Body-Domain; Mind-Faculty is mapped across the Citta
+Domains; and Life,
+the feeling Faculties, the five beginning with Faith, and portions of the
+three realization Faculties in a portion of the Essence-Domain. The
+eleven- and thirteen-faculty closures bring these separate loci into
+necessary possession-configurations keyed to their respective realization
+Faculties. The first is not a bigger version of the second: each has its
+own membership and path determination. The return is Fichtean in the
+project's sense: it negates a merely fixed reading of Dhātu and reconstructs
+its placements through Indriya's path-conditioned possession relations,
+without turning co-possession into causal production or simultaneous
+manifestation.
+
 ## 10. Review Status
 
 Provisional nineteenth study of the restarted Indriyanirdeśa Bhāṣya

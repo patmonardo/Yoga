@@ -92,7 +92,7 @@ a faculty; they are not one undifferentiated purifying power.
 
 Organon rendering:
 
-> The faculties articulate Transcendental Time Determinations of Śuddha Sattva: persistence, affective latency, and transformative practice. The continuum is not merely equipped to receive objects; it is sustained, conditioned by feeling, and redirected through the path. Checking affliction and bringing the path forward are distinct operations within this temporal transformation.
+> The eleven faculties named here articulate three Transcendental Time Determinations of Śuddha Sattva: persistence, affective latency, and transformative practice. Returned to Dhātu 1.48, they are not an added inventory: Life, the five Feelings, and the five faculties beginning with Confidence are located within a portion of the Essence-Domain. Dhātu gives this Indriya movement its locus and field; Indriya returns to Dhātu by disclosing how that locus governs continuation, susceptibility, and path-activity. Checking affliction and bringing the path forward are distinct operations.
 
 ## 7. Technical Vocabulary
 
@@ -233,6 +233,36 @@ These are not four successive stages of an individual's biography but
 distinct determinations within the living process. `Prajñā` remains one
 purificatory faculty among others, with the specific function of discernment
 within the path.
+
+**Reciprocal return to Dhātu.** Dhātu 1.48 places the eleven faculties
+named in this verse—Life, the five Feelings, and Confidence through
+Discernment—within a portion of the Essence-Domain. This verse returns
+light to that classification: it differentiates the governance exercised
+there as persistence, affective susceptibility, and purification. The
+Domain is not a passive container, and the Faculties do not replace it;
+the two descriptions disclose distinct aspects of one structured
+conditioned process.
+
+**Forward negation.** The Bhāṣya says that the five purificatory faculties
+check or suppress afflictions (*viṣkambha*) while bringing the path forward
+(*āvāhana*); it does not equate suppression with their final abandonment.
+In the Organon movement, a following negation must therefore be determinate:
+it negates the afflictive operation, not the Dhātu locus or the feeling
+through which the affliction lay latent. Returning to Dhātu asks where that
+negated relation was situated and what remains available for path-knowing.
+The next verse's three knowledge-faculties sharpen this return: Dhātu 1.48
+locates portions of those final three Faculties in the Essence-Domain. This
+is a proposed Organon link to the Prajñā–Dharma–Jñāna movement, not a
+translation claim or an equation made by the Bhāṣya.
+
+**Return trip in mind.** In this project's framing, Hegelian Logic
+supplies Pure Theoretical Reason, while the Kośa supplies Practical
+Reason. Indriya is the Fichtean return: it negates Dhātu as merely
+given and reconstructs its domain-determinations as operative powers
+of mind. The return is tested back against Dhātu—here, the eleven
+Faculties return to their mapped Essence-Domain locus, now understood
+through sustaining, affective, and purificatory governance. Negation
+thus reconstructs rather than erases the Dhātu structure.
 
 ## 10. OWL++ Seed
 

@@ -270,6 +270,22 @@ reconstructed as the mental-state grammar through which the Yoga Agent rides
 to knowledge. That conclusion must be generated from the distributions, not
 assumed in advance.
 
+**Return to the Dhātu Principle:** VAK 1.48 maps the Mind-Faculty across the
+seven Citta Domains while distinguishing that Faculty-locus from the
+conditioned dharmas known through Mind-Cognition. VAK 2.23 does not turn
+mental factors into additional Faculties: it gives the Rule of their
+necessary co-arising with Citta, then classifies their operating ranges.
+This preserves the Dhātu distinction while reconstructing it as an
+articulated mental event.
+
+**Entry into the Mental-Factor deep dive:** At the boundary you identify
+with Pruden, VAK 2.22 closes Rule Theory; VAK 2.23 carries co-arising into
+the mental domain and opens the fivefold *bhūmi* analysis. The material
+co-arising rule is a transition, not a template that predetermines the
+factor lists. For the verses that follow, the work is to establish each
+class's membership and exact range before drawing a Yoga or path-theoretic
+conclusion.
+
 ## 10. OWL++ Seed
 
 ```ttl

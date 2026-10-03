@@ -110,7 +110,7 @@ They are not additional words in the Kārikā.
 
 Organon rendering:
 
-> A faculty is classified through an organized relation among affective character, mode of feeling, and level of experience. The ordinary rule assigns agreeable bodily feeling to pleasure; the third-dhyāna rule preserves pleasure-faculty identity under a determinate change from bodily to mental mode. The governing function is stable, while its admissible realization varies with the architecture of the experiential level.
+> Dhātu 1.48 locates the five feeling-Faculties within a portion of the Essence-Domain; Indriya 2.07 differentiates Pain and Pleasure there by affective character and mode. The third-dhyāna case negates a simple identity between Pleasure-Faculty and bodily feeling, reconstructing its realization as agreeable mental feeling where the five sensory Cognitions are absent. The Faculty determination persists, but bodily and mental feeling remain distinct modes.
 
 This rendering concerns a specific Kośa classification. It does not establish
 a general independence of function from embodiment.
@@ -223,6 +223,15 @@ feeling will be classified as `saumanasya`. At the third dhyāna, however, the
 five sensory cognition-groups do not occur, so no bodily feeling is available.
 The agreeable mental feeling of that level is nevertheless `sukha-indriya`.
 
+**Reciprocal return to Dhātu.** Dhātu 1.48 places all five feeling-
+Faculties among the eleven Faculties located in part of the Essence-
+Domain. Indriya 2.07 returns to that placement and articulates two of
+those feelings through agreeableness, disagreeableness, and bodily or
+mental mode. The feeling-Faculty's Dhātu locus is not itself a sensory
+organ: a particular experience can depend on a bodily or mental mode,
+and here the third-dhyāna condition removes the sensory Cognition-groups
+while preserving agreeable feeling's Pleasure-Faculty classification.
+
 For the Organon, this discloses a context-governed Agent classification:
 
 ```text
@@ -240,6 +249,13 @@ ground under which a different realization satisfies the same faculty-role.
 This is a project-level inference from the verse and Bhāṣya. The textual
 claim remains the narrower one: pleasant mental feeling in the third dhyāna
 is the pleasure-faculty because bodily feeling is absent there.
+
+This verse does not establish that Sāṃkhya–Yoga Faculties belong only to
+the Essence-Domain. Dhātu 1.48 also locates sensory Faculties in the five
+internal sensory Domains, Mind-Faculty across the Citta Domains, and Female
+and Male Faculties in a part of the Body-Domain. The next verse's treatment
+of mental gladness must likewise preserve the specific third-dhyāna
+qualification rather than generalize it to every pleasant mental feeling.
 
 ## 10. OWL++ Seed
 

@@ -186,6 +186,18 @@ measure of attainment or a biography every continuum follows. This
 interpretation extends the count philosophically; it is not a claim made
 by the Bhāṣya itself.
 
+**Principle–Rule reciprocity (Organon, not source terminology):** VAK 1.48
+is the Principle of typed Faculty-incidence across Domains and
+Domain-parts. VAK 2.21 supplies a local Rule of maximum possession: nineteen
+under either of two specified conditions, with different exclusions. The
+Principle does not by itself state which Faculties one bearer possesses;
+the Rule does not replace their Dhātu loci with a bare count. Their unity
+makes the result scientific: the Rule determines admissible configurations
+within the Principle, while the contrasted configurations reveal the
+Principle's Faculty distinctions as operative under worldly and path-status
+conditions. This is a local step toward, not the completion of, the
+chapter-wide Principle:Rule pass.
+
 ## 10. Review Status
 
 Provisional twenty-first study of the restarted Indriyanirdeśa

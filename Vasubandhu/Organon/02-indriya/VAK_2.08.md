@@ -109,7 +109,7 @@ with `saumanasya`. This explains why agreeable mental feeling there is called
 
 Organon rendering:
 
-> The Kośa classifies affect by functional provenance as well as manifest tone. Mental pleasure and pain generally arise through differentiation; bodily pleasure and pain may arise under the force of their sensory correlate even when afflicted appropriation is absent. Neutral feeling unifies bodily and mental instances because no corresponding difference appears in their neutral operation. Faculty identity follows operative difference, not a mechanical multiplication of every empirical mode.
+> Dhātu 1.48 locates the five feeling-Faculties within a portion of the Essence-Domain; Indriya 2.08 returns to that placement by specifying which feeling-differences warrant distinct Faculties and which do not. Mental pleasure and pain generally arise through differentiation; bodily pleasure and pain may arise under the force of their sensory correlate, even for an arhat. Bodily and mental neutral feeling remain distinct modes but form one Faculty because their neutral operation does not differ.
 
 This reconstruction follows the Bhāṣya's reasons. It does not make
 `vikalpana` the universal cause of every mental pleasure or pain; the text
@@ -245,6 +245,25 @@ between them with respect to `upekṣaṇa`, neutral attending. They therefore
 form one faculty. The Kośa neither multiplies faculties for every substrate
 difference nor collapses functionally different states because their tone is
 similar.
+
+**Reciprocal return to Dhātu.** Dhātu 1.48 places the five feeling-
+Faculties in part of the Essence-Domain. Indriya 2.08 shows how that
+Faculty classification differentiates four feeling-tones while
+preserving bodily and mental modes, and why the two neutral modes
+share one Faculty. The return is not from a Dhātu list to a matching
+list of Faculties: it tests the functional relation that warrants
+splitting or unifying the feeling determinations.
+
+**Determinate negation.** `Avikalpanāt` negates the need for two
+neutral Faculties only with respect to their operation of remaining
+neutral; it does not erase their bodily/mental difference. Conversely,
+the third-dhyāna exception carried over from 2.07 negates the rule
+that mental pleasure must be gladness, but only under that stated
+meditative condition. The Fichtean return reconstructs each
+classification from the condition that survives the negation. VAK
+2.08 therefore gives the practical Kośa criteria that return to and
+articulate the Dhātu placement, rather than a universal rule to merge
+or divide every Faculty.
 
 For the Organon, this yields a stronger specification of the Kośa Agent:
 

@@ -245,11 +245,25 @@ concentration, or suffering conditioning faith and renunciation. Governing
 efficacy specifies the dominant systemic role; it need not exhaust every
 causal use of a faculty.
 
-For the Organon, the twenty-two faculties are read as Transcendental Time
-Determinations of Śuddha Sattva. The Kośa's distinctions among disclosure,
-continuity, defilement, and purification provide the textual articulation
-for that reading. This is a philosophical reconstruction, not a claim that
-the conventional Bhāṣya itself uses this terminology.
+**Dhātu–Indriya reciprocity.** VAK 1.48 established the incidence map;
+this verse supplies its governing rule. A sensory Faculty is not just
+located beside a Domain: it governs determinate operations of embodied
+preservation and sensory disclosure. Female and Male Faculties govern
+differentiation within a part of the Body Domain; Life governs persistence;
+Mind governs renewed existence and continuing mastery; feeling and the
+purificatory Faculties govern distinct transformations of the living field.
+
+The reciprocal inference is now explicit: the Dhātu system gives each
+Faculty a locus, object-field, or part-whole position; *ādhipatya*
+determines what that positioned Faculty does. Neither side alone yields
+the operative relation. The 18/22 crosswalk remains asymmetric, while
+its relation-pattern—not its item count—is what can be preserved by the
+Prajñā/GDSL/SDSL structural isomorphism.
+
+**Organon reading:** These governing roles are Transcendental Time
+Determinations of Śuddha Sattva. That is a reconstruction of the
+source-grounded Dhātu–Indriya relation, not terminology supplied by
+the conventional Bhāṣya.
 
 ## 10. OWL++ Seed
 

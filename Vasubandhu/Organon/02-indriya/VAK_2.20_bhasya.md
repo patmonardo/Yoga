@@ -173,6 +173,21 @@ includes here. This is a semantic relation demonstrated by the
 commentary itself; a further Organon formalization should preserve
 both the general classification and the local restriction.
 
+**Return to Dhātu at VAK 1.48:** Its map places Body-Faculty in the internal
+sensory Domains, Mind-Faculty across the Citta Domains, and Life, the
+feelings, the five beginning with Faith, and portions of the three
+realization Faculties in the Essence-Domain portion. The two minima select
+different configurations from those mapped Faculties: the root-severed
+case has Life, Mind, Body, and all five feelings, while the formless
+ordinary person has Life, Mind, neutral feeling, and the five wholesome
+Faculties but no material Faculties.
+The realization Faculties' placement in the same Essence-Domain portion
+does not entail their possession by this ordinary person. This is the
+Fichtean return: negate the assumption that Domain-locus or the broad label
+“wholesome” alone determines possession, and reconstruct each profile
+through its bearer, realm, count, and ethical status, without altering
+Dhātu's map.
+
 ## 10. Review Status
 
 Provisional twentieth study of the restarted Indriyanirdeśa Bhāṣya

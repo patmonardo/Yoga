@@ -236,14 +236,29 @@ first obtained as `vipāka`. Terminal cessation asks which possessed faculties
 cease at death. These are different relations over different temporal states.
 
 The formless case makes the difference undeniable. Only life was initially
-acquired as maturation-result in VAK 2.14; at death, life, mind, and neutral
-feeling cease. Mind and feeling belong to the operating continuum even though
-they were absent from that particular initialization ledger.
+counted as maturation-result in VAK 2.14; Mind and neutral feeling were
+nonetheless present at relinking, though their afflicted instances were not
+counted as *vipāka*. At death, all three—Life, Mind, and neutral feeling—are
+included in the terminal cessation count.
 
-The form-realm case has the same structure. Its sixfold initial maturation
-set consisted of the five sensory faculties and life. Its terminal set adds
-mind and neutral feeling, producing eight. Desire-realm terminal variation is
-then determined by the presence of neither, one, or both sexual faculties.
+The form-realm case has the same structure. Its sixfold initial *vipāka*
+count consisted of the five sensory Faculties and Life; it did not claim that
+Mind and neutral feeling were absent at relinking. At death, all eight are
+counted. Desire-realm terminal variation is then determined by the presence
+of neither, one, or both sexual Faculties.
+
+**Return to Dhātu at VAK 1.48.** The death profiles do not redraw Dhātu's
+typed incidence map: the five sensory Faculties correspond to the five
+internal sensory Domains; Mind-Faculty is mapped across the seven Citta
+Domains; Female and Male Faculties occupy part of the Body-Domain; and Life
+and the feeling Faculties, among others, occupy a portion of the
+Essence-Domain. VAK 2.15 applies a temporal predicate—cessation at death—to
+the Faculties possessed in each realm-profile. In the formless case, the
+non-inclusion of sensory Faculties in the terminal set is a realm-bound
+condition, not a denial of their Dhātu loci. The Organon return negates a
+merely static reading of the map by reconstructing its Faculties as operative
+and relinquished in a specific terminal event; it does not erase or replace
+the Dhātu map itself.
 
 The Bhāṣya also guards the scope of the counts. They describe death occurring
 all at once. Gradual death follows a different dependency structure, which

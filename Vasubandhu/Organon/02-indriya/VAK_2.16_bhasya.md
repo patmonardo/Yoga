@@ -269,6 +269,22 @@ universal theory of practical planning. The Kośa's own question
 is which faculties mediate these four fruits under the specified
 conditions.
 
+**Return to Dhātu at VAK 1.48:** The terminal and path Faculties retain the
+typed Domain-incidence established there: Mind-Faculty is mapped across the
+Citta Domains; the Body-Faculty and the Female and Male Faculties have their
+respective Body-Domain loci; and Life, the feeling Faculties, the five
+beginning with Faith, and portions of the three realization Faculties occupy
+the relevant portion of the Essence-Domain. The gradual-death cluster and
+the wholesome five apply terminal cessation to Faculties already placed in
+that map. The fruit analysis then reconstructs how mapped Faculties operate
+across path-moments: the two realization Faculties in stream-entry, for
+example, contribute through the uninterrupted path and the path of
+liberation respectively. The result is not reducible to its mediating
+Faculties, and successive path-moments are not collapsed into one. This
+Fichtean return negates a static reading of Dhātu and restores its
+placements as differentiated practical relations, without erasing the map
+or confusing cessation at death with path-abandonment.
+
 ## 10. Review Status
 
 Provisional sixteenth study of the restarted Indriyanirdeśa Bhāṣya

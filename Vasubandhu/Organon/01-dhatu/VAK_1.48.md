@@ -232,20 +232,25 @@ Principle; and further Faculties occupy a portion of the Essence Principle.
 The five external Principles and the non-faculty portion of the Essence
 Principle do not have Faculty-status.
 
-In the project's Organon reading, the verse shows the Principle of a Dharma
-holding unity and difference together: access, conditionedness, permanence,
-and Faculty-status are distinct determinations within one architecture. This
-is the Dhātu side of the work; the special Principle:Rule pass across Dhātu
-and Indriya remains for after the Indriya-nirdeśa.
+**Organon reading — the Dhātu-to-Indriya incidence map.** The Bhāṣya
+locates Faculty-status within the Domain system without making the two
+classifications coextensive:
 
-```text
-Principle
-    remains one structured system
-    through distinct fields of determination:
-        Cognition-access
-        conditionedness and permanence
-        Faculty-status
-```
+| Domain incidence established here | Faculty incidence |
+|---|---|
+| Five internal sensory Domains | Their five corresponding sensory Faculties |
+| Seven Citta Domains | One Mind Faculty, not seven |
+| A part of the Body Domain | Female and Male Faculties |
+| A portion of the Essence Domain | Eleven Faculties beginning with Life, plus portions of three further Faculties |
+| Five external Domains and the non-faculty portion of the Essence Domain | No Faculty-status |
+
+This is not an 18-to-22 bijection. A Domain can contain or support
+Faculty-status without being wholly a Faculty; some Domains are fields
+for Cognition but are not Faculties at all. The initial reciprocity is
+therefore typed and asymmetric: Domains give Faculties their loci and
+fields, while Faculty-status differentiates governing roles within
+that Domain architecture. VAK 2.01 supplies the governing predicate
+that this mapping alone does not yet explain.
 
 ## 10. OWL++ Seed
 

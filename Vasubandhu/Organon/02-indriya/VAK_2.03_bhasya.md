@@ -143,18 +143,42 @@ Explaining faculty-status requires identifying which of these
 relations is at issue, rather than treating all efficacy as one
 undifferentiated power.
 
-**Organon reading:** These are temporal determinations of Śuddha
-Sattva: persistence, affective latency, and transformative practice.
-They are not clock-time intervals or a claim that every life follows
-one biography. They articulate how a continuum persists, bears
-afflictive conditions, and is redirected. The two purificatory verbs
-preserve both sides of that movement: checking obstruction and
-bringing the path forward.
+**Organon reading — reciprocal return to Dhātu:** Dhātu 1.48 locates
+the eleven Faculties named across this verse—Life, the five Feelings,
+and Confidence through Discernment—within a portion of the Essence-
+Domain. Indriya 2.03 returns light to that Dhātu map by specifying
+three modes of governance at that locus: persistence, affective
+susceptibility, and purification. The Domain supplies the structured
+locus and field; these Faculties determine how the living continuum
+continues, becomes susceptible to affliction, and is redirected.
+Neither description absorbs the other.
 
-This reading remains distinct from the close translation. The
-Bhāṣya gives no universal definition of purification and does not
-equate checking afflictions with their final elimination; its local
-claim is that the five beginning with faith govern purification.
+The two purificatory operations also prepare a determinate negation.
+The Bhāṣya's *viṣkambha* is checking or suppression, not final
+abandonment. In an Organon continuation, the negation would target
+the afflictive relation—not erase the feeling or its Dhātu locus—and
+would return to Dhātu to identify where that relation arose and where
+path-knowing can operate. VAK 2.04 names the next three knowledge-
+Faculties; Dhātu 1.48 correspondingly places portions of those final
+three Faculties in the Essence-Domain. This is a proposed Prajñā–
+Dharma–Jñāna connection, not terminology or a dialectical sequence
+asserted by the Bhāṣya.
+
+In this project's framing, Hegelian Logic is Pure Theoretical Reason
+and the Kośa is Practical Reason. Indriya makes the Fichtean return:
+it negates Dhātu as merely given and reconstructs its determinations
+as operative powers in mind. The return is reciprocal, since the
+Dhātu map also tests and constrains the reconstruction. Negation
+therefore returns Dhātu in a more articulated form rather than
+discarding it. This is Organon method, not a historical attribution
+or a claim made by the commentary.
+
+These are Transcendental Time Determinations of Śuddha Sattva, not
+clock-time intervals or a biography imposed on every continuum. This
+Organon reading remains separate from the close translation and
+preserves the Bhāṣya's narrower claim: the five beginning with faith
+govern purification by checking afflictions and bringing the path
+forward.
 
 ## 10. Review Status
 

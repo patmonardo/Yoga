@@ -222,26 +222,40 @@ the compressed final list remain recorded in Section 2.
 
 ## 9. Philosophical and Organon Study
 
-The explanatory advance is a more determinate account of governance.
-The faculty must be related to an operation; its superiority within
-that relation must then be explained. The object-objection makes
-this second demand unavoidable, since more than one condition
-participates in apprehension.
+Dhātu 1.45 establishes dependence on both Faculty and field, but gives
+them different roles: the Faculty is *āśraya* because its alteration
+corresponds to alteration in Cognition; a field such as Sight may be
+shared as *ālambana*. Dhātu 1.48 locates Faculty-status within whole
+Domains and Domain-parts. VAK 2.02 now tests the reciprocity directly:
+if both Faculty and object condition apprehension, what makes the
+Faculty—not the object—the governing power?
 
-**Organon reading:** As Transcendental Time Determinations of
-Śuddha Sattva, faculties govern the form and range of a process,
-not merely its occurrence. The sensory faculties determine distinct
-modes of apprehension; mind's wider range and the body's sexed
-differentiation are further determinations within that living process.
-The object determines the particular Idea; the faculty governs the
-temporal mode through which universal Cognitions apprehend it.
+The Bhāṣya's answer is comparative, not exclusive causation. The
+Faculty is a common cause across its field, and Cognition varies with
+the Faculty's acuity or impairment; the object's role is not the same.
+The unnamed alternative at the opening and the subsequent object-
+objection remain distinct voices, not one settled account.
 
-The bodily example also shows that a temporal determination need
-not be a separate substance: a portion receives a specific faculty-
-designation through the configuration it governs. This Organon
-reading extends the passage's functional analysis; it is not a
-translation claim or a universal formal definition supplied by the
-Bhāṣya.
+**Organon reading:** These relations form a specific Transcendental
+Time Determination of Śuddha Sattva:
+
+```text
+object-Domain
+    → shareable ālambana / particular Idea
+
+Faculty-Domain
+    → specific āśraya / ādhipatya
+    → variation governing universal Cognition
+
+their non-identical relation
+    → determinate apprehension
+```
+
+Mind extends its governing range over all object-Domains; it does not
+make those Domains identical. Female and Male Faculties likewise
+remain parts of the Body-Domain while governing a distributed bodily
+configuration. This reciprocal structure is the Organon inference,
+not wording supplied by the conventional Bhāṣya.
 
 ## 10. Review Status
 

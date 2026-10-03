@@ -56,5 +56,7 @@ literal translation.
 - `ayatana` -> **Sphere** (provisional; capacity/field dyad, not
   "sense-base" — "sense-base" belongs to the indriya chapter's own
   vocabulary, not ayatana in general)
+- `indriya` -> **Faculty**; never translate it as "organ." Use "organ"
+  only when the Sanskrit refers to an anatomical part, not for Faculty-status.
 - `skandha` -> **aggregate** (conventional translation); **Being** (Organon
   reading)

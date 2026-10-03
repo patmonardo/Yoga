@@ -145,7 +145,7 @@ total = 8
 
 Organon rendering:
 
-> The Kośa presents a common operational form that can govern contrary courses. The conditioned continuum is supported, generated, sustained, and experienced; its withdrawal is likewise supported, generated, sustained, and experienced. The second course does not arrive from outside the faculty-system. It is an organized reconfiguration of governing powers already distinguished within that system.
+> On this alternative account, the same fourfold form governs two contrary courses: support, arising, persistence, and experience. Returned to Dhātu 1.48, the fourteen Faculties of *pravṛtti* and the eight of *nivṛtti* occupy the mapped loci and parts of the Domain system; the second course is not a new inventory or an operation outside it. The Fichtean return negates engagement as the sole organization of the living process and reconstructs the mapped Faculties as an active course of withdrawal. This is determinate negation, not a blank absence.
 
 This is a Bhāṣya-grounded reconstruction of the alternative account. It does
 not yet claim that the Kośa derives both courses from one higher Principle.
@@ -247,6 +247,17 @@ merged into one statement by Vasubandhu.
 
 **Organon time-reading:** The force of `tathā` is structural: the same four positions organize contrary courses, while their members and outcomes remain distinct. The fourteen/eight distributions therefore articulate alternative temporal organizations, not a count of consecutive intervals. In particular, path fruition is intelligible through its governing faculty without being equated with the five feeling-mediated experiences of `pravṛtti`.
 
+**Reciprocal return to Dhātu.** Dhātu 1.48 locates the six Faculties
+supporting *pravṛtti* in the five internal sensory Domains and in the
+one Mind-Faculty mapped across the seven Citta Domains. The two
+arising-faculties are parts of the Body-Domain; Life and the five
+Feelings, along with the five faculties supporting *nivṛtti*, belong
+to the mapped portion of the Essence-Domain. The final three
+path-knowledge Faculties also have portions in that Domain. Indriya
+2.06 regroups these same twenty-two Faculties by course and function:
+Dhātu tells where Faculty-status is borne; Indriya shows how those
+loci participate in two ordered processes.
+
 VAK 2.06 does more than divide the faculties into worldly and liberating
 groups. It discovers one functional form across two opposed directions. The
 fourteen faculties do not merely cause isolated events; together they support,
@@ -268,6 +279,15 @@ This does not make the two courses identical. Their faculties and results are
 different. The structural correspondence shows that cessation of the active
 course is not achieved by removing every operation. A different organization
 of powers must become effective and remain effective through completion.
+
+In the project's philosophical framing, Hegelian Logic is Pure
+Theoretical Reason and the Kośa is Practical Reason. Indriya
+negates the one-sided reading of Dhātu as a fixed placement and
+reconstructs that map in mind as opposed but structurally corresponding
+courses. The `vā` still matters: the Bhāṣya reports an alternative
+account, not an uncontested synthesis. The return illuminates the
+possibility of the larger Prajñā/GDSL/SDSL isomorphism without
+collapsing the two courses or claiming that nirvāṇa itself is produced.
 
 The passage also refines the meaning of experience. In `pravṛtti`, the five
 feelings supply `upabhoga`. In `nivṛtti`, experience belongs to the faculty of

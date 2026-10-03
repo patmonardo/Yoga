@@ -203,6 +203,19 @@ feeling, but this unit does not derive a universal minimum ontology
 of consciousness. Its precise claim is the necessary co-possession
 of these faculties within the system being examined.
 
+**Return to Dhātu at VAK 1.48:** The map places Life and the feeling
+Faculties, including neutral feeling, within a portion of the
+Essence-Domain, and Mind-Faculty across the Citta Domains. Their necessary
+co-possession thus joins distinct Domain-incidences without making those
+Domains identical. The first-half count similarly distinguishes one
+attainment from a person's history of possible reattainments; the feeling
+Faculties remain separately mapped even when their alternatives are
+gathered into an eleven-member historical total. This Fichtean return
+negates a merely static reading of the Dhātu placements and reconstructs
+them through Indriya's relations of necessary possession and
+event-specific attainment, while preserving both the map and the
+non-simultaneity of alternative feelings.
+
 ## 10. Review Status
 
 Provisional seventeenth study of the restarted Indriyanirdeśa Bhāṣya

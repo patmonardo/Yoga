@@ -430,6 +430,24 @@ about distress would miss its counterexample. The explanatory
 movement, not merely the final inventory, is part of the knowledge
 being studied.
 
+**Reciprocal return to Dhātu:** Dhātu 1.48 places Life, the five
+feeling-Faculties, and further Faculties within a portion of the
+Essence-Domain. Indriya 2.10 returns to that locus by examining
+whether a Faculty-instance is a maturation-result of prior action,
+productive of future maturation, or both/neither according to the
+two distinct classifications. The Domain map establishes Faculty-
+incidence; it does not predetermine karmic provenance or consequence.
+
+The negation is typed rather than absolute: distress is not *vipāka*
+but is *savipāka*. The Bhāṣya's lifespan discussion likewise
+distinguishes concentration-generated life from life that is
+maturation, qualifying the verse's opening generalization. On the
+project's Fichtean return, this difference reconstructs the
+Dhātu-located Faculty through its causal relations instead of
+reducing it to one fixed status. Hegelian Logic supplies Pure
+Theoretical Reason; the Kośa supplies Practical Reason. These are
+Organon framings, not claims attributed to the commentary.
+
 ## 10. Review Status
 
 Provisional tenth study of the restarted Indriyanirdeśa Bhāṣya

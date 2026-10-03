@@ -202,6 +202,22 @@ evaluation of its quality are different determinations. This
 reconstruction follows the local analysis without making death
 an illustration of a general theory of systems.
 
+**Return to Dhātu at VAK 1.48:** Dhātu's typed incidence map places the five
+sensory Faculties at the five internal sensory Domains, Mind-Faculty across
+the seven Citta Domains, Female and Male Faculties in part of the
+Body-Domain, and Life and the feeling Faculties among the Faculties occupying
+a portion of the Essence-Domain. This death analysis applies cessation to
+those mapped Faculties as they are possessed in the terminal context. The
+gradual-death cluster—Body, Life, Mind, and neutral feeling—and the five
+additional Faculties beginning with Faith under a wholesome terminal mind
+are different temporal determinations of that same map. The five wholesome
+Faculties already have their Dhātu placement; their cessation neither erases
+that placement nor negates their wholesome quality. In the project's
+Fichtean return, the verse negates a merely static reading of Dhātu and
+reconstructs its placements as operative or ceasing under specified
+conditions, without replacing the map or conflating death-cessation with
+path-abandonment.
+
 ## 10. Review Status
 
 Provisional fifteenth study of the restarted Indriyanirdeśa Bhāṣya

@@ -98,11 +98,11 @@ repeat the preceding enumeration.
 
 ## 6. Philosophical Translation
 
-> Predominant causal power alone does not make something a faculty. Faculty-status belongs only to a power occupying one of the system's required positions: supporting the cognitive continuum, differentiating its embodiment, maintaining its persistence, conditioning its defilement, preparing its purification, or actualizing purification. The twenty-two are therefore neither every effective cause nor an arbitrary canonical list; together they form a functionally delimited architecture of the conditioned living continuum and its path.
+> Predominant causal power alone does not make something a faculty in this enumeration. Faculty-status is assigned across six stated functions: supporting the cognitive continuum, differentiating its embodiment, maintaining its persistence, conditioning its defilement, providing for purification, and effecting purification. The twenty-two are neither every effective cause nor an arbitrary list; they form the functionally delimited architecture intended here.
 
 Organon rendering:
 
-> The first Indriya unit closes by defining the boundary of its faculty-system. The six functions articulate the Transcendental Time Determinations of Śuddha Sattva: support, differentiation, persistence, defilement, preparation, and purification. Other real governing powers remain outside this enumeration because they add no required determination to this architecture. Its completeness is systemic, not a claim that the six are a linear chronology.
+> This verse makes the boundary of the Indriya system explicit. Returned to Dhātu 1.48, its six functions reconstruct how the twenty-two Faculties occupy the Domain architecture: sensory and mental support, embodied differentiation, persistence, defilement, provision for purification, and purification. The Dhātu map constrains the reconstruction—Faculty-status belongs only at its mapped loci and parts, not to every Domain or every effective cause. Negation here is determinate: ignorance and the proposed action-capacities are excluded from this enumeration without denying their causal efficacy. Their exclusion returns the mind to the specific Dhātu–Indriya architecture rather than expanding it without limit.
 
 ## 7. Technical Vocabulary
 
@@ -147,15 +147,15 @@ Then:
 The Kārikā adds a second necessary condition:
 
 ```text
-Indriya(x)
+IndriyaInThisEnumeration(x)
     ↔ PredominantGoverningEfficacy(x)
-    ∧ OccupiesRequiredSystemFunction(x)
+    ∧ AssignedToAFunctionNamedHere(x)
 ```
 
-The required functions are closed under the present architecture:
+The named functions are:
 
 ```text
-RequiredSystemFunction
+EnumeratedFunction
     = {MindSupport,
        LivingDifferentiation,
        Persistence,
@@ -190,13 +190,13 @@ Therefore:
 
 ```text
 CausallyEffective(x)
-    ↛ Indriya(x)
+    ↛ IndriyaInThisEnumeration(x)
 
 PredominantlyEffective(x)
-    ↛ Indriya(x)
+    ↛ IndriyaInThisEnumeration(x)
 
-AddsNoNewRequiredFunction(x)
-    → ExcludedFromIndriyaEnumeration(x)
+NotAssignedToANamedFunction(x)
+    → NotCountedHereAsIndriya(x)
 ```
 
 This also reveals the difference from the familiar Sāṃkhya enumeration:
@@ -253,11 +253,33 @@ They are differently designed classifications.
 the fundamental real constitution of the conventionally designated living
 being within this analysis. `Dravya` gives it real constituent status.
 
-The closing boundary is now exact. In the Organon reading, the six functions
-are temporal determinations through which the living process is articulated,
-not a sequence of six clock-time events. The Bhāṣya closes its faculty
-enumeration at these functions; the Transcendental Time interpretation
-remains distinct from that conventional classification.
+The closing boundary is exact for this enumeration. In the Organon reading,
+the six functions are temporal determinations through which the living
+process is articulated, not a sequence of six clock-time events. The
+Bhāṣya closes its faculty enumeration at these functions; the Transcendental
+Time interpretation remains distinct from that conventional classification.
+
+**Reciprocal return to Dhātu.** Dhātu 1.48 maps Faculty-status across
+Domains and Domain-parts: the sensory Domains, the Citta Domains mapped
+to Mind, a part of Body, and a portion of Essence. Indriya 2.05 returns
+to that map by explaining the functions for which those Faculties are
+counted. Dhātu prevents the functional account from becoming a free-
+floating inventory; Indriya prevents the Domain map from being mistaken
+for a list of equivalent powers. The five external Domains remain
+knowable through Cognition without thereby becoming Faculties, and
+the Essence-Domain's non-faculty remainder remains distinct from its
+Faculty-bearing portion.
+
+**Fichtean negation and reconstruction.** The objection presses
+*ādhipatya* toward unbounded inclusion: if governing efficacy suffices,
+then ignorance and action-capacities must be added. The reply negates
+that overextension with *iha*—“here, in this intended enumeration.”
+It does not negate those powers' existence or causal efficacy; it
+negates their Faculty-status in this system. Reconstructing the
+enumeration through Dhātu then shows why the limit is determinate:
+only the powers assigned to the six stated functions belong to this
+architecture. This is the Organon's return in mind, not a denial
+attributed to the conventional Bhāṣya.
 
 ## 10. OWL++ Seed
 
@@ -274,9 +296,9 @@ vak:VAK_2_05
 
 vak:Indriya
     vak:requires vak:PredominantGoverningEfficacy,
-        vak:RequiredSystemFunction .
+        vak:EnumeratedFunction .
 
-vak:RequiredSystemFunction
+vak:EnumeratedFunction
     vak:hasMembers vak:MindSupport,
         vak:LivingDifferentiation,
         vak:Persistence,
@@ -301,5 +323,5 @@ vak:SexualOrgan
 
 organon:KosaIndriyaInterface
     a organon:FunctionallyCompleteTechne ;
-    organon:completeOnlyFor vak:SixRequiredFunctions .
+    organon:completeOnlyFor vak:SixEnumeratedFunctions .
 ```

@@ -297,6 +297,27 @@ outflow-status, provenance, and future productivity of the Agent's faculties.
 This is an Organon comparative hypothesis. VAK 2.10 itself establishes the
 two result-axes and their faculty partitions.
 
+**Reciprocal return to Dhātu.** Dhātu 1.48 locates Life, the five
+feeling-Faculties, and further Faculties in a portion of the
+Essence-Domain. Indriya 2.10 returns to those mapped Faculties with
+a different question: is this instance the matured result of prior
+action, does it produce future maturation, both, or neither? Dhātu
+gives the Faculty-locus; the Kośa's practical analysis determines
+the instance's incoming and outgoing karmic relations. Neither
+classification absorbs the other.
+
+**Determinate negation.** The verse negates any collapse of `vipāka`
+into `sa-vipāka`: distress is never itself maturation-result, yet
+is invariably productive of maturation. This is not causal innocence
+or absence, but a distinct causal direction. The lifespan discussion
+also qualifies the claim about Life: the Bhāṣya distinguishes the
+special concentration-generated life from life that is maturation.
+In the project's framing, Hegelian Logic supplies Pure Theoretical
+Reason and the Kośa Practical Reason; the Fichtean return reconstructs
+the Dhātu-located Faculty through these distinct causal predicates.
+The verse gives no warrant to infer that a Faculty's Dhātu-locus alone
+determines its karmic status.
+
 ## 10. OWL++ Seed
 
 ```ttl

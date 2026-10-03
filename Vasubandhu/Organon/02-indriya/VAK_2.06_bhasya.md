@@ -216,11 +216,31 @@ correspond. Withdrawal is thereby explained through determinate
 powers and their operation, rather than left as an unexplained
 absence of ongoing existence.
 
+**Reciprocal return to Dhātu:** Dhātu 1.48 maps the six Faculties
+supporting *pravṛtti* across the five internal sensory Domains and
+the seven Citta Domains, which map to one Mind-Faculty. Its two
+arising-faculties are parts of the Body-Domain. Life, the five
+Feelings, the five supports of *nivṛtti*, and portions of the final
+three path-knowledge Faculties occupy the mapped portion of the
+Essence-Domain. Indriya 2.06 returns to these loci by arranging the
+same twenty-two Faculties into two processes: fourteen for
+*pravṛtti*, eight for *nivṛtti*. Domain placement and functional
+course remain distinct but reciprocally intelligible.
+
 For Organon reconstruction, this suggests studying transformation
 through what supports it, how it begins, what sustains it, and how
 its accomplishment is experienced. That reconstruction concerns
 the path and its faculties. It does not follow that nirvāṇa itself
 has the arising and persistence of a conditioned process.
+
+In the project's framing, Hegelian Logic is Pure Theoretical Reason
+and the Kośa is Practical Reason. The Fichtean return negates the
+assumption that *pravṛtti* is the only organized course, then
+reconstructs Dhātu's Faculty-bearing loci as *nivṛtti*'s support,
+arising, persistence, and experience. The `vā` marks this as an
+alternative explanation; it must not be silently presented as the
+Bhāṣya's sole or final account. This is an Organon inference, not a
+claim made by the commentary.
 
 The second movement supplies a complementary discipline: identifying
 a function is not enough to justify a new faculty. One must examine

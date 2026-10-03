@@ -173,26 +173,29 @@ quoted explanation.
 
 ## 9. Philosophical and Organon Study
 
-**Organon extension—not a literal Bhāṣya doctrine:** Transcendental Time here concerns the differentiation of affective operation, not elapsed time: bodily and mental modes divide when their arising or effect differs, while neutral attending remains one. Universal Cognition names that operative distinction; the Ideas are the particular feeling-tones and modes being classified. The extension leaves the Bhāṣya's “for the most part” and its limits on `vikalpana` intact.
+**Organon extension—not a literal Bhāṣya doctrine:** Dhātu 1.48
+locates the five feeling-Faculties within a portion of the
+Essence-Domain. Indriya 2.08 returns to this placement by explaining
+which differences in feeling warrant separate Faculty-status.
+Bodily and mental pleasure and pain differ in their manner of arising
+or effect; bodily and mental neutral feeling remain distinct modes
+but are one Faculty with respect to *upekṣaṇa*, remaining neutral.
 
-The commentary asks what warrants a classificatory division.
-Bodily and mental modes are distinguishable, yet that distinction
-alone does not settle how many feeling-faculties to count. The
-answer examines their manner of arising and the difference, or
-absence of difference, in their operation.
+This is a determinate negation. *Avikalpanāt* negates Faculty-
+differentiation only with respect to the neutral operation, not the
+bodily/mental difference itself. The exception carried forward from
+2.07 likewise limits the negation: mental pleasure is *sukha* in
+the third dhyāna, while elsewhere it is *saumanasya*. The condition
+that warrants each classification is retained in the reconstruction.
 
-For Organon reconstruction, the productive lesson is that a shared
-designation requires an identified respect of unity. Neutral feeling
-is counted as one while bodily and mental modes remain distinguishable.
-Conversely, pleasantness alone does not settle the distinction
-between pleasure and gladness: the meditative setting and relation
-to rapture also matter.
-
-These are reasons for this particular fivefold classification.
-A general rule for unifying or dividing every kind of faculty
-would require further argument. The Bhāṣya's achievement here is
-to make its own distinctions intelligible through the relations
-that bear on them.
+In the project's framing, Hegelian Logic supplies Pure Theoretical
+Reason and the Kośa supplies Practical Reason. Indriya's Fichtean
+return tests the Dhātu placement through these concrete operations:
+it neither multiplies Faculties for every mode nor collapses distinct
+operations because they share a tone. This is specific to the
+Bhāṣya's fivefold feeling-classification; it is not a universal rule
+for all Faculties or a literal philosophical claim made by the
+commentary.
 
 ## 10. Review Status
 

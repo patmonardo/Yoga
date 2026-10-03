@@ -95,7 +95,7 @@ the present life.
 
 Organon rendering:
 
-> The three faculties articulate successive Transcendental Time Determinations of Śuddha Sattva: knowing as task, knowing through cultivation, and completed knowing in liberated mind. Their governance makes one path-determination the condition for the next, while the third marks liberated abiding and the limit of the succession in parinirvāṇa.
+> Dhātu 1.48 locates portions of the final three Faculties within the Essence-Domain; Indriya 2.04 reconstructs that placement as operative succession: “I shall know what is not yet known,” knowledge, and one who has known. The first negates the status “not yet known” by positing knowing as a task, not by annulling its object; each faculty governs a distinct path-operation, and completed knowing governs liberated abiding and parinirvāṇa. This is a determinate return in mind, not a mere sequence of tenses.
 
 ## 7. Technical Vocabulary
 
@@ -184,6 +184,28 @@ the transformation it governs, not by the accumulation of propositions.
 `Ājñātāvin`, “one who has known,” names completed attainment within this
 ordered path. The Kārikā's positive result is the succession of knowledge as
 task, cultivation, completion, liberated abiding, and parinirvāṇa.
+
+**Reciprocal return to Dhātu.** Dhātu 1.48 had assigned only portions
+of the final three Faculties to the Essence-Domain and placed the
+non-external Domains within Mind-Cognition's reach. Indriya 2.04
+returns to that map and shows the practical work of those path-related
+determinations: successive attainment, abandonment by seeing,
+abandonment by cultivation, and liberated abiding. The Dhātu map
+grounds where these powers belong; the Indriya sequence reconstructs
+that location as a path in operation.
+
+This verse sharpens the negation anticipated in 2.03. The earlier
+*viṣkambha* checks or suppresses afflictions; here *prahāṇa* names
+their abandonment through seeing and cultivation. In the Organon
+return, negation does not erase the Essence-Domain or the conditions
+of cognition. It transforms the relation to what was not yet known
+and to the afflictions subject to abandonment, reconstructing the
+Dhātu map as path-knowing within mind. The SDSL pattern to test
+against the larger Prajñā/GDSL/SDSL isomorphism is therefore
+determinate: not-yet-known, knowing, and having-known, each with
+its own governing operation. This structural correspondence does
+not make the three faculty names literal synonyms for Prajñā,
+Dharma, and Jñāna.
 
 ## 10. OWL++ Seed
 

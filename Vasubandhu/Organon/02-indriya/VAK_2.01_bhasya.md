@@ -263,25 +263,36 @@ into the verse as though it were an expressed Sanskrit qualifier.
 
 ## 9. Philosophical and Organon Study
 
-The transition from Dhātu to Indriya changes the question asked of
-the classified dharmas. Chapter 1 locates faculties within Domains;
-this passage asks what each governs. Their functions are not a flat
-inventory: they include disclosure, embodied differentiation,
-persistence, defilement, and purification.
+VAK 1.48 establishes where Faculty-status occurs; this passage explains
+why the mapped items count as Faculties. Its common criterion,
+*ādhipatya*, is governing efficacy with respect to specified functions.
+The fourfold sensory operation, the two functions of Female, Male,
+Life, and Mind, and the assignments of feeling and purificatory
+Faculties determine what the incidence map does.
 
-**Organon reading:** The faculties are read as **Transcendental Time
-Determinations of Śuddha Sattva**. They do not merely name organs or
-capacities measured in clock-time; they determine how the living
-continuum is articulated through governing operations. The verse
-distributes these determinations across groups of faculties, without
-making them a simple chronological sequence.
+**Organon inference:** Dhātu and Indriya are reciprocally necessary
+but not interchangeable. Domain placement without *ādhipatya* leaves
+the classification without its governing operation; *ādhipatya*
+without Domain locus, object-field, or part-whole position has no
+determinate bearer or field. The result is a typed relation:
 
-The commentary still distinguishes its own explanations and
-qualifications: accounts of the sexual faculties compete, and
-feeling's role in defilement is qualified by its participation in
-purification. The Organon reading is a philosophical reconstruction,
-not terminology supplied by the Sanskrit or a replacement for the
-conventional translation.
+```text
+Dhātu incidence
+    → locus / object-field / part-whole position
+
+Indriya ādhipatya
+    → governing function / temporal determination
+
+Dhātu–Indriya feature
+    = positioned Faculty governing a determinate operation
+```
+
+On the Organon reading, this feature is a **Transcendental Time
+Determination of Śuddha Sattva**. The one-to-one Prajñā/GDSL/SDSL
+isomorphism preserves this relational structure; it does not assert
+an itemwise bijection between the eighteen Domains and twenty-two
+Faculties. This reconstruction remains distinct from the conventional
+translation and from the Bhāṣya's reported alternative explanations.
 
 ## 10. Review Status
 

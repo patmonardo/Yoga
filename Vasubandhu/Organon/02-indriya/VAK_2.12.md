@@ -117,7 +117,7 @@ formless realm:
 
 Organon rendering:
 
-> The Agent has realm-specific admissible configurations. A realm is not merely an address attached to an otherwise unchanged process: its conditions enable some faculty-operations and exclude others. The formless profile is a minimal nonmaterial configuration, while the stainless realization-operation is realm-unbound rather than another member of that profile.
+> VAK 1.48 is the return point: its Dhātu map locates Faculty-status in Domains and Domain-parts. VAK 2.12 adds realm-affiliation as another, non-identical determination. Realm conditions permit some mapped Faculties and exclude others; they do not create a new Faculty inventory. The stainless triad remains partly located in the Essence-Domain while unconnected with all three realms. Dhātu-locus and realm-affiliation are distinct axes.
 
 The language of Agent profiles is a project reconstruction. The text
 classifies faculties by `pratisaṃyoga`, connection with the three realms.
@@ -233,7 +233,8 @@ status makes them `apratisaṃyukta`, unconnected with every realm. The ascent
 through realms must therefore not be confused with the path's realization-
 faculties. A higher conditioned realm is still not the stainless Path.
 
-The form realm is not described merely by subtraction of coarse organs. Its
+The form realm is not described merely by subtraction of coarse material
+faculties. Its
 faculty profile expresses an integrated mode of existence. The Bhāṣya links
 the absence of pain to refinement of the bodily basis and absence of
 unwholesome activity. It links the absence of distress to a continuum softened
@@ -274,6 +275,17 @@ This gives the Samyama-bhūmi hypothesis an important boundary. Bhūmi may
 constrain an Agent's available faculties, but realization cannot be reduced
 to residence in a subtler conditioned level. This is a Yoga–Organon
 comparison; the Kośa's textual claim is the realm-distribution above.
+
+**Return to Dhātu at its last kārikā.** VAK 1.48 places the seven
+material Faculties in the five sensory Domains and a part of Body,
+Mind-Faculty across the seven Citta Domains, and Life plus the
+feeling- and path-Faculties in the Essence-Domain portion. VAK 2.12
+returns to those exact loci: the formless eight are Mind, Life,
+neutral feeling, and the five beginning with Confidence; the three
+realization-Faculties are excluded from realm-affiliation altogether.
+Dhātu 1.48 is complete in itself, but its incidence map remains
+suspended in the Organon movement until realm- and path-operations
+return to articulate it.
 
 ## 10. OWL++ Seed
 

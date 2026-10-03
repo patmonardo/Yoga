@@ -161,17 +161,32 @@ class of afflictions answers another. The third faculty completes
 the succession while also governing a positive mode of liberated
 abiding.
 
-**Organon reading:** The three faculties articulate successive
-Transcendental Time Determinations of Śuddha Sattva. “I shall know,”
-knowing, and having known are not merely grammatical future, present,
-and past; their ordered efficacy carries the path from seeing, through
-cultivation, to completed knowing and liberated abiding. The succession
-is path-specific, not a universal biography imposed on every continuum.
+**Organon reading — reciprocal return to Dhātu:** Dhātu 1.48 assigns
+portions of the final three Faculties to the Essence-Domain and places
+the non-external Domains within Mind-Cognition's reach. Indriya 2.04
+returns to that map by showing the practical sequence those path-related
+determinations govern: successive attainment, abandonment by seeing,
+abandonment by cultivation, and liberated abiding. The Domain map
+grounds the locus; the Faculties reconstruct it as path in operation.
 
-This remains a reconstruction of the passage's method. The Bhāṣya
-gives the three technical faculties and their two distributions;
-the Organon reading does not replace its specific distinctions or
-make parinirvāṇa another faculty-stage.
+“I shall know what is not yet known,” knowing, and having known are
+not merely grammatical future, present, and past. As an Organon
+reading, the first faculty negates the status “not yet known” by
+positing knowing as a task, not by annulling its object. The sequence
+reconstructs that status through distinct path-functions and attained
+knowing. This sharpens VAK 2.03's *viṣkambha* (checking
+or suppression) into the *prahāṇa* (abandonment) by seeing and
+cultivation stated here. Negation does not erase the Dhātu conditions
+of cognition; it returns them as a more determinate path-structure
+within mind. The sequence offers an SDSL pattern for testing the
+larger Prajñā/GDSL/SDSL isomorphism, without making these faculty
+names literal synonyms for Prajñā, Dharma, and Jñāna.
+
+These are Transcendental Time Determinations of Śuddha Sattva, not
+a universal biography imposed on every continuum. The Bhāṣya gives
+the three technical Faculties and their two distributions; the
+Organon reading preserves those distinctions and does not make
+parinirvāṇa another faculty-stage.
 
 ## 10. Review Status
 

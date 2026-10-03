@@ -266,6 +266,21 @@ the path-state and the Logic can discriminate valid alternative
 configurations. The result remains invariant across plans; its mediation does
 not.
 
+**Return to Dhātu at its last kārikā, VAK 1.48.** Dhātu maps the five
+internal sensory Domains to their corresponding Faculties, Mind-Faculty
+across the seven Citta Domains, Female and Male Faculties to part of the
+Body-Domain, and eleven Faculties beginning with Life—plus portions of the
+final three—to a portion of the Essence-Domain. VAK 2.16 applies distinct
+temporal and path-relations across those mapped Faculties. In gradual death,
+the Body, Life, Mind, and neutral-feeling Faculties form the final
+inseparable cluster; a wholesome terminal mind adds five Faculties already
+placed in the Essence-Domain. In fruit-attainment, the Faculties of the
+path-moments mediate a result without becoming identical to it. The
+realization Faculties can belong to successive path-moments rather than one
+simultaneous set. The Fichtean return negates a merely static reading of
+Dhātu and reconstructs its typed placements as operative in cessation and
+attainment, without replacing the map.
+
 ## 10. OWL++ Seed
 
 ```ttl

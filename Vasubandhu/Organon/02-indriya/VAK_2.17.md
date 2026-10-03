@@ -96,7 +96,7 @@ in the history of one person.
 
 Organon rendering:
 
-> The Kośa distinguishes event-local state from agent-history. Alternative feeling faculties are mutually exclusive within one execution, yet cumulatively possible across the history of one Agent. At each living mental state, however, the possession invariant requires persistence, mental coordination, and neutral affect to occur as an inseparable minimum triad.
+> The Kośa distinguishes event-local state from agent-history. Alternative feeling faculties are mutually exclusive within one execution, yet cumulatively possible across the history of one Agent. At each living mental state, however, the possession invariant requires the Life, Mind, and neutral-feeling Faculties to be co-possessed as an inseparable triad; it does not require neutral feeling to be manifest in every cognition.
 
 “Execution,” “agent-history,” and “possession invariant” are Organon
 reconstructions. The textual claims concern repeated attainment and necessary
@@ -229,6 +229,18 @@ summarizeHistory(agent)
 The Model must therefore preserve time-indexed states. Logic can then compute
 either a simultaneous configuration or a cumulative capability-set without
 confusing them.
+
+**Return to Dhātu at its last kārikā, VAK 1.48.** Dhātu places Life and the
+feeling Faculties, including neutral feeling, in a portion of the
+Essence-Domain, while Mind-Faculty is mapped across the seven Citta Domains.
+The necessary triad therefore crosses distinct Domain-incidences: its
+co-possession is an Indriya relation, not an identity among those loci. The
+eleven-faculty historical total likewise gathers alternatives over repeated
+attainments; it does not redraw the Dhātu map or make mutually exclusive
+feelings simultaneous. The Fichtean return negates a merely fixed reading of
+these placements and reconstructs them as necessary possession in one
+respect and temporally alternative attainment in another, without erasing
+their distinct Dhātu loci.
 
 ## 10. OWL++ Seed
 

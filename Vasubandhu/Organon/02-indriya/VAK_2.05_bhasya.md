@@ -185,21 +185,30 @@ the proposed supplementary enumeration as a whole.
 The passage makes scope part of a classification's explanation.
 A common predicate alone can admit more candidates than the system
 intends. The objector exposes this by presenting further cases of
-governing efficacy; the answer states the functions for which
-faculty-status is being assigned.
+governing efficacy; the answer's *iha*, “here,” bounds the functions
+for which Faculty-status is being assigned. The reply does not deny
+the causal efficacy of ignorance or the action-capacities; it rejects
+their supplementary inclusion in this enumeration.
 
-**Organon reading:** The six functions articulate the Transcendental
-Time Determinations of Śuddha Sattva: support, differentiation,
-persistence, defilement, preparation for purification, and
-purification. They are dimensions of a living process, not six
-consecutive clock-time stages or a mandatory biography. The
-enumeration is complete relative to this architecture; it does not
-deny the reality of other governing powers.
+**Organon reading — reciprocal return to Dhātu:** Dhātu 1.48 locates
+Faculty-status across sensory and Citta Domains, a part of Body, and
+a portion of Essence. Indriya 2.05 returns to that map through six
+functions: mind-support, differentiation, persistence, defilement,
+provision for purification, and purification. The Domain map constrains
+which powers count as Faculties; the function-map shows what those
+Faculty-bearing loci do. The five external Domains remain knowable
+without thereby becoming Faculties, and the non-faculty remainder of
+Essence remains distinct from its Faculty-bearing portion.
 
-The genital example preserves the distinction between a part and
-the configuration it governs. This philosophical reading extends
-the Bhāṣya's account of scope without changing its conventional
-translation or treating its Organon terminology as Sanskrit.
+In the Organon's Fichtean return, the objection's overextension is
+negated and the system reconstructed at its stated scope. Ignorance
+and speech, grasping, locomotion, excretion, and pleasure are not
+erased as real causes or powers; they are not counted as Faculties
+here because the Bhāṣya does not assign them one of the six functions.
+The six functions are Transcendental Time Determinations of Śuddha
+Sattva, not six clock-time stages. This is a philosophical reconstruction
+of the passage's bounded classification, not a claim that the Bhāṣya
+uses Fichtean or Organon terminology.
 
 ## 10. Review Status
 

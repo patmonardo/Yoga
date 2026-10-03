@@ -303,6 +303,17 @@ remain different relations. This philosophical extension does not identify
 the material count with a faculty-count or claim that the Bhāṣya teaches a
 Transcendental Time doctrine.
 
+**Principle–Rule closure (Organon, following your Pruden framing):** VAK 1.48
+is the Principle of typed Domain and Faculty incidence; the opening question
+here seeks a Rule governing the co-arising of conditioned dharmas. The
+material answer shows how distinct constituents can necessarily arise
+together without losing their separate characteristics or becoming
+Faculties. The eight-, nine-, and ten-constituent cases are the Rule's
+bounded determinations at the embodied Faculty interface, not replacements
+for Dhātu's Principle. This closes the Rule Theory boundary you identify
+with Pruden; the Bhāṣya's inquiry into co-arising continues beyond this
+material case.
+
 ## 10. Review Status
 
 Provisional twenty-second study of the restarted Indriyanirdeśa

@@ -131,7 +131,7 @@ formless realm:
 
 Organon rendering:
 
-> The Kośa now models genetic initialization. Execution-context and generation-mode determine which faculty-capabilities are available as inherited result at the first moment. Presence must be distinguished from resultant acquisition: mind and neutral feeling occur at relinking but are not members of the `vipāka` initialization set because their instances are necessarily afflicted then.
+> VAK 1.48 is the suspended Dhātu map to which this acquisition analysis returns. Realm, birth-mode, and initial `vipāka` determine which of its mapped Faculties are first acquired as maturation-result. Presence is not the same as acquisition: Mind and neutral feeling are present at relinking but are excluded from the `vipāka` count because their instances are afflicted. The map remains intact; this verse specifies one causal mode of entry into its Faculty-positions.
 
 “Initialization” and “inherited result” are Organon renderings. The textual
 categories are initial acquisition, relinking, birth-mode, realm, and
@@ -277,6 +277,17 @@ The natural/spiritual fivefold Object and ten Samyama-bhūmis are our
 Yoga–Organon architecture. VAK 2.14 supplies the textual principle that an
 Agent's operative powers have a conditioned genesis and need not all be
 present as inherited result at initialization.
+
+**Return to Dhātu at its last kārikā.** VAK 1.48 locates the initial
+Faculty positions in the Domain system: the five sensory Faculties,
+Female and Male within Body, Mind across the Citta Domains, and Life
+with the other Faculties in the Essence-Domain portion. VAK 2.14
+returns to these same positions and classifies which are initially
+acquired as *vipāka* under each realm and birth mode. In the formless
+realm, only Life is initially acquired as maturation-result; this
+does not erase Mind, neutral feeling, or the rest of the Dhātu map.
+The Dhātu endpoint remains suspended in itself until Indriya
+reconstructs its loci through this specific acquisition relation.
 
 ## 10. OWL++ Seed
 

@@ -142,7 +142,7 @@ third-level pleasure despite non-attainment of that dhyāna.
 For the female and male faculties and distress, the eight consist
 of the previously specified seven plus the named faculty. This
 seven-member basis is body, life, mind, and the four feelings;
-it is not a set of seven sensory organs.
+it is a mixed set of seven faculties, not seven sensory faculties.
 
 The faith-group has a different composition. Possession of any
 one of faith, vigor, recollection, concentration, or prajñā entails
@@ -191,6 +191,19 @@ This does not yet establish a causal account in which each member
 produces every other. Necessary co-possession and causal dependence
 are different claims. The Bhāṣya establishes the former here,
 with the second-dhyāna question clarifying its scope.
+
+**Return to Dhātu at VAK 1.48:** The five internal sensory Domains carry
+their corresponding Faculties, including the Body-Faculty; Female and Male
+Faculties occupy part of the Body-Domain. Life and all feeling Faculties
+are among those mapped to a portion of the Essence-Domain, while
+Mind-Faculty corresponds to the Citta Domains. The
+eye-holder's fivefold closure therefore connects a sensory Domain with
+Body, Essence, and Citta incidences. This is a relation of co-possession
+among distinct Faculty loci, not a collapse of Domains, an identity between
+Faculties, or a claim that all members are active together. In the Fichtean
+return, VAK 2.18 negates a merely static reading of the Dhātu map and
+reconstructs its placements as determinate dependency-closures, while
+preserving the difference between possession, activation, and causation.
 
 ## 10. Review Status
 
