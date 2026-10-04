@@ -279,4 +279,27 @@ The governing formula is:
     → Practical Moral Science
 ```
 
+## 11. Dharma-wheel Index
+
+An eventual Index of Dharmas must preserve this movement rather than flatten
+Dharmas into a single list. Each record therefore retains its Skandha, Sphere,
+and Domain projections; a record may share a Sphere or Domain with another
+record without thereby becoming the same Dharma. A Dharma-wheel models the
+index in operation: a governing hub, differentiated spokes, and a rim of
+explicit relations that closes the movement into a traversable whole.
+
+Because Abhidharma discriminates *sarvadharma*, the discriminating form cannot
+stand outside the index. The index must represent a first-class act of
+discrimination whose discriminator is itself a Dharma-record; this allows the
+reflexive case in which Abhidharma makes its own grounds and form explicit.
+This is an Organon requirement, not a claim about a literal self-indexing
+operation in the Kośa.
+
+Recognition may use learned resemblance to rank candidates, but every accepted
+classification must also retain an explicit rule and source witness. Learned
+recognition supplies probable identity; the witness supplies rational,
+inspectable determination. The companion research model,
+`dharma-wheel-index-model.rs`, makes these requirements concrete without
+mistaking the model for a translation or a final ontology.
+
 The work of the Organon is to derive this product determination by determination, `pṛthak pṛthak`, without confusing inherited interpretation with textual fact or speculative reconstruction with literal translation.

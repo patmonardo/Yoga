@@ -7,19 +7,27 @@
 This report now precedes the projected Organon Gītā Report.
 
 The Kośa study supplies differentiated causal, ethical, physical, temporal,
-and Path structures for the Yoga inquiry. Yoga Sūtras II and III can be studied
-as a connected movement, with distinct comparative resources at distinct
-stations:
+and Path structures for the Yoga inquiry. In this Hegelian Yoga Dharma
+Science, the Kośa is exceptionally embeddable as Practical Reason: it
+develops the determinate Sarvadharma needed to make each Bhūmi a complete
+science rather than a vague stage or isolated light of knowing. Hegel's
+Logic articulates the necessary forms; Yoga's Bhūmis and Saṃyama organize
+their staged mastery; the Kośa supplies practical Dharma-jñāna and its
+causal and Path determinations.
+
+Yoga Sūtras II and III can be studied as a connected movement, with the
+distinct resources integrated at their proper stations:
 
 ```text
 YS II
     presents Kriyā Yoga, the kleśas, discernment,
-    and the limbs of Yoga; Vasubandhu and the Kośa
-    provide the primary comparative architecture
+    and the limbs of Yoga; the Kośa develops their
+    practical causal, ethical, and Path determinations
 
 YS III
     develops Saṃyama through the Bhūmis;
-    Hegel's Logic addresses its middle movement,
+    Hegel's Logic articulates its logical movement,
+    the Kośa develops each Bhūmi's practical Sarvadharma,
     and Fichtean Knowing addresses vivekaja-jñāna
     and the ending
 ```
@@ -37,11 +45,12 @@ which that unity becomes practical and knowable.
 The present report argues:
 
 > This report proposes reading Yoga Sūtras II and III together through Kriyā
-> Yoga and Saṃyama. Vasubandhu and the Kośa supply comparative resources for
-> the still unestablished systematic account of Book II. In Book III, Hegel's
-> Logic bears on Saṃyama's middle movement, while Fichtean Knowing bears on
-> vivekaja-jñāna and the ending. The Bhūmis, including Ethics and Physics,
-> require their own determinate Kośa-informed development.
+> Yoga and Saṃyama. The Kośa supplies the practical Dharmaskandha through
+> which the systematic account of Book II and the Bhūmi-science of Book III
+> can be developed. Hegel's Logic articulates the necessary forms of
+> Saṃyama's movement, while Fichtean Knowing bears on vivekaja-jñāna and the
+> ending. The Bhūmis, including Ethics and Physics, require their own
+> determinate Sarvadharma, not vague labels or isolated attainments.
 
 The complete movement is:
 
@@ -75,8 +84,9 @@ Saṃyama
     → operates that unity as Practical Reason
 ```
 
-But Saṃyama becomes determinate only through a Bhūmi. The Kośa supplies the
-relational content required to construct such a ground:
+But Saṃyama becomes determinate only through a Bhūmi. The Kośa's practical
+Dharmaskandha supplies a systematic way to develop the relational content
+required to construct and master such a ground:
 
 ```text
 Dhātu
@@ -101,10 +111,12 @@ Jñāna
     the Path's determinate comprehension of its field
 ```
 
-The Kośa is a comparative architecture for investigating YS II and for
-developing the ethical and physical Bhūmis of YS III. Its Dharma
-determinations must be worked out from the sources rather than assigned to
-Yoga in advance.
+The Kośa is embedded as the practical architecture for investigating YS II
+and developing the ethical and physical Sarvadharma of YS III. This is a
+project-level systematic integration, not a historical claim that Yoga and
+the Kośa are one school or that their source terms are interchangeable. The
+practical Dharma must be worked out from both source systems in relation,
+rather than assigned to Yoga in advance.
 
 ## The eleven Saṃyama-bhūmis
 
@@ -325,7 +337,7 @@ the next inference.
 The first full commentary pass should follow these textual movements without
 rearranging the sūtras:
 
-| Sūtras | Movement | Kośa coordinate |
+| Sūtras | Movement | Kośa relation |
 |---|---|---|
 | II.1–2 | Kriyā Yoga and the purpose of cultivation | Karma → Mārga |
 | II.3–9 | the five kleśas | Anuśaya |
@@ -413,8 +425,20 @@ applicable:
 Dhātu → Indriya → Loka → Karma → Anuśaya → Mārga → Jñāna
 ```
 
-Not every sūtra will instantiate every coordinate equally. An absent or
-inapplicable coordinate must be explained rather than filled artificially.
+This sequence develops practical Dharma-jñāna for a Bhūmi; it is not a list
+of individual dharmas to fill in for each sūtra. The target is Sarvadharma:
+the integrated science of the stage's Object and its mastery. The five
+Natural-Object Bhūmis, five Spiritual-Object Bhūmis, and the Bhūmi of the
+Discriminator provide the top-level architecture; the Kośa sequence supplies
+method for determining their complete practical content without replacing
+Sāṃkhya's fivefold Object.
+
+The shared operational protocol and passage record are specified in
+[`Docs/organon-method-in-practice.md`](../Docs/organon-method-in-practice.md).
+For this Yoga report, use its Yoga procedure: preserve canonical sūtra order,
+identify the source-level operation first, then establish how the relevant
+Kośa dimensions work together in the Bhūmi's Sarvadharma and across the
+transition to the next sūtra.
 
 ## Source discipline
 
