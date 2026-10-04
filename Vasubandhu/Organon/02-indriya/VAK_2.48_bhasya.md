@@ -9,9 +9,10 @@
 > Acquisitions are twofold, and so are the marks. The attainments
 > and non-possession are homogeneous outflows.
 
-The opening completes the “likewise” of VAK 2.47. The continuous unit
-closes the account of dissociated formations and includes the question
-that introduces causes and conditions; the answer begins in VAK 2.49.
+The 2.48 stanza begins at 82.09; its source excerpt retains the
+closing relation from VAK 2.47 at 82.06–08. The commentary closes
+the account of dissociated formations and includes the question that
+introduces causes and conditions; the answer begins in VAK 2.49.
 
 ## 2. Continuous Sanskrit
 
@@ -127,9 +128,9 @@ recorded in those debates.
 
 ## 8. Textual and Translation Decisions
 
-The continuous Sanskrit covers 82.06–20, beginning with the prose and
-*tathā* reserved from VAK 2.47 and ending with the question introducing
-VAK 2.49. The transcription labels two intervening lines 81.13 and
+The continuous Sanskrit covers 82.06–20, retaining the contextual
+overlap from VAK 2.47 at 82.06–08 and ending with the question
+introducing VAK 2.49. The transcription labels two intervening lines 81.13 and
 81.14 despite their position within page 82; these anomalous source
 labels are omitted with the other display labels, not used to reorder
 the text.
@@ -154,37 +155,20 @@ Their English is contextual: “because they arise together with all
 conditioned things” and “but it was said.” These are transparent working
 construals, not claims to a critically established Sanskrit text.
 
-## 9. Philosophical and Organon Study
+## 9. Limited Organon Reading
 
-As Organon interpretation, the passage distinguishes membership in a
-catalogue from the determinations needed to understand each member.
-Sharing the classification “dissociated formation” does not settle realm,
-result-status, ethical status, or relation to a sentient continuum.
-The exposition specifies these relations and then asks about causes
-and conditions.
-
-This gives a precise local point of contact with our discussion of
-classification and mediation: membership can begin an inquiry whose
-explanation requires further relations. The passage does not itself
-identify those relations with a Kantian, Hegelian, or Sāṃkhya account.
-Its own movement is from differentiated classifications to an explicit
-causal question, with the earlier distinction between acquisition,
-attainment, result, and marked dharma preserved.
-
-**Organon reading (philosophical reconstruction, not Bhāṣya doctrine):**
-Faculty-governance is read as a Transcendental Time Determination of Śuddha
-Sattva: the temporal determination here is causal provenance—how a particular
-dharma is continued or comes to maturity—not when it happened on a
-calendar. Universal Cognition can distinguish these result-modes without
-collapsing realm, ethical status, and continuum-relation into one Idea.
-This reading follows the passage's move from classification to causes and
-conditions without claiming that it states a Sāṃkhya or Hegelian theory.
+Within the project's First Philosophy framing, this verse extends the
+classification of formations to their result-status. The Bhāṣya
+distinguishes homogeneous outflow from maturation-result, specifies
+which items admit each classification, and closes by asking about
+causes and conditions. This is a local extension of the inquiry, not
+a complete theory of causality; the six-cause account begins in VAK 2.49.
 
 ## 10. Review Status
 
 Provisional forty-eighth study of the restarted Indriyanirdeśa Bhāṣya
-sequence. The research Bhāṣya, existing Organon kārikā, preceding study's
-reserved boundary, and running Sanskrit have been compared. The complete
+sequence. The source span, contextual overlap with VAK 2.47, existing
+Organon kārikā, and running Sanskrit have been compared. The complete
 closing unit and transition question are translated.
 
 Transcription anomalies are marked; no independent edition or manuscript

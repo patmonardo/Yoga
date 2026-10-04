@@ -1,4 +1,4 @@
-# VAK_2.45 Bhāṣya — Life, Duration, and the Conditions of Death
+# VAK_2.45 Bhāṣya — Life, Death, and the Marks of the Conditioned
 
 ## 1. Kārikā Anchor
 
@@ -8,9 +8,11 @@
 > Life is lifespan, the support of warmth and cognition. The
 > marks, in turn, are arising, aging, persistence, and impermanence.
 
-This study follows the complete life-faculty discussion. The
-conditioned-marks clause and its extended commentary begin the
-next natural unit and are reserved for VAK 2.46.
+The kārikā is split across the continuous commentary: the life
+discussion runs from 73.14 through 75.18; its four-mark clause is
+recited at 75.19 and discussed through 79.17. VAK 2.46's first
+half is cited at 76.11 and 76.15 within that discussion; its second
+half is cited at 79.18.
 
 ## 2. Continuous Sanskrit
 
@@ -101,13 +103,18 @@ next natural unit and are reserved for VAK 2.46.
 > santi sattvā nānātvakāyā nānātvasaṃjñinastadyathā manuṣyastadekatyāścadevā iti /
 > tasmādupadarśanārtha evāyaṃ draṣṭavya ityalamatiprasaṅgena /
 > uktaṃ jīvitam //
+> lakṣaṇāni punarjātirjarā sthitiranityatā // 2.45 //
 
-The excerpt follows printed 73.14–75.18 in
+The life excerpt follows printed 73.14–75.18 in
 `Vasubandhu/Sources/kosabhasya.txt`, with source labels removed.
-Transcription defects are retained, including difficult quotations
-and the list of protected lives. Contextual resolutions and
-uncertainties are identified below. No independent collation
-is claimed.
+The marks commentary continues at 75.19–79.17, including the first
+half of VAK 2.46 at 76.11 and 76.15. The second half is cited at
+79.18. Its full Sanskrit continuation is also reproduced as the
+contextual lead-in in [VAK_2.46_bhasya.md](./VAK_2.46_bhasya.md).
+Transcription defects are retained, including
+difficult quotations and the list of protected lives. Contextual
+resolutions and uncertainties are identified below. No independent
+collation is claimed.
 
 ## 3. Continuous Conventional Translation
 
@@ -224,6 +231,173 @@ inserting an unmarked negation. The list of beings contains
 uncertain names and syntactic attachments. It is preserved in
 full in the Sanskrit, and the English names above are provisional.
 
+### The Four Marks of the Conditioned
+
+“The marks are arising, aging, persistence, and impermanence.”
+These are the four marks of the conditioned. A dharma in which
+they occur is recognized as conditioned; the reverse is unconditioned.
+Arising generates that dharma, persistence sustains it, aging
+ages it, and impermanence destroys it. But the sūtra says “three
+marks of the conditioned”; a fourth would have to be stated
+there too. What is not stated? Persistence. What, then, of
+“alteration of persistence”? That is a synonym for aging, as
+“origination” is for arising and “passing away” for impermanence.
+
+The sūtra names those dharmas which move formations across the
+times, to inspire disquiet. Arising moves formations from future
+to present; aging and impermanence move them from present to
+past by weakening and destroying them. It is like three enemies
+of a man who has entered a thicket: one drags him out and two
+deprive him of life. Persistence, however, embraces the formations,
+as though wishing not to part from them. Thus it is not established
+there as a conditioned mark; moreover, the unconditioned too
+persists in its own character.
+
+Others explain that the sūtra combines persistence and aging
+as the single mark “alteration of persistence.” Why? Persistence
+is a basis of attachment; to prevent attachment to it, it is
+shown like Śrī accompanied by Kālakarṇī [the ominous companion
+in the transmitted comparison]. Thus there are four conditioned
+marks. Since arising and the others are themselves conditioned,
+should they not have further arising and so forth? They do:
+“arising-of-arising and the others belong to them.” They have
+four subsidiary marks: arising-of-arising, persistence-of-persistence,
+aging-of-aging, and impermanence-of-impermanence. But then each
+would require four marks, with no end, since those too would
+require further marks. That does not follow, because “they
+operate on eight dharmas and on one.” The principal marks operate
+on eight; operation means activity or efficacy. The subsidiary
+marks operate on one.
+
+How? The marked dharma is the ninth member, together with four
+primary and four subsidiary marks. Arising generates the other
+eight, excluding itself; arising-of-arising generates only that
+arising. It is
+like one hen producing many offspring and another few. Persistence
+likewise sustains the other eight, excluding itself, while
+persistence-of-persistence sustains only persistence. Aging and
+impermanence should be applied correspondingly. Thus no infinite
+regress follows.
+
+“This is splitting space,” say the Sautrāntikas. These dharmas,
+arising and so forth, do not exist as real entities in the manner
+expounded. Why? There is no evidence—perception, inference, or
+trustworthy scripture—for their existence as entities, as there
+is for Form and the other dharmas. What, then, of the sūtra saying
+that the arising, passing away, and alteration of persistence
+of the conditioned are discerned? You know the wording, dear
+to the gods, but not its meaning. The Blessed One said to rely
+on meaning. What is its meaning? Ordinary people blinded by
+ignorance cling to the stream of formations as self and belonging
+to self. To turn back that mistaken resolve and indicate the
+stream's conditionedness and dependent arising, the Blessed One
+spoke of three conditioned marks of the conditioned—not of a
+moment. A moment's arising and so forth are not discerned; what
+is not discerned cannot serve as a mark in this account. Hence
+the sūtra says “the arising of the conditioned is discerned.”
+The repetition of “conditioned” indicates marks of its being
+conditioned, not evidence merely of its existence, like water
+and cranes, or of its goodness or badness, like a maiden's marks.
+
+The beginning of a stream is origination, its ending passing
+away; the continuing stream is persistence, and its difference
+between earlier and later is alteration of persistence. Thus
+it is said that the feelings of the clansman Nanda arise, persist,
+and pass to cessation, exhaustion, and ending while known. Verses
+state the same account: arising is the stream's beginning, passing
+away its cutting off, persistence the stream itself, and alteration
+the difference between its earlier and later states. Arising is
+occurrence not previously present; persistence is continuity;
+passing away its termination; alteration is difference within
+that continuity. For a momentary dharma would pass away without
+persistence, and it does pass away; positing persistence for
+it is therefore pointless [this verse is textually difficult].
+Persistence is consequently the stream. This also fits the
+Abhidharma definition of persistence as non-destruction of arisen
+formations, since an arisen moment has no non-destruction. The
+Jñānaprasthāna's account of arising, death, and aging in “one
+consciousness” can likewise concern consciousness of a common
+class.
+
+The marks can also be applied moment by moment without positing
+separate entities. At each moment, occurring after not occurring
+is origination; non-occurrence after occurrence is passing away;
+each preceding moment's connection with a subsequent moment is
+persistence, and their dissimilarity is alteration. What if
+similar moments arise? They are not entirely without difference.
+How is this known? Different times of falling in objects such
+as a hard stone, thrown or not thrown, and thrown strongly or
+weakly, establish a particular transformation of their great
+Elements [the example is compressed]. Formations differing only
+slightly appear similar despite alteration. But the last moment
+of sound or flame, and the six Spheres at final nirvāṇa, have
+no following moment; thus alteration of persistence would not
+apply universally. Persistence alone is not stated as the mark,
+but alteration of persistence. Wherever persistence exists,
+alteration necessarily exists; the definition is not undermined.
+In summary, the sūtra indicates that the conditioned occurs after
+not occurring and, having occurred, no longer occurs; its continuity,
+called persistence, becomes otherwise and otherwise.
+
+What need is there for separate arising and other entities? But
+how can the same dharma be both what is marked and its mark? The
+marks of a great person are not other than that person; the dewlap,
+tail, hump, hooves, horns, and so forth that mark a cow are not
+other than the cow; hardness and the other marks of the great
+Elements are not other than them. Smoke is recognized at a distance
+through its upward movement, which is not a separate thing from
+it. The same reasoning applies. Yet merely apprehending the
+nature of Form does not disclose its conditionedness until its
+prior and subsequent absence and the differences of its continuum
+are known. Thus its nature alone does not mark that conditionedness,
+but arising and the others are not separate entities either.
+
+Suppose they were separate entities: what would be untenable?
+A single dharma would be arisen, persistent, aged, and destroyed
+at the same time, since the marks coexist. Their activities occur
+at different times: future arising acts, for an already arisen
+dharma is not generated; once the dharma is generated, present
+persistence and the others act. Thus it does not persist, age,
+or perish when it arises. First one must determine whether the
+future exists as an entity; only then could its generating be
+established. Even if it exists, how is arising future while
+acting, and present when its activity has ceased? The criteria
+for future and present must be given. Persistence and the others,
+acting together, would still make the dharma persistent, aged,
+and destroyed in one moment. Should it persist, age, or perish
+then? Making their operations successive contradicts momentariness.
+
+Perhaps “one moment” means the interval in which all this is
+completed. Even so, why does persistence act first while co-arising
+aging and impermanence do not? Because persistence is stronger.
+Why is it weaker afterward, when impermanence destroys it together
+with the dharma? Having done its work, it cannot act again, like
+arising. That inability is reasonable for arising: what has been
+brought into the present cannot be brought there again. But
+persistence could keep sustaining what it sustains indefinitely.
+What prevents it? Aging and impermanence. If they were stronger,
+they would have been so before. Once persistence ceases acting,
+neither those two nor the dharma persists; where could they act,
+and what remains for them to do? If the dharma did not perish
+immediately because persistence sustained it, once abandoned
+by persistence it will not remain: that itself is its destruction.
+
+One might allow non-destruction of an arisen dharma as persistence
+and destruction as impermanence. But aging does not work for
+one unchanged entity: aging requires earlier/later difference
+and transformation; if it becomes otherwise, it is another.
+As a verse says, aging is not established if it remains the same,
+while if it is otherwise it is another; hence aging of one entity
+is untenable. A member of another school says that impermanence
+destroys upon meeting a cause of destruction. That would be like
+saying a deity causes purgation after obtaining harītakī: why
+posit it? Let destruction arise from that cause itself. Moreover,
+since mental dharmas are admitted to be momentary, their impermanence
+needs no cause of destruction; persistence and impermanence would
+act simultaneously, making one dharma both persistent and destroyed.
+Thus reading the sūtra's marks with reference to the stream
+interprets it well.
+
 ## 4. Movement and Voices of the Commentary
 
 The definition of life through lifespan prompts a demand for
@@ -239,6 +413,14 @@ of intention's efficacy meets a scriptural scope objection and
 ends in a debate about how examples indicate a wider range.
 These are connected but distinct arguments, not one uniform
 proof of a vital substance.
+
+The second half of the kārikā turns to the four conditioned marks.
+The commentary first explains why one sūtra names three, then
+records two accounts of persistence's omission. It preserves the
+Vaibhāṣika defense of secondary marks and the Sautrāntika objection
+that the marks are not separate substances. The dispute ends by
+reading the marks as determinations of a stream rather than of
+an isolated moment.
 
 ## 5. Support and Projected Duration
 
@@ -288,7 +470,27 @@ objection about the absence of “for example.” The concluding
 reply gives the expression an indicative force. Preserving those
 turns matters: the wider range is argued for, not simply assumed.
 
-## 8. Textual and Boundary Decisions
+## 8. The Four Marks and the Stream Debate
+
+The opening account says the sūtra names arising, change during
+persistence, and passing away to show how formations move through
+time; persistence itself embraces them, and even the unconditioned
+remains in its own nature. A second explanation treats “change
+during persistence” as the combined mark of persistence and aging,
+displayed together to prevent attachment.
+
+The Vaibhāṣika answer to regress assigns each primary mark a
+corresponding secondary mark and limits their operations: primary
+marks work across eight dharmas, while each secondary mark works
+on one. The Sautrāntika objection denies that the marks have
+separate substantial existence or independent proof. Its scriptural
+reading takes the stream of formations—not a single instant—as
+the referent. The later objections test that reading against
+momentary change, similar successive moments, terminal moments,
+and the proposed distinct activities of the marks. The disagreement
+over separate entities remains explicit.
+
+## 9. Textual and Boundary Decisions
 
 The source has defects in the warmth/cognition compound, the
 mutual-support objection, and the arrow argument. The English
@@ -305,50 +507,30 @@ uncertain proper names in the intention list are not supplied
 from imagined parallels.
 
 The explicit *uktaṃ jīvitam* at 75.18 closes the life discussion.
-The verse's second half introduces conditioned marks at 75.19;
-that full debate is reserved for VAK 2.46. This follows the natural
-commentary boundary rather than truncating the life argument
-or starting another lengthy inquiry here.
+The second half of VAK 2.45 is recited at 75.19; its commentary
+closes at 79.17. VAK 2.46's first half is embedded at 76.11 and
+76.15, with its second half at 79.18. For context, the four-mark
+passage is intentionally repeated in the 2.46 Bhāṣya witness, but
+it is included as part of this complete 2.45 pair as well.
 
-## 9. Philosophical and Organon Study
+## 10. Limited Organon Note
 
-The passage distinguishes persistence, its causal explanation,
-and the postulation of a separate supporting entity. Both sides
-must account for lifespan; they disagree about what that account
-requires. The critical formula offers projected duration, while
-the defender retains a real lifespan-dharma.
+Keep the dispute over a distinct life-faculty separate from the
+dispute over whether the conditioned marks are distinct substances.
+The Bhāṣya offers different arguments for lifespan, interruption,
+and the stream's temporal marks; no broader Organon mapping is
+needed to preserve those distinctions.
 
-For Organon interpretation, the death classifications add conditions
-that a bare duration cannot express by itself. Karmic projection,
-availability of enjoyments, integrity of support, and intention's
-efficacy enter different questions. Their relations must be
-specified rather than collapsed into one general principle
-called life.
-
-The final debate further shows that a scriptural example's scope
-requires argument. Naming an endpoint may indicate a broader
-class, but the commentary tests how that inference is licensed.
-This interpretive work belongs alongside the causal analysis
-in a continuous study of the passage.
-
-**Organon reading (philosophical reconstruction, not Bhāṣya doctrine):**
-The life-faculty is read as a Transcendental Time Determination of Śuddha
-Sattva: projected lifespan and the marks of arising, persistence, change, and
-cessation articulate different temporal questions. Their answer is
-immanent to the conditioned continuum and its causes, not a universal
-clock-duration detached from the conditions specified in the commentary.
-The defender's real lifespan-dharma remains attributed to that view.
-
-## 10. Review Status
+## 11. Review Status
 
 Provisional forty-fifth study of the restarted Indriyanirdeśa
-Bhāṣya sequence. The life discussion in the research VAK 2.44
-Bhāṣya, existing Organon kārikā anchor, preceding continuous
-study, and running Sanskrit at 73.14–75.19 have been compared.
+Bhāṣya sequence. The life discussion at 73.14–75.18 and the
+four-mark discussion at 75.19–79.17 have been compared with the
+running Sanskrit and existing studies.
 
-The complete life unit is translated through its closing sentence,
-including the duration alternative, death classifications, and
-scriptural-scope debate. Damaged quotations and names remain
-explicitly uncertain. Original witnesses and existing studies
-are unchanged. VAK 2.46 begins at 75.19 with the four conditioned
-marks and the ensuing objections.
+Both halves of VAK 2.45 are translated, including the lifespan
+and death debate, intention's fourfold range, and the full exchange
+over the four marks. Damaged quotations and names remain explicitly
+uncertain. VAK 2.46 is split across 76.11, 76.15, and 79.18;
+the contextual overlap in its Bhāṣya is identified above. Original
+witnesses and source studies are unchanged.

@@ -12,6 +12,10 @@
 >
 > kāmarūpāptasattvākhyā niḥṣyandāvyākṛtās tathā // 2.47 //
 
+The kārikā is cited in parts: its first half at 80.13, its
+classification half at 82.03–04, and its final *tathā* at 82.08.
+The intervening prose completes this unit; VAK 2.48 begins at 82.09.
+
 ## 3. Padaccheda
 
 ```text
@@ -78,27 +82,17 @@ The surface sandhi `avyākṛtās tathā` represents `avyākṛtāḥ tathā`.
 
 ### Bhāṣya-informed translation
 
-> The linguistic groups comprise collected designations, meaning-completing sentences, and phonetic elements. The Vaibhāṣikas classify them as formations belonging to the desire and form realms, possessed by the sentient being who signifies through them, produced as homogeneous outflows, and ethically indeterminate. Vasubandhu nevertheless argues that their semantic work is already performed by sound whose application has been conventionally fixed and cognitively synthesized; a second linguistic substance is unnecessary.
+> The Vaibhāṣikas classify the groups of names and the rest as formations dissociated from mind, belonging to the desire and form realms, possessed by the sentient being who signifies through them, homogeneous outflows, and unobscured-indeterminate. Others say that such entities also belong to the formless realm but are inexpressible. Vasubandhu challenges their substantial status, arguing that sound with a conventionally fixed application can reveal meaning without a distinct name-entity; the Vaibhāṣikas maintain their position.
 
-## 6. Philosophical Translation
+## 6. Limited Organon Reading
 
-> Language is a temporally ordered practice of knowing. Audible elements occur successively; convention determines their semantic range; cognition retains and synthesizes the sequence; and a sentence completes an articulated meaning. This organization is real as a function and form of intelligibility without becoming an occult entity inserted between sound and meaning.
-
-The middle position is exact:
-
-```text
-not undifferentiated noise
-not a hypostatized Name-substance
-but meaningful sound organized by convention and cognitive synthesis
-```
-
-**Organon rendering (philosophical reconstruction, not literal Bhāṣya
-doctrine):** A sentence's meaning becomes available through a temporal
-order: phonetic Ideas occur successively, convention governs their
-particular application, and Cognition retains and synthesizes the sequence
-as one intelligible expression. This is a Transcendental Time Determination
-of Śuddha Sattva, not a simultaneous acoustic object or a claim that
-meaning is measured by elapsed clock-time.
+Within the project's First Philosophy framing, this verse extends the
+classification inquiry to linguistic formations: designation, sentence,
+and phonetic-element groups, together with their reported status. The
+Bhāṣya's dispute over whether these collections exist as separate
+substances remains distinct from the conventional account of their
+functions. The source raises the problem of successive sounds but does
+not give a complete theory of retention or synthesis.
 
 ## 7. Technical Vocabulary
 
@@ -149,15 +143,10 @@ For i ≠ j:
     soundᵢ and soundⱼ need not coexist
 ```
 
-Therefore a hearer must retain and synthesize the sequence:
-
-```text
-LinguisticUnderstanding =
-    Retention(successiveSoundEvents)
-    + ConventionalDetermination
-    + OrderedSynthesis
-    + CompletionOfMeaning
-```
+The Bhāṣya uses this succession to question how speech could produce
+one name as a whole. The proposal that the final sound alone produces
+the name is challenged by the consequence that hearing only that sound
+should then convey the meaning.
 
 The Bhāṣya's production/manifestation dilemma is:
 
@@ -200,102 +189,46 @@ stable semantic function
 
 ## 9. Interpretive Note
 
-VAK 2.47 is the first explicit linguistic machine in this sequence. Its three
-levels are not interchangeable. A designation fixes an application; a
-sentence completes a meaning through relations; a phonetic element is an
-event within the audible succession. Their grouping is intelligible, but the
-group does not require an entity numerically additional to its members and
-their order—just as a row is not a further substance beside the arranged
-items.
-
-The temporal argument is decisive for the Organon. A spoken sequence is never
-given as a simultaneously completed acoustic object. Earlier elements have
-ceased when the final element occurs. Linguistic understanding therefore
-requires a continuum capable of retaining difference and synthesizing its
-`krama` into one completed determination:
-
-```text
-phonetic event
-    → retained sequence
-    → conventionally determined articulation
-    → completed sentence-meaning
-```
-
-This does not turn `viṣaya` into an external object or reduce meaning to a
-token. The sounds are registered events; the intelligible result depends upon
-their ordered synthesis. A corpus architecture should consequently model at
-least four distinct layers:
-
-```text
-PhoneticEvent
-DesignationRule
-OrderedExpression
-CompletedMeaning
-```
-
-The Kośa catalogue calls the three groups formations dissociated from mind.
-That label belongs to the reported Vaibhāṣika classification. Vasubandhu's
-strongest argument instead makes linguistic form immanent in conventionally
-fixed meaningful sound and the cognitive synthesis of its temporal order.
-The Organon should preserve the operations without reifying the catalogue's
-separate substance.
-
-This is already a functional constraint on the later Technē Agent:
-
-```text
-tokenization alone ≠ knowing
-
-Knowing(expression) requires:
-    provenance of registered events
-    + ordered retention
-    + controlled semantic convention
-    + relational completion
-```
-
-The kārikā itself states the linguistic groups and their classifications. The
-anti-reification argument belongs to Vasubandhu's Bhāṣya; the temporal
-synthesis and Agent architecture are the present Organon reconstruction.
-
-**Organon temporal note:** The sentence's completed Idea depends on retaining
-the differences among earlier and later sounds. Universal Cognition names
-that synthesis; it does not turn each particular phonetic event into an
-independent Name-substance.
+The verse moves from the conditioned marks to the groups through which
+designation, sentence, and phonetic elements are classified. The Bhāṣya
+questions whether their semantic and collective functions require additional
+substances, then preserves the Vaibhāṣika defense and the groups' stated
+classifications. Its closing *tathā* is recited at 82.08 after the
+concluding prose at 82.06–07; VAK 2.48 begins at 82.09.
 
 ## 10. OWL++ Seed
 
 ```ttl
 @prefix vak: <http://127.0.0.1:3000/vak#> .
-@prefix organon: <http://127.0.0.1:3000/organon#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
-vak:LinguisticGroup a organon:Class .
-vak:NameGroup a organon:Class ;
-    organon:subClassOf vak:LinguisticGroup .
-vak:SentenceGroup a organon:Class ;
-    organon:subClassOf vak:LinguisticGroup .
-vak:PhoneticElementGroup a organon:Class ;
-    organon:subClassOf vak:LinguisticGroup .
+vak:VAK_2_47
+    a vak:Karika ;
+    rdfs:label "VAK 2.47" ;
+    vak:hasTopic vak:LinguisticGroups, vak:LinguisticClassification .
 
-organon:PhoneticEvent a organon:Class .
-organon:DesignationRule a organon:Class .
-organon:OrderedExpression a organon:Class .
-organon:CompletedMeaning a organon:Class .
+vak:NameGroup a vak:LinguisticGroup .
+vak:SentenceGroup a vak:LinguisticGroup .
+vak:PhoneticElementGroup a vak:LinguisticGroup .
 
-organon:precedes a organon:TransitiveProperty .
-organon:retains a organon:ObjectProperty .
-organon:appliesConvention a organon:ObjectProperty .
-organon:completesMeaning a organon:ObjectProperty .
+vak:VaibhasikaPosition
+    a vak:AttributedDoctrinalPosition ;
+    vak:asserts vak:SubstantialExistenceOfLinguisticGroups .
 
-organon:LinguisticUnderstanding a organon:Process ;
-    organon:requires organon:PhoneticEvent,
-        organon:DesignationRule,
-        organon:OrderedExpression,
-        organon:CompletedMeaning .
+vak:VasubandhuCritique
+    a vak:AttributedArgument ;
+    vak:questions vak:SubstantialExistenceOfLinguisticGroups .
 
-vak:NameGroup organon:classifiedInRealm vak:DesireRealm, vak:FormRealm ;
-    organon:associatedWith vak:SentientContinuum ;
-    organon:resultType vak:HomogeneousOutflow ;
-    organon:ethicalStatus vak:Indeterminate .
-
-organon:SemanticFunction organon:doesNotEntail
-    organon:SeparateSemanticSubstance .
+vak:LinguisticGroups
+    vak:classifiedInRealm vak:DesireRealm, vak:FormRealm ;
+    vak:associatedWith vak:SignifyingSentientBeing ;
+    vak:resultType vak:HomogeneousOutflow ;
+    vak:ethicalStatus vak:UnobscuredIndeterminate .
 ```
+
+## 11. Review Status
+
+Provisional paired study of VAK 2.47. Its split citation is traced
+through 80.13, 82.03–04, and 82.08, with the 2.47 prose ending at
+82.07 and VAK 2.48 beginning at 82.09. The Organon reading remains
+separate from the source-based translation and attributed positions.

@@ -12,6 +12,11 @@
 >
 > janyasya janikā jātir na hetupratyayair vinā // 2.46 //
 
+The stanza is split in the commentary: its first half is cited at
+76.11 and 76.15 within the four-mark discussion; its second half is
+recited at 79.18. The commentary closes at 80.11, before VAK 2.47
+at 80.12.
+
 ## 3. Padaccheda
 
 ```text
@@ -93,27 +98,12 @@ a birth-entity?
 
 > The Vaibhāṣikas assign each of the four conditioned marks a corresponding secondary mark and distribute their causal operations across the resulting nine-member occurrence. They say that birth produces the dharma to be born, but only when the complete causes and conditions are assembled. Vasubandhu replies that the causal conjunction already explains the arising: “birth” designates the transition from prior nonexistence to present existence and need not name an additional producer.
 
-## 6. Philosophical Translation
+## 6. Limited Organon Reading
 
-> A real transition does not require a transition-substance. When the complete causes and conditions are present, the effect arises; when they are absent, it does not. `Jāti` intelligibly names this determinate coming-to-be, but naming the transition does not add another causal agent beside the conditions that perform the work.
-
-The critical reduction is:
-
-```text
-complete causal conjunction
-    → effect arises
-
-therefore:
-    no redundant BirthOperator is required
-```
-
-**Organon rendering (philosophical reconstruction, not literal Bhāṣya
-doctrine):** Birth marks the determinate transition by which causes and
-conditions make a particular Idea present. The universal Cognition of
-genesis comprehends that transition through its complete conditions;
-`jāti` need not be a second agent that moves the Idea through clock-time.
-As the faculty's Transcendental Time Determination of Śuddha Sattva,
-arising is immanent causal actualization, not a universal chronology.
+The kārikā joins two claims: the Vaibhāṣika distribution of primary and
+secondary marks, and birth's dependence on causes and conditions. The
+Bhāṣya contests whether those relations require separate mark-entities;
+that dispute remains attributed rather than replaced with a new ontology.
 
 ## 7. Technical Vocabulary
 
@@ -209,67 +199,16 @@ DistinctExpression("arising of form")
 
 ## 9. Interpretive Note
 
-VAK 2.46 completes the critique of substantialized lifecycle marks. The
-Vaibhāṣika model tries to prevent regress by adding exactly one secondary
-mark for each primary mark and distributing their operations asymmetrically.
-The construction is ingenious, but the Bhāṣya asks the prior question:
-does any mark-entity perform work not already performed by causes and
-conditions?
-
-The answer is negative. Complete causal conditions explain both why this
-dharma arises and why all future dharmas do not arise simultaneously. Adding
-`jāti` after that explanation duplicates the transition.
-
-The grammatical defense fails for the same reason. From the fact that one
-can say “the arising of form” it does not follow that form and arising are two
-substances. Otherwise every numerical, spatial, relational, and grammatical
-distinction would require a matching entity:
-
-```text
-one, two, large, small,
-separate, conjoined,
-prior, posterior, existent ...
-```
-
-The Kośa's own critical labor therefore gives us a precise ontology rule:
-
-```text
-semantic distinction
-    requires an intelligible ground
-
-semantic distinction
-    does not automatically require a separate substance
-```
-
-For the Kośa Technē, `jāti` should be a derived transition with causal
-provenance:
-
-```text
-deriveArising(effect)
-    from priorNonexistence
-       + completeCauses
-       + completeConditions
-       + presentOccurrence
-```
-
-This is not merely an optimization that removes unnecessary objects. It
-preserves the Concept of arising: the effect is known through the complete
-genesis by which it becomes present.
-
-The Vaibhāṣika closes by retaining the substantial marks as established
-doctrine despite the objections. That conclusion must remain attributed; the
-Bhāṣya's argumentative weight, however, strongly favors Vasubandhu's
-immanent causal analysis.
-
-**Organon temporal note:** This passage locates temporal determination in
-causal completeness and the arising it explains. It does not erase the
-defender's separately real mark, which the Bhāṣya continues to report.
+The critical argument assigns explanatory work to the complete causes and
+conditions and treats “arisen” as a designation grounded in the transition
+from prior nonexistence to present existence. The Vaibhāṣika nevertheless
+maintains that the marks are established as real entities. Preserve both
+the argument and that closing position.
 
 ## 10. OWL++ Seed
 
 ```ttl
 @prefix vak: <http://127.0.0.1:3000/vak#> .
-@prefix organon: <http://127.0.0.1:3000/organon#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
 vak:VAK_2_46
@@ -293,11 +232,11 @@ vak:VasubandhuJatiCritique
         vak:PresentExistence ;
     vak:denies vak:SeparateBirthSubstance .
 
-organon:DerivedArisingTransition
-    a organon:InterpretiveReconstruction ;
-    organon:isDerivedFrom organon:PriorNonexistence,
-        organon:CompleteCauses,
-        organon:CompleteConditions,
-        organon:PresentOccurrence ;
-    organon:isNot organon:IndependentBirthOperator .
 ```
+
+## 11. Review Status
+
+Provisional paired study against the split 2.46 commentary. The first
+half is cited at 76.11 and 76.15; the second half at 79.18. The source
+excerpt retains its contextual overlap with VAK 2.45 (75.19–79.17).
+The 2.46 discussion closes at 80.11; VAK 2.47 begins at 80.12.

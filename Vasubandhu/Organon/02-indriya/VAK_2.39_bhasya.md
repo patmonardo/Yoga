@@ -5,8 +5,8 @@
 > nivṛtasya ca rūpasya kāme rūpasya nāgrajā /
 > akliṣṭāvyākṛtāprāptiḥ sātītājātayos tridhā // 2.39 //
 
-> [Acquisition is co-arisen] also for obscured material form;
-> desire-realm material form has no prior acquisition. Non-acquisition
+> [Acquisition is co-arisen] also for obscured Form;
+> Desire-Domain Form has no prior acquisition. Non-acquisition
 > is unafflicted-indeterminate; for past and future dharmas it
 > is threefold.
 
@@ -68,14 +68,13 @@ Does non-acquisition also have varieties like acquisition? No,
 he says. What, then? “Non-acquisition is unafflicted-indeterminate.”
 All non-acquisition is exclusively unobscured-indeterminate. With
 respect to time, however, “for past and future dharmas it is
-threefold.” There is no present non-acquisition of a present
-dharma. For past and future dharmas, non-acquisition belongs to
-all three times.
+threefold.” The non-acquisition of a present dharma is present; for past and
+future dharmas, non-acquisition belongs to all three times.
 
-“And for those belonging to the desire realm and so forth, and
+“And for those belonging to the Desire Domain and so forth, and
 for the stainless.” “Threefold” carries forward. Non-acquisition
-of desire-realm dharmas belongs to the desire, form, or formless
-realm; likewise for form-realm, formless-realm, and uncontaminated
+of Desire-Domain dharmas belongs to the Desire, Form, or Formless
+Domain; likewise for Form-Domain, Formless-Domain, and uncontaminated
 dharmas. There is no uncontaminated non-acquisition. Thus,
 “non-acquisition of the path is held to be ordinary-person status.”
 The treatise reads: “What is ordinary-person status? Non-obtaining
@@ -100,17 +99,19 @@ again. Then the effort is pointless. The Sautrāntika account
 is better. What is their account? “Ordinary-person status is
 a continuum in which noble dharmas have not arisen.”
 
-The sentence denying present non-acquisition contains the defective
-*nāratyaprāptiḥ*. The translation reads it contextually as
-*nāsty aprāptiḥ*, “there is no non-acquisition.” This preserves
-the negative and the contrast with the following past/future
-case; the research translation instead gives a positive present-
-non-acquisition rule, which is not followed here.
+The temporal gloss at 66.04 is textually defective:
+*nāratyaprāptiḥ*. We provisionally read it as saying that the
+non-acquisition of a present dharma is itself present. This
+accounts for the agreeing feminine *pratyutpannā* and contrasts
+with the threefold past/future rule. A possible alternative
+emendation, *nāsty aprāptiḥ*, would read “there is no
+non-acquisition”; it is not adopted here. Neither reading has
+been independently collated.
 
 ## 4. Movement and Voices of the Commentary
 
 The first question distinguishes non-acquisition from acquisition
-in ethical classification, followed by temporal and realm rules.
+in ethical classification, followed by temporal and Domain rules.
 Ordinary-person status then supplies a doctrinal case for the
 exclusion of uncontaminated non-acquisition and becomes the focus
 of a longer dispute about the exact scope of non-obtaining.
@@ -122,25 +123,26 @@ Sautrāntika account. Unlike several earlier anonymously reported
 alternatives, this position has a named attribution and a locally
 expressed preference.
 
-## 5. Ethical, Temporal, and Realm Classifications
+## 5. Ethical, Temporal, and Domain Classifications
 
 Non-acquisition is always unobscured-indeterminate in the account
 being expounded. It does not take on the ethical character of
 the dharma not acquired. Non-acquisition of a wholesome dharma
 is therefore not classified as wholesome merely by that relation.
 
-The temporal rule states three-time non-acquisition for past and
-future dharmas, while denying present non-acquisition of a present
-dharma. It does not say that non-acquisition has no temporal
+On the provisional reading of the damaged gloss, the temporal rule
+states present non-acquisition for a present dharma, and three-time
+non-acquisition for past and future dharmas.
+It does not say that non-acquisition has no temporal
 classification. Nor should its denial be expanded into a claim
 that everyone possesses every presently existing dharma: the
 continuum restrictions established earlier remain operative.
 
-Realm classification is likewise distinguished from the status
+Domain classification is likewise distinguished from the status
 of the dharma concerned. Non-acquisition of dharmas in any of
-the three realms, or of uncontaminated dharmas, can belong to
-any of the three realms. No non-acquisition is itself uncontaminated.
-“Threefold” in this clause concerns realm affiliation, not the
+the three Domains, or of uncontaminated dharmas, can belong to
+any of the three Domains. No non-acquisition is itself uncontaminated.
+“Threefold” in this clause concerns Domain affiliation, not the
 three times of the preceding clause.
 
 ## 6. The Scope of Non-Obtaining Noble Dharmas
@@ -201,7 +203,7 @@ translation preserves the argument's negation and treats the
 reply as denying the threatened non-noble status. Its compressed
 wording is not expanded into a detailed chronology of path moments.
 
-The two completed material-acquisition clauses at the beginning
+The two completed Form-acquisition clauses at the beginning
 of the canonical VAK 2.39 anchor were translated in VAK 2.38.
 They remain in the full anchor here, while the continuous text
 starts with the new question. This preserves sequence without
@@ -230,23 +232,34 @@ the continuum's condition remain different explanatory accounts.
 Their distinction is part of the result of this unit.
 
 **Organon reading (philosophical reconstruction, not Bhāṣya doctrine):**
-The faculty's temporal governance is extended here as a Transcendental Time
-Determination of Śuddha Sattva: ordinary-person status is read through the non-arising of the
-relevant noble Ideas in this continuum, rather than their mere absence from
-one present cognition. Universal Cognition must preserve the scope of that
-history; this reading does not erase the source's distinction between a
-real-non-acquisition account and the Sautrāntika definition.
+The *Aprāpti* classification belongs to the Indriya dyad
+*Prāpti:Aprāpti*: it is indexed to a dharma, time, Domain, and continuum,
+not an untyped blank. The ordinary-person debate then tests the scope of
+that relation. Non-possession of lineage-specific noble Dharmas does not by
+itself establish absence of noble attainment as a whole; the Buddha example
+forces the argument to preserve which Dharmas and which lineage are in view.
+The locally preferred Sautrāntika definition—continuum in which noble
+Dharmas have not arisen—remains distinct from the account that reifies
+*Aprāpti* as a separate Dharma.
+
+The Dharma Chakra spans *saṃvṛti* and *paramārtha* as two determinations of
+the same reality. **Absolute Insight** names second-order apprehension of
+that full relation: it preserves first-order access without reproducing
+contamination while seeing what analysis discloses. It is not a third truth,
+does not equate *paramārtha* with one universal Absolute, and does not make
+the hub a single Dharma. See [VAK 6.04](../../VAK/06-marga/VAK_6.04.md) and
+the project's [Absolute Insight formulation](../../VAK/05-anusaya/VAK_5.29.md).
 
 ## 10. Review Status
 
 Provisional thirty-ninth study of the restarted Indriyanirdeśa
 Bhāṣya sequence. The research Bhāṣya, existing Organon kārikā
 anchor, preceding continuous study, and running Sanskrit at
-65.30–66.21 have been compared.
+65.30–66.20 have been compared.
 
-The ethical, temporal, and realm rules and the full ordinary-
-person-status debate are translated continuously. The negative
-temporal reading, lineage scope, and Sautrāntika attribution are
+The ethical, temporal, and Domain rules and the full ordinary-
+person-status debate are translated continuously. The present-only
+temporal reading and its textual crux, lineage scope, and Sautrāntika attribution are
 explicit. Original witnesses and existing studies are unchanged.
 VAK 2.40 begins at 66.21 with the relinquishment of non-acquisition
 and the subsequent regress objection.

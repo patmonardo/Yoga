@@ -12,6 +12,11 @@
 >
 > lakṣaṇāni ca niḥṣyandāḥ samāpatty-asamanvayāḥ // 2.48 //
 
+The commentary first completes the closing relation from VAK 2.47
+(82.06–08); VAK 2.48 itself is cited at 82.09–15. Its commentary
+closes at 82.18, and the question introducing VAK 2.49 follows at
+82.19–20.
+
 ## 3. Padaccheda
 
 ```text
@@ -99,30 +104,15 @@ exclusive application to the final members is supplied by the Bhāṣya.
 
 ### Bhāṣya-informed translation
 
-> Class-commonality shares the preceding classifications of the linguistic groups, but it can arise not only as a homogeneous outflow but also as a karmic maturation-result. Acquisition and each of the conditioned marks likewise have these two possible result-statuses. The two non-reflective attainments and non-acquisition, by contrast, arise only as homogeneous outflows of their relevant continua.
+> Class-commonality shares the preceding classifications of the linguistic groups, but it can arise not only as a homogeneous outflow but also as a karmic maturation-result. Acquisition and each of the conditioned marks likewise have these two possible result-statuses. The two attainments without mind and non-acquisition, by contrast, are homogeneous outflows only.
 
-## 6. Philosophical Translation
+## 6. Limited Organon Reading
 
-> A determination is not completely known merely by identifying what it is. Its mode of genesis must also be specified. Some structural determinations continue the character of an already operating series; others arise as the matured consequence of karma. Forms placed in one catalogue can therefore possess different causal histories.
-
-The verse closes the inventory by converting it into a provenance matrix:
-
-```text
-what determination is present?
-    +
-through what kind of result did it arise?
-    =
-determinate structural knowledge
-```
-
-**Organon rendering (philosophical reconstruction, not literal Bhāṣya
-doctrine):** The inventory becomes intelligible through provenance:
-homogeneous continuation, karmic maturation, or either mode of genesis
-determines how a particular Idea is present in a continuum. As
-Transcendental Time Determinations of Śuddha Sattva, these histories
-differentiate result-status without becoming a universal sequence. Cognition
-names the general determination of provenance; the resulting formations
-remain particular.
+Within the project's First Philosophy framing, this verse extends the
+classification of formations to their result-status. Locally, it
+distinguishes homogeneous outflow from maturation-result, specifies which
+items admit each classification, and leads to the question of causes and
+conditions. The six-cause account belongs to the next kārikā.
 
 ## 7. Technical Vocabulary
 
@@ -134,7 +124,7 @@ remain particular.
 | āpti / prāpti | acquisition / possession | positive relation by which a continuum possesses a dharma |
 | dvidhā | twofold | here: capable of being either `niḥṣyanda` or `vipāka` |
 | lakṣaṇa | conditioned mark | birth, duration, aging, or impermanence accompanying a conditioned dharma |
-| samāpatti | attainment | here the two non-reflective attainments previously analyzed |
+| samāpatti | attainment | here the two attainments without mind previously analyzed |
 | asamanvāgama / aprāpti | non-acquisition | absence of the possession-relation within a continuum |
 | sattvākhyā | associated with sentient beings | predication grounded in possession by a sentient continuum |
 | asattvākhyā | not associated with sentient beings | applicable to marks accompanying conditioned dharmas outside sentient continua |
@@ -142,10 +132,9 @@ remain particular.
 `Niḥṣyanda` and `vipāka` are not generic synonyms for “effect.” They answer
 different genetic questions: continuity in kind and karmic maturation.
 
-The Bhāṣya's traditional phrase “mindless attainments” is not adopted as the
-controlled rendering. In this study they remain non-reflective attainments;
-whether their non-reflection is suppression or fulfilled possession must be
-determined from the particular genesis, not from the label alone.
+The Bhāṣya calls them *acittasamāpatti*, “attainments without mind.” The
+translation preserves that wording without resolving the operation of either
+attainment here.
 
 ## 8. Logical Determination
 
@@ -156,7 +145,7 @@ The result matrix is:
 | class-commonality | yes | yes |
 | acquisition | yes | yes |
 | conditioned marks | yes | yes |
-| two non-reflective attainments | yes | no |
+| two attainments without mind | yes | no |
 | non-acquisition | yes | no |
 
 The two causal forms are distinct:
@@ -192,114 +181,41 @@ ConditionedMark(x)
 The final members are restricted:
 
 ```text
-NonReflectiveAttainment(x) OR NonAcquisition(x)
+AttainmentWithoutMind(x) OR NonAcquisition(x)
     → Niḥṣyanda(x)
     AND NOT Vipāka(x)
 ```
 
-The resulting explanatory protocol is:
-
-```text
-Classify(dharma)
-    → determine structural role
-    → determine result-type
-    → recover causal provenance
-```
-
 ## 9. Interpretive Note
 
-VAK 2.48 closes the so-called mind-dissociated formations by refusing to let
-the catalogue remain a heap. Every member must be re-entered into a genetic
-order. The same broad structural class contains determinations that continue
-homogeneously, determinations that mature from karma, and determinations able
-to arise through either route.
-
-This sharpens `prāpti`. Possession is not a free-floating binary field attached
-to a dharma. A particular possession has provenance:
-
-```text
-Possession(dharma, continuum)
-    + ResultType
-    + CausalHistory
-```
-
-That matters for the Path. If possession of Knowledge means possession of a
-Dharma together with its genetic route, the system must distinguish an
-attainment stabilized as an outflow of cultivation from a state merely given
-as karmic maturation. The kārikā does not itself state this project formula;
-it supplies the causal distinction that makes the formula technically
-accountable.
-
-The verse then produces the transition to `hetu` and `pratyaya`. VAK 2.46 had
-said that arising does not occur without causes and conditions. The present
-verse shows why the question can no longer be deferred: once structural
-determinations have different result-statuses, their different modes of
-generation must be explained.
-
-The Indriya chapter's trajectory can now be seen:
-
-```text
-faculty
-    → registered event
-    → configured mental operation
-    → possession and structural determination
-    → result-status
-    → cause and condition
-```
-
-In the Organon reconstruction, this supports the claim that lawfulness enters
-through differentiated faculties and their determinate registrations. An
-undifferentiated `citta` does not legislate Nature by itself. The indriyas
-condition what can be registered and how a cognitive event arises; `citta`
-belongs within that articulated causal system rather than standing outside it
-as an unexplained sovereign.
-
-We should remain exact about the boundary. VAK 2.48 explicitly supplies a
-result-classification and the Bhāṣya explicitly asks next for causes and
-conditions. “The senses give laws to Nature” is our Kant-clean architectural
-conclusion from the chapter's sequence, not the kārikā's own formulation.
-
-**Organon temporal note:** Result-status is not a clock-date. It identifies
-the mode of genesis through which this particular determination has become
-available; the verse opens the causal inquiry rather than supplying its
-entire account.
+The verse assigns two result-statuses to class-commonality, acquisitions,
+and conditioned marks, but restricts the two attainments without mind and
+non-acquisition to homogeneous outflows. The Bhāṣya then closes the
+dissociated-formations account and asks about causes and conditions. The
+answer begins with VAK 2.49; it is not supplied here.
 
 ## 10. OWL++ Seed
 
 ```ttl
 @prefix vak: <http://127.0.0.1:3000/vak#> .
-@prefix organon: <http://127.0.0.1:3000/organon#> .
 
-vak:ResultType a organon:Class .
+vak:ResultType a vak:Classification .
 vak:HomogeneousOutflow a vak:ResultType .
 vak:MaturationResult a vak:ResultType .
 
-vak:ClassCommonality a organon:StructuralDetermination ;
-    organon:allowsResultType vak:HomogeneousOutflow,
+vak:ClassCommonality vak:hasResultType vak:HomogeneousOutflow,
         vak:MaturationResult .
-
-vak:Acquisition a organon:PossessionRelation ;
-    organon:allowsResultType vak:HomogeneousOutflow,
+vak:Acquisition vak:hasResultType vak:HomogeneousOutflow,
         vak:MaturationResult .
-
-vak:ConditionedMark a organon:StructuralDetermination ;
-    organon:allowsResultType vak:HomogeneousOutflow,
+vak:ConditionedMark vak:hasResultType vak:HomogeneousOutflow,
         vak:MaturationResult .
-
-vak:NonReflectiveAttainment a organon:Attainment ;
-    organon:requiresResultType vak:HomogeneousOutflow ;
-    organon:excludesResultType vak:MaturationResult .
-
-vak:NonAcquisition a organon:PossessionRelation ;
-    organon:requiresResultType vak:HomogeneousOutflow ;
-    organon:excludesResultType vak:MaturationResult .
-
-organon:CausalProvenance a organon:Class .
-organon:hasResultType a organon:ObjectProperty .
-organon:hasCausalProvenance a organon:ObjectProperty .
-
-organon:DeterminateStructuralKnowledge a organon:KnowledgeProtocol ;
-    organon:requires organon:StructuralRole,
-        vak:ResultType,
-        organon:CausalProvenance .
+vak:AttainmentWithoutMind vak:hasResultType vak:HomogeneousOutflow .
+vak:NonAcquisition vak:hasResultType vak:HomogeneousOutflow .
 ```
+
+## 11. Review Status
+
+Provisional paired study of VAK 2.48. The verse and commentary are traced
+through 82.18; the source excerpt retains the 2.47 contextual overlap at
+82.06–08. The causes-and-conditions question at 82.19–20 is translated
+here, and VAK 2.49 begins with its six-cause verse at 82.21–22.

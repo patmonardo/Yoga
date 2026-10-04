@@ -12,6 +12,11 @@
 >
 > kāmarūpāśraye bhūte nirodhākhyādito nṛṣu // 2.44 //
 
+The first half is discussed in a continuation of the previous Bhāṣya:
+the Buddha question begins at 70.21 and the verse fragment at 70.22.
+The second half's commentary resumes at 71.16; its verse fragment
+follows at 71.17.
+
 ## 3. Padaccheda
 
 ```text
@@ -28,11 +33,11 @@ nṛṣu                → nṛṣu
 
 | Form | Morphology | Lexical force here |
 |---|---|---|
-| bodhi-labhyā | nominative feminine singular gerundive compound | obtained with / at awakening |
+| bodhi-labhyā | nominative feminine singular gerundive compound | obtained with awakening |
 | muneḥ | genitive masculine singular | by or for the Sage |
 | na prāk | adverbial negation | not earlier / not beforehand |
-| catuḥ-triṃśat-kṣaṇa-āptitaḥ | ablative compound | because awakening is acquired through thirty-four moments |
-| kāma-rūpa-āśraye | locative masculine singular compound | when the support belongs to the desire or form realm |
+| catuḥ-triṃśat-kṣaṇa-āptitaḥ | causal ablative compound | because awakening is attained in thirty-four moments |
+| kāma-rūpa-āśraye | locative masculine singular compound | with a support belonging to the Desire or Form Domain |
 | bhūte | locative masculine/neuter singular participle | being / having come to be |
 | nirodha-ākhyā | nominative feminine singular | the attainment called cessation |
 | āditaḥ | adverb | initially / at first production |
@@ -56,8 +61,7 @@ na prāk
     → not earlier
 
 catustriṃśat-kṣaṇa-āptitaḥ
-    → because awakening is acquired through
-      the thirty-four-moment sequence
+    → because awakening is attained in thirty-four moments
 ```
 
 The Bhāṣya explains the thirty-four moments as sixteen moments of direct
@@ -70,8 +74,8 @@ The second half states support and first-production rules:
 
 ```text
 kāma-rūpa-āśraye bhūte
-    → both attainments can occur when the support
-      belongs to the desire or form realm
+    → both attainments can occur with a support
+      belonging to the Desire or Form Domain
 
 nirodha-ākhyā āditaḥ nṛṣu
     → the attainment called cessation
@@ -82,34 +86,18 @@ nirodha-ākhyā āditaḥ nṛṣu
 
 ### Close syntactic construe
 
-> For the Sage, [the attainment of cessation] is obtained with awakening, not earlier, because of the acquisition [of awakening] in thirty-four moments. When the support belongs to the desire or form realm, [the two attainments can occur]; the attainment called cessation is initially produced among human beings.
+> For the Sage, [the attainment of cessation] is obtained with awakening, not earlier, because awakening is attained in thirty-four moments. With a support belonging to the Desire or Form Domain, [either attainment can occur]; the attainment called cessation is first produced among humans.
 
 ### Bhāṣya-informed translation
 
-> The Buddha acquires the attainment of cessation together with awakening rather than through an earlier entry into it; according to the Kāśmīra account, the uninterrupted thirty-four-moment process of awakening leaves no interval for such an entry. Both cessative attainments can occur with a desire-realm or form-realm embodied support, but the attainment of cessation must first be produced in a human existence. Once previously acquired, it may later be entered again in the form realm.
+> The stanza states that the Sage acquires cessation with awakening, not beforehand. The Kāśmīra teachers deny prior production because the thirty-four moments of awakening leave no interval for a dissimilar consciousness; the western teachers say the bodhisattva produced it while still a trainee. Either attainment can have support in the Desire or Form Domain. Cessation is first produced among humans and can later be entered in the Form Domain by those who previously lost it.
 
-## 6. Philosophical Translation
+## 6. Limited Organon Reading
 
-> A high attainment is not available wherever its abstract state-description can be imagined. Its realization is guarded by an exact conjunction of genesis, path-sequence, embodied support, prior acquisition, and locus of first production. Deliberate cultivation prepares and stabilizes the capacity; awakening can actualize it immediately in the Sage.
-
-The relation between effort and awakening is therefore neither competition
-nor substitution:
-
-```text
-ordinary noble practitioner:
-    deliberate preparation → acquisition → mastery
-
-Sage:
-    complete Path-sequence → awakening → immediate acquisition
-```
-
-**Organon rendering (philosophical reconstruction, not literal Bhāṣya
-doctrine):** Preparation, first acquisition, mastery, and awakened
-actualization are different temporal relations, not compulsory stations on
-one life-story. Practice can prepare and stabilize an Idea; in the Sage's
-case the complete Path and awakening make immediate acquisition possible.
-These are Transcendental Time Determinations of Śuddha Sattva: readiness,
-attainment, and available operation, not durations measured by a clock.
+The kārikā distinguishes when the Sage acquires cessation, where either
+attainment can have support, and where cessation is first produced. Keep
+these as separate constraints. The Bhāṣya's later re-entry claim additionally
+requires prior acquisition and loss; it does not redefine first production.
 
 ## 7. Technical Vocabulary
 
@@ -121,7 +109,7 @@ attainment, and available operation, not durations measured by a clock.
 | darśana-mārga | Path of seeing | sixteen moments of direct realization of the truths |
 | ānantarya-mārga | uninterrupted path | nine moments abandoning the nine grades of summit-level affliction |
 | vimukti-mārga | path of liberation | nine moments immediately following the uninterrupted paths |
-| kāma-rūpāśraya | desire- or form-realm support | embodied faculty-support capable of sustaining the two attainments |
+| kāma-rūpāśraya | Desire or Form Domain support | embodied faculty-support capable of sustaining the two attainments |
 | āditaḥ | initially | first production rather than every later re-entry |
 | nṛ | human being | sole locus of first production of the attainment of cessation |
 | vyutkrānta-samāpatti | attainment entered in transposed order | Bhāṣya: later mastery permits intermediate attainments to be skipped |
@@ -141,7 +129,7 @@ The Buddha-specific sequence is guarded:
 ```text
 For Buddha B:
     Prapti(B, NirodhaSamapatti)
-        occursAt Awakening(B)
+        occursWith Awakening(B)
 
 AwakeningSequence(B) =
     16 TruthRealizationMoments
@@ -161,8 +149,9 @@ Uninterrupted(AwakeningSequence)
 The western-teacher alternative remains attributed:
 
 ```text
-PriorProductionAsTrainee(Bodhisattva)
-    = permitted
+WesternTeachersAssert(
+    PriorProductionAsTrainee(Bodhisattva, NirodhaSamapatti)
+)
 ```
 
 Support and first-production constraints are:
@@ -170,9 +159,9 @@ Support and first-production constraints are:
 ```text
 Produces(S, AsamjniSamapatti)
 OR Produces(S, NirodhaSamapatti)
-    → Realm(Support(S)) ∈ {
-          DesireRealm,
-          FormRealm
+    → Domain(Support(S)) ∈ {
+          DesireDomain,
+          FormDomain
       }
 
 FirstProduces(S, NirodhaSamapatti)
@@ -183,7 +172,7 @@ Later re-entry is history-sensitive:
 
 ```text
 PreviouslyAcquired(S, NirodhaSamapatti)
-∧ RebornIn(S, FormRealm)
+∧ RebornIn(S, FormDomain)
     → MayReenter(S, NirodhaSamapatti)
 ```
 
@@ -203,78 +192,18 @@ NirodhaSamapatti(S, I)
 
 No additional cessation-substance is required on this account.
 
-## 9. Interpretive Note
+## 9. Interpretive Scope
 
-VAK 2.44 completes the acquisition side of the cessation-attainment. The
-state is not reached by asking only whether citta and caittas are absent. It
-requires a particular support, ordered Path-history, human first production,
-and appropriate acquisition-mode.
-
-This supplies the self-effort determination we need from the Kośa:
-
-```text
-prayoga
-    produces the prepared and repeatable capacity
-
-ordered first acquisition
-    establishes the Path in the continuum
-
-mastery
-    permits later flexible invocation
-```
-
-Yet the Sage's case prevents self-effort from becoming the Absolute
-Principle. The Buddha acquires the attainment with awakening. In the project
-reconstruction, this gives a disciplined relation between Grace and effort:
-
-```text
-Grace
-    gives or actualizes the Principle
-
-Kośa effort
-    prepares, differentiates, stabilizes,
-    and makes its operations accountable
-```
-
-This is an Organon synthesis, not the kārikā's theological vocabulary. The
-textual distinction is narrower: ordinary noble acquisition through practice
-versus the Sage's acquisition with awakening.
-
-The Bhāṣya's return-of-citta debate adds an important account of continuity.
-The possibilities include conditioning by a past citta, reciprocal seeds in
-citta and embodied support, or the disputed survival of subtle citta within
-the attainment. Vasubandhu's preferred explanatory strategy again avoids a
-new substance: the entry-citta transforms the support, and the subsequent
-non-operation is designated as the attainment.
-
-This gives the Kośa Technē a functional model:
-
-```text
-prepareTransition(agent)
-    requires pathHistory + eligibleSupport + deliberatePractice
-
-enterCessation(agent)
-    transforms support
-    suspends operation
-
-exitCessation(agent)
-    restores operation from conditioned capacity
-```
-
-The model remains conditioned Practical Reason. Its value is precisely the
-effort-side discipline: Grace does not exempt the Agent from typed supports,
-genetic provenance, cultivated mastery, or the labor of making Knowledge
-function.
-
-**Organon temporal note:** The attainment's genesis includes eligible
-support, path-history, and mode of acquisition. The Sage's case prevents
-preparation from being mistaken for a universal chronological prerequisite.
+The verse distinguishes the Sage's acquisition, the support of either
+attainment, and the human locus of first production. The Bhāṣya further
+distinguishes disputed prior production from later re-entry after loss.
+These remain separate claims; neither the kārikā nor the commentary licenses
+collapsing them into one acquisition rule.
 
 ## 10. OWL++ Seed
 
 ```ttl
 @prefix vak: <http://127.0.0.1:3000/vak#> .
-@prefix organon: <http://127.0.0.1:3000/organon#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
 vak:VAK_2_44
@@ -290,8 +219,8 @@ vak:BuddhaNirodhaAcquisition
     vak:hasAttributedSequence vak:ThirtyFourMomentSequence .
 
 vak:NirodhaAcquisitionConstraints
-    vak:requiresSupport vak:DesireRealmSupport,
-        vak:FormRealmSupport ;
+    vak:requiresSupport vak:DesireDomainSupport,
+        vak:FormDomainSupport ;
     vak:requiresFirstProductionLocus vak:HumanExistence ;
     vak:permitsLaterReentryWith vak:PriorAcquisition .
 
@@ -302,11 +231,12 @@ vak:VasubandhuDesignationModel
         vak:CittaNonOperation ;
     vak:denies vak:SeparateCessationSubstance .
 
-organon:GraceEffortSynthesis
-    a organon:InterpretiveReconstruction ;
-    organon:distinguishes organon:PrincipleActualization,
-        organon:PreparedOperationalCapacity ;
-    organon:requires organon:GeneticProvenance,
-        organon:EligibleSupport,
-        organon:CultivatedMastery .
 ```
+
+## 11. Review Status
+
+Provisional paired study against the continuous Sanskrit at 70.21–73.13.
+The first-half commentary overlaps the VAK 2.43 study; the second half
+resumes at 71.16, and the Bhāṣya closes at 73.13. The life-faculty topic
+begins at 73.14; VAK 2.45's life clause is recited at 73.15 and 73.18,
+and its four-mark clause at 75.19.

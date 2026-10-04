@@ -5,13 +5,13 @@
 > kāmādyāptāmalānāṃ ca mārgasyāprāptir iṣyate /
 > pṛthagjanatvaṃ tatprāptibhūsaṃcārād vihīyate // 2.40 //
 
-> [Non-acquisition is threefold] also for desire-realm and other
-> realm-affiliated dharmas and the stainless. Non-acquisition
+> [Non-acquisition is threefold] also for Desire Domain and other
+> Domain-affiliated dharmas and the uncontaminated. Non-acquisition
 > of the path is held to be ordinary-person status. It is
 > relinquished through acquisition of that dharma or a change
 > of level.
 
-The realm classification and ordinary-person-status debate were
+The Domain classification and ordinary-person-status debate were
 translated in VAK 2.39. This unit begins with the question of
 relinquishment and includes the full ensuing regress discussion.
 
@@ -85,11 +85,10 @@ What a festival of acquisitions! Only because they are non-resistant
 do they find room in space. Otherwise, even in space there would
 be no room for a second living being.
 
-The opening prose fragment is defective: it prints *prāptir*
-where the question and predicate concern non-acquisition. The
-translation renders the connection contextually without claiming
-a restored Sanskrit sentence. The repeated *kliṣṭasya* in the
-second-moment example is treated as a duplication.
+The opening prose is compressed: it refers to the dharma whose
+acquisition removes its non-acquisition; no emendation is assumed.
+The repeated *kliṣṭasya* in the second-moment example is treated
+as a duplication.
 
 ## 4. Movement and Voices of the Commentary
 
@@ -118,7 +117,7 @@ The level-change clause must not imply that moving to another
 level automatically makes an ordinary person noble. It concerns
 relinquishing the relevant level-specific non-acquisition. Acquisition
 of the noble path and a change of level are not equivalent
-achievements. The earlier realm classification supplies the
+achievements. The earlier Domain classification supplies the
 context for keeping these two occasions distinct; the local
 paragraph does not give a full replacement inventory after a
 level change.
@@ -176,8 +175,8 @@ of the argument should not be collapsed.
 The excerpt retains the source's *bhusaṃcārād*, defective spelling
 of regress and increase, and the duplicated afflicted qualifier.
 The English follows the coherent local argument. No independent
-collation is claimed, and the defective opening fragment remains
-available for review.
+collation is claimed; the compressed opening is read contextually
+without emendation.
 
 The final comment says that the acquisitions are non-resistant,
 *apratighātin*. The conditional claim about there being no room
@@ -208,23 +207,21 @@ and the critical calculation. A reconstruction should preserve
 all three rather than replace them with a general maxim against
 representing relations as entities.
 
-**Organon reading (philosophical reconstruction, not Bhāṣya doctrine):**
-The path-faculty's governing power is a Transcendental Time Determination of
-Śuddha Sattva: relinquishment of ordinary status is a real change in the continuum's
-temporal determination, not merely a new label or the next point on a
-universal life-sequence. The acquisition-regress exposes the cost of
-reifying that status at every stage; the source's reciprocal-possession
-defense and criticism remain attributed to their speakers.
+**Organon note (limited application):** This passage tests the
+*Prāpti:Aprāpti* account by setting out its relinquishment rule, the
+mutual-possession defense, and Vasubandhu's proliferation critique. Keep
+those steps and attributions distinct; do not generalize them beyond this
+argument.
 
 ## 10. Review Status
 
 Provisional fortieth study of the restarted Indriyanirdeśa Bhāṣya
 sequence. The research Bhāṣya, existing Organon kārikā anchor,
-preceding continuous study, and running Sanskrit at 66.21–67.13
+preceding continuous study, and running Sanskrit at 66.21–67.12
 have been compared.
 
 The relinquishment account, regress objection and reply, complete
 proliferation argument, and closing irony are translated. The
-defective opening and the meaning of subsidiary acquisition are
-explicit. Original witnesses and existing studies are unchanged.
+compressed opening and the meaning of subsidiary acquisition are
+noted without emendation. Original witnesses and existing studies are unchanged.
 VAK 2.41 begins at 67.13 with the question about commonality.

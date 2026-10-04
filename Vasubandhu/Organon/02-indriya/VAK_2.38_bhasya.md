@@ -8,11 +8,11 @@
 > For those neither trainee nor beyond training, acquisition is
 > threefold; for the non-abandonable, twofold. Acquisition of the
 > indeterminate is co-arisen, except for the superknowledges and
-> creation-mind.
+> magical-creation mind.
 
 The first half and its commentary were translated in VAK 2.37.
 This unit begins with the temporal exception and includes the
-opening half of VAK 2.39 that completes its material cases.
+opening half of VAK 2.39 that completes its Form cases.
 
 ## 2. Continuous Sanskrit
 
@@ -53,23 +53,23 @@ afterward, because of their weakness. Hence, for past dharmas
 of this kind acquisition is only past, and so on, through present
 acquisition for present dharmas. Does this apply to every
 unobscured-indeterminate dharma? Not to every one: “Except for
-the superknowledges and creation-mind.” The two indeterminate
-superknowledges and the mind of creation are excepted. Since
+the superknowledges and the magical-creation mind.” The two indeterminate
+superknowledges and the magical-creation mind are excepted. Since
 they are powerful, arising through the accomplishment of a special
 application, their acquisition occurs before, afterward, and
 together with them. This is also accepted for certain craft-related
 consciousness and exceptionally practiced bodily-conduct consciousness.
 
 Is acquisition only co-arisen solely in the unobscured-indeterminate
-case? The verse says, “And for obscured material form.” Acquisition
-of obscured-indeterminate manifest material form is also only
+case? The following kārikā says, “And for obscured Form.” Acquisition
+of obscured-indeterminate manifest Form is also only
 co-arisen: its weakness is established by its failure to produce
-nonmanifest material form even when intense. Just as acquisition
+nonmanifest Form even when intense. Just as acquisition
 of indeterminate dharmas has this differentiation, is there also
 a differentiation for wholesome and unwholesome dharmas? There
-is, he says: “In the desire realm, material form has no prior
-acquisition.” Prior acquisition of desire-realm manifest and
-nonmanifest material form is entirely absent. Co-arisen and
+is, he says: “In the Desire Domain, Form has no prior
+acquisition.” Prior acquisition of Desire-Domain manifest and
+nonmanifest Form is entirely absent. Co-arisen and
 subsequent acquisition do occur.
 
 The line about craft and bodily conduct has a broken word across
@@ -84,9 +84,9 @@ supplying an unnamed school as its subject.
 
 The commentary explicitly announces an exception to the general
 temporal rule. It then restricts that exception, extends co-arisen-
-only acquisition to an obscured material case, and gives another
-restriction for wholesome and unwholesome desire-realm material
-form. The questions successively test the scope of each rule.
+only acquisition to an obscured-Form case, and gives another
+restriction for wholesome and unwholesome Desire-Domain Form.
+The questions successively test the scope of each rule.
 
 The passage continues the classificatory account resumed after
 the acquisition dispute. It does not reopen or resolve that
@@ -103,7 +103,7 @@ match the acquired dharma's time in the co-arisen-only case.
 
 The prose narrows the verse's indeterminate category to
 unobscured-indeterminate dharmas. It immediately excludes the
-two indeterminate superknowledges and creation-mind from that
+two indeterminate superknowledges and magical-creation mind from that
 restriction. The unit does not name the two superknowledges
 individually; their designation is retained without adding an
 external list to the translation.
@@ -129,24 +129,24 @@ would require further evidence. The doctrinal acquisition described
 here also should not silently become an empirical claim about
 modern skill retention.
 
-## 7. Material Form and Prior Acquisition
+## 7. Form and Prior Acquisition
 
-Two material cases receive different rules:
+Two Form cases receive different rules:
 
-| Material case | Temporal acquisition stated |
+| Form case | Temporal acquisition stated |
 |---|---|
-| Obscured-indeterminate manifest material form | Co-arisen only |
-| Wholesome or unwholesome desire-realm manifest and nonmanifest material form, in the question's scope | Co-arisen and subsequent; never prior |
+| Obscured-indeterminate manifest Form | Co-arisen only |
+| Wholesome or unwholesome Desire-Domain manifest and nonmanifest Form, in the question's scope | Co-arisen and subsequent; never prior |
 
 The first explanation appeals to failure to produce nonmanifest
-material form even at high intensity. That is the particular
-criterion of weakness supplied here; it is not a claim that
-the material action has no effect whatsoever.
+Form even at high intensity. That is the particular criterion of
+weakness supplied here; it is not a claim that the manifest action
+has no effects.
 
 The second case excludes prior acquisition but permits subsequent
 acquisition. This distinction prevents “no prior acquisition”
 from being paraphrased as “only co-arisen.” The broader wording
-about desire-realm material form inherits the question's wholesome
+about Desire-Domain Form inherits the question's wholesome
 and unwholesome scope when both permitted temporal modes are
 stated. It must not undo the immediately preceding co-arisen-only
 rule for obscured-indeterminate manifest form.
@@ -174,7 +174,7 @@ is reserved for VAK 2.39.
 The account refines a general rule by intersecting ethical class,
 type of dharma, and temporal relation. A class label alone is
 insufficient: unobscured-indeterminate dharmas include exceptions,
-and material form requires further distinctions by ethical character
+and Form requires further distinctions by ethical character
 and manifestation.
 
 For Organon interpretation, each exception must retain both its
@@ -190,24 +190,41 @@ and durable capacity. Those determinations remain distinct in
 the commentary's own examples.
 
 **Organon reading (philosophical reconstruction, not Bhāṣya doctrine):**
-The faculty's governing efficacy is extended as a Transcendental Time
-Determination of Śuddha Sattva in the difference between readiness and
-actualization: the preceding, co-arisen, and subsequent modes mark different temporal
-relations between an Idea and the continuum's cultivated capacity. They are
-not interchangeable clock positions: in the specified cases, preparation
-can sustain availability across manifestation, while weaker occurrences
-cannot. This preserves the exceptions' restricted scope.
+The passage brings the two project dyads into a precise local relation.
+*Prāpti:Aprāpti* determines the temporal and status reach of acquisition;
+*Vijñapti:Avijñapti* appears in the paired classifications of manifest and
+nonmanifest Form. In LogoGenesis (learning), these are coupled Dyads, not
+one-way causes or interchangeable terms. *Avijñapti* remains one Dharma
+classified in both the Form Base and Dharma Base, not a duplicated entity.
+
+In the Dharma Chakra, causal strength and cultivation determine a particular
+turning relation; they do not alter the invariant Principle at the hub.
+Prior, co-arisen, and subsequent acquisition are distinct rim-determinations
+whose scope is restricted by the Bhāṣya's examples. The cultivational cases
+are not an enumeration or one-to-one assignment of Samyama-bhūmis.
+
+In the wider Organon reading, the Dharma Chakra spans *saṃvṛti* and
+*paramārtha* as two determinations of the same reality, not as separate
+worlds. **Absolute Insight** names the second-order apprehension of the full
+wheel: it preserves first-order access to the conventional configuration
+without reproducing its contamination, while seeing what survives analysis.
+It does not treat either determination as the whole by itself. This is a
+project-level synthesis, not a claim in the present
+Bhāṣya, and it does not make *paramārtha* a third substance or a universal
+Absolute. See [VAK 6.04](../../VAK/06-marga/VAK_6.04.md) and the project's
+[Absolute Insight formulation](../../VAK/05-anusaya/VAK_5.29.md).
 
 ## 10. Review Status
 
 Provisional thirty-eighth study of the restarted Indriyanirdeśa
 Bhāṣya sequence. The research Bhāṣya, existing Organon kārikā
 anchor, preceding continuous study, and running Sanskrit at
-65.12–65.30 have been compared.
+65.12–65.29 have been compared.
 
-The general exception, superknowledge and creation-mind exceptions,
-craft/conduct extension, and both material restrictions are
+The general exception, exceptions for superknowledge and the
+magical-creation mind, craft/conduct extension, and both Form
+restrictions are
 translated continuously. The cross-verse boundary and contextual
 repairs are explicit. Original witnesses and existing studies
-are unchanged. VAK 2.39 begins at 65.30 with the question about
-non-acquisition.
+are unchanged. The question about non-acquisition at 65.30 begins
+the subsequent Bhāṣya unit.

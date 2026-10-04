@@ -68,8 +68,8 @@ What are the two attainments previously mentioned? The non-percipient
 attainment and the attainment of cessation. What is the non-percipient
 attainment? Just as the non-percipient condition was described
 as “cessation of consciousness and mental factors,” “so too is
-the non-percipient attainment.” It is the attainment of the
-non-percipient, or a non-percipient attainment. It too is cessation
+the non-percipient attainment.” The name is explained either as “attainment of the non-percipient
+beings” or as “attainment of non-perception.” It too is cessation
 of consciousness and mental factors. This much is carried forward
 by “likewise.” But this attainment is “in the final dhyāna.”
 The final dhyāna is the fourth; the attainment belongs to that
@@ -82,7 +82,7 @@ indeterminate. This attainment, however, is “wholesome.” It is
 exclusively wholesome, and its maturation among non-percipient
 beings comprises five aggregates. Being wholesome, it is
 “exclusively experienced in the next rebirth”: not in the present
-life or a subsequent later life, nor with unfixed timing. Even
+life and not with indeterminate timing. Even
 someone who has produced it and then falls away will, it is
 said, necessarily produce it again and be born among non-percipient
 beings. For this reason one who has obtained it does not enter
@@ -102,11 +102,11 @@ Once it has been obtained, however, from the second moment onward
 one also possesses its past instance until one relinquishes it.
 Because it is without consciousness, no future instance is cultivated.
 
-The source's *na dṛṣṭadharmaparyāyavedanīyā* is construed as
-excluding both present-life and later-life fruition, in contrast
-to the explicitly exclusive next-rebirth category. The translation
-retains the reportive *kila* in the claim about regaining a lost
-attainment and its necessary result.
+The source's *na dṛṣṭadharmaparyāyavedanīyā nāpi aniyatā* is
+rendered as excluding present-life and indeterminate fruition;
+the preceding clause specifies the next-rebirth result. The
+translation retains the reportive *kila* in the claim about
+regaining a lost attainment and its necessary result.
 
 ## 4. Movement and Voices of the Commentary
 
@@ -127,14 +127,14 @@ claim remains part of the exposition rather than being omitted.
 The non-percipient attainment is wholesome; the non-percipient
 condition described in VAK 2.41 is indeterminate maturation.
 “Likewise” does not transfer every determination of the result
-to its cause. The author explicitly limits what it carries
+to its cause. The Bhāṣya explicitly limits what it carries
 forward to cessation of consciousness and mental factors.
 
 The five-aggregate maturation statement must be retained alongside
 that cessation. It concerns the resultant existence, whose birth
-and death moments were expressly described as percipient in
-VAK 2.41. It does not require five manifest aggregates throughout
-every moment of the intervening suspension.
+and death moments were described as percipient in VAK 2.41. The
+passage does not further explain the moment-by-moment status of
+each aggregate throughout the intervening interval.
 
 Wholesomeness alone does not imply the next-rebirth timing for
 every wholesome dharma. Here the prose classifies this particular
@@ -216,20 +216,18 @@ justify a broader claim that every suspension of mental activity
 has the same function or result. The second attainment remains
 to be examined on its own terms in the next unit.
 
-**Organon reading (philosophical reconstruction, not Bhāṣya doctrine):**
-The faculty's governing efficacy is a Transcendental Time Determination of
-Śuddha Sattva: the acquisition's past, present, and future relations distinguish having
-attained, presently attaining, and cultivating what is not yet attained.
-Śuddha Sattva's temporal determination therefore includes path-history and
-availability, not only the present cessation. This does not equate the
-conditioned attainment with liberation.
+**Organon note (limited application):** Within the existing
+*Prāpti:Aprāpti* vocabulary, keep present acquisition distinct from
+subsequent possession of a past instance and from cultivation of a future
+instance. This records the passage's temporal distinctions without
+extending them into a general theory of attainment.
 
 ## 10. Review Status
 
 Provisional forty-second study of the restarted Indriyanirdeśa
 Bhāṣya sequence. The research Bhāṣya, existing Organon kārikā
 anchor, preceding continuous study, and running Sanskrit at
-68.28–69.24 have been compared.
+68.28–69.23 have been compared.
 
 The complete non-percipient-attainment account is translated,
 including the motive, maturation timing, reportive qualification,

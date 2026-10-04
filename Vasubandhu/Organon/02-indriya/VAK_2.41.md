@@ -90,21 +90,19 @@ uncontested conclusion of the kārikā.
 
 ## 6. Philosophical Translation
 
-> The verse introduces two structural determinations that are not present mental acts. `Sabhāgatā` concerns how numerically distinct beings count as members of one class. `Āsaṃjñika` concerns how a continuum can persist through an extended interval in which consciousness and mental factors do not arise. The first raises the problem of universals; the second raises the problem of suspended operation without destruction of the continuum.
+> The verse defines commonality as sameness among beings and identifies the
+> non-reflective condition as cessation of consciousness and mental factors.
+> The Bhāṣya presents commonality as a real entity according to the
+> Vaibhāṣikas, then records objections and their reply. It describes the
+> non-reflective condition as a maturation-result of the non-reflective
+> attainment among certain Bṛhatphala gods.
 
-The Bhāṣya presents both as real dissociated formations according to the
-Vaibhāṣikas. Vasubandhu presses the first claim: common classification may
-be possible through determinate resemblance and designation without adding
-a separately existing universal substance.
+The two formations receive distinct explanations in the Bhāṣya; the verse
+does not equate the classification dispute with the account of cessation.
 
-**Organon rendering (philosophical reconstruction, not literal Bhāṣya
-doctrine):** `Sabhāgatā` poses the temporal problem of how distinct members
-are recognized through one class-determination; Cognition is universal here,
-while each member and its classifying Idea remain particular. The
-non-percipient attainment poses another: a conditioned interval sustains
-continuity without present mental operation until its force is exhausted.
-These are distinct Transcendental Time Determinations of Śuddha Sattva, not
-one clock-measured pause or a universal developmental stage.
+**Organon reading (limited):** Record the commonality dispute and the
+conditioned maturation-result separately. This note does not resolve the
+dispute or extend either account beyond the passage.
 
 ## 7. Technical Vocabulary
 
@@ -114,159 +112,49 @@ one clock-measured pause or a universal developmental stage.
 | sattva-sāmya | sameness among sentient beings | concise kārikā definition of `sabhāgatā` |
 | nikāya-sabhāga | common membership in a group | Bhāṣya expression for belonging to one class |
 | sattva-sabhāgatā | commonality of beings | undivided commonality of beings simply as beings |
-| dharma-sabhāgatā | determinate commonality | divided commonality according to realm, ground, destiny, birth-mode, species, sex, discipline, and path-status |
+| dharma-sabhāgatā | determinate commonality | divided commonality according to Domain, ground, destiny, birth-mode, species, sex, discipline, and path-status |
 | āsaṃjñika | non-reflective condition | karmically matured condition associated with interruption of citta-caitta arising |
 | asaṃjñin | non-reflective being | being undergoing that condition at the Bṛhatphala level |
 | citta-caitta-nirodha | cessation of consciousness and mental factors | Bhāṣya: prolonged prevention of their arising, compared with obstructing a river's flow |
 | vipāka | maturation-result | karmic result of the prior non-reflective attainment |
 | asaṃjñi-samāpatti | non-reflective attainment | causal attainment whose maturation is the non-reflective existence |
-| Bṛhatphala | Great Fruit | form-realm divine level containing a distinct region of non-reflective beings |
+| Bṛhatphala | Bṛhatphala gods | a subset inhabits a distinct region of non-reflective beings |
 
-The project rendering `non-reflective` protects the distinction between
-reflective recognition and ideational content in general. The local
-Abhidharma claim nevertheless goes further during the matured interval:
-consciousness and associated mental factors do not arise. These two levels
-must be stated together rather than collapsed.
+“Non-reflective” is the project's established rendering; the Bhāṣya
+specifies cessation of consciousness and mental factors during the interval.
 
 ## 8. Logical Determination
 
-The Vaibhāṣika universals model is:
+### Sabhāgatā
 
-```text
-For individuals x and y:
-    SameClass(x, y)
-        because RealSabhagataEntity(C)
-        inheres in x and y
-```
+- **Vaibhāṣika claim:** real commonality accounts for common cognition and
+  designation among individually distinct beings.
+- **Criticism:** the separate entity's work and its duplication of
+  ordinary-person status are questioned; the argument also asks why
+  commonality should exclude non-sentient kinds and how distinct
+  commonalities are themselves grouped.
+- **Reply in the Bhāṣya:** the sūtra uses the term, but does not thereby state
+  that it is a separate entity. The Bhāṣya notes that the alternative account
+  is not further explained.
 
-It distinguishes:
+### Āsaṃjñika
 
-```text
-UndividedSabhagata
-    = commonality of all sentient beings
+The Bhāṣya identifies it as a maturation-result of the non-reflective
+attainment among some Bṛhatphala gods. Consciousness and mental factors are
+prevented from arising during the long interval, with ideation at rebirth
+and death; the beings then fall to rebirth in the Desire Domain.
 
-DividedSabhagata(x, dimensions)
-    = commonality indexed by {
-          realm,
-          ground,
-          destiny,
-          birthMode,
-          species,
-          sex,
-          discipline,
-          pathStatus
-      }
-```
+## 9. Limited Organon Note
 
-Vasubandhu's objections challenge the necessity and domain of the entity:
-
-```text
-CommonDesignation(x, y)
-    ⇏ CognizedSeparateUniversalEntity(C)
-
-If resemblance requires Sabhagata among sentient beings,
-then resemblance among nonsentient kinds demands explanation too.
-
-If many sabhagatas are grouped as sabhagata,
-then the model risks a higher-order commonality regress.
-```
-
-A restrained non-reified reconstruction is therefore:
-
-```text
-SameClass(x, y, criteria)
-    := Match(Determinations(x),
-             Determinations(y),
-             criteria)
-```
-
-The non-reflective state has a different form:
-
-```text
-AsamjnikaState(S, interval)
-    → ForEvery t within interval:
-          NOT Arises(Citta, S, t)
-          AND NOT Arises(Caitta, S, t)
-
-Cause(AsamjnikaState)
-    = PriorNonReflectiveAttainment
-
-ResultType(AsamjnikaState)
-    = Vipaka
-
-Location(AsamjnikaState)
-    = DistinctRegionOfBrhatphala
-```
-
-The boundary events remain distinct:
-
-```text
-rebirthEntry
-    → conscious activity occurs
-
-long matured interval
-    → citta-caitta arising is prevented
-
-deathExit
-    → conscious activity arises again
-```
-
-## 9. Interpretive Note
-
-VAK 2.41 turns from possession-status to two further problems that a purely
-event-local model cannot solve: common classification and suspended operation.
-
-`Sabhāgatā` is immediately relevant to the Organon because it asks whether a
-class requires a universal object in addition to its members and recognition
-rule. The Vaibhāṣika answer is realist: a commonality-entity grounds unified
-cognition and designation. Vasubandhu's objections anticipate the costs:
-duplication of ordinary-person status, failure to explain why nonsentient
-kinds lack equivalent commonality, and a possible regress of commonalities.
-
-For the Kośa Technē, class-membership should therefore begin as an accountable
-relation:
-
-```text
-classify(entity, class)
-    from matched determinations
-       + declared recognition criteria
-```
-
-This preserves real systematic classification without compiling every class
-as an additional metaphysical substance.
-
-`Āsaṃjñika` solves a different continuity problem. A continuum passes through
-a long interval without arising consciousness or mental factors, yet that
-interval has an entry condition, causal basis, duration, location, and exit.
-The state is neither a current mental factor nor an unconditioned cessation.
-It is a karmically matured structural condition.
-
-The non-reflective state must not be confused with Yoga's positive
-`svarūpe 'vasthānam`. In this Kośa passage it is a produced result whose causal
-force is eventually exhausted; consciousness returns, the being dies, and a
-further rebirth follows. It is therefore suspension within conditioned
-continuity, not transcendental realization.
-
-This is precisely why the controlled term matters:
-
-```text
-non-reflective condition
-    names the classified state
-
-citta-caitta cessation
-    states its strong local Abhidharma mechanism
-
-resolution status
-    remains confined to the stated cessation mechanism
-```
-
-**Organon temporal note:** Class-membership spans distinct instances through
-a common determination; the non-percipient state instead marks a bounded
-condition of suspended operation with an entry and causal limit. Neither
-requires a separate universal object or an unconditioned timeless state in
-this reconstruction.
+For this pass, keep the two formations distinct: *sabhāgatā* is the subject
+of a dispute over common classification, while *āsaṃjñika* is described as a
+conditioned maturation-result. The Organon reading does not resolve the
+commonality debate or extend either account beyond the Bhāṣya.
 
 ## 10. OWL++ Seed
+
+This provisional indexing sketch records the reported positions; it is not
+a resolution of the Bhāṣya's dispute.
 
 ```ttl
 @prefix vak: <http://127.0.0.1:3000/vak#> .
@@ -306,5 +194,10 @@ vak:Asamjnika
         vak:Caitta ;
     vak:hasCause vak:AsamjniSamapatti ;
     vak:hasResultType vak:Vipaka ;
-    vak:hasLocation vak:Brhatphala .
+    vak:hasLocation vak:ParticularRegionOfBrhatphala .
 ```
+
+## 11. Review Status
+
+Provisional paired study. The kārikā and Bhāṣya are reviewed against the
+printed passage at 67.13–68.27. The next inquiry begins at 68.28.

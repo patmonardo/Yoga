@@ -34,8 +34,8 @@ a transcription defect. No independent collation is claimed.
 commonality, the non-percipient condition, the two attainments,
 life, the marks, and the groups of names and so forth.” These
 formations are called dissociated from consciousness because
-they are not associated with consciousness and are not material
-by nature.
+they are not associated with consciousness and do not have the
+nature of Form.
 
 ## 4. Movement of the Commentary
 
@@ -65,13 +65,13 @@ from associated consciousness and mental factors. It does not
 mean that they have no causal relations or that they cannot
 occur together with consciousness in any sense.
 
-Their nonmaterial nature is also stated. Neither qualification
-makes them unconditioned: they remain *saṃskāras*, formations,
-within the conditioned classification.
+Their distinction from Form is also stated. Neither qualification
+makes them unconditioned: they remain *saṃskāras*, conditioned
+formations.
 
 ## 7. The Status of the Introduction
 
-The passage identifies a class and gives its contrast with material
+The passage identifies a class and gives its contrast with Form
 and associated mental dharmas. It does not yet establish the
 independent reality of each listed member by argument. That
 question must be read through the detailed discussions that
@@ -98,17 +98,21 @@ For Organon interpretation, failure to belong to an associated
 mental event must not become absence of all relation to that
 event or its continuum.
 
-The list prepares a new inquiry; it does not yet justify a
-reconstruction of these formations as independent structural
-operators. Such an account would require the definitions and
-arguments that follow.
+Within the Dharma Chakra, this verse is a differentiated moment in
+the turning, not a new hub or an isolated inventory. The Principle
+remains invariant while the verse distinguishes a conditioned formation
+from consciousness-association and from the nature of Form. Its opening
+`prāpti/aprāpti` polarity makes continuum-status an empirical relation
+that need not coincide with present manifestation.
 
 **Organon reading:** Acquisition/non-acquisition concerns whether a dharma
 stands in a relation of possession to the continuum, not whether it is
 manifest in this cognition. It therefore makes continuity across events
 thinkable without equating possession with clock-duration or asserting an
-independent entity. The following argument, rather than this Organon
-gloss, must decide the ontological status.
+independent entity. The list prepares a new inquiry; it does not yet justify
+a reconstruction of these formations as independent structural operators.
+The following argument, rather than this Organon gloss, must decide the
+ontological status.
 
 ## 10. Review Status
 

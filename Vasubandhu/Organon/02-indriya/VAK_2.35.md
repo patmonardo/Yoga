@@ -56,9 +56,10 @@ a pair. The dual `samāpattī` likewise presupposes two attainments, but the
 kārikā does not identify them in this line.
 
 `Viprayukta` is classificatory. The Bhāṣya explains that these formations
-are so called because they are neither material by nature nor associated with
-consciousness and mental factors. It does not mean unconditioned, causally
-disconnected, or wholly unrelated to a cognitive continuum.
+are so called because they are neither of the nature of **Form** nor
+associated with consciousness and mental factors. It does not mean
+unconditioned, causally disconnected, or wholly unrelated to a cognitive
+continuum.
 
 ## 5. Translation
 
@@ -97,7 +98,7 @@ ontological question.
 
 | Sanskrit | Controlled rendering | Determination in this unit |
 |---|---|---|
-| citta-viprayukta-saṃskāra | formation dissociated from consciousness | a conditioned determination not included in material form or the fivefold association of consciousness and mental factors |
+| citta-viprayukta-saṃskāra | formation dissociated from consciousness | a conditioned formation neither of the nature of Form nor associated with consciousness and mental factors |
 | prāpti | acquisition-possession | according to the Bhāṣya, both obtaining what was not possessed and continuing to possess what was obtained |
 | lābha | obtaining | Bhāṣya term for newly acquiring what was absent or had been relinquished |
 | samanvāgama | possession / endowment | Bhāṣya term for continued possession of what has been acquired |
@@ -165,6 +166,12 @@ for a simple but difficult fact: what presently occurs does not exhaust what
 a continuum has become. A wholesome capacity, an affliction, or a path-status
 may characterize a continuum without appearing as a mental factor in the
 current cognition-event.
+
+As a determination in the Dharma Chakra, this verse does not introduce a new
+hub. It differentiates conditioned formations and places possession-status
+in empirical relation to a continuum across moments. The Principle remains
+invariant at the hub; occurrence and continuum-status are distinguished
+moments in the turning, not rival first principles.
 
 The Bhāṣya therefore distinguishes two moments within `prāpti`:
 

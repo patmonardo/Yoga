@@ -86,7 +86,7 @@ cessations are Bhāṣya-informed construals.
 
 ### Bhāṣya-informed translation
 
-> Groups of names and the related verbal formations complete the catalogue. `Prāpti` comprises both newly obtaining a dharma and continuing to possess it. Acquisition and non-acquisition apply, among conditioned dharmas, only to those belonging to one's own continuum; among unconditioned dharmas, they apply to the two cessations.
+> Groups of names and so forth complete the catalogue. `Prāpti` comprises both newly obtaining a dharma and continuing to possess it. Acquisition and non-acquisition apply, among conditioned dharmas, only to those belonging to one's own continuum; among unconditioned dharmas, they apply to the two cessations.
 
 The kārikā states the range of the relation. The Bhāṣya adds that it does
 not apply to another continuum, to non-sentient things, or to space.
@@ -110,13 +110,24 @@ The dispute is not whether acquired and abandoned determinations must be
 distinguished. It concerns what makes that distinction true.
 
 **Organon rendering (philosophical reconstruction, not literal Bhāṣya
-doctrine):** `Prāpti/aprāpti` can be read as a Transcendental Time
-Determination of Śuddha Sattva: a continuum's capacity to make a particular
-Idea available, retain it, or have its renewed arising foreclosed, whether
-or not that Idea is manifest now. The universal Cognition determines this
-acquired/abandoned relation; it does not posit another possession-object.
-Here time names the organized reach of a capacity through a continuum, not
-clock-duration.
+doctrine):** `Prāpti:Aprāpti` is the core Indriya dyad in the Dharma–Bhava
+Chakra. It determines whether a Dharma is newly acquired, continues to be
+possessed, or is not acquired within the admissible domain, whether or not
+it is manifest in the present cognition-event. This dyad couples with
+Dhātu's `Vijñapti:Avijñapti`:
+disclosure and non-disclosing continuity condition learning, while acquired
+or foreclosed status shapes what can be disclosed and enacted in later
+moments. This LogoGenesis is a Dyad → Dyad movement, not a one-way causal
+sequence.
+
+The Principle remains invariant at the hub; `Prāpti:Aprāpti` articulates
+the Indriya-side empirical relation through the turning. *Avijñapti* bridges
+the dyads because it is classified both in the Form Base and in the Dharma
+Base: one Dharma in two classifications, not two copies. Here time names
+the organized reach of capacity through a continuum, not clock-duration.
+This Organon reading does not settle the Bhāṣya's dispute over whether
+`prāpti/aprāpti` are distinct real Dharmas or designations grounded in
+continuum-capacity.
 
 ## 7. Technical Vocabulary
 
@@ -134,7 +145,7 @@ clock-duration.
 | ākāśa | space | unconditioned but outside both acquisition and non-acquisition according to the Bhāṣya |
 | dravyadharma | substantially real dharma | status assigned to `prāpti/aprāpti` by the Vaibhāṣikas |
 | prajñaptidharma | dharma by designation | Vasubandhu's critical classification of possession-language |
-| bīja | seed / productive capacity | name-and-form capable of producing a result through a particular transformation of the continuum |
+| bīja | seed / productive capacity | Name-and-Form capable of producing a result through a particular transformation of the continuum |
 | āśraya-pariṇāma | transformation of the support | alteration making a continuum capable or incapable of producing a dharma |
 | sāmarthya | capacity | acquired ability of a previously arisen, effort-produced dharma to arise again |
 | vaśitva | mastery | possession understood as operative command rather than an additional entity |
@@ -151,12 +162,15 @@ The kārikā first types the relation's domain:
 
 ```text
 Admissible(S, D)
-    := BelongsToOwnContinuum(D, S)
+    := (Conditioned(D) AND BelongsToOwnContinuum(D, S))
        OR IsOneOfTwoCessations(D)
 
 Prapti(S, D) OR Aprapti(S, D)
     → Admissible(S, D)
 ```
+
+For the two cessations, this names the eligible class, not universal
+possession by every individual. The Bhāṣya specifies who possesses each.
 
 Consequently:
 
@@ -173,7 +187,7 @@ D is space
 
 The ontological dispute can then be formalized.
 
-### Vaibhāṣika stored-relation model
+### Vaibhāṣika distinct-entity model
 
 ```text
 Continuum(S)
@@ -183,6 +197,7 @@ Continuum(S)
     → Possesses(S, D)
 ```
 
+This formalizes the Vaibhāṣika commitment; it is not their own diagram.
 Its proposed function is classificatory: `P` permits determinations such as
 noble/ordinary and abandoned/unabandoned.
 

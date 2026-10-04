@@ -131,8 +131,9 @@ There the word “possession” means mastery: his authority and
 freedom of action concerning those treasures. On what grounds
 does possession mean mastery there but a distinct entity elsewhere?
 What is untenable about taking it as a distinct entity? This:
-neither its own nature is discerned, as with visible form, sound,
-attachment, or hatred, nor its activity, as with eye or ear.
+neither its own nature is discerned, as with visible Form, sound,
+attachment, or hatred, nor its activity, as with the Eye or Ear
+Faculty.
 Thus treating it as a real dharma is untenable, since the conditions
 for such a dharma are lacking.
 
@@ -182,7 +183,7 @@ them forth. Thus it is the seed itself—unremoved, unimpaired,
 or developed when mastery is present—that receives the name
 “possession,” not another entity.
 
-What is this seed? Name-and-form capable of producing a result,
+What is this seed? Name-and-Form capable of producing a result,
 directly or through a succession, through a particular transformation
 of the continuum. What is transformation? The continuum's becoming
 otherwise. What is this continuum? Conditioned dharmas of the
@@ -283,7 +284,7 @@ mastery of their arising. These two cases should not be collapsed
 into one generic claim that every possessed dharma is currently
 manifest.
 
-A seed is itself defined as causally capable name-and-form, directly
+A seed is itself defined as causally capable Name-and-Form, directly
 or through succession. The account does not introduce a miniature
 hidden entity in addition to that continuum. Transformation is
 its becoming otherwise; the continuum is the conditioned causal
@@ -332,29 +333,45 @@ account supplies a competing account of the grounds.
 A comparison with Yoga or an implementation in a formal model
 would be a further reconstruction. Neither should replace the
 source's dispute with a preferred vocabulary. The present study
-keeps acquisition as a distinct real dharma, possession as designation,
-and the capacities grounding that designation visibly separate
-as claims within the debate.
+keeps the positions attributed: the Vaibhāṣikas defend acquisition
+and non-acquisition as real entities; Vasubandhu's critical account
+treats possession as designation grounded in continuum-capacity and
+its negation as non-possession. The Bhāṣya closes by preserving the
+Vaibhāṣika reply. The translation does not settle this dispute by
+turning either account into an unqualified consensus.
 
 **Organon reading (philosophical reconstruction, not Bhāṣya doctrine):**
-The faculty's governing efficacy is read here as a Transcendental Time
-Determination of Śuddha Sattva: acquisition names a temporally extended
-determination of availability within
-a continuum, while its present Idea may be unmanifest. Śuddha Sattva makes
-that distinction intelligible without converting the temporal relation into
-a clock interval or a second entity. The Vaibhāṣika and Vasubandhu accounts
-remain distinct explanations in the source.
+`Prāpti:Aprāpti` is the core Indriya dyad: it determines whether a Dharma
+is newly acquired, continues to be possessed, or is not acquired within
+the admissible domain, even when it is not manifest in the present
+cognition-event. Its Transcendental Time determination is this organized
+reach of status, not a clock interval or a second possession-object.
+
+This is the Indriya side of the Dharma–Bhava Chakra's Dyad → Dyad
+LogoGenesis with Dhātu's `Vijñapti:Avijñapti`. Disclosure and non-disclosing
+continuity condition what is learned; acquired or foreclosed status shapes
+what can be expressed and enacted in later moments. *Avijñapti* bridges
+these dyads: the same Dharma belongs to the Form Base and the Dharma Base,
+without being duplicated. The Principle remains invariant at the hub as
+these empirical relations turn.
+
+This is an Organon reading, not the Bhāṣya's own terminology. The textual
+dispute remains decisive: Vaibhāṣikas assert real acquisition and
+non-acquisition Dharmas; Vasubandhu's critical account grounds possession
+in seed-capacity, support-transformation, and acquired mastery. The
+Organon reconstruction must not erase that disagreement or treat its own
+model as the conventional translation.
 
 ## 10. Review Status
 
 Provisional thirty-sixth study of the restarted Indriyanirdeśa
 Bhāṣya sequence. The research Bhāṣyas for VAK 2.35–2.36, existing
 Organon kārikā anchor, preceding continuous study, and running
-Sanskrit at 62.15–64.13 have been compared.
+Sanskrit at 62.15–64.12 have been compared. The translated unit ends
+with the Vaibhāṣika reply; *sā kilaiṣā prāptiḥ* at 64.12 opens the
+next acquisition classification and is reserved for VAK 2.37.
 
 The definition, scope, full ontological dispute, seed explanation,
 and Vaibhāṣika reply are translated continuously. Consequential
 transcription problems and voice distinctions are explicit.
-Original witnesses and existing studies are unchanged. VAK 2.37
-begins with *sā kilaiṣā praptiḥ* at 64.12 and the classification
-of acquisition by time, ethical character, and realm.
+Original witnesses and research studies are unchanged.

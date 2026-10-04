@@ -1,10 +1,11 @@
 //! Dharma-wheel index model
 //! ========================
 //!
-//! A research data model for an eventual Index of Dharmas. It does not turn
-//! Dharma into a flat taxonomy or claim that the Kośa was written as software.
-//! A record remains available under the three irreducible projections:
-//! Skandha (gathered kind), Ayatana (Sphere), and Dhatu (Domain).
+//! A research data model for representing the central Dharma Chakra in an
+//! eventual Index of Dharmas. The index is not the Chakra, does not turn Dharma
+//! into a flat taxonomy, and does not claim that the Kośa was written as
+//! software. A record remains available under the three irreducible
+//! projections: Skandha (gathered kind), Ayatana (Sphere), and Dhatu (Domain).
 //!
 //! The wheel is the index's operational form: its hub is the governing
 //! determination, its spokes are distinct moments, its rim records how those

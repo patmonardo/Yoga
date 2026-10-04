@@ -31,15 +31,15 @@ caturvidhā          → catur-vidhā
 | trividhā | nominative feminine singular | threefold |
 | śubha-ādīnām | genitive plural | of wholesome [dharmas] and the remaining ethical classes |
 | śubha-ādikā | nominative feminine singular | correspondingly wholesome and so forth |
-| sva-dhātukā | nominative feminine singular | belonging to the same realm as its dharma |
-| tad-āptānām | genitive plural | of dharmas included in that [realm-classification] |
-| an-āptānām | genitive plural | of dharmas not included in a realm |
+| sva-dhātukā | nominative feminine singular | belonging to the same Domain as its dharma |
+| tad-āptānām | genitive plural | of dharmas included in that Domain |
+| an-āptānām | genitive plural | of dharmas not included in a Domain |
 | caturvidhā | nominative feminine singular | fourfold |
 
 The understood feminine subject throughout is `prāpti`. Here `āpta` and
-`anāpta` concern inclusion in a `dhātu` or realm, not acquisition and
-non-acquisition. Reading them as “acquired/unacquired” would confuse the
-classification of `prāpti` with the relation being classified.
+`anāpta` concern inclusion in a `dhātu`—a Domain—not acquisition and
+non-acquisition. Reading them as “acquired/unacquired” would confuse these
+terms with `prāpti/aprāpti`; in particular, `anāpta` here is not `aprāpta`.
 
 ## 4. Grammar
 
@@ -55,11 +55,11 @@ traiyadhvikānāṃ [prāptiḥ] trividhā
       is correspondingly wholesome and so forth
 
 tadāptānāṃ [prāptiḥ] svadhātukā
-    → the acquisition of dharmas included in a realm
-      belongs to that same realm
+    → the acquisition of dharmas included in a Domain
+      belongs to that same Domain
 
 anāptānāṃ [prāptiḥ] caturvidhā
-    → the acquisition of dharmas not included in a realm
+    → the acquisition of dharmas not included in a Domain
       is fourfold
 ```
 
@@ -73,19 +73,20 @@ indices.
 
 ### Close syntactic construe
 
-> For dharmas belonging to the three times, acquisition is threefold; for wholesome and the other [ethical classes], it is correspondingly wholesome and so forth. For dharmas included in a realm, it belongs to that same realm; for those not included in a realm, it is fourfold.
+> For dharmas belonging to the three times, acquisition is threefold; for wholesome and the other [ethical classes], it is correspondingly wholesome and so forth. For dharmas included in a Domain, it belongs to that same Domain; for those not included in a Domain, it is fourfold.
 
 ### Bhāṣya-informed translation
 
-> The acquisition of a past, future, or present dharma may itself be past, future, or present. The acquisition of a wholesome, unwholesome, or indeterminate dharma has the corresponding ethical status. The acquisition of a desire-, form-, or formless-realm dharma belongs to that same realm. The acquisition of a dharma not included in any realm may be desire-realm, form-realm, formless-realm, or uncontaminated.
+> The acquisition of a past, future, or present dharma may itself be past, future, or present. The acquisition of a wholesome, unwholesome, or indeterminate dharma has the corresponding ethical status. Acquisition of a dharma included in the Desire Domain, Form Domain, or Formless Domain belongs to that same Domain. Acquisition of a dharma not included in any Domain may be of the Desire, Form, or Formless Domain, or uncontaminated. The commentary's four classes do not make “uncontaminated” a fourth cosmological Domain; the space exception stated in 2.36 remains in force.
 
 The Bhāṣya subsequently adds path-stage and abandonment classifications.
 Those elaborations explain the matrix but are not separately stated in the
-kārikā.
+kārikā. Its fourfold class applies to eligible Domain-unaffiliated dharmas;
+it does not undo the exclusion of space from acquisition stated in 2.36.
 
 ## 6. Philosophical Translation
 
-> Acquisition is not an unqualified link between a continuum and a dharma. It is itself determined by time, ethical character, realm, path-stage, and mode of abandonment. To know that a continuum possesses a dharma is therefore to know a structured and indexed status, not merely to attach a binary label.
+> Acquisition is not an unqualified link between a continuum and a dharma. It is itself determined by time, ethical character, Domain, path-stage, and mode of abandonment. To know that a continuum possesses a dharma is therefore to know a structured and indexed status, not merely to attach a binary label.
 
 The same acquired dharma can receive a different acquisition-status according
 to the continuum and path through which it is acquired. This is most evident
@@ -93,14 +94,13 @@ with cessation through discriminative comprehension: its acquisition may be
 ordinary, trainee, or beyond-training in status according to the relevant
 mode of attainment.
 
-**Organon rendering (philosophical reconstruction, not literal Bhāṣya
+**Organon reading (philosophical reconstruction, not literal Bhāṣya
 doctrine):** The verse makes acquisition's temporal determination independent
-of the acquired dharma's time: a past, present, or future Idea may be related
-to acquisition in any of those times. Read as Transcendental Time
-Determinations of Śuddha Sattva, these are indexed modes of a continuum's
-availability, not a universal biography. Cognition names the universal
-classificatory determination; each acquisition-status is a particular Idea
-of how that continuum relates to a dharma.
+of the acquired dharma's time: a past, present, or future dharma may be
+related to acquisition in any of those times. This is an indexed empirical
+relation, not a universal biography. The classifications describe the
+continuum's Prāpti-status without collapsing the acquired dharma's time,
+ethical class, Domain, path-status, or abandonment-status into one another.
 
 ## 7. Technical Vocabulary
 
@@ -110,11 +110,12 @@ of how that continuum relates to a dharma.
 | śubha | wholesome | ethical class corresponding here to wholesome acquisition |
 | aśubha | unwholesome | ethical class supplied by the Bhāṣya's threefold expansion |
 | avyākṛta | indeterminate | neither wholesome nor unwholesome |
-| dhātu | realm | here the desire, form, or formless realm, not the eighteen-domain analysis of Chapter 1 |
-| svadhātuka | belonging to the same realm | acquisition mirrors the realm of a realm-bound dharma |
-| tadāpta | included in that realm | a dharma belonging to one of the three realms |
-| anāpta | not included in a realm | a realm-unbound or uncontaminated dharma; not “unacquired” here |
-| anāsrava | uncontaminated | fourth possible status for acquisition of a realm-unbound dharma |
+| dhātu | Domain | here the Desire, Form, or Formless Domain, not the eighteen-Domain analysis of Chapter 1 |
+| svadhātuka | belonging to the same Domain | acquisition mirrors the Domain of a Domain-bound dharma |
+| tadāpta | included in that Domain | a dharma belonging to one of the three Domains |
+| anāpta | not included in a Domain | a Domain-unaffiliated dharma; not “unacquired” here and not `aprāpta` |
+| anāsrava | uncontaminated; Organon: Pure | fourth possible status for acquisition of an eligible Domain-unaffiliated dharma |
+| sāsrava | with outflows; Organon: Impure | contrasted with uncontaminated/Pure in the Bhāṣya's classifications |
 | śaikṣa | trainee | path-status of a trainee's dharmas and their acquisition |
 | aśaikṣa | beyond training | path-status of one beyond training and the relevant acquisition |
 | naivaśaikṣa-nāśaikṣa | neither trainee nor beyond training | status of contaminated dharmas and the unconditioned, subject to further differentiation |
@@ -138,7 +139,7 @@ P = {
     dharmaTime,
     praptiTime,
     ethicalClass,
-    realmClass,
+    domainClass,
     pathClass,
     abandonmentClass
 }
@@ -160,17 +161,17 @@ Ethical status normally mirrors its dharma:
 EthicalClass(P) = EthicalClass(D)
 ```
 
-Realm status branches:
+Domain-affiliation branches:
 
 ```text
-RealmBound(D, R)
-    → RealmClass(P) = R
+DomainBound(D, R)
+    → DomainClass(P) = R
 
-RealmUnbound(D)
-    → RealmClass(P) ∈ {
-          desireRealm,
-          formRealm,
-          formlessRealm,
+DomainUnaffiliated(D)
+    → DomainClass(P) ∈ {
+          DesireDomain,
+          FormDomain,
+          FormlessDomain,
           uncontaminated
       }
 ```
@@ -178,17 +179,17 @@ RealmUnbound(D)
 The Bhāṣya prevents the fourfold rule from being treated as arbitrary:
 
 ```text
-Prapti(apratisaṃkhyā-nirodha)
-    ∈ {desireRealm, formRealm, formlessRealm}
+Prāpti(apratisaṃkhyā-nirodha)
+    ∈ {DesireDomain, FormDomain, FormlessDomain}
 
-Prapti(pratisaṃkhyā-nirodha)
-    ∈ {formRealm, formlessRealm, uncontaminated}
+Prāpti(pratisaṃkhyā-nirodha)
+    ∈ {FormDomain, FormlessDomain, uncontaminated}
 
-Prapti(pathTruth)
+Prāpti(pathTruth)
     = uncontaminated
 ```
 
-Across all realm-unbound dharmas collectively, these possibilities yield
+Across eligible Domain-unaffiliated dharmas collectively, these possibilities yield
 the stated fourfold classification.
 
 ## 9. Interpretive Note
@@ -196,7 +197,7 @@ the stated fourfold classification.
 VAK 2.37 is the classification matrix presupposed by the simpler language of
 “possession.” A bare assertion such as `Possesses(S, D)` is informationally
 incomplete. The Kośa requires the status to answer: when is the dharma; when
-is its acquisition; what is its ethical quality; in which realm does the
+is its acquisition; what is its ethical quality; in which Domain does the
 acquisition occur; what path-stage does it express; and how is it related to
 abandonment?
 
@@ -210,10 +211,10 @@ time of determination ≠ time of possession-status
 ```
 
 The second and third rules mostly propagate constraints: acquisition mirrors
-the ethical class and, for realm-bound dharmas, the realm of what is acquired.
-The fourth rule introduces controlled polymorphism. A realm-unbound dharma
-does not force its acquisition to be realm-unbound, because a continuum
-within one of the three realms may acquire certain unconditioned cessations.
+the ethical class and, for Domain-bound dharmas, the Domain of what is acquired.
+The fourth rule introduces controlled polymorphism. A Domain-unaffiliated dharma
+does not force its acquisition to be Domain-unaffiliated, because a continuum
+within one of the three Domains may acquire certain unconditioned cessations.
 
 The Bhāṣya extends the same discipline to path and abandonment status. A
 cessation does not carry one invariant acquisition-class independently of
@@ -238,7 +239,27 @@ the dharma and the time of its acquisition must not be collapsed. This is a
 philosophical reading of the matrix, not an added rule in the conventional
 translation.
 
-## 10. OWL++ Seed
+## 10. Organon Reading: the Dharma Chakra
+
+This kārikā refines the *Prāpti:Aprāpti* Indriya dyad through indexed
+acquisition-status. Dharma-time and acquisition-time are distinct, as are
+ethical class, Domain, path-status, and abandonment-status. The dyad therefore
+expresses an empirical relation, not a Boolean possession flag. Its
+classification belongs to the Dharma Chakra's turning relations; it does not
+replace the invariant Principle at the hub or reduce the Chakra to an index.
+
+In the larger LogoGenesis model, the Indriya dyad couples with the Dhātu dyad
+*Vijñapti:Avijñapti*. *Avijñapti* is classified in both the Form Base and
+Dharma Base, serving as their cross-wheel bridge rather than as a duplicated
+entity. That is the project's Organon interpretation, not a doctrine
+attributed to this verse or Bhāṣya. Likewise, the path-status and
+abandonment classes here are not a one-to-one enumeration of the ten
+Samyama-bhūmis. The project's Bhūmi model describes mental-factor operation
+with Path Results; that interpretive axis must remain distinct from the
+classifications stated here. The Loka–Karma volume is the Bhava Chakra, not
+another name for the Dharma Chakra.
+
+## 11. OWL++ Seed
 
 ```ttl
 @prefix vak: <http://127.0.0.1:3000/vak#> .
@@ -255,17 +276,17 @@ vak:PraptiClassificationMatrix
     vak:hasIndependentIndex vak:DharmaTime,
         vak:PraptiTime ;
     vak:hasStatusAxis vak:EthicalClass,
-        vak:RealmClass,
+        vak:DomainClass,
         vak:PathClass,
         vak:AbandonmentClass .
 
-vak:RealmBoundPraptiRule
-    vak:requires vak:SameRealmAsAcquiredDharma .
+vak:DomainBoundPraptiRule
+    vak:requires vak:SameDomainAsAcquiredDharma .
 
-vak:RealmUnboundPraptiRule
-    vak:permits vak:DesireRealmPrapti,
-        vak:FormRealmPrapti,
-        vak:FormlessRealmPrapti,
+vak:DomainUnaffiliatedPraptiRule
+    vak:permits vak:DesireDomainPrapti,
+        vak:FormDomainPrapti,
+        vak:FormlessDomainPrapti,
         vak:UncontaminatedPrapti .
 
 organon:IndexedPraptiStatus
@@ -275,8 +296,16 @@ organon:IndexedPraptiStatus
     organon:requiresIndex vak:DharmaTime,
         vak:PraptiTime,
         vak:EthicalClass,
-        vak:RealmClass,
+        vak:DomainClass,
         vak:PathClass,
         vak:AbandonmentClass ;
     organon:isNot organon:BooleanAttachment .
 ```
+
+## 12. Review Status
+
+Provisional paired study of VAK 2.37. The translation distinguishes Domain
+affiliation from acquisition and preserves the time distinction clarified
+in the Bhāṣya. The commentary's eligible fourfold acquisition classes remain
+bounded by the space exception in 2.36. The source transcription has not
+been independently collated.

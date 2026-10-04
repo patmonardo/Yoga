@@ -11,9 +11,11 @@
 > outflows, and are indeterminate; likewise [commonality, continued
 > in the next verse].
 
-The continuous unit follows the completed discussion of conditioned
-marks and covers the linguistic groups at 80.12–82.06. The final
-“likewise” connects to the next verse; its prose is reserved for VAK 2.48.
+The commentary begins at 80.12. The kārikā's first half is cited at
+80.13, its classification half at 82.03–04, and its final *tathā*
+at 82.08, after the closing prose at 82.06–07. VAK 2.48 begins at
+82.09; the cross-verse connection is retained without moving this
+concluding prose out of the 2.47 study.
 
 ## 2. Continuous Sanskrit
 
@@ -79,6 +81,8 @@ marks and covers the linguistic groups at 80.12–82.06. The final
 > sattvākhyā ete /
 > yaśca dyotayati sa taiḥ samanvāgato na yo dyotyate /
 > naiḥṣyandikā anivṛtāvyākṛtāśca /
+> yathā caite nāmakāyādayaḥ sattvākhyā naiḥṣyandikā anivṛtāvyākṛtāśca /
+> tathā // 2.47 //
 
 ## 3. Continuous Conventional Translation
 
@@ -193,6 +197,12 @@ are inexpressible. They are associated with sentient beings. The one who
 signifies is endowed with them, not the one who is signified. They are
 homogeneous outflows and unobscured-indeterminate.
 
+The commentary concludes: “And just as these groups of names and the rest
+are associated with sentient beings, homogeneous outflows, and
+unobscured-indeterminate, likewise [commonality, as taken up in the next
+verse].” The final *tathā* completes the recitation of VAK 2.47; the next
+verse develops the parallel classification.
+
 ## 4. The Three Linguistic Determinations
 
 The definitions distinguish functions, not merely three sizes of written
@@ -287,13 +297,11 @@ every intention or act of speaking ethically neutral.
 ## 8. Textual and Translation Decisions
 
 The Sanskrit below the anchor preserves the running transcription at
-80.12–82.06, including damaged spellings; only source labels and surrounding
-spacing have been removed. The anchor follows the existing Organon kārikā.
-Its final *tathā*, “likewise,” looks forward: the prose beginning at
-82.06–07 carries these classifications into the commonality discussion
-of VAK 2.48. That connecting prose and its predicate are reserved together
-for the next study, rather than ending this translation with an unfinished
-sentence.
+80.12–82.08, including damaged spellings; only source labels and surrounding
+spacing have been removed. The kārikā is distributed across the discussion:
+its opening is cited at 80.13, its classification at 82.03–04, and its final
+*tathā* at 82.08 after the closing prose at 82.06–07. VAK 2.48 begins at
+82.09 and develops the parallel classification.
 
 The witness gives *ka kha ga gha ñe-* in the phonetic series. The expected
 velar-series member would be *ṅa*, as printed in the research translation;
@@ -325,48 +333,26 @@ The present translation preserves that contrast. “Name” alternates with
 “referent” is used for *artha* in the co-arising argument, while “meaning”
 is retained in the account of understanding.
 
-## 9. Philosophical and Organon Study
+## 9. Limited Organon Reading
 
-The following is Organon interpretation, distinct from the reported
-ontology and its critique. The passage gives grounds for distinguishing
-an audible occurrence, its established semantic application, the ordered
-expression, and completion of meaning. An inventory of names cannot by
-itself account for the relations completed in a sentence. Yet the
-recognition of those relations does not by itself establish another
-substantial dharma corresponding to their arrangement.
-
-The temporal argument also poses a positive question: how is a succession
-understood as an expression when its sounds do not coexist? Retention
-and synthesis are reasonable directions for further Organon inquiry.
-They are not an explicit worked-out cognitive mechanism in this local
-passage. The earlier research and kārikā studies develop that reconstruction
-more strongly; the continuous Bhāṣya study keeps the distinction visible.
-
-Our comparative discussion of genus membership and mediation can therefore
-remain an open inquiry. This passage neither establishes a Sāṃkhya theory
-of supersensible knowledge nor resolves the Kant–Hegel question. Its own
-contribution is more specific: designation, relational completion,
-sequence, and substantial existence cannot be treated as interchangeable
-determinations.
-
-**Organon reading (philosophical reconstruction, not Bhāṣya doctrine):**
-The faculty's governing efficacy is a Transcendental Time Determination of
-Śuddha Sattva: the sequence's intelligibility depends on retention and synthesis across
-non-coexisting sounds: its temporality is constitutive of the completed
-expression, not a timestamp attached to it. Universal Cognition determines
-the ordered relation; phonetic and sentence Ideas remain particular. This
-proposal is an Organon development, not an explicit mechanism asserted in
-the local commentary.
+Within the project's First Philosophy framing, the verse extends the
+classification inquiry to linguistic formations and their relations. The
+Bhāṣya distinguishes designation, sentence, and phonetic element, then
+examines whether their functions and collections require separate
+substances. Its challenge concerning successive sounds may guide further
+Organon study, but this passage does not state a complete theory of
+retention or synthesis. Keep that possible extension distinct from the
+conventional translation and the attributed Vaibhāṣika position.
 
 ## 10. Review Status
 
 Provisional forty-seventh study of the restarted Indriyanirdeśa Bhāṣya
-sequence. The existing Organon kārikā, research Bhāṣya, preceding study,
-and running Sanskrit have been compared. The full linguistic debate and
-its classification are translated, including the lexical verse missing
+sequence. The source runs from the opening question at 80.12 to the
+closing *tathā* at 82.08. The kārikā is cited at 80.13, 82.03–04,
+and 82.08; VAK 2.48 begins at 82.09. The full linguistic debate and
+its classifications are translated, including the lexical verse missing
 from the research translation.
 
 Damaged readings remain explicitly provisional; no independent manuscript
-or edition collation has been performed. Original witnesses and existing
-studies are unchanged. The connecting prose beginning at 82.06–07 and
-*tathā* lead into VAK 2.48 and are reserved for that study.
+or edition collation has been performed. The prose at 82.06–07 and the
+final *tathā* at 82.08 remain within this paired study.

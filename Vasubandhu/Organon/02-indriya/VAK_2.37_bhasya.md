@@ -7,8 +7,8 @@
 
 > Acquisition of dharmas of the three times is threefold; of
 > wholesome dharmas and so forth, correspondingly wholesome and
-> so forth. For realm-affiliated dharmas it belongs to their own
-> realm; for those not realm-affiliated it is fourfold.
+> so forth. For Domain-affiliated dharmas it belongs to their own
+> Domain; for those not Domain-affiliated it is fourfold.
 
 The continuous unit includes the ensuing training and abandonment
 classifications, completed by the opening half of VAK 2.38.
@@ -60,17 +60,17 @@ future, or present. Likewise, for future and present dharmas,
 it is threefold in each case. “For the wholesome and so forth,
 correspondingly wholesome and so forth.” Acquisition of wholesome,
 unwholesome, and indeterminate dharmas is respectively wholesome,
-unwholesome, and indeterminate. “For those belonging to a realm,
-it belongs to that same realm.” Acquisition of dharmas belonging
-to the desire, form, and formless realms belongs respectively
-to the desire, form, and formless realms.
+unwholesome, and indeterminate. “For those belonging to a Domain,
+it belongs to that same Domain.” Acquisition of dharmas belonging
+to the Desire, Form, and Formless Domains belongs respectively
+to the Desire, Form, and Formless Domains.
 
-“For those not belonging to a realm, fourfold.” Acquisition of
-uncontaminated dharmas is fourfold: in summary, belonging to the
-three realms or uncontaminated. Of these, acquisition of cessation
+“For those not belonging to a Domain, fourfold.” For eligible
+uncontaminated dharmas, acquisition is fourfold: in summary, belonging
+to the three Domains or uncontaminated. Of these, acquisition of cessation
 independent of discriminative knowledge belongs to the three
-realms. Acquisition of cessation through discriminative knowledge
-belongs to the form or formless realm, or is uncontaminated.
+Domains. Acquisition of cessation through discriminative knowledge
+belongs to the Form or Formless Domain, or is uncontaminated.
 Acquisition of the truth of the path is exclusively uncontaminated.
 Taken together, acquisition is thus fourfold.
 
@@ -105,7 +105,7 @@ of acquisition. The reportive *kila*, “it is said,” is retained;
 resuming the account does not silently settle the preceding
 disagreement over whether acquisition is a distinct real dharma.
 
-Five classifications follow: time, ethical character, realm,
+Five classifications follow: time, ethical character, Domain,
 training status, and abandonment. The last two use the opening
 half of VAK 2.38. Keeping them here completes this series of
 classifications before the source explicitly announces an exception
@@ -128,23 +128,24 @@ between these two classifications already prevents treating
 acquisition as automatically duplicating every determination
 of its acquired dharma.
 
-## 6. Realm Affiliation and the Uncontaminated
+## 6. Domain Affiliation and the Uncontaminated
 
-For realm-affiliated dharmas the acquisition belongs to the same
-realm. *Anāpta* then denotes what does not belong to those realms,
+For Domain-affiliated dharmas the acquisition belongs to the same
+Domain. *Anāpta* then denotes what does not belong to those Domains,
 explained here as uncontaminated dharmas. It does not mean
-“not yet acquired.”
+“not yet acquired,” and is not the same term as *aprāpta*,
+non-acquisition, discussed in 2.36.
 
 | Uncontaminated dharma | Stated classification of acquisition |
 |---|---|
-| Cessation independent of discriminative knowledge | Desire, form, or formless realm |
-| Cessation through discriminative knowledge | Form realm, formless realm, or uncontaminated |
+| Cessation independent of discriminative knowledge | Desire, Form, or Formless Domain |
+| Cessation through discriminative knowledge | Form Domain, Formless Domain, or uncontaminated |
 | Truth of the path | Uncontaminated only |
 
 “Fourfold” summarizes the combined possibilities. It does not
 give every uncontaminated dharma all four kinds of acquisition.
-Nor is uncontaminated a fourth cosmological realm. The contrast
-is between three realm affiliations and acquisition that is
+Nor is uncontaminated a fourth cosmological Domain. The contrast
+is between three Domain affiliations and acquisition that is
 itself uncontaminated.
 
 Space is not added to this table merely because it is unconditioned.
@@ -189,7 +190,7 @@ status alone. The Sanskrit excerpt retains the available reading.
 
 “Abandonable” marks a classification by the path that abandons,
 not a claim that abandonment has already happened. Likewise,
-“belongs to a realm” classifies the acquisition itself rather
+“belongs to a Domain” classifies the acquisition itself rather
 than merely stating where a person happens to be located.
 
 ## 9. Philosophical and Organon Study
@@ -203,7 +204,7 @@ five lists.
 For Organon interpretation, a relation's determination cannot
 be inferred wholesale from the determination of what it relates
 to. A non-abandonable dharma can have abandonable acquisition;
-a dharma outside realm affiliation can have realm-affiliated
+a dharma outside Domain affiliation can have Domain-affiliated
 acquisition. The exact stated rules govern each case.
 
 This reconstruction remains within the resumed classificatory
@@ -214,19 +215,33 @@ rules and the disagreement about what grounds them must both
 remain visible.
 
 **Organon reading (philosophical reconstruction, not Bhāṣya doctrine):**
-Faculty-governance is extended here as a Transcendental Time Determination of
-Śuddha Sattva: the time-indices distinguish a dharma's own temporal status from when its
-acquisition is attributable to a continuum. Śuddha Sattva's temporal
-determination is thus a structured relation, not an ordinal clock or a
-one-way biography; universal Cognition holds the classification while each
-acquired dharma remains a particular Idea.
+This classification gives the Indriya dyad, *Prāpti:Aprāpti*, a structured
+set of empirical indices: the acquired dharma's time remains distinct from
+the time of its acquisition, while ethical class, Domain, path-status, and
+abandonment-status remain distinct axes. It does not turn the classifications
+into a flat inventory or make *anāpta* mean non-acquisition.
+
+In the Dharma Chakra, these are determinations of the relation turning
+through the empirical field, not a replacement for the invariant hub. The
+Indriya dyad is read in relation to the Dhātu dyad, *Vijñapti:Avijñapti*,
+within the LogoGenesis of learning; their coupling is an Organon
+reconstruction, not a claim made by this Bhāṣya. The Loka–Karma volume is
+the Bhava Chakra, and must not be conflated with the Dharma Chakra.
+
+The trainee, beyond-training, and neither classifications, as well as the
+abandonment classes, are path-related determinations. They are not themselves
+the ten Samyama-bhūmis and do not assign one acquisition type to each Bhūmi.
+In the project's reading, Bhūmis describe mental-factor operation with Path
+Results; that interpretive axis remains distinct from this passage's
+classifications. The project-level proposal of Buddha-Dharma as the 11th
+Bhūmi is likewise not enumerated by this passage.
 
 ## 10. Review Status
 
 Provisional thirty-seventh study of the restarted Indriyanirdeśa
 Bhāṣya sequence. The research Bhāṣya, existing Organon kārikā
 anchor, preceding continuous study, and running Sanskrit at
-64.12–65.12 have been compared.
+64.12–65.11 have been compared.
 
 All five classifications are translated, including the opening
 half of VAK 2.38 that completes the training and abandonment

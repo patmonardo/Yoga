@@ -10,8 +10,8 @@
 > maturation at two times or unfixed; it belongs to a noble person
 > and is acquired through application.
 
-The continuous unit includes the ensuing Buddha-specific exception
-and the full regional debate, extending into VAK 2.44.
+The continuous unit includes the Buddha-specific exception and the
+full regional debate, which closes at 71.15.
 
 ## 2. Continuous Sanskrit
 
@@ -112,7 +112,8 @@ No, he says: “For the Sage it is acquired through awakening.”
 Buddhas acquire it at the same time as the knowledge of exhaustion.
 Nothing belonging to Buddhas is called acquired through application:
 the manifestation of their complete qualities depends only on
-their wish. Thus all of it is acquired by them through dispassion.
+their wish. Thus, for them, it is acquired through complete
+dispassion.
 But if the attainment of cessation has not been produced, how
 is the Blessed One established as liberated in both respects
 at the time of the knowledge of exhaustion? He is so established
@@ -147,11 +148,12 @@ regions explain it as not departing from that resolve, since
 all the aims are completed in one course. The Kāśmīra teachers,
 however, maintain the former account.
 
-The disputed *natu āsrava mārgāvyutthānāt* is defective. The
-translation provisionally understands the contrast as permitting
-an interruption of uninterrupted path-consciousness while maintaining
-the resolve to complete awakening. It does not claim a restored
-Sanskrit reading. The regional disagreement is preserved.
+The phrase *satyam avyutthānāśayā na tu āsrava-mārgāvyutthānāt*
+is uncertain in the available transcription. The translation
+preserves its contrast between the resolve not to emerge and the
+āsrava path, but leaves their precise relation unresolved. It
+does not infer a general permission for interruption or claim
+a restored Sanskrit reading. The regional disagreement is preserved.
 
 ## 4. Movement and Voices of the Commentary
 
@@ -165,9 +167,10 @@ The mastery reply, western-teacher proposal, Upagupta citation,
 Kāśmīra chronology, and outer-region reply remain distinct. The
 passage ends by recording that the Kāśmīra teachers retain their
 account. It does not establish agreement among the positions.
-The opening clauses of VAK 2.44 are included to complete this
-debate; its next topic begins with the bodily support of both
-attainments.
+The first-half discussion of VAK 2.44 is already embedded here: the
+Buddha question begins at 70.21, and its verse fragment follows at 70.22.
+The second half resumes at 71.16 with the two attainments' common
+support; its kārikā phrase follows at 71.17.
 
 ## 5. What “Likewise” Preserves
 
@@ -222,11 +225,10 @@ claims, not two interchangeable descriptions.
 The Kāśmīra argument requires an uninterrupted thirty-four-moment
 path sequence. Its count combines sixteen truth-realization
 moments with nine pairs for the summit's afflictions, the lower
-levels already having been addressed. The outer-region response
-contests what non-emergence requires: continuity of the resolve
-and one course of completion need not mean the absence of every
-dissimilar consciousness. The damaged wording limits philological
-certainty, but does not justify omitting that counterargument.
+levels already having been addressed. The outer-region teachers interpret the pledge as maintaining the
+resolve to complete all aims in one course. The uncertain syntax
+does not settle whether a dissimilar consciousness can intervene.
+The Kāśmīra teachers retain their earlier account.
 
 ## 8. Translation and Textual Limits
 
@@ -270,26 +272,22 @@ or assuming that every acquisition must follow prior manifestation.
 The source's particular arguments, qualifications, and voices
 supply the grounds for each claim.
 
-**Organon reading (philosophical reconstruction, not Bhāṣya doctrine):**
-The faculty's governing efficacy is read through a Transcendental Time
-Determination of Śuddha Sattva: the competing attainments are not two
-clock-time placements of one Idea;
-their distinct path-genesis and consequence are their temporal
-determinations. Universal Cognition names the determination of path and
-purpose, while each cessation remains a particular Idea. The disputed
-continuity conditions remain exactly as the source reports them.
+**Organon note (limited application):** Keep the attainment's ordinary
+acquisition through application distinct from the Buddha-specific account
+and from the disputed claim of prior bodhisattva production. Preserve the
+regional disagreement without resolving it through a broader theory of
+continuity.
 
 ## 10. Review Status
 
 Provisional forty-third study of the restarted Indriyanirdeśa
 Bhāṣya sequence. The research Bhāṣya, existing Organon kārikā
 anchor, preceding continuous study, and running Sanskrit at
-69.24–71.16 have been compared.
+69.24–71.15 have been compared.
 
 The cessation-attainment classification and complete debate over
-the Buddha's acquisition are translated, including the opening
-clauses of VAK 2.44. The damaged non-emergence sentence and regional
+the Buddha's acquisition are translated through the close of the
+regional dispute. The damaged non-emergence sentence and regional
 positions are explicit. Original witnesses and existing studies
-are unchanged. VAK 2.44 begins at 71.16 with the supports of
-the two attainments and the initial production of cessation
-among humans.
+are unchanged. The first half of VAK 2.44 is embedded at 70.21–71.15;
+its second half resumes at 71.16.

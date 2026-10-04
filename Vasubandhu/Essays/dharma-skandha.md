@@ -99,6 +99,19 @@ their correspondence
     = Sāṃkhya–Yoga as living cognition
 ```
 
+In the Organon architecture, the Dhātu dyad is
+`Vijñapti:Avijñapti`; the Indriya dyad is `Prāpti:Aprāpti`. They are
+not interchangeable oppositions: the first articulates disclosure and
+non-disclosing continuity, while the second articulates acquisition and
+non-acquisition in a continuum. Their coupling is LogoGenesis (learning),
+the Dyad → Dyad movement that mates Dharma Chakra and Bhava Chakra around
+the invariant Principle.
+
+*Avijñapti* is the bridge: it remains in the Form Base while also entering
+the Dharma Base. This is one Dharma held in two classifications, not two
+copies. Its cross-placement lets Form-continuity enter the empirical
+relation of learning without collapsing it into *prāpti*.
+
 An indriya is not adequately defined as a gross organ or an occult atom. Its truth is functional: it is a power supporting a determinate cognition, and alteration of that power alters the cognition.
 
 A dhātu is not an inert region containing objects. It is a determinate domain within which a corresponding power and cognition can become actual.
@@ -161,7 +174,14 @@ Dharma-skandha is a product of sattva because the system becomes transparent to 
 
 ## 6. Rūpa-skandha and the Beginning of Actuality
 
-Rūpa-skandha is the first actuality of the system, but `rūpa` must not be flattened into modern matter. The Kośa presents faculties, sensory domains, manifest action, non-disclosive action, and elemental functions through an inherited atomistic vocabulary. Its philosophical truth is a transactional morphology of sensible and moral powers.
+Rūpa-skandha is the first actuality of the system. This project translates
+`rūpa` as **Form**, not Matter: Matter is opposed to Form in the Organon
+framework, not an equivalent translation. Rendering Form as Matter reverses
+the conceptual path by turning a determination of Form into its contrary.
+The Kośa presents faculties, sensory domains, manifest action, non-disclosive
+action, and elemental functions through an inherited atomistic vocabulary.
+Its philosophical truth is a transactional morphology of sensible and moral
+powers.
 
 The Organon therefore distinguishes:
 
@@ -279,17 +299,26 @@ The governing formula is:
     → Practical Moral Science
 ```
 
-## 11. Dharma-wheel Index
+## 11. Dharma Chakra: the Kośa as Empirical Relation
 
-An eventual Index of Dharmas must preserve this movement rather than flatten
-Dharmas into a single list. Each record therefore retains its Skandha, Sphere,
-and Domain projections; a record may share a Sphere or Domain with another
-record without thereby becoming the same Dharma. A Dharma-wheel models the
-index in operation: a governing hub, differentiated spokes, and a rim of
-explicit relations that closes the movement into a traversable whole.
+The Dharma Chakra is the central idea of the Kośa, not a side note or an
+optional metaphor for a future index. The Kośa is the Dharma Chakra: its
+determinations articulate an Empirical Relation. In a turning, the hub is
+the Principle rooted in the sublated Principle and held invariant; the spokes
+differentiate moments, and the rim's explicit relations close them into a
+traversable operation. Describing the Chakra describes the Kośa's central
+movement.
+
+The Loka–Karma volume is the Bhava Chakra. Bhava Chakra and Dharma Chakra
+belong to related but distinct systematic movements.
+
+An Index of Dharmas is a means of preserving and examining this movement,
+not the Chakra itself. Each record retains its Skandha, Sphere, and Domain
+projections; a record may share a Sphere or Domain with another record
+without thereby becoming the same Dharma.
 
 Because Abhidharma discriminates *sarvadharma*, the discriminating form cannot
-stand outside the index. The index must represent a first-class act of
+stand outside the Dharma Chakra. The index must represent a first-class act of
 discrimination whose discriminator is itself a Dharma-record; this allows the
 reflexive case in which Abhidharma makes its own grounds and form explicit.
 This is an Organon requirement, not a claim about a literal self-indexing
@@ -300,6 +329,7 @@ classification must also retain an explicit rule and source witness. Learned
 recognition supplies probable identity; the witness supplies rational,
 inspectable determination. The companion research model,
 `dharma-wheel-index-model.rs`, makes these requirements concrete without
-mistaking the model for a translation or a final ontology.
+mistaking the index model for the Dharma Chakra, a translation, or a final
+ontology.
 
 The work of the Organon is to derive this product determination by determination, `pṛthak pṛthak`, without confusing inherited interpretation with textual fact or speculative reconstruction with literal translation.

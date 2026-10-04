@@ -83,11 +83,11 @@ of two indeterminate superknowledges are supplied by the Bhāṣya.
 
 ### Close syntactic construe
 
-> For dharmas that are neither trainee nor beyond-training, acquisition is threefold; for those not subject to abandonment, it is held to be twofold. Acquisition of the indeterminate is co-arisen, except for the superknowledge and magical-creation case.
+> For dharmas that are neither trainee nor beyond-training, acquisition is threefold; for those not subject to abandonment, it is held to be twofold. Acquisition of the indeterminate is co-arisen, except for the superknowledges and magical-creation [mind].
 
 ### Bhāṣya-informed translation
 
-> The acquisition of a dharma classified as neither trainee nor beyond-training may itself be trainee, beyond-training, or neither. For dharmas not subject to abandonment, acquisition is either subject to abandonment through cultivation or is itself not subject to abandonment. The acquisition of an unobscured-indeterminate dharma ordinarily arises only together with that dharma, except in the case of the two indeterminate superknowledges and the mind producing magical creations, whose acquisition may precede, accompany, and follow their manifestation.
+> The acquisition of a dharma classified as neither trainee nor beyond-training may itself be trainee, beyond-training, or neither. For dharmas not subject to abandonment, acquisition is either abandonable through cultivation or is itself not subject to abandonment. The acquisition of an unobscured-indeterminate dharma ordinarily arises only together with that dharma, except for the two indeterminate superknowledges and the magical-creation mind, whose acquisition may precede, accompany, and follow their manifestation.
 
 ## 6. Philosophical Translation
 
@@ -101,14 +101,35 @@ status inheritance may be non-identical
 temporal persistence depends on causal strength and cultivation
 ```
 
-**Organon rendering (philosophical reconstruction, not literal Bhāṣya
-doctrine):** Here Transcendental Time Determination concerns when a cultivated
-capacity is available relative to its manifestation. A weak neutral dharma's
-availability coincides with its occurrence; preparatory cultivation can
-make another capacity available before performance and retain it after.
-Śuddha Sattva is determined in this difference between readiness and
-actualization, not by a clock sequence or a claim that all Agents pass
-through the same stages.
+**Organon reading (philosophical reconstruction, not literal Bhāṣya
+doctrine):** This is a local determination of the Indriya dyad
+*Prāpti:Aprāpti*. In the stated cases, the temporal reach of acquisition
+depends on the dharma's causal strength and the continuum's cultivation;
+acquisition, manifestation, and current enactment are not collapsed into
+one event.
+
+The Bhāṣya also names *vijñapti-rūpa* and *avijñapti-rūpa*. The Organon reads
+this as a point of contact with the Dhātu dyad *Vijñapti:Avijñapti*, coupled
+with the Indriya dyad in LogoGenesis (learning). The source's local
+classification remains distinct from that synthesis: *Avijñapti* is one
+Dharma classified in both the Form Base and Dharma Base, not two entities.
+In the Dharma Chakra, these time and status distinctions articulate the
+turning relation while the Principle remains invariant at the hub; they are
+not a new hub or a replacement of the Chakra by a taxonomy.
+
+In this Organon synthesis, the wheel spans *saṃvṛti* and *paramārtha* as
+two determinations of the same reality, not as two worlds or substances.
+At the conventional determination, the assembled wheel and its functional
+relations are true; at the ultimate determination, analysis asks which
+Dharmas' own-nature cognition survives. **Absolute Insight** is the
+project's name for second-order apprehension of the whole relation: it
+preserves first-order access to the conventional configuration without
+reproducing its contamination, while understanding what analysis discloses.
+It does not reduce the wheel to either pole alone. It is
+not a third truth or the claim that *paramārtha* is one universal Absolute.
+This builds on [VAK 6.04](../../VAK/06-marga/VAK_6.04.md) and the project's
+[Absolute Insight formulation](../../VAK/05-anusaya/VAK_5.29.md); neither
+interpretation is attributed to this Bhāṣya.
 
 ## 7. Technical Vocabulary
 
@@ -117,7 +138,7 @@ through the same stages.
 | naivaśaikṣa-nāśaikṣa | neither trainee nor beyond-training | third path-status; includes contaminated dharmas and the unconditioned |
 | śaikṣa | trainee | acquisition-status produced through a trainee path |
 | aśaikṣa | beyond training | acquisition-status produced through a beyond-training path |
-| aheya / apraheya | not subject to abandonment | uncontaminated dharma-status whose acquisition requires further differentiation |
+| aheya / apraheya | not subject to abandonment | uncontaminated Dharma-status whose acquisition requires further differentiation |
 | bhāvanāheya | abandoned through cultivation | status of certain acquisitions of otherwise non-abandonable cessations |
 | avyākṛta | indeterminate | neither wholesome nor unwholesome |
 | anivṛtāvyākṛta | unobscured-indeterminate | Bhāṣya restriction on the general co-arising rule |
@@ -128,6 +149,11 @@ through the same stages.
 | abhijñā | superknowledge | here two ethically indeterminate superknowledges capable of temporally extended acquisition |
 | nairmāṇika-citta | magical-creation mind | powerful cultivated neutral cognition that produces magical manifestations |
 | prayogaviśeṣa | special preparatory practice | Bhāṣya explanation of the exception's causal power |
+| rūpa | Form | keep distinct from Matter |
+| vijñapti-rūpa | manifest Form | Bhāṣya's classification in the Form case |
+| avijñapti-rūpa | nonmanifest Form | Bhāṣya's paired classification in the Form case |
+| kāmāvacara | belonging to the Desire Domain | Dharmas included in this Domain |
+| sāsrava | with outflows / contaminated; Organon: Impure | conventional translation remains distinct from the Organon rendering |
 
 The Bhāṣya mentions certain exceptionally cultivated crafts and bodily
 practices as a further attributed extension of the powerful-neutral pattern.
@@ -253,9 +279,9 @@ Kośa-clean. It does not identify `prāpti` with Yoga bhūmi-acquisition or read
 the superknowledges as Absolute Reason. Those comparisons belong to the
 project synthesis after the Kośa mechanism has been learned on its own terms.
 
-The research Bhāṣya continues into obscured-indeterminate material form and
-desire-realm material action. Those clauses are excluded here because they
-belong to the following kārikā's continuation of the rule.
+The research Bhāṣya continues into obscured-indeterminate Form and
+Desire-Domain manifest and nonmanifest Form. Those clauses are excluded here
+because they belong to the following kārikā's continuation of the rule.
 
 **Organon temporal note:** The temporal exception measures the reach of
 cultivated efficacy: preparation can make a particular Idea available
@@ -301,3 +327,11 @@ organon:CultivatedCapacityStatus
     organon:distinguishes organon:CapacityAvailability,
         organon:CurrentInvocation .
 ```
+
+## 11. Review Status
+
+Provisional paired study of VAK 2.38. The kārikā translation and Bhāṣya
+interpretation preserve the distinction between dharma-status and
+acquisition-status, as well as the restricted scope of the temporal
+exceptions. The Bhāṣya's continuation into VAK 2.39 is marked separately;
+the Sanskrit compound in the exception remains philologically provisional.

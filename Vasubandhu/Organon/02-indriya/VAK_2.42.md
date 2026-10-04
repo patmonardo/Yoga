@@ -87,26 +87,15 @@ while it remains unrelinquished, but no future instance is cultivated.
 
 ## 6. Philosophical Translation
 
-> A disciplined attainment may be wholesome, powerful, and non-reflective without being liberating. The decisive question is whether reflection has been fulfilled in Knowledge or merely suppressed. In this Kośa account, the practitioner mistakes the cessation of cognitive operation for release; the result is an exalted but conditioned rebirth rather than entry into the noble Path.
+> The attainment is wholesome, but its result is an indeterminate maturation
+> in the immediately following rebirth. Practitioners enter it with a wish
+> for release and regard it as an escape; noble persons instead see it as
+> a place of downfall. The Bhāṣya keeps their motive and the result distinct from the
+> attainment's ethical quality.
 
-The verse therefore distinguishes ethical quality from rational adequacy:
-
-```text
-wholesome cultivation
-    ⇏ noble liberation
-
-cessation of reflective operation
-    ⇏ possession of the Concept
-```
-
-**Organon rendering (philosophical reconstruction, not literal Bhāṣya
-doctrine):** The verse distinguishes a temporal suspension that suppresses
-cognitive operation from a path-determined cessation grounded in Knowledge.
-Both can lack present mental activity, but only one has the noble Path as
-its genesis and measure. This is a Transcendental Time Determination of
-Śuddha Sattva: not a clock interval and not the claim that cessation itself
-is liberation. Universal Cognition cannot be inferred from a stopped
-process; the particular attainment-Idea retains its conditioned history.
+**Organon reading (limited):** Do not infer liberation from cessation alone.
+Here the Bhāṣya distinguishes the practitioners' intended escape from the
+conditioned result it describes.
 
 ## 7. Technical Vocabulary
 
@@ -119,15 +108,14 @@ process; the particular attainment-Idea retains its conditioned history.
 | śubha | wholesome | ethical quality of the intentional attainment, not of its indeterminate maturation-result |
 | vipāka | maturation-result | five-aggregate existence among the non-reflective beings |
 | upapadya-vedanīya | to be experienced in the immediately following rebirth | fixed timing of the karmic result |
-| ārya | noble person | one who does not enter this attainment because its limitation is understood |
+| ārya | noble person | does not enter the attainment, seeing it as a place of downfall |
 | eka-adhvika | belonging to one temporal mode | initially only present acquisition |
-| prayogaviśeṣa | powerful special preparation | Bhāṣya condition required to produce the attainment |
+| mahābhisaṃskāra | great formative effort | required for producing the attainment |
 
-The controlled term `non-reflective attainment` must be held together with
-the source's doctrinal evaluation. Non-reflective can name either fulfilled
-Knowing or suppressed reflection at the project level; the Kośa identifies
-this particular attainment by its cause, result, and exclusion from the noble
-Path as the latter.
+The project's controlled term “non-reflective attainment” does not replace
+the Bhāṣya's explicit description: cessation of consciousness and mental
+factors, produced through great effort and understood by its practitioners
+as release.
 
 ## 8. Logical Determination
 
@@ -178,94 +166,26 @@ InitialPrapti(S, A)
 FromSecondMoment(S, A)
     → MayPossess(PastInstance(A))
 
-FuturePrapti(S, A)
+FutureInstanceCultivation(A)
     = false
 ```
 
-The diagnostic rule for the Organon reconstruction is:
-
-```text
-NonReflective(State)
-    is insufficient to classify liberation.
-
-LiberativeNonReflection(State)
-    requires ConceptPossession
-       + PathKnowledge
-       + FreedomFromConditionedResult
-```
-
-The last rule is project-level and does not purport to translate the kārikā.
-
 ## 9. Interpretive Note
 
-VAK 2.42 prevents a disastrous inference:
+The Bhāṣya distinguishes the practitioners' wish for release from the
+attainment's result and from the noble persons' assessment of it as a place
+of downfall. It also distinguishes present acquisition, subsequent possession
+of the past instance, and the non-cultivation of a future instance.
 
-```text
-mental cessation → liberation
-```
-
-The attainment is disciplined and wholesome. It arises through powerful
-preparation at the fourth dhyāna. Nevertheless, its practitioner mistakes a
-conditioned suspension for release, and its unavoidable result is another
-conditioned existence. Ethical purity of intention does not guarantee that
-the intended end has been conceptually understood.
-
-This gives us the precise test for the two senses of non-reflection.
-
-```text
-suppressed reflection:
-    the operation is stopped
-    the Concept is not possessed
-    conditioned causality remains
-
-fulfilled reflection:
-    mediation has completed itself
-    Dharma and its Path are possessed
-    Jñāna is immediately available
-```
-
-The Kośa passage describes the first. Our discovery that Knowing is
-non-reflective describes the second. The shared negative form—reflection is
-not presently operating—must not conceal their opposite genesis and result.
-
-The ABC example makes the distinction exact:
-
-```text
-forgetting or suppressing the alphabet
-    ≠
-possessing the alphabet so completely
-that renewed reflection is unnecessary
-```
-
-This also clarifies `nirodha`. In the present Kośa attainment, `nirodha` is
-causal prevention of citta-caitta arising and leads to a maturation-result.
-In the transcendental-rational reconstruction, the right `nirodha` is the
-completion of reflection in the possessed Concept. The latter interpretation
-must not be attributed to Vasubandhu's description of `asaṃjñi-samāpatti`.
-
-For the Kośa Technē, the operational lesson is severe:
-
-```text
-disabled process
-    ≠ acquired capability
-
-no reflection event
-    ≠ Jñāna
-```
-
-An Agent must be tested positively for Concept-possession and Path-knowledge,
-not classified as knowing merely because reflective search has ceased.
-
-**Organon temporal note:** The decisive time-relation is genetic: preparation
-and mistaken expectation condition the non-reflective attainment and its
-result. Its present suspension does not become Knowledge simply because
-reflection is absent.
+**Organon note (limited):** Keep these distinctions within the existing
+*Prāpti:Aprāpti* vocabulary. The passage does not equate this conditioned
+attainment with liberation or generalize its account to the attainment of
+cessation discussed next.
 
 ## 10. OWL++ Seed
 
 ```ttl
 @prefix vak: <http://127.0.0.1:3000/vak#> .
-@prefix organon: <http://127.0.0.1:3000/organon#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
 vak:VAK_2_42
@@ -280,7 +200,7 @@ vak:AsamjniSamapatti
     vak:belongsTo vak:FourthDhyana ;
     vak:hasMotive vak:WishForRelease ;
     vak:hasEthicalClass vak:Wholesome ;
-    vak:hasResultTiming vak:NextRebirthOnly ;
+    vak:hasMaturationTiming vak:NextRebirthOnly ;
     vak:isNotCultivatedBy vak:NoblePractitioner ;
     vak:hasInitialPraptiTime vak:Present .
 
@@ -290,10 +210,9 @@ vak:AsamjnikaMaturation
     vak:hasEthicalClass vak:Indeterminate ;
     vak:hasBirthLocation vak:NonReflectiveBrhatphalaRegion .
 
-organon:LiberativeNonReflection
-    a organon:InterpretiveReconstruction ;
-    organon:requires organon:ConceptPossession,
-        organon:PathKnowledge,
-        organon:FreedomFromConditionedResult ;
-    organon:isDistinctFrom vak:AsamjniSamapatti .
 ```
+
+## 11. Review Status
+
+Provisional paired study. The kārikā and Bhāṣya are reviewed against the
+printed passage at 68.28–69.23. VAK 2.43 begins at 69.24.

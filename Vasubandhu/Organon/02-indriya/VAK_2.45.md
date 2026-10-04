@@ -12,10 +12,12 @@
 >
 > lakṣaṇāni punar jātir jarā sthitir anityatā // 2.45 //
 
-The research witness divides the commentary unevenly: the `jīvita` analysis
-appears at the end of the VAK 2.44 Bhāṣya witness, while the VAK 2.45 Bhāṣya
-witness begins with the four marks. Both are used here because both halves
-occur in the supplied kārikā.
+The commentary is split across the continuous source: the life discussion
+runs from 73.14–75.18, and the four-mark discussion from 75.19–79.17.
+The first half of VAK 2.46 is cited at 76.11 and 76.15 within the
+four-mark discussion; its second half is cited at 79.18. Both halves
+of VAK 2.45 are included here despite their distribution across the
+source-study witnesses.
 
 ## 3. Padaccheda
 
@@ -93,28 +95,13 @@ states the genetic order explicitly.
 
 > `Jīvita` names the lifespan through which a living continuum sustains vital heat and differentiated cognition. According to Vasubandhu, it is not an additional life-substance but the karmically projected duration of a homogeneous continuum. The conditioned is marked by arising, persistence, transformation between earlier and later phases, and interruption of continuity; these marks describe the stream's own temporal structure rather than four entities acting upon it from outside.
 
-## 6. Philosophical Translation
+## 6. Limited Organon Reading
 
-> Life is the determinate duration projected for a living continuum, not a thing added to that continuum. Conditionedness likewise does not require external lifecycle agents. A continuum begins, persists through internal difference, becomes otherwise, and fails to continue. These are its immanent temporal determinations.
-
-The movement is:
-
-```text
-previous nonexistence
-    → arising
-    → connected persistence
-    → difference between earlier and later phases
-    → interruption of continuity
-```
-
-**Organon rendering (philosophical reconstruction, not literal Bhāṣya
-doctrine):** Life and the four marks articulate immanent temporal
-determinations of conditioned existence: projected span, arising,
-connected persistence, phase-difference, and interruption. Śuddha Sattva
-is determined here through the continuum's own temporal organization,
-not by an external clock or a separate set of lifecycle operators.
-Universal Cognition determines this pattern; each living continuum and
-its phases remain particular Ideas.
+The verse places the debate over lifespan beside the debate over
+conditioned marks. The Bhāṣya distinguishes the projected duration of a
+living continuum from the four marks and preserves the dispute over whether
+those marks are separate entities or descriptions of a stream. Keep these
+claims and their attributions distinct.
 
 ## 7. Technical Vocabulary
 
@@ -218,70 +205,16 @@ MarkOf(D, M)
 
 ## 9. Interpretive Note
 
-VAK 2.45 unifies the critical method of the entire block. The Vaibhāṣika
-system repeatedly converts a necessary determination into a separate real
-entity: possession, non-possession, attainment, life, birth, duration, aging,
-and destruction. Vasubandhu repeatedly asks whether the explanatory work is
-already performed by the causal and temporal organization of the continuum.
-
-For `jīvita`, the answer is projected duration:
-
-```text
-karma projects how long a homogeneous living continuum persists
-    → that duration is called life
-```
-
-For the four marks, the answer is immanent genesis:
-
-```text
-the stream begins
-the stream continues
-its phases differ
-its continuity ends
-```
-
-The marks do not stand outside the conditioned dharma and push it through a
-lifecycle. They articulate what conditioned existence itself does. This is
-why the user's decision to ignore the ontological authority of the
-“mind-dissociated” division is justified at the project level: the label
-organizes the Kośa's catalogue, but the strongest Bhāṣya analysis dissolves
-its members back into the continuum's own operations.
-
-The engineering consequence is equally important. Lifecycle determination
-must not be reduced to inert metadata attached to an otherwise complete
-object:
-
-```text
-ConditionedDharma
-    is its genesis + continuity + transformation + cessation
-```
-
-This is a state-transition protocol, but more deeply it is the object's own
-temporal Concept. An adequate model must be able to reconstruct each present
-state from prior nonexistence, causal connection, phase difference, and the
-possibility of interruption.
-
-At the Organon level, this is the precise form of unconstruction:
-
-```text
-constructed substantial operators
-    → tested for independent work
-    → returned to immanent moments of the continuum
-```
-
-The result is not loss of determination. It is a cleaner and more functional
-determination without ontological duplication.
-
-**Organon temporal note:** The marks distinguish the lived conditions of
-continuity and change; they are not a single biography imposed on every
-continuum. This interpretation keeps the Bhāṣya's causal account distinct
-from its opponent's separate lifespan-entity.
+The life-faculty and the conditioned marks are both discussed as formations
+dissociated from citta, but the Bhāṣya treats different questions in each
+case. Its answer about projected lifespan should not be substituted for the
+debate over the reality of the four marks; nor should the stream account be
+mistaken for a denial that lifespan is discussed.
 
 ## 10. OWL++ Seed
 
 ```ttl
 @prefix vak: <http://127.0.0.1:3000/vak#> .
-@prefix organon: <http://127.0.0.1:3000/organon#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
 vak:VAK_2_45
@@ -311,12 +244,12 @@ vak:StreamConditionedMarks
         vak:Anityata ;
     vak:hasReferent vak:ConditionedStream .
 
-organon:ImmanentLifecycleProtocol
-    a organon:InterpretiveReconstruction ;
-    organon:requires organon:Genesis,
-        organon:ConnectedContinuity,
-        organon:PhaseDifference,
-        organon:Interruption ;
-    organon:isNot organon:ExternalLifecycleMetadata,
-        organon:SeparateMarkSubstances .
 ```
+
+## 11. Review Status
+
+Provisional paired study against the split commentary at 73.14–79.17.
+The life discussion closes at 75.18; the four-mark discussion closes at
+79.17. VAK 2.46's first half is embedded at 76.11 and 76.15; its
+second half appears at 79.18. The source-study witnesses split both
+kārikās, so the boundary and contextual overlap are recorded explicitly.

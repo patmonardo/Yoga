@@ -10,9 +10,11 @@
 > and on one respectively. Arising generates what is to be
 > generated, not without causes and conditions.
 
-The continuous unit begins with the four-mark clause of VAK 2.45,
-reserved from the preceding life-faculty study, and follows the
-full debate through its explicit close.
+The VAK 2.46 stanza is split across the discussion: its first half
+is cited at 76.11 and 76.15, within the four-mark commentary on
+VAK 2.45; its second half is cited at 79.18. The source excerpt
+opens at 75.19 with the complete four-mark discussion as an
+intentional contextual overlap, also included in the VAK 2.45 pair.
 
 ## 2. Continuous Sanskrit
 
@@ -484,40 +486,26 @@ The imagery of Śrī and her ominous companion is retained as an
 analogy; the precise name and wording require collation. The
 Sanskrit is not silently corrected to fit the English.
 
-The life-faculty unit ended at 75.18. This study includes the
-last half of VAK 2.45 and the complete VAK 2.46 discussion through
-*uktāni lakṣaṇāni* at 80.11. The next question introduces groups
-of names and related verbal formations.
+The life-faculty discussion ends at 75.18. VAK 2.46's first half
+is cited at 76.11 and 76.15 within the 2.45 four-mark debate;
+its second half is cited at 79.18. The 2.46 discussion closes
+with *uktāni lakṣaṇāni* at 80.11. The next question introduces
+groups of names and related verbal formations. The 75.19–79.17
+contextual overlap is also studied under VAK 2.45.
 
-## 9. Philosophical and Organon Study
+## 9. Limited Organon Note
 
-The dispute differentiates a recognizable mark, the process it
-indicates, and a proposed entity performing that process. Neither
-shared terminology nor a genitive construction settles their
-relation. The competing accounts must explain the same arising,
-continuity, change, and cessation while disagreeing over what
-must be counted as independently real.
-
-For Organon interpretation, the strongest result is the demand
-for explanatory specificity. A separate mark must have determinate
-work, a time of operation, and a relation to the other marks;
-a designation-based account must explain recognition and conditioned
-change without simply deleting them. The source examines both
-burdens and ends with the defender maintaining the doctrine.
-
-**Organon reading (philosophical reconstruction, not Bhāṣya doctrine):**
-The faculty's governing efficacy is read as a Transcendental Time
-Determination of Śuddha Sattva: arising is a transition internal to the causal history of
-the particular dharma, not as an independent event added after its causes.
-This is the temporal determination of Śuddha Sattva in this unit; it does
-not settle the source's dispute by translating `jāti` as a mere name.
+Keep the dispute over separate mark-entities distinct from the account of
+causal conditions and designation. The Vaibhāṣika defense remains part of
+the passage's conclusion; no additional Organon ontology is required here.
 
 ## 10. Review Status
 
 Provisional forty-sixth study of the restarted Indriyanirdeśa
-Bhāṣya sequence. The existing Organon kārikā anchor, preceding
-continuous study, and running Sanskrit at 75.19–80.12 have been
-compared. The running source supplies the complete unit.
+Bhāṣya sequence. The source runs 75.19–80.11: the first half of
+VAK 2.46 is cited at 76.11 and 76.15, and its second half at
+79.18. The opening 75.19–79.17 passage overlaps the VAK 2.45
+study as context.
 
 All principal exchanges are translated through the explicit close
 of the marks discussion. Difficult verses and damaged examples

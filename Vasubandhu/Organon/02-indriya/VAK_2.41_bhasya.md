@@ -5,7 +5,7 @@
 > sabhāgatā sattvasāmyam āsaṃjñikam asaṃjñiṣu /
 > nirodhaś cittacaittānāṃ vipākaḥ te bṛhatphalāḥ // 2.41 //
 
-> Commonality is similarity among beings. The non-percipient
+> Commonality is sameness among beings. The non-percipient
 > condition among non-percipient beings is cessation of consciousness
 > and mental factors, a maturation-result. They are Bṛhatphala.
 
@@ -82,14 +82,14 @@ Commonality is an entity: the resemblance among beings, called
 differentiated. Undifferentiated commonality is the commonality
 of all beings as beings, since it occurs in each and every being.
 Differentiated commonality is restricted according to differences
-of realm, level, destiny, mode of birth, kind, female or male,
+of Domain, ground, destiny, mode of birth, species, female or male,
 lay follower or monk, trainee or beyond training, and so forth.
-There is also commonality of dharmas according to aggregates,
-sense-bases, and dhātus. If commonality of beings did not exist
-as an undifferentiated entity, there would be no undifferentiated
-cognition and designation “being” among beings distinguished
-by their individual differences. The same should be applied
-to cognitions and designations of aggregates and so forth.
+From the standpoint of aggregates, Spheres, and Domains, if
+commonality of beings were not an undifferentiated entity, there
+would be no undifferentiated cognition and designation “being”
+among beings distinguished by their individual differences.
+Cognitions and designations of aggregates and the rest should
+be treated similarly.
 
 Can someone die and be reborn without relinquishing or acquiring
 commonality of beings? There are four alternatives. The first
@@ -111,18 +111,18 @@ mango, jackfruit, iron, gold, and so forth resemble others of
 their own kind. And how are those commonalities, distinct from
 one another, designated without distinction as “commonality”?
 
-This also lends support to the Vaiśeṣikas. Their doctrine too
-is that there exists a category called the universal, through
-which a common cognition arises even concerning things of different
-kinds. Their distinctive claim is that one such universal occurs
-in many things. Whether they are supported or not, the Vaibhāṣikas
-say, this commonality exists because it is stated in a sūtra.
+This also makes the Vaiśeṣika position apparent. Their doctrine
+too is that there exists a category called the universal, through
+which a common cognition arises among things of different kinds.
+Their distinctive claim is that one such universal occurs in
+many things, whether manifested or not. The Vaibhāṣikas say that
+this commonality exists because it is stated in a sūtra.
 For the Blessed One said, “If he comes to this state, to commonality
 with human beings.” That was said, but it was not said to be
 a distinct entity. What, then, is it? Those very formations
-in such a condition that the designation “human” and so forth
-applies to them, as with commonality among rice and so forth.
-But they do not accept this account.
+are such that the designation “human” and so forth applies to
+them, as with commonality among rice and so forth. But they do
+not explain this further.
 
 What is the non-percipient condition? “Among non-percipient beings,
 it is cessation of consciousness and mental factors.” The cessation
@@ -141,11 +141,11 @@ Do they ever become percipient? They do at birth and at death.
 The sūtra reads: “After remaining for a very long time, with
 the arising of recognition those beings pass away from that
 place.” Passing away from there, like people waking from a long
-sleep, they are reborn in the desire realm, nowhere else. Because
+sleep, they are reborn in the Desire Domain, nowhere else. Because
 the formative force of their earlier attainment is exhausted
 and no new one has accumulated, they fall like arrows whose
 impetus is spent. Whoever is to be born there necessarily has
-desire-realm karma to be experienced in a later life, just as
+karma belonging to the Desire Domain to be experienced in a later life, just as
 inhabitants of Uttarakuru have karma to be experienced as rebirth
 among gods.
 
@@ -167,16 +167,15 @@ cause, location, and termination.
 The Vaibhāṣikas are explicitly named in the commonality defense.
 Their sūtra appeal is followed by a critical distinction between
 using the term and asserting a separate entity. The source then
-records that they reject the alternative account. This closing
-disagreement is absent from the immediate research translation
-but retained here with the preceding Vaiśeṣika comparison.
+notes that the alternative account is not further explained; this
+qualification is retained alongside the Vaiśeṣika comparison.
 
 ## 5. Commonality and Common Cognition
 
 The initial account distinguishes commonality shared by all
 beings from commonalities restricted by particular classifications.
-It also invokes commonality of dharmas through aggregates,
-sense-bases, and dhātus. Its argument is that common cognition
+It also invokes commonality of dharmas through aggregates, Spheres,
+and Domains. Its argument is that common cognition
 and designation among different individuals require the relevant
 real commonality.
 
@@ -226,17 +225,17 @@ does not identify every Bṛhatphala being as non-percipient.
 The stated birth and death exceptions mean that the suspension
 is not an unqualified absence of consciousness throughout every
 moment of that existence. Nor is its long duration liberation:
-the commentary describes its ending and a subsequent desire-realm
-rebirth.
+the commentary describes its ending and a subsequent rebirth in the
+Desire Domain.
 
 ## 8. Translation and Source Decisions
 
 The source's *sākṛśyaṃ*, *skndha*, and *satvasttva* are read
 contextually as resemblance, aggregates, and the repeated designation
-“being.” The damaged clause naming the non-percipient gods and
-the later recognition clause are rendered according to their
-clear question-and-answer structure. The excerpt retains the
-transcription for review.
+“being.” The prose about the non-percipient gods and the sūtra
+quotation is translated according to the local question-and-answer
+structure. The excerpt retains the transcription; no independent
+collation is claimed.
 
 “Non-percipient” renders the *asaṃjñin/āsaṃjñika* terminology;
 “recognition” retains the rendering of *saṃjñā* established in
@@ -246,7 +245,8 @@ must not narrow that account.
 
 The arrow comparison concerns exhaustion of the earlier attainment's
 formative force and lack of new accumulation. The following karma
-statement specifies desire-realm karma awaiting a later life;
+statement specifies karma belonging to the Desire Domain and awaiting
+a later-life result;
 it does not say that the non-percipient maturation itself becomes
 a new act producing that rebirth.
 
@@ -262,7 +262,7 @@ For Organon interpretation, shared naming, resemblance, and a
 postulated real universal must remain distinct claims. The source's
 reply to the sūtra citation is precise: a term's scriptural use
 does not alone establish a separate entity answering to it.
-The rejected alternative must nevertheless remain attributed,
+The alternative must remain distinct from the Vaibhāṣika position,
 not become an unqualified consensus.
 
 The non-percipient case asks a different explanatory question:
@@ -272,23 +272,21 @@ Its inclusion in the same list of dissociated formations does
 not make its function identical with commonality. Each formation
 requires its own argument and determination.
 
-**Organon reading (philosophical reconstruction, not Bhāṣya doctrine):**
-Faculty-governed Cognition is read as a Transcendental Time Determination of
-Śuddha Sattva: class-commonality holds likeness across particular
-Ideas without turning the universal into another member or substance. The
-non-percipient attainment, by contrast, is a conditioned interval whose
-temporal bounds follow its causal basis and exhaustion. The two determinations
-must not be collapsed into one account of persistence.
+**Organon note (limited application):** The passage distinguishes a
+disputed account of commonality from the conditioned result of the
+non-percipient attainment. Keep their functions and the Bhāṣya's attributed
+positions separate; this note adds no further ontology.
 
 ## 10. Review Status
 
 Provisional forty-first study of the restarted Indriyanirdeśa
 Bhāṣya sequence. The research Bhāṣya, existing Organon kārikā
 anchor, preceding continuous study, and running Sanskrit at
-67.13–68.28 have been compared.
+67.13–68.27 have been compared.
 
-The full commonality debate, including the Vaiśeṣika comparison
-and rejected alternative, and the complete non-percipient-result
+The full commonality debate, including the Vaiśeṣika comparison,
+the alternative account and its closing qualification, and the complete
+non-percipient-result
 account are translated. Transcription uncertainties and distinct
 voices are explicit. Original witnesses and existing studies
 are unchanged. VAK 2.42 begins at 68.28 with the two attainments
