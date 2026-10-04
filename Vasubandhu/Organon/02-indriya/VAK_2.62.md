@@ -100,13 +100,12 @@ This study interpretation draws on the commentary. It does not make
 all conditioned events mental events or attribute an object-condition
 to every material process.
 
-**Organon interpretation—not literal Bhāṣya doctrine.** Faculties are
-Transcendental Time Determinations of Śuddha Sattva: the mind-condition
-orders a successor, whereas an object may retain its object-character
-without being a present mental antecedent; predominance names a wider
-enabling relation. This is not one linear clock: Cognition names the
-universal determination of knowing, and the particular Idea is the content
-that can be apprehended across distinct temporal positions.
+**Organon interpretation—not literal Bhāṣya doctrine.** We read this
+articulation of conditional relations on the side of Essence: Dharma's
+*sāra*, its intelligible theoretical principle. Loka:Karma is Appearance,
+the manifest empirical movement of the Bhava Chakra. The Essence/Appearance
+relation mates the Dharma Chakra and Bhava Chakra without making them two
+worlds or attributing this terminology to the verse.
 
 ## 7. Technical Vocabulary
 
@@ -208,60 +207,17 @@ co-arisen dharmas can condition one another predominantly without being
 one another's objects in the relevant relation. It is not a prohibition
 on their becoming objects of a later mental cognition.
 
-**Organon interpretation.** The verse supplies distinct questions about
-one cognitive occurrence: its mental antecedent, what it cognizes, and
-its wider conditioning relations. Understanding one does not answer
-the others. In our terms, learning must determine the relation, not
-merely attach the general word “condition.”
-
-The first-pass contrast between objective grounds and subjective
-conditions is too strong as a textual claim. The cause-condition already
-retains five causes, and predominant conditioning also ranges beyond
-cognition. A comparison with Yoga or a proposed synthesis of ground
-and condition requires its own argument; it should preserve these
-specific distinctions rather than replace them.
+**Organon interpretation—not literal Bhāṣya doctrine.** The distinctions
+among antecedence, objecthood, and predominance articulate conditional
+relations on the side of Essence. Loka:Karma is Appearance: the Bhava
+Chakra's manifest empirical movement, related to but distinct from the
+Dharma Chakra. The references to concentration and attainment in this
+commentary are examples in analyzing mental complexes and succession,
+not a systematic definition of Samādhi. The project's more definitional
+approach belongs to Yoga Dharmapada (YS-IV), not to this verse's
+translation.
 
 **Review status.** Provisional polished study, checked against the
 kārikā and research Bhāṣya and the running Sanskrit at 98.09–100.18.
 Original witnesses remain intact. No independent manuscript collation
 has been performed. VAK 2.63 next asks when conditions exercise activity.
-
-## 10. OWL++ Seed
-
-```ttl
-@prefix vak: <http://127.0.0.1:3000/vak#> .
-@prefix organon: <http://127.0.0.1:3000/organon#> .
-@prefix owl: <http://www.w3.org/2002/07/owl#> .
-
-organon:hasSourceDomain a owl:ObjectProperty .
-organon:excludesSource a owl:ObjectProperty .
-organon:correspondsToCauseType a owl:ObjectProperty .
-organon:hasTargetDomain a owl:ObjectProperty .
-organon:requiresConstraint a owl:ObjectProperty .
-organon:hasObjectDomain a owl:ObjectProperty .
-
-vak:ImmediatelyAntecedentCondition a organon:ConditionType ;
-    organon:hasSourceDomain vak:ArisenMindAndMentalFactors ;
-    organon:excludesSource vak:FinalArhatMindAndFactors ;
-    organon:requiresConstraint vak:NoInterveningMind .
-
-vak:ObjectCondition a organon:ConditionType ;
-    organon:requiresConstraint vak:AppropriateCognitiveObjectRelation .
-
-vak:EyeConsciousnessWithFactors
-    organon:hasObjectDomain vak:VisibleForm .
-vak:MentalConsciousnessWithFactors
-    organon:hasObjectDomain vak:AllDharmas .
-
-vak:PredominantCondition a organon:ConditionType ;
-    organon:correspondsToCauseType vak:ConditioningCause ;
-    organon:hasSourceDomain vak:AllDharmas ;
-    organon:hasTargetDomain vak:ConditionedDharma ;
-    organon:requiresConstraint vak:SourceDistinctFromTarget .
-```
-
-This project seed records type-level constraints, not complete sufficient
-conditions for a particular event. In particular, the absence of an
-intervening mind alone does not establish the full antecedent relation.
-The constraint statements require validation beyond ordinary open-world
-OWL inference; they do not assert that all objects are actually cognized.

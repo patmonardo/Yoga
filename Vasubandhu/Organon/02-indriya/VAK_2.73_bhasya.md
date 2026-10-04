@@ -205,18 +205,29 @@ at 110.09 lies outside this commentary unit.
 
 ## 7. Philosophical and Organon Study
 
-**Organon reading:** The close distinguishes the present occurrence
-of a mind-kind from its acquisition and possession. These are different
-temporal determinations: a kind may be acquired without being manifest,
-and a present occurrence need not be its first acquisition. Decline
-and reacquisition therefore belong to the account of a continuum's
-temporal articulation, not to immediate succession alone.
+**Organon interpretation—not literal Bhāṣya doctrine:** The closing
+passage distinguishes a mind-kind's manifestation from its acquisition
+and possession. Acquisition is not immediate succession, and *lābha*
+should be read in relation to—but not as a synonym for—the Indriya
+dyad *Prāpti:Aprāpti*. The occasions and remainder rule delimit the
+Bhāṣya's claims to the kinds and circumstances it specifies.
 
-The chapter's movement from faculty-governed processes through
-succession to acquisition gives the Organon a layered account of
-temporal determination within Śuddha Sattva. Its colophon closes the
-Bhāṣya's discussion; it does not itself announce this philosophical
-reconstruction.
+At 110.05 the Bhāṣya closes the discussion of conditions; at 110.06–08
+it declares the second Kośa chapter, Indriyanirdeśa, complete. In our
+volume architecture, this is the final verse of Vol. I's Essence-side
+study. Vol. II's Loka:Karma is Appearance and the Bhava Chakra. This
+connection to Hegel's Doctrine of Essence is project-level synthesis,
+not wording in the verse or colophon.
+
+At the textual level, trainee and beyond-training status, together
+with path-related acquisition occasions, bring Mārga into this closing
+account. In the larger three-volume architecture, Mārga is the
+determinate Concept of what it sublates as extremes: Dhātu:Indriya
+(Vol. I) as the extreme of Being and Loka:Karma (Vol. II) as the
+extreme of Essence. Vol. III, Anuśaya:Mārga, is the Master Sublator.
+Loka:Karma receives Dead Being and resurrects it by determining its
+next state. This is the Organon's synthesis, not a claim made by the
+2.73 kārikā or colophon.
 
 ## 8. Review Status
 

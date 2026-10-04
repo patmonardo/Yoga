@@ -1,4 +1,4 @@
-# VAK_2.60
+# VAK_2.60 — Four Dharma Classes and Cause Exclusions
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -105,13 +105,8 @@ complete cause system
 ```
 
 **Organon interpretation—not literal Bhāṣya doctrine.** The first
-uncontaminated occurrence instantiates a threshold Transcendental Time
-Determination of Śuddha Sattva: it has no prior homogeneous noble instance,
-yet arises through its admissible causes.
-The faculty determines this change of cognitive status without turning it
-into the first moment of every continuum's biography. Cognition names the
-universal path-knowing determination; the particular Idea is this first
-uncontaminated profile and its excluded causal relations.
+uncontaminated occurrence is not causeless: it lacks a prior homogeneous
+instance of its class while retaining the other admissible causal relations.
 
 ## 7. Technical Vocabulary
 
@@ -134,20 +129,7 @@ dharmas other than the first uncontaminated moment.
 
 ## 8. Logical Determination
 
-Let the complete cause inventory be:
-
-```text
-H = {
-    karana,
-    sahabhu,
-    samprayuktaka,
-    sabhaga,
-    sarvatraga,
-    vipaka
-}
-```
-
-For citta and caitta, the rules resolve as:
+For citta and caitta, the exclusions from the six causes resolve as follows:
 
 | Arising class | Excluded causes | Admissible count |
 |---|---|---:|
@@ -156,151 +138,27 @@ For citta and caitta, the rules resolve as:
 | residual | maturation, pervasive | 4 |
 | first uncontaminated | maturation, pervasive, homogeneous | 3 |
 
-```text
-AdmissibleHetus(Afflicted)
-    = H − {MaturationCause}
+The first uncontaminated occurrence lacks a homogeneous cause because no
+earlier uncontaminated dharma of its class has arisen in that continuum; it
+is not causeless.
 
-AdmissibleHetus(MaturationBorn)
-    = H − {PervasiveCause}
+The two five-cause classes exclude different causes: maturation cause for
+afflicted dharmas and pervasive cause for maturation-born dharmas. The
+immediately following kārikā supplies the domain qualification: the counts
+first concern mind and mental factors, while material and mind-dissociated
+dharmas additionally exclude associated cause. That qualification is treated
+with VAK 2.61.
 
-AdmissibleHetus(Residual)
-    = H − {MaturationCause, PervasiveCause}
+## 9. Bridge to the Conditions
 
-AdmissibleHetus(FirstUncontaminated)
-    = H − {MaturationCause, PervasiveCause, HomogeneousCause}
-```
+This verse remains within the cause analysis: it classifies arising dharmas
+by the cause-types they admit. The Bhāṣya then extends the counts to material
+and mind-dissociated dharmas, additionally excluding associated cause, and
+closes the cause account with the statement that no dharma arises from only
+one cause.
 
-The first noble occurrence lacks a homogeneous cause because no earlier
-uncontaminated dharma of its class has arisen in that continuum. Its novelty
-is a typed absence within the profile, not causeless origination.
-
-The equal counts in the first two rows conceal different causal structures:
-
-```text
-count(AdmissibleHetus(Afflicted))
-    = count(AdmissibleHetus(MaturationBorn))
-    = 5
-
-but
-
-ExcludedHetu(Afflicted)
-    = MaturationCause
-
-ExcludedHetu(MaturationBorn)
-    = PervasiveCause
-```
-
-Cardinality is therefore insufficient to identify a genetic profile. The
-relations excluded, and the grounds of their exclusion, must remain explicit.
-
-For the first uncontaminated occurrence, the Bhāṣya-supported exclusions have
-three distinct determinations:
-
-```text
-MaturationCause
-    → the noble breakthrough is not a karmic maturation-result
-
-PervasiveCause
-    → pervasive causation belongs to the afflicted causal order
-
-HomogeneousCause
-    → no prior uncontaminated occurrence of the same class yet exists
-```
-
-The subject “citta and caitta” is supplied explicitly by the immediately
-following kārikā. That continuation also removes associated cause when the
-same analysis is applied to material dharmas and formations disjoined from
-citta. This forward qualification is necessary for scope, but its detailed
-analysis belongs to VAK 2.61.
-
-## 9. Interpretive Note
-
-VAK 2.60 completes the hetu analysis by turning the inventory into a constraint
-engine. Earlier verses defined causal relations and fruits; this verse asks
-which relations are licensed for an occurrence having a given status.
-
-```text
-HetuProfile {
-    arisingClass,
-    completeCauseInventory,
-    excludedCauseTypes,
-    admissibleCauseTypes,
-    groundsForExclusion
-}
-```
-
-The exclusions are determinate, not merely missing database values. An Ocular
-Schema should record why a relation is impossible:
-
-```text
-ExcludedCause {
-    targetOccurrence,
-    causeType,
-    exclusionGround,
-    textualProvenance
-}
-```
-
-This matters especially for the first uncontaminated moment. It is not outside
-causal law. It is produced through three admissible causes precisely because
-karmic maturation, the afflicted pervasive order, and prior homogeneous noble
-continuity cannot ground this first breakthrough. Path Knowledge appears as a
-new causal profile within the continuum.
-
-The textual layers remain distinct:
-
-```text
-kārikā
-    → four classes and ordered cause-exclusions
-
-Bhāṣya
-    → exact counts, residual-class definition,
-      and identification of first uncontaminated dharmas
-
-Organon reconstruction
-    → status-sensitive constraint engine with negative provenance
-```
-
-The next verse first qualifies the matrix by dharma domain and only then
-announces the four `pratyaya`.
-
-## 10. OWL++ Seed
-
-```ttl
-@prefix vak: <http://127.0.0.1:3000/vak#> .
-@prefix organon: <http://127.0.0.1:3000/organon#> .
-
-vak:AfflictedProfile a organon:HetuProfile ;
-    organon:excludesCause vak:MaturationCause ;
-    organon:hasAdmissibleCauseCount 5 .
-
-vak:MaturationBornProfile a organon:HetuProfile ;
-    organon:excludesCause vak:PervasiveCause ;
-    organon:hasAdmissibleCauseCount 5 .
-
-vak:ResidualProfile a organon:HetuProfile ;
-    organon:excludesCause vak:MaturationCause, vak:PervasiveCause ;
-    organon:hasAdmissibleCauseCount 4 .
-
-vak:FirstUncontaminatedProfile a organon:HetuProfile ;
-    organon:excludesCause vak:MaturationCause,
-        vak:PervasiveCause,
-        vak:HomogeneousCause ;
-    organon:hasAdmissibleCauseCount 3 .
-
-organon:HetuProfile a organon:CausalConstraintSchema .
-organon:excludesCause a organon:ObjectProperty .
-organon:hasAdmissibleCauseCount a organon:DatatypeProperty .
-organon:hasExclusionGround a organon:ObjectProperty .
-
-vak:FirstUncontaminatedOccurrence
-    organon:hasExclusionGround vak:NoPriorHomogeneousUncontaminatedOccurrence .
-
-organon:OcularHetuProfileSchema a organon:OcularSchema ;
-    organon:requires organon:ArisingClass,
-        organon:CompleteCauseInventory,
-        organon:ExcludedCauseTypes,
-        organon:AdmissibleCauseTypes,
-        organon:ExclusionGround,
-        organon:ProvenanceEvidence .
-```
+The first half of VAK 2.61 supplies that domain qualification. The next
+commentary unit begins at 98.03 with the question about the four conditions.
+The change is from classifying which causes contribute to arising to
+classifying conditional relations; the full definitions follow in the
+subsequent verses.

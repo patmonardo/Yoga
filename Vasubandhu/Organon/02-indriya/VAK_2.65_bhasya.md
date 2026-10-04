@@ -1,17 +1,17 @@
-# VAK_2.65 Bhāṣya — Elements and Derived Matter
+# VAK_2.65 Bhāṣya — Elements and Derived Form
 
 ## 1. Kārikā Anchor
 
 > dvidhā bhūtāni taddhetur bhautikasya tu pañcadhā /
 > tridhā bhautikam anyonyaṃ bhūtānām ekadhaiva tat // 2.65 //
 
-> The elements are causes of those elements in two ways, but of
-> derived matter in five. Derived matter is a cause of other derived
-> matter in three ways; of the elements, it is so in one way only.
+> The Elements are causes of those Elements in two ways, but of
+> derived Form in five. Derived Forms are causes of one another
+> in three ways; of the Elements, they are causes in one way only.
 
 The natural unit at 102.19–103.08 returns to the previous verse's
 statement that the remaining dharmas arise through two conditions.
-It specifies four directions of material causality. The next unit
+It specifies four directions of Form-causality. The next unit
 begins at 103.09 by asking which minds immediately follow which.
 
 ## 2. Continuous Sanskrit
@@ -44,49 +44,49 @@ begins at 103.09 by asking which minds immediately follow which.
 ## 3. Continuous Conventional Translation
 
 Enough of that discussion. As for what was said, “The others arise
-through two”: how are the elements cause-condition for the elements?
-“The elements are their cause in two ways.” This means cause of the
-elements: through homogeneous and co-arisen causes. “But of derived
-matter in five ways.” The elements are a cause of derived matter
+through two”: how are the Elements cause-condition for the Elements?
+“The Elements are their cause in two ways.” This means cause of the
+Elements: through homogeneous and co-arisen causes. “But of derived
+Form in five ways.” The Elements are a cause of derived Form
 in five ways. How? “Through generation, dependent support, foundation,
 sustaining, and increase.” This is precisely conditioning cause,
 subdivided into five.
 
-They are a generative cause because derived matter arises from them.
+They are a generative cause because derived Form arises from them.
 They are a dependent-support cause because, once arisen, it follows
-the elements, as a result of efficacy depends on a teacher and the
+the Elements, as a result of efficacy depends on a teacher and the
 like. They are a foundation cause because they serve as a basis,
 as in the case of a picture. They are a sustaining cause because
 they are a cause of non-interruption. Thus their being causes of
 birth, alteration, basis, persistence, and increase has been explained.
 
-“Derived matter [is a cause] of one another in three ways”: through
+“Derived Forms [are causes] of one another in three ways”: through
 co-arisen, homogeneous, and maturation causes. Conditioning cause is
 not always counted, because it applies without the relevant distinction.
 Here, bodily and verbal action that follows mind is mutually co-arisen
-cause; other derived matter is not. All previously arisen [derived
-matter] is homogeneous cause for similar [derived matter]. Maturation
+cause; other derived Form is not. All previously arisen [derived
+Form] is homogeneous cause for similar [derived Form]. Maturation
 cause is verbal action whose maturation consists of the eye and the
-other [faculties]. “Of the elements, it is so in one way only.” That
-derived matter is maturation cause alone for the elements: bodily
-and verbal action whose maturation consists of the elements.
+other [faculties]. “Of the Elements, it is so in one way only.” That
+derived Form is maturation cause alone for the Elements: bodily
+and verbal action whose maturation consists of the Elements.
 
 ## 4. What the Numbers Count
 
 | Direction | Counted determination |
 |---|---|
-| Elements → elements | Homogeneous and co-arisen causes: two cause-types |
-| Elements → derived matter | Five functions of conditioning cause |
-| Derived matter → derived matter | Co-arisen, homogeneous, and maturation causes: three cause-types |
-| Derived matter → elements | Maturation cause: one specifically counted cause-type |
+| Elements → Elements | Homogeneous and co-arisen causes: two cause-types |
+| Elements → derived Form | Five functions of conditioning cause |
+| Derived Form → derived Form | Co-arisen, homogeneous, and maturation causes: three cause-types |
+| Derived Form → Elements | Maturation cause: one specifically counted cause-type |
 
 The fivefold division does not identify five of the six causes with
-the elements' production of derived matter. The commentary explicitly
+the Elements' production of derived Form. The commentary explicitly
 calls it a subdivision of *kāraṇahetu*. That cause corresponds to
 predominant condition, whereas the other five causes were grouped
 under cause-condition in 2.61–2.62. The opening question about
 cause-condition is therefore followed by an account that also draws
-on the other condition relevant to matter.
+on the other condition relevant to derived Form.
 
 The statement that conditioning cause is not always counted is
 important for interpreting the restricted lists. “One way only” does
@@ -94,11 +94,11 @@ not abolish the general conditioning relation. The exposition sometimes
 omits that relation because it does not distinguish the particular
 cases, and elsewhere makes its functions the subject of analysis.
 
-The three relations among instances of derived matter likewise have
+The three relations among instances of derived Form likewise have
 different restrictions. Mutual co-arisen causality is explicitly limited
 to mind-following bodily and verbal action. Homogeneous causality
 requires prior arising and similarity. Maturation concerns action
-with a maturation-result, not any arbitrary material object.
+with a maturation-result, not any arbitrary instance of Form.
 
 ## 5. Five Functions, Four Separate Prose Definitions
 
@@ -109,8 +109,8 @@ alteration, basis, persistence, and increase. The local witness has
 no separate prose definition of the fifth function. The translation
 preserves that shape rather than inventing an additional sentence.
 
-Dependent support concerns the way already arisen derived matter
-follows the elements; the final summary associates it with alteration.
+Dependent support concerns the way already arisen derived Form
+follows the Elements; the final summary associates it with alteration.
 Foundation concerns serving as a basis. These are not two interchangeable
 English names for the same explanation. The teacher and picture
 analogies belong to those respective functions, although their wording
@@ -136,43 +136,29 @@ At 103.06 the source says *yasya vākkarmaṇaḥ*, “whose verbal action,”
 whereas the research English supplies bodily and verbal action. The
 continuous translation here retains verbal action. The following
 sentence explicitly gives *kāyavākkarmaṇaḥ*, bodily and verbal action,
-for maturation as elements. These two lines should not be silently
+for maturation as Elements. These two lines should not be silently
 made identical. Whether the shorter first reading reflects transcription
 loss remains open pending another witness.
 
-*Upādāyarūpa* is rendered “derived matter,” consistently with *bhautika*.
-“Appropriated matter” would obscure their local equivalence. The
+*Upādāyarūpa* is rendered “derived Form,” consistently with *bhautika*.
+“Appropriated Form” would obscure their local equivalence. The
 opening *gatam etat* dismisses the preceding discussion before returning
 to the condition count; it does not announce that the material-causality
 question has already been answered.
 
 ## 7. Philosophical and Organon Study
 
-As Organon interpretation, this passage teaches two distinctions needed
-to understand a causal account: the direction of the relation and
-the basis of its enumeration. The numbers two, five, three, and one
-are intelligible only after we identify both. Five functions of one
-cause are not five separate cause-types.
+**Organon interpretation—not literal Bhāṣya doctrine.** The differentiated
+causal relations of the Elements and derived Form articulate the side of
+Essence: Dharma's *sāra*, its intelligible theoretical determination.
+Loka:Karma is Appearance, the manifest empirical movement of the Bhava
+Chakra, related to but distinct from the Dharma Chakra. The material
+analysis is one articulation of that appearance's conditions, not a
+first-principle derivation or terminology asserted by the Bhāṣya.
 
-Derived matter can be a result in one relation and a cause in another.
-Yet this does not make every material thing a cause of every other
-thing in the same way. The commentary specifies the relevant similarity,
-co-arising, or maturation relation. Its account gains precision through
-those restrictions.
-
-Following the single-world-cause argument, the text returns to a
-particular unresolved question about material conditions. It does
-not derive matter from a first principle. A broader Organon study
-of material constitution and the later account of the world should
-build from these stated relations rather than replace them with
-an additional metaphysical derivation.
-
-As a separate Organon reading, faculties are Transcendental Time
-Determinations of Śuddha Sattva insofar as they disclose sensible capacity
-within material conditions; they are not another list of causes. Cognition
-names the universal determination of sensible knowing, while the particular
-Ideas are elemental and derived contents considered through their distinct
-support, continuity, and maturation relations.
+Derived Form can be a result in one relation and a cause in another,
+without every instance causing every other in the same way. The restrictions
+to co-arising, prior similarity, and maturation preserve those distinctions.
 
 ## 8. Review Status
 

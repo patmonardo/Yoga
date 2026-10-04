@@ -119,18 +119,12 @@ objector is introduced in this short expository unit.
 
 ## 7. Philosophical and Organon Study
 
-**Organon reading:** The twelve kinds distinguish particular
-Transcendental Time Determinations within the chapter's account of
-Cognition. Realm, ethical status, obscuration, and training status
-specify different modes of the continuum; they do not yet explain
-how one mode succeeds another. The classification prepares the
-succession inquiry without being mistaken for its completed answer.
-
-The distinction between universal Cognition and these particular
-determinations matters here: the twelvefold scheme articulates
-specific forms and statuses, not twelve universal Cognitions.
-Succession and its grounds must still be established by the following
-commentary.
+**Organon interpretation—not literal Bhāṣya doctrine.** This taxonomy
+remains within Vol. I's Essence-side inquiry: its distinctions furnish
+the determinate kinds needed for the following succession analysis. In
+our Hegelian framing, Vol. II's Loka:Karma is Appearance; this verse
+prepares, but does not itself cross, that transition. These are
+project-level placements, not claims made by the Bhāṣya.
 
 ## 8. Review Status
 

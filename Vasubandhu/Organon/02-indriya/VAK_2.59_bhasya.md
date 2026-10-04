@@ -219,23 +219,23 @@ means transformation; the source here does not explicitly repeat
 
 ## 9. Philosophical and Organon Study
 
-As Organon interpretation, the decisive distinction is between acquiring
-a determinate causal role and exercising it in relation to a result.
-The fourfold cases make those operations separable. Seed-language
-therefore specifies causal capacity without requiring the finished
-effect to pre-exist or promising its manifestation.
+In the Organon reading, “taking” and “giving” name distinct causal
+operations, but not a universal two-stage sequence: co-arisen and associated
+causes take and give in the same time, while other cause-types give under
+different temporal qualifications. Seed-status is a relation to a fruit,
+not a stored entity or a guarantee that the fruit must appear.
 
-Learning the causal account requires more than replacing “cause” with
-“seed.” One must determine the temporal status, the kind of result,
-and whether the example concerns taking, giving, or both. The source's
-corrections of its own acquisition examples model that precision.
+The fourfold examples test these distinctions against specific acquisitions,
+states, and mind-to-mind transitions. Their corrections are part of the
+argument, not dispensable illustrations. The four result-names attributed
+to other teachers remain an alternative classification, which this passage
+includes under operative efficacy and predominance.
 
-On the Organon reading, faculties are Transcendental Time Determinations of
-Śuddha Sattva: “taking” establishes a seed-capacity, and “giving” names its
-type-specific manifestation, with cause-conditions controlling the interval
-or succession between them. Cognition names the universal determination of
-causal knowing; the particular Idea is the result-profile, not a pre-existing
-finished effect.
+Following the project's Hub closure at 2.58, this unit closes the source's
+account of causes and fruits at 97.15. VAK 2.60 next continues the cause
+analysis by classifying dharmas according to how many causes produce them;
+the four *pratyayas* are taken up later. This is a source-sequence note, not
+a further claim made by the present kārikā.
 
 ## 10. Review Status
 

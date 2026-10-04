@@ -141,16 +141,13 @@ additional voices or unexpressed transition mechanisms.
 
 ## 7. Philosophical and Organon Study
 
-**Organon reading:** The closing profiles show temporal order to be
-asymmetric and content-specific: equal counts need not contain the
-same predecessors and successors. Trainee and beyond-training status
-further determine particular relations without reducing mind-
-succession to a person's enduring path-status.
-
-The twelve-kind account closes as one level of temporal determination.
-The next analysis refines these kinds into twenty; its finer relations
-must be established in their own right, not transferred automatically
-from this coarser scheme.
+**Organon interpretation—not literal Bhāṣya doctrine.** This closes the
+twelve-kind account, not the Indriya chapter: the next verse continues
+Vol. I by refining the kinds into twenty. In our connection to Hegel's
+Doctrine of Essence, this succession analysis remains on the Essence side;
+Vol. II's Loka:Karma is Appearance, a later transition after the chapter.
+The asymmetric profiles show that equal counts need not have the same
+members, and that path classification is not a person's permanent status.
 
 ## 8. Review Status
 

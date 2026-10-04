@@ -1,4 +1,4 @@
-# VAK_2.56
+# VAK_2.56 — Principal Fruits of the Six Causes
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -97,19 +97,17 @@ pauruṣa:
     manifestation of a dharma's operative efficacy
 ```
 
-**Organon interpretation—not literal Bhāṣya doctrine.** These fruit-types
-articulate distinct Transcendental Time Determinations of Śuddha Sattva:
-delayed individual maturation, present enabling or non-obstruction,
-same-kind continuation, and operative efficacy. A faculty is not
-interchangeable with a cause; rather, Cognition
-is the universal determination of knowing such relations, and each Idea is
-the particular fruit-profile disclosed through one of them.
+**Organon interpretation—not literal Bhāṣya doctrine.** The table assigns
+principal fruit-types but does not make each cause exclusive to one result.
+The Bhāṣya explicitly allows efficacy-fruit for other causes, while marking
+the temporal qualification and preserving the alternative concerning
+maturation cause.
 
 ## 7. Technical Vocabulary
 
 | Sanskrit | Controlled rendering | Determination in this unit |
 |---|---|---|
-| vipāka-phala | maturation-fruit | later, non-common result arising from a morally determinate cause |
+| vipāka-phala | maturation-fruit | principal fruit assigned here to maturation cause; its definition follows in VAK 2.57 |
 | adhipati-phala | fruit of predominance | result enabled, supported, directed, or permitted by conditioning cause |
 | niṣyanda-phala | homogeneous-outflow fruit | result similar to its cause in the relevant indexed respects |
 | pauruṣa-phala | fruit of efficacious activity | result of a dharma's operative function, normally simultaneous or immediately subsequent |
@@ -117,10 +115,6 @@ the particular fruit-profile disclosed through one of them.
 | vipāka-hetu | maturation cause | last member of the six-cause list |
 | kāraṇa-hetu | conditioning cause | first member of the six-cause list |
 | adhipati | predominance | ranges from non-obstruction to positive direct or indirect assistance |
-| sattvākhyā | associated with a sentient being | required individual-continuum status of strict maturation-fruit |
-| anivṛtāvyākṛta | unobscured-indeterminate | ethical status of maturation-fruit |
-| asādhāraṇa | non-common | individually appropriated and not experienced by another continuum |
-| sādhāraṇa-karma | common karma | cause of shared environmental or receptacle-world results |
 
 `Pauruṣa` should not be rendered simply as “human result.” The Bhāṣya marks
 the expression as figurative: it concerns operative efficacy analogous to a
@@ -176,148 +170,13 @@ An alternative view admits a distant fruit of activity for maturation cause,
 like crops as the fruit of a farmer's work. This is reported, not adopted as
 the principal definition.
 
-Strict maturation-fruit requires:
+The definitions of maturation-fruit and the detailed similarity
+distinctions are taken up in VAK 2.57, not in this source unit.
 
-```text
-UnobscuredIndeterminate(r)
-AND AssociatedWithSentientContinuum(r)
-AND ArisesLaterFromMorallyDeterminateCause(r, c)
-AND NonCommon(r)
-    → VipakaFruit(r, c)
-```
+## 9. Source Boundary and Relation to VAK 2.57
 
-Shared environment is distinguished:
-
-```text
-ProducedByCommonKarma(world)
-    → AdhipatiFruit(world)
-    AND Common(world)
-    AND NOT StrictIndividualVipakaFruit(world)
-```
-
-Similarity for homogeneous outflow is indexed:
-
-```text
-SabhagaHetu(c, r)
-    → SameRelevantType(c, r)
-
-SarvatragaHetu(c, r)
-    → SameLevel(c, r)
-    AND Afflicted(c)
-    AND Afflicted(r)
-    BUT MAYBE NOT SameSpecificAfflictionType(c, r)
-```
-
-## 9. Interpretive Note
-
-VAK 2.56 converts the cause inventory into a cause-fruit schema. The crucial
-advance is not that every input receives an output label. It is that each
-fruit expresses a different way in which causal ground becomes manifest.
-
-```text
-CauseOccurrence
-    → PrincipalFruitProfile
-    + AdditionalApplicableFruitProfiles
-    + TemporalRelation
-    + AppropriationScope
-    + SimilarityDimensions
-```
-
-That prevents two opposite errors. A one-to-one table would conceal the
-Bhāṣya's admission that several causes also exercise efficacious activity. A
-single generic `result` edge would erase the distinctions the table exists to
-establish.
-
-The `adhipati` discussion returns to the broad conditioning field:
-
-```text
-minimal predominance
-    = not blocking the arising
-
-positive predominance
-    = directly or indirectly assisting it
-```
-
-The ten Essences can predominate with respect to the five sensory
-cognitions; karma can predominate with respect to the shared receptacle-world;
-hearing can indirectly occasion the desire to see. Predominance is therefore
-an enabling topology, not merely efficient force.
-
-Maturation introduces individual appropriation. A strict maturation-fruit
-belongs to the sentient continuum whose morally determinate karma matured:
-
-```text
-AgentA's karma
-    → AgentA's non-common maturation
-
-AgentA's karma
-    ↛ AgentB's individual maturation
-```
-
-Common karma can nevertheless condition a shared world as a fruit of
-predominance. The Ocular Schema must distinguish private-continuum provenance
-from shared-environment provenance.
-
-The earlier software analogy also acquires a result-type layer:
-
-```text
-yield same causal kind      → niṣyanda
-return matured result       → vipāka
-enable another operation    → adhipati
-execute present function    → pauruṣa
-```
-
-These remain explanatory analogies. Their value is to prevent one software
-method named `cause()` from hiding four logically different manifestations.
-
-The textual layers are:
-
-```text
-kārikā
-    → assigns principal fruits to the six causes
-
-Bhāṣya
-    → qualifies the mapping, defines the four fruits,
-      distinguishes common and non-common results,
-      and indexes similarity
-
-Organon reconstruction
-    → requires a qualified many-to-many cause-fruit schema
-      with temporal, appropriation, and similarity profiles
-```
-
-## 10. OWL++ Seed
-
-```ttl
-@prefix vak: <http://127.0.0.1:3000/vak#> .
-@prefix organon: <http://127.0.0.1:3000/organon#> .
-
-vak:VipakaFruit a organon:FruitType .
-vak:AdhipatiFruit a organon:FruitType .
-vak:NisyandaFruit a organon:FruitType .
-vak:PaurushaFruit a organon:FruitType .
-
-vak:VipakaHetu organon:hasPrincipalFruitType vak:VipakaFruit .
-vak:KaranaHetu organon:hasPrincipalFruitType vak:AdhipatiFruit .
-vak:SabhagaHetu organon:hasPrincipalFruitType vak:NisyandaFruit .
-vak:SarvatragaHetu organon:hasPrincipalFruitType vak:NisyandaFruit .
-vak:SahabhuHetu organon:hasPrincipalFruitType vak:PaurushaFruit .
-vak:SamprayuktakaHetu organon:hasPrincipalFruitType vak:PaurushaFruit .
-
-organon:hasPrincipalFruitType a organon:ObjectProperty .
-organon:hasAdditionalFruitType a organon:ObjectProperty .
-organon:hasTemporalRelation a organon:ObjectProperty .
-organon:hasAppropriationScope a organon:ObjectProperty .
-organon:hasSimilarityProfile a organon:ObjectProperty .
-
-organon:IndividualMaturation a organon:NonCommonResult .
-organon:ReceptacleWorld a organon:CommonResult .
-
-organon:OcularCauseFruitSchema a organon:OcularSchema ;
-    organon:requires organon:CauseType,
-        organon:PrincipalFruitType,
-        organon:AdditionalFruitType,
-        organon:TemporalRelation,
-        organon:AppropriationScope,
-        organon:SimilarityProfile .
-```
+The Bhāṣya unit begins at 94.18 and ends at 95.08, after reporting the
+alternative that maturation cause may have a distant fruit of efficacy.
+At 95.09 the commentary begins defining the fruit-types; those definitions
+belong with VAK 2.57. The present verse assigns principal fruits and then
+qualifies, rather than closes, their distribution.

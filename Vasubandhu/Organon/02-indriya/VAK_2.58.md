@@ -1,4 +1,4 @@
-# VAK_2.58
+# VAK_2.58 — Efficacy and Predominance as Result-Relations
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -64,7 +64,8 @@ that
 The repeated `yat` has two functions: one refers to the arising result and
 the other, within `yad-balāt`, to the source through whose efficacy it arises.
 
-The second half defines dominant result through genitive relation:
+The second half defines the fruit of predominance through a genitive
+relation:
 
 ```text
 saṃskṛtasya eva [adhipateḥ]
@@ -73,7 +74,7 @@ saṃskṛtasya eva [adhipateḥ]
 
 relative to a conditioned predominant condition,
     a newly arisen conditioned dharma
-    → is its dominant result
+    → is its fruit of predominance
 ```
 
 The Bhāṣya interprets the result as a conditioned dharma other than what has
@@ -84,31 +85,29 @@ not an intrinsic label carried by the result in isolation.
 
 ### Close syntactic construe
 
-> Whatever result arises through the force of something is a result born of operative activity. A newly arisen conditioned dharma is the dominant result of a conditioned [predominant condition].
+> Whatever result arises through the force of something is a result born of operative activity. A conditioned dharma other than one previously arisen is the fruit of predominance of the conditioned alone.
 
 ### Bhāṣya-informed translation
 
-> When a result arises through a dharma's direct operative efficacy, it is that dharma's `puruṣakāraja` result. Any newly arisen conditioned dharma can be a dominant result relative to a conditioned factor that enables or governs its arising, even when that factor is not its direct agent. Analytical cessation is attained through the force of the Path but is not thereby converted into an ordinary conditioned production.
+> When a result arises through a dharma's force, it is a `puruṣakāraja` result relative to that agent. A conditioned dharma other than one previously arisen is the fruit of predominance of conditioned dharmas, including in relation to a non-agent. Analytical cessation is attained through the force of the Path, not produced as an ordinary conditioned result.
 
 ## 6. Philosophical Translation
 
-> One occurrence can be enclosed within two causal perspectives. Relative to the determination whose power actively produces it, the occurrence is an operative result. Relative to the wider field that enables, governs, or does not obstruct it, the same occurrence is a dominant result. Causal classification belongs to a specified relation, not to an isolated object.
+> One occurrence can stand in two distinct causal relations. Relative to the agent whose force brings it about, it is a result of operative activity; relative to a conditioned factor that is not its agent, it may be a fruit of predominance. Causal classification belongs to a specified relation, not to an isolated object.
 
 ```text
 direct productive efficacy
     → operative result
 
 wider enabling field
-    → dominant result
+    → fruit of predominance
 ```
 
-**Organon interpretation—not literal Bhāṣya doctrine.** The Transcendental
-Time Determination of Śuddha Sattva is the contrast between direct efficacy
-in an occurrence and the wider field that enables or does not obstruct it;
-the same result may
-stand in both relations. Cognition names the universal operative knowing,
-whereas the particular Idea is the result as conditioned by a specified
-source, scope, and attainment or production relation.
+**Organon interpretation—not literal Bhāṣya doctrine.** In our Hub reading,
+the two sections are Hetu and Pratyaya. The present verse does not name that
+dyad; it distinguishes a result of operative activity from a fruit of
+predominance and shows how one result can stand in both relations to its
+agent, but only in the latter relation to non-agents.
 
 ## 7. Technical Vocabulary
 
@@ -122,187 +121,60 @@ source, scope, and attainment or production relation.
 | apūrva | newly arisen / not previously present | relational novelty of the conditioned result |
 | saṃskṛta | conditioned | arising through causes and conditions |
 | adhipati | predominant condition | broader enabling, governing, assisting, or non-obstructive factor |
-| adhipati-phala | dominant result | newly arisen conditioned result relative to a predominant condition |
+| adhipati-phala | fruit of predominance | conditioned result relative to a conditioned predominant factor |
 | prāpyate | is attained | relation used by the Bhāṣya for analytical cessation through Path-force |
-| nirmāṇa-citta | mind of magical creation | cognition generated through the efficacy of meditative cognition |
+| nirmāṇa-citta | transformation-mind | generated through the efficacy of a meditative mind |
 
-`Puruṣakāra` names operative efficacy here. The Bhāṣya explains it through
-figurative attribution of activity to a dharma.
+`Puruṣakāra` names operative efficacy here, not the action of a permanent
+person. The preceding Bhāṣya explains its figurative attribution of activity
+to a dharma; this unit distinguishes the agent from a non-agent.
 
 `Apūrva` likewise does not establish absolute novelty. The result is new as
 this conditioned occurrence relative to what has already arisen.
 
 ## 8. Logical Determination
 
-Operative result is relationally defined:
+| Relation | Definition in this unit | Example |
+|---|---|---|
+| `puruṣakāraja-phala` | The result that arises through the force of its agent | The artisan's crafted work |
+| `adhipati-phala` | A newly arisen conditioned dharma as fruit of a conditioned factor's predominance | The work is also a fruit of predominance for the artisan, and only that for others |
 
-```text
-OperativeForce(x, y)
-AND ArisesThrough(y, x)
-    → PaurushaFruitOf(y, x)
-```
+The same result can therefore bear different causal classifications relative
+to different sources. The Path case is separately phrased as attainment:
+analytical cessation is attained through the Path's force, not described
+here as an ordinary conditioned product.
 
-The Bhāṣya gives three transformative examples:
+The Bhāṣya's other examples are the higher-level concentration arising
+through a lower-level application-mind, an uncontaminated state arising
+through a contaminated one, and a transformation-mind arising through a
+meditative mind. The term *samādhi* occurs in the first example; in this
+local passage it names a conditioned result, not by itself a general theory
+of synthesis.
 
-```text
-AppliedMind(LowerLevel)
-    → Concentration(HigherLevel)
+## 9. Hub Closure: Hetu and Pratyaya
 
-ContaminatedState
-    → UncontaminatedState
+The project's table of contents places this verse at the end of the Hub.
+That placement is an Organon structure: the kārikā itself does not formally
+divide the Hub into sections called *Hetu* and *Pratyaya*. Locally, it defines
+the result of operative efficacy and the fruit of predominance, then shows
+how one occurrence can be classified through distinct causal relations.
 
-MeditativeCitta
-    → NirmanaCitta
-```
+In our project-level synthesis, *Hetu* and *Pratyaya* are the Hub's two
+sections. *Hetu* is developed in Subjective Logic and returns in the second
+Objectivity model as teleological reflective cause. In Yoga, *Pratyaya* is
+the unity of the Concept in the Qualitative Syllogism. *Samādhi* combines
+Subjectivity and Objectivity. These are our comparative determinations, not
+terms or claims stated by this Bhāṣya.
 
-Dominant result has broader scope:
+The passage supplies limited textual anchors for that synthesis: applied
+mind gives rise to higher-level *samādhi*; the Path's force is said to attain
+cessation rather than produce it; and a crafted work is both kinds of result
+for its artisan but only a fruit of predominance for others. These examples
+make the causal relations explicit without identifying *puruṣakāra* and
+*adhipati* one-to-one with *Hetu* and *Pratyaya*. The Hub remains invariant,
+not a third causal factor.
 
-```text
-Conditioned(x)
-AND Conditioned(y)
-AND NewlyArisenRelativeTo(y, x)
-AND PredominantlyConditions(x, y)
-    → AdhipatiFruitOf(y, x)
-```
-
-Direct agency implies both relations in the artisan example:
-
-```text
-Artisan(a)
-AND Produces(a, artifact)
-    → PaurushaFruitOf(artifact, a)
-    AND AdhipatiFruitOf(artifact, a)
-```
-
-Broader conditioning without agency yields only predominance:
-
-```text
-Conditions(other, artifact)
-AND NOT Produces(other, artifact)
-    → AdhipatiFruitOf(artifact, other)
-    AND NOT PaurushaFruitOf(artifact, other)
-```
-
-Therefore result-type is cause-indexed:
-
-```text
-ResultType(result)
-    is incomplete
-
-ResultType(result, relativeToCause, causalRelation)
-    is determinate
-```
-
-The Path relation remains differentiated:
-
-```text
-PathForce
-    → Produces(ConditionedAcquisition)
-    AND Attains(AnalyticalCessation)
-
-NOT OrdinaryConditionedProduct(AnalyticalCessation)
-```
-
-## 9. Interpretive Note
-
-VAK 2.58 makes causal “agency” operational. The source counts as an agent
-because the result arises through its force. This is exactly the sort of
-distinction an Agent architecture must make:
-
-```text
-AgentRole {
-    operation,
-    operativeForce,
-    producedResult,
-    enablingConditions,
-    provenance
-}
-```
-
-Agency is a typed causal role within an occurrence. It should not be inferred
-from mere temporal priority, shared context, or ownership metadata.
-
-The cognitive examples are especially important. A lower-level applied mind
-can operate toward a higher concentration; a contaminated state can condition
-the emergence of an uncontaminated state; meditative Citta can generate a
-`nirmāṇa-citta`. These are transformations of conditioned cognitive capacity:
-
-```text
-Citta₁
-    + determinate operative efficacy
-    → Citta₂ with a new capacity or level
-```
-
-This gives `nirmāṇa-cittāni` a precise Kośa-Technē coordinate. Constructed
-Cittas are not merely imagined representations; the causal system asks what
-operative Citta and which enabling field generated them. The comparison with
-Yoga IV.4 belongs to the Organon layer, not to the kārikā's primary meaning.
-
-The artifact example shows why Ocular Schemas must be perspectival without
-becoming subjective:
-
-```text
-artifact relative to artisan
-    → operative result + dominant result
-
-artifact relative to other enabling factors
-    → dominant result only
-```
-
-The result has not changed; the specified causal relation has. A database
-field such as `resultType = operative` would therefore be malformed. The
-relation requires source, target, causal role, scope, and evidence.
-
-Finally, analytical cessation again marks the limit. It is attained through
-Path-force, but the Path does not produce it as an `apūrva saṃskṛta`. The
-schema must preserve `attains` separately from `productivelyCauses`.
-
-The textual layers are:
-
-```text
-kārikā
-    → defines operative and dominant fruits
-
-Bhāṣya
-    → supplies cognitive transformations,
-      Path-attainment, and agent/non-agent distinction
-
-Organon reconstruction
-    → models agency as a typed causal role
-      and relates nirmāṇa-citta to constructed Citta architecture
-```
-
-## 10. OWL++ Seed
-
-```ttl
-@prefix vak: <http://127.0.0.1:3000/vak#> .
-@prefix organon: <http://127.0.0.1:3000/organon#> .
-
-vak:PaurushaFruit a organon:RelationalFruitType .
-vak:AdhipatiFruit a organon:RelationalFruitType .
-
-organon:OperativeAgentRole a organon:CausalRole .
-organon:PredominantConditionRole a organon:CausalRole .
-organon:OperativeForce a organon:CausalEfficacy .
-organon:RelationalNovelty a organon:ResultCondition .
-
-organon:arisesThroughForceOf a organon:ObjectProperty .
-organon:isOperativeFruitOf a organon:ObjectProperty .
-organon:isDominantFruitOf a organon:ObjectProperty .
-organon:attains a organon:ObjectProperty .
-organon:productivelyCauses a organon:ObjectProperty .
-
-vak:NirmanaCitta a organon:ConstructedCitta .
-vak:MeditativeCitta organon:productivelyCauses vak:NirmanaCitta .
-
-organon:OcularCausalRoleSchema a organon:OcularSchema ;
-    organon:requires organon:SourceOccurrence,
-        organon:TargetOccurrence,
-        organon:CausalRole,
-        organon:OperativeForce,
-        organon:EnablingField,
-        organon:ProvenanceEvidence .
-
-vak:Path organon:attains vak:AnalyticalCessation .
-vak:Path organon:productivelyCauses vak:ConditionedAcquisition .
-```
+On this reading, Hegel and Yoga provide the Logic through which the System
+of Absolute Dharma Knowing can be articulated as studyable sciences. Each
+science must state its determinations and relations, while keeping textual
+translation distinct from the Organon's synthesis.

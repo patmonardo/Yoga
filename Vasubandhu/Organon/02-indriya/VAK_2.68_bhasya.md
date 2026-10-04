@@ -123,17 +123,13 @@ multiple simultaneous successors of one occurrence.
 
 ## 7. Philosophical and Organon Study
 
-**Organon reading:** Transformation-mind and rebirth determine
-different temporal paths through the same classified field. The
-particular transformation-mind case cannot be inferred from the
-general neutral kind alone; the commentary identifies the precise
-determination that enters this relation.
-
-The eleven-successor/nine-predecessor difference preserves direction.
-These are temporally ordered relations within universal Cognition,
-not an undirected association or a prediction that applies to every
-continuum. The Organon reading follows the Bhāṣya's named occasions
-and exclusions rather than extending them into an algorithm.
+**Organon interpretation—not literal Bhāṣya doctrine.** This remains
+Vol. I's Essence-side account: it specifies succession among determinate
+mind-kinds and the occasions that qualify their relations. In our
+connection to Hegel's Doctrine of Essence, Vol. II's Loka:Karma is
+Appearance; the 5/7 and 9/11 profiles prepare but do not themselves
+constitute that fuller Bhava-Chakra account. The directions and contexts
+remain distinct rather than forming an undirected association.
 
 ## 8. Review Status
 

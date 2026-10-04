@@ -8,19 +8,26 @@ The governing thesis is:
 
 > **Dharma-skandha is the scientific product in which Dharma comprehends itself as Skandha, Āyatana, and Dhātu.**
 
+The current project mapping is **Skandha = Base, Āyatana = Essence, and
+Dhātu = Principle**; *rūpa-skandha* is **Form Base**. Keep Dharma
+untranslated in the corresponding compounds: Dharma Base, Dharma Essence,
+and Dharma Principle. Older terminology elsewhere in this essay and in
+existing studies has not yet been globally reconciled; that inventory is
+deferred until the Indriyanirdeśa chapter is complete.
+
 ## 1. The Threefold Consideration of Dharma
 
 The Kośa does not present skandha, āyatana, and dhātu as three unrelated inventories. The same dharmas are reorganized according to three distinct systematic functions.
 
 ```text
 Dharma as Skandha
-    = constituted and gathered multiplicity
+    = Base: constituted and gathered multiplicity
 
 Dharma as Āyatana
-    = relational Essence of manifestation and cognition
+    = Essence: relational capacity/field of manifestation and cognition
 
 Dharma as Dhātu
-    = principial domain within the complete system
+    = Principle: differentiated determination within the complete system
 ```
 
 The movement can be provisionally expressed as:
@@ -31,7 +38,9 @@ aggregation
     → systematic determination
 ```
 
-This sequence is not imposed by attaching foreign labels to Buddhist lists. It must be inferred through the Kośa's explicit cross-mappings. The same vijñānaskandha, for example, is considered as mana-āyatana in the Essence-system and as six vijñāna-dhātus together with manodhātu in the Domain-system.
+This sequence is not imposed by attaching foreign labels to Buddhist lists. It must be inferred through the Kośa's explicit cross-mappings. The same vijñānaskandha, for example, is considered as mana-āyatana in the
+Essence-system and as six vijñāna-dhātus together with manodhātu in the
+Principle-system.
 
 The Concept of Dharma is therefore:
 
@@ -41,9 +50,14 @@ The Concept of Dharma is therefore:
 
 Each term preserves a necessary standpoint. Science is not any one member taken in isolation; it is their comprehended movement and coordination.
 
-## 2. Dharma Is Essence and Reflection
+## 2. Dharma's Essence and Reflection
 
-For the Organon, **Dharma is Essence**. Essence is not an inert interior hidden behind appearance. It is Reflection: determination becoming what it is through relation, distinction, manifestation, and return into intelligible unity.
+For the Organon, **Essence is Dharma's *sāra***, its theoretical principle.
+This is a project-level determination, not a claim that *āyatana* is
+etymologically or conventionally translated as *sāra*. Essence is not an
+inert interior hidden behind appearance. It is Reflection: determination
+becoming what it is through relation, distinction, manifestation, and return
+into intelligible unity.
 
 ```text
 immediate determination

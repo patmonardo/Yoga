@@ -101,14 +101,13 @@ This is a commentary-informed study formulation. It preserves the
 local critique without making sequence itself an agent or replacing
 the condition counts with a universal formula for cognition.
 
-**Organon interpretation—not literal Bhāṣya doctrine.** The attainments
-show how faculties as Transcendental Time Determinations of Śuddha Sattva
-articulate a distinctive temporal profile: mental preparation precedes
-them, yet their objectless cessation interrupts mental occurrence.
-Facultyhood here is the power to determine those different conditions and
-limits, not a universal biography of cognition. Cognition names the universal knowing
-form; the Ideas are the particular conditioned dharmas, attainments, and
-single-world-cause claim being tested.
+**Organon interpretation—not literal Bhāṣya doctrine.** The condition
+profiles articulate conditional relations on the side of Essence.
+Loka:Karma is Appearance: the Bhava Chakra's manifest empirical movement,
+related to but distinct from the Dharma Chakra. The argument against one
+world-cause can be read as rejecting a single, undifferentiated ground for
+Appearance; this project-level reading does not collapse the distinct
+causes, conditions, and karma claim into one principle.
 
 ## 7. Technical Vocabulary
 
@@ -188,58 +187,19 @@ collation before a critical continuous translation can be finalized.
 The present study relies on the clear argumentative distinctions rather
 than silently repairing every phrase.
 
-**Organon interpretation.** The unit advances learning by distinguishing
-relations that a general claim of dependence leaves unresolved. The
-attainments depend on a mental antecedent without themselves providing
-the same kind of antecedence. Succession supplies a test of explanatory
-adequacy rather than a fifth condition. In both cases, naming the
-relation is only the beginning of understanding its direction and scope.
+**Organon interpretation—not literal Bhāṣya doctrine.** The condition
+profiles articulate Essence; the debate tests whether one cause can account
+for the differentiated, sequential Appearance of the world. In the project's
+architecture, Loka:Karma is Appearance, the Bhava Chakra, related to but
+not collapsed into the Dharma Chakra.
 
-This gives our inquiry into mediation a concrete demand: explain the
-differences among conditioned occurrences. A proposed universal principle
-must do more than collect those differences under one name. Any further
-comparison with genus, reflection, or Samādhi remains Organon work,
-not a replacement for the source's determinations.
+The closing karma statement concerns beings' births and maturation-fruits;
+it does not reduce all conditioned relations or all physical events to karma.
+The two attainments supply condition-profiles, not a definition of Samādhi.
+That more definitional approach belongs to the project's Yoga Dharmapada
+study of YS-IV, not to this translation.
 
 **Review status.** Provisional polished study, checked against the
 kārikā and research Bhāṣya and the running source at 101.07–102.18.
 Original witnesses remain unchanged. VAK 2.65 returns to material
 causality, distinguishing great elements and derived matter.
-
-## 10. OWL++ Seed
-
-```ttl
-@prefix vak: <http://127.0.0.1:3000/vak#> .
-@prefix organon: <http://127.0.0.1:3000/organon#> .
-@prefix owl: <http://www.w3.org/2002/07/owl#> .
-
-organon:requiresConditionType a owl:ObjectProperty .
-organon:excludesConditionType a owl:ObjectProperty .
-organon:hasConditionTypeCount a owl:DatatypeProperty .
-organon:doesNotSupplyConditionType a owl:ObjectProperty .
-
-vak:MindAndMentalFactorProfile
-    organon:requiresConditionType vak:CauseCondition,
-        vak:ImmediatelyAntecedentCondition,
-        vak:ObjectCondition, vak:PredominantCondition ;
-    organon:hasConditionTypeCount 4 .
-
-vak:TwoAttainmentsProfile
-    organon:requiresConditionType vak:CauseCondition,
-        vak:ImmediatelyAntecedentCondition, vak:PredominantCondition ;
-    organon:excludesConditionType vak:ObjectCondition ;
-    organon:doesNotSupplyConditionType vak:ImmediatelyAntecedentCondition ;
-    organon:hasConditionTypeCount 3 .
-
-vak:RemainingNonMentalProfile
-    organon:requiresConditionType vak:CauseCondition,
-        vak:PredominantCondition ;
-    organon:excludesConditionType vak:ImmediatelyAntecedentCondition,
-        vak:ObjectCondition ;
-    organon:hasConditionTypeCount 2 .
-```
-
-This project representation distinguishes requiring a condition from
-supplying it. Counts concern condition-types, not numbers of causes
-within cause-condition. The recorded exclusions require explicit
-validation; custom predicates alone do not enforce them in OWL.

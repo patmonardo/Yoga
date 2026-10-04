@@ -473,12 +473,11 @@ is truthfully known. This supports our inquiry into learning without
 settling the ontology in advance. The text preserves opposed accounts
 of precisely those questions.
 
-On the Organon reading, faculties are Transcendental Time Determinations of
-Śuddha Sattva within conditioned operation: the Path transforms a support
-and prevents renewed affliction, but does not manufacture the unconditioned
-as a later event. Cognition names the universal knowing determination; the
-particular Idea is liberation as accounted for by the opposing positions,
-whose ontological disagreement remains open.
+On the Organon reading, this unit distinguishes two efficacies of the Path:
+it produces conditioned acquisition, while disconnection is its fruit
+without being produced as a conditioned event. This project-level synthesis
+does not settle the Bhāṣya's disagreement over whether disconnection is a
+distinct real entity or non-arising understood through its causes.
 
 ## 10. Review Status
 

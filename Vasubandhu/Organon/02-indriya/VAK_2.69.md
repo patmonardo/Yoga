@@ -172,49 +172,15 @@ antecedent of *tasya* is determinate. The research kārikā's “thus in
 the formless realm; its rule again from the wholesome” obscures both
 that reference and the new unfinished clause.
 
-**Organon interpretation.** The repeated unobscured rule is a recurring
-temporal determination whose members must be specified anew in each realm.
-A repeated count does not make the underlying succession identical:
-scope and realm determine which particular modes are related.
-
-The realm-specific sets constrain transfer. This is an articulation of
-universal Cognition's temporal relations, not an executable grammar for
-predicting an individual's next state.
+**Organon interpretation—not literal Bhāṣya doctrine.** The recurring
+three/six rule remains within Vol. I's Essence-side inquiry, but its
+members are specified anew in each realm. In our connection to Hegel's
+Doctrine of Essence, Vol. II's Loka:Karma is Appearance. The repeated
+count does not make the underlying relations identical, nor do these
+local profiles alone constitute the fuller Appearance account.
 
 **Review status.** Provisional polished study checked against the research
 kārikā, research Bhāṣya, and running Sanskrit at 104.22–105.07. Counts,
 member lists, and the cross-verse construction are resolved. Original
 witnesses remain unchanged. VAK 2.70 supplies the formless-wholesome
 count and continues to the uncontaminated kinds.
-
-## 10. OWL++ Seed
-
-```ttl
-@prefix vak: <http://127.0.0.1:3000/vak#> .
-@prefix organon: <http://127.0.0.1:3000/organon#> .
-@prefix owl: <http://www.w3.org/2002/07/owl#> .
-
-organon:hasPredecessorKind a owl:ObjectProperty .
-organon:hasSuccessorKind a owl:ObjectProperty .
-
-vak:FormUnobscuredIndeterminate
-    organon:hasPredecessorKind vak:FormWholesome,
-        vak:FormObscuredIndeterminate, vak:FormUnobscuredIndeterminate ;
-    organon:hasSuccessorKind vak:FormWholesome,
-        vak:FormObscuredIndeterminate, vak:FormUnobscuredIndeterminate,
-        vak:DesireUnwholesome, vak:DesireObscuredIndeterminate,
-        vak:FormlessObscuredIndeterminate .
-
-vak:FormlessUnobscuredIndeterminate
-    organon:hasPredecessorKind vak:FormlessWholesome,
-        vak:FormlessObscuredIndeterminate, vak:FormlessUnobscuredIndeterminate ;
-    organon:hasSuccessorKind vak:FormlessWholesome,
-        vak:FormlessObscuredIndeterminate, vak:FormlessUnobscuredIndeterminate,
-        vak:DesireUnwholesome, vak:DesireObscuredIndeterminate,
-        vak:FormObscuredIndeterminate .
-```
-
-This project seed records the two corresponding three/six profiles
-with distinct members. It is a partial representation of the study,
-not an unrestricted rule copying every relation between realms.
-Individual applicability still requires the relevant transition context.

@@ -111,14 +111,10 @@ This is a commentary-informed study formulation. “Ceasing” here does
 not make the two simultaneous causes agents that destroy their result.
 Their result is present and directed toward cessation.
 
-**Organon interpretation—not literal Bhāṣya doctrine.** Faculties are
-Transcendental Time Determinations of Śuddha Sattva: a condition's activity
-is indexed to the state of the dharma it conditions: co-arisen
-efficacy concerns a present result; succession opens for a next cognition;
-object-conditioning serves present apprehension; predominance prevents
-obstruction. These are temporal determinations, not spatial displacement
-or clock intervals. Cognition is the universal act-form; the particular
-Idea is the object or result in the state specified by the relation.
+**Organon interpretation—not literal Bhāṣya doctrine.** The activity
+of each condition is specified relative to a state of the conditioned
+dharma; this further articulates conditional relations on the side of
+Essence.
 
 ## 7. Technical Vocabulary
 
@@ -183,58 +179,21 @@ by another. The running transcription includes *dvī hetū*,
 *varktamānam*, and *samantarapratyaya*; their context is clear, but no
 independent corrected edition is asserted here.
 
-**Organon interpretation.** This verse sharpens our question about
-grounds and conditions. It adds the state of the conditioned term to
-the identification of the conditioning relation. Knowing that a cause
-is homogeneous or that a dharma is an object is not yet the same as
-knowing how that relation operates in the occurrence being explained.
+**Organon interpretation—not literal Bhāṣya doctrine.** *Kāritra*
+further specifies the conditional relations on the side of Essence:
+it shows the state of the conditioned dharma in relation to which
+each condition operates. Loka:Karma is Appearance, the manifest
+empirical movement of the Bhava Chakra. These are related but distinct
+movements; the verse does not state this project-level terminology.
 
-The distinction between opening for succession and present apprehension
-is especially useful: what allows the next cognitive event and what
-that event apprehends are different determinations. Their articulation
-can inform an inquiry into synthesis. The source does not itself
-identify this articulation with Samādhi or divide the six causes and
-four conditions into exclusively objective and subjective domains.
+The distinction between giving an opening for succession and present
+apprehension separates two determinations; neither substitutes for the
+other. This unit does not define Samādhi. The project's more definitional
+approach belongs to Yoga Dharmapada (YS-IV), not to this verse's
+analysis of conditional activity.
 
 **Review status.** Provisional polished study, checked against the
 kārikā and research Bhāṣya and the running commentary through 101.06.
 The first-pass broken sentence has been corrected, and the formerly
 unspecified counts are resolved. Original witnesses remain unchanged.
 VAK 2.64 next asks how many conditions produce the different dharmas.
-
-## 10. OWL++ Seed
-
-```ttl
-@prefix vak: <http://127.0.0.1:3000/vak#> .
-@prefix organon: <http://127.0.0.1:3000/organon#> .
-@prefix owl: <http://www.w3.org/2002/07/owl#> .
-
-organon:operatesWithRespectTo a owl:ObjectProperty .
-organon:hasModeOfActivity a owl:ObjectProperty .
-
-vak:CoArisenCause organon:operatesWithRespectTo
-    vak:PresentCessationDirectedDharma .
-vak:AssociatedCause organon:operatesWithRespectTo
-    vak:PresentCessationDirectedDharma .
-
-vak:HomogeneousCause organon:operatesWithRespectTo
-    vak:FutureArisingDirectedDharma .
-vak:PervasiveCause organon:operatesWithRespectTo
-    vak:FutureArisingDirectedDharma .
-vak:MaturationCause organon:operatesWithRespectTo
-    vak:FutureArisingDirectedDharma .
-
-vak:ImmediatelyAntecedentCondition
-    organon:operatesWithRespectTo vak:FutureArisingDirectedDharma ;
-    organon:hasModeOfActivity vak:GivingAnOpening .
-vak:ObjectCondition
-    organon:operatesWithRespectTo vak:PresentCessationDirectedDharma ;
-    organon:hasModeOfActivity vak:PresentObjectApprehension .
-vak:PredominantCondition
-    organon:operatesWithRespectTo vak:EveryState ;
-    organon:hasModeOfActivity vak:NonObstruction .
-```
-
-This project seed records the state of the target dharma. It assigns
-no temporal state to the source cause merely from its target-state
-relation. It is a study representation, not an executable causal model.

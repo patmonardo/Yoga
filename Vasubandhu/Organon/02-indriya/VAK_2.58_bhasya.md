@@ -1,4 +1,4 @@
-# VAK_2.58 Bhāṣya — Efficacy, Attainment, and Predominant Result
+# VAK_2.58 Bhāṣya — Efficacy, Attainment, and Fruit of Predominance
 
 ## 1. Kārikā Anchor
 
@@ -6,7 +6,7 @@
 > apūrvaḥ saṃskṛtasyaiva saṃskṛto 'dhipateḥ phalam // 2.58 //
 
 > Whatever arises through something's power is its result of efficacy.
-> A conditioned dharma not earlier arisen is the predominant result
+> A conditioned dharma not earlier arisen is the fruit of predominance
 > of the conditioned alone.
 
 The short unit at 96.03–10 completes the definitions of results. The
@@ -34,17 +34,17 @@ of a contaminated one; and a transformation-mind of a concentration-mind.
 Other cases are similar. For cessation through discrimination, however,
 one must say, “that which is attained through its power.”
 
-“A conditioned dharma not earlier arisen is the predominant result
+“A conditioned dharma not earlier arisen is the fruit of predominance
 of the conditioned alone.” A conditioned dharma other than one that
-arose earlier is the predominant result of every conditioned dharma
+arose earlier is the fruit of predominance of every conditioned dharma
 [relative to which it has not arisen earlier].
 
-What is the distinction between result of efficacy and predominant
-result? It is a result of efficacy in relation to the agent; it is
-a predominant result even in relation to a non-agent. For example,
-a crafted work is both a result of efficacy and a predominant result
+What is the distinction between result of efficacy and fruit of
+predominance? It is a result of efficacy in relation to the agent; it is
+a fruit of predominance even in relation to a non-agent. For example,
+a crafted work is both a result of efficacy and a fruit of predominance
 in relation to its artisan; in relation to others, it is only a
-predominant result.
+fruit of predominance.
 
 ## 4. Arising Through Power
 
@@ -72,11 +72,11 @@ cessation previously presented. It specifies how the result-language
 must be construed in this case. Neither a new substance nor a new
 event of absence should be silently inserted into the translation.
 
-## 6. The Temporal Scope of Predominant Result
+## 6. The Temporal Scope of the Fruit of Predominance
 
 *Apūrva* is explained as excluding what arose earlier. Its force is
 relative to the conditioned dharma being considered as cause: an
-already earlier occurrence is not its predominant result. “New”
+already earlier occurrence is not its fruit of predominance. “New”
 alone would obscure this relation, and “strictly later” would add
 a restriction the local gloss does not state.
 
@@ -89,7 +89,7 @@ a result of its own. The present sentence does not revoke that distinction.
 
 The artisan example establishes that result-status depends upon a
 relation. The same work is a result of efficacy and a predominant
-result relative to its producer, while it is only a predominant result
+result relative to its producer, while it is only a fruit of predominance
 relative to the others in the example. The latter designation does
 not attribute the artisan's productive agency to them.
 
@@ -106,7 +106,7 @@ with the other labels. The lexical reading *yadvalāt* is construed as
 *yad-balāt*, “through whose power”; no Sanskrit rewriting is imposed.
 
 “Concentration” in the elliptical second example and the relational
-qualification in the predominant-result sentence are supplied visibly.
+qualification in the fruit-of-predominance sentence are supplied visibly.
 The research translation's “different from one that has already arisen”
 can suggest mere numerical difference; the source's gloss instead
 excludes prior arising in the relevant causal relation.
@@ -120,23 +120,25 @@ established rendering “transformation-mind.”
 
 ## 9. Philosophical and Organon Study
 
-As Organon interpretation, the unit teaches that the result cannot be
-fully understood by assigning it a single isolated label. One must
-identify whose efficacy is in question, whether the relation is broader
-predominance, and whether the result arises or is attained.
+The local Bhāṣya distinguishes the agent's operative efficacy from the
+broader relation of predominance: the artisan's work is both kinds of result
+for the artisan, but only a fruit of predominance for others. The Path
+example adds a separate distinction between producing a conditioned result
+and attaining analytical cessation.
 
-This gives the inquiry into grounds a precise task. The artisan and
-others may all enter an account of the work, but their relations are
-not interchangeable. Likewise, the path's efficacy concerning cessation
-must be understood through attainment. These distinctions advance
-learning without requiring a general claim that every effect already
-exists in its cause.
+In the project's Hub reading, *Hetu* and *Pratyaya* are the two organizing
+sections, and this verse closes the Hub according to the project's table of
+contents. The Bhāṣya itself does not name those sections; its local terms are
+the result of operative activity and the fruit of predominance.
 
-On the Organon reading, faculties are Transcendental Time Determinations of
-Śuddha Sattva: operative production and wider predominance can converge on
-one result without becoming one relation. Cognition is the universal
-operative form of knowing; the particular Idea is that result considered
-through its direct source, enabling field, and mode of attainment or arising.
+The wider synthesis is project-level: Hegel's Subjective Logic develops
+*Hetu*, which returns in the second Objectivity model as teleological
+reflective cause; Yoga's *Pratyaya* is the unity of the Concept in the
+Qualitative Syllogism; and *Samādhi* combines Subjectivity and Objectivity.
+The conditioned *samādhi* in this Bhāṣya gives a local point of contact, not
+a textual equation with that synthesis. The aim is to articulate the System
+of Absolute Dharma Knowing as studyable sciences while keeping that
+interpretation separate from translation.
 
 ## 10. Review Status
 

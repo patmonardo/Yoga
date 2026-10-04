@@ -49,13 +49,13 @@ efficacy and predominance continue in VAK 2.58.
 
 ## 3. Continuous Conventional Translation
 
-What is this maturation-result, and what are the others through
-predominant result? “Maturation is an indeterminate dharma.” A
+What is meant by maturation-result, and what are the other results,
+through the predominance-result? “Maturation is an indeterminate dharma.” A
 maturation is an unobscured-indeterminate dharma. But this could
 also include something not associated with a sentient being;
 therefore it says, “associated with a sentient being.” This could
-also include something produced through increase or a homogeneous
-outflow; therefore it says, “arising from what is determinate.”
+also include a result of increase or a homogeneous outflow; therefore
+it says, “arising from what is determinate.”
 Wholesome and unwholesome dharmas are determinate because they
 are specified with respect to maturation. What arises from them
 at a later time, neither simultaneously nor immediately afterward,
@@ -99,9 +99,8 @@ The cause is wholesome or unwholesome; the maturation-result is
 unobscured-indeterminate. Their ethical predicates differ. The
 result's indeterminacy does not erase the ethical determination
 of its cause, and being indeterminate does not make every such
-dharma a maturation-result. *Aupacayika*, produced through increase,
-can include growth through nourishment; the source uses the more
-general category here.
+dharma a maturation-result. *Aupacayika* names production through
+increase; the passage does not specify a particular means of increase.
 
 ## 5. Shared Results and Individual Maturation
 
@@ -177,25 +176,15 @@ opens this unit, but the remaining definitions belong to VAK 2.58.
 
 ## 9. Philosophical and Organon Study
 
-As Organon interpretation, the commentary teaches how a definition
-becomes adequate through counterexamples. A neutral result, a result
-within a living continuum, and a karmically produced result are each
-insufficient descriptions until their relations are distinguished.
-The similarity argument performs the same work: resemblance must
-be specified by the respect in which it holds.
+The Organon reading preserves three distinct criteria in the Bhāṣya:
+ethical status, temporal and sentient-continuum conditions for maturation;
+the respect in which a result resembles its cause; and cessation through
+wisdom. It does not reduce these to one generic result-relation.
 
-This gives a concrete discipline to our inquiry into learning.
-Knowing the result-name is a beginning; understanding requires
-being able to distinguish its application from neighboring cases.
-Disconnection then requires a further distinction, since knowing
-through wisdom is related to a result whose account cannot simply
-be borrowed from produced maturation.
-
-On the Organon reading, faculties are Transcendental Time Determinations of
-Śuddha Sattva across delay, same-kind continuation, and the exhaustion of
-bondage. Cognition names the universal discriminative determination; the
-particular Idea is the bond whose recurrence ceases. This interpretive
-coordination does not turn the Bhāṣya's `dhī` into `prajñā`.
+The final distinction also remains bounded by the text: the Bhāṣya glosses
+`dhī` as `prajñā` and identifies the result as analytical cessation. It does
+not explain a mechanism by which wisdom produces cessation or settle the
+earlier dispute about the unconditioned.
 
 ## 10. Review Status
 

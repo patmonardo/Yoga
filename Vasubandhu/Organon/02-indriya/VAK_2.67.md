@@ -184,61 +184,18 @@ or a distinct thirteenth mind-kind. The designation of higher-realm
 obscured minds remains ethically indeterminate; “afflicted” does not
 convert them into unwholesome minds forbidden by 2.66.
 
-**Organon interpretation.** The twelve kinds now enter directed temporal
-relations. Attainment, emergence, and rebirth are distinct contexts in which
-a particular mode of Cognition succeeds another; they are not interchangeable
-clock-time markers. The eight-predecessor and nine-successor counts make
-direction essential: the outgoing determination cannot be inferred by
-reversing the incoming list.
-
-These relations articulate how particular determinations move within
-universal Cognition. Their stated occasions constrain the succession; the
-counts do not constitute a universal biography or unrestricted transition
-rule.
+**Organon interpretation—not literal Bhāṣya doctrine.** This succession
+analysis remains within Vol. I's Essence-side inquiry: it determines how
+the twelve mind-kinds stand in immediate relations, with direction and
+occasion kept distinct. In our connection to Hegel's Doctrine of Essence,
+Vol. II's Loka:Karma is Appearance. Attainment, emergence, and rebirth
+are local contexts in the succession analysis; they do not by themselves
+constitute the later
+Bhava-Chakra account. The counts constrain possible transitions rather
+than give a universal or unrestricted transition rule.
 
 **Review status.** Provisional polished study checked against the research
 kārikā, research Bhāṣya, and running Sanskrit at 103.19–104.08. The counts
 and their named members agree. Originals remain unchanged. VAK 2.68
 continues with desire-realm unobscured-indeterminate and form-realm
 wholesome mind.
-
-## 10. OWL++ Seed
-
-```ttl
-@prefix vak: <http://127.0.0.1:3000/vak#> .
-@prefix organon: <http://127.0.0.1:3000/organon#> .
-@prefix owl: <http://www.w3.org/2002/07/owl#> .
-
-organon:hasSuccessorKind a owl:ObjectProperty .
-organon:hasPredecessorKind a owl:ObjectProperty .
-organon:sourceKind a owl:ObjectProperty .
-organon:targetKind a owl:ObjectProperty .
-organon:transitionContext a owl:ObjectProperty .
-
-vak:DesireWholesome
-    organon:hasSuccessorKind vak:DesireWholesome,
-        vak:DesireUnwholesome, vak:DesireObscuredIndeterminate,
-        vak:DesireUnobscuredIndeterminate, vak:FormWholesome,
-        vak:FormObscuredIndeterminate, vak:FormlessObscuredIndeterminate,
-        vak:TraineeMind, vak:BeyondTrainingMind ;
-    organon:hasPredecessorKind vak:DesireWholesome,
-        vak:DesireUnwholesome, vak:DesireObscuredIndeterminate,
-        vak:DesireUnobscuredIndeterminate, vak:FormWholesome,
-        vak:FormObscuredIndeterminate, vak:TraineeMind,
-        vak:BeyondTrainingMind .
-
-vak:DesireWholesomeToFormWholesome
-    organon:sourceKind vak:DesireWholesome ;
-    organon:targetKind vak:FormWholesome ;
-    organon:transitionContext vak:EntryIntoAttainment .
-
-vak:DesireWholesomeToFormlessObscured
-    organon:sourceKind vak:DesireWholesome ;
-    organon:targetKind vak:FormlessObscuredIndeterminate ;
-    organon:transitionContext vak:RebirthLinking .
-```
-
-This project seed illustrates the nine/eight relation and two contextual
-cases. It is not the complete twelve-kind transition system. Its edges
-express admissibility by kind, not necessity for every occurrence or
-an individual's unrestricted ability to realize every listed transition.

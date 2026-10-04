@@ -240,31 +240,18 @@ it should not be confused with the capitalized *Puruṣa* named earlier.
 
 ## 7. Philosophical and Organon Study
 
-As Organon interpretation, the condition profiles and the succession
-argument share a demand for determinate explanation. A general name
-for a cause does not yet explain why this kind of event has these
-relations, or why one result occurs before another. The exposition
-makes those differences explicit and asks whether the proposed cause
-accounts for them.
+**Organon interpretation—not literal Bhāṣya doctrine.** The differentiated
+condition profiles articulate Essence: the relational determination of how
+each kind of dharma arises. The argument against a single world-cause tests
+whether one cause can account for the plurality and succession disclosed
+in Appearance. In the project's architecture, Loka:Karma is Appearance
+(Bhava Chakra), related to but distinct from the Dharma Chakra.
 
-For our inquiry into grounds and conditions, the attainments provide
-a particularly precise case. They arise through mental preparation
-while interrupting mental occurrence. Their dependence, their lack
-of an object, and their obstruction of mind are different determinations
-that must be held together. Calling them simply a break in cognition
-would omit what the commentary has explained.
-
-A comparison with mediation or synthesis can build on these articulated
-relations. It remains a further Organon inquiry, rather than a replacement
-for the source's condition counts or an attribution of Samādhi as their
-philosophical unity to Vasubandhu.
-
-As a separate Organon reading, faculties are Transcendental Time
-Determinations of Śuddha Sattva: antecedent mental preparation can condition
-an attainment whose operation interrupts mental succession and lacks an
-object-condition. Cognition names the universal knowing determination; the
-particular Ideas are the different condition-profiles and attainments, not
-one linear sequence of cognitive states.
+The closing karma statement is limited to beings' births and maturation-
+fruits; it does not make karma the sole explanation of every event. The
+attainments' condition profiles are not a definition of Samādhi. That more
+definitional approach belongs to the project's Yoga Dharmapada study of
+YS-IV. This synthesis is project-level, not the commentary's vocabulary.
 
 ## 8. Review Status
 

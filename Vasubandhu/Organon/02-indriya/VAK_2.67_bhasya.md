@@ -142,17 +142,15 @@ the source's “arise”; the analysis makes this scope explicit.
 
 ## 7. Philosophical and Organon Study
 
-**Organon reading:** The twelve kinds now enter directed temporal
-relations. Attainment, emergence, and rebirth are distinct contexts
-in which a particular mode of Cognition succeeds another; they are
-not interchangeable clock-time markers. The eight-predecessor and
-nine-successor counts make direction essential: the outgoing
-determination cannot be inferred by reversing the incoming list.
-
-These relations articulate how particular determinations move within
-universal Cognition. Their stated occasions constrain the succession;
-the counts do not constitute a universal biography or unrestricted
-transition rule.
+**Organon interpretation—not literal Bhāṣya doctrine.** This succession
+analysis remains within Vol. I's Essence-side inquiry: it determines how
+the twelve mind-kinds stand in immediate relations, with direction and
+occasion kept distinct. In our connection to Hegel's Doctrine of Essence,
+Vol. II's Loka:Karma is Appearance. Attainment, emergence, and rebirth
+are local contexts in the succession analysis; they do not by themselves
+constitute the later
+Bhava-Chakra account. The counts constrain possible transitions rather
+than give a universal or unrestricted transition rule.
 
 ## 8. Review Status
 

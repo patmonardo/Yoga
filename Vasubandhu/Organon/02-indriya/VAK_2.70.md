@@ -195,57 +195,16 @@ clear. These irregularities do not warrant inventing an additional kind.
 The reading of *ṣaṇṇām* remains grammatically marked as genitive, with
 its intended relation clarified by prose rather than silently emended.
 
-**Organon interpretation.** The closing profiles show temporal order to
-be asymmetric and content-specific: equal counts need not contain the
-same predecessors and successors. Trainee and beyond-training status
-further determine particular relations without reducing mind-succession
-to a person's enduring path-status.
-
-The twelve-kind account closes as one level of temporal determination.
-The next analysis refines these kinds into twenty; its finer relations
-must be established in their own right, not transferred automatically
-from this coarser scheme.
+**Organon interpretation—not literal Bhāṣya doctrine.** This closes the
+twelve-kind account, not the Indriya chapter: the next verse continues
+Vol. I by refining the kinds into twenty. In our connection to Hegel's
+Doctrine of Essence, this succession analysis remains on the Essence side;
+Vol. II's Loka:Karma is Appearance, a later transition after the chapter.
+The asymmetric profiles show that equal counts need not have the same
+members, and that path classification is not a person's permanent status.
 
 **Review status.** Provisional polished study checked against the research
 kārikā, research Bhāṣya, and running Sanskrit at 105.07–26, with the
 2.71 continuation explicitly distinguished. Original witnesses remain
 unchanged. Next is VAK 2.71: the final outgoing count and the expansion
 of twelve kinds into twenty.
-
-## 10. OWL++ Seed
-
-```ttl
-@prefix vak: <http://127.0.0.1:3000/vak#> .
-@prefix organon: <http://127.0.0.1:3000/organon#> .
-@prefix owl: <http://www.w3.org/2002/07/owl#> .
-
-organon:hasPredecessorKind a owl:ObjectProperty .
-organon:hasSuccessorKind a owl:ObjectProperty .
-
-vak:FormlessObscuredIndeterminate
-    organon:hasPredecessorKind vak:FormlessWholesome,
-        vak:FormlessObscuredIndeterminate, vak:FormlessUnobscuredIndeterminate,
-        vak:FormWholesome, vak:FormUnobscuredIndeterminate,
-        vak:DesireWholesome, vak:DesireUnobscuredIndeterminate ;
-    organon:hasSuccessorKind vak:FormlessWholesome,
-        vak:FormlessObscuredIndeterminate, vak:FormlessUnobscuredIndeterminate,
-        vak:FormWholesome, vak:FormObscuredIndeterminate,
-        vak:DesireUnwholesome, vak:DesireObscuredIndeterminate .
-
-vak:TraineeMind
-    organon:hasPredecessorKind vak:DesireWholesome,
-        vak:FormWholesome, vak:FormlessWholesome, vak:TraineeMind ;
-    organon:hasSuccessorKind vak:DesireWholesome,
-        vak:FormWholesome, vak:FormlessWholesome,
-        vak:TraineeMind, vak:BeyondTrainingMind .
-
-vak:BeyondTrainingMind
-    organon:hasPredecessorKind vak:DesireWholesome,
-        vak:FormWholesome, vak:FormlessWholesome,
-        vak:TraineeMind, vak:BeyondTrainingMind .
-```
-
-This partial project seed illustrates distinct seven-member sets and
-the path profiles stated here. It does not infer a person's permanent
-status from one edge, or treat an omitted assertion as an OWL prohibition.
-The beyond-training outgoing set is reserved for the next study.

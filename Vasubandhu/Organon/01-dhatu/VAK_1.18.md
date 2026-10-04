@@ -50,22 +50,22 @@ ekena dhātunā
 ```
 
 The Bhāṣya supplies their referents. In the Organon vocabulary, the same
-selection is read as base, essence, and principle:
+selection is read as Base, Essence, and Principle:
 
 ```text
 rūpaskandha
-    → form-base
+    → Form Base
 
 mana-āyatana
-    → mind-essence
+    → Mind Essence
 
 dharma-dhātu
-    → dharma-principle
+    → Dharma Principle
 ```
 
 The three do not name rival wholes. They articulate one field through
-different determinations: what is gathered as base, how it is related as
-essence, and how it is distinguished as principle. The Bhāṣya says their
+different determinations: what is gathered as Base, how it is related as
+Essence, and how it is distinguished as Principle. The Bhāṣya says their
 joint inclusion covers all dharmas; no one member is said to do so alone.
 
 `Svabhāvena` states the ground of inclusion; `parabhāvaviyogataḥ` gives its
@@ -100,7 +100,7 @@ metaphysical thesis that every dharma exists in absolute isolation.
 
 ### Bhāṣya-informed translation
 
-> All dharmas are included together through the rūpa-base, mind-essence, and dharma-principle. Inclusion is by a dharma's own nature, not by another's nature from which it is distinct.
+> All dharmas are included together through the Form Base, Mind Essence, and Dharma Principle. Inclusion is by a dharma's own nature, not by another's nature from which it is distinct.
 
 The Bhāṣya further distinguishes the scopes of the three classificatory
 arrangements:
@@ -117,10 +117,10 @@ aggregates of appropriation  → all dharmas with outflows
 
 ```text
 <skandha, āyatana, dhātu>
-    = <base, essence, principle>
+    = <Base, Essence, Principle>
 
 VAK 1.18
-    = rūpa-base + mind-essence + dharma-principle
+    = Form Base + Mind Essence + Dharma Principle
       comprehended as a joint inclusion of all dharmas
 ```
 
@@ -160,10 +160,10 @@ organization to principial classification without reducing one to the other.
 | svabhāva | own-nature | ground of principial inclusion; Organon reading: a dharma's own determination |
 | parabhāva | another's nature | the distinct determination from which a dharma is separated |
 | parabhāva-viyoga | separation from another's nature | the negative limit that makes inclusion determinate |
-| skandha | aggregate; Organon: base | gathered determination |
+| skandha | aggregate; Organon: Base | gathered determination |
 | upādāna-skandha | aggregate of appropriation | the aggregate arrangement's scope for dharmas with outflows |
-| āyatana | āyatana; Organon: essence | relational capacity/field; not Concept by itself |
-| dhātu | dhātu; Organon: principle | differentiated principial determination |
+| āyatana | āyatana; Organon: Essence | relational capacity/field; not Concept by itself |
+| dhātu | dhātu; Organon: Principle | differentiated principial determination |
 | sāṃketika | conventional | practical arrangement by shared designation |
 | kādācitka | occasional | contingent character of the assembly example |
 

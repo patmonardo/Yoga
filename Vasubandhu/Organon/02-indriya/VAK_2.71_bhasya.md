@@ -100,15 +100,13 @@ this subdivision.
 
 ## 7. Philosophical and Organon Study
 
-**Organon reading:** Refinement articulates finer Transcendental Time
-Determinations within the previously established succession field.
-How wholesome mind is obtained—through application or birth—marks
-different modes of its temporal emergence; the additional divisions
-require further determinations in 2.72.
-
-The finer kinds do not simply inherit every relation of the coarser
-twelvefold scheme. Their temporal relations must be established at
-their own level, as the extended commentary does.
+**Organon interpretation—not literal Bhāṣya doctrine.** This remains
+within Vol. I's Essence-side inquiry: the twelve mind-kinds are refined
+by distinguishing wholesome kinds obtained through application from
+those obtained through birth. In our connection to Hegel's Doctrine of
+Essence, Vol. II's Loka:Karma is Appearance, a later transition after
+the Indriya chapter. The finer kinds do not simply inherit every relation
+of the coarser twelvefold scheme.
 
 ## 8. Review Status
 

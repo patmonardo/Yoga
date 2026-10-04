@@ -180,58 +180,16 @@ asserted. *Nirmāṇacitta* is nominative in the first explanation: it
 identifies the resulting neutral mind, not an extra intervening mind
 inserted between the two immediately successive occurrences.
 
-**Organon interpretation.** Transformation-mind and rebirth determine
-different temporal paths through the same classified field. The particular
-transformation-mind case cannot be inferred from the general neutral kind
-alone; the commentary identifies the precise determination that enters
-this relation.
-
-The eleven-successor/nine-predecessor difference preserves direction.
-These are temporally ordered relations within universal Cognition, not an
-undirected association or a prediction that applies to every continuum.
-The named occasions and exclusions constrain the Organon reading.
+**Organon interpretation—not literal Bhāṣya doctrine.** This remains
+Vol. I's Essence-side account: it specifies succession among determinate
+mind-kinds and the occasions that qualify their relations. In our
+connection to Hegel's Doctrine of Essence, Vol. II's Loka:Karma is
+Appearance; the 5/7 and 9/11 profiles prepare but do not themselves
+constitute that fuller Bhava-Chakra account. The directions and contexts
+remain distinct rather than forming an undirected association.
 
 **Review status.** Provisional polished study checked against the research
 kārikā, research Bhāṣya, and running Sanskrit at 104.09–21. The enumerated
 members reproduce all four counts and agree with the relevant relations
 already studied. Original witnesses remain unchanged. VAK 2.69 continues
 with form-realm obscured and unobscured mind and the formless-realm account.
-
-## 10. OWL++ Seed
-
-```ttl
-@prefix vak: <http://127.0.0.1:3000/vak#> .
-@prefix organon: <http://127.0.0.1:3000/organon#> .
-@prefix owl: <http://www.w3.org/2002/07/owl#> .
-
-organon:hasPredecessorKind a owl:ObjectProperty .
-organon:hasSuccessorKind a owl:ObjectProperty .
-organon:sourceKind a owl:ObjectProperty .
-organon:targetKind a owl:ObjectProperty .
-organon:transitionContext a owl:ObjectProperty .
-
-vak:DesireUnobscuredIndeterminate
-    organon:hasPredecessorKind vak:DesireWholesome,
-        vak:DesireUnwholesome, vak:DesireObscuredIndeterminate,
-        vak:DesireUnobscuredIndeterminate, vak:FormWholesome ;
-    organon:hasSuccessorKind vak:DesireWholesome,
-        vak:DesireUnwholesome, vak:DesireObscuredIndeterminate,
-        vak:DesireUnobscuredIndeterminate, vak:FormWholesome,
-        vak:FormObscuredIndeterminate, vak:FormlessObscuredIndeterminate .
-
-vak:FormWholesomeToDesireNeutral
-    organon:sourceKind vak:FormWholesome ;
-    organon:targetKind vak:DesireUnobscuredIndeterminate ;
-    organon:transitionContext vak:TransformationMind .
-
-vak:DesireNeutralToFormlessObscured
-    organon:sourceKind vak:DesireUnobscuredIndeterminate ;
-    organon:targetKind vak:FormlessObscuredIndeterminate ;
-    organon:transitionContext vak:RebirthLinking .
-```
-
-This seed illustrates the five/seven profile and its contextual restrictions;
-the full eleven/nine profile is specified in the study table. The edges
-express admissibility among kinds, not necessary successors for every
-occurrence. Contextual validation is required beyond these descriptive
-OWL triples.

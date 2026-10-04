@@ -17,11 +17,12 @@ not an independently collated witness.
 > catvāraḥ pratyayā uktā hetvākhyaḥ pañca hetavaḥ // 2.61 //
 
 The full verse includes both the closing qualification of the cause
-counts and the opening of the conditions. The research Bhāṣya's claim
-that only the second half is the actual verse is not supported by the
-standalone kārikā witness. A commentary-unit boundary is not a verse
-boundary. The running commentary treats the first half at 97.26–98.02
-and the second at 98.03–08.
+counts and the opening of the conditions. The research Bhāṣya focuses
+on the second half as the beginning of its pratyaya commentary unit;
+the standalone kārikā witness confirms the complete verse. A
+commentary-unit boundary is not a verse boundary. The running
+commentary treats the first half at 97.26–98.02 and the second at
+98.03–08.
 
 ## 3. Padaccheda and Lexical Analysis
 
@@ -107,18 +108,20 @@ specifies only the cause-condition. The other definitions follow in 2.62.
 > then distinguishes four kinds of condition, gathering five already
 > explained causes under one of them.
 
-This is a study interpretation of the transition. It does not identify
-causes with an exclusively objective domain or conditions with an
-exclusively subjective domain. The grouping explicitly links the two
-classifications.
+This is a study interpretation of the transition. It keeps the
+domain-specific cause profiles distinct from the classification of
+conditions while showing that the five causes are carried into one of the
+four conditions.
 
-**Organon interpretation—not literal Bhāṣya doctrine.** The Transcendental
-Time Determination of Śuddha Sattva here is a change of explanatory register:
-five cause-types are re-read within the cause-condition without becoming a
-new chronological
-stage. Facultyhood names the power to organize such determinate relations;
-Cognition is their universal intelligible form, while each Idea is the
-particular cause or condition so classified.
+**Organon interpretation—not literal Bhāṣya doctrine.** In our project
+reading, the completed account of Hetu and arising is not discarded when
+the analysis turns to Loka; it is retained as an invariant within that
+frame. The five causes enter the fourfold condition-system as
+*hetu-pratyaya*. The movement from determining arising to dependent
+origination within a Loka is what we call Absolute Idealism: the Loka is
+articulated through relations, not treated as an external container or
+reduced to a private mind. This verse opens that account; the fuller
+condition-relations are explained in the following verses.
 
 ## 7. Technical Vocabulary
 
@@ -142,98 +145,41 @@ excluded from the production profiles of material and dissociated dharmas.
 
 ## 8. Logical Determination
 
-**Two exclusions with different scopes.**
-
-| Operation | Excluded cause | Scope |
+| Clause | Function | Scope |
 |---|---|---|
-| Extend 2.60's profiles beyond mind and factors | Associated cause | Causal profiles of material and dissociated dharmas |
-| Define cause-condition | Conditioning cause | Grouping of five causes within the four-condition classification |
+| *cittacaittās tathā anye 'pi saṃprayuktakavarjitāḥ* | Carries the 2.60 cause profiles from mind and mental factors to other dharmas, with associated cause additionally excluded | Domain-specific arising profiles |
+| *catvāraḥ pratyayā uktāḥ* | Announces the four kinds of condition | New conditional classification |
+| *hetvākhyaḥ pañca hetavaḥ* | Defines the cause-condition as five causes, excluding *kāraṇahetu* | Membership within the four-condition system |
 
-For the four classes, the counts become:
+The two exclusions have different scopes. Associated cause is removed when
+the 2.60 profiles apply to material and mind-dissociated dharmas; conditioning
+cause is omitted from the five causes grouped as cause-condition. Neither
+exclusion removes a cause-type from the overall six-cause account.
 
-| Class | Mind and mental factors | Material and dissociated dharmas |
-|---|---:|---:|
-| Afflicted | 5 | 4 |
-| Maturation-born | 5 | 4 |
-| Remaining | 4 | 3 |
-| First uncontaminated | 3 | 2 |
+## 9. Loka and Dependent Origination
 
-The shared conditioning and co-arisen causes remain even in the last
-non-associated case. The commentary closes this account by stating
-that no dharma arises from only one cause.
+In the project's reading, the move from *hetu* to *pratyaya* is the
+subsumption of the preceding account of arising within the Loka analysis:
+the Hetu determination is not erased but retained as an invariant of Loka.
+The textual hinge is explicit: five of the already explained causes are
+grouped as one condition, the *hetu-pratyaya*, within a system of four
+conditions.
 
-The new classification is:
+This is the project's Absolute Idealism: dependent origination is
+understood within a Loka articulated by its relations, not as an external
+world added to isolated causes. The source itself names the four conditions
+and defines the cause-condition; it does not state this Hegelian or Loka
+synthesis. The fuller operation of the other conditions follows in 2.62 and
+the subsequent verses.
 
-```text
-CauseCondition comprises:
-    CoArisenCause
-    AssociatedCause
-    HomogeneousCause
-    PervasiveCause
-    MaturationCause
+The commentary boundary is also distinct from the kārikā boundary: the
+first half of the complete verse closes the cause-count discussion with
+2.60, while this study's Bhāṣya unit begins at 98.03 with the question
+about conditions.
 
-ConditioningCause is excluded from this grouping.
-```
+## 10. Review Status
 
-This is a classification of causal relations, not a claim that all
-five must operate in every occurrence. The preceding profiles already
-show why such a reading would fail. The four conditions are not four
-dharma classes corresponding one-to-one to the four profiles.
-
-## 9. Interpretive Note
-
-**Organon interpretation.** The transition makes the relation between
-grounds and conditions a concrete question of classification and scope.
-The five causes are retained under one condition; the causal analysis
-is carried forward into a differently organized account. This supplies
-a basis for investigating synthesis without assuming that the earlier
-account was merely quantitative or that the new one is purely subjective.
-
-For learning, the decisive correction is being able to say what each
-exclusion concerns. Knowing the numbers “six,” “five,” and “four” does
-not yet establish the relations. The first half restricts a causal
-profile by the kind of dharma; the second groups causal types under
-a kind of condition. Confusing these operations reverses the doctrine.
-
-**Textual review.** This polished study corrects the first-pass translation
-that made mind, mental factors, and other dharmas the four conditions,
-and its mistaken exclusion of associated cause from cause-condition.
-It also preserves the complete kārikā despite the commentary's topic
-boundary within it. The following study of 2.62 must determine the
-remaining conditions from their own verse and running commentary;
-the extended research 2.61 Bhāṣya cannot substitute for that boundary check.
-
-The reading is provisional. Research witnesses remain intact; no
-independent manuscript collation has been performed.
-
-## 10. OWL++ Seed
-
-```ttl
-@prefix vak: <http://127.0.0.1:3000/vak#> .
-@prefix organon: <http://127.0.0.1:3000/organon#> .
-@prefix owl: <http://www.w3.org/2002/07/owl#> .
-
-organon:includesCauseType a owl:ObjectProperty .
-organon:excludesCauseType a owl:ObjectProperty .
-organon:appliesTo a owl:ObjectProperty .
-
-vak:CauseCondition a organon:ConditionType ;
-    organon:includesCauseType vak:CoArisenCause,
-        vak:AssociatedCause, vak:HomogeneousCause,
-        vak:PervasiveCause, vak:MaturationCause ;
-    organon:excludesCauseType vak:ConditioningCause .
-
-vak:ImmediatelyAntecedentCondition a organon:ConditionType .
-vak:ObjectCondition a organon:ConditionType .
-vak:PredominantCondition a organon:ConditionType .
-
-vak:NonAssociatedProfileAdjustment a organon:CausalProfileRule ;
-    organon:appliesTo vak:MaterialDharma,
-        vak:MindDissociatedFormation ;
-    organon:excludesCauseType vak:AssociatedCause .
-```
-
-This seed records the two distinct scopes. It is a project representation,
-not an assertion that every cause-condition instance instantiates all
-five cause-types. The exclusion property records a constraint for later
-validation; it does not by itself enforce a closed-world prohibition.
+The full kārikā is retained, and the 98.03–08 commentary unit is translated
+separately from the preceding 2.60 unit. Transcription variants are noted;
+no independent manuscript collation has been performed. The next unit,
+2.62, begins the immediately antecedent condition.

@@ -278,8 +278,8 @@ keen. But form-realm birth-acquired wholesome mind does not arise
 after formless afflicted mind, because it lacks that keenness.
 
 There are three kinds of attention: attention to the specific
-characteristic—for example, “material form has being affected as
-its characteristic,” and so forth; attention to the general
+characteristic—for example, “Form is characterized by being affected,”
+and so forth; attention to the general
 characteristic, associated with the sixteen aspects; and attention
 based on resolve, in contemplation of the unattractive, the immeasurables,
 formless liberations, Essences of mastery, Essences of totality, and
@@ -475,7 +475,7 @@ source does not explicitly call the emergence-mind “weakly constructed,”
 as the first pass did.
 
 The specific-characteristic example *rūpaṇālakṣaṇaṃ rūpam* is rendered
-“material form has being affected as its characteristic.” Reducing
+“Form is characterized by being affected.” Reducing
 it to “form has the characteristic of being form” loses the explanatory
 force of *rūpaṇa*. *Ārūpyavimokṣa* is construed as formless liberations
 in the compact practice list. *Anāgamya* is rendered “preparatory
@@ -496,18 +496,18 @@ reply has been accepted.
 
 ## 8. Philosophical and Organon Study
 
-**Organon reading:** The twentyfold scheme makes the chapter's temporal
-determinations more precise: a mind's kind, its mode of arising, and
-its directed relations cannot be collapsed into one description.
-The commentary's competing accounts of attention test whether a path
-relation is immediate or mediated; they preserve a real question about
-how one determination leads into another.
+**Organon interpretation—not literal Bhāṣya doctrine:** The twentyfold
+refinement remains within Vol. I's Essence-side account, distinguishing
+the kinds of mind, their modes of arising, and their successor relations.
+In our connection to Hegel's Doctrine of Essence, Vol. II's Loka:Karma
+is Appearance; that transition follows the Indriya chapter's explicit
+close, not this completion of the twenty-kind scheme.
 
-The transition profiles are therefore not a universal timeline.
-Application, birth, attention, and path-status specify distinct grounds
-and contexts. The Organon reading follows these differences within
-Śuddha Sattva without resolving the Bhāṣya's reported disputes into
-a single rule.
+The competing accounts of attention before and after the noble path
+remain distinct and contested. The Bhāṣya's Samādhi reference belongs
+to this discussion; it is not a systematic definition. Preserve the
+material for the more definitional Yoga Dharmapada study of YS-IV
+without resolving the Kosa's debate here.
 
 ## 9. Review Status
 

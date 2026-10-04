@@ -136,19 +136,17 @@ one cannot substitute for the other. Predominant conditioning, in turn,
 has its activity specified as non-obstruction rather than confined
 to either of those states.
 
-This gives our inquiry into grounds and conditions a more precise
-basis. Any proposed synthesis must preserve the difference between
-the conditioning relation, its activity, and the state of the conditioned
-dharma. The passage does not itself identify their articulation with
-Samādhi or divide causes and conditions into exclusively objective
-and subjective domains.
+**Organon interpretation—not literal Bhāṣya doctrine.** *Kāritra*
+specifies conditional relations on the side of Essence by identifying
+the state of the conditioned dharma toward which each condition's activity
+is directed. Loka:Karma is Appearance, the manifest empirical movement
+of the Bhava Chakra. These are related but distinct movements; this is
+the project's interpretation, not terminology asserted by the Bhāṣya.
 
-As a separate Organon reading, faculties are Transcendental Time
-Determinations of Śuddha Sattva indexed to the conditioned dharma's state:
-present result, opening for succession, object of present apprehension, or
-non-obstruction. Cognition is the universal act-form; a particular Idea is
-the result or object in the state specified by its relation, not a spatial
-occupant or a timestamp.
+Giving an opening for succession and apprehending a present object are
+distinct determinations. This unit does not define Samādhi; the project's
+more definitional approach belongs to Yoga Dharmapada (YS-IV), not to
+this account of conditional activity.
 
 ## 7. Review Status
 

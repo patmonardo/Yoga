@@ -390,12 +390,18 @@ philosophical synthesis must preserve these distinctions and their
 arguments. Here the work of learning is to remove the conflations
 that the objections expose.
 
-As a separate Organon reading, faculties are Transcendental Time
-Determinations of Śuddha Sattva: mind's successor-relation, an object's
-continuing object-character, and predominance's wider enabling scope are
-not one temporal axis. Cognition names the universal determination of
-knowing; the particular Idea is what that cognition takes as object, even
-when it is not the earlier mental condition.
+**Organon interpretation—not literal Bhāṣya doctrine.** This account of
+conditional relations is read on the side of Essence: Dharma's *sāra*, its
+intelligible theoretical principle. Loka:Karma is Appearance, the manifest
+empirical movement of the Bhava Chakra. Essence and Appearance articulate
+related but distinct movements in the Dharma Chakra and Bhava Chakra; they
+are not two worlds, and this is not terminology asserted by the Bhāṣya.
+
+The references to concentrations and attainments function as examples in
+the analysis of mental complexes and succession. They do not provide a
+systematic definition of Samādhi in this passage. The more definitional
+approach belongs to the project's Yoga Dharmapada study of YS-IV; it should
+not be imported into this translation.
 
 ## 10. Review Status
 

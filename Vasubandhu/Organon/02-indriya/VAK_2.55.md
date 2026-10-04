@@ -1,4 +1,4 @@
-# VAK_2.55
+# VAK_2.55 — Temporal Scope of Causes and Their Fruits
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -108,14 +108,11 @@ liberative disclosure:
         → disconnection
 ```
 
-**Organon interpretation—not literal Bhāṣya doctrine.** Faculties as
-Transcendental Time Determinations of Śuddha Sattva determine conditioned
-temporal efficacy—causal scope, Path-transformation, and acquisition—but
-not the production of the unconditioned as another event.
-Disconnection marks secured non-arising, not a later clock-time episode;
-Cognition names the universal discriminative determination, and the
-particular Idea is the bond and its cessation as explained by the rival
-accounts, which this reading does not collapse.
+**Organon interpretation—not literal Bhāṣya doctrine.** The passage
+distinguishes the conditioned acquisition produced through the Path from
+disconnection, which is called its fruit without being produced as another
+conditioned dharma. The Bhāṣya preserves competing accounts of what
+disconnection is and does not collapse their disagreement.
 
 ## 7. Technical Vocabulary
 
@@ -242,34 +239,12 @@ This preserves both genetic accountability and the unconditioned character
 of liberation. Cause explains how the continuum changes; it does not convert
 the truth disclosed by that change into another temporal product.
 
-For an Ocular Schema, one generic `causes` relation is now radically
-inadequate. At minimum the system requires:
-
-```text
-ProductivelyCauses
-NonObstructivelyConditions
-ServesAsObjectCondition
-ProducesAcquisitionOf
-DisclosesOrSecures
-PreventsFutureArisingOf
-```
-
-The difference between these predicates is the visible logical schema. A
-relational system that hides them behind one edge would destroy the doctrine.
-
-This also bears on the authorship hypothesis without deciding it. The
-kārikā's severe compression permits a doctrinally difficult relation between
-conditioned fruit, disconnection, and the unconditioned; the Bhāṣya then
-stages opposing ontologies and restricts the senses of cause and fruit. That
-can indicate layered scholastic composition, but it can equally reflect an
-author deliberately compressing inherited doctrine into mnemonic verse and
-using commentary for dialectical examination. Internal tension alone does
-not establish separate authorship.
-
-No later Samādhi synthesis is required here. The present structure is already
-exact: discriminative Path transforms the support, acquisition arises, and
-future affliction becomes impossible. Whether that is later enclosed within
-a Yoga account must remain a separate reconstruction.
+The first half fixes temporal scope for the causes; the second limits how
+cause and fruit apply to the unconditioned. The Bhāṣya's debate does not
+yield one uncontested account: the Vaibhāṣika treats disconnection as a real
+unconditioned entity, while the Sautrāntika explains it through absence or
+non-arising. The Path's fruit-status must therefore be distinguished from
+ordinary production.
 
 The textual layers are:
 
@@ -287,44 +262,4 @@ Sautrāntika critique favored by Vasubandhu's argument
 Organon reconstruction
     → distinguishes productive transformation,
       acquisition, disclosure, and prevention
-```
-
-## 10. OWL++ Seed
-
-```ttl
-@prefix vak: <http://127.0.0.1:3000/vak#> .
-@prefix organon: <http://127.0.0.1:3000/organon#> .
-
-organon:TemporalScope a organon:Class .
-organon:PastPresentScope a organon:TemporalScope .
-organon:ThreeTimeScope a organon:TemporalScope .
-organon:AtemporalScope a organon:TemporalScope .
-
-vak:SarvatragaHetu organon:hasTemporalScope organon:PastPresentScope .
-vak:SabhagaHetu organon:hasTemporalScope organon:PastPresentScope .
-vak:SahabhuHetu organon:hasTemporalScope organon:ThreeTimeScope .
-vak:SamprayuktakaHetu organon:hasTemporalScope organon:ThreeTimeScope .
-vak:VipakaHetu organon:hasTemporalScope organon:ThreeTimeScope .
-
-vak:Disconnection a organon:LiberativeFruit .
-vak:AcquisitionOfDisconnection a organon:ConditionedResult .
-vak:AnalyticalCessation a organon:DisconnectionType .
-vak:NonAnalyticalCessation a organon:CessationType .
-
-organon:productivelyCauses a organon:ObjectProperty .
-organon:nonObstructivelyConditions a organon:ObjectProperty .
-organon:servesAsObjectCondition a organon:ObjectProperty .
-organon:producesAcquisitionOf a organon:ObjectProperty .
-organon:disclosesOrSecures a organon:ObjectProperty .
-organon:preventsFutureArisingOf a organon:ObjectProperty .
-
-vak:Path organon:producesAcquisitionOf vak:Disconnection ;
-    organon:disclosesOrSecures vak:Disconnection ;
-    organon:preventsFutureArisingOf vak:Affliction .
-
-organon:OcularLiberationSchema a organon:OcularSchema ;
-    organon:distinguishes organon:ConditionedProduction,
-        organon:ConditionedAcquisition,
-        organon:LiberativeDisclosure,
-        organon:FutureNonArising .
 ```

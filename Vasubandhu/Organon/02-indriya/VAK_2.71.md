@@ -171,47 +171,14 @@ The broader source includes transcription irregularities in the later
 twenty-kind summary; its enumerated divisions nevertheless establish
 the count. No independently collated Sanskrit edition is claimed.
 
-**Organon interpretation.** Refinement articulates finer Transcendental
-Time Determinations within the previously established succession field.
-How wholesome mind is obtained—through application or birth—marks
-different modes of its temporal emergence; the additional divisions
-require further determinations in 2.72. The finer kinds do not simply
-inherit every relation of the coarser twelvefold scheme.
+**Organon interpretation—not literal Bhāṣya doctrine.** This remains
+within Vol. I's Essence-side inquiry: the twelve mind-kinds are refined
+by distinguishing wholesome kinds obtained through application from
+those obtained through birth. In our connection to Hegel's Doctrine of
+Essence, Vol. II's Loka:Karma is Appearance, a later transition after
+the Indriya chapter. The finer kinds do not simply inherit every relation
+of the coarser twelvefold scheme.
 
 **Review status.** Provisional polished study checked against the research
 kārikā, research Bhāṣya, and running source at 105.24–106.12, with 2.72's
 contribution explicitly distinguished. Original witnesses remain unchanged.
-This completes the requested kārikā upgrades from 2.61 through 2.71.
-
-## 10. OWL++ Seed
-
-```ttl
-@prefix vak: <http://127.0.0.1:3000/vak#> .
-@prefix organon: <http://127.0.0.1:3000/organon#> .
-@prefix owl: <http://www.w3.org/2002/07/owl#> .
-
-organon:hasSuccessorKind a owl:ObjectProperty .
-organon:hasRefinedKind a owl:ObjectProperty .
-organon:hasClassification a owl:ObjectProperty .
-
-vak:BeyondTrainingMind
-    organon:hasSuccessorKind vak:DesireWholesome,
-        vak:FormWholesome, vak:FormlessWholesome, vak:BeyondTrainingMind .
-
-vak:DesireWholesome organon:hasRefinedKind
-    vak:DesireApplicationWholesome, vak:DesireBirthAcquiredWholesome .
-vak:FormWholesome organon:hasRefinedKind
-    vak:FormApplicationWholesome, vak:FormBirthAcquiredWholesome .
-vak:FormlessWholesome organon:hasRefinedKind
-    vak:FormlessApplicationWholesome, vak:FormlessBirthAcquiredWholesome .
-
-vak:DesireApplicationWholesome
-    organon:hasClassification vak:ApplicationProduced .
-vak:DesireBirthAcquiredWholesome
-    organon:hasClassification vak:BirthAcquired .
-```
-
-This partial project seed records the refinement stated in 2.71.
-It does not claim that these six wholesome kinds alone complete the
-twentyfold classification, nor automatically copy every coarse transition
-to every refined member. Those require the subsequent distinctions.

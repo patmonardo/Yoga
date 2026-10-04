@@ -169,52 +169,14 @@ The running source's page label 101.13
 within the page-103 passage is anomalous and does not change the
 order. Independent collation would be needed to finalize orthography.
 
-**Organon interpretation.** The twelve kinds distinguish particular
-Transcendental Time Determinations within universal Cognition. Realm,
-ethical status, obscuration, and training status specify different modes
-of the continuum; they do not yet explain how one mode succeeds another.
-The classification prepares the succession inquiry without completing it.
-
-The transition rules and their grounds are the next task. The twelvefold
-scheme is not twelve universal Cognitions, but a map of particular
-determinations to be related in the following verses.
+**Organon interpretation—not literal Bhāṣya doctrine.** This taxonomy
+remains within Vol. I's Essence-side inquiry: its distinctions furnish
+the determinate kinds needed for the following succession analysis. In
+our Hegelian framing, Vol. II's Loka:Karma is Appearance; this verse
+prepares, but does not itself cross, that transition. These are
+project-level placements, not claims made by the source.
 
 **Review status.** Provisional polished study checked against the research
 kārikā, research Bhāṣya, and running commentary at 103.09–18. Originals
 remain unchanged. VAK 2.67 begins the succession counts with desire-realm
 wholesome mind.
-
-## 10. OWL++ Seed
-
-```ttl
-@prefix vak: <http://127.0.0.1:3000/vak#> .
-@prefix organon: <http://127.0.0.1:3000/organon#> .
-@prefix owl: <http://www.w3.org/2002/07/owl#> .
-
-organon:hasRealm a owl:ObjectProperty .
-organon:hasClassification a owl:ObjectProperty .
-organon:hasMember a owl:ObjectProperty .
-
-vak:DesireMindKinds organon:hasRealm vak:DesireRealm ;
-    organon:hasMember vak:DesireWholesome, vak:DesireUnwholesome,
-        vak:DesireObscuredIndeterminate, vak:DesireUnobscuredIndeterminate .
-vak:FormMindKinds organon:hasRealm vak:FormRealm ;
-    organon:hasMember vak:FormWholesome, vak:FormObscuredIndeterminate,
-        vak:FormUnobscuredIndeterminate .
-vak:FormlessMindKinds organon:hasRealm vak:FormlessRealm ;
-    organon:hasMember vak:FormlessWholesome,
-        vak:FormlessObscuredIndeterminate, vak:FormlessUnobscuredIndeterminate .
-
-vak:DesireMindKinds organon:hasClassification vak:Contaminated .
-vak:FormMindKinds organon:hasClassification vak:Contaminated .
-vak:FormlessMindKinds organon:hasClassification vak:Contaminated .
-
-vak:UncontaminatedMindKinds
-    organon:hasClassification vak:Uncontaminated ;
-    organon:hasMember vak:TraineeMind, vak:BeyondTrainingMind .
-```
-
-This project seed enumerates the groups without asserting any succession
-edges. Group metadata is descriptive and does not automatically propagate
-to members under ordinary OWL inference; a later implementation must
-supply explicit member classifications and transition constraints.

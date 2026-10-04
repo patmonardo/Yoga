@@ -1,4 +1,4 @@
-# VAK_2.59
+# VAK_2.59 — Taking and Giving Fruit
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -92,11 +92,10 @@ gives only after passing into the past.
 
 ## 6. Philosophical Translation
 
-> A cause first becomes determinately capable of a result and then, according
-> to its causal type, brings that result to manifestation. Some causes contain
-> these moments in one present conjunction; some continue into an immediately
-> succeeding occurrence; maturation requires temporal distance. Causal law is
-> therefore internally temporal, not an abstract link between finished things.
+> The Bhāṣya distinguishes taking fruit, defined as assuming seed-status, from
+> giving fruit. These operations can occur at the same time or at different
+> temporal phases, according to cause-type. The causal account is therefore
+> more precise than a single, undifferentiated before-and-after relation.
 
 ```text
 take fruit
@@ -106,13 +105,11 @@ give fruit
     = the determinate result becomes manifest
 ```
 
-**Organon interpretation—not literal Bhāṣya doctrine.** Facultyhood is read
-as a Transcendental Time Determination of Śuddha Sattva through the
-transition from a cause's acquired seed-capacity to its type-specific
-exercise toward a result. “Taking” and “giving” determine
-causal phases, not clock-time stamps or a promise that the finished effect
-already exists. Cognition names the universal form of causal knowing; the
-particular Idea is the seed/result relation fixed by its cause-type.
+**Organon interpretation—not literal Bhāṣya doctrine.** This unit makes two
+causal operations separately studyable: assuming seed-status toward a fruit
+and giving that fruit. Their timing is type-specific, and the two operations
+may be simultaneous. Seed-status is a causal determination, not a stored
+substance or a guarantee that the finished fruit already exists.
 
 ## 7. Technical Vocabulary
 
@@ -177,81 +174,15 @@ cause. It does not make two successive moments numerically simultaneous. By
 the time the fruit is arisen, both occurrences can be spoken of as past, yet
 the fruit is not given a second time.
 
-## 9. Interpretive Note
+## 9. Scope and Sequence
 
-VAK 2.59 converts the earlier inventory of causes and fruits into a small
-temporal instruction set. Cause-type determines not merely *which* result
-relation holds but *when* its two operations are licensed:
+The Bhāṣya closes this unit at 97.15 with “the causes and fruits have been
+explained.” The four additional result-names are attributed to other
+teachers and are included within the results of operative efficacy and
+predominance; they are not added as four independent results to the main
+classification.
 
-```text
-CausalInstruction {
-    causeType,
-    resultType,
-    takePhase,
-    givePhase,
-    successionMode,
-    evidence
-}
-```
-
-This is the beginning of a karmic ISA only in the Organon reconstruction. The
-kārikā itself gives the scheduling constraints; the Bhāṣya identifies taking
-with seed-status and works through the fourfold alternatives. An Ocular Schema
-must preserve those layers and must not flatten `takesFruit` and `givesFruit`
-into a generic `causes` edge.
-
-The temporal distinctions also prevent premature importation of Samādhi. What
-we have here is the articulation of the `hetu` side: causal capacity, its
-temporal persistence, and result-manifestation. The forthcoming `pratyaya`
-analysis supplies a different classification of conditional relations. Their
-eventual systematic conjunction remains an Organon task, not a statement made
-by this verse.
-
-The Bhāṣya's four additional fruits—support, application, causal assemblage,
-and cultivation—belong to “other teachers.” They record an alternative
-extension of the fruit taxonomy and should not silently be merged into the
-five-fruit system already analyzed.
-
-## 10. OWL++ Seed
-
-```ttl
-@prefix vak: <http://127.0.0.1:3000/vak#> .
-@prefix organon: <http://127.0.0.1:3000/organon#> .
-
-vak:FruitTaking a organon:CausalOperation ;
-    organon:definedBy vak:AssumptionOfSeedStatus .
-
-vak:FruitGiving a organon:CausalOperation ;
-    organon:definedBy vak:ResultManifestation .
-
-vak:AssumptionOfSeedStatus a organon:GeneticDetermination .
-vak:Present a organon:TemporalPhase .
-vak:Past a organon:TemporalPhase .
-vak:Simultaneous a organon:SuccessionMode .
-vak:ImmediatelySuccessive a organon:SuccessionMode .
-vak:TemporallyDistant a organon:SuccessionMode .
-
-organon:takesFruit a organon:ObjectProperty .
-organon:givesFruit a organon:ObjectProperty .
-organon:licensedDuring a organon:ObjectProperty .
-organon:hasSuccessionMode a organon:ObjectProperty .
-
-vak:CoarisenCause organon:licensedDuring vak:Present ;
-    organon:hasSuccessionMode vak:Simultaneous .
-
-vak:AssociatedCause organon:licensedDuring vak:Present ;
-    organon:hasSuccessionMode vak:Simultaneous .
-
-vak:HomogeneousCause organon:hasSuccessionMode vak:ImmediatelySuccessive .
-vak:PervasiveCause organon:hasSuccessionMode vak:ImmediatelySuccessive .
-vak:MaturationCause organon:licensedDuring vak:Past ;
-    organon:hasSuccessionMode vak:TemporallyDistant .
-
-organon:TemporalCausalInstruction a organon:OcularSchema ;
-    organon:requires organon:CauseType,
-        organon:ResultType,
-        organon:TakePhase,
-        organon:GivePhase,
-        organon:SuccessionMode,
-        organon:ProvenanceEvidence .
-```
+The next source unit, VAK 2.60, begins at 97.16 by asking which dharmas arise
+from how many causes; its kārikā follows at 97.20. The four-condition
+(*pratyaya*) discussion comes later. This boundary keeps the present
+temporal rules distinct from the next cause-count analysis.

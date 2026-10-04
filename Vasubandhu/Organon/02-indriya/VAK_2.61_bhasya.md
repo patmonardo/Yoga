@@ -99,26 +99,20 @@ movement.
 
 ## 6. Philosophical and Organon Study
 
-The passage connects two classifications by stating their relation:
-five of the six causes constitute one of the four conditions. Thus
-“cause” and “condition” are neither interchangeable inventories nor
-two wholly separate domains. Their relation has to be learned from
-the specified grouping and exclusion.
+The local text states the relation precisely: five already defined causes
+are grouped as the cause-condition within the four-condition classification.
+The cause account is carried forward, not replaced; the other three
+conditions still require their own explanations.
 
-As Organon interpretation, this is a useful discipline for the inquiry
-into grounds and conditions. The earlier distinctions are carried
-forward through an explicit relation rather than discarded. But the
-short definition does not yet establish a synthesis of subjectivity
-and objectivity, or a division into quantitative causes and qualitative
-conditions. The other three conditions still require their own
-explanations. What this unit teaches is exactly where the preceding
-cause account enters the new classification.
-
-As a separate Organon reading, faculties are Transcendental Time
-Determinations of Śuddha Sattva: here their temporal work is relational
-reclassification, not a new chronological phase. Cognition names the
-universal intelligible form of knowing; a particular Idea is the cause or
-condition viewed under its stated role.
+In the project's Loka reading, this is the hinge from a study of arising
+to dependent origination within a Loka. The previous Hetu account is
+preserved as an invariant within that frame, and the conditions articulate
+the relations through which arising is understood. This is the project's
+Absolute Idealism: not a claim that Loka is a private mind, but that the
+world is intelligible through its internally articulated relations. The
+source itself only enumerates the four conditions and defines
+*hetu-pratyaya*; the broader synthesis is project-level, and the fuller
+condition-relations follow in subsequent verses.
 
 ## 7. Review Status
 

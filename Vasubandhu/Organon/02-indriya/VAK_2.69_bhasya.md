@@ -123,21 +123,12 @@ for 2.70_bhasya.
 
 ## 7. Philosophical and Organon Study
 
-**Organon reading:** The repeated unobscured rule is a recurring
-temporal determination whose members must be specified anew in each
-realm. A repeated count does not make the underlying succession
-identical: scope and realm determine which particular modes are
-related.
-
-The realm-specific sets constrain transfer. This is an articulation
-of universal Cognition's temporal relations, not an executable grammar
-for predicting an individual's next state.
-
-The immediate learning task is concrete: distinguish the obscured
-profile from the unobscured one, then retain the different members
-within the repeated three/six account. The source provides these
-determinations without requiring the larger computational claims
-of the first-pass interpretation.
+**Organon interpretation—not literal Bhāṣya doctrine.** The recurring
+three/six rule remains within Vol. I's Essence-side inquiry, but its
+members are specified anew in each realm. In our connection to Hegel's
+Doctrine of Essence, Vol. II's Loka:Karma is Appearance. The repeated
+count does not make the underlying relations identical, nor do these
+local profiles alone constitute the fuller Appearance account.
 
 ## 8. Review Status
 

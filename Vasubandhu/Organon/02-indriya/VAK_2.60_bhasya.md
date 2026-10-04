@@ -135,9 +135,9 @@ no critically corrected Sanskrit is claimed.
 The research translation stops before the mind-and-factor
 qualification and refers it to 2.61. This edition instead carries
 the opening clauses of that verse through the natural close at
-98.02. VAK 2.61 will begin at 98.03 with the question about
-conditions; the already translated clauses will be identified
-as such in its anchor.
+98.02. The pratyaya commentary unit for VAK 2.61 begins at 98.03
+with the question about conditions; the already translated clauses
+are identified as such in its anchor.
 
 The translation says “arise from,” following *jāyante* and
 *utpadyante*. The analysis distinguishes the several causal
@@ -146,25 +146,18 @@ a merely hypothetical list of possible causes.
 
 ## 9. Philosophical and Organon Study
 
-As Organon interpretation, the account asks what the causal
-classification enables us to distinguish. A numerical answer is
-insufficient until we know which relations are present, which
-are excluded, and what kind of dharma is being considered.
+As an Organon bridge, the verse and its continuation keep the cause account
+intact while specifying its scope: four dharma-classes have distinct
+exclusion profiles, and material or mind-dissociated dharmas additionally
+exclude associated cause. The first uncontaminated occurrence lacks a prior
+homogeneous instance but remains causally articulated.
 
-The first uncontaminated occurrence gives a precise case of a
-beginning: it lacks a prior homogeneous instance while remaining
-causally articulated. This provides a local basis for investigating
-how a beginning can be understood without either presupposing an
-earlier identical achievement or treating it as causeless. A
-broader account of reflection and synthesis remains a separate
-comparative inquiry.
-
-On the Organon reading, faculties are Transcendental Time Determinations of
-Śuddha Sattva: the first uncontaminated occurrence has no prior homogeneous
-path instance, yet is causally grounded. Cognition names the universal
-determination of path-knowing; the particular Idea is this threshold profile
-with its specified exclusions, not a causeless beginning or universal
-chronological first.
+The Bhāṣya closes the detailed cause account at 98.02 with the statement
+that no dharma arises from only one cause. The next commentary unit begins at
+98.03 by naming the four conditions. This is the source's transition from
+which cause-types apply to a dharma to a new classification of conditional
+relations; the broader Loka and Absolute Idealism synthesis is project-level,
+not a claim of this passage.
 
 ## 10. Review Status
 
@@ -175,6 +168,6 @@ account, domain qualification, and explicit closure are translated.
 
 Transcription irregularities are marked; no independent edition
 or manuscript collation has been performed. Original witnesses
-and existing studies are unchanged. VAK 2.61 continues at 98.03
-with the four conditions; its opening domain qualification has
-been treated here.
+and existing studies are unchanged. The first half of VAK 2.61 is
+treated with this cause-count unit through 98.02; its pratyaya
+commentary begins at 98.03.

@@ -1,4 +1,4 @@
-# VAK_2.57
+# VAK_2.57 — Definitions of Three Results
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -36,7 +36,7 @@ dhiyā                  → dhiyā
 | niḥṣyandaḥ | nominative masculine singular | homogeneous-outflow result |
 | hetu-sadṛśaḥ | nominative masculine singular compound | similar to its cause |
 | visaṃyogaḥ | nominative masculine singular | disconnection |
-| kṣayaḥ | nominative masculine singular | destruction / exhaustion |
+| kṣayaḥ | nominative masculine singular | cessation |
 | dhiyā | instrumental feminine singular of `dhī` | through insight or discriminative knowing |
 
 `Vyākṛta` and `avyākṛta` are technical ethical classifications here. The
@@ -60,7 +60,7 @@ maturation-result
 ```
 
 No one predicate is sufficient by itself. The Bhāṣya adds temporal distance
-and non-common appropriation to distinguish maturation from nourishment,
+and non-common appropriation to distinguish maturation from increase,
 homogeneous continuation, and shared karmic environments.
 
 The second half contains two nominal definitions:
@@ -76,25 +76,24 @@ visaṃyogaḥ
     → dhiyā kṣayaḥ
 
 disconnection
-    → destruction through discriminative knowing
+    → cessation through insight
 ```
 
-The instrumental `dhiyā` identifies the means through which destruction is
-effected; it does not make `dhī` the substance destroyed.
+The instrumental `dhiyā` identifies insight as the means of cessation.
 
 ## 5. Translation
 
 ### Close syntactic construe
 
-> Maturation is an indeterminate dharma, designated as associated with a sentient continuum, and arisen from what is morally determinate. Homogeneous outflow is similar to its cause. Disconnection is destruction through insight.
+> Maturation is an indeterminate dharma, designated as associated with a sentient continuum, and arisen from what is morally determinate. Homogeneous outflow is similar to its cause. Disconnection is cessation through insight.
 
 ### Bhāṣya-informed translation
 
-> A maturation-result is an unobscured-indeterminate dharma arising later from wholesome or unwholesome karma and belonging non-commonly to one sentient continuum. A homogeneous-outflow result resembles its cause in the respects appropriate to homogeneous or pervasive causality. Disconnection is analytical cessation—the exhaustion of the afflictive bond through discriminative wisdom.
+> A maturation-result is an unobscured-indeterminate dharma arising later from wholesome or unwholesome karma and belonging non-commonly to one sentient continuum. A homogeneous-outflow result resembles its cause in the respects appropriate to homogeneous or pervasive causality. Disconnection is analytical cessation through wisdom.
 
 ## 6. Philosophical Translation
 
-> Results disclose their grounds in different forms. Maturation preserves causal law while changing ethical and manifest form; homogeneous outflow preserves relevant likeness; disconnection manifests the efficacy of knowing as the exhaustion of bondage. The truth of a cause is therefore neither mere repetition nor arbitrary succession, but its determinate mode of manifestation.
+> Maturation differs in ethical status from its determinate source and is delimited by temporal and sentient-continuum conditions. Homogeneous outflow preserves relevant likeness to its cause. Disconnection is cessation through insight. These are distinct result-relations, not one undifferentiated outcome.
 
 ```text
 maturation:
@@ -104,17 +103,14 @@ homogeneous outflow:
     cause → relevant similarity in continuation
 
 disconnection:
-    discriminative knowing → exhaustion of the bond
+    insight → cessation
 ```
 
-**Organon interpretation—not literal Bhāṣya doctrine.** The faculty reading
-tracks three unlike Transcendental Time Determinations of Śuddha Sattva:
-maturation's delay, homogeneous continuation, and the exhaustion of a bond
-through discriminative knowing. The last is
-not an episode on a universal timeline; Cognition names the universal
-discriminative determination, while the particular Idea is the bond whose
-future recurrence is cut off. The verse's `dhī` is not silently replaced
-with `prajñā`.
+**Organon interpretation—not literal Bhāṣya doctrine.** The verse
+distinguishes results by their relation to cause: ethical and temporal
+qualification, relevant similarity, or cessation through insight. The
+Bhāṣya explicitly glosses the kārikā's `dhī` as `prajñā`; this does not
+make the final result another ordinary produced dharma.
 
 ## 7. Technical Vocabulary
 
@@ -132,55 +128,25 @@ with `prajñā`.
 | bhūmitaḥ sādṛśya | similarity by level | broad similarity sufficient for pervasive causal outflow |
 | prakārataḥ sādṛśya | similarity in specific type | stronger similarity characteristic of homogeneous causality |
 | visaṃyoga | disconnection | freedom from conjunction with the afflictive bond |
-| kṣaya | destruction / exhaustion | cessation of the bond's causal efficacy |
-| dhī | insight / discriminative knowing | wisdom through which the afflictive bond is exhausted |
+| kṣaya | cessation | glossed by the Bhāṣya as `nirodha` |
+| dhī | insight / wisdom | glossed by the Bhāṣya as `prajñā` |
 | pratisaṃkhyā-nirodha | analytical cessation | disconnection realized through discriminative wisdom |
 
 `Sattvākhyā` is relational and classificatory: it identifies the sentient
 continuity in relation to which maturation is specified.
 
-`Dhī` is stronger than ordinary recognition. In this causal definition it
-names knowing that performs the discriminative work through which the bond is
-exhausted.
+The Bhāṣya glosses `dhī` as `prajñā` and identifies the result as analytical
+cessation. It does not explain a mechanism by which wisdom produces cessation.
 
 ## 8. Logical Determination
 
-Strict maturation-result is:
+The Bhāṣya specifies three distinct definitions:
 
-```text
-VipakaResult(r, c) :=
-    UnobscuredIndeterminate(r)
-    AND AssociatedWithSentientContinuum(r)
-    AND MorallyDeterminate(c)
-    AND ArisesFrom(r, c)
-    AND TemporallyLaterThan(r, c)
-    AND NonCommon(r)
-```
-
-This excludes shared karmic products:
-
-```text
-ProducedByKarma(r)
-AND CommonlyEnjoyable(r)
-    → NOT StrictVipakaResult(r)
-    → Possibly AdhipatiFruit(r)
-```
-
-Individual appropriation is non-transferable:
-
-```text
-KarmaOf(agentA, k)
-AND VipakaResult(r, k)
-    → ExperiencedInContinuum(r, agentA)
-    AND NOT MaturationOf(r, agentB's karma)
-```
-
-Homogeneous outflow requires indexed resemblance:
-
-```text
-NisyandaFruit(r, c)
-    → Similar(r, c, similarityProfile)
-```
+| Result | Bhāṣya's defining qualification |
+|---|---|
+| Maturation | Unobscured-indeterminate, arising from morally determinate dharmas at a later time, and unshared within the relevant sentient continuum |
+| Homogeneous outflow | Similar to its cause; similarity may be by level and afflicted status without being similarity in specific type |
+| Disconnection | Cessation through insight; the Bhāṣya identifies this as analytical cessation |
 
 The homogeneous/pervasive relation admits four cases:
 
@@ -191,145 +157,14 @@ The homogeneous/pervasive relation admits four cases:
 | 3 | yes | yes | pervasive and same specific afflictive type |
 | 4 | no | no | remaining causal cases |
 
-Disconnection is:
-
-```text
-DiscriminativeWisdom(d)
-AND Exhausts(d, AfflictiveBond(b))
-    → Disconnection(b)
-    → AnalyticalCessation(b)
-```
-
-Read with VAK 2.55:
-
-```text
-Wisdom destroys the bond's causal capacity
-    ⇏ Wisdom manufactures an unconditioned object
-```
-
 ## 9. Interpretive Note
 
-VAK 2.57 supplies result-semantics rather than another list. Each fruit is
-identified through a different invariant:
+VAK 2.56 assigns principal fruits; 2.57 defines maturation, homogeneous
+outflow, and disconnection. The Bhāṣya's definitions prevent these results
+from being reduced to a single generic notion of “effect.” The account of
+disconnection is limited here to the gloss that it is cessation through
+wisdom; the passage does not explain a mechanism by which wisdom produces
+cessation.
 
-```text
-VipakaProfile {
-    ethicalStatus: unobscuredIndeterminate,
-    provenance: morallyDeterminateKarma,
-    scope: oneSentientContinuum,
-    temporalRelation: delayed,
-    sharing: nonCommon
-}
-
-NisyandaProfile {
-    similarityDimensions,
-    causalType,
-    continuation
-}
-
-DisconnectionProfile {
-    discriminativeOperation,
-    exhaustedBond,
-    futureNonArising
-}
-```
-
-This makes the difference between a shared environment and an individual
-faculty intelligible. Both may have karmic provenance, but only the latter is
-strict maturation when it belongs non-commonly to the relevant continuum.
-The classification depends upon causal relation, not surface origin alone.
-
-The `niḥṣyanda` definition confirms that a yield stream requires a similarity
-schema. A generator that merely emits subsequent values is too weak an
-analogy. The system must specify what is preserved:
-
-```text
-same level?
-same afflicted status?
-same specific type?
-```
-
-The strongest determination is `visaṃyogaḥ kṣayo dhiyā`. Earlier we proposed
-that Prajñā is not a sensation or a finished Concept but Path-forming
-discrimination. This verse gives that reconstruction a Kośa coordinate:
-
-```text
-dhī
-    → operates discriminatively
-    → exhausts the afflictive bond
-    → realizes disconnection
-```
-
-The kārikā says `dhī`, not `prajñā`, and the comparison must remain
-interpretive. Still, it supports the functional claim that discriminative
-knowing is understood through what it does along the Path, not merely through
-a conceptual image of “wisdom.”
-
-For the Agent, this suggests that Knowledge cannot be represented only as a
-stored proposition. A liberative determination carries an operation and its
-verified consequence:
-
-```text
-KnowledgeRecord {
-    discrimination,
-    targetBond,
-    exhaustionEvidence,
-    resultingNonArising
-}
-```
-
-This remains an Organon reconstruction. The primary Kośa claim is narrower:
-disconnection is the destruction effected through wisdom.
-
-The textual layers are:
-
-```text
-kārikā
-    → defines maturation, homogeneous outflow, and disconnection
-
-Bhāṣya
-    → adds delayed and non-common maturation,
-      indexed similarity, fourfold causal analysis,
-      and analytical cessation
-
-Organon reconstruction
-    → models result-semantics and relates dhī
-      to Path-forming discrimination
-```
-
-## 10. OWL++ Seed
-
-```ttl
-@prefix vak: <http://127.0.0.1:3000/vak#> .
-@prefix organon: <http://127.0.0.1:3000/organon#> .
-
-vak:VipakaResult a organon:ResultType .
-vak:NisyandaResult a organon:ResultType .
-vak:DisconnectionResult a organon:LiberativeResultType .
-
-organon:VipakaProfile a organon:OcularResultSchema ;
-    organon:requires organon:UnobscuredIndeterminateStatus,
-        organon:MorallyDeterminateProvenance,
-        organon:SentientContinuumScope,
-        organon:TemporalDelay,
-        organon:NonCommonAppropriation .
-
-organon:NisyandaProfile a organon:OcularResultSchema ;
-    organon:requires organon:SimilarityDimensions,
-        organon:CausalType,
-        organon:ContinuationProfile .
-
-organon:DisconnectionProfile a organon:OcularResultSchema ;
-    organon:requires organon:DiscriminativeOperation,
-        organon:ExhaustedBond,
-        organon:FutureNonArising .
-
-vak:Dhi a organon:DiscriminativeKnowing .
-vak:Dhi organon:exhausts vak:AfflictiveBond .
-vak:AfflictiveBond organon:hasResultWhenExhausted vak:DisconnectionResult .
-
-organon:hasSimilarityDimension a organon:ObjectProperty .
-organon:belongsToContinuum a organon:ObjectProperty .
-organon:hasAppropriationScope a organon:ObjectProperty .
-organon:exhausts a organon:ObjectProperty .
-```
+The unit runs from 95.09 through 96.02. The next kārikā, VAK 2.58, begins at
+96.03.

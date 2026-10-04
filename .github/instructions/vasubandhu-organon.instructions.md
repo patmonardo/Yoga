@@ -1,5 +1,5 @@
 ---
-description: "Governing framework for all Vasubandhu/Abhidharmakosa Organon work: Skandha-Ayatana-Dhatu read as Being-Essence-Concept, not flat lists. Use when: translating, QA'ing, or extending any VAK/Kosa/Organon material under Vasubandhu/."
+description: "Governing framework for all Vasubandhu/Abhidharmakosa Organon work: Skandha-Ayatana-Dhatu read as Base-Essence-Principle, not flat lists. Use when: translating, QA'ing, or extending any VAK/Kosa/Organon material under Vasubandhu/."
 applyTo: "Vasubandhu/**"
 ---
 
@@ -77,6 +77,8 @@ folder, consult these load-bearing project documents:
 - Only the reciprocating closure (the six vijnana-dhatus; `Reciprocates`
   in the Rust sketch) is Concept-level: Substance grasped as Subject,
   *ousia* as *energeia* rather than substrate.
+- Dhātu is rendered **Principle** in the project's threefold terminology;
+  Concept names the closure of the movement, not a translation of Dhātu.
 - The Dhatu-Indriya chapter is a **practical instance of Citta**, not a
   theory about mind in general. Citta is the Universal; the
   Skandha/Ayatana/Dhatu schema is the Particular (the theory, what the
@@ -103,18 +105,38 @@ other teachers, or an unnamed opponent only when the text does so. In
 extended Dharma Talks, do not flatten a sequence of objections and replies
 into one unqualified “Kośa position.”
 
-## Terminology
+## Current project terminology
+
+The controlled Organon mapping is **Skandha = Base, Āyatana = Essence,
+Dhātu = Principle**; *rūpa* is **Form**, so *rūpa-skandha* is **Form Base**.
+Keep Dharma untranslated in these compound labels: *dharmaskandha* is
+Dharma Base, *dharmāyatana* is Dharma Essence, and *dharmadhātu* is Dharma
+Principle. These are distinct classifications, not redundant names for one
+thing. In particular, do not conflate *dharmāyatana* with *dharmaskandha*.
+
+In the Organon reading, Essence is Dharma's *sāra*, its theoretical
+principle. This is a project-level philosophical determination, not a
+lexical claim that *āyatana* means *sāra*.
+
+Older studies and models still contain previous labels, including Being,
+Domain, Concept, and Essence Base. During the Indriyanirdeśa pass, use the
+current mapping in new work but do not perform a broad migration. Complete
+the chapter first; then inventory the terminology and update the affected
+materials systematically.
+
+## Conventional vocabulary
 
 - `rūpa` -> **Form**, never **Matter**. Matter is opposed to Form in this
   Organon framework, not an equivalent rendering; translating Form as Matter
   reverses the project's conceptual path.
-- `dhātu` -> **Domain**
+- `dhātu` -> **element** in conventional translation; **Principle** in the
+  Organon reading
 - `bhūta` / `mahābhūta` -> **Element**
 - `āyatana` -> **Essence** (the capacity/field determination; not the
   Concept)
 - `indriya` -> **Faculty**, not “organ” for Faculty-status. Use “organ”
   only for an anatomical part explicitly meant by the Sanskrit.
-- `skandha` -> **aggregate** in conventional translation; **Being** in the
+- `skandha` -> **aggregate** in conventional translation; **Base** in the
   Organon reading.
 - `citta` -> **consciousness** in conventional translation. Do not make it a
   hidden substance behind events; Universal Citta is an Organon determination.

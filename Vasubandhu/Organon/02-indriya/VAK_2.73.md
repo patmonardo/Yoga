@@ -55,7 +55,7 @@ locative phrase: “in wholesome form-realm [mind].” It takes the count
 The commentary explains *śeṣitam* as what has been left over. Where no
 special acquisition has been specified, *tasya* means acquisition of
 that mind itself, not an unspecified further list. *Rūpaje* qualifies
-the mind's realm here; it is not a new class of matter-born cognition.
+the mind's realm here; it is not a new class of Form-realm cognition.
 
 ## 5. Translation
 
@@ -165,53 +165,36 @@ possession phrase in a discussion of new acquisition. It is retained
 as a source issue rather than silently repaired here. The closing
 summary explicitly states *atadvataḥ*, “for one not possessing that,”
 which supports distinguishing new acquisition from continued possession.
-A continuous Bhāṣya pass should register the problematic local wording.
+The paired Bhāṣya study records the problematic local wording without
+silently repairing it.
 
-**Organon interpretation.** The close distinguishes the present occurrence
-of a mind-kind from its acquisition and possession. These are different
-temporal determinations: a kind may be acquired without being manifest,
-and a present occurrence need not be its first acquisition. Decline and
-reacquisition therefore belong to the account of a continuum's temporal
-articulation, not to immediate succession alone.
+**Organon interpretation—not literal Bhāṣya doctrine.** The closing
+passage distinguishes a mind-kind's manifestation from its acquisition
+and possession. Acquisition is not immediate succession, and *lābha*
+should be read in relation to—but not as a synonym for—the Indriya
+dyad *Prāpti:Aprāpti*. The occasions and remainder rule delimit the
+Bhāṣya's claims to the kinds and circumstances it specifies.
 
-The chapter's movement from faculty-governed processes through succession
-to acquisition gives the Organon a layered account of temporal
-determination within Śuddha Sattva. This remains a philosophical
-reconstruction, distinct from the conventional translation and colophon.
+At 110.05 the Bhāṣya closes the discussion of conditions; at 110.06–08
+it declares the second Kośa chapter, Indriyanirdeśa, complete. In our
+volume architecture, this is the final verse of Vol. I's Essence-side
+study. Vol. II's Loka:Karma is Appearance and the Bhava Chakra. This
+connection to Hegel's Doctrine of Essence is project-level synthesis,
+not wording in the verse or colophon.
 
-**Chapter close and review status.** The source closes the discussion
-occasioned by conditions at 110.05 and Indriyanirdeśa at 110.06–08.
-This completes the kārikā upgrades through 2.73. The study is provisional,
-checked against the research witnesses, standalone verse, and running
-source at 109.04–110.08. Continuous Bhāṣya work resumes separately at
-2.61; the original witnesses remain unchanged.
+At the textual level, trainee and beyond-training status, together
+with path-related acquisition occasions, bring Mārga into this closing
+account. In the larger three-volume architecture, Mārga is the
+determinate Concept of what it sublates as extremes: Dhātu:Indriya
+(Vol. I) as the extreme of Being and Loka:Karma (Vol. II) as the
+extreme of Essence. Vol. III, Anuśaya:Mārga, is the Master Sublator.
+Loka:Karma receives Dead Being and resurrects it by determining its
+next state. This is the Organon's synthesis, not a claim made by the
+2.73 kārikā or colophon.
 
-## 10. OWL++ Seed
-
-```ttl
-@prefix vak: <http://127.0.0.1:3000/vak#> .
-@prefix organon: <http://127.0.0.1:3000/organon#> .
-@prefix owl: <http://www.w3.org/2002/07/owl#> .
-
-organon:AcquisitionProfile a owl:Class .
-organon:manifestKind a owl:ObjectProperty .
-organon:possibleAcquiredKind a owl:ObjectProperty .
-organon:requiresOccasion a owl:ObjectProperty .
-
-vak:FormlessAfflictedAcquisition a organon:AcquisitionProfile ;
-    organon:manifestKind vak:FormlessAfflicted ;
-    organon:possibleAcquiredKind vak:FormlessAfflicted, vak:TraineeMind ;
-    organon:requiresOccasion vak:Decline .
-
-vak:TraineeAcquisition a organon:AcquisitionProfile ;
-    organon:manifestKind vak:TraineeMind ;
-    organon:possibleAcquiredKind vak:TraineeMind,
-        vak:DesireUnobscuredNeutral, vak:FormUnobscuredNeutral,
-        vak:FormlessWholesome .
-```
-
-This partial descriptive seed stores possibilities, not automatic event
-rules. It neither makes all listed acquisitions simultaneous nor infers
-new acquisition from every manifestation. Prior possession and the
-particular occasion require separate evidence; the prose's remainder
-rule is not implemented as an OWL closed-world default.
+**Review status.** The paired study is checked against both research
+witnesses, the standalone kārikā, and the running source at 109.04–110.08.
+It includes the acquisition profiles and occasions, the competing
+summary and correction, the summary verse, and the chapter colophon.
+The possession wording at 109.06–07 remains flagged; the original
+witnesses are unchanged.

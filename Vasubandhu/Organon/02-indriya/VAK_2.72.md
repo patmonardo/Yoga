@@ -142,50 +142,23 @@ unidentified. The commentary supplies *nirmāṇacitta* and the subsequent
 
 The extended commentary includes the twenty-kind succession account,
 explanations of directional asymmetries, and competing views concerning
-attention before and after the noble path. This kārikā study establishes
-the classification and its interpretive consequences; the planned
-continuous Bhāṣya edition must preserve those arguments and voices in
-full. No single unqualified attention rule is inferred here.
+attention before and after the noble path. The paired Bhāṣya study
+preserves those arguments and voices; no single unqualified attention
+rule is inferred here.
 
-**Organon interpretation.** The twentyfold scheme makes the chapter's
-temporal determinations more precise: a mind's kind, its mode of arising,
-and its directed relations cannot be collapsed into one description.
-Application, birth, attention, and path-status specify distinct grounds
-and contexts. The reported disagreement about attention preserves a live
-question about whether a path relation is immediate or mediated.
+**Organon interpretation—not literal Bhāṣya doctrine.** The twentyfold
+refinement remains within Vol. I's Essence-side account, distinguishing
+the kinds of mind, their modes of arising, and their successor relations.
+In our connection to Hegel's Doctrine of Essence, Vol. II's Loka:Karma
+is Appearance; the transition follows the Indriya chapter's explicit
+close, not this completion of the twenty-kind scheme.
 
-These profiles are not a universal timeline. The Organon reading follows
-their differences within Śuddha Sattva without resolving the Bhāṣya's
-competing explanations into a single rule.
+The Bhāṣya's reported accounts of attention before and after the path
+remain distinct and contested. Its Samādhi reference belongs to that
+discussion; it is not a systematic definition. Preserve this material
+for the more definitional Yoga Dharmapada study of YS-IV without
+resolving the Kosa's debate here.
 
 **Review status.** Provisional study checked against both research
 witnesses, the standalone kārikā, and the running commentary at
 106.05–109.03. The originals remain unchanged.
-
-## 10. OWL++ Seed
-
-```ttl
-@prefix vak: <http://127.0.0.1:3000/vak#> .
-@prefix organon: <http://127.0.0.1:3000/organon#> .
-@prefix owl: <http://www.w3.org/2002/07/owl#> .
-
-organon:hasRefinedKind a owl:ObjectProperty .
-organon:hasSuccessorKind a owl:ObjectProperty .
-
-vak:DesireUnobscuredNeutral organon:hasRefinedKind
-    vak:DesireMaturationBorn, vak:DesireDeportment,
-    vak:DesireCraft, vak:DesireCreation .
-vak:FormUnobscuredNeutral organon:hasRefinedKind
-    vak:FormMaturationBorn, vak:FormDeportment, vak:FormCreation .
-vak:FormlessUnobscuredNeutral organon:hasRefinedKind
-    vak:FormlessMaturationBorn .
-
-vak:DesireCreation organon:hasSuccessorKind
-    vak:DesireCreation, vak:FormApplicationWholesome .
-vak:FormApplicationWholesome organon:hasSuccessorKind
-    vak:DesireCreation .
-```
-
-This provisional partial seed records named kinds and selected admissible
-successions. Open-world triples do not enforce the prose's “only,” and
-no rule propagates all parent transitions to each refined kind.
