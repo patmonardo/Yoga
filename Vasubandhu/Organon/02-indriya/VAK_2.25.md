@@ -180,18 +180,22 @@ NonDelusion is operative in wholesome consciousness
 but is not a second member of WholesomeTen
 ```
 
-The attention-equanimity problem requires aspect-indexing:
+The attention-equanimity problem requires care:
 
 ```text
 Attention(e, aspectA) = Exertion
 Equanimity(e, aspectB) = NonExertion
 
-aspectA ≠ aspectB
-    → CompatibleInSameEvent(Attention, Equanimity)
+Bhāṣya proposal:
+    "in one respect ... in another"
+
+remaining objection:
+    associated factors share one object-support
 ```
 
-This does not identify exertion with non-exertion. It preserves their
-functional opposition while allowing co-presence under different aspects.
+The proposal does not yet resolve how the two functions share an
+object-support. The aspect distinction is a candidate Organon model, not a
+demonstrated solution in the Bhāṣya.
 
 The bodily-pliancy discussion supplies a semantic relation:
 
@@ -227,10 +231,12 @@ continuum.
 The equanimity discussion is especially important for discrimination. The
 same event contains attention, previously defined through application or
 exertion, and equanimity, defined through non-exertion. Vasubandhu does not
-erase the opposition. He resolves it by differentiating the aspects under
-which the two functions operate. Necessary co-arising therefore requires a
-relational model fine-grained enough to preserve opposition without declaring
-contradiction.
+erase the opposition. The reply proposes “in one respect … in another,” but
+the objection then presses that associated factors share one
+object-support. The common-object difficulty is not solved in this passage.
+An Organon account may test aspect-differentiation as a solution, but it must
+show how that distinction preserves shared support rather than treating the
+Bhāṣya's deferral as a completed answer.
 
 The discussion of bodily pliancy adds an equally important semantic rule. A
 supporting condition may receive the name of an awakening factor because it
@@ -259,6 +265,28 @@ mode of an occurrence within the range of wholesome consciousness. Their
 coordination gives content to preparation for purification, but does not
 make each wholesome event a completed purificatory stage. The object's
 particular Idea and the cognition's ethical determination remain distinct.
+
+**Across the Samyama-bhūmis:** In every wholesome consciousness-event within
+the Samyama-bhūmi progression, these ten factors co-occur. They are the
+conditional universal structure of wholesome citta, not ten stages or a
+standalone proof of path attainment. The progression is traced through how
+this wholesome configuration and the other factor-grounds are qualified
+across the bhūmis.
+
+**Fichte–Hegel method (Organon, not source attribution):** Hegelian
+determination makes the universal “wholesome” actual through its ten
+distinguishable functions. The Fichtean return negates an ethically
+undetermined reading of citta and reconstructs the event through their
+necessary co-arising. This is a Practical-Kośa analysis of an operative
+ethical configuration, not a claim that the Bhāṣya is using either
+philosopher's vocabulary.
+
+**Return to the Dhātu Principle:** VAK 1.48 places Life, feeling, and the
+five beginning with Faith among the Faculties in a portion of the
+Essence-Domain, and Mind-Faculty across the Citta Domains. VAK 2.25's
+similarly named items are mental factors, not thereby those Faculties:
+the Domain–Faculty Principle and the wholesome co-arising Rule are
+reciprocal but distinct determinations.
 
 ## 10. OWL++ Seed
 

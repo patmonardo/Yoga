@@ -248,6 +248,15 @@ distinct configurations, while torpor remains merely admissible until it
 co-occurs. This is a determinate cognitive present within Śuddha Sattva, not
 a clock timestamp or a continuum-wide biography.
 
+**DharmaChakra tracking:** The verse and Bhāṣya give two indeterminate
+desire-realm profiles: eighteen factors when obscured and twelve when
+unobscured. The outer-region teachers' alternative adds indeterminate
+remorse to the latter, making thirteen. Torpor is a separate conditional
+addition: the Bhāṣya explicitly illustrates 22→23 and 23→24; applying its
+general rule to the eighteen- and twelve-factor profiles yields nineteen
+and thirteen, respectively, but those are deductions, not its stated
+examples. No profile here is assigned to a particular Samyama-bhūmi.
+
 ## 10. OWL++ Seed
 
 ```ttl

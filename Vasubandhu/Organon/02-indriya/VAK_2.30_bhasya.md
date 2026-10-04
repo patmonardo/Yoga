@@ -194,6 +194,15 @@ such as torpor changes its count only upon co-presence. Event-time here
 names the present organization of Śuddha Sattva, not clock-time. This
 philosophical reading leaves the Bhāṣya's attributional alternatives intact.
 
+**DharmaChakra tracking:** The source gives eighteen factors for
+obscured-indeterminate consciousness and twelve for unobscured-indeterminate
+consciousness, with indeterminate remorse making thirteen in the outer-region
+teachers' account. Torpor is a distinct, conditional addition. The prose
+explicitly gives 22→23 and 23→24; applying the general rule to the eighteen-
+and twelve-factor profiles gives nineteen and thirteen, but these are
+deductions rather than the prose's examples. No specific Samyama-bhūmi is
+named for these profiles.
+
 ## 10. Review Status
 
 Provisional thirtieth study of the restarted Indriyanirdeśa Bhāṣya

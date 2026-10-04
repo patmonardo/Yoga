@@ -188,12 +188,14 @@ as a named item, but through the consciousnesses in which it occurs.
 The definition of ground makes that relation explicit and prepares
 the more particular inquiry into each class.
 
-These are grounds for a systematic reading of mental life. They
-do not yet identify the five classes with a sequence of practice,
-or establish an equivalence with Yoga grounds. Such a reconstruction
-would need the actual factor definitions and distributions that
-follow. The present result is the relation between necessary
-co-arising and the scope of a factor's occurrence.
+These relations ground a systematic reading of mental life. In the
+project's Organon framework, the mental-factor analysis beginning here and
+the Kośa's Path structure unfold through the ten Samyama-bhūmis. The factor
+classes are not themselves equated one-to-one with those stages; their
+membership and operating ranges must be tracked across the progression.
+The present verse establishes its starting conditions: necessary co-arising,
+the scope of conditioned marks, restricted acquisition, and the definition
+of *bhūmi* as operating range.
 
 **Organon reading:** Cognition names the universal cognitive determination
 of the articulated event; the five grounds specify the ranges within which
@@ -201,6 +203,13 @@ factors operate. Those ranges are not five successive times, and acquisition
 does not collapse into conditioned co-arising. This reading places the
 classification within the temporal organization of Śuddha Sattva without
 attributing that philosophical framework to the Bhāṣya's translation.
+
+**Samyama-bhūmi progression:** In the Organon reading, VAK 2.23 begins the
+progression through which mental factors and the Kośa's Path structure are
+traced across the ten Samyama-bhūmis. The Bhāṣya's *bhūmi* still means
+operating range in the conventional account; the progression is the
+project's interpretation of how those ranges articulate Path. It does not
+make the five named factor-classes identical to five or ten stages.
 
 **Return to the Dhātu Principle:** VAK 1.48 places Mind-Faculty across the
 seven Citta Domains. That typed incidence is not the same determination as

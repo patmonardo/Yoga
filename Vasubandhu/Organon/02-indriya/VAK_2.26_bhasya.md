@@ -274,6 +274,28 @@ measured duration. The distinction between a factor's range, its qualified
 form, and predominance prevents the Organon account from turning the
 enumeration into one undifferentiated temporal state.
 
+**Across the Samyama-bhūmis:** The wholesome range of 2.25 and the
+afflicted/unwholesome ranges here are tracked across the Path progression;
+they are not themselves successive stages. In an afflicted consciousness,
+universal functions persist in qualified modes, while the six afflicted
+great-ground factors and two unwholesome great-ground factors have their
+respective restricted ranges.
+
+**Fichte–Hegel method (Organon, not source attribution):** Affliction is a
+determinate negation of wholesome operation, not an empty absence of
+consciousness or mental function. The fourfold analysis shows the Hegelian
+need to preserve overlap among different classificatory predicates; the
+Fichtean return reconstructs the event through underlying function,
+afflicted mode, ground, and predominance. This reading leaves the
+distraction dispute open rather than using a philosophical schema to settle
+the Bhāṣya's unresolved alternative.
+
+**Return to the Dhātu Principle:** VAK 1.48 places Mind-Faculty across the
+Citta Domains; the factors and qualified modes analyzed here are not
+additional Mind-Faculties. Shared terminology with Faculty analysis does
+not collapse mental-factor operation into Dhātu placement: the Principle
+and this Rule remain distinct and reciprocal.
+
 ## 10. Review Status
 
 Provisional twenty-sixth study of the restarted Indriyanirdeśa

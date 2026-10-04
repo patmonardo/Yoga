@@ -219,6 +219,12 @@ is the particular content under evaluation, not an additional factor.
 These are Organon terms for the analysis, not the Bhāṣya's own doctrine of
 Transcendental Time.
 
+**DharmaChakra tracking:** The source specifies a wholesome desire-realm
+profile: twenty-two necessary factors, with remorse added only in some
+cases. This count contributes a concrete factor-distribution to the broader
+bhūmi progression, but the passage does not name a Samyama-bhūmi for it.
+Mind-Faculty's Dhātu placement and this *caitasika* count remain distinct.
+
 ## 10. Review Status
 
 Provisional twenty-eighth study of the restarted Indriyanirdeśa

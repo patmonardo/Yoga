@@ -281,6 +281,15 @@ remains the universal act, while the particular Idea/reference and the
 ethical factor's mode are distinguished. Grounding, following, and identity
 remain separate relations rather than chronological steps.
 
+**DharmaChakra tracking:** This verse requires tracking a factor's
+object-reference as well as its ethical classification. The Bhāṣya's
+realm restriction applies to person-directed affection and respect: those
+forms are absent in the formless realm, while dharma-directed faith and
+moral shame remain. It also distinguishes a factor from the cognitive
+presentation it conditions, and records alternative accounts rather than
+collapsing them into one settled identity. These distinctions refine the
+factor profiles without assigning them to a specific Samyama-bhūmi.
+
 ## 10. OWL++ Seed
 
 ```ttl

@@ -245,6 +245,14 @@ between mode and co-presence in a present Cognition, not the addition of
 another step in a path chronology. A particular Idea may shape the view's
 orientation without becoming a separate cognition.
 
+**DharmaChakra tracking:** This is a desire-realm, unwholesome profile:
+twenty factors in the isolated and view-associated cases, twenty-one when a
+distinct affliction or remorse is added. The count turns on whether the
+named view specializes an existing factor or a distinct factor is present.
+This gives a concrete profile for the broader bhūmi progression, but the
+verse does not assign it to a particular Samyama-bhūmi. These are mental
+factors in a consciousness-event, not a new count of Faculties.
+
 ## 10. OWL++ Seed
 
 ```ttl

@@ -194,6 +194,12 @@ interchangeable items, nor should a difference in Ideas be mistaken for
 another cognition. This reconstruction preserves the Bhāṣya's local
 identity test.
 
+**DharmaChakra tracking:** The Bhāṣya gives a desire-realm unwholesome
+configuration, distinguishes a mode of the already-counted discernment
+from an additional factor, and specifies when the count rises from twenty
+to twenty-one. It supplies a factor-profile for the larger progression;
+it does not name a Samyama-bhūmi here.
+
 ## 10. Review Status
 
 Provisional twenty-ninth study of the restarted Indriyanirdeśa

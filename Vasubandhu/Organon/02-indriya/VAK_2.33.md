@@ -261,6 +261,14 @@ actual co-presence in an event. Neither is reducible to a clock-duration.
 The proposed non-simultaneity of vitarka and vicāra remains one disputed
 account; do not turn it into the chapter's settled chronology.
 
+**DharmaChakra tracking:** Keep level-attribution distinct from
+momentary co-presence. One reported view explains the first dhyāna's
+five-limbed designation as applying at the level (*bhūmi*), not necessarily
+to every moment (*kṣaṇa*); other accounts argue for or test co-presence.
+The Bhāṣya does not settle the dispute here. This distinction constrains
+how the factor progression is tracked, but does not itself identify the
+dhyāna levels with the ten Samyama-bhūmis.
+
 ## 10. OWL++ Seed
 
 ```ttl

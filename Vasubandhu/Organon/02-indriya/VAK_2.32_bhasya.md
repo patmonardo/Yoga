@@ -272,6 +272,13 @@ faculty chronology. The universal cognitive occurrence can bear these
 particular ethical orientations without reducing them to one another.
 This framing does not resolve the Bhāṣya's competing explanations.
 
+**DharmaChakra tracking:** The closing realm restriction is object-specific:
+person-directed affection and respect are absent in the formless realm,
+but faith and moral shame directed toward dharmas remain there. The passage
+therefore tracks caitta range by reference, not merely by factor-name. Its
+definitions and alternatives refine the factor analysis; they do not assign
+these distinctions to a particular Samyama-bhūmi.
+
 ## 10. Review Status
 
 Provisional thirty-second study of the restarted Indriyanirdeśa

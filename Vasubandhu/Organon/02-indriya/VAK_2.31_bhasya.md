@@ -197,6 +197,15 @@ there, while the Bhāṣya expressly prevents equating exclusion of the
 unwholesome with elimination of every affliction. This does not make the
 stages interchangeable or the temporal order merely metaphorical.
 
+**DharmaChakra tracking:** The Bhāṣya's closing sentence makes the
+classification explicit: it has stated how many mental factors occur in
+which consciousness at which level. The exclusions accumulate from the
+first dhyāna through the intermediate level and beyond; the higher-level
+addition names deception and crookedness, not intoxication. This gives a
+text-grounded level-indexed factor distribution, without establishing a
+one-to-one identity between these dhyāna/formless levels and the ten
+Samyama-bhūmis.
+
 ## 10. Review Status
 
 Provisional thirty-first study of the restarted Indriyanirdeśa

@@ -249,6 +249,14 @@ classification marks a path-specific possibility for transforming
 defilement, not a set of events that must occur in every biography or a
 clock-timed duration of affliction.
 
+**Bounded return to Dhātu 1.48:** Mind-Faculty is mapped across the Citta
+Domains; *mano-bhūmika* here restricts these mental factors to the mental
+sphere. It does not make them Faculties or add them to Dhātu's Faculty
+inventory. For the Samyama-bhūmi study, the textual points to track are
+their mental-sphere restriction and abandonment through cultivation. The
+verse does not say that all ten arise together or assign them to particular
+bhūmis.
+
 ## 10. OWL++ Seed
 
 ```ttl

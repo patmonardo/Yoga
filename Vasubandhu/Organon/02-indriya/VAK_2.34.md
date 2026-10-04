@@ -292,6 +292,15 @@ number articulate its unity. This cognitive present is not a shared clock
 timestamp. Citta, manas, and vijñāna are functional addresses of the
 universal Cognition, and the particular Idea is its object-content.
 
+**DharmaChakra tracking:** VAK 2.33 distinguished attribution to a level
+from co-presence in a moment. Here the Bhāṣya specifies event-level
+association through equality of support, object-support, manner, time, and
+numerical instance. A factor's inclusion in a level-profile alone does not
+establish that every profile-member occurs in every moment; when citta and
+caittas are associated in an event, these five relations characterize that
+association. This clarifies the event-level analysis without resolving the
+earlier disputed accounts or assigning the profile to a Samyama-bhūmi.
+
 ## 10. OWL++ Seed
 
 ```ttl

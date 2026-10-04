@@ -200,6 +200,13 @@ addresses of the universal cognitive act; the shared object-support is
 its particular Idea. This interpretation preserves the factors' numerical
 and functional difference.
 
+**DharmaChakra tracking:** The five equalities specify how consciousness
+and its associated factors form one event: shared faculty-support,
+object-support, manner, time, and one instance of each factor. This
+event-level rule complements the previous verse's distinction between
+level-attribution and momentary co-presence, but does not adjudicate its
+debate or map these profiles onto a specific Samyama-bhūmi.
+
 ## 10. Review Status
 
 Provisional thirty-fourth study of the restarted Indriyanirdeśa

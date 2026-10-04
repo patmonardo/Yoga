@@ -191,13 +191,13 @@ different from attention, or attention different from concentration.
 The definitions and the concluding difficulty belong to the same
 work of discrimination.
 
-A comparison with Yoga can subsequently examine how prajñā and
-samādhi are cultivated and qualified. This passage itself establishes
-neither their perfected form nor a correspondence with a sequence
-of Yoga practices. Universal occurrence and adequacy of knowing
-are different determinations; the present analysis supplies the
-former as a reported doctrine and leaves the latter to further
-investigation.
+Across the Samyama-bhūmi progression beginning with VAK 2.23, these
+ten are the invariant functional basis present in every
+consciousness-event. The verse does not map each factor to an
+individual bhūmi or say that universal occurrence is perfected
+practice. It establishes the common mental structure; the Path
+progression concerns its further qualification, and universal
+occurrence remains distinct from adequate or liberating knowing.
 
 **Organon reading:** The ten factors are universal cognitive determinations
 of each event's articulated form, not a succession through which cognition
@@ -205,6 +205,22 @@ is assembled over clock-time. The event's particular Idea, its object-
 content, is not another member of the ten. This offers an Organon account
 of universality without turning the reported doctrine into a claim that
 every cognition is equally adequate or realized.
+
+**Fichte–Hegel method (Organon, not source attribution):** Hegel's
+universal is actual here only as the differentiated unity of mental
+functions; it is not a bare abstraction. In the Fichtean return, the
+analysis negates independently existing, factorless Citta and reconstructs
+the event through its ten co-arising functions. This is the Practical
+Kośa's operative demonstration of the method, not a historical claim about
+Vasubandhu.
+
+**Return to the Dhātu Principle:** VAK 1.48 maps Mind-Faculty across seven
+Citta Domains. That placement is distinct from the ten mental functions
+co-arising with each Citta-event. The Dhātu Principle establishes typed
+placement; the Rule here articulates the universal organization of the
+event. Across the Samyama-bhūmis, the functions are followed as a common
+basis for Path development, without being equated with the bhūmis or
+treated as perfected in every consciousness.
 
 ## 10. Review Status
 

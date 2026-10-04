@@ -178,6 +178,15 @@ defilement/purification dimensions of Śuddha Sattva, rather than a
 universal sequence of episodes. This is a philosophical extension of the
 classification, not a teaching stated in the Bhāṣya.
 
+**Bounded Dhātu return and Samyama tracking:** VAK 1.48 maps
+Mind-Faculty across the Citta Domains; the *mano-bhūmika* qualification
+here limits the ten mental factors to the mental sphere without making them
+Faculties. In tracing the Samyama-bhūmi progression, this passage supports
+only the stated constraints: association with ignorance, abandonment
+through cultivation, and mental-sphere operation. The individual
+definitions are deferred, and the ten are not asserted to co-arise as one
+set.
+
 ## 10. Review Status
 
 Provisional twenty-seventh study of the restarted Indriyanirdeśa

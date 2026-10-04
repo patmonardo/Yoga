@@ -274,6 +274,27 @@ faculty or proof that every wholesome moment is a path-attainment. The
 particular object-content cannot substitute for the distinct functions
 and relations the Bhāṣya carefully preserves.
 
+**Across the Samyama-bhūmis:** In each wholesome consciousness-event within
+the progression, these ten factors co-occur. That conditional universality
+does not identify wholesome consciousness with a single Samyama-bhūmi or
+path-stage. It gives the ethical configuration that must be tracked as
+the Kośa's Path progresses through the bhūmis, alongside the distinct
+operating ranges of the other factor-classes.
+
+**Fichte–Hegel method (Organon, not source attribution):** The Hegelian
+determination is the universal “wholesome” actualized as ten differentiated
+functions. The Fichtean return negates a merely undetermined citta and
+reconstructs it as an ethical event through their necessary co-arising.
+This is the Practical Kośa showing a rule in operation, not a claim that
+the Bhāṣya uses either philosopher's terms.
+
+**Return to the Dhātu Principle:** VAK 1.48 locates Life, feeling, and the
+five Faculties beginning with Faith in a portion of the Essence-Domain,
+with Mind-Faculty across the Citta Domains. VAK 2.25 analyzes similarly
+named determinations as mental factors, not simply as those Faculties.
+Their shared names do not collapse the Dhātu Principle of typed placement
+into the Rule of wholesome co-arising.
+
 ## 10. Review Status
 
 Provisional twenty-fifth study of the restarted Indriyanirdeśa

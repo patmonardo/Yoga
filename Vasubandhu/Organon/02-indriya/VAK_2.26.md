@@ -274,6 +274,30 @@ present configuration rather than a lapse in cognition. Shifts in mode and
 predominance are determinations of an event, not clock-duration or proof
 that every continuum follows the same sequence of defilement and release.
 
+**Across the Samyama-bhūmis:** VAK 2.25's wholesome range and VAK 2.26's
+afflicted and specifically unwholesome ranges must be traced through the
+Samyama-bhūmi progression. They are not three successive bhūmis or a
+universal biography in which every practitioner passes through the same
+defilement. Within an afflicted event, universal functions persist under
+afflicted modes; the six factors exclusive to the afflicted ground and the
+two exclusive to the unwholesome ground remain distinct by range.
+
+**Fichte–Hegel method (Organon, not source attribution):** Hegelian
+determinate negation preserves the universal mental function while
+distinguishing its afflicted mode from its wholesome determination. The
+Fichtean return negates the picture of affliction as mere absence of
+function and reconstructs the event through its altered modes, its
+ground-class, and predominance. The fourfold analysis is essential here:
+universal and afflicted classifications overlap in specified cases and
+cannot be flattened into mutually exclusive lists. The disputed status of
+distraction remains an open determination.
+
+**Return to the Dhātu Principle:** VAK 1.48 maps one Mind-Faculty across
+the seven Citta Domains. VAK 2.26 classifies mental factors and their
+afflicted modes, not additional Mind-Faculties. Where a factor-name also
+appears in Faculty analysis, its role here remains that of a mental factor;
+the Rule of its mode and range does not erase Dhātu's typed placement.
+
 ## 10. OWL++ Seed
 
 ```ttl

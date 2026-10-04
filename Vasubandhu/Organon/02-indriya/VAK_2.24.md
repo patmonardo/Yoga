@@ -266,6 +266,30 @@ articulation; the particular Idea is its object-content. Their universal
 presence supplies a structure that path-practice may transform, not a claim
 that every cognition is already perfected.
 
+**Across the Samyama-bhūmis:** Beginning from VAK 2.23, the ten-factor
+structure is the invariant mental basis traced across the Samyama-bhūmi
+progression. The verse does not assign one factor to each bhūmi; it says
+that all ten are present in every consciousness-event. The progression
+concerns how this universal basis is qualified and made adequate, not the
+successive acquisition of factors. *Mati/prajñā* and *samādhi* are therefore
+already present as functions, while their perfected Yoga determinations
+remain distinct.
+
+**Fichte–Hegel method (Organon, not source attribution):** The Hegelian
+moment is the universal made actual through differentiated functions: no
+empty Citta stands apart from feeling, recognition, volition, attention, and
+the other factors. The Fichtean return negates the abstraction of bare
+consciousness and reconstructs each event as this reciprocal, self-articulated
+act. The Kośa's practical analysis exhibits the rule in operation; it is not
+merely a theoretical list of functions.
+
+**Return to the Dhātu Principle:** VAK 1.48 maps one Mind-Faculty across the
+seven Citta Domains. VAK 2.24 differentiates the functions necessarily
+arising with each consciousness-event without multiplying that Faculty or
+identifying factors with its Domain-loci. Dhātu supplies the Principle of
+typed placement; the universal co-arising rule shows the mental event
+operating within it.
+
 ## 10. OWL++ Seed
 
 ```ttl

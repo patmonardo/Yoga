@@ -238,6 +238,12 @@ its quality depends on the evaluative direction, not on a fixed temporal
 stage or on the deed's content alone. The particular Idea and the cognitive
 act's ethical determination are distinct.
 
+**DharmaChakra tracking:** This verse gives one specific profile in the
+larger progression: wholesome desire-realm consciousness has twenty-two
+required factors, with remorse as a conditional twenty-third. It does not
+assign this profile to a particular Samyama-bhūmi. VAK 1.48's Mind-Faculty
+map and this count of associated mental factors are distinct classifications.
+
 ## 10. OWL++ Seed
 
 ```ttl

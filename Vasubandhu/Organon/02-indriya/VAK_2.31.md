@@ -251,6 +251,15 @@ ground, not clock duration, not the total temporal history of any
 continuum, and not evidence that each higher ground contains only wholesome
 factors.
 
+**DharmaChakra tracking:** The Bhāṣya explicitly closes by saying that it
+has stated how many mental factors occur in which consciousness at each
+level. Its sequence is textually specific: the first dhyāna excludes remorse,
+torpor, and unwholesome operation; the intermediate level additionally
+excludes `vitarka`; beyond it, `vicāra` is also absent, along with deception
+and crookedness. The latter exclusion does not include intoxication. This
+supports tracking factor profiles by level, but the passage does not identify
+its dhyāna and formless levels one-to-one with the ten Samyama-bhūmis.
+
 ## 10. OWL++ Seed
 
 ```ttl

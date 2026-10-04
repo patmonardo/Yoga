@@ -229,20 +229,24 @@ across kinds of consciousness. “Great” means universally ranged; the other
 classes will discriminate wholesome, defiled, unwholesome, and restricted
 defiled ranges.
 
-The user's posit—this is Path Knowledge—is genuinely supported as an Organon
-hypothesis, provided it is stated precisely:
+The Path-Knowledge determination is:
 
 ```text
 PathKnowledge
     = knowledge of the lawful operating grounds
       of factors that configure consciousness
+      traced through the Samyama-bhūmi progression
 ```
 
-VAK 2.23 does not itself call the five classes a path, nor does its `bhūmi`
-mean a Yoga `samyama-bhūmi` without further argument. But it supplies the
-architecture needed for path knowledge: consciousness is necessarily
-functional, factors have determinate ranges, and ethical-path differences
-are encoded by which factors operate across which states.
+**Samyama-bhūmi progression (Organon thesis):** Beginning with VAK 2.23,
+the Kośa's mental-factor analysis and its Path structure are read as a
+progression through the ten Samyama-bhūmis. The factors are traced by where
+they occur across that progression; the five *caitta* classes are not
+assigned one-to-one to five or ten stages. The Bhāṣya's *bhūmi* remains,
+in conventional translation, a factor's sphere of operation. The
+Samyama-bhūmi progression is the project's Organon synthesis of those
+distributions, not a lexical equation or a claim that every continuum follows
+one clock-time biography.
 
 For the Kośa Technē Agent:
 
@@ -258,17 +262,18 @@ Bhūmi
 ```
 
 **Organon temporal reading:** The grounds quantify where universal
-Cognitions are articulated with their factors; the classes are distributions
-over kinds of consciousness, not stages in a temporal itinerary. A
-particular Idea may be the event's object-content, but it is not identified
-with the universal cognitive act or with the factor's operating range.
+Cognitions are articulated with their factors; the five classes describe
+distributions over kinds of consciousness, not five stages. Their
+distribution across the Samyama-bhūmis articulates the Path progression
+structurally, not as a clock-time itinerary. A particular Idea may be the
+event's object-content, but it is not identified with the universal
+cognitive act or with the factor's operating range.
 
-The next verses can now test the stronger Yoga relation. If their factor
-lists form ordered capacities for orientation, stabilization,
-discrimination, obstruction, and purification, then the Kośa bhūmis may be
-reconstructed as the mental-state grammar through which the Yoga Agent rides
-to knowledge. That conclusion must be generated from the distributions, not
-assumed in advance.
+The next verses will establish how each factor-class is distributed and how
+those distributions articulate the Samyama-bhūmi progression. The Path
+structure is read through that unfolding, while each proposed correspondence
+must be grounded in the actual factor membership and operating ranges rather
+than assumed from the class names.
 
 **Return to the Dhātu Principle:** VAK 1.48 maps the Mind-Faculty across the
 seven Citta Domains while distinguishing that Faculty-locus from the

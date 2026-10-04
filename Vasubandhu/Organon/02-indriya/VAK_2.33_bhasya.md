@@ -244,6 +244,14 @@ contrast between conceit and intoxication is more determinate because each
 organizes self-relation differently. This keeps path-level and momentary
 determinations distinct within the account of Śuddha Sattva.
 
+**DharmaChakra tracking:** The reported non-coexistence account reads the
+first dhyāna's five limbs at the level (*bhūmi*), not as a requirement that
+all five occur together in each moment (*kṣaṇa*). Other positions in the
+debate address the proposed joint operation of *vitarka* and *vicāra*;
+the passage supplies no final adjudication. Preserve the level/event
+distinction without converting it into a one-to-one mapping to the ten
+Samyama-bhūmis.
+
 ## 10. Review Status
 
 Provisional thirty-third study of the restarted Indriyanirdeśa

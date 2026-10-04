@@ -131,6 +131,16 @@ determination of the architecture already there.
 
 This correspondence is transcendental because it concerns the conditions under which determinate knowing is possible.
 
+The mental-factor movement begins at VAK 2.23. From this point, the Kośa's
+analysis of mental factors and its Path structure are read as a progression
+through the project's ten Samyama-bhūmis. The Bhāṣya defines *bhūmi*
+locally as a factor's sphere of operation; the Organon tracks how factors
+occur across the Samyama-bhūmi progression. This is not a lexical equation
+between *bhūmi* and Samyama-bhūmi, nor a one-to-one assignment of the five
+mental-factor classes to five or ten stages. Each distribution must be
+established from the text, while the ordered progression is the project's
+Path-reading of the Kośa.
+
 ## 5. Sattva as Transparent Intelligibility
 
 Sattva is not exhausted by serenity, pleasant emotion, pure food, or moral respectability. These may be empirical consequences of sattva, but they do not state its Concept.
