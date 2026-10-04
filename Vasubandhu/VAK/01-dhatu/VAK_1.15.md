@@ -24,7 +24,7 @@ Source label in GRETIL: `VAkK_1.15`. Project-normalized label: `VAkK_1.15`.
 | ete | ete | these |
 | punaḥ | punaḥ | again |
 | trayaḥ | trayaḥ | three |
-| dharma-āyatana-dhātu-ākhyāḥ | dharma-āyatana-dhātu-ākhyāḥ | called dharma-sphere and dharma-domain |
+| dharma-āyatana-dhātu-ākhyāḥ | dharma-āyatana-dhātu-ākhyāḥ | called Dharma-Essence and dharma-domain |
 | saha | saha | together with |
 | avijñapti-asaṃskṛtaiḥ | avijñapti-asaṃskṛtaiḥ | avijñapti and the unconditioned |
 
@@ -50,11 +50,11 @@ saṃskāra
 
 ## 5. Literal Translation
 
-> The others than the four are the aggregate of formations. These three again, together with avijñapti and the unconditioned, are called the dharma-sphere and dharma-domain.
+> The others than the four are the aggregate of formations. These three again, together with avijñapti and the unconditioned, are called the Dharma-Essence and dharma-domain.
 
 ## 6. Philosophical Translation
 
-> All conditioned factors not included in the other four aggregates belong to the aggregate of formations. Feeling, saṃjñā, and formations, together with avijñapti and the unconditioned, are gathered under the dharma-sphere and dharma-domain.
+> All conditioned factors not included in the other four aggregates belong to the aggregate of formations. Feeling, saṃjñā, and formations, together with avijñapti and the unconditioned, are gathered under the Dharma-Essence and dharma-domain.
 
 Organon rendering:
 
@@ -66,7 +66,7 @@ Organon rendering:
 |---|---|---|
 | saṃskāra | formation | conditioned formative factor |
 | skandha | aggregate | structured aggregate-field |
-| dharmāyatana | dharma-sphere | sixth object-sphere for manas |
+| dharmāyatana | Dharma-Essence | sixth object-Essence for manas |
 | dharmadhātu | dharma-domain | domain of dharmas/determinations |
 | avijñapti | non-disclosive form | included in dharma-domain |
 | asaṃskṛta | unconditioned | included in dharma-domain |

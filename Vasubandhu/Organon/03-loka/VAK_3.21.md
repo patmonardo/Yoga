@@ -95,10 +95,10 @@ uses the same construction for `saṃskāra`.
 > present birth is designated **formations**. At the moment of rebirth-linking
 > in the mother's womb, all five aggregates are designated **differentiated
 > cognition**; the aggregate-stage following that junction, until the arising
-> of the six spheres, is designated **name-and-form**.
+> of the six Essences, is designated **name-and-form**.
 
 Association and predominance, the five aggregates at rebirth-linking, and the
-six-sphere boundary of `nāmarūpa` are Bhāṣya determinations.
+six-Essence boundary of `nāmarūpa` are Bhāṣya determinations.
 
 ## 6. Philosophical Translation
 
@@ -126,7 +126,7 @@ six-sphere boundary of `nāmarūpa` are Bhāṣya determinations.
 | saṃdhiskandha | junction-aggregates | all five aggregates at rebirth-linking |
 | vijñāna | differentiated cognition | predominant determination naming the whole junction-stage |
 | saṃdhicitta | linking consciousness | Bhāṣya term marking the temporal boundary before `nāmarūpa` |
-| nāmarūpa | name-and-form | post-linking aggregate-stage before the six spheres arise |
+| nāmarūpa | name-and-form | post-linking aggregate-stage before the six Essences arise |
 | avasthā | stage / state | concrete temporal condition designated by a predominant factor |
 
 `Vijñāna` is not translated as `jñāna` or achieved knowing. The Bhāṣya does not
@@ -286,7 +286,7 @@ vak:VijnanaStage
 vak:NamarupaStage
     a vak:DependentOriginationStage ;
     vak:follows vak:VijnanaStage ;
-    vak:terminatesAt vak:ArisingOfSixSpheres .
+    vak:terminatesAt vak:ArisingOfSixEssences .
 
 organon:WorldSystemComprehension
     a organon:ProjectInterpretation ;

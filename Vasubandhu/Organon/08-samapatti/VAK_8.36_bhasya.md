@@ -28,7 +28,7 @@ Kārikā study: [`VAK_8.36.md`](./VAK_8.36.md).
 
 ## 3. Continuous Conventional Translation
 
-> Ten totality-spheres — from uninterrupted complete pervasion. Earth, water,
+> Ten totality-Essences — from uninterrupted complete pervasion. Earth, water,
 > fire, wind, blue, yellow, red, white; and the totalities of infinite space and
 > infinite knowledge.
 >

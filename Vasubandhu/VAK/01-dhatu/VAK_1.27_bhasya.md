@@ -7,7 +7,7 @@
 
 ### Translation
 
-> Likewise, the other aggregates, spheres, and domains taught elsewhere are to be assigned, as appropriate, among those already stated, after carefully determining the intrinsic characteristic of each.
+> Likewise, the other aggregates, Essences, and domains taught elsewhere are to be assigned, as appropriate, among those already stated, after carefully determining the intrinsic characteristic of each.
 
 The verse states a general rule for reconciling expanded scriptural classifications with the basic five-skandha, twelve-āyatana, and eighteen-dhātu schemes.
 
@@ -41,17 +41,17 @@ The verse states a general rule for reconciling expanded scriptural classificati
 
 ### Translation
 
-> Whatever other aggregates, spheres, and domains are taught in the sūtras must likewise be assigned, as appropriate, among the aggregates and other categories already stated, after carefully considering the particular characteristic of each as it has been established in this treatise.
+> Whatever other aggregates, Essences, and domains are taught in the sūtras must likewise be assigned, as appropriate, among the aggregates and other categories already stated, after carefully considering the particular characteristic of each as it has been established in this treatise.
 >
 > Thus, among the five aggregates of discipline, concentration, wisdom, liberation, and knowledge-and-vision of liberation, the aggregate of discipline is included within the form aggregate; the remaining four are included within the formations aggregate.
 >
-> Of the ten totality-spheres, eight, because they have non-greed as their intrinsic nature, are included within the dharma-sphere. When taken together with their associated factors, however, they have the nature of all five aggregates and are included within the mind-sphere and dharma-sphere. The same applies to the spheres of mastery.
+> Of the ten totality-Essences, eight, because they have non-greed as their intrinsic nature, are included within the Dharma-Essence. When taken together with their associated factors, however, they have the nature of all five aggregates and are included within the mind-Essence and Dharma-Essence. The same applies to the Essences of mastery.
 >
-> The totalities of infinite space and infinite consciousness, together with the four spheres beginning with the sphere of infinite space, have the nature of four aggregates and are therefore included within the mind-sphere and dharma-sphere.
+> The totalities of infinite space and infinite consciousness, together with the four Essences beginning with the Essence of infinite space, have the nature of four aggregates and are therefore included within the mind-Essence and Dharma-Essence.
 >
-> The five spheres of liberation, because they have wisdom as their intrinsic nature, are included within the dharma-sphere. When taken together with their associated factors, they are included within sound, mind, and dharma as spheres.
+> The five Essences of liberation, because they have wisdom as their intrinsic nature, are included within the Dharma-Essence. When taken together with their associated factors, they are included within sound, mind, and dharma as Essences.
 >
-> Of the two further spheres, non-conceptual beings are included within ten spheres, because the spheres of smell and taste are absent there; those who have attained the sphere of neither-conceptualization-nor-non-conceptualization are included within the mind-sphere and dharma-sphere.
+> Of the two further Essences, non-conceptual beings are included within ten Essences, because the Essences of smell and taste are absent there; those who have attained the Essence of neither-conceptualization-nor-non-conceptualization are included within the mind-Essence and Dharma-Essence.
 >
 > In the same way, the discourse on the many domains teaches sixty-two domains. Their inclusion is to be understood as appropriate in each case.
 
@@ -59,7 +59,7 @@ The verse states a general rule for reconciling expanded scriptural classificati
 
 ### 3.1 The verse gives a method of reduction without erasure
 
-The expanded classifications found throughout the sūtras do not stand outside the basic Abhidharma framework. They are assigned back into the established five aggregates, twelve spheres, and eighteen domains.
+The expanded classifications found throughout the sūtras do not stand outside the basic Abhidharma framework. They are assigned back into the established five aggregates, twelve Essences, and eighteen domains.
 
 But this assignment is not performed by name or superficial resemblance. Vasubandhu requires prior examination of each item's `svalakṣaṇa`.
 
@@ -81,7 +81,7 @@ Several classifications change depending on whether a term designates:
 1. the principal dharma alone, or
 2. that dharma together with its associated factors (`saparivāra`).
 
-For example, eight totality-spheres are intrinsically non-greed. Considered in that narrow sense, they belong to dharmāyatana. Considered together with their full associated complex, they involve all five aggregates and therefore extend across manas and dharma as spheres.
+For example, eight totality-Essences are intrinsically non-greed. Considered in that narrow sense, they belong to dharmāyatana. Considered together with their full associated complex, they involve all five aggregates and therefore extend across manas and dharma as Essences.
 
 Thus one scriptural expression can receive more than one valid classification because the intended scope differs.
 
@@ -93,7 +93,7 @@ The Bhāṣya gives concrete examples:
 - concentration, wisdom, liberation, and knowledge-and-vision are classified under saṃskāraskandha;
 - non-greed and wisdom are classified under dharmāyatana;
 - immaterial attainments are classified through the four non-material aggregates;
-- realms lacking smell and taste are classified through the ten remaining spheres.
+- realms lacking smell and taste are classified through the ten remaining Essences.
 
 The criterion is not the ordinary meaning of the label. It is the actual dharma or complex of dharmas denoted by that label.
 
@@ -118,7 +118,7 @@ The resulting classification is therefore contextual, but still rule-governed.
 
 ```text
 Problem:
-The sūtras teach many additional aggregates, spheres, and domains.
+The sūtras teach many additional aggregates, Essences, and domains.
 How do these relate to the basic Abhidharma lists?
 
 Rule:
@@ -166,13 +166,13 @@ The basic systems are not merely short lists beside longer ones. They function a
 
 ### `kṛtsnāyatana`
 
-- **Provisional meaning:** totality-sphere
+- **Provisional meaning:** totality-Essence
 - **Status:** meditative classification cited from the sūtras
 - **Function:** example showing that classification differs depending on whether its principal nature or associated complex is intended
 
 ### `abhibhvāyatana`
 
-- **Provisional meaning:** sphere of mastery
+- **Provisional meaning:** Essence of mastery
 - **Status:** meditative classification
 - **Function:** another example of inclusion through the same method
 
@@ -188,13 +188,13 @@ The basic systems are not merely short lists beside longer ones. They function a
 
 The existing translation should be refined in two respects.
 
-First, `anye ... skandhāyatanadhātavaḥ` refers specifically to the additional aggregates, spheres, and domains taught elsewhere in scripture, not to “other dharmas” in general.
+First, `anye ... skandhāyatanadhātavaḥ` refers specifically to the additional aggregates, Essences, and domains taught elsewhere in scripture, not to “other dharmas” in general.
 
 Second, `pratipādyāḥ` is best rendered here as “to be assigned” or “to be placed,” because the Bhāṣya immediately performs classifications by inclusion.
 
 Recommended translation:
 
-> Likewise, the other aggregates, spheres, and domains taught elsewhere are to be assigned, as appropriate, among those already stated, after carefully determining the intrinsic characteristic of each.
+> Likewise, the other aggregates, Essences, and domains taught elsewhere are to be assigned, as appropriate, among those already stated, after carefully determining the intrinsic characteristic of each.
 
 No edit is made to the Kārikā file during this Bhāṣya pass.
 

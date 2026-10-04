@@ -56,7 +56,7 @@ ato nāvidyādīnām indriyatvam iṣṭam /
 >
 > “Support of mind, its differentiation, persistence, defilement, the equipment for purification, and purification itself: the faculties extend exactly so far as these functions extend.”
 >
-> Among these, the six faculties are the support of mind. This sixfold sense-base is the fundamental constitution of a living being. Its differentiation into female and male is effected by the female and male faculties. Its persistence is maintained by the life faculty. Its defilement occurs through the feelings. The equipment for purification is provided by the five faculties beginning with faith, and purification itself by the three realization faculties.
+> Among these, the six faculties are the support of mind. This sixfold Essence-structure is the fundamental constitution of a living being. Its differentiation into female and male is effected by the female and male faculties. Its persistence is maintained by the life faculty. Its defilement occurs through the feelings. The equipment for purification is provided by the five faculties beginning with faith, and purification itself by the three realization faculties.
 >
 > Therefore ignorance and the other factors are not accepted as faculties.
 
@@ -143,7 +143,7 @@ cittāśrayaḥ ṣaḍindriyāṇi
 
 > The six faculties are the support of mind.
 
-These are the eye, ear, nose, tongue, body, and mind faculties. The Bhāṣya then calls the corresponding sixfold sense-base:
+These are the eye, ear, nose, tongue, body, and mind faculties. The Bhāṣya then calls the corresponding sixfold Essence-structure:
 
 ```text
 maulaṃ sattvadravyam
@@ -350,7 +350,7 @@ The realization faculties then carry that prepared continuum through seeing, cul
   - **status:** present in the Kārikā and explained in the Bhāṣya
   - **function:** role of the six faculties
 
-- **ṣaḍāyatana** — sixfold sense-base
+- **ṣaḍāyatana** — sixfold Essence-structure
   - **status:** previously encountered doctrinal term
   - **function:** concrete basis identified with the six faculties
 

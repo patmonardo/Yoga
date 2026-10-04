@@ -99,15 +99,15 @@ The passage is direct explanatory analysis, including a question raised and imme
 
 ## New Technical Terms
 
-- **ākāśānantyāyatana** — sphere of infinite space
+- **ākāśānantyāyatana** — Essence of infinite space
   - **status:** arūpya realm-name newly operative in this lifespan sequence
   - **function:** first arūpya lifespan station; 20,000 kalpas
 
-- **vijñānānantyāyatana** — sphere of infinite knowledge
+- **vijñānānantyāyatana** — Essence of infinite knowledge
   - **status:** arūpya realm-name
   - **function:** second arūpya lifespan station; 40,000 kalpas
 
-- **ākiñcanyāyatana** — sphere of nothingness
+- **ākiñcanyāyatana** — Essence of nothingness
   - **status:** arūpya realm-name
   - **function:** third arūpya lifespan station; 60,000 kalpas
 

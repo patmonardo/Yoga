@@ -51,7 +51,7 @@ Scripture itself describes nirvāṇa through abandonment, release, exhaustion, 
 
 The Vaibhāṣika replies that in Abhidharma the unconditioned is called without causal basis, not without reality. “Basis” has several senses: intrinsic nature, object, conjunction, cause, and possession. Here it means causal basis. Thus the unconditioned may still be substantially real while lacking cause and fruit.
 
-Having completed this dispute, the Bhāṣya begins assigning fruits to causes. The maturation fruit belongs to the maturation cause. The dominant fruit belongs to the conditioning cause. Even a merely non-obstructive cause has dominance in that sense, while some conditioning causes also exercise positive efficacy—for example the sense-fields in relation to the five consciousnesses, karma in relation to the receptacle world, and hearing in relation to the later desire to see.
+Having completed this dispute, the Bhāṣya begins assigning fruits to causes. The maturation fruit belongs to the maturation cause. The dominant fruit belongs to the conditioning cause. Even a merely non-obstructive cause has dominance in that sense, while some conditioning causes also exercise positive efficacy—for example the Essences in relation to the five consciousnesses, karma in relation to the receptacle world, and hearing in relation to the later desire to see.
 
 ## Argument Structure
 

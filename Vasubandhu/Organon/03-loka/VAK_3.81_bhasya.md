@@ -54,9 +54,9 @@ compressed form of the local root-text witness.
 ## Continuous Conventional Translation
 
 In the formless realm, lifespans increase successively by twenty thousand
-kalpas. In the Sphere of Infinite Space, lifespan is twenty thousand
-kalpas; in the Sphere of Infinite Cognition, twenty thousand more; in the
-Sphere of Nothingness, twenty thousand more; and at the Summit of Existence,
+kalpas. In the Essence of Infinite Space, lifespan is twenty thousand
+kalpas; in the Essence of Infinite Cognition, twenty thousand more; in the
+Essence of Nothingness, twenty thousand more; and at the Summit of Existence,
 another twenty thousand more. Their respective lifespans are therefore
 twenty, forty, sixty, and eighty thousand kalpas.
 

@@ -58,7 +58,7 @@ Here `name` is not mere verbal naming. It denotes the non-material aggregates. C
 | arūpiṇaḥ skandhāḥ | non-material aggregates | Feeling, saṃjñā, saṃskāra, vijñāna in relation to rūpa |
 | skandha | aggregate | Functional aggregate of conditioned existence |
 | sparśa | contact | Arises through conjunction |
-| ṣaṭ | six | Six contacts corresponding to six spheres/knowledges |
+| ṣaṭ | six | Six contacts corresponding to six Essences/knowledges |
 | saṃnipāta | conjunction / concurrence | Coming-together of factors |
 | pratigha | resistance / impact | Pertains to five sense contacts involving material resistance |
 | saṃsparśa | contact / touch | Contact-event |
@@ -102,7 +102,7 @@ sixth contact through designation
     = mental contact
 ```
 
-Thus contact is not one simple thing. It is sixfold according to the spheres of access and their corresponding conjunctions.
+Thus contact is not one simple thing. It is sixfold according to the Essences of access and their corresponding conjunctions.
 
 ## Logical Determination
 
@@ -172,7 +172,7 @@ This helps refine the earlier interface hypothesis:
 
 ```text
 ṣaḍāyatana
-    = sixfold sphere-structure
+    = sixfold Essence-structure
 
 sparśa
     = contact born from conjunction

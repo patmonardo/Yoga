@@ -53,7 +53,7 @@ Unobscured citta has its own source and successor count; form-realm wholesome ci
 | pañcabhyaḥ | from five | Source-count profile |
 | sapta | seven | Successor-count profile |
 | anantaram | immediately after | Sequential condition marker |
-| rūpa | form realm | Higher realm matrix |
+| rūpa | Form Realm | Higher realm matrix |
 | śubha | wholesome | Wholesome citta-status |
 | daśaikam | eleven | Count-profile |
 | navabhyaḥ | from nine | Source-count profile |

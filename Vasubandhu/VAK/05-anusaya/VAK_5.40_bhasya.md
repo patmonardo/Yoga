@@ -53,7 +53,7 @@ See: [VAK_5.40.md](./VAK_5.40.md)
 
 ## Translation
 
-They are called *āsravas* because they cause beings to remain in saṃsāra and because they flow from the summit of existence down as far as Avīci through the six wounds constituted by the sense-spheres.
+They are called *āsravas* because they cause beings to remain in saṃsāra and because they flow from the summit of existence down as far as Avīci through the six wounds constituted by the sense-Essences.
 
 They are called *oghas* because they carry away; *yogas* because they fasten; and *upādānas* because they take hold.
 
@@ -175,7 +175,7 @@ Upādāna is therefore not merely one act of grasping but a recurrent appropriat
 
 ## New Technical Terms
 
-- **āyatana-vraṇa** — “wound” constituted by the sense-spheres. **Status:** Bhāṣya metaphorical/technical vocabulary. **Function:** explains the channels through which āsravas flow.
+- **āyatana-vraṇa** — “wound” constituted by the sense-Essences. **Status:** Bhāṣya metaphorical/technical vocabulary. **Function:** explains the channels through which āsravas flow.
 - **sādhīyas** — better, more adequate. **Status:** evaluative Bhāṣya vocabulary. **Function:** marks Vasubandhu's preference for the second explanation.
 - **pratisrotas** — against the stream. **Status:** sūtra image. **Function:** figures counter-afflictive effort.
 - **anusrotas** — with/down the stream. **Status:** sūtra image. **Function:** figures effortless conformity with afflictive current.

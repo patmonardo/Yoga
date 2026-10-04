@@ -53,7 +53,7 @@ Its result is predominant result.
 
 What predominance belongs to something that merely stands in a state
 of non-obstruction? That very non-obstruction. Moreover, the conditioning
-cause also has a contributory role: for example, the ten sense-bases
+cause also has a contributory role: for example, the ten Essences
 with respect to the five classes of consciousness, and karmic actions
 with respect to the receptacle-world. The ear and the other faculties
 also exercise predominance indirectly in the arising of eye-consciousness,
@@ -98,7 +98,7 @@ classification.
 ## 5. Non-obstruction and Positive Contribution
 
 The response accepts non-obstruction itself as predominance, then
-adds cases of positive contribution. The ten sense-bases are the
+adds cases of positive contribution. The ten Essences are the
 five sensory faculties and their corresponding objects in relation
 to the five sensory consciousnesses. The example does not make all
 ten equally direct supports of each consciousness.

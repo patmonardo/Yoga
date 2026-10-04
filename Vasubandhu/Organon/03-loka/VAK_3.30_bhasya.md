@@ -115,7 +115,7 @@ inclines toward those several objects. Others say that the non-rūpa aggregates
 are called name because, when the body has been laid down here, they incline
 toward another rebirth.
 
-The six sense spheres have been stated; contact must now be explained. There
+The six Essences have been stated; contact must now be explained. There
 are six contacts, from eye-contact through mind-contact. They arise from
 conjunction: they are born from the conjunction of three—faculty, object, and
 differentiated cognition.
@@ -132,15 +132,15 @@ contact as the conjunction itself. They cite as evidence the sūtra: “The
 meeting, conjunction, and combination of these three dharmas—that is
 contact.” Others explain contact as another dharma associated with mind. They
 cite as evidence the six-by-six teaching: “What is the sixfold exposition of
-dharma? Six internal sense spheres, six external sense spheres, six bodies of
+dharma? Six internal Essences, six external Essences, six bodies of
 differentiated cognition, six bodies of contact, six bodies of feeling, and
 six bodies of thirst.” Here the bodies of contact are taught separately from
 the faculties, objects, and cognitions.
 
 Those who say that contact is the conjunction itself reply: separate teaching
 does not necessarily establish separate existence; otherwise feeling and
-thirst would have to exist separately from the dharma-sphere. “That fault does
-not follow, since the dharma-sphere also contains what is distinct from them.”
+thirst would have to exist separately from the Dharma-Essence. “That fault does
+not follow, since the Dharma-Essence also contains what is distinct from them.”
 But there is no corresponding triad besides the triad that constitutes
 contact whose remainder could be intended here. Faculty and object may exist
 without cognition, but cognition does not exist without faculty and object.

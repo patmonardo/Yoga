@@ -28,7 +28,7 @@ The completed Kārikā analysis established that the Buddha's eighty thousand Dh
 
 ### Translation
 
-Other aggregates, spheres, and domains bearing those designations are also found in the sūtras. Should they be understood as included within these very categories, or as distinct from them?
+Other aggregates, Essences, and domains bearing those designations are also found in the sūtras. Should they be understood as included within these very categories, or as distinct from them?
 
 They are included within these very categories; they are not distinct.
 
@@ -67,7 +67,7 @@ na vyatirekaḥ
     = there is no category outside the established schemes
 ```
 
-The five aggregates, twelve spheres, and eighteen domains are therefore exhaustive at the level of strict Abhidharma classification.
+The five aggregates, twelve Essences, and eighteen domains are therefore exhaustive at the level of strict Abhidharma classification.
 
 ### 2. The eighty thousand Dharma-collections provide the first test case
 

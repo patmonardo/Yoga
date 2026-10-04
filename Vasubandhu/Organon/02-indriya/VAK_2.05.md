@@ -109,7 +109,7 @@ Organon rendering:
 | Sanskrit | Project rendering | Determination |
 |---|---|---|
 | citta-āśraya | support of mind | role of the six sensory-and-mental faculties |
-| ṣaḍāyatana | sixfold Sphere-system | concrete basis constituted by the six faculties |
+| ṣaḍāyatana | sixfold Essence-system | concrete basis constituted by the six faculties |
 | maula-sattva-dravya | fundamental real constitution of a living being | Bhāṣya's description of the sixfold basis |
 | tad-vikalpa | its differentiation | female and male differentiation of the living basis |
 | sthiti | persistence | governed by the life-faculty |
@@ -249,7 +249,7 @@ because they add no required slot to its chosen system. We should therefore
 never treat the Kośa's twenty-two as a fuller version of Sāṃkhya's Indriyas.
 They are differently designed classifications.
 
-`Maula-sattva-dravya` also deserves precision. The sixfold Sphere-system is
+`Maula-sattva-dravya` also deserves precision. The sixfold Essence-system is
 the fundamental real constitution of the conventionally designated living
 being within this analysis. `Dravya` gives it real constituent status.
 

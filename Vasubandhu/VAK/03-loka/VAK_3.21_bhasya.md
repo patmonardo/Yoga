@@ -217,7 +217,7 @@ prāk ṣaḍāyatanotpādāt
 
 Vasubandhu explains:
 
-> From after the linking mind until the six spheres have arisen, that stage is called nāmarūpa.
+> From after the linking mind until the six Essences have arisen, that stage is called nāmarūpa.
 
 Thus `nāmarūpa` is not merely a static psycho-physical pair. Here it names a **developmental stage** of the same aggregate continuum.
 
@@ -229,7 +229,7 @@ nāmarūpa-stage
 production of ṣaḍāyatana
 ```
 
-The Bhāṣya adds a technical clarification: strictly speaking one might have expected reference to the arising of four spheres, but the text says “six spheres” because the stage is established doctrinally in that manner.
+The Bhāṣya adds a technical clarification: strictly speaking one might have expected reference to the arising of four Essences, but the text says “six Essences” because the stage is established doctrinally in that manner.
 
 ---
 
@@ -241,7 +241,7 @@ The afflictive state belonging to the former birth is here called **ignorance**.
 
 The word **state** is to be carried forward into the next member as well. The karmic state of the former birth—meritorious and otherwise—whose result matures in the present birth is here called **formations**.
 
-At the moment of rebirth-linking in the mother's womb, the five aggregates are designated **knowledge (`vijñāna`)**. After that linking moment, until the six spheres arise, the aggregate-stage is designated **name-and-form (`nāmarūpa`)**.
+At the moment of rebirth-linking in the mother's womb, the five aggregates are designated **knowledge (`vijñāna`)**. After that linking moment, until the six Essences arise, the aggregate-stage is designated **name-and-form (`nāmarūpa`)**.
 
 Thus the members are not isolated entities standing one after another. Each is the name of a temporally determinate aggregate-state, designated according to the factor that is principal within it.
 
@@ -338,7 +338,7 @@ The royal analogy is explanatory rather than polemical.
 
 - **vyavasthāpana** — systematic establishment / assignment.
   - **status:** recurring Bhāṣya reflective vocabulary.
-  - **function:** explains doctrinal naming of the developmental stage by the six-sphere boundary.
+  - **function:** explains doctrinal naming of the developmental stage by the six-Essence boundary.
 
 ---
 
@@ -480,7 +480,7 @@ Established:
 - the former karmic state is designated `saṃskāra`;
 - avidyā names the whole kleśa-state through accompaniment and predominance;
 - `vijñāna` designates the five aggregates at the rebirth-linking moment;
-- `nāmarūpa` designates the developmental stage after linking and before the arising of the six spheres;
+- `nāmarūpa` designates the developmental stage after linking and before the arising of the six Essences;
 - the twelve-member series is emerging explicitly as a system of stage-designations within the skandha continuum.
 
 Translation consequence:

@@ -19,7 +19,7 @@ What is *sabhāgatā*?
 
 It is both undivided and divided. The undivided form is the commonality of all beings simply as beings, because it is present in every individual being. The divided form is the determinate commonality of those same beings according to realm, level, destiny, mode of birth, species, female or male status, lay follower or monastic status, trainee or one beyond training, and so forth.
 
-The Vaibhāṣikas argue that if this commonality were not a distinct real entity, then among beings who differ individually there could be no undivided cognition or designation, “being.” The same reasoning is applied to cognitions and designations such as “aggregate,” “sense-field,” and “element.”
+The Vaibhāṣikas argue that if this commonality were not a distinct real entity, then among beings who differ individually there could be no undivided cognition or designation, “being.” The same reasoning is applied to cognitions and designations such as “aggregate,” “Essence,” and “element.”
 
 A fourfold analysis is possible concerning one who dies and is reborn while either abandoning or acquiring a particular commonality. First, one may die and be reborn in the same class. Second, on entering the certainty of the noble path, one abandons the commonality of an ordinary person and acquires noble commonality. Third, through transition from one destiny to another, one both abandons and acquires a class-commonality. Fourth, apart from these cases, neither occurs.
 

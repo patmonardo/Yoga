@@ -62,7 +62,7 @@ The Bhāṣya then lists examples:
 
 ### Translation
 
-> An exposition of each topic—the aggregates, spheres, domains, dependent origination, truths, nutriments, meditations, immeasurables, formless attainments, liberations, masteries, totalities, factors conducive to awakening, superknowledges, discriminations, aspirations, knowledges, freedom from conflict, and so forth—is a Dharma-collection.
+> An exposition of each topic—the aggregates, Essences, domains, dependent origination, truths, nutriments, meditations, immeasurables, formless attainments, liberations, masteries, totalities, factors conducive to awakening, superknowledges, discriminations, aspirations, knowledges, freedom from conflict, and so forth—is a Dharma-collection.
 
 **Voice:** A second reported opinion.
 

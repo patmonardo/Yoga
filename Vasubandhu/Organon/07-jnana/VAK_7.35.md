@@ -86,7 +86,7 @@ discriminating knowledges, and so forth, as applicable.
 > according to the quality concerned. These include araṇā,
 > knowledge through resolve, discriminating knowledges,
 > higher knowledges, dhyānas, formless attainments,
-> immeasurables, liberations, spheres of mastery, totality-
+> immeasurables, liberations, Essences of mastery, totality-
 > spheres, and related qualities.
 
 Source: Pradhan 416|17–417|02. The immediate continuation
@@ -159,8 +159,8 @@ The Bhāṣya expands the catalogue as follows:
 | `ārūpya` | Formless attainments |
 | `apramāṇa` | Immeasurables |
 | `vimokṣa` | Liberations |
-| `abhibhvāyatana` | Spheres of mastery |
-| `kṛtsnāyatana` | Totality-spheres |
+| `abhibhvāyatana` | Essences of mastery |
+| `kṛtsnāyatana` | Totality-Essences |
 
 This is an expanded list of kinds, not ten additional
 unshared Buddha-qualities. The source's final `ādi`
@@ -215,7 +215,7 @@ must remain controlled by the next verse.
 
 **Textual caution.** The long running catalogue contains
 compressed and irregular joins around the formless,
-immeasurable, and mastery-sphere terms. The study separates
+immeasurable, and mastery-Essence terms. The study separates
 the recognizable technical members for reading without
 editing the witness. The araṇā introduction also contains
 `bhena` where the instrumental-relative construction is
@@ -263,7 +263,7 @@ ObjectProperty: seeksToAvoidOccasioning
 
 Catalogue: Arana, ResolveKnowledge, DiscriminatingKnowledges,
     HigherKnowledges, Dhyana, FormlessAttainments, Immeasurables,
-    Liberations, MasterySpheres, TotalitySpheres, RelatedQualities
+    Liberations, MasteryEssences, TotalityEssences, RelatedQualities
 
 Sharing: WithSravakas; SomeWithOrdinaryPersons
 Qualification: AsApplicableToEachQuality

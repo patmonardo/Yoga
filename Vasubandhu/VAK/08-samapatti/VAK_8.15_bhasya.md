@@ -91,7 +91,7 @@ Vasubandhu first gives examples rather than jumping directly to the rule.
 
 After uncontaminated first dhyāna, six attainments can follow: pure and uncontaminated forms on the same level, and pure/uncontaminated forms of the second and third dhyānas.
 
-After the sphere of nothingness, seven can arise: pure and uncontaminated forms on the same level, neighboring lower formless levels, and at the summit of existence only the pure mode, since there is no uncontaminated `bhavāgra`.
+After the Essence of nothingness, seven can arise: pure and uncontaminated forms on the same level, neighboring lower formless levels, and at the summit of existence only the pure mode, since there is no uncontaminated `bhavāgra`.
 
 After second dhyāna, eight arise; after infinity of knowledge, nine; and analogous cases can reach ten.
 

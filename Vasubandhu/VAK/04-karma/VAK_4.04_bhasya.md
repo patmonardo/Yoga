@@ -151,7 +151,7 @@ Second comes `vṛddhi`, increase. A donor's merit is said to increase continuou
 
 Third comes `akurvat-patha`: a person who causes another to perform an act can complete a karmapatha even though the instigator is not personally performing the final bodily deed. The command itself cannot be the principal action-path before the commissioned act has occurred. Avijñapti is therefore invoked to account for the completed path.
 
-Further arguments follow. The dharma-sphere is described as invisible and non-resistant without simply being called immaterial. The noble eightfold path contains right speech, right action, and right livelihood even while the practitioner is absorbed and not speaking, acting, or seeking livelihood. Prātimokṣa restraint continues after the moment of undertaking even when the monk's mind is elsewhere. Restraint is also called a `setu`, a bridge or barrier against misconduct. The Vaibhāṣika reads all these as requiring a real avijñapti.
+Further arguments follow. The Dharma-Essence is described as invisible and non-resistant without simply being called immaterial. The noble eightfold path contains right speech, right action, and right livelihood even while the practitioner is absorbed and not speaking, acting, or seeking livelihood. Prātimokṣa restraint continues after the moment of undertaking even when the monk's mind is elsewhere. Restraint is also called a `setu`, a bridge or barrier against misconduct. The Vaibhāṣika reads all these as requiring a real avijñapti.
 
 The Sautrāntika then answers the entire dossier rather than merely denying the conclusion.
 

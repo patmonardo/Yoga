@@ -183,7 +183,7 @@ More explicitly:
 22 ājñātāvīndriya
 ```
 
-The Abhidharmikas place `manaindriya` immediately after `jīvitendriya`, following the organization of the six spheres.
+The Abhidharmikas place `manaindriya` immediately after `jīvitendriya`, following the organization of the six Essences.
 
 The reason supplied is:
 
@@ -343,7 +343,7 @@ No explicit objector appears in this closing passage.
   **Status:** technically important Bhāṣya term; here explicitly applied to `manaindriya`.  
   **Function:** explains the Abhidharmika ordering of mind among object-directed faculties.
 
-- **ṣaḍāyatanavyavasthāna** — arrangement according to the six spheres.  
+- **ṣaḍāyatanavyavasthāna** — arrangement according to the six Essences.
   **Status:** Bhāṣya-only organizational expression.  
   **Function:** explains the ordering of the faculties.
 

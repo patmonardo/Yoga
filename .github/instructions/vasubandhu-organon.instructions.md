@@ -103,15 +103,15 @@ other teachers, or an unnamed opponent only when the text does so. In
 extended Dharma Talks, do not flatten a sequence of objections and replies
 into one unqualified “Kośa position.”
 
-## Terminology (until superseded by a dedicated vocabulary pass)
+## Terminology
 
 - `rūpa` -> **Form**, never **Matter**. Matter is opposed to Form in this
   Organon framework, not an equivalent rendering; translating Form as Matter
   reverses the project's conceptual path.
 - `dhātu` -> **Domain**
 - `bhūta` / `mahābhūta` -> **Element**
-- `āyatana` -> **Sphere** (provisional; a capacity/field dyad, not
-  “sense-base” in this project)
+- `āyatana` -> **Essence** (the capacity/field determination; not the
+  Concept)
 - `indriya` -> **Faculty**, not “organ” for Faculty-status. Use “organ”
   only for an anatomical part explicitly meant by the Sanskrit.
 - `skandha` -> **aggregate** in conventional translation; **Being** in the

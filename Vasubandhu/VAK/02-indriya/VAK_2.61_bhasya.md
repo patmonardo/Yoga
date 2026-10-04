@@ -73,7 +73,7 @@ According to the relevant consciousness: visible form is the object of eye-consc
 
 A dharma that is the object of another dharma does not cease to count as its object merely because it is not presently being apprehended. It retains that object-character by its nature, just as wood and similar material may still be called fuel even when it is not presently burning.
 
-Mind and mental factors are therefore fixed with respect to their objects according to the determinate character of their sense-field, substance, and defining mark. They are also fixed with respect to their supports when arisen; unarisen future events have not yet joined a support, whereas past events have become separated from it. Some, however, maintain that even past events remain connected with their support.
+Mind and mental factors are therefore fixed with respect to their objects according to the determinate character of their Essence, substance, and defining mark. They are also fixed with respect to their supports when arisen; unarisen future events have not yet joined a support, whereas past events have become separated from it. Some, however, maintain that even past events remain connected with their support.
 
 Thus the object-condition is explained.
 

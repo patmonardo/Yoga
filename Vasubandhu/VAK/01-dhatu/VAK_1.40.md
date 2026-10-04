@@ -123,7 +123,7 @@ Organon working rendering:
 | bhāvanāheya | to be abandoned by cultivation | transformed through repeated development |
 | aheya | not to be abandoned | not a defect; may belong to truth-status |
 | akliṣṭa | undefiled / unafflicted | not an object of abandonment by seeing |
-| rūpa | form / materiality | not dṛṣṭiheya |
+| rūpa | Form / materiality | not dṛṣṭiheya |
 | aṣaṣṭhaja | not born from the sixth | not arising from manas / mental domain |
 
 ## 8. Logical Determination

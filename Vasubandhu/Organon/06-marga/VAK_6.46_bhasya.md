@@ -28,7 +28,7 @@ Kārikā study: [`VAK_6.46.md`](./VAK_6.46.md). Next: 6.47. Reply spills into 6.
 > For an Ārya who reaches dispassion by a mundane Path, two attainments of
 > separation arise: mundane and supramundane. Some say the same when the Path is
 > supramundane. Why? If no mundane attainment arose, one dispassionate from the
-> sphere of nothingness who then shifts faculties on a dhyāna would drop the prior
+> Essence of nothingness who then shifts faculties on a dhyāna would drop the prior
 > Path and, they fear, be possessed again by those afflictions.
 >
 > Vasubandhu: even without the mundane attainment, possession does not return. One

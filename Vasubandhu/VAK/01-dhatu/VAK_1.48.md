@@ -150,7 +150,7 @@ and recollected/determined mentally
 
 This is an extraordinary closing verse for the first pass.
 
-The chapter began by enumerating aggregates, spheres, and domains. It now ends by distinguishing external knowability, permanence, unconditioned dharmas, faculty-status within dharmadhātu, and the remembered internal twelve.
+The chapter began by enumerating aggregates, Essences, and domains. It now ends by distinguishing external knowability, permanence, unconditioned dharmas, faculty-status within dharmadhātu, and the remembered internal twelve.
 
 The dharma-domain remains the decisive hinge. It includes unconditioned dharmas. It includes a faculty-part. It can function as the sixth external object-domain. And in the higher Organon reading, it is the real-domain, the Island of Truth.
 

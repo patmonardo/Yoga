@@ -238,7 +238,7 @@ positive predominance
     = directly or indirectly assisting it
 ```
 
-The ten sense-spheres can predominate with respect to the five sensory
+The ten Essences can predominate with respect to the five sensory
 cognitions; karma can predominate with respect to the shared receptacle-world;
 hearing can indirectly occasion the desire to see. Predominance is therefore
 an enabling topology, not merely efficient force.

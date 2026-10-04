@@ -20,7 +20,7 @@ Source label in GRETIL: `VAkK_1.27`. Project-normalized label: `VAkK_1.27`.
 |---|---|---|
 | tathā anye api | tathā anye api | likewise the others too |
 | yathā-yogam | yathā-yogam | as appropriate |
-| skandha-āyatana-dhātavaḥ | skandha-āyatana-dhātavaḥ | aggregates, spheres, domains |
+| skandha-āyatana-dhātavaḥ | skandha-āyatana-dhātavaḥ | aggregates, Essences, domains |
 | pratipādyāḥ | pratipādyāḥ | to be expounded/established |
 | yathokteṣu | yathokteṣu | among the aforesaid |
 | saṃpradhārya | saṃpradhārya | having determined/ascertained |
@@ -28,15 +28,15 @@ Source label in GRETIL: `VAkK_1.27`. Project-normalized label: `VAkK_1.27`.
 
 ## 4. Grammar
 
-The verse gives the general method: other dharmas are to be placed among aggregates, spheres, and domains as appropriate, after determining their **svalakṣaṇa**.
+The verse gives the general method: other dharmas are to be placed among aggregates, Essences, and domains as appropriate, after determining their **svalakṣaṇa**.
 
 ## 5. Literal Translation
 
-> Likewise, the other aggregates, spheres, and domains are to be expounded as appropriate among the aforesaid, after determining their own mark.
+> Likewise, the other aggregates, Essences, and domains are to be expounded as appropriate among the aforesaid, after determining their own mark.
 
 ## 6. Philosophical Translation
 
-> The classification of any dharma must proceed by determining its self-characteristic and then placing it properly within the aggregate, sphere, and domain systems.
+> The classification of any dharma must proceed by determining its self-characteristic and then placing it properly within the aggregate, Essence, and domain systems.
 
 Organon rendering:
 
@@ -51,7 +51,7 @@ Organon rendering:
 | saṃpradhārya | having determined | careful ascertainment |
 | svalakṣaṇa | self-determination / own mark | decisive criterion |
 | skandha | aggregate | collection-form |
-| āyatana | sphere | access-form |
+| āyatana | Essence | access-form |
 | dhātu | domain | domain-form |
 
 ## 8. Logical Determination

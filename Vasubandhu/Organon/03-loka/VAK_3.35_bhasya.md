@@ -98,7 +98,7 @@ unchanged.
 ## 3. Continuous Conventional Translation
 
 The mental rangings connected with the formless realm are now explained. At
-the threshold of the formless—here, the threshold of the sphere of infinite
+the threshold of the formless—here, the threshold of the Essence of infinite
 space—there are four: rangings over form, sound, tangible objects, and
 dharmas. They are form-directed because the fourth concentration is their
 object-support. For those whose objects are separately delimited, these are
@@ -176,7 +176,7 @@ must not be silently converted into his unqualified first-person conclusion.
 
 ## 5. Threshold and Fundamental Formless Attainment
 
-At the threshold of the sphere of infinite space:
+At the threshold of the Essence of infinite space:
 
 ```text
 4 form-directed rangings

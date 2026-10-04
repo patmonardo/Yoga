@@ -67,7 +67,7 @@ desire-realm
 | jīvita | life faculty | Ceases in formless context |
 | manas | mind-faculty | Ceases in formless context |
 | upekṣā | neutral feeling / equanimity | Ceases in formless context |
-| rūpa | form-realm | Eight cease |
+| rūpa | Form Realm | Eight cease |
 | kāma | desire-realm | Ten, nine, or eight cease |
 
 ## 7. Logical Determination

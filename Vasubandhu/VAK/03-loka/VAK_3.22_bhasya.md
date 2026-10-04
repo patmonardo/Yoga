@@ -9,7 +9,7 @@ sparśaḥ prāk sukhaduḥkhādikāraṇajñānaśaktitaḥ // VAkK_3.22 //
 
 **Best translation:**
 
-> Name-and-form lasts until before the arising of the six spheres; that, in turn, lasts before the conjunction of the triad. Contact lasts until before the capacity for knowing the causes of pleasure, pain, and so forth.
+> Name-and-form lasts until before the arising of the six Essences; that, in turn, lasts before the conjunction of the triad. Contact lasts until before the capacity for knowing the causes of pleasure, pain, and so forth.
 
 **Kārikā analysis:** [`VAK_3.22.md`](./VAK_3.22.md)
 
@@ -45,7 +45,7 @@ sa yāvadvedanātrayakāraṇaparicchedena samartho bhavati sā 'vasthā sparśa
 
 ### Source note
 
-The supplied e-text is followed as given. The expression `prakcaturāyatanotpādādini` at [132|04-132|05] is dense but intelligible from the prose argument: strictly speaking, not all six spheres arise simultaneously in the developmental sequence, yet Vasubandhu uses the conventional designation `ṣaḍāyatana` because that is the doctrinal name assigned to the stage.
+The supplied e-text is followed as given. The expression `prakcaturāyatanotpādādini` at [132|04-132|05] is dense but intelligible from the prose argument: strictly speaking, not all six Essences arise simultaneously in the developmental sequence, yet Vasubandhu uses the conventional designation `ṣaḍāyatana` because that is the doctrinal name assigned to the stage.
 
 ---
 
@@ -53,7 +53,7 @@ The supplied e-text is followed as given. The expression `prakcaturāyatanotpād
 
 The Bhāṣya continues the developmental interpretation established in 3.21. The dependent-co-arising members are not merely named in sequence; each is defined as an **avasthā**, a stage of the same aggregate continuum, bounded by the arising of a new capacity or relation.
 
-### 1. Nāmarūpa is the stage after rebirth-linking and before the six-sphere stage
+### 1. Nāmarūpa is the stage after rebirth-linking and before the six-Essence stage
 
 **Voice: Vasubandhu**
 
@@ -83,11 +83,11 @@ nāmarūpa-stage
 
 The Bhāṣya therefore reinforces the result of 3.21: the members of dependent co-arising are stage-designations within one conditioned continuity.
 
-### 2. `Ṣaḍāyatana` is a conventional designation for the developing sphere-structure
+### 2. `Ṣaḍāyatana` is a conventional designation for the developing Essence-structure
 
 Vasubandhu notices a potential precision problem.
 
-Strictly, one might expect the stage to be described according to the actual number of spheres that have arisen at a given point. Yet the text uses the name `ṣaḍāyatana`, "six spheres."
+Strictly, one might expect the stage to be described according to the actual number of Essences that have arisen at a given point. Yet the text uses the name `ṣaḍāyatana`, "six Essences."
 
 The explanation is:
 
@@ -99,11 +99,11 @@ tadā tadvyavasthāpanāt
 
 This is important exegetically. The doctrinal name identifies the **stage as a whole**, even where its full structural articulation is still developing.
 
-The member-name is therefore classificatory rather than a claim that all six spheres must already stand fully actual at every instant covered by the stage.
+The member-name is therefore classificatory rather than a claim that all six Essences must already stand fully actual at every instant covered by the stage.
 
-### 3. The six-sphere stage lasts until the conjunction of the triad
+### 3. The six-Essence stage lasts until the conjunction of the triad
 
-Once the six-sphere stage has arisen, it lasts until:
+Once the six-Essence stage has arisen, it lasts until:
 
 ```iast
 indriyaviṣayavijñānatrikasaṃnipātaḥ
@@ -126,7 +126,7 @@ vijñāna
 
 Their `saṃnipāta`, conjunction, marks the limit of the `ṣaḍāyatana` stage and the emergence of `sparśa`.
 
-This is more precise than our first-pass formulation in terms of sphere + object-support + knowledge. Vasubandhu's Bhāṣya here explicitly says:
+This is more precise than our first-pass formulation in terms of Essence + object-support + knowledge. Vasubandhu's Bhāṣya here explicitly says:
 
 ```text
 indriya + viṣaya + vijñāna
@@ -134,7 +134,7 @@ indriya + viṣaya + vijñāna
           sparśa
 ```
 
-The existing project vocabulary `āyatana = sphere` remains valid, but the actual triadic conjunction in this passage is stated through **faculty, object, and knowledge**.
+The existing project vocabulary `āyatana = Essence` remains valid, but the actual triadic conjunction in this passage is stated through **faculty, object, and knowledge**.
 
 ### 4. Contact arises from the conjunction of the three
 
@@ -194,9 +194,9 @@ The term `pariccheda` is crucial. The stage changes when the continuum acquires 
 
 ## Philosophical Translation of the Bhāṣya
 
-After the rebirth-linking mind, the stage extending until the arising of the six spheres is called name-and-form. Although, strictly speaking, one might speak of the successive arising of fewer than all six spheres, the conventional designation "six spheres" is used because that is the doctrinal determination of this stage.
+After the rebirth-linking mind, the stage extending until the arising of the six Essences is called name-and-form. Although, strictly speaking, one might speak of the successive arising of fewer than all six Essences, the conventional designation "six Essences" is used because that is the doctrinal determination of this stage.
 
-Once the six-sphere stage has arisen, it continues until the conjunction of the triad consisting of faculty, object, and knowledge. From the conjunction of these three, contact occurs.
+Once the six-Essence stage has arisen, it continues until the conjunction of the triad consisting of faculty, object, and knowledge. From the conjunction of these three, contact occurs.
 
 The stage called contact continues until the being becomes capable of discriminating the causes of the three kinds of feeling. Thus the sequence is defined not merely by temporal succession, but by the progressive acquisition of determinate relational and discriminative capacities.
 
@@ -211,7 +211,7 @@ Each transition occurs when a new structural capacity becomes actual:
 ```text
 nāmarūpa
     ↓
-arising of sphere-structure
+arising of Essence-structure
 
 ṣaḍāyatana
     ↓
@@ -252,7 +252,7 @@ No independent objector is required in this unit. The precision issue about the 
 
 - **vyavasthāpana** — designation, systematic establishment, classificatory determination.
   - **status:** Bhāṣya reflective vocabulary.
-  - **function:** explains why the developing stage is conventionally called `ṣaḍāyatana` even before every sphere is fully manifest.
+  - **function:** explains why the developing stage is conventionally called `ṣaḍāyatana` even before every Essence is fully manifest.
 
 - **indriya-viṣaya-vijñāna-trika** — triad of faculty, object, and knowledge.
   - **status:** Bhāṣya-explicit analysis of the Kārikā's `trika`.
@@ -291,10 +291,10 @@ But their doctrinal meaning is now more precise than a simple list:
 ```text
 nāmarūpa
     = post-linking developmental stage
-      before the sphere-structure is established
+      before the Essence-structure is established
 
 ṣaḍāyatana
-    = stage of developing/established sensory-cognitive spheres
+    = stage of developing/established sensory-cognitive Essences
       before faculty-object-knowledge conjunction
 
 sparśa
@@ -330,7 +330,7 @@ vedanā-traya-kāraṇa-pariccheda
 
 A Bhāṣya-informed translation would therefore be:
 
-> Name-and-form extends until the arising of the six spheres; the six-sphere stage extends until the conjunction of the triad. Contact extends until there is the capacity to discriminate the causes of pleasure, pain, and the other feeling.
+> Name-and-form extends until the arising of the six Essences; the six-Essence stage extends until the conjunction of the triad. Contact extends until there is the capacity to discriminate the causes of pleasure, pain, and the other feeling.
 
 ---
 
@@ -340,7 +340,7 @@ The striking logical form of the passage is that each stage is determined by the
 
 ```text
 nāmarūpa
-    is sufficient only until sphere-structure arises
+    is sufficient only until Essence-structure arises
 
 ṣaḍāyatana
     is sufficient only until the triadic relation becomes actual
@@ -446,7 +446,7 @@ VAK_3.22 Bhāṣya analysis.
 Established:
 
 - `nāmarūpa`, `ṣaḍāyatana`, and `sparśa` are developmental `avasthā` of one conditioned continuum;
-- `ṣaḍāyatana` is a doctrinal stage-designation and need not imply simultaneous full manifestation of all six spheres at every instant;
+- `ṣaḍāyatana` is a doctrinal stage-designation and need not imply simultaneous full manifestation of all six Essences at every instant;
 - the Bhāṣya explicitly defines the `trika` as `indriya + viṣaya + vijñāna`;
 - `sparśa` arises from the conjunction (`saṃnipāta`) of those three;
 - the sparśa-stage ends with acquisition of the capacity for `vedanā-traya-kāraṇa-pariccheda`, discrimination of the causes of the three feelings;

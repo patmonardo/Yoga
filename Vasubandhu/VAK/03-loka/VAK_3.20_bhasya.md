@@ -216,7 +216,7 @@ The twelvefold series is therefore capable of more than one doctrinal segmentati
 
 ## Philosophical Translation of the Bhāṣya
 
-The continuum of aggregates previously described through three births is dependent co-arising itself, articulated into twelve members and three sections. Its twelve members are ignorance, formations, knowledge, name-and-form, the six spheres, contact, feeling, craving, appropriation, becoming, birth, and aging-and-death. Its three sections are the prior, later, and middle limits: past, future, and present births.
+The continuum of aggregates previously described through three births is dependent co-arising itself, articulated into twelve members and three sections. Its twelve members are ignorance, formations, knowledge, name-and-form, the six Essences, contact, feeling, craving, appropriation, becoming, birth, and aging-and-death. Its three sections are the prior, later, and middle limits: past, future, and present births.
 
 Ignorance and formations belong to the prior limit; birth and aging-and-death belong to the later limit; the remaining eight belong to the middle.
 

@@ -8,7 +8,7 @@
 
 ### Working translation
 
-> The formations other than the four are the formations aggregate. These three, together with avijñapti and the unconditioned dharmas, are called the dharma-sphere and the dharma-domain.
+> The formations other than the four are the formations aggregate. These three, together with avijñapti and the unconditioned dharmas, are called the Dharma-Essence and the dharma-domain.
 
 The first half completes the definition of the five aggregates. The second reorganizes three aggregates, avijñapti, and the unconditioned under the āyatana and dhātu systems.
 
@@ -56,9 +56,9 @@ The first half completes the definition of the five aggregates. The second reorg
 >
 > Therefore these factors must necessarily be accepted as included in the formations aggregate.
 >
-> “These three again”—the aggregates of feeling, recognition, and formations—within the arrangements of spheres and domains, “are called the dharma-sphere and the dharma-domain, together with avijñapti and the unconditioned dharmas.”
+> “These three again”—the aggregates of feeling, recognition, and formations—within the arrangements of Essences and domains, “are called the Dharma-Essence and the dharma-domain, together with avijñapti and the unconditioned dharmas.”
 >
-> These seven substances are called the dharma-sphere and the dharma-domain.
+> These seven substances are called the Dharma-Essence and the dharma-domain.
 
 ---
 
@@ -198,7 +198,7 @@ These same seven are called both:
 
 ```text
 dharmāyatana
-    the dharma-sphere
+    the Dharma-Essence
 
 dharmadhātu
     the dharma-domain
@@ -317,7 +317,7 @@ The existing translation is broadly sound, but the phrase `caturbhyo 'nye` shoul
 
 ### Preferred translation
 
-> The formations other than the four constitute the formations aggregate. These three, together with avijñapti and the unconditioned dharmas, are called the dharma-sphere and the dharma-domain.
+> The formations other than the four constitute the formations aggregate. These three, together with avijñapti and the unconditioned dharmas, are called the Dharma-Essence and the dharma-domain.
 
 ### Later revision note
 

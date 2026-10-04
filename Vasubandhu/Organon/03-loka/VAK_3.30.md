@@ -121,7 +121,7 @@ explanations of contact and designation are Bhāṣya determinations.
 |---|---|---|
 | nāma | name / non-rūpa aggregate articulation | collective designation of vedanā, saṃjñā, saṃskāra, and vijñāna |
 | arūpin | non-rūpa | not belonging to the rūpa aggregate; not merely a linguistic label |
-| rūpa | form-determination | formed side of nāmarūpa, treated elsewhere in detail |
+| rūpa | Form-determination | formed side of nāmarūpa, treated elsewhere in detail |
 | vedanā | feeling | affective aggregate included within nāma |
 | saṃjñā | recognition | recognitional aggregate included within nāma |
 | saṃskāra | formations | formative and karmically retentive aggregate included within nāma |

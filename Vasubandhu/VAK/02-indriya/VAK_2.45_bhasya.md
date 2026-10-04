@@ -80,7 +80,7 @@ But when similar moments arise, are they not without difference?
 
 No. Their difference is inferred from differences of causal force. A diamond or other object thrown strongly, weakly, or not at all falls after different periods. This establishes differences in the transformation of the great elements. Conditioned dharmas whose differences are not very great are still perceived as similar despite their transformation.
 
-An objection follows: in the final moment of a sound or flame, and at the time of final nirvāṇa when the six sense bases have no succeeding moment, there is no duration or change during duration. Would the marks therefore fail to apply universally?
+An objection follows: in the final moment of a sound or flame, and at the time of final nirvāṇa when the six Essences have no succeeding moment, there is no duration or change during duration. Would the marks therefore fail to apply universally?
 
 No. The sūtra does not say that duration alone is the mark. It says “change during duration.” Wherever there is duration, there is necessarily change; therefore the account of the marks is not disrupted.
 

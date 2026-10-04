@@ -151,7 +151,7 @@ In the desire realm, a maturation cause consisting of one aggregate
 has one result: acquisition and its arising and other marks [contextual
 reading]. One consisting of two aggregates has one result: bodily or
 verbal action and its arising and other marks. One consisting of four
-aggregates has one result: wholesome or unwholesome mind and mental
+aggregates has one result: wholesome or unwholesome consciousness and mental
 factors together with arising and the other marks.
 
 In the form realm, a maturation cause consisting of one aggregate has
@@ -159,23 +159,23 @@ one result: acquisition or non-percipient attainment together with
 arising and the other marks. One consisting of two aggregates has one
 result: manifest action in the first concentration together with arising
 and the other marks. One consisting of four aggregates has one result
-when wholesome mind is unconcentrated; one consisting of five aggregates
+when wholesome consciousness is unconcentrated; one consisting of five aggregates
 has one result when it is concentrated.
 
 In the formless realm, a maturation cause consisting of one aggregate
 has one result: acquisition or cessation-attainment together with arising
 and the other marks. One consisting of four aggregates consists of
-wholesome mind and mental factors and their arising and other marks.
+wholesome consciousness and mental factors and their arising and other marks.
 
-There is karma whose maturation ripens as only one sense-base: the
-dharma-base, namely the life faculty. Where its maturation includes
-the mind-base, it includes two: mind and dharma. Likewise for the
-tangible-base. Where it includes the body-base, it includes three:
-body, tangible, and dharma. Likewise for visible form, smell, and taste
-[each with tangible and dharma]. Where it includes the eye-base, it
-includes four: eye, body, tangible, and dharma. Likewise for ear, nose,
-and tongue. There is karma whose maturation ripens as five, six,
-seven, eight, nine, ten, or eleven sense-bases. For karma has varied
+There is karma whose maturation ripens as only one Essence: the Dharma
+Essence, namely the life faculty. Where its maturation includes the
+Mind Essence, it includes two: Mind and Dharma. Likewise for the
+Tangible Essence. Where it includes the Body Essence, it includes three:
+Body, Tangible, and Dharma. Likewise for visible form, smell, and taste
+[each with Tangible and Dharma]. Where it includes the Eye Essence, it
+includes four: Eye, Body, Tangible, and Dharma. Likewise for Ear, Nose,
+and Tongue. There is karma whose maturation ripens as five, six,
+seven, eight, nine, ten, or eleven Essences. For karma has varied
 or unvaried results, like external seeds: some yield varied results,
 as with lotus, pomegranate, and banyan; others unvaried results,
 as with barley and wheat.
@@ -224,24 +224,24 @@ through transformation of a continuum. These positions must remain
 distinct. A culmination of this causal process is not a claim that
 the resulting dharma has no further effects or that saṃsāra ends there.
 
-## 6. Aggregate and Sense-Base Counts
+## 6. Aggregate and Essence Counts
 
 The aggregate counts describe the constitution of a cause-complex
 having one result; they are not counts of aggregates in that result.
 Acquisition and the marks fall within the formations aggregate, while
-bodily or verbal action adds material form. The five-aggregate case
-of concentrated wholesome mind in the form realm includes the material
-component of meditative restraint; this explains the contrast with
+bodily or verbal action adds Form. The five-aggregate case
+of concentrated wholesome consciousness in the Form realm includes
+Form associated with meditative restraint; this explains the contrast with
 the four-aggregate unconcentrated case.
 
-The sense-base paragraph instead counts the constitution of maturation.
-The life faculty belongs to the dharma-base; it is not itself an
-additional sense-base. The tangible-base belongs with dharma in the
-two-base case. Body, visible form, smell, and taste occur in the
-three-base pattern, while each of the four remaining sensory faculties
-occurs in the four-base pattern. These elliptical extensions are
+The Essence-count paragraph instead counts the constitution of
+maturation. The life faculty belongs to the Dharma Essence; it is not
+itself an additional Essence. The Tangible Essence belongs with Dharma in
+the two-Essence case. Body, visible form, smell, and taste occur in the
+three-Essence pattern, while each of the four remaining sensory faculties
+occurs in the four-Essence pattern. These elliptical extensions are
 expanded in the English. The research translation incorrectly groups
-the tangible-base with the three-base case and omits the visible-form,
+the Tangible Essence with the three-Essence case and omits the visible-form,
 smell, and taste extension.
 
 ## 7. The Temporal Conclusion
@@ -261,10 +261,9 @@ for the temporal classification of all the causes.
 
 ## 8. Textual and Translation Decisions
 
-The Sanskrit covers 89.01–90.22. The next unit begins at 90.23 with
-the temporal classification of causes in VAK 2.55. The full pervasive
-cause discussion, previously placed in the research 2.53 file, is
-restored here, and the omitted ending of maturation is included.
+The Sanskrit unit covers 89.01–90.22. The first half of the kārikā is
+recited at 89.02, the second at 89.18, and the temporal classification
+of causes begins VAK 2.55 at 90.23.
 
 The transcription is retained apart from source labels and surrounding
 spacing. The abbreviated identity-view quotation at 89.10–13 is
@@ -284,34 +283,31 @@ subsequent maturation is explicit. The two constructions of *vipākahetu*
 are translated as a linguistic dispute; neither is silently discarded
 in favor of a modern uniform use of “cause.”
 
-## 9. Philosophical and Organon Study
+## 9. Philosophical Logic and Organon Study
 
-As Organon interpretation, the two causes require different questions.
-Pervasive causality asks how an earlier affliction conditions later
-afflicted dharmas across classes. Maturation asks how an ethically
-qualified cause culminates in a dissimilar result through a continuing
-series. Neither relation is exhausted by similarity of cause and result.
+Within the project's account of Essence and Philosophical Logic, the
+Indriya system is read as articulating conditions through which the
+sciences determine their objects and relations. VAK 2.54 contributes a
+specific causal determination: pervasive causes condition later
+afflictions across classes but within their own level; maturation is
+restricted to particular ethical and causal conditions and is analyzed
+through a continuing series.
 
-The exposition also teaches us to distinguish causal ancestry,
-unabandoned possession, composition of a causal complex, and composition
-of its result. These distinctions make the inquiry into grounds and
-conditions more determinate. “Transformation” alone would not supply
-that knowledge; the particular relation and its limits must be learned.
-
-On the Organon reading, faculties are Transcendental Time Determinations of
-Śuddha Sattva: pervasive affliction extends through a field, whereas
-maturation transforms an appropriated continuum toward a delayed,
-dissimilar result. Cognition names the universal determination by which
-these relations are known; the particular Ideas are the afflicted contents
-and terminal result, not points on one clocked life-course.
+This is not a derivation of the full laws of Identity, Contradiction,
+and Ground. The Bhāṣya's local work is more specific: it distinguishes
+causal reach, abandonment, eligibility for maturation, competing
+definitions of *vipāka*, and the form and timing of results. The
+The project names second-order apprehension of the whole Dharma Chakra
+Absolute Insight. “Absolute Knowing” can name that whole-system reading;
+it is not a doctrine stated in this passage.
 
 ## 10. Review Status
 
 Provisional fifty-fourth study of the restarted Indriyanirdeśa Bhāṣya
 sequence. The kārikā anchor, research Bhāṣya, prior boundary, and running
 Sanskrit have been compared. Both causal discussions and the temporal
-ending are translated; the sense-base grouping is corrected against
-the running text.
+ending are translated; the Essence grouping is corrected against the
+running text.
 
 Textual uncertainties and contextual repairs remain marked. No independent
 edition or manuscript collation has been performed. Original witnesses

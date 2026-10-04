@@ -16,7 +16,7 @@ The natural unit begins with the question:
 
 ### Translation
 
-> The order of the six spheres and domains beginning with the eye must now be explained.
+> The order of the six Essences and domains beginning with the eye must now be explained.
 
 It ends after the alternative explanation based upon bodily location:
 
@@ -26,7 +26,7 @@ It ends after the alternative explanation based upon bodily location:
 
 > Mind, however, depends upon those very faculties and is not situated in a determinate place. Thus their order may be understood according to their respective locations.
 
-The next question—why only one of the ten material spheres is called the rūpāyatana—opens the Bhāṣya unit for VAK 1.24.
+The next question—why only one of the ten material Essences is called the rūpāyatana—opens the Bhāṣya unit for VAK 1.24.
 
 ## 3. Bhāṣya Analysis
 

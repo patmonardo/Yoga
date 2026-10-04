@@ -7,7 +7,7 @@
 
 **Best current translation:**
 
-The Buddha is said to possess Nārāyaṇa-strength in his body; according to others, in each bodily joint. Its measure is given through a seven-stage ascending series beginning with elephant-strength, each grade increasing tenfold. This bodily strength belongs to the tangible sphere.
+The Buddha is said to possess Nārāyaṇa-strength in his body; according to others, in each bodily joint. Its measure is given through a seven-stage ascending series beginning with elephant-strength, each grade increasing tenfold. This bodily strength belongs to the tangible Essence.
 
 **Kārikā analysis:** [`VAK_7.31.md`](./VAK_7.31.md)
 
@@ -70,7 +70,7 @@ A comparison-series is then supplied to give a measure of Nārāyaṇa-strength.
 
 A rival reckoning gives a different numerical construction of the same culmination. Vasubandhu remarks that the larger reckoning is more fitting (`yathā tu bahutara tathā yujyate`).
 
-Finally, the ontological classification is stated: bodily strength belongs to the tangible sphere. The primary account identifies it as a special determination/configuration of the great elements (`mahābhūtaviśeṣa`). Other authorities instead classify it as derived form (`upādāyarūpa`) distinct from the seven tangibles previously recognized.
+Finally, the ontological classification is stated: bodily strength belongs to the tangible Essence. The primary account identifies it as a special determination/configuration of the great elements (`mahābhūtaviśeṣa`). Other authorities instead classify it as derived form (`upādāyarūpa`) distinct from the seven tangibles previously recognized.
 
 ## Argument Reconstruction
 
@@ -85,7 +85,7 @@ The verse and Bhāṣya distinguish three questions that must not be conflated:
    - rival numerical constructions are preserved.
 
 3. **What kind of dharma is it?**
-   - it belongs to `spraṣṭavyāyatana`, the tangible sphere;
+   - it belongs to `spraṣṭavyāyatana`, the tangible Essence;
    - on the principal account, it is a special configuration of the great elements;
    - on another account, it is derived form distinct from the seven tangibles.
 
@@ -147,7 +147,7 @@ This is philosophically interesting, but voice attribution is essential. Vasuban
 
 ### Bodily power remains material
 
-Despite its extraordinary magnitude, the Kośa refuses to make bodily power mysterious. It is classified within the tangible sphere.
+Despite its extraordinary magnitude, the Kośa refuses to make bodily power mysterious. It is classified within the tangible Essence.
 
 The principal account is especially precise:
 

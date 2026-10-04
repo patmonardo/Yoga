@@ -113,7 +113,7 @@ The argument from 434|16 through 434|22 is textually compressed and partly omitt
 
 **Voice: Vasubandhu**
 
-The designation `vibhūtarūpasaṃjña` applies to the formless attainments and three neighboring preparatory states. One exception is the preparatory state immediately neighboring the sphere of infinite space: because that state still takes the fourth dhyāna as object-support, form-perception has not yet disappeared there.
+The designation `vibhūtarūpasaṃjña` applies to the formless attainments and three neighboring preparatory states. One exception is the preparatory state immediately neighboring the Essence of infinite space: because that state still takes the fourth dhyāna as object-support, form-perception has not yet disappeared there.
 
 The Bhāṣya then returns to the previous verse's claim that the formless attainments consist of four aggregates. This requires proof that rūpa is genuinely absent in the formless domain.
 
@@ -276,7 +276,7 @@ The Bhāṣya requires the fuller determination:
 
 Accordingly, `cittataḥ` should remain "from citta" in the canonical verse translation, while the Bhāṣya note must preserve its causal qualification.
 
-The first half is also clarified: the designation based on disappearance of form-perception does not apply to the preliminary state immediately neighboring the sphere of infinite space, because that preliminary state still takes the fourth dhyāna as object-support.
+The first half is also clarified: the designation based on disappearance of form-perception does not apply to the preliminary state immediately neighboring the Essence of infinite space, because that preliminary state still takes the fourth dhyāna as object-support.
 
 ## Logical Determination
 

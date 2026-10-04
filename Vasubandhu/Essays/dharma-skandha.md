@@ -17,7 +17,7 @@ Dharma as Skandha
     = constituted and gathered multiplicity
 
 Dharma as Āyatana
-    = relational sphere of manifestation and cognition
+    = relational Essence of manifestation and cognition
 
 Dharma as Dhātu
     = principial domain within the complete system
@@ -31,7 +31,7 @@ aggregation
     → systematic determination
 ```
 
-This sequence is not imposed by attaching foreign labels to Buddhist lists. It must be inferred through the Kośa's explicit cross-mappings. The same vijñānaskandha, for example, is considered as mana-āyatana in the sphere-system and as six vijñāna-dhātus together with manodhātu in the domain-system.
+This sequence is not imposed by attaching foreign labels to Buddhist lists. It must be inferred through the Kośa's explicit cross-mappings. The same vijñānaskandha, for example, is considered as mana-āyatana in the Essence-system and as six vijñāna-dhātus together with manodhātu in the Domain-system.
 
 The Concept of Dharma is therefore:
 
@@ -313,8 +313,8 @@ The Loka–Karma volume is the Bhava Chakra. Bhava Chakra and Dharma Chakra
 belong to related but distinct systematic movements.
 
 An Index of Dharmas is a means of preserving and examining this movement,
-not the Chakra itself. Each record retains its Skandha, Sphere, and Domain
-projections; a record may share a Sphere or Domain with another record
+not the Chakra itself. Each record retains its Skandha, Essence, and Domain
+projections; a record may share an Essence or Domain with another record
 without thereby becoming the same Dharma.
 
 Because Abhidharma discriminates *sarvadharma*, the discriminating form cannot

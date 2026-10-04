@@ -135,7 +135,7 @@ Vasubandhu rejects this as insufficient:
 
 ### Translation
 
-> For them, the same consequence would also follow concerning the domains and spheres.
+> For them, the same consequence would also follow concerning the domains and Essences.
 
 The problem is that the unconditioned is nevertheless included in dharmadhātu and dharmāyatana. A simple “cessation is not what ceases” argument would wrongly exclude it there as well. Vasubandhu therefore prefers the more exact criterion of whether the category’s meaning applies.
 

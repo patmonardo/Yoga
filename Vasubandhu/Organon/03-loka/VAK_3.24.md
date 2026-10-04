@@ -284,7 +284,7 @@ vak:JatiStage
 
 vak:JaramaranaStage
     a vak:DependentOriginationStage ;
-    vak:prospectivelyGathers vak:NamarupaStage, vak:SixSphereStage,
+    vak:prospectivelyGathers vak:NamarupaStage, vak:SixEssenceStage,
         vak:ContactStage, vak:FeelingStage .
 
 organon:IndexicalMemberDesignation

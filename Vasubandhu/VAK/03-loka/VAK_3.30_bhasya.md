@@ -260,7 +260,7 @@ This alternative should not be conflated with Vasubandhu's first explanation.
 
 ### 3. Sparśa is sixfold
 
-After noting that the six spheres have been explained, Vasubandhu turns to contact:
+After noting that the six Essences have been explained, Vasubandhu turns to contact:
 
 ```iast
 sparśāḥ ṣaṭ

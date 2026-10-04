@@ -39,7 +39,7 @@ dve | dvitīya-vat | anyāni | punaḥ | śubha-vimokṣa-vat
 | `śubhavimokṣavat` | indeclinable comparison | like the beautiful release |
 
 The analytical abhibhū + āyatana gives abhibhvāyatana.
-Āyatana supplies the sense of a base or sphere;
+In the controlled vocabulary, āyatana is rendered Essence;
 the commentary determines the specific mastery intended.
 Here śubha preserves the beautiful aspect of the
 third release and need not be replaced by a
@@ -127,7 +127,7 @@ to change external things.
 
 ## 7. Technical Vocabulary
 
-**`Abhibhvāyatana`.** Base or sphere of mastery.
+**`Abhibhvāyatana`.** Essence of mastery (conventionally, base of mastery).
 The commentary explains the term through mastery
 of the ālambana, the object of contemplation.
 The field's scale and appearance are articulated

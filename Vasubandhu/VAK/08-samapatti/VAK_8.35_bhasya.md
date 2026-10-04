@@ -9,7 +9,7 @@
 
 ## Best Current Translation
 
-There are eight mastery-spheres. Two are patterned after the first Deliverance, two after the second, and the remaining four after the Deliverance through the pure.
+There are eight mastery-Essences. Two are patterned after the first Deliverance, two after the second, and the remaining four after the Deliverance through the pure.
 
 [Kārikā analysis](./VAK_8.35.md)
 
@@ -59,9 +59,9 @@ ebhistvālambanābhibhavanaṃ yathecchamadhimokṣāt kleśānutpādācca /
 
 ## Natural Argument
 
-Vasubandhu introduces eight **abhibhvāyatanas**, mastery-spheres. He first enumerates them phenomenologically.
+Vasubandhu introduces eight **abhibhvāyatanas**, mastery-Essences. He first enumerates them phenomenologically.
 
-The first mastery-sphere is described as follows: while retaining an internal perception of form, the practitioner sees external forms that are limited, whether attractive or unattractive, and knows and sees those forms as mastered. The second repeats this with large or extensive external forms.
+The first mastery-Essence is described as follows: while retaining an internal perception of form, the practitioner sees external forms that are limited, whether attractive or unattractive, and knows and sees those forms as mastered. The second repeats this with large or extensive external forms.
 
 The third and fourth proceed similarly while the practitioner no longer retains an internal perception of form. The remaining four likewise occur without internal form-perception, but the external field is differentiated through four colors: blue, yellow, red, and white.
 
@@ -71,25 +71,25 @@ The Kārikā then organizes the eight by dependence upon the first three Deliver
 - the third and fourth are like the second vimokṣa;
 - the final four are like the pure or beautiful vimokṣa.
 
-The decisive point comes in Vasubandhu's concluding distinction. The Deliverances produce merely **turning away** (`vaimukhyamātra`). The mastery-spheres go further: they effect **mastery over the object-support** (`ālambanābhibhavana`). This mastery consists in being able to determine the object according to intention (`yatheccham adhimokṣāt`) while affliction does not arise (`kleśānutpādāt`).
+The decisive point comes in Vasubandhu's concluding distinction. The Deliverances produce merely **turning away** (`vaimukhyamātra`). The mastery-Essences go further: they effect **mastery over the object-support** (`ālambanābhibhavana`). This mastery consists in being able to determine the object according to intention (`yatheccham adhimokṣāt`) while affliction does not arise (`kleśānutpādāt`).
 
 ## Argument Reconstruction
 
-1. The eight mastery-spheres inherit their basic object-structures from the first three Deliverances.
+1. The eight mastery-Essences inherit their basic object-structures from the first three Deliverances.
 2. Their enumeration varies two principal dimensions:
    - whether internal form-perception is present;
    - the scale or qualitative determination of external form.
-3. Therefore the mastery-spheres do not introduce an unrelated object-domain; they intensify an already cultivated relation to form.
+3. Therefore the mastery-Essences do not introduce an unrelated object-domain; they intensify an already cultivated relation to form.
 4. A Deliverance establishes release or turning away from domination by the field.
-5. A mastery-sphere establishes positive command over that field.
+5. A mastery-Essence establishes positive command over that field.
 6. This command is demonstrated by the ability to determine the mode of the object according to intention without the re-arising of affliction.
 7. Hence `abhibhava` is stronger than mere avoidance: it is controlled transformation of the cognitive relation to its object-support.
 
 ## New Technical Terms
 
-- **abhibhvāyatana / abhibhū-āyatana** — mastery-sphere; a structured object-field over which practiced cognition exercises command. **Status:** introduced here as a major complex. **Function:** classifies meditative mastery of appearance.
+- **abhibhvāyatana / abhibhū-āyatana** — mastery-Essence; a structured object-field over which practiced cognition exercises command. **Status:** introduced here as a major complex. **Function:** classifies meditative mastery of appearance.
 - **abhibhūya jānāti / abhibhūya paśyati** — knows as mastered / sees as mastered. **Status:** Bhāṣya formulation. **Function:** defines the phenomenological mark of mastery.
-- **ālambanābhibhavana** — mastery of the object-support. **Status:** Bhāṣya-only explanatory term in this passage. **Function:** distinguishes mastery-spheres from Deliverances.
+- **ālambanābhibhavana** — mastery of the object-support. **Status:** Bhāṣya-only explanatory term in this passage. **Function:** distinguishes mastery-Essences from Deliverances.
 - **yatheccham adhimokṣa** — intentional determination at will. **Status:** Bhāṣya formulation. **Function:** gives an operational criterion for mastery.
 - **vaimukhyamātra** — mere turning away. **Status:** explanatory terminology continuing the vimokṣa discussion. **Function:** marks the more limited function of Deliverance relative to mastery.
 
@@ -101,7 +101,7 @@ The passage is straightforward exposition. No competing school position is intro
 
 ## Doctrinal Determination
 
-The eight mastery-spheres are derived from the first three Deliverances but exceed them in function.
+The eight mastery-Essences are derived from the first three Deliverances but exceed them in function.
 
 Their basic distribution is:
 
@@ -138,11 +138,11 @@ Thus release from domination and mastery of a field are related achievements but
 
 ## Translation Consequences
 
-`abhibhvāyatana` should not be flattened into a vague "sphere of overcoming." The Bhāṣya's use of `ālambanābhibhavana` shows that the central relation is mastery **over an object-support**.
+`abhibhvāyatana` should not be flattened into a vague "Essence of overcoming." The Bhāṣya's use of `ālambanābhibhavana` shows that the central relation is mastery **over an object-support**.
 
 Likewise, `yatheccham adhimokṣa` should retain its practical force: the practitioner can establish the intended determination of the field at will. This is not merely passive perception of an altered object.
 
-The first-pass translation "mastery-sphere" is therefore retained and strengthened by the Bhāṣya.
+The first-pass translation "mastery-Essence" is therefore retained and strengthened by the Bhāṣya.
 
 ## Logical Determination
 

@@ -227,7 +227,7 @@ is never not its object. Even when it is not being apprehended, it
 has that character, just as wood and the like are called fuel even
 when not being burned, because they have that character. These minds
 and mental factors are each fixed with respect to their objects by
-the determination of sense-field, entity, and characteristic.
+the determination of Essence, entity, and characteristic.
 
 Are they also fixed with respect to their support? Yes, he says.
 Those that have arisen are joined to their support; [the transmitted

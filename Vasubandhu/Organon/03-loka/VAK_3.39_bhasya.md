@@ -7,8 +7,8 @@ kavaḍīkāra āhāraḥ kāme tryāyatanātmakaḥ /
 na rūpāyatanaṃ tena svākṣamuktānanugrahāt // 3.39 //
 ```
 
-> Morsel nutriment in the desire realm is constituted by three spheres. The
-> visible-form sphere is not nutriment, because it does not support its own
+> Morsel nutriment in the desire realm is constituted by three Essences. The
+> visible-form Essence is not nutriment, because it does not support its own
 > faculty or the liberated.
 
 The Bhāṣya first enumerates the four nutriments, then analyzes the first as
@@ -74,7 +74,7 @@ cognition the fourth.
 
 Of these, morsel nutriment occurs in the desire realm. It does not occur in
 the form or formless realms because beings are born there after becoming
-dispassionate toward it. It is constituted by three spheres: all the
+dispassionate toward it. It is constituted by three Essences: all the
 desire-realm spheres of odor, taste, and tangible are morsel nutriment because
 they are taken in after being formed into morsels, ordinarily delimited as
 intake by mouth or nose.
@@ -84,7 +84,7 @@ is said to state the predominant case. Things that are not literally ingested
 but nevertheless sustain continued existence also count as subtle nutriment,
 as with bathing and anointing.
 
-Why is the visible-form sphere not nutriment? It too is taken in when food is
+Why is the visible-form Essence not nutriment? It too is taken in when food is
 formed into morsels. The answer is that visible form does not support its own
 faculty or the liberated. Nutriment is that which conduces to the sustaining
 support of the faculties and the great elements. At the time of ingestion,
@@ -142,7 +142,7 @@ explicit. “Taken as a morsel” describes the predominant mode, not an
 exceptionless mechanism. Something not swallowed can still count as subtle
 material nutriment if it actually sustains continued existence.
 
-## 6. Realm and Three Constituent Spheres
+## 6. Realm and Three Constituent Essences
 
 Morsel nutriment belongs only to the desire realm:
 
@@ -162,13 +162,13 @@ Its three constituents are:
 
 ```text
 gandhāyatana
-    odor sphere
+    odor Essence
 
 rasāyatana
-    taste sphere
+    taste Essence
 
 spraṣṭavyāyatana
-    tangible sphere
+    tangible Essence
 ```
 
 These are all desire-realm spheres. `Tryāyatanātmaka` therefore states a

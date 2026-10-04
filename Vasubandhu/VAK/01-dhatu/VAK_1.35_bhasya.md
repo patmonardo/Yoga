@@ -151,7 +151,7 @@ The division into *bhūta* and *bhautika* applies only within the material field
 
 **Voice: Buddhadeva’s position**
 
-> “The ten spheres are nothing but the great elements.”
+> “The ten Essences are nothing but the great elements.”
 
 This position collapses the distinction between great elements and derivative materiality.
 
@@ -177,11 +177,11 @@ Therefore the visible and other material domains cannot simply be identified wit
 
 **Voice: Vasubandhu citing sūtra**
 
-The cited formula says that the faculties and external material objects arise **in dependence upon** the four great elements. By contrast, the tangible sphere explicitly includes both the four great elements themselves and what is derived from them.
+The cited formula says that the faculties and external material objects arise **in dependence upon** the four great elements. By contrast, the tangible Essence explicitly includes both the four great elements themselves and what is derived from them.
 
 The Bhāṣya draws the conclusion:
 
-> Because the great elements are included only through one part of the tangible sphere, it is clearly shown that the remaining material domains are not themselves great elements.
+> Because the great elements are included only through one part of the tangible Essence, it is clearly shown that the remaining material domains are not themselves great elements.
 
 ### 10. The ten accumulated domains
 
@@ -234,7 +234,7 @@ Determination 4:
 The mental domains and the remainder of the dharma-domain are neither elemental nor derivative-material.
 
 Objection / rival thesis:
-Buddhadeva reduces all ten material spheres to the great elements.
+Buddhadeva reduces all ten material Essences to the great elements.
 
 Resolution:
 The sūtra fixes the great elements as four and locates their specific characteristics within tangible apprehension. The other material domains arise in dependence upon the great elements but are not identical with them.
@@ -265,7 +265,7 @@ The ten material faculty-and-object domains are accumulated because they are ato
 | Passage | Voice |
 |---|---|
 | Classification of great elements and derivative-material domains | Vasubandhu |
-| “The ten spheres are nothing but the great elements” | Buddhadeva’s position |
+| “The ten Essences are nothing but the great elements” | Buddhadeva’s position |
 | Rejection through the four great elements and distinct apprehension | Vasubandhu |
 | Scriptural formulas | Sūtra cited by Vasubandhu |
 | Atomic definition of accumulated materiality | Vasubandhu |

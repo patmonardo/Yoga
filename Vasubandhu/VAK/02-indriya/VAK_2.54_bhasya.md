@@ -45,9 +45,9 @@ In the form realm, a one-aggregate maturation cause may consist of acquisition o
 
 In the formless realm, a one-aggregate maturation cause may consist of acquisition or cessation-attainment together with its marks. A four-aggregate cause consists of wholesome citta and mental factors together with their marks.
 
-There is karma whose maturation is only one sense-base, namely the life faculty. When the mental base matures, two bases mature: mind and dharma. When the tangible base matures, or the body base, three bases mature: body, tangible, and dharma. When the eye base matures, four bases mature: eye, body, tangible, and dharma. The same applies correspondingly to ear, nose, and tongue.
+There is karma whose maturation is only one Essence, namely the Dharma Essence of the life faculty. When the Mind Essence matures, two Essences mature: Mind and Dharma. When the Tangible Essence matures, or the Body Essence, three Essences mature: Body, Tangible, and Dharma. When the Eye Essence matures, four Essences mature: Eye, Body, Tangible, and Dharma. The same applies correspondingly to Ear, Nose, and Tongue.
 
-There is also karma whose maturation consists of five, six, seven, eight, nine, ten, or eleven bases. Karma has varied or unvaried results, like external seeds: some external seeds yield diverse results, while others yield less diverse ones.
+There is also karma whose maturation consists of five, six, seven, eight, nine, ten, or eleven Essences. Karma has varied or unvaried results, like external seeds: some external seeds yield diverse results, while others yield less diverse ones.
 
 ## Argument Reconstruction
 
@@ -94,7 +94,7 @@ This separates karmic maturation from simple homogeneous continuation.
 
 ### 4. Karma determines structured result-complexes
 
-The long classification by aggregates and sense-bases shows that karma does not merely produce an isolated event. It can project an organized result-complex of varying breadth.
+The long classification by aggregates and Essences shows that karma does not merely produce an isolated event. It can project an organized result-complex of varying breadth.
 
 ## Voices
 

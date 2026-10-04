@@ -33,7 +33,7 @@ sva-catuḥ-skandha-gocare
 | Form | Morphology | Contextual sense |
 |---|---|---|
 | `daśa` | numeral | ten |
-| `kṛtsnāni` | nominative plural neuter | totalities, expanded as totality-spheres in prose |
+| `kṛtsnāni` | nominative plural neuter | totalities, expanded as totality-Essences in prose |
 | `alobhāḥ` | nominative plural masculine predicate | non-greed; having non-greed as nature |
 | `aṣṭau` | numeral | eight, the first eight |
 | `dhyāne` | locative singular neuter | in dhyāna |
@@ -102,10 +102,10 @@ aggregates of its own level as object-field.
 
 ### Bhāṣya-informed study translation
 
-> There are ten totality-spheres, so called because
+> There are ten totality-Essences, so called because
 > of uninterrupted complete pervasion: earth, water,
 > fire, wind, blue, yellow, red, white, and
-> the totalities of the spheres of infinite
+> the totalities corresponding to the Essences of infinite
 > space and infinite knowledge.
 >
 > The first eight have non-greed as their
@@ -141,7 +141,7 @@ falls within each totality's range.
 
 ## 7. Technical Vocabulary
 
-**`Kṛtsna / kṛtsnāyatana`.** Totality / totality-sphere.
+**`Kṛtsna / kṛtsnāyatana`.** Totality / totality-Essence.
 The prose explains the name by complete pervasion.
 The selected determination and the completeness of
 its extension must remain distinguishable.
@@ -155,8 +155,8 @@ object as large or calling the practice universal.
 “Non-appropriation” can develop the project's interpretation,
 but non-greed retains the explicit technical predicate.
 
-**`Rūpāyatana / spraṣṭavyāyatana`.** Visible-form field /
-tangible field. The principal account gives the
+**`Rūpāyatana / spraṣṭavyāyatana`.** Visible-form Essence /
+tangible Essence. The principal account gives the
 former for the first eight; unnamed authorities
 assign the latter to wind. Earth, water,
 fire, and wind in this inventory should not
@@ -168,8 +168,8 @@ it must not be silently translated as anāsrava,
 uncontaminated. “Pure” here is not a new
 claim that all ten totalities are noble paths.
 
-**`Ākāśānantyāyatana / vijñānānantyāyatana`.** Sphere of
-infinite space / sphere of infinite knowledge.
+**`Ākāśānantyāyatana / vijñānānantyāyatana`.** Essence of
+infinite space / Essence of infinite knowledge.
 These identify the final two totalities. Vijñāna
 is rendered “knowledge” according to the project's
 standing vocabulary, without equating it with liberative
@@ -288,7 +288,7 @@ rendering remains explicitly qualified.
 ## 10. OWL++ Seed
 
 ```text
-Class: TotalitySphere
+Class: TotalityEssence
 Class: AttainmentLevel
 Class: ObjectRange
 Class: BearerStatus
@@ -323,7 +323,7 @@ InfiniteKnowledgeTotality:
     objects: FourAggregatesOfOwnLevel
 
 ReleaseMasteryTotalityRelation:
-    gradedOrder: Release, MasteryBase, TotalitySphere
+    gradedOrder: Release, MasteryBase, TotalityEssence
     statedReason: SuccessiveSuperiority
     entryCompoundDirection: RequiresPhilologicalReview
 

@@ -31,7 +31,7 @@ The conditioning cause is called “the first” because it was stated first. It
 
 **Objection:** If the conditioning cause is established merely through non-obstruction, what predominance does it exercise?
 
-**Response:** This very non-obstruction is its predominance. Moreover, a conditioning cause can also exercise positive assistance. Thus, for example, the ten sense-bases exercise predominance with respect to the five groups of consciousness, and karmic action exercises predominance with respect to the receptacle-world. The ear and the other faculties can also exercise indirect predominance in the arising of visual consciousness; for example, after hearing something, the desire to see it may arise. Other cases should be understood in the same way.
+**Response:** This very non-obstruction is its predominance. Moreover, a conditioning cause can also exercise positive assistance. Thus, for example, the ten Essences exercise predominance with respect to the five groups of consciousness, and karmic action exercises predominance with respect to the receptacle-world. The ear and the other faculties can also exercise indirect predominance in the arising of visual consciousness; for example, after hearing something, the desire to see it may arise. Other cases should be understood in the same way.
 
 The homogeneous and pervasive causes have homogeneous outflow as their fruit.
 

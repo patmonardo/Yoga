@@ -145,7 +145,7 @@ loss of faculties at death, and `nirodha`, their cessation.
 | uparama | stopping / death | terminal context indicated by the Kārikā's compressed phrase |
 | maraṇa | death | Bhāṣya's explicit determination of the context |
 | ārūpya | formless realm | three-faculty terminal profile |
-| rūpa | form realm | eight-faculty terminal profile |
+| rūpa | Form Realm | eight-faculty terminal profile |
 | kāma | desire realm | eight-, nine-, or ten-faculty terminal profile |
 | sakṛn-maraṇa | death occurring all at once | mode presupposed by the Kārikā's realm counts |
 | samagra-indriya | possessing complete faculties | condition of spontaneously born form-realm beings at arising and death |

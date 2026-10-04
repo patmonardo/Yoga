@@ -310,7 +310,7 @@ four aggregates co-arising with vijñāna
 faculties established there
     = ṣaḍāyatana
 
-impact/convergence of the spheres
+impact/convergence of the Essences
     = sparśa
 
 experience of contact
@@ -430,7 +430,7 @@ The next verse, 3.25, begins by asking why the sūtra specifically uses the sent
 
 While running about for the sake of obtaining desired objects, one accumulates karma productive of renewed existence. This renewal-producing karma is the member called `bhava`. Through that karma, after falling away from the present life, future reconnection occurs.
 
-That reconnection is called birth. What is called the `vijñāna` member when the present life is being analyzed is called `jāti` when the corresponding event is viewed as belonging to another, future birth. What follows birth through the feeling-stage is called aging-and-death; thus the stages called name-and-form, the six spheres, contact, and feeling in the present life are gathered under aging-and-death when viewed as the future result-section.
+That reconnection is called birth. What is called the `vijñāna` member when the present life is being analyzed is called `jāti` when the corresponding event is viewed as belonging to another, future birth. What follows birth through the feeling-stage is called aging-and-death; thus the stages called name-and-form, the six Essences, contact, and feeling in the present life are gathered under aging-and-death when viewed as the future result-section.
 
 Dependent co-arising is also taught in four modes: momentary, extended, connected, and stage-based. In the momentary mode, all twelve determinations can be articulated within a single moment. In the stage-based mode, the twelve members are twelve five-aggregate stages continuously connected across three births.
 

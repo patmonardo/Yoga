@@ -31,7 +31,7 @@ rūpa-āptam | dve | tu | nirmāṇa-cittaiḥ | tāni | caturdaśa
 |---|---|---|
 | `kāmāptam` | nominative singular neuter compound adjective here | belonging to the desire domain |
 | `nirmitam` | nominative singular neuter participle used substantivally | what is constructed; a constructed manifestation |
-| `bāhyam` | nominative singular neuter adjective | external, belonging to the object-side sense-fields |
+| `bāhyam` | nominative singular neuter adjective | external, belonging to the object-side Essences |
 | `caturāyatanam` | nominative singular neuter compound adjective | consisting of four āyatanas |
 | `dvidhā` | adverb | twofold |
 | `rūpāptam` | nominative singular neuter compound adjective | belonging to the form domain |
@@ -86,14 +86,14 @@ those [minds] are fourteen.
 ### Literal Translation
 
 > A desire-domain constructed manifestation is external,
-> consists of four sense-fields, and is twofold. A form-
+> consists of four Essences, and is twofold. A form-
 > domain one, however, consists of two. They are produced
 > by construction-minds; those minds are fourteen.
 
 ### Bhāṣya-informed study translation
 
 > A desire-domain construction consists of four external
-> sense-fields: visible form, taste, smell, and the tangible.
+> Essences: visible form, taste, smell, and the tangible.
 > It is connected either with one's own body or with
 > another body. A form-domain construction consists of
 > visible form and the tangible, since smell and taste
@@ -137,7 +137,7 @@ places the construction on the object side. The passage
 does not say that it constructs new sensory faculties
 in the recipient or producer.
 
-**`Caturāyatana`.** Constituted by four sense-fields:
+**`Caturāyatana`.** Constituted by four Essences:
 visible form, taste, smell, and the tangible. Sound is
 not included in this constitution. This passage does
 not explain its omission through a theory that sound
@@ -172,7 +172,7 @@ acting simultaneously in every construction.
 
 **Product constitution and body relation.**
 
-| Product domain | External sense-fields | Body relation |
+| Product domain | External Essences | Body relation |
 |---|---|---|
 | Desire | Visible form, taste, smell, tangible | Own body or another body |
 | Form | Visible form, tangible | Own body or another body |

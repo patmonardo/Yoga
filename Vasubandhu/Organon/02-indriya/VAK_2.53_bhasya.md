@@ -7,12 +7,12 @@
 
 > Application-produced qualities, born of hearing, reflection, and
 > the rest, are homogeneous causes only of those two [the equal and
-> superior]. The associated cause consists of mind and mental factors
+> superior]. The associated cause consists of consciousness and mental factors
 > having the same support.
 
-The opening completes the homogeneous-cause account begun in VAK 2.52.
-The second half introduces associated causality and follows it through
-its explicit close. Pervasive causality belongs to the next study.
+The Bhāṣya resumes the first half at 87.20 and recites it at 87.22–24.
+The second half is recited at 88.15 and with the full verse marker at 88.19.
+The unit closes at 88.27; pervasive causality begins at 89.01 in VAK 2.54.
 
 ## 2. Continuous Sanskrit
 
@@ -122,8 +122,8 @@ of receptivity to dharma-knowledge concerning suffering that arise
 together with successively later moments, because they are inferior.
 The homogeneous cause has been explained.
 
-“But the associated cause consists of mind and mental factors.” On
-that account, mind and mental factors born at different times and in
+“But the associated cause consists of consciousness and mental factors.” On
+that account, consciousness and mental factors born at different times and in
 different continua would also be associated causes of one another.
 Then let them have the same aspect and object. Even so, the same
 consequence follows. Then let them occur at the same time. On that
@@ -131,7 +131,7 @@ account, the consequence still follows for those born in different
 continua—for example, people looking at the new moon. Therefore they
 must have “the same support.”
 
-Mind and mental factors whose support is the same are associated causes
+Consciousness and mental factors whose support is the same are associated causes
 of one another. “Same” means non-different. For example, the very moment
 of the eye faculty that supports eye-consciousness also supports feeling
 and the other factors associated with it. This should be understood
@@ -227,25 +227,28 @@ just excluded by the new-moon example.
 
 ## 8. Textual and Translation Decisions
 
-The Sanskrit unit runs from 87.20 through 88.27, covering the rest of
-homogeneous causality and the complete associated-cause account. The
-pervasive-cause question at 89.01 begins VAK 2.54 and is reserved. The
-research 2.53 file omits the opening part of this unit and instead
-includes the pervasive cause; the running source governs this edition.
+The Sanskrit unit runs from 87.20 through 88.27. Its opening question
+continues the VAK 2.52 discussion; the first half is cited at 87.22–24,
+and the second half at 88.15 and 88.19. The pervasive-cause question at
+89.01 begins VAK 2.54.
 
-The witness is retained apart from source labels and surrounding spacing.
-At 88.07–08 it reads *anutpannasyāsravasya*, apparently “of an unarisen
-contaminated [dharma].” The example is an uncontaminated receptivity;
-the translation supplies “[uncontaminated]” and marks the discrepancy.
+The running transcription is retained apart from source labels and
+surrounding segmentation. At 88.07–08 it reads *anutpannasyāsravasya*,
+apparently “of an unarisen contaminated [dharma].” The example is an
+uncontaminated receptivity; the translation supplies “[uncontaminated]”
+and marks the discrepancy.
 At 88.12, *avimātro* is contextually rendered “superior,” without
 silently repairing the Sanskrit. The compressed acquisition example
 at 88.12–14 is translated separately from the decline example; its
 precise moment-by-moment construction remains provisional.
 
-Other transcription defects include *nirmāṇacittamapoi*,
-*caturdhyanaphalam*, *utpanām*, and the interrupted mental-faculty
-sentence at 88.20–22. Their contextual English does not constitute
-a critically established replacement text.
+At 88.03–04, the joined form *nirmāṇacittamapoi* is read provisionally
+as *nirmāṇa-cittam api*; the following words are taken to describe a
+desire-realm nirmāṇa-mind as a result of the four concentrations. The
+sentence's segmentation remains uncertain. Other transcriptional
+irregularities include *utpanām* at 88.07 and the joined form
+*manovijñānatsaṃprayukṭānāṃ* at 88.22. The contextual translations do
+not establish emended readings.
 
 The final *ekena api ... sarveṇa* construction does not explicitly name
 what “one” refers to. The research translation takes it as one of the
@@ -254,34 +257,27 @@ construal. The English leaves that point visible rather than silently
 settling it. Both readings occur within the explicit account of
 association through five equalities.
 
-## 9. Philosophical and Organon Study
+## 9. Philosophic Logic and Organon Study
 
-As Organon interpretation, the two halves teach different discriminations.
-For serial cultivation, we must distinguish acquisition from arising
-and identify the permitted direction of a homogeneous result. For
-association, resemblance among occurrences must be distinguished from
-membership in one supported cognitive complex.
+In the project's modest sense, this is philosophical logic: the Bhāṣya
+examines which conditions license two different causal claims. Deliberate
+practice has a restricted grade-direction as homogeneous cause. Association
+requires more than shared object, aspect, or time; it is specified through
+the same support and the five equalities. The examples and objections test
+those conditions rather than offering a free-standing formal logic.
 
-This supplies a precise form to our discussion of learning. “These belong
-together” becomes intelligible only when we determine how: as earlier
-and later cultivated qualities, as possession and what is possessed,
-or as mind and associated factors. A single claim of unity would conceal
-those relations. The text's examples make their differences learnable
-without requiring a separate speculative theory in the translation.
-
-On the Organon reading, faculties are Transcendental Time Determinations of
-Śuddha Sattva: practice develops capacity across occurrences, while the five
-equalities delimit one supported cognitive event. Cognition names the
-universal mode of knowing; the Idea is the particular content of learning,
-and shared content alone does not unite distinct supports.
+This is a project description, not a genre-name used by Vasubandhu. The
+conventional subject remains the distinction between *sabhāgahetu* and
+*saṃprayuktakahetu*, and between associated and co-arisen causality. In the
+Hub reading, the verse continues the *hetu:pratyaya* inquiry while keeping
+its distinct causal determinations intact.
 
 ## 10. Review Status
 
 Provisional fifty-third study of the restarted Indriyanirdeśa Bhāṣya
-sequence. The kārikā anchor, research Bhāṣya, prior boundary, and running
-Sanskrit have been compared. The complete application-produced-qualities
-and associated-cause discussions are translated, including the acquisition
-examples absent from the research 2.53 file.
+sequence. The kārikā anchor, paired VAK 2.52 boundary, and running Sanskrit
+have been compared. The application-produced qualities, acquisition
+examples, objections, and associated-cause discussion are retained.
 
 Textual uncertainties and contextual repairs are marked. No independent
 edition or manuscript collation has been performed. Original witnesses

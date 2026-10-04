@@ -48,7 +48,7 @@ and take hold. These are the explanations of their names
 beginning with *āsrava*.” They are called influxes because
 they cause [beings] to remain in saṃsāra and flow from the
 summit of existence down to Avīci through the six wounds
-of the sense spheres. They are floods because they carry
+of the Essences. They are floods because they carry
 away, yokes because they fasten, and appropriations because
 they take hold.
 
@@ -73,7 +73,7 @@ The verse's **five verbs explain four names**. `Āsayanti`
 and `āsravanti` both first explain *āsrava*; the remaining
 verbs explain *ogha*, *yoga*, and *upādāna*. The first
 account draws on the words themselves and on the image of
-flow through the six sense-sphere “wounds.” The term
+flow through the six Essence “wounds.” The term
 `āyatanavraṇa` is this passage's metaphor, not a new
 definition of *āyatana*.
 

@@ -127,7 +127,7 @@ to the Abhidharmikas are Bhāṣya determinations.
 | paramāṇu | ultimate atom | lower limit of form and base of the next material scale |
 | akṣara | letter / syllabic unit | lower limit of a name-expression |
 | kṣaṇa | moment | lower limit of temporal course |
-| rūpa | form | measurable domain whose diminution terminates in the ultimate atom |
+| rūpa | Form | measurable domain whose diminution terminates in the ultimate atom |
 | nāma | name / linguistic expression | articulable domain exemplified by the word `gauḥ`, “cow” |
 | adhvan / kāla | temporal course / time | measurable domain whose limit is the moment |
 | ātmalābha | attainment of its own occurrence | conditioned dharma's becoming occurrent once its conditions are complete |

@@ -78,4 +78,4 @@ vak:TwoFormlessTotalities
 
 ## Commit History
 
-- First-pass kārikā analysis committed after identifying the transition from mastery-spheres to totality-practices.
+- First-pass kārikā analysis committed after identifying the transition from mastery-Essences to totality-practices.

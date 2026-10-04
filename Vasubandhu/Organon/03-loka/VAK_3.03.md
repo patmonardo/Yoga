@@ -119,16 +119,16 @@ The Bhāṣya names the four formless modes of rebirth:
 
 ```text
 ākāśānantyāyatana
-    sphere of the infinitude of space
+    Essence of the infinitude of space
 
 vijñānānantyāyatana
-    sphere of the infinitude of differentiated cognition
+    Essence of the infinitude of differentiated cognition
 
 ākiṃcanyāyatana
-    sphere of nothingness
+    Essence of nothingness
 
 naivasaṃjñānāsaṃjñāyatana
-    sphere of neither perception nor non-perception
+    Essence of neither perception nor non-perception
 ```
 
 These names are Bhāṣya enumeration. Their order is not a spatial hierarchy

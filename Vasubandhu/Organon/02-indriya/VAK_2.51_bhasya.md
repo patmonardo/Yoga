@@ -1,13 +1,13 @@
-# VAK_2.51 Bhāṣya — Mind's Followers and the Grounds of Co-arisen Causality
+# VAK_2.51 Bhāṣya — Consciousness's Followers and Co-arisen Causality
 
 ## 1. Kārikā Anchor
 
 > caittā dvau saṃvarau teṣāṃ cetaso lakṣaṇāni ca /
 > cittānuvartinaḥ kālaphalādiśubhatādibhiḥ // 2.51 //
 
-> The mental factors, the two restraints, and their marks and those
-> of mind follow mind through time, result and the rest, and
-> wholesomeness and the rest.
+> The mental factors, the two restraints, and their marks and those of
+> consciousness follow consciousness through time, result and the rest,
+> and wholesomeness and the rest.
 
 This unit answers the question reserved from VAK 2.50 and follows the
 co-arisen-cause discussion to its close, before the homogeneous cause.
@@ -63,30 +63,31 @@ co-arisen-cause discussion to its close, before the homogeneous cause.
 
 ## 3. Continuous Conventional Translation
 
-What are these dharmas that follow mind? “The mental factors, the two
-restraints, and their marks and those of mind are followers of mind.”
-These are all the factors associated with mind, the restraint of meditative
-absorption and the uncontaminated restraint, and arising and the other
-marks belonging to these and to mind. These dharmas are called followers
-of mind. How do they follow mind? In brief, “through time, result and the
-rest, and wholesomeness and the rest.”
+What are these dharmas that follow consciousness? “The mental factors,
+the two restraints, and their marks and those of consciousness are
+followers of consciousness.” These are all the factors associated with
+consciousness, the restraint of meditative absorption and the
+uncontaminated restraint, and arising and the other marks belonging to
+these and to consciousness. These dharmas are called followers of
+consciousness. How do they follow consciousness? In brief, “through time,
+result and the rest, and wholesomeness and the rest.”
 
 First, with respect to time, they arise, persist, and cease together with
-mind, and fall within the same temporal period. With respect to result
-and the rest, they have the same result, maturation, and homogeneous
+consciousness, and fall within the same temporal period. With respect to
+result and the rest, they have the same result, maturation, and homogeneous
 outflow. The earlier occurrence of the word “one” should be understood
 in the sense of “together.” With respect to wholesomeness and the rest,
-they are wholesome, unwholesome, or indeterminate when mind is wholesome,
-unwholesome, or indeterminate. Thus they are called followers of mind
-for ten reasons.
+they are wholesome, unwholesome, or indeterminate when consciousness is
+wholesome, unwholesome, or indeterminate. Thus they are called followers
+of consciousness for ten reasons.
 
-Here, even mind with the fewest accompanying factors is a co-arisen cause
-of fifty-eight dharmas: the ten universal mental factors, their forty
-marks, and its own eight principal and subsidiary marks. In turn,
-fifty-four dharmas are co-arisen causes of that mind, excluding its own
-subsidiary marks. Others say fourteen: the ten universal factors and
-mind's own marks. This is not approved, for it would conflict with the
-Prakaraṇa text:
+Here, even consciousness with the fewest accompanying factors is a
+co-arisen cause of fifty-eight dharmas: the ten universal mental factors,
+their forty marks, and its own eight principal and subsidiary marks. In
+turn, fifty-four dharmas are co-arisen causes of that consciousness,
+excluding its own subsidiary marks. Others say fourteen: the ten universal
+factors and consciousness's own marks. This is not approved, for it would
+conflict with the Prakaraṇa text:
 
 “Can there be something belonging to the truth of suffering that has
 identity-view as a cause but is not a cause of identity-view? Apart from
@@ -101,9 +102,10 @@ with it” must either read this phrase or understand that meaning.
 Whatever is a cause as a co-arisen cause is also co-arisen. But something
 may be co-arisen without being a cause as a co-arisen cause: a dharma's
 subsidiary marks [in relation to that dharma], and those marks in relation
-to one another; likewise, the subsidiary marks of mind's followers in
-relation to mind, and those marks in relation to one another; resistant
-derived matter in relation to other such matter, and some non-resistant
+to one another; likewise, the subsidiary marks of consciousness's
+followers in relation to consciousness, and those marks in relation to
+one another; resistant derived matter in relation to other such matter,
+and some non-resistant
 derived matter; all derived matter in relation to the great elements;
 and co-arisen acquisitions in relation to the dharma possessed. These
 are co-arisen but are not co-arisen causes. [The acquisitions] do not
@@ -130,8 +132,9 @@ is therefore reasonable.
 [Objection:] Grant a causal relation between things produced together;
 but how can it be reciprocal? [Reply:] For that very reason.
 [Objection:] Then the same consequence would follow for inseparable
-derived matter in relation to itself and to the great elements, and for
-mind's subsidiary marks and the like in relation to mind and the like.
+derived matter in relation to itself and to the great Elements, and for
+consciousness's subsidiary marks and the like in relation to consciousness
+and the like.
 
 [Reply:] The causal relation of co-arisen things is established like
 three staffs standing through one another's strength. [Objection:] That
@@ -144,7 +147,7 @@ there too: a cord, a peg, or the earth supporting them.
 other causes, such as homogeneous causes: the co-arisen cause is
 nevertheless established.
 
-## 4. Following Mind in Ten Respects
+## 4. Following Consciousness in Ten Respects
 
 “Following” does not mean arriving later. The ten grounds are four temporal
 agreements—arising, persistence, cessation, and temporal period—three
@@ -154,16 +157,17 @@ with unwholesome, and indeterminate with indeterminate. These last three
 are alternatives across cases, not three simultaneous ethical qualities.
 
 The followers include more than associated mental factors: the two
-restraints and the relevant marks are included. “Associated with mind”
-and “following mind” therefore cannot simply be substituted for each
-other. Nor does the list imply that both restraints accompany every
-mind; the minimal count immediately uses the ten universal factors.
+restraints and the relevant marks are included. “Associated with
+consciousness” and “following consciousness” therefore cannot simply be
+substituted for each other. Nor does the list imply that both restraints
+accompany every instance of consciousness; the minimal count immediately
+uses the ten universal factors.
 
 ## 5. The Counts and the Disputed Reading
 
 The minimal outgoing count is 10 + 40 + 8 = 58: ten universal mental
-factors, four marks for each, and mind's own four principal and four
-subsidiary marks. The incoming count is 54, because mind's four subsidiary
+factors, four marks for each, and consciousness's own four principal and
+four subsidiary marks. The incoming count is 54, because consciousness's four subsidiary
 marks do not reciprocally cause it. The counts make the asymmetry from
 VAK 2.50 explicit.
 
@@ -186,7 +190,7 @@ The concluding explanation concerning different results and non-invariable
 accompaniment is read here with the immediately preceding acquisitions.
 Its feminine pronoun *etāḥ* expressly returns to *prāptayaḥ*. Possession
 can precede or outlast the possessed dharma; a particular co-arising does
-not make possession an invariably accompanying follower of mind.
+not make possession an invariably accompanying follower of consciousness.
 
 ## 7. The Debate over Simultaneous Causation
 
@@ -207,9 +211,9 @@ rejection of it.
 ## 8. Textual and Translation Decisions
 
 The unit extends from 83.25 through 85.06–07, ending immediately before
-the question about the homogeneous cause at 85.08. The research 2.51
-translation stops at the exclusions; its 2.50 file summarizes the later
-debate. Here that debate is restored in its continuous source position.
+the question about the homogeneous cause at 85.08. It continues the
+co-arisen-cause discussion begun in VAK 2.50, but includes the detailed
+count dispute, exclusions, and dialectic at their own source position.
 
 The transcription's *pūrvakas tv ekaśabdaḥ* refers to the earlier “one,”
 provisionally understood with the temporal formulation: arising,
@@ -233,25 +237,16 @@ the precise force of the preceding concession and its referents require
 collation. Speaker labels in brackets identify argumentative roles,
 not names supplied by the Sanskrit.
 
-## 9. Philosophical and Organon Study
+## 9. Limited Organon Reading
 
-As Organon interpretation, the study makes learning a discrimination
-among relations: accompaniment, agreement in results, one-way causation,
-and reciprocal causation. The numerical account and the objections both
-prevent a single idea of unity from doing all the explanatory work.
-
-This bears directly on our inquiry into synthesis. A manifold produced
-together through an antecedent assemblage and a manifold whose members
-causally support one another have different explanatory structures.
-Their distinction is precisely what the debate investigates. The
-Organon should carry that question forward rather than decide it merely
-by calling the complex a whole or invoking shared class membership.
-
-On the Organon reading, faculties are Transcendental Time Determinations of
-Śuddha Sattva: here they make one Citta-event intelligible through its shared
-arising, duration, cessation, and result-profile. Cognition is the universal
-determination of knowing; its particular Idea is the object and ethical-causal
-character of this occurrence, not another universal mind.
+The ten correspondences and the count dispute make the `citta:caitta`
+relation more determinate than bare accompaniment. In the project's
+Hub-of-Power reading, this dyad is one principial extreme, with
+`hetu:pratyaya` the other, organized by the invariant Hub. This is a
+project-level synthesis, not the Bhāṣya's terminology. The text itself
+tests which co-arisen relations count as causes and retains both the
+objections and its closing defense; the Hub is not an additional cause
+within that argument.
 
 ## 10. Review Status
 

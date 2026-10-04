@@ -40,7 +40,7 @@ Pradhan source:
 
 - **Vaibhāṣika position:** fundamental dhyānas have five parijñās as fruits.
 - **Bhadanta Ghoṣaka:** fundamental dhyānas have eight.
-- The prose then states the assignments of anāgamya, dhyānāntara, the preliminary concentration of the sphere of infinite space, and the three fundamental formless attainments.
+- The prose then states the assignments of anāgamya, dhyānāntara, the preliminary concentration of the Essence of infinite space, and the three fundamental formless attainments.
 
 ## Translation and Argument
 
@@ -139,7 +139,7 @@ For the formless attainments:
 
 > **ākāśānantyāyatanasāmantakasyaikā rūparāgakṣayaparijñā phalam** [323|20-323|21]
 
-The preliminary concentration of the sphere of infinite space has exactly one parijñā as fruit:
+The preliminary concentration of the Essence of infinite space has exactly one parijñā as fruit:
 
 ```text
 rūparāga-kṣaya-parijñā
@@ -199,7 +199,7 @@ This phrase explains why an abandonment already achieved in one sense can still 
 ### ākāśānantyāyatana-sāmantaka
 
 - **status:** technical concentration term
-- **function:** preliminary concentration immediately preceding the sphere of infinite space; basis for the rūparāga-kṣaya-parijñā
+- **function:** preliminary concentration immediately preceding the Essence of infinite space; basis for the rūparāga-kṣaya-parijñā
 
 ## Structural Determination
 
@@ -281,7 +281,7 @@ The first-pass translation is substantially correct, but the Bhāṣya fixes the
 
 - `pañca` = the five parijñās whose nature is abandonment of form- and formless-domain afflictions, according to the Vaibhāṣikas.
 - `aṣṭau` = Bhadanta Ghoṣaka's count, adding the three desire-domain seeing-abandonment parijñās.
-- `sāmantakasyaikā` = specifically the preliminary concentration of the sphere of infinite space, yielding rūparāga-kṣaya-parijñā.
+- `sāmantakasyaikā` = specifically the preliminary concentration of the Essence of infinite space, yielding rūparāga-kṣaya-parijñā.
 - `maulārūpya-trayasya` = the three fundamental formless attainments, each having the final sarva-saṃyojana-paryādāna-parijñā as fruit.
 
 ## Logical Determination

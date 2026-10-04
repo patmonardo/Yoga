@@ -148,7 +148,7 @@ Mere opposition to the noble path is insufficient to determine the mode of aband
 
 > Nothing undefiled is to be abandoned by seeing; nor is material form; nor what does not arise from the sixth.
 
-The sixth is the mental sphere, `mana-āyatana`.
+The sixth is the mental Essence, `mana-āyatana`.
 
 Thus only defiled dharmas arising on the mental side can be directly abandoned by seeing.
 
@@ -174,7 +174,7 @@ Even those whose wholesome roots are cut off or who are free from desire may sti
 
 **Voice: Vasubandhu**
 
-> The sixth is the mental sphere. Whatever is born elsewhere, and whatever is born from the five faculties, is not to be abandoned by seeing.
+> The sixth is the mental Essence. Whatever is born elsewhere, and whatever is born from the five faculties, is not to be abandoned by seeing.
 
 This excludes sensory-born processes from direct abandonment by seeing.
 
@@ -239,7 +239,7 @@ is abandoned by seeing.
 | āpāyika | leading to a bad destination | Bhāṣya-only adjective | qualifies bodily and verbal karma in the objection |
 | āryamārgavirodhitva | opposition to the noble path | Bhāṣya-only criterion under dispute | shown to be insufficient for classifying seeing-abandonment |
 | aṣaṣṭhaja | not born from the sixth | present in Kārikā, explicitly explained | excludes sensory-born processes from seeing-abandonment |
-| mana-āyatana | mental sphere, the sixth sphere | explicit Bhāṣya gloss | identifies the origin relevant to direct insight |
+| mana-āyatana | mental Essence, the sixth Essence | explicit Bhāṣya gloss | identifies the origin relevant to direct insight |
 
 ---
 
@@ -276,7 +276,7 @@ to be abandoned through cultivation
 ```text
 direct seeing targets
     defiled mental dharmas
-    rooted in the sixth sphere
+    rooted in the sixth Essence
 ```
 
 ### 3. *Aṣaṣṭhaja*
@@ -286,12 +286,12 @@ The Kārikā translation is confirmed:
 ```text
 aṣaṣṭhaja
     = not born from the sixth
-    = not generated from the mental sphere
+    = not generated from the mental Essence
 ```
 
 ### Revised Philosophical Translation
 
-> The ten material domains and five sensory knowledge-domains are relinquished through cultivation. The final three domains—mind, dharma, and mental knowledge—may be abandoned by seeing, abandoned by cultivation, or not abandoned at all. Nothing undefiled, nothing material, and nothing not arising from the mental sphere is directly abandoned by seeing.
+> The ten material domains and five sensory knowledge-domains are relinquished through cultivation. The final three domains—mind, dharma, and mental knowledge—may be abandoned by seeing, abandoned by cultivation, or not abandoned at all. Nothing undefiled, nothing material, and nothing not arising from the mental Essence is directly abandoned by seeing.
 
 ---
 
@@ -416,7 +416,7 @@ This is an Organon hypothesis, not yet a claim made explicitly by Vasubandhu. It
 - Recorded the remaining contaminated dharmas as cultivation-abandonable and uncontaminated dharmas as not abandonable.
 - Rejected mere opposition to the noble path as a sufficient criterion for seeing-abandonment.
 - Explained ordinary-person status and bodily/verbal karma as counterexamples.
-- Confirmed the sixth as the mental sphere and *aṣaṣṭhaja* as non-mental in origin.
+- Confirmed the sixth as the mental Essence and *aṣaṣṭhaja* as non-mental in origin.
 - Preserved the faculty as conditioned and cultivable rather than directly annihilated by insight.
 - Recorded the quantitative-range interpretation of capacity as an Organon hypothesis only.
 - Preserved the `_bhasya` filename convention.

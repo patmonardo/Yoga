@@ -257,7 +257,7 @@ inner state must remain numerically present throughout the deed.
 | nidāna-bhūta | functioning as a causal ground | relation of seeing-abandoned cognition to `vitarka-vicāra` |
 | bahirmukha-citta | outward-facing mind | cognition present during outward bodily or verbal performance |
 | vijñapti | manifestation / manifest action | bodily or verbal deed whose cognitive causes are being classified |
-| rūpa | form / material determination | produced manifestation that does not inherit the Path-classification of its cause |
+| rūpa | Form / material determination | produced manifestation that does not inherit the Path-classification of its cause |
 | akliṣṭa dharma | undefiled determination | characterization used to explain why form is not abandoned by seeing |
 | vidyā | knowledge | one member of the opposition to which undefiled form is neutral |
 | avidyā | ignorance | other member of the opposition to which undefiled form is neutral |

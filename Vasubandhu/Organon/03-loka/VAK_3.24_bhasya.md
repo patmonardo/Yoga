@@ -60,7 +60,7 @@ here in the present birth is birth for that same continuum in another birth.
 
 Thereafter, “aging-and-death extends up to the feeling-stage.” The stage after
 birth and continuing through the feeling-stage is aging-and-death. The four
-members that here are name-and-form, the six sense spheres, contact, and
+members that here are name-and-form, the six Essences, contact, and
 feeling are, in the other—future—birth, aging-and-death. In this way the
 twelve members are complete.
 

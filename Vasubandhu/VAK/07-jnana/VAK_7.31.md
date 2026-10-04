@@ -34,7 +34,7 @@ its measure
     beginning with elephant-strength
 
 its dharma classification
-    is the tangible sphere
+    is the tangible Essence
 ```
 
 The numerical series and rival interpretations belong to the bhāṣya’s explanatory framework and should not be expanded beyond what is needed for this first pass.
@@ -49,7 +49,7 @@ The numerical series and rival interpretations belong to the bhāṣya’s expla
 | anye | nominative plural | others [say] |
 | daśa-adhikam | compound | each stage exceeding the prior by tenfold |
 | hasti-ādi-saptaka-balam | compound | the seventh power in the series beginning with the elephant |
-| spraṣṭavya-āyatanam | nominative/accusative singular neuter | the tangible sphere |
+| spraṣṭavya-āyatanam | nominative/accusative singular neuter | the tangible Essence |
 | ca | conjunction | and |
 | tat | pronoun | that |
 
@@ -85,16 +85,16 @@ daśādhikam
     each level ten times the preceding
 
 tat spraṣṭavyāyatanam ca
-    and that belongs to the tangible sphere
+    and that belongs to the tangible Essence
 ```
 
 ## Literal Translation
 
-Nārāyaṇa-strength is in the Buddha’s body; according to others, it is in each of his joints. It is the seventh strength in a tenfold ascending series beginning with elephant-strength, and it belongs to the tangible sphere.
+Nārāyaṇa-strength is in the Buddha’s body; according to others, it is in each of his joints. It is the seventh strength in a tenfold ascending series beginning with elephant-strength, and it belongs to the tangible Essence.
 
 ## Philosophical Translation
 
-The Buddha’s embodied power is described through an ascending series of physical strengths culminating in Nārāyaṇa-strength. Yet however extraordinary this power may be, the Kośa still classifies it soberly as a tangible dharma: it belongs to the sphere of bodily contact rather than to the ten cognitive powers previously analyzed.
+The Buddha’s embodied power is described through an ascending series of physical strengths culminating in Nārāyaṇa-strength. Yet however extraordinary this power may be, the Kośa still classifies it soberly as a tangible dharma: it belongs to the Essence of bodily contact rather than to the ten cognitive powers previously analyzed.
 
 ## Technical Vocabulary
 
@@ -123,7 +123,7 @@ The term is especially apt here because it names bodily power at the point where
 
 ```text
 spraṣṭavya-āyatana
-    tangible sphere
+    tangible Essence
     domain of what can be contacted by touch
 ```
 
@@ -144,7 +144,7 @@ knowledge-power
 
 bodily power
     material
-    classified in the tangible sphere
+    classified in the tangible Essence
 ```
 
 The common word *bala* does not erase the categorical difference.
@@ -226,7 +226,7 @@ cognitive power
     belongs to knowledge
 
 bodily power
-    belongs to the tangible sphere
+    belongs to the tangible Essence
 ```
 
 The distinction between processor, circuitry, and embodiment remains provisional.
@@ -244,11 +244,11 @@ vak:VAK_7_31
     rdfs:label "VAK 7.31" ;
     vak:determines rupa:NarayanaStrength,
                    rupa:BodilyPower,
-                   rupa:TangibleSphereClassification .
+                   rupa:TangibleEssenceClassification .
 
 rupa:NarayanaStrength
     a rupa:BodilyPower ;
-    rupa:belongsTo rupa:TangibleSphere ;
+    rupa:belongsTo rupa:TangibleEssence ;
     rupa:measuredBy rupa:AscendingStrengthSeries .
 
 rupa:AscendingStrengthSeries

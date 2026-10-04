@@ -53,7 +53,7 @@ Desire-realm mind has four statuses; form and formless mind exclude the unwholes
 | nivṛta | obscured | Afflicted/covered status |
 | anivṛta | unobscured | Uncovered/neutral status |
 | manas | mind | Here citta-status matrix |
-| rūpa | form realm | Realm-status |
+| rūpa | Form Realm | Realm-status |
 | ārūpya | formless realm | Realm-status |
 | anāsrava | outflow-free | Pure/path status |
 | dvidhā | twofold | Likely śaikṣa/aśaikṣa; verify with Bhāṣya |

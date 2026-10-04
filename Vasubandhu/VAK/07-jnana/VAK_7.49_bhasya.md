@@ -9,7 +9,7 @@
 
 **Current best translation:**
 
-> A desire-realm construction is external and consists of four spheres; it is twofold. A form-realm construction consists of two. These constructions are produced by fourteen construction-minds.
+> A desire-realm construction is external and consists of four Essences; it is twofold. A form-realm construction consists of two. These constructions are produced by fourteen construction-minds.
 
 See: [VAK_7.49.md](./VAK_7.49.md)
 
@@ -86,7 +86,7 @@ evaṃ tṛtīyacaturthadhyānabhūmikāni catvāri pañca ca yojyāni /
 
 ## Source Cautions
 
-The line `dvacyāyātanaṃ nirmiṇotītyapare` at 426|07–08 is textually compressed and likely corrupt in transmission. It is retained without silent repair. The doctrinal point is clear enough: an alternative view is introduced concerning the number of spheres constructed.
+The line `dvacyāyātanaṃ nirmiṇotītyapare` at 426|07–08 is textually compressed and likely corrupt in transmission. It is retained without silent repair. The doctrinal point is clear enough: an alternative view is introduced concerning the number of Essences constructed.
 
 ## Natural Argument
 
@@ -94,7 +94,7 @@ The line `dvacyāyātanaṃ nirmiṇotītyapare` at 426|07–08 is textually com
 
 The construction discussed under `ṛddhi` is first divided by realm: desire-realm and form-realm.
 
-A desire-realm construction is external (`bāhya`) and has four objective spheres as its nature:
+A desire-realm construction is external (`bāhya`) and has four objective Essences as its nature:
 
 - visible form (`rūpa`)
 - smell (`gandha`)
@@ -103,7 +103,7 @@ A desire-realm construction is external (`bāhya`) and has four objective sphere
 
 It is twofold according to whether the construction is connected with one's own body or another body (`sva-para-śarīra-saṃbaddha`).
 
-A form-realm construction has only two spheres:
+A form-realm construction has only two Essences:
 
 - visible form
 - tangible
@@ -114,7 +114,7 @@ Thus the two realms together yield eight broad modes of construction.
 
 Vasubandhu then raises a technical problem: if one born in the form realm produces a desire-realm construction containing smell and taste, does the constructor thereby become endowed with smell and taste? No. The relation is compared with clothes and ornaments: something may be associated with what is produced without the producer thereby acquiring its properties.
 
-An alternative school view is briefly recorded concerning a more restricted construction of spheres.
+An alternative school view is briefly recorded concerning a more restricted construction of Essences.
 
 Vasubandhu then asks whether the construction itself is produced directly by the superknowledge (`abhijñā`). He explicitly answers no. It is produced by the **results of the abhijñā** (`abhijñā-phala`), namely the fourteen `nirmāṇa-cittas`.
 
@@ -129,12 +129,12 @@ Each dhyāna can produce construction-minds belonging to its own ground and lowe
 
 ## Translation
 
-> Construction is of the desire realm and of the form realm. First, a desire-realm construction is external and has the four spheres of visible form, taste, smell, and tangibility as its nature. It is twofold, being connected either with one's own body or with another body. A form-realm construction has two spheres, visible form and tangibility, because smell and taste are absent there; it too is twofold in the same way. Thus there are four modes of construction in the desire realm and likewise four in the form realm, eight in summary. If one born in the form realm constructs something belonging to the desire realm, why does one not thereby become endowed with smell and taste? As with clothes and ornaments, there is no such acquisition. Others hold a different view concerning the number of spheres constructed. Is construction produced directly by the superknowledge? No. By what, then? By its results: these are the fourteen construction-minds. Of these fourteen, respectively two through five are products of the dhyānas: the first dhyāna has two construction-minds, belonging to the desire realm and the first dhyāna; the second has three, belonging to the desire realm, first dhyāna, and second dhyāna; and similarly the third and fourth have four and five.
+> Construction is of the desire realm and of the form realm. First, a desire-realm construction is external and has the four Essences of visible form, taste, smell, and tangibility as its nature. It is twofold, being connected either with one's own body or with another body. A form-realm construction has two Essences, visible form and tangibility, because smell and taste are absent there; it too is twofold in the same way. Thus there are four modes of construction in the desire realm and likewise four in the form realm, eight in summary. If one born in the form realm constructs something belonging to the desire realm, why does one not thereby become endowed with smell and taste? As with clothes and ornaments, there is no such acquisition. Others hold a different view concerning the number of Essences constructed. Is construction produced directly by the superknowledge? No. By what, then? By its results: these are the fourteen construction-minds. Of these fourteen, respectively two through five are products of the dhyānas: the first dhyāna has two construction-minds, belonging to the desire realm and the first dhyāna; the second has three, belonging to the desire realm, first dhyāna, and second dhyāna; and similarly the third and fourth have four and five.
 
 ## Voice Attribution
 
 - **Voice: Vasubandhu** — principal exposition and questions.
-- **Voice: Other school position** — `apare`, introducing an alternative account of the constructed spheres.
+- **Voice: Other school position** — `apare`, introducing an alternative account of the constructed Essences.
 - **Voice: uncertain** — the transmitted wording of that alternative view is corrupt enough that its exact formulation should not be forced.
 
 ## New Technical Terms
@@ -170,7 +170,7 @@ construction connected with one's own body
 construction connected with another body
 ```
 
-Second, the omission of sound is not here explained through a state/event ontology. The text simply defines the constructed object by the listed external spheres. In the form realm smell and taste are absent; hence only visible form and tangibility remain.
+Second, the omission of sound is not here explained through a state/event ontology. The text simply defines the constructed object by the listed external Essences. In the form realm smell and taste are absent; hence only visible form and tangibility remain.
 
 Third, and most importantly:
 
@@ -249,7 +249,7 @@ Vasubandhu's clothes-and-ornaments analogy makes this explicit.
 ## Translation Consequences
 
 - `bāhya` should be retained as **external**, not weakened to merely "appearing outwardly."
-- `caturāyatana` means four external **spheres**, not four vague sensory features.
+- `caturāyatana` means four external **Essences**, not four vague sensory features.
 - `dvidhā` must be translated through the Bhāṣya as connection with one's own body or another body.
 - `nirmāṇacitta` should be rendered **construction-mind** or **construction cognition**, preserving its status as a determinate cognitive operator.
 - `abhijñā-phala` must remain visible in interpretation because it blocks identification of the abhijñā itself with the immediate act of construction.

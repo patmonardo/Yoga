@@ -97,7 +97,7 @@ objects through the afflictions.
 ### Bhāṣya-informed study translation
 
 > They are initially called influxes because they cause beings to remain in
-> saṃsāra and flow through the six wounds of the sense-spheres from the summit
+> saṃsāra and flow through the six Essence-wounds from the summit
 > of existence down to Avīci; floods because they carry away; yokes because
 > they fasten; and appropriations because they take hold. Vasubandhu then
 > offers the better functional account: through influxes the continuum flows
@@ -105,7 +105,7 @@ objects through the afflictions.
 > to manifold suffering even without extreme manifestation; and appropriations
 > establish recurrent adherence through graspings beginning with desire.
 
-The cosmic range, six sense-sphere wounds, boat simile, and preferred causal
+The cosmic range, six Essence-wounds, boat simile, and preferred causal
 explanations are supplied by the Bhāṣya.
 
 ## 6. Philosophical Translation
@@ -134,10 +134,10 @@ more adequate functional explanation.
 **`Āsrava` — influx or contaminating current**
 
 Initially explained through causing beings to remain in saṃsāra and flowing
-through the six sense-sphere wounds. Preferably explained as that through which
+through the six Essence-wounds. Preferably explained as that through which
 the continuum flows toward objects.
 
-**`Āyatana-vraṇa` — sense-sphere wound**
+**`Āyatana-vraṇa` — Essence-wound**
 
 The six āyatanas figured as openings through which afflictive influx flows.
 This is the Bhāṣya's metaphor and should not replace the chapter's more exact

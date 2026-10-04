@@ -30,7 +30,7 @@ caturdaśa
 | kāmāptam | belonging to or obtained in the desire realm |
 | nirmitam | constructed, projected, produced |
 | bāhyam | external |
-| caturāyatanam | consisting of four sense-fields |
+| caturāyatanam | consisting of four Essences |
 | dvidhā | twofold |
 | rūpāptam | belonging to or obtained in the form realm |
 | dve | two |
@@ -39,11 +39,11 @@ caturdaśa
 
 ## Literal Translation
 
-What is constructed in the desire realm is external and consists of four sense-fields, in two modes. What belongs to the form realm consists of two. The minds of construction by which these are produced are fourteen.
+What is constructed in the desire realm is external and consists of four Essences, in two modes. What belongs to the form realm consists of two. The minds of construction by which these are produced are fourteen.
 
 ## Philosophical Translation
 
-Constructive cognition does not create an indeterminate apparition. In the desire realm it projects an external sensible complex structured through four objective sense-fields; in the form realm the projection is reduced to two. These constructions are generated through fourteen determinate types of construction-consciousness.
+Constructive cognition does not create an indeterminate apparition. In the desire realm it projects an external sensible complex structured through four objective Essences; in the form realm the projection is reduced to two. These constructions are generated through fourteen determinate types of construction-consciousness.
 
 # 1. From Power to Product
 
@@ -92,7 +92,7 @@ The verse therefore distinguishes construction from imagination. A projected obj
 
 # 3. The Four External Āyatanas
 
-In the desire realm, the constructed object consists of four sense-fields:
+In the desire realm, the constructed object consists of four Essences:
 
 ```text
 rūpa

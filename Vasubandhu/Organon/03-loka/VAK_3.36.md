@@ -67,7 +67,7 @@ atra tu kleśa iṣyate
 ```
 
 The explicit subjects in the prose are Bhāṣya determinations: differentiated
-cognition and the sixfold sense-field were treated earlier; formation and
+cognition and the sixfold Essence-structure were treated earlier; formation and
 becoming will be treated in the Karma chapter; craving and appropriation in
 the Affliction chapter.
 

@@ -398,7 +398,7 @@ The earlier translations remain broadly correct, but the Bhāṣya requires shar
 
 ```text
 āyatana
-    not merely “sphere”
+    not merely “Essence”
     but functional access-way through which mind and mental factors extend
 
 dhātu
@@ -412,7 +412,7 @@ skandha
 
 Recommended translation:
 
-> The aggregates, access-spheres, and domains mean respectively collection, gateways of mental extension, and source-kinds. Because those to be trained differ threefold in delusion, faculty, and inclination, there are the three teachings beginning with the aggregates.
+> The aggregates, access-Essences, and domains mean respectively collection, gateways of mental extension, and source-kinds. Because those to be trained differ threefold in delusion, faculty, and inclination, there are the three teachings beginning with the aggregates.
 
 The current Kārikā file's “lineage/source-kind” should be retained but supplemented by the Bhāṣya's more concrete `ākara`, “source” or “mine.”
 

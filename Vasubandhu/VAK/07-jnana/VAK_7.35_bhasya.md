@@ -37,7 +37,7 @@ araṇapraṇidhijñānapratisaṃvidabhijñādhyānārupyāṃpramāṇavimok�
 
 - The e-text compresses the long final compound without word division; it is retained as supplied rather than silently normalized.
 - `śiṣya` in the Kārikā is glossed explicitly by the Bhāṣya as `śrāvaka`.
-- The Kārikā names only the first members of the series and closes with `guṇādayaḥ`; the Bhāṣya makes the scope of that `ādi` explicit by adding superknowledges, meditations, formless attainments, immeasurables, liberations, spheres of mastery, and totality-spheres.
+- The Kārikā names only the first members of the series and closes with `guṇādayaḥ`; the Bhāṣya makes the scope of that `ādi` explicit by adding superknowledges, meditations, formless attainments, immeasurables, liberations, Essences of mastery, and totality-Essences.
 
 ## Natural Argument
 
@@ -141,11 +141,11 @@ This is the exact transition from the Buddha-exclusive catalogue into the shared
   - **status:** established technical class
   - **function:** included among the non-exclusive excellent qualities.
 
-- **abhibhvāyatana** — sphere of mastery
+- **abhibhvāyatana** — Essence of mastery
   - **status:** established Abhidharma technical class
   - **function:** included among shared meditative capacities.
 
-- **kṛtsnāyatana** — totality-sphere
+- **kṛtsnāyatana** — totality-Essence
   - **status:** established Abhidharma technical class
   - **function:** included among shared meditative capacities.
 

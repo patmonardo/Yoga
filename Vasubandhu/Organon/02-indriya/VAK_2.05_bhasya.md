@@ -60,7 +60,7 @@ They are not, however, to be added. For what is intended here is:
 “Support of mind, its differentiation, persistence, and defilement;
 equipment and purification: the faculties extend only so far as
 these functions require.” Here the six faculties are the support
-of mind. This sixfold sense-base is the fundamental constitution
+of mind. This sixfold Essence-structure is the fundamental constitution
 of a living being. Its differentiation into female and male is
 through the female and male faculties; its persistence, through
 the life-faculty; and its defilement, through the feelings.
@@ -114,7 +114,7 @@ should remain a determination of what is intended “here.”
 
 ## 6. Support and Its Differentiation
 
-The six faculties are identified with the sixfold sense-base and
+The six faculties are identified with the sixfold Essence-structure and
 called *maulaṃ sattvadravyam*. “Fundamental constitution of a living
 being” renders their role as its basic constituent basis. The phrase
 has stronger force than a loose collection of optional instruments,

@@ -29,7 +29,7 @@ Source label in GRETIL: `VAkK_1.23`. Project-normalized label: `VAkK_1.23`.
 
 ## 4. Grammar
 
-The verse explains the ordering of the spheres/domains. The first five are placed first because they take present objects. The next four are grouped through derivative material objecthood. Other ordering principles include distance, speed, and bodily location.
+The verse explains the ordering of the Essences/domains. The first five are placed first because they take present objects. The next four are grouped through derivative material objecthood. Other ordering principles include distance, speed, and bodily location.
 
 ## 5. Literal Translation
 

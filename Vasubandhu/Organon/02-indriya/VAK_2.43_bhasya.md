@@ -132,7 +132,7 @@ direct realization of the truths, and eighteen for dispassion
 from the summit of existence, through the nine uninterrupted
 paths and nine paths of liberation that abandon its nine grades
 of affliction. These make thirty-four. Since he enters certainty
-already free of attachment to the sphere of nothingness, the
+already free of attachment to the Essence of nothingness, the
 lower levels no longer remain to be abandoned. No dissimilar
 consciousness can occur within this interval; hence there is
 no occasion for the attainment of cessation.

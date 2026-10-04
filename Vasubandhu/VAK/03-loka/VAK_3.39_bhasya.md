@@ -11,7 +11,7 @@ na rūpāyatanaṃ tena svākṣamuktānanugrahāt // VAkK_3.39 //
 
 **Working translation:**
 
-Morsel nutriment exists in the desire realm and consists of three spheres. The visible-form sphere is not [nutriment], because it does not benefit its own faculty or the liberated.
+Morsel nutriment exists in the desire realm and consists of three Essences. The visible-form Essence is not [nutriment], because it does not benefit its own faculty or the liberated.
 
 Existing Kārikā analysis: `VAK_3.39.md`.
 
@@ -162,14 +162,14 @@ rūpadhātu / ārūpyadhātu
     → absent
 ```
 
-### 4. Its nature is three spheres
+### 4. Its nature is three Essences
 
-`Tryāyatanātmaka` is explicitly resolved as the three desire-realm spheres:
+`Tryāyatanātmaka` is explicitly resolved as the three desire-realm Essences:
 
 ```text
-gandha-āyatana      — odor sphere
-rasa-āyatana        — taste sphere
-spraṣṭavya-āyatana  — tangible sphere
+gandha-āyatana      — odor Essence
+rasa-āyatana        — taste Essence
+spraṣṭavya-āyatana  — tangible Essence
 ```
 
 These are called morsel nutriment because they are taken in by making them into morsels (`kavaḍīkṛtyābhyavaharaṇa`). The Bhāṣya explains the ordinary delimitation by mouthful or nasal intake.
@@ -178,7 +178,7 @@ It then qualifies this ordinary description: some things that are not literally 
 
 ### 5. Why visible form is excluded
 
-An objection asks why `rūpāyatana`, the visible-form sphere, is not also nutriment, since visible food too may be taken in morsels.
+An objection asks why `rūpāyatana`, the visible-form Essence, is not also nutriment, since visible food too may be taken in morsels.
 
 Vasubandhu answers by giving a functional criterion:
 
@@ -202,9 +202,9 @@ Thus visible form is excluded not because it cannot occasion pleasant experience
 
 The Blessed One, having directly known it himself, declared a single principle connected with this matter in the sūtra: “All beings subsist through nutriment.” What, then, are the nutriments? There are four nutriments. The first is morsel nutriment. It is gross and subtle. It is subtle for intermediate beings because they subsist on odor; likewise for gods and beings of the first cosmic age because there is no excretive residue, nutriment penetrating their limbs as oil penetrates sand. Or subtle nutriment belongs to subtle beings such as infants and sweat-born creatures. Contact is the second nutriment, mental volition the third, and knowledge the fourth.
 
-Now, morsel nutriment exists in the desire realm, not in the form and formless realms, because beings are born there having become dispassionate toward it. It consists of three spheres: all the desire-realm spheres of odor, taste, and tangibles are morsel nutriment, because they are ingested after being formed into morsels, as delimited by mouthful or nasal intake. As for shadow, heat, flame, and radiance, how can they be nutriment? This account is said to be stated according to the predominant cases. Whatever is not literally swallowed but nevertheless sustains existence is also subtle nutriment, like bathing and anointing.
+Now, morsel nutriment exists in the desire realm, not in the form and formless realms, because beings are born there having become dispassionate toward it. It consists of three Essences: all the desire-realm Essences of odor, taste, and tangibles are morsel nutriment, because they are ingested after being formed into morsels, as delimited by mouthful or nasal intake. As for shadow, heat, flame, and radiance, how can they be nutriment? This account is said to be stated according to the predominant cases. Whatever is not literally swallowed but nevertheless sustains existence is also subtle nutriment, like bathing and anointing.
 
-Why is the visible-form sphere not nutriment? It too is ingested after being formed into morsels. Because the visible-form sphere does not support its own faculty or the liberated. Nutriment is so called when it conduces to the support of the faculties and the great elements. But visible form, at the time of ingestion, does not support its own faculty or the great elements belonging to it; how much less the others, since it is not their field. Even when a visible form gives rise to pleasure and gladness while being seen, the nutriment is the pleasant-feeling-producing contact having that visible form as object-support, not the visible form itself. This is shown by liberated persons—non-returners and arhats—who may see pleasing nutriment without thereby receiving such support.
+Why is the visible-form Essence not nutriment? It too is ingested after being formed into morsels. Because the visible-form Essence does not support its own faculty or the liberated. Nutriment is so called when it conduces to the support of the faculties and the great elements. But visible form, at the time of ingestion, does not support its own faculty or the great elements belonging to it; how much less the others, since it is not their field. Even when a visible form gives rise to pleasure and gladness while being seen, the nutriment is the pleasant-feeling-producing contact having that visible form as object-support, not the visible form itself. This is shown by liberated persons—non-returners and arhats—who may see pleasing nutriment without thereby receiving such support.
 
 ## Voice Identification
 
@@ -290,12 +290,12 @@ kavaḍīkāra āhāraḥ kāme tryāyatanātmakaḥ
 
 should be understood as:
 
-> Morsel nutriment exists in the desire realm and consists of three spheres—odor, taste, and tangibles.
+> Morsel nutriment exists in the desire realm and consists of three Essences—odor, taste, and tangibles.
 
 The difficult final compound is controlled by the Bhāṣya. `svākṣa` refers to its own faculty, the eye; `mukta` refers to liberated persons such as non-returners and arhats; and `anugraha` supplies the criterion of sustaining benefit.
 
 So the second half means substantially:
 
-> The visible-form sphere is not nutriment, because it does not support its own faculty and does not provide the relevant sustaining benefit for the liberated.
+> The visible-form Essence is not nutriment, because it does not support its own faculty and does not provide the relevant sustaining benefit for the liberated.
 
 The Bhāṣya therefore corrects any reading that treats `rūpāyatana` as nutriment merely because visible food can be swallowed. Technical `āhāra` is determined by sustaining efficacy, not by appearance or ordinary linguistic usage.

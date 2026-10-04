@@ -114,16 +114,16 @@ These are:
 
 ```text
 ākāśānantyāyatana
-    sphere of infinite space
+    Essence of infinite space
 
 vijñānānantyāyatana
-    sphere of infinite consciousness
+    Essence of infinite consciousness
 
 ākiṃcanyāyatana
-    sphere of nothingness
+    Essence of nothingness
 ```
 
-Bhavāgra, the sphere of neither perception nor non-perception, is reserved for 6.73.
+Bhavāgra, the Essence of neither perception nor non-perception, is reserved for 6.73.
 
 **The ethical limbs**
 

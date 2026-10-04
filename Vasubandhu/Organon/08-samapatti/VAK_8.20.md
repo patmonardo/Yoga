@@ -92,7 +92,7 @@ what exists as its object.
 
 > For a being reborn at the summit of existence,
 > destruction of the outflows occurs through bringing
-> the uncontaminated sphere of nothingness into operation.
+> the uncontaminated Essence of nothingness into operation.
 > This is possible because the summit lacks an
 > uncontaminated attainment of its own and because
 > that nothingness attainment has been cultivated.
@@ -174,7 +174,7 @@ not a six-member sensory inventory.
 | Determination | Source specification |
 |---|---|
 | Rebirth-support | Summit of existence |
-| Attainment made present | Uncontaminated sphere of nothingness |
+| Attainment made present | Uncontaminated Essence of nothingness |
 | Result | Destruction of the outflows |
 | Explanation | Absence of an uncontaminated attainment of its own level; cultivation of the lower one |
 

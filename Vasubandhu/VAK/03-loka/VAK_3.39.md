@@ -28,9 +28,9 @@ The compound `svākṣamuktānanugrahāt` is compact. I preserve the source form
 | kavaḍīkāra | kavaḍīkāra | morsel / mouthful-form |
 | āhāraḥ | āhāraḥ | nutriment / food |
 | kāme | kāme | in the desire realm |
-| tryāyatanātmakaḥ | tri-āyatana-ātmakaḥ | having three spheres as its nature |
+| tryāyatanātmakaḥ | tri-āyatana-ātmakaḥ | having three Essences as its nature |
 | na | na | not |
-| rūpāyatanam | rūpa-āyatanam | the visible-form sphere |
+| rūpāyatanam | rūpa-āyatanam | the visible-form Essence |
 | tena | tena | therefore / by that |
 | svākṣamuktānanugrahāt | sva-akṣa-mukta-an-anugrahāt | because of not benefiting its own faculty and the liberated; provisional |
 
@@ -41,10 +41,10 @@ kavaḍīkāra āhāraḥ
     = morsel nutriment
 
 kāme tri-āyatana-ātmakaḥ
-    = in the desire realm, it has three spheres as its nature
+    = in the desire realm, it has three Essences as its nature
 
 na rūpa-āyatanam
-    = not the visible-form sphere
+    = not the visible-form Essence
 
 tena ... an-anugrahāt
     = because it does not benefit/support ...
@@ -52,11 +52,11 @@ tena ... an-anugrahāt
 
 ## Literal Translation
 
-Morsel nutriment, in the desire realm, has three spheres as its nature. The visible-form sphere is not included, because it does not benefit its own faculty and the liberated. The final reason remains provisional pending Bhāṣya control.
+Morsel nutriment, in the desire realm, has three Essences as its nature. The visible-form Essence is not included, because it does not benefit its own faculty and the liberated. The final reason remains provisional pending Bhāṣya control.
 
 ## Philosophical Translation
 
-Material or morsel nutriment in the desire realm is defined through three āyatanas, not through visible form. The visible-form sphere is excluded because mere visible form does not perform the sustaining function required of nutriment.
+Material or morsel nutriment in the desire realm is defined through three āyatanas, not through visible form. The visible-form Essence is excluded because mere visible form does not perform the sustaining function required of nutriment.
 
 ## Technical Vocabulary
 
@@ -65,9 +65,9 @@ Material or morsel nutriment in the desire realm is defined through three āyata
 | āhāra | nutriment / food | Sustaining condition of the world |
 | kavaḍīkāra āhāra | morsel nutriment | Material nutriment, taken in mouthful form |
 | kāma | desire realm | Realm in which morsel nutriment applies |
-| āyatana | sphere | Here the relevant sensory spheres of nutriment |
-| tri-āyatana-ātmaka | having three spheres as nature | Usually smell, taste, and tangible/contactable; confirm with Bhāṣya |
-| rūpāyatana | visible-form sphere | Explicitly excluded |
+| āyatana | Essence | Here the relevant sensory Essences of nutriment |
+| tri-āyatana-ātmaka | having three Essences as nature | Usually smell, taste, and tangible/contactable; confirm with Bhāṣya |
+| rūpāyatana | visible-form Essence | Explicitly excluded |
 | anugraha | benefit / support / sustaining aid | Functional criterion for nutriment |
 
 ## Doctrinal Determination
@@ -88,7 +88,7 @@ kavaḍīkāra āhāra
     = tri-āyatana-ātmaka
 ```
 
-The visible-form sphere is explicitly excluded:
+The visible-form Essence is explicitly excluded:
 
 ```text
 na rūpāyatanam
@@ -177,12 +177,12 @@ vak:KavadikaraAhara
     rdfs:label "kavaḍīkāra āhāra" ;
     vak:hasCanonicalTranslation "morsel nutriment" ;
     logic:inField vak:KamaDhatu ;
-    vak:hasSphereCount 3 .
+    vak:hasEssenceCount 3 .
 
 vak:Rupayatana
-    a logic:SenseSphere ;
+    a logic:SenseEssence ;
     rdfs:label "rūpāyatana" ;
-    vak:hasCanonicalTranslation "visible-form sphere" .
+    vak:hasCanonicalTranslation "visible-form Essence" .
 ```
 
 ## Commit Note

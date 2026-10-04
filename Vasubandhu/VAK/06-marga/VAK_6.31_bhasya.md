@@ -116,7 +116,7 @@ Seeing is therefore decisive but not universally exhaustive.
 
 Prior detachment from **bhavāgra**, the summit of existence, is impossible.
 
-A practitioner may have entered the Path of Seeing with substantial prior mundane detachment, even extending through the Sphere of Nothingness, as VAK 6.30 explained. But the final conditioned summit cannot already have been transcended by that mundane procedure.
+A practitioner may have entered the Path of Seeing with substantial prior mundane detachment, even extending through the Essence of Nothingness, as VAK 6.30 explained. But the final conditioned summit cannot already have been transcended by that mundane procedure.
 
 Hence no configuration exists in which the first completion of Seeing can directly yield arhatship.
 

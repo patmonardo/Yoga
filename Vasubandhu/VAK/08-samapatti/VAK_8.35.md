@@ -16,15 +16,15 @@ abhibhū-āyatanāni | aṣṭau | dvayam | ādya-vimokṣavat | dve | dvitīyav
 
 ## Literal Translation
 
-There are eight spheres of mastery. A pair is like the first Deliverance; two are like the second; the remaining ones, again, are like the Deliverance through the pure.
+There are eight Essences of mastery. A pair is like the first Deliverance; two are like the second; the remaining ones, again, are like the Deliverance through the pure.
 
 ## Philosophical Translation
 
-Eight mastery-spheres are distinguished. The first pair is patterned after the first Deliverance, the next pair after the second, and the remaining four after the Deliverance through the pure. The Deliverances thus provide the practical templates, while the mastery-spheres intensify command over the corresponding object-fields.
+Eight mastery-Essences are distinguished. The first pair is patterned after the first Deliverance, the next pair after the second, and the remaining four after the Deliverance through the pure. The Deliverances thus provide the practical templates, while the mastery-Essences intensify command over the corresponding object-fields.
 
 ## Technical Vocabulary
 
-- **abhibhū-āyatana** — sphere or base of mastery; an object-field brought under practiced cognitive command
+- **abhibhū-āyatana** — Essence or base of mastery; an object-field brought under practiced cognitive command
 - **aṣṭau** — eight
 - **ādya-vimokṣavat** — like the first Deliverance
 - **dvitīyavat** — like the second
@@ -33,7 +33,7 @@ Eight mastery-spheres are distinguished. The first pair is patterned after the f
 
 ## Doctrinal Determination
 
-The verse introduces the eight abhibhvāyatanas, traditionally rendered as spheres or bases of mastery. Their classification is derivative:
+The verse introduces the eight abhibhvāyatanas, traditionally rendered as Essences or bases of mastery. Their classification is derivative:
 
 1. the first two correspond to the pattern of the first Deliverance;
 2. the next two correspond to the second Deliverance;
@@ -54,7 +54,7 @@ The same mediated relation is retained, but its practical determination changes.
 
 The appearance of **āyatana** is decisive. These are not merely internal states or isolated qualities. They are structured relations between practitioner and object-field.
 
-Thus the mastery-sphere is a transformation of Essential Relation:
+Thus the mastery-Essence is a transformation of Essential Relation:
 
 ```text
 faculty ↔ object-field
@@ -70,7 +70,7 @@ In this first pass, the verse supports a distinction:
 Deliverance
     freedom from domination by a field
 
-Mastery-sphere
+Mastery-Essence
     positive command within that field
 ```
 
@@ -83,20 +83,20 @@ This remains a practical classification. It should not yet be forced into a fina
 @prefix yoga: <https://example.org/yoga/> .
 
 vak:VAK_8_35 a vak:Karika ;
-    vak:teaches vak:EightMasterySpheres .
+    vak:teaches vak:EightMasteryEssences .
 
-vak:EightMasterySpheres a vak:PracticeComplex ;
+vak:EightMasteryEssences a vak:PracticeComplex ;
     vak:memberCount 8 ;
     vak:derivedFrom vak:Deliverances .
 
 vak:FirstMasteryPair vak:patternedAfter vak:FirstDeliverance .
 vak:SecondMasteryPair vak:patternedAfter vak:SecondDeliverance .
-vak:RemainingFourMasterySpheres vak:patternedAfter vak:PureDeliverance .
+vak:RemainingFourMasteryEssences vak:patternedAfter vak:PureDeliverance .
 
-vak:MasterySphere a vak:Ayatana ;
+vak:MasteryEssence a vak:Ayatana ;
     vak:practicalFunction vak:MasteryOfObjectField .
 ```
 
 ## Commit History
 
-- First-pass kārikā analysis committed after identifying the derivative relation between the eight mastery-spheres and the first three Deliverances.
+- First-pass kārikā analysis committed after identifying the derivative relation between the eight mastery-Essences and the first three Deliverances.

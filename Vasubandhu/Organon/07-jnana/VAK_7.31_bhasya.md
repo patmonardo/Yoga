@@ -7,10 +7,10 @@
 
 > Nārāyaṇa-strength is in the body; others [place it] in the joints. The
 > strength of the sevenfold series beginning with the elephant increases
-> tenfold. That [strength] belongs to the tangible Sphere.
+> tenfold. That [strength] belongs to the Tangible Essence.
 
-Same word `bala`. Not an eleventh knowledge-power. Ayatana here = Sphere
-(capacity/field), not “sense-base.”
+Same word `bala`. Not an eleventh knowledge-power. Ayatana here = Essence
+(capacity/field), not “Essence.”
 
 Kārikā study: [`VAK_7.31.md`](./VAK_7.31.md).
 
@@ -44,7 +44,7 @@ closes the powers before 7.32.
 > praskandin, varāṅga, cānūra, Nārāyaṇa — tenfold increase is to be stated.
 > [Another series.] As it is greater, so it is fitting.
 >
-> That bodily strength, of everyone, has the nature of the tangible Sphere —
+> That bodily strength, of everyone, has the nature of the Tangible Essence —
 > a special determination of the great elements. Others: derived form, a
 > distinct item from the seven.
 
@@ -53,7 +53,7 @@ closes the powers before 7.32.
 ```text
 where: body / each joint
 how great: seven-name tenfold series; rival series; Bhadanta: ananta
-what kind: tangible Sphere — mahābhūtaviśeṣa / derived form
+what kind: Tangible Essence — mahābhūtaviśeṣa / derived form
 ```
 
 ## 5. Keep the Questions Apart
@@ -83,7 +83,7 @@ lexeme, different domain.
 - first claim = named bodily strength;
 - `anye` = per-joint;
 - `daśādhikam` = tenfold steps of the seven;
-- `tat` = bodily strength as spraṣṭavya-Sphere.
+- `tat` = bodily strength as spraṣṭavya-Essence.
 
 ## 8. Philosophical and Organon Study
 

@@ -5,13 +5,13 @@
 > prāk ṣaḍāyatanotpādāt tatpūrvaṃ trikasaṃgamāt /
 > sparśaḥ prāk sukhaduḥkhādikāraṇajñānaśaktitaḥ // 3.22 //
 
-> Name-and-form extends until the arising of the six sense spheres; that
+> Name-and-form extends until the arising of the six Essences; that
 > stage extends until the conjunction of the triad. Contact extends until the
 > capacity to know the causes of pleasure, pain, and the other kind of
 > feeling.
 
 The Bhāṣya defines three developmental intervals by their terminal
-conditions: name-and-form, the six-sphere stage, and contact. Each stage ends
+conditions: name-and-form, the six-Essence stage, and contact. Each stage ends
 when the continuum acquires a new structure or capacity.
 
 ## 2. Continuous Sanskrit
@@ -46,14 +46,14 @@ unchanged.
 
 ## 3. Continuous Conventional Translation
 
-“Until the arising of the six sense spheres.” The stage after the
-rebirth-linking mind and before the six sense spheres arise is name-and-form.
-After that, it is called the six-sphere stage. Strictly, the text ought to say
-“before the arising of the four spheres”; nevertheless it says “the six sense
-spheres” because the full six-sphere structure is established at that time.
+“Until the arising of the six Essences.” The stage after the
+rebirth-linking mind and before the six Essences arise is name-and-form.
+After that, it is called the six-Essence stage. Strictly, the text ought to say
+“before the arising of the four Essences”; nevertheless it says “the six sense
+Essences” because the full six-Essence structure is established at that time.
 
 “That stage extends until the conjunction of the triad.” Once the six sense
-spheres have arisen, the stage is called the six-sphere stage until the
+spheres have arisen, the stage is called the six-Essence stage until the
 conjunction of the triad consisting of faculty, object, and consciousness.
 
 “Contact extends until the capacity to know the causes of pleasure, pain, and
@@ -71,8 +71,8 @@ spheres is raised and resolved within the exposition:
 after the rebirth-linking mind
     → name-and-form
 
-establishment of the six-sphere structure
-    → six-sphere stage
+establishment of the six-Essence structure
+    → six-Essence stage
 
 conjunction of faculty, object, and consciousness
     → contact
@@ -91,7 +91,7 @@ rebirth-junction. The opening of this verse supplies its terminal boundary:
 
 ```text
 beginning: after saṃdhicitta, the rebirth-linking mind
-end:       when the six-sphere structure arises
+end:       when the six-Essence structure arises
 ```
 
 `Nāmarūpa` therefore names a developmental interval. It is not introduced
@@ -99,18 +99,18 @@ here as a static metaphysical pair confronting consciousness from outside.
 The same aggregate-continuum is designated differently as its organization
 changes.
 
-## 6. Why the Text Says Six Spheres
+## 6. Why the Text Says Six Essences
 
 The Bhāṣya observes that, strictly speaking, the boundary could be described
-as the arising of four spheres. Yet the doctrinal member is called
-`ṣaḍāyatana` because the six-sphere structure is established at that stage.
-This passage does not specify which four spheres newly arise.
+as the arising of four Essences. Yet the doctrinal member is called
+`ṣaḍāyatana` because the six-Essence structure is established at that stage.
+This passage does not specify which four Essences newly arise.
 
 The point is classificatory:
 
 ```text
-arising of four spheres marks the boundary
-    → six-sphere organization is established
+arising of four Essences marks the boundary
+    → six-Essence organization is established
     → stage designated ṣaḍāyatana
 ```
 
@@ -146,7 +146,7 @@ kinds of feeling—pleasure, pain, and neither-pleasure-nor-pain.
 The sequence therefore distinguishes three levels:
 
 ```text
-sense-sphere structure is available
+six-Essence structure is available
     ≠ triadic cognitive encounter actually occurs
 
 triadic encounter occurs
@@ -163,7 +163,7 @@ capacity (`śakti`, `samartha`).
 
 This passage offers a compact genesis of an embodied cognitive relation. It
 does not begin with a finished subject facing a finished object. A bodily-
-cognitive organization develops, its spheres of access become established,
+cognitive organization develops, its capacities of access become established,
 the relevant faculty, object, and consciousness enter into conjunction, and
 only then does contact arise.
 
@@ -192,7 +192,7 @@ than a translation of Vasubandhu.
 
 This Study restores the complete natural unit from 132.02 through the first
 statement at 132.11. It completes the definition of name-and-form, preserves
-the four-versus-six sphere qualification, and identifies the triad as faculty,
+the four-versus-six Essence qualification, and identifies the triad as faculty,
 object, and consciousness. It defines contact through its arising condition
 and the discriminative capacity that marks its end.
 

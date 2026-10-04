@@ -19,9 +19,9 @@ Source label in GRETIL: `VAkK_1.20`. Project-normalized label: `VAkK_1.20`.
 | Form | Padaccheda | Meaning |
 |---|---|---|
 | rāśi-arthaḥ | rāśi-arthaḥ | aggregate has the meaning of heap/collection |
-| āya-dvāra-arthaḥ | āya-dvāra-arthaḥ | sphere has the meaning of entrance/gateway |
+| āya-dvāra-arthaḥ | āya-dvāra-arthaḥ | Essence has the meaning of entrance/gateway |
 | gotra-arthaḥ | gotra-arthaḥ | domain has the meaning of lineage/source-kind |
-| skandha-āyatana-dhātavaḥ | skandha-āyatana-dhātavaḥ | aggregates, spheres, domains |
+| skandha-āyatana-dhātavaḥ | skandha-āyatana-dhātavaḥ | aggregates, Essences, domains |
 | moha-indriya-ruci-traidhāt | moha-indriya-ruci-traidhāt | because of threefold delusion, faculty, and inclination |
 | tisraḥ | tisraḥ | three |
 | skandha-ādi-deśanāḥ | skandha-ādi-deśanāḥ | teachings beginning with aggregates |
@@ -45,22 +45,22 @@ It also gives the pedagogical reason for three teachings: beings differ by delus
 
 ## 5. Literal Translation
 
-> Aggregates, spheres, and domains have the meanings of collection, entrance-gateway, and lineage. Because of the threefold difference in delusion, faculties, and inclinations, there are three teachings beginning with aggregates.
+> Aggregates, Essences, and domains have the meanings of collection, entrance-gateway, and lineage. Because of the threefold difference in delusion, faculties, and inclinations, there are three teachings beginning with aggregates.
 
 ## 6. Philosophical Translation
 
-> The aggregates analyze dharmas as collections; the spheres analyze them as gateways of relation; the domains analyze them as source-kinds or domain-families. The Buddha teaches these three schemes because beings differ in confusion, capacity, and disposition.
+> The aggregates analyze dharmas as collections; the Essences analyze them as gateways of relation; the domains analyze them as source-kinds or domain-families. The Buddha teaches these three schemes because beings differ in confusion, capacity, and disposition.
 
 Organon rendering:
 
-> The three systems are not redundant lists. They are three lawful pedagogical forms: aggregate for collection, sphere for access, domain for generative kind. The teaching adapts to the structure of the learner while preserving the one Dharma-field.
+> The three systems are not redundant lists. They are three lawful pedagogical forms: aggregate for collection, Essence for access, domain for generative kind. The teaching adapts to the structure of the learner while preserving the one Dharma-field.
 
 ## 7. Technical Vocabulary
 
 | Sanskrit | Project rendering | Note |
 |---|---|---|
 | skandha | aggregate | rāśi: collection/aggregate structure |
-| āyatana | sphere | āya-dvāra: gateway or access-field |
+| āyatana | Essence | āya-dvāra: gateway or access-field |
 | dhātu | domain | gotra: lineage/source-kind |
 | deśanā | teaching | pedagogical exposition |
 | moha | delusion | confusion-type of learner |
@@ -99,7 +99,7 @@ Organon note:
 aggregate
     = determination as collection
 
-sphere
+Essence
     = determination as gateway of relation
 
 domain

@@ -84,7 +84,7 @@ of all beings as beings, since it occurs in each and every being.
 Differentiated commonality is restricted according to differences
 of Domain, ground, destiny, mode of birth, species, female or male,
 lay follower or monk, trainee or beyond training, and so forth.
-From the standpoint of aggregates, Spheres, and Domains, if
+From the standpoint of aggregates, Essences, and Domains, if
 commonality of beings were not an undifferentiated entity, there
 would be no undifferentiated cognition and designation “being”
 among beings distinguished by their individual differences.
@@ -174,7 +174,7 @@ qualification is retained alongside the Vaiśeṣika comparison.
 
 The initial account distinguishes commonality shared by all
 beings from commonalities restricted by particular classifications.
-It also invokes commonality of dharmas through aggregates, Spheres,
+It also invokes commonality of dharmas through aggregates, Essences,
 and Domains. Its argument is that common cognition
 and designation among different individuals require the relevant
 real commonality.

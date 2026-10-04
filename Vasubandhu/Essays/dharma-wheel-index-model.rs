@@ -5,7 +5,7 @@
 //! eventual Index of Dharmas. The index is not the Chakra, does not turn Dharma
 //! into a flat taxonomy, and does not claim that the Kośa was written as
 //! software. A record remains available under the three irreducible
-//! projections: Skandha (gathered kind), Ayatana (Sphere), and Dhatu (Domain).
+//! projections: Skandha (gathered kind), Ayatana (Essence), and Dhatu (Domain).
 //!
 //! The wheel is the index's operational form: its hub is the governing
 //! determination, its spokes are distinct moments, its rim records how those

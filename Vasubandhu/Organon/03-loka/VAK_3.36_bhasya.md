@@ -65,7 +65,7 @@ The remaining limbs are not stated again. Why? Because some have been
 explained and others will be explained later. Some members have been explained
 here, while others will be explained afterward. Differentiated cognition has
 already been stated: “Differentiated cognition is specific presentation, and
-that is also the mind sphere.” The sixfold sense-field has also been stated:
+that is also the mind sphere.” The sixfold Essence-structure has also been stated:
 “The clear material faculties beginning with the eye are the supports of
 those cognitions.” Formations and becoming will be explained in the Treasury
 chapter on action; craving and appropriation in the chapter on afflictions.

@@ -69,7 +69,7 @@ one's own, pure, lower, and noble.
 
 **Level and mode must both survive translation.**
 The prose identifies the levels as bhavāgra and
-the sphere of nothingness. Its second mode-word
+the Essence of nothingness. Its second mode-word
 conflicts with the verse. This allows a clear
 level assignment while leaving the prose mode-reading
 under textual review.

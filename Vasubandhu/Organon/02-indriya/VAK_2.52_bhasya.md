@@ -113,8 +113,8 @@ cause.” Similar dharmas are homogeneous causes of similar dharmas:
 for example, the five wholesome aggregates of wholesome aggregates,
 afflicted aggregates of afflicted aggregates, and indeterminate aggregates
 of indeterminate aggregates, reciprocally [within the order specified
-below]. Indeterminate material form is a cause of all five. Others say
-that the other four are not causes of material form, because they are
+below]. Indeterminate Form is a cause of all five. Others say
+that the other four are not causes of Form, because they are
 inferior [in the relevant respect].
 
 Within one commonality of existence, the embryonic *kalala* stage is a
@@ -123,9 +123,9 @@ the rest are causes of the stages beginning with themselves, with one
 stage successively subtracted. In other instances of the same kind,
 all ten stages are causes of all ten. The account should also be applied
 in detail to external things: barley to barley, rice to rice, and so
-forth. Against those who do not accept material form as a homogeneous
-cause of material form stands this text: “Past great elements are a
-cause and a predominant condition of future great elements.”
+forth. Against those who do not accept Form as a homogeneous
+cause of Form stands this text: “Past great Elements are a
+cause and a predominant condition of future great Elements.”
 
 Are all [dharmas] homogeneous causes of similar ones? No. Which, then?
 “Those belonging to their own class and level.” Their class and level
@@ -256,7 +256,7 @@ The embryonic examples specify ordered development within one existence
 and distinguish it from relations to other instances of the same kind.
 They do not authorize a later stage to cause an earlier stage already
 past. The explicit *agraja* restriction controls that reading. The text
-also preserves differing accounts of material form's causal range.
+also preserves differing accounts of Form's causal range.
 
 ## 5. Why Prior Arising Matters
 
@@ -309,9 +309,9 @@ unrestricted rule for every homogeneous cause.
 
 The unit runs from 85.08 through 87.18–19. The question at 87.20 extends
 the equal-or-superior rule to worldly qualities produced through application
-and introduces VAK 2.53; it is reserved for that study. The research
-2.52 file omits most of the earlier temporal debate and includes this
-later material. The continuous edition restores the source sequence.
+and introduces VAK 2.53; it is reserved for that study. This paired
+study restores the temporal debate and keeps that later material at its
+source boundary.
 
 The running transcription remains unchanged apart from source labels
 and surrounding spacing. Its isolated *evam atīte* at 85.27 appears
@@ -335,26 +335,15 @@ identification rather than inventing a secure pair. The claim about
 an arisen cause and a future path is retained without turning it into
 an assertion that both paths must actually manifest in that continuum.
 
-## 9. Philosophical and Organon Study
+## 9. Limited Organon Reading
 
-As Organon interpretation, this passage shows precisely why membership
-can begin causal inquiry without completing it. Similarity and shared
-classification need temporal and functional determination before they
-explain a homogeneous result. The objections make those additional
-requirements explicit.
-
-The path also demonstrates why one ordering cannot replace another.
-A higher meditative level is not automatically a superior path; grade,
-faculties, and causal accumulation contribute different determinations.
-Learning the causal relation therefore includes learning which comparison
-is relevant. This is a local basis for our inquiry into mediation, not
-a textual identification of the account with Kant, Hegel, or Sāṃkhya.
-
-On the Organon reading, faculties are Transcendental Time Determinations of
-Śuddha Sattva: homogeneous causality gives them a diachronic form in prior
-similarity and permitted grade increase. Cognition names the universal
-capacity for this knowing; the Ideas are the particular Path-levels and
-contents transmitted, not stages in a universal biography.
+The Bhāṣya specifies the grounds and limits of homogeneous causality:
+similarity, prior arising, class and level membership, and—exceptionally
+for the Path—cross-level transmission with an equal-or-superior limit.
+Within the project's Hub reading, this is a determination on the *hetu*
+side of the `hetu:pratyaya` inquiry; *pratyaya* is not defined in this
+unit. The Hub's organization of the dyad is a project-level synthesis,
+not the Bhāṣya's own formulation.
 
 ## 10. Review Status
 

@@ -56,7 +56,7 @@ Non-afflicted indeterminate non-acquisition is treated as threefold with respect
 | Sanskrit | Working Translation | Note |
 |---|---|---|
 | nivṛta | obscured / veiled | Status term requiring later review |
-| rūpa | form | Could indicate form-realm or material form depending context |
+| rūpa | Form | Could indicate Form Realm or material Form depending context |
 | kāma | desire realm | Sensuous realm |
 | agrajā | higher-born / prior-born | Technical reading to verify with Bhāṣya |
 | akliṣṭa | non-afflicted | Not defiled |

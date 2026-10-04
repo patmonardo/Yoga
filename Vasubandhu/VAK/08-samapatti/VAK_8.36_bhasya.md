@@ -59,13 +59,13 @@ See: [VAK_8.36.md](./VAK_8.36.md)
 
 ## Natural Argument
 
-Vasubandhu introduces ten **kṛtsnāyatanas**, totality-spheres, and explains the name by `nirantarakṛtsnaspharaṇa`: uninterrupted complete pervasion. The ten are earth, water, fire, wind, blue, yellow, red, white, infinite space, and infinite knowledge.
+Vasubandhu introduces ten **kṛtsnāyatanas**, totality-Essences, and explains the name by `nirantarakṛtsnaspharaṇa`: uninterrupted complete pervasion. The ten are earth, water, fire, wind, blue, yellow, red, white, infinite space, and infinite knowledge.
 
-The first eight are constituted by **alobha**, non-greed. They belong exclusively to the fourth Dhyāna. Their ordinary object-support is visible form belonging to the desire realm. Vasubandhu records an alternative opinion for the wind-totality: some take its support to be the tangible sphere rather than visible form.
+The first eight are constituted by **alobha**, non-greed. They belong exclusively to the fourth Dhyāna. Their ordinary object-support is visible form belonging to the desire realm. Vasubandhu records an alternative opinion for the wind-totality: some take its support to be the tangible Essence rather than visible form.
 
 The final two totalities are pure formless attainments. Their respective object-support is the four aggregates belonging to their own level.
 
-The commentary then gives the structural relation among the three practice-complexes just discussed. The mastery-spheres are entrances into the Deliverances' further development, and the totality-spheres are entered through the mastery-spheres. The reason is explicit: each subsequent practice is superior to the previous one (`uttarottaraviśiṣṭatvāt`).
+The commentary then gives the structural relation among the three practice-complexes just discussed. The mastery-Essences are entrances into the Deliverances' further development, and the totality-Essences are entered through the mastery-Essences. The reason is explicit: each subsequent practice is superior to the previous one (`uttarottaraviśiṣṭatvāt`).
 
 Finally, all these practices from the Deliverances onward can occur in the continuities of both ordinary persons and noble persons, with the exception of the cessation-Deliverance.
 
@@ -101,7 +101,7 @@ vimokṣa
 
 ## New Technical Terms
 
-- **kṛtsnāyatana** — totality-sphere; a practice in which a selected aspect pervades the field without interruption.
+- **kṛtsnāyatana** — totality-Essence; a practice in which a selected aspect pervades the field without interruption.
   - **status:** introduced here as a new practice-complex.
   - **function:** establishes totalized presentation after mastery of an object-field.
 - **nirantarakṛtsnaspharaṇa** — uninterrupted complete pervasion.
@@ -109,7 +109,7 @@ vimokṣa
   - **function:** gives the reason for the name `kṛtsna`.
 - **prāveśika** — serving as an entrance or access to a subsequent practice.
   - **status:** Bhāṣya explanatory vocabulary.
-  - **function:** establishes the genetic ordering among Deliverances, mastery-spheres, and totality-spheres.
+  - **function:** establishes the genetic ordering among Deliverances, mastery-Essences, and totality-Essences.
 - **uttarottaraviśiṣṭatva** — successive superiority of each later stage.
   - **status:** Bhāṣya-only explanatory formulation here.
   - **function:** justifies the graded practical sequence.
@@ -118,7 +118,7 @@ vimokṣa
 
 **Voice:** Vasubandhu — principal exposition and graded ordering.
 
-**Voice:** alternative authority (`eke`) — wind-totality takes the tangible sphere as object-support.
+**Voice:** alternative authority (`eke`) — wind-totality takes the tangible Essence as object-support.
 
 ## Doctrinal Determination
 
@@ -139,9 +139,9 @@ This is therefore a training progression, not a loose aggregation of lists.
 
 **kṛtsna** should retain the sense of **totality** rather than being flattened into merely “whole” or “universal.” The Bhāṣya's `nirantarakṛtsnaspharaṇa` shows that totality here is an enacted pervasion of the entire meditative field.
 
-**āyatana** remains **sphere** in the project vocabulary. `kṛtsnāyatana` is therefore best rendered **totality-sphere** when the full compound matters.
+**āyatana** remains **Essence** in the project vocabulary. `kṛtsnāyatana` is therefore best rendered **totality-Essence** when the full compound matters.
 
-**vijñānānantyāyatana** should follow the project convention that `vijñāna` is **knowledge**, hence the totality associated with the sphere of infinite knowledge rather than “infinite consciousness.”
+**vijñānānantyāyatana** should follow the project convention that `vijñāna` is **knowledge**, hence the totality associated with the Essence of infinite knowledge rather than “infinite consciousness.”
 
 ## Logical Determination
 

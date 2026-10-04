@@ -75,7 +75,7 @@ ignorance, craving, and appropriation.
 becoming.
 
 “Seven are bases.” The seven members whose nature is basis are consciousness,
-name-and-form, the six sense spheres, contact, feeling, birth, and aging-and-
+name-and-form, the six Essences, contact, feeling, birth, and aging-and-
 death, because they support affliction and karma.
 
 And just as these seven members are bases, “so too they are results.” Those

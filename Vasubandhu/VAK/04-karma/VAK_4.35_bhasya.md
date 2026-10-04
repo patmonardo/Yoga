@@ -99,7 +99,7 @@ The answer is no. Their objective and temporal scopes differ.
 
 ### A. Scope of prātimokṣa restraint
 
-The desire-realm restraint is acquired only with respect to **present** `skandha`, `āyatana`, and `dhātu` bases.
+The desire-realm restraint is acquired only with respect to **present** aggregates, Essences, and Domains.
 
 The Bhāṣya then decomposes `sarva`:
 

@@ -120,7 +120,7 @@ Vasubandhu specifies:
 
 > **yāvad ākiñcanyāyatanāt**
 
-Prior detachment may extend from the desire realm through higher levels as far as the Sphere of Nothingness.
+Prior detachment may extend from the desire realm through higher levels as far as the Essence of Nothingness.
 
 Even then, during the fifteen moments of the Path of Seeing, the practitioner is still classified as a candidate for the **third fruit**, not as an arhat-candidate from the outset.
 
@@ -288,7 +288,7 @@ The path-function is invariant; the result-position depends lawfully on what has
   - **status:** established Noble fruit.
   - **function:** third fruit toward which the fully desire-detached practitioner proceeds.
 
-- **ākiñcanyāyatana** — Sphere of Nothingness.
+- **ākiñcanyāyatana** — Essence of Nothingness.
   - **status:** previously established meditative domain.
   - **function:** upper limit mentioned here for prior mundane detachment compatible with third-fruit candidacy during Seeing.
 
@@ -315,6 +315,6 @@ VAK 6.30 makes prior abandonment a precise variable in the classification of the
 - If zero through five desire-realm cultivation-abandonable grades were previously abandoned, the Faith-Follower or Dharma-Follower remains a candidate for stream-entry.
 - If six, seven, or eight grades were previously abandoned, the practitioner is a candidate for Once-Return.
 - If the ninth grade has also been abandoned, the practitioner is detached from the desire realm and becomes a candidate for Non-Return.
-- Prior detachment may extend still higher, as far as the Sphere of Nothingness, without changing this third-fruit candidacy during the Path of Seeing.
+- Prior detachment may extend still higher, as far as the Essence of Nothingness, without changing this third-fruit candidacy during the Path of Seeing.
 
 The Path remains one; the concrete path-person is determined by the state of the continuum entering it.

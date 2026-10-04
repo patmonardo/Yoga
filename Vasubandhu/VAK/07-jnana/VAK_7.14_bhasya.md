@@ -59,7 +59,7 @@ Conventional knowledge is called "the first" because it occurs first in the vers
 
 "That called dharma in six": dharma-knowledge occurs in the four dhyānas, the preliminary concentration (*anāgamya*), and the intermediate dhyāna.
 
-"But that called anvaya in nine": anvaya-knowledge occurs in those same six spheres and also in the first three formless attainments.
+"But that called anvaya in nine": anvaya-knowledge occurs in those same six Essences and also in the first three formless attainments.
 
 "Likewise the six": the knowledges of suffering, origin, cessation, path, exhaustion, and non-arising occur, without distinction, in those same nine spheres. When distinguished according to subsumption, however, insofar as they are included in dharma-knowledge they occur in six; insofar as they are included in anvaya-knowledge they occur in nine.
 
@@ -101,7 +101,7 @@ Thus conventional knowledge has the broadest bhūmi-distribution of the ten.
 
 Its universality of occurrence should not be confused with superiority of cognition. It is precisely conventional cognition that can occur throughout the entire conditioned hierarchy.
 
-### 4. Dharma-knowledge is restricted to six spheres
+### 4. Dharma-knowledge is restricted to six Essences
 
 The six are:
 
@@ -162,7 +162,7 @@ all six
 
 ```text
 when subsumed under dharmajñāna
-    → six spheres
+    → six Essences
 
 when subsumed under anvayajñāna
     → nine spheres

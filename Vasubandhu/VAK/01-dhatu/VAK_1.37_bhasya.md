@@ -168,7 +168,7 @@ ground called by the name of its result
 result called by the name of its ground
 ```
 
-The cited sūtra—“These six contact-spheres should be understood as old karma”—illustrates designation of the result by the name of its karmic ground.
+The cited sūtra—“These six contact-Essences should be understood as old karma”—illustrates designation of the result by the name of its karmic ground.
 
 ### 4. *Aupacayika*: organically built up
 

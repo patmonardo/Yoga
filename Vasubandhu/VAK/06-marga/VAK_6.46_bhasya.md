@@ -80,7 +80,7 @@ The Bhāṣya asks why this second extension should be accepted.
 
 The argument turns on what happens when a previously acquired supramundane path-attainment is relinquished.
 
-The Bhāṣya says, in effect: suppose an Ārya attained dispassion from the sphere of nothingness (`ākiṃcanyāyatana`) by the noble path and later underwent a change of faculties (`indriyāṇi saṃcarati`) while relying on dhyāna. In that change, the previously acquired path is relinquished and only the corresponding fruit-path is newly obtained.
+The Bhāṣya says, in effect: suppose an Ārya attained dispassion from the Essence of nothingness (`ākiṃcanyāyatana`) by the noble path and later underwent a change of faculties (`indriyāṇi saṃcarati`) while relying on dhyāna. In that change, the previously acquired path is relinquished and only the corresponding fruit-path is newly obtained.
 
 If no **mundane attainment of separation** had arisen alongside the supramundane one, then relinquishing the former noble-path acquisition would appear to leave the practitioner without possession of the separation from the higher-level kleśas.
 

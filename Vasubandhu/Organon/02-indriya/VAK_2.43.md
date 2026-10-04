@@ -76,7 +76,7 @@ dvi-vedyā aniyatā ca
     → it is acquired by a noble person through practice
 ```
 
-The Bhāṣya specifies the location more exactly as the Sphere of neither
+The Bhāṣya specifies the location more exactly as the Essence of neither
 perception nor non-perception. `Bhavāgra` names the summit of existence;
 the gloss is a technical level, not a metaphor for height.
 
@@ -88,7 +88,7 @@ the gloss is a technical level, not a metaphor for height.
 
 ### Bhāṣya-informed translation
 
-> The attainment of cessation, like the non-reflective attainment, is a cessation of consciousness and associated mental factors. Unlike that attainment, it is entered through attention preceded by a conception of peaceful abiding; the other is entered through attention preceded by a conception of escape. It belongs exclusively to the Sphere of neither perception nor non-perception, is wholesome, and can mature in the next life, in a later life, or not at all if final nirvāṇa is attained in this life. It belongs to noble persons and is acquired through application.
+> The attainment of cessation, like the non-reflective attainment, is a cessation of consciousness and associated mental factors. Unlike that attainment, it is entered through attention preceded by a conception of peaceful abiding; the other is entered through attention preceded by a conception of escape. It belongs exclusively to the Essence of neither perception nor non-perception, is wholesome, and can mature in the next life, in a later life, or not at all if final nirvāṇa is attained in this life. It belongs to noble persons and is acquired through application.
 
 The Bhāṣya treats the Buddha as an exception to ordinary acquisition by
 practice: he acquires the attainment together with awakening and knowledge of
@@ -111,7 +111,7 @@ and acquisition. Keep the two attainments separate in those respects.
 | śānta-vihāra | peaceful abiding | Bhāṣya determination of the attainment's purpose |
 | vihārārtha | for the sake of abiding | contrasts with `niḥsṛti-icchā`, the imagined escape motivating the non-reflective attainment |
 | bhavāgra | summit of existence | highest conditioned level in the Kośa account |
-| naivasaṃjñā-nāsaṃjñāyatana | Sphere of neither perception nor non-perception | Bhāṣya identification of the level supporting the attainment |
+| naivasaṃjñā-nāsaṃjñāyatana | Essence of neither perception nor non-perception | Bhāṣya identification of the level supporting the attainment |
 | śubha | wholesome | ethical status of the attainment |
 | dvi-vedya | maturation experience at two possible times | immediately following or later life |
 | aniyata | unfixed | maturation need not occur if final nirvāṇa is attained first |
@@ -121,7 +121,7 @@ and acquisition. Keep the two attainments separate in those respects.
 | kṣaya-jñāna | knowledge of exhaustion | knowledge with which Buddhas acquire the attainment |
 | ubhayato-bhāga-vimukta | liberated in both respects | liberation-status generating the Buddha-specific controversy |
 
-The long technical name is rendered “Sphere of neither perception nor
+The long technical name is rendered “Essence of neither perception nor
 non-perception.” It identifies a particular conditioned level and does not
 mean the complete absence of consciousness.
 

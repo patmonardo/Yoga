@@ -32,7 +32,7 @@ introduction 417|02–05 belongs to 7.36's determination. Voice: Vasubandhu.
 > with ordinary persons. Which? As applicable: freedom from conflict,
 > knowledge through resolve, discriminating knowledges, higher knowledges,
 > dhyānas, formless attainments, immeasurables, liberations, spheres of
-> mastery, totality-spheres, and so on.
+> mastery, totality-Essences, and so on.
 
 ## 4. Movement of the Commentary
 

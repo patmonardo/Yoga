@@ -53,7 +53,7 @@ In the form realm the craft-based class is excluded.
 | nairmita | constructed / produced | Produced formation; technical review needed |
 | avyākṛta | indeterminate | Neutral citta-status |
 | kāma | desire realm | Realm-status |
-| rūpa | form realm | Realm-status |
+| rūpa | Form Realm | Realm-status |
 | śilpa-vivarjita | excluding craft | Form-realm exclusion |
 
 ## 7. Logical Determination

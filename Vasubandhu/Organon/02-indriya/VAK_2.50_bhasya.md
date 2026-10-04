@@ -5,14 +5,16 @@
 > svato 'nye kāraṇaṃ hetuḥ sahabhūr ye mithaḥphalāḥ /
 > bhūtavac cittacittānuvartilakṣaṇalakṣyavat // 2.50 //
 
-> Those other than itself are the conditioning cause. Co-arisen causes
-> are those that are mutually results: as with the great elements,
-> mind and its followers, and the marks and what they mark.
+> Other than itself, [a dharma] is a conditioning cause. Co-arisen
+> causes are those that are mutually results: as with the great
+> Elements, consciousness and its followers, and the marks and what
+> they mark.
 
-The conditioning-cause clause was treated in VAK 2.49. This study covers
-83.18–24: the definition, examples, and explicit qualification of
-co-arisen causality. The question about mind's followers begins the next
-commentary unit.
+The kārikā is split in the commentary. Its conditioning-cause clause,
+*svato 'nye kāraṇaṃ hetuḥ*, is treated in VAK 2.49 at 83.16–17. This
+study covers 83.18–24: the co-arisen-cause definition, examples, and
+explicit qualification. The question about the followers of consciousness
+begins at 83.25.
 
 ## 2. Continuous Sanskrit
 
@@ -32,12 +34,13 @@ commentary unit.
 that are reciprocally one another's results are co-arisen causes of one
 another. How so?
 
-“As with the great elements, mind and its followers, and the marks and
-what they mark.” The four great elements are co-arisen causes of one
-another. Mind is a co-arisen cause of the dharmas that follow mind, and
-they too are co-arisen causes of it. The conditioned marks are co-arisen
-causes of what they mark, and it too is a co-arisen cause of them. In
-this way, every conditioned dharma is, as appropriate, a co-arisen cause.
+“As with the great Elements, consciousness and its followers, and the marks
+and what they mark.” The four great Elements are co-arisen causes of one
+another. Consciousness is a co-arisen cause of the dharmas that follow
+consciousness, and they too are co-arisen causes of it. The conditioned
+marks are co-arisen causes of what they mark, and it too is a co-arisen
+cause of them. In this way, every conditioned dharma is, as appropriate,
+a co-arisen cause.
 
 A qualification must be added: even without their being mutually results,
 a dharma is a co-arisen cause of its subsidiary marks, but those marks
@@ -52,8 +55,8 @@ feature without replacing the causal assertion with mere simultaneity.
 
 ## 5. Three Applications
 
-The explanation names three configurations: the four great elements
-in relation to one another; mind in relation to its followers; and
+The explanation names three configurations: the four great Elements
+in relation to one another; consciousness in relation to its followers; and
 conditioned marks in relation to the marked dharma. In the last two,
 the return relation is expressly stated. The account is not simply
 one of a principal entity producing passive accompaniments.
@@ -77,14 +80,10 @@ cannot simply be copied onto the subsidiary marks.
 ## 7. Doctrinal Scope
 
 This short unit presents the co-arisen-cause account within the
-six-cause exposition. It does not yet argue through all the objections
-to simultaneous causation. Nor does it define mind's followers here:
-that is the question at 83.25, leading into VAK 2.51.
-
-The research Bhāṣya file gathers later definitions and the extended
-debate into its 2.50 discussion. They are reserved for their sequential
-places in this continuous edition. Their omission here is a boundary
-decision, not a judgment that the objections are unimportant.
+six-cause exposition. It does not define the followers of consciousness;
+that question begins at 83.25 and leads into VAK 2.51. The later
+specifications and debate belong to their subsequent source passages,
+not to this local definition.
 
 ## 8. Textual and Translation Decisions
 
@@ -98,39 +97,32 @@ not be used to import the temporally intervening causal succession
 of the preceding nirvāṇa example into this definition of co-arisen
 cause. Its precise construal remains provisional pending collation.
 
-*Citta* is rendered “mind”; *cittānuvartin* as “follower of mind.”
+*Citta* is rendered “consciousness” in accordance with the project's
+controlled terminology; *cittānuvartin* is “follower of consciousness.”
 “Follower” does not here imply temporal succession: the next study
-must determine the technical relation. *Upasaṃkhyātavyam* is rendered
-“a qualification must be added,” preserving the express extension
-beyond the initial reciprocal formula.
+determines the technical relation. *Upasaṃkhyātavyam* is rendered “a
+qualification must be added,” preserving the express extension beyond
+the initial reciprocal formula.
 
 ## 9. Philosophical and Organon Study
 
-As Organon interpretation, this passage places reciprocity within
-causal explanation. Distinguished dharmas can be understood through
-relations in which each is a result of the other. The claim concerns
-their causal articulation, not merely their membership in one class.
+As Organon interpretation, this passage places reciprocal and asymmetric
+relations within one account of co-arisen causality. The consciousness-and-
+followers example gives a local point of contact for the project's
+`citta:caitta` dyad; the subsidiary-mark qualification prevents the relation
+from being made uniformly reciprocal.
 
-But learning that relation also requires learning its limit. The
-subsidiary-marks case is directional rather than reciprocal. A useful
-reading therefore preserves both determinations: the principal formula
-of mutual resulthood and the explicitly admitted asymmetric case.
-The later debate must test their grounds; this brief definition does
-not settle that debate in advance.
-
-**Organon reading (philosophical reconstruction, not Bhāṣya doctrine):**
-Faculty-governed Cognition is read as a Transcendental Time Determination of
-Śuddha Sattva: causal order distinguishes reciprocal
-sustaining from directional dependence among co-present particular Ideas.
-Their shared time-profile does not reduce causality to clock-time
-coincidence, and the subsidiary-marks case remains asymmetric as the
-commentary states.
+Within the project's Hub-of-Power reading, `citta:caitta` and
+`hetu:pratyaya` are the two principial extremes, projected and organized by
+the invariant Hub. This is a project-level synthesis, not a formulation in
+the present Bhāṣya. The local text names co-arisen causes and gives examples;
+it neither names the Hub nor makes it an additional causal force.
 
 ## 10. Review Status
 
 Provisional fiftieth study of the restarted Indriyanirdeśa Bhāṣya
-sequence. The kārikā anchor, research Bhāṣya, preceding boundary, and
-running Sanskrit at 83.18–24 have been compared. The complete local
-unit is translated; no independent manuscript collation has been made.
-Original witnesses and existing studies are unchanged. VAK 2.51 begins
-with the question about mind's followers at 83.25.
+sequence. The kārikā's split source boundary has been compared with the
+running Sanskrit: the conditioning-cause clause is treated at 83.16–17
+under VAK 2.49, and this unit covers the co-arisen-cause discussion at
+83.18–24. The question about followers of consciousness begins at 83.25.
+No independent manuscript collation has been made.

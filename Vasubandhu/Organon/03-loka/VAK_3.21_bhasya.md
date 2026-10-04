@@ -167,7 +167,7 @@ rebirth-junction designated consciousness
     → terminal boundary supplied by the next verse
 ```
 
-Preserving this open boundary matters. Supplying the six-sphere endpoint here
+Preserving this open boundary matters. Supplying the six-Essence endpoint here
 would be Bhāṣya-informed and correct in the larger argument, but it would
 silently import the next kārikā's wording into the present verse.
 

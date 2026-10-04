@@ -104,7 +104,7 @@ The third fruit is **anāgāmiphala**, non-return. A practitioner who enters See
 
 **ūrdhvaṃ vā**
 
-The Bhāṣya allows prior mundane detachment to extend still higher, as far as the Sphere of Nothingness. Even then the practitioner within the fifteen moments remains a candidate for the third fruit rather than immediately becoming an arhat-candidate. The reason for that upper limit in fruit-status belongs to the following verse.
+The Bhāṣya allows prior mundane detachment to extend still higher, as far as the Essence of Nothingness. Even then the practitioner within the fifteen moments remains a candidate for the third fruit rather than immediately becoming an arhat-candidate. The reason for that upper limit in fruit-status belongs to the following verse.
 
 ## 8. Logical Determination
 
@@ -157,7 +157,7 @@ This is not a contamination of the universal Path by accidental biography. Prior
 
 The verse also sharpens the Beginning–End principle. An End is not merely “held in mind” as an abstract goal. The End immediately available to a movement is constrained by where the movement actually begins. Stream-entry, once-return, and non-return are differentiated results of one Path acting upon differently prepared continua.
 
-The kārikā states the grade-boundaries and the resulting second- and third-fruit candidacies through compressed ellipsis. The explicit 0–5, 6–8, and 9-plus matrix, the prior mundane path, the fruit names, and the upper extension through the Sphere of Nothingness are Bhāṣya determinations. The state-sensitive Beginning–Morphology–Course–End formulation is Organon synthesis.
+The kārikā states the grade-boundaries and the resulting second- and third-fruit candidacies through compressed ellipsis. The explicit 0–5, 6–8, and 9-plus matrix, the prior mundane path, the fruit names, and the upper extension through the Essence of Nothingness are Bhāṣya determinations. The state-sensitive Beginning–Morphology–Course–End formulation is Organon synthesis.
 
 ## 10. OWL++ Seed
 

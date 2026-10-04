@@ -286,7 +286,7 @@ This makes the middle not merely temporally central but **epistemically privileg
 
 The twelve-member dependent co-arising is to be understood as having three functional natures: affliction, karma, and factual support.
 
-Ignorance, craving, and appropriation are afflictions. Formations and becoming are karma. Knowledge, name-and-form, the six spheres, contact, feeling, birth, and aging-and-death are factual supports, because they serve as the support of affliction and karma.
+Ignorance, craving, and appropriation are afflictions. Formations and becoming are karma. Knowledge, name-and-form, the six Essences, contact, feeling, birth, and aging-and-death are factual supports, because they serve as the support of affliction and karma.
 
 Those same seven factual-support members are also results, while the remaining five members — the three afflictions and two karmic members — are causes.
 

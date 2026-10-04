@@ -131,17 +131,17 @@ since this has thereby already been indicated, it is not stated
 again.
 
 Now, is “constituent” here taken as an individual real constituent,
-or as a sense-base? What follows from that? If it means an individual
+or as an Essence? What follows from that? If it means an individual
 real constituent, saying “eight constituents,” “nine,” or “ten”
 is too little. For there must also be shape in that material
 [the wording is uncertain], since shape too is an accumulation
 of minimal particles; and either heaviness or lightness, either
 smoothness or roughness, and sometimes cold, hunger, and thirst.
-But if a sense-base is taken as a constituent, saying “eight
+But if an Essence is taken as a constituent, saying “eight
 constituents” is too much: four should be stated, since the great
-elements also belong to the tangible sense-base. Here, in some
+elements also belong to the tangible Essence. Here, in some
 cases an individual real constituent is counted—what serves as
-support; in other cases a sense-base is counted—what is supported.
+support; in other cases an Essence is counted—what is supported.
 Even so, the elemental constituents would be more numerous,
 since each derived form depends on its own quartet of great
 elements. Here, however, a constituent is counted by kind: the
@@ -189,7 +189,7 @@ an object of examination.
 
 The eight comprise the four great elements and visible form,
 odor, taste, and derived tangible form. The tangible in this
-initial list cannot mean the whole tangible sense-base, since
+initial list cannot mean the whole tangible Essence, since
 that would include the four great elements already counted
 separately. This distinction becomes explicit in the later objection.
 
@@ -232,14 +232,14 @@ local text does not identify its scriptural source more precisely.
 
 The final debate qualifies the apparent simplicity of the initial
 counts. Counting every individual material determination would
-require more than eight; counting only sense-bases would yield
+require more than eight; counting only Essences would yield
 four in the facultyless, soundless desire-realm case: visible form,
 odor, taste, and the tangible, with the elements included under
 the last.
 
 The reply uses different counting levels for support and supported:
 the great elements are distinguished as real constituents, while
-the derived forms are grouped by sense-base. The further objection
+the derived forms are grouped by Essence. The further objection
 then notes that each derived form has its own elemental quartet.
 The answer counts those elemental constituents by kind,
 *jātidravya*, so repeated quartets do not multiply the four kinds.
@@ -289,7 +289,7 @@ activity, and presence as a seed. These determinations must remain
 separate if the competing explanations are to remain intelligible.
 
 The counting dispute adds a methodological requirement: identify
-the unit of enumeration. Individual constituents, sense-bases,
+the unit of enumeration. Individual constituents, Essences,
 and kinds do different work. An apparently precise number loses
 its meaning if these levels are silently interchanged. The final
 appeal to examining meaning is therefore continuous with the

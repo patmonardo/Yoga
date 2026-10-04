@@ -29,7 +29,7 @@ Kārikā study: [`VAK_8.24.md`](./VAK_8.24.md).
 
 > Signless samādhi is joined with the four aspects of the truth of cessation.
 > Nirvāṇa is signless — free from ten signs — and the samādhi that takes it as
-> object is signless. The ten: five sense-fields, female and male, three marks of
+> object is signless. The ten: five Essences, female and male, three marks of
 > the conditioned.
 >
 > Emptiness samādhi is joined with two aspects: non-self and emptiness.

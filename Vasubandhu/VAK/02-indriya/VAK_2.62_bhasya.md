@@ -104,7 +104,7 @@ A dharma that is the object of a given dharma does not at one time cease to poss
 
 The Bhāṣya compares this with fuel: wood and similar things are called fuel even when they are not presently burning, because they possess the defining character of fuel.
 
-Citta and caittas are therefore determinate with respect to their objects according to the fixed structures of sense-field, individual entity, and defining characteristic (*āyatana-dravya-lakṣaṇa-niyama*).
+Citta and caittas are therefore determinate with respect to their objects according to the fixed structures of Essence, individual entity, and defining characteristic (*āyatana-dravya-lakṣaṇa-niyama*).
 
 The text asks whether they are likewise determinate with respect to their support (*āśraya*).
 
@@ -292,7 +292,7 @@ The second is the genetic judgment. It identifies the lawful form of manifestati
   - **status:** formally defined here.
   - **function:** determines the object-domain available to a cognitive event.
 
-- **āyatana-dravya-lakṣaṇa-niyama** — determination by sense-field, individual entity, and defining characteristic.
+- **āyatana-dravya-lakṣaṇa-niyama** — determination by Essence, individual entity, and defining characteristic.
   - **status:** Bhāṣya-only technical clarification.
   - **function:** explains the structured determination of cognitive object-domains.
 

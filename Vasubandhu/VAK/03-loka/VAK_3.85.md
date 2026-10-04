@@ -74,7 +74,7 @@ The text now shifts from the length of life to the possibility of life being int
 | paramāṇu | ultimate atom | limit of rūpa; minimal material determination |
 | akṣara | letter / syllable | limit of nāma; minimal name-unit |
 | kṣaṇa | moment | limit of time; minimal temporal unit |
-| rūpa | form | material/formal determination |
+| rūpa | Form | material/formal determination |
 | nāma | name | nominal / mental-linguistic determination |
 | adhvan | time / course / path-duration | temporal extension |
 | paryanta | limit / boundary | endpoint or minimal limit of a domain |

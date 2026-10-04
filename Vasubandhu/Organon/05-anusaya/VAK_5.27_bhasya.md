@@ -273,7 +273,7 @@ into atoms is rejected: it would make the atoms permanent
 and leave only rearrangement, without real arising or
 cessation. The same move cannot explain remembered feelings
 and other non-atomic dharmas. Further examples concern the
-notion of a thirteenth sense base and the absence of a sound.
+notion of a thirteenth Essence and the absence of a sound.
 They press the conclusion that consciousness may take both
 being and absence as its object. The quoted Bodhisattva
 statement about knowing only what exists is read as rejecting
@@ -291,7 +291,7 @@ places, inapplicable to nonmaterial dharmas, or again a new
 determination. On this analysis, the Sarvāstivāda assertion
 that past and future exist as substances is rejected. A
 scriptural assertion that “all exists” can instead be read
-within the twelve sense bases.
+within the twelve Essences.
 
 The opponent returns to the question from 5.23–5.24: without
 substantial past and future, how is someone bound to an

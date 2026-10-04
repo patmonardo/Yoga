@@ -164,7 +164,7 @@ The Bhāṣya first explains the eighteen dhātus by realm and then enters a sub
 >
 > Reply: They are complete with respect to whatever faculties exist there. Where is the contradiction? Otherwise the same consequence would apply to the sexual faculty.
 >
-> The accepted explanation is therefore this: the nose and tongue faculties do exist there, but smell and taste do not. Craving may operate toward the six sense spheres through one’s own embodied existence without operating through their external objects. With the sexual faculty, however, craving operates through sexual contact. It is therefore established that fourteen domains belong to the form realm.
+> The accepted explanation is therefore this: the nose and tongue faculties do exist there, but smell and taste do not. Craving may operate toward the six sense Essences through one’s own embodied existence without operating through their external objects. With the sexual faculty, however, craving operates through sexual contact. It is therefore established that fourteen domains belong to the form realm.
 
 ## 3. Bhāṣya Analysis
 
@@ -238,7 +238,7 @@ The final accepted account is:
 
 The nose and tongue faculties exist in the form realm, but smell and taste do not.
 
-The reason is that craving may operate toward the six internal spheres through attachment to embodied existence itself, even when it does not operate toward the external smell and taste objects. The sexual faculty differs because craving for it operates through sexual contact, which is absent in the form realm.
+The reason is that craving may operate toward the six internal Essences through attachment to embodied existence itself, even when it does not operate toward the external smell and taste objects. The sexual faculty differs because craving for it operates through sexual contact, which is absent in the form realm.
 
 ### F. Fourteen dhātus in the form realm
 

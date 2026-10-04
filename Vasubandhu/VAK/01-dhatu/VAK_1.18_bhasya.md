@@ -5,7 +5,7 @@
 > sarvasaṃgraha ekena skandhenāyatanena ca /
 > dhātunā ca svabhāvena parabhāvaviyogataḥ // VAkK_1.18 //
 
-The Kārikā states that all dharmas are included by one aggregate, one sphere, and one domain, and that such inclusion is determined by intrinsic nature rather than by the nature of something else.
+The Kārikā states that all dharmas are included by one aggregate, one Essence, and one domain, and that such inclusion is determined by intrinsic nature rather than by the nature of something else.
 
 ## 2. Natural Bhāṣya Unit
 
@@ -40,13 +40,13 @@ The natural unit begins with the summary of the three classification systems and
 
 **Voice: Vasubandhu**
 
-By the aggregates, all conditioned dharmas are included. By the aggregates of appropriation, all dharmas with outflows are included. By the spheres and domains, all dharmas are included.
+By the aggregates, all conditioned dharmas are included. By the aggregates of appropriation, all dharmas with outflows are included. By the Essences and domains, all dharmas are included.
 
-In summary, all dharmas are to be understood as included by one aggregate, one sphere, and one domain: by the rūpaskandha, the mana-āyatana, and the dharmadhātu.
+In summary, all dharmas are to be understood as included by one aggregate, one Essence, and one domain: by the rūpaskandha, the mana-āyatana, and the dharmadhātu.
 
 Wherever this inclusion is spoken of, it is to be understood as inclusion by intrinsic nature, not by the nature of something else. Why? Because a dharma is separated from another's nature. Therefore it is not reasonable for something to be included by that very nature from which it is distinct.
 
-For example, the eye faculty is included in the rūpaskandha, the eye-sphere, the eye-domain, and the truths of suffering and origin, because those are its own determinations. It is not included in the other aggregates, spheres, or domains, because it is distinct from their nature.
+For example, the eye faculty is included in the rūpaskandha, the eye-Essence, the eye-domain, and the truths of suffering and origin, because those are its own determinations. It is not included in the other aggregates, Essences, or domains, because it is distinct from their nature.
 
 When one thing is said to include another in a different sense—for example, when an assembly is gathered by the means of attraction—this is occasional and conventional inclusion.
 
@@ -210,7 +210,7 @@ not:
 
 The earlier translation should make `saṃgraha` explicitly classificatory and `svabhāvena` explicitly intrinsic:
 
-> All dharmas are included by one aggregate, one sphere, and one domain—by intrinsic nature, because they are distinct from the nature of what is other.
+> All dharmas are included by one aggregate, one Essence, and one domain—by intrinsic nature, because they are distinct from the nature of what is other.
 
 The Bhāṣya also shows that `parabhāvaviyogataḥ` is not a general metaphysical claim of absolute isolation. It has a precise classificatory function: a dharma cannot be strictly included under a nature that is not its own.
 

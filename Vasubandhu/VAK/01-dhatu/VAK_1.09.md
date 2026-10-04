@@ -18,7 +18,7 @@ Source label in GRETIL: `VAkK_1.9`. Project-normalized label: `VAkK_1.09`.
 
 | Form | Padaccheda | Meaning |
 |---|---|---|
-| rūpam | rūpam | form / form-bearing materiality |
+| rūpam | rūpam | Form / form-bearing materiality |
 | pañca-indriyāṇi | pañca indriyāṇi | five faculties |
 | arthāḥ pañca | arthāḥ pañca | five objects / meanings |
 | avijñaptiḥ eva ca | avijñaptiḥ eva ca | and avijñapti also |
@@ -54,7 +54,7 @@ Organon rendering:
 
 | Sanskrit | Project rendering | Note |
 |---|---|---|
-| rūpa | form / form-bearing materiality | broader than visible form |
+| rūpa | Form / form-bearing materiality | broader than visible form |
 | indriya | faculty | sensory power/support |
 | artha | meaning / object-domain | object side of sensory disclosure |
 | avijñapti | avijñapti / non-disclosive form | subtle form; developed at VAK_1.11 |

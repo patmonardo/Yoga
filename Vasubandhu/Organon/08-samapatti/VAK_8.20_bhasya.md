@@ -30,7 +30,7 @@ Kārikā study: [`VAK_8.20.md`](./VAK_8.20.md).
 
 > Having given the general rule, he makes an exception. For one reborn at the
 > summit, destruction of outflows comes from making present the uncontaminated
-> sphere of nothingness — because that ground has no uncontaminated of its own,
+> Essence of nothingness — because that ground has no uncontaminated of its own,
 > and because that [nothingness] has been cultivated.
 >
 > What is the object of these dhyānas and ārūpyas? Savoring-associated [items]

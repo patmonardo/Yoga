@@ -8,7 +8,7 @@
 
 ### Working translation
 
-> Vijñāna is apprehension with respect to each particular object. That same vijñānaskandha is the mind-sphere. As domains it is accepted as seven: the six vijñānas and mind.
+> Vijñāna is apprehension with respect to each particular object. That same vijñānaskandha is the mind-Essence. As domains it is accepted as seven: the six vijñānas and mind.
 
 The verse completes the initial coordination of the three classificatory systems:
 
@@ -60,7 +60,7 @@ Its subject is the **vijñānaskandha**, now redescribed first as one āyatana a
 >
 > This, in turn, consists of the six bodies of vijñāna: eye-vijñāna through mind-vijñāna.
 >
-> That which has been stated as the aggregate of vijñāna is, in the arrangement of the spheres, the mind-sphere.
+> That which has been stated as the aggregate of vijñāna is, in the arrangement of the Essences, the mind-Essence.
 >
 > In the arrangement of the domains, that same aggregate is accepted as seven domains.
 >
@@ -68,13 +68,13 @@ Its subject is the **vijñānaskandha**, now redescribed first as one āyatana a
 >
 > The six vijñānas and mind: the eye-vijñāna-domain through the mind-vijñāna-domain, together with the mind-domain.
 >
-> Thus five aggregates, twelve spheres, and eighteen domains have now been stated.
+> Thus five aggregates, twelve Essences, and eighteen domains have now been stated.
 >
-> The form aggregate, excluding avijñapti, constitutes ten spheres and ten domains.
+> The form aggregate, excluding avijñapti, constitutes ten Essences and ten domains.
 >
-> The three aggregates beginning with feeling, together with avijñapti and the unconditioned dharmas, constitute the dharma-sphere and dharma-domain.
+> The three aggregates beginning with feeling, together with avijñapti and the unconditioned dharmas, constitute the Dharma-Essence and dharma-domain.
 >
-> The aggregate of vijñāna constitutes the mind-sphere, the six vijñāna-domains, and the mind-domain.
+> The aggregate of vijñāna constitutes the mind-Essence, the six vijñāna-domains, and the mind-domain.
 
 ---
 
@@ -141,7 +141,7 @@ For vijñāna:
 as aggregate:
     vijñānaskandha
 
-as sphere:
+as Essence:
     mana-āyatana
 
 as domains:
@@ -166,7 +166,7 @@ saṃskāra
 vijñāna
 ```
 
-#### Twelve spheres
+#### Twelve Essences
 
 ```text
 five sensory faculties
@@ -199,7 +199,7 @@ rūpaskandha minus avijñapti
 
 These are the five faculties and five objects.
 
-Avijñapti is excluded here because it belongs to the dharma-sphere and dharma-domain rather than to one of the ten sensory divisions.
+Avijñapti is excluded here because it belongs to the Dharma-Essence and dharma-domain rather than to one of the ten sensory divisions.
 
 #### Three middle aggregates
 

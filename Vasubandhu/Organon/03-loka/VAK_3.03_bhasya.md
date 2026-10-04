@@ -72,9 +72,9 @@ station. It is the rule that past and future dharmas, avijñapti, and formless
 dharmas are not spatially situated.
 
 Nevertheless, it is fourfold according to rebirth. The formless-domain is
-fourfold through differentiation of rebirth: namely, the sphere of the
-infinitude of space, the sphere of the infinitude of consciousness,
-the sphere of nothingness, and the sphere of neither perception nor
+fourfold through differentiation of rebirth: namely, the Essence of the
+infinitude of space, the Essence of the infinitude of consciousness,
+the Essence of nothingness, and the Essence of neither perception nor
 non-perception. But these are not distinguished as higher and lower by spatial
 location. In whatever place those who have attained the corresponding
 attainment die, in that very place they are reborn. And when they later die
@@ -147,10 +147,10 @@ Fourfoldness nevertheless remains. Its differentiating principle is not
 
 | Formless rebirth | Controlled rendering |
 |---|---|
-| `ākāśānantyāyatana` | sphere of the infinitude of space |
-| `vijñānānantyāyatana` | sphere of the infinitude of consciousness |
-| `ākiñcanyāyatana` | sphere of nothingness |
-| `naivasaṃjñānāsaṃjñāyatana` | sphere of neither perception nor non-perception |
+| `ākāśānantyāyatana` | Essence of the infinitude of space |
+| `vijñānānantyāyatana` | Essence of the infinitude of consciousness |
+| `ākiñcanyāyatana` | Essence of nothingness |
+| `naivasaṃjñānāsaṃjñāyatana` | Essence of neither perception nor non-perception |
 
 The Bhāṣya expressly denies that their higher and lower order is produced by
 spatial location. Its remarks about death, rebirth, and intermediate existence

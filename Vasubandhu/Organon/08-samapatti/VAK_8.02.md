@@ -196,10 +196,10 @@ technical distributions.
 
 | Ground relinquished | Attainment arising through its separation |
 |---|---|
-| Fourth dhyāna | Sphere of infinite space, `ākāśānantyāyatana` |
-| Infinite space | Sphere of infinite consciousness, `vijñānānantyāyatana` |
-| Infinite consciousness | Sphere of nothingness, `ākiñcanyāyatana` |
-| Nothingness | Sphere of neither perception nor non-perception, `naivasaṃjñānāsaṃjñāyatana` |
+| Fourth dhyāna | Essence of infinite space, `ākāśānantyāyatana` |
+| Infinite space | Essence of infinite consciousness, `vijñānānantyāyatana` |
+| Infinite consciousness | Essence of nothingness, `ākiñcanyāyatana` |
+| Nothingness | Essence of neither perception nor non-perception, `naivasaṃjñānāsaṃjñāyatana` |
 
 These names are supplied by the prose. The passage
 lists the progression and defines release; it does

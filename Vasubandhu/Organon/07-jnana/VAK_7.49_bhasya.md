@@ -6,7 +6,7 @@
 > rūpāptaṃ dve tu nirmāṇacittaistāni caturdaśa || 7.49 ||
 
 > A desire-domain constructed manifestation is external, consists of four
-> sense-fields, and is twofold. A form-domain one consists of two. [They are
+> Essences, and is twofold. A form-domain one consists of two. [They are
 > produced] by construction-minds; those minds are fourteen.
 
 Dhyāna distribution of the fourteen: 7.50.

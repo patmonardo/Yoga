@@ -1,4 +1,4 @@
-# VAK_7.14 — Nature and Spheres of the Knowledges
+# VAK_7.14 — Nature and Essences of the Knowledges
 
 ## Sanskrit
 
@@ -26,7 +26,7 @@ moral nature
 sphere of acquisition
 ```
 
-The final `tathaiva ṣaṭ` refers to the six knowledges of the Four Truths together with the knowledges of exhaustion and non-arising. These six occur in six spheres when functioning as dharmajñāna and in nine when functioning as anvayajñāna.
+The final `tathaiva ṣaṭ` refers to the six knowledges of the Four Truths together with the knowledges of exhaustion and non-arising. These six occur in six Essences when functioning as dharmajñāna and in nine when functioning as anvayajñāna.
 
 ## Padaccheda
 
@@ -68,7 +68,7 @@ saṃvṛtijñāna
     all spheres
 
 dharmajñāna
-    six spheres
+    six Essences
 
 anvayajñāna
     nine spheres
@@ -85,7 +85,7 @@ knowledge of exhaustion
 knowledge of non-arising
 ```
 
-These occur in six spheres insofar as they are constituted by dharmajñāna, and in nine insofar as they are constituted by anvayajñāna.
+These occur in six Essences insofar as they are constituted by dharmajñāna, and in nine insofar as they are constituted by anvayajñāna.
 
 ## Literal Translation
 
@@ -127,7 +127,7 @@ bhūmi
 
 Here `bhūmi` does not mean an abstract logical ground. It identifies the level in which a knowledge can be obtained or supported.
 
-### dharmajñāna in six spheres
+### dharmajñāna in six Essences
 
 The six are:
 
@@ -229,7 +229,7 @@ Textually, anvayajñāna has the greater vertical range:
 
 ```text
 dharmajñāna
-    six spheres
+    six Essences
 
 anvayajñāna
     nine spheres

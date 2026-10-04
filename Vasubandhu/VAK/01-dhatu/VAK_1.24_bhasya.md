@@ -44,17 +44,17 @@ The verse asks why, although ten āyatanas belong to rūpaskandha, only one is s
 
 ### Translation
 
-Why, when ten āyatanas are included in the rūpaskandha, is only one called the rūpa-sphere? And why, when all entities have the nature of dharmas, is only one called the dharma-sphere?
+Why, when ten āyatanas are included in the rūpaskandha, is only one called the Form-Essence? And why, when all entities have the nature of dharmas, is only one called the Dharma-Essence?
 
-The verse answers: for the sake of specification; because of predominance; and because it gathers many dharmas and the foremost dharma, one sphere is called rūpa and one is called dharma.
+The verse answers: for the sake of specification; because of predominance; and because it gathers many dharmas and the foremost dharma, one Essence is called rūpa and one is called dharma.
 
 How is this “for the sake of specification”? It allows one to understand that each of these ten is individually an āyatana, established through the relation of object and object-possessor, rather than that all ten collectively constitute one āyatana.
 
-Further, once the other material spheres have been specified by names such as eye and so forth, the remaining rūpa that is not called eye and so forth is understood as the rūpāyatana. No additional name is therefore given to it.
+Further, once the other Form Essences have been specified by names such as eye and so forth, the remaining rūpa that is not called eye and so forth is understood as the rūpāyatana. No additional name is therefore given to it.
 
 Alternatively, it is called rūpāyatana because of its predominance. It is subject to resistance, since it is affected when touched by the hand and so forth; and it is visible, since it can be indicated as “this, here, or there.” In ordinary usage too, this alone is widely recognized as rūpa, not the other material factors.
 
-Likewise, only one sphere is called dharmāyatana for the sake of specification, not all the spheres. Moreover, many dharmas—feeling and the rest—are gathered within it. Hence it is designated generally by the word dharma. And the foremost dharma, nirvāṇa, is included here and not in the other spheres.
+Likewise, only one Essence is called dharmāyatana for the sake of specification, not all the Essences. Moreover, many dharmas—feeling and the rest—are gathered within it. Hence it is designated generally by the word dharma. And the foremost dharma, nirvāṇa, is included here and not in the other Essences.
 
 Others say that the rūpāyatana is single because it has twenty varieties, because it is gross, and because it is the range of three kinds of eye: the fleshly eye, the divine eye, and the noble eye of wisdom.
 
@@ -79,17 +79,17 @@ Likewise:
 ```text
 all entities are dharmas
 
-but only one sphere
+but only one Essence
     is named dharmāyatana
 ```
 
 The Bhāṣya therefore explains a rule of technical naming.
 
-### 3.2 Viśeṣaṇa distinguishes each sphere as a separate relational field
+### 3.2 Viśeṣaṇa distinguishes each Essence as a separate relational field
 
 **Voice:** Vasubandhu
 
-The first explanation is `viśeṣaṇārtham`: the special name prevents us from mistaking the ten material āyatanas for one collective sphere.
+The first explanation is `viśeṣaṇārtham`: the special name prevents us from mistaking the ten Form āyatanas for one collective Essence.
 
 Each āyatana is separately established through a polarity:
 
@@ -185,8 +185,8 @@ This explanation is reported, not explicitly adopted as Vasubandhu’s own decis
 
 ```text
 Question:
-Why is only one material sphere called rūpa,
-and only one sphere called dharma?
+Why is only one material Essence called rūpa,
+and only one Essence called dharma?
 
 Answer for rūpāyatana:
 1. specification of the ten separate āyatanas
@@ -194,7 +194,7 @@ Answer for rūpāyatana:
 3. visible form is predominant in resistance, visibility, and ordinary usage
 
 Answer for dharmāyatana:
-1. specification prevents all spheres from being called dharmāyatana
+1. specification prevents all Essences from being called dharmāyatana
 2. it gathers many heterogeneous dharmas
 3. it uniquely includes the foremost dharma, nirvāṇa
 ```
@@ -257,9 +257,9 @@ Answer for dharmāyatana:
 
 The existing translation should be sharpened in two places.
 
-First, `viśeṣaṇārtham` concerns technical specification: it distinguishes the individual āyatanas and explains why one sphere receives the unqualified name rūpa or dharma.
+First, `viśeṣaṇārtham` concerns technical specification: it distinguishes the individual āyatanas and explains why one Essence receives the unqualified name rūpa or dharma.
 
-Second, `bahudharmāgrasaṃgrahāt` should not be rendered as though the sphere gathers “many foremost dharmas.” The Bhāṣya explicitly parses the reason as:
+Second, `bahudharmāgrasaṃgrahāt` should not be rendered as though the Essence gathers “many foremost dharmas.” The Bhāṣya explicitly parses the reason as:
 
 ```text
 many dharmas
@@ -268,7 +268,7 @@ many dharmas
 
 A productive translation is:
 
-> For the sake of specification, because of predominance, and because it gathers many dharmas together with the foremost dharma, one sphere is called rūpa and one is called dharma.
+> For the sake of specification, because of predominance, and because it gathers many dharmas together with the foremost dharma, one Essence is called rūpa and one is called dharma.
 
 ## 8. Provisional Organon Contact Point
 

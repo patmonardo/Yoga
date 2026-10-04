@@ -183,7 +183,7 @@ of other-mind knowledge.
 
 **`Rūpālambana`.** Having material form as object. In the
 body-mindfulness classification this includes sound and
-other material sense-fields; it is wider than visible
+other material Essences; it is wider than visible
 form alone.
 
 **`Abhijñāparivārajñāna`.** Knowledge accompanying a
@@ -232,16 +232,16 @@ requires both prior-life cultivation and detachment.
 | Higher knowledge | Mindfulness constitution | Object determination here |
 |---|---|---|
 | Other mind | Feeling, mind, dharmas | Mind and mental factors |
-| Extraordinary efficacy | Body | Four external material sense-fields, excluding sound |
-| Divine hearing | Body | Sound sense-field |
-| Divine sight / death and rebirth | Body | Visible-form sense-field |
+| Extraordinary efficacy | Body | Four external material Essences, excluding sound |
+| Divine hearing | Body | Sound Essence |
+| Divine sight / death and rebirth | Body | Visible-form Essence |
 | Former-abode recollection | All four | Remaining case without a narrower restriction |
 | Influx-exhaustion | All four | Remaining case without a narrower restriction |
 
 The four external fields for ṛddhi are visible form,
 smell, taste, and the tangible. “External” here refers
 to object-side āyatanas. It does not make the dharma
-sense-field a fifth material object or reduce body
+Essence a fifth material object or reduce body
 mindfulness to contemplation of one's anatomical body.
 
 The threefold classification of other-mind knowledge

@@ -286,7 +286,7 @@ doing the final deed. The manifest command cannot itself be the
 principal action-path before the deed has been done, and it has a
 different nature even once the deed is complete.
 
-The Vaibhāṣikas add that the dharma-sphere is described as invisible and
+The Vaibhāṣikas add that the Dharma-Essence is described as invisible and
 non-resistant, without being called immaterial. The noble eightfold path
 would lack right speech, action, and livelihood during meditative
 absorption if no non-manifest factor were present. A cited passage saying
@@ -340,7 +340,7 @@ additional dharma separate from mind and body that remains unpersuasive.
 A causal transformation of the agent's own mental continuum can explain
 later fruit.
 
-The Sautrāntika reply then addresses the dharma-sphere argument: the
+The Sautrāntika reply then addresses the Dharma-Essence argument: the
 text's invisible, non-resistant form can be included there without
 establishing the proposed distinct non-manifest entity. For the noble
 path, they ask what right speech, action, and livelihood mean while one

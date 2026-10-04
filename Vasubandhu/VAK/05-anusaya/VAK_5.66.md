@@ -25,7 +25,7 @@ anāgamya-phalam | sarvāḥ | dhyānānām | pañca | vā | athavā | aṣṭau
 - **vā** — disjunctive particle, “or.”
 - **athavā** — “or else,” marking the alternative doctrinal count.
 - **aṣṭau** — nominative plural, “eight.”
-- **sāmantakasya** — genitive singular neuter, “of the neighboring or preliminary concentration.” In the Bhāṣya this refers specifically to the preliminary stage of the sphere of infinite space.
+- **sāmantakasya** — genitive singular neuter, “of the neighboring or preliminary concentration.” In the Bhāṣya this refers specifically to the preliminary stage of the Essence of infinite space.
 - **ekā** — nominative singular feminine, “one,” agreeing with **parijñā** understood.
 - **maula-ārūpya-trayasya** — genitive singular compound, “of the three fundamental formless attainments.”
 - **ca** — conjunctive particle, “and.”
@@ -134,7 +134,7 @@ The lower-fetter destruction parijñā remains exclusively an **anāgamya** frui
 
 A **sāmantaka** is a neighboring or preliminary concentration standing immediately below a fundamental attainment.
 
-Here the Bhāṣya specifies the preliminary concentration of the sphere of infinite space.
+Here the Bhāṣya specifies the preliminary concentration of the Essence of infinite space.
 
 Its single fruit is:
 

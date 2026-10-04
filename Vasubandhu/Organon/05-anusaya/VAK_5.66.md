@@ -33,7 +33,7 @@ aṣṭau | sāmantakasya | ekā | maula-ārūpya-trayasya | ca
 | `pañca` | numeral | five parijñās, on the Vaibhāṣika account |
 | `vā athavā` | disjunctive particles | or, alternatively |
 | `aṣṭau` | numeral | eight parijñās, according to Bhadanta Ghoṣaka |
-| `sāmantakasya` | genitive singular neuter | of the preliminary concentration of the sphere of infinite space |
+| `sāmantakasya` | genitive singular neuter | of the preliminary concentration of the Essence of infinite space |
 | `ekā` | nominative singular feminine | one parijñā |
 | `maula-ārūpya-trayasya` | genitive singular compound | of the three fundamental formless attainments |
 | `ca` | conjunction | and |
@@ -92,7 +92,7 @@ treated like the dhyānas.
 > afflictions. According to Bhadanta Ghoṣaka they have eight, adding the three
 > desire-domain seeing-abandonment parijñās, while abandonment of the lower-
 > part fetters remains exclusively a fruit of anāgamya. The preliminary
-> concentration of the sphere of infinite space yields the destruction of
+> concentration of the Essence of infinite space yields the destruction of
 > attachment to form; each of the three fundamental formless attainments can
 > yield the complete exhaustion of all fetters.
 

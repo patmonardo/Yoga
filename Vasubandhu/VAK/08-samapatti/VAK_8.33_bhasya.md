@@ -9,7 +9,7 @@
 
 ## Best Current Translation
 
-But cessation is an attainment, immediately following the most subtle of the subtle. From it, emergence occurs through a determinate mind: either a pure mind of its own summit level or a contaminated mind of the lower Nothingness sphere, as specified by the Bhāṣya.
+But cessation is an attainment, immediately following the most subtle of the subtle. From it, emergence occurs through a determinate mind: either a pure mind of its own summit level or a contaminated mind of the lower Nothingness Essence, as specified by the Bhāṣya.
 
 [Kārikā analysis](./VAK_8.33.md)
 
@@ -59,7 +59,7 @@ It is called a Deliverance because of turning away from perception and feeling, 
 
 One enters it immediately after making the most subtle still subtler. At the summit of existence (`bhavāgra`), perception is subtle; making that again still subtler, one enters cessation.
 
-For one who has entered it, emergence from cessation occurs either through a pure mind belonging to the summit of existence or through a contaminated mind belonging to the sphere of Nothingness (`ākiñcanyāyatana`). Thus the mind associated with entry into this attainment is contaminated; the emergence-mind stands in the specified immediate relation to contaminated cognition.
+For one who has entered it, emergence from cessation occurs either through a pure mind belonging to the summit of existence or through a contaminated mind belonging to the Essence of Nothingness (`ākiñcanyāyatana`). Thus the mind associated with entry into this attainment is contaminated; the emergence-mind stands in the specified immediate relation to contaminated cognition.
 
 The final sentence is syntactically compressed. Its doctrinal force is preserved here without over-normalizing the exact temporal formula beyond what the Sanskrit securely supports.
 

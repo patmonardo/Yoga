@@ -74,7 +74,7 @@ The working e-text is explicitly non-critical and contains occasional obvious tr
 
 The formless-domain is without a station. For formless dharmas there is no spatial station. It is a rule that past and future dharmas, avijñapti, and formless dharmas are not spatially situated.
 
-Nevertheless, the formless-domain is fourfold according to rebirth: the sphere of infinite space, the sphere of infinite knowledge, the sphere of nothingness, and the sphere of neither-perception-nor-non-perception. These are not differentiated as higher and lower through spatial location. Wherever one who has attained the corresponding samāpatti dies, there that being is reborn; and when dying from that existence, the intermediate existence also arises there.
+Nevertheless, the formless-domain is fourfold according to rebirth: the Essence of infinite space, the Essence of infinite knowledge, the Essence of nothingness, and the Essence of neither-perception-nor-non-perception. These are not differentiated as higher and lower through spatial location. Wherever one who has attained the corresponding samāpatti dies, there that being is reborn; and when dying from that existence, the intermediate existence also arises there.
 
 A question then arises. In beings possessing form, the continuity of citta proceeds in dependence upon form. On what does it proceed among beings of the formless-domain?
 

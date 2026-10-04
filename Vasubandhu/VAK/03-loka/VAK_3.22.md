@@ -12,12 +12,12 @@ sparśaḥ prāk sukhaduḥkhādikāraṇajñānaśaktitaḥ // VAkK_3.22 //
 
 ## Working Clarification
 
-Here `āyatana` is translated as **sphere**. It should be read as a sphere of access or interface, not as the subject itself.
+Here `āyatana` is translated as **Essence**. It should be read as an Essence of access or interface, not as the subject itself.
 
 The triadic contact structure is primarily:
 
 ```text
-sphere
+Essence
     +
 object-support
     +
@@ -26,14 +26,14 @@ knowledge
 contact
 ```
 
-This may be interpreted secondarily through the Organon as a Subject–Object–Idea style interface event. But the primary Abhidharma structure should remain sphere / object-support / knowledge.
+This may be interpreted secondarily through the Organon as a Subject–Object–Idea style interface event. But the primary Abhidharma structure should remain Essence / object-support / knowledge.
 
 ## Padaccheda
 
 | Sandhi form | Padaccheda | Basic meaning |
 |---|---|---|
 | prāk | prāk | before; prior to |
-| ṣaḍāyatanotpādāt | ṣaṭ-āyatana-utpādāt | before the arising of the six spheres |
+| ṣaḍāyatanotpādāt | ṣaṭ-āyatana-utpādāt | before the arising of the six Essences |
 | tatpūrvam | tat-pūrvam | prior to that |
 | trikasaṃgamāt | trika-saṃgamāt | before / from the conjunction of the triad |
 | sparśaḥ | sparśaḥ | contact |
@@ -51,7 +51,7 @@ prāk + ablative
 
 ṣaḍāyatana-utpādāt
     = ablative singular
-    = before the arising of the six spheres
+    = before the arising of the six Essences
 
 tat-pūrvam
     = prior to that
@@ -83,19 +83,19 @@ sparśa
 
 ## Literal Translation
 
-Name-and-form lasts until before the arising of the six spheres; that, in turn, lasts before the conjunction of the triad. Contact lasts until before the capacity for knowing the causes of pleasure, pain, and so forth.
+Name-and-form lasts until before the arising of the six Essences; that, in turn, lasts before the conjunction of the triad. Contact lasts until before the capacity for knowing the causes of pleasure, pain, and so forth.
 
 ## Philosophical Translation
 
-After junctional knowledge, name-and-form unfolds until the six spheres arise. The six spheres then stand prior to the conjunction of the threefold relation. Contact begins with that triadic conjunction and continues until the being has the capacity to know the causes of pleasure, pain, and related experience.
+After junctional knowledge, name-and-form unfolds until the six Essences arise. The six Essences then stand prior to the conjunction of the threefold relation. Contact begins with that triadic conjunction and continues until the being has the capacity to know the causes of pleasure, pain, and related experience.
 
 ## Technical Vocabulary
 
 | Sanskrit | Working translation | Note |
 |---|---|---|
 | nāmarūpa | name-and-form | Psycho-physical determinacy after junctional knowledge |
-| ṣaḍāyatana | six spheres | Sixfold sphere-structure or interface structure |
-| āyatana | sphere | Sphere of access; not the subject itself |
+| ṣaḍāyatana | six Essences | Sixfold Essence-structure or interface structure |
+| āyatana | Essence | Essence of access; not the subject itself |
 | utpāda | arising | Coming forth of a determinate structure |
 | trika | triad | The threefold conjunction required for contact |
 | saṃgama | conjunction | A relational event |
@@ -134,7 +134,7 @@ The important phrase is **trika-saṃgama**, conjunction of the triad.
 For the project vocabulary:
 
 ```text
-sphere
+Essence
     +
 object-support
     +
@@ -149,7 +149,7 @@ Each limb is determined by what it is prior to.
 
 ```text
 nāmarūpa
-    = threshold toward articulated spheres
+    = threshold toward articulated Essences
 
 ṣaḍāyatana
     = threshold toward triadic conjunction
@@ -162,7 +162,7 @@ In Hegel-clean terms:
 
 ```text
 immediate psycho-physical determinacy
-    becomes differentiated sphere-structure
+    becomes differentiated Essence-structure
     becomes triadic relation
     becomes contact
     becomes capacity to know affective causality
@@ -179,10 +179,10 @@ Nāmarūpa
     = embodied schema
 
 Ṣaḍāyatana
-    = sixfold interface layer / sphere-structure
+    = sixfold interface layer / Essence-structure
 
 Trika-saṃgama
-    = runtime conjunction of sphere, object-support, knowledge
+    = runtime conjunction of Essence, object-support, knowledge
 
 Sparśa
     = contact event
@@ -196,7 +196,7 @@ This should not be flattened into a simple subject-object relation. The safer fo
 ```text
 A junctional knowledge-event
     unfolds into name-and-form,
-    differentiates into spheres,
+    differentiates into Essences,
     enters triadic conjunction,
     produces contact,
     and only then develops the capacity to know pleasure/pain causality.
@@ -223,7 +223,7 @@ vak:VAK_3_22
 vak:SadAyatana
     a vak:DependentCoArisingLimb ;
     rdfs:label "ṣaḍāyatana" ;
-    vak:hasCanonicalTranslation "six spheres" ;
+    vak:hasCanonicalTranslation "six Essences" ;
     vak:belongsToSection vak:MadhyaSection ;
     vak:definedByLimit vak:TrikaSamgama .
 
@@ -246,6 +246,6 @@ Committed VAK_3b / VAkK_3.22.
 Established:
 - nāmarūpa is defined as prior to the arising of ṣaḍāyatana.
 - ṣaḍāyatana is defined as prior to trika-saṃgama.
-- āyatana is treated as a sphere of access/interface, not the subject itself.
+- āyatana is treated as an Essence of access/interface, not the subject itself.
 - sparśa arises through triadic conjunction.
 - sparśa lasts prior to the capacity to know the causes of pleasure and pain.

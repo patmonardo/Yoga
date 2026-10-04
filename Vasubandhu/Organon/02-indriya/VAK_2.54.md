@@ -12,6 +12,10 @@
 >
 > vipākahetur aśubhāḥ kuśalāś caiva sāsravāḥ // 2.54 //
 
+The Bhāṣya opens the pervasive-cause discussion at 89.01 and recites the
+first half at 89.02; it recites the maturation-cause half at 89.18.
+The discussion ends at 90.22, before VAK 2.55 begins at 90.23.
+
 ## 3. Padaccheda
 
 ```text
@@ -82,30 +86,17 @@ classified.
 
 ### Bhāṣya-informed translation
 
-> Earlier pervasive afflictions become common causes of later afflicted dharmas within the same level, including afflictions of a different class. Maturation causes are unwholesome dharmas and contaminated wholesome dharmas: they possess causal potency and are appropriated by craving, enabling a conditioned continuum to transform toward a later, dissimilar, terminal maturation-result.
+> Previously arisen pervasive dharmas are causes of later afflicted dharmas on their own level, including dharmas of another class. Maturation causes are unwholesome and contaminated wholesome dharmas. The Bhāṣya excludes indeterminate dharmas for weakness and uncontaminated dharmas for lack of craving-appropriation, then distinguishes competing accounts of what counts as maturation.
 
-## 6. Philosophical Translation
+## 6. Causal Distinctions
 
-> Affliction can condition an entire field rather than reproduce only its exact likeness. Karma operates differently: an efficacious determination appropriated by craving enters a continuum, undergoes transformation, and culminates in a result unlike its originating cause. Pervasion propagates a causal atmosphere; maturation completes a delayed genetic process.
-
-The distinction is:
-
-```text
-sarvatraga:
-    prior affliction → diverse later affliction within one level
-
-vipāka:
-    appropriated karmic cause
-        → transformation of a continuum
-        → dissimilar terminal result
-```
-
-**Organon interpretation—not literal Bhāṣya doctrine.** The relevant
-Transcendental Time Determination of Śuddha Sattva distinguishes propagation
-through an afflicted field from a karmically appropriated continuum's delayed,
-terminal transformation. It is not a clocked life-story: Cognition names
-the universal determination by which these causal relations are known;
-Ideas are the particular afflicted contents and result-profiles that differ.
+The two halves name different relations. A pervasive cause reaches later
+afflicted dharmas of another class, but only on its own level. Maturation
+cause is classified by ethical status and its relation to craving; the
+Bhāṣya then debates what makes a result a *vipāka*. Its account of a
+dissimilar result culminating through a transformed continuum is an
+attributed argument, not a definition to impose on every voice in the
+discussion.
 
 ## 7. Technical Vocabulary
 
@@ -131,205 +122,51 @@ English “outflow” requires explicit control of the Sanskrit term.
 
 ## 8. Logical Determination
 
-Pervasive cause is:
+The first cause has a restricted reach: it is prior, pervasive, and on
+the affected dharmas' own level; its afflicted results may belong to
+another class. The Bhāṣya distinguishes this shared causal role from
+homogeneous cause, which depends on similarity.
 
-```text
-PervasiveAffliction(x)
-AND Afflicted(y)
-AND PriorTo(x, y)
-AND SameLevel(x, y)
-    → SarvatragaHetu(x, y)
-```
+The maturation-cause classification is unwholesome dharmas and
+contaminated wholesome dharmas. The commentary explains the exclusions:
+indeterminate dharmas are too weak, while uncontaminated dharmas are
+neither moistened by craving nor connected to a realm-bound result.
 
-It is broader than homogeneous cause with respect to class:
+The meaning of *vipāka* is disputed within the commentary. The Vaibhāṣika
+account allows other causes to have similar ripenings and this cause to
+have both similar and dissimilar results. Vasubandhu rejects the broad use
+of “ripening”: he reserves it for a result born from a specific
+transformation of a continuum and reaching a result-terminus. The two
+accounts must not be collapsed.
 
-```text
-SarvatragaHetu(x, y)
-    ⇏ SameClass(x, y)
+The remaining analysis classifies result-complexes by aggregate and
+Essence counts, then distinguishes the temporal span of karma from that
+of its maturation. The one-moment/many-moment contrast is textually
+uncertain; the commentary explicitly excludes simultaneous and
+immediately subsequent maturation.
 
-SabhagaHetu(x, y)
-    → RelevantSimilarity(x, y)
-```
+## 9. Philosophical Logic and Organon Reading
 
-Maturation eligibility is:
+Within the project’s account of Essence and Philosophical Logic, the
+Indriya system is read as articulating conditions through which the
+sciences determine their objects and relations. This verse contributes
+one specific causal law: pervasive influence crosses afflicted classes
+but remains level-bound; maturation has restricted eligibility and a
+debated account of its result.
 
-```text
-Unwholesome(x)
-    → EligibleVipakaHetu(x)
+It does not itself derive the full laws of Identity, Contradiction, and
+Ground. That restraint matters to the larger claim of Absolute Knowing:
+the project names second-order apprehension of the whole Dharma Chakra
+Absolute Insight. “Absolute Knowing” belongs at that whole-system level,
+not as a doctrine stated by the local Bhāṣya. VAK 2.54 supplies one
+determination within that movement, not its complete philosophical
+deduction.
 
-Wholesome(x)
-AND Contaminated(x)
-    → EligibleVipakaHetu(x)
-```
+## 10. Review Status
 
-The Bhāṣya's exclusions expose two necessary dimensions:
-
-```text
-Indeterminate(x)
-    → InsufficientPotency(x)
-    → NOT VipakaHetu(x)
-
-Uncontaminated(x)
-    → NOT AppropriatedByCraving(x)
-    AND NOT RealmBound(x)
-    → NOT VipakaHetu(x)
-```
-
-The seed analogy yields the eligibility matrix:
-
-| Cause profile | Potent seed | Moistened by craving | Maturation |
-|---|---:|---:|---:|
-| indeterminate | no | not decisive | no |
-| uncontaminated | yes | no | no |
-| unwholesome or contaminated wholesome | yes | yes | yes |
-
-Maturation itself is:
-
-```text
-VipakaResult(r, c) :=
-    DissimilarInKind(r, c)
-    AND SpecificContinuumTransformation(c, r)
-    AND TerminalResult(r)
-```
-
-This excludes the other causal forms from strict ripening:
-
-```text
-SahabhuHetu OR SamprayuktakaHetu
-    → no result born from terminal continuum-transformation
-
-SabhagaHetu
-    → potentially recurrent homogeneous continuation
-    → no necessary terminal completion
-```
-
-The Bhāṣya also treats karmic maturation as producing organized result
-complexes rather than isolated atoms. Depending on the karma, the maturation
-may comprise from one through eleven sense-spheres.
-
-## 9. Interpretive Note
-
-VAK 2.54 completes the sixfold `hetu` system by distinguishing field-like
-contamination from terminal karmic transformation.
-
-`Sarvatraga-hetu` explains how an affliction can reproduce a wider afflicted
-field than its own exact class. It is therefore not another homogeneous edge:
-
-```text
-homogeneous cause
-    → typed continuity through similarity
-
-pervasive cause
-    → contamination propagated across afflicted classes
-```
-
-`Vipāka-hetu` introduces a different temporal architecture. Its result need
-not resemble the cause. The intelligible identity lies instead in the
-transformation of the continuum connecting them:
-
-```text
-cause ≠ result in manifest form
-
-but:
-
-cause → appropriated continuum → transformation → result
-```
-
-This makes provenance indispensable. One cannot infer the causal type from
-surface similarity alone; the Ocular Schema must retain the intervening
-continuum and its terminal completion.
-
-The software analogy can now distinguish two causal control forms:
-
-```python
-def homogeneous_series(state):
-    while state.can_continue:
-        state = state.next_of_same_causal_kind()
-        yield state
-
-def maturation_process(continuum):
-    while not continuum.is_terminal:
-        continuum = continuum.transform()
-    return continuum.dissimilar_matured_result()
-```
-
-`Niḥṣyanda` resembles repeated `yield` because it continues a causal kind.
-`Vipāka` resembles a terminal `return` after internal transformation. These
-are Organon analogies, not translations of the Sanskrit or claims that karma
-is literally software execution.
-
-The result classifications also return us to the āyatana architecture. Karma
-can mature not merely as one property but as a structured complex of
-faculties and fields—for example life alone, mind with Dharma-sphere, or a
-sensory faculty together with body, tangible, and Dharma spheres. The Kośa
-therefore models a maturation as an Ocular result-schema of variable breadth.
-
-The six causes are now distinguishable as:
-
-```text
-kāraṇa       permissive or productive conditioning
-sahabhū      co-arisen causal participation
-sabhāga      prior homogeneous continuation
-saṃprayukta  fivefold associated Citta-complex
-sarvatraga   pervasive afflicted propagation
-vipāka       terminal maturation through continuum-transformation
-```
-
-This is the Kośa as Technē: not one occult Cause, but an exposed causal schema
-whose relations preserve their own scope, direction, and result-form.
-
-The textual layers are:
-
-```text
-kārikā
-    → defines pervasive and maturation causes
-
-Bhāṣya
-    → explains cross-class affliction, causal eligibility,
-      craving-appropriation, continuum-transformation,
-      terminality, and variable result-complexes
-
-Organon reconstruction
-    → contrasts field propagation, homogeneous yielding,
-      and terminal maturation in an Ocular causal schema
-```
-
-## 10. OWL++ Seed
-
-```ttl
-@prefix vak: <http://127.0.0.1:3000/vak#> .
-@prefix organon: <http://127.0.0.1:3000/organon#> .
-
-vak:SarvatragaHetu a organon:FieldPropagationCause .
-vak:VipakaHetu a organon:TerminalTransformationCause .
-
-vak:ContaminatedWholesome a organon:EthicalCausalProfile .
-vak:Unwholesome a organon:EthicalCausalProfile .
-vak:Indeterminate a organon:EthicalCausalProfile .
-vak:Uncontaminated a organon:EthicalCausalProfile .
-
-organon:CausalPotency a organon:EligibilityCondition .
-organon:CravingAppropriation a organon:EligibilityCondition .
-organon:RealmConnection a organon:EligibilityCondition .
-organon:ContinuumTransformation a organon:CausalProcess .
-organon:TerminalResult a organon:ResultProfile .
-organon:DissimilarResult a organon:ResultProfile .
-
-vak:VipakaHetu organon:requires organon:CausalPotency,
-        organon:CravingAppropriation,
-        organon:RealmConnection .
-
-vak:VipakaResult organon:requires organon:ContinuumTransformation,
-        organon:TerminalResult,
-        organon:DissimilarResult .
-
-organon:OcularMaturationSchema a organon:OcularSchema ;
-    organon:requires organon:CausalProvenance,
-        organon:ContinuumIdentity,
-        organon:TransformationHistory,
-        organon:TerminalResult,
-        organon:ResultSphereComplex .
-
-vak:HomogeneousOutflow organon:projectAnalogy organon:YieldContinuation .
-vak:VipakaResult organon:projectAnalogy organon:TerminalReturn .
-```
+Provisional fifty-fourth study of the restarted Indriyanirdeśa sequence.
+The kārikā halves, Bhāṣya, source boundaries, and prior VAK 2.53 transition
+have been compared. The competing accounts of *vipāka*, result counts,
+and temporal conclusion are retained; transcriptional uncertainties are
+marked in the paired Bhāṣya study. No independent manuscript collation
+has been performed.

@@ -62,7 +62,7 @@ The aggregate-continuum that has just been taught in the condition of three
 lives “is dependent arising, possessing twelve members and three sections.”
 
 Its twelve members are ignorance, formations, consciousness, name-and-form,
-the six sense spheres, contact, feeling, craving, appropriation, becoming,
+the six Essences, contact, feeling, craving, appropriation, becoming,
 birth, and aging-and-death. Its three sections are the prior limit, the
 subsequent limit, and the middle—that is, the past, future, and present lives.
 
@@ -137,7 +137,7 @@ prior limit — past life
 middle — present life
     vijñāna      consciousness / differentiated cognition
     nāmarūpa     name-and-form
-    ṣaḍāyatana   six sense spheres
+    ṣaḍāyatana   six Essences
     sparśa       contact
     vedanā       feeling
     tṛṣṇā        craving

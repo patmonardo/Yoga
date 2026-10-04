@@ -95,8 +95,8 @@ same division.
 ### Bhāṣya-informed study translation
 
 > Lifespans in the four formless stations are respectively 20,000 kalpas in
-> the Sphere of Infinite Space, 40,000 in the Sphere of Infinite Cognition,
-> 60,000 in the Sphere of Nothingness, and 80,000 at the Summit of Existence.
+> the Essence of Infinite Space, 40,000 in the Essence of Infinite Cognition,
+> 60,000 in the Essence of Nothingness, and 80,000 at the Summit of Existence.
 > In these lifespan calculations, `kalpa` means a full mahākalpa from the
 > Parīttābha class upward; below Parīttābha, half a mahākalpa is conventionally
 > counted as one kalpa.
@@ -120,9 +120,9 @@ of the lower unit are Bhāṣya determinations.
 | Sanskrit | Controlled rendering | Determination in this unit |
 |---|---|---|
 | ārūpya | formless realm | four conditioned stations whose lifespans remain measurable |
-| Ākāśānantyāyatana | Sphere of Infinite Space | first formless station; 20,000 kalpas |
-| Vijñānānantyāyatana | Sphere of Infinite Cognition | second formless station; 40,000 kalpas |
-| Ākiñcanyāyatana | Sphere of Nothingness | third formless station; 60,000 kalpas |
+| Ākāśānantyāyatana | Essence of Infinite Space | first formless station; 20,000 kalpas |
+| Vijñānānantyāyatana | Essence of Infinite Cognition | second formless station; 40,000 kalpas |
+| Ākiñcanyāyatana | Essence of Nothingness | third formless station; 60,000 kalpas |
 | Bhavāgra | Summit of Existence | fourth formless station; 80,000 kalpas |
 | kalpa | kalpa | unit-name whose magnitude is domain-dependent here |
 | antarakalpa | intermediate kalpa | subdivision used by the Bhāṣya to establish the lower convention |
@@ -131,7 +131,7 @@ of the lower unit are Bhāṣya determinations.
 | kalpīkṛtya | counting or constituting as a kalpa | Bhāṣya marker of conventional unit assignment |
 | āyuḥpramāṇa | lifespan-measure | quantity of life expressed in an established temporal unit |
 
-`Vijñānānantyāyatana` is rendered “Sphere of Infinite Cognition” in accordance
+`Vijñānānantyāyatana` is rendered “Essence of Infinite Cognition” in accordance
 with the project's controlled distinction: positive `vijñāna` is
 differentiated cognition, not an undifferentiated consciousness-field.
 
@@ -147,9 +147,9 @@ L(n) = n × 20,000 kalpas
 
 | n | Formless station | Lifespan |
 |---:|---|---:|
-| 1 | Sphere of Infinite Space | 20,000 kalpas |
-| 2 | Sphere of Infinite Cognition | 40,000 kalpas |
-| 3 | Sphere of Nothingness | 60,000 kalpas |
+| 1 | Essence of Infinite Space | 20,000 kalpas |
+| 2 | Essence of Infinite Cognition | 40,000 kalpas |
+| 3 | Essence of Nothingness | 60,000 kalpas |
 | 4 | Summit of Existence | 80,000 kalpas |
 
 This is an additive progression:
@@ -287,13 +287,13 @@ loka:ArupyaLifespanSeries
     organon:hasUnit loka:FullMahakalpa ;
     organon:hasTerminalQuantity 80000 .
 
-loka:SphereOfInfiniteSpaceLifespan
+loka:EssenceOfInfiniteSpaceLifespan
     organon:hasQuantity 20000 .
 
-loka:SphereOfInfiniteCognitionLifespan
+loka:EssenceOfInfiniteCognitionLifespan
     organon:hasQuantity 40000 .
 
-loka:SphereOfNothingnessLifespan
+loka:EssenceOfNothingnessLifespan
     organon:hasQuantity 60000 .
 
 loka:SummitOfExistenceLifespan

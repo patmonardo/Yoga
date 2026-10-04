@@ -30,7 +30,7 @@ kāraṇa-jñāna-śaktitaḥ   → kāraṇajñānaśaktitaḥ
 | Form | Morphology | Lexical force here |
 |---|---|---|
 | prāk | indeclinable governing the ablative | prior to; until before |
-| ṣaḍāyatanotpādāt | ablative singular compound | before the arising of the six spheres |
+| ṣaḍāyatanotpādāt | ablative singular compound | before the arising of the six Essences |
 | tatpūrvam | nominative neuter singular predicate | that stage is prior to; extends until before |
 | trikasaṃgamāt | ablative singular compound | before the conjunction of the triad |
 | sparśaḥ | nominative masculine singular | contact; stage arising from triadic conjunction |
@@ -58,7 +58,7 @@ sparśaḥ
     prāk sukha-duḥkha-ādi-kāraṇa-jñāna-śaktitaḥ
 ```
 
-> Name-and-form extends until before the arising of the six spheres. That
+> Name-and-form extends until before the arising of the six Essences. That
 > stage extends until before the conjunction of the triad. Contact extends
 > until before the capacity to know the causes of pleasure, pain, and the
 > remaining feeling.
@@ -70,14 +70,14 @@ discrimination or determination, of the causes of the three feelings.
 
 ### Close syntactic construe
 
-> [Name-and-form extends] until the arising of the six spheres; that extends
+> [Name-and-form extends] until the arising of the six Essences; that extends
 > until the conjunction of the triad. Contact extends until the capacity to
 > know the causes of pleasure, pain, and the other feeling.
 
 ### Bhāṣya-informed study translation
 
 > The developmental stage after the rebirth-linking mind and before the
-> arising of the six spheres is designated **name-and-form**. The ensuing
+> arising of the six Essences is designated **name-and-form**. The ensuing
 > sphere-stage continues until faculty, cognitive field, and differentiated
 > cognition enter into conjunction. From their conjunction, **contact**
 > arises; the contact-stage continues until the developing being becomes
@@ -101,8 +101,8 @@ discrimination of the three feelings are Bhāṣya determinations.
 | Sanskrit | Controlled rendering | Determination in this unit |
 |---|---|---|
 | nāmarūpa | name-and-form | post-linking developmental stage before the sphere-structure arises |
-| ṣaḍāyatana | six spheres | conventional name of the developing sixfold access-structure |
-| āyatana | sphere | field or basis of access; not the subject itself |
+| ṣaḍāyatana | six Essences | conventional name of the developing sixfold access-structure |
+| āyatana | Essence | capacity or field of access; not the subject itself |
 | utpāda | arising | actual emergence of a new developmental structure |
 | indriya | faculty | capacity of access participating in contact |
 | viṣaya | cognitive field / object-determination | what is encountered by a faculty; not assumed here as a self-standing external object |
@@ -115,7 +115,7 @@ discrimination of the three feelings are Bhāṣya determinations.
 | śakti | capacity / power | acquired ability marking a developmental transition |
 | pariccheda | discrimination / determination | Bhāṣya's specification of the knowing-capacity |
 | samartha | capable / competent | able to perform the new discrimination |
-| vyavasthāpana | systematic designation | explains why the whole developing stage is called “six spheres” |
+| vyavasthāpana | systematic designation | explains why the whole developing stage is called “six Essences” |
 
 The Bhāṣya explicitly gives:
 
@@ -175,7 +175,7 @@ mere inventory; it arises from their conjunction.
 
 ### Systematic designation does not require instantaneous completion
 
-The Bhāṣya notes that not all six spheres need be fully manifest at every
+The Bhāṣya notes that not all six Essences need be fully manifest at every
 instant of the `ṣaḍāyatana` stage. The name classifies the developmental phase
 as a whole.
 
@@ -244,16 +244,16 @@ suprasensuous ascent and the knowledge that follows it.
 vak:VAK_3_22
     a vak:Karika ;
     vak:continues vak:VAK_3_21 ;
-    vak:definesStage vak:NamarupaStage, vak:SixSphereStage,
+    vak:definesStage vak:NamarupaStage, vak:SixEssenceStage,
         vak:ContactStage .
 
 vak:NamarupaStage
-    vak:terminatesAt vak:ArisingOfSixSpheres .
+    vak:terminatesAt vak:ArisingOfSixEssences .
 
-vak:SixSphereStage
+vak:SixEssenceStage
     a vak:DevelopmentalStage ;
     vak:terminatesAt vak:TriadicConjunction ;
-    vak:hasGoverningStructure vak:SixSpheres .
+    vak:hasGoverningStructure vak:SixEssences .
 
 vak:TriadicConjunction
     a loka:CognitiveRelation ;

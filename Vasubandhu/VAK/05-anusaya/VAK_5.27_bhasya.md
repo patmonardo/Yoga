@@ -263,7 +263,7 @@ Likewise, past and future can function as objects of cognition without possessin
 
 Nor do the Sautrāntikas explain a result as arising directly from a substantially existent past karma. The result arises from a `saṃtāna-viśeṣa`, a special modification or determination of the continuum produced by that prior karma.
 
-Accordingly, Vasubandhu rejects as unacceptable within the teaching the thesis that past and future exist substantially. A defensible `sarvam asti` is the one stated in scripture, notably with reference to the twelve spheres, not an eternal inventory of dharmas across three times.
+Accordingly, Vasubandhu rejects as unacceptable within the teaching the thesis that past and future exist substantially. A defensible `sarvam asti` is the one stated in scripture, notably with reference to the twelve Essences, not an eternal inventory of dharmas across three times.
 
 ## Philosophical Translation
 
@@ -430,7 +430,7 @@ The acceptable statement is scriptural and contextual:
 ```text
 sarvam asti
     insofar as the teaching itself determines the domain,
-    e.g. the twelve spheres
+    e.g. the twelve Essences
 ```
 
 Thus Vasubandhu does not simply invert Sarvāstivāda into "nothing exists except the present." He reconstructs the senses in which past and future discourse is legitimate.

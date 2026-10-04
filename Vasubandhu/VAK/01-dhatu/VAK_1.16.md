@@ -21,7 +21,7 @@ Source label in GRETIL: `VAkK_1.16`. Project-normalized label: `VAkK_1.16`.
 | vijñānam | vijñānam | knowledge |
 | prativijñaptiḥ | prativijñaptiḥ | counter-disclosure / discriminative disclosure |
 | manaḥ | manaḥ | mind |
-| āyatanam ca tat | āyatanam ca tat | and that is a sphere |
+| āyatanam ca tat | āyatanam ca tat | and that is an Essence |
 | dhātavaḥ sapta | dhātavaḥ sapta | seven domains |
 | ca matāḥ | ca matāḥ | are accepted |
 | ṣaṭ vijñānāni | ṣaṭ vijñānāni | six knowledges |
@@ -48,15 +48,15 @@ six vijñānas
 
 ## 5. Literal Translation
 
-> Knowledge is prativijñapti. Mind is also that sphere. And seven domains are accepted: the six knowledges and also mind.
+> Knowledge is prativijñapti. Mind is also that Essence. And seven domains are accepted: the six knowledges and also mind.
 
 ## 6. Philosophical Translation
 
-> Vijñāna is discriminative disclosure. Manas is the mental sphere, and together the six knowledge-domains and mind make seven domains.
+> Vijñāna is discriminative disclosure. Manas is the mental Essence, and together the six knowledge-domains and mind make seven domains.
 
 Organon rendering:
 
-> Knowledge is not vague awareness. It is prativijñapti: disclosure through distinction. Manas is the internal sphere that coordinates the six knowledges and becomes the seventh domain in the cognitive architecture.
+> Knowledge is not vague awareness. It is prativijñapti: disclosure through distinction. Manas is the internal Essence that coordinates the six knowledges and becomes the seventh domain in the cognitive architecture.
 
 ## 7. Technical Vocabulary
 
@@ -64,8 +64,8 @@ Organon rendering:
 |---|---|---|
 | vijñāna | knowledge | never consciousness in this project layer |
 | prativijñapti | discriminative disclosure | knowing as differential disclosure |
-| manas | mind | mental sphere/domain |
-| āyatana | sphere | relational field |
+| manas | mind | mental Essence/domain |
+| āyatana | Essence | relational field |
 | dhātu | domain | lawful domain of analysis |
 | ṣaḍvijñāna | six knowledges | five sensory plus mental knowledge |
 
@@ -97,7 +97,7 @@ vijñāna
     = knowledge as differential disclosure
 
 manas
-    = inner sphere/domain of coordination
+    = inner Essence/domain of coordination
 ```
 
 This prepares VAK_1.17, where the immediately past sixfold knowledge is identified as manas.

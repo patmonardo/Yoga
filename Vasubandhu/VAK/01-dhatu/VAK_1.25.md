@@ -50,7 +50,7 @@ Organon rendering:
 | muni | Sage | the Buddha |
 | vāk | speech | form-side of teaching |
 | nāman | name | formation-side of teaching |
-| rūpa | form | voiced expression |
+| rūpa | Form | voiced expression |
 | saṃskāra | formation | naming/designation |
 | saṃgraha | inclusion | analytic containment |
 

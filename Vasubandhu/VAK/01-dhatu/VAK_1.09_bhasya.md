@@ -492,7 +492,7 @@ Rūpa here is not opposed to knowing as dead external matter. One portion of rū
 
 ### **ādhyātmika āyatana**
 
-- **Provisional meaning:** internal domain or internal sense-base
+- **Provisional meaning:** internal domain or internal Essence
 - **Status:** introduced through scriptural citation
 - **Function:** locates the faculty on the internal side of the āyatana system
 

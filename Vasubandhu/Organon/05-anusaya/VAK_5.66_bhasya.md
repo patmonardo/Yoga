@@ -95,7 +95,7 @@ acquisition of disconnection. Both accounts still reserve
 the lower-part-bond *parijñā* for *anāgamya*.
 
 `Dhyānāntara` follows the relevant dhyāna rule. The
-preliminary stage of the sphere of infinite space yields
+preliminary stage of the Essence of infinite space yields
 only the form-attachment completion; the three fundamental
 formless attainments share one final *parijñā* type as
 their fruit. The source does not assign a distinct final

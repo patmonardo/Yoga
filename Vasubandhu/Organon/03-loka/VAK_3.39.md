@@ -30,15 +30,15 @@ sva-akṣa-mukta-an-anugrahāt → svākṣamuktānanugrahāt
 | kavaḍīkāra | nominative masculine singular in compound relation | morsel-making; material nutriment taken in gross or subtle form |
 | āhāraḥ | nominative masculine singular | nutriment; that which sustains |
 | kāme | locative singular | in the desire realm |
-| tryāyatanātmakaḥ | nominative masculine singular compound adjective | constituted by three spheres |
+| tryāyatanātmakaḥ | nominative masculine singular compound adjective | constituted by three Essences |
 | na | negative particle | excludes visible form from nutriment |
-| rūpāyatanam | nominative neuter singular | the visible-form sphere |
+| rūpāyatanam | nominative neuter singular | the visible-form Essence |
 | tena | instrumental singular pronoun used consequentially | therefore / for that reason |
 | svākṣa | compound member; `sva` + `akṣa` | its own faculty, namely the eye |
 | mukta | compound member | the liberated; specified as non-returners and arhats in the Bhāṣya |
 | ananugrahāt | ablative singular of negative abstract | because of not supporting or benefiting |
 
-The three spheres are not named in the Kārikā. The Bhāṣya specifies them as
+The three Essences are not named in the Kārikā. The Bhāṣya specifies them as
 odor, taste, and tangible. It also controls the dense final compound through
 the functional criterion of `anugraha`, sustaining support.
 
@@ -53,14 +53,14 @@ kavaḍīkāraḥ āhāraḥ
 
 morsel nutriment
     [exists] in the desire realm
-    and is constituted by three spheres
+    and is constituted by three Essences
 ```
 
 The second hemistich excludes a plausible fourth sphere:
 
 ```text
 rūpa-āyatanam [āhāraḥ] na
-    = the visible-form sphere is not nutriment
+    = the visible-form Essence is not nutriment
 
 tena sva-akṣa-mukta-an-anugrahāt
     = because it does not provide the relevant support
@@ -75,14 +75,14 @@ against that definition.
 
 ### Close syntactic construe
 
-> Morsel nutriment in the desire realm is constituted by three spheres. The
-> visible-form sphere is not [nutriment], because it does not support its own
+> Morsel nutriment in the desire realm is constituted by three Essences. The
+> visible-form Essence is not [nutriment], because it does not support its own
 > faculty or the liberated.
 
 ### Bhāṣya-informed study translation
 
 > Morsel nutriment occurs only in the desire realm and is constituted by the
-> three desire-realm spheres of odor, taste, and tangible. It may be gross or
+> three desire-realm Essences of odor, taste, and tangible. It may be gross or
 > subtle, and sustaining influences not literally swallowed may be included
 > under its subtle form. Visible form itself is not nutriment, because
 > nutriment must support the faculties and their material elements, whereas
@@ -93,7 +93,7 @@ against that definition.
 > distinction: they may see pleasing food without receiving that sustaining
 > benefit from its appearance.
 
-The identification of the three spheres, the gross/subtle distinction, the
+The identification of the three Essences, the gross/subtle distinction, the
 functional definition of nutriment, and the contact analysis are Bhāṣya
 determinations.
 
@@ -114,11 +114,11 @@ determinations.
 | audārika | gross / coarse | ordinary form of morsel nutriment |
 | sūkṣma | subtle | sustaining material influence not necessarily coarsely swallowed |
 | kāmadhātu | desire realm | sole realm in which morsel nutriment occurs |
-| tryāyatanātmaka | constituted by three spheres | odor, taste, and tangible |
-| gandhāyatana | odor sphere | first constituent of morsel nutriment |
-| rasāyatana | taste sphere | second constituent of morsel nutriment |
-| spraṣṭavyāyatana | tangible sphere | third constituent of morsel nutriment |
-| rūpāyatana | visible-form sphere | explicitly excluded from nutriment |
+| tryāyatanātmaka | constituted by three Essences | odor, taste, and tangible |
+| gandhāyatana | odor Essence | first constituent of morsel nutriment |
+| rasāyatana | taste Essence | second constituent of morsel nutriment |
+| spraṣṭavyāyatana | tangible Essence | third constituent of morsel nutriment |
+| rūpāyatana | visible-form Essence | explicitly excluded from nutriment |
 | abhyavaharaṇa | ingestion / taking in | ordinary operation associated with morsel nutriment |
 | gandhāhāra | subsisting on odor | explanation of subtle nutriment for intermediate beings |
 | niḥṣyanda | residual outflow | said to be absent for gods and primordial beings receiving subtle nutriment |
@@ -297,8 +297,8 @@ vak:VAK_3_39
 
 vak:MorselNutriment
     vak:hasRealm vak:DesireRealm ;
-    vak:hasConstituentSphere vak:OdorSphere,
-        vak:TasteSphere, vak:TangibleSphere ;
+    vak:hasConstituentEssence vak:OdorEssence,
+        vak:TasteEssence, vak:TangibleEssence ;
     vak:mayHaveMode vak:Gross, vak:Subtle ;
     vak:hasFunction vak:SustainingFacultiesAndGreatElements .
 

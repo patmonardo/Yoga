@@ -167,7 +167,7 @@ also is an object of craft-related mind. These are mental consciousnesses
 only. The five groups of sensory consciousness, however, prepare
 deportment-related and craft-related activity. Others say that there
 is mental consciousness brought forth by deportment which takes the
-twelve sense-fields as its objects.
+twelve Essences as its objects.
 
 Now, among these twenty minds, which is immediately successive to
 which? First, among the eight desire-realm kinds, ten minds arise
@@ -282,7 +282,7 @@ characteristic—for example, “material form has being affected as
 its characteristic,” and so forth; attention to the general
 characteristic, associated with the sixteen aspects; and attention
 based on resolve, in contemplation of the unattractive, the immeasurables,
-formless liberations, spheres of mastery, spheres of totality, and
+formless liberations, Essences of mastery, Essences of totality, and
 so forth. One makes the noble path manifest immediately after any
 of the three kinds of attention, and after it any of the three
 kinds of attention. On this account the statement “one develops
@@ -317,7 +317,7 @@ not approve this [explanation].
 
 For someone attaining arhatship supported by the preparatory attainment,
 the emergence-mind belongs either to that level or to the desire
-realm. When supported by the sphere of nothingness, it belongs either
+realm. When supported by the Essence of nothingness, it belongs either
 to that level or to the summit of existence. In the remaining cases
 it belongs only to the same level.
 
@@ -458,7 +458,7 @@ it should not be extended indiscriminately to every maturation-born
 or creation mind in every realm. The following sentence explicitly
 identifies sensory consciousnesses as preparatory for deportment and
 craft, while another teachers' account permits deportment-produced
-mental consciousness to range over all twelve sense-fields. The
+mental consciousness to range over all twelve Essences. The
 translation retains the pronoun rather than supplying an exhaustive
 object theory for all four neutral kinds.
 

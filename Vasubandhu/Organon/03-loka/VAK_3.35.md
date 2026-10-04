@@ -59,7 +59,7 @@ at the formless threshold,
     one is upward-going
 ```
 
-The Bhāṣya identifies the threshold as the approach to the sphere of infinite
+The Bhāṣya identifies the threshold as the approach to the Essence of infinite
 space. The four range toward form, sound, tangible, and dharma in the fourth
 dhyāna; the upward-going one is a dharma-ranging directed to the formless
 realm.
@@ -117,8 +117,8 @@ are Bhāṣya determinations.
 
 | Sanskrit | Controlled rendering | Determination in this unit |
 |---|---|---|
-| arūpisāmanta | formless threshold | approach attainment to the sphere of infinite space |
-| ākāśānantyāyatanasāmantaka | threshold of the sphere of infinite space | Bhāṣya's exact specification of `arūpisāmanta` |
+| arūpisāmanta | formless threshold | approach attainment to the Essence of infinite space |
+| ākāśānantyāyatanasāmantaka | threshold of the Essence of infinite space | Bhāṣya's exact specification of `arūpisāmanta` |
 | rūpaga | form-going / form-directed | taking the fourth dhyāna as object-support |
 | ūrdhvaga | upward-going | taking the formless realm as object-support |
 | maula | fundamental attainment | fully established formless attainment, contrasted with its threshold |

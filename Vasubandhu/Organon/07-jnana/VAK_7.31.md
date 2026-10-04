@@ -34,7 +34,7 @@ hasti-ādi-saptaka-balam | spraṣṭavya-āyatanam | ca | tat
 | `anye` | nominative plural masculine | others [say] |
 | `daśādhikam` | nominative singular neuter adjective | greater by a factor of ten, as glossed |
 | `hastyādisaptakabalam` | nominative singular neuter compound | strength of the sevenfold series beginning with the elephant |
-| `spraṣṭavyāyatanam` | nominative singular neuter compound | the tangible sense-field |
+| `spraṣṭavyāyatanam` | nominative singular neuter compound | the tangible Essence |
 | `ca` | particle | also, and |
 | `tat` | nominative singular neuter pronoun | that bodily strength |
 
@@ -61,7 +61,7 @@ single unspecified quantity ten greater than an elephant.
 **Material classification.** `Tat` resumes bodily strength.
 The prose resolves `spraṣṭavyāyatanam` through
 `spraṣṭavyāyatanasvabhāvam`: its nature belongs to the
-tangible sense-field. This is a classificatory statement,
+tangible Essence. This is a classificatory statement,
 not a claim that the Buddha's strength is the entirety
 of everything tangible.
 
@@ -69,7 +69,7 @@ of everything tangible.
 others [say it is] in each joint. The strength of the
 sevenfold series beginning with the elephant increases
 tenfold. That bodily strength also belongs to the tangible
-sense-field.
+Essence.
 
 ## 5. Translation
 
@@ -78,7 +78,7 @@ sense-field.
 > Nārāyaṇa-strength is in the body; others place it in
 > the joints. The strength of the sevenfold series beginning
 > with the elephant increases tenfold. That strength belongs
-> to the tangible sense-field.
+> to the tangible Essence.
 
 ### Bhāṣya-informed study translation
 
@@ -95,7 +95,7 @@ sense-field.
 > larger measure more fitting.
 >
 > Bodily strength, in everyone, belongs to the tangible
-> sense-field. The principal account identifies it as a
+> Essence. The principal account identifies it as a
 > special determination of the great elements. Others
 > regard it as derived form, distinct from the seven
 > [derived tangibles].

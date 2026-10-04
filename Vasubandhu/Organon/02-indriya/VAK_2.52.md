@@ -12,6 +12,11 @@
 >
 > anyo 'nyaṃ navabhūmis tu mārgaḥ samaviśiṣṭayoḥ // 2.52 //
 
+The commentary's definition begins at 85.08. The verse's Path
+exception is recited at 87.05 and 87.10; its explanation closes
+at 87.18–19. The question extending the rule to worldly qualities
+begins at 87.20 and is treated with VAK 2.53.
+
 ## 3. Padaccheda
 
 ```text
@@ -87,31 +92,14 @@ Path-dharma; “one another” distributes causal reach across the nine levels.
 
 ### Bhāṣya-informed translation
 
-> An earlier dharma is homogeneous cause for a later similar dharma ordinarily only within its own class and meditative level. The Path is exceptional: because it is adventitious to the nine levels and is not appropriated by their respective cravings, a Path-dharma in one level can become homogeneous cause for a future Path-dharma in another—but only when the result is equal or superior, never deliberately inferior.
+> An earlier dharma is homogeneous cause for a later similar dharma ordinarily only within its own class and level. The Path is exceptional: because it is adventitious to its levels and is not appropriated by their respective cravings, a Path-dharma in one level can be homogeneous cause for a future Path-dharma in another—but only for an equal or superior result, not an inferior one. The negative in the last clause is supplied from the stated restriction; the witness reads “is cause of the inferior.”
 
-## 6. Philosophical Translation
+## 6. Limited Organon Reading
 
-> Homogeneous causality is the transmission of determinate capacity through time. Ordinary formations reproduce their type within an inherited class and level. Cultivated Path-form, however, can cross those level-bound enclosures because it operates within them without belonging to their craving. Its continuation is developmental rather than merely repetitive: an achieved form grounds what preserves or intensifies it.
-
-The causal direction is:
-
-```text
-prior similar determination
-    → equal later determination
-    OR
-    → superior later determination
-
-superior cultivated determination
-    ↛ deliberately inferior homogeneous result
-```
-
-**Organon interpretation—not literal Bhāṣya doctrine.** Facultyhood is read
-as a Transcendental Time Determination of Śuddha Sattva by which a prior
-capacity continues in kind and may be strengthened into an equal or superior
-Path-capacity. This is
-causal priority and graded transmission, not a universal linear biography:
-Cognition names the universal form of this knowing, while Ideas are the
-particular levels, grades, and objects carried by the series.
+The passage distinguishes ordinary class- and level-bound homogeneous
+causality from the Path's cross-level reach, which is limited by temporal
+priority and the equal-or-superior condition. This is a local causal
+determination, not a general metaphysics of progress.
 
 ## 7. Technical Vocabulary
 
@@ -123,15 +111,11 @@ particular levels, grades, and objects carried by the series.
 | sva-bhūmi | own level / plane | ordinary level-bound restriction upon the causal series |
 | agraja | prior-born | temporal priority belonging to the definition of the cause |
 | mārga | Path | conditioned liberating series able to cross the nine levels |
-| nava-bhūmi | nine levels | preliminary concentration, intermediate concentration, four concentrations, and three formless attainments |
+| ordinary nine levels | desire realm and eight concentration/formless levels | class-and-level range used for ordinary homogeneous causality |
+| Path's nine levels | access concentration, intermediate concentration, four concentrations, and three formless levels | special cross-level range of Path causality |
 | āgantuka | adventitious / not native | present within a level without appropriation by its craving |
 | sama-viśiṣṭa | equal or superior | permitted qualitative direction of Path causality |
 | hetūpacaya | accumulation of causes | strengthening that determines relative equality or superiority |
-| prayogaja | produced through application | quality generated through deliberate practice rather than birth alone |
-| śrutamayī | born of hearing | learned quality whose causal reach varies by realm |
-| cintāmayī | born of reflection | reflected quality admitted in the desire realm in this matrix |
-| bhāvanāmayī | born of cultivation | cultivated quality operating in the form and formless realms |
-| upapatti-pratilambhika | obtained through birth | naturally acquired quality contrasted with deliberate application |
 
 `Agraja` is temporal, not merely logical, priority. `Sabhāga` therefore names
 a serial causal relation rather than static resemblance.
@@ -172,14 +156,6 @@ AND NOT AppropriatedBy(CravingOf(level), x)
     → AdventitiousTo(x, level)
 ```
 
-The principal monotonicity constraint is:
-
-```text
-ProducedThroughApplication(x)
-AND SabhagaHetu(x, y)
-    → Grade(y) ≥ Grade(x)
-```
-
 The Path divisions have decreasing forward reach:
 
 ```text
@@ -195,94 +171,18 @@ WeakFacultyPath  → weak OR sharp future Path
 SharpFacultyPath → sharp future Path only
 ```
 
-The modes of produced knowledge are realm-indexed:
-
-```text
-DesireRealm:
-    Hearing    → Hearing OR Reflection
-    Reflection → Reflection
-
-FormRealm:
-    Hearing     → Hearing OR Cultivation
-    Cultivation → Cultivation
-
-FormlessRealm:
-    Cultivation → Cultivation
-```
-
-These matrices are Bhāṣya determinations. The kārikā itself gives the compact
-ordinary rule and the equal-or-superior Path exception.
+These divisions and faculty grades are Bhāṣya determinations. The kārikā
+itself gives the compact ordinary rule and the equal-or-superior Path
+exception.
 
 ## 9. Interpretive Note
 
-VAK 2.52 turns homogeneous outflow into an explicitly genetic series. The
-cause must be earlier, similar, and normally enclosed within the same class
-and level. A homogeneous stream therefore does not merely emit repeated
-tokens; it transmits a determinate capacity under typed constraints.
-
-The Python `yield` analogy now becomes stronger but also more exact:
-
-```python
-def cultivated_path(current):
-    while current.has_future_path:
-        future = current.next_equal_or_superior()
-        yield future
-        current = future
-```
-
-The stateful generator preserves provenance from an earlier determination to
-a later one. The Path adds a monotonic grade constraint. Yet `sabhāga-hetu`
-is a doctrinal causal relation, not literally a computation, and ordinary
-birth-acquired or defiled series obey different matrices.
-
-The most important determination is the Path's `āgantuka` status:
-
-```text
-operative within a Bhūmi
-    + not appropriated by that Bhūmi's craving
-    = able to transmit across Bhūmis
-```
-
-This is not yet an escape from conditioned reality. It is a conditioned
-series whose causal membership is no longer fixed by ordinary realm-belonging.
-That makes Path knowledge technically visible as directed development rather
-than a mysterious leap.
-
-For an Ocular Schema, a homogeneous edge must therefore expose:
-
-```text
-source and target
-temporal priority
-similarity criterion
-class membership
-level membership
-grade relation
-mode of acquisition
-appropriation status
-```
-
-Without those fields, “same kind” hides the actual causal Logic.
-
-The reception question should remain historically separate. Later Yogācāra
-appropriation of Kośa/Bhāṣya analysis can establish scholastic inheritance
-without making Yogācāra identical with Sarvāstivāda. This verse itself
-belongs to the causal system expounded and criticized within the Bhāṣya; it
-does not state a later lineage relation.
-
-The textual layers are:
-
-```text
-kārikā
-    → defines ordinary homogeneous cause and the Path exception
-
-Bhāṣya
-    → supplies the nine levels, adventitious status, grades,
-      Path divisions, faculty distinctions, and knowledge matrices
-
-Organon reconstruction
-    → models homogeneous causality as a typed,
-      provenance-preserving, monotonic continuation
-```
+VAK 2.52 specifies a prior, similar cause ordinarily restricted to its own
+class and level, then explains the Path's exceptional cross-level range and
+its equal-or-superior limit. In the project's Hub reading, this is a
+determination on the *hetu* side of the `hetu:pratyaya` inquiry; the verse
+does not itself define *pratyaya*. The Hub's organization of that dyad is a
+project-level synthesis, not a claim in the Bhāṣya.
 
 ## 10. OWL++ Seed
 
@@ -300,7 +200,6 @@ organon:similarTo a organon:SymmetricProperty .
 organon:belongsToClass a organon:ObjectProperty .
 organon:belongsToLevel a organon:ObjectProperty .
 organon:hasGrade a organon:ObjectProperty .
-organon:hasAcquisitionMode a organon:ObjectProperty .
 organon:appropriatedBy a organon:ObjectProperty .
 
 vak:OrdinarySabhagaRule a organon:CausalRule ;
@@ -323,6 +222,12 @@ organon:OcularHomogeneousSchema a organon:OcularSchema ;
         organon:ClassMembership,
         organon:LevelMembership,
         organon:GradeRelation,
-        organon:AcquisitionMode,
         organon:AppropriationStatus .
 ```
+
+## 11. Review Status
+
+Provisional paired study of VAK 2.52. The homogeneous-cause discussion
+runs from 85.08 through the Path explanation at 87.18–19. The question
+and application-produced qualities beginning at 87.20 are reserved for
+VAK 2.53. Damaged readings and contextual repairs remain marked.

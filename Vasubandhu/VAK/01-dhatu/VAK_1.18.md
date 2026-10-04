@@ -21,7 +21,7 @@ Source label in GRETIL: `VAkK_1.18`. Project-normalized label: `VAkK_1.18`.
 | sarva-saṃgrahaḥ | sarva-saṃgrahaḥ | inclusion of all |
 | ekena | ekena | by one |
 | skandhena | skandhena | aggregate |
-| āyatanena ca | āyatanena ca | and sphere |
+| āyatanena ca | āyatanena ca | and Essence |
 | dhātunā ca | dhātunā ca | and domain |
 | svabhāvena | svabhāvena | by own-nature |
 | para-bhāva-viyogataḥ | para-bhāva-viyogataḥ | because of separation from other-nature |
@@ -33,7 +33,7 @@ The verse gives the rule of inclusion:
 ```text
 all dharmas are included
     by one aggregate
-    by one sphere
+    by one Essence
     by one domain
 ```
 
@@ -41,11 +41,11 @@ The ground is **svabhāva**: each dharma is included by its own-nature because i
 
 ## 5. Literal Translation
 
-> The inclusion of all is by one aggregate, by one sphere, and by one domain, according to own-nature, because of separation from other-nature.
+> The inclusion of all is by one aggregate, by one Essence, and by one domain, according to own-nature, because of separation from other-nature.
 
 ## 6. Philosophical Translation
 
-> Every dharma is included in its proper aggregate, sphere, and domain according to its own-nature. Its inclusion is determined by what it is, and by its separation from what it is not.
+> Every dharma is included in its proper aggregate, Essence, and domain according to its own-nature. Its inclusion is determined by what it is, and by its separation from what it is not.
 
 Organon rendering:
 
@@ -57,7 +57,7 @@ Organon rendering:
 |---|---|---|
 | saṃgraha | inclusion / collection | systematic gathering |
 | skandha | aggregate | aggregate-form of inclusion |
-| āyatana | sphere | relational inclusion |
+| āyatana | Essence | relational inclusion |
 | dhātu | domain | domain inclusion |
 | svabhāva | own-nature | self-determination |
 | parabhāva | other-nature | what the dharma is not |
@@ -80,7 +80,7 @@ classification
 
 ## 9. Interpretive Note
 
-This is the logical heart of the taxonomy. The systems of aggregate, sphere, and domain are not competing lists. They are modes of including dharmas according to svabhāva.
+This is the logical heart of the taxonomy. The systems of aggregate, Essence, and domain are not competing lists. They are modes of including dharmas according to svabhāva.
 
 Organon note:
 
@@ -116,5 +116,5 @@ vak:InclusionByOwnNature
 ## 11. Commit History
 
 - Upgraded VAK_1.18 with expanded Organon analysis.
-- Establishes inclusion by aggregate, sphere, and domain according to svabhāva.
+- Establishes inclusion by aggregate, Essence, and domain according to svabhāva.
 - Reads classification as self-determination through distinction from other-nature.

@@ -22,11 +22,11 @@
 //! ```
 //!
 //! `classify` is a projection, not a partition and not a bijection.
-//! Many contents share one Sphere and one Domain. If it were injective,
+//! Many contents share one Essence and one Domain. If it were injective,
 //! avijñapti could not be rūpa and dharmāyatana at once.
 //!
 //! ORGANON, fenced, not a translation: Skandha is the gathered answer,
-//! Āyatana is the capacity/field Sphere (Essence, not Concept), and only
+//! Āyatana is the capacity/field Essence (not Concept), and only
 //! the support–object–cognition closure is Concept-grade. `Position` is
 //! not "the Concept enum." The Concept is the closure, not the list.
 
@@ -88,22 +88,22 @@ fn eighteen_positions() -> impl Iterator<Item = Position> {
     ])
 }
 
-// 2. Spheres. Twelve, not eighteen. Six cognitions share mana-āyatana.
+// 2. Essences. Twelve, not eighteen. Six cognitions share mana-āyatana.
 
 #[derive(Clone, Copy, Debug, Eq, PartialEq)]
-enum Sphere {
+enum Essence {
     Faculty(Sense),
     Field(Sense),
     Mind,
     Dharma,
 }
 
-fn twelve_spheres() -> impl Iterator<Item = Sphere> {
+fn twelve_essences() -> impl Iterator<Item = Essence> {
     SENSES
         .into_iter()
-        .map(Sphere::Faculty)
-        .chain(SENSES.into_iter().map(Sphere::Field))
-        .chain([Sphere::Mind, Sphere::Dharma])
+        .map(Essence::Faculty)
+        .chain(SENSES.into_iter().map(Essence::Field))
+        .chain([Essence::Mind, Essence::Dharma])
 }
 
 // 3. Gathered kind. `None` is the unconditioned's datum, not a missing field.
@@ -146,7 +146,7 @@ enum Content {
 struct Classified {
     content: Content,
     gathered: Option<Gathered>,
-    sphere: Sphere,
+    essence: Essence,
     position: Position,
 }
 
@@ -156,7 +156,7 @@ fn classify(content: Content) -> Classified {
         Faculty(s) => Classified {
             content,
             gathered: Some(Gathered::Rupa),
-            sphere: Sphere::Faculty(s),
+            essence: Essence::Faculty(s),
             position: Position::Sense {
                 channel: s,
                 role: SenseRole::Support,
@@ -165,17 +165,17 @@ fn classify(content: Content) -> Classified {
         Field(s) => Classified {
             content,
             gathered: Some(Gathered::Rupa),
-            sphere: Sphere::Field(s),
+            essence: Essence::Field(s),
             position: Position::Sense {
                 channel: s,
                 role: SenseRole::Object,
             },
         },
-        // Rūpa that is not a sense-field.
+        // Rūpa that is not an Essence.
         Avijnapti => Classified {
             content,
             gathered: Some(Gathered::Rupa),
-            sphere: Sphere::Dharma,
+            essence: Essence::Dharma,
             position: Position::DharmaDhatu,
         },
         Feeling => mental_object(content, Gathered::Vedana),
@@ -185,7 +185,7 @@ fn classify(content: Content) -> Classified {
             content,
             gathered: Some(Gathered::Vijnana),
             // Six vijñānas, one mana-āyatana. The split returns only as Domain.
-            sphere: Sphere::Mind,
+            essence: Essence::Mind,
             position: match c.channel {
                 Channel::Sense(s) => Position::Sense {
                     channel: s,
@@ -197,7 +197,7 @@ fn classify(content: Content) -> Classified {
         Unconditioned => Classified {
             content,
             gathered: None,
-            sphere: Sphere::Dharma,
+            essence: Essence::Dharma,
             position: Position::DharmaDhatu,
         },
     }
@@ -207,7 +207,7 @@ fn mental_object(content: Content, gathered: Gathered) -> Classified {
     Classified {
         content,
         gathered: Some(gathered),
-        sphere: Sphere::Dharma,
+        essence: Essence::Dharma,
         position: Position::DharmaDhatu,
     }
 }
@@ -325,7 +325,7 @@ fn as_manas(previous: Cognition, status: ManasStatus) -> Support {
 fn eye_example() -> Result<Encounter, ClassError> {
     let visible = classify(Content::Field(Sense::Eye));
     assert_eq!(visible.gathered, Some(Gathered::Rupa));
-    assert_eq!(visible.sphere, Sphere::Field(Sense::Eye));
+    assert_eq!(visible.essence, Essence::Field(Sense::Eye));
     assert_eq!(
         visible.position,
         Position::Sense {
@@ -380,7 +380,7 @@ fn cross_map_example() {
         channel: Channel::Sense(Sense::Eye),
         occurrence: 42,
     }));
-    assert_eq!(seeing.sphere, Sphere::Mind);
+    assert_eq!(seeing.essence, Essence::Mind);
     assert_eq!(
         seeing.position,
         Position::Sense {
@@ -429,18 +429,18 @@ fn final_citta_is_still_manas() -> Support {
 fn schema_counts() {
     assert_eq!(sensory_positions().count(), 15);
     assert_eq!(eighteen_positions().count(), 18);
-    assert_eq!(twelve_spheres().count(), 12);
+    assert_eq!(twelve_essences().count(), 12);
 }
 
 // 6. Architectural wager.
 //
 // Skandha asks: under what gathered kind is this content considered?
-// Āyatana asks: in what capacity/field sphere is it available?
+// Āyatana asks: in what capacity/field Essence is it available?
 // Dhātu asks: which position does it occupy — and, for manas, in which role?
 //
 // Overlap is the datum. Avijñapti stays rūpa while sitting in dharmāyatana
 // and dharmadhātu. The unconditioned sits in those same two and in no skandha.
-// Six cognitions are one skandha and one Sphere, then six cognition-domains.
+// Six cognitions are one skandha and one Essence, then six cognition-domains.
 //
 // If a source distinction defeats this, revise the types. Do not restore
 // a flat 5/12/18 mnemonic and call it a movement.

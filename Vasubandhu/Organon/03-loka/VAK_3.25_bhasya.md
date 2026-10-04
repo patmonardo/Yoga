@@ -95,7 +95,7 @@ even in a single moment. Suppose, for example, that under the power of greed
 one deprives a living being of life. The delusion is ignorance; the volition
 is formations; the cognition of the object is consciousness; the four
 aggregates co-arising with consciousness are name-and-form; the faculties
-established in name-and-form are the six sense spheres; their impingement is
+established in name-and-form are the six Essences; their impingement is
 contact; the experiencing of contact is feeling; the greed is craving; the
 associated enveloping afflictions are appropriation; the bodily and verbal
 karma arising from them is becoming; the emergence of those dharmas is birth,

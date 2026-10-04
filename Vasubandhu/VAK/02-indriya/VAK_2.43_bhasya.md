@@ -15,7 +15,7 @@ This attainment, called cessation, is likewise a cessation of citta and caittas.
 
 Its difference is this. The attainment of cessation is entered for the sake of abiding. Practitioners enter it through an act of attention preceded by the conception of peaceful abiding. The attainment of non-ideation, by contrast, is entered through an act of attention preceded by the conception of release.
 
-The attainment of non-ideation belongs to the fourth dhyāna. This attainment belongs to the summit of existence: it is situated only on the level of the sphere of neither-ideation-nor-non-ideation.
+The attainment of non-ideation belongs to the fourth dhyāna. This attainment belongs to the summit of existence: it is situated only on the level of the Essence of neither-ideation-nor-non-ideation.
 
 It is wholesome—neither afflicted nor indeterminate. Because it is wholesome, its result can be experienced at two times and can also remain unfixed. It may be experienced in the immediately following life or in a later life. Its maturation is not necessary in every case, since one may attain final nirvāṇa in the present life. When it matures at the summit of existence, its result consists of the four immaterial aggregates.
 
@@ -31,7 +31,7 @@ One answer says that mastery over the attainment is equivalent to its having bee
 
 The Kāśmīra Vaibhāṣikas reject this. The bodhisattva does not produce it beforehand, because awakening is acquired in thirty-four moments of citta: sixteen moments of direct realization of the truths and eighteen moments connected with dispassion from the summit of existence—the nine uninterrupted paths and nine paths of liberation by which its nine grades of affliction are abandoned.
 
-Because the bodhisattva enters certainty already dispassionate toward the sphere of nothingness, the lower levels no longer have to be abandoned. Within these thirty-four moments no dissimilar citta can intervene; therefore there is no occasion for entering the attainment of cessation.
+Because the bodhisattva enters certainty already dispassionate toward the Essence of nothingness, the lower levels no longer have to be abandoned. Within these thirty-four moments no dissimilar citta can intervene; therefore there is no occasion for entering the attainment of cessation.
 
 If such a dissimilar citta did intervene, one might say that the bodhisattva intended to rise from his seat. But bodhisattvas are resolved not to rise. The teachers outside Kashmir reply that this means they do not rise from the path destroying the contaminants, not that no other attainment can intervene. The Kāśmīra teachers retain their former account.
 

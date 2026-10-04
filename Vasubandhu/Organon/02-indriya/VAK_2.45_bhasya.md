@@ -330,7 +330,7 @@ as a hard stone, thrown or not thrown, and thrown strongly or
 weakly, establish a particular transformation of their great
 Elements [the example is compressed]. Formations differing only
 slightly appear similar despite alteration. But the last moment
-of sound or flame, and the six Spheres at final nirvāṇa, have
+of sound or flame, and the six Essences at final nirvāṇa, have
 no following moment; thus alteration of persistence would not
 apply universally. Persistence alone is not stated as the mark,
 but alteration of persistence. Wherever persistence exists,

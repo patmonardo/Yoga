@@ -57,7 +57,7 @@ Organon rendering:
 |---|---|---|
 | saṃskṛta | conditioned | constructed by grounds and conditions |
 | skandha | aggregate | structured aggregate-field |
-| rūpa | form / material form-bearing domain | first aggregate |
+| rūpa | Form / material form-bearing domain | first aggregate |
 | adhvā | temporal course | conditioned dharmas across time |
 | kathāvastu | basis of discourse | what doctrinal speech concerns |
 | vastu | real thing / real basis | analyzable reality |

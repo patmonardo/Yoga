@@ -12,6 +12,10 @@
 >
 > cittānuvartinaḥ kālaphalādiśubhatādibhiḥ // 2.51 //
 
+The commentary opens with the question at 83.25, cites the kārikā
+at 83.26–27, and develops the account through the closing defense
+at 85.06–07. VAK 2.52 begins at 85.08 with the homogeneous cause.
+
 ## 3. Padaccheda
 
 ```text
@@ -28,19 +32,19 @@ kālaphalādiśubhatādibhiḥ     → kāla-phala-ādi-śubhatā-ādibhiḥ
 
 | Form | Morphology | Lexical force here |
 |---|---|---|
-| caittāḥ | nominative masculine plural | mental factors associated with citta |
+| caittāḥ | nominative masculine plural | mental factors associated with consciousness |
 | dvau saṃvarau | nominative masculine dual | the two restraints |
 | teṣām | genitive plural pronoun | belonging to those [mental factors and restraints] |
-| cetasaḥ | genitive neuter singular | belonging to citta |
+| cetasaḥ | genitive neuter singular | belonging to consciousness |
 | lakṣaṇāni | nominative neuter plural | conditioned marks |
 | ca | conjunction | and |
-| citta-anuvartinaḥ | nominative plural compound | followers of citta |
+| citta-anuvartinaḥ | nominative plural compound | followers of consciousness |
 | kāla-phala-ādi | instrumental compound | by time, result, and the remaining relevant correspondences |
 | śubhatā-ādibhiḥ | instrumental plural | by wholesomeness and the other ethical qualities |
 
 `Caittāḥ` becomes `caittā` before the following voiced consonant. `Teṣāṃ
 cetasaḥ` gives two genitive dependents of `lakṣaṇāni`: the marks belonging to
-those accompanying dharmas and the marks belonging to citta.
+those accompanying dharmas and the marks belonging to consciousness.
 
 ## 4. Grammar
 
@@ -54,8 +58,8 @@ teṣāṃ cetasaḥ ca lakṣaṇāni
 
 mental factors,
 the two restraints,
-and their marks together with citta's marks
-    → are followers of citta
+and their marks together with consciousness's marks
+    → are followers of consciousness
 ```
 
 The instrumental compounds state the respects in which they follow:
@@ -94,52 +98,41 @@ separately existing result-object.
 
 ### Close syntactic construe
 
-> The mental factors, the two restraints, and the conditioned marks belonging to them and to citta are followers of citta through time, result, and the rest, and through wholesomeness and the other ethical qualities.
+> The mental factors, the two restraints, and the conditioned marks belonging to them and to consciousness are followers of consciousness through time, result, and the rest, and through wholesomeness and the other ethical qualities.
 
 ### Bhāṣya-informed translation
 
-> Citta-followers comprise all mental factors associated with citta, the restraint of concentration and the uncontaminated restraint, and the conditioned marks belonging to these and to citta. They form one coordinated event-profile with citta by arising, enduring, and ceasing together in the same temporal period; by participating together in result, maturation, and homogeneous continuation; and by sharing its wholesome, unwholesome, or indeterminate quality.
+> Followers of consciousness comprise all mental factors associated with consciousness, the restraint of concentration and the uncontaminated restraint, and the conditioned marks belonging to these and to consciousness. They correspond with consciousness in arising, persisting, and ceasing within the same temporal period; in result, maturation, and homogeneous outflow; and in wholesome, unwholesome, or indeterminate status.
 
-## 6. Philosophical Translation
+## 6. Limited Organon Reading
 
-> A Citta-event is not an isolated point accompanied by accidental attributes. It is an internally coordinated occurrence whose members share a temporal genesis, causal consequences, continuity, and ethical determination. Membership in that occurrence is established by invariants across the whole profile, not by bare simultaneity.
-
-Thus:
-
-```text
-co-presence
-    + shared temporal profile
-    + shared result profile
-    + shared ethical profile
-    = citta-followership
-```
-
-**Organon interpretation—not literal Bhāṣya doctrine.** Read the faculty
-here as a Transcendental Time Determination of Śuddha Sattva that lets this
-Citta-complex be one occurrence: shared arising, duration, cessation, and
-coordinated result-profile, not mere clock-time simultaneity. Cognition names the
-universal determination of knowing; the Idea is the particular object and
-ethical-causal profile disclosed in that occurrence.
+This verse specifies how the `citta:caitta` relation is articulated in
+the Bhāṣya: the followers are identified by correspondence across ten
+respects, not by the word “follower” alone. Within the project's Hub
+reading, this dyad is one principial extreme, with `hetu:pratyaya` the
+other, organized by the invariant Hub. That architecture is a project-level
+synthesis; the commentary here neither names the Hub nor identifies it
+as another cause.
 
 ## 7. Technical Vocabulary
 
 | Sanskrit | Controlled rendering | Determination in this unit |
 |---|---|---|
-| caitta | mental factor | conditioned mental operation associated with citta |
-| cittānuvartin | follower of citta | dharma conforming to citta through the ten shared conditions |
+| caitta | mental factor | conditioned mental operation associated with consciousness |
+| cittānuvartin | follower of consciousness | dharma corresponding to consciousness through the ten shared conditions |
 | dhyāna-saṃvara | restraint of concentration | first restraint specified by the Bhāṣya |
 | anāsrava-saṃvara | uncontaminated restraint | second restraint specified by the Bhāṣya |
-| lakṣaṇa | conditioned mark | birth, duration, aging, and impermanence belonging to citta or its followers |
+| lakṣaṇa | conditioned mark | birth, duration, aging, and impermanence belonging to consciousness or its followers |
 | ekotpāda-sthiti-nirodhatā | one arising, duration, and cessation | shared lifecycle of the coordinated occurrence |
 | ekādhva-patitatva | falling within one temporal period | common location in the past, present, or future phase |
-| phala | result | consequence in which citta and follower participate together |
+| phala | result | consequence in which consciousness and follower participate together |
 | vipāka | maturation-result | karmically matured result shared within the profile |
-| niḥṣyanda | homogeneous outflow | continuation in kind shared by citta and its follower |
+| niḥṣyanda | homogeneous outflow | continuation in kind shared by consciousness and its follower |
 | śubhatā | wholesomeness | first member of the shared ethical classification |
 | satkāya-dṛṣṭi | view of a real personality | example used in the Bhāṣya's textual proof about causal scope |
 
 `Anuvartin` does not mean merely “occurring afterward.” The follower conforms
-to and accompanies citta through a common indexed structure.
+to and accompanies consciousness through the specified correspondences.
 
 `Niḥṣyanda` should remain distinct from `āsrava`. The former is homogeneous
 causal continuation; the latter concerns contaminating outflow. English
@@ -161,7 +154,7 @@ CittaFollower(x, c) :=
     AND EthicalConcordance(x, c)
 ```
 
-Ethical concordance expands by the current value of citta:
+Ethical concordance follows the status of consciousness:
 
 ```text
 Wholesome(c)     → Wholesome(x)
@@ -169,28 +162,28 @@ Unwholesome(c)   → Unwholesome(x)
 Indeterminate(c) → Indeterminate(x)
 ```
 
-The smallest citta-complex is counted as follows in the Bhāṣya:
+The smallest consciousness-complex is counted as follows in the Bhāṣya:
 
 ```text
 10 universal mental factors
 + 40 marks belonging to those factors
 + 8 own-marks and secondary marks
-= 58 dharmas for which citta is co-arisen cause
+= 58 dharmas for which consciousness is co-arisen cause
 ```
 
 In the reverse direction:
 
 ```text
 58
-- 4 secondary marks belonging to citta itself
-= 54 dharmas that are co-arisen causes of citta
+- 4 secondary marks belonging to consciousness itself
+= 54 dharmas that are co-arisen causes of consciousness
 ```
 
-An alternative count accepts only fourteen causes of citta:
+An alternative count accepts only fourteen causes of consciousness:
 
 ```text
 10 universal mental factors
-+ 4 primary marks of citta
++ 4 primary marks of consciousness
 = 14
 ```
 
@@ -214,64 +207,12 @@ fail the complete shared-result profile.
 
 ## 9. Interpretive Note
 
-VAK 2.51 turns `cittānuvartin` into a strict membership protocol. A factor
-does not belong internally to a Citta-event merely because it appears nearby
-or bears a mental label. It must share the event's genesis, temporal phase,
-causal consequences, homogeneous continuation, and ethical quality.
-
-This is stronger than event-coordination metadata. It is an Ocular Schema for
-the event's internal causal unity:
-
-```text
-CittaEvent {
-    members,
-    temporalProfile,
-    resultProfile,
-    continuationProfile,
-    ethicalProfile,
-    directionalCausalEdges
-}
-```
-
-The asymmetry between fifty-eight and fifty-four shows why the final field is
-necessary. Membership in one occurrence does not entail that every causal
-edge is reciprocal. The schema must represent both the enclosure and the
-direction of efficacy.
-
-The Python generator analogy illuminates `niḥṣyanda` at the project level:
-
-```python
-def homogeneous_series(state):
-    while state.is_conditioned:
-        yield state.next_of_same_causal_kind()
-```
-
-`yield` preserves suspended state and produces a sequence rather than one
-completed collection. Similarly, homogeneous outflow identifies a
-continuation in kind across a causal series. But the analogy has limits:
-`niḥṣyanda` is a doctrinal result-type, not executable control flow, and it
-must not be confused with contaminating `āsrava`.
-
-The passage also clarifies how Citta can be a Chakra without becoming a
-simple substance. Its unity is the coordinated turning of determinations
-through shared temporal, causal, and ethical profiles. The Kośa makes that
-conditioned structure exact; any Yoga account of Buddhi, Ahaṃkāra, and Manas
-must be related to it later rather than inserted into the primary analysis.
-
-The textual layers are:
-
-```text
-kārikā
-    → names the followers and their shared profiles
-
-Bhāṣya
-    → specifies the two restraints, ten conditions,
-      numerical causal complex, exclusions, and school dispute
-
-Organon reconstruction
-    → models followership as typed event membership
-      and compares homogeneous continuation to a yield stream
-```
+The ten correspondences identify the followers discussed here; they do not
+make every relation reciprocal. The counts of fifty-eight and fifty-four,
+the excluded co-arisen cases, and the ensuing debate over reciprocal
+causation refine the broader definition from VAK 2.50. Keep the Bhāṣya's
+account, objections, and closing defense in view before drawing a stronger
+Organon conclusion.
 
 ## 10. OWL++ Seed
 
@@ -304,8 +245,12 @@ organon:sharesEthicalQualityWith a organon:SymmetricProperty .
 vak:CittaFollower organon:follows vak:Citta ;
     organon:belongsTo organon:CittaEventProfile .
 
-vak:HomogeneousOutflow a organon:ContinuationType ;
-    organon:projectAnalogy organon:StatefulYieldStream .
-
 organon:CoArisen organon:isBroaderThan vak:SahabhuHetu .
 ```
+
+## 11. Review Status
+
+Provisional paired study of VAK 2.51. The source unit runs from the
+question at 83.25 through the closing defense at 85.06–07; VAK 2.52
+begins at 85.08. The conventional translation preserves the full
+sequence of definitions, counts, objections, and reply.

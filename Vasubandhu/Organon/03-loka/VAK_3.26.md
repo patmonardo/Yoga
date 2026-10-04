@@ -93,7 +93,7 @@ middle.
 
 > Ignorance, craving, and appropriation have the functional nature of
 > **affliction**; formations and becoming have the functional nature of
-> **karma**. Differentiated cognition, name-and-form, the six spheres,
+> **karma**. Differentiated cognition, name-and-form, the six Essences,
 > contact, feeling, birth, and aging-and-death are conditioned **supports** of
 > affliction and karma, and those same seven are **results** of prior causes.
 > The past cause and future result are presented compactly because their

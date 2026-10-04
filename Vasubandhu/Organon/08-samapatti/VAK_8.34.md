@@ -119,7 +119,7 @@ immunity to every affliction in every circumstance.
 
 ## 7. Technical Vocabulary
 
-**`Rūpāyatana`.** The visible-form field, not every
+**`Rūpāyatana`.** The visible-form Essence, not every
 material phenomenon without distinction. The prose
 specifies this as the first three releases' object.
 

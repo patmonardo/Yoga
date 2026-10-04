@@ -84,7 +84,7 @@ The second rule is reported under **eke** and is not simply Vasubandhu's own ass
 
 **The defender's argument**
 
-The proposed reason considers an Ārya who gained supramundane dispassion from the sphere of nothingness and later changes faculties while relying upon dhyāna. The former Path-acquisition is relinquished during this transition.
+The proposed reason considers an Ārya who gained supramundane dispassion from the Essence of nothingness and later changes faculties while relying upon dhyāna. The former Path-acquisition is relinquished during this transition.
 
 The defender infers:
 

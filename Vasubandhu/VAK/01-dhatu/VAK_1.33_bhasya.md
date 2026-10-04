@@ -136,7 +136,7 @@ anusmaraṇa
     concentrated and unconcentrated
 ```
 
-Sensory consciousness may occur in dependence upon a present object, but recollection as such belongs only to the mental sphere.
+Sensory consciousness may occur in dependence upon a present object, but recollection as such belongs only to the mental Essence.
 
 ### 3.5 The one-footed horse analogy
 
@@ -190,7 +190,7 @@ The Bhāṣya therefore establishes a graded account of discrimination rather th
 
 - **Provisional meaning:** recollective discrimination
 - **Status:** Bhāṣya definition
-- **Function:** memory operating in the mental sphere, whether concentrated or unconcentrated
+- **Function:** memory operating in the mental Essence, whether concentrated or unconcentrated
 
 ### `vyagra`
 

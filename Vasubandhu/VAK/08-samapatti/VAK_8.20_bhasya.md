@@ -73,7 +73,7 @@ having stated the general rule, he makes an exception
 
 VAK 8.19 had said that one born on a higher ground does not ordinarily make a lower attainment present because it would be useless. The exception is the summit of existence (`bhavāgra`).
 
-A being born there can make present the **uncontaminated sphere of nothingness** (`anāsrava-ākiṃcanyāyatana`). Through that directly present noble attainment, destruction of the outflows occurs.
+A being born there can make present the **uncontaminated Essence of nothingness** (`anāsrava-ākiṃcanyāyatana`). Through that directly present noble attainment, destruction of the outflows occurs.
 
 The prose gives two grounds:
 

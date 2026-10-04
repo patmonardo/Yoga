@@ -34,7 +34,7 @@ Kārikā study: [`VAK_6.30.md`](./VAK_6.30.md). Next: 6.31, sixteenth moment.
 >
 > Detached from desire-domain, or higher: if the ninth grade too is gone, they are
 > free of attachment to the desire-domain — or if prior detachment runs higher, as
-> far as the Sphere of Nothingness — they proceed toward the third fruit. The third
+> far as the Essence of Nothingness — they proceed toward the third fruit. The third
 > is non-return.
 
 ## 4. Movement of the Commentary
