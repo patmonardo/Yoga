@@ -111,12 +111,26 @@ The controlled Organon mapping is **Skandha = Base, Āyatana = Essence,
 Dhātu = Principle**; *rūpa* is **Form**, so *rūpa-skandha* is **Form Base**.
 Keep Dharma untranslated in these compound labels: *dharmaskandha* is
 Dharma Base, *dharmāyatana* is Dharma Essence, and *dharmadhātu* is Dharma
-Principle. These are distinct classifications, not redundant names for one
-thing. In particular, do not conflate *dharmāyatana* with *dharmaskandha*.
+Principle. In the Organon, the Defined Concept of each Dharma is
+`<Base, Essence, Principle>`; the three labels name distinct projections of
+that one Dharma, not separate Dharmas or redundant names. “Dharma Essence”
+means the Essence projection of a Dharma, not an Essence nested inside an
+Essence. Do not conflate *dharmāyatana* with *dharmaskandha*; retain their
+distinct classifications while understanding both within the complete
+Defined Concept. In conventional translation, follow the source's local use
+of the Sanskrit compounds rather than imposing this Organon formulation.
 
-In the Organon reading, Essence is Dharma's *sāra*, its theoretical
-principle. This is a project-level philosophical determination, not a
-lexical claim that *āyatana* means *sāra*.
+At the Āyatana level, Essence is the **Entry** into an Essential Relation of
+an Impure Dharma; this relation comprises all products of Reflective Mind.
+**Mind-Essence** is Reflective Science at this level. Keep this determination
+distinct from Dhātu / Determinate Science. This is a project-level
+determination, not a lexical claim about *āyatana*.
+
+Reflectively, **Mind-Essence** is the Seer as Reflector, and **Dharma-Essence**
+is the Seen. Classify *artha* under the Seen; treat *viṣaya* as a specific
+moment of the Seen. This is an Organon-level relation, not a lexical
+definition. In the sensory schema, preserve the distinction between a
+cognitive Condition and an achieved Object.
 
 Older studies and models still contain previous labels, including Being,
 Domain, Concept, and Essence Base. During the Indriyanirdeśa pass, use the
@@ -131,9 +145,27 @@ materials systematically.
   reverses the project's conceptual path.
 - `dhātu` -> **element** in conventional translation; **Principle** in the
   Organon reading
+- `vijñāna` -> **Cognition** consistently in the project translation; do not
+  alternate with “consciousness”
+- `citta` -> **consciousness** in conventional translation; keep it distinct
+  from Cognition (*vijñāna*) and Mind (*manas*)
+- `manas` -> the **Produced Cognitive Instrument** in the project architecture;
+  equipped with Mind Essence (*mana-āyatana*) and Mind Principle
+  (*manodhātu*). Its production/ownership relation remains open for
+  project discussion; this is not a conventional lexical gloss.
+- `mana-āyatana` -> **Mind Essence**; `manodhātu` -> **Mind Principle** in the
+  Organon reading and project-level **Ordinary Logic**. These are distinct
+  determinations within Manas's cognitive equipment, not synonyms for Manas.
+- `manovijñānadhātu` -> **Mind-Cognition Principle**, distinct from
+  *manodhātu* / **Mind Principle**; project-level **Transcendental Logic**,
+  determined as Abstract Reason (Syllogistic Reasoning). Preserve the
+  conventional reading separately.
+- `dharmadhātu` -> **Dharma Principle**, not Essence Principle.
 - `bhūta` / `mahābhūta` -> **Element**
-- `āyatana` -> **Essence** (the capacity/field determination; not the
-  Concept)
+- `āyatana` -> **Essence**; in the Organon reading, the Entry into an
+  Essential Relation of an Impure Dharma, comprising all products of
+  Reflective Mind; Mind-Essence is Reflective Science at this level. Keep
+  distinct from Dhātu / Determinate Science and from the Concept.
 - `indriya` -> **Faculty**, not “organ” for Faculty-status. Use “organ”
   only for an anatomical part explicitly meant by the Sanskrit.
 - `skandha` -> **aggregate** in conventional translation; **Base** in the

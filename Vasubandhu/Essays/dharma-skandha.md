@@ -9,24 +9,28 @@ The governing thesis is:
 > **Dharma-skandha is the scientific product in which Dharma comprehends itself as Skandha, Āyatana, and Dhātu.**
 
 The current project mapping is **Skandha = Base, Āyatana = Essence, and
-Dhātu = Principle**; *rūpa-skandha* is **Form Base**. Keep Dharma
-untranslated in the corresponding compounds: Dharma Base, Dharma Essence,
-and Dharma Principle. Older terminology elsewhere in this essay and in
-existing studies has not yet been globally reconciled; that inventory is
-deferred until the Indriyanirdeśa chapter is complete.
+Dhātu = Principle**; *rūpa-skandha* is **Form Base**. The Defined Concept of
+each Dharma is `<Base, Essence, Principle>`. Its projections are named
+Dharma Base, Dharma Essence, and Dharma Principle: one Dharma under three
+distinct determinations, not three separate Dharmas. “Dharma Essence” is
+not an Essence nested inside an Essence. Older terminology elsewhere in
+this essay and in existing studies has not yet been globally reconciled;
+that inventory is deferred until the Indriyanirdeśa chapter is complete.
 
 ## 1. The Threefold Consideration of Dharma
 
-The Kośa does not present skandha, āyatana, and dhātu as three unrelated inventories. The same dharmas are reorganized according to three distinct systematic functions.
+The Kośa does not present skandha, āyatana, and dhātu as three unrelated
+inventories. In the Organon reading, every Dharma has one Defined Concept
+articulated through three distinct systematic functions.
 
 ```text
-Dharma as Skandha
+Dharma Base
     = Base: constituted and gathered multiplicity
 
-Dharma as Āyatana
+Dharma Essence
     = Essence: relational capacity/field of manifestation and cognition
 
-Dharma as Dhātu
+Dharma Principle
     = Principle: differentiated determination within the complete system
 ```
 
@@ -38,14 +42,19 @@ aggregation
     → systematic determination
 ```
 
-This sequence is not imposed by attaching foreign labels to Buddhist lists. It must be inferred through the Kośa's explicit cross-mappings. The same vijñānaskandha, for example, is considered as mana-āyatana in the
+This sequence is not imposed by attaching foreign labels to Buddhist lists.
+It must be inferred through the Kośa's explicit cross-mappings. The same
+vijñānaskandha, for example, is considered as mana-āyatana in the
 Essence-system and as six vijñāna-dhātus together with manodhātu in the
-Principle-system.
+Principle-system. In the Organon reading, Manas is the **Produced Cognitive
+Instrument**, generated and managed by paramārtha Buddhi and owned by
+Puruṣa. It is equipped with Mind Essence (*mana-āyatana*) and Mind Principle
+(*manodhātu*); “Property Manager” is an analogy for Buddhi's role.
 
-The Concept of Dharma is therefore:
+The Defined Concept of each Dharma is therefore:
 
 ```text
-<Skandha, Āyatana, Dhātu>
+<Base, Essence, Principle>
 ```
 
 Each term preserves a necessary standpoint. Science is not any one member taken in isolation; it is their comprehended movement and coordination.
