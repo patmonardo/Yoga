@@ -1,4 +1,4 @@
-# VAK_1.25 Bhāṣya — Speech or Name
+# VAK_1.25 Bhāṣya — Dharma-Collections and Their Inclusion
 
 ## 1. Kārikā Anchor
 
@@ -6,20 +6,17 @@
 >
 > tāni vāṅnāma vety eṣāṃ rūpasaṃskārasaṃgrahaḥ // 1.25 //
 
-> The eighty thousand dharma-collections which the Sage proclaimed — speech, or name — their inclusion is in form and formations.
+> The eighty thousand Dharma-collections proclaimed by the Sage—speech or
+> name—are included in the Form Base and the Formations Base.
 
-<<<<<<< HEAD
-The commentary places the verse under the wider question, then gives the first example. Two accounts of Buddha-word are reported. Neither is chosen.
-=======
 The Bhāṣya places this verse under a wider question: do scriptural
 designations using *skandha*, *āyatana*, and *dhātu* refer to things outside
 the established classifications, or are they included within them? It
 answers that they are included, not separate. The Dharma-collections are
 the first example. Two accounts of Buddha-word's nature are reported:
 speech, or name.
->>>>>>> 3aa100f (Upgrade Dhātu studies and Form System)
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 > anyāny api skandhāyatanadhātusaṃśabditāny upalabhyante sūtreṣu /
 > teṣāṃ kim ebhir eva saṃgraho veditavya āhosvid vyatirekaḥ / ebhir eva
@@ -28,51 +25,50 @@ speech, or name.
 > yeṣāṃ vāksvabhāvaṃ buddhavacanaṃ teṣāṃ tāni rūpaskandhasaṃgṛhītāni /
 > yeṣāṃ nāmasvabhāvaṃ teṣāṃ saṃskāraskandhena /
 
-The unit runs from the question at printed location 017.04–05 through the two positions at 017.09. The measure of a dharma-collection opens 1.26. It is not answered here.
+The natural unit runs from the question at printed location 017.04–05
+through the two positions at 017.09. The following question about the
+measure of a Dharma-collection introduces 1.26; it is not answered in this
+unit.
 
-Word division and punctuation are editorial. The running Sanskrit and the research witnesses agree on the wording. No lexical repair is needed. The number is eighty thousand: `aśītiṃ` with `sahasrāṇi`. The sandhi `vāṅnāma veti` is retained.
+Word division and punctuation are editorial. The running Sanskrit and
+research witnesses agree on the substantive wording. No conjectural
+lexical repair is needed. The number is eighty thousand, expressed by
+`aśītiṃ` with `sahasrāṇi`. The sandhi `vāṅnāma veti` is retained and
+resolved in the analysis below.
 
 ## 3. Continuous Conventional Translation
 
-<<<<<<< HEAD
-> Other things designated in the sūtras as bases, essences, and principles are also found. Are they included in these very classifications, or do they stand apart? They are included in these very classifications. They do not stand apart.
-=======
 > Other things designated in the sūtras by the terms aggregate, sense-base,
 > and element are also found. Should these be understood as included within
 > these very classifications, or do they stand apart from them? They are
 > included within these very classifications; they do not stand apart.
->>>>>>> 3aa100f (Upgrade Dhātu studies and Form System)
 >
-> First, the eighty thousand dharma-collections which the Sage proclaimed — speech, or name — their inclusion is in form and formations. For those who hold that Buddha-word is speech by nature, they are included in the form-base. For those who hold that it is name by nature, they are included in the formations-base.
+> First, the eighty thousand Dharma-collections proclaimed by the Sage are
+> speech or name; their inclusion is in Form or Formations. For those who
+> hold that Buddha-word has speech as its nature, those collections are
+> included in the Form Base. For those who hold that it has name as its
+> nature, they are included in the Formations Base.
 
-## 4. Movement
+## 4. Movement of the Commentary
+
+The Bhāṣya moves from the general question of scriptural designation to a
+specific case:
 
 ```text
-<<<<<<< HEAD
-other scriptural names
-    included in these very classifications
-    not apart
-=======
 other scriptural designations using skandha, āyatana, and dhātu
     → included in these very classifications, not separate
->>>>>>> 3aa100f (Upgrade Dhātu studies and Form System)
 
-first example
-    speech by nature → form-base
-    name by nature → formations-base
+first example: the eighty thousand Dharma-collections
+    → speech-nature account: Form Base
+    → name-nature account: Formations Base
 ```
 
-`Yeṣām ... teṣām` reports the holders. No group is named.
+The general answer is stated directly. The two analyses of Buddha-word are
+introduced through `yeṣāṃ ... teṣām`, “for those who ... for them.” No
+group is named, and neither account is selected as the final position.
 
-## 5. Decisions
+## 5. Scriptural Names and Inclusion
 
-<<<<<<< HEAD
-1. Inclusion is affirmed. Standing apart is denied.
-2. `Dharmaskandha` is a teaching-collection. It is not a sixth base.
-3. Speech and name are alternatives. The verse does not say each collection is both.
-4. Neither account is selected.
-5. The measure of the collection is the next verse.
-=======
 `Skandhāyatanadhātusaṃśabditāni` refers to things designated in the sūtras
 through the terms *skandha*, *āyatana*, and *dhātu*. Conventionally these
 may be rendered aggregate, sense-base, and element; the Organon terms are
@@ -81,23 +77,19 @@ a question; it does not by itself establish a further member outside the
 established classifications. `Ebhir eva`, “by these very
 [classifications],” points back to those systems. `Na vyatirekaḥ` denies
 separate standing.
->>>>>>> 3aa100f (Upgrade Dhātu studies and Form System)
 
-## 6. Organon Reading
+In this example, *dharma-skandha* names a special scriptural body or
+collection of teaching. Its use of *skandha* does not make it one more
+member of the five Bases. The Bhāṣya's question is where this teaching
+collection belongs under the two analyses of Buddha-word, not whether its
+name creates an additional ontological Base.
 
-<<<<<<< HEAD
-The form system receives the teaching. Speech enters form. Name enters formations. The name in a sūtra does not open a further place.
-=======
 The passage is specific about the assignments it makes: the speech account
 places the teaching in the Form Base; the name account places it in the
 Formations Base. These are the two placements stated for this example.
->>>>>>> 3aa100f (Upgrade Dhātu studies and Form System)
 
-## 7. Review Status
+## 6. The Two Analyses of Buddha-Word
 
-<<<<<<< HEAD
-Synced to the verse study. Essential Relation and Essence Base withdrawn. 1.26 already studied. Not reopened here.
-=======
 `Vāṅnāma veti` resolves as `vāk nāma vā iti`: “speech, or name.” The
 Bhāṣya develops the alternatives explicitly:
 
@@ -189,4 +181,3 @@ This revision preserves the source's inclusion question, its distinction
 between the conventional Dharma-collection and a systematic Base, and the
 two unselected accounts of Buddha-word. The measure question remains with
 1.26.
->>>>>>> 3aa100f (Upgrade Dhātu studies and Form System)

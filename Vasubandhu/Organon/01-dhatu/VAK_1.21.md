@@ -4,7 +4,7 @@
 
 > विवादमूलसंसारहेतुत्वात् क्रमकारणात् ।
 >
-> चैत्तेभ्यो वेदनासंज्ञे पृथक्स्कन्धौ निवेशितौ ॥ १.२१ ॥॥
+> चैत्तेभ्यो वेदनासंज्ञे पृथक्स्कन्धौ निवेशितौ ॥ १.२१ ॥
 
 ## 2. Sanskrit (IAST)
 
@@ -15,27 +15,27 @@
 ## 3. Lexical Analysis
 
 ```text
-vivāda-mūla-saṃsāra-hetutvāt → because they are causes of the roots of dispute and of saṃsāra
-krama-kāraṇāt                → because of the reason of order
-caittebhyaḥ                  → apart from the other mental factors
-vedanā-saṃjñe                → feeling and reflection
-pṛthak-skandhau              → two distinct bases
-niveśitau                   → placed, established
+vivādamūlasaṃsārahetutvāt → vivāda-mūla-saṃsāra-hetutvāt
+kramakāraṇāt              → krama-kāraṇāt
+caittebhyaḥ               → caittebhyaḥ
+vedanāsaṃjñe              → vedanā-saṃjñe
+pṛthakskandhau            → pṛthak-skandhau
 ```
 
-| Pada | Morphology | Force in this passage |
+| Form | Morphology | Lexical force here |
 |---|---|---|
-| vivāda-mūla | compound | roots of dispute |
-| saṃsāra-hetutvāt | ablative abstract | because they are causes of saṃsāra |
-| krama-kāraṇāt | ablative | because of the reason of order |
-| caittebhyaḥ | ablative plural | from the other mental factors |
-| vedanā-saṃjñe | feminine dual | feeling and reflection |
-| pṛthak-skandhau | masculine dual | two distinct bases |
-| niveśitau | past participle dual | established |
+| vivāda | masculine noun in compound | dispute, conflict |
+| mūla | neuter noun in compound | root, principal basis |
+| saṃsāra | masculine noun in compound | continued cyclic wandering |
+| hetutvāt | ablative neuter singular abstract formation | because of being causes |
+| krama | masculine noun in compound | order or sequence of the bases |
+| kāraṇāt | ablative neuter singular | because of the reason |
+| caittebhyaḥ | ablative masculine plural | apart from the other mental factors |
+| vedanā-saṃjñe | nominative feminine dual | Feeling and Reflection |
+| pṛthak | indeclinable | separately, distinctly |
+| skandhau | nominative masculine dual | two bases |
+| niveśitau | nominative masculine dual past passive participle | placed, established, assigned |
 
-<<<<<<< HEAD
-The commentary supplies *pradhāna-hetu*: principal cause. Feeling and reflection are not the only causes. The local Devanāgarī sometimes reads *cittebhyaḥ*. The prose and the IAST support *caittebhyaḥ*.
-=======
 The Bhāṣya supplies `pradhāna-hetu`, “principal cause,” as the force of the
 first compound. Feeling and Reflection are not asserted to be the only
 causes of dispute or saṃsāra. Here `caitta` and `caitasika` name the wider
@@ -46,23 +46,27 @@ The research kārikā's Devanāgarī has `चित्तेभ्यो` (*citt
 running source, research IAST, and opening Bhāṣya prose support
 `चैत्तेभ्यो` (*caittebhyaḥ*), “from the other mental factors”; the official
 Devanāgarī is corrected accordingly.
->>>>>>> 3aa100f (Upgrade Dhātu studies and Form System)
 
 ## 4. Grammar
 
+The two ablatives state three grounds for the classificatory decision:
+
 ```text
 vivāda-mūla-hetutvāt
-    + saṃsāra-hetutvāt
-    + krama-kāraṇāt
-        → vedanā-saṃjñe
-           caittebhyaḥ pṛthak-skandhau niveśitau
+    because they are causes of the roots of dispute
+
+saṃsāra-hetutvāt
+    because they are principal causes of saṃsāra
+
+krama-kāraṇāt
+    because the order of the bases requires it
 ```
 
-*Caittebhyaḥ* is an ablative of separation. Feeling and reflection remain mental factors. They are placed apart from the rest, which stay in the formations-base. The masculine dual follows *skandha*.
+`Caittebhyaḥ` is an ablative of separation. Feeling and Reflection remain
+mental factors, but are distinguished from the remaining mental factors and
+assigned their own Base positions. The others remain gathered in the
+Formations Base.
 
-<<<<<<< HEAD
-The commentary distributes the first reasons in order. Feeling is the principal cause of fixation upon sensual desire. Reflection is the principal cause of fixation upon views. The reason of order is announced and deferred.
-=======
 `Vedanā-saṃjñe` is a feminine dual subject. The masculine dual forms
 `skandhau` and `niveśitau` follow the grammatical gender of the predicate
 noun `skandha`: Feeling and Reflection are established as two distinct
@@ -82,31 +86,24 @@ The third reason is announced but deferred. The threefold justification of
 the Base sequence is taken up in VAK 1.22. That verse presents four
 ordering accounts despite the threefold promise here; the discrepancy is
 preserved there rather than harmonized.
->>>>>>> 3aa100f (Upgrade Dhātu studies and Form System)
 
 ## 5. Translation
 
-### Literal Translation
+### Close syntactic construe
 
-Because they are causes of the roots of dispute and of saṃsāra, and because of the reason of order, feeling and reflection are established as two distinct bases apart from the other mental factors.
+> Because they are causes of the roots of dispute and saṃsāra, and because of the rationale for the sequence, Feeling and Reflection are assigned two distinct Bases apart from the other mental factors.
 
-### Bhāṣya-informed study translation
+### Bhāṣya-informed translation
 
-Feeling and reflection receive distinct bases because they are principal causes of the two roots of dispute. Savoring feeling leads to fixation upon sensual desire. Inverted reflection leads to fixation upon views. Both are also principal causes of saṃsāra. The order of the bases is a further reason, and it is explained next.
+> Feeling and Reflection receive distinct Base positions because they are principal causes of the roots of dispute: savoring Feeling leads to fixation upon sensual pleasures, while inverted Reflection leads to fixation upon views. Both are also principal causes of saṃsāra. Their separation is connected with the order of the bases, whose rationale is explained next.
+
+The project rendering is *saṃjñā* = Reflection. Here the Bhāṣya specifies
+inverted Reflection as distorted grasping of a mark, which supports
+fixation upon views. The causal claim concerns an operation of Reflection,
+not a storehouse of ideas.
 
 ## 6. Systematic Placement
 
-<<<<<<< HEAD
-Again, two lines. The first names the reasons. The second names the placement.
-
-The question is why two mental factors leave the formations-base. Not because they cease to be mental factors. Because their operations are the principal hinges of the two roots of dispute, and of continued wandering.
-
-Feeling is undergoing. The hinge is the savor of that undergoing. Under that savor, one clings to sensual desire. Reflection takes up the mark. The hinge is the inverted mark. Under that inversion, one clings to views. Principal, not sole.
-
-The one who wanders is greedy for the savor of feeling and inverted in reflection. The two determinations join in one subject. They are not two independent inventories.
-
-The last reason is the order of the bases. It is promised in three ways. It is not given here.
-=======
 This verse explains the distinct Base positions. The cross-classification
 with Essence and Principle was established in 1.16:
 
@@ -117,33 +114,32 @@ with Essence and Principle was established in 1.16:
 The distinction leaves the census at five Bases, twelve Essences, and
 eighteen Principles. Sharing the Dharma Essence and Dharma Principle
 crosswalk does not merge the distinct Base positions.
->>>>>>> 3aa100f (Upgrade Dhātu studies and Form System)
 
 ## 7. Technical Vocabulary
 
-| Sanskrit | Rendering | Note |
+| Sanskrit | Project rendering | Determination |
 |---|---|---|
-| caitta | mental factor | the class they leave, as bases |
-| vedanā | feeling | undergoing; not the fixation |
-| saṃjñā | reflection | takes up the mark |
-| saṃskāra-skandha | formations-base | where the other mental factors remain |
-| vivāda-mūla | root of dispute | the two fixations |
-| kāmādhyavasāna | fixation upon sensual desire | principal cause: feeling |
-| dṛṣṭyadhyavasāna | fixation upon views | principal cause: reflection |
-| vedanā-svāda | savor of feeling | the mediation |
-| viparīta-saṃjñā | inverted reflection | not every reflection |
-| pradhāna-hetu | principal cause | not sole |
-| krama | order | deferred |
+| caitta / caitasika | mental factor | general class from which Feeling and Reflection receive distinct Base positions |
+| vedanā | Feeling / felt undergoing | pleasant, painful, or neutral experience of contact |
+| saṃjñā | Reflection | mark-taking and stabilization; inverted Reflection supports fixation upon views |
+| vivāda | dispute | conflict rooted in fixation upon desire and views |
+| adhyavasāna | fixation | decisive settling upon or committed attachment |
+| kāmādhyavasāna | fixation upon sensual desire | dispute-root principally conditioned by savoring Feeling |
+| dṛṣṭyadhyavasāna | fixation upon views | dispute-root principally conditioned by inverted Reflection |
+| vedanā-svāda | savor of Feeling | relished feeling mediating attachment to sensual objects |
+| viparīta-saṃjñā | inverted Reflection | distorted grasping of marks underlying fixation upon views |
+| abhiṣvaj | to cling to / embrace | appropriation of sensual objects through relished feeling |
+| pradhāna-hetu | principal cause | predominant but not exclusive causal factor |
+| krama | systematic sequence | ordered position of the bases, explained in VAK 1.22 |
 
 ## 8. Logical Determination
 
-```text
-why not both only in the formations-base?
+The classificatory problem is:
 
-<<<<<<< HEAD
-feeling
-    → savor
-=======
+```text
+Feeling(x) ∧ MentalFactor(x)
+Reflection(y) ∧ MentalFactor(y)
+
 Why not place both only in FormationsBase?
 ```
 
@@ -163,29 +159,19 @@ The two dispute-series are:
 ```text
 Feeling (vedanā)
     → savoring of Feeling
->>>>>>> 3aa100f (Upgrade Dhātu studies and Form System)
     → fixation upon sensual desire
     → a root of dispute
 
-reflection
-    → inverted mark
+Reflection (saṃjñā)
+    → inverted grasping of a mark
     → fixation upon views
     → a root of dispute
 
-greed for the savor
-    and inverted reflection
-    → the one who wanders
-
-principal ≠ sole
-order of the bases → 1.22
-1.22 not opened
+greed for the savor of Feeling
+∧ inverted Reflection
+    → continued wandering in saṃsāra
 ```
 
-<<<<<<< HEAD
-## 9. Interpretive Note
-
-The hinge is *pṛthak*: apart, and still mental factors. Interpretation of the two roots is in the Bhāṣya.
-=======
 The final sentence describes one who wanders with both determinations:
 greedy for Feeling's savor and inverted in Reflection. The two causal paths
 meet in one subject; they are not separate inventories.
@@ -207,22 +193,50 @@ positions while remaining mental factors. The paired Bhāṣya develops how
 their two causal paths join in the one who wanders. The promised rationale
 from the Base sequence is taken up in 1.22, where the threefold promise and
 four ordering accounts are both preserved.
->>>>>>> 3aa100f (Upgrade Dhātu studies and Form System)
 
 ## 10. OWL++ Seed
 
 ```ttl
 @prefix vak: <http://127.0.0.1:3000/vak#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
-vak:VAK_1_21 a vak:Karika ;
-    vak:hasTopic vak:FeelingAndReflectionAsBases ;
+vak:VAK_1_21
+    a vak:Karika ;
+    rdfs:label "VAK 1.21" ;
+    vak:hasTopic vak:SeparateBaseStatusOfVedanaAndSamjna ;
     vak:belongsTo vak:Dhatunirdesa .
 
-vak:Feeling vak:remains vak:MentalFactor ;
-    vak:hasSeparateBase true ;
-    vak:isPrincipalCauseOf vak:SensualFixation .
-vak:Reflection vak:remains vak:MentalFactor ;
-    vak:hasSeparateBase true ;
-    vak:isPrincipalCauseOf vak:ViewFixation .
-vak:BaseOrder vak:deferredTo vak:VAK_1_22 .
+vak:Vedana
+    a vak:MentalFactor ;
+    vak:hasProjectRendering vak:Feeling ;
+    vak:hasBaseRole vak:FeelingBase ;
+    vak:hasSeparateBaseStatus true ;
+    vak:isPrincipalCauseOf vak:SensualFixation ;
+    vak:mayLeadThrough vak:SavoringOfFeeling .
+
+vak:Samjna
+    a vak:MentalFactor ;
+    vak:hasProjectRendering vak:Reflection ;
+    vak:hasBaseRole vak:ReflectionBase ;
+    vak:hasSeparateBaseStatus true ;
+    vak:isPrincipalCauseOf vak:ViewFixation ;
+    vak:mayBecome vak:InvertedReflection .
+
+vak:SensualFixation
+    vak:isRootOf vak:Dispute .
+
+vak:ViewFixation
+    vak:isRootOf vak:Dispute .
+
+vak:Vedana
+    vak:isPrincipalCauseOf vak:Samsara .
+
+vak:Samjna
+    vak:isPrincipalCauseOf vak:Samsara .
+
+vak:OtherMentalFactors
+    vak:assignedTo vak:FormationsBase .
+
+vak:SeparateBaseStatus
+    vak:mayBeGroundedIn vak:CausalSalience , vak:SystematicSequence .
 ```

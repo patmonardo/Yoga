@@ -1,9 +1,6 @@
 # VAK_1.15 Bhāṣya — Formations, and the Dharma Essence and Principle
-<<<<<<< HEAD
-=======
 
 Source: [`VAK_1.15.md`](./VAK_1.15.md).
->>>>>>> 3aa100f (Upgrade Dhātu studies and Form System)
 
 ## 1. Kārikā Anchor
 
@@ -11,60 +8,34 @@ Source: [`VAK_1.15.md`](./VAK_1.15.md).
 >
 > dharmāyatanadhātvākhyāḥ sahāvijñaptyasaṃskṛtaiḥ // 1.15 //
 
-<<<<<<< HEAD
-Literal:
-=======
 > The formations apart from the four Bases constitute the Formations Base.
 > These three, together with *avijñapti* and the unconditioned, are called
 > the Dharma Essence and the Dharma Principle.
->>>>>>> 3aa100f (Upgrade Dhātu studies and Form System)
 
-> The others, apart from the four, are the formations-base. These three, again,
-> together with *avijñapti* and the unconditioned, are called the dharma-essence
-> and the dharma-principle.
+The Bhāṣya explains which formations the first clause includes and why the
+scriptural emphasis on volition does not exhaust them. It then identifies
+the three bases and the additional constituents gathered under
+dharmāyatana and dharmadhātu.
 
-<<<<<<< HEAD
-Bhāṣya-informed:
-
-> The formations apart from form, feeling, reflection, and the principle-base
-> are the formations-base. The sūtra names six groups of volition because of its
-> predominance. The remaining associated factors and the dissociated formations
-> must be included, or they would fall outside suffering and origin, and outside
-> full comprehension and abandonment. These three — feeling, reflection, and
-> formations — together with *avijñapti* and the unconditioned, are called the
-> dharma-essence and the dharma-principle. The commentary counts seven: the three
-> bases, *avijñapti*, and the three unconditioned.
-
-The commentary defends the remainder, then counts the seven. The next verse
-defines the principle-base. It is not taken here.
-=======
 The working vocabulary is *skandha* = Base, *āyatana* = Essence,
 *dhātu* = Principle, and *saṃjñā* = Reflection. The continuous translation
 uses these renderings to follow the commentary's argument; the Organon
 interpretation remains distinct.
->>>>>>> 3aa100f (Upgrade Dhātu studies and Form System)
 
 ## 2. Continuous Sanskrit
 
-> caturbhyo 'nye tu saṃskāraskandhaḥ /
->
-> rūpavedanāsaṃjñāvijñānebhyaś caturbhyo 'nye tu saṃskārāḥ saṃskāraskandhaḥ /
->
-> bhagavatā tu sūtre ṣaṭ cetanākāyā ity uktaṃ prādhānyāt /
->
-> sā hi karmasvarūpatvād abhisaṃskaraṇe pradhānā /
->
-> ata evoktaṃ bhagavatā “saṃskṛtam abhisaṃskaroti /
-> tasmāt saṃskārā upādānaskandha ity ucyata” iti /
->
+> caturbhyo 'nye tu saṃskāraskandhaḥ / rūpavedanāsaṃjñāvijñānebhyaś
+> caturbhyo 'nye tu saṃskārāḥ saṃskāraskandhaḥ / bhagavatā tu sūtre
+> ṣaṭ cetanākāyā ity uktaṃ prādhānyāt / sā hi karmasvarūpatvād
+> abhisaṃskaraṇe pradhānā / ata evoktaṃ bhagavatā “saṃskṛtam
+> abhisaṃskaroti / tasmāt saṃskārā upādānaskandha ity ucyata” iti /
 > anyathā hi śeṣāṇāṃ caitasikānāṃ viprayuktānāṃ ca saṃskārāṇāṃ
 > skandhāsaṃgrahād duḥkhasamudayasatyatvaṃ na syād iti parijñāparihāṇe
-> api na syātām /
+> api na syātām / uktaṃ ca bhagavatā “nāham ekadharmam api
+> anabhijñāyāparijñāya duḥkhasyāntakriyāṃ vadāmi” iti / evam
+> “aprahāya” ity uktam / tasmād avaśyam eṣāṃ
+> saṃskāraskandhasaṃgraho 'bhyupagantavyaḥ /
 >
-<<<<<<< HEAD
-> uktaṃ ca bhagavatā “nāham ekadharmam api anabhijñāyāparijñāya
-> duḥkhasyāntakriyāṃ vadāmi” iti /
-=======
 > ete punas trayaḥ / vedanāsaṃjñāsaṃskāraskandhāḥ
 > āyatanadhātuvyavasthāyāṃ dharmāyatanadhātvākhyāḥ
 > sahāvijñaptyasaṃskṛtaiḥ / ity etāni sapta dravyāṇi dharmāyatanaṃ
@@ -97,142 +68,96 @@ editions is claimed.
 > is predominant in active formation because it has the nature of karma.
 > For this very reason the Blessed One said: “It actively forms the
 > conditioned; therefore it is called the Formations Base of appropriation.”
->>>>>>> 3aa100f (Upgrade Dhātu studies and Form System)
 >
-> evam “aprahāya” ity uktam /
+> Otherwise, since the remaining mental factors and the dissociated
+> formations would not be included in a Base, they would not have
+> the status of the truths of suffering and origin. Consequently, full
+> comprehension and abandonment would not apply to them either. The Blessed
+> One has said: “I do not declare the ending of suffering without directly
+> knowing and fully comprehending even a single dharma.” Likewise, “without
+> abandoning” is stated. Therefore their inclusion in the Formations Base
+> must necessarily be accepted.
 >
-<<<<<<< HEAD
-> tasmād avaśyam eṣāṃ saṃskāraskandhasaṃgraho 'bhyupagantavyaḥ /
->
-> ete punas trayaḥ /
->
-> vedanāsaṃjñāsaṃskāraskandhāḥ āyatanadhātuvyavasthāyāṃ
-> dharmāyatanadhātvākhyāḥ sahāvijñaptyasaṃskṛtaiḥ /
->
-> ity etāni sapta dravyāṇi dharmāyatanaṃ dharmadhātuś cety ākhyāyante /
-=======
 > These three—the Feeling Base, Reflection Base, and Formations Base—
 > within the Essence and Principle arrangements, together with
 > *avijñapti* and the unconditioned, are called the Dharma Essence
 > and the Dharma Principle. These seven substances are designated the
 > Dharma Essence and the Dharma Principle.
->>>>>>> 3aa100f (Upgrade Dhātu studies and Form System)
 
-The unit runs from the remainder through the seven. Span: `[010|19]`–`[011|05]`.
-Word division is editorial. The local e-text has *catubbryo* and a broken
-avagraha in *saṃgraho*. Read *caturbhyo* and *saṃgraho 'bhyupagantavyaḥ*.
-*Parijñāparihāṇe* is retained; *aprahāya* controls the pair as full
-comprehension and abandonment. Not a critical text.
+## 4. Movement of the Commentary
 
-<<<<<<< HEAD
-## 3. Continuous Translation
-
-The others, apart from the four, are the formations-base. The formations apart
-from the four — form, feeling, reflection, and the principle-base — are the
-formations-base.
-
-In a sūtra, however, the Blessed One said six groups of volition, because of
-predominance. For that volition is predominant in the active forming, because
-it has the nature of karma. For this very reason the Blessed One said: it
-actively forms the conditioned; therefore it is called the formations-base of
-appropriation.
-
-Otherwise, since the remaining associated factors and the dissociated
-formations would not be included in a base, they would not have the truth of
-suffering and of origin. Full comprehension and abandonment would not apply to
-them either. And the Blessed One said: I do not declare the ending of
-suffering without directly knowing and fully comprehending even a single
-dharma. Likewise, without abandoning, is said. Therefore their inclusion in
-the formations-base must necessarily be accepted.
-
-These three, again: the feeling-base, the reflection-base, and the
-formations-base, in the essence-and-principle arrangement, together with
-*avijñapti* and the unconditioned, are called the dharma-essence and the
-dharma-principle. These seven are designated the dharma-essence and the
-dharma-principle.
-
-The teacher of the sūtra is the Blessed One. No opponent is named.
-
-## 4. Movement
-=======
 The first movement establishes the extent of a Base and defends its
 inclusiveness. The second places specified contents under the Essence
 and Principle arrangements:
->>>>>>> 3aa100f (Upgrade Dhātu studies and Form System)
 
 ```text
-apart from the four
-    → the others are the formations-base
-six groups of volition
-    → predominance, not exhaustion
-remaining associated and dissociated
-    → must be included
-    → or outside suffering, origin, comprehension, abandonment
-these three, with avijñapti and the unconditioned
-    → seven
-    → dharma-essence and dharma-principle
+formations outside the other four Bases
+    → Formations Base
+scriptural emphasis on six groups of volition
+    → explained by volition's predominance in active formation
+remaining mental and dissociated formations
+    → must remain included in the work of full comprehension and abandonment
+three Bases + avijñapti + three unconditioned dharmas
+    → seven counted constituents
+    → dharmāyatana and dharmadhātu
 ```
 
-## 5. The Remainder
+The prose explains scripture and draws an argument from the requirements of
+the Path. It introduces no separately speaking opponent and supplies no
+explicit school label. The quoted speech of the Blessed One remains distinct
+from the commentary's reasons for how it should be understood.
 
-*Rūpa-vedanā-saṃjñā-vijñānebhyaḥ* names the four. One ablative covers the
-compound. *Caturbhyaḥ* fixes the number. The plural formations take a singular
-predicate: one base.
+## 5. The Extent of Saṃskāra and the Predominance of Volition
 
-The sūtra's six groups of volition are *prādhānyāt*. *Sā* resumes volition.
-Predominant in the active forming, because it is karma in own-nature. The
-chief member can name the teaching. It does not empty the base.
+**Lexical determination and construe**
 
-<<<<<<< HEAD
-*Saṃskṛtam abhisaṃskaroti* joins the conditioned as what is formed with the
-forming. The quotation derives the name. It does not list every formation.
-The six groups are not named one by one in this unit.
-=======
 ```text
 rūpa-vedanā-saṃjñā-vijñānebhyaḥ  apart from the Form Base, Feeling Base, Reflection Base, and principle-base
 caturbhyaḥ                       apart from these four Bases
 anye tu saṃskārāḥ                the other conditioned formations
 saṃskāraskandhaḥ                 constitute the Formations Base
 ```
->>>>>>> 3aa100f (Upgrade Dhātu studies and Form System)
 
-The scripture says the formations-base of appropriation. As in 1.13, the
-narrower phrase is kept. The base and the base of appropriation are not the
-same phrase.
+The coordinated compound carries one ablative plural ending.
+*Caturbhyaḥ* repeats its case and fixes the number of bases excluded.
+The plural subject *saṃskārāḥ* receives the singular predicate
+*saṃskāraskandhaḥ*: the formations are gathered as one Base.
 
-<<<<<<< HEAD
-## 6. Inclusion
-=======
 The ablative `caturbhyaḥ` with `anye` means “other than the four.” The
 prose names them: Form Base, Feeling Base, Reflection Base, and the
 principle-base (*vijñānaskandha*). The supplied
 `saṃskārāḥ` determines what the otherwise compressed “others” refers to.
 The definition gathers the remaining conditioned formations; it does not
 place unconditioned dharmas in the Formations Base.
->>>>>>> 3aa100f (Upgrade Dhātu studies and Form System)
 
-*Anyathā*. If the rest were excluded, they would be in no base. Then they
-would not be suffering and origin. Then full comprehension and abandonment
-would not apply.
+The scriptural six groups of `cetanā`, volition, raise a question of scope.
+The Bhāṣya answers with `prādhānyāt`, because of predominance. The feminine
+`sā` resumes volition, which is predominant in `abhisaṃskaraṇa`, active
+formation, because it has the nature of karma. The main member can therefore
+be foregrounded in the teaching without being the base's sole content.
 
-*Anabhijñāya*, *aparijñāya*: without directly knowing, without fully
-comprehending. *Aprahāya*: without abandoning. The Blessed One does not
-declare the ending of suffering on that failure, even for a single dharma.
+**Formation and formative operation**
 
-The inclusion must be accepted. Classifying them is not itself the
-abandonment. The argument does not make every conditioned formation Impure.
-The conditioned Pure path has already been distinguished.
+*Saṃskāra*, formation, and *saṃskṛta*, conditioned, share *saṃ-√kṛ*.
+*Abhisaṃskaroti* expresses the active forming of the conditioned.
+The commentary discriminates the extent of the Formations Base from
+the predominance of a particular operation within it. Volition's
+leading function supplies a reason for scriptural emphasis; the Formations
+Base still gathers the remaining mental and dissociated formations.
 
-## 7. The Seven
+`Saṃskṛtam abhisaṃskaroti` joins the conditioned as object with active
+forming as operation. The quotation gives a functional derivation of the
+name; it does not enumerate every causal process encompassed by formation.
+Nor does the mention of six groups give their individual names in this
+unit. Their sixfold number is preserved without inserting an unquoted list
+into the continuous translation.
 
-*Ete punas trayaḥ* is feeling, reflection, and formations. Not the
-principle-base. *Saha* governs *avijñapti* and the unconditioned. The locative
-names the arrangement. *Ākhyā* is the naming. *Dharma* distributes across
-essence and principle.
+The scripture speaks of the Base of appropriation consisting of
+formations. As with the rūpa citation in 1.13, that wording is retained.
+The Formations Base and its sāsrava appropriation-field must not
+become indistinguishable merely because the narrower scriptural formula
+helps explain the name.
 
-<<<<<<< HEAD
-| Counted | Status kept |
-=======
 ## 6. Inclusion and the Work of the Path
 
 The counterfactual begins with `anyathā`, otherwise. If the remaining
@@ -292,61 +217,33 @@ can be expanded using the three unconditioned dharmas already stated in
 the opening studies:
 
 | Counted constituent | Status preserved in this arrangement |
->>>>>>> 3aa100f (Upgrade Dhātu studies and Form System)
 |---|---|
-| feeling-base | conditioned base |
-| reflection-base | conditioned base |
-| formations-base | conditioned base |
-| *avijñapti* | form; still in the form-base |
-| space | unconditioned; no base |
-| cessation through discrimination | unconditioned; no base |
-| cessation without discrimination | unconditioned; no base |
+| Feeling Base | conditioned Base |
+| Reflection Base | conditioned Base |
+| Formations Base | conditioned Base |
+| avijñapti | Form, retained in the Form Base |
+| ākāśa | unconditioned, no Base |
+| pratisaṃkhyānirodha | unconditioned, no Base |
+| apratisaṃkhyānirodha | unconditioned, no Base |
 
-Three, one, three. *Dravya* is the commentary's word for the count. It does
-not say each base is one indivisible item.
+The arithmetic is three Bases, one *avijñapti*, and three unconditioned
+dharmas. The prose counts `dravya` at this stated classificatory level;
+it does not claim that each Base contains only one indivisible item.
+“Substances” in the continuous translation retains the technical word,
+while “counted constituents” clarifies the enumeration in the analysis.
 
-<<<<<<< HEAD
-The ten of 1.14 did not include the continuity. The continuity is placed here,
-and remains form. The unconditioned enters the same names and does not acquire
-a base.
-=======
 This completes the placement of *avijñapti* left open after the ten
 Essences and ten Principles in 1.14. It belongs to the Form Base
 but is included here in the Dharma Essence and Dharma Principle.
 Its classificatory placement changes without changing its status as Form.
->>>>>>> 3aa100f (Upgrade Dhātu studies and Form System)
 
-## 8. Decisions for the Kārikā
+The unconditioned entries likewise retain their status. Being gathered with
+three Bases does not make them conditioned or turn them into additional
+Bases. *Dharmadhātu* includes different kinds of determination; the
+common classificatory position does not erase those differences.
 
-1. Apart from the four: form, feeling, reflection, the principle-base.
-2. Volition is predominant. The formations-base is not volition alone.
-3. Associated factors and dissociated formations must be included.
-4. These three are feeling, reflection, and formations.
-5. Seven: the three, *avijñapti*, and the three unconditioned.
-6. The shared name keeps the differences. Form stays form. No base stays no
-   base.
+## 8. The Bhāṣya's Decisions for the Kārikā
 
-<<<<<<< HEAD
-## 9. Interpretation
-
-The remainder is how a base is gathered: what is other than the four, taken as
-one. Predominance explains the sūtra. It does not license a smaller base.
-Leaving the rest outside would leave a dharma outside the ending of suffering.
-The inclusion is compulsory.
-
-The second line is not a sixth base. Feeling, reflection, and formations
-already have bases. They are named again, as dharma-essence and
-dharma-principle. *Saha* is the accompaniment, not a promotion. The continuity
-keeps the form-base and receives the dharma names. The unconditioned receives
-the dharma names and receives no base.
-
-The principle-base is the fourth excluded, and it is not one of the three.
-Its definition is the next verse. Not opened.
-
-The three unconditioned are the three already stated. Cessation through
-discrimination and cessation without discrimination are not identified here.
-The prefix is not the term. That is not the conventional gloss.
-=======
 1. “Other than the four” means the remaining formations outside the Form,
    Feeling, Reflection, and principle-bases. The fourth is the
    *vijñānaskandha*.
@@ -422,17 +319,16 @@ The Base–Essence–Principle projections are determinations of one Dharma,
 not three separate Dharmas. The sevenfold cross-mapping is an
 interpretation of the source's enumeration, not a translation of the
 Kārikā.
->>>>>>> 3aa100f (Upgrade Dhātu studies and Form System)
 
 ## 10. Review Status
 
-Upgraded reading of the fifteenth Bhāṣya study. The unit through the seven
-checked against the running Sanskrit. *Parijñāparihāṇe* retained.
+Reviewed against the current Kārikā study and local IAST text at
+`[010|19]`–`[011|05]`. The complete unit includes the saṃskāra passage
+also reproduced in the research report for 1.14. The translation retains
+scriptural attribution, the distinction between volition's predominance
+and the full extent of the Formations Base, the Path-based inclusion
+argument, and the sevenfold count.
 
-<<<<<<< HEAD
-Cognition withdrawn. The fourth is the principle-base. Essence, not a second
-base-word. The next study is not opened.
-=======
 The local `parijñāparihāṇe` and the numerical level of `sapta dravyāṇi` are
 explained rather than silently regularized. The scope of suffering,
 origin, and abandonment remains distinguished from the status of all
@@ -442,4 +338,3 @@ Principle, and Reflection. It distinguishes the principle-base
 *avijñapti*'s Form Base and the unconditioned's absence of a Base. The
 study remains provisional pending critical reading. No independent collation against
 the printed editions is claimed.
->>>>>>> 3aa100f (Upgrade Dhātu studies and Form System)

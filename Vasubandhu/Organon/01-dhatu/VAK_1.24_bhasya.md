@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# VAK_1.24 Bhāṣya — Form and Dharma
-=======
 # VAK_1.24 Bhāṣya — Why One Essence Is Named Form and One Dharma
->>>>>>> 3aa100f (Upgrade Dhātu studies and Form System)
 
 ## 1. Kārikā Anchor
 
@@ -10,13 +6,6 @@
 >
 > ekam āyatanaṃ rūpam ekaṃ dharmākhyam ucyate // 1.24 //
 
-<<<<<<< HEAD
-> For the sake of distinction, because of primacy, and because many dharmas and the highest are gathered, one essence is called form, and one is called dharma.
-
-Distinction applies to both names. Primacy explains the essence called form. The gathering of many dharmas, and of the highest, explains the essence called dharma.
-
-## 2. Continuous Sanskrit Witness
-=======
 > For distinction, because of primacy, and because many dharmas and the
 > highest Dharma are gathered, one Essence is named Form and one is named
 > Dharma.
@@ -30,7 +19,6 @@ renders *rūpa*, and **Dharma** remains *dharma*. Thus *rūpāyatana* is Form
 Essence and *dharmāyatana* is Dharma Essence.
 
 ## 2. Continuous Sanskrit
->>>>>>> 3aa100f (Upgrade Dhātu studies and Form System)
 
 > kiṃ punaḥ kāraṇaṃ daśasv āyataneṣu rūpaskandhasaṃgṛhīteṣv ekaṃ
 > rūpāyatanam ucyate / sarveṣu ca dharmasvabhāveṣv ekaṃ
@@ -50,47 +38,20 @@ Essence and *dharmāyatana* is Dharma Essence.
 > nānyeṣv iti / viṃśatiprakāratvenaudārikatvān
 > māṃsadivyāryaprajñācakṣustrayagocaratvāc caikaṃ rūpāyatanam ity apare /
 
-<<<<<<< HEAD
-The unit runs from the two naming questions at printed location 016.14 through the alternative explanation at 017.02–03. The following question about other scriptural names opens 1.25.
-=======
 The unit runs from the two naming questions at printed location 016.14
 through the alternative explanation at 017.02–03. The following question about other scriptural Base, Essence, and Principle
 designations opens 1.25.
->>>>>>> 3aa100f (Upgrade Dhātu studies and Form System)
 
-Word division and punctuation are editorial. The running source's `dharmasvabhaveṣu` and `rūpakayātanam` are read as `dharmasvabhāveṣu` and `rūpāyatanam`. The transmitted `jñāsyata` before `iti` is retained. The final compound is joined so that the explicit `traya`, three, governs the three eyes. These repairs support a normalized reading. They are not a critical reconstruction.
+Word division and punctuation are editorial. The running source's
+`dharmasvabhaveṣu` and `rūpakayātanam` are read as
+`dharmasvabhāveṣu` and `rūpāyatanam`. The transmitted `jñāsyata` before
+`iti` is retained. The final `māṃsa divyāryaprajñācakṣus` is joined as
+a compound whose explicit `traya`, three, governs its interpretation.
+These repairs support a normalized reading without claiming a critical
+reconstruction.
 
 ## 3. Continuous Conventional Translation
 
-<<<<<<< HEAD
-> Why, among the ten essences included in the form-base, is one called the form-essence? And why, though all are dharma by own-nature, is one called the dharma-essence? The answer is: for the sake of distinction, because of primacy, and because many dharmas and the highest are gathered. One essence is called form, and one is called dharma.
->
-> How is this for distinction? So that each of these ten is known as an essence, arranged as condition and what has the condition, not as one collective. Eye and the rest already have their names. What is form, and is not called eye or by those other names, is known as the form-essence. No further name is given.
->
-> Or the form-essence is named from primacy. It resists: contact with the hand and the rest makes it form. It can be shown: this, here, there. In the world too, that is what is recognized as form, not the others.
->
-> For distinction, one dharma-essence is named, not all. Many dharmas, beginning with feeling, are gathered there, so the general name dharma is used. The highest dharma, nirvāṇa, is gathered there, and not in the others.
->
-> Others say the one is called the form-essence because it is gross by its twentyfold variety, and because it is the range of three eyes: the fleshly, the divine, and the noble eye of wisdom.
-
-## 4. Movement of the Commentary
-
-| Name | What the commentary explains |
-|---|---|
-| form | distinction from the other nine; primacy in contact, showing, and ordinary naming |
-| dharma | distinction from the others; gathering of many dharmas, and of nirvāṇa |
-| form, according to others | twentyfold variety, grossness, and the range of three eyes |
-
-`Ity apare` marks the last account as others. It is not merged with the first.
-
-## 5. The Ten
-
-The ten are eye, ear, nose, tongue, body, sound, odor, taste, and the tangible, and the one that remains. All ten belong to the form-base. Each is an essence. They are not one collective.
-
-Eye and the rest already have names. What remains is called form. Naming only the five organs would not finish the distinction. The four other named meanings would still have to be set apart.
-
-## 6. Primacy
-=======
 > Why, among the ten sense-fields included in the Form Base, is one called
 > the Form field? And why, among all dharmas, is one called the Dharma
 > field? The answer is: to distinguish them; because Form is primary; and
@@ -152,45 +113,37 @@ tongue, body, sound, smell, taste, and the tangible already have specific
 names. What remains is visible form. It keeps the unqualified name Form
 and is thereby recognized as Form Essence. Naming only the five faculties
 would not suffice: the five other Essences must also be distinguished.
->>>>>>> 3aa100f (Upgrade Dhātu studies and Form System)
 
-Resistance: contact with the hand and the rest makes it form. Able to be shown: this, here, there. In the world, that is what is recognized as form. Resistance alone is not said to separate it from every other. The three marks are joined.
+## 6. Why Form Is Primary
 
-## 7. The Name Dharma
+The Bhāṣya gives three mutually supporting marks of Form's primacy:
 
-All are dharma by own-nature. That does not make every essence the dharma-essence. Many dharmas, beginning with feeling, are gathered there. Nirvāṇa, the highest, is gathered there, and not in the others. The many are not the highest.
+```text
+sapratigha
+    → resistant; affected by contact with a hand and the like
 
-## 8. The Three Eyes
+sanidarśana
+    → visible; indicable as “this, here, there”
 
-Others say the one is called form because it is gross by its twentyfold variety, and because it is the range of three eyes. The account stays attributed. It does not say the three eyes operate identically.
+ordinary usage
+    → commonly recognized by the name Form
+```
 
-## 9. Decisions
+Resistance alone is not said to distinguish visible Form from every other
+material relation. The argument joins resistance with visibility and
+ordinary recognition. The hand-contact example remains as the Bhāṣya gives
+it; no further physical theory is added to explain how visible Form is
+affected.
 
-<<<<<<< HEAD
-1. The question is why one essence is called form, and one called dharma.
-2. The ten are individual. Condition and what has the condition are the arrangement.
-3. The remainder is nine, not only the five organs.
-4. Primacy belongs to form. Gathering belongs to dharma.
-5. Many, and the highest, stay separate.
-6. The three-eye account stays with the others.
-
-## 10. Organon Reading
-=======
 ## 7. Why One Essence Is Named Dharma
 
 The Bhāṣya distinguishes the Dharma-nature of all dharmas from the specific
 Dharma Essence named here. The designation does not make all dharmas
 identical; it identifies the Essence in which many dharmas, including
 nirvāṇa, are gathered.
->>>>>>> 3aa100f (Upgrade Dhātu studies and Form System)
 
-Form and dharma are the two names. The form-base is not the one essence called form. The dharma-essence gathers the three that stand between the form-base and the principle-base. They remain bases. There is no sixth base called dharma.
+Two grounds explain the name:
 
-<<<<<<< HEAD
-## 11. Review Status
-
-Synced to the verse study. Essential Relation withdrawn. Dharma is not a second word for essence. 1.25 not opened.
-=======
 ```text
 many dharmas are gathered there
     → the general name Dharma is apt
@@ -266,4 +219,3 @@ remainder argument, the attributed three-eye alternative, and the stated
 limits of the running Sanskrit witness. It uses the governing Base, Essence,
 and Principle vocabulary and reads VAK 1.24 as part of the fundamental
 Form System exposition.
->>>>>>> 3aa100f (Upgrade Dhātu studies and Form System)

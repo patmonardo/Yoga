@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# VAK_1.27 Bhāṣya — Determine, Then Assign
-=======
 # VAK_1.27 Bhāṣya — Form System Problems: Assignment by Characteristic
->>>>>>> 3aa100f (Upgrade Dhātu studies and Form System)
 
 ## 1. Kārikā Anchor
 
@@ -10,17 +6,16 @@
 >
 > pratipādyā yathokteṣu saṃpradhārya svalakṣaṇam // 1.27 //
 
-<<<<<<< HEAD
-> Likewise, other bases, essences, and principles also are to be assigned, as appropriate, among those already stated, having determined the own-characteristic.
-=======
 > Likewise, other aggregates, sense-bases, and elements are to be
 > established, as appropriate, among those already stated, after carefully
 > determining each one's own characteristic.
->>>>>>> 3aa100f (Upgrade Dhātu studies and Form System)
 
-The commentary extends the eighty thousand into the rule, then applies it. Principal nature and the attended complex are different scopes.
+The Bhāṣya extends the Dharma-collection example into a general rule and
+applies it to several scriptural classifications. Its examples distinguish
+the principal nature of an item from the same item considered together with
+its attendants.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 > yathaitāny aśītir dharmaskandhasahasrāṇy eṣv eva pañcaskandheṣu
 > pratipāditāni / tathā 'nye 'pi yathāyogaṃ skandhāyatanadhātavaḥ /
@@ -42,23 +37,12 @@ The commentary extends the eighty thousand into the rule, then applies it. Princ
 > manodharmāyatanābhyām / evaṃ bahudhātuke 'pi dvāṣaṣṭir dhātavo
 > deśitāḥ / teṣāṃ yathāyogaṃ saṃgraho veditavyaḥ /
 
-The unit begins with the comparison at printed location 017.20–21 and ends with the sixty-two principles at 018.08–09. The next question opens 1.28.
+The unit begins with the comparison at printed location 017.20–21 and
+ends with the sixty-two-Principle reference at 018.08–09. The initial
+`yathā ... tathā` construction is kept together here, continuing the
+example completed in 1.26. The next question specifies two unexplained
+members of a six-Principle list and opens 1.28.
 
-<<<<<<< HEAD
-Word division and punctuation are editorial. The running source's `opratipāditāni`, `pratiopādyāḥ`, `asmiṃacchāstre`, `saṃpradharya`, and `gandharsāyatana` are normalized to `pratipāditāni`, `pratipādyāḥ`, `asmiñ śāstre`, `saṃpradhārya`, and `gandharasāyatana`. `Aṣṭāvalobha` is divided as `aṣṭāv alobha`. The compressed sound-mind-dharma instrumental is read as one plural. The five-member compound is retained as transmitted. Liberation is not repeated before knowledge-and-vision in the running compound. That relation is supplied in the translation. It is not inserted into the Sanskrit.
-
-## 3. Continuous Conventional Translation
-
-> Just as these eighty thousand dharma-collections have been placed in these very five bases, so other bases, essences, and principles stated in other sūtras are to be assigned among those already stated, having determined each one's own characteristic as set out in this treatise.
->
-> Of the five collections — discipline, concentration, wisdom, liberation, and knowledge-and-vision — the discipline-collection is included in the form-base. The remaining four are included in the formations-base.
->
-> Of the ten totalities, eight, being non-greed by nature, are included in the dharma-essence. Together with their attendants, being five bases by nature, they are included in the mind-essence and the dharma-essence. So too the masteries.
->
-> The totalities of infinite space and infinite principle, and the four attainments beginning with infinite space, are four bases by nature, and are included in the mind-essence and the dharma-essence. The five liberations, being wisdom by nature, are included in the dharma-essence. Together with their attendants, they are included in the sound-essence, the mind-essence, and the dharma-essence.
->
-> Of the two further cases, non-percipient beings are included in ten essences, smell and taste being absent. Beings in neither-perception-nor-non-perception are included in the mind-essence and the dharma-essence. In the discourse of many principles, sixty-two principles are taught. Their inclusion is to be known as appropriate.
-=======
 Word division and punctuation are editorial. The running source's
 `opratipāditāni`, `pratiopādyāḥ`, `asmiṃacchāstre`, `saṃpradharya`,
 and `gandharsāyatana` are normalized to `pratipāditāni`, `pratipādyāḥ`,
@@ -107,25 +91,51 @@ supplied relation; it is not silently inserted into the Sanskrit.
 > classified through the Mind and Dharma sense-bases. Likewise,
 > sixty-two elements are taught in the *Bahudhātuka*. Their inclusion
 > is to be understood as appropriate in each case.
->>>>>>> 3aa100f (Upgrade Dhātu studies and Form System)
 
-## 4. Movement
+## 4. Movement of the Commentary
 
-Determination precedes assignment. The commentary then distinguishes principal nature from the same item with its attendants. No school is named. The sixty-two are not enumerated. 1.28 is not this unit.
+The general rule is followed by applications. Each application identifies
+what is being considered, determines its characteristic and scope, and
+states its inclusion:
 
-## 5. Scope
+```text
+additional scriptural classification
+    → consider its characteristic as established in the treatise
+    → distinguish principal nature from the item with attendants
+    → place it in the appropriate established arrangement
+```
 
-| Case | Principal | With attendants |
+No separate school is named. The final reference says that sixty-two
+Principles are taught in the *Bahudhātuka* and directs their appropriate
+inclusion; it does not enumerate all sixty-two here. The next study begins
+with a specific question arising from that broader scriptural field.
+
+## 5. Characteristic before Assignment
+
+`Saṃpradhārya`, an absolutive, makes careful consideration prior to
+`pratipādyāḥ`, the required assignment. The prose expands `svalakṣaṇam`
+through `svaṃ svaṃ lakṣaṇam`, each one's characteristic, and qualifies
+it by `yathāvihitam asmiñ śāstre`, as established in this treatise.
+
+`Yathāyogam` therefore does not permit classification by resemblance of
+names alone. The relevant characteristic and scope constrain the
+assignment. The opening comparison takes the already classified
+Dharma-collections as its model, without making every scriptural use of
+*skandha* a teaching-collection of the same sort.
+
+The five training-collections illustrate the procedure. The discipline
+collection is included under the Form Base; the remaining four under the
+Formations Base. These named training-collections do not add five new
+fundamental Bases to the established five.
+
+## 6. Principal Nature and the Attended Complex
+
+The recurring `saparivāra`, “with attendants,” changes the scope of what
+is being classified. The principal nature is not discarded; the
+classification is expanded to include the accompanying complex.
+
+| Case | Principal account | With attendants |
 |---|---|---|
-<<<<<<< HEAD
-| eight totalities | non-greed; dharma-essence | five bases; mind-essence and dharma-essence |
-| masteries | likewise | likewise |
-| five liberations | wisdom; dharma-essence | sound-essence, mind-essence, dharma-essence |
-
-Infinite space, infinite principle, and the four attainments are four bases, and take the mind-essence and the dharma-essence. Non-percipient beings take ten essences. Smell and taste are absent. The sentence does not say a cognition is occurring. Classification and current operation stay distinct.
-
-## 6. Decisions
-=======
 | eight totality Essences | non-greed; Dharma Essence | five-Base nature; Mind Essence and Dharma Essence |
 | Essences of mastery | same treatment by explicit analogy | same treatment by explicit analogy |
 | five liberation Essences | prajñā; Dharma Essence | Sound Essence, Mind Essence, and Dharma Essence |
@@ -139,23 +149,9 @@ without duplicating *avijñapti*.
 The Sound Essence in the liberation account is explicitly present in the
 transmitted classification. The unit does not list the five practices or
 identify which attendant supplies sound in each case.
->>>>>>> 3aa100f (Upgrade Dhātu studies and Form System)
 
-1. The eighty thousand are the model: already placed in the five bases.
-2. Own-characteristic is determined as set out in this treatise, then the assignment.
-3. Attendants change the scope. They do not add a system.
-4. The running compound does not repeat liberation before knowledge-and-vision.
-5. The sixty-two are to be included as appropriate. They are not listed.
+## 7. Four-Base Attainments and the Two Further Cases
 
-<<<<<<< HEAD
-## 7. Organon Reading
-
-A scriptural name poses the problem. The own-characteristic answers it. The five, the twelve, and the eighteen remain the places. The form system does not grow.
-
-## 8. Review Status
-
-Synced to the verse study. Essence Base and Essential Relation withdrawn. 1.28 not opened.
-=======
 The totalities of infinite space and infinite cognition are grouped with
 the four attainments beginning with infinite space. They are assigned
 through Mind Essence and Dharma Essence because their nature is four
@@ -227,4 +223,3 @@ sequence 1.24–1.27. It uses Base, Essence, and Principle consistently,
 preserves the distinction between principal nature and attended scope, and
 retains the recorded source readings. The sixty-two Principles are not
 enumerated in this passage.
->>>>>>> 3aa100f (Upgrade Dhātu studies and Form System)

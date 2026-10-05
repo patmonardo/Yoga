@@ -1,30 +1,13 @@
 # VAK_1.14 Bhāṣya — The Same Ten, Feeling, and Reflection
 
+Source: [`VAK_1.14.md`](./VAK_1.14.md).
+
 ## 1. Kārikā Anchor
 
 > indriyārthās ta eveṣṭā daśāyatanadhātavaḥ /
 >
 > vedanānubhavaḥ saṃjñā nimittodgrahaṇātmikā // 1.14 //
 
-<<<<<<< HEAD
-Literal:
-
-> These very organs and meanings are accepted as the ten essences and the ten
-> principles. Feeling is undergoing. Reflection has the taking up of the mark
-> as its nature.
-
-Bhāṣya-informed:
-
-> The five organs and the five meanings already stated in the form-base are
-> accepted as ten essences, and as the same ten principles. *Avijñapti* is not
-> among the ten. Feeling is undergoing: pleasant, painful, or neither. Divided,
-> six groups, from eye-contact through mind-contact. Reflection takes up the
-> mark: blue and yellow, long and short, woman and man, and the rest. Divided,
-> six groups, as with feeling.
-
-The commentary distributes the ten, then defines feeling and reflection. The
-next verse takes up formations. It is not taken here.
-=======
 > These very Faculties and meanings are accepted as the ten Essences
 > and the ten Principles. Feeling is undergoing. *Saṃjñā* consists in reflection.
 
@@ -32,7 +15,6 @@ The working vocabulary is *skandha* = Base, *āyatana* = Essence,
 *dhātu* = Principle, and *saṃjñā* = Reflection. The Sanskrit definitions
 and the Bhāṣya's examples remain visible below. The source account and
 Organon interpretation remain distinct.
->>>>>>> 3aa100f (Upgrade Dhātu studies and Form System)
 
 ## 2. Continuous Sanskrit
 
@@ -63,18 +45,19 @@ Organon interpretation remain distinct.
 >
 > sa punar bhidyamānaḥ ṣaṭ saṃjñākāyā vedanāvat /
 
-The unit runs from the form-base contents through the six groups of
-reflection. Span: `[010|07]`–`[010|18]`. Word division is editorial. The local
-e-text reads *indriyārthasta ... aśāyatanadhātavaḥ*, *cakṣurchātū*, and
-*yāvamvanaḥsaṃsparśajā*. Read with the kārikā, and as *cakṣurdhātuḥ*,
-*yāvan manaḥsaṃsparśajā*. *Mitramitra* is transmitted. Friend and enemy is a
-possible division, uncertain at the letter. Not a critical text.
+This unit runs from `[010|07]` through `[010|18]` in
+`kosabhasya.txt`. `[010|19]` opens 1.15. Word division and punctuation
+are editorial. The running text reads `indriyārthasta ...
+aśāyatanadhātavaḥ`, `cakṣurchātū`, and
+`yāvamvanaḥsaṃsparśajā`. The verse is read with the Kārikā witness
+as *indriyārthās ta ... daśāyatanadhātavaḥ*; the list is read as
+*cakṣurdhātuḥ* and the last contact as *yāvan manaḥsaṃsparśajā*.
+The transmitted `mitramitra` remains above. Dividing it into friend
+and enemy is contextual and uncertain at the letter level. These are
+working readings of a local e-text, without independent collation.
 
-## 3. Continuous Translation
+## 3. Continuous Bhāṣya Translation
 
-<<<<<<< HEAD
-The very ones already stated as having the nature of the form-base:
-=======
 > The very things already stated to have the nature of the Form Base—
 > the Faculties and meanings—are accepted as the ten Essences and
 > the ten Principles. In the Essence arrangement there are ten
@@ -94,47 +77,15 @@ The very ones already stated as having the nature of the form-base:
 > blue and yellow, long and short, woman and man, friend and enemy,
 > pleasant and painful is the Reflection Base. Divided further, it
 > comprises six groups of reflection, as with feeling.
->>>>>>> 3aa100f (Upgrade Dhātu studies and Form System)
 
-These very organs and meanings are accepted as the ten essences and the ten
-principles.
+“Friend and enemy” is a possible construal of the damaged `mitramitra`
+and requires checking against a printed witness. “Reflection” is the
+project's adopted rendering of *saṃjñā*; “taking up marks” translates
+the operation stated in the Sanskrit.
 
-In the essence-arrangement, ten essences: eye-essence, visible-form-essence,
-through body-essence and tangible-essence.
-
-In the principle-arrangement, these very ten principles: eye-principle,
-visible-form-principle, through body-principle and tangible-principle.
-
-The form-base has been stated, and its essence-arrangement. Feeling and the
-rest are to be stated. Among them, feeling is undergoing.
-
-Undergoing is threefold. That is the feeling-base: pleasant, painful, and
-neither painful nor pleasant.
-
-Divided further, six groups of feeling: feeling born of eye-contact, through
-feeling born of mind-contact.
-
-Reflection has the taking up of the mark as its nature.
-
-The taking up of marks such as blue, yellow, long, short, woman, man,
-*mitramitra*, pleasant, painful, and the rest: that is the reflection-base.
-
-Divided further, six groups of reflection, as with feeling.
-
-No opponent is named.
-
-## 4. Movement
+## 4. Movement of the Commentary
 
 ```text
-<<<<<<< HEAD
-already in the form-base
-    → these very organs and meanings
-    → ten essences
-    → the same ten principles
-form-base closed
-    → feeling: three tones; six groups by contact
-    → reflection: the mark; six groups, as feeling
-=======
 contents already in the Form Base
     → the same five faculties and five meanings
     → ten Essences in the āyatana arrangement
@@ -142,24 +93,15 @@ contents already in the Form Base
 completion of the Form Base account
     → Feeling: three tones of undergoing; six contact-born groups
     → Reflection: taking up marks; six groups as with Feeling
->>>>>>> 3aa100f (Upgrade Dhātu studies and Form System)
 ```
 
-## 5. The Same Ten
+The prose first explains identity across two arrangements, then opens
+two further Bases. Its examples and sixfold divisions are Bhāṣya
+determinations; the verse itself gives two short definitions. There
+is no separately speaking opponent in this unit.
 
-*Ya eva rūpaskandhasvabhāvā uktāḥ* resumes the form-base. *Te eva* carries
-the same organs and meanings. *Daśa* is distributed.
+## 5. The Same Ten in Two Arrangements
 
-<<<<<<< HEAD
-| Arrangement | Opens | Closes | Count |
-|---|---|---|---|
-| essence | eye-essence, visible-form-essence | body-essence, tangible-essence | ten |
-| principle | eye-principle, visible-form-principle | body-principle, tangible-principle | the same ten |
-
-The lists alternate organ and meaning. *Yāvat* covers the middle. *Avijñapti*
-is in the form-base and not among these ten. *Ukto rūpaskandhaḥ* closes that
-account before the new definitions.
-=======
 *Ya eva rūpaskandhasvabhāvā uktāḥ* resumes the contents of the
 Form Base. *Te eva* carries those same Faculties and meanings into
 two arrangements. The commentary distributes *daśa* explicitly:
@@ -174,67 +116,34 @@ middle members. *Avijñapti* belongs to the Form Base discussed in
 1.13 but is absent from these ten; 1.15 specifies its Dharma Essence
 and Dharma Principle projections. *Ukto rūpaskandhaḥ* closes the Form
 Base account before the new definitions begin.
->>>>>>> 3aa100f (Upgrade Dhātu studies and Form System)
 
-## 6. Feeling
+## 6. Feeling as Undergoing
 
-Feeling is undergoing. Three tones: pleasant, painful, neither. Six groups,
-by contact, from the eye through mind. The tones are how it is undergone. The
-groups are the contact it is born from. Not nine bases. No order against
-reflection is stated.
+*Vedanā 'nubhavaḥ* is the Kārikā's compressed definition. The Bhāṣya
+determines *anubhava* by three tones: pleasant, painful, and neither
+painful nor pleasant. It then divides the Feeling Base into six groups
+according to their contact condition, from eye-contact through
+mind-contact. The first division concerns how Feeling is undergone;
+the second concerns its source in contact. Three tones and six groups
+do not make nine separate Bases. No temporal order between Feeling
+and Reflection is asserted here.
 
-## 7. Reflection
+## 7. Reflection and the Taking Up of Marks
 
-The nature is the taking up of the mark. The commentary gives the marks:
-blue and yellow, long and short, woman and man, pleasant and painful, and the
-transmitted *mitramitra*. The operation is reflection. The English does not
-replace the Sanskrit.
+*Nimittodgrahaṇātmikā* says that *saṃjñā* has the taking up of marks
+as its nature. The commentary illustrates *nimitta* with color,
+length, human and social distinctions, and pleasant and painful marks.
+This is the operation rendered “reflection” in the study; that English
+term does not replace the Sanskrit account of mark-apprehension.
 
-*Asau saṃjñāskandhaḥ* gathers it as the reflection-base. *Vedanāvat* transfers
-the six groups. It does not transfer the three tones, and it does not identify
-the two bases.
+*Asau saṃjñāskandhaḥ* gathers the operation as the Reflection Base.
+The closing *vedanāvat* transfers Feeling's sixfold pattern to
+Reflection. It does not identify the two Bases or transfer Feeling's
+three tones to reflection. The examples do not establish a complete
+theory of recognition or judgment.
 
-Worldly designation in 1.13 was a name for color and configuration. This
-reflection is the taking up of the mark. Not the same word in force.
+## 8. The Bhāṣya's Decisions for the Kārikā
 
-<<<<<<< HEAD
-## 8. Decisions for the Kārikā
-
-1. The ten essences and the ten principles are the same five organs and five
-   meanings.
-2. Each arrangement has ten. *Avijñapti* is not among them.
-3. Feeling is three tones of undergoing, and six groups by contact.
-4. Reflection takes up the mark, and has six groups on the same pattern.
-5. The form-base account closes in this unit. Formations begin after it.
-
-## 9. Interpretation
-
-*Te eva* is the hinge. Changing the arrangement does not create another organ
-or another meaning. Ten essences, and the same ten principles. Identity is
-kept. The arrangements are not two inventories.
-
-Organ, here, because an organized being is in view. The five serve. Meaning is
-what they are set toward. Essence is the arrangement of that pair. Principle
-is the same pair under the chapter word. Relation is the later grade. It is
-not the English of this verse.
-
-Feeling undergoes. Reflection takes the mark. Blue is a mark. Long is a mark.
-The mark is not yet the principle. The six groups run from eye-contact through
-mind-contact. Mind is the sixth support of the group. Not a seventh substance,
-and not stated as such here.
-
-The continuity of 1.13 is absent from the ten. It remains in the form-base,
-and it is not given an essence or a principle in this verse. That placement
-is the next study. Not opened.
-
-## 10. Review Status
-
-Upgraded reading of the fourteenth Bhāṣya study. The unit through the six
-groups checked against the running Sanskrit. *Mitramitra* left as transmitted.
-
-Cognition withdrawn. Organ and meaning, not faculty and object. Essence, not
-a second base-word. The next study is not opened.
-=======
 1. The ten Essences and ten Principles are the same five Faculties
    and five meanings already included in the Form Base.
 2. Each arrangement has ten; *avijñapti* is not among these ten.
@@ -289,4 +198,3 @@ Checked against the current Kārikā study, research Bhāṣya note, and
 running source at `[010|07]`–`[010|18]`. Damaged local readings and
 the uncertain *mitramitra* construal are marked. The study remains
 provisional pending printed-witness collation and critical reading.
->>>>>>> 3aa100f (Upgrade Dhātu studies and Form System)

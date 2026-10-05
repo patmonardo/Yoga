@@ -1,146 +1,153 @@
-# VAK_1.21 Bhāṣya — Feeling and Reflection as Distinct Bases
+# VAK_1.21 Bhāṣya — Why Feeling and Reflection Receive Distinct Bases
 
 ## 1. Kārikā Anchor
 
 > vivādamūlasaṃsārahetutvāt kramakāraṇāt /
 >
-> caittebhyo vedanāsaṃjñe pṛthakskandhau niveśitau // 1.21 //
+> caittebhyo vedanāsaṃjñe pṛthak skandhau niveśitau // 1.21 //
 
-Literal:
+> Because they are causes of the roots of dispute and saṃsāra, and because
+> of the rationale for the sequence, Feeling and Reflection are established
+> as distinct Bases apart from the other mental factors.
 
-> Because they are causes of the roots of dispute and of saṃsāra, and because
-> of the reason of order, feeling and reflection are established as two distinct
-> bases apart from the other mental factors.
-
-Bhāṣya-informed:
-
-> Feeling and reflection receive distinct bases because they are principal
-> causes of the two roots of dispute. Savoring feeling leads to fixation upon
-> sensual desire. Inverted reflection leads to fixation upon views. Both are
-> also principal causes of saṃsāra. The order of the bases is a further reason,
-> and it is explained next.
-
-The commentary names the two roots, assigns the principal causes, and defers
-the order. The exclusion of the unconditioned, and the order itself, open 1.22.
-They are not taken here.
+The Bhāṣya distinguishes the two roots of dispute from the two factors that
+principally cause them. It explains those causal connections and defers the
+rationale of the Base sequence to the subsequent exposition.
 
 ## 2. Continuous Sanskrit
 
-> kiṃ punaḥ kāraṇaṃ caitasikā ekatra saṃskāraskandhanikṣiptā vedanāsaṃjñe tu
-> pṛthak skandhīkṛte ity āha /
+> kiṃ punaḥ kāraṇaṃ caitasikā ekatra saṃskāraskandhanikṣiptā
+> vedanāsaṃjñe tu pṛthak skandhīkṛte ity āha /
+> vivādamūlasaṃsārahetutvāt kramakāraṇāt / caittebhyo vedanāsaṃjñe
+> pṛthak skandhau niveśitau / dve vivādamūle / kāmādhyavasānaṃ
+> dṛṣṭyadhyavasānaṃ ca / tayor vedanāsaṃjñe yathākramaṃ pradhānahetū /
+> vedanāsvādavaśād dhi kāmān abhiṣvajante viparītasaṃjñāvaśāc ca
+> dṛṣṭīr iti / saṃsārasyāpi te pradhānahetū / vedanāsvādagṛddho hi
+> viparyastasaṃjñaḥ saṃsarati /
 >
-> vivādamūlasaṃsārahetutvāt kramakāraṇāt /
+> yac ca skandhakrame kāraṇam upadekṣyamāṇaṃ tato 'pi kramakāraṇād
+> anayoḥ pṛthakskandhīkaraṇaṃ veditavyam / etac ca
+> tredhopapādayiṣyāmaḥ /
+
+The natural unit runs from the question at printed location 014.15–16
+through the announcement of a threefold demonstration at 014.23. The next
+verse opens by discussing why the unconditioned are not included among the
+Bases and subsequently takes up their order. Neither discussion is
+imported into the present unit.
+
+Word division and punctuation are editorial. The running source's
+`pṛthakaskndhau`, `viṣaryastasaṃjñaḥ`, and `tredho papādayiṣyāmaḥ`
+are normalized to `pṛthak skandhau`, `viparyastasaṃjñaḥ`, and
+`tredhopapādayiṣyāmaḥ`, supported by the research report and the local
+syntax. The research kārikā's Devanāgarī reads `cittebhyaḥ`, while its
+IAST and the running source have `caittebhyaḥ`. The latter, “from the
+mental factors,” is followed here; the opening prose's `caitasikāḥ`
+confirms the subject of the comparison. The official kārikā Devanāgarī
+has been corrected; the research files remain unchanged.
+
+## 3. Continuous Textual Translation
+
+> Why are the mental factors placed together in the Formations Base, while
+> Feeling and Reflection are established as distinct Bases? It is said:
+> because they are causes of the roots of dispute and saṃsāra, and because
+> of the rationale for the sequence, Feeling and Reflection are established
+> as Bases apart from the other mental factors.
 >
-> caittebhyo vedanāsaṃjñe pṛthak skandhau niveśitau /
+> There are two roots of dispute: fixation upon sensual pleasures and
+> fixation upon views. Feeling and Reflection are respectively their
+> principal causes. Under the influence of savoring Feeling, people cling
+> to sensual pleasures; under the influence of inverted Reflection, they
+> cling to views. These two are also principal causes of saṃsāra. One who
+> is greedy for the savor of Feeling and whose Reflection is inverted
+> wanders in saṃsāra.
 >
-> dve vivādamūle /
->
-> kāmādhyavasānaṃ dṛṣṭyadhyavasānaṃ ca /
->
-> tayor vedanāsaṃjñe yathākramaṃ pradhānahetū /
->
-> vedanāsvādavaśād dhi kāmān abhiṣvajante viparītasaṃjñāvaśāc ca dṛṣṭīr iti /
->
-> saṃsārasyāpi te pradhānahetū /
->
-> vedanāsvādagṛddho hi viparyastasaṃjñaḥ saṃsarati /
->
-> yac ca skandhakrame kāraṇam upadekṣyamāṇaṃ tato 'pi kramakāraṇād anayoḥ
-> pṛthakskandhīkaraṇaṃ veditavyam /
->
-> etac ca tredhopapādayiṣyāmaḥ /
+> The reason for the sequence of the Bases that will be explained should
+> also be understood as a reason for giving these two distinct Base
+> positions. We shall demonstrate this in three ways.
 
-The unit runs from the question through the promise of a threefold
-demonstration. Word division is editorial. The local e-text has *pṛthakaskndhau*,
-*viṣaryastasaṃjñaḥ*, and *tredho papādayiṣyāmaḥ*. Read *pṛthak skandhau*,
-*viparyastasaṃjñaḥ*, and *tredhopapādayiṣyāmaḥ*. Not a critical text.
+## 4. Movement of the Commentary
 
-## 3. Continuous Translation
+The question concerns the distinct Base positions assigned to two mental
+factors. The answer supplies causal explanations and points forward to a
+further reason concerning sequence:
 
-Why are the mental factors placed together in the formations-base, while
-feeling and reflection are established as distinct bases?
+```text
+Why give Feeling and Reflection distinct Base positions?
+    → principal causes of two roots of dispute
+    → principal causes of saṃsāra
+    → rationale of Base sequence, to be explained
+```
 
-Because they are causes of the roots of dispute and of saṃsāra, and because of
-the reason of order, feeling and reflection are established as bases apart from
-the other mental factors.
+The prose is a question and explanatory response. No separately identified
+opponent, scriptural quotation, or school attribution appears within this
+unit. The first-person future at the end marks the exposition's own promise
+of further explanation.
 
-There are two roots of dispute: fixation upon sensual desire, and fixation upon
-views. Feeling and reflection are, in that order, their principal causes. Under
-the influence of savoring feeling, one clings to sensual desires. Under the
-influence of inverted reflection, one clings to views.
+## 5. Two Roots and Their Principal Causes
 
-These two are also principal causes of saṃsāra. One who is greedy for the savor
-of feeling, and whose reflection is inverted, wanders in saṃsāra.
+The two roots are explicitly named as `kāmādhyavasāna` and
+`dṛṣṭyadhyavasāna`. `Adhyavasāna` is rendered “fixation” in this context:
+settling upon sensual pleasures or views with attachment. It is these
+fixations that the prose calls `vivādamūle`, roots of dispute.
 
-The reason for the order of the bases, which will be explained, is also to be
-understood as a reason for giving these two distinct bases. We shall
-demonstrate this in three ways.
+The next sentence assigns their principal causes through the dual `tayor`
+and the ordered qualifier `yathākramam`:
 
-## 4. Movement
-
-| Voice | Move |
-|---|---|
-| Question | Why two bases, if both are mental factors? |
-| Answer | Causes of the roots of dispute, of saṃsāra, and of the order. |
-| Named | Two fixations. Two principal causes, in order. |
-| Saṃsāra | One subject: greedy for the savor, inverted in reflection. |
-| Promise | The order, in three ways. Not given here. |
-
-No school is named.
-
-## 5. Two Roots
-
-The roots are the fixations, not feeling and reflection themselves.
-
-| Principal factor | Mediation | Root |
+| Principal factor | Mediating condition named in the prose | Root of dispute |
 |---|---|---|
-| feeling | savor of feeling | fixation upon sensual desire |
-| reflection | inverted reflection | fixation upon views |
+| Feeling (*vedanā*) | savoring Feeling | fixation upon sensual pleasures |
+| Reflection (*saṃjñā*) | inverted Reflection | fixation upon views |
 
-*Yathākramam* keeps the order. Principal is not sole. The passage does not
-reduce every condition of a dispute to one mental factor.
+The research report sometimes calls Feeling and Reflection themselves the
+two roots. The Bhāṣya's wording is more precise: they are `pradhānahetū`,
+principal causes of those roots. The anchor consequently construes
+`vivādamūlasaṃsārahetutvāt` as causal status with respect to the roots
+of dispute and saṃsāra. “Principal” belongs to the prose's clarification.
 
-Feeling is not the fixation. The savor is the mediation. Reflection is not the
-view. The inversion is the mediation. Not every reflection is inverted.
+That qualification also matters causally. Principal causes are not asserted
+to be sole sufficient causes. The passage identifies why these factors
+receive prominence within Base classification; it does not reduce every
+condition of a dispute to one mental factor.
 
-## 6. The One Who Wanders
+## 6. Savoring and Distorted Mark-Grasping
 
-*Vedanāsvādagṛddhaḥ* and *viparyastasaṃjñaḥ* qualify one subject. Both belong to
-the one who wanders. The two determinations join. They are not two inventories
-set side by side.
+`Vedanāsvādavaśāt` specifies being under the influence of savoring Feeling.
+The accusative `kāmān` is governed by `abhiṣvajante`, they cling to or
+embrace. “Sensual pleasures” preserves its contrast with the second object,
+`dṛṣṭīḥ`, views. In the second clause the same verb is understood from
+the first: under the influence of inverted Reflection, they cling to views.
 
-## 7. The Deferred Order
+The relation is therefore not simply that Feeling is sensual fixation.
+The prose supplies savoring as the relevant mediation. Nor is every
+operation of Reflection identified with error. It is expressly qualified
+by `viparīta`, inverted, and later by `viparyasta`, distorted.
 
-*Upadekṣyamāṇam* points to what will be explained. *Tredhopapādayiṣyāmaḥ*
-promises a demonstration in three ways. That demonstration is not this unit.
-The next verse first excludes the unconditioned from the bases, then takes up
-the order. Neither is imported here.
+The definition from 1.14 gives the Reflection clause a specific background:
+Reflection grasps a mark. Inversion of that operation can therefore be
+examined as part of how views become objects of attachment. The present unit
+does not enumerate particular false views or give a full theory of how the
+inversion originates. Those are further questions, not additions to the
+continuous translation.
 
-## 8. Decisions for the Kārikā
+## 7. Saṃsāra and the Deferred Reason from Sequence
 
-1. *Caittebhyaḥ* is the other mental factors. Feeling and reflection remain of
-   that class.
-2. The roots of dispute are the two fixations. Feeling and reflection are their
-   principal causes, in that order.
-3. Savor and inversion are the mediations. Not every feeling, and not every
-   reflection, is the root.
-4. Principal is not sole.
-5. The one who wanders is greedy for the savor and inverted in reflection.
-6. The reason of order is announced and deferred.
+`Saṃsārasyāpi te pradhānahetū` extends principal causality to saṃsāra.
+The next sentence uses a singular subject qualified in two ways:
+`vedanāsvādagṛddhaḥ`, greedy for the savor of Feeling, and
+`viparyastasaṃjñaḥ`, whose Reflection is inverted. Both qualify the one who
+`saṃsarati`, wanders in saṃsāra.
 
-## 9. Interpretation
+The statement joins the two determinations in the account of continued
+wandering. It does not merely repeat two independent classifications. The
+felt and mark-grasping operations become significant through the ways they
+participate in attachment and distortion.
 
-The placement is a cut inside the mental factors, not a promotion out of them.
-Feeling is undergoing. The hinge is the savor. Reflection takes up the mark.
-The hinge is the inverted mark. The bases make those hinges visible. They do
-not make feeling or reflection a substrate that owns the rest, and they do not
-make them substances.
+The closing reference to `skandhakrama` adds a different ground for distinct
+Base status. `Upadekṣyamāṇam` points to what will be explained;
+`anayoḥ` refers to the two factors; and `pṛthakskandhīkaraṇam` names their
+being assigned distinct Bases. The future `upapādayiṣyāmaḥ` promises a
+demonstration in three ways.
 
-<<<<<<< HEAD
-The two routes join in the one who wanders. They are not collapsed into one
-route. The order that would rank the bases is the next verse. It is not opened
-here.
-=======
 This promise should not be treated as a completed explanation within 1.21.
 The next unit first addresses the exclusion of the unconditioned and then
 returns to the Base sequence. The edition preserves that sequence rather
@@ -192,12 +199,15 @@ substance or translate the Bhāṣya into Kantian terms. The text's separate
 reason from Base sequence remains deferred, and its promised demonstration
 is not supplied in this verse. The following unit records four ordering
 accounts against this passage's threefold promise without harmonizing them.
->>>>>>> 3aa100f (Upgrade Dhātu studies and Form System)
 
 ## 10. Review Status
 
-Upgraded reading of the twenty-first Bhāṣya study. The unit through the promise
-of three ways checked against the running Sanskrit.
+QA review of the twenty-first Bhāṣya study. The unit through 014.23 has been
+compared with the local research commentary, the kārikā opening in both
+scripts, and the running Sanskrit. These are comparisons within the local
+corpus, not a collation of every surviving textual witness.
 
-Knowledge Base and Reasoning withdrawn. The order is deferred. The next study
-is not opened.
+The Devanāgarī/IAST difference and the running-source repairs are recorded.
+The study distinguishes the roots of dispute from their principal causes
+and preserves the promised sequence explanation as deferred. Original
+research files and the Part One reading artifact remain unchanged.

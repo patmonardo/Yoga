@@ -14,28 +14,31 @@
 
 ## 3. Lexical Analysis
 
+**Sentence words**
+
 ```text
-vijñānam            → principle
-prativijñaptiḥ      → respective apprehension
-mana āyatanam      → the mind-essence
-tat                → that same principle
-dhātavaḥ sapta      → seven principles
-ṣaḍ vijñānāni     → the six principles
-atho manaḥ         → and mind
+vijñānam | prativijñaptiḥ | manaḥ | āyatanam | ca | tat |
+dhātavaḥ | sapta | ca | matāḥ | ṣaṭ | vijñānāni | atho | manaḥ
 ```
+
+**External sandhi**
+
+| Verse form | Resolved words |
+|---|---|
+| vijñānaṃ prativijñaptiḥ | vijñānam + prativijñaptiḥ |
+| mana āyatanaṃ | manaḥ + āyatanam |
+| ṣaḍvijñānāny atho | ṣaṭ + vijñānāni + atho |
+
+*Prativijñapti* is *prati* + *vijñapti*. The Bhāṣya expands it:
+*viṣayaṃ viṣayaṃ prati vijñaptiḥ*, apprehension with respect to each
+condition, and glosses that as *upalabdhi*. The repetition and the
+gloss belong to the commentary. They are not a second dictionary
+meaning of the verse-word.
+
+**Lexical and morphological determination**
 
 | Pada | Morphology | Force in this passage |
 |---|---|---|
-<<<<<<< HEAD
-| vijñānam | nominative neuter | the principle defined |
-| prativijñaptiḥ | nominative feminine | the predicate |
-| manaḥ | nominative | mind, in the essence; and the seventh |
-| āyatanam | nominative | essence |
-| tat | nominative | that same base |
-| dhātavaḥ | nominative plural | principles |
-| sapta matāḥ | numeral and participle | seven are accepted |
-| ṣaṭ vijñānāni | numeral and plural | the six |
-=======
 | vijñānam | nominative neuter singular | the principle being defined |
 | prativijñaptiḥ | nominative feminine singular | respective apprehension; predicate noun |
 | manaḥ | nominative neuter singular | mind, in *mana āyatana*; also the seventh named principle |
@@ -46,12 +49,11 @@ atho manaḥ         → and mind
 | sapta | numeral | seven |
 | matāḥ | nominative masculine plural participle | accepted; agrees with *dhātavaḥ* |
 | ṣaṭ vijñānāni | numeral and nominative neuter plural | the six principles |
->>>>>>> 3aa100f (Upgrade Dhātu studies and Form System)
 | atho | connective | and also |
+| manaḥ | nominative neuter singular | mind, as the seventh principle (*manodhātu*) |
 
-*Prati* is respective. The commentary opens it: apprehension with respect
-to each condition, glossed *upalabdhi*. Gender differs. The referent does
-not.
+Gender differs. *Vijñānam* is neuter and *prativijñaptiḥ* is feminine.
+The referent does not change.
 
 ## 4. Grammar
 
@@ -63,12 +65,6 @@ tat = manaḥ āyatanam
 dhātavaḥ sapta = ṣaṭ vijñānāni + manaḥ
 ```
 
-<<<<<<< HEAD
-*Tat* resumes the principle-base. One content under the essence-arrangement.
-Not a mind beside the principle. The seven are the six, and mind. The
-mind-group principle is one of the six. The mind-principle is the seventh.
-Their relation is the next verse.
-=======
 The first clause is a nominal definition. The copula is understood.
 
 *Tat* is neuter and resumes *vijñānam*. The Bhāṣya specifies its
@@ -82,28 +78,11 @@ as the Eye Principle through the Mind-Cognition Principle, and names
 the seventh *manodhātu*, the Mind Principle. Those two mind-names stay
 distinct. Their relation
 is the next verse.
->>>>>>> 3aa100f (Upgrade Dhātu studies and Form System)
 
 ## 5. Translation
 
 ### Literal Translation
 
-<<<<<<< HEAD
-Principle is respective apprehension. That is also the mind-essence. Seven
-principles are accepted: the six principles, and mind.
-
-### Bhāṣya-informed study translation
-
-Principle is apprehension with respect to each condition. The principle-base
-is six groups, from the eye-principle through the mind-group principle. That
-same base is the mind-essence. As principles, seven are accepted: those six,
-and the mind-principle.
-
-The commentary then closes the count. Five bases, twelve essences, eighteen
-principles. The form-base, apart from *avijñapti*, is the ten essences and the
-ten principles. Feeling, reflection, and formations, together with *avijñapti*
-and the unconditioned, are the dharma-essence and the dharma-principle.
-=======
 Principle is respective apprehension. That is also Mind Essence.
 Seven Principles are accepted: the six Principles, and Mind.
 
@@ -119,28 +98,9 @@ eighteen Principles. Form, apart from *avijñapti*, is the ten Essences
 and ten Principles. Feeling, Reflection, and Formations, together with
 *avijñapti* and the unconditioned, are the Dharma Essence and Dharma
 Principle. The unconditioned enter that pair and have no Base.
->>>>>>> 3aa100f (Upgrade Dhātu studies and Form System)
 
 ## 6. Systematic Placement
 
-<<<<<<< HEAD
-Again, two lines. The first defines the principle and places it as an essence.
-The second counts seven.
-
-Principle is respective apprehension. The commentary opens the respect: each
-condition, glossed as *upalabdhi*. That same principle is the mind-essence.
-Not a second thing.
-
-Seven are accepted. Six run from the eye-principle through the mind-group
-principle. The seventh is the mind-principle. The sixth and the seventh are
-not one name counted twice.
-
-The commentary closes the count on this verse. Five bases. Twelve essences.
-Eighteen principles. The form-base, apart from *avijñapti*, is the ten. The
-three beginning with feeling, with *avijñapti* and the unconditioned, are the
-dharma-essence and the dharma-principle. The principle-base is the
-mind-essence, and the seven.
-=======
 The Bhāṣya identifies the principle-base as the content carried through
 the three projections:
 
@@ -151,26 +111,11 @@ the three projections:
 This closes the count at five Bases, twelve Essences, and eighteen
 Principles. The relation between the six and Mind Principle is left to
 1.17.
->>>>>>> 3aa100f (Upgrade Dhātu studies and Form System)
 
 ## 7. Technical Vocabulary
 
 | Sanskrit | Rendering | Note |
 |---|---|---|
-<<<<<<< HEAD
-| vijñāna | principle | not consciousness |
-| prativijñapti | respective apprehension | *upalabdhi*, each condition |
-| vijñāna-skandha | principle-base | defined here |
-| mana-āyatana | mind-essence | the same base |
-| manovijñāna-dhātu | mind-group principle | one of the six |
-| manodhātu | mind-principle | the seventh |
-| cakṣurvijñāna | eye-principle | first of the six |
-| rūpa-skandha | form-base | organs, meanings, and *avijñapti* |
-| avijñapti | *avijñapti* | form; not among the ten |
-| saṃjñā | reflection | not this verse's predicate |
-| viṣaya | condition | the commentary's each |
-| upalabdhi | apprehension | gloss, not the verse-word |
-=======
 | vijñāna | Principle | not consciousness; not cognition |
 | prativijñapti | respective apprehension | Bhāṣya: *upalabdhi* with respect to each Condition |
 | vijñānaskandha | principle-base | the Base defined in this verse |
@@ -184,37 +129,10 @@ Principles. The relation between the six and Mind Principle is left to
 | skandha | Base | |
 | viṣaya | Condition | the Bhāṣya's *viṣayaṃ viṣayam* |
 | upalabdhi | apprehension | commentary gloss, not the verse-word |
->>>>>>> 3aa100f (Upgrade Dhātu studies and Form System)
 
 ## 8. Logical Determination
 
 ```text
-<<<<<<< HEAD
-form-base
-    apart from avijñapti → ten essences, ten principles
-    avijñapti remains form
-
-1.15
-    feeling, reflection, formations
-    with avijñapti and the unconditioned
-    → dharma-essence and dharma-principle
-
-1.16
-    principle = respective apprehension
-    that = mind-essence
-    seven = six + mind-principle
-    sixth of the six ≠ the seventh
-
-close
-    five bases
-    twelve essences     10 + 1 + 1
-    eighteen principles 10 + 1 + 7
-
-1.17 not opened
-```
-
-## 9. OWL++ Seed
-=======
 1.14   ten Essences, ten Principles
        five Faculties, five meanings
 
@@ -249,7 +167,6 @@ The hinge is *tat*, then the seven. Interpretation of that hinge is in
 the Bhāṣya. It is not repeated here.
 
 ## 10. OWL++ Seed
->>>>>>> 3aa100f (Upgrade Dhātu studies and Form System)
 
 ```ttl
 @prefix vak: <http://127.0.0.1:3000/vak#> .
@@ -259,9 +176,17 @@ vak:VAK_1_16 a vak:Karika ;
     vak:belongsTo vak:Dhatunirdesa .
 
 vak:PrincipleBase vak:definedAs vak:RespectiveApprehension ;
-    vak:also vak:MindEssence .
-vak:MindGroupPrinciple vak:memberOf vak:SixPrinciples .
-vak:MindPrinciple vak:distinctFrom vak:MindGroupPrinciple .
+    vak:also vak:MindEssence ;
+    vak:projectedAs vak:SixPrinciples, vak:MindPrinciple .
+
+vak:MindCognitionPrinciple vak:memberOf vak:SixPrinciples .
+vak:MindPrinciple vak:distinctFrom vak:MindCognitionPrinciple ;
+    vak:relationOpenedIn vak:VAK_1_17 .
+
+vak:CountClose vak:bases 5 ;
+    vak:essences 12 ;
+    vak:principles 18 .
 vak:Avijnapti vak:remainsIn vak:FormBase ;
-    vak:notAmong vak:Ten .
+    vak:alsoEnters vak:DharmaEssence, vak:DharmaPrinciple .
+vak:Unconditioned vak:hasBase false .
 ```

@@ -1,4 +1,4 @@
-# VAK_1.25 — Speech or Name
+# VAK_1.25 — The Dharma-Collections within Form and Formations
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -14,9 +14,6 @@
 
 ## 3. Lexical Analysis
 
-<<<<<<< HEAD
-| Pada | Morphology | Force in this passage |
-=======
 **Sandhi and compounds**
 
 | Verse form | Analysis |
@@ -28,22 +25,20 @@
 | rūpasaṃskārasaṃgrahaḥ | rūpa-saṃskāra-saṃgrahaḥ |
 
 | Form | Morphology | Force here |
->>>>>>> 3aa100f (Upgrade Dhātu studies and Form System)
 |---|---|---|
-| dharmaskandhasahasrāṇi | dharma-skandha-sahasrāṇi; nominative neuter plural | dharma-collections, in thousands |
-| yāni | nominative neuter plural | which |
-| aśītim | numeral accusative | eighty; with the thousands, eighty thousand |
-| jagau | perfect, third singular | proclaimed |
-| muniḥ | nominative masculine singular | the Sage |
-| tāni | nominative neuter plural | those |
-| vāṅnāma | vāk + nāma | speech, or name |
-| vā iti | particles | or; the alternative is closed |
+| dharma-skandha-sahasrāṇi | nominative neuter plural compound | thousands of Dharma-collections, or teaching divisions |
+| yāni | nominative neuter plural relative pronoun | which |
+| aśītim | numeral | eighty; with *sahasrāṇi*, eighty thousand |
+| jagau | third-person singular perfect of `√gai` | proclaimed or taught |
+| muniḥ | nominative masculine singular | the Sage, the Buddha |
+| tāni | nominative neuter plural demonstrative | those Dharma-collections |
+| vāk | nominative feminine singular | speech |
+| nāma | nominative neuter singular | name |
+| vā | alternative particle | or |
+| iti | quotative particle | closes the alternative phrase |
 | eṣām | genitive plural | of these |
-| rūpasaṃskārasaṃgrahaḥ | rūpa-saṃskāra-saṃgrahaḥ; nominative masculine singular | inclusion in form and formations |
+| rūpa-saṃskāra-saṃgrahaḥ | nominative masculine singular compound | inclusion in Form and Formations |
 
-<<<<<<< HEAD
-`Skandha` in this compound is the collection of teaching. It is not a sixth base.
-=======
 In the fixed scriptural expression *dharma-skandha*, *skandha* names a
 collection or body of teaching. It does not name an additional ontological
 Base beside the five. The controlled Organon terms are **Base** for
@@ -51,52 +46,64 @@ Base beside the five. The controlled Organon terms are **Base** for
 *dharma* remains **Dharma**. In this scriptural compound, *dharma-skandha*
 is rendered **Dharma-collection** to preserve its context-specific
 meaning.
->>>>>>> 3aa100f (Upgrade Dhātu studies and Form System)
 
 ## 4. Grammar
+
+The relative construction supplies the collections in the first line and
+resumes them with `tāni`:
 
 ```text
 yāni ... jagau muniḥ
     which the Sage proclaimed
 
-tāni vāk nāma vā iti
-    those: speech, or name
-
-eṣām rūpa-saṃskāra-saṃgrahaḥ
-    their inclusion is in form and formations
+tāni ... saṃgrahaḥ
+    those [collections] are included
 ```
 
-The relative is resumed by `tāni`. `Vā` keeps the alternatives. The verse does not say each collection is both. It does not choose.
+`Vāk nāma vā` gives alternatives: “speech or name.” The compact second
+half says that the collections are included in Form and Formations. The
+Bhāṣya resolves the compressed relation distributively through two
+conditional accounts:
+
+```text
+if Buddha-word has speech as its nature
+    → the teaching is included in the Form Base
+
+if Buddha-word has name as its nature
+    → the teaching is included in the Formations Base
+```
+
+The verse does not say that each collection is simultaneously both speech
+and name. Nor does it choose between the two accounts. `Rūpa` and
+`saṃskāra` here name the Bases of inclusion: Form Base and Formations Base.
 
 ## 5. Translation
 
 ### Literal Translation
 
-The eighty thousand dharma-collections which the Sage proclaimed — speech, or name — their inclusion is in form and formations.
+> The eighty thousand Dharma-collections which the Sage proclaimed—speech
+> or name—are included in Form and Formations.
 
 ### Bhāṣya-informed study translation
 
-Other things designated in the sūtras as bases, essences, and principles are also found. Are they included in these very classifications, or do they stand apart? They are included in these very classifications. They do not stand apart.
+> The eighty thousand Dharma-collections proclaimed by the Sage are
+> included in the established Bases according to how Buddha-word is
+> understood: on the account that its nature is speech, in the Form Base;
+> on the account that its nature is name, in the Formations Base.
 
-First, the eighty thousand dharma-collections which the Sage proclaimed. For those who hold that Buddha-word is speech by nature, they are included in the form-base. For those who hold that it is name by nature, they are included in the formations-base.
+The verse states the alternatives compactly. The Bhāṣya makes their
+conditional distribution explicit without resolving the disagreement.
 
 ## 6. Philosophical Translation
 
-<<<<<<< HEAD
-The eighty thousand are speech, or name. Their inclusion is in form, or in formations.
-=======
 The compound *dharma-skandha* names a teaching-collection; its classification
 here turns on what Buddha-word is held to be: audible speech or name. On the
 first account, it belongs to the Form Base; on the second, to the Formations
 Base. The teaching is classified according to the reported nature of
 Buddha-word.
->>>>>>> 3aa100f (Upgrade Dhātu studies and Form System)
 
-Speech by nature: the form-base. Name by nature: the formations-base. The verse reports both. It does not decide.
+**Organon reading**
 
-<<<<<<< HEAD
-The collection is not a further base. The name base, or essence, or principle, in a sūtra, does not stand apart from the places already stated.
-=======
 > The teaching that articulates the system is itself located within the
 > system. As speech, it has an outward, sensible occurrence and is gathered
 > under Form. As name, it has a formed linguistic determination and is
@@ -109,24 +116,11 @@ The placement makes the teaching itself available to the system's
 discrimination. The Bhāṣya reports the alternatives and their respective
 inclusion; it does not claim that speech and name are two jointly necessary
 aspects.
->>>>>>> 3aa100f (Upgrade Dhātu studies and Form System)
 
 ## 7. Technical Vocabulary
 
-| Sanskrit | Rendering | Note |
+| Sanskrit | Project rendering | Determination |
 |---|---|---|
-<<<<<<< HEAD
-| dharmaskandha | dharma-collection | a teaching-collection; not a sixth base |
-| aśīti sahasrāṇi | eighty thousand | the number proclaimed |
-| muni | the Sage | the one who proclaimed them |
-| vāk | speech | one account of Buddha-word |
-| nāma | name | the other account |
-| buddhavacana | Buddha-word | speech by nature, or name by nature |
-| rūpa-skandha | form-base | inclusion on the speech account |
-| saṃskāra-skandha | formations-base | inclusion on the name account |
-| saṃgraha | inclusion | in these very classifications |
-| vyatireka | standing apart | denied |
-=======
 | skandha | Base | one of the five gathered classifications |
 | dharma-skandha | Dharma-collection | scriptural body or division of teaching, not an additional ontological Base |
 | dharma | Dharma | retained in the compound *dharma-skandha* |
@@ -141,38 +135,20 @@ aspects.
 | nāma-svabhāva | name as nature | grounds inclusion in the Formations Base |
 | saṃgraha | inclusion | placement within an established Base |
 | jagau | proclaimed | the Sage's act of teaching |
->>>>>>> 3aa100f (Upgrade Dhātu studies and Form System)
 
 ## 8. Logical Determination
 
+The verse's alternatives classify the Dharma-collections through the
+attributed nature of Buddha-word:
+
 ```text
-other scriptural names
-    bases, essences, principles
-    included
-    not apart
+HasNature(BuddhaWord, Speech)
+    → IncludedIn(DharmaCollection, FormBase)
 
-eighty thousand
-    proclaimed by the Sage
-
-speech by nature
-    form-base
-
-name by nature
-    formations-base
-
-vā
-    both reported
-    neither chosen
-
-not a sixth base
-measure of the collection is the next verse
+HasNature(BuddhaWord, Name)
+    → IncludedIn(DharmaCollection, FormationsBase)
 ```
 
-<<<<<<< HEAD
-## 9. Interpretive Note
-
-The hinge is `vā`. The form system receives its own teaching. Speech enters form. Name enters formations. The disagreement is left standing.
-=======
 The Bhāṣya frames this example within a broader question:
 
 ```text
@@ -215,19 +191,31 @@ held to be speech, and in the Formations Base if it is held to be name.
 These remain distinct reported accounts. Verse 1.26 asks how a
 Dharma-collection is measured; 1.27 extends the discussion to other
 scriptural designations.
->>>>>>> 3aa100f (Upgrade Dhātu studies and Form System)
 
 ## 10. OWL++ Seed
 
 ```ttl
 @prefix vak: <http://127.0.0.1:3000/vak#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
-vak:VAK_1_25 a vak:Karika ;
-    vak:hasTopic vak:SpeechOrName ;
+vak:VAK_1_25
+    a vak:Karika ;
+    rdfs:label "VAK 1.25" ;
+    vak:hasTopic vak:InclusionOfDharmaCollections ;
     vak:belongsTo vak:Dhatunirdesa .
 
-vak:DharmaCollection vak:notA vak:Base ;
-    vak:ifSpeech vak:FormBase ;
-    vak:ifName vak:FormationsBase .
-vak:ScripturalName vak:standsApart false .
+vak:DharmaCollection
+    a vak:ScripturalTeachingDivision ;
+    vak:distinctFrom vak:AdditionalBase .
+
+vak:BuddhaWordAsSpeech
+    a vak:ReportedNature ;
+    vak:includedIn vak:FormBase .
+
+vak:BuddhaWordAsName
+    a vak:ReportedNature ;
+    vak:includedIn vak:FormationsBase .
+
+vak:ReportedNature
+    vak:determinesInclusionIn vak:EstablishedBase .
 ```

@@ -1,89 +1,38 @@
-<<<<<<< HEAD
-# VAK_1.23 Bhāṣya — The Order of the Six
-=======
 # VAK_1.23 Bhāṣya — Ordering Faculties, Conditions, and Principles
->>>>>>> 3aa100f (Upgrade Dhātu studies and Form System)
 
 ## 1. Kārikā Anchor
 
 > prāk pañca vārttamānārthyāt bhautikārthyāc catuṣṭayam /
 >
-> dūrāśutaravṛttyānyat yathāsthānaṃ kramo 'thavā // 1.23 //
+> dūrāśutaravṛtty anyat yathāsthānaṃ kramo 'thavā // 1.23 //
 
-Literal:
+> The five come first because their objects are present; four because their
+> objects are derived Form. The remainder is ordered by farther or quicker
+> operation; alternatively, the order follows location.
 
-<<<<<<< HEAD
-> The five come first, because their objects are present. The four, because
-> their objects are derived form. The rest, by farther or quicker operation.
-> Or the order is according to location.
-
-Bhāṣya-informed:
-
-> The five, beginning with the eye, are stated first, because they take a
-> present object. Mind is not restricted to the present. Of the five, four are
-> stated first, because their object is derived form. The body's object is
-> sometimes the great elements, sometimes derived form, sometimes both. Eye and
-> ear take a distant object, and the eye operates farther than the ear. Nose is
-> stated before tongue, because it takes the odor of food before the food
-> reaches the tongue. Or the order follows the sites in the body. Mind depends
-> on those organs and is not situated in a place.
-
-The commentary orders the six. The question why one material essence is called
-form, and one essence the dharma-essence, opens 1.24. It is not taken here.
-=======
 The Bhāṣya explains successive distinctions within the six Faculties.
 Their Conditions and Principles follow the Faculty order. Bodily
 location is then offered as an alternative explanation.
->>>>>>> 3aa100f (Upgrade Dhātu studies and Form System)
 
 ## 2. Continuous Sanskrit
 
 > āyatanadhātūnāṃ ṣaṇṇāṃ cakṣurādīnām anukramo vaktavyaḥ /
->
-> tadvaśenaiva hi tadviṣayavijñānānāṃ kramaḥ /
->
-> teṣāṃ ca punaḥ ṣaṇṇām /
->
-> prāk pañca vārttamānārthyāt /
->
-> cakṣurādīni pañca varttamānaviṣayatvāt pūrvam uktāni /
->
-> manas tv aniyataviṣayam /
->
+> tadvaśenaiva hi tadviṣayavijñānānāṃ kramaḥ / teṣāṃ ca punaḥ ṣaṇṇāṃ /
+> prāk pañca vārttamānārthyāt / cakṣurādīni pañca
+> varttamānaviṣayatvāt pūrvam uktāni / manas tv aniyataviṣayam /
 > kiñcid varttamānaviṣayaṃ kiñcit vyadhvānadhraviṣayam /
+> bhautikārthyāc catuṣṭayam / prāg iti varttate / pañcānāṃ punaś
+> catvāri pūrvam uktāni / bhautikaviṣayatvāt / kāyasya tv aniyato
+> viṣayaḥ / kadācid bhūtāni kadācid bhautikaṃ kadācid ubhayam /
 >
-> bhautikārthyāc catuṣṭayam /
->
-> prāg iti varttate /
->
-> pañcānāṃ punaś catvāri pūrvam uktāni / bhautikaviṣayatvāt /
->
-> kāyasya tv aniyato viṣayaḥ /
->
-> kadācid bhūtāni kadācid bhautikaṃ kadācid ubhayam /
->
-> dūrāśutaravṛttyānyat /
->
-> śeṣaṃ punar yathāyogaṃ dūrāśutaravṛttyā pūrvam uktam /
->
-> cakṣuḥśrotraṃ hi dūraviṣayam / tat pūrvam uktaṃ dvayāt /
->
-> tayor api cakṣuṣo dūrataraṃ vṛttiḥ /
->
+> dūrāśutaravṛttyā 'nyat / śeṣaṃ punar itasmād yathāyogaṃ
+> dūrāśutaravṛttyā pūrvam uktam / cakṣuḥśrotraṃ hi dūraviṣayam /
+> tat pūrvam uktaṃ dvayāt / tayor api cakṣuṣo dūratare vṛttiḥ /
 > paśyato 'pi dūrān nadīṃ tacchabdāśravaṇād atas tat pūrvam uktam /
->
-> ghrāṇasya tu nāsti dūre vṛttiḥ / jihvāyāś ca /
->
-> tayor āśutaravṛttitvāt ghrāṇaṃ pūrvam uktam aprāptasyaiva jihvā bhojyasya
+> ghrāṇasya tu nāsti dūre vṛttiḥ / jihvāyāś ca / tayor
+> āśutaravṛttitvāt ghrāṇaṃ pūrvam uktam aprāptasyaiva jihvā bhojyasya
 > gandhagrahaṇāt /
 >
-<<<<<<< HEAD
-> yathāsthānaṃ kramo 'thavā /
->
-> athavā asmin śarīre cakṣuṣo 'dhiṣṭhānam upariṣṭān niviṣṭam /
->
-> tasmād adhaḥ śrotrasya / tasmād adho ghrāṇasya / tasmāj jihvāyāḥ /
-=======
 > yathāsthānaṃ kramo 'thavā / athavā asmin śarīre cakṣuṣo 'dhiṣṭhānam
 > upariṣṭān niviṣṭam / tasmād adhaḥ śrotrasya / tasmād adho ghrāṇasya /
 > tasmāj jihvāyāḥ / takyāḥ syāsya bahulyena / manaḥ punas tāny eva
@@ -133,24 +82,17 @@ independent intact readings of the running witness.
 > stated first. Nose does not operate at a distance, nor does tongue.
 > Of those two, nose is stated first because it operates more quickly,
 > apprehending the odor of food [before the food has reached the tongue].
->>>>>>> 3aa100f (Upgrade Dhātu studies and Form System)
 >
-> takyāḥ syāsya bahulyena /
->
-> manaḥ punas tāny eva niśritam adeśasthaṃ ceti yathāsthānam eṣāṃ kramaḥ syāt /
+> Or the order follows location. In this body the eye's site is placed
+> uppermost; below it is the ear's, below that the nose's, and below that
+> the tongue's. [Then comes the body's site, for the most part; the phrase
+> is damaged.] Mind depends upon those very faculties and is not situated
+> in a place. Thus their order may follow their locations.
 
-The unit runs from the order of the six through the sites. Word division is
-editorial. Three expressions are not repaired: *vyadhvānadhraviṣayam*,
-*aprāptasyaiva jihvā bhojyasya*, and *takyāḥ syāsya bahulyena*. Not a critical
-text.
+## 4. Movement of the Commentary
 
-## 3. Continuous Translation
+The principal account successively distinguishes smaller groups:
 
-<<<<<<< HEAD
-The order of the six, beginning with the eye, among the essences and the
-principles, is to be stated. The order of their conditions and of their
-principles follows that order.
-=======
 ```text
 six Faculties within Essence and Principle arrangements
    → five sensory faculties before Mind
@@ -159,43 +101,11 @@ five sensory faculties
 remaining four
     → eye and ear before nose and tongue
     → eye before ear; nose before tongue
->>>>>>> 3aa100f (Upgrade Dhātu studies and Form System)
 
-Of those six, the five come first, because their objects are present. The five
-beginning with the eye are stated first, because they have a present object.
-Mind, however, has an unrestricted object. Some of it is a present object. Some
-of it is the damaged compound.
+alternative account
+   → order according to bodily sites, with Mind treated separately
+```
 
-<<<<<<< HEAD
-The four, because their objects are derived form. “First” carries forward. Of
-the five, four are stated first, because they have derived form as object. The
-body's object is unrestricted in this respect: sometimes the great elements,
-sometimes derived form, sometimes both.
-
-The rest, by farther or quicker operation. The remainder is stated first, as
-fits, by farther or quicker operation. Eye and ear have a distant object, so
-they are stated before the other two. Of those two, the eye operates farther:
-one sees a river from afar and does not hear its sound. Therefore the eye is
-stated first. Nose does not operate at a distance, nor does tongue. Of those
-two, nose is stated first, because it operates more quickly, taking the odor of
-food before that food has reached the tongue. The phrase is damaged.
-
-Or the order is according to location. In this body the site of the eye is
-placed uppermost. Below that, the ear. Below that, the nose. Below that, the
-tongue. Then the body's site, for the most part: the phrase is damaged. Mind
-depends on those very organs and is not situated in a place. So their order may
-follow the sites.
-
-## 4. Movement
-
-| Voice | Move |
-|---|---|
-| Opening | Order of the six. Conditions and principles follow. |
-| First cut | Five before mind: present object. |
-| Second cut | Four before body: derived form. |
-| Remainder | Eye before ear, by distance. Nose before tongue, by the food. |
-| Alternative | Sites, descending. Mind has no place. |
-=======
 The opening states that corresponding Condition and Principle sequences
 follow the Faculty order. It does not assert that Faculties create their
 Conditions in that temporal sequence. The unit is explanatory, with no
@@ -219,83 +129,55 @@ such Conditions; the Body Faculty may also take the Elements themselves.
 Its `aniyata` therefore concerns a different respect from Manas's:
 Conditions may be Elements, derived Form, or both, rather than an
 unrestricted Condition-range.
->>>>>>> 3aa100f (Upgrade Dhātu studies and Form System)
 
-No school is named.
+`Prāg iti varttate`, “first carries forward,” is an explicit grammatical
+instruction. The omitted precedence in the second verse phrase is supplied
+from the first. Thus four are placed before Body within the already selected
+five, not declared to precede all six under a new unrelated enumeration.
 
-## 5. Present, and Derived Form
+## 6. Distance and Quicker Operation
 
-<<<<<<< HEAD
-The five take a present object. That is why they precede mind. Mind is not
-restricted to the present. The further compound is not reconstructed. The
-contrast is secure. The wording of the rest is not.
-=======
 `Yathāyogam`, as appropriate, distributes the distance and speed criteria.
 Eye and ear are paired as having distant Conditions, and the river example
 then distinguishes eye from ear. It illustrates the stated comparative
 reach; it is not a universal physical measurement of every possible visual
 and auditory event.
->>>>>>> 3aa100f (Upgrade Dhātu studies and Form System)
 
-Derived form places the four before the body. The body's unrestricted range is
-a different respect: element, derived form, or both. Not a range across times.
+Nose and tongue are both denied distant operation in the local account.
+Their order is explained instead by the earlier apprehension of food's
+odor. The damaged `jihvā bhojyasya` is provisionally construed with the
+food not yet having reached the tongue. The absence of oral contact does
+not assert the absence of any contact relevant to olfaction. That distinction
+allows the explanation to be preserved alongside the preceding denial of
+distant operation for nose.
 
-## 6. Distance, and the Food
+“Quicker” concerns the priority illustrated by smelling before tasting.
+The passage gives no measured processing latency, and the translation does
+not convert the example into a claim about neural speed. These are grounds
+for the stated list order within the commentary's sensory account.
 
-Eye and ear take a distant object. The river distinguishes them. It is the
-commentary's example, not a measure of every seeing and hearing.
+## 7. The Alternative through Location
 
-Nose and tongue do not operate at a distance. Nose is first because the odor is
-taken before the food reaches the tongue. “Quicker” is that priority. It is not
-a latency.
+`Athavā` introduces an alternative account, rather than one more step in
+the preceding elimination of groups. The eye, ear, nose, and tongue sites
+are arranged in a descending sequence. The text refers to `adhiṣṭhāna`,
+a bodily site, and does not redefine the faculty as that gross site.
 
-## 7. The Sites
+The body-site clause is severely damaged. The research report reads
+`tataḥ kāyasya bahulyena`; that provides a plausible reference to the
+body faculty's predominantly lower distribution. The continuous translation
+marks its dependence on that supplied interpretation. It does not silently
+turn the clause into an intact statement that the body faculty occurs only
+below the tongue, or merely paraphrase it as “throughout the body.”
 
-<<<<<<< HEAD
-*Athavā* is an alternative, not a further cut in the same elimination. The site
-is not the organ. The body clause stays damaged. Mind depends on those organs
-and is not in a place. Non-location does not make mind unconditioned.
-=======
 Mind is described as depending on “those very” Faculties and as
 `adeśastha`, not situated in a place. This statement belongs to the
 alternative ordering account. It does not assert that every Principle
 requires all five sensory Faculties together. Nor does non-location itself
 identify Manas with an unconditioned dharma.
->>>>>>> 3aa100f (Upgrade Dhātu studies and Form System)
 
-## 8. Decisions for the Kārikā
+## 8. The Bhāṣya's Decisions for the Kārikā
 
-<<<<<<< HEAD
-1. The order of the six governs the order of their conditions and principles.
-2. Present object places the five before mind. The further compound stays
-   damaged.
-3. Derived form places four before body.
-4. “First” carries forward.
-5. Distance and quicker operation are different comparisons.
-6. Location is an alternative. The body-site clause stays damaged.
-
-## 9. Interpretation
-
-This closes the base, and only the Form System. The five organs work in the
-present. Mind is not that restriction. The meanings and the principles follow
-the order of the organs. That is the Form System's last arrangement in this
-chapter: organs and meaning, objective, seated in the body or not seated at all.
-
-The Dharma System is the other direction. It unfolds as principle, then
-essence, then base. Those are different powers. The base gathered. The essence
-is the door. The principle is the source. To run them in that order is not this
-verse. This verse still reads from the organ outward.
-
-If that system holds, the armory of the determinations is available. It is not
-printed on the verse. 1.24 is not opened.
-
-## 10. Review Status
-
-Upgraded reading of the twenty-third Bhāṣya study. The order through the sites
-checked against the running Sanskrit. Three damaged phrases stay marked.
-
-Cognition withdrawn. This closes the Form System. The next study is not opened.
-=======
 1. The Faculty sequence governs corresponding Condition and Principle
    sequences as an expository arrangement.
 2. Present-Condition restriction places the sensory five before Mind; the
@@ -342,4 +224,3 @@ The damaged Manas compound, food/tongue phrase, body-site clause, and
 instrumental verse variation remain explicit. Structural validation does
 not resolve those philological questions. The Form System's sequence is
 closed here; 1.24 is not opened.
->>>>>>> 3aa100f (Upgrade Dhātu studies and Form System)
