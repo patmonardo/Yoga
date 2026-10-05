@@ -1,10 +1,10 @@
-# VAK_1.15 — Formations Base, Dharma Essence, and Dharma Principle
+# VAK_1.15 — Formations, and the Dharma Essence and Principle
 
 ## 1. Sanskrit (Devanāgarī)
 
 > चतुर्भ्योऽन्ये तु संस्कारस्कन्धः एते पुनस्त्रयः ।
 >
-> धर्मायतनधात्वाख्याः सहाविज्ञप्त्यसंस्कृतैः ॥ १.१५ ॥
+> धर्मायतनधात्वाख्याः सहाविज्ञप्त्यसंस्कृतैः ॥ १.१५ ॥॥
 
 ## 2. Sanskrit (IAST)
 
@@ -14,87 +14,29 @@
 
 ## 3. Lexical Analysis
 
-**Padaccheda — sentence words**
-
 ```text
-caturbhyaḥ | anye | tu | saṃskāraskandhaḥ |
-ete | punaḥ | trayaḥ |
-dharmāyatanadhātvākhyāḥ | saha | avijñaptyasaṃskṛtaiḥ
+caturbhyaḥ anye     → the others, apart from the four
+saṃskāra-skandhaḥ  → the formations-base
+ete punaḥ trayaḥ   → these three, again
+dharma-āyatana-dhātu-ākhyāḥ → called the dharma-essence and the dharma-principle
+saha              → together with
+avijñapti-asaṃskṛtaiḥ → avijñapti and the unconditioned
 ```
 
-**External sandhi**
-
-| Verse form | Resolved form |
-|---|---|
-| caturbhyo 'nye | caturbhyaḥ + anye |
-| punas trayaḥ | punaḥ + trayaḥ |
-| sahāvijñaptyasaṃskṛtaiḥ | saha + avijñaptyasaṃskṛtaiḥ |
-
-**Compound members and lexical force**
-
-| Compound | Members | Lexical determination |
-|---|---|---|
-| saṃskāraskandhaḥ | saṃskāra + skandhaḥ | Formations Base: the Base constituted by formations |
-| dharmāyatanadhātvākhyāḥ | dharma + āyatana + dhātu + ākhyāḥ | bearing the names Dharma Essence and Dharma Principle |
-| avijñaptyasaṃskṛtaiḥ | avijñapti + asaṃskṛtaiḥ | avijñapti and the unconditioned, taken together in the instrumental |
-
-Internal sandhi gives *dharma + āyatana → dharmāyatana*,
-*dhātu + ākhyā → dhātvākhyā*, and
-*avijñapti + asaṃskṛta → avijñaptyasaṃskṛta*.
-
-*Saṃskāra* is formation, from *saṃ-√kṛ*, forming or putting together.
-The Bhāṣya develops its operative force through
-*saṃskṛtam abhisaṃskaroti*: it actively forms the conditioned.
-*Asaṃskṛta* is *a-* + *saṃskṛta*, the negation of the past participle
-of that same verbal formation: unconditioned. The lexical relation
-therefore joins formation, the conditioned, and the unconditioned while
-preserving their distinct functions in the verse.
-
-*Skandha* supplies the gathered basis, rendered here as Base;
-*āyatana* and *dhātu* supply the further designations Essence and
-Principle. These renderings carry the Organon design. The compound
-with *ākhyā*, name or designation, states how the specified contents are
-named in the latter two arrangements.
-
-**Lexical and morphological determination**
-
-| Pada | Morphology | Determination in this passage |
-|---|---|---|
-| caturbhyaḥ | ablative plural of *catur*, “four” | apart from the four Bases; the Bhāṣya names them |
-| anye | nominative masculine plural of *anya* | the other formations; *saṃskārāḥ* is supplied by the Bhāṣya |
-| tu | indeclinable | but; marks the remaining formations |
-| saṃskāra-skandhaḥ | nominative masculine singular | the Formations Base; *saṃskārāṇāṃ skandhaḥ* |
-| ete | nominative masculine plural of *etad* | these; resumes the bases just established |
-| punaḥ | indeclinable | again; introduces their further determination |
-| trayaḥ | nominative masculine plural of *tri* | three; qualifies the understood *skandhāḥ* |
-| dharma-āyatana-dhātu-ākhyāḥ | nominative masculine plural | bearing the designations *dharmāyatana* and *dharmadhātu*: Dharma Essence and Dharma Principle |
-| saha | indeclinable, governing the instrumental | together with |
-| avijñapti-asaṃskṛtaiḥ | instrumental plural of a coordinative compound | with *avijñapti* and the unconditioned dharmas |
-
-**Compound structure**
-
-`Saṃskāra-skandha` is a genitive determinative compound:
-*saṃskārāṇāṃ skandhaḥ*, the base of formations.
-`Dharma-āyatana-dhātu-ākhyāḥ` distributes *dharma* across the two
-designations: *dharma-āyatana* and *dharma-dhātu*. Its final member,
-*ākhyā*, is “name” or “designation”; “are called” renders the naming
-construction. In
-`avijñapti-asaṃskṛta`, the two members are coordinated under the
-instrumental governed by *saha*. The final instrumental plural ending
-inflects the whole compound.
-
-| Form | Analysis | Force |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | caturbhyaḥ | ablative plural | apart from the four |
-| anye | nominative masculine plural | the others |
-| tu | contrastive | marks the remainder |
-| saṃskāra-skandhaḥ | nominative masculine singular | one Formations Base |
-| ete | nominative masculine plural | these |
-| punaḥ | indeclinable | resumes under the further naming. Not “again” as a new item |
-| trayaḥ | nominative masculine plural | the three |
-| dharma-āyatana-dhātu-ākhyāḥ | bahuvrīhi | called Dharma Essence and Dharma Principle |
-| saha | governs the instrumental | together with |
-| avijñapti-asaṃskṛtaiḥ | instrumental plural | *avijñapti* and the unconditioned |
+| anye | nominative plural | the others |
+| tu | particle | the remainder |
+| saṃskāra-skandhaḥ | nominative singular | one formations-base |
+| ete trayaḥ | nominative plural | these three |
+| punaḥ | particle | resumes them under the further name |
+| ākhyāḥ | bahuvrīhi | bearing the names |
+| saha | governs instrumental | together with |
+| avijñaptyasaṃskṛtaiḥ | instrumental plural | the two accompaniments |
+
+*Saṃskāra* is formation. *Asaṃskṛta* is unconditioned, the negation of
+conditioned. *Āyatana* is essence. *Dhātu* is principle. *Ākhyā* is the name.
 
 ## 4. Grammar
 
@@ -107,150 +49,112 @@ ete trayaḥ
     = dharma-āyatana-dhātu-ākhyāḥ
 ```
 
-`Caturbhyaḥ` depends on *anye*: the others apart from the four.
-The Bhāṣya supplies *saṃskārāḥ*, formations, as the plural subject.
-The singular predicate *saṃskāraskandhaḥ* names their gathered Base.
-The copula is understood.
-
-The four are the Form Base, Feeling Base, Reflection Base, and Knowledge
-Base. The remaining conditioned formations constitute the Formations
-Base. The restriction to conditioned formations matters: the
-unconditioned does not enter this remainder.
-
-`Ete ... trayaḥ` resumes the Feeling Base, Reflection Base, and
-Formations Base.
-The plural *dharmāyatanadhātvākhyāḥ* agrees with these three Bases.
-`Punaḥ` resumes them under the Dharma Essence and Dharma Principle
-naming; it does not introduce another Base. `Saha` governs the
-instrumental and brings *avijñapti* and the unconditioned into the same
-designation.
-
-The Bhāṣya specifies the arrangement with
-`āyatanadhātuvyavasthāyām`. The accompanying contents preserve their
-status: *avijñapti* belongs to the Form Base, while the unconditioned
-has no Base. Neither becomes an additional *skandha* through this
-naming.
+The plural subject is gathered by a singular predicate. *Punaḥ* does not add
+a fourth base. *Saha* brings the accompaniments under the name. It does not
+make them bases.
 
 ## 5. Translation
 
 ### Literal Translation
 
-The others, apart from the four, are the Formations Base. These three,
-together with *avijñapti* and the unconditioned, are called the Dharma
-Essence and the Dharma Principle.
+The others, apart from the four, are the formations-base. These three, again,
+together with *avijñapti* and the unconditioned, are called the dharma-essence
+and the dharma-principle.
 
 ### Bhāṣya-informed study translation
 
-The remaining conditioned formations, apart from the Form, Feeling,
-Reflection, and Knowledge Bases, constitute the Formations Base. The
-Bhāṣya identifies “these three” as the Feeling Base, Reflection Base,
-and Formations Base. Together with *avijñapti* and the unconditioned,
-they are called the Dharma Essence and Dharma Principle. The
-Bhāṣya counts seven constituents: these three Bases, *avijñapti*, and
-the three unconditioned dharmas—space, cessation through discrimination,
-and cessation without discrimination.
+The formations apart from form, feeling, reflection, and the principle-base
+are the formations-base. The sūtra names six groups of volition because of its
+predominance. The remaining associated factors and the dissociated formations
+must be included, or they would fall outside suffering and origin, and outside
+full comprehension and abandonment. These three — feeling, reflection, and
+formations — together with *avijñapti* and the unconditioned, are called the
+dharma-essence and the dharma-principle. The commentary counts seven: the three
+bases, *avijñapti*, and the three unconditioned.
 
 ## 6. Philosophical Translation
 
-**Organon reconstruction**
+Again, two lines. The first gathers the remainder. The second names the three
+under essence and principle, and brings two accompaniments with them.
 
-The Formations Base completes the fivefold gathering of conditioned
-determinations: it gathers what is other than the Form, Feeling,
-Reflection, and Knowledge Bases. The three Bases named by the Bhāṣya
-then enter the shared Dharma Essence and Dharma Principle
-arrangements alongside *avijñapti* and the unconditioned.
+Apart from the four. The commentary names them: form, feeling, reflection, and
+the principle-base. The others are formations, and those formations are one
+base. The unconditioned does not enter this remainder.
 
-```text
-three Bases ──────────┐
-avijñapti ────────────┼─→ Dharma Essence + Dharma Principle
-three unconditioned ──┘
+The sūtra says six groups of volition. Predominance, not exhaustion. Volition
+is predominant in the active forming, because it has the nature of karma. It
+actively forms the conditioned; therefore it is called the formations-base of
+appropriation. The name can be taught from the chief member. The base is not
+the chief member alone.
 
-avijñapti      → remains Form within the Form Base
-unconditioned  → enters the shared arrangements without a Base
-```
+Otherwise the remaining associated factors, and the dissociated formations,
+would not be gathered in a base. They would not be suffering and origin. Full
+comprehension and abandonment would not apply to them. The Blessed One does
+not declare the ending of suffering without directly knowing and fully
+comprehending even a single dharma. Likewise, without abandoning. Their
+inclusion must be accepted. The argument is inclusion. It does not make the
+classifying itself the abandonment.
 
-The common placement does not erase constitutive differences. The
-Formations Base gathers conditioned formations; *avijñapti* remains
-Form; the unconditioned remains unconditioned and has no Base. The
-Bhāṣya's sevenfold count is therefore a cross-mapping, not seven
-homogeneous Bases.
+These three, again. Feeling, reflection, formations. Not the principle-base.
+Together with *avijñapti* and the unconditioned, they bear the names
+dharma-essence and dharma-principle.
 
-In the project vocabulary, Dharma-skandha is the Dharma Base. The Kārikā
-here names *dharmāyatana* and *dharmadhātu*, not *dharmaskandha*: these
-are Dharma Essence and Dharma Principle, respectively. The Knowledge
-Base (*vijñānaskandha*) is articulated in the following verse.
+Seven, in the commentary. Three bases. *Avijñapti*. Space, cessation through
+discrimination, cessation without discrimination. *Avijñapti* remains form,
+and remains in the form-base. The unconditioned has no base. The shared name
+does not make them one kind.
 
-For the Organon proper, this is a second Oculus design rule for the
-Dataset: preserve the same constituent across multiple relations, and
-preserve each constituent's status while it appears in a shared view.
-The source naming, Bhāṣya's sevenfold resolution, and Organon
-reconstruction remain separate layers.
+The placement left open at 1.14 is made here. The ten did not include the
+continuity. The continuity enters the dharma-essence and the dharma-principle,
+and does not leave the form-base.
+
+The next verse defines the principle-base. Not this one.
 
 ## 7. Technical Vocabulary
 
-| Sanskrit | Organon rendering or determination |
-|---|---|
-| saṃskāra-skandha | Formations Base |
-| vedanā-skandha | Feeling Base; named in the Bhāṣya |
-| saṃjñā-skandha | Reflection Base; named in the Bhāṣya |
-| vijñāna-skandha | Knowledge Base; named among the four in the Bhāṣya |
-| skandha | Base |
-| āyatana | Essence |
-| dhātu | Principle |
-| dharmāyatana | Dharma Essence |
-| dharmadhātu | Dharma Principle |
-| ākhyā | name; designation |
-| avijñapti | Form; also named in the Dharma Essence and Dharma Principle |
-| asaṃskṛta | unconditioned |
-| Dharma-skandha | project term: Dharma Base; not named in this verse |
-
-The verse's *dharmāyatana* and *dharmadhātu* are distinct designations.
-The project term Dharma-skandha is kept separate from the source
-compound; it does not add another Base to the verse.
+| Sanskrit | Rendering | Note |
+|---|---|---|
+| caturbhyaḥ | apart from the four | form, feeling, reflection, principle-base |
+| saṃskāra | formation | the remainder |
+| skandha | base | one formations-base |
+| cetanā | volition | predominant, not exhaustive |
+| abhisaṃskaroti | actively forms | the conditioned |
+| caitasika | associated factor | must be included |
+| viprayukta | dissociated | must be included |
+| ete trayaḥ | these three | feeling, reflection, formations |
+| dharma-āyatana | dharma-essence | the name |
+| dharma-dhātu | dharma-principle | the name |
+| avijñapti | *avijñapti* | remains form |
+| asaṃskṛta | unconditioned | no base |
+| sapta dravyāṇi | seven | the commentary's count |
 
 ## 8. Logical Determination
 
 ```text
-1.07–1.14   Form, Feeling, Reflection, and Knowledge Bases
+apart from four
+    form, feeling, reflection, principle-base
+    → the others are the formations-base
+    volition predominant
+    remainder included
 
-1.15        other conditioned formations
-                → Formations Base
+these three
+    feeling, reflection, formations
+    with avijñapti and the unconditioned
+    → dharma-essence and dharma-principle
 
-            Feeling Base + Reflection Base + Formations Base
-            together with avijñapti + three unconditioned dharmas
-                → Dharma Essence + Dharma Principle
+seven
+    three bases
+    avijñapti, still form
+    three unconditioned, no base
 
-            avijñapti      → retains Form Base; also in both designations
-            unconditioned  → no Base; in both designations
-
-1.16        Knowledge Base
-                → further principial articulation
+principle-base not among the three
+1.16 not opened
 ```
-
-The Bhāṣya names the first four Bases and resolves “these three.”
-Volition is predominant in active formation, but does not exhaust the
-Formations Base. The sevenfold count belongs to the commentary's
-resolution, not to the Kārikā's own enumeration.
 
 ## 9. Interpretive Note
 
-The Kārikā names the Formations Base and the common Dharma Essence
-and Dharma Principle designations. The Bhāṣya supplies the identities
-of the four and three, the predominance of volition, the Path-inclusion
-argument, and the sevenfold count; those determinations remain marked
-as commentary rather than being folded into the literal translation.
-
-System Light—the sole Organon indication that the machine is working—
-appears here in the common placement that still preserves difference:
-*avijñapti* remains Form, while the unconditioned has no Base. Both are
-included in the Dharma Essence and Dharma Principle arrangements
-without becoming the same kind of thing as the three Bases.
-
-For the Oculus, the Dataset must keep these relations distinct and
-traceable: one constituent may retain its Base classification while
-also participating in the shared Dharma designations, and some
-constituents have no Base at all. The visible unity is the preserved
-cross-mapping, not a flattened list.
+The hinges are *anye* and *saha*. Interpretation of the seven is in the
+Bhāṣya.
 
 ## 10. OWL++ Seed
 
@@ -258,15 +162,13 @@ cross-mapping, not a flattened list.
 @prefix vak: <http://127.0.0.1:3000/vak#> .
 
 vak:VAK_1_15 a vak:Karika ;
-    vak:hasTopic vak:FormationsBaseAndDharmaEssenceBase ;
+    vak:hasTopic vak:FormationsAndDharmaNames ;
     vak:belongsTo vak:Dhatunirdesa .
 
-vak:FormationsBase vak:definedByRemainder true .
-vak:DharmaEssenceBase vak:names vak:SevenConstituents .
-vak:DharmaPrinciple vak:names vak:SevenConstituents .
-vak:Avijnapti vak:remainsForm true ;
-    vak:alsoIncludedIn vak:DharmaEssenceBase, vak:DharmaPrinciple .
-vak:UnconditionedDharmas vak:hasBase false ;
-    vak:includedIn vak:DharmaEssenceBase, vak:DharmaPrinciple .
-vak:KnowledgeBase vak:memberOfThree false .
+vak:FormationsBase vak:apartFrom vak:FourBases .
+vak:ThreeBases vak:named vak:DharmaEssence, vak:DharmaPrinciple ;
+    vak:togetherWith vak:Avijnapti, vak:Unconditioned .
+vak:Avijnapti vak:remains vak:Form .
+vak:Unconditioned vak:hasBase false .
+vak:PrincipleBase vak:notAmong vak:TheseThree .
 ```
