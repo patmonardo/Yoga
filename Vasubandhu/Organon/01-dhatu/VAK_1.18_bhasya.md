@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # VAK_1.18 Bhāṣya — Inclusion by Own-Nature
+=======
+# VAK_1.18 Bhāṣya — Own-Nature and the Skandha Theory
+>>>>>>> 3aa100f (Upgrade Dhātu studies and Form System)
 
 ## 1. Kārikā Anchor
 
@@ -50,7 +54,35 @@ They are not taken here.
 > tasmān na yena viyuktas tenaiva saṃgṛhīto yujyate /
 >
 > tad yathā cakṣurindriyaṃ rūpaskandhena cakṣurāyatanadhātubhyāṃ ca
+<<<<<<< HEAD
 > duḥkhasamudayasatyābhyāṃ ca saṃgṛhītam /
+=======
+> duḥkhasamudayasatyābhyāṃ ca saṃgṛhītam / tatsvabhāvatvāt / nānyaiḥ
+> skandhādibhis tadbhāvaviyuktatvāt / yas tv anyenānyasya saṃgraha ucyate
+> yathā saṃgrahavastubhiḥ parṣadāṃ sa hi kādācitkatvāt sāṃketiko
+> veditavyaḥ /
+
+The natural unit runs from the classification-scope summary at printed
+location 012.04 through the conventional-gathering example at 012.15–16.
+The following objection concerning the paired eyes, ears, and nose belongs
+to 1.19.
+
+Word division and punctuation are supplied for reading. The running source's
+`skandehnāyatanena`, `parabhavena`, and split `ā yatanadhātubhiḥ` and
+`tadbhāva viyuktatvāt` are normalized to `skandhenāyatanena`,
+`parabhāvena`, `āyatanadhātubhiḥ`, and `tadbhāvaviyuktatvāt`.
+The local research report supports these readings. The normalized text
+preserves the source's distinction between strict and conventional inclusion.
+
+## 3. Continuous Translation
+
+> Here all conditioned dharmas are included by the bases; all Impure dharmas
+> by the bases of appropriation; and all dharmas by the essences
+> and principles. In brief, it should be understood that all are included
+> by one base, one essence, and one principle. The inclusion of all dharmas
+> is to be understood through the form-base, mind-essence, and
+> dharma-principle together.
+>>>>>>> 3aa100f (Upgrade Dhātu studies and Form System)
 >
 > tatsvabhāvatvāt /
 >
@@ -59,10 +91,17 @@ They are not taken here.
 > yas tv anyenānyasya saṃgraha ucyate yathā saṃgrahavastubhiḥ parṣadāṃ sa hi
 > kādācitkatvāt sāṃketiko veditavyaḥ /
 
+<<<<<<< HEAD
 The unit runs from the ranges through the assembly. Word division is editorial.
 The local e-text has *skandehnāyatanena*, *parabhavena*, and the splits
 *ā yatanadhātubhiḥ* and *tadbhāva viyuktatvāt*. Read *skandhenāyatanena*,
 *parabhāvena*, *āyatanadhātubhiḥ*, and *tadbhāvaviyuktatvāt*. Not a critical text.
+=======
+The project renderings are *skandha*, base; *āyatana*, essence; *dhātu*,
+principle; and *sāsrava*, Impure. Sanskrit is retained where needed to
+identify the source form. “With outflows” is not used as the operative
+English term.
+>>>>>>> 3aa100f (Upgrade Dhātu studies and Form System)
 
 ## 3. Continuous Translation
 
@@ -118,12 +157,24 @@ all the conditioned. The unconditioned are in the third row, and in no base.
 
 | Named | What the preceding verses already placed |
 |---|---|
+<<<<<<< HEAD
 | form-base | five organs, five meanings, *avijñapti* |
 | mind-essence | the principle-base |
 | dharma-principle | feeling, reflection, formations, *avijñapti*, the unconditioned |
 
 Together they cover all. Not each alone. *Avijñapti* is in the form-base and
 in the dharma-principle. That overlap is the inclusion, not a flaw in it.
+=======
+| form-base (*rūpaskandha*) | five material faculties, five sensory objects, *avijñapti* |
+| mind-essence (*mana-āyatana*) | principle-base (*vijñānaskandha*) |
+| dharma-principle (*dharmadhātu*) | *vedanā*, *saṃjñā*, *saṃskāra*, *avijñapti*, and the unconditioned |
+
+This is comprehensive coverage with overlap: *avijñapti* occurs in both the
+form-base and dharma-principle. It is not a division into three mutually
+exclusive classes. The unconditioned enter through the principle
+classification, preserving the opening statement that bases alone cover only
+the conditioned.
+>>>>>>> 3aa100f (Upgrade Dhātu studies and Form System)
 
 ## 6. Own-Nature
 
@@ -164,6 +215,7 @@ inserted.
 
 ## 9. Interpretation
 
+<<<<<<< HEAD
 The preceding verse's objection counted by substance. That count was pointing
 past the Impure. None of the eighteen, as included here, is that. The Impure
 row is a substrate: what appropriation takes up, and what persists as taken up.
@@ -179,11 +231,51 @@ the same thing, and they do not become a substance by being jointly sufficient.
 The second line is the discipline. A place is warranted by the nature had, and
 refused by the nature not had. The assembly keeps the other use of the word
 honest. Gathering happens. It is not membership.
+=======
+## 9. Interpretation
+
+VAK 1.18 gives the Kośa's Skandha Theory in compressed form. Bases include
+all conditioned dharmas; bases of appropriation include all Impure dharmas;
+essences and principles include all dharmas. The selected form-base,
+mind-essence, and dharma-principle jointly comprehend the whole. This is
+not a flat inventory or an identity of three terms. *Avijñapti* shows how
+one dharma can enter distinct classifications without erasing their
+differences. The complete census remains five Bases, twelve Essences, and
+eighteen Principles.
+
+The mind-essence is the Essence determination of the principle-base. As 1.17
+shows, Manas is one of the six Principles in its immediately-past support
+office, not an additional principle-substance. The selected mind-essence
+therefore brings the Principle field into the threefold inclusion without
+collapsing its distinct determinations.
+
+The Kantian-transcendental question is what grounds the possibility of
+comprehensive classification. The Bhāṣya answers: *svabhāva*, own-nature,
+and separation from *parabhāva*, another's nature. The eye faculty is
+included where its own nature warrants; alien natures do not classify it.
+This gives the Organon's Skandha Theory a criterion of principial
+membership, not a doctrine of isolated substances. Kant supplies the
+interpretive question, not Vasubandhu's vocabulary.
+
+The assembly example preserves practical life: people can be gathered
+conventionally and occasionally, but that does not establish inclusion by
+own-nature. The two senses of gathering remain distinct without making the
+practical one unreal.
+>>>>>>> 3aa100f (Upgrade Dhātu studies and Form System)
 
 ## 10. Review Status
 
 Upgraded reading of the eighteenth Bhāṣya study. Ranges, named three,
 own-nature, the eye, and the assembly checked against the running Sanskrit.
 
+<<<<<<< HEAD
 The Impure row is substrate, not substance. That reading is once, here. The
 next verse is not opened.
+=======
+The study makes the joint coverage and avijñapti overlap explicit, while
+preserving the local scope of `parabhāvaviyoga`. The Interpretation section
+keeps the transcendental question distinct from the Bhāṣya's wording and
+retains the practical force of the assembly example. The assembly means are
+not expanded beyond the supplied text. Original research files and the Part
+One reading artifact are preserved.
+>>>>>>> 3aa100f (Upgrade Dhātu studies and Form System)

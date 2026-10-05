@@ -61,17 +61,26 @@ The eighteen principles are taught in order to establish the sixth support.
 
 ### Bhāṣya-informed study translation
 
+<<<<<<< HEAD
 Mind is not a seventh principle beside the six. Whichever of those six has
 just ceased is called mind, and called the mind-principle, in its office as
 support. The five have supports of their own. The mind-group principle has no
 further support of that kind. Eighteen are taught so that this sixth support
 be established.
+=======
+Mind is not a seventh Principle beside the six. Whichever of those six
+has just ceased is called Mind, and called the Mind Principle, in its
+office as support. The five have supports of their own. The
+Mind-Cognition Principle has no further support of that kind. Eighteen
+are taught so that this sixth support be established.
+>>>>>>> 3aa100f (Upgrade Dhātu studies and Form System)
 
 The support does not require a successor. An arhat's final consciousness
 remains mind. Another cause is wanting, and no next principle arises.
 
-## 6. Philosophical Translation
+## 6. Systematic Placement
 
+<<<<<<< HEAD
 Again, two lines. The first answers 1.16. The second says why the count is
 eighteen.
 
@@ -91,11 +100,18 @@ the sixth support. It is not a sixth eye.
 The last test is quiet. If mind meant whatever produces the next, an arhat's
 final consciousness would fail the name. It does not fail. The office remains.
 The next does not arise, because another cause is wanting.
+=======
+The Bhāṣya resolves the eighteen Principles as six supports, six
+supported Principles, and six Objects. Mind is the sixth support: the
+immediately ceased Principle among the six, not an additional Principle.
+Support is a distinct relation, not a synonym for production.
+>>>>>>> 3aa100f (Upgrade Dhātu studies and Form System)
 
 ## 7. Technical Vocabulary
 
 | Sanskrit | Rendering | Note |
 |---|---|---|
+<<<<<<< HEAD
 | vijñāna | principle | one of the six; not consciousness |
 | manas | mind | the same principle, just ceased |
 | manodhātu | mind-principle | the office, not a seventh substance |
@@ -107,31 +123,44 @@ The next does not arise, because another cause is wanting.
 | citta | consciousness | the arhat's final consciousness; not mind |
 | dravyataḥ | by substance | the objection's count |
 | prasiddhi | establishment | so that the sixth support be known |
+=======
+| vijñāna | Principle | one of the six; not *citta* |
+| manas | Mind | the same Principle, just ceased |
+| manodhātu | Mind Principle | the office, not an additional substance |
+| manovijñāna-dhātu | Mind-Cognition Principle | the sixth of the six; the supported |
+| anantarātīta | immediately past | Bhāṣya: *samanantara-niruddha* |
+| āśraya | support | the office mind fills |
+| āśrita | the supported | the six Principles |
+| ālambana | Object | distinct from support and from *viṣaya* |
+| citta | consciousness | the arhat's final consciousness; distinct from *manas* |
+| dravyataḥ | by substance | the objection's count, not the eighteen Principles |
+| prasiddhi | establishment | so that the sixth support be established |
+>>>>>>> 3aa100f (Upgrade Dhātu studies and Form System)
 
 ## 8. Logical Determination
 
 ```text
-1.16   seven names: six principles + mind-principle
+1.16   seven names: six Principles + Mind Principle
        relation not yet said
 
 1.17   of those six, whichever has just ceased
-           → mind
-           → mind-principle, as support
+           → Mind
+           → Mind Principle, as support
 
        present office     one of the six
        just-ceased office mind, the sixth support
 
        five supports      eye and the rest
        sixth support      mind
-       supported          six principles
-       borne              six
+       supported          six Principles
+       objects            six
        6 + 6 + 6 = 18
 
        objection          17, or 12, by substance
        reply              eighteen, for the sixth support
 
        arhat's last consciousness
-           remains mind
+           remains Mind
            no successor, another cause wanting
            support ≠ production
 
@@ -162,7 +191,7 @@ vak:Mind vak:isOneOf vak:SixPrinciples ;
 
 vak:EighteenPrinciples vak:supports 6 ;
     vak:supported 6 ;
-    vak:borne 6 .
+    vak:objects 6 .
 
 vak:FinalArhatConsciousness vak:remains vak:Mind ;
     vak:hasSuccessor false ;

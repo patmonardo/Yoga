@@ -332,5 +332,188 @@ Upgraded reading of the thirteenth Bhāṣya study. The unit through the last
 reply checked against the running Sanskrit. Damaged forms repaired for
 reading, not collated.
 
+<<<<<<< HEAD
 Cognition withdrawn. Eye-principle is the principle. The name *avijñapti*
 stays. Designation is not reflection. The next study is not opened.
+=======
+## 7. Objections: atom and the times
+
+The atom reply denies an isolated atomic form as a separate occurrence,
+not atomic constituents. *Saṃghātasthaṃ* means situated in a
+collection. The time reply uses *tajjātīya*, belonging to that kind:
+past and future form need not be undergoing alteration now.
+
+```text
+past rūpa      that which has undergone alteration
+present rūpa   that which undergoes alteration
+future rūpa    that which will undergo alteration
+```
+
+## 8. Avijñapti and the dependence debate
+
+The hard member is *avijñapti*, placed in the form-base in 1.11
+as a non-disclosive stream. Section 3 keeps the successive proposed
+answers, objections, criticism, and last *anye* reply in order.
+
+```text
+continuing dependence     avijñapti on the Elements
+condition of arising      cognition on the faculty
+```
+
+```text
+originating mahābhūtas cease
+    yet the avijñapti-stream may continue
+```
+
+The criticism shows what the analogies cannot explain. It does not supply a complete theory of later-moment support, and it does not convert continuation after those supports cease into independence from every material basis. Answer 6 remains *anye*. “Unaffected” follows the local rūpa criterion; it does not say manas is unconditioned.
+
+## 9. Argument Summary
+
+```text
+ordinary language names visible complexes
+    “earth,” “water,” “fire”
+        ↓
+Abhidharma distinguishes those appearances
+from hardness, cohesion, and heat as elemental principles
+        ↓
+wind is a special case:
+worldly wind may name the vāyu-dhātu itself,
+though visible wind-formations also receive the name
+        ↓
+what unifies the entire form-base?
+        ↓
+rūpa as susceptibility to alteration or affliction
+        ↓
+tested against atom, past and future form, and avijñapti
+        ↓
+avijñapti is the hard case:
+it continues without ordinary disclosure or impact
+        ↓
+dependence theories proposed and criticized
+        ↓
+classification as rūpa is retained;
+exact grounding remains contested
+```
+
+## 10. The Bhāṣya's Decisions for the Kārikā
+
+1. Water and fire continue the worldly color-configuration clause. Wind receives its own clause and then a qualification.
+2. `Tathāpi ca` allows worldly designation of wind through color and configuration. It does not flatten the four names into one formula.
+3. The prose extends beyond the verse to the unity of the form-base, including *avijñapti*.
+4. Being affected is production of alteration. Obstruction is another account.
+5. Aggregation and temporal kind broaden the criterion beyond an isolated present twitch.
+6. The avijñapti debate must keep proposals, objections, rejected analogies, and the last differentiated-support reply in sequence.
+
+## 11. Technical Vocabulary
+
+| Sanskrit | Working English | Distinction retained |
+|---|---|---|
+| `loka-saṃjñā` | worldly designation | the *saṃjñā* defined in 1.14 |
+| `varṇa-saṃsthāna` | color and configuration | an elemental principle |
+| `dhātu` | principle | ordinary elemental name |
+| `rūpa-skandha` | form-base | *rūpopādānaskandha* in the scripture citation |
+| `raupaṇa` / `rūpyate` | being affected | visibility alone |
+| `bādhyate` | is afflicted | |
+| `vipariṇāmotpādanā` | production of alteration | |
+| `pratighāta` | obstruction | the only account of materiality |
+| `saṃghātastha` | situated in a collection | an isolated atom |
+| `tajjātīya` | of that kind | present alteration only |
+| `vijñapti` | manifestation | *avijñapti* |
+| `āśraya` | support | `utpattinimitta` |
+| `utpattinimitta` | condition of arising | continuing dependence |
+| `avaibhāṣikīya` | not Vaibhāṣika | a label for every prior speaker |
+
+## 12. Open questions left by the unit
+
+1. How later-moment support of avijñapti is to be stated once the originating Elements have ceased.
+2. Whether obstruction and alteration can be coordinated without being identified.
+3. How the mixed-support reply relates to later treatments of manas.
+
+These are not solved here. They are what the unit leaves standing.
+
+## 13. Interpretation
+
+**Worldly designation, intuition, and Principle**
+
+The Bhāṣya distinguishes how a material occurrence is shown and
+named from how it is determined as a Principle. Earth, water, and
+fire are called through visible color and configuration; 1.12
+specifies their respective Principles through hardness and support,
+cohesion and gathering, heat and ripening. Wind prevents a rigid
+division: the ordinary name can refer to the wind-Principle itself
+or to a visible storm.
+
+A Kantian comparison can ask how sensible presentation and
+conceptual determination cooperate in such judgments. It is only
+a project-level heuristic: *varṇa-saṃsthāna* is not a translation
+of Kantian Intuition, *loka-saṃjñā* is not defined as a Kantian
+Concept, and an elemental *dhātu* is not a thing-in-itself or one
+of Kant's categories. The verse's wind case makes the point
+concrete: one worldly name crosses the distinction between visible
+presentation and principial determination. In the Organon,
+Principle Science uses a Kantian-transcendental frame to examine
+the conditions and rules of determination; the system's Concept
+names the reciprocating closure, not *dhātu* itself.
+
+**The Dharma's three projections**
+
+In the Organon, each Dharma is defined through
+`<Base, Essence, Principle>`. The 1.13 Kārikā concerns worldly
+designation and elemental Principle; it does not enumerate the
+Essence arrangement. Reading it with 1.14–1.15 makes the distinct
+projections visible:
+
+| Content | Base | Essence | Principle |
+|---|---|---|---|
+| visible Form | Form Base | visible-Form Essence | visible-Form Principle |
+| *avijñapti* | Form Base | Dharma Essence | Dharma Principle |
+
+This cross-mapping is an Organon reading of the placements in
+1.14–1.15, not a classification enumerated by the 1.13 Kārikā.
+Shared Base membership does not make the Essence and Principle
+projections identical.
+
+**The limit exposed by *avijñapti***
+
+*Avijñapti* tests the reach of the material classification. The
+Bhāṣya retains its membership in the Form Base while testing how
+the criterion of being affected applies to it. Its proposals
+distinguish the affecting of a manifestation, the affecting of
+material support, continuous dependence, and a condition of
+arising. Those relations cannot be substituted for one another.
+The criticism of the shadow analogy and its temporal dependence
+leaves explanatory pressure; the final *anye* reply preserves the
+classification but does not independently resolve the later
+moment's support.
+
+The comparison with *prāptivāha* in 1.11 and the shadow analogy
+here are distinct near-misses. *Prāptivāha* is another ethical
+stream, distinguished from *avijñapti* by its relation to the
+Great Elements. The shadow is proposed as a model of dependence
+on *vijñapti* and rejected because *avijñapti* continues when that
+manifestation ceases. The first separates classifications; the
+second tests a proposed account of persistence. Neither is the
+continuity itself.
+
+A transcendental inquiry can clarify what each argument warrants,
+but cannot supply the missing causal mechanism by analogy. It must
+also keep the ground for classifying something as Form distinct
+from an account of how that Form persists. Nor does the unresolved
+grounding make *avijñapti* a noumenal substrate: it remains a
+technically specified Dharma with distinct Base, Essence, and
+Principle projections. The eye-Principle in the objection is
+conditioned by a Faculty; its material support does not make it
+Form. These distinctions are the Organon's reconstruction of the
+Bhāṣya's debate, not claims made by the Kārikā.
+
+## 14. Review Status
+
+Reviewed against the current Kārikā study, the research Bhāṣya
+report, and `kosabhasya.txt` at `[008|26]`–`[010|06]`. The full
+objection and reply sequence remains in §3. Source damage and
+working repairs are identified in §2; no printed-edition collation
+is claimed. The base / essence / principle reconstruction is
+marked separately and leaves the material grounding of
+*avijñapti* open. The study remains provisional pending critical
+reading. The next unit begins at `[010|07]`.
+>>>>>>> 3aa100f (Upgrade Dhātu studies and Form System)

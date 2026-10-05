@@ -136,9 +136,63 @@ The hinge is the inverted mark. The bases make those hinges visible. They do
 not make feeling or reflection a substrate that owns the rest, and they do not
 make them substances.
 
+<<<<<<< HEAD
 The two routes join in the one who wanders. They are not collapsed into one
 route. The order that would rank the bases is the next verse. It is not opened
 here.
+=======
+This promise should not be treated as a completed explanation within 1.21.
+The next unit first addresses the exclusion of the unconditioned and then
+returns to the Base sequence. The edition preserves that sequence rather
+than inserting an anticipatory account here.
+
+The next unit gives four ordering accounts despite this threefold promise.
+That discrepancy is recorded there rather than resolved by changing either
+count.
+
+## 8. The Bhāṣya's Decisions for the Kārikā
+
+1. `Caittebhyaḥ` refers to the other mental factors, as confirmed by the
+   opening prose; the differing Devanāgarī form is recorded.
+2. The roots of dispute are fixations upon sensual pleasures and views.
+   Feeling and Reflection are their respective principal causes.
+3. Savoring Feeling and inverted Reflection mediate the two attachments.
+4. Principal causality does not make either factor a sole sufficient cause
+   or identify all Feeling and Reflection with affliction.
+5. The saṃsāra sentence combines greed for Feeling's savor with inverted
+   Reflection in describing the one who wanders.
+6. The reason from Base sequence is announced and deferred, with a
+   threefold demonstration promised.
+
+## 9. Interpretation
+
+The placement is a cut within the mental factors, not a promotion out of
+them. *Pṛthak* marks distinct Base positions; *caittebhyaḥ* keeps Feeling
+and Reflection within the wider class from which they are distinguished.
+Neither is made a substance or identified with the fixation it helps
+mediate.
+
+Feeling is undergoing; savor is the hinge through which it supports
+fixation upon sensual pleasures. Reflection takes up a mark; its inversion
+supports fixation upon views. The Bhāṣya then describes one who wanders as
+greedy for Feeling's savor and inverted in Reflection. The two routes join
+in one subject without collapsing into one operation or becoming separate
+inventories.
+
+In the Organon's `<Base, Essence, Principle>` architecture, this verse
+clarifies the Base determination. The crosswalk established at 1.16 places
+Feeling, Reflection, Formations, *avijñapti*, and the unconditioned under
+Dharma Essence and Dharma Principle while preserving their different
+origins and Base status. Shared Essence and Principle classifications
+therefore do not erase the distinction made here.
+
+A Kantian-transcendental reading asks what grounds the system's distinct
+classification of these mental factors; it does not supply a new
+substance or translate the Bhāṣya into Kantian terms. The text's separate
+reason from Base sequence remains deferred, and its promised demonstration
+is not supplied in this verse. The following unit records four ordering
+accounts against this passage's threefold promise without harmonizing them.
+>>>>>>> 3aa100f (Upgrade Dhātu studies and Form System)
 
 ## 10. Review Status
 

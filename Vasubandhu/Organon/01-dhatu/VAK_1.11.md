@@ -57,9 +57,15 @@ A relative definition. *Śubhāśubhaḥ* agrees with *anubandhaḥ*. The name
 
 ### Literal Translation
 
+<<<<<<< HEAD
 The wholesome or unwholesome continuity which, depending on the great
 elements, belongs even to one whose consciousness is otherwise directed or
 absent: that indeed is called *avijñapti*.
+=======
+The wholesome or unwholesome continuity which, depending on the
+Great Elements, belongs even to one whose consciousness is otherwise
+directed or absent—that indeed is called *avijñapti*.
+>>>>>>> 3aa100f (Upgrade Dhātu studies and Form System)
 
 ### Bhāṣya-informed study translation
 
@@ -73,6 +79,7 @@ arisen from *vijñapti* or from absorption.
 
 ## 6. Philosophical Translation
 
+<<<<<<< HEAD
 Again, a definition. Named at 1.09. Counted around at 1.10. Defined here.
 The word stays Sanskrit.
 
@@ -93,11 +100,25 @@ as *vijñapti* does. The summary adds two origins, *vijñapti* or absorption.
 The verse does not. Outward action is not the whole.
 
 Which great elements are meant is the next question. Not this verse.
+=======
+The verse defines *avijñapti* as a wholesome or unwholesome continuity
+that depends on the Great Elements. The Bhāṣya glosses continuity as a
+stream and extends its scope across otherwise directed, absent, and
+undistracted states of consciousness. Great-Element dependence
+distinguishes this stream from a similarly ethical stream of acquisition.
+
+The Form Base includes *avijñapti* as Form; the continuity described here
+is not an occurrent mental factor. The Bhāṣya's contrast with *vijñapti*
+concerns whether the determination informs another. Its closing summary
+adds origins from *vijñapti* or samādhi, which are not stated in the
+Kārikā.
+>>>>>>> 3aa100f (Upgrade Dhātu studies and Form System)
 
 ## 7. Technical Vocabulary
 
 | Sanskrit | Rendering | Note |
 |---|---|---|
+<<<<<<< HEAD
 | avijñapti | *avijñapti* | the name stays |
 | anubandha | continuity | glossed as stream |
 | pravāha | stream | the commentary's word |
@@ -111,6 +132,23 @@ Which great elements are meant is the next question. Not this verse.
 | prāpti-vāha | stream of acquisition | the similar, distinguished |
 | vijñapti | *vijñapti* | informs another; the contrast |
 | samādhi | absorption | one origin, in the summary |
+=======
+| citta | consciousness | verse compound and Bhāṣya |
+| vikṣipta | otherwise directed | Bhāṣya construe of verse |
+| acittaka | without consciousness | verse, with technical Bhāṣya examples |
+| anubandha | continuing connection | verse |
+| pravāha | stream | Bhāṣya gloss |
+| śubha / aśubha | wholesome / unwholesome | verse |
+| mahābhūta | Great Element | verse |
+| upādāya | depending upon | verse; causal reading attributed to Vaibhāṣikas |
+| avijñapti | *avijñapti* | technical name in verse |
+| vijñapti | manifestation that informs another | Bhāṣya contrast |
+| prāpti-vāha | stream of acquisition | Bhāṣya comparator |
+| skandha | Base | classification context; not a word of this verse |
+The adopted English keeps *avijñapti* in Sanskrit. Its negative
+prefix is explained by the Bhāṣya's *paraṃ na vijñāpayati*, not
+by a claim that the determination is unreal or unknowable.
+>>>>>>> 3aa100f (Upgrade Dhātu studies and Form System)
 
 ## 8. Logical Determination
 
@@ -122,6 +160,7 @@ defined here
 wholesome or unwholesome stream
     could also be acquisition
 
+<<<<<<< HEAD
 stream depending on the great elements
     → avijñapti
 
@@ -143,6 +182,28 @@ summary, not the verse
 
 The hinge is *upādāya*, then *api*. Interpretation of the name is in the
 Bhāṣya.
+=======
+1.12  the four Great Elements are named and functionally determined
+1.13  Form determination tested through objections
+```
+
+The later questions about the Great Elements and Form-status are not
+resolved by this definition.
+
+## 9. Interpretive Note
+
+The key restriction is *mahābhūtāny upādāya*: ethical continuity
+alone would also fit the acquisition stream. The key extension
+is *api*: the named otherwise-directed and consciousness-absent cases
+do not exhaust the range. The Bhāṣya's closing summary adds
+the two origins and thereby keeps *avijñapti* from being reduced
+to a residue of outward action alone.
+
+The classification is consequential for the Organon, but the question
+of Form-status remains open. The later 1.13 argument must
+be read before claiming that elemental dependence supplies a
+complete account of why *avijñapti* belongs to the Form Base.
+>>>>>>> 3aa100f (Upgrade Dhātu studies and Form System)
 
 ## 10. OWL++ Seed
 

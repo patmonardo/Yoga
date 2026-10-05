@@ -14,7 +14,15 @@
 
 ## 3. Lexical Analysis
 
+<<<<<<< HEAD
 | Pada | Morphology | Force in this passage |
+=======
+The first pāda is elliptical. The Bhāṣya supplies *dharmaskandha* as the
+thing being measured and explains the treatise-measure as the extent of the
+Abhidharma work titled *Dharmaskandha*.
+
+| Form | Morphology | Force here |
+>>>>>>> 3aa100f (Upgrade Dhātu studies and Form System)
 |---|---|---|
 | śāstrapramāṇaḥ | śāstra-pramāṇa; nominative masculine singular | a treatise is the measure; said of the dharma-collection |
 | iti | quotative | the reported account |
@@ -27,7 +35,19 @@
 | dharmaskandhaḥ | dharma-skandha; nominative masculine singular | a dharma-collection; not a sixth base |
 | anuvarṇitaḥ | past passive participle | has been described |
 
+<<<<<<< HEAD
 The research verse has `śāstrapramāṇā`. The running verse and the commentary read `śāstrapramāṇa`. That reading is kept. The long vowel is recorded, not adopted.
+=======
+The research kārikā has the variant `śāstrapramāṇā ity eke`, with a long
+final vowel. The running verse and research Bhāṣya read singular
+`śāstrapramāṇa ity eke`; the official text retains that reading.
+
+In *skandhādīnām kathā*, the Bhāṣya supplies further classifications:
+āyatanas and dhātus, dependent arising, truths, meditations, and the
+remaining items in its list. In the controlled Organon terminology these
+are Essences and Principles. Here *dharma-skandha* means a teaching
+collection, not another member of the five Bases.
+>>>>>>> 3aa100f (Upgrade Dhātu studies and Form System)
 
 ## 4. Grammar
 
@@ -66,14 +86,21 @@ Some measure the collection by a treatise. The treatise named Dharmaskandha is s
 
 Others measure it by exposition. Each topic, separately. The bases and the rest are the topics. A topic is not a further base.
 
+<<<<<<< HEAD
 But the collection that is described is a counteragent to a disposition. Eighty thousand dispositions. Eighty thousand collections. The count is the correspondence. The pairings are not listed.
 
 The word is a teaching-collection. It is not a member of the five bases. It does not reopen the essence called form, or the essence called dharma.
+=======
+This reading follows the verse's contrast. The Bhāṣya preserves the three
+measures and explains the traditional number through disposition and
+counteragent; the third account does not refute the first two.
+>>>>>>> 3aa100f (Upgrade Dhātu studies and Form System)
 
 ## 7. Technical Vocabulary
 
 | Sanskrit | Rendering | Note |
 |---|---|---|
+<<<<<<< HEAD
 | dharmaskandha | dharma-collection | a teaching-unit; not a sixth base |
 | pramāṇa | measure | extent; not a means of knowledge |
 | śāstra | treatise | the work named Dharmaskandha |
@@ -86,6 +113,19 @@ The word is a teaching-collection. It is not a member of the five bases. It does
 | carita | disposition | attachment, hatred, delusion, pride, and the rest |
 | pratipakṣa | counteragent | the third measure |
 | aśītisahasra | eighty thousand | dispositions, and collections |
+=======
+| śāstra-pramāṇa | treatise-measure | textual extent as a way to count a collection |
+| pramāṇa | measure; criterion | the question is extent or unit, not a means of valid knowledge |
+| skandha | Base | one of the established classifications |
+| skandhādī | Bases and the rest | the Bhāṣya expands the list to Essences, Principles, and other topics |
+| kathā | exposition; doctrinal treatment | a coherent treatment counted separately by topic |
+| ekaśaḥ | separately for each | distributes the exposition account across topics |
+| carita | disposition; habitual pattern | illustrated by attachment, hatred, delusion, pride, and the rest |
+| pratipakṣa | counteragent | an opposing or counteracting relation |
+| carita-pratipakṣa | disposition-counteragent | the practical account of a Dharma-collection |
+| dharma-skandha | Dharma-collection | special body or unit of teaching; not an additional Base |
+| anuvarṇita | described; traditionally explained | marks the received account in the verse |
+>>>>>>> 3aa100f (Upgrade Dhātu studies and Form System)
 
 ## 8. Logical Determination
 
@@ -122,7 +162,33 @@ not the essence called dharma
 
 ## 9. Interpretive Note
 
+<<<<<<< HEAD
 The hinge is `tu`. The form system has already named its positions. This verse meets the word that looks like a further base. The word is a collection of teaching, and the collection that is described is the counteragent. Assignment of other scriptural names is the next verse.
+=======
+VAK 1.25 asks whether the eighty thousand Dharma-collections are speech or
+name and places them, under those alternatives, in the Form Base or
+Formations Base. VAK 1.26 asks a different question: what is the measure
+of one such collection? The answers distinguish textual extent, separate
+doctrinal exposition, and counteracting function.
+
+The third account is especially important because it makes the collection
+more than a textual quantity or a topic heading: it is instruction
+corresponding to a disposition. Yet `tu` and the Bhāṣya's explanation do
+not authorize collapsing the earlier accounts or declaring them refuted.
+The measure question is answered by preserving the difference among
+criteria.
+
+The phrase *dharma-skandha* here names a teaching-collection, not an added
+Base. Keep that conventional compound distinct from the systematic
+projections of Dharma as Base, Essence, and Principle. The verse specifies
+three grounds for counting a Dharma-collection: treatise extent, separate
+exposition, and the counteragent relation to a disposition.
+
+The Absolute Base spans and combines Rūpa-skandha and Dharma-skandha. This
+unity is Absolute Dharma, discriminating all Dharmas through Form and Law.
+The *dharma-skandha* measured here is a teaching-collection, not an
+additional ontological Base.
+>>>>>>> 3aa100f (Upgrade Dhātu studies and Form System)
 
 ## 10. OWL++ Seed
 

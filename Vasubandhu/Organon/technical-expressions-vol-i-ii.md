@@ -74,6 +74,13 @@ Dharma. “Dharma Essence” identifies the Essence projection; it does not mean
 an Essence nested inside an Essence. The projection names need no “Dharma-as-”
 construction because their meaning is fixed by the complete Concept.
 
+### Absolute Base and Absolute Dharma
+
+The Absolute Base spans and combines Rūpa-skandha and Dharma-skandha. This
+is Absolute Dharma itself: it discriminates all Dharmas through Form and
+Law. Form and Law are distinct determinations within this unity, not
+inventories beside it.
+
 At the Āyatana level, **Essence** is the **Entry** into an Essential Relation
 of an Impure Dharma. This relation comprises all products of Reflective Mind;
 **Mind-Essence** is Reflective Science at this level. Keep this determination
@@ -88,14 +95,26 @@ This is an Organon-level containment, not a claim that *āyatana* and
 
 ## 2. Cognition, Mind, and Their Principles
 
-*Vijñāna* always renders as **Cognition**. Keep it distinct from *citta*
-(Consciousness), *manas* (Mind), and *vijñapti* (manifestation or
-disclosure). Read compounds and cross-classifications in their local
-context; do not flatten them into a generic vocabulary of mind.
+*Vijñāna* is **Cognition**, more precisely **Discriminative Cognition**.
+Keep it distinct from *citta* (Consciousness), *manas* (Mind), and
+*vijñapti* (manifestation or disclosure); do not flatten these into a
+generic vocabulary of mind.
+
+The Kośa explicitly presents Vijñāna as **Discriminative Cognition** joining
+and governing Perception and Conception. Their unity is Inconceivable as a
+homogeneous operation; its Idea is disclosed in the Vijñāna-skandha.
+Vijñāna governs Manas, through which the sensory manifold is taken up into
+Dharma-skandha. Kant's principles articulate this explicit systematic
+content; they do not supply an external synthesis.
+
+Form-skandha and Dharma-skandha both include the same *avijñapti*, held in
+distinct classifications rather than duplicated. Vijñāna bears a *prati*
+relation to *avijñapti*. Preserve that relation and its role as a guide to
+Dharma-skandha without collapsing Cognition into *avijñapti*.
 
 | Expression | Working sense | Editorial control |
 |---|---|---|
-| **Vijñāna** (*vijñāna*) | **Cognition**. | Fixed project rendering. Do not alternate with “consciousness.” Preserve distinctions from *citta* (Consciousness), *manas* (Mind), and *vijñapti*. |
+| **Vijñāna** (*vijñāna*) | **Cognition**, specifically **Discriminative Cognition**. | Do not render *vijñāna* itself as “consciousness” or **Principle**; distinguish *citta*, *manas*, and *vijñapti*. |
 | **Citta** (*citta*) | Conventional translation: **consciousness**, with local attention to the particular mental occurrence or condition being discussed. | Do not turn it into a hidden substance behind events. Keep the project's universal Citta as a separately marked Organon determination. |
 | **Manas** (*manas*) | **Mind**, according to its local role. | Not a problem child in itself. In the project architecture, Manas is the **Produced Cognitive Instrument**, equipped with Mind Essence (*mana-āyatana*) and the broader Mind Principle (*manodhātu*). Keep project-level determinations separate from conventional usage. |
 | **Mana-āyatana** (*mana-āyatana*) | **Mind Essence** in the Organon reading. | The Essence determination in the cognitive equipment of Manas; not a synonym for Manas or *manovijñāna*. |
@@ -103,34 +122,33 @@ context; do not flatten them into a generic vocabulary of mind.
 | **Manovijñānadhātu** (*manovijñānadhātu*) | **Mind-Cognition Principle** in the Organon reading; project-level **Transcendental Logic**. | Distinct from *manodhātu*. Its project determination is **Abstract Reason: Syllogistic Reasoning**; conventional structure is mind-Cognition Principle/element, retaining the fixed Cognition rendering. |
 | **Manovijñāna** (*manovijñāna*) | **Mind-Cognition**. | Apply the fixed Cognition rendering of *vijñāna*. Do not use it as a generic substitute for Mind (*manas*) or Consciousness (*citta*). |
 | **Caitta / caitasika** (*caitta, caitasika*) | Mental factors or mental concomitants, according to the text's form. | These name factors associated with mind, not mind as a whole and not another word for cognition. Record which Sanskrit form the source uses. |
-| **Vijñapti / avijñapti** (*vijñapti, avijñapti*) | In the project's technical pair: manifestation/disclosure and non-disclosing continuity. | Not synonyms of *vijñāna*. The Dhātu dyad *Vijñapti:Avijñapti* is distinct from the Indriya dyad *Prāpti:Aprāpti*. |
+| **Vijñapti / avijñapti** (*vijñapti, avijñapti*) | Manifestation/disclosure and non-disclosing continuity. | Do not collapse *avijñapti* into *vijñāna*. Keep the Dhātu dyad *Vijñapti:Avijñapti* distinct from the Indriya dyad *Prāpti:Aprāpti*. |
 
-In the Organon cross-mapping, *vijñānaskandha* is considered as
-*mana-āyatana* in the Essence system and as the six *vijñāna-dhātus*
-together with *manodhātu* in the Principle system. These are linked
-classifications, not interchangeable English names. Cognition remains the
-fixed rendering of *vijñāna*; the systematic relations, not competing
-English glosses, are what need to be resolved.
+The Kośa's explicit cross-classification considers *vijñānaskandha* as
+*mana-āyatana* in the Essence system and as the six *vijñāna-dhātus* together
+with *manodhātu* in the Principle system. These linked determinations show
+how Cognition governs Manas and guides the Dharma-skandha.
 
 Keep the two *mano*-Principles distinct: **Mind Principle**
 (*manodhātu*) is the broader Principle of Manas and project-level **Ordinary
 Logic**; **Mind-Cognition Principle** (*manovijñānadhātu*) is the Cognition
 Principle and project-level **Transcendental Logic** (Abstract Reason /
 Syllogistic Reasoning). The second is one of the six
-*vijñāna*-Principles; the first is the broader Principle of Mind named
-alongside them. This Organon determination does not replace the Bhāṣya's
-account of *manodhātu* as immediately past Cognition in its support role.
+*vijñāna-dhātus*; the first is the broader Principle of Mind named alongside
+them. The Bhāṣya's account of *manodhātu* as immediately past Cognition is
+one explicit determination of that support role.
 
 **Dharma Principle** is the Organon rendering of *dharmadhātu*; do not
 replace it with “Essence Principle.” The Dharma Principle's relation to
 Dharma Essence is a distinct classification within the full
 `<Base, Essence, Principle>` determination.
 
-**Working rule for *vijñāna*.** Render as **Cognition** consistently.
-Retain the Sanskrit in analysis where needed to expose compounds and
-cross-classifications; do not substitute “consciousness.” The eventual
-concordance should record uses only after these second-order relations have
-been reviewed.
+**Working rule for *vijñāna*.** Render as **Cognition**, more precisely
+**Discriminative Cognition**. Retain the Sanskrit in analysis where needed
+to expose compounds and cross-classifications; do not substitute
+“consciousness” or **Principle** for *vijñāna* itself. **Principle** renders
+*dhātu*. The concordance must preserve Cognition's relations to Perception,
+Conception, Manas, and *avijñapti*.
 
 ## 3. Faculty and Acquisition Dyads
 

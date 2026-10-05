@@ -58,6 +58,10 @@ folder, consult these load-bearing project documents:
   one dharma. Keep this synthesis separate from conventional translation;
   see `Vasubandhu/VAK/06-marga/VAK_6.04.md` and
   `Vasubandhu/VAK/05-anusaya/VAK_5.29.md`.
+- The Absolute Base spans and combines Rūpa-skandha and Dharma-skandha. This
+  unity is Absolute Dharma itself, discriminating all Dharmas through Form
+  and Law. Preserve both determinations within the unity; do not flatten
+  them into one inventory or treat the Absolute Base as a third Base.
 - The Loka–Karma volume is the **Bhava Chakra**. Keep it distinct from the
   Dharma Chakra while reading their mating.
 - The core dyads are `Vijñapti:Avijñapti` for Dhātu and
@@ -96,20 +100,21 @@ folder, consult these load-bearing project documents:
 
 ## Conventional translation vs. Organon reading
 
-Keep these separate in every Bhāṣya study. The conventional translation
-answers to the Sanskrit and commentary. The Organon reading—including
-Being–Essence–Concept, Citta/Buddha Mind, the Dharma–Bhava Chakra coupling,
-and Sāṃkhya–Yoga correspondences—belongs in its own clearly marked section.
-Do not let reconstruction leak into the close translation or make the
-Organon reading sound like literal Bhāṣya doctrine.
+Keep conventional translation and Techne reading in distinct sections, so
+the controlled English rendering does not replace the local Sanskrit
+translation. The Kant-informed Techne reading states the Kośa's explicit
+systematic content; do not describe it as a merely external reconstruction
+or hedge it as something the Kośa does not state.
 
-For the Organon account of *vijñāna*, use Kantian Transcendental Philosophy
-as the project-level frame for Principle Science; do not identify
-*vijñāna* with *citta* or attribute the synthesis historically to
-Vasubandhu. Keep advanced philosophical interpretation in the paired
-Bhāṣya's **Interpretation** section. A kārikā study may retain a concise
-Interpretive Note and state the defined `<Base, Essence, Principle>`
-projections without expanding the philosophical synthesis.
+The Kośa explicitly presents Vijñāna as Discriminative Cognition joining and
+governing Perception and Conception. Their unity is Inconceivable as a
+homogeneous operation; its Idea is disclosed in the Vijñāna-skandha.
+Vijñāna governs Manas and guides the reading of Dharma-skandha. Form-skandha
+and Dharma-skandha both include the same *avijñapti* in distinct
+classifications, and Vijñāna bears a *prati* relation to *avijñapti*.
+Preserve these relations without collapsing their terms. Keep *vijñāna*
+distinct from *citta* and *manas*. State this governing synthesis directly
+in the paired Bhāṣya's **Interpretation** and concisely in kārikā notes.
 
 Preserve who is speaking. Attribute positions to the Vaibhāṣikas, Vasubandhu,
 other teachers, or an unnamed opponent only when the text does so. In
@@ -149,7 +154,7 @@ determination, not a lexical claim about *āyatana*.
 The **Nāma-skandha view** groups the four non-Rūpa Skandhas as the
 project-level dyad **Jñāna-skandha : Vijñāna-skandha**. **Jñāna-skandha**
 is ordinary knowledge—the existing Skandhas Vedanā, Saṃjñā, and Saṃskāra;
-Vijñāna-skandha remains its special Principle member. These are project
+Vijñāna-skandha remains its special Cognition member. These are project
 views, not source-defined compounds or additional Skandhas. Do not confuse
 Jñāna-skandha with the source's teaching-body use of *dharmaskandha*. A
 top-level Dharma View may wrap Dharma-āyatana and Dharma-dhātu as one
@@ -175,13 +180,15 @@ materials systematically.
   reverses the project's conceptual path.
 - `dhātu` -> **element** in conventional translation; **Principle** in the
   Organon reading
-- `vijñāna` -> **Principle** in the current Indriyanirdeśa project
-  terminology; do not render it as “Cognition” or “consciousness.” This
-  does not change the fixed compound **Mind-Cognition Principle**
-  (*manovijñānadhātu*).
+- `vijñāna` -> **Cognition**, more precisely **Discriminative Cognition**,
+  with **Discrimination** as its defining function. Keep it distinct from
+  *citta* / consciousness and *manas* / Mind; do not
+  silently substitute **Principle**, which is the Organon rendering of
+  *dhātu*. This does not change the fixed compound **Mind-Cognition
+  Principle** (*manovijñānadhātu*).
 - `citta` -> **consciousness** in conventional translation; keep it distinct
-  from Principle (*vijñāna*) and Mind (*manas*)
-- `vijñānaskandha` -> **principle-base**; `viṣaya` -> **condition** in the
+  from Cognition (*vijñāna*) and Mind (*manas*)
+- `vijñānaskandha` -> **Principle Base**; `viṣaya` -> **condition** in the
   1.16 study. Preserve the source terms and the local Bhāṣya gloss.
 - `viṣaya` -> **Condition** in the current 1.16 project translation; retain
   “object” for *ālambana* where that is the source term.

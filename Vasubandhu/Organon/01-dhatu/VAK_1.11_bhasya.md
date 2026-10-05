@@ -6,6 +6,7 @@
 >
 > mahābhūtāny upādāya sa hy avijñaptir ucyate // 1.11 //
 
+<<<<<<< HEAD
 Literal:
 
 > The wholesome or unwholesome continuity which, depending on the great
@@ -24,6 +25,19 @@ Bhāṣya-informed:
 
 The commentary explains the states, the stream, the distinction, and the
 name. Which great elements are meant opens 1.12. It is not taken here.
+=======
+> The wholesome or unwholesome continuity which, depending on the
+> great elements, belongs even to one whose consciousness is otherwise
+> directed or absent—that indeed is called *avijñapti*.
+
+The Bhāṣya explains the states named in the verse, extends their
+scope through *api*, distinguishes this stream from acquisition,
+and states why the name *avijñapti* applies. Its last sentence adds
+two origins. The working vocabulary is *citta* = consciousness,
+*skandha* = base, *āyatana* = essence, and *dhātu* = principle.
+The latter three terms belong to the surrounding classification
+and project interpretation; they are not words of this verse.
+>>>>>>> 3aa100f (Upgrade Dhātu studies and Form System)
 
 ## 2. Continuous Sanskrit
 
@@ -96,6 +110,7 @@ more narrowly. No separate objector speaks.
 ## 4. Movement
 
 ```text
+<<<<<<< HEAD
 to be explained
     → otherwise directed, without consciousness, and also undistracted
     → continuity is a stream; wholesome or unwholesome
@@ -103,6 +118,15 @@ to be explained
     → Vaibhāṣika: upādāya is cause
     → form and action, and does not inform another
     → summary: from vijñapti or from absorption
+=======
+avijñapti is to be explained
+    → otherwise-directed, consciousness-absent, and undistracted conscious cases
+    → anubandha is a stream; śubha/aśubha are kuśala/akuśala
+    → elemental dependence distinguishes it from acquisition
+    → Vaibhāṣika causal construe of upādāya
+    → a form-and-action that does not inform another
+    → summary: wholesome/unwholesome form from vijñapti or samādhi
+>>>>>>> 3aa100f (Upgrade Dhātu studies and Form System)
 ```
 
 ## 5. Scope and Stream
@@ -152,7 +176,17 @@ does not. Outward manifestation is not the whole account.
 6. Form and action, and it does not inform another.
 7. The summary adds *vijñapti* or absorption. Not the verse.
 
+<<<<<<< HEAD
 ## 9. Interpretation
+=======
+*Hi* is explained as signaling the naming: this is what is
+called *avijñapti*. The next sentence supplies the reason for
+the negative prefix. Although the determination has
+*rūpa-kriyā-svabhāva*, the nature of form and action, it does
+not inform another person (*paraṃ na vijñāpayati*) as
+*vijñapti* does. Non-disclosure is thus a contrast in function,
+not a denial of form, action, or all possible knowability.
+>>>>>>> 3aa100f (Upgrade Dhātu studies and Form System)
 
 Named, then counted around, then defined. The word stays. What the organ
 sends arrives here as a continuity that does not inform another. Consciousness
@@ -167,7 +201,45 @@ The base includes this eleventh. The essence and the principle are not
 enumerated here. The definition is the classification and its conditions.
 Which elements, and the later dispute about form-status, stay shut.
 
+<<<<<<< HEAD
 The reading is once, here. 1.12 is not opened.
+=======
+## 9. Interpretation
+
+The Bhāṣya's scope markers prevent the definition from being
+restricted to a moment of occurrent consciousness. *Api* includes
+the person whose consciousness is present and undistracted, while
+*pravāha* identifies a continuing stream. Yet ethical polarity and
+continuity alone do not define *avijñapti*: the comparison with
+*prāptivāha* makes dependence on the Great Elements decisive. The
+specifically causal reading of that dependence is attributed to
+the Vaibhāṣikas.
+
+The name marks a functional contrast. Although *avijñapti* has the
+nature of Form and action, it does not inform another as
+*vijñapti* does. This does not make it unreal or unknowable. The
+closing summary adds *vijñapti* and samādhi as origins; those
+origins must not be read back into the Kārikā.
+
+The Kantian-transcendental question is what makes this ethically
+qualified continuity identifiable across changing states of
+consciousness. The Bhāṣya supplies criteria—continuity, ethical
+polarity, and Great-Element dependence—but does not settle the
+full causal mechanics. This is a question about the conditions
+and structure of determination, not a psychological claim about
+a hidden mental substance.
+
+The *vijñapti–avijñapti* dyad offers a provisional test for the
+project's Intuition–Concept inquiry: can *vijñapti* be understood
+as intuiting or making accessible the *avijñapti* that does not
+itself inform another? The Bhāṣya establishes only their functional
+contrast—*vijñapti* informs another; *avijñapti* does not—and its
+summary allows *avijñapti* to arise from *vijñapti* or samādhi.
+Neither term is thereby a translation of Kantian Intuition or
+Concept, and *avijñapti* is not a noumenal substrate. The later
+discussion of Form-status remains open; this interpretation does
+not extend the account beyond the present unit.
+>>>>>>> 3aa100f (Upgrade Dhātu studies and Form System)
 
 ## 10. Review Status
 

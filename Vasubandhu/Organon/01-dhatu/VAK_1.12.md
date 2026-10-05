@@ -14,6 +14,7 @@
 
 ## 3. Lexical Analysis
 
+<<<<<<< HEAD
 ```text
 bhūtāni                 → the elements
 pṛthivī-dhātuḥ           → the earth-principle
@@ -36,6 +37,40 @@ khara-sneha-uṣṇatā-īraṇāḥ → hardness, cohesion, heat, impulsion
 
 *Dhātu* here is the chapter word. The four are principles. *Skandha* in the
 commentary's mass-sentence is a mass, not one of the five bases.
+=======
+**Word division**
+
+```text
+bhūtāni | pṛthivī-dhātuḥ | ap-tejas-vāyu-dhātavaḥ |
+dhṛti-ādi-karma-saṃsiddhāḥ | khara-sneha-uṣṇatā-īraṇāḥ
+```
+
+**Sandhi**
+
+| Verse form | Resolution | Operation |
+|---|---|---|
+| pṛthivīdhātur ap | pṛthivīdhātuḥ + ap | visarga becomes r before the following vowel |
+| aptejo-vāyu | ap + tejas + vāyu | compound sandhi in tejas + vāyu |
+| dhṛtyādi | dhṛti + ādi | i becomes y before the following vowel |
+| uṣṇateraṇāḥ | uṣṇatā + īraṇāḥ | ā and ī combine as e |
+
+**Lexical and morphological determination**
+
+| Form | Segmentation | Morphology and force |
+|---|---|---|
+| bhūtāni | bhūta | nominative neuter plural; Elements |
+| pṛthivīdhātuḥ | pṛthivī + dhātu | nominative singular; earth-Principle |
+| ap-tejo-vāyu-dhātavaḥ | ap + tejas + vāyu + dhātu | nominative masculine plural; water-, fire-, and wind-Principles |
+| dhṛtyādi-karma-saṃsiddhāḥ | dhṛti + ādi + karma + saṃsiddha | nominative masculine plural; established in functions beginning with support |
+| khara-snehoṣṇateraṇāḥ | khara + sneha + uṣṇatā + īraṇā | coordinated character-terms: hardness, cohesion, heat, and impulsion |
+
+The first line names earth in the singular, then gives water, fire, and
+wind in the plural. In dhṛtyādi-karma, ādi means “beginning with,” while
+karma means function or operation. The final compound lists four terms;
+the Kārikā itself does not use svabhāva (“own-character”) or spell out
+the four functions individually. Their ordered pairing is established
+in the Bhāṣya.
+>>>>>>> 3aa100f (Upgrade Dhātu studies and Form System)
 
 ## 4. Grammar
 
@@ -73,17 +108,29 @@ whose own-character is impulsion. The function makes that character evident.
 
 ## 6. Philosophical Translation
 
+<<<<<<< HEAD
 Again, two lines. The first names the four. The second is function, then
 own-character.
+=======
+1.11 depends on the Great Elements; 1.12 names them as four Principles.
+The Bhāṣya pairs each Principle's function with its own-character:
+>>>>>>> 3aa100f (Upgrade Dhātu studies and Form System)
 
 1.11 said depending on the great elements. This verse says which. Earth,
 water, fire, wind — and each is a principle. Not a base. Not an essence. The
 word is the chapter word.
 
+<<<<<<< HEAD
 They hold their own-character and derived form. That is why principle.
 Greatness is two readings, both kept. Magnitude, as support of all other
 form. Or a great gathering in the masses, where that principle operates
 prominently. *Skandha* in that sentence is the mass. Not one of the five.
+=======
+Function and own-character are two ordered determinations, not synonyms.
+The Bhāṣya says that function makes the Principle's own-character evident.
+In its second account of greatness, *skandha* means a mass or aggregation,
+not one of the five Bases.
+>>>>>>> 3aa100f (Upgrade Dhātu studies and Form System)
 
 The functions are support, gathering, ripening, and spreading. Spreading is
 increase and extension. The own-characters are hardness, cohesion, heat, and
@@ -120,6 +167,7 @@ this verse.
 ## 8. Logical Determination
 
 ```text
+<<<<<<< HEAD
 1.11  depending on the great elements
 1.12  which: four principles
 
@@ -137,12 +185,24 @@ wind      → impulsion
 function makes own-character evident
 
 1.13 not opened
+=======
+1.11  avijñapti depends on the Great Elements
+1.12  four Elements as Principles, with function and own-character
+1.13  worldly Form and the Principle itself are distinguished
+>>>>>>> 3aa100f (Upgrade Dhātu studies and Form System)
 ```
 
 ## 9. Interpretive Note
 
+<<<<<<< HEAD
 The hinge is *dhātu*, then the two lists. Interpretation of the function is
 in the Bhāṣya.
+=======
+The hinge is the ordered pairing of function and own-character. The
+Bhāṣya's *skandha* in *pṛthivy-ap-tejo-vāyu-skandheṣu* means a mass, not
+one of the five Bases. The Kārikā names four Principles; the function and
+own-character analysis comes from the Bhāṣya.
+>>>>>>> 3aa100f (Upgrade Dhātu studies and Form System)
 
 ## 10. OWL++ Seed
 

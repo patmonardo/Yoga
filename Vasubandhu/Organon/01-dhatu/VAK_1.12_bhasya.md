@@ -101,6 +101,7 @@ No opponent is named. The treatise and a sūtra are cited, and corrected.
 
 ## 5. Principle and Great
 
+<<<<<<< HEAD
 *Svalakṣaṇopādāyarūpadhāraṇāt*: because they hold own-character and derived
 form. That is the commentary's reason for principle. Not an empty name.
 
@@ -110,6 +111,34 @@ great gathering in the masses where that principle operates prominently.
 bases.
 
 ## 6. Two Lists
+=======
+## 6. Interpretation
+
+The Bhāṣya pairs two ordered determinations: the function in which
+each Principle is established and its own-character. Its conclusion
+is precise: function makes own-character evident. Support is not
+another name for hardness, and spreading is not another name for
+impulsion.
+
+A Kantian-transcendental inquiry asks how a rule-governed function
+makes a determinate character knowable without being identical to
+it. The project's Intuition–Concept dyad is a provisional lens for
+that question, not a translation of *karma* or *svabhāva*, nor an
+identification of the four Elements with Kantian categories. In
+Organon terms, the Principles are determinate starting points; the
+Bhāṣya's functions articulate how their own-characters become
+manifest. Whether this relation can be developed through the
+Intuition–Concept dyad remains open. “System Light,” if retained as
+a project label, names that interpretive relation, not a term in
+the verse or an exclusive criterion.
+
+The two explanations of greatness remain distinct: magnitude as support
+of other Form, or aggregation in masses. In the latter phrase,
+*skandha* means mass, not one of the five Bases. The treatise's
+*laghutva*, lightness, is derived Form; it is not the wind-Principle.
+The Kārikā and Bhāṣya here determine four Principles; they do not
+enumerate an additional Base or Essence classification.
+>>>>>>> 3aa100f (Upgrade Dhātu studies and Form System)
 
 | Principle | Function | Own-character |
 |---|---|---|
@@ -118,6 +147,7 @@ bases.
 | fire | ripening | heat |
 | wind | spreading | impulsion |
 
+<<<<<<< HEAD
 Spreading is increase and extension. Impulsion is the driving of the stream
 to arise in another place, as a lamp-flame moves. Function and own-character
 stay two lists. The second is not a gloss that cancels the first.
@@ -161,3 +191,9 @@ sentence checked against the running Sanskrit.
 
 Cognition withdrawn. Principle is the chapter word. Mass is not translated as
 base. The next study is not opened.
+=======
+The study preserves both explanations of greatness, the ordered
+function/own-character pairs, and the distinction between wind's
+impulsion and derived-form lightness. *Skandha* in the mass-passage is
+not translated as Base. The next verse is not included here.
+>>>>>>> 3aa100f (Upgrade Dhātu studies and Form System)

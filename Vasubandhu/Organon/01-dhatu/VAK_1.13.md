@@ -13,6 +13,11 @@
 > āpas tejaś ca vāyus tu dhātur eva tathāpi ca // 1.13 //
 
 ## 3. Lexical Analysis
+<<<<<<< HEAD
+=======
+
+**Sentence words**
+>>>>>>> 3aa100f (Upgrade Dhātu studies and Form System)
 
 ```text
 pṛthivī            → earth, the ordinary name
@@ -74,8 +79,9 @@ wind, by color or configuration. The commentary then asks why the whole
 series through *avijñapti* is called the form-base. The reason offered is
 being affected. The grounding of *avijñapti* remains contested.
 
-## 6. Philosophical Translation
+## 6. Systematic Placement
 
+<<<<<<< HEAD
 Again, two lines. The first is what the world points at. The second is the
 wind exception, and the concession that keeps the exception from becoming a
 rule.
@@ -112,6 +118,14 @@ The continuity is the member the commentary cannot reduce to either. The
 grounding stays contested.
 
 The next verse defines reflection. Not this one.
+=======
+The verse distinguishes worldly designation from principial
+determination; it does not make them separate inventories. In the
+Organon, each Dharma is defined through `<Base, Essence, Principle>`.
+This verse concerns worldly naming and the elemental Principle; it
+does not itself enumerate an Essence arrangement or resolve the
+Bhāṣya's debate over *avijñapti*.
+>>>>>>> 3aa100f (Upgrade Dhātu studies and Form System)
 
 ## 7. Technical Vocabulary
 
