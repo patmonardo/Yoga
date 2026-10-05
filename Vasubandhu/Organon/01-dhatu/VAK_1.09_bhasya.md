@@ -1,4 +1,4 @@
-# VAK_1.09 Bhāṣya — The Form Base and Cognition Support
+# VAK_1.09 Bhāṣya — The Form-Base
 
 ## 1. Kārikā Anchor
 
@@ -6,83 +6,162 @@
 >
 > tadvijñānāśrayā rūpaprasādāś cakṣurādayaḥ // 1.09 //
 
-From [`VAK_1.09.md`](./VAK_1.09.md):
+Literal:
 
-The Form Base comprises five faculties, five meanings, and *avijñapti*.
-The Form clarities, beginning with the eye, support the corresponding
-Cognitions.
+> Form is the five organs, the five meanings, and *avijñapti*. The clarities
+> of form, beginning with the eye, are supports of the corresponding
+> principle.
 
-Span: Pradhan `[005|21]`–`[006|07]`. Next: 1.10.
+Bhāṣya-informed:
 
-## 2. Continuous Sanskrit Witness
+> The form-base is the five organs — eye, ear, nose, tongue, body — the five
+> meanings of those organs, each its own, and *avijñapti*. The meanings are
+> visible form, sound, odor, taste, and the tangible. The five are clarities
+> of form. In order they support the principle of visible form, of sound, of
+> odor, of taste, and of the tangible. *Avijñapti* is named, not defined.
+> The five meanings remain to be indicated.
 
-> pañca rūpādayaḥ skandhā ity uktam /
-> tatra rūpaṃ pañcendriyāṇy arthāḥ pañcāvijñaptir eva ca /
-> pañcendriyāṇi cakṣuḥśrotraghrāṇajihvākāyendriyāṇi /
-> pañcārthās teṣām eva cakṣurādīnām indriyāṇāṃ yathāsvaṃ ye pañca viṣayāḥ rūpaśabdagandharasaspraṣṭavyākhyāḥ /
-> avijñaptiś ceti / etāvān rūpaskandhaḥ /
-> tatra ya ete pañca rūpādayo 'rthā uktāḥ /
+The commentary enumerates, cites the scripture, and aligns the Prakaraṇa.
+The five meanings are the next verse. It is not taken here.
+
+## 2. Continuous Sanskrit
+
+> pañca rūpādayaḥ skandhā ity uktam / tatra rūpaṃ pañcendriyāṇy arthāḥ
+> pañcāvijñaptir eva ca / pañcendriyāṇi
+> cakṣuḥśrotraghrāṇajihvākāyendriyāṇi / pañcārthās teṣām eva
+> cakṣurādīnām indriyāṇāṃ yathāsvaṃ ye pañca viṣayāḥ
+> rūpaśabdagandharasaspraṣṭavyākhyāḥ / avijñaptiś ceti / etāvān
+> rūpaskandhaḥ / tatra ya ete pañca rūpādayo 'rthā uktāḥ /
 > tadvijñānāśrayā rūpaprasādāś cakṣurādayaḥ /
-> rūpaśabdagandharasaspraṣṭavyavijñānānām āśrayabhūtā ye pañca rūpātmakāḥ prasādās te yathākramaṃ cakṣuḥśrotraghrāṇajihvākāyā veditavyāḥ /
-> yathoktaṃ bhagavatā “cakṣur bhikṣo ādhyātmikam āyatanaṃ catvāri mahābhūtāny upādāya rūpaprasāda” iti vistaraḥ /
-> yāny etāni cakṣurādīny uktāni tadvijñānāśrayā rūpaprasādāś cakṣurādayaḥ /
-> cakṣurvijñānādyāśrayā ity arthaḥ /
-> evaṃ kṛtvā prakaraṇagrantho 'py anuvṛtto bhavati /
+> rūpaśabdagandharasaspraṣṭavyavijñānānām āśrayabhūtā ye pañca
+> rūpātmakāḥ prasādās te yathākramaṃ
+> cakṣuḥśrotraghrāṇajihvākāyā veditavyāḥ / yathoktaṃ bhagavatā
+> “cakṣur bhikṣo ādhyātmikam āyatanaṃ catvāri mahābhūtāny upādāya
+> rūpaprasāda” iti vistaraḥ / yāny etāni cakṣurādīny uktāni
+> tadvijñānāśrayā rūpaprasādāś cakṣurādayaḥ / cakṣurvijñānādyāśrayā
+> ity arthaḥ / evaṃ kṛtvā prakaraṇagrantho 'py anuvṛtto bhavati /
 > “cakṣuḥ katamat / cakṣurvijñānāśrayo rūpaprasāda” iti vistaraḥ /
 > nirdiṣṭāni pañcendriyāṇi / arthāḥ pañca nirdeśyāḥ /
 
+The unit runs from the five bases already stated through the five meanings
+still to be indicated. Span: Pradhan `[005|21]`–`[006|07]`.
+
+Word division is editorial. These are normalizations, not a critical text.
+
 ## 3. Continuous Translation
 
-It has been stated that there are five Bases beginning with Form. Among
-them, the Form Base consists of five faculties, five meanings, and
-*avijñapti*.
+> It has been said: five bases, beginning with form. Among them:
 
-The five faculties are the eye, ear, nose, tongue, and body faculties.
+> Form is the five organs, the five meanings, and *avijñapti*.
 
-The five meanings are the respective *viṣayas* of those faculties, each
-to its own: visible form, sound, odor, taste, and the tangible.
+> The five organs are the eye, the ear, the nose, the tongue, and the body.
+>
+> The five meanings are the five conditions of those very organs, beginning
+> with the eye, each its own, called visible form, sound, odor, taste, and
+> the tangible.
+>
+> And *avijñapti*. So much is the form-base.
+>
+> There, those five meanings, beginning with visible form, have been stated.
+> The clarities of form, beginning with the eye, are supports of the
+> corresponding principle. The five clarities, whose nature is form, that
+> are supports of the principles of visible form, sound, odor, taste, and
+> the tangible, are to be known in order as eye, ear, nose, tongue, and
+> body.
+>
+Scripture. As the Blessed One said: “The eye, monk, is an internal essence,
+a clarity of form depending on the four great elements,” and the rest.
 
-And *avijñapti*. This is the whole of the Form Base.
+> What have been stated, beginning with the eye, are supports of the
+> corresponding principle, clarities of form, beginning with the eye. The
+> meaning is: supports of the eye-principle and the rest. So taken, the
+> Prakaraṇa too is in agreement: “What is the eye? A clarity of form that
+> is the support of the eye-principle,” and the rest.
+>
+> The five organs have been indicated. The five meanings are to be
+> indicated.
 
-Those five meanings have been named. The eye and the others are Form
-clarities, supports for the Cognitions of those *viṣayas*. The five
-clarities that support Cognition of visible form, sound, odor, taste, and
-the tangible are, in order, eye, ear, nose, tongue, and body.
+*Upādāya* here is dependence on the four great elements. It is not the
+appropriation of 1.08.
 
-As the Blessed One said: “The eye, monk, is an internal Essence Base, a
-Form clarity dependent on the four Great Elements.” And the rest.
+## 4. Movement
 
-Read the other way: supports of eye-Cognition and the rest. So read, the
-Prakaraṇa agrees. What is the eye? A Form clarity that supports
-eye-Cognition.
+```text
+five bases already stated
+    → form, among them
+enumeration
+    → five organs, five meanings, avijñapti
+organs defined
+    → clarities of form
+    → supports of the corresponding principle
+scripture
+    → the eye, an internal essence, depending on the four
+Prakaraṇa
+    → agrees, so read
+close
+    → organs indicated; meanings still to come
+```
 
-The five faculties have been indicated. The five meanings are still to be indicated.
+No opponent is named. No school is named. The scripture and the Prakaraṇa
+are cited.
 
-*Upādāya* here is dependence on the Elements, not the appropriation
-relation of 1.08.
+## 5. Eleven
 
-## 4. Organon Reading
+The organs are five, named. The meanings are five, each its own, and the
+commentary calls them conditions. *Avijñapti* is singular, and joined by
+*eva ca*. Eleven. That is the whole of the form-base.
 
-Form is Form Theory, not matter. The Form Base is the empirical ground:
-empirical science applies to appearances, and the manifold appearances of
-*sarvadharma* are organized here through faculty, meaning, and
-*avijñapti*. This is the Organon determination, not an expansion of the
-Bhāṣya’s literal enumeration.
+The principle is not in the count. *Tadvijñānāśrayāḥ* places it as what
+the clarity supports. Eye-principle, and the rest. Not a twelfth member
+of form.
 
-The faculty and its corresponding meaning form a relational pair.
-*Artha* remains lower-case **meaning**; the Bhāṣya’s *viṣaya* is its
-object-side gloss, not a second inventory. The Form clarities support the
-Cognitions corresponding to those meanings.
+## 6. Clarity and Support
 
-Here *vijñāna* is **Cognition**, the supported operation; it is not the
-Knowledge Base (*vijñānaskandha*). The Blessed One’s eye as an internal
-Essence Base makes the faculty–field relation explicit. This passage does
-not enumerate the Principles or complete their reciprocal Concept-level
-closure.
+*Rūpaprasāda* is what the five are. A clarity of form, not a thing on the
+desk. In order: eye, ear, nose, tongue, body, supporting the principle of
+visible form, of sound, of odor, of taste, and of the tangible.
 
-## 5. Review
+The scripture calls the eye an internal essence, a clarity of form
+depending on the four great elements. The essence is cited. It is not
+enumerated. The dependence is *upādāya*. Not appropriation.
 
-Kārikā anchor synced. The five faculties, five meanings, and
-*avijñapti* remain distinct; the eye faculties support their respective
-Cognitions. *Meaning* remains lower-case. The witness and its reading of
-*upādāya* are preserved.
+The other reading is the Prakaraṇa's: the eye is the clarity of form that
+supports the eye-principle. The commentary says the treatise agrees, so
+taken. Both readings keep the support. Neither adds a member.
+
+## 7. Decisions for the Kārikā
+
+1. Form is five organs, five meanings, and *avijñapti*. Eleven.
+2. The meanings are the conditions of those organs, each its own.
+3. The organs are clarities of form, supports of the corresponding
+   principle.
+4. The principle is not a member of the form-base.
+5. *Upādāya* is dependence on the four great elements, not 1.08.
+6. The five meanings are indicated as names, and still to be explained.
+
+## 8. Interpretation
+
+The base starts here, inside a division already made. Pure and Impure,
+Conditioned and Unconditioned, are the opening of the system. Form is the
+first collection caught in that division. Eleven members, and the
+principle not among them. The organ supports the principle. It does not
+become it.
+
+Organ and meaning are the two sides. The commentary's condition is the
+gloss, not a second list. The eye does not see a finished object. It is a
+clarity, and a support.
+
+Essences and principles complete what a collection cannot finish. The eye
+is already called an internal essence. That citation is the door, not the
+enumeration. The system is the triad. This verse is the first subsystem.
+
+The reading is once, here. 1.10 is not opened.
+
+## 9. Review Status
+
+Upgraded reading of the ninth Bhāṣya study. The unit through the meanings
+still to be indicated checked against the running Sanskrit.
+
+Cognition withdrawn. Principle is the chapter word. Organ is the word in
+this verse, once an organized being is in view. Meaning stays lowercase.
+The next study is not opened.
