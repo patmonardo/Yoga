@@ -15,26 +15,27 @@
 ## 3. Lexical Analysis
 
 ```text
-sarvasaṃgrahaḥ     → sarva-saṃgrahaḥ
-skandhenāyatanena  → skandhena + āyatanena
-parabhāvaviyogataḥ → para-bhāva-viyogataḥ
+sarva-saṃgrahaḥ     → the inclusion of all
+ekena              → by one; distributes across the three
+skandhena          → by a base
+āyatanena         → by an essence
+dhātunā            → by a principle
+svabhāvena         → by own-nature
+parabhāva-viyogataḥ → because of separation from another's nature
 ```
 
 | Pada | Morphology | Force in this passage |
 |---|---|---|
-| sarva-saṃgrahaḥ | nominative masculine singular | the inclusion of all |
-| ekena | instrumental singular | by one; carries across the three |
-| skandhena | instrumental masculine singular | by a base |
-| āyatanena | instrumental neuter singular | by an essence |
-| ca | indeclinable | and |
-| dhātunā | instrumental masculine singular | by a principle |
-| svabhāvena | instrumental singular | by own-nature |
-| para-bhāva | compound member | another's nature |
-| viyogataḥ | ablatival adverb | because of separation from |
+| sarva-saṃgrahaḥ | nominative | the inclusion of all |
+| ekena | instrumental | by one; carries across the three |
+| skandhena | instrumental | by a base |
+| āyatanena | instrumental | by an essence |
+| dhātunā | instrumental | by a principle |
+| svabhāvena | instrumental | by own-nature |
+| parabhāva-viyogataḥ | ablatival adverb | separated from another's nature |
 
-*Saṃgraha* is inclusion. The Bhāṣya also uses it for the gathering of an
-assembly. The two uses are not the same ground. The verse's use is the
-first.
+*Saṃgraha* is inclusion. The commentary also uses it for the gathering of an
+assembly. The two uses are not the same ground. The verse's use is the first.
 
 ## 4. Grammar
 
@@ -44,58 +45,53 @@ sarva-saṃgrahaḥ
     + ekena āyatanena
     + ekena dhātunā
 
-ground
-    = svabhāvena
+ground = svabhāvena
     because parabhāva-viyogataḥ
 ```
 
-The subject is the inclusion of all. Three instrumentals name the means.
-*Ekena* distributes: by one base, by one essence, and by one principle.
-The Bhāṣya names them. Form-base, mind-essence, dharma-principle. Jointly.
-Not each alone.
+*Ekena* distributes. By one base, by one essence, and by one principle. The
+commentary names them: form-base, mind-essence, dharma-principle. Jointly. Not
+each alone.
 
-*Svabhāvena* is the ground. *Parabhāvaviyogataḥ* is why the other nature
-will not serve. A dharma is separate from another's nature. It is not
-included by the nature it is separate from.
+*Svabhāvena* is the ground. A dharma is separate from another's nature. It is
+not included by the nature it is separate from.
 
 ## 5. Translation
 
 ### Literal Translation
 
-The inclusion of all is by one base, and by one essence, and by one
-principle, by own-nature, because of separation from another's nature.
+The inclusion of all is by one base, and by one essence, and by one principle,
+by own-nature, because of separation from another's nature.
 
 ### Bhāṣya-informed study translation
 
-All dharmas are included jointly by the form-base, the mind-essence, and
-the dharma-principle. The inclusion is by a dharma's own nature, not by
-another's nature, from which it is separate.
+All dharmas are included jointly by the form-base, the mind-essence, and the
+dharma-principle. The inclusion is by a dharma's own nature, not by another's
+nature, from which it is separate.
 
 Bases include the conditioned. Bases of appropriation include the Impure.
 Essences and principles include all dharmas, the unconditioned among them.
 
 ## 6. Philosophical Translation
 
-Again, two lines. The first names the inclusion. The second names the
-ground.
+Again, two lines. The first names the inclusion. The second names the ground.
 
-This is the twist of the skandha puzzle, and it is not a fourth list.
 One base, one essence, one principle, taken together, include all. The
-commentary names the three: form-base, mind-essence, dharma-principle.
-Form gathers the faculties, the conditions, and *avijñapti*. Mind-essence
-is the principle-base. Dharma-principle takes feeling, reflection,
-formations, *avijñapti*, and the unconditioned. Overlap is the point.
-*Avijñapti* sits in form and in the dharma-principle. The unconditioned
-have no base, and still enter.
+commentary names the three: form-base, mind-essence, dharma-principle. Form is
+the Form System: organs, meanings, and *avijñapti*. Mind-essence is the
+principle-base. Dharma-principle takes feeling, reflection, formations,
+*avijñapti*, and the unconditioned. Overlap is the point. *Avijñapti* sits in
+form and in the dharma-principle. The unconditioned have no base, and still
+enter.
 
-Own-nature is the warrant. Not isolation. The eye is included in the
-form-base, in the eye-essence and the eye-principle, and, when Impure, in
-suffering and origin, because it has that nature. It is not included
-where the nature is not its own.
+Own-nature is the warrant. Not isolation. The eye is included in the form-base,
+in the eye-essence and the eye-principle, and, when Impure, in suffering and
+origin, because it has that nature. It is not included where the nature is not
+its own.
 
 The same word gathers an assembly. That gathering is occasional, and
-conventional. It happens. It does not place the gathered in the gatherer's
-own nature. Two grounds. The science is the difference.
+conventional. It happens. It does not place the gathered in the gatherer's own
+nature. Two grounds. The science is the difference.
 
 ## 7. Technical Vocabulary
 
@@ -107,12 +103,12 @@ own nature. Two grounds. The science is the difference.
 | upādāna-skandha | base of appropriation | the Impure |
 | āyatana | essence | all dharmas |
 | dhātu | principle | all dharmas |
-| rūpa-skandha | form-base | one of the three selected |
+| rūpa-skandha | form-base | the Form System |
 | mana-āyatana | mind-essence | the principle-base, under essence |
 | dharma-dhātu | dharma-principle | feeling, reflection, formations, *avijñapti*, the unconditioned |
 | svabhāva | own-nature | the ground of inclusion |
 | parabhāva | another's nature | what will not include it |
-| sāsrava | Impure | not "with outflows" |
+| sāsrava | Impure | |
 | sāṃketika | conventional | the assembly |
 | kādācitka | occasional | why the assembly is conventional |
 
@@ -140,15 +136,17 @@ assembly
     occasional
     conventional
     not this inclusion
+
+1.19 not opened
 ```
 
-The eye is the commentary's case. Several determinations, one nature that
-it has. Not three identical wholes.
+The eye is the commentary's case. Several determinations, one nature that it
+has. Not three identical wholes.
 
 ## 9. Interpretive Note
 
-The hinge is *ekena*, distributed, then *svabhāvena*. Interpretation of
-the joint inclusion is in the Bhāṣya.
+The hinge is *ekena*, distributed, then *svabhāvena*. Interpretation of the
+joint inclusion is in the Bhāṣya.
 
 ## 10. OWL++ Seed
 
@@ -161,19 +159,8 @@ vak:VAK_1_18 a vak:Karika ;
 
 vak:InclusionOfAll vak:by vak:FormBase, vak:MindEssence, vak:DharmaPrinciple ;
     vak:eachAlone false ;
-    vak:ground vak:OwnNature ;
-    vak:notBy vak:AnothersNature .
-
-vak:Bases vak:include vak:Conditioned .
+    vak:ground vak:OwnNature .
 vak:BasesOfAppropriation vak:include vak:Impure .
-vak:Essences vak:include vak:AllDharmas .
-vak:Principles vak:include vak:AllDharmas .
-
 vak:Avijnapti vak:in vak:FormBase, vak:DharmaPrinciple .
-vak:Unconditioned vak:hasBase false ;
-    vak:enters vak:DharmaPrinciple .
-
-vak:AssemblyGathering vak:occasional true ;
-    vak:conventional true ;
-    vak:isClassificatoryInclusion false .
+vak:AssemblyGathering vak:isClassificatoryInclusion false .
 ```
