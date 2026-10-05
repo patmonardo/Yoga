@@ -14,29 +14,18 @@
 
 ## 3. Lexical Analysis
 
-```text
-rūpam                  → the form-base
-pañcendriyāṇi          → pañca + indriyāṇi
-pañcāvijñaptiḥ          → pañca + avijñaptiḥ
-tadvijñānāśrayāḥ       → tad-vijñāna-āśrayāḥ
-rūpaprasādāḥ           → rūpa-prasādāḥ
-cakṣurādayaḥ           → cakṣus-ādayaḥ
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
-| rūpam | nominative neuter | form; the form-base |
-| pañca indriyāṇi | nominative neuter plural | five faculties |
+| rūpam | nominative neuter singular | the form-base; eleven: five faculties, five meanings, one *avijñapti* |
+| pañcendriyāṇi | pañca + indriyāṇi; nominative neuter plural | five faculties |
 | arthāḥ | nominative masculine plural | meanings |
-| pañca | numeral | counts the meanings |
-| avijñaptiḥ | nominative feminine singular | and *avijñapti* |
+| pañca | numeral | counts the meanings, not the faculties again |
+| pañcāvijñaptiḥ | pañca + avijñaptiḥ | the numeral is already spent on the meanings |
+| avijñaptiḥ | nominative feminine singular | one member |
 | eva ca | particles | and just that |
-| tad-vijñāna-āśrayāḥ | nominative plural | supports of the corresponding reason |
-| rūpa-prasādāḥ | nominative plural | clarities of form |
-| cakṣus-ādayaḥ | nominative plural | beginning with the eye |
-
-*Pañca* counts the meanings. *Avijñapti* is singular. Eleven. The reason
-is not a twelfth member of form. The faculties support it.
+| tadvijñānāśrayāḥ | tad-vijñāna-āśrayāḥ; nominative plural | supports of the corresponding reason; the reason is not a twelfth member |
+| rūpaprasādāḥ | rūpa-prasādāḥ; nominative plural | clarities of form |
+| cakṣurādayaḥ | cakṣus-ādayaḥ; nominative plural | beginning with the eye; the faculties support the reason |
 
 ## 4. Grammar
 
