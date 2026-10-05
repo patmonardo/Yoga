@@ -1,10 +1,10 @@
-# VAK_1.20
+# VAK_1.20 — Collection, Door, Source
 
 ## 1. Sanskrit (Devanāgarī)
 
 > राश्यायद्वारगोत्रार्थाः स्कन्धायतनधातवः ।
 >
-> मोहेन्द्रियरुचित्रैधात्तिस्रः स्कन्धादिदेशनाः ॥ १.२० ॥
+> मोहेन्द्रियरुचित्रैधात्तिस्रः स्कन्धादिदेशनाः ॥ १.२० ॥॥
 
 ## 2. Sanskrit (IAST)
 
@@ -21,334 +21,163 @@ mohendriyarucitraidhāt  → moha-indriya-ruci-traidhāt
 skandhādideśanāḥ        → skandha-ādi-deśanāḥ
 ```
 
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
-| rāśi | masculine noun in compound | collection; the gathering sense of a base |
-| āya | masculine noun in compound | arrival, acquisition, extension of mental activity |
-| dvāra | neuter noun in compound | door, gateway, means of access |
-| gotra | neuter noun in compound | source-kind, lineage, generative matrix |
-| arthāḥ | nominative masculine plural compound ending | having the respective meanings |
-| skandha-āyatana-dhātavaḥ | nominative masculine plural coordinative compound | bases, essences, and principles |
-| moha | masculine noun in compound | delusion or confusion |
-| indriya | neuter noun in compound | faculty or capacity of the learner |
-| ruci | feminine noun in compound | inclination, preference, disposition |
-| traidhāt | ablatival form | because of the threefold differentiation |
-| tisraḥ | nominative feminine plural | three; agrees with `deśanāḥ` |
-| skandha-ādi-deśanāḥ | nominative feminine plural | the teachings beginning with skandha |
+| rāśi | compound member | collection; a heap gathered into one |
+| āya | compound member | arrival |
+| dvāra | compound member | door |
+| gotra | compound member | source-kind; the mine |
+| arthāḥ | nominative plural | having these meanings, distributed |
+| skandha-āyatana-dhātavaḥ | nominative plural | bases, essences, principles |
+| moha | compound member | confusion |
+| indriya | compound member | the learner's faculty |
+| ruci | compound member | inclination |
+| traidhāt | ablatival | because of the threefold |
+| tisraḥ | nominative feminine plural | three; agrees with the teachings |
+| deśanāḥ | nominative feminine plural | teachings |
 
-The first compound is distributive rather than cumulative:
+The first compound distributes. It does not pile four meanings on one word.
 
 ```text
-skandha  → rāśi-artha
-āyatana  → āya-dvāra-artha
-dhātu    → gotra-artha
+base     → collection
+essence  → door of arrival
+principle → source-kind
 ```
 
 ## 4. Grammar
 
-The first line consists of a subject and a distributive predicate:
-
 ```text
 skandha-āyatana-dhātavaḥ
-    are respectively
-rāśi-āya-dvāra-gotra-arthāḥ
+    = rāśi-āya-dvāra-gotra-arthāḥ
+
+moha-indriya-ruci-traidhāt
+    → tisraḥ skandha-ādi-deśanāḥ
 ```
 
-The Bhāṣya unfolds each compact meaning.
+The first line is a distributive predication. The second is an ablative of
+cause. *Tisraḥ* agrees with *deśanāḥ*.
 
-For `āyatana`:
-
-```text
-citta-caittānām āyaṃ tanvanti
-    they extend the arrival or occurrence
-    of mind and mental factors
-
-therefore:
-āyatana = functional access-gateway
-```
-
-For `dhātu`, the Bhāṣya uses the image of one mountain containing distinct
-mines of iron, copper, silver, and gold:
-
-```text
-gotra = ākara
-      = mine, source, generative deposit
-```
-
-Within one support or continuum, the eighteen dhātus are eighteen such
-source-kinds. A conditioned dhātu functions as a homogeneous cause
-(`sabhāga-hetu`) of a subsequent occurrence of its own kind.
-
-An objection notes that this generative definition would exclude the
-unconditioned. The alternative teachers therefore generalize `dhātu` as the
-`jāti` or `svabhāva` of each of the eighteen dharmas. The grammar of `gotra`
-must consequently retain two connected senses:
-
-```text
-conditioned dhātu
-    → source reproducing its own kind
-
-dhātu generally
-    → intrinsic kind or nature
-```
-
-The second line gives an ablative cause: because those to be trained differ
-threefold in delusion, capacity, and inclination, there are three pedagogical
-expositions. `Tisraḥ` agrees with the feminine plural `deśanāḥ`.
+The Bhāṣya unfolds each meaning, then assigns the three teachings in order.
 
 ## 5. Translation
 
-### Close syntactic construe
+### Literal Translation
 
-> Skandha, āyatana, and dhātu have respectively the meanings of collection, gateway of mental extension, and source-kind. Because delusion, faculty, and inclination are each threefold, there are the three teachings beginning with the bases.
+Bases, essences, and principles have the meanings of collection, door of
+arrival, and source-kind. Because confusion, faculty, and inclination are
+threefold, there are three teachings, beginning with the bases.
 
-### Bhāṣya-informed translation
+### Bhāṣya-informed study translation
 
-> A base (*skandha*) is a conceptual gathering; an essence (*āyatana*) is an access-gate through which mind and mental factors extend; and a principle (*dhātu*) is an intrinsic source-kind, like a distinct mine within a mountain and, for conditioned factors, a homogeneous cause of its own kind. The Buddha teaches the Dharma through these three arrangements because those to be trained differ in what confuses them, in capacity, and in preference for brief, intermediate, or extensive exposition.
-
-The Bhāṣya insists that `skandha` retain its scriptural collective meaning:
-the base is a conceptual designation (`prajñapti`), not an additional
-substance over and above its constituents. “Knowledge Base” is reserved for
-the specific *vijñānaskandha* in the Organon machine; it is not a replacement
-for every occurrence of *skandha*.
+A base is a collection: whatever form is past, future, or present, gathered
+into one, is reckoned the form-base. An essence is the door through which
+consciousness and the mental factors arrive and extend. A principle is a
+source-kind, as the mines in one mountain. For the conditioned, that source
+is a homogeneous cause of its own kind. The unconditioned are principles as
+kind and own-nature, not as that cause. The three teachings answer three
+confusions, three faculties, and three inclinations.
 
 ## 6. Philosophical Translation
 
-> The three classifications have distinct operations. A base (*skandha*) gathers a manifold as a collection (*rāśi*); an essence (*āyatana*) opens the gate through which mind and mental factors extend; a principle (*dhātu*) determines source-kind (*gotra*). For conditioned dharmas, that kind can continue through homogeneous causation. The teaching selects among these presentations according to the condition of the learner.
+Again, two lines. The first is the science. The second is why it is taught
+three ways.
 
-Organon rendering:
+The system rolls because the three are not synonyms. A base collects. The
+sūtra is the warrant: all of it gathered into one. The collection is a
+designation, as a heap is. It is not a further substance over the gathered,
+and it is not the burden-bearing or the portion that others propose. Those
+depart from the sūtra.
 
-> The chapter-level machine, carried forward from 1.16, is nested:
-> **[Knowledge Base [Essence Base [Form Base]]].** The specific
-> *vijñānaskandha* is the Knowledge Base; *vijñāna* itself is Reasoning,
-> the operation that apprehends each object. The Essence Base is the
-> access-gate through which that operation meets its field; the Form Base
-> is enclosed within this relation. A principle (*dhātu*) determines a
-> source-kind within the machine. It is not, by itself, the whole Concept
-> or another name for Reasoning.
+An essence is a door. Consciousness and the mental factors arrive through
+it, and are extended. That is the derivation: they extend the arrival. Not
+a place on a map.
 
-The notation expresses enclosure and operation, not three interchangeable
-labels or three parallel inventories. In this verse, the respective glosses
-are collection (*rāśi*) for the base, access-gate (*āya-dvāra*) for the
-essence, and source-kind (*gotra*) for the principle. Do not absolutize the
-source-character: for conditioned dharmas it includes homogeneous
-causation; for the unconditioned the broader
-meaning is intrinsic kind. This does not make the unconditioned a produced
-effect.
+A principle is a source-kind. One mountain, many mines: iron, copper,
+silver, gold. One support, or one continuum, eighteen sources. The eye and
+the rest are sources of their own kind, because they are homogeneous
+causes. The objection is exact. Then the unconditioned would not be a
+principle. Others therefore take the word as kind and own-nature: the
+eighteen dharmas, eighteen principles. Source where there is a series.
+Kind where there is not. The word is not reduced to the cause.
+
+The second line does not rank the teachings. Some are confused about the
+mental factors, grasping a self as a lump. Some about form alone. Some
+about form and consciousness. Faculties are sharp, middling, weak.
+Inclination wants the brief, the intermediate, or the extensive. In that
+order: bases, essences, principles. The field is one. The exposition
+follows the one to be trained.
 
 ## 7. Technical Vocabulary
 
-| Sanskrit | Project rendering | Determination |
+| Sanskrit | Rendering | Note |
 |---|---|---|
-| skandha | Base | generic gathered layer; not automatically the specific Knowledge Base |
-| rāśi | collection | conceptual gathering that does not add another substance |
-| prajñapti-sat | conceptually existent | status attributed to skandha as a collection |
-| āya | arrival / extension | occurrence and spread of mind and mental factors |
-| dvāra | gateway | functional access-condition |
-| āyatana | Essence Base / access-gate | gateway through which mind and mental factors extend |
-| gotra | source-kind / lineage | principal meaning of dhātu in the Kārikā |
-| ākara | mine / generative matrix | Bhāṣya image clarifying `gotra` |
-| dhātu | principle / source-kind | intrinsic type and, where conditioned, source of its own kind |
-| jāti | kind | class-determination reproduced or expressed by a dhātu |
-| svabhāva | intrinsic nature | generalized basis for all eighteen principles, including the unconditioned |
-| vijñānaskandha | Knowledge Base | the specific Knowledge Base of the machine; not the generic meaning of every skandha |
-| vijñāna | Reasoning | object-directed operation; distinct from the Knowledge Base |
-| rūpaskandha | Form Base | form-content enclosed within the Essence Base in the machine notation |
-| Knowledge Base | outer enclosure | nests the Essence Base, which in turn nests the Form Base |
-| sabhāga-hetu | homogeneous cause | cause producing a subsequent factor of the same kind |
-| moha | delusion | confusion to which a teaching responds |
-| indriya | capacity | sharp, middling, or weak faculty of the learner |
-| ruci | inclination | preference for brief, intermediate, or extensive teaching |
-| vineya | one to be trained | learner whose condition governs pedagogical presentation |
-| deśanā | teaching / exposition | one of the three presentations of the Dharma-field |
+| skandha | base | the collection; not a further substance |
+| rāśi | collection | the sūtra's meaning; a heap |
+| prajñapti | designation | how a base exists |
+| āyatana | essence | the door |
+| āya | arrival | of consciousness and the mental factors |
+| dvāra | door | they extend the arrival |
+| dhātu | principle | source-kind |
+| gotra | source-kind | glossed as mine |
+| ākara | mine | the mountain image |
+| sabhāga-hetu | homogeneous cause | of its own kind; the conditioned |
+| svabhāva | own-nature | the general account, with the unconditioned |
+| citta | consciousness | what arrives through the door |
+| moha | confusion | lump-self; form; form and consciousness |
+| indriya | faculty | here the learner's: sharp, middling, weak |
+| ruci | inclination | brief, intermediate, extensive |
+| vineya | one to be trained | why three teachings |
+| deśanā | teaching | not three rival systems |
 
 ## 8. Logical Determination
 
-The three Sanskrit determinations and the specific machine terms are:
-
 ```text
-Skandha(x)
-    → CollectsAsBase(x)
-    → PrajnaptiStatus(x)
+base      → collection
+          → gathered into one
+          → designation, as a heap
+          not burden, not portion
 
-Ayatana(x)
-    → EssenceBase / OpensAccessFor(x, MindAndMentalFactors)
+essence   → door of arrival
+          → consciousness and mental factors extend
 
-Dhatu(x)
-    → Principle / DeterminesSourceKind(x)
+principle → source-kind
+          conditioned → homogeneous cause of its own kind
+          unconditioned → kind, own-nature
+          not the cause alone
 
-VijnanaSkandha
-    → KnowledgeBase
+teachings, in order
+    confusion about mental factors, sharp, brief        → bases
+    confusion about form, middling, intermediate        → essences
+    confusion about form and consciousness, weak, long  → principles
 
-Vijnana(x)
-    → Reasoning(x)
-
-KnowledgeBase
-    → encloses EssenceBase
-        → encloses FormBase
+one field
+three expositions
+1.21 not opened
 ```
-
-For conditioned principles:
-
-```text
-ConditionedDhatu(d)
-∧ HasKind(d, k)
-∧ FunctionsAs(d, HomogeneousCause)
-    → MayProduceLaterOccurrenceOfKind(d, k)
-```
-
-For the complete eighteen-principle system:
-
-```text
-Dhatu(d)
-    → HasIntrinsicKind(d)
-
-Unconditioned(d)
-    ↛ CausallyReproducesOwnKind(d)
-```
-
-Thus causal sourcehood is strong but not extensionally sufficient for every
-dhātu.
-
-The three teachings correspond in order to three learner profiles:
-
-| Teaching | Primary confusion | Capacity | Preferred extent |
-|---|---|---|---|
-| skandha | mental factors grasped as one undifferentiated personal unity | sharp | brief |
-| āyatana | form | middling | intermediate |
-| dhātu | both form and mind | weak | extensive |
-
-Formally:
-
-```text
-LearnerCondition(moha, capacity, inclination)
-    → SelectPedagogicalForm(skandha | āyatana | dhātu)
-```
-
-The truth-field remains one while its exposition varies.
 
 ## 9. Interpretive Note
 
-VAK 1.20 names the three systems from within. Its definitions set the
-functional terms of the machine without collapsing them into synonyms:
-
-```text
-skandha / base
-    = collection (rāśi)
-
-āyatana / Essence Base
-    = access-gate (āya-dvāra)
-
-dhātu / principle
-    = intrinsic source-kind (gotra)
-```
-
-The specific *vijñānaskandha* is the Knowledge Base; *vijñāna* is
-Reasoning. The nested form is **[Knowledge Base [Essence Base [Form Base]]].**
-It describes enclosures and operations in the machine, not a claim that
-each general skandha is a Knowledge Base or that the three words in the
-verse are interchangeable.
-
-This notation carries forward the specific *vijñānaskandha* distinction
-from 1.16; it is not a lexical expansion of the generic *skandha* in this
-Kārikā.
-
-The principle presentation is highly differentiated, not a superior
-substance or a Concept standing by itself. The Bhāṣya assigns its extensive
-teaching to trainees confused about both form and mind; it does not rank
-them as intellectually superior. The system states eighteen source-kinds
-and their relations, while the other presentations gather bases and open
-essence-gates.
-
-The mine analogy clarifies principle as source-kind, not a container of
-facts. For conditioned dharmas, the principle is a determinate source
-through which a kind continues:
-
-```text
-intrinsic kind
-    → homogeneous causal continuity
-    → new occurrence of that kind
-```
-
-The restraint is equally important: the Bhāṣya speaks within conditioned
-causal series, not of an eternal universal existing apart from occurrences.
-Unconditioned dharmas also receive principle positions, so intrinsic
-determinacy is more fundamental than causal reproduction alone.
-
-The pedagogical conclusion prevents dogmatism. Base, Essence Base, and
-principle are not rival ontologies, and no one vocabulary exhausts the truth
-for every learner. The Buddha's teaching changes form according to delusion,
-capacity, and inclination while preserving the same Dharma-field. The
-Organon must preserve the function of each layer rather than privilege one
-as the whole machine.
-
-In our Science of Knowing, the three meanings also suggest a research
-procedure: gather the relevant contents in a base, pass through the Essence
-Base's gate of access, and determine the principle's source-kind. Reasoning
-operates across this nested structure; it is not another name for its
-Knowledge Base. This is an Organon reconstruction of the three meanings; the
-Bhāṣya presents them as teachings suited to different trainees, not as a
-mandatory chronological sequence for every inquiry.
-
-The third rule of the Method is therefore:
-
-```text
-determine whether the task requires
-    base / collection,
-    Essence Base / access-gate,
-    or principle / source-kind;
-then select the classification adequate to that task
-```
+The hinge is the distributed compound, then *traidhāt*. Interpretation of
+the mine, the unconditioned, and the designation is in the Bhāṣya.
 
 ## 10. OWL++ Seed
 
 ```ttl
 @prefix vak: <http://127.0.0.1:3000/vak#> .
-@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
-vak:VAK_1_20
-    a vak:Karika ;
-    rdfs:label "VAK 1.20" ;
-    vak:hasTopic vak:MeaningsAndPedagogyOfThreeClassifications ;
+vak:VAK_1_20 a vak:Karika ;
+    vak:hasTopic vak:ThreeMeaningsThreeTeachings ;
     vak:belongsTo vak:Dhatunirdesa .
 
-vak:Skandha
-    vak:hasMeaning vak:Collection ;
-    vak:hasOntologicalStatus vak:ConceptualDesignation ;
-    vak:hasMachineRole vak:Base .
+vak:Base vak:means vak:Collection ;
+    vak:existsAs vak:Designation .
+vak:Essence vak:means vak:DoorOfArrival .
+vak:Principle vak:means vak:SourceKind ;
+    vak:whenConditioned vak:HomogeneousCause ;
+    vak:whenUnconditioned vak:OwnNature .
 
-vak:Ayatana
-    vak:hasMeaning vak:GatewayOfMentalExtension ;
-    vak:hasMachineRole vak:EssenceBase .
-
-vak:Dhatu
-    vak:hasMeaning vak:SourceKind ;
-    vak:hasGeneralGround vak:IntrinsicNature ;
-    vak:hasMachineRole vak:Principle .
-
-vak:VijnanaSkandha
-    vak:hasMachineRole vak:KnowledgeBase .
-
-vak:Vijnana
-    vak:hasMachineOperation vak:Reasoning .
-
-vak:KnowledgeBase
-    vak:encloses vak:EssenceBase .
-
-vak:EssenceBase
-    vak:encloses vak:FormBase ;
-    vak:opensAccessFor vak:Reasoning .
-
-vak:ConditionedDhatu
-    vak:mayFunctionAs vak:HomogeneousCauseOfOwnKind .
-
-vak:ThreefoldTeaching
-    vak:adaptsTo vak:LearnerDelusion , vak:LearnerCapacity ,
-        vak:LearnerInclination ;
-    vak:hasForms vak:SkandhaTeaching , vak:AyatanaTeaching ,
-        vak:DhatuTeaching .
-
-vak:DhatuTeaching
-    vak:hasExtent vak:ExtensiveExposition ;
-    vak:addresses vak:ConfusionAboutFormAndMind .
+vak:ThreeTeachings vak:because vak:ThreefoldConfusion,
+    vak:ThreefoldFaculty, vak:ThreefoldInclination ;
+    vak:order vak:Bases, vak:Essences, vak:Principles ;
+    vak:oneField true .
 ```
