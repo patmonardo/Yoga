@@ -1,4 +1,4 @@
-# VAK_1.20 Bhāṣya — The Nested Bases, Principles, and Three Teachings
+# VAK_1.20 Bhāṣya — Collection, Door, Source
 
 ## 1. Kārikā Anchor
 
@@ -6,467 +6,323 @@
 >
 > mohendriyarucitraidhāt tisraḥ skandhādideśanāḥ // 1.20 //
 
-> Base, Essence Base, and Principle mean collection, gateway of mental
-> extension, and source-kind, respectively. Because delusion, faculty, and
-> inclination differ in three ways, there are three teachings beginning
-> with bases.
+Literal:
 
-The Bhāṣya establishes these meanings through scripture, derivation,
-analogy, and debate. It then explains the three presentations by reference
-to those to be trained. The generic *skandha* is Base; the
-*vijñānaskandha* functions as the Knowledge Base, while *vijñāna* itself is
-Reasoning. The nested Knowledge Base / Essence Base / Form Base machine is
-developed in the Organon section, not inserted into the close translation.
+> Bases, essences, and principles have the meanings of collection, door of
+> arrival, and source-kind. Because confusion, faculty, and inclination are
+> threefold, there are three teachings, beginning with the bases.
+
+Bhāṣya-informed:
+
+> A base is a collection: whatever form is past, future, or present, gathered
+> into one, is reckoned the form-base. An essence is the door through which
+> consciousness and the mental factors arrive and extend. A principle is a
+> source-kind, as the mines in one mountain. For the conditioned, that source
+> is a homogeneous cause of its own kind. The unconditioned are principles as
+> kind and own-nature, not as that cause. The three teachings answer three
+> confusions, three faculties, and three inclinations.
+
+The commentary gives the meanings, meets the objections, and then says why
+three teachings. The question that separates feeling and reflection opens
+1.21. It is not taken here.
 
 ## 2. Continuous Sanskrit
 
-> uktāḥ skandhāyatanadhātavaḥ
->
-> idaṃ tu vaktavyaṃ kaḥ skandhāyatanadhātvartha iti /
->
-> rāśyāyadvāragotrārthāḥ skandhāyatanadhātavaḥ /
+> uktāḥ skandhāyatanadhātavaḥ / idaṃ tu vaktavyaṃ kaḥ skandhāyatanadhātvartha
+> iti / rāśyāyadvāragotrārthāḥ skandhāyatanadhātavaḥ /
 >
 > “yat kiñcid rūpam atītānāgatapratyutpannam ādhyātmikabāhyam audārikaṃ vā
-> sūkṣmaṃ vā hīnaṃ vā praṇītaṃ vā yadvā dūre antike
-> tat sarvam aikadhyam abhisaṃkṣipya rūpaskandha iti saṃkhyāṃ gacchati” iti vacanāt
-> sūtre rāśyarthaḥ skandhārtha iti siddham /
+> sūkṣmaṃ vā hīnaṃ vā praṇītaṃ vā yad vā dūre antike tat sarvam aikadhyam
+> abhisaṃkṣipya rūpaskandha iti saṃkhyāṃ gacchati” iti vacanāt sūtre
+> rāśyarthaḥ skandhārtha iti siddham /
 >
-> tatrātītaṃ rūpamanityatāniruddham /
->
-> anāgatamanutpannam / pratyutpannam utpannāniruddham /
->
-> ādhyātmikaṃ svāsantānikaṃ bāhyamanyadāyatanato vā
->
-> audārikaṃ sapratighaṃ sūkṣmamapratighamāpekṣikaṃ vā /
->
-> āpekṣikatvādasiddhamiti cet / na /
->
-> apekṣābhedāt /
->
-> yad apekṣyaudārikaṃ na jātu tadapekṣya sūkṣmaṃ pitāputravat / hīnaṃ kliṣṭam
-> /
->
-> praṇītamakliṣṭam / dūramatītānāgatam / antikaṃ pratyutpannam /
->
-> evaṃ yāvat vijñānam /
+> tatrātītaṃ rūpam anityatāniruddham / anāgatam anutpannam / pratyutpannam
+> utpannāniruddham / ādhyātmikaṃ svāsantānikaṃ bāhyam anyad āyatanato vā /
+> audārikaṃ sapratighaṃ sūkṣmam apratigham āpekṣikaṃ vā / āpekṣikatvād
+> asiddham iti cet / na / apekṣābhedāt / yad apekṣyaudārikaṃ na jātu tad
+> apekṣya sūkṣmaṃ pitāputravat / hīnaṃ kliṣṭam / praṇītam akliṣṭam /
+> dūram atītānāgatam / antikaṃ pratyutpannam / evaṃ yāvad vijñānam /
 >
 > ayaṃ tu viśeṣaḥ / audārikaṃ pañcendriyāśrayam sūkṣmaṃ mānasam /
+> bhūmito vā iti vaibhāṣikāḥ / bhadanta āha audārikarūpaṃ
+> pañcendriyagrāhyam sūkṣmam anyat / hīnam amanāpaṃ praṇītaṃ manāpam /
+> dūram adṛśyadeśam / antikaṃ dṛśyadeśam / atītādīnāṃ svaśabdenābhihitatvāt /
+> evaṃ vedanādayo 'pi veditavyāḥ / dūrāntikatvaṃ tu teṣām āśrayavaśāt /
+> audārikasūkṣmatvaṃ tu pūrvavad iti /
 >
-> bhūmito veti vaibhāṣikāḥ /
->
-> bhadanta āha audārikarūpaṃ pañcendriyagrāhyam sūkṣmamanyat /
->
-> hīnamamanāpaṃ praṇītaṃ manāpam / dūramadṛśyadeśam / antikaṃ dṛśyadeśam /
->
-> atītādīnāṃ svaśabdenābhi hitatvāt /
->
-> evaṃ vedanādayo 'pi veditavyāḥ /
->
-> dūrāntikatvaṃ tu teṣāmāśrayavaśāt / audārikasūkṣmatvaṃ tu pūrvavaditi //
->
-> cittacaittāyadvārārtha āyatanārthaḥ /
->
-> nirvacanaṃ tu cittacaittānāmāyaṃ tanvantīti āyatanāni /
->
-> vistṛṇvantītyarthaḥ / gotrārtho dhātvarthaḥ /
->
-> yathaikasmin parvate bahūnyayastāmrarūpyasuvarṇādigotrāṇi dhātava ucyante
-> evam ekasminnāśraye santāne vā aṣṭādaśa gotrāṇi aṣṭādaśa dhātava ucyante /
->
-> ākarāstatra gotrāṇy ucyante /
->
-> ta ime cakṣurādayaḥ kasyākarāḥ /
->
+> cittacaittāyadvārārtha āyatanārthaḥ / nirvacanaṃ tu
+> cittacaittānām āyaṃ tanvantīti āyatanāni / vistṛṇvantīty arthaḥ /
+> gotrārtho dhātvarthaḥ / yathaikasmin parvate
+> bahūny ayastāmrarūpyasuvarṇādigotrāṇi dhātava ucyante evam ekasminn
+> āśraye santāne vā aṣṭādaśa gotrāṇi aṣṭādaśa dhātava ucyante /
+> ākarās tatra gotrāṇy ucyante / ta ime cakṣurādayaḥ kasyākarāḥ /
 > svasyā jāteḥ / sabhāgahetutvāt /
 >
-> asaṃskṛtaṃ tarhi na dhātuḥ syāt /
->
-> cittacittānāṃ tarhi jātivācako 'yaṃ dhātuśabda ityapare /
->
-> aṣṭādaśadharmāṇāṃ jātayaḥ svabhāvā aṣṭādaśa dhātava iti /
+> asaṃskṛtaṃ tarhi na dhātuḥ syāt / cittacittānāṃ tarhi jātivācako 'yaṃ
+> dhātuśabda ity apare / aṣṭādaśadharmāṇāṃ jātayaḥ svabhāvā aṣṭādaśa
+> dhātava iti /
 >
 > yadi rāśyarthaḥ skandhārthaḥ prajñaptisantaḥ skandhāḥ prāpnuvanti /
+> anekadravyasamūhatvāt rāśipudgalavat / na / ekasyāpi dravyaparamāṇoḥ
+> skandhatvāt / na tarhi rāśyarthaḥ skandhārtha iti vaktavyam / na hy ekasyāsti
+> rāśitvam iti / kāryabhārodvahanārthaḥ skandhārtha ity apare / pracchedārtho
+> vā / tathā hi vaktāro bhavanti tribhiḥ skandhakair deyaṃ dāsyāma iti /
+> tad etad utsūtram / sūtraṃ hi rāśyartham eva bravīti “yat kiñcid rūpam
+> atītānāgatapratyutpannam” iti vistaraḥ / pratyekam atītādirūpasya
+> skandhatvaṃ tatra vijñāpyate / sarvam etad atītādi rūpam ekaśo rūpaskandha
+> iti / na śakyam evaṃ vijñātum / “tat sarvam aikadhyam abhisaṃkṣipya” iti
+> vacanāt / tasmād rāśivad eva skandhāḥ prajñaptisantaḥ /
 >
-> anekadravyasamūhatvāt rāśipudgalavat / na /
+> rūpīṇy api tarhy āyatanāni prajñaptisanti prāpnuvanti / bahūnāṃ
+> cakṣurādiparamāṇūnām āyadvārabhāvāt / na / ekaśaḥ samagrāṇāṃ
+> kāraṇabhāvāt viṣayasahakāritvād vā nendriyaṃ pṛthag āyatanaṃ syāt /
 >
-> ekasyāpi dravyaparamāṇoḥ skandhatvāt / na tarhi rāśyarthaḥ skandhārtha iti
-> vaktavyam /
+> vibhāṣāyāṃ tūcyate “yady ābhidharmikaḥ skandhaprajñaptim apekṣate sa
+> āha paramāṇur ekasya dhātor ekasyāyatanasya ekasya skandhasya pradeśaḥ /
+> atha nāpekṣate sa āha paramāṇur eko dhātur ekam āyatanam ekaḥ skandha”
+> iti / bhavati hi pradeśe 'pi pradeśivad upacāro yathā paṭaikadeśe dagdhe
+> paṭo dagdha iti /
 >
-> na hyekasyāsti rāśitvamiti / kāryabhārodvahanārthaḥ skandhārtha ityapare /
->
-> pracchedārtho vā /
->
-> tathāhi vaktāro bhavanti tribhiḥ skandhakairdeyaṃ dāsyāma iti /
-> tadetadutsūtram /
->
-> sūtraṃ hi rāśyarthameva bravīti “yat kiñcid rūpam atītānāgatapratyutpannam” iti
-> vistaraḥ
->
-> pratyekamatītādirūpasya skandhatvaṃ tatra vijñāpyate /
->
-> sarvametadatītādi rūpamekaśo rūpaskandha iti /
->
-> na śakyamevaṃ vijñātum /
->
-> “tat sarvam aikadhyam abhisaṃkṣipya” iti vacanāt / tasmādrāśivadeva skandhāḥ
-> prajñaptisantaḥ
->
-> rūpīṇy api tarhyāyatanāni prajñaptisanti prāpnuvanti /
->
-> bahūnāṃ cakṣurādiparamāṇūnāmāyadvārabhāvāt /
->
-> na /
->
-> ekaśaḥ samagrāṇāṃ kāraṇabhāvāt viṣayasahakāritvādvā nendriyaṃ pṛthagāyatanaṃ
-> syāt /
->
-> vibhāṣāyāṃ tūcyate "yadyābhidharmikaḥ skandhaprajñaptimapekṣate /
->
-> sa āha paramāṇurekasya dhātorekasyāyatanasyaikasya skandhasya pradeśaḥ /
->
-> atha nāpekṣate /
->
-> sa āha / paramāṇureko dhāturekamāyatanamekaḥ skandha" iti /
->
-> bhavati hi pradeśe 'pi pradeśivadupacāro yathā paṭaikadeśe dagdhe paṭo
-> dagdha iti /
->
-> kimarthaṃ bhagavān skandhādimukhena trividhāṃ deśanāmārabhate / āha /
-> vineyānāṃ
->
-> mohendriyarucitraidhāttisraḥ skandhādideśanāḥ // 1.20 //
->
-> trayaḥ prakārāstraidham / triprakāraḥ kila sattvānāṃ mohaḥ /
->
-> keciccaitteṣu saṃmūḍhāḥ piṇḍātmagrahaṇataḥ /
->
-> kecidrūpa eva / kecidrūpacittayoḥ / indriyāṇyapi trividhāni /
->
-> tīkṣṇamadhyamṛdvindriyatvāt / rucir api trividhā /
->
-> saṃkṣiptamadhyavistaragrantharucitvāt /
->
-> teṣāṃ yathākramaṃ tisraḥ skandhāyatanadhātudeśanā iti //
+> kim arthaṃ bhagavān skandhādimukhena trividhāṃ deśanām ārabhate / āha /
+> vineyānāṃ mohendriyarucitraidhāt tisraḥ skandhādideśanāḥ / trayaḥ
+> prakārās traidham / triprakāraḥ kila sattvānāṃ mohaḥ / kecic caitteṣu
+> saṃmūḍhāḥ piṇḍātmagrahaṇataḥ / kecid rūpa eva / kecid rūpacittayoḥ /
+> indriyāṇy api trividhāni tīkṣṇamadhyamṛdvindriyatvāt / rucir api trividhā
+> saṃkṣiptamadhyavistaragrantharucitvāt / teṣāṃ yathākramaṃ tisraḥ
+> skandhāyatanadhātudeśanā iti /
 
-The full unit runs from the return to the three classifications at printed
-location 013.02 through the teaching rationale at 014.14. The next question
-about separating vedanā and saṃjñā opens 1.21. The local research report's
-Sanskrit unit begins only at the āyatana definition; the earlier scriptural
-collection passage and its alternative explanations are restored here from
-the running source.
+The unit runs from “the three have been explained” through the assignment of
+the teachings. Separation of feeling and reflection is 1.21.
 
-Word joining largely follows the running witness. Quotation marks and
-quote-final sandhi in the scriptural citation are resolved for reading.
-Editorial repairs include
-`ādhyātmibāhyam`, `svāsāntānikaṃ`, `viśaṣaḥ`, `pañacendriya`,
-`pūarvavad`, `gotrāni`, `gotrāṇyuacyante`, `aṣṭādaśdharmāṇāṃ`,
-`rūpoīnyapi`, `bahunāṃ`, `paṭṭaiakadeśe`, `kirthaṃ`, and
-`skandhādimudhena` and the broken `kāryab hārodvahanārthaḥ`. Evident vowel
-lengths, broken word spacing, and damaged
-page apparatus have also been regularized.
+Word division is editorial. Running-source repairs include
+*ādhyātmibāhyam*, *svāsāntānikaṃ*, *viśaṣaḥ*, *pañacendriya*, *pūarvavad*,
+*gotrāni*, *gotrāṇyuacyante*, *aṣṭādaśdharmāṇāṃ*, *rūpoīny api*, *bahunāṃ*,
+*paṭṭaiakadeśe*, *kirthaṃ*, *skandhādimudhena*, and the broken
+*kāryab hārodvahanārthaḥ*. *Cittacittānāṃ* is kept. It is uncertain, and the
+next sentence carries the general definition. The compressed
+*viṣayasahakāritvād vā* is divided in the translation and marked as such.
+These are normalizations, not a critical text.
 
-The doubtful `cittacittānāṃ` is retained. The research report interprets
-it as mind and mental factors, but that interpretation does not resolve
-the objection about the unconditioned or cover all eighteen principles. The
-translation therefore marks the word as uncertain and follows the next
-sentence for the stated general definition. The compressed causal reply
-at 014.04–05 also requires an editorial division of the argument, explained
-in the study below. This is a provisional normalized text.
+## 3. Continuous Translation
 
-## 3. Continuous Textual Translation
+> The bases, the essences, and the principles have been explained. This,
+> however, is to be said: what is the meaning of base, essence, and
+> principle?
+>
+> Bases, essences, and principles have the meanings of collection, door of
+> arrival, and source-kind.
+>
+Scripture. From the statement, “Whatever form is past, future, or present,
+internal or external, gross or subtle, inferior or excellent, or far or
+near — all of it, gathered into one, goes under the reckoning ‘form-base’”
+— it is established that in the sūtra the meaning of base is collection.
 
-> The bases, essences, and principles have been explained. What remains to
-> be stated is their meaning. Base, Essence Base, and Principle mean
-> collection, gateway of mental extension, and source-kind. The collection
-> meaning of Base is established by the sūtra's statement: “Whatever
-> material form is past, future, or present, internal or external, gross or
-> subtle, inferior or excellent, far or near—all of it gathered together
-> into one is designated the Form Base.”
+> There, past form has ceased by impermanence. Future form has not arisen.
+> Present form has arisen and not ceased. Internal belongs to one's own
+> continuum; external is another's. Or the distinction is by essence.
+> Gross is resistant; subtle is non-resistant. Or these are relative.
 >
-> Here past form has ceased through impermanence; future form has not arisen;
-> present form has arisen and not ceased. Internal form belongs to one's
-> own continuum, external form to another; alternatively, the distinction
-> is according to the essences. Gross form is resistant and subtle form
-> non-resistant; alternatively, these are relative. If their relativity
-> makes them unestablished, no: their references differ. What is gross in
-> relation to something is never subtle in relation to that same thing,
-> as with father and son. Inferior means afflicted; excellent means
-> unafflicted. Far means past and future; near means present.
->
-> The same analysis extends through Reasoning (*vijñāna*), with this
-> difference: gross depends on the five faculties, while subtle is mental.
-> The Vaibhāṣikas alternatively distinguish by level. The Venerable says:
-> gross form is graspable by the five faculties; subtle form is the rest.
-> Inferior is disagreeable,
-> excellent agreeable. Far is in a place not visible; near is in a visible
-> place, since past and the other temporal distinctions have already been
-> expressed by their own words. Vedanā and the rest are to be understood
-> similarly. Their distance and proximity depend on their supports, while
-> grossness and subtlety are as before.
->
-> Essence Base means a gateway for the arising of citta and mental factors.
-> Its derivation is: they extend the arising of citta and mental factors;
-> hence essences. “Extend” means spread out. Principle means source-kind.
-> Just as many deposits of iron, copper, silver, gold, and the rest within
-> one mountain are called principles, eighteen source-kinds within one
-> support or continuum are called eighteen principles. In that example,
-> sources or mines are called source-kinds. Of what are these, beginning
-> with the eye, sources? Of their own kind, because they are homogeneous
-> causes.
->
-> Then the unconditioned would not be a principle. Others therefore say
-> that this word principle designates kinds [the preceding word is
-> uncertain]: the kinds, the own-natures, of the eighteen dharmas are the
-> eighteen principles.
->
-> If Base means collection, bases would exist by designation, because
-> they are assemblages of many substances, like a heap or a person. No,
-> because even one substantial atom has base-status. Then one should not
-> say that Base means collection, for one item is not a collection. Others
-> say that Base means bearing the burden of an effect, or a division, as
-> when people say, “We shall give what is due in three portions.”
-> This departs from the sūtra. The sūtra states precisely the collection
-> meaning: “Whatever material form is past, future, or present,” and so on.
->
-> It makes known there that each past and other form is a base: all this
-> past and other form, each separately, is the Form Base. It cannot
-> be understood that way, because it says, “all of it gathered together
-> into one.” Therefore bases exist by designation, just as heaps do.
->
-> Then the material essences too would exist by designation, because many
-> atoms of the eye and the other faculties constitute an access-gate.
-> No, because each is a cause when they are assembled. Otherwise, because
-> it cooperates with its object, a faculty would not be an essence separately.
->
-> In the Vibhāṣā, however, it is said: “If an Abhidharma specialist attends
-> to the designation of Base, he says: an atom is a portion of one
-> principle, one essence, and one base. If he does not attend to it, he
-> says: an atom is one principle, one essence, one base.” For a part too
-> receives a figurative designation as the whole, as when a part of a cloth is burned
-> and one says, “The cloth is burned.”
->
-> Why does the Blessed One undertake threefold teaching through bases and
-> the rest? It is said: because those to be trained differ threefold
-> in delusion, faculty, and inclination, there are three teachings beginning
-> with bases. Three modes constitute threefoldness. Beings' delusion is
-> said to be threefold: some are confused about mental factors through
-> grasping a self as a lump; some about material form alone; some about
-> material form and citta. Faculties too are threefold: sharp, middling,
-> and weak. Inclination is also threefold: preference for brief, intermediate,
-> or extensive texts. For these, respectively, there are the three teachings
-> of bases, essences, and principles.
+Objection. Relative, therefore unestablished?
 
-## 4. Movement and Voices of the Commentary
+Answer. No. The reference differs. What is gross relative to one thing is
+never subtle relative to that same thing, as father and son. Inferior means
+afflicted. Excellent means unafflicted. Far means past and future. Near
+means present.
 
-The unit is substantially larger than a set of three dictionary glosses.
-It first supports collection through scripture, examines the classifications
-within that collection, defines access and source-kind, tests the status of
-collections, and finally explains the teaching arrangements.
+> So on, as far as the principle. But with this difference: gross has the
+> five as support; subtle is mental. Or by level, say the Vaibhāṣikas.
+>
+The Venerable says: gross form is graspable by the five; subtle form is
+the rest. Inferior is disagreeable; excellent is agreeable. Far is a place
+not seen; near is a place seen, since past and the rest have already been
+stated in their own words.
 
-| Passage | Attribution or argumentative status |
+> Feeling and the rest are to be understood in the same way. Their far and
+> near depend on the support. Gross and subtle are as before.
+>
+> The meaning of essence is the door of arrival for consciousness and the
+> mental factors. The derivation: they extend the arrival of consciousness
+> and the mental factors; hence essences. The meaning is: they spread them
+> out.
+>
+> The meaning of principle is source-kind. As in one mountain many
+> source-kinds — iron, copper, silver, gold, and the rest — are called
+> principles, so in one support, or in one continuum, eighteen source-kinds
+> are called eighteen principles. There the mines are called the
+> source-kinds. Of what are these, beginning with the eye, mines? Of their
+> own kind, because they are homogeneous causes.
+>
+Objection. Then the unconditioned would not be a principle.
+
+Answer, of others. Then this word “principle” expresses kind — the
+preceding word is uncertain. The kinds, the own-natures, of the eighteen
+dharmas are the eighteen principles.
+
+Objection. If the meaning of base is collection, bases obtain as existing
+by designation, because they are assemblages of many substances, like a
+heap or a person.
+
+Answer. No, because even one substantial atom has the status of a base.
+
+Objection. Then it should not be said that the meaning of base is
+collection. One item has no status as a collection.
+
+Others. The meaning of base is bearing the burden of the effect. Or a
+division, as speakers say, “we shall give what is due in three portions.”
+
+Answer. This departs from the sūtra. The sūtra states precisely the
+collection meaning: “whatever form is past, future, or present,” and the
+rest.
+
+Objection. What is made known there is that each past form and the rest is
+a base: all this past form and the rest, each severally, is the form-base.
+
+Answer. It cannot be understood so, because of the statement “all of it,
+gathered into one.” Therefore bases exist by designation, just as heaps do.
+
+Objection. Then the form-essences too would exist by designation, because
+many atoms, of the eye and the rest, are a door of arrival.
+
+Answer. No, because each is a cause when they are assembled. Or, from
+cooperating with the condition, a faculty would not be an essence on its
+own. The division of this compressed reply is editorial.
+
+Vibhāṣā. If an Abhidharma specialist attends to the designation of the
+base, he says: an atom is a portion of one principle, of one essence, of
+one base. If he does not attend to it, he says: an atom is one principle,
+one essence, one base. For a portion too receives the designation of what
+has portions, as when a part of a cloth is burned and one says the cloth
+is burned.
+
+> Why does the Blessed One undertake a threefold teaching by way of the
+> bases and the rest?
+>
+Answer. Because those to be trained are threefold in confusion, faculty,
+and inclination, there are three teachings beginning with the bases.
+Threefold means three modes. The confusion of beings is said to be of
+three kinds. Some are confused about the mental factors, from grasping a
+self as a lump. Some about form alone. Some about form and consciousness.
+The faculties too are threefold, from being sharp, middling, or weak.
+Inclination too is threefold, from a taste for a brief, intermediate, or
+extensive text. For these, in order, are the three teachings: bases,
+essences, principles.
+
+## 4. Movement
+
+| Voice | Move |
 |---|---|
-| scriptural gathering of form | sūtra quotation |
-| explanation according to level | explicitly Vaibhāṣika |
-| alternative gross/subtle and far/near readings | the Venerable, not named here |
-| source-kind account | exposition tested by the unconditioned objection |
-| kind/own-nature alternative | others; damaged introductory wording |
-| collection and atom dispute | successive objections and replies |
-| atom as part or as whole category | Vibhāṣā citation |
-| three teaching arrangements | explanation concerning trainees |
+| Opening | The three are explained. What do they mean? |
+| Scripture | Gathered into one: collection. |
+| Objection | Relative, therefore unestablished? |
+| Answer | The reference differs, as father and son. |
+| Vaibhāṣikas | Gross and subtle by level. |
+| The Venerable | Gross as graspable; far as unseen place. |
+| Exposition | Essence is the door. Principle is the mine. |
+| Objection | Then the unconditioned is not a principle. |
+| Others | Kind and own-nature of the eighteen. |
+| Objection | A collection is only a designation. |
+| Answer | The sūtra stands. Gathered into one. |
+| Vibhāṣā | Atom as portion, or by designation as the whole. |
+| Question | Why three teachings? |
+| Answer | Confusion, faculty, inclination. In that order. |
 
-The source gives specific attributions only at particular points. The
-edition does not assign every interlocutor to a school or identify the
-Venerable more narrowly without evidence from this unit.
+## 5. Collection
 
-## 5. Base as Collection and Its Internal Distinctions
+*Tat sarvam aikadhyam abhisaṃkṣipya* is the warrant. Past has ceased.
+Future has not arisen. Present has arisen and not ceased. Internal is
+one's own continuum; external is another's, or the distinction is by
+essence. Gross and subtle are resistant and non-resistant, or relative.
+The relative is not unestablished: what is gross relative to one thing is
+not subtle relative to that same thing.
 
-The scriptural phrase `tat sarvam aikadhyam abhisaṃkṣipya`, gathering all
-of it into one, grounds the collection meaning `rāśi` of Base. The temporal,
-internal/external, gross/subtle, inferior/excellent, and far/near divisions
-state what that gathering covers. The prose discusses how those
-distinctions are understood.
+Two readings of inferior and far stay apart. Afflicted, and past or
+future. The Venerable: disagreeable, and a place not seen, because time
+was already said in its own words. They are not one list.
 
-Two alternative explanations must remain visible. The first associates
-inferiority with affliction and distance with past or future status. The
-Venerable associates inferiority with disagreeableness and distance with
-location outside visibility, pointing out that temporal status was already
-stated. These are different interpretations, not a single combined list
-of interchangeable definitions.
+The same runs as far as the principle, with the difference the text gives.
+Gross has the five as support; subtle is mental. Or by level. Feeling and
+the rest follow. Their far and near depend on the support.
 
-The relative gross/subtle account is defended through a fixed comparison:
-what is gross relative to a given thing is not subtle relative to that same
-thing. Relational dependence does not make the distinction indeterminate
-when its reference is preserved. The father/son comparison illustrates
-that point without making a substance-count argument here.
+## 6. Door and Mine
 
-The extension through the other bases carries qualifications. The
-five-faculty versus mental distinction and the alternative by level belong
-to that extension; they should not be silently applied as identical tests
-to every entry of the original form list.
+*Cittacaittāyadvāra*: the door of arrival for consciousness and the mental
+factors. *Āyaṃ tanvanti*: they extend the arrival. *Vistṛṇvanti*: they
+spread it out.
 
-## 6. Essence Base and Principle: Access and Source-Kind
+*Gotra* is glossed *ākara*, the mine. Eighteen sources in one support, or
+one continuum. Of their own kind, because they are homogeneous causes.
 
-`Cittacaittāyadvāra` defines Essence Base through a gateway for citta and mental
-factors. The verbal derivation `āyaṃ tanvanti`, they extend the arising,
-is glossed by `vistṛṇvanti`, spread out. “Arising” is the working rendering
-of `āya`; the etymological expression relates this essence-gate to the
-occurrence of mental activity, not merely to a bounded spatial location.
+The unconditioned objection limits that cause. A principle already known
+to include the unconditioned cannot be only the production of a next of
+its kind. Others take kind and own-nature. *Cittacittānāṃ* is kept and not
+translated as a settled “mind and mental factors.” The next sentence is the
+general definition. No conjecture is supplied.
 
-`Gotra` receives the concrete gloss `ākara`, source or mine. Mineral
-deposits within a mountain illustrate differentiated sources within one
-support or continuum. The question then asks what the eye and the others
-are sources of: their own kind, because of `sabhāgahetutva`, homogeneous
-causation.
+## 7. Designation
 
-The unconditioned objection limits that productive definition. A principle
-already known to include unconditioned dharmas cannot be exhaustively
-explained through production of another occurrence of its own kind. The
-alternative invokes kinds or own-natures of the eighteen dharmas.
+The collection looks like a designation, as a heap or a person. The single
+atom is offered against that, and then turns on the collection: one item
+is not a heap. Burden-bearing and the portion depart from the sūtra.
 
-The transmitted `cittacittānāṃ` cannot securely bear the research report's
-translation “mind and mental factors” as an exhaustive specification of
-these eighteen principles. It is therefore preserved as a textual problem,
-while the following explicit generalization remains readable. No
-conjectural Sanskrit replacement is supplied here.
+The sūtra says gathered into one. Not each past form, severally, a base.
+Bases exist by designation, as heaps do. The constituents are not thereby
+said to lack their own determination.
 
-The resulting distinction matters: source-kind as causal reproduction and
-kind as own-nature are related explanations whose ranges require testing.
-The objection itself prevents making generative causality the sole meaning
-of every principle without qualification.
+The transfer to the form-essences is refused. Each atom is a cause when
+they are assembled. The compressed alternative is marked: if cooperation
+alone removed the status, a faculty cooperating with its condition would
+not be an essence on its own.
 
-## 7. Base-Collection, Atoms, and Designated Existence
+The Vibhāṣā distinguishes attending to the designation from not attending.
+An atom is a portion, or receives the name. The burned cloth is the
+figure. It is not a claim that one atom is a heap.
 
-The challenge to `rāśi` is explicit: a base gathered from many substances appears
-to have `prajñaptisat` status, existence by designation. The first defense
-appeals to a single atom's base-status, but that creates a conflict with
-the collection definition. Alternative meanings of burden-bearing and
-portion are rejected as departing from the sūtra.
+## 8. Three Teachings
 
-Another defense reads the scriptural enumeration distributively: each
-past and other form is separately a base. The reply invokes the
-phrase gathering all together. The stated conclusion is that bases
-exist by designation like heaps. This concerns Base as collection; it does
-not assert that all its constituents lack their own determination.
+*Vineyānām* are those to be trained. *Yathākramam* assigns in order.
 
-The objection then transfers the problem to material essences composed of
-many atoms. The reply appeals to the causal contribution of each when
-assembled. The following compressed `viṣayasahakāritvād vā ...` is read
-as a further consequence to be avoided: if cooperation alone removed an
-individual factor's status, the faculty's cooperation with its object would
-prevent the faculty itself from being a distinct essence. Its segmentation
-is interpretive; the running Sanskrit does not mark speakers or supply an
-explicit “otherwise.”
-
-The Vibhāṣā citation distinguishes attending to the collective designation
-from speaking without that qualification. An atom can be called a part of
-a category, or receive the category's name. The burned-cloth analogy explains
-the latter through naming the part as the whole. This citation should not
-be flattened into an assertion that one atom literally constitutes a heap.
-
-## 8. Why Three Teachings?
-
-`Vineyānām` identifies those to be trained. The threefold distinctions concern
-delusion, faculty, and inclination; `yathākramam` assigns the presentations
-in sequence:
-
-| Presentation | Confusion addressed | Faculty | Preferred exposition |
+| Teaching | Confusion | Faculty | Inclination |
 |---|---|---|---|
-| bases | concerning mental factors | sharp | brief |
-| essences | concerning material form | middling | intermediate |
-| principles | concerning material form and citta | weak | extensive |
+| bases | mental factors, a self as a lump | sharp | brief |
+| essences | form alone | middling | intermediate |
+| principles | form and consciousness | weak | extensive |
 
-The first confusion includes `piṇḍātmagrahaṇa`, grasping a self as a lump.
-This local caution points toward the need to discriminate what has been
-grasped together; it is not made into a separate organizing doctrine for
-the study. `Kila`, it is said, marks the reported threefold delusion account.
+*Kila* marks the reported threefold confusion. The extensive teaching is
+not the advanced one. The field is one. The exposition follows the learner.
 
-The table follows the stated order. It does not turn the three axes into
-an independently demonstrated universal correlation among all learners,
-or make the most extensive text inherently the most advanced teaching.
-The passage explains why differentiated exposition is appropriate to
-trainees with different needs and preferences.
+## 9. Decisions for the Kārikā
 
-## 9. The Bhāṣya's Decisions for the Kārikā
+1. Base means collection, by the sūtra, gathered into one.
+2. Essence means the door of arrival of consciousness and the mental
+   factors.
+3. Principle means source-kind. The homogeneous cause holds for the
+   conditioned. Kind and own-nature hold the unconditioned.
+4. Bases exist by designation. Burden and portion depart from the sūtra.
+5. The form-essences are not thereby designations. The Vibhāṣā keeps
+   portion and name apart.
+6. Three teachings, in order, for confusion, faculty, and inclination.
 
-1. Base's collection meaning is grounded in the full scriptural gathering,
-   whose opening commentary must be retained.
-2. Essence Base is explained through the arising of citta and mental factors.
-3. Principle as source-kind receives a causal explanation, then an objection
-   concerning the unconditioned and an alternative through kind/own-nature.
-4. The conclusion concerning bases' designated existence must retain
-   the objections, rejected alternatives, and part/whole qualification.
-5. The reply concerning material essences concerns causal participation
-   when assembled; its compressed syntax remains marked.
-6. The three teachings are related to trainees' delusion, faculties, and
-   preferences, with the order of bases, essences, and principles explicitly
-   maintained.
+## 10. Interpretation
 
-## 10. Philosophical and Organon Study
+This is the test the count was for. The system rolls because the three
+meanings stay three. Collection is not the door. The door is not the
+source. A base gathers, and the gathering is a designation. An essence is
+how consciousness and the mental factors arrive. A principle is the kind,
+and, where there is a series, the mine of that kind.
 
-The Bhāṣya gives the three terms distinct work: Base gathers as collection
-(*rāśi*), Essence Base opens access for mental occurrence (*āya-dvāra*),
-and Principle determines source-kind (*gotra*). These are not three names
-for the same layer. Their relations must be understood without flattening
-the machine into either a list or a single undifferentiated substance.
+The second line keeps the science from becoming a contest of lists. The
+same field is taught as bases, as essences, or as principles, because the
+one to be trained is not one. Sharp and brief is not a higher truth than
+extensive. It is the teaching that fits.
 
-The chapter-level nesting is **[Knowledge Base [Essence Base [Form Base]]].**
-The *vijñānaskandha* functions as the Knowledge Base; *vijñāna* itself is
-Reasoning, the operation. This is the Organon connection carried forward
-from 1.16, not a claim that this verse's generic *skandha* means Knowledge
-Base. Here the text establishes how a base gathers, how the essence-gate
-opens access, and how a principle determines a kind within the nested
-structure.
-
-```text
-[Knowledge Base (vijñānaskandha)
-    [Essence Base (āyatana / āya-dvāra)
-        [Form Base (rūpaskandha)]]]
-
-Essence Base   → gate for the arising and extension of mental activity
-Reasoning      → vijñāna operating through the machine
-Principle      → dhātu determining source-kind (gotra)
-```
-
-Reasoning is an operation across the enclosure, not a fourth enclosure.
-Principle names the determinate kind, not another synonym for Knowledge
-Base or Reasoning.
-
-The collection debate concerns Base generically: the base has *prajñapti*
-status as collection, not an additional substance standing outside its
-constituents. Carried into the machine, this prevents the Knowledge Base
-from being mistaken for a second material container. The atom and its
-causes retain their own determinations; the machine's enclosure is logical
-and classificatory.
-
-The unconditioned objection is decisive for understanding Principle as
-source-kind. A productive source explains the continuation of a conditioned
-kind, but principle membership also includes determinations for which that
-productive explanation is insufficient. The text makes the limit visible
-within its own argument: source-kind includes causal continuity where
-conditioned, and intrinsic kind more broadly.
-
-The closing teaching rationale bears directly on learning. Instruction is
-differentiated according to what is confused, the capacity of the learner,
-and the preferred extent of exposition. The three pedagogical forms do not
-rank learners or turn the nested structure into a mandatory sequence. They
-show how the same Dharma is approached through different enclosures and
-gates.
-
-Reasoning operates across the Knowledge Base / Essence Base / Form Base
-structure; it is not another name for any one of those layers. The Bhāṣya
-provides the pedagogical orientation and the source distinctions, while
-the Organon reading articulates their machine relation without confusing
-textual definition with philosophical reconstruction.
+The reading is once, here. 1.21 is not opened.
 
 ## 11. Review Status
 
-QA review of the twentieth Bhāṣya study. The full unit through 014.14 includes
-the opening scripture and classification discussion absent from the research
-report's Sanskrit unit. The running source, research report, and kārikā
-opening have been compared.
+Upgraded reading of the twentieth Bhāṣya study. The unit through the three
+teachings checked against the running Sanskrit. Source repairs recorded
+in section 2. *Cittacittānāṃ* retained as uncertain.
 
-The uncertain `cittacittānāṃ`, compressed reply concerning material
-essences, and editorial transcription repairs remain explicit. The
-Venerable is left unnamed; the Vaibhāṣika and Vibhāṣā attributions are
-preserved where stated.
-Original research files and the Part One reading artifact remain unchanged.
+Cognition withdrawn. Knowledge and Reasoning withdrawn. Principle is the
+chapter word. Consciousness is kept for *citta*. The next study is not
+opened.
