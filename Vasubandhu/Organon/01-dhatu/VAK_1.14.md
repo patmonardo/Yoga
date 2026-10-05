@@ -1,10 +1,10 @@
-# VAK_1.14 — The Same Ten Essence Bases and Principles
+# VAK_1.14 — The Same Ten, Feeling, and Reflection
 
 ## 1. Sanskrit (Devanāgarī)
 
 > इन्द्रियार्थास्त एवेष्टा दशायतनधातवः ।
 >
-> वेदनानुभवः संज्ञा निमित्तोद्ग्रहणात्मिका ॥ १.१४ ॥
+> वेदनानुभवः संज्ञा निमित्तोद्ग्रहणात्मिका ॥ १.१४ ॥॥
 
 ## 2. Sanskrit (IAST)
 
@@ -12,189 +12,136 @@
 >
 > vedanānubhavaḥ saṃjñā nimittodgrahaṇātmikā // 1.14 //
 
-## 3. Padaccheda and Lexical Analysis
-
-**Padaccheda — sentence words**
+## 3. Lexical Analysis
 
 ```text
-indriyārthāḥ | te | eva | iṣṭāḥ | daśa | āyatanadhātavaḥ |
-vedanā | anubhavaḥ | saṃjñā | nimittodgrahaṇātmikā
+indriya-arthāḥ     → the organs and the meanings
+te eva             → these very ones
+iṣṭāḥ             → are accepted
+daśa āyatana-dhātavaḥ → ten essences and ten principles
+vedanā anubhavaḥ  → feeling is undergoing
+saṃjñā             → reflection
+nimitta-udgrahaṇa-ātmikā → whose nature is the taking up of the mark
 ```
 
-**External sandhi**
-
-| Verse form | Resolved words |
-|---|---|
-| indriyārthās ta | indriyārthāḥ + te |
-| ta eva | te + eva |
-| eveṣṭā | eva + iṣṭāḥ |
-| iṣṭā daśa | iṣṭāḥ + daśa |
-| daśāyatanadhātavaḥ | daśa + āyatanadhātavaḥ |
-| vedanānubhavaḥ | vedanā + anubhavaḥ |
-
-**Compound members**
-
-| Compound | Members | Lexical force |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
-| indriyārthāḥ | indriya + arthāḥ | faculties and meanings; a coordinative compound |
-| āyatanadhātavaḥ | āyatana + dhātavaḥ | Essence Bases and Principles; a coordinative compound |
-| nimittodgrahaṇātmikā | nimitta + udgrahaṇa + ātmikā | having the taking up of marks as its nature |
+| indriyārthāḥ | nominative plural | organs and meanings; the ten already stated |
+| te eva | pronoun and particle | these very ones |
+| iṣṭāḥ | participle | accepted |
+| daśa | numeral | ten in each arrangement |
+| āyatana-dhātavaḥ | coordinative | essences and principles |
+| vedanā | nominative | feeling |
+| anubhavaḥ | nominative | undergoing |
+| saṃjñā | nominative | reflection |
+| nimittodgrahaṇātmikā | adjective | nature is taking up the mark |
 
-Internal sandhi gives *indriya + artha → indriyārtha*,
-*nimitta + udgrahaṇa → nimittodgrahaṇa*, and
-*udgrahaṇa + ātmikā → udgrahaṇātmikā*.
-
-*Udgrahaṇa*, from *ud-√grah*, expresses taking up or apprehending.
-*Nimitta* supplies the mark apprehended. The adopted English
-*reflection* for *saṃjñā*, and *reflective mark* for
-*nimitta-udgrahaṇa*, carries this mark-apprehending operation into
-the Organon vocabulary.
-
-**Lexical and morphological determination**
-
-| Pada | Morphology | Determination in this passage |
-|---|---|---|
-| indriyārthāḥ | nominative masculine plural | the five faculties and five meanings already stated |
-| te | nominative masculine plural of *tad* | these; resumes those same faculties and meanings |
-| eva | indeclinable | very; fixes the identity of the contents across arrangements |
-| iṣṭāḥ | nominative masculine plural, past passive participle of *√iṣ* | accepted; agrees with the faculties and meanings |
-| daśa | nominative plural numeral, “ten” | ten Essence Bases and ten Principles, as the Bhāṣya resolves it |
-| āyatanadhātavaḥ | nominative masculine plural | the combined designation Essence Bases and Principles |
-| vedanā | nominative feminine singular | feeling; subject of the first definition |
-| anubhavaḥ | nominative masculine singular | undergoing; predicate noun defining feeling |
-| saṃjñā | nominative feminine singular | reflection; subject of the second definition |
-| nimittodgrahaṇātmikā | nominative feminine singular adjective | having mark-apprehension as its nature; agrees with *saṃjñā* |
+*Indriya* in this compound is organ. An organized being is already in view.
+Faculty remains the word of the next chapter. *Artha* is meaning. *Āyatana*
+is essence. *Dhātu* is principle. *Saṃjñā* is reflection. The reflective
+mark is the commentary's example, not the headword.
 
 ## 4. Grammar
 
-**The same ten under two arrangements**
-
-*Indriyārthāḥ* names the plural subject. *Te eva* fixes its reference:
-these very faculties and meanings. *Iṣṭāḥ* supplies the predication
-“are accepted,” with the copula understood. The Bhāṣya distributes
-*daśa* across the two members of *āyatanadhātavaḥ*:
-
 ```text
-āyatanavyavasthāyām  → daśa āyatanāni  → ten Essence Bases
-dhātuvyavasthāyām    → ta eva daśa dhātavaḥ → the same ten Principles
+indriya-arthāḥ te eva iṣṭāḥ
+    daśa āyatanāni
+    ta eva daśa dhātavaḥ
+
+vedanā = anubhavaḥ
+saṃjñā = nimitta-udgrahaṇa-ātmikā
 ```
 
-This is ten in each arrangement. The five faculties and five meanings
-belong to the Form Base already established; *avijñapti* receives its
-Dharma Essence Base and Dharma Principle placement in 1.15.
-
-**Feeling and reflection**
-
-*Vedanā anubhavaḥ* is a nominal definition: feeling is undergoing.
-The subject and predicate nouns have different grammatical genders;
-both stand in the nominative. The Bhāṣya resolves undergoing as
-pleasant, painful, or neither painful nor pleasant.
-
-*Saṃjñā nimittodgrahaṇātmikā* is an adjectival predication.
-The feminine adjective agrees with *saṃjñā* and specifies its nature
-through the taking up of marks. The Bhāṣya supplies marks such as
-blue and yellow, long and short, friend and enemy, pleasure and pain.
-The adopted study translation renders this operation as reflection.
+*Daśa* distributes. Ten essences, and the same ten principles. The genders
+of feeling and undergoing differ. Both are nominative. The adjective agrees
+with reflection.
 
 ## 5. Translation
 
 ### Literal Translation
 
-These very faculties and meanings are accepted as the ten Essence Bases
-and the ten Principles. Feeling is undergoing. *Saṃjñā* consists in
-reflection.
+These very organs and meanings are accepted as the ten essences and the ten
+principles. Feeling is undergoing. Reflection has the taking up of the mark
+as its nature.
 
 ### Bhāṣya-informed study translation
 
-The five faculties and the five meanings already stated are accepted as
-the ten Essence Bases and the same ten Principles. *Avijñapti* is not among
-these ten. Feeling is undergoing, whether pleasant, painful, or neither.
-*Saṃjñā* consists in reflection through the apprehension of marks.
+The five organs and the five meanings already stated in the form-base are
+accepted as ten essences, and as the same ten principles. *Avijñapti* is not
+among the ten. Feeling is undergoing: pleasant, painful, or neither. Divided,
+six groups, from eye-contact through mind-contact. Reflection takes up the
+mark: blue and yellow, long and short, woman and man, and the rest. Divided,
+six groups, as with feeling.
 
 ## 6. Philosophical Translation
 
-**Organon reconstruction**
+Again, two lines. The first carries the ten. The second opens feeling and
+reflection.
 
-The five faculties and five meanings established within the Form Base
-are now organized as Essence Bases and then as Principles. Their
-identity is carried through the movement
-`<Base, Essence Base, Principle>`.
+These very ones. Not a new inventory. The organs and the meanings already
+counted in form are accepted as ten essences, and as the same ten principles.
+Eye-essence, visible-form-essence, through body-essence and tangible-essence.
+Eye-principle, visible-form-principle, through body-principle and
+tangible-principle. The lists alternate organ and meaning. *Yāvat* covers the
+middle.
 
-In the working design, the Essence Base articulates access to appearance
-through faculty and meaning; the Principle articulates the same
-determinations in their systematic genesis. The machine must retain both
-the identity of the content and the distinction between these
-placements. Here the English of *āyatana* is Essence Base and that of
-*dhātu* is Principle.
+*Avijñapti* is in the form-base. It is not in these ten. The form-base account
+closes before the new definitions begin.
 
-The verse then opens feeling and reflection. Feeling undergoes;
-reflection apprehends the marks by which determinations are taken up.
-These supply distinct Bases. Together with Formations, they are taken up
-in 1.15 as the Dharma Essence Base and Dharma Principle, alongside
-*avijñapti* and the unconditioned. In project vocabulary,
-Dharma-skandha is the Essence Base; 1.15 itself uses
-*dharmāyatana* and *dharmadhātu*. Their articulation through the
-Knowledge Base (*vijñānaskandha*) follows in 1.16.
+Feeling is undergoing. Three tones: pleasant, painful, neither painful nor
+pleasant. Six groups, born of contact, from the eye through mind. Three tones
+and six groups are not nine bases.
+
+Reflection takes up the mark. Blue and yellow, long and short, woman and man,
+pleasant and painful, and the transmitted *mitramitra*. Friend and enemy is a
+possible division, uncertain at the letter. Six groups, as with feeling. The
+pattern transfers. The tones do not.
+
+The next verse takes up formations. Not this one.
 
 ## 7. Technical Vocabulary
 
-| Sanskrit | In this verse |
-|---|---|
-| indriya | faculty |
-| artha | meaning |
-| skandha | Base; Bhāṣya context |
-| āyatana | Essence Base |
-| dhātu | Principle |
-| vedanā | Feeling |
-| anubhava | undergoing |
-| saṃjñā | reflection |
-| nimitta | mark |
-| udgrahaṇa | taking up; apprehension |
-| nimitta-udgrahaṇa | reflective mark |
-| ātmikā | having as its nature; consisting in |
-
-Essence Base and Principle are the adopted project terms. In the project
-vocabulary, Dharma-skandha is Essence Base; this verse itself uses
-*āyatana* and *dhātu*. Reflection is the English of *saṃjñā*; its
-Sanskrit definition remains explicit in the lexical and grammatical
-analysis above.
+| Sanskrit | Rendering | Note |
+|---|---|---|
+| indriya | organ | in this compound; an organized being is in view |
+| artha | meaning | the five |
+| skandha | base | the form-base, closed here |
+| āyatana | essence | ten |
+| dhātu | principle | the same ten |
+| te eva | these very ones | identity across the arrangements |
+| vedanā | feeling | undergoing |
+| anubhava | undergoing | three tones |
+| saṃsparśa | contact | the six groups |
+| saṃjñā | reflection | not worldly designation |
+| nimitta | mark | what is taken up |
+| udgrahaṇa | taking up | the operation |
+| manas | mind | mind-contact; the sixth |
 
 ## 8. Logical Determination
 
 ```text
-1.09–1.13   Form Base established
+form-base
+    five organs, five meanings, avijñapti
 
-1.14        five faculties + five meanings
-                → ten Essence Bases
-                → the same ten Principles
+1.14
+    organs and meanings
+        → ten essences
+        → the same ten principles
+    avijñapti not among the ten
 
-            feeling     = undergoing
-            reflection  = apprehension of marks
+    feeling = undergoing
+        three tones
+        six groups, by contact
+    reflection = taking up the mark
+        six groups, as feeling
 
-1.15        Formations Base
-            Feeling + Reflection + Formations
-            together with avijñapti + the unconditioned
-                → Dharma Essence Base and Dharma Principle
+1.15 not opened
 ```
 
 ## 9. Interpretive Note
 
-*Te eva*, “these very ones,” is the technical hinge. The machine carries
-the already stated contents into their Essence Base and Principle
-determinations. Its successive placements make the same contents
-intelligible through different systematic functions.
-
-Feeling and Reflection introduce a further discrimination: undergoing
-and apprehending marks have their own determinations. Their subsequent
-placement under the Dharma Essence Base and Dharma Principle must
-preserve this distinction. VAK 1.14 thus supplies the identity
-requirement for the machine, while 1.15 makes its preservation of
-distinct contents explicit.
-
-System Light—the sole Organon indication that the machine is working—
-appears in *te eva*: the same ten retain their identity while their
-placement shifts from Essence Base to Principle. This is an
-interpretive criterion, not a term in the verse.
+The hinge is *te eva*. Interpretation of the two arrangements is in the
+Bhāṣya.
 
 ## 10. OWL++ Seed
 
@@ -202,6 +149,12 @@ interpretive criterion, not a term in the verse.
 @prefix vak: <http://127.0.0.1:3000/vak#> .
 
 vak:VAK_1_14 a vak:Karika ;
-    vak:hasTopic vak:TenEssenceBasesAndPrinciples ;
+    vak:hasTopic vak:SameTenFeelingReflection ;
     vak:belongsTo vak:Dhatunirdesa .
+
+vak:OrgansAndMeanings vak:acceptedAs vak:TenEssences ;
+    vak:acceptedAs vak:TenPrinciples .
+vak:Feeling vak:is vak:Undergoing .
+vak:Reflection vak:nature vak:TakingUpTheMark .
+vak:Avijnapti vak:notAmong vak:TheseTen .
 ```
