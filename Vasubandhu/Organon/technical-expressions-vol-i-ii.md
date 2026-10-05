@@ -187,20 +187,29 @@ coequal system-expression in the priority roster.
 
 These terms are not all at the same level, but their English renderings can
 make a condition of cognition look like an achieved Object or collapse
-distinct roles. In the sensory schema, the five *arthas* are conditions for
-their corresponding Cognitions, not Objects in the project's stronger sense.
+distinct roles. In the sensory schema, the five *arthas* are meanings
+classified under the Seen; do not collapse them into the cognitive
+conditions (*ālambana*, *viṣaya*) or into an achieved Object.
 
 | Expression | Working sense | Editorial control |
 |---|---|---|
 | **Ālambana** (*ālambana*) | Cognitive condition or support; in the causal scheme, object-condition. | Do not render as an achieved Object. Preserve its role as a condition on which cognition depends. |
 | **Viṣaya** (*viṣaya*) | Field or condition of a faculty/Cognition; in 1.09, the Bhāṣya uses it to explain the five *arthas*. In the Reflective Relation, a specific moment of the Seen. | Do not promote the field/condition to an achieved Object or identify one moment with the whole Seen. Translate according to its local relation. |
-| **Artha** (*artha*) | Meaning, purpose, or function according to context; in 1.09, one of the five sensory meanings, each classified under the Seen and glossed by its corresponding *viṣaya*. | In the fivefold sensory schema, these are Conditions for corresponding Cognitions, not Objects in the project's stronger sense. Do not force all uses of *artha* into that technical role. |
+| **Artha** (*artha*) | Meaning; purpose or function where the local context requires. In 1.09, one of the five sensory meanings, each classified under the Seen and related to its corresponding *viṣaya*. | Never translate *artha* as “object” or object-like. Keep Meaning distinct from cognitive Conditions (*ālambana*, *viṣaya*) and from the achieved Object. In 2.02, *sva-artha* means one's own meaning; see the Pre-Loka Object Request note below. |
 | **Vastu** (*vastu*) | Thing or real basis in the project's current philosophical distinction. | Keep distinct from a cognitive Condition (*ālambana/viṣaya*) and from **Object**, the project's achieved comprehension. |
 
 **Condition is not Object.** A *viṣaya* or *ālambana* may condition or
 support a Cognition without thereby being the comprehended Object. The
 project's **Object** names an achievement of synthesis and comprehension;
 do not use it as a loose synonym for the five *arthas*.
+
+**Indriya 2.02: Pre-Loka Object Request.** In *svārthopalabdhi*,
+*sva-artha* is one's own meaning and *upalabdhi* is apprehension. The
+Organon reading calls this relation an **Object Request**: meaning is
+requested in apprehension, not yet an achieved Object or a Thing. Object
+Construction and the graspable Being-There are still ahead of the request.
+This is Pre-Loka; “Object Request” is an Organon determination, not a
+lexical translation of *artha*.
 
 **Reflective Seer/Seen relation.** Mind-Essence is the Seer as Reflector;
 Dharma-Essence is the Seen. *Artha* is classified under the Seen, while
