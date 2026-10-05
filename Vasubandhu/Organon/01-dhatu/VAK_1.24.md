@@ -1,6 +1,4 @@
-# The Principles
-
-## VAK_1.24 — The Names Form and Essence in the Essential Relation Design
+# VAK_1.24 — The Names Form and Essence in the Essential Relation Design
 
 ## 1. Sanskrit (Devanāgarī)
 

@@ -1,6 +1,4 @@
-# The Principles
-
-## VAK_1.14 Bhāṣya — The Same Ten, Feeling, and Reflection
+# VAK_1.14 Bhāṣya — The Same Ten, Feeling, and Reflection
 
 Source: [`VAK_1.14.md`](./VAK_1.14.md).
 

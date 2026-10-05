@@ -1,6 +1,4 @@
-# The Principles
-
-## VAK_1.08 — The Impure Division of the Bases
+# VAK_1.08 — The Impure Division of the Bases
 
 ## 1. Sanskrit (Devanāgarī)
 

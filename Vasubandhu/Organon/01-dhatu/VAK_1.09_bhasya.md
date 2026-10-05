@@ -1,6 +1,4 @@
-# The Principles
-
-## VAK_1.09 Bhāṣya — The Form Base and Cognition Support
+# VAK_1.09 Bhāṣya — The Form Base and Cognition Support
 
 ## 1. Kārikā Anchor
 

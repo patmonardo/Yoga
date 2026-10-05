@@ -1,6 +1,4 @@
-# The Principles
-
-## VAK_1.25 Bhāṣya — Dharma-Collections and Their Inclusion
+# VAK_1.25 Bhāṣya — Dharma-Collections and Their Inclusion
 
 ## 1. Kārikā Anchor
 

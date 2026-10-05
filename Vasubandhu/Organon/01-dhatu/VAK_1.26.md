@@ -1,6 +1,4 @@
-# The Principles
-
-## VAK_1.26 — What Makes One Dharma-Collection
+# VAK_1.26 — What Makes One Dharma-Collection
 
 ## 1. Sanskrit (Devanāgarī)
 

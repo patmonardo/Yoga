@@ -1,6 +1,4 @@
-# The Principles
-
-## VAK_1.15 Bhāṣya — Formations Base and the Dharma Designations
+# VAK_1.15 Bhāṣya — Formations Base and the Dharma Designations
 
 Source: [`VAK_1.15.md`](./VAK_1.15.md).
 

@@ -1,6 +1,4 @@
-# The Principles
-
-## VAK_1.15 — Formations Base, Dharma Essence, and Dharma Principle
+# VAK_1.15 — Formations Base, Dharma Essence, and Dharma Principle
 
 ## 1. Sanskrit (Devanāgarī)
 

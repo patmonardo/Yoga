@@ -1,6 +1,4 @@
-# The Principles
-
-## VAK_1.14 — The Same Ten Essence Bases and Principles
+# VAK_1.14 — The Same Ten Essence Bases and Principles
 
 ## 1. Sanskrit (Devanāgarī)
 

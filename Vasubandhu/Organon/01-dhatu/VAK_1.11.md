@@ -1,6 +1,4 @@
-# The Principles
-
-## VAK_1.11 — The Continuity Called Avijñapti
+# VAK_1.11 — The Continuity Called Avijñapti
 
 ## 1. Sanskrit (Devanāgarī)
 

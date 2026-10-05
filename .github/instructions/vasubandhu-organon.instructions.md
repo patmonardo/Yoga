@@ -109,6 +109,9 @@ into one unqualified “Kośa position.”
 
 The controlled Organon mapping is **Skandha = Base, Āyatana = Essence,
 Dhātu = Principle**; *rūpa* is **Form**, so *rūpa-skandha* is **Form Base**.
+In the eighteenfold cognitive matrix, the eighteen Dhātus are precisely
+eighteen cognitive Principles; do not reduce them to a flat list of elements
+or domains.
 Keep Dharma untranslated in these compound labels: *dharmaskandha* is
 Dharma Base, *dharmāyatana* is Dharma Essence, and *dharmadhātu* is Dharma
 Principle. In the Organon, the Defined Concept of each Dharma is
@@ -125,6 +128,16 @@ an Impure Dharma; this relation comprises all products of Reflective Mind.
 **Mind-Essence** is Reflective Science at this level. Keep this determination
 distinct from Dhātu / Determinate Science. This is a project-level
 determination, not a lexical claim about *āyatana*.
+
+The **Nāma-skandha view** groups the four non-Rūpa Skandhas as the
+project-level dyad **Jñāna-skandha : Vijñāna-skandha**. **Jñāna-skandha**
+is ordinary knowledge—the existing Skandhas Vedanā, Saṃjñā, and Saṃskāra;
+Vijñāna-skandha remains its special Cognition member. These are project
+views, not source-defined compounds or additional Skandhas. Do not confuse
+Jñāna-skandha with the source's teaching-body use of *dharmaskandha*. A
+top-level Dharma View may wrap Dharma-āyatana and Dharma-dhātu as one
+meta-system, while preserving them as distinct Essence and Principle slots
+in the core matrix.
 
 Reflectively, **Mind-Essence** is the Seer as Reflector, and **Dharma-Essence**
 is the Seen. Classify *artha* under the Seen; treat *viṣaya* as a specific
@@ -166,8 +179,9 @@ materials systematically.
   Essential Relation of an Impure Dharma, comprising all products of
   Reflective Mind; Mind-Essence is Reflective Science at this level. Keep
   distinct from Dhātu / Determinate Science and from the Concept.
-- `indriya` -> **Faculty**, not “organ” for Faculty-status. Use “organ”
-  only for an anatomical part explicitly meant by the Sanskrit.
+- `indriya` -> **Faculty**, always. Never translate *indriya* as “organ.”
+  Reserve “organ” for a separately named anatomical part, not as a gloss
+  for *indriya*.
 - `skandha` -> **aggregate** in conventional translation; **Base** in the
   Organon reading.
 - `citta` -> **consciousness** in conventional translation. Do not make it a

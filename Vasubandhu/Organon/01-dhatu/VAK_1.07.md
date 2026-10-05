@@ -1,6 +1,4 @@
-# The Principles
-
-## VAK_1.07 — The Conditioned Bases as the Wheel of Dharma
+# VAK_1.07 — The Conditioned Bases as the Wheel of Dharma
 
 ## 1. Sanskrit (Devanāgarī)
 

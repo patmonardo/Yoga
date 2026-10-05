@@ -2,11 +2,20 @@
 
 ## A Working Prolegomenon to the System of Science
 
-This essay introduces **Dharma-skandha** as a project-level philosophical determination inferred through the *Abhidharmakośa* Organon. It must not be confused with a proposed sixth Buddhist skandha. In the Kārikā and Bhāṣya, `dharmaskandha` can mean a body, division, or functional unit of teaching. The Organon asks what makes such a teaching-body possible as Science.
+This essay distinguishes the source's *dharmaskandha*—a body, division, or
+functional unit of teaching—from the project's matrix views. The
+**Nāma-skandha view** groups the four non-Rūpa Skandhas: Vedanā, Saṃjñā,
+Saṃskāra, and Vijñāna. It is viewed as the dyad
+**Jñāna-skandha : Vijñāna-skandha**: Jñāna-skandha is the ordinary-knowledge
+triad Vedanā, Saṃjñā, and Saṃskāra; Vijñāna-skandha remains the special
+Cognition member with its own cross-mapping. These are project-level views,
+not a sixth Skandha, source-defined compounds, or the whole Dharma-Chakra.
 
 The governing thesis is:
 
-> **Dharma-skandha is the scientific product in which Dharma comprehends itself as Skandha, Āyatana, and Dhātu.**
+> **The Jñāna-skandha view is the ordinary-knowledge triad within Nāma; the
+> Dharma-Chakra is the larger reflective system that relates Base, Essence,
+> and Principle.**
 
 The current project mapping is **Skandha = Base, Āyatana = Essence, and
 Dhātu = Principle**; *rūpa-skandha* is **Form Base**. The Defined Concept of
@@ -51,6 +60,31 @@ Instrument**, generated and managed by paramārtha Buddhi and owned by
 Puruṣa. It is equipped with Mind Essence (*mana-āyatana*) and Mind Principle
 (*manodhātu*); “Property Manager” is an analogy for Buddhi's role.
 
+### The matrix image: Base groups and their crosswalk
+
+The Dharma column is a cross-classification, not a sixth Skandha or a
+homogeneous Base. Keep the fivefold Base view distinct from its later
+Āyatana and Dhātu expansions:
+
+At the top level, the fivefold Base separates into Rūpa and Nāma views.
+Nāma's four Skandhas are viewed as **Jñāna-skandha : Vijñāna-skandha**:
+the former is the ordinary-knowledge triad, and the latter is its special
+Cognition member.
+
+| Base view | Skandha determination | Source crosswalk |
+|---|---|---|
+| Form / empirical | The project-level fivefold empirical root is Rūpa-skandha. The Bhāṣya's Form Base analysis further enumerates five Faculties, five *arthas*, and *avijñapti*. | In the 1.16 summary, Rūpa-skandha apart from *avijñapti* accounts for ten Āyatanas and ten Dhātus. *Avijñapti* retains its Rūpa-Base membership while also entering Dharma-āyatana and Dharma-dhātu. |
+| Jñāna / ordinary knowledge | The Jñāna-skandha view groups the three existing Skandhas Vedanā, Saṃjñā, and Saṃskāra. It is an overlay, not another Skandha. | Together with *avijñapti* and the unconditioned, these three are classified under Dharma-āyatana and Dharma-dhātu. Their shared Dharma slot does not erase their distinct Base origins. |
+| Vijñāna / special Cognition | Vijñāna remains its own, fifth Skandha and the second member of the Nāma dyad. | The same Vijñāna-skandha is Mind-āyatana and is cross-classified as six Vijñāna-dhātus plus Mind-dhātu. |
+
+Thus the Dharma column has traceable paths: three conceptual Skandhas,
+*avijñapti* from the Form Base, and the unconditioned, which has no Skandha.
+The matrix should show these origins converging in Dharma-āyatana and
+Dharma-dhātu rather than flattening them into one kind. Vijñāna's separate
+crosswalk remains visible. A top-level Dharma View may wrap Dharma-āyatana
+and Dharma-dhātu as one meta-system, while preserving them as distinct
+Essence and Principle slots in the core matrix.
+
 The Defined Concept of each Dharma is therefore:
 
 ```text
@@ -61,12 +95,18 @@ Each term preserves a necessary standpoint. Science is not any one member taken 
 
 ## 2. Dharma's Essence and Reflection
 
-For the Organon, **Essence is Dharma's *sāra***, its theoretical principle.
-This is a project-level determination, not a claim that *āyatana* is
-etymologically or conventionally translated as *sāra*. Essence is not an
-inert interior hidden behind appearance. It is Reflection: determination
-becoming what it is through relation, distinction, manifestation, and return
-into intelligible unity.
+At the Āyatana level, **Essence is the Entry into an Essential Relation of
+an Impure Dharma**; this relation comprises products of Reflective Mind.
+Mind-Essence is Reflective Science at this level. Reflectively, Mind-Essence
+is the Seer as Reflector and Dharma-Essence is the Seen. *Artha* is
+classified under the Seen; *viṣaya* marks a specific moment of the Seen.
+These are Organon determinations, not lexical definitions of the Sanskrit
+terms. An *ālambana* or *viṣaya* may condition Cognition without becoming an
+achieved Object.
+
+Essence is not an inert interior hidden behind appearance. It is Reflection:
+determination becoming what it is through relation, distinction,
+manifestation, and return into intelligible unity.
 
 ```text
 immediate determination
@@ -76,18 +116,22 @@ immediate determination
     → comprehension
 ```
 
-Dharma-skandha is therefore not a heap of propositions about dharmas. It is Dharma's reflective organization as Science.
+The Jñāna-skandha view is not a heap of propositions: it groups three
+existing Skandhas as ordinary knowledge. Dharma's reflective organization
+as Science belongs to the whole Dharma-Chakra.
 
 ## 3. Name, Speech, and the Essential Discursive “I Think”
 
-The Kośa asks whether a Dharma-body belongs to rūpa as speech or to saṃskāra as name. Both classifications identify a real bearer of teaching, but neither alone states the truth of Dharma-skandha.
+The Kośa asks whether the teaching-body belongs to rūpa as speech or to
+saṃskāra as name. Both classifications identify a real bearer of teaching,
+but neither alone states the full reflective system.
 
 ```text
-Dharma-skandha as speech
+Teaching-body as speech
     = audible manifestation
     = rūpa-side
 
-Dharma-skandha as name
+Teaching-body as name
     = retained formative determination
     = saṃskāra-side
 ```
@@ -98,7 +142,7 @@ Speech without reflected determination is mere sound. Name without possible mani
 Name / Saṃskāra
     = reflection inward
 
-Dharma-skandha
+Dharma teaching-body
     = essential discursive determination
 
 Speech / Rūpa
@@ -131,9 +175,10 @@ the Dyad → Dyad movement that mates Dharma Chakra and Bhava Chakra around
 the invariant Principle.
 
 *Avijñapti* is the bridge: it remains in the Form Base while also entering
-the Dharma Base. This is one Dharma held in two classifications, not two
-copies. Its cross-placement lets Form-continuity enter the empirical
-relation of learning without collapsing it into *prāpti*.
+Dharma-āyatana and Dharma-dhātu. This is one content held in distinct
+classifications, not two copies. Its cross-placement lets Form-continuity
+enter the empirical relation of learning without collapsing it into
+*prāpti*.
 
 An indriya is not adequately defined as a gross organ or an occult atom. Its truth is functional: it is a power supporting a determinate cognition, and alteration of that power alters the cognition.
 
@@ -193,7 +238,8 @@ transparent correspondence
 Prajñā shines as Jñāna
 ```
 
-Dharma-skandha is a product of sattva because the system becomes transparent to its own principle through it.
+The Dharma-Chakra's scientific product is a product of sattva because the
+system becomes transparent to its own principle through it.
 
 ## 6. Rūpa-skandha and the Beginning of Actuality
 
@@ -231,8 +277,14 @@ This is a Sāṃkhya–Yoga reconstruction, not a claim that the Kośa explicitl
 The sensory `arthas` of VAK 1.09 are glossed by the Bhāṣya as `viṣayas`. They must not automatically be translated as finished objects.
 
 ```text
+Seen
+    = Dharma-Essence in the Reflective Relation
+
+artha
+    = meaning/content classified under the Seen
+
 viṣaya
-    = a priori domain-principle of possible sensible content
+    = a specific conditioned moment of the Seen
 
 empirical content
     = variable appearance within that domain
@@ -294,7 +346,9 @@ Moral Agency is therefore:
 
 ## 10. The Product of the Organon
 
-Dharma-skandha is crystalline Dharma because its compression remains capable of complete inference.
+The Jñāna-skandha view names the ordinary-knowledge triad in the Base; the
+scientific product is the full Dharma-Chakra traversal. Its compression
+remains capable of complete inference.
 
 ```text
 Kārikā
@@ -306,11 +360,20 @@ Bhāṣya
 Organon
     = reconstruction of the systematic movement
 
-Dharma-skandha
+Nāma-skandha view
+    = Jñāna-skandha : Vijñāna-skandha
+
+Jñāna-skandha
+    = ordinary knowledge: Vedanā, Saṃjñā, Saṃskāra
+
+Dharma-Chakra
     = the communicable scientific product
 ```
 
-A genuine Dharma-skandha must be expandable into the discourse, examples, practices, and consequences implicit within it. It must also be compressible back into the principle from which those consequences were inferred.
+A genuine Dharma-Chakra product must be expandable into the discourse,
+examples, practices, and consequences implicit within it. It must also be
+compressible back into the principle from which those consequences were
+inferred.
 
 The governing formula is:
 
@@ -318,7 +381,7 @@ The governing formula is:
 <Skandha, Āyatana, Dhātu>
     → Reflection
     → Essential Discursive “I Think”
-    → Dharma-skandha
+    → Dharma-Chakra
     → Practical Moral Science
 ```
 

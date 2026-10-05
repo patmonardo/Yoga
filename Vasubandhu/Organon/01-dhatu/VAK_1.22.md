@@ -1,6 +1,4 @@
-# The Principles
-
-## VAK_1.22 — The Unconditioned and the Order of the Bases
+# VAK_1.22 — The Unconditioned and the Order of the Bases
 
 ## 1. Sanskrit (Devanāgarī)
 

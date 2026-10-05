@@ -1,6 +1,4 @@
-# The Principles
-
-## VAK_1.24 Bhāṣya — Why One Essential Relation Is Named Form and One Essence
+# VAK_1.24 Bhāṣya — Why One Essential Relation Is Named Form and One Essence
 
 ## 1. Kārikā Anchor
 

@@ -1,6 +1,4 @@
-# The Principles
-
-## VAK_1.23 — Ordering the Faculties and Their Fields
+# VAK_1.23 — Ordering the Faculties and Their Fields
 
 ## 1. Sanskrit (Devanāgarī)
 

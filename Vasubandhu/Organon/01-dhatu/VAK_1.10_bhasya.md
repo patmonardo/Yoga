@@ -1,6 +1,4 @@
-# The Principles
-
-## VAK_1.10 Bhāṣya — Counts Within the Five Meanings
+# VAK_1.10 Bhāṣya — Counts Within the Five Meanings
 
 ## 1. Kārikā Anchor
 

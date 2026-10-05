@@ -16,10 +16,23 @@
 //! ```text
 //! 5 × (support, object, cognition) = 15
 //! manodhātu     = a past cognition in the support role, not a sixth organ
-//! dharmadhātu   = a heterogeneous object-bin, not "mind's color"
+//! dharmadhātu   = three conceptual skandhas + avijñapti + unconditioned
 //! mano-vijñāna  = the present mental cognition
 //!                                  = 18
 //! ```
+//!
+//! The Nāma-skandha view groups the four non-Rūpa members of `Gathered` as
+//! Jñāna-skandha : Vijñāna-skandha. Jñāna-skandha is the ordinary-knowledge
+//! overlay on Vedanā, Saṃjñā, and Saṃskāra; Vijñāna remains the separate,
+//! special Cognition member. The Dharma-dhātu keeps its source paths visible.
+//!
+//! The project-level Form root is fivefold. VAK 1.09 elaborates the Form
+//! Base as five faculties, five fields, and avijñapti; VAK 1.16 excludes
+//! avijñapti from the ten Rūpa slots while cross-classifying it under Dharma.
+//! Do not turn that expanded crosswalk into a tenfold Base.
+//!
+//! A top-level Dharma view may wrap Dharma-āyatana and Dharma-dhātu together,
+//! but the core matrix retains separate Essence and Principle slots.
 //!
 //! `classify` is a projection, not a partition and not a bijection.
 //! Many contents share one Essence and one Domain. If it were injective,
@@ -118,6 +131,41 @@ enum Gathered {
 }
 
 #[derive(Clone, Copy, Debug, Eq, PartialEq)]
+enum SkandhaFamily {
+    Rupa,
+    Nama,
+}
+
+fn skandha_family(gathered: Option<Gathered>) -> Option<SkandhaFamily> {
+    match gathered {
+        Some(Gathered::Rupa) => Some(SkandhaFamily::Rupa),
+        Some(Gathered::Vedana | Gathered::Samjna | Gathered::Samskara | Gathered::Vijnana) => {
+            Some(SkandhaFamily::Nama)
+        }
+        None => None,
+    }
+}
+
+/// A project overlay on the five Skandhas, not another Skandha enumeration.
+#[derive(Clone, Copy, Debug, Eq, PartialEq)]
+enum SkandhaView {
+    FormEmpirical,
+    JnanaSkandha,
+    VijnanaSkandha,
+}
+
+fn skandha_view(gathered: Option<Gathered>) -> Option<SkandhaView> {
+    match gathered {
+        Some(Gathered::Rupa) => Some(SkandhaView::FormEmpirical),
+        Some(Gathered::Vedana | Gathered::Samjna | Gathered::Samskara) => {
+            Some(SkandhaView::JnanaSkandha)
+        }
+        Some(Gathered::Vijnana) => Some(SkandhaView::VijnanaSkandha),
+        None => None,
+    }
+}
+
+#[derive(Clone, Copy, Debug, Eq, PartialEq)]
 enum Channel {
     Sense(Sense),
     Mind,
@@ -139,6 +187,25 @@ enum Content {
     Formation,
     Cognition(Cognition),
     Unconditioned,
+}
+
+/// Distinct routes into the Dharma column of the matrix.
+#[derive(Clone, Copy, Debug, Eq, PartialEq)]
+enum DharmaColumnPath {
+    JnanaSkandha(Gathered),
+    AvijnaptiFromRupa,
+    Unconditioned,
+}
+
+fn dharma_column_path(content: Content) -> Option<DharmaColumnPath> {
+    match content {
+        Content::Feeling => Some(DharmaColumnPath::JnanaSkandha(Gathered::Vedana)),
+        Content::Recognition => Some(DharmaColumnPath::JnanaSkandha(Gathered::Samjna)),
+        Content::Formation => Some(DharmaColumnPath::JnanaSkandha(Gathered::Samskara)),
+        Content::Avijnapti => Some(DharmaColumnPath::AvijnaptiFromRupa),
+        Content::Unconditioned => Some(DharmaColumnPath::Unconditioned),
+        Content::Faculty(_) | Content::Field(_) | Content::Cognition(_) => None,
+    }
 }
 
 /// Content is kept. The cross-map has to survive the projection.
@@ -213,8 +280,8 @@ fn mental_object(content: Content, gathered: Gathered) -> Classified {
 }
 
 // Feeling, recognition, formations, avijñapti, and the unconditioned share
-// DharmaDhatu. They do not share Gathered. That shared slot plus unshared
-// kind is the algebra a 5/12/18 mnemonic cannot say.
+// DharmaDhatu through distinct paths. The shared slot does not erase their
+// different Base origins or the unconditioned's lack of a Skandha.
 
 // 4. Encounter. Precedence is a witness, not a bool.
 //
@@ -448,6 +515,79 @@ fn schema_counts() {
 #[cfg(test)]
 mod checks {
     use super::*;
+
+    #[test]
+    fn jnana_skandha_view_groups_three_existing_skandhas_only() {
+        assert_eq!(
+            skandha_view(Some(Gathered::Vedana)),
+            Some(SkandhaView::JnanaSkandha)
+        );
+        assert_eq!(
+            skandha_view(Some(Gathered::Samjna)),
+            Some(SkandhaView::JnanaSkandha)
+        );
+        assert_eq!(
+            skandha_view(Some(Gathered::Samskara)),
+            Some(SkandhaView::JnanaSkandha)
+        );
+        assert_eq!(
+            skandha_view(Some(Gathered::Rupa)),
+            Some(SkandhaView::FormEmpirical)
+        );
+        assert_eq!(
+            skandha_view(Some(Gathered::Vijnana)),
+            Some(SkandhaView::VijnanaSkandha)
+        );
+        assert_eq!(skandha_view(None), None);
+    }
+
+    #[test]
+    fn nama_skandha_view_groups_the_four_non_rupa_skandhas() {
+        for skandha in [
+            Gathered::Vedana,
+            Gathered::Samjna,
+            Gathered::Samskara,
+            Gathered::Vijnana,
+        ] {
+            assert_eq!(skandha_family(Some(skandha)), Some(SkandhaFamily::Nama));
+        }
+        assert_eq!(
+            skandha_family(Some(Gathered::Rupa)),
+            Some(SkandhaFamily::Rupa)
+        );
+        assert_eq!(skandha_family(None), None);
+    }
+
+    #[test]
+    fn dharma_column_keeps_its_distinct_source_paths() {
+        assert_eq!(
+            dharma_column_path(Content::Feeling),
+            Some(DharmaColumnPath::JnanaSkandha(Gathered::Vedana))
+        );
+        assert_eq!(
+            dharma_column_path(Content::Recognition),
+            Some(DharmaColumnPath::JnanaSkandha(Gathered::Samjna))
+        );
+        assert_eq!(
+            dharma_column_path(Content::Formation),
+            Some(DharmaColumnPath::JnanaSkandha(Gathered::Samskara))
+        );
+        assert_eq!(
+            dharma_column_path(Content::Avijnapti),
+            Some(DharmaColumnPath::AvijnaptiFromRupa)
+        );
+        assert_eq!(
+            dharma_column_path(Content::Unconditioned),
+            Some(DharmaColumnPath::Unconditioned)
+        );
+        assert_eq!(
+            dharma_column_path(Content::Cognition(Cognition {
+                channel: Channel::Mind,
+                occurrence: 1,
+            })),
+            None
+        );
+    }
 
     #[test]
     fn the_schema_holds() {

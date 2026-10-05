@@ -1,6 +1,4 @@
-# The Principles
-
-## VAK_1.21 Bhāṣya — Why Feeling and Reflection Receive Distinct Bases
+# VAK_1.21 Bhāṣya — Why Feeling and Reflection Receive Distinct Bases
 
 ## 1. Kārikā Anchor
 

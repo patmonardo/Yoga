@@ -1,6 +1,4 @@
-# The Principles
-
-## VAK_1.28 — Space and Cognition in the Six Principles
+# VAK_1.28 — Space and Cognition in the Six Principles
 
 ## 1. Sanskrit (Devanāgarī)
 

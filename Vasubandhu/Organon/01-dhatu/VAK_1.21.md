@@ -1,6 +1,4 @@
-# The Principles
-
-## VAK_1.21 — Feeling and Reflection as Distinct Bases
+# VAK_1.21 — Feeling and Reflection as Distinct Bases
 
 ## 1. Sanskrit (Devanāgarī)
 

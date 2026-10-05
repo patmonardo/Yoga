@@ -189,11 +189,11 @@ VAK_2.02 clarifies that an *indriya* is not a passive organ. It is a model-drive
 The first five faculties are specialized SDSL drivers:
 
 ```text
-visual model      -> visible form
-sonic model       -> sound
-olfactory model   -> smell
-gustatory model   -> taste
-tactile model     -> tangible contact
+visual model      -> Sight
+auditory model    -> Hearing
+olfactory model   -> Smell
+gustatory model   -> Taste
+tactile model     -> Touch
 ```
 
 The mind-faculty is a higher coordinator:
@@ -281,5 +281,6 @@ Six faculties explained through svārtha-upalabdhi, apprehension of own object.
 Manas marked as governing all object-domains through sarvasya ca.
 Female and male faculties distinguished from the body-faculty through strītva-puṃstva-ādhipatya.
 Organon note added: indriya as model-driver of experience.
+Organon modality titles normalized as Sight, Hearing, Smell, Taste, and Touch.
 Zero-padded file naming maintained: VAK_2.02.
 ```

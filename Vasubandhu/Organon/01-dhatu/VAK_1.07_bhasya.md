@@ -1,6 +1,4 @@
-# The Principles
-
-## VAK_1.07 Bhāṣya — The Wheel in a Human Language
+# VAK_1.07 Bhāṣya — The Wheel in a Human Language
 
 ## 1. Kārikā Anchor
 

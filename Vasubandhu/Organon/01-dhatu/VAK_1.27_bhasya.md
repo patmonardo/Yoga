@@ -1,6 +1,4 @@
-# The Principles
-
-## VAK_1.27 Bhāṣya — Assigning by Characteristic and Scope
+# VAK_1.27 Bhāṣya — Assigning by Characteristic and Scope
 
 ## 1. Kārikā Anchor
 

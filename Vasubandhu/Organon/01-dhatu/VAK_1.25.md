@@ -1,6 +1,4 @@
-# The Principles
-
-## VAK_1.25 — The Dharma-Collections within Form and Formations
+# VAK_1.25 — The Dharma-Collections within Form and Formations
 
 ## 1. Sanskrit (Devanāgarī)
 

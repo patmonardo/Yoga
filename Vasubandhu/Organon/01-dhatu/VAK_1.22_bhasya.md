@@ -1,6 +1,4 @@
-# The Principles
-
-## VAK_1.22 Bhāṣya — The Unconditioned and the Order of the Bases
+# VAK_1.22 Bhāṣya — The Unconditioned and the Order of the Bases
 
 ## 1. Kārikā Anchor
 

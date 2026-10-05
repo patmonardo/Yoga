@@ -1,6 +1,4 @@
-# The Principles
-
-## VAK_1.12 Bhāṣya — The Four Great Elements
+# VAK_1.12 Bhāṣya — The Four Great Elements
 
 ## 1. Kārikā Anchor
 

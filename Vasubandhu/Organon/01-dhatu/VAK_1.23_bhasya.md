@@ -1,6 +1,4 @@
-# The Principles
-
-## VAK_1.23 Bhāṣya — Ordering Faculties, Fields, and Cognitions
+# VAK_1.23 Bhāṣya — Ordering Faculties, Fields, and Cognitions
 
 ## 1. Kārikā Anchor
 

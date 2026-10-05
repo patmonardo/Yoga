@@ -1,6 +1,4 @@
-# The Principles
-
-## VAK_1.27 — Determine the Characteristic, Then Assign
+# VAK_1.27 — Determine the Characteristic, Then Assign
 
 ## 1. Sanskrit (Devanāgarī)
 

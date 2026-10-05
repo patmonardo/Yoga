@@ -1,6 +1,4 @@
-# The Principles
-
-## VAK_1.09 — The Form Base: Faculties, Meanings, and Avijñapti
+# VAK_1.09 — The Form Base: Faculties, Meanings, and Avijñapti
 
 ## 1. Sanskrit (Devanāgarī)
 

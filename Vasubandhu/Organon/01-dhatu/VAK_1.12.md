@@ -1,6 +1,4 @@
-# The Principles
-
-## VAK_1.12 — Four Great Elements: Principles, Functions, and Form
+# VAK_1.12 — Four Great Elements: Principles, Functions, and Form
 
 ## 1. Sanskrit (Devanāgarī)
 

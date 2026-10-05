@@ -1,12 +1,18 @@
-# Top-Level Technical Expressions: Volumes I–II
+# Pre-Techne for the Organon Kośa
+
+## Yoga Techne: Technical Expressions for Volumes I–II
 
 ## Purpose and Scope
 
-This working inventory stabilizes **what the expressions mean and how they
-should be distinguished** before a separate pass records where they occur.
-It covers Vol. I, Dhātu–Indriya, and Vol. II, Loka–Karma. It is not yet an
-occurrence concordance, a complete Buddhist glossary, or a claim that every
-entry has one English equivalent in every context.
+This is the Yoga Techne's **Pre-Techne**: the conceptual and editorial
+vocabulary that precedes systematic work in the Organon Kośa. It covers
+Volume I, Dhātu–Indriya, and Volume II, Loka–Karma. It establishes how
+technical expressions are rendered and distinguished before their
+occurrences are indexed.
+
+This is a controlled project reference, not a complete Buddhist glossary
+or an occurrence concordance. Its entries do not claim that one English
+equivalent fits every use of a Sanskrit term.
 
 Keep three layers separate:
 
@@ -14,9 +20,24 @@ Keep three layers separate:
 2. the controlled English used in the translation;
 3. the Organon determination, where one is established.
 
-An Organon rendering is not silently substituted into the conventional
+An Organon rendering is never silently substituted into the conventional
 translation. Preserve the Sanskrit expression whenever English would
 collapse distinctions between terms or between different uses of one term.
+
+## The Metaphysical Sciences
+
+This Pre-Techne is not a bare expression list and does not pretend that a
+short gloss captures the meaning of Essence or Principle. In the Organon,
+**Form Theory**, **Essence Science**, and **Principle Science** are
+Metaphysical Sciences in their own right. Their terms name positions and
+operations within a living system; the definitions below are controls for
+reading that system, not substitutes for it.
+
+The central operation is the **Essence:Form Engine**. The technical
+expressions are intelligible through its movement and through the relations
+it organizes. In particular, an Āyatana/Essence entry or a Dhātu/Principle
+entry identifies a point of access into a science; neither expression list
+nor isolated rendering exhausts that science.
 
 ## 1. The Core System Expressions
 
@@ -24,9 +45,11 @@ collapse distinctions between terms or between different uses of one term.
 |---|---|---|
 | **Dharma** (*dharma*) | Retain *Dharma* in project compounds; locally, a classifiable teaching, principle, or phenomenon as the passage requires. In the Organon, each Dharma has the Defined Concept `<Base, Essence, Principle>`. | Do not flatten it to “thing,” “reality,” or “doctrine” everywhere. *Dharma Base*, *Dharma Essence*, and *Dharma Principle* are distinct projections of one Dharma, not separate Dharmas. |
 | **Skandha** (*skandha*) | Conventional: **aggregate**. Organon: **Base**—the aggregate considered in its systematic function. | Base is ideally systematic, not a heap. Its systematicity becomes actual in articulation with Essence and Principle. |
+| **Nāma-skandha view** | Project-level grouping of the four non-Rūpa Skandhas, viewed as **Jñāna-skandha : Vijñāna-skandha**. | Not a sixth Skandha or a source-defined compound. Jñāna-skandha is the ordinary-knowledge triad; Vijñāna-skandha remains its special Cognition member. |
+| **Jñāna-skandha view** | Project-level **ordinary knowledge**, grouping Vedanā, Saṃjñā, and Saṃskāra. | An overlay on three existing Skandhas, not another Skandha. Distinct from source *dharmaskandha* as a teaching-body and from Dharma-āyatana/Dharma-dhātu. |
 | **Āyatana** (*āyatana*) | Conventional senses include sphere, domain, basis, or sense-field. Controlled Organon term: **Essence**. In the project reading, it is the **Entry** into an Essential Relation of an Impure Dharma. | The Essential Relation comprises all products of Reflective Mind; Mind-Essence is Reflective Science at the Āyatana level. Keep this distinct from Dhātu / Determinate Science. “Essence” is a project rendering, not a lexical definition. |
-| **Dhātu** (*dhātu*) | Conventional sense depends on compound and context: **element**, **realm**, or **domain**. Organon triad: **Principle**. | No single English gloss fits every use. “Principle” names its role in the Organon triad; it must not overwrite conventional *kāma-dhātu* or the eighteen cognitive dhātus. |
-| **Indriya** (*indriya*) | **Faculty**; its defining force is governing efficacy or power. | Not “organ” unless an anatomical part is specifically meant. A Faculty is determined by what it governs, not by anatomy alone. |
+| **Dhātu** (*dhātu*) | Conventional sense depends on compound and context: **element**, **realm**, or **domain**. Organon: **Principle**. In the eighteenfold cognitive matrix, the eighteen Dhātus are precisely eighteen cognitive Principles. | Preserve local conventional senses such as *kāma-dhātu*. Do not reduce the eighteen cognitive Principles to a flat list of elements or domains. |
+| **Indriya** (*indriya*) | **Faculty**, always. Its defining force is governing efficacy or power. | Never translate *indriya* as “organ.” Reserve “organ” for a separately named anatomical part, not as a gloss for *indriya*. A Faculty is determined by what it governs, not by anatomy alone. |
 | **Rūpa** (*rūpa*) | **Form**. | Never translate *rūpa* as “Matter.” Distinguish Form as an aggregate, visible form as an object-field, and the form realm. |
 
 **Aggregate → Base.** “Aggregate” is the standard conventional translation;
@@ -56,14 +79,19 @@ of an Impure Dharma. This relation comprises all products of Reflective Mind;
 **Mind-Essence** is Reflective Science at this level. Keep this determination
 distinct from Dhātu / Determinate Science.
 
-## 2. The Cognition Family — Primary Problem Area
+**Essence as a containing determination.** Essence is not one conventional
+gloss selected from sphere, domain, basis, or field; it is broad enough to
+comprehend these—and element—as articulations of an Essential Relation.
+This is an Organon-level containment, not a claim that *āyatana* and
+*dhātu* are synonyms or that every *āyatana* should be translated as
+“element.” The conventional rendering remains passage-specific.
 
-The main challenge is preserving *vijñāna*'s fixed rendering as Cognition
-while tracing its second-order relations to *citta*, *manas*, and its
-Principle forms. *Vijñāna* always renders as **Cognition**; its compounds
-and cross-classifications require careful definition. *Manas* is Mind, not
-the problem child. Nor should the expressions be forced into an absolute
-distinction where a particular passage does not make one.
+## 2. Cognition, Mind, and Their Principles
+
+*Vijñāna* always renders as **Cognition**. Keep it distinct from *citta*
+(Consciousness), *manas* (Mind), and *vijñapti* (manifestation or
+disclosure). Read compounds and cross-classifications in their local
+context; do not flatten them into a generic vocabulary of mind.
 
 | Expression | Working sense | Editorial control |
 |---|---|---|
@@ -108,7 +136,7 @@ been reviewed.
 
 | Expression | Working sense | Editorial control |
 |---|---|---|
-| **Indriya** (*indriya*) | **Faculty**, understood through governing efficacy. | The Faculty dyad is *Prāpti:Aprāpti*, not *Vijñapti:Avijñapti*. |
+| **Indriya** (*indriya*) | **Faculty**, always, understood through governing efficacy. | Never render *indriya* as “organ.” The Faculty dyad is *Prāpti:Aprāpti*, not *Vijñapti:Avijñapti*. |
 | **Prāpti / aprāpti** (*prāpti, aprāpti*) | Acquisition and non-acquisition in a continuum. | Distinct from manifestation, possession, immediate succession, and first-ever attainment by default. Keep this dyad distinct from the Dhātu dyad *Vijñapti:Avijñapti*. |
 
 *Lābha* (“obtaining/acquisition”) is a cross-reference under acquisition, not
@@ -183,32 +211,16 @@ relation, not a lexical definition of either Sanskrit term.
 Element in the material analysis. Keep these distinct from *dhātu* when it
 means realm, domain, or the Organon Principle.
 
-## 8. Provisional Priority List
+## 8. Applying the Pre-Techne
 
-For the first review, settle these before opening the occurrence-mapping
-phase:
+1. Establish the source expression and its local function.
+2. Use the controlled conventional rendering without importing the Organon
+   interpretation into the translation.
+3. Mark project-level determinations explicitly and preserve their
+   distinction from source claims.
+4. Retain the relational cross-mappings; do not turn the system into a flat
+   synonym list or taxonomy.
 
-1. **Skandha – Āyatana – Dhātu**: the three governing system expressions.
-2. **Vijñāna**: fixed as **Cognition**; its Base, Essence, and Principle
-   determinations and relations to *citta*, *manas*, *manovijñāna*, and
-   *caitta/caitasika* require careful definition.
-3. **Indriya – Prāpti:Aprāpti**: Faculty and its acquisition dyad, kept distinct
-   from Dhātu's *Vijñapti:Avijñapti* dyad and from *lābha* as a local term for
-   obtaining.
-4. **Loka – Karma – Bhava**: the Vol. II world/action/existence family.
-5. **Vijñapti:Avijñapti**: manifestation/non-disclosure, distinct from
-   acquisition/non-acquisition.
-6. **Rūpa, saṃskāra, saṃskṛta/asaṃskṛta, saṃprayukta/viprayukta, hetu,
-   pratyaya**: cross-cutting expressions whose senses shift with compounds
-   and classifications.
-7. **Kuśala/akuśala/avyākṛta, kleśa, āsrava/anāsrava, prahāṇa, Mārga,
-   nirvāṇa/nirodha**: path and classification predicates requiring careful
-   separation.
-8. **Dharma, ālambana, viṣaya, vastu, sattva, pudgala, santāna, gati,
-   upapatti**: supporting terms whose contrasts prevent category errors.
-
-This is a candidate list for review, not a frozen final roster. Additions,
-mergers, and exclusions belong in this phase. **No verse numbers, line
-references, frequency counts, or occurrence tables are collected here.**
-After the roster is stable, build a separate Vol. I–II concordance that
-records occurrences and context without changing the term definitions.
+An occurrence concordance is a companion to this Pre-Techne, not part of
+it. The concordance records locations and contexts; it does not silently
+change the controlled terminology defined here.
