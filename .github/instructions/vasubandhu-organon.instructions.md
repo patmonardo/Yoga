@@ -33,7 +33,8 @@ folder, consult these load-bearing project documents:
   expanding them into new cross-tradition mappings or ontological claims
   unless asked. Prioritize careful paired study of each kārikā and Bhāṣya.
 - Establish the conventional translation from the Sanskrit and Bhāṣya.
-  Place Organon synthesis in a separate, explicitly marked section.
+  In Bhāṣya studies, place philosophical interpretation in a separate
+  section titled **Interpretation**, not **Organon Reading**.
 - Use **Lexical Analysis** as the section heading for word division,
   morphology, and lexical meanings; do not prefix it with *Padaccheda*.
 - Use the technical vocabulary below consistently, without letting it erase
@@ -104,9 +105,9 @@ Organon reading sound like literal Bhāṣya doctrine.
 
 For the Organon account of *vijñāna*, use Kantian Transcendental Philosophy
 as the project-level frame for Principle Science; do not identify
-*vijñāna* lexically with consciousness (*citta*) or attribute the synthesis
-historically to Vasubandhu. Keep advanced philosophical interpretation in
-the paired Bhāṣya's Organon section. A kārikā study may retain a concise
+*vijñāna* with *citta* or attribute the synthesis historically to
+Vasubandhu. Keep advanced philosophical interpretation in the paired
+Bhāṣya's **Interpretation** section. A kārikā study may retain a concise
 Interpretive Note and state the defined `<Base, Essence, Principle>`
 projections without expanding the philosophical synthesis.
 
@@ -148,7 +149,7 @@ determination, not a lexical claim about *āyatana*.
 The **Nāma-skandha view** groups the four non-Rūpa Skandhas as the
 project-level dyad **Jñāna-skandha : Vijñāna-skandha**. **Jñāna-skandha**
 is ordinary knowledge—the existing Skandhas Vedanā, Saṃjñā, and Saṃskāra;
-Vijñāna-skandha remains its special Cognition member. These are project
+Vijñāna-skandha remains its special Principle member. These are project
 views, not source-defined compounds or additional Skandhas. Do not confuse
 Jñāna-skandha with the source's teaching-body use of *dharmaskandha*. A
 top-level Dharma View may wrap Dharma-āyatana and Dharma-dhātu as one
@@ -174,10 +175,16 @@ materials systematically.
   reverses the project's conceptual path.
 - `dhātu` -> **element** in conventional translation; **Principle** in the
   Organon reading
-- `vijñāna` -> **Cognition** consistently in the project translation; do not
-  alternate with “consciousness”
+- `vijñāna` -> **Principle** in the current Indriyanirdeśa project
+  terminology; do not render it as “Cognition” or “consciousness.” This
+  does not change the fixed compound **Mind-Cognition Principle**
+  (*manovijñānadhātu*).
 - `citta` -> **consciousness** in conventional translation; keep it distinct
-  from Cognition (*vijñāna*) and Mind (*manas*)
+  from Principle (*vijñāna*) and Mind (*manas*)
+- `vijñānaskandha` -> **principle-base**; `viṣaya` -> **condition** in the
+  1.16 study. Preserve the source terms and the local Bhāṣya gloss.
+- `viṣaya` -> **Condition** in the current 1.16 project translation; retain
+  “object” for *ālambana* where that is the source term.
 - `manas` -> the **Produced Cognitive Instrument** in the project architecture;
   equipped with Mind Essence (*mana-āyatana*) and Mind Principle
   (*manodhātu*). Its production/ownership relation remains open for
