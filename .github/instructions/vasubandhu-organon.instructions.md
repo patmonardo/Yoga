@@ -34,6 +34,8 @@ folder, consult these load-bearing project documents:
   unless asked. Prioritize careful paired study of each kārikā and Bhāṣya.
 - Establish the conventional translation from the Sanskrit and Bhāṣya.
   Place Organon synthesis in a separate, explicitly marked section.
+- Use **Lexical Analysis** as the section heading for word division,
+  morphology, and lexical meanings; do not prefix it with *Padaccheda*.
 - Use the technical vocabulary below consistently, without letting it erase
   grammatical, textual, or school-level distinctions.
 
@@ -109,6 +111,12 @@ into one unqualified “Kośa position.”
 
 The controlled Organon mapping is **Skandha = Base, Āyatana = Essence,
 Dhātu = Principle**; *rūpa* is **Form**, so *rūpa-skandha* is **Form Base**.
+Render the complete census as **five Bases, twelve Essences, and eighteen
+Principles**. This formula is mandatory in Organon prose, translations,
+summaries, and tables: do not render it as “five aggregates, twelve bases,
+and eighteen elements.” Preserve the Sanskrit terms in lexical analysis,
+while using the controlled Base–Essence–Principle terminology for the
+systematic count.
 In the eighteenfold cognitive matrix, the eighteen Dhātus are precisely
 eighteen cognitive Principles; do not reduce them to a flat list of elements
 or domains.

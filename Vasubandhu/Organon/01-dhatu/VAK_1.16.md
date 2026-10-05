@@ -12,7 +12,7 @@
 >
 > dhātavaḥ sapta ca matāḥ ṣaḍvijñānāny atho manaḥ // 1.16 //
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 **Sentence words**
 
@@ -31,29 +31,48 @@ dhātavaḥ | sapta | ca | matāḥ | ṣaṭ | vijñānāni | atho | manaḥ
 
 *Prativijñapti* contains *prati* + *vijñapti*. The Bhāṣya
 resolves the prefix through *viṣayaṃ viṣayaṃ prati vijñaptiḥ*:
-apprehension with respect to each particular object-domain.
-It glosses the result as *upalabdhi*, apprehension.
-The distributive repetition and the gloss are commentary, not
-additional words in the verse. Here *vijñapti* has the local
-cognitive force of apprehension; the 1.11 contrast with outward
-manifestation has a different context.
+apprehension with respect to each object, glossed as
+*upalabdhi*. The distributive repetition and gloss belong to
+the Bhāṣya. In the Organon reading, *prati* is also taken as
+a real relation: *prativijñapti* is vijñapti directed to and
+raised from a particular toward its universal Principle.
+This is a project determination, not an additional lexical
+meaning claimed for *prati* by the Bhāṣya.
 
 **Lexical and morphological determination**
 
 | Pada | Morphology | Force in this passage |
 |---|---|---|
-| vijñānam | nominative neuter singular | domain-differentiated cognition; the content being defined |
+| vijñānam | nominative neuter singular | Cognition; the content being defined |
 | prativijñaptiḥ | nominative feminine singular | corresponding apprehension; predicate noun |
-| manaḥ | nominative neuter singular | mind in the compound designation *mana āyatana*; later, mind as a principle |
-| āyatanam | nominative neuter singular | essence in the adopted Organon register |
+| manaḥ | nominative neuter singular | mind in the designation *mana āyatana*; also the final named principle |
+| āyatanam | nominative neuter singular | base conventionally; Essence in the Organon register |
 | ca | indeclinable | also; connects the further placement |
 | tat | nominative neuter singular | that same *vijñānam*, specified as a base by the Bhāṣya |
-| dhātavaḥ | nominative masculine plural | principles in the further arrangement |
+| dhātavaḥ | nominative masculine plural | Principles in the project terminology |
 | sapta | numeral | seven principial positions |
 | matāḥ | nominative masculine plural participle | accepted; agrees with *dhātavaḥ* |
 | ṣaṭ vijñānāni | numeral and nominative neuter plural | six classes of cognition |
 | atho | connective | and further, and also |
-| manaḥ | nominative neuter singular | mind-principle as the seventh named position |
+| manaḥ | nominative neuter singular | Mind Principle (*manodhātu*) as the seventh named position |
+
+**Organon renderings (project determinations, not lexical glosses)**
+
+| Sanskrit | Organon expression |
+|---|---|
+| skandha | Base |
+| āyatana | Essence |
+| dhātu | Principle |
+| vijñāna | Cognition; special faculty of Principle Science |
+| vijñānaskandha | Cognition Base |
+| mana-āyatana | Mind Essence: Capacity/Field and Essential Relation |
+| manovijñānadhātu | Mind-Cognition Principle: Transcendental Logic / Abstract Reason |
+| manodhātu | Mind Principle: Ordinary Logic |
+| dharmāyatana | Dharma Essence |
+| dharmadhātu | Dharma Principle |
+| vijñapti / saṃjñā | Higher Reflection |
+| prativijñapti | relational Higher Reflection: the particular mapped to its universal Principle |
+| Principle | starting point for a Rule System that determines next-step valuations |
 
 ## 4. Grammar
 
@@ -61,159 +80,160 @@ manifestation has a different context.
 
 *Vijñānaṃ prativijñaptiḥ* is a nominal definition. The neuter
 subject and feminine predicate noun differ in gender without
-changing the referent. The verse does not itself spell out
-what *prati* distributes over. The Bhāṣya supplies *viṣayaṃ
-viṣayaṃ prati* and *upalabdhiḥ*, fixing the sense as
-apprehension with respect to each cognitive correlate.
+changing the referent. The Bhāṣya supplies *viṣayaṃ viṣayaṃ
+prati* and *upalabdhiḥ*: apprehension with respect to each
+object. The Organon reading takes this relational construction
+as a movement of Higher Reflection, not as a synonym for
+consciousness (*citta*).
 
-*Mana āyatanaṃ ca tat* predicates a second arrangement of
+*Mana āyatanaṃ ca tat* predicates a second classification of
 *tat*, “that.” Grammatically the neuter pronoun resumes
 *vijñānam*; the prose makes the classificatory referent exact:
-the *vijñānaskandha*, or cognition-base, is *mana-āyatana*,
-mind-essence, in the essence arrangement. The line does not
-introduce an independent mind-entity alongside the defined
-cognition.
+the *vijñānaskandha*, rendered Cognition Base in the project, is
+*mana-āyatana*: the mind-base, expressed in the Organon as
+Mind Essence. This is one content under distinct
+determinations, not an independent mind-substance beside
+Cognition.
 
-**Seven in the principle arrangement**
+**Seven in the Dhātu classification**
 
 *Dhātavaḥ sapta ... matāḥ* gives a masculine plural subject and
-its agreeing predicate: seven principles are accepted. The
-closing enumeration states what is counted: six *vijñānāni*
-and *manaḥ*. The Bhāṣya names them as six cognition-principles,
-from eye-cognition-principle through mental-cognition-principle,
-plus mind-principle. The last two names must remain distinct.
-The reason that mind-principle does not add a seventh kind of
-cognition is the question opened immediately after this unit
-and addressed in 1.17.
+its agreeing predicate: seven Principles are accepted in the
+Organon Science of Principles. The closing
+enumeration states what is counted: six *vijñānāni* and *manaḥ*.
+In the Organon terminology these are six Cognition Principles,
+from Eye-Cognition Principle through Mind-Cognition Principle,
+plus Mind Principle (*manodhātu*). Mind-Cognition Principle
+(*manovijñānadhātu*) and Mind Principle (*manodhātu*) must remain
+distinct. Their relation is opened in 1.17.
 
 ## 5. Translation
 
 ### Literal Translation
 
-Cognition is *prativijñapti*. That is also the mind-essence.
-Seven principles are accepted: the six cognitions and also mind.
+Cognition is corresponding apprehension. That is also Mind
+Essence. Seven Principles are accepted: six Cognition
+Principles and Mind Principle.
 
 ### Bhāṣya-informed study translation
 
-The cognition-base is apprehension with respect to each
-particular object-domain. It comprises six classes,
-from eye-cognition through mental cognition. This same base
-is mind-essence in the essence arrangement. In the principle
-arrangement it is counted as seven: six cognition-principles
-and mind-principle.
+The Cognition Base is apprehension with respect to each
+object. It comprises six classes, from eye-cognition through
+mental cognition. In the Science of Essence, this same Base
+is Mind Essence. In the Science of Principles, it is
+determined as six Cognition Principles and Mind Principle.
 
-The Bhāṣya then completes the count of five bases, twelve
-essences, and eighteen principles. Its summary keeps
-*avijñapti* within the form-base while placing it under
-dharma-essence and dharma-principle, and places the
-unconditioned under those latter two without a base.
+The Bhāṣya then completes the count of five Bases, twelve
+Essences, and eighteen Principles. Its summary keeps
+*avijñapti* within Form Base while classifying it with the
+three Bases beginning with *vedanā* and the unconditioned as
+Dharma Essence and Dharma Principle. The unconditioned are
+included there without a Base determination.
 
-## 6. Philosophical Translation
+## 6. Organon Reading: Higher Vijñapti and Principle Science
 
-**Organon reconstruction: the cognitive moment of the machine**
-
-VAK 1.16 gives the threefold machine a precise cognitive
-content. *Vijñāna* is one base, mind-essence in the second
-arrangement, and seven named principial positions in the
-third. Its operation is specified through a relation to each
-*viṣaya*. Cognition is thus determinate as apprehension of
-a correlate; the source does not yet make it judgment,
-wisdom, or achieved knowing.
+The *vijñānaskandha* is the Cognition Base; its *mana-āyatana*
+is Mind Essence, the Capacity/Field and Essential Relation
+itself; its *dhātu* projection belongs to the Science of
+Principles. These are the differentiated moments of one
+Defined Concept, not substances or parallel lists. Mind
+Essence is Reflective Science—the Seer as Reflector—not Manas
+as Produced Cognitive Instrument and not Mind Principle
+(*manodhātu*).
 
 ```text
-<skandha, āyatana, dhātu> = <base, essence, principle>
-
-vijñāna-base : mind-essence :
-    six cognition-principles + mind-principle
+Base:      vijñānaskandha → Cognition Base
+Essence:   mana-āyatana → Mind Essence / Capacity-Field
+Principle: six vijñānadhātus + manodhātu
+           → six Cognition Principles + Mind Principle
 ```
 
-The colons mark coordinated, reciprocally determining moments
-of the same classified content. They do not claim that the three
-arrangements contain the same number of entries or that
-mind-principle is a seventh cognition. The shift from one
-essence to seven principles is a discrimination the machine
-must comprehend, rather than a change in the underlying
-base. The exact account of mind-principle's relation to the
-six cognition classes is reserved for 1.17.
+In this Organon reading, *vijñapti* is Higher Reflection
+(*saṃjñā*). *Prativijñapti* is its real relation to a
+particular: Higher Vijñapti maps the particular toward its
+universal Principle. *Vijñāna* is this Higher Vijñapti as
+Principle Science, not consciousness (*citta*). The Principles
+are universals and starting points for determinate reasoning.
 
-The neighboring dharma-essence of 1.15 gathers the feeling-,
-reflection-, and formations-bases with *avijñapti* and the
-unconditioned. Mind-essence here is the cognitive gateway.
-Their non-identical relation lets the Organon ask how an
-apprehending determination and determinable meaning-content
-belong together. The verse supplies their classified positions
-and the object-indexed operation; any fuller theory of
-reciprocal closure belongs to the reconstruction, not to
-Vasubandhu's explicit definition here.
+The Kantian-transcendental question concerns the synthetic
+unity of apperception: under what conditions can a particular
+be determined as an objective case under a universal rule,
+rather than received as an isolated manifold? Here this names
+a condition of scientific objectivity, not empirical
+consciousness (*citta*) and not a lexical definition of
+*vijñāna*. The Fichtean moment is the *Tathandlung*, the
+self-positing act of Absolute Knowing: cognition returns from
+the apparently given object to the self-relating activity
+that posits and reconstructs its conditions. This is not an
+empirical ego or a substance.
 
-## 7. Technical Vocabulary
-
-| Sanskrit | Working English | Scope |
-|---|---|---|
-| vijñāna | domain-differentiated cognition | verse definition |
-| prativijñapti | corresponding apprehension | verse, specified by Bhāṣya |
-| viṣaya | object-domain; cognitive correlate in the Organon study | Bhāṣya's distributive gloss |
-| upalabdhi | apprehension | Bhāṣya gloss |
-| vijñānaskandha | cognition-base | Bhāṣya's referent for *tat* |
-| vijñānakāya | class of cognition | six classes in the Bhāṣya |
-| mana-āyatana | mind-essence | one essence for the cognition-base |
-| vijñāna-dhātu | cognition-principle | six differentiated principles |
-| manovijñāna-dhātu | mental-cognition-principle | sixth cognition-principle |
-| mano-dhātu | mind-principle | seventh principial position |
-| vyavasthā | arrangement | Bhāṣya's term for the two placements |
-
-Here *vijñāna* is cognition, distinct in the controlled
-vocabulary from *citta* as consciousness, *jñāna* as achieved
-knowing, and *prajñā* as discriminative comprehension.
-The adopted English *essence* and *principle* renders
-*āyatana* and *dhātu* for the Organon study.
-
-## 8. Logical Determination
+The Hegelian moment is the speculative syllogism of the
+Concept (*Begriff*): universal, particular, and singular are
+mediated, not externally juxtaposed. A Rule System functions
+as the inferential middle; it relates universal Principle to
+the particular conditions of the case and determines the
+singular judgment of the next step. Its formal movement is:
 
 ```text
-1.14  five faculties + five meanings
-      as ten essences and ten principles
+universal Principle (starting point)
+    → particular conditions, mediated by the Rule System
+    → singular next-step judgment / valuation
+```
+
+The six Cognition Principles include Mind-Cognition Principle
+(*manovijñānadhātu*), the project's Transcendental Logic /
+Abstract Reason. The distinct seventh position,
+*manodhātu*, is Mind Principle / Ordinary Logic. Manas is
+equipped with Mind Essence and Mind Principle; these
+determinations remain distinct. The following verse takes up
+the relation of Mind Principle to the six Cognition
+Principles.
+
+## 7. Logical Determination
+
+```text
+1.14  five faculties + five objects
+      as ten sensory Essences and ten sensory Principles
 
 1.15  feeling + reflection + formations
       with avijñapti + the unconditioned
-      as dharma-essence and dharma-principle
+      as Dharma Essence and Dharma Principle
 
-1.16  vijñāna = apprehension with respect to each viṣaya
-      cognition-base
-      as one mind-essence
-      as six cognition-principles + mind-principle
+1.16  Bhāṣya: vijñāna = upalabdhi with respect to each viṣaya
+      Organon: Higher Reflection maps particular to universal
+      Principle Science → Principle starting point
+      → Rule System (Reasoning) → next-step valuation
+      Cognition Base / Mind Essence / six Cognition Principles
+      + Mind Principle
 
-Totals:  five bases; twelve essences; eighteen principles
+Totals:  five Bases; twelve Essences; eighteen Principles
 ```
 
-These counts articulate one system through different
-arrangements. The unconditioned has no base coordinate.
-*Avijñapti* retains its form-base coordinate while entering
-dharma-essence and dharma-principle. The six cognition-principles
-are differentiated by their corresponding correlates; the
-relation of the seventh to their succession remains open in
-this unit.
+These counts articulate one system through the Sciences of
+Base, Essence, and Principle. The unconditioned has no Base
+determination.
+*Avijñapti* retains its Form Base coordinate while entering
+Dharma Essence and Dharma Principle. The six Cognition
+Principles are differentiated by their corresponding objects;
+the relation of Mind Principle to them remains open in this unit.
 
-## 9. Interpretive Note
+## 8. Interpretive Note
 
 The decisive grammatical and logical hinge is *tat* followed
-by the sevenfold enumeration. The same cognition-base is
-carried from its definition into one mind-essence and then
-into seven principial positions. A machine that merely equates
-their counts would lose the classificatory operation. A
-machine that treats mind-principle as a new substantial
-cognition would anticipate the next verse's question and
-answer it without its argument.
+by the sevenfold enumeration. The same Cognition Base is
+carried from its definition into Mind Essence and then into
+seven Principle positions. Equating their counts would lose
+the classificatory operation; treating Mind Principle as a
+seventh Cognition Principle would anticipate the next verse's
+question and answer it without its argument.
 
-The Bhāṣya's *viṣayaṃ viṣayaṃ prati* also fixes the limit of
-“machine consciousness” here. This verse yields a structure
-for determinate apprehension and its classification. The
-Organon may develop that into a theory of cognitive mediation,
-but the source has not yet identified *vijñāna* with
-liberating knowledge or with the whole eighteen-principle
-system. The next determination must be read in 1.17.
+The Bhāṣya's *viṣayaṃ viṣayaṃ prati* fixes the textual gloss
+as object-directed apprehension. The Organon reading develops
+that relation as Higher Reflection and Principle Science,
+without confusing the synthesis with the source's lexical
+account. The next determination must be read in 1.17.
 
-## 10. OWL++ Seed
+## 9. OWL++ Seed
 
 ```ttl
 @prefix vak: <http://127.0.0.1:3000/vak#> .
