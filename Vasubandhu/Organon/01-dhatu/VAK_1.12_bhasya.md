@@ -6,65 +6,158 @@
 >
 > dhṛtyādikarmasaṃsiddhāḥ kharasnehoṣṇateraṇāḥ // 1.12 //
 
-Literal (from the Kārikā study):
+Literal:
 
-> The Elements are the earth-Principle and the water-, fire-, and wind-Principles. They are established in functions beginning with support; the verse then names hardness, cohesion, heat, and impulsion.
+> The elements are the earth-principle and the water-, fire-, and
+> wind-principles. They are established in functions beginning with support:
+> hardness, cohesion, heat, and impulsion.
 
-Kārikā: [`VAK_1.12.md`](./VAK_1.12.md). Previous: 1.11. Next: 1.13.
+Bhāṣya-informed:
 
-## 2. Continuous Sanskrit Witness
+> The four great elements are those four principles. They are called principles
+> because they hold their own-character and derived form. Their greatness is
+> magnitude, as support of all other form, or a great gathering in the masses
+> of earth, water, fire, and wind, where the corresponding principle operates
+> prominently. The functions, in order, are support, gathering, ripening, and
+> spreading. The own-characters are hardness, cohesion, heat, and impulsion.
+> Lightness, named in the treatises, is derived form. Wind is the principle
+> whose own-character is impulsion. The function makes that character evident.
 
-> mahābhūtāny upādāyety uktāni katamāni bhūtāni / bhūtāni pṛthivīdhātur aptejovāyudhātavaḥ / ity ete catvāraḥ svalakṣaṇopādāyarūpadhāraṇād dhātavaś catvāri mahābhūtāny ucyante / mahattvam eṣāṃ sarvānyarūpāśrayatvenaudārikatvāt / atha vā tadudbhūtavṛttiṣu pṛthivyaptejovāyuskandheṣv eṣāṃ mahāsaṃniveśatvāt / te punar ete dhātavaḥ kasmin karmaṇi saṃsiddhāḥ kiṃsvabhāvāś cety āha / dhṛtyādikarmasaṃsiddhāḥ / dhṛtisaṃgrahapaktivyūhanakarmasv ete yathākramaṃ saṃsiddhāḥ pṛthivyaptejovāyudhātavaḥ / vyūhanaṃ punar vṛddhiḥ prasarpaṇaṃ ca veditavyam / idam eṣāṃ karma / svabhāvas tu yathākramaṃ kharasnehoṣṇateraṇāḥ / kharaḥ pṛthivīdhātuḥ / sneho 'bdhātuḥ / uṣṇatā tejodhātuḥ / īraṇā vāyudhātuḥ / īryate 'nayā bhūtasroto deśāntarotpādanāt pradīperaṇavad itīraṇā / “vāyudhātuḥ katamo laghusamudīraṇatvam” iti prakaraṇeṣu nirdiṣṭaṃ sūtre ca / tat tu laghutvam upādāya rūpam apy uktaṃ prakaraṇeṣu / ato ya īraṇāsvabhāvo dharmaḥ sa vāyur iti karmaṇā 'sya svabhāvo 'bhivyaktaḥ /
+The commentary answers which elements, then pairs function and own-character.
+The next question, worldly form against the principle itself, is 1.13. It is
+not taken here.
 
-**Witness.** Pradhan `[008|11]`–`[008|25]`. Next question is 1.13.
+## 2. Continuous Sanskrit
 
-## 3. Continuous Conventional Translation
+> mahābhūtāny upādāyety uktāni katamāni bhūtāni / bhūtāni pṛthivīdhātur
+> aptejovāyudhātavaḥ / ity ete catvāraḥ svalakṣaṇopādāyarūpadhāraṇād
+> dhātavaś catvāri mahābhūtāny ucyante / mahattvam eṣāṃ
+> sarvānyarūpāśrayatvenaudārikatvāt / atha vā tadudbhūtavṛttiṣu
+> pṛthivyaptejovāyuskandheṣv eṣāṃ mahāsaṃniveśatvāt / te punar ete
+> dhātavaḥ kasmin karmaṇi saṃsiddhāḥ kiṃsvabhāvāś cety āha /
+> dhṛtyādikarmasaṃsiddhāḥ / dhṛtisaṃgrahapaktivyūhanakarmasv ete
+> yathākramaṃ saṃsiddhāḥ pṛthivyaptejovāyudhātavaḥ / vyūhanaṃ punar
+> vṛddhiḥ prasarpaṇaṃ ca veditavyam / idam eṣāṃ karma / svabhāvas tu
+> yathākramaṃ kharasnehoṣṇateraṇāḥ / kharaḥ pṛthivīdhātuḥ / sneho
+> 'bdhātuḥ / uṣṇatā tejodhātuḥ / īraṇā vāyudhātuḥ / īryate 'nayā
+> bhūtasroto deśāntarotpādanāt pradīperaṇavad itīraṇā / “vāyudhātuḥ
+> katamo laghusamudīraṇatvam” iti prakaraṇeṣu nirdiṣṭaṃ sūtre ca /
+> tat tu laghutvam upādāya rūpam apy uktaṃ prakaraṇeṣu / ato ya
+> īraṇāsvabhāvo dharmaḥ sa vāyur iti karmaṇā 'sya svabhāvo 'bhivyaktaḥ /
 
-> “Depending on the Great Elements” was stated. Which Elements are these? They are the earth-Principle and the water-, fire-, and wind-Principles. These four are called Principles and Great Elements because they hold their own-character and derived Form. Their greatness is due to their magnitude as support of all other Form. Alternatively, it is due to their great aggregation in masses of earth, water, fire, and wind, where the corresponding Principle operates prominently.
+The unit runs from which elements through the function making own-character
+evident. Span: Pradhan `[008|11]`–`[008|25]`. Word division is editorial.
+
+## 3. Continuous Translation
+
+> “Depending on the great elements” was stated. Which are the elements?
 >
-> In what functions are these Principles established, and what is their own-character? They are established, in order, in the functions of support, gathering, ripening, and spreading. Spreading is to be understood as increase and extension. This is their function. Their own-character, in order, is hardness, cohesion, heat, and impulsion.
+> The elements are the earth-principle and the water-, fire-, and
+> wind-principles.
 >
-> Hardness is the earth-Principle. Cohesion is the water-Principle. Heat is the fire-Principle. Impulsion is the wind-Principle. It is called impulsion because by it the stream of Elements is impelled, producing in another place, like the movement of a lamp-flame.
+> These four are called principles, and the four great elements, because they
+> hold own-character and derived form. Their greatness is from magnitude, as
+> support of all other form. Or else, from their great gathering in the masses
+> of earth, water, fire, and wind, where the corresponding operation has
+> arisen.
 >
-> In the treatises and a sūtra it is stated: “What is the wind-Principle? Lightness of movement.” But that lightness is also said in the treatises to be derived Form. Therefore wind is the Dharma whose own-character is impulsion. Its own-character is made evident by its function.
+> Again, in what function are these principles established, and of what
+> own-character? It says: established in functions beginning with support.
+> These, the earth-, water-, fire-, and wind-principles, are established in
+> order in the functions of support, gathering, ripening, and spreading.
+> Spreading is to be known as increase and extension. This is their function.
+> Own-character, however, in order, is hardness, cohesion, heat, and impulsion.
+>
+> Hardness is the earth-principle. Cohesion is the water-principle. Heat is
+> the fire-principle. Impulsion is the wind-principle. It is called impulsion
+> because by it the stream of elements is impelled, from producing in another
+> place, as the moving of a lamp-flame.
+>
+Scripture and treatise. “What is the wind-principle? Lightness of movement,”
+stated in the treatises and in a sūtra. But that lightness is also said in
+the treatises to be derived form. Therefore the dharma whose own-character is
+impulsion is wind. By the function its own-character is made evident.
 
-## 4. Movement of the Commentary
+## 4. Movement
 
 ```text
 which elements?
-    → four Principles
-why Principle?   → they hold own-character and derived Form
-why Great?       → support of all other Form / aggregation in masses
-function : own-character
-wind             → function makes own-character evident
+    → four principles
+why principle?
+    → they hold own-character and derived form
+why great?
+    → magnitude as support
+    → or gathering in the masses
+function, in order
+    → support, gathering, ripening, spreading
+own-character, in order
+    → hardness, cohesion, heat, impulsion
+wind
+    → not the treatise's lightness
+    → impulsion; the function makes it evident
 ```
 
-## 5. The Bhāṣya's Decisions for the Kārikā
+No opponent is named. The treatise and a sūtra are cited, and corrected.
 
-1. *Dhātu* is explained through holding, not as an empty box-word.
-2. Greatness is magnitude as support or aggregation in masses. *Skandha* in that sentence means mass, not one of the five Bases.
-3. Function and own-character are distinct lists.
-4. Spreading is increase and extension.
-5. Technical lightness is derived Form; wind is impulsion.
-6. Function makes own-character evident.
+## 5. Principle and Great
 
-## 6. Organon Note
+*Svalakṣaṇopādāyarūpadhāraṇāt*: because they hold own-character and derived
+form. That is the commentary's reason for principle. Not an empty name.
 
-Not part of the conventional translation.
+Greatness is two readings. Magnitude, as support of all other form. Or a
+great gathering in the masses where that principle operates prominently.
+*Skandha* in *pṛthivyaptejovāyuskandheṣu* is the mass. Not one of the five
+bases.
 
-This is where **System Light** becomes legible: function discloses
-own-character, and own-character is intelligible through function. It is
-the sole Organon indicator that the Form–Essence machine is working.
-These four are determined as Principles; the mass-word *skandha* in the
-greatness sentence is not one of the five Bases. The same Elemental
-content may be classified through the Form Base elsewhere. The Bhāṣya's
-technical lightness (*laghutva*) is derived Form, not “System Light.”
-This is the *mahābhūta* determination of *kāmadhātu*, not a geology
-appendix.
+## 6. Two Lists
 
-## 7. Review Status
+| Principle | Function | Own-character |
+|---|---|---|
+| earth | support | hardness |
+| water | gathering | cohesion |
+| fire | ripening | heat |
+| wind | spreading | impulsion |
 
-The conventional translation tracks the Pradhan span. The Kārikā anchor
-is synced to [`VAK_1.12.md`](./VAK_1.12.md). The function/own-character
-relation is translated from the Bhāṣya; System Light is the Organon
-interpretation. Next: 1.13.
+Spreading is increase and extension. Impulsion is the driving of the stream
+to arise in another place, as a lamp-flame moves. Function and own-character
+stay two lists. The second is not a gloss that cancels the first.
+
+## 7. Wind
+
+The treatises and a sūtra say lightness of movement. The same treatises say
+that lightness is derived form. Both cannot be the principle. Wind is the
+dharma whose own-character is impulsion. The function makes the character
+evident. Lightness remains derived form.
+
+## 8. Decisions for the Kārikā
+
+1. The elements are four principles: earth, water, fire, wind.
+2. Principle, because they hold own-character and derived form.
+3. Great, as magnitude of support, or as gathering in the masses.
+4. *Skandha* in that sentence is mass, not a base.
+5. Functions and own-characters are paired in order. Spreading is increase
+   and extension.
+6. Lightness is derived form. Wind is impulsion. The function makes the
+   character evident.
+
+## 9. Interpretation
+
+1.11 left a dependence. This verse names what is depended on, and names it
+as principle. Function and own-character are the pair that makes the naming
+hold. Support is not hardness said twice. The function is what the principle
+does. The character is what it is. The wind sentence is the proof in the
+unit: the function makes the character evident.
+
+No base is enumerated. No essence is enumerated. The mass is a mass. The four
+stand as principles inside the form already counted, and the count is not
+repeated.
+
+The reading is once, here. 1.13 is not opened.
+
+## 10. Review Status
+
+Upgraded reading of the twelfth Bhāṣya study. The unit through the wind
+sentence checked against the running Sanskrit.
+
+Cognition withdrawn. Principle is the chapter word. Mass is not translated as
+base. The next study is not opened.
