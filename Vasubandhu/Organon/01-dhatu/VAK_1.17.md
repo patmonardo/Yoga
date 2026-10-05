@@ -1,10 +1,10 @@
-# VAK_1.17
+# VAK_1.17 — Mind Is One of the Six, Just Ceased
 
 ## 1. Sanskrit (Devanāgarī)
 
 > षण्णामनन्तरातीतं विज्ञानं यद्धि तन्मनः ।
 >
-> षष्ठाश्रयप्रसिद्ध्यर्थं धातवोऽष्टादश स्मृताः ॥ १.१७ ॥
+> षष्ठाश्रयप्रसिद्ध्यर्थं धातवोऽष्टादश स्मृताः ॥ १.१७ ॥॥
 
 ## 2. Sanskrit (IAST)
 
@@ -15,269 +15,165 @@
 ## 3. Lexical Analysis
 
 ```text
-ṣaṇṇām anantarātītam       → ṣaṇṇām anantara-atītam
-yad dhi                    → yat hi
-tan manaḥ                  → tat manaḥ
+ṣaṇṇām anantarātītam       → ṣaṇṇām + anantara-atītam
+yad dhi                    → yat + hi
+tan manaḥ                  → tat + manaḥ
 ṣaṣṭhāśrayaprasiddhyartham → ṣaṣṭha-āśraya-prasiddhi-artham
-dhātavo 'ṣṭādaśa          → dhātavaḥ aṣṭādaśa
+dhātavo 'ṣṭādaśa          → dhātavaḥ + aṣṭādaśa
 ```
 
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
-| ṣaṇṇām | genitive plural of `ṣaṭ` | among or of the six cognitions |
-| anantara | adjectival compound member | immediate, without an intervening cognition |
-| atītam | nominative neuter singular past participle | gone past; just ceased |
-| vijñānam | nominative neuter singular | one cognition among the six classes |
-| yat | relative pronoun, nominative neuter singular | whichever cognition |
-| hi | explanatory/emphatic particle | indeed, for |
-| tat | demonstrative pronoun, nominative neuter singular | that same cognition |
-| manaḥ | nominative neuter singular | Manas / Mind Principle in its support-function |
-| ṣaṣṭha | ordinal in compound | sixth |
-| āśraya | masculine noun in compound | support, conditioning basis |
-| prasiddhi | feminine noun in compound | establishment, explicit recognition |
-| artham | accusative neuter singular used adverbially | for the purpose of |
-| dhātavaḥ | nominative masculine plural | Principles in the project terminology |
+| ṣaṇṇām | genitive plural of *ṣaṣ* | of the six |
+| anantara-atītam | nominative neuter singular | immediately past; just ceased |
+| vijñānam | nominative neuter singular | a principle, one of the six |
+| yat | nominative neuter singular | whichever |
+| hi | particle | for; the reason |
+| tat | nominative neuter singular | that same one |
+| manaḥ | nominative neuter singular | mind |
+| ṣaṣṭha-āśraya-prasiddhi-artham | accusative of purpose | in order to establish the sixth support |
+| dhātavaḥ | nominative masculine plural | principles |
 | aṣṭādaśa | numeral | eighteen |
-| smṛtāḥ | nominative masculine plural past passive participle | taught, transmitted, established in the doctrine |
-| manas | nominative neuter singular | mind; here the same Cognition under its immediately-past support-relation |
-| āśraya | masculine noun | support; condition for a cognition |
-| āśrita | past passive participle used substantively | that which depends on a support |
-| ālambana | neuter noun | object toward which Cognition is directed |
-| prasiddhi | feminine noun | establishment or explicit determination |
-| dravya | neuter noun | substance; the basis for the objection about numerical reduction |
-| anyakāraṇa-vaikalya | compound | absence of another required cause |
+| smṛtāḥ | nominative masculine plural | taught; held in the teaching |
 
-**Organon determinations**
-
-| Sanskrit | Project expression |
-|---|---|
-| vijñāna | Cognition; higher Vijñapti in Principle Science |
-| manas / manodhātu | Mind / Mind Principle: immediately-past Cognition as support |
-| manovijñānadhātu | Mind-Cognition Principle |
-| ṣaṣṭhāśraya | sixth support within the Principle Science |
-| āśraya : āśrita : ālambana | support : supported Cognition : object |
-
-The Bhāṣya controls `anantarātīta` with the more exact expression
-`samanantara-niruddha`: ceased immediately before, with no intervening
-cognition.
+The Bhāṣya tightens *anantarātīta* to *samanantara-niruddha*: ceased
+immediately before, nothing between. That gloss belongs to the commentary.
 
 ## 4. Grammar
 
-The first line uses a relative-correlative identity:
-
 ```text
-ṣaṇṇām vijñānaṃ yat anantara-atītam
-    whichever cognition among the six has just ceased
+ṣaṇṇām vijñānam yat anantara-atītam
+    = tat manaḥ
 
-tat hi manaḥ
-    that same cognition is manas
+ṣaṣṭha-āśraya-prasiddhi-artham
+    dhātavaḥ aṣṭādaśa smṛtāḥ
 ```
 
-`Yat`, `tat`, `anantarātītam`, and `vijñānam` are all nominative neuter
-singular. The genitive `ṣaṇṇām` identifies the six cognitive classes from
-which the immediately past event is drawn.
+*Yat* and *tat* are the same neuter. The genitive *ṣaṇṇām* draws the
+principle from the six already named. The identity is relational. The
+verse does not add a seventh principle.
 
-The identity is relational, not substantial addition. In 1.16, the
-Cognition Base is determined through Mind Essence and the six Cognition
-Principles plus Mind Principle. This verse specifies how Mind Principle
-relates to the six Cognitions:
-
-```text
-the same Cognition
-    as present actuality          → one of the six Cognition Principles
-    as immediately-past support   → Mind Principle (manodhātu)
-```
-
-The Bhāṣya illustrates the grammar of relational predication with two
-analogies. The same person is son relative to one person and father relative
-to another; the same occurrence is fruit relative to its cause and seed
-relative to its effect.
-
-`Ṣaṣṭha-āśraya-prasiddhi-artham` is a purpose compound qualifying why the
-eighteen Principles are taught. The first five sensory Cognitions have five
-sensory Faculty supports. Mental Cognition has no further sensory Faculty;
-its sixth support is the immediately preceding Cognition, designated Manas.
-
-The second line therefore means:
-
-```text
-to establish the sixth support
-    eighteen Principles are taught
-```
-
-It does not claim that all eighteen are mutually distinct substances.
+The purpose compound qualifies the second clause. Eighteen principles
+are taught for the sake of establishing the sixth support. The compound
+does not say that the eighteen are eighteen substances.
 
 ## 5. Translation
 
-### Close syntactic construe
+### Literal Translation
 
-> Whichever Cognition among the six has just ceased immediately before, that is Mind. The eighteen Principles are taught in order to establish the sixth support.
+Whichever principle among the six is immediately past, that indeed is
+mind. The eighteen principles are taught in order to establish the sixth
+support.
 
-### Bhāṣya-informed translation
+### Bhāṣya-informed study translation
 
-> Mind Principle is not a seventh Cognition added to the six. Any one of the six Cognitions, once it has just ceased, is designated Manas in its role as the immediate support for Mind-Cognition. The Science therefore determines eighteen Principles so that Mind-Cognition, like the five sensory Cognitions, has an explicitly established support.
+Mind is not a seventh principle beside the six. Whichever of those six
+has just ceased is called mind, and called the mind-principle, in its
+office as support. The five have supports of their own. The
+mind-cognition principle has no further support of that kind. Eighteen
+are taught so that this sixth support be established.
 
-The second translation makes explicit the Bhāṣya's answer to the objection.
-The support-function does not imply that a successor must actually arise in
-every case; the final cognition of an arhat retains the nature of manas even
-though another necessary cause for a later cognition is absent.
+The support does not require a successor. An arhat's final consciousness
+remains mind. Another cause is wanting, and no next principle arises.
 
-## 6. Organon Reading: Temporal Self-Relation and the Sixth Support
+## 6. Philosophical Translation
 
-The project census remains five Bases, twelve Essences, and eighteen
-Principles. This verse isolates how Mind Principle functions within that
-Principle Science.
+Again, two lines. The first answers 1.16. The second says why the count
+is eighteen.
 
-VAK 1.16 established the Science of Principles: six Cognition Principles
-and Mind Principle. VAK 1.17 determines the latter through temporal
-self-relation. One Cognition is not multiplied into two substances: as
-present actuality it is a Cognition Principle; when just ceased, it is
-Manas, the support-condition for Mind-Cognition.
+The seventh name is not a seventh thing. Whichever of the six has just
+ceased, that is mind. Present, it is one of the six principles. Just
+ceased, it is the support of the next. Same principle, two offices. The
+commentary's pictures are exact: the same person is son to one and
+father to another; the same fruit is seed to another.
 
-```text
-one Cognition c
-    present actuality       → Cognition Principle
-    immediately-past status → Mind Principle (manodhātu)
-                              → support of Mind-Cognition
-```
+The five have a support each. The sixth, the mind-cognition principle,
+has none of that kind. Mind is taught so that the sixth support stand in
+the open. That is why eighteen, and not a reduced substance-count.
 
-This is not a succession of two independent mental entities. The same
-cognitive occurrence is comprehended under distinct principial relations.
-The son/father and fruit/seed analogies make the logical form explicit:
-one relatum can bear different determinations according to its relation,
-without an additional *dravya* being introduced.
+Eighteen here is six supports, six supported, and six that are borne.
+Mind is the sixth support. It is not a sixth eye.
 
-The Kantian-transcendental question is the condition of possibility of
-Mind-Cognition: what must be established as its support? The answer is not
-a sixth sensory faculty but a temporally prior Cognition functioning as
-Mind Principle. This support is a necessary condition within the cognitive
-Science, not by itself a sufficient cause of a successor.
+The last test is quiet, and it belongs in the reading. If mind meant
+"whatever produces the next," an arhat's final consciousness would fail
+the name. It does not fail. The office remains. The next does not arise,
+because another cause is wanting.
 
-The Fichtean moment is the return of Cognition into its own condition:
-what was an act of knowing becomes, upon cessation, the support through
-which further knowing is possible. This is a self-relational determination,
-not an empirical ego or a second substance.
+## 7. Technical Vocabulary
 
-The Hegelian speculative syllogism mediates the Universal, Particular, and
-Singular. The universal Principle Science establishes the functional
-requirement of a sixth support; the particular just-ceased Cognition fills
-that role; the singular result is the determinate Mind-Cognition that may
-follow. The Rule System articulates this inference. The arhat's final
-Cognition tests the inference: Mind Principle remains its status even when
-another required condition is absent and no successor occurs.
+| Sanskrit | Rendering | Note |
+|---|---|---|
+| vijñāna | principle | one of the six; not consciousness |
+| manas | mind | the same principle, just ceased |
+| manodhātu | mind-principle | the office, not a seventh substance |
+| manovijñāna-dhātu | mind-cognition principle | the sixth of the six; the supported |
+| anantarātīta | immediately past | Bhāṣya: *samanantara-niruddha* |
+| āśraya | support | the office mind fills |
+| āśrita | the supported | the six principles |
+| ālambana | the borne | not the support; not *viṣaya* |
+| citta | consciousness | the arhat's final consciousness; not mind |
+| dravyataḥ | by substance | the objection's count, not the eighteen |
+| prasiddhi | establishment | so that the sixth support be known |
 
-## 7. Scientific Determination
-
-Manas is derived without adding a substance:
+## 8. Logical Determination
 
 ```text
-CognitionPrinciple(c, t)
-∧ ImmediatelyPrecedes(c, m)
-    → MindPrincipleRole(c, m)
+1.16   seven names: six principles + mind-principle
+       relation not yet said
 
-MindPrincipleRole(c, m)
-    ↛ ActualSuccessor(m)
+1.17   of those six, whichever has just ceased
+           → mind
+           → mind-principle, as support
 
-MindPrincipleRole(c, m)
-∧ AnotherRequiredCauseAbsent(m)
-    → ¬ActualMindCognition(m)
+       present office     one of the six
+       just-ceased office mind, the sixth support
+
+       five supports      eye and the rest
+       sixth support      mind
+       supported          six principles
+       borne              six
+       6 + 6 + 6 = 18
+
+       objection          17, or 12, by substance
+       reply              eighteen, for the sixth support
+
+       arhat's last consciousness
+           remains mind
+           no successor, another cause wanting
+           support ≠ production
 ```
 
-The Bhāṣya's analogies formalize relational identity:
+The objection's twelve is a substance-count. It is not the twelve
+essences.
 
-```text
-SonRelativeTo(x, parent)
-∧ FatherRelativeTo(x, child)
-    → OnePersonWithTwoRelationalNames(x)
+## 9. Interpretive Note
 
-FruitRelativeTo(y, priorCause)
-∧ SeedRelativeTo(y, laterEffect)
-    → OneItemWithTwoRelationalNames(y)
-```
+The hinge is *yat ... tat*: whichever, that. Interpretation of the
+office, and of the arhat's limit, is in the Bhāṣya.
 
-The Science of Principles has eighteen positions. As the Bhāṣya explains,
-they are articulated as six supports, six supported Cognitions, and six
-Objects; Mind Principle is established as the sixth support:
-
-```text
-six supports + six supported Cognitions + six objects
-    = eighteen Principles
-```
-
-For the first five:
-
-```text
-sensory Faculty
-    → supports corresponding sensory Cognition Principle
-```
-
-For the sixth:
-
-```text
-immediately-past Cognition as Mind Principle
-    → supports Mind-Cognition Principle
-```
-
-Support-status is not sufficient causation:
-
-```text
-MindPrincipleRole(finalArhatCognition, finalMoment)
-∧ AnotherRequiredCauseAbsent(finalMoment)
-    → ¬ActualSuccessor(finalMoment)
-```
-
-Thus capacity to support and actual production of a successor remain
-distinct determinations.
-
-## 8. Interpretive Note
-
-VAK 1.17 answers the question left open in 1.16: how can Mind Principle be
-counted alongside the six Cognition Principles without becoming a seventh
-Cognition? It is one of the same six Cognitions under a different relation.
-When present, it is Cognition; having just ceased, it is Manas as the
-immediate support for subsequent Mind-Cognition:
-
-```text
-vijñāna
-    = Cognition as present actuality
-
-manas
-    = Cognition as immediately-past support
-```
-
-This is the Science of Principles' relational determination, not a change
-in Cognition Base into a second substance. The Bhāṣya's final case
-preserves the distinction between support and result: manas remains the
-sixth support even when the conditions for another cognition are incomplete.
-
-## 9. OWL++ Seed
+## 10. OWL++ Seed
 
 ```ttl
 @prefix vak: <http://127.0.0.1:3000/vak#> .
-@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
-vak:VAK_1_17
-    a vak:Karika ;
-    rdfs:label "VAK 1.17" ;
-    vak:hasTopic vak:ManasAsImmediatelyPastCognition ;
-    vak:belongsTo vak:Dhatunirdesa .
+vak:VAK_1_17 a vak:Karika ;
+    vak:hasTopic vak:MindAsSixthSupport ;
+    vak:belongsTo vak:Dhatunirdesa ;
+    vak:answers vak:VAK_1_16 .
 
-vak:Manas
-    vak:definedAs vak:ImmediatelyPastCognition ;
-    vak:functionsAs vak:SixthCognitiveSupport ;
-    vak:distinctFrom vak:AdditionalMentalSubstance .
+vak:Mind vak:isOneOf vak:SixPrinciples ;
+    vak:when vak:ImmediatelyPast ;
+    vak:functionsAs vak:SixthSupport ;
+    vak:distinctFrom vak:SeventhSubstance .
 
-vak:ImmediatelyPastCognition
-    vak:hasSameDravyaAs vak:PrecedingCognition ;
-    vak:maySupport vak:SubsequentMentalCognition .
+vak:EighteenPrinciples vak:supports 6 ;
+    vak:supported 6 ;
+    vak:borne 6 .
 
-vak:EighteenDhatuSystem
-    vak:hasSupportCount 6 ;
-    vak:hasObjectDomainCount 6 ;
-    vak:hasCognitionDomainCount 6 ;
-    vak:hasArchitecture vak:SixCognitiveTriads .
+vak:MindCognitionPrinciple vak:hasSupport vak:Mind ;
+    vak:hasNoFurtherSenseSupport true .
 
-vak:FinalArhatCognition
-    vak:hasNatureOf vak:Manas ;
-    vak:hasNoSuccessorBecause vak:AnotherRequiredCauseIsAbsent .
+vak:FinalArhatConsciousness vak:remains vak:Mind ;
+    vak:hasSuccessor false ;
+    vak:reason vak:AnotherCauseWanting .
 ```
