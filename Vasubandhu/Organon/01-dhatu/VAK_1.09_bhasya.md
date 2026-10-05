@@ -10,14 +10,14 @@ Literal:
 
 > Form is the five faculties, the five meanings, and *avijñapti*. The clarities
 > of form, beginning with the eye, are supports of the corresponding
-> principle.
+> reason.
 
 Bhāṣya-informed:
 
 > The form-base is the five faculties — eye, ear, nose, tongue, body — the five
 > meanings of those faculties, each its own, and *avijñapti*. The meanings are
 > visible form, sound, odor, taste, and the tangible. The five are clarities
-> of form. In order they support the principle of visible form, of sound, of
+> of form. In order they support the reason of visible form, of sound, of
 > odor, of taste, and of the tangible. *Avijñapti* is named, not defined.
 > The five meanings remain to be indicated.
 
@@ -64,8 +64,8 @@ Word division is editorial. These are normalizations, not a critical text.
 >
 > There, those five meanings, beginning with visible form, have been stated.
 > The clarities of form, beginning with the eye, are supports of the
-> corresponding principle. The five clarities, whose nature is form, that
-> are supports of the principles of visible form, sound, odor, taste, and
+> corresponding reason. The five clarities, whose nature is form, that
+> are supports of the reasons of visible form, sound, odor, taste, and
 > the tangible, are to be known in order as eye, ear, nose, tongue, and
 > body.
 >
@@ -73,10 +73,10 @@ Scripture. As the Blessed One said: “The eye, monk, is an internal essence,
 a clarity of form depending on the four great elements,” and the rest.
 
 > What have been stated, beginning with the eye, are supports of the
-> corresponding principle, clarities of form, beginning with the eye. The
-> meaning is: supports of the eye-principle and the rest. So taken, the
+> corresponding reason, clarities of form, beginning with the eye. The
+> meaning is: supports of the reason of the eye and the rest. So taken, the
 > Prakaraṇa too is in agreement: “What is the eye? A clarity of form that
-> is the support of the eye-principle,” and the rest.
+> is the support of the reason of the eye,” and the rest.
 >
 > The five faculties have been indicated. The five meanings are to be
 > indicated.
@@ -93,7 +93,7 @@ enumeration
     → five faculties, five meanings, avijñapti
 faculties defined
     → clarities of form
-    → supports of the corresponding principle
+    → supports of the corresponding reason
 scripture
     → the eye, an internal essence, depending on the four
 Prakaraṇa
@@ -111,14 +111,15 @@ The faculties are five, named. The meanings are five, each its own, and the
 commentary calls them conditions. *Avijñapti* is singular, and joined by
 *eva ca*. Eleven. That is the whole of the form-base.
 
-The principle is not in the count. *Tadvijñānāśrayāḥ* places it as what
-the clarity supports. Eye-principle, and the rest. Not a twelfth member
-of form.
+The reason is not in the count. *Tadvijñānāśrayāḥ* places it as what
+the clarity supports. The reason of the eye, and the rest. Not a twelfth
+member of form. Principle is not this word. Principle is Dhātu, and Dhātu
+is not enumerated.
 
 ## 6. Clarity and Support
 
 *Rūpaprasāda* is what the five are. A clarity of form, not a thing on the
-desk. In order: eye, ear, nose, tongue, body, supporting the principle of
+desk. In order: eye, ear, nose, tongue, body, supporting the reason of
 visible form, of sound, of odor, of taste, and of the tangible.
 
 The scripture calls the eye an internal essence, a clarity of form
@@ -126,7 +127,7 @@ depending on the four great elements. The essence is cited. It is not
 enumerated. The dependence is *upādāya*. Not appropriation.
 
 The other reading is the Prakaraṇa's: the eye is the clarity of form that
-supports the eye-principle. The commentary says the treatise agrees, so
+supports the reason of the eye. The commentary says the treatise agrees, so
 taken. Both readings keep the support. Neither adds a member.
 
 ## 7. Decisions for the Kārikā
@@ -134,8 +135,9 @@ taken. Both readings keep the support. Neither adds a member.
 1. Form is five faculties, five meanings, and *avijñapti*. Eleven.
 2. The meanings are the conditions of those faculties, each its own.
 3. The faculties are clarities of form, supports of the corresponding
-   principle.
-4. The principle is not a member of the form-base.
+   reason.
+4. The reason is not a member of the form-base. Principle is Dhātu, and
+   is not this verse's word.
 5. *Upādāya* is dependence on the four great elements, not 1.08.
 6. The five meanings are indicated as names, and still to be explained.
 
@@ -144,7 +146,7 @@ taken. Both readings keep the support. Neither adds a member.
 The base starts here, inside a division already made. Pure and Impure,
 Conditioned and Unconditioned, are the opening of the system. Form is the
 first collection caught in that division. Eleven members, and the
-principle not among them. The faculty supports the principle. It does not
+reason not among them. The faculty supports the reason. It does not
 become it.
 
 Faculty and meaning are the two sides. The commentary's condition is the
@@ -156,7 +158,12 @@ are named, and the support is already the point. Where a later commentary
 has an organized being in view and Faculty has gone flat, organ may be
 used once, and marked as commentary.
 
-Essences and principles complete what a collection cannot finish. The eye
+*Vijñāna* on this page is Reason: higher cognition, Prajñā as a Particular,
+explicit in a human language. Principle is the third dimension, Dhātu.
+A system of principles is that dimension, not a second name for the reason.
+The technical reference is left as it stands.
+
+Essences and Principles complete what a collection cannot finish. The eye
 is already called an internal essence. That citation is the door, not the
 enumeration. The system is the triad. This verse is the first subsystem.
 
@@ -165,8 +172,8 @@ The reading is once, here. 1.10 is not opened.
 ## 9. Review Status
 
 Corrected reading of the ninth Bhāṣya study. Faculty is the running word.
-Organ is not used. The unit through the meanings still to be indicated
-checked against the running Sanskrit.
+Organ is not used. Reason is the word for *vijñāna*. Principle is reserved
+for Dhātu. The unit through the meanings still to be indicated checked
+against the running Sanskrit.
 
-Cognition withdrawn. Principle is the chapter word. Meaning stays lowercase.
-The next study is not opened.
+The technical reference was not revised. The next study is not opened.
