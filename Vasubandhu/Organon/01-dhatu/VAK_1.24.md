@@ -1,4 +1,4 @@
-# VAK_1.24 — The Names Form and Essence in the Essential Relation Design
+# VAK_1.24 — Form and Dharma
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -12,227 +12,138 @@
 >
 > ekam āyatanaṃ rūpam ekaṃ dharmākhyam ucyate // 1.24 //
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-**Padaccheda**
-
-```text
-viśeṣaṇa-artham | prādhānyāt | bahu-dharma-agra-saṃgrahāt |
-ekam | āyatanam | rūpam | ekam | dharma-ākhyam | ucyate
-```
-
-**Compound and sandhi**
-
-| Verse form | Analysis |
-|---|---|
-| viśeṣaṇārtham | viśeṣaṇa + artham |
-| prādhānyād bahu- | prādhānyāt + bahu-; external sandhi voices `t` before `b` |
-| bahudharmāgrasaṃgrahāt | bahu-dharma-agra-saṃgrahāt |
-| dharmākhyam | dharma-ākhyam |
-
-The Bhāṣya opens the last compound into two gathered contents:
-
-```text
-bahūnāṃ dharmāṇāṃ saṃgrahaḥ
-    the gathering of many essences
-
-agrasya nirvāṇa-dharmasya saṃgrahaḥ
-    the gathering of the highest Essence, nirvāṇa
-```
-
-“Many” and “highest” are separate determinations: the verse does not call
-all the gathered essences highest.
-
-| Form | Morphology | Force in the design |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
-| viśeṣaṇārtham | accusative neuter singular used adverbially | for the sake of distinction |
-| prādhānyāt | ablative singular | because of primacy or prominence |
-| bahu-dharma-agra-saṃgrahāt | ablative singular compound | because many essences and the highest Essence are gathered |
-| ekam āyatanam | nominative neuter singular | one Essential Relation |
-| rūpam | nominative neuter singular | Form; the Essential Relation of Form |
-| ekam dharmākhyam | nominative neuter singular | one [Essential Relation] named Essence |
-| ucyate | third-person singular present passive | is called |
+| viśeṣaṇārtham | viśeṣaṇa + artham; accusative neuter singular, adverbial | for the sake of distinction; both names |
+| prādhānyāt | ablative singular | because of primacy; the name form |
+| bahudharmāgrasaṃgrahāt | bahu-dharma-agra-saṃgrahāt; ablative singular | because many dharmas, and the highest, are gathered; the name dharma |
+| ekam āyatanam | nominative neuter singular | one essence |
+| rūpam | nominative neuter singular | called form |
+| ekam dharmākhyam | dharma-ākhyam; nominative neuter singular | one called dharma |
+| ucyate | third person singular passive | is called; one verb, both names |
 
-Project terms used here: `skandha` is **Base**, `āyatana` is **Essential
-Relation**, `rūpa` is **Form**, and `dharma` is **Essence**.
+The sandhi `prādhānyād` voices `t` before `b`. The compound is two gatherings, not one: many dharmas, and the highest dharma. The verse does not call the many highest.
 
 ## 4. Grammar
 
-The verse sets up two naming questions:
-
 ```text
-ten Essential Relations belong to the Form Base
-    but one is named Form
+viśeṣaṇa-artham
+    both names
 
-all things have Essence-nature
-    but one Essential Relation is named Essence
+prādhānyāt
+    the essence called form
+
+bahu-dharma-agra-saṃgrahāt
+    the essence called dharma
+
+ekam āyatanam rūpam ucyate
+ekam dharma-ākhyam ucyate
 ```
 
-`Viśeṣaṇārtham` gives the shared design purpose: each position must remain
-distinct within the Essential Relation arrangement. The Bhāṣya says the
-ten are to be understood individually, each arranged as object or capacity
-(`viṣaya-viṣayin`), not collapsed into one collective position.
-
-The Bhāṣya assigns primacy (`prādhānya`) to the Essential Relation of Form.
-The other nine material Essential Relations already have specific names:
-eye, ear, nose, tongue, body, sound, smell, taste, and tangible Form. The
-remaining visible Essential Relation is therefore named Form. It is also
-primary in ordinary experience: it resists contact, can be seen and pointed
-out as “this, here, there,” and is commonly called Form.
-
-The Essential Relation of Essence is named for what it gathers: many
-essences and nirvāṇa, the highest Essence. The Bhāṣya distributes the
-reasons precisely: distinction applies to both names; primacy explains
-Form; gathering explains Essence.
-
-The single `ucyate` carries both designations: one Essential Relation is
-called Form, and one is called Essence.
+One verb carries both. *Ekam* is repeated. Two essences, not one essence under two titles.
 
 ## 5. Translation
 
 ### Literal Translation
 
-> For distinction, because of primacy, and because it gathers many essences
-> and the highest Essence, one Essential Relation is called Form and one
-> is called Essence.
+For the sake of distinction, because of primacy, and because many dharmas and the highest are gathered, one essence is called form, and one is called dharma.
 
 ### Bhāṣya-informed study translation
 
-> Within the Form Base, all ten Essential Relations keep their distinct
-> positions. Nine bear specific names; the remaining visible relation is
-> called Form, both to distinguish it and because Form is primary in
-> ordinary perception: it resists contact, is visible, and can be pointed
-> out as “this, here, there.” Another Essential Relation is called Essence
-> because it gathers many essences and includes nirvāṇa, the highest
-> Essence.
+Why, among the ten essences included in the form-base, is one called the form-essence? And why, though all are dharma by own-nature, is one called the dharma-essence? For distinction. So that each of the ten is known as an essence, arranged as condition and what has the condition, not as one collective. Eye and the rest already have their names. What is form, and is not called eye or by those other names, is known as the form-essence. No further name is given.
 
-The first rendering keeps the verse's compressed structure. The second
-makes the allocation of its reasons visible.
+Or the form-essence is named from primacy. It resists: contact with the hand and the rest makes it form. It can be shown: this, here, there. In the world too, that is what is recognized as form, not the others.
+
+For distinction, one dharma-essence is named, not all. Many dharmas, beginning with feeling, are gathered there, so the general name dharma is used. The highest dharma, nirvāṇa, is gathered there, and not in the others.
+
+Others say the one is called the form-essence because it is gross by its twentyfold variety, and because it is the range of three eyes: the fleshly, the divine, and the noble eye of wisdom.
 
 ## 6. Philosophical Translation
 
-The Base and Essential Relation are different parts of the design. The
-Form Base gathers ten material Essential Relations; it is not itself the
-Essential Relation of Form. Each relation has its own position. Form names
-the visible relation because it is primary and outwardly evident. Essence
-names a different relation because that relation gathers a broad range of
-essences, including nirvāṇa.
+For distinction, one essence is called form, and one is called dharma.
 
-**Organon reading**
+The form-base holds ten essences. Nine already have names: eye, ear, nose, tongue, body, sound, odor, taste, tangible. The one that remains is called form. Primacy is the other reason. It resists contact. It can be shown. The world already calls it form.
 
-> The Base is the gathered whole; the Essential Relation articulates the
-> object's field and the capacity that takes it. The Essential Relation of
-> Form is determined by what stands visibly before cognition. The Essential
-> Relation of Essence is determined by the range it gathers. Their unity is
-> not sameness: Form is distinguished by primacy, while Essence is
-> distinguished by scope.
+The other essence is called dharma because of what it gathers. Feeling, reflection, and formations are gathered there. Nirvāṇa is gathered there, and not in the others. The many are not the highest. The highest is not the many.
 
-This is a reading of the design, not additional wording in the kārikā. The
-Essential Relation is a relational determination, not the completed
-Concept or whole machine. Verse 1.24 specifies two names within this layer.
+Form and dharma are the two names. The ten are not one essence called form. All dharmas are not one essence called dharma.
 
 ## 7. Technical Vocabulary
 
-| Sanskrit | Project rendering | Determination |
+| Sanskrit | Rendering | Note |
 |---|---|---|
-| skandha | Base | gathered whole; here, the Form Base |
-| āyatana | Essential Relation | relation of capacity and field |
-| rūpa | Form | the visible determination named by the Essential Relation of Form |
-| dharma | Essence | the designation of the Essential Relation that gathers many essences |
-| viśeṣaṇa | distinction | preserving each relation's individual position |
-| viṣaya | object | object-side of the Essential Relation |
-| viṣayin | capacity / that which has an object | correlated capacity-side |
-| prādhānya | primacy; prominence | the reason associated with Form |
-| rūpāyatana | Essential Relation of Form | the visible material relation |
-| sapratigha | resistant; subject to contact | one aspect of Form's primacy in the Bhāṣya |
-| sanidarśana | visible; indicable | can be shown as “this, here, there” |
-| dharmāyatana | Essential Relation of Essence | gathers many essences and nirvāṇa |
-| saṃgraha | gathering | the reason associated with Essence |
-| agra-dharma | highest Essence | nirvāṇa in the Bhāṣya's explanation |
+| āyatana | essence | one called form; one called dharma |
+| rūpa | form | the name, and the form-base that holds the ten |
+| dharma | dharma | the name of the gathering; not a second word for essence |
+| viśeṣaṇārtham | for distinction | both names |
+| prādhānya | primacy | the name form |
+| bahu-dharma-saṃgraha | gathering of many dharmas | beginning with feeling |
+| agra | the highest | nirvāṇa; not a name for the many |
+| rūpa-skandha | form-base | includes the ten; is not the one essence called form |
+| viṣaya-viṣayin | condition and what has the condition | how the ten are arranged |
+| sapratigha | resistant | primacy |
+| sanidarśana | able to be shown | primacy |
+| vedanā | feeling | first of the many gathered |
+| saṃjñā | reflection | gathered under the dharma name; not manas |
+| saṃskāra | formation | gathered under the dharma name |
+| nirvāṇa | nirvāṇa | the highest dharma |
 
 ## 8. Logical Determination
 
-The design distinguishes the Base from its Essential Relations, and shared
-membership from a specific name:
-
 ```text
-MemberOf(x, FormBase)
-    ↛ Named(x, Form)
+rūpa : dharma
+    two essences
+    one verb
+    distinction belongs to both
 
-HasEssenceNature(x)
-    ↛ Named(x, Essence)
+form-base
+    ten essences
+    nine already named
+    one called form
+        primacy
+        resists
+        can be shown
+        the world already says form
+    the base is not that one essence
+
+dharma-essence
+    not every dharma
+    gathers the many, beginning with feeling
+        feeling, reflection, formations
+    gathers the highest
+        nirvāṇa
+        not in the others
+    the many are not the highest
+
+others
+    twentyfold
+    three eyes
+    not the verse
+
+1.25 not opened
 ```
-
-The two names are determined differently:
-
-```text
-EssentialRelationOfForm
-    → one distinct position within the Form Base
-    → named through the primacy of visible Form
-
-EssentialRelationOfEssence
-    → one distinct position in the arrangement
-    → gathers many essences
-    → includes Nirvana, the highest Essence
-```
-
-The Bhāṣya also reports an alternative explanation from others:
-
-```text
-EssentialRelationOfForm
-    → gross through its twentyfold variety
-    → field of the fleshly, divine, and noble wisdom-eyes
-```
-
-This remains an attributed alternative, not part of the preceding account.
 
 ## 9. Interpretive Note
 
-VAK 1.23 orders faculties and their corresponding Essential Relations and
-Cognitions. VAK 1.24 then asks how the design names its positions. The answer
-prevents two machine-design errors: treating the Form Base as if it were
-one Essential Relation of Form, and treating the Essential Relation of
-Essence as if it were simply every thing with Essence-nature.
-
-The Essential Relation of Form is singled out by position and primacy. The
-Essential Relation of Essence is singled out by the range it gathers,
-including nirvāṇa. These are different design principles: one identifies
-a prominent member; the other identifies a comprehensive field. The
-Essential Relation of Essence is not an accidental remainder after the
-material relations have been named.
-
-This is a local specification of the machine's Essential Relation layer,
-not its complete architecture. It tests whether the design can preserve
-individual positions while also gathering a manifold under one name.
+The hinge is the repeated *ekam*. Form and dharma are a dyad of names, not two words for the essence arrangement. The three that stand between the form-base and the principle-base are what the dharma-essence gathers. They remain bases. There is no sixth base called dharma.
 
 ## 10. OWL++ Seed
 
 ```ttl
 @prefix vak: <http://127.0.0.1:3000/vak#> .
-@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
-vak:VAK_1_24
-    a vak:Karika ;
-    rdfs:label "VAK 1.24" ;
-    vak:hasTopic vak:FormAndEssenceEssentialRelationDesign ;
+vak:VAK_1_24 a vak:Karika ;
+    vak:hasTopic vak:RupaDharma ;
     vak:belongsTo vak:Dhatunirdesa .
 
-vak:EssentialRelationOfForm
-    a vak:EssentialRelation ;
+vak:FormEssence vak:namedBy vak:Distinction, vak:Primacy ;
     vak:memberOf vak:FormBase ;
-    vak:namedThrough vak:Distinction , vak:Primacy ;
-    vak:hasCharacteristic vak:Resistance , vak:Visibility .
+    vak:notIdenticalTo vak:FormBase .
 
-vak:EssentialRelationOfEssence
-    a vak:EssentialRelation ;
-    vak:namedThrough vak:Distinction , vak:InclusiveGathering ;
-    vak:gathers vak:ManyEssences , vak:Nirvana .
+vak:DharmaEssence vak:namedBy vak:Distinction, vak:Gathering ;
+    vak:gathers vak:Feeling, vak:Reflection, vak:Formations, vak:Nirvana .
 
-vak:Nirvana
-    a vak:HighestEssence ;
-    vak:gatheredIn vak:EssentialRelationOfEssence .
-
-vak:EssentialRelation
-    vak:hasRelation vak:Capacity , vak:Field ;
-    vak:distinctFrom vak:Base .
+vak:Rupa vak:dyad vak:Dharma .
 ```
