@@ -31,12 +31,12 @@ dhātavo 'ṣṭādaśa          → dhātavaḥ aṣṭādaśa
 | yat | relative pronoun, nominative neuter singular | whichever cognition |
 | hi | explanatory/emphatic particle | indeed, for |
 | tat | demonstrative pronoun, nominative neuter singular | that same cognition |
-| manaḥ | nominative neuter singular | manas, mind-principle in its support-function |
+| manaḥ | nominative neuter singular | Manas / Mind Principle in its support-function |
 | ṣaṣṭha | ordinal in compound | sixth |
 | āśraya | masculine noun in compound | support, conditioning basis |
 | prasiddhi | feminine noun in compound | establishment, explicit recognition |
 | artham | accusative neuter singular used adverbially | for the purpose of |
-| dhātavaḥ | nominative masculine plural | principles |
+| dhātavaḥ | nominative masculine plural | Principles in the project terminology |
 | aṣṭādaśa | numeral | eighteen |
 | smṛtāḥ | nominative masculine plural past passive participle | taught, transmitted, established in the doctrine |
 | manas | nominative neuter singular | mind; here the same Cognition under its immediately-past support-relation |
@@ -124,6 +124,10 @@ though another necessary cause for a later cognition is absent.
 
 ## 6. Organon Reading: Temporal Self-Relation and the Sixth Support
 
+The project census remains five Bases, twelve Essences, and eighteen
+Principles. This verse isolates how Mind Principle functions within that
+Principle Science.
+
 VAK 1.16 established the Science of Principles: six Cognition Principles
 and Mind Principle. VAK 1.17 determines the latter through temporal
 self-relation. One Cognition is not multiplied into two substances: as
@@ -140,7 +144,7 @@ one Cognition c
 This is not a succession of two independent mental entities. The same
 cognitive occurrence is comprehended under distinct principial relations.
 The son/father and fruit/seed analogies make the logical form explicit:
-one relata can bear different determinations according to its relation,
+one relatum can bear different determinations according to its relation,
 without an additional *dravya* being introduced.
 
 The Kantian-transcendental question is the condition of possibility of
@@ -167,16 +171,16 @@ another required condition is absent and no successor occurs.
 Manas is derived without adding a substance:
 
 ```text
-Vijnana(c)
-∧ HasJustCeased(c)
-    → HasStatusOf(c, Manas)
+CognitionPrinciple(c, t)
+∧ ImmediatelyPrecedes(c, m)
+    → MindPrincipleRole(c, m)
 
-HasStatusOf(c, Manas)
-    ↛ HasActualSuccessor(c)
+MindPrincipleRole(c, m)
+    ↛ ActualSuccessor(m)
 
-Vijnana(c)
-∧ Manas(c)
-    ↛ TwoDistinctDravyas(c)
+MindPrincipleRole(c, m)
+∧ AnotherRequiredCauseAbsent(m)
+    → ¬ActualMindCognition(m)
 ```
 
 The Bhāṣya's analogies formalize relational identity:
@@ -193,7 +197,7 @@ FruitRelativeTo(y, priorCause)
 
 The Science of Principles has eighteen positions. As the Bhāṣya explains,
 they are articulated as six supports, six supported Cognitions, and six
-objects; Mind Principle establishes the sixth support:
+Objects; Mind Principle is established as the sixth support:
 
 ```text
 six supports + six supported Cognitions + six objects
@@ -217,9 +221,9 @@ immediately-past Cognition as Mind Principle
 Support-status is not sufficient causation:
 
 ```text
-HasNatureOfManas(finalArhatCognition)
-∧ MissingAnotherRequiredCause
-    → NoSubsequentCognition
+MindPrincipleRole(finalArhatCognition, finalMoment)
+∧ AnotherRequiredCauseAbsent(finalMoment)
+    → ¬ActualSuccessor(finalMoment)
 ```
 
 Thus capacity to support and actual production of a successor remain

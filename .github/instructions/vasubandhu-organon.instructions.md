@@ -102,6 +102,14 @@ and Sāṃkhya–Yoga correspondences—belongs in its own clearly marked sectio
 Do not let reconstruction leak into the close translation or make the
 Organon reading sound like literal Bhāṣya doctrine.
 
+For the Organon account of *vijñāna*, use Kantian Transcendental Philosophy
+as the project-level frame for Principle Science; do not identify
+*vijñāna* lexically with consciousness (*citta*) or attribute the synthesis
+historically to Vasubandhu. Keep advanced philosophical interpretation in
+the paired Bhāṣya's Organon section. A kārikā study may retain a concise
+Interpretive Note and state the defined `<Base, Essence, Principle>`
+projections without expanding the philosophical synthesis.
+
 Preserve who is speaking. Attribute positions to the Vaibhāṣikas, Vasubandhu,
 other teachers, or an unnamed opponent only when the text does so. In
 extended Dharma Talks, do not flatten a sequence of objections and replies

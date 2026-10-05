@@ -7,12 +7,12 @@
 > ṣaṣṭhāśrayaprasiddhyarthaṃ dhātavo 'ṣṭādaśa smṛtāḥ // 1.17 //
 
 > Whatever cognition among the six is immediately past, that is manas.
-> Eighteen principles are taught in order to establish the sixth support.
+> Eighteen Principles are taught in order to establish the sixth support.
 
-The Bhāṣya answers the apparent difficulty left by 1.16: the six cognition
-classes already constitute the cognition-base, yet mind-principle is counted
+The Bhāṣya answers the apparent difficulty left by 1.16: the six Cognition
+classes already constitute Cognition Base, yet Mind Principle is counted
 alongside them. It explains the temporal and relational determination of
-manas, preserves the eighteenfold principle arrangement, and tests the
+Manas, preserves the Science of eighteen Principles, and tests the
 account against an arhat's final mental occurrence.
 
 ## 2. Continuous Sanskrit
@@ -37,8 +37,8 @@ account against an arhat's final mental occurrence.
 
 The natural unit runs from the objection at printed location 011.19 through
 the reply concerning an arhat's final citta at 012.03. The following account
-of what the aggregates, aggregates of appropriation, āyatanas, and dhātus
-include introduces the next study.
+of what the Bases, appropriated Bases, Essences, and Principles include
+introduces the next study.
 
 Word division and punctuation are editorial. Quotation marks standing for
 avagrahas have been normalized. The running source's `kiṃ narhi`,
@@ -51,32 +51,32 @@ according to the surrounding syntax and the local research report.
 Two less regular forms remain visible. The running source's `ucyeta` is
 retained, with its optative sense “would be called,” where the research
 report has `ucyate`. The compact `cakṣurdhātvāyatanādayaḥ` is also
-retained; the translation understands it as naming the five supports
-beginning with the eye in the dhātu/āyatana arrangements. This is a
-normalized reading rather than a critical edition.
+retained; the translation understands it as naming the five sensory
+Faculties, beginning with the eye. This is a normalized reading rather than
+a critical edition.
 
 ## 3. Continuous Conventional Translation
 
-> But it was said that the six groups of vijñāna are the vijñāna-base.
-> What, then, is this manodhātu different from them? It is certainly nothing
-> different. What is it, then? Whatever cognition among those same six is
-> immediately past, that is manas. Whatever cognition has ceased immediately
-> before would be called manodhātu. It is as when the same son becomes the
-> father of another, or the same fruit is the seed of another.
+> But it was said that the six groups of Cognition constitute Cognition Base.
+> What, then, is this Mind Principle different from them? It is certainly
+> nothing different. What is it, then? Whatever Cognition among those same
+> six is immediately past, that is Manas. Whatever Cognition has ceased
+> immediately before would be called Mind Principle. It is as when the same
+> son becomes the father of another, or the same fruit is the seed of another.
 >
-> In that case, in terms of substance there would be seventeen principles,
-> or twelve, because the six cognition-principles and mind-principle are
-> included in one another. Why are eighteen established? Even so, eighteen
-> principles are taught in order to establish the sixth support. The five
-> cognition-principles have five supports, beginning with the eye-principle
-> or eye-base. The sixth, the mental-cognition principle, has no other
-> support. Therefore mind-principle is taught to establish its support. Thus
-> there are eighteen principles through the arrangement of six supports,
-> six dependents, and six objects.
+> In that case, counted as substances, there would be seventeen Principles,
+> or twelve, because the six Cognition Principles and Mind Principle are
+> mutually included. Why, then, are eighteen Principles established? Even
+> so, eighteen Principles are taught to establish the sixth support. The
+> five sensory Cognition Principles have five corresponding sensory
+> Faculties as supports. The sixth, Mind-Cognition Principle, has no further
+> sensory support. Therefore Mind Principle is taught to establish
+> its support. Thus the Science of Principles determines eighteen positions
+> through six supports, six supported Cognitions, and six objects.
 >
-> Then an arhat's final citta would not be manas , for there is no cognition
+> Then an arhat's final citta would not be Manas, for there is no Cognition
 > with respect to which it would be immediately past. No: it too remains
-> established in the status of manas. A subsequent cognition does not arise
+> established in the status of Manas. A subsequent Cognition does not arise
 > because another cause is deficient.
 
 ## 4. Movement and Voices of the Commentary
@@ -86,9 +86,9 @@ of a cognitive series without a successor:
 
 | Question or objection | Reply |
 |---|---|
-| Is manodhātu different from the six groups? | It is those same cognitions when immediately past. |
-| Why count eighteen if the cognitive entries overlap? | The sixth support must be explicitly established. |
-| Does an arhat's final citta then fail to be manas? | Its status remains; another causal deficiency prevents a successor. |
+| Is Mind Principle different from the six Cognitions? | It is one of those same Cognitions under the immediately-past relation. |
+| Why establish eighteen Principles when contents overlap? | The sixth support must be scientifically determined. |
+| Does an arhat's final citta fail to be Manas? | Its support-status remains; another causal condition is deficient. |
 
 The questions and answers are marked by their argumentative forms, including
 `nanu`, `evaṃ tarhi`, and `na`. These distinguish dialectical voices without
@@ -96,58 +96,59 @@ identifying an independent historical speaker. No explicit school label
 occurs in the unit.
 
 The analogies explain how identity can be retained across different
-relations. The final objection then checks whether the assigned relation
+relations. The final objection tests whether support-status logically
 requires an actually arising successor in every instance.
 
-## 5. Immediately Past Cognition as Manas
+## 5. The Immediately-Past Cognition as Mind Principle
 
-The genitive `ṣaṇṇām` selects from the six cognitions already stated.
-`Teṣām eva`, “of those very same,” excludes an additional kind of cognition
-as the answer. `Yat ... tat` correlates the immediately past cognition
-with the designation manas.
+The genitive `ṣaṇṇām` selects from the six Cognition Principles already
+stated. `Teṣām eva`, “of those very same,” excludes an additional Cognition
+as the answer. `Yat ... tat` correlates the immediately-past Cognition
+with the designation Manas / Mind Principle.
 
 `Anantarātīta` receives the more explicit gloss
 `samanantaraniruddha`, ceased immediately before. The local determination
 is therefore more exact than merely “past cognition.” It concerns immediate
 precedence, not the total accumulation of remembered experiences.
 
-The son/father analogy preserves the identity of someone described through
-different relations. The fruit/seed analogy similarly changes the relation
-in which one thing is named. The examples explain the possibility of a
-different designation without an additional item. They do not by themselves
-establish a complete theory of personal or material persistence.
+The son/father analogy preserves the identity of one relatum under distinct
+relations; the fruit/seed analogy likewise shifts one item between causal
+relations. These examples articulate relational predication without
+positing an additional *dravya*. They do not by themselves establish a
+complete theory of personal or material persistence.
 
-In the present account, a cognition's role as apprehension and its designation
-as immediately preceding manas can thus be distinguished without adding
-another cognitive substance. This is a specific statement about manodhātu
-and the six cognitions, rather than a blanket assertion about the substantial
-status of every category.
+One Cognition's present act and its immediately-past support-function are
+distinct determinations without being two cognitive substances. This
+argument is specifically about Mind Principle and the six Cognitions, not
+a blanket claim about the substantial status of every category.
 
 ## 6. Why Eighteen Rather Than Seventeen or Twelve?
 
-The objection introduces `dravyataḥ`, with respect to substance, and points
-to `itaretarāntarbhāva`, mutual inclusion. The two proposed counts express
-the problem in different ways: removing a separately counted manodhātu from
-eighteen yields seventeen; collecting the six cognition-principles under
-mind-principle yields twelve. These arithmetic explanations make explicit
-the overlap named by the prose, rather than identifying two new systems
-endorsed by the reply.
+The objection introduces `dravyataḥ`, counting by substance, and points to
+`itaretarāntarbhāva`, mutual inclusion. Its hypothetical reductions—seventeen
+or twelve Principles—test whether relationally overlapping contents warrant
+separate substantial counts. These are proposals in the objection, not
+replacements for the established Science of eighteen Principles. In
+particular, the objection's hypothetical twelve is a substance-count, not
+the project's census of twelve Essences. The project census remains five
+Bases, twelve Essences, and eighteen Principles; the objection tests a
+different question, namely how many distinct substances are counted.
 
-The answer changes the criterion of the count to the establishment of the
-sixth support. `Ṣaṣṭhāśrayaprasiddhyartham` states its purpose. The first
-five cognition-principles already have the five sensory supports. For the
-sixth, mental-cognition principle, mind-principle supplies the support that
-must be specified in the arrangement. This continues 1.16's distinction:
-the cognition-base is articulated as six cognition-principles plus
-mind-principle, and 1.17 explains why the latter is not a seventh cognition.
+The reply determines the system functionally: `ṣaṣṭhāśrayaprasiddhyartham`
+states that the Science establishes the sixth support. The first five
+Cognition Principles already have five sensory Faculty supports. The sixth,
+Mind-Cognition Principle, has no further sensory Faculty; Mind Principle
+supplies its support-condition. This continues 1.16's Science of Principles:
+Cognition Base is determined through six Cognition Principles and Mind
+Principle, and 1.17 shows why the latter is not a seventh Cognition.
 
 The concluding compound distributes the structure into three sixes:
 
 | Relation | Sixfold series |
 |---|---|
-| `āśraya`, support | five sensory faculties and manas |
-| `āśrita`, dependent | six cognitions |
-| `ālambana`, object | five sensory objects and dharma as object |
+| `āśraya`, support | five sensory Faculties and Mind Principle |
+| `āśrita`, supported | six Cognitions |
+| `ālambana`, object | five sensory Objects and Dharma as Object |
 
 The last column expands the structural summary using the preceding
 classifications. The five sensory supports retain the material nature
@@ -155,78 +156,99 @@ established in 1.09; they are not called gross visible organs here.
 Manas fills the sixth support-position through the cognitive determination
 just explained.
 
-The eighteenfold principle arrangement therefore preserves differences of
-role even where the relevant contents overlap. Support, dependent cognition,
-and object remain distinguishable relations. `Ālambana` should not be
+The eighteen-Principle Science preserves differences of role even where the
+relevant contents overlap. Support, supported Cognition, and Object remain
+distinguishable relations. `Ālambana` should not be
 merged with `āśraya` merely because both can receive English expressions
 involving “support.”
 
 ## 7. An Arhat's Final Citta and an Unproduced Successor
 
-The last objection tests the definition against `caramaṃ cittam`, the final
-citta of an arhat. If immediate precedence were established only by an
-actual subsequent cognition, this final occurrence would fail to be manas.
-The reply denies that consequence.
+The last objection tests the definition against `caramaṃ cittam`, an arhat's
+final citta. If Mind Principle required an actually arising subsequent
+Cognition, this final occurrence would fail to qualify as Manas. The reply
+denies that consequence.
 
 `Manobhāvenāvasthitatvāt` gives the reason: it remains established in the
-status or nature of manas. `Anyakāraṇavaikalyāt` explains the missing
+status of Manas. `Anyakāraṇavaikalyāt` explains the missing
 successor through deficiency of another cause. That other cause is not
 specified within the unit and should not be silently supplied from a fuller
 account of the arhat's cessation.
 
-The distinction is between retaining a causal classification and producing
-an actual effect under complete conditions. The presence of this support
-is not asserted to guarantee the arising of another cognition. Its status
-can remain even where the further conditions of production do not obtain.
+The distinction is between retaining the principial status of a support and
+producing an actual effect under complete conditions. The presence of this
+support is not asserted to guarantee another Cognition. Its status remains
+even where further conditions of production do not obtain.
 
-This qualification must accompany the earlier account of succession. A
-formula saying “manas is whatever actually produces the next cognition”
-would fail the commentary's own final test. The definition and the limiting
-case together determine how the support designation applies.
+This qualification must accompany the earlier account of succession. A formula saying “Manas is whatever actually produces the next Cognition”
+would fail the commentary's own final test. Definition and limiting case
+together determine the scope of the support-relation.
 
 ## 8. The Bhāṣya's Decisions for the Kārikā
 
-1. Mind-principle is not a cognition additional to the six; it is a
-   determination of those same cognitions.
+1. Mind Principle is not a Cognition additional to the six; it is a
+   determination of one of those same Cognitions.
 2. “Immediately past” is explained as immediately ceased, preserving the
    precise temporal relation.
 3. The two analogies illustrate the same item receiving different relational
    designations.
-4. Eighteen principles are retained to establish six supports, six
-   dependents, and six objects, despite overlap at the level invoked by
-   `dravyataḥ`.
-5. Mind-principle supplies the explicitly stated support of
-   mental-cognition principle.
-6. An arhat's final citta remains manas even without a successor; the
+4. The eighteen-Principle Science establishes six supports, six supported
+   Cognitions, and six Objects, despite the overlap invoked by `dravyataḥ`.
+5. Mind Principle supplies the explicitly stated support of
+   Mind-Cognition Principle.
+6. An arhat's final citta remains Manas even without a successor; the
    commentary attributes non-arising to another causal deficiency.
 
-## 9. Philosophical and Organon Study
+## 9. Organon Reading: Transcendental Support and Speculative Mediation
 
-Read alongside 1.16, the passage determines the principle-moment of the
-base / essence / principle machine. The cognition-base is mind-essence in
-the essence arrangement and six cognition-principles plus mind-principle in
-the principle arrangement. VAK 1.17 explains this last placement: the same
-cognition is a cognition-principle as present apprehension and
-mind-principle as immediately past support. The shift is relational, not
-the addition of another cognitive substance.
+Read with 1.16, this passage determines the temporal function of the
+Science of Principles. The same Cognition is present actuality as one of
+the six Cognition Principles; upon immediately ceasing, that Cognition is
+determined as Manas / Mind Principle, the support-condition for
+Mind-Cognition. The transition is a change of relation, not the
+production of another *dravya*.
 
-The eighteen principles preserve the distinctions needed to articulate
-support, dependent cognition, and object, even where their contents overlap.
-This is the verse's principial classification, not a flat list of
-independent substances. The exact temporal qualification and the final
-arhat case constrain the reconstruction: support-status remains even when
-another required cause for a successor is absent.
+```text
+one Cognition (vijñāna)
+    present actuality       → Cognition Principle
+    immediately-past status → Mind Principle (manodhātu)
+                              → support of Mind-Cognition Principle
+```
 
-The arhat case adds an equally necessary qualification: a defined role is
-not identical with its actual exercise in every instance. Understanding a
-condition requires knowing both what it contributes and what other
-conditions are needed for an effect. The commentary states that distinction
-without specifying the missing cause in this unit.
+The Kantian-transcendental determination concerns the condition of
+possibility of Mind-Cognition. Mind Principle is its formally established
+support, not an extra sensory Faculty. But the arhat case imposes the
+critical distinction between a necessary condition and a sufficient
+condition: support-status persists although another causal condition is
+absent and no successor is produced.
 
-The Organon can investigate cognitive mediation from this relation without
-claiming that the Bhāṣya itself presents a complete theory of learning or
-of prajñā. Its stated result remains the determination of manas and the
-eighteenfold principle arrangement.
+The Fichtean reconstruction treats the immediately-past Cognition as a
+self-relating condition of further cognition. The cognitive act does not
+become a second substance when it returns as support; its own temporal
+determination is comprehended as a condition for subsequent activity. The
+arhat's final citta is the limiting case that separates this principial
+status from actual causal production.
+
+The Hegelian speculative syllogism mediates Universal, Particular, and
+Singular. The universal Science of Principles requires a sixth support; the
+particular Cognition just ceased fills that support-function; the singular
+Mind-Cognition is the possible result. The Rule System is the inferential
+middle that relates support, supported Cognition, and Object. The Bhāṣya's
+three sixfold relations preserve these moments even where a content is
+cross-classified:
+
+```text
+Universal:  Principle Science establishes the support-function
+Particular: one Cognition just ceased becomes Mind Principle
+Singular:   Mind-Cognition may arise under complete conditions
+```
+
+The final case constrains the inference: a support is a condition of
+possibility, not a guarantee of production. The passage's dialectic thus
+grounds the eighteen-Principle Science in determinate cognitive functions
+rather than a numerical collection of independent substances. These are
+Organon determinations, not historical attributions to Vasubandhu or
+lexical meanings of *manas* and *dhātu*.
 
 ## 10. Review Status
 
@@ -235,7 +257,8 @@ including the arhat's final citta, has been compared with the local research
 Bhāṣya, the kārikā opening, and the running Sanskrit source.
 
 The source normalizations, retained optative `ucyeta`, and compact sensory-
-support expression are recorded. The explanation preserves the two proposed
-reduced counts, the three sixfold relations, and the distinction between
-support-status and actual production of a successor. Original research
-files and the Part One reading artifact are preserved.
+support expression are recorded. The explanation preserves the two
+hypothetical substance-counts in the objection, the three sixfold relations,
+and the distinction between support-status and actual production of a
+successor. The eighteen-Principle Science is stated in Base–Essence–
+Principle terminology.
