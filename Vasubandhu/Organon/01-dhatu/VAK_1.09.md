@@ -4,7 +4,7 @@
 
 > रूपं पञ्चेन्द्रियाण्यर्थाः पञ्चाविज्ञप्तिरेव च ।
 >
-> तद्विज्ञानाश्रया रूपप्रसादाश्चक्षुरादयः ॥ १.०९ ॥॥
+> तद्विज्ञानाश्रया रूपप्रसादाश्चक्षुरादयः ॥ १.०९ ॥
 
 ## 2. Sanskrit (IAST)
 
@@ -26,7 +26,7 @@ cakṣurādayaḥ           → cakṣus-ādayaḥ
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | rūpam | nominative neuter | form; the form-base |
-| pañca indriyāṇi | nominative neuter plural | five organs |
+| pañca indriyāṇi | nominative neuter plural | five faculties |
 | arthāḥ | nominative masculine plural | meanings |
 | pañca | numeral | counts the meanings |
 | avijñaptiḥ | nominative feminine singular | and *avijñapti* |
@@ -36,7 +36,7 @@ cakṣurādayaḥ           → cakṣus-ādayaḥ
 | cakṣus-ādayaḥ | nominative plural | beginning with the eye |
 
 *Pañca* counts the meanings. *Avijñapti* is singular. Eleven. The principle
-is not a twelfth member of form. The organs support it.
+is not a twelfth member of form. The faculties support it.
 
 ## 4. Grammar
 
@@ -51,21 +51,21 @@ cakṣur-ādayaḥ
     = tad-vijñāna-āśrayāḥ
 ```
 
-The first line enumerates the form-base. The second defines the five organs.
+The first line enumerates the form-base. The second defines the five faculties.
 They are clarities of form, and supports of the principle that corresponds.
 
 ## 5. Translation
 
 ### Literal Translation
 
-Form is the five organs, the five meanings, and *avijñapti*. The clarities
+Form is the five faculties, the five meanings, and *avijñapti*. The clarities
 of form, beginning with the eye, are supports of the corresponding
 principle.
 
 ### Bhāṣya-informed study translation
 
-The form-base is the five organs — eye, ear, nose, tongue, body — the five
-meanings of those organs, each its own, and *avijñapti*. The meanings are
+The form-base is the five faculties — eye, ear, nose, tongue, body — the five
+meanings of those faculties, each its own, and *avijñapti*. The meanings are
 visible form, sound, odor, taste, and the tangible. The five are clarities
 of form. In order they support the principle of visible form, of sound, of
 odor, of taste, and of the tangible. *Avijñapti* is named, not defined.
@@ -78,11 +78,11 @@ Again, two lines. The first is the collection. The second is the support.
 This is where the base starts, and it is not the system. The opening
 division already set Pure and Impure, Conditioned and Unconditioned. The
 base is the first subsystem caught in that division. Form collects eleven:
-five organs, five meanings, *avijñapti*. Essences and principles are not
+five faculties, five meanings, *avijñapti*. Essences and principles are not
 enumerated here. Without them the collection is not the whole.
 
-Meaning stays lowercase. The commentary glosses it as condition. Organ and
-meaning are the two sides, not two inventories. The organ does not see a
+Meaning stays lowercase. The commentary glosses it as condition. Faculty
+and meaning are the two sides, not two inventories. The faculty does not see a
 finished object. It is a clarity of form, and a support of the principle
 that corresponds. The eye supports the eye-principle. So the Prakaraṇa.
 
@@ -96,13 +96,13 @@ of 1.08.
 |---|---|---|
 | rūpa | form | the form-base; eleven |
 | skandha | base | the first subsystem; not the whole |
-| indriya | organ | here, once an organized being is in view |
+| indriya | faculty | the running word; organ only if the commentary needs it |
 | artha | meaning | lowercase; the other side |
 | viṣaya | condition | the commentary's gloss of meaning; not a second list |
 | avijñapti | *avijñapti* | named, not defined |
-| rūpa-prasāda | clarity of form | what the five organs are |
+| rūpa-prasāda | clarity of form | what the five faculties are |
 | vijñāna | principle | the supported; not a twelfth member of form |
-| āśraya | support | the organ, of the corresponding principle |
+| āśraya | support | the faculty, of the corresponding principle |
 | āyatana | essence | cited for the eye; not enumerated |
 | upādāya | depending on | the four great elements; not 1.08 |
 
@@ -110,13 +110,13 @@ of 1.08.
 
 ```text
 form-base
-    = five organs
+    = five faculties
     + five meanings
     + avijñapti
     = eleven
     principle not a member
 
-organ
+faculty
     = clarity of form
     = support of the corresponding principle
     eye → eye-principle
@@ -134,7 +134,8 @@ essence and principle not enumerated
 ## 9. Interpretive Note
 
 The hinge is the count, then *āśraya*. Interpretation of the base as first
-subsystem is in the Bhāṣya.
+subsystem is in the Bhāṣya. Faculty is the verse word. Organ is not used
+on this page.
 
 ## 10. OWL++ Seed
 
@@ -145,7 +146,7 @@ vak:VAK_1_09 a vak:Karika ;
     vak:hasTopic vak:FormBase ;
     vak:belongsTo vak:Dhatunirdesa .
 
-vak:FormBase vak:hasMember vak:FiveOrgans, vak:FiveMeanings, vak:Avijnapti ;
+vak:FormBase vak:hasMember vak:FiveFaculties, vak:FiveMeanings, vak:Avijnapti ;
     vak:count 11 ;
     vak:includesPrinciple false ;
     vak:isWholeSystem false .
