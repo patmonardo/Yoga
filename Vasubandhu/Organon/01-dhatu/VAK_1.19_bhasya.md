@@ -9,65 +9,74 @@
 Literal:
 
 > From commonality of kind, range, and principle, there is the status of one
-> principle, even in the duality of the eye and the rest. But the arising as
-> a pair is for the sake of beauty.
+> principle, even in the duality of the eye and the rest. But the arising as a
+> pair is for the sake of beauty.
 
 Bhāṣya-informed:
 
 > There are not twenty-one principles. The two eyes are one eye-principle,
-> because both have the nature of the eye, both take visible form, and both
-> are supports of one eye-principle. The same holds for ear and nose. That
-> they arise as a pair is for the beauty of the support. Otherwise there
-> would be great disfigurement.
+> because both have the nature of the eye, both take visible form, and both are
+> supports of one eye-principle. The same holds for ear and nose. That they
+> arise as a pair is for the beauty of the support. Otherwise there would be
+> great disfigurement.
 
-The commentary meets the count, then explains the pair. The next sentence,
-that bases, essences, and principles have been explained, opens 1.20. It is
-not taken here.
+The commentary meets the count, then explains the pair. The next sentence, that
+bases, essences, and principles have been explained, opens 1.20. It is not
+taken here.
 
 ## 2. Continuous Sanskrit
 
-> nanu caikaviṃśatyā dhātubhir bhavitavyam / cakṣuṣo dvitvāt
-> śrotraghrāṇayoś ca / na bhavitavyam / yasmāt /
-> jātigocaravijñānasāmānyād ekadhātutā dvitve 'pi cakṣurādīnāṃ /
-> tatra jātisāmānyam ubhayoś cakṣuḥsvabhāvatvāt / gocarasāmānyam
-> ubhayo rūpaviṣayatvāt / vijñānasāmānyam ubhayor
-> ekacakṣurvijñānāśrayatvāt / tasmād eka eva cakṣurdhātuḥ / evaṃ
-> śrotraghrāṇayor api yojyam /
+> nanu caikaviṃśatyā dhātubhir bhavitavyam /
 >
-> śobhārthaṃ tu dvayodbhavaḥ / ekadhātutve 'pi tu cakṣurādīnāṃ dvayoḥ
-> saṃbhava āśrayasya śobhārtham / anyathā hy
-> ekacakṣuḥśrotrādhiṣṭhānaikanāsikābilasaṃbhavāt mahad vairūpyaṃ syād iti /
+> cakṣuṣo dvitvāt śrotraghrāṇayoś ca /
+>
+> na bhavitavyam /
+>
+> yasmāt /
+>
+> jātigocaravijñānasāmānyād ekadhātutā dvitve 'pi cakṣurādīnāṃ /
+>
+> tatra jātisāmānyam ubhayoś cakṣuḥsvabhāvatvāt /
+>
+> gocarasāmānyam ubhayo rūpaviṣayatvāt /
+>
+> vijñānasāmānyam ubhayor ekacakṣurvijñānāśrayatvāt /
+>
+> tasmād eka eva cakṣurdhātuḥ /
+>
+> evaṃ śrotraghrāṇayor api yojyam /
+>
+> śobhārthaṃ tu dvayodbhavaḥ /
+>
+> ekadhātutve 'pi tu cakṣurādīnāṃ dvayoḥ saṃbhava āśrayasya śobhārtham /
+>
+> anyathā hy ekacakṣuḥśrotrādhiṣṭhānaikanāsikābilasaṃbhavāt mahad vairūpyaṃ syād iti /
 
-The unit runs from the twenty-one objection through the disfigurement. The
-sentence that the three have been explained belongs to 1.20.
-
-Word division is editorial. The running source's *tra*, *tasmad*,
-*cakṣuradīnaṃ*, *anya thā*, and *vairupyaṃ* are read as *tatra*, *tasmād*,
-*cakṣurādīnāṃ*, *anyathā*, and *vairūpyaṃ*. *Ubhayo rūpaviṣayatvāt* is kept
-as sandhi of *ubhayoḥ* before *rūpa*. In the closing compound, *nāsikāvila*
-is read as *nāsikābila*, nostril-opening. The research report keeps *vila*
-and translates it as an opening. The repair stays marked. These are
-normalizations, not a critical text.
+The unit runs from the twenty-one objection through the disfigurement. Word
+division is editorial. The local e-text has *tra*, *tasmad*, *cakṣuradīnaṃ*,
+*anya thā*, and *vairupyaṃ*. Read *tatra*, *tasmād*, *cakṣurādīnāṃ*, *anyathā*, and
+*vairūpyaṃ*. *Ubhayo rūpaviṣayatvāt* is sandhi of *ubhayoḥ* before *rūpa*. In the
+closing compound, *nāsikāvila* is read as *nāsikābila*, nostril-opening. The
+repair stays marked. Not a critical text.
 
 ## 3. Continuous Translation
 
-Objection. But should there not be twenty-one principles, because the eye
-is twofold, and the ear and the nose as well?
+Objection. But should there not be twenty-one principles, because the eye is
+twofold, and the ear and the nose as well?
 
-Answer. There should not. For, from commonality of kind, range, and
-principle, there is the status of one principle, even in the duality of
-the eye and the rest.
+Answer. There should not. For, from commonality of kind, range, and principle,
+there is the status of one principle, even in the duality of the eye and the
+rest.
 
 Here, commonality of kind, because both have the nature of the eye.
 Commonality of range, because both take visible form. Commonality of
-principle, because both are supports of one eye-principle. Therefore there
-is just one eye-principle. The same is to be applied to ear and nose.
+principle, because both are supports of one eye-principle. Therefore there is
+just one eye-principle. The same is to be applied to ear and nose.
 
-But the arising as a pair is for the sake of beauty. Even in the status of
-one principle, the occurrence of the eye and the rest as two is for the
-beauty of the support. Otherwise, from the occurrence of a single
-eye-site, a single ear-site, and a single nostril-opening, there would be
-great disfigurement.
+But the arising as a pair is for the sake of beauty. Even in the status of one
+principle, the occurrence of the eye and the rest as two is for the beauty of
+the support. Otherwise, from the occurrence of a single eye-site, a single
+ear-site, and a single nostril-opening, there would be great disfigurement.
 
 ## 4. Movement
 
@@ -79,13 +88,13 @@ great disfigurement.
 | Second question | Why a pair, if one principle? |
 | Answer | For the beauty of the support. Otherwise, disfigurement. |
 
-*Nanu* marks the objection. No school is named. Beauty follows the count.
-It does not ground it.
+*Nanu* marks the objection. No school is named. Beauty follows the count. It
+does not ground it.
 
 ## 5. The Three Commonalities
 
-*Dvitve 'pi* concedes the pair. *Ekadhātutā* is asserted with it. Two
-sites, one principle.
+*Dvitve 'pi* concedes the pair. *Ekadhātutā* is asserted with it. Two sites,
+one principle.
 
 | Commonality | Reason given | What it refuses |
 |---|---|---|
@@ -93,75 +102,70 @@ sites, one principle.
 | range | both take visible form | a second range |
 | principle | both support one eye-principle | a second principle |
 
-*Jāti* here is the nature of the eye. Not birth. Not caste. Not a likeness
-of shape.
+*Jāti* here is the nature of the eye. Not birth. Not caste.
 
-*Gocara* is controlled by *rūpaviṣayatva*. The range is visible form. It is
-not a claim that each eye receives the same view, or every detail.
+*Gocara* is controlled by *rūpaviṣayatva*. The range is visible form. It is not a
+claim that each eye receives the same view.
 
-*Ekacakṣurvijñānāśrayatva* says both are supports of one eye-principle. It
-does not say both eyes are active in every seeing. It does not add a
-substance.
+*Ekacakṣurvijñānāśrayatva* says both are supports of one eye-principle. It does
+not say both eyes are active in every seeing. It does not add a second organ
+to the Form System. The organ is one principle, seated at two sites.
 
 All three belong to the answer. The principle-term alone is not the verse.
 
 ## 6. Ear and Nose
 
-*Evaṃ ... api yojyam*: the same is to be applied. The commentary does not
-repeat the clauses. Ear shares the nature of the ear, sound, and one
-ear-principle. Nose shares the nature of the nose, odor, and one
-nose-principle.
+The same is to be applied. The commentary does not repeat the clauses. Ear
+shares the nature of the ear, sound, and one ear-principle. Nose shares the
+nature of the nose, odor, and one nose-principle.
 
 The nostril-opening in the last sentence is the site. It does not undo the
-distinction, already set, between the faculty and the gross place. The
-objection is generated by the pairing. The reply is about kind, range, and
-principle.
+distinction between the organ and the gross place. The objection is generated
+by the pairing. The reply is about kind, range, and principle.
 
 Tongue and body are not in the objection. They are not added.
 
 ## 7. Beauty
 
-*Śobhārtham* is the second half. *Āśrayasya* supplies the support: the
-bodily support. *Ekadhātutve 'pi* keeps the count already made.
+*Śobhārtham* is the second half. *Āśrayasya* supplies the support: the bodily
+support. *Ekadhātutve 'pi* keeps the count already made.
 
-*Anyathā ... syāt*: otherwise, great disfigurement. That is what beauty
-means here. The word is not replaced by symmetry, efficiency, or
-advantage. Those are not the commentary.
+Otherwise, great disfigurement. That is what beauty means here. The word is not
+replaced by symmetry or advantage. Those are not the commentary.
 
-Why one principle, and why two sites, are different questions. A reason
-for the second is not a reason for the first.
+Why one principle, and why two sites, are different questions. A reason for the
+second is not a reason for the first.
 
 ## 8. Decisions for the Kārikā
 
 1. The objection is eighteen plus three, twenty-one.
-2. The three commonalities are kind, range, and principle, stated
-   separately.
+2. The three commonalities are kind, range, and principle, stated separately.
 3. One principle stands with the pair.
 4. The eye is extended to ear and nose. Not to tongue or body.
-5. "One eye-principle" is not a physiology of seeing.
-6. The pair is for the beauty of the support. That is not the ground of
-   the count.
+5. One eye-principle is not a physiology of seeing.
+6. The pair is for the beauty of the support. That is not the ground of the
+   count.
 
 ## 9. Interpretation
 
-1.18 included by own-nature. This verse says what that nature is not. It
-is not the number of sites. Two eyes have one nature, one range, one
-principle. That commonality is the inclusion. The sites remain two.
+1.18 included by own-nature. This verse says what that nature is not. It is not
+the number of sites. Two eyes have one nature, one range, one principle. That
+commonality is the inclusion. The sites remain two.
 
-The second line keeps the body in the account without letting the body
-set the count. Beauty is the commentary's reason for the pair. It is not
-an embarrassment, and it is not a ground. The science is the difference
-of the two questions.
+The sites are substrate: the Impure support, seated twice. They are not two
+substances, and they are not a second principle. The objection counted organs
+as if each site were an owner. The reply refuses that. Beauty keeps the body
+in the account without letting the body set the count.
 
-The next sentence says the bases, the essences, and the principles have
-been explained. That is the door to their meanings. It is 1.20. It is not
-opened here.
+The next sentence says the bases, the essences, and the principles have been
+explained. That is the door to their meanings. It is 1.20. It is not opened
+here.
 
 ## 10. Review Status
 
 Upgraded reading of the nineteenth Bhāṣya study. The unit through the
-disfigurement checked against the running Sanskrit. Source repairs
-recorded in section 2. The nostril-opening reading stays marked.
+disfigurement checked against the running Sanskrit. The nostril-opening reading
+stays marked.
 
-Cognition withdrawn. Principle is the chapter word. The reading is once,
-here. 1.20 is not opened.
+Two sites are substrate, not two principles. That reading is once, here. 1.20
+is not opened.
