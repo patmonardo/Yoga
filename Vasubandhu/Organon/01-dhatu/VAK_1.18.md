@@ -1,10 +1,10 @@
-# VAK_1.18
+# VAK_1.18 — Inclusion by Own-Nature
 
 ## 1. Sanskrit (Devanāgarī)
 
 > सर्वसंग्रह एकेन स्कन्धेनायतनेन च ।
 >
-> धातुना च स्वभावेन परभाववियोगतः ॥ १.१८ ॥
+> धातुना च स्वभावेन परभाववियोगतः ॥ १.१८ ॥॥
 
 ## 2. Sanskrit (IAST)
 
@@ -15,280 +15,165 @@
 ## 3. Lexical Analysis
 
 ```text
-sarvasaṃgrahaḥ          → sarva-saṃgrahaḥ
-skandhenāyatanena       → skandhena āyatanena
-parabhāvaviyogataḥ      → para-bhāva-viyogataḥ
+sarvasaṃgrahaḥ     → sarva-saṃgrahaḥ
+skandhenāyatanena  → skandhena + āyatanena
+parabhāvaviyogataḥ → para-bhāva-viyogataḥ
 ```
 
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
-| sarva-saṃgrahaḥ | nominative masculine singular compound | inclusion of all; the Bhāṣya specifies its scope |
-| ekena | instrumental masculine/neuter singular | by one; repeated with the three classifications |
-| skandhena | instrumental masculine singular | by an aggregate; Organon vocabulary: base |
-| āyatanena | instrumental neuter singular | by an āyatana; Organon vocabulary: essence |
-| ca | conjunction | and |
-| dhātunā | instrumental masculine singular | by a dhātu; Organon vocabulary: principle |
-| svabhāvena | instrumental masculine/neuter singular | by own-nature |
-| para-bhāva | masculine compound member | another's nature |
-| viyogataḥ | ablatival adverbial formation | because of separation or distinction from |
+| sarva-saṃgrahaḥ | nominative masculine singular | the inclusion of all |
+| ekena | instrumental singular | by one; carries across the three |
+| skandhena | instrumental masculine singular | by a base |
+| āyatanena | instrumental neuter singular | by an essence |
+| ca | indeclinable | and |
+| dhātunā | instrumental masculine singular | by a principle |
+| svabhāvena | instrumental singular | by own-nature |
+| para-bhāva | compound member | another's nature |
+| viyogataḥ | ablatival adverb | because of separation from |
 
-`Saṃgraha` is inclusion or gathering. The verse's threefold classificatory
-use is specified by the Bhāṣya; its closing assembly example gives a
-practical, conventional use of the same term. The English should preserve
-that relation rather than assume both uses mean physical containment or
-that conventional gathering is unreal.
+*Saṃgraha* is inclusion. The Bhāṣya also uses it for the gathering of an
+assembly. The two uses are not the same ground. The verse's use is the
+first.
 
 ## 4. Grammar
 
-`Sarva-saṃgrahaḥ` is the subject. The three instrumental phrases name the
-coordinated terms through which all are included:
-
 ```text
-ekena skandhena
-ekena āyatanena
-ekena dhātunā
+sarva-saṃgrahaḥ
+    = ekena skandhena
+    + ekena āyatanena
+    + ekena dhātunā
+
+ground
+    = svabhāvena
+    because parabhāva-viyogataḥ
 ```
 
-The Bhāṣya supplies their referents. In the Organon vocabulary, the same
-selection is read as Base, Essence, and Principle:
+The subject is the inclusion of all. Three instrumentals name the means.
+*Ekena* distributes: by one base, by one essence, and by one principle.
+The Bhāṣya names them. Form-base, mind-essence, dharma-principle. Jointly.
+Not each alone.
 
-```text
-rūpaskandha
-    → Form Base
-
-mana-āyatana
-    → Mind Essence
-
-dharma-dhātu
-    → Dharma Principle
-```
-
-The three do not name rival wholes. They articulate one field through
-different determinations: what is gathered as Base, how it is related as
-Essence, and how it is distinguished as Principle. The Bhāṣya says their
-joint inclusion covers all dharmas; no one member is said to do so alone.
-
-`Svabhāvena` states the ground of inclusion; `parabhāvaviyogataḥ` gives its
-negative determination: a dharma is separate from another's nature and
-cannot be classified by that alien nature. The contrast is not between
-isolated things and all relations. It distinguishes principial membership
-from causal, supportive, object-related, and practical relations, which the
-earlier verses and the Bhāṣya continue to recognize.
-
-The Bhāṣya's example is exact:
-
-```text
-eye faculty
-    → rūpa-skandha
-    → eye-āyatana
-    → eye-dhātu
-    → suffering and origin, when sāsrava
-
-eye faculty
-    ↛ classifications whose nature it does not have
-```
-
-The eye-faculty example and its particular classifications are supplied by
-the Bhāṣya. The verse's compact rule should not be expanded into a
-metaphysical thesis that every dharma exists in absolute isolation.
+*Svabhāvena* is the ground. *Parabhāvaviyogataḥ* is why the other nature
+will not serve. A dharma is separate from another's nature. It is not
+included by the nature it is separate from.
 
 ## 5. Translation
 
-### Close syntactic construe
+### Literal Translation
 
-> The inclusion of all is by one aggregate, one āyatana, and one dhātu, by own-nature, because of separation from another's nature.
+The inclusion of all is by one base, and by one essence, and by one
+principle, by own-nature, because of separation from another's nature.
 
-### Bhāṣya-informed translation
+### Bhāṣya-informed study translation
 
-> All dharmas are included together through the Form Base, Mind Essence, and Dharma Principle. Inclusion is by a dharma's own nature, not by another's nature from which it is distinct.
+All dharmas are included jointly by the form-base, the mind-essence, and
+the dharma-principle. The inclusion is by a dharma's own nature, not by
+another's nature, from which it is separate.
 
-The Bhāṣya further distinguishes the scopes of the three classificatory
-arrangements:
-
-```text
-aggregates                    → all conditioned dharmas
-aggregates of appropriation  → all dharmas with outflows
-āyatanas and dhātus           → all dharmas, including the unconditioned
-```
+Bases include the conditioned. Bases of appropriation include the Impure.
+Essences and principles include all dharmas, the unconditioned among them.
 
 ## 6. Philosophical Translation
 
-**Organon reconstruction: the threefold ground of inclusion**
+Again, two lines. The first names the inclusion. The second names the
+ground.
 
-```text
-<skandha, āyatana, dhātu>
-    = <Base, Essence, Principle>
+This is the twist of the skandha puzzle, and it is not a fourth list.
+One base, one essence, one principle, taken together, include all. The
+commentary names the three: form-base, mind-essence, dharma-principle.
+Form gathers the faculties, the conditions, and *avijñapti*. Mind-essence
+is the principle-base. Dharma-principle takes feeling, reflection,
+formations, *avijñapti*, and the unconditioned. Overlap is the point.
+*Avijñapti* sits in form and in the dharma-principle. The unconditioned
+have no base, and still enter.
 
-VAK 1.18
-    = Form Base + Mind Essence + Dharma Principle
-      comprehended as a joint inclusion of all dharmas
-```
+Own-nature is the warrant. Not isolation. The eye is included in the
+form-base, in the eye-essence and the eye-principle, and, when Impure, in
+suffering and origin, because it has that nature. It is not included
+where the nature is not its own.
 
-The base is the gathered determination; essence is the relational field in
-which cognition and its correlate are articulated; principle is the
-differentiated determination by which a dharma is assigned its proper place.
-These are not three inventories or detachable layers. In 1.18 their
-coordination supplies the condition for an exhaustive account: the same
-dharma can enter more than one determination without those determinations
-becoming identical. The Bhāṣya's *avijñapti* example from 1.15 is a clear
-case of such overlap.
-
-The Kantian question is transcendental: what must be true for this
-classification of dharmas to be possible, and what warrants this placement
-rather than another? The verse's answer is *svabhāva*, own-nature, qualified
-by *parabhāvaviyoga*, separation from another's nature. A Hegelian
-reconstruction reads this as reflection: a determination becomes explicit
-through both what it is and what it is not. Classification must account for
-its positive ground and its determinate exclusion. These are Organon
-interpretations of the verse's logic, not philosophical terms found in the
-Kārikā.
-
-The Bhāṣya also keeps the practical in view. Gathering an assembly through
-the conventional means of gathering is occasional and purpose-bound. It
-does not establish intrinsic classificatory membership, but neither is it
-therefore unreal or useless. The reflective task is to distinguish these
-grounds without abstracting the systematic account from its practical
-instances. The verse and Bhāṣya together let the Organon relate practical
-organization to principial classification without reducing one to the other.
+The same word gathers an assembly. That gathering is occasional, and
+conventional. It happens. It does not place the gathered in the gatherer's
+own nature. Two grounds. The science is the difference.
 
 ## 7. Technical Vocabulary
 
-| Sanskrit | Project rendering | Determination |
+| Sanskrit | Rendering | Note |
 |---|---|---|
-| saṃgraha | inclusion / gathering | classificatory and practical senses distinguished by the Bhāṣya |
-| sarva-saṃgraha | inclusion of all | joint coverage through the three selected classifications |
-| svabhāva | own-nature | ground of principial inclusion; Organon reading: a dharma's own determination |
-| parabhāva | another's nature | the distinct determination from which a dharma is separated |
-| parabhāva-viyoga | separation from another's nature | the negative limit that makes inclusion determinate |
-| skandha | aggregate; Organon: Base | gathered determination |
-| upādāna-skandha | aggregate of appropriation | the aggregate arrangement's scope for dharmas with outflows |
-| āyatana | āyatana; Organon: Essence | relational capacity/field; not Concept by itself |
-| dhātu | dhātu; Organon: Principle | differentiated principial determination |
-| sāṃketika | conventional | practical arrangement by shared designation |
-| kādācitka | occasional | contingent character of the assembly example |
+| saṃgraha | inclusion | also, in the example, a gathering |
+| sarva-saṃgraha | inclusion of all | joint, not each alone |
+| skandha | base | conditioned only |
+| upādāna-skandha | base of appropriation | the Impure |
+| āyatana | essence | all dharmas |
+| dhātu | principle | all dharmas |
+| rūpa-skandha | form-base | one of the three selected |
+| mana-āyatana | mind-essence | the principle-base, under essence |
+| dharma-dhātu | dharma-principle | feeling, reflection, formations, *avijñapti*, the unconditioned |
+| svabhāva | own-nature | the ground of inclusion |
+| parabhāva | another's nature | what will not include it |
+| sāsrava | Impure | not "with outflows" |
+| sāṃketika | conventional | the assembly |
+| kādācitka | occasional | why the assembly is conventional |
 
 ## 8. Logical Determination
 
-The Bhāṣya distinguishes the scopes:
-
 ```text
-ConditionedDharma(x)
-    → IncludedUnderAggregate(x)
+bases                  → all conditioned
+bases of appropriation → all Impure
+essences and principles → all dharmas
 
-SasravaDharma(x)
-    → IncludedUnderAggregateOfAppropriation(x)
+joint inclusion
+    form-base
+    + mind-essence
+    + dharma-principle
+    → all dharmas
+    not each alone
+    overlap at avijñapti
+    unconditioned have no base
 
-Dharma(x)
-    → IncludedUnderAyatana(x)
-    ∧ IncludedUnderDhatu(x)
+inclusion
+    by own-nature
+    not by the nature one is separate from
+
+assembly
+    occasional
+    conventional
+    not this inclusion
 ```
 
-The threefold Organon map of its selected categories is:
-
-```text
-Base(rūpaskandha)
-+ Essence(mana-āyatana)
-+ Principle(dharma-dhātu)
-    → JointlyIncludes(AllDharmas)
-```
-
-The verse's stated ground and limit are:
-
-```text
-IncludedByOwnNature(d, classification)
-    → InclusionAnswersTo(d's own determination)
-
-SeparatedFromNature(d, other)
-    → ¬IncludedByNatureOf(other)
-```
-
-The Bhāṣya distinguishes this from practical gathering:
-
-```text
-AssemblyGatheredByMeans(g, a)
-    → Occasional(g, a) ∧ Conventional(g, a)
-
-AssemblyGatheredByMeans(g, a)
-    ↛ ClassificatoryInclusionByOwnNature(a, g)
-```
-
-The distinction is between grounds of relation, not between real and unreal
-things: practical gathering occurs, but does not by itself establish
-principial inclusion.
+The eye is the commentary's case. Several determinations, one nature that
+it has. Not three identical wholes.
 
 ## 9. Interpretive Note
 
-VAK 1.13 distinguished worldly appearance and designation from the elemental
-principle; 1.16 placed cognition across base, essence, and principle; 1.17
-determined mind-principle through the immediately past cognition's support
-role. VAK 1.18 carries these differentiated classifications forward and asks
-how their contents can be comprehended together. The Bhāṣya names the three
-selected terms; the Organon reads them as one movement of base, essence, and
-principle:
-
-```text
-skandha
-    → base
-
-āyatana
-    → essence
-
-dhātu
-    → principle
-```
-
-Essence here is the capacity/field determination of *āyatana*, not itself
-the Concept; nor does the word *dhātu* alone complete the conceptual
-movement. The relevant claim lies in the coordinated, reflective
-comprehension of the three determinations. Here the verse supplies a
-criterion of principial inclusion; the fuller Concept is the system's
-reciprocal closure, not any one label in isolation.
-
-The practical and reflective dimensions are both present. The assembly
-example is an actual, conventional organization serving a purpose; the
-classification tests what warrants a dharma's place by its own nature and
-difference. Reflective judgment can recognize the practical relation while
-distinguishing it from principial membership. Thus the Kośa is not abstracted
-from practical life: the Bhāṣya itself places a practical case beside the
-rule and makes their difference intelligible.
-
-The 1.18 determination is therefore not “all things are one.” It is that
-comprehensive understanding must hold together base, essence, and principle
-without erasing their distinctions, and must ground each inclusion in the
-nature relevant to it. This is the Organon's philosophical reconstruction
-of the verse and its commentary, kept distinct from their literal wording.
+The hinge is *ekena*, distributed, then *svabhāvena*. Interpretation of
+the joint inclusion is in the Bhāṣya.
 
 ## 10. OWL++ Seed
 
 ```ttl
 @prefix vak: <http://127.0.0.1:3000/vak#> .
-@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
-vak:VAK_1_18
-    a vak:Karika ;
-    rdfs:label "VAK 1.18" ;
-    vak:hasTopic vak:ExhaustiveInclusionByIntrinsicNature ;
+vak:VAK_1_18 a vak:Karika ;
+    vak:hasTopic vak:InclusionByOwnNature ;
     vak:belongsTo vak:Dhatunirdesa .
 
-vak:StrictInclusion
-    vak:groundedIn vak:OwnNature ;
-    vak:excludes vak:AnotherNature ;
-    vak:distinctFrom vak:ConventionalGathering .
+vak:InclusionOfAll vak:by vak:FormBase, vak:MindEssence, vak:DharmaPrinciple ;
+    vak:eachAlone false ;
+    vak:ground vak:OwnNature ;
+    vak:notBy vak:AnothersNature .
 
-vak:SkandhaSystem
-    vak:includes vak:AllConditionedDharmas .
+vak:Bases vak:include vak:Conditioned .
+vak:BasesOfAppropriation vak:include vak:Impure .
+vak:Essences vak:include vak:AllDharmas .
+vak:Principles vak:include vak:AllDharmas .
 
-vak:UpadanaSkandhaSystem
-    vak:includes vak:AllSasravaDharmas .
+vak:Avijnapti vak:in vak:FormBase, vak:DharmaPrinciple .
+vak:Unconditioned vak:hasBase false ;
+    vak:enters vak:DharmaPrinciple .
 
-vak:AyatanaSystem
-    vak:includes vak:AllDharmas .
-
-vak:DhatuSystem
-    vak:includes vak:AllDharmas ;
-    vak:organizesBy vak:Principle .
-
-vak:ExhaustiveDharmaField
-    vak:isCrossMappedBy vak:RupaSkandha , vak:ManaAyatana ,
-        vak:DharmaDhatu .
+vak:AssemblyGathering vak:occasional true ;
+    vak:conventional true ;
+    vak:isClassificatoryInclusion false .
 ```
