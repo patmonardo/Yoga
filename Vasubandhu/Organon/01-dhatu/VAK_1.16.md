@@ -79,35 +79,19 @@ and the unconditioned, are the dharma-essence and the dharma-principle.
 Again, two lines. The first defines the principle and places it as an essence.
 The second counts seven.
 
-A principle is not consciousness and not a mood of knowing. It is apprehension
-turned toward each condition. *Prati* is respective. Each condition, in turn.
-The gloss is the commentary's.
-
-That same principle is the mind-essence. Not a second thing. The same, under
-the essence-arrangement.
+Principle is respective apprehension. The commentary opens the respect: each
+condition, glossed as *upalabdhi*. That same principle is the mind-essence.
+Not a second thing.
 
 Seven are accepted. Six run from the eye-principle through the mind-group
 principle. The seventh is the mind-principle. The sixth and the seventh are
-not one name counted twice. The next verse asks why both are there.
+not one name counted twice.
 
-The close is the Form System, and the rest of the count beside it. Five bases.
-Twelve essences. Eighteen principles.
-
-The form-base is the Form System: five organs, five meanings, and *avijñapti*.
-Apart from the continuity, that system is the ten essences and the ten
-principles. Organs and meanings, already accepted at 1.14. Not a matter left
-over when form is subtracted. There is no matter system here. Color and
-configuration are form. Hardness, cohesion, heat, and impulsion are principles
-of form. The opposite reading, a matter system with form painted on, is the
-reading this chapter refuses.
-
-The continuity remains form, and it is not among the ten. It enters the
-dharma-essence and the dharma-principle with feeling, reflection, formations,
-and the unconditioned. The unconditioned enter that pair and have no base.
-
-The principle-base is the mind-essence, and the seven. Reflection takes the
-mark. The principle is the higher reflection: the same work, raised. Not a
-synonym.
+The commentary closes the count on this verse. Five bases. Twelve essences.
+Eighteen principles. The form-base, apart from *avijñapti*, is the ten. The
+three beginning with feeling, with *avijñapti* and the unconditioned, are the
+dharma-essence and the dharma-principle. The principle-base is the
+mind-essence, and the seven.
 
 ## 7. Technical Vocabulary
 
@@ -120,19 +104,18 @@ synonym.
 | manovijñāna-dhātu | mind-group principle | one of the six |
 | manodhātu | mind-principle | the seventh |
 | cakṣurvijñāna | eye-principle | first of the six |
-| rūpa-skandha | form-base | the Form System |
+| rūpa-skandha | form-base | organs, meanings, and *avijñapti* |
 | avijñapti | *avijñapti* | form; not among the ten |
-| saṃjñā | reflection | the lower grade |
+| saṃjñā | reflection | not this verse's predicate |
 | viṣaya | condition | the commentary's each |
 | upalabdhi | apprehension | gloss, not the verse-word |
 
 ## 8. Logical Determination
 
 ```text
-Form System
-    five organs, five meanings, avijñapti
+form-base
     apart from avijñapti → ten essences, ten principles
-    not a matter system
+    avijñapti remains form
 
 1.15
     feeling, reflection, formations
@@ -153,12 +136,7 @@ close
 1.17 not opened
 ```
 
-## 9. Interpretive Note
-
-The hinge is *tat*, then the seven. The Form System is the close, not a second
-definition of the principle. Interpretation is in the Bhāṣya.
-
-## 10. OWL++ Seed
+## 9. OWL++ Seed
 
 ```ttl
 @prefix vak: <http://127.0.0.1:3000/vak#> .
@@ -171,8 +149,6 @@ vak:PrincipleBase vak:definedAs vak:RespectiveApprehension ;
     vak:also vak:MindEssence .
 vak:MindGroupPrinciple vak:memberOf vak:SixPrinciples .
 vak:MindPrinciple vak:distinctFrom vak:MindGroupPrinciple .
-vak:FormBase vak:is vak:FormSystem ;
-    vak:not vak:MatterSystem .
 vak:Avijnapti vak:remainsIn vak:FormBase ;
     vak:notAmong vak:Ten .
 ```
