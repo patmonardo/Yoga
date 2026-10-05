@@ -8,14 +8,14 @@
 
 Literal:
 
-> Form is the five organs, the five meanings, and *avijñapti*. The clarities
+> Form is the five faculties, the five meanings, and *avijñapti*. The clarities
 > of form, beginning with the eye, are supports of the corresponding
 > principle.
 
 Bhāṣya-informed:
 
-> The form-base is the five organs — eye, ear, nose, tongue, body — the five
-> meanings of those organs, each its own, and *avijñapti*. The meanings are
+> The form-base is the five faculties — eye, ear, nose, tongue, body — the five
+> meanings of those faculties, each its own, and *avijñapti*. The meanings are
 > visible form, sound, odor, taste, and the tangible. The five are clarities
 > of form. In order they support the principle of visible form, of sound, of
 > odor, of taste, and of the tangible. *Avijñapti* is named, not defined.
@@ -52,11 +52,11 @@ Word division is editorial. These are normalizations, not a critical text.
 
 > It has been said: five bases, beginning with form. Among them:
 
-> Form is the five organs, the five meanings, and *avijñapti*.
+> Form is the five faculties, the five meanings, and *avijñapti*.
 
-> The five organs are the eye, the ear, the nose, the tongue, and the body.
+> The five faculties are the eye, the ear, the nose, the tongue, and the body.
 >
-> The five meanings are the five conditions of those very organs, beginning
+> The five meanings are the five conditions of those very faculties, beginning
 > with the eye, each its own, called visible form, sound, odor, taste, and
 > the tangible.
 >
@@ -78,7 +78,7 @@ a clarity of form depending on the four great elements,” and the rest.
 > Prakaraṇa too is in agreement: “What is the eye? A clarity of form that
 > is the support of the eye-principle,” and the rest.
 >
-> The five organs have been indicated. The five meanings are to be
+> The five faculties have been indicated. The five meanings are to be
 > indicated.
 
 *Upādāya* here is dependence on the four great elements. It is not the
@@ -90,8 +90,8 @@ appropriation of 1.08.
 five bases already stated
     → form, among them
 enumeration
-    → five organs, five meanings, avijñapti
-organs defined
+    → five faculties, five meanings, avijñapti
+faculties defined
     → clarities of form
     → supports of the corresponding principle
 scripture
@@ -99,7 +99,7 @@ scripture
 Prakaraṇa
     → agrees, so read
 close
-    → organs indicated; meanings still to come
+    → faculties indicated; meanings still to come
 ```
 
 No opponent is named. No school is named. The scripture and the Prakaraṇa
@@ -107,7 +107,7 @@ are cited.
 
 ## 5. Eleven
 
-The organs are five, named. The meanings are five, each its own, and the
+The faculties are five, named. The meanings are five, each its own, and the
 commentary calls them conditions. *Avijñapti* is singular, and joined by
 *eva ca*. Eleven. That is the whole of the form-base.
 
@@ -131,9 +131,9 @@ taken. Both readings keep the support. Neither adds a member.
 
 ## 7. Decisions for the Kārikā
 
-1. Form is five organs, five meanings, and *avijñapti*. Eleven.
-2. The meanings are the conditions of those organs, each its own.
-3. The organs are clarities of form, supports of the corresponding
+1. Form is five faculties, five meanings, and *avijñapti*. Eleven.
+2. The meanings are the conditions of those faculties, each its own.
+3. The faculties are clarities of form, supports of the corresponding
    principle.
 4. The principle is not a member of the form-base.
 5. *Upādāya* is dependence on the four great elements, not 1.08.
@@ -144,12 +144,17 @@ taken. Both readings keep the support. Neither adds a member.
 The base starts here, inside a division already made. Pure and Impure,
 Conditioned and Unconditioned, are the opening of the system. Form is the
 first collection caught in that division. Eleven members, and the
-principle not among them. The organ supports the principle. It does not
+principle not among them. The faculty supports the principle. It does not
 become it.
 
-Organ and meaning are the two sides. The commentary's condition is the
+Faculty and meaning are the two sides. The commentary's condition is the
 gloss, not a second list. The eye does not see a finished object. It is a
 clarity, and a support.
+
+Organ is not needed on this page. Faculty does not go stale here: the five
+are named, and the support is already the point. Where a later commentary
+has an organized being in view and Faculty has gone flat, organ may be
+used once, and marked as commentary.
 
 Essences and principles complete what a collection cannot finish. The eye
 is already called an internal essence. That citation is the door, not the
@@ -159,9 +164,9 @@ The reading is once, here. 1.10 is not opened.
 
 ## 9. Review Status
 
-Upgraded reading of the ninth Bhāṣya study. The unit through the meanings
-still to be indicated checked against the running Sanskrit.
+Corrected reading of the ninth Bhāṣya study. Faculty is the running word.
+Organ is not used. The unit through the meanings still to be indicated
+checked against the running Sanskrit.
 
-Cognition withdrawn. Principle is the chapter word. Organ is the word in
-this verse, once an organized being is in view. Meaning stays lowercase.
+Cognition withdrawn. Principle is the chapter word. Meaning stays lowercase.
 The next study is not opened.
