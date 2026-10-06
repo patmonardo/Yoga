@@ -41,9 +41,11 @@ folder, consult these load-bearing project documents:
   source-bound: use existing technical concepts as established, without
   expanding them into new cross-tradition mappings or ontological claims
   unless asked. Prioritize careful paired study of each kārikā and Bhāṣya.
-- Establish the conventional translation from the Sanskrit and Bhāṣya.
-  In Bhāṣya studies, place philosophical interpretation in a separate
-  section titled **Interpretation**, not **Organon Reading**.
+- Establish the Scientific English rendering from the Sanskrit and Bhāṣya,
+  using the controlled Base–Essence–Principle vocabulary below. In Bhāṣya
+  studies, place the Techne interpretation in a separate section titled
+  **Interpretation**. Do not fall back to conventional Buddhist English
+  terminology when it conflicts with the Scientific mapping.
 - Use exactly one **Lexical Analysis** section per kārikā study. Do not add
   a separate *Padaccheda* section or additional lexical-analysis sections.
 - Follow VAK 1.17 as the fixed format: one concise word-division block and
@@ -72,7 +74,8 @@ folder, consult these load-bearing project documents:
   preserves first-order access without reproducing contamination while
   understanding what analysis discloses. Do not make it a third truth,
   equate *paramārtha* with one universal Absolute, or collapse the hub into
-  one dharma. Keep this synthesis separate from conventional translation;
+  one dharma. Keep this synthesis in the separate Techne interpretation,
+  not in source-text transcription or Lexical Analysis;
   see `Vasubandhu/VAK/06-marga/VAK_6.04.md` and
   `Vasubandhu/VAK/05-anusaya/VAK_5.29.md`.
 - The Absolute Base spans and combines Rūpa-skandha and Dharma-skandha. This
@@ -115,13 +118,22 @@ folder, consult these load-bearing project documents:
   permanently outstanding closure. Treat this as textually anchored, not
   as an imported metaphor.
 
-## Conventional translation vs. Techne reading
+## Scientific translation and Techne interpretation
 
-Keep conventional translation and Techne reading in distinct sections, so
-the controlled English rendering does not replace the local Sanskrit
-translation. The Kant-informed Techne reading states the Kośa's explicit
-systematic content; do not describe it as a merely external reconstruction
-or hedge it as something the Kośa does not state.
+The project uses Scientific terminology, not conventional Buddhist English
+terminology. In every English translation, summary, table, schema, and
+interpretation, apply the controlled Base–Essence–Principle vocabulary
+below. Preserve the Sanskrit source in its source-text block and retain
+Sanskrit forms in Lexical Analysis; do not use conventional English glosses
+as the default layer beneath a separate Techne reading. In particular,
+never translate *dhātu* as “element,” *āyatana* as “sense-base,” or
+*skandha* as “aggregate.”
+
+Keep source-text transcription, Scientific English rendering, and Techne
+interpretation structurally distinct. The English rendering itself must use
+Scientific terminology. The Kant-informed Techne interpretation states the
+Kośa's explicit systematic content; do not describe it as merely external
+to the source or hedge it as something the Kośa does not state.
 
 The Kośa explicitly presents Vijñāna as Discriminative Cognition joining and
 governing Perception and Conception. Their unity is Inconceivable as a
@@ -135,11 +147,11 @@ in the paired Bhāṣya's **Interpretation** and concisely in kārikā notes.
 
 For the incoming Techne of the inner instrument, use *vijñāna* as **Knowing**,
 *jñāna* as **Conceiving**, *prajñā* as **Science of Principles**, and
-*dhātu* as the **Principle instrument**. These are incoming Techne meanings,
-not replacements for conventional translation or Lexical Analysis: retain
-**Cognition** for *vijñāna* in conventional translation; in the Techne,
-understand it as **Higher Cognition of Scientific Knowing**. Keep the local
-source glosses in translation.
+*dhātu* as the **Principle instrument**. Render *vijñāna* as **Cognition**,
+more precisely **Discriminative Cognition**, in the Scientific English
+rendering; within the inner-instrument Techne, understand it as **Higher
+Cognition of Scientific Knowing**. Keep the local source glosses and
+grammatical force.
 Keep Thinking, Conceiving, and Knowing distinct: Conceiving is **Ordinary
 Knowing** (*vijñapti*), while Knowing is **Transcendental Knowing**
 (*prati-vijñapti*). This is a Techne relation, not a universal lexical
@@ -156,15 +168,15 @@ into one unqualified “Kośa position.”
 
 ## Current project terminology
 
-The controlled Organon mapping is **Skandha = Base, Āyatana = Essence,
+The controlled Scientific mapping is **Skandha = Base, Āyatana = Essence,
 Dhātu = Principle**; *rūpa* is **Form**, so *rūpa-skandha* is **Form Base**.
 Render the complete census as **five Bases, twelve Essences, and eighteen
-Principles**. This formula is mandatory in Organon prose, translations,
-summaries, and tables: do not render it as “five aggregates, twelve bases,
-and eighteen elements.” Preserve the Sanskrit terms in lexical analysis,
-while using the controlled Base–Essence–Principle terminology for the
-systematic count.
-In Organon prose and interpretive tables, use the English Base, Essence, and
+Principles**. This formula is mandatory in Scientific prose, translations,
+summaries, and tables: never render it as “five aggregates, twelve bases,
+and eighteen elements.” Preserve the Sanskrit terms in Lexical Analysis,
+while using the controlled Base–Essence–Principle terminology throughout
+the English scientific account.
+In Scientific prose and interpretive tables, use the English Base, Essence, and
 Principle terminology and translate their compounds (for example, **Cognition
 Base**, **Mind Essence**, and **Mind-Cognition Principle**). Retain their
 Sanskrit forms in source quotations and dedicated Lexical Analysis only.
@@ -173,14 +185,15 @@ eighteen cognitive Principles; do not reduce them to a flat list of elements
 or domains.
 Keep Dharma untranslated in these compound labels: *dharmaskandha* is
 Dharma Base, *dharmāyatana* is Dharma Essence, and *dharmadhātu* is Dharma
-Principle. In the Organon, the Defined Concept of each Dharma is
+Principle. In the Techne, the Defined Concept of each Dharma is
 `<Base, Essence, Principle>`; the three labels name distinct projections of
 that one Dharma, not separate Dharmas or redundant names. “Dharma Essence”
 means the Essence projection of a Dharma, not an Essence nested inside an
 Essence. Do not conflate *dharmāyatana* with *dharmaskandha*; retain their
 distinct classifications while understanding both within the complete
-Defined Concept. In conventional translation, follow the source's local use
-of the Sanskrit compounds rather than imposing this Organon formulation.
+Defined Concept. In all English prose, use the source-local Scientific
+compound specified by the mapping rather than inserting an unapproved
+traditional gloss.
 
 At the Āyatana level, Essence is the **Entry** into an Essential Relation of
 an Impure Dharma; this relation comprises all products of Reflective Mind.
@@ -200,56 +213,78 @@ in the core matrix.
 
 Reflectively, **Mind-Essence** is the Seer as Reflector, and **Dharma-Essence**
 is the Seen. Classify *artha* under the Seen; treat *viṣaya* as a specific
-moment of the Seen. This is an Organon-level relation, not a lexical
+moment of the Seen. This is a Techne-level relation, not a lexical
 definition. In the sensory schema, preserve the distinction between a
 cognitive Condition and an achieved Object.
 
 Older studies and models still contain previous labels, including Being,
-Domain, Concept, and Essence Base. During the Indriyanirdeśa pass, use the
-current mapping in new work but do not perform a broad migration. Complete
-the chapter first; then inventory the terminology and update the affected
+Domain, Concept, and Essence Base. Do not reproduce those labels in new or
+upgraded English material. During the Indriyanirdeśa pass, migrate each
+paired study as it is reviewed rather than making an unrelated repository-
+wide migration. Complete the chapter first; then inventory other affected
 materials systematically.
 
-## Conventional vocabulary
+## Scientific vocabulary
+
+Use these mappings in all English study text, including translations,
+interpretations, tables, OWL/RDF seeds, and headings. Do not introduce a
+conventional Buddhist English alternative in a “close” or “literal”
+translation.
 
 - `rūpa` -> **Form**, never **Matter**. Matter is opposed to Form in this
-  Organon framework, not an equivalent rendering; translating Form as Matter
+  Scientific framework, not an equivalent rendering; translating Form as Matter
   reverses the project's conceptual path.
-- `dhātu` -> **element** in conventional translation; **Principle** in the
-  Organon reading
+- `dhātu` -> **Principle**
+- `bhūta` / `mahābhūta` -> **Great Principle**; plural **Great Principles**
+- `bhautika` -> **Principle-dependent**
 - `vijñāna` -> **Cognition**, more precisely **Discriminative Cognition**,
-  with **Discrimination** as its defining function. Keep it distinct from
-  *citta* / consciousness and *manas* / Mind; do not
-  silently substitute **Principle**, which is the Organon rendering of
-  *dhātu*. This does not change the fixed compound **Mind-Cognition
-  Principle** (*manovijñānadhātu*).
-- `citta` -> **consciousness** in conventional translation; keep it distinct
+  with **Discrimination** as its defining function; in the inner-instrument
+  Techne, **Knowing** means Higher Cognition of Scientific Knowing. Keep it
+  distinct from *citta* / consciousness and *manas* / Mind; do not substitute
+  **Principle**, which is the rendering of *dhātu*. This does not change the
+  fixed compound **Mind-Cognition Principle** (*manovijñānadhātu*).
+- `citta` -> **consciousness**; keep it distinct
   from Cognition (*vijñāna*) and Mind (*manas*)
 - `vijñānaskandha` -> **Cognition Base**; `viṣaya` -> **condition** in the
   1.16 study. Preserve the source terms and the local Bhāṣya gloss.
 - `viṣaya` -> **Condition** in the current 1.16 project translation; retain
   “object” for *ālambana* where that is the source term.
-- `manas` -> the **Produced Cognitive Instrument** in the project architecture;
-  equipped with Mind Essence (*mana-āyatana*) and Mind Principle
+- `manas` -> **Mind**; the **Produced Cognitive Instrument** in the project
+  architecture, equipped with Mind Essence (*mana-āyatana*) and Mind Principle
   (*manodhātu*). Its production/ownership relation remains open for
-  project discussion; this is not a conventional lexical gloss.
-- `mana-āyatana` -> **Mind Essence**; `manodhātu` -> **Mind Principle** in the
-  Organon reading and project-level **Ordinary Logic**. These are distinct
+  project discussion.
+- `mana-āyatana` -> **Mind Essence**; `manodhātu` -> **Mind Principle** and project-level **Ordinary Logic**. These are distinct
   determinations within Manas's cognitive equipment, not synonyms for Manas.
 - `manovijñānadhātu` -> **Mind-Cognition Principle**, distinct from
   *manodhātu* / **Mind Principle**; project-level **Transcendental Logic**,
-  determined as Abstract Reason (Syllogistic Reasoning). Preserve the
-  conventional reading separately.
+  determined as Abstract Reason (Syllogistic Reasoning).
 - `dharmadhātu` -> **Dharma Principle**, not Essence Principle.
-- `bhūta` / `mahābhūta` -> **Element**
-- `āyatana` -> **Essence**; in the Organon reading, the Entry into an
+- `āyatana` -> **Essence**; the Entry into an
   Essential Relation of an Impure Dharma, comprising all products of
   Reflective Mind; Mind-Essence is Reflective Science at this level. Keep
   distinct from Dhātu / Determinate Science and from the Concept.
 - `indriya` -> **Faculty**, always. Never translate *indriya* as “organ.”
   Reserve “organ” for a separately named anatomical part, not as a gloss
   for *indriya*.
-- `skandha` -> **aggregate** in conventional translation; **Base** in the
-  Organon reading.
-- `citta` -> **consciousness** in conventional translation. Do not make it a
-  hidden substance behind events; Universal Citta is an Organon determination.
+- `skandha` -> **Base**
+- `citta` -> **consciousness**. Keep it distinct from Cognition (*vijñāna*)
+  and Mind (*manas*); do not make it a hidden substance behind events.
+  Universal Citta is a Techne determination.
+
+## Required Scientific-terminology regression check
+
+The specific recurring failure this instruction prevents is the re-entry of
+conventional Buddhist English labels into Scientific translations, especially
+rendering *dhātu* as “element” after the project has established **Principle**.
+This is a blocking terminology error, not a stylistic preference.
+
+- After changing any paired study in `Vasubandhu/Organon/01-dhatu/`, run:
+  `python -m unittest discover -s Vasubandhu/Organon/tests -p 'test_scientific_terminology.py'`
+- The regression test checks both the kārikā study and Bhāṣya for each reviewed
+  pair beginning at VAK 1.29. It rejects legacy translations such as “element,”
+  “sense-base,” “contact-base,” “Essence Base,” and “Essence Principle,” plus
+  obsolete Essence Principle and Mental-Cognition identifiers in OWL seeds.
+  It also verifies that the required Base–Essence–Principle mappings are declared.
+- Extend the test's verse range as each next pair is upgraded. Do not weaken,
+  skip, or whitelist a failing verse to make the test pass; correct the English
+  study text while preserving source Sanskrit, argument, and attribution.

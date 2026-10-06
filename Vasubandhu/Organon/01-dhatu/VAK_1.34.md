@@ -57,7 +57,7 @@ ardhaṃ ca dharmataḥ
 ```
 
 The seven are the five sensory cognition Principles, the
-mental-cognition Principle, and the Mind Principle. They are *sālambana* because they
+Mind-Cognition Principle, and the Mind Principle. They are *sālambana* because they
 apprehend an object-range (*viṣayagrahaṇa*). Associated mental factors
 within the Dharma Principle take the same objects together with cognition.
 The ten Form Principles and the unassociated portion of the Dharma Principle

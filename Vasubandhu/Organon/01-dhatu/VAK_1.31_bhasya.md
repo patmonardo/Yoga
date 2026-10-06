@@ -43,7 +43,7 @@ transcription repairs, not evidence of independent manuscript variants.
 
 ## 3. Continuous Conventional Translation
 
-The Mind element, Dharma element, and Mind-Cognition element
+The Mind Principle, Dharma Principle, and Mind-Cognition Principle
 belong to the Formless Realm.
 
 Those free from passion for Form are born there. Therefore the ten
@@ -51,7 +51,7 @@ Principles whose nature is Form, and the five sensory-Cognition Principles
 having those Principles as their supports and objects, do not occur there.
 
 How many are outflow-bearing, and how many outflow-free? The three
-elements just mentioned admit both outflow-bearing and outflow-free
+Principles just mentioned admit both outflow-bearing and outflow-free
 instances.
 
 Those included in the truth of the path or among the unconditioned are

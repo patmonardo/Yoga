@@ -263,7 +263,7 @@ vak:SvabhavaVikalpa
 vak:AbhinirupanaVikalpa
     a vak:DiscriminationMode ;
     vak:realizedBy vak:UnconcentratedPrajna ;
-    vak:associatedWith vak:MentalCognitionPrinciple .
+    vak:associatedWith vak:MindCognitionPrinciple .
 
 vak:AnusmaranaVikalpa
     a vak:DiscriminationMode ;

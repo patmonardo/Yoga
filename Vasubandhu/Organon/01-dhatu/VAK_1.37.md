@@ -31,7 +31,7 @@ naiḥṣyandika-vipākajāḥ  → naiḥṣyandikāḥ vipākajāḥ
 | na | negative particle | not |
 | śabdaḥ | nominative masculine singular | Sound Principle |
 | a-pratighāḥ | nominative masculine plural adjective | non-resistant, non-obstructive |
-| aṣṭau | numeral | seven Cognition Principles plus the Essence Principle |
+| aṣṭau | numeral | seven Cognition Principles plus the Dharma Principle |
 | naiḥṣyandikāḥ | nominative masculine plural adjective | continuity-born through homogeneous causal succession |
 | vipākajāḥ | nominative masculine plural adjective | maturation-born |
 
@@ -79,7 +79,7 @@ The final clause concerns the eight non-resistant Principles:
 
 ```text
 seven Cognition Principles
-+ Essence Principle
++ Dharma Principle
     → continuity-born or maturation-born
 ```
 
@@ -96,7 +96,7 @@ Principles.
 
 ### Bhāṣya-informed translation
 
-> The five sensory Faculties are maturation-born and upacaya-reinforced through nourishment, conditioning, sleep, and distinctions of concentration. Sound is not itself maturation-born because its immediate production proceeds from effort, although it may be upacaya-reinforced or arise through causal continuity. The seven Cognition Principles together with the Essence Principle include continuity-born and maturation-born instances, but are not upacaya-reinforced.
+> The five sensory Faculties are maturation-born and upacaya-reinforced through nourishment, conditioning, sleep, and distinctions of concentration. Sound is not itself maturation-born because its immediate production proceeds from effort, although it may be upacaya-reinforced or arise through causal continuity. The seven Cognition Principles together with the Dharma Principle include continuity-born and maturation-born instances, but are not upacaya-reinforced.
 
 For the eight Principles, these are permitted causal classes among their
 instances; the verse does not say that each instance is produced
@@ -104,11 +104,11 @@ simultaneously by both causes.
 
 ## 6. Philosophical Translation
 
-> A Principle is determined not only by its present character but also by the manner in which its continuity is generated. The Faculties possess a maturation-born constitution that can be maintained and reinforced through living conditions. Sound is an event initiated through present effort rather than a direct maturation-result. The non-resistant Cognition and Essence Principles lack upacaya reinforcement yet remain subject to causal continuity and maturation.
+> A Principle is determined not only by its present character but also by the manner in which its continuity is generated. The Faculties possess a maturation-born constitution that can be maintained and reinforced through living conditions. Sound is an event initiated through present effort rather than a direct maturation-result. The non-resistant Cognition Principles and the Dharma Principle lack upacaya reinforcement yet remain subject to causal continuity and maturation.
 
-Organon rendering:
+Techne reading:
 
-> The Principle of the Agent now receives a genesis protocol. Its Faculties are inherited capacities whose maturation-continuity is protected and reinforced by living conditions. Cognition Principles are non-resistant without being causally ungrounded. The Agent is therefore not posited outside causality; it is a differentiated system of generated and maintained capacities.
+> The Principle Processor distinguishes maturation, reinforcement, and continuity as causal determinations. The internal Faculties are maturation-born and reinforced through living conditions; Sound is not directly maturation-born even where its causal history includes karma. The non-resistant Cognition Principles and Dharma Principle are causally continuous without being upacaya-reinforced.
 
 ## 7. Technical Vocabulary
 
@@ -206,10 +206,10 @@ Faculty-operation
     → actual apprehensive capacity
 ```
 
-Thus the Faculty is not reducible to visible configuration, is not an
-independent Seer, and is not a merely abstract function. It is an internal
-capacity with a causal history and a maintainable continuity. This is part
-of the constitution of the Agent, not an incidental biological note.
+Thus the verse treats the internal Faculties as Principles with a causal
+history and maintainable continuity, not as isolated or self-explaining
+capacities. Maturation and reinforcement are distinct contributions to
+their continued operation.
 
 Sound reveals the difference between remote ancestry and immediate genesis.
 A disciplined karmic history may condition the Form-support of a beautiful
@@ -225,22 +225,28 @@ not-upacaya-reinforced
     ≠ non-causal
 ```
 
-Cognition and Essence flow through homogeneous causal continuities and may
-also arise as maturation-results. Inwardness does not exempt a state from
-causal genesis.
+Cognition Principles and the Dharma Principle include instances produced
+through homogeneous causal continuity and instances that arise as
+maturation-results. Inwardness does not exempt a state from causal genesis.
 
-The Principle of the Agent has consequently acquired a genetic architecture:
+The Principle Processor therefore distinguishes:
 
 ```text
-Agent capacity
-    = inherited causal lineage
+causal maturation
     + living reinforcement
     + present operation
 ```
 
-Later Yoga will work upon this constituted Agent. It will not create its
-faculties ex nihilo; it will regulate, reinforce, transform, and eventually
-purify modes whose causal structures the Kośa has already made explicit.
+The verse establishes these causal determinations for the Principles; it
+does not collapse causal origin, reinforcement, and operation into one
+relation.
+
+Vijñāna is Discriminative Cognition joining and governing Perception and
+Conception; their unity is Inconceivable as homogeneous operation, and its
+Idea is disclosed in the Cognition Base. Vijñāna governs Manas and guides
+Dharma Base; Form Base and Dharma Base classify the same *avijñapti*
+distinctly, with Vijñāna bearing a *prati* relation to it. Vijñāna remains
+distinct from consciousness (*citta*) and Mind (*manas*).
 
 ## 10. OWL++ Seed
 

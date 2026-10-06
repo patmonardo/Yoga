@@ -77,7 +77,7 @@ the local kārikā transcription separates the words.
 How many take an object, and how many do not?
 
 The seven cognitive Principles take objects. The visual, auditory,
-olfactory, gustatory, bodily, and mental-cognition Principles, together
+olfactory, gustatory, bodily, and Mind-Cognition Principles, together
 with the Mind Principle, are these seven. They take objects because
 they apprehend an object-field.
 

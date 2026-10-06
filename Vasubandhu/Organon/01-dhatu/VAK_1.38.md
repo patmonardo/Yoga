@@ -1,4 +1,4 @@
-# VAK_1.38 — Causal Classes, Dravya, and Acquisition
+# VAK_1.38 — Causal Classes, Substance Status, and Acquisition
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -28,7 +28,7 @@ sahāpi ca                 → saha api ca
 | tridhā | adverb | in all three causal classes |
 | anye | nominative masculine plural | the remaining four Form-bearing Principles |
 | dravyavān | nominative masculine singular adjective | bearing `dravya` in the sense specified by the Bhāṣya |
-| ekaḥ | nominative masculine singular | one Principle alone, the Essence Principle |
+| ekaḥ | nominative masculine singular | one Principle alone, the Dharma Principle |
 | kṣaṇikāḥ | nominative masculine plural adjective | possessing the exceptional single-moment occurrence specified by the Bhāṣya |
 | paścimāḥ trayaḥ | nominative masculine plural | the final three in the eighteen-Principle sequence |
 | cakṣur-dhātu | dual compound member | Eye-Faculty Principle |
@@ -59,20 +59,20 @@ Each admits maturation-born, upacaya-reinforced, and continuity-born
 instances. Sound is not included because 1.37 excluded it from
 maturation-born status.
 
-`Dravyavān ekaḥ` refers to the Essence Principle alone. The Bhāṣya's
+`Dravyavān ekaḥ` refers to the Dharma Principle alone. The Bhāṣya's
 reason is limited and exact:
 
 ```text
-the Unconditioned is called dravya because of its sāra
-the Unconditioned is included in the Essence Principle
-therefore the Essence Principle alone bears dravya
+the Unconditioned is classed as substance because of its essential core
+the Unconditioned is included in the Dharma Principle
+therefore the Dharma Principle alone bears substance-status
 ```
 
-This does not make every Essence in the Essence Principle `dravya`, or
+This does not make every Dharma in the Dharma Principle substance, or
 turn the entire Principle into one substance.
 
 The phrase `kṣaṇikāḥ paścimās trayaḥ` receives a specialized Bhāṣya
-explanation. The Mind, Essence, and Mental-Cognition Principles occur
+explanation. The Mind, Dharma, and Mind-Cognition Principles occur
 in the first pure receptivity to Dharma-knowledge concerning suffering
 for a single moment without a preceding homogeneous pure cause. The
 phrase does not claim that only these three Principles have momentary
@@ -87,11 +87,11 @@ present manifestation (`saṃmukhīkaraṇa`).
 
 ### Close syntactic construe
 
-> The remaining [four Principles] are threefold. One [the Essence Principle] bears `dravya`. The last three [Principles] are momentary. The Eye-Faculty and Eye-Cognition Principles may be acquired separately and also together.
+> The remaining [four Principles] are threefold. One [the Dharma Principle] bears substance. The last three [Principles] are momentary. The Eye-Faculty and Eye-Cognition Principles may be acquired separately and also together.
 
 ### Bhāṣya-informed translation
 
-> Visible Form, smell, taste, and tangible Form admit maturation-born, upacaya-reinforced, and continuity-born instances. The Essence Principle alone bears `dravya`, because it includes the Unconditioned. The Mind, Essence, and Mental-Cognition Principles are called momentary for the first pure receptivity to Dharma-knowledge concerning suffering, without a preceding homogeneous pure cause. The Eye-Faculty and Eye-Cognition Principles may be acquired separately or jointly.
+> Visible Form, smell, taste, and tangible Form admit maturation-born, upacaya-reinforced, and continuity-born instances. The Dharma Principle alone bears substance-status, because it includes the Unconditioned. The Mind, Dharma, and Mind-Cognition Principles are called momentary for the first pure receptivity to Dharma-knowledge concerning suffering, without a preceding homogeneous pure cause. The Eye-Faculty and Eye-Cognition Principles may be acquired separately or jointly.
 
 The second rendering exposes the special senses of `dravyavān` and
 `kṣaṇika` that the compressed Kārikā cannot supply on its own.
@@ -100,16 +100,16 @@ The second rendering exposes the special senses of `dravyavān` and
 
 > The system distinguishes causal classes, the Unconditioned, a first pure cognitive occurrence, and acquisition of capacity. That first occurrence is conditioned and momentary, yet has no preceding homogeneous pure cause. Faculty and cognition are coordinated without being identical: either Principle may be newly acquired without the other, or both may be acquired together.
 
-Organon rendering:
+Techne reading:
 
-> In the Organon reading, the first pure cognitive occurrence begins within conditioned existence without repeating a prior homogeneous pure event. The capacity for vision, possession of that capacity, acquisition of it, and its manifestation remain distinct determinations. This is systematic jñāna of the Agent, not yet the Kernel Logic that may later formalize it.
+> The first pure cognitive occurrence is conditioned and momentary, yet has no preceding homogeneous pure cause. The Principle Processor also distinguishes a Faculty's capacity, its acquisition, its possession, and its present manifestation.
 
 ## 7. Technical Vocabulary
 
 | Sanskrit | Project rendering | Determination |
 |---|---|---|
 | tridhā | in three causal classes | maturation-born, upacaya-reinforced, or continuity-born |
-| dravyavān / dravyayukta | bearing `dravya` | applies to the Essence Principle because it includes the Unconditioned |
+| dravyavān / dravyayukta | substance-bearing | applies to the Dharma Principle because it includes the Unconditioned |
 | dravya | `dravya` status | ascribed here to the Unconditioned on account of its `sāra` |
 | sāra | core / essential character | reason given for the Unconditioned's `dravya` status |
 | kṣaṇika | momentary | here, lacking homogeneous continuation for the single initial pure moment |
@@ -138,11 +138,11 @@ The `dravya` inference is scoped:
 Unconditioned(x)
     → Dravya(x)
 
-Includes(EssencePrinciple, Unconditioned)
-    → Dravyavan(EssencePrinciple)
+Includes(DharmaPrinciple, Unconditioned)
+    → SubstanceBearing(DharmaPrinciple)
 
-Dravyavan(EssencePrinciple)
-    ↛ EveryEssenceIn(EssencePrinciple, Dravya)
+SubstanceBearing(DharmaPrinciple)
+    ↛ EveryDharmaIn(DharmaPrinciple, Substance)
 ```
 
 The first pure moment is:
@@ -159,10 +159,10 @@ Its Principle distribution is:
 ```text
 CittaOf(DharmaKnowledgeReceptivity)
     → MindPrinciple
-    ∧ MentalCognitionPrinciple
+    ∧ MindCognitionPrinciple
 
-CoarisenEssences
-    → EssencePrinciple
+CoarisenDharmas
+    → DharmaPrinciple
 ```
 
 Eye-Faculty and Eye-Cognition admit a fourfold acquisition relation:
@@ -188,57 +188,28 @@ Capacity
 
 ## 9. Interpretive Note
 
-VAK 1.38 contains two results of exceptional importance for the Principle
-of the Agent.
+VAK 1.38 completes the causal classification and then distinguishes three
+further determinations: the Dharma Principle's inclusion of the
+Unconditioned, the single moment without a preceding homogeneous pure cause,
+and separate or joint acquisition of the Eye-Faculty and Eye-Cognition
+Principles. Substance-bearing status belongs to the Dharma Principle by
+virtue of its inclusion of the Unconditioned; it does not make every Dharma
+within it a substance.
 
-First, the Path can begin. Ordinary conditioned Essences inherit their kind
-through causal continuity, but the first pure receptivity cannot
-have a prior homogeneous pure cause: by definition, no earlier pure
-Path-event of that kind has occurred. Yet the event is not unconditioned or
-uncaused. It is a conditioned, momentary cognitive complex whose novelty
-must be explained without reducing it to repetition.
+The first pure cognitive occurrence remains conditioned. Its one-moment
+exception concerns the absence of a prior homogeneous pure cause, not the
+absence of all conditions. The citta associated with receptivity to
+Dharma-knowledge is assigned to the Mind and Mind-Cognition Principles;
+the co-arisen Dharmas belong to the Dharma Principle. The two fourfold
+analyses keep acquisition, possession, and present manifestation distinct.
 
-This is a genuine Seed structure:
-
-```text
-conditioned causal field
-    → first pure cognitive event
-    → new homogeneous Path-lineage becomes possible
-```
-
-The Kośa has not yet supplied our later Kernel Logic for emergence. It has
-supplied the scientific determination that any adequate Logic must respect:
-a first member of a cognitive lineage cannot be caused by an earlier member
-of that same lineage.
-
-Second, the Bhāṣya separates four notions that an undifferentiated Agent model would
-collapse:
-
-```text
-Faculty
-possession
-acquisition
-manifest Cognition
-```
-
-The Eye-Faculty Principle may be acquired without the Eye-Cognition
-Principle; Eye-Cognition may be newly acquired or manifested without a
-new acquisition of the Eye-Faculty; both may be acquired together; and
-neither may be newly acquired. Their correlation is therefore a
-structured relation, not identity.
-
-This refines the Model SDK without turning the Kośa into literal software or
-Kernel Logic. The Kośa is systematic jñāna: it gives the Rational Agent a
-high-level science of its possible capacities and states. A later
-`Logic:Model` can formalize this knowledge and serve as the Agent's entry
-into the GDS Kernel, but that architectural translation belongs to the
-Vārttika.
-
-The `dravyavān` clause prevents a contrary flattening. The Essence
-Principle has unique reach because it includes the Unconditioned. Its
-`dravya` status does not turn the entire Principle into one substance or
-apply to every Essence it contains. It marks the Principle's capacity to
-include what conditioned Bases cannot.
+The Kośa explicitly presents Vijñāna as Discriminative Cognition joining
+and governing Perception and Conception. Their unity is Inconceivable as
+a homogeneous operation; its Idea is disclosed in the Cognition Base.
+Vijñāna governs Manas and guides Dharma Base. Form Base and Dharma Base
+classify the same *avijñapti* distinctly, and Vijñāna bears a *prati*
+relation to it. Vijñāna remains distinct from consciousness (*citta*) and
+Mind (*manas*).
 
 ## 10. OWL++ Seed
 
@@ -253,7 +224,7 @@ vak:VAK_1_38
     vak:hasTopic vak:GenesisNoveltyAndAcquisition ;
     vak:belongsTo vak:Dhatunirdesa .
 
-vak:EssencePrinciple
+vak:DharmaPrinciple
     vak:contains vak:Unconditioned ;
     vak:hasStatus vak:DravyavanPrinciple .
 
@@ -262,8 +233,8 @@ vak:FirstPureMoment
         vak:MomentaryEvent ;
     vak:lacksCause vak:PriorHomogeneousPureCause ;
     vak:instantiates vak:MindPrinciple,
-        vak:EssencePrinciple,
-        vak:MentalCognitionPrinciple .
+        vak:DharmaPrinciple,
+        vak:MindCognitionPrinciple .
 
 vak:EyeFacultyPrinciple
     a vak:Capacity .
@@ -275,7 +246,7 @@ vak:Acquisition
     vak:distinctFrom vak:Possession,
         vak:Manifestation .
 
-organon:AgentStateModel
+organon:PrincipleAcquisitionModel
     a vak:HighLevelScientificModel ;
     organon:distinguishes vak:Capacity,
         vak:Acquisition,

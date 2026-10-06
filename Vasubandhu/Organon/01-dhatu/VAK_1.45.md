@@ -22,7 +22,7 @@ vijñānaṃ taiḥ          → vijñānam taiḥ
 nirucyate              → nirucyate
 ```
 
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | tad-vikāra | compound member | alteration of those Faculties |
 | vikāritvāt | ablative neuter singular abstract noun | because Cognition is altered when they are altered |
@@ -40,45 +40,48 @@ the criterion for naming. They are related but not identical arguments.
 
 ## 4. Grammar
 
-The Bhāṣya begins from dual dependence:
+The commentary begins from dependence on both Faculty and Object.
+Its restored opening clause establishes “Principles” as the governing
+topic:
 
 ```text
 Cognition depends upon Faculty
-Cognition depends upon field
+Cognition depends upon Object
 ```
 
-It then asks why only eye and the other faculties are called `āśraya`.
-The Kārikā answers:
+It then asks why only Eye and the other Faculties are called supports.
+The verse answers:
 
 ```text
-tad-vikāra-vikāritvāt
-    because Cognition is altered when those Faculties are altered
+corresponding Faculty alteration
+    → corresponding Cognition alteration
 
-āśrayāḥ cakṣur-ādayaḥ
-    Eye and the others are supports
+Eye and the other Faculties
+    → SupportsTheirCorrespondingCognitions
 ```
 
 The relevant Faculty alterations are benefit or improvement, injury,
-acuity, and dullness. Cognition follows these changes. The field remains
-an indispensable condition, but its alteration does not determine the
-capacity and quality of Cognition in this same support-specific manner.
+acuity, and dullness. Cognition follows these changes. The verse preserves
+dependence on both Faculty and Object; the commentary distinguishes the
+Object by saying that its alteration does not produce the corresponding
+change in Cognition.
 
 The second line answers a naming question. Why say Eye-Cognition,
 Ear-Cognition, and so on, rather than Form-Cognition, sound-Cognition, and
 so on?
 
 ```text
-asādhāraṇatvāt
-    because each Faculty is specific, not common to other Cognitions
+Faculty specificity
+    not common to other Cognitions
 
-vijñānaṃ taiḥ nirucyate
+designation by Faculty
     Cognition is designated by those Faculties
 ```
 
 One Eye Faculty supports its corresponding Eye-Cognition. Visible Form,
-by contrast, may serve as a field-support for another person's visual
-Cognition and for a later Mind-Cognition. The Faculty support is specific;
-the field is shareable.
+by contrast, may serve as an Object for another person's visual Cognition
+and for Mind-Cognition. The Faculty support is specific; the Object is
+shareable.
 
 ## 5. Translation
 
@@ -86,35 +89,25 @@ the field is shareable.
 
 > Eye and the other Faculties are supports because Cognition is altered by their alteration. Therefore Cognition is designated by them, for they are specific and not common.
 
-### Bhāṣya-informed translation
+### Commentary-informed translation
 
-> The Faculties are called supports because benefit, injury, acuity, or dullness in a Faculty produces a corresponding alteration in its Cognition. Cognition is named from its Faculty—Eye-Cognition, Ear-Cognition, and so forth—because each Faculty supports its own specific kind of Cognition, whereas a field such as visible Form can be shared by many sensory and mental Cognitions.
+> The Faculties are called supports because benefit, injury, acuity, or dullness in a Faculty produces a corresponding alteration in its Cognition. Cognition is named from its Faculty—Eye-Cognition, Ear-Cognition, and so forth—because each Faculty supports its own specific kind of Cognition, whereas an Object such as visible Form can be shared by many sensory and mental Cognitions.
 
-## 6. Philosophical Translation
+## 6. Specific Support and Shared Object
 
-> A condition is the determining support of Cognition when its variation governs corresponding variation in Cognition. The field supplies what is apprehended; the Faculty supplies the specific mode of apprehending. Cognition therefore takes its name from the specific Faculty, not from its shareable field.
+The Faculty is the specific support whose alteration corresponds to
+alteration in Cognition. An Object such as visible Form can be shared by
+Mind-Cognition and another Eye-Cognition. This naming rule distinguishes
+the Faculty's support relation from the Object relation without denying
+that Cognition depends on both.
 
-Organon rendering:
+## 7. Scope of the Naming Rule
 
-> Within the Principle Pipeline, a specific Faculty determines the mode of Cognition, while a field may be shared across Cognitions. Alteration of a Faculty alters its corresponding Cognition. The support relation and the field relation remain distinct.
-
-## 7. Technical Vocabulary
-
-| Sanskrit | Project rendering | Determination |
-|---|---|---|
-| ubhayādhīna | dependent upon both | Cognition depends upon Faculty and field |
-| tadvikāra-vikāritva | being altered through alteration of that | criterion establishing the Faculty as support |
-| āśraya | support | specific basis whose condition governs Cognition |
-| ālambana | field-support | that toward which Cognition is directed |
-| viṣaya | field | kind and range of content appropriate to a Faculty |
-| anugraha | benefit / improvement | positive modification of faculty-capacity |
-| upaghāta | injury / impairment | negative modification of faculty-capacity |
-| paṭutā | acuity / sharpness | strengthened precision of Faculty and Cognition |
-| mandatā | dullness / weakness | diminished precision of Faculty and Cognition |
-| tadadhīnatva | dependence upon that | stronger dependence grounding support-status |
-| asādhāraṇa | specific, not common | Faculty restricted to its corresponding kind of Cognition |
-| sādhāraṇa | common / shareable | field available to multiple Cognitions and continua |
-| nirucyate | is designated | naming from the specific support |
+“Support” names the Faculty relation; “Object” names what Cognition is
+directed toward. The commentary explicitly contrasts them here; do not
+add another relation to this account. The specific Faculty gives
+Cognition its name, while an Object may be shared across kinds of
+Cognition and across individuals.
 
 ## 8. Logical Determination
 
@@ -123,7 +116,7 @@ Cognition has dual dependence:
 ```text
 Arises(Cognition)
     → Requires(FacultySupport)
-    ∧ Requires(FieldSupport)
+    ∧ Requires(ObjectRelation)
 ```
 
 But the dependencies have different functions:
@@ -134,8 +127,8 @@ Alter(Faculty,
     → CorrespondinglyAlter(Cognition)
     → DeterminingSupport(Faculty)
 
-FieldSupport(Field)
-    → SuppliesContentAndDirection(Cognition)
+ObjectRelation(Object)
+    → MayBeSharedAcrossCognitions(Object)
 ```
 
 The naming rule is:
@@ -146,43 +139,42 @@ SupportsOnly(EyeFaculty, EyeCognition)
     → NamedFrom(EyeCognition, EyeFaculty)
 ```
 
-The field is shareable:
+The Object is shareable:
 
 ```text
 VisibleForm(x)
-    → MayBeFieldOf(x, ThisEyeCognition)
-    ∧ MayBeFieldOf(x, AnotherContinuumEyeCognition)
-    ∧ MayBeFieldOf(x, SubsequentMindCognition)
-    → CommonFieldSupport(x)
+    → MayBeObjectOf(x, ThisEyeCognition)
+    ∧ MayBeObjectOf(x, AnotherPersonEyeCognition)
+    ∧ MayBeObjectOf(x, MindCognition)
+    → ShareableObject(x)
 ```
 
 Therefore:
 
 ```text
 HowCognitionOccurs
-    → determined by Asraya
+    → determined by Support
 
 TowardWhatCognitionIsDirected
-    → determined through Alambana and Visaya
+    → determined by Object
 
 SpecificSupport
-    ≠ ShareableFieldSupport
+    ≠ ShareableObjectRelation
 ```
 
 The relation is:
 
 ```text
-Cognition
-    = SpecificFacultySupport
-    + ShareableFieldRelation
+DependsOn(Cognition, SpecificFacultySupport)
+    ∧ DependsOn(Cognition, ShareableObjectRelation)
 ```
 
 ## 9. Interpretive Note
 
 VAK 1.45 completes the support analysis begun in 1.44. Cognition does not
-arise without a field, but not every necessary condition has the same
-systematic role. The Faculty is called `āśraya` because alteration in the
-Faculty governs corresponding alteration in Cognition.
+arise without an Object, but not every necessary condition has the same
+systematic role. The Faculty is called a support because alteration in
+the Faculty governs corresponding alteration in Cognition.
 
 Faculty-capacity is therefore graded, not merely present or absent:
 
@@ -192,29 +184,18 @@ sharp or dull
     → correspondingly altered Cognition
 ```
 
-The verse also explains the naming of each Cognition Principle. Eye-Cognition
-is not named from visible Form because visible Form can be a field for
-Cognitions in multiple continua and for later Mind-Cognition. The Eye Faculty
-is specific: it supports its corresponding visual Cognition.
+The verse also explains the naming of Cognition. Eye-Cognition is named
+from the specific Eye Faculty, not from visible Form, which can be an
+Object for Cognitions in multiple individuals and for Mind-Cognition.
+The account preserves both dependence relations without treating their
+roles as interchangeable.
 
-For the Organon, Dhātu is Pure Principle—Abhidharma itself. These
-differentiated Cognitions are impure *prajñā* products within the recursive
-Principle Pipeline. A product remains a Principle because its identity is
-grounded in supporting Principles. The verse's distinction is:
-
-```text
-Faculty Principle
-    → specific support for its corresponding Cognition
-
-Form field
-    → shareable field-support
-
-Cognition Principle
-    → product determined through those distinct relations
-```
-
-This recursive model is the project interpretation, not terminology or
-metaphysics attributed to the Bhāṣya.
+In the governing model, Vijñāna as Discriminative Cognition joins and
+governs Perception and Conception. Their unity is Inconceivable as a
+homogeneous operation, and its Idea is disclosed in Cognition Base.
+Vijñāna governs Manas and guides the reading of Dharma Base. Form Base
+and Dharma Base classify the same *avijñapti* distinctly; Vijñāna bears
+a *prati* relation to it and remains distinct from consciousness and Mind.
 
 ## 10. OWL++ Seed
 
@@ -227,30 +208,31 @@ vak:VAK_1_45
     a vak:Karika ;
     rdfs:label "VAK 1.45" ;
     vak:hasTopic vak:SpecificSupportAndCognitionNaming ;
-    vak:belongsTo vak:Dhatunirdesa .
+    vak:belongsTo vak:PrincipleAnalysis .
 
 vak:FacultySupport
-    a vak:Asraya ;
-    vak:hasProperty vak:Specificity ;
-    vak:determines vak:CognitionMode .
+    a vak:Support ;
+    vak:hasProperty vak:Specificity .
 
-vak:FieldSupport
-    a vak:Alambana ;
-    vak:hasProperty vak:Shareability ;
-    vak:supplies vak:CognitionContentAndDirection .
+vak:ObjectRelation
+    a vak:CognitiveRelation ;
+    vak:hasProperty vak:Shareability .
 
 vak:FacultyAlteration
     vak:causesCorrespondingAlterationIn vak:Cognition .
 
+vak:VisibleForm
+    a vak:Object ;
+    vak:mayBeObjectOf vak:MindCognition,
+        vak:AnotherEyeCognition .
+
 vak:Cognition
     vak:namedFrom vak:SpecificFacultySupport ;
     vak:requires vak:FacultySupport,
-        vak:FieldSupport .
+        vak:ObjectRelation .
 
-organon:PrinciplePipelineReading
+organon:SupportObjectDistinction
     a organon:ProjectInterpretation ;
-    organon:distinguishes vak:PurePrinciple,
-        vak:ImpurePrajna,
-        vak:SpecificFacultySupport,
-        vak:ShareableFieldRelation .
+    organon:distinguishes vak:FacultySupport,
+        vak:ObjectRelation .
 ```

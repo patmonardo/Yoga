@@ -1,6 +1,6 @@
-# VAK_1.45 Bhāṣya — Support and the Naming of Cognition
+# VAK_1.45 Commentary — Support and the Naming of Cognition
 
-## 1. Kārikā Anchor
+## 1. Verse Anchor
 
 > tadvikāravikāritvād āśrayāś cakṣurādayaḥ /
 >
@@ -10,7 +10,7 @@
 > Cognition changes when they change. Because of this, and because
 > they are specific, Cognition is designated by them.
 
-The Bhāṣya resolves “because of this” through support-status and
+The commentary resolves “because of this” through support-status and
 explicitly joins it to specificity. The second line therefore
 retains both grounds for designation, rather than treating the
 first as an incidental introduction to the second.
@@ -51,185 +51,164 @@ at 35.01–02 about the levels of Body, Eye, Form, and Cognition
 introduces 1.46. The research reference extending this unit through
 35.01 is therefore tightened here.
 
-Word division and sandhi presentation are regularized. The running
-text's *tadadhīnatvat* is repaired to *tadadhīnatvāt*. Its *na punā*
-is retained as a local irregularity, translated contextually as
-“rather than”; expected *na punaḥ* would not have the displayed
-long-vowel ending. The slightly compressed *sādhīyas tadadhīnatvāt*
-is construed as stronger dependence, following the direction of
-the argument, without claiming a critically established reading.
+Word division and sandhi presentation are regularized. A local
+irregular form is retained and translated contextually as “rather
+than.” A compressed phrase is construed as stronger dependence,
+following the direction of the argument without claiming a
+critically established reading.
 
-The brief *dhātava ity adhikāraḥ*, omitted from the research excerpt,
-is restored: the governing topic is Principles. This
-matters because “the eye and the others” is being used within that
-classification.
+A brief clause omitted from the research excerpt is restored: the
+governing topic is Principles. This matters because “the Eye and the
+others” is being used within that classification.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Since the arising of Cognition depends upon both, why are only
 the Eye and the other Faculties called supports, and not visible
-Form and the other fields? The Eye and the others are supports
+Form and the other Objects? The Eye and the others are supports
 because the corresponding Cognition changes when they change.
 “Principles” is the governing topic.
 
 For when the Eye and the other Faculties change, their corresponding
 Cognitions change, following their benefit or impairment, acuity
 or dullness. The corresponding change does not occur through a
-change in visible Form and the other fields. Therefore, because
+change in visible Form and the other Objects. Therefore, because
 Cognition depends more strongly upon them, they alone are supports,
-not visible Form and the other fields.
+not visible Form and the other Objects.
 
-Why, although visible Form and the other fields are cognized by
+Why, although visible Form and the other Objects are cognized by
 these Cognitions, do we speak of Eye-Cognition through Mind-Cognition,
-rather than Form-Cognition through Essence-Cognition? Those Eye and
+rather than Form-Cognition through Dharma-Cognition? Those Eye and
 other Faculties are their supports. Because of this, and because
 they are specific, Cognition is designated by them.
 
 How are they specific? An Eye cannot support another kind of
-Cognition. Visible Form, however, can be the field-support of
-Mind-Cognition and of another Eye-Cognition. The same is to be
-understood through the Body Faculty. Therefore, because of support-
-status and specificity, Cognition is designated by that very
-support, not by visible Form and the other fields—as in
+Cognition. Visible Form, however, can be an Object for Mind-Cognition
+and another Eye-Cognition. The same is to be understood through the
+Body Faculty. Therefore, because of support-status and specificity,
+Cognition is designated by that very support, not by visible Form
+and the other Objects—as in
 “drum-sound” and “barley-sprout.”
 
-“Another Eye-Cognition” renders *anyacakṣurvijñāna* without adding
-a temporal sequence. In the contrast with the specific Eye it allows
-the shared-field reading familiar from 1.39, including another
-person's visual Cognition. The text does not specify that the
-Mind-Cognition mentioned here must be a subsequent recollection.
+“Another Eye-Cognition” adds no temporal sequence. In the contrast
+with the specific Eye it allows the reading that visible Form is
+shared with another person's visual Cognition. The text does not
+specify that the Mind-Cognition mentioned here must be a subsequent
+recollection.
 
 ## 4. Movement and Voices of the Commentary
 
 Two questions organize the exposition. The first accepts dependence
-on Faculty and field, then asks why the name “support” belongs
-to the former. The answer invokes the corresponding Cognition's
-variation with the Faculty's condition.
+on Faculty and Object, then asks why the name “support” belongs to
+the former. The answer invokes the corresponding Cognition's
+variation with the Faculty.
 
-The second accepts that fields are cognized, then asks why the
-Cognition's name nevertheless derives from its Faculty. The answer
-combines support-status with specificity and contrasts the Faculty
-with a field available to more than one Cognition.
+The second accepts that Objects are cognized, then asks why Cognition
+is named from its Faculty. The answer combines support-status with
+specificity and contrasts the Faculty with an Object available to
+more than one Cognition.
 
-There is no explicitly named rival school or alternative thesis
-in this short unit. Questions and replies develop the explanation.
-They should not be recast as a debate in which the field is denied
-all causal relevance: dependence upon both is the opening premise.
+There is no explicitly named rival school or alternative thesis in
+this short unit. Questions and replies develop the explanation. They
+should not be recast as a debate in which the Object is denied causal
+relevance: dependence upon both is the opening premise.
 
 ## 5. What Makes the Faculty a Support?
 
-*Ubhayādhīnāyāṃ vijñānotpattau* is a locative construction: “when
-the arising of Cognition depends upon both.” The referents are
-the Faculty and field. The question distinguishes their roles
-within that dependence.
+The opening construction means “when the arising of Cognition depends
+upon both.” The referents are the Faculty and the Object. The question
+distinguishes their roles within that dependence.
 
-*Tad-vikāra-vikāritva* gives the reason for support-status: being
-subject to change through the change of that Faculty. The prose
-specifies the relevant respect through benefit, impairment,
-acuity, and dullness. The Cognition follows the condition of
-its Faculty.
+The reason for support-status is that Cognition changes when the
+Faculty changes. The prose specifies the relevant variations as
+benefit, impairment, acuity, and dullness. Cognition follows the
+condition of its Faculty.
 
 The negative clause concerning visible Form should be read with
 this specified kind of change. It does not establish that changes
-in a field never affect what is cognized, or that a field is
-causally dispensable. The question has already admitted the field
-as a condition. The contrast concerns the variation used here to
+in an Object never affect what is cognized, or that an Object is
+causally dispensable. The question has already admitted dependence
+on the Object. The contrast concerns the variation used here to
 explain the technical assignment of support-status.
 
-“Stronger dependence” is thus an explanation within a particular
-relation, not a numerical comparison of causal contributions. The
-passage neither gives a scale of acuity nor quantifies the
-relative influence of Faculty and field.
+“Stronger dependence” is an explanation within a particular relation,
+not a numerical comparison of causal contributions. The passage
+neither gives a scale of acuity nor quantifies the relative influence
+of Faculty and Object.
 
-## 6. Specific Support and Shared Fields
+## 6. Specific Support and Shared Objects
 
-*Asādhāraṇatva* means specificity: the Eye is not a shared support
-across kinds of Cognition. Visible Form, by contrast, can serve
-Mind-Cognition and another Eye-Cognition as a field-support. Two
-kinds of sharing are relevant:
-across visual and mental Cognition, and across visual Cognitions
-supported by different Eyes.
+The Eye is not a shared support across kinds of Cognition. Visible
+Form, by contrast, can be an Object for Mind-Cognition and another
+Eye-Cognition. The sharing occurs across visual and mental Cognition,
+and across visual Cognitions associated with different individuals.
 
-The statement about “another Eye-Cognition” must remain tied to this
-support relation. It should not be universalized into the claim
-that a given Eye supports only one moment of visual Cognition
-throughout time. Nor should specificity be reduced to a distinction
-between sensory modalities alone; the contrast also invokes another
-visual Cognition and recalls 1.39's different continua.
+“Another Eye-Cognition” remains tied to this support relation. It
+should not be universalized into the claim that a given Eye supports
+only one moment of visual Cognition throughout time. Nor should
+specificity be reduced to a distinction between sensory modalities
+alone: the contrast also invokes another visual Cognition.
 
 The explicit extension runs through the Body Faculty. The opening
 naming question reaches Mind-Cognition, but this sensory specificity
-argument should not be mechanically rewritten as “Mind supports only
-Mind-Cognition.” The immediately preceding 1.44 expressly assigns
-past Mind as support to the five sensory Cognitions too.
+argument should not be rewritten as “Mind supports only Mind-Cognition.”
+The immediately preceding 1.44 assigns past Mind as support to the
+five sensory Cognitions too.
 
 ## 7. Designation and the Two Relations
 
-| Term or expression | Function in this unit |
-|---|---|
-| *āśraya* | Support, explained through the corresponding Cognition's variation with the Faculty |
-| *ālambana* | Field-support; visible Form can bear this relation to Mind-Cognition and Eye-Cognition |
-| *āśrayabhāva* | Support-status, the first stated ground for naming |
-| *asādhāraṇatva* | Specificity, the second ground for naming |
-| *nirucyate / nirdiśyate* | Is designated or indicated |
-
-*Tair*, “by them,” refers to the Eye and other supports. The
-concluding prose makes the paired grounds explicit:
-*āśrayabhāvād asādhāraṇatvāc ca*. Cognition is not named after
-every condition required for its arising.
+The paired grounds for designation are support-status and specificity.
+“By them” refers to the Eye and the other Faculties. Cognition is
+not named after every factor involved in its arising.
 
 “Drum-sound” and “barley-sprout” illustrate designation by the
-relevant distinctive basis. The text does not expand these examples
-into a complete theory of causation. Their immediate work is to
-make the naming rule intelligible.
+distinctive basis relevant to each result. The text does not expand
+these examples into a complete theory of causation; their immediate
+work is to make the naming rule intelligible.
 
-This unit explicitly contrasts *āśraya* and *ālambana*. It does
-not use *viṣaya* in this discussion, so a three-term account that
-also defines field belongs to cross-passage synthesis,
-not to the translation of these sentences alone.
+This unit explicitly contrasts support and Object. Do not add a
+third relation to the account; keep the English rendering within
+the relations stated here.
 
-## 8. The Bhāṣya's Decisions for the Kārikā
+## 8. The Commentary's Decisions for the Verse
 
-- Retain dependence on both Faculty and field as the opening premise.
-- Supply the governing topic “Principles.”
+- Retain dependence on both Faculty and Object as the opening premise.
+- Restore the governing topic “Principles.”
 - Explain corresponding change through the Faculty's condition,
-  without denying all effects of field-change.
-- Preserve both support-status and specificity as grounds for naming.
-- Keep the shared-field contrast across Cognitions and continua.
+  without denying all effects of Object-change.
+- Preserve support-status and specificity as separate grounds for naming.
+- Keep the shared-Object contrast across Cognitions and individuals.
 - Avoid imposing a memory sequence on the mention of Mind-Cognition.
 - Limit the sensory specificity argument so that it does not contradict
   past Mind's support of sensory Cognition in 1.44.
 
-## 9. Philosophical and Organon Study
+## 9. Interpretation
 
-The Bhāṣya begins with dependence on both Faculty and field. It
-calls the Faculty the support because change in that Faculty
-corresponds to change in its Cognition. Cognition is named from
-that specific support, while a field such as visible Form may be
-shared across different Cognitions. The field remains necessary;
-it is not assigned the same support-role.
+The commentary begins with dependence on both Faculty and Object. It calls
+the Faculty the support because change in that Faculty corresponds to
+change in its Cognition. Cognition is named from that specific support,
+while visible Form may be an Object for different Cognitions. The
+Object remains necessary; it is not assigned the same support-role.
 
-For the Organon, Dhātu is Pure Principle—Abhidharma itself. The
-differentiated Cognitions are impure *prajñā* products within the
-recursive Principle Pipeline. A Cognition remains a Principle
-because its determination stands on a specific Principle support,
-while its field may be shared. This is project interpretation, not
-the Bhāṣya's own terminology.
+In the governing model, Vijñāna as Discriminative Cognition joins and
+governs Perception and Conception. Their unity is Inconceivable as a
+homogeneous operation, and its Idea is disclosed in Cognition Base.
+Vijñāna governs Manas and guides the reading of Dharma Base. Form Base
+and Dharma Base classify the same *avijñapti* distinctly; Vijñāna bears
+a *prati* relation to it and remains distinct from consciousness and Mind.
 
-The distinction here is between Faculty support and field-support.
-The passage does not posit an inner copy or require that Mind-Cognition
-be recollection; it states that Cognition is designated by the
+This passage does not posit an inner copy or require Mind-Cognition
+to be recollection; it states that Cognition is designated by the
 specific Faculty because of support-status and specificity.
 
 ## 10. Review Status
 
-Provisional forty-fifth study in the Bhāṣya edition. The local
-kārikā and research commentary have been compared with the running
-Sanskrit through 34.30. The governing-topic clause is restored,
-and the next unit's opening is excluded.
+Provisional forty-fifth study in the commentary edition. The local verse
+and research commentary have been compared with the running Sanskrit
+through 34.30. The governing-topic clause is restored, and the next
+unit's opening is excluded.
 
-The local *na punā* irregularity and the construal of stronger
-dependence are documented. The naming explanation retains both
-reasons and avoids the research summary's added temporal sequence
-for Mind-Cognition. The Organon interpretation is kept separate.
-Original witnesses and the existing kārikā study are preserved.
+The local irregularity and the construal of stronger dependence are
+documented. The naming explanation retains both grounds and avoids
+the research summary's added temporal sequence for Mind-Cognition.
+Textual uncertainty remains separate from the English rendering.

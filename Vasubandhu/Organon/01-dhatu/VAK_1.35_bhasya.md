@@ -104,41 +104,44 @@ readings.
 
 ## 3. Continuous Close Translation
 
-How many Principles have the nature of Principles, and how many are
-Principle-dependent?
+How many Principles have the nature of Great Principles, and how many
+are Principle-dependent?
 
-The tangible Principle is twofold: Principles and Principle-dependent Form.
-The Principles are four; Principle-dependent tangibles are sevenfold,
-beginning with smoothness. [They are Principle-dependent] because they
-arise in the Principles.
+The tangible Principle is twofold: Great Principles and
+Principle-dependent Form. There are four Great Principles;
+Principle-dependent tangibles are sevenfold, beginning with smoothness.
+[They are Principle-dependent] because they arise in the Great
+Principles.
 
 The other nine Form-bearing Principles are Principle-dependent: the five
 Faculties and four sensory-field Principles. These nine are
 Principle-dependent alone. A portion of the Dharma Principle is also
 Principle-dependent: that designated avijñapti. The consciousness
-Principles and the Dharma Principle apart from avijñapti are neither of
-these two.
+Principles and the Dharma Principle apart from avijñapti are neither
+Great Principles nor Principle-dependent.
 
-The venerable Buddhadeva says, “The ten sense-bases are only Principles.”
-This is not so: the sūtra determines the Principles as four, with hardness
+The venerable Buddhadeva says, “The ten Essences are only Great
+Principles.” This is not so: the sūtra determines the Great Principles as
+four, with hardness
 and the other characteristics; moreover, they are tangible. Hardness
 and the like are not apprehended by the Eye Faculty and the other
 [non-bodily] Faculties, nor are color and the like apprehended by the
 Body Faculty.
 
 It is also said in a sūtra: “The eye faculty, monk, is an internal
-sense-base: a clarity of Form dependent upon the four Great Principles,
+Essence: a clarity of Form dependent upon the four Great Principles,
 [Form-bearing], not visible, resistant.” So likewise through the Body
-Faculty. “Visible Forms, monk, are an external sense-base: dependent
+Faculty. “Visible Forms, monk, are an external Essence: dependent
 upon the four Great Principles, Form-bearing, visible, resistant. Sound,
-monk, is an external sense-base: dependent upon the four Great
+monk, is an external Essence: dependent upon the four Great
 Principles, Form-bearing, not visible, resistant.” Likewise smells and
-tastes. “Tangibles, monk, are an external sense-base: the four Great
+tastes. “Tangibles, monk, are an external Essence: the four Great
 Principles and Form dependent upon the four Great Principles, Form-bearing,
 not visible, resistant.”
 
-Since the Principles are included in only one portion of the tangible
-sense-base, the remaining portion is clearly shown not to be Principles.
+Since the Great Principles are included in only one portion of the
+tangible Essence, the remaining portion is clearly shown not to be Great
+Principles.
 
 But what of the sūtra's statement, “Whatever in the fleshy mass of the
 Eye Faculty is hard has the character of hardness”? This is an
@@ -147,15 +150,15 @@ Faculty].
 
 “A person, monk, consists of six Principles”: in the account of descent
 into the womb, this serves to show the fundamental constituents of a
-being. The six contact sense-bases are mentioned again; otherwise
+being. The six contact Essences are mentioned again; otherwise
 mental factors would be absent.
 
 Nor is it reasonable to admit that mental factors are just
 consciousness. For a sūtra says, “Recognition and feeling are mental
 factors, following consciousness and dependent upon consciousness”; and
 there are statements about consciousness
-with passion and the like. Thus the Principles' being Principles or
-Principle-dependent is as stated.
+with passion and the like. Thus the Principles' classification as Great
+Principles or Principle-dependent Form is as stated.
 
 How many are aggregated, and how many unaggregated? The ten
 Form-bearing Principles are aggregated: the five Faculties and five
@@ -169,10 +172,10 @@ identification of a particular sūtra edition is asserted here.
 
 ## 4. Movement and Voices of the Commentary
 
-The exposition first gives the Principle/Principle-dependent Form
-distinction. Buddhadeva is then named as holding that the ten sense-
-bases are only Principles. The commentary rejects that position through
-Principle characteristics, differentiated sensory apprehension, and an
+The exposition first gives the Great-Principle/Principle-dependent Form
+distinction. Buddhadeva is then named as holding that the ten Essences
+are only Great Principles. The commentary rejects that position through
+Great-Principle characteristics, differentiated sensory apprehension, and an
 extended sūtra citation.
 
 Two further scriptural formulations are considered: hardness in the
@@ -191,29 +194,30 @@ about aggregation begins.
 
 ## 5. The Distribution of Principle and Principle-Dependent Form
 
-The tangible Principle comprises the four Principles and seven
+The tangible Principle comprises the four Great Principles and seven
 Principle-dependent tangibles, here abbreviated as “beginning with
 smoothness.” The prose relies on the earlier enumeration rather than
 repeating all seven. *Bhūteṣu bhavatvāt* explains *bhautika* as arising
-in or depending upon the Principles. A single undifferentiated Form label
-would fail to distinguish Principle from Principle-dependent Form.
+in or depending upon the Great Principles. A single undifferentiated Form
+label would fail to distinguish Great Principles from Principle-dependent
+Form.
 
 The other nine Form-bearing Principles are five Faculties plus visible
 Form, Sound, smell, and taste. Avijñapti belongs to the Dharma Principle
 and is also Principle-dependent. The seven consciousness Principles and the
-remainder of the Dharma Principle are neither Principles nor
+remainder of the Dharma Principle are neither Great Principles nor
 Principle-dependent Form.
 
-The rival statement uses *āyatana*, rendered here as sense-base,
+The rival statement uses *āyatana*, rendered here as Essence,
 whereas the governing inventory uses *dhātu*, Principle. Its ten are
-the five sensory Faculty sense-bases and five sensory-field sense-bases
+the five sensory Faculty Essences and five sensory-field Essences
 relevant to the argument. This shift of inventory vocabulary
 should be retained rather than silently rewritten in the Sanskrit
 quotation.
 
 ## 6. Dependence, Apprehension, and the Scriptural Replies
 
-The first refutation joins two determinations. The four Principles have
+The first refutation joins two determinations. The four Great Principles have
 specified characteristics, and those characteristics are apprehended
 through touch. The other sensory fields cannot simply be substituted
 for them: color is not apprehended by the Body Faculty as color, and
@@ -221,8 +225,8 @@ hardness is not apprehended by vision as hardness.
 
 The sūtra formula reinforces the distinction through *upādāya*,
 “depending upon.” For the Faculties and non-tangible sensory fields it
-gives Form dependent on the Principles; for the tangible sense-base it
-expressly includes both the Principles and Principle-dependent Form. The
+gives Form dependent on the Great Principles; for the tangible Essence it
+expressly includes both the Great Principles and Principle-dependent Form. The
 distinction is therefore within the cited classification itself.
 
 The Eye-Faculty-flesh objection tests whether inseparable occurrence
@@ -233,7 +237,7 @@ this study keeps that contextual construal provisional.
 
 The six-Principle statement is likewise given a limited explanatory
 task: showing fundamental constituents in the context of descent into
-the womb. The reference to the six contact sense-bases and the
+the womb. The reference to the six contact Essences and the
 consequence concerning mental factors resist treating the short formula
 as an exhaustive reduction of every category. The text then expressly
 rejects the identification of mental factors with consciousness, citing
@@ -251,17 +255,17 @@ also examines how abbreviated scriptural descriptions should be read.
 of atoms. Here it is a technical Form classification, not a general
 claim about accumulation of experiences, karma, or conceptual content.
 
-| Principle or portion | Principle status | Aggregated? |
+| Principle or portion | Principle classification | Aggregated? |
 | --- | --- | --- |
-| Tangible Principle | Principles and Principle-dependent Form | Yes |
+| Tangible Principle | Great Principles and Principle-dependent Form | Yes |
 | Other nine Form-bearing Principles | Principle-dependent | Yes |
 | Avijñapti within Dharma Principle | Principle-dependent Form | No |
-| Seven consciousness Principles and remaining Dharma Principle | Neither | No |
+| Seven consciousness Principles and remaining Dharma Principle | Neither Great Principles nor Principle-dependent Form | No |
 
 The first row prevents a misleading hierarchy in which all aggregated
 Form would be Principle-dependent Form alone. The ten aggregated
-Principles include the tangible Principle and therefore its Principle
-portion. The avijñapti row establishes the converse limit: Principle-
+Principles include the tangible Principle and therefore its Great-
+Principle portion. The avijñapti row establishes the converse limit: Principle-
 dependence does not entail atomic aggregation.
 
 The source distinguishes these predicates without making them three
@@ -271,17 +275,17 @@ classifications.
 
 ## 8. The Bhāṣya's Decisions for the Kārikā
 
-- “Twofold” divides the tangible Principle into four Principles and seven
+- “Twofold” divides the tangible Principle into four Great Principles and seven
   Principle-dependent tangibles.
 - The remaining nine Form-bearing Principles are Principle-dependent.
 - *Bhautika* also governs the Dharma-Principle portion identified as
   avijñapti.
-- Buddhadeva's contrary thesis about the ten sense-bases is explicitly
+- Buddhadeva's contrary thesis about the ten Essences is explicitly
   attributed; the subsequent
   objections receive contextual replies that must not be omitted.
 - The ten Form-bearing Principles are aggregated in the atomic sense.
 - Avijñapti is Principle-dependent but unaggregated; the tangible Principle
-  is aggregated and includes both Principles and
+  is aggregated and includes both Great Principles and
   Principle-dependent portions.
 
 The original research kārikā and commentary remain unchanged. Their
@@ -317,9 +321,9 @@ than flattening them into one inventory.
 
 In the incoming Techne, *vijñāna* is Knowing, understood as Higher
 Cognition of Scientific Knowing, and *dhātu* is the Principle
-instrument. The source translation retains local Principle terminology;
-the Techne reading expresses the differentiated classification without
-collapsing its terms.
+instrument. The Techne expresses the distinction through the Principle
+Processor's three determinations: Great-Principle status, dependence,
+and atomic aggregation.
 
 ## 10. Review Status
 

@@ -172,13 +172,13 @@ TenFormBasePrinciples
     → Without(Vitarka, Vicara)
 ```
 
-Scope modifies the Essence-Principle result:
+Scope modifies the Dharma-Principle result:
 
 ```text
-AssociatedPortion(EssencePrinciple)
+AssociatedPortion(DharmaPrinciple)
     → ModeVariesByMeditativeLevel
 
-UnassociatedPortion(EssencePrinciple)
+UnassociatedPortion(DharmaPrinciple)
     → AlwaysWithout(Vitarka, Vicara)
 ```
 

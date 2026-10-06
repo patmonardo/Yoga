@@ -6,9 +6,9 @@
 >
 > कायविज्ञानमधरस्वभूम्यनियतं मनः ॥ १.४७ ॥
 
-The immediate source file prints `अधरसवभूमि`, which is mechanically
-irregular. The study text follows the IAST witness and the Bhāṣya's explicit
-analysis: `adhara-svabhūmi`, “of a lower or its own plane.”
+The immediate source has a mechanically irregular Devanāgarī reading.
+This study follows the IAST witness and the commentary's explicit
+analysis: “of a lower plane or its own plane.”
 
 ## 2. Sanskrit (IAST)
 
@@ -26,231 +26,205 @@ adharasvabhūmi      → adhara-sva-bhūmi
 aniyataṃ manaḥ      → aniyatam manaḥ
 ```
 
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
-| tathā | indeclinable adverb | likewise; the ear follows the eye-rule of 1.46 |
-| śrotram | nominative neuter singular | Ear Faculty Principle |
-| trayāṇām | genitive masculine plural | of the three: nose, tongue, and body faculties |
-| tu | contrastive particle | but; marks a different rule for the remaining three senses |
-| sarvam | nominative neuter singular | all three components: Faculty, field, and Cognition |
-| eva | restrictive-emphatic particle | precisely; only |
+| tathā | indeclinable adverb | likewise; carries over the Eye relation |
+| śrotram | nominative neuter singular | the Ear |
+| trayāṇām | genitive masculine plural | of the three: Nose, Tongue, and Body Principles |
+| tu | contrastive particle | but; introduces a different rule |
+| sarvam | nominative neuter singular | all components of each triad |
+| eva | restrictive-emphatic particle | precisely; without exception |
 | svabhūmikam | nominative neuter singular | belonging to its own plane |
-| kāyavijñānam | nominative neuter singular compound | Body-Cognition Principle |
-| adhara-sva-bhūmi | compound predicate | belonging to a lower plane or its own plane |
-| aniyatam | nominative neuter singular adjective | not fixed to one plane-relation |
-| manaḥ | nominative neuter singular | Mind Principle |
+| kāyavijñānam | nominative neuter singular compound | Body-Cognition |
+| adhara-sva-bhūmi | compound predicate | on a lower plane or its own plane |
+| aniyatam | nominative neuter singular adjective | not fixed to one plane |
+| manaḥ | nominative neuter singular | Mind |
 
-`Sarvam` is distributive over the Nose, Tongue, and Body triads. The Bhāṣya
-identifies their three components as Faculty, field, and Cognition.
+“All” is distributive over the Nose, Tongue, and Body triads. The
+commentary identifies their components as Faculty, Condition, and Cognition.
 
 ## 4. Grammar
 
-`Tathā śrotram` carries forward the complete relational structure of the eye
-from 1.46:
+“Likewise the Ear” carries forward the complete relation stated for the Eye
+in 1.46:
 
 ```text
-the Ear Principle is not lower than the Body Principle
-the sound field is not higher than the Ear Principle
-Ear-Cognition is not higher than the Ear Principle
+Ear plane is not lower than Body plane
+sound Condition is not higher than Ear plane
+Ear-Cognition is not higher than Ear plane
 ```
 
-The remaining relations also carry over: the sound field may be higher, lower,
-or on the same plane as Ear-Cognition; both may bear any of these relations to
-the Body Principle.
+The other comparisons also carry over: the sound Condition may be higher,
+lower, or on the same plane as Ear-Cognition; both may bear any of these
+relations to the Body.
 
-The contrastive `tu` introduces a general rule (`utsarga`) for the three
-contact faculties:
+The contrastive “but” introduces a general rule for the three Principles:
 
 ```text
-trayāṇām tu sarvam eva svabhūmikam
-    for the three, everything belongs to its own plane
+Nose, Tongue, and Body Principles:
+    each triad's Faculty, Condition, and Cognition belong to its own plane
 ```
 
-The Bhāṣya distributes this over:
+The commentary distributes this over:
 
 ```text
-Nose Faculty + smell field + Nose-Cognition
-Tongue Faculty + taste field + Tongue-Cognition
-Body Faculty + tangible Form field + Body-Cognition
+Nose Faculty + smell Condition + Nose-Cognition
+Tongue Faculty + taste Condition + Tongue-Cognition
+Body Faculty + tangible Condition + Body-Cognition
 ```
 
-The next phrase qualifies the third triad. The Body Faculty and tangible Form
-field remain on the being's own plane, but:
+The next phrase qualifies the third triad. The Body, Body Principle, and
+tangibles remain on the person's own plane, but:
 
 ```text
-kāyavijñānam adhara-sva-bhūmi
-    Body-Cognition belongs to a lower plane or its own plane
+Body-Cognition
+    belongs to a lower plane or its own plane
 ```
 
-Finally, `aniyataṃ manaḥ` is an independent nominal clause. The Bhāṣya defines
-“not fixed” relationally: Mind may be on the same, a higher, or a lower plane
-relative to the Body Principle, Mind-Cognition, and Essence Principles.
+Finally, Mind is said to be “not fixed.” The commentary defines this
+relationally: Mind may be on the same, a higher, or a lower plane relative
+to the Body, Mind-Cognition, and Dharmas.
 
 ## 5. Translation
 
 ### Close syntactic construe
 
-> Likewise the Ear. For the three, all belong precisely to their own plane. Body-Cognition belongs to a lower plane or its own plane. Mind is not fixed.
+> Likewise the Ear. For the three, all belong to their own plane. Body-Cognition belongs to a lower plane or its own plane. Mind is not fixed.
 
-### Bhāṣya-informed translation
+### Commentary-informed translation
 
-> The Ear Principle, sound field, and Ear-Cognition follow the same plane-relations as the Eye Principle, visible Form field, and Eye-Cognition. For Nose, Tongue, and Body, each Faculty, field, and Cognition belongs to its own plane. Body-Cognition is qualified: it may belong either to the being's own plane or to a lower one, although the Body Faculty and tangible Form field remain on the own plane. Mind has no single fixed plane-relation; it may be on the same, a higher, or a lower plane relative to the Body Principle, Mind-Cognition, and Essence Principles.
+> The Ear, sound Condition, and Ear-Cognition follow the plane-relations stated for the Eye, visible Form, and Eye-Cognition. For Nose, Tongue, and Body, each Faculty, Condition, and Cognition belongs to its own plane. The Body, Body Principle, and tangibles remain on the person's own plane, while Body-Cognition may belong to a lower plane or its own plane. Mind has no single fixed plane-relation: it may be on the same, a higher, or a lower plane relative to the Body, Mind-Cognition, and Dharmas.
 
-## 6. Philosophical Translation
+## 6. Rule Structure
 
-> The plane rules are not identical for every Faculty-Cognition relation. Eye and Ear share the bounded relations stated in 1.46. Nose, Tongue, and Body are generally own-plane triads; Body-Cognition alone may be on a lower plane while its Faculty and tangible Form field remain on the being's own plane. Mind's plane-relation may be same, higher, or lower, with the Bhāṣya pointing to meditative attainment and rebirth as contexts for that variation.
-
-Organon reading:
-
-> The verse classifies plane-relations among differentiated Principles, Faculties, and fields. In the project's Principle Pipeline reading, these secondary Principles remain Principles because they arise within and stand on the recursive Principle structure; that does not make every Cognition the Pure Principle itself. Mind's variable plane-relation is still a conditioned rule, not freedom from the Principle system.
-
-## 7. Technical Vocabulary
-
-| Sanskrit | Project rendering | Determination |
-|---|---|---|
-| śrotra | Ear Faculty Principle | governed by the plane-relations already stated for the Eye |
-| trayāṇām | of the three | nose, tongue, and body faculties |
-| ghrāṇa | Nose Faculty Principle | in the own-plane Nose-Cognition triad |
-| jihvā | Tongue Faculty Principle | in the own-plane Tongue-Cognition triad |
-| kāyadhātu | Body Faculty Principle | own-plane in this discussion |
-| spraṣṭavya | tangible Form field | own-plane in this discussion |
-| kāyavijñāna | Body-Cognition Principle | own-plane or lower-plane |
-| svabhūmika | belonging to its own plane | the same plane as the relevant being or triad |
-| adhara-sva-bhūmi | lower-plane or own-plane | the two permitted planes for Body-Cognition |
-| aniyata | not fixed to one plane-relation | permits same-, higher-, or lower-plane relations |
-| manas | Mind Principle | variable in plane-relation, but not unconditioned |
-| utsarga | general rule | the own-plane classification for the three triads |
-| apavāda | qualification | the lower-or-own-plane range of Body-Cognition |
-| samāpatti | meditative attainment | one context of cross-plane mental operation |
-| upapatti | rebirth / arising | another context of cross-plane operation |
-
-## 8. Logical Determination
-
-The auditory rule imports the structure of 1.46:
+The Ear rule repeats the full relation from 1.46:
 
 ```text
-Plane(BodyPrinciple) ≤ Plane(EarPrinciple)
-Plane(SoundField) ≤ Plane(EarPrinciple)
-Plane(EarCognition) ≤ Plane(EarPrinciple)
+Body plane ≤ Ear plane
+sound Condition plane ≤ Ear plane
+Ear-Cognition plane ≤ Ear plane
 ```
 
-The general contact rule is:
+For the Nose, Tongue, and Body triads, the Faculty, Condition, and
+Cognition each belong to their own plane. The Body, Body Principle, and
+tangibles remain on the person's own plane, but Body-Cognition may belong
+to its own plane or a lower one.
+
+The commentary gives the person's plane of arising as the basis for this
+difference: Body-Cognition is on the own plane for those at the Desire
+Realm or first meditative level, and on a lower plane for those at the
+second or a later level.
+
+Mind may be on the same, a higher, or a lower plane relative to Body,
+Mind-Cognition, and Dharmas. This describes a variable plane-relation,
+not an absence of conditions.
+
+## 7. Logical Determination
+
+The Ear relation carries over the restrictions of 1.46:
+
+```text
+P(Body) ≤ P(Ear)
+P(SoundCondition) ≤ P(Ear)
+P(EarCognition) ≤ P(Ear)
+```
+
+For Nose and Tongue, each component belongs to its own plane:
 
 ```text
 For S in {Nose, Tongue}:
-    Plane(Faculty(S))
-        = Plane(Field(S))
-        = Plane(Cognition(S))
-        = OwnPlane
+    P(Faculty(S)) = P(Condition(S)) = P(Cognition(S)) = OwnPlane
 
-Plane(BodyFaculty) = Plane(TangibleFormField) = OwnPlane
+P(Body) = P(BodyPrinciple) = P(TangibleItems) = OwnPlane
 ```
 
-The Bhāṣya then qualifies only the Body-Cognition term:
+The commentary qualifies Body-Cognition:
 
 ```text
-Plane(BodyFaculty) = OwnPlane
-Plane(TangibleFormField) = OwnPlane
-
-Plane(BodyCognition)
+P(BodyCognition)
     ∈ {OwnPlane, LowerPlane}
 ```
 
-The condition is illustrated by the plane of birth:
+Mind has no single fixed relative plane:
 
 ```text
-BornIn(DesireRealm | FirstAbsorption)
-    → Plane(BodyCognition) = OwnPlane
-
-BornIn(SecondOrHigherAbsorption)
-    → Plane(BodyCognition) = LowerPlane
-```
-
-Mind receives no single ordering constraint:
-
-```text
-Compare(Plane(MindPrinciple), Plane(BodyPrinciple | MindCognition | EssencePrinciples))
+Compare(P(Mind), P(Body), P(MindCognition), P(Dharmas))
     ∈ {SamePlane, HigherPlane, LowerPlane}
 ```
 
-Accordingly:
+## 8. Interpretation
 
-```text
-aniyata
-    ≠ uncaused
-    ≠ chaotic
-    = no invariant plane-relation
-```
+This verse transfers the Eye plane-relations to hearing, then gives the
+Nose, Tongue, and Body triads an own-plane rule. The commentary qualifies
+that rule for Body-Cognition: it may be on the person's own plane or a
+lower plane, while the Body, Body Principle, and tangibles remain on
+the own plane. The person's plane of arising accounts for the stated
+variation.
 
-These are plane constraints within the verse's classification of Principles;
-they do not turn a variable relation into an unconditioned one.
+Mind's plane-relation is not fixed: it may be the same, higher, or lower
+relative to Body, Mind-Cognition, and Dharmas. The commentary points to
+attainment and arising as relevant contexts, defers a fuller distribution
+to a later section, and closes this incidental discussion. This variability
+does not mean absence of conditions.
 
-## 9. Interpretive Note
+In the governing model, Vijñāna as Discriminative Cognition joins and
+governs Perception and Conception. Their unity is Inconceivable as a
+homogeneous operation, and its Idea is disclosed in Cognition Base.
+Vijñāna governs Manas and guides the reading of Dharma Base. Form Base
+and Dharma Base classify the same *avijñapti* distinctly; Vijñāna bears
+a *prati* relation to it and remains distinct from consciousness and Mind.
 
-VAK 1.47 completes the plane analysis begun in 1.46. It first transfers the
-Eye, visible Form, and Eye-Cognition relations to hearing, then gives the
-Nose, Tongue, and Body triads an own-plane rule. The Bhāṣya qualifies that
-rule for Body-Cognition.
-
-For a being born in the Desire Realm or first absorption, Body-Cognition is
-own-plane. For one born in the second or higher absorptions, Body-Cognition is
-lower-plane. The Body Faculty and tangible Form field remain on the being's
-own plane. The Bhāṣya leaves the fuller account of Mind's plane variation to
-its later discussion of meditative attainment.
-
-`Aniyataṃ manaḥ` means that Mind has no single fixed plane-relation: it may be
-same, higher, or lower relative to the named Principles. This does not mean
-unconditioned or unlimited Cognition; the Bhāṣya points to meditative
-attainment and rebirth but defers the full explanation.
-
-In the Organon reading, this is a differentiated system of Principles: each
-secondary Principle remains a Principle by standing within the Principle
-Pipeline, while the Pure Principle is the recursive structure itself. The
-verse's plane rules specify relations among those differentiated Principles;
-they do not identify Mind with the Pure Principle.
-
-## 10. OWL++ Seed
+## 9. OWL++ Seed
 
 ```ttl
 @prefix vak: <http://127.0.0.1:3000/vak#> .
-@prefix organon: <http://127.0.0.1:3000/organon#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
 vak:VAK_1_47
     a vak:Karika ;
     rdfs:label "VAK 1.47" ;
-    vak:hasTopic vak:PlaneRelationsOfFacultiesFieldsAndCognitions ;
-    vak:belongsTo vak:Dhatunirdesa .
+    vak:hasTopic vak:PlaneRelationsOfFacultiesConditionsAndCognitions ;
+    vak:belongsTo vak:PrincipleAnalysis .
 
-vak:EarPrinciple
-    vak:inheritsPlaneRuleFrom vak:EyePrinciple .
+vak:EarFaculty
+    vak:inheritsPlaneRuleFrom vak:EyeFaculty ;
+    vak:planeNotBelow vak:Body ;
+    vak:planeUpperBoundFor vak:SoundCondition,
+        vak:EarCognition .
 
-vak:SoundField
-    vak:inheritsPlaneRuleFrom vak:VisibleFormField .
+vak:SoundCondition
+    vak:hasUnrestrictedPlaneRelationTo vak:EarCognition,
+        vak:Body .
 
 vak:EarCognition
-    vak:inheritsPlaneRuleFrom vak:EyeCognition .
+    vak:planeNotAbove vak:EarFaculty ;
+    vak:hasUnrestrictedPlaneRelationTo vak:Body .
 
 vak:NoseTriad
-    vak:hasMembers vak:NoseFacultyPrinciple,
-        vak:SmellField,
+    vak:hasMembers vak:NoseFaculty,
+        vak:SmellCondition,
         vak:NoseCognition ;
     vak:hasPlaneRelation vak:OwnPlane .
 
 vak:TongueTriad
-    vak:hasMembers vak:TongueFacultyPrinciple,
-        vak:TasteField,
+    vak:hasMembers vak:TongueFaculty,
+        vak:TasteCondition,
         vak:TongueCognition ;
     vak:hasPlaneRelation vak:OwnPlane .
 
 vak:BodyTriad
-    vak:hasMembers vak:BodyFacultyPrinciple,
-        vak:TangibleFormField,
+    vak:hasMembers vak:BodyPrinciple,
+        vak:TangibleCondition,
         vak:BodyCognition ;
     vak:hasGeneralRule vak:OwnPlaneOperation .
 
-vak:BodyFacultyPrinciple,
-vak:TangibleFormField
+vak:Body
+    vak:hasPlaneRelation vak:OwnPlane .
+
+vak:BodyPrinciple
+    vak:hasPlaneRelation vak:OwnPlane .
+
+vak:TangibleItems
     vak:hasPlaneRelation vak:OwnPlane .
 
 vak:BodyCognition
@@ -258,13 +232,11 @@ vak:BodyCognition
         vak:LowerPlane ;
     vak:isExceptionTo vak:OwnPlaneOperation .
 
-vak:MindPrinciple
+vak:Mind
     vak:hasVariablePlaneRelation vak:SamePlane,
         vak:HigherPlane,
         vak:LowerPlane ;
-    rdfs:comment "Variable within the conditions described by the Bhāṣya; not unconditioned or unlimited." .
-
-organon:KosaPrinciplePipeline
-    rdfs:label "Kośa as the recursive Principle Pipeline" ;
-    rdfs:comment "Project interpretation: differentiated Principles remain Principles through their grounding in the Principle Pipeline; this is not the literal wording of VAK 1.47." .
+    vak:comparedWith vak:Body,
+        vak:MindCognition,
+        vak:Dharmas .
 ```

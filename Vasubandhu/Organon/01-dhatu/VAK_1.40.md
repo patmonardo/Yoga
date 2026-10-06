@@ -33,7 +33,7 @@ nāpy aṣaṣṭhajam       → na api a-ṣaṣṭha-jam
 | dṛṣṭi-heya | neuter singular predicate | to be abandoned by seeing |
 | a-kliṣṭam | nominative/accusative neuter singular | unafflicted; distinct here from *anāsrava*, pure |
 | rūpam | nominative/accusative neuter singular | Form |
-| a-ṣaṣṭha-jam | nominative/accusative neuter singular compound | not born from the sixth, the Mind Essence Base |
+| a-ṣaṣṭha-jam | nominative/accusative neuter singular compound | not born from the sixth, the Mind Essence |
 
 The Bhāṣya uses *darśanaheya* for the Kārikā's *dṛṣṭiheya*. Both name
 the path-status of what is abandoned through seeing the truths.
@@ -61,26 +61,26 @@ field Principles:
 The five Cognition Principles are sensory: visual, auditory, olfactory,
 gustatory, and tactile Cognition.
 
-The final three are Mind, Essence, and Mental Cognition. Each admits the
+The final three are Mind, Dharma, and Mind-Cognition. Each admits the
 three path-statuses made explicit in the Bhāṣya:
 
 ```text
 88 latent afflictions,
-their co-arisen Essences,
+their co-arisen Dharmas,
 their acquisitions,
 and their attendants
     → abandoned by seeing
 
-remaining impure Essences
+remaining impure Dharmas
     → abandoned through cultivation
 
-pure Essences
+pure Dharmas
     → not to be abandoned
 ```
 
 The verse's negative clauses set limits on seeing-abandonment: nothing
 unafflicted, no Form, and nothing not born from the sixth is abandoned by
-seeing. The Bhāṣya identifies the sixth as the Mind Essence Base
+seeing. The Bhāṣya identifies the sixth as the Mind Essence
 (*mana-āyatana*).
 
 Do not collapse *akliṣṭa* (“unafflicted”) into *anāsrava* (“pure”). The
@@ -96,7 +96,7 @@ classifications.
 
 ### Bhāṣya-informed translation
 
-> The ten Form Principles and five sensory Cognition Principles are to be abandoned through cultivation. Mind, Essence, and Mental Cognition are each threefold: the latent afflictions and their associated factors abandoned by seeing; the remaining impure Essences abandoned through cultivation; and the pure Essences that are not to be abandoned. Seeing abandons neither what is unafflicted, nor Form, nor what is not born from the Mind Essence Base.
+> The ten Form Principles and five sensory Cognition Principles are to be abandoned through cultivation. Mind, Dharma, and Mind-Cognition are each classified across three path-statuses: the latent afflictions, co-arisen Dharmas, their acquisitions, and attendants abandoned by seeing; the remaining impure Dharmas abandoned through cultivation; and the pure Dharmas that are not to be abandoned. Seeing abandons neither what is unafflicted, nor Form, nor what is not born from the Mind Essence.
 
 ## 6. The Bhāṣya's Objection and Reply
 
@@ -108,7 +108,7 @@ The reply rejects that inference: opposition to the noble Path is not by
 itself enough to make something seeing-abandoned. Ordinary-person status is
 unafflicted and indeterminate. Body-and-Voice action belongs to Form, and
 Form is not abandoned by seeing. The Bhāṣya further explains *aṣaṣṭhajam*
-through the Mind Essence Base: what is born elsewhere, including what is
+through the Mind Essence: what is born elsewhere, including what is
 born through the five Faculties, is not abandoned by seeing.
 
 Thus the second line does more than repeat the three path-statuses. It
@@ -123,7 +123,7 @@ determinations.
 | *heya* | to be abandoned / relinquished | path-status, not a claim that the Principle-system is erased |
 | *dṛṣṭiheya* / *darśanaheya* | abandoned by seeing | directly relinquished through seeing the truths |
 | *bhāvanāheya* | abandoned through cultivation | relinquished through path-development |
-| *aheya* | not to be abandoned | the Bhāṣya assigns this status to pure Essences |
+| *aheya* | not to be abandoned | the Bhāṣya assigns this status to pure Dharmas |
 | *bhāvanā* | cultivation / development | path-operation distinct from seeing |
 | *anuśaya* | latent affliction | eighty-eight are assigned to seeing-abandonment |
 | *sahabhū* | co-arisen factor | arises together with a latent affliction |
@@ -132,8 +132,8 @@ determinations.
 | *akliṣṭa* | unafflicted | a separate predicate; not interchangeable with pure |
 | *sāsrava* | impure | the Bhāṣya assigns remaining instances to cultivation |
 | *anāsrava* | pure | the Bhāṣya assigns these to non-abandonment |
-| *aṣaṣṭhaja* | not born from the sixth | not born from the Mind Essence Base |
-| *mana-āyatana* | Mind Essence Base | the sixth, as identified in the Bhāṣya |
+| *aṣaṣṭhaja* | not born from the sixth | not born from the Mind Essence |
+| *mana-āyatana* | Mind Essence | the sixth, as identified in the Bhāṣya |
 
 ## 8. Logical Determination
 
@@ -144,7 +144,7 @@ TenFormPrinciples
 FiveSensoryCognitionPrinciples
     → Bhāvanāheya
 
-{MindPrinciple, EssencePrinciple, MentalCognitionPrinciple}
+{MindPrinciple, DharmaPrinciple, MindCognitionPrinciple}
     → {Darśanaheya, Bhāvanāheya, Aheya}
 ```
 
@@ -152,10 +152,10 @@ The Bhāṣya refines the final three:
 
 ```text
 Impure:
-    latent afflictions + co-arisen Essences + acquisitions + attendants
+    latent afflictions + co-arisen Dharmas + acquisitions + attendants
         → Darśanaheya
 
-    remaining Essences
+    remaining Dharmas
         → Bhāvanāheya
 
 Pure:
@@ -167,37 +167,31 @@ The exclusions and rejected inference are:
 ```text
 Unafflicted(x)
 ∨ Form(x)
-∨ NotBornFromMindEssenceBase(x)
+∨ NotBornFromMindEssence(x)
     → ¬Darśanaheya(x)
 
 OpposesNoblePath(x)
     ↛ Darśanaheya(x)
 ```
 
-## 9. Philosophical and Organon Reading
+## 9. Interpretive Note
 
-VAK 1.39 established the distinction between a Principle's kind and its
-functional participation. VAK 1.40 adds path-status: the relevant
-determinations are now sorted by whether seeing relinquishes them,
-cultivation relinquishes them, or they are not to be abandoned. This is
-not a single undifferentiated negation of the system.
+VAK 1.40 classifies the ten Form Principles and five sensory Cognition
+Principles as cultivation-abandoned. The final three—Mind, Dharma, and
+Mind-Cognition—are classified across seeing-abandonment,
+cultivation-abandonment, and non-abandonment. The Bhāṣya specifies the
+contents of each status; opposition to the noble Path alone does not
+determine the mode of abandonment.
 
-Within the project's logogenetic account, Pure:Impure is the root dyad.
-The Bhāṣya's assignments give impure determinations two different path
-relations—seeing and cultivation—while pure Essences are not abandoned.
-This advances the account dyad to dyad without collapsing the verse's
-three path-statuses into a single pair. The separate *akliṣṭa* exclusion
-also remains visible: “unafflicted” is not simply a synonym for “pure.”
+Keep “unafflicted” distinct from “pure.” Ordinary-person status can be
+unafflicted and indeterminate without being pure. The exclusions of Form
+and what is not born from the sixth further delimit seeing-abandonment;
+the sixth is the Mind Essence.
 
-The ten Form Principles are classified by path-operation, not as a claim
-that Form must be a stored substrate. The Mahābhūta Projection System
-requires no backing store by default; Persist names lodging in a field.
-Those are Organon commitments for interpreting the architecture, not
-claims made by this verse. Here they let us ask how Form determinations
-are relinquished through cultivation without turning the field into a
-thing that must be retained underneath its operation.
-
-The source-grounded result is narrower and firm: the path-status of a
-Principle is not determined merely by whether it opposes the noble Path;
-the mode of relinquishment matters. Yoga may later appropriate, transform,
-or reject this Kośa path-logic on its own terms.
+The Kośa explicitly presents Vijñāna as Discriminative Cognition joining
+and governing Perception and Conception. Their unity is Inconceivable as
+a homogeneous operation; its Idea is disclosed in the Cognition Base.
+Vijñāna governs Manas and guides Dharma Base. Form Base and Dharma Base
+classify the same *avijñapti* distinctly, and Vijñāna bears a *prati*
+relation to it. Vijñāna remains distinct from consciousness (*citta*) and
+Mind (*manas*).

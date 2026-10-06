@@ -309,7 +309,7 @@ among the eighteen. Context determines the scale of classification.
 
 The compound following *vinā* names these four. It does not exclude the
 Nose and Tongue Faculties themselves. All five Faculties, the Form
-Principle, Sound Principle, Tangible Principle, Mind Principle, Essence
+Principle, Sound Principle, Tangible Principle, Mind Principle, Dharma
 Principle, and the four remaining Cognition Principles yield fourteen.
 
 The food argument is an argument within the transmitted cosmology.

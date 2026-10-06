@@ -1,6 +1,6 @@
-# VAK_1.47 Bhāṣya — Hearing, Body-Cognition, and Mind Across Planes
+# VAK_1.47 Commentary — Hearing, Body-Cognition, and Mind Across Planes
 
-## 1. Kārikā Anchor
+## 1. Verse Anchor
 
 > tathā śrotraṃ trayāṇāṃ tu sarvam eva svabhūmikam /
 >
@@ -10,10 +10,9 @@
 > to its own plane. Body-Cognition belongs to a lower or its own
 > plane; Mind has no fixed plane-relation.
 
-The Bhāṣya identifies the three as Nose, Tongue, and Body, then
-expressly qualifies the general rule for Body-Cognition.
-*Aniyata* concerns Mind's plane-relation, not ethical
-indeterminacy or absence of conditions.
+The commentary identifies the three as Nose, Tongue, and Body, then
+expressly qualifies the general rule for Body-Cognition. “Not fixed”
+concerns Mind's plane-relation.
 
 ## 2. Continuous Sanskrit
 
@@ -52,61 +51,52 @@ indeterminacy or absence of conditions.
 
 The unit begins with the transition to hearing at printed 36.03
 and ends with the explicit closure of the incidental discussion
-at 36.20. At 36.21, the text asks which Cognition apprehends which Principle;
-that question belongs to 1.48.
+at 36.20. At 36.21, the text asks which Cognition apprehends which
+Principle; that question belongs to 1.48.
 
-The running text's damaged *yathā cecaṃ cakṣuruttaṃ* is normalized
-as *yathā cedaṃ cakṣur uktaṃ*, following the research witness.
-*Atihahugrantha* is repaired to *atibahugrantha*, and the defective
-ending of *kāmadhātuprathamadhyānopapannāṃ* is supplied as
-*-opapannānām*, supported by the parallel *dvitīyādidhyānopapannānām*.
-Word division is regularized. These are repairs of the local
-transcription rather than a critical collation.
+Several damaged forms in the running text are normalized according
+to the research witness and nearby parallel wording. Word division
+is regularized. These are local transcription repairs, not a
+critical collation.
 
-The compressed *utsargaviśeṣeṇa kṛtvā* is retained. Its translation
-follows the explicit sequence of general statement and exception
-without treating the difficult compound as evidence for a further
-unstated category.
+The compressed phrase introducing the general rule is retained.
+Its translation follows the explicit sequence of general statement
+and exception without treating the difficult wording as evidence
+for an additional category.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
-As this has been stated for the Eye, so it is to be understood
-in detail for the Ear: “The Ear is not lower than the Body;
-sound is not higher than the Ear, and neither is Ear-Cognition.
-But relative to that Cognition, sound may be higher, lower, or on
-the same plane; relative to the Body, both may stand in any of
-these three plane-relations.” The account is to be applied in
-detail in this way.
+As the Eye has been explained in detail, so is the Ear to be
+understood: “The Ear is not lower than the Body; sound is not
+higher than the Ear, and neither is Ear-Cognition. But relative
+to that Cognition, sound may be higher, lower, or on the same
+plane; relative to the Body, both sound and Ear-Cognition may
+stand in any of those relations.” Apply the account in detail.
 
-For the three, however, everything belongs to its own plane.
-For the Nose, Tongue, and Body triads, Faculty, field, and
-Cognition each belong to their own plane. Having stated the
-general rule in this way, an exception is introduced to qualify
-it further: Body-Cognition belongs to a lower or its own plane.
+For the three Principles—Nose, Tongue, and Body—all belong to their
+own plane. For each, the corresponding Faculty, Condition, and
+Cognition belongs to its own plane. Having stated this general rule, the commentary
+introduces an exception to qualify it: Body-Cognition belongs to
+a lower plane or its own plane.
 
-The Body, the Body Faculty Principle, and the tangible Form field
-always belong to their own plane. Body-Cognition, however, belongs
-to the same plane for some, such as those born in the Desire Realm
-or the first dhyāna; for others it belongs to a lower plane, such
-as those born in the second or subsequent dhyānas.
+The Body, the Body Principle, and tangible items always
+belong to their own plane. Body-Cognition belongs to its own plane
+for some, such as those arising in the Desire Realm or at the first
+meditative level; for others, such as those arising at the second
+or a later level, it belongs to a lower plane.
 
-Mind has no fixed plane-relation. Sometimes Mind belongs to the
-same plane as the Body Principle, Mind-Cognition, and Essence
-Principles; sometimes it belongs to a higher or lower plane. For
-even with a Body belonging to the five planes, Mind and associated
-Principles can belong to all planes, as appropriate at the time of
-meditative attainment and rebirth. This will be explained in
-detail in the Kośasthāna on meditative attainments.
+Mind is not fixed to one plane-relation. Sometimes it is on the
+same plane as Body, Mind-Cognition, and Dharmas; sometimes it is
+on a higher or lower plane. Even with a Body that can belong to
+five planes, Mind and related factors can belong to all planes
+as appropriate during attainment or arising. This will be
+explained in detail in a later Abhidharma section on attainments.
 
-To avoid the burden of an excessively lengthy text, it is not
-explained again here. The benefit would be small and the labor
-great. Thus the incidental discussion is concluded.
-
-The three alternatives in the hearing comparison retain the
-higher/same/lower relations explained in 1.46. “As appropriate”
-limits the statement about Mind and associated Principles; it is
-not a claim that every combination of planes occurs without
-restriction.
+To avoid an excessively lengthy exposition, it is not explained
+again here. The benefit would be small and the labor great. Thus
+the incidental discussion is concluded. “As appropriate” limits
+the mental distribution; it does not assert that every plane
+combination occurs.
 
 ## 4. Movement and Voices of the Commentary
 
@@ -116,9 +106,9 @@ saying “likewise.” The continuous translation retains that
 formulation so the extension is readable on its own.
 
 The next movement states a general rule for the Nose, Tongue,
-and Body triads, then expressly introduces an exception for
+and Body Principles, then expressly introduces an exception for
 Body-Cognition. It does not displace the own-plane rule for the
-Body, Body Faculty Principle, and tangible Form field.
+Body, Body Principle, and tangible items.
 
 Finally, the exposition distinguishes Mind from Mind-Cognition,
 defers the detailed plane distributions to the chapter on
@@ -129,108 +119,100 @@ own exposition and should remain in the readable edition.
 
 ## 5. The Extension to Hearing
 
-| Comparison | Rule carried over from seeing |
+| Comparison | Rule carried over from the Eye |
 |---|---|
-| Ear Principle relative to Body Principle | Same plane or higher |
-| Sound field relative to Ear Principle | Same plane or lower |
-| Ear-Cognition relative to Ear Principle | Same plane or lower |
-| Sound field relative to Ear-Cognition | Higher, same, or lower plane |
-| Sound field and Ear-Cognition relative to Body Principle | Higher, same, or lower plane |
+| Ear relative to Body | Same plane or higher |
+| Sound Condition relative to Ear | Same plane or lower |
+| Ear-Cognition relative to Ear | Same plane or lower |
+| Sound Condition relative to Ear-Cognition | Higher, same, or lower plane |
+| Sound Condition and Ear-Cognition relative to Body | Higher, same, or lower plane |
 
-The terms change from Eye, visible Form, and Eye-Cognition to
-Ear, sound, and Ear-Cognition. The relations are carried over;
-their terms are not identified. *Asya* in the parallel
-formulation refers to the Cognition just mentioned, and *ubhe*
-to the sound field and Ear-Cognition.
+The terms change from Eye, visible Form, and Eye-Cognition to Ear,
+sound, and Ear-Cognition. The relations are carried over; the terms
+are not identified. “That Cognition” refers to Ear-Cognition, and
+“both” refers to sound and Ear-Cognition.
 
 As in 1.46, the final alternatives do not cancel the preceding
-inequalities or their bounds. “Likewise” is an instruction to
-apply the complete account, not to retain only its least
-restrictive clause.
+limits. “Likewise” applies the complete account, not only its
+least restrictive clause.
 
 ## 6. The Three Faculties and the Bodily Exception
 
-The prose distinguishes *kāya*, the Body, from *kāyadhātu*, the
-Body Faculty Principle. *Spraṣṭavya* is the tangible Form field;
-Body-Cognition is a fourth term. Translating all of these through
-an undifferentiated “Body” would conceal the exception's exact
-scope.
+The commentary distinguishes the person's Body from the Body
+Principle and tangible items. Body-Cognition is a fourth
+term. Translating all of these through an undifferentiated “Body”
+would conceal the exception's exact scope.
 
-| Case | Body, Body Faculty, tangible Form field | Body-Cognition |
+| Case | Body, Body Principle, tangible items | Body-Cognition |
 |---|---|---|
 | Desire Realm birth | Own plane | Own plane |
-| First-dhyāna birth | Own plane | Own plane |
-| Second or higher dhyāna birth | Own plane | Lower plane |
+| First meditative level | Own plane | Own plane |
+| Second or later meditative level | Own plane | Lower plane |
 
 The table follows the explicit examples. The present prose says
 “lower” for the last case; a fuller enumeration of Cognition's
 planes belongs to the wider classification, rather than being
 silently inserted into this translation.
 
-*Adharasvabhūmi* is resolved by the commentary as “of a lower or
-its own plane.” The general rule and exception must be read
-together. Nor does the general statement establish that every
-one of the three Faculties exists at every plane: it classifies
-the relations where the relevant Faculty and Cognition occur.
+The compound is resolved by the commentary as “of a lower or its
+own plane.” The general rule and exception must be read together.
+Nor does the general statement establish that each of the three
+Principles occurs at every plane; it classifies the relations
+where the relevant Faculty and Cognition occur.
 
-## 7. Manas and the Deferred Distribution
+## 7. Mind and the Deferred Distribution
 
-*Aniyatam* is explained relationally: Mind may be on the same,
-higher, or lower plane relative to the Body Principle,
-Mind-Cognition, and Essence Principles. It should not be
-translated in a way that confuses it with *avyākṛta*, ethical
-indeterminacy, or uncertainty about the existence of Mind.
+Mind may be on the same, higher, or lower plane relative to Body,
+Mind-Cognition, and Dharmas. “Not fixed” concerns this plane
+relation, not uncertainty about the existence of Mind.
 
-The comparison keeps the Mind Principle (*manas*) distinct from
-Mind-Cognition and from Essence Principles. That distinction
-continues the earlier treatment of Mind as support rather than
-making “Mind” a single term that absorbs every mental function.
+Mind remains distinct from Mind-Cognition. The two terms are not
+merged into one category merely because their planes are compared.
 
-The text invokes meditative attainment and rebirth and qualifies
-the distributions by *yathāyogam*, “as appropriate.” Its reference
-to all planes must be read within that account. It does not
-present a Cartesian product in which every support, field,
-Cognition, and bodily plane can be independently combined.
+The text invokes attainment and arising, qualifying the
+distributions as appropriate. Its reference to all planes must be
+read within that account; it does not say that every Faculty,
+Condition, Cognition, and bodily plane can be independently combined.
 
-The five-plane Body premise is retained from the preceding
-discussion. The clause is not an enumeration of all possible
-modes of existence. The chapter explicitly promises the fuller
-account elsewhere, and the present study preserves that boundary.
+The five-plane range for Body is retained from the preceding
+discussion. The passage promises the fuller distribution elsewhere,
+and the present study preserves that boundary.
 
-## 8. The Bhāṣya's Decisions for the Kārikā
+## 8. The Commentary's Decisions for the Verse
 
 - Expand “likewise the Ear” through the full parallel formulation.
-- Identify the three as Nose, Tongue, and Body.
+- Identify the three Principles as Nose, Tongue, and Body.
 - Read the Body-Cognition clause as an explicit qualification.
-- Keep Body, Body Faculty, tangible Form field, and Cognition distinct.
-- Construe *aniyata* as a variable plane-relation, not ethical status.
+- Keep Body, Body Principle, tangible items, and Cognition distinct.
+- Read Mind's plane-relation as variable, not as uncertainty about Mind.
 - Retain the qualification “as appropriate” for mental distributions.
 - Preserve the author's deferral and closure of the incidental discussion.
 
-## 9. Philosophical and Organon Study
+## 9. Interpretation
 
-The Bhāṣya gives three distinct rule forms: it transfers the
-Eye-relations to hearing, states an own-plane rule for the Nose,
-Tongue, and Body triads with a qualification for Body-Cognition,
-and describes Mind as not fixed to one plane-relation.
+The commentary transfers the Eye-relations to hearing, states an
+own-plane rule for the Nose, Tongue, and Body Principles, qualifies
+Body-Cognition, and describes Mind as not fixed to one plane.
+Body, Body Principle, tangible items, Body-Cognition, and Mind
+remain distinct in this account.
 
-**Organon reading:** The Body-Cognition qualification shows that
-the Body Principle, Body Faculty Principle, tangible Form field,
-and Body-Cognition Principle retain distinct plane-determinations.
-Within the project's Principle Pipeline, these differentiated
-Principles remain Principles through their grounding in the
-recursive Principle structure; they are not thereby identical to
-the Pure Principle itself. Mind's variable plane-relation remains
-conditioned by the Bhāṣya's account and is not unlimited operation.
+In the governing model, Vijñāna as Discriminative Cognition joins
+and governs Perception and Conception. Their unity is Inconceivable
+as a homogeneous operation, and its Idea is disclosed in Cognition
+Base. Vijñāna governs Manas and guides the reading of Dharma Base.
+Form Base and Dharma Base classify the same *avijñapti* distinctly;
+Vijñāna bears a *prati* relation to it and remains distinct from
+consciousness and Mind.
 
 ## 10. Review Status
 
-Provisional forty-seventh study in the Bhāṣya edition. The local
-kārikā, research commentary, and running Sanskrit have been compared
-through the explicit closure at 36.20. the hearing extension, Body-Cognition qualification, and deferred
-Mind distribution are retained in continuous translation.
+Provisional forty-seventh study in the commentary edition. The
+verse, research commentary, and source text have been compared
+through the explicit closure at 36.20. The hearing extension,
+Body-Cognition qualification, and deferred Mind distribution are
+retained in continuous translation.
 
-Mechanical repairs and the compressed general-rule wording are
-documented above. No cases from the promised later exposition
-are invented here. Original witnesses and the existing kārikā
-study are preserved.
+Transcription repairs and the compressed general-rule wording are
+documented above. No cases from the promised later exposition are
+invented here. Original witnesses and the paired verse study are
+preserved.

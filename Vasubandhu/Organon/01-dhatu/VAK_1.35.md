@@ -120,9 +120,9 @@ Techne reading:
 | mahābhūta | Great Principle | Principle-level tangible determination characterized by hardness and the other primary qualities |
 | bhūta-svabhāva | having Principle-nature | applies to the four Great Principles within the Tangible Principle |
 | bhautika | Principle-dependent | arises in or depends upon Great Principles without being identical with them |
-| bhūteṣu bhavatva | arising in or depending on Principles | Bhāṣya's explanation of `bhautika` |
+| bhūteṣu bhavatva | arising in or depending on Great Principles | Bhāṣya's explanation of `bhautika` |
 | rūpin | Form-bearing | wider classification of Principles associated with Form |
-| dharmadhātvekadeśa | portion of the Dharma Principle | avijñapti as an Principle-dependent Form determination |
+| dharmadhātvekadeśa | portion of the Dharma Principle | avijñapti as a Principle-dependent Form determination |
 | avijñapti | non-disclosive Form | Principle-dependent Form in the Dharma Principle, not ordinary sensory disclosure |
 | saṃcita | aggregated; in the Bhāṣya, atomically | constituted as an aggregate of atoms |
 | paramāṇu-saṃghāta | atomic aggregate | strict Bhāṣya definition of `saṃcita` |
@@ -131,15 +131,15 @@ Techne reading:
 The three principal predicates must remain distinct:
 
 ```text
-Principle
+Great Principle
 Principle-dependent
 atomically aggregated
 ```
 
 ## 8. Logical Determination
 
-The Tangible Principle contains both Principle and Principle-dependent
-determinations:
+The Tangible Principle contains both Great Principles and
+Principle-dependent Form:
 
 ```text
 TangiblePrinciple
@@ -191,8 +191,8 @@ Avijnapti
 Thus the distinctions are not a production ladder:
 
 ```text
-ElementStatus
-    ≠ ElementDependence
+GreatPrincipleStatus
+    ≠ PrincipleDependence
     ≠ AtomicAggregation
 ```
 
@@ -201,20 +201,20 @@ the others.
 
 ## 9. Interpretive Note
 
-VAK 1.35 separates three questions: what is an Principle, what depends on
-Principles, and what is constituted as an atomic aggregate. The Tangible
-Principle alone includes both the four Great Principles and seven
-Principle-dependent tangible qualities. The other sensory Faculties and
-sensory-field Principles depend on the Principles without thereby being identical
-to them.
+VAK 1.35 separates three questions: which Principles have the nature of
+Great Principles, which depend on Great Principles, and which are
+constituted as atomic aggregates. The Tangible Principle includes both
+the four Great Principles and seven Principle-dependent tangible
+qualities. The other sensory Faculties and sensory-field Principles
+depend on the Great Principles without thereby being identical to them.
 
-The Bhāṣya attributes the reduction of ten sense-bases to nothing but
-Great Principles to Buddhadeva and rejects it. The cited account differentiates
-the four Principle characteristics from visible Form, Sound, smell, and
-taste, while the Tangible Principle includes both Principles and what
-depends on them. The sensory Faculties apprehend different kinds of
-determination; one cannot flatten the full Form system into the four
-Principles alone.
+The Bhāṣya attributes to Buddhadeva the claim that the ten Essences are
+nothing but Great Principles, and rejects it. The cited account
+differentiates the four Great-Principle characteristics from visible
+Form, Sound, smell, and taste, while the Tangible Principle includes
+both Great Principles and what depends on them. The sensory Faculties
+apprehend different kinds of determination; one cannot flatten the full
+Form system into the four Great Principles alone.
 
 The eye-flesh objection and its reply sharpen the same logic: a Faculty
 may occur inseparably with Form in the fleshy mass without being
@@ -224,7 +224,7 @@ rejects collapsing mental factors into Citta, since factors such as
 feeling and recognition are described as dependent on Citta, not simply
 identical with it.
 
-Avijñapti is the critical boundary case: it is an Principle-dependent Form
+Avijñapti is the critical boundary case: it is a Principle-dependent Form
 determination included in the Dharma Principle, yet it is not one of the
 ten atomically aggregated Form Base Principles. It is neither a Great
 Principle nor merely an imaginary mental item:
