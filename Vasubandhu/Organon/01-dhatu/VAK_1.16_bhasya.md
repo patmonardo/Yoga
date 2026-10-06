@@ -1,4 +1,4 @@
-# VAK_1.16 Bhāṣya — Principle, Mind Essence, and the Seven
+# VAK_1.16 Bhāṣya — Cognition, Mind Essence, and the Seven Principles
 
 ## 1. Kārikā Anchor
 
@@ -67,7 +67,7 @@ normalizations, not a critical text.
 > here. The Form Base, apart from *avijñapti*, is ten Essences and ten
 > Principles. The three Bases beginning with Feeling, *avijñapti*, and the
 > unconditioned are the Dharma Essence and Dharma Principle. The
-> Cognition Base is Mind Essence, the six Principles, and the
+> Cognition Base is Mind Essence, the six Cognition Principles, and the
 > Mind Principle.
 
 ## 4. Movement of the Commentary
@@ -127,7 +127,7 @@ does. That is 1.17.
 |---|---|---|
 | Form Base, apart from *avijñapti* | ten Essences | ten Principles |
 | Feeling, Reflection, Formations, with *avijñapti* and the unconditioned | Dharma Essence | Dharma Principle |
-| Cognition Base | Mind Essence | six Principles and the Mind Principle |
+| Cognition Base | Mind Essence | six Cognition Principles and the Mind Principle |
 | five | twelve | eighteen |
 
 The first row keeps *avijñapti* out of the ten. It does not remove
@@ -151,7 +151,7 @@ further substances.
    Mind-Cognition Principle.
 3. *Tat* is that same base. In the Essence arrangement it is the
    Mind Essence.
-4. The seven are the six Principles and the Mind Principle. Their relation
+4. The seven are the six Cognition Principles and the Mind Principle. Their relation
    is 1.17.
 5. *Avijñapti* is excluded from the ten and included in the Dharma Essence
    and the Dharma Principle. It remains in the Form Base.

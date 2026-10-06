@@ -26,7 +26,7 @@ dhātavo 'ṣṭādaśa          → dhātavaḥ + aṣṭādaśa
 |---|---|---|
 | ṣaṇṇām | genitive plural of *ṣaṣ* | of the six |
 | anantara-atītam | nominative neuter singular | immediately past; just ceased |
-| vijñānam | nominative neuter singular | a principle, one of the six |
+| vijñānam | nominative neuter singular | cognition, one of the six |
 | yat | nominative neuter singular | whichever |
 | hi | particle | for; the reason |
 | tat | nominative neuter singular | that same one |
@@ -50,8 +50,8 @@ immediately before, nothing between. That gloss belongs to the commentary.
 ```
 
 *Yat* and *tat* are the same neuter. The genitive *ṣaṇṇām* draws the
-principle from the six already named. The identity is relational. The
-verse does not add a seventh principle.
+cognition from the six already named. The identity is relational. The
+verse does not add a seventh Principle.
 
 The purpose compound qualifies the second clause. Eighteen principles
 are taught for the sake of establishing the sixth support. The compound
@@ -61,7 +61,7 @@ does not say that the eighteen are eighteen substances.
 
 ### Literal Translation
 
-Whichever principle among the six is immediately past, that indeed is
+Whichever Cognition among the six is immediately past, that indeed is
 mind. The eighteen principles are taught in order to establish the sixth
 support.
 
@@ -79,21 +79,21 @@ remains mind. Another cause is wanting, and no next principle arises.
 ## 6. Systematic Placement
 
 The Bhāṣya resolves the eighteen Principles as six supports, six
-supported Principles, and six Objects. Mind is the sixth support: the
-immediately ceased Principle among the six, not an additional Principle.
+supported Cognition Principles, and six Objects. Mind is the sixth support:
+the immediately ceased Cognition among the six, not a seventh Cognition.
 Support is a distinct relation, not a synonym for production.
 
 ## 7. Technical Vocabulary
 
 | Sanskrit | Rendering | Note |
 |---|---|---|
-| vijñāna | Principle | one of the six; not *citta* |
-| manas | Mind | the same Principle, just ceased |
+| vijñāna | Cognition | one of the six; not *citta* |
+| manas | Mind | the same Cognition, just ceased |
 | manodhātu | Mind Principle | the office, not an additional substance |
 | manovijñāna-dhātu | Mind-Cognition Principle | the sixth of the six; the supported |
 | anantarātīta | immediately past | Bhāṣya: *samanantara-niruddha* |
 | āśraya | support | the office mind fills |
-| āśrita | the supported | the six Principles |
+| āśrita | the supported | the six Cognition Principles |
 | ālambana | Object | distinct from support and from *viṣaya* |
 | citta | consciousness | the arhat's final consciousness; distinct from *manas* |
 | dravyataḥ | by substance | the objection's count, not the eighteen Principles |
@@ -102,7 +102,7 @@ Support is a distinct relation, not a synonym for production.
 ## 8. Logical Determination
 
 ```text
-1.16   seven names: six Principles + Mind Principle
+1.16   seven names: six Cognitions + Mind Principle
        relation not yet said
 
 1.17   of those six, whichever has just ceased
@@ -114,7 +114,7 @@ Support is a distinct relation, not a synonym for production.
 
        five supports      eye and the rest
        sixth support      mind
-       supported          six Principles
+       supported          six Cognition Principles
        objects            six
        6 + 6 + 6 = 18
 
