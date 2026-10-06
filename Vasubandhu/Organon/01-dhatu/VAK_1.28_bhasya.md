@@ -177,7 +177,7 @@ seven.
    Tangible Principle, the Form Principle, and the seven Cognition
    Principles.
 
-## 9. Philosophical and Organon Study
+## 9. Interpretation
 
 This passage returns directly to the space case and closes the
 1.24–1.28 Dhātu-machine sequence with an explicit cross-mapping. A
@@ -201,24 +201,22 @@ sāsrava cognition because the six are being considered as supports of
 birth. Constitutive status, range, and function work together in the
 classification.
 
-For the Organon, the Essence Base is a real, operative structure on the
-Other Side, not merely a label for a classification. It is where relations
-among the Principles can be held as determinate structure, so their
-derivatives remain intelligible without collapsing into one another. This
-passage makes the question of paramārtha and manifestation more exact:
-identify which space, which cognition, and which Principle-relation is
-asserted before connecting them to that larger inquiry. The Bhāṣya does not
-itself classify the aperture as the manifestation of an unconditioned
-Principle, nor does it describe the Essence Base in these terms.
+The Techne reading treats this as a methodological demonstration:
+determine each member's local characteristic and scope, then place it
+within the established eighteen-Principle system. The sixfold teaching
+retains its shared birth-support function without becoming an additional
+set of Principles. The unresolved *cittasthaṃ* remains a textual problem,
+not a basis for expanding the classification.
 
-For learning, the passage exemplifies a correction of seemingly obvious
-identifications. Understanding develops here through testing familiar names
-against the function of the list and the stated characteristics of its
-members. The resulting discrimination is concrete even while one difficult
-source word remains unresolved. The Essence Base may be the architectural home for a FactStore, but that
-remains a design direction to test, not a claim made by this Bhāṣya. From
-1.29 onward, the chapter examines particular operations and applications
-of the classification.
+The Kośa also presents Vijñāna as Discriminative Cognition joining and
+governing Perception and Conception. Their unity is Inconceivable as a
+homogeneous operation; its Idea is disclosed in the Cognition Base.
+Vijñāna governs Manas and guides the reading of Dharma Base. Form Base and
+Dharma Base classify the same *avijñapti* distinctly, and Vijñāna bears a
+*prati* relation to it. Vijñāna remains distinct from *citta* and *manas*.
+
+From 1.29 onward, the chapter examines particular operations and
+applications of the classification.
 
 ## 10. Review Status
 

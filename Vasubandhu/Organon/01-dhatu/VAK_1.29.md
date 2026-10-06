@@ -133,14 +133,13 @@ obstruction, and indeterminacy concerns ethical status.
 > determination. Visibility, inclusion in the Form Base, resistance, and
 > ethical status are distinct dimensions of the system.
 
-Organon rendering:
+Techne reading:
 
-> An established Principle becomes analytically determinate when its
-> properties and relations are explicitly typed. What can be pointed out
-> is not identical with what can obstruct; what can obstruct is not thereby
-> ethically indeterminate; and gathering ten Principles in the Form Base
-> does not erase their different determinations. Rational classification
-> begins by preventing one property from silently standing in for another.
+> The Principle Processor keeps visibility, physical resistance, and
+> ethical status as distinct determinations. A visible Principle is not
+> thereby resistant; resistance does not entail ethical indeterminacy; and
+> gathering ten Principles in the Form Base does not erase their distinct
+> properties and relations.
 
 ## 7. Technical Vocabulary
 
@@ -266,16 +265,18 @@ Principle Processor
       properties and relations
 ```
 
-This is an Organon interpretation, not Vasubandhu's wording. A Principle
-does not merely collect labels: the processor keeps its determinations
-distinct and makes their relations intelligible. This verse gives it three
-kinds of determination to test without collapsing visibility, resistance,
-and ethical status into one another.
+The Principle Processor differentiates Principles through their properties
+and relations. Here it keeps visibility, resistance, and ethical status
+distinct while relating them within the eighteen-Principle system. The
+classification is determinate without reducing one predicate to another.
 
-It does not yet prove that the Essence Base is the central bus governing
-Form theory. It supplies structured distinctions the following verses can
-test against that hypothesis; the mechanism should emerge from the
-classifications rather than be inserted in advance.
+The Kośa presents Vijñāna as Discriminative Cognition joining and
+governing Perception and Conception. Their unity is Inconceivable as a
+homogeneous operation; its Idea is disclosed in the Cognition Base.
+Vijñāna governs Manas and guides the reading of Dharma Base. Form Base
+and Dharma Base classify the same *avijñapti* distinctly, and Vijñāna
+bears a *prati* relation to it. Vijñāna remains distinct from *citta*
+and *manas*.
 
 ## 10. OWL++ Seed
 
@@ -311,13 +312,12 @@ vak:ObstructiveResistance
     vak:distinctFrom vak:ObjectFieldLimitation,
         vak:CognitiveObjectLimitation .
 
-vak:EssencePrinciple
+vak:DharmaPrinciple
     a vak:Principle ;
-    vak:hasAssociatedPortion vak:AssociatedEssences ;
-    vak:hasOtherPortion vak:UnassociatedEssences .
+    vak:hasAssociatedPortion vak:AssociatedMentalFactors ;
+    vak:hasOtherPortion vak:UnassociatedMentalFactors .
 
 vak:AnalyticallyTypedPrinciple
-    a vak:OrganonInterpretiveClass ;
     vak:requiresExplicitTypingOf vak:Visibility,
         vak:FormBaseInclusion,
         vak:Resistance,

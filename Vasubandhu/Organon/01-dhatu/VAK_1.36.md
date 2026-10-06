@@ -22,7 +22,7 @@ tulayaty evam      → tulayati evam
 dagdhṛtulyayoḥ     → dagdhṛ-tulyayoḥ
 ```
 
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | chinatti | third-person singular present active of `√chid` | cuts, divides |
 | chidyate | third-person singular present passive | is cut or divided |
@@ -76,7 +76,7 @@ substance. It is a change in the manner in which an aggregate-continuum is
 produced.
 
 `Dahyate` and `tulayati` continue the predicates of the same tetrad: it is
-burned and participates in weighing. The final dual marks a
+burned and weighs. The final dual marks a
 scholastic dispute over the complementary attributions. One position assigns
 them to the concrete tetrad; another isolates fire as the burner and
 heaviness as what is weighed. The Kārikā records the disagreement rather
@@ -86,11 +86,11 @@ than resolving it.
 
 ### Close syntactic construe
 
-> The outer tetrad of Principles both cuts and is cut; likewise it is burned and participates in weighing. There is disagreement concerning the burner and what is weighed.
+> The outer tetrad of Principles both cuts and is cut; likewise it is burned and weighs. There is disagreement concerning the burner and what is weighed.
 
 ### Bhāṣya-informed translation
 
-> The Principles of visible Form, smell, taste, and tangibility can divide a connected Form-stream and can themselves undergo such division. They are also burned and participate in weighing. Some assign the roles of burner and what-is-weighed to the concrete tetrad; others maintain that Fire alone burns and heaviness alone is weighed.
+> The outer tetrad—visible Form, smell, taste, and tangibility—cuts and is cut in complexes such as an axe or wood. Cutting is production in divided form within a connected Form-stream. The tetrad is also burned and weighs. Some assign the roles of burner and what-is-weighed to the concrete tetrad; others maintain that the Fire Principle alone burns and heaviness alone is weighed.
 
 The second rendering makes the reported positions explicit while preserving
 their unresolved status.
@@ -99,17 +99,14 @@ their unresolved status.
 
 > Form-operation does not presuppose a permanent body that first exists and is later destroyed. Cutting is a change from connected production to divided production within a Form-stream. The same complex may occupy active and passive roles, while analysis can still ask whether an operation belongs to the whole tetrad or to one specific determination within it.
 
-Organon rendering:
+Techne reading:
 
-> The Principle processor now classifies operation and role. A connected Form-stream can divide, undergo division, be burned, and participate in weighing. The system distinguishes an operation assigned to the concrete tetrad from one assigned to a specific determination. Agency is therefore not fixed by grammatical subject alone.
-
-In a Fichtean nondual reading, active and passive roles are differences
-within one operative system, not relations between wholly independent
-substances. Hegelian logic preserves those differences and asks how the
-operation is determined: by the full tetrad, or by Fire and heaviness
-specifically. The kārikā leaves that attribution disputed. Its
-*prakāśa* for the Organon is the explicit distinction among operation,
-bearer, and role—not a claim that the verse itself resolves the dispute.
+> The Principle Processor determines both operation and attribution.
+> Cutting changes a connected aggregate-stream into separately produced
+> continuations; it does not require an enduring bearer that is later
+> destroyed. The processor distinguishes the concrete Form-complex from
+> a specific operative determination within it. The verse preserves the
+> dispute over those attributions instead of resolving it.
 
 ## 7. Technical Vocabulary
 
@@ -192,59 +189,40 @@ SupportsOperation(x, o)
 
 ## 9. Interpretive Note
 
-VAK 1.35 distinguished Element-dependence from atomic aggregation. VAK 1.36
-adds operation. Principles are not static labels; the outer tetrad is
-classified through active and passive roles.
+VAK 1.36 adds operation to the Dhātu analysis. Its definition of cutting
+describes a change in production: a connected aggregate-stream gives rise
+to divided continuations. This does not posit an enduring body that is
+first whole and then destroyed, nor does it describe cutting as sheer
+disappearance.
 
-The definition of cutting is the central logical achievement:
+The severed-limb argument distinguishes bodily Form from Faculty. Division
+of a bodily member does not produce two Faculties; the separated member is
+described as *nirindriya*. The argument does not deny the Faculty's
+Form-bearing classification or establish a self-subsisting observer.
 
-```text
-connected aggregate-continuation
-    → division
-    → separately produced continuations
-```
+The closing dispute preserves two levels of attribution: the concrete
+outer tetrad may be named as burner and what-is-weighed, or the roles may
+be assigned specifically to Fire and heaviness. These alternatives remain
+unresolved. The verse distinguishes operation, bearer, and attributed
+role without making them interchangeable.
 
-Nothing here requires an enduring bearer that remains numerically
-identical beneath change. Nor is cutting sheer disappearance. Continuity
-is intelligible through a changed rule of production.
+The Kośa presents Vijñāna as Discriminative Cognition joining and
+governing Perception and Conception. Their unity is Inconceivable as a
+homogeneous operation; its Idea is disclosed in the Cognition Base.
+Vijñāna governs Manas and guides the reading of Dharma Base. Form Base
+and Dharma Base classify the same *avijñapti* distinctly, and Vijñāna
+bears a *prati* relation to it. Vijñāna remains distinct from *citta*
+and *manas*.
 
-The treatment of the faculty is equally important for Dhātu–Indriya. A
-bodily Form can be divided, but the Faculty does not become two Faculties.
-The separated member is `nirindriya`. The Kośa classifies Faculties as
-Form-bearing, yet they cannot be reduced to the visible anatomical
-configuration:
-
-```text
-embodied faculty
-    ≠ visible bodily Form
-
-Form-bearing status
-    ≠ visible configuration
-```
-
-The Bhāṣya gives a basis for asking how the Faculty's operative power
-relates to its visible configuration, without turning that distinction
-into a claim that Faculties are not Form-bearing. The Indriya chapter can
-make this relation shine in a fuller account.
-
-Finally, the reported dispute distinguishes two levels of causal analysis:
-
-```text
-operation of the concrete Form-complex
-    versus
-operation assigned to a specific component-property
-```
-
-That distinction belongs directly in the future Vārttika. A typed
-operation must specify not only its conditions and result but the level
-at which agency is predicated: the whole tetrad, a Principle, or a
-specialized determination.
+In this verse, *dhātu* as Principle instrument orders the outer Form
+Principles by their operations and disputed roles. The Techne preserves
+the processual definition while distinguishing the whole Form-complex
+from a specific determination within it.
 
 ## 10. OWL++ Seed
 
 ```ttl
 @prefix vak: <http://127.0.0.1:3000/vak#> .
-@prefix organon: <http://127.0.0.1:3000/organon#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
 vak:VAK_1_36
@@ -279,9 +257,9 @@ vak:BurnerAndWeighedBearerDispute
     vak:contrasts vak:ConcreteComplexAttribution,
         vak:SpecificDeterminationAttribution .
 
-organon:OperationalPrincipleProcessor
+vak:OperationalPrincipleProcessor
     a vak:PrincipleProcessorOperation ;
-    organon:requiresParameter vak:ActiveRole,
+    vak:requiresParameter vak:ActiveRole,
         vak:PassiveRole,
         vak:TransformationRule,
         vak:AttributionLevel .

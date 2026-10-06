@@ -98,6 +98,13 @@ The Bhāṣya reports an alternative explanation from other teachers: the
 Form Essence is gross in its twenty varieties and is the field of the
 fleshly, divine, and noble wisdom-eyes.
 
+The Kośa presents Vijñāna as Discriminative Cognition joining and
+governing Perception and Conception. Their unity is Inconceivable as a
+homogeneous operation; its Idea is disclosed in the Cognition Base.
+Vijñāna governs Manas and guides the reading of Dharma Base. Form Base and
+Dharma Base classify the same *avijñapti* distinctly; Vijñāna bears a
+*prati* relation to it and remains distinct from *citta* and *manas*.
+
 ## 10. OWL++ Seed
 
 ```ttl

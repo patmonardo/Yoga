@@ -219,6 +219,13 @@ according to its own characteristic and scope. The scriptural
 additional ontological Base. The final sixty-two-Principle example extends
 the rule; this passage does not enumerate every placement.
 
+The Kośa presents Vijñāna as Discriminative Cognition joining and
+governing Perception and Conception. Their unity is Inconceivable as a
+homogeneous operation; its Idea is disclosed in the Cognition Base.
+Vijñāna governs Manas and guides the reading of Dharma Base. Form Base and
+Dharma Base classify the same *avijñapti* distinctly, and Vijñāna bears a
+*prati* relation to it. Vijñāna remains distinct from *citta* and *manas*.
+
 ## 10. Working Status
 
 This revision presents VAK 1.27 as the general assignment rule within the

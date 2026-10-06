@@ -93,7 +93,7 @@ the teaching counters. These are not simply three sizes of the same
 container. Each account identifies a different ground for treating a body
 of instruction as one.
 
-**Organon reading**
+**Techne reading**
 
 > The measure changes with the determination being considered. The
 > treatise gives a textual boundary; a topic gives an articulated subject;
@@ -180,6 +180,13 @@ The Absolute Base spans and combines Rūpa-skandha and Dharma-skandha. This
 unity is Absolute Dharma, discriminating all Dharmas through Form and Law.
 The *dharma-skandha* measured here is a teaching-collection, not an
 additional ontological Base.
+
+The Kośa presents Vijñāna as Discriminative Cognition joining and
+governing Perception and Conception. Their unity is Inconceivable as a
+homogeneous operation; its Idea is disclosed in the Cognition Base.
+Vijñāna governs Manas and guides the reading of Dharma Base. Form Base and
+Dharma Base classify the same *avijñapti* distinctly; Vijñāna bears a
+*prati* relation to it and remains distinct from *citta* and *manas*.
 
 ## 10. OWL++ Seed
 

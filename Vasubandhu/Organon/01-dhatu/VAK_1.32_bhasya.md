@@ -236,7 +236,15 @@ holds for both the level descriptions and the factor-specific cases.
 The anchor retains the verse's threefold wording; its limitation and
 fourfold refinement are articulated in the attributed commentary.
 
-## 9. Philosophical and Techne Study
+## 9. Interpretation
+
+The Kośa presents Vijñāna as Discriminative Cognition joining and
+governing Perception and Conception. Their unity is Inconceivable as a
+homogeneous operation; its Idea is disclosed in the Cognition Base.
+Vijñāna governs Manas and guides the reading of Dharma Base. Form Base
+and Dharma Base classify the same *avijñapti* distinctly, and Vijñāna
+bears a *prati* relation to it. Vijñāna remains distinct from *citta*
+and *manas*.
 
 The passage offers a precise lesson for Techne's analysis of predication.
 “Is vitarka” and “is associated with vitarka” answer different questions.

@@ -226,7 +226,7 @@ Otherwise the consequence would extend to the Male Faculty as well.
 
 They explain it, however, in this way: the Nose and Tongue Faculties do
 exist there, but the Smell and Taste Principles do not. Craving becomes
-active toward the six [internal] Essence Bases through one's own embodied
+active toward the six [internal] Essences through one's own embodied
 existence, rather than through their objects. In the case of the Male
 Faculty, however, it operates through sexual contact. Thus it is
 established that fourteen Principles belong to the Form Realm.
@@ -370,7 +370,15 @@ license to ignore the quoted sūtra.
 These decisions govern this edition's anchor and translation. The
 original research kārikā and commentary files remain unchanged.
 
-## 9. Philosophical and Techne Study
+## 9. Interpretation
+
+The Kośa presents Vijñāna as Discriminative Cognition joining and
+governing Perception and Conception. Their unity is Inconceivable as a
+homogeneous operation; its Idea is disclosed in the Cognition Base.
+Vijñāna governs Manas and guides the reading of Dharma Base. Form Base
+and Dharma Base classify the same *avijñapti* distinctly, and Vijñāna
+bears a *prati* relation to it. Vijñāna remains distinct from *citta*
+and *manas*.
 
 For the Techne, a Faculty is a **Representation Factory**: a productive
 capacity for a determinate mode of presentation, not simply a bodily part
@@ -400,14 +408,12 @@ or social function. Our reading should abstract the Faculty's
 representational capacity from those proposed purposes while retaining
 the physical site as a distinct relation.
 
-The closing statement gives the Techne a useful textual test: craving is
-said to operate through the six internal Essence Bases by way of embodied
-existence, not through their external objects; craving associated with the
-Male Faculty is treated separately through sexual contact. This
-inside/outside distinction may help explain how the Essence Base relates
-to Form and Faculty without collapsing them. The Bhāṣya does not call the
-Essence Base a bus or say that it controls Form theory; that system-level
-reading remains a first-pass hypothesis for the verses ahead.
+The closing statement distinguishes the six internal Essences from their
+external objects and locates craving's relation through embodied
+existence rather than through those objects. Craving associated with the
+Male Faculty is treated separately through sexual contact. The Techne
+keeps internal Essence, external object, Faculty, and embodied condition
+distinct while relating them as the Bhāṣya does.
 
 ## 10. Review Status
 

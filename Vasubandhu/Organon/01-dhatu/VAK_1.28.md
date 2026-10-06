@@ -92,22 +92,13 @@ to cognition with outflows. The six Principles are considered together by
 their shared function as supports of birth; this does not make them six new
 members outside the established eighteen Principles.
 
-**Organon reading**
+**Techne reading**
 
-> The Essence Base is real and operative on the Other Side; it is not
-> merely a name for a classification. This passage offers a concrete
-> cross-mapping for that structure: four of the six Principles enter the
-> Tangible Principle, the conditioned Space Principle enters the Form
-> Principle, and cognition with outflows is distributed among the seven
-> Cognition Principles. The Essence Base is where such relations can be
-> held as determinate structure, rather than flattened into an inventory.
-
-The possible placement of **FactStore** within the Essence Base is a
-working architectural direction to test against mappings of this kind,
-not a claim made by the kārikā. The verse establishes the textual
-determinations and the Bhāṣya supplies their placement among the eighteen
-Principles; the location of a software store remains an Organon design
-question.
+> The cross-mapping shows the Dhātu system at work: four of the six
+> Principles enter the Tangible Principle, the conditioned Space Principle
+> enters the Form Principle, and cognition with outflows is included among
+> the seven Cognition Principles. The sixfold teaching is placed within
+> the established eighteen, not added beside them.
 
 ## 7. Technical Vocabulary
 
@@ -127,7 +118,6 @@ question.
 | janmaniśraya | support of birth | shared function of the six Principles |
 | pratisandhicitta | rebirth-linking cognition | opening cognition in the life-continuum described by the Bhāṣya |
 | cyuticitta | death cognition | terminal cognition in that life-continuum |
-| Essence Base | Organon structure on the Other Side | real, operative relational structure; possible home for FactStore remains under design |
 
 ## 8. Logical Determination
 
@@ -187,11 +177,11 @@ conditioned opening described in this passage. Likewise, the restriction
 to cognition with outflows applies to this birth-support list; it does not
 define cognition in every context.
 
-For the Organon, this case makes the Essence Base's reality consequential.
-It must do real work on the Other Side by preserving relations among the
-six-Principle teaching and the established eighteen-Principle system.
-FactStore may belong within that structure; this is a promising design
-direction, still to be tested rather than attributed to Vasubandhu's verse.
+The Techne reading treats this as a methodological demonstration: identify
+the local characteristic and scope, then place each member within the
+established eighteen-Principle system. The sixfold teaching retains its
+shared birth-support function without becoming an additional set of
+Principles.
 
 The following verses, beginning at 1.29, examine particular operations
 and applications of this classification. The six Principles are supports
@@ -202,6 +192,13 @@ cognition is the cognition common to that birth-span. The difficult
 `cittasthaṃ` belongs to the Bhāṣya's explanation of *aghasāmantaka-rūpa*,
 not to this kārikā's wording, and remains unresolved in the separate
 commentary study.
+
+The Kośa presents Vijñāna as Discriminative Cognition joining and
+governing Perception and Conception. Their unity is Inconceivable as a
+homogeneous operation; its Idea is disclosed in the Cognition Base.
+Vijñāna governs Manas and guides the reading of Dharma Base. Form Base and
+Dharma Base classify the same *avijñapti* distinctly; Vijñāna bears a
+*prati* relation to it and remains distinct from *citta* and *manas*.
 
 ## 10. OWL++ Seed
 
@@ -231,11 +228,4 @@ vak:CognitionPrincipleInSixfoldTeaching
     vak:includedAmong vak:SevenCognitionPrinciples ;
     vak:excludes vak:CognitionWithoutOutflows .
 
-vak:EssenceBase
-    a vak:RealOtherSideStructure ;
-    vak:mayContain vak:FactStore .
-
-vak:FactStorePlacement
-    a vak:WorkingDesignHypothesis ;
-    vak:candidateFor vak:EssenceBase .
 ```

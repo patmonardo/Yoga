@@ -205,6 +205,13 @@ Within the 1.24–1.28 Dhātu-machine sequence, this verse distinguishes how
 a teaching-collection is measured from the classification into which its
 content is placed.
 
+The Kośa presents Vijñāna as Discriminative Cognition joining and
+governing Perception and Conception. Their unity is Inconceivable as a
+homogeneous operation; its Idea is disclosed in the Cognition Base.
+Vijñāna governs Manas and guides the reading of Dharma Base. Form Base and
+Dharma Base classify the same *avijñapti* distinctly, and Vijñāna bears a
+*prati* relation to it. Vijñāna remains distinct from *citta* and *manas*.
+
 ## 10. Review Status
 
 QA review of the twenty-sixth Bhāṣya study. The local research

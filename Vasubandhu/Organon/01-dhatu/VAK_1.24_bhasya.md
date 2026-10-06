@@ -191,7 +191,7 @@ is retained. The last compound is punctuated to preserve the explicit
 three-eye count. These are reading decisions, not claims of a critical
 edition.
 
-## 10. Philosophical and Organon Reading
+## 10. Interpretation
 
 The Bhāṣya explicitly identifies two complementary reasons for naming
 Essences. Form Essence is named through primacy: visible form stands out in
@@ -199,7 +199,7 @@ ordinary experience through resistance, visibility, and common usage.
 Dharma Essence is named through scope: it gathers many dharmas, including
 nirvāṇa, the highest Dharma.
 
-**Organon reading**
+**Techne reading**
 
 > The Absolute Base spans and combines Rūpa-skandha and Dharma-skandha.
 > This Absolute Base is Absolute Dharma itself, discriminating all dharmas
@@ -211,6 +211,13 @@ The Kant-informed Techne reading states the system disclosed by the
 Bhāṣya's naming argument: the Absolute Base joins Form and Dharma without
 flattening their distinct determinations. Form and Law are the modes
 through which Absolute Dharma discriminates all dharmas.
+
+The Kośa also presents Vijñāna as Discriminative Cognition joining and
+governing Perception and Conception. Their unity is Inconceivable as a
+homogeneous operation; its Idea is disclosed in the Cognition Base.
+Vijñāna governs Manas and guides the reading of Dharma Base. Form Base and
+Dharma Base classify the same *avijñapti* distinctly, and Vijñāna bears a
+*prati* relation to it. Vijñāna remains distinct from *citta* and *manas*.
 
 ## 11. Working Status
 

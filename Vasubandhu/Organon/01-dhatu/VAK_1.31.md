@@ -261,6 +261,14 @@ contain *vijñapti* or *prati-vijñapti*: Ordinary Knowing and Transcendental
 Knowing remain distinct terms for testing where they occur. Formlessness
 itself is not liberation; outflow-status follows the Bhāṣya's criterion.
 
+The Kośa presents Vijñāna as Discriminative Cognition joining and
+governing Perception and Conception. Their unity is Inconceivable as a
+homogeneous operation; its Idea is disclosed in the Cognition Base.
+Vijñāna governs Manas and guides the reading of Dharma Base. Form Base
+and Dharma Base classify the same *avijñapti* distinctly, and Vijñāna
+bears a *prati* relation to it. Vijñāna remains distinct from *citta*
+and *manas*.
+
 ## 10. OWL++ Seed
 
 ```ttl

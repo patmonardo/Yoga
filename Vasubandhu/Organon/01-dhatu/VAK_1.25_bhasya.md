@@ -71,8 +71,8 @@ group is named, and neither account is selected as the final position.
 
 `Skandhāyatanadhātusaṃśabditāni` refers to things designated in the sūtras
 through the terms *skandha*, *āyatana*, and *dhātu*. Conventionally these
-may be rendered aggregate, sense-base, and element; the Organon terms are
-Base, Essence, and Principle. The occurrence of another designation raises
+may be rendered aggregate, sense-base, and element; the controlled Techne
+terms are Base, Essence, and Principle. The occurrence of another designation raises
 a question; it does not by itself establish a further member outside the
 established classifications. `Ebhir eva`, “by these very
 [classifications],” points back to those systems. `Na vyatirekaḥ` denies
@@ -122,7 +122,7 @@ Two uses must be kept distinct:
 | Level | Term | Determination |
 |---|---|---|
 | Conventional reading of this passage | *dharma-skandha* | a collection or body of teaching; not an additional member of the five Bases |
-| Controlled Organon vocabulary | *skandha* / *āyatana* / *dhātu* | Base / Essence / Principle |
+| Controlled Techne vocabulary | *skandha* / *āyatana* / *dhātu* | Base / Essence / Principle |
 | Systematic projections of Dharma | Dharma Base / Dharma Essence / Dharma Principle | three distinct determinations of one Dharma |
 
 Thus **Dharma-collection** is the right rendering for the eighty thousand
@@ -176,6 +176,13 @@ Bases. Verse 1.26 asks how one Dharma-collection is measured; 1.27 extends
 the discussion to other scriptural designations. Within the 1.24–1.28
 sequence, this is the inclusion test: the scriptural designation is located
 within established classifications rather than added as a new slot.
+
+The Kośa also presents Vijñāna as Discriminative Cognition joining and
+governing Perception and Conception. Their unity is Inconceivable as a
+homogeneous operation; its Idea is disclosed in the Cognition Base.
+Vijñāna governs Manas and guides the reading of Dharma Base. Form Base and
+Dharma Base classify the same *avijñapti* distinctly, and Vijñāna bears a
+*prati* relation to it. Vijñāna remains distinct from *citta* and *manas*.
 
 ## 10. Working Status
 

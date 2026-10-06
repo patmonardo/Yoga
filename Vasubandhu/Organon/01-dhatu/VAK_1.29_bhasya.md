@@ -322,7 +322,15 @@ continuous translation.
 7. The karmic-maturation explanation is reported and challenged, not adopted
    as the final definition.
 
-## 10. Philosophical and Organon Study
+## 10. Interpretation
+
+The Kośa presents Vijñāna as Discriminative Cognition joining and
+governing Perception and Conception. Their unity is Inconceivable as a
+homogeneous operation; its Idea is disclosed in the Cognition Base.
+Vijñāna governs Manas and guides the reading of Dharma Base. Form Base
+and Dharma Base classify the same *avijñapti* distinctly, and Vijñāna
+bears a *prati* relation to it. Vijñāna remains distinct from *citta*
+and *manas*.
 
 The verse opens the classification sequence by determining the eighteen
 Principles along separate axes: demonstrability, impediment, and ethical
@@ -338,28 +346,26 @@ through action. A Form Base classification does not flatten the faculties,
 their fields, and their objects into one thing; the system keeps their
 roles distinct while recording their relations.
 
-The question whether an `indriya` can be “struck” remains open. The
+The question whether a Faculty can be “struck” remains open. The
 Bhāṣya does include the five faculties among the ten that obstruct one
 another and places them in the quadrant that is both object-field-limited
 and obstructively resistant. But “struck” can suggest an ordinary physical
 impact on a sense organ, which is not what the threefold analysis alone
-establishes. This study therefore uses “subject to impediment” for
-`sapratigha` and preserves the specific obstruction relation without
-settling its Organon interpretation.
+establishes. This study therefore renders `sapratigha` as “subject to
+impediment” and preserves the specific obstruction relation without
+reducing it to ordinary bodily impact.
 
-This develops our inquiry into learning by showing what careful discrimination
-requires: identify the sense of a term, determine its extension, and test
+This develops the inquiry into learning by showing what careful
+discrimination requires: identify the sense of a term, determine its extension, and test
 its relation to neighboring determinations. A Principle is not a passive
 label; it keeps these differences apart and gathers their derivative
 relations into a classifiable science.
 
-In the Organon, this verse begins the examination of the Principle
-Processor, the project-level inner instrument for discriminating and
-relating Principles. Here the Bhāṣya supplies its first diagnostic
-determinations: visibility, distinct senses of impediment, and ethical
-status. This technical name belongs to the Organon reading, not to the
-Bhāṣya's own wording; later verses examine further operations and
-applications.
+As the opening operation of the Principle Processor, this verse
+distinguishes visibility, the senses of impediment, and ethical status.
+The Processor relates these determinations without treating them as
+interchangeable predicates. The subsequent verses extend this analysis
+through further operations and applications.
 
 ## 11. First-Pass Status
 

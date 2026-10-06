@@ -100,7 +100,7 @@ silently substituted into the Sanskrit.
 
 ## 6. Philosophical Translation
 
-> Principles differ not only in what they classify but in the relations their instances can enter. The five sensory-Cognition Principles are invariably associated with vitarka and vicāra. The final triad—Mind, Essence, and Mental Cognition—admits different modes according to meditative level. The ten Form Base Principles lack this mental association, not through contemplative attainment but by their type.
+> Principles differ not only in what they classify but in the relations their instances can enter. The five sensory-Cognition Principles are invariably associated with vitarka and vicāra. The final triad—Mind, Dharma, and Mind-Cognition—admits different modes according to meditative level. The ten Form Base Principles lack this mental association, not through contemplative attainment but by their type.
 
 Techne reading:
 
@@ -254,6 +254,14 @@ Sensory cognition's association with both factors does not prevent its
 being called *avikalpaka* in a restricted technical sense. The sequence
 promises a graded account; it does not identify those grades with Prajñā
 or *prakāśa*.
+
+The Kośa presents Vijñāna as Discriminative Cognition joining and
+governing Perception and Conception. Their unity is Inconceivable as a
+homogeneous operation; its Idea is disclosed in the Cognition Base.
+Vijñāna governs Manas and guides the reading of Dharma Base. Form Base
+and Dharma Base classify the same *avijñapti* distinctly, and Vijñāna
+bears a *prati* relation to it. Vijñāna remains distinct from *citta*
+and *manas*.
 
 ## 10. OWL++ Seed
 

@@ -89,7 +89,7 @@ proper characteristic must be ascertained first; the item's scope must also
 be clear. Only then can it be assigned among the established Bases, Essences, or
 Principles.
 
-**Organon reading**
+**Techne reading**
 
 > The operation is determination before placement. Ask what the named
 > content is in its own right, and whether the name presents that principal
@@ -97,7 +97,7 @@ Principles.
 > scriptural heading can therefore receive different placements without
 > contradiction when the scope under consideration differs.
 
-The Organon reading draws out the procedure enacted in the Bhāṣya's
+The Techne reading draws out the procedure enacted in the Bhāṣya's
 examples. It does not turn context-sensitive assignment into arbitrariness:
 the characteristic and scope constrain the result.
 
@@ -191,6 +191,13 @@ placements are not enumerated here. The local *dharma-skandha* remains a
 teaching-collection, not an additional Base. From 1.29 onward, the chapter
 examines particular operations and applications of this established
 classification.
+
+The Kośa presents Vijñāna as Discriminative Cognition joining and
+governing Perception and Conception. Their unity is Inconceivable as a
+homogeneous operation; its Idea is disclosed in the Cognition Base.
+Vijñāna governs Manas and guides the reading of Dharma Base. Form Base and
+Dharma Base classify the same *avijñapti* distinctly; Vijñāna bears a
+*prati* relation to it and remains distinct from *citta* and *manas*.
 
 ## 10. OWL++ Seed
 

@@ -267,12 +267,19 @@ withholding the gross objects and sensory Knowing relations that depend
 on them. This tests the distinction without making the Faculty, its
 object, its Knowing, and its manifested action interchangeable.
 
-The Hegelian comparison belongs to our Techne: a Principle is more than an
-inert entry; its determinations appear through relations and possible
-configurations. The first-pass hypothesis is that the Essence Base holds
-these cross-classifications while the Form Principles remain
-differentiated. The kārikā does not name that architecture; its relations
-give us material to test it in the following verses.
+The Kant–Fichte–Hegel Techne reads the Realm configuration through the
+relations among Faculties, objects, cognition, and attachment. The six
+internal Essences and their external objects remain distinct from the
+eighteen-Principle classification, while their relations are made
+explicit in the Bhāṣya.
+
+The Kośa presents Vijñāna as Discriminative Cognition joining and
+governing Perception and Conception. Their unity is Inconceivable as a
+homogeneous operation; its Idea is disclosed in the Cognition Base.
+Vijñāna governs Manas and guides the reading of Dharma Base. Form Base
+and Dharma Base classify the same *avijñapti* distinctly, and Vijñāna
+bears a *prati* relation to it. Vijñāna remains distinct from *citta*
+and *manas*.
 
 ## 10. OWL++ Seed
 

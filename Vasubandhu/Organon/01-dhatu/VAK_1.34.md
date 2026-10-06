@@ -27,20 +27,20 @@ anye nava dvidhā   → anye nava dvidhā
 
 | Pada | Morphology | Force in this passage |
 |---|---|---|
-| sapta | numeral | seven cognitive elements |
+| sapta | numeral | seven cognitive Principles |
 | sa-ālambanāḥ | nominative masculine plural adjective | taking or possessing an object |
-| citta-dhātavaḥ | nominative masculine plural compound | the six cognition elements together with the Mind element |
+| citta-dhātavaḥ | nominative masculine plural compound | the six cognition Principles together with the Mind Principle |
 | ardham | nominative neuter singular | a portion; the associated mental-factor part |
-| dharmataḥ | ablative singular | with respect to the Dharma element |
+| dharmataḥ | ablative singular | with respect to the Dharma Principle |
 | an-upāttāḥ | nominative masculine plural adjective | unappropriated; not organically taken up |
 | te | nominative masculine plural pronoun | those just identified |
-| aṣṭau | numeral | the seven cognitive elements plus the Dharma element |
-| śabdaḥ | nominative masculine singular | sound element |
-| anye nava | nominative masculine plural | the remaining nine elements |
+| aṣṭau | numeral | the seven cognitive Principles plus the Dharma Principle |
+| śabdaḥ | nominative masculine singular | sound Principle |
+| anye nava | nominative masculine plural | the remaining nine Principles |
 | dvidhā | distributive adverb | in two modes: appropriated or unappropriated |
 
 `Ardham` is not a claim that exactly one numerical half of the Dharma
-element takes objects. The Bhāṣya identifies the intended part
+Principle takes objects. The Bhāṣya identifies the intended part
 functionally: associated mental factors (*caitasika*) take objects;
 the unassociated portion does not.
 
@@ -50,17 +50,17 @@ The first line establishes object-taking:
 
 ```text
 sapta citta-dhātavaḥ sālambanāḥ
-    the seven cognitive elements take objects
+    the seven cognitive Principles take objects
 
 ardhaṃ ca dharmataḥ
-    and a portion of the Dharma element does also
+    and a portion of the Dharma Principle does also
 ```
 
-The seven are the five sensory cognition elements, the
-mental-cognition element, and the Mind element. They are *sālambana* because they
+The seven are the five sensory cognition Principles, the
+mental-cognition Principle, and the Mind Principle. They are *sālambana* because they
 apprehend an object-range (*viṣayagrahaṇa*). Associated mental factors
-within the Dharma element take the same objects together with cognition.
-The ten Form elements and the unassociated portion of the Dharma element
+within the Dharma Principle take the same objects together with cognition.
+The ten Form Principles and the unassociated portion of the Dharma Principle
 are *anālambana*.
 
 The second line switches to a completely different predicate:
@@ -76,27 +76,27 @@ anye nava dvidhā
     the remaining nine are twofold
 ```
 
-For this second count the eight are the seven cognitive elements plus
-the **whole** Dharma element. Adding the sound element produces nine
-invariably unappropriated elements. The shift from part to whole is not
+For this second count the eight are the seven cognitive Principles plus
+the **whole** Dharma Principle. Adding the sound Principle produces nine
+invariably unappropriated Principles. The shift from part to whole is not
 inconsistent; object-taking and appropriation have different extensions.
 
-The remaining nine are the five sensory Faculty elements plus the
-elements of visible Form, smell, taste, and tangibility. They may be
+The remaining nine are the five sensory Faculty Principles plus the
+Principles of visible Form, smell, taste, and tangibility. They may be
 appropriated or unappropriated according to time and organic relation.
 
 ## 5. Translation
 
 ### Close syntactic construe
 
-> The seven cognitive elements take objects, as does a portion of the Dharma element. Nine are unappropriated—those eight together with sound. The remaining nine are twofold.
+> The seven cognitive Principles take objects, as does a portion of the Dharma Principle. Nine are unappropriated—those eight together with sound. The remaining nine are twofold.
 
 ### Bhāṣya-informed translation
 
-> The six cognition elements and the Mind element take objects, as do the associated mental factors within the Dharma element. The seven cognitive elements, the entire Dharma element, and the sound element are always unappropriated. The other nine elements may be appropriated into a present living continuum or remain unappropriated.
+> The six cognition Principles and the Mind Principle take objects, as do the associated mental factors within the Dharma Principle. The seven cognitive Principles, the entire Dharma Principle, and the sound Principle are always unappropriated. The other nine Principles may be appropriated into a present living continuum or remain unappropriated.
 
 The second rendering expands the two different counts so that the associated
-portion of the Dharma element is not confused with the whole element's
+portion of the Dharma Principle is not confused with the whole Principle's
 appropriation-status.
 
 ## 6. Philosophical Translation

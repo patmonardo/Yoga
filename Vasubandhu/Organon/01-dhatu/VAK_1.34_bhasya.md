@@ -6,14 +6,14 @@
 >
 > navānupāttās te cāṣṭau śabdaś cānye nava dvidhā // 1.34 //
 
-> The seven cognitive elements take objects, as does a portion of the
-> Dharma element. Nine are unappropriated: those eight and sound. The
+> The seven cognitive Principles take objects, as does a portion of the
+> Dharma Principle. Nine are unappropriated: those eight and sound. The
 > other nine are twofold.
 
 The Bhāṣya identifies the “half” as the associated mental-factor portion
-of the Dharma element. In the second classification it explicitly
-counts the whole Dharma element among the nine unappropriated
-elements. The compact resumption “those eight” must be read with that
+of the Dharma Principle. In the second classification it explicitly
+counts the whole Dharma Principle among the nine unappropriated
+Principles. The compact resumption “those eight” must be read with that
 change of scope.
 
 ## 2. Continuous Sanskrit
@@ -61,7 +61,7 @@ change of scope.
 > yalloke sacetanamityucyate /
 
 The natural unit begins at printed page 22.27 and ends at 23.17. The
-following question concerning primary Elements and derived Forms
+following question concerning primary Principles and derived Forms
 belongs to 1.35.
 
 The running transcription's *it isiddham*, *aṣṭamaṣyārdhena*,
@@ -72,31 +72,31 @@ transcription. Malformed page ranges are apparatus defects and have
 not been reproduced. The kārikā anchor uses continuous sandhi where
 the local kārikā transcription separates the words.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 How many take an object, and how many do not?
 
-The seven cognitive elements take objects. The visual, auditory,
-olfactory, gustatory, bodily, and mental-cognition elements, together
-with the Mind element, are these seven. They take objects because
+The seven cognitive Principles take objects. The visual, auditory,
+olfactory, gustatory, bodily, and mental-cognition Principles, together
+with the Mind Principle, are these seven. They take objects because
 they apprehend an object-field.
 
-And a portion of the Dharma element: the portion consisting of
+And a portion of the Dharma Principle: the portion consisting of
 associated mental factors takes an object. It is therefore established
-that the ten Form elements and the unassociated portion of the
-Dharma element do not take objects.
+that the ten Form Principles and the unassociated portion of the
+Dharma Principle do not take objects.
 
 How many are appropriated, and how many unappropriated? Nine are
 unappropriated. Which nine? The seven just described as taking objects,
 together with a portion of the eighth [are recalled]. Those eight, and
-sound: these are the nine unappropriated elements—the seven cognitive
-elements, the Dharma element, and the sound element.
+sound: these are the nine unappropriated Principles—the seven cognitive
+Principles, the Dharma Principle, and the sound Principle.
 
 The other nine are twofold: appropriated and unappropriated. Of these,
 the eye, ear, nose, tongue, and body Faculties are appropriated when
 present; when past or future, they are unappropriated.
 
-The visible Form, smell, taste, and tangible Form elements are
+The visible Form, smell, taste, and tangible Form Principles are
 appropriated when present and inseparable from a Faculty. Other instances are
 unappropriated: for example, [those] in hair, body-hair, nails, and teeth
 apart from their roots; in feces, urine, saliva, mucus, blood, and the
@@ -109,12 +109,12 @@ ordinary usage.
 
 The bracketed phrase in the resumption marks the compressed reference
 to the previous count. The explicit enumeration that follows supplies
-the whole Dharma element; the translation does not invent a second
+the whole Dharma Principle; the translation does not invent a second
 half-Principle to make the arithmetic work.
 
 ## 4. Movement and Voices of the Commentary
 
-Two questions organize the unit. The first classifies elements by
+Two questions organize the unit. The first classifies Principles by
 taking an object. The second classifies them by appropriation as a living
 support. Each receives an enumeration, and the latter also receives a
 temporal distinction, Form examples, and a definition.
@@ -133,17 +133,17 @@ treated as synonyms for participation in cognition.
 
 *Viṣayagrahaṇāt*, “because of apprehending an object-field,” supplies
 the reason the seven are *sālambana*. They comprise the six
-cognition elements and the Mind element. “Taking an object” describes their
+cognition Principles and the Mind Principle. “Taking an object” describes their
 apprehensive relation; it does not mean being physically supported by
 an external thing.
 
 The distinction also runs in the other direction. A visible form may
-be an object of visual cognition while its form element is
+be an object of visual cognition while its form Principle is
 *anālambana*: it does
 not itself apprehend an object. Consequently *anālambana* should not
 be expanded into “unavailable to cognition” or “outside experience.”
 
-For the Dharma element, *yac caitasikasvabhāvam* identifies the
+For the Dharma Principle, *yac caitasikasvabhāvam* identifies the
 relevant portion as associated mental factors. The rest is described as
 unassociated.
 *Ardham*, “half,” marks this division into portions; the prose supplies
@@ -157,29 +157,29 @@ solely on the subdivisions of the Formations Base.
 
 ## 6. Why the Second Count Includes the Whole Dharma Principle
 
-The first enumeration reaches seven elements plus a portion of an
-eighth. The second states nine whole elements: the seven cognitive
-elements, the Dharma element, and sound. This explicit list governs
+The first enumeration reaches seven Principles plus a portion of an
+eighth. The second states nine whole Principles: the seven cognitive
+Principles, the Dharma Principle, and sound. This explicit list governs
 *te cāṣṭau*.
 
-| Element or portion | Takes an object? | Appropriation status |
+| Principle or portion | Takes an object? | Appropriation status |
 | --- | --- | --- |
-| Seven cognitive elements | Yes | Unappropriated |
-| Associated mental-factor portion of Dharma element | Yes | Unappropriated |
-| Unassociated portion of Dharma element | No | Unappropriated |
-| Sound element | No | Unappropriated |
+| Seven cognitive Principles | Yes | Unappropriated |
+| Associated mental-factor portion of Dharma Principle | Yes | Unappropriated |
+| Unassociated portion of Dharma Principle | No | Unappropriated |
+| Sound Principle | No | Unappropriated |
 | Five sensory Faculties | No | Twofold according to time |
 | Visible Form, smell, taste, tangible Form | No | Twofold according to time and Faculty-inseparability |
 
 This makes the two classifications reviewable without combining their
-counts. The nine twofold elements are five sensory Faculties plus four
-form-object elements. Sound is expressly excluded from that group, even
+counts. The nine twofold Principles are five sensory Faculties plus four
+form-object Principles. Sound is expressly excluded from that group, even
 though it may be produced by a living body. The passage states its
 classification without separately arguing the cause of that exclusion.
 
 “Unappropriated” here does not mean disconnected from a living being,
 unconscious, or ethically neutral. Consciousness and mental factors
-themselves are included among the unappropriated elements. The predicate concerns
+themselves are included among the unappropriated Principles. The predicate concerns
 the relation defined at the end of the unit.
 
 ## 7. Present Faculties, Form Inseparability, and Reciprocal Effects
@@ -191,7 +191,7 @@ cognition. The research phrase “presently functioning” can obscure
 this difference between being a present faculty and exercising it in
 an occurrent act.
 
-For the four Form-object elements, two conditions are conjoined:
+For the four Form-object Principles, two conditions are conjoined:
 *pratyutpanna*, present, and *indriyāvinirbhāgin*, inseparable from a
 Faculty. Present external Form is therefore not automatically
 appropriated. Nor does merely being located within the body suffice,
@@ -220,15 +220,15 @@ object-taking cognitions.
 
 ## 8. The Bhāṣya's Decisions for the Kārikā
 
-- The seven are six cognition elements and the Mind element; they take objects
+- The seven are six cognition Principles and the Mind Principle; they take objects
   because they apprehend an object-field.
-- The object-taking portion of the Dharma element consists of associated mental
+- The object-taking portion of the Dharma Principle consists of associated mental
   factors, without a claim of numerical equality between halves.
-- The appropriation count includes the whole Dharma element, together
-  with the seven cognitive elements and sound.
-- The other nine are five sensory Faculties and four Form-object elements.
+- The appropriation count includes the whole Dharma Principle, together
+  with the seven cognitive Principles and sound.
+- The other nine are five sensory Faculties and four Form-object Principles.
 - Present status governs appropriation of faculties; present status
-  and Faculty-inseparability jointly govern the four Form-object elements.
+  and Faculty-inseparability jointly govern the four Form-object Principles.
 - Appropriation means being taken up as a supporting basis with
   reciprocal responsiveness to benefit and injury.
 
@@ -246,16 +246,15 @@ Vijñāna bears a *prati* relation to it. Vijñāna remains distinct from
 *citta* and *manas*.
 
 This governing account frames the present argument. The seven cognitive
-elements and associated mental factors take objects; the whole Dharma
-element is nevertheless unappropriated. Appropriation is a different
+Principles and associated mental factors take objects; the whole Dharma
+Principle is nevertheless unappropriated. Appropriation is a different
 relation: Form is taken up as a support for consciousness and mental
 factors, with reciprocal effects of benefit and injury. These counts
 cannot be collapsed into one division between "mental" and "physical."
 
 In the incoming Techne, *vijñāna* is Knowing, understood as Higher
 Cognition of Scientific Knowing, and *dhātu* is the Principle instrument.
-The source translation retains the local element terminology; the Techne
-reading distinguishes object-taking from organic appropriation without
+The Techne distinguishes object-taking from organic appropriation without
 identifying the object, cognition, and living support.
 
 ## 10. Review Status
@@ -265,7 +264,7 @@ research commentary, and running Sanskrit have been compared through
 the definition of appropriated Form and its ordinary designation.
 
 Transcription repairs are identified. The shift from part to whole of
-The Dharma element is made explicit, and present Faculty status is kept
+The Dharma Principle is made explicit, and present Faculty status is kept
 distinct from active sensory operation. The source's bodily examples,
 including blood without further qualification, remain visible for
 review. Original sources and the Part One reading artifact remain

@@ -92,7 +92,7 @@ first account, it belongs to the Form Base; on the second, to the Formations
 Base. The teaching is classified according to the reported nature of
 Buddha-word.
 
-**Organon reading**
+**Techne reading**
 
 > The teaching that articulates the system is itself located within the
 > system. As speech, it has an outward, sensible occurrence and is gathered
@@ -114,8 +114,8 @@ aspects.
 | skandha | Base | one of the five gathered classifications |
 | dharma-skandha | Dharma-collection | scriptural body or division of teaching, not an additional ontological Base |
 | dharma | Dharma | retained in the compound *dharma-skandha* |
-| āyatana | Essence | controlled Organon rendering |
-| dhātu | Principle | controlled Organon rendering |
+| āyatana | Essence | controlled Techne rendering |
+| dhātu | Principle | controlled Techne rendering |
 | rūpa | Form | the first Base of inclusion in the speech-nature account |
 | saṃskāra | Formations | the Base of inclusion in the name-nature account |
 | buddha-vacana | Buddha-word | the nature of which is analyzed in the two reported accounts |
@@ -183,6 +183,13 @@ Dharma-collection is measured; 1.27 extends the discussion to other
 scriptural designations. In the Dhātu-machine sequence, 1.25 tests whether
 additional scriptural labels create new slots; the answer is inclusion
 within the established classifications.
+
+The Kośa presents Vijñāna as Discriminative Cognition joining and
+governing Perception and Conception. Their unity is Inconceivable as a
+homogeneous operation; its Idea is disclosed in the Cognition Base.
+Vijñāna governs Manas and guides the reading of Dharma Base. Form Base and
+Dharma Base classify the same *avijñapti* distinctly; Vijñāna bears a
+*prati* relation to it and remains distinct from *citta* and *manas*.
 
 ## 10. OWL++ Seed
 

@@ -183,7 +183,15 @@ technical status, not a general dismissal of sensory knowledge.
 These determinations refine the reading without altering the original
 research kārikā or commentary files.
 
-## 9. Philosophical and Techne Study
+## 9. Interpretation
+
+The Kośa presents Vijñāna as Discriminative Cognition joining and
+governing Perception and Conception. Their unity is Inconceivable as a
+homogeneous operation; its Idea is disclosed in the Cognition Base.
+Vijñāna governs Manas and guides the reading of Dharma Base. Form Base
+and Dharma Base classify the same *avijñapti* distinctly, and Vijñāna
+bears a *prati* relation to it. Vijñāna remains distinct from *citta*
+and *manas*.
 
 For the incoming Techne, this passage makes the Principle Processor
 executable in two stages. First, a Realm filter removes the ten Form Base
@@ -213,7 +221,7 @@ classified by outflow-status.
 
 Neither inwardness nor formlessness guarantees *anāsrava*. The outflow-free
 determination still depends on Path-truth or unconditioned dharmas. The
-Bhāṣya's final account of craving through the six internal Essence Bases
+Bhāṣya's final account of craving through the six internal Essences
 by way of embodied existence, rather than through their objects, offers
 another relation for the Techne to test without treating inwardness itself
 as liberation.
