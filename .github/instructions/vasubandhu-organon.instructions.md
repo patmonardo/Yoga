@@ -23,6 +23,15 @@ folder, consult these load-bearing project documents:
 - For the current Indriyanirdeśa pass, upgrade one verse at a time. Treat
   each kārikā and its Bhāṣya as a paired unit; upgrade both together.
   Every verse contributes to the movement.
+- Read VAK 1.24–1.28 as the specification and demonstration of the Dhātu
+  classification machine: 1.24 distinguishes the named Essences; 1.25
+  locates further scriptural designations within established
+  classifications; 1.26 distinguishes measures of a teaching-collection;
+  1.27 states characteristic-based assignment; 1.28 demonstrates a
+  cross-mapping of a six-Principle teaching. From 1.29 onward, follow the
+  chapter's examination of how the classification works and is applied.
+  This is an editorial map, not a genre or title attributed to the source.
+  Do not label 1.24–1.28 as only a Form System.
 - Preserve the Bhāṣya's actual scope and argument. Most units clarify a
   kārikā briefly; some become extended dialectical “Dharma Talks.” For those,
   retain the full sequence of questions, positions, objections, replies, and
@@ -106,7 +115,7 @@ folder, consult these load-bearing project documents:
   permanently outstanding closure. Treat this as textually anchored, not
   as an imported metaphor.
 
-## Conventional translation vs. Organon reading
+## Conventional translation vs. Techne reading
 
 Keep conventional translation and Techne reading in distinct sections, so
 the controlled English rendering does not replace the local Sanskrit
@@ -123,6 +132,22 @@ classifications, and Vijñāna bears a *prati* relation to *avijñapti*.
 Preserve these relations without collapsing their terms. Keep *vijñāna*
 distinct from *citta* and *manas*. State this governing synthesis directly
 in the paired Bhāṣya's **Interpretation** and concisely in kārikā notes.
+
+For the incoming Techne of the inner instrument, use *vijñāna* as **Knowing**,
+*jñāna* as **Conceiving**, *prajñā* as **Science of Principles**, and
+*dhātu* as the **Principle instrument**. These are incoming Techne meanings,
+not replacements for conventional translation or Lexical Analysis: retain
+**Cognition** for *vijñāna* in conventional translation; in the Techne,
+understand it as **Higher Cognition of Scientific Knowing**. Keep the local
+source glosses in translation.
+Keep Thinking, Conceiving, and Knowing distinct: Conceiving is **Ordinary
+Knowing** (*vijñapti*), while Knowing is **Transcendental Knowing**
+(*prati-vijñapti*). This is a Techne relation, not a universal lexical
+substitution for every occurrence of these forms.
+Keep this inner-instrument use of *jñāna* distinct from the existing
+**Jñāna-skandha** project grouping of ordinary knowledge. Apply these
+meanings verse by verse only where the passage supports them; do not insert
+absent terms into a study.
 
 Preserve who is speaking. Attribute positions to the Vaibhāṣikas, Vasubandhu,
 other teachers, or an unnamed opponent only when the text does so. In

@@ -25,7 +25,7 @@ vyagrā             → vyagrā
 sarvaiva           → sarvā eva
 ```
 
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | nirūpaṇa | compound member | examination, determination, discriminative specification |
 | anusmaraṇa | compound member | recollection, renewed or reproductive remembering |
@@ -110,19 +110,23 @@ This translation preserves the relative force of `avikalpaka` and prevents
 
 > The classification distinguishes three kinds of vikalpa: intrinsic differentiation in sensory cognition, determining discernment in unconcentrated mental cognition, and recollective smṛti across concentrated and unconcentrated mental states. The distinctions describe kinds and qualifications of cognitive operation, not successive stages of a process.
 
-Organon rendering:
+Techne reading:
 
-> The Principle system differentiates cognitive operations without splitting them into independent substances. Sensory Cognition has intrinsic vikalpa; determining prajñā is mental and unconcentrated; recollective smṛti is mental whether concentrated or not. This is a typed map of functions and conditions, not a timeline in which sensation grows into memory or discernment.
+> The Kośa presents Vijñāna as Discriminative Cognition joining and
+> governing Perception and Conception. Their unity is Inconceivable as a
+> homogeneous operation; its Idea is disclosed in the Cognition Base. This
+> verse specifies one local distinction within that
+> account: sensory cognition has intrinsic vikalpa, identified as vitarka,
+> but lacks examining and recollective vikalpa.
 
-The Organon hypothesis is Fichtean in its nondual starting point: Prajñā
-is approached as self-relating activity, while Vijñāna is its particular
-representation, not a second independent knower. Hegelian logic then
-preserves the differences among intrinsic, determining, and recollective
-functions as determinate moments within that activity. The verse itself
-does not identify sensory cognition with Prajñā, nor does it equate its
-qualified mental prajñā with *paramārtha*. The intended *prakāśa* is the
-Principle system's intelligibility through its own distinctions, not a
-claim that this verse explicitly teaches illumination.
+In the incoming Techne, *vijñāna* is Knowing—Higher Cognition of Scientific
+Knowing—and *prajñā* is Science of Principles. Here the Bhāṣya restricts
+the prajñā under discussion to an unconcentrated, mental-cognition-
+associated examining function. That local determination should neither
+replace the source translation nor be generalized to every occurrence of
+*prajñā*. The three kinds are differentiated functions, not successive
+stages; their classification does not by itself describe every operation
+of the Principle Processor.
 
 ## 7. Technical Vocabulary
 
@@ -216,56 +220,27 @@ causal, temporal, or developmental sequence.
 
 ## 9. Interpretive Note
 
-VAK 1.33 is one of the decisive cognitive verses of the Principle chapter.
-It refuses the crude binary in which sensory cognition is either an
-undifferentiated given or already a fully conceptual judgment. Sensory
-cognition has `svabhāva-vikalpa`, identified with `vitarka`; it is called
-`avikalpaka` only because it lacks the other two kinds. The verse classifies
-intrinsic, determining, and recollective vikalpa; it does not narrate their
-causal or developmental succession.
+VAK 1.33 qualifies the designation *avikalpaka*: sensory cognition has
+intrinsic vikalpa, identified with vitarka, while lacking examining and
+recollective vikalpa. Read within the Kośa's wider account, Vijñāna is
+Discriminative Cognition joining and governing Perception and Conception.
+Their unity is Inconceivable as a homogeneous operation; its Idea is
+disclosed in the Cognition Base. Vijñāna governs Manas and guides the reading of
+Dharma Base. Form Base and Dharma Base classify the same *avijñapti* in
+distinct ways, and Vijñāna bears a *prati* relation to it. Vijñāna is
+distinct from *citta* and *manas*. This verse contributes a local
+classification to that account; it does not itself explain the whole
+relation.
 
-The Kantian comparison is therefore compelling but must remain structurally
-exact:
-
-| Kośa operation | Provisional Kantian bridge |
-|---|---|
-| sensory cognition with intrinsic vikalpa | synthesis of apprehension |
-| `anusmaraṇa-vikalpa` as mental `smṛti` | reproduction in imagination |
-| `abhinirūpaṇa-vikalpa` as mental `prajñā` | determination oriented toward recognition |
-
-The order in which the Kārikā names these kinds is not itself Kant's
-transcendental deduction, and `nirūpaṇa` is not simply identical with recognition in a concept.
-Recognition requires a unity under which the reproduced manifold is known
-as the same. The present verse supplies determination and reproduction as
-typed cognitive powers; their unity as a single transcendental operation
-remains for the Organon Vārttika to demonstrate.
-
-That restraint makes the comparison more powerful. We are not importing a
-ready-made Kantian triad. The Kośa gives a typed differentiation from which
-an Organon account of their coordination may be constructed:
-
-```text
-intrinsic sensory vikalpa
-    | determining mental prajñā
-    | recollective mental smṛti
-        → functions to be related, not a sequence asserted by the verse
-```
-
-The Fichtean nondual proposal reads these as differentiated functions
-within one self-relating activity, not as three independent faculties.
-Hegelian logic keeps their differences determinate within that unity; it
-does not flatten them into an undifferentiated whole. Yet the local use of
-`prajñā` remains narrow: it names unconcentrated discernment associated
-with mental cognition. The broader hypothesis of Prajñā as *adhyātman* or
-the *paramārtha* pole must not be substituted for this local definition.
-The Organon Vārttika may develop that relation, grounded in this
-classification rather than imposed on it.
+The text identifies examining vikalpa with a specific prajñā associated
+with mental cognition and unconcentrated, while recollective vikalpa
+includes mental smṛti whether concentrated or unconcentrated. It does not
+make these three kinds a temporal sequence.
 
 ## 10. OWL++ Seed
 
 ```ttl
 @prefix vak: <http://127.0.0.1:3000/vak#> .
-@prefix organon: <http://127.0.0.1:3000/organon#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
 vak:VAK_1_33
@@ -295,17 +270,4 @@ vak:AnusmaranaVikalpa
     vak:realizedBy vak:SpecificallyMentalSmrti ;
     vak:permitsConcentration vak:Concentrated,
         vak:Unconcentrated .
-
-organon:ApprehensionBridge
-    organon:provisionallyGroundedIn vak:SvabhavaVikalpa ;
-    organon:isNotASequenceClaim true .
-
-organon:ReproductionBridge
-    organon:provisionallyGroundedIn vak:AnusmaranaVikalpa ;
-    organon:isNotASequenceClaim true .
-
-organon:RecognitionBridge
-    organon:provisionallyGroundedIn vak:AbhinirupanaVikalpa ;
-    organon:requiresFurtherDerivation true ;
-    organon:isNotIdenticalWith vak:VAK_1_33 .
 ```

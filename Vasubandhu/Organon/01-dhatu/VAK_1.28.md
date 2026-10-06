@@ -12,30 +12,26 @@
 >
 > vijñānadhātur vijñānaṃ sāsravaṃ janmaniśrayāḥ // 1.28 //
 
-## 3. Padaccheda and Lexical Analysis
-
-**Padaccheda**
+## 3. Lexical Analysis
 
 ```text
-chidram | ākāśa-dhātu-ākhyam | āloka-tamasī | kila |
-vijñāna-dhātuḥ | vijñānam | sa-āsravam | janma-niśrayāḥ
+chidram ākāśadhātvākhyam ālokatamasī kila
+    → chidram + ākāśa-dhātu-ākhyam + āloka-tamasī + kila
+
+vijñānadhātur vijñānaṃ sāsravaṃ janmaniśrayāḥ
+    → vijñāna-dhātuḥ + vijñānam + sa-āsravam + janma-niśrayāḥ
 ```
 
-| Form | Morphology | Force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | chidram | nominative neuter singular | opening, aperture |
 | ākāśa-dhātu-ākhyam | nominative neuter singular compound | named the Space Principle |
 | āloka-tamasī | nominative neuter dual | light and darkness |
-| kila | reportive particle | it is said; marks a received account |
+| kila | reportive particle | according to a received account |
 | vijñāna-dhātuḥ | nominative masculine singular | Cognition Principle |
-| vijñānam | nominative neuter singular | cognition |
+| vijñānam | nominative neuter singular | Cognition |
 | sa-āsravam | nominative neuter singular | with outflows |
 | janma-niśrayāḥ | nominative masculine plural | supports of birth; the Bhāṣya supplies the six Principles as subject |
-
-`Dhātu` is rendered **Principle** in this project. The Bhāṣya identifies
-the larger list as six Principles: earth, water, fire, wind, space, and
-cognition. The verse's plural `janmaniśrayāḥ` predicates birth-support of
-the six together, not of the singular Cognition Principle alone.
 
 ## 4. Grammar
 
@@ -177,13 +173,13 @@ its entries do not become additional Principles outside that arrangement.
 
 ## 9. Interpretive Note
 
-VAK 1.28 is the worked case following the assignment procedure of 1.27.
-The *Bahudhātuka* teaching gives six Principles. The Bhāṣya specifies the
-two initially unexplained members: the Space Principle is an opening
-apprehended through light and darkness, and the Cognition Principle is
-cognition with outflows. It then maps the six into the eighteen Principles:
-four into the Tangible Principle, one into the Form Principle, and one
-among the seven Cognition Principles.
+VAK 1.28 closes the 1.24–1.28 Dhātu-machine sequence with a worked
+cross-mapping. The *Bahudhātuka* teaching gives six Principles. The Bhāṣya
+specifies the two initially unexplained members: the Space Principle is an
+opening apprehended through light and darkness, and the Cognition Principle
+is cognition with outflows. It then maps the six into the eighteen
+Principles: four into the Tangible Principle, one into the Form Principle,
+and one among the seven Cognition Principles.
 
 The Space Principle here is not unconditioned space. The shared word
 *ākāśa* does not erase the distinction between non-obstruction and the
@@ -197,7 +193,9 @@ six-Principle teaching and the established eighteen-Principle system.
 FactStore may belong within that structure; this is a promising design
 direction, still to be tested rather than attributed to Vasubandhu's verse.
 
-The six Principles are supports of a life-continuum extending, in the
+The following verses, beginning at 1.29, examine particular operations
+and applications of this classification. The six Principles are supports
+of a life-continuum extending, in the
 Bhāṣya's account, from rebirth-linking cognition through death cognition.
 The classification is functional as well as referential: the included
 cognition is the cognition common to that birth-span. The difficult

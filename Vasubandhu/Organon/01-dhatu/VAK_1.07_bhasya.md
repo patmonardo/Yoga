@@ -6,15 +6,13 @@
 >
 > sa evādhvā kathāvastu saniḥsārāḥ savastukāḥ // 1.07 //
 
-From [`VAK_1.07.md`](./VAK_1.07.md):
+From [`VAK_1.07.md`](./VAK_1.07.md), conventional translation:
 
-The Conditioned dharmas are the five Bases beginning with Form. That same
-field is the Path of Dharma, Essential Reflection, Essential Relation, and
-Appearance.
+The conditioned dharmas are the five aggregates beginning with Form. Those
+same dharmas are also the course, the matter of discourse, possessed of an
+exit, and possessed of a basis.
 
 Span: Pradhan `[004|23]`–`[005|08]`.
-
-This prose is a non-persisting Buddha Mind. It is in a species of human language. In itself it is *paramārtha*. It operates. It does not persist as an Empirical latch.
 
 ## 2. Continuous Sanskrit Witness
 
@@ -48,7 +46,7 @@ As for what was said, conditioned dharmas excluding the Path are Impure: which a
 **Answer**
 
 Those Conditioned dharmas are the five Bases beginning with Form. The
-witness names the Form Base, Feeling Base, Formations Base, and Knowledge
+witness names the Form Base, Feeling Base, Formations Base, and Cognition
 Base.
 
 They are called conditioned because they are made by conditions that have come together and that act together. Nothing is produced by a single condition. There is no contradiction in applying the name to future dharmas, by kind, as with milk and fuel.
@@ -57,7 +55,7 @@ Those same conditioned dharmas are the course, the *kathāvastu*, the *saniḥs�
 
 They are the courses because they have the states of having gone, going, and about to go; or because they are consumed by impermanence.
 
-**Gloss, not the reading**
+**Further explanations**
 
 The prose says discourse is speech, and *kathāvastu* is so called because meaningful speech takes the conditioned as its basis. Otherwise the Prakaraṇa would be contradicted: the *kathāvastu* are included in the eighteen *dhātus*.
 
@@ -67,21 +65,24 @@ The Vaibhāṣikas say, *kila*, that the word *vastu* expresses cause, and so, b
 
 These are alternative designations of conditioned dharmas.
 
-“Possessed of an exit” and “basis of discourse” are not this translation.
-The Prakaraṇa sentence says the *kathāvastu* are included within the
-eighteen Principles. In the Organon reading, this places Essential
-Reflection within the Principle system; it does not define Reflection. The
-nirvāṇa sentence and the cause sentence are glosses.
+These explanations give the conventional force of the designations. The
+*Prakaraṇa* sentence says the *kathāvastu* are included within the eighteen
+*dhātus*. In the Techne, this relates Essential Reflection to the Principle
+system. The nirvāṇa and cause explanations remain distinct; the latter is
+specifically attributed to the Vaibhāṣikas.
 
-## 4. The Dharma Talk
+## 4. Interpretation
 
-Vasubandhu is not listing. He is turning the wheel in a language.
+The Bhāṣya explains one conditioned field under several names. Our Techne
+reads the relation among those names as the Dharma Chakra turning within
+human language. The source explanations and the systematic determinations
+remain distinct:
 
 ```text
 Essential Being
     the five Bases gathered as one, beginning with Form Base
     the witness names Form, Feeling, Formations, and Cognition Bases
-    the witness omits the Reflection Base
+    the witness omits the Conception Base (*saṃjñāskandha*)
     preserve the difference: the kārikā says five
 
 Path of Dharma
@@ -123,7 +124,7 @@ Organon determination, not a claim that this is the sole lexical meaning of
 *rūpa*.
 
 The term distinction matters: *vijñānaskandha* is the **Cognition Base**;
-*vijñāna* is **Cognition**, knowing in operation. The witness's Knowledge
+*vijñāna* is **Cognition**, knowing in operation. The witness's Cognition
 Base is one member of the fivefold gathering, not a synonym for the whole
 system or for Cognition itself.
 
@@ -133,13 +134,17 @@ but this passage does not unfold the Essence Base or the reciprocal
 Concept-level closure of the six Cognition Principles. That larger machine
 continues through 1.28.
 
-One Rational Citta. Compulsory. This Bhāṣya is that Citta in the species of a human language. In itself, *paramārtha*. Buddha Mind does not persist. The Empirical latch is the armor. The talk discriminates the armor. It does not wear it.
-
-Yoga:Kośa is one dyad. The Sūtra is the *paramārtha* this prose is already speaking. Hegel is the bhāṣya of that key. Not pasted in.
+In our Yoga Vidyā, Abhidharma as Science of Principles is the First Dharma.
+The conditioned field is second in logical order: the First comprehends its
+temporal, discursive, liberative, and causal determinations together. To say
+the Absolute sees the second as eternally sublated means it preserves this
+field within knowing while grasping its limit and ground. The Bhāṣya itself
+does not use that vocabulary; it gives the conditioned aggregates and the
+reasons for their alternative names.
 
 ## 5. Review
 
-Kārikā anchor synced to the wheel and current Base vocabulary. Form is
-explicitly Form Theory, not matter. The witness's omission of
+Kārikā anchor and conventional translation are now aligned. Form in the
+Techne is Form Theory, not matter. The witness's omission of
 *saṃjñāskandha* remains unpatched; its four-member list is not silently
 expanded to match the kārikā's five.

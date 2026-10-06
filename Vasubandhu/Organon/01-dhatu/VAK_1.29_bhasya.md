@@ -170,9 +170,9 @@ identifications are not supplied as secure translations.
 > sense, because they obstruct one another. Are Essences subject to
 > object-field impediment also subject to obstruction? There are four cases.
 > First: the six cognition Principles and the Mind Principle, together
-> with the associated portion of the Essence Principle.
+> with the associated portion of the Dharma Principle.
 > Second: the five sensory-object Principles. Third: the five faculties.
-> Fourth: the portion of the Essence Principle excluding associated factors.
+> Fourth: the portion of the Dharma Principle excluding associated factors.
 >
 > Are Essences subject to object-field impediment also subject to
 > apprehended-object impediment? The backward implication gives this:
@@ -229,7 +229,7 @@ cannot be known or analyzed.
 The ten Form Base Principles are the five faculties and five sensory
 objects. The description does not make every Essence gathered under the
 Form Base subject to impediment in this sense: avijñapti remains within
-the Essence Principle rather than among these ten, as the preceding
+the Dharma Principle rather than among these ten, as the preceding
 distribution established.
 
 `Svadeśe parasyotpattipratibandhaḥ` defines obstruction by preventing
@@ -262,15 +262,15 @@ The first comparison is a complete four-case distinction:
 
 | Object-field limitation | Physical obstruction | Members |
 |---|---|---|
-| yes | no | six Cognition Principles and Mind Principle; associated portion of the Essence Principle |
+| yes | no | six Cognition Principles and Mind Principle; associated portion of the Dharma Principle |
 | no | yes | five sensory-object Principles |
 | yes | yes | five sensory-faculty Principles |
-| no | no | Essence Principle excluding associated factors |
+| no | no | Dharma Principle excluding associated factors |
 
 “Associated” here concerns mental factors associated with citta. The
 six Cognition Principles together with the Mind Principle are the seven
 `cittadhātus` here. The final row must not be narrowed to dissociated
-formations alone; it is the entire remainder of the Essence Principle
+formations alone; it is the entire remainder of the Dharma Principle
 specified by the exclusion.
 
 The second comparison, compressed under `paścātpādakaḥ`, states an
@@ -353,13 +353,13 @@ its relation to neighboring determinations. A Principle is not a passive
 label; it keeps these differences apart and gathers their derivative
 relations into a classifiable science.
 
-In the Organon, the Essence Base is a real, relation-bearing structure on
-the Other Side. A first-pass model is that it serves as the central bus
-holding cross-classifications of Form and the other Principles together.
-The verse and Bhāṣya provide determinations to test against that
-architecture; they do not themselves call the Essence Base a central bus
-or state that it controls Form theory. The mechanism remains a question
-for the following verses and later passes.
+In the Organon, this verse begins the examination of the Principle
+Processor, the project-level inner instrument for discriminating and
+relating Principles. Here the Bhāṣya supplies its first diagnostic
+determinations: visibility, distinct senses of impediment, and ethical
+status. This technical name belongs to the Organon reading, not to the
+Bhāṣya's own wording; later verses examine further operations and
+applications.
 
 ## 11. First-Pass Status
 

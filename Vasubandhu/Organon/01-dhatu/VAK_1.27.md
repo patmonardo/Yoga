@@ -1,4 +1,4 @@
-# VAK_1.27 — Form System: Assignment by Own Characteristic
+# VAK_1.27 — Dhātu Machine: Assignment by Own Characteristic
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -14,22 +14,24 @@
 
 ## 3. Lexical Analysis
 
-| Form | Morphology | Force here |
-|---|---|---|
-| tathā | indeclinable adverb | likewise; carries forward the preceding inclusion discussion |
-| anye | nominative masculine plural | other, additional |
-| api | particle | also |
-| yathāyogam | indeclinable adverbial compound | as appropriate to each case |
-| skandha-āyatana-dhātavaḥ | nominative masculine plural compound | Bases, Essences, and Principles |
-| pratipādyāḥ | nominative masculine plural gerundive | to be established or assigned |
-| yathokteṣu | locative plural | among those already stated |
-| saṃpradhārya | absolutive | having carefully considered or determined |
-| sva-lakṣaṇam | accusative neuter singular | the characteristic proper to each |
+```text
+tathānye 'pi yathāyogaṃ skandhāyatanadhātavaḥ
+    → tathā + anye + api + yathā-yogam + skandha-āyatana-dhātavaḥ
 
-The Bhāṣya expands *yathokteṣu* as the established five Bases, twelve
-Essences, and eighteen Principles. It expands *svalakṣaṇam* through
-*svaṃ svaṃ lakṣaṇam*: the characteristic proper to each classification,
-considered as set out in this treatise.
+pratipādyā yathokteṣu saṃpradhārya svalakṣaṇam
+    → pratipādyāḥ + yathā-ukteṣu + saṃpradhārya + sva-lakṣaṇam
+```
+
+| Pada | Morphology | Force in this passage |
+|---|---|---|
+| tathā ... api | adverb and particle | likewise the additional cases |
+| anye | nominative masculine plural | other, additional |
+| yathā-yogam | indeclinable adverbial compound | as appropriate in each case |
+| skandha-āyatana-dhātavaḥ | nominative masculine plural compound | Bases, Essences, and Principles |
+| pratipādyāḥ | nominative masculine plural gerundive | are to be established or assigned |
+| yathā-ukteṣu | locative plural | among those already stated |
+| saṃpradhārya | absolutive | having carefully determined first |
+| sva-lakṣaṇam | accusative neuter singular | the characteristic proper to each |
 
 ## 4. Grammar
 
@@ -165,27 +167,30 @@ Sixty-two Principles of the Bahudhātuka discourse
 The final sixty-two-Principle reference states the application but does not
 enumerate every placement in this passage.
 
-## 9. The Form System
+## 9. The Dhātu Machine
 
-VAK 1.24–1.27 form the Form System sequence. Verse 1.24 distinguishes Form
-Essence from Dharma Essence and gives their different naming grounds.
-Verse 1.25 places the Dharma-collections within Form Base or Formations
-Base under the reported speech and name accounts. Verse 1.26 distinguishes
-the treatise, topical, and counteragent measures of a collection. Verse
-1.27 generalizes the assignment rule to further scriptural classifications.
+VAK 1.24–1.28 specify and demonstrate the classification procedure.
+Verse 1.24 distinguishes the naming grounds of Form Essence and Dharma
+Essence. Verse 1.25 places additional scriptural designations within the
+established classifications rather than adding new slots. Verse 1.26
+distinguishes ways a Dharma-collection is measured. Verse 1.27 gives the
+assignment rule: determine each item's own characteristic and intended
+scope, then place it as appropriate. Verse 1.28 demonstrates cross-mapping
+the six-Principle teaching into the established eighteen Principles.
 
-The Bhāṣya shows why this is a Form System problem: a classification must
-preserve the item's own characteristic and the scope under consideration.
-The eight totality Essences, considered by their principal nature of
-non-greed, are included in Dharma Essence. Considered with their
-attendants, their five-Base scope is included through Mind Essence and
-Dharma Essence. The different placements reflect different scopes, not a
-failure of the system.
+The examples in 1.27 show why characteristic and scope both matter. The
+eight totality Essences, considered by their principal nature of non-greed,
+are included in Dharma Essence. Considered with their attendants, their
+five-Base scope is included through Mind Essence and Dharma Essence. The
+different placements reflect different scopes, not a failure of the
+classification.
 
 The final reference to the sixty-two Principles in the *Bahudhātuka*
-extends the rule to another scriptural classification. Their full
-placements are not enumerated in this verse. The local *dharma-skandha*
-remains a teaching-collection, not an additional Base.
+directs the same rule to another scriptural classification; their full
+placements are not enumerated here. The local *dharma-skandha* remains a
+teaching-collection, not an additional Base. From 1.29 onward, the chapter
+examines particular operations and applications of this established
+classification.
 
 ## 10. OWL++ Seed
 

@@ -19,7 +19,7 @@ cāpy → ca api                  tatrākāśam → tatra ākāśam
 mārgasatyam → mārga-satyam    anāvṛtiḥ → an-āvṛtiḥ
 ```
 
-| Pada | Features | Local force |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | anāsravāḥ | adjective, nominative plural | qualifies supplied `dharmāḥ` |
 | mārga-satyam | neuter nominative singular | conditioned anāsrava member |
@@ -44,33 +44,33 @@ anāsrava dharmas
 
 The names of the two cessations are supplied by the Bhāṣya and defined in 1.06. `ākāśam anāvṛtiḥ` is a cross-gender nominal definition: space is non-obstruction.
 
-## 5. Literal Translation
+## 5. Translation
 
 ### Close syntactic construe
 
-> The dharmas without outflows are the Truth of the Path and also the threefold unconditioned: space and the two cessations. Among these, space is non-obstruction.
+> The Pure dharmas are the Truth of the Path and also the threefold unconditioned: space and the two cessations. Among these, space is non-obstruction.
 
 ### Bhāṣya-informed translation
 
-> The anāsrava dharmas comprise the conditioned Truth of the Path and three unconditioned dharmas—space, cessation through discrimination, and cessation not through discrimination—because outflows do not settle in them. Space is non-obstruction: that in which material form can move.
+> The Pure dharmas comprise the conditioned Truth of the Path and three unconditioned dharmas—space, cessation through discrimination, and cessation not through discrimination—because the *āsravas* do not persist in them. Space is non-obstruction: that in which form can move.
 
-## 6. Philosophical Translation
+## 6. Philosophical Translation and Techne Reading
 
-> Being without outflows and being unconditioned are distinct determinations. The Truth of the Path is conditioned yet without outflows; space and the two cessations are unconditioned and without outflows. Space is non-obstruction, explained by the Bhāṣya as allowing material form to move.
+> Being Pure and being unconditioned are distinct determinations. The Truth of the Path is conditioned yet Pure; space and the two cessations are unconditioned and Pure. Space is non-obstruction, explained by the Bhāṣya as allowing form to move.
 
-Organon rendering (project reconstruction):
+Techne reading:
 
-> “Unconsequential” is a proposed logical analogy for `anāsrava`, not its translation. The Path is conditioned yet does not lodge outflows; the three unconditioned dharmas likewise do not lodge them. This analogy must retain the distinct conditioned status of the Path and the unconditioned three.
+> The Science of Principles must distinguish two independent questions: whether a dharma is produced by conditions, and whether the *āsravas* can persist in it. The Pure Path is conditioned activity; the other three Pure dharmas are unconditioned. Space first appears as non-obstruction, a determinate account of where form can move. The two cessations are named here and explained in 1.06.
 
 ## 7. Technical Vocabulary
 
 | Sanskrit | Rendering | Determination |
 |---|---|---|
-| anāsrava | without outflows | outflows do not settle within these dharmas; “unconsequential” is the Organon analogy above |
+| anāsrava | Pure | the *āsravas* do not persist in these dharmas |
 | mārga-satya | Truth of the Path | conditioned and anāsrava |
 | asaṃskṛta | unconditioned | space and the two cessations |
 | ākāśa | space | non-obstruction |
-| anāvṛti | non-obstruction | explained through movement of rūpa |
+| anāvṛti | non-obstruction | explained through movement of Form (*rūpa*) |
 | pratisaṃkhyā-nirodha | cessation through discrimination | named here; defined in 1.06 |
 | apratisaṃkhyā-nirodha | cessation not through discrimination | named here; defined in 1.06 |
 
@@ -78,19 +78,30 @@ Organon rendering (project reconstruction):
 
 Two axes must remain independent:
 
-| Dharma class | Conditioned? | With outflows? |
+| Dharma class | Conditioned? | Pure? |
 |---|---:|---:|
-| ordinary conditioned dharmas | yes | yes |
-| Path-truth | yes | no |
-| three unconditioned dharmas | no | no |
+| conditioned dharmas other than the Path | yes | no |
+| Truth of the Path | yes | yes |
+| space and the two cessations | no | yes |
 
 ```text
-ākāśa = non-obstruction in which material form can move
+ākāśa = non-obstruction where Form can move
 ```
 
 ## 9. Interpretive Note
 
-The Kośa begins comprehension through intersecting predicates rather than a single metaphysical division. “Conditioned” does not entail “with outflows,” and `anāsrava` does not mean “unconditioned.” The Organon analogy of “unconsequential” names an interpretation of this distinction; it is not Vasubandhu's term. A broader image of space as an unlimited “opened field” must remain a project analogy, bounded here by the Bhāṣya's concrete account of material movement.
+VAK 1.05 completes the Pure side of the summary division begun in 1.04.
+The Truth of the Path and the unconditioned three belong together under
+Purity, while remaining different in whether they are conditioned. The
+Bhāṣya gives one criterion for their shared placement: the *āsravas* do
+not persist in them.
+
+For our Techne, this is a lesson in scientific definition. One predicate
+cannot silently stand in for another: Pure does not mean unconditioned.
+The Path makes that difference actual within conditioned activity. Space
+then receives a positive use through its negative definition,
+non-obstruction, because it is where Form can move. The passage does not
+yet tell us what the two cessations do; that belongs to 1.06.
 
 ## 10. OWL++ Seed
 

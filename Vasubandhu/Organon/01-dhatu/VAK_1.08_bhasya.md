@@ -95,13 +95,19 @@ same Conditioned field as 1.07
     → five names, each with its ground
 ```
 
-## 5. Buddha Mind
+## 5. Interpretation
 
 1.07 and 1.08 are the Dharma Chakra. 1.07 gathers the Conditioned dharmas
 as five Bases, beginning with the Form Base. Form is Form Theory, the
 empirical determination of appearance, not a material substrate. 1.08
 marks the Impure subset of that field; the Path remains Conditioned and
 Pure.
+
+The Bhāṣya's three explanations of appropriation must stay distinct:
+the Impure Bases may arise from afflictions, be governed by them, or give
+rise to afflictions. Its five additional designations then specify
+different grounds for speaking of this same field. They are coextensive
+without becoming interchangeable definitions.
 
 ```text
 Impure : Pure
@@ -118,12 +124,18 @@ dṛṣṭisthāna
     not the station of prajñā
 ```
 
-What persists is Impure. The Path is Conditioned and Pure. A Rational
-Dharma does not Persist. The sheath is not opened in this unit.
+In our Yoga Vidyā, Abhidharma as Science of Principles is the First Dharma.
+It sees this second, appropriated field as eternally sublated: the
+relations that sustain it and the limits at which they fail are grasped
+within the whole. This does not cancel the Bhāṣya's account of suffering,
+origin, dissolution, views, or becoming. The Path is conditioned and Pure;
+that countercase prevents appropriation from defining every conditioned
+Base. The later Essence and Principle determinations remain to be unfolded.
 
 ## 6. Review
 
-Kārikā anchor synced to Base terminology and the Form Theory reading.
+Kārikā anchor and Bhāṣya translation are now aligned with the three
+relations of appropriation and the five grounded designations.
 The three relations of appropriation, the conflict gloss, and the five
 coextensive names remain distinct. Witness unpatched. Printed editions
 not collated.

@@ -179,11 +179,13 @@ seven.
 
 ## 9. Philosophical and Organon Study
 
-This passage returns directly to our example of space. A Principle is not
-merely an inventory label or bin. It determines a characteristic,
-discriminates that determination from the others, and keeps the Principles
-apart. It also encloses the science of the derivatives proper to it: the
-relations and distinctions that follow from that Principle.
+This passage returns directly to the space case and closes the
+1.24–1.28 Dhātu-machine sequence with an explicit cross-mapping. A
+Principle is not merely an inventory label or bin. It determines a
+characteristic, discriminates that determination from the others, and
+keeps the Principles apart. It also encloses the science of the derivatives
+proper to it: the relations and distinctions that follow from that
+Principle.
 
 The sixfold teaching and the eighteen-Principle arrangement show this
 classifying operation. The Bhāṣya does not make six new entries beside the
@@ -213,9 +215,10 @@ For learning, the passage exemplifies a correction of seemingly obvious
 identifications. Understanding develops here through testing familiar names
 against the function of the list and the stated characteristics of its
 members. The resulting discrimination is concrete even while one difficult
-source word remains unresolved. The Essence Base may be the architectural
-home for a FactStore, but that remains a design direction to test, not a
-claim made by this Bhāṣya.
+source word remains unresolved. The Essence Base may be the architectural home for a FactStore, but that
+remains a design direction to test, not a claim made by this Bhāṣya. From
+1.29 onward, the chapter examines particular operations and applications
+of the classification.
 
 ## 10. Review Status
 

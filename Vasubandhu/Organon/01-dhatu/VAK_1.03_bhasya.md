@@ -192,26 +192,25 @@ The disciple's dependence upon Abhidharma instruction and the historical
 collection account are Bhāṣya determinations. They should inform the study
 without being inserted into a close translation of the verse.
 
-## 8. Philosophical and Organon Study
+## 8. Interpretation
 
-The first three Bhāṣyas now form a single pedagogical argument. Liberating
-knowledge must be communicated according to reality; the śāstra serves as
-equipment for attaining stainless discrimination; and its instruction forms
-the disciple's own power to discriminate the dharmas whose confusion sustains
-affliction.
+The first three Bhāṣyas now form a single pedagogical argument. The Buddha
+teaches according to reality; the śāstra serves as equipment for attaining
+stainless *prajñā*; and its instruction forms the disciple's power to
+discriminate the dharmas relevant to pacifying affliction.
 
 This is a strong basis for the Yoga Vidyā–Technē reconstruction:
 
 ```text
-Yoga Vidyā
-    → articulates the dharmas and their determinate relations
+Yoga Vidyā / prajñā
+    → the larger Science of Principles
 
 Yoga Technē
-    → forms the disciple's capacity to discriminate them
+    → instructs the disciple in dharmapravicaya
 
 their practical criterion
-    → whether that discrimination answers the kleśas
-       that sustain wandering
+    → whether that discrimination can answer the kleśas
+      that sustain wandering
 ```
 
 The teaching may first occur in dispersed form and later be gathered and
@@ -219,10 +218,20 @@ established as a śāstra. For our project, systematic organization is thus an
 act of Technē because it makes a field available for disciplined
 discrimination.
 
-This is why a Science of Consciousness requires an Organon rather than a
-collection of isolated insights. That conclusion is our reconstruction;
-Vasubandhu's explicit claims remain the necessity of `dharmapravicaya`, the
-disciple's need for instruction, and the Vaibhāṣika account of compilation.
+This is why our Science of Consciousness requires an Organon: its means of
+instruction must be adequate to the power it seeks to form. The Kośa gives
+the necessity of *dharmapravicaya* and the disciple's need for instruction.
+In our Techne, discriminative Knowing belongs specifically with *vijñāna*;
+the present passage does not use that word. Its relation to the larger
+*prajñā* must be developed where the text supplies it.
+
+The Yoga Vidyā's deeper horizon is Nirbīja Samādhi. We can bring Aristotle's
+account of a science's indemonstrable beginning into conversation with it,
+but this Bhāṣya does not establish that identification. Its immediate
+argument is practical: affliction causes wandering; discrimination is
+indispensable to pacification; instruction forms that capacity. The report
+of dispersed teaching and compilation remains attributed to the
+Vaibhāṣikas.
 
 ## 9. Review Status
 

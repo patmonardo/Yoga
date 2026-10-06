@@ -14,32 +14,31 @@
 
 ## 3. Lexical Analysis
 
-The first pāda is elliptical. The Bhāṣya supplies *dharmaskandha* as the
-thing being measured and explains the treatise-measure as the extent of the
-Abhidharma work titled *Dharmaskandha*.
+```text
+śāstrapramāṇa ity eke skandhādīnāṃ kathaikaśaḥ
+    → śāstra-pramāṇaḥ + iti + eke + skandha-ādīnām + kathā + ekaśaḥ
 
-| Form | Morphology | Force here |
+caritapratipakṣas tu dharmaskandho 'nuvarṇitaḥ
+    → carita-pratipakṣaḥ + tu + dharma-skandhaḥ + anuvarṇitaḥ
+```
+
+| Pada | Morphology | Force in this passage |
 |---|---|---|
-| śāstra-pramāṇaḥ | nominative masculine singular compound; understood of *dharmaskandhaḥ* | measured by a treatise, or having a treatise as its measure |
+| śāstra-pramāṇaḥ | nominative masculine singular compound; elliptical | treatise-measure, the first proposed criterion |
 | iti | quotative particle | introduces the reported account |
 | eke | nominative masculine plural | some [teachers] |
 | skandha-ādīnām | genitive plural compound | of the Bases and the other classifications |
 | kathā | nominative feminine singular | exposition or doctrinal treatment |
 | ekaśaḥ | distributive adverb | separately for each |
-| carita-pratipakṣaḥ | nominative masculine singular compound | a counteragent corresponding to a disposition |
-| tu | contrastive particle | but; introduces the final account |
-| dharma-skandhaḥ | nominative masculine singular | Dharma-collection, a unit or body of teaching |
-| anuvarṇitaḥ | nominative masculine singular past passive participle of `anu-√varṇ` | has been described or traditionally explained |
+| carita-pratipakṣaḥ | nominative masculine singular compound | counteragent to a disposition |
+| tu | contrastive particle | but; marks the third account |
+| dharma-skandhaḥ | nominative masculine singular | Dharma-collection, a unit of teaching |
+| anuvarṇitaḥ | nominative masculine singular past passive participle of `anu-√varṇ` | is described or traditionally explained |
 
-The research kārikā has the variant `śāstrapramāṇā ity eke`, with a long
-final vowel. The running verse and research Bhāṣya read singular
-`śāstrapramāṇa ity eke`; the official text retains that reading.
-
-In *skandhādīnām kathā*, the Bhāṣya supplies further classifications:
-āyatanas and dhātus, dependent arising, truths, meditations, and the
-remaining items in its list. In the controlled Organon terminology these
-are Essences and Principles. Here *dharma-skandha* means a teaching
-collection, not another member of the five Bases.
+The first pāda is elliptical; the Bhāṣya supplies the Dharma-collection as
+the thing being measured. The running verse reads
+`śāstrapramāṇa ity eke`; a research witness has
+`śāstrapramāṇā ity eke`.
 
 ## 4. Grammar
 
@@ -173,7 +172,9 @@ The phrase *dharma-skandha* here names a teaching-collection, not an added
 Base. Keep that conventional compound distinct from the systematic
 projections of Dharma as Base, Essence, and Principle. The verse specifies
 three grounds for counting a Dharma-collection: treatise extent, separate
-exposition, and the counteragent relation to a disposition.
+exposition, and the counteragent relation to a disposition. In the
+Dhātu-machine sequence, this verse distinguishes the possible measures of
+teaching from the classifications into which its content is placed.
 
 The Absolute Base spans and combines Rūpa-skandha and Dharma-skandha. This
 unity is Absolute Dharma, discriminating all Dharmas through Form and Law.

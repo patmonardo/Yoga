@@ -23,7 +23,7 @@ ghrāṇajihvāvijñāna-   → ghrāṇa-vijñāna + jihvā-vijñāna
 dhātubhiḥ              → dhātubhiḥ
 ```
 
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | tridhā | distributive adverb | threefold; here, the ethical statuses of the remaining ten |
 | anye | nominative masculine plural | the remaining Principles, after the invariably indeterminate eight of 1.29 |
@@ -121,9 +121,9 @@ misread as excluding the faculty Principles along with their cognitions.
 > require it. The absence of an object removes its corresponding cognition
 > without necessarily removing the embodied faculty associated with it.
 
-Organon rendering:
+Techne reading:
 
-> An Essence lineage belongs to a Realm when that configuration supports
+> A Principle instrument belongs to a Realm when that configuration supports
 > its causes, objects, functions, and modes of attachment. A Realm is not
 > an external container into which finished Principles are placed; it is
 > the systematic relation that determines which Principle lineages and
@@ -146,7 +146,7 @@ Organon rendering:
 | indriyāśraya | support of a faculty | one reason tangible objects remain in the Form Realm |
 | prasrabdhi | meditative pliancy | invoked by an alternative account of the tangible there |
 | ātmabhāvamukha | through one's embodied existence | manner in which attachment to internal faculties can remain |
-| dharma | Essence | translated contextually when it names the objects classified by the Principles |
+| dharma | Dharma | the dharmas classified within the Principle system |
 
 Here `rūpadhātu` names the Form Realm, while `rūpadhātu` in the
 eighteen-Principle list can name the visible Form Principle. The shared
@@ -214,12 +214,12 @@ BelongsToRealm(x, r)
 
 ## 9. Interpretive Note
 
-VAK 1.29 typed the eighteen Principles by visibility, resistance, and
-ethical status. VAK 1.30 first completes that ethical classification for
-the remaining ten, then asks how the Principles connect with larger Realm
-configurations. Realm is not simply a cosmic location: `āpta` is glossed
-as connected and not separated, making the membership relation causal and
-functional as well as locational.
+VAK 1.29 began the examination of the Principle Processor by typing the
+eighteen Principles by visibility, resistance, and ethical status. VAK 1.30
+completes the ethical classification of the remaining ten, then examines
+their connection with Realm configurations. Realm is not simply a cosmic
+location: `āpta` is glossed as connected and not separated, making the
+membership relation causal and functional as well as locational.
 
 The Form Realm is not merely the Desire Realm with four Principles deleted.
 The Bhāṣya explains the exclusions through determinate relations:
@@ -242,28 +242,37 @@ perfectly coextensive. An object Principle may be absent and its
 corresponding cognition therefore unavailable while the internal faculty
 Principle remains as part of the embodied basis.
 
-For the Organon, this adds Realm compatibility to an analytically typed
-Principle:
+In the incoming Techne, this adds Realm compatibility to an analytically
+typed Principle:
 
 ```text
-Analytically Typed Principle
+Principle Processor
     = intrinsic determinations
     + lawful relations
     + Realm compatibility
 ```
 
-Calling the eighteen Principles “lineages of Essence” is especially
-productive here. A lineage can persist through a changed configuration
-without every familiar relation being activated. The Form Realm preserves
-the Nose and Tongue faculty lineages while withholding the gross objects
-and cognition relations associated with ingestion.
+This verse also tests the distinction between sensory Knowing and
+Conceiving. The olfactory- and gustatory-*vijñāna-dhātus* are excluded
+because their objects are absent; the Nose and Tongue Faculties remain.
+The Bhāṣya separately uses *kāyavāgvijñapti* for bodily and verbal
+manifestation. In the incoming Techne, *vijñapti* is Ordinary Knowing,
+or Conceiving: here that Knowing is gathered into bodily and verbal
+manifestation and can receive ethical determination through the citta
+from which it arises. This is not *prati-vijñapti*, Transcendental
+Knowing, which this passage does not discuss.
 
-The Hegelian comparison belongs to our Organon reconstruction: a Principle
-is more than an inert entry; its determinations appear through relations
-and possible configurations. The first-pass hypothesis is that the
-Essence Base holds these cross-classifications while the Form Principles
-remain differentiated. The kārikā does not state that architecture; it
-gives us relations with which to test it in the following verses.
+The Form Realm thus preserves the Nose and Tongue faculty lineages while
+withholding the gross objects and sensory Knowing relations that depend
+on them. This tests the distinction without making the Faculty, its
+object, its Knowing, and its manifested action interchangeable.
+
+The Hegelian comparison belongs to our Techne: a Principle is more than an
+inert entry; its determinations appear through relations and possible
+configurations. The first-pass hypothesis is that the Essence Base holds
+these cross-classifications while the Form Principles remain
+differentiated. The kārikā does not name that architecture; its relations
+give us material to test it in the following verses.
 
 ## 10. OWL++ Seed
 
@@ -302,7 +311,7 @@ vak:TongueFacultyPrinciple
     vak:persistsIn vak:Rupadhatu .
 
 vak:RealmCompatiblePrinciple
-    a vak:OrganonInterpretiveClass ;
+    a vak:TechneInterpretiveClass ;
     vak:requiresCompatibilityWith vak:RealmCause,
         vak:AvailablePrinciplesOfRealm,
         vak:RealmFunction,

@@ -14,38 +14,28 @@
 
 ## 3. Lexical Analysis
 
-**Sandhi and compounds**
+```text
+dharmaskandhasahasrāṇi yāny aśītiṃ jagau muniḥ
+    → dharma-skandha-sahasrāṇi + yāni + aśītim + jagau + muniḥ
 
-| Verse form | Analysis |
-|---|---|
-| dharmaskandhasahasrāṇi | dharma-skandha-sahasrāṇi |
-| yāny aśītim | yāni + aśītim |
-| vāṅnāma | vāk + nāma |
-| vety eṣām | vā + iti + eṣām |
-| rūpasaṃskārasaṃgrahaḥ | rūpa-saṃskāra-saṃgrahaḥ |
+ tāni vāṅnāma vety eṣāṃ rūpasaṃskārasaṃgrahaḥ
+    → tāni + vāk + nāma + vā + iti + eṣām + rūpa-saṃskāra-saṃgrahaḥ
+```
 
-| Form | Morphology | Force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
-| dharma-skandha-sahasrāṇi | nominative neuter plural compound | thousands of Dharma-collections, or teaching divisions |
-| yāni | nominative neuter plural relative pronoun | which |
-| aśītim | numeral | eighty; with *sahasrāṇi*, eighty thousand |
-| jagau | third-person singular perfect of `√gai` | proclaimed or taught |
-| muniḥ | nominative masculine singular | the Sage, the Buddha |
-| tāni | nominative neuter plural demonstrative | those Dharma-collections |
-| vāk | nominative feminine singular | speech |
-| nāma | nominative neuter singular | name |
-| vā | alternative particle | or |
-| iti | quotative particle | closes the alternative phrase |
-| eṣām | genitive plural | of these |
+| dharma-skandha-sahasrāṇi | nominative neuter plural compound | the thousands of Dharma-collections proclaimed |
+| yāni ... tāni | relative and resumptive pronouns, neuter plural | which ... those |
+| aśītim | numeral modifying *sahasrāṇi* | eighty thousand |
+| jagau | third-person singular perfect of `√gai` | proclaimed |
+| muniḥ | nominative masculine singular | the Sage |
+| vāk | nominative feminine singular | speech, one reported nature of Buddha-word |
+| nāma | nominative neuter singular | name, the alternative reported nature |
+| vā ... iti | alternative particle with quotative closure | or; marks the alternatives |
+| eṣām | genitive plural | of these collections |
 | rūpa-saṃskāra-saṃgrahaḥ | nominative masculine singular compound | inclusion in Form and Formations |
 
-In the fixed scriptural expression *dharma-skandha*, *skandha* names a
-collection or body of teaching. It does not name an additional ontological
-Base beside the five. The controlled Organon terms are **Base** for
-*skandha*, **Essence** for *āyatana*, and **Principle** for *dhātu*;
-*dharma* remains **Dharma**. In this scriptural compound, *dharma-skandha*
-is rendered **Dharma-collection** to preserve its context-specific
-meaning.
+Here *dharma-skandha* means a teaching-collection, not an additional Base.
 
 ## 4. Grammar
 
@@ -190,7 +180,9 @@ The Bhāṣya places the Dharma-collection in the Form Base if Buddha-word is
 held to be speech, and in the Formations Base if it is held to be name.
 These remain distinct reported accounts. Verse 1.26 asks how a
 Dharma-collection is measured; 1.27 extends the discussion to other
-scriptural designations.
+scriptural designations. In the Dhātu-machine sequence, 1.25 tests whether
+additional scriptural labels create new slots; the answer is inclusion
+within the established classifications.
 
 ## 10. OWL++ Seed
 

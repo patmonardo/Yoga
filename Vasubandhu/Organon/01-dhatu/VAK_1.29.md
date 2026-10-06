@@ -1,4 +1,4 @@
-# VAK_1.29
+# VAK_1.29 — Principle Processor: First Determinations
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -24,7 +24,7 @@ ta eva              → te eva
 arūpaśabdakāḥ       → a-rūpa-śabdakāḥ
 ```
 
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | sa-nidarśanaḥ | nominative masculine singular adjective | visible, spatially demonstrable |
 | ekaḥ | nominative masculine singular | one alone |
@@ -160,7 +160,7 @@ Organon rendering:
 | viṣaya | functional object-field | that within which a faculty exercises its activity |
 | ālambana | apprehended cognitive object | that which mind and mental factors take as object-support |
 | avyākṛta | ethically indeterminate | not specified as wholesome or unwholesome |
-| dharmadhātu | Essence Principle | the Principle whose associated and unassociated portions occur in the Bhāṣya's comparison |
+| dharmadhātu | Dharma Principle | the Principle whose associated and unassociated portions occur in the Bhāṣya's comparison |
 | arūpaśabdaka | excluding visible Form and sound | Bhāṣya-resolved selection of eight from the ten Form Base Principles |
 
 `Viṣaya` and `ālambana` must not be collapsed. A functional range and an
@@ -209,7 +209,7 @@ be conflated:
 ```text
 ObjectFieldLimited ∧ ¬SpatiallyObstructive
     → six Cognition Principles and the Mind Principle,
-      with the associated portion of the Essence Principle
+      with the associated portion of the Dharma Principle
 
 SpatiallyObstructive ∧ ¬ObjectFieldLimited
     → five sensory-object Principles
@@ -218,7 +218,7 @@ ObjectFieldLimited ∧ SpatiallyObstructive
     → five sensory-faculty Principles
 
 ¬ObjectFieldLimited ∧ ¬SpatiallyObstructive
-    → the Essence Principle apart from its associated portion
+    → the Dharma Principle apart from its associated portion
 ```
 
 Thus:
@@ -230,10 +230,10 @@ SharedPredicate(x, y, FormBaseInclusion)
 
 ## 9. Interpretive Note
 
-VAK 1.29 begins the second half's classification work by asking what can
-be predicated of the eighteen Principles already established. The earlier
-verses placed additional scriptural classifications among them; this verse
-starts to discriminate them along distinct axes.
+VAK 1.29 begins the examination of the Principle Processor by asking what
+can be predicated of the eighteen Principles already established. The
+earlier verses placed additional scriptural classifications among them;
+this verse starts to discriminate them along distinct axes.
 
 The first distinction is exact. Only the Form Principle is
 `sanidarśana`: it alone can be pointed out as “this here” or “that there.”
@@ -255,22 +255,22 @@ are invariably indeterminate. The Form and Sound Principles are excluded
 from that subset because bodily and verbal action can receive ethical
 determination through mind.
 
-In this first-round classification-engine image:
+In this project-level Principle Processor reading:
 
 ```text
 Principle
     = a determinate member of the eighteenfold system
 
-Analytically Typed Principle
-    = a Principle whose distinct properties and relations are explicit
+Principle Processor
+    = the inner instrument that differentiates a Principle by its typed
+      properties and relations
 ```
 
 This is an Organon interpretation, not Vasubandhu's wording. A Principle
-does not merely collect labels: it discriminates determinations, keeps
-their differences intact, and encloses the derivative relations that belong
-to its classification. This verse gives the engine three kinds of
-determination to test without collapsing visibility, resistance, and ethical
-status into one another.
+does not merely collect labels: the processor keeps its determinations
+distinct and makes their relations intelligible. This verse gives it three
+kinds of determination to test without collapsing visibility, resistance,
+and ethical status into one another.
 
 It does not yet prove that the Essence Base is the central bus governing
 Form theory. It supplies structured distinctions the following verses can

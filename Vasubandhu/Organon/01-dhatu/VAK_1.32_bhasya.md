@@ -87,16 +87,16 @@ vicāra. They are always associated with both factors. The word *hi* has
 the force of restriction.
 
 The last three Principles are of three kinds: the Mind Principle, the
-Essence Principle, and the Mental-Cognition Principle.
+Dharma Principle, and the Mind-Cognition Principle.
 
-Of these, the Mind Principle, the Mental-Cognition Principle, and the
-associated portion of the Essence Principle—apart from vitarka and
+Of these, the Mind Principle, the Mind-Cognition Principle, and the
+associated portion of the Dharma Principle—apart from vitarka and
 vicāra themselves—are associated with both factors in the Desire Realm
 and first dhyāna. In the intermediate dhyāna they are without vitarka
 and with vicāra alone. From the second dhyāna through the summit of
 existence, they are without either factor.
 
-The entire unassociated portion of the Essence Principle, and vicāra
+The entire unassociated portion of the Dharma Principle, and vicāra
 in the intermediate dhyāna, [are likewise without both].
 
 Vitarka itself, however, is always without a second vitarka and is
@@ -159,8 +159,8 @@ and the ten Form Base Principles receive different predicates.
 
 ## 6. Levels and the Last Three Principles
 
-The “last three” are Mind, Essence, and Mental Cognition, as in 1.31.
-For the Mind and Mental-Cognition Principles and associated Essences
+The “last three” are Mind, Dharma, and Mind-Cognition, as in 1.31.
+For the Mind and Mind-Cognition Principles and associated dharmas
 other than vitarka and vicāra, the distribution is:
 
 | Level | Association |
@@ -174,7 +174,7 @@ essential restriction. The two factors cannot be swept into the
 classification of their associates. The following sentences treat them
 separately.
 
-The entire unassociated portion of the Essence Principle is without both,
+The entire unassociated portion of the Dharma Principle is without both,
 regardless of the level-based scheme for associated dharmas. Its
 absence of association is not a meditative accomplishment. Likewise,
 the ten Form Base Principles are without both by their category, not because
@@ -202,7 +202,7 @@ vicāra described as *avicāra*.
 The quoted formulation makes all four cases explicit within a level
 where both factors operate:
 
-| Essence under classification | With vitarka? | With vicāra? |
+| Dharma under classification | With vitarka? | With vicāra? |
 | --- | --- | --- |
 | Other associated dharmas | Yes | Yes |
 | Vitarka itself | No | Yes |
@@ -213,7 +213,7 @@ The fourth row is not an additional meditative level. It is a distinct
 relation within the same level. The commentary expressly says that
 lower-level vicāra does not fall within the original three kinds; the
 study should not smooth this into a claim that the threefold scheme
-already exhausts every member of the Essence Principle.
+already exhausts every member of the Dharma Principle.
 
 *Vicāramātra* and *vitarkamātra* are restricted to the pair under
 consideration. “Vicāra alone” does not mean that no other mental factors
@@ -224,7 +224,7 @@ holds for both the level descriptions and the factor-specific cases.
 
 - *Hi* receives a restrictive gloss: the five sensory-Cognition Principles
   are invariably associated with both factors whenever they occur.
-- *Antyāḥ trayaḥ* names the Mind, Essence, and Mental-Cognition Principles.
+- *Antyāḥ trayaḥ* names the Mind, Dharma, and Mind-Cognition Principles.
 - The level-based scheme excludes vitarka and vicāra themselves and
   does not govern unassociated dharmas in the same way.
 - Vitarka itself has vicāra but no second vitarka as an associate.
@@ -236,44 +236,40 @@ holds for both the level descriptions and the factor-specific cases.
 The anchor retains the verse's threefold wording; its limitation and
 fourfold refinement are articulated in the attributed commentary.
 
-## 9. Philosophical and Organon Study
+## 9. Philosophical and Techne Study
 
-The passage offers a precise lesson for the Organon analysis of
-predication. “Is vitarka” and “is associated with vitarka” answer
-different questions. A surface contradiction disappears once the
-relation expressed by the predicate is specified. The factor itself is
-not negated when it is described as lacking association with a second
-instance of itself.
+The passage offers a precise lesson for Techne's analysis of predication.
+“Is vitarka” and “is associated with vitarka” answer different questions.
+A surface contradiction disappears once the relation expressed by the
+predicate is specified. The factor itself is not negated when it is
+described as lacking association with a second instance of itself.
 
-The Fichtean nondual hypothesis treats cognition and its factors as
-distinctions internal to one self-relating act, not as two independently
-existing substances joined from outside. Here, however, *saṃprayukta*
-still marks a real relation: cognition is not identical with vitarka or
-vicāra. Nonduality therefore preserves difference within the act rather
-than flattening cognition and factor into one undifferentiated item.
+At the source-translation level, *vijñāna-dhātu* is rendered
+“Cognition Principle.” In the incoming Techne, *vijñāna* is Knowing:
+Higher Cognition of Scientific Knowing, operating through its Principle
+instrument. The Bhāṣya's *saṃprayukta* nevertheless marks a relation:
+Knowing is not identical with *vitarka* or *vicāra*, nor are these factors
+independent substances joined from outside.
 
-Hegelian logic can embed this structure by making the difference
-determinate. The two factors are associated together, separated by level,
-or absent from a particular Essence; the commentary's fourth case then
-shows how a factor can itself occupy one side of the relation without
-being associated with a second instance of itself. This is a possible
-logic of Prajñā as self-relating activity and Vijñāna as its particular
-representation, but the Bhāṣya does not name Prajñā or establish that
-equation. Its contribution is the discriminating structure the Organon
-can test.
+The Techne keeps Thinking, Conceiving, and Knowing distinct. This passage
+names *vitarka* and *vicāra* but does not establish their equivalence to
+Thinking, *vijñapti*, or *prati-vijñapti*. In particular, its account of
+association does not settle the distinction between Ordinary Knowing
+(*vijñapti*) and Transcendental Knowing (*prati-vijñapti*); those mappings
+must be tested against the relevant verses rather than assumed here.
 
 The same negative wording also has several grounds. “Without both” can
-reflect the meditative level, the unassociated portion of the Essence
-Principle, or the Form Base Principles' incapacity for mental
-association. These are not one state of blankness. Nor does “without
-both” by itself mean *anāsrava*: association mode and outflow status are
-distinct classifications.
+reflect the meditative level, the unassociated portion of the Dharma
+Principle, or the Form Base Principles' incapacity for mental association.
+These are not one state of blankness. Nor does “without both” by itself
+mean *anāsrava*: association mode and outflow status are distinct
+classifications.
 
-The project's *prakāśa* is the intended Organon result: not a brightness
-read into the Sanskrit, but the system's becoming intelligible through
-its own articulated distinctions. The text supplies the associations
-and their limits; the nondual Fichtean-Hegelian account remains a
-philosophical hypothesis.
+Within the Kant–Fichte–Hegel Techne, the commentary's distinctions can
+be developed as a differentiated account of the Principle Processor.
+That development is a project-level hypothesis, not a claim made by the
+Bhāṣya. The text supplies the relations and their limits; it does not
+identify any association mode with Prajñā or liberation.
 
 ## 10. Review Status
 

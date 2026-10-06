@@ -6,11 +6,9 @@
 >
 > ākāśaṃ dvau nirodhau ca tatrākāśam anāvṛtiḥ // 1.05 //
 
-Literal (from [`VAK_1.05.md`](./VAK_1.05.md), to be synced):
+Literal (from [`VAK_1.05.md`](./VAK_1.05.md)):
 
-> The dharmas without outflows are the Truth of the Path and also the threefold unconditioned: space and the two cessations. Among these, space is non-obstruction.
-
-Working English for this file: Pure, not “without outflows.”
+> The Pure dharmas are the Truth of the Path and also the threefold unconditioned: space and the two cessations. Among these, space is non-obstruction.
 
 Span: Pradhan `[003|15]`–`[003|23]`. Next line opens 1.06.
 
@@ -50,8 +48,6 @@ Thus the threefold unconditioned beginning with space, together with the Truth o
 Why? Because the *āsravas* do not persist in them.
 
 Among the three unconditioned dharmas just enumerated, space is non-obstruction. Its nature is non-obstruction. It is where form can move.
-
-*“Without outflows” and “settle” are withdrawn. Pure is the headword. Persist is the verb of `anuśerata`.*
 
 ## 4. Movement of the Commentary
 
@@ -97,7 +93,8 @@ The 1.04 cut holds: persistence fails in all four.
     = where rūpa can move
 ```
 
-Not a container. Not an infinite substance. Not openness as a mood.
+The local definition concerns non-obstruction in relation to the movement
+of Form. It does not itself elaborate a wider theory of space.
 
 ## 7. Decisions for the Kārikā
 
@@ -106,10 +103,27 @@ Not a container. Not an infinite substance. Not openness as a mood.
 3. The two cessation-names are supplied here. Definitions wait for 1.06.
 4. Space is non-obstruction, where form can move.
 
-## 8. Organon Note
+## 8. Interpretation
 
-Marked as project. Pure is Always First. The Path is still conditioned. The three unconditioned are not products of a before. Persistence is the Kośa test. It is not a saint-word.
+The Pure field has two kinds of member: the conditioned Truth of the Path,
+and the three unconditioned dharmas. Their common criterion is that the
+*āsravas* do not persist in them. This continues 1.04's distinction between
+an *āsrava* taking something as its object and persisting through it.
+
+Our Yoga Vidyā can now state two independent determinations in its Science
+of Principles: conditional production and susceptibility to the
+*āsravas*. The Path is decisive because it is conditioned and Pure. It
+prevents the disciple from treating purity as mere removal from activity.
+
+Space is the first of the unconditioned three to be defined. The Bhāṣya's
+example is concrete: Form can move where there is non-obstruction. The
+Techne may consider wider implications of an opened field, but this unit
+licenses the local non-obstruction relation. The names of the two
+cessations remain in view for 1.06.
 
 ## 9. Review Status
 
-Headword changed at user request. Verse study not yet synced. Next: 1.06 when called.
+The Kārikā and Bhāṣya studies now use Pure consistently for *anāsrava*,
+while retaining its Sanskrit in analysis. The two axes and the local
+definition of space have been checked against this witness. This study
+remains provisional pending further textual review.

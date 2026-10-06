@@ -20,13 +20,13 @@ mārgavarjitāḥ -> mārga-varjitāḥ
 āsravās teṣu -> āsravāḥ teṣu
 ```
 
-| Pada | Features | Local force |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | sāsravāḥ / anāsravāḥ | adjectives, nominative plural | impure / pure: the first division of `dharmāḥ` |
-| dharmāḥ | masculine nominative plural | Laws of Appearance |
+| dharmāḥ | masculine nominative plural | dharmas; the whole field to be divided |
 | saṃskṛtāḥ | participial adjective, nominative plural | conditioned |
 | mārga-varjitāḥ | adjective, nominative plural | excluding the Path |
-| āsravāḥ | masculine nominative plural | `āsravas`, the mark of impurity |
+| āsravāḥ | masculine nominative plural | the *āsravas* whose persistence supplies the criterion |
 | teṣu | locative plural | in those dharmas |
 | yasmāt | causal relative adverb | because |
 | samanuśerate | 3rd plural middle | persist through; continue in |
@@ -62,10 +62,11 @@ this persistence from an `āsrava` merely taking cessation or the Path as its
 The translation renders `sāsrava` as "impure" and `anāsrava` as "pure";
 `āsrava` itself remains untranslated where its technical relation matters.
 
-## 6. Dharma Knowing: Real / Ideal
+## 6. Philosophical Translation and Techne Reading
 
- Dharma is the **Law of Appearance**. Dharma Knowing is the self-articulation
- of that law:
+In our Yoga Vidyā, Dharma Knowing is the self-articulation of the **Law of
+Appearance**. This is the Techne's determination of the field that 1.03
+required the disciple to discriminate:
 
 ```text
 Dharma Knowing
@@ -77,36 +78,36 @@ Real
 
 Ideal
     = pure determination
-    = the law free in and for itself
+    = the law's relation to its own criterion
 ```
 
-VAK 1.04 is the first articulation internal to this knowing. The conditioned
-is not simply impure: the Truth of the Path is conditioned and pure. The Path
-is the Real's pure activity, the conditioned enactment in which appearance is
-referred to its Ideal determination. The unconditioned, introduced in the next
-verse, is pure without conditional production.
+VAK 1.04 supplies a first comprehensive division: Impure / Pure. Within
+the conditioned, the Truth of the Path is Pure. Thus the Real / Ideal
+relation cannot be drawn as two separate inventories, one conditioned and
+one unconditioned. The Path is a conditioned activity under the Pure side
+of the division. VAK 1.05 will state the unconditioned members.
 
 ```text
-impure
-    = conditioned appearance whose determination remains divided
+Impure
+    = conditioned dharmas other than the Path
 
-pure Path
-    = conditioned knowing adequate to its law
+Pure Path
+    = a conditioned dharma through which āsravas do not persist
 
-pure unconditioned
-    = the Ideal free from conditional production
+Pure unconditioned
+    = specified in 1.05
 ```
 
-The division therefore does not contrast an empirical object with a separate
-ideal elsewhere. It distinguishes impurity and purity within the Law of
-Appearance itself, and makes the Path the conditioned actuality of their
-reconciliation.
+The Techne reads the Path as a mediation of Real and Ideal because it is
+conditioned and Pure. This expresses the architecture of the source
+classification; it does not replace the Bhāṣya's criterion of whether the
+*āsravas* persist through a dharma.
 
 ## 7. Technical Vocabulary
 
 | Sanskrit | Rendering | Determination |
 |---|---|---|
-| dharma | Law of Appearance | the generative law of what appears |
+| dharma | dharma | Techne: Law of Appearance; here the field divided by the verse |
 | sāsrava | impure | conditioned Dharma other than the Path |
 | anāsrava | pure | the Path and the unconditioned |
 | āsrava | `āsrava` | Sanskrit retained for the technical mark of impurity |
@@ -114,33 +115,40 @@ reconciliation.
 | asaṃskṛta | unconditioned | not produced through conditions |
 | mārgasatya | Truth of the Path | conditioned and pure |
 | samanuśayana | persistence through | the relation named in the criterion of impurity |
-| ālambana | object-support | not sufficient for impurity |
+| ālambana | object-condition | being an object for an *āsrava* is not persistence through it |
 
 ## 8. Logical Determination
 
 ```text
-Pure(x) or Impure(x)
+all dharmas: Impure / Pure
 
-Impure(x)
-    -> Conditioned(x)
-    -> not PathTruth(x)
+Impure(x) = Conditioned(x) and not PathTruth(x)
 
 Conditioned(PathTruth) and Pure(PathTruth)
 
-Unconditioned(x)
-    -> Pure(x)
+Unconditioned(x) -> Pure(x)       [specified in 1.05]
+
+object of an āsrava ≠ site where an āsrava persists
 ```
 
-The Path refutes the false identification of the conditioned with the impure.
-Purity is not withdrawal from appearance; it is conditioned appearance whose
-law is active without the division named by `āsrava`.
+The Path prevents identification of conditioned with Impure. The Bhāṣya
+also prevents an invalid inference: an *āsrava* may take Cessation or the
+Path as its object without making either Impure.
 
 ## 9. Interpretive Note
 
- The first division of Dharma Knowing is the Real / Ideal in its initial
- practical form: impure and pure. The Real is conditioned appearance; the
- Ideal is the pure self-relation of its law. The Path is their living
- mediation, because it is conditioned without being impure.
+The Bhāṣya calls this a summary designation of all dharmas. It answers
+1.03's question about the field of discrimination before enumerating
+individual dharmas. For a candidate for Abhidharma, the classification is
+learned through its criterion: *āsravas* persist through the Impure
+conditioned dharmas, while merely taking the Path or Cessation as an object
+does not make those dharmas Impure.
+
+Our Techne sees a first articulation of the Law of Appearance here: the
+conditioned field contains the Pure Path. Real and Ideal determine one
+another in that case; purity cannot simply mean absence of conditional
+production. This anticipates the fuller account in 1.05 without importing
+its terms into the present verse.
 
 ## 10. OWL++ Seed
 

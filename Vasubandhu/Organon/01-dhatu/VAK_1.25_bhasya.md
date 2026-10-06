@@ -173,7 +173,9 @@ Keep the conventional *dharma-skandha* in this verse—“Dharma-collection”�
 distinct from Dharma-skandha as a systematic Base determination. The shared
 compound does not make the eighty thousand teaching collections additional
 Bases. Verse 1.26 asks how one Dharma-collection is measured; 1.27 extends
-the discussion to other scriptural designations.
+the discussion to other scriptural designations. Within the 1.24–1.28
+sequence, this is the inclusion test: the scriptural designation is located
+within established classifications rather than added as a new slot.
 
 ## 10. Working Status
 

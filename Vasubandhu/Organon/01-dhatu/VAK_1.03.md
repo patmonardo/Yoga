@@ -27,7 +27,7 @@ bhavārṇave → bhava-arṇave              lokas → lokaḥ
 taddhetor → tad-dhetoḥ                 kilaiṣa → kila eṣaḥ
 ```
 
-| Pada | Features | Local force |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | dharmāṇām | genitive plural | objects of discrimination |
 | pravicayam | accusative singular | governed by `antareṇa` |
@@ -74,19 +74,19 @@ It also attributes to the Vaibhāṣikas—not unqualifiedly to Vasubandhu—the
 
 > Because a disciple cannot discriminate dharmas without Abhidharma instruction, and because such discrimination is indispensable to pacifying the afflictions that cause the world to wander in saṃsāra, this śāstra is said to have been taught.
 
-## 6. Philosophical Translation
+## 6. Philosophical Translation and Techne Reading
 
 > Abhidharma instruction is necessary because liberation requires a capacity the unaided disciple does not yet possess: exact discrimination of dharmas. That capacity makes the pacification of the afflictions possible and answers their causal power to sustain wandering.
 
-Organon rendering:
+Techne reading:
 
-> The śāstra is an instrument for producing discriminative capacity. Its analysis is justified neither as inventory nor speculation, but as the indispensable operation by which affliction can be pacified.
+> The larger Yoga Vidyā is the Science of Principles. Here its *dharmapravicaya* becomes a task for the disciple: to learn to discriminate dharmas so that affliction can be pacified. The śāstra serves that formation through instruction. The text gives the practical necessity of this operation; it does not equate the whole Vidyā with a single analytical act.
 
 ## 7. Technical Vocabulary
 
 | Sanskrit | Rendering | Determination |
 |---|---|---|
-| dharmapravicaya | discrimination of dharmas | indispensable cognitive operation |
+| dharmapravicaya | discrimination of dharmas | indispensable operation of *prajñā*, not the whole Vidyā |
 | kleśopaśānti | pacification of affliction | practical end of discrimination |
 | abhyupāya | adequate means | here denied apart from pravicaya |
 | bhavārṇava | ocean of becoming | glossed as the great ocean of saṃsāra |
@@ -105,7 +105,23 @@ therefore: Abhidharma śāstra is taught
 
 ## 9. Interpretive Note
 
-VAK 1.02 defined the treatise as equipment for attaining stainless prajñā. VAK 1.03 identifies its operation: instruction generates the disciple's capacity to discriminate. Teaching does not bestow liberation externally; it enables the cognition by which affliction can be pacified.
+VAK 1.02 defined the treatise as equipment for attaining stainless *prajñā*.
+VAK 1.03 identifies why that equipment is needed: the disciple cannot
+discriminate dharmas without instruction, and without that discrimination
+there is no means for pacifying the afflictions that sustain wandering.
+
+For our Yoga Vidyā, this is the teachable middle of a larger science.
+*Prajñā* names the Vidyā; *dharmapravicaya* is its discriminating operation
+as the candidate learns it. *Vijñāna*, where the Kośa names it, carries the
+Techne's specific force of discriminative Knowing. VAK 1.03 does not name
+*vijñāna*, so this distinction governs our reading without being inserted
+into the verse.
+
+The proposed relation to Nirbīja Samādhi belongs to the deeper Yoga Vidyā:
+the end of this instruction is not exhausted by a taxonomy of dharmas.
+Nor does 1.03 itself state a thesis about Aristotle's undemonstrated
+principle of science. That comparison can guide our Techne, but its exact
+Aristotelian source and its fit with Nirbīja require a separate study.
 
 ## 10. OWL++ Seed
 

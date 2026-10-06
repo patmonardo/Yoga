@@ -92,9 +92,9 @@ pure
 The Path is decisive. Because it is conditioned and pure, purity cannot mean a
 mere absence of conditioned actuality.
 
-## 6. Dharma Knowing: Real / Ideal
+## 6. Interpretation
 
-The Organon determination is not part of the conventional translation.
+The Techne determination is separate from the conventional translation.
 
 Dharma is the Law of Appearance. Dharma Knowing is its Real / Ideal
 self-articulation:
@@ -112,32 +112,36 @@ Ideal
     = the law in self-relation
 ```
 
-The first comprehensive division gives this dyad its practical form. Impurity
-is conditioned appearance whose law remains internally divided. Purity is the
-same law adequate to itself. The Path is not an exception tacked onto an
-otherwise impure conditioned world: it is the Real's pure activity, the
-conditioned actuality in which appearance bears its Ideal determination.
+The Bhāṣya supplies the discipline for this reading. Its first division is
+Impure / Pure, and its criterion is the persistence of the *āsravas* through
+a dharma. The conditioned Path is Pure. An *āsrava* can arise with the Path
+or Cessation as its object without persisting through either. The Techne
+reads the conditioned Path as the Real's Pure activity: conditional
+actuality can bear a determination that does not sustain the *āsravas*.
 
 ```text
-impure conditioned
-    = divided Real
+Impure conditioned
+    = conditioned dharmas other than the Path
 
-pure conditioned Path
-    = Real adequate to the Ideal
+Pure conditioned Path
+    = conditioned activity through which āsravas do not persist
 
-pure unconditioned
-    = Ideal free from conditional production
+Pure unconditioned
+    = specified by the next unit
 ```
 
- Dharma is the generative law of appearance, known in the division and
- reconciliation of its own Real and Ideal moments.
+The classification thus has a practical test, not merely a formal opposition.
+It gives the candidate for Abhidharma a criterion to use while discriminating
+dharmas. The Real / Ideal language names our Yoga Vidyā's comprehension of
+this movement; the Bhāṣya's explicit terms remain *sāsrava*, *anāsrava*,
+*saṃskṛta*, *mārgasatya*, *ālambana*, and *samanuśayana*.
 
 ## 7. Bhāṣya Decisions for the Kārikā
 
 1. `Sāsrava` and `anāsrava` are rendered **impure** and **pure**.
 2. `Mārga` is `mārgasatya`, the Truth of the Path.
- 3. `Samanuśerate` is rendered "persist through," preserving the defining
-     relation in its own terms.
+3. `Samanuśerate` is rendered "persist through," preserving the defining
+   relation in its own terms.
 4. `Ālambana` is an object-relation; it is not the criterion of impurity.
 5. Conditioned and unconditioned are not synonyms for impure and pure: the
    conditioned Path is pure.
@@ -145,6 +149,6 @@ pure unconditioned
 ## 8. Review Status
 
 The Sanskrit is preserved. The conventional translation follows the Bhāṣya's
- summary division, Path specification, and distinction between `ālambana` and
- `samanuśayana`. The Organon reading is explicitly marked and treats Dharma as
- Law of Appearance.
+summary division, Path specification, and distinction between *ālambana* and
+*samanuśayana*. The Techne reading is explicitly marked and treats Dharma as
+Law of Appearance. The study remains provisional pending textual review.

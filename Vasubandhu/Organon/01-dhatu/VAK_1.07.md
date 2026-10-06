@@ -12,18 +12,20 @@
 >
 > sa evādhvā kathāvastu saniḥsārāḥ savastukāḥ // 1.07 //
 
-## 3. Padaccheda
+## 3. Lexical Analysis
 
+```text
 te | punaḥ | saṃskṛtāḥ | dharmāḥ | rūpa-ādi-skandha-pañcakam |
 saḥ | eva | adhvā | kathā-vastu | sa-niḥsārāḥ | sa-vastukāḥ
+```
 
-| Form | Analysis | Force |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | te | nominative masculine plural | those, resumed from 1.04 |
 | punaḥ | indeclinable | resumes. Not an interruption. Not “again” |
 | saṃskṛtāḥ | nominative masculine plural | Conditioned |
 | dharmāḥ | nominative masculine plural | dharmas |
-| rūpa-ādi-skandha-pañcakam | collective singular predicate | the five Bases, beginning with Form, gathered as one |
+| rūpa-ādi-skandha-pañcakam | neuter singular collective | five aggregates beginning with Form; Techne: five Bases |
 | saḥ eva | restrictive | that same field. The quad is not four extra heaps |
 | adhvā | nominative masculine singular | the course |
 | kathā-vastu | compound | the reflection-term |
@@ -43,35 +45,36 @@ sa eva
     = savastukāḥ
 ```
 
-`Pañcakam` is a collective singular predicate of a plural subject: five
-Base-members, gathered as one field. In the Organon reading, this collective
-is Essential Being.
-
-The second line is a quad. One field, four functions. The Wheel of Dharma.
+`Pañcakam` gathers five aggregates under one collective expression. The
+second line gives four further designations of the same conditioned field.
+The Techne reads their relation as a turning of the Dharma Chakra.
 
 ## 5. Translation
 
 ### Literal
 
-Those Conditioned dharmas are the five Bases beginning with Form. That same
-field is the course, the *kathāvastu*, the *saniḥsāra*, and the *savastuka*.
-
-“Again,” “basis of discourse,” and “possessed of an exit” are withdrawn. They are not called for.
+Those conditioned dharmas are the five aggregates beginning with Form.
+Those same dharmas are also the course, the matter of discourse, possessed
+of an exit, and possessed of a basis.
 
 ### Bhāṣya-informed
 
-The Bhāṣya says they are called Conditioned because conditions come
-together and act together, and nothing is produced by one condition. It
-says the courses are gone, going, and about to go. It cites the Prakaraṇa:
-*kathāvastu* is included in the eighteen Principles. It glosses *niḥsāra*
-as nirvāṇa, the going-out from everything Conditioned. The Vaibhāṣikas
-say, *kila*, that the word *vastu* expresses cause.
+The conditioned dharmas are made by conditions acting together; nothing
+is produced by one condition. They are courses because they have gone, are
+going, or will go, or because impermanence consumes them. Meaningful speech
+takes them as its basis; the *Prakaraṇa* includes its matters of discourse
+within the eighteen *dhātus*. They possess an exit because nirvāṇa is the
+going-out from everything conditioned. They possess a basis; the reading
+of *vastu* as cause is attributed to the Vaibhāṣikas.
 
-Those are glosses. They are not the quad.
+## 6. Philosophical Translation and Techne Reading
 
-## 6. Philosophical Translation
-
-This is Vasubandhu’s dharma talk. The Conditioned are not a remainder. They are a wheel.
+In the Techne, Abhidharma as the Science of Principles is the **First
+Dharma**: it gives the principled standpoint from which the conditioned
+field can be known. This kārikā begins the division beneath that Concept.
+It gathers the conditioned dharmas as five Bases and gives four further
+designations of the same field. This is our wheel reading; the Bhāṣya
+supplies the local senses of each name.
 
 The Conditioned dharmas are gathered as the five Bases beginning with Form
 Base. In the Organon reading, this fivefold gathering is Essential Being.
@@ -107,7 +110,8 @@ Appearance
     YS 4.14: the reality of the vastu is one transformation
 ```
 
-Compulsory method. One Rational Citta. Form Theory raised to this chakra. Abhidharma is Dharma Theory. The wheel itself.
+The systematic reading is a relation of one field under several
+determinations, rather than a replacement for the Bhāṣya's explanations.
 
 The Form Base is the empirical root: empirical sciences apply to
 appearances, and the manifold appearances of *sarvadharma* are captured
@@ -117,23 +121,22 @@ This Kārikā foregrounds Dharma as Base—its gathered, Being-grade
 determination. It does not itself unfold the Essence Base and Principle
 relations that the chapter develops.
 
-What persists is Impure. A Rational Dharma does not Persist. Substance does not Appear. The properties do.
-
-Yoga:Kośa is one dyad. The Sūtra is the *paramārtha*. Hegel is the bhāṣya of that key. Not pasted into the literal.
+The Pure Path remains within the conditioned field. The next kārikā
+restricts the five Bases to their Impure, appropriated members.
 
 ## 7. Technical Vocabulary
 
-| Sanskrit | Do not use as the reading | Determination |
+| Sanskrit | Conventional force | Techne determination |
 |---|---|---|
-| saṃskṛta | created; constructed | Conditioned |
-| skandha | a list; heap as dismissive | Base; Organon grade of Essential Being |
-| rūpa | purely material form | Form; first member is the Form Base |
-| adhvā | a clock | Path of Dharma. YS 4.12 |
-| kathāvastu | basis of discourse; topic | Essential Reflection |
-| saniḥsāra | possessed of an exit | Essential Relation. A Dharma is an End |
-| vastu | cause; topic; substrate | Appearance of Essence |
-| savastuka | possessed of causes | possessed of that Appearance |
-| punaḥ | again | resumes |
+| saṃskṛta | conditioned | conditioned field |
+| skandha | aggregate | Base, gathered as one fivefold field |
+| rūpa | Form | Form Base |
+| adhvā | temporal course | Path of Dharma |
+| kathāvastu | matter of discourse | Essential Reflection |
+| saniḥsāra | possessing an exit | Essential Relation; Bhāṣya glosses exit as nirvāṇa |
+| vastu | basis; Vaibhāṣika gloss: cause | Appearance of Essence |
+| savastuka | possessing a basis | conditioned Appearance |
+| punaḥ | again, in resumption | returns to the conditioned dharmas of 1.04 |
 
 The Vaibhāṣika gloss *vastu* = *hetu* is the armor-moment. Not the reading.
 
@@ -171,12 +174,16 @@ machine continues through 1.28.
 
 ## 9. Interpretive Note
 
-The inventory English broke the kārikā, and a broken kārikā was a broken
-Abhidharma. The quad is the wheel in the Organon reading. The account of
-empirical science and the Form Base is marked as interpretation, not
-smuggled into the literal verse.
+The 1.07 division does not simply list five items. The same conditioned
+dharmas are grasped as a gathered Base field and under temporal,
+discursive, liberative, and causal descriptions. In our Yoga Vidyā, the
+First Dharma sees this second, conditioned field as eternally sublated:
+its determinations are intelligible within the Science of Principles,
+without erasing their conditioned reality. This is an Absolute reading of
+the sequence, not a lexical meaning of any one term in the verse.
 
-The Bhāṣya is not synced. Nirvāṇa-as-exit and *vastu*-as-cause remain glosses there. The local witness at `[004|26]` omits *saṃjñā*. Not patched. The kārikā says five.
+The Bhāṣya's local list names only four aggregates; the witness omits
+*saṃjñāskandha*. The kārikā says five. The witness is left unpatched.
 
 ## 10. OWL++ Seed
 

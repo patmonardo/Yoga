@@ -23,7 +23,7 @@ triprakārāḥ         → tri-prakārāḥ
 ubhayavarjitāḥ      → ubhaya-varjitāḥ
 ```
 
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | sa-vitarka-vicārāḥ | nominative masculine plural compound | accompanied by vitarka and vicāra |
 | hi | emphatic or restrictive particle | indeed; the Bhāṣya understands “invariably” |
@@ -36,7 +36,7 @@ ubhayavarjitāḥ      → ubhaya-varjitāḥ
 | ubhaya-varjitāḥ | nominative masculine plural compound | without both vitarka and vicāra |
 
 The five `vijñānadhātus` are the sensory-Cognition Principles. The final
-three are the Mind Principle, Essence Principle, and Mental-Cognition
+three are the Mind Principle, Dharma Principle, and Mind-Cognition
 Principle. The remaining ten are the five sensory Faculties and five
 sensory-object Principles: the Form Base Principles.
 
@@ -68,9 +68,9 @@ second dhyāna through the summit of existence
     → without both
 ```
 
-This applies directly to the Mind and Mental-Cognition Principles, and to
-the associated portion of the Essence Principle. The unassociated portion
-of the Essence Principle is
+This applies directly to the Mind and Mind-Cognition Principles, and to
+the associated portion of the Dharma Principle. The unassociated portion
+of the Dharma Principle is
 always without both because only associated mental factors can enter this
 relation.
 
@@ -92,46 +92,47 @@ produces a fourfold refinement on levels where both factors function.
 
 ### Bhāṣya-informed translation
 
-> The five sensory-Cognition Principles are always associated with both vitarka and vicāra. The Mind, Essence, and Mental-Cognition Principles admit three modes according to meditative level: association with both, with vicāra alone, or with neither. The ten Form Base Principles are incapable of association with either.
+> The five sensory-Cognition Principles are always associated with both vitarka and vicāra. The Mind, Dharma, and Mind-Cognition Principles admit three modes according to meditative level: association with both, with vicāra alone, or with neither. The ten Form Base Principles are incapable of association with either.
 
 The primary translations preserve `vitarka` and `vicāra`. Their exact
-Organon determination must emerge from the sequence rather than being
+Techne determination must emerge from the sequence rather than being
 silently substituted into the Sanskrit.
 
 ## 6. Philosophical Translation
 
 > Principles differ not only in what they classify but in the relations their instances can enter. The five sensory-Cognition Principles are invariably associated with vitarka and vicāra. The final triad—Mind, Essence, and Mental Cognition—admits different modes according to meditative level. The ten Form Base Principles lack this mental association, not through contemplative attainment but by their type.
 
-Organon rendering:
+Techne reading:
 
-> The Principle processor now determines cognitive operation from within the classified system. Sensory Cognition is never a mute atom: its occurrence is associated with both vitarka and vicāra. The Mind–Essence–Mental-Cognition triad changes its mode with meditative level, while Form Base Principles remain outside mental association. One cognitive system thus differentiates its own operations without turning those operations into separate substances.
+> The Principle Processor determines cognitive operation within the
+> classified system. Sensory Knowing—conventionally rendered Cognition—is
+> associated with both vitarka and vicāra. The Mind–Dharma–Mind-Cognition
+> triad changes its mode with meditative level, while Form Base Principles
+> remain outside mental association.
 
-This Organon rendering is a philosophical hypothesis, not a translation
-of the kārikā. In a Fichtean nondual version of the Transcendental Logic,
-Prajñā is approached as self-relating activity that differentiates its
-own moments; Vijñāna is a determinate representation within that activity,
-not a second, independent knower. The association relation preserves a
-real distinction between cognition and its factors, so nonduality does
-not mean identity or collapse.
+This Techne reading is not a translation of the kārikā. It tests how
+Knowing—Higher Cognition of Scientific Knowing—relates to vitarka and
+vicāra without identifying cognition with either factor. Association
+preserves their distinction; it does not make the factors separate
+substances or collapse them into Knowing.
 
-Embedded in Hegelian logic, that self-differentiation is preserved and
-developed as determinate relation: both factors, vicāra without vitarka,
-or neither, according to level and scope. “Neither” is not a single
-undifferentiated state: it can arise from a meditative level, from the
-unassociated portion of the Essence Principle, or from the incapacity of
-the Form Base Principles. The Organon aim is *prakāśa*: the Principle
-system becomes luminous by making its own distinctions and transitions
-intelligible. This verse supplies part of that architecture; it does not
-itself identify any mode with Prajñā or liberation.
+In the Kant–Fichte–Hegel Techne, these distinctions are developed as
+determinate relations: both factors, vicāra without vitarka, or neither,
+according to level and scope. “Neither” is not a single undifferentiated
+state: it can arise from a meditative level, from the unassociated portion
+of the Dharma Principle, or from the incapacity of the Form Base
+Principles. The Techne aim is *prakāśa*: the Principle system becomes
+intelligible by articulating its distinctions and transitions. This verse
+does not identify any mode with Prajñā or liberation.
 
 ## 7. Technical Vocabulary
 
 | Sanskrit | Project rendering | Determination |
 |---|---|---|
-| vijñānadhātu | Cognition Principle | a principle of determinate cognition; here, one of the five sensory principles |
+| vijñānadhātu | Cognition Principle | a Principle of determinate Knowing; here, one of the five sensory Principles |
 | manodhātu | Mind Principle | mental support and succession within the eighteen-Principle system |
-| dharmadhātu | Essence Principle | the heterogeneous principle containing associated and unassociated Essences |
-| manovijñānadhātu | Mental-Cognition Principle | particular mental cognition correlated with Mind and Essence |
+| dharmadhātu | Dharma Principle | the heterogeneous Principle containing associated and unassociated dharmas |
+| manovijñānadhātu | Mind-Cognition Principle | particular Higher Cognition of Scientific Knowing correlated with Mind and Dharma |
 | rūpiṇo dhātavaḥ | Form Base Principles | the five sensory Faculties and five sensory objects |
 | vitarka | vitarka / initial cognitive application | mental factor whose fuller logical significance remains under study |
 | vicāra | vicāra / sustained examination | mental factor persisting after vitarka has ceased in the intermediate dhyāna |
@@ -236,23 +237,23 @@ For the Principle processor, 1.32 adds three required parameters:
 ```text
 association-capability
 meditative-level
-intended scope within the Essence Principle
+intended scope within the Dharma Principle
 ```
 
-The Fichtean nondual hypothesis treats cognitive activity as differentiating
-itself without appealing to a second, independent knower. Hegelian logic
-then holds the difference rather than dissolving it: cognition, factor, and
-level are distinct moments within one articulated process. This is the
-project's special Transcendental Logic of Principles, still a proposal to
-test against the verses.
+The incoming Techne distinguishes Knowing—Higher Cognition of Scientific
+Knowing—from Conceiving, Ordinary Knowing (*vijñapti*), and Transcendental
+Knowing (*prati-vijñapti*). This verse directly examines the
+*vijñāna-dhātus* and their association with *vitarka* and *vicāra*; it
+does not equate those factors with *vijñapti* or *prati-vijñapti*.
+Thinking remains distinct from Conceiving and Knowing.
 
 We may provisionally hear `vitarka` as immediate cognitive determination
 and `vicāra` as its sustained articulation, but should not make that
-equivalence official before 1.33 distinguishes the forms of `vikalpa`.
+equivalence definitive before 1.33 distinguishes the forms of `vikalpa`.
 Sensory cognition's association with both factors does not prevent its
 being called *avikalpaka* in a restricted technical sense. The sequence
-promises a graded account; it does not yet identify those grades with
-Prajñā or *prakāśa*.
+promises a graded account; it does not identify those grades with Prajñā
+or *prakāśa*.
 
 ## 10. OWL++ Seed
 
@@ -282,10 +283,10 @@ vak:TenFormBasePrinciples
     vak:incapableOf vak:MentalAssociation ;
     vak:hasMode vak:NeitherVitarkaNorVicara .
 
-vak:AssociatedEssencePrinciple
+vak:AssociatedDharmaPrinciple
     vak:modeDeterminedBy vak:MeditativeLevel .
 
-vak:UnassociatedEssencePrinciple
+vak:UnassociatedDharmaPrinciple
     vak:hasMode vak:NeitherVitarkaNorVicara .
 
 vak:CognitiveExecutionMode
@@ -294,8 +295,8 @@ vak:CognitiveExecutionMode
         vak:MeditativeLevel,
         vak:AssociationScope .
 
-vak:FichteanNondualOrganonHypothesis
-    a vak:OrganonInterpretation ;
+vak:FichteanNondualTechneHypothesis
+    a vak:TechneInterpretation ;
     vak:relates vak:Prajna,
         vak:Vijnana,
         vak:HegelianDeterminateNegation ;

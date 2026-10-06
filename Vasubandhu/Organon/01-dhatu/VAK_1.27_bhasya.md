@@ -1,4 +1,4 @@
-# VAK_1.27 Bhāṣya — Form System Problems: Assignment by Characteristic
+# VAK_1.27 Bhāṣya — Assignment by Characteristic
 
 ## 1. Kārikā Anchor
 
@@ -194,14 +194,17 @@ discourse.
 
 ## 9. Interpretation
 
-Pruden's phrase “problems with the Form System” aptly names the work of
-this sequence. VAK 1.24–1.26 establish the naming, inclusion, and measures
-of Dharma-collections; 1.27 generalizes the problem to further scriptural
-classifications. Each must be assigned by its own characteristic and by
-the scope under consideration—not by a shared name alone.
+Pruden's phrase “problems with the Form System” names one aspect of these
+examples. In the wider Dhātu-machine sequence, VAK 1.24–1.28 establish and
+demonstrate the classification procedure: 1.24 distinguishes naming
+grounds; 1.25 includes further scriptural designations within the
+established classifications; 1.26 distinguishes measures of a
+Dharma-collection; 1.27 generalizes assignment by own characteristic and
+scope; 1.28 gives a cross-mapping example. Classification is not decided
+by a shared name alone.
 
-The principal/attendant cases make the Form System's classifications
-substantive. The eight totality Essences have non-greed as their principal
+The principal/attendant cases make the classifications substantive. The
+eight totality Essences have non-greed as their principal
 nature and are included in Dharma Essence; considered with attendants,
 their five-Base scope is included through Mind Essence and Dharma Essence.
 The same rule accounts for the broader Sound–Mind–Dharma Essence inclusion
@@ -210,16 +213,16 @@ principal determination and the attendant complex.
 
 The Absolute Base spans and combines Rūpa-skandha and Dharma-skandha. This
 unity is Absolute Dharma, discriminating all Dharmas through Form and Law.
-The Form System's assignment procedure holds each classification within
-that unity according to its own characteristic and scope. The scriptural
+The assignment procedure holds each classification within that unity
+according to its own characteristic and scope. The scriptural
 *dharma-skandha* at the opening remains a teaching-collection, not an
 additional ontological Base. The final sixty-two-Principle example extends
 the rule; this passage does not enumerate every placement.
 
 ## 10. Working Status
 
-This revision presents VAK 1.27 as the culmination of the Form System
-sequence 1.24–1.27. It uses Base, Essence, and Principle consistently,
-preserves the distinction between principal nature and attended scope, and
-retains the recorded source readings. The sixty-two Principles are not
-enumerated in this passage.
+This revision presents VAK 1.27 as the general assignment rule within the
+Dhātu-machine sequence 1.24–1.28. It uses Base, Essence, and Principle
+consistently, preserves the distinction between principal nature and
+attended scope, and retains the recorded source readings. The sixty-two
+Principles are not enumerated in this passage.

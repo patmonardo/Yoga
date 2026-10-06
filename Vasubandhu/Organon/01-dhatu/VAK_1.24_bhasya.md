@@ -217,5 +217,5 @@ through which Absolute Dharma discriminates all dharmas.
 This revision preserves the two naming arguments, the full ten-member
 remainder argument, the attributed three-eye alternative, and the stated
 limits of the running Sanskrit witness. It uses the governing Base, Essence,
-and Principle vocabulary and reads VAK 1.24 as part of the fundamental
-Form System exposition.
+and Principle vocabulary and reads VAK 1.24 as the naming-and-distinction
+stage of the Dhātu-machine sequence 1.24–1.28.

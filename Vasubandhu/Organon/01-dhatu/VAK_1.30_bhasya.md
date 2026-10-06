@@ -158,7 +158,7 @@ Mind Principle] are wholesome when associated with non-greed and the like,
 unwholesome when associated with greed and the like, and otherwise
 ethically indeterminate.
 
-The Essence Principle is wholesome insofar as it consists of non-greed
+The Dharma Principle is wholesome insofar as it consists of non-greed
 and the like, is associated with them, or arises from them; discerning
 cessation is also wholesome. It is unwholesome insofar as it consists of
 greed and the like, is associated with them, or arises from them. The
@@ -241,7 +241,7 @@ textual checking; the source has not been silently emended.
 ## 4. Movement and Voices of the Commentary
 
 The opening is direct classificatory exposition: the six Cognition
-Principles and Mind Principle, the Essence Principle, and the Form and
+Principles and Mind Principle, the Dharma Principle, and the Form and
 Sound Principles exhaust the remaining ten.
 The commentary explicitly closes this topic before asking about realms.
 
@@ -272,7 +272,7 @@ plus the Mind Principle. Their ethical determination here is by association
 unwholesome, and indeterminate simultaneously: these are alternative
 statuses within each Principle.
 
-The Essence Principle requires a wider account. Its compound
+The Dharma Principle requires a wider account. Its compound
 *alobhādisvabhāvasaṃprayuktasamutthaḥ* coordinates being of the nature of
 non-greed and the like, being associated with them, and arising from
 them. The negative ethical series is parallel. Discerning cessation
@@ -287,7 +287,7 @@ manifestations arise. This does not classify every pleasant Form or
 agreeable sound as wholesome. The remaining cases are indeterminate.
 
 The numeral checks the construal: six Cognition Principles plus the Mind
-Principle, one Essence Principle, and two manifestation Principles make
+Principle, one Dharma Principle, and two manifestation Principles make
 ten. Together with the eight from 1.29, the eighteen are accounted for.
 This is the missing opening in the local research commentary and the
 decisive correction to its translation of *tridhānye*.
@@ -370,9 +370,9 @@ license to ignore the quoted sūtra.
 These decisions govern this edition's anchor and translation. The
 original research kārikā and commentary files remain unchanged.
 
-## 9. Philosophical and Organon Study
+## 9. Philosophical and Techne Study
 
-For the Organon, a Faculty is a **Representation Factory**: a productive
+For the Techne, a Faculty is a **Representation Factory**: a productive
 capacity for a determinate mode of presentation, not simply a bodily part
 whose existence is defined by a purpose assigned to it. This is project
 vocabulary, not a literal translation of *indriya*.
@@ -385,6 +385,14 @@ their corresponding Cognition Principles do not. A Representation Factory
 can therefore persist without its familiar object relation or a current
 act of cognition. Its nature is not exhausted by one use.
 
+The source's *kāyavāgvijñapti* means bodily and verbal manifestation in the
+conventional translation. In the incoming Techne, *vijñapti* names
+Ordinary Knowing, or Conceiving: here it is manifested bodily and verbally
+and receives ethical determination through the *citta* from which it
+arises. Keep it distinct from sensory Knowing (*vijñāna*) and from
+Transcendental Knowing (*prati-vijñapti*), which this passage does not
+discuss.
+
 The debate does entertain arguments from beauty, speech, usefulness,
 attachment, and karmic cause. They are successive proposals and objections,
 not a single settled proof that Faculties exist for the sake of a bodily
@@ -392,7 +400,7 @@ or social function. Our reading should abstract the Faculty's
 representational capacity from those proposed purposes while retaining
 the physical site as a distinct relation.
 
-The closing statement gives the Organon a useful textual test: craving is
+The closing statement gives the Techne a useful textual test: craving is
 said to operate through the six internal Essence Bases by way of embodied
 existence, not through their external objects; craving associated with the
 Male Faculty is treated separately through sexual contact. This
@@ -411,7 +419,7 @@ incorrect realm-based construal of “threefold” is corrected here.
 The difficult *nivarttate* remains visible with a bracketed contextual
 translation. Named and unnamed voices are distinguished without assigning
 unprovided school labels. Faculty is used for *indriya*, distinct from its
-bodily site; the Representation Factory reading is marked as Organon
+bodily site; the Representation Factory reading is marked as Techne
 interpretation. This is comparison of the available local texts, not a
 collation of independent manuscript witnesses. Original research files
 and the Part One reading artifact remain unchanged.

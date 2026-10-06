@@ -201,34 +201,35 @@ pedagogical advancement between them.
 These decisions govern the present study; the original kārikā and
 research commentary remain unchanged.
 
-## 9. Philosophical and Organon Study
+## 9. Interpretation
 
-The passage brings the project's theory of Prajñā into contact with a
-precise local classification. Sensory cognition has intrinsic vikalpa,
-identified with vitarka; the two kinds it lacks are determining prajñā
-and recollective smṛti. The text also restricts the prajñā in view: it is
-associated with mental cognition and unconcentrated. This does not
-identify every instance of Prajñā with this one classified mode.
+The Kośa presents Vijñāna as Discriminative Cognition joining and
+governing Perception and Conception. Their unity is Inconceivable as a
+homogeneous operation; its Idea is disclosed in the Cognition Base.
+Vijñāna governs Manas and guides the reading of Dharma Base. Form Base
+and Dharma Base include the same *avijñapti* in distinct classifications,
+and Vijñāna bears a *prati* relation to *avijñapti*. Vijñāna remains
+distinct from *citta* and *manas*.
 
-The Fichtean nondual hypothesis can treat the three kinds as differentiated
-functions within one self-relating cognitive activity, not as independent
-substances. Hegelian logic can preserve those differences as determinate
-moments without making them a temporal ladder. The Bhāṣya supplies a
-typed classification, not a causal story in which sensation develops
-into examination and then memory.
+This governing account frames the local argument without replacing it.
+Here the five sensory cognitions possess intrinsic vikalpa, identified
+with vitarka, while lacking examining and recollective vikalpa. The
+examining kind is a particular prajñā associated with mental cognition
+and unconcentrated; recollective vikalpa is specifically mental smṛti,
+concentrated or unconcentrated.
 
-This gives the proposed Prajñā/Vijñāna relation a useful constraint.
-Prajñā may be explored as the self-relating pole and Vijñāna as its
-particular representation, but the local *prajñā* here is specifically
-unconcentrated and associated with mental cognition. The passage does not
-equate it with *paramārtha*, assign the three forms to the two truths, or
-explain how understanding is acquired. Those remain Organon questions.
+In the incoming Techne, *vijñāna* is Knowing—Higher Cognition of
+Scientific Knowing—and *prajñā* is Science of Principles. The local
+qualification of *prajñā* must be retained; it does not define every use
+of the term. The association of sensory cognitions with their factors is
+a relation, not an identity.
 
-Likewise, concentrated mental smṛti remains recollective vikalpa. The
-classification therefore prevents concentration from serving as a
-shortcut for “beyond every form of discrimination.” The intended
-*prakāśa* is the Organon's eventual intelligibility of these differentiated
-operations; it is not a claim made explicitly by the Bhāṣya.
+The three forms of vikalpa classify functions and conditions, not a
+temporal ladder or causal sequence. Concentrated mental smṛti remains
+recollective vikalpa, and *avikalpaka* therefore cannot mean absence of
+every form of discrimination. Association, concentration, and the
+chapter-level relation among Vijñāna, Manas, and Dharma Base remain
+distinct determinations.
 
 ## 10. Review Status
 

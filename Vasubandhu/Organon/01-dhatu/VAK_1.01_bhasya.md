@@ -226,7 +226,7 @@ inserted into the words of the Kārikā. Likewise, the distinctions between
 afflicted and non-afflicted ignorance and between the two accomplishments
 remain attributed to the commentary.
 
-## 8. Philosophical and Organon Study
+## 8. Interpretation
 
 The passage gives knowledge an intrinsically communicable and practical form:
 
@@ -236,13 +236,23 @@ seeing reality without obstruction
     → enabling liberation through understanding and practice
 ```
 
-For our Science of Consciousness, this is an initial Vidyā–Technē relation.
-Yoga Vidyā requires determinate, non-inverted knowing. Yoga Technē concerns
-the communicable practice through which another consciousness develops in
-accordance with that knowing. Their unity is mediated by instruction adapted
-to the learner's capacity. This is our reconstruction; the Bhāṣya's own terms
-are perfected knowledge, compassion, instruction according to reality, and
-the capacities of those taught.
+For our Science of Consciousness, this is the first Vidyā–Technē relation.
+The Buddha's own accomplishment is knowing unobstructed in range (*sarva*)
+and manner (*sarvathā*). His accomplishment for others takes the form of
+teaching according to reality, adapted to the hearer's capacity. The two
+accomplishments are joined by an operation: what is seen without inversion
+is made instructive for another. The *śāstra* is introduced within that
+operation, before its specific definition as Abhidharma in 1.02.
+
+Kant's distinction between general logic and a logic concerned with the
+objective validity of cognition lets our Yoga Vidyā ask what makes this a
+science: the range and adequacy of its knowing, the reality to which its
+instruction answers, and the formation of a disciple's power to discern.
+This is the Techne's question to the passage. Its textual answer here is
+bounded: the Bhāṣya establishes complete removal of ignorance, teaching
+without inversion, and instruction suited to the learner. It does not yet
+define *prajñā* or the *Abhidharmakośa* as treasury; 1.02 takes up those
+determinations.
 
 ## 9. Review Status
 

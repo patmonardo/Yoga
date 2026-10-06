@@ -201,6 +201,10 @@ unity is Absolute Dharma, discriminating all Dharmas through Form and Law;
 the counteragent relation is the practical determination foregrounded in
 this passage.
 
+Within the 1.24–1.28 Dhātu-machine sequence, this verse distinguishes how
+a teaching-collection is measured from the classification into which its
+content is placed.
+
 ## 10. Review Status
 
 QA review of the twenty-sixth Bhāṣya study. The local research

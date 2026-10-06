@@ -8,7 +8,7 @@
 
 Literal (from [`VAK_1.06.md`](./VAK_1.06.md)):
 
-> Cessation through discrimination is disjunction, separately and separately. The other cessation, not through discrimination, is the absolute obstruction of arising.
+> Cessation through discrimination is disjunction, in each case separately. The other cessation, not through discrimination, is the absolute obstruction of arising.
 
 Span: Pradhan `[003|24]`–`[004|22]`. Next question at `[004|23]` opens 1.07.
 
@@ -110,10 +110,48 @@ both
 3. `Pṛthak pṛthak` is as many disjunctions as conjunctions.
 4. The other cessation is absolute obstruction of arising, by deficiency of conditions.
 
-## 6. Organon Note
+## 6. Interpretation
 
-The first cessation is the Path of discrimination. The second is non-arising when conditions fail. A samādhi that is only deep sleep is the second, not the first. Not conventional English.
+The Bhāṣya sets a precise relation between the larger *prajñā* and this
+particular act: *pratisaṃkhyā* is a specific *prajñā* considering the Noble
+Truths, and cessation through it is disjunction from Impure dharmas.
+Disjunction is separately attained for each conjunction. The argument
+about the remaining counteragents explains why the plurality matters to
+practice.
+
+The other cessation is obtained through deficiency of conditions. Its
+sensory example concerns cognitions that cannot arise once their conditions
+have passed. The four-corner classification tests the two definitions
+across Impure and Pure conditioned dharmas, including cases where both or
+neither cessation is obtained.
+
+Our Yoga Vidyā reads repeated attention to this distinction as a discipline
+of *dhāraṇā* and *dhyāna*. In that sense the opening kārikās can become a
+field of Samyama for the practitioner. The passage itself establishes the
+specific discriminative means of the first cessation and the missing
+conditions of the second; it does not equate meditative stillness with
+either cessation.
+
+In the Techne, *nirodha* is **Sublation**: the determination that sustained
+an Impure conjunction founders upon its ground as the contradiction is
+resolved. The first cessation gives this thought its precise practical
+form: a particular *prajñā* attains disjunction separately for each
+conjunction. The second shows another ground for cessation, the absence
+of conditions for a future arising. Calling both Sublation does not erase
+their difference or make condition-deficiency into insight.
+
+This closes the opening definition of Abhidharma in our systematic reading.
+The Bhāṣya has moved from the Teacher and the need for instruction, through
+the first comprehensive division, to the exact modes of the unconditioned.
+What follows can unfold the divisions of the conditioned dharmas beneath
+the Concept. Kant's introductory discussion of the perfection of cognition
+and the Logic's subsequent treatment of concepts, definition, and division
+offer two distinct methodological moments for our Techne. The source's own
+questions and answers govern the Kośa sequence.
 
 ## 7. Review Status
 
-Pure / Impure cleanup only. Argument unchanged. Superiority to Pruden is the user’s reading, not a claim written into the file.
+The two definitions, the plurality of disjunctions, the sensory example,
+and the four-corner classification remain visible. The Techne reading is
+marked separately. The local sensory-line repair remains uncollated against
+printed editions; this study is provisional.

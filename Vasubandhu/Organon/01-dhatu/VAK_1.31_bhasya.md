@@ -6,7 +6,7 @@
 >
 > sāsravānāsravā ete trayaḥ śeṣās tu sāsravāḥ // 1.31 //
 
-> The Mind Principle, Essence Principle, and Mental-Cognition Principle
+> The Mind Principle, Dharma Principle, and Mind-Cognition Principle
 > belong to the Formless Realm. These three admit both outflow-bearing and
 > outflow-free instances; the remaining Principles are outflow-bearing.
 
@@ -43,16 +43,16 @@ transcription repairs, not evidence of independent manuscript variants.
 
 ## 3. Continuous Conventional Translation
 
-The Mind Principle, Essence Principle, and Mental-Cognition Principle
+The Mind element, Dharma element, and Mind-Cognition element
 belong to the Formless Realm.
 
 Those free from passion for Form are born there. Therefore the ten
 Principles whose nature is Form, and the five sensory-Cognition Principles
 having those Principles as their supports and objects, do not occur there.
 
-How many are outflow-bearing, and how many outflow-free? The
-Mind, Essence, and Mental-Cognition Principles just mentioned: these
-three admit both outflow-bearing and outflow-free instances.
+How many are outflow-bearing, and how many outflow-free? The three
+elements just mentioned admit both outflow-bearing and outflow-free
+instances.
 
 Those included in the truth of the path or among the unconditioned are
 without outflows; the others have outflows.
@@ -96,17 +96,17 @@ cognition. It does not say that every Form Base Principle performs both
 roles for every cognition.
 
 Eighteen minus ten minus five leaves three. The Mind and
-Mental-Cognition Principles retain distinct positions in the Principle
+Mind-Cognition Principles retain distinct positions in the Principle
 system; their inclusion does not introduce two enduring mental substances.
 The earlier account of manas as cognition in its immediately preceding
 role remains the relevant background.
 
-Nor does “three” count three individual Essences. The Essence Principle
+Nor does “three” count three individual Essences. The Dharma Principle
 is itself a classificatory range. The statement identifies which
 Principles have instances belonging to this Realm; it does not transfer
 every member of each named Principle into the Realm.
 
-This qualification matters especially for the Essence Principle. Its full
+This qualification matters especially for the Dharma Principle. Its full
 extension elsewhere in the classification includes avijñapti and
 unconditioned Essences. The present Realm statement does not establish
 either that avijñapti occurs in the Formless Realm or that unconditioned
@@ -126,8 +126,8 @@ classes admitted on the outflow-free side. The remaining instances within the th
 
 This is a distribution across the three Principles taken together. It
 does not mean that each Principle contains unconditioned instances. Mind
-and Mental-Cognition are conditioned Principles; unconditioned Essences
-belong under the Essence Principle. Path-truth supplies outflow-free
+and Mind-Cognition are conditioned Principles; unconditioned Essences
+belong under the Dharma Principle. Path-truth supplies outflow-free
 conditioned cognition and its relevant accompanying Essences without
 making cognition itself unconditioned.
 
@@ -183,42 +183,40 @@ technical status, not a general dismissal of sensory knowledge.
 These determinations refine the reading without altering the original
 research kārikā or commentary files.
 
-## 9. Philosophical and Organon Study
+## 9. Philosophical and Techne Study
 
-For the Organon, this passage makes the Principle processor executable
-in two stages. First, a Realm filter removes the ten Form Base Principles:
-the five sensory Faculties—Representation Factories—and their five
-objects. It also removes the five sensory-Cognition Principles that
-depend on them, leaving Mind, Essence, and Mental Cognition. Then a status
-check classifies instances of that triad: inclusion in Path-truth or among
-unconditioned Essences yields *anāsrava*; otherwise, *sāsrava*. The
-remaining fifteen Principles are fixed as exclusively with outflows.
+For the incoming Techne, this passage makes the Principle Processor
+executable in two stages. First, a Realm filter removes the ten Form Base
+Principles: the five sensory Faculties—Representation Factories—and their
+five objects. It also removes the five sensory-Cognition Principles that
+depend on them, leaving the Mind, Dharma, and Mind-Cognition Principles.
+Then a status check classifies instances of that triad: inclusion in
+Path-truth or among unconditioned dharmas yields *anāsrava*; otherwise,
+*sāsrava*. The remaining fifteen Principles are exclusively
+outflow-bearing.
 
-The Kant–Hegel reconstruction can now ask what kind of self-relation this
-processing expresses. The triad is not a bag of three mental items:
-Mind provides succession, Essence provides determinate content, and
-Mental Cognition is the particular act of representation. The status check
-then distinguishes a representation implicated in conditioned
-continuation from one included in Path-truth. Realm-membership alone does
-not perform that distinction.
+The Techne distinguishes *vijñāna* as Knowing, understood here as Higher
+Cognition of Scientific Knowing, from *prajñā* as Science of Principles.
+The Mind-Cognition Principle is the *vijñāna*-determination within the
+triad, distinct from the Mind Principle and Dharma Principle. This verse
+does not identify *manovijñāna* with *prajñā* or make one Principle
+another.
 
-Your proposed Organon relation gives the larger hypothesis: Prajñā as
-*adhyātman*, the *paramārtha* pole, with Vijñāna as its particular
-representation in use. The bhāṣya does not state this formula or identify
-*manovijñāna* with Prajñā. Its contribution is more specific: it supplies
-a machine condition under which Mind, Essence, and Mental-Cognition
-instances can be classified as either with or without outflows. This lets
-the Organon reading develop boldly while keeping its textual evidence
-visible.
+The vocabulary also distinguishes Conceiving, Ordinary Knowing
+(*vijñapti*), from Knowing, Transcendental Knowing (*prati-vijñapti*).
+Thinking remains distinct from both.
+This passage names *manovijñāna* but not *vijñapti* or
+*prati-vijñapti*; it therefore does not equate the Mind-Cognition
+Principle with either term. Its direct contribution is to show which
+Principles remain in the Formless Realm and how their instances are
+classified by outflow-status.
 
-The important guardrail is that neither inwardness nor formlessness
-guarantees *anāsrava*. The outflow-free determination still depends on
-Path-truth or unconditioned Essence. That distinction keeps the machine
-from mistaking a particular representation for Prajñā merely because
-sensory Faculties and objects are absent. The bhāṣya's final account of
-craving through the six internal Essence Bases by way of embodied
-existence, rather than through their objects, offers another relation
-for the Organon to test without treating inwardness itself as liberation.
+Neither inwardness nor formlessness guarantees *anāsrava*. The outflow-free
+determination still depends on Path-truth or unconditioned dharmas. The
+Bhāṣya's final account of craving through the six internal Essence Bases
+by way of embodied existence, rather than through their objects, offers
+another relation for the Techne to test without treating inwardness itself
+as liberation.
 
 ## 10. First-Pass Status
 
@@ -231,5 +229,5 @@ listed transcription repairs. Its principal interpretive risks are
 scope errors: carrying Formless-Realm membership into the outflow
 classification, distributing unconditioned status to cognition, or
 identifying outflow-bearing with unwholesome. The distinction between
-textual determination and Kant–Hegel Organon reconstruction is explicit.
+textual determination and the incoming Kant–Fichte–Hegel Techne is explicit.
 Original research files and the Part One reading artifact remain unchanged.

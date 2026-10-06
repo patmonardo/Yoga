@@ -22,7 +22,7 @@ sāsravānāsravāḥ               → sa-āsravāḥ an-āsravāḥ
 śeṣās tu                      → śeṣāḥ tu
 ```
 
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | ārūpya-āptāḥ | nominative masculine plural compound | belonging to or connected with the Formless Realm |
 | mano-dhātu | compound member | Mind Principle |
@@ -111,27 +111,28 @@ additional word in the Kārikā.
 > existence, but it can also carry Path-truth and unconditioned dharmas.
 > The remaining fifteen Principles are exclusively outflow-bearing.
 
-Organon rendering:
+Techne reading:
 
-> The final triad is a mode-sensitive part of the Principle processor:
-> the Mind Principle is the broader Principle of Manas and project-level
-> Ordinary Logic; the Dharma Principle includes determinate contents—including
-> Path-truth and the unconditioned; and the Mind-Cognition Principle is
-> Transcendental Logic: project-level Abstract Reason / Syllogistic Reasoning.
-> The same triad admits outflow-bearing and outflow-free instances, without
-> making bondage and liberation identical.
+> The final triad is a mode-sensitive part of the Principle Processor.
+> The Mind Principle, Dharma Principle, and Mind-Cognition Principle remain
+> distinct instruments; the triad admits both outflow-bearing and
+> outflow-free instances. In the incoming Techne, *vijñāna* is Knowing,
+> or Higher Cognition of Scientific Knowing. *Prajñā* is Science of
+> Principles. The verse distinguishes Mind-Cognition from Mind and Dharma;
+> it does not identify Mind-Cognition with *prajñā* or make bondage and
+> liberation identical.
 
 ## 7. Technical Vocabulary
 
 | Sanskrit | Project rendering | Determination |
 |---|---|---|
-| dhātu | Principle | determinate position in the classification system |
+| dhātu | Principle; in the Techne, Principle instrument | determinate position in the classification system |
 | ārūpya | Formless Realm | configuration in which the ten Form Base Principles and five sensory-Cognition Principles are absent |
 | ārūpyāpta | belonging to the Formless Realm | Realm compatibility of the final three Principles |
 | rūpavītarāga | detached from Form | causal condition for rebirth in the Formless Realm |
 | manodhātu | Mind Principle | broader Principle of Manas; project-level Ordinary Logic; the Bhāṣya locally identifies it with immediately past Cognition in the sixth-support role |
 | dharmadhātu | Dharma Principle | Principle arrangement for Dharma, including conditioned and unconditioned dharmas |
-| manovijñānadhātu | Mind-Cognition Principle | Transcendental Logic: Abstract Reason / Syllogistic Reasoning in the Organon reading; one of the six *vijñāna*-Principles |
+| manovijñānadhātu | Mind-Cognition Principle | Mind-associated Higher Cognition of Scientific Knowing; one of the six *vijñāna*-Principles, distinct from the Mind Principle |
 | sāsrava | with outflows / outflow-bearing | implicated in defilement and conditioned continuation |
 | anāsrava | without outflows / outflow-free | includes Path-truth and the unconditioned in the relevant respects |
 | ekāntasāsrava | exclusively with outflows | strict status of the remaining fifteen Principles |
@@ -231,7 +232,7 @@ remains fully capable of carrying outflows. Nor does it reduce liberation to a s
 outside the system. Path-truth and the unconditioned are available within
 the scope of the Mind–Dharma–Mind-Cognition triad.
 
-In the Organon reading, the same triad admits opposed modes
+In the incoming Techne reading, the same triad admits opposed modes
 of actualization:
 
 ```text
@@ -251,14 +252,14 @@ ten Form Base Principles and five sensory-Cognition Principles—are
 exclusively with outflows. The final triad admits both outflow-bearing and
 outflow-free instances.
 
-In the Organon reading, *manovijñānadhātu*, the Mind-Cognition Principle,
-is project-level **Transcendental Logic**: Abstract Reason / Syllogistic
-Reasoning. It is distinct from *manodhātu*, the broader Mind Principle and
-project-level **Ordinary Logic**. The kārikā names these as two distinct
-members of the final triad; the Bhāṣya classifies the triad by its possible
-outflow-status. These Logic determinations are project-level, not claims
-made by this verse. Formlessness itself is not liberation; outflow-status
-follows the Bhāṣya's criterion.
+The incoming Techne reads *manovijñānadhātu* through the higher-cognition
+meaning of *vijñāna*: Higher Cognition of Scientific Knowing. It remains
+distinct from *manodhātu*, the Mind Principle, and *dharmadhātu*, the
+Dharma Principle. *Prajñā* names Science of Principles; this verse does
+not equate it with the Mind-Cognition Principle. Nor does this verse
+contain *vijñapti* or *prati-vijñapti*: Ordinary Knowing and Transcendental
+Knowing remain distinct terms for testing where they occur. Formlessness
+itself is not liberation; outflow-status follows the Bhāṣya's criterion.
 
 ## 10. OWL++ Seed
 
