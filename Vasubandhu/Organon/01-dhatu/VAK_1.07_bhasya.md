@@ -80,7 +80,7 @@ Vasubandhu is not listing. He is turning the wheel in a language.
 ```text
 Essential Being
     the five Bases gathered as one, beginning with Form Base
-    the witness names Form, Feeling, Formations, and Knowledge Bases
+    the witness names Form, Feeling, Formations, and Cognition Bases
     the witness omits the Reflection Base
     preserve the difference: the kārikā says five
 
@@ -122,7 +122,7 @@ manifold appearances of *sarvadharma* are captured there. This is the
 Organon determination, not a claim that this is the sole lexical meaning of
 *rūpa*.
 
-The term distinction matters: *vijñānaskandha* is the **Knowledge Base**;
+The term distinction matters: *vijñānaskandha* is the **Cognition Base**;
 *vijñāna* is **Cognition**, knowing in operation. The witness's Knowledge
 Base is one member of the fivefold gathering, not a synonym for the whole
 system or for Cognition itself.

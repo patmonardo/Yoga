@@ -60,7 +60,7 @@ with the eye. These are normalizations, not a critical text.
 ## 3. Continuous Translation
 
 Objection. But it was said that the six groups of Principle are the
-principle-base. What, then, is this Mind Principle, other than those?
+Cognition Base. What, then, is this Mind Principle, other than those?
 
 Answer. It is certainly nothing other. What, then? Of those very six,
 whichever Principle is immediately past, that is Mind. Whichever

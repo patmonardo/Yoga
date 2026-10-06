@@ -290,7 +290,7 @@ afflicted mode, ground, and predominance. This reading leaves the
 distraction dispute open rather than using a philosophical schema to settle
 the Bhāṣya's unresolved alternative.
 
-**Return to the Dhātu Principle:** VAK 1.48 places Mind-Faculty across the
+**Return to the Principle system:** VAK 1.48 places Mind-Faculty across the
 Citta Domains; the factors and qualified modes analyzed here are not
 additional Mind-Faculties. Shared terminology with Faculty analysis does
 not collapse mental-factor operation into Dhātu placement: the Principle

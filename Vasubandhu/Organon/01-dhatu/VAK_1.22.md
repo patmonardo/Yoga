@@ -145,7 +145,7 @@ remains five Bases, twelve Essences, and eighteen Principles.
 | vedanāskandha | Feeling Base | second Base in the ordering account |
 | saṃjñāskandha | Reflection Base | third Base in the ordering account |
 | saṃskāraskandha | Formations Base | fourth Base in the ordering account |
-| vijñānaskandha | principle-base | fifth Base; distinct from Principle as a Dhātu determination |
+| vijñānaskandha | Cognition Base | fifth Base; distinct from Principle as a Dhātu determination |
 | vijñāna | Principle | established in the stations in the field–seed account |
 | bhavāgra | summit of existence | highest formless level, where Formations predominate |
 
@@ -183,7 +183,7 @@ Form Base (rūpa)
     → Feeling Base (vedanā)
     → Reflection Base (saṃjñā)
     → Formations Base (saṃskāra)
-        → principle-base (vijñānaskandha)
+        → Cognition Base (vijñānaskandha)
 
 most resistant/manifest
     → most subtle
@@ -208,7 +208,7 @@ Form       = vessel
 Feeling    = food
 Reflection = seasoning
 Formations = maker
-principle-base = eater
+Cognition Base = eater
 ```
 
 The fourth orders the levels by Principle:
@@ -269,7 +269,7 @@ vak:BaseSequence
 
 vak:PrincipleBase
     a vak:Base ;
-    rdfs:label "principle-base" ;
+    rdfs:label "Cognition Base" ;
     vak:denotes vak:VijnanaSkandha ;
     vak:hasAnalogyRole vak:Eater .
 

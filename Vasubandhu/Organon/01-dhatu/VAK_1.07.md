@@ -164,7 +164,7 @@ Construct  ≠ Condition
 The Form Base is the empirical ground for the appearance-manifold in the
 Organon reading; the five Bases remain the verse’s textual determination.
 The Kārikā does not name *vijñāna* or *vijñānaskandha*: Cognition and the
-Knowledge Base belong to the larger machine, not this literal translation.
+Cognition Base belong to the larger machine, not this literal translation.
 Concept-level closure belongs to the reciprocal operation of the six
 Cognition Principles (*vijñāna-dhātus*), not to this wheel by itself. The
 machine continues through 1.28.

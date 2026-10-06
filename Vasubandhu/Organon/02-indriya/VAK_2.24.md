@@ -283,7 +283,7 @@ consciousness and reconstructs each event as this reciprocal, self-articulated
 act. The Kośa's practical analysis exhibits the rule in operation; it is not
 merely a theoretical list of functions.
 
-**Return to the Dhātu Principle:** VAK 1.48 maps one Mind-Faculty across the
+**Return to the Principle system:** VAK 1.48 maps one Mind-Faculty across the
 seven Citta Domains. VAK 2.24 differentiates the functions necessarily
 arising with each consciousness-event without multiplying that Faculty or
 identifying factors with its Domain-loci. Dhātu supplies the Principle of

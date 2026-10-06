@@ -288,11 +288,11 @@ reconstructs it as an ethical event through their necessary co-arising.
 This is the Practical Kośa showing a rule in operation, not a claim that
 the Bhāṣya uses either philosopher's terms.
 
-**Return to the Dhātu Principle:** VAK 1.48 locates Life, feeling, and the
+**Return to the Principle system:** VAK 1.48 locates Life, feeling, and the
 five Faculties beginning with Faith in a portion of the Essence-Domain,
 with Mind-Faculty across the Citta Domains. VAK 2.25 analyzes similarly
 named determinations as mental factors, not simply as those Faculties.
-Their shared names do not collapse the Dhātu Principle of typed placement
+Their shared names do not collapse the Principle system of typed placement
 into the Rule of wholesome co-arising.
 
 ## 10. Review Status

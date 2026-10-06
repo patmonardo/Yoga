@@ -292,7 +292,7 @@ universal and afflicted classifications overlap in specified cases and
 cannot be flattened into mutually exclusive lists. The disputed status of
 distraction remains an open determination.
 
-**Return to the Dhātu Principle:** VAK 1.48 maps one Mind-Faculty across
+**Return to the Principle system:** VAK 1.48 maps one Mind-Faculty across
 the seven Citta Domains. VAK 2.26 classifies mental factors and their
 afflicted modes, not additional Mind-Faculties. Where a factor-name also
 appears in Faculty analysis, its role here remains that of a mental factor;

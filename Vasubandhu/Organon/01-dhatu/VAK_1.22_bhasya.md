@@ -108,7 +108,7 @@ sequence without silently harmonizing either point.
 > meaning does not apply. If it were stated among them, it could not be
 > included within these existing Bases, because the meaning does not apply:
 > it is neither Form nor any of the remaining Bases, up through the
-> principle-base. Nor can it be stated as a sixth Base. Why? Because the
+> Cognition Base. Nor can it be stated as a sixth Base. Why? Because the
 > meaning does not apply. It has been said that Base (*skandha*) means
 > collection.
 > The unconditioned is not divided by distinctions such as past and the
@@ -159,7 +159,7 @@ The last paragraph retains “vessel” as transmitted. The earlier analogy's
 The first question concerns inclusion: why neither an existing Base nor a
 sixth Base accommodates the unconditioned. The second concerns order: why
 the five are arranged as Form, Feeling, Reflection, Formations, and the
-principle-base.
+Cognition Base.
 
 The pot-cessation analogy is explicitly attributed to others and met with
 an objection. The four ordering accounts are introduced through the
@@ -201,8 +201,8 @@ The grossness account places the more manifest first. Material resistance
 introduces Form; the bodily localization of Feeling illustrates its
 prominence among the non-material Bases. `Dvābhyām ... audārikatarā` means
 Reflection is grosser than the two remaining Bases, Formations and the
-principle-base; the next comparison places Formations before Principle
-(*vijñāna*). The principle-base (*vijñānaskandha*) and Principle are
+Cognition Base; the next comparison places Formations before Principle
+(*vijñāna*). The Cognition Base (*vijñānaskandha*) and Principle are
 distinct determinations, not interchangeable terms.
 
 The opening generalization about Form's resistance is retained in this
@@ -232,7 +232,7 @@ The third account assigns five roles:
 | Feeling Base (*vedanā*) | food |
 | Reflection Base (*saṃjñā*) | seasoning |
 | Formations Base (*saṃskāra*) | maker |
-| principle-base (*vijñānaskandha*) | eater |
+| Cognition Base (*vijñānaskandha*) | eater |
 
 These are analogical roles within a coordinated activity. “Maker” can be
 understood as the preparer in this context; the prose does not add a

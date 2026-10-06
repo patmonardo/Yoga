@@ -35,8 +35,16 @@ folder, consult these load-bearing project documents:
 - Establish the conventional translation from the Sanskrit and Bhāṣya.
   In Bhāṣya studies, place philosophical interpretation in a separate
   section titled **Interpretation**, not **Organon Reading**.
-- Use **Lexical Analysis** as the section heading for word division,
-  morphology, and lexical meanings; do not prefix it with *Padaccheda*.
+- Use exactly one **Lexical Analysis** section per kārikā study. Do not add
+  a separate *Padaccheda* section or additional lexical-analysis sections.
+- Follow VAK 1.17 as the fixed format: one concise word-division block and
+  one table with this exact header:
+  `Pada | Morphology | Force in this passage`. Use that same header for the
+  Lexical Analysis table in every study. Do not add separate **Sentence
+  words**, **External sandhi**, or compound-analysis subsections, additional
+  lexical tables, or extended lexical commentary. Add only a brief
+  clarification when a form requires it. Do not upgrade this format unless
+  explicitly requested.
 - Use the technical vocabulary below consistently, without letting it erase
   grammatical, textual, or school-level distinctions.
 
@@ -131,6 +139,10 @@ summaries, and tables: do not render it as “five aggregates, twelve bases,
 and eighteen elements.” Preserve the Sanskrit terms in lexical analysis,
 while using the controlled Base–Essence–Principle terminology for the
 systematic count.
+In Organon prose and interpretive tables, use the English Base, Essence, and
+Principle terminology and translate their compounds (for example, **Cognition
+Base**, **Mind Essence**, and **Mind-Cognition Principle**). Retain their
+Sanskrit forms in source quotations and dedicated Lexical Analysis only.
 In the eighteenfold cognitive matrix, the eighteen Dhātus are precisely
 eighteen cognitive Principles; do not reduce them to a flat list of elements
 or domains.
@@ -188,7 +200,7 @@ materials systematically.
   Principle** (*manovijñānadhātu*).
 - `citta` -> **consciousness** in conventional translation; keep it distinct
   from Cognition (*vijñāna*) and Mind (*manas*)
-- `vijñānaskandha` -> **Principle Base**; `viṣaya` -> **condition** in the
+- `vijñānaskandha` -> **Cognition Base**; `viṣaya` -> **condition** in the
   1.16 study. Preserve the source terms and the local Bhāṣya gloss.
 - `viṣaya` -> **Condition** in the current 1.16 project translation; retain
   “object” for *ālambana* where that is the source term.

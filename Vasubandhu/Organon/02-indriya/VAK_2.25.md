@@ -281,7 +281,7 @@ necessary co-arising. This is a Practical-Kośa analysis of an operative
 ethical configuration, not a claim that the Bhāṣya is using either
 philosopher's vocabulary.
 
-**Return to the Dhātu Principle:** VAK 1.48 places Life, feeling, and the
+**Return to the Principle system:** VAK 1.48 places Life, feeling, and the
 five beginning with Faith among the Faculties in a portion of the
 Essence-Domain, and Mind-Faculty across the Citta Domains. VAK 2.25's
 similarly named items are mental factors, not thereby those Faculties:

@@ -116,7 +116,7 @@ not asserted that each selected determination by itself contains everything.
 | Selected determination | Contents established in the preceding studies |
 |---|---|
 | form-base (*rūpaskandha*) | five material faculties, five sensory objects, *avijñapti* |
-| mind-essence (*mana-āyatana*) | principle-base (*vijñānaskandha*) |
+| mind-essence (*mana-āyatana*) | Cognition Base (*vijñānaskandha*) |
 | dharma-principle (*dharmadhātu*) | *vedanā*, *saṃjñā*, *saṃskāra*, *avijñapti*, and the unconditioned |
 
 This is comprehensive coverage with overlap: *avijñapti* occurs in both the
@@ -198,7 +198,7 @@ one dharma can enter distinct classifications without erasing their
 differences. The complete census remains five Bases, twelve Essences, and
 eighteen Principles.
 
-The mind-essence is the Essence determination of the principle-base. As 1.17
+The mind-essence is the Essence determination of the Cognition Base. As 1.17
 shows, Manas is one of the six Principles in its immediately-past support
 office, not an additional principle-substance. The selected mind-essence
 therefore brings the Principle field into the threefold inclusion without

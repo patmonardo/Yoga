@@ -333,7 +333,7 @@ The Bhāṣya does not oppose law to conditioning. In the desire domain, other
 conditions can redirect the precise locus of maturation. The field determines
 the admissible range within which conditional variation operates.
 
-That is important for our developing Dhātu Principle:
+That is important for our developing Principle framework:
 
 ```text
 Dhātu
@@ -350,7 +350,7 @@ complete picture also requires `bhūmi`, the internal determination of level.
 
 This is the Organon contact. The objection, scriptural comparison, examples of
 mobile maturation, and definition through fixed maturation belong to the
-Bhāṣya; the explicit Dhātu Principle is project interpretation.
+Bhāṣya; the explicit Principle framework is project interpretation.
 
 ## 10. OWL++ Seed
 

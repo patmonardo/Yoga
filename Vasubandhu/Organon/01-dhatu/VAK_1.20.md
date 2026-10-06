@@ -56,7 +56,7 @@ rāśi-āya-dvāra-gotra-arthāḥ
 
 The Bhāṣya unfolds each compact meaning.
 
-For `āyatana`:
+For Essence:
 
 ```text
 citta-caittānām āyaṃ tanvanti
@@ -64,10 +64,10 @@ citta-caittānām āyaṃ tanvanti
     of mind and mental factors
 
 therefore:
-āyatana = functional access-gateway
+Essence = functional access-gateway
 ```
 
-For `dhātu`, the Bhāṣya uses the image of one mountain containing distinct
+For Principle, the Bhāṣya uses the image of one mountain containing distinct
 mines of iron, copper, silver, and gold:
 
 ```text
@@ -75,20 +75,20 @@ gotra = ākara
       = mine, source, generative deposit
 ```
 
-Within one support or continuum, the eighteen dhātus are eighteen such
-source-kinds. A conditioned dhātu functions as a homogeneous cause
+Within one support or continuum, the eighteen Principles are eighteen such
+source-kinds. A conditioned Principle functions as a homogeneous cause
 (`sabhāga-hetu`) of a subsequent occurrence of its own kind.
 
 An objection notes that this generative definition would exclude the
-unconditioned. The alternative teachers therefore generalize `dhātu` as the
+unconditioned. The alternative teachers therefore generalize Principle as the
 `jāti` or `svabhāva` of each of the eighteen dharmas. The grammar of `gotra`
 must consequently retain two connected senses:
 
 ```text
-conditioned dhātu
+conditioned Principle
     → source reproducing its own kind
 
-dhātu generally
+Principle generally
     → intrinsic kind or nature
 ```
 
@@ -100,34 +100,34 @@ expositions. `Tisraḥ` agrees with the feminine plural `deśanāḥ`.
 
 ### Close syntactic construe
 
-> Skandha, āyatana, and dhātu have respectively the meanings of collection,
+> Base, Essence, and Principle have respectively the meanings of collection,
 > gateway of mental extension, and source-kind. Because delusion, Faculty,
 > and inclination are each threefold, there are the three teachings
-> beginning with the bases.
+> beginning with Base.
 
 ### Bhāṣya-informed translation
 
-> A Base (*skandha*) is a conceptual gathering; an Essence (*āyatana*) is
-> an access-gateway through which consciousness and mental factors extend;
-> and a Principle (*dhātu*) is an intrinsic source-kind, like a distinct
+> A Base is a conceptual gathering; an Essence is an access-gateway through
+> which consciousness and mental factors extend; and a Principle is an
+> intrinsic source-kind, like a distinct
 > mine within a mountain and, for conditioned factors, a homogeneous cause
 > of its own kind. The Buddha teaches the Dharma through these three
 > presentations because those to be trained differ in what confuses them,
 > in Faculty, and in preference for brief, intermediate, or extensive
 > exposition.
 
-The Bhāṣya insists that `skandha` retain its scriptural collective meaning:
-the Base is a conceptual designation (`prajñapti`), not an additional
-substance over and above its constituents. This generic meaning does not
-erase the distinct classification of the *vijñānaskandha*.
+The Bhāṣya insists that Base retain its scriptural collective meaning:
+it is a conceptual designation (`prajñapti`), not an additional substance
+over and above its constituents. This generic meaning does not erase the
+distinct classification of the Cognition Base.
 
 ## 6. Philosophical Translation
 
 > A Dharma is articulated through three major top-level systems:
-> **Base, Essence, and Principle**. Base gathers a manifold as collection
-> (*rāśi*); Essence opens the access-gateway (*āya-dvāra*) through which
-> consciousness and mental factors arise and extend; Principle determines
-> source-kind (*gotra*). These are the three determinations of one Dharma
+> **Base, Essence, and Principle**. Base gathers a manifold as a collection.
+> Essence opens the access-gateway through which consciousness and mental
+> factors arise and extend; Principle determines source-kind. These are the
+> three determinations of one Dharma
 > System, not nested layers or independent substances. In conditioned
 > dharmas, source-kind can continue through homogeneous causation; the
 > unconditioned requires the broader determination of intrinsic kind. The
@@ -143,21 +143,21 @@ into independent ontologies.
 
 ## 7. Technical Vocabulary
 
-| Sanskrit | Project rendering | Determination |
+| Term | Project rendering | Determination |
 |---|---|---|
-| skandha | Base | collective classification; not an additional substance beyond its constituents |
+| Base | Base | collective classification; not an additional substance beyond its constituents |
 | rāśi | collection | conceptual gathering that does not add another substance |
-| prajñapti-sat | conceptually existent | status attributed to skandha as a collection |
+| prajñapti-sat | conceptually existent | status attributed to Base as a collection |
 | āya | arrival / extension | occurrence and spread of mind and mental factors |
 | dvāra | gateway | functional access-condition |
-| āyatana | Essence | access-gateway through which consciousness and mental factors arise and extend |
-| gotra | source-kind / lineage | principal meaning of dhātu in the Kārikā |
+| Essence | Essence | access-gateway through which consciousness and mental factors arise and extend |
+| gotra | source-kind / lineage | principal meaning of Principle in the Kārikā |
 | ākara | mine / generative matrix | Bhāṣya image clarifying `gotra` |
-| dhātu | principle / source-kind | intrinsic type and, where conditioned, source of its own kind |
-| jāti | kind | class-determination reproduced or expressed by a dhātu |
-| svabhāva | intrinsic nature | generalized basis for all eighteen principles, including the unconditioned |
-| vijñānaskandha | principle-base | the specific principle-base, distinct within the Base system |
-| rūpaskandha | Form Base | Form classified within the Base system |
+| Principle | Principle / source-kind | intrinsic type and, where conditioned, source of its own kind |
+| jāti | kind | class-determination reproduced or expressed by a Principle |
+| svabhāva | intrinsic nature | generalized basis for all eighteen Principles, including the unconditioned |
+| Cognition Base | Cognition Base | the specific Base, distinct within the Base system |
+| Form Base | Form Base | Form classified within the Base system |
 | sabhāga-hetu | homogeneous cause | cause producing a subsequent factor of the same kind |
 | moha | delusion | confusion to which a teaching responds |
 | indriya | Faculty | the learner's sharp, middling, or weak capacity |
@@ -210,15 +210,15 @@ The three teachings correspond in order to three learner profiles:
 
 | Teaching | Primary confusion | Capacity | Preferred extent |
 |---|---|---|---|
-| skandha | mental factors grasped as one undifferentiated personal unity | sharp | brief |
-| āyatana | form | middling | intermediate |
-| dhātu | both form and mind | weak | extensive |
+| Base | mental factors grasped as one undifferentiated personal unity | sharp | brief |
+| Essence | form | middling | intermediate |
+| Principle | both form and mind | weak | extensive |
 
 Formally:
 
 ```text
 LearnerCondition(moha, capacity, inclination)
-    → SelectPedagogicalForm(skandha | āyatana | dhātu)
+    → SelectPedagogicalForm(Base | Essence | Principle)
 ```
 
 The Dharma System remains one while its exposition varies.
@@ -228,14 +228,14 @@ The Dharma System remains one while its exposition varies.
 VAK 1.20 gives the three systems their respective functional meanings:
 
 ```text
-skandha / Base
-    = collection (rāśi)
+Base
+    = collection
 
-āyatana / Essence
-    = access-gate (āya-dvāra)
+Essence
+    = access-gate
 
-dhātu / Principle
-    = intrinsic source-kind (gotra)
+Principle
+    = intrinsic source-kind
 ```
 
 The Organon reads these not as nested sublayers or parallel inventories,

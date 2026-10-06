@@ -44,7 +44,7 @@ interpretation remains distinct.
 The unit begins with the opening of 1.15 at source marker `[010|19]` and
 ends with the sevenfold count at `[011|05]`. The complete saṃskāra
 discussion belongs here, although it is also reproduced in the research
-report for 1.14. The next study takes up the principle-base
+report for 1.14. The next study takes up the Cognition Base
 (*vijñānaskandha*) in 1.16.
 
 Word division and quotation punctuation have been supplied for reading. The
@@ -62,7 +62,7 @@ editions is claimed.
 
 > The formations other than the four constitute the Formations Base.
 > The formations other than the four—Form Base, Feeling Base, Reflection
-> Base, and the principle-base—constitute that Base. In a sūtra, however,
+> Base, and the Cognition Base—constitute that Base. In a sūtra, however,
 > the Blessed One
 > spoke of six groups of volition because of its predominance. For volition
 > is predominant in active formation because it has the nature of karma.
@@ -112,7 +112,7 @@ from the commentary's reasons for how it should be understood.
 **Lexical determination and construe**
 
 ```text
-rūpa-vedanā-saṃjñā-vijñānebhyaḥ  apart from the Form Base, Feeling Base, Reflection Base, and principle-base
+rūpa-vedanā-saṃjñā-vijñānebhyaḥ  apart from the Form Base, Feeling Base, Reflection Base, and Cognition Base
 caturbhyaḥ                       apart from these four Bases
 anye tu saṃskārāḥ                the other conditioned formations
 saṃskāraskandhaḥ                 constitute the Formations Base
@@ -125,7 +125,7 @@ The plural subject *saṃskārāḥ* receives the singular predicate
 
 The ablative `caturbhyaḥ` with `anye` means “other than the four.” The
 prose names them: Form Base, Feeling Base, Reflection Base, and the
-principle-base (*vijñānaskandha*). The supplied
+Cognition Base (*vijñānaskandha*). The supplied
 `saṃskārāḥ` determines what the otherwise compressed “others” refers to.
 The definition gathers the remaining conditioned formations; it does not
 place unconditioned dharmas in the Formations Base.
@@ -245,7 +245,7 @@ common classificatory position does not erase those differences.
 ## 8. The Bhāṣya's Decisions for the Kārikā
 
 1. “Other than the four” means the remaining formations outside the Form,
-   Feeling, Reflection, and principle-bases. The fourth is the
+   Feeling, Reflection, and Cognition Bases. The fourth is the
    *vijñānaskandha*.
 2. The sūtra's emphasis on volition is explained by predominance. The
    Formations Base is not restricted to volition alone.
@@ -263,7 +263,7 @@ common classificatory position does not erase those differences.
 **The remainder and the work of inclusion**
 
 The Formations Base is defined by remainder: conditioned formations
-other than the Form Base, Feeling Base, Reflection Base, and principle-base. The
+other than the Form Base, Feeling Base, Reflection Base, and Cognition Base. The
 Bhāṣya's appeal to six groups of volition does not narrow that remainder.
 *Cetanā* is prominent because it is karmic in character and active in
 forming the conditioned; predominance explains the sūtra's emphasis,
@@ -313,7 +313,7 @@ for rule systems that determine subsequent valuations. This verse does
 not specify those rules; it identifies the constituents that remain
 within the system's scope of determination.
 
-The word *vijñānaskandha* in the first clause names the principle-base;
+The word *vijñānaskandha* in the first clause names the Cognition Base;
 it is not by itself the Organon's term *vijñāna* for Principle Science.
 The Base–Essence–Principle projections are determinations of one Dharma,
 not three separate Dharmas. The sevenfold cross-mapping is an
@@ -333,7 +333,7 @@ The local `parijñāparihāṇe` and the numerical level of `sapta dravyāṇi` 
 explained rather than silently regularized. The scope of suffering,
 origin, and abandonment remains distinguished from the status of all
 conditioned factors. The Organon interpretation uses Base, Essence,
-Principle, and Reflection. It distinguishes the principle-base
+Principle, and Reflection. It distinguishes the Cognition Base
 (*vijñānaskandha*) from *vijñāna* as Principle Science. The cross-mapping preserves
 *avijñapti*'s Form Base and the unconditioned's absence of a Base. The
 study remains provisional pending critical reading. No independent collation against

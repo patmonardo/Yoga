@@ -8,17 +8,17 @@
 
 Literal:
 
-> Principle is respective apprehension. That is also Mind Essence.
-> Seven Principles are accepted: the six Principles, and Mind.
+> Cognition is respective apprehension. That is also Mind Essence.
+> Seven Principles are accepted: the six Cognition Principles, and Mind.
 
 Bhāṣya-informed:
 
-> Principle is apprehension with respect to each Condition. The
-> principle-base comprises six, from the Eye Principle through the
+> Cognition is apprehension with respect to each Condition. The
+> Cognition Base comprises six, from the Eye-Cognition Principle through the
 > Mind-Cognition Principle. That same base is Mind Essence. As
 > Principles, seven are accepted: those six, and Mind as Principle.
 
-The commentary glosses *prativijñapti*, divides the principle-base into
+The commentary glosses *prativijñapti*, divides the Cognition Base into
 six, places that same base as Mind Essence, and counts seven Principles.
 It then closes the chapter's first classification: five Bases, twelve
 Essences, eighteen Principles. The next question, whether the Mind
@@ -54,28 +54,28 @@ normalizations, not a critical text.
 
 ## 3. Continuous Translation
 
-> Principle is respective apprehension. Apprehension, *upalabdhi*, with
-> respect to each Condition is what is called the principle-base. That,
-> again, is six groups of Principle, from the Eye Principle through the
-> Mind-Cognition Principle. The principle-base just stated is, in the
+> Cognition is respective apprehension. Apprehension, *upalabdhi*, with
+> respect to each Condition is what is called the Cognition Base. That,
+> again, is six groups of Cognition, from the Eye-Cognition Principle through the
+> Mind-Cognition Principle. The Cognition Base just stated is, in the
 > Essence arrangement, also Mind Essence. In the Principle arrangement,
-> that same base is seven Principles. Which seven? The six Principles,
-> and Mind: the Eye Principle through the Mind-Cognition Principle, and
+> that same Base is seven Principles. Which seven? The six Cognition Principles,
+> and Mind: the Eye-Cognition Principle through the Mind-Cognition Principle, and
 > the Mind Principle.
 >
 > Thus five Bases, twelve Essences, and eighteen Principles are set out
 > here. The Form Base, apart from *avijñapti*, is ten Essences and ten
 > Principles. The three Bases beginning with Feeling, *avijñapti*, and the
 > unconditioned are the Dharma Essence and Dharma Principle. The
-> principle-base is Mind Essence, the six Principles, and the
+> Cognition Base is Mind Essence, the six Principles, and the
 > Mind Principle.
 
 ## 4. Movement of the Commentary
 
 ```text
-principle
+Cognition
     → apprehension with respect to each Condition
-    → six groups, Eye Principle through Mind-Cognition Principle
+    → six groups, Eye-Cognition Principle through Mind-Cognition Principle
     → Mind Essence, in the Essence arrangement
     → seven Principles
 
@@ -106,19 +106,19 @@ not reverse that.
 
 ## 6. One Base, an Essence, Seven Principles
 
-*Saḥ* resumes the principle-base and divides it into six groups. *Kāya*
+*Saḥ* resumes the Cognition Base and divides it into six groups. *Kāya*
 here is the group, the classificatory body. It does not by itself state
 a temporal mechanism.
 
 *Ya eṣa vijñānaskandha uktaḥ* fixes the subject of *tat*. The verse's
-"that" is the principle-base already defined. In the Essence arrangement
+"that" is the Cognition Base already defined. In the Essence arrangement
 it is named *mana āyatanam*. Same base, second determination. Not a
 mind-substance beside the principle.
 
 *Sa eva* carries that subject into the Principle arrangement. Seven
 positions: the six, and *manodhātu*. The Mind-Cognition Principle is one
 of the six. The Mind Principle is the further one. The text has not yet
-said how the principle-base stands to both, nor what the Mind Principle
+said how the Cognition Base stands to both, nor what the Mind Principle
 does. That is 1.17.
 
 ## 7. The Close
@@ -127,18 +127,18 @@ does. That is 1.17.
 |---|---|---|
 | Form Base, apart from *avijñapti* | ten Essences | ten Principles |
 | Feeling, Reflection, Formations, with *avijñapti* and the unconditioned | Dharma Essence | Dharma Principle |
-| principle-base | Mind Essence | six Principles and the Mind Principle |
+| Cognition Base | Mind Essence | six Principles and the Mind Principle |
 | five | twelve | eighteen |
 
 The first row keeps *avijñapti* out of the ten. It does not remove
 *avijñapti* from the Form Base. The second places it with the three Bases
-and the unconditioned. The third gives the principle-base one Essence
+and the unconditioned. The third gives the Cognition Base one Essence
 and seven Principles.
 
 The arithmetic is `10 + 1 + 1 = 12` and `10 + 1 + 7 = 18`.
 
 The five Bases are Form, Feeling, Reflection, Formations, and the
-principle-base.
+Cognition Base.
 The unconditioned have no Base. *Avijñapti* keeps the Form Base and also
 enters the Dharma Essence-Principle pair. One content under distinct determinations. Not
 further substances.
@@ -147,7 +147,7 @@ further substances.
 
 1. *Prativijñapti* is apprehension with respect to each Condition, glossed
    by *upalabdhi*.
-2. The six groups run from the Eye Principle through the
+2. The six groups run from the Eye-Cognition Principle through the
    Mind-Cognition Principle.
 3. *Tat* is that same base. In the Essence arrangement it is the
    Mind Essence.
@@ -180,10 +180,10 @@ The verse and Bhāṣya specify the Defined Concept's three projections:
 
 | Base | Essence | Principle |
 |---|---|---|
-| principle-base (*vijñānaskandha*) | Mind Essence (*mana-āyatana*) | six Principles (*vijñāna*) and Mind Principle (*manodhātu*) |
+| Cognition Base (*vijñānaskandha*) | Mind Essence (*mana-āyatana*) | six Cognition Principles and Mind Principle (*manodhātu*) |
 
 *Tat* resumes *vijñānam*; the prose fixes the referent as the same
-principle-base under its Essence determination. This is one Dharma
+Cognition Base under its Essence determination. This is one Dharma
 under `<Base, Essence, Principle>`, not a mind-substance beside the
 Principle. At the project level, *manas* is the Produced Cognitive
 Instrument equipped with Mind Essence and Mind Principle; this is not
@@ -207,6 +207,6 @@ through the classificatory close, and the five / twelve / eighteen count
 checked against the running Sanskrit. Source repairs recorded in section
 2.
 
-*Vijñāna* is rendered Principle, not Cognition or consciousness. The
+*Vijñāna* is rendered Cognition, distinct from consciousness and Mind. The
 Kantian interpretation remains separate from the Kārikā translation.
 The Mind Principle argument remains for 1.17.

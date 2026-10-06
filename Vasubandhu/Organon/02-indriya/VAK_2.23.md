@@ -275,7 +275,7 @@ structure is read through that unfolding, while each proposed correspondence
 must be grounded in the actual factor membership and operating ranges rather
 than assumed from the class names.
 
-**Return to the Dhātu Principle:** VAK 1.48 maps the Mind-Faculty across the
+**Return to the Principle system:** VAK 1.48 maps the Mind-Faculty across the
 seven Citta Domains while distinguishing that Faculty-locus from the
 conditioned dharmas known through Mind-Cognition. VAK 2.23 does not turn
 mental factors into additional Faculties: it gives the Rule of their

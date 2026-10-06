@@ -1,4 +1,4 @@
-# VAK_1.12 — Four Great Elements: Principles, Functions, and Form
+# VAK_1.12 — The Four Great Elements
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -14,128 +14,85 @@
 
 ## 3. Lexical Analysis
 
-**Word division**
-
 ```text
-bhūtāni | pṛthivī-dhātuḥ | ap-tejas-vāyu-dhātavaḥ |
-dhṛti-ādi-karma-saṃsiddhāḥ | khara-sneha-uṣṇatā-īraṇāḥ
+bhūtāni pṛthivīdhātur       → bhūtāni + pṛthivīdhātuḥ
+aptejo-vāyudhātavaḥ         → ap + tejas + vāyu + dhātavaḥ
+dhṛtyādikarmasaṃsiddhāḥ     → dhṛti + ādi + karma + saṃsiddhāḥ
+kharasnehoṣṇateraṇāḥ        → khara + sneha + uṣṇatā + īraṇāḥ
 ```
 
-**Sandhi**
-
-| Verse form | Resolution | Operation |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
-| pṛthivīdhātur ap | pṛthivīdhātuḥ + ap | visarga becomes r before the following vowel |
-| aptejo-vāyu | ap + tejas + vāyu | compound sandhi in tejas + vāyu |
-| dhṛtyādi | dhṛti + ādi | i becomes y before the following vowel |
-| uṣṇateraṇāḥ | uṣṇatā + īraṇāḥ | ā and ī combine as e |
-
-**Lexical and morphological determination**
-
-| Form | Segmentation | Morphology and force |
-|---|---|---|
-| bhūtāni | bhūta | nominative neuter plural; Elements |
-| pṛthivīdhātuḥ | pṛthivī + dhātu | nominative singular; earth-Principle |
-| ap-tejo-vāyu-dhātavaḥ | ap + tejas + vāyu + dhātu | nominative masculine plural; water-, fire-, and wind-Principles |
-| dhṛtyādi-karma-saṃsiddhāḥ | dhṛti + ādi + karma + saṃsiddha | nominative masculine plural; established in functions beginning with support |
-| khara-snehoṣṇateraṇāḥ | khara + sneha + uṣṇatā + īraṇā | coordinated character-terms: hardness, cohesion, heat, and impulsion |
-
-The first line names earth in the singular, then gives water, fire, and
-wind in the plural. In dhṛtyādi-karma, ādi means “beginning with,” while
-karma means function or operation. The final compound lists four terms;
-the Kārikā itself does not use svabhāva (“own-character”) or spell out
-the four functions individually. Their ordered pairing is established
-in the Bhāṣya.
+| bhūtāni | nominative neuter plural | Elements |
+| pṛthivīdhātuḥ | nominative masculine singular compound | Earth Principle |
+| ap-tejas-vāyu-dhātavaḥ | nominative masculine plural compound | Water, Fire, and Wind Principles |
+| dhṛti-ādi-karma-saṃsiddhāḥ | nominative masculine plural compound | established in functions beginning with support |
+| khara-sneha-uṣṇatā-īraṇāḥ | coordinated character-terms | hardness, cohesion, heat, and impulsion |
 
 ## 4. Grammar
 
 ```text
 Great Elements
-    = earth-Principle
-    + water-Principle
-    + fire-Principle
-    + wind-Principle
+    = Earth Principle
+    + Water Principle
+    + Fire Principle
+    + Wind Principle
+
+functions beginning with support
+four characters: hardness, cohesion, heat, impulsion
 ```
 
-The Kārikā states that these Principles are established in functions
-beginning with support, then gives four character-terms.
-
-```text
-function             character
-support              hardness
-gathering            cohesion
-ripening             heat
-spreading            impulsion
-```
-
-The Bhāṣya explicitly supplies the function / own-character pairing.
+The verse names the four Principles and says they are established in
+functions beginning with support. The Bhāṣya pairs the functions with the
+four characters.
 
 ## 5. Translation
 
-### Literal
+### Literal Translation
 
-The Elements are the earth-Principle and the water-, fire-, and
-wind-Principles. They are established in functions beginning with support;
-the verse then names hardness, cohesion, heat, and impulsion.
+The Elements are the Earth Principle and the Water, Fire, and Wind
+Principles. They are established in functions beginning with support; the
+verse then names hardness, cohesion, heat, and impulsion.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
-The four Great Elements are those four Principles. They are called
-Principles because they hold their own-character and derived Form. Their
-greatness is either their magnitude as support of all other Form or their
-great gathering in masses of earth, water, fire, and wind, where the
-corresponding Principle operates prominently. The functions are support,
-gathering, ripening, and spreading; their own-characters are hardness,
-cohesion, heat, and impulsion. Lightness named in the treatises is
-derived Form, not the wind-Principle.
+The four Great Elements are those four Principles. Their functions are
+support, gathering, ripening, and spreading; their characters are hardness,
+cohesion, heat, and impulsion.
 
-## 6. Philosophical Translation
+## 6. Systematic Placement
 
-1.11 depends on the Great Elements; 1.12 names them as four Principles.
-The Bhāṣya pairs each Principle's function with its own-character:
+| Principle | Function | Character |
+|---|---|---|
+| Earth | support | hardness |
+| Water | gathering | cohesion |
+| Fire | ripening | heat |
+| Wind | spreading | impulsion |
 
-```text
-Earth-Principle      support        hardness
-Water-Principle      gathering      cohesion
-Fire-Principle       ripening       heat
-Wind-Principle       spreading      impulsion
-```
+## 7. Technical Vocabulary
 
-Function and own-character are two ordered determinations, not synonyms.
-The Bhāṣya says that function makes the Principle's own-character evident.
-In its second account of greatness, *skandha* means a mass or aggregation,
-not one of the five Bases.
-
-## 7. Vocabulary
-
-| Sanskrit | In this verse |
-|---|---|
-| bhūta | Element |
-| dhātu | Principle |
-| dhṛti | support |
-| saṃgraha | gathering |
-| pakti | ripening |
-| vyūhana | spreading |
-| khara | hardness |
-| sneha | cohesion |
-| uṣṇatā | heat |
-| īraṇā | impulsion |
-| svabhāva | own-character; supplied by the Bhāṣya |
+| Sanskrit | Rendering | Note |
+|---|---|---|
+| bhūta | Element | one of the four Great Elements |
+| dhātu | Principle | here, Earth, Water, Fire, or Wind |
+| dhṛti | support | first function named |
+| sneha | cohesion | character associated with Water |
+| uṣṇatā | heat | character associated with Fire |
+| īraṇā | impulsion | character associated with Wind |
 
 ## 8. Logical Determination
 
 ```text
-1.11  avijñapti depends on the Great Elements
-1.12  four Elements as Principles, with function and own-character
-1.13  worldly Form and the Principle itself are distinguished
+Earth     support     hardness
+Water     gathering   cohesion
+Fire      ripening    heat
+Wind      spreading   impulsion
 ```
 
 ## 9. Interpretive Note
 
-The hinge is the ordered pairing of function and own-character. The
-Bhāṣya's *skandha* in *pṛthivy-ap-tejo-vāyu-skandheṣu* means a mass, not
-one of the five Bases. The Kārikā names four Principles; the function and
-own-character analysis comes from the Bhāṣya.
+The function and character are related but distinct: the Bhāṣya supplies
+their pairings.
 
 ## 10. OWL++ Seed
 

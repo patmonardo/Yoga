@@ -104,7 +104,7 @@ of Principles in others.
 
 Organon reading:
 
-> As a project interpretation, the verse shows the Principle of a Dharma holding differentiated determinations in one architecture: Cognition-access, conditionedness and permanence, and Faculty-status. No one determination absorbs the others. The Dhātu Principles are not a flat inventory; their relations form a structured Principle system. This closes the Dhātu study, while the special Principle:Rule pass remains for after the Indriya-nirdeśa.
+> As a project interpretation, the verse shows the Principle of a Dharma holding differentiated determinations in one architecture: Cognition-access, conditionedness and permanence, and Faculty-status. No one determination absorbs the others. The Principles are not a flat inventory; their relations form a structured Principle system. This closes the Principle study, while the special Principle:Rule pass remains for after the Indriya-nirdeśa.
 
 ## 7. Technical Vocabulary
 

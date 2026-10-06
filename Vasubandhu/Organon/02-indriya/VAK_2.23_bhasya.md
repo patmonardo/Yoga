@@ -211,7 +211,7 @@ operating range in the conventional account; the progression is the
 project's interpretation of how those ranges articulate Path. It does not
 make the five named factor-classes identical to five or ten stages.
 
-**Return to the Dhātu Principle:** VAK 1.48 places Mind-Faculty across the
+**Return to the Principle system:** VAK 1.48 places Mind-Faculty across the
 seven Citta Domains. That typed incidence is not the same determination as
 the mental factors associated with Citta; VAK 2.23 makes their necessary
 co-arising explicit without converting a factor into a Faculty. The Rule of

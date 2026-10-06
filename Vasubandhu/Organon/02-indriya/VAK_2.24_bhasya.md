@@ -214,9 +214,9 @@ the event through its ten co-arising functions. This is the Practical
 Kośa's operative demonstration of the method, not a historical claim about
 Vasubandhu.
 
-**Return to the Dhātu Principle:** VAK 1.48 maps Mind-Faculty across seven
+**Return to the Principle system:** VAK 1.48 maps Mind-Faculty across seven
 Citta Domains. That placement is distinct from the ten mental functions
-co-arising with each Citta-event. The Dhātu Principle establishes typed
+co-arising with each Citta-event. The Principle framework establishes typed
 placement; the Rule here articulates the universal organization of the
 event. Across the Samyama-bhūmis, the functions are followed as a common
 basis for Path development, without being equated with the bhūmis or
