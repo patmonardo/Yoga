@@ -1,4 +1,4 @@
-# VAK_2.71
+# VAK 2.71 — Beginning the Refinement into Twenty
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -153,7 +153,7 @@ The details of the neutral subdivisions belong to the next verse.
 They are referenced here to establish the arithmetic and syntactic
 scope, not presented as additional literal content of 2.71.
 
-## 9. Interpretive Note
+## 9. Interpretation
 
 **Bhāṣya control.** Both first-pass files say that dividing the three
 wholesome kinds alone produces twenty from twelve. That cannot be the
@@ -179,6 +179,14 @@ Essence, Vol. II's Loka:Karma is Appearance, a later transition after
 the Indriya chapter. The finer kinds do not simply inherit every relation
 of the coarser twelvefold scheme.
 
-**Review status.** Provisional polished study checked against the research
+The lesson is refinement without erasure. Dividing the three wholesome kinds
+by application-produced and birth-acquired gives fifteen, not twenty; 2.72
+must complete the new determinations. A more determinate rule therefore
+does not merely add labels to the old twelve-kind system but changes what
+must be checked in its successor relations.
+
+## 10. Review Status
+
+Final Indriyanirdeśa refinement pass complete. Checked against the research
 kārikā, research Bhāṣya, and running source at 105.24–106.12, with 2.72's
 contribution explicitly distinguished. Original witnesses remain unchanged.

@@ -217,7 +217,7 @@ alone suffices for the entire path. *Nirmāṇa* in the cultivation example
 means transformation; the source here does not explicitly repeat
 “transformation-mind.” These construals remain provisional.
 
-## 9. Philosophical and Organon Study
+## 9. Interpretation
 
 In the Organon reading, “taking” and “giving” name distinct causal
 operations, but not a universal two-stage sequence: co-arisen and associated
@@ -237,9 +237,16 @@ analysis by classifying dharmas according to how many causes produce them;
 the four *pratyayas* are taken up later. This is a source-sequence note, not
 a further claim made by the present kārikā.
 
+The difficulty of the verse is also its teaching. Do not ask merely whether a
+cause is before its result. Ask two questions: when does the cause assume
+seed-status toward this fruit, and when does it give this fruit? The answers
+are type-specific. This preserves simultaneous causal efficacy where the
+Bhāṣya asserts it, immediate succession where it asserts that, and delayed
+maturation without flattening any of them into one temporal model.
+
 ## 10. Review Status
 
-Provisional fifty-ninth study of the restarted Indriyanirdeśa Bhāṣya
+First extended Hetu pass complete. The fifty-ninth study of the restarted Indriyanirdeśa Bhāṣya
 sequence. The kārikā anchor, research Bhāṣya, prior boundary, and running
 Sanskrit have been compared. The fourfold examples, their corrections,
 and all four alternative result-examples are retained.

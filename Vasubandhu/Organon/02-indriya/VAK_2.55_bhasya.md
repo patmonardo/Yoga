@@ -457,7 +457,7 @@ provisionally construed as field-property. The anomalous source label
 near 94.11 is omitted with the other labels and does not reorder the
 fivefold explanation. No manuscript collation is claimed.
 
-## 9. Philosophical and Organon Study
+## 9. Interpretation
 
 As Organon interpretation, the passage makes the demand for causal
 intelligibility confront its own scope. A produced acquisition, a
@@ -479,15 +479,23 @@ without being produced as a conditioned event. This project-level synthesis
 does not settle the Bhāṣya's disagreement over whether disconnection is a
 distinct real entity or non-arising understood through its causes.
 
+The lesson for Absolute Logic is exact and limited. The Absolute is not
+introduced as another causal item, nor is the unconditioned made an event
+behind conditioned events. Rather, causal explanation becomes adequate only
+when it distinguishes temporal production, acquisition, object-condition,
+non-obstruction, and the disclosed non-recurrence of affliction. No isolated
+determinate Dharma can furnish that perspective by itself; the perspective is
+the articulated whole of these relations.
+
 ## 10. Review Status
 
-Provisional fifty-fifth study of the restarted Indriyanirdeśa Bhāṣya
+First extended Hetu pass complete. The fifty-fifth study of the restarted Indriyanirdeśa Bhāṣya
 sequence. The kārikā anchor, research Bhāṣya, prior boundary, and running
 Sanskrit have been compared. The complete temporal opening and
 unconditioned debate are translated through the final Vaibhāṣika reply,
 including exchanges compressed or omitted in the research file.
 
 Damaged readings and contextual construals are marked. Original witnesses
-and existing studies are unchanged. The study remains provisional,
+and existing studies are unchanged; the textual decisions remain provisional
 without independent edition or manuscript collation. VAK 2.56 begins
 at 94.18 with the assignment of results to causes.

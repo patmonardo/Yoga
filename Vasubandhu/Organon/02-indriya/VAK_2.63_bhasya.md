@@ -121,7 +121,7 @@ the account of conditions together with their activity. The next
 question, how many conditions different dharmas arise from, belongs
 to 2.64.
 
-## 6. Philosophical and Organon Study
+## 6. Interpretation
 
 As Organon interpretation, the passage adds a necessary determination
 to the name of a relation: the state of the term in relation to which
@@ -148,9 +148,14 @@ distinct determinations. This unit does not define Samādhi; the project's
 more definitional approach belongs to Yoga Dharmapada (YS-IV), not to
 this account of conditional activity.
 
+The question of the verse is thus more exact than “what causes what?” It
+asks in what state of the conditioned Dharma a condition exercises its
+activity. This preserves the distinct directedness of the five causes,
+immediately antecedent condition, object-condition, and predominance.
+
 ## 7. Review Status
 
-Provisional continuous study checked against the research kārikā and
+First Pratyaya foundation pass complete. Checked against the research kārikā and
 Bhāṣya, the polished kārikā, and the complete running-source unit at
 100.19–101.06. Continuous Sanskrit and conventional translation precede
 the focused analysis. The anomalous source label and transcription

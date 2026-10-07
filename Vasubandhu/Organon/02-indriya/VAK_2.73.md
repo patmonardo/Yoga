@@ -1,4 +1,4 @@
-# VAK_2.73
+# VAK 2.73 — Acquisition and the Close of Indriyanirdeśa
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -144,7 +144,7 @@ wholesome; trainee and beyond-training. These are aggregate profiles
 across occasions. This correction does not replace the verse's particular
 three-kind form-wholesome or four-kind trainee profiles.
 
-## 9. Interpretive Note
+## 9. Interpretation
 
 **Corrections to the first pass.** The earlier kārikā translation attached
 “of two” to wholesome mind and left the final rule undetermined. The
@@ -192,7 +192,15 @@ Loka:Karma receives Dead Being and resurrects it by determining its
 next state. This is the Organon's synthesis, not a claim made by the
 2.73 kārikā or colophon.
 
-**Review status.** The paired study is checked against both research
+The closing training distinction is exact: what is manifest, what is
+acquired, and what is possessed are not synonyms. A present mind can mark an
+occasion for acquiring another kind without making that kind presently
+manifest. This preserves the acquisition question as a new determination,
+not a final successor-count.
+
+## 10. Review Status
+
+Final Indriyanirdeśa refinement pass complete. The paired study is checked against both research
 witnesses, the standalone kārikā, and the running source at 109.04–110.08.
 It includes the acquisition profiles and occasions, the competing
 summary and correction, the summary verse, and the chapter colophon.

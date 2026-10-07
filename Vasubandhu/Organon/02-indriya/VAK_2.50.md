@@ -107,17 +107,22 @@ remaining clause:
 > a dharma is a co-arisen cause of its subsidiary marks, but they are not
 > co-arisen causes of it.
 
-## 6. Limited Organon Reading
+## 6. Interpretation
 
 The text gives three examples for the co-arisen-cause relation and adds an
-explicitly asymmetric case. Within the project's Hub-of-Power reading, the
-consciousness-and-followers example gives a textual point of contact for the
-`citta:caitta` dyad; the preceding transition from result-classification to
-causes and conditions, followed by the six causes, situates this within the
-broader `hetu:pratyaya` inquiry. Reading these as the two principial extremes
-projected and organized by an invariant Hub is the project's synthesis, not
-a claim made in this local Bhāṣya. The Hub is not an additional cause among
-the examples.
+explicitly asymmetric case. It thereby rejects two inadequate perspectives:
+mere simultaneous presence does not yet explain causation, and mutual
+resulthood is not an exceptionless formula. A determinate Dharma can stand in
+a reciprocal causal relation only where the specified relation obtains; its
+identity as a Dharma does not supply the relation in advance.
+
+Within the project's Hub-of-Power reading, the consciousness-and-followers
+example gives a textual point of contact for the `citta:caitta` dyad; the
+preceding transition from result-classification to causes and conditions,
+followed by the six causes, situates this within the broader `hetu:pratyaya`
+inquiry. Reading these as the two principial extremes projected and organized
+by an invariant Hub is the project's synthesis, not a claim made in this
+local Bhāṣya. The Hub is not an additional cause among the examples.
 
 ## 7. Technical Vocabulary
 
@@ -197,7 +202,7 @@ organon:OcularCausalSchema a organon:Schema ;
 
 ## 11. Review Status
 
-Provisional paired study of VAK 2.50. The first clause is treated with
+First Hetu-definition pass complete. The first clause is treated with
 VAK 2.49 at 83.16–17; this unit follows the co-arisen-cause discussion
 from 83.18 through the subsidiary-mark qualification at 83.24. The
 question about followers of consciousness begins at 83.25. The Organon

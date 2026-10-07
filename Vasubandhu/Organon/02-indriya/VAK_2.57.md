@@ -1,4 +1,4 @@
-# VAK_2.57 — Definitions of Three Results
+# VAK 2.57 — Definitions of Three Results
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -157,7 +157,7 @@ The homogeneous/pervasive relation admits four cases:
 | 3 | yes | yes | pervasive and same specific afflictive type |
 | 4 | no | no | remaining causal cases |
 
-## 9. Interpretive Note
+## 9. Interpretation
 
 VAK 2.56 assigns principal fruits; 2.57 defines maturation, homogeneous
 outflow, and disconnection. The Bhāṣya's definitions prevent these results
@@ -168,3 +168,30 @@ cessation.
 
 The unit runs from 95.09 through 96.02. The next kārikā, VAK 2.58, begins at
 96.03.
+
+For study, treat maturation as a cumulative test, not as a synonym for a
+delayed effect:
+
+```text
+maturation-result
+    = unobscured-indeterminate
+    + from a wholesome or unwholesome cause
+    + later, not simultaneous or immediately subsequent
+    + non-common to the relevant sentient continuum
+```
+
+Homogeneous outflow asks instead about relevant similarity, while
+disconnection names cessation through insight. These three answers to
+“what is the result?” are irreducibly different; the proper causal
+perspective is the relation qualified in this way, not an isolated Dharma
+or a generic effect-label.
+
+## 10. Review Status
+
+First extended results pass complete. The cumulative maturation definition,
+the four cases of homogeneous and pervasive causality, and the bounded
+gloss of disconnection are retained without importing an unargued mechanism
+of liberation.
+
+Textual uncertainties remain marked. No independent manuscript or critical
+edition collation has been performed.

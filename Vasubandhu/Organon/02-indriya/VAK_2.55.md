@@ -1,4 +1,4 @@
-# VAK_2.55 — Temporal Scope of Causes and Their Fruits
+# VAK 2.55 — Temporal Scope of Causes and Their Fruits
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -214,7 +214,7 @@ ObjectOf(unconditioned, cognition)
     ⇏ ProductivelyGenerates(unconditioned, cognition)
 ```
 
-## 9. Interpretive Note
+## 9. Interpretation
 
 VAK 2.55 does more than attach timestamps to causes. It tests whether the
 causal schema can contain its own limit. The first half is recognizably
@@ -238,6 +238,14 @@ Disconnection
 This preserves both genetic accountability and the unconditioned character
 of liberation. Cause explains how the continuum changes; it does not convert
 the truth disclosed by that change into another temporal product.
+
+This is the relevant sense of Absolute Logic for the present study. It does
+not posit an Absolute as a seventh cause outside the causal series. It
+requires that cause, fruit, acquisition, object-condition, and disconnection
+be held in their determinate relations, and it recognizes where productive
+causality reaches its own boundary. The perspective is therefore not supplied
+by an isolated Dharma: it emerges from the complete articulation of the
+relations at issue.
 
 The first half fixes temporal scope for the causes; the second limits how
 cause and fruit apply to the unconditioned. The Bhāṣya's debate does not
@@ -263,3 +271,13 @@ Organon reconstruction
     → distinguishes productive transformation,
       acquisition, disclosure, and prevention
 ```
+
+## 10. Review Status
+
+First extended Hetu pass complete. The source unit runs from 90.23 through
+94.17, ending before the assignment of fruits at 94.18. The temporal
+classification, the full unconditioned debate, and the final Abhidharma
+defense remain distinct from the next study's result assignments.
+
+Textual uncertainties remain marked. No independent manuscript or critical
+edition collation has been performed.

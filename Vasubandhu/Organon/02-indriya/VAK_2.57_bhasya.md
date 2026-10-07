@@ -174,7 +174,7 @@ side of the earlier cessation debate. That account is not imported
 into the continuous translation here. The question about all results
 opens this unit, but the remaining definitions belong to VAK 2.58.
 
-## 9. Philosophical and Organon Study
+## 9. Interpretation
 
 The Organon reading preserves three distinct criteria in the Bhāṣya:
 ethical status, temporal and sentient-continuum conditions for maturation;
@@ -186,9 +186,15 @@ The final distinction also remains bounded by the text: the Bhāṣya glosses
 not explain a mechanism by which wisdom produces cessation or settle the
 earlier dispute about the unconditioned.
 
+The learning discipline is to retain the distinct questions. A maturation
+result asks after ethical source, delay, and non-common appropriation; a
+homogeneous outflow asks after the respect of similarity; disconnection asks
+after cessation through wisdom. Calling all three “effects” loses the
+determinations by which the Bhāṣya makes causal explanation answerable.
+
 ## 10. Review Status
 
-Provisional fifty-seventh study of the restarted Indriyanirdeśa
+First extended results pass complete. The fifty-seventh study of the restarted Indriyanirdeśa
 Bhāṣya sequence. The kārikā anchor, research Bhāṣya, preceding
 boundary, and running Sanskrit at 95.09–96.02 have been compared.
 The complete three-result unit and fourfold analysis are translated.

@@ -373,7 +373,7 @@ that successive minds have identical ethical or meditative status.
 “Object-condition” remains distinct from “support,” translating
 *ālambana* and *āśraya* respectively.
 
-## 9. Philosophical and Organon Study
+## 9. Interpretation
 
 For the Organon study, the passage teaches the need to determine
 which relation is at issue. Being earlier, being a support, being
@@ -403,9 +403,14 @@ systematic definition of Samādhi in this passage. The more definitional
 approach belongs to the project's Yoga Dharmapada study of YS-IV; it should
 not be imported into this translation.
 
+The practical discipline is to state the conditional relation before drawing
+an inference: immediately antecedent, object, support, and predominance are
+not competing names for one relation. Their distinctions are the preparation
+for a later account of the manifest movement in Loka–Karma.
+
 ## 10. Review Status
 
-Provisional continuous study of 2.62, checked against the research
+First Pratyaya foundation pass complete. Checked against the research
 witnesses, polished kārikā, prior commentary boundary, and running
 source at 98.09–100.18. The quantitative objection, whole-complex reply,
 own-kind proposal, future-knowledge alternatives, both fourfold analyses,

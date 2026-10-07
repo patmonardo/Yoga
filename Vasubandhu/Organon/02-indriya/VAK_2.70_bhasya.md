@@ -139,7 +139,7 @@ position or separately explaining each permitted transition. The
 translation preserves that expository form and does not introduce
 additional voices or unexpressed transition mechanisms.
 
-## 7. Philosophical and Organon Study
+## 7. Interpretation
 
 **Organon interpretation—not literal Bhāṣya doctrine.** This closes the
 twelve-kind account, not the Indriya chapter: the next verse continues
@@ -149,9 +149,15 @@ Vol. II's Loka:Karma is Appearance, a later transition after the chapter.
 The asymmetric profiles show that equal counts need not have the same
 members, and that path classification is not a person's permanent status.
 
+The completed twelve-kind account demonstrates that rule and member cannot
+be separated. Equal counts need not contain the same kinds, and the
+immediate succession of a trainee or beyond-training mind does not determine
+the enduring status of a person. This is a discipline of typed transitions,
+not a doctrine of fixed personal identities.
+
 ## 8. Review Status
 
-Provisional continuous study checked against the research Bhāṣya,
+First succession pass complete. Checked against the research Bhāṣya,
 polished kārikā, prior unfinished clause, and running source at
 105.08–26. All four profiles and the explicit closure are translated;
 counts and the distinct seven-member sets are verified. The contribution

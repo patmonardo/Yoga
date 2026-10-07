@@ -1,4 +1,4 @@
-# VAK_2.63
+# VAK 2.63 — Activity and the State of the Conditioned Dharma
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -163,7 +163,7 @@ it specifies what is directed toward arising. Nor does “ceasing” mean
 already past or absent. These are the account's technical temporal
 determinations, not ordinary descriptions of a prolonged process.
 
-## 9. Interpretive Note
+## 9. Interpretation
 
 **Bhāṣya control of the reading.** The opening question asks in what
 state of a dharma the conditions exercise their activity. That question
@@ -192,7 +192,15 @@ other. This unit does not define Samādhi. The project's more definitional
 approach belongs to Yoga Dharmapada (YS-IV), not to this verse's
 analysis of conditional activity.
 
-**Review status.** Provisional polished study, checked against the
+The study advance is that a condition's name is not yet its complete
+determination. One must also ask the state of the Dharma toward which its
+activity is directed: arising, ceasing, or non-obstruction in every state.
+This prevents temporal language from being mistaken for a single, flat
+before-and-after model.
+
+## 10. Review Status
+
+First Pratyaya foundation pass complete. Checked against the
 kārikā and research Bhāṣya and the running commentary through 101.06.
 The first-pass broken sentence has been corrected, and the formerly
 unspecified counts are resolved. Original witnesses remain unchanged.

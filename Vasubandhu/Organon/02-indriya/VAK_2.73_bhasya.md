@@ -203,7 +203,7 @@ the acquisition occasions, followed by two explicit closures. The
 colophon is included through 110.08; the following isolated attribution
 at 110.09 lies outside this commentary unit.
 
-## 7. Philosophical and Organon Study
+## 7. Interpretation
 
 **Organon interpretation—not literal Bhāṣya doctrine:** The closing
 passage distinguishes a mind-kind's manifestation from its acquisition
@@ -229,9 +229,15 @@ Loka:Karma receives Dead Being and resurrects it by determining its
 next state. This is the Organon's synthesis, not a claim made by the
 2.73 kārikā or colophon.
 
+The chapter's final discipline distinguishes manifestation, acquisition, and
+possession. A mind-kind can be acquired on a specified occasion without being
+the mind presently manifest, so *lābha* cannot be reduced to immediate
+succession. The chapter therefore closes not by collapsing its distinctions
+but by adding the relation required to hold them in a continuum.
+
 ## 8. Review Status
 
-Provisional continuous study checked against the research Bhāṣya,
+Final Indriyanirdeśa refinement pass complete. Checked against the research Bhāṣya,
 polished kārikā, and running source at 109.04–110.08. All acquisition
 profiles, specified occasions, the competing summary and correction,
 summary verse, and chapter colophon are translated. The problematic

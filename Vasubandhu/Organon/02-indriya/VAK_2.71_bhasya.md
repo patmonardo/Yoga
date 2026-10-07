@@ -98,7 +98,7 @@ passage. The opening beyond-training successor clause is neither
 omitted from the edition nor translated twice as though it introduced
 this subdivision.
 
-## 7. Philosophical and Organon Study
+## 7. Interpretation
 
 **Organon interpretation—not literal Bhāṣya doctrine.** This remains
 within Vol. I's Essence-side inquiry: the twelve mind-kinds are refined
@@ -108,9 +108,15 @@ Essence, Vol. II's Loka:Karma is Appearance, a later transition after
 the Indriya chapter. The finer kinds do not simply inherit every relation
 of the coarser twelvefold scheme.
 
+The source's arithmetic is itself a rule of interpretation: the first
+subdivision yields fifteen, so the announced twenty requires the further
+realm-specific divisions that follow. Refinement changes the classification
+without authorizing an unmarked transfer of every twelve-kind succession
+rule to each new kind.
+
 ## 8. Review Status
 
-Provisional continuous study checked against the research Bhāṣya,
+Final Indriyanirdeśa refinement pass complete. Checked against the research Bhāṣya,
 polished kārikā, preceding explicit closure, and running source at
 105.27–106.04. The subsequent divisions at 106.05–12 were checked
 only to establish the continuation and arithmetic. Original witnesses

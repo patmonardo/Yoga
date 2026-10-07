@@ -140,7 +140,7 @@ occurrence has every listed successor available regardless of the
 person's attainment or situation. The continuous translation follows
 the source's “arise”; the analysis makes this scope explicit.
 
-## 7. Philosophical and Organon Study
+## 7. Interpretation
 
 **Organon interpretation—not literal Bhāṣya doctrine.** This succession
 analysis remains within Vol. I's Essence-side inquiry: it determines how
@@ -152,9 +152,14 @@ constitute the later
 Bhava-Chakra account. The counts constrain possible transitions rather
 than give a universal or unrestricted transition rule.
 
+The directional asymmetry is the lesson. A predecessor set and a successor
+set need not coincide, even where both concern the same named kind. The
+enumeration trains discrimination of immediate rule-governed relations, not
+prediction from a generic mental identity.
+
 ## 8. Review Status
 
-Provisional continuous study checked against the research Bhāṣya,
+First succession pass complete. Checked against the research Bhāṣya,
 polished kārikā, twelve-kind classification, and complete running-source
 unit at 103.19–104.08. The opening syntactic note, four remotenesses,
 entry and emergence contexts, rebirth qualifications, and both repeated

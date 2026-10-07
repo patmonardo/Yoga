@@ -1,4 +1,4 @@
-# VAK_2.62
+# VAK 2.62 — Succession, Object, and Predominance
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -177,7 +177,7 @@ a dharma in relation to itself, and conditioned or unconditioned dharmas
 in relation to an unconditioned target. It does not ask whether a single
 pair must exemplify all four conditions.
 
-## 9. Interpretive Note
+## 9. Interpretation
 
 **Bhāṣya decisions that govern the reading.** The discussion of future
 order records several positions. Explanations of the Buddha's future
@@ -217,7 +217,15 @@ not a systematic definition of Samādhi. The project's more definitional
 approach belongs to Yoga Dharmapada (YS-IV), not to this verse's
 translation.
 
-**Review status.** Provisional polished study, checked against the
+The study question is: **which relation is being asserted?** A predecessor,
+an object, a support, and a predominant condition are not interchangeable
+because they answer different questions about how a cognition or Dharma is
+conditioned. This first pass preserves those distinctions; later Loka–Karma
+work may clarify their manifest operation without erasing them.
+
+## 10. Review Status
+
+First Pratyaya foundation pass complete. Checked against the
 kārikā and research Bhāṣya and the running Sanskrit at 98.09–100.18.
 Original witnesses remain intact. No independent manuscript collation
 has been performed. VAK 2.63 next asks when conditions exercise activity.

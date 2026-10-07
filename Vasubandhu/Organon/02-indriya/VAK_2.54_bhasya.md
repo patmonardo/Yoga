@@ -283,7 +283,7 @@ subsequent maturation is explicit. The two constructions of *vipākahetu*
 are translated as a linguistic dispute; neither is silently discarded
 in favor of a modern uniform use of “cause.”
 
-## 9. Philosophical Logic and Organon Study
+## 9. Interpretation
 
 Within the project's account of Essence and Philosophical Logic, the
 Indriya system is read as articulating conditions through which the
@@ -301,9 +301,16 @@ The project names second-order apprehension of the whole Dharma Chakra
 Absolute Insight. “Absolute Knowing” can name that whole-system reading;
 it is not a doctrine stated in this passage.
 
+The two cause-types complete the first pass's caution against isolated
+determination. Pervasiveness is not an unbounded influence but a
+level-qualified relation among afflicted dharmas. Maturation is not a generic
+result but a relation requiring specified ethical eligibility, a continuing
+series, and a terminal transformation. The source's distinctions furnish the
+perspective that an inventory of determinate dharmas alone cannot provide.
+
 ## 10. Review Status
 
-Provisional fifty-fourth study of the restarted Indriyanirdeśa Bhāṣya
+First Hetu-definition pass complete. The fifty-fourth study of the restarted Indriyanirdeśa Bhāṣya
 sequence. The kārikā anchor, research Bhāṣya, prior boundary, and running
 Sanskrit have been compared. Both causal discussions and the temporal
 ending are translated; the Essence grouping is corrected against the

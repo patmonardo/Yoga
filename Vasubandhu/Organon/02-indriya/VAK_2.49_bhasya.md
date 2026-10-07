@@ -145,11 +145,13 @@ every link of a universal causal succession.
 
 ## Interpretation
 
-As a separate next-topic study, this passage opens the six-cause
-inquiry. It asks what kind of causal relation has actually been
-established and distinguishes non-obstruction, productive efficacy,
-and mediated causation. It is not included in the completed
-2.47–2.48 turning.
+As a separate next-topic study, this passage opens the six-cause inquiry by
+asking what causal relation has actually been established. A Dharma's
+determinate character does not, on its own, explain an arising: the question
+is whether it merely fails to obstruct, productively contributes, or has
+efficacy through a mediated succession. The distinction makes the
+causal claim inspectable without treating the six cause-types as
+interchangeable. It is not included in the completed 2.47–2.48 turning.
 
 The Hub connection remains a possible Organon reading of the causal
 inquiry, not a claim that the source has already completed the
@@ -171,8 +173,10 @@ passage.
 
 ## 8. Textual Decisions and Review Status
 
+First Hetu-definition pass complete.
+
 The continuous translation covers the six-cause verse and its
-commentary through *uktaḥ kāraṇahetuḥ* at 83.17. The line
+commentary through *uktaḥ kāraṇahetuḥ* at 83.17. The  line
 *svato 'nye kāraṇaṃ hetuḥ* is included because the commentary uses it
 to introduce the first definition; it is not treated as a second
 VAK 2.49 verse.

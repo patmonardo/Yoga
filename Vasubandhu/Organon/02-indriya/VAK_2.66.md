@@ -1,4 +1,4 @@
-# VAK_2.66
+# VAK 2.66 — Twelve Kinds of Mind
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -149,7 +149,7 @@ Then determine which kinds can immediately follow which.
 Membership in the list alone does not license a transition. The verse
 supplies the terms of the later relation, not its complete rules.
 
-## 9. Interpretive Note
+## 9. Interpretation
 
 **Bhāṣya control.** The opening states that mind and mental factors
 have already been described generally as immediately antecedent
@@ -176,7 +176,14 @@ our Hegelian framing, Vol. II's Loka:Karma is Appearance; this verse
 prepares, but does not itself cross, that transition. These are
 project-level placements, not claims made by the source.
 
-**Review status.** Provisional polished study checked against the research
+The twelve kinds are the terms of a rule-governed succession analysis, not
+twelve self-sufficient mental substances. The return to Principle here is
+therefore a return to determinate rules of transition: identify the kind
+first, then ask which immediate successor relation the source permits.
+
+## 10. Review Status
+
+First succession pass complete. Checked against the research
 kārikā, research Bhāṣya, and running commentary at 103.09–18. Originals
 remain unchanged. VAK 2.67 begins the succession counts with desire-realm
 wholesome mind.

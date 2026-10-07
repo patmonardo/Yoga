@@ -238,7 +238,7 @@ adds an explanation not expressed by that compound. *Puruṣakāra* in
 the efficacy objection is the effective operation of other things;
 it should not be confused with the capitalized *Puruṣa* named earlier.
 
-## 7. Philosophical and Organon Study
+## 7. Interpretation
 
 **Organon interpretation—not literal Bhāṣya doctrine.** The differentiated
 condition profiles articulate Essence: the relational determination of how
@@ -253,9 +253,15 @@ attainments' condition profiles are not a definition of Samādhi. That more
 definitional approach belongs to the project's Yoga Dharmapada study of
 YS-IV. This synthesis is project-level, not the commentary's vocabulary.
 
+The force of the dispute is methodological: one invariant cause cannot
+replace the differentiated conditions needed to explain successive arising.
+This conclusion remains limited to the source's argument. It prepares later
+Loka–Karma inquiry into the world of appearance without providing its whole
+account in advance.
+
 ## 8. Review Status
 
-Provisional continuous study checked against the research kārikā and
+First Pratyaya foundation pass complete. Checked against the research kārikā and
 Bhāṣya, polished kārikā, preceding boundary, and complete running-source
 unit at 101.07–102.18. The translation retains the condition profiles,
 all successive objections and replies, the purpose and suffering

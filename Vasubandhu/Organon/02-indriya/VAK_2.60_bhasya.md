@@ -144,7 +144,7 @@ The translation says “arise from,” following *jāyante* and
 relations without replacing the source's claim of arising with
 a merely hypothetical list of possible causes.
 
-## 9. Philosophical and Organon Study
+## 9. Interpretation
 
 As an Organon bridge, the verse and its continuation keep the cause account
 intact while specifying its scope: four dharma-classes have distinct
@@ -159,9 +159,15 @@ which cause-types apply to a dharma to a new classification of conditional
 relations; the broader Loka and Absolute Idealism synthesis is project-level,
 not a claim of this passage.
 
+The training point is that a cause-count is not a flat quantity. Each class
+of Dharma has a determinate exclusion profile, and the first uncontaminated
+occurrence is still causally articulated despite lacking homogeneous
+continuity. This completes the Hetu census and makes the turn to conditions
+necessary.
+
 ## 10. Review Status
 
-Provisional sixtieth study of the restarted Indriyanirdeśa Bhāṣya
+First Pratyaya foundation pass complete. The sixtieth study of the restarted Indriyanirdeśa Bhāṣya
 sequence. The kārikā anchor, research Bhāṣya, preceding boundary,
 and running source have been compared. The complete four-class
 account, domain qualification, and explicit closure are translated.

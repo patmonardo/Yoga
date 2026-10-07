@@ -104,15 +104,17 @@ The fifth equality, *dravya*, concerns numerical instance: one instance of
 consciousness and one of each associated mental factor in the occurrence.
 It does not make the factors one substance.
 
-## 7. Philosophic Logic and Organon Note
+## 7. Interpretation
 
-Yes—in the project’s modest sense, this is philosophical logic. The Bhāṣya
-tests what licenses a causal claim. A deliberately produced quality can be
+In the project's modest sense, this is philosophical logic. The Bhāṣya tests
+what licenses a causal claim. A deliberately produced quality can be
 a homogeneous cause only for an equal or superior result; resemblance alone
 does not determine the result-grade. For associated cause, sharing an aspect,
 object, or time is still insufficient: the explanation requires the same
 support and invokes the five equalities. Each restriction blocks a different
-overbroad inference.
+overbroad inference. The causal perspective is therefore relational and
+complete only through its conditions; a determinate Dharma does not bring
+that perspective with it merely by being present.
 
 This is not a formal logic system named by the text. Conventionally, the
 passage completes the account of *sabhāgahetu* and defines *saṃprayuktakahetu*.
@@ -122,7 +124,7 @@ explicitly by this Bhāṣya.
 
 ## 8. Review Status
 
-Provisional study checked against the running Sanskrit and the paired
+First Hetu-definition pass complete. Checked against the running Sanskrit and the paired
 VAK 2.52 boundary. The first and second halves of the kārikā are separated
 in the Bhāṣya by the extended homogeneous-cause discussion. Textual
 uncertainties and contextual repairs are recorded in the Bhāṣya study;

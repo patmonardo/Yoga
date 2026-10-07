@@ -1,4 +1,4 @@
-# VAK_2.70
+# VAK 2.70 — Closing the Twelve-Kind Succession Account
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -174,7 +174,7 @@ the three realm-wholesome kinds and beyond-training itself. That forward
 reference clarifies the immediate asymmetry with trainee mind, but is
 not silently included as literal content of 2.70.
 
-## 9. Interpretive Note
+## 9. Interpretation
 
 **Bhāṣya control.** The first-pass study's title and analysis emphasized
 path mind while leaving the formless profiles largely unexpanded. This
@@ -203,7 +203,15 @@ Vol. II's Loka:Karma is Appearance, a later transition after the chapter.
 The asymmetric profiles show that equal counts need not have the same
 members, and that path classification is not a person's permanent status.
 
-**Review status.** Provisional polished study checked against the research
+This closes the twelve-kind rule system by preserving two cautions: equal
+counts can contain different members, and the classification of a present
+mind is not a permanent predicate of its bearer. The Jīva's training is
+therefore in discriminating actual transition-rules, not in attaching a
+final psychological label to itself or another.
+
+## 10. Review Status
+
+First succession pass complete. Checked against the research
 kārikā, research Bhāṣya, and running Sanskrit at 105.07–26, with the
 2.71 continuation explicitly distinguished. Original witnesses remain
 unchanged. Next is VAK 2.71: the final outgoing count and the expansion

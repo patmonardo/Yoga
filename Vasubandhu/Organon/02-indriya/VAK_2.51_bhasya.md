@@ -237,7 +237,7 @@ the precise force of the preceding concession and its referents require
 collation. Speaker labels in brackets identify argumentative roles,
 not names supplied by the Sanskrit.
 
-## 9. Limited Organon Reading
+## 9. Interpretation
 
 The ten correspondences and the count dispute make the `citta:caitta`
 relation more determinate than bare accompaniment. In the project's
@@ -248,9 +248,15 @@ tests which co-arisen relations count as causes and retains both the
 objections and its closing defense; the Hub is not an additional cause
 within that argument.
 
+The causality problem is sharpened rather than dissolved by the shared
+profile. Co-presence, common antecedents, and corresponding presence and
+absence are each tested; none is silently identical with reciprocal causal
+efficacy. A determinate Dharma becomes intelligible here only through the
+relations that are argued for and through the exclusions that delimit them.
+
 ## 10. Review Status
 
-Provisional fifty-first study of the restarted Indriyanirdeśa Bhāṣya
+First Hetu-definition pass complete. The fifty-first study of the restarted Indriyanirdeśa Bhāṣya
 sequence. The kārikā anchor, research Bhāṣya, preceding study's boundary,
 and running source have been compared. The complete unit, including
 the extended debate and closing defense, is translated.

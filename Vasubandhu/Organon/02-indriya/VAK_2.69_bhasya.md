@@ -121,7 +121,7 @@ to the following profile. That continuation is identified in the
 anchor and here, while its full translation and analysis remain
 for 2.70_bhasya.
 
-## 7. Philosophical and Organon Study
+## 7. Interpretation
 
 **Organon interpretation—not literal Bhāṣya doctrine.** The recurring
 three/six rule remains within Vol. I's Essence-side inquiry, but its
@@ -130,9 +130,14 @@ Doctrine of Essence, Vol. II's Loka:Karma is Appearance. The repeated
 count does not make the underlying relations identical, nor do these
 local profiles alone constitute the fuller Appearance account.
 
+The repeated three/six profile is a rule with newly specified members, not
+an identity of the two realms. The unfinished wholesome clause also teaches
+a formal discipline: the verse boundary must not terminate a relation that
+the syntax carries into the next verse.
+
 ## 8. Review Status
 
-Provisional continuous study checked against the research Bhāṣya,
+First succession pass complete. Checked against the research Bhāṣya,
 polished kārikā, twelve-kind inventory, and complete running-source
 unit at 104.22–105.07. The eight/six and both three/six profiles
 are enumerated and checked. The carried qualification and cross-verse

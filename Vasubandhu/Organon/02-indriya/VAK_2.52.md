@@ -94,12 +94,15 @@ Path-dharma; “one another” distributes causal reach across the nine levels.
 
 > An earlier dharma is homogeneous cause for a later similar dharma ordinarily only within its own class and level. The Path is exceptional: because it is adventitious to its levels and is not appropriated by their respective cravings, a Path-dharma in one level can be homogeneous cause for a future Path-dharma in another—but only for an equal or superior result, not an inferior one. The negative in the last clause is supplied from the stated restriction; the witness reads “is cause of the inferior.”
 
-## 6. Limited Organon Reading
+## 6. Interpretation
 
 The passage distinguishes ordinary class- and level-bound homogeneous
 causality from the Path's cross-level reach, which is limited by temporal
-priority and the equal-or-superior condition. This is a local causal
-determination, not a general metaphysics of progress.
+priority and the equal-or-superior condition. Similarity is consequently not
+causality by itself. A determinate Dharma needs prior arising, a specified
+class and level, and—in the Path case—a bounded exceptional range before it
+can function as a homogeneous cause. This is a local causal determination,
+not a general metaphysics of progress.
 
 ## 7. Technical Vocabulary
 
@@ -227,7 +230,7 @@ organon:OcularHomogeneousSchema a organon:OcularSchema ;
 
 ## 11. Review Status
 
-Provisional paired study of VAK 2.52. The homogeneous-cause discussion
+First Hetu-definition pass complete. The homogeneous-cause discussion
 runs from 85.08 through the Path explanation at 87.18–19. The question
 and application-produced qualities beginning at 87.20 are reserved for
 VAK 2.53. Damaged readings and contextual repairs remain marked.

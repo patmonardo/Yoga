@@ -1,4 +1,4 @@
-# VAK_2.56 — Principal Fruits of the Six Causes
+# VAK 2.56 — Principal Fruits of the Six Causes
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -173,10 +173,27 @@ the principal definition.
 The definitions of maturation-fruit and the detailed similarity
 distinctions are taken up in VAK 2.57, not in this source unit.
 
-## 9. Source Boundary and Relation to VAK 2.57
+## 9. Interpretation
 
 The Bhāṣya unit begins at 94.18 and ends at 95.08, after reporting the
 alternative that maturation cause may have a distant fruit of efficacy.
 At 95.09 the commentary begins defining the fruit-types; those definitions
 belong with VAK 2.57. The present verse assigns principal fruits and then
 qualifies, rather than closes, their distribution.
+
+The useful study question is not merely “which fruit belongs in which row?”
+It is: **what does the cause contribute in this relation?** Maturation
+answers through delayed individualized ripening; predominance through
+permission or contribution; homogeneous outflow through relevant similarity;
+and efficacy through operative activity. A single Dharma may enter more than
+one result-relation, so the table is an articulation of causal perspective,
+not an inventory of fixed causal labels.
+
+## 10. Review Status
+
+First extended results pass complete. The verse's principal assignments,
+the non-obstruction and positive-contribution distinction, and the reported
+alternative concerning distant efficacy are retained at their source boundary.
+
+Textual uncertainties remain marked. No independent manuscript or critical
+edition collation has been performed.

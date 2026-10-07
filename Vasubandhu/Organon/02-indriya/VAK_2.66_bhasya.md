@@ -117,7 +117,7 @@ as the two uncontaminated kinds. These are explicit in the Sanskrit,
 not conjectural identifications. No rival position or independent
 objector is introduced in this short expository unit.
 
-## 7. Philosophical and Organon Study
+## 7. Interpretation
 
 **Organon interpretation—not literal Bhāṣya doctrine.** This taxonomy
 remains within Vol. I's Essence-side inquiry: its distinctions furnish
@@ -126,9 +126,14 @@ our Hegelian framing, Vol. II's Loka:Karma is Appearance; this verse
 prepares, but does not itself cross, that transition. These are
 project-level placements, not claims made by the Bhāṣya.
 
+The twelve kinds function as a controlled vocabulary for the succession
+rules, not as a completed psychology. The next verses ask which immediate
+relations are permitted between these determinate kinds; the classification
+must therefore remain distinct from the rules that govern its use.
+
 ## 8. Review Status
 
-Provisional continuous study checked against the research kārikā and
+First succession pass complete. Checked against the research kārikā and
 Bhāṣya, polished kārikā, and complete running-source unit at 103.09–18.
 Continuous Sanskrit and translation precede the focused analysis.
 The twelvefold count and its doctrinal distinctions are verified;

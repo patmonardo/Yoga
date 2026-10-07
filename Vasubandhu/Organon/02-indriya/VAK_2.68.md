@@ -1,4 +1,4 @@
-# VAK_2.68
+# VAK 2.68 — Neutral Desire-Realm and Wholesome Form-Realm Mind
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -165,7 +165,7 @@ stated in the opening half. The form-wholesome/desire-wholesome pair
 also agrees with the preceding study. Such agreement checks direction;
 it does not make all remaining transitions reciprocal.
 
-## 9. Interpretive Note
+## 9. Interpretation
 
 **Bhāṣya control.** The first-pass translation's final “immediately
 after that, from nine” leaves the subject unclear. Separating *tat*
@@ -188,7 +188,15 @@ Appearance; the 5/7 and 9/11 profiles prepare but do not themselves
 constitute that fuller Bhava-Chakra account. The directions and contexts
 remain distinct rather than forming an undirected association.
 
-**Review status.** Provisional polished study checked against the research
+The 5/7 and 9/11 profiles are not mere arithmetic. They state distinct
+incoming and outgoing rules for determinate kinds of mind, under occasions
+such as rebirth or transformation. The principle is thus concrete only
+through its qualified transition-rules, not through a count abstracted from
+its members and context.
+
+## 10. Review Status
+
+First succession pass complete. Checked against the research
 kārikā, research Bhāṣya, and running Sanskrit at 104.09–21. The enumerated
 members reproduce all four counts and agree with the relevant relations
 already studied. Original witnesses remain unchanged. VAK 2.69 continues

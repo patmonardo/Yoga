@@ -1,4 +1,4 @@
-# VAK_2.64
+# VAK 2.64 — Condition Counts and the Single World-Cause
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -164,7 +164,7 @@ first creation. The same line is extended to Pradhāna. These arguments
 are reported as the Bhāṣya's critique, not as an exhaustive refutation
 of every conceivable theological or Sāṃkhya position.
 
-## 9. Interpretive Note
+## 9. Interpretation
 
 **Bhāṣya scope and voices.** The numerical exposition and the subsequent
 debate belong together in the source but remain different kinds of
@@ -199,7 +199,16 @@ The two attainments supply condition-profiles, not a definition of Samādhi.
 That more definitional approach belongs to the project's Yoga Dharmapada
 study of YS-IV, not to this translation.
 
-**Review status.** Provisional polished study, checked against the
+The decisive lesson is plural determination. The four conditions do not
+provide a finished cosmology, but they make a single, self-sufficient
+world-cause inadequate to the source's account of differentiated and
+successive arising. This is a foundation for later Loka–Karma inquiry, not a
+substitute for it; the later volume can illuminate the manifest world without
+undoing this relational critique.
+
+## 10. Review Status
+
+First Pratyaya foundation pass complete. Checked against the
 kārikā and research Bhāṣya and the running source at 101.07–102.18.
 Original witnesses remain unchanged. VAK 2.65 returns to material
 causality, distinguishing great elements and derived matter.

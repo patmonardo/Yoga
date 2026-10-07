@@ -1,4 +1,4 @@
-# VAK_2.59 — Taking and Giving Fruit
+# VAK 2.59 — Taking and Giving Fruit
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -174,7 +174,7 @@ cause. It does not make two successive moments numerically simultaneous. By
 the time the fruit is arisen, both occurrences can be spoken of as past, yet
 the fruit is not given a second time.
 
-## 9. Scope and Sequence
+## 9. Interpretation
 
 The Bhāṣya closes this unit at 97.15 with “the causes and fruits have been
 explained.” The four additional result-names are attributed to other
@@ -186,3 +186,20 @@ The next source unit, VAK 2.60, begins at 97.16 by asking which dharmas arise
 from how many causes; its kārikā follows at 97.20. The four-condition
 (*pratyaya*) discussion comes later. This boundary keeps the present
 temporal rules distinct from the next cause-count analysis.
+
+This is the closing study handle for Hetu: **taking is not giving**. A cause
+takes a fruit when it presently assumes seed-status in relation to that
+fruit; it gives a fruit when the fruit is manifested through its causal
+operation. Co-arisen and associated causes unite the two operations in the
+present; homogeneous and pervasive causes extend giving across the transition
+into the past; maturation gives only when past. The classifications explain
+different temporal relations, not different kinds of hidden causal substance.
+
+## 10. Review Status
+
+First extended Hetu pass complete. The full taking/giving matrix, the
+fourfold examples, and the alternative result-names are retained, together
+with the source's explicit closure of causes and results at 97.15.
+
+Textual uncertainties remain marked. No independent manuscript or critical
+edition collation has been performed.

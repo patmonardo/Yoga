@@ -104,13 +104,18 @@ determines the technical relation. *Upasaṃkhyātavyam* is rendered “a
 qualification must be added,” preserving the express extension beyond
 the initial reciprocal formula.
 
-## 9. Philosophical and Organon Study
+## 9. Interpretation
 
-As Organon interpretation, this passage places reciprocal and asymmetric
-relations within one account of co-arisen causality. The consciousness-and-
-followers example gives a local point of contact for the project's
-`citta:caitta` dyad; the subsidiary-mark qualification prevents the relation
-from being made uniformly reciprocal.
+This passage places reciprocal and asymmetric relations within one account of
+co-arisen causality. Its problem is not solved by taking the dharmas as
+already determinate and then calling their co-presence causal. Mutual
+resulthood is the proposed relation; the subsidiary-mark qualification marks
+its limit. The commentary therefore makes causal standing depend on the
+relation under examination, not on an isolated Dharma's identity.
+
+The consciousness-and-followers example gives a local point of contact for
+the project's `citta:caitta` dyad; the subsidiary-mark qualification prevents
+the relation from being made uniformly reciprocal.
 
 Within the project's Hub-of-Power reading, `citta:caitta` and
 `hetu:pratyaya` are the two principial extremes, projected and organized by
@@ -120,7 +125,7 @@ it neither names the Hub nor makes it an additional causal force.
 
 ## 10. Review Status
 
-Provisional fiftieth study of the restarted Indriyanirdeśa Bhāṣya
+First Hetu-definition pass complete. The fiftieth study of the restarted Indriyanirdeśa Bhāṣya
 sequence. The kārikā's split source boundary has been compared with the
 running Sanskrit: the conditioning-cause clause is treated at 83.16–17
 under VAK 2.49, and this unit covers the co-arisen-cause discussion at

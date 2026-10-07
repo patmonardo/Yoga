@@ -335,11 +335,15 @@ identification rather than inventing a secure pair. The claim about
 an arisen cause and a future path is retained without turning it into
 an assertion that both paths must actually manifest in that continuum.
 
-## 9. Limited Organon Reading
+## 9. Interpretation
 
 The Bhāṣya specifies the grounds and limits of homogeneous causality:
 similarity, prior arising, class and level membership, and—exceptionally
 for the Path—cross-level transmission with an equal-or-superior limit.
+It thereby prevents resemblance from becoming a self-explanatory causal
+power. The determinate Dharma is not the sufficient perspective; its causal
+role is serial, qualified, and open to a source-bound exception.
+
 Within the project's Hub reading, this is a determination on the *hetu*
 side of the `hetu:pratyaya` inquiry; *pratyaya* is not defined in this
 unit. The Hub's organization of the dyad is a project-level synthesis,
@@ -347,7 +351,7 @@ not the Bhāṣya's own formulation.
 
 ## 10. Review Status
 
-Provisional fifty-second study of the restarted Indriyanirdeśa Bhāṣya
+First Hetu-definition pass complete. The fifty-second study of the restarted Indriyanirdeśa Bhāṣya
 sequence. The kārikā anchor, research Bhāṣya, prior boundary, and running
 Sanskrit have been compared. The omitted temporal debate is restored;
 later material belonging to VAK 2.53 is reserved.

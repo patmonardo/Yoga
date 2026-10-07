@@ -1,4 +1,4 @@
-# VAK_2.61
+# VAK 2.61 — Opening the Four Conditions
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -156,7 +156,7 @@ the 2.60 profiles apply to material and mind-dissociated dharmas; conditioning
 cause is omitted from the five causes grouped as cause-condition. Neither
 exclusion removes a cause-type from the overall six-cause account.
 
-## 9. Loka and Dependent Origination
+## 9. Interpretation
 
 In the project's reading, the move from *hetu* to *pratyaya* is the
 subsumption of the preceding account of arising within the Loka analysis:
@@ -177,9 +177,17 @@ first half of the complete verse closes the cause-count discussion with
 2.60, while this study's Bhāṣya unit begins at 98.03 with the question
 about conditions.
 
+The basic learning move is to keep the classifications non-competitive.
+The five causes collected as cause-condition do not replace the six-cause
+analysis, and the four conditions are not four further causes added beside
+it. This provides a foundation for later Loka–Karma study, where the
+manifest movement of relations can deepen this account without canceling its
+distinctions.
+
 ## 10. Review Status
 
-The full kārikā is retained, and the 98.03–08 commentary unit is translated
+First Pratyaya foundation pass complete. The full kārikā is retained, and the
+98.03–08 commentary unit is translated
 separately from the preceding 2.60 unit. Transcription variants are noted;
 no independent manuscript collation has been performed. The next unit,
 2.62, begins the immediately antecedent condition.

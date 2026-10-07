@@ -104,15 +104,19 @@ separately existing result-object.
 
 > Followers of consciousness comprise all mental factors associated with consciousness, the restraint of concentration and the uncontaminated restraint, and the conditioned marks belonging to these and to consciousness. They correspond with consciousness in arising, persisting, and ceasing within the same temporal period; in result, maturation, and homogeneous outflow; and in wholesome, unwholesome, or indeterminate status.
 
-## 6. Limited Organon Reading
+## 6. Interpretation
 
 This verse specifies how the `citta:caitta` relation is articulated in
 the Bhāṣya: the followers are identified by correspondence across ten
-respects, not by the word “follower” alone. Within the project's Hub
-reading, this dyad is one principial extreme, with `hetu:pratyaya` the
-other, organized by the invariant Hub. That architecture is a project-level
-synthesis; the commentary here neither names the Hub nor identifies it
-as another cause.
+respects, not by the word “follower” alone. The ten respects show why a
+determinate Dharma's co-presence cannot settle its causal standing: temporal,
+resultal, and ethical correspondence must be discriminated, and the later
+exceptions remain visible.
+
+Within the project's Hub reading, this dyad is one principial extreme, with
+`hetu:pratyaya` the other, organized by the invariant Hub. That architecture
+is a project-level synthesis; the commentary here neither names the Hub nor
+identifies it as another cause.
 
 ## 7. Technical Vocabulary
 
@@ -250,7 +254,7 @@ organon:CoArisen organon:isBroaderThan vak:SahabhuHetu .
 
 ## 11. Review Status
 
-Provisional paired study of VAK 2.51. The source unit runs from the
+First Hetu-definition pass complete. The source unit runs from the
 question at 83.25 through the closing defense at 85.06–07; VAK 2.52
 begins at 85.08. The conventional translation preserves the full
 sequence of definitions, counts, objections, and reply.

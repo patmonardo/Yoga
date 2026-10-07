@@ -1,4 +1,4 @@
-# VAK_2.69
+# VAK 2.69 — Repeated Counts with Different Members
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -156,7 +156,7 @@ The present local passage enumerates the remaining edges without
 explaining each transition-context anew. Membership checks should
 not be turned into invented accounts of every transition's mechanism.
 
-## 9. Interpretive Note
+## 9. Interpretation
 
 **Bhāṣya control.** The research translation leaves the form-obscured
 successor set partly vague. The running text specifies the three
@@ -179,7 +179,15 @@ Doctrine of Essence, Vol. II's Loka:Karma is Appearance. The repeated
 count does not make the underlying relations identical, nor do these
 local profiles alone constitute the fuller Appearance account.
 
-**Review status.** Provisional polished study checked against the research
+Repeated numbers do not erase determinate difference. The recurring
+three-before/six-after rule is re-instantiated with different realm-relative
+members, and the final wholesome clause must remain unfinished until 2.70.
+The rule is intelligible only in its determinate application, not as a
+free-floating numerical pattern.
+
+## 10. Review Status
+
+First succession pass complete. Checked against the research
 kārikā, research Bhāṣya, and running Sanskrit at 104.22–105.07. Counts,
 member lists, and the cross-verse construction are resolved. Original
 witnesses remain unchanged. VAK 2.70 supplies the formless-wholesome

@@ -121,7 +121,7 @@ objector or competing school account. Its statements concern permitted
 relations between kinds under the appropriate circumstances, not
 multiple simultaneous successors of one occurrence.
 
-## 7. Philosophical and Organon Study
+## 7. Interpretation
 
 **Organon interpretation—not literal Bhāṣya doctrine.** This remains
 Vol. I's Essence-side account: it specifies succession among determinate
@@ -131,9 +131,14 @@ Appearance; the 5/7 and 9/11 profiles prepare but do not themselves
 constitute that fuller Bhava-Chakra account. The directions and contexts
 remain distinct rather than forming an undirected association.
 
+The counts become intelligible only with their direction and occasion.
+The same two kinds may be connected differently in rebirth, emergence, or
+creation-mind contexts; a bare numerical profile is not a mechanism and
+does not license its reverse.
+
 ## 8. Review Status
 
-Provisional continuous study checked against the research Bhāṣya,
+First succession pass complete. Checked against the research Bhāṣya,
 polished kārikā, twelve-kind classification, and running source at
 104.09–21. The Sanskrit unit is complete, and the 5/7 and 9/11 sets
 are checked against the named inclusions and exclusions. Creation-mind

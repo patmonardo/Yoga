@@ -1,4 +1,4 @@
-# VAK_2.60 — Four Dharma Classes and Cause Exclusions
+# VAK 2.60 — Four Dharma Classes and Cause Exclusions
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -149,7 +149,7 @@ first concern mind and mental factors, while material and mind-dissociated
 dharmas additionally exclude associated cause. That qualification is treated
 with VAK 2.61.
 
-## 9. Bridge to the Conditions
+## 9. Interpretation
 
 This verse remains within the cause analysis: it classifies arising dharmas
 by the cause-types they admit. The Bhāṣya then extends the counts to material
@@ -162,3 +162,18 @@ commentary unit begins at 98.03 with the question about the four conditions.
 The change is from classifying which causes contribute to arising to
 classifying conditional relations; the full definitions follow in the
 subsequent verses.
+
+The study question is not “how many causes does Dharma have in general?”
+It is “which cause-relations can this kind of Dharma admit?” The first
+uncontaminated occurrence shows why the distinction matters: it excludes a
+prior homogeneous cause without becoming causeless. This is the precise
+bridge from Hetu's differentiated causes to Pratyaya's differentiated
+conditions.
+
+## 10. Review Status
+
+First Pratyaya foundation pass complete. The four-class exclusion matrix and
+the source boundary into the four conditions are retained.
+
+Textual uncertainties remain marked. No independent manuscript or critical
+edition collation has been performed.

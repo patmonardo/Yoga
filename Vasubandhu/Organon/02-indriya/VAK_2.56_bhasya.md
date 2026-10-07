@@ -156,7 +156,7 @@ by the positive examples after non-obstruction. *Pāraṃparyeṇa* marks
 the indirect succession in the hearing-to-seeing example. These
 construals remain provisional pending independent collation.
 
-## 9. Philosophical and Organon Study
+## 9. Interpretation
 
 As Organon interpretation, the mapping becomes explanatory when
 we ask what relation a result has to its cause: maturation,
@@ -177,9 +177,16 @@ efficacy. The distant-fruit alternative for maturation cause is reported,
 not resolved here. The definitions and further similarity analysis begin
 with the next source unit, VAK 2.57.
 
+For study, read the verse as a map of questions rather than a closed
+one-to-one taxonomy. “What is this result *of*?” has different answers:
+delayed maturation, predominating support, continuation in kind, or
+operative efficacy. The causal perspective is complete only when the
+relevant relation and its qualification are named; a determinate Dharma
+does not carry its result-relation as an isolated property.
+
 ## 10. Review Status
 
-Provisional fifty-sixth study of the restarted Indriyanirdeśa Bhāṣya
+First extended results pass complete. The fifty-sixth study of the restarted Indriyanirdeśa Bhāṣya
 sequence. The kārikā anchor, research Bhāṣya, prior boundary, and
 running Sanskrit have been compared. The complete assignment unit
 and alternative concerning distant efficacy are translated.

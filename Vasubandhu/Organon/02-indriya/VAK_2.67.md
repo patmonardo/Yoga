@@ -1,4 +1,4 @@
-# VAK_2.67
+# VAK 2.67 — Desire-Realm Predecessors and Successors
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -168,7 +168,7 @@ predecessors through rebirth-linking into the desire realm. This is
 not a claim that every higher meditation is immediately followed by
 an unwholesome mind during ordinary emergence.
 
-## 9. Interpretive Note
+## 9. Interpretation
 
 **Bhāṣya control.** The first-pass study correctly recorded the headline
 counts but left their membership provisional. The commentary resolves
@@ -194,7 +194,14 @@ constitute the later
 Bhava-Chakra account. The counts constrain possible transitions rather
 than give a universal or unrestricted transition rule.
 
-**Review status.** Provisional polished study checked against the research
+The rule is directional. Nine successors from a wholesome desire-realm mind
+and eight predecessors of it are not two ways of naming one undirected set.
+Each count is occasion-qualified, so a permitted class-to-class transition
+does not predict what every particular occurrence will do.
+
+## 10. Review Status
+
+First succession pass complete. Checked against the research
 kārikā, research Bhāṣya, and running Sanskrit at 103.19–104.08. The counts
 and their named members agree. Originals remain unchanged. VAK 2.68
 continues with desire-realm unobscured-indeterminate and form-realm

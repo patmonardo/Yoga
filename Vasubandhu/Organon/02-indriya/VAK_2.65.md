@@ -1,4 +1,4 @@
-# VAK_2.65
+# VAK 2.65 — Great Principles and Derived Form
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -168,7 +168,7 @@ particular classification. It is, however, the category deliberately
 differentiated into five functions in the second row. The matrix must
 retain both the counted relations and that convention of omission.
 
-## 9. Interpretive Note
+## 9. Interpretation
 
 **Bhāṣya control and textual limits.** The fivefold list at 102.25
 contains damaged wording, including *upastambhogavṛṃhaṇāt*. The subsequent
@@ -195,7 +195,16 @@ is Appearance, the Bhava Chakra's manifest empirical movement. The verse
 does not derive Form from a first principle or use the project's
 Essence/Appearance terminology.
 
-**Review status.** Provisional polished study checked against the research
+The study handle is relational direction. Great Principles and derived Form
+do not stand in one uniform causal relation: the source distinguishes four
+directions and different counted functions within them. Later Loka–Karma
+study can illuminate Form's manifest movement, but it should preserve this
+already articulated matrix rather than collapse it into a single material
+cause.
+
+## 10. Review Status
+
+First Pratyaya foundation pass complete. Checked against the research
 kārikā, research Bhāṣya, and running source at 102.19–103.08. The four
 relations and their distinct counting conventions are restored. Original
 witnesses remain unchanged; no independent manuscript collation has been

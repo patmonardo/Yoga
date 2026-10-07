@@ -118,7 +118,7 @@ disagreement over a distant result of efficacy therefore remains open;
 “crafted work” in the artisan example, and *nirmāṇacitta* retains the
 established rendering “transformation-mind.”
 
-## 9. Philosophical and Organon Study
+## 9. Interpretation
 
 The local Bhāṣya distinguishes the agent's operative efficacy from the
 broader relation of predominance: the artisan's work is both kinds of result
@@ -140,9 +140,16 @@ a textual equation with that synthesis. The aim is to articulate the System
 of Absolute Dharma Knowing as studyable sciences while keeping that
 interpretation separate from translation.
 
+For study, retain the relational question. A result of efficacy is named from
+the agent's operative power; a fruit of predominance is named from the wider
+conditioned field, including non-agents. The same crafted work can therefore
+have both descriptions in relation to its artisan and only the latter in
+relation to others. The Path's relation to disconnection remains attainment,
+not ordinary production.
+
 ## 10. Review Status
 
-Provisional fifty-eighth study of the restarted Indriyanirdeśa Bhāṣya
+First extended results pass complete. The fifty-eighth study of the restarted Indriyanirdeśa Bhāṣya
 sequence. The kārikā anchor, research Bhāṣya, preceding boundary, and
 running Sanskrit at 96.03–10 have been compared. The complete local
 unit is translated; supplied words and contextual construals are marked.

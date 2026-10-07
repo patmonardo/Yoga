@@ -145,7 +145,7 @@ of its maturation. The one-moment/many-moment contrast is textually
 uncertain; the commentary explicitly excludes simultaneous and
 immediately subsequent maturation.
 
-## 9. Philosophical Logic and Organon Reading
+## 9. Interpretation
 
 Within the project’s account of Essence and Philosophical Logic, the
 Indriya system is read as articulating conditions through which the
@@ -162,9 +162,15 @@ not as a doctrine stated by the local Bhāṣya. VAK 2.54 supplies one
 determination within that movement, not its complete philosophical
 deduction.
 
+The paired definitions show two further ways a determinate Dharma lacks a
+complete causal perspective when considered in isolation. Pervasive cause
+depends on a level-bound afflicted field; maturation depends on ethical
+eligibility, craving-connection, transformation of a continuum, and its
+timing. Neither relation can be read off from the Dharma alone.
+
 ## 10. Review Status
 
-Provisional fifty-fourth study of the restarted Indriyanirdeśa sequence.
+First Hetu-definition pass complete. The fifty-fourth study of the restarted Indriyanirdeśa sequence.
 The kārikā halves, Bhāṣya, source boundaries, and prior VAK 2.53 transition
 have been compared. The competing accounts of *vipāka*, result counts,
 and temporal conclusion are retained; transcriptional uncertainties are

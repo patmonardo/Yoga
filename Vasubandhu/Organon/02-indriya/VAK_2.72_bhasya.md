@@ -494,7 +494,7 @@ its rejection remains explicit. The emergence-level rules that follow
 are translated separately, rather than made proof that the rejected
 reply has been accepted.
 
-## 8. Philosophical and Organon Study
+## 8. Interpretation
 
 **Organon interpretation—not literal Bhāṣya doctrine:** The twentyfold
 refinement remains within Vol. I's Essence-side account, distinguishing
@@ -509,9 +509,15 @@ to this discussion; it is not a systematic definition. Preserve the
 material for the more definitional Yoga Dharmapada study of YS-IV
 without resolving the Kosa's debate here.
 
+The completed twenty-kind system is not a flat refinement of “neutrality.”
+It differentiates maturation-born, deportment-related, craft-related, and
+creation-related mind by their determinate mode and realm. The competing
+accounts of attention remain part of the study because the Bhāṣya does not
+authorize their collapse into one final rule.
+
 ## 9. Review Status
 
-Provisional continuous study checked against the research Bhāṣya,
+Final Indriyanirdeśa refinement pass complete. Checked against the research Bhāṣya,
 polished kārikā, and complete running-source unit at 106.05–109.03.
 The opening subdivision, all twenty transition profiles, explanatory
 objection and reply, competing attention accounts, rejected response,

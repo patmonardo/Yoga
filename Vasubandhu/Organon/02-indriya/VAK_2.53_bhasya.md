@@ -257,7 +257,7 @@ construal. The English leaves that point visible rather than silently
 settling it. Both readings occur within the explicit account of
 association through five equalities.
 
-## 9. Philosophic Logic and Organon Study
+## 9. Interpretation
 
 In the project's modest sense, this is philosophical logic: the Bhāṣya
 examines which conditions license two different causal claims. Deliberate
@@ -272,9 +272,14 @@ conventional subject remains the distinction between *sabhāgahetu* and
 Hub reading, the verse continues the *hetu:pratyaya* inquiry while keeping
 its distinct causal determinations intact.
 
+The passage refuses to let a determinate Dharma do causal work without the
+right perspective. Grade, manner of arising, shared support, and the five
+equalities are distinct grounds of assessment. They make the causal relation
+intelligible without reducing it to a static property of either relatum.
+
 ## 10. Review Status
 
-Provisional fifty-third study of the restarted Indriyanirdeśa Bhāṣya
+First Hetu-definition pass complete. The fifty-third study of the restarted Indriyanirdeśa Bhāṣya
 sequence. The kārikā anchor, paired VAK 2.52 boundary, and running Sanskrit
 have been compared. The application-produced qualities, acquisition
 examples, objections, and associated-cause discussion are retained.

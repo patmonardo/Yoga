@@ -1,4 +1,4 @@
-# VAK_2.72
+# VAK 2.72 — Twenty Kinds, Their Successions, and Attention
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -132,7 +132,7 @@ activity. It also records another teachers' view extending the object
 range of deportment-produced mental consciousness. These qualifications
 belong to the Bhāṣya; they are not additional words of the kārikā.
 
-## 9. Interpretive Note
+## 9. Interpretation
 
 **Corrections to the first pass.** The earlier lexical table separated
 *vipākajaiḥ* and lost the negation in *avyākṛta*. Both distort the
@@ -159,6 +159,14 @@ discussion; it is not a systematic definition. Preserve this material
 for the more definitional Yoga Dharmapada study of YS-IV without
 resolving the Kosa's debate here.
 
-**Review status.** Provisional study checked against both research
+The twenty kinds are a refinement of modes of arising, not a claim that
+ethical neutrality is one uniform condition. Maturation-born, deportment,
+craft, and creation-related mind remain distinct and realm-qualified.
+The later debate over attention must also remain a debate, rather than being
+forced into a final account before the source has resolved it.
+
+## 10. Review Status
+
+Final Indriyanirdeśa refinement pass complete. Checked against both research
 witnesses, the standalone kārikā, and the running commentary at
 106.05–109.03. The originals remain unchanged.

@@ -49,13 +49,16 @@ productive instances, objections, and an attributed alternative
 involving causal succession. The remaining five should be left for
 their own discussions.
 
-## Organon Note
+## Interpretation
 
-As a separate next inquiry, this verse makes causal determination
-explicitly plural. A determinate Dharma does not enter one
-undifferentiated relation called “cause”; the relation must be
-specified. Here the commentary immediately tests the first type by
-separating non-obstruction from productive efficacy.
+This opening enumeration poses the problem of causality correctly: a
+determinate Dharma cannot be taken, by itself, as a complete explanation of
+another Dharma's arising. Its causal role is determined only within a
+specified relation. The six headings therefore do not multiply hidden
+entities; they distinguish six ways in which a causal explanation may be
+answerable. The first discussion immediately separates non-obstruction from
+productive efficacy, showing why bare presence, absence, or classification
+cannot yet settle the causal question.
 
 The Kośa-wide synthesis presents Vijñāna as Discriminative Cognition
 joining and governing Perception and Conception; their unity is
@@ -68,7 +71,7 @@ of those relations.
 
 ## Review Status
 
-Paired with the commentary on the sixfold enumeration and the
+First Hetu-definition pass complete. Paired with the commentary on the sixfold enumeration and the
 conditioning cause. The commentary's explicit close of that cause is
 at 83.17; the co-arisen-cause discussion begins at 83.18 and is outside
 this study.

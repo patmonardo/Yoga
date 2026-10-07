@@ -1,4 +1,4 @@
-# VAK_2.58 — Efficacy and Predominance as Result-Relations
+# VAK 2.58 — Efficacy and Predominance as Result-Relations
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -151,7 +151,7 @@ meditative mind. The term *samādhi* occurs in the first example; in this
 local passage it names a conditioned result, not by itself a general theory
 of synthesis.
 
-## 9. Hub Closure: Hetu and Pratyaya
+## 9. Interpretation
 
 The project's table of contents places this verse at the end of the Hub.
 That placement is an Organon structure: the kārikā itself does not formally
@@ -178,3 +178,18 @@ On this reading, Hegel and Yoga provide the Logic through which the System
 of Absolute Dharma Knowing can be articulated as studyable sciences. Each
 science must state its determinations and relations, while keeping textual
 translation distinct from the Organon's synthesis.
+
+The immediate study handle is simpler. Ask, **“relative to which factor is
+this a result?”** The crafted work is a result of efficacy relative to its
+artisan, but only a fruit of predominance relative to others. Causal
+classification consequently belongs to a determinate relation, not to the
+work considered in isolation.
+
+## 10. Review Status
+
+First extended results pass complete. The efficacy/predominance distinction,
+the Path's attainment of cessation, and the source-bound Hub closure are
+retained without identifying the project synthesis as the Bhāṣya's doctrine.
+
+Textual uncertainties remain marked. No independent manuscript or critical
+edition collation has been performed.

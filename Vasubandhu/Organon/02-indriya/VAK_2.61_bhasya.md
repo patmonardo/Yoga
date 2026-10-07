@@ -97,7 +97,7 @@ movement. They do not, by themselves, establish a dispute between
 named schools. The scriptural quotation is kept explicit within that
 movement.
 
-## 6. Philosophical and Organon Study
+## 6. Interpretation
 
 The local text states the relation precisely: five already defined causes
 are grouped as the cause-condition within the four-condition classification.
@@ -114,9 +114,14 @@ source itself only enumerates the four conditions and defines
 *hetu-pratyaya*; the broader synthesis is project-level, and the fuller
 condition-relations follow in subsequent verses.
 
+For study, keep the cause-condition's membership exact. It is five prior
+cause-types grouped under one conditional relation, not an additional fifth
+condition and not a replacement for the six-cause account. The remaining
+three conditions must be learned in their own distinct determinations.
+
 ## 7. Review Status
 
-Provisional continuous study checked against the research kārikā and
+First Pratyaya foundation pass complete. Checked against the research kārikā and
 Bhāṣya, the polished kārikā, the preceding official Bhāṣya boundary,
 and the running source at 98.03–08, with the transition at 98.09 checked.
 The complete local Sanskrit unit and conventional translation precede

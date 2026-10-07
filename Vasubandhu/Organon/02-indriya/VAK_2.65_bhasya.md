@@ -146,7 +146,7 @@ opening *gatam etat* dismisses the preceding discussion before returning
 to the condition count; it does not announce that the material-causality
 question has already been answered.
 
-## 7. Philosophical and Organon Study
+## 7. Interpretation
 
 **Organon interpretation—not literal Bhāṣya doctrine.** The differentiated
 causal relations of the Elements and derived Form articulate the side of
@@ -160,9 +160,15 @@ Derived Form can be a result in one relation and a cause in another,
 without every instance causing every other in the same way. The restrictions
 to co-arising, prior similarity, and maturation preserve those distinctions.
 
+The learning discipline is directional: ask whether the relation runs from
+Great Principle to Great Principle, Great Principle to derived Form, derived
+Form to derived Form, or derived Form to Great Principle. The answer changes
+the allowed cause-type and its function; “material cause” is too coarse a
+single label for this matrix.
+
 ## 8. Review Status
 
-Provisional continuous study checked against the research witnesses,
+First Pratyaya foundation pass complete. Checked against the research witnesses,
 polished kārikā, preceding boundary, and complete running-source unit
 at 102.19–103.08. The translation preserves all four causal directions,
 the fivefold functional account, the counting qualification, and the
