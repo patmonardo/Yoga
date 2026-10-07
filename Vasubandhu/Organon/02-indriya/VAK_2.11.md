@@ -15,7 +15,7 @@
 The first three members complete the answer begun by `daśa dvidhā` at the
 end of VAK 2.10. The ethical classification begins with `aṣṭakaṃ kuśalam`.
 
-## 3. Padaccheda
+## 3. Lexical Analysis
 
 ```text
 mano                → manaḥ
@@ -32,7 +32,7 @@ anyad                → anyat
 ekadhā               → ekadhā
 ```
 
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | manaḥ | nominative neuter singular | mind-faculty |
 | anya-vitti | compound / compressed expression | the other feelings, excluding distress |
@@ -107,32 +107,43 @@ anyat ekadhā
     → exclusively indeterminate
 ```
 
-## 5. Translation
+## 5. Scientific English Rendering
 
-### Close syntactic construe
+### Kārikā
 
 > Mind, the feelings other [than distress], and those beginning with confidence [are the ten just called twofold]. The group of eight is wholesome; distress is twofold. Mind and the other feelings are threefold; the remainder is onefold.
 
-### Bhāṣya-informed translation
+### Bhāṣya-informed rendering
 
 > The ten faculties that may either produce maturation or not are mind, the four feelings other than distress, and the five beginning with confidence. Turning to ethical quality: the five beginning with confidence and the three realization-faculties are exclusively wholesome. Distress may be wholesome or unwholesome. Mind and the four other feelings may be wholesome, unwholesome, or ethically indeterminate. The seven material faculties and life are exclusively indeterminate.
 
 The first sentence completes VAK 2.10. Without that carryover, the Kārikā's
 opening appears to conflict with the Bhāṣya's eightfold wholesome group.
 
-## 6. Philosophical Translation
+## 6. Interpretation
 
-> Governing efficacy and ethical quality are distinct dimensions of a faculty. The material and life faculties perform indispensable functions while remaining ethically indeterminate. Mind and four feeling-faculties retain one functional identity across wholesome, unwholesome, and indeterminate operations. Distress cannot be indeterminate: every instance has wholesome or unwholesome determination. The eight path-directed faculties are wholesome by virtue of the purificatory operation that defines them.
+VAK 2.11 distinguishes ethical quality from Faculty-identity and completes
+the partition of all twenty-two Faculties. The five beginning with
+confidence and the three realization-Faculties are wholesome; distress
+permits wholesome or unwholesome instances; Mind and the other four
+feelings admit all three qualities; the seven material Faculties and Life
+are ethically indeterminate. Affective neutrality (*upekṣā*) is therefore
+not ethical indeterminacy (*avyākṛta*), and wholesome status is not
+equivalent to being without outflows (*anāsrava*).
 
-Organon rendering:
+In the Kant-informed Techne, ethical quality is a distinct criterion
+applied to Faculty-instances, with a different range of permitted values
+for each group. The Dhātu crosswalk retains this ethical classification
+alongside the Base–Essence–Principle map; it does not relocate the
+Faculties. This is a project-level interpretation, not terminology
+supplied by the Bhāṣya.
 
-> The Kośa Agent must distinguish capability-type from execution-quality. A capability may permit three ethical modes, restrict execution to two, or fix one mode necessarily. Ethical neutrality is not inactivity, and affective neutrality is not ethical neutrality: `upekṣā` is an affectively middle faculty whose instances may nevertheless be wholesome, unwholesome, or indeterminate.
-
-This is a formal reconstruction of the Bhāṣya's classification. It does not
-turn `kuśala`, `akuśala`, and `avyākṛta` into modern programming types at the
-textual level.
-
-**Transcendental Time determination (Organon, not translation):** Ethical quality qualifies a faculty's operation; it is not a later chronological stage or a synonym for facultyhood. Universal Cognition names the distinction among wholesome, unwholesome, and indeterminate modes, while the particular Ideas are the ethical qualities permitted for each faculty-instance. Śuddha Sattva's temporal articulation must not be collapsed into `kuśala`: the path-directed eight are wholesome, but the material and life faculties remain indispensable and indeterminate.
+Across the Kośa, Vijñāna is Discriminative Cognition joining Perception
+and Conception without reducing their unity to one homogeneous operation;
+it governs Mind and guides the reading of Dharma Base. The same
+*avijñapti* remains one content in the Form Base and Dharma Base
+classifications, and Vijñāna bears a *prati* relation to it. This wider
+synthesis frames, but is not stated in full by, this verse.
 
 ## 7. Technical Vocabulary
 
@@ -249,74 +260,43 @@ SavipakaTwofold
 
 ## 9. Interpretive Note
 
-**Organon time-reading:** The passage places unlike functions within one system without making them episodes in a moral biography: the same mind or feeling faculty can be qualified differently, distress has only two ethical possibilities, and the path-eight are fixed as wholesome. These are modal limits on operation, not an inferred progression from indeterminate through unwholesome to wholesome.
-
 VAK 2.11 begins by closing the unfinished count of VAK 2.10. The ten
 faculties that can either possess maturation as future result or not are mind,
 the four feelings other than distress, and the five beginning with confidence.
 Recognizing this cross-verse continuation is necessary before beginning the
 new ethical classification.
 
-The ethical partition then shows why faculty taxonomy cannot be treated as a
-list of morally fixed powers. Mind, pain, pleasure, gladness, and neutral
-feeling are general functional faculties. An instance of any may be wholesome,
-unwholesome, or indeterminate. Their governing function persists across
-different ethical deployments.
+The ethical partition distinguishes Faculty-identity from ethical
+qualification. Mind and the four feelings other than distress may occur as
+wholesome, unwholesome, or ethically indeterminate; their Faculty-identity
+persists across these modes.
 
 Distress is narrower. It is never indeterminate, although the Bhāṣya allows
 both wholesome and unwholesome distress. The present unit does not explain
-the circumstances of wholesome distress, so the Organon should not invent an
-example. What is established is that distress always bears ethical quality.
+the circumstances of wholesome distress, so no example should be inferred.
+What is established is that distress always bears ethical quality.
 
-The material faculties and life provide the opposite case. Their governing
-importance does not make them morally good or bad. They are exclusively
-`avyākṛta`: supports and matured structures through which ethically qualified
-operations may occur.
+The material Faculties and Life provide the opposite case. Their governing
+importance does not make them wholesome or unwholesome; the faculties
+themselves are exclusively `avyākṛta`.
 
-The eight path-directed faculties are exclusively wholesome. Five equip the
-path; three are the collective realization-faculties produced by path-context.
-Here functional identity and moral direction coincide. This gives the
-Samyama-bhūmi hypothesis a further constraint:
+The eight path-directed Faculties are exclusively wholesome: five equip
+the path, and three are the realization-Faculties. Their wholesome status
+is distinct from the outflow classification in VAK 2.09; the five beginning
+with confidence may have outflows, while the realization-Faculties do not.
 
-```text
-a genuine path-configuration
-    does not merely assemble capacities
-    but restricts their collective operation to kuśala
-```
+**Reciprocal return to Dhātu.** VAK 1.48 maps Faculty-status within the
+Base–Essence–Principle architecture; this verse adds ethical qualification
+without relocating those Faculties. Functional locus, outflow-status, and
+ethical quality remain distinct classifications.
 
-That is a Yoga–Organon comparison. Textually, the Kośa establishes allowed
-ethical modes for every member of the twenty-two-faculty system.
-
-For the Agent, the resulting rule is precise:
-
-```text
-validate not only
-    whether a capability exists
-
-but also
-    whether its proposed ethical mode
-    is admissible for that faculty-type
-```
-
-**Return to Dhātu at its last kārikā.** VAK 1.48 is the exact return
-point: it places the five Faculties beginning with Confidence and
-portions of the final three realization-Faculties in the Essence-
-Domain. These are the wholesome eight of VAK 2.11. The same map places
-Mind-Faculty across the Citta Domains and the feeling-Faculties in
-the Essence-Domain; here Mind and four feelings other than distress
-are ethically threefold, while distress is twofold. The seven material
-Faculties and Life are indeterminate-only, though their Dhātu loci
-remain distinct. The terminal Dhātu map has been complete in itself;
-this Indriya return adds ethical qualification without moving or
-replacing those loci.
-
-This is a Fichtean reconstruction of Dhātu in mind: ethical quality
-negates neither Faculty identity nor Dhātu placement, but differentiates
-how each Faculty can be operative. In particular, affective neutrality
-(*upekṣā*) does not entail ethical indeterminacy (*avyākṛta*), and
-wholesomeness does not entail stainlessness (*anāsrava*). The ethical
-axis returns to the last Dhātu kārikā as another determination, not
-as a replacement for the earlier functional and outflow classifications.
+Across the Kośa, Vijñāna is Discriminative Cognition joining Perception
+and Conception without reducing their unity to one homogeneous operation;
+it governs Mind and guides the reading of Dharma Base. The same
+*avijñapti* remains one content in the Form Base and Dharma Base
+classifications, and Vijñāna bears a *prati* relation to it. This
+cross-chapter synthesis is an Organon framework, not a claim made by
+this verse.
 
 ## 10. OWL++ Seed
 

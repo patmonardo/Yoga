@@ -1,251 +1,123 @@
-# VAK_2.37 Bhāṣya — Classifications of Acquisition
+# VAK_2.37_bhasya
 
-## 1. Kārikā Anchor
+## 1. Text and Scope
 
-> traiyadhvikānāṃ trividhā śubhādīnāṃ śubhādikā /
-> svadhātukā tadāptānām anāptānāṃ caturvidhā // 2.37 //
+This study covers the Bhāṣya at 64.12–65.11. It resumes the classification
+of acquisition after VAK 2.36's ontological dispute and supplies five
+indices: time, ethical kind, Principle-range, training status, and
+abandonment status. The opening half of VAK 2.38 completes the final two
+classifications.
 
-> Acquisition of dharmas of the three times is threefold; of
-> wholesome dharmas and so forth, correspondingly wholesome and
-> so forth. For Domain-affiliated dharmas it belongs to their own
-> Domain; for those not Domain-affiliated it is fourfold.
+## 2. Lexical Analysis
 
-The continuous unit includes the ensuing training and abandonment
-classifications, completed by the opening half of VAK 2.38.
+| Pada | Morphology | Force in this passage |
+|---|---|---|
+| traiyadhvika | adjective | belonging to the three times |
+| śubha | adjective | wholesome |
+| aśubha | adjective | unwholesome |
+| avyākṛta | adjective | ethically indeterminate |
+| dhātu | masculine noun | Principle-range |
+| anāsrava | adjective | uncontaminated |
+| śaikṣa | adjective/substantive | trainee |
+| aśaikṣa | adjective/substantive | beyond training |
+| naivaśaikṣanāśaikṣa | compound | neither trainee nor beyond training |
+| darśanaheya | compound | abandoned through seeing |
+| bhāvanāheya | compound | abandoned through cultivation |
+| aheya | adjective | not subject to abandonment |
 
-## 2. Continuous Sanskrit
+## 3. Scientific English Rendering
 
-> sā kilaiṣā praptiḥ
-> traiyadhvikānāṃ trividhā
-> atītānāṃ dharmāṇāmatītā 'pi prāptirastyanāgatyā 'pi pratyutpannā 'pi /
-> evamanāgataparatyutpannānāṃ pratyekaṃ trividhā /
-> ṣubhādīnāṃ ṣubhādikā /
-> kuśalākuśalāvyākṛtānāṃ kuāśalākuśalāvyākṛtaiva yathākramaṃ prāptiḥ /
-> svadhātukā tadāptānāṃ
-> ye dharmāstaddhātvāptāsteṣāṃ svadhātukā prāptiḥ /
-> kāmarūpārūpyāvacarāṇāṃ kāmarūpārūpyāvacarī yathākramam /
-> anāptā nāṃ caturvidhā // 2.37 //
-> anāsravāṇāṃ dharmāṇāṃ caturvidhā praptiḥ /
-> samāsena traidhātukī cānāsravā ca /
-> tatrāpraptiṃsaṃṅkhyānirodhasya traidhātukī pratisaṃkhyānirodhasya rūpārūpyāvacarī cānāsravā ca /
-> mārgasatyasyānāsravaiva /
-> seyaṃ samasya caturvidhā bhavati /
-> śaikṣāṇāṃ dharmāṇāṃ śaikṣaiva prāptiḥ akṣaikṣāṇāmaśaikṣānāśaikṣāṇāntubhedaḥ /
-> sa nirdiśyate
-> tridhā naśaikṣā 'śaikṣāṇāṃ
-> naivaśaikṣānāśaikṣā dharmā ucyante sāsravā dharmā asaṃskāṛtaṃ ca /
-> teṣāṃ śaikṣādibhedena trividhā prāptiḥ /
-> sāsravāṇāṃ tāvat naivaśaikṣānāśaikṣī prāptiḥ /
-> apratisaṃkhyānirodhasya ca pratisaṃkhyānirodhasya cānāryeṇa praptasya /
-> tasyaiva śaikṣeṇa mārgeṇa praptasya śaikṣī aśaikṣeṇāśaikṣī /
-> darśanabhāvanāheyānāṃ yathākramaṃ darāśanabhāvanāheyaiva parāptiḥ /
-> aheyānāṃ tu bhedaḥ /
-> sa nirdiśyate
-> aheyānāṃ dvidhā matā /
-> apraheyādharmā anāsravāḥ /
-> teṣāmapratisaṃkhyānirodhasya bhāvanāheyā prāptiḥ anāryaprāptasya ca pratisaṃkhyānirodhasya /
-> tasyaivāryamārgaprāptasyānāsravā 'heyā mārgasatyasya ca /
-
-The excerpt follows printed 64.12–65.11 in
-`Vasubandhu/Sources/kosabhasya.txt`, beginning with *sā kilaiṣā
-praptiḥ*. Source labels are removed and the verse number regularized.
-Transcription defects remain visible; contextual resolutions are
-noted below. No independent collation is claimed.
-
-## 3. Continuous Conventional Translation
-
-This acquisition, it is said, is “threefold for dharmas of the
-three times.” For past dharmas there is acquisition that is past,
-future, or present. Likewise, for future and present dharmas,
-it is threefold in each case. “For the wholesome and so forth,
-correspondingly wholesome and so forth.” Acquisition of wholesome,
-unwholesome, and indeterminate dharmas is respectively wholesome,
-unwholesome, and indeterminate. “For those belonging to a Domain,
-it belongs to that same Domain.” Acquisition of dharmas belonging
-to the Desire, Form, and Formless Domains belongs respectively
-to the Desire, Form, and Formless Domains.
-
-“For those not belonging to a Domain, fourfold.” For eligible
-uncontaminated dharmas, acquisition is fourfold: in summary, belonging
-to the three Domains or uncontaminated. Of these, acquisition of cessation
-independent of discriminative knowledge belongs to the three
-Domains. Acquisition of cessation through discriminative knowledge
-belongs to the Form or Formless Domain, or is uncontaminated.
-Acquisition of the truth of the path is exclusively uncontaminated.
-Taken together, acquisition is thus fourfold.
-
-Acquisition of trainee dharmas is itself trainee; that of dharmas
-beyond training is beyond training. There is a distinction, however,
-for those neither trainee nor beyond training. It is stated:
-“Threefold for those neither trainee nor beyond training.” Contaminated
-dharmas and the unconditioned are called neither trainee nor
-beyond training. Their acquisition is threefold, according to
-the distinction beginning with trainee. Acquisition of contaminated
-dharmas is neither trainee nor beyond training, as is that of
-cessation independent of discriminative knowledge and of cessation
-through discriminative knowledge acquired by a non-noble person.
-Acquisition of that same cessation through a trainee path is
-trainee; through a path beyond training, beyond training.
-
-Acquisition of dharmas abandonable through seeing and through
-cultivation is respectively abandonable through seeing and through
-cultivation. For those not abandonable there is a distinction.
-It is stated: “For the non-abandonable, twofold.” Non-abandonable
-dharmas are uncontaminated. Among them, acquisition of cessation
-independent of discriminative knowledge is abandonable through
-cultivation, as is acquisition of cessation through discriminative
-knowledge acquired by a non-noble person. Acquisition of that
-same cessation through the noble path is uncontaminated and
-non-abandonable, as is acquisition of the truth of the path.
+> Acquisition of a past Dharma can be past, future, or present; likewise
+> for a future or present Dharma. Acquisition of wholesome, unwholesome,
+> and indeterminate Dharmas is respectively wholesome, unwholesome, and
+> indeterminate. Acquisition of Dharmas included in the Desire, Form, and
+> Formless Principles belongs respectively to those same ranges.
+>
+> Acquisition of eligible uncontaminated Dharmas is, in summary, Desire-
+> Principle, Form-Principle, Formless-Principle, or uncontaminated.
+> Acquisition of cessation independent of discriminative comprehension is
+> threefold; acquisition of cessation through discriminative comprehension
+> is Form-Principle, Formless-Principle, or uncontaminated; acquisition of
+> Path truth is uncontaminated only.
+>
+> Acquisition of trainee Dharmas is trainee; that of Dharmas beyond
+> training is beyond training. Acquisition of contaminated Dharmas, and of
+> the two cessations when acquired by a non-noble person, is neither
+> trainee nor beyond training. Acquisition of cessation through
+> discriminative comprehension is trainee when acquired by a trainee Path
+> and beyond training when acquired by a Path beyond training.
+>
+> Acquisition of Dharmas abandoned through seeing or cultivation is
+> respectively abandoned through seeing or cultivation. For
+> non-abandonable Dharmas, acquisition of cessation independent of
+> discriminative comprehension, and of cessation through discriminative
+> comprehension acquired by a non-noble person, is abandoned through
+> cultivation; the same cessation acquired through the noble Path, and
+> Path truth, have uncontaminated non-abandonable acquisition.
 
 ## 4. Movement and Voices of the Commentary
 
-After the dispute in VAK 2.36, the commentary resumes classification
-of acquisition. The reportive *kila*, “it is said,” is retained;
-resuming the account does not silently settle the preceding
-disagreement over whether acquisition is a distinct real dharma.
+The classification has five successive axes. Time is cross-indexed between
+Dharma and acquisition; ethical kind corresponds directly; Principle-range
+distinguishes the three impure ranges from uncontaminated acquisition.
+Training and abandonment then show that the same cessation can receive a
+different acquisition-status according to the Path by which it is acquired.
 
-Five classifications follow: time, ethical character, Domain,
-training status, and abandonment. The last two use the opening
-half of VAK 2.38. Keeping them here completes this series of
-classifications before the source explicitly announces an exception
-to the temporal rule at 65.12.
+The opening *kila*, “it is said,” retains the reportive frame of the
+acquisition account. The passage does not reopen the previous ontological
+dispute, nor does it remove its explicit Vaibhāṣika disagreement.
 
-## 5. Time and Ethical Character
+## 5. The Classification Matrix
 
-The threefold temporal rule is distributive: acquisition of a
-past dharma can be past, future, or present, and the same range
-is stated for future and present dharmas. The dharma's time and
-the acquisition's time must therefore be distinguished. This
-is a general rule to which the next unit introduces exceptions,
-not an assertion that every particular dharma always has every
-possible acquisition.
+Time and ethical kind obey different rules:
 
-Ethical character, by contrast, corresponds directly in the
-stated rule: wholesome acquisition of wholesome dharmas, unwholesome
-of unwholesome, indeterminate of indeterminate. The contrast
-between these two classifications already prevents treating
-acquisition as automatically duplicating every determination
-of its acquired dharma.
+```text
+Time:
+    Dharma time and acquisition time vary independently
 
-## 6. Domain Affiliation and the Uncontaminated
+Ethical kind:
+    acquisition mirrors the Dharma's ethical kind
+```
 
-For Domain-affiliated dharmas the acquisition belongs to the same
-Domain. *Anāpta* then denotes what does not belong to those Domains,
-explained here as uncontaminated dharmas. It does not mean
-“not yet acquired,” and is not the same term as *aprāpta*,
-non-acquisition, discussed in 2.36.
+For Principle-range, *anāpta* means not included in the three
+Principle-ranges, not non-acquisition. The fourfold rule applies to eligible
+uncontaminated Dharmas and does not make “uncontaminated” a fourth cosmic
+Principle-range. Space is not added merely because it is unconditioned:
+VAK 2.36 excludes it from both poles of the relation.
 
-| Uncontaminated dharma | Stated classification of acquisition |
-|---|---|
-| Cessation independent of discriminative knowledge | Desire, Form, or Formless Domain |
-| Cessation through discriminative knowledge | Form Domain, Formless Domain, or uncontaminated |
-| Truth of the path | Uncontaminated only |
+## 6. Training and Abandonment
 
-“Fourfold” summarizes the combined possibilities. It does not
-give every uncontaminated dharma all four kinds of acquisition.
-Nor is uncontaminated a fourth cosmological Domain. The contrast
-is between three Domain affiliations and acquisition that is
-itself uncontaminated.
+The trainee and beyond-training cases mirror their Dharmas. The residual
+class, neither trainee nor beyond training, includes contaminated Dharmas
+and the unconditioned, but its acquisition is differentiated by the Path
+through which the relevant cessation was acquired.
 
-Space is not added to this table merely because it is unconditioned.
-The preceding study explicitly excluded it from acquisition and
-non-acquisition. That scope restriction remains operative here.
+This makes the point crucial for the coming course analogy: a result does
+not receive its complete determination merely from its abstract title. The
+acquiring continuum and the mode of Path-acquisition determine the status.
+The text specifies classification, not institutional authority or a moral
+ranking of persons.
 
-## 7. Training Status and Abandonment
+## 7. Interpretation
 
-The trainee and beyond-training cases correspond directly. The
-neither-trainee-nor-beyond-training class requires differentiation:
-its members include contaminated dharmas and the unconditioned,
-while their acquisitions need not all share that same residual
-status. Cessation through discriminative knowledge illustrates
-the dependence on the path through which it is acquired.
+The acquisition matrix makes the Impure Wheel executable without treating
+it as a flat graph. The relation contains typed paths: time, ethical kind,
+Principle-range, training, and abandonment are not interchangeable edges.
+Vijñāna at the Hub governs one determinate continuum through those
+relations; it does not add a second possession-object beside them.
 
-The abandonment classification makes the distinction especially
-clear. Acquisition of a non-abandonable cessation can itself
-be abandonable through cultivation. The statement concerns the
-acquisition, not destruction of the cessation. Acquisition through
-the noble path is classified differently.
+Vijñāna is Discriminative Cognition joining and governing Perception and
+Conception; their homogeneous unity is Inconceivable, with its Idea
+disclosed in the Cognition Base. Vijñāna governs Mind and guides Dharma
+Base. *Avijñapti* is one Dharma classified in Form Base and Dharma Base,
+with Vijñāna bearing a *prati* relation to it. This system-level synthesis
+does not dissolve the source's path-sensitive distinctions among
+acquisitions.
 
-The threefold training and twofold abandonment summaries must
-therefore be read through their stated cases. They do not assert
-that every member of the broader class has every listed alternative.
-Nor does classification of a dharma as neither trainee nor beyond
-training determine that its possessor is an ordinary person.
+## 8. Review Status
 
-## 8. Textual and Translation Decisions
-
-The running transcription contains defects including *ṣubhādīnāṃ*,
-*anāgatyā*, *apraptiṃsaṃṅkhyānirodhasya*, and a compressed,
-damaged sentence at 64.25. The translation contextually reads
-wholesome, future acquisition, cessation independent of discriminative
-knowledge, and the contrast among trainee, beyond-training, and
-neither categories. The ensuing examples support these resolutions;
-no independently collated wording is claimed.
-
-The irregular wording of *tridhā naśaikṣā 'śaikṣāṇām* is construed
-through the following explicit definition, “neither trainee nor
-beyond training.” It must not become the negation of trainee
-status alone. The Sanskrit excerpt retains the available reading.
-
-“Abandonable” marks a classification by the path that abandons,
-not a claim that abandonment has already happened. Likewise,
-“belongs to a Domain” classifies the acquisition itself rather
-than merely stating where a person happens to be located.
-
-## 9. Philosophical and Organon Study
-
-The passage repeatedly distinguishes what is acquired from the
-acquisition of it. Some classifications correspond; others admit
-a difference determined by time or mode of attainment. That
-pattern is the substantive result, not simply the presence of
-five lists.
-
-For Organon interpretation, a relation's determination cannot
-be inferred wholesale from the determination of what it relates
-to. A non-abandonable dharma can have abandonable acquisition;
-a dharma outside Domain affiliation can have Domain-affiliated
-acquisition. The exact stated rules govern each case.
-
-This reconstruction remains within the resumed classificatory
-account. It does not turn the preceding critique into acceptance
-of a separate acquisition-entity, nor dismiss the classification
-because its ontological basis was disputed. The explanatory
-rules and the disagreement about what grounds them must both
-remain visible.
-
-**Organon reading (philosophical reconstruction, not Bhāṣya doctrine):**
-This classification gives the Indriya dyad, *Prāpti:Aprāpti*, a structured
-set of empirical indices: the acquired dharma's time remains distinct from
-the time of its acquisition, while ethical class, Domain, path-status, and
-abandonment-status remain distinct axes. It does not turn the classifications
-into a flat inventory or make *anāpta* mean non-acquisition.
-
-In the Dharma Chakra, these are determinations of the relation turning
-through the empirical field, not a replacement for the invariant hub. The
-Indriya dyad is read in relation to the Dhātu dyad, *Vijñapti:Avijñapti*,
-within the LogoGenesis of learning; their coupling is an Organon
-reconstruction, not a claim made by this Bhāṣya. The Loka–Karma volume is
-the Bhava Chakra, and must not be conflated with the Dharma Chakra.
-
-The trainee, beyond-training, and neither classifications, as well as the
-abandonment classes, are path-related determinations. They are not themselves
-the ten Samyama-bhūmis and do not assign one acquisition type to each Bhūmi.
-In the project's reading, Bhūmis describe mental-factor operation with Path
-Results; that interpretive axis remains distinct from this passage's
-classifications. The project-level proposal of Buddha-Dharma as the 11th
-Bhūmi is likewise not enumerated by this passage.
-
-## 10. Review Status
-
-Provisional thirty-seventh study of the restarted Indriyanirdeśa
-Bhāṣya sequence. The research Bhāṣya, existing Organon kārikā
-anchor, preceding continuous study, and running Sanskrit at
-64.12–65.11 have been compared.
-
-All five classifications are translated, including the opening
-half of VAK 2.38 that completes the training and abandonment
-cases. Transcription resolutions and the aggregate sense of the
-summary counts are explicit. Original witnesses and existing
-studies are unchanged. VAK 2.38 begins at 65.12 with the announced
-exception to the temporal rule.
+The kārikā and Bhāṣya have been compared with the source transcription at
+64.12–65.11. The five classifications, their special cessation cases, the
+scope restriction concerning space, the reportive *kila*, and the
+cross-verse completion in VAK 2.38 are retained. The source witness is
+unchanged.

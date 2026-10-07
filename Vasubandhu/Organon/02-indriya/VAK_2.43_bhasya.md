@@ -1,293 +1,162 @@
-# VAK_2.43 Bhāṣya — Cessation-Attainment and the Buddha's Acquisition
+# VAK_2.43_bhasya
 
-## 1. Kārikā Anchor
+## 1. Text and Scope
 
-> nirodhākhyā tathaiveyaṃ vihārārthaṃ bhavāgrajā /
-> śubhā dvivedyāniyatā cāryasyāpyā prayogataḥ // 2.43 //
+This study covers the Bhāṣya at 69.24–71.15. It defines the second
+attainment named in VAK 2.35, distinguishes it from the Non-Reflecting
+attainment, explains its noble-path restriction and acquisition, then
+preserves the Buddha-specific and regional dispute concerning its relation
+to awakening.
 
-> The attainment called cessation is likewise, for abiding,
-> belonging to the summit of existence. It is wholesome, with
-> maturation at two times or unfixed; it belongs to a noble person
-> and is acquired through application.
+## 2. Lexical Analysis
 
-The continuous unit includes the Buddha-specific exception and the
-full regional debate, which closes at 71.15.
+| Pada | Morphology | Force in this passage |
+|---|---|---|
+| nirodha-samāpatti | feminine compound | attainment of cessation |
+| śānta-vihāra | compound | peaceful abiding |
+| niḥsaraṇa-saṃjñā | compound | conception of escape |
+| bhavāgra | masculine compound | summit of existence |
+| naivasaṃjñānāsaṃjñāyatana | compound | Essence of neither Reflection nor non-Reflection |
+| upapadya-vedanīya | compound adjective | maturing in the next life |
+| aparaparyāya-vedanīya | compound adjective | maturing in a later life |
+| aniyata | adjective | unfixed with respect to maturation |
+| ārya-mārga | compound | noble Path |
+| prayoga | masculine noun | deliberate preparation |
+| kṣaya-jñāna | compound | knowledge of exhaustion |
+| ubhayato-bhāga-vimukta | compound | liberated in both respects |
+| Bodhisattva | substantive | Bodhisattva |
+| Kāśmīraka | substantive | Kāśmīra teachers |
 
-## 2. Continuous Sanskrit
+## 3. Scientific English Rendering
 
-> nirodhasamāpattiridāniṃ katamā /
-> nirodhākhyā tathaiveyaṃ
-> yathaivāsaṃjñimāpatthiḥ /
-> tathāśabdena kaḥ prakāro gṛhyate /
-> "nirodhaścittacaittānāmi"ti /
-> ayaṃ tvasyā viśeṣaḥ /
-> iyaṃ
-> vihārārthaṃ
-> śāntavihārasaṃjñāpūarvakeṇa manasikāreṇa enāṃ samāpadyante /
-> tāṃ tu niḥsaraṇasaṃjñā pūrvakeṇa /
-> sā khalvapi caturthadhyānabhūmikā /
-> iyaṃ tu
-> bhavāgrajā /
-> naivasaṃjñānāsaṃjñāyatanabhūmikaiva /
-> sā ceyaṃ
-> śubhā
-> kuśalaiva na klilṣṭā nāvyākāṛtā /
-> kuśalā satī
-> dvivedyā 'niyatā ca /
-> dvayoḥ kālayorvedyā upapadyavedanīyā cāparaparyāyavedanīyā ca /
-> aniyatā ca vipākaṃ prati kadācinna vipacyate /
-> yadīha pariniarvāyāt tasyā hi bhavāgre catuḥskandhako vipākaḥ /
-> sā ceyamekāntena
-> āryasya
-> nahi pṛthagjanā nirodhasamāpattimutpādayituṃ śaknuvantyucchedabhīrutvādāryamārgabalena cotpādanāddṛṣṭadharmanirvāṇasya tadadhimuktitaḥ /
-> āryasyāpi ceyaṃ na vairāgyalabhyā /
-> kiṃ tarhi /
-> āpyā prayogataḥ // 2.43 //
-> prayogalabhyaiveyam /
-> na cātītā labhyate nāpyanāgata bhāvyate /
-> cittabalena tadbhāvanāt /
-> kiṃ bhagavato 'pi parāyogikī /
-> netyāha /
-> bodhilabhyā muneḥ
-> kṣayajñānasamanaṃ kālaṃ buddhā bhagavanta enāṃ labhante nāsti kiñcidbuddhānāṃ prāyogikaṃ nāma /
-> icchāmātrapratibaddho hi teṣāṃ sarvaguṇasaṃpātsaṃmukhībhāvaḥ /
-> tasmādeṣāṃ sarvavairāgyalābhikam /
-> kathaṃ khalvi dānīmanutpāditāyāṃ nirodhasamāpattau kṣayajñānakāle bhagavānubhayotobhāgavimuktaḥ sidhyati /
-> sidhyatyutpāditāyāmiva tasyāṃ vaśitvāt prāgeva tāṃ bodhisattvaḥ śaikṣyāvasthāyāmutpādayatīti pāścattyāḥ /
-> atha kasmādevaṃ neṣyate /
-> evaṃ ca sthaviropaguptasyāpīdaṃ netrīpadaṃ prāmāṇikaṃ bhaviṣyati /
-> "nirodhasamāpattimutpādya kṣayajñānamutpādayatīti vaktavyaṃ tathāgata"iti /
-> na prāk
-> nahi pūrvaṃ tasyā utapādanaṃ yujyata iti kāśmīrakāḥ /
-> kiṃ kāraṇam /
-> catustriṃśatkṣaṇāptitaḥ /
-> catusriṃśatā kila cittakṣaṇairbodhisattvo bodhimanuprāptaḥ /
-> satyābhisamaye ṣoḍaśabhirbhavāgravairāgye cāṣṭādaśabhirnavaprakārāṇāṃ kleśānāṃ prahāṇāya navānantaryavimuktimārgotpādanāt /
-> ta ete catustriṃśat bhavanti /
-> ākiñcanyāyatanavītarāgasyāsyaniyāmāvakramaṇādadhobhūmikā na punaḥḥ praheyā bhavanti /
-> ata etasminnantare visabhāgacittāsaṃbhavānnirodhasamāpatterayoga iti /
-> kiṃ punaḥ syādyadi visabhāgacittamantarā saṃmukhīkkuryāt /
-> vyutthānāśayaḥ syādavyutthānāśayāśca bodhisattvāḥ /
-> satyamavyutthānāśayā natu āsrava mārgāvyutthānāt /
-> kathaṃ tarhi "na tāvat bhetsyāmi paryaṅkamaprāpte āsravakṣaya" iti /
-> asyāśayasyāvyutthānā dekāyana eva sarvārthaparisamāpteriti bahirdeśakāḥ /
-> pūrvameva tu varṇayanti kāśmīrāḥ /
+> What is the attainment of cessation? “This attainment called cessation
+> is likewise.” What does “likewise” carry forward from the Non-Reflecting
+> attainment? “Cessation of consciousness and associated mental factors.”
+>
+> Its difference is this: it is for abiding. It is entered through attention
+> preceded by the conception of peaceful abiding; the other is entered
+> through attention preceded by the conception of escape. The other belongs
+> to the fourth dhyāna; this belongs exclusively to the Essence of neither
+> Reflection nor non-Reflection, the summit of existence.
+>
+> It is wholesome, neither afflicted nor indeterminate. Its maturation may
+> be experienced in the next life or a later life, and it may remain unfixed
+> with respect to maturation if final nirvāṇa occurs in this life. Its
+> maturation at the summit of existence has four Bases.
+>
+> It belongs exclusively to noble persons. Ordinary persons cannot produce
+> it because they fear annihilation, because it is produced through the
+> power of the noble Path, and because noble persons are resolved toward
+> nirvāṇa in this life. Even noble persons do not obtain it merely through
+> dispassion; it is acquired through deliberate preparation. A past
+> instance is not acquired and a future instance is not cultivated, because
+> its cultivation proceeds through the power of consciousness.
+>
+> The Buddha acquires it together with awakening and the knowledge of
+> exhaustion. The complete manifestation of the Buddha's qualities depends
+> only on intention, not on ordinary preparatory practice. Teachers of the
+> outer regions say that the Bodhisattva produces the attainment earlier
+> while still a trainee; Kāśmīra teachers deny this because the thirty-four
+> consciousness-moments of awakening leave no interval for the dissimilar
+> consciousness required for the attainment.
 
-The excerpt follows printed 69.24–71.15 in
-`Vasubandhu/Sources/kosabhasya.txt`, with source labels removed
-and the verse number regularized. Apparent defects remain visible;
-contextual translation decisions are recorded below. No independent
-collation is claimed.
-
-## 3. Continuous Conventional Translation
-
-What now is the attainment of cessation? “This attainment called
-cessation is likewise.” Likewise as the non-percipient attainment:
-what feature does “likewise” carry forward? “Cessation of
-consciousness and mental factors.” Its difference is this: it
-is “for abiding.” One enters it through attention preceded by
-the conception of peaceful abiding, whereas the other is entered
-through attention preceded by the conception of escape. That
-attainment belongs to the fourth dhyāna; this is “born of the
-summit of existence.” It belongs exclusively to the sphere of
-neither-recognition-nor-non-recognition. It is “wholesome,” neither
-afflicted nor indeterminate. Being wholesome, it is “experienced
-at two times, and also unfixed.” Its result may be experienced
-in the next rebirth or in a later life. It is also unfixed with
-respect to maturation: it may not mature, if one attains final
-nirvāṇa here. Its maturation at the summit of existence comprises
-four aggregates.
-
-It belongs exclusively “to a noble person.” Ordinary persons
-cannot produce it, because they fear annihilation, because it
-is produced through the power of the noble path, and because
-of resolve toward nirvāṇa in this very life. Even a noble person
-does not obtain it through dispassion. How, then? It is “acquired
-through application.” It is obtained only through application;
-a past instance is not acquired, nor is a future instance cultivated,
-since such cultivation takes place through the power of consciousness.
-
-Is it acquired through application even by the Blessed One?
-No, he says: “For the Sage it is acquired through awakening.”
-Buddhas acquire it at the same time as the knowledge of exhaustion.
-Nothing belonging to Buddhas is called acquired through application:
-the manifestation of their complete qualities depends only on
-their wish. Thus, for them, it is acquired through complete
-dispassion.
-But if the attainment of cessation has not been produced, how
-is the Blessed One established as liberated in both respects
-at the time of the knowledge of exhaustion? He is so established
-because he has mastery over it, as if it had been produced.
-Western teachers say that the bodhisattva produces it earlier,
-while still a trainee. Why is this not accepted? It would also
-make authoritative the elder Upagupta's instructional statement:
-“One should say that the Tathāgata, having produced the attainment
-of cessation, produces the knowledge of exhaustion.”
-
-“Not beforehand.” The Kāśmīra teachers say that producing it
-earlier is not tenable. Why? “Because awakening is attained
-in thirty-four moments.” It is said that the bodhisattva attains
-awakening in thirty-four moments of consciousness: sixteen for
-direct realization of the truths, and eighteen for dispassion
-from the summit of existence, through the nine uninterrupted
-paths and nine paths of liberation that abandon its nine grades
-of affliction. These make thirty-four. Since he enters certainty
-already free of attachment to the Essence of nothingness, the
-lower levels no longer remain to be abandoned. No dissimilar
-consciousness can occur within this interval; hence there is
-no occasion for the attainment of cessation.
-
-What would follow if a dissimilar consciousness occurred in
-between? He would intend to emerge, whereas bodhisattvas intend
-not to emerge. It is true that they intend not to emerge, but
-not in the sense of never emerging from the uncontaminated path
-[the reading is uncertain]. How, then, is the statement understood,
-“I shall not break this cross-legged posture before attaining
-the exhaustion of the contaminants”? The teachers of the outer
-regions explain it as not departing from that resolve, since
-all the aims are completed in one course. The Kāśmīra teachers,
-however, maintain the former account.
-
-The phrase *satyam avyutthānāśayā na tu āsrava-mārgāvyutthānāt*
-is uncertain in the available transcription. The translation
-preserves its contrast between the resolve not to emerge and the
-āsrava path, but leaves their precise relation unresolved. It
-does not infer a general permission for interruption or claim
-a restored Sanskrit reading. The regional disagreement is preserved.
+The transcription is defective in the line about the Bodhisattva's resolve
+not to emerge. The translation preserves the contrast and regional
+disagreement without claiming a restored reading.
 
 ## 4. Movement and Voices of the Commentary
 
-The first movement differentiates the two attainments by purpose,
-level, ethical character, maturation, eligibility, and acquisition.
-The second asks whether the application rule holds for the Buddha,
-then develops the controversy over prior production of cessation
-while the bodhisattva is still a trainee.
+The passage begins by narrowing the shared predicate between the two
+attainments. It then differentiates purpose, Principle-level, ethical kind,
+maturation, practitioner, and acquisition. The Buddha is introduced as an
+exception to the normal acquisition rule, followed by a regional debate
+over whether the Bodhisattva produced the attainment before awakening.
 
-The mastery reply, western-teacher proposal, Upagupta citation,
-Kāśmīra chronology, and outer-region reply remain distinct. The
-passage ends by recording that the Kāśmīra teachers retain their
-account. It does not establish agreement among the positions.
-The first-half discussion of VAK 2.44 is already embedded here: the
-Buddha question begins at 70.21, and its verse fragment follows at 70.22.
-The second half resumes at 71.16 with the two attainments' common
-support; its kārikā phrase follows at 71.17.
+The text must not be reduced to a contrast between “unconscious states.”
+The shared citta-caitta cessation is one explicitly limited predicate in a
+larger configuration of relations.
 
-## 5. What “Likewise” Preserves
+## 5. Purpose and Level
 
-As in VAK 2.42, “likewise” imports cessation of consciousness
-and mental factors, not every property of the preceding attainment.
-Here the preparatory conception is peaceful abiding rather than
-escape; the level is the summit of existence rather than the
-fourth dhyāna; the eligible practitioner is noble rather than
-ordinary.
+The difference of purpose is stated by the Bhāṣya:
 
-The two attainments share a description of cessation while differing
-in the conditions under which it is entered. The passage does
-not identify the attainment of cessation with final nirvāṇa.
-Indeed, it separately invokes final nirvāṇa as a reason its
-maturation may never occur.
+```text
+Non-Reflecting attainment:
+    attention preceded by conception of escape
 
-## 6. Maturation and Ordinary Acquisition
+Attainment of cessation:
+    attention preceded by conception of peaceful abiding
+```
 
-“Two times” concerns the next rebirth and a subsequent later
-life. “Unfixed” here concerns maturation and permits no maturation
-when final nirvāṇa occurs. It is not the ethical category
-indeterminate: the attainment is expressly wholesome.
+The levels are also distinct. The Non-Reflecting attainment belongs to the
+fourth dhyāna. The attainment of cessation belongs only to the Essence of
+neither Reflection nor non-Reflection, the summit of existence. The latter
+is not a metaphorical summit or a general absence of consciousness.
 
-The four-aggregate result belongs to the formless summit. This
-contrasts with the five-aggregate result stated for the non-percipient
-attainment. Wholesomeness is common to both causes, but does
-not make their results or maturation timing identical.
+## 6. Noble Path and Acquisition
 
-For noble practitioners under the ordinary rule, acquisition
-requires application rather than mere dispassion. The exclusion
-of past acquisition and future cultivation concerns the technical
-mode of obtaining the attainment. The explanation invokes the
-power of consciousness required for cultivation; it must be
-read with the attainment's cessation of consciousness, not as
-an assertion that its preparatory practice lacks consciousness.
+The attainment is exclusively for a noble person. The Bhāṣya gives three
+reasons ordinary persons cannot produce it: fear of annihilation, the power
+of the noble Path required for its production, and the noble orientation
+toward nirvāṇa in the present life.
 
-## 7. The Buddha's Acquisition and the Regional Dispute
+It is not obtained merely through dispassion. Deliberate preparation is
+required. The past instance is not acquired and no future instance is
+cultivated because the cultivation requires consciousness. This describes
+the technical acquisition rule, not an assertion that the attainment lacks
+causal continuity.
 
-The Buddha is treated as an exception: acquisition accompanies
-the knowledge of exhaustion, and manifestation is available
-through mastery. The claim about nothing being application-acquired
-for Buddhas belongs to this explanation of their qualities;
-it should not be expanded into a denial of the bodhisattva's
-previous practice.
+## 7. Buddha and the Regional Debate
 
-The objection distinguishes acquisition or mastery from actual
-prior production of the attainment. The mastery reply accepts
-that distinction; the western account instead posits earlier
-production. They answer the same difficulty through different
-claims, not two interchangeable descriptions.
+The Buddha acquires the attainment with awakening and knowledge of
+exhaustion. The Bhāṣya describes no Buddha-quality as acquired by ordinary
+practice, since its manifestation depends on intention.
 
-The Kāśmīra argument requires an uninterrupted thirty-four-moment
-path sequence. Its count combines sixteen truth-realization
-moments with nine pairs for the summit's afflictions, the lower
-levels already having been addressed. The outer-region teachers interpret the pledge as maintaining the
-resolve to complete all aims in one course. The uncertain syntax
-does not settle whether a dissimilar consciousness can intervene.
-The Kāśmīra teachers retain their earlier account.
+Teachers of the outer regions appeal to mastery and say the Bodhisattva
+produced the attainment earlier in the trainee state. Kāśmīra teachers
+deny this. Their thirty-four-moment account has sixteen consciousness
+moments for realization of truth and eighteen for dispassion from the
+summit of existence. Since no dissimilar consciousness can intervene, they
+see no opportunity for the attainment. The source's reply concerning the
+Bodhisattva's resolve is textually uncertain and remains unresolved.
 
-## 8. Translation and Textual Limits
+## 8. Interpretation
 
-The source contains apparent defects including *asaṃjñimāpatthiḥ*,
-*klilṣṭā*, *pariniarvāyāt*, and *kṣayajñānasamanaṃ kālam*. The
-English contextually reads the non-percipient attainment, afflicted,
-final nirvāṇa, and simultaneity with knowledge of exhaustion.
-The continuous excerpt retains the transmitted forms.
+The Bhāṣya gives the exact result you anticipated: **the instrument is not
+the whole story.** The present availability of consciousness and associated
+mental factors is an empirical profile, an image and episode of the wheel.
+The attainment of cessation shares their operational suspension with the
+Non-Reflecting attainment, but their purposeful and Path determinations are
+opposed.
 
-“Emerging” in the final dispute and breaking the seated posture
-in the quotation should not be flattened into the same literal
-action. The reply's distinction depends on different senses
-of maintaining one's course. Likewise, the reportive *kila*
-in the thirty-four-moment account is retained rather than turning
-a contested chronology into an unqualified fact.
+```text
+Non-Reflecting attainment:
+    takes suspension as imagined escape;
+    produces a conditioned maturation
 
-The closing *pūrvam eva* records adherence to the former account.
-It is not the author's announcement that the outer-region reply
-has been withdrawn or that the preceding difficulty has been
-resolved for all parties.
+Attainment of cessation:
+    is entered for peaceful abiding;
+    requires noble-path power and present-life nirvāṇa orientation;
+    may have no future maturation when final nirvāṇa occurs
+```
 
-## 9. Philosophical and Organon Study
+Thus *nirodha* cannot be defined by an ordinary practitioner's appearance
+of “nothing happening.” The distinguishing determination is not a
+subjectively empty episode but the Path relation: its purpose, support,
+causal basis, practitioner, and liberation-directed possibility.
 
-The passage distinguishes a state's shared description from
-its purpose, path-basis, causal result, and mode of acquisition.
-Cessation alone cannot determine those relations. The account
-of the Buddha adds another distinction: mastery over an attainment
-and its previous manifestation need not coincide under the
-reply being defended.
+Vijñāna is Discriminative Cognition joining and governing Perception and
+Conception. Their unity is Inconceivable as homogeneous operation, with its
+Idea disclosed in the Cognition Base. Vijñāna governs Mind and guides Dharma
+Base. The cessation attainment does not identify Vijñāna with the
+manifested instrument or abolish the governing relation that makes the
+Path's differentiations intelligible.
 
-For Organon interpretation, the regional dispute makes the scale
-of continuity explicit. An uninterrupted sequence of path moments
-and an unbroken resolve to complete awakening are different
-conditions. The text records disagreement over which is required,
-and a reconstruction should preserve that disagreement rather
-than substitute a general language of continuity for both.
+## 9. Review Status
 
-These distinctions support a systematic account of attainment
-without equating suspension of consciousness with liberation
-or assuming that every acquisition must follow prior manifestation.
-The source's particular arguments, qualifications, and voices
-supply the grounds for each claim.
-
-**Organon note (limited application):** Keep the attainment's ordinary
-acquisition through application distinct from the Buddha-specific account
-and from the disputed claim of prior bodhisattva production. Preserve the
-regional disagreement without resolving it through a broader theory of
-continuity.
-
-## 10. Review Status
-
-Provisional forty-third study of the restarted Indriyanirdeśa
-Bhāṣya sequence. The research Bhāṣya, existing Organon kārikā
-anchor, preceding continuous study, and running Sanskrit at
-69.24–71.15 have been compared.
-
-The cessation-attainment classification and complete debate over
-the Buddha's acquisition are translated through the close of the
-regional dispute. The damaged non-emergence sentence and regional
-positions are explicit. Original witnesses and existing studies
-are unchanged. The first half of VAK 2.44 is embedded at 70.21–71.15;
-its second half resumes at 71.16.
+The kārikā and Bhāṣya have been compared with the source transcription at
+69.24–71.15. The restricted scope of “likewise,” peaceful abiding,
+summit-level support, ethical and maturational distinctions, noble-path
+restriction, preparation rule, Buddha exception, thirty-four-moment
+argument, and regional disagreement are retained. The textual crux is
+marked and the source witness is unchanged.

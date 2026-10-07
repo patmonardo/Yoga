@@ -53,7 +53,7 @@ the contextual contrast with desire-realm male-being; no words
 specifying the alternative characteristic are added to the Sanskrit.
 No independent collation is claimed.
 
-## 3. Continuous Conventional Translation
+## 3. Scientific English Rendering
 
 Which of these faculties belongs to which realm? “Excluding the
 stainless triad, they belong to the desire realm.” First, the
@@ -81,7 +81,7 @@ is softened by tranquillity and because bases for resentment are absent.
 faculties and what is material.” The exclusion of the female and
 male faculties, the two painful faculties, and the stainless triad
 continues to apply. What remains? The faculties of mind, life,
-and neutral feeling, together with the five beginning with faith.
+and neutral feeling, together with the five beginning with confidence.
 These, and no others, are found connected with the formless realm.
 
 ## 4. Movement and Voices of the Commentary
@@ -144,7 +144,7 @@ general claim that a subtler realm is simply happier.
 
 The formless rule removes pleasure and gladness, as well as material
 faculties, while retaining the earlier exclusions. The surviving
-eight are mind, life, neutral feeling, faith, vigor, recollection,
+eight are Mind, Life, neutral feeling, confidence, vigor, recollection,
 concentration, and prajñā.
 
 The subtraction must avoid double-counting. The female and male
@@ -177,52 +177,43 @@ leaving the reader to infer a fresh, independent list each time.
 *Rūpi* collects the material faculties; it does not identify the
 form realm itself as the item being subtracted.
 
-## 9. Philosophical and Organon Study
+## 9. Interpretation
 
-**Organon extension—not a literal Bhāṣya doctrine:** Realm conditions can be read as different horizons for the temporal articulation of faculties, but not as a guaranteed itinerary or a measure of spiritual advancement. Universal Cognition names the mode of operation bounded by each realm-profile; the particular Ideas are the included and excluded faculties. The distinction preserves the commentary's separation of realm-affiliation from stainless path-realization.
+The Bhāṣya distinguishes Faculty-identity, possible realm-affiliation,
+and without-outflow status. The stainless triad is excluded because
+it is *apratisaṃyukta*, unconnected with all three realms; this does
+not mean that a being associated with a realm cannot develop the
+realization-Faculties. The form-realm discussion preserves the
+scriptural objection about the designation “male” and the reply's
+distinction of senses, without supplying an unstated positive account
+of the alternative characteristic.
 
-The passage tests how a previously defined faculty-system is
-qualified by realm. The same vocabulary must retain several
-relations: faculty identity, possible realm-affiliation, and
-without-outflow status. Confusing those relations would make
-the stainless triad appear either impossible for embodied knowers
-or merely a feature of the highest conditioned realm.
+The nested exclusions yield possible realm-profiles, not a complete
+inventory of beings or a universal minimum for mental life. The
+project crosswalk with Dhātu 1.48 relates those profiles to the
+Base–Essence–Principle map while keeping locus distinct from
+realm-affiliation. This is an Organon comparison, not a claim made
+by the Bhāṣya.
 
-For Organon reconstruction, the male-designation objection supplies
-a precise example of why shared wording cannot settle identity.
-The scriptural use of “male” is raised as evidence for a faculty;
-the reply distinguishes the sense relevant to that inference.
-The differentiation is part of the argument, not a permission to
-invent the unspecified alternative's positive content.
+Across the Kośa, Vijñāna is Discriminative Cognition joining Perception
+and Conception without reducing their unity to one homogeneous
+operation; it governs Mind and guides the reading of Dharma Base. The
+same *avijñapti* remains one content in the Form Base and Dharma Base
+classifications, and Vijñāna bears a *prati* relation to it. This
+cross-chapter synthesis is an Organon framework, not a claim made by
+this Bhāṣya.
 
-The nested exclusions then show how a system can remain identifiable
-while its admissible members vary with context. This reconstruction
-concerns the stated faculty classification. The Bhāṣya does not
-turn its final eight into a general theory of minimal mental life.
+In a Kant-informed Techne reading, cumulative exclusions specify
+compatibility within this classification; they do not entail a
+chronological path of ascent or a hierarchy culminating in the
+stainless triad. This is a project-level interpretation, not
+terminology or philosophical attribution supplied by the source.
 
-**Return to Dhātu at its last kārikā:** VAK 1.48 is the exact point
-of return. It maps Faculty-status across the sensory Domains, the
-Citta Domains, a part of Body, and a portion of Essence. Realm-
-affiliation is a further axis: the formless eight comprise Mind,
-Life, neutral feeling, and the five beginning with Confidence; the
-three realization-Faculties are located partly in Essence yet are
-*apratisaṃyukta*, unconnected with all three realms. A Dhātu-locus
-therefore does not entail realm-connection.
+## 10. Textual and Scope Notes
 
-On the Fichtean return, the cumulative exclusions negate an
-undifferentiated realm-profile and reconstruct each profile from
-the Faculty-loci already given at Dhātu 1.48.
-
-## 10. Review Status
-
-Provisional twelfth study of the restarted Indriyanirdeśa Bhāṣya
-sequence. The research kārikā and Bhāṣya, existing Organon kārikā
-study, running Sanskrit at 46.17–47.03, and opening of the next
-research unit have been compared.
-
-The continuous translation includes the scriptural objection and
-reply, all form-realm reasons, and the explicit formless remainder.
-The two pleasant faculties and the distinction between affiliation
-and occurrence are preserved. Original witnesses and the existing
-kārikā study are unchanged. The next unit begins with abandonment
-at VAK 2.13.
+The continuous translation preserves the scriptural objection and
+reply, all stated form-realm reasons, and the explicit formless
+remainder. The two pleasant Faculties and the distinction between
+affiliation and occurrence remain explicit. Mechanical repairs are
+recorded above; no independent collation is claimed. The next unit
+begins with abandonment at VAK 2.13.

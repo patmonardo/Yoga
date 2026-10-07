@@ -42,7 +42,7 @@ the former remains in the continuous excerpt. The prose explicitly
 identifies two uncontaminated faculties as excluded, securing the
 sense despite the discrepancy in vowel length.
 
-## 3. Continuous Conventional Translation
+## 3. Scientific English Rendering
 
 Now, with how many faculties is someone endowed who possesses
 the greatest number? “Endowed with the greatest number, nineteen,
@@ -55,9 +55,9 @@ not yet free from attachment is also endowed with the greatest
 number, nineteen, “excluding one sex faculty and two stainless
 faculties”: excluding one sex characteristic and two uncontaminated
 faculties—the faculty of one who has known and either one of the
-other two. The detailed differentiation of the faculties, which
-entered the discussion in connection with the differentiation
-of the dhātus, has now been stated.
+other two. The detailed differentiation of the Faculties, which entered the
+discussion in connection with the differentiation of the Principles,
+has now been stated.
 
 ## 4. Movement and Voices of the Commentary
 
@@ -151,14 +151,10 @@ identifies them. “Stainless” is therefore not an unspecified
 collection of wholesome qualities.
 
 The closing *dhātuprabheda* is rendered “differentiation of the
-dhātus.” In the chapter's broader sequence it recalls the analysis
-of dhātus from which the faculty discussion arose. The word
-*dhātu* should not silently become “realm” merely because realm
-affiliation has also been discussed within the intervening analysis.
-The sentence marks the completion of that extended discussion,
-without adding a new classification.
+Principles.” It recalls the Principle analysis from which the
+Faculty discussion arose; it does not add a new classification.
 
-## 9. Philosophical and Organon Study
+## 9. Interpretation
 
 The maximum, like the minimum, is meaningful only with its
 specified membership. Nineteen is compatible with the absence
@@ -172,41 +168,39 @@ three interchangeable absences: they identify different relations
 between bodily differentiation and path status. Preserving the
 count while changing those members would change the case.
 
-This remains a reconstruction from a bounded classification.
-The passage does not establish that each exclusion is a causal
-mechanism, or that a maximum inventory defines the goal of practice.
-Its positive result is the exact upper count together with two
-ways that count is instantiated.
+The return to Principle 1.48 is a project crosswalk: it relates the
+two maximum configurations to the Base–Essence–Principle architecture
+without replacing that classification. The Principle map alone does
+not specify which Faculties a bearer possesses; the local Rule here
+distinguishes the cases by bearer and exclusions.
 
-**Organon reading:** The two profiles are distinct present determinations
-within the faculty-system of Śuddha Sattva: conditioned completeness
-without stainless realization, and trainee path-status with a different
-embodied and realizational exclusion. Their equal number is not a linear
-measure of attainment or a biography every continuum follows. This
-interpretation extends the count philosophically; it is not a claim made
-by the Bhāṣya itself.
+Across the Kośa, Vijñāna is Discriminative Cognition joining and
+governing Perception and Conception. Their unity is Inconceivable as
+a homogeneous operation; its Idea is disclosed in the Cognition Base.
+Vijñāna governs Mind and guides the reading of Dharma Base. Form Base
+and Dharma Base both include the same *avijñapti* in distinct
+classifications, and Vijñāna bears a *prati* relation to it. This
+governing synthesis frames the local Faculty analysis without
+collapsing Base, Essence, and Principle.
 
-**Principle–Rule reciprocity (Organon, not source terminology):** VAK 1.48
-is the Principle of typed Faculty-incidence across Domains and
-Domain-parts. VAK 2.21 supplies a local Rule of maximum possession: nineteen
-under either of two specified conditions, with different exclusions. The
-Principle does not by itself state which Faculties one bearer possesses;
-the Rule does not replace their Dhātu loci with a bare count. Their unity
-makes the result scientific: the Rule determines admissible configurations
-within the Principle, while the contrasted configurations reveal the
-Principle's Faculty distinctions as operative under worldly and path-status
-conditions. This is a local step toward, not the completion of, the
-chapter-wide Principle:Rule pass.
+**Principle–Rule relation (project-level Techne).** The Principle is
+the classification of Faculties in VAK 1.48; the Rule in VAK 2.21
+selects two maximum-possession configurations from that classification
+according to bearer and path-status. This articulation relates the
+local Rule to the Principle without attributing the terminology to
+the Bhāṣya.
 
-## 10. Review Status
+In the Kant-informed Techne, exclusions are part of each determination:
+the count is preserved only with its bearer, included Faculties,
+excluded Faculties, and path-status. The two nineteen-member sets
+are distinct configurations, not points on a single scale.
 
-Provisional twenty-first study of the restarted Indriyanirdeśa
-Bhāṣya sequence. The research Bhāṣya, existing Organon kārikā
-study, and running Sanskrit at 52.09–52.19 have been compared.
+## 10. Textual and Scope Notes
 
-Both nineteen-faculty cases and the closing sentence are translated
-continuously. The trainee's two excluded realization faculties
-are distinguished explicitly, and transcription repairs are
-recorded. Original witnesses and existing studies are unchanged.
+Both nineteen-Faculty cases and the closing sentence are rendered
+here. The trainee's two excluded realization Faculties are identified,
+and transcription repairs are recorded above. No independent
+collation is claimed. The closing sentence completes this extended
+Faculty-property analysis, not the Indriya chapter.
 VAK 2.22 begins with the inquiry at 52.19 into whether some
 conditioned dharmas necessarily arise together.

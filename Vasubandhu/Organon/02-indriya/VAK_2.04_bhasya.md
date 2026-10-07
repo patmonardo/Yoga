@@ -5,14 +5,14 @@
 > ājñāsyāmyākhyam ājñākhyam ājñātāvīndriyaṃ tathā /
 > uttarottarasaṃprāptinirvāṇādyādhipatyataḥ // 2.04 //
 
-> Likewise, the faculty called “I shall know,” the one called
-> “knowledge,” and the faculty of one who has known are faculties
+> Likewise, the Faculty called “I shall know,” the one called
+> “Knowledge,” and the Faculty of one who has known are Faculties
 > because of governing efficacy with respect to successive attainment,
 > nirvāṇa, and so forth.
 
 The Bhāṣya explains both “likewise” and “and so forth.” The former
-continues the preceding verse's individual faculty-status; the latter
-introduces another account of the three faculties' governing functions.
+continues the preceding verse's individual Faculty-status; the latter
+introduces another account of the three Faculties' governing functions.
 
 ## 2. Continuous Sanskrit
 
@@ -42,22 +42,22 @@ spacing or orthography and is recorded explicitly; no independent
 collation is claimed. The anchor joins the running witness's
 mechanically divided *ājñāsyā myākhyam* following the kārikā witness.
 
-## 3. Continuous Conventional Translation
+## 3. Scientific English Rendering
 
-The word “likewise” is used to indicate that each is individually
-a faculty. Among these, the faculty called “I shall know” has
-governing efficacy with respect to attainment of the knowledge-faculty;
-the knowledge-faculty, with respect to attainment of the faculty of
-one who has known; and the faculty of one who has known, with respect
-to parinirvāṇa. For there is no parinirvāṇa for one whose mind is
-not liberated.
+The word “likewise” indicates that each is individually a Faculty.
+Among these, the Faculty called “I shall know” has governing efficacy
+with respect to attainment of the Knowledge Faculty; the Knowledge
+Faculty, with respect to attainment of the Faculty of one who has
+known; and the Faculty of one who has known, with respect to
+parinirvāṇa. For there is no parinirvāṇa for one whose consciousness
+is not liberated.
 
 The expression “and so forth” indicates another mode of explanation.
-What is that other mode? The faculty called “I shall know” has
+What is that other mode? The Faculty called “I shall know” has
 governing efficacy with respect to abandonment of the afflictions
-to be abandoned by seeing; the knowledge-faculty, with respect to
+to be abandoned by seeing; the Knowledge Faculty, with respect to
 abandonment of the afflictions to be abandoned by cultivation;
-and the faculty of one who has known, with respect to pleasant
+and the Faculty of one who has known, with respect to pleasant
 abiding in the present life, because one experiences the joy and
 happiness of liberation.
 
@@ -65,7 +65,7 @@ happiness of liberation.
 
 The passage offers two explanations within one continuous account.
 It first distributes successive attainment and parinirvāṇa across
-the three faculties. It then uses the verse's *ādi*, “and so forth,”
+the three Faculties. It then uses the verse's *ādi*, “and so forth,”
 to introduce a second distribution: two kinds of abandonment and
 pleasant liberated abiding.
 
@@ -82,24 +82,24 @@ leaving *uttarottarasaṃprāpti* as an indefinite idea of progress:
 
 | Faculty | Governing function in the first account |
 |---|---|
-| *ājñāsyāmīndriya* | Attainment of the knowledge-faculty |
-| *ājñendriya* | Attainment of the faculty of one who has known |
+| *ājñāsyāmīndriya* | Attainment of the Knowledge Faculty |
+| *ājñendriya* | Attainment of the Faculty of one who has known |
 | *ājñātāvīndriya* | Parinirvāṇa |
 
-The first two relations concern attainment of the next faculty.
-The third does not introduce a fourth, higher faculty. Its result
+The first two relations concern attainment of the next Faculty.
+The third does not introduce a fourth, higher Faculty. Its result
 is parinirvāṇa, and its stated reason is that parinirvāṇa is
-unavailable to one whose mind remains unliberated.
+unavailable while consciousness remains unliberated.
 
 That reason states a necessary condition. It should not be expanded
-into the claim that liberation of mind immediately entails
+into the claim that liberation of consciousness immediately entails
 parinirvāṇa, or that governing efficacy here is an independently
 sufficient cause. The following explanation expressly includes
 the liberated person's pleasant abiding in the present life.
 
 ## 6. Abandonment by Seeing and by Cultivation
 
-The second account identifies what the first two faculties accomplish
+The second account identifies what the first two Faculties accomplish
 with respect to afflictions. The first governs abandonment of those
 to be abandoned by seeing; the second governs abandonment of those
 to be abandoned by cultivation. *Darśanaheya* and *bhāvanāheya*
@@ -114,19 +114,19 @@ give the detailed stages of their abandonment.
 The terminology also advances beyond the previous unit's
 *viṣkabhyante*, “are suppressed.” Here the reading text has
 *prahāṇa*, “abandonment.” The two passages assign different
-functions to their respective faculty groups; their verbs should
+functions to their respective Faculty groups; their verbs should
 not be flattened into one generic term for improvement.
 
 ## 7. The Accomplished Faculty and Present Abiding
 
-The third faculty governs *dṛṣṭadharmasukhavihāra*, pleasant abiding
+The third Faculty governs *dṛṣṭadharmasukhavihāra*, pleasant abiding
 in the present life. Its reason is *vimuktiprītisukhasaṃvedana*,
-experience of the joy and happiness of liberation. The final faculty
+experience of the joy and happiness of liberation. The final Faculty
 thus receives a present experiential determination alongside its
 relation to parinirvāṇa in the first account.
 
 “One who has known” names accomplished knowing in this technical
-sequence. The explanatory emphasis is on what that faculty governs,
+sequence. The explanatory emphasis is on what that Faculty governs,
 including the experience of liberation. The text does not identify
 pleasant abiding with parinirvāṇa, nor does it make ordinary pleasant
 feeling sufficient evidence of liberation.
@@ -134,14 +134,15 @@ feeling sufficient evidence of liberation.
 ## 8. The Bhāṣya's Decisions for Translation
 
 *Tathā*, “likewise,” carries forward *pratyekam indriyam*: each is
-individually a faculty. It does not collapse the three into one
-faculty with three names. The shortened “I shall know” belongs to
+individually a Faculty. It does not collapse the three into one
+Faculty with three names. The shortened “I shall know” belongs to
 the technical name already listed more fully as “I shall know what
 has not been known”; the abbreviated form is retained here.
 
-*Ājñā* is rendered “knowledge” within the faculty-name. Its precise
-place is supplied by the two governing relations, rather than by
-treating it as a name for all knowing. The three names alone should
+*Ājñā* is rendered “Knowledge” only within this technical Faculty-name.
+It is distinct from *jñāna* and *vijñāna*. Its precise place is supplied
+by the two governing relations, rather than by treating it as a name for
+all knowing. The three names alone should
 not be reduced to future, present, and past tenses of an ordinary
 cognitive act.
 
@@ -152,52 +153,40 @@ unlimited list of unspecified results. *Dṛṣṭadharma* is rendered
 “the present life,” while “joy and happiness” retains the two terms
 *prīti* and *sukha* without supplying a further analysis absent here.
 
-## 9. Philosophical and Organon Study
+## 9. Interpretation
 
-The two accounts distinguish a faculty's place in a succession from
-the work through which that place becomes intelligible. Attainment
-of the next faculty answers one question; abandonment of a specified
-class of afflictions answers another. The third faculty completes
-the succession while also governing a positive mode of liberated
-abiding.
+The two distributions must remain distinct. One orders successive
+attainment and then parinirvāṇa; the other assigns abandonment by seeing,
+abandonment by cultivation, and pleasant abiding in the present life.
+The final Faculty does not introduce a fourth Faculty: parinirvāṇa is
+the stated result, and the Bhāṣya names liberated consciousness as a
+necessary condition.
 
-**Organon reading — reciprocal return to Dhātu:** Dhātu 1.48 assigns
-portions of the final three Faculties to the Essence-Domain and places
-the non-external Domains within Mind-Cognition's reach. Indriya 2.04
-returns to that map by showing the practical sequence those path-related
-determinations govern: successive attainment, abandonment by seeing,
-abandonment by cultivation, and liberated abiding. The Domain map
-grounds the locus; the Faculties reconstruct it as path in operation.
+**Kant-informed Techne.** The sequence articulates determinate
+conditions and operations within the practical path; it is not merely a
+series of tenses, a universal biography, or a set of independent
+substances. The VAK 1.48 crosswalk locates portions of these Faculties
+within the relevant Essence classification, while this Bhāṣya specifies
+their governing functions.
 
-“I shall know what is not yet known,” knowing, and having known are
-not merely grammatical future, present, and past. As an Organon
-reading, the first faculty negates the status “not yet known” by
-positing knowing as a task, not by annulling its object. The sequence
-reconstructs that status through distinct path-functions and attained
-knowing. This sharpens VAK 2.03's *viṣkambha* (checking
-or suppression) into the *prahāṇa* (abandonment) by seeing and
-cultivation stated here. Negation does not erase the Dhātu conditions
-of cognition; it returns them as a more determinate path-structure
-within mind. The sequence offers an SDSL pattern for testing the
-larger Prajñā/GDSL/SDSL isomorphism, without making these faculty
-names literal synonyms for Prajñā, Dharma, and Jñāna.
+Across the Kośa, Vijñāna is Discriminative Cognition joining Perception
+and Conception without reducing their unity to one homogeneous
+operation; it governs Mind and guides the reading of Dharma Base. The
+same *avijñapti* remains one content in the Form Base and Dharma Base
+classifications, and Vijñāna bears a *prati* relation to it. This wider
+synthesis frames, but is not stated in full by, this passage.
 
-These are Transcendental Time Determinations of Śuddha Sattva, not
-a universal biography imposed on every continuum. The Bhāṣya gives
-the three technical Faculties and their two distributions; the
-Organon reading preserves those distinctions and does not make
-parinirvāṇa another faculty-stage.
+In the Techne, Citta is Universal, the Base–Essence–Principle schema
+is Particular, and Buddha Mind is Singular as the actual executing
+instance. Indriyanirdeśa is a practical instance of Citta, not a
+general theory of Mind. The technical name *ājñā* here is distinct
+from *jñāna* (ordinary knowledge; Conceiving in the inner-instrument
+Techne) and *vijñāna* (Cognition).
 
-## 10. Review Status
+## 10. Textual Limits
 
-Provisional fourth study of the restarted Indriyanirdeśa Bhāṣya
-sequence. The research kārikā and Bhāṣya, existing Organon kārikā
-study, and running Sanskrit at 40.01–08 have been compared. The
-next research unit confirms the boundary before the objection
-concerning additional faculties.
-
-Both explanatory accounts are translated continuously. The repair
-of the seeing-abandonment phrase is explicit; successive attainment,
-abandonment, present abiding, and parinirvāṇa remain distinct.
-Original witnesses and the existing kārikā study are preserved.
-This study ends before VAK 2.05.
+The repair of *darśnaheyakleśaparihāṇam* to
+*darśanaheyakleśaprahāṇam* follows the research Bhāṣya and parallel
+construction; independent collation remains open. The unit's two
+distributions and its distinction between *nirvāṇa* in the verse and
+*parinirvāṇa* in the prose are retained.

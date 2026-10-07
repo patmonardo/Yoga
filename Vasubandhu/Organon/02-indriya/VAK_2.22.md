@@ -13,10 +13,10 @@
 > kāyendriyī navadravyaḥ daśadravyo 'parendriyaḥ // 2.22 //
 
 `Paramāṇu` must be read through the Bhāṣya's definition here. It is the most
-subtle material aggregate within which no further constituent can be
+subtle Form aggregate within which no further constituent can be
 discriminated, not a solitary simple particle in the modern physical sense.
 
-## 3. Padaccheda
+## 3. Lexical Analysis
 
 ```text
 kāme                → kāme
@@ -30,21 +30,19 @@ daśadravyo          → daśa-dravyaḥ
 aparendriyaḥ        → apara-indriyaḥ
 ```
 
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
-| kāme | locative singular | in the desire realm |
-| aṣṭa-dravyakaḥ | nominative masculine singular compound | consisting of eight real constituents |
+| kāme | locative singular | in the Desire Principle |
+| aṣṭa-dravyakaḥ | nominative masculine singular compound | consisting of eight constituents |
 | a-śabdaḥ | nominative masculine singular privative compound | without sound |
-| paramāṇuḥ | nominative masculine singular | minimal material aggregate |
-| an-indriyaḥ | nominative masculine singular privative compound | without a sensory faculty |
-| kāya-indriya-in | nominative masculine singular possessive formation | possessing the body faculty |
+| paramāṇuḥ | nominative masculine singular | minimal Form aggregate |
+| an-indriyaḥ | nominative masculine singular privative compound | without a sensory Faculty |
+| kāya-indriya-in | nominative masculine singular possessive formation | possessing the Body Faculty |
 | nava-dravyaḥ | nominative masculine singular compound | consisting of nine constituents |
 | daśa-dravyaḥ | nominative masculine singular compound | consisting of ten constituents |
-| apara-indriyaḥ | nominative masculine singular compound | possessing another sensory faculty |
+| apara-indriyaḥ | nominative masculine singular compound | possessing another sensory Faculty |
 
-`Dravya` here counts distinct material constituents in a co-arising
-aggregate. It should not be imported as Hegelian Substance or as a modern
-chemical element.
+`Dravya` here counts distinct constituents in a co-arising Form aggregate.
 
 ## 4. Grammar
 
@@ -52,10 +50,10 @@ The first line specifies four conditions of the base case:
 
 ```text
 kāme
-    → in the desire realm
+    → in the Desire Principle
 
 paramāṇuḥ aśabdaḥ anindriyaḥ
-    → a minimal aggregate without sound and without a faculty
+    → a minimal Form aggregate without sound and without a Faculty
 
 aṣṭa-dravyakaḥ
     → consists of eight constituents
@@ -67,89 +65,102 @@ predication:
 ```text
 kāya-indriyī [paramāṇuḥ]
     → nava-dravyaḥ
-    → a body-faculty-bearing aggregate consists of 9
+    → a Body-Faculty-bearing aggregate consists of 9
 
 apara-indriyaḥ [paramāṇuḥ]
     → daśa-dravyaḥ
-    → an aggregate bearing another sensory faculty consists of 10
+    → an aggregate bearing another sensory Faculty consists of 10
 ```
 
-The Bhāṣya restricts `apara-indriya` to one among eye, ear, nose, and tongue.
-Such a cluster includes the body faculty as well as the selected further
-faculty. The Kārikā's counts are soundless cases; adding sound raises each
+The Bhāṣya restricts `apara-indriya` to one among Eye, Ear, Nose, and Tongue.
+Such a cluster includes the Body Faculty as well as the selected further
+Faculty. The Kārikā's counts are soundless cases; adding sound raises each
 count by one according to the Bhāṣya.
 
-## 5. Translation
+## 5. Scientific English Rendering
 
-### Close syntactic construe
+### Kārikā
 
-> In the desire realm, a soundless minimal aggregate without a faculty consists of eight constituents. One possessing the body faculty consists of nine; one possessing another [sensory] faculty consists of ten.
+> In the Desire Principle, a soundless minimal Form aggregate without a Faculty consists of eight constituents. One possessing the Body Faculty consists of nine; one possessing another [sensory] Faculty consists of ten.
 
-### Bhāṣya-informed translation
+### Bhāṣya-informed rendering
 
-> In the desire realm, the smallest soundless material aggregate without a sensory faculty necessarily contains eight constituents: the four great elements and four forms derived from them—visible form, odor, taste, and the tangible. A body-faculty aggregate contains those eight plus the body faculty, making nine. An aggregate bearing the eye, ear, nose, or tongue faculty also contains the body faculty, making ten. If sound co-arises, the respective totals become nine, ten, and eleven.
+> In the Desire Principle, the smallest soundless Form aggregate without a sensory Faculty necessarily contains eight constituents: the four Great Principles and four dependent Forms—visible Form, odor, taste, and tangible Form. A Body-Faculty aggregate contains those eight plus the Body Faculty, making nine. An aggregate bearing the Eye, Ear, Nose, or Tongue Faculty also contains the Body Faculty, making ten. If sound co-arises, the respective totals become nine, ten, and eleven.
 
 The sound-bearing variants and exact membership of the counts are Bhāṣya
 determinations; the Kārikā states the three soundless totals.
 
-## 6. Philosophical Translation
+## 6. Interpretation
 
-> Analytical difference does not entail independent production. Even the least discriminable unit of material form is a fixed co-arising of distinct constituents. A sensory faculty cannot occur as an isolated power: it requires a common elemental and sensible basis, and the four specialized sensory faculties additionally require the body faculty.
+Analytical distinction does not entail separate arising. The Bhāṣya
+defines the minimal *paramāṇu* as a Form aggregate within which no
+further constituent can be discriminated. The eight soundless
+constituents are four Great Principles and four dependent Forms.
+The Body Faculty adds one; a further sensory Faculty adds another.
+The Bhāṣya's co-arising counts are distinct from its later discussion
+of predominance, causal activity, and presence as seeds.
 
-Organon rendering:
+In the Kant-informed Techne, the Principle relation is analyzed
+through necessary co-arising without erasing the distinct
+characteristics of the constituents. The Rule is local: it applies
+to these conditioned Form aggregates and their Faculty-bearing
+variants, not to all classes of conditioned Dharmas.
 
-> The inquiry turns from a continuum's faculty-profile to the material conditions of embodied support. Distinct elemental constituents co-arise as one constrained material occurrence; this is not a sequence of temporal stages or an account of clock-timed atoms. For the Organon, such co-arising limits how the embodied support of Śuddha Sattva can be configured, while predominance and seed-presence remain different relations from present co-occurrence.
-
-This Organon reading does not identify the material constituents with
-faculties or alter the textual doctrine of necessary co-arising among distinct
-material dharmas.
+The Kośa's governing synthesis: Vijñāna is Discriminative Cognition joining
+and governing Perception and Conception. Their unity is Inconceivable as a
+homogeneous operation; its Idea is disclosed in the Cognition Base. Vijñāna
+governs Mind and guides the reading of Dharma Base. *Avijñapti* is the
+bridge, one Dharma classified in both Form Base and Dharma Base; Vijñāna
+bears a *prati* relation to it. This architecture joins the wider analysis
+of Form, Dharma, and Cognition without reducing the current Form-aggregate
+count to Faculty-possession or vice versa.
 
 ## 7. Technical Vocabulary
 
 | Sanskrit | Project rendering | Determination |
 |---|---|---|
 | niyata-sahotpāda | necessary co-arising | Bhāṣya statement of the new governing problem |
-| rūpa-saṃghāta | material aggregate | Bhāṣya category under which the minimal aggregate is defined |
-| paramāṇu | minimal material aggregate | most subtle cluster within which no further constituent is discriminated |
-| dravya | real constituent | counted material determination within the aggregate |
-| mahābhūta | great element | earth, water, fire, and air as the four-element basis |
-| upādāya-rūpa | derived material form | visible form, odor, taste, and the tangible in this eightfold count |
-| anindriya | without sensory faculty | qualification of the eight-constituent base cluster |
-| kāyendriya | body faculty | ninth constituent in its own faculty-bearing cluster |
-| aparendriya | another sensory faculty | eye, ear, nose, or tongue; tenth constituent after body |
+| rūpa-saṃghāta | Form aggregate | Bhāṣya category under which the minimal aggregate is defined |
+| paramāṇu | minimal Form aggregate | most subtle cluster within which no further constituent is discriminated |
+| dravya | real constituent | counted constituent within the aggregate |
+| mahābhūta | Great Principle | earth, water, fire, and air as the four-Principle basis |
+| upādāya-rūpa | dependent Form | visible Form, odor, taste, and tangible Form in this eightfold count |
+| anindriya | without sensory Faculty | qualification of the eight-constituent Form aggregate |
+| kāyendriya | Body Faculty | ninth constituent in its own Faculty-bearing aggregate |
+| aparendriya | another sensory Faculty | Eye, Ear, Nose, or Tongue; tenth constituent after Body |
 | śabda | sound | optional additional constituent in the variants explained by the Bhāṣya |
-| upātta-mahābhūta-hetuka | produced from appropriated great elements | Bhāṣya condition explaining co-arising sound in a living aggregate |
+| upātta-mahābhūta-hetuka | produced from appropriated Great Principles | Bhāṣya condition explaining co-arising sound in a living aggregate |
 
-The Bhāṣya introduces the larger fivefold classification—material form,
-mind, mental factors, forces dissociated from mind, and the unconditioned—to
-locate this first analysis. Only the material co-arising rule is specified in
-the present Kārikā.
+The Bhāṣya introduces the larger fivefold classification—Form Dharmas,
+consciousness, mental factors, formations dissociated from consciousness,
+and unconditioned Dharmas—to locate this first analysis. Only the co-arising
+rule for Form Dharmas is specified in the present Kārikā.
 
 ## 8. Logical Determination
 
 Let the fixed soundless base be:
 
 ```text
-GreatElements = {Earth, Water, Fire, Air}
-DerivedForms  = {VisibleForm, Odor, Taste, Tangible}
+GreatPrinciples = {Earth, Water, Fire, Air}
+DependentForms  = {VisibleForm, Odor, Taste, Tangible}
 
-MaterialBase = GreatElements ∪ DerivedForms
-Count(MaterialBase) = 8
+SoundlessFormAggregate = GreatPrinciples ∪ DependentForms
+Count(SoundlessFormAggregate) = 8
 ```
 
 The three Kārikā profiles are:
 
 ```text
 FacultylessSoundlessCluster
-    = MaterialBase
+    = SoundlessFormAggregate
 Count = 8
 
 BodyFacultySoundlessCluster
-    = MaterialBase ∪ {BodyFaculty}
+    = SoundlessFormAggregate ∪ {BodyFaculty}
 Count = 9
 
 OtherSenseSoundlessCluster(s)
-    = MaterialBase ∪ {BodyFaculty, s}
+    = SoundlessFormAggregate ∪ {BodyFaculty, s}
 where s ∈ {Eye, Ear, Nose, Tongue}
 Count = 10
 ```
@@ -185,69 +196,39 @@ paramāṇu
 
 ## 9. Interpretive Note
 
-VAK 2.22 opens a new inquiry after the long faculty-property analysis. The
-question is no longer merely which faculties a continuum possesses, but
-whether conditioned dharmas with distinct characteristics arise separately.
-The material minimum supplies the first negative answer: distinction is real,
-yet production is necessarily conjunctive.
+VAK 2.22 begins a new inquiry: whether conditioned Dharmas with
+distinct characteristics also arise separately, or whether some
+necessarily co-arise. The first rule concerns Form Dharmas. The
+minimal *paramāṇu* is the most subtle Form aggregate, not a solitary
+simple particle; its constituents remain distinguishable although
+no smaller aggregate is discriminated.
 
-This is why “atom” is potentially misleading. Vasubandhu does not describe a
-single simple that somehow contains eight smaller atoms. The Bhāṣya calls the
-`paramāṇu` the most subtle material aggregate. Its eight constituents remain
-analytically distinguishable although no smaller independently occurring
-material cluster is admitted in this desire-realm case.
+The counts express necessary co-arising, not a Faculty-profile:
+the soundless Form aggregate has eight constituents; the Body
+Faculty adds one; one further sensory Faculty adds another.
+Sound-bearing variants add one more according to the Bhāṣya.
+The succeeding debate distinguishes co-arising from perceptible
+predominance, causal activity, and presence as seeds. It also
+tests what the enumeration counts—individual constituents, Essences,
+or kinds—and preserves the opposed positions and unresolved
+inference concerning color in wind.
 
-The sensory faculties expose the dependency ordering:
+The transition from the previous possession analysis to co-arising
+is therefore a change in relation, not a replacement of one list
+by another. The Principle–Rule relation here is project-level
+Techne: Principle classifies; the local Rule constrains co-arising
+of the specified conditioned Form aggregates. It neither collapses
+constituents into Faculties nor generalizes this Form case to
+all conditioned Dharmas.
 
-```text
-specialized sensory faculty
-    requires body faculty
-
-body faculty
-    requires eightfold material base
-```
-
-An eye-faculty cluster is therefore not “the eye plus matter” as two
-externally attached items. Its tenfold profile expresses a rule of necessary
-co-production. The faculty is materially implemented only within its lawful
-supporting aggregate.
-
-For the Kośa Technē Agent, this supplies a generative constraint rather than
-a flat feature record:
-
-```text
-request EyeFaculty
-    → require BodyFaculty
-    → require MaterialBase
-    → validate realm and sound profile
-```
-
-The deeper importance lies in the transition now prepared. Necessary
-co-arising is first proven in material form; the following inquiry can then
-ask how consciousness and mental factors arise together and how those
-factors are distributed by their grounds (`bhūmi`). The atom discussion is
-therefore not a detour. It establishes the relation—distinct determination
-within necessary conjunction—that the mental-state architecture will use.
-
-**Organon temporal reading:** The eight-, nine-, and ten-constituent
-aggregates constrain what can co-occur as material support for embodiment;
-they do not describe faculties unfolding through temporal stages. This
-co-arising bears on the material support of Śuddha Sattva while leaving
-elemental composition distinct from the faculties whose governance is at
-issue elsewhere.
-
-**Principle and Rule: closure of Rule Theory (Organon reading).** Dhātu 1.48
-provides the Principle: a typed map that distinguishes Faculty-bearing
-Domains and Domain-parts from the external material fields without Faculty-
-status. The Bhāṣya here asks for a Rule: do conditioned dharmas with
-distinct characteristics arise separately, or do some necessarily arise
-together? Its material answer is conditional and exact: the soundless base
-has eight constituents; Body-Faculty adds one; another sensory Faculty adds
-one more, with sound adding one in the Bhāṣya's variants. The Rule does not
-collapse constituents into Faculties or replace their Dhātu placements; it
-specifies their lawful co-arising. In the Pruden framing you identify, this
-marks the end of Rule Theory at the faculty/material interface, before the
-inquiry broadens to further classes of conditioned dharmas.
+The Kośa's governing synthesis: Vijñāna is Discriminative Cognition joining
+and governing Perception and Conception. Their unity is Inconceivable as a
+homogeneous operation; its Idea is disclosed in the Cognition Base. Vijñāna
+governs Mind and guides the reading of Dharma Base. *Avijñapti* is the
+bridge, one Dharma classified in both Form Base and Dharma Base; Vijñāna
+bears a *prati* relation to it. This architecture holds Form, Dharma, and
+Cognition together without reducing the co-arising count to Faculty-
+possession.
 
 ## 10. OWL++ Seed
 
@@ -259,12 +240,12 @@ inquiry broadens to further classes of conditioned dharmas.
 vak:VAK_2_22
     a vak:Karika ;
     rdfs:label "VAK 2.22" ;
-    vak:hasTopic vak:NecessaryMaterialCoarising ;
+    vak:hasTopic vak:NecessaryFormCoarising ;
     vak:belongsTo vak:Indriyanirdesa .
 
-vak:MaterialBase
-    a vak:MaterialAggregate ;
-    vak:hasMember vak:FourGreatElements,
+vak:SoundlessFormAggregate
+    a vak:FormAggregate ;
+    vak:hasMember vak:FourGreatPrinciples,
         vak:VisibleForm,
         vak:Odor,
         vak:Taste,
@@ -272,25 +253,25 @@ vak:MaterialBase
     vak:hasCount 8 .
 
 vak:FacultylessSoundlessCluster
-    vak:hasBase vak:MaterialBase ;
+    vak:hasCommonAggregate vak:SoundlessFormAggregate ;
     vak:hasCount 8 .
 
 vak:BodyFacultySoundlessCluster
-    vak:hasBase vak:MaterialBase ;
+    vak:hasCommonAggregate vak:SoundlessFormAggregate ;
     vak:hasMember vak:BodyFaculty ;
     vak:hasCount 9 .
 
 vak:OtherSenseSoundlessCluster
-    vak:hasBase vak:BodyFacultySoundlessCluster ;
+    vak:extendsAggregate vak:BodyFacultySoundlessCluster ;
     vak:selectsOneFrom vak:EyeFaculty,
         vak:EarFaculty,
         vak:NoseFaculty,
         vak:TongueFaculty ;
     vak:hasCount 10 .
 
-organon:MaterialDependencyClosure
+organon:FormDependencyClosure
     a organon:InterpretiveReconstruction ;
     organon:preserves organon:DistinctDetermination ;
     organon:requires organon:NecessaryCoarising ;
-    organon:inferredFrom vak:NecessaryMaterialCoarising .
+    organon:inferredFrom vak:NecessaryFormCoarising .
 ```

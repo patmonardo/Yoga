@@ -5,14 +5,14 @@
 > vedanā cetanā saṃjñā cchandaḥ sparśo matiḥ smṛtiḥ /
 > manaskāro 'dhimokṣaś ca samādhiḥ sarvacetasi // 2.24 //
 
-> Feeling, volition, recognition, desire to act, contact, discernment,
-> recollection, attention, resolution, and concentration occur
-> in every consciousness.
+> Feeling, volition, recognition, desire to perform, contact, discernment,
+> recollection, attention, resolution, and concentration occur in every
+> consciousness.
 
-The verse answers the question left at the end of VAK 2.23:
-which factors have every consciousness as their ground? The
-commentary defines the ten and closes by considering the difficulty
-of discriminating consciousness and mental factors.
+The verse answers the question at the end of VAK 2.23: which factors occur
+in every consciousness? The Bhāṣya defines each of the ten and closes with
+an analogy concerning the difficulty of distinguishing consciousness and
+mental factors.
 
 ## 2. Continuous Sanskrit
 
@@ -37,200 +37,127 @@ of discriminating consciousness and mental factors.
 > buddhigrāhyāḥ /
 
 The unit occupies printed 54.16–55.02 in
-`Vasubandhu/Sources/kosabhasya.txt`. Word division is editorial;
-the separated *'duḥkhā sukhaśca* is joined as *'duḥkhāsukhaś ca*.
-The damaged *viṣayanimittodrūha* remains visible. The translation
-contextually reads apprehension of an object's distinguishing
-mark, corresponding to *viṣayanimittodgrahaḥ*, also used in the
-research study. That study is not an independent Sanskrit witness.
-No independent collation is claimed.
+`Vasubandhu/Sources/kosabhasya.txt`. Word division is editorial. The
+transcription's *'duḥkhā sukhaś ca* is joined as *'duḥkhāsukhaś ca*.
+The damaged *viṣayanimittodrūha* remains visible; its contextual rendering
+as apprehension of a distinguishing mark is uncertain. The research study
+reading *viṣayanimittodgraha* is not an independent Sanskrit witness. No
+independent collation is claimed.
 
-## 3. Continuous Conventional Translation
+## 3. Scientific English Rendering
 
 Which, then, occur in every consciousness? “Feeling, volition,
-recognition, desire to act, contact, discernment, recollection,
+recognition, desire to perform, contact, discernment, recollection,
 attention, resolution, and concentration occur in every
-consciousness.” These ten dharmas, it is said, are all present
-together in every moment of consciousness. Of these, feeling is
-threefold experience: pleasant, painful, and neither painful nor
-pleasant. Volition is the formative activity of consciousness,
-mental action. Recognition is recognizing: apprehension of the
-object's distinguishing mark. Desire to act is the wish to perform.
-Contact is touching born from the conjunction of faculty, object,
-and cognition. Discernment is prajñā, discrimination of dharmas.
-Recollection is non-loss of the object-support. Attention is
-the application of consciousness. Resolution is settling upon.
-Concentration is the one-pointedness of consciousness.
+consciousness.” These ten Dharmas, it is said, are all present
+together in every moment of consciousness.
 
-For the distinction between consciousness and mental factors is
-subtle. It is difficult to delimit even in their streams, all
-the more so in individual moments. Even among certain material
-medicinal plants having many tastes, differences of taste that
-are apprehensible by the senses are difficult to determine.
-How much more so with dharmas that are immaterial and apprehensible
-by understanding!
+Feeling is threefold experience: pleasant, painful, and neither
+painful nor pleasant. Volition is the formative activity of
+consciousness, mental action. Recognition is recognition:
+apprehension of the distinguishing mark of a *viṣaya* [the
+transmitted gloss is damaged]. Desire to perform is the wish to
+act. Contact is touching born from the conjunction of Faculty,
+*viṣaya*, and Cognition. Discernment is *prajñā*, discrimination
+among Dharmas. Recollection is non-loss of the object-support.
+Attention is the application of consciousness. Resolution is
+*adhimukti*, settling upon. Concentration is the one-pointedness
+of consciousness.
 
-## 4. Movement and Voices of the Commentary
+The distinction between consciousness and mental factors is subtle.
+It is difficult to delimit even in their streams, all the more so
+in individual moments. Even among Form-bearing medicinal plants
+having many tastes, differences of taste apprehensible by Faculty
+are difficult to determine. How much more so for Dharmas that are
+non-Form and apprehended by understanding!
 
-The opening question introduces the first class of mental factors
-announced in VAK 2.23. The verse supplies ten names; the prose
-asserts their complete co-presence in each moment, defines each,
-and then addresses the subtlety of their distinctions.
+## 4. Movement and Reportive Framing
 
-*Kila*, “it is said,” preserves the reportive character of the
-universal assertion. It may indicate distance from the reported
-account, but this particle alone does not establish an explicit
-rejection. No school is named in the local passage. Nor does
-the concluding analogy introduce a rival list: it concerns the
-difficulty of discrimination within the account just presented.
+The opening question introduces the great-ground factors named in VAK 2.23.
+The verse lists ten; the Bhāṣya says they are all present together in each
+moment of consciousness, defines them in turn, and then explains the
+difficulty of distinguishing them.
 
-## 5. What the Universal Claim Requires
+The particle *kila* is rendered “it is said” and preserves the reportive
+framing. It may mark distance from the reported account, but the particle
+alone does not establish explicit rejection. No school is named in this
+local passage, and the closing analogy does not introduce an alternative
+list.
 
-*Sarvatra cittakṣaṇe samagrāḥ* specifies all ten together in every
-moment of consciousness. It is stronger than the claim that each
-factor occurs somewhere in a stream, or that the ten become
-available only when a person develops the corresponding skills.
-It is also not a sequence of ten successive operations.
+## 5. The Ten Definitions
 
-The definition of feeling gives three alternatives. The universal
-presence of feeling does not require pleasant, painful, and neutral
-experience to occur together in one moment. This differs from
-the earlier inquiry into possession of several feeling-faculties
-by a continuum.
+The definitions distinguish functions without making them temporally
+successive. Feeling has three alternatives; the universal claim does not
+mean pleasant, painful, and neutral experience are simultaneous in one
+moment. Volition is the formative activity of consciousness, whereas
+*chanda* is the wish to perform. The two should not be collapsed into one
+undifferentiated “intention.”
 
-The universal claim concerns occurrence, not equal strength,
-correctness, or ethical quality. In particular, the presence of
-prajñā under the name *mati* does not certify liberating knowledge,
-and the presence of *samādhi* does not certify attainment of a
-meditative absorption. The passage gives no numerical scale of
-their intensity.
+Recognition is assigned a distinguishing-mark function, while *mati* is
+defined as *prajñā*, discrimination among Dharmas. The exact transmitted
+recognition gloss is damaged, so its wording remains uncertain even though
+the Bhāṣya's distinction between the two entries is clear.
 
-## 6. Distinctions within the Ten Definitions
+Contact is touching born from the conjunction of Faculty, *viṣaya*, and
+Cognition. Recollection is non-loss of *ālambana*, the object-support;
+attention is the application of consciousness. Resolution is glossed by
+*adhimukti*. Concentration is one-pointedness of consciousness. These
+short definitions do not supply a developed theory of attention, decision,
+or meditative attainment.
 
-Volition and desire to act receive different explanations.
-*Cetanā* is the formative activity of consciousness and mental
-action; *chanda* is the wish to perform. Translating both simply
-as “intention” would obscure that difference. The definition of
-*chanda* does not identify it with craving or attachment.
+## 6. The Difficulty of Discrimination
 
-Recognition apprehends a distinguishing mark; discernment is
-prajñā as discrimination of dharmas. The local definitions relate
-both to determination without making them interchangeable.
-The Sanskrit's damaged recognition-gloss limits certainty about
-the precise transmitted wording, not the distinction between
-the two entries.
+The closing analogy moves from the more accessible case to the less
+accessible. Differences among tastes can be difficult to determine even
+in Form-bearing medicinal plants, where taste is apprehensible by Faculty.
+The mental Dharmas at issue are non-Form and apprehended by understanding,
+so their distinctions are still harder to delimit.
 
-Contact is defined through the conjunction of faculty, object,
-and cognition. The definition does not confine it to bodily touch.
-The conventional “object” renders *viṣaya* here; whether and how
-that object is externally established is not decided by this
-sentence alone.
+This is a claim of difficulty, not impossibility. It does not withdraw the
+definitions or establish their truth solely by appeal to subtlety. The
+universal assertion, the defining formulas, and the difficulty of
+recognizing their distinctions remain separate claims.
 
-Recollection is non-loss of *ālambana*, the object-support.
-Attention is the application of consciousness. Resolution receives
-the brief synonymous gloss *adhimukti*, rendered “settling upon.”
-Concentration is one-pointedness. Retention, application, settling,
-and one-pointedness should not disappear into one undifferentiated
-notion of attention. Conversely, the short gloss of resolution
-does not supply a developed theory of deliberate decision-making.
+## 7. Interpretation
 
-## 7. The Difficulty of Discrimination
+The Bhāṣya presents ten differentiated factors as co-present in every
+moment of consciousness, while warning that their distinctions are subtle.
+The definitions must therefore be preserved alongside the universal
+quantifier: co-occurrence does not make the factors interchangeable, and
+universality does not entail equal strength, correctness, ethical quality,
+or liberating efficacy.
 
-The closing paragraph concerns the subtle distinctions of
-consciousness and mental factors. Even extended streams do not
-make these easy to delimit; discrimination within a moment is
-harder still. The text therefore does not assume that naming
-ten factors makes ten separately obvious appearances available
-to ordinary inspection.
+In Kant-informed Techne, the list can be read as an analysis of distinct
+determinations within a co-articulated consciousness-event, not a temporal
+sequence added to a bare consciousness-substance. This is a project-level
+interpretation of the Bhāṣya's conjunction and definitions, not a claim
+that the Sanskrit names Kantian categories or that every occurrence is
+already perfected.
 
-The medicinal-plant analogy moves from the more accessible case
-to the less accessible. Differences among tastes can be difficult
-to determine even though the plants are material and the tastes
-are apprehensible by a sense. The relevant mental dharmas are
-immaterial and apprehended by understanding, making their
-discrimination still more demanding.
+The Bhāṣya identifies *mati* with *prajñā* and defines it as discrimination
+among Dharmas. In the inner-instrument Techne this supports the project
+determination Science of Principles; it does not replace the local
+definition or make every occurrence perfected discrimination.
 
-This is a statement of difficulty, not impossibility. It neither
-withdraws the definitions nor establishes their truth solely
-by appeal to subtlety. The universal assertion, the defining
-formulas, and the difficulty of recognizing their differences
-remain distinct claims.
+In the Organon framework, the ten Samyama-bhūmis describe Path-related
+operation of mental factors, with Buddha Dharma as the 11th Bhūmi. This
+passage establishes the ten factors' universal occurrence, but it does not
+assign them individually to those Bhūmis or say that their universal
+presence is perfected operation.
 
-## 8. The Bhāṣya's Decisions for Translation
+The Kośa's governing synthesis: Vijñāna is Discriminative Cognition joining
+and governing Perception and Conception. Their unity is Inconceivable as a
+homogeneous operation; its Idea is disclosed in the Cognition Base. Vijñāna
+governs Mind and guides the reading of Dharma Base. Form Base and Dharma
+Base both include the same *avijñapti* in distinct classifications, and
+Vijñāna bears a *prati* relation to *avijñapti*. This synthesis keeps
+Vijñāna distinct from *citta* and does not make the ten factors Faculties.
 
-The definitions should remain a continuous passage. Their sequence
-follows the verse, but no causal or temporal chain is asserted
-by that order. Adding “then” between them would impose a progression
-absent from the Sanskrit.
+## 8. Textual and Scope Notes
 
-“Recollection” must be read through non-loss of the object-support,
-not restricted to remembering a past event. “Concentration” must
-be read through one-pointedness in the reported universal context,
-not restricted to perfected practice. These are decisions grounded
-in the local definitions, not replacements of the technical terms.
-
-The distinction between the earlier *bhūmi*, sphere of operation,
-and *ālambana*, object-support, also remains in force. Every
-consciousness is the operating range attributed to these factors;
-that does not make every consciousness their common object.
-
-## 9. Philosophical and Organon Study
-
-The passage gives determinate content to the necessary conjunction
-of consciousness and factors stated in VAK 2.23. Under the reported
-account, a moment of consciousness is already affectively qualified,
-formative, recognitional, directed, and discriminative. The factors
-are distinguished within their co-occurrence rather than introduced
-as successive additions to an initially independent consciousness.
-
-For Organon interpretation, three matters must be kept together:
-the range across which a factor occurs, its defining determination,
-and the grounds for distinguishing it from its companions.
-Universality alone does not explain what makes recollection
-different from attention, or attention different from concentration.
-The definitions and the concluding difficulty belong to the same
-work of discrimination.
-
-Across the Samyama-bhūmi progression beginning with VAK 2.23, these
-ten are the invariant functional basis present in every
-consciousness-event. The verse does not map each factor to an
-individual bhūmi or say that universal occurrence is perfected
-practice. It establishes the common mental structure; the Path
-progression concerns its further qualification, and universal
-occurrence remains distinct from adequate or liberating knowing.
-
-**Organon reading:** The ten factors are universal cognitive determinations
-of each event's articulated form, not a succession through which cognition
-is assembled over clock-time. The event's particular Idea, its object-
-content, is not another member of the ten. This offers an Organon account
-of universality without turning the reported doctrine into a claim that
-every cognition is equally adequate or realized.
-
-**Fichte–Hegel method (Organon, not source attribution):** Hegel's
-universal is actual here only as the differentiated unity of mental
-functions; it is not a bare abstraction. In the Fichtean return, the
-analysis negates independently existing, factorless Citta and reconstructs
-the event through its ten co-arising functions. This is the Practical
-Kośa's operative demonstration of the method, not a historical claim about
-Vasubandhu.
-
-**Return to the Principle system:** VAK 1.48 maps Mind-Faculty across seven
-Citta Domains. That placement is distinct from the ten mental functions
-co-arising with each Citta-event. The Principle framework establishes typed
-placement; the Rule here articulates the universal organization of the
-event. Across the Samyama-bhūmis, the functions are followed as a common
-basis for Path development, without being equated with the bhūmis or
-treated as perfected in every consciousness.
-
-## 10. Review Status
-
-Provisional twenty-fourth study of the restarted Indriyanirdeśa
-Bhāṣya sequence. The research Bhāṣya, existing Organon kārikā
-study, and running Sanskrit at 54.16–55.03 have been compared.
-
-All ten definitions and the complete concluding analogy are
-translated continuously. The reportive *kila* and the damaged
-recognition-gloss are explicit. Original witnesses and existing
-studies are unchanged. VAK 2.25 begins at 55.02–55.03 with the
-definition of the wholesome great-ground class and the question
-introducing its members.
+The source unit runs from the question *ke punaḥ sarvatra cetasi* at
+54.16 through the analogy at 55.02, before VAK 2.25 begins. The
+transcription's damaged recognition gloss is not silently emended. The
+rendering of *viṣaya* is retained in Sanskrit here rather than equated
+with an external object; *ālambana* is rendered “object-support.” No
+independent collation is claimed.

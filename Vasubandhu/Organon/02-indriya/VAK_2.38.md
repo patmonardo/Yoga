@@ -12,326 +12,95 @@
 >
 > avyākṛtāptiḥ sahajābhijñānairmāṇikād ṛte // 2.38 //
 
-The research witness leaves the sandhi of the final compound compressed.
-The Bhāṣya requires the sense “except the superknowledges and the
-magical-creation [mind].” The segmentation adopted below is therefore
-Bhāṣya-controlled and remains philologically provisional.
-
-## 3. Padaccheda
+## 3. Lexical Analysis
 
 ```text
-tridhā               → tri-dhā
-naśaikṣāśaikṣāṇām
-                    → na-śaikṣa-aśaikṣāṇām
-aheyānāṃ           → a-heyānām
-dvidhā matā          → dvi-dhā matā
+naśaikṣāśaikṣāṇām → na-śaikṣa-aśaikṣāṇām
+aheyānām           → a-heyānām
 avyākṛtāptiḥ       → avyākṛta-āptiḥ
 sahajā              → saha-jā
-abhijñānairmāṇikād ṛte
-                    → abhijñā-nairmāṇikāt ṛte
+abhijñānairmāṇikāt → abhijñā-nairmāṇikāt
+ṛte                 → ṛte
 ```
 
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
+| naśaikṣāśaikṣāṇām | genitive plural compound | of Dharmas neither trainee nor beyond training |
 | tridhā | adverb | threefold |
-| na-śaikṣa-aśaikṣāṇām | genitive plural compound | of dharmas that are neither trainee nor beyond-training |
-| aheyānām | genitive plural | of dharmas not subject to abandonment |
+| aheyānām | genitive plural | of Dharmas not subject to abandonment |
 | dvidhā | adverb | twofold |
-| matā | nominative feminine singular past passive participle | held / accepted; agrees with understood `prāptiḥ` |
-| avyākṛta-āptiḥ | nominative feminine singular compound | acquisition of an indeterminate dharma |
-| sahajā | nominative feminine singular | co-arisen / simultaneous |
-| ṛte | indeclinable governing the ablative | except / apart from |
-| abhijñā-nairmāṇikāt | ablative compound, exact formation provisional | from the superknowledge and magical-creation exception |
+| avyākṛta-āptiḥ | nominative feminine singular | acquisition of indeterminate Dharma |
+| sahajā | nominative feminine singular | co-arisen |
+| abhijñā-nairmāṇikāt | ablative compound | except superknowledges and magical-creation mind |
+| ṛte | indeclinable | except |
 
-`Sahajā` describes temporal co-arising here. It must not be translated as
-“innate,” because the issue is whether acquisition arises before, with, or
-after its dharma.
+## 4. Scientific English Rendering
 
-## 4. Grammar
+> Acquisition of Dharmas neither trainee nor beyond training is threefold;
+> acquisition of Dharmas not subject to abandonment is twofold.
+> Acquisition of unobscured-indeterminate Dharmas is co-arisen, except for
+> the superknowledges and magical-creation mind.
 
-The first half supplies two rules with `prāptiḥ` understood:
+The Bhāṣya completes the first two classifications begun in VAK 2.37:
+the same neither-trainee-nor-beyond-training cessation can have trainee or
+beyond-training acquisition according to the Path through which it was
+obtained; the non-abandonable cases distinguish cultivation-abandonable
+acquisition from uncontaminated non-abandonable acquisition.
 
-```text
-na-śaikṣa-aśaikṣāṇāṃ [prāptiḥ] tridhā
-    → acquisition of dharmas that are neither trainee
-      nor beyond-training is threefold
+## 5. Interpretation
 
-aheyānāṃ [prāptiḥ] dvidhā matā
-    → acquisition of dharmas not subject to abandonment
-      is held to be twofold
-```
+The verse gives an exception to the general three-time matrix. Weak
+unobscured-indeterminate Dharmas have acquisition only with their
+manifestation. Two indeterminate superknowledges and magical-creation mind
+are excepted because special practice gives them sufficient strength for
+prior, co-arisen, and subsequent acquisition.
 
-The compound `naśaikṣāśaikṣāṇām` is not a free-standing negation of
-two separate genitives. It denotes the established third path-class:
-`naiva-śaikṣa-nāśaikṣa`, neither trainee nor beyond-training.
+The Bhāṣya then adds that obscured-indeterminate manifest Form also has
+co-arisen-only acquisition, while Desire-Principle Form has no prior
+acquisition, though co-arisen and subsequent acquisition may occur. These
+are distinctions of capacity, preparation, and retention—not a claim that
+all indeterminate Dharmas behave alike.
 
-The second half states a general temporal restriction and then an exception:
+Vijñāna is Discriminative Cognition joining and governing Perception and
+Conception. In the present local analysis it governs a continuum whose
+acquisition-status can be weak, cultivated, momentary, or retained; the
+source does not convert this into a universal rule of instruction.
 
-```text
-avyākṛta-āptiḥ sahajā
-    → acquisition of [unobscured] indeterminate dharmas
-      is co-arisen
-
-abhijñā-nairmāṇikāt ṛte
-    → except for the superknowledges and magical-creation mind
-```
-
-The restriction to unobscured-indeterminate dharmas and the identification
-of two indeterminate superknowledges are supplied by the Bhāṣya.
-
-## 5. Translation
-
-### Close syntactic construe
-
-> For dharmas that are neither trainee nor beyond-training, acquisition is threefold; for those not subject to abandonment, it is held to be twofold. Acquisition of the indeterminate is co-arisen, except for the superknowledges and magical-creation [mind].
-
-### Bhāṣya-informed translation
-
-> The acquisition of a dharma classified as neither trainee nor beyond-training may itself be trainee, beyond-training, or neither. For dharmas not subject to abandonment, acquisition is either abandonable through cultivation or is itself not subject to abandonment. The acquisition of an unobscured-indeterminate dharma ordinarily arises only together with that dharma, except for the two indeterminate superknowledges and the magical-creation mind, whose acquisition may precede, accompany, and follow their manifestation.
-
-## 6. Philosophical Translation
-
-> The status of an acquired dharma does not mechanically determine the status of its acquisition. The acquisition relation is sensitive to the Agent's path and manner of attainment. Its temporal reach also depends on developed causal power: a weak neutral occurrence is possessed only while manifest, whereas a neutral capacity produced through exceptional cultivation can be available beforehand and retained afterward.
-
-VAK 2.38 therefore adds two independent determinations to the matrix of
-VAK 2.37:
+## 6. Logical Determination
 
 ```text
-status inheritance may be non-identical
-temporal persistence depends on causal strength and cultivation
+WeakUnobscuredIndeterminate(D)
+    → AcquisitionTime(S, D) = DharmaTime(D)
+
+ExceptionalCultivatedIndeterminate(D)
+    → AcquisitionTime(S, D)
+      in {prior, co-arisen, subsequent}
+
+DesirePrincipleForm(D)
+    → prior acquisition is excluded
 ```
 
-**Organon reading (philosophical reconstruction, not literal Bhāṣya
-doctrine):** This is a local determination of the Indriya dyad
-*Prāpti:Aprāpti*. In the stated cases, the temporal reach of acquisition
-depends on the dharma's causal strength and the continuum's cultivation;
-acquisition, manifestation, and current enactment are not collapsed into
-one event.
+## 7. Interpretive Note
 
-The Bhāṣya also names *vijñapti-rūpa* and *avijñapti-rūpa*. The Organon reads
-this as a point of contact with the Dhātu dyad *Vijñapti:Avijñapti*, coupled
-with the Indriya dyad in LogoGenesis (learning). The source's local
-classification remains distinct from that synthesis: *Avijñapti* is one
-Dharma classified in both the Form Base and Dharma Base, not two entities.
-In the Dharma Chakra, these time and status distinctions articulate the
-turning relation while the Principle remains invariant at the hub; they are
-not a new hub or a replacement of the Chakra by a taxonomy.
+*Sahajā* means co-arisen in this temporal classification, not innate or
+birth-acquired. The source's final compound is compressed and the
+identification of the exceptions follows the Bhāṣya; its exact
+segmentation remains provisional.
 
-In this Organon synthesis, the wheel spans *saṃvṛti* and *paramārtha* as
-two determinations of the same reality, not as two worlds or substances.
-At the conventional determination, the assembled wheel and its functional
-relations are true; at the ultimate determination, analysis asks which
-Dharmas' own-nature cognition survives. **Absolute Insight** is the
-project's name for second-order apprehension of the whole relation: it
-preserves first-order access to the conventional configuration without
-reproducing its contamination, while understanding what analysis discloses.
-It does not reduce the wheel to either pole alone. It is
-not a third truth or the claim that *paramārtha* is one universal Absolute.
-This builds on [VAK 6.04](../../VAK/06-marga/VAK_6.04.md) and the project's
-[Absolute Insight formulation](../../VAK/05-anusaya/VAK_5.29.md); neither
-interpretation is attributed to this Bhāṣya.
-
-## 7. Technical Vocabulary
-
-| Sanskrit | Controlled rendering | Determination in this unit |
-|---|---|---|
-| naivaśaikṣa-nāśaikṣa | neither trainee nor beyond-training | third path-status; includes contaminated dharmas and the unconditioned |
-| śaikṣa | trainee | acquisition-status produced through a trainee path |
-| aśaikṣa | beyond training | acquisition-status produced through a beyond-training path |
-| aheya / apraheya | not subject to abandonment | uncontaminated Dharma-status whose acquisition requires further differentiation |
-| bhāvanāheya | abandoned through cultivation | status of certain acquisitions of otherwise non-abandonable cessations |
-| avyākṛta | indeterminate | neither wholesome nor unwholesome |
-| anivṛtāvyākṛta | unobscured-indeterminate | Bhāṣya restriction on the general co-arising rule |
-| āpti / prāpti | acquisition-possession | the indexed status whose temporal mode is being classified |
-| sahajā prāpti | co-arisen acquisition | acquisition simultaneous with manifestation of its dharma |
-| agrajā prāpti | prior acquisition | possession-status arising before manifestation; Bhāṣya term |
-| paścātkālajā prāpti | subsequent acquisition | possession-status continuing after manifestation; Bhāṣya term |
-| abhijñā | superknowledge | here two ethically indeterminate superknowledges capable of temporally extended acquisition |
-| nairmāṇika-citta | magical-creation mind | powerful cultivated neutral cognition that produces magical manifestations |
-| prayogaviśeṣa | special preparatory practice | Bhāṣya explanation of the exception's causal power |
-| rūpa | Form | keep distinct from Matter |
-| vijñapti-rūpa | manifest Form | Bhāṣya's classification in the Form case |
-| avijñapti-rūpa | nonmanifest Form | Bhāṣya's paired classification in the Form case |
-| kāmāvacara | belonging to the Desire Domain | Dharmas included in this Domain |
-| sāsrava | with outflows / contaminated; Organon: Impure | conventional translation remains distinct from the Organon rendering |
-
-The Bhāṣya mentions certain exceptionally cultivated crafts and bodily
-practices as a further attributed extension of the powerful-neutral pattern.
-It does not make every learned skill an `abhijñā`.
-
-## 8. Logical Determination
-
-First, dharma-status and acquisition-status are separately typed:
-
-```text
-PathClass(D) = NeitherTraineeNorBeyond
-    ⇏ PathClass(Prapti(S, D))
-       = NeitherTraineeNorBeyond
-
-PathClass(Prapti(S, D)) ∈ {
-    Trainee,
-    BeyondTraining,
-    NeitherTraineeNorBeyond
-}
-```
-
-For non-abandonable dharmas:
-
-```text
-AbandonmentClass(D) = NotAbandonable
-    → AbandonmentClass(Prapti(S, D)) ∈ {
-          AbandonedThroughCultivation,
-          NotAbandonable
-      }
-```
-
-The Bhāṣya grounds this variation in the mode of acquisition. For example:
-
-```text
-OrdinaryAcquisition(pratisaṃkhyā-nirodha)
-    → AbandonedThroughCultivation(Prapti)
-
-NoblePathAcquisition(pratisaṃkhyā-nirodha)
-    → NotAbandonable(Prapti)
-```
-
-The general temporal rule for weak unobscured-indeterminate dharmas is:
-
-```text
-UnobscuredIndeterminate(D)
-∧ WeakCausalPower(D)
-    → AcquisitionMode(S, D) = CoArisenOnly
-```
-
-Hence:
-
-```text
-PraptiTime(S, D) = DharmaTime(D)
-```
-
-The cultivated exception is:
-
-```text
-SpecialCultivation(D)
-∧ PowerfulNeutralCapacity(D)
-    → AcquisitionMode(S, D) ∈ {
-          Prior,
-          CoArisen,
-          Subsequent
-      }
-```
-
-Ethical neutrality therefore does not entail functional weakness:
-
-```text
-EthicallyIndeterminate(D) ⇏ WeakCausalPower(D)
-```
-
-## 9. Interpretive Note
-
-VAK 2.38 is an exception engine. VAK 2.37 established broad propagation
-rules; this verse prevents those rules from erasing the history and power of
-the acquiring continuum.
-
-First, the path-status of a dharma and the path-status of its acquisition
-can differ. Cessation through discriminative comprehension is the clearest
-case: as an unconditioned dharma it belongs to neither the trainee nor the
-beyond-training class in itself, yet its acquisition is classified according
-to whether it is obtained through an ordinary, trainee, or completed path.
-The relation records how the determination became available to this Agent.
-
-Second, temporal reach measures developed capacity. An ordinary weak neutral
-dharma has no possession-status before it manifests and leaves none afterward:
-
-```text
-manifestation boundary = possession boundary
-```
-
-The indeterminate superknowledges and magical-creation mind break this rule.
-Special preparatory practice has transformed the continuum so that the
-capacity is available before performance and retained after it:
-
-```text
-preparation → available capacity → manifestation → retained capacity
-```
-
-This makes `prāpti` a precise record of cultivated power rather than a label
-attached to an isolated event. The practical distinction is:
-
-```text
-mere occurrence
-    operates only while present
-
-acquired capacity
-    can precede performance and survive its completion
-```
-
-For the Kośa Technē, the rule is functional:
-
-```text
-deriveTemporalReach(capacity)
-    from causalStrength + cultivationHistory
-```
-
-This is especially valuable for an Agent architecture: a trained capability
-must not be confused with its current invocation. Yet the study remains
-Kośa-clean. It does not identify `prāpti` with Yoga bhūmi-acquisition or read
-the superknowledges as Absolute Reason. Those comparisons belong to the
-project synthesis after the Kośa mechanism has been learned on its own terms.
-
-The research Bhāṣya continues into obscured-indeterminate Form and
-Desire-Domain manifest and nonmanifest Form. Those clauses are excluded here
-because they belong to the following kārikā's continuation of the rule.
-
-**Organon temporal note:** The temporal exception measures the reach of
-cultivated efficacy: preparation can make a particular Idea available
-without its present enactment. It does not make every indeterminate dharma
-durable or turn the stated cases into a universal law.
-
-## 10. OWL++ Seed
+## 8. OWL++ Seed
 
 ```ttl
 @prefix vak: <http://127.0.0.1:3000/vak#> .
-@prefix organon: <http://127.0.0.1:3000/organon#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
 vak:VAK_2_38
     a vak:Karika ;
     rdfs:label "VAK 2.38" ;
-    vak:hasTopic vak:NonInheritedPraptiStatus,
-        vak:TemporalAcquisitionMode ;
+    vak:hasTopic vak:TemporalModesOfAcquisition ;
     vak:belongsTo vak:Indriyanirdesa .
 
-vak:NonInheritedPraptiStatus
-    vak:distinguishes vak:DharmaPathClass,
-        vak:PraptiPathClass,
-        vak:DharmaAbandonmentClass,
-        vak:PraptiAbandonmentClass .
-
-vak:CoArisenOnlyRule
-    vak:appliesTo vak:WeakUnobscuredIndeterminateDharma ;
-    vak:requires vak:SameDharmaAndPraptiTime .
-
-vak:PowerfulNeutralException
-    vak:includes vak:TwoIndeterminateSuperknowledges,
-        vak:MagicalCreationMind ;
-    vak:isGroundedIn vak:SpecialPreparatoryPractice ;
-    vak:permits vak:PriorPrapti,
-        vak:CoArisenPrapti,
-        vak:SubsequentPrapti .
-
-organon:CultivatedCapacityStatus
-    a organon:InterpretiveReconstruction ;
-    organon:isDerivedFrom vak:CausalStrength,
-        vak:CultivationHistory ;
-    organon:distinguishes organon:CapacityAvailability,
-        organon:CurrentInvocation .
+vak:ExceptionalCultivatedIndeterminate
+    vak:permits vak:PriorAcquisition,
+        vak:CoArisenAcquisition,
+        vak:SubsequentAcquisition .
 ```
-
-## 11. Review Status
-
-Provisional paired study of VAK 2.38. The kārikā translation and Bhāṣya
-interpretation preserve the distinction between dharma-status and
-acquisition-status, as well as the restricted scope of the temporal
-exceptions. The Bhāṣya's continuation into VAK 2.39 is marked separately;
-the Sanskrit compound in the exception remains philologically provisional.

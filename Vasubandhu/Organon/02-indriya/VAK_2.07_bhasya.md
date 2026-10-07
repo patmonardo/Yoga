@@ -44,13 +44,13 @@ witness's *upadhātikā*. This repair gives the contrast with
 *anugrāhikā* translated below; it is explicit rather than silently
 treated as the transmitted form. No independent collation is claimed.
 
-## 3. Continuous Conventional Translation
+## 3. Scientific English Rendering
 
-The faculties beginning with the eye and extending through the male
-faculty have been explained. Because the life-faculty is dissociated
+The Faculties beginning with the eye and extending through the Male
+Faculty have been explained. Because the Life Faculty is dissociated
 from mind, it will be explained among the factors dissociated from
-mind. Those beginning with faith will be explained among the mental
-factors. The faculties beginning with pleasure and those beginning
+Mind. Those beginning with confidence will be explained among the mental
+factors. The Faculties beginning with pleasure and those beginning
 with the faculty called “I shall know” remain to be explained.
 That explanation is now given.
 
@@ -65,11 +65,11 @@ sensory cognition are absent.
 
 ## 4. The Transition to Definitions
 
-The preceding units explained faculty-status, its scope, and alternative
+The preceding units explained Faculty-status, its scope, and alternative
 arrangements of the list. This passage turns to definitions while
 distributing their treatment across the chapter. Life belongs in
-the discussion of factors dissociated from mind; the five beginning
-with faith belong among the mental factors. Feeling and the three
+The discussion of factors dissociated from consciousness; the five beginning
+with confidence belong among the mental factors. Feeling and the three
 realization faculties receive the immediate explanation.
 
 “Beginning with the eye and extending through the male faculty”
@@ -96,7 +96,7 @@ do not identify pleasant feeling with ethical wholesomeness or
 unpleasant feeling with ethical unwholesomeness. “Supportive” also
 does not by itself establish a claim about long-term bodily benefit.
 
-The terms “pain” and “pleasure” are technical faculty designations
+The terms “pain” and “pleasure” are technical Faculty designations
 here. Their scope should not be expanded to every form of suffering
 and happiness before the remaining feeling-faculties are defined.
 
@@ -126,7 +126,7 @@ next unit's additional explanation into this translation.
 The introductory reference to *caitta*, mental factors, and the
 verse's adjective *caitasī*, mental, occur in different classificatory
 relations. The former locates a later discussion of the faculties
-beginning with faith. The latter distinguishes a mode of feeling
+beginning with confidence. The latter distinguishes a mode of feeling
 from bodily feeling in the present definition.
 
 Consequently, “bodily feeling” should not be taken to mean that
@@ -152,53 +152,50 @@ or neurological account. *Pañcavijñānakāya* is rendered “the five
 classes of sensory cognition,” preserving both the plurality and
 the explanatory link to feeling.
 
-“Dissociated from mind” makes explicit the technical context of
-*viprayukta* in the opening survey. “Those beginning with faith”
+“Dissociated from consciousness” makes explicit the technical context of
+*viprayukta* in the opening survey. “Those beginning with confidence”
 and “those beginning with ‘I shall know’” remain the text's abbreviated
 references to groups already introduced.
 
-## 9. Philosophical and Organon Study
+## 9. Interpretation
 
-**Organon extension—not a literal Bhāṣya doctrine:** Dhātu 1.48
-locates the five feeling-Faculties within a portion of the
-Essence-Domain. Indriya 2.07 returns to that map and distinguishes
-Pain and Pleasure by affective character and mode: disagreeable
-bodily feeling is pain; agreeable bodily feeling is ordinarily
-pleasure; agreeable mental feeling is also pleasure-faculty in the
-third dhyāna, where the five sensory Cognitions are absent. The
-Faculty classification persists through this qualified change, but
-the bodily and mental modes do not collapse into one another.
+The Bhāṣya distinguishes the Faculty's designation from the mode
+of feeling: disagreeable bodily feeling is pain, and agreeable bodily
+feeling is ordinarily pleasure. It then qualifies that ordinary
+classification. Because bodily feeling is absent in the third dhyāna,
+agreeable mental feeling there is assigned to the Pleasure Faculty.
+The passage does not generalize this exception to every agreeable
+mental feeling.
 
-The Fichtean return negates the assumption that Pleasure-Faculty
-must always be bodily, then reconstructs its application under the
-stated third-dhyāna condition. This is a determinate exception, not
-a general detachment of Faculty from its conditions. The next verse
-will distinguish mental gladness; it must not be collapsed into this
-specific pleasure-faculty exception.
+The commentary's glosses, *upaghātikā* and *anugrāhikā*, characterize
+feeling as injurious or supportive; they do not establish moral
+wholesomeness or long-term bodily benefit. Nor does the local contrast
+turn feeling into an organ. The next unit's distinction between
+*sukha* and *saumanasya* must be kept separate from the explanation
+given here.
 
-This passage does not establish that Sāṃkhya–Yoga Faculties belong
-only to the Essence-Domain. Dhātu 1.48 also maps sensory Faculties
-to sensory Domains, Mind-Faculty to the Citta Domains, and Female
-and Male Faculties to part of the Body-Domain. That broader
-Sāṃkhya–Yoga claim remains a hypothesis requiring its own textual
-argument; the current Bhāṣya only explains the two feeling-Faculties.
+The project crosswalk with Dhātu 1.48 places this definition within
+the Base–Essence–Principle architecture, while preserving the distinction
+between location and feeling-mode. This is an Organon reading, not a
+claim that the Bhāṣya states that framework.
 
-The chapter's editorial transition is equally instructive. A faculty's
-governing role, its definition, and the category under which it is
-examined are related questions with different answers. The passage
-coordinates their treatment rather than repeating every definition
-wherever a faculty appears.
+Across the Kośa, Vijñāna is Discriminative Cognition joining Perception
+and Conception without reducing their unity to one homogeneous
+operation; it governs Mind and guides the reading of Dharma Base. The
+same *avijñapti* remains one content in the Form Base and Dharma Base
+classifications, and Vijñāna bears a *prati* relation to it. This
+cross-chapter synthesis is an Organon framework, not a claim made by
+this Bhāṣya.
 
-## 10. Review Status
+In a Kant-informed Techne reading, affective character, feeling-mode,
+and the stated meditative context jointly delimit the Faculty
+designation. This is a project-level interpretation, not terminology
+or philosophical attribution supplied by the source.
 
-Provisional seventh study of the restarted Indriyanirdeśa Bhāṣya
-sequence. The research kārikā and Bhāṣya, existing Organon kārikā
-study, and running Sanskrit at 41.05–15 have been compared. The
-following research unit confirms the boundary at *anyatra sā
-saumanasyam*.
+## 10. Textual and Scope Notes
 
-The opening survey and complete explanation of the verse are included
-in the continuous translation. Repairs are explicit. The mental mode
-of third-dhyāna pleasure is distinguished from the further naming
-explanation in VAK 2.08. Original witnesses and the existing kārikā
-study are preserved. This study ends before VAK 2.08.
+The opening survey and complete explanation of VAK 2.07 are included.
+Repairs are documented above; no independent collation is claimed.
+The mental mode of third-dhyāna pleasure is distinguished from the
+further naming explanation in VAK 2.08. This unit ends before that
+verse's discussion of *saumanasya*.

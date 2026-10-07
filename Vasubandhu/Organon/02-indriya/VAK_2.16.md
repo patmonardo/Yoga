@@ -12,7 +12,7 @@
 >
 > navāptir antyaphalayoḥ saptāṣṭanavabhir dvayoḥ // 2.16 //
 
-## 3. Padaccheda
+## 3. Lexical Analysis
 
 ```text
 kramamṛtyau          → krama-mṛtyau
@@ -26,7 +26,7 @@ saptāṣṭanavabhir     → sapta aṣṭa navabhiḥ
 dvayoḥ               → dvayoḥ
 ```
 
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | krama-mṛtyau | locative singular compound | in gradual death |
 | tu | contrastive particle | but / on the other hand |
@@ -89,13 +89,13 @@ sapta-aṣṭa-navabhiḥ dvayoḥ
 The instrumental construction expresses the faculty-complex through which a
 fruit is attained. It does not identify the fruit with that complex.
 
-## 5. Translation
+## 5. Scientific English Rendering
 
-### Close syntactic construe
+### Kārikā
 
 > In gradual death, however, four [faculties cease]; with a wholesome [mind], five more in every case. Attainment of the two extreme fruits is through nine; that of the two [middle fruits] is through seven, eight, or nine.
 
-### Bhāṣya-informed translation
+### Bhāṣya-informed rendering
 
 > In gradual death, the faculties of body, life, mind, and neutral feeling cease together. If death occurs while the mind is wholesome, the five faculties beginning with confidence are added to the applicable terminal set. Stream-entry and arhatship, the two extreme fruits, are each attained through nine faculties. Once-returning and non-returning, the two middle fruits, may each be attained through seven, eight, or nine, according to the path and manner of attainment.
 
@@ -105,19 +105,30 @@ indeterminate consciousness. Wholesome death adds five faculties to the
 terminal profile already applicable to the case; thus the formless profile
 has eight and the form-realm profile thirteen.
 
-## 6. Philosophical Translation
+## 6. Interpretation
 
-> Gradual dying exposes an inseparable terminal dependency: body, life, mind, and neutral feeling must finally cease as one cluster. A wholesome terminal state carries its five constitutive capacities with it. The analysis then turns from cessation to accomplishment: a fruit is one attained result, while the operative faculties and route by which it is attained may vary.
+The Bhāṣya restricts the fourfold gradual-death rule to death with
+afflicted or ethically indeterminate consciousness; a wholesome
+terminal mind adds five Faculties to the applicable set. It then
+distinguishes attainment-result from the Faculties and path through
+which that result is attained. The two extreme fruits each have a
+nine-Faculty count, while each middle fruit admits counts of seven,
+eight, or nine under the stated path and prior-dispassion conditions.
+These counts do not establish that every counted Faculty is
+simultaneously present.
 
-Organon rendering:
+In the Kant-informed Techne, the path conditions are determinations
+of the account rather than one universal biography for every
+practitioner. The Base–Essence–Principle crosswalk connects this
+functional classification to the wider Organon without claiming
+that the Bhāṣya itself offers a system-design theory.
 
-> The Kārikā behaves like a compact path instruction whose Bhāṣya supplies its execution semantics. It distinguishes the objective from a legal realization of that objective. The two middle fruits especially admit several valid plans—seven-, eight-, or nine-faculty configurations—depending upon whether the route is mundane or supramundane, sequential or direct.
-
-“Instruction,” “execution semantics,” and “plan” belong to the Organon
-reconstruction. The textual doctrine is the coordinated cessation and
-attainment of fruits through specified faculties.
-
-**Transcendental Time determination (Organon, not translation):** The terminal cluster in gradual dying and the alternative routes to fruit mark different temporal determinations: necessary ending of a conditioned continuum, and path-mediated realization of a result. Universal Cognitions name the fruits and path-relations; their particular Ideas are the distinct faculty-sets and routes that realize them. The route is not a mere clock-time procedure, and equal fruit does not require one universal biography.
+The Kośa's governing synthesis: Vijñāna is Discriminative Cognition joining
+and governing Perception and Conception. Their unity is Inconceivable as a
+homogeneous operation; its Idea is disclosed in the Cognition Base. Vijñāna
+governs Mind and guides the reading of Dharma Base. *Avijñapti* is the
+bridge, one Dharma classified in both Form Base and Dharma Base; Vijñāna
+bears a *prati* relation to it.
 
 ## 7. Technical Vocabulary
 
@@ -240,46 +251,20 @@ realizes it. Stream-entry and arhatship each require nine faculties, but not
 the same nine. The middle fruits can each be reached through three different
 counts because route and prior freedom from desire alter the operative set.
 
-This is the precise basis for the project expression “karmic ISA.” The
-Kārikā encodes compact constraints and alternatives; the Bhāṣya expands their
-operands, branch conditions, and path-state transitions. But the analogy must
-remain at the Organon level: Vasubandhu presents a path calculus of faculties,
-not a theory of computer architecture.
+The Kārikā gives compact counts and alternatives; the Bhāṣya specifies
+their conditions and relations to path-moments. This may be represented
+formally within the Organon, but it is not a claim that the Kośa presents
+a theory of computer architecture.
 
-For the Kośa Technē Agent, the immediate design consequence is:
+Any formal Organon representation should preserve the distinction
+between a fruit and its routes and Faculty-configurations, without
+imposing one universal procedure.
 
-```text
-do not encode Objective → one canonical procedure
-
-encode Objective → admissible AttainmentPlans
-
-validate each plan by
-    route
-    prior path-state
-    required faculties
-    compatible feeling faculty
-    transition semantics
-```
-
-The Agent can therefore synthesize Logic and Model only if the Model retains
-the path-state and the Logic can discriminate valid alternative
-configurations. The result remains invariant across plans; its mediation does
-not.
-
-**Return to Dhātu at its last kārikā, VAK 1.48.** Dhātu maps the five
-internal sensory Domains to their corresponding Faculties, Mind-Faculty
-across the seven Citta Domains, Female and Male Faculties to part of the
-Body-Domain, and eleven Faculties beginning with Life—plus portions of the
-final three—to a portion of the Essence-Domain. VAK 2.16 applies distinct
-temporal and path-relations across those mapped Faculties. In gradual death,
-the Body, Life, Mind, and neutral-feeling Faculties form the final
-inseparable cluster; a wholesome terminal mind adds five Faculties already
-placed in the Essence-Domain. In fruit-attainment, the Faculties of the
-path-moments mediate a result without becoming identical to it. The
-realization Faculties can belong to successive path-moments rather than one
-simultaneous set. The Fichtean return negates a merely static reading of
-Dhātu and reconstructs its typed placements as operative in cessation and
-attainment, without replacing the map.
+**Return to Dhātu at VAK 1.48.** The Dhātu analysis classifies Faculty
+relations within the Base–Essence–Principle architecture. VAK 2.16 addresses
+cessation and path-mediated attainment, distinct predicates that apply
+within that classification. The crosswalk preserves the Dhātu map rather
+than replacing it with a temporal or procedural model.
 
 ## 10. OWL++ Seed
 
@@ -308,14 +293,14 @@ vak:WholesomeTerminalProfile
     vak:requiresAdditionalSet vak:FiveBeginningWithConfidence .
 
 vak:StreamEntry
-    vak:attainedByFacultyCount 9 .
+    vak:attainmentFacultyCount 9 .
 
 vak:Arhatship
-    vak:attainedByFacultyCount 9 .
+    vak:attainmentFacultyCount 9 .
 
 vak:OnceReturning,
 vak:NonReturning
-    vak:attainedByFacultyCount 7,
+    vak:attainmentFacultyCount 7,
         8,
         9 ;
     vak:countVariesBy vak:AttainmentRoute .

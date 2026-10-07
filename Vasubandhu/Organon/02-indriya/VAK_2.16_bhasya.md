@@ -84,7 +84,7 @@ as *saumanasyopekṣā*, and *anāgābhino* as *anāgāmino*.
 The reading text remains available for inspection; these are
 contextual repairs, not a claim of independent collation.
 
-## 3. Continuous Conventional Translation
+## 3. Scientific English Rendering
 
 In the section on faculties, all matters concerning faculties are
 examined. Now, which fruit of the ascetic path is attained through
@@ -93,14 +93,14 @@ nine”: the two extreme fruits are attained through nine faculties.
 Which are the extremes? The fruit of stream-entry and arhatship.
 Which are the middle ones? The fruits of once-returning and non-returning.
 
-Stream-entry is attained through nine: those beginning with faith,
+Stream-entry is attained through nine: those beginning with confidence,
 excluding the faculty of one who has known, together with mind and
 neutral feeling. The faculty “I shall know” is to be understood
 on the uninterrupted path, and the knowledge-faculty on the path
 of liberation. For attainment is through both, since they respectively
 bring about and provide the supporting basis for the acquisition
 of disconnection. Arhatship, in turn, is attained through nine:
-those beginning with faith, excluding the faculty “I shall know,”
+those beginning with confidence, excluding the faculty “I shall know,”
 together with mind and any one of pleasure, gladness, and neutral
 feeling.
 
@@ -108,7 +108,7 @@ feeling.
 once-returning and non-returning is attained through seven, eight,
 or nine faculties. How? If one proceeding in sequence attains
 once-returning through a mundane path, attainment is through seven:
-the five beginning with faith, neutral feeling, and mind. If through
+the five beginning with confidence, neutral feeling, and mind. If through
 a supramundane path, attainment is through eight, with the
 knowledge-faculty as the eighth. If one already more extensively
 free from desire attains it, attainment is through nine, in the
@@ -165,7 +165,7 @@ away is presented as part of the reported argument.
 
 “Extreme” means first and last in the four-fruit sequence: stream-entry
 and arhatship. It does not mean the last two fruits. For stream-entry,
-the nine are the five beginning with faith, mind, neutral feeling,
+the nine are the five beginning with confidence, mind, neutral feeling,
 and the first two realization faculties. For arhatship, they are
 the five, mind, one appropriate feeling, and the last two realization
 faculties.
@@ -185,7 +185,7 @@ not all three together. This prepares the later objection about eleven.
 ## 6. The Middle Fruits and the Additional Case
 
 For one proceeding sequentially, the basic mundane count is seven:
-faith, vigor, recollection, concentration, prajñā, mind, and neutral
+confidence, vigor, recollection, concentration, prajñā, mind, and neutral
 feeling. The supramundane case adds the knowledge-faculty. Prior
 dispassion permits the nine-faculty pattern compared with stream-entry;
 the non-returning account additionally varies the feeling according
@@ -247,54 +247,40 @@ count; it is not a denial of the same person's possible elevenfold
 range across attainments. The word *ekasya*, of one person, matters
 as much as the numerical contrast.
 
-## 9. Philosophical and Organon Study
+## 9. Interpretation
 
-**Organon extension—not a literal Bhāṣya doctrine:** Transcendental Time marks both the non-separability of the final four at gradual death and the ordered, potentially alternative mediation of a fruit. Universal Cognition names the result and its path-determination; the Ideas are the route-specific faculties and terminal conditions. The analogy does not make the Bhāṣya a formal path-planning theory or collapse path moments into one simultaneous event.
+The commentary distinguishes the attained result from the route and
+Faculty-configurations through which it is attained. It also
+distinguishes a single attainment count from possibilities aggregated
+across one person's repeated attainments. The eleven-Faculty
+arhatship statement includes different feeling Faculties across
+attainments; it does not assert that pleasure, gladness, and neutral
+feeling occur simultaneously. In the path analysis, counted Faculties
+may also be assigned to distinct path-moments. The count therefore
+must not be treated as an inventory of simultaneous factors.
 
-The commentary separates an attained result from the route through
-which it is attained. It also separates the number of faculties
-from their composition and from the temporal span across which
-they are counted. These distinctions explain why one fruit admits
-several counts, and why one count can describe different routes.
+The return to Dhātu 1.48 is a project crosswalk: it relates the
+Faculty-classification here to the Base–Essence–Principle architecture
+without replacing the Dhātu map. Cessation at death, path-mediated
+attainment, and abandonment remain distinct predicates.
 
-For Organon reconstruction, the primary task is to retain each
-relation: faculty to path-moment, path-moment to acquisition, and
-an attainment to the history of its bearer. A flat list would erase
-the distinction between two feelings operating successively and
-three feelings available across repeated attainments.
+The Kośa's governing synthesis: Vijñāna is Discriminative Cognition joining
+and governing Perception and Conception. Their unity is Inconceivable as a
+homogeneous operation; its Idea is disclosed in the Cognition Base. Vijñāna
+governs Mind and guides the reading of Dharma Base. *Avijñapti* is the
+bridge, one Dharma classified in both Form Base and Dharma Base; Vijñāna
+bears a *prati* relation to it.
 
-The numerical analysis is intelligible through those relations.
-Its precision does not require translating the passage into a
-universal theory of practical planning. The Kośa's own question
-is which faculties mediate these four fruits under the specified
-conditions.
+In a Kant-informed Techne reading, the result, path-moment, and
+Faculty-relations are kept analytically distinct, with the source's
+conditions governing their application. This is a project-level
+interpretation, not a universal theory of practical planning.
 
-**Return to Dhātu at VAK 1.48:** The terminal and path Faculties retain the
-typed Domain-incidence established there: Mind-Faculty is mapped across the
-Citta Domains; the Body-Faculty and the Female and Male Faculties have their
-respective Body-Domain loci; and Life, the feeling Faculties, the five
-beginning with Faith, and portions of the three realization Faculties occupy
-the relevant portion of the Essence-Domain. The gradual-death cluster and
-the wholesome five apply terminal cessation to Faculties already placed in
-that map. The fruit analysis then reconstructs how mapped Faculties operate
-across path-moments: the two realization Faculties in stream-entry, for
-example, contribute through the uninterrupted path and the path of
-liberation respectively. The result is not reducible to its mediating
-Faculties, and successive path-moments are not collapsed into one. This
-Fichtean return negates a static reading of Dhātu and restores its
-placements as differentiated practical relations, without erasing the map
-or confusing cessation at death with path-abandonment.
+## 10. Textual and Scope Notes
 
-## 10. Review Status
-
-Provisional sixteenth study of the restarted Indriyanirdeśa Bhāṣya
-sequence. The research kārikā, research Bhāṣyas for VAK 2.16–2.17,
-existing Organon kārikā study, and running Sanskrit at 49.05–50.09
-have been compared to establish the complete attainment unit.
-
-The omitted special non-returning case is restored, and the opening
-half of VAK 2.17 is included through the nine-versus-eleven discussion.
-The death clauses were translated in VAK 2.15. The next study begins
-with necessary co-possession at 50.09. Defective witness forms and
-translation repairs are explicit. Original witnesses and existing
-kārikā studies remain unchanged.
+This study includes the fruit-attainment discussion and the opening
+half of VAK 2.17 through the nine-versus-eleven arhatship exchange.
+The death clauses were translated in VAK 2.15; the next study begins
+with the inquiry into necessary co-possession at 50.09. Defective
+witness forms and contextual repairs are identified above. No
+independent collation is claimed.

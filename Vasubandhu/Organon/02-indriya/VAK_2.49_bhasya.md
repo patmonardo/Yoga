@@ -1,250 +1,190 @@
-# VAK_2.49 Bhāṣya — Six Causes and the Scope of Non-obstruction
+# VAK 2.49 Bhāṣya — The Six Causes and Non-obstruction
 
-## 1. Kārikā Anchor
+## 1. Scope and Textual Position
 
-> kāraṇaṃ sahabhūś caiva sabhāgaḥ saṃprayuktakaḥ /
-> sarvatrago vipākākhyaḥ ṣaḍvidho hetur iṣyate // 2.49 //
+VAK 2.48 closes by asking which causes and conditions are meant by
+the statement on arising. The six-cause verse is cited at 82.21–24.
+The commentary then gives the first clause of the next definition,
+*svato 'nye kāraṇaṃ hetuḥ*, and explains the conditioning cause
+through its close at 83.17. The co-arisen cause begins at 83.18 and
+is not included here. This pair is retained as the next-topic study,
+outside the completed 2.47–2.48 turning; the six-cause enumeration
+opens Hetu theory.
 
-> The conditioning cause, the co-arisen, the homogeneous, the associated,
-> the pervasive, and that called maturation: cause is held to be sixfold.
+The translation follows the running text in
+`Vasubandhu/Sources/kosabhasya.txt`. The sentence defining the broad
+conditioning cause and several subsequent forms are textually
+irregular; contextual readings are marked without claiming a
+critically established text.
 
-The question introducing causes and conditions was translated at the end
-of VAK 2.48. This unit gives the sixfold enumeration and develops the
-conditioning cause through its explicit close, including the first clause
-of VAK 2.50. The co-arisen cause is reserved for the next study.
+## 2. Continuous Scientific Translation
 
-## 2. Continuous Sanskrit
+> The conditioning cause, co-arisen, homogeneous, associated, pervasive,
+> and called maturation: cause is held to be sixfold.
 
-> kāraṇaṃ sahabhūścaiva sabhāgaḥ saṃprayuktakaḥ /
-> sarvatrago vipākākhyaḥ ṣaḍvidho heturiṣyate // 2.49 //
-> ṣaḍime hetavaḥ /
-> kāraṇahetuḥ sahabhūhetuḥ sabhāgahetuḥ saṃprayuktakahetuḥ sarvatragahetuḥ vipākaheturiti /
-> tatra
-> svato 'nye kāraṇaṃ hetuḥ
-> saṃskṛtasya hi dharmasya svabhāvavrjyāḥ sarvadharmāḥ kāraṇaheturutpādayati /
-> avighnabhāvāvasthānāt /
-> nanu ca ye 'syājānata udapatsyantāsravā jānato 'sya te notpadyanta iti jñānameṣāṃ vighnamuatpattau karoti sūryaprabhāvajjyotiṣāṃ darśanasyeti kathaṃ svabhāvavarjyāḥ sarvadharmāḥ saṃskṛtasya kāraṇaheturbhavanti /
-> utpadyamānasyāvidhnabhāvenāvasthānāditi jñātavyam /
-> bhavettāvadutpattau vidhnakāraṇe samarthānāmavighnakāraṇāddhetutvam /
-> tadyathā anupadrotāraṃ bhojakamadhikṛtya grāmīṇā bhavanti vaktāraḥ svāminā smaḥ sukhitā iti /
-> yasya punarnāstyeva śaktirvighnayituṃ tasya kathaṃ hetubhāvastadyathā nirvāṇasyānutpattidharmakāṇāṃ ca sarvotpattau nārakādīnāṃ carūpyasattva skandhotpattau /
-> asanto 'pi hyete tathaiva vidhnaṃ karttumasamarthaḥ syuḥ /
-> asamarthe 'pi hi bhojake tathā vaktāro bhavantīti sa evātra dṛṣṭāntaḥ sāmānyenaiva nirdeśaḥ /
-> yastu pradhānaḥ kāraṇahetuḥ sa utpādane 'pi samartho yathā cakṣūrūpe cakṣurvijñānasya āhāraḥ śarīrasya vījādayo 'ṅkurādīnāmiti /
-> yastvevaṃ codayati anāvaraṇabhāvena cetsarva dharmahetavo bhavanti kasmānā sarvasyotpādo yugapadbhavati prāṇātipātena ca ghātakavat sarve tadbhājo bhavantīti /
-> tasyedamacodyam /
-> yasmādanāvaraṇabhāvena sarvadharmāḥ hetuḥ pratijñāyante na kārakabhāveneti /
-> sarvasyaiva kāraṇahetoḥ sarvotpattau sāmarthyamityapare /
-> tadyathā nirvāṇasyāpi cakṣurvijñānam /
-> kathaṃ kṛtvā /
-> tena hyālambanāt manovijñānamutpadyate kuśalākuśālaṃ yataḥ krameṇa paścāccakṣurvijñānamiti kāraṇaparaparayā tasyāpi pratyayībhāvādasti sāmarthyam /
-> evamanyasyāpi pratipattavyam /
-> eṣā hi dik /
-> uktaḥ kāraṇahetuḥ /
-
-## 3. Continuous Conventional Translation
-
-“The conditioning cause, the co-arisen, the homogeneous, the associated,
-the pervasive, and that called maturation: cause is held to be sixfold.”
-
-These are the six causes: the conditioning cause, co-arisen cause,
+These are the six causes: conditioning cause, co-arisen cause,
 homogeneous cause, associated cause, pervasive cause, and maturation
 cause. Among them:
 
-“Those other than itself are the conditioning cause.”
+> Other than itself, [a Dharma] is a conditioning cause.
 
-For a conditioned dharma, all dharmas except its own nature are conditioning
-causes with respect to its arising, because they stand in a state of
-non-obstruction [the transmitted wording of this sentence is damaged].
+For a conditioned Dharma, all Dharmas except its own-character are
+conditioning causes in relation to its arising, on account of their
+standing in a condition of non-obstruction [the transmitted sentence
+is irregular].
 
-But the influxes that would have arisen for someone who did not know do
-not arise for one who knows. Knowledge thus obstructs their arising,
-just as sunlight obstructs the visibility of the stars. How, then, are
-all dharmas except its own nature conditioning causes of a conditioned
-dharma? This should be understood as their standing in a state of
-non-obstruction with respect to what is arising.
+But influxes that would arise for one who does not know do not arise
+for one who knows. Knowledge obstructs their arising, just as sunlight
+obstructs the seeing of stars. How, then, are all Dharmas except its
+own-character conditioning causes of a conditioned Dharma? Understand
+it this way: they stand in a condition of non-obstruction with respect
+to the Dharma that is arising.
 
-Granted that things capable of obstructing an arising may count as causes
-through not obstructing it. Thus villagers, referring to a local ruler
-who does not oppress them, say, “Through our lord we are happy.” But how
-can something that has no power at all to obstruct possess causal status?
-For example, nirvāṇa and dharmas not subject to arising cannot obstruct
-any arising; nor can hell-beings and the like obstruct the arising of
-the aggregates of beings in the formless realm. Even if these did not
-exist, they would be just as incapable of producing an obstruction.
+Granted, things capable of obstructing an arising may count as causes
+when they do not obstruct it. For example, villagers speak of an
+official who does not oppress them: “Through our lord we are happy.”
+But how can something that has no power to obstruct be a cause? For
+example, Nirvāṇa and Dharmas that are not subject to arising cannot
+obstruct any arising; nor can beings in hell and the like obstruct
+the arising of the Bases of beings in the Formless realm. Even if
+these did not exist, they would be just as incapable of obstructing.
 
-People speak in that way even when the local ruler is powerless; therefore
-the same example applies here. The statement is made only in a general
-sense. A principal conditioning cause, however, is also capable of
-production: for example, eye and visible form in relation to eye-consciousness,
-food in relation to the body, and seeds and the like in relation to sprouts
-and the like.
+People speak in that way even of an official who lacks power, so the
+same illustration applies here: the statement is made only in a
+general sense. A principal conditioning cause, however, is also
+capable of production—for example, the eye Faculty and Form in
+relation to eye Cognition, food in relation to the body, and seeds
+in relation to sprouts.
 
-Someone objects: “If all dharmas are causes through non-obstruction, why
-does everything not arise simultaneously? And in the taking of life,
-why does everyone not share in it just as the killer does?” This is not
-a valid objection, because all dharmas are asserted to be causes through
-non-obstruction, not through productive agency.
+Someone objects: “If all Dharmas are causes by being non-obstructive,
+why does everything not arise at once? And in the taking of life,
+why would everyone share in it like the killer?”
 
-Others say that every conditioning cause has efficacy with respect to
-every arising. For example, even nirvāṇa has efficacy with respect to
-eye-consciousness. How? Taking it as an object, a wholesome or unwholesome
-mental consciousness arises; from that, in due sequence, eye-consciousness
-arises afterward. Thus nirvāṇa too has efficacy, since it becomes a
-condition through a succession of causes. Other cases should be understood
-in the same way. This indicates the direction [of the explanation].
+This is no valid objection. All Dharmas are asserted to be causes
+through non-obstruction, not through productive or agentive status.
+
+Others say that every conditioning cause has efficacy with respect
+to every arising. For example, even Nirvāṇa is efficacious with
+respect to eye Cognition. How? Taking Nirvāṇa as an object, mental
+Cognition arises, wholesome or unwholesome; from that, in due
+sequence, eye Cognition arises afterward. Thus Nirvāṇa too has
+efficacy, because it becomes a condition through a succession of
+causes. Other cases should be understood in the same way. This
+indicates the direction of the account.
 
 The conditioning cause has been explained.
 
-## 4. Six Causes, One Developed Account
+## 3. The Sixfold Enumeration and Its Local Limit
 
-The verse enumerates six kinds of *hetu*; the present natural commentary
-unit develops only *kāraṇahetu*. The remaining five should not receive
-full definitions inferred from their names before their own discussions.
-The verbal *iṣyate*, “is held” or “is accepted,” presents a doctrinal
-enumeration rather than announcing that all six have already been proved.
+The verse enumerates six distinct causal types:
 
-“Conditioning cause” is the working rendering of *kāraṇahetu*. The term
-remains a member of the six-*hetu* classification; the English word
-“conditioning” does not identify it with the separate classification of
-*pratyayas*. The question inherited from 2.48 asks about both causes and
-conditions, but their enumerations are not collapsed here.
+1. conditioning cause (*kāraṇahetu*);
+2. co-arisen cause (*sahabhūhetu*);
+3. homogeneous cause (*sabhāgahetu*);
+4. associated cause (*saṃprayuktakahetu*);
+5. pervasive cause (*sarvatragahetu*);
+6. maturation cause (*vipākahetu*).
 
-## 5. Non-obstruction Relative to an Arising
+This commentary unit develops the first type. The other five are named,
+not defined here. The following explanation of the conditioning cause
+does not authorize importing definitions from their names or treating
+the six as interchangeable.
 
-The first definition is maximally extensive: all dharmas other than the
-conditioned dharma itself. The rationale is non-obstruction. The knowledge
-example immediately forces a qualification, since knowledge can prevent
-influxes that would otherwise arise. The reply directs the definition
-to a dharma that is arising, rather than asserting that nothing ever
-obstructs anything.
+## 4. Non-obstruction Relative to an Actual Arising
 
-The exclusion of the dharma itself is explicit. The passage does not
-argue that an event generates itself by standing in its own way or
-removing its own obstruction. Nor does this general relation establish
-that each non-obstructor is individually necessary for the event. The
-objection about powerless non-obstructors makes that explanatory weakness
-visible: their absence would make no difference to their inability to
-interfere.
+The broad definition is stated relationally: Dharmas other than a
+conditioned Dharma's own-character count as conditioning causes
+insofar as they stand in non-obstruction to its arising. The example
+of knowledge immediately tests an unqualified reading: knowledge can
+prevent influxes that might otherwise arise. The reply directs the
+definition to the Dharma that is in fact arising. An obstruction to
+one possible event does not make the broad classification
+contradictory when applied to a different actual arising.
 
-The ruler analogy answers by defending a broad use of causal attribution.
-It does not demonstrate that powerless and powerful non-obstructors have
-identical productive capacities. The account expressly distinguishes a
-principal conditioning cause that can produce.
+The villagers' statement about a non-oppressive official illustrates
+causal attribution through the absence of obstruction. The critic
+then presses the category's breadth: Nirvāṇa, non-arising Dharmas,
+and beings with no power to obstruct a particular event seem to
+belong to the class without making a difference. Even if absent,
+they would be equally incapable of obstructing.
 
-## 6. Productive Efficacy and Agency
+The reply keeps the general non-obstruction relation distinct from
+the stronger role of a principal conditioning cause. The eye Faculty
+and Form, food, and seeds are examples of factors with productive
+efficacy. Thus a broad relation and a productive relation are not
+being asserted as identical.
 
-Eye and visible form in relation to eye-consciousness, food in relation
-to the body, and seeds in relation to sprouts are the stated examples
-of principal productive causes. The eye example does not purport to
-list every condition sufficient for an occurrence of eye-consciousness.
-Its role is to identify positive productive efficacy within the wider
-category.
+## 5. Productive Efficacy Is Not Agency
 
-The simultaneous-arising objection mistakes non-obstruction for a
-productive operation sufficient to generate every result. The killing
-objection makes the same mistake with agency. The reply explicitly
-contrasts *anāvaraṇabhāva*, non-obstruction, with *kārakabhāva*, productive
-or agentive status.
+The simultaneous-arising objection treats every non-obstructor as
+though it produced each event. On that reading, all things should
+arise together. The killing example tests a related overreach: if
+everyone is a causal cause by non-obstruction, why should everyone
+not share the killer's act?
 
-This is a local distinction in the causal argument. It should not be
-expanded into a general ethical rule that omissions, assistance, or
-failures to intervene can never carry responsibility. What is rejected
-here is the attribution of the killer's agency to everyone merely
-because the broad non-obstruction relation applies.
+The answer restricts the claim. The broad cause is predicated through
+non-obstruction, not through *kārakabhāva*, productive or agentive
+status. This answers the objection about the classification; it is
+not a general ethical rule about responsibility, assistance, or
+failure to intervene.
 
-## 7. The Alternative of Mediated Efficacy
+## 6. The Alternative of Mediated Efficacy
 
-“Others” maintain that every conditioning cause has efficacy with respect
-to every arising. Their example gives nirvāṇa an indirect relation to
-eye-consciousness: nirvāṇa is an object of mental consciousness, and
-eye-consciousness subsequently arises through an ordered causal sequence.
-The text calls this a *kāraṇaparaṃparā*, a succession of causes, and says
-that it indicates the direction of the account.
+An alternative view attributed to “others” says that every
+conditioning cause has efficacy with respect to every arising.
+Nirvāṇa's example is indirect: as an object, it conditions a mental
+Cognition; that Cognition may be wholesome or unwholesome; eye
+Cognition then arises later in the sequence. The proposal assigns
+causal efficacy through *kāraṇaparaṃparā*, a succession of causes.
 
-This alternative must remain distinct from the preceding defense of
-non-obstruction alone. It claims mediated efficacy where the earlier
-account allowed the broad attribution without productive agency. The
-example illustrates the proposal; it does not independently demonstrate
-every link for every possible pair of dharmas.
+This is not the same account as the broad non-obstruction definition.
+It proposes mediated efficacy where the earlier reply had denied
+that every broadly attributed cause acts productively. The passage
+reports the alternative and its example but does not here establish
+every link of a universal causal succession.
 
-Nirvāṇa's role as an object does not make nirvāṇa a produced or conditioned
-dharma. The conditioned occurrence to be explained and the range of
-what may enter its explanation are different questions. The English
-preserves the source's “wholesome or unwholesome” mental consciousness;
-this unit does not explain the respective cognitive attitudes or resolve
-all restrictions on taking nirvāṇa as an object.
+## Interpretation
 
-## 8. Textual and Translation Decisions
+As a separate next-topic study, this passage opens the six-cause
+inquiry. It asks what kind of causal relation has actually been
+established and distinguishes non-obstruction, productive efficacy,
+and mediated causation. It is not included in the completed
+2.47–2.48 turning.
 
-The continuous Sanskrit runs from 82.21–22 through 83.16–17 and ends with
-*uktaḥ kāraṇahetuḥ*. The question already translated in VAK 2.48 is not
-repeated. The first clause of VAK 2.50, *svato 'nye kāraṇaṃ hetuḥ*, belongs
-to this discussion and is included here. The next study begins at 83.18
-with the co-arisen cause.
+The Hub connection remains a possible Organon reading of the causal
+inquiry, not a claim that the source has already completed the
+analysis of all six causes.
 
-The Sanskrit preserves the running transcription apart from source labels
-and surrounding spacing. At 82.26, *svabhāvavrjyāḥ* and especially
-*kāraṇaheturutpādayati* leave the sentence irregular. The English renders
-the contextual definition in relation to arising, supported by the
-following non-obstruction explanation; it does not silently establish a
-corrected Sanskrit reading.
+The Kośa-wide synthesis presents Vijñāna as Discriminative Cognition
+joining and governing Perception and Conception; their unity is
+Inconceivable as a homogeneous operation, with its Idea disclosed in
+Cognition Base. Vijñāna governs Mind and guides the reading of Dharma
+Base. *Avijñapti* is the same Dharma classified in Form Base and Dharma
+Base, and Vijñāna bears a *prati* relation to it. This is the
+systematic synthesis of the Kośa, not a claim that the current cause
+definition states all of it.
 
-Further transcription irregularities include *vighnamuatpattau*,
-*avidhnabhāvena*, *anupadrotāraṃ*, *kasmānā*, and *kāraṇaparaparayā*.
-The English follows their locally intelligible senses. At 83.13–16,
-*nirvāṇasyāpi cakṣurvijñānam* is elliptical and *tena hyālambanāt*
-is irregular; “has efficacy with respect to eye-consciousness” and
-“taking it as an object” are contextual construals. These require
-collation before the Sanskrit can be critically finalized.
+At the project level, the ten Samyama-bhūmis describe Path-related
+operation of mental factors, and Buddha Dharma is the 11th Bhūmi.
+This is not a literal translation or a level enumerated in the present
+passage.
 
-*Āsrava* is rendered “influx,” retaining a more specific term than generic
-“defilement.” *Bhojaka* is rendered “local ruler” within the analogy;
-no precise administrative institution is inferred. *Hetu* is translated
-“cause” throughout the continuous translation. “Ground” belongs to the
-subsequent Organon inquiry, not an additional literal term in this unit.
+## 8. Textual Decisions and Review Status
 
-## 9. Philosophical and Organon Study
+The continuous translation covers the six-cause verse and its
+commentary through *uktaḥ kāraṇahetuḥ* at 83.17. The line
+*svato 'nye kāraṇaṃ hetuḥ* is included because the commentary uses it
+to introduce the first definition; it is not treated as a second
+VAK 2.49 verse.
 
-As Organon interpretation, this passage teaches a discrimination within
-what initially appears to be one relation called causality. Not preventing
-an occurrence, producing it, and contributing through an intervening
-succession are distinguishable claims. The objections test what each
-claim can explain.
+The source's *svabhāvavrjyāḥ* and *kāraṇaheturutpādayati* make the
+defining sentence irregular. The translation follows the next
+non-obstruction explanation and marks the uncertainty rather than
+silently emending it. Other irregularities include
+*vighnamuatpattau*, *kasmānā*, and *kāraṇaparaparayā*. The
+Nirvāṇa example at 83.13–16 is elliptical; its mediated sequence is
+translated contextually.
 
-This gives our account of learning a local application. Learning the
-name “conditioning cause” leaves open whether its application establishes
-productive power. The dialogue removes that confusion through the
-knowledge example, the powerless ruler, the productive examples, and the
-objections concerning simultaneous arising and agency. This pedagogical
-reading describes the movement of understanding; it does not replace the
-technical meaning of *cakṣurvijñāna* with “Eye Science” in the translation.
-
-For the inquiry into grounds and conditions, non-obstruction alone does
-not supply a sufficient productive explanation. The passage requires us
-to ask what relation has actually been established. A stronger account
-of mediated efficacy is then proposed as an alternative. Preserving that
-difference lets the Organon investigate synthesis without assuming that
-everything has already been shown to produce everything else.
-
-**Organon reading (philosophical reconstruction, not Bhāṣya doctrine):**
-The faculties' governing efficacy is a Transcendental Time Determination of
-Śuddha Sattva: cause is read through its specific efficacy in the conditioned becoming
-of a particular Idea: permitting an event, producing it, and mediating its
-arising are different temporal relations. The universal Cognition of
-causality preserves these differences; temporal precedence alone does not
-exhaust any of them. The alternative accounts remain attributed to their
-speakers in the source.
-
-## 10. Review Status
-
-Provisional forty-ninth study of the restarted Indriyanirdeśa Bhāṣya
-sequence. The research Bhāṣya, existing Organon kārikā, preceding study's
-boundary, and running Sanskrit have been compared. The complete account
-of the conditioning cause is translated, including the alternative view
-of efficacy through a succession of causes.
-
-Damaged wording is marked; no independent edition or manuscript collation
-has been performed. Original witnesses and existing studies are unchanged.
-VAK 2.50 continues at 83.18 with the co-arisen cause; its opening
-conditioning-cause clause has been treated here.
+Retained as an out-of-scope next-topic pair through the conditioning
+cause. VAK 2.50 continues at 83.18 with the co-arisen cause. The
+completed turning stops before this Hetu inquiry.

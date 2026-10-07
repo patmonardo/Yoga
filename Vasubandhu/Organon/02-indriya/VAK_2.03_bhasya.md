@@ -5,11 +5,11 @@
 > nikāyasthitisaṃkleśavyavadānādhipatyataḥ /
 > jīvitaṃ vedanāḥ pañca śraddhādyāś cendriyaṃ matāḥ // 2.03 //
 
-> Life, the five feelings, and those beginning with faith are regarded
-> as faculties because of governing efficacy over the persistence of
+> Life, the five feelings, and those beginning with confidence are regarded
+> as Faculties because of governing efficacy over the persistence of
 > the living class, defilement, and purification, respectively.
 
-The Bhāṣya explicitly limits “those beginning with faith” here to five
+The Bhāṣya explicitly limits “those beginning with confidence” here to five
 and confirms that each item is individually accepted as a faculty.
 The three governed functions correspond to the three groups in order.
 
@@ -29,23 +29,23 @@ supplied for readability; no substantive emendation is needed.
 The initial avagraha in *'duḥkhāsukhāyām* represents the elided
 initial *a* of *aduḥkhāsukha*, “neither painful nor pleasant.”
 
-## 3. Continuous Conventional Translation
+## 3. Scientific English Rendering
 
-The life-faculty has governing efficacy over the persistence of the
+The Life Faculty has governing efficacy over the persistence of the
 homogeneous class of living beings, and the feelings over defilement.
 For it is said in the sūtra: “Attachment lies latent in pleasant
 feeling, aversion in painful feeling, and ignorance in neither-painful-
-nor-pleasant feeling.” The five beginning with faith have governing
-efficacy over purification, for through them the afflictions are
-suppressed and the path is brought forward. Therefore each of these
-also is individually accepted as a faculty.
+nor-pleasant feeling.” The five beginning with confidence have governing
+efficacy over purification, for through them afflictions are checked
+and the Path is brought forward. Therefore each is individually
+accepted as a Faculty.
 
 ## 4. Movement and Voice of the Commentary
 
-The paragraph continues the explanation of faculty-status developed
+The paragraph continues the explanation of Faculty-status developed
 in VAK 2.02. It assigns life its governing function, supports the
 feeling–defilement relation by a sūtra quotation, explains the
-purificatory work of the five beginning with faith, and concludes
+purificatory work of the five beginning with confidence, and concludes
 with the distributive *pratyekam*, “each individually.”
 
 There is no new objection or named school here. The quoted sūtra
@@ -64,23 +64,23 @@ wording of the commentary.
 
 The local claim concerns *sthiti*, continued standing. It does not
 give a mechanism for the production of life or a full definition
-of the life-faculty's own nature. The clear formulation here also
+of the Life Faculty's own nature. The clear formulation here also
 supports the earlier study's association of life with maintenance,
 but does not by itself establish an exact repair of the difficult
-life-faculty reading in VAK 2.01.
+Life Faculty reading in VAK 2.01.
 
 ## 6. Five Faculties, Three Feeling-Tones
 
-The kārikā counts five feeling-faculties. The sūtra quotation uses
+The kārikā counts five feeling Faculties. The sūtra quotation uses
 three feeling-tones: pleasant, painful, and neither painful nor
 pleasant. These are different articulations of feeling, not
-competing totals for the faculty list.
+competing totals for the Faculty list.
 
 For orientation, the five are pleasure, pain, gladness, distress,
 and neutral feeling: *sukha*, *duḥkha*, *saumanasya*, *daurmanasya*,
 and *upekṣā*. The quotation groups the pleasant and painful sides
 by tone when relating them to attachment and aversion. It does not
-restate the full definitions of the five faculties.
+restate the full definitions of the five Faculties.
 
 The verb *anuśete*, rendered “lies latent,” states a relation of
 affliction to feeling. Pleasant feeling is not thereby identified
@@ -99,9 +99,10 @@ an explanatory addition rather than a translation of the sentence.
 
 ## 7. The Two Operations of Purification
 
-The five beginning with faith are *śraddhā*, *vīrya*, *smṛti*,
-*samādhi*, and *prajñā*: faith, vigor, recollection, concentration,
-and discriminative knowing. The prose specifies five here, whereas
+The five beginning with confidence are *śraddhā*, *vīrya*, *smṛti*,
+*samādhi*, and *prajñā*: confidence, energy, recollection,
+concentration, and Science of Principles in the inner-instrument
+Techne. The prose specifies five here, whereas
 the opening verse of the chapter grouped eight under purification.
 The next verse treats the remaining three; their explanation is
 not included in this unit.
@@ -123,72 +124,49 @@ faculty-status without providing five individual causal analyses.
 ## 8. The Bhāṣya's Decisions for Translation
 
 “Respectively” in the anchor makes explicit the prose's distribution
-of the three functions. “Five” for the faith-group is a Bhāṣya
+of the three functions. “Five” for the confidence-group is a Bhāṣya
 specification, while the kārikā itself says “those beginning with
-faith.” The final singular *indriyam* is read distributively through
+confidence.” The final singular *indriyam* is read distributively through
 *pratyekam*, not as one collective faculty encompassing all eleven.
 
 “Persistence” translates *sthiti*. The adjective “synthetic,” found
 in the earlier research interpretation, belongs to Organon
-reconstruction and is not introduced into the conventional translation.
+reconstruction and is not introduced into the Scientific English rendering.
 “Suppressed” and “brought forward” preserve the difference between
 the two operations stated in explanation of purification.
 
-## 9. Philosophical and Organon Study
+## 9. Interpretation
 
-The same governing relation receives three different determinations:
-continuance of living existence, the relation of affliction to feeling,
-and the checking of affliction together with advancement of the path.
-Explaining faculty-status requires identifying which of these
-relations is at issue, rather than treating all efficacy as one
-undifferentiated power.
+The Bhāṣya differentiates persistence, feeling's relation to latent
+affliction, and purification through checking afflictions while bringing
+the Path forward. These functions remain distinct. In particular,
+feeling is not identical with its corresponding affliction, and
+checking is not stated to be final abandonment.
 
-**Organon reading — reciprocal return to Dhātu:** Dhātu 1.48 locates
-the eleven Faculties named across this verse—Life, the five Feelings,
-and Confidence through Discernment—within a portion of the Essence-
-Domain. Indriya 2.03 returns light to that Dhātu map by specifying
-three modes of governance at that locus: persistence, affective
-susceptibility, and purification. The Domain supplies the structured
-locus and field; these Faculties determine how the living continuum
-continues, becomes susceptible to affliction, and is redirected.
-Neither description absorbs the other.
+**Kant-informed Techne.** The passage determines several functions
+within one practical system of living cognition; it does not present
+them as a chronology or as independent substances. The crosswalk with
+VAK 1.48 places the named Faculties within the relevant Essence
+classification, while this verse specifies their governing functions.
+Principle and Faculty are complementary determinations, not competing
+inventories.
 
-The two purificatory operations also prepare a determinate negation.
-The Bhāṣya's *viṣkambha* is checking or suppression, not final
-abandonment. In an Organon continuation, the negation would target
-the afflictive relation—not erase the feeling or its Dhātu locus—and
-would return to Dhātu to identify where that relation arose and where
-path-knowing can operate. VAK 2.04 names the next three knowledge-
-Faculties; Dhātu 1.48 correspondingly places portions of those final
-three Faculties in the Essence-Domain. This is a proposed Prajñā–
-Dharma–Jñāna connection, not terminology or a dialectical sequence
-asserted by the Bhāṣya.
+Across the Kośa, Vijñāna is Discriminative Cognition joining Perception
+and Conception without reducing their unity to one homogeneous
+operation; it governs Mind and guides the reading of Dharma Base. The
+same *avijñapti* remains one content in the Form Base and Dharma Base
+classifications, and Vijñāna bears a *prati* relation to it. This wider
+synthesis frames, but is not stated in full by, this passage.
 
-In this project's framing, Hegelian Logic is Pure Theoretical Reason
-and the Kośa is Practical Reason. Indriya makes the Fichtean return:
-it negates Dhātu as merely given and reconstructs its determinations
-as operative powers in mind. The return is reciprocal, since the
-Dhātu map also tests and constrains the reconstruction. Negation
-therefore returns Dhātu in a more articulated form rather than
-discarding it. This is Organon method, not a historical attribution
-or a claim made by the commentary.
+In the Techne, Citta is Universal, the Base–Essence–Principle schema
+is Particular, and Buddha Mind is Singular as the actual executing
+instance. Indriyanirdeśa is a practical instance of Citta, not a
+general theory of Mind. This is project-level synthesis, not a
+translation claim or a dialectical sequence asserted by the Bhāṣya.
 
-These are Transcendental Time Determinations of Śuddha Sattva, not
-clock-time intervals or a biography imposed on every continuum. This
-Organon reading remains separate from the close translation and
-preserves the Bhāṣya's narrower claim: the five beginning with faith
-govern purification by checking afflictions and bringing the path
-forward.
+## 10. Textual Limits
 
-## 10. Review Status
-
-Provisional third study of the restarted Indriyanirdeśa Bhāṣya
-sequence. The research kārikā and Bhāṣya, existing Organon kārikā
-study, and running Sanskrit at 39.18–23 have been compared within
-the established continuous-translation method.
-
-The complete commentary is translated as one paragraph. The fivefold
-faculty list and threefold feeling citation remain distinct;
-suppression is distinguished from final abandonment. Original
-witnesses and the existing kārikā study are preserved. This study
-ends before VAK 2.04.
+The prose unit is complete at 39.20–23 and requires no substantive
+emendation beyond supplied word division. Its specification of five
+Faculties beginning with confidence and its use of three feeling-tones
+must remain distinct from the kārikā's fivefold feeling-Faculty group.

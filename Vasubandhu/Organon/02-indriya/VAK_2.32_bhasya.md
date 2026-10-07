@@ -1,293 +1,238 @@
-# VAK_2.32 Bhāṣya — Moral Shame, Caution, Affection, and Respect
+# VAK_2.32_bhasya
 
-## 1. Kārikā Anchor
+## 1. Text and Scope
 
-> ahrīr agurutā avadye bhayādarśitvam atrapā /
-> prema śraddhā gurutvaṃ hrīḥ te punaḥ kāmarūpayoḥ // 2.32 //
+This study covers the Bhāṣya on the first source verse numbered 2.32,
+printed at 59.16–60.22 in the running transcription. The next source verse
+is also labeled 2.32 in the witness, beginning at 60.23; this repository
+numbers that following verse VAK 2.33.
 
-> Shamelessness is lack of respect; lack of moral caution is
-> failure to see danger in the blameworthy. Affection is faith;
-> respect is moral shame. These last two occur in the desire
-> and form realms.
+The passage resumes definitions of mental factors deferred during the
+preceding enumeration. It explains shamelessness and lack of moral concern,
+then examines the compressed equations between affection and confidence,
+and between respect and moral shame. It ends by restricting the relevant
+person-directed forms to the Desire and Form Principles.
 
-The Bhāṣya qualifies the scope of these formulas, records alternative
-accounts, and specifies the person-directed forms intended by
-the final realm restriction.
+## 2. Lexical Analysis
 
-## 2. Continuous Sanskrit
+| Pada | Morphology | Force in this passage |
+|---|---|---|
+| ahrīḥ | nominative feminine singular | shamelessness |
+| agurutā | nominative feminine singular | lack of respect |
+| avadya | neuter substantive/adjective | what is blameworthy |
+| bhaya | neuter noun | danger; an undesirable result |
+| adarśana | abstract noun | failure to recognize or see |
+| atrapā | nominative feminine singular | lack of moral concern |
+| prema | neuter noun | affection |
+| śraddhā | feminine noun | confidence |
+| gaurava / gurutva | neuter nouns | respect |
+| hrī | feminine noun | moral shame |
+| sapratīśatā | abstract noun | acknowledgment of authority |
+| tṛṣṇā | feminine noun | craving |
+| ālambana | neuter noun | object or support |
+| kuśala-mahābhūmika | compound adjective | belonging to the wholesome great-ground factors |
 
-> idānīṃ keṣāñcideva caittānāṃ tantravihitaṃ nānākāraṇaṃ vakṣyate /
-> āhrīkyasyānapatrāpyasya ca kiṃ nānākāraṇam /
-> ahrīragurutā
-> guṇeṣu guṇavatsu cāgauravatā apratīśatā abhayamavaśavartitā āhrīkyaṃ gauravapratidvandvo dharmaḥ //
-> avadye bhayādarśitvamatrapā /
-> avadyaṃ nāma yadvigarhitaṃ sadbhiḥ /
-> tatrābhayadarśitā 'napatrāpyam /
-> bhayamatrāniṣṭaṃ phalaṃ bhīyate 'smāditi /
-> kathamidaṃ vijñātavyam abhayasya darśanamabhayadarśitā āhosvit bhayasyādarśanam /
-> kiṃ cātaḥ /
-> abhayasya darśanaṃ cet prajñā vijñāsyate bhayasyādarśanaṃ cedavidyā vijñāsyate /
-> naiva hi darśanaṃ darśitā nāpyadarśanamadarśitā /
-> kiṃ tarhi /
-> yastayornimittamupakleśastaccānapatrāpyamiti /
-> anye punarāhuḥ /
-> ātmāpekṣayā doṣairalajjana māhrīkyaṃ parāpekṣayā 'napatrāpyamiti /
-> evamapi dve apekṣe yugapat kathaṃ setsyataḥ /
-> na khalūcyate yugapadātmānaṃ paraṃ cāpekṣata ityapi tvastyasau kadācidalajjā yā ātmānamapekṣamāṇasyāpi pravartate sā āhrīkyam /
-> asti yā paramapekṣamāṇasya pravarttate sā 'napatrāpyam /
-> viparyayeṇa hrīrapatrāpyaṃ ca veditavyam /
-> pratahamena tāvat kalpena sagauravatā sapratīśatā na bhayavaśavrtitā hrīḥ /
-> avadyeṣvabhayadarśiatā 'patrāpyam /
-> dvitīyena kalpenātmaparāpekṣābhyāṃ lajjane /
-> premṇo gauravasya ca kiṃ nānākāraṇam /
-> prema śraddhā /
-> dvividhaṃ hi prema kliṣāṭamakliṣṭaṃ ca /
-> tatra kliṣṭaṃ tṛṣṇā yathā putradārādiṣu /
-> akliṣṭaṃ śraddhā śāstṛguruguṇānviteṣu /
-> syācchraddhā naprema /
-> duḥdhasamudayālambanā śraddhā /
-> syāt prema na śraddhā /
-> kliṣṭaṃ prema /
-> ubhayaṃ nirodhamārgālambanā śraddhā /
-> nobhayametānākārān sthāpayitvā /
-> pudgaleṣu tu prema na gauravaṃ putradārasārdhaṃ vihāryantevāsiṣu /
-> gauravaṃ na prema anyaguruṣu /
-> ubhayaṃ svaguruṣu /
-> nobhayam etānākārān sthāpayitvā /
-> śraddhā hi nāma guṇasaṃbhāvanā /
-> tatpūrvikā ca priyatā prema /
-> tasmānna saiva premetyapare /
-> gurutvaṃ hrīḥ /
-> gauravaṃ hi nāma sapratīśatā /
-> tatpūrvikā ca lajjā hrīḥ /
-> ato na gauravameva hlīrityapare /
-> te punaḥ kāmarūpayoḥ // 2.32 //
-> ārūpyadhātau premagaurave na staḥ /
-> nanu ca śraddhā hrīśca kuśalamahābhūmikatvāttatrāpi vidyete /
-> dvividhā hi śraddhā dharmeṣu pudgaleṣu ca /
-> evaṃ sapratīśatā 'pi /
-> tatra ye pudgalālambane śraddhāhriyau te tatra na staḥ /
-> te ceha premagaurave abhiprete /
+The transcription has damaged or uncertain forms in the first definitions
+and in the reversal of the alternative account, including
+*bhayādarśiatā*, *pratahamena*, and *hlīr*. Interpretive resolutions are
+identified as such below; they are not silently substituted into the
+transmitted text.
 
-The excerpt follows printed 59.16–60.22 in
-`Vasubandhu/Sources/kosabhasya.txt`, with source labels removed
-and the verse number regularized. Apparent defects are retained,
-including the difficult reversal of the negative ethical pair.
-Contextual translation repairs are marked below. No independent
-collation is claimed.
+## 3. Scientific English Rendering
 
-## 3. Continuous Conventional Translation
-
-The distinctions established in the treatise among certain mental
-factors will now be stated. What distinguishes shamelessness
-from lack of moral caution? “Shamelessness is lack of respect.”
-Absence of reverence toward qualities and those possessing them,
-non-acknowledgment of authority, absence of fear, and refusal to
-be governed constitute shamelessness, a factor opposed to respect.
-“Lack of moral caution is failure to see danger in the blameworthy.”
-The blameworthy is what good persons condemn. Failure to see
-danger in it is lack of moral caution. “Danger” here means an
-undesirable result, since it is something one fears.
-
-How should this be understood: seeing an absence of danger,
-or not seeing danger? What follows? If it is seeing an absence
-of danger, it would be understood as prajñā; if it is not seeing
-danger, it would be understood as ignorance. But the disposition
-so described is not simply seeing, nor is it simply not seeing.
-What, then? The secondary affliction that occasions either of
-these is lack of moral caution.
-
-Others say that shamelessness is being unashamed of faults with
-reference to oneself, while lack of moral caution is being
-unashamed with reference to others. Even so, how can the two
-references be established simultaneously? It is not said that
-one simultaneously considers oneself and another. Rather, there
-is a lack of shame that can operate even when one considers
-oneself: that is shamelessness. There is one that operates when
-one considers another: that is lack of moral caution. Moral shame
-and moral caution should be understood by reversing these accounts.
-On the first account, moral shame is respect, acknowledgment
-of authority, [and not mere submission through fear]; moral
-caution is seeing danger in the blameworthy. On the second account,
-they are shame with reference to oneself and to others.
-
-What distinguishes affection from respect? “Affection is faith.”
-Affection is twofold, afflicted and unafflicted. Afflicted affection
-is craving, as toward children, spouse, and so forth. Unafflicted
-affection is faith toward the Teacher, preceptors, and those
-endowed with qualities. There can be faith without affection:
-faith directed toward suffering and its origin. There can be
-affection without faith: afflicted affection. There can be both:
-faith directed toward cessation and the path. Neither applies
-outside these modes. Among persons, affection without respect
-occurs toward children, spouse, fellow residents, and pupils;
-respect without affection toward other teachers; both toward
-one's own teachers; neither outside these cases. Faith is esteem
-for qualities, while affection is fondness preceded by that
-esteem. Therefore, others say that affection is not identical
-with faith.
-
-“Respect is moral shame.” Respect is acknowledgment of authority,
-while moral shame is shame preceded by that acknowledgment.
-Therefore, others say that respect is not identical with moral
-shame. “These, however, occur in the desire and form realms.”
-Affection and respect do not occur in the formless realm. But
-faith and moral shame occur there too, since they are wholesome
-great-ground factors. Faith is twofold, directed toward dharmas
-and toward persons; acknowledgment of authority is likewise
-twofold. The forms of faith and moral shame that have persons
-as their object-support do not occur there. Those are what is
-intended here by affection and respect.
-
-The bracketed phrase in the reversal of shamelessness marks an
-uncertain reading. The transmitted *na bhayavaśavrtitā* is
-contextually construed as excluding mere subjection through fear.
-The following *avadyeṣvabhayadarśiatā* also appears defective:
-the translation follows the expressly announced reversal and
-reads seeing danger, rather than reproducing the negative sense
-of the preceding lack-of-caution definition. These resolutions
-require collation.
+> Shamelessness is lack of respect. Lack of moral concern is failure to
+> recognize danger in what is blameworthy. What is blameworthy is what
+> good persons condemn; danger is an undesirable result.
+>
+> Is this seeing that there is no danger, or not seeing danger? If it is
+> the former, it is discernment; if the latter, ignorance. The reply is
+> that the secondary affliction is the occasion or condition of either
+> presentation; it is not itself the discernment or ignorance.
+>
+> According to another account, the two are distinguished by reference
+> to oneself and to another. An objection asks how both can be present
+> at once if each depends upon a different reference. The answer denies
+> that the account requires simultaneous acts of considering oneself
+> and another; it distinguishes the kinds of shamelessness and moral
+> concern. The transmitted reversal defining moral shame and moral
+> concern is uncertain.
+>
+> Affection is confidence. Affection is twofold: afflicted affection is
+> craving, as toward children and spouse; unafflicted affection is
+> confidence directed toward the Teacher, preceptors, and those endowed
+> with qualities. Confidence may occur without affection, as confidence
+> directed toward suffering and its origin; affection may occur without
+> confidence, as afflicted affection; both occur in confidence directed
+> toward cessation and the path. Other combinations remain.
+>
+> Among persons, affection without respect occurs toward children,
+> spouse, companions, and pupils; respect without affection occurs
+> toward other teachers; both occur toward one's own teacher. Other
+> combinations remain.
+>
+> Others explain that confidence is esteem for qualities and affection
+> is fondness preceded by that esteem. Respect is acknowledgment of
+> authority and moral shame follows from that acknowledgment. Thus,
+> according to these teachers, affection is not simply confidence,
+> and respect is not simply moral shame.
+>
+> Person-directed affection and respect do not occur in the Formless
+> Principle. Confidence and moral shame, as wholesome great-ground
+> factors, do occur there when directed toward Dharmas. These
+> Dharma-directed forms are not the affection and respect intended
+> by the verse's restriction.
 
 ## 4. Movement and Voices of the Commentary
 
-The unit returns to definitions deferred when the wholesome and
-unwholesome factors were counted. The first account of the negative
-pair prompts a question about whether lack of moral caution
-collapses into prajñā or ignorance. An alternative account based
-on self and other prompts a question about simultaneity. Both
-accounts are then reversed to explain the positive pair.
+The commentary returns to factors whose definitions were deferred during
+the count of wholesome and unwholesome mental factors. The initial
+definitions lead to an objection about whether lack of moral concern
+reduces to discernment or ignorance. A separate explanation indexes the
+negative pair by reference to self and other. Questions about whether
+those references must operate simultaneously lead to a reversal of the
+account for moral shame and moral concern; the transmitted wording at
+this point is defective.
 
-Affection and respect receive compressed identifications, fourfold
-comparisons, and expressly attributed alternatives distinguishing
-what precedes from what follows. The final objection tests their
-realm restriction against the universal wholesome occurrence
-of faith and moral shame. Its reply restricts the intended terms
-by object-support.
+The positive pair receives a direct equation, followed by distinctions
+through modes and examples. The passage distinguishes afflicted craving
+from unafflicted affection, tests the relation between confidence and
+affection through four alternatives, and then offers examples concerning
+persons. “Others” explicitly analyze confidence and respect as prior
+grounds of affection and moral shame. The final objection tests the
+realm restriction against the broader occurrence of confidence and
+moral shame as wholesome great-ground factors. The reply narrows the
+restriction by object-reference.
 
 ## 5. Moral Caution and Its Cognitive Expressions
 
-The first objection distinguishes judging that danger is absent
-from failing to recognize danger. These would appear to fall
-under discrimination and ignorance respectively, leaving no
-separate factor of lack of moral caution.
+The objection tests two possible readings of failure to recognize danger:
 
-The reply identifies the relevant secondary affliction as the
-occasion or condition of those cognitive expressions. It therefore
-does not merely rename either expression. This is important for
-the preceding enumeration, where lack of moral caution was counted
-separately from prajñā and ignorance.
+```text
+Seeing that danger is absent
+    → a mode of discernment
 
-The definition of danger is also specific: an undesirable result.
-The passage does not define moral caution as fear indiscriminately,
-nor classify every absence of fear as an unwholesome mental factor.
-The object is the blameworthy, itself defined by reference to
-what good persons condemn.
+Not seeing danger
+    → ignorance
+```
 
-## 6. Self, Other, and the Positive Pair
+If either description exhausts the factor, there seems to be no distinct
+place for lack of moral concern. The reply identifies that factor as the
+secondary affliction that occasions the relevant cognitive presentation.
+This preserves the distinction among the mental factor, discernment or
+ignorance, and the blameworthy conduct whose danger is at issue; it does
+not posit an additional hidden entity.
 
-The alternative distinguishes lack of shame with reference to
-oneself from lack of shame with reference to another. The objection
-asks how both can be present together if they require different
-references. The reply refuses the premise that two simultaneous
-acts of considering self and other are being asserted; it
-characterizes kinds of lack of shame that operate even under
-the relevant consideration.
+The commentary defines danger as an undesirable result. It does not
+identify moral concern with indiscriminate fear or classify every absence
+of fear as an unwholesome factor. The object is what is blameworthy,
+explained as conduct condemned by good persons.
 
-This response should not be expanded into an unstated theory
-of unconscious self-reference. Its explicit work is to distinguish
-the factors from a requirement of simultaneous acts of reflection.
+## 6. Self, Other, and the Reversal
 
-The positive factors are explained by reversal under both accounts.
-Consequently, the source preserves two explanatory approaches,
-not one settled equation between shame, respect, fear, and social
-regard. The defects in the first reversal particularly limit how
-precisely its wording can be established from this transcription.
+The alternative account differentiates shamelessness and lack of moral
+concern through self-reference and reference to another. The objection
+asks whether both can occur together if they require distinct references.
+The reply resists the assumption that the theory asserts two simultaneous
+acts of reflection. It distinguishes kinds of shamelessness and moral
+concern without supplying a developed account of unconscious reference.
 
-## 7. Affection, Faith, Respect, and Shame
+The positive factors are then explained by reversal. The Sanskrit around
+this reversal is not reliable enough in the running transcription to
+establish every predicate securely. In particular, *na bhayavaśavṛttitā*
+is contextually construed as excluding mere subjection through fear, and
+the following *avadyeṣvabhayadarśiatā* appears defective. The rendering
+follows the announced reversal but marks the reading as uncertain;
+collation with another witness is needed before treating it as settled.
 
-The four alternatives relating faith and affection prevent the
-bare phrase “affection is faith” from being treated as unrestricted
-identity of their full ranges. Afflicted affection is craving;
-faith concerning suffering and its origin is not affection;
-faith concerning cessation and the path supplies the stated overlap.
+## 7. Affection, Confidence, Respect, and Moral Shame
 
-The separate examples among persons compare affection with respect.
-They are the text's examples, not universal psychological judgments
-about every parent, pupil, or teacher. Their function is to show
-that the two relations can be distinguished.
+The fourfold comparison prevents “affection is confidence” from being
+read as unrestricted identity across the factors' full ranges:
 
-The subsequent “others” explicitly distinguish affection from
-the esteem for qualities that precedes it, and moral shame from
-the acknowledgment of authority that precedes it. These are
-reported alternatives to the compressed identifications. It
-would misrepresent the voices to say simply that the Bhāṣya
-has rejected identity as its final position.
+| Relation | Bhāṣya's example |
+|---|---|
+| Confidence without affection | Confidence directed toward suffering and its origin |
+| Affection without confidence | Afflicted affection, identified as craving |
+| Both | Confidence directed toward cessation and the path |
+| Neither | Other cases outside the specified modes |
 
-## 8. Object-Support and the Formless Realm
+The separate examples compare affection and respect as person-directed
+relations. Affection without respect is illustrated by children, spouse,
+companions, and pupils; respect without affection by other teachers; and
+both by one's own teacher. These examples demonstrate distinctions in
+the analysis; they are not universal judgments about every relationship
+of those kinds.
 
-The apparent difficulty is that faith and moral shame are wholesome
-great-ground factors and thus occur in wholesome consciousness
-in the formless realm. If affection and respect are identified
-with them, how can the latter be absent there?
+“Others” explicitly distinguish a prior ground from what follows:
 
-The reply narrows the intended reference: the person-directed
-forms are meant by affection and respect in this restriction.
-It does not withdraw faith and moral shame from the formless
-realm altogether. The general factor, its object-directed form,
-and the realm in which that form occurs remain distinct.
+```text
+Esteem for qualities (confidence)
+    → fondness that follows (affection)
 
-The continuous excerpt retains other transcription defects,
-including *pratahamena*, *duḥdhasamudaya*, and *hlīr*. The English
-contextually reads the first account, suffering and its origin,
-and moral shame. “Disposition” in the seeing/not-seeing reply
-is an explanatory rendering of the abstract wording; it does
-not posit an additional latent entity beyond the named secondary
-affliction.
+Acknowledgment of authority (respect)
+    → moral shame that follows
+```
 
-## 9. Philosophical and Organon Study
+The first relation is *śraddhā* to *prema*; the second is *gaurava* to
+*hrī*. These reported alternatives qualify the compressed equations but
+must not be presented as the commentary's single, uncontested final
+analysis.
 
-The unit repeatedly tests whether a relation has been mistaken
-for identity. A factor can occasion a cognitive expression, an
-attitude can precede another, and a general wholesome factor can
-have a more restricted person-directed form. These determinations
-require different explanations even when a compact formula uses
-the same names.
+## 8. Object-Reference and the Formless Principle
 
-For Organon interpretation, the object-support restriction is
-especially instructive. The absence of one directed form does
-not entail the absence of the general factor. Likewise, distinguishing
-faith from the affection it precedes under an alternative account
-does not make their relation disappear.
+The objection notes that confidence and moral shame are wholesome
+great-ground factors and therefore occur in wholesome consciousness in
+the Formless Principle. If the verse's affection and respect were
+unqualified synonyms for them, their stated absence there would be
+inconsistent.
 
-The task is therefore to preserve both systematic relations and
-textual voices. A reconstruction that resolves every formula
-into one preferred relation would erase the very comparisons
-and disagreements through which the commentary develops its
-meaning.
+The reply distinguishes Dharma-directed from person-directed forms.
+Confidence and moral shame directed toward Dharmas can occur in the
+Formless Principle; the verse's *prema* and *gaurava* refer to
+person-directed forms. Thus the realm restriction concerns the factor's
+object-reference, not a denial that the general wholesome factors occur
+there.
 
-**Organon reading:** These factors distinguish ethical determinations
-within a present cognitive event through their object/person-relations and
-through grounding or consequence; they are not successive powers in a
-faculty chronology. The universal cognitive occurrence can bear these
-particular ethical orientations without reducing them to one another.
-This framing does not resolve the Bhāṣya's competing explanations.
+The source contains additional transcription defects, including
+*duḥdhasamudaya* for the contextually read suffering and its origin, and
+*hlīr* for moral shame. The English follows the context while preserving
+these uncertainties in the textual record.
 
-**DharmaChakra tracking:** The closing realm restriction is object-specific:
-person-directed affection and respect are absent in the formless realm,
-but faith and moral shame directed toward dharmas remain there. The passage
-therefore tracks caitta range by reference, not merely by factor-name. Its
-definitions and alternatives refine the factor analysis; they do not assign
-these distinctions to a particular Samyama-bhūmi.
+## 9. Interpretation
+
+The passage repeatedly distinguishes identity from other relations:
+a factor can condition a cognitive presentation; esteem can precede
+fondness; acknowledgment of authority can precede moral shame; and a
+general wholesome factor can have an object-restricted form. The
+Bhāṣya's examples and attributed alternatives preserve these distinctions
+without reducing all the compact equations to one relation.
+
+Organon reading: the factors specify ethical determination within
+cognitive operation through their reference and relations; they are not
+successive stages in a faculty chronology. The factor, its object, its
+cognitive expression, and its relation to another factor remain distinct.
+This reading does not settle the text's competing accounts or the damaged
+reversal.
+
+The Kośa-wide synthesis remains: Vijñāna is Discriminative Cognition
+joining and governing Perception and Conception; their unity is
+Inconceivable as homogeneous operation, with its Idea disclosed in the
+Cognition Base. Vijñāna governs Mind and guides Dharma Base. *Avijñapti*
+is the same Dharma classified in Form Base and Dharma Base, with Vijñāna
+bearing a *prati* relation to it. This is a system-level framework, not a
+claim that this passage explicitly states each relation.
+
+Under the project-level Samyama synthesis, ten Samyama-bhūmis describe
+Path-related operation of mental factors, and Buddha Dharma is the
+eleventh Bhūmi. VAK 2.32 neither enumerates these levels nor assigns its
+factors to a particular Samyama-bhūmi.
 
 ## 10. Review Status
 
-Provisional thirty-second study of the restarted Indriyanirdeśa
-Bhāṣya sequence. The research Bhāṣya, existing Organon kārikā
-study, and running Sanskrit at 59.16–60.23 have been compared.
-
-Both accounts of the ethical pair, their objections and reversals,
-the affection/respect comparisons, the attributed alternatives,
-and the realm objection are translated. Damaged reversal wording
-is explicitly marked. Original witnesses and existing studies
-are unchanged. VAK 2.33 begins at 60.23 with the distinction
-between initial and sustained examination.
+The kārikā and Bhāṣya have been compared with the running transcription at
+59.16–60.22. The paired study retains the initial definitions, the
+cognitive objection and reply, the self/other alternative, the
+affection/confidence and respect/moral-shame comparisons, the attributed
+grounding account, and the Formless-Principle qualification. The
+numbering duplication and damaged reversal are explicitly recorded.
+The Sanskrit witness and source transcription are unchanged.

@@ -12,7 +12,7 @@
 >
 > duḥkhe ca hitvā ārūpyāptaṃ sukhe cāpohya rūpi ca // 2.12 //
 
-## 3. Padaccheda
+## 3. Lexical Analysis
 
 ```text
 kāmāptam           → kāma-āptam
@@ -25,7 +25,7 @@ sukhe ca apohya    → sukhe ca apohya
 rūpi ca            → rūpi ca
 ```
 
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | kāma-āptam | nominative neuter singular | connected with or belonging to the desire realm |
 | amalam | accusative neuter singular | the stainless triad, treated collectively |
@@ -88,13 +88,13 @@ sukhe ca rūpi ca apohya
 The syntax describes possible realm-connection. It does not say that every
 listed faculty must occur in every being of that realm.
 
-## 5. Translation
+## 5. Scientific English Rendering
 
-### Close syntactic construe
+### Kārikā
 
 > Excluding the stainless [triad], [the remainder may be] desire-realm-connected. Excluding [that triad], the female and male faculties, and the two painful faculties, [the remainder may be] form-realm-connected. Excluding also the two pleasant faculties and what possesses form, [the remainder may be] formless-realm-connected.
 
-### Bhāṣya-informed translation
+### Bhāṣya-informed rendering
 
 > Nineteen faculties—the twenty-two apart from the three stainless realization-faculties—can be connected with the desire realm. Fifteen can be connected with the form realm, which additionally excludes the female and male faculties and the faculties of pain and distress. Eight can be connected with the formless realm: mind, life, neutral feeling, and the five beginning with confidence. The three realization-faculties are not connected with any realm.
 
@@ -111,18 +111,29 @@ formless realm:
     mind + life + neutral feeling + five path faculties = 8
 ```
 
-## 6. Philosophical Translation
+## 6. Interpretation
 
-> Realm-connection constrains which governing faculties can be realized within a given mode of existence. The desire realm permits every realm-connected faculty. The refined embodiment and tranquillity of the form realm exclude sexual differentiation, bodily pain, and mental distress. The formless realm removes every material faculty and both pleasant faculties, leaving only mind, continuity, neutral feeling, and the five faculties that equip the path. The stainless realization-faculties are not members of a superior realm; they are unbound from all three.
+VAK 2.12 classifies possible realm-affiliation through cumulative
+exclusions. The form realm excludes the stainless triad, the Female
+and Male Faculties, and the two painful Faculties; the formless realm
+also excludes the two pleasant Faculties and the material Faculties.
+The final eight are explicitly enumerated by the Bhāṣya. Realm-
+affiliation is not simple occurrence, and the stainless triad is
+unconnected with all three realms rather than a fourth, higher realm.
 
-Organon rendering:
+In the Kant-informed Techne, the nested exclusions provide a rule for
+determining compatibility between Faculty-types and realm-classification.
+The Dhātu crosswalk keeps this relation distinct from Base–Essence–
+Principle location: a mapped locus does not by itself determine realm-
+affiliation. This is a project-level interpretation, not terminology
+supplied by the Bhāṣya.
 
-> VAK 1.48 is the return point: its Dhātu map locates Faculty-status in Domains and Domain-parts. VAK 2.12 adds realm-affiliation as another, non-identical determination. Realm conditions permit some mapped Faculties and exclude others; they do not create a new Faculty inventory. The stainless triad remains partly located in the Essence-Domain while unconnected with all three realms. Dhātu-locus and realm-affiliation are distinct axes.
-
-The language of Agent profiles is a project reconstruction. The text
-classifies faculties by `pratisaṃyoga`, connection with the three realms.
-
-**Transcendental Time determination (Organon, not translation):** Realm-affiliation specifies a conditioned horizon of possible faculty-operations, not a chronological ladder that every continuum must ascend. Universal Cognition names the determinate mode of experience permitted by that horizon; the particular Ideas are the realm-linked faculty-configurations and their exclusions. The stainless triad's freedom from all three realms is not a fourth, higher rebirth-stage.
+Across the Kośa, Vijñāna is Discriminative Cognition joining Perception
+and Conception without reducing their unity to one homogeneous operation;
+it governs Mind and guides the reading of Dharma Base. The same
+*avijñapti* remains one content in the Form Base and Dharma Base
+classifications, and Vijñāna bears a *prati* relation to it. This wider
+synthesis frames, but is not stated in full by, this verse.
 
 ## 7. Technical Vocabulary
 
@@ -220,8 +231,6 @@ FormlessRealmCompatible
 
 ## 9. Interpretive Note
 
-**Organon time-reading:** The cumulative exclusions describe three distinct configurations of conditioned existence. They cannot be read as a universal biography of desire, form, and formlessness, nor can a higher realm by itself stand for realization. Temporal determination here concerns the conditions under which faculties can be disclosed and coordinated, while path-realization remains a separate relation.
-
 VAK 2.12 adds realm-connection to the growing multidimensional account of a
 faculty. The same `indriya` system has now been classified by function,
 affective character, path-stage, outflow-status, maturation-status, future
@@ -233,13 +242,11 @@ status makes them `apratisaṃyukta`, unconnected with every realm. The ascent
 through realms must therefore not be confused with the path's realization-
 faculties. A higher conditioned realm is still not the stainless Path.
 
-The form realm is not described merely by subtraction of coarse material
-faculties. Its
-faculty profile expresses an integrated mode of existence. The Bhāṣya links
-the absence of pain to refinement of the bodily basis and absence of
-unwholesome activity. It links the absence of distress to a continuum softened
-by tranquillity and the absence of a basis for resentment. Realm-conditions
-alter both embodiment and affective possibility.
+The Bhāṣya links the form realm's absence of pain to refinement of the
+bodily basis and absence of unwholesome activity. It links the absence
+of distress to a continuum softened by tranquillity and the absence
+of a basis for resentment. Realm-conditions alter both embodiment and
+affective possibility.
 
 The formless realm retains eight faculties:
 
@@ -254,38 +261,25 @@ concentration
 prajñā
 ```
 
-This is a minimal faculty configuration for cognitive coordination,
-continuity, neutral experience, and path-equipment without material faculties.
-Yet it is not identical with the stainless Agent. The five path-equipment
-faculties are twofold; only their without-outflow operation is realm-unbound.
+This final list is the formless-realm profile within the twenty-two
+Faculty-classification, not a universal minimum for cognition or a full
+inventory of every dharma in that realm. The five path-equipment Faculties
+remain distinct from the stainless realization-triad, which is unconnected
+with all three realms.
 
-For the Agent architecture, the rule is:
+**Reciprocal return to Dhātu.** VAK 1.48 maps Faculty-status within
+the Base–Essence–Principle architecture. VAK 2.12 adds realm-connection
+as a distinct classification: a Dhātu locus alone does not determine
+realm-affiliation, and realm exclusions do not create a new Faculty
+inventory.
 
-```text
-validate a proposed faculty configuration against
-    the conditions of its execution-realm
-
-but do not confuse
-    realm compatibility
-with
-    realization or purity
-```
-
-This gives the Samyama-bhūmi hypothesis an important boundary. Bhūmi may
-constrain an Agent's available faculties, but realization cannot be reduced
-to residence in a subtler conditioned level. This is a Yoga–Organon
-comparison; the Kośa's textual claim is the realm-distribution above.
-
-**Return to Dhātu at its last kārikā.** VAK 1.48 places the seven
-material Faculties in the five sensory Domains and a part of Body,
-Mind-Faculty across the seven Citta Domains, and Life plus the
-feeling- and path-Faculties in the Essence-Domain portion. VAK 2.12
-returns to those exact loci: the formless eight are Mind, Life,
-neutral feeling, and the five beginning with Confidence; the three
-realization-Faculties are excluded from realm-affiliation altogether.
-Dhātu 1.48 is complete in itself, but its incidence map remains
-suspended in the Organon movement until realm- and path-operations
-return to articulate it.
+Across the Kośa, Vijñāna is Discriminative Cognition joining Perception
+and Conception without reducing their unity to one homogeneous operation;
+it governs Mind and guides the reading of Dharma Base. The same
+*avijñapti* remains one content in the Form Base and Dharma Base
+classifications, and Vijñāna bears a *prati* relation to it. This
+cross-chapter synthesis is an Organon framework, not a claim made
+by this verse.
 
 ## 10. OWL++ Seed
 

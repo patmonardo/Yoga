@@ -1,377 +1,246 @@
-# VAK_2.36 Bhāṣya — Acquisition, Possession, and the Seed Account
+# VAK_2.36_bhasya
 
-## 1. Kārikā Anchor
+## 1. Text and Scope
 
-> nāmakāyādayaś ceti prāptir lābhaḥ samanvayaḥ /
-> prāptyaprāptī svasaṃtānapatitānāṃ nirodhayoḥ // 2.36 //
+This study covers the Bhāṣya at 62.15–64.12. The opening completes the
+dissociated-formations catalogue, then defines *prāpti* and *aprāpti*,
+restricts their range, and conducts a sustained dispute over whether they
+are distinct real Dharmas or designations grounded in a continuum's causal
+capacity.
 
-> And the groups of names and so forth. Acquisition is obtaining
-> and possession. Acquisition and non-acquisition concern what
-> belongs to one's own continuum and the two cessations.
+## 2. Lexical Analysis
 
-The opening completion of the dissociated-formations list was
-translated in VAK 2.35. This study begins with the inquiry into
-acquisition and includes its full ensuing debate.
+| Pada | Morphology | Force in this passage |
+|---|---|---|
+| prāpti | feminine noun | acquisition or possession-status |
+| lābha | masculine noun | first obtaining what was absent or relinquished |
+| samanvāgama | masculine noun | continued possession after obtaining |
+| aprāpti | feminine noun | non-acquisition within the admissible range |
+| sva-saṃtāna | compound | one's own continuum |
+| asaṃskṛta | adjective/substantive | unconditioned |
+| nirodha | masculine noun | cessation |
+| ākāśa | neuter noun | space |
+| dravyadharma | masculine compound | substantially real Dharma |
+| prajñaptidharma | masculine compound | Dharma by designation |
+| vyavasthā-hetu | masculine compound | ground of status-determination |
+| āśraya | masculine noun | support |
+| parāvṛtti / pariṇāma | feminine noun | transformation of support / becoming otherwise |
+| bīja | neuter noun | productive seed-capacity |
+| saṃtāna | masculine noun | continuum |
+| vaśitva | neuter noun | mastery |
 
-## 2. Continuous Sanskrit
+The source has transcription defects, including a likely missing negation
+in the closing greed example. The rendering identifies contextual
+resolutions without altering the witness.
 
-> tatra tāvat
-> praptirlābhaḥ samanvayaḥ /
-> dvividhā hi prāptiraprāptavihīnasya ca lābhaḥ pratilabdhena ca samanvāgamaḥ /
-> viparyayādaprāptiriti siddham /
-> kasya punarime prāptyaprāptī /
-> prāptyaprāptī svasaṃtāna patitānāṃ
-> na parasaṃtānapatitānām /
-> nahi parakīryaiḥ kaścitsamanvāgataḥ nāpyasaṃtatipatitānām /
-> na hyasatatvasaṃkhyātaiḥ kaścitsamanvāgataḥ /
-> eṣa tāvat saṃskṛteṣu niyamaḥ /
-> asaṃskṛteṣu punaḥ prāptyaprāptī
-> nirodhayoḥ // 2.36 //
-> sarvasattvā apratisaṃkhyānirodhena samanvāgatāḥ /
-> ata eva hi cottamabhidharme "anāsravairdharmaḥ kaḥ samanvāgataḥ /
-> āha /
-> sarvasattvā" iti /
-> pratisaṃkhyānirodhena sakalabandhanādikṣaṇasthavarjyāḥ sarva āryāḥ pṛthagjanāśca kecitsamanvāgatāḥ /
-> ākāśena tu nāsti kaścitsamanvāgataḥ /
-> tasmādasya nāsati prāptiḥ /
-> yasya ca nāsti prāptistastasyāprāptirapi nāstīti siddhāntaḥ /
-> prāptirnāmāsti kiñcit bhāvāntarmiti /
-> kuta etat /
-> āha sūtrāt /
-> sūtre hyustaṃ "sa eṣāṃ daśānāmaśaikṣāṇāṃ dharmaṇāmutpādāt pratilambhātsamanvāgamādaryo bhavati pañcāṅgaviprahīṇa" iti vistaraḥ /
-> tena tarhi asattvākhyairapi samanvāgamaḥ prāpnoti parasattvaiśca /
-> kiṃ kāraṇam /
-> sūtra vacanāt /
-> "rājā bhikṣavaścakravarti saptabhī ratnaiḥ samanvāgata" iti vistaraḥ /
-> vaśitvamatra samanvāgamaśabdenoktam /
-> tasya teṣu ratneṣu vaśitvaṃ kāmacāra iti /
-> atra vaśitvaṃ samanvāgamo 'nyatra punardravyāntaramiti /
-> kuta etat kaḥ punarevamayogaḥ /
-> ayam ayogaḥ yad asyā naiva svabhāvaḥ prajñāyate rūpaśabdādivad rāgadveṣādivad vā na cāpi kṛtyaṃ cakṣuḥśrotrādivat /
-> tasmāt dravyadharmāsaṃbhavādayogaḥ /
-> utpattiheturdharmāṇāṃ prāptiriti cet /
-> asaṃskṛtasya na syāt /
-> ye ca dharmā aprāptā ye ca tyaktā bhūmisaṃcāravaiarāgyatasteṣāṃ kathamutpattiḥ syāt /
-> sahajaprāptihetukā cet /
-> jātiridānīṃ kiṅkarī jātijātirvā /
-> sakalabandhanānāṃ khalvapi mṛdumadhyādhimātrakleśotpattibhedo na syāt prāptyabhedāt /
-> yato vā sa bhedastata evāstu tadutpattiḥ /
-> tasmānnotpattihetuḥ prāptiḥ /
-> kaścaivamāhotpattihetuḥ prāptiriti /
-> kiṃ tarhi /
-> vyavasthā hetuḥ /
-> asatyāṃ hi prāptau laukikamānasānāmāryapṛthagjanānāmāryā ime pṛthagjanā ima iti na syād vyavasthānam /
-> prahīṇāprahīṇa kleśatāviśeṣādetat bhavitumarhati /
-> etaccaiva kathaṃ bhaviṣyatyeṣāṃ prahīṇaḥ kleśa eṣāmaprahīṇa iti /
-> praptau satyāmetatsidhyati tadvigamāvigamāt /
-> āśrayaviśeṣādetatsidhyati /
-> āśrayo hi sa āryāṇāṃ darśanabhāvanāmārgasāmarthyāttathā parāvṛtto bhavati yathā na punastatpraheyāṇāṃ kleśānāṃ prarohasamartho bhavati /
-> ato 'gnidagdhavrīhivadavījībhūte āśraye kleśānāṃ prahīṇakleśa ityucyate /
-> upahatavījabhāve vā laukikena mārgeṇa /
-> viparyayādaprahīṇakleśaḥ /
-> yaścāprahīṇastena samanvāgato yaḥ prahīṇastenā samanvāgata iti prajñapyate /
-> kuśalā api dharmā dviprakārā ayatnabhāvino yatnabhāvinaśca ye ta ucyante utpattipratilambhikāḥ prāyogikāśceti /
-> tatrāyatnabhāvibhirāśrayasya tadvījabhāvānupaghātāt samanvāgata upaghātādasamanvāgata ucyate samucchinnakuāśalamūlaḥ /
-> tasya tūpaghāto mithyādṛṣṭyā veditavyaḥ /
-> na tu khalu kuśalānāṃ dharmāṇāṃ vījabhāvasyātyantaṃ santatau samudghātaḥ /
-> yepunaryatnabhāvinastairutpannaistadutpattirvaśitvā vighātātsantateḥ samanvāgata ucyate /
-> tasmādvījamevātrānapoddhṛtamanupahatam paripṛṣṭaṃ ca vāśiatvakāle samanvāgamākhyāṃ tabhate nānyad dravyam /
-> kiṃ punaridaṃ bījaṃ nāma /
-> yannāmarūpaṃ phalotpattau samartha sākṣāt pāraṃparyeṇa vā /
-> santatipariṇāmaviśeṣāt /
-> ko 'yaṃ pariṇāmo nāma /
-> santateranyathātvam / kā ceyaṃ santatiḥ/
-> hetuphalabhūtastraiyadhvikāḥ saṃskārāḥ /
-> yat tūkta "lobhena samanvāgato 'bhavyaścatvāri smṛtyupasthānāni bhāvayitumi"ti /
-> tatrādhivāsanaṃ lobhasyāvinodanaṃ vā samanvāgamaḥ /
-> yāvaddhi tasyādhivāsako 'vinodako bhavati tāvat bhavyastāni bhāvayitum /
-> evamayaṃ samanvāgamaḥ sarvāthā prajñaptidharmo na tu dravyadharmaḥ /
-> tasya ca pratiṣedho 'samanvāgama iti /
-> dravyameva tu vaibhāṣikāḥ ubhayaṃ varṇayanti /
-> kiṃ kāraṇam /
-> eṣa hi naḥ siddhānta iti /
+## 3. Scientific English Rendering
 
-The excerpt follows printed 62.15–64.12 in
-`Vasubandhu/Sources/kosabhasya.txt`, ending before *sā kilaiṣā
-praptiḥ*. Source labels are removed and the verse number regularized.
-Transcription defects remain visible. Contextual repairs, including
-a consequential missing negation, are marked in the translation
-and analysis. No independent collation is claimed.
-
-## 3. Continuous Conventional Translation
-
-Among these, first: “Acquisition is obtaining and possession.”
-Acquisition is twofold: obtaining what was not obtained or had
-been relinquished, and possessing what has been obtained.
-Non-acquisition is established by the reverse. Of what do
-acquisition and non-acquisition occur? “Of what belongs to one's
-own continuum.” Not of what belongs to another continuum, for
-no one possesses what belongs to another; nor of what belongs
-to no continuum, for no one possesses what is classified as
-non-sentient. This is the rule for conditioned dharmas. Among
-the unconditioned, acquisition and non-acquisition concern “the
-two cessations.” All sentient beings possess cessation independent
-of discriminative knowledge. Thus the Abhidharma says: “Who
-possesses uncontaminated dharmas?” It answers, “All sentient
-beings.” All noble persons, except one still fully bound who
-stands at the initial moment [of the noble path], and some
-ordinary persons possess cessation through discriminative knowledge.
-No one possesses space. Therefore it has no acquisition. Where
-there is no acquisition, there is also no non-acquisition: this
-is the established doctrine.
-
-Is acquisition some distinct entity? On what grounds? From a
-sūtra, it is said. For a sūtra states that through the arising,
-obtaining, and possession of the ten dharmas of one beyond training,
-one becomes noble, having abandoned five factors, and so forth.
-Then possession would also apply to non-sentient things and to
-other sentient beings. Why? Because a sūtra says, “Monks, a
-wheel-turning king possesses seven treasures,” and so forth.
-There the word “possession” means mastery: his authority and
-freedom of action concerning those treasures. On what grounds
-does possession mean mastery there but a distinct entity elsewhere?
-What is untenable about taking it as a distinct entity? This:
-neither its own nature is discerned, as with visible Form, sound,
-attachment, or hatred, nor its activity, as with the Eye or Ear
-Faculty.
-Thus treating it as a real dharma is untenable, since the conditions
-for such a dharma are lacking.
-
-If acquisition is a cause of the arising of dharmas, it could
-not apply to the unconditioned. And how could dharmas not yet
-acquired, or relinquished through a change of level or dispassion,
-arise? If their cause is acquisition arising together with them,
-what work is left for arising, or for the arising of arising?
-Moreover, among those still fully bound, there would be no
-difference in the arising of mild, middling, and intense afflictions,
-since acquisition does not differ. Let whatever accounts for
-that difference also account for their arising. Therefore
-acquisition is not a cause of arising.
-
-Who says that acquisition is a cause of arising? What, then?
-It is a cause of determining status. Without acquisition, when
-noble and ordinary persons have worldly consciousness, there
-would be no determination, “These are noble persons; these are
-ordinary persons.” That can be established by the difference
-between having abandoned afflictions and not having abandoned
-them. But how can it be established that an affliction is abandoned
-in these persons and not in those? If acquisition exists, this
-is established through its disappearance or non-disappearance.
-It is established through a difference in the support. Through
-the power of the paths of seeing and cultivation, the noble
-persons' support has been transformed so that it can no longer
-produce the afflictions abandoned by those paths. Thus, when
-the support has ceased to function as a seed for afflictions,
-like rice burned by fire, one is called a person whose afflictions
-are abandoned; or when its seed-capacity has been impaired by
-a worldly path. The reverse is non-abandonment. One is designated
-as possessing an affliction that has not been abandoned, and
-as not possessing one that has been abandoned.
-
-Wholesome dharmas also have two kinds: those occurring without
-effort and those occurring through effort, called respectively
-those acquired by birth and those arising through application.
-With respect to the effortless ones, a person is said to possess
-them because the support's capacity to be their seed is unimpaired;
-when it is impaired, the person is said not to possess them and
-to have severed wholesome roots. That impairment should be understood
-as occurring through wrong view. Yet the seed-capacity of wholesome
-dharmas is not completely eradicated from the continuum. As for
-those arising through effort, once they have arisen, the continuum
-is said to possess them through the unimpeded mastery of bringing
-them forth. Thus it is the seed itself—unremoved, unimpaired,
-or developed when mastery is present—that receives the name
-“possession,” not another entity.
-
-What is this seed? Name-and-Form capable of producing a result,
-directly or through a succession, through a particular transformation
-of the continuum. What is transformation? The continuum's becoming
-otherwise. What is this continuum? Conditioned dharmas of the
-three times standing as cause and result. As for the statement,
-“One possessing greed is incapable of cultivating the four
-establishments of recollection,” possession there means tolerating
-greed or failing to expel it. As long as one tolerates it or
-fails to expel it, one is [incapable] of cultivating those practices.
-Thus possession in every case is a dharma by designation, not
-a substantially real dharma; its negation is non-possession.
-The Vaibhāṣikas, however, declare both to be real entities. Why?
-“Because this is our established doctrine.”
-
-The bracketed “incapable” repairs an apparent missing negation:
-the transcription prints *bhavyaḥ*, capable, despite the preceding
-quotation's *abhavyaḥ* and the argument's direction. The initial-
-moment exception and the compressed seed/mastery clauses also
-require contextual construal; their limits are recorded below.
+> Among these, first: “Acquisition is obtaining and possession.”
+> Acquisition is twofold: obtaining what was not obtained or had been
+> relinquished, and continued possession of what has been obtained.
+> Non-acquisition is established by the reverse.
+>
+> Acquisition and non-acquisition apply to what belongs to one's own
+> continuum, not to what belongs to another continuum or to what belongs
+> to no continuum. This is the restriction for conditioned Dharmas.
+> Among unconditioned Dharmas, they apply to the two cessations. All
+> sentient beings possess cessation independent of discriminative
+> comprehension; some ordinary persons and noble persons possess cessation
+> through discriminative comprehension. No one possesses space. Where
+> acquisition does not apply, non-acquisition does not apply either.
+>
+> Is acquisition a distinct real Dharma? A sūtra speaks of arising,
+> obtaining, and possessing the ten Dharmas of one beyond training. Yet
+> the same language is used when a wheel-turning king “possesses” seven
+> treasures, where possession means mastery. What warrants a distinct real
+> Dharma in the former case? Neither its intrinsic character nor its
+> specific operation is evident.
+>
+> If acquisition were a production-cause, it would not apply to the
+> unconditioned. Dharmas not yet acquired or relinquished through a change
+> of level or dispassion could not arise; acquisition arising with them
+> would duplicate the work of arising; and one undifferentiated acquisition
+> would not explain mild, middling, and intense afflictions. Acquisition
+> is therefore not a production-cause.
+>
+> It is said instead to determine status: without it, how could noble
+> persons and ordinary persons be distinguished when both have worldly
+> consciousness? The reply grounds this distinction in the support. Through
+> the Paths of seeing and cultivation, the noble person's support is so
+> transformed that it cannot produce the abandoned afflictions again. Like
+> rice burned by fire, its seed-capacity for those afflictions is destroyed.
+> The reverse is non-abandonment; one is designated as possessing an
+> unabandoned affliction and not possessing an abandoned one.
+>
+> Wholesome Dharmas are either effortless or effort-produced. For the
+> effortless kind, unimpaired seed-capacity of the support is called
+> possession; impairment is called non-possession and severance of
+> wholesome roots, though the capacity is not utterly eradicated from the
+> continuum. For effort-produced Dharmas, possession is the unimpeded
+> mastery of renewed arising after they have arisen.
+>
+> A seed is Name-and-Form capable of producing a result directly or
+> through succession by a particular transformation of the continuum.
+> Transformation is the continuum's becoming otherwise; the continuum is
+> the conditioned Dharmas of the three times standing in cause-and-result
+> relation. Thus possession is in every case a Dharma by designation, not
+> a substantially real Dharma; non-possession is its negation. The
+> Vaibhāṣikas nevertheless declare both real entities.
 
 ## 4. Movement and Voices of the Commentary
 
-The unit begins with a definition and restrictions on acquisition
-and non-acquisition. It then changes from classification to a
-dispute about whether acquisition exists as a distinct real entity.
-Scriptural usage, causal work, and the determination of noble
-status are successively tested. A continuum-and-seed account
-provides an alternative before the explicit Vaibhāṣika reaffirmation.
+The unit begins with a definition and a range restriction. It then changes
+from classification to ontological dispute. A sūtra is cited in support of
+a distinct acquisition-entity; the king's possession of seven treasures
+tests whether the word “possession” alone establishes that conclusion.
 
-The conclusion that possession is a designation belongs to the
-critical account, not to an uncontested consensus of all voices.
-The last reply expressly preserves the Vaibhāṣika disagreement.
-The local text does not name a school for the seed account; its
-attribution should not be silently expanded in the translation.
+The inquiry next tests production-causality, then the need to distinguish
+noble and ordinary status. The critical account grounds abandonment,
+non-abandonment, wholesome capacity, and mastery in transformations of the
+support and its causal capacity. The conclusion calls possession a
+designation; the final sentence explicitly preserves the Vaibhāṣika
+disagreement. The seed account is not assigned a school in this passage.
 
-## 5. Obtaining, Possession, and Their Scope
+## 5. Scope: Acquisition Is Not a Universal Predicate
 
-Acquisition includes obtaining what was previously absent or
-relinquished and possessing what has been obtained. It cannot
-therefore be reduced to a new acquisition-event alone. For conditioned
-dharmas the scope is one's own continuum. For the unconditioned,
-the passage separately specifies the two cessations.
+The definition has two moments:
 
-The quotation says *anāsrava*, uncontaminated, not “unconditioned.”
-Its use here supports universal possession of cessation independent
-of discriminative knowledge; it does not make every being a
-possessor of every uncontaminated dharma or of the noble path.
+```text
+lābha:
+    obtaining what was absent or relinquished
 
-The difficult compound *sakalabandhanādikṣaṇastha* is read as
-excluding the fully bound person at the initial noble-path moment.
-The translation makes the contextual path-reference visible in
-brackets. It does not adopt the research rendering “first moment
-of the bondage-sequence.” Further collation would be needed to
-secure the exact construal.
+samanvāgama:
+    continued possession of what has been obtained
+```
 
-Space falls outside both acquisition and non-acquisition in the
-stated doctrine. Non-acquisition is thus not an unrestricted
-logical complement applied to anything whatsoever. Its technical
-range is tied to that of acquisition.
+For conditioned Dharmas, the relation is restricted to what belongs to a
+person's own continuum. Another person's Dharma and what belongs to no
+continuum are not instances of non-acquisition; they lie outside the
+relation's range. The same applies to space, which the Bhāṣya excludes
+from both acquisition and non-acquisition.
 
-## 6. Scriptural Usage and the Proposed Causal Work
+The two cessations are the exceptional unconditioned range. The quotation
+uses “uncontaminated,” not “unconditioned,” and should not be made to claim
+that all sentient beings possess every uncontaminated Dharma or the noble
+Path.
 
-The king's seven treasures test the inference from the word
-“possesses” to a separate real dharma. The defender allows mastery
-as its meaning there. The challenge then asks what justifies
-requiring a distinct entity in the other passage. The argument
-concerns what scriptural wording establishes, not whether the
-cited wording exists.
+## 6. Why Scriptural “Possession” Does Not Establish a Real Entity
 
-The production-cause proposal meets several different objections:
-the unconditioned does not arise; unacquired or relinquished
-dharmas can arise; a co-arising acquisition competes with the
-work assigned to arising and its subsidiary arising; and an
-undifferentiated acquisition does not explain degrees of affliction.
-The reply then explicitly disowns production as its proposed
-function and turns to status determination.
+The defender infers a distinct acquisition-entity from scriptural speech
+about obtaining and possessing Dharmas. The reply gives a counterexample:
+a wheel-turning king possesses seven treasures in the sense of mastery,
+free use, or operative command. The same predicate can therefore have
+different grounds in different contexts.
 
-That shift matters. Treating the first objection as ending the
-whole debate would omit the stronger problem: how noble status
-persists when the person's present consciousness is worldly.
-The critical account must explain the difference in abandonment,
-not merely deny an additional entity.
+The critical challenge is not that the sūtra is false. It asks why one use
+of “possession” should introduce an additional real Dharma when its own
+nature is not discerned as Form, sound, attachment, or aversion, and its
+operation is not discerned as with the Eye or Ear Faculty.
 
-## 7. Support, Seed, and Continuum
+## 7. Production, Status, and Support Transformation
 
-The alternative locates abandonment in the support's altered
-capacity to produce afflictions. The noble paths render it unable
-to generate the afflictions abandoned by those paths; the worldly
-path is described through impairment of seed-capacity. The
-burned-rice analogy belongs to the former explanation. The
-translation does not add “merely provisional” to the latter,
-since the local sentence does not say that.
+The proposal that acquisition causes arising fails because it cannot
+account for unconditioned Dharmas, for the arising of what was not yet
+acquired or was relinquished, for the work already done by arising, or for
+degrees of affliction. The Bhāṣya explicitly disowns production as
+acquisition's function and calls it a proposed ground of status
+determination.
 
-For effortless wholesome dharmas, unimpaired capacity grounds
-possession; wrong view can impair it, yet the passage expressly
-denies its complete eradication from the continuum. For effortful
-dharmas, possession is explained through developed and unimpeded
-mastery of their arising. These two cases should not be collapsed
-into one generic claim that every possessed dharma is currently
-manifest.
+The decisive question remains: how can a continuum count as noble or
+ordinary, and an affliction as abandoned or unabandoned, when the present
+consciousness is worldly? The answer is difference in the support:
 
-A seed is itself defined as causally capable Name-and-Form, directly
-or through succession. The account does not introduce a miniature
-hidden entity in addition to that continuum. Transformation is
-its becoming otherwise; the continuum is the conditioned causal
-series across the three times. These are the explanatory terms
-of the alternative, not a newly established agreement with the
-Vaibhāṣikas.
+```text
+Path of seeing or cultivation
+    → transforms the support
+    → removes its capacity to produce the abandoned affliction
+    → the affliction is designated abandoned
 
-## 8. Textual Decisions and Context-Sensitive Possession
+No such transformation
+    → the affliction is designated unabandoned
+```
 
-The running transcription contains many defects. Examples include
-*nāsati* in the denial of acquisition of space, *anāsravairdharmaḥ*
-in the Abhidharma question, and damaged wording in the clauses
-about effort-produced wholesome dharmas and mastery. The English
-uses the contextually coherent senses while the Sanskrit preserves
-the readings available for review.
+The burned-rice comparison concerns the incapacity of the transformed
+support to produce the abandoned affliction. The status is not based on
+the mere absence of that affliction from one present event.
 
-The greed quotation gives another locally specified use of
-possession: tolerating or not expelling greed. It should not
-be forced into the same definition as the king's mastery or
-seed-capacity. The critical argument explicitly attends to these
-differences before concluding that possession is designated.
+## 8. Seed, Wholesome Capacity, and Mastery
 
-The final *sā kilaiṣā praptiḥ*, “this acquisition, it is said,”
-introduces the temporal classification of VAK 2.37 and is reserved
-for that study. Here the unit ends with the Vaibhāṣika statement
-of its established doctrine, completing the dispute without
-silently converting it into unanimous agreement.
+The Bhāṣya gives two different grounds for wholesome possession:
 
-## 9. Philosophical and Organon Study
+```text
+Effortless wholesome Dharma:
+    possession = the support's seed-capacity remains unimpaired
 
-The central problem is how to account for a determination that
-is not identical with the present mental event. The defender
-appeals to a real acquisition-dharma; the critical account appeals
-to the causal condition of the support, its transformation, and
-its capacity for future arising. Both address the determination
-of possession and abandonment, but they differ over what must
-exist to explain it.
+Effort-produced wholesome Dharma:
+    possession = mastery of its renewed arising after it has arisen
+```
 
-For Organon interpretation, the distinction between attribution
-and its grounds is decisive. Calling a person noble or possessed
-of a wholesome capacity requires explanation even when the
-relevant path cognition is not manifest. Rejecting an additional
-entity does not eliminate that explanatory burden; the seed
-account supplies a competing account of the grounds.
+Wrong view can impair the former capacity and yield the designation
+“severed wholesome roots,” yet the text denies complete eradication of that
+seed-capacity from the continuum. The latter case is not a claim that the
+Dharma is continuously manifest; it is an acquired ability to bring it
+forth again.
 
-A comparison with Yoga or an implementation in a formal model
-would be a further reconstruction. Neither should replace the
-source's dispute with a preferred vocabulary. The present study
-keeps the positions attributed: the Vaibhāṣikas defend acquisition
-and non-acquisition as real entities; Vasubandhu's critical account
-treats possession as designation grounded in continuum-capacity and
-its negation as non-possession. The Bhāṣya closes by preserving the
-Vaibhāṣika reply. The translation does not settle this dispute by
-turning either account into an unqualified consensus.
+Seed is defined as Name-and-Form capable of producing a result directly or
+through a succession, based in a particular transformation of the
+continuum. The continuum is a causal series of conditioned Dharmas over the
+three times. This prevents the seed from becoming a separate miniature
+entity beside the continuum.
 
-**Organon reading (philosophical reconstruction, not Bhāṣya doctrine):**
-`Prāpti:Aprāpti` is the core Indriya dyad: it determines whether a Dharma
-is newly acquired, continues to be possessed, or is not acquired within
-the admissible domain, even when it is not manifest in the present
-cognition-event. Its Transcendental Time determination is this organized
-reach of status, not a clock interval or a second possession-object.
+The last greed example gives a context-specific meaning to possession:
+tolerating greed or failing to expel it. The transcription prints “capable”
+after a quotation that says “incapable”; the translation follows the
+argument's required negative sense and records the defect.
 
-This is the Indriya side of the Dharma–Bhava Chakra's Dyad → Dyad
-LogoGenesis with Dhātu's `Vijñapti:Avijñapti`. Disclosure and non-disclosing
-continuity condition what is learned; acquired or foreclosed status shapes
-what can be expressed and enacted in later moments. *Avijñapti* bridges
-these dyads: the same Dharma belongs to the Form Base and the Dharma Base,
-without being duplicated. The Principle remains invariant at the hub as
-these empirical relations turn.
+## 9. Interpretation
 
-This is an Organon reading, not the Bhāṣya's own terminology. The textual
-dispute remains decisive: Vaibhāṣikas assert real acquisition and
-non-acquisition Dharmas; Vasubandhu's critical account grounds possession
-in seed-capacity, support-transformation, and acquired mastery. The
-Organon reconstruction must not erase that disagreement or treat its own
-model as the conventional translation.
+This is the passage where the Hub meets impure Dharma with full precision.
+The prior Citta:Caitta analysis gave the rule for one cognitive event.
+*Prāpti:Aprāpti* now determines whether the continuum carries the causal
+possibility of a Dharma beyond its present manifestation. Thus the relation
+belongs neither to a flat inventory nor to a purely momentary psychology.
+
+The critical account turns an apparent possession-object into a
+Principle:Rule determination:
+
+```text
+Prapti:
+    a Dharma is available to this continuum under its transformed
+    causal capacity or mastery
+
+Aprapti:
+    that availability is absent or foreclosed within the relation's
+    proper range
+```
+
+The passage therefore marks the fine line between *bhāva* and *abhāva* in
+an exact manner. Non-attainment is not sheer absence. It can be a
+specified foreclosing of a possibility whose grade, causal conditions, and
+support-transformation have not been realized. Conversely, attainment is
+not mere current appearance; it is the acquired rule-governed capacity of
+the continuum.
+
+The Kośa-wide synthesis remains: Vijñāna is Discriminative Cognition
+joining and governing Perception and Conception. Their unity is
+Inconceivable as homogeneous operation, with its Idea disclosed in the
+Cognition Base. Vijñāna governs Mind and guides Dharma Base. *Avijñapti*
+is the same Dharma classified in Form Base and Dharma Base, with Vijñāna
+bearing a *prati* relation to it. The local account of continuum-capacity
+does not conflate Vijñāna with consciousness or Mind.
+
+The ten Samyama-bhūmis describe Path-related operation of mental factors,
+and Buddha Dharma is the eleventh Bhūmi. This is a project-level synthesis;
+VAK 2.36 does not enumerate those levels. Its own contribution is the rule
+by which a continuum can be specified as capable, incapable, attained, or
+foreclosed before any particular grade is assigned.
 
 ## 10. Review Status
 
-Provisional thirty-sixth study of the restarted Indriyanirdeśa
-Bhāṣya sequence. The research Bhāṣyas for VAK 2.35–2.36, existing
-Organon kārikā anchor, preceding continuous study, and running
-Sanskrit at 62.15–64.12 have been compared. The translated unit ends
-with the Vaibhāṣika reply; *sā kilaiṣā prāptiḥ* at 64.12 opens the
-next acquisition classification and is reserved for VAK 2.37.
-
-The definition, scope, full ontological dispute, seed explanation,
-and Vaibhāṣika reply are translated continuously. Consequential
-transcription problems and voice distinctions are explicit.
-Original witnesses and research studies are unchanged.
+The kārikā and Bhāṣya have been compared with the source transcription at
+62.15–64.12. The study retains the twofold definition, range limits, the
+two cessations and space, the scriptural objection, mastery counterexample,
+production-cause objections, status question, support transformation,
+burned-rice analogy, two kinds of wholesome capacity, seed definition,
+greed example, and the Vaibhāṣika disagreement. Damaged wording is
+identified; the source witness is unchanged.

@@ -5,14 +5,14 @@
 > svārthopalabdhyādhipatyāt sarvasya ca ṣaḍindriyam /
 > strītvapuṃstvādhipatyāt tu kāyāt strīpuruṣendriye // 2.02 //
 
-> The six are faculties because of governing efficacy in apprehending
-> their own objects—and, for mind, everything. The female and male
-> faculties, however, are separately established from the body-faculty
+> The six are Faculties because of governing efficacy in apprehending
+> their own objects—and, for Mind, everything. The Female and Male
+> Faculties, however, are separately established from the Body Faculty
 > because of governing efficacy over female-being and male-being.
 
-“For mind” and “separately established” make explicit the Bhāṣya's
+“For Mind” and “separately established” make explicit the Bhāṣya's
 construal of the compressed verse. The commentary specifies that the
-last two are portions of the body-faculty, not entities distinct from it.
+last two are portions of the Body Faculty, not entities distinct from it.
 
 ## 2. Continuous Sanskrit
 
@@ -56,48 +56,48 @@ Word division and punctuation are editorial. Mechanical repairs are
 *paratilabhate* → *pratilabhate*, and *puṃstvayyor* → *puṃstvayor*.
 The defective *svasyasvasyārthasyopalabdhādhipatyam* is read as
 *svasya svasyārthasyopalabdhāv ādhipatyam*, following the research
-Bhāṣya and the parallel locative construction for mind.
+Bhāṣya and the parallel locative construction for Mind.
 
 The running witness's *cakṣuṣaścakṣūrūpopalabdhāvadhikamaiśvaryam*
 is provisionally read as *cakṣuṣaś ca rūpopalabdhāv adhikam aiśvaryam*:
-“the eye has greater mastery in apprehending visible form.” This
+“the eye has greater mastery in apprehending visible Form.” This
 removes the apparent intrusive *cakṣū*; the surrounding explanation
 supports the sense, but the exact repair awaits independent collation.
 The compressed *striyākṛtiḥ svaraceṣṭā abhiprāyāḥ* is retained rather
 than silently regularized into a reconstructed list of inflected nouns.
 Its translation follows the parallel description of male-being.
 
-## 3. Continuous Conventional Translation
+## 3. Scientific English Rendering
 
 Others, however, say: it is not by the eye and ear themselves that
 embodied existence is preserved, since danger is avoided after it
-has been cognized. Their governing efficacy concerns cognition.
-Nor is seeing visible form or hearing sound something other than
-cognition, such that a separate governing efficacy could properly
-be assigned to the eye and ear as their specific causes. Therefore
-their status as faculties is not established in this way. How, then?
+has been the object of Cognition. Their governing efficacy concerns
+Cognition. Nor is seeing visible Form or hearing sound something other
+than Cognition, such that a separate governing efficacy could properly
+be assigned to the Eye and Ear as their specific causes. Therefore
+their status as Faculties is not established in this way. How, then?
 
-“The six are faculties because of governing efficacy in apprehending
+“The six are Faculties because of governing efficacy in apprehending
 their own objects—and everything.” The five beginning with the eye
 have governing efficacy in the apprehension of their respective
 objects. Mind, however, has governing efficacy in the apprehension
-of all objects. Therefore each of these six is a faculty.
+of all objects. Therefore each of these six is a Faculty.
 
 But do not the objects also have governing efficacy here? They do
-not, for governing efficacy is superior power. The eye has greater
-mastery in apprehending visible form because it is a common cause
-in the apprehension of all visible forms, and because apprehension
-conforms to its sharpness, dullness, and so forth. Visible form does
+not, for governing efficacy is superior power. The Eye has greater
+mastery in apprehending visible Form because it is a common cause
+in the apprehension of all visible Forms, and because apprehension
+conforms to its sharpness, dullness, and so forth. Visible Form does
 not have this mastery, because the reverse holds for it. The same
-explanation should be applied through the series, up to mind in
-relation to dharmas.
+explanation should be applied through the series, up to Mind in
+relation to Dharmas.
 
-“The female and male faculties, however, are separately established
-from the body-faculty because of governing efficacy over female-being
-and male-being.” The female and male faculties are separately
-established from the body-faculty itself; they are not different
-entities. It is a particular portion of the body-faculty, the genital
-region, that receives the designation of female or male faculty
+“The Female and Male Faculties, however, are separately established
+from the Body Faculty because of governing efficacy over female-being
+and male-being.” The Female and Male Faculties are separately
+established from the Body Faculty itself; they are not different
+entities. It is a particular portion of the Body Faculty, the genital
+region, that receives the designation of Female or Male Faculty
 because of its governing efficacy over female-being or male-being,
 respectively. Here female-being consists in a woman's bodily form,
 voice, movements, and intentions: this is what constitutes her
@@ -107,15 +107,15 @@ movements, and intentions: this is what constitutes his male-being.
 ## 4. Movement and Voices of the Commentary
 
 “Others, however, say” marks a challenge to the preceding explanation.
-The challenge concerns how the sensory faculties are established as
-faculties; it does not deny their existence. Its two reasons lead to
+The challenge concerns how the sensory Faculties are established as
+Faculties; it does not deny their existence. Its two reasons lead to
 the question “How, then?” and the kārikā's explanation through
 governance of apprehension.
 
 A second objection tests that explanation: if apprehension depends
-on objects, why should objects not also count as faculties? The
-reply refines *ādhipatya* by specifying the faculty's superior role.
-The final movement distinguishes two faculties within the body-faculty
+on objects, why should objects not also count as Faculties? The
+reply refines *ādhipatya* by specifying the Faculty's superior role.
+The final movement distinguishes two Faculties within the Body Faculty
 by the different function attributed to a particular portion of it.
 
 The opening alternative is unnamed. The objection about objects is
@@ -125,16 +125,16 @@ an explicitly Vaibhāṣika statement.
 
 ## 5. Why the Fourfold Account Is Challenged
 
-The first criticism distinguishes a faculty's efficacy in cognition
-from the preservation that follows cognition of danger. The phrase
+The first criticism distinguishes a Faculty's efficacy in Cognition
+from the preservation that follows Cognition of danger. The phrase
 *vijñāya viṣamaparihārāt* gives the relevant mediation: danger is
 avoided after cognizing it. The eye and ear therefore do not receive
 a separate governing function merely because such avoidance helps
 preserve embodied existence.
 
-The second criticism concerns duplication. Seeing visible form and
+The second criticism concerns duplication. Seeing visible Form and
 hearing sound are not operations additional to the corresponding
-cognitions. Counting production of cognition and specific causation
+Cognitions. Counting production of Cognition and specific causation
 of seeing or hearing as separate governing functions consequently
 requires a distinction the objector rejects.
 
@@ -147,47 +147,47 @@ refutation of all four functions.
 
 ## 6. Why the Faculty Governs Apprehension
 
-The revised account locates the five sensory faculties in apprehension
-of their respective objects and mind in apprehension of all objects.
-“All” specifies mind's object-range. It does not say that every mental
-cognition apprehends all objects at once, or that its apprehension
+The revised account locates the five sensory Faculties in apprehension
+of their respective objects and Mind in apprehension of all objects.
+“All” specifies Mind's object-range. It does not say that every mental
+Cognition apprehends all objects at once, or that its apprehension
 is invariably correct.
 
 The objection about objects shows why dependence alone does not
-settle faculty-status. The reply calls *ādhipatya* “superior power,”
+settle Faculty-status. The reply calls *ādhipatya* “superior power,”
 then supplies two reasons for the eye's superiority in this relation:
 
 - It is a common cause in the apprehension of all visible forms.
 - Apprehension conforms to the eye's sharpness, dullness, and other
   conditions.
 
-The first concerns the faculty's common causal role across its field.
+The first concerns the Faculty's common causal role across its field.
 It does not posit one numerically permanent eye underlying every
 visual event. The second concerns a specified conformity of apprehension
-to the faculty's condition. It does not say that variation in the
+to the Faculty's condition. It does not say that variation in the
 object can never affect apprehension.
 
-The denial concerning visible form is correspondingly local: visible
+The denial concerning visible Form is correspondingly local: visible
 form does not possess the superior mastery just explained. The text
-does not deny that it is a condition of visual cognition. It then
-directs the reader to extend this explanation through the faculties,
-ending with mind in relation to dharmas. That final application must
-be retained alongside the earlier statement of mind's all-object
+does not deny that it is a condition of visual Cognition. It then
+directs the reader to extend this explanation through the Faculties,
+ending with Mind in relation to Dharmas. That final application must
+be retained alongside the earlier statement of Mind's all-object
 range; the two expressions should not be silently substituted for
 one another.
 
-## 7. Separate Designation Within the Body-Faculty
+## 7. Separate Designation Within the Body Faculty
 
 The second half of the verse concerns a different governing function.
-The female and male faculties are distinguished within the body-faculty
+The Female and Male Faculties are distinguished within the Body Faculty
 because they govern female-being and male-being. The commentary makes
 both the distinction and its limit explicit: they are separately
-established, yet they are not different entities from the body-faculty.
+established, yet they are not different entities from the Body Faculty.
 
-The bearer is identified as a particular portion of that faculty,
+The bearer is identified as a particular portion of that Faculty,
 the genital region. The governed determination is more extensive:
 bodily form, voice, movements, and intentions. The local account
-thus distinguishes the portion receiving a faculty-name from the
+thus distinguishes the portion receiving a Faculty-name from the
 wider configuration over which governance is asserted.
 
 This is the passage's historical explanation of sexed embodiment.
@@ -197,20 +197,20 @@ contemporary account of bodily or psychological development.
 
 ## 8. The Bhāṣya's Decisions for Translation
 
-*Svārtha* means the respective faculty's “own” or “proper object.”
+*Svārtha* means the respective Faculty's “own” or “proper object.”
 The commentary's repeated *svasya svasya* makes the distribution
 explicit. *Upalabdhi* is “apprehension”; this passage does not
 establish a hierarchy in which it must be an incomplete stage below
-*vijñāna*, rendered “cognition.”
+*vijñāna*, rendered “Cognition.”
 
 *Ādhipatya* remains “governing efficacy.” Its gloss *adhikaṃ prabhutvam*
 adds the decisive comparative force, “superior power.” The translation
 of the gloss should preserve that force rather than repeat a general
 word for causality.
 
-*Kāyāt* is read through *kāyendriyād eva*: from the body-faculty itself.
+*Kāyāt* is read through *kāyendriyād eva*: from the Body Faculty itself.
 “Separately established” supplies the commentary's *pṛthak vyavasthāpyete*.
-“Within the body-faculty” is a useful study rendering because the
+“Within the Body Faculty” is a useful study rendering because the
 next sentence identifies the relevant portion and denies a different
 entity. “Separate from the body” would leave that denial obscure.
 
@@ -220,52 +220,47 @@ but neither should silently turn the list into a modern psychological
 classification. The textual repairs affecting the eye's mastery and
 the compressed final list remain recorded in Section 2.
 
-## 9. Philosophical and Organon Study
+## 9. Interpretation
 
-Dhātu 1.45 establishes dependence on both Faculty and field, but gives
-them different roles: the Faculty is *āśraya* because its alteration
-corresponds to alteration in Cognition; a field such as Sight may be
-shared as *ālambana*. Dhātu 1.48 locates Faculty-status within whole
-Domains and Domain-parts. VAK 2.02 now tests the reciprocity directly:
-if both Faculty and object condition apprehension, what makes the
-Faculty—not the object—the governing power?
+VAK 2.02 tests the relation between Faculty and object. The commentary
+distinguishes a remote consequence from the Faculty's governing
+function, then distinguishes the Faculty's common role from the
+object's contribution to particular apprehension. The reply is
+comparative, not exclusive causation: both are conditions, but only
+the Faculty has the specified governing efficacy. Mind's range extends
+across the objects considered by the Kośa; “all” does not mean that
+one mental Cognition apprehends everything simultaneously.
 
-The Bhāṣya's answer is comparative, not exclusive causation. The
-Faculty is a common cause across its field, and Cognition varies with
-the Faculty's acuity or impairment; the object's role is not the same.
-The unnamed alternative at the opening and the subsequent object-
-objection remain distinct voices, not one settled account.
+The Female and Male Faculties are separately designated portions of
+the Body Faculty, not independent substances. Their broader bodily
+configuration is the Bhāṣya's historical account, not a contemporary
+biological or psychological theory.
 
-**Organon reading:** These relations form a specific Transcendental
-Time Determination of Śuddha Sattva:
+**Kant-informed Techne.** The analysis asks which distinct condition
+accounts for the common capacity and mode of apprehension, rather than
+treating every cause as a governing Faculty. The object contributes
+particular content; the Faculty's condition governs the mode of
+apprehension. The sensory object functions as a cognitive Condition,
+distinct from an achieved Object. This is a project-level interpretation of the text's
+distinction, not terminology attributed to the Bhāṣya.
 
-```text
-object-Domain
-    → shareable ālambana / particular Idea
+Across the Kośa, Vijñāna is Discriminative Cognition joining Perception
+and Conception without reducing their unity to one homogeneous
+operation; it governs Mind and guides the reading of Dharma Base. The
+same *avijñapti* remains one content in the Form Base and Dharma Base
+classifications, and Vijñāna bears a *prati* relation to it. This wider
+synthesis frames, but is not stated in full by, this passage.
 
-Faculty-Domain
-    → specific āśraya / ādhipatya
-    → variation governing universal Cognition
+In the Techne, Citta is Universal, the Base–Essence–Principle schema
+is Particular, and Buddha Mind is Singular as the actual executing
+instance. Indriyanirdeśa is a practical instance of Citta, not a
+general theory of Mind. Dhātu (Principle) and Indriya (Faculty) remain
+reciprocal but non-interchangeable determinations.
 
-their non-identical relation
-    → determinate apprehension
-```
+## 10. Textual Limits and Open Readings
 
-Mind extends its governing range over all object-Domains; it does not
-make those Domains identical. Female and Male Faculties likewise
-remain parts of the Body-Domain while governing a distributed bodily
-configuration. This reciprocal structure is the Organon inference,
-not wording supplied by the conventional Bhāṣya.
-
-## 10. Review Status
-
-Provisional second study of the restarted Indriyanirdeśa Bhāṣya
-sequence. The research kārikā and Bhāṣya, existing Organon kārikā
-study, preceding Organon Bhāṣya, and running Sanskrit at 39.03–17
-have been compared. Continuous Sanskrit and translation include the
-opening objection, the object-objection and reply, and the complete
-explanation of the female and male faculties.
-
-Mechanical repairs and the provisional repair of the eye-mastery
-sentence are explicit. Original witnesses and the existing kārikā
-study are preserved. The unit ends before VAK 2.03.
+The repair of the eye-mastery phrase remains provisional pending
+independent collation. The compressed *striyākṛtiḥ svaraceṣṭā
+abhiprāyāḥ* is retained rather than silently normalized. The final
+configuration terms are translated in parallel for Female and Male
+without claiming a contemporary biological or psychological account.

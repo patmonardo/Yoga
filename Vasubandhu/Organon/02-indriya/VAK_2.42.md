@@ -12,177 +12,130 @@
 >
 > śubhā upapadyavedyaiva nāryasyaikādhvikāpyate // 2.42 //
 
-## 3. Padaccheda
+## 3. Lexical Analysis
 
 ```text
-tathāsaṃjñisamāpattiḥ
-                    → tathā asaṃjñi-samāpattiḥ
-dhyāne 'ntye         → dhyāne antye
-niḥsṛtīcchayā       → niḥsṛti-icchayā
-śubhā               → śubhā
-upapadyavedyaiva    → upapadya-vedyā eva
-nāryasya            → na āryasya
-ekādhvikāpyate      → eka-adhvikā āpyate
+tathāsaṃjñisamāpattiḥ → tathā asaṃjñi-samāpattiḥ
+dhyāne 'ntye           → dhyāne antye
+niḥsṛtīcchayā          → niḥsṛti-icchayā
+śubhā                   → śubhā
+upapadyavedyaiva        → upapadya-vedyā eva
+nāryasya                → na āryasya
+ekādhvikāpyate          → eka-adhvikā āpyate
 ```
 
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
-| tathā | indeclinable | likewise; carries forward the preceding citta-caitta cessation definition |
-| asaṃjñi-samāpattiḥ | nominative feminine singular | non-reflective attainment |
-| dhyāne antye | locative masculine singular phrase | in the final, fourth dhyāna |
-| niḥsṛti-icchayā | instrumental feminine singular compound | through the wish for escape / release |
+| tathā | indeclinable | likewise, with a restricted Bhāṣya scope |
+| asaṃjñi-samāpattiḥ | nominative feminine singular | Non-Reflecting attainment |
+| dhyāne antye | locative phrase | in the final, fourth dhyāna |
+| niḥsṛti-icchayā | instrumental compound | through the wish for release |
 | śubhā | nominative feminine singular | wholesome |
-| upapadya-vedyā | nominative feminine singular | having a result to be experienced in the immediately following rebirth |
-| eva | restrictive particle | only / precisely |
-| na āryasya | negation with genitive singular | not belonging to a noble person |
-| eka-adhvikā | nominative feminine singular | belonging to one temporal mode |
-| āpyate | present passive third-person singular | is obtained / acquired |
+| upapadya-vedyā | nominative feminine singular | maturing in the immediately following rebirth |
+| eva | restrictive particle | only |
+| na āryasya | negation with genitive | not belonging to a noble person |
+| eka-adhvikā | nominative feminine singular | acquired in one temporal mode |
+| āpyate | passive verb | is obtained |
 
-`Upapadya-vedya` is a technical karmic timing term. It does not mean that
-the attainment itself is merely “experienced at rebirth”; its maturation is
-fixed for the immediately following existence.
+*Asaṃjñi* is the privative of *saṃjñi*. In this project, *saṃjñā* is
+read as Reflection; therefore “Non-Reflecting” preserves the term's
+determinate negation. It must not be expanded into the modern global label
+“unconsciousness.”
 
-## 4. Grammar
+## 4. Scientific English Rendering
 
-The feminine subject `asaṃjñi-samāpattiḥ` receives a sequence of
-predications:
+> Likewise, the Non-Reflecting attainment is in the final dhyāna, through
+> the wish for release. It is wholesome, matures only in the immediately
+> following rebirth, does not belong to a noble person, and is acquired in
+> one temporal mode.
 
-```text
-tathā
-    → it too is cessation of citta and caittas,
-      according to the Bhāṣya
+The Bhāṣya restricts “likewise” to one stated feature: the Non-Reflecting
+attainment is cessation of consciousness and associated mental factors.
+It calls this an attainment either of Non-Reflecting beings or of
+Non-Reflection. The name must not weaken the explicit operational
+predication, and the predication must not overwrite the lexical force of
+the name.
 
-dhyāne antye
-    → it belongs to the final dhyāna
+## 5. Interpretation
 
-niḥsṛti-icchayā
-    → it is entered through a wish for release
+“Non-Reflecting attainment” works as the controlled rendering because it
+preserves the *a-saṃjñi* determination rather than importing a modern
+psychological category. It makes clear what the practitioners seek to
+suspend: Reflection. It also leaves the Bhāṣya's exact statement visible:
+in its account, consciousness and associated mental factors are prevented
+from arising during the attainment.
 
-śubhā
-    → it is wholesome
-
-upapadya-vedyā eva
-    → its result is fixed for the next rebirth only
-
-na āryasya
-    → it does not belong to a noble person
-
-eka-adhvikā āpyate
-    → it is acquired in one temporal mode
-```
-
-The Bhāṣya identifies the one temporal mode as present acquisition. From
-the second moment onward, the practitioner may also possess the past instance
-while it remains unrelinquished, but no future instance is cultivated.
-
-## 5. Translation
-
-### Close syntactic construe
-
-> Likewise, the non-reflective attainment occurs in the final dhyāna through the wish for release. It is wholesome, has a result to be experienced only in the immediately following rebirth, does not belong to a noble person, and is acquired in one temporal mode.
-
-### Bhāṣya-informed translation
-
-> Like the non-reflective maturation-state, the non-reflective attainment is a cultivated cessation of consciousness and associated mental factors. It is produced through powerful preparation in the fourth dhyāna by an ordinary practitioner who takes that cessation to be escape. The attainment is wholesome, but its fixed maturation is rebirth among the non-reflective Bṛhatphala beings. Noble persons do not cultivate it because they recognize that state as a place of downfall rather than liberation. Only its present instance is initially acquired.
-
-## 6. Philosophical Translation
-
-> The attainment is wholesome, but its result is an indeterminate maturation
-> in the immediately following rebirth. Practitioners enter it with a wish
-> for release and regard it as an escape; noble persons instead see it as
-> a place of downfall. The Bhāṣya keeps their motive and the result distinct from the
-> attainment's ethical quality.
-
-**Organon reading (limited):** Do not infer liberation from cessation alone.
-Here the Bhāṣya distinguishes the practitioners' intended escape from the
-conditioned result it describes.
-
-## 7. Technical Vocabulary
-
-| Sanskrit | Controlled rendering | Determination in this unit |
-|---|---|---|
-| asaṃjñi-samāpatti | non-reflective attainment | cultivated state that the Bhāṣya identifies as cessation of citta and caittas |
-| āsaṃjñika | non-reflective maturation-state | indeterminate result produced by the wholesome attainment; distinguished from its cause |
-| antya-dhyāna | final dhyāna | fourth dhyāna, the only level including this attainment |
-| niḥsṛti-icchā | wish for release | motive of practitioners who conceive the state as liberation |
-| śubha | wholesome | ethical quality of the intentional attainment, not of its indeterminate maturation-result |
-| vipāka | maturation-result | five-aggregate existence among the non-reflective beings |
-| upapadya-vedanīya | to be experienced in the immediately following rebirth | fixed timing of the karmic result |
-| ārya | noble person | does not enter the attainment, seeing it as a place of downfall |
-| eka-adhvika | belonging to one temporal mode | initially only present acquisition |
-| mahābhisaṃskāra | great formative effort | required for producing the attainment |
-
-The project's controlled term “non-reflective attainment” does not replace
-the Bhāṣya's explicit description: cessation of consciousness and mental
-factors, produced through great effort and understood by its practitioners
-as release.
-
-## 8. Logical Determination
-
-The attainment and its result must be typed separately:
+The distinction must be maintained:
 
 ```text
-AsamjniSamapatti(A) {
-    cause: PowerfulPreparation,
-    dhyana: Fourth,
-    motive: WishForRelease,
-    ethicalClass: Wholesome,
-    practitionerClass: Ordinary,
-    initialAcquisitionTime: Present
-}
+Name of the attainment:
+    Non-Reflecting
 
-AsamjnikaResult(R) {
-    cause: A,
-    resultClass: Maturation,
-    ethicalClass: Indeterminate,
-    birthLocation: NonReflectiveBrhatphalaRegion
-}
+Bhāṣya's operational claim:
+    cessation of consciousness and associated mental factors
+
+Maturation-result:
+    a five-Base existence among Non-Reflecting Bṛhatphala beings
 ```
 
-The causal rule is:
+These are not three interchangeable claims. The attainment is wholesome;
+its maturation-result is indeterminate. It is entered by ordinary
+practitioners who take it as release, but noble persons do not cultivate it,
+seeing the result as a place of downfall. “Wholesome” therefore does not
+entail that the attainment is liberation.
+
+The Kośa-wide synthesis remains: Vijñāna is Discriminative Cognition joining
+and governing Perception and Conception. Their unity is Inconceivable as
+homogeneous operation, with its Idea disclosed in the Cognition Base.
+Vijñāna governs Mind and guides Dharma Base. This finite conditioned
+cessation is not the Hub, not liberation, and not an account of Vijñāna's
+abolition.
+
+## 6. Logical Determination
 
 ```text
-Produces(S, AsamjniSamapatti)
-    → NextLifeMaturation(S, AsamjnikaExistence)
+NonReflectingAttainment(S)
+    has:
+        level = FourthDhyana
+        motive = WishForRelease
+        ethicalKind = Wholesome
+        initialAcquisitionTime = Present
+        practitioner = Ordinary
 ```
 
-The Path exclusion is:
+```text
+NonReflectingAttainment(S)
+    → PreventsArising(S, ConsciousnessAndAssociatedFactors)
+    → MaturesInNextRebirth(
+          NonReflectingBrhatphalaExistence)
+```
 
 ```text
 NoblePractitioner(S)
-    → NOT Cultivates(S, AsamjniSamapatti)
+    → does not cultivate NonReflectingAttainment(S)
 
-ConceivesAsRelease(S, CittaCaittaCessation)
-    ∧ OrdinaryPractitioner(S)
-    → MayCultivate(S, AsamjniSamapatti)
+PresentAcquisition(A)
+    is compatible with
+later possession of PastInstance(A)
 ```
 
-The temporal acquisition rule is:
+No future instance is cultivated because the attainment is without
+consciousness and requires great formative effort.
 
-```text
-InitialPrapti(S, A)
-    → PraptiTime = Present
+## 7. Interpretive Note
 
-FromSecondMoment(S, A)
-    → MayPossess(PastInstance(A))
+The Bhāṣya expressly distinguishes the attainment from the preceding
+Non-Reflecting maturation-result. “Likewise” carries forward only cessation
+of consciousness and associated mental factors. It does not transfer the
+result's indeterminate ethical classification to the wholesome attainment.
 
-FutureInstanceCultivation(A)
-    = false
-```
+The source says a practitioner who has produced the attainment and fallen
+away will necessarily produce it again and be reborn among the
+Non-Reflecting beings; this is marked with reportive *kila*. The claim
+requires careful retention, but it is not a general instruction to seek
+the attainment.
 
-## 9. Interpretive Note
-
-The Bhāṣya distinguishes the practitioners' wish for release from the
-attainment's result and from the noble persons' assessment of it as a place
-of downfall. It also distinguishes present acquisition, subsequent possession
-of the past instance, and the non-cultivation of a future instance.
-
-**Organon note (limited):** Keep these distinctions within the existing
-*Prāpti:Aprāpti* vocabulary. The passage does not equate this conditioned
-attainment with liberation or generalize its account to the attainment of
-cessation discussed next.
-
-## 10. OWL++ Seed
+## 8. OWL++ Seed
 
 ```ttl
 @prefix vak: <http://127.0.0.1:3000/vak#> .
@@ -191,28 +144,14 @@ cessation discussed next.
 vak:VAK_2_42
     a vak:Karika ;
     rdfs:label "VAK 2.42" ;
-    vak:hasTopic vak:AsamjniSamapatti ;
+    vak:hasTopic vak:NonReflectingAttainment ;
     vak:belongsTo vak:Indriyanirdesa .
 
-vak:AsamjniSamapatti
-    a vak:CittaViprayuktaSamskara ;
-    vak:hasControlledRendering "non-reflective attainment" ;
-    vak:belongsTo vak:FourthDhyana ;
+vak:NonReflectingAttainment
+    vak:hasLevel vak:FourthDhyana ;
     vak:hasMotive vak:WishForRelease ;
-    vak:hasEthicalClass vak:Wholesome ;
+    vak:hasEthicalKind vak:Wholesome ;
     vak:hasMaturationTiming vak:NextRebirthOnly ;
     vak:isNotCultivatedBy vak:NoblePractitioner ;
-    vak:hasInitialPraptiTime vak:Present .
-
-vak:AsamjnikaMaturation
-    a vak:Vipaka ;
-    vak:isProducedBy vak:AsamjniSamapatti ;
-    vak:hasEthicalClass vak:Indeterminate ;
-    vak:hasBirthLocation vak:NonReflectiveBrhatphalaRegion .
-
+    vak:preventsArisingOf vak:ConsciousnessAndAssociatedFactors .
 ```
-
-## 11. Review Status
-
-Provisional paired study. The kārikā and Bhāṣya are reviewed against the
-printed passage at 68.28–69.23. VAK 2.43 begins at 69.24.

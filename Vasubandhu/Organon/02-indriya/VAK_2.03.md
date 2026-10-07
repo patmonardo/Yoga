@@ -12,7 +12,7 @@
 >
 > jīvitaṃ vedanāḥ pañca śraddhādyāś cendriyaṃ matāḥ // 2.3 //
 
-## 3. Padaccheda
+## 3. Lexical Analysis
 
 ```text
 nikāyasthitisaṃkleśavyavadānādhipatyataḥ
@@ -25,19 +25,19 @@ cendriyam
     → ca indriyam
 ```
 
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | nikāya | compound member | group or class; the organized living continuum |
 | sthiti | compound member | persistence, maintenance, continued standing |
 | saṃkleśa | compound member | defilement; afflicted entanglement |
 | vyavadāna | compound member | purification or clarification |
 | ādhipatyataḥ | ablative singular abstract formation | because of governing efficacy |
-| jīvitam | nominative neuter singular | life; the life-faculty |
+| jīvitam | nominative neuter singular | life; the Life Faculty |
 | vedanāḥ | nominative feminine plural | feelings |
 | pañca | numeral | five |
 | śraddhā-ādyāḥ | nominative feminine plural | the five beginning with confidence |
 | ca | conjunction | and |
-| indriyam | predicative neuter singular | faculty-status, used distributively |
+| indriyam | predicative neuter singular | Faculty-status, used distributively |
 | matāḥ | nominative plural past participle | regarded, accepted, or held to be |
 
 The long initial compound supplies three governed fields in sequence. The
@@ -51,17 +51,17 @@ The syntactic distribution is:
 nikāya-sthiti-ādhipatyataḥ
     jīvitam indriyaṃ matam
     because it governs persistence of the living class,
-    life is regarded as a faculty
+    Life is regarded as a Faculty
 
 saṃkleśa-ādhipatyataḥ
     vedanāḥ pañca indriyaṃ matāḥ
     because they govern defilement,
-    the five feelings are regarded as faculties
+    the five feelings are regarded as Faculties
 
 vyavadāna-ādhipatyataḥ
     śraddhā-ādyāḥ indriyaṃ matāḥ
     because they govern purification,
-    those beginning with confidence are regarded as faculties
+    those beginning with confidence are regarded as Faculties
 ```
 
 The Bhāṣya expands `nikāya-sthiti` as `nikāyasabhāga-sthiti`: the continued
@@ -73,26 +73,42 @@ affective tones to pleasant, painful, and neither-painful-nor-pleasant when
 mapping the latent afflictions.
 
 `Śraddhādyāḥ` abbreviates confidence, energy, recollection, concentration,
-and discernment. The Bhāṣya's `pratyekam` confirms that each is individually
-a faculty; they are not one undifferentiated purifying power.
+and *prajñā* (Science of Principles in the inner-instrument Techne). The
+Bhāṣya's `pratyekam` confirms that each is individually a Faculty; they are
+not one undifferentiated purifying power.
 
-## 5. Translation
+## 5. Scientific English Rendering
 
-### Close syntactic construe
+### Kārikā
 
-> Because of governing efficacy with respect to the persistence of the living class, defilement, and purification, life, the five feelings, and those beginning with confidence are regarded as faculties.
+> Because of governing efficacy with respect to persistence within the living class, defilement, and purification, Life, the five feeling Faculties, and those beginning with confidence are regarded as Faculties.
 
-### Bhāṣya-informed translation
+### Bhāṣya-informed rendering
 
-> Life is a faculty because it governs the continued standing of a living continuum within its class of existence. The five feelings are faculties because they govern the affective conditions upon which afflictions lie latent. The five beginning with confidence are individually faculties because they govern purification by checking the afflictions and drawing the path forward.
+> Life is a Faculty because it governs the continued standing of a living continuum within its class of existence. The five feelings are Faculties because they govern the affective conditions upon which afflictions lie latent. The five beginning with confidence are individually Faculties because they govern purification by checking afflictions and drawing the Path forward.
 
-## 6. Philosophical Translation
+## 6. Interpretation
 
-> Governing efficacy now appears as continuity, susceptibility, and transformation. Life maintains an already constituted living series. Feeling organizes the affective field in which attachment, aversion, and ignorance can remain latent. Confidence, energy, recollection, concentration, and discernment inhibit those afflictions while positively conducting the path into operation. Facultyhood therefore belongs not only to powers of apprehension but also to powers governing persistence, entanglement, and disciplined change.
+The verse distributes governing efficacy across three functions:
+persistence of the living continuum, the relation of feeling to
+defilement, and purification through the five beginning with confidence.
+Feeling is not identified with affliction; each feeling provides a
+condition in dependence on which an affliction may lie latent. The five
+purificatory Faculties coordinate checking affliction with drawing the
+Path forward.
 
-Organon rendering:
+In the Kant-informed Techne, the verse classifies operative conditions of
+one living process rather than positing separate substances or a mere
+chronology of stages. Its three functions remain distinct within the
+practical system of Citta. This is a project-level interpretation; the
+verse itself states the governing relations, not a Kantian formulation.
 
-> The eleven faculties named here articulate three Transcendental Time Determinations of Śuddha Sattva: persistence, affective latency, and transformative practice. Returned to Dhātu 1.48, they are not an added inventory: Life, the five Feelings, and the five faculties beginning with Confidence are located within a portion of the Essence-Domain. Dhātu gives this Indriya movement its locus and field; Indriya returns to Dhātu by disclosing how that locus governs continuation, susceptibility, and path-activity. Checking affliction and bringing the path forward are distinct operations.
+Across the Kośa, Vijñāna is Discriminative Cognition joining Perception and
+Conception without reducing their unity to one homogeneous operation; it
+governs Mind and guides the reading of Dharma Base. The same *avijñapti*
+remains one content in the Form Base and Dharma Base classifications, and
+Vijñāna bears a *prati* relation to it. This wider synthesis frames, but is
+not stated in full by, this verse.
 
 ## 7. Technical Vocabulary
 
@@ -101,24 +117,24 @@ Organon rendering:
 | nikāya | living group / class | organized continuum belonging to a determinate class of existence |
 | sabhāga | homogeneous kind | common class-character shared by a living continuum |
 | sthiti | persistence / maintenance | continued standing of the already constituted series |
-| nikāyasabhāga-sthiti | persistence within the homogeneous living class | governed by the life-faculty |
-| jīvitendriya | life-faculty | sustaining power of the present living continuum |
+| nikāyasabhāga-sthiti | persistence within the homogeneous living class | governed by the Life Faculty |
+| jīvitendriya | Life Faculty | governing the persistence of the living continuum |
 | vedanā | feeling | affective condition upon which affliction can lie latent |
-| sukha | bodily pleasure | pleasant bodily feeling-faculty |
-| duḥkha | bodily pain | painful bodily feeling-faculty |
-| saumanasya | mental gladness | pleasant mental feeling-faculty |
-| daurmanasya | mental distress | painful mental feeling-faculty |
-| upekṣā | neutral feeling | neither-painful-nor-pleasant feeling-faculty |
+| sukha | bodily pleasure | pleasant bodily feeling-Faculty |
+| duḥkha | bodily pain | painful bodily feeling-Faculty |
+| saumanasya | mental gladness | pleasant mental feeling-Faculty |
+| daurmanasya | mental distress | painful mental feeling-Faculty |
+| upekṣā | neutral feeling | neither-painful-nor-pleasant feeling-Faculty |
 | anuśete | lies latent in dependence upon | relation of affliction to feeling |
 | rāga | attachment | lies latent with pleasant feeling |
 | pratigha | aversion / resistance | lies latent with painful feeling |
 | avidyā | ignorance | lies latent with neutral feeling |
 | vyavadāna | purification / clarification | checking affliction while advancing the path |
-| śraddhā | confidence / faith | first of the five purificatory faculties |
-| vīrya | energy / disciplined exertion | active path-faculty |
+| śraddhā | confidence | first of the five purificatory Faculties |
+| vīrya | energy / disciplined exertion | active Path Faculty |
 | smṛti | recollection | retaining and restoring the relevant determination |
-| samādhi | concentration / collectedness | stabilization of the operative continuum |
-| prajñā | discernment / discriminative knowing | discriminating path-faculty; not Sāṃkhya Buddhi |
+| samādhi | concentration | stabilization of the operative continuum |
+| prajñā | discrimination; Science of Principles in the inner-instrument Techne | discriminating Path Faculty |
 | viṣkambha | checking / suppression | inhibition of afflictive operation |
 | āvāhana | drawing forward | positive advancement of the path |
 
@@ -132,7 +148,7 @@ AlreadyConstituted(LivingContinuum)
     → MaintainedWithin(LivingContinuum, HomogeneousClass)
 
 LifeFaculty
-    ↛ CreatesAggregates
+        ↛ OriginatesLivingContinuum
 ```
 
 Feeling and affliction must remain distinct:
@@ -163,7 +179,7 @@ Purification has two coordinated operations:
 
 ```text
 For each f in {Confidence, Energy, Recollection,
-               Concentration, Discernment}:
+               Concentration, ScienceOfPrinciples}:
     Governs(f, Purification)
 
 Purification
@@ -192,77 +208,26 @@ TransformativeGovernance → FivePathFaculties
 
 These are determinations of conditioned operation.
 
-## 9. Interpretive Note
+## 9. Relation to Dhātu
 
-The life-faculty governs `sthiti`, not the creation of life. Its field is the
-persistence of the present aggregate-continuum as a member of its determinate
-class. The Kośa thereby assigns continuity a functional condition.
+VAK 2.03 distinguishes three functions: Life governs persistence within
+the living class; feeling supplies the condition in dependence on which
+afflictions may lie latent; and the five beginning with confidence check
+afflictions while drawing the Path forward. The Bhāṣya does not identify
+feeling with affliction, equate suppression with final abandonment, or
+assign a separate operation to each of the five purificatory Faculties.
 
-The account of feeling is exceptionally precise. Pleasure is not attachment,
-pain is not aversion, and neutral feeling is not ignorance. Rather, each
-feeling-tone provides the characteristic affective basis upon which its
-corresponding affliction can lie latent. Neutrality is therefore not
-automatically clarity: ignorance may remain unnoticed precisely where no
-strong pleasure or pain compels attention.
+In the project crosswalk with VAK 1.48, these Faculties have locations
+within the Essence classification; this verse determines their governing
+functions. The Principle and Faculty descriptions remain distinct
+determinations of the same organized system, not competing inventories.
 
-The five beginning with confidence introduce governed cultivation. Their
-work is twofold:
-
-```text
-hold down what obstructs
-bring forward what transforms
-```
-
-This prevents purification from becoming blank subtraction. The path-
-faculties do not merely remove obstacles so that something else may later
-begin; their activity is already the path being advanced. Still, the verse
-only establishes each faculty's irreducible contribution to purification.
-It does not yet define their individual operations in full.
-
-VAK 2.03 therefore makes explicit temporal determinations beyond sensory
-access:
-
-```text
-sensory disclosure
-living continuity
-affective entanglement
-practical purification
-```
-
-These are not four successive stages of an individual's biography but
-distinct determinations within the living process. `Prajñā` remains one
-purificatory faculty among others, with the specific function of discernment
-within the path.
-
-**Reciprocal return to Dhātu.** Dhātu 1.48 places the eleven faculties
-named in this verse—Life, the five Feelings, and Confidence through
-Discernment—within a portion of the Essence-Domain. This verse returns
-light to that classification: it differentiates the governance exercised
-there as persistence, affective susceptibility, and purification. The
-Domain is not a passive container, and the Faculties do not replace it;
-the two descriptions disclose distinct aspects of one structured
-conditioned process.
-
-**Forward negation.** The Bhāṣya says that the five purificatory faculties
-check or suppress afflictions (*viṣkambha*) while bringing the path forward
-(*āvāhana*); it does not equate suppression with their final abandonment.
-In the Organon movement, a following negation must therefore be determinate:
-it negates the afflictive operation, not the Dhātu locus or the feeling
-through which the affliction lay latent. Returning to Dhātu asks where that
-negated relation was situated and what remains available for path-knowing.
-The next verse's three knowledge-faculties sharpen this return: Dhātu 1.48
-locates portions of those final three Faculties in the Essence-Domain. This
-is a proposed Organon link to the Prajñā–Dharma–Jñāna movement, not a
-translation claim or an equation made by the Bhāṣya.
-
-**Return trip in mind.** In this project's framing, Hegelian Logic
-supplies Pure Theoretical Reason, while the Kośa supplies Practical
-Reason. Indriya is the Fichtean return: it negates Dhātu as merely
-given and reconstructs its domain-determinations as operative powers
-of mind. The return is tested back against Dhātu—here, the eleven
-Faculties return to their mapped Essence-Domain locus, now understood
-through sustaining, affective, and purificatory governance. Negation
-thus reconstructs rather than erases the Dhātu structure.
+The Kant-informed Techne reads these as conditions of operation within
+living Citta, not as a timeline or a sequence of independent substances.
+The verse's source claims remain narrower: it gives the governing
+relations and their distributions. The project's larger movement from
+afflictive operation toward the Path must not be mistaken for a claim that
+this brief passage fully describes the stages or final result.
 
 ## 10. OWL++ Seed
 
@@ -280,7 +245,7 @@ vak:VAK_2_03
 vak:LifeFaculty
     a vak:Indriya ;
     vak:governs vak:PersistenceWithinLivingClass ;
-    vak:doesNotCreate vak:LivingAggregates .
+    vak:notIdenticalWith vak:Origination .
 
 vak:PleasantFeeling
     vak:supportsLatencyOf vak:Attachment .
@@ -299,14 +264,15 @@ vak:PurificatoryFive
         vak:Energy,
         vak:Recollection,
         vak:Concentration,
-        vak:Discernment ;
+        vak:ScienceOfPrinciples ;
     vak:governs vak:Purification .
 
 vak:Purification
     vak:checks vak:Afflictions ;
     vak:drawsForward vak:Path .
 
-organon:ConditionedIndriyaTechne
+organon:IndriyaDetermination
+    organon:hasScope organon:PracticalCitta ;
     organon:models vak:Continuity,
         vak:AffectiveSusceptibility,
         vak:PathTransformation .

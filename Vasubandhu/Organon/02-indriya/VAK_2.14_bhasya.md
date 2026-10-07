@@ -62,7 +62,7 @@ retained; it is construed in parallel with the preceding explanation
 of the desire-realm designation. The source locator 48.02–048.92
 is mechanically defective. No independent collation is claimed.
 
-## 3. Continuous Conventional Translation
+## 3. Scientific English Rendering
 
 Acquisition must now be explained. How many faculties are first
 acquired as maturation, and in which realm? “Initially in the
@@ -187,47 +187,38 @@ form-realm enumeration. *Uttara*, higher, then receives its own
 explicit explanation rather than being translated as a spatial
 direction.
 
-## 9. Philosophical and Organon Study
+## 9. Interpretation
 
-**Organon extension—not a literal Bhāṣya doctrine:** The acquisition analysis can be read as a genetic determination in Transcendental Time: the continuum's first matured configuration varies with its conditions, without claiming that relinking is the absolute origin of cognition. Universal Cognition keeps occurrence distinct from maturation-status; the particular Ideas are the specific initial faculty-sets. This stays within the commentary's causal predicate and does not import modern developmental theory.
+The Bhāṣya distinguishes which Faculties are present at relinking
+from which are first acquired as maturation-result. Mind and neutral
+feeling occur then, but their afflicted status excludes them from the
+count. The remaining counts are conditioned by realm, birth-mode,
+and the specified sexual configuration; they are not a complete
+inventory of every faculty present.
 
-The change from classification to acquisition adds a temporal
-question to the account of faculties. What can belong to a realm
-does not settle what is first acquired there as maturation. The
-commentary relates the initial count to realm, birth mode, and
-the specified bodily configuration while keeping causal status
-in view throughout.
+The project crosswalk with Dhātu 1.48 relates this acquisition
+classification to the Base–Essence–Principle map. The one-faculty
+count in the formless realm identifies only initial acquisition as
+*vipāka*; it does not imply the absence of other Faculties or their
+mapped relations.
 
-For Organon reconstruction, the useful distinction is among
-presence, acquisition, time, and mode of arising. Mind and neutral
-feeling make that distinction concrete: their presence at relinking
-does not put them into the maturation count. A faithful model must
-retain the predicate under which an inventory has been formed.
+Across the Kośa, Vijñāna is Discriminative Cognition joining Perception
+and Conception without reducing their unity to one homogeneous
+operation; it governs Mind and guides the reading of Dharma Base. The
+same *avijñapti* remains one content in the Form Base and Dharma Base
+classifications, and Vijñāna bears a *prati* relation to it. This
+cross-chapter synthesis is an Organon framework, not a claim made by
+this Bhāṣya.
 
-The counts are therefore determinate answers within the Kośa's
-account of rebirth. Their systematic precision does not require
-turning that cosmology into modern developmental science or
-importing a further theory of the origin of consciousness.
+In a Kant-informed Techne reading, realm, birth-mode, presence, and
+maturation-status are separate conditions for determining the initial
+configuration. This is a project-level interpretation, not a claim
+of modern developmental theory or terminology supplied by the source.
 
-**Return to Dhātu at its last kārikā:** VAK 1.48's Faculty-incidence
-map is the exact return point. VAK 2.14 qualifies those same
-Domain-loci by initial acquisition as maturation-result according
-to realm and birth mode. The formless realm's one initial result
-is Life, but the Bhāṣya does not infer that the other Faculties
-or their Dhātu positions are absent. Mind and neutral feeling at
-relinking make explicit the distinction between presence and
-acquisition as *vipāka*. The return reconstructs the terminal
-Dhātu map through one causal predicate without replacing the map.
-
-## 10. Review Status
-
-Provisional fourteenth study of the restarted Indriyanirdeśa Bhāṣya
-sequence. The research kārikā and Bhāṣya, existing Organon kārikā
-study, running Sanskrit at 47.16–48.14, and opening of the next
-research unit have been compared.
+## 10. Textual and Scope Notes
 
 The complete acquisition account and closing sentence are translated.
-The singular verb and defective readings are recorded. Initial
-acquisition as maturation is kept distinct from presence and realm-
-affiliation. Original witnesses and the existing kārikā study are
-preserved. The next unit concerns cessation of faculties at death.
+The singular verb and defective readings are recorded above. Initial
+acquisition as maturation remains distinct from presence and realm-
+affiliation. The next unit concerns cessation of Faculties at death;
+no independent collation is claimed.

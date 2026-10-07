@@ -58,7 +58,7 @@ Word division is editorial. Mechanical repairs are *mriyalmāṇo*
 → *trayodaśeti*. The opening verse's uncertain wording is preserved
 in the anchor and reading text. No independent collation is claimed.
 
-## 3. Continuous Conventional Translation
+## 3. Scientific English Rendering
 
 Loss must now be explained: when dying in a given realm, how many
 faculties does one bring to cessation? “At death in the formless
@@ -81,7 +81,7 @@ understood of dying with an afflicted or ethically indeterminate mind.
 When, however, one dies with a wholesome mind, then “everywhere
 five in addition.” In every case, one dying with a wholesome mind
 brings to cessation the faculties already stated, with the five
-beginning with faith in addition; for these necessarily occur
+beginning with confidence in addition; for these necessarily occur
 in a wholesome mind. Thus in the formless realm one brings eight
 to cessation, and in the form realm thirteen. The remaining counts
 are to be worked out in detail in this way.
@@ -121,9 +121,9 @@ must be a simultaneous change in the others.
 ## 6. The Wholesome-Mind Addition
 
 The earlier rule applies to afflicted or ethically indeterminate
-terminal mind. With wholesome mind, the five beginning with faith
+terminal mind. With wholesome mind, the five beginning with confidence
 are added because the text asserts their necessary presence in
-that mind. These are faith, vigor, recollection, concentration,
+that mind. These are confidence, vigor, recollection, concentration,
 and prajñā.
 
 | Case | Earlier count | With wholesome terminal mind |
@@ -152,7 +152,7 @@ The two questions must retain their distinct predicates.
 Nor is this a simple reversal of VAK 2.14's acquisition count.
 That inquiry restricted its numbers to initial acquisition as
 maturation. The present inquiry includes mind and neutral feeling
-and, in the wholesome case, the five beginning with faith. A shared
+and, in the wholesome case, the five beginning with confidence. A shared
 realm does not make those differently qualified inventories identical.
 
 The text describes the termination of the present life in faculty
@@ -178,55 +178,36 @@ confirms. *Avyākṛta* is ethical indeterminacy, whereas *upekṣā*
 is the neutral-feeling faculty; their different senses of neutrality
 remain visible in the translation.
 
-## 9. Philosophical and Organon Study
+## 9. Interpretation
 
-**Organon extension—not a literal Bhāṣya doctrine:** Transcendental Time here is the determinate ending of a conditioned configuration under the stated death-mode, not a chronology universalized to all beings. Universal Cognition discriminates simultaneous from gradual cessation; the particular Ideas are the faculties actually counted at the boundary. The distinction between `tyāga` and `nirodha`, and the next verse's gradual case, remains intact.
+The counts depend on realm, the stated bodily configuration, mode
+of dying, and quality of the terminal mind. Simultaneous death is
+the scope of the verse's realm counts; the gradual-death cluster and
+the five-Faculty addition with a wholesome mind are supplied at the
+opening of VAK 2.16. Cessation at death, initial maturation-acquisition,
+and path-abandonment are distinct classifications.
 
-The counts depend on several conditions together: realm, the
-specified bodily configuration, mode of dying, and quality of
-the terminal mind. The commentary makes those conditions explicit
-before leaving the death inquiry. A count detached from them
-would cease to be the proposition the passage establishes.
+The project crosswalk with Dhātu 1.48 relates these terminal sets
+to the Base–Essence–Principle map without replacing or relocating
+its Faculty-bearing loci. The terminal count concerns which Faculties
+cease under the stated conditions.
 
-For Organon reconstruction, the useful lesson is precision about
-the event and predicate under which a system is being counted.
-Initial maturation-acquisition, possession, cessation at death,
-and path-abandonment do not produce interchangeable inventories.
-Their relations must be shown rather than inferred from shared
-faculty-names.
+The Kośa's governing synthesis: Vijñāna is Discriminative Cognition joining
+and governing Perception and Conception. Their unity is Inconceivable as a
+homogeneous operation; its Idea is disclosed in the Cognition Base. Vijñāna
+governs Mind and guides the reading of Dharma Base. *Avijñapti* is the
+bridge, one Dharma classified in both Form Base and Dharma Base; Vijñāna
+bears a *prati* relation to it.
 
-The five wholesome faculties supply a concrete example: their
-presence determines an additional terminal count while their
-wholesome quality remains intact. Cessation of an occurrence and
-evaluation of its quality are different determinations. This
-reconstruction follows the local analysis without making death
-an illustration of a general theory of systems.
+In a Kant-informed Techne reading, realm, possession, death-mode,
+and terminal ethical condition jointly delimit the relevant count.
+This is a project-level interpretation, not a universal account of
+death or terminology supplied by the source.
 
-**Return to Dhātu at VAK 1.48:** Dhātu's typed incidence map places the five
-sensory Faculties at the five internal sensory Domains, Mind-Faculty across
-the seven Citta Domains, Female and Male Faculties in part of the
-Body-Domain, and Life and the feeling Faculties among the Faculties occupying
-a portion of the Essence-Domain. This death analysis applies cessation to
-those mapped Faculties as they are possessed in the terminal context. The
-gradual-death cluster—Body, Life, Mind, and neutral feeling—and the five
-additional Faculties beginning with Faith under a wholesome terminal mind
-are different temporal determinations of that same map. The five wholesome
-Faculties already have their Dhātu placement; their cessation neither erases
-that placement nor negates their wholesome quality. In the project's
-Fichtean return, the verse negates a merely static reading of Dhātu and
-reconstructs its placements as operative or ceasing under specified
-conditions, without replacing the map or conflating death-cessation with
-path-abandonment.
-
-## 10. Review Status
-
-Provisional fifteenth study of the restarted Indriyanirdeśa Bhāṣya
-sequence. The research kārikā, research Bhāṣyas for VAK 2.15–2.16,
-existing Organon kārikā study, and running Sanskrit at 48.15–49.06
-have been compared to establish the complete death unit.
+## 10. Textual and Scope Notes
 
 The continuous translation includes gradual death and the wholesome
-addition from the opening half of VAK 2.16. The remaining fruit-
-attainment discussion is reserved for the next study. Uncertain
-verse wording and mechanical repairs are explicit. Original
-witnesses and the existing kārikā studies are preserved.
+addition from the opening of VAK 2.16; the remaining fruit-attainment
+discussion is reserved for that study. Uncertain verse wording and
+mechanical repairs are recorded above. No independent collation is
+claimed.

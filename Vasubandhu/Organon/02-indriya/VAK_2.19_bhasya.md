@@ -34,7 +34,7 @@ The unit is printed 51.16–51.22 in
 the broken spacing in *ājñā tāvīndriyeṇa* has been joined. Three
 problematic forms remain visible: *ājñāta indriyam*, the subsequent
 *ya ājñātendriyeṇa*, and *manaśraddhādibahir*. The last is damaged
-in the enumeration of mind and the faculties beginning with faith.
+in the enumeration of mind and the faculties beginning with confidence.
 
 The conventional translation below follows the contextual division
 into knowledge and completed-knowledge cases. It does not claim an
@@ -42,20 +42,20 @@ independently collated restoration of these readings. The research
 translation resolves the same contrast, but its resolution is not
 an additional Sanskrit witness.
 
-## 3. Continuous Conventional Translation
+## 3. Scientific English Rendering
 
 “But one possessing the knowledge faculty or the faculty of one
 who has known, eleven.” The expression *ājñātendriya* denotes the
 faculty of one who has known. One possessing [the knowledge faculty]
 necessarily possesses eleven: pleasure, gladness, neutral feeling,
-life, mind, the faculties beginning with faith, and the knowledge
+life, mind, the faculties beginning with confidence, and the knowledge
 faculty itself. The same applies to one possessing the faculty of
 one who has known: those same ten, together with the faculty of
 one who has known.
 
 “One possessing the faculty called ‘I shall know’ is endowed with
 thirteen.” Which thirteen? The faculties of mind, life, and body;
-four feelings; the faculties beginning with faith; and the faculty
+four feelings; the faculties beginning with confidence; and the faculty
 called “I shall know.”
 
 The explanation of *ājñātendriya* in the first paragraph is a
@@ -82,7 +82,7 @@ members of either preceding eleven.
 ## 5. The Two Eleven-Faculty Cases
 
 The common ten are pleasure, gladness, neutral feeling, life, mind,
-faith, vigor, recollection, concentration, and prajñā. Possession
+confidence, vigor, recollection, concentration, and prajñā. Possession
 of the knowledge faculty entails these ten and that faculty;
 possession of the faculty of one who has known entails these ten
 and the latter faculty.
@@ -105,7 +105,7 @@ of everything that may be possessed.
 ## 6. The Thirteen-Faculty Case
 
 The third case comprises mind, life, and body; pain, pleasure,
-gladness, and neutral feeling; faith, vigor, recollection,
+gladness, and neutral feeling; confidence, vigor, recollection,
 concentration, and prajñā; and “I shall know.” Thus three plus four
 plus five plus one gives thirteen.
 
@@ -149,8 +149,8 @@ Retaining the complete kārikā as anchor while beginning the prose
 at *ekādaśabhiḥ* preserves both verse order and the natural units
 of commentary without repeating the eight-faculty explanation.
 
-*Śraddhādi* denotes the established five beginning with faith. The
-counts require all five, not faith alone. *Tair eva daśabhiḥ*, “with
+*Śraddhādi* denotes the established five beginning with confidence. The
+counts require all five, not confidence alone. *Tair eva daśabhiḥ*, “with
 those same ten,” is correspondingly exact: it carries over the
 common members, excluding the realization faculty that made the
 preceding count eleven.
@@ -162,9 +162,7 @@ establish the original wording of the damaged gloss or opening
 condition. The translation and textual note keep those two levels
 of confidence separate.
 
-## 9. Philosophical and Organon Study
-
-**Organon extension—not a literal Bhāṣya doctrine:** The three path-faculties may be read as Transcendental Time Determinations of Śuddha Sattva—prospective, cultivated, and completed knowing—whose universal Cognitions have different particular Ideas as necessary possession-sets. The count describes co-possession, not a simultaneity of all factors or a scale of attainment. The Organon reading leaves the Bhāṣya's uncertain damaged wording uncertain.
+## 9. Interpretation
 
 The passage determines a faculty through necessary relations of
 possession while retaining its distinct identity. The later two
@@ -186,31 +184,30 @@ necessarily from possession of a faculty. It does not here establish
 that every listed member causes the realization, or that all the
 members operate together as a single cognitive event.
 
-**Return to Dhātu at VAK 1.48:** Its typed map places the five sensory
-Faculties at their corresponding internal sensory Domains, including
-Body-Faculty at the Body-Domain; Mind-Faculty is mapped across the Citta
-Domains; and Life,
-the feeling Faculties, the five beginning with Faith, and portions of the
-three realization Faculties in a portion of the Essence-Domain. The
-eleven- and thirteen-faculty closures bring these separate loci into
-necessary possession-configurations keyed to their respective realization
-Faculties. The first is not a bigger version of the second: each has its
-own membership and path determination. The return is Fichtean in the
-project's sense: it negates a merely fixed reading of Dhātu and reconstructs
-its placements through Indriya's path-conditioned possession relations,
-without turning co-possession into causal production or simultaneous
-manifestation.
+**Return to Dhātu at VAK 1.48.** Dhātu classifies Faculty relations
+within the Base–Essence–Principle architecture. The eleven- and
+thirteen-Faculty closures relate Faculties already classified there,
+without identifying their loci or replacing the Dhātu map. Each
+closure retains its own members and path designation; count alone
+does not rank realization.
 
-## 10. Review Status
+The Kośa's governing synthesis: Vijñāna is Discriminative Cognition joining
+and governing Perception and Conception. Their unity is Inconceivable as a
+homogeneous operation; its Idea is disclosed in the Cognition Base. Vijñāna
+governs Mind and guides the reading of Dharma Base. *Avijñapti* is the
+bridge, one Dharma classified in both Form Base and Dharma Base; Vijñāna
+bears a *prati* relation to it.
 
-Provisional nineteenth study of the restarted Indriyanirdeśa Bhāṣya
-sequence. The research Bhāṣya, existing Organon kārikā study,
-preceding continuous study, and running Sanskrit at 51.16–51.23
-have been compared.
+In a Kant-informed Techne reading, the named Faculty, necessary
+co-possession set, and path-context remain distinct determinations.
+This is a project-level interpretation, not a causal explanation
+of the path or a scale of realization.
 
-Both eleven-faculty cases and the complete thirteen-faculty list
-are translated. The transcription difficulties and the contextual
-resolution of the knowledge-faculty condition are explicit.
-Original witnesses and existing studies are unchanged. VAK 2.20
-begins with the question at 51.23 about the smallest total number
-of faculties possessed.
+## 10. Textual and Scope Notes
+
+This study treats both eleven-Faculty cases and the complete
+thirteen-Faculty list. The opening eight-Faculty completion belongs
+to VAK 2.18. Damaged Sanskrit forms and the contextual resolution
+of the knowledge-Faculty condition remain explicit; no independent
+collation is claimed. VAK 2.20 begins with the question about the
+smallest total number of Faculties possessed.

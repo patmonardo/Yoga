@@ -5,8 +5,8 @@
 > cittāśrayas tadvikalpaḥ sthitiḥ saṃkleśa eva ca /
 > saṃbhāro vyavadānaṃ ca yāvatā tāvad indriyam // 2.05 //
 
-> Support of mind, its differentiation, persistence, and defilement;
-> equipment and purification: the faculties extend only so far as
+> Support of consciousness, its differentiation, persistence, and defilement;
+> equipment and purification: Faculty-status extends only so far as
 > these functions require.
 
 The Bhāṣya specifies equipment for purification and identifies what
@@ -45,7 +45,7 @@ The repair *vākpāṇi* restores speech and hand as the first two
 members of the fivefold list, corresponding to speaking and taking
 hold in the following sentence. No independent collation is claimed.
 
-## 3. Continuous Conventional Translation
+## 3. Scientific English Rendering
 
 If being a faculty follows from governing efficacy, ignorance and
 the other factors must be added to the enumeration. For ignorance
@@ -57,10 +57,10 @@ they have governing efficacy over speaking, taking hold, moving
 about, excretion, and pleasure.
 
 They are not, however, to be added. For what is intended here is:
-“Support of mind, its differentiation, persistence, and defilement;
+“Support of consciousness, its differentiation, persistence, and defilement;
 equipment and purification: the faculties extend only so far as
-these functions require.” Here the six faculties are the support
-of mind. This sixfold Essence-structure is the fundamental constitution
+these functions require.” Here the six Faculties are the support
+of consciousness. This sixfold Essence-structure is the fundamental constitution
 of a living being. Its differentiation into female and male is
 through the female and male faculties; its persistence, through
 the life-faculty; and its defilement, through the feelings.
@@ -95,16 +95,16 @@ used to explain faculty-status: governing efficacy. The response
 does not explicitly deny the efficacy of ignorance or of the proposed
 action-capacities. It limits what is counted in the present system.
 
-The six functions distribute the twenty-two faculties as follows:
+The six functions distribute the twenty-two Faculties as follows:
 
 | Function | Faculties assigned |
 |---|---|
-| Support of mind | Six sensory and mental faculties |
-| Differentiation of the living basis | Female and male faculties |
-| Persistence | Life-faculty |
+| Support of consciousness | Six sensory and mental Faculties |
+| Differentiation of the living basis | Female and Male Faculties |
+| Persistence | Life Faculty |
 | Defilement | Five feelings |
-| Provision for purification | Five beginning with faith |
-| Purification | Three realization faculties |
+| Provision for purification | Five beginning with confidence |
+| Purification | Three realization Faculties |
 
 The count is six plus two plus one plus five plus five plus three.
 This explains the intended extent of the list. It does not supply
@@ -124,7 +124,7 @@ ontological senses of *dravya*.
 The following *tasya*, “of it,” resumes this living basis. Its
 female and male differentiation is assigned to the two faculties
 already discussed in VAK 2.02. Thus *tadvikalpa* should not become
-“conceptual construction by mind” merely because *citta* appears
+an act of conceptual construction by Mind merely because *citta* appears
 in the preceding compound. The commentary specifies embodied
 differentiation of the basis just identified.
 
@@ -139,7 +139,7 @@ governing relation differs, even where the bodily reference overlaps.
 
 The prose distinguishes *vyavadānasaṃbharaṇaṃ pañcabhiḥ* from
 *vyavadānaṃ tribhiḥ*: provision for purification through the five,
-purification through the three. The five are faith, vigor,
+purification through the three. The five are confidence, vigor,
 recollection, concentration, and prajñā; the three are the realization
 faculties explained in VAK 2.04.
 
@@ -180,46 +180,44 @@ change the function actually proposed. The final denial explicitly
 names ignorance “and the others”; the earlier reply already rejects
 the proposed supplementary enumeration as a whole.
 
-## 9. Philosophical and Organon Study
+## 9. Interpretation
 
-The passage makes scope part of a classification's explanation.
-A common predicate alone can admit more candidates than the system
-intends. The objector exposes this by presenting further cases of
-governing efficacy; the answer's *iha*, “here,” bounds the functions
-for which Faculty-status is being assigned. The reply does not deny
-the causal efficacy of ignorance or the action-capacities; it rejects
-their supplementary inclusion in this enumeration.
+The objection tests whether governing efficacy alone can determine
+membership. The reply does not deny the efficacy of ignorance or of
+the proposed action-capacities; *iha*, “here,” limits the present
+enumeration to the six functions articulated in the verse and
+distributed by the Bhāṣya. The count is six plus two plus one plus
+five plus five plus three, accounting for the twenty-two Faculties.
+This is a rule for this classification, not an inventory of every
+power of a living being.
 
-**Organon reading — reciprocal return to Dhātu:** Dhātu 1.48 locates
-Faculty-status across sensory and Citta Domains, a part of Body, and
-a portion of Essence. Indriya 2.05 returns to that map through six
-functions: mind-support, differentiation, persistence, defilement,
-provision for purification, and purification. The Domain map constrains
-which powers count as Faculties; the function-map shows what those
-Faculty-bearing loci do. The five external Domains remain knowable
-without thereby becoming Faculties, and the non-faculty remainder of
-Essence remains distinct from its Faculty-bearing portion.
+The project crosswalk with Dhātu 1.48 is reciprocal: Dhātu locates
+Faculty-status within Base–Essence–Principle relations; this passage
+explains the functions of the Faculties included in its enumeration.
+The Bhāṣya's *ṣaḍāyatana* is rendered as the sixfold Essence-structure,
+the living basis supported by the six Faculties. The functions specify
+the classification's scope; they do not turn the six into a chronology
+or assert that the excluded candidates are causally inert.
 
-In the Organon's Fichtean return, the objection's overextension is
-negated and the system reconstructed at its stated scope. Ignorance
-and speech, grasping, locomotion, excretion, and pleasure are not
-erased as real causes or powers; they are not counted as Faculties
-here because the Bhāṣya does not assign them one of the six functions.
-The six functions are Transcendental Time Determinations of Śuddha
-Sattva, not six clock-time stages. This is a philosophical reconstruction
-of the passage's bounded classification, not a claim that the Bhāṣya
-uses Fichtean or Organon terminology.
+Across the Kośa, Vijñāna is Discriminative Cognition joining Perception
+and Conception without reducing their unity to one homogeneous
+operation; it governs Mind and guides the reading of Dharma Base. The
+same *avijñapti* remains one content in the Form Base and Dharma Base
+classifications, and Vijñāna bears a *prati* relation to it. This
+cross-chapter synthesis is an Organon framework, not a claim made by
+this Bhāṣya paragraph.
 
-## 10. Review Status
+In a Kant-informed Techne reading, *iha* makes the operative scope
+determinate: the stated functions provide the rule by which this
+enumeration is delimited. This is a project-level interpretation,
+not terminology or philosophical attribution supplied by the source.
 
-Provisional fifth study of the restarted Indriyanirdeśa Bhāṣya
-sequence. The research kārikā and Bhāṣya, existing Organon kārikā
-study, and running Sanskrit at 40.08–17 have been compared.
-Both proposed additions, the reply, the embedded verse, and its
-complete explanation are included in the continuous translation.
+## 10. Textual and Scope Notes
 
-Textual repairs are documented. The functions proposed for the
-action-related list remain distinct from the accepted faculty
-functions; provision for purification is read alongside VAK 2.03–04.
-Original witnesses and the existing kārikā study are preserved.
-The unit ends before VAK 2.06.
+The unit includes the objection, reply, embedded verse, and its
+complete prose explanation, ending at *ato nāvidyādīnām indriyatvam
+iṣṭam* before VAK 2.06. Editorial repairs are documented above;
+no independent collation is claimed. The action-related functions
+proposed by the objector remain distinct from the functions assigned
+to the twenty-two Faculties. The five and three are read alongside
+their explanations in VAK 2.03–04.

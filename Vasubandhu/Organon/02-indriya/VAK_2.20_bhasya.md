@@ -47,7 +47,7 @@ the second as referring to the five feelings in this enumeration;
 and the third as the verbal explanation “experiences.” These are
 contextual resolutions, not independently collated readings.
 
-## 3. Continuous Conventional Translation
+## 3. Scientific English Rendering
 
 Now, with how many faculties is someone endowed who possesses
 the fewest? “One without the wholesome is endowed, at the least,
@@ -61,7 +61,7 @@ at the least, with eight faculties, “likewise an ordinary person
 in the formless realm.” *Bāla* is a designation for an ordinary
 person. With which eight? “With neutral feeling, life, mind, and
 the wholesome faculties”: neutral feeling, life, and mind, together
-with those beginning with faith. Since those beginning with faith
+with those beginning with confidence. Since those beginning with confidence
 are exclusively wholesome, they are included by the expression
 “wholesome.” Then those beginning with the faculty “I shall know”
 would also have to be included. No: because the subject here is
@@ -75,7 +75,7 @@ can have. The answer supplies two eight-member sets. Each requires
 a lexical explanation: *vit* in the first, *śubha* in the second.
 
 An unnamed objection tests the extension of “wholesome.” If that
-quality licenses inclusion of the faith-group, why not the three
+quality licenses inclusion of the confidence-group, why not the three
 realization faculties, which are also wholesome? The reply invokes
 both the count and the ordinary status of the subject. The
 translation retains this exchange without assigning it to a school.
@@ -100,7 +100,7 @@ each of those additional faculties is absent.
 
 ## 6. The Ordinary Person in the Formless Realm
 
-The other eight are neutral feeling, life, mind, faith, vigor,
+The other eight are neutral feeling, life, mind, confidence, vigor,
 recollection, concentration, and prajñā. The Bhāṣya identifies
 *bāla* here by *pṛthagjana*, “ordinary person.” Translating it merely
 as “child” would lose the status that controls the final reply.
@@ -113,13 +113,13 @@ establish possession of a realization faculty.
 
 The two eight-member sets share neutral feeling, life, and mind.
 In the first, body and the other four feelings complete the eight;
-in the second, the five beginning with faith do so. Their equal
+in the second, the five beginning with confidence do so. Their equal
 number leaves their membership and wholesome status distinct.
 
 ## 7. Why “Wholesome” Does Not Include All Wholesome Faculties
 
 The objection is well directed: being exclusively wholesome does
-not uniquely identify the five beginning with faith. The three
+not uniquely identify the five beginning with confidence. The three
 realization faculties would satisfy that description too.
 
 The answer gives two contextual restrictions. Adding the three
@@ -150,9 +150,7 @@ Counting all five feelings in the first minimum does not describe
 someone experiencing pleasure, pain, gladness, distress, and neutral
 feeling together in one moment.
 
-## 9. Philosophical and Organon Study
-
-**Organon extension—not a literal Bhāṣya doctrine:** Transcendental Time here is qualitative configuration, not elapsed duration or a hierarchy inferred from counts. Universal Cognition applies the minimum-possession determination; the particular Ideas are the two explicitly conditioned eight-member sets. The framework preserves the shared triad without deriving from it a universal essence or an evolutionary sequence.
+## 9. Interpretation
 
 The passage gives a numerical lower bound without reducing the
 possessor to one uniform set of powers. Eight can describe a case
@@ -173,30 +171,30 @@ includes here. This is a semantic relation demonstrated by the
 commentary itself; a further Organon formalization should preserve
 both the general classification and the local restriction.
 
-**Return to Dhātu at VAK 1.48:** Its map places Body-Faculty in the internal
-sensory Domains, Mind-Faculty across the Citta Domains, and Life, the
-feelings, the five beginning with Faith, and portions of the three
-realization Faculties in the Essence-Domain portion. The two minima select
-different configurations from those mapped Faculties: the root-severed
-case has Life, Mind, Body, and all five feelings, while the formless
-ordinary person has Life, Mind, neutral feeling, and the five wholesome
-Faculties but no material Faculties.
-The realization Faculties' placement in the same Essence-Domain portion
-does not entail their possession by this ordinary person. This is the
-Fichtean return: negate the assumption that Domain-locus or the broad label
-“wholesome” alone determines possession, and reconstruct each profile
-through its bearer, realm, count, and ethical status, without altering
-Dhātu's map.
+The return to Dhātu 1.48 is a project crosswalk relating the two
+minimum sets to the Base–Essence–Principle architecture. A Faculty's
+place in the Dhātu classification does not alone establish possession
+by a particular bearer or replace the map. The realization Faculties'
+classification likewise does not entail that they are possessed by
+the ordinary person in this case.
 
-## 10. Review Status
+The Kośa's governing synthesis: Vijñāna is Discriminative Cognition joining
+and governing Perception and Conception. Their unity is Inconceivable as a
+homogeneous operation; its Idea is disclosed in the Cognition Base. Vijñāna
+governs Mind and guides the reading of Dharma Base. *Avijñapti* is the
+bridge, one Dharma classified in both Form Base and Dharma Base; Vijñāna
+bears a *prati* relation to it.
 
-Provisional twentieth study of the restarted Indriyanirdeśa Bhāṣya
-sequence. The research Bhāṣya, existing Organon kārikā study, and
-running Sanskrit at 51.23–52.09 have been compared.
+In a Kant-informed Techne reading, the bearer, realm, ethical
+condition, and Faculty membership remain explicit. This is a
+project-level interpretation, not a universal hierarchy inferred
+from the count.
 
-The complete minimum-possession discussion is translated, including
-both explanations of *vit* and the objection concerning the three
-realization faculties. Transcription repairs and unresolved forms
-are identified. Original witnesses and existing studies are unchanged.
-VAK 2.21 begins with the question at 52.09 about the greatest number
-of faculties possessed.
+## 10. Textual and Scope Notes
+
+This study covers the minimum-possession discussion, both
+explanations of *vit*, and the objection concerning the three
+realization Faculties. Transcription repairs and unresolved forms
+are identified above; no independent collation is claimed. VAK 2.21
+begins with the question about the greatest number of Faculties
+possessed.

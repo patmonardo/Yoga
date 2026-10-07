@@ -1,177 +1,145 @@
-# VAK_2.48 Bhāṣya — Result-Status and the Close of the Dissociated Formations
+# VAK 2.48 Bhāṣya — Result-Status and the Close of Dissociated Formations
 
-## 1. Kārikā Anchor
+## 1. Scope and Textual Position
 
-> sabhāgatā sā tu punar vipāko 'py āptayo dvidhā /
-> lakṣaṇāni ca niḥṣyandāḥ samāpatty-asamanvayāḥ // 2.48 //
+The commentary at 82.06–08 completes the classification begun under
+VAK 2.47; VAK 2.48 is cited at 82.09–15. The closing prose at 82.16–18
+finishes the account of formations dissociated from Mind. At 82.19–20,
+the text asks which causes and conditions are intended by the earlier
+statement on arising. The answer begins with VAK 2.49.
 
-> Commonality [is likewise]; but it is also a maturation-result.
-> Acquisitions are twofold, and so are the marks. The attainments
-> and non-possession are homogeneous outflows.
+The translation follows the running text in
+`Vasubandhu/Sources/kosabhasya.txt`; source labels 81.13–14 that occur
+inside the printed 82 sequence are treated as transcription anomalies,
+not used to reorder the passage.
 
-The 2.48 stanza begins at 82.09; its source excerpt retains the
-closing relation from VAK 2.47 at 82.06–08. The commentary closes
-the account of dissociated formations and includes the question that
-introduces causes and conditions; the answer begins in VAK 2.49.
+## 2. Continuous Scientific Translation
 
-## 2. Continuous Sanskrit
-
-> yathā caite nāmakāyādayaḥ sattvākhyā naiḥṣyandikā anivṛtāvyākṛtāśca /
-> tathā // 2.47 //
-> sabhāgatā sā tu punarvipāko 'pi
-> na kevalaṃ naiḥṣyandikī kāmarūpārūpyāvacarī /
-> āptayo dvidhā /
-> prāptayo naiḥṣyandikyo vipākajāśca /
-> lakṣaṇāni ca /
-> dvidheti varttate prāptivat /
-> niḥṣyandāḥ samāpattya samanvayāḥ // 2.48 //
-> dve acittasamāpattī asamanvāgamaśca naiḥṣyandikā eva /
-> śeṣameṣāṃ vaktavyamuktam /
-> śeṣayoścāsaṃjñikajīvitayorato na punarbrumaḥ /
-> kathaṃ prāptyādīnāṃ sattvākhyatoktā samanvāgamavacanāt /
-> kathaṃ lakṣaṇānāṃ sattvāsattvākhyatoktā /
-> sarvasaṃskṛṭasahabhūtvāt //
-> uktā viprayuktāḥ //
-> yaktūktaṃ "janyasya janikā jātirna hetupratyayairvinā" iti ka ime hetavaḥ keca pratyayāḥ /
-
-## 3. Continuous Conventional Translation
-
-Just as these groups of names and the rest are associated with sentient
+Just as the groups of names and the rest are associated with sentient
 beings, are homogeneous outflows, and are unobscured-indeterminate,
-“likewise is commonality. But it is also a maturation-result.” It is not
-merely a homogeneous outflow; it belongs to the desire, form, and formless
-realms.
+likewise is commonality. But commonality is also a maturation-result.
+It is not only a homogeneous outflow; it occurs in the Desire, Form,
+and Formless realms.
 
-“Acquisitions are twofold.” Acquisitions are homogeneous outflows and
-results born of maturation. “And the marks”: “twofold” carries over,
-just as for acquisitions. “The attainments and non-possession are
-homogeneous outflows.” The two attainments without mind and
-non-possession are homogeneous outflows only.
+Acquisitions are twofold: they are homogeneous outflows or results
+born of maturation. The conditioned marks are also twofold; “twofold”
+carries over just as it does for acquisitions.
 
-What else needs to be said about these has been stated, as has the account
-of the remaining two, non-percipient existence and the life faculty;
-therefore we do not state it again. How was it stated that acquisition
-and the others are associated with sentient beings? Through the statement
-of possession. How was it stated that the marks are associated both with
-sentient beings and with what is not so designated? Because they arise
-together with all conditioned things. The dissociated formations have
-been explained.
+> The two attainments without Mind and non-acquisition are homogeneous
+> outflows only.
 
-But it was said, “Arising generates what is to be generated, not without
-causes and conditions.” What are these causes, and what are the conditions?
+The remaining classifications have already been stated; we do not
+repeat them for the other two, Non-Reflecting and the life Faculty.
+How was it stated that acquisitions and the related formations are
+associated with sentient beings? Through the statement of possession.
+How was it stated that the marks are classified in relation to both
+sentient and non-sentient? Because they arise together with all
+conditioned Dharmas.
 
-## 4. What “Likewise” Carries Forward
+The formations dissociated from Mind have been explained.
 
-The opening prose explicitly selects three determinations from the
-linguistic groups: association with sentient beings, homogeneous-outflow
-status, and unobscured-indeterminate status. Commonality shares these,
-with the additional possibility of maturation-result status. Its realm
-range is then given separately as all three realms.
+But it was said, “Arising generates what is to be generated, not
+without causes and conditions.” What are these causes, and what are
+the conditions?
 
-The desire-and-form restriction of the preceding linguistic groups must
-therefore not be carried over indiscriminately. *Tathā* coordinates
-specified predicates; it does not assert identity of every classification.
-The passage returns to commonality already studied in VAK 2.41 rather
-than introducing another kind of commonality.
+## 3. The Carry-Forward of *Tathā*
 
-## 5. The Two Result-Statuses
+The word *tathā*, “likewise,” selects the classifications of the
+linguistic groups that the commentary has just stated: association
+with sentient beings, homogeneous-outflow status, and
+unobscured-indeterminate status. Commonality shares these, and the
+Bhāṣya adds that it may also be a maturation-result. It is not only a
+homogeneous outflow and may occur across the three realms.
 
-The Bhāṣya expands *āptayaḥ* as *prāptayaḥ* and explicitly carries
-*dvidhā*, “twofold,” forward to the conditioned marks. Both acquisitions
-and marks admit homogeneous-outflow and maturation-result classification.
-The two attainments and non-possession are restricted by *eva*, “only,”
-to homogeneous outflows in the present comparison.
+The classifications do not all transfer indiscriminately from the
+linguistic groups to commonality. The Bhāṣya specifies the carried
+predicates and the added result-status; its qualification “not only”
+is important.
 
-“Homogeneous outflow” preserves the distinction from karmic maturation.
-The short passage classifies these formations; it does not give a causal
-history for each individual instance. Nor does “twofold” establish that
-every particular acquisition or mark must bear both descriptions at once.
-An acquisition's result-status is a determination of that acquisition,
-not automatically the status of whatever dharma is acquired.
+## 4. Two Result-Statuses
 
-The two attainments are the non-percipient attainment and the attainment
-of cessation discussed earlier. They must remain distinct from
-*asaṃjñika*, the non-percipient existence or result mentioned among the
-two remaining items whose account has already been supplied. Attainment
-and its maturation are not interchangeable.
+The commentary expands *āptayaḥ* as *prāptayaḥ*, acquisitions, and
+states that they are homogeneous outflows or results born of
+maturation. The conditioned marks receive the same twofold
+classification by carrying *dvidhā* forward from the preceding
+phrase.
 
-## 6. Possession and the Range of the Marks
+The closing predicate is narrower. The two attainments without Mind
+and non-acquisition are homogeneous outflows only. The Bhāṣya does
+not assign them maturation-result status in this line.
 
-The final questions recover grounds for classifications rather than
-adding items to the catalogue. Speaking of possession locates acquisition
-and the relevant other formations within a sentient continuum. This
-does not equate possession with present manifestation or active use.
+The two result-terms answer different classificatory questions:
 
-The marks have a broader range because they accompany all conditioned
-things. They therefore occur in connection with sentient beings and
-with what is not designated as a sentient being. This answer concerns
-the range of the marked dharmas, not a division into mental and physical
-marks. It also does not extend the marks to unconditioned dharmas.
+- **Homogeneous outflow** (*niḥṣyanda*) marks continuity in kind.
+- **Maturation-result** (*vipāka*) marks a result arising through
+  maturation.
 
-## 7. Closure and the Question of Causes
+“Twofold” identifies the available classifications of acquisitions
+and conditioned marks; it does not assert that every individual
+instance must simultaneously be both.
 
-“Those dissociated [formations] have been explained” explicitly closes
-the preceding treatment. The text then recalls VAK 2.46: arising does
-not generate independently of causes and conditions. That qualification
-now becomes the question to be answered.
+## 5. Possession, Range, and Closure
 
-The reference back to the conditioned-marks debate supplies the stated
-reason for the transition. The result-classifications make the transition
-intelligible, but the text does not claim that the whole account of
-causality is deduced from this short classification alone. The six-cause
-verse belongs to VAK 2.49 and is not translated here.
+The question about association with sentient beings is answered by
+possession: acquisitions and related formations are spoken of as
+associated with a sentient continuum because they are possessed
+there. This relation is not equivalent to present manifestation.
 
-This is a presentation of the classificatory account following the
-preceding ontological debates. Its unqualified grammatical form should
-not erase the objections to substantial dissociated formations already
-recorded in those debates.
+The marks have a broader range. Because they arise together with all
+conditioned Dharmas, they can be classified in relation to both
+sentient and non-sentient. This does not extend them to the
+unconditioned.
 
-## 8. Textual and Translation Decisions
+The phrase “the formations dissociated from Mind have been explained”
+closes the current catalogue. The exact retrospective scope of the
+reference to Non-Reflecting and the life Faculty is compressed in the
+transmitted prose; the translation preserves the claim that their
+remaining account is not repeated here, without importing a new
+description of either.
 
-The continuous Sanskrit covers 82.06–20, retaining the contextual
-overlap from VAK 2.47 at 82.06–08 and ending with the question
-introducing VAK 2.49. The transcription labels two intervening lines 81.13 and
-81.14 despite their position within page 82; these anomalous source
-labels are omitted with the other display labels, not used to reorder
-the text.
+## 6. The Transition to Causality
 
-The anchor follows the existing Organon kārikā's
-*samāpatty-asamanvayāḥ*. The running transcription instead separates
-*samāpattya samanvayāḥ*. The prose, *dve acittasamāpattī
-asamanvāgamaś ca*, makes the intended members explicit: the two
-attainments without mind and non-possession. No positive possession
-term is substituted for the negative member. “Non-possession” here
-renders *asamanvāgama*, the non-acquisition determination of the earlier
-account, without suggesting a mere failure to obtain something anew.
+The final question recalls the VAK 2.46 restriction that arising does
+not operate without causes and conditions. With the dissociated
+formations classified, the text now asks for those causal types.
+This is the transition into the six-cause enumeration of VAK 2.49;
+the answer is not supplied by VAK 2.48.
 
-*Acitta* is rendered conventionally as “without mind” in the translation.
-This preserves the reported classification; the earlier debate over
-what occurs in cessation remains relevant. It does not license replacing
-the source term with a settled theory of reflective or non-reflective
-cognition.
+## Interpretation
 
-The running Sanskrit retains *sarvasaṃskṛṭasahabhūtvāt* and *yaktūktaṃ*.
-Their English is contextual: “because they arise together with all
-conditioned things” and “but it was said.” These are transparent working
-construals, not claims to a critically established Sanskrit text.
+The close of this catalogue sharpens the Hub idea: a determinate
+Dharma is specified not only by its category, but by the relations
+that classify its possession, continuity, and maturation. The result
+types are not synonyms, and the same broad class can admit different
+causal descriptions. The next verse makes the transition from
+classificatory status to explicitly differentiated causal relations.
+This is an Organon synthesis of the sequence, not a claim that the
+Bhāṣya here announces a complete theory of the Dharma Chakra.
 
-## 9. Limited Organon Reading
+The Kośa-wide synthesis presents Vijñāna as Discriminative Cognition
+joining and governing Perception and Conception; their unity is
+Inconceivable as a homogeneous operation, with its Idea disclosed in
+Cognition Base. Vijñāna governs Mind and guides the reading of Dharma
+Base. *Avijñapti* is the same Dharma classified in Form Base and Dharma
+Base, and Vijñāna bears a *prati* relation to it. This is the
+systematic frame of the larger Kośa, not a claim that this passage
+states every relation.
 
-Within the project's First Philosophy framing, this verse extends the
-classification of formations to their result-status. The Bhāṣya
-distinguishes homogeneous outflow from maturation-result, specifies
-which items admit each classification, and closes by asking about
-causes and conditions. This is a local extension of the inquiry, not
-a complete theory of causality; the six-cause account begins in VAK 2.49.
+At the project level, the ten Samyama-bhūmis describe Path-related
+operation of mental factors, and Buddha Dharma is the 11th Bhūmi.
+That is a project synthesis, not a literal translation or a level
+enumerated in this passage.
 
-## 10. Review Status
+## 8. Textual Decisions and Review Status
 
-Provisional forty-eighth study of the restarted Indriyanirdeśa Bhāṣya
-sequence. The source span, contextual overlap with VAK 2.47, existing
-Organon kārikā, and running Sanskrit have been compared. The complete
-closing unit and transition question are translated.
+The running transcription labels two lines 81.13–14 despite their
+position between 82.12 and 82.15. They are retained in sequence and
+not reordered. The phrase *śeṣameṣāṃ vaktavyamuktam* and its reference
+to Non-Reflecting and the life Faculty are compressed; the translation
+does not claim a more exact reconstruction than the context supports.
+The Sanskrit *sattvāsattvākhyatoktā* is rendered by its local
+sentient/non-sentient classification.
 
-Transcription anomalies are marked; no independent edition or manuscript
-collation has been performed. Original witnesses and existing studies
-are unchanged. VAK 2.49 begins with the six-cause verse at 82.21–22;
-its introductory question has been translated here.
+Completed paired study through *uktā viprayuktāḥ*, “the formations
+dissociated from Mind have been explained,” at 82.18. The question
+at 82.19–20 remains as the transition to VAK 2.49.

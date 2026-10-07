@@ -16,7 +16,7 @@ The research witness gives `madhyā ubhayī avikalpanāt`. The continuous
 source contracts the same sequence as `madhyobhayyavikalpanāt`; the separated
 forms are used below for analysis.
 
-## 3. Padaccheda
+## 3. Lexical Analysis
 
 ```text
 anyatra             → anyatra
@@ -29,7 +29,7 @@ madhyobhayyavikalpanāt
                     → madhyā ubhayī avikalpanāt
 ```
 
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | anyatra | indeclinable adverb | elsewhere; outside the third-dhyāna case |
 | sā | nominative feminine singular pronoun | that same agreeable mental feeling from VAK 2.07 |
@@ -89,13 +89,13 @@ The Kārikā leaves the exact force of `avikalpanāt` compressed. The Bhāṣya
 explains it as the absence, in neutral feeling, of the functional difference
 that requires bodily and mental pleasure and pain to be counted separately.
 
-## 5. Translation
+## 5. Scientific English Rendering
 
-### Close syntactic construe
+### Kārikā
 
 > Elsewhere, that [agreeable mental feeling] is gladness; disagreeable mental [feeling], in turn, is distress. Neutral feeling, however, is the middle, is of both kinds, and is one because of non-differentiation.
 
-### Bhāṣya-informed translation
+### Bhāṣya-informed rendering
 
 > Outside the third dhyāna—in the desire realm and the first and second dhyānas—agreeable mental feeling is the gladness-faculty. Disagreeable mental feeling is the distress-faculty. Neutral feeling is neither agreeable nor disagreeable; bodily and mental neutral feeling together constitute one faculty because they do not differ in the function of neutral attending.
 
@@ -103,19 +103,30 @@ The Bhāṣya adds that the third dhyāna is free from `prīti`, which it identi
 with `saumanasya`. This explains why agreeable mental feeling there is called
 `sukha-indriya`, not `saumanasya-indriya`.
 
-## 6. Philosophical Translation
+## 6. Interpretation
 
-> The five feeling-faculties are not classified by hedonic tone alone. Agreeable and disagreeable feeling divide again according to bodily or mental mode because those modes differ in their manner of arising and their effect upon the continuum. Neutral feeling does not exhibit that functional division: whether bodily or mental, it performs one neutral-attending function and is therefore counted as one faculty.
+VAK 2.08 completes the five feeling-Faculties through distinctions of
+affective character, bodily or mental mode, meditative context, manner
+of arising, and effect. The Bhāṣya uses *prāyeṇa* (“for the most part”)
+to qualify the role of *vikalpana* in mental pleasure and pain; it does
+not make that process the universal cause of every such feeling.
+Bodily and mental neutral feelings remain distinct modes, but share
+one Faculty because their neutral operation does not differ.
 
-Organon rendering:
+In the Kant-informed Techne, these stated features function as
+classification criteria: they determine when feeling-modes receive
+distinct Faculty designations and when differing modes count as one.
+The crosswalk with Dhātu 1.48 connects this functional account to the
+Base–Essence–Principle architecture without collapsing their different
+questions. This is a project-level interpretation, not terminology
+supplied by the Bhāṣya.
 
-> Dhātu 1.48 locates the five feeling-Faculties within a portion of the Essence-Domain; Indriya 2.08 returns to that placement by specifying which feeling-differences warrant distinct Faculties and which do not. Mental pleasure and pain generally arise through differentiation; bodily pleasure and pain may arise under the force of their sensory correlate, even for an arhat. Bodily and mental neutral feeling remain distinct modes but form one Faculty because their neutral operation does not differ.
-
-This reconstruction follows the Bhāṣya's reasons. It does not make
-`vikalpana` the universal cause of every mental pleasure or pain; the text
-says `prāyeṇa`, “for the most part.”
-
-**Transcendental Time determination (Organon, not translation):** The fivefold scheme tracks how affect is differentiated or held together across bodily and mental modes, meditative levels, and ways of arising. Universal Cognition names the determinate mode of affective knowing; particular Ideas are the feeling-tones and feeling-types—pleasure, gladness, distress, and neutrality—whose differences or shared operation the Bhāṣya tests. This is functional articulation, not a chronology of moods.
+Across the Kośa, Vijñāna is Discriminative Cognition joining Perception
+and Conception without reducing their unity to one homogeneous operation;
+it governs Mind and guides the reading of Dharma Base. The same
+*avijñapti* remains one content in the Form Base and Dharma Base
+classifications, and Vijñāna bears a *prati* relation to it. This wider
+synthesis frames, but is not stated in full by, this verse.
 
 ## 7. Technical Vocabulary
 
@@ -218,8 +229,6 @@ FunctionalDifference(x, y)
 
 ## 9. Interpretive Note
 
-**Organon time-reading:** The classification's temporal force lies in provenance and operation: the way mental affect generally arises through `vikalpana`, bodily feeling under the force of its object, and neutral feeling without differentiation. These are distinct ways an affective present is constituted, not a linear sequence through which each person must pass. The single `upekṣā` faculty marks common neutral attending, not identity of every particular feeling.
-
 VAK 2.08 completes the affective subsystem begun in VAK 2.07. The resulting
 classification is not a flat grid of pleasant, unpleasant, and neutral
 states. Meditative level, bodily or mental mode, manner of arising, and effect
@@ -246,45 +255,19 @@ form one faculty. The Kośa neither multiplies faculties for every substrate
 difference nor collapses functionally different states because their tone is
 similar.
 
-**Reciprocal return to Dhātu.** Dhātu 1.48 places the five feeling-
-Faculties in part of the Essence-Domain. Indriya 2.08 shows how that
-Faculty classification differentiates four feeling-tones while
-preserving bodily and mental modes, and why the two neutral modes
-share one Faculty. The return is not from a Dhātu list to a matching
-list of Faculties: it tests the functional relation that warrants
-splitting or unifying the feeling determinations.
+**Reciprocal return to Dhātu.** Dhātu 1.48 locates the five feeling
+Faculties within the Base–Essence–Principle architecture. Indriya
+2.08 specifies which feeling-differences warrant distinct Faculties
+and which do not. The structural map and functional criteria answer
+different questions and remain distinct.
 
-**Determinate negation.** `Avikalpanāt` negates the need for two
-neutral Faculties only with respect to their operation of remaining
-neutral; it does not erase their bodily/mental difference. Conversely,
-the third-dhyāna exception carried over from 2.07 negates the rule
-that mental pleasure must be gladness, but only under that stated
-meditative condition. The Fichtean return reconstructs each
-classification from the condition that survives the negation. VAK
-2.08 therefore gives the practical Kośa criteria that return to and
-articulate the Dhātu placement, rather than a universal rule to merge
-or divide every Faculty.
-
-For the Organon, this yields a stronger specification of the Kośa Agent:
-
-```text
-classify an affective determination by
-    tone
-    mode
-    experiential level
-    generative provenance
-    functional effect
-
-merge two realizations when
-    their governing operation is undivided
-
-separate them when
-    their arising or operation is functionally different
-```
-
-This is a project-level Agent reconstruction. The textual result is the
-fivefold feeling classification and the Bhāṣya's stated grounds for dividing
-or unifying bodily and mental instances.
+Across the Kośa, Vijñāna is Discriminative Cognition joining Perception
+and Conception without reducing their unity to one homogeneous operation;
+it governs Mind and guides the reading of Dharma Base. The same
+*avijñapti* remains one content in the Form Base and Dharma Base
+classifications, and Vijñāna bears a *prati* relation to it. This
+cross-chapter synthesis is the Organon's framework, not a claim made
+by this verse.
 
 ## 10. OWL++ Seed
 

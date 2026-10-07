@@ -5,7 +5,7 @@
 > mano 'nyavittiśraddhādīny aṣṭakaṃ kuśalaṃ dvidhā /
 > daurmanasyaṃ mano 'nyā ca vittis tredhā anyad ekadhā // 2.11 //
 
-> Mind, the other feelings, and those beginning with faith [are the
+> Mind, the other feelings, and those beginning with confidence [are the
 > ten just mentioned]. The eight are wholesome; distress is twofold.
 > Mind and the other feelings are threefold; the remainder is onefold.
 
@@ -34,11 +34,11 @@ question, at 46.17, concerns affiliation with the realms and begins
 VAK 2.12. The earlier material at 46.01–06 has already been translated
 with the maturation inquiry in VAK 2.10.
 
-## 3. Continuous Conventional Translation
+## 3. Scientific English Rendering
 
 How many are wholesome, how many unwholesome, and how many ethically
 indeterminate? First, categorically, “the eight are wholesome”: the
-five beginning with faith and the three beginning with the faculty
+five beginning with confidence and the three beginning with the faculty
 “I shall know.” “Distress is twofold”: wholesome and unwholesome.
 “Mind and the other feelings are threefold”: wholesome, unwholesome,
 and ethically indeterminate. “The remainder is onefold.” What is
@@ -61,7 +61,7 @@ content apart from the question and its specified alternatives.
 
 | Faculty group | Ethical quality | Count |
 |---|---|---:|
-| Five beginning with faith and three realization faculties | Wholesome only | 8 |
+| Five beginning with confidence and three realization faculties | Wholesome only | 8 |
 | Distress | Wholesome or unwholesome | 1 |
 | Mind and the four feelings other than distress | Wholesome, unwholesome, or indeterminate | 5 |
 | Seven material faculties and life | Indeterminate only | 8 |
@@ -109,7 +109,7 @@ themselves. It does not assign indeterminacy to every action in
 which they participate, or deny their governing functions.
 
 The wholesome eight also require the distinctions established
-earlier. Faith and the following four can be with or without
+earlier. Confidence and the following four can be with or without
 outflows, whereas the three realization faculties are exclusively
 without outflows. Their shared wholesome status does not erase
 that difference. “Wholesome” is not interchangeable with “without
@@ -132,59 +132,45 @@ It is not a claim about eight kinds of life. “Ethically indeterminate”
 is preferred to an unqualified “neutral,” keeping *avyākṛta*
 distinct from the feeling-name *upekṣā*.
 
-## 9. Philosophical and Organon Study
+## 9. Interpretation
 
-**Organon extension—not a literal Bhāṣya doctrine:** The ethical predicates determine how a faculty can operate across the living process; they do not measure elapsed time or turn every occurrence into a stage of purification. Universal Cognition distinguishes admissible ethical modes, and the Ideas are the particular faculty-instances so qualified. The Organon reading does not identify Śuddha Sattva with the narrower ethical category `kuśala`.
+The Bhāṣya assigns ethical qualities to the twenty-two Faculties
+by four groups. The five beginning with confidence and the three
+realization-Faculties are wholesome; distress is wholesome or
+unwholesome; Mind and the other four feelings admit all three
+qualities; the seven material Faculties and Life are indeterminate.
+These are qualifications of the Faculties, not replacements for
+their functional identities.
 
-The passage makes ethical qualification a distinct question about
-an already established faculty system. A governing function can
-admit different ethical qualities, while another faculty-type is
-restricted to one. Functional importance alone does not supply
-the ethical judgment.
+The cross-verse continuation from VAK 2.10 is necessary: the opening
+ten are those that may or may not produce maturation as a result,
+whereas the new question classifies ethical quality. The ethical
+partition also remains distinct from outflow-status: confidence and
+the following four may have outflows, while the realization-Faculties
+do not.
 
-For Organon reconstruction, this requires preserving both the
-faculty's identity and the range of qualifications allowed for it.
-Mind retains its faculty-designation across three ethical modes;
-distress admits two; the wholesome and indeterminate groups each
-admit one. These are different relations between type and occurrence,
-not reasons to discard either classification.
+The project crosswalk with Dhātu 1.48 relates the ethical classification
+to the Base–Essence–Principle map without relocating its Faculty-bearing
+loci. This is the Organon's comparative framework, not a claim made
+by the Bhāṣya.
 
-The explanation remains a classification rather than a derivation
-of the qualities from first principles. The short Bhāṣya paragraph
-states the distribution; it does not argue that ordinary uses of
-words such as faith, concentration, or knowing are automatically
-wholesome. Their technical faculty-designations govern the scope
-of the claim here.
+Across the Kośa, Vijñāna is Discriminative Cognition joining Perception
+and Conception without reducing their unity to one homogeneous operation;
+it governs Mind and guides the reading of Dharma Base. The same
+*avijñapti* remains one content in the Form Base and Dharma Base
+classifications, and Vijñāna bears a *prati* relation to it. This
+cross-chapter synthesis is an Organon framework, not a claim made by
+this Bhāṣya.
 
-**Return to Dhātu at its last kārikā:** The Organon return point is
-VAK 1.48, where Faculty-status is mapped across the Domains and
-their parts. The five beginning with Confidence and portions of the
-final three realization-Faculties occupy the Essence-Domain; these
-are the eight faculties classified as wholesome here. Mind maps to
-the Citta Domains and, with the four feelings other than distress,
-is ethically threefold. Distress is twofold; the seven material
-Faculties and Life are indeterminate-only. The ethical classification
-returns to Dhātu's terminal incidence map without relocating or
-replacing its Faculty-bearing loci.
+In a Kant-informed Techne reading, ethical quality is a distinct
+criterion, and the permitted range of qualities differs by Faculty
+group. This is a project-level interpretation, not terminology or
+philosophical attribution supplied by the source.
 
-This is the Organon's Fichtean reconstruction: Dhātu's mapped
-Faculty architecture is suspended in itself until Indriya returns
-with another operative determination. Ethical qualification neither
-negates the Faculty nor changes its Dhātu placement; it determines
-the permissible ethical modes of its instances. Affective neutrality
-is not ethical indeterminacy, and wholesome status is not identical
-with stainlessness. This return is an Organon reading, not a claim
-that the Bhāṣya itself describes its classifications as suspended.
+## 10. Textual and Scope Notes
 
-## 10. Review Status
-
-Provisional eleventh study of the restarted Indriyanirdeśa Bhāṣya
-sequence. The research kārikā and Bhāṣya, existing Organon kārikā
-study, and running Sanskrit at 46.01–17 have been compared to
-establish the cross-verse transition and complete ethical unit.
-
-The commentary is translated continuously as one paragraph.
-Wholesome distress, threefold neutral feeling, and the distinction
-between ethical quality and outflow-status remain explicit.
-Original witnesses and the existing kārikā study are preserved.
-The next unit begins with the realm-affiliation question at 46.17.
+The cross-verse transition and complete ethical-classification unit
+are preserved. The commentary's distribution, including wholesome
+distress and threefold neutral feeling, remains explicit. This unit
+ends before the realm-affiliation question at 46.17; no independent
+collation is claimed.

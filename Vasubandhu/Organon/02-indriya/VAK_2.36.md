@@ -12,345 +12,172 @@
 >
 > prāptyaprāptī svasaṃtānapatitānāṃ nirodhayoḥ // 2.36 //
 
-The research witness prints `svasaṃtāna patitānāṃ`; the compound is
-joined here as `svasaṃtāna-patitānāṃ` for analysis.
+The opening completes the VAK 2.35 catalogue. The research witness spaces
+*svasaṃtāna patitānām*; the compound is joined for analysis.
 
-## 3. Padaccheda
+## 3. Lexical Analysis
 
 ```text
-nāmakāyādayaś ceti
-    → nāma-kāya-ādayaḥ ca iti
-prāptir             → prāptiḥ
-lābhaḥ              → lābhaḥ
-samanvayaḥ          → samanvayaḥ
-prāptyaprāptī       → prāpti-aprāptī
-svasaṃtānapatitānāṃ
-                    → sva-saṃtāna-patitānām
-nirodhayoḥ          → nirodhayoḥ
+nāmakāyādayaś ceti       → nāma-kāya-ādayaḥ ca iti
+prāptir                   → prāptiḥ
+lābhaḥ                    → lābhaḥ
+samanvayaḥ                → samanvayaḥ
+prāptyaprāptī             → prāpti-aprāptī
+svasaṃtānapatitānāṃ       → sva-saṃtāna-patitānām
+nirodhayoḥ                → nirodhayoḥ
 ```
 
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
-| nāma-kāya-ādayaḥ | nominative masculine plural compound | groups of names and the related verbal groups beginning with them |
-| ca | conjunction | and |
-| iti | quotative / closing particle | thus; closes the preceding catalogue |
-| prāptiḥ | nominative feminine singular | acquisition-possession |
-| lābhaḥ | nominative masculine singular | obtaining / acquisition |
-| samanvayaḥ | nominative masculine singular | possession / endowment |
+| nāma-kāya-ādayaḥ | nominative masculine plural compound | groups of names and related formations |
+| iti | closing particle | completes the preceding catalogue |
+| prāptiḥ | nominative feminine singular | acquisition |
+| lābhaḥ | nominative masculine singular | obtaining |
+| samanvayaḥ | nominative masculine singular | possession or continued endowment |
 | prāpti-aprāptī | nominative feminine dual | acquisition and non-acquisition |
-| sva-saṃtāna-patitānām | genitive plural compound | of [conditioned dharmas] belonging to one's own continuum |
+| sva-saṃtāna-patitānām | genitive plural compound | of what belongs to one's own continuum |
 | nirodhayoḥ | genitive dual | of the two cessations |
 
-## 4. Grammar
+## 4. Scientific English Rendering
 
-`Nāmakāyādayaḥ ca iti` completes the list of dissociated formations
-begun in VAK 2.35: “and groups of names and so forth—thus [the list].”
+> Groups of names and related formations complete the catalogue.
+> Acquisition is obtaining and possession. Acquisition and non-acquisition
+> apply to conditioned Dharmas belonging to one's own continuum and, among
+> the unconditioned, to the two cessations.
 
-The next clause is definitional:
+The Bhāṣya distinguishes first obtaining what was absent or relinquished
+from continuing to possess what has been obtained. It excludes another
+continuum, what belongs to no continuum, and space from the relation's
+range.
 
-```text
-prāptiḥ = lābhaḥ samanvayaḥ
-```
+## 5. Interpretation
 
-The difference in grammatical gender does not prevent `lābhaḥ` and
-`samanvayaḥ` from standing as two explanations of feminine `prāptiḥ`.
-The Bhāṣya differentiates their force:
+The verse specifies the boundary of a technical relation. *Prāpti* is not
+the present manifestation of a Dharma, nor a loose predicate that can be
+assigned to anything. It concerns a Dharma's acquisition or continued
+endowment within the continuum to which it belongs; *aprāpti* is its
+contrary only within this admissible range.
 
-```text
-lābha
-    obtaining what was not possessed or had been relinquished
+The Bhāṣya then makes the profound issue explicit. The Vaibhāṣikas treat
+acquisition and non-acquisition as distinct real dissociated formations.
+The critical account preserves the practical difference while rejecting an
+additional entity: the status can be grounded in a continuum's seed-capacity,
+transformation of support, and mastery of renewed arising.
 
-samanvāgama / samanvaya
-    continuing to possess what has already been obtained
-```
-
-In the final half-verse, the feminine dual `prāptyaprāptī` governs two
-genitive domains:
-
-```text
-svasaṃtāna-patitānām
-    of conditioned dharmas belonging to one's own continuum
-
-nirodhayoḥ
-    of the two cessations
-```
-
-The supplied “conditioned dharmas” and the identification of the two
-cessations are Bhāṣya-informed construals.
-
-## 5. Translation
-
-### Close syntactic construe
-
-> And groups of names and so forth—thus [the list]. Acquisition is obtaining and possession. Acquisition and non-acquisition pertain to what belongs to one's own continuum and to the two cessations.
-
-### Bhāṣya-informed translation
-
-> Groups of names and so forth complete the catalogue. `Prāpti` comprises both newly obtaining a dharma and continuing to possess it. Acquisition and non-acquisition apply, among conditioned dharmas, only to those belonging to one's own continuum; among unconditioned dharmas, they apply to the two cessations.
-
-The kārikā states the range of the relation. The Bhāṣya adds that it does
-not apply to another continuum, to non-sentient things, or to space.
-
-## 6. Philosophical Translation
-
-> A continuum can acquire a determination, retain the capacity associated with it, or cease to possess it without that determination being manifest in the present cognition-event. The Kośa names this status `prāpti/aprāpti` and restricts it to determinations properly attributable to that continuum and, exceptionally, to the two cessations.
-
-The Bhāṣya then exposes two competing accounts of the same status:
+The transition is therefore:
 
 ```text
-Vaibhāṣika:
-    possession requires an additional real dissociated formation
+Manifest event
+    is not identical to
+Continuum-status
 
-Vasubandhu's critical account:
-    possession designates the continuum's actual seed-capacity,
-    transformed support, or acquired power of renewed arising
+Continuum-status
+    is not identical to
+An additional real possession-entity
 ```
 
-The dispute is not whether acquired and abandoned determinations must be
-distinguished. It concerns what makes that distinction true.
+This gives the Hub its first exact task. Vijñāna does not merely register an
+event in the Impure Wheel; it governs the intelligibility of how a Dharma's
+causal capacity is retained, transformed, foreclosed, or made available
+across the continuum.
 
-**Organon rendering (philosophical reconstruction, not literal Bhāṣya
-doctrine):** `Prāpti:Aprāpti` is the core Indriya dyad in the Dharma–Bhava
-Chakra. It determines whether a Dharma is newly acquired, continues to be
-possessed, or is not acquired within the admissible domain, whether or not
-it is manifest in the present cognition-event. This dyad couples with
-Dhātu's `Vijñapti:Avijñapti`:
-disclosure and non-disclosing continuity condition learning, while acquired
-or foreclosed status shapes what can be disclosed and enacted in later
-moments. This LogoGenesis is a Dyad → Dyad movement, not a one-way causal
-sequence.
+The Kośa's governing synthesis remains: Vijñāna is Discriminative Cognition
+joining and governing Perception and Conception. Their unity is
+Inconceivable as homogeneous operation, with its Idea disclosed in the
+Cognition Base. Vijñāna governs Mind and guides Dharma Base. Form Base and
+Dharma Base both classify the same *avijñapti*, with Vijñāna bearing a
+*prati* relation to it. The local dispute over *prāpti* concerns how a
+continuum-status is grounded, not whether these terms collapse into one.
 
-The Principle remains invariant at the hub; `Prāpti:Aprāpti` articulates
-the Indriya-side empirical relation through the turning. *Avijñapti* bridges
-the dyads because it is classified both in the Form Base and in the Dharma
-Base: one Dharma in two classifications, not two copies. Here time names
-the organized reach of capacity through a continuum, not clock-duration.
-This Organon reading does not settle the Bhāṣya's dispute over whether
-`prāpti/aprāpti` are distinct real Dharmas or designations grounded in
-continuum-capacity.
+## 6. Logical Determination
 
-## 7. Technical Vocabulary
-
-| Sanskrit | Controlled rendering | Determination in this unit |
-|---|---|---|
-| nāmakāya | group of names | begins the linguistic formations appended to the VAK 2.35 catalogue; details follow later |
-| prāpti | acquisition-possession | general status including both first obtaining and continued endowment |
-| lābha | obtaining | transition into possession of what was absent or relinquished |
-| samanvaya / samanvāgama | possession / endowment | maintained possession after acquisition; contextual senses such as mastery remain possible |
-| aprāpti | non-acquisition | absence of the acquisition-possession status within its defined domain |
-| svasaṃtāna-patita | belonging to one's own continuum | domain restriction for conditioned dharmas |
-| saṃtāna | continuum | Bhāṣya: conditioned dharmas of the three times ordered through cause and result |
-| pratisaṃkhyā-nirodha | cessation through discriminative comprehension | one of the two cessations to which possession-status may apply |
-| apratisaṃkhyā-nirodha | cessation not produced through discriminative comprehension | the other cessation; said in the cited Abhidharma to be possessed by all sentient beings |
-| ākāśa | space | unconditioned but outside both acquisition and non-acquisition according to the Bhāṣya |
-| dravyadharma | substantially real dharma | status assigned to `prāpti/aprāpti` by the Vaibhāṣikas |
-| prajñaptidharma | dharma by designation | Vasubandhu's critical classification of possession-language |
-| bīja | seed / productive capacity | Name-and-Form capable of producing a result through a particular transformation of the continuum |
-| āśraya-pariṇāma | transformation of the support | alteration making a continuum capable or incapable of producing a dharma |
-| sāmarthya | capacity | acquired ability of a previously arisen, effort-produced dharma to arise again |
-| vaśitva | mastery | possession understood as operative command rather than an additional entity |
-
-The research Bhāṣya uses `āśrayaparāvṛtti / support-transformation` as
-a heading-level reconstruction while its continuous explanation speaks more
-generally of a difference and transformation in the support. The present
-study retains the less committal `āśraya-pariṇāma` pending direct textual
-verification of the underlying Sanskrit prose.
-
-## 8. Logical Determination
-
-The kārikā first types the relation's domain:
+The relation's range:
 
 ```text
 Admissible(S, D)
-    := (Conditioned(D) AND BelongsToOwnContinuum(D, S))
-       OR IsOneOfTwoCessations(D)
-
-Prapti(S, D) OR Aprapti(S, D)
-    → Admissible(S, D)
+    := Conditioned(D) and BelongsToOwnContinuum(D, S)
+       or D is one of the two cessations
 ```
 
-For the two cessations, this names the eligible class, not universal
-possession by every individual. The Bhāṣya specifies who possesses each.
-
-Consequently:
-
-```text
-D belongs to another continuum
-    → neither Prapti(S, D) nor Aprapti(S, D)
-
-D is a non-sentient item
-    → neither Prapti(S, D) nor Aprapti(S, D)
-
-D is space
-    → neither Prapti(S, D) nor Aprapti(S, D)
-```
-
-The ontological dispute can then be formalized.
-
-### Vaibhāṣika distinct-entity model
-
-```text
-Continuum(S)
-+ Dharma(D)
-+ RealPraptiEntity(P)
-+ Connects(P, S, D)
-    → Possesses(S, D)
-```
-
-This formalizes the Vaibhāṣika commitment; it is not their own diagram.
-Its proposed function is classificatory: `P` permits determinations such as
-noble/ordinary and abandoned/unabandoned.
-
-### Vasubandhu's dispositional model
-
-```text
-Possesses(S, D)
-    := RetainsProductiveSeed(S, D)
-       OR AcquiredRenewedCapacity(S, D)
-       OR HasMastery(S, D)
-
-DoesNotPossess(S, D)
-    := SeedRenderedIncapable(S, D)
-       OR RenewedCapacityObstructed(S, D)
-```
-
-On this account:
+The first definition:
 
 ```text
 Prapti(S, D)
-    = designated status grounded in Capacity(S, D)
+    := NewlyObtained(S, D)
+       or ContinuesToPossess(S, D)
 
 Aprapti(S, D)
-    = negation of that designated status
-
-No additional RealPraptiEntity is required.
+    := not Prapti(S, D)
+       within Admissible(S, D)
 ```
 
-Abandonment is accordingly a causal incapacity, not the destruction of a
-possession-object:
+Thus:
 
 ```text
-PathTransformsSupport(S)
-∧ CannotAgainProduce(S, Affliction)
-    → AfflictionAbandonedBy(S)
+OutsideRange(S, D)
+    is not Aprapti(S, D)
 ```
 
-## 9. Interpretive Note
-
-VAK 2.36 answers the question left open by 2.35: what kind of determination
-is possession? The answer is contested within the Bhāṣya.
-
-The Vaibhāṣika position makes `prāpti` and `aprāpti` substantially real
-dissociated formations. Its strength is explicit state attribution: it can
-say that a continuum possesses an affliction, virtue, or path-result even
-when that dharma is not manifest. Its weakness is explanatory duplication.
-The proposed possession-entity has neither an evident intrinsic character
-like color or greed nor an evident operation like a faculty.
-
-Vasubandhu's critical line preserves the status while rejecting the extra
-entity. Scriptural “possession” cannot prove substantial existence because
-the same language can signify mastery, tolerance, or failure to expel. More
-fundamentally, differences of abandonment and possession can be grounded in
-the causal organization of the continuum:
+The disputed ground:
 
 ```text
-support transformed by the paths of seeing and cultivation
-    → abandoned affliction cannot arise again
+Vaibhasika:
+    Prapti(S, D) requires an additional real Dharma
 
-undamaged seed-capacity
-    → innate wholesome dharma remains available
-
-capacity developed by previous practice
-    → effort-produced wholesome dharma can arise again
+Critical account:
+    Prapti(S, D) is designated from
+        SeedCapacity(S, D)
+        + SupportTransformation(S)
+        + RenewedArisingCapacity(S, D)
+        + Mastery(S, D)
 ```
 
-This yields the decisive transition:
+## 7. Interpretive Note
 
-```text
-relation-substance
-    →
-derived dispositional status
-```
+The Bhāṣya does not deny the difference between acquired and unacquired
+status. It asks what makes that difference true. Its critical line opposes
+the inference from the word “possession” to a distinct real Dharma:
+scriptural possession can also mean mastery, tolerance, or failure to
+expel. It further argues that acquisition cannot be a universal production
+cause, since unconditioned Dharmas do not arise and different degrees of
+affliction require a more discriminating ground.
 
-For the Kośa Technē, that transition is exceptionally important. A functional
-Agent should not store an unexplained `Prapti` object merely because the
-domain vocabulary contains the noun. It should derive possession-status from
-the continuum's provenance, transformations, remaining productive capacities,
-and acquired mastery:
+For abandoned afflictions, the support is transformed by the Paths of
+seeing and cultivation so that it cannot produce the relevant affliction
+again. The Bhāṣya compares that support to rice burned by fire. For
+effortless wholesome Dharmas, possession rests on unimpaired seed-capacity;
+for effort-produced wholesome Dharmas, it rests on mastery of renewed
+arising. This is the distinction required to understand why a continuum may
+be held back from a result it has not attained without treating absence as
+a mere lack of present appearance.
 
-```text
-deriveStatus(continuum, dharma)
-    from seedState
-       + supportTransformations
-       + renewedArisingCapacity
-       + mastery
-```
-
-This is Bhāṣya-informed Organon reconstruction, not kārikā wording. Nor
-does the local argument license an unrestricted equation of the Kośa's
-`bīja` with Yoga's `vāsanā` or `saṃskāra`. The structural comparison may
-later become fruitful, but the present passage must first retain its own
-sequence:
-
-```text
-bīja → saṃtāna-pariṇāma → productive capacity or incapacity
-```
-
-The pair `prāpti/aprāpti` therefore survives Vasubandhu's critique, but as
-an accountable classification grounded in causal continuity rather than an
-independent metaphysical attachment.
-
-**Organon temporal note:** The temporal determination is the difference between
-a dharma's manifestation and the continuum's continuing or foreclosed
-availability of it. This reconstruction preserves the Bhāṣya's dispute over
-what grounds possession; it does not attribute the Organon account to the
-commentary.
-
-## 10. OWL++ Seed
+## 8. OWL++ Seed
 
 ```ttl
 @prefix vak: <http://127.0.0.1:3000/vak#> .
-@prefix organon: <http://127.0.0.1:3000/organon#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
 vak:VAK_2_36
     a vak:Karika ;
     rdfs:label "VAK 2.36" ;
-    vak:hasTopic vak:PraptiDefinition,
-        vak:PraptiDomain,
-        vak:PraptiOntologyDispute ;
+    vak:hasTopic vak:AcquisitionAndNonAcquisition ;
     vak:belongsTo vak:Indriyanirdesa .
 
-vak:PraptiDefinition
-    vak:includes vak:Labha,
-        vak:Samanvaya .
+vak:Acquisition
+    vak:includes vak:NewObtaining,
+        vak:ContinuedPossession ;
+    vak:hasDomain vak:OwnContinuumDharma,
+        vak:TwoCessations .
 
-vak:PraptiDomain
-    vak:includes vak:OwnContinuumDharma,
-        vak:TwoCessations ;
-    vak:excludes vak:OtherContinuumDharma,
-        vak:NonSentientItem,
-        vak:Akasa .
+vak:NonAcquisition
+    vak:isContraryTo vak:Acquisition ;
+    vak:hasDomain vak:OwnContinuumDharma,
+        vak:TwoCessations .
 
-vak:VaibhasikaPraptiModel
-    a vak:AttributedDoctrinalPosition ;
-    vak:asserts vak:PraptiAsDistinctRealDharma,
-        vak:ApraptiAsDistinctRealDharma .
-
-vak:VasubandhuPraptiCritique
-    a vak:AttributedDoctrinalPosition ;
-    vak:asserts vak:PraptiAsDesignation ;
+vak:CriticalAccountOfAcquisition
     vak:groundsStatusIn vak:SeedCapacity,
         vak:SupportTransformation,
         vak:RenewedArisingCapacity,
         vak:Mastery ;
-    vak:denies vak:PraptiAsDistinctRealDharma .
-
-organon:DerivedContinuumStatus
-    a organon:InterpretiveReconstruction ;
-    organon:isDerivedFrom vak:SeedCapacity,
-        vak:SupportTransformation,
-        vak:RenewedArisingCapacity,
-        vak:Mastery ;
-    organon:doesNotStore vak:UnexplainedPraptiEntity .
+    vak:rejects vak:AdditionalRealPossessionEntity .
 ```

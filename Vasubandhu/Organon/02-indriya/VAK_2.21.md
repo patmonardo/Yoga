@@ -16,7 +16,7 @@ The Bhāṣya divides the compressed syntax into two cases. `Dviliṅga` complet
 the first case; it does not qualify `ārya`. The second case begins with
 `āryo rāgī`, a noble trainee who still possesses attachment.
 
-## 3. Padaccheda
+## 3. Lexical Analysis
 
 ```text
 bahubhir             → bahubhiḥ
@@ -30,7 +30,7 @@ ekaliṅgadvayāmalavarjitaiḥ
                      → eka-liṅga-dvaya-amala-varjitaiḥ
 ```
 
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | bahubhiḥ | instrumental plural | with many; interpreted by the Bhāṣya as the greatest number |
 | yuktaḥ | nominative masculine singular | endowed with |
@@ -77,30 +77,41 @@ The Bhāṣya specifies the second subject as an `avītarāga śaikṣa`, a trai
 not yet free from attachment. Only the uncontaminated faculty appropriate to
 the trainee's present path-state is possessed; the other two are excluded.
 
-## 5. Translation
+## 5. Scientific English Rendering
 
-### Close syntactic construe
+### Kārikā
 
 > One endowed with the greatest number is endowed with nineteen, the stainless faculties being excluded—a person possessing both sexual faculties. A noble person who still possesses attachment [also has nineteen], with one sexual faculty and two stainless faculties excluded.
 
-### Bhāṣya-informed translation
+### Bhāṣya-informed rendering
 
 > Two different persons may possess the maximum of nineteen faculties. A person possessing both sexual faculties and otherwise complete faculties has all except the three uncontaminated realization faculties. A noble trainee who is not yet free from attachment has only one sexual faculty and only the one uncontaminated realization faculty appropriate to the present path-stage, excluding the other sexual faculty and the other two uncontaminated faculties.
 
 The two cases have the same count because each excludes three from the total
 twenty-two, but the excluded members are different.
 
-## 6. Philosophical Translation
+## 6. Interpretation
 
-> Maximum numerical possession does not identify one kind of subject. A fully equipped worldly continuum reaches nineteen by lacking every uncontaminated realization faculty. A noble trainee reaches nineteen by possessing one such faculty while excluding one sexual faculty and the two realization faculties incompatible with the present stage. Equal extension thus embodies opposed determinations.
+The Bhāṣya gives two distinct nineteen-Faculty configurations.
+The first is a possessor of both sex Faculties, complete in the
+relevant inventory, and excludes all three uncontaminated realization
+Faculties. The second is a noble trainee still possessing attachment;
+that case excludes one sex Faculty and two of the three realization
+Faculties. The shared count does not make their members or path-status
+identical.
 
-Organon rendering:
+In the Kant-informed Techne, the counted rule is determined by its
+bearer and exclusions, not by the number alone. This is the
+project-level interpretation of the Bhāṣya's explicit distinctions.
 
-> Nineteen faculties can mark two different Transcendental Time Determinations of Śuddha Sattva. The worldly profile is complete in conditioned equipment while lacking every stainless realization-faculty; the trainee profile has the one stainless faculty appropriate to the present path-stage, while excluding one sexual faculty and the other two realization-faculties. Equal counts therefore do not measure a single linear scale of attainment: they name distinct present organizations of embodied differentiation and path-knowledge.
-
-The Transcendental Time reading is an Organon reconstruction. The textual
-analysis concerns the two greatest faculty-possession profiles and their
-different exclusions.
+Across the Kośa, Vijñāna is Discriminative Cognition joining and
+governing Perception and Conception. Their unity is Inconceivable as
+a homogeneous operation; its Idea is disclosed in the Cognition Base.
+Vijñāna governs Mind and guides the reading of Dharma Base. Form Base
+and Dharma Base both include the same *avijñapti* in distinct
+classifications, and Vijñāna bears a *prati* relation to it. This
+governing synthesis informs the local analysis of Faculty profiles
+without collapsing the Base, Essence, and Principle determinations.
 
 ## 7. Technical Vocabulary
 
@@ -109,7 +120,7 @@ different exclusions.
 | bahubhiḥ samanvāgata | endowed with the greatest number | Bhāṣya formulation of the maximum-possession question |
 | ekānna-viṃśati | one less than twenty | nineteen, the maximum co-possession count here |
 | amala-indriya | stainless faculty | one of the three uncontaminated realization faculties |
-| dvi-liṅga | possessing both sexual faculties | qualification of the first, worldly maximum |
+| dvi-liṅga | possessing both sex Faculties | qualification of the first maximum case |
 | samagra-indriya | possessing complete faculties | Bhāṣya qualification of the first case |
 | ārya | noble person | subject of the second maximum |
 | rāgin | possessing attachment | marks that the noble trainee is not yet free from attachment |
@@ -134,13 +145,13 @@ SexualTwo
     = {Female, Male}
 ```
 
-The worldly maximum is:
+The first maximum case is:
 
 ```text
-WorldlyMaximum
+FirstMaximum
     = AllFaculties − StainlessThree
 
-Count(WorldlyMaximum) = 22 − 3 = 19
+Count(FirstMaximum) = 22 − 3 = 19
 ```
 
 The noble trainee maximum is stage-relative:
@@ -159,18 +170,18 @@ Count(NobleTraineeMaximum) = 22 − 1 − 2 = 19
 Therefore:
 
 ```text
-Count(WorldlyMaximum)
+Count(FirstMaximum)
     = Count(NobleTraineeMaximum)
     = 19
 
-WorldlyMaximum
+FirstMaximum
     ≠ NobleTraineeMaximum
 ```
 
 Their realization status is opposed:
 
 ```text
-WorldlyMaximum ∩ StainlessThree = ∅
+FirstMaximum ∩ StainlessThree = ∅
 
 Count(NobleTraineeMaximum ∩ StainlessThree) = 1
 ```
@@ -182,63 +193,29 @@ to turn that bound into a hierarchy of worth. Nineteen is the greatest number
 of faculties one person can possess, yet the number is realized through two
 different exclusion programs.
 
-The first subject is worldly, possesses both sexual faculties, and is
-otherwise complete. This person reaches nineteen precisely by lacking all
-three uncontaminated realization faculties. Numerical abundance therefore
-coexists with the complete absence of noble realization.
+The first subject possesses both sex Faculties and is otherwise
+complete, while lacking all three uncontaminated realization Faculties.
 
 The second subject is a noble trainee who still has attachment. This person
-possesses one sexual faculty and the one uncontaminated faculty appropriate
-to the current path-stage. One sexual faculty and the other two
-uncontaminated faculties are excluded. The exclusions are not deficiencies
-measured against the first case; they express compatibility with a
-determinate path-state.
+possesses one sex Faculty and the uncontaminated Faculty appropriate to
+the current path-stage. The excluded members distinguish this case; they
+are not deficiencies measured against the first.
 
-The karmic ISA has thus become an exclusion-sensitive type system:
-
-```text
-ValidConfiguration
-    = IncludedFaculties
-    + RequiredDependencies
-    + ExcludedIncompatibilities
-    + PathStage
-```
-
-Two configurations can have identical size while differing in every feature
-that matters for realization. The Agent must therefore validate negative
-constraints as rigorously as positive possession. An invalid faculty for a
-given stage cannot be made acceptable by preserving the correct count.
-
-For the Organon, the contrast concerns how the faculties governing
-differentiation and path-realization are organized in each present profile.
-The trainee's exclusions are compatible with a specific path-state; they
-are not deficits measured against the worldly case or a universal ascent
-through one prescribed biography.
+The paired exclusions show that membership, bearer, and path-status
+matter alongside the count. This is a local possession classification,
+not a causal explanation or universal sequence of practice.
 
 The Bhāṣya closes the extended faculty-property inquiry here. The sequence
 from necessary triad through minimum and maximum configurations has generated
 a field of configurations governed by implication, mutual exclusion, realm,
 ethical condition, and path-stage.
 
-**Principle and Rule (Organon, not the Bhāṣya's terminology).** VAK 1.48
-provides the Principle: the typed incidence of Faculties in Domains and
-Domain-parts, not merely a total of twenty-two. VAK 2.21 states a local Rule
-over that Principle: the maximum is nineteen, realized either by the
-complete worldly possessor who excludes all three stainless Faculties, or
-by the attached noble trainee who excludes one sexual Faculty and two
-stainless Faculties. The Principle establishes the mapped Faculty
-determinations; the Rule selects compatible possession-configurations
-according to bearer and path-status. In turn, the two exclusion-patterns
-show how those determinations operate rather than remain a static map.
-Neither Principle nor Rule alone is this practical Science; their reciprocal
-determination is. This verse begins that local Principle–Rule articulation,
-without completing the broader synthesis reserved for after Indriya.
-
-**Organon temporal reading:** The nineteen-member cases are two distinct
-present organizations of Śuddha Sattva, not points on a single scale that
-advances by accumulating faculties. The excluded members articulate
-stage-specific limits on embodied differentiation and realization; their
-relation is structural and path-relative, not measured by clock-time.
+**Principle–Rule relation (project-level Techne).** VAK 1.48 gives the
+Principle classification of Faculties. VAK 2.21 states a local Rule over
+that classification: nineteen in either of two cases, with distinct
+exclusions according to bearer and path-status. The Rule selects
+possession-configurations without replacing the Principle classification;
+this is an Organon application, not terminology attributed to the Bhāṣya.
 
 ## 10. OWL++ Seed
 
@@ -254,7 +231,7 @@ vak:VAK_2_21
     vak:belongsTo vak:Indriyanirdesa ;
     vak:closes vak:ExtendedFacultyPropertyAnalysis .
 
-vak:WorldlyMaximum
+vak:FirstMaximum
     a vak:FacultyConfiguration ;
     vak:hasCount 19 ;
     vak:hasSexualFacultyCount 2 ;

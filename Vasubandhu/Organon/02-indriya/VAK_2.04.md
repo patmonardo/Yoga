@@ -12,7 +12,7 @@
 >
 > uttarottarasaṃprāptinirvāṇādyādhipatyataḥ // 2.4 //
 
-## 3. Padaccheda
+## 3. Lexical Analysis
 
 ```text
 ājñāsyāmyākhyam
@@ -28,14 +28,14 @@ uttarottarasaṃprāptinirvāṇādyādhipatyataḥ
     → uttarottara-saṃprāpti-nirvāṇa-ādi-ādhipatyataḥ
 ```
 
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | ājñāsyāmi | first-person singular future verb used in a technical name | I shall know |
 | ākhyam | nominative neuter singular adjective | called or named |
-| ājñā | compound member | knowledge; accomplished path-knowing in the technical sequence |
+| ājñā | compound member | technical path-name; distinct from *jñāna* and *vijñāna* |
 | ājñātāvin | possessive formation | one who has known |
-| indriyam | nominative neuter singular | faculty / governing power |
-| tathā | indeclinable adverb | likewise; each is individually a faculty |
+| indriyam | nominative neuter singular | Faculty / governing power |
+| tathā | indeclinable adverb | likewise; each is individually a Faculty |
 | uttarottara | compound member | each successively higher or subsequent |
 | saṃprāpti | compound member | attainment or acquisition |
 | nirvāṇa | compound member | extinction / release |
@@ -43,12 +43,12 @@ uttarottarasaṃprāptinirvāṇādyādhipatyataḥ
 | ādhipatyataḥ | ablative singular abstract formation | because of governing efficacy |
 
 The abbreviated first name refers to
-`anājñātam-ājñāsyāmīndriya`, the faculty named “I shall know what is not yet
+`anājñātam-ājñāsyāmīndriya`, the Faculty named “I shall know what is not yet
 known.”
 
 ## 4. Grammar
 
-The three nominative expressions are coordinated subjects whose faculty-
+The three nominative expressions are coordinated subjects whose Faculty-
 status is explained by the final ablative compound:
 
 ```text
@@ -62,53 +62,69 @@ The Bhāṣya explains `tathā` as distributive: each of the three is separately
 an `indriya`.
 
 `Uttarottara-saṃprāpti` is not merely general progress. It specifies a chain
-in which each faculty governs attainment of the next:
+in which each Faculty governs attainment of the next:
 
 ```text
-faculty called “I shall know”
-    → attainment of knowledge-faculty
+Faculty called “I shall know”
+    → attainment of Knowledge Faculty
 
-knowledge-faculty
-    → attainment of faculty of one who has known
+Knowledge Faculty
+    → attainment of Faculty of one who has known
 
-faculty of one who has known
-    → parinirvāṇa through liberated mind
+Faculty of one who has known
+    → parinirvāṇa through liberated consciousness
 ```
 
 `Ādi`, “and so forth,” signals a second distribution supplied by the Bhāṣya:
 abandonment by seeing, abandonment by cultivation, and pleasant abiding in
 the present life.
 
-## 5. Translation
+## 5. Scientific English Rendering
 
-### Close syntactic construe
+### Kārikā
 
-> Likewise, the faculty called “I shall know,” the one called “knowledge,” and the faculty of one who has known [are faculties] because of governing efficacy with respect to each successively higher attainment, nirvāṇa, and so forth.
+> Likewise, the Faculty called “I shall know,” the one called “Knowledge,” and the Faculty of one who has known [are Faculties] because of governing efficacy with respect to each successively higher attainment, nirvāṇa, and so forth.
 
-### Bhāṣya-informed translation
+### Bhāṣya-informed rendering
 
-> The faculty named “I shall know what is not yet known” governs attainment of the knowledge-faculty; the knowledge-faculty governs attainment of the faculty of one who has known; and the faculty of one who has known governs parinirvāṇa through liberation of mind. Respectively, they also govern abandonment of the afflictions abandoned by seeing, abandonment of those abandoned by cultivation, and pleasant abiding here and now in the joy and happiness of liberation.
+> The Faculty named “I shall know what is not yet known” governs attainment of the Knowledge Faculty; the Knowledge Faculty governs attainment of the Faculty of one who has known; and the Faculty of one who has known governs parinirvāṇa through liberation of consciousness. Respectively, they also govern abandonment of afflictions abandoned by seeing, abandonment of those abandoned by cultivation, and pleasant abiding here and now in liberation's joy and happiness.
 
-## 6. Philosophical Translation
+## 6. Interpretation
 
-> The final three faculties govern distinct stages of path-knowledge. The first carries what remains unknown into direct seeing; the second continues the work through cultivation; the third belongs to completed knowing, liberated abiding, and the condition necessary for parinirvāṇa. Their unity is neither a timeless knower nor a single undifferentiated insight, but ordered Transcendental Time Determinations through which one path-stage makes the next attainable.
+The Bhāṣya gives two distributions for the final three Faculties. In the
+first, each governs attainment of the next, and the third governs
+parinirvāṇa through liberated consciousness. In the second, the first
+governs abandonment by seeing, the second abandonment by cultivation,
+and the third pleasant abiding in the present life. These are related but
+distinct accounts; the technical Faculty names are not merely future,
+present, and past tenses.
 
-Organon rendering:
+In the Kant-informed Techne, the three Faculties articulate determinate
+conditions and operations within the practical path, not independent
+substances or a simple chronology. Their unity is an ordered relation in
+which the operation of one makes a further attainment possible. This is
+a project-level interpretation of the sequence, not terminology
+attributed to the Bhāṣya.
 
-> Dhātu 1.48 locates portions of the final three Faculties within the Essence-Domain; Indriya 2.04 reconstructs that placement as operative succession: “I shall know what is not yet known,” knowledge, and one who has known. The first negates the status “not yet known” by positing knowing as a task, not by annulling its object; each faculty governs a distinct path-operation, and completed knowing governs liberated abiding and parinirvāṇa. This is a determinate return in mind, not a mere sequence of tenses.
+Across the Kośa, Vijñāna is Discriminative Cognition joining Perception
+and Conception without reducing their unity to one homogeneous
+operation; it governs Mind and guides the reading of Dharma Base. The
+same *avijñapti* remains one content in the Form Base and Dharma Base
+classifications, and Vijñāna bears a *prati* relation to it. This wider
+synthesis frames, but is not stated in full by, this verse.
 
 ## 7. Technical Vocabulary
 
 | Sanskrit | Project rendering | Determination |
 |---|---|---|
-| anājñātam-ājñāsyāmīndriya | faculty “I shall know what is not yet known” | first path-knowledge faculty |
-| ājñendriya | knowledge-faculty | governs cultivation and attainment of completed knowledge |
-| ājñātāvīndriya | faculty of one who has known | completed path-knowledge faculty |
-| uttarottara-saṃprāpti | attainment of each successively higher faculty | exact ordering relation among the three |
-| parinirvāṇa | final nirvāṇa | requires liberated mind according to the Bhāṣya |
-| avimukta-citta | unliberated mind | condition in which parinirvāṇa is unavailable |
-| darśana-heya-kleśa | affliction abandoned by seeing | governed object of the first faculty |
-| bhāvanā-heya-kleśa | affliction abandoned by cultivation | governed object of the second faculty |
+| anājñātam-ājñāsyāmīndriya | Faculty “I shall know what is not yet known” | first path Faculty |
+| ājñendriya | Knowledge Faculty | governs cultivation and attainment of completed knowing |
+| ājñātāvīndriya | Faculty of one who has known | completed path Faculty |
+| uttarottara-saṃprāpti | attainment of each successively higher Faculty | exact ordering relation among the three |
+| parinirvāṇa | final nirvāṇa | requires liberated consciousness according to the Bhāṣya |
+| avimukta-citta | unliberated consciousness | condition in which parinirvāṇa is unavailable |
+| darśana-heya-kleśa | affliction abandoned by seeing | governed object of the first Faculty |
+| bhāvanā-heya-kleśa | affliction abandoned by cultivation | governed object of the second Faculty |
 | dṛṣṭa-dharma-sukha-vihāra | pleasant abiding in the present life | positive operation of completed knowing |
 | vimukti-prīti-sukha-saṃvedana | experience of liberation's joy and happiness | explanation of pleasant liberated abiding |
 
@@ -124,7 +140,7 @@ SecondPathKnowledgeFaculty
     → GovernsAttainmentOf(ThirdPathKnowledgeFaculty)
 
 ThirdPathKnowledgeFaculty
-    → Requires(LiberatedMind)
+    → Requires(LiberatedConsciousness)
     → Governs(Parinirvana)
 ```
 
@@ -145,67 +161,41 @@ The two descriptions are complementary:
 
 ```text
 SuccessiveAttainment
-    → orders transition from one faculty to the next
+    → orders transition from one Faculty to the next
 
 DistinctPathFunction
-    → identifies what each faculty accomplishes
+    → identifies what each Faculty accomplishes
 ```
 
 The sequence must not be flattened into grammatical tense alone:
 
 ```text
-“I shall know” / knowledge / one who has known
+“I shall know” / Knowledge / one who has known
     ≠ merely future / present / past mental states
 
     = technically distinct path-capacities
       with distinct abandonment and attainment functions
 ```
 
-## 9. Interpretive Note
+## 9. Relation to Dhātu
 
-VAK 2.04 completes the enumeration of twenty-two faculties. The final three
-are not ordinary sensory or mental capacities added at the end of a list.
-They are composite path-faculties whose components and detailed constitution
-will require further analysis.
+VAK 2.04 completes the chapter's enumeration of twenty-two Faculties by
+distributing three path-related functions across its final three. The
+Bhāṣya's first account orders successive attainment and parinirvāṇa; its
+second distinguishes abandonment by seeing, abandonment by cultivation,
+and pleasant abiding in the present life. Neither account reduces the
+technical Faculty names to ordinary grammatical tenses.
 
-The first governs the acquisition of the second, and the second governs the
-acquisition of the third. The third does not govern another higher faculty;
-it governs parinirvāṇa, because parinirvāṇa is unavailable while mind remains
-unliberated. The sequence therefore terminates internally in the Kośa's own
-account of liberation.
+The project crosswalk with VAK 1.48 locates portions of the final three
+Faculties within the relevant Essence classification; this verse specifies
+their governing functions. The Principle and Faculty descriptions remain
+distinct determinations within the chapter's system.
 
-The Bhāṣya's second explanation keeps the stages practical. Direct seeing
-abandons one class of affliction; repeated cultivation abandons another;
-completed knowing makes possible the present experience of liberation's joy
-and happiness. In the Organon reading these are temporal determinations,
-not merely tenses or a universal biography. Knowledge is measured here by
-the transformation it governs, not by the accumulation of propositions.
-
-`Ājñātāvin`, “one who has known,” names completed attainment within this
-ordered path. The Kārikā's positive result is the succession of knowledge as
-task, cultivation, completion, liberated abiding, and parinirvāṇa.
-
-**Reciprocal return to Dhātu.** Dhātu 1.48 had assigned only portions
-of the final three Faculties to the Essence-Domain and placed the
-non-external Domains within Mind-Cognition's reach. Indriya 2.04
-returns to that map and shows the practical work of those path-related
-determinations: successive attainment, abandonment by seeing,
-abandonment by cultivation, and liberated abiding. The Dhātu map
-grounds where these powers belong; the Indriya sequence reconstructs
-that location as a path in operation.
-
-This verse sharpens the negation anticipated in 2.03. The earlier
-*viṣkambha* checks or suppresses afflictions; here *prahāṇa* names
-their abandonment through seeing and cultivation. In the Organon
-return, negation does not erase the Essence-Domain or the conditions
-of cognition. It transforms the relation to what was not yet known
-and to the afflictions subject to abandonment, reconstructing the
-Dhātu map as path-knowing within mind. The SDSL pattern to test
-against the larger Prajñā/GDSL/SDSL isomorphism is therefore
-determinate: not-yet-known, knowing, and having-known, each with
-its own governing operation. This structural correspondence does
-not make the three faculty names literal synonyms for Prajñā,
-Dharma, and Jñāna.
+The Kant-informed Techne reads the succession as an ordered relation among
+determinate capacities and operations, not as a simple chronology or as
+independent substances. The final Faculty's relation to liberated
+consciousness and parinirvāṇa belongs to the Bhāṣya's claim; broader
+accounts of the path must not be supplied by this short unit.
 
 ## 10. OWL++ Seed
 
@@ -229,11 +219,11 @@ vak:KnowledgeFaculty
     vak:governs vak:AbandonmentByCultivation .
 
 vak:FacultyOfOneWhoHasKnown
-    vak:requires vak:LiberatedMind ;
+    vak:requires vak:LiberatedConsciousness ;
     vak:governs vak:Parinirvana,
         vak:PleasantLiberatedAbiding .
 
-organon:KosaPathKnowledge
-    a organon:ConditionedTechne ;
+organon:IndriyaDetermination
+    organon:hasScope organon:PracticalCitta ;
     organon:culminatesIn vak:FacultyOfOneWhoHasKnown .
 ```

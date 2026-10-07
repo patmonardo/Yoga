@@ -5,7 +5,7 @@
 > pravṛtter āśrayotpattisthitipratyupabhogataḥ /
 > caturdaśa tathānyāni nivṛtter indriyāṇi vā // 2.06 //
 
-> Or, fourteen are faculties with respect to the support, arising,
+> Or, fourteen are Faculties with respect to the support, arising,
 > persistence, and experience of the ongoing course of existence;
 > likewise, the others are faculties with respect to withdrawal.
 
@@ -54,22 +54,22 @@ and *ayukataṃ* → *ayuktaṃ*. The split compound ending in
 is retained; its contextual construal is discussed below.
 No independent collation is claimed.
 
-## 3. Continuous Conventional Translation
+## 3. Scientific English Rendering
 
 The word “or” indicates a difference of opinion. Others say:
-the six faculties are the support of the ongoing course of existence.
-The female and male faculties account for its arising, because it
-arises from them. The life-faculty accounts for its persistence,
+the six Faculties are the support of the active course (*pravṛtti*).
+The Female and Male Faculties account for its arising, because it
+arises from them. The Life Faculty accounts for its persistence,
 because it continues through that faculty. Experience occurs through
 the feelings. These, therefore, are the fourteen faculties. In just
 the same manner, the others concern withdrawal. For those beginning
-with faith are the supports of withdrawal; the faculty called
+with confidence are the supports of withdrawal; the faculty called
 “I shall know” is its arising; the knowledge-faculty is its persistence;
 and its experience is through the faculty of one who has known.
 For this reason there are precisely this many faculties, and for
 this same reason they have this order.
 
-Speech, however, is not a faculty with respect to speaking, because
+Speech, however, is not a Faculty with respect to speaking, because
 speaking depends upon particular training. Nor are hand and foot
 faculties, because they are not different from taking hold and moving
 about. For that very thing, arisen in another manner or in another
@@ -112,9 +112,9 @@ and *nivṛtti*:
 
 | Function | Pravṛtti: fourteen | Nivṛtti: eight |
 |---|---|---|
-| Support | Six sensory and mental faculties | Five beginning with faith |
-| Arising | Female and male faculties | Faculty called “I shall know” |
-| Persistence | Life-faculty | Knowledge-faculty |
+| Support | Six sensory and Mind Faculties | Five beginning with confidence |
+| Arising | Female and Male Faculties | Faculty called “I shall know” |
+| Persistence | Life Faculty | Knowledge Faculty |
 | Experience | Five feelings | Faculty of one who has known |
 
 The first group totals six, two, one, and five; the second totals
@@ -122,7 +122,7 @@ five, one, one, and one. The conclusion concerns both number and
 order. The order is explained through the sequence of functions,
 not merely repeated as a received list.
 
-The text assigns the two sexual faculties to arising because
+The text assigns the Female and Male Faculties to arising because
 arising proceeds from them. It does not give a complete account
 of generation here. Likewise, life explains continued standing,
 while feeling supplies experience. In the second course, the five
@@ -183,7 +183,7 @@ different grounds rather than replace them with one formula.
 
 ## 8. The Bhāṣya's Decisions for Translation
 
-*Pravṛtti* is rendered “the ongoing course of existence,” and
+*Pravṛtti* is rendered “the active course,” and
 *nivṛtti* “withdrawal.” Their contextual range is given by the four
 functions and their faculty assignments. The latter rendering allows
 the path's support, arising, persistence, and experience to remain
@@ -205,61 +205,46 @@ The claim about *anukrama*, order, remains explicit. The final
 is unreasonable; it does not mean that speech and bodily action
 are unreal or impossible.
 
-## 9. Philosophical and Organon Study
+## 9. Interpretation
 
-**Organon extension—not a literal Bhāṣya doctrine:** Read as Transcendental Time Determinations of Śuddha Sattva, the paired courses disclose functional order rather than clock-time: the path has support, origination, persistence, and fruition, but its temporal form is not a universal biography. This interpretation preserves the Bhāṣya's alternative-account marker and its distinct faculty assignments; it does not attribute the Organon vocabulary to the commentary.
+The Bhāṣya explicitly marks the fourfold distribution as an
+alternative account (*matavikalpa*). It assigns support, arising,
+persistence, and experience to both *pravṛtti* and *nivṛtti*, with
+different Faculties and counts in each. This parallel arrangement
+explains the number and order of the twenty-two; it does not make
+the two courses identical or turn their functions into a chronology.
 
-The alternative account gives two different courses a common
-explanatory form: support, arising, persistence, and experience.
-Their respective faculties differ, yet their functional positions
-correspond. Withdrawal is thereby explained through determinate
-powers and their operation, rather than left as an unexplained
-absence of ongoing existence.
+The closing argument further limits faculty designation: a proposed
+activity or causal relation does not by itself establish an additional
+Faculty. The commentary gives distinct grounds for rejecting speech,
+hands and feet, excretion, and pleasure, then warns that an unrestricted
+criterion would classify every cause as a Faculty of its activity.
+These arguments remain specific to the examples and wording of this
+passage.
 
-**Reciprocal return to Dhātu:** Dhātu 1.48 maps the six Faculties
-supporting *pravṛtti* across the five internal sensory Domains and
-the seven Citta Domains, which map to one Mind-Faculty. Its two
-arising-faculties are parts of the Body-Domain. Life, the five
-Feelings, the five supports of *nivṛtti*, and portions of the final
-three path-knowledge Faculties occupy the mapped portion of the
-Essence-Domain. Indriya 2.06 returns to these loci by arranging the
-same twenty-two Faculties into two processes: fourteen for
-*pravṛtti*, eight for *nivṛtti*. Domain placement and functional
-course remain distinct but reciprocally intelligible.
+The project crosswalk with Dhātu 1.48 is reciprocal: Dhātu maps
+Faculty-status within the Base–Essence–Principle architecture; this
+account arranges the same Faculties by function across two courses.
+That is the Organon's comparative framework, not a statement that
+the Bhāṣya itself makes.
 
-For Organon reconstruction, this suggests studying transformation
-through what supports it, how it begins, what sustains it, and how
-its accomplishment is experienced. That reconstruction concerns
-the path and its faculties. It does not follow that nirvāṇa itself
-has the arising and persistence of a conditioned process.
+Across the Kośa, Vijñāna is Discriminative Cognition joining Perception
+and Conception without reducing their unity to one homogeneous
+operation; it governs Mind and guides the reading of Dharma Base. The
+same *avijñapti* remains one content in the Form Base and Dharma Base
+classifications, and Vijñāna bears a *prati* relation to it. This
+cross-chapter synthesis is an Organon framework, not a claim made by
+this Bhāṣya.
 
-In the project's framing, Hegelian Logic is Pure Theoretical Reason
-and the Kośa is Practical Reason. The Fichtean return negates the
-assumption that *pravṛtti* is the only organized course, then
-reconstructs Dhātu's Faculty-bearing loci as *nivṛtti*'s support,
-arising, persistence, and experience. The `vā` marks this as an
-alternative explanation; it must not be silently presented as the
-Bhāṣya's sole or final account. This is an Organon inference, not a
-claim made by the commentary.
+In a Kant-informed Techne reading, the four stated functions offer a
+rule for determining how this alternative account groups Faculties.
+This is a project-level interpretation, not terminology or philosophical
+attribution supplied by the source.
 
-The second movement supplies a complementary discipline: identifying
-a function is not enough to justify a new faculty. One must examine
-the proposed bearer's relation to the activity, the necessity claimed
-for it, and whether the explanation already lies elsewhere in the
-system. The commentary tests its own enumeration through such
-questions. Its specific arguments remain available for assessment,
-without being promoted into a universal proof of every classification.
+## 10. Textual and Scope Notes
 
-## 10. Review Status
-
-Provisional sixth study of the restarted Indriyanirdeśa Bhāṣya
-sequence. The research kārikā and Bhāṣya, existing Organon kārikā
-study, and running Sanskrit at 40.18–41.04 have been compared.
-The following research Bhāṣya confirms the boundary before the
-survey introducing VAK 2.07.
-
-The continuous translation includes the alternative arrangement,
-its explanation of number and order, and the full rebuttal of
-additional action-faculties. Mechanical repairs and the compressed
-hand-and-foot sentence are documented. Original witnesses and the
-existing kārikā study are preserved. This study ends before VAK 2.07.
+The unit includes the alternative arrangement, its explanation of
+number and order, and the full rebuttal of additional action-Faculties.
+Mechanical repairs and the compressed hand-and-foot sentence are
+documented above; no independent collation is claimed. The following
+survey introduces VAK 2.07 and is outside this unit.

@@ -51,7 +51,7 @@ Word division and sandhi presentation are editorial. The mechanical
 second-dhyāna question is retained without an explanatory expansion
 in the Sanskrit. No independent collation is claimed.
 
-## 3. Continuous Conventional Translation
+## 3. Scientific English Rendering
 
 “In the cases of pleasure and body, four.” One possessing the
 pleasure-faculty necessarily possesses four faculties: the three
@@ -74,10 +74,10 @@ feeling-faculties.
 “One possessing the female faculty and so forth, eight.” One
 possessing the female faculty necessarily possesses eight: those
 seven together with the female faculty. “And so forth” includes
-the male faculty, distress, and those beginning with faith. A
+the male faculty, distress, and those beginning with confidence. A
 possessor of any of these likewise possesses eight in each case:
 those seven with the male faculty as the eighth, and similarly
-with distress. One possessing a faculty beginning with faith,
+with distress. One possessing a faculty beginning with confidence,
 however, possesses those five together with neutral feeling,
 life, and mind.
 
@@ -144,8 +144,8 @@ of the previously specified seven plus the named faculty. This
 seven-member basis is body, life, mind, and the four feelings;
 it is a mixed set of seven faculties, not seven sensory faculties.
 
-The faith-group has a different composition. Possession of any
-one of faith, vigor, recollection, concentration, or prajñā entails
+The confidence-group has a different composition. Possession of any
+one of confidence, vigor, recollection, concentration, or prajñā entails
 possession of all five and the common triad. It therefore also
 counts eight without adding the seven-member pain-holder's set.
 The contrastive *tu* in the prose makes that difference visible.
@@ -164,16 +164,14 @@ and pain cases where several feeling-faculties are counted together.
 
 *Ādi* has locally specified ranges. After eye, the prose includes
 ear, nose, and tongue as parallel cases. After the female faculty,
-it includes male, distress, and the five beginning with faith.
+it includes male, distress, and the five beginning with confidence.
 The same abbreviation must not be expanded by one fixed list.
 
 The cross-verse *aṣṭābhiḥ* completes the final subject of VAK 2.18.
 Including its prose here avoids leaving “and so forth” undefined.
 The eleven- and thirteen-faculty cases remain for VAK 2.19.
 
-## 9. Philosophical and Organon Study
-
-**Organon extension—not a literal Bhāṣya doctrine:** Read as Transcendental Time, `samanvāgama` names acquired continuity across events, whereas current manifestation belongs to a particular occasion. Universal Cognition identifies the rule of necessary co-possession; the particular Ideas are the different minimum faculty-sets it yields. This extension preserves the commentary's distinction between possession, causal dependence, and present operation.
+## 9. Interpretation
 
 The passage makes possession relational: stating that one faculty
 is possessed can entail a determinate set of others. Those sets
@@ -184,36 +182,39 @@ what is presently manifest or meditatively attained.
 For Organon reconstruction, the count should therefore be accompanied
 by its members, its initiating condition, and the relation under
 which they are counted. Four for pleasure differs from four for
-body; eight for distress differs from eight for faith. A numerical
-summary alone would lose the determination.
+body; eight for distress differs from eight for the confidence-group.
+A numerical summary alone would lose the determination.
 
 This does not yet establish a causal account in which each member
 produces every other. Necessary co-possession and causal dependence
 are different claims. The Bhāṣya establishes the former here,
 with the second-dhyāna question clarifying its scope.
 
-**Return to Dhātu at VAK 1.48:** The five internal sensory Domains carry
-their corresponding Faculties, including the Body-Faculty; Female and Male
-Faculties occupy part of the Body-Domain. Life and all feeling Faculties
-are among those mapped to a portion of the Essence-Domain, while
-Mind-Faculty corresponds to the Citta Domains. The
-eye-holder's fivefold closure therefore connects a sensory Domain with
-Body, Essence, and Citta incidences. This is a relation of co-possession
-among distinct Faculty loci, not a collapse of Domains, an identity between
-Faculties, or a claim that all members are active together. In the Fichtean
-return, VAK 2.18 negates a merely static reading of the Dhātu map and
-reconstructs its placements as determinate dependency-closures, while
-preserving the difference between possession, activation, and causation.
+**Return to Dhātu at VAK 1.48.** Dhātu classifies Faculty relations
+within the Base–Essence–Principle architecture. VAK 2.18 specifies
+necessary co-possession among Faculties already classified there.
+For example, possession of Eye entails Body and the triad, without
+making their loci identical or claiming that all are active together.
+The crosswalk does not convert co-possession into causal production
+or replace the Dhātu map.
 
-## 10. Review Status
+The Kośa's governing synthesis: Vijñāna is Discriminative Cognition joining
+and governing Perception and Conception. Their unity is Inconceivable as a
+homogeneous operation; its Idea is disclosed in the Cognition Base. Vijñāna
+governs Mind and guides the reading of Dharma Base. *Avijñapti* is the
+bridge, one Dharma classified in both Form Base and Dharma Base; Vijñāna
+bears a *prati* relation to it.
 
-Provisional eighteenth study of the restarted Indriyanirdeśa Bhāṣya
-sequence. The research kārikā, research Bhāṣyas for VAK 2.18–2.19,
-existing Organon kārikā study, and running Sanskrit at 50.23–51.16
-have been compared.
+In a Kant-informed Techne reading, the initiating condition, required
+members, and possession relation remain explicit; cardinality alone
+does not identify the set. This project-level formalization does not
+turn co-possession into causation.
 
-The complete four-, five-, seven-, and eight-faculty cases are
-translated continuously. The second-dhyāna question and the distinct
-composition of the faith-group's eight are preserved. Original
-witnesses and existing kārikā studies are unchanged. VAK 2.19
-continues with the realization-faculty possession counts.
+## 10. Textual and Scope Notes
+
+This study covers the four-, five-, seven-, and eight-Faculty cases,
+including the second-dhyāna question and the distinct composition
+of the confidence-group's eight. The opening *aṣṭābhiḥ* of VAK 2.19
+completes the final subject; the eleven- and thirteen-Faculty cases
+remain for that study. The mechanical reading is noted above. No
+independent collation is claimed.

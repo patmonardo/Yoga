@@ -1,126 +1,92 @@
-# VAK_2.35 Bhāṣya — Formations Dissociated from Consciousness
+# VAK_2.35_bhasya
 
-## 1. Kārikā Anchor
+## 1. Text and Scope
 
-> viprayuktās tu saṃskārāḥ prāptyaprāptī sabhāgatā /
-> āsaṃjñikaṃ samāpattī jīvitaṃ lakṣaṇāni ca // 2.35 //
+This study covers the introductory Bhāṣya at 62.11–62.14. It lists the
+formations dissociated from consciousness and explains the class-name. The
+opening words of VAK 2.36 complete the catalogue; the detailed inquiry into
+acquisition and non-acquisition begins at 62.15 and belongs to VAK 2.36.
 
-> The dissociated formations are acquisition and non-acquisition,
-> commonality, the non-percipient condition, the two attainments,
-> life, and the marks.
+## 2. Lexical Analysis
 
-The opening words of VAK 2.36 complete this list with the groups
-of names and so forth. They are included in the present natural
-unit; the detailed inquiry into acquisition begins in the next study.
+| Pada | Morphology | Force in this passage |
+|---|---|---|
+| viprayukta | past passive participle | dissociated or not associated |
+| saṃskāra | masculine noun | conditioned formation |
+| prāpti | feminine noun | acquisition |
+| aprāpti | feminine noun | non-acquisition |
+| sabhāgatā | feminine abstract noun | commonality |
+| āsaṃjñika | neuter adjective/substantive | non-percipient condition |
+| samāpatti | feminine noun | attainment |
+| jīvita | neuter noun | life-continuity |
+| lakṣaṇa | neuter noun | conditioned mark |
+| nāmakāya | masculine compound | group of names |
+| rūpasvabhāva | compound | nature of Form |
+| citta | neuter noun | consciousness |
 
-## 2. Continuous Sanskrit
+## 3. Scientific English Rendering
 
-> viprayuktāstu saṃskārāḥ prāptyaprāptī sabhāgatā /
-> āsaṃjñikaṃ samāpattī jīvitaṃ lakṣaṇāni ca // 2.35 //
-> nāmakāyādayaśceti /
-> ime saṃskārā na cittena asaṃprayuktā naca rūpasvabhāvā iti cittaviprayuktāucyante /
+> “The formations dissociated from consciousness are acquisition and
+> non-acquisition, commonality, the non-percipient condition, the two
+> attainments, life-continuity, the conditioned marks, and groups of names
+> and so forth.” They are called formations dissociated from consciousness
+> because they are not associated with consciousness and are not of the
+> nature of Form.
 
-The unit occupies printed 62.11–62.14 in
-`Vasubandhu/Sources/kosabhasya.txt`. The verse number is regularized;
-the defective prose is retained. Its *na cittena asaṃprayuktā*
-literally introduces a double negation contrary to the class-name
-and its explanation. The translation contextually reads “not
-associated with consciousness,” treating the extra negative as
-a transcription defect. No independent collation is claimed.
-
-## 3. Continuous Conventional Translation
-
-“The dissociated formations are acquisition and non-acquisition,
-commonality, the non-percipient condition, the two attainments,
-life, the marks, and the groups of names and so forth.” These
-formations are called dissociated from consciousness because
-they are not associated with consciousness and do not have the
-nature of Form.
+The source transmits *na cittena asaṃprayuktā* in the explanation, whose
+double negative conflicts with the class-name. The rendering follows the
+context while leaving the witness unchanged.
 
 ## 4. Movement of the Commentary
 
-The list opens a new class after the completed analysis of
-consciousness and mental factors. Its continuation across the
-verse boundary belongs with the brief explanation of the class-name.
-No objection or school attribution appears in this introductory
-unit. The definitions of the members follow separately.
+The commentary makes a brief transition from the completed analysis of
+consciousness and associated mental factors to a new class of conditioned
+formations. It completes the catalogue across the verse boundary and marks
+two exclusions: these formations are not associated mental factors, and
+they are not Form.
 
-## 5. The Enumeration
+No objection, attribution, or independent-reality claim appears in this
+introductory passage. Those questions arise only as the successive members
+are examined.
 
-Acquisition and non-acquisition form a pair, and *samāpattī*
-explicitly names two attainments. The plural “marks” and “groups
-of names and so forth” likewise prevent the visible list of
-expressions from being treated as a count of single entities.
-The passage does not yet expand all these groups.
+## 5. Dissociation and Conditioned Status
 
-The non-percipient condition, *āsaṃjñika*, is named separately
-from the two attainments. The translation preserves that separation
-without importing their later definitions into this short introduction.
+The prior verse defined association through equality of Faculty-support,
+object-support, manner, time, and numerical instance. The present class is
+not associated in that technical sense. This does not entail that its
+members stand outside all causal relation to consciousness or to a sentient
+continuum.
 
-## 6. What “Dissociated” Specifies
+Likewise, not being Form does not make these formations unconditioned.
+They remain *saṃskāras*: conditioned formations. The category therefore
+distinguishes a third classificatory position without positing an occult
+region outside cognition.
 
-The preceding study explained technical association through five
-equalities. “Dissociated” here distinguishes these formations
-from associated consciousness and mental factors. It does not
-mean that they have no causal relations or that they cannot
-occur together with consciousness in any sense.
+## 6. Interpretation
 
-Their distinction from Form is also stated. Neither qualification
-makes them unconditioned: they remain *saṃskāras*, conditioned
-formations.
+The list prepares the Hub problem: the present consciousness-event cannot
+exhaust every determination governing an impure continuum. *Prāpti* and
+*aprāpti* name a status that may hold across events, distinguishing the
+present manifestation of a Dharma from the continuum's acquired or
+foreclosed capacity for it. The ensuing Bhāṣya tests precisely what grounds
+that status.
 
-## 7. The Status of the Introduction
+The Kośa-wide synthesis remains: Vijñāna is Discriminative Cognition joining
+and governing Perception and Conception. Their unity is Inconceivable as
+homogeneous operation, with its Idea disclosed in the Cognition Base.
+Vijñāna governs Mind and guides Dharma Base. Form Base and Dharma Base
+classify the same *avijñapti* differently, and Vijñāna bears a *prati*
+relation to it. The dissociated-formations class shows that the governing
+relation must also account for status and continuity beyond the factors
+associated with one manifest event.
 
-The passage identifies a class and gives its contrast with Form
-and associated mental dharmas. It does not yet establish the
-independent reality of each listed member by argument. That
-question must be read through the detailed discussions that
-follow, especially the inquiry into acquisition.
+The project-level Samyama synthesis understands ten Samyama-bhūmis as
+Path-related operation of mental factors, with Buddha Dharma as the
+eleventh Bhūmi. This catalogue does not enumerate or assign those levels.
 
-## 8. Translation and Boundary Decisions
+## 7. Review Status
 
-The anomalous double negation is not silently normalized in the
-Sanskrit. The English gives the contextually required sense and
-the note records the discrepancy so that later collation can
-settle its wording.
-
-The immediate research Bhāṣya continues into acquisition and
-its scope. This continuous edition instead places that entire
-inquiry with VAK 2.36, beginning at *tatra tāvat*, “Among these,
-first,” at 62.15. That keeps the introductory classification
-complete and the acquisition discussion together.
-
-## 9. Philosophical and Organon Study
-
-The classification distinguishes technical association from the
-broader relations in which a conditioned dharma may stand.
-For Organon interpretation, failure to belong to an associated
-mental event must not become absence of all relation to that
-event or its continuum.
-
-Within the Dharma Chakra, this verse is a differentiated moment in
-the turning, not a new hub or an isolated inventory. The Principle
-remains invariant while the verse distinguishes a conditioned formation
-from consciousness-association and from the nature of Form. Its opening
-`prāpti/aprāpti` polarity makes continuum-status an empirical relation
-that need not coincide with present manifestation.
-
-**Organon reading:** Acquisition/non-acquisition concerns whether a dharma
-stands in a relation of possession to the continuum, not whether it is
-manifest in this cognition. It therefore makes continuity across events
-thinkable without equating possession with clock-duration or asserting an
-independent entity. The list prepares a new inquiry; it does not yet justify
-a reconstruction of these formations as independent structural operators.
-The following argument, rather than this Organon gloss, must decide the
-ontological status.
-
-## 10. Review Status
-
-Provisional thirty-fifth study of the restarted Indriyanirdeśa
-Bhāṣya sequence. The research Bhāṣya, existing Organon kārikā
-study, and running Sanskrit at 62.11–62.17 have been compared.
-
-The complete introductory list and class explanation are translated.
-The defective negation and cross-verse continuation are explicit.
-Original witnesses and existing studies are unchanged. VAK 2.36
-begins at 62.15 with the definition and scope of acquisition.
+The kārikā and Bhāṣya have been compared with the source transcription at
+62.11–62.14. The complete cross-verse introductory catalogue, the
+class-name explanation, its contrast with association and Form, and the
+defective double negation are retained. The source witness is unchanged.

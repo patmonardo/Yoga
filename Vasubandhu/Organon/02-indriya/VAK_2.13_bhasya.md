@@ -40,7 +40,7 @@ The explicit closure *uktaḥ prakārabhedaḥ* is included. The next
 sentence, *lābha idānīṃ vaktavyaḥ*, introduces acquisition and is
 reserved for VAK 2.14.
 
-## 3. Continuous Conventional Translation
+## 3. Scientific English Rendering
 
 How many faculties are to be abandoned by seeing, how many by
 cultivation, and how many are not to be abandoned? “Mind and the
@@ -51,7 +51,7 @@ two ways”: distress is to be abandoned by both seeing and cultivation.
 Those beginning with the eye, with life as the eighth, together
 with the pain-faculty, are to be abandoned only by cultivation.
 “The five, however, may also be not to be abandoned”: the five
-beginning with faith are both to be abandoned by cultivation and
+beginning with confidence are both to be abandoned by cultivation and
 not to be abandoned, because they can be with outflows or without
 outflows. “The triad is not”: the three beginning with the faculty
 “I shall know” are not to be abandoned at all, because they are
@@ -78,7 +78,7 @@ it is not another name for the abandonment-status just established.
 | Mind, pleasure, gladness, neutral feeling | By seeing, by cultivation, or not to be abandoned | 4 |
 | Distress | By seeing or by cultivation | 1 |
 | Seven material faculties, life, pain | By cultivation only | 9 |
-| Five beginning with faith | By cultivation or not to be abandoned | 5 |
+| Five beginning with confidence | By cultivation or not to be abandoned | 5 |
 | Three realization faculties | Not to be abandoned | 3 |
 
 The counts sum to twenty-two. The threefold group includes three
@@ -95,7 +95,7 @@ between type and instance governs the other mixed-status groups.
 ## 6. Cultivation-Abandonable Does Not Mean Unwholesome
 
 The nine include material faculties and life, classified as ethically
-indeterminate in VAK 2.11. The five beginning with faith are wholesome,
+indeterminate in VAK 2.11. The five beginning with confidence are wholesome,
 yet their with-outflow instances are also cultivation-abandonable.
 The technical predicate therefore cannot simply mean “ethically bad.”
 
@@ -113,10 +113,10 @@ for the technical path-category of abandonment.
 
 ## 7. The Five and the Faultless Triad
 
-The five beginning with faith receive their two statuses because
+The five beginning with confidence receive their two statuses because
 they may be *sāsrava* or *anāsrava*. The sentence assigns cultivation-
 abandonability to the former and non-abandonability to the latter.
-It does not declare every occurrence of faith, vigor, recollection,
+It does not declare every occurrence of confidence, vigor, recollection,
 concentration, or prajñā something to be discarded.
 
 The realization triad differs: it is exclusively without outflows,
@@ -149,54 +149,39 @@ The verse's *durmanaskatā* is explained by *daurmanasya*, distress.
 These identifications fix the counts without importing an additional
 faculty or omitting pain from the nine.
 
-## 9. Philosophical and Organon Study
+## 9. Interpretation
 
-**Organon extension—not a literal Bhāṣya doctrine:** The path-operation is a Transcendental Time determination because it specifies how a faculty-instance stands toward transformation, not when it occurs on a clock. Universal Cognition names seeing, cultivation, or preservation as distinct operations; the particular Idea is the instance's outflow-status and faultlessness. This interpretation retains the Bhāṣya's distinction between a faculty's ethical quality and its abandonability.
+The Bhāṣya assigns abandonment-status to qualified instances rather
+than treating the Faculty-name as sufficient. It distinguishes seeing,
+cultivation, and non-abandonment, and makes outflow-status decisive
+for the five beginning with confidence. Its maxim, “what is faultless
+is not fit to be abandoned,” supplies the stated reason for preserving
+the realization-triad.
 
-The passage shows why practical classification must preserve the
-qualified determination under discussion. A faculty-name alone
-does not say whether seeing, cultivation, or non-abandonment applies.
-For the five beginning with faith, the commentary expressly makes
-outflow-status decisive.
+The project crosswalk with Dhātu 1.48 relates these path-statuses to
+the Base–Essence–Principle map without relocating Faculty-bearing
+loci. Ethical quality, outflow-status, and abandonment-status remain
+distinct classifications.
 
-For Organon reconstruction, this supports a disciplined distinction
-between identifying a power and determining its path-relation.
-One must not infer the rejection of a faculty-type from an abandonable
-instance, or infer the permanence of an event from its faultlessness.
-The classificatory relation has its own scope.
+Across the Kośa, Vijñāna is Discriminative Cognition joining Perception
+and Conception without reducing their unity to one homogeneous
+operation; it governs Mind and guides the reading of Dharma Base. The
+same *avijñapti* remains one content in the Form Base and Dharma Base
+classifications, and Vijñāna bears a *prati* relation to it. This
+cross-chapter synthesis is an Organon framework, not a claim made by
+this Bhāṣya.
 
-The closing maxim also gives a positive limit to abandonment:
-faultlessness is a reason not to abandon. That is the local
-principle established by the Bhāṣya. A broader account of preservation,
-transformation, or the mechanisms of abandonment would require
-further textual demonstration.
+In a Kant-informed Techne reading, Faculty-identity and path-relation
+are separate determinations; abandonment applies to the qualified
+instance and does not reject the Faculty-type itself. This is a
+project-level interpretation, not terminology or philosophical
+attribution supplied by the source.
 
-**Return to Dhātu at its last kārikā:** VAK 1.48's mapped incidence
-is the return point. The seven material Faculties and Life retain
-their mapped sensory, Body, and Essence-Domain loci while belonging
-to the cultivation-only group. Mind and the three feeling-Faculties
-are threefold in abandonment-status; Mind is mapped across the Citta
-Domains and the feelings to the Essence-Domain portion. The five
-beginning with Confidence and portions of the final three Faculties
-are also located in that Essence-Domain portion; outflow-status
-determines whether the former are abandoned or preserved, while the
-faultless triad is never abandoned.
+## 10. Textual and Scope Notes
 
-The return is Fichtean in the project's sense: negate the faulted
-instance, not its Faculty or Dhātu locus, then reconstruct the
-terminal Dhātu map as differentiated path-operations. VAK 2.13
-contributes the qualified distribution of abandonability.
-
-## 10. Review Status
-
-Provisional thirteenth study of the restarted Indriyanirdeśa Bhāṣya
-sequence. The research kārikā and Bhāṣya, existing Organon kārikā
-study, and running Sanskrit at 47.04–16 have been compared to
-establish the complete unit and its closing transition.
-
-The commentary is translated continuously as one paragraph. The
-five groups, outflow-based distinction, and maxim concerning the
-faultless are preserved. Abandonment-status is distinguished from
-ethical quality, ordinary cessation, and permanence. Original
-witnesses and the existing kārikā study remain unchanged. The
-next study begins with acquisition in VAK 2.14.
+The complete unit and closing transition are preserved, including
+the five groups, the outflow-based distinction, and the maxim
+concerning faultlessness. Abandonment-status remains distinct from
+ethical quality, ordinary cessation, and permanence. The next study
+begins with acquisition in VAK 2.14; no independent collation is
+claimed.

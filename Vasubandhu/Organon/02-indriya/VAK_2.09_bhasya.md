@@ -79,11 +79,11 @@ is read as *aśaikṣa* through the explicit prose. The source locator
 form *ājñātāvaḥ* and the reading *kṣayānutpādijñāna* are retained.
 No independent collation is claimed.
 
-## 3. Continuous Conventional Translation
+## 3. Scientific English Rendering
 
 “On the paths of seeing, cultivation, and no-more-training, the nine
-are the three.” The nine are mind, pleasure, gladness, neutral feeling,
-and the five beginning with faith. These nine faculties are called
+are the three.” The nine are Mind, pleasure, gladness, neutral feeling,
+and the five beginning with confidence. These nine Faculties are called
 three faculties on the three paths: on the path of seeing, the faculty
 “I shall know what has not been known”; on the path of cultivation,
 the knowledge-faculty; and on the path of no-more-training, the faculty
@@ -109,11 +109,11 @@ with outflows.” The seven material faculties, the life-faculty,
 and the faculties of pain and distress are exclusively with outflows.
 The seven material faculties are eye, ear, nose, tongue, body, female,
 and male, because they are included in the aggregate of form.
-“Nine are twofold”: mind, pleasure, gladness, neutral feeling, and
-the five beginning with faith are both with outflows and without
+“Nine are twofold”: Mind, pleasure, gladness, neutral feeling, and
+the five beginning with confidence are both with outflows and without
 outflows.
 
-Some say that those beginning with faith are exclusively without
+Some say that those beginning with confidence are exclusively without
 outflows. For the Blessed One said: “One in whom these five faculties
 are altogether absent I call an outsider, standing among ordinary
 persons.” This does not establish the claim, because the statement
@@ -127,7 +127,7 @@ says: “I call an outsider, standing among ordinary persons.”
 It is also said in a sūtra, before the Wheel of Dharma had been
 set in motion: “There are beings born in the world and grown up
 in the world with sharp faculties, middling faculties, and weak
-faculties.” Therefore those beginning with faith certainly do exist
+faculties.” Therefore those beginning with confidence certainly do exist
 with outflows. Again it is said: “So long as I had not known as they
 really are the arising, disappearance, gratification, danger, and
 escape concerning these five faculties, so long I … from this world
@@ -147,7 +147,7 @@ from explanation of own nature to distinctions of kind. The first
 axis is outflow-status.
 
 The initial classification is challenged by “some,” who restrict
-faith and the following four to the without-outflow class. The reply
+confidence and the following four to the without-outflow class. The reply
 first offers two contextual readings of their citation and then
 adds two scriptural grounds for admitting with-outflow instances.
 The *vā*, “or,” introducing the insider/outsider distinction marks
@@ -156,8 +156,8 @@ the first. No school is explicitly named in this unit.
 
 ## 5. Nine Faculty-Types and Three Path-Designations
 
-The nine comprise mind; three feeling-faculties, pleasure, gladness,
-and neutral feeling; and faith, vigor, recollection, concentration,
+The nine comprise Mind; three feeling-Faculties, pleasure, gladness,
+and neutral feeling; and confidence, vigor, recollection, concentration,
 and prajñā. The three realization names classify these in relation
 to seeing, cultivation, and no-more-training.
 
@@ -183,7 +183,7 @@ full knowledge, not loss of the ability to cognize it again.
 |---|---|---:|
 | Exclusively without outflows (*anāsrava*) | Three realization faculties | 3 |
 | Exclusively with outflows (*sāsrava*) | Seven material faculties, life, pain, distress | 10 |
-| Either status (*dvidhā*) | Mind, pleasure, gladness, neutral feeling, five beginning with faith | 9 |
+| Either status (*dvidhā*) | Mind, pleasure, gladness, neutral feeling, five beginning with confidence | 9 |
 
 The two occurrences of “nine” refer to the same list under different
 questions: its role in the path-designations and its possible
@@ -200,13 +200,13 @@ ethical quality, and the attainment of the bearer remain distinct
 questions. This passage does not classify conditioned versus
 unconditioned dharmas.
 
-## 7. Why Faith and the Others Are Not Exclusively Anāsrava
+## 7. Why Confidence and the Others Are Not Exclusively Anāsrava
 
 The opposing citation links absence of the five faculties to the
 status of an outsider. The first reply restricts its reference:
 in a discussion distinguishing noble persons, “these” can designate
 the without-outflow faculties specifically. Their absence need not
-exclude with-outflow faith and the others.
+exclude with-outflow confidence and the others.
 
 The alternative reply distinguishes ordinary persons with intact
 wholesome roots from those whose roots are severed. On that reading,
@@ -215,7 +215,7 @@ the quotation; each tests what its wording establishes in context.
 
 The subsequent citation describes differing faculties before the
 Wheel of Dharma was set in motion. The commentary takes this as
-evidence for with-outflow faculties beginning with faith. Finally,
+evidence for with-outflow Faculties beginning with confidence. Finally,
 it invokes examination of their arising, disappearance, gratification,
 danger, and escape, asserting that without-outflow dharmas are not
 examined in this manner. These are the text's arguments for its
@@ -241,58 +241,46 @@ quoted Sanskrit. This continuous translation instead marks the
 ellipsis and preserves exactly the argumentative content available
 in the local witness.
 
-## 9. Philosophical and Organon Study
+## 9. Interpretation
 
-**Organon extension—not a literal Bhāṣya doctrine:** The path-names can be read as Transcendental Time Determinations of Śuddha Sattva: prospective knowing, cultivated knowing, and completed knowing are universal cognitive forms, while their Ideas are the particular objects and tasks specified by the commentary. This reading preserves both the nine components' context-sensitive outflow-status and the triad's exclusive stainlessness; it does not claim that all components are simultaneous or that the Bhāṣya uses this vocabulary.
+The Bhāṣya distinguishes the nine Faculty-types from their three
+path-designations and from their outflow-status. The nine receive
+three designations according to the path-task; their type-membership
+does not establish that all nine occur simultaneously in every
+path-event. Separately, the triad is explicitly without outflows,
+while nine Faculty-types can occur with either status.
 
-The passage brings two relations into focus: a faculty-type can
-receive a path-designation through the task in which it operates,
-and that type can have different outflow-status across instances.
-Neither its bare name nor its membership in the nine settles every
-question about its occurrence.
+The debate over the five beginning with confidence is resolved through
+contextual readings of the cited statements and further scriptural
+evidence. The commentary concludes that these Faculties can occur
+with outflows; their names do not make every instance stainless.
+The two readings of the first quotation remain alternatives, as
+marked by *vā*, rather than parts of one combined argument.
 
-For Organon reconstruction, the important distinction is between
-constituent type, path-function, and qualification. The three
-realization faculties express a unity determined through the path;
-that unity preserves the differences among their constituent types.
-It should not be represented as a literal nine-part assembly that
-must be present in every moment.
+The project crosswalk with Dhātu 1.48 connects these functional
+classifications to the Base–Essence–Principle architecture while
+keeping their questions distinct. This is the Organon's framework,
+not a claim made by the Bhāṣya.
 
-The scriptural debate adds a methodological point: a statement's
-scope must be established before using it to classify all instances
-of a term. The commentary tests contextual reference and alternative
-construals before concluding that faith and the others can occur
-with outflows. This is a precise contribution to systematic study,
-without requiring an additional Organon doctrine to enter the translation.
+Across the Kośa, Vijñāna is Discriminative Cognition joining Perception
+and Conception without reducing their unity to one homogeneous
+operation; it governs Mind and guides the reading of Dharma Base. The
+same *avijñapti* remains one content in the Form Base and Dharma Base
+classifications, and Vijñāna bears a *prati* relation to it. This
+cross-chapter synthesis is an Organon framework, not a claim made by
+this Bhāṣya.
 
-**Reciprocal return to Dhātu:** Dhātu 1.48 locates Mind-Faculty across
-the Citta Domains, the five Faculties beginning with Confidence and
-the feeling-Faculties in a portion of the Essence-Domain, and portions
-of the final three realization-Faculties there as well. Indriya 2.09
-shows how those distinct loci are coordinated under the three path-tasks.
-The Dharma-Domain is decisive for the path Faculties, but the nine-
-component architecture is not confined to it.
+In a Kant-informed Techne reading, path-task, Faculty-type, and
+outflow-status are distinct criteria for classification. The source's
+scriptural debate further shows why contextual scope must be established
+before extending a statement to every instance. These are project-level
+interpretations, not terminology or philosophical attribution supplied
+by the commentary.
 
-The negation is also typed: the nine components' twofold outflow-status
-is not transferred to the triad as a whole. The same Faculty-types may
-operate with or without outflows, while their realized path-configuration
-is exclusively without outflows. Similarly, the five beginning with
-Confidence are not inherently stainless; the Bhāṣya argues that they
-also occur with outflows. On the project's Fichtean return, the path
-negates a fixed status assigned to a Faculty by name alone and
-reconstructs it through its Domain locus and actual task. The Bhāṣya
-does not identify this account with Sāṃkhya–Yoga or state that all
-its Faculties belong only to Dharmadhātu.
+## 10. Textual and Scope Notes
 
-## 10. Review Status
-
-Provisional ninth study of the restarted Indriyanirdeśa Bhāṣya
-sequence. The research kārikā and Bhāṣya, existing Organon kārikā
-study, and running Sanskrit at 42.07–43.07 have been compared.
-The complete debate after the verse is included.
-
-Mechanical repairs, unusual etymological wording, and the abbreviated
-final quotation are explicit. The nine faculty-types are distinguished
-from simultaneous occurrence, and the two alternative replies retain
-their separate force. Original witnesses and the existing kārikā
-study are preserved. The unit ends before VAK 2.10.
+The complete debate after the verse is included. Mechanical repairs,
+unusual etymological wording, and the abbreviated final quotation are
+recorded above; no independent collation is claimed. The two readings
+of the initial citation retain their alternative force. This unit ends
+before VAK 2.10.

@@ -15,7 +15,7 @@
 The research witness separates `trīṇi amalam`. Regular external sandhi could
 give `trīṇy amalam`; the witness and its analyzed forms are retained here.
 
-## 3. Padaccheda
+## 3. Lexical Analysis
 
 ```text
 dṛgbhāvanāśaikṣapathe
@@ -29,7 +29,7 @@ sāsravāṇi           → sa-āsravāṇi
 dvidhā nava         → dvidhā nava
 ```
 
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | dṛk | compound member from `dṛś` | seeing; expanded by the Bhāṣya as the path of seeing |
 | bhāvanā | compound member | cultivation; the path of cultivation |
@@ -114,13 +114,13 @@ The complete count is exact:
 = 22 faculties
 ```
 
-## 5. Translation
+## 5. Scientific English Rendering
 
-### Close syntactic construe
+### Kārikā
 
 > On the paths of seeing, cultivation, and no-more-training, the nine are the three [realization-faculties]; the triad is stainless. The material faculties, life, and the two painful faculties are with outflows; nine are twofold.
 
-### Bhāṣya-informed translation
+### Bhāṣya-informed rendering
 
 > The same nine faculties—mind, pleasure, gladness, neutral feeling, and the five beginning with confidence—constitute respectively the three realization-faculties when operating on the paths of seeing, cultivation, and no-more-training. This triad is exclusively without outflows. The seven material faculties, life, pain, and distress are exclusively with outflows. The remaining nine faculties can be either with or without outflows.
 
@@ -139,19 +139,28 @@ path of no-more-training
       through knowledge of exhaustion and non-arising
 ```
 
-## 6. Philosophical Translation
+## 6. Interpretation
 
-> A realization-faculty is not an isolated additional power. Nine distinct faculties acquire one collective path-identity through the task they perform together. On seeing, their unity initiates knowledge of what had not been known; in cultivation, it sustains that known truth while remaining latent afflictions are abandoned; at no-more-training, it secures the completion that what had to be known has been known and need not be known again.
+The Bhāṣya assigns the same nine Faculty-types to three path-designations
+according to the task specified for each: knowing what had not been known,
+continuing that knowing while abandoning remaining latent afflictions, and
+ascertaining its completion. This collective classification does not
+require that all nine be simultaneously present in every path-event.
+The triad is explicitly without outflows; the nine component types can be
+either with or without outflows. These are different levels of classification.
 
-Organon rendering:
+In the Kant-informed Techne, path-task and outflow-status are distinct
+criteria for determining a Faculty's classification. The project crosswalk
+with Dhātu 1.48 relates this functional organization to the Base–Essence–
+Principle map without replacing the textual categories. This is a
+project-level reading, not terminology supplied by the Bhāṣya.
 
-> The same nine Faculty-types receive three path-designations according to their task: knowing what was not known, cultivating that knowing, and having known. Dhātu 1.48 supplies their reciprocal placement: Mind-Faculty maps to the Citta Domains; the five path Faculties and three feelings among the nine occupy the Essence-Domain portion; portions of the three path-realization Faculties are also there. The path does not erase those Dhātu positions; it reconstructs their coordinated operation as a stainless path-configuration.
-
-This is an Organon reconstruction of the Bhāṣya's collective classification.
-It does not identify the triad with Buddha Mind or `śuddha-sattva` as a textual
-claim.
-
-**Transcendental Time determination (Organon, not translation):** Seeing, cultivation, and no-more-training name universal Cognitions as distinct path-determinations: knowing what had not been known, sustaining knowing while remaining latent afflictions are abandoned, and completed knowing. Their Ideas are the particular truths, residual `anuśayas`, exhaustion, and non-arising at issue in each task. The sequence is path-ordered, not a clock-time biography, and the nine faculty-types are not thereby asserted to co-occur in every path-event.
+Across the Kośa, Vijñāna is Discriminative Cognition joining Perception
+and Conception without reducing their unity to one homogeneous operation;
+it governs Mind and guides the reading of Dharma Base. The same
+*avijñapti* remains one content in the Form Base and Dharma Base
+classifications, and Vijñāna bears a *prati* relation to it. This wider
+synthesis frames, but is not stated in full by, this verse.
 
 ## 7. Technical Vocabulary
 
@@ -269,8 +278,6 @@ operation necessarily is.
 
 ## 9. Interpretive Note
 
-**Organon time-reading:** The three designations determine different temporal relations to knowing, while the same faculty-types can be organized under each task-context. The triad's stainless status belongs to these coordinated path-configurations; it is not inferred from a component's name alone. Thus the passage gives an ordered transformation of cognition without making `śuddha-sattva` a term of the Bhāṣya.
-
 VAK 2.09 begins a new classificatory phase. The chapter has defined the
 twenty-two faculties and completed the feeling subsystem. It now asks how
 those faculties are qualified by path and outflow-status.
@@ -291,11 +298,6 @@ no-more-training
     → secure exhaustion and non-arising as completed knowing
 ```
 
-This gives VAK 2.06's process-form a more exact Agent structure. Support,
-arising, persistence, and experience of withdrawal are not supplied by
-isolated modules. A coordinated set becomes a higher-order faculty through
-its task and stage.
-
 The second result is equally important. The nine components are `dvidhā`:
 they may occur with or without outflows. Yet their three realized collective
 configurations are necessarily without outflows. Purity is therefore not
@@ -309,43 +311,26 @@ and escape—a mode of examination not applied to exclusively without-outflow
 dharmas. A nominally purificatory capacity is not automatically pure in every
 deployment.
 
-Our `śuddha-sattva` or Buddha-Mind hypothesis can now be stated more exactly:
+**Reciprocal return to Dhātu.** Dhātu 1.48 maps Faculty-status within
+the Base–Essence–Principle architecture; VAK 2.09 regroups the same
+Faculty-types by path-task and outflow-status. These are different
+classificatory questions. The path classification does not erase the
+Dhātu relations or make all nine component-types identical in location.
 
-```text
-not:
-    a special pure substance replaces the ordinary faculties
+In the Kant-informed Techne, path-task and outflow-status serve as
+distinct criteria: the same nine Faculty-types receive path-designations
+according to what is being accomplished, while their instances may
+occur with either outflow-status. This is a source-bounded project
+interpretation, not an assertion of a new substance or a claim that
+the nine must occur simultaneously.
 
-but provisionally:
-    the same differentiable faculty architecture
-    is synthesized under a without-outflow path-task
-    as a stainless collective operation
-```
-
-That is an Organon hypothesis, not Vasubandhu's terminology. What the text
-establishes is already powerful: many twofold faculties can constitute one
-necessarily stainless path-faculty through coordinated operation.
-
-**Reciprocal return to Dhātu.** The Dhātu map makes this path synthesis
-non-flat. The nine components do not all occupy one Domain: Mind-Faculty
-maps across the seven Citta Domains, while eight of the components—the
-five beginning with Confidence and the three feeling-Faculties named here—
-belong to the mapped portion of the Essence-Domain. Dhātu 1.48 also places
-portions of the final three realization-Faculties there. Indriya 2.09
-returns to those distinct loci and shows how path-context coordinates them.
-The Dharmadhātu is therefore a decisive locus in this account, but not
-the sole Domain of the nine-component path architecture.
-
-**Determinate negation.** The path's stainlessness negates outflow-status
-at the level of the realized triad, not the identities of its component
-Faculties. The nine twofold Faculty-types may occur with or without
-outflows; under the three path-tasks, their coordinated determination is
-exclusively without outflows. Likewise, the Bhāṣya rejects the claim that
-the five beginning with Confidence are exclusively stainless: they can
-occur with outflows in ordinary persons. This is the Fichtean return in
-mind—negate the false isolation of a Faculty from its path-context, then
-reconstruct its status through the Dhātu locus and operative task. The
-verse does not name Sāṃkhya–Yoga or identify its Faculties as belonging
-only to Dharmadhātu.
+Across the Kośa, Vijñāna is Discriminative Cognition joining Perception
+and Conception without reducing their unity to one homogeneous operation;
+it governs Mind and guides the reading of Dharma Base. The same
+*avijñapti* remains one content in the Form Base and Dharma Base
+classifications, and Vijñāna bears a *prati* relation to it. This
+cross-chapter synthesis is an Organon framework, not a claim made
+by this verse.
 
 ## 10. OWL++ Seed
 

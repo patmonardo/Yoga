@@ -12,7 +12,7 @@
 >
 > strītvapuṃstvādhipatyāt tu kāyāt strīpuruṣendriye // 2.2 //
 
-## 3. Padaccheda
+## 3. Lexical Analysis
 
 ```text
 svārthopalabdhyādhipatyāt  → sva-artha-upalabdhi-ādhipatyāt
@@ -22,28 +22,28 @@ kāyāt                      → kāyāt
 strīpuruṣendriye           → strī-puruṣa-indriye
 ```
 
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
-| sva-artha | compound member | each sensory faculty's proper object-Domain |
+| sva-artha | compound member | each sensory Faculty's proper object |
 | upalabdhi | compound member, feminine abstract noun | apprehension; cognitive acquisition of an object |
 | ādhipatyāt | ablative neuter singular | because of governing efficacy |
-| sarvasya | genitive neuter singular | of everything; of every object-Domain |
-| ca | conjunction | and; adds mind's unrestricted object-range |
-| ṣaṭ | numeral | six: five sensory faculties and mind |
-| indriyam | nominative neuter singular, collective construction | faculty; each member of the sixfold group |
+| sarvasya | genitive neuter singular | of everything; of every object in range |
+| ca | conjunction | and; adds Mind's all-object range |
+| ṣaṭ | numeral | six: five sensory Faculties and Mind |
+| indriyam | nominative neuter singular, collective construction | Faculty; each member of the sixfold group |
 | strītva | compound member | female-being or female configuration |
 | puṃstva | compound member | male-being or male configuration |
 | tu | contrastive particle | but; introduces a different kind of governing function |
-| kāyāt | ablative masculine singular | from or within the body-faculty |
-| strī-puruṣa-indriye | nominative neuter dual | female and male faculties |
+| kāyāt | ablative masculine singular | from or within the Body Faculty |
+| strī-puruṣa-indriye | nominative neuter dual | Female and Male Faculties |
 
-The Bhāṣya determines the force of `kāyāt`: the two faculties are separately
-established within the body-faculty, not substantially different entities
+The Bhāṣya determines the force of `kāyāt`: the two Faculties are separately
+established within the Body Faculty, not substantially different entities
 standing outside it.
 
 ## 4. Grammar
 
-The first ablative compound states the reason for faculty-status:
+The first ablative compound states the reason for status as a Faculty:
 
 ```text
 sva-artha-upalabdhi-ādhipatyāt
@@ -53,70 +53,79 @@ sva-artha-upalabdhi-ādhipatyāt
 It applies distributively to the first five:
 
 ```text
-eye      → visible form
+Eye      → visible Form
 ear      → sound
 nose     → smell
 tongue   → taste
 body     → tangible object
 ```
 
-`Sarvasya ca` supplies the distinctive range of the sixth faculty:
+`Sarvasya ca` supplies the distinctive range of the sixth Faculty:
 
 ```text
-manas
+Mind
     → governing efficacy in apprehending every kind of object
 ```
 
 The second line supplies an analogous ablative of cause for two functionally
-distinguished portions of the body-faculty:
+distinguished portions of the Body Faculty:
 
 ```text
 strī-tva-puṃs-tva-ādhipatyāt
     because of governing female-being and male-being
 
 kāyāt strī-puruṣa-indriye
-    the female and male faculties are established from the body-faculty
+    the Female and Male Faculties are established from the Body Faculty
 ```
 
 `Kāyāt` must therefore not be translated as a claim that the two are
-substances separate “from the body.” Their separate names follow from their
+substances separate from the Body Faculty. Their separate names follow from their
 specific governing functions.
 
-## 5. Translation
+## 5. Scientific English Rendering
 
-### Close syntactic construe
+### Kārikā
 
-> Because of governing efficacy in apprehending their own objects—and [for mind] everything—the six are faculties. But because of governing female-being and male-being, the female and male faculties are [separately established] from the body-faculty.
+> Because of governing efficacy in apprehending their own objects—and, for Mind, everything—the six are Faculties. But because of governing female-being and male-being, the Female and Male Faculties are [separately established] from the Body Faculty.
 
-### Bhāṣya-informed translation
+### Bhāṣya-informed rendering
 
-> Each of the first five is a faculty because it governs apprehension of its own sensory object-Domain, while mind is a faculty because it governs apprehension of every kind of object. The female and male faculties are not substances distinct from the body-faculty; they are portions of it separately designated because they govern female and male embodied configuration.
+> Each of the first five is a Faculty because it governs apprehension of its own sensory object, while Mind is a Faculty because it governs apprehension across the full range of objects. The Female and Male Faculties are not substances distinct from the Body Faculty; they are portions of it separately designated because they govern female and male embodied configuration.
 
-## 6. Philosophical Translation
+## 6. Interpretation
 
-> Governing efficacy is more than causal contribution. A faculty governs apprehension where it supplies the common operative capacity across an entire object-field and where changes in that capacity yield corresponding changes in apprehension. The sensory object determines the particular content; the sensory faculty determines the conditioned power and mode of its apprehension. Likewise, a bodily part receives a distinct faculty-name not through substantial independence but through governance of a wider embodied configuration.
+The commentary distinguishes a condition of apprehension from its governing
+Faculty. A sensory object contributes its particular content; the Faculty
+provides a common operative capacity across that sensory range, and
+apprehension varies with the Faculty's condition. Causal contribution alone
+does not establish governing efficacy. In the sensory schema, the object
+functions as a cognitive Condition, distinct from an achieved Object.
 
-Organon rendering:
-
-> Read with Dhātu 1.45 and 1.48, the object-Domain is the shareable *ālambana* and gives the particular Idea; the Faculty-Domain is the specific *āśraya* whose variation governs universal Cognitions. The five sensory Faculties govern their proper fields, while Mind governs apprehension across them all. Female and Male Faculties are not separate substances: as portions of the Body-Domain, they govern a distributed embodied configuration. These are Transcendental Time Determinations of Śuddha Sattva, not matching entries in two inventories.
+In the Kant-informed Techne, the Faculty/object distinction marks different
+conditions within one relation of apprehension; it does not turn either
+condition into an independent substance. Mind's wider range does not erase
+the distinct sensory fields. The Female and Male Faculties likewise remain
+portions of the Body Faculty while governing a wider embodied configuration.
+This is a project-level interpretation, not a claim that the Bhāṣya names
+Kant or supplies a contemporary theory of sexed embodiment.
 
 ## 7. Technical Vocabulary
 
 | Sanskrit | Project rendering | Determination |
 |---|---|---|
-| svārtha | proper object | Domain specifically correlated with one sensory faculty |
-| upalabdhi | apprehension | cognitive acquisition or disclosure of an object |
-| svārthopalabdhi | apprehension of its proper object | governed by each of the five sensory faculties |
-| sarvārthopalabdhi | apprehension of all objects | Bhāṣya expansion of mind's function |
-| ādhipatya | governing efficacy | predominant causal command, not mere causal contribution |
-| adhika-prabhutva | superior power of command | Bhāṣya's refinement of `ādhipatya` |
-| sāmānya-kāraṇatva | being the common cause | faculty's presence throughout its cognitive field |
-| anuvidhāna | conformity | apprehension varies according to the faculty's condition |
-| manaindriya | mind-faculty | governs apprehension across all object-Domains |
-| kāyendriya-bhāga | portion of the body-faculty | ontological location of the female or male faculty |
-| strītva | female-being / female configuration | distributed embodied determination governed by the female faculty |
-| puṃstva | male-being / male configuration | distributed embodied determination governed by the male faculty |
-| ākṛti | bodily form | one aspect of the sexed configuration |
+| svārtha | proper object | object specifically correlated with one sensory Faculty |
+| upalabdhi | apprehension | apprehending or taking up an object |
+| svārthopalabdhi | apprehension of its proper object | governed by each of the five sensory Faculties |
+| sarvārthopalabdhi | apprehension of all objects | Bhāṣya expansion of Mind's function |
+| ādhipatya | governing efficacy | predominant governance, not mere causal contribution |
+| adhika-prabhutva | superior governing efficacy | Bhāṣya's refinement of `ādhipatya` |
+| sāmānya-kāraṇatva | being a common cause | Faculty's common role across its apprehension range |
+| anuvidhāna | conformity | apprehension varies according to the Faculty's condition |
+| manaindriya | Mind Faculty | governs apprehension across the full object range |
+| kāyendriya-bhāga | portion of the Body Faculty | bearer designated as Female or Male Faculty |
+| strītva | female-being / Female configuration | embodied determination governed by the Female Faculty |
+| puṃstva | male-being / Male configuration | embodied determination governed by the Male Faculty |
+| ākṛti | bodily configuration | one aspect of the sexed configuration |
 | svara | voice | one aspect of the sexed configuration |
 | ceṣṭā | conduct / expressive movement | one aspect of the sexed configuration |
 | abhiprāya | intention / orientation | one aspect of the sexed configuration |
@@ -127,7 +136,7 @@ The objection distinguishes proximate governance from remote consequence:
 
 ```text
 Faculty
-    → KnowledgeEvent
+    → CognitionEvent
     → Recognition
     → Response
     → AvoidanceOfDanger
@@ -136,14 +145,14 @@ RemoteConsequence(AvoidanceOfDanger)
     ↛ DefiningFunction(SensoryFaculty)
 ```
 
-It also rejects the duplication of seeing and knowledge:
+It also rejects the duplication of seeing and Cognition:
 
 ```text
 SeeingVisibleForm
-    ≠ an operation separate from VisualKnowledge
+    ≠ an operation separate from VisualCognition
 
 HearingSound
-    ≠ an operation separate from AuditoryKnowledge
+    ≠ an operation separate from AuditoryCognition
 ```
 
 The refined governance test is:
@@ -156,7 +165,7 @@ Governs(Faculty, ApprehensionField)
     ∧ Determines(Faculty, CapacityAndModeOfApprehension)
 ```
 
-Both faculty and object are causal conditions, but their roles differ:
+Both Faculty and object are causal conditions, but their roles differ:
 
 ```text
 Object
@@ -173,9 +182,9 @@ The first six are distributed by range:
 
 ```text
 For each f in SensoryFive:
-    Governs(f, ApprehensionOf(ProperObjectDomain(f)))
+    Governs(f, ApprehensionOf(ProperObject(f)))
 
-Governs(MindFaculty, ApprehensionOf(AllObjectDomains))
+Governs(MindFaculty, ApprehensionOf(AllObjects))
 ```
 
 The bodily distinction is functional without substantial multiplication:
@@ -193,50 +202,41 @@ SeparateFacultyDesignation(x)
 
 This is a logical determination inside the Kośa's Techne.
 
-## 9. Interpretive Note
+## 9. Interpretation
 
-VAK 2.02 revises the opening account rather than merely filling it in. An
-objector denies that preservation from danger directly establishes the eye
-and ear as faculties: avoidance occurs only after knowledge, recognition,
-and response. The objector also refuses to count “seeing” and visual
-knowledge as separate operations. The definition must identify the
-faculty's proximate and distinctive function.
+VAK 2.02 tests the opening account by distinguishing a remote consequence
+from a Faculty's governing function, then distinguishing the Faculty's
+common role from the object's contribution to particular apprehension.
+The reply is comparative, not exclusive causation: both are conditions,
+but only the Faculty has the described governing efficacy. The sensory
+Faculties govern apprehension of their proper objects; Mind's range extends
+across the objects considered by the Kośa. “All” does not mean that one
+mental Cognition apprehends everything simultaneously.
 
-The result is `svārthopalabdhyādhipatya`: predominant command over the
-apprehension of a proper object. Visible form is necessary for seeing, but it
-does not govern visual capacity as the eye does. The eye persists as a common
-condition across visual apprehensions, and visual knowledge becomes sharp,
-dull, impaired, or otherwise modified in conformity with the eye. This
-directly deepens VAK 1.45's distinction between specific faculty-support and
-shareable object-support.
+The Female and Male Faculties are separately designated portions of the
+Body Faculty, not independent substances. Their broader bodily
+configuration is the Bhāṣya's historical account, not a contemporary
+biological or psychological theory.
 
-Mind has the same functional form with a different range. Each sensory
-faculty governs one proper field; mind governs apprehension of all object-
-Domains. “All” identifies the complete object-range available to conditioned
-mental apprehension within the Kośa system.
+**Kant-informed Techne.** The analysis asks which distinct condition
+accounts for the common capacity and mode of apprehension, rather than
+treating every cause as a governing Faculty. The object contributes
+particular content; the Faculty's condition governs the mode of
+apprehension. This is a project-level interpretation of the text's
+distinction, not terminology attributed to the Bhāṣya.
 
-The second half demonstrates why the twenty-two-faculty system cannot be an
-inventory of separate organs or substances. Female and male faculties are
-parts of the body-faculty. They receive distinct names because a localized
-bodily determination governs a broader configuration involving form, voice,
-conduct, and orientation. The account should be preserved as the historical
-Kośa classification; it should not be silently converted into a contemporary
-biological, psychological, or ethical theory.
+Across the Kośa, Vijñāna is Discriminative Cognition joining Perception and
+Conception without reducing their unity to one homogeneous operation; it
+governs Mind and guides the reading of Dharma Base. The same *avijñapti*
+remains one content in the Form Base and Dharma Base classifications, and
+Vijñāna bears a *prati* relation to it. This wider synthesis frames, but
+is not stated in full by, this verse.
 
-**Reciprocal inference:** Dhātu supplies both a specific support-locus
-and a shareable object-field; Indriya distinguishes their governing
-roles. A change in the Faculty conditions a corresponding change in
-Cognition, while the object-field can be shared across several
-Cognitions without itself becoming a Faculty. Mind's *sarvārtha*
-extends the governing range across Domains but does not erase their
-distinctness. In the embodied case, a part of the Body-Domain governs
-a wider configuration without becoming a separate substance.
-
-The resulting feature has typed positions—Faculty support, object-field,
-governing operation, and particular Idea. Its structure can be preserved
-across Prajñā, GDSL, and SDSL without imposing an itemwise bijection
-between Domains and Faculties. This Organon inference extends the
-Bhāṣya's argument; it does not replace its conventional translation.
+In the Techne, Citta is Universal, the Base–Essence–Principle schema is
+Particular, and Buddha Mind is Singular as the actual executing instance.
+Indriyanirdeśa is a practical instance of Citta, not a general theory of
+Mind. Dhātu (Principle) and Indriya (Faculty) remain reciprocal but
+non-interchangeable determinations.
 
 ## 10. OWL++ Seed
 
@@ -256,13 +256,13 @@ vak:SensoryFaculty
     vak:determines vak:ApprehensiveCapacity,
         vak:ApprehensiveMode .
 
-vak:ObjectDomain
+vak:ObjectCondition
     vak:supplies vak:ParticularApprehendedContent ;
     vak:notByMereCausality vak:Indriya .
 
 vak:MindFaculty
     vak:governs vak:AllObjectApprehension ;
-    vak:hasScope vak:ConditionedDharmaKnowing .
+    vak:hasScope vak:ConditionedCognition .
 
 vak:FemaleFaculty
     vak:partOf vak:BodyFaculty ;
@@ -272,6 +272,6 @@ vak:MaleFaculty
     vak:partOf vak:BodyFaculty ;
     vak:governs vak:MaleConfiguration .
 
-organon:KosaIndriyaTechne
-    organon:operatesWithin organon:OrdinarySeerSeen .
+organon:IndriyaDetermination
+    organon:hasScope organon:PracticalCitta .
 ```

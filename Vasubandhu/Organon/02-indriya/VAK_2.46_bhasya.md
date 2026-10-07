@@ -1,514 +1,458 @@
-# VAK_2.46 Bhāṣya — The Conditioned Marks and Their Disputed Reality
+# VAK 2.46 Bhāṣya — What the Marks Explain
 
-## 1. Kārikā Anchor
+## 1. Scope and Textual Position
 
-> jātijātyādayas teṣāṃ te 'ṣṭadharmaikavṛttayaḥ /
-> janyasya janikā jātir na hetupratyayair vinā // 2.46 //
+This study follows the marks discussion from printed 75.19 through
+80.11, ending with *uktāni lakṣaṇāni*, “the marks have been explained.”
+The source's sequence crosses the verse boundary: the first half of
+VAK 2.46 is cited at 76.11 and 76.15; its second half is cited at 79.18.
+The preceding life-continuum discussion ends at 75.18. The opening
+four-mark exposition is shared context for VAK 2.45, whose study treats
+the life-continuum and the four conditioned marks as they are first
+introduced.
 
-> Arising-of-arising and the others belong to those marks;
-> the principal and subsidiary marks operate on eight dharmas
-> and on one respectively. Arising generates what is to be
-> generated, not without causes and conditions.
+The excerpt is from the running transcription in
+`Vasubandhu/Sources/kosabhasya.txt`. Its transcription damage is retained
+there; consequential ambiguities are noted below. This study does not
+claim an independent collation.
 
-The VAK 2.46 stanza is split across the discussion: its first half
-is cited at 76.11 and 76.15, within the four-mark commentary on
-VAK 2.45; its second half is cited at 79.18. The source excerpt
-opens at 75.19 with the complete four-mark discussion as an
-intentional contextual overlap, also included in the VAK 2.45 pair.
+## 2. Continuous Scientific Translation
 
-## 2. Continuous Sanskrit
+“Arising, persistence, aging, and impermanence” are the four marks of
+the conditioned. The conditioned is a Dharma in which these occur; the
+unconditioned is the reverse. Arising generates it, persistence sustains
+it, aging ages it, and impermanence destroys it.
 
-> lakṣaṇāni punarjātirjarā sthitiranityatā // 2.45 //
-> etāni hi saṃskṛtasya catvāri lakṣaṇāni /
-> yatraitāni bhavanti sa dharmaḥ saṃskṛto lakṣyate /
-> viparyayādasaṃskṛtaḥ /
-> tatra jātistaṃ dharmaṃ janayati sthitiḥ sthapayati jarā jarayati anityatā vināśayati /
-> nanu "trīṇimāni saṃskṛta lakṣaṇānī"ti sūtra uktam /
-> caturthamapyatra vaktavyaṃ syāt /
-> kiṃ cātra noktam /
-> āha /
-> sthitiḥ /
-> yattarhi "idaṃ sthityanyathātvami"ti /
-> jarāyā eṣa paryāyastadyathā jāterutpāda ityanityatāyāśca vyaya iti /
-> ye hi dharmāḥ saṃskārāṇāmadhvasaṃcārāya pravṛttāsta eva sūtre lakṣaṇānyuktānyudvejanārtham /
-> jātirhi yā saṃskārānanāgatādadhvanaḥ pratyutpannamadhvānaṃ saṃcārayati /
-> jarā 'nityate punaḥ pratyutpannādatītaṃ durbalīkṛtya pratighātāt /
-> tadyathā kila gahanapraviṣṭasya puruṣasya trayaḥ śatravaḥ /
-> tata eka enaṃ gahanādākarṣet dvau punarjīvitādvacyaparopayetāṃ tadvaditi /
-> sthitistu tān saṃskārānupaguhya tiṣṭhatyaviyogamivecchantī /
-> ato 'sau saṃskṛtalakṣaṇaṃ na vyavasthāpitā /
-> asaṃskṛtasyāpi ca svalakṣaṇe sthitibhāvāt /
-> anye punaḥ kalpayanti sthitiṃ jarāṃ cābhisamasya sthityanyathātvamityekaṃ lakṣaṇamuktaṃ sūtre /
-> kiṃ prayojanam /
-> eṣā hyeṣu saṅgāspadamataḥ śriyamivaināṃ kālakarṇīsahitāṃ darśayāmāsa tasyāmanāsaṅgārthamiti /
-> ataścatvāryeva saṃskṛta lakṣaṇāni /
-> teṣāmapi nāma jātyādīnāṃ saṃskṛtatvādanyairjātyādibhirbhavitavyam /
-> bhavantyeva /
-> jātijātyādayasteṣāṃ
-> teṣāmapi catvāryanulakṣaṇāni bhavanti /
-> jātijātiḥ sthitisthitiḥ jarājarā anityatā 'nityatā iti /
-> nanu caikasyaikasya caturlakṣaṇī prāpnoti aparyavasānadoṣaśca /
-> teṣāṃ punaranyajātyādiprasaṅgāt /
-> na prāpnoti /
-> yasmāt /
-> te 'ṣṭadharmaikavṛttayaḥ /
-> teṣāṃ jātyādīnāmaṣṭāsu dharmeṣu vṛttiḥ /
-> kimidaṃ vṛttiriti /
-> kāritraṃ puruṣakāraḥ /
-> jātijātyādīnāṃ caikatra dharme kathaṃ kṛtvā ātmanā navamo hi dharma utpadyate /
-> sārdhaṃ lakṣaṇānulakṣaṇairaṣṭābhiḥ /
-> tatra jātirātmānaṃ virahayyānyānaṣṭau dharmān janayati /
-> jātijātiḥ puna stāmeva jātim /
-> tadyathā kila kācit kukkuṭī bahūnya patyāni prajāyate kācidalpāni /
-> tadvat sthitirapyātmānaṃ varjayitvā 'nyānaṣṭau dharmān sthāpayati sthitisthitistu tāmeva sthitim /
-> evaṃ jarā 'nityate api yathāyogyaṃ yajye /
-> tasmānā bhavatyanavasthāprasaṅgaḥ /
-> tadetadākāśaṃ pāṭyata iti sautrāntikāḥ /
-> nahyete jātyādayo dharmā dravyataḥ saṃvidyante yathā 'bhivyajyante /
-> kiṃ kāraṇam /
-> pramāṇābhāvāt /
-> nahyeṣāṃ dravyato 'stitve kiñcidapi pramāṇamasti pratyakṣamanumānamāptāgamo vā yathā rūpādīnāṃ dharmāṇāmiti /
-> yattarhi sūtra uktaṃ "saṃskṛtasyotpādo 'pi prajñāyate vyayo 'pi sthityanyathātvamapī" ti /
-> granthajño devānāṃ priyo natvarthajñaḥ /
-> arthaśca pratiśaraṇa muktaṃ bhagavatā /
-> kaḥ punarasyārthaḥ /
-> avidyāndhā hi bālāḥ saṃskārapravāhamātmāta ātmīyataścādhimuktā abhiṣvajante /
-> tasya mithyādhimokṣasya vyāvarttanārthaṃ bhagavāṃstasya saṃskārapravāhasyasaṃskṛtatvaṃ pratītyasamutpannatāṃ dyotayitukāma idamāha "triṇīmāni saṃskṛtasya saṃskṛtalakṣaṇāni" /
-> na tu kṣaṇasya /
-> nahi kṣaṇasyotpādādayaḥ prajñāyante /
-> nacāprajñāyamānā ete lakṣaṇaṃ bhavitumarhanti /
-> atha evātra sūtre "saṃskṛtasyotpādo 'pi prajñāyata" ityuktam /
-> punaḥ saṃskṛtagrahaṇaṃ saṃskṛtatve lakṣaṇānīti yathā vijñāye ta /
-> maivaṃ vijñāyi saṃskṛtasya vastuno 'stitve lakṣaṇāni jalavalākāvat sādhvasādutve vā kanyālakṣaṇavaditi /
-> tatra pravāhasyādirutpādo nivṛttirvyayaḥ /
-> sa eva pravāho 'nuvarttamānaḥ sthitiḥ /
-> tasya pūrvāparaviśeṣaḥ sthityanyathātvam /
-> evaṃ ca kṛtvoktaṃ "viditā eva nandasya kulaputrasya vedanā utpadyante viditā ava tiṣṭhante viditā astaṃ parikṣayaṃ paryādānaṃ gacchantī"ti /
-> āha cātra
-> "jātirādiḥ pravāhasya vyayaśchedaḥ sthitistu saḥ /
-> sthityanyathātvaṃ tasyaiva pūrvāparaviśiṣṭatā //"
-> "jātirapūrvo bhāvaṃ sthitiḥ prabandho vyayastaducchedaḥ /
-> sthityanyathātvamiṣṭaṃ prabandhapūrvāparaviśeṣa" iti //
-> "kṣaṇikasya hi dharmasya vinā sthityā vyayo bhavet /
-> na ca vyetyeva tenāsya vṛthā tatparikalpanā //"
-> tasmāt pravāha eva sthitiḥ /
-> evaṃ ca kṛtvā 'yamapyabhidharmanirdeśa upapannno bhavati /
-> "sthitiḥ katamā /
-> utpannānāṃ saṃskārāṇāmavināśa" iti /
-> nahi kṣaṇasyotpannasyāvināśo 'stīti /
-> yadapi ca jñānaprasthāna uktam "ekasmiṃścitte ka utpādaḥ /
-> āha /
-> jātiḥ /
-> ko vyayo maraṇam /
-> kiṃ sthityanyathātvaṃ jare"ti /
-> tatrāpi nikāyasabhāgacittaṃ yujyate /
-> pratikṣaṇaṃ cāpi saṃskṛtasyaitāni lakṣaṇāni yujyante vinā 'pi dravyāntarakalpanayā /
-> kathamiti /
-> pratikṣaṇamabhūtvābhāva utpādaḥ /
-> bhūtvā 'bhāvo vyayaḥ /
-> pūrvasya pūrvasyottarakṣaṇānuvandhaḥ sthitiḥ /
-> tasyāvisdṛśatvaṃ sthityanyathātvamiti /
-> yadā tarhi sadṛśā utpadyante /
-> na te nirviśeṣā bhavanti /
-> kathamidaṃ jñāyate /
-> kṣiptākṣiptabalidurbalakṣiptasya vajrādeścirāśutarapātakālabhedāttanmahābhūtānāṃ pariṇāmaviśeṣasiddheḥ /
-> nātivahuviśeṣabhinnāstu saṃskārāḥ satyapyanyathātve sadṛśā eva dṛśyante /
-> antimasya tarhi śabdārciḥkṣaṇasya parinirvāṇakāle ca ṣaḍāyatanasyottarakṣaṇābhāvāt sthityahnyanyathātvaṃ nāstītyavyāpinī lakṣaṇavyavasthā prāpnoti /
-> na vai saṃskṛtasya sthitirevocyate /
-> lakṣaṇamapi tu sthityanyathātvam /
-> ato yasyāsti sthitistasyāvaśyamanyathātvaṃ bhavatīti nāsti lakṣaṇavyavasthābhedaḥ /
-> samāsatastvatra sūtre saṃskṛtasyedaṃ lakṣaṇamiti dyotitaṃ bhagavatā "saṃskṛtaṃ nāma yadbhūtavā bhavati bhūtvā ca punarna bhavati yaścāsya sthitisaṃjñakaḥ prabandhaḥ so 'nyathā cānyathā ca bhavatī"ti /
-> kim atra dravyāntarair jātyādibhiḥ katham idānīṃ sa eva dharmo lakṣyas tasyaiva lakṣaṇaṃ yokṣyate /
-> kathaṃ tāvan mahāpuruṣalakṣaṇāni mahāpuruṣān nānyāni sāsnā-lāṅgūla-kakuda-śapha-viṣāṇādīni ca gotvalakṣaṇāni gor nānyāni kāṭhinyādīni ca pṛthivīdhātvādīnāṃ lakṣaṇāni tebhyo nānyāni /
-> yathā codhrvagamanena dūrāddhūmasya dhūmatvaṃ lakṣyate naca tattasmādanyat /
-> sa evātra nyāyaḥ syāt /
-> naca saṃskṛtānāṃ rūpādīnāṃ tāvat saṃskṛtatvaṃ lakṣyate /
-> gṛhṇatāpi svabhāvaṃ yāvat prāgabhāvo na jñāyate paścācca santateśca viśeṣaḥ /
-> tasmānna tenaiva tallakṣitaṃ bhavati naca tebhyo dravyāntarāṇyeva jātyādīni vidyante /
-> athāpi nāma dravyāntarāṇyeva jātyādīni bhaveyuḥ /
-> kimayuktaṃ syāt /
-> eko dharmaḥ ekasminneva kāle jātaḥ sthito jīrṇo naṣṭaḥ syādeṣāṃ sahabhūtvāt /
-> kāritrakālabhedāt /
-> anāgatā hi jātiḥ kāritraṃ hi karoti /
-> yasmānna jātaṃ janyate janite tu dharme varttamānāḥ kṣityādayaḥ kāritraṃ kurvantīti na yadā jāyate tadā tiṣṭati jīryati vinaśyati vā /
-> idaṃ tāvadiha saṃpradhāryaṃ bhavet /
-> kimanāgataṃ dravyato 'sti nāstīti paścājjanayati vā naveti sidhyet /
-> satyapi tu tasmin jātiḥ kāritaraṃ kurvatī kathamanāgatā sidhyatītyanāgata lakṣaṇaṃ vaktavyam /
-> uparatakāritrā cotpannā kathaṃ varttamānā sidhyatīti varttamānalakṣāṇaṃ vaktavyam /
-> sthityādayo 'pi ca yugapat kāritre varttamānā ekakṣaṇa eva dharmasya sthitajīrṇavinaṣṭatāṃ prasañjeyuḥ /
-> yadaiva hyenaṃ sthitiḥ sthāpayati tadaiva jrā jarayati anityatā vināśayatīti /
-> kimayaṃ tatra kāle tiṣṭatvāhosvijjīryatu vinaśyatu vā yo 'pi hi brūyāt sthityādīnāmapi kāritraṃ krameṇeti tasya kṣaṇikatvaṃ bādhyate /
-> athāpyevaṃ brūyāt eṣa eva hi naḥ kṣaṇo yāvataitat sarvaṃ samāpyata iti /
-> evamapoi tābhyāṃ sahotpannā sthitistāvat sthāpayati na jrā jarayati anityatā vā vināśyatīti /
-> kuta etat /
-> sthiterbalīyastvāt /
-> punaḥ kenāvalīyastvam /
-> yadaināṃ saha dharmeṇānityatā hanti /
-> kṛtakṛtyā punaḥ karttuṃ notsahate jātivat /
-> sthaturyuktamanutsoḍhum /
-> nahi śakyaṃ jātyādijanyaṃ vartamānatāmānītaṃ punarānetum /
-> śakyaṃ tu khalu sthityā sthāpyamatyantamapi sthāpayitum /
-> ato na yuktaṃ yannotsahate /
-> ko vā 'tra pratibandhaḥ /
-> te eva jarā 'nityate /
-> yadi hi te balīyasyau syātāṃ pūrvameva syātām /
-> nivṛttakāritrāyāṃ khalvapi sthitau ta cāpi na tiṣṭataḥ sa cāpi dharma iti kathaṃ kutra vā kāritraṃ karttumutsahiṣyete kiṃ vā punastābhyāṃ karttavyam /
-> sthitiparigrahāddhi sa dharma utpannamātro na vyanaśyat /
-> sa tu tayā vyupekṣyamāṇo niyataṃ na sthāsyatyayamevāsya vināśaḥ /
-> syācca tāvadekasya dharmasyotpannasyāvināśaḥ sthitiḥ vināśo 'nityatā /
-> jarā tu khalu sarvathātvena na tathā /
-> pūrvāparaviśeṣāt vipariṇāmācca /
-> atastadanyathātve 'nya eva /
-> uktaṃ hi
-> "tathātvena jarā 'siddhiranyathātve 'nya eva saḥ /
-> tasmānaikasya bhāvasya jarā nāmopapadyate"//
-> yo 'pyāha nikāyāntarīyo "vināśa kāraṇaṃ prāpyānityatā vināśāyatī"ti tasya harītakīṃ prāpya devatā virecayatītyāpannaṃ bhavati kiṃ punastāṃ kalpayitvā /
-> tat evāstu vināśakāraṇādvināśaḥ cittacaittānāṃ ca kṣaṇikatvābhyupagamāttadanityatāyā vināśakāraṇānapekṣatvāt sthityanityate kāritramabhinnakālaṃ kuryātāmityekasyaikatra kāle sthita vinaṣṭatā saṃprasajyeta /
-> tasmāt pravāhaṃ pratyetāni saṃskṛtalakṣaṇānyuktānītyevametatsūtraṃ sūnītaṃ bhavati /
-> apica yadyanāgatā jātirjanyasya janikā kimarthaṃ sarvamanāgataṃ yugapannotpadyate /
-> yasmāt
-> janyasya janikā jātirna hetupratyayairvenā // 2.46 //
-> nahi vinā hetupratyayasāmagrayā jātirjanikā bhavati /
-> hetupratyayānāmeva tarhi sāmarthyaṃ paśyāmaḥ /
-> sati sāmargya bhāvādasati cābhāvānna jāteriti hetupratyayā eva jana kāḥsantaḥ /
-> kiṃ ca bhoḥ sarvaṃ vidyamānamupalabhyate /
-> sūkṣmā api dharmaprakṛtayaḥ saṃvidyante /
-> jātamityeva tu na syādasatyāṃ jātau ṣaṣṭhivacanaṃ ca rūpasyotpādaḥ iti yathā rūpasya rūpamiti /
-> evaṃ yāvadanityatā yathāyogaṃ vaktavyā /
-> tena tarhy anātmatvam apy eṣṭavyam anātmabuddhi-siddhyartham /
-> saṃkhyā-parimāṇa-pṛthaktva-saṃyoga-vibhāga-paratva-aparatva-sattādayo 'pi tīrthakara-parikalpitā abhyupagantavyā eka-dvi-mahadaṇu-pṛthak-saṃyukta-viyukta-parāpara-sadādi-buddhi-siddhyartham /
-> ṣaṣṭīvidhānārthaṃ ca rūpasya saṃyoga iti /
-> eṣā ca ṣaṣṭo kathaṃ kalpyate /
-> rūpasya svabhāva iti /
-> tasmāt prajñaptimātramevaitadabhūtvābhāvajñāpanārthaṃ kriyate jātamiti /
-> sa cābhūtvābhāvalakṣāṇa utpādo bahuvikalpaḥ /
-> tasya viśeṣaṇārthaṃ rūpasyotpāda iti ṣaṣṭīṃ kurvanti yathā rupasaṃjñaka evotpādaḥ pratīyeta mā 'nyaḥ pratyāyīti /
-> tadyathā candanasya gandhādayaḥ śilāputrakasya śarīramiti /
-> evaṃ sthityādayo 'pi yathāyogaṃ veditavyāḥ /
-> yadi jātyā vinā jāyate kasmādasaṃskṛtamapyākāśādikaṃ na jāyate /
-> jāyat ityabhūtvā bhavati /
-> asaṃskṛtaṃ ca nityamastīti na jāyate /
-> yathā ca dharmatayā na sarvaṃ jātimadiṣyate tathā na sarvaṃ jāyata ityeṣṭavyam /
-> yathā ca tulye jātimattve tadanye pratyayāstadanyasyotpādane na samarthā bhavantyevamevāsaṃskṛtasyotpādane sarve 'pyasamarthāḥ syuḥ /
-> siddhā eva tu dravyabhāvena jātyādaya iti vaibhāṣikāḥ /
-> nahi dūṣakāḥ santītyāgamā apāsyante nahi mṛgāḥ santīti yavā noṣyante nahi makṣikāḥ patantīti modakā na bhakṣyante /
-> tasmāddoṣeṣu pratividhātavyaṃ siddhāntaścānuvarttitavyaḥ /
-> uktāni lakṣaṇāni //
+But the sūtra states three marks of the conditioned. If there is a
+fourth, it too should have been stated. Which one is not stated?
+Persistence. What, then, is “alteration of persistence”? It is a
+synonym for aging, just as “origination” is a synonym for arising and
+“passing away” for impermanence.
 
-The excerpt follows printed 75.19–80.11 in
-`Vasubandhu/Sources/kosabhasya.txt`, with source labels removed
-and verse numbers regularized. Apparent defects are retained;
-consequential contextual readings are identified below. No
-independent collation is claimed.
+The sūtra names those marks that move formations across the times,
+to produce disquiet. Arising moves formations from the future to the
+present; aging and impermanence move them from the present to the past,
+weakening and striking them down. It is like three enemies of a man
+who has entered a thicket: one drags him out, and two deprive him of
+life. Persistence, however, embraces those formations and remains with
+them, as though wishing not to part from them. Therefore it is not
+established there as a mark of the conditioned. Moreover, the
+unconditioned too persists in its own characteristic.
 
-## 3. Continuous Conventional Translation
+Others explain that the sūtra combines persistence and aging into the
+single mark “alteration of persistence.” Why? Persistence is a basis
+for attachment. To prevent attachment to it, the sūtra shows it like
+Śrī accompanied by Kālakarṇī. Thus there are four marks of the
+conditioned.
 
-“The marks are arising, aging, persistence, and impermanence.”
-These are the four marks of the conditioned. A dharma in which
-they occur is recognized as conditioned; the reverse is unconditioned.
-Arising generates that dharma, persistence sustains it, aging
-ages it, and impermanence destroys it. But the sūtra says “three
-marks of the conditioned”; a fourth would have to be stated
-there too. What is not stated? Persistence. What, then, of
-“alteration of persistence”? That is a synonym for aging, as
-“origination” is for arising and “passing away” for impermanence.
-The sūtra names those dharmas which move formations across the
-times, to inspire disquiet. Arising moves formations from future
-to present; aging and impermanence move them from present to
-past by weakening and destroying them. It is like three enemies
-of a man who has entered a thicket: one drags him out and two
-deprive him of life. Persistence, however, embraces the formations,
-as though wishing not to part from them. Thus it is not established
-there as a conditioned mark; moreover, the unconditioned too
-persists in its own character.
+Since arising and the other marks are themselves conditioned, must
+they not have further arising and the rest? They do:
 
-Others explain that the sūtra combines persistence and aging
-as the single mark “alteration of persistence.” Why? Persistence
-is a basis of attachment; to prevent attachment to it, it is
-shown like Śrī accompanied by Kālakarṇī [the ominous companion
-in the transmitted comparison]. Thus there are four conditioned
-marks. Since arising and the others are themselves conditioned,
-should they not have further arising and so forth? They do:
-“arising-of-arising and the others belong to them.” They have
-four subsidiary marks: arising-of-arising, persistence-of-persistence,
-aging-of-aging, and impermanence-of-impermanence. But then each
-would require four marks, with no end, since those too would
-require further marks. That does not follow, because “they
-operate on eight dharmas and on one.” The principal marks operate
-on eight; operation means activity or efficacy. The subsidiary
-marks operate on one.
+> Arising-of-arising and the others belong to them.
 
-How? A dharma arises as one of nine, together with eight principal
-and subsidiary marks. Arising generates the other eight, excluding
-itself; arising-of-arising generates only that arising. It is
-like one hen producing many offspring and another few. Persistence
-likewise sustains the other eight, excluding itself, while
-persistence-of-persistence sustains only persistence. Aging and
-impermanence should be applied correspondingly. Thus no infinite
-regress follows.
+They have four secondary marks: arising-of-arising,
+persistence-of-persistence, aging-of-aging, and
+impermanence-of-impermanence. But then each of them would require four
+marks, and there would be no end, since those further marks would also
+require marks.
 
-“This is splitting space,” say the Sautrāntikas. These dharmas,
-arising and so forth, do not exist as real entities in the manner
-expounded. Why? There is no evidence—perception, inference, or
-trustworthy scripture—for their existence as entities, as there
-is for material form and the other dharmas. What, then, of the
-sūtra saying that the arising, passing away, and alteration of
-persistence of the conditioned are discerned? You know the wording,
-dear to the gods, but not its meaning. The Blessed One said
-to rely on meaning. What is its meaning? Ordinary people blinded
-by ignorance cling to the stream of formations as self and
-belonging to self. To turn back that mistaken resolve and indicate
-the stream's conditionedness and dependent arising, the Blessed
-One spoke of three conditioned marks of the conditioned—not
-of a moment. A moment's arising and so forth are not discerned;
-what is not discerned cannot serve as a mark in this account.
-Hence the sūtra says “the arising of the conditioned is discerned.”
-The repetition of “conditioned” indicates marks of its being
-conditioned, not evidence merely of its existence, like water
-and cranes, or of its goodness or badness, like a maiden's marks.
+That does not follow, because:
 
-The beginning of a stream is origination, its ending passing
-away; the continuing stream is persistence, and its difference
-between earlier and later is alteration of persistence. Thus
-it is said that the feelings of the clansman Nanda arise, persist,
-and pass to cessation, exhaustion, and ending while known. Verses
-state the same account: arising is the stream's beginning,
-passing away its cutting off, persistence the stream itself,
-and alteration the difference between its earlier and later
-states. Arising is occurrence not previously present; persistence
-is continuity; passing away its termination; alteration is
-difference within that continuity. For a momentary dharma would
-pass away without persistence, and it does pass away; positing
-persistence for it is therefore pointless [this verse is textually
-difficult]. Persistence is consequently the stream. This also
-fits the Abhidharma definition of persistence as non-destruction
-of arisen formations, since an arisen moment has no non-destruction.
-The Jñānaprasthāna's account of arising, death, and aging in
-“one consciousness” can likewise concern consciousness of a
-common class.
+> They operate on eight Dharmas and on one.
 
-The marks can also be applied moment by moment without positing
-separate entities. At each moment, occurring after not occurring
-is origination; non-occurrence after occurrence is passing away;
-each preceding moment's connection with a subsequent moment
-is persistence, and their dissimilarity is alteration. What if
-similar moments arise? They are not entirely without difference.
-How is this known? Different times of falling in objects such
-as a hard stone, thrown or not thrown, and thrown strongly or
-weakly, establish a particular transformation of their great
-elements [the example is compressed]. Formations differing only
-slightly appear similar despite alteration. But the last moment
-of sound or flame, and the six Essences at final nirvāṇa,
-have no following moment; thus alteration of persistence would
-not apply universally. Persistence alone is not stated as the
-mark, but alteration of persistence. Wherever persistence exists,
-alteration necessarily exists; the definition is not undermined.
-In summary, the sūtra indicates that the conditioned occurs
-after not occurring and, having occurred, no longer occurs;
-its continuity, called persistence, becomes otherwise and otherwise.
+“Operation” means activity or efficacy. The primary marks operate on
+eight Dharmas; the secondary marks operate on one.
 
-What need is there for separate arising and other entities?
-But how can the same dharma be both what is marked and its
-mark? The marks of a great person are not other than that person;
-the dewlap, tail, hump, hooves, horns, and so forth that mark
-a cow are not other than the cow; hardness and the other marks
-of the great elements are not other than them. Smoke is recognized
-at a distance through its upward movement, which is not a separate
-thing from it. The same reasoning applies. Yet merely apprehending
-the nature of material form does not disclose its conditionedness
-until its prior and subsequent absence and the differences of
-its continuum are known. Thus its nature alone does not mark
-that conditionedness, but arising and the others are not separate
-entities either.
+How? A Dharma arises as one member of a set of nine, together with its
+eight primary and secondary marks. Arising generates the other eight,
+excluding itself; arising-of-arising generates only that arising.
+It is like one hen producing many offspring and another producing
+few. Persistence likewise sustains the other eight, excluding itself,
+while persistence-of-persistence sustains only persistence. Aging and
+impermanence should be understood in the corresponding way. Therefore
+the regress does not follow.
 
-Suppose they were separate entities: what would be untenable?
-A single dharma would be arisen, persistent, aged, and destroyed
-at the same time, since the marks coexist. Their activities
-occur at different times: future arising acts, for an already
-arisen dharma is not generated; once the dharma is generated,
-present persistence and the others act. Thus it does not persist,
-age, or perish when it arises. First one must determine whether
-the future exists as an entity; only then could its generating
-be established. Even if it exists, how is arising future while
-acting, and present when its activity has ceased? The criteria
-for future and present must be given. Persistence and the others,
-acting together, would still make the dharma persistent, aged,
-and destroyed in one moment. Should it persist, age, or perish
-then? Making their operations successive contradicts momentariness.
+“This is splitting the sky,” say the Sautrāntikas. These Dharmas,
+arising and the others, do not exist as real entities in the manner
+described. Why? There is no means of valid knowledge for their
+existence as entities: no perception, inference, or authoritative
+scriptural statement, such as there is for Form and the other Dharmas.
 
-Perhaps “one moment” means the interval in which all this is
-completed. Even so, why does persistence act first while co-arising
-aging and impermanence do not? Because persistence is stronger.
-Why is it weaker afterward, when impermanence destroys it together
-with the dharma? Having done its work, it cannot act again,
-like arising. That inability is reasonable for arising: what
-has been brought into the present cannot be brought there again.
-But persistence could keep sustaining what it sustains indefinitely.
-What prevents it? Aging and impermanence. If they were stronger,
-they would have been so before. Once persistence ceases acting,
-neither those two nor the dharma persists; where could they
-act, and what remains for them to do? If the dharma did not
-perish immediately because persistence sustained it, once abandoned
-by persistence it will not remain: that itself is its destruction.
+But what of the sūtra's statement, “The arising of the conditioned is
+discerned, its passing away is discerned, and its alteration of
+persistence is discerned”?
 
-One might allow non-destruction of an arisen dharma as persistence
-and destruction as impermanence. But aging does not work for
-one unchanged entity: aging requires earlier/later difference
-and transformation; if it becomes otherwise, it is another.
-As a verse says, aging is not established if it remains the
-same, while if it is otherwise it is another; hence aging of
-one entity is untenable. A member of another school says that
-impermanence destroys upon meeting a cause of destruction. That
-would be like saying a deity causes purgation after obtaining
-harītakī: why posit it? Let destruction arise from that cause
-itself. Moreover, since mental dharmas are admitted to be momentary,
-their impermanence needs no cause of destruction; persistence
-and impermanence would act simultaneously, making one dharma
-both persistent and destroyed. Thus reading the sūtra's marks
-with reference to the stream interprets it well.
+“Dear to the gods, you know the text, but not its meaning. The Blessed
+One said to rely on meaning.”
 
-Further, if future arising generates what is to be generated,
-why does everything future not arise at once? Because “arising
-generates what is to be generated, not without causes and conditions.”
-It does not generate without their assemblage. Then we observe
-the efficacy of causes and conditions: the event occurs when
-they are assembled and not when they are absent, not through
-arising. Those causes and conditions themselves generate. Is
-everything that exists apprehended? Subtle natures of dharmas
-also exist. Without arising, one could not say “arisen,” or
-use the genitive “the arising of material form,” any more than
-“the material form of material form.” The same applies to the
-other marks. Then one must also accept a separate non-selfness
-to explain the cognition of non-self, and the number, magnitude,
-separateness, conjunction, disjunction, priority, posteriority,
-existence, and other entities posited by other teachers to explain
-the corresponding cognitions and genitives. How is the genitive
-in “the own-nature of material form” explained?
+What is its meaning? Ordinary people, blinded by ignorance, cling to
+the stream of formations as self and as belonging to self. Wishing to
+turn them away from that mistaken resolve, and to disclose that the
+stream of formations is conditioned and dependently arisen, the
+Blessed One said, “These are the three marks of the conditioned.” He
+did not mean a moment. Arising and the other marks of a moment are not
+discerned; what is not discerned cannot serve as a mark in this
+account. That is why the sūtra says, “The arising of the conditioned
+is discerned.”
 
-“Arisen” is a designation indicating occurrence after non-occurrence.
-Such origination has many varieties; “the arising of material
-form” specifies the origination designated material form rather
-than another, as in “the scent of sandalwood” or “the body of
-a stone figure.” Persistence and the rest should be understood
-correspondingly. If things arise without a separate arising,
-why does unconditioned space not arise too? Arising means occurring
-after not occurring; the unconditioned always exists and does
-not arise. Just as not everything is admitted to possess arising,
-not everything need be admitted to arise. And just as conditions
-cannot generate every other thing merely because those things
-all possess arising, all conditions may be incapable of generating
+The repeated expression “of the conditioned” means that these are
+marks of its being conditioned. It does not mean that they establish
+the conditioned thing's existence, as water and cranes might indicate
+it, or its goodness or badness, as a maiden's marks might.
+
+In that account, origination is the beginning of a stream; passing
+away is its cessation. The stream continuing is persistence; its
+difference between earlier and later is alteration of persistence.
+Thus it is said:
+
+> The feelings of the clansman Nanda arise knowingly, persist
+> knowingly, and knowingly go to setting, exhaustion, and complete
+> ending.
+
+And it is said:
+
+> Arising is the stream's beginning; passing away is its severance.
+> Persistence is that stream itself; alteration of persistence is
+> its difference between earlier and later.
+
+Another formulation says: arising is the occurrence of what was not
+before; persistence is continuity; passing away is its severance; and
+alteration of persistence is the earlier–later difference within that
+continuity. In this way persistence is the stream itself. The
+Abhidharma statement is also appropriate: “What is persistence? The
+non-destruction of arisen formations.” For an arisen moment does not
+remain undestroyed.
+
+The *Jñānaprasthāna* asks, “In one mind, what is arising?” The answer
+is “birth”; “What is passing away?”—“death”; “What is alteration of
+persistence?”—“aging.” There too, the mind belonging to a
+commonality-of-kind continuum is the appropriate referent.
+
+These marks can also be applied moment by moment to the conditioned
+without positing separate entities. How? At each moment, arising is
+occurrence after non-occurrence; passing away is non-occurrence after
+occurrence. Persistence is the connection of each preceding moment
+with the succeeding moment; alteration of persistence is the
+difference between them.
+
+But when similar moments arise, they are not without difference. How
+is this known? The thrown object example appeals to differences in
+the time taken by a diamond thrown with greater or lesser force, and
+to a resulting difference in the transformation of its Great
+Principles. Yet formations that differ only slightly may still appear
+similar despite alteration.
+
+Then, at the last moment of a sound or flame, and at the time of final
+Nirvāṇa for the six Essences, there is no succeeding moment. There
+would be no alteration of persistence, and the definition of the
+marks would fail to apply universally.
+
+Persistence itself is not stated as the mark; alteration of
+persistence is. Wherever persistence exists, alteration necessarily
+exists. Therefore the arrangement of the marks is not defective.
+In brief, the sūtra indicates that the conditioned occurs after not
+occurring, and, having occurred, no longer occurs; its continuity,
+called persistence, becomes otherwise and otherwise.
+
+What need is there for separate entities of arising and the other
+marks? But how can the same Dharma be both what is marked and its
+mark? The marks of a great person are not other than that person; the
+dewlap, tail, hump, hooves, horns, and other features that mark a cow
+are not other than the cow; hardness and the other marks of the Great
+Principles are not other than them. Smoke is recognized at a distance
+through its upward movement, which is not separate from it. The same
+reasoning applies here.
+
+Yet the conditioned character of Form and the other conditioned
+Dharmas is not discerned merely by apprehending their own-character,
+until prior non-occurrence, later non-occurrence, and the difference
+of their continuum are known. Thus own-character alone does not mark
+their conditionedness; but arising and the other marks are not
+separate entities from them either.
+
+Suppose, nevertheless, that arising and the other marks were separate
+entities. What would be untenable? A single Dharma would be arisen,
+persistent, aged, and destroyed at the very same time, since those
+marks coexist.
+
+The reply distinguishes the time of a mark's efficacy from its
+co-presence. Arising is future when it performs its activity: what is
+already arisen is not generated. Once the Dharma is generated,
+persistence and the other marks perform their activity as present.
+Therefore, when the Dharma arises, it does not at that same time
+persist, age, or perish.
+
+First, however, one must determine whether the future exists as an
+entity; only then could it be established that it generates later.
+Even if it does exist, how can arising be future while performing its
+activity, and present once that activity has ceased? The criteria for
+“future” and “present” must be stated.
+
+Persistence and the other marks, if all performing their activities
+together, would entail that the Dharma is persistent, aged, and
+destroyed in one moment. Should it persist, age, or perish then?
+Someone might say that their activities occur in sequence, but that
+would contradict momentariness.
+
+Suppose instead that “one moment” means the interval during which all
+these activities are completed. Even then, persistence—co-arisen with
+the other two—sustains the Dharma first, while aging does not age it
+and impermanence does not destroy it. Why? Because persistence is
+stronger. Why does it become weaker afterward, when impermanence
+destroys it together with the Dharma?
+
+Having completed its work, persistence cannot act again, just as
+arising cannot. That inability is reasonable for arising: what has
+been brought into the present cannot be brought there again. But
+persistence could keep sustaining what it sustains indefinitely.
+What prevents it? Aging and impermanence. If they were stronger, they
+would have been stronger earlier.
+
+Once persistence has ceased its activity, neither aging and
+impermanence nor the Dharma itself persists. How, then, could those
+marks undertake any activity, or what would remain for them to do?
+Because persistence takes hold of the Dharma, it does not perish
+immediately upon arising. But once persistence neglects it, it
+certainly will not remain: that itself is its destruction.
+
+One might accept persistence as the non-destruction of an arisen
+Dharma, and impermanence as its destruction. Aging, however, does not
+work in the same way. It requires an earlier–later difference and
+transformation. If the Dharma becomes otherwise, it is another.
+Thus it is said:
+
+> If it remains the same, aging is not established; if it becomes
+> otherwise, it is another. Therefore aging of one entity is
+> untenable.
+
+A member of another school says, “Impermanence destroys after
+encountering a cause of destruction.” That would be like saying that
+a deity, after obtaining harītakī, causes purgation. Why posit the
+deity? Let destruction itself arise from the cause of destruction.
+Further, since consciousness and its associated mental factors are
+admitted to be momentary, their impermanence does not depend on a
+cause of destruction. Persistence and impermanence would perform
+their activities at the same time, and one Dharma would be both
+persistent and destroyed.
+
+Therefore, the sūtra's conditioned marks are to be understood with
+reference to the stream; in this way the sūtra is well interpreted.
+
+Moreover, if future arising generates what is to be generated, why
+does everything future not arise all at once? The verse says:
+
+> Arising generates what is to be generated, not without causes and
+> conditions.
+
+Arising does not generate without the complete assemblage of causes
+and conditions. Then it is the efficacy of causes and conditions that
+we observe: when their assemblage is present, the event occurs; when
+it is absent, the event does not occur. The causes and conditions
+themselves are generative.
+
+But, one objects, everything that exists is apprehended, and even
+subtle natures of Dharmas are recognized. Without arising, one could
+not say “arisen”; nor could one use the genitive in “the arising of
+Form,” just as one would not say “the Form of Form.” The same applies
+to persistence and the other marks.
+
+Then one would also have to accept a separate non-selfness to explain
+the cognition of non-self, and the number, magnitude, separateness,
+conjunction, disjunction, priority, posteriority, and existence
+posited by other teachers to explain cognitions such as “one,”
+“two,” “large,” “minute,” “separate,” “joined,” “disjoined,”
+“earlier,” “later,” and “existent.” One would also posit conjunction
+to explain the genitive in “conjunction of Form.” How, then, would
+that genitive be explained? By saying it is the own-character of
+Form?
+
+These are designations alone, made to convey occurrence after
+non-occurrence. Origination, characterized as occurrence after
+non-occurrence, has many varieties. The genitive construction “the
+arising of Form” specifies which kind of origination is intended:
+the arising designated as Form, not some other arising. It is like
+“the scent of sandalwood” or “the body of a stone figure.” Persistence
+and the other marks should be understood correspondingly.
+
+If things arise without a separate arising, why does unconditioned
+space and the like not arise? “Arises” means “having not been, it
+comes to be.” The unconditioned always exists and therefore does not
+arise. Just as not everything is admitted to possess arising, it
+should be accepted that not everything arises. And just as, despite
+the equal presence of arising, other conditions are not able to
+generate everything else, so all conditions may be unable to generate
 the unconditioned.
 
-The Vaibhāṣikas nevertheless say that arising and the other marks
-are established as real entities. Scriptures are not discarded
-because critics exist; barley is not left unsown because deer
-exist, nor sweets uneaten because flies descend on them. The
-objections must be answered and the established doctrine maintained.
-The marks have been explained.
+The Vaibhāṣikas, however, say that arising and the other marks are
+established as real entities. “Scriptures are not rejected merely
+because there are critics: barley is not left unsown because deer
+exist, nor are sweets left uneaten because flies descend upon them.”
+Therefore, objections must be answered, and the established doctrine
+maintained. The marks have been explained.
 
-## 4. Movement and Voices of the Commentary
+## 3. Dialectical Structure
 
-The unit contains the four-mark exposition, two explanations of
-the sūtra's three marks, the subsidiary-mark response to regress,
-and an explicitly Sautrāntika critique. That critique interprets
-the sūtra through streams and also offers a moment-wise reading
-without additional entities. Further objections test recognition,
-temporal activity, causal efficacy, and linguistic evidence.
-The closing Vaibhāṣika defense preserves disagreement.
+The passage is not one unqualified doctrine. It moves through
+attributed explanations and objections:
 
-The translation keeps questions and replies continuous without
-assigning every unnamed speaker to a school more precisely than
-the local text allows. The claim that meaning should govern
-interpretation belongs to the critical exchange, not an editorial
-permission to replace the source's doctrine with a reconstruction.
+1. **Four marks and the sūtra's three:** one explanation omits
+   persistence because the other marks move formations through time
+   and prompt disquiet; another combines persistence and aging as
+   “alteration of persistence” to prevent attachment.
+2. **The Vaibhāṣika regress reply:** four secondary marks are admitted,
+   but their operation is restricted to one corresponding primary
+   mark, while each primary mark operates on the other eight members
+   of a nine-Dharma set.
+3. **The Sautrāntika critique:** no perception, inference, or
+   authoritative testimony establishes the marks as separate real
+   entities. The sūtra instead describes the conditioned stream.
+4. **The moment-wise account:** arising and passing away can still be
+   predicated at each moment, and continuity and difference can be
+   described without separate mark-entities.
+5. **The temporal-activity objections:** even if marks co-exist but
+   act at different times, the account faces questions about future
+   and present, momentariness, the priority of persistence, and the
+   work assigned to aging and impermanence.
+6. **The causal and linguistic exchange:** causes and conditions
+   suffice for generation, the critique argues; “arisen” and the
+   genitive construction do not by themselves prove a separate
+   entity.
+7. **The Vaibhāṣika conclusion:** the marks remain established as
+   real entities in that school's account, and the objections must
+   be answered rather than used to abandon the doctrine.
 
-## 5. Four Marks, Three Scriptural Marks, and Subsidiary Marks
+## 4. The Nine-Dharma Arrangement
 
-The initial account gives each principal mark its own activity.
-One explanation omits persistence from the sūtra because the
-other marks move formations across times and inspire disquiet;
-another combines persistence and aging to discourage attachment.
-These are alternatives, not one composite etymology.
+The regress reply is precise. Its set comprises the Dharma being
+marked, four primary marks, and four secondary marks:
 
-The regress defense specifies nine members: the marked dharma,
-four principal marks, and four subsidiary marks. Each principal
-mark operates on the other eight; each subsidiary mark operates
-on its corresponding principal mark alone. The statement does
-not assign eight new effects to every subsidiary mark.
+| Level | Members | Assigned operation |
+|---|---|---|
+| Primary | Arising, persistence, aging, impermanence | Each operates on the other eight members, excluding itself. |
+| Secondary | Arising-of-arising, persistence-of-persistence, aging-of-aging, impermanence-of-impermanence | Each operates on its corresponding primary mark alone. |
 
-## 6. Stream and Moment
+The hen comparison illustrates different generative reach; it does not
+replace the specified distribution. The Bhāṣya's answer blocks
+regress by limiting each secondary mark's operation, not by denying
+that secondary marks are conditioned.
 
-The Sautrāntika account identifies beginning, ending, continuity,
-and earlier/later difference within a stream. Its brief self-and-
-self-owned warning explains the cited sūtra's purpose locally;
-it is not made a separate organizing doctrine of this study.
+## 5. Stream and Moment Are Distinct Explanatory Levels
 
-The account subsequently allows moment-wise application without
-separate mark-entities. This qualification matters: the criticism
-is not simply that moments cannot ever be described as arising
-or ceasing. It disputes the inference from such descriptions
-to additional real dharmas.
+The Sautrāntika interpretation treats the scriptural marks as features
+of a continuum: beginning, continuation, earlier–later difference,
+and cessation. This answers the sūtra's immediate purpose of
+dislodging fixation on a stream of formations as self or belonging
+to self. It does not mean that momentary occurrence and cessation
+cannot be described. The subsequent moment-wise account explicitly
+describes them without adding separate mark-entities.
 
-The last-moment objection tests the universality of alteration.
-The reply treats alteration of persistence as conditional on
-continuity being present, rather than requiring a following
-moment after every terminal occurrence.
+The terminal-moment objection asks how alteration can be universal
+when no succeeding moment follows the last sound or flame, or the
+six Essences at final Nirvāṇa. The reply distinguishes persistence
+from alteration of persistence: the latter is said to apply wherever
+persistence applies, so it does not require a successor after every
+terminal occurrence.
 
-## 7. Activity, Causation, and Designation
+## 6. The Test of Separate Activity
 
-The temporal debate distinguishes co-existence from time of
-activity, then challenges whether that distinction preserves
-momentariness and explains why persistence yields to destruction.
-The critique asks what further work aging and impermanence can
-do once persistence no longer maintains the dharma.
+The argument against independent mark-entities is not merely that
+four predicates appear together. It tests the proposed division
+between simultaneous existence and temporally distinct activity:
 
-The final causal argument returns to arising: dependence on
-causes and conditions is admitted, but the critic asks what
-additional efficacy a separate arising supplies. The linguistic
-defense then appeals to “arisen” and the genitive construction;
-the reply denies that every cognition or grammatical relation
-requires another entity. These are successive arguments, not
-one simple denial of causal origination.
+- If arising acts while future, its relation to an existing future
+  entity and its becoming present require definition.
+- If the four activities occur successively, the account conflicts
+  with momentariness.
+- If they co-occur within one extended “moment,” persistence is said
+  to act first and to be stronger, while aging and impermanence wait.
+  The text then asks what makes persistence weaker, and what can act
+  after persistence itself has ceased.
+- Aging requires an earlier–later difference. If the same entity
+  remains wholly unchanged, it has not aged; if it becomes another,
+  the identity required for aging is in question.
+- A separate destruction-factor appears redundant if a cause of
+  destruction already produces destruction; for momentary
+  consciousness and associated factors, destruction needs no
+  additional cause in this argument.
 
-## 8. Textual Decisions and Limits
+The conclusion reads the sūtra's marks at the level of a stream. It
+does not erase the Vaibhāṣika's reply or turn this critical sequence
+into the only position voiced in the passage.
 
-The excerpt retains substantial transcription damage. The verse
-at 77.15–16 prints *na ca vyetyeva*, which appears inconsistent
-with the argument that a momentary dharma perishes without a
-separate persistence. The English provides the contextual sense
-and marks the passage as uncertain rather than claiming a
-restored reading. The thrown-object example at 77.25–26 is also
-compressed and insecure in detail.
+## 7. Causes, Conditions, and Designation
 
-Other contextual resolutions include the malformed destruction
-and activity clauses, *sthityahnyanyathātva*, and *hetupratyayairvenā*.
-The imagery of Śrī and her ominous companion is retained as an
-analogy; the precise name and wording require collation. The
-Sanskrit is not silently corrected to fit the English.
+The verse's restriction becomes an argument over explanatory
+contribution. Arising is not said to generate without the complete
+causes and conditions. The critic asks whether the observed difference
+between occurrence and non-occurrence is already explained by their
+presence or absence. If so, what further efficacy does a separate
+entity of arising supply?
 
-The life-faculty discussion ends at 75.18. VAK 2.46's first half
-is cited at 76.11 and 76.15 within the 2.45 four-mark debate;
-its second half is cited at 79.18. The 2.46 discussion closes
-with *uktāni lakṣaṇāni* at 80.11. The next question introduces
-groups of names and related verbal formations. The 75.19–79.17
-contextual overlap is also studied under VAK 2.45.
+The counterargument appeals to subtle Dharma-natures, the cognition
+“arisen,” and genitive constructions such as “the arising of Form.”
+The response denies that such cognitions and grammatical relations
+require an additional entity for every distinction. “Arisen” is a
+designation for occurrence after non-occurrence; “the arising of
+Form” identifies the intended kind of origination, just as “scent
+of sandalwood” and “body of a stone figure” specify a relation
+without establishing an extra substance.
 
-## 9. Limited Organon Note
+The unconditioned-space objection tests the definition rather than
+adding another causal principle. If arising means that what was not
+present comes to be, the unconditioned—which always exists—does not
+arise. The critical account can therefore distinguish what arises
+from what does not without assigning a separate arising-entity to
+each.
 
-Keep the dispute over separate mark-entities distinct from the account of
-causal conditions and designation. The Vaibhāṣika defense remains part of
-the passage's conclusion; no additional Organon ontology is required here.
+## Interpretation
+
+This debate examines how the inner instrument establishes a mark,
+distinguishes a stream from its momentary occurrences, and tests
+whether a proposed Principle contributes explanatory operation or
+merely names a relation already accounted for by causes, conditions,
+and temporal designation. The dialectic is itself an instrument of
+examination: classifications are stated, their relations specified,
+and their explanatory claims tested. It does not authorize collapsing
+the competing positions into one ontology.
+
+The Kośa's systematic account presents Vijñāna as Discriminative
+Cognition joining and governing Perception and Conception. Their unity
+is Inconceivable as a homogeneous operation; its Idea is disclosed in
+Cognition Base. Vijñāna governs Mind and guides the reading of Dharma
+Base. *Avijñapti* is the same Dharma classified in Form Base and Dharma
+Base, and Vijñāna bears a *prati* relation to it. This is the
+Kośa-wide synthesis, not a claim that this particular marks debate
+enumerates each relation.
+
+At the project level, the ten Samyama-bhūmis describe Path-related
+operation of mental factors, and Buddha Dharma is the 11th Bhūmi.
+That is a project synthesis, not a literal translation or a claim
+that this passage enumerates an 11th level.
+
+## 9. Textual Decisions and Limits
+
+- The transcription at 77.15–16 reads *na ca vyetyeva*, which appears
+  inconsistent with the contextual argument concerning a momentary
+  Dharma and destruction. The translation follows the local argument
+  without claiming a restored Sanskrit reading.
+- The thrown-diamond example at 77.25–26 is compressed and insecure
+  in detail. Its general appeal to differences in force, time, and
+  transformation is retained without asserting a more exact physical
+  account.
+- Several clauses concerning destruction and activity are damaged;
+  the account above preserves their argumentative sequence while
+  avoiding silent emendation.
+- The transmitted Śrī and Kālakarṇī comparison is retained as an
+  analogy. Its exact wording and name require collation.
+- The second half of the kārikā is transcribed in the source with
+  *hetupratyayairvenā*. The verse is rendered according to the
+  evident construction “not without causes and conditions”; this
+  contextual resolution is not presented as a collation.
 
 ## 10. Review Status
 
-Provisional forty-sixth study of the restarted Indriyanirdeśa
-Bhāṣya sequence. The source runs 75.19–80.11: the first half of
-VAK 2.46 is cited at 76.11 and 76.15, and its second half at
-79.18. The opening 75.19–79.17 passage overlaps the VAK 2.45
-study as context.
-
-All principal exchanges are translated through the explicit close
-of the marks discussion. Difficult verses and damaged examples
-remain provisional and marked for collation. Original witnesses
-and existing studies are unchanged. VAK 2.47 begins at 80.12
-with groups of names and related verbal formations.
+Completed paired study through the explicit close of the marks
+discussion at printed 80.11. The first half of VAK 2.46 is cited at
+76.11 and 76.15; the second half is cited at 79.18. The opening
+75.19–79.17 sequence also serves as context for VAK 2.45. No
+VAK 2.47 material is included.

@@ -5,23 +5,21 @@
 > cittaṃ caittāḥ sahāvaśyaṃ sarvasaṃskṛtalakṣaṇaiḥ /
 > prāptyā vā pañcadhā caittā mahābhūmyādibhedataḥ // 2.23 //
 
-> Consciousness and mental factors necessarily arise together;
-> everything [conditioned arises together] with the marks of the
-> conditioned, and, where applicable, with acquisition. Mental
-> factors are fivefold, according to the division beginning with
-> the great ground.
+> Consciousness and mental factors necessarily arise together; everything
+> conditioned [arises necessarily together] with the marks of the conditioned,
+> or a dharma designated as sentient [arises together]
+> with acquisition. Mental factors are fivefold, according to distinctions
+> beginning with the great ground.
 
-The full anchor retains the research kārikā's compact
-*sarvasaṃskṛtalakṣaṇaiḥ*. The running Bhāṣya explicitly gives
-*sarvaṃ saṃskṛtalakṣaṇaiḥ*, “everything with the marks of the
-conditioned,” and carries forward “necessarily together.” Its
-explanation also restricts the acquisition clause.
+The verse's compact *sarvasaṃskṛtalakṣaṇaiḥ* is retained. The Bhāṣya
+construes the phrase as *sarvaṃ saṃskṛtalakṣaṇaiḥ*, “everything with the
+marks of the conditioned,” and carries forward “necessarily together.”
 
 ## 2. Continuous Sanskrit
 
 > ukto rūpiṇāṃ sahotpādaniyamaḥ /
 > śeṣāṇāṃ vaktavyas tatra tāvat /
-> cittaṃ caittāḥ sahāvaśyaṃ /
+> cittaṃ caittāḥ sahavaśyaṃ /
 > na hy ete vinā 'nyonyaṃ bhavitum utsahante /
 > sarvaṃ saṃskṛtalakṣaṇaiḥ /
 > sahāvaśyam iti varttate /
@@ -40,200 +38,119 @@ explanation also restricts the acquisition clause.
 > ye sarvatra cetasi bhavanti /
 
 The unit occupies printed 54.03–54.16 in
-`Vasubandhu/Sources/kosabhasya.txt`, ending before the question
-*ke punaḥ sarvatra cetasi*, “Which occur in every consciousness?”
-That question introduces the list in VAK 2.24.
+`Vasubandhu/Sources/kosabhasya.txt`, ending before *ke punaḥ sarvatra
+cetasi*, “Which occur in every consciousness?” That question introduces
+the list in VAK 2.24. Word division is editorial. *Sahavaśyaṃ* is
+normalized to *sahāvaśyaṃ*, *satvākhyam* to *sattvākhyam*,
+*gativiśayaḥ* to *gativiṣayaḥ*, and *eśām* to *eṣām*. The transmitted
+fifth class, *parīttakleśamahābhūmika*, is retained. No independent
+collation is claimed.
 
-Word division is editorial. *Sahavaśyaṃ* is normalized to
-*sahāvaśyaṃ*, *satvākhyam* to *sattvākhyam*, *gativiśayaḥ* to
-*gativiṣayaḥ*, and *eśām* to *eṣām*. The transmitted fifth class,
-*parīttakleśamahābhūmika*, is retained rather than silently replaced
-with a differently formed class-name. No independent collation
-is claimed.
+## 3. Scientific English Rendering
 
-## 3. Continuous Conventional Translation
-
-The rule of co-arising for material dharmas has been stated.
-That for the remaining dharmas must now be stated. First:
+The rule of necessary co-arising for Form Dharmas has been stated.
+The rule for the remaining Dharmas must now be stated. First:
 “Consciousness and mental factors necessarily arise together.”
 For they cannot exist without one another. “Everything with the
 marks of the conditioned.” The expression “necessarily together”
-is carried forward. Whatever arises—material form, consciousness,
-mental factors, or dissociated formations—arises together with
-the marks of the conditioned. “Or with acquisition.” Only what
-is designated as belonging to a sentient being arises together
-with acquisition, not anything else: thus the word “or” expresses
-a distinction of cases.
+is carried forward. Whatever arises—Form, consciousness, mental
+factors, or formations dissociated from consciousness—arises
+together with the marks of the conditioned. “Or with acquisition.”
+Only a dharma designated as sentient arises
+together with acquisition, not another; thus “or” expresses a
+distinction of cases.
 
 “Mental factors” have been mentioned. What are these mental
-factors? “Mental factors are fivefold, according to the division
+factors? “Mental factors are fivefold, according to distinctions
 beginning with the great ground.” There are five classes of mental
 factors: great-ground factors, wholesome great-ground factors,
 affliction great-ground factors, unwholesome great-ground factors,
-and limited-affliction great-ground factors. A “ground” means
-a sphere of operation: whatever is something's sphere of operation
+and limited-affliction great-ground factors. A “ground” is a
+sphere of operation: whatever is something's sphere of operation
 is called its ground. Among these, those whose ground is extensive
 are called great-ground factors: they occur in every consciousness.
 
-## 4. Movement and Voices of the Commentary
+## 4. Movement and Scope
 
-The transition recalls the material rule and extends the inquiry
-to the remaining conditioned dharmas. Three co-arising statements
-follow, with different subjects and scopes. The commentary then
-returns to the expression “mental factors,” introduces five classes,
-and explains the classificatory term *bhūmi*.
+The transition recalls the rule for Form Dharmas and extends the inquiry
+to the remaining conditioned Dharmas. Three co-arising statements follow,
+with distinct subjects and scopes. The commentary then returns to “mental
+factors,” names five classes, and explains *bhūmi*. It defines the first
+class as occurring in every consciousness; the next question, at the start
+of VAK 2.24, asks which factors those are.
 
-There is no explicit objection or named school in this short unit.
-The question about mental factors is expository. The first class
-receives a definition, but its members await the next kārikā.
-The other four classes are named here; their detailed distributions
-must be read from the following discussion.
+This passage names no opponent or competing school. The question “What are
+these mental factors?” is expository. Preserve the passage's stated
+relations without adding a causal direction or importing definitions of
+the conditioned marks that are not given here.
 
-## 5. Consciousness and Mental Factors
+## 5. Co-Arising and Acquisition
 
-The first rule is reciprocal: consciousness does not occur without
-mental factors, and mental factors do not occur without consciousness.
-The sentence does not first establish an independently occurring
-consciousness and then add factors at a later time.
+The first rule is reciprocal: consciousness does not occur without mental
+factors, and mental factors do not occur without consciousness. This
+assertion is not that consciousness first occurs by itself and receives
+factors later. It does not, by itself, state that consciousness produces
+its factors, that the factors produce consciousness, or that either is
+the cause of the other.
 
-This reciprocity does not imply that every mental factor occurs
-in every consciousness. The general co-arising rule concerns
-consciousness and its accompanying factors; the subsequent class
-division distinguishes how particular factors are distributed.
-Only the great-ground class is here expressly said to occur
-in every consciousness.
+The conditioned-mark rule applies to whatever conditioned dharma arises.
+The Bhāṣya names Form, consciousness, mental factors, and formations
+dissociated from consciousness. The unconditioned, which the previous
+discussion said does not arise, is not included in this arising rule. The
+marks are not enumerated in this passage.
 
-Necessary accompaniment also does not by itself state a direction
-of causal production. “Consciousness produces all its factors,”
-“the factors produce consciousness,” and the stated mutual
-inseparability are different claims. This passage directly states
-the last.
+The acquisition statement is narrower: *sattvākhyam eva … nānyat*,
+only what is designated as sentient, not another.
+The passage does not define acquisition as deliberate obtaining or personal
+ownership. The particle *vā* marks a distinction of cases; it neither
+replaces the conditioned-mark rule nor makes that rule optional.
 
-## 6. Conditioned Marks and Acquisition
+## 6. The Five Classes and *Bhūmi*
 
-The marks of the conditioned accompany whatever conditioned thing
-arises. The prose explicitly ranges over material form, consciousness,
-mental factors, and dissociated formations. The unconditioned,
-excluded from arising in VAK 2.22, is not brought back under this
-universal expression.
+The five class names are *mahābhūmika*, *kuśalamahābhūmika*,
+*kleśamahābhūmika*, *akuśalamahābhūmika*, and
+*parīttakleśamahābhūmika*. The Bhāṣya defines *bhūmi* as
+*gativiṣaya*, a sphere of operation. “Great” in the first class is
+explained through extent: those factors occur in every consciousness.
 
-The marks themselves are not enumerated here. Their conjunction
-is asserted, but a detailed theory of their nature or activity
-should not be supplied as though translated from this paragraph.
+The passage does not yet give the members of the classes. Nor does naming
+five classes establish that they are mutually exclusive or that their
+operating ranges are identical. The following discussion supplies their
+membership and distribution.
 
-The rule for *prāpti*, acquisition, has a narrower range:
-*sattvākhyam eva … nānyat*, only what is designated as belonging
-to a sentient being, not anything else. “Acquisition” is the
-technical term, not a deliberate act of obtaining something or
-a claim of personal ownership.
+## 7. Interpretation
 
-The particle *vā* distinguishes the applicable cases. It does
-not offer acquisition as a substitute for conditioned marks,
-nor make acquisition an optional addition when the specified
-condition holds. A dharma within the stated sentient range falls
-under the conditioned-mark rule as well as this restricted rule.
+VAK 2.23 makes a transition from the co-arising analysis of Form to the
+remaining conditioned Dharmas, and then from necessary association to the
+classification of mental factors by operating range. Its three relations
+must stay distinct: consciousness and its associated mental factors
+necessarily arise together; all arising conditioned Dharmas arise with
+the conditioned marks; and acquisition co-arises only with what is
+designated as sentient. The passage does not collapse these relations into
+one undifferentiated rule.
 
-## 7. Bhūmi and the Five Named Classes
+In the project's Organon framework, the ten Samyama-bhūmis describe
+Path-related operation of mental factors; Buddha Dharma is the 11th Bhūmi.
+This is a project-level synthesis, not the lexical meaning of *bhūmi* in
+this passage. Here the Bhāṣya defines a factor's *bhūmi* as its sphere of
+operation and states that great-ground factors occur in every
+consciousness. The ensuing verses must establish actual class membership
+and range before any further Path mapping is made.
 
-The Bhāṣya defines *bhūmi* by *gativiṣaya*, sphere of operation.
-Its immediate application is to the consciousnesses in which
-mental factors occur. A ground is therefore not a physical place
-in this definition, nor automatically a meditative level or a
-stage of the path.
+The Kośa's governing synthesis: Vijñāna is Discriminative Cognition joining
+and governing Perception and Conception. Their unity is Inconceivable as a
+homogeneous operation; its Idea is disclosed in the Cognition Base. Vijñāna
+governs Mind and guides the reading of Dharma Base. Form Base and Dharma
+Base both include the same *avijñapti* in distinct classifications, and
+Vijñāna bears a *prati* relation to *avijñapti*. This synthesis preserves
+the distinct determinations of *citta*, mental factors, and Vijñāna rather
+than treating them as interchangeable terms.
 
-“Great” in *mahābhūmika* is explained through breadth: these factors
-occur in every consciousness. Universality of occurrence does
-not make every such factor exclusively wholesome. The distinction
-between the first class and the explicitly wholesome class must
-remain available for the following verses.
+## 8. Textual and Scope Notes
 
-The five names are retained as technical class designations:
-*mahābhūmika*, *kuśalamahābhūmika*, *kleśamahābhūmika*,
-*akuśalamahābhūmika*, and *parīttakleśamahābhūmika*. Naming five
-classes here is not sufficient evidence that all mental factors
-form five mutually exclusive sets with no further qualifications.
-Those relations require the ensuing accounts of their members
-and ranges.
-
-## 8. The Bhāṣya's Decisions for Translation
-
-The supplied expansion *sarvaṃ saṃskṛtalakṣaṇaiḥ* governs the
-translation of the compact kārikā reading. It gives “everything
-with the conditioned marks,” rather than merely “with all the
-conditioned marks” as a further qualification of consciousness.
-The repeated *sahāvaśyam* supplies the necessary co-arising predicate.
-
-*Caitta* and *caitasika* are rendered “mental factor” in this
-passage. *Viprayukta* is expanded as “dissociated formation” from
-the fivefold classification introduced in VAK 2.22; it is not a
-claim that such formations are unrelated to every other dharma.
-
-The conventional translation gives *vikalpa* its local grammatical
-force, a distinction of cases. Reading it here as imaginative
-construction would obscure the explanation of *vā*. Similarly,
-“ground” follows the author's local definition rather than
-importing a different technical use of *bhūmi*.
-
-## 9. Philosophical and Organon Study
-
-This unit distinguishes three relations: reciprocal co-arising
-of consciousness and mental factors, universal accompaniment by
-conditioned marks, and restricted accompaniment by acquisition.
-Their shared language of arising together does not erase the
-differences in scope.
-
-For Organon interpretation, the next movement is from necessary
-association to determinate range. A factor is considered not only
-as a named item, but through the consciousnesses in which it occurs.
-The definition of ground makes that relation explicit and prepares
-the more particular inquiry into each class.
-
-These relations ground a systematic reading of mental life. In the
-project's Organon framework, the mental-factor analysis beginning here and
-the Kośa's Path structure unfold through the ten Samyama-bhūmis. The factor
-classes are not themselves equated one-to-one with those stages; their
-membership and operating ranges must be tracked across the progression.
-The present verse establishes its starting conditions: necessary co-arising,
-the scope of conditioned marks, restricted acquisition, and the definition
-of *bhūmi* as operating range.
-
-**Organon reading:** Cognition names the universal cognitive determination
-of the articulated event; the five grounds specify the ranges within which
-factors operate. Those ranges are not five successive times, and acquisition
-does not collapse into conditioned co-arising. This reading places the
-classification within the temporal organization of Śuddha Sattva without
-attributing that philosophical framework to the Bhāṣya's translation.
-
-**Samyama-bhūmi progression:** In the Organon reading, VAK 2.23 begins the
-progression through which mental factors and the Kośa's Path structure are
-traced across the ten Samyama-bhūmis. The Bhāṣya's *bhūmi* still means
-operating range in the conventional account; the progression is the
-project's interpretation of how those ranges articulate Path. It does not
-make the five named factor-classes identical to five or ten stages.
-
-**Return to the Principle system:** VAK 1.48 places Mind-Faculty across the
-seven Citta Domains. That typed incidence is not the same determination as
-the mental factors associated with Citta; VAK 2.23 makes their necessary
-co-arising explicit without converting a factor into a Faculty. The Rule of
-association is followed by a separate classification through *bhūmi*, the
-factor's operating range.
-
-**Section boundary:** In the Pruden framing you identify, VAK 2.22 marks
-the end of Rule Theory. VAK 2.23 is the transition into the Mental-Factor
-analysis: it carries co-arising into consciousness, then shifts its main
-question to the five classes and their grounds. For the deep dive, these
-relations must remain distinct: mutual co-arising of Citta and factors,
-conditioned marks, restricted *prāpti*, and factor-specific operating range.
-
-## 10. Review Status
-
-Provisional twenty-third study of the restarted Indriyanirdeśa
-Bhāṣya sequence. The research Bhāṣya, existing Organon kārikā
-study, and running Sanskrit at 54.03–54.16 have been compared.
-
-The three co-arising rules, the restriction on acquisition, all
-five class names, and the definition of ground are translated
-continuously. Normalizations and the compact kārikā reading are
-explicit. Original witnesses and existing studies are unchanged.
-VAK 2.24 begins with the question at 54.16 identifying the factors
-that occur in every consciousness.
+The translation follows the running transcription at printed 54.03–54.16.
+The compact kārikā is not silently emended to match the Bhāṣya's expansion.
+The source spelling *satvākhyam* and the transmitted fifth class are
+recorded above; normalized word divisions are editorial. The treatment
+ends before the question answered by VAK 2.24. No independent collation
+is claimed.

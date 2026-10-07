@@ -12,128 +12,121 @@
 >
 > manaskāro 'dhimokṣaś ca samādhiḥ sarvacetasi // 2.24 //
 
-## 3. Padaccheda
+## 3. Lexical Analysis
 
 ```text
-vedanā              → vedanā
-cetanā              → cetanā
-saṃjñā              → saṃjñā
-cchandaḥ            → chandaḥ
-sparśo              → sparśaḥ
-matiḥ               → matiḥ
-smṛtiḥ              → smṛtiḥ
-manaskāro           → manaskāraḥ
-adhimokṣaś ca       → adhimokṣaḥ ca
-samādhiḥ            → samādhiḥ
-sarvacetasi         → sarva-cetasi
+vedanā       → vedanā
+cetanā       → cetanā
+saṃjñā       → saṃjñā
+cchandaḥ     → chandaḥ
+sparśo       → sparśaḥ
+matiḥ        → matiḥ
+smṛtiḥ       → smṛtiḥ
+manaskāro    → manaskāraḥ
+adhimokṣaś ca → adhimokṣaḥ ca
+samādhiḥ     → samādhiḥ
+sarvacetasi  → sarva-cetasi
 ```
 
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
-| vedanā | nominative feminine singular | feeling / affective experience |
-| cetanā | nominative feminine singular | volition |
-| saṃjñā | nominative feminine singular | recognition |
-| chandaḥ | nominative masculine singular | desire-to-act / intention to perform |
-| sparśaḥ | nominative masculine singular | contact |
-| matiḥ | nominative feminine singular | discernment |
-| smṛtiḥ | nominative feminine singular | recollection / non-loss |
-| manaskāraḥ | nominative masculine singular | attention / orientation of consciousness |
-| adhimokṣaḥ | nominative masculine singular | resolution / decisive commitment |
-| samādhiḥ | nominative masculine singular | concentration / one-pointedness |
-| sarva-cetasi | locative neuter singular compound | in every consciousness-event |
-
-The ten nominatives share the locative predicate `sarvacetasi`. The verse
-does not present a temporal sequence; it asserts their universal co-presence
-in every consciousness-event.
+| vedanā | nominative feminine singular | feeling; three kinds of experience are explained in the Bhāṣya |
+| cetanā | nominative feminine singular | volition; formative activity of consciousness |
+| saṃjñā | nominative feminine singular | recognition; its transmitted gloss is uncertain |
+| chandaḥ | nominative masculine singular | desire to perform |
+| sparśaḥ | nominative masculine singular | contact arising from conjunction of Faculty, *viṣaya*, and Cognition |
+| matiḥ | nominative feminine singular | discernment; identified with *prajñā* |
+| smṛtiḥ | nominative feminine singular | recollection; non-loss of the object-support |
+| manaskāraḥ | nominative masculine singular | application or direction of consciousness |
+| adhimokṣaḥ | nominative masculine singular | resolution; glossed by *adhimukti* |
+| samādhiḥ | nominative masculine singular | concentration; one-pointedness of consciousness |
+| sarva-cetasi | locative neuter singular compound | in every consciousness |
 
 ## 4. Grammar
 
-The entire verse has one distributive structure:
+The ten coordinated nominatives share one locative predicate:
 
 ```text
 vedanā ... samādhiḥ
-    → ten coordinated subjects
+    → the ten named factors
 
 sarva-cetasi
-    → in every citta / consciousness-event
+    → in every consciousness
 ```
 
-The understood predicate is “occur” or “are present,” carried from the
-preceding discussion of necessary co-arising:
+The Bhāṣya supplies the predicate “are all present together in every
+moment of consciousness” (*sarvatra cittakṣaṇe samagrā bhavanti*).
+The list is therefore distributive and co-present, not a sequence of
+successive operations. The factors' definitions distinguish their
+functions without undoing this co-occurrence.
 
-```text
-For every citta-event:
-    all ten listed factors are present together
-```
+## 5. Scientific English Rendering
 
-The Bhāṣya marks the inherited universal claim with `kila`, “it is said.”
-That particle introduces a slight reportive distance: Vasubandhu expounds the
-Vaibhāṣika ten-factor analysis while emphasizing how difficult these subtle
-distinctions are to determine.
+### Kārikā
 
-`Sarvacetasi` fixes the extension of the `mahābhūmi`: the operating ground of
-these factors is every consciousness. It does not say that every
-consciousness perfectly exercises each factor.
+> Feeling, volition, recognition, desire to perform, contact, discernment,
+> recollection, attention, resolution, and concentration [occur] in every
+> consciousness.
 
-## 5. Translation
+### Bhāṣya-informed rendering
 
-### Close syntactic construe
+> These ten Dharmas, it is said, are all present together in every moment
+> of consciousness. Feeling is three kinds of experience: pleasant,
+> painful, and neither painful nor pleasant. Volition is the formative
+> activity of consciousness, mental action. Recognition is apprehension
+> of the distinguishing mark of a *viṣaya* [the transmitted gloss is
+> damaged]. Desire to perform is the wish to act. Contact is touching
+> arising from the conjunction of Faculty, *viṣaya*, and Cognition.
+> Discernment is *prajñā*, discrimination among Dharmas. Recollection is
+> non-loss of the object-support. Attention is the application of
+> consciousness. Resolution is *adhimukti*, settling upon. Concentration
+> is the one-pointedness of consciousness.
 
-> Feeling, volition, recognition, desire-to-act, contact, discernment, recollection, attention, resolution, and concentration [occur] in every consciousness-event.
+The Bhāṣya's final comparison is that distinctions among consciousness
+and mental factors are difficult to determine even across streams, and
+more difficult within individual moments. Even differences of taste among
+Form-bearing medicinal plants, apprehensible by Faculty, can be hard to
+discern; this is still more so for non-Form Dharmas apprehended by
+understanding.
 
-### Bhāṣya-informed translation
+## 6. Interpretation
 
-> It is said that every moment of consciousness necessarily contains ten distinguishable mental functions: affective experience, formative volition, recognition of a distinguishing mark, desire to act, contact arising through faculty, registered `viṣaya`, and differentiated cognition, discrimination among dharmas, non-loss of the cognitive support, direction of consciousness, decisive commitment, and some degree of one-pointedness.
+The verse states that all ten factors occur in every consciousness; the
+Bhāṣya defines them distinctly and then emphasizes how difficult their
+distinction is. Universal occurrence does not mean equal strength,
+correctness, ethical quality, or liberating efficacy. The definitions also
+do not make the ten a temporal sequence or assert that each is separately
+obvious to ordinary inspection.
 
-Their universality is distributive across consciousness-events. Their
-definitions do not imply equal strength, correctness, purity, or liberating
-efficacy in every event.
+In Kant-informed Techne, the ten names analyze distinguishable functions
+within a co-articulated consciousness-event, not ten successive additions
+to a bare consciousness-substance. This is a project-level reading of
+their stated co-occurrence and definitions; it does not replace the local
+glosses or infer that universal occurrence is perfected operation.
 
-## 6. Philosophical Translation
+The ten Samyama-bhūmis describe Path-related operation of mental factors
+in the Organon framework, with Buddha Dharma as the 11th Bhūmi. VAK 2.24
+establishes universal occurrence in every consciousness but does not assign
+the ten factors individually to those Bhūmis or say they are already
+perfected. That project-level Path synthesis remains distinct from the
+Bhāṣya's account.
 
-> Every actual consciousness is already an articulated act. It undergoes an affective tone, forms an impulse, recognizes a mark, tends toward action, registers a determinate presentation, discriminates, retains its cognitive support, directs itself, settles, and holds together. These are not successive additions to bare awareness but distinguishable functions necessarily conjoined in each event.
+The Kośa's governing synthesis: Vijñāna joins and governs Perception and
+Conception as Discriminative Cognition. Their unity is Inconceivable as a
+homogeneous operation, and its Idea is disclosed in the Cognition Base.
+Vijñāna governs Mind and guides Dharma Base. *Avijñapti* is one Dharma
+classified in both Form Base and Dharma Base; Vijñāna bears a *prati*
+relation to it. These relations do not make *citta* synonymous with
+Vijñāna, or the ten mental factors additional Faculties.
 
-Organon rendering:
-
-> The ten factors determine every consciousness as a co-articulated cognitive occurrence, not as ten additions arriving in succession. They are universal cognitive determinations of the event, while the particular Idea is its object-content and is not thereby another factor in the list. This universality describes the structure of an occurrence; it neither makes every occurrence equally adequate nor assigns it a predetermined path-stage.
-
-This is an Organon interpretation of the reported Vaibhāṣika doctrine that
-ten mental factors occur together in every consciousness, not an addition to
-the conventional translation.
-
-## 7. Technical Vocabulary
-
-| Sanskrit | Project rendering | Bhāṣya determination |
-|---|---|---|
-| vedanā | feeling | threefold experience: pleasant, painful, or neutral |
-| cetanā | volition | formative activity of consciousness and mental karma (`cittābhisaṃskāra`) |
-| saṃjñā | recognition | apprehension of the distinguishing mark within the registered `viṣaya` (`viṣaya-nimitta-udgraha`) |
-| chanda | desire-to-act | wish to perform an action (`kartṛkāmatā`) |
-| sparśa | contact | touching born through faculty, indriya-registered `viṣaya`, and differentiated cognition |
-| mati | discernment | `prajñā`, discrimination among dharmas (`dharma-pravicaya`) |
-| smṛti | recollection / retention | non-loss of the cognitive support (`ālambana-asaṃpramoṣa`) |
-| manaskāra | attention / orientation | directing or application of consciousness |
-| adhimokṣa | resolution | decisive commitment or settling |
-| samādhi | concentration / stabilization | one-pointedness of consciousness (`cittasya ekāgratā`) |
-| mahābhūmika | great-ground factor | factor whose operating range extends through every consciousness |
-| sarvacetasi | in every consciousness | universal range-quantifier for the ten factors |
-| viṣaya | indriya-registered consciousness-event | determinate presentation registered through faculty-operation, not a ready-made external object |
-
-`Mati` is explicitly identified with `prajñā` here, but this means that some
-discriminative function is present in every consciousness. It does not make
-every discrimination correct or liberating. Likewise, universal `samādhi`
-means some one-pointed organization, not perfected meditative absorption.
-
-## 8. Logical Determination
-
-Let the universal set be:
+## 7. Logical Determination
 
 ```text
 UniversalCaittas = {
     Feeling,
     Volition,
     Recognition,
-    DesireToAct,
+    DesireToPerform,
     Contact,
     Discernment,
     Recollection,
@@ -141,160 +134,36 @@ UniversalCaittas = {
     Resolution,
     Concentration
 }
+
+For every consciousness-event e:
+    For every factor f in UniversalCaittas:
+        PresentTogether(f, e)
 ```
 
-The Kārikā's universal claim is:
+This formalizes the universal co-presence claim only. It does not specify
+causal order, equal intensity, or perfected function.
 
-```text
-ForEvery cittaEvent e:
-    ForEvery factor f in UniversalCaittas:
-        CoarisesIn(f, e)
-```
+## 8. Interpretive Note
 
-This is simultaneous functional articulation, not a ten-step chronology:
+VAK 2.24 answers the question at the close of VAK 2.23: which factors
+occur in every consciousness? Its list gives the members of the
+great-ground class, and its Bhāṣya explains each name. The concluding
+analogy qualifies how readily these subtle distinctions can be made; it
+does not retract the definitions or introduce a competing list.
 
-```text
-CoarisesIn(f, e)
-    ⇏ TemporallyPrecedes(f, anotherFactor)
-```
+The passage's *mati* is identified locally with *prajñā*, discrimination
+among Dharmas, and *samādhi* with one-pointedness of consciousness.
+These definitions establish functions present in every consciousness in
+the reported account; they do not establish correctness or meditative
+attainment in every case. In the inner-instrument Techne, the
+identification of *mati* with *prajñā* supports the project rendering
+Science of Principles; that reading does not replace the local definition
+or imply perfected discrimination in every occurrence.
 
-The factors can nevertheless be related analytically:
-
-```text
-Contact
-    → encounter-condition
-
-Feeling + Recognition
-    → affective and differentiating registration
-
-Volition + DesireToAct
-    → formative and prospective orientation
-
-Recollection + Attention
-    → retention and direction of cognitive support
-
-Resolution + Concentration
-    → decision and unification
-
-Discernment
-    → discrimination among dharmas throughout the event
-```
-
-This ordering is an analytical reconstruction of functions, not a temporal
-sequence asserted by the Bhāṣya.
-
-The universality has two independent dimensions when compared with Yoga:
-
-```text
-Kośa:
-    sarva-cetasi
-    → ∀ consciousness-events
-
-Yoga Tāraka Knowledge:
-    sarva-viṣaya
-    → ∀ indriya-registered consciousness-events
-
-    sarvathā-viṣaya
-    → ∀ determinate manners of those registered events
-```
-
-Therefore:
-
-```text
-UniversalPresenceOfFunction
-    ≠ UniversalAdequacyOfKnowledge
-```
-
-## 9. Interpretive Note
-
-VAK 2.24 populates the first and widest mental-factor ground. The ten factors
-are `mahābhūmika` not because each is spiritually exalted, but because each
-has the maximum operating extension: every consciousness-event is its ground.
-The bhūmi is a quantified distribution.
-
-Two members make the Yoga connection especially powerful. `Mati` is defined
-as `prajñā`, discrimination among dharmas. `Samādhi` is defined as the
-one-pointedness of consciousness. Thus discrimination and stabilization are
-not exceptional foreign powers attached only at the summit; the Kośa treats
-some degree of each as constitutive of every mental event.
-
-But their universal presence must not be confused with their perfected form.
-A defiled or mistaken consciousness still discriminates and stabilizes in
-some manner. Yoga's knowledge born of discrimination and Tāraka Samādhi name
-the purification and completion of these capacities, not their first
-appearance.
-
-The complementary quantifiers give us the Agent wiring:
-
-```text
-Kośa universal:
-    every consciousness has the functional basis
-
-Yoga universal:
-    perfected discriminative knowledge comprehends every
-    indriya-registered consciousness-event in every determinate manner
-```
-
-This can be expressed as a two-axis adequacy condition:
-
-```text
-ScientificKnowing(agent)
-    requires
-        ∀ cittaEvent:
-            structurally complete mental operation
-
-        ∀ registeredViṣaya, ∀ manner:
-            adequate discriminative determination
-```
-
-The first axis is supplied here as mental Technē. The second is the Yoga
-horizon of Tāraka knowledge. Their synthesis supports the project posit that
-Path Knowledge is the science of transforming universally present functions
-into universally adequate discrimination.
-
-The Bhāṣya also adds an epistemic warning. These ten jointly arising
-immaterial functions are extremely difficult to distinguish—even more
-difficult than subtle differences of taste among medicinal plants. The
-taxonomy is therefore not naïve introspection. The Agent will need explicit
-discriminative rules to infer functional distinctions that are not separately
-available as obvious appearances.
-
-**Organon temporal reading:** The ten are universal cognitive
-determinations because they co-occur in each cognition-event, not because
-they are powers acquired successively over time. Cognition is the universal
-articulation; the particular Idea is its object-content. Their universal
-presence supplies a structure that path-practice may transform, not a claim
-that every cognition is already perfected.
-
-**Across the Samyama-bhūmis:** Beginning from VAK 2.23, the ten-factor
-structure is the invariant mental basis traced across the Samyama-bhūmi
-progression. The verse does not assign one factor to each bhūmi; it says
-that all ten are present in every consciousness-event. The progression
-concerns how this universal basis is qualified and made adequate, not the
-successive acquisition of factors. *Mati/prajñā* and *samādhi* are therefore
-already present as functions, while their perfected Yoga determinations
-remain distinct.
-
-**Fichte–Hegel method (Organon, not source attribution):** The Hegelian
-moment is the universal made actual through differentiated functions: no
-empty Citta stands apart from feeling, recognition, volition, attention, and
-the other factors. The Fichtean return negates the abstraction of bare
-consciousness and reconstructs each event as this reciprocal, self-articulated
-act. The Kośa's practical analysis exhibits the rule in operation; it is not
-merely a theoretical list of functions.
-
-**Return to the Principle system:** VAK 1.48 maps one Mind-Faculty across the
-seven Citta Domains. VAK 2.24 differentiates the functions necessarily
-arising with each consciousness-event without multiplying that Faculty or
-identifying factors with its Domain-loci. Dhātu supplies the Principle of
-typed placement; the universal co-arising rule shows the mental event
-operating within it.
-
-## 10. OWL++ Seed
+## 9. OWL++ Seed
 
 ```ttl
 @prefix vak: <http://127.0.0.1:3000/vak#> .
-@prefix yoga: <http://127.0.0.1:3000/yoga#> .
 @prefix organon: <http://127.0.0.1:3000/organon#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
@@ -308,26 +177,18 @@ vak:UniversalMentalFactors
     vak:hasMember vak:Feeling,
         vak:Volition,
         vak:Recognition,
-        vak:DesireToAct,
+        vak:DesireToPerform,
         vak:Contact,
         vak:Discernment,
         vak:Recollection,
         vak:Attention,
         vak:Resolution,
         vak:Concentration ;
-    vak:operatesIn vak:EveryCittaEvent .
+    vak:occursIn vak:EveryCittaEvent .
 
 vak:Discernment
     vak:definedAs vak:DiscriminationAmongDharmas .
 
 vak:Concentration
     vak:definedAs vak:OnePointednessOfCitta .
-
-organon:ScientificKnowing
-    a organon:InterpretiveReconstruction ;
-    organon:requires vak:UniversalMentalFactors,
-        yoga:AllRegisteredVisayaScope,
-        yoga:AllMannerScope ;
-    organon:distinguishes organon:UniversalPresenceOfFunction,
-        organon:UniversalAdequacyOfKnowledge .
 ```

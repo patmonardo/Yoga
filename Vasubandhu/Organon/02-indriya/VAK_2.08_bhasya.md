@@ -50,7 +50,7 @@ source locator 42.02–41.03 is treated as a locator defect within
 the continuous passage, not as a textual displacement. No substantive
 emendation or independent collation is claimed.
 
-## 3. Continuous Conventional Translation
+## 3. Scientific English Rendering
 
 “Elsewhere, that feeling is gladness.” Outside the third dhyāna—in
 the desire realm and in the first and second dhyānas—that pleasant
@@ -171,42 +171,40 @@ technical term. The bodily pleasure and pain of the arhat are
 preserved without adding a broader theory of liberation to the
 quoted explanation.
 
-## 9. Philosophical and Organon Study
+## 9. Interpretation
 
-**Organon extension—not a literal Bhāṣya doctrine:** Dhātu 1.48
-locates the five feeling-Faculties within a portion of the
-Essence-Domain. Indriya 2.08 returns to this placement by explaining
-which differences in feeling warrant separate Faculty-status.
-Bodily and mental pleasure and pain differ in their manner of arising
-or effect; bodily and mental neutral feeling remain distinct modes
-but are one Faculty with respect to *upekṣaṇa*, remaining neutral.
+The Bhāṣya distinguishes the naming of agreeable mental feeling in
+the third dhyāna from its naming elsewhere: there, dispassion toward
+*prīti* makes it *sukha* rather than *saumanasya*. It then explains
+why bodily and mental pleasure and pain count separately, while bodily
+and mental neutral feeling count as one with respect to remaining
+neutral. The stated qualifier *prāyeṇa* applies to mental pleasure
+and pain arising through *vikalpana*; it is not a universal causal
+claim.
 
-This is a determinate negation. *Avikalpanāt* negates Faculty-
-differentiation only with respect to the neutral operation, not the
-bodily/mental difference itself. The exception carried forward from
-2.07 likewise limits the negation: mental pleasure is *sukha* in
-the third dhyāna, while elsewhere it is *saumanasya*. The condition
-that warrants each classification is retained in the reconstruction.
+The project crosswalk with Dhātu 1.48 places the five feeling
+Faculties within the Base–Essence–Principle architecture, while the
+Bhāṣya supplies functional grounds for distinguishing or unifying
+their modes. These accounts address different questions and are not
+collapsed into one another.
 
-In the project's framing, Hegelian Logic supplies Pure Theoretical
-Reason and the Kośa supplies Practical Reason. Indriya's Fichtean
-return tests the Dhātu placement through these concrete operations:
-it neither multiplies Faculties for every mode nor collapses distinct
-operations because they share a tone. This is specific to the
-Bhāṣya's fivefold feeling-classification; it is not a universal rule
-for all Faculties or a literal philosophical claim made by the
-commentary.
+Across the Kośa, Vijñāna is Discriminative Cognition joining Perception
+and Conception without reducing their unity to one homogeneous
+operation; it governs Mind and guides the reading of Dharma Base. The
+same *avijñapti* remains one content in the Form Base and Dharma Base
+classifications, and Vijñāna bears a *prati* relation to it. This
+cross-chapter synthesis is an Organon framework, not a claim made by
+this Bhāṣya.
 
-## 10. Review Status
+In a Kant-informed Techne reading, the distinction between separate
+and unified Faculty designations follows the functions and conditions
+specified in the passage. This is a project-level interpretation,
+not terminology or philosophical attribution supplied by the source.
 
-Provisional eighth study of the restarted Indriyanirdeśa Bhāṣya
-sequence. The research kārikā and Bhāṣya, existing Organon kārikā
-study, and running Sanskrit at 41.16–42.06 have been compared.
-The continuous translation preserves both explanations of the
-unity of neutral feeling and the qualification “for the most part.”
+## 10. Textual and Scope Notes
 
-Mechanical repairs and the defective source locator are recorded.
-The two senses of differentiation remain explicit; neutral feeling
-is not identified with every use of equanimity. Original witnesses
-and the existing kārikā study are preserved. The unit ends before
-VAK 2.09.
+The unit preserves both explanations of the unity of neutral feeling
+and the qualification “for the most part.” Mechanical repairs and
+the source-locator defect are recorded above; no independent collation
+is claimed. Neutral feeling is not identified with every use of
+equanimity. The unit ends before VAK 2.09.

@@ -15,7 +15,7 @@
 The joined source form `tattvekam` resolves as `tat tu ekam`, with the final
 consonant of `tat` assimilated before `tu`.
 
-## 3. Padaccheda
+## 3. Lexical Analysis
 
 ```text
 vipāko             → vipākaḥ
@@ -29,7 +29,7 @@ savipākaṃ          → sa-vipākam
 daśa dvidhā        → daśa dvidhā
 ```
 
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | vipākaḥ | nominative masculine singular | maturation-result; matured effect of prior karma |
 | jīvitam | nominative neuter singular | life-faculty |
@@ -97,13 +97,13 @@ daśa dvidhā
 
 The verse therefore performs two classifications, not one continued count.
 
-## 5. Translation
+## 5. Scientific English Rendering
 
-### Close syntactic construe
+### Kārikā
 
 > The life-faculty is maturation-result; twelve are twofold, apart from the final eight and distress. That one alone, however, possesses maturation as its result; ten are twofold.
 
-### Bhāṣya-informed translation
+### Bhāṣya-informed rendering
 
 > The life-faculty is invariably a matured karmic result. Twelve faculties may be either maturation-result or not: the seven material faculties, mind, and the four feelings other than distress. Distress is never itself maturation-result, but it alone invariably produces future maturation. Ten faculties—mind, the other four feelings, and the five beginning with confidence—may either produce future maturation or not.
 
@@ -115,19 +115,28 @@ distress
     = always savipāka
 ```
 
-## 6. Philosophical Translation
+## 6. Interpretation
 
-> A faculty must be classified separately according to what it presently receives from the past and what its present operation carries into the future. Life is necessarily received maturation. Distress is never such a received result, because it arises and subsides through present conceptual construction; nevertheless, precisely as a present afflicted operation, it invariably produces further maturation. One faculty can therefore occupy different positions on the incoming and outgoing sides of karmic causality.
+The verse distinguishes two independent classifications. *Vipāka* asks
+whether a Faculty-instance is itself a maturation-result; *sa-vipāka* asks
+whether it produces maturation as a result. Life is ordinarily maturation,
+with the Bhāṣya qualifying this for the specially concentration-generated
+life-faculty. Distress is never itself maturation, yet invariably has
+maturation as its result. The two predicates must not be collapsed.
 
-Organon rendering:
+In the Kant-informed Techne, provenance and result-producing capacity
+are separate criteria for classifying an instance. This is a
+project-level formalization of the Bhāṣya's distinctions, not language
+used by the source. The Dhātu crosswalk locates Faculty-status within
+the Base–Essence–Principle architecture; it does not predetermine either
+karmic relation.
 
-> The Kośa Agent requires a bidirectional causal ledger. `Vipāka` records provenance: whether the present determination is the maturation of prior action. `Savipāka` records consequence: whether the present determination generates future maturation. Faculty identity alone settles neither axis; ethical quality, outflow-status, mode of production, and present operation determine the result-status of each instance.
-
-The “incoming” and “outgoing” language is an Organon rendering of the two
-classifications. The Kārikā and Bhāṣya speak technically of `vipāka` and
-`sa-vipāka`.
-
-**Transcendental Time determination (Organon, not translation):** `Vipāka` and `sa-vipāka` articulate opposite temporal directions: the present faculty-instance as received from prior action, and its bearing of future maturation. These are universal Cognitions of provenance and consequence, not clock-time measurements. The particular Ideas are the faculty-instances—especially life and distress—whose two causal relations must be judged separately.
+Across the Kośa, Vijñāna is Discriminative Cognition joining Perception
+and Conception without reducing their unity to one homogeneous operation;
+it governs Mind and guides the reading of Dharma Base. The same
+*avijñapti* remains one content in the Form Base and Dharma Base
+classifications, and Vijñāna bears a *prati* relation to it. This wider
+synthesis frames, but is not stated in full by, this verse.
 
 ## 7. Technical Vocabulary
 
@@ -136,7 +145,7 @@ classifications. The Kārikā and Bhāṣya speak technically of `vipāka` and
 | vipāka | maturation-result | a presently arisen determination produced through prior karma |
 | sa-vipāka | possessing maturation as result | capable of producing future maturation |
 | avipāka | not maturation-result | Bhāṣya-side denial of present maturation-status |
-| jīvita-indriya | life-faculty | invariably maturation-result |
+| jīvita-indriya | Life Faculty | ordinarily maturation-result; specially concentration-generated life is excepted by the Bhāṣya |
 | daurmanasya-indriya | distress-faculty | never maturation-result and invariably productive of maturation |
 | dvedhā / dvidhā | twofold | capable of either value on the relevant result-axis |
 | antya-aṣṭaka | final eight | five beginning with confidence plus the three realization-faculties |
@@ -178,7 +187,7 @@ ProducesMaturation(x)
 The first partition is:
 
 ```text
-AlwaysVipaka
+VerseVipakaGroup
     = {Life}
 
 VipakaTwofold
@@ -204,6 +213,10 @@ Its count is:
 ```text
 1 + 12 + 9 = 22
 ```
+
+The Bhāṣya qualifies the verse's placement of Life: specially
+concentration-generated life in the described arhat is not maturation;
+other life is.
 
 The second partition is:
 
@@ -255,18 +268,18 @@ is the stated argument concerning distress.
 
 ## 9. Interpretive Note
 
-**Organon time-reading:** This is a two-directional account of karmic temporality, not one linear chain that makes every present state simply inherited or every consequence inevitable. Life illustrates received maturation; distress illustrates present construction and future productivity without itself being maturation. The distinction keeps causal history and prospective consequence separate while leaving the Bhāṣya's scope and exceptions intact.
-
 VAK 2.10 prevents a major causal confusion. A present faculty-instance may be
 the maturation of prior karma, may produce maturation in the future, may do
 both, or may do neither. `Vipāka` and `sa-vipāka` must therefore be tracked as
 different relations rather than collapsed into one property.
 
-Life is the clearest received result. The life-faculty maintains a continuum
-whose present existence has matured from prior karma; it is categorically
-`vipāka`. Material and affective faculties are more variable. Their named
-identity does not determine whether a particular instance is matured result:
-mode of production, ethical quality, and operational context matter.
+Life is the clearest received result: ordinarily, the life-faculty maintains
+a continuum whose present existence has matured from prior karma. The
+Bhāṣya nevertheless distinguishes the specially concentration-generated
+life-faculty from life that is maturation. Material and affective faculties
+are more variable; their named identity does not determine whether a
+particular instance is matured result. Mode of production, ethical quality,
+and operational context matter.
 
 Distress exposes the practical force of the distinction. The Vaibhāṣika
 argument says that distress is produced and calmed by `parikalpa-viśeṣa`, a
@@ -276,47 +289,31 @@ not passively received as `vipāka`. Yet it is never indeterminate or without
 outflows and is never concentrated; consequently it invariably has future
 maturation as result.
 
-This gives the Kośa Agent both causal accountability and a point of
-intervention:
+The Bhāṣya qualifies the opening statement about Life: the specially
+concentration-generated life-faculty of the described arhat is not
+maturation, while other life is. The debate about distress likewise
+preserves objections and replies before attributing the conclusion
+to the Vaibhāṣikas. These qualifications belong to the account and
+must not be erased by summarizing only the kārikā.
 
-```text
-for every present determination, ask separately
-    what produced it?
-    what will it produce?
+The Dhātu crosswalk situates Faculty-status within the Base–Essence–
+Principle architecture; this passage classifies particular instances
+by their incoming karmic relation and their capacity to produce future
+maturation. Neither classification determines the other.
 
-if a painful mental determination is construction-dependent,
-    do not misclassify it as an unavoidable inherited result
+In the Kant-informed Techne, *vipāka* and *sa-vipāka* form distinct
+criteria for tracking provenance and result-producing capacity. The
+interpretation remains bounded by the Bhāṣya's stated distributions
+and exceptions; it does not convert them into a universal theory of
+causality.
 
-if it is presently consequence-producing,
-    do not mistake non-inheritance for causal innocence
-```
-
-Our comparison of Path with Samyama-bhūmis can now be sharpened. A bhūmi
-would not merely name a static level. It would constrain the configuration,
-outflow-status, provenance, and future productivity of the Agent's faculties.
-This is an Organon comparative hypothesis. VAK 2.10 itself establishes the
-two result-axes and their faculty partitions.
-
-**Reciprocal return to Dhātu.** Dhātu 1.48 locates Life, the five
-feeling-Faculties, and further Faculties in a portion of the
-Essence-Domain. Indriya 2.10 returns to those mapped Faculties with
-a different question: is this instance the matured result of prior
-action, does it produce future maturation, both, or neither? Dhātu
-gives the Faculty-locus; the Kośa's practical analysis determines
-the instance's incoming and outgoing karmic relations. Neither
-classification absorbs the other.
-
-**Determinate negation.** The verse negates any collapse of `vipāka`
-into `sa-vipāka`: distress is never itself maturation-result, yet
-is invariably productive of maturation. This is not causal innocence
-or absence, but a distinct causal direction. The lifespan discussion
-also qualifies the claim about Life: the Bhāṣya distinguishes the
-special concentration-generated life from life that is maturation.
-In the project's framing, Hegelian Logic supplies Pure Theoretical
-Reason and the Kośa Practical Reason; the Fichtean return reconstructs
-the Dhātu-located Faculty through these distinct causal predicates.
-The verse gives no warrant to infer that a Faculty's Dhātu-locus alone
-determines its karmic status.
+Across the Kośa, Vijñāna is Discriminative Cognition joining Perception
+and Conception without reducing their unity to one homogeneous operation;
+it governs Mind and guides the reading of Dharma Base. The same
+*avijñapti* remains one content in the Form Base and Dharma Base
+classifications, and Vijñāna bears a *prati* relation to it. This
+cross-chapter synthesis is an Organon framework, not a claim made
+by this verse.
 
 ## 10. OWL++ Seed
 
@@ -343,8 +340,13 @@ vak:SavipakaRelation
     vak:tracks vak:FutureKarmicProductivity .
 
 vak:LifeFaculty
-    vak:hasVipakaStatus vak:AlwaysVipaka ;
+    vak:hasVipakaStatus vak:VipakaByDefault ;
     vak:hasSavipakaStatus vak:NeverSavipaka .
+
+vak:ConcentrationGeneratedLife
+    a vak:LifeFacultyInstance ;
+    vak:hasVipakaStatus vak:NeverVipaka ;
+    vak:qualifies vak:VipakaByDefault .
 
 vak:DistressFaculty
     vak:hasVipakaStatus vak:NeverVipaka ;

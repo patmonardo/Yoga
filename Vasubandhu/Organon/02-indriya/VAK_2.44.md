@@ -12,195 +12,133 @@
 >
 > kāmarūpāśraye bhūte nirodhākhyādito nṛṣu // 2.44 //
 
-The first half is discussed in a continuation of the previous Bhāṣya:
-the Buddha question begins at 70.21 and the verse fragment at 70.22.
-The second half's commentary resumes at 71.16; its verse fragment
-follows at 71.17.
-
-## 3. Padaccheda
+## 3. Lexical Analysis
 
 ```text
 bodhilabhyā          → bodhi-labhyā
-muner               → muneḥ
-na prāk             → na prāk
+muner na prāk         → muneḥ na prāk
 catustriṃśatkṣaṇāptitaḥ
                     → catuḥ-triṃśat-kṣaṇa-āptitaḥ
-kāmarūpāśraye       → kāma-rūpa-āśraye
-bhūte               → bhūte
-nirodhākhyādito     → nirodha-ākhyā āditaḥ
-nṛṣu                → nṛṣu
+kāmarūpāśraye        → kāma-rūpa-āśraye
+bhūte                → bhūte
+nirodhākhyādito nṛṣu → nirodha-ākhyā āditaḥ nṛṣu
 ```
 
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
-| bodhi-labhyā | nominative feminine singular gerundive compound | obtained with awakening |
-| muneḥ | genitive masculine singular | by or for the Sage |
-| na prāk | adverbial negation | not earlier / not beforehand |
-| catuḥ-triṃśat-kṣaṇa-āptitaḥ | causal ablative compound | because awakening is attained in thirty-four moments |
-| kāma-rūpa-āśraye | locative masculine singular compound | with a support belonging to the Desire or Form Domain |
-| bhūte | locative masculine/neuter singular participle | being / having come to be |
-| nirodha-ākhyā | nominative feminine singular | the attainment called cessation |
-| āditaḥ | adverb | initially / at first production |
-| nṛṣu | locative masculine plural | among human beings |
+| bodhi-labhyā | nominative feminine gerundive compound | obtained with awakening |
+| muneḥ | genitive singular | of the Sage |
+| na prāk | adverbial negation | not beforehand |
+| catuḥ-triṃśat-kṣaṇa-āptitaḥ | causal ablative compound | because awakening occurs in thirty-four moments |
+| kāma-rūpa-āśraye | locative compound | with Desire- or Form-Principle Faculty-support |
+| bhūte | locative participial form | when such support is present |
+| nirodha-ākhyā | nominative feminine compound | the attainment called cessation |
+| āditaḥ | adverb | initially or at first production |
+| nṛṣu | locative plural | among human beings |
 
-The understood subjects differ across the half-verses. `Bodhi-labhyā` and
-`nirodha-ākhyā` refer to the attainment of cessation. The support rule,
-according to the Bhāṣya, applies to both the non-reflective attainment and
-the attainment of cessation.
+## 4. Scientific English Rendering
 
-## 4. Grammar
+> For the Sage, the attainment of cessation is obtained with awakening, not
+> beforehand, because awakening is attained in thirty-four moments. When
+> Desire- or Form-Principle Faculty-support is present, [the two attainments
+> may occur]; the attainment called cessation is first produced among human
+> beings.
 
-The first half gives the Buddha-specific acquisition rule:
+The Bhāṣya attributes the no-prior-production position to Kāśmīra teachers.
+Teachers of the outer regions hold that the Bodhisattva produced the
+attainment earlier as a trainee.
+
+## 5. Interpretation
+
+VAK 2.44 answers an essential question without treating cessation as death.
+The cessation-attainment is first produced in a human life, but may later be
+entered in the Form Principle by someone who had previously acquired and
+then lost it. This is not a theory that a living continuum has ceased to
+exist; it is a question about how the appropriate support and causal
+relation allow cognitive operation to resume after an interval of
+non-operation.
+
+The Bhāṣya gives the decisive question:
 
 ```text
-muneḥ [nirodha-samāpattiḥ] bodhi-labhyā
-    → for the Sage, the attainment of cessation
-      is obtained with awakening
-
-na prāk
-    → not earlier
-
-catustriṃśat-kṣaṇa-āptitaḥ
-    → because awakening is attained in thirty-four moments
+After consciousness has been prevented from operating for a long interval,
+how can consciousness arise again?
 ```
 
-The Bhāṣya explains the thirty-four moments as sixteen moments of direct
-realization of the truths and eighteen moments—nine uninterrupted paths and
-nine paths of liberation—that abandon the nine grades of affliction at the
-summit of existence. This is the Kāśmīra Vaibhāṣika account; teachers of the
-western regions allow an earlier production by the bodhisattva as a trainee.
-
-The second half states support and first-production rules:
+It preserves rival replies:
 
 ```text
-kāma-rūpa-āśraye bhūte
-    → both attainments can occur with a support
-      belonging to the Desire or Form Domain
+Vaibhasika:
+    past consciousness remains available as immediately preceding condition
 
-nirodha-ākhyā āditaḥ nṛṣu
-    → the attainment called cessation
-      is first produced among human beings
+Earlier teachers:
+    consciousness and embodied Faculty-support are reciprocal seed-capacities;
+    consciousness can arise from that Faculty-equipped body
+
+Vasumitra:
+    the cessation-attainment is with consciousness
+
+Ghoṣaka and Vaibhasika conclusion:
+    it is without consciousness
 ```
 
-## 5. Translation
+The final critical analysis refuses to posit a separate cessation-entity.
+The entry-consciousness conditions a support opposed to later consciousness,
+so consciousness does not operate for an interval. The attainment is then a
+designation of that non-operation, or of bringing the support into that
+condition.
 
-### Close syntactic construe
-
-> For the Sage, [the attainment of cessation] is obtained with awakening, not earlier, because awakening is attained in thirty-four moments. With a support belonging to the Desire or Form Domain, [either attainment can occur]; the attainment called cessation is first produced among humans.
-
-### Bhāṣya-informed translation
-
-> The stanza states that the Sage acquires cessation with awakening, not beforehand. The Kāśmīra teachers deny prior production because the thirty-four moments of awakening leave no interval for a dissimilar consciousness; the western teachers say the bodhisattva produced it while still a trainee. Either attainment can have support in the Desire or Form Domain. Cessation is first produced among humans and can later be entered in the Form Domain by those who previously lost it.
-
-## 6. Limited Organon Reading
-
-The kārikā distinguishes when the Sage acquires cessation, where either
-attainment can have support, and where cessation is first produced. Keep
-these as separate constraints. The Bhāṣya's later re-entry claim additionally
-requires prior acquisition and loss; it does not redefine first production.
-
-## 7. Technical Vocabulary
-
-| Sanskrit | Controlled rendering | Determination in this unit |
-|---|---|---|
-| bodhi | awakening | event with which the Sage acquires the attainment of cessation |
-| muni | Sage | Buddha in the Buddha-specific acquisition rule |
-| catustriṃśat-kṣaṇa | thirty-four moments | uninterrupted awakening sequence in the Kāśmīra Vaibhāṣika account |
-| darśana-mārga | Path of seeing | sixteen moments of direct realization of the truths |
-| ānantarya-mārga | uninterrupted path | nine moments abandoning the nine grades of summit-level affliction |
-| vimukti-mārga | path of liberation | nine moments immediately following the uninterrupted paths |
-| kāma-rūpāśraya | Desire or Form Domain support | embodied faculty-support capable of sustaining the two attainments |
-| āditaḥ | initially | first production rather than every later re-entry |
-| nṛ | human being | sole locus of first production of the attainment of cessation |
-| vyutkrānta-samāpatti | attainment entered in transposed order | Bhāṣya: later mastery permits intermediate attainments to be skipped |
-| prakāma-vaśitva | complete mastery | capacity permitting flexible re-entry after initial ordered acquisition |
-| samanantara-pratyaya | immediately preceding condition | contested explanation of how citta arises again after cessation |
-| anyonyabījaka | mutually containing one another's seeds | view that citta and embodied faculty-support carry reciprocal capacities for renewed arising |
-| citta-pravṛtty-apravṛtti | operation and non-operation of consciousness | Vasubandhu's non-substantialist analysis of the attainment |
-| āśraya-samāpādana | bringing the support into a determinate condition | alternative explanation of why the non-operation is called an attainment |
-
-The `jīvita` discussion appended to the research Bhāṣya begins the next
-doctrinal topic and is not incorporated into this verse study.
-
-## 8. Logical Determination
-
-The Buddha-specific sequence is guarded:
+Thus death is not required:
 
 ```text
-For Buddha B:
-    Prapti(B, NirodhaSamapatti)
-        occursWith Awakening(B)
-
-AwakeningSequence(B) =
-    16 TruthRealizationMoments
-    + 9 UninterruptedPathMoments
-    + 9 LiberationPathMoments
-    = 34 moments
+Life-support and Faculty-support remain determinately conditioned;
+the prior entry transforms their capacity for present cognitive operation;
+the opposed condition ends; consciousness operates again.
 ```
 
-The Kāśmīra inference is:
+The Kośa-wide synthesis remains: Vijñāna is Discriminative Cognition joining
+and governing Perception and Conception. Its Inconceivable unity is not an
+empirical citta-factor that perishes with each profile. The attainment
+concerns the finite operation and non-operation of consciousness and
+associated factors in the wheel; it does not eliminate the Hub's governing
+relation.
+
+## 6. Logical Determination
 
 ```text
-Uninterrupted(AwakeningSequence)
-    → NoDissimilarCittaIntervenes
-    → NoPriorEntryInto(NirodhaSamapatti)
-```
-
-The western-teacher alternative remains attributed:
-
-```text
-WesternTeachersAssert(
-    PriorProductionAsTrainee(Bodhisattva, NirodhaSamapatti)
-)
-```
-
-Support and first-production constraints are:
-
-```text
-Produces(S, AsamjniSamapatti)
-OR Produces(S, NirodhaSamapatti)
-    → Domain(Support(S)) ∈ {
-          DesireDomain,
-          FormDomain
-      }
-
-FirstProduces(S, NirodhaSamapatti)
+FirstProduction(S, CessationAttainment)
     → Human(S)
+
+PreviouslyAcquiredAndLost(S, CessationAttainment)
+    and RebornWithFormPrincipleSupport(S)
+    → MayReenter(S, CessationAttainment)
 ```
 
-Later re-entry is history-sensitive:
+The critical account:
 
 ```text
-PreviouslyAcquired(S, NirodhaSamapatti)
-∧ RebornIn(S, FormDomain)
-    → MayReenter(S, NirodhaSamapatti)
+EntryConsciousness(S)
+    → ConditionsSupportOpposedToCognitiveOperation(S)
+    → NonOperationOfConsciousness(S, interval)
+    → Designated CessationAttainment(S, interval)
+
+EndOfOpposedSupportCondition(S)
+    → CognitiveOperationMayResume(S)
 ```
 
-Vasubandhu's ontological reduction is:
+## 7. Interpretive Note
 
-```text
-EntryCitta(S)
-    transforms Support(S)
-    so that Citta does not operate for interval I
+The source distinguishes first production from later re-entry, and it
+distinguishes the sequence of attainment from its level of support. The
+nine sequential attainments govern the initial acquisition; those with
+complete mastery can enter attainments in transposed order. These rules do
+not license collapsing the Non-Reflecting and cessation attainments.
 
-NirodhaSamapatti(S, I)
-    := DesignationOf(
-           NonOperation(Citta, S, I)
-           groundedIn TransformedSupport(S)
-       )
-```
+The Buddha and Bodhisattva dispute is retained in the Bhāṣya study. The
+source's discussion of life-continuity begins only after the explicit close
+of the two-attainment inquiry and is not incorporated here.
 
-No additional cessation-substance is required on this account.
-
-## 9. Interpretive Scope
-
-The verse distinguishes the Sage's acquisition, the support of either
-attainment, and the human locus of first production. The Bhāṣya further
-distinguishes disputed prior production from later re-entry after loss.
-These remain separate claims; neither the kārikā nor the commentary licenses
-collapsing them into one acquisition rule.
-
-## 10. OWL++ Seed
+## 8. OWL++ Seed
 
 ```ttl
 @prefix vak: <http://127.0.0.1:3000/vak#> .
@@ -209,34 +147,12 @@ collapsing them into one acquisition rule.
 vak:VAK_2_44
     a vak:Karika ;
     rdfs:label "VAK 2.44" ;
-    vak:hasTopic vak:NirodhaAcquisitionConstraints ;
+    vak:hasTopic vak:CessationAttainmentReentry ;
     vak:belongsTo vak:Indriyanirdesa .
 
-vak:BuddhaNirodhaAcquisition
-    vak:occursWith vak:Awakening,
-        vak:KnowledgeOfExhaustion ;
-    vak:notBefore vak:Awakening ;
-    vak:hasAttributedSequence vak:ThirtyFourMomentSequence .
-
-vak:NirodhaAcquisitionConstraints
-    vak:requiresSupport vak:DesireDomainSupport,
-        vak:FormDomainSupport ;
-    vak:requiresFirstProductionLocus vak:HumanExistence ;
-    vak:permitsLaterReentryWith vak:PriorAcquisition .
-
-vak:VasubandhuDesignationModel
-    a vak:AttributedDoctrinalPosition ;
-    vak:defines vak:NirodhaSamapatti ;
-    vak:through vak:TransformedSupport,
-        vak:CittaNonOperation ;
-    vak:denies vak:SeparateCessationSubstance .
-
+vak:CessationAttainment
+    vak:initiallyProducedBy vak:HumanPractitioner ;
+    vak:requires vak:DesireOrFormPrincipleSupport ;
+    vak:mayBeDesignatedFrom vak:NonOperationOfConsciousness,
+        vak:TransformedSupport .
 ```
-
-## 11. Review Status
-
-Provisional paired study against the continuous Sanskrit at 70.21–73.13.
-The first-half commentary overlaps the VAK 2.43 study; the second half
-resumes at 71.16, and the Bhāṣya closes at 73.13. The life-faculty topic
-begins at 73.14; VAK 2.45's life clause is recited at 73.15 and 73.18,
-and its four-mark clause at 75.19.

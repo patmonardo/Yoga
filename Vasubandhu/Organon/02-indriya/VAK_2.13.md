@@ -12,7 +12,7 @@
 >
 > nava bhāvanayā pañca tv aheyāny api na trayam // 2.13 //
 
-## 3. Padaccheda
+## 3. Lexical Analysis
 
 ```text
 manovittitrayaṃ     → manaḥ-vitti-trayam
@@ -26,7 +26,7 @@ aheyāny api         → aheyāni api
 na trayam           → na trayam
 ```
 
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | manas | compound member | mind-faculty |
 | vitti-trayam | nominative neuter singular compound | triad of feelings: pleasure, gladness, and neutral feeling |
@@ -96,13 +96,13 @@ na trayam
 For the five, `api` adds non-abandonment to cultivation-abandonment. For the
 triad, the Bhāṣya states that abandonment never applies.
 
-## 5. Translation
+## 5. Scientific English Rendering
 
-### Close syntactic construe
+### Kārikā
 
 > Mind and the triad of feelings are threefold; distress is to be abandoned in two ways. Nine are [to be abandoned] by cultivation. The five, however, may also be not abandoned; the triad is not [to be abandoned].
 
-### Bhāṣya-informed translation
+### Bhāṣya-informed rendering
 
 > Mind, pleasure, gladness, and neutral feeling may be abandoned by seeing, abandoned by cultivation, or not abandoned. Distress may be abandoned by seeing or cultivation. The seven material faculties, life, and pain are abandoned only through cultivation. The five beginning with confidence are abandoned by cultivation when with outflows but are not abandoned when without outflows. The three realization-faculties are never abandoned, because what is faultless is not fit for abandonment.
 
@@ -113,18 +113,27 @@ na hi nirdoṣaṃ prahāṇārham
     → what is faultless is not fit to be abandoned
 ```
 
-## 6. Philosophical Translation
+## 6. Interpretation
 
-> The Path does not act upon faculty-names as undifferentiated wholes. One functional faculty may have an instance removed by seeing, another instance exhausted through cultivation, and an uncontaminated instance that must be preserved. Distress has no faultless remainder, while the five path-equipment faculties divide according to their with-outflow or without-outflow operation. The stainless realization-faculties are not products to be discarded after use; their faultlessness excludes them from abandonment.
+VAK 2.13 classifies Faculty-instances by abandonment-status: seeing,
+cultivation, or non-abandonment. The same Faculty-type can have different
+statuses under different outflow-conditions; the Bhāṣya's closing maxim is
+that what is faultless is not fit to be abandoned. This is not an instruction
+to destroy embodied faculties or a claim that a faculty-event is permanent.
 
-Organon rendering:
+In the Kant-informed Techne, Faculty-identity and path-status are distinct
+determinations: the specified path-operation applies to qualified instances,
+not to every occurrence of a faculty-name as an undifferentiated whole. The
+Dhātu crosswalk relates these statuses to the Base–Essence–Principle map
+without relocating the mapped Faculties. This is a project-level analysis,
+not terminology supplied by the Bhāṣya.
 
-> VAK 1.48 is the suspended Dhātu map to which this path-classification returns. Abandonment is a typed transformation of qualified Faculty-instances within that map: seeing removes some faults, cultivation exhausts others, and faultless operation is retained. The Agent preserves Faculty identity and Dhātu locus while determining whether a qualified instance is abandoned or carried forward.
-
-This rendering does not identify `prahāṇa` with software deletion. It uses a
-technical analogy to preserve the Bhāṣya's instance-sensitive distinctions.
-
-**Transcendental Time determination (Organon, not translation):** Seeing, cultivation, and non-abandonment are different path-relations to a qualified faculty-instance, not a one-size-fits-all chronology of deleting and replacing faculties. Universal Cognition names the operations of seeing and cultivation; the particular Ideas are the faulted or faultless modes to which abandonment applies. A faculty-type may persist through distinct determinations, and non-abandonability does not imply that every event persists uninterruptedly.
+Across the Kośa, Vijñāna is Discriminative Cognition joining Perception
+and Conception without reducing their unity to one homogeneous operation;
+it governs Mind and guides the reading of Dharma Base. The same
+*avijñapti* remains one content in the Form Base and Dharma Base
+classifications, and Vijñāna bears a *prati* relation to it. This wider
+synthesis frames, but is not stated in full by, this verse.
 
 ## 7. Technical Vocabulary
 
@@ -229,29 +238,25 @@ Faultless(x)
 
 ## 9. Interpretive Note
 
-**Organon time-reading:** The path's temporal work is differentiated by what a mode requires: seeing removes some faults, cultivation addresses others, and faultlessness is preserved. This is not a universal linear biography or an instruction to destroy embodied life; it is a rule for classifying the path-relation of particular instances.
-
 VAK 2.13 completes the long `prakārabheda`, the classification of the
 twenty-two faculties by their different modes. Its final axis is explicitly
 practical: what is removed by seeing, what requires cultivation, and what is
 not to be abandoned?
 
-The threefold status of mind, pleasure, gladness, and neutral feeling shows
-again that the Path does not discard a faculty merely because contaminated
-instances occur. The same faculty can participate in a view-bound fault, a
-residual cultivation-bound condition, or a faultless operation. Its type is
-stable while the path-status of its instances differs.
+The threefold status of Mind, pleasure, gladness, and neutral feeling shows
+that the Path does not discard a Faculty-type merely because some instances
+are abandonable. A Faculty-type may have instances assigned to seeing,
+cultivation, or non-abandonment according to their qualification.
 
 Distress has no non-abandonable mode. VAK 2.10 showed it to be always
 productive of maturation; VAK 2.11 showed it always ethically determined;
 VAK 2.13 now confirms that every instance belongs to something the Path must
 abandon, whether through seeing or cultivation.
 
-The nine cultivation-only faculties make another important distinction.
-Seeing truth does not simply erase embodied structure, life-continuity, or
-bodily pain. Their conditioned course is exhausted through cultivation. The
-Path is therefore not a single cognitive correction applied uniformly to
-every layer of the Agent.
+The nine cultivation-only Faculties make another distinction. Their
+classification as cultivation-abandonable is not an instruction to destroy
+embodied faculties or terminate life. The Bhāṣya assigns them a technical
+path-status without explaining each mechanism in this paragraph.
 
 The five beginning with confidence divide by outflow-status. Their
 with-outflow instances are cultivation-abandonable; their without-outflow
@@ -259,42 +264,19 @@ instances are preserved. The three realization-faculties are more decisive:
 they are exclusively without outflows and never abandoned. Vasubandhu's
 maxim states the rule cleanly: what is faultless is not fit for abandonment.
 
-This gives our layered Object Model a necessary transformation discipline:
+**Reciprocal return to Dhātu.** VAK 1.48 maps Faculty-status within
+the Base–Essence–Principle architecture. VAK 2.13 adds abandonment-
+status to those Faculties without relocating their mapped loci. The
+path classification distinguishes what is abandoned by seeing, by
+cultivation, or not at all.
 
-```text
-for each determination in each natural or spiritual layer,
-    preserve its faculty identity
-    inspect its qualified mode
-    apply the path-operation licensed for that mode
-
-never infer:
-    one faulted instance
-        → delete the governing faculty itself
-```
-
-**Return to Dhātu at its last kārikā.** VAK 1.48's incidence map
-returns in exact detail. The seven material Faculties and Life
-belong to the cultivation-only group; their Dhātu loci remain the
-five internal sensory Domains, a part of Body, and the Essence-
-Domain portion. Mind and the three feeling-Faculties named with it
-are threefold in path-status; Mind maps across the Citta Domains,
-and feelings occupy the Essence-Domain portion. The five beginning
-with Confidence and the three realization-Faculties correspond to
-the wholesome path group, with the final three only partly placed
-in the Essence-Domain. VAK 2.13 does not replace any of these
-positions: it returns to the terminal Dhātu map to specify which
-qualified instances are abandoned, cultivated, or preserved.
-
-This is the Fichtean return in mind. The negation falls on the
-faulted instance, not the Faculty or its Dhātu placement. Conversely,
-the non-abandonable status of a faultless operation does not turn
-each occurrence into a permanent event. The return reconstructs the
-same mapped architecture under the path's distinct operations.
-
-The fivefold natural object and ten Samyama-bhūmis are Yoga–Organon
-architecture, not terms in VAK 2.13. The textual contribution is the
-three-way abandonment policy that the reconfigured Rational Moral Agent must
-be capable of executing across a differentiated field.
+Across the Kośa, Vijñāna is Discriminative Cognition joining Perception
+and Conception without reducing their unity to one homogeneous operation;
+it governs Mind and guides the reading of Dharma Base. The same
+*avijñapti* remains one content in the Form Base and Dharma Base
+classifications, and Vijñāna bears a *prati* relation to it. This
+cross-chapter synthesis is an Organon framework, not a claim made
+by this verse.
 
 ## 10. OWL++ Seed
 

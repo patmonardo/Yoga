@@ -17,7 +17,7 @@ support `taiḥ`, instrumental plural, “by them,” referring to spontaneously
 born beings. The witness is preserved above; the Bhāṣya-supported reading is
 used in the analysis and translations.
 
-## 3. Padaccheda
+## 3. Lexical Analysis
 
 ```text
 kāmeṣv ādau       → kāmeṣu ādau
@@ -33,7 +33,7 @@ aṣṭau vā          → aṣṭau vā
 ekam uttare       → ekam uttare
 ```
 
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | kāmeṣu | locative masculine plural | in “the desires,” the desire realm |
 | ādau | locative masculine singular used adverbially | at the beginning / initially |
@@ -97,13 +97,13 @@ ekam uttare
 These are counts of faculties first acquired **as maturation-result**, not
 counts of every faculty or mental event present at the first moment.
 
-## 5. Translation
+## 5. Scientific English Rendering
 
-### Close syntactic construe
+### Kārikā
 
 > In the desire realm, initially, two are acquired as maturation-result—not by the spontaneously born. By them [reading `taiḥ`], six, seven, or eight [are acquired]; six in the form realm, one in the higher realm.
 
-### Bhāṣya-informed translation
+### Bhāṣya-informed rendering
 
 > At the beginning of a non-spontaneous birth in the desire realm, body and life are first acquired as maturation-result. A spontaneously born being initially acquires six, seven, or eight resultant faculties according to whether it has no sexual characteristic, one, or both. Six resultant faculties are initially acquired in the form realm. In the formless realm, only life is initially acquired as maturation-result.
 
@@ -125,19 +125,29 @@ formless realm:
     life = 1
 ```
 
-## 6. Philosophical Translation
+## 6. Interpretation
 
-> A new continuum does not begin with one invariant faculty package. Its initial matured configuration depends upon realm, mode of birth, and sexual differentiation. Non-spontaneous generation begins with a minimal bodily and life support from which further faculties develop. Spontaneous generation begins with a more complete sensory configuration. Form-realm generation has the sixfold resultant configuration without sexual differentiation, while formless generation initially receives only life as maturation-result.
+The Bhāṣya distinguishes initial acquisition as maturation-result from
+mere presence at relinking. The initial set varies with realm, birth-mode,
+and the stated sexual configuration; the counts do not give a complete
+inventory of every faculty present. In particular, Mind and neutral feeling
+are present at relinking but excluded from the maturation count because they
+are afflicted. The account preserves its transmitted cosmological categories
+and does not supply a contemporary theory of biological development.
 
-Organon rendering:
+In the Kant-informed Techne, realm, birth-mode, and maturation-status
+serve as separate conditions for determining the initial configuration.
+The Dhātu crosswalk locates Faculty-status within the Base–Essence–Principle
+architecture, while this passage answers a distinct question about initial
+acquisition. This is a project-level interpretation, not terminology
+supplied by the Bhāṣya.
 
-> VAK 1.48 is the suspended Dhātu map to which this acquisition analysis returns. Realm, birth-mode, and initial `vipāka` determine which of its mapped Faculties are first acquired as maturation-result. Presence is not the same as acquisition: Mind and neutral feeling are present at relinking but are excluded from the `vipāka` count because their instances are afflicted. The map remains intact; this verse specifies one causal mode of entry into its Faculty-positions.
-
-“Initialization” and “inherited result” are Organon renderings. The textual
-categories are initial acquisition, relinking, birth-mode, realm, and
-maturation-result.
-
-**Transcendental Time determination (Organon, not translation):** Initial acquisition at relinking marks a genesis within a newly established continuum, but this is not an absolute beginning of being or a universal developmental schedule. Universal Cognition distinguishes initial maturation-acquisition from mere presence; the particular Ideas are the realm- and birth-mode-specific faculty-sets first acquired as `vipāka`. Other faculties can already be present under different causal determinations.
+Across the Kośa, Vijñāna is Discriminative Cognition joining Perception
+and Conception without reducing their unity to one homogeneous operation;
+it governs Mind and guides the reading of Dharma Base. The same
+*avijñapti* remains one content in the Form Base and Dharma Base
+classifications, and Vijñāna bears a *prati* relation to it. This wider
+synthesis frames, but is not stated in full by, this verse.
 
 ## 7. Technical Vocabulary
 
@@ -226,8 +236,6 @@ status.
 
 ## 9. Interpretive Note
 
-**Organon time-reading:** The verse locates a conditioned threshold—what is received as maturation at relinking—not a complete inventory of consciousness at that threshold. The changing counts track realm and generation-mode, while the exclusion of present mind and feeling from the `vipāka` count shows why temporal beginning cannot be reduced to a simple “first moment contains everything” model.
-
 VAK 2.14 begins `lābha`, the acquisition analysis, after VAK 2.13 closes the
 long classification of faculty-types. The question is genetic: which
 faculties are first acquired as maturation-result when a new continuum is
@@ -245,49 +253,31 @@ reduces the initial maturation set to life alone. This does not mean that no
 mind or feeling occurs there. It means only that no other faculty is first
 acquired **as vipāka** in the classification under discussion.
 
-The Bhāṣya makes that distinction explicit in the desire-realm objection.
-Mind and neutral feeling occur at relinking, but they are necessarily
-afflicted then and therefore are not counted as maturation-result. The Agent
-model must consequently track at least four non-identical facts:
+The Bhāṣya makes the distinction explicit: Mind and neutral feeling
+occur at relinking but are not counted as maturation-result because
+they are afflicted. Presence, acquisition, timing, and causal status
+are therefore not interchangeable predicates. The birth categories
+and their counts remain those of the transmitted cosmological account.
 
-```text
-faculty presence
-faculty acquisition
-time of acquisition
-causal status of the acquired instance
-```
+**Reciprocal return to Dhātu.** VAK 1.48 maps Faculty-status within
+the Base–Essence–Principle architecture. VAK 2.14 classifies which
+mapped Faculties are initially acquired as *vipāka* under each realm
+and birth-mode. The formless realm's count of one does not erase
+Mind, neutral feeling, or their Dhātu relations; it identifies only
+the initial maturation-result in this classification.
 
-For our layered Object Model, this is the first true genetic constructor:
+In the Kant-informed Techne, realm, birth-mode, presence, and
+maturation-status are distinct conditions in determining an initial
+Faculty-configuration. This is a project-level formalization of the
+Bhāṣya's categories, not a claim of modern developmental theory.
 
-```text
-given
-    object-kind
-    genetic layer
-    execution realm
-    generation mode
-
-construct
-    the admissible initial faculty configuration
-
-then permit
-    later acquisition and transformation
-```
-
-The natural/spiritual fivefold Object and ten Samyama-bhūmis are our
-Yoga–Organon architecture. VAK 2.14 supplies the textual principle that an
-Agent's operative powers have a conditioned genesis and need not all be
-present as inherited result at initialization.
-
-**Return to Dhātu at its last kārikā.** VAK 1.48 locates the initial
-Faculty positions in the Domain system: the five sensory Faculties,
-Female and Male within Body, Mind across the Citta Domains, and Life
-with the other Faculties in the Essence-Domain portion. VAK 2.14
-returns to these same positions and classifies which are initially
-acquired as *vipāka* under each realm and birth mode. In the formless
-realm, only Life is initially acquired as maturation-result; this
-does not erase Mind, neutral feeling, or the rest of the Dhātu map.
-The Dhātu endpoint remains suspended in itself until Indriya
-reconstructs its loci through this specific acquisition relation.
+Across the Kośa, Vijñāna is Discriminative Cognition joining Perception
+and Conception without reducing their unity to one homogeneous operation;
+it governs Mind and guides the reading of Dharma Base. The same
+*avijñapti* remains one content in the Form Base and Dharma Base
+classifications, and Vijñāna bears a *prati* relation to it. This
+cross-chapter synthesis is an Organon framework, not a claim made
+by this verse.
 
 ## 10. OWL++ Seed
 

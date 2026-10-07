@@ -6,10 +6,9 @@
 >
 > प्रेम श्रद्धा गुरुत्वं ह्रीः ते पुनः कामरूपयोः ॥ २.३२ ॥
 
-The underlying source labels this verse with the first of two consecutive
-instances of 2.33. The repository's canonical sequence identifies this first
-instance as VAK 2.32 and the following verse as VAK 2.33. The duplicate source
-label is documented here without reproducing it in the official display.
+The source assigns this verse the same number as the following verse.
+The repository's canonical sequence identifies this first instance as
+VAK 2.32 and the next as VAK 2.33.
 
 ## 2. Sanskrit (IAST)
 
@@ -17,280 +16,202 @@ label is documented here without reproducing it in the official display.
 >
 > prema śraddhā gurutvaṃ hrīḥ te punaḥ kāmarūpayoḥ // 2.32 //
 
-The research source-form has uncertain spacing around
-`bhayādarśitvam atrapā`. The Bhāṣya confirms the semantic division adopted
-here: non-recognition of danger in the blameworthy defines lack of moral
-concern.
+The source's spacing around *bhayādarśitvam atrapā* is uncertain. The
+Bhāṣya interprets the phrase as lack of moral concern being failure to
+recognize danger in what is blameworthy; the lexical analysis follows
+that construal.
 
-## 3. Padaccheda
+## 3. Lexical Analysis
 
 ```text
-ahrīr              → ahrīḥ
-agurutā            → a-gurutā
-avadye             → avadye
-bhayādarśitvam     → bhaya-adarśitvam
-atrapā             → a-trapā
-prema              → prema
-śraddhā            → śraddhā
-gurutvaṃ           → gurutvam
-hrīḥ               → hrīḥ
-te                 → te
-punaḥ              → punaḥ
-kāmarūpayoḥ        → kāma-rūpayoḥ
+ahrīr            → ahrīḥ
+agurutā          → a-gurutā
+avadye           → avadye
+bhayādarśitvam   → bhaya-adarśitvam
+atrapā           → a-trapā
+prema            → prema
+śraddhā          → śraddhā
+gurutvaṃ         → gurutvam
+hrīḥ             → hrīḥ
+te               → te
+punaḥ            → punaḥ
+kāmarūpayoḥ      → kāma-rūpayoḥ
 ```
 
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
-| ahrīḥ | nominative feminine singular privative formation | shamelessness / absence of `hrī` |
-| a-gurutā | nominative feminine singular abstract noun | lack of respect or normative weight |
+| ahrīḥ | nominative feminine singular privative formation | shamelessness |
+| a-gurutā | nominative feminine singular abstract noun | lack of respect |
 | avadye | locative neuter singular | with regard to what is blameworthy |
 | bhaya-adarśitvam | nominative neuter singular compound | failure to recognize danger |
 | a-trapā | nominative feminine singular privative formation | lack of moral concern |
-| prema | nominative neuter singular | affection / fondness |
+| prema | nominative neuter singular | affection |
 | śraddhā | nominative feminine singular | confidence |
-| gurutvam | nominative neuter singular | respect / normative weight |
-| hrīḥ | nominative feminine singular | moral shame / inward restraint |
-| te | nominative dual/plural pronoun in context | those [affection and respect] |
-| kāma-rūpayoḥ | locative dual compound | in the desire and form realms |
+| gurutvam | nominative neuter singular | respect |
+| hrīḥ | nominative feminine singular | moral shame |
+| te | pronoun, plural in context | those, referring to the person-directed forms |
+| kāma-rūpayoḥ | locative dual compound | in the Desire and Form Principles |
 
 ## 4. Grammar
 
-The Kārikā presents four compressed definitional statements:
+The verse gives four compressed equations and a realm qualification:
 
 ```text
-ahrīḥ = agurutā
+ahrīḥ = a-gurutā
     → shamelessness is lack of respect
 
 atrapā = avadye bhaya-adarśitvam
     → lack of moral concern is failure to recognize danger
-      in the blameworthy
+      in what is blameworthy
 
 prema = śraddhā
     → affection is confidence
 
 gurutvam = hrīḥ
     → respect is moral shame
-```
 
-The Bhāṣya qualifies the last two equations. Confidence in qualities can
-condition affection, and respect can condition moral shame, without the
-paired factors being strictly identical.
-
-The closing locative dual gives their realm-range:
-
-```text
 te punaḥ kāma-rūpayoḥ
-    → those [person-directed forms of affection and respect]
-      occur in the desire and form realms
+    → those [person-directed forms] occur in the Desire
+      and Form Principles
 ```
 
-The Bhāṣya excludes those person-directed forms from the formless realm while
-retaining dharma-directed confidence and moral shame there.
+The Bhāṣya qualifies the equations: confidence can ground affection, and
+respect can ground moral shame, without being strictly identical to the
+factor that follows. It also limits the final realm statement to
+person-directed forms, while confidence and moral shame directed toward
+Dharmas remain possible in the Formless Principle.
 
-## 5. Translation
+## 5. Scientific English Rendering
 
-### Close syntactic construe
+### Kārikā
 
-> Shamelessness is lack of respect; lack of moral concern is failure to recognize danger in what is blameworthy. Affection is confidence; respect is moral shame. Those, furthermore, occur in the desire and form realms.
+> Shamelessness is lack of respect; lack of moral concern is failure to
+> recognize danger in what is blameworthy. Affection is confidence;
+> respect is moral shame. Those, however, occur in the Desire and Form
+> Principles.
 
-### Bhāṣya-informed translation
+### Bhāṣya-informed rendering
 
-> Shamelessness lacks reverence for qualities and persons possessing them; lack of moral concern fails to recognize the undesirable consequence of blameworthy conduct. Alternatively, the pair may be distinguished as lack of shame with reference to oneself and with reference to others. Unafflicted affection arises in dependence upon confidence in qualities, and moral shame arises in dependence upon respect, though neither pair is strictly identical. The person-directed forms of affection and respect occur in the desire and form realms, not in the formless realm.
+> Shamelessness is lack of reverence toward qualities and those possessing
+> them, non-recognition of authority, and refusal to be governed; it is
+> opposed to respect. Lack of moral concern is failure to recognize danger
+> in what is blameworthy, that is, conduct condemned by good persons.
+> “Danger” is an undesirable result.
 
-The alternative self/other analysis and the causal distinctions within the
-positive pairs are Bhāṣya determinations, not explicit expansions in the
-Kārikā.
+> The Bhāṣya asks whether this means seeing an absence of danger or not
+> seeing danger. Either seems to fall under discernment or ignorance, so
+> the factor is explained as the secondary affliction that occasions
+> either presentation, not the presentation itself. Others distinguish
+> lack of shame with reference to oneself from lack of shame with
+> reference to another; moral shame and moral concern are then understood
+> by reversing those relations.
 
-## 6. Philosophical Translation
+> Affection is of two kinds: afflicted affection is craving, as toward
+> children and spouse; unafflicted affection is confidence toward the
+> Teacher, preceptors, and those endowed with qualities. Confidence can
+> occur without affection, as confidence directed toward suffering and
+> its origin; affection can occur without confidence, as afflicted
+> affection; both occur in confidence directed toward cessation and the
+> path. Among persons, affection without respect is exemplified toward
+> children, spouse, companions, and pupils; respect without affection
+> toward other teachers; and both toward one's own teachers.
 
-> Ethical restraint has more than one axis. One can fail to acknowledge normative weight, or fail to register danger in blameworthy conduct; one can lack restraint relative to oneself, or relative to others. Conversely, confidence apprehends qualities and may give rise to affection, while respect acknowledges authority and may give rise to moral shame. Related ethical functions must be distinguished even where condensed doctrine identifies them.
+> Others say confidence is esteem for qualities, while affection is
+> fondness preceded by that esteem; likewise, respect is acknowledgment
+> of authority, while moral shame is shame preceded by that
+> acknowledgment. In the Formless Principle, person-directed affection
+> and respect do not occur. Confidence and moral shame directed toward
+> Dharmas do occur there; these are not the forms intended by the verse's
+> realm restriction.
 
-Restrained Organon rendering:
+## 6. Interpretation
 
-> These ethical functions are differentiated by their relation to a present object, person, or normative condition, not by appearing as successive faculties in time. Faith and respect, and shame and moral caution, may stand in grounding or consequential relations without becoming identical. In Organon terms, the universal cognitive occurrence can thus receive distinct particular ethical determinations while the commentary's competing analyses remain visible.
+The Bhāṣya tests each compressed equation rather than treating related
+factors as interchangeable. Its first account defines shamelessness and
+lack of moral concern through respect and recognition of danger; an
+objection asks whether the latter collapses into discernment or ignorance.
+The reply distinguishes the secondary affliction from the cognitive
+presentation it occasions. An alternative explanation distinguishes
+self-reference from reference to others. The source's reversal wording is
+damaged and remains uncertain.
 
-This Organon reading follows the Bhāṣya's explicit fourfold tests and
-alternative explanations; it does not decide among them.
+The positive equations are similarly qualified. The Bhāṣya distinguishes
+afflicted affection as craving from unafflicted affection associated with
+confidence, gives examples where confidence and affection separate or
+overlap, and records “others” who treat confidence as the ground of
+affection and respect as the ground of moral shame. The relations among
+identity, grounding, and consequence must remain explicit.
 
-## 7. Technical Vocabulary
+The realm restriction applies to person-directed affection and respect.
+It does not remove Dharma-directed confidence or moral shame from the
+Formless Principle. The verse's *te* is thus read through the Bhāṣya's
+specified object-reference.
 
-| Sanskrit | Project rendering | Bhāṣya determination |
-|---|---|---|
-| āhrīkya / ahrī | shamelessness | lack of reverence toward qualities and qualified persons; alternatively, lack of shame relative to oneself |
-| agurutā | lack of respect | refusal to accord normative weight or submit to what is worthy |
-| anapatrāpya / atrapā | lack of moral concern | failure to recognize danger in blameworthy conduct; alternatively, lack of shame relative to others |
-| avadya | blameworthy | conduct condemned by good persons |
-| bhaya | danger | the undesirable result that gives reason for fear |
-| hrī | moral shame / inward restraint | respect-based restraint; alternatively, shame relative to oneself |
-| apatrāpya | moral concern | recognition of danger in blameworthy conduct; alternatively, shame relative to others |
-| śraddhā | confidence | confidence or esteem concerning qualities (`guṇa-saṃbhāvanā`) |
-| prema | affection / fondness | afflicted as craving or unafflicted when following confidence in qualities |
-| gurutva / gaurava | respect / normative weight | submission to authority or acknowledgment of superiority |
-| sapratīśatā | submission to authority | Bhāṣya definition of respect |
-| kāma-rūpa | desire and form realms | range of the person-directed forms of affection and respect |
+The Kośa's governing synthesis: Vijñāna is Discriminative Cognition joining
+and governing Perception and Conception. Their unity is Inconceivable as a
+homogeneous operation; its Idea is disclosed in the Cognition Base. Vijñāna
+governs Mind and guides the reading of Dharma Base. Form Base and Dharma
+Base both include the same *avijñapti* in distinct classifications, and
+Vijñāna bears a *prati* relation to *avijñapti*. This system-level
+synthesis is distinct from the local relations among these mental factors.
 
-What is blameworthy is treated as ethically registered conduct, not as a
-ready-made external object. The caitta is also not reducible to the cognition
-it conditions.
+## 7. Logical Determination
 
-## 8. Logical Determination
-
-The first analysis distinguishes two negative factors:
+The first distinction:
 
 ```text
 Shamelessness
-    = AbsenceOfRespectFor(Qualities, QualifiedPersons)
+    = lack of respect for qualities and qualified persons
 
 LackOfMoralConcern
-    = DispositionCausing(
-        FailureToRecognizeDanger(BlameworthyConduct))
+    = the secondary affliction that occasions
+      the cognitive presentation concerning danger
 ```
 
-The Bhāṣya prevents reduction to a cognitive state:
+The Bhāṣya preserves an alternative reference analysis:
 
 ```text
-SeeingNoDanger
-    would be a mode of Discernment
+Self-reference:
+    lack of shame → shamelessness
+    shame         → moral shame
 
-NotSeeingDanger
-    would be a mode of Ignorance
-
-LackOfMoralConcern
-    = secondary affliction causally disposing either presentation
-    ≠ the presentation itself
+Other-reference:
+    lack of shame → lack of moral concern
+    shame         → moral concern
 ```
 
-The alternative account indexes reference:
+Confidence and affection are not identical across their full ranges:
 
 ```text
-Reference = Self
-    → absence of shame classified as Shamelessness
+Confidence without affection:
+    confidence directed toward suffering and its origin
 
-Reference = Other
-    → absence of shame classified as LackOfMoralConcern
+Affection without confidence:
+    afflicted affection / craving
+
+Both:
+    confidence directed toward cessation and the path
 ```
 
-The faith-affection predicates are independent, as shown by four cases:
+For person-directed relations, affection without respect is exemplified
+toward children, spouse, companions, and pupils; respect without affection
+toward other teachers; and both toward one's own teachers. These examples
+do not establish universal judgments about every such relation.
 
-```text
-Confidence ∧ ¬Affection
-    → confidence directed toward suffering and its origin
+## 8. Interpretive Note
 
-¬Confidence ∧ Affection
-    → afflicted affection / craving
+The Bhāṣya preserves distinct alternatives rather than choosing one
+complete definition for every factor. The transmitted account of
+*bhayādarśitvam* and its reversal contains uncertainty; see the paired
+Bhāṣya study. The positive equations are likewise explained through
+overlap, distinction, grounding, and what follows from a prior attitude.
 
-Confidence ∧ Affection
-    → confidence directed toward cessation and the path
+The Formless-Principle qualification depends on reference: person-directed
+forms of affection and respect are absent, while confidence and moral
+shame directed toward Dharmas remain. Factor name alone does not establish
+the full range of a particular form.
 
-¬Confidence ∧ ¬Affection
-    → remaining cases
-```
-
-The person-directed respect relation has the same fourfold form:
-
-```text
-Affection ∧ ¬Respect
-    → children, spouse, companions, or pupils
-
-¬Affection ∧ Respect
-    → teachers other than one's own
-
-Affection ∧ Respect
-    → one's own teacher
-
-¬Affection ∧ ¬Respect
-    → remaining persons
-```
-
-Therefore:
-
-```text
-Affection ≠ Confidence
-Respect ≠ MoralShame
-
-Confidence may ground Affection
-Respect may ground MoralShame
-```
-
-## 9. Interpretive Note
-
-VAK 2.32 begins defining distinctions that the preceding count calculus had
-to presuppose. Its first pair concerns the two specifically unwholesome
-great-ground factors. Shamelessness refuses normative weight; lack of moral
-concern fails to recognize danger in blameworthy conduct. The alternative
-account distinguishes them by self-reference and other-reference.
-
-The argument about danger is especially exact. If “not seeing danger” meant
-positively seeing its absence, it would be discernment. If it meant a simple
-failure to see, it would be ignorance. The technical secondary affliction is
-therefore neither cognition by itself. It is the disposition that conditions
-the relevant cognitive presentation.
-
-This preserves three layers:
-
-```text
-registered ethical event
-    → the blameworthy conduct as presented
-
-cognitive mode
-    → discernment or ignorance concerning danger
-
-underlying caitta disposition
-    → moral concern or its absence
-```
-
-The positive equations receive the same discriminative treatment. The
-Kārikā says affection is confidence and respect is shame; the Bhāṣya tests
-the equations through fourfold alternatives and shows that each pair can
-separate. Confidence is esteem for qualities, while unafflicted affection is
-fondness that follows from it. Respect submits to normative authority, while
-moral shame is the restraint that follows.
-
-Realm-range depends upon direction. Person-directed affection and respect do
-not occur in the formless realm because persons are not available there under
-that mode of presentation. Dharma-directed confidence and moral shame remain
-possible as wholesome great-ground factors. The same factor-name must
-therefore carry its reference-range.
-
-For the Kośa Technē, the restrained result is:
-
-```text
-FactorRelation =
-      StrictIdentity
-    | Grounds
-    | FollowsFrom
-    | Opposes
-    | SharesClassification
-
-FactorState<cognitiveEvent> = {
-    factor,
-    relation,
-    referenceCondition,
-    realm,
-    mode
-}
-```
-
-The Bhāṣya's labor is precisely to prevent the Kārikā's compressed equations
-from erasing these relations.
-
-**Organon temporal reading:** The factor's relation to a person, dharma, or
-normative danger particularizes the ethical determination of a cognitive
-event; it does not introduce a new faculty-stage. The underlying Cognition
-remains the universal act, while the particular Idea/reference and the
-ethical factor's mode are distinguished. Grounding, following, and identity
-remain separate relations rather than chronological steps.
-
-**DharmaChakra tracking:** This verse requires tracking a factor's
-object-reference as well as its ethical classification. The Bhāṣya's
-realm restriction applies to person-directed affection and respect: those
-forms are absent in the formless realm, while dharma-directed faith and
-moral shame remain. It also distinguishes a factor from the cognitive
-presentation it conditions, and records alternative accounts rather than
-collapsing them into one settled identity. These distinctions refine the
-factor profiles without assigning them to a specific Samyama-bhūmi.
-
-## 10. OWL++ Seed
+## 9. OWL++ Seed
 
 ```ttl
 @prefix vak: <http://127.0.0.1:3000/vak#> .
@@ -300,7 +221,7 @@ factor profiles without assigning them to a specific Samyama-bhūmi.
 vak:VAK_2_32
     a vak:Karika ;
     rdfs:label "VAK 2.32" ;
-    vak:hasTopic vak:EthicalFactorDistinctions ;
+    vak:hasTopic vak:EthicalMentalFactorDistinctions ;
     vak:belongsTo vak:Indriyanirdesa ;
     vak:hasSourceNumberingIssue vak:DuplicatedSourceVerseNumber .
 
@@ -310,27 +231,19 @@ vak:Shamelessness
 
 vak:LackOfMoralConcern
     vak:opposes vak:MoralConcern ;
-    vak:conditions vak:FailureToRecognizeDanger ;
+    vak:conditions vak:CognitionConcerningDanger ;
     vak:hasAlternativeReference vak:OtherReference .
 
-vak:Confidence
-    vak:mayGround vak:UnafflictedAffection .
+vak:Affection
+    vak:mayFollow vak:ConfidenceInQualities ;
+    vak:hasMode vak:AfflictedCraving,
+        vak:UnafflictedAffection .
 
-vak:Respect
-    vak:mayGround vak:MoralShame .
+vak:PersonDirectedAffectionAndRespect
+    vak:occursIn vak:DesirePrinciple,
+        vak:FormPrinciple ;
+    vak:absentFrom vak:FormlessPrinciple .
 
-vak:PersonDirectedAffection,
-vak:PersonDirectedRespect
-    vak:operatesIn vak:DesireRealm,
-        vak:FormRealm ;
-    vak:absentFrom vak:FormlessRealm .
-
-organon:FactorRelationType
-    a organon:InterpretiveReconstruction ;
-    organon:distinguishes organon:StrictIdentity,
-        organon:Grounding,
-        organon:Consequence,
-        organon:Opposition,
-        organon:ClassificatoryProximity ;
-    organon:inferredFrom vak:EthicalFactorDistinctions .
+vak:DharmaDirectedConfidenceAndMoralShame
+    vak:mayOccurIn vak:FormlessPrinciple .
 ```

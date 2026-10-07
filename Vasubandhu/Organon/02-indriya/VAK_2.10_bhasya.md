@@ -156,7 +156,7 @@ The reading *vipākoccheṣa* is understood as a remainder of maturation.
 Uncertainty in these places remains visible; no critical edition or
 independent collation is claimed.
 
-## 3. Continuous Conventional Translation
+## 3. Scientific English Rendering
 
 How many faculties are maturation, and how many are not maturation?
 First, categorically: “Life is maturation.” But when an arhat monk
@@ -236,7 +236,7 @@ awakening. The incidental discussion is concluded.
 
 The original topic is resumed. “Twelve are twofold.” Which twelve?
 “Excluding the final eight and distress.” Excluding the final eight,
-those beginning with faith, and distress, the twelve other than
+those beginning with confidence, and distress, the twelve other than
 the life-faculty are both maturation and non-maturation. Among the
 seven beginning with the eye, those arising through development
 are not maturation; the remaining instances are maturation. Mind,
@@ -292,14 +292,14 @@ not indeterminate, nor is it without outflows, because it is not
 concentrated. Thus there is no distress without maturation as a result.
 
 “Ten are twofold”: having and not having maturation as a result.
-Which ten? “Mind, the other feelings, and those beginning with faith.”
+Which ten? “Mind, the other feelings, and those beginning with confidence.”
 “The other feelings” means feeling other than distress. Those
-beginning with faith are faith, vigor, recollection, concentration,
+beginning with confidence are confidence, vigor, recollection, concentration,
 and prajñā. Mind, pleasure, gladness, and neutral feeling have
 maturation as a result when unwholesome or wholesome with outflows.
 When without outflows or indeterminate, they have no maturation as
 a result. Pain has maturation as a result when wholesome or unwholesome;
-when indeterminate, it does not. Those beginning with faith have
+when indeterminate, it does not. Those beginning with confidence have
 maturation as a result when with outflows and none when without
 outflows. It follows that the remaining faculties have no maturation
 as a result.
@@ -356,7 +356,7 @@ require more than a smooth paraphrase if subjected to further review.
 The twelve are the seven material faculties, mind, pain, pleasure,
 gladness, and neutral feeling. The ten in the second classification
 are mind, four feelings other than distress, and the five beginning
-with faith. The two counts therefore do not describe the same grouping.
+with confidence. The two counts therefore do not describe the same grouping.
 
 At the opening of the second inquiry, *avipāka* functions as the
 opposite of *savipāka*: lacking maturation as a result. Earlier it
@@ -406,58 +406,44 @@ impetus determining lifespan; these should receive priority in a
 future textual review. The existing research Bhāṣya omits the
 lifespan digression and therefore cannot alone establish this unit.
 
-## 9. Philosophical and Organon Study
+## 9. Interpretation
 
-**Organon extension—not a literal Bhāṣya doctrine:** Transcendental Time here is the distinction between a determination's provenance and its prospective efficacy. Universal Cognition distinguishes “matured from the past” from “productive of maturation”; the Ideas are particular faculties and their present modes. This framework does not reduce karma to chronological succession, collapse the two predicates, or attribute the Organon account to the commentary.
+The Bhāṣya asks two separate questions: whether a Faculty-instance
+is itself maturation, and whether it produces maturation as its
+result. It distinguishes the direction of each relation and preserves
+their different partitions. In particular, distress is not *vipāka*
+but is *sa-vipāka*; the concentration-generated life-faculty is also
+an explicit qualification to the verse's opening generalization.
 
-A faculty's name does not settle its causal status. The commentary
-asks both how it has arisen and what kind of result it can produce.
-The difference becomes particularly clear in distress, which is
-excluded from maturation while invariably assigned maturation as
-its result, and in the proposed concentration-born life-faculty,
-which qualifies an initially categorical classification.
+The analysis depends on keeping the lifespan digression, the objections,
+and the Vaibhāṣika conclusion in view. The reasons offered for distress's
+classification are debated within the passage; they should not be
+summarized as if the first argument stood uncontested.
 
-For Organon reconstruction, the task is to preserve the direction
-of each relation: result of prior action, product of concentration,
-association with action, and producer of maturation. Collapsing these
-into one label such as “causal” would erase the very distinctions
-through which the commentary tests its claims.
+The project crosswalk with Dhātu 1.48 connects Faculty-status to the
+Base–Essence–Principle architecture, while the Bhāṣya classifies
+instances according to maturation-provenance and future result.
+Location does not predetermine either karmic relation.
 
-The passage also shows why a report must preserve objections and
-exceptions. A summary based only on the verse would miss the
-qualification of life; a summary retaining only the first argument
-about distress would miss its counterexample. The explanatory
-movement, not merely the final inventory, is part of the knowledge
-being studied.
+Across the Kośa, Vijñāna is Discriminative Cognition joining Perception
+and Conception without reducing their unity to one homogeneous
+operation; it governs Mind and guides the reading of Dharma Base. The
+same *avijñapti* remains one content in the Form Base and Dharma Base
+classifications, and Vijñāna bears a *prati* relation to it. This
+cross-chapter synthesis is an Organon framework, not a claim made by
+this Bhāṣya.
 
-**Reciprocal return to Dhātu:** Dhātu 1.48 places Life, the five
-feeling-Faculties, and further Faculties within a portion of the
-Essence-Domain. Indriya 2.10 returns to that locus by examining
-whether a Faculty-instance is a maturation-result of prior action,
-productive of future maturation, or both/neither according to the
-two distinct classifications. The Domain map establishes Faculty-
-incidence; it does not predetermine karmic provenance or consequence.
+In a Kant-informed Techne reading, maturation-provenance and future
+result-producing capacity are distinct classification criteria. This
+is a project-level interpretation of the source's two questions, not
+a universal theory of causality or terminology supplied by the
+commentary.
 
-The negation is typed rather than absolute: distress is not *vipāka*
-but is *savipāka*. The Bhāṣya's lifespan discussion likewise
-distinguishes concentration-generated life from life that is
-maturation, qualifying the verse's opening generalization. On the
-project's Fichtean return, this difference reconstructs the
-Dhātu-located Faculty through its causal relations instead of
-reducing it to one fixed status. Hegelian Logic supplies Pure
-Theoretical Reason; the Kośa supplies Practical Reason. These are
-Organon framings, not claims attributed to the commentary.
+## 10. Textual and Scope Notes
 
-## 10. Review Status
-
-Provisional tenth study of the restarted Indriyanirdeśa Bhāṣya
-sequence. The research kārikā and Bhāṣya, existing Organon kārikā
-study, following research unit, and running Sanskrit at 43.08–46.06
-have been compared. The omitted lifespan digression is restored
-in full, including the exception to life as maturation.
-
-The closing words taken from the opening of VAK 2.11 complete the
-ten-faculty identification; the next ethical-classification question
-remains reserved for that study. Defective readings and provisional
-construals are explicit. Original witnesses and the existing kārikā
-study are preserved.
+The omitted lifespan digression is restored in full, including the
+exception to life as maturation. The closing words from VAK 2.11's
+opening complete the ten-Faculty identification; its ethical-
+classification question remains reserved for that study. Defective
+readings and provisional construals are recorded above; no independent
+collation is claimed.

@@ -5,13 +5,13 @@
 > śraddhā 'pramādaḥ praśrabdhir upekṣā hrīr apatrapā /
 > mūladvayam ahiṃsā ca vīryaṃ ca kuśale sadā // 2.25 //
 
-> Faith, heedfulness, pliancy, equanimity, moral shame, moral
-> caution, the two roots, non-harming, and vigor are always
-> present in wholesome consciousness.
+> Confidence, heedfulness, pliancy, equanimity, moral shame, moral
+> caution, the two roots, non-harming, and energy are always present
+> in wholesome consciousness.
 
-The two roots are non-greed and non-hatred, bringing the count
-to ten. The continuous unit includes the full discussion through
-the closing sentence at 56.01.
+The two roots are non-greed and non-hatred, bringing the count to ten.
+The continuous unit includes the discussion through its closing sentence
+at 56.01.
 
 ## 2. Continuous Sanskrit
 
@@ -32,7 +32,7 @@ the closing sentence at 56.01.
 > sā tu yathā kāyikī vedanā tathā veditavyā /
 > kathaṃ sā bodhyaṅgeṣu yokṣyate /
 > tatra tarhi kāyakarmaṇyataiva kāyikī praśrabdhirveditavyā /
-> kathaṃ sā bodhyaṅgamitayucyate /
+> kathaṃ sā bodhyaṅgamityucyate /
 > bodhyaṅgānukūlyāt /
 > sā hi kāyakarmaṇyatā cittakarmaṇyatā bodhyaṅgamāvahati /
 > asti punaḥ svacit anyatrāpyevaṃ dṛśyate /
@@ -59,251 +59,212 @@ the closing sentence at 56.01.
 > vīryaṃ cetaso 'bhyutsāhaḥ /
 > uktāḥ kuśalā mahābhūmikāḥ /
 
-This excerpt preserves the running transcription at printed
-55.02–56.01 in `Vasubandhu/Sources/kosabhasya.txt`, with source
-labels removed and the verse number regularized. Apparent defects
-and a duplicated phrase remain visible. Contextual translation
-repairs are recorded below; no independent collation is claimed.
+This excerpt follows the running transcription at printed 55.02–56.01 in
+`Vasubandhu/Sources/kosabhasya.txt`, with source labels removed and the
+verse number regularized. Apparent defects and a duplicated phrase remain
+visible. Contextual translation decisions and their limits are noted
+below; no independent collation is claimed.
 
-## 3. Continuous Conventional Translation
+## 3. Scientific English Rendering
 
 Those whose extensive ground is the wholesome are the wholesome
 great-ground factors: they occur always in wholesome consciousness.
-Which are they? “Faith, heedfulness, pliancy, equanimity, moral
-shame, moral caution, the two roots, non-harming, and vigor are
-always present in wholesome consciousness.” These ten dharmas
-are invariably present in wholesome consciousness. Of these,
-faith is clarity of consciousness. Others say it is conviction
-concerning the truths, the Jewels, and the results of action.
-Heedfulness is the cultivation of wholesome dharmas. What cultivation
-is there apart from those dharmas? Attentive care concerning them.
-Members of another school read in their sūtra, “guarding of
-consciousness.”
+Which are they? “Confidence, heedfulness, pliancy, equanimity, moral
+shame, moral caution, the two roots, non-harming, and energy are always
+present in the wholesome.” These ten Dharmas are invariably present in
+wholesome consciousness.
 
-Pliancy is the workability of consciousness. But is bodily pliancy
-not also stated in the sūtra? Certainly it is stated; it should
-be understood in the same way as bodily feeling. How, then, can
-it be included among the factors of awakening? In that context,
-then, bodily pliancy should be understood as the workability of
-the body itself. How is it called a factor of awakening? Because
-it is favorable to the factors of awakening. For that workability
-of the body brings about workability of consciousness, a factor
-of awakening. Is anything of this kind seen elsewhere? It is,
-he says. For example, the Blessed One called joy and the dharmas
-that provide a basis for joy the awakening factor of joy; aversion
-and the sign of aversion were called the hindrance of ill will;
-and right view, intention, and effort were called the aggregate
-of prajñā. Intention and effort are not prajñā by nature, but,
-because they are favorable to it, they receive its designation.
-In the same way, bodily pliancy receives the designation “factor
-of awakening” because it is favorable to a factor of awakening.
+Of these, confidence is clarity of consciousness. Others say it is
+conviction concerning truth, the Three Jewels, action, and its result.
+Heedfulness is the cultivation of wholesome Dharmas. What cultivation
+is there apart from those Dharmas? Attentive care toward them. Members
+of another community recite in a sūtra, “guarding of consciousness.”
+
+Pliancy is the workability of consciousness. But is bodily pliancy not
+also stated in the sūtra? It is indeed stated; it should be understood
+in the same way as bodily feeling. How, then, can it be included among
+the awakening factors? In that context, bodily pliancy should be
+understood as the workability of the body itself. How is it called an
+awakening factor? Because it is favorable to an awakening factor. For
+that workability of the body brings about workability of consciousness,
+an awakening factor.
+
+Is anything of this kind seen elsewhere? It is, he says. For example,
+the Blessed One called joy and Dharmas that provide a basis for joy the
+awakening factor of joy; aversion and the sign of aversion were called
+the hindrance of ill will; and right view, intention, and effort were
+called the prajñā aggregate. Intention and effort are not prajñā by
+nature, but because they are favorable to it, they receive its
+designation. In the same way, bodily pliancy receives the designation
+“awakening factor” because it is favorable to an awakening factor.
 
 Equanimity is evenness of consciousness, non-application of
-consciousness. How, then, can this be reconciled: “In that very
-same consciousness there are attention, whose nature is application,
-and equanimity, whose nature is non-application”? Was it not said
-that their distinction is difficult to know? Even what is difficult
-to know can indeed be known. But this is exceedingly difficult
-to know: that there is no opposition even where there is opposition!
-Application is in one respect, non-application in another; what
-opposition is there? Then it would follow that not all associated
-factors have one object-support. Other questions of this kind
-will also arise here; the method applied to those should be
-understood to apply to this as well.
+consciousness. How, then, can this be reconciled: “In that very same
+consciousness there are attention, whose nature is application, and
+equanimity, whose nature is non-application”? Was it not said that
+their distinction is difficult to know? Even what is difficult to know
+can indeed be known. But this is exceedingly difficult to know: that
+there is no opposition even where there is opposition! Application is
+in one respect, non-application in another; what opposition is there?
+Then it would follow that not all associated factors have one
+object-support. Other questions of this kind will also arise here;
+the method applied to those should be understood to apply to this as
+well.
 
-Moral shame and moral caution will be explained later. “The two
-roots” are the two wholesome roots, non-greed and non-hatred.
-Non-delusion also exists, but its nature is prajñā. And prajñā
-belongs to the great-ground factors; hence it is not designated
-exclusively a wholesome great-ground factor. Non-harming is
-non-injury. Vigor is the energetic arousal of consciousness.
-The wholesome great-ground factors have been stated.
+Moral shame and moral caution will be explained later. “The two roots”
+are the two wholesome roots, non-greed and non-hatred. Non-delusion
+also exists, but its nature is prajñā. And prajñā belongs to the
+great-ground factors; hence it is not designated exclusively a
+wholesome great-ground factor. Non-harming is non-injury. Energy is
+the energetic arousal of consciousness. The wholesome great-ground
+factors have been stated.
 
-The translation of the prajñā example repairs an apparent duplicated
-phrase in the transcription. In the equanimity exchange, “in one
-respect … in another” renders the compressed *anyatra … anyatra*;
-the immediate objection about a common object-support is retained
-because the precise differentiation remains contested.
+## 4. Movement and Attributions
 
-## 4. Movement and Voices of the Commentary
+The commentary defines the wholesome ground and lists ten factors. Its
+explanatory sequence varies in scope: confidence receives an alternative
+account; heedfulness receives a question and the wording of another
+community; pliancy prompts an extended exchange about bodily and mental
+workability and transferred designation; equanimity prompts an objection
+that remains unresolved here. Moral shame and caution are expressly
+deferred; the roots, non-harming, and energy receive brief explanations.
 
-The passage defines the wholesome ground and lists ten factors.
-Its explanatory scale varies: faith receives an alternative
-account, heedfulness a question and another school's wording,
-pliancy an extended discussion of bodily and mental application,
-and equanimity an unresolved exchange. Shame and caution are
-expressly deferred; the roots, non-harming, and vigor receive
-brief explanations.
+“Others” introduces an alternative account of confidence. “Members of
+another community” introduces the wording about guarding consciousness;
+the community is not named. The questions and answers on pliancy and
+equanimity do not identify an opponent or school. Preserve these
+attributions and do not turn each response into a single unqualified
+position.
 
-“Others” introduces the second definition of faith. “Members of
-another school” introduces the wording about guarding consciousness;
-the school is not named. The objections and replies about pliancy
-and equanimity likewise carry no local school attribution. The
-study therefore preserves their argumentative roles without
-assigning every response to Vasubandhu's final position.
+## 5. The Wholesome Ground and Its Members
 
-## 5. The Wholesome Ground and Its Ten Factors
+The ten are confidence, heedfulness, pliancy, equanimity, moral shame,
+moral caution, non-greed, non-hatred, non-harming, and energy. The
+compound *mūladvayam* supplies two factors. The opening sandhi resolves
+as *śraddhā apramādaḥ*, confidence and heedfulness, not as confidence
+joined to *pramāda*, negligence.
 
-The count is faith, heedfulness, pliancy, equanimity, moral shame,
-moral caution, non-greed, non-hatred, non-harming, and vigor.
-“Two roots” supplies two members, not one. The opening sandhi
-must resolve to faith and *apramāda*, heedfulness, not *pramāda*,
-heedlessness.
+The range is every wholesome consciousness. This does not replace the
+ten factors said in VAK 2.24 to occur in every consciousness: the present
+class has a narrower operating ground. The passage asserts necessary
+occurrence within the wholesome range, not ten successive stages of
+practice.
 
-The stated range is every wholesome consciousness. This does
-not replace the ten universal factors in VAK 2.24: the present
-class has a restricted ground, while the preceding class ranges
-across consciousness generally. The local assertion is necessary
-occurrence in wholesome consciousness, not a claim that these
-factors arise in ten successive stages of practice.
+The omission of non-delusion from the additional count is explained.
+Non-delusion exists, but the Bhāṣya says its nature is *prajñā*, already
+included among the great-ground factors. It is not absent from wholesome
+consciousness; it is not counted a second time as a wholesome
+great-ground member.
 
-The omission of non-delusion from the additional count is explained,
-not left implicit. Non-delusion has the nature of prajñā, already
-included in the universal class. The passage does not say that
-non-delusion is absent from wholesome consciousness or that
-wholesomeness requires only two wholesome roots in total.
+## 6. Confidence, Heedfulness, and Pliancy
 
-## 6. Faith, Heedfulness, and Pliancy
+Confidence as *prasāda* emphasizes clarity of consciousness. The
+alternative account emphasizes conviction concerning truth, the Three
+Jewels, action, and its result. These are distinct reported definitions;
+combining them into one expanded definition would erase the text's
+distribution of voices.
 
-Faith as *prasāda* emphasizes clarity or serenity of consciousness.
-The alternative account emphasizes conviction with specified
-objects: truths, Jewels, and karmic result. These are distinct
-reported definitions; combining them into one expanded definition
-would lose the textual distribution of voices.
+The question about heedfulness asks what “cultivation” adds beyond the
+wholesome Dharmas themselves. The answer specifies attentive care toward
+them. An unnamed other community's “guarding of consciousness” is cited
+as another formulation, not silently substituted for the first.
 
-The question about heedfulness asks what “cultivation” adds beyond
-the wholesome dharmas themselves. The reply specifies attentive
-care toward them. The other school's “guarding of consciousness”
-is then cited as another formulation, not silently substituted
-for the first definition.
-
-Pliancy is explained through workability. The initial reply to
-the bodily-pliancy question invokes bodily feeling without spelling
-out the analogy. When awakening factors are raised, the answer
+Pliancy is workability. The initial reply to the question about bodily
+pliancy invokes bodily feeling without fully stating the analogy. When
+its inclusion among awakening factors is challenged, the answer
 specifies bodily workability and distinguishes it from the mental
 workability it brings about.
 
-The examples defend receiving a name through a favorable relation.
-Bodily workability supports an awakening factor and receives its
-designation; intention and effort are favorable to prajñā without
-being prajñā by nature. Naming through relation does not abolish
-the difference between the supporting condition and what it supports.
+The examples defend receiving a designation through a favorable
+relation. Bodily workability supports mental workability, an awakening
+factor, and receives the designation through that relation. Intention
+and effort are favorable to prajñā without being prajñā by nature.
+Transferred naming does not abolish the distinction between a supporting
+condition and what it supports.
 
 ## 7. Equanimity and the Common Object-Support
 
-Here *upekṣā* is a wholesome mental factor defined by evenness
-and non-application. It is not simply the neutral feeling-faculty
-that appeared in the possession discussion. The shared word must
-be interpreted through its present definition and class.
+Here *upekṣā* is a wholesome mental factor defined as evenness and
+non-application of consciousness. It is not the neutral-feeling Faculty
+discussed earlier. Attention, by contrast, is application of
+consciousness. The objection asks how both can occur in the same
+consciousness.
 
-The challenge follows directly from VAK 2.24: attention is
-application of consciousness, yet every wholesome consciousness
-must also have equanimity as non-application. The appeal to the
-subtlety of mental distinctions does not satisfy the objector,
-who distinguishes difficulty of knowledge from an apparent
-contradiction.
-
-The proposed differentiation, “in one respect … in another,”
-then meets the common-object objection. Associated factors are
-supposed to share an object-support; relocating application and
-non-application threatens that condition. The passage ends the
-exchange by referring to the treatment of similar questions,
+The reply first invokes the subtlety of their distinction; the objection
+then presses that difficulty of knowing does not itself remove the
+apparent opposition. “In one respect … in another” is proposed, but this
+raises a further objection: associated factors are expected to share one
+object-support. The passage refers to the treatment of similar questions
 without supplying that treatment here.
 
-Accordingly, the local result is a recorded difficulty and a
-methodological deferral. It is not a demonstrated solution through
-“different aspects.” Such a solution would still have to explain
-how the distinction preserves the shared object-support.
+The local result is a recorded difficulty and a methodological deferral.
+The aspect distinction is not a demonstrated solution in this passage;
+an Organon account must still explain how it preserves the asserted
+common object-support.
 
-## 8. Philological and Translation Decisions
+## 8. Textual and Translation Decisions
 
-The source has several apparent transcription defects. The English
-reads *duśalānāṃ* contextually as *kuśalānāṃ*, wholesome;
-*nikāyāntarītāḥ* as members of another school; and the bodily-pliancy
-sentence as bodily workability bringing about mental workability.
-The transmitted *cittakarmaṇyatā* in that sentence leaves the
-expected object-form uncertain.
+The transcription contains apparent defects. The translation reads
+*duśalānāṃ* contextually as *kuśalānāṃ*, “wholesome”; takes
+*nikāyāntarītāḥ* as members of another community; and construes the
+bodily-pliancy sentence as bodily workability bringing about mental
+workability. The transmitted *cittakarmaṇyatā* in that sentence leaves
+the expected object-form uncertain.
 
-The prajñā example contains an apparent duplication around
-*tasyāstvanuguṇāviti tāsyātvanuguṇāviti* and the defective
-*tācchaydyaṃ*. The translation gives the contextual sense once:
-being favorable to prajñā, intention and effort receive that name.
-These are interpretive repairs, not a newly collated Sanskrit text.
+The prajñā example has an apparent duplicated phrase around
+“favorable to it” and the defective *tācchaydyaṃ*. The rendering gives
+the contextual sense once: because intention and effort are favorable
+to prajñā, they receive its designation. This is an interpretive repair,
+not a newly collated Sanskrit text.
 
-“Application” retains the connection between *ābhoga* in the
-attention definition and *anābhoga* in the objection. Rendering
-the latter merely as peacefulness would conceal the verbal
-opposition on which the argument turns. “In one respect” remains
-an interpretive construal of *anyatra*, not a guarantee that the
-objection has already been answered.
+“Application” preserves the connection between *ābhoga* in the
+definition of attention and *anābhoga* in the equanimity objection.
+Rendering the latter simply as calmness would conceal the opposition
+on which the exchange turns. “In one respect” remains a contextual
+construal of *anyatra*, not proof that the common-object objection has
+been answered. The later definitions of moral shame and moral caution
+are not imported into this unit.
 
-The glosses for moral shame and moral caution are deliberately
-not supplied from later passages. Their deferral is part of this
-unit's exposition. Non-harming and vigor retain the brief local
-definitions rather than receiving imported accounts of their
-practice or attainment.
+## 9. Interpretation
 
-## 9. Philosophical and Organon Study
+The wholesome class specifies a conditional operating range, while the
+Bhāṣya also asks how factors are distinguished within that range.
+Heedfulness is differentiated from the wholesome Dharmas cultivated;
+bodily pliancy from the awakening factor it favors; equanimity from
+attention with which it is associated. These relations cannot be reduced
+to simple membership in one list.
 
-The wholesome ground determines a range of occurrence, but the
-commentary also asks how factors are distinguished within that
-range. Heedfulness must be distinguished from the wholesome
-dharmas cultivated; bodily pliancy from the awakening factor
-it favors; equanimity from attention with which it is associated.
-These relations cannot all be reduced to membership in one list.
+The transferred-designation discussion distinguishes a factor's nature
+from its supporting relation and from a name received through that
+relation. The prajñā example explicitly preserves this difference:
+intention and effort are favorable to prajñā without being prajñā in
+nature. The equanimity exchange adds a constraint on reconstruction:
+an aspect distinction remains incomplete until it accounts for the
+shared object-support. The commentary's deferral must remain visible.
 
-For Organon interpretation, the transferred-designation discussion
-is particularly precise. Belonging by nature, supporting another
-dharma, and receiving that dharma's name through the supporting
-relation are distinct determinations. The prajñā example explicitly
-preserves the difference rather than making all members of the
-named aggregate prajñā in their own nature.
+In the Organon framework, the ten Samyama-bhūmis describe Path-related
+operation of mental factors; Buddha Dharma is the 11th Bhūmi. The
+wholesome configuration is present in every wholesome consciousness
+within the relevant range, but it is not itself one Path stage or proof
+of attainment. This project-level synthesis does not replace the
+Bhāṣya's narrower definition of *bhūmi* as a factor's sphere of
+operation.
 
-The equanimity debate adds a requirement on reconstruction:
-a distinction must preserve the other relations claimed for its
-terms. Explaining application and non-application by different
-respects is incomplete until their common object is accounted
-for. The commentary's deferral should remain visible in an
-Organon analysis, rather than disappear into a diagram suggesting
-that all dependencies have been resolved.
+The Kośa's governing synthesis: Vijñāna is Discriminative Cognition joining
+and governing Perception and Conception. Their unity is Inconceivable as a
+homogeneous operation; its Idea is disclosed in the Cognition Base. Vijñāna
+governs Mind and guides the reading of Dharma Base. Form Base and Dharma
+Base both include the same *avijñapti* in distinct classifications, and
+Vijñāna bears a *prati* relation to *avijñapti*. This system-level
+synthesis does not conflate the mental factors with Faculties, or
+*citta* with Vijñāna.
 
-**Organon reading:** The wholesome ground specifies a coordinated ethical
-determination of a cognitive occurrence and thus gives concrete form to
-the preparatory side of purification. It is not itself an additional
-faculty or proof that every wholesome moment is a path-attainment. The
-particular object-content cannot substitute for the distinct functions
-and relations the Bhāṣya carefully preserves.
+## 10. Textual and Scope Notes
 
-**Across the Samyama-bhūmis:** In each wholesome consciousness-event within
-the progression, these ten factors co-occur. That conditional universality
-does not identify wholesome consciousness with a single Samyama-bhūmi or
-path-stage. It gives the ethical configuration that must be tracked as
-the Kośa's Path progresses through the bhūmis, alongside the distinct
-operating ranges of the other factor-classes.
-
-**Fichte–Hegel method (Organon, not source attribution):** The Hegelian
-determination is the universal “wholesome” actualized as ten differentiated
-functions. The Fichtean return negates a merely undetermined citta and
-reconstructs it as an ethical event through their necessary co-arising.
-This is the Practical Kośa showing a rule in operation, not a claim that
-the Bhāṣya uses either philosopher's terms.
-
-**Return to the Principle system:** VAK 1.48 locates Life, feeling, and the
-five Faculties beginning with Faith in a portion of the Essence-Domain,
-with Mind-Faculty across the Citta Domains. VAK 2.25 analyzes similarly
-named determinations as mental factors, not simply as those Faculties.
-Their shared names do not collapse the Principle system of typed placement
-into the Rule of wholesome co-arising.
-
-## 10. Review Status
-
-Provisional twenty-fifth study of the restarted Indriyanirdeśa
-Bhāṣya sequence. The research Bhāṣya, existing Organon kārikā
-study, and running Sanskrit at 55.02–56.02 have been compared.
-
-The full unit is translated through its closing sentence, including
-alternative definitions, the bodily-pliancy examples, and every
-turn of the equanimity objection. Transcription defects and the
-unresolved common-object issue are explicit. Original witnesses
-and existing studies are unchanged. VAK 2.26 begins at 56.02 with
-the ground of factors occurring in afflicted consciousness.
+The translation follows the running transcription at 55.02–56.01 and
+retains the full sequence through “the wholesome great-ground factors
+have been stated.” It includes the alternative accounts, unnamed
+community attribution, bodily-pliancy examples, complete equanimity
+objection, and the common-object deferral. The transcription defects
+and translation repairs above are not independent Sanskrit emendations.
+No independent collation is claimed.

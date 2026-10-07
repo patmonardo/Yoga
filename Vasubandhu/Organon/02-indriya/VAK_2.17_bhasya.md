@@ -58,7 +58,7 @@ in the fruits lack the first realization faculty; ordinary persons
 and trainees lack the last. Exact restoration of these compounds
 requires further textual review. No independent collation is claimed.
 
-## 3. Continuous Conventional Translation
+## 3. Scientific English Rendering
 
 This is now examined: one possessing which faculty necessarily
 possesses how many faculties? “One possessing neutral feeling,
@@ -83,7 +83,7 @@ who does not possess the gladness-faculty. One born in the form
 or formless realm does not possess the pain-faculty. One free from
 desire for the desire realm does not possess distress. One whose
 wholesome roots have been severed does not possess the faculties
-beginning with faith.
+beginning with confidence.
 
 Ordinary persons and those established in the fruits do not possess
 the faculty “I shall know.” Ordinary persons and those established
@@ -142,7 +142,7 @@ distinguishes the thresholds: fourth dhyāna for pleasure, third
 and fourth for gladness, with the formless realm included in both.
 
 Distress is excluded through freedom from desire for the desire
-realm. The five beginning with faith are excluded through severance
+realm. The five beginning with confidence are excluded through severance
 of wholesome roots. These conditions should not be replaced by
 realm alone or by a judgment about a person's current mood.
 
@@ -183,49 +183,39 @@ faculty named. “Born in a realm,” “an ordinary person,” “free from
 desire,” and “established on a path” are not interchangeable ways
 of stating one status.
 
-## 9. Philosophical and Organon Study
-
-**Organon extension—not a literal Bhāṣya doctrine:** This distinction can be rendered as Transcendental Time: universal Cognition identifies the arhatship determination, while particular Ideas—pleasure, gladness, or neutrality—may qualify different attainment-events and aggregate only across the person's history. The necessary triad expresses co-possession, not continuous co-manifestation. This reading neither asserts that all fall away nor turns the count into a universal biography.
+## 9. Interpretation
 
 The central determination is a necessary relation of possession
-that leaves further possessions variable. The commentary then
-makes that variability intelligible by specifying exclusions.
-Necessity and conditional variation belong to the same analysis.
+that leaves further possessions variable. The commentary specifies
+conditions for non-possession, including realm, non-acquisition or
+loss, ordinary-person status, dispassion, severed wholesome roots,
+and path-position. These conditions are not interchangeable. Nor
+does possession of the neutral-feeling Faculty entail that neutral
+feeling is manifest in every moment.
 
-For Organon reconstruction, the first task is to preserve the
-relation being asserted. A necessary possession is not automatically
-a continuously occurring event; a possible additional faculty is
-not an arbitrary addition; and absence can have different grounds.
-The text provides concrete cases for each distinction.
+The return to Dhātu 1.48 is a project crosswalk: it relates these
+Faculty classifications to the Base–Essence–Principle architecture
+without identifying the triad's members or replacing the Dhātu map.
+The first-half arhatship discussion distinguishes an event count
+from possibilities across one person's repeated attainments; those
+alternative feeling Faculties are not simultaneous.
 
-The triad may suggest a useful organization of life, mind, and
-feeling, but this unit does not derive a universal minimum ontology
-of consciousness. Its precise claim is the necessary co-possession
-of these faculties within the system being examined.
+The Kośa's governing synthesis: Vijñāna is Discriminative Cognition joining
+and governing Perception and Conception. Their unity is Inconceivable as a
+homogeneous operation; its Idea is disclosed in the Cognition Base. Vijñāna
+governs Mind and guides the reading of Dharma Base. *Avijñapti* is the
+bridge, one Dharma classified in both Form Base and Dharma Base; Vijñāna
+bears a *prati* relation to it.
 
-**Return to Dhātu at VAK 1.48:** The map places Life and the feeling
-Faculties, including neutral feeling, within a portion of the
-Essence-Domain, and Mind-Faculty across the Citta Domains. Their necessary
-co-possession thus joins distinct Domain-incidences without making those
-Domains identical. The first-half count similarly distinguishes one
-attainment from a person's history of possible reattainments; the feeling
-Faculties remain separately mapped even when their alternatives are
-gathered into an eleven-member historical total. This Fichtean return
-negates a merely static reading of the Dhātu placements and reconstructs
-them through Indriya's relations of necessary possession and
-event-specific attainment, while preserving both the map and the
-non-simultaneity of alternative feelings.
+In a Kant-informed Techne reading, the relation asserted, its domain,
+and its conditions must remain explicit. This is a project-level
+interpretation, not a universal ontology of consciousness.
 
-## 10. Review Status
+## 10. Textual and Scope Notes
 
-Provisional seventeenth study of the restarted Indriyanirdeśa Bhāṣya
-sequence. The research kārikā and Bhāṣya, existing Organon kārikā
-study, running Sanskrit at 50.09–23, and opening of the next research
-unit have been compared.
-
-The complete necessary-triad discussion and all exclusions are
-translated. The arhatship-count discussion belongs to the preceding
-natural unit and was completed in VAK 2.16. Defective path-status
-compounds remain explicitly provisional. Original witnesses and
-existing kārikā studies are unchanged. VAK 2.18 continues with
-further necessary possession counts.
+This study covers the VAK 2.17 possession inquiry and its exclusions.
+The arhatship-count discussion is treated with the fruit-attainment
+unit in VAK 2.16. The damaged path-status compounds remain provisional;
+the translations and repairs are identified above, and no independent
+collation is claimed. VAK 2.18 continues with further possession
+counts.

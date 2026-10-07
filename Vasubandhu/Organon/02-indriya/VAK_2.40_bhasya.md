@@ -1,227 +1,136 @@
-# VAK_2.40 Bhāṣya — Relinquishment and the Proliferation of Acquisitions
+# VAK_2.40_bhasya
 
-## 1. Kārikā Anchor
+## 1. Text and Scope
 
-> kāmādyāptāmalānāṃ ca mārgasyāprāptir iṣyate /
-> pṛthagjanatvaṃ tatprāptibhūsaṃcārād vihīyate // 2.40 //
+This study covers the Bhāṣya at 66.21–67.12. It explains how a particular
+non-acquisition is relinquished, then tests the claim that acquisition and
+non-acquisition themselves require acquisition and non-acquisition. The
+proposed mutual-possession reply is followed by a calculation showing
+proliferation of acquisition-entities through successive moments.
 
-> [Non-acquisition is threefold] also for Desire Domain and other
-> Domain-affiliated dharmas and the uncontaminated. Non-acquisition
-> of the path is held to be ordinary-person status. It is
-> relinquished through acquisition of that dharma or a change
-> of level.
+## 2. Lexical Analysis
 
-The Domain classification and ordinary-person-status debate were
-translated in VAK 2.39. This unit begins with the question of
-relinquishment and includes the full ensuing regress discussion.
+| Pada | Morphology | Force in this passage |
+|---|---|---|
+| vihīyate | passive verb | is relinquished |
+| prāpti | feminine noun | acquisition |
+| aprāpti | feminine noun | non-acquisition |
+| bhūmi-saṃcāra | masculine compound | ground-transition |
+| prāpti-prāpti | compound | acquisition of acquisition |
+| anuprāpti | feminine noun | subsidiary acquisition |
+| anavasthā | feminine noun | non-termination or infinite regress |
+| paraspara-samanvāgama | compound | mutual possession |
+| apratighātin | adjective | non-resistant |
 
-## 2. Continuous Sanskrit
+## 3. Scientific English Rendering
 
-> atheyamaprāptiḥ kathaṃ vihīyate /
-> yasya yā dharmasya prāptirasau
-> tatprāptibhusaṃcārād vihīyate // 2.40 //
-> yathā tāvadāryamārgasyālābhaḥ pṛthagjanatvaṃ tasya lābhāttadvihīyate bhūmisaṃcārācca /
-> evamanyeṣāmapi yojyam /
-> vihīyata iti tasyā aprāpteraprāptirutpadyate prāptiśchidyate /
-> kiṃ punaraprāptiprāptyorapi prāptyaprāptī bhavataḥ /
-> ubhayorapyubhayaṃ bhavtītyāhuḥ /
-> nanu caivamanavasthā prasaṅgaḥ praptīnām /
-> nānavasthāprasaṅgaḥ /
-> parasparasamanvāgamāt /
-> ātmanā tṛtīyo hi dharma utpadyate /
-> sa ca dharmastasya prāptiḥ prāptiprāptiśca /
-> tatra prāptyutpādāttena dharmeṇa samanvāgato bhavati prāptiprāptyā ca /
-> prāptiprāptyutpādāt punaḥ prāptyaiva samanvāgato bhavatyato nānavsthā /
-> evaṃ ca kṛtva ātmanā tṛtīyasya dharmasya kuśalasya kliṣṭasya kliṣṭasya vā dvitīye kṣaṇe tisraḥ prāptayo jāyante /
-> tāsāṃ ca punastisro 'nuprāptaya iti ṣaḍ bhavanti /
-> tṛtīye kṣaṇe prathamadvitīyakṣaṇotpannānāṃ dravyāṇāṃ nava prāptayaḥ sārdhamanuprāptibhirityaṣṭādāśa bhavanti /
-> evamuttarottaravāṛddhiprasaṇṅgenaitāḥ praptayo visarpantyaḥ sarveṣāmatītānāgatānāṃ kleśopakleśakṣaṇānāmupapattilābhikānāṃ ca kuśalakṣaṇānāṃ saṃprayoga sahabhuvāmanādyantasaṃsāraparyāpannānāmanantā ekasya prāṇinaḥ kṣaṇe kṣaṇe upajāyante ityanantadravyāḥ pratisantānamātmabhāvakṣaṇāḥ sattvānāṃ bhavanti /
-> atyutsavo vatāyaṃ prāptīnāṃ varttate /
-> kevalaṃ tu apratighātinyo yato 'vakāśamākāśe labhante /
-> itarathā hyākāśe 'pyava kāśo na syāt dvitīyasya prāṇinaḥ //
-
-The excerpt follows printed 66.21–67.12 in
-`Vasubandhu/Sources/kosabhasya.txt`, with source labels removed
-and the verse number regularized. Transcription defects remain
-visible; contextual resolutions are noted below. No independent
-collation is claimed.
-
-## 3. Continuous Conventional Translation
-
-How, then, is this non-acquisition relinquished? With respect
-to the relevant dharma, “it is relinquished through acquisition
-of that dharma or through a change of level.” For example,
-non-obtaining of the noble path is ordinary-person status; it
-is relinquished through obtaining that path and through a change
-of level. The same should be applied to the other cases.
-“Relinquished” means that non-acquisition of that non-acquisition
-arises and its acquisition is cut off.
-
-Do acquisition and non-acquisition themselves also have acquisition
-and non-acquisition? They say that both apply to each. Would
-this not entail an infinite regress of acquisitions? No regress
-is entailed, because of mutual possession. A dharma arises as
-one of three: that dharma, its acquisition, and acquisition of
-that acquisition. Through the arising of acquisition, one possesses
-the dharma and the acquisition-of-acquisition; through the arising
-of acquisition-of-acquisition, one possesses the acquisition
-itself. Thus there is no regress.
-
-On this account, for a wholesome or afflicted dharma arising
-as one of three, three acquisitions arise in the second moment;
-three subsidiary acquisitions of these also arise, making six.
-In the third moment, nine acquisitions arise for the entities
-produced in the first and second moments; with their subsidiary
-acquisitions, there are eighteen. As these acquisitions thus
-spread through successive increase, infinitely many arise in
-every moment of a single living being: acquisitions of all past
-and future moments of affliction and secondary affliction, and
-of wholesome moments acquired by birth, together with their
-associated and co-arising dharmas, belonging to beginningless
-and endless saṃsāra. Thus each moment of embodied existence in
-each being's continuum comprises infinitely many entities.
-
-What a festival of acquisitions! Only because they are non-resistant
-do they find room in space. Otherwise, even in space there would
-be no room for a second living being.
-
-The opening prose is compressed: it refers to the dharma whose
-acquisition removes its non-acquisition; no emendation is assumed.
-The repeated *kliṣṭasya* in the second-moment example is treated
-as a duplication.
+> How is this non-acquisition relinquished? The non-acquisition concerning
+> a Dharma is relinquished through acquisition of that Dharma or through
+> ground-transition. Thus non-obtaining of the noble Path, ordinary-person
+> status, ceases through obtaining that Path or changing ground. The same
+> applies to the other cases.
+>
+> “Relinquished” means that non-acquisition of that non-acquisition arises
+> and its acquisition is cut off. Do acquisition and non-acquisition
+> themselves have acquisition and non-acquisition? Some say each has both.
+> Does this not produce infinite regress? They answer: no, because of
+> mutual possession. With an initial Dharma arise its acquisition and
+> acquisition of that acquisition; the acquisition establishes possession
+> of the Dharma and of the latter, while acquisition of acquisition
+> establishes possession of the acquisition.
+>
+> Yet for a wholesome or afflicted Dharma, acquisitions multiply:
+> three acquisitions and three subsidiary acquisitions arise in the second
+> moment; in the third moment, nine acquisitions with nine subsidiary
+> acquisitions arise. By successive increase, infinitely many
+> acquisition-entities arise in each moment of a sentient continuum. “What
+> a festival of acquisitions!” They require no resistance, or even space
+> would not contain a second living being.
 
 ## 4. Movement and Voices of the Commentary
 
-The initial question concerns relinquishment of non-acquisition.
-The answer applies acquisition and non-acquisition to those very
-formations, prompting a regress objection. The defense accepts
-the further acquisitions but offers a three-member arrangement
-of mutual possession to stop an endless demand at one moment.
+The opening applies the relinquishment rule to the relevant Dharma. The
+following account accepts second-order acquisition and offers mutual
+possession to block a direct regress. The commentary then shifts to a
+different objection: even if a linear regress is halted, the entities
+proliferate across successive moments and the continuum's past, future,
+associated, and co-arising Dharmas.
 
-The commentary then calculates the proliferation over successive
-moments and extends the consequence to the continuum's vast
-range of dharmas. Its closing exclamation and spatial hyperbole
-are plainly critical. The local “they say” continues the defended
-account of real acquisitions from the preceding discussion;
-the numerical critique should remain distinct from that defense.
+The closing exclamation and spatial hyperbole are critical. The defended
+account must remain distinct from the numerical critique.
 
-## 5. Relinquishment and Change of Level
+## 5. Relinquishment Is a Technical Status Change
 
-Two occasions for relinquishment are named: acquisition of the
-dharma concerned and a change of level. The explanation states
-what relinquishment means within this account: the acquisition
-of a particular non-acquisition is cut off, while non-acquisition
-of it arises.
+Acquisition of a Dharma and ground-transition are two stated conditions
+under which the corresponding non-acquisition is relinquished. This does
+not mean that every ground-transition makes an ordinary person noble:
+the relevant non-acquisition and the relevant ground must be specified.
 
-The level-change clause must not imply that moving to another
-level automatically makes an ordinary person noble. It concerns
-relinquishing the relevant level-specific non-acquisition. Acquisition
-of the noble path and a change of level are not equivalent
-achievements. The earlier Domain classification supplies the
-context for keeping these two occasions distinct; the local
-paragraph does not give a full replacement inventory after a
-level change.
+Within the reified account, relinquishment is itself phrased as a
+second-order alteration:
 
-“Relinquished” consequently does not mean simply an emotional
-act of letting go. It describes a technical change in possession
-within the doctrine under discussion.
+```text
+Acquisition of non-acquisition is cut off
+and
+non-acquisition of non-acquisition arises
+```
 
-## 6. The Three-Member Reply to Regress
+The critical account of VAK 2.36 avoids treating this sentence as an
+additional inventory of entities. It grounds change of status in the
+continuum's transformed causal capacity.
 
-Let the initial dharma be D, its acquisition A, and acquisition
-of that acquisition B. The reply says that A establishes possession
-of D and B, while B establishes possession of A. It therefore
-does not require a new C to establish possession of B at that
-same step.
+## 6. Mutual Possession and Proliferation
 
-This is the content of “mutual possession.” The translation
-attributes possession to the continuum through the acquisitions;
-it does not turn A and B into independent persons possessing
-one another. The explanation specifies their functions in the
-proposed account.
+Let `D` be a Dharma, `P` its acquisition, and `P2` acquisition of `P`.
+The reply says:
 
-Whether this reply is satisfactory is the issue being debated.
-Its stated aim is to stop an infinite regress, not to eliminate
-acquisition-of-acquisition or reduce the original group to one
-entity.
+```text
+P establishes possession of D and P2
+P2 establishes possession of P
+```
 
-## 7. Successive Proliferation
+This explains “mutual possession” without treating the two acquisitions as
+persons that own one another. But it does not remove the entities already
+introduced. The second-moment total of six and third-moment total of
+eighteen concern newly arising acquisitions, not every cumulative entity
+in the continuum.
 
-The next calculation addresses a different problem from the
-initial regress. In the second moment, the original three receive
-three acquisitions and three subsidiary acquisitions, giving
-six new entities. In the third, the first two moments' three
-plus six entities receive nine acquisitions and nine subsidiary
-acquisitions, giving eighteen new entities.
+The objection is therefore not merely formal non-termination. It is
+ontological inflation: a purported status relation fills the continuum with
+an ever-growing population of real acquisition-Dharmas.
 
-The counts six and eighteen therefore concern newly arising
-acquisitions in those moments, not the cumulative total of all
-entities so far. The initial three include the original dharma,
-whereas the later counts enumerate acquisitions.
+## 7. Interpretation
 
-*Anuprāpti* is rendered “subsidiary acquisition” here because
-it functions as the accompanying acquisition-of-acquisition
-in each calculation. Rendering it merely “later acquisition”
-could incorrectly place those three or nine additions in a
-separate subsequent moment.
+VAK 2.40 completes the Hub critique begun in 2.36. A real Dharma must
+specify passing, attainment, or a transformed capacity precisely; it cannot
+store a mysterious possession-object for every state, every state of that
+object, and every later moment. The more adequate rule is:
 
-The claim of infinitely many entities in each moment invokes
-the full past-and-future range of the continuum, not merely the
-finite arithmetic of the first three moments. These two scales
-of the argument should not be collapsed.
+```text
+Path-result attained
+    := the relevant Dharma has arisen under a transformed support
+       and is available to the continuum by its causal capacity
 
-## 8. Source Problems and the Closing Irony
+Path-result not attained
+    := that capacity has not yet arisen or remains foreclosed
+       within the proper relation-range
+```
 
-The excerpt retains the source's *bhusaṃcārād*, defective spelling
-of regress and increase, and the duplicated afflicted qualifier.
-The English follows the coherent local argument. No independent
-collation is claimed; the compressed opening is read contextually
-without emendation.
+This is not an ordinary pass/fail verdict. It is a determination of what
+the continuum can actually enact. It permits a Guru's instruction to be a
+Principle:Rule specification of readiness and transformation rather than a
+mere external authorization.
 
-The final comment says that the acquisitions are non-resistant,
-*apratighātin*. The conditional claim about there being no room
-for another being is ironic criticism of their multiplication;
-it is not a literal measurement of the spatial volume of mental
-or dissociated dharmas. The defense has not claimed that acquisition
-is material or spatially obstructive.
+Vijñāna is Discriminative Cognition joining and governing Perception and
+Conception. It governs Mind and guides Dharma Base, while *avijñapti* is one
+Dharma classified in Form Base and Dharma Base, with Vijñāna bearing a
+*prati* relation to it. The Hub governs the wheel by holding status in the
+continuum's causal relation rather than adding an infinite inventory of
+hidden entities.
 
-## 9. Philosophical and Organon Study
+## 8. Review Status
 
-The passage distinguishes blocking a formal regress from accounting
-for the resulting multiplicity. A reciprocal arrangement can
-answer why another acquisition is not immediately required,
-while still admitting extensive multiplication through successive
-moments. The criticism concerns that consequence as well as
-the original explanatory burden.
-
-For Organon interpretation, recording a status and explaining
-what grounds it are different tasks. If possession itself is
-counted as a real dharma subject to possession, the account must
-explain how its own rule applies without concealment of the
-additional commitments. This unit makes those commitments explicit.
-
-The preceding continuum-and-seed alternative provides context,
-but this passage does not restate it as a new proof. Its local
-work is the relinquishment rule, the mutual-possession defense,
-and the critical calculation. A reconstruction should preserve
-all three rather than replace them with a general maxim against
-representing relations as entities.
-
-**Organon note (limited application):** This passage tests the
-*Prāpti:Aprāpti* account by setting out its relinquishment rule, the
-mutual-possession defense, and Vasubandhu's proliferation critique. Keep
-those steps and attributions distinct; do not generalize them beyond this
-argument.
-
-## 10. Review Status
-
-Provisional fortieth study of the restarted Indriyanirdeśa Bhāṣya
-sequence. The research Bhāṣya, existing Organon kārikā anchor,
-preceding continuous study, and running Sanskrit at 66.21–67.12
-have been compared.
-
-The relinquishment account, regress objection and reply, complete
-proliferation argument, and closing irony are translated. The
-compressed opening and the meaning of subsidiary acquisition are
-noted without emendation. Original witnesses and existing studies are unchanged.
-VAK 2.41 begins at 67.13 with the question about commonality.
+The kārikā and Bhāṣya have been compared with the source transcription at
+66.21–67.12. The two forms of relinquishment, second-order acquisition,
+mutual-possession reply, successive proliferation calculation, and critical
+closing hyperbole are retained. VAK 2.41 has not been edited, as requested.

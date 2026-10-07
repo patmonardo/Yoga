@@ -12,7 +12,7 @@
 >
 > caturdaśa tathānyāni nivṛtter indriyāṇi vā // 2.6 //
 
-## 3. Padaccheda
+## 3. Lexical Analysis
 
 ```text
 pravṛtteḥ                       → pravṛtteḥ
@@ -23,7 +23,7 @@ nivṛtteḥ                        → nivṛtteḥ
 indriyāṇi vā                    → indriyāṇi vā
 ```
 
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | pravṛtteḥ | genitive feminine singular of `pravṛtti` | of engagement, ongoing activity, or the active course |
 | āśraya | compound member | support or basis |
@@ -38,15 +38,8 @@ indriyāṇi vā                    → indriyāṇi vā
 | indriyāṇi | nominative neuter plural | faculties |
 | vā | alternative particle | or; according to the Bhāṣya, marks a difference of opinion |
 
-The compound must be kept intact long enough for its syntax to become clear:
-
-```text
-pravṛtteḥ
-    qualifies each member of
-āśraya-utpatti-sthiti-pratyupabhoga
-```
-
-The same four members are then supplied after `tathā` for `nivṛtteḥ`.
+The compound applies the four coordinated functions to *pravṛtti*; *tathā*
+carries the same fourfold analysis forward to *nivṛtti*.
 
 ## 4. Grammar
 
@@ -93,15 +86,15 @@ explicit with `matavikalpārtho vāśabdaḥ`: the word *or* indicates a differe
 of opinion. The Kārikā is therefore reporting another justification for the
 same twenty-two faculties.
 
-## 5. Translation
+## 5. Scientific English Rendering
 
-### Close syntactic construe
+### Kārikā
 
-> Or, with respect to the support, arising, persistence, and experience of engagement, fourteen are faculties; likewise, the others are faculties of withdrawal.
+> Or, with respect to the support, arising, persistence, and experience of engagement, fourteen are Faculties; likewise, the others are Faculties of withdrawal.
 
-### Bhāṣya-informed translation
+### Bhāṣya-informed rendering
 
-> Or, according to another account, fourteen faculties govern the support, arising, persistence, and experience of the active course of conditioned existence. In exactly the same four respects, the remaining eight govern withdrawal from that course.
+> Or, according to another account, fourteen Faculties govern the support, arising, persistence, and experience of the active course. In the same four respects, the remaining eight govern withdrawal.
 
 The Bhāṣya distributes the fourteen as follows:
 
@@ -139,18 +132,28 @@ experience of nivṛtti
 total = 8
 ```
 
-## 6. Philosophical Translation
+## 6. Interpretation
 
-> The twenty-two faculties can be reconstructed as two complete courses of governed activity. Fourteen constitute the support, origination, continuation, and lived experience of `pravṛtti`; the remaining eight constitute the same four functions for `nivṛtti`. Withdrawal is therefore not bare inactivity or an instantaneous disappearance. It has conditions that support it, a faculty through which it arises, a faculty through which it persists, and a faculty through which its result is experienced.
+The Bhāṣya reports an alternative account: fourteen Faculties are assigned
+to the support, arising, persistence, and experience of *pravṛtti*; the
+remaining eight are assigned the same four roles in *nivṛtti*. The
+distributions are parallel in function, but their members and the courses
+they organize remain distinct. The Bhāṣya does not identify *nivṛtti* with
+bare inactivity, nor does this account make nirvāṇa a conditioned product.
 
-Organon rendering:
+In the Kant-informed Techne, the four roles provide a determinate rule for
+organizing this alternative Faculty-classification. The project crosswalk
+with Dhātu 1.48 locates Faculty-status within the Base–Essence–Principle
+relations; VAK 2.06 regroups those Faculties by the course and function
+they serve. This is a project-level analysis, not terminology supplied by
+the Bhāṣya.
 
-> On this alternative account, the same fourfold form governs two contrary courses: support, arising, persistence, and experience. Returned to Dhātu 1.48, the fourteen Faculties of *pravṛtti* and the eight of *nivṛtti* occupy the mapped loci and parts of the Domain system; the second course is not a new inventory or an operation outside it. The Fichtean return negates engagement as the sole organization of the living process and reconstructs the mapped Faculties as an active course of withdrawal. This is determinate negation, not a blank absence.
-
-This is a Bhāṣya-grounded reconstruction of the alternative account. It does
-not yet claim that the Kośa derives both courses from one higher Principle.
-
-**Transcendental Time determination (Organon, not translation):** `Pravṛtti` and `nivṛtti` have a shared functional order—support, arising, persistence, and experienced completion—without becoming one course or a universal linear biography. Universal Cognition here names the determination of a course through these functions; the Ideas are the particular faculties occupying each position. This ordering is not measured duration, and it does not make nirvāṇa a conditioned event.
+Across the Kośa, Vijñāna is Discriminative Cognition joining Perception
+and Conception without reducing their unity to one homogeneous operation;
+it governs Mind and guides the reading of Dharma Base. The same
+*avijñapti* remains one content in the Form Base and Dharma Base
+classifications, and Vijñāna bears a *prati* relation to it. This wider
+synthesis frames, but is not stated in full by, this verse.
 
 ## 7. Technical Vocabulary
 
@@ -245,70 +248,33 @@ merged into one statement by Vasubandhu.
 
 ## 9. Interpretive Note
 
-**Organon time-reading:** The force of `tathā` is structural: the same four positions organize contrary courses, while their members and outcomes remain distinct. The fourteen/eight distributions therefore articulate alternative temporal organizations, not a count of consecutive intervals. In particular, path fruition is intelligible through its governing faculty without being equated with the five feeling-mediated experiences of `pravṛtti`.
-
-**Reciprocal return to Dhātu.** Dhātu 1.48 locates the six Faculties
-supporting *pravṛtti* in the five internal sensory Domains and in the
-one Mind-Faculty mapped across the seven Citta Domains. The two
-arising-faculties are parts of the Body-Domain; Life and the five
-Feelings, along with the five faculties supporting *nivṛtti*, belong
-to the mapped portion of the Essence-Domain. The final three
-path-knowledge Faculties also have portions in that Domain. Indriya
-2.06 regroups these same twenty-two Faculties by course and function:
-Dhātu tells where Faculty-status is borne; Indriya shows how those
-loci participate in two ordered processes.
-
-VAK 2.06 does more than divide the faculties into worldly and liberating
-groups. It discovers one functional form across two opposed directions. The
-fourteen faculties do not merely cause isolated events; together they support,
-originate, maintain, and provide the experience of `pravṛtti`. The final eight
-do not merely negate that course; they give `nivṛtti` its own support,
-origination, maintenance, and fruition.
-
-The force of `tathā` is decisive. Withdrawal has the same ordered functional
-completeness as engagement:
+The Bhāṣya marks this as an alternative account (*matavikalpa*), not a
+replacement for VAK 2.05's six-function explanation. Its *tathā* carries
+the four functions across to *nivṛtti*:
 
 ```text
-support
-    → arising
-    → persistence
-    → experience
+support → arising → persistence → experience
 ```
 
-This does not make the two courses identical. Their faculties and results are
-different. The structural correspondence shows that cessation of the active
-course is not achieved by removing every operation. A different organization
-of powers must become effective and remain effective through completion.
+The two distributions differ in their members and counts: fourteen
+Faculties for *pravṛtti*, eight for *nivṛtti*. This correspondence does
+not make the courses identical or turn their roles into stages measured
+in time. The Bhāṣya's explanation of *vā* keeps the claim properly
+qualified: this is one proposed rationale for the number and order of
+the twenty-two Faculties.
 
-In the project's philosophical framing, Hegelian Logic is Pure
-Theoretical Reason and the Kośa is Practical Reason. Indriya
-negates the one-sided reading of Dhātu as a fixed placement and
-reconstructs that map in mind as opposed but structurally corresponding
-courses. The `vā` still matters: the Bhāṣya reports an alternative
-account, not an uncontested synthesis. The return illuminates the
-possibility of the larger Prajñā/GDSL/SDSL isomorphism without
-collapsing the two courses or claiming that nirvāṇa itself is produced.
+**Reciprocal return to Dhātu.** Dhātu 1.48 maps Faculty-status within
+the Base–Essence–Principle architecture; this account groups the same
+Faculties by the functions assigned to two courses. The map and the
+functional grouping answer different questions and should not be
+collapsed. This classification does not imply that every effective
+cause is a Faculty.
 
-The passage also refines the meaning of experience. In `pravṛtti`, the five
-feelings supply `upabhoga`. In `nivṛtti`, experience belongs to the faculty of
-one who has known. Feeling-mediated participation in the conditioned course
-and the fruition of completed path-knowing occupy corresponding positions
-without becoming the same kind of cognition.
-
-For the Organon, this is the first explicit process-form of the Kośa Agent:
-
-```text
-an operative course requires
-    support
-    genesis
-    persistence
-    experienced completion
-```
-
-The Agent-reading remains a project reconstruction. Textually, the Kārikā
-and Bhāṣya provide the two courses, the four functions, and their exhaustive
-faculty-distribution. They do not use the language of software, task agents,
-or a Logic–Model synthesis.
+The distinction between the two experience-functions is also retained:
+the five feelings mediate *pravṛtti*'s *upabhoga*, whereas *nivṛtti*'s
+experience is assigned to the Faculty of one who has known. This
+interpretation is limited to the Bhāṣya's stated allocation and does not
+equate the two operations.
 
 ## 10. OWL++ Seed
 
@@ -353,7 +319,7 @@ vak:Nivrtti
 vak:NivrttiFaculties
     vak:hasCount 8 .
 
-organon:KosaAgentCourseForm
+organon:FacultyCourseForm
     a organon:InterpretiveReconstruction ;
     organon:hasMoment vak:Support,
         vak:Arising,

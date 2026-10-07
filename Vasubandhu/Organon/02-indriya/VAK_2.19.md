@@ -16,7 +16,7 @@ The opening `aṣṭābhiḥ` completes the subject `strīndriyādimān` carried
 from VAK 2.18. Only after that completion does `ekādaśabhiḥ` govern the two
 realization-faculty cases introduced in this verse.
 
-## 3. Padaccheda
+## 3. Lexical Analysis
 
 ```text
 aṣṭābhir             → aṣṭābhiḥ
@@ -30,7 +30,7 @@ trayodaśabhir        → trayodaśabhiḥ
 anvitaḥ              → anvitaḥ
 ```
 
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | aṣṭābhiḥ | instrumental plural numeral | with eight faculties; completes VAK 2.18 |
 | ekādaśabhiḥ | instrumental plural numeral | with eleven faculties |
@@ -80,32 +80,41 @@ The possessive participles `anvitaḥ` and `upetaḥ` continue the chapter's
 analysis of necessary endowment, not merely faculties activated in one
 cognitive moment.
 
-## 5. Translation
+## 5. Scientific English Rendering
 
-### Close syntactic construe
+### Kārikā
 
 > [One possessing the female faculty and so forth is endowed] with eight; but one endowed with the knowledge faculty or the faculty of one who has known, with eleven. One possessing the faculty called “I shall know” is endowed with thirteen.
 
-### Bhāṣya-informed translation
+### Bhāṣya-informed rendering
 
 > Possession of the female faculty, the male faculty, distress, or any one of the five faculties beginning with confidence entails a minimum configuration of eight, calculated separately for each case. Possession of the knowledge faculty or the faculty of one who has known entails eleven. Possession of the faculty called “I shall know” entails thirteen.
 
 The Kārikā states only the counts and faculty groups. The membership of each
 supporting configuration below is supplied by the Bhāṣya.
 
-## 6. Philosophical Translation
+## 6. Interpretation
 
-> The path faculties occur only within determinate supporting wholes. Each of the five practical faculties entails the coordinated five together with the necessary triad. The realization faculties then determine larger but distinct closures appropriate to prospective knowing, operative knowledge, and completed knowledge.
+The five Faculties beginning with confidence form a separate
+eight-member necessary set when any one is possessed. The Bhāṣya
+then distinguishes two realization Faculties, each with eleven
+necessary possessions and a different final member, from the
+“I shall know” Faculty with its separately enumerated thirteen.
+The count does not rank realization; necessary possession is not
+simultaneous operation, nor does the Bhāṣya here state that every
+listed Faculty causally supports the realization.
 
-Organon rendering:
+In the Kant-informed Techne, each claim retains its named Faculty,
+required membership, and scope. The Base–Essence–Principle crosswalk
+connects these possession-relations to the wider Organon without
+turning the Bhāṣya into a system-design theory.
 
-> The dependency graph now reaches its control states. A realization faculty is not an isolated flag attached to an Agent; it certifies that an entire capability configuration is present. Prospective realization, active knowledge, and completed knowledge are typed states with different validation requirements.
-
-“Control state,” “flag,” “typed state,” and “validation” are Organon
-reconstructions. The textual doctrine concerns the exact faculties necessarily
-possessed with each path faculty.
-
-**Transcendental Time determination (Organon, not translation):** The realization designations differentiate prospective knowing, operative knowledge, and completed knowing; these are universal Cognitions of path-determination, not measures of how much realization someone has. Their particular Ideas are the distinct faculty-closures enumerated here, including the prospective case's body and feeling set. Necessary possession must not be mistaken for simultaneous operation of every listed faculty in one path-moment.
+The Kośa's governing synthesis: Vijñāna is Discriminative Cognition joining
+and governing Perception and Conception. Their unity is Inconceivable as a
+homogeneous operation; its Idea is disclosed in the Cognition Base. Vijñāna
+governs Mind and guides the reading of Dharma Base. *Avijñapti* is the
+bridge, one Dharma classified in both Form Base and Dharma Base; Vijñāna
+bears a *prati* relation to it.
 
 ## 7. Technical Vocabulary
 
@@ -197,21 +206,16 @@ Count(Closure(x)) = Count(Closure(y))
 
 ## 9. Interpretive Note
 
-**Organon time-reading:** The faculty-closures specify what is possessed under each path-determination, while the prior path account supplies the temporal role of the realization faculty. The sets do not themselves establish a causal mechanism or a single event containing all their members. Thirteen is not more realization than eleven; each Ideas-set expresses its own particular condition.
-
 VAK 2.19 first repairs the open syntax of VAK 2.18. Its initial “with eight”
 belongs to the female-faculty group left waiting at the prior verse boundary.
 The Bhāṣya's `pratyekam` is logically decisive: each named faculty generates
 its own minimum eightfold configuration. We must not merge female, male,
 distress, and the five practical faculties into a single state.
 
-The five beginning with confidence reveal an internally coordinated practical
-system. Possession of any one entails possession of all five, and the five in
-turn require neutral feeling, life, and mind. In the project's vocabulary,
-this is a genuine agential Technē configuration: confidence, energy,
-mindfulness, concentration, and discernment operate as discriminable powers
-of one path-capacity. That is an Organon interpretation, while the exact
-co-possession rule belongs to the Bhāṣya.
+Possession of any of the five Faculties beginning with confidence entails
+possession of all five, which in turn require neutral feeling, Life, and Mind.
+This is the co-possession relation stated in the Bhāṣya; it does not establish
+that the members operate together or cause one another.
 
 The three realization faculties then articulate stages of knowing through
 different support closures. The prospective “I shall know” faculty requires
@@ -221,35 +225,15 @@ minimum set. The numerical increase or decrease must not by itself be read as
 more or less realization. The sets encode the conditions of their respective
 path states.
 
-For the karmic ISA, realization is therefore not a scalar status code:
+The Organon representation should preserve exact set membership and
+distinguish necessary possession from current operation. Count alone cannot
+identify a configuration, and the larger thirteen-member set does not rank
+above either eleven-member set.
 
-```text
-RealizationState
-    = discriminated FacultyClosure
-    + path-stage determination
-
-state.tag alone
-    is insufficient
-```
-
-The Kośa Agent must be able to infer the whole required capability-state from
-the realization faculty and reject configurations missing any entailed
-support. It must also preserve exact set identity: an eight-count or
-eleven-count without its membership and provenance is semantically
-underdetermined.
-
-**Return to Dhātu at its last kārikā, VAK 1.48.** The eightfold cases
-continued from 2.18 include Faculties at the Body-Domain and in the
-Essence-Domain, with Mind-Faculty at the Citta Domains. The realization
-closures extend that same typed map: Body-Faculty belongs to the internal
-Body-Domain; Life, the feelings, the five beginning with Faith, and portions of
-the realization Faculties occupy the Essence-Domain; Mind-Faculty is mapped
-across the Citta Domains. The eleven- and thirteen-member sets are therefore
-not free-standing lists but distinct cross-Domain possession configurations
-keyed to a particular realization Faculty. The Fichtean return negates a
-merely static reading of Dhātu and reconstructs its loci as path-conditioned
-relations of necessary possession; neither the larger count nor the
-different membership ranks realization by quantity.
+**Return to Dhātu at VAK 1.48.** Dhātu classifies Faculty relations
+within the Base–Essence–Principle architecture. These eight-, eleven-,
+and thirteen-Faculty possession sets relate Faculties already classified
+there without making their loci identical or replacing the Dhātu map.
 
 ## 10. OWL++ Seed
 

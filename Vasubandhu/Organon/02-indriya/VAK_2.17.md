@@ -12,7 +12,7 @@
 >
 > upekṣājīvitamanoyukto 'vaśyaṃ trayānvitaḥ // 2.17 //
 
-## 3. Padaccheda
+## 3. Lexical Analysis
 
 ```text
 ekādaśabhir          → ekādaśabhiḥ
@@ -27,7 +27,7 @@ avaśyaṃ              → avaśyam
 trayānvitaḥ          → traya-anvitaḥ
 ```
 
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | ekādaśabhiḥ | instrumental plural numeral | through eleven faculties |
 | arhattvam | nominative/accusative neuter singular | arhatship |
@@ -76,13 +76,13 @@ avaśyaṃ traya-anvitaḥ
 The distributive “any one” is explicit in the Bhāṣya (`eṣām anyatamena`),
 not separately expressed in the compact Kārikā.
 
-## 5. Translation
+## 5. Scientific English Rendering
 
-### Close syntactic construe
+### Kārikā
 
 > Arhatship is stated [to be attained] through eleven, however, because of their possibility for one person. One endowed with [any of] neutral feeling, life, or mind is necessarily accompanied by the three.
 
-### Bhāṣya-informed translation
+### Bhāṣya-informed rendering
 
 > Although a single attainment of arhatship occurs through nine faculties, eleven are stated because one person may, after repeated losses and reattainments, attain arhatship at different times with pleasure, gladness, and neutral feeling. These three feelings never operate together in one attainment. In the analysis of possession, anyone endowed with neutral feeling, life, or mind is necessarily endowed with all three; none can be possessed without the other two.
 
@@ -90,19 +90,30 @@ The eleven-faculty statement is cumulative, not simultaneous. It unites the
 alternative feeling faculties that may occur across several attainment-events
 in the history of one person.
 
-## 6. Philosophical Translation
+## 6. Interpretation
 
-> A count is intelligible only after its domain has been fixed. Nine describes the faculties operating in a single attainment of arhatship. Eleven describes the total range that can be instantiated by one person across repeated attainments. The verse then identifies a different relation altogether: within a presently possessed living mental configuration, neutral feeling, life, and mind entail one another.
+VAK 2.16's nine-Faculty count concerns a single arhatship
+attainment; eleven counts the alternative feeling Faculties that
+may occur across one person's repeated attainments. The three
+feelings are not simultaneous in one attainment. The second half
+states a distinct relation: possession of any one of neutral
+feeling, Life, or Mind entails possession of all three. This is
+necessary possession, not a claim that neutral feeling is manifest
+in every cognition.
 
-Organon rendering:
+In the Kant-informed Techne, the count's scope and the kind of
+relation asserted are kept explicit: cumulative possibility is
+distinguished from event-specific occurrence, and co-possession
+from momentary operation. The Base–Essence–Principle crosswalk
+relates this classification to the wider Organon without making
+the Bhāṣya a system-design theory.
 
-> The Kośa distinguishes event-local state from agent-history. Alternative feeling faculties are mutually exclusive within one execution, yet cumulatively possible across the history of one Agent. At each living mental state, however, the possession invariant requires the Life, Mind, and neutral-feeling Faculties to be co-possessed as an inseparable triad; it does not require neutral feeling to be manifest in every cognition.
-
-“Execution,” “agent-history,” and “possession invariant” are Organon
-reconstructions. The textual claims concern repeated attainment and necessary
-co-possession of faculties.
-
-**Transcendental Time determination (Organon, not translation):** Nine counts an attainment-event; eleven gathers alternatives across repeated attainments by one person. This is a distinction between event-local and historical scope, not a universal life-sequence. The universal Cognition of arhatship remains stable across events, while the particular Ideas include the mutually exclusive feeling-faculties realized on different occasions. The life–mind–neutral-feeling triad, by contrast, is necessary possession, not a claim of constant manifest feeling.
+The Kośa's governing synthesis: Vijñāna is Discriminative Cognition joining
+and governing Perception and Conception. Their unity is Inconceivable as a
+homogeneous operation; its Idea is disclosed in the Cognition Base. Vijñāna
+governs Mind and guides the reading of Dharma Base. *Avijñapti* is the
+bridge, one Dharma classified in both Form Base and Dharma Base; Vijñāna
+bears a *prati* relation to it.
 
 ## 7. Technical Vocabulary
 
@@ -183,8 +194,6 @@ Faculty f ∉ T
 
 ## 9. Interpretive Note
 
-**Organon time-reading:** The Bhāṣya's 9/11 resolution requires a time-indexed account: union over a person's possible attainment-events differs from the configuration counted in one event. This is neither clock-time measurement nor a universal biography; it preserves the local possibility of falling away and reattaining. Possession of the necessary triad remains distinct from what is manifest in any one cognition.
-
 VAK 2.17 performs a logical cleanup essential to the faculty calculus. The
 previous verse said that arhatship is attained through nine faculties. The
 Abhidharma also says eleven. Vasubandhu does not weaken either claim; he shows
@@ -196,19 +205,10 @@ and reattains arhatship under different feeling faculties. Pleasure,
 gladness, and neutral feeling are never simultaneous in the relevant event.
 The larger count is therefore diachronic rather than synchronic.
 
-This gives the karmic ISA a required type distinction:
-
-```text
-RuntimeState
-    ≠ ExecutionHistory
-
-operands active in one transition
-    ≠ union of operands possible across an Agent's transitions
-```
-
-Without that distinction, eleven would falsely appear to contradict nine.
-The Bhāṣya instead shows that both counts are valid projections of the same
-person at different levels of aggregation.
+The distinction is between a single attainment and the range of
+alternative Faculties possible across repeated attainments by one
+person. The larger count is cumulative, not simultaneous and not a
+universal biography.
 
 The second half establishes the first strict co-possession invariant. The
 triad should not be inflated into an unqualified metaphysics of all possible
@@ -216,31 +216,16 @@ experience. Textually, Vasubandhu is calculating present endowment with
 faculties. Within that domain, however, the claim is strong: none of neutral
 feeling, life, and mind is possessed without the other two.
 
-For the Kośa Technē Agent, these become two different validation tasks:
+The Kant-informed Techne reading preserves two distinctions: cumulative
+possibility versus event-specific occurrence, and necessary co-possession
+versus momentary operation. These are analytical constraints on the
+project's representation, not a formal model proposed by the Bhāṣya.
 
-```text
-validateState(state)
-    → enforce mutual entailment of the necessary triad
-
-summarizeHistory(agent)
-    → union mutually exclusive alternatives across valid events
-```
-
-The Model must therefore preserve time-indexed states. Logic can then compute
-either a simultaneous configuration or a cumulative capability-set without
-confusing them.
-
-**Return to Dhātu at its last kārikā, VAK 1.48.** Dhātu places Life and the
-feeling Faculties, including neutral feeling, in a portion of the
-Essence-Domain, while Mind-Faculty is mapped across the seven Citta Domains.
-The necessary triad therefore crosses distinct Domain-incidences: its
-co-possession is an Indriya relation, not an identity among those loci. The
-eleven-faculty historical total likewise gathers alternatives over repeated
-attainments; it does not redraw the Dhātu map or make mutually exclusive
-feelings simultaneous. The Fichtean return negates a merely fixed reading of
-these placements and reconstructs them as necessary possession in one
-respect and temporally alternative attainment in another, without erasing
-their distinct Dhātu loci.
+**Return to Dhātu at VAK 1.48.** Dhātu classifies Faculty relations
+within the Base–Essence–Principle architecture. The triad's necessary
+co-possession and the separate feeling alternatives in the arhatship
+count apply within that classification without making its loci identical
+or redrawing the Dhātu map.
 
 ## 10. OWL++ Seed
 

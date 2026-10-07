@@ -6,10 +6,8 @@
 >
 > मदः स्वधर्मे रक्तस्य पर्यादानं तु चेतसः ॥ २.३३ ॥
 
-The underlying source assigns 2.33 to both this verse and its predecessor.
-The repository resolves the duplication canonically: the preceding verse is
-VAK 2.32 and this second source instance remains VAK 2.33. No research witness
-is altered.
+The source assigns the preceding verse the same number. The repository
+retains this second source instance as VAK 2.33.
 
 ## 2. Sanskrit (IAST)
 
@@ -17,289 +15,143 @@ is altered.
 >
 > madaḥ svadharme raktasya paryādānaṃ tu cetasaḥ // 2.33 //
 
-The transmitted `cāra` is understood by the Bhāṣya as the `vicāra` paired
-with `vitarka`. The displayed witness is retained while the doctrinal term
-`vicāra` is used in explanation.
+The kārikā's *cāra* is read as *vicāra* in the Bhāṣya, which pairs it with
+*vitarka*. The displayed source form is retained.
 
-## 3. Padaccheda
+## 3. Lexical Analysis
 
 ```text
-vitarkacārāv        → vitarka-cārau
-audāryasūkṣmate     → audārya-sūkṣmate
-māna                → mānaḥ
-unnatiḥ             → unnatiḥ
-madaḥ               → madaḥ
-svadharme           → sva-dharme
-raktasya            → raktasya
-paryādānaṃ          → paryādānam
-tu                  → tu
-cetasaḥ             → cetasaḥ
+vitarkacārāv      → vitarka-cārau [Bhāṣya: vitarka-vicāra]
+audāryasūkṣmate   → audārya-sūkṣmate
+māna              → mānaḥ
+unnatiḥ           → unnatiḥ
+madaḥ             → madaḥ
+svadharme         → sva-dharme
+raktasya          → raktasya
+paryādānaṃ        → paryādānam
+tu                → tu
+cetasaḥ           → cetasaḥ
 ```
 
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
-| vitarka-cārau | nominative masculine dual | `vitarka` and `vicāra` |
-| audārya-sūkṣmate | nominative feminine dual | coarseness and subtlety respectively |
+| vitarka-cārau | nominative masculine dual | initial and sustained examination; the Bhāṣya reads *vicāra* for *cāra* |
+| audārya-sūkṣmate | nominative feminine dual | coarseness and subtlety, respectively |
 | mānaḥ | nominative masculine singular | conceit |
-| unnatiḥ | nominative feminine singular | elevation |
-| madaḥ | nominative masculine singular | intoxication / infatuated elation |
-| sva-dharme | locative masculine/neuter singular | with regard to one's own qualities or condition |
-| raktasya | genitive masculine singular participial form | of one attached |
-| paryādānam | nominative neuter singular | complete occupation / taking-over |
-| tu | contrastive/topic particle | as for / but |
+| unnatiḥ | nominative feminine singular | elevation of consciousness |
+| madaḥ | nominative masculine singular | intoxication |
+| sva-dharme | locative singular | with regard to one's own qualities |
+| raktasya | genitive singular participial form | of one attached |
+| paryādānam | nominative neuter singular | taking-over or complete occupation |
+| tu | contrastive particle | however |
 | cetasaḥ | genitive neuter singular | of consciousness |
 
-The final genitive `cetasaḥ` supplies the locus for all three definitions:
-coarseness and subtlety of consciousness, elevation of consciousness, and
-complete occupation of consciousness.
+## 4. Scientific English Rendering
 
-## 4. Grammar
+> Initial and sustained examination are coarseness and subtlety [of
+> consciousness]. Conceit is elevation. Intoxication, however, is the
+> taking-over of the consciousness of one attached to one's own qualities.
 
-The first quarter gives a distributive dual definition:
+The Bhāṣya specifies conceit as elevation through a constructed distinction
+relative to another. It explains intoxication as the taking-over of
+consciousness through attachment to one's own qualities; other teachers
+give a distinct alternative definition.
 
-```text
-vitarka and vicāra
-    = respectively
-coarseness and subtlety [of consciousness]
-```
+## 5. Interpretation
 
-The dual does not itself settle whether the two factors coexist in one
-moment. That becomes the central Bhāṣya dispute.
+VAK 2.33 places the proposed distinction between initial and sustained
+examination under pressure. Coarseness and subtlety might name the factors
+themselves, their effects, or degrees within a kind. The Bhāṣya records
+accounts based on joint modulation and speech-formation, objections about
+causation and kind, and an alternative that denies momentary coexistence.
+It does not resolve these accounts into one uncontested definition.
 
-The remaining definitions are parallel nominal equations:
+The closing definitions are more determinate in their relational
+distinction. Conceit elevates consciousness through comparison with another;
+intoxication takes over consciousness through attachment to one's own
+qualities. The alternative definition of intoxication as a particular
+exhilaration remains attributed to other teachers.
 
-```text
-mānaḥ [cetasaḥ] unnatiḥ
-    → conceit is elevation of consciousness
+The Kośa's governing synthesis: Vijñāna is Discriminative Cognition joining
+and governing Perception and Conception. Their unity is Inconceivable as a
+homogeneous operation; its Idea is disclosed in the Cognition Base. Vijñāna
+governs Mind and guides the reading of Dharma Base. Form Base and Dharma
+Base both include the same *avijñapti* in distinct classifications, and
+Vijñāna bears a *prati* relation to *avijñapti*. This system-level synthesis
+does not resolve the local Bhāṣya debate about these factors.
 
-madaḥ
-    → intoxication is the complete occupation of consciousness
+## 6. Logical Determination
 
-svadharme raktasya
-    → of one attached to one's own qualities or condition
-```
-
-The Bhāṣya narrows `māna`: its elevation is produced through constructing
-superiority in comparison with others. `Mada` instead concerns attachment to
-one's own qualities.
-
-## 5. Translation
-
-### Close syntactic construe
-
-> `Vitarka` and `vicāra` are respectively the coarseness and subtlety [of consciousness]. Conceit is elevation [of consciousness]. Intoxication, however, is the complete occupation of the consciousness of one attached to one's own qualities.
-
-### Bhāṣya-informed translation
-
-> The Kārikā defines `vitarka` as a coarse mode and `vicāra` as a subtle mode of consciousness, though the Bhāṣya preserves competing accounts of their nature and simultaneity. Conceit elevates consciousness through a constructed superiority over others. Intoxication saturates consciousness through attachment to one's own qualities; another view defines it as a particular exhilaration.
-
-The translations “coarse mode” and “subtle mode” remain deliberately broad.
-The Bhāṣya does not settle a single uncontested functional definition.
-
-## 6. Philosophical Translation
-
-> Mental functions must differ by more than verbal label or degree. The proposed distinction between coarse and subtle consciousness is tested against causal explanation, difference of kind, difference of intensity, speech-formation, and momentary coexistence. Conceit and intoxication are more clearly separated: one raises consciousness comparatively above others; the other encloses it within attachment to its own condition.
-
-Restrained Organon rendering:
-
-> The distinction between a factor attributed to a bhūmi and one attributed to a kṣaṇa is a difference of explanatory scale, not a translation of contemplative ground into clock-duration. The proposals about coarse and subtle consciousness remain unresolved: influence, intensity, and difference in kind cannot simply be identified. By contrast, conceit and intoxication determine a moment through different relations—comparison with others versus attachment to one's own condition.
-
-This Organon rendering preserves the Bhāṣya's explicit contrast between
-attribution by `bhūmi` and attribution by `kṣaṇa`.
-
-## 7. Technical Vocabulary
-
-| Sanskrit | Project rendering | Determination in this unit |
-|---|---|---|
-| vitarka | `vitarka` / coarse engagement | proposed as coarseness of consciousness; also explained as coarse speech-formation |
-| vicāra | `vicāra` / subtle examination | proposed as subtlety of consciousness; also explained as subtle speech-formation |
-| audārikatā | coarseness | proposed defining character of `vitarka` |
-| sūkṣmatā | subtlety | proposed defining character of `vicāra` |
-| vāk-saṃskāra | formation or preparation of speech | alternative common genus under which `vitarka` and `vicāra` differ |
-| jāti-bheda | difference of kind | criterion demanded if the two are distinct dharmas |
-| mṛdu-adhimātratā | lesser and greater intensity | difference of degree judged insufficient by itself to establish different dharma-kinds |
-| bhūmitaḥ | with reference to the level as a whole | stage-scale attribution of factors |
-| kṣaṇataḥ | with reference to a single moment | event-scale attribution of factors |
-| māna | conceit | elevation through constructing superiority over others |
-| unnati | elevation | defining operation of conceit upon consciousness |
-| mada | intoxication / infatuated elation | complete occupation through attachment to one's own qualities |
-| paryādāna | complete occupation / saturation | defining effect of `mada` upon consciousness |
-| saṃpraharṣaṇa | exhilaration | alternative definition of `mada` reported from other teachers |
-
-`Vitarka` and `vicāra` remain semi-translated because the passage itself
-debates what would make their functional difference determinate.
-
-## 8. Logical Determination
-
-The Kārikā proposes:
+The proposed definition:
 
 ```text
-Vitarka = CoarsenessOf(Citta)
-Vicara  = SubtletyOf(Citta)
+vitarka = coarseness of consciousness
+vicāra  = subtlety of consciousness
 ```
 
-The clarified-butter account models joint modulation:
+The balancing analogy proposes joint operation that keeps consciousness
+neither excessively coarse nor excessively subtle. The objection distinguishes
+conditioning from identity:
 
 ```text
-Coarises(Vitarka, Vicara, event)
-    → Citta(event) is neither excessively coarse
-      nor excessively subtle
+Conditions(x, state) does not entail x = state
 ```
 
-The causal objection replies:
+The speech-formation account treats initial and sustained examination as
+coarse and subtle formations of speech. Its critics require a difference of
+kind, not merely greater or lesser intensity. The separately attributed
+non-coexistence account distinguishes attribution by level from occurrence
+in one moment:
 
 ```text
-Causes(Vitarka, Coarseness)
-    ⇏ Identity(Vitarka, Coarseness)
-
-Causes(Vicara, Subtlety)
-    ⇏ Identity(Vicara, Subtlety)
+FirstDhyana has five factors at the level (*bhūmi*)
+    does not entail
+all five co-occur in every moment (*kṣaṇa*)
 ```
 
-The kind-versus-degree test is:
+These are reported positions and objections, not a final adjudication.
 
-```text
-DifferentIntensity(x, y)
-    ⇏ DifferentDharmaKind(x, y)
+## 7. Interpretive Note
 
-DifferentDharmaKind(x, y)
-    → requires DeterminateFunctionalDifference(x, y)
-```
+The source compares butter under the sun's rays with the proposed
+co-operation of initial and sustained examination. The opening wording is
+damaged; “cast into water” is a contextual construal supported by the
+reply's reference to water and heat. The speech quotation is also defective,
+and its negative clause is rendered by its contextual sense.
 
-The speech-formation account proposes:
+The first debate moves through distinct tests: whether the factors are
+conditions or states, whether relative coarseness and subtlety can define
+them across levels, whether speech-formation supplies a common genus, and
+whether degree alone establishes a difference of kind. The final
+non-coexistence position answers the five-factor objection by applying the
+count to the level rather than to each moment. Keep the scope and attribution
+of that answer explicit.
 
-```text
-SpeechFormation(Vitarka)
-    = Coarse
-
-SpeechFormation(Vicara)
-    = Subtle
-```
-
-The non-simultaneity account separates scales:
-
-```text
-BelongsTo(Vitarka, FirstDhyanaBhumi)
-BelongsTo(Vicara, FirstDhyanaBhumi)
-
-ForEvery moment t in FirstDhyanaBhumi:
-    ¬(PresentAt(Vitarka, t) ∧ PresentAt(Vicara, t))
-```
-
-This is a reported position, not Vasubandhu's final adjudication in this unit.
-
-The second half gives clearer state transformations:
-
-```text
-Mana(event)
-    → ElevatesCittaBy(
-        ConstructedSuperiorityOverOthers)
-
-Mada(event)
-    → AttachedToOwnQualities(event)
-    → CompletelyOccupiesCitta(event)
-```
-
-## 9. Interpretive Note
-
-VAK 2.33 subjects its own definitions to an unusually strict test. Calling
-`vitarka` coarse and `vicāra` subtle appears clear until one asks whether
-coarseness and subtlety are the factors themselves, their effects, relative
-degrees, or marks of genuinely different kinds.
-
-The clarified-butter analogy attempts to explain simultaneous association:
-as butter under moderate warmth is neither fully solid nor melted, the two
-factors jointly keep consciousness from becoming excessively coarse or
-subtle. The objection exposes the category error: cold and heat cause solidity
-and melting but are not identical with them. A causal explanation cannot be
-silently substituted for a definition of nature.
-
-The speech-formation account supplies a possible common genus, while the
-kind-difference argument demands a positive discriminant. Merely calling one
-stronger and the other weaker cannot establish two dharmas, because each
-alleged kind can itself admit degrees.
-
-The non-simultaneity account then introduces a decisive distinction of
-attributional scope:
-
-```text
-bhūmi-level attribution
-    ≠ kṣaṇa-level co-presence
-```
-
-On this view, first dhyāna has both factors as an organized level even though
-no single consciousness-moment instantiates both. Whether or not that view is
-finally accepted, the scale distinction is textually explicit and must be
-available in the model.
-
-The contrast between conceit and intoxication is less disputed. Conceit is
-comparative: consciousness rises by constructing superiority over others.
-Intoxication is absorptive: attachment to one's own qualities takes over the
-whole consciousness. Both inflate, but through different relations and with
-different event-forms.
-
-For the Kośa Technē, the restrained result is:
-
-```text
-StageProfile<bhumi>
-    = factors attributable to the organized level
-
-MomentProfile<ksana>
-    = factors actually co-present in one event
-
-StageProfile membership
-    ⇏ MomentProfile co-presence
-```
-
-The passage closes the explanations of consciousness and mental factors by
-class. It does not eliminate the recorded doctrinal alternatives; their
-unresolved status is itself part of the scientific account.
-
-**Organon temporal reading:** Bhūmi and kṣaṇa mark different temporal
-determinations: the range attributed to a contemplative ground and the
-actual co-presence in an event. Neither is reducible to a clock-duration.
-The proposed non-simultaneity of vitarka and vicāra remains one disputed
-account; do not turn it into the chapter's settled chronology.
-
-**DharmaChakra tracking:** Keep level-attribution distinct from
-momentary co-presence. One reported view explains the first dhyāna's
-five-limbed designation as applying at the level (*bhūmi*), not necessarily
-to every moment (*kṣaṇa*); other accounts argue for or test co-presence.
-The Bhāṣya does not settle the dispute here. This distinction constrains
-how the factor progression is tracked, but does not itself identify the
-dhyāna levels with the ten Samyama-bhūmis.
-
-## 10. OWL++ Seed
+## 8. OWL++ Seed
 
 ```ttl
 @prefix vak: <http://127.0.0.1:3000/vak#> .
-@prefix organon: <http://127.0.0.1:3000/organon#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
 vak:VAK_2_33
     a vak:Karika ;
     rdfs:label "VAK 2.33" ;
-    vak:hasTopic vak:SelectedCaittaDefinitions ;
+    vak:hasTopic vak:SelectedMentalFactorDefinitions ;
     vak:belongsTo vak:Indriyanirdesa ;
     vak:hasSourceNumberingIssue vak:DuplicatedSourceVerseNumber .
 
-vak:VitarkaVicaraDefinition
-    vak:hasProposedDifference vak:CoarseSubtleDifference ;
-    vak:hasAlternativeAccount vak:JointModulation,
-        vak:SpeechFormationDifference,
-        vak:MomentaryNonCoexistence ;
-    vak:hasOpenIssue vak:KindVersusDegree .
+vak:InitialExamination
+    vak:hasProposedCharacter vak:CoarsenessOfConsciousness ;
+    vak:isDebatedWith vak:SustainedExamination .
 
-vak:Mana
-    vak:hasOperation vak:ComparativeElevationOfCitta .
+vak:SustainedExamination
+    vak:hasProposedCharacter vak:SubtletyOfConsciousness .
 
-vak:Mada
-    vak:hasCondition vak:AttachmentToOwnQualities ;
-    vak:hasOperation vak:CompleteOccupationOfCitta .
+vak:Conceit
+    vak:elevates vak:Consciousness ;
+    vak:usesComparisonWith vak:Other .
 
-organon:ScaleIndexedFactorAttribution
-    a organon:InterpretiveReconstruction ;
-    organon:distinguishes organon:BhumiLevelMembership,
-        organon:KsanaLevelCopresence ;
-    organon:inferredFrom vak:SelectedCaittaDefinitions .
+vak:Intoxication
+    vak:mayCompletelyOccupy vak:Consciousness ;
+    vak:hasAlternativeDefinition vak:ParticularExhilaration .
 ```

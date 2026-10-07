@@ -12,7 +12,7 @@
 >
 > saṃbhāro vyavadānaṃ ca yāvatā tāvad indriyam // 2.5 //
 
-## 3. Padaccheda
+## 3. Lexical Analysis
 
 ```text
 cittāśrayaḥ      → citta-āśrayaḥ
@@ -22,7 +22,7 @@ saṃbhāraḥ        → saṃbhāraḥ
 yāvatā tāvat     → yāvatā tāvat
 ```
 
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | citta | compound member | mind; the conditioned cognitive continuum |
 | āśrayaḥ | nominative masculine singular | support or basis |
@@ -38,7 +38,7 @@ yāvatā tāvat     → yāvatā tāvat
 | indriyam | nominative neuter singular | faculty-status or the class of faculties |
 
 `Vikalpa` here means differentiation of the living constitution into female
-and male configurations. It does not mean concept or discursive imagination.
+and male configurations, not an act of discursive thought.
 
 ## 4. Grammar
 
@@ -46,7 +46,7 @@ The first line and first half of the second enumerate six functions:
 
 ```text
 citta-āśraya
-    support of mind
+    support of consciousness
 
 tad-vikalpa
     differentiation of that [living basis]
@@ -75,48 +75,63 @@ yāvatā ... tāvat indriyam
 The Bhāṣya distributes the twenty-two faculties exhaustively:
 
 ```text
-six faculties             → citta-āśraya
-female and male faculties → tad-vikalpa
-life-faculty              → sthiti
-five feelings             → saṃkleśa
-five beginning with faith → vyavadāna-saṃbhāra
-three path-knowledge      → vyavadāna
+six Faculties              → citta-āśraya
+Female and Male Faculties  → tad-vikalpa
+Life Faculty               → sthiti
+five feelings              → saṃkleśa
+five beginning with faith  → vyavadāna-saṃbhāra
+three path-knowledge       → vyavadāna
 ```
 
 The verse therefore restricts the extension of `indriya`; it does not merely
 repeat the preceding enumeration.
 
-## 5. Translation
+## 5. Scientific English Rendering
 
-### Close syntactic construe
+### Kārikā
 
-> Support of mind, its differentiation, persistence, defilement, equipment, and purification: precisely insofar as these extend, so far does faculty-status extend.
+> Support of consciousness, its differentiation, persistence, defilement, equipment, and purification: precisely insofar as these extend, so far does Faculty-status extend.
 
-### Bhāṣya-informed translation
+### Bhāṣya-informed rendering
 
-> The six faculties support mind and constitute the fundamental basis of the living being; the female and male faculties differentiate that basis; the life-faculty sustains it; the five feelings govern its defilement; the five beginning with confidence equip it for purification; and the three path-knowledge faculties effect purification itself. The class of faculties extends exactly to these indispensable governing functions and no further.
+> The six Faculties support consciousness and constitute the fundamental basis of the living being; the Female and Male Faculties differentiate that basis; the Life Faculty sustains it; the five feelings govern its defilement; the five beginning with confidence equip it for purification; and the three realization Faculties effect purification itself. The Faculty-classification extends to these stated governing functions and no further.
 
-## 6. Philosophical Translation
+## 6. Interpretation
 
-> Predominant causal power alone does not make something a faculty in this enumeration. Faculty-status is assigned across six stated functions: supporting the cognitive continuum, differentiating its embodiment, maintaining its persistence, conditioning its defilement, providing for purification, and effecting purification. The twenty-two are neither every effective cause nor an arbitrary list; they form the functionally delimited architecture intended here.
+The Bhāṣya's reply limits the enumeration without denying the causal
+efficacy of the excluded candidates. Faculty-status here requires both
+governing efficacy and assignment to one of the six functions: support
+of consciousness, differentiation, persistence, defilement, provision
+for purification, or purification itself.
 
-Organon rendering:
+In the Kant-informed Techne, the list defines the scope of a determinate
+classification rather than an exhaustive inventory of every cause or
+capacity. The project crosswalk with VAK 1.48 locates the Faculties in
+their Base–Essence–Principle relations; this verse explains which
+functions the twenty-twofold Faculty-classification includes. Indriyanirdeśa
+is a practical instance of Citta, not a general theory of mind. This is
+a project-level interpretation, not terminology supplied by the Bhāṣya.
 
-> This verse makes the boundary of the Indriya system explicit. Returned to Dhātu 1.48, its six functions reconstruct how the twenty-two Faculties occupy the Domain architecture: sensory and mental support, embodied differentiation, persistence, defilement, provision for purification, and purification. The Dhātu map constrains the reconstruction—Faculty-status belongs only at its mapped loci and parts, not to every Domain or every effective cause. Negation here is determinate: ignorance and the proposed action-capacities are excluded from this enumeration without denying their causal efficacy. Their exclusion returns the mind to the specific Dhātu–Indriya architecture rather than expanding it without limit.
+Across the Kośa, Vijñāna is Discriminative Cognition joining Perception
+and Conception without reducing their unity to one homogeneous
+operation; it governs Mind and guides the reading of Dharma Base. The
+same *avijñapti* remains one content in the Form Base and Dharma Base
+classifications, and Vijñāna bears a *prati* relation to it. This wider
+synthesis frames, but is not stated in full by, this verse.
 
 ## 7. Technical Vocabulary
 
 | Sanskrit | Project rendering | Determination |
 |---|---|---|
-| citta-āśraya | support of mind | role of the six sensory-and-mental faculties |
+| citta-āśraya | support of consciousness | role of the six sensory-and-Mind Faculties |
 | ṣaḍāyatana | sixfold Essence-system | concrete basis constituted by the six faculties |
 | maula-sattva-dravya | fundamental real constitution of a living being | Bhāṣya's description of the sixfold basis |
 | tad-vikalpa | its differentiation | female and male differentiation of the living basis |
-| sthiti | persistence | governed by the life-faculty |
+| sthiti | persistence | governed by the Life Faculty |
 | saṃkleśa | defilement | governed through the five feelings |
-| saṃbhāra | equipment / provision | five faculties preparing purification |
-| vyavadāna-saṃbharaṇa | equipping for purification | exact Bhāṣya function of the five beginning with confidence |
-| vyavadāna | purification itself | effected by the three path-knowledge faculties |
+| saṃbhāra | equipment / provision | five Faculties preparing purification |
+| vyavadāna-saṃbharaṇa | provision for purification | exact Bhāṣya function of the five beginning with confidence |
+| vyavadāna | purification itself | effected by the three path Faculties |
 | yāvatā tāvat | insofar as, precisely so far | establishes exact functional scope |
 | upasaṃkhyāna | supplementary inclusion | demand that additional causal powers be counted |
 | avidyā | ignorance | causally powerful but not a separate faculty-function here |
@@ -199,87 +214,35 @@ NotAssignedToANamedFunction(x)
     → NotCountedHereAsIndriya(x)
 ```
 
-This also reveals the difference from the familiar Sāṃkhya enumeration:
-
-```text
-Sāṃkhya
-    → counts speech, hands, feet, excretion, and generation
-      among action-faculties
-
-Kośa 2.05
-    → explicitly considers comparable action powers
-      but excludes them from its twenty-twofold system
-```
-
-The difference is architectural, not a mere disagreement over words. The
-Kośa's `indriya` class is delimited by the six functions it has chosen to
-model.
+The Bhāṣya names no external school in this exchange. Its own contrast is
+between the proposed additions and the functions assigned within this
+twenty-twofold Faculty-classification.
 
 ## 9. Interpretive Note
 
-VAK 2.05 is the methodological completion of 2.01–2.04. `Ādhipatya` first
-distinguished faculty from passive membership in a Domain; 2.02 distinguished
-governing efficacy from ordinary causal participation. Yet even predominant
-command remains too broad. Ignorance governs formations, and the organs of
-speech, grasping, locomotion, excretion, and pleasure govern their respective
-activities. Why are these not faculties?
-
-The answer is functional scope. The twenty-two faculties claim neither to
-enumerate every power nor every capability of a living being. They enumerate
-the powers required by one specific architecture:
+VAK 2.05 completes the distinction established in 2.01–2.04. Even
+*ādhipatya*, governing efficacy, does not by itself settle inclusion:
+the objection supplies further instances, while the reply confines this
+enumeration to the functions named in the verse and its Bhāṣya:
 
 ```text
-living cognitive basis
-    → differentiation
-    → persistence
-    → defilement
-    → preparation for purification
-    → purification
+support of consciousness → differentiation → persistence
+    → defilement → provision for purification → purification
 ```
 
-This resolves the initial puzzle about two Indriya systems. The five sensory
-faculties are a subsystem because they participate in the sixfold support of
-mind. The twenty-twofold system is the wider architecture in which sensory
-support is only the first required function.
+The count is six plus two plus one plus five plus five plus three,
+accounting for the twenty-two Faculties. The limitation is local:
+*iha*, “here,” marks what this enumeration intends, not a denial that
+the excluded factors have causal efficacy. In a Kant-informed Techne
+reading, the stated functions provide a rule for determining membership
+in this classification; they do not claim to inventory every power of
+a living being or establish a sequence of temporal stages.
 
-The Bhāṣya's exclusion of speech, hand, foot, anus, and sexual organ is
-especially important for comparison with Sāṃkhya. The Kośa knows the argument
-for treating these action-capacities as faculties and rejects their inclusion
-because they add no required slot to its chosen system. We should therefore
-never treat the Kośa's twenty-two as a fuller version of Sāṃkhya's Indriyas.
-They are differently designed classifications.
-
-`Maula-sattva-dravya` also deserves precision. The sixfold Essence-system is
-the fundamental real constitution of the conventionally designated living
-being within this analysis. `Dravya` gives it real constituent status.
-
-The closing boundary is exact for this enumeration. In the Organon reading,
-the six functions are temporal determinations through which the living
-process is articulated, not a sequence of six clock-time events. The
-Bhāṣya closes its faculty enumeration at these functions; the Transcendental
-Time interpretation remains distinct from that conventional classification.
-
-**Reciprocal return to Dhātu.** Dhātu 1.48 maps Faculty-status across
-Domains and Domain-parts: the sensory Domains, the Citta Domains mapped
-to Mind, a part of Body, and a portion of Essence. Indriya 2.05 returns
-to that map by explaining the functions for which those Faculties are
-counted. Dhātu prevents the functional account from becoming a free-
-floating inventory; Indriya prevents the Domain map from being mistaken
-for a list of equivalent powers. The five external Domains remain
-knowable through Cognition without thereby becoming Faculties, and
-the Essence-Domain's non-faculty remainder remains distinct from its
-Faculty-bearing portion.
-
-**Fichtean negation and reconstruction.** The objection presses
-*ādhipatya* toward unbounded inclusion: if governing efficacy suffices,
-then ignorance and action-capacities must be added. The reply negates
-that overextension with *iha*—“here, in this intended enumeration.”
-It does not negate those powers' existence or causal efficacy; it
-negates their Faculty-status in this system. Reconstructing the
-enumeration through Dhātu then shows why the limit is determinate:
-only the powers assigned to the six stated functions belong to this
-architecture. This is the Organon's return in mind, not a denial
-attributed to the conventional Bhāṣya.
+The project crosswalk with Dhātu 1.48 remains reciprocal: that study
+locates Faculty-status within Base–Essence–Principle relations, while
+this verse explains the functions served by the included Faculties.
+Neither account makes every knowable Essence or effective cause a
+Faculty.
 
 ## 10. OWL++ Seed
 
@@ -299,14 +262,14 @@ vak:Indriya
         vak:EnumeratedFunction .
 
 vak:EnumeratedFunction
-    vak:hasMembers vak:MindSupport,
+    vak:hasMembers vak:ConsciousnessSupport,
         vak:LivingDifferentiation,
         vak:Persistence,
         vak:Defilement,
         vak:PurificationEquipment,
         vak:Purification .
 
-vak:SixFaculties vak:governs vak:MindSupport .
+vak:SixFaculties vak:governs vak:ConsciousnessSupport .
 vak:FemaleMaleFaculties vak:governs vak:LivingDifferentiation .
 vak:LifeFaculty vak:governs vak:Persistence .
 vak:FiveFeelings vak:governs vak:Defilement .

@@ -12,7 +12,7 @@
 >
 > sāśrayālambanākārāḥ saṃprayuktāś ca pañcadhā // 2.34 //
 
-## 3. Padaccheda
+## 3. Lexical Analysis
 
 ```text
 cittaṃ              → cittam
@@ -20,329 +20,122 @@ mano 'tha           → manaḥ atha
 vijñānam            → vijñānam
 ekārthaṃ            → eka-artham
 cittacaitasāḥ       → citta-caitasāḥ
-sāśrayālambanākārāḥ
-                    → sa-āśraya-ālambana-ākārāḥ
+sāśrayālambanākārāḥ → sa-āśraya-ālambana-ākārāḥ
 saṃprayuktāś ca     → saṃprayuktāḥ ca
 pañcadhā            → pañcadhā
 ```
 
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | cittam | nominative neuter singular | consciousness |
-| manaḥ | nominative neuter singular | mind / the supporting mental function |
-| vijñānam | nominative neuter singular | differentiated cognition |
+| manaḥ | nominative neuter singular | Mind |
+| vijñānam | nominative neuter singular | Cognition |
 | eka-artham | nominative neuter singular compound | having one meaning or referent here |
-| citta-caitasāḥ | nominative plural compound | consciousness and associated mental factors |
-| sa-āśraya | possessive compound member | possessing a support |
-| ālambana | compound member | cognitive support |
-| ākāra | compound member | manner / aspect |
-| saṃprayuktāḥ | nominative plural past passive participle | associated / conjoined |
-| pañcadhā | adverb | fivefold |
+| citta-caitasāḥ | nominative plural compound | consciousness and its associated mental factors |
+| sa-āśraya | possessive compound member | having a support |
+| ālambana | compound member | object-support |
+| ākāra | compound member | manner or aspect |
+| saṃprayuktāḥ | nominative plural past passive participle | associated |
+| pañcadhā | adverb | in five ways |
 
-`Ekārtha` establishes contextual co-reference, not unrestricted interchange
-of all three terms in every doctrinal setting. `Vijñāna` remains
-“differentiated cognition” in the controlled project vocabulary; `citta`
-remains “consciousness.”
+The Bhāṣya explains *ekārtha* contextually and gives the five equalities as
+support, object-support, manner, time, and numerical instance.
 
-## 4. Grammar
+## 4. Scientific English Rendering
 
-The first half gives one predication over three coordinated subjects:
+> Consciousness, Mind, and Cognition have one referent here. Consciousness
+> and its associated mental factors have support, object-support, and
+> manner, and are associated in five ways.
 
-```text
-cittam manaḥ vijñānam
-    → consciousness, mind, and differentiated cognition
+## 5. Interpretation
 
-eka-artham
-    → have one meaning / refer to one mental occurrence here
-```
+The verse identifies one referent while preserving distinct terms and
+functions. The Bhāṣya explains their contextual unity and specifies the
+relation between consciousness and its associated factors through five
+equalities: support, object-support, manner, time, and numerical instance.
+The one-event structure does not make consciousness and each factor the
+same factor.
 
-The Bhāṣya supplies two explanations. Etymologically:
+For the Kośa's governing synthesis, Vijñāna is Discriminative Cognition
+joining and governing Perception and Conception. Their unity is
+Inconceivable as a homogeneous operation; its Idea is disclosed in the
+Cognition Base. Vijñāna governs Mind and guides the reading of Dharma Base.
+Form Base and Dharma Base both include the same *avijñapti* in distinct
+classifications, and Vijñāna bears a *prati* relation to *avijñapti*. Here
+the Bhāṣya's statement that *citta*, *manas*, and *vijñāna* have one
+referent is local to this explanation; it does not erase the distinct
+project functions of consciousness, Mind, and Cognition.
 
-```text
-citta  ← cinoti     gathers or accumulates
-manas  ← manute     thinks or considers
-vijñāna ← vijānāti  discriminatively cognizes
-```
+The project-level Samyama synthesis treats ten Samyama-bhūmis as describing
+Path-related operation of mental factors, with Buddha Dharma as the
+eleventh Bhūmi. This verse states the conditions of association; it does
+not enumerate or assign those levels.
 
-Relationally, the same occurrence is called:
+## 6. Logical Determination
 
-```text
-citta
-    insofar as it is variegated by wholesome and unwholesome dharmas
-
-manas
-    insofar as it functions as support
-
-vijñāna
-    insofar as it functions as supported differentiated cognition
-```
-
-The second half characterizes consciousness and mental factors:
+The Bhāṣya distinguishes contextual co-reference from functional
+explanation:
 
 ```text
-sa-āśraya
-    → possessing a support because dependent upon a faculty
+One referent:
+    citta, manas, vijñāna
 
-sa-ālambana
-    → possessing one registered viṣaya as cognitive support
-
-sa-ākāra
-    → taking that registered event in a determinate manner
-
-saṃprayuktāḥ pañcadhā
-    → associated through five equalities
+Explanatory functions:
+    citta     → gathering or variegation
+    manas     → support
+    vijñāna   → supported cognition
 ```
 
-The Kārikā compresses the fivefold rule; the Bhāṣya enumerates equality of
-support, cognitive support, manner, time, and numerical instance.
-
-## 5. Translation
-
-### Close syntactic construe
-
-> Consciousness, mind, and differentiated cognition have one meaning [here]. Consciousness and the mental factors possess support, cognitive support, and manner, and are associated fivefold.
-
-### Bhāṣya-informed translation
-
-> `Citta`, `manas`, and `vijñāna` designate one mental occurrence under different functional descriptions: gathering or variegated consciousness, supporting mind, and supported differentiated cognition. Consciousness and its associated factors constitute one cognition-event through equality of faculty-support, equality of the indriya-registered event serving as cognitive support, equality of the manner in which it is taken, equality of time, and a one-to-one numerical instance of consciousness and each associated factor.
-
-The reference to an indriya-registered event is the project's controlled
-rendering of the Bhāṣya's `viṣaya`/`ālambana` relation. It must not be
-externalized into a ready-made object standing outside the cognition-event.
-
-## 6. Philosophical Translation
-
-> One cognition is neither a bare consciousness nor a heap of mental factors. Its differentiated members belong together because they share the same faculty-support, registered event, manner, and moment, with one determinate instance of each factor. Unity does not erase functional difference, and difference does not dissolve the event.
-
-Restrained Organon rendering:
-
-> The five equalities define one cognitive occurrence through common faculty-support, object-support, aspect, time, and number. Their time-equality is not a shared clock reading but the co-presence that makes distinct factors members of one moment of Śuddha Sattva. Citta, manas, and vijñāna name functions or aspects of this universal cognitive act, not three successive events; the particular Idea is the shared content-support, not the act itself.
-
-This Organon reading extends the textual rule of fivefold `saṃprayoga`
-without collapsing distinct factors into one.
-
-## 7. Technical Vocabulary
-
-| Sanskrit | Project rendering | Determination in this unit |
-|---|---|---|
-| citta | consciousness | one occurrence as gathering or variegated by wholesome and unwholesome dharmas |
-| manas | mind / support-function | the same occurrence considered insofar as it supports |
-| vijñāna | differentiated cognition | the same occurrence considered insofar as it discriminatively cognizes and is supported |
-| ekārtha | one meaning / one referent | contextual equivalence without erasing functional denomination |
-| āśraya | faculty-support | indriya upon which consciousness and factors depend |
-| viṣaya | indriya-registered event | determinate event registered through faculty-operation |
-| ālambana | cognitive support | the registered `viṣaya` insofar as cognition and factors take it up |
-| ākāra | manner / aspect | determinate way the registered event is cognitively taken |
-| saṃprayoga | association / conjunction | event-unity of consciousness and factors through five equalities |
-| āśraya-samatā | equality of support | same faculty-support |
-| ālambana-samatā | equality of cognitive support | same registered event functioning as support |
-| ākāra-samatā | equality of manner | same way of taking the registered event |
-| kāla-samatā | equality of time | occurrence in the same moment (`kṣaṇa`) |
-| dravya-samatā | equality of numerical instance | one consciousness and one instance of each associated factor |
-
-`Dravya` here must not be heard as material substance. The Bhāṣya explains
-the equality numerically: one instance of each factor corresponds to the one
-consciousness-event.
-
-## 8. Logical Determination
-
-Contextual co-reference is role-indexed:
+The fivefold association:
 
 ```text
-OneMentalOccurrence(e)
-
-Citta(e)
-    = describe(e, GatheringOrVariegatedRole)
-
-Manas(e)
-    = describe(e, SupportingRole)
-
-Vijnana(e)
-    = describe(e, SupportedDiscriminativeRole)
+Associated(citta, caittas)
+    requires equality of:
+        support
+        object-support
+        manner
+        time
+        numerical instance
 ```
 
-Therefore:
+The closing explanation specifies numerical equality as one consciousness
+and one instance of each associated factor. This does not mean there is only
+one mental factor or that the different factors become one entity.
 
-```text
-Referent(Citta(e))
-    = Referent(Manas(e))
-    = Referent(Vijnana(e))
+## 7. Interpretive Note
 
-Role(Citta) ≠ Role(Manas) ≠ Role(Vijnana)
-```
+The Bhāṣya offers two explanations of the three terms. The first derives
+them respectively from gathering, considering, and cognizing. “Others”
+say consciousness is so called because it is variegated by wholesome and
+unwholesome Principles; that same occurrence is Mind insofar as it
+supports, and Cognition insofar as it is supported. Both are contextual
+accounts, not grounds for unrestricted interchange of the terms.
 
-Let `c` be one consciousness-instance and `F` its associated factor-set.
-Fivefold association requires:
+The five equalities specify shared conditions of association, not
+successive stages. *Dravya* is clarified by the Bhāṣya's one-instance-each
+explanation; it should not be turned into a claim about material
+substance. The object-support is not the faculty-support, and the manner
+is a distinct predicate concerning how the object-support is taken.
 
-```text
-ForEvery f in F:
-    Support(f) = Support(c)
-    ∧ Alambana(f) = Alambana(c)
-    ∧ Akara(f) = Akara(c)
-    ∧ Time(f) = Time(c)
-    ∧ InstanceCount(f, event) = 1
-```
-
-The cognitive support is typed through registration:
-
-```text
-RegisteredBy(visayaEvent, indriya)
-∧ SupportsCognition(visayaEvent, event)
-    → Alambana(event) = visayaEvent
-```
-
-Numerical equality prevents heap semantics:
-
-```text
-One CittaInstance(event)
-∧ ForEvery required FactorType T:
-      ExactlyOne InstanceOf(T, event)
-```
-
-Mere simultaneity is necessary but insufficient:
-
-```text
-SameTime(x, y)
-    ⇏ Associated(x, y)
-
-Associated(x, y)
-    → SameSupport
-      ∧ SameAlambana
-      ∧ SameAkara
-      ∧ SameTime
-      ∧ CorrespondingNumericalInstance
-```
-
-## 9. Interpretive Note
-
-VAK 2.34 answers the problem generated by the entire mental-factor section:
-how can many distinct factors constitute one cognition? The answer is neither
-an underlying mental substance nor accidental proximity. The factors belong
-to one event through five determinate equalities.
-
-The first three equalities preserve intentional and functional unity. The
-same faculty supports consciousness and its factors. The same indriya-
-registered `viṣaya` serves as their cognitive support. They take that event
-in the same manner. This does not mean the registered event is an external
-object imported ready-made into consciousness; it is already determinate as
-registered within the cognition-event.
-
-Equality of time now sharpens the `kṣaṇa` discovery from VAK 2.33. A bhūmi
-may possess factors across its organized temporal range, but `saṃprayoga`
-requires same-moment unity. The moment is therefore the boundary at which
-the many associated functions count as one actual cognition.
-
-Equality of numerical instance prevents this unity from becoming an
-indefinite aggregate. There is one consciousness-instance and one instance of
-each factor belonging to that event. Organic unity is exact cardinality under
-shared relations.
-
-The terminology dispute is equally productive. `Citta`, `manas`, and
-`vijñāna` have one referent here, but the Bhāṣya preserves different
-functional grounds for naming it. The project should therefore not collapse
-them into one undifferentiated word:
-
-```text
-citta
-    consciousness as gathered and qualified occurrence
-
-manas
-    the occurrence in its supporting function
-
-vijñāna
-    the occurrence as supported differentiated cognition
-```
-
-The user's Yoga hypothesis can now be stated more cleanly without asserting
-lexical identity:
-
-```text
-kṣaṇa
-    = event-boundary of actual cognitive Being
-
-krama
-    = ordered transition between such event-unities
-
-samāpatti
-    = candidate name for achieved or stabilized event-unity
-      within the Yoga reconstruction
-```
-
-The Kośa does not say `kṣaṇa = samāpatti`. What it supplies is the exact
-association structure that makes such a comparative hypothesis intelligible:
-a one-moment unity of support, registered event, manner, and differentiated
-functions. We should test the Samāpatti identification later rather than make
-it a translation premise.
-
-For the Kośa Technē:
-
-```text
-CognitionEvent<ksana> = {
-    oneCitta,
-    oneOfEachRequiredCaitta,
-    sharedIndriyaSupport,
-    sharedRegisteredVisaya,
-    sharedAkara
-}
-```
-
-**Organon temporal reading:** Equality of time means that distinct factors
-co-occur as one event, while common support, object-support, manner, and
-number articulate its unity. This cognitive present is not a shared clock
-timestamp. Citta, manas, and vijñāna are functional addresses of the
-universal Cognition, and the particular Idea is its object-content.
-
-**DharmaChakra tracking:** VAK 2.33 distinguished attribution to a level
-from co-presence in a moment. Here the Bhāṣya specifies event-level
-association through equality of support, object-support, manner, time, and
-numerical instance. A factor's inclusion in a level-profile alone does not
-establish that every profile-member occurs in every moment; when citta and
-caittas are associated in an event, these five relations characterize that
-association. This clarifies the event-level analysis without resolving the
-earlier disputed accounts or assigning the profile to a Samyama-bhūmi.
-
-## 10. OWL++ Seed
+## 8. OWL++ Seed
 
 ```ttl
 @prefix vak: <http://127.0.0.1:3000/vak#> .
-@prefix yoga: <http://127.0.0.1:3000/yoga#> .
-@prefix organon: <http://127.0.0.1:3000/organon#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
 vak:VAK_2_34
     a vak:Karika ;
     rdfs:label "VAK 2.34" ;
-    vak:hasTopic vak:CittaManasVijnanaEkartha,
-        vak:FivefoldAssociation ;
+    vak:hasTopic vak:FivefoldMentalFactorAssociation ;
     vak:belongsTo vak:Indriyanirdesa .
 
-vak:CittaManasVijnanaEkartha
-    vak:hasOneReferent vak:MentalOccurrence ;
-    vak:hasFunctionalAddress vak:CittaRole,
-        vak:ManasRole,
-        vak:VijnanaRole .
-
 vak:FivefoldAssociation
-    vak:requiresEquality vak:SupportEquality,
-        vak:AlambanaEquality,
-        vak:AkaraEquality,
+    vak:hasEquality vak:SupportEquality,
+        vak:ObjectSupportEquality,
+        vak:MannerEquality,
         vak:TimeEquality,
         vak:NumericalInstanceEquality .
 
-vak:AlambanaEquality
-    vak:requires vak:SharedIndriyaRegisteredVisaya .
-
-vak:TimeEquality
-    vak:requires vak:SameKsana .
-
-organon:OrganicCognitionEvent
-    a organon:InterpretiveReconstruction ;
-    organon:requires vak:FivefoldAssociation ;
-    organon:distinguishes organon:FunctionalDifference,
-        organon:EventUnity .
-
-yoga:KsanaSamapattiHypothesis
-    a organon:ComparativeHypothesis ;
-    organon:requiresFurtherTesting vak:SameKsana,
-        yoga:Samapatti .
+vak:NumericalInstanceEquality
+    vak:means "one consciousness and one instance of each associated factor" .
 ```

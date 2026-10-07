@@ -17,7 +17,7 @@ Bhāṣya, `strīndriyādimān` receives its instrumental count—`aṣṭābhi�
 eight”—from the opening of VAK 2.19. The study therefore marks the carryover
 without importing the next verse's further analysis.
 
-## 3. Padaccheda
+## 3. Lexical Analysis
 
 ```text
 caturbhiḥ            → caturbhiḥ
@@ -32,7 +32,7 @@ saptabhiḥ            → saptabhiḥ
 strīndriyādimān      → strī-indriya-ādi-mān
 ```
 
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | caturbhiḥ | instrumental plural numeral | with four faculties |
 | sukha-kāyābhyām | instrumental dual compound | in the cases of pleasure and body |
@@ -80,32 +80,40 @@ The opening `aṣṭābhiḥ` of VAK 2.19 completes it: such a possessor is endo
 with eight. This syntactic determination is explicitly supplied by the
 Bhāṣya.
 
-## 5. Translation
+## 5. Scientific English Rendering
 
-### Close syntactic construe
+### Kārikā
 
 > In the cases of pleasure and body, [one is endowed] with four; one possessing the eye and so forth, with five, as also one possessing gladness; one possessing pain, however, with seven; one possessing the female faculty and so forth [with eight, as completed by VAK 2.19].
 
-### Bhāṣya-informed translation
+### Bhāṣya-informed rendering
 
 > Possession of either pleasure or the body faculty necessarily entails four faculties: that faculty together with neutral feeling, life, and mind. Possession of the eye—or separately the ear, nose, or tongue—entails five, adding body to the necessary triad. Possession of gladness also entails five, adding pleasure and gladness to the triad. Possession of pain entails seven: body, life, mind, and four feeling faculties. Possession of the female faculty and the further faculties gathered by “and so forth” entails eight, the count being supplied by the next verse.
 
 The four feelings required in the pain configuration are pain, pleasure,
 gladness, and neutral feeling. Distress is not entailed merely by pain.
 
-## 6. Philosophical Translation
+## 6. Interpretation
 
-> A faculty is not an isolated item but an index into a necessary support-configuration. Different possessed faculties close under different dependencies: pleasure and body extend the triad to four; the external cognitive faculties and gladness extend it to five; pain requires seven. Possession therefore has a determinate logical depth.
+The Bhāṣya gives distinct minimum possession-sets for the named
+Faculties: pleasure or Body with four, each of the eye-series and
+gladness with five, and pain with seven. Equal counts do not imply
+identical members. Possession is not current manifestation: the
+second-dhyāna example allows an afflicted pleasure Faculty assigned
+to the third dhyāna despite non-attainment of that dhyāna. The
+eightfold case begun with the female Faculty is completed by VAK 2.19.
 
-Organon rendering:
+In the Kant-informed Techne, the initiating Faculty, required set,
+and asserted relation are kept explicit. This is a project-level
+formalization of necessary co-possession, not a causal theory or
+system-design account supplied by the Bhāṣya.
 
-> The karmic ISA now exposes its dependency graph. Querying a possessed faculty computes the minimum closure of capacities that must accompany it. Yet possession is not execution: a faculty can belong to the continuum without being manifest in the current cognitive event.
-
-“Dependency graph,” “query,” and “execution” are Organon reconstructions. The
-Bhāṣya's immediate concern is necessary co-possession (`samanvāgama`) in a
-sentient continuum.
-
-**Transcendental Time determination (Organon, not translation):** Possession records what belongs to a continuum under acquisition and non-loss, even when it is not manifest in the present event. Universal Cognition names the necessary closure-relation among possessed faculties; particular Ideas are the specific closures triggered by body, pleasure, eye, gladness, or pain. This temporal persistence of capacity is not simultaneity of feeling or a causal claim that every member produces the others.
+The Kośa's governing synthesis: Vijñāna is Discriminative Cognition joining
+and governing Perception and Conception. Their unity is Inconceivable as a
+homogeneous operation; its Idea is disclosed in the Cognition Base. Vijñāna
+governs Mind and guides the reading of Dharma Base. *Avijñapti* is the
+bridge, one Dharma classified in both Form Base and Dharma Base; Vijñāna
+bears a *prati* relation to it.
 
 ## 7. Technical Vocabulary
 
@@ -191,8 +199,6 @@ without presently manifesting a purified attainment of that level.
 
 ## 9. Interpretive Note
 
-**Organon time-reading:** The second-dhyāna example makes the temporal distinction concrete: possession can precede or exceed present attainment and activation. The closures are therefore minimum relations within a capability-state, not snapshots of concurrent experience. Their exact membership, rather than cardinality alone, determines each case.
-
 VAK 2.18 turns the necessary triad into a graded dependency calculus. The
 counts are minimum closures, not totals of every faculty a given individual
 might contingently possess. Each rule answers: if this faculty is possessed,
@@ -204,46 +210,24 @@ life, and mind. The fivefold count is computed by following that dependency
 chain. Gladness reaches five differently: it requires pleasure along with the
 triad. Equal counts therefore do not imply identical configurations.
 
-The Bhāṣya then prevents “co-presence” from being misunderstood as concurrent
-phenomenal manifestation. The second-dhyāna example allows possession of an
-afflicted pleasure faculty belonging to the third-dhyāna level even without
-attainment of that dhyāna. `Samanvāgama` records what belongs to the continuum
-under rules of acquisition and non-loss; it is broader than what is currently
-executing.
-
-This adds a second axis to the karmic ISA:
-
-```text
-CapabilityState
-    = acquired and not lost faculties
-
-ActivationState(event)
-    = faculties manifest in the current event
-
-ActivationState(event) ⊆ CapabilityState
-```
-
-The Agent's Model must retain both axes. Its Logic computes dependency
-closure over capability-state while separately validating what may activate
-in a given realm, dhyāna, ethical state, and path-stage.
+The Bhāṣya prevents “co-presence” from being misunderstood as
+concurrent manifestation. Its second-dhyāna example allows possession
+of an afflicted pleasure Faculty belonging to the third-dhyāna level
+even without attainment of that dhyāna. `Samanvāgama` here concerns
+possession, not present activation.
 
 The cross-verse completion is itself instructive. The Kārikās form a linked
 instruction stream: the grammatical operand begun at the end of 2.18 is
 completed by the count at the start of 2.19. We record that interface here,
 but defer the composition of the eightfold configurations to the next study.
 
-**Return to Dhātu at its last kārikā, VAK 1.48.** Dhātu gives the five
-sensory Faculties their corresponding internal sensory Domains, places
-Female and Male Faculties in part of the Body-Domain, and locates Life and
-the feeling Faculties among those in a portion of the Essence-Domain; the
-Mind-Faculty is mapped across the seven Citta Domains. VAK 2.18 reconstructs
-co-possession across these distinct loci. For example, possession of Eye
-requires Body, Life, neutral feeling, and Mind: one sensory locus closes
-through Body, Essence, and Citta incidences. The count is thus not another
-Domain-to-Faculty bijection, but a determinate relation among already placed
-Faculties. The Fichtean return negates a merely static reading of Dhātu by
-showing how its map operates as dependency, without making co-possession
-causal production or simultaneous manifestation.
+**Return to Dhātu at VAK 1.48.** Dhātu classifies Faculty relations
+within the Base–Essence–Principle architecture. VAK 2.18 specifies
+necessary co-possession among Faculties already classified there.
+For example, possession of Eye entails Body and the triad, without
+making their loci identical or claiming that all are active together.
+The crosswalk does not convert co-possession into causal production
+or replace the Dhātu map.
 
 ## 10. OWL++ Seed
 

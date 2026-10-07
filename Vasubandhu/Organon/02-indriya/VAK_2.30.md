@@ -6,126 +6,125 @@
 >
 > मिद्धं सर्वाविरोधित्वाद्यत्र स्यादधिकं हि तत् ॥ २.३० ॥
 
+The research witness separates *aṣṭādaśa anyatra*; the continuous form
+*aṣṭādaśānyatra* is displayed above, with the lexical division retained
+below.
+
 ## 2. Sanskrit (IAST)
 
 > nivṛte 'ṣṭādaśānyatra dvādaśāvyākṛte matāḥ /
 >
 > middhaṃ sarvāvirodhitvād yatra syād adhikaṃ hi tat // 2.30 //
 
-The research witness separates `aṣṭādaśa anyatra`; the continuous sandhi
-`aṣṭādaśānyatra` is displayed here without changing the lexical division.
-
-## 3. Padaccheda
+## 3. Lexical Analysis
 
 ```text
-nivṛte             → nivṛte
-aṣṭādaśānyatra     → aṣṭādaśa anyatra
-dvādaśāvyākṛte     → dvādaśa avyākṛte
-matāḥ              → matāḥ
-middhaṃ            → middham
-sarvāvirodhitvād   → sarva-avirodhitvāt
-yatra              → yatra
-syād               → syāt
-adhikaṃ            → adhikam
-hi                 → hi
-tat                → tat
+nivṛte           → nivṛte
+aṣṭādaśānyatra   → aṣṭādaśa anyatra
+dvādaśāvyākṛte   → dvādaśa avyākṛte
+matāḥ            → matāḥ
+middham          → middham
+sarvāvirodhitvāt → sarva-avirodhitvāt
+yatra            → yatra
+syād             → syāt
+adhikaṃ          → adhikam
+hi               → hi
+tat              → tat
 ```
 
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
-| nivṛte | locative neuter singular | in the obscured [indeterminate state] |
+| nivṛte | locative neuter singular | in the obscured-indeterminate case |
 | aṣṭādaśa | numeral | eighteen |
-| anyatra | indeclinable | in the other case / elsewhere |
+| anyatra | indeclinable | in the other case |
 | dvādaśa | numeral | twelve |
-| avyākṛte | locative neuter singular | in the karmically indeterminate |
-| matāḥ | nominative masculine plural past passive participle | are held / accepted [as the mental factors] |
-| middham | nominative neuter singular | sleepiness / torpor |
-| sarva-avirodhitvāt | ablative singular abstract compound | because of compatibility with all / non-opposition to all |
+| avyākṛte | locative neuter singular | in ethically indeterminate consciousness |
+| matāḥ | nominative masculine plural past passive participle | are accepted as the count |
+| middham | nominative neuter singular | torpor |
+| sarva-avirodhitvāt | ablative singular abstract compound | because compatible with all |
 | yatra | relative adverb | wherever |
 | syāt | third-person singular optative | it may occur |
 | adhikam | nominative neuter singular | additional |
-| hi | explanatory particle | indeed / for |
-| tat | nominative neuter singular pronoun | that [factor] |
+| hi | explanatory particle | for |
+| tat | nominative neuter singular pronoun | that factor |
 
 ## 4. Grammar
 
-The first line distinguishes two profiles inside the indeterminate class:
+The first line gives two ethically indeterminate profiles:
 
 ```text
 nivṛte [avyākṛte] aṣṭādaśa matāḥ
-    → in the obscured-indeterminate state, 18 are accepted
+    → eighteen are accepted in the obscured-indeterminate case
 
 anyatra avyākṛte dvādaśa [matāḥ]
-    → in the other, unobscured-indeterminate state, 12
+    → twelve in the other, unobscured-indeterminate case
 ```
 
-`Anyatra` is resolved by the Bhāṣya as indeterminate consciousness other than
-the obscured case, hence unobscured-indeterminate.
-
-The second line states a general conditional rule:
+The Bhāṣya resolves *anyatra* as the indeterminate case other than the
+obscured one. The second line gives a conditional addition:
 
 ```text
-sarva-avirodhitvāt
-    → because middha is not incompatible with any ethical class
-
-yatra syāt
-    → wherever it may actually occur
-
-adhikaṃ hi tat
-    → it is there counted as an additional factor
+because torpor is compatible with all:
+    wherever it occurs, it is counted as an additional factor
 ```
 
-The optative `syāt` and relative `yatra` preserve contingency. Compatibility
-does not make `middha` universally present; it licenses its addition wherever
-an actual event contains it.
+The relative *yatra* and optative *syāt* express contingency. Compatibility
+does not make torpor universally present.
 
-## 5. Translation
+## 5. Scientific English Rendering
 
-### Close syntactic construe
+### Kārikā
 
-> In the obscured [indeterminate state], eighteen are accepted; in the other indeterminate state, twelve. Because sleepiness is incompatible with none, wherever it may occur, that indeed is additional.
+> In obscured-indeterminate consciousness eighteen are accepted; in the
+> other indeterminate case, twelve. Because torpor is incompatible with
+> none, wherever it occurs, that factor is additional.
 
-### Bhāṣya-informed translation
+### Bhāṣya-informed rendering
 
-> An obscured-indeterminate desire-realm consciousness associated with self-view or extreme view contains eighteen mental factors: the ten universal factors, the six afflicted great-ground factors, `vitarka`, and `vicāra`. An unobscured-indeterminate consciousness contains twelve: the ten universal factors plus `vitarka` and `vicāra`. Sleepiness may be wholesome, unwholesome, or indeterminate, so it is added as one further factor to whichever particular consciousness-event contains it.
+> In the Desire Principle, consciousness associated with self-view or
+> extreme view is obscured-indeterminate. It has eighteen mental factors:
+> ten universal great-ground factors, six afflicted great-ground factors,
+> *vitarka*, and *vicāra*. As before, view does not add a further factor.
+> The indeterminate case other than the obscured one is
+> unobscured-indeterminate. Twelve factors are accepted there: the ten
+> universal great-ground factors, *vitarka*, and *vicāra*. Teachers of
+> the outer regions also accept indeterminate remorse; on their account,
+> consciousness associated with it has thirteen factors.
 
-The Bhāṣya also attributes to teachers of the outer regions the view that
-indeterminate remorse may accompany the unobscured profile, producing
-thirteen. This is a reported alternative, not the principal count.
+> Torpor is compatible with all the factors described above because it
+> may be wholesome, unwholesome, or indeterminate. Wherever it occurs,
+> it is counted as an additional factor: where there are twenty-two,
+> there are twenty-three; where there are twenty-three, there are
+> twenty-four; and so forth.
 
-## 6. Philosophical Translation
+The teachers of the outer regions' thirteen-factor profile and a
+twelve-factor profile with torpor both total thirteen, but arise from
+different additions and must not be conflated.
 
-> Karmic indeterminacy does not mean structural indeterminacy. Obscured and unobscured neutral consciousness have exact but different compositions. A factor such as sleepiness is not fixed to one ethical ground; its compatibility spans wholesome, unwholesome, and indeterminate events, while its actual presence remains moment-specific.
+## 6. Interpretation
 
-Restrained Organon rendering:
+The verse completes the indeterminate Desire-Principle profiles. The
+obscured case includes the six afflicted factors and totals eighteen;
+the unobscured case omits them and totals twelve. The two views named by
+the Bhāṣya are determinations of already-counted discernment, not an
+additional factor.
 
-> Obscured and unobscured neutrality are distinct present determinations of a cognitive event, each with a defined composition. A compatible factor such as torpor may occur under more than one ethical type, but compatibility alone does not make it actual. This is event-time in the Organon sense—the determinate organization of a moment of Śuddha Sattva—not clock-time; the count changes with actual co-presence, not with mere possibility.
+Torpor's cross-class compatibility and its actual occurrence are
+different relations. It can occur with wholesome, unwholesome, or
+indeterminate consciousness, but *yatra syāt* makes the addition
+conditional: count it only where present. The Bhāṣya explicitly gives
+22→23 and 23→24; applying the rule to the eighteen- and twelve-factor
+profiles yields nineteen and thirteen, respectively, as deductions.
 
-The textual basis is the Bhāṣya's distinction between cross-class
-compatibility and actual conditional co-presence; the Organon interpretation
-does not change that account.
+The Kośa's governing synthesis: Vijñāna is Discriminative Cognition joining
+and governing Perception and Conception. Their unity is Inconceivable as a
+homogeneous operation; its Idea is disclosed in the Cognition Base. Vijñāna
+governs Mind and guides the reading of Dharma Base. Form Base and Dharma
+Base both include the same *avijñapti* in distinct classifications, and
+Vijñāna bears a *prati* relation to *avijñapti*. This synthesis is distinct
+from the local profile counts of associated mental factors.
 
-## 7. Technical Vocabulary
-
-| Sanskrit | Project rendering | Bhāṣya determination |
-|---|---|---|
-| nivṛta-avyākṛta | obscured-indeterminate | karmically neutral yet obscured by afflicted factors |
-| anivṛta-avyākṛta | unobscured-indeterminate | neutral profile lacking the six afflicted great-ground factors |
-| satkāya-dṛṣṭi | view of a real self | one view associated with the obscured-indeterminate profile |
-| antagrāha-dṛṣṭi | extreme view | second view associated with that profile |
-| prajñā-viśeṣa | specialization of discernment | explains again why view does not add a factor |
-| bahirdeśaka | teacher of the outer regions | source of the attributed thirteen-factor profile with neutral remorse |
-| middha | sleepiness / torpor | optional factor capable of wholesome, unwholesome, or indeterminate modes |
-| sarvāvirodhitva | compatibility with all | non-opposition to all three ethical determinations |
-| avirodha | non-opposition / compatibility | admissibility relation, not an assertion of actual occurrence |
-| adhika | additional | counted above a base profile when the factor actually occurs |
-
-`Avyākṛta` is rendered “indeterminate” in its karmic-ethical sense. It does
-not mean that the event lacks determinate factors or cannot be classified.
-
-## 8. Logical Determination
-
-The obscured-indeterminate base is:
+## 7. Logical Determination
 
 ```text
 ObscuredIndeterminateBase =
@@ -133,131 +132,45 @@ ObscuredIndeterminateBase =
     ∪ AfflictedGreatGroundSix
     ∪ {Vitarka, Vicāra}
 
-Count = 18
+Count(ObscuredIndeterminateBase) = 18
 ```
-
-View specializes discernment without addition:
-
-```text
-ViewMode ∈ {RealSelfView, ExtremeView}
-BaseFunction(ViewMode) = Discernment
-
-specialize(Discernment, ViewMode)
-    → Count remains 18
-```
-
-The unobscured-indeterminate base is:
 
 ```text
 UnobscuredIndeterminateBase =
       UniversalGreatGroundTen
     ∪ {Vitarka, Vicāra}
 
-Count = 12
+Count(UnobscuredIndeterminateBase) = 12
 ```
 
-The attributed external-school variant is:
+The reported alternative and conditional torpor rule:
 
 ```text
-AcceptsNeutralRemorse(OuterRegionTeachers)
-    → UnobscuredIndeterminateBase ∪ {Remorse}
-    → Count = 13
+OuterRegionTeachers:
+    UnobscuredIndeterminateBase ∪ {IndeterminateRemorse}
+    → 13
+
+For any profile p:
+    Present(Middha, p) → Count(p) + 1
 ```
 
-`Middha` supplies a general compatibility transform:
+These two routes to thirteen are not the same profile. Compatibility of
+torpor with a class does not entail that it occurs in every member of the
+class.
 
-```text
-EthicalMode(Middha)
-    ∈ {Wholesome, Unwholesome, Indeterminate}
+## 8. Interpretive Note
 
-Compatible(Middha, profileType)
-    for every ethical profileType
-```
+*Avyākṛta* here means ethically indeterminate, not lacking a determinate
+factor structure; it is distinct from *aniyata*, “unfixed,” used of
+factors in VAK 2.27. The obscured-indeterminate case shows that karmic
+indeterminacy can coexist with affliction.
 
-But addition is event-local:
+The alternative about indeterminate remorse is explicitly attributed to
+teachers of the outer regions. The Bhāṣya does not adjudicate that view
+here. Torpor is a distinct conditional addition; equal totals do not imply
+identical membership or attribution.
 
-```text
-AtTime(t):
-    Profile(event, t) = BaseProfile(eventType)
-
-    if OccursIn(Middha, event, t):
-        Profile(event, t) = BaseProfile(eventType) ∪ {Middha}
-        Count(event, t) = BaseCount(eventType) + 1
-```
-
-Therefore:
-
-```text
-Compatible(Middha, profileType)
-    ⇏ PresentInEveryEvent(Middha, profileType)
-```
-
-## 9. Interpretive Note
-
-VAK 2.30 completes the desire-realm count profiles by discriminating two
-kinds of karmically indeterminate consciousness. The obscured form contains
-the six afflicted great-ground factors and therefore totals eighteen. The
-unobscured form lacks that inherited set and totals twelve. Neutrality in
-karmic result is compatible with either obscuration or its absence.
-
-The two views named by the Bhāṣya again confirm the identity-before-counting
-rule of VAK 2.29. Self-view and extreme view are determinations of discernment,
-not additional factors beside it. The profile changes qualitatively while its
-cardinality remains eighteen.
-
-`Middha` then introduces a new rule. It cannot be assigned exclusively to a
-wholesome, unwholesome, or indeterminate ground because it may bear any of
-those determinations. Its organizing relation is compatibility rather than
-ground-wide necessity.
-
-The distinction between admissibility and actuality is decisive:
-
-```text
-profile type
-    states what must be present
-    and what may be present
-
-particular event
-    states which admissible factors actually occur
-```
-
-The factor is counted only in the event in which it occurs. A timeless list
-of everything compatible with a profile would falsely convert possibility
-into simultaneous actuality.
-
-For the Organon, Śuddha Sattva names the living process whose events receive
-determinate organization; it is not a synonym for karmic neutrality and
-does not make this possibility/actuality distinction timeless. The Kośa's
-textual achievement is already sufficient: ethical status, obscuration,
-functional specialization, compatibility, and actual occurrence are
-separate axes of one mental-event analysis.
-
-For the Kośa Technē:
-
-```text
-EventProfile<occurrence> = {
-    inheritedBase,
-    specializedModes,
-    compatibleExtensions,
-    extensionsActualAt<occurrence>
-}
-```
-
-**Organon temporal reading:** Obscured and unobscured neutral events are
-distinct configurations, while torpor remains merely admissible until it
-co-occurs. This is a determinate cognitive present within Śuddha Sattva, not
-a clock timestamp or a continuum-wide biography.
-
-**DharmaChakra tracking:** The verse and Bhāṣya give two indeterminate
-desire-realm profiles: eighteen factors when obscured and twelve when
-unobscured. The outer-region teachers' alternative adds indeterminate
-remorse to the latter, making thirteen. Torpor is a separate conditional
-addition: the Bhāṣya explicitly illustrates 22→23 and 23→24; applying its
-general rule to the eighteen- and twelve-factor profiles yields nineteen
-and thirteen, respectively, but those are deductions, not its stated
-examples. No profile here is assigned to a particular Samyama-bhūmi.
-
-## 10. OWL++ Seed
+## 9. OWL++ Seed
 
 ```ttl
 @prefix vak: <http://127.0.0.1:3000/vak#> .
@@ -267,8 +180,8 @@ examples. No profile here is assigned to a particular Samyama-bhūmi.
 vak:VAK_2_30
     a vak:Karika ;
     rdfs:label "VAK 2.30" ;
-    vak:hasTopic vak:IndeterminateCaittaProfiles,
-        vak:MiddhaCompatibility ;
+    vak:hasTopic vak:IndeterminateFactorProfiles,
+        vak:TorporCompatibility ;
     vak:belongsTo vak:Indriyanirdesa .
 
 vak:ObscuredIndeterminateProfile
@@ -284,15 +197,12 @@ vak:UnobscuredIndeterminateProfile
         vak:Vicara ;
     vak:hasCount 12 .
 
-vak:Middha
-    vak:compatibleWith vak:WholesomeProfile,
-        vak:UnwholesomeProfile,
-        vak:IndeterminateProfile ;
-    vak:countedOnlyWhen vak:ActuallyOccurrent .
+vak:OuterRegionTeachers
+    vak:accepts vak:UnobscuredIndeterminateRemorseProfile .
 
-organon:TimeIndexedEventProfile
-    a organon:InterpretiveReconstruction ;
-    organon:distinguishes organon:CompatiblePossibility,
-        organon:EventLocalActuality ;
-    organon:inferredFrom vak:MiddhaCompatibility .
+vak:Torpor
+    vak:compatibleWith vak:Wholesome,
+        vak:Unwholesome,
+        vak:Indeterminate ;
+    vak:increasesCountOnlyWhenPresent true .
 ```

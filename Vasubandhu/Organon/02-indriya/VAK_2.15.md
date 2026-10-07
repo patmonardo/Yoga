@@ -17,7 +17,7 @@ and uncertain in isolation. The Bhāṣya unambiguously construes the clause as
 the faculties ceased by one dying in the formless realm; that construction
 governs the translations below.
 
-## 3. Padaccheda
+## 3. Lexical Analysis
 
 ```text
 nirodhayaty        → nirodhayati
@@ -31,7 +31,7 @@ daśa               → daśa
 navāṣṭau vā        → nava aṣṭau vā
 ```
 
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | nirodhayati | third-person singular causative present | causes to cease / brings to cessation |
 | uparamān nārūpye | transmitted sequence | construed by the Bhāṣya with death in the formless realm |
@@ -96,13 +96,13 @@ The Bhāṣya explicitly limits these Kārikā counts to `sakṛn-maraṇa`, dea
 which the relevant faculties cease all at once. It introduces gradual death
 only with the next Kārikā, so that separate count is not imported here.
 
-## 5. Translation
+## 5. Scientific English Rendering
 
-### Close syntactic construe
+### Kārikā
 
 > At death in the formless realm [according to the Bhāṣya's construal], one causes life, mind, and neutral feeling to cease; in the form realm, eight; in the desire realm, ten, nine, or eight.
 
-### Bhāṣya-informed translation
+### Bhāṣya-informed rendering
 
 > At death in the formless realm, the faculties of life, mind, and neutral feeling cease. At death in the form realm, those three and the five sensory faculties cease, making eight. At simultaneous death in the desire realm, eight, nine, or ten cease according to whether neither, one, or both sexual faculties are present.
 
@@ -123,18 +123,29 @@ desire:
     + both sexual faculties = 10
 ```
 
-## 6. Philosophical Translation
+## 6. Interpretation
 
-> The end of a continuum is analyzed through the coordinated cessation of its governing faculties. Realm and embodied configuration determine the terminal faculty-set. Even the formless continuum ends through a threefold cessation of life, mind, and neutral feeling; form adds the sensory faculties, while desire may add one or both sexual faculties.
+The Bhāṣya explicitly limits the realm counts to death occurring all
+at once. It then distinguishes gradual death, whose fourfold cessation
+is continued in the opening of VAK 2.16, and adds five Faculties when
+the terminal mind is wholesome. Realm, sexual configuration, death-mode,
+and ethical condition therefore delimit the relevant counts. The
+transmitted phrase *uparamān nārūpye* remains uncertain in isolation;
+the Bhāṣya's construal governs the translation.
 
-Organon rendering:
+In the Kant-informed Techne, cessation at death and initial acquisition
+as maturation-result are distinct predicates. The Dhātu crosswalk locates
+Faculty-status within the Base–Essence–Principle architecture; this
+passage applies cessation to the Faculties possessed in the stated
+terminal context. This is a project-level interpretation, not terminology
+supplied by the Bhāṣya.
 
-> The Kośa gives the Agent a realm-sensitive terminal profile. Termination acts upon the faculties actually possessed at runtime, not merely upon those initially acquired as maturation-result. The shutdown configuration is therefore not the inverse of the constructor: faculties present or acquired under other causal statuses must also be accounted for at cessation.
-
-“Terminal profile” is an Organon rendering. The textual frame is `tyāga`,
-loss of faculties at death, and `nirodha`, their cessation.
-
-**Transcendental Time determination (Organon, not translation):** Death marks a terminal relation to the faculties possessed in a particular realm-profile, not the inverse of initial maturation-acquisition or a universal shutdown sequence. Universal Cognition distinguishes simultaneous cessation from the gradual case taken up next; the particular Ideas are the terminal sets of faculties in each realm and sexual configuration. The count is conditional, not an account of every mode of dying.
+The Kośa's governing synthesis: Vijñāna is Discriminative Cognition joining
+and governing Perception and Conception. Their unity is Inconceivable as a
+homogeneous operation; its Idea is disclosed in the Cognition Base. Vijñāna
+governs Mind and guides the reading of Dharma Base. *Avijñapti* is the
+bridge, one Dharma classified in both Form Base and Dharma Base; Vijñāna
+bears a *prati* relation to it.
 
 ## 7. Technical Vocabulary
 
@@ -228,8 +239,6 @@ TerminalFacultySet
 
 ## 9. Interpretive Note
 
-**Organon time-reading:** The terminal profile is determined by the configuration that has come to be and by the specified mode of dying. Its symmetry with initialization is not assumed: formless initial `vipāka` acquisition is life alone, whereas the terminal set includes mind and neutral feeling. This is a temporal boundary of one conditioned continuum, not a claim about every possible continuation.
-
 VAK 2.15 answers the inverse question to VAK 2.14, but it does not simply
 reverse the preceding lists. Initial acquisition asked which faculties are
 first obtained as `vipāka`. Terminal cessation asks which possessed faculties
@@ -247,41 +256,16 @@ Mind and neutral feeling were absent at relinking. At death, all eight are
 counted. Desire-realm terminal variation is then determined by the presence
 of neither, one, or both sexual Faculties.
 
-**Return to Dhātu at VAK 1.48.** The death profiles do not redraw Dhātu's
-typed incidence map: the five sensory Faculties correspond to the five
-internal sensory Domains; Mind-Faculty is mapped across the seven Citta
-Domains; Female and Male Faculties occupy part of the Body-Domain; and Life
-and the feeling Faculties, among others, occupy a portion of the
-Essence-Domain. VAK 2.15 applies a temporal predicate—cessation at death—to
-the Faculties possessed in each realm-profile. In the formless case, the
-non-inclusion of sensory Faculties in the terminal set is a realm-bound
-condition, not a denial of their Dhātu loci. The Organon return negates a
-merely static reading of the map by reconstructing its Faculties as operative
-and relinquished in a specific terminal event; it does not erase or replace
-the Dhātu map itself.
+**Reciprocal return to Dhātu.** VAK 1.48 maps Faculty-status within
+the Base–Essence–Principle architecture. VAK 2.15 applies a distinct
+predicate—cessation at death—to Faculties possessed in the stated
+realm-profile. The formless count excludes sensory Faculties from
+this terminal set without denying their Dhātu relations.
 
-The Bhāṣya also guards the scope of the counts. They describe death occurring
-all at once. Gradual death follows a different dependency structure, which
-the next verse will state. We therefore should not yet treat the present
-realm profiles as a universal shutdown algorithm.
-
-For the genetically layered Object Model, the consequence is exact:
-
-```text
-construction history
-    does not alone determine terminal state
-
-the Agent must preserve
-    later acquisitions
-    present faculty membership
-    causal status
-    realm profile
-    termination mode
-```
-
-This is another reason a complete Bhāṣya study will matter. The Kārikā gives
-compact counts; the Bhāṣya reveals the scope condition—simultaneous death—
-without which the rule would be overgeneralized.
+The Bhāṣya limits these counts to death occurring all at once.
+Gradual death and the five-Faculty addition with a wholesome terminal
+mind are taken up at the opening of VAK 2.16. The counts therefore
+should not be generalized to every mode of dying.
 
 ## 10. OWL++ Seed
 

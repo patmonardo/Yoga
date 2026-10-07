@@ -1,413 +1,197 @@
-# VAK_2.44 Bhāṣya — The Two Attainments and the Return of Consciousness
+# VAK_2.44_bhasya
 
-## 1. Kārikā Anchor
+## 1. Text and Scope
 
-> bodhilabhyā muner na prāk catustriṃśatkṣaṇāptitaḥ /
-> kāmarūpāśraye bhūte nirodhākhyādito nṛṣu // 2.44 //
+This study covers the Bhāṣya at 70.21–73.13. Its first portion continues
+the Buddha and awakening question from VAK 2.43. Its second portion explains
+the support and first-production rules, distinguishes later re-entry after
+loss, compares the two attainments, and asks how consciousness can arise
+again after a long cessation. The following discussion of life-continuity
+begins a new topic and is not included.
 
-> For the Sage, it is acquired with awakening, not beforehand,
-> because awakening is attained in thirty-four moments. When a
-> support in the Desire or Form Domain is present, both attainments
-> can occur; the attainment called cessation is first produced
-> among humans.
+## 2. Lexical Analysis
 
-The commentary on the first half of this kārikā begins at 70.21,
-within the continuous discussion paired with VAK 2.43; the verse
-fragment follows at 70.22. The second half resumes at 71.16.
-This study intentionally includes the whole 2.44 discussion,
-through its explicit close at 73.13.
+| Pada | Morphology | Force in this passage |
+|---|---|---|
+| bodhi | feminine noun | awakening |
+| kṣaya-jñāna | compound | knowledge of exhaustion |
+| catuḥtriṃśat-kṣaṇa | compound | thirty-four consciousness-moments |
+| kāma-rūpa-āśraya | compound | Desire- or Form-Principle Faculty-support |
+| āditaḥ | adverb | at first production |
+| parihāṇi | feminine noun | loss or falling away |
+| vyutkrānta-samāpatti | compound | transposed-order attainment |
+| prakāma-vaśitva | compound | complete mastery |
+| samanantara-pratyaya | compound | immediately preceding condition |
+| anyonyabījaka | compound adjective | mutually seed-bearing |
+| acittaka | adjective | without consciousness |
+| citta-pravṛtti | compound | operation of consciousness |
+| apravṛtti | feminine abstract noun | non-operation |
+| āśraya-samāpādana | compound | bringing the support into a determinate condition |
 
-## 2. Continuous Sanskrit
+## 3. Scientific English Rendering
 
-> kiṃ bhagavato 'pi parāyogikī /
-> netyāha /
-> bodhilabhyā muneḥ
-> kṣayajñānasamanaṃ kālaṃ buddhā bhagavanta enāṃ labhante nāsti kiñcidbuddhānāṃ prāyogikaṃ nāma /
-> icchāmātrapratibaddho hi teṣāṃ sarvaguṇasaṃpatsaṃmukhībhāvaḥ /
-> tasmādeṣāṃ sarvavairāgyalābhikam /
-> kathaṃ khalvidānīmanutpāditāyāṃ nirodhasamāpattau kṣayajñānakāle bhagavānubhayatobhāgavimuktaḥ sidhyati /
-> sidhyatyutpāditāyāmiva tasyāṃ vaśitvāt prāgeva tāṃ bodhisattvaḥ śaikṣyāvasthāyāmutpādayatīti pāścāttyāḥ /
-> atha kasmādevaṃ neṣyate /
-> evaṃ ca sthaviropaguptasyāpīdaṃ netrīpadaṃ prāmāṇikaṃ bhaviṣyati /
-> nirodhasamāpattimutpādya kṣayajñānamutpādayatīti vaktavyaṃ tathāgata iti /
-> na prāk
-> nahi pūrvaṃ tasyā utpādanaṃ yujyata iti kāśmīrakāḥ /
-> kiṃ kāraṇam /
-> catustriṃśatkṣaṇāptitaḥ /
-> catuḥtriṃśatā kila cittakṣaṇairbodhisattvo bodhimanuprāptaḥ /
-> satyābhisamaye ṣoḍaśabhirbhavāgravairāgye cāṣṭādaśabhirnavaprakārāṇāṃ kleśānāṃ prahāṇāya navānantaryavimuktimārgotpādanāt /
-> ta ete catustriṃśat bhavanti /
-> ākiñcanyāyatanavītarāgasyāsya niyāmāvakramaṇādadhobhūmikā na punaḥ praheyā bhavanti /
-> ata etasminnantare visabhāgacittāsaṃbhavānnirodhasamāpatterayoga iti /
-> kiṃ punaḥ syādyadi visabhāgacittamantarā saṃmukhī kuryāt /
-> vyutthānāśayaḥ syādavyutthānāśayāśca bodhisattvāḥ /
-> satyamavyutthānāśayā na tu āsravamārgāvyutthānāt /
-> kathaṃ tarhi na tāvad bhetsyāmi paryaṅkamaprāpte āsravakṣaya iti /
-> asyāśayasyāvyutthānādekāyana eva sarvārthaparisamāptiriti bahirdeśakāḥ /
-> pūrvameva tu varṇayanti kāśmīrāḥ /
-> yadyapyanayoḥ samāpattyorbahuprakāro viśeṣaḥ /
-> kāmarūpāśraye bhūte
-> ubhe api tvete asaṃjñinirodhasamāpattī kāmadhātau rūpadhātau cotpatsyete /
-> ye tvasaṃjñisamāpattiṃ rūpadhātau necchanti teṣāmayaṃ grantho virudhyate /
-> syādrūpabhavo na cāsau bhavaḥ pañcavyavacāraḥ /
-> syādrūpāvacarāṇāṃ sattvānāṃ saṃjñināṃ devānāṃ visabhāge citte sthitānāmasaṃjñisamāpattiṃ nirodhasamāparttiṃ ca samāpannānāmasaṃjñināṃ ca devānāmāsaṃjñike pratilabdhe yo bhava" iti /
-> ata ubhe apyete kāmarūpāśraye /
-> tatrāpi tvayaṃ viśeṣaḥ /
-> nirodhākhyādito nṛṣu // 2.44 //
-> nirodhasamāpattiḥ prathamato manuṣyepūtpādyate paścādrūpadhātau parihīṇapūrvaiḥ /
-> kimato 'pyasti parihāṇiḥ /
-> astītyāha /
-> anyathā hi ndāyi sūtraṃ virudhyeta /
-> "ihāyuṣmanto bhikṣuḥ śīlasaṃpannaśca bhavati samādhisaṃpannaśca prajñāsaṃpannaśca /
-> so 'bhīkṣṇaṃ saṃjñāvedayita nirodhaṃ samāpadyate ca vyuttiṣṭhate cāsti caitat sthānamiti yathābhūtaṃ prajānāti sa na haiva dṛṣṭa eva dharme pratipattye vājñāmārāgayati nāpi maraṇakālasamaye bhedācca kāyasyātikramya devān kavaḍīkārāhāra bhakṣānanyatarasmin divye manomaye kāya upapadyate /
-> sa tatropapanno 'bhīkṣṇaṃ saṃjñāveditanirodhaṃ samāpadyate ca vyuttiṣṭahate cāsti caitat sthānamiti yathābhūtaṃ prajānātī"ti /
-> atra hi divyo manomayaḥ kāyo rūpāvacara ukto bhagavatā /
-> iyaṃ ca samāpattirbhāvāgrikī /
-> tatkathamaparihīṇasya tallābhino rūpadhātau syādupapattiḥ /
-> caturthadhyānabhūmikāmapi nirodhasabhāpatiṃ nikāyāntarīyā icchanti /
-> teṣāṃ vināpi parihāṇyā sidhyatyetat /
-> etadeva tu na sidhyati /
-> caturthadhyānabhūmikā 'pyasāvastīti /
-> kiṃ kāraṇam /
-> "navānupūrvasamāpattaya" iti sūtre vacanāt /
-> yadyeṣa niyamaḥ kathaṃ vyutkrāntasamāpattayo bhavanti /
-> prāthamakalpikaṃ pratyeṣa niyamaḥ /
-> praptaprakāmavāśitvāstu santo vilaṅghyāpi samāpadyante /
-> evamanayoḥ samāpattyorbhūmito 'pi viśeṣaḥ /
-> caturthadhyānatayā 'grābhūmikatvāt /
-> prayogato 'pi niḥsaraṇavihārasaṃjñāpūrvakamanasikāraprayogāt /
-> saṃtānato 'pi pṛthagjanāryasaṃtānatvāt /
-> phalato 'pyāsaṃjñikabhavāgraphalatvāt /
-> vedanīyato 'pi niyatāniyatopapadyobhayathāvedanīyatvāt /
-> prathamotpādanato 'pi dvidhātumanuṣyotpādanāt /
-> kasmāt punarete cittatacaittanirodhasvabhāve satyāvasaṃjñisamāpattiḥ saṃjñāveditanirodhasamāpattiścocyate /
-> tatprātikūlyena tatsamāpattiprayogāt /
-> vedanādijñāne 'pi paracittajñānavacanavat /
-> kathamidānīṃ bahukālaṃ niruddhāccittāt punarapi cittaṃ jāyate /
-> atītasyāpyastitvāt iṣyate vaibhāṣikaiḥ samanantarapratyayatvam /
-> apare punarāhuḥ /
-> kathaṃ tāvad rūpopapannānāṃ ciraniruddhe 'pi rūpe punarapi rūpaṃ jāyate /
-> cittād eva hi taj jāyate na rūpāt /
-> evaṃ cittam apy asmād eva sendriyāt kāyāj jāyate na cittāt /
-> anyonyabījakaṃ hy etadubhayaṃ yaduta cittaṃ ca sendriyaśca kāya iti pūrvācāryāḥ /
-> bhadantavasumitrastvāha paripṛcchāyāṃ "yasyācittikā nirodhasamāpattistasyaiṣa doṣo mama tu sacittikā samāpattiri"ti /
-> ti /
-> bhadantaghoṣaka āha tadidaṃ nopapadyate /
-> "sati hi vijñāne trayāṇāṃ saṃnipātaḥ sparśaḥ /
-> sparśapratyayā ca vedanā saṃjñā cetan''etyuktaṃ bhagavatā /
-> ataḥ saṃjñāvedanayorapyatra nirodho na syāt /
-> athāpi syāt /
-> yathā vedanāpratyayā tṛṣṇe"tyuktam /
-> satyāmapi tu vedanāyāmarhato na tṛṣṇotpattirevaṃ satyapi sparśe vedannādayo na syuriti /
-> tasyāviśeṣitatvāt /
-> avidyāsaṃsparśajaṃ hi veditaṃ pratītyotpannā tṛṣṇetyuktaṃ natu vedanotpattau sparśo viśeṣita ityasamānametat /
-> tasmādacittikā nirodhasamāpattiriti vaibhāṣikāḥ /
-> kathamacittikāyāḥ samāpattitvam /
-> mahābhūtasamatāpādanāt /
-> samāpatticittena ca tāṃ samāpadyante samāgacchantīti samāpattiḥ /
-> kiṃ punarete samāpattī dravyataḥ sta utāho prajñaptitaḥ /
-> dravyata ityāha /
-> cittotpattipratibandhanāt /
-> na /
-> samāpatticittenaiva tatpratibandhanāt /
-> samāpatticittameva hi taccittāntaraviruddhamutpadyate yena kālāntaraṃ cittasyā pravṛttimātraṃ bhavati /
-> tadviruddhāśrayāpādanāt /
-> yā 'sau samāpattiriti prajñapyate taccāpravṛttimātraṃ na pūrvamāsīnna paścāt bhavati vyutthitasyeti saṃskṛtā 'sau samāpattiḥ prajñapyate /
-> athavā āśrayasyaiva tathā samāpādanaṃ samāpattiḥ /
-> evamāsaṃjñikamapi draṣṭavyam /
-> cittamevāsau tatra cittapravṛttiviruddhaṃ labhate taccāpravṛttimātramāsaṃjñikaṃ prajñapyata iti tadetanna varṇayanti /
-> vyākhyāte samāpattī //
-
-The excerpt follows printed 70.21–73.13 in
-`Vasubandhu/Sources/kosabhasya.txt`, with source labels removed
-and the verse number regularized. Its first half overlaps the
-continuous passage studied under VAK 2.43; that duplication preserves
-the full commentary on 2.44's split kārikā. Apparent transcription
-defects remain visible; consequential contextual resolutions are
-identified below. No independent collation is claimed.
-
-## 3. Continuous Conventional Translation
-
-Is the attainment acquired through application even by the Blessed
-One? “No,” he says: “For the Sage it is acquired with awakening.”
-Buddhas acquire it at the same time as the knowledge of exhaustion.
-Nothing belonging to Buddhas is called acquired through application:
-the manifestation of all their qualities depends only on their
-wish. Thus, for them, it is acquired through complete dispassion.
-
-But if the attainment of cessation has not been produced, how is
-the Blessed One established as liberated in both respects at the
-time of the knowledge of exhaustion? He is so established because
-he has mastery over it, as if it had been produced. The western
-teachers say that the bodhisattva produced it earlier, while still
-a trainee. Why is this not accepted? It would also make authoritative
-the elder Upagupta's instructional statement: “One should say that
-the Tathāgata, having produced the attainment of cessation, produces
-the knowledge of exhaustion.”
-
-“Not beforehand.” The Kāśmīra teachers say that producing it earlier
-is not tenable. Why? “Because awakening is attained in thirty-four
-moments.” It is said that the bodhisattva attains awakening in
-thirty-four moments of consciousness: sixteen for direct realization
-of the truths, and eighteen for dispassion from the summit of
-existence, through the nine uninterrupted paths and nine paths of
-liberation that abandon its nine grades of affliction. These make
-thirty-four. Since he enters certainty already free of attachment
-to the Essence of nothingness, the lower levels no longer remain
-to be abandoned. No dissimilar consciousness can occur within this
-interval; hence there is no occasion for the attainment of cessation.
-
-What would follow if a dissimilar consciousness occurred in between?
-He would intend to emerge, whereas bodhisattvas intend not to emerge.
-It is true that they intend not to emerge, but not in the sense of
-never emerging from the path of outflows [the wording is uncertain].
-How, then, is the statement understood, “I shall not break this
-cross-legged posture before attaining the exhaustion of the
-contaminants”? The teachers of the outer regions explain it as
-not departing from that resolve, since all the aims are completed
-in one course. The Kāśmīra teachers, however, maintain their former
-account.
-
-Although these two attainments differ in many respects, “both
-have supports in the Desire and Form Domains.” Both the non-percipient
-attainment and the attainment of cessation can arise in those
-two Domains. Those who deny the non-percipient attainment in the
-Form Domain conflict with this passage: “Can there be Form-Domain
-existence that is not existence consisting of five [the expression
-is obscure]? There can: the existence of percipient Form-Domain
-gods in a dissimilar consciousness, of those who have entered
-the non-percipient attainment or the attainment of cessation,
-and of non-percipient gods who have obtained the non-percipient
-condition.” Thus both attainments have Desire- and Form-Domain
-supports. But there is this distinction: “The attainment called
-cessation is first produced among humans.” It is first produced
-among humans and later in the Form Domain by those who previously
-lost it.
-
-Can it too be lost? Yes, he says; otherwise the Udāyin sūtra
-would be contradicted: “Here, venerable ones, a monk is accomplished
-in conduct, concentration, and prajñā. He repeatedly enters and
-emerges from cessation of recognition and feeling, and understands
-as it is that this possibility exists. If he does not attain
-final knowledge through practice in this very life or at death,
-then, upon the breakup of the body, passing beyond the gods
-who consume morsel-food, he is born in a certain divine mind-made
-body. Born there, he repeatedly enters and emerges from cessation
-of recognition and feeling, and understands as it is that this
-possibility exists.” Here the Blessed One speaks of a divine
-mind-made body belonging to the Form Domain. Yet this attainment
-belongs to the summit of existence. How could one who possesses
-it without having lost it be reborn in the Form Domain?
-
-Members of another school accept an attainment of cessation
-belonging to the fourth dhyāna as well. For them this is established
-even without loss. But precisely that is not established—that
-there is also one belonging to the fourth dhyāna. Why? Because
-the sūtra states “nine successive attainments.” If this is a
-fixed rule, how can there be attainments entered out of order?
-The rule concerns a beginner. Those who have obtained full
-mastery can enter even by skipping intermediate attainments.
-
-Thus the two attainments differ by level, the fourth dhyāna
-and the highest level; by application, attention preceded by
-the conception of escape or of abiding; by continuum, ordinary
-or noble; by result, the non-percipient condition or the summit
-of existence; by maturation, fixed or unfixed, and next-rebirth
-or either of the two later times; and by first production, in
-two Domains or among humans. Why, although both have cessation
-of consciousness and mental factors as their nature, are they
-called the non-percipient attainment and attainment of cessation
-of recognition and feeling? Because their preparatory applications
-are directed against the factors named. It is like speaking
-of knowledge of another's consciousness even when feeling and
-the other factors are also known.
-
-How does consciousness arise again after consciousness has ceased
-for a long time? The Vaibhāṣikas accept that the past consciousness
-serves as the immediately preceding condition because even the
-past exists. Others say: how does material Form arise again
-for those born in the Formless Domain after material Form has
-long ceased? It arises from consciousness, not from material
-Form. Likewise consciousness arises from this body endowed with
-faculties, not from consciousness. The earlier teachers say that
-these two—consciousness and the faculty-endowed body—are seeds
-for one another. The venerable Vasumitra says in the Paripṛcchā:
-“This fault belongs to one whose cessation-attainment is without
-consciousness. My attainment has consciousness.”
-
-The venerable Ghoṣaka says that this is untenable. When cognition
-exists, the conjunction of the three is contact; and the Blessed
-One said that feeling, recognition, and volition are conditioned
-by contact. Thus recognition and feeling would not cease here
-either. Perhaps, however, just as craving is said to be conditioned
-by feeling, yet craving does not arise in an arhat even though
-feeling exists, feeling and the other factors might not arise
-even though contact exists. The cases are unequal, because contact
-has not been qualified in that way. Craving is said to arise
-depending on feeling born of contact with ignorance, whereas
-contact is not so qualified in the arising of feeling. Therefore,
-the Vaibhāṣikas say, cessation-attainment is without consciousness.
-
-How can an attainment without consciousness be an attainment?
-Because it brings the great elements into equilibrium. Also,
-one enters or comes into it through the consciousness of entry;
-thus it is called an attainment. Do these two attainments exist
-as real entities or by designation? As real entities, he says,
-because they obstruct the arising of consciousness. No: that
-obstruction is accomplished by the entry-consciousness itself.
-That consciousness arises opposed to another consciousness,
-bringing about a support incompatible with its arising, so that
-for an interval there is simply non-operation of consciousness.
-That is designated “attainment.” This mere non-operation did
-not exist before and does not exist afterward when one has
-emerged; hence the attainment is designated conditioned. Alternatively,
-attainment is the support's being brought into that condition.
-The non-percipient result should likewise be understood: one
-obtains there a consciousness opposed to the operation of
-consciousness, and the mere non-operation is designated the
-non-percipient condition. They do not accept this account.
-The two attainments have been explained.
-
-The first cited question contains *pañcavyavacāraḥ*, whose exact
-reading is uncertain. The translation does not adopt the research
-file's confident “five destinies.” The counterexample list appears
-to concern the range of form-realm existence and its conditioned
-components, but collation is needed to secure the expression.
+> Is the attainment acquired through preparation even by the Blessed One?
+> No. “For the Sage it is acquired with awakening.” Buddhas acquire it
+> together with knowledge of exhaustion; none of their complete qualities
+> requires ordinary preparatory practice. Teachers of the outer regions say
+> the Bodhisattva produced it earlier as a trainee. Kāśmīra teachers deny
+> this: the Bodhisattva's awakening takes thirty-four consciousness-moments,
+> sixteen for direct realization of truth and eighteen for abandoning the
+> nine grades of summit-level affliction, leaving no interval for a
+> dissimilar consciousness and hence no occasion for the attainment.
+>
+> Although the two attainments differ in many ways, both can arise with
+> Desire- or Form-Principle Faculty-support. The attainment of cessation is
+> first produced among human beings and later can be entered in the Form
+> Principle by those who had previously lost it. The sequential order of
+> nine attainments governs initial acquisition; those with complete mastery
+> may enter them in transposed order.
+>
+> Why are they called the Non-Reflecting attainment and the attainment of
+> cessation when both have the character of cessation of consciousness and
+> associated mental factors? Because their preparatory practice is directed
+> against those respective determinations, as knowledge of another's
+> consciousness is named from its object.
+>
+> How can consciousness arise again after being prevented for a long time?
+> The Vaibhāṣikas say that past consciousness exists and functions as the
+> immediately preceding condition. Others say that, just as Form can arise
+> again in those born with Form after a long interval, consciousness arises
+> from the Faculty-equipped body, not from prior consciousness: consciousness
+> and Faculty-equipped body are reciprocal seed-capacities.
+>
+> Vasumitra says the attainment of cessation is with consciousness.
+> Ghoṣaka objects that, where consciousness exists, the meeting of three
+> gives rise to contact and contact conditions feeling, Reflection, and
+> volition. The proposed exception is rejected as unsupported; the
+> Vaibhāṣikas conclude that the attainment is without consciousness.
+>
+> How can an attainment without consciousness be an attainment? It brings
+> the Great Principles into balance, and one enters it through an
+> attainment-consciousness. Is either attainment a real Dharma or a
+> designation? A real entity is proposed because it obstructs the arising
+> of consciousness. The response is that the attainment-consciousness itself
+> arises opposed to later consciousness, so consciousness merely fails to
+> operate for an interval. The attainment is designated from that
+> non-operation, which was absent before and absent again after emergence;
+> or it is the support itself being brought into that condition. The same
+> account applies to the Non-Reflecting condition.
 
 ## 4. Movement and Voices of the Commentary
 
-The opening completes the Buddha-specific acquisition debate
-embedded in the preceding commentary, preserving the western-teacher
-and Kāśmīra positions and the outer-region reply. The next movement
-distinguishes support from the attainment's own level, then uses
-a sūtra to defend loss and subsequent reacquisition. An unnamed
-school's fourth-dhyāna alternative meets the objection from
-successive attainments. A comparison then gathers differences
-established in VAK 2.42–2.44.
+The passage begins with a Buddha-specific exception, then moves to the
+general support and human first-production rule. A scriptural objection
+requires loss and later re-entry into the attainment. The discussion then
+sets out distinctions between the two attainments before asking how resumed
+consciousness is possible.
 
-The return of consciousness introduces distinct accounts: the
-Vaibhāṣika past-consciousness condition, the earlier teachers'
-reciprocal seeds, and Vasumitra's conscious attainment. Ghoṣaka's
-objection and the contact/feeling debate lead to the explicitly
-Vaibhāṣika conclusion of no consciousness. The final entity-versus-
-designation dispute is separate and ends in recorded disagreement.
+Three distinct explanations of resumption are recorded: past consciousness
+as immediately preceding condition, reciprocal seed-capacity of
+consciousness and Faculty-support, and the claim that cessation-attainment
+retains consciousness. Ghoṣaka's objection supports the Vaibhāṣika
+conclusion that the attainment is without consciousness. The final
+real-Dharma versus designation dispute supplies a critical analysis.
 
-## 5. Support, Level, and Loss
+## 5. Production, Loss, and Re-entry
 
-Both attainments can have bodily support in the Desire or Form Domain.
-This does not make cessation-attainment itself a desire- or
-form-level attainment: the defended account assigns it to the
-summit of existence. The sūtra argument depends precisely on
-this distinction between support and level.
+First production is restricted:
 
-First production of cessation is restricted to humans. Subsequent
-production in the Form Domain is described for those who lost
-it. The argument infers such loss from the stated Form-Domain
-rebirth despite the attainment's higher level. The other school's
-fourth-dhyāna placement would avoid that inference, but is disputed.
+```text
+Cessation attainment:
+    first produced in a human life
 
-The answer about skipping attainments restricts fixed succession
-to initial production. Later mastery allows skipping. It does
-not withdraw the order for beginners or erase the dispute about
-the attainment's proper level.
+Both attainments:
+    require Desire- or Form-Principle Faculty-support
+```
 
-## 6. The Comparison and the Names
+The Bhāṣya nevertheless describes re-entry in a Form-Principle life for one
+who had previously lost the attainment. That is a history-sensitive
+continuity claim, not a denial of the human first-production rule.
 
-The summary distinguishes level, preparatory conception, continuum,
-result, maturation timing, and first production. Its “two later
-times” means the next rebirth and a subsequent life, as explained
-in VAK 2.43; unfixed maturation also permits no result if final
-nirvāṇa occurs. It does not mean two results necessarily occur.
+The sūtra describing a disciplined practitioner who repeatedly enters and
+emerges from cessation after rebirth in a divine mind-made body supplies the
+objection. Since the attainment is otherwise located at the summit of
+existence, the account needs either prior loss or a rival fourth-dhyāna
+location; the latter is attributed to the Nikāyāntarīyas and opposed through
+the sūtra's nine sequential attainments. Complete mastery permits
+transposed-order entry only after the initial ordered acquisition.
 
-The names select the factors against which preparatory application
-is directed. They do not narrow the cessation to recognition
-alone, or recognition and feeling alone, leaving all other mental
-factors operating. The analogy with knowledge of another's
-consciousness explains selective naming despite a wider range.
+## 6. How Cessation Does Not Entail Death
 
-## 7. How Consciousness Returns
+The question is precise: how can consciousness arise again after extended
+non-operation? The passage does not answer by saying that the continuum has
+died and restarted. It preserves causal accounts internal to the living
+continuum:
 
-The Vaibhāṣika reply preserves an immediately preceding condition
-through the existence of past consciousness. Here “immediately
-preceding” is a technical conditioning relation; the question
-itself presupposes a long interval without consciousness.
+```text
+Vaibhasika:
+    past consciousness remains an immediately preceding condition
 
-The reciprocal-seed account instead appeals to consciousness
-and the faculty-endowed body as sources for one another. The
-transcription prints *rūpopapannānām*, born in form, where the
-argument about long-absent material form requires the formless
-case. The translation makes that contextual correction, without
-claiming an independently established reading.
+Earlier teachers:
+    consciousness and Faculty-equipped body carry reciprocal seed-capacity;
+    embodied Faculty-support can ground renewed consciousness
 
-Vasumitra's reply retains consciousness in the attainment. The
-passage does not call it “subtle consciousness,” nor identify
-it as a distinct foundational kind. Those additions would exceed
-the local statement. Ghoṣaka objects that consciousness entails
-contact and hence the factors whose cessation is asserted.
+Critical designation account:
+    entry-consciousness conditions an opposed support;
+    cognitive operation does not occur for an interval;
+    the opposed condition ends and operation resumes
+```
 
-The arhat analogy then tests whether conditioning permits an
-exception. The reply distinguishes qualified contact in the
-craving account from unqualified contact in the feeling account.
-This is the argument offered, not merely an appeal to the earlier
-universal-factor list.
+Each account differs in ontology, but all address resumed operation rather
+than death. The relation of life-continuity is deliberately deferred to the
+next topic and should not be silently imported here.
 
-## 8. Entity or Designation?
+## 7. Consciousness Debate and Designation
 
-The final question asks whether obstruction of consciousness
-requires a distinct attainment-entity. The critical reply assigns
-the work to entry-consciousness and the condition it produces
-in the support. “Attainment” then designates the interval of
-non-operation, or alternatively the support's being brought
-into that condition.
+Vasumitra's with-consciousness proposal tries to avoid the resumption
+problem. Ghoṣaka's objection presses the canonical dependency of contact,
+feeling, Reflection, and volition upon consciousness. The proposed analogy
+to an arhat's non-arising craving despite feeling is rejected because the
+conditions are not parallel. The Vaibhāṣika conclusion is therefore
+*acittaka*, without consciousness.
 
-The account explains why a cessation described as non-operation
-is conditioned: it was not present before entry and no longer
-exists after emergence. This is not the unconditioned cessation
-of the earlier classifications. The parallel application to
-the non-percipient result is also explicitly stated, followed
-by rejection of the interpretation by its opponents.
+That conclusion does not compel a distinct cessation-substance. The final
+critical analysis offers two designation accounts:
 
-Other defects include *ndāyi*, *manuṣyepūtpādyate*, and a damaged
-contact quotation. The English resolves Udāyin, first production
-among humans, and the named feeling/recognition/volition sequence
-contextually. The raw Sanskrit is retained for review.
+```text
+Attainment:
+    designation of consciousness's non-operation,
+    caused by entry-consciousness opposed to later operation
 
-## 9. Philosophical and Organon Study
+or:
+    designation of the support being brought into that opposed condition
+```
 
-Three explanatory questions remain distinct: where the attainment
-can occur, how consciousness can return, and whether the period
-of cessation requires a separate real entity. An answer to one
-does not automatically settle the others. In particular, denying
-consciousness during cessation does not by itself establish the
-reality of a separate obstructing formation.
+Thus a real episode is not denied; what is resisted is multiplying another
+real Dharma beyond the causal transformation and the specified
+non-operation.
 
-For Organon interpretation, the support's acquired condition,
-the non-operation it permits, and the name applied to that interval
-must be kept distinct. The critical account supplies a causal
-explanation without making the designation causally idle; the
-defender nevertheless rejects that reduction. Their disagreement
-is part of the study's result.
+## 8. Interpretation
 
-The comparison of the two attainments requires their genesis and
-path-context, not their shared cessation alone. The Organon reading
-here is limited to keeping the source's distinct questions and
-attributions separate; it does not map them onto further concepts.
+This is the immediate corollary to *nirodha*: the instrument is a finite
+episode of operation and non-operation, not the entire truth of the
+continuum. Cessation does not mean that the whole Dharma has been destroyed
+or that death has occurred. It concerns a lawful interval during which the
+conditions for manifest consciousness and associated factors have been
+opposed.
 
-## 10. Review Status
+The Hub is therefore not the active mental machinery taken alone. Vijñāna
+as Discriminative Cognition joins and governs Perception and Conception;
+its unity is Inconceivable as homogeneous operation, disclosed in the
+Cognition Base. The present Bhāṣya does not identify that governing unity
+with a current citta-profile. It examines how a profile can be suspended
+and later resumed under a transformed support.
 
-Provisional forty-fourth study of the restarted Indriyanirdeśa
-Bhāṣya sequence. The research Bhāṣya, existing Organon kārikā
-anchor, preceding continuous study, and running Sanskrit at
-70.21–73.13 have been compared. The 70.21–71.15 portion overlaps
-the preceding study because 2.44's first half is commented on
-within the continuous 2.43 discussion.
+This is why the Path relation matters: Non-Reflecting attainment and
+cessation attainment can share an operational suspension while differing in
+purpose, support, causal basis, practitioner, and result. The full
+Principle:Rule graph—not the empirical image of a blank episode—determines
+what has occurred.
 
-The complete attainment discussion is translated through its
-explicit closing sentence, including the sūtra argument, return-
-of-consciousness debate, and entity/designation dispute. Consequential
-transcription problems are marked. Original witnesses and existing
-studies are unchanged. The second half of 2.44 resumes at 71.16.
-The life-faculty topic begins at 73.14; VAK 2.45's life clause is
-recited at 73.15 and 73.18, and its four-mark clause at 75.19.
-The life discussion closes at 75.18; the 2.45 marks discussion
-closes at 79.17 before 2.46 begins at 79.18.
+## 9. Review Status
+
+The kārikā and Bhāṣya have been compared with the source transcription at
+70.21–73.13. The Buddha and regional dispute, support and first-production
+rules, loss/re-entry issue, attainment-order rule, citta-resumption
+accounts, with-consciousness objection, and designation account are
+retained. The source witness is unchanged. VAK 2.45 remains untouched.
