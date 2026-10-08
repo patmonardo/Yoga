@@ -1,4 +1,4 @@
-# VAK 2.70 — Closing the Twelve-Kind Succession Account
+# VAK_2.70 — Closing the Twelve-Kind Succession Account
 
 ## 1. Sanskrit (Devanāgarī)
 

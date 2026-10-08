@@ -1,4 +1,4 @@
-# VAK 2.57 — Definitions of Three Results
+# VAK_2.57 — Maturation, Homogeneous Outflow, and Disconnection
 
 ## 1. Sanskrit (Devanāgarī)
 

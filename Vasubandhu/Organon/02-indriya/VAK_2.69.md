@@ -1,4 +1,4 @@
-# VAK 2.69 — Repeated Counts with Different Members
+# VAK_2.69 — A Repeated Count with Different Members
 
 ## 1. Sanskrit (Devanāgarī)
 

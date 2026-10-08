@@ -1,4 +1,4 @@
-# VAK_2.21
+# VAK_2.21 — The Greatest Number of Faculties Possessed
 
 ## 1. Sanskrit (Devanāgarī)
 

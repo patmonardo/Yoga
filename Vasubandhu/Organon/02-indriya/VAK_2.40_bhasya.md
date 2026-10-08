@@ -1,4 +1,4 @@
-# VAK_2.40_bhasya
+# VAK_2.40 Bhāṣya — Relinquishing Non-Acquisition and the Regress of Acquisition
 
 ## 1. Text and Scope
 

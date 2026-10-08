@@ -1,4 +1,4 @@
-# VAK_2.50
+# VAK_2.50 — Co-arisen Cause and Reciprocity
 
 ## 1. Sanskrit (Devanāgarī)
 

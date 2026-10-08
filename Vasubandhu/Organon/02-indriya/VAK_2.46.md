@@ -1,4 +1,4 @@
-# VAK 2.46 — The Conditioned Marks and the Efficacy of Arising
+# VAK_2.46 — What the Marks Explain
 
 ## Source
 

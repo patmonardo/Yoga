@@ -1,4 +1,4 @@
-# VAK_2.22
+# VAK_2.22 — Necessary Co-Arising of Form Dharmas
 
 ## 1. Sanskrit (Devanāgarī)
 

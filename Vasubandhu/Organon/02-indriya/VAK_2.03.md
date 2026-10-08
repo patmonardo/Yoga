@@ -1,4 +1,4 @@
-# VAK_2.03
+# VAK_2.03 — Persistence, Feeling, and Purification
 
 ## 1. Sanskrit (Devanāgarī)
 

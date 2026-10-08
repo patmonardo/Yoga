@@ -1,4 +1,4 @@
-# VAK 2.67 — Desire-Realm Predecessors and Successors
+# VAK_2.67 — Desire-Realm Predecessors and Successors
 
 ## 1. Sanskrit (Devanāgarī)
 

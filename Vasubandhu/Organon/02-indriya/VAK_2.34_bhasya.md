@@ -1,4 +1,4 @@
-# VAK_2.34_bhasya
+# VAK_2.34 Bhāṣya — Consciousness, Mind, Cognition, and Associated Factors
 
 ## 1. Text and Scope
 

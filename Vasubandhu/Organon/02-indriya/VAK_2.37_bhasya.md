@@ -1,4 +1,4 @@
-# VAK_2.37_bhasya
+# VAK_2.37 Bhāṣya — Five Classifications of Acquisition
 
 ## 1. Text and Scope
 

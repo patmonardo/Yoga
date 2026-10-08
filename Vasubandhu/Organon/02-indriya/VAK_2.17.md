@@ -1,4 +1,4 @@
-# VAK_2.17
+# VAK_2.17 — Necessary Possession of Neutral Feeling, Life, and Mind
 
 ## 1. Sanskrit (Devanāgarī)
 

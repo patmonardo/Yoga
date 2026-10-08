@@ -1,4 +1,4 @@
-# VAK_2.38_bhasya
+# VAK_2.38 Bhāṣya — Exceptions to the Temporal Classification of Acquisition
 
 ## 1. Text and Scope
 

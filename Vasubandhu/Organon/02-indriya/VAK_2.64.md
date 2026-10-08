@@ -1,4 +1,4 @@
-# VAK 2.64 — Condition Counts and the Single World-Cause
+# VAK_2.64 — Condition Counts and the Single World-Cause
 
 ## 1. Sanskrit (Devanāgarī)
 

@@ -1,4 +1,4 @@
-# VAK_2.37
+# VAK_2.37 — Five Classifications of Acquisition
 
 ## 1. Sanskrit (Devanāgarī)
 

@@ -1,4 +1,4 @@
-# VAK_2.09
+# VAK_2.09 — Path-Designations and Outflow Classification
 
 ## 1. Sanskrit (Devanāgarī)
 

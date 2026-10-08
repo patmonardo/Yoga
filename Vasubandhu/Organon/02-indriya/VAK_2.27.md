@@ -1,4 +1,4 @@
-# VAK_2.27
+# VAK_2.27 — The Restricted Ground of Afflictions
 
 ## 1. Sanskrit (Devanāgarī)
 

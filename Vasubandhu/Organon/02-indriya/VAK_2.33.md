@@ -1,4 +1,4 @@
-# VAK_2.33
+# VAK_2.33 — Initial Examination, Sustained Examination, Conceit, and Intoxication
 
 ## 1. Sanskrit (Devanāgarī)
 

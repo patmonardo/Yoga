@@ -1,4 +1,4 @@
-# VAK 2.72 — Twenty Kinds, Their Successions, and Attention
+# VAK_2.72 — Twenty Kinds, Their Successions, and Attention
 
 ## 1. Sanskrit (Devanāgarī)
 

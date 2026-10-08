@@ -1,4 +1,4 @@
-# VAK_2.53
+# VAK_2.53 — Cultivated Qualities and Associated Cause
 
 ## 1. Sanskrit (Devanāgarī)
 

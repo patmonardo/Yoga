@@ -1,4 +1,4 @@
-# VAK_2.30
+# VAK_2.30 — Indeterminate Consciousness and Torpor
 
 ## 1. Sanskrit (Devanāgarī)
 

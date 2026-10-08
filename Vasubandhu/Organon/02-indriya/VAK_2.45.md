@@ -1,4 +1,4 @@
-# VAK_2.45
+# VAK_2.45 — Life-Continuity and the Four Conditioned Marks
 
 ## 1. Sanskrit (Devanāgarī)
 

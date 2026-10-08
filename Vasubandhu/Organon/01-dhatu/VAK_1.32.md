@@ -1,4 +1,4 @@
-# VAK_1.32 — Association Modes of the Principle Processor
+# VAK_1.32 — Association Modes in the Principle Processor
 
 ## 1. Sanskrit (Devanāgarī)
 

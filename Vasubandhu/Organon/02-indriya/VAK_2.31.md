@@ -1,4 +1,4 @@
-# VAK_2.31
+# VAK_2.31 — Mental-Factor Exclusions at Higher Levels
 
 ## 1. Sanskrit (Devanāgarī)
 

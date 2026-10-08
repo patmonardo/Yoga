@@ -1,4 +1,4 @@
-# VAK_1.27 — Dhātu Machine: Assignment by Own Characteristic
+# VAK_1.27 — Assignment by Characteristic
 
 ## 1. Sanskrit (Devanāgarī)
 

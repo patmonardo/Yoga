@@ -1,4 +1,4 @@
-# VAK 2.47 — Name-Groups, Sentences, and Phonetic Elements
+# VAK_2.47 — Linguistic Formations and Their Determination
 
 ## Source
 

@@ -1,4 +1,4 @@
-# VAK_2.04
+# VAK_2.04 — Successive Attainment and Liberated Abiding
 
 ## 1. Sanskrit (Devanāgarī)
 

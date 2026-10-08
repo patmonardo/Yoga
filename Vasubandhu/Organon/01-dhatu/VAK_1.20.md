@@ -1,4 +1,4 @@
-# VAK_1.20
+# VAK_1.20 — The Three Systems and Their Teachings
 
 ## 1. Sanskrit (Devanāgarī)
 

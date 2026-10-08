@@ -1,4 +1,4 @@
-# VAK_1.29 — Principle Processor: First Determinations
+# VAK_1.29 — Form Determination, Resistance, and Ethical Indeterminacy
 
 ## 1. Sanskrit (Devanāgarī)
 

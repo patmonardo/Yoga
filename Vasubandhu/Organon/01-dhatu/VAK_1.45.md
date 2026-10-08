@@ -1,4 +1,4 @@
-# VAK_1.45
+# VAK_1.45 — Support and the Naming of Cognition
 
 ## 1. Sanskrit (Devanāgarī)
 

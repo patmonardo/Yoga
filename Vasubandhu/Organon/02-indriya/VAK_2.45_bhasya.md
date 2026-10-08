@@ -1,4 +1,4 @@
-# VAK_2.45_bhasya
+# VAK_2.45 Bhāṣya — Life-Continuity and the Four Conditioned Marks
 
 ## 1. Text and Scope
 

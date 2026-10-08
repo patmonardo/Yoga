@@ -1,4 +1,4 @@
-# VAK_1.23 — The Order of the Six Faculties
+# VAK_1.23 — Ordering Faculties, Conditions, and Principles
 
 ## 1. Sanskrit (Devanāgarī)
 

@@ -1,4 +1,4 @@
-# VAK 2.71 — Beginning the Refinement into Twenty
+# VAK_2.71 — Beginning the Refinement into Twenty
 
 ## 1. Sanskrit (Devanāgarī)
 

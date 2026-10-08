@@ -1,4 +1,4 @@
-# VAK_2.52
+# VAK_2.52 — Homogeneous Cause, Prior Arising, and the Path
 
 ## 1. Sanskrit (Devanāgarī)
 

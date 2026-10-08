@@ -1,4 +1,4 @@
-# VAK 2.66 — Twelve Kinds of Mind
+# VAK_2.66 — Twelve Kinds of Mind
 
 ## 1. Sanskrit (Devanāgarī)
 

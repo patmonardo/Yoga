@@ -1,4 +1,4 @@
-# VAK_1.38 — Causal Classes, Substance Status, and Acquisition
+# VAK_1.38 — The First Pure Moment, Acquisition, and Possession
 
 ## 1. Sanskrit (Devanāgarī)
 

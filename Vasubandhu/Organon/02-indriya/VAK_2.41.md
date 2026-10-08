@@ -1,4 +1,4 @@
-# VAK_2.41
+# VAK_2.41 — Commonality and the Non-Perceptive Condition
 
 ## 1. Sanskrit (Devanāgarī)
 

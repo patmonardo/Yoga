@@ -1,4 +1,4 @@
-# VAK_1.04
+# VAK_1.04 — Dharma Knowing as Real / Ideal
 
 ## 1. Sanskrit (Devanagari)
 

@@ -1,4 +1,4 @@
-# VAK_2.15
+# VAK_2.15 — Cessation of Faculties at Death
 
 ## 1. Sanskrit (Devanāgarī)
 

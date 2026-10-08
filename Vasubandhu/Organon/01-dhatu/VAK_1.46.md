@@ -1,4 +1,4 @@
-# VAK_1.46
+# VAK_1.46 — Plane Relations of Body, Eye, Form, and Cognition
 
 ## 1. Sanskrit (Devanāgarī)
 

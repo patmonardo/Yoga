@@ -1,4 +1,4 @@
-# VAK_2.06
+# VAK_2.06 — Pravṛtti, Nivṛtti, and the Limits of Facultyhood
 
 ## 1. Sanskrit (Devanāgarī)
 

@@ -1,4 +1,4 @@
-# VAK_2.41_bhasya
+# VAK_2.41 Bhāṣya — Commonality and the Non-Perceptive Condition
 
 ## 1. Text and Scope
 

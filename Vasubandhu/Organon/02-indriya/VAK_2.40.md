@@ -1,4 +1,4 @@
-# VAK_2.40
+# VAK_2.40 — Relinquishing Non-Acquisition and the Regress of Acquisition
 
 ## 1. Sanskrit (Devanāgarī)
 

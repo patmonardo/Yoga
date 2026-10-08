@@ -1,4 +1,4 @@
-# VAK_2.36
+# VAK_2.36 — Acquisition and Non-Acquisition
 
 ## 1. Sanskrit (Devanāgarī)
 

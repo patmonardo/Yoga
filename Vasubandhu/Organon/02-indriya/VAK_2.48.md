@@ -1,4 +1,4 @@
-# VAK 2.48 — Commonality, Result, and Acquisition
+# VAK_2.48 — Result-Status and the Close of Dissociated Formations
 
 ## Source
 

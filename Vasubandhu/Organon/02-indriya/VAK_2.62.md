@@ -1,4 +1,4 @@
-# VAK 2.62 — Succession, Object, and Predominance
+# VAK_2.62 — Succession, Object, and Predominance
 
 ## 1. Sanskrit (Devanāgarī)
 

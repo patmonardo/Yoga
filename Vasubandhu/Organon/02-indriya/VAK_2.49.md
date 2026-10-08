@@ -1,4 +1,4 @@
-# VAK 2.49 — Six Types of Cause
+# VAK_2.49 — The Six Causes and Non-obstruction
 
 ## Source
 

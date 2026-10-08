@@ -1,4 +1,4 @@
-# VAK_2.51
+# VAK_2.51 — Consciousness's Followers and Co-arisen Causality
 
 ## 1. Sanskrit (Devanāgarī)
 

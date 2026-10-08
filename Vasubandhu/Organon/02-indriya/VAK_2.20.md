@@ -1,4 +1,4 @@
-# VAK_2.20
+# VAK_2.20 — The Fewest Faculties Possessed
 
 ## 1. Sanskrit (Devanāgarī)
 

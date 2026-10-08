@@ -14,8 +14,8 @@ done
 pandoc "${sources[@]}" \
   --from=markdown+pipe_tables+fenced_code_blocks+raw_tex \
   --pdf-engine=xelatex \
-  --lua-filter="$organon_dir/editions/pagebreak.lua" \
-  --include-in-header="$organon_dir/editions/book-header.tex" \
+  --lua-filter="$edition_dir/pagebreak.lua" \
+  --include-in-header="$edition_dir/book-header.tex" \
   --metadata title="The Organon Kośa: Dhātunirdeśa Kārikā" \
   --metadata subtitle="A Sequential Study Edition" \
   --metadata author="The Organon Project" \

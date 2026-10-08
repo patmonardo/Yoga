@@ -1,4 +1,4 @@
-# VAK_1.39 — Field Relations and Functional Participation
+# VAK_1.39 — Internal Principles, Fields, and Functional Participation
 
 ## 1. Sanskrit (Devanāgarī)
 

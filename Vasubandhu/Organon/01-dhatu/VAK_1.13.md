@@ -1,4 +1,4 @@
-# VAK_1.13 — Worldly Names and the Wind Principle
+# VAK_1.13 — Worldly Names, the Form-Base, and Avijñapti
 
 ## 1. Sanskrit (Devanāgarī)
 

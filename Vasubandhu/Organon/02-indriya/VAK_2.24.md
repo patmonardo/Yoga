@@ -1,4 +1,4 @@
-# VAK_2.24
+# VAK_2.24 — The Ten Factors in Every Consciousness
 
 ## 1. Sanskrit (Devanāgarī)
 

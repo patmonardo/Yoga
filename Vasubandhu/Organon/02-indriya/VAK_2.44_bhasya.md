@@ -1,4 +1,4 @@
-# VAK_2.44_bhasya
+# VAK_2.44 Bhāṣya — Cessation Attainment: Production, Loss, and Re-entry
 
 ## 1. Text and Scope
 

@@ -1,4 +1,4 @@
-# VAK_2.16
+# VAK_2.16 — Faculties Through Which the Fruits Are Attained
 
 ## 1. Sanskrit (Devanāgarī)
 

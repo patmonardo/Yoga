@@ -1,4 +1,4 @@
-# VAK_2.19
+# VAK_2.19 — Possession of the Realization Faculties
 
 ## 1. Sanskrit (Devanāgarī)
 

@@ -1,4 +1,4 @@
-# VAK_2.32_bhasya
+# VAK_2.32 Bhāṣya — Shamelessness, Lack of Moral Concern, Affection, Confidence, and Respect
 
 ## 1. Text and Scope
 

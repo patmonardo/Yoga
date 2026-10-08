@@ -1,4 +1,4 @@
-# VAK_2.18
+# VAK_2.18 — Further Relations of Necessary Possession
 
 ## 1. Sanskrit (Devanāgarī)
 

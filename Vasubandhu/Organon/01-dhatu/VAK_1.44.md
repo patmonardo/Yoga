@@ -1,4 +1,4 @@
-# VAK_1.44
+# VAK_1.44 — Condition Extent and Cognition Supports
 
 ## 1. Sanskrit (Devanāgarī)
 

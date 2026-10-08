@@ -1,4 +1,4 @@
-# VAK_1.03
+# VAK_1.03 — Why Abhidharma Instruction Is Necessary
 
 ## 1. Sanskrit (Devanāgarī)
 

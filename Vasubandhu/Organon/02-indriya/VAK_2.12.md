@@ -1,4 +1,4 @@
-# VAK_2.12
+# VAK_2.12 — Faculties and Realm-Affiliation
 
 ## 1. Sanskrit (Devanāgarī)
 

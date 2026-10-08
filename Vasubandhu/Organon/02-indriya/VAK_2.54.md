@@ -1,4 +1,4 @@
-# VAK_2.54
+# VAK_2.54 — Pervasive Cause and Karmic Maturation
 
 ## 1. Sanskrit (Devanāgarī)
 

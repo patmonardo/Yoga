@@ -1,4 +1,4 @@
-# VAK_1.43
+# VAK_1.43 — Both Eyes, Reaching, and Contact
 
 ## 1. Sanskrit (Devanāgarī)
 

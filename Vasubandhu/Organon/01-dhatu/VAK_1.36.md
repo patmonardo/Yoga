@@ -1,4 +1,4 @@
-# VAK_1.36 — Operation of the Outer Principle Tetrad
+# VAK_1.36 — Cutting, Burning, and Weighing
 
 ## 1. Sanskrit (Devanāgarī)
 

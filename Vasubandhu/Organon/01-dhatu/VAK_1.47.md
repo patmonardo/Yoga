@@ -1,4 +1,4 @@
-# VAK_1.47
+# VAK_1.47 — Hearing, Body-Cognition, and Mind Across Planes
 
 ## 1. Sanskrit (Devanāgarī)
 

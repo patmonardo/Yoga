@@ -1,4 +1,4 @@
-# VAK_1.06
+# VAK_1.06 — Disjunction and the Obstruction of Arising
 
 ## 1. Sanskrit (Devanāgarī)
 

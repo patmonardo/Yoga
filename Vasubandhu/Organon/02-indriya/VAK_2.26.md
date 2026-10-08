@@ -1,4 +1,4 @@
-# VAK_2.26
+# VAK_2.26 — Afflicted and Unwholesome Mental Factors
 
 ## 1. Sanskrit (Devanāgarī)
 

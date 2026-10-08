@@ -1,4 +1,4 @@
-# VAK_2.43
+# VAK_2.43 — The Attainment of Cessation
 
 ## 1. Sanskrit (Devanāgarī)
 

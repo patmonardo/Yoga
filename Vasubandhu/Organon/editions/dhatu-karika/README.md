@@ -7,6 +7,8 @@ Canonical editable sources are `Organon/01-dhatu/VAK_1.01.md` through
 `VAK_1.48.md`. This edition compiles those studies in numerical order;
 Bhāṣya studies are not build inputs.
 
+This directory contains its own print header and page-break filter.
+
 Run `./build.sh` from this directory. Requires Pandoc, XeLaTeX, and the
 FreeSerif, Lato, and FreeMono fonts.
 

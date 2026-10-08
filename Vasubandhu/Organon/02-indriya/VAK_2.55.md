@@ -1,4 +1,4 @@
-# VAK 2.55 — Temporal Scope of Causes and Their Fruits
+# VAK_2.55 — Temporal Causes, Disconnection, and the Unconditioned
 
 ## 1. Sanskrit (Devanāgarī)
 

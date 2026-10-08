@@ -1,0 +1,79 @@
+\usepackage[table]{xcolor}
+\usepackage{titlesec}
+\usepackage{fancyhdr}
+\usepackage{microtype}
+\usepackage{setspace}
+\usepackage{enumitem}
+\usepackage{booktabs}
+\usepackage{longtable}
+\usepackage{array}
+\usepackage{fvextra}
+
+\definecolor{organonNavy}{HTML}{17324D}
+\definecolor{organonBlue}{HTML}{246B8E}
+\definecolor{organonTeal}{HTML}{23877B}
+\definecolor{organonGold}{HTML}{B7832F}
+\definecolor{organonInk}{HTML}{25313B}
+\definecolor{organonMist}{HTML}{EEF4F4}
+\definecolor{organonRule}{HTML}{A9BCC5}
+
+\color{organonInk}
+\setstretch{1.08}
+\setlength{\parskip}{0.48em}
+\setlength{\parindent}{0pt}
+\setlist{itemsep=0.2em,topsep=0.35em}
+\setlength{\emergencystretch}{3em}
+
+\titleformat{\section}
+  {\color{organonNavy}\normalfont\LARGE\bfseries}
+  {}{0pt}{}
+  [\vspace{0.2em}\color{organonGold}\titlerule]
+\titlespacing*{\section}{0pt}{0pt}{1.1em}
+
+\titleformat{\subsection}
+  {\color{organonBlue}\normalfont\Large\bfseries}
+  {}{0pt}{}
+\titlespacing*{\subsection}{0pt}{1.45em}{0.55em}
+
+\titleformat{\subsubsection}
+  {\color{organonTeal}\normalfont\large\bfseries}
+  {}{0pt}{}
+\titlespacing*{\subsubsection}{0pt}{1.15em}{0.4em}
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{\small\color{organonBlue}\textsc{The Organon Kośa}}
+\fancyhead[R]{\small\color{organonTeal}\textsc{Study Edition}}
+\fancyfoot[L]{\scriptsize\color{organonBlue}© 2026 The Organon Project. All rights reserved.}
+\fancyfoot[C]{\color{organonGold}\thepage}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\headrule}{\hbox to\headwidth{\color{organonRule}\leaders\hrule height \headrulewidth\hfill}}
+
+\AtBeginEnvironment{quote}{%
+  \color{organonNavy}%
+  \setlength{\leftskip}{1.1em}%
+  \setlength{\rightskip}{1.1em}%
+}
+
+\AtBeginEnvironment{longtable}{\small\rowcolors{2}{organonMist}{white}}
+\AtEndEnvironment{longtable}{\normalsize}
+
+\DefineVerbatimEnvironment{Highlighting}{Verbatim}{
+  breaklines=true,
+  breakanywhere=true,
+  commandchars=\\\{\},
+  fontsize=\small,
+  frame=single,
+  rulecolor=\color{organonRule},
+  framesep=4mm
+}
+
+\AtBeginDocument{%
+  \hypersetup{
+    colorlinks=true,
+    linkcolor=organonBlue,
+    urlcolor=organonTeal,
+    citecolor=organonGold,
+    pdfauthor={The Organon Project}
+  }%
+}

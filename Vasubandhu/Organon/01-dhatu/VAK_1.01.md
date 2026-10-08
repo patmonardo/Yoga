@@ -1,4 +1,4 @@
-# VAK_1.01
+# VAK_1.01 — Liberation through Instruction According to Reality
 
 ## 1. Sanskrit (Devanāgarī)
 

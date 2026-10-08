@@ -1,4 +1,4 @@
-# VAK_1.21 — Feeling and Reflection as Distinct Bases
+# VAK_1.21 — Why Feeling and Reflection Receive Distinct Bases
 
 ## 1. Sanskrit (Devanāgarī)
 

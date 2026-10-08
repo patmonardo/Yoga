@@ -1,4 +1,4 @@
-# VAK_2.11
+# VAK_2.11 — Ethical Quality of the Faculties
 
 ## 1. Sanskrit (Devanāgarī)
 

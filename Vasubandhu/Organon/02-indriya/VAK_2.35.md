@@ -1,4 +1,4 @@
-# VAK_2.35
+# VAK_2.35 — Dissociated Formations
 
 ## 1. Sanskrit (Devanāgarī)
 

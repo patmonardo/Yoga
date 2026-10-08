@@ -1,4 +1,4 @@
-# VAK_2.32
+# VAK_2.32 — Shamelessness, Lack of Moral Concern, Affection, Confidence, and Respect
 
 ## 1. Sanskrit (Devanāgarī)
 

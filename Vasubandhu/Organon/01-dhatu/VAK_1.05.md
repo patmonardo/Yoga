@@ -1,4 +1,4 @@
-# VAK_1.05
+# VAK_1.05 — The Pure Field and Space as Non-Obstruction
 
 ## 1. Sanskrit (Devanāgarī)
 

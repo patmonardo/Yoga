@@ -1,4 +1,4 @@
-# VAK_1.48
+# VAK_1.48 — Knowability, Permanence, and Faculties
 
 ## 1. Sanskrit (Devanāgarī)
 

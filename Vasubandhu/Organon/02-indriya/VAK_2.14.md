@@ -1,4 +1,4 @@
-# VAK_2.14
+# VAK_2.14 — Initial Acquisition as Maturation
 
 ## 1. Sanskrit (Devanāgarī)
 

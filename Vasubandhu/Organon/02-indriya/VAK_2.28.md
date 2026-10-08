@@ -1,4 +1,4 @@
-# VAK_2.28
+# VAK_2.28 — Wholesome Consciousness and Remorse
 
 ## 1. Sanskrit (Devanāgarī)
 

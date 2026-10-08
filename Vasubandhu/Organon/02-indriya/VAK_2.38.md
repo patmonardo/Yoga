@@ -1,4 +1,4 @@
-# VAK_2.38
+# VAK_2.38 — Exceptions to the Temporal Classification of Acquisition
 
 ## 1. Sanskrit (Devanāgarī)
 

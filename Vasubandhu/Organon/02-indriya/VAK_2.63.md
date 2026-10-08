@@ -1,4 +1,4 @@
-# VAK 2.63 — Activity and the State of the Conditioned Dharma
+# VAK_2.63 — Activity and the State of the Conditioned Dharma
 
 ## 1. Sanskrit (Devanāgarī)
 

@@ -1,4 +1,4 @@
-# VAK_2.39_bhasya
+# VAK_2.39 Bhāṣya — Non-Acquisition and Ordinary-Person Status
 
 ## 1. Text and Scope
 

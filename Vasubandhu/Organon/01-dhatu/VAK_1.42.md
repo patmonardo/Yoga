@@ -1,4 +1,4 @@
-# VAK_1.42 — The Eye, Seeing, and Attribution
+# VAK_1.42 — Does the Eye or Visual Cognition See?
 
 ## 1. Sanskrit (Devanāgarī)
 

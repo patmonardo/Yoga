@@ -1,4 +1,4 @@
-# VAK 2.56 — Principal Fruits of the Six Causes
+# VAK_2.56 — Assigning Results to Causes
 
 ## 1. Sanskrit (Devanāgarī)
 

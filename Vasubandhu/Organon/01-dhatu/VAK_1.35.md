@@ -1,4 +1,4 @@
-# VAK_1.35 — Principle, Principle-Dependent Form, and Aggregation
+# VAK_1.35 — Principles, Principle-Dependent Form, and Aggregation
 
 ## 1. Sanskrit (Devanāgarī)
 

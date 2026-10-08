@@ -1,4 +1,4 @@
-# VAK_2.01
+# VAK_2.01 — Faculties and Governing Efficacy
 
 ## 1. Sanskrit (Devanāgarī)
 

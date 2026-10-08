@@ -1,4 +1,4 @@
-# VAK_2.07
+# VAK_2.07 — Bodily Feeling and Third-Dhyāna Pleasure
 
 ## 1. Sanskrit (Devanāgarī)
 

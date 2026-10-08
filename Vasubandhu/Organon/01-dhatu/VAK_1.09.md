@@ -1,4 +1,4 @@
-# VAK_1.09 — Form Base: faculties, Meanings, and Avijñapti
+# VAK_1.09 — The Form Base and Its Support Relations
 
 ## 1. Sanskrit (Devanāgarī)
 

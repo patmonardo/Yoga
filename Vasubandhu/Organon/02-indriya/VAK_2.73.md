@@ -1,4 +1,4 @@
-# VAK 2.73 — Acquisition and the Close of Indriyanirdeśa
+# VAK_2.73 — Acquisition and the Close of Indriyanirdeśa
 
 ## 1. Sanskrit (Devanāgarī)
 

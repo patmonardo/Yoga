@@ -1,4 +1,4 @@
-# VAK 2.60 — Four Dharma Classes and Cause Exclusions
+# VAK_2.60 — Dharma Classes and Their Causes
 
 ## 1. Sanskrit (Devanāgarī)
 

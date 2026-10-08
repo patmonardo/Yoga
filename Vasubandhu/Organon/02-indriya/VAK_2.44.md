@@ -1,4 +1,4 @@
-# VAK_2.44
+# VAK_2.44 — Cessation Attainment: Production, Loss, and Re-entry
 
 ## 1. Sanskrit (Devanāgarī)
 

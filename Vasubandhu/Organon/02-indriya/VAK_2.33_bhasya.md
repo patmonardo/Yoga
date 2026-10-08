@@ -1,4 +1,4 @@
-# VAK_2.33_bhasya
+# VAK_2.33 Bhāṣya — Initial Examination, Sustained Examination, Conceit, and Intoxication
 
 ## 1. Text and Scope
 

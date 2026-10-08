@@ -1,4 +1,4 @@
-# VAK_2.05
+# VAK_2.05 — The Scope of the Faculty Enumeration
 
 ## 1. Sanskrit (Devanāgarī)
 

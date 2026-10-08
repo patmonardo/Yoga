@@ -1,4 +1,4 @@
-# VAK_2.10
+# VAK_2.10 — Maturation, Lifespan, and Result-Producing Faculties
 
 ## 1. Sanskrit (Devanāgarī)
 

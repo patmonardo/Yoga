@@ -1,4 +1,4 @@
-# VAK_2.43_bhasya
+# VAK_2.43 Bhāṣya — The Attainment of Cessation
 
 ## 1. Text and Scope
 

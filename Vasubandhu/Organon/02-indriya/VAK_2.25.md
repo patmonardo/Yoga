@@ -1,4 +1,4 @@
-# VAK_2.25
+# VAK_2.25 — The Wholesome Great-Ground Factors
 
 ## 1. Sanskrit (Devanāgarī)
 

@@ -1,4 +1,4 @@
-# VAK_2.35_bhasya
+# VAK_2.35 Bhāṣya — Dissociated Formations
 
 ## 1. Text and Scope
 

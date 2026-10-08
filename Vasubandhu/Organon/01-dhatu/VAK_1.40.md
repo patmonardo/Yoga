@@ -1,4 +1,4 @@
-# VAK_1.40 — Path Status and Modes of Abandonment
+# VAK_1.40 — Seeing, Cultivation, and Abandonment
 
 ## 1. Sanskrit (Devanāgarī)
 

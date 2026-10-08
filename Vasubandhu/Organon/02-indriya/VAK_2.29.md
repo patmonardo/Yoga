@@ -1,4 +1,4 @@
-# VAK_2.29
+# VAK_2.29 — Counting Unwholesome Mental Factors
 
 ## 1. Sanskrit (Devanāgarī)
 

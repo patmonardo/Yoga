@@ -1,4 +1,4 @@
-# VAK_1.15 — Formations and the Dharma Classifications
+# VAK_1.15 — Formations, and the Dharma Essence and Principle
 
 ## 1. Sanskrit (Devanāgarī)
 

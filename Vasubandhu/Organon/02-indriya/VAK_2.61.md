@@ -1,4 +1,4 @@
-# VAK 2.61 — Opening the Four Conditions
+# VAK_2.61 — Opening the Four Conditions
 
 ## 1. Sanskrit (Devanāgarī)
 

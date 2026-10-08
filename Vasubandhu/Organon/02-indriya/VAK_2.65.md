@@ -1,4 +1,4 @@
-# VAK 2.65 — Great Principles and Derived Form
+# VAK_2.65 — Elements and Derived Form
 
 ## 1. Sanskrit (Devanāgarī)
 

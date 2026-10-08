@@ -1,4 +1,4 @@
-# VAK_2.34
+# VAK_2.34 — Consciousness, Mind, Cognition, and Associated Factors
 
 ## 1. Sanskrit (Devanāgarī)
 

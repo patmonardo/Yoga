@@ -1,4 +1,4 @@
-# VAK_1.41 — Seeing, View, and Science of Principles
+# VAK_1.41 — The Eye, Science of Principles, and View
 
 ## 1. Sanskrit (Devanāgarī)
 

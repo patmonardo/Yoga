@@ -1,4 +1,4 @@
-# VAK 2.58 — Efficacy and Predominance as Result-Relations
+# VAK_2.58 — Efficacy, Attainment, and Fruit of Predominance
 
 ## 1. Sanskrit (Devanāgarī)
 

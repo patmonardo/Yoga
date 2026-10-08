@@ -1,4 +1,4 @@
-# VAK_2.08
+# VAK_2.08 — Gladness, Distress, and the Unity of Neutral Feeling
 
 ## 1. Sanskrit (Devanāgarī)
 

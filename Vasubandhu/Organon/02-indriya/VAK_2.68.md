@@ -1,4 +1,4 @@
-# VAK 2.68 — Neutral Desire-Realm and Wholesome Form-Realm Mind
+# VAK_2.68 — Neutral Desire-Realm and Wholesome Form-Realm Mind
 
 ## 1. Sanskrit (Devanāgarī)
 

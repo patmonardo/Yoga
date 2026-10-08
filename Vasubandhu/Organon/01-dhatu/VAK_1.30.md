@@ -1,4 +1,4 @@
-# VAK_1.30
+# VAK_1.30 — Ethical Classification and Fourteen Principles in the Form Realm
 
 ## 1. Sanskrit (Devanāgarī)
 

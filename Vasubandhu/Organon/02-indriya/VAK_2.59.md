@@ -1,4 +1,4 @@
-# VAK 2.59 — Taking and Giving Fruit
+# VAK_2.59 — Taking and Giving Results
 
 ## 1. Sanskrit (Devanāgarī)
 

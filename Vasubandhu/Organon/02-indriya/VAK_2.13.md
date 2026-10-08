@@ -1,4 +1,4 @@
-# VAK_2.13
+# VAK_2.13 — What Is and Is Not to Be Abandoned
 
 ## 1. Sanskrit (Devanāgarī)
 

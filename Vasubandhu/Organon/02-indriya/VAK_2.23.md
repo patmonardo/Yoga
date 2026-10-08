@@ -1,4 +1,4 @@
-# VAK_2.23
+# VAK_2.23 — Co-Arising and the Grounds of Mental Factors
 
 ## 1. Sanskrit (Devanāgarī)
 

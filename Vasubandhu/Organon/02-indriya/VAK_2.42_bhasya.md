@@ -1,4 +1,4 @@
-# VAK_2.42_bhasya
+# VAK_2.42 Bhāṣya — The Non-Perceptive Attainment
 
 ## 1. Text and Scope
 

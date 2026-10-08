@@ -1,4 +1,4 @@
-# VAK_2.39
+# VAK_2.39 — Non-Acquisition and Ordinary-Person Status
 
 ## 1. Sanskrit (Devanāgarī)
 

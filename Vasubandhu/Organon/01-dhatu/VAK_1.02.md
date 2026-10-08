@@ -1,4 +1,4 @@
-# VAK_1.02
+# VAK_1.02 — Abhidharma as Attained Knowing, Path, and Treasury
 
 ## 1. Sanskrit (Devanāgarī)
 

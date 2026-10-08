@@ -1,4 +1,4 @@
-# VAK_2.02
+# VAK_2.02 — Governing Apprehension and Distinguishing Faculties
 
 ## 1. Sanskrit (Devanāgarī)
 

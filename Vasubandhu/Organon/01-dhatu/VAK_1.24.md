@@ -1,4 +1,4 @@
-# VAK_1.24 — Naming the Form Essence and Dharma Essence
+# VAK_1.24 — Why One Essence Is Named Form and One Dharma
 
 ## 1. Sanskrit (Devanāgarī)
 

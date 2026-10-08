@@ -1,4 +1,4 @@
-# VAK_2.36_bhasya
+# VAK_2.36 Bhāṣya — Acquisition and Non-Acquisition
 
 ## 1. Text and Scope
 

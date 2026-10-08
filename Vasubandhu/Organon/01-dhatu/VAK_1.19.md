@@ -1,4 +1,4 @@
-# VAK_1.19 — One Principle, Three Commonalities
+# VAK_1.19 — Three Commonalities and One Principle
 
 ## 1. Sanskrit (Devanāgarī)
 

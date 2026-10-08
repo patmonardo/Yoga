@@ -1,4 +1,4 @@
-# VAK_1.18 — The Skandha Theory of Inclusion by Own-Nature
+# VAK_1.18 — Own-Nature and the Skandha Theory
 
 ## 1. Sanskrit (Devanāgarī)
 
