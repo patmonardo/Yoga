@@ -1,4 +1,4 @@
-# VAK_2.42 — The Non-Perceptive Attainment
+# VAK_2.42 — The Non-Reflecting Attainment
 
 ## 1. Sanskrit (Devanāgarī)
 
