@@ -1,4 +1,4 @@
-# VAK_2.41 — Commonality and the Non-Perceptive Condition
+# VAK_2.41 — Commonality and the Non-Reflecting Condition
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -29,8 +29,8 @@ te bṛhatphalāḥ → te bṛhat-phalāḥ
 |---|---|---|
 | sabhāgatā | nominative feminine singular | class-commonality |
 | sattva-sāmyam | nominative neuter singular | sameness among sentient beings |
-| āsaṃjñikam | nominative neuter singular | non-percipient condition |
-| asaṃjñiṣu | locative masculine plural | among non-percipient beings |
+| āsaṃjñikam | nominative neuter singular | Non-Reflecting condition |
+| asaṃjñiṣu | locative masculine plural | among Non-Reflecting beings |
 | nirodhaḥ | nominative masculine singular | cessation |
 | citta-caittānām | genitive plural | of consciousness and associated mental factors |
 | vipākaḥ | nominative masculine singular | maturation-result |
@@ -39,13 +39,13 @@ te bṛhatphalāḥ → te bṛhat-phalāḥ
 
 ## 4. Scientific English Rendering
 
-> Class-commonality is sameness among sentient beings. The non-percipient
-> condition among non-percipient beings is cessation of consciousness and
+> Class-commonality is sameness among sentient beings. The Non-Reflecting
+> condition among Non-Reflecting beings is cessation of consciousness and
 > associated mental factors; it is a maturation-result. Those beings are
 > Bṛhatphala.
 
-The Bhāṣya explains the non-percipient condition as the maturation of the
-non-percipient attainment. During its interval, consciousness and associated
+The Bhāṣya explains the Non-Reflecting condition as the maturation of the
+Non-Reflecting attainment. During its interval, consciousness and associated
 mental factors are prevented from arising; they arise at rebirth into that
 state and again at departure from it.
 
@@ -62,7 +62,7 @@ sentient kinds, and how its own differentiated instances are grouped.
 *Āsaṃjñika* is different. It is a specified maturation-result in certain
 Bṛhatphala beings: the future arising of consciousness and associated mental
 factors is prevented for a long interval, like a dam holding back river
-water. It is not the general absence of cognition, nor a proof that all
+water. It is not the general absence of Reflection, nor a proof that all
 mental determination has been eliminated.
 
 The Kośa-wide synthesis remains: Vijñāna is Discriminative Cognition joining
@@ -89,11 +89,11 @@ Critical account:
         no additional commonality-entity is established
 ```
 
-The non-percipient condition:
+The Non-Reflecting condition:
 
 ```text
-NonPercipientAttainment(S)
-    → MaturationResult(S, NonPercipientCondition)
+NonReflectingAttainment(S)
+    → MaturationResult(S, NonReflectingCondition)
     → PreventsArising(S, ConsciousnessAndAssociatedFactors)
        for a long interval
 ```
@@ -111,10 +111,10 @@ The Bhāṣya records four alternatives concerning whether commonality is
 relinquished or acquired at death and rebirth. It uses entry into the
 certainty of the noble Path and transition of destiny as distinct cases.
 These examples belong to the debate over commonality and must not be merged
-with the non-percipient maturation account.
+with the Non-Reflecting maturation account.
 
-After a very long interval, non-percipient beings depart with the arising of
-recognition and are reborn in the Desire Principle. The former attainment's
+After a very long interval, Non-Reflecting beings depart with the arising of
+Reflection and are reborn in the Desire Principle. The former attainment's
 formative force is exhausted and no new force has been accumulated. The
 source's simile compares this to arrows whose force is spent.
 
@@ -128,14 +128,14 @@ vak:VAK_2_41
     a vak:Karika ;
     rdfs:label "VAK 2.41" ;
     vak:hasTopic vak:ClassCommonality,
-        vak:NonPercipientCondition ;
+        vak:NonReflectingCondition ;
     vak:belongsTo vak:Indriyanirdesa .
 
 vak:VaibhasikaCommonality
     vak:asserts vak:CommonalityAsRealDharma .
 
-vak:NonPercipientCondition
-    vak:isMaturationResultOf vak:NonPercipientAttainment ;
+vak:NonReflectingCondition
+    vak:isMaturationResultOf vak:NonReflectingAttainment ;
     vak:preventsArisingOf vak:ConsciousnessAndAssociatedFactors ;
     vak:occursAmong vak:BrhatphalaBeings .
 ```

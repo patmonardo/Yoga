@@ -1,9 +1,9 @@
-# VAK_2.41 Bhāṣya — Commonality and the Non-Perceptive Condition
+# VAK_2.41 Bhāṣya — Commonality and the Non-Reflecting Condition
 
 ## 1. Text and Scope
 
 This study covers the Bhāṣya at 67.13–68.27. It first examines whether
-class-commonality is a distinct real Dharma, then defines the non-percipient
+class-commonality is a distinct real Dharma, then defines the Non-Reflecting
 condition as a maturation-result among certain Bṛhatphala beings.
 
 ## 2. Lexical Analysis
@@ -16,8 +16,8 @@ condition as a maturation-result among certain Bṛhatphala beings.
 | dharma-sabhāgatā | compound | differentiated Dharma-commonality |
 | pṛthagjana-sabhāgatā | compound | ordinary-person commonality |
 | ārya-sabhāgatā | compound | noble commonality |
-| āsaṃjñika | neuter adjective/substantive | non-percipient condition |
-| asaṃjñi-samāpatti | compound | non-percipient attainment |
+| āsaṃjñika | neuter adjective/substantive | Non-Reflecting condition |
+| asaṃjñi-samāpatti | compound | Non-Reflecting attainment |
 | citta-caitta-nirodha | compound | cessation of consciousness and associated factors |
 | vipāka | masculine noun | maturation-result |
 | Bṛhatphala | proper noun | Great-Fruit beings |
@@ -46,12 +46,12 @@ condition as a maturation-result among certain Bṛhatphala beings.
 > that “human” and similar classifications apply to them. The alternative is
 > not further explained.
 >
-> What is the non-percipient condition? “Among non-percipient beings, it
+> What is the Non-Reflecting condition? “Among Non-Reflecting beings, it
 > is cessation of consciousness and associated mental factors.” In certain
 > Bṛhatphala beings, this is a real Dharma through which future
 > consciousness and associated factors are prevented from arising for an
 > interval, like river water held back by a dam. It is exclusively the
-> maturation-result of the non-percipient attainment. Consciousness occurs
+> maturation-result of the Non-Reflecting attainment. Consciousness occurs
 > at rebirth and departure. After a long interval, recognition arises and
 > the beings depart, as if waking from a long sleep; they are reborn only
 > in the Desire Principle because the force of the former attainment is
@@ -66,7 +66,7 @@ universal, and the scope of scriptural wording. The answer gives an
 alternative account but expressly does not develop it.
 
 The second half changes topic. It identifies a conditioned result of the
-non-percipient attainment, gives its causal source, cosmic location, and
+Non-Reflecting attainment, gives its causal source, cosmic location, and
 boundary events, then explains its departure through exhaustion of the
 prior attainment's formative force.
 
@@ -89,9 +89,9 @@ establish another real Dharma. The reply's positive alternative is modest:
 the already conditioned formations can be such that a classification applies.
 Its mechanism is not supplied and must not be invented.
 
-## 6. The Non-Percipient Maturation-Result
+## 6. The Non-Reflecting Maturation-Result
 
-The non-percipient condition has a different argumentative role. It is not
+The Non-Reflecting condition has a different argumentative role. It is not
 the proposed ground of a shared class, but a maturation-result that prevents
 future consciousness and associated factors from arising for an interval.
 The river-dam simile specifies prevention of arising rather than destruction
@@ -99,7 +99,7 @@ of all conditions.
 
 The Bhāṣya limits the condition to some Bṛhatphala beings in a distinct
 region. It explicitly allows consciousness at entry and departure, so
-“non-percipient” cannot be expanded into a claim of a timeless or absolute
+“Non-Reflecting” cannot be expanded into a claim of a timeless or absolute
 absence of all cognition. The subsequent Desire-Principle rebirth follows
 the exhaustion of the former attainment's formative force.
 
@@ -111,7 +111,7 @@ Bhāṣya's critique allows common classification to be grounded in the
 relation of already specified formations without multiplying another real
 Dharma.
 
-The non-percipient condition instead specifies a causal restriction inside
+The Non-Reflecting condition instead specifies a causal restriction inside
 the Impure Wheel. It is a finite maturation-result whose force prevents
 future cognitive operation for an interval and then exhausts. It is not
 the Hub, not liberation, and not the unitary Vijñāna that governs
@@ -129,6 +129,6 @@ conditioned interruption discussed locally.
 
 The kārikā and Bhāṣya have been compared with the source transcription at
 67.13–68.27. The Vaibhāṣika claim, its differentiated forms, all central
-objections, the limited alternative account, the non-percipient maturation
+objections, the limited alternative account, the Non-Reflecting maturation
 condition, the river-dam simile, Bṛhatphala placement, boundary cognition,
 and Desire-Principle rebirth are retained. VAK 2.42 is unchanged.
