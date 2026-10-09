@@ -6,14 +6,24 @@
 >
 > dhātunā ca svabhāvena parabhāvaviyogataḥ // 1.18 //
 
-> The inclusion of all is through one base, one essence, and one principle,
-> by own-nature, because of separation from another's nature.
+### Bhāṣya-informed study translation
+
+> All dharmas are included together through the Form Base, Mind Essence, and Dharma Principle. Inclusion is by a dharma's own nature, not by another's nature from which it is distinct.
+
+The Bhāṣya further distinguishes the scopes of the three classifications:
+
+```text
+bases                    → all conditioned dharmas
+bases of appropriation   → all Impure dharmas
+essences and principles  → all dharmas, including the unconditioned
+```
+
+### Anchor note
 
 The Bhāṣya identifies the three selected classifications as rūpaskandha,
 mana-āyatana, and dharma-dhātu: form-base, mind-essence, and
 dharma-principle. It explains the ground of their inclusion and distinguishes
 principial membership from the practical, occasional gathering of an assembly.
-
 ## 2. Continuous Sanskrit
 
 > tatra skandhaiḥ sarvasaṃskṛtasaṃgrahaḥ / upādānaskandhaiḥ

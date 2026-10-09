@@ -73,20 +73,22 @@ cohesion, heat, and impulsion.
 
 ## 8. Logical Determination
 
-### Systematic Placement
-
-| Principle | Function | Character |
-|---|---|---|
-| Earth | support | hardness |
-| Water | gathering | cohesion |
-| Fire | ripening | heat |
-| Wind | spreading | impulsion |
-
 ```text
-Earth     support     hardness
-Water     gathering   cohesion
-Fire      ripening    heat
-Wind      spreading   impulsion
+Earth Great Principle
+    → supports
+    → hardness
+
+Water Great Principle
+    → gathers
+    → cohesion
+
+Fire Great Principle
+    → ripens
+    → heat
+
+Wind Great Principle
+    → spreads
+    → impulsion
 ```
 
 ## 9. Interpretive Note

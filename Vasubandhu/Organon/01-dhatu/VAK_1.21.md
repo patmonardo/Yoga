@@ -121,14 +121,21 @@ not a storehouse of ideas.
 
 ## 8. Logical Determination
 
-### Systematic Placement
-
 This verse explains the distinct Base positions. The cross-classification
 with Essence and Principle was established in 1.16:
 
-| Base determination in this verse | Essence crosswalk | Principle crosswalk |
-|---|---|---|
-| Feeling Base and Reflection Base, distinct from the other mental factors | With Formations, *avijñapti*, and the unconditioned: Dharma Essence | The same cross-classified contents: Dharma Principle |
+```text
+Feeling Base + Reflection Base
+    → distinct Base positions among the mental factors
+
+Feeling Base + Reflection Base
+    + Formations Base + avijñapti + unconditioned dharmas
+    → Dharma Essence classification
+    → Dharma Principle classification
+
+shared Essence and Principle classifications
+    ↛ collapse the distinct Base positions
+```
 
 The distinction leaves the census at five Bases, twelve Essences, and
 eighteen Principles. Sharing the Dharma Essence and Dharma Principle

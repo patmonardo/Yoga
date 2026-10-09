@@ -8,9 +8,14 @@ Source: [`VAK_1.15.md`](./VAK_1.15.md).
 >
 > dharmāyatanadhātvākhyāḥ sahāvijñaptyasaṃskṛtaiḥ // 1.15 //
 
-> The formations apart from the four Bases constitute the Formations Base.
-> These three, together with *avijñapti* and the unconditioned, are called
-> the Dharma Essence and the Dharma Principle.
+### Bhāṣya-informed study translation
+
+The remaining conditioned formations constitute the Formations Base. The
+Feeling, Reflection, and Formations Bases, together with *avijñapti* and
+the three unconditioned dharmas, are classified as Dharma Essence and
+Dharma Principle.
+
+### Anchor note
 
 The Bhāṣya explains which formations the first clause includes and why the
 scriptural emphasis on volition does not exhaust them. It then identifies
@@ -21,7 +26,6 @@ The working vocabulary is *skandha* = Base, *āyatana* = Essence,
 *dhātu* = Principle, and *saṃjñā* = Reflection. The continuous translation
 uses these renderings to follow the commentary's argument; the Organon
 interpretation remains distinct.
-
 ## 2. Continuous Sanskrit
 
 > caturbhyo 'nye tu saṃskāraskandhaḥ / rūpavedanāsaṃjñāvijñānebhyaś

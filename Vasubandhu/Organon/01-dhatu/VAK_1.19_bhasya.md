@@ -6,14 +6,19 @@
 >
 > dvitve 'pi cakṣurādīnāṃ śobhārthaṃ tu dvayodbhavaḥ // 1.19 //
 
-> Because of commonality of kind, condition-range, and principle, the eye and
-> the other faculties have one-principle status even though they are paired.
-> Their arising as a pair, however, is for beauty.
+### Bhāṣya-informed study translation
+
+> The two eyes constitute one eye-principle because they share one faculty-kind, take visible form as their condition, and support one eye-principle. The same reasoning applies to the paired ears and nasal faculties. Their bodily occurrence in pairs is said to serve the beauty of the bodily support; it does not multiply the principles.
+
+The second translation distinguishes paired bodily instances from the
+principial determination they jointly support. *Skandha* is Base; the
+bodily *āśraya* remains a support, not a Base.
+
+### Anchor note
 
 The Bhāṣya tests the count of eighteen principles against the bodily pairing
 of eye, ear, and nose. It distinguishes the grounds of principial unity
 from its stated explanation of paired embodiment.
-
 ## 2. Continuous Sanskrit
 
 > nanu caikaviṃśatyā dhātubhir bhavitavyam / cakṣuṣo dvitvāt

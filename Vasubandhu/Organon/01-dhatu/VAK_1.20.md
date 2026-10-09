@@ -208,17 +208,21 @@ Principle.
 
 The three teachings correspond in order to three learner profiles:
 
-| Teaching | Primary confusion | Capacity | Preferred extent |
-|---|---|---|---|
-| Base | mental factors grasped as one undifferentiated personal unity | sharp | brief |
-| Essence | form | middling | intermediate |
-| Principle | both form and mind | weak | extensive |
-
-Formally:
-
 ```text
-LearnerCondition(moha, capacity, inclination)
-    → SelectPedagogicalForm(Base | Essence | Principle)
+mental factors grasped as one undifferentiated personal unity
+    → Base teaching
+    → sharp capacity
+    → brief exposition
+
+focus on Form
+    → Essence teaching
+    → middling capacity
+    → intermediate exposition
+
+focus on both Form and Mind
+    → Principle teaching
+    → weaker capacity
+    → extensive exposition
 ```
 
 The Dharma System remains one while its exposition varies.

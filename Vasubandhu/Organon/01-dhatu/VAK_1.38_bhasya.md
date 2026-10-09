@@ -6,10 +6,14 @@
 >
 > cakṣurvijñānadhātvoḥ syāt pṛthag lābhaḥ sahāpi ca // 1.38 //
 
-> The remaining four Form-bearing Principles are threefold. One
-> [the Dharma Principle] bears substance-status. The last three are momentary.
-> The Eye-Faculty and Eye-Cognition Principles may be acquired
-> separately and also together.
+### Bhāṣya-informed study translation
+
+> Visible Form, smell, taste, and tangible Form admit maturation-born, upacaya-reinforced, and continuity-born instances. The Dharma Principle alone bears substance-status, because it includes the Unconditioned. The Mind, Dharma, and Mind-Cognition Principles are called momentary for the first pure receptivity to Dharma-knowledge concerning suffering, without a preceding homogeneous pure cause. The Eye-Faculty and Eye-Cognition Principles may be acquired separately or jointly.
+
+The second rendering exposes the special senses of `dravyavān` and
+`kṣaṇika` that the compressed Kārikā cannot supply on its own.
+
+### Anchor note
 
 The Bhāṣya limits each compact expression. “Others” means the four
 remaining Form-bearing Principles; `dravyavān` refers to the Dharma
@@ -17,7 +21,6 @@ Principle's inclusion of the Unconditioned; and “momentary” has a
 special causal sense at the first pure moment. The last half
 begins an inquiry into acquisition, followed by a distinct inquiry into
 possession.
-
 ## 2. Continuous Sanskrit
 
 > tridhā 'nye

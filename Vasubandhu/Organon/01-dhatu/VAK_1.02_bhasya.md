@@ -6,12 +6,15 @@
 >
 > tasyārthato 'smin samanupraveśāt sa cāśrayo 'syety abhidharmakośam // 1.02 //
 
-Literal (from [`VAK_1.02.md`](./VAK_1.02.md)):
+### Bhāṣya-informed study translation
 
-> Stainless prajñā, with its attendants, is Abhidharma; so also is whatever [prajñā] is for the attainment of that, and whatever treatise [is for its attainment]. Because that enters into this by meaning—and because that is the supporting basis of this—[this treatise is called] the *Abhidharmakośa*.
+> Stainless prajñā together with its attendants is Abhidharma in the ultimate sense: the discrimination of dharmas, with its retinue, a stainless complex of the five aggregates. In the conventional sense, so too are the prajñā with outflows constituted by hearing, reflection, and cultivation, and the prajñā acquired by birth, each with its attendants, and the treatise that is equipment for attaining that stainless prajñā. A dharma is so called because it bears its own mark. Abhidharma is this dharma facing the ultimate dharma, nirvāṇa, or facing the mark of a dharma. This work is called the *Abhidharmakośa* either because the principal meaning of śāstric Abhidharma is contained within it, or because it has been drawn from Abhidharma as its supporting treasury.
+
+The second translation makes the Bhāṣya's determinations explicit. It is not a word-for-word rendering of the Kārikā alone. Neither facing in the name-definition is dropped. *Amalā* stays stainless in this line.
+
+### Anchor note
 
 Span: Pradhan `[002|02]`–`[002|17]`. Next unit opens 1.03 at `[002|18]`.
-
 ## 2. Continuous Sanskrit Witness
 
 > ko 'yam abhidharmaḥ nāma /

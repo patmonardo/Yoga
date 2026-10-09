@@ -6,9 +6,21 @@
 >
 > rūpiṇo 'vyākṛtā aṣṭau ta evārūpaśabdakāḥ // 1.29 //
 
-> One here is visible: the Form Principle. Ten are subject to impediment:
-> the ten Form Base Principles. Eight are ethically indeterminate: those
-> same ten excluding the Form Principle and Sound Principle.
+### Bhāṣya-informed study translation
+
+> Of the eighteen Principles, the Form Principle alone is spatially
+> demonstrable. The five sensory faculties and five sensory-object
+> Principles gathered in the Form Base are resistant because they mutually
+> obstruct one another. Of these ten, eight—the five faculties together
+> with the Smell, Taste, and Tangible Principles—are invariably ethically
+> indeterminate; the Form and Sound Principles may instead acquire
+> wholesome or unwholesome determination through bodily and verbal action.
+
+The second rendering keeps the Bhāṣya's three explanations distinct:
+visibility concerns demonstrability, resistance here concerns physical
+obstruction, and indeterminacy concerns ethical status.
+
+### Anchor note
 
 The Bhāṣya applies different determinations to the eighteen Principles.
 Its extended discussion distinguishes obstruction, limitation by a
@@ -16,7 +28,6 @@ faculty's field, and limitation by an apprehended object before specifying
 which sense of `pratigha` governs the count of ten. Whether the faculties'
 inclusion in that count means that an indriya itself can be “struck” remains
 a question for this first-pass study.
-
 ## 2. Continuous Sanskrit
 
 > ye punarime aṣṭādaśa dhātava uktāsteṣāṃ kati sanidarśanāḥ katyanidarśanāḥ /

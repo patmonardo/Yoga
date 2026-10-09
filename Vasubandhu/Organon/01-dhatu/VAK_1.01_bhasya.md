@@ -6,15 +6,15 @@
 >
 > tasmai namaskṛtya yathārthaśāstre śāstraṃ pravakṣyāmy abhidharmakośam // 1.01 //
 
-> Having bowed to him whose darkness has been destroyed in every way and
-> concerning everything, who raised the world from the mire of saṃsāra—to
-> that teacher according to reality—I shall proclaim the treatise, the
-> *Abhidharmakośa*.
+### Bhāṣya-informed study translation
+
+> Having bowed to him, the teacher according to reality, whose ignorance has been destroyed in every mode and throughout all knowable things, and who lifted the world from saṃsāra’s mire through true teaching rather than miraculous powers, I shall proclaim the *Abhidharmakośa*, the treatise for instructing disciples.
+
+### Anchor note
 
 The Bhāṣya determines `yathārthaśāstre` as a dative singular in apposition
 to `tasmai`: homage is offered to the Buddha as `yathārthaśāstṛ`, the
 teacher according to reality.
-
 ## 2. Continuous Sanskrit
 
 > śāstraṃ praṇetukāmaḥ svasya śāsturmāhātmyajñāpanārthaṃ

@@ -6,15 +6,16 @@
 >
 > dharmārdham indriyaṃ ye ca dvādaśādhyātmikāḥ smṛtāḥ // 1.48 //
 
-> The five external Principles are cognizable through two Cognitions.
-> Unconditioned Essences are permanent. A portion of the Essence
-> Principle has Faculty-status, as do those twelve stated to be internal.
+### Bhāṣya-informed study translation
+
+> Each of the five external Principles is experienced through its corresponding sensory Cognition and known through Mind-Cognition; the other thirteen are knowable only through Mind-Cognition. No entire Principle is permanent: only the unconditioned Essences, which occupy a portion of the Essence Principle, are permanent. Faculty-status belongs to a portion of the Essence Principle and to the relevant Principles or parts among the twelve internal Principles.
+
+### Anchor note
 
 The Bhāṣya identifies the two Cognitions, restricts permanence to
 unconditioned Essences within a portion of the Essence Principle,
 and maps the twenty-two Faculties onto the Principle classification.
 This is the chapter's final kārikā.
-
 ## 2. Continuous Sanskrit
 
 > idamidānīṃ vicāryate /

@@ -2,6 +2,7 @@
 
 from pathlib import Path
 import re
+import tempfile
 import unittest
 
 from audit_karika_sections import check_headings, headings_in
@@ -186,6 +187,35 @@ class ScientificTerminologyTests(unittest.TestCase):
                 self.assertTrue(path.is_file(), f"Missing kārikā study: {path}")
                 errors = check_headings(headings_in(path))
                 self.assertEqual(errors, [], f"{path.name}: {errors}")
+
+    def test_karika_section_check_ignores_child_headings(self):
+        with tempfile.TemporaryDirectory() as directory:
+            path = Path(directory) / "study.md"
+            path.write_text(
+                "\n".join(
+                    f"## {number}. {section}\n### Verse-specific child"
+                    for number, section in enumerate(
+                        (
+                            "Sanskrit (Devanāgarī)",
+                            "Sanskrit (IAST)",
+                            "Lexical Analysis",
+                            "Grammar",
+                            "Translation",
+                            "Philosophical Translation",
+                            "Technical Vocabulary",
+                            "Logical Determination",
+                            "Interpretive Note",
+                            "OWL++ Seed",
+                        ),
+                        start=1,
+                    )
+                ),
+                encoding="utf-8",
+            )
+
+            headings = headings_in(path)
+            self.assertTrue(all(heading.startswith("## ") for heading in headings))
+            self.assertEqual(check_headings(headings), [])
 
 
 if __name__ == "__main__":

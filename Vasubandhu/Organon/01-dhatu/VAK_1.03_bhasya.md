@@ -6,20 +6,24 @@
 >
 > kleśaiś ca bhramati bhavārṇave 'tra lokas taddhetor ata uditaḥ kilaiṣa śāstraḥ // 1.03 //
 
+### Bhāṣya-informed study translation
+
+> Because a disciple cannot discriminate dharmas without Abhidharma instruction, and because such discrimination is indispensable to pacifying the afflictions that cause the world to wander in saṃsāra, this śāstra is said to have been taught.
+
+### Anchor note
+
 The running witness ends the verse with `śāstrā`. The displayed `śāstraḥ`
 is a conjectural normalization, not an established source reading; the
 Kārikā study records the unresolved grammar.
 
-> Since there is no means for pacifying the afflictions without discrimination
-> of dharmas, and since the world wanders here in the ocean of becoming
-> through those afflictions, for that reason this treatise is said to have
-> been taught.
+
+
+
 
 The Bhāṣya makes the necessity claim more concrete: the disciple cannot
 discriminate dharmas without Abhidharma instruction. It then attributes the
 account of the Buddha's dispersed teachings and their systematic collection
 to the Vaibhāṣikas.
-
 ## 2. Continuous Sanskrit
 
 > kimarthaṃ punar abhidharmopadeśaḥ kena cāyaṃ prathamata upadiṣṭo yata

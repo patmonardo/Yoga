@@ -6,10 +6,15 @@
 >
 > pañcavijñānasahajā dhīr na dṛṣṭir atīraṇāt // 1.41 //
 
-> A portion of the Eye Principle and a portion of the Dharma Principle
-> count as seeing or view; the latter portion is eightfold. Discernment
-> co-born with the five sensory Cognitions is not view, because it does
-> not ascertain.
+### Bhāṣya-informed study translation
+
+> A portion of the Eye Principle counts as seeing because it discloses visible Form. A portion of the Dharma Principle counts as view in eight kinds: five afflicted views, worldly right view, the trainee's view, and the adept's view. Discernment co-born with the five sensory Cognitions is not view, because it does not attentively examine and ascertain.
+
+“Seeing” and “view” preserve the two functions expressed by the same
+source term; the translation does not force them into one
+undifferentiated operation.
+
+### Anchor note
 
 This is a Bhāṣya-guided construe. The local kārikā witnesses give the
 opening as a dual, “two portions,” while the running commentary has a
@@ -18,7 +23,6 @@ an eightfold portion of the Dharma Principle. The dual is retained above
 as witnessed; its precise textual resolution remains open. It should not
 be used to make the eightfold enumeration include the Eye or to supply an
 otherwise unstated division of the Eye.
-
 ## 2. Continuous Sanskrit
 
 > aṣṭādaśānāṃ dhātūnāṃ kati dṛṣṭiḥ kati na dṛṣṭiḥ /

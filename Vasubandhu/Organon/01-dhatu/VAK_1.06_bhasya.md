@@ -6,12 +6,13 @@
 >
 > utpādātyantavighno 'nyo nirodho 'pratisaṃkhyayā // 1.06 //
 
-Literal (from [`VAK_1.06.md`](./VAK_1.06.md)):
+### Bhāṣya-informed study translation
 
-> Cessation through discrimination is disjunction, in each case separately. The other cessation, not through discrimination, is the absolute obstruction of arising.
+> Cessation through discrimination is disjunction from Impure dharmas, separately for each conjunction. Discrimination here is a particular prajñā directed to the Noble Truths, beginning with suffering. The other cessation is not attained by that prajñā. It is the absolute obstruction of a future arising, got by deficiency of conditions.
+
+### Anchor note
 
 Span: Pradhan `[003|24]`–`[004|22]`. Next question at `[004|23]` opens 1.07.
-
 ## 2. Continuous Sanskrit Witness
 
 > pratisaṃkhyānirodho yo visaṃyogaḥ /

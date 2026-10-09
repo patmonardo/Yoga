@@ -74,8 +74,6 @@ a visible storm by its color and configuration.
 
 ## 8. Logical Determination
 
-### Systematic Placement
-
 The verse distinguishes worldly naming from the technical Principle. The
 Bhāṣya explains how the names apply; the visible appearance and the
 Principle are not interchangeable.

@@ -6,24 +6,20 @@
 >
 > dhātavaḥ sapta ca matāḥ ṣaḍvijñānāny atho manaḥ // 1.16 //
 
-Literal:
+### Bhāṣya-informed study translation
 
-> Cognition is respective apprehension. That is also Mind Essence.
-> Seven Principles are accepted: the six Cognition Principles, and Mind.
+Cognition is apprehension with respect to each Condition. That same
+Cognition Base is Mind Essence. Seven Principles are accepted: the six
+Cognition Principles, from Eye-Cognition through Mind-Cognition, and Mind
+Principle.
 
-Bhāṣya-informed:
-
-> Cognition is apprehension with respect to each Condition. The
-> Cognition Base comprises six, from the Eye-Cognition Principle through the
-> Mind-Cognition Principle. That same base is Mind Essence. As
-> Principles, seven are accepted: those six, and Mind as Principle.
+### Anchor note
 
 The commentary glosses *prativijñapti*, divides the Cognition Base into
 six, places that same base as Mind Essence, and counts seven Principles.
 It then closes the chapter's first classification: five Bases, twelve
 Essences, eighteen Principles. The next question, whether the Mind
 Principle is something beside the six, opens 1.17.
-
 ## 2. Continuous Sanskrit
 
 > vijñānaṃ prativijñaptiḥ / viṣayaṃ viṣayaṃ prati vijñaptir upalabdhir

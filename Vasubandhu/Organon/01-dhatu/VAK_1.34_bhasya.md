@@ -6,16 +6,21 @@
 >
 > navānupāttās te cāṣṭau śabdaś cānye nava dvidhā // 1.34 //
 
-> The seven cognitive Principles take objects, as does a portion of the
-> Dharma Principle. Nine are unappropriated: those eight and sound. The
-> other nine are twofold.
+### Bhāṣya-informed study translation
+
+> The six cognition Principles and the Mind Principle take objects, as do the associated mental factors within the Dharma Principle. The seven cognitive Principles, the entire Dharma Principle, and the sound Principle are always unappropriated. The other nine Principles may be appropriated into a present living continuum or remain unappropriated.
+
+The second rendering expands the two different counts so that the associated
+portion of the Dharma Principle is not confused with the whole Principle's
+appropriation-status.
+
+### Anchor note
 
 The Bhāṣya identifies the “half” as the associated mental-factor portion
 of the Dharma Principle. In the second classification it explicitly
 counts the whole Dharma Principle among the nine unappropriated
 Principles. The compact resumption “those eight” must be read with that
 change of scope.
-
 ## 2. Continuous Sanskrit
 
 > kati sālambanāḥ katyanālambanāḥ /

@@ -6,12 +6,13 @@
 >
 > ākāśaṃ dvau nirodhau ca tatrākāśam anāvṛtiḥ // 1.05 //
 
-Literal (from [`VAK_1.05.md`](./VAK_1.05.md)):
+### Bhāṣya-informed study translation
 
-> The Pure dharmas are the Truth of the Path and also the threefold unconditioned: space and the two cessations. Among these, space is non-obstruction.
+> The Pure dharmas comprise the conditioned Truth of the Path and three unconditioned dharmas—space, cessation through discrimination, and cessation not through discrimination—because the *āsravas* do not persist in them. Space is non-obstruction: that in which form can move.
+
+### Anchor note
 
 Span: Pradhan `[003|15]`–`[003|23]`. Next line opens 1.06.
-
 ## 2. Continuous Sanskrit Witness
 
 > anāsravāḥ katame /

@@ -76,13 +76,17 @@ Techne reading:
 
 ## 8. Logical Determination
 
-Two axes must remain independent:
+Conditioned dharmas other than the Truth of the Path
+    → conditioned
+    → impure
 
-| Dharma class | Conditioned? | Pure? |
-|---|---:|---:|
-| conditioned dharmas other than the Path | yes | no |
-| Truth of the Path | yes | yes |
-| space and the two cessations | no | yes |
+Truth of the Path
+    → conditioned
+    → pure
+
+Space and the two cessations
+    → unconditioned
+    → pure
 
 ```text
 ākāśa = non-obstruction where Form can move

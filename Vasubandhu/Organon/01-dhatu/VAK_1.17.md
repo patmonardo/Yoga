@@ -94,37 +94,39 @@ remains mind. Another cause is wanting, and no next principle arises.
 
 ## 8. Logical Determination
 
-### Systematic Placement
-
 The Bhāṣya resolves the eighteen Principles as six supports, six
 supported Cognition Principles, and six Objects. Mind is the sixth support:
 the immediately ceased Cognition among the six, not a seventh Cognition.
 Support is a distinct relation, not a synonym for production.
 
 ```text
-1.16   seven names: six Cognitions + Mind Principle
-       relation not yet said
+VAK 1.16
+    → names six Cognitions and the Mind Principle
+    → leaves their relation unspecified
 
-1.17   of those six, whichever has just ceased
-           → Mind
-           → Mind Principle, as support
+VAK 1.17
+    → one of the six Cognitions has just ceased
+    → that Cognition serves as Mind
+    → Mind is the sixth support
 
-       present office     one of the six
-       just-ceased office mind, the sixth support
+five Faculty supports + Mind support
+    → six supports
 
-       five supports      eye and the rest
-       sixth support      mind
-       supported          six Cognition Principles
-       objects            six
-       6 + 6 + 6 = 18
+six supports + six Cognition Principles + six Objects
+    → eighteen Principles
 
-       objection          17, or 12, by substance
-       reply              eighteen, for the sixth support
+objection
+    → seventeen, or twelve if counted by substance
 
-       arhat's last consciousness
-           remains Mind
-           no successor, another cause wanting
-           support ≠ production
+reply
+    → eighteen, because Mind is the distinct sixth support
+
+arhat's final consciousness
+    → remains the Mind support
+    → has no successor because another cause is absent
+
+support
+    ↛ production
 ```
 
 The objection's twelve is a substance-count. It is not the twelve

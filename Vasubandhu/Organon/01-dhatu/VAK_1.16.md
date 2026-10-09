@@ -76,12 +76,6 @@ Principle.
 
 ## 8. Logical Determination
 
-### Systematic Placement
-
-| Base | Essence | Principle |
-|---|---|---|
-| Cognition Base | Mind Essence | six Cognition Principles and Mind Principle |
-
 The Bhāṣya closes the count at five Bases, twelve Essences, and eighteen
 Principles.
 
@@ -89,10 +83,11 @@ Principles.
 Cognition Base
     → Mind Essence
     → six Cognition Principles + Mind Principle
+    → seven Principles
 
 five Bases
-twelve Essences
-eighteen Principles
+    → twelve Essences
+    → eighteen Principles
 ```
 
 ## 9. Interpretive Note

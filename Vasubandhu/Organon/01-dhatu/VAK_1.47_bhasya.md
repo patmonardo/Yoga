@@ -1,19 +1,20 @@
 # VAK_1.47 Commentary — Hearing, Body-Cognition, and Mind Across Planes
 
-## 1. Verse Anchor
+## 1. Kārikā Anchor
 
 > tathā śrotraṃ trayāṇāṃ tu sarvam eva svabhūmikam /
 >
 > kāyavijñānam adharasvabhūmy aniyataṃ manaḥ // 1.47 //
 
-> Likewise the Ear. For the three, however, everything belongs
-> to its own plane. Body-Cognition belongs to a lower or its own
-> plane; Mind has no fixed plane-relation.
+### Bhāṣya-informed study translation
+
+> The Ear, sound Condition, and Ear-Cognition follow the plane-relations stated for the Eye, visible Form, and Eye-Cognition. For Nose, Tongue, and Body, each Faculty, Condition, and Cognition belongs to its own plane. The Body, Body Principle, and tangibles remain on the person's own plane, while Body-Cognition may belong to a lower plane or its own plane. Mind has no single fixed plane-relation: it may be on the same, a higher, or a lower plane relative to the Body, Mind-Cognition, and Dharmas.
+
+### Anchor note
 
 The commentary identifies the three as Nose, Tongue, and Body, then
 expressly qualifies the general rule for Body-Cognition. “Not fixed”
 concerns Mind's plane-relation.
-
 ## 2. Continuous Sanskrit
 
 > yathā cedaṃ cakṣur uktaṃ vistareṇa veditavyam /

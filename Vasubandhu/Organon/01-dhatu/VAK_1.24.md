@@ -74,8 +74,6 @@ it gathers many dharmas, including nirvāṇa, the highest Dharma.
 
 ## 8. Logical Determination
 
-### Systematic Placement
-
 The Form Essence is one of the ten Essences in the Form Base. The Dharma
 Essence gathers many dharmas, including nirvāṇa. Their names follow
 different reasons in the Bhāṣya. Within the Dhātu-machine sequence

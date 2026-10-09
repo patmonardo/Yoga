@@ -6,9 +6,20 @@
 >
 > vinā gandharasaghrāṇajihvāvijñānadhātubhiḥ // 1.30 //
 
-> The others are threefold. All belong to the Desire Realm. In the Form
-> Realm there are fourteen, excluding the Smell, Taste, Olfactory-Cognition,
-> and Gustatory-Cognition Principles.
+### Bhāṣya-informed study translation
+
+> The remaining ten Principles have wholesome, unwholesome, or ethically
+> indeterminate instances. All eighteen Principles are connected with the
+> Desire Realm. Fourteen belong to the Form Realm: the Smell and Taste
+> Principles are absent because beings there are detached from gross
+> ingested nourishment, and the corresponding olfactory- and
+> gustatory-cognition Principles are absent because their objects are
+> unavailable. The Nose and Tongue faculty Principles themselves remain.
+
+The Bhāṣya's debate is needed to prevent the closing compound from being
+misread as excluding the faculty Principles along with their cognitions.
+
+### Anchor note
 
 “The others” are the ten Principles remaining after the eight ethically
 indeterminate Principles of 1.29. “Threefold” means wholesome,
@@ -16,7 +27,6 @@ unwholesome, and ethically indeterminate. A new classification begins
 with “all belong to the Desire Realm.” The verse therefore crosses a
 topical boundary; its opening must not be translated as threefold
 Realm-membership.
-
 ## 2. Continuous Sanskrit
 
 > tridhā 'nye

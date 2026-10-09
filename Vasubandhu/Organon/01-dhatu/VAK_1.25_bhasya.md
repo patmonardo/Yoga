@@ -6,8 +6,17 @@
 >
 > tāni vāṅnāma vety eṣāṃ rūpasaṃskārasaṃgrahaḥ // 1.25 //
 
-> The eighty thousand Dharma-collections proclaimed by the Sage—speech or
-> name—are included in the Form Base and the Formations Base.
+### Bhāṣya-informed study translation
+
+> The eighty thousand Dharma-collections proclaimed by the Sage are
+> included in the established Bases according to how Buddha-word is
+> understood: on the account that its nature is speech, in the Form Base;
+> on the account that its nature is name, in the Formations Base.
+
+The verse states the alternatives compactly. The Bhāṣya makes their
+conditional distribution explicit without resolving the disagreement.
+
+### Anchor note
 
 The Bhāṣya places this verse under a wider question: do scriptural
 designations using *skandha*, *āyatana*, and *dhātu* refer to things outside
@@ -15,7 +24,6 @@ the established classifications, or are they included within them? It
 answers that they are included, not separate. The Dharma-collections are
 the first example. Two accounts of Buddha-word's nature are reported:
 speech, or name.
-
 ## 2. Continuous Sanskrit
 
 > anyāny api skandhāyatanadhātusaṃśabditāny upalabhyante sūtreṣu /

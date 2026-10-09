@@ -1,20 +1,21 @@
 # VAK_1.45 Commentary — Support and the Naming of Cognition
 
-## 1. Verse Anchor
+## 1. Kārikā Anchor
 
 > tadvikāravikāritvād āśrayāś cakṣurādayaḥ /
 >
 > ato 'sādhāraṇatvād dhi vijñānaṃ tair nirucyate // 1.45 //
 
-> The Eye and the other Faculties are supports because the corresponding
-> Cognition changes when they change. Because of this, and because
-> they are specific, Cognition is designated by them.
+### Bhāṣya-informed study translation
+
+> The Faculties are called supports because benefit, injury, acuity, or dullness in a Faculty produces a corresponding alteration in its Cognition. Cognition is named from its Faculty—Eye-Cognition, Ear-Cognition, and so forth—because each Faculty supports its own specific kind of Cognition, whereas an Object such as visible Form can be shared by many sensory and mental Cognitions.
+
+### Anchor note
 
 The commentary resolves “because of this” through support-status and
 explicitly joins it to specificity. The second line therefore
 retains both grounds for designation, rather than treating the
 first as an incidental introduction to the second.
-
 ## 2. Continuous Sanskrit
 
 > kiṃ punaḥ kāraṇam ubhayādhīnāyāṃ vijñānotpattau cakṣurādaya evāśrayā ucyante na rūpādayaḥ /

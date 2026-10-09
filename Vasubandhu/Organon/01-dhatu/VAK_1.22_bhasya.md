@@ -6,15 +6,19 @@
 >
 > yathaudārikasaṃkleśabhājanādyarthadhātutaḥ // 1.22 //
 
-> The unconditioned is not stated among the Bases because the defining
-> meaning does not apply. Their order, again, follows relative grossness,
-> the progress of Affliction, the analogy beginning with a vessel, and
-> Principle.
+### Bhāṣya-informed study translation
+
+> Because Base (*skandha*) means a collectable multiplicity, the unconditioned cannot be made a member—or a sixth Base—without violating the category’s meaning. The five Bases are ordered through four convergent explanations: from gross to subtle; through the progress of Affliction; as vessel, food, seasoning, maker, and eater; and by Principle across levels of existence. These differentiated Base-configurations serve as stations in which Principle is established as seed in a field.
+
+The second translation preserves the systematic force of `arthāyoga` and
+makes the fourfold explanation readable without importing it into the
+Kārikā's individual words.
+
+### Anchor note
 
 The Bhāṣya explains both the scope of Base classification and its internal
 order. It concludes by connecting those ordering accounts with the distinct
 Base positions of Feeling and Reflection established in 1.21.
-
 ## 2. Continuous Sanskrit
 
 > skandheṣv asaṃskṛtaṃ noktamarthāyogāt

@@ -6,15 +6,16 @@
 >
 > cakṣuḥśrotramano 'prāptaviṣayaṃ trayam anyathā // 1.43 //
 
-> One sees with both Eyes also, because seeing is clearer.
-> Eye, Ear, and Mind have Conditions not physically contacted; the other
-> three operate through contact.
+### Bhāṣya-informed study translation
+
+> Seeing may occur through one Eye or both, with clearer seeing through their coordinated operation. Eye and Ear disclose their Conditions without physical contact; Mind, being non-Form, cannot physically reach its Condition. Nose, Tongue, and Body operate through physical contact with their Conditions, though some teachers classify hearing as both contacted and non-contacted.
+
+### Anchor note
 
 The Bhāṣya names the other three as Nose, Tongue, and Body, and
 explains “otherwise” as having Conditions reached through contact. It then
 asks what reaching itself means. The ensuing atomic-contact debate belongs
 to this unit, rather than to the next kārikā.
-
 ## 2. Continuous Sanskrit
 
 > tadyadi cakṣuḥ paśyati kimekena cakṣuṣā rūpāṇi paśyatyāhosvidubhābhyām /

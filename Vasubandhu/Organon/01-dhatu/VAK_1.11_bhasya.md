@@ -8,9 +8,21 @@ Source: [`VAK_1.11.md`](./VAK_1.11.md).
 >
 > mahābhūtāny upādāya sa hy avijñaptir ucyate // 1.11 //
 
-> The wholesome or unwholesome continuity which, depending on the
-> great elements, belongs even to one whose consciousness is otherwise
-> directed or absent—that indeed is called *avijñapti*.
+### Bhāṣya-informed study translation
+
+*Avijñapti* is a wholesome or unwholesome Form-stream that
+continues when consciousness is directed elsewhere, during the
+specified attainments without consciousness, and also while
+consciousness is present and undistracted. Its dependence on the
+Great Elements distinguishes it from a similar stream of
+acquisition. It has the nature of Form and action but does not
+make something known to another as *vijñapti* does.
+
+The prose further summarizes its possible origin in *vijñapti*
+or samādhi. The stream, the comparison with acquisition, the
+non-disclosure, and those two origins are Bhāṣya explanations.
+
+### Anchor note
 
 The Bhāṣya explains the states named in the verse, extends their
 scope through *api*, distinguishes this stream from acquisition,
@@ -19,7 +31,6 @@ two origins. The working vocabulary is *citta* = consciousness,
 *skandha* = base, *āyatana* = essence, and *dhātu* = principle.
 The latter three terms belong to the surrounding classification
 and project interpretation; they are not words of this verse.
-
 ## 2. Continuous Sanskrit
 
 > avijñaptir idānīṃ vaktavyā / seyam ucyate /

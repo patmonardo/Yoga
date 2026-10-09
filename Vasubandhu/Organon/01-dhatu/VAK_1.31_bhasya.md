@@ -6,15 +6,24 @@
 >
 > sāsravānāsravā ete trayaḥ śeṣās tu sāsravāḥ // 1.31 //
 
-> The Mind Principle, Dharma Principle, and Mind-Cognition Principle
-> belong to the Formless Realm. These three admit both outflow-bearing and
-> outflow-free instances; the remaining Principles are outflow-bearing.
+### Bhāṣya-informed study translation
+
+> Only the Mind, Dharma, and Mind-Cognition Principles belong to the
+> Formless Realm. The ten Form Base Principles are absent there, as are
+> the five sensory-Cognition Principles that depend on those Faculties
+> and their objects. The final three admit both outflow-bearing and
+> outflow-free instances; the other fifteen are exclusively
+> outflow-bearing.
+
+“Only” in the second rendering expresses the Bhāṣya's subtraction, not an
+additional word in the Kārikā.
+
+### Anchor note
 
 The first statement completes the realm enumeration begun in 1.30. The
 second begins a different classification, by *sāsrava* and *anāsrava*.
 “These three” carries forward the names of the Principles, not a
 restriction of the new classification to occurrences in the Formless Realm.
-
 ## 2. Continuous Sanskrit
 
 > ārūpyāptā manodharmamanovijñānadhātavaḥ /

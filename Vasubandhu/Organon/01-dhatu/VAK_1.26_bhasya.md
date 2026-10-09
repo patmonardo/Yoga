@@ -6,16 +6,24 @@
 >
 > caritapratipakṣas tu dharmaskandho 'nuvarṇitaḥ // 1.26 //
 
-> Some say a Dharma-collection has the measure of a treatise; another
-> account is an exposition of each of the Bases and the other topics.
-> A Dharma-collection, however, is described as a counteragent to a
-> disposition.
+### Bhāṣya-informed study translation
+
+> Some measure a Dharma-collection by the extent of the treatise called
+> *Dharmaskandha*. Others count a separate exposition of each doctrinal
+> topic as one collection. A further account defines a Dharma-collection by
+> its counteracting relation to a disposition.
+
+The commentary specifies six thousand for the treatise's extent and
+explains the eighty-thousand count through the variety of dispositions and
+their counteragents. It does not supply the unstated unit for six thousand
+or enumerate all eighty thousand pairings.
+
+### Anchor note
 
 The Bhāṣya distinguishes textual extent, individual doctrinal exposition,
 and a teaching's counteracting relation to a disposition. The last account
 explains the stated eighty thousand collections through the corresponding
 variety of beings' dispositions.
-
 ## 2. Continuous Sanskrit
 
 > kiṃ punar dharmaskandhasya pramāṇam / śāstrapramāṇa ity eke /

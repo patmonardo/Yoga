@@ -8,11 +8,13 @@ Source: [`VAK_1.13.md`](./VAK_1.13.md).
 >
 > āpas tejaś ca vāyus tu dhātur eva tathāpi ca // 1.13 //
 
-Literal translation:
+### Bhāṣya-informed study translation
 
-> By worldly designation, color and configuration are called “earth.”
-> Water and fire too. Wind, however, is the principle itself—and yet
-> also in that way.
+What people point out as earth, water, or fire is color and configuration
+named by worldly convention. “Wind” may name the Wind Principle itself, or
+a visible storm by its color and configuration.
+
+### Anchor note
 
 The working vocabulary is *skandha* = base and *dhātu* = principle.
 The Bhāṣya makes the syntax of *tathāpi ca* exact: it qualifies
@@ -31,7 +33,6 @@ The next natural unit begins at `[010|07]` with 1.14.
 Section 2 gives clause-line Sanskrit; §3 follows it continuously in
 English, with source voices marked. The local e-text is an edited
 working witness, not an independently collated critical edition.
-
 ## 2. Continuous Sanskrit Witness
 
 One clause is placed on each line for comparison with the translation.

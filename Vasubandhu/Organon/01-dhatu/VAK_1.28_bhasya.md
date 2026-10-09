@@ -6,15 +6,25 @@
 >
 > vijñānadhātur vijñānaṃ sāsravaṃ janmaniśrayāḥ // 1.28 //
 
-> An opening is named the Space Principle—light and darkness, it is said.
-> The Cognition Principle is cognition with outflows; these [six] are
-> supports of birth.
+### Bhāṣya-informed study translation
+
+> In the six-Principle teaching, the Space Principle is an opening,
+> explained in a reported account through light and darkness. The Cognition
+> Principle is cognition with outflows. All six are supports of birth,
+> common to the course from rebirth-linking cognition through death
+> cognition.
+
+The Bhāṣya supplies the sixfold subject and the life-span explanation.
+Its final sentence also assigns the first four Principles to the Tangible
+Principle, the fifth to the Form Principle, and the sixth among the seven
+Cognition Principles.
+
+### Anchor note
 
 The Bhāṣya determines two members of a particular six-Principle teaching.
 Its opening rejects unrestricted identification of the Space Principle
 with unconditioned space and of the Cognition Principle with all cognition.
 Its closing assigns the six within the eighteen-Principle arrangement.
-
 ## 2. Continuous Sanskrit
 
 > ya ime tatra ṣaḍ dhātava uktāḥ pṛthivīdhātur abdhātus tejodhātur

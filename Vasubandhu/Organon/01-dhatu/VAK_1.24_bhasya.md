@@ -6,9 +6,14 @@
 >
 > ekam āyatanaṃ rūpam ekaṃ dharmākhyam ucyate // 1.24 //
 
-> For distinction, because of primacy, and because many dharmas and the
-> highest Dharma are gathered, one Essence is named Form and one is named
-> Dharma.
+### Bhāṣya-informed study translation
+
+Among the ten Essences included in the Form Base, one is named Form because
+it is prominent in ordinary experience: it is resistant, visible, and can
+be pointed out as “this, here, there.” One Essence is named Dharma because
+it gathers many dharmas, including nirvāṇa, the highest Dharma.
+
+### Anchor note
 
 The Bhāṣya distributes the reasons between the two names. Distinction
 applies to both; primacy explains Form Essence; the gathering of many
@@ -17,7 +22,6 @@ dharmas and nirvāṇa explains Dharma Essence.
 Here **Base** renders *skandha*, **Essence** renders *āyatana*, **Form**
 renders *rūpa*, and **Dharma** remains *dharma*. Thus *rūpāyatana* is Form
 Essence and *dharmāyatana* is Dharma Essence.
-
 ## 2. Continuous Sanskrit
 
 > kiṃ punaḥ kāraṇaṃ daśasv āyataneṣu rūpaskandhasaṃgṛhīteṣv ekaṃ

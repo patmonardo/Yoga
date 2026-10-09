@@ -6,16 +6,20 @@
 >
 > dahyate tulayaty evaṃ vivādo dagdhṛtulyayoḥ // 1.36 //
 
-> The outer tetrad of Principles cuts and is cut. It is likewise burned
-> and weighs. There is dispute concerning the burner and what
-> is weighed.
+### Bhāṣya-informed study translation
+
+> The outer tetrad—visible Form, smell, taste, and tangibility—cuts and is cut in complexes such as an axe or wood. Cutting is production in divided form within a connected Form-stream. The tetrad is also burned and weighs. Some assign the roles of burner and what-is-weighed to the concrete tetrad; others maintain that the Fire Principle alone burns and heaviness alone is weighed.
+
+The second rendering makes the reported positions explicit while preserving
+their unresolved status.
+
+### Anchor note
 
 The active and passive forms must remain distinct. *Dahyate*, “is
 burned,” belongs to the settled enumeration; *dagdhṛ*, “burner,” to
 the disputed pair. Likewise *tulayati*, “performs weighing,” and
 *tulya*, “what is weighed,” are not interchangeable. The Bhāṣya repeats
 those contrasts.
-
 ## 2. Continuous Sanskrit
 
 > aṣṭādaśānaṃ dhātūnāṃ kaś chinatti kaś chidyate ko dahati ko dahyate kastulayati kastulyate /

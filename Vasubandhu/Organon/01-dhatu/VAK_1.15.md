@@ -79,8 +79,6 @@ Dharma Principle.
 
 ## 8. Logical Determination
 
-### Systematic Placement
-
 The Formations Base completes the five-Base classification. The Bhāṣya
 counts seven constituents under the Dharma classifications: the three Bases
 just named, *avijñapti*, and the three unconditioned dharmas. *Avijñapti*

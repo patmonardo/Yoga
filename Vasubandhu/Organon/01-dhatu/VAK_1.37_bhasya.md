@@ -4,19 +4,23 @@
 
 > vipākajaupacayikāḥ pañcādhyātmaṃ vipākajaḥ /
 >
-> na śabdaḥ apratighā aṣṭau naiḥṣyandikavipākajāḥ // 1.37 //
+> na śabdo 'pratighā aṣṭau naiḥṣyandika-vipākajāḥ // 1.37 //
 
-> The five internal [Faculty] Principles are maturation-born and
-> reinforced through upacaya. Sound is not maturation-born. The eight
-> non-resistant Principles include continuity-born and maturation-born
-> instances.
+### Bhāṣya-informed study translation
+
+> The five sensory Faculties are maturation-born and upacaya-reinforced through nourishment, conditioning, sleep, and distinctions of concentration. Sound is not itself maturation-born because its immediate production proceeds from effort, although it may be upacaya-reinforced or arise through causal continuity. The seven Cognition Principles together with the Dharma Principle include continuity-born and maturation-born instances, but are not upacaya-reinforced.
+
+For the eight Principles, these are permitted causal classes among their
+instances; the verse does not say that each instance is produced
+simultaneously by both causes.
+
+### Anchor note
 
 *Vipākajaḥ* at the end of the first line is completed by *na śabdaḥ*
 at the beginning of the second. The line break must not turn it into
 a positive assertion that Sound is maturation-born. The eight-Principle
 statement identifies causal classes among their instances; it does not
 make every member a product of both causes.
-
 ## 2. Continuous Sanskrit
 
 > kati vipākajāḥ dhātavaḥ katyaupacayikāḥ kati naiḥṣyandikāḥ kati dravyayuktāḥ kati kṣaṇikāḥ /

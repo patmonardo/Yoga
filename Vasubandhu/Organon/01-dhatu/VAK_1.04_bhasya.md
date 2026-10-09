@@ -4,16 +4,18 @@
 
 > sāsravānāsravā dharmāḥ saṃskṛtā mārgavarjitāḥ /
 >
-> sāsravā āsravās teṣu yasmāt samanuśerate // 1.04 //
+> sāsravāḥ āsravās teṣu yasmāt samanuśerate // 1.04 //
 
-> Dharmas are impure and pure. Conditioned dharmas, excluding the Truth of
-> the Path, are impure, because the `āsravas` persist through them.
+### Bhāṣya-informed study translation
+
+> Dharmas are impure and pure. Conditioned dharmas other than the Truth of the Path are impure because the *āsravas* persist through them. Although *āsravas* may arise with the Truth of Cessation or the Truth of the Path as their objects, they do not persist through those truths; taking them as objects therefore does not make them impure.
+
+### Anchor note
 
 The Bhāṣya calls this `sarvadharmāṇāṃ samāsanirdeśaḥ`: the summary designation
 of all dharmas. It specifies `mārga` as the Truth of the Path and distinguishes
 an `āsrava` taking something as `ālambana` from its persistence through a
 dharma.
-
 ## 2. Continuous Sanskrit
 
 > katame punas te dharmā yeṣāṃ pravicayārtham abhidharmopadeśa ity āha /

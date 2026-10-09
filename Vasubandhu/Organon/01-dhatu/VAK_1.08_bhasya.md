@@ -6,14 +6,19 @@
 >
 > duḥkhaṃ samudayo loko dṛṣṭisthānaṃ bhavaś ca te // 1.08 //
 
-From [`VAK_1.08.md`](./VAK_1.08.md):
+### Bhāṣya-informed study translation
 
-Those which are Impure are the Bases of appropriation
-(*upādānaskandhas*). They are also *saraṇa*. They are Suffering, Origin,
-World, the Station of Views, and Becoming.
+The Impure aggregates are Bases of appropriation. Every such Base is an
+aggregate, but some aggregates are Pure and therefore are not Bases of
+appropriation. Appropriation here means the afflictions: these Bases can
+arise from them, be governed by them, or give rise to them. They are also
+with conflict because afflictions persist latently in them and injure self
+and others. Suffering, Origin, World, Station of Views, and Becoming are
+further designations of this same Impure field, each with its own reason.
+
+### Anchor note
 
 Span: Pradhan `[005|08]`–`[005|20]`. Next question at `[005|21]` opens 1.09.
-
 ## 2. Continuous Sanskrit Witness
 
 > ta eva punaḥ saṃskṛtā dharmāḥ /

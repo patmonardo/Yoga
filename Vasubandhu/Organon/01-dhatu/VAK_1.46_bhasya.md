@@ -1,20 +1,25 @@
 # VAK_1.46 Commentary — Plane Relations of Body, Eye, Form, and Cognition
 
-## 1. Verse Anchor
+## 1. Kārikā Anchor
 
 > na kāyasyādharaṃ cakṣur ūrdhvaṃ rūpaṃ na cakṣuṣaḥ /
 >
 > vijñānaṃ cāsya rūpaṃ tu kāyasyobhe ca sarvataḥ // 1.46 //
 
-> The Eye is not on a lower plane than the Body. Visible Form and
-> Eye-Cognition are not on a higher plane than the Eye. For that
-> Cognition, Form may be higher, lower, or on the same plane; for
-> the Body, both Form and Cognition may have any of those relations.
+### Bhāṣya-informed study translation
+
+> The Eye Faculty may be on the Body's plane or a higher plane, but never a lower one. Visible Form and Eye-Cognition may each be on the Eye's plane or a lower one, but never a higher one. Relative to Eye-Cognition, visible Form may be higher, lower, or on the same plane; relative to the Body, both visible Form and Eye-Cognition may stand in any of those three relations.
+
+The commentary assigns Body, Eye, and visible Form five possible planes:
+the Desire Realm and the first through fourth meditative levels.
+Eye-Cognition is restricted to two: the Desire Realm and the first
+meditative level.
+
+### Anchor note
 
 The commentary specifies the distinct plane ranges of the four factors
 and resolves the pronouns. The alternatives in the final clause remain
 subject to those ranges; they do not allow every possible combination.
-
 ## 2. Continuous Sanskrit
 
 > atha yatra kāye sthitaścakṣuṣā rūpāṇi paśyati kiṃ tāni kāyacakṣūrūpavijñānānyekabhūmikānyeva bhavantyāhosvidanyabhūmikānyapi /

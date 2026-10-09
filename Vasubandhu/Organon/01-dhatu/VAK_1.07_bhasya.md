@@ -6,14 +6,19 @@
 >
 > sa evādhvā kathāvastu saniḥsārāḥ savastukāḥ // 1.07 //
 
-From [`VAK_1.07.md`](./VAK_1.07.md), conventional translation:
+### Bhāṣya-informed study translation
 
-The conditioned dharmas are the five aggregates beginning with Form. Those
-same dharmas are also the course, the matter of discourse, possessed of an
-exit, and possessed of a basis.
+The conditioned dharmas are made by conditions acting together; nothing
+is produced by one condition. They are courses because they have gone, are
+going, or will go, or because impermanence consumes them. Meaningful speech
+takes them as its basis; the *Prakaraṇa* includes its matters of discourse
+within the eighteen *dhātus*. They possess an exit because nirvāṇa is the
+going-out from everything conditioned. They possess a basis; the reading
+of *vastu* as cause is attributed to the Vaibhāṣikas.
+
+### Anchor note
 
 Span: Pradhan `[004|23]`–`[005|08]`.
-
 ## 2. Continuous Sanskrit Witness
 
 > yat tūktam “saṃskṛtā mārgavarjitāḥ sāsravā” iti /

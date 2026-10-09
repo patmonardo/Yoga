@@ -4,16 +4,22 @@
 
 > vivādamūlasaṃsārahetutvāt kramakāraṇāt /
 >
-> caittebhyo vedanāsaṃjñe pṛthak skandhau niveśitau // 1.21 //
+> caittebhyo vedanāsaṃjñe pṛthakskandhau niveśitau // 1.21 //
 
-> Because they are causes of the roots of dispute and saṃsāra, and because
-> of the rationale for the sequence, Feeling and Reflection are established
-> as distinct Bases apart from the other mental factors.
+### Bhāṣya-informed study translation
+
+> Feeling and Reflection receive distinct Base positions because they are principal causes of the roots of dispute: savoring Feeling leads to fixation upon sensual pleasures, while inverted Reflection leads to fixation upon views. Both are also principal causes of saṃsāra. Their separation is connected with the order of the bases, whose rationale is explained next.
+
+The project rendering is *saṃjñā* = Reflection. Here the Bhāṣya specifies
+inverted Reflection as distorted grasping of a mark, which supports
+fixation upon views. The causal claim concerns an operation of Reflection,
+not a storehouse of ideas.
+
+### Anchor note
 
 The Bhāṣya distinguishes the two roots of dispute from the two factors that
 principally cause them. It explains those causal connections and defers the
 rationale of the Base sequence to the subsequent exposition.
-
 ## 2. Continuous Sanskrit
 
 > kiṃ punaḥ kāraṇaṃ caitasikā ekatra saṃskāraskandhanikṣiptā

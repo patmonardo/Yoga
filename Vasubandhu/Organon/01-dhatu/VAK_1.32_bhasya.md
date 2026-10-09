@@ -6,9 +6,15 @@
 >
 > antyās trayas triprakārāḥ śeṣā ubhayavarjitāḥ // 1.32 //
 
-> The five sensory-Cognition Principles are indeed associated with
-> vitarka and vicāra. The last three are of three kinds; the remaining
-> Principles are without both.
+### Bhāṣya-informed study translation
+
+> The five sensory-Cognition Principles are always associated with both vitarka and vicāra. The Mind, Dharma, and Mind-Cognition Principles admit three modes according to meditative level: association with both, with vicāra alone, or with neither. The ten Form Base Principles are incapable of association with either.
+
+The primary translations preserve `vitarka` and `vicāra`. Their exact
+Techne determination must emerge from the sequence rather than being
+silently substituted into the Sanskrit.
+
+### Anchor note
 
 The Bhāṣya reads *hi* restrictively and explains the first statement as
 “always associated with both.” Its explanation of the three kinds then
@@ -19,7 +25,6 @@ Vitarka and vicāra are retained as technical terms. This unit determines
 their associations and levels of occurrence; it does not supply full
 definitions that would justify replacing them throughout with ordinary
 English “thought” and “reflection.”
-
 ## 2. Continuous Sanskrit
 
 > kati savitarkāḥ savicārāḥ katyavitarkā vicāramātrāḥ katyavitarkā avicārāḥ /

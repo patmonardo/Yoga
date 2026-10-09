@@ -2,14 +2,15 @@
 
 ## 1. Kārikā Anchor
 
-> dvādaśādhyātmikāḥ hitvā rūpādīn dharmasaṃjñakaḥ /
+> dvādaśādhyātmikā hitvā rūpādīn dharmasaṃjñakaḥ /
 >
-> sabhāgaḥ tatsabhāgāś ca śeṣāḥ yo na svakarmakṛt // 1.39 //
+> sabhāgas tatsabhāgāś ca śeṣā yo na svakarmakṛt // 1.39 //
 
-> Twelve Principles are internal, excluding those beginning with visible
-> Form. The one called Dharma is functionally participating. The others
-> also admit corresponding non-participation: that which does not perform
-> its own function.
+### Bhāṣya-informed study translation
+
+> The six Faculty Principles and six Cognition Principles are internal; the six field-side Principles are outer. Consciousness is figuratively designated Self because ego-making rests upon it, and the Faculties are internal through their proximity as supports. The Dharma Principle is always functionally participating because every Dharma can become a field for Mind-Cognition. Every other Principle may participate in its proper operation—past, present, future, or assured—or remain of the same kind without exercising that operation.
+
+### Anchor note
 
 The first sentence ends with *rūpādīn*. *Dharmasaṃjñakaḥ* is the
 subject of *sabhāgaḥ*, not another accusative complement of *hitvā*.
@@ -17,7 +18,6 @@ The Bhāṣya identifies the six excluded field Principles and then
 singles out the Dharma Principle for the next classification. *Ca*
 includes sabhāga as well as tat-sabhāga among the remaining seventeen
 Principles.
-
 ## 2. Continuous Sanskrit
 
 > katyādhyātmikā dhātavaḥ kati bāhyāḥ /

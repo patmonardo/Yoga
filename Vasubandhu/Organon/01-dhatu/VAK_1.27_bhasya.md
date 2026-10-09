@@ -6,15 +6,24 @@
 >
 > pratipādyā yathokteṣu saṃpradhārya svalakṣaṇam // 1.27 //
 
-> Likewise, other aggregates, sense-bases, and elements are to be
-> established, as appropriate, among those already stated, after carefully
-> determining each one's own characteristic.
+### Bhāṣya-informed study translation
+
+> Other classifications designated in the sūtras as aggregates,
+> sense-bases, and elements are to be included, each as appropriate, among
+> the five aggregates, twelve sense-bases, and eighteen elements already
+> explained. First determine each one's characteristic and scope; then
+> establish its place in the relevant system.
+
+The prose illustrates the rule through several scriptural classifications.
+It also shows that an item considered by its principal nature may have a
+different inclusion when considered together with its attendants.
+
+### Anchor note
 
 The Bhāṣya extends the Dharma-collection example into a general rule and
 applies it to several scriptural classifications. Its examples distinguish
 the principal nature of an item from the same item considered together with
 its attendants.
-
 ## 2. Continuous Sanskrit
 
 > yathaitāny aśītir dharmaskandhasahasrāṇy eṣv eva pañcaskandheṣu

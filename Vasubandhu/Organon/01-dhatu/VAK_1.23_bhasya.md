@@ -4,16 +4,20 @@
 
 > prāk pañca vārttamānārthyāt bhautikārthyāc catuṣṭayam /
 >
-> dūrāśutaravṛtty anyat yathāsthānaṃ kramo 'thavā // 1.23 //
+> dūrāśutaravṛttyānyat yathāsthānaṃ kramo 'thavā // 1.23 //
 
-> The five come first because their objects are present; four because their
-> objects are derived Form. The remainder is ordered by farther or quicker
-> operation; alternatively, the order follows location.
+### Bhāṣya-informed study translation
+
+> The five sensory Faculties precede Manas because their Conditions are present, whereas Manas has a wider Condition-range. Among the five, eye, ear, nose, and tongue precede the Body Faculty because their Conditions are derived Form, while the Body Faculty may apprehend Elements, derived Form, or both. Eye precedes ear by the comparison of distance, and nose precedes tongue by the earlier apprehension of food's odor; alternatively, bodily location explains the order, though the body-site clause is damaged.
+
+The Bhāṣya orders Conditions and Principles through the Faculties; it does
+not claim that Faculties produce their Conditions.
+
+### Anchor note
 
 The Bhāṣya explains successive distinctions within the six Faculties.
 Their Conditions and Principles follow the Faculty order. Bodily
 location is then offered as an alternative explanation.
-
 ## 2. Continuous Sanskrit
 
 > āyatanadhātūnāṃ ṣaṇṇāṃ cakṣurādīnām anukramo vaktavyaḥ /

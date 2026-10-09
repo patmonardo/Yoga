@@ -6,10 +6,23 @@
 >
 > mohendriyarucitraidhāt tisraḥ skandhādideśanāḥ // 1.20 //
 
-> Base, Essence, and Principle mean collection, gateway of mental extension,
-> and source-kind, respectively. Because those to be trained differ in
-> delusion, Faculty, and inclination, there are three teachings beginning
-> with Base.
+### Bhāṣya-informed study translation
+
+> A Base is a conceptual gathering; an Essence is an access-gateway through
+> which consciousness and mental factors extend; and a Principle is an
+> intrinsic source-kind, like a distinct
+> mine within a mountain and, for conditioned factors, a homogeneous cause
+> of its own kind. The Buddha teaches the Dharma through these three
+> presentations because those to be trained differ in what confuses them,
+> in Faculty, and in preference for brief, intermediate, or extensive
+> exposition.
+
+The Bhāṣya insists that Base retain its scriptural collective meaning:
+it is a conceptual designation (`prajñapti`), not an additional substance
+over and above its constituents. This generic meaning does not erase the
+distinct classification of the Cognition Base.
+
+### Anchor note
 
 The Bhāṣya establishes these meanings through scripture, derivation,
 analogy, and debate. It then explains the three presentations by reference
@@ -17,7 +30,6 @@ to those to be trained. The generic *skandha* is Base. The three respective
 meanings do not by themselves state the full Organon formulation; the
 Interpretation distinguishes the Bhāṣya's definitions from the
 project-level triadic Concept `<Base, Essence, Principle>`.
-
 ## 2. Continuous Sanskrit
 
 > uktāḥ skandhāyatanadhātavaḥ

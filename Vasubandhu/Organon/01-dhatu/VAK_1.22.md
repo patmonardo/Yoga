@@ -143,8 +143,6 @@ Kārikā's individual words.
 
 ## 8. Logical Determination
 
-### Systematic Placement
-
 The unconditioned is excluded from Base classification because it is not a
 collectable multiplicity; it remains included in Dharma Essence and Dharma
 Principle. The four accounts explain the order of the five Bases without

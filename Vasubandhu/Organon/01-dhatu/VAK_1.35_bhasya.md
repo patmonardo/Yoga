@@ -6,14 +6,18 @@
 >
 > dharmadhātvekadeśaś ca saṃcitā daśa rūpiṇaḥ // 1.35 //
 
-> The tangible Principle is twofold. The other nine Form-bearing
-> Principles are Principle-dependent, as is a portion of the Dharma
-> Principle. The ten Form-bearing Principles are aggregated.
+### Bhāṣya-informed study translation
+
+> The tangible Principle comprises both the four Great Principles and seven Principle-dependent tangible qualities. The other nine Form-bearing Principles depend on the Great Principles, and avijñapti—the Principle-dependent Form portion of the Dharma Principle—shares this status. The five sensory Faculties and five sensory-field Principles are atomically aggregated.
+
+The expanded translation keeps avijñapti within Principle-dependent Form
+while excluding it from the atomic meaning of `saṃcita`.
+
+### Anchor note
 
 The predicate *bhautika* carries into “a portion of the Dharma
 Principle.” The Bhāṣya identifies that portion as avijñapti. The final
 statement introduces aggregation as a separate classification.
-
 ## 2. Continuous Sanskrit
 
 > kati dhātavo bhūtasvabhāvāḥ kati bhautikāḥ /

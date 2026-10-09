@@ -6,26 +6,24 @@
 >
 > tadvijñānāśrayā rūpaprasādāś cakṣurādayaḥ // 1.09 //
 
-### Close translation
+### Bhāṣya-informed study translation
 
-> Form is the five faculties, the five meanings, and *avijñapti* also.
-> The Form clarities, beginning with the eye, are supports of the
-> corresponding cognitions.
+> The Form Base consists of five faculties, the five respective meanings
+> or conditions (*viṣaya*) of those faculties, and *avijñapti*. The
+> meanings are visible form, sound, odor, taste, and the tangible. The
+> faculties beginning with the eye are Form clarities and support the
+> cognitions corresponding to those meanings. *Avijñapti* is included but
+> not defined here; the five meanings are named and remain to be explained.
 
-### Bhāṣya-informed translation
+The Bhāṣya's scriptural citation calls the eye an internal Essence
+(*āyatana*) and a Form clarity dependent on the four Great Elements.
+Here *upādāya* means “depending on,” not appropriation as in 1.08.
 
-> The Form Base consists of five faculties—eye, ear, nose, tongue, and
-> body—the five respective meanings or conditions (*viṣaya*) of those
-> faculties, and *avijñapti*. The meanings are visible form, sound, odor,
-> taste, and the tangible. The faculties are Form clarities and support
-> the cognitions corresponding to those meanings. *Avijñapti* is included
-> but not defined here. The five meanings are named and remain to be
-> explained.
+### Anchor note
 
 Span: Pradhan `[005|21]`–`[006|07]`. The five Bases beginning with Form
 have already been stated; this unit defines Form Base and leads into the
 further explanation of the five meanings.
-
 ## 2. Continuous Sanskrit Witness
 
 > pañca rūpādayaḥ skandhā ity uktam /

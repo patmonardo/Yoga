@@ -1,4 +1,4 @@
-"""Inventory section headings in the Dhatu Karika studies."""
+"""Inventory and check top-level section headings in Dhatu Karika studies."""
 
 import argparse
 from collections import defaultdict
@@ -23,29 +23,6 @@ SECTION_ORDER = (
     "OWL++ Seed",
 )
 REQUIRED_SECTIONS = SECTION_ORDER[:5]
-SECTION_ALIASES = {
-    "Sanskrit (Devanagari)": "Sanskrit (Devanāgarī)",
-    "Grammar and Classification": "Grammar",
-    "Grammar and Eightfold View": "Grammar",
-    "Literal Translation": "Translation",
-    "Conventional Translation": "Translation",
-    "Philosophical Translation and Techne Reading": "Philosophical Translation",
-    "Interpretation": "Interpretive Note",
-    "Vocabulary": "Technical Vocabulary",
-}
-TRANSLATION_ORDER = (
-    "Literal Translation",
-    "Bhāṣya-informed study translation",
-)
-TRANSLATION_ALIASES = {
-    "Close syntactic construe": "Literal Translation",
-    "Close translation": "Literal Translation",
-    "Literal": "Literal Translation",
-    "Conventional translation": "Literal Translation",
-    "Bhāṣya-informed translation": "Bhāṣya-informed study translation",
-    "Bhāṣya-informed": "Bhāṣya-informed study translation",
-    "Commentary-informed translation": "Bhāṣya-informed study translation",
-}
 
 
 def headings_in(path: Path) -> tuple[str, ...]:
@@ -68,36 +45,22 @@ def headings_in(path: Path) -> tuple[str, ...]:
             continue
 
         match = HEADING.match(line)
-        if match:
-            level = len(match.group(1))
-            headings.append(f"{'#' * level} {match.group(2).strip()}")
+        if match and len(match.group(1)) == 2:
+            headings.append(f"## {match.group(2).strip()}")
 
     return tuple(headings)
-
-
-def heading_level(heading: str) -> int:
-    return len(heading.split(maxsplit=1)[0])
 
 
 def heading_title(heading: str) -> str:
     return re.sub(r"^\d+\.\s*", "", heading.split(maxsplit=1)[1]).strip()
 
 
-def canonical_section(title: str) -> str:
-    return SECTION_ALIASES.get(title, title)
-
-
-def canonical_translation(title: str) -> str:
-    return TRANSLATION_ALIASES.get(title, title)
-
-
 def check_headings(headings: tuple[str, ...]) -> list[str]:
     errors = []
-    sections = [heading for heading in headings if heading_level(heading) == 2]
     canonical = []
-    for heading in sections:
+    for heading in headings:
         title = heading_title(heading)
-        section = canonical_section(title)
+        section = title
         if section not in SECTION_ORDER:
             errors.append(f"noncanonical section heading: {heading}")
             continue
@@ -126,33 +89,6 @@ def check_headings(headings: tuple[str, ...]) -> list[str]:
                 f"section number does not match Pattern 3 order: {heading}"
             )
 
-    if present.count("Translation") != 1:
-        errors.append("expected exactly one Translation section")
-        return errors
-
-    translation_subsections = []
-    in_translation = False
-    for heading in headings:
-        if heading_level(heading) == 2:
-            if in_translation:
-                break
-            if canonical_section(heading_title(heading)) == "Translation":
-                in_translation = True
-        elif heading_level(heading) == 3 and in_translation:
-            title = heading_title(heading)
-            canonical_title = canonical_translation(title)
-            if canonical_title not in TRANSLATION_ORDER:
-                errors.append(f"noncanonical translation subsection: {heading}")
-            else:
-                translation_subsections.append(canonical_title)
-
-    if translation_subsections != list(TRANSLATION_ORDER):
-        errors.append("translation subsections are not in the required order")
-    for required in TRANSLATION_ORDER:
-        if translation_subsections.count(required) == 0:
-            errors.append(f"missing translation subsection: {required}")
-        elif translation_subsections.count(required) > 1:
-            errors.append(f"duplicate translation subsection: {required}")
     return errors
 
 

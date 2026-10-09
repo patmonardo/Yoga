@@ -6,17 +6,20 @@
 >
 > caramasyāśrayo 'tītaḥ pañcānāṃ sahajaś ca taiḥ // 1.44 //
 
-> Through the three beginning with the Nose, Cognition of a
-> Condition equal in extent is accepted. The support of the
-> Mind-Cognition Principle is past; each of the five also has
-> a co-born support.
+### Bhāṣya-informed study translation
+
+> Nose, Tongue, and Body apprehend contacted Conditions through equal numbers of participating Faculty atoms and Condition atoms. The Mind-Cognition Principle is supported by the Mind that ceased immediately before it. Each of the five sensory Cognitions has that past Mind support together with a second, simultaneous support—its own co-born sensory Faculty.
+
+The second rendering makes the force of the conjunction explicit: the sensory Cognitions
+have a co-born Faculty support as well as the immediately past Mind support.
+
+### Anchor note
 
 The Bhāṣya explains equality through Faculty atoms and Condition atoms.
 “The last” is the Mind-Cognition Principle; “the five” are sensory
 Cognitions. Each sensory Cognition has a co-born Faculty support as
 well as the past Mind support. The intervening exposition of Faculty
 atoms belongs to this same commentary unit.
-
 ## 2. Continuous Sanskrit
 
 > kiṃ punarebhiścakṣurādibhirātmaparimāṇatulyasyārthasya grahaṇaṃ bhavatyāśuvṛttyā ca parvatādīnāmalātacakrādivadāhosvittulyātulyasya /

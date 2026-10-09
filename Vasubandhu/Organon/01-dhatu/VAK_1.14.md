@@ -75,8 +75,6 @@ has the taking up of marks as its nature.
 
 ## 8. Logical Determination
 
-### Systematic Placement
-
 The same five Faculties and five meanings are classified as ten Essences
 and ten Principles. This verse also defines Feeling and Reflection. The
 following verse treats Formations and completes the related Dharma

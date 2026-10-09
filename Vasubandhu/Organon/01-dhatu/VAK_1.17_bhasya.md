@@ -6,25 +6,23 @@
 >
 > ṣaṣṭhāśrayaprasiddhyarthaṃ dhātavo 'ṣṭādaśa smṛtāḥ // 1.17 //
 
-Literal:
+### Bhāṣya-informed study translation
 
-> Whichever Cognition among the six is immediately past, that indeed is
-> Mind. The eighteen Principles are taught in order to establish the sixth
-> support.
+Mind is not a seventh Principle beside the six. Whichever of those six
+has just ceased is called Mind, and called the Mind Principle, in its
+office as support. The five have supports of their own. The
+Mind-Cognition Principle has no further support of that kind. Eighteen
+are taught so that this sixth support be established.
 
-Bhāṣya-informed:
+The support does not require a successor. An arhat's final consciousness
+remains mind. Another cause is wanting, and no next principle arises.
 
-> The Mind named here is not an additional Cognition beyond the six.
-> Whichever of those six Cognitions has just ceased is called Mind. The
-> Mind Principle is taught as the sixth support: the five sensory
-> Cognition Principles have supports of their own, while the
-> Mind-Cognition Principle has no further support of that kind.
+### Anchor note
 
 The commentary opens the question 1.16 left standing, answers it, meets
 a count-objection, and tests the answer on an arhat's final
 consciousness. The next study is what the bases, essences, and principles
 include.
-
 ## 2. Continuous Sanskrit
 
 > nanu ca ṣaḍ vijñānakāyā vijñānaskandha ity uktam / atha ko 'yaṃ punas

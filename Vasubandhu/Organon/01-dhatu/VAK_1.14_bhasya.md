@@ -8,14 +8,18 @@ Source: [`VAK_1.14.md`](./VAK_1.14.md).
 >
 > vedanānubhavaḥ saṃjñā nimittodgrahaṇātmikā // 1.14 //
 
-> These very Faculties and meanings are accepted as the ten Essences
-> and the ten Principles. Feeling is undergoing. *Saṃjñā* consists in reflection.
+### Bhāṣya-informed study translation
+
+The five Faculties and five meanings already stated are accepted as ten
+Essences and the same ten Principles. Feeling is undergoing, and Reflection
+has the taking up of marks as its nature.
+
+### Anchor note
 
 The working vocabulary is *skandha* = Base, *āyatana* = Essence,
 *dhātu* = Principle, and *saṃjñā* = Reflection. The Sanskrit definitions
 and the Bhāṣya's examples remain visible below. The source account and
 Organon interpretation remain distinct.
-
 ## 2. Continuous Sanskrit
 
 > ya eva rūpaskandhasvabhāvā uktāḥ /

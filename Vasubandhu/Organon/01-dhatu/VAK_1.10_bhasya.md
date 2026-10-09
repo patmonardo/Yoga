@@ -6,16 +6,23 @@
 >
 > ṣoḍhā caturvidho gandhaḥ spṛśyam ekādaśātmakam // 1.10 //
 
-From [`VAK_1.10.md`](./VAK_1.10.md):
+### Bhāṣya-informed study translation
 
-Visible Form is twofold and twentyfold. Sound is eightfold. Taste is
-sixfold. Odor is fourfold. The tangible has eleven as its nature.
+> Visible Form is twofold as color and configuration, and that same meaning
+> is enumerated as twentyfold. Sound is eightfold. Taste is sixfold. Odor
+> is fourfold. The tangible has eleven as its nature: the four Great
+> Elements and seven further tangibles.
+
+The verse gives the counts. The Bhāṣya goes on to examine whether sensory
+Principles arise from one or many substances and how their Conditions
+retain particular character.
+
+### Anchor note
 
 The commentary elaborates the counts and then examines whether sensory
 Principles arise from one or many substances and how their Conditions
 retain particular character. Span: Pradhan
 `[006|07]`–`[007|28]`. The next topic is *avijñapti*.
-
 ## 2. Continuous Sanskrit Witness
 
 > tatra tāvat /

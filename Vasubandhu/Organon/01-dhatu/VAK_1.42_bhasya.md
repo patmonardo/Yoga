@@ -6,15 +6,19 @@
 >
 > vijñānaṃ dṛśyate rūpaṃ na kilāntaritaṃ yataḥ // 1.42 //
 
-> The functionally participating Eye sees visible Forms, not the
-> Cognition dependent upon it; reportedly, obstructed visible Form
-> is not seen.
+### Bhāṣya-informed study translation
+
+> The Kāśmīra Vaibhāṣika account holds that the Eye sees when conjoined with visual Cognition. Its argument appeals to the relation among Eye, visible Form, and illumination: obstructed Form is not seen because visual Cognition does not arise. Other teachers attribute seeing to visual Cognition and transfer the act to the Eye as its support; the Sautrāntikas treat such expressions as conventional descriptions of a dependently arisen event.
+
+The second rendering preserves the doctrinal controversy rather than making
+the Kārikā's immediate thesis the uncontested conclusion of the Bhāṣya.
+
+### Anchor note
 
 This states the position defended at the beginning of the discussion.
 The reportive wording keeps its reason attributable; the Bhāṣya then
 subjects it to objections. The entire exchange cannot be reduced to
 the anchor's affirmative thesis.
-
 ## 2. Continuous Sanskrit
 
 > cakṣuridānīmasantīrakatve kathaṃ dṛṣṭiḥ /

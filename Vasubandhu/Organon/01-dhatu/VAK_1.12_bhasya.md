@@ -6,12 +6,15 @@
 >
 > dhṛtyādikarmasaṃsiddhāḥ kharasnehoṣṇateraṇāḥ // 1.12 //
 
-Literal (from the Kārikā study):
+### Bhāṣya-informed study translation
 
-> The Elements are the earth-Principle and the water-, fire-, and wind-Principles. They are established in functions beginning with support; the verse then names hardness, cohesion, heat, and impulsion.
+The four Great Elements are those four Principles. Their functions are
+support, gathering, ripening, and spreading; their characters are hardness,
+cohesion, heat, and impulsion.
+
+### Anchor note
 
 Kārikā: [`VAK_1.12.md`](./VAK_1.12.md). Previous: 1.11. Next: 1.13.
-
 ## 2. Continuous Sanskrit Witness
 
 > mahābhūtāny upādāyety uktāni katamāni bhūtāni / bhūtāni pṛthivīdhātur aptejovāyudhātavaḥ / ity ete catvāraḥ svalakṣaṇopādāyarūpadhāraṇād dhātavaś catvāri mahābhūtāny ucyante / mahattvam eṣāṃ sarvānyarūpāśrayatvenaudārikatvāt / atha vā tadudbhūtavṛttiṣu pṛthivyaptejovāyuskandheṣv eṣāṃ mahāsaṃniveśatvāt / te punar ete dhātavaḥ kasmin karmaṇi saṃsiddhāḥ kiṃsvabhāvāś cety āha / dhṛtyādikarmasaṃsiddhāḥ / dhṛtisaṃgrahapaktivyūhanakarmasv ete yathākramaṃ saṃsiddhāḥ pṛthivyaptejovāyudhātavaḥ / vyūhanaṃ punar vṛddhiḥ prasarpaṇaṃ ca veditavyam / idam eṣāṃ karma / svabhāvas tu yathākramaṃ kharasnehoṣṇateraṇāḥ / kharaḥ pṛthivīdhātuḥ / sneho 'bdhātuḥ / uṣṇatā tejodhātuḥ / īraṇā vāyudhātuḥ / īryate 'nayā bhūtasroto deśāntarotpādanāt pradīperaṇavad itīraṇā / “vāyudhātuḥ katamo laghusamudīraṇatvam” iti prakaraṇeṣu nirdiṣṭaṃ sūtre ca / tat tu laghutvam upādāya rūpam apy uktaṃ prakaraṇeṣu / ato ya īraṇāsvabhāvo dharmaḥ sa vāyur iti karmaṇā 'sya svabhāvo 'bhivyaktaḥ /

@@ -132,8 +132,6 @@ not claim that Faculties produce their Conditions.
 
 ## 8. Logical Determination
 
-### Systematic Placement
-
 The Bhāṣya orders six Faculties within the Essence and Principle
 arrangements. The corresponding Conditions and Principles follow that
 sequence. These are ordered relations, not a claim that Faculties produce

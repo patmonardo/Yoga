@@ -6,16 +6,20 @@
 >
 > tau prajñā mānasī vyagrā smṛtiḥ sarvaiva mānasī // 1.33 //
 
-> [The five sensory-Cognition Principles] are without vikalpa with respect to
-> examining and recollective vikalpa. Those two are, respectively,
-> unconcentrated mental prajñā and all mental smṛti.
+### Bhāṣya-informed study translation
+
+> Sensory cognition is called non-discriminative only because it lacks the developed forms of determining and recollective vikalpa; it still possesses intrinsic vikalpa, identified with vitarka. Determining vikalpa is unconcentrated prajñā associated with mental cognition, while recollective vikalpa is specifically mental smṛti, whether concentrated or unconcentrated.
+
+This translation preserves the relative force of `avikalpaka` and prevents
+“nonconceptual” from being mistaken for cognitively blank sensation.
+
+### Anchor note
 
 The supplied subject comes from the preceding verse and the Bhāṣya's
 opening question. Prajñā is provisionally glossed here as discernment,
 smṛti as memory or recollective retention, and vikalpa as discrimination.
 The Sanskrit terms remain visible because their precise scope is the
 subject of the passage.
-
 ## 2. Continuous Sanskrit
 
 > yadi pañca vijñānakāyāḥ savitarkāḥ savicārāḥ kathamavikalpakā ityucyante /

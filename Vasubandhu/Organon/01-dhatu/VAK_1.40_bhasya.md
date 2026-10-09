@@ -6,14 +6,15 @@
 >
 > na dṛṣṭiheyam akliṣṭaṃ na rūpaṃ nāpy aṣaṣṭhajam // 1.40 //
 
-> Ten are to be abandoned through cultivation, and five also.
-> The final three are threefold. Nothing unafflicted is to be abandoned
-> by seeing, nor Form, nor what is not born from the sixth.
+### Bhāṣya-informed study translation
+
+> The ten Form Principles and five sensory Cognition Principles are to be abandoned through cultivation. Mind, Dharma, and Mind-Cognition are each classified across three path-statuses: the latent afflictions, co-arisen Dharmas, their acquisitions, and attendants abandoned by seeing; the remaining impure Dharmas abandoned through cultivation; and the pure Dharmas that are not to be abandoned. Seeing abandons neither what is unafflicted, nor Form, nor what is not born from the Mind Essence.
+
+### Anchor note
 
 The Bhāṣya supplies the Principle names and specifies the three path-statuses
 of the final three. Its *darśanaheya* names the same classification as the
 verse's *dṛṣṭiheya*: to be abandoned by seeing.
-
 ## 2. Continuous Sanskrit
 
 > kati dhātavo darśanaheyāḥ kati bhāvanāheyāḥ katy aheyāḥ /
