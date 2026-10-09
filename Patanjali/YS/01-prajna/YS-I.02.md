@@ -15,26 +15,22 @@
 | *yogaḥ* | nominative singular | yoga |
 | *citta* | compound member | consciousness |
 | *vṛtti* | compound member | movements, operations |
-| *nirodhaḥ* | nominative singular; head of the compound | sublation |
+| *nirodhaḥ* | nominative singular; head of the compound | restraint, cessation |
 
 ## 4. Grammar
 
-External sandhi gives *yogaḥ* → *yogaś* before *citta*. The sentence equates two nominatives: *yogaḥ* and *citta-vṛtti-nirodhaḥ*. The compound directs sublation to the *vṛttis* of consciousness.
+External sandhi gives *yogaḥ* → *yogaś* before *citta*. The sentence equates two nominatives: *yogaḥ* and *citta-vṛtti-nirodhaḥ*. The compound directs restraint to the *vṛttis* of consciousness.
 
 ## 5. Translation
 
-### Scientific translation
+### Literal translation
 
-> Yoga is the Science of Consciousness.
-
-### Grammatical gloss
-
-> Yoga is the sublation of the movements of consciousness.
+> Yoga is the restraint of the movements of consciousness.
 
 ## 6. Logical Determination
 
-I.1 announces an instruction; I.2 names its science. The movements of consciousness are its determinate field, and their sublation is the governing relation. I.3–4 will show what this means for the seer.
+I.1 announces an instruction; I.2 defines yoga by the restraint of the movements of consciousness. I.3–4 will show what this means for the seer.
 
 ## 7. Interpretive Note
 
-We retain *citta* as **consciousness** and render *nirodha* as **sublation**. Yoga knows consciousness through its movements and their sublation. The sequence will determine how that sublation occurs.
+*Citta* is rendered as consciousness here. The Kośa's two technical kinds of *nirodha* offer a comparison, but neither defines Yoga's *citta-vṛtti-nirodha*. I.12 names practice and dispassion as its two means.

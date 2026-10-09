@@ -64,6 +64,9 @@ def source_inventory(text: str) -> dict[tuple[int, int], str]:
         verse = int(match.group(2).translate(DEVANAGARI))
         # A source sūtra may wrap. Earlier colophons/headings end in ॥.
         prefix = text[start : match.start()]
+        # The source places parenthetical variant readings after some markers;
+        # they belong to the preceding sūtra, not the following anchor.
+        prefix = re.sub(r"^\s*\([^)]*\)\s*", "", prefix)
         body = prefix.rsplit("॥", 1)[-1].strip() + " " + match.group(0)
         key = (chapter, verse)
         if key in inventory:

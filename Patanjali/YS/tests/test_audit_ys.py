@@ -23,6 +23,13 @@ class YSAuditTests(unittest.TestCase):
     def test_live_studies_match_source_and_paired_scaffolds(self):
         self.assertEqual(audit(), [])
 
+    def test_variant_after_i17_does_not_enter_i18_anchor(self):
+        inventory = source_inventory(SOURCE.read_text(encoding="utf-8"))
+        self.assertEqual(
+            inventory[1, 18],
+            "विरामप्रत्ययाभ्यासपूर्वः संस्कारशेषोऽन्यः॥ १.१८॥",
+        )
+
     def test_heading_reader_ignores_fenced_examples(self):
         sample = "## 1. Sanskrit (Devanāgarī)\n```md\n## Wrong\n```\n"
         self.assertEqual(headings(sample), SUTRA_HEADINGS[:1])
