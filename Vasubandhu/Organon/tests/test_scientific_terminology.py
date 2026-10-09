@@ -4,6 +4,8 @@ from pathlib import Path
 import re
 import unittest
 
+from audit_karika_sections import check_headings, headings_in
+
 
 REPO_ROOT = Path(__file__).resolve().parents[3]
 STUDY_DIR = Path(__file__).resolve().parents[1] / "01-dhatu"
@@ -176,6 +178,14 @@ class ScientificTerminologyTests(unittest.TestCase):
         for mapping in REQUIRED_MAPPINGS:
             with self.subTest(mapping=mapping):
                 self.assertIn(mapping, text)
+
+    def test_karika_section_structure_follows_pattern_3(self):
+        for verse in range(1, 49):
+            path = STUDY_DIR / f"VAK_1.{verse:02d}.md"
+            with self.subTest(verse=verse):
+                self.assertTrue(path.is_file(), f"Missing kārikā study: {path}")
+                errors = check_headings(headings_in(path))
+                self.assertEqual(errors, [], f"{path.name}: {errors}")
 
 
 if __name__ == "__main__":

@@ -1,6 +1,6 @@
 # VAK_1.04 — Dharma Knowing as Real / Ideal
 
-## 1. Sanskrit (Devanagari)
+## 1. Sanskrit (Devanāgarī)
 
 > सास्रवानास्रवा धर्माः संस्कृता मार्गवर्जिताः ।
 >
@@ -54,7 +54,9 @@ through the conditioned dharmas other than the Path. The Bhāṣya distinguishes
 this persistence from an `āsrava` merely taking cessation or the Path as its
 `ālambana`.
 
-## 5. Conventional Translation
+## 5. Translation
+
+### Literal Translation
 
 > Dharmas are impure and pure. Conditioned dharmas, excluding the Path, are
 > impure, because the `āsravas` persist through them.
@@ -62,7 +64,12 @@ this persistence from an `āsrava` merely taking cessation or the Path as its
 The translation renders `sāsrava` as "impure" and `anāsrava` as "pure";
 `āsrava` itself remains untranslated where its technical relation matters.
 
-## 6. Philosophical Translation and Techne Reading
+
+### Bhāṣya-informed study translation
+
+> Dharmas are impure and pure. Conditioned dharmas other than the Truth of the Path are impure because the *āsravas* persist through them. Although *āsravas* may arise with the Truth of Cessation or the Truth of the Path as their objects, they do not persist through those truths; taking them as objects therefore does not make them impure.
+
+## 6. Philosophical Translation
 
 In our Yoga Vidyā, Dharma Knowing is the self-articulation of the **Law of
 Appearance**. This is the Techne's determination of the field that 1.03

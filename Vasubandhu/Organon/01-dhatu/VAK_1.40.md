@@ -38,7 +38,7 @@ nāpy aṣaṣṭhajam       → na api a-ṣaṣṭha-jam
 The Bhāṣya uses *darśanaheya* for the Kārikā's *dṛṣṭiheya*. Both name
 the path-status of what is abandoned through seeing the truths.
 
-## 4. Grammar and Classification
+## 4. Grammar
 
 The first line is elliptical. The Bhāṣya supplies the referents:
 
@@ -90,31 +90,13 @@ classifications.
 
 ## 5. Translation
 
-### Close syntactic construe
+### Literal Translation
 
 > Ten are to be abandoned through cultivation, and five also. The final three are threefold. Nothing unafflicted is to be abandoned by seeing, nor Form, nor what is not born from the sixth.
 
-### Bhāṣya-informed translation
+### Bhāṣya-informed study translation
 
 > The ten Form Principles and five sensory Cognition Principles are to be abandoned through cultivation. Mind, Dharma, and Mind-Cognition are each classified across three path-statuses: the latent afflictions, co-arisen Dharmas, their acquisitions, and attendants abandoned by seeing; the remaining impure Dharmas abandoned through cultivation; and the pure Dharmas that are not to be abandoned. Seeing abandons neither what is unafflicted, nor Form, nor what is not born from the Mind Essence.
-
-## 6. The Bhāṣya's Objection and Reply
-
-The questioner points to ordinary-person status and Body-and-Voice action
-that leads to a bad destination. These oppose the noble Path, so why are
-they not abandoned by seeing?
-
-The reply rejects that inference: opposition to the noble Path is not by
-itself enough to make something seeing-abandoned. Ordinary-person status is
-unafflicted and indeterminate. Body-and-Voice action belongs to Form, and
-Form is not abandoned by seeing. The Bhāṣya further explains *aṣaṣṭhajam*
-through the Mind Essence: what is born elsewhere, including what is
-born through the five Faculties, is not abandoned by seeing.
-
-Thus the second line does more than repeat the three path-statuses. It
-excludes whole classes from one specific operation, seeing, while leaving
-their relation to cultivation or non-abandonment to their other
-determinations.
 
 ## 7. Technical Vocabulary
 
@@ -175,6 +157,24 @@ OpposesNoblePath(x)
 ```
 
 ## 9. Interpretive Note
+
+### The Bhāṣya's Objection and Reply
+
+The questioner points to ordinary-person status and Body-and-Voice action
+that leads to a bad destination. These oppose the noble Path, so why are
+they not abandoned by seeing?
+
+The reply rejects that inference: opposition to the noble Path is not by
+itself enough to make something seeing-abandoned. Ordinary-person status is
+unafflicted and indeterminate. Body-and-Voice action belongs to Form, and
+Form is not abandoned by seeing. The Bhāṣya further explains *aṣaṣṭhajam*
+through the Mind Essence: what is born elsewhere, including what is
+born through the five Faculties, is not abandoned by seeing.
+
+Thus the second line does more than repeat the three path-statuses. It
+excludes whole classes from one specific operation, seeing, while leaving
+their relation to cultivation or non-abandonment to their other
+determinations.
 
 VAK 1.40 classifies the ten Form Principles and five sensory Cognition
 Principles as cultivation-abandoned. The final three—Mind, Dharma, and

@@ -87,15 +87,17 @@ to the Body, Mind-Cognition, and Dharmas.
 
 ## 5. Translation
 
-### Close syntactic construe
+### Literal Translation
 
 > Likewise the Ear. For the three, all belong to their own plane. Body-Cognition belongs to a lower plane or its own plane. Mind is not fixed.
 
-### Commentary-informed translation
+### Bhāṣya-informed study translation
 
 > The Ear, sound Condition, and Ear-Cognition follow the plane-relations stated for the Eye, visible Form, and Eye-Cognition. For Nose, Tongue, and Body, each Faculty, Condition, and Cognition belongs to its own plane. The Body, Body Principle, and tangibles remain on the person's own plane, while Body-Cognition may belong to a lower plane or its own plane. Mind has no single fixed plane-relation: it may be on the same, a higher, or a lower plane relative to the Body, Mind-Cognition, and Dharmas.
 
-## 6. Rule Structure
+## 8. Logical Determination
+
+### Rule Structure
 
 The Ear rule repeats the full relation from 1.46:
 
@@ -118,8 +120,6 @@ second or a later level.
 Mind may be on the same, a higher, or a lower plane relative to Body,
 Mind-Cognition, and Dharmas. This describes a variable plane-relation,
 not an absence of conditions.
-
-## 7. Logical Determination
 
 The Ear relation carries over the restrictions of 1.46:
 
@@ -152,7 +152,7 @@ Compare(P(Mind), P(Body), P(MindCognition), P(Dharmas))
     ∈ {SamePlane, HigherPlane, LowerPlane}
 ```
 
-## 8. Interpretation
+## 9. Interpretive Note
 
 This verse transfers the Eye plane-relations to hearing, then gives the
 Nose, Tongue, and Body triads an own-plane rule. The commentary qualifies
@@ -174,7 +174,7 @@ Vijñāna governs Manas and guides the reading of Dharma Base. Form Base
 and Dharma Base classify the same *avijñapti* distinctly; Vijñāna bears
 a *prati* relation to it and remains distinct from consciousness and Mind.
 
-## 9. OWL++ Seed
+## 10. OWL++ Seed
 
 ```ttl
 @prefix vak: <http://127.0.0.1:3000/vak#> .

@@ -63,15 +63,6 @@ Cognition Base is Mind Essence. Seven Principles are accepted: the six
 Cognition Principles, from Eye-Cognition through Mind-Cognition, and Mind
 Principle.
 
-## 6. Systematic Placement
-
-| Base | Essence | Principle |
-|---|---|---|
-| Cognition Base | Mind Essence | six Cognition Principles and Mind Principle |
-
-The Bhāṣya closes the count at five Bases, twelve Essences, and eighteen
-Principles.
-
 ## 7. Technical Vocabulary
 
 | Sanskrit | Rendering | Note |
@@ -84,6 +75,15 @@ Principles.
 | manodhātu | Mind Principle | the seventh; distinct from Mind-Cognition Principle |
 
 ## 8. Logical Determination
+
+### Systematic Placement
+
+| Base | Essence | Principle |
+|---|---|---|
+| Cognition Base | Mind Essence | six Cognition Principles and Mind Principle |
+
+The Bhāṣya closes the count at five Bases, twelve Essences, and eighteen
+Principles.
 
 ```text
 Cognition Base

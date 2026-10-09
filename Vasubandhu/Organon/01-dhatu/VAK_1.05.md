@@ -46,15 +46,15 @@ The names of the two cessations are supplied by the Bhāṣya and defined in 1.0
 
 ## 5. Translation
 
-### Close syntactic construe
+### Literal Translation
 
 > The Pure dharmas are the Truth of the Path and also the threefold unconditioned: space and the two cessations. Among these, space is non-obstruction.
 
-### Bhāṣya-informed translation
+### Bhāṣya-informed study translation
 
 > The Pure dharmas comprise the conditioned Truth of the Path and three unconditioned dharmas—space, cessation through discrimination, and cessation not through discrimination—because the *āsravas* do not persist in them. Space is non-obstruction: that in which form can move.
 
-## 6. Philosophical Translation and Techne Reading
+## 6. Philosophical Translation
 
 > Being Pure and being unconditioned are distinct determinations. The Truth of the Path is conditioned yet Pure; space and the two cessations are unconditioned and Pure. Space is non-obstruction, explained by the Bhāṣya as allowing form to move.
 

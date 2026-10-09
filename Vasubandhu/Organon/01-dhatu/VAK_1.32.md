@@ -86,11 +86,11 @@ produces a fourfold refinement on levels where both factors function.
 
 ## 5. Translation
 
-### Close syntactic construe
+### Literal Translation
 
 > The five Cognition Principles are indeed associated with vitarka and vicāra. The final three occur in three modes; the remaining [ten] are without both.
 
-### Bhāṣya-informed translation
+### Bhāṣya-informed study translation
 
 > The five sensory-Cognition Principles are always associated with both vitarka and vicāra. The Mind, Dharma, and Mind-Cognition Principles admit three modes according to meditative level: association with both, with vicāra alone, or with neither. The ten Form Base Principles are incapable of association with either.
 

@@ -87,11 +87,11 @@ Principle-dependent, but it is not one of these ten atomic aggregates.
 
 ## 5. Translation
 
-### Close syntactic construe
+### Literal Translation
 
 > The tangible Principle is twofold. The remaining nine Form-bearing Principles are Principle-dependent, as is one portion of the Dharma Principle. The ten Form-bearing Principles are aggregated.
 
-### Bhāṣya-informed translation
+### Bhāṣya-informed study translation
 
 > The tangible Principle comprises both the four Great Principles and seven Principle-dependent tangible qualities. The other nine Form-bearing Principles depend on the Great Principles, and avijñapti—the Principle-dependent Form portion of the Dharma Principle—shares this status. The five sensory Faculties and five sensory-field Principles are atomically aggregated.
 

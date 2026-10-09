@@ -77,29 +77,20 @@ co-born Faculty support, in addition to the past Mind support.
 
 ## 5. Translation
 
-### Close syntactic construe
+### Literal Translation
 
 > The three beginning with the Nose are held to apprehend a Condition equal [in extent]. The support of the last Cognition Principle is past; the five also have co-born supports.
 
-### Bhāṣya-informed translation
+### Bhāṣya-informed study translation
 
 > Nose, Tongue, and Body apprehend contacted Conditions through equal numbers of participating Faculty atoms and Condition atoms. The Mind-Cognition Principle is supported by the Mind that ceased immediately before it. Each of the five sensory Cognitions has that past Mind support together with a second, simultaneous support—its own co-born sensory Faculty.
 
 The second rendering makes the force of the conjunction explicit: the sensory Cognitions
 have a co-born Faculty support as well as the immediately past Mind support.
 
-## 6. Contact Extent and Temporal Support
+## 7. Technical Vocabulary
 
-For Nose, Tongue, and Body, the Bhāṣya relates the counts of participating
-Faculty atoms and Condition atoms. It does not generalize that equality
-to Eye or Ear, and Mind has no spatial measure in this account.
-
-The support relation is separate from extent. The Mind-Cognition Principle
-depends on the immediately preceding Mind. Each sensory Cognition depends
-on that past Mind and its own co-born Faculty. The verse therefore
-distinguishes spatial extent, temporal support, and co-born support.
-
-## 7. Conditions, Objects, and Supports
+### Conditions, Objects, and Supports
 
 The Bhāṣya keeps three relations distinct. A **support** is what a
 Cognition depends on; an **object** is what it is directed toward; a
@@ -115,6 +106,17 @@ three Faculties, nor does it imply that an entire visible Form complex
 is unseen because an atom is not seen.
 
 ## 8. Logical Determination
+
+### Contact Extent and Temporal Support
+
+For Nose, Tongue, and Body, the Bhāṣya relates the counts of participating
+Faculty atoms and Condition atoms. It does not generalize that equality
+to Eye or Ear, and Mind has no spatial measure in this account.
+
+The support relation is separate from extent. The Mind-Cognition Principle
+depends on the immediately preceding Mind. Each sensory Cognition depends
+on that past Mind and its own co-born Faculty. The verse therefore
+distinguishes spatial extent, temporal support, and co-born support.
 
 The contact-equality rule is:
 

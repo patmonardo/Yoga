@@ -61,11 +61,18 @@ The dative `yathārtha-śāstre` stands in apposition to `tasmai`: homage is off
     I shall proclaim the treatise, the Abhidharmakośa
 ```
 
-## 5. Literal Translation
+## 5. Translation
+
+### Literal Translation
 
 > Having bowed to him whose darkness has been destroyed in every way and concerning everything, who raised the world from the mire of saṃsāra—to that teacher according to reality—I shall proclaim the treatise, the *Abhidharmakośa*.
 
-## 6. Philosophical Translation and Techne Reading
+
+### Bhāṣya-informed study translation
+
+> Having bowed to him, the teacher according to reality, whose ignorance has been destroyed in every mode and throughout all knowable things, and who lifted the world from saṃsāra’s mire through true teaching rather than miraculous powers, I shall proclaim the *Abhidharmakośa*, the treatise for instructing disciples.
+
+## 6. Philosophical Translation
 
 > The work begins by bowing to the one whose ignorance has been extinguished in every way and concerning everything, who raises beings out of saṃsāric entanglement, and who teaches according to reality. The *Abhidharmakośa* is then announced as the śāstra to be proclaimed.
 

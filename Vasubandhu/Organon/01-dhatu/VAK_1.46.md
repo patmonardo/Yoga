@@ -69,11 +69,11 @@ plane ranges assigned to the four terms.
 
 ## 5. Translation
 
-### Close syntactic construe
+### Literal Translation
 
 > The Eye is not lower than the Body; visible Form is not higher than the Eye, nor is its Cognition. But relative to that [Eye-Cognition], visible Form may be higher, lower, or on the same plane; and relative to the Body, both may be in any of those three relations.
 
-### Commentary-informed translation
+### Bhāṣya-informed study translation
 
 > The Eye Faculty may be on the Body's plane or a higher plane, but never a lower one. Visible Form and Eye-Cognition may each be on the Eye's plane or a lower one, but never a higher one. Relative to Eye-Cognition, visible Form may be higher, lower, or on the same plane; relative to the Body, both visible Form and Eye-Cognition may stand in any of those three relations.
 
@@ -82,7 +82,7 @@ the Desire Realm and the first through fourth meditative levels.
 Eye-Cognition is restricted to two: the Desire Realm and the first
 meditative level.
 
-## 6. Logical Determination
+## 8. Logical Determination
 
 Let `P(x)` denote the plane of an item in the comparison. The restrictions
 are:
@@ -118,7 +118,7 @@ EyeFaculty
 The free comparisons do not cancel these limits or show that every
 combination satisfying them occurs.
 
-## 7. Interpretation
+## 9. Interpretive Note
 
 This verse specifies plane-relations among Body, the Eye Faculty, visible
 Form, and Eye-Cognition. The Eye Faculty is not below the Body, while visible
@@ -138,7 +138,7 @@ Vijñāna governs Manas and guides the reading of Dharma Base. Form Base
 and Dharma Base classify the same *avijñapti* distinctly; Vijñāna bears
 a *prati* relation to it and remains distinct from consciousness and Mind.
 
-## 8. OWL++ Seed
+## 10. OWL++ Seed
 
 ```ttl
 @prefix vak: <http://127.0.0.1:3000/vak#> .

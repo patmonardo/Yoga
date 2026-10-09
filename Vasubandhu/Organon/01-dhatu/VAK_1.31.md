@@ -84,13 +84,13 @@ exception with outflows.
 
 ## 5. Translation
 
-### Close syntactic construe
+### Literal Translation
 
 > The Mind Principle, Dharma Principle, and Mind-Cognition Principle
 > belong to the Formless Realm. These three admit instances with or
 > without outflows; the remaining [fifteen] are with outflows.
 
-### Bhāṣya-informed translation
+### Bhāṣya-informed study translation
 
 > Only the Mind, Dharma, and Mind-Cognition Principles belong to the
 > Formless Realm. The ten Form Base Principles are absent there, as are

@@ -66,13 +66,6 @@ Feeling, Reflection, and Formations Bases, together with *avijñapti* and
 the three unconditioned dharmas, are classified as Dharma Essence and
 Dharma Principle.
 
-## 6. Systematic Placement
-
-The Formations Base completes the five-Base classification. The Bhāṣya
-counts seven constituents under the Dharma classifications: the three Bases
-just named, *avijñapti*, and the three unconditioned dharmas. *Avijñapti*
-retains its Form Base classification; the unconditioned have no Base.
-
 ## 7. Technical Vocabulary
 
 | Sanskrit | Rendering | Note |
@@ -85,6 +78,13 @@ retains its Form Base classification; the unconditioned have no Base.
 | asaṃskṛta | unconditioned | three unconditioned dharmas are included |
 
 ## 8. Logical Determination
+
+### Systematic Placement
+
+The Formations Base completes the five-Base classification. The Bhāṣya
+counts seven constituents under the Dharma classifications: the three Bases
+just named, *avijñapti*, and the three unconditioned dharmas. *Avijñapti*
+retains its Form Base classification; the unconditioned have no Base.
 
 ```text
 other conditioned formations

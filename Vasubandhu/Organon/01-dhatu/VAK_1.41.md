@@ -41,7 +41,7 @@ seeing by disclosing visible Form; the Dharma Principle portion is view
 in eight kinds. The whole Dharma Principle is not thereby classified
 as view.
 
-## 4. Grammar and Eightfold View
+## 4. Grammar
 
 The verse uses one term across two related but distinct functions:
 
@@ -84,11 +84,11 @@ perform the ascertainive operation that defines view.
 
 ## 5. Translation
 
-### Close syntactic construe
+### Literal Translation
 
 > A portion of the Eye Principle and a portion of the Dharma Principle are seeing or view; the latter is eightfold. The discernment co-born with the five sensory Cognitions is not view, because it does not ascertain.
 
-### Bhāṣya-informed translation
+### Bhāṣya-informed study translation
 
 > A portion of the Eye Principle counts as seeing because it discloses visible Form. A portion of the Dharma Principle counts as view in eight kinds: five afflicted views, worldly right view, the trainee's view, and the adept's view. Discernment co-born with the five sensory Cognitions is not view, because it does not attentively examine and ascertain.
 
@@ -96,7 +96,45 @@ perform the ascertainive operation that defines view.
 source term; the translation does not force them into one
 undifferentiated operation.
 
-## 6. Science of Principles and Ascertainment
+## 6. Philosophical Translation
+
+### Principle Processor Closure
+
+VAK 1.40 established what is abandoned by seeing. This final verse of the
+Principle Processor run asks what qualifies as seeing or view. It does not
+give a single, undifferentiated power:
+
+```text
+Eye Principle
+    → discloses visible Form
+
+sensory Cognition with co-born discernment
+    → does not ascertain
+
+Science of Principles in specified views
+    → functions as view through ascertainment
+```
+
+The eightfold classification shows why Science of Principles is consequential
+here: worldly right view is wholesome yet impure, while trainee and adept
+views are pure. Correctness, purity, and ascertainative function are not
+interchangeable.
+
+This completes the current Principle Processor sequence without claiming
+that 1.41 resolves the nature of the Seer. The Eye's visual disclosure
+and the Dharma Principle's ascertainative view remain distinct; the
+commentarial dispute over who sees continues at 1.42.
+
+In the wider model, Vijñāna joins and governs Perception and Conception;
+their unity is Inconceivable as a homogeneous operation, and its Idea is
+disclosed in Cognition Base. Vijñāna governs Manas and guides Dharma Base.
+Form Base and Dharma Base classify the same *avijñapti* distinctly;
+Vijñāna bears a *prati* relation to it and remains distinct from
+consciousness and Mind.
+
+## 7. Technical Vocabulary
+
+### Science of Principles and Ascertainment
 
 The Bhāṣya's use of Science of Principles is carefully qualified. It
 defines worldly right view as wholesome, impure Science of Principles,
@@ -120,35 +158,7 @@ afflicted or unafflicted, do not qualify as view merely by being
 Science of Principles. Their source, path-status, and operation matter.
 The term does not automatically mean perfected or pure Knowing.
 
-## 7. The Analogy and the Eye's Seeing
-
-The Bhāṣya compares seeing Dharmas through afflicted views, the
-unafflicted worldly view, trainee's view, and adept's view with seeing
-visible Forms under clouded or clear conditions, by night or by day. The
-comparison marks differing conditions of disclosure; it does not say that
-the Dharma Principle is produced by the clarity or obscurity of a view.
-
-The Bhāṣya then asks: if the Eye does not ascertain, in what sense is it
-called seeing? Its answer is visual disclosure: the Eye discloses or illuminates
-visible Form. This is not the same operation as ascertainative view.
-Whether the Eye itself sees or the Cognition dependent on it sees opens
-the next dispute, at 1.42; this study does not decide it.
-
-## 8. Interpretive Distinctions
-
-The Eye Principle counts as seeing through disclosure of visible Form;
-the eightfold view belongs to a portion of the Dharma Principle, not
-to its entirety. The eight kinds comprise five afflicted views, worldly
-right view, the trainee's view, and the adept's view.
-
-Science of Principles is broader than its classification as view.
-Worldly right view is wholesome and impure, and is associated with
-Mind-Cognition; discernment co-born with sensory Cognition is excluded
-from view because it does not ascertain. Visual disclosure and
-ascertainative view are distinct functions, while the question of who
-sees remains open for 1.42.
-
-## 9. Logical Determination
+## 8. Logical Determination
 
 ```text
 EyePrinciplePortion
@@ -187,36 +197,32 @@ visual disclosure
     ≠ ascertainative view
 ```
 
-## 10. Principle Processor Closure
+## 9. Interpretive Note
 
-VAK 1.40 established what is abandoned by seeing. This final verse of the
-Principle Processor run asks what qualifies as seeing or view. It does not
-give a single, undifferentiated power:
+### The Analogy and the Eye's Seeing
 
-```text
-Eye Principle
-    → discloses visible Form
+The Bhāṣya compares seeing Dharmas through afflicted views, the
+unafflicted worldly view, trainee's view, and adept's view with seeing
+visible Forms under clouded or clear conditions, by night or by day. The
+comparison marks differing conditions of disclosure; it does not say that
+the Dharma Principle is produced by the clarity or obscurity of a view.
 
-sensory Cognition with co-born discernment
-    → does not ascertain
+The Bhāṣya then asks: if the Eye does not ascertain, in what sense is it
+called seeing? Its answer is visual disclosure: the Eye discloses or illuminates
+visible Form. This is not the same operation as ascertainative view.
+Whether the Eye itself sees or the Cognition dependent on it sees opens
+the next dispute, at 1.42; this study does not decide it.
 
-Science of Principles in specified views
-    → functions as view through ascertainment
-```
+### Interpretive Distinctions
 
-The eightfold classification shows why Science of Principles is consequential
-here: worldly right view is wholesome yet impure, while trainee and adept
-views are pure. Correctness, purity, and ascertainative function are not
-interchangeable.
+The Eye Principle counts as seeing through disclosure of visible Form;
+the eightfold view belongs to a portion of the Dharma Principle, not
+to its entirety. The eight kinds comprise five afflicted views, worldly
+right view, the trainee's view, and the adept's view.
 
-This completes the current Principle Processor sequence without claiming
-that 1.41 resolves the nature of the Seer. The Eye's visual disclosure
-and the Dharma Principle's ascertainative view remain distinct; the
-commentarial dispute over who sees continues at 1.42.
-
-In the wider model, Vijñāna joins and governs Perception and Conception;
-their unity is Inconceivable as a homogeneous operation, and its Idea is
-disclosed in Cognition Base. Vijñāna governs Manas and guides Dharma Base.
-Form Base and Dharma Base classify the same *avijñapti* distinctly;
-Vijñāna bears a *prati* relation to it and remains distinct from
-consciousness and Mind.
+Science of Principles is broader than its classification as view.
+Worldly right view is wholesome and impure, and is associated with
+Mind-Cognition; discernment co-born with sensory Cognition is excluded
+from view because it does not ascertain. Visual disclosure and
+ascertainative view are distinct functions, while the question of who
+sees remains open for 1.42.

@@ -9,12 +9,16 @@ Samāpatti.
 
 ## Pre-Techne
 
-[Pre-Techne for the Organon Kośa (Yoga Techne)](./technical-expressions-vol-i-ii.md)
+[Pre-Techne for the Organon Kośa (Yoga Techne)](../Essays/technical-expressions-vol-i-ii.md)
 sets the controlled terminology and project-level distinctions for Volumes
 I–II. It frames the Metaphysical Sciences of Form, Essence, and Principle
 around the Essence:Form Engine; it is an entry into that architecture, not a
 bare glossary. It precedes, and remains distinct from, any occurrence
 concordance.
+
+[Dharma Principle Dossier](../Essays/dharmadhatu-dossier.md) gathers the chapter's
+Dharmadhātu witnesses in a source-first study sequence and keeps its Pure
+Māyā inquiry explicitly separate from the Kośa's stated classifications.
 
 ## Editorial Principles
 

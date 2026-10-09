@@ -51,13 +51,13 @@ field. It is not a second inventory.
 
 ## 5. Translation
 
-### Literal
+### Literal Translation
 
 Those which are Impure are the Bases of appropriation
 (*upādānaskandhas*). They are also *saraṇa*. They are suffering, origin,
 world, the station of views, and becoming.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
 The Impure aggregates are Bases of appropriation. Every such Base is an
 aggregate, but some aggregates are Pure and therefore are not Bases of
@@ -67,7 +67,7 @@ with conflict because afflictions persist latently in them and injure self
 and others. Suffering, Origin, World, Station of Views, and Becoming are
 further designations of this same Impure field, each with its own reason.
 
-## 6. Philosophical Translation and Techne Reading
+## 6. Philosophical Translation
 
 1.07 gathers the Conditioned dharmas as five Bases. 1.08 divides that
 field by Impure and Pure.
@@ -97,7 +97,7 @@ The Form Base is Form Theory, not a material substrate: it is the empirical
 determination of appearance, as established in 1.07. This verse marks the
 Impure subset while preserving the Path as Conditioned and Pure.
 
-## 7. Vocabulary
+## 7. Technical Vocabulary
 
 | Sanskrit | Conventional force | Techne determination |
 |---|---|---|

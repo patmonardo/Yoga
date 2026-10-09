@@ -62,18 +62,20 @@ one unqualified authorial declaration.
 
 ## 5. Translation
 
-### Close syntactic construe
+### Literal Translation
 
 > The Eye, when conjoined with visual Cognition, sees visible Forms, not the Cognition dependent upon it; reportedly, obstructed visible Form is not seen.
 
-### Bhāṣya-informed translation
+### Bhāṣya-informed study translation
 
 > The Kāśmīra Vaibhāṣika account holds that the Eye sees when conjoined with visual Cognition. Its argument appeals to the relation among Eye, visible Form, and illumination: obstructed Form is not seen because visual Cognition does not arise. Other teachers attribute seeing to visual Cognition and transfer the act to the Eye as its support; the Sautrāntikas treat such expressions as conventional descriptions of a dependently arisen event.
 
 The second rendering preserves the doctrinal controversy rather than making
 the Kārikā's immediate thesis the uncontested conclusion of the Bhāṣya.
 
-## 6. Scientific Determination
+## 8. Logical Determination
+
+### Scientific Determination
 
 The verse records a dispute over attribution, not a single settled account
 of an independent seer. The opening position attributes seeing to the Eye
@@ -82,7 +84,7 @@ Cognition or treat both formulations as conventional speech about a
 conditioned event. Preserve the speaker and the argumentative sequence
 when interpreting each claim.
 
-## 7. Support and Attribution
+### Support and Attribution
 
 The Bhāṣya distinguishes the Eye as support from the visual Cognition
 that depends on it. It also distinguishes the arising of Cognition from
@@ -98,7 +100,9 @@ Kāśmīra Vaibhāṣika statement assigns the six cognitive operations to
 their corresponding Faculties. These positions must remain attributed
 to their speakers.
 
-## 8. Positions in the Dispute
+## 9. Interpretive Note
+
+### Positions in the Dispute
 
 The opening Vaibhāṣika position is:
 
@@ -145,8 +149,6 @@ EyePrinciple ∧ VisibleForm
 These are reported arguments and positions, not a shared event formula
 or a single conclusion of the commentary.
 
-## 9. Interpretive Note
-
 The dispute distinguishes the Eye's operation, the arising of visual
 Cognition, and the attribution of seeing in language. The opening
 Vaibhāṣika position assigns seeing to the Eye conjoined with Cognition;
@@ -162,7 +164,7 @@ Vijñāna governs Manas and guides the reading of Dharma Base. Form Base
 and Dharma Base classify the same *avijñapti* distinctly; Vijñāna bears
 a *prati* relation to it and remains distinct from consciousness and Mind.
 
-## 10. Scope
+### Scope
 
 This verse preserves the competing accounts of seeing without resolving
 them into one theory. The next verse turns to whether one Eye or both

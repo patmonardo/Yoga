@@ -85,11 +85,11 @@ present manifestation (`saṃmukhīkaraṇa`).
 
 ## 5. Translation
 
-### Close syntactic construe
+### Literal Translation
 
 > The remaining [four Principles] are threefold. One [the Dharma Principle] bears substance. The last three [Principles] are momentary. The Eye-Faculty and Eye-Cognition Principles may be acquired separately and also together.
 
-### Bhāṣya-informed translation
+### Bhāṣya-informed study translation
 
 > Visible Form, smell, taste, and tangible Form admit maturation-born, upacaya-reinforced, and continuity-born instances. The Dharma Principle alone bears substance-status, because it includes the Unconditioned. The Mind, Dharma, and Mind-Cognition Principles are called momentary for the first pure receptivity to Dharma-knowledge concerning suffering, without a preceding homogeneous pure cause. The Eye-Faculty and Eye-Cognition Principles may be acquired separately or jointly.
 

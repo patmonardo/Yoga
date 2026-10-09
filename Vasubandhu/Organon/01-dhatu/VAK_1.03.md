@@ -64,17 +64,17 @@ Abhidharma instruction → disciple's capacity for pravicaya
 
 It also attributes to the Vaibhāṣikas—not unqualifiedly to Vasubandhu—the account that the Buddha's dispersed teaching was collected and systematized by Kātyāyanīputra and others.
 
-## 5. Literal Translation
+## 5. Translation
 
-### Close syntactic construe
+### Literal Translation
 
 > Since without discrimination of dharmas there is no means for the pacification of the afflictions, and since through the afflictions the world wanders here in the ocean of becoming, for that reason this treatise is said to have been taught.
 
-### Bhāṣya-informed translation
+### Bhāṣya-informed study translation
 
 > Because a disciple cannot discriminate dharmas without Abhidharma instruction, and because such discrimination is indispensable to pacifying the afflictions that cause the world to wander in saṃsāra, this śāstra is said to have been taught.
 
-## 6. Philosophical Translation and Techne Reading
+## 6. Philosophical Translation
 
 > Abhidharma instruction is necessary because liberation requires a capacity the unaided disciple does not yet possess: exact discrimination of dharmas. That capacity makes the pacification of the afflictions possible and answers their causal power to sustain wandering.
 

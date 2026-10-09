@@ -61,14 +61,6 @@ it is prominent in ordinary experience: it is resistant, visible, and can
 be pointed out as “this, here, there.” One Essence is named Dharma because
 it gathers many dharmas, including nirvāṇa, the highest Dharma.
 
-## 6. Systematic Placement
-
-The Form Essence is one of the ten Essences in the Form Base. The Dharma
-Essence gathers many dharmas, including nirvāṇa. Their names follow
-different reasons in the Bhāṣya. Within the Dhātu-machine sequence
-(1.24–1.28), this verse establishes the naming distinction that later
-classification and assignment preserve.
-
 ## 7. Technical Vocabulary
 
 | Sanskrit | Rendering | Note |
@@ -81,6 +73,14 @@ classification and assignment preserve.
 | agra-dharma | highest Dharma | identified as nirvāṇa in the Bhāṣya |
 
 ## 8. Logical Determination
+
+### Systematic Placement
+
+The Form Essence is one of the ten Essences in the Form Base. The Dharma
+Essence gathers many dharmas, including nirvāṇa. Their names follow
+different reasons in the Bhāṣya. Within the Dhātu-machine sequence
+(1.24–1.28), this verse establishes the naming distinction that later
+classification and assignment preserve.
 
 ```text
 Form Essence

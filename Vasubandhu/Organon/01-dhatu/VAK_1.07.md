@@ -51,13 +51,13 @@ The Techne reads their relation as a turning of the Dharma Chakra.
 
 ## 5. Translation
 
-### Literal
+### Literal Translation
 
 Those conditioned dharmas are the five aggregates beginning with Form.
 Those same dharmas are also the course, the matter of discourse, possessed
 of an exit, and possessed of a basis.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
 The conditioned dharmas are made by conditions acting together; nothing
 is produced by one condition. They are courses because they have gone, are
@@ -67,7 +67,7 @@ within the eighteen *dhātus*. They possess an exit because nirvāṇa is the
 going-out from everything conditioned. They possess a basis; the reading
 of *vastu* as cause is attributed to the Vaibhāṣikas.
 
-## 6. Philosophical Translation and Techne Reading
+## 6. Philosophical Translation
 
 In the Techne, Abhidharma as the Science of Principles is the **First
 Dharma**: it gives the principled standpoint from which the conditioned

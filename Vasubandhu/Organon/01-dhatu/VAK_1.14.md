@@ -60,13 +60,6 @@ The five Faculties and five meanings already stated are accepted as ten
 Essences and the same ten Principles. Feeling is undergoing, and Reflection
 has the taking up of marks as its nature.
 
-## 6. Systematic Placement
-
-The same five Faculties and five meanings are classified as ten Essences
-and ten Principles. This verse also defines Feeling and Reflection. The
-following verse treats Formations and completes the related Dharma
-classifications.
-
 ## 7. Technical Vocabulary
 
 | Sanskrit | Rendering | Note |
@@ -81,6 +74,13 @@ classifications.
 | nimitta | mark | what Reflection takes up |
 
 ## 8. Logical Determination
+
+### Systematic Placement
+
+The same five Faculties and five meanings are classified as ten Essences
+and ten Principles. This verse also defines Feeling and Reflection. The
+following verse treats Formations and completes the related Dharma
+classifications.
 
 ```text
 five Faculties + five meanings

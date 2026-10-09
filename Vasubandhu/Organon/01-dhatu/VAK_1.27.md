@@ -167,7 +167,9 @@ Sixty-two Principles of the Bahudhātuka discourse
 The final sixty-two-Principle reference states the application but does not
 enumerate every placement in this passage.
 
-## 9. The Dhātu Machine
+## 9. Interpretive Note
+
+### The Dhātu Machine
 
 VAK 1.24–1.28 specify and demonstrate the classification procedure.
 Verse 1.24 distinguishes the naming grounds of Form Essence and Dharma

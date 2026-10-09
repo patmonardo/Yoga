@@ -98,14 +98,14 @@ expositions. `Tisraḥ` agrees with the feminine plural `deśanāḥ`.
 
 ## 5. Translation
 
-### Close syntactic construe
+### Literal Translation
 
 > Base, Essence, and Principle have respectively the meanings of collection,
 > gateway of mental extension, and source-kind. Because delusion, Faculty,
 > and inclination are each threefold, there are the three teachings
 > beginning with Base.
 
-### Bhāṣya-informed translation
+### Bhāṣya-informed study translation
 
 > A Base is a conceptual gathering; an Essence is an access-gateway through
 > which consciousness and mental factors extend; and a Principle is an

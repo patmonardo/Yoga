@@ -84,11 +84,11 @@ than resolving it.
 
 ## 5. Translation
 
-### Close syntactic construe
+### Literal Translation
 
 > The outer tetrad of Principles both cuts and is cut; likewise it is burned and weighs. There is disagreement concerning the burner and what is weighed.
 
-### Bhāṣya-informed translation
+### Bhāṣya-informed study translation
 
 > The outer tetrad—visible Form, smell, taste, and tangibility—cuts and is cut in complexes such as an axe or wood. Cutting is production in divided form within a connected Form-stream. The tetrad is also burned and weighs. Some assign the roles of burner and what-is-weighed to the concrete tetrad; others maintain that the Fire Principle alone burns and heaviness alone is weighed.
 

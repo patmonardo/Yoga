@@ -89,11 +89,11 @@ preserved there rather than harmonized.
 
 ## 5. Translation
 
-### Close syntactic construe
+### Literal Translation
 
 > Because they are causes of the roots of dispute and saṃsāra, and because of the rationale for the sequence, Feeling and Reflection are assigned two distinct Bases apart from the other mental factors.
 
-### Bhāṣya-informed translation
+### Bhāṣya-informed study translation
 
 > Feeling and Reflection receive distinct Base positions because they are principal causes of the roots of dispute: savoring Feeling leads to fixation upon sensual pleasures, while inverted Reflection leads to fixation upon views. Both are also principal causes of saṃsāra. Their separation is connected with the order of the bases, whose rationale is explained next.
 
@@ -101,19 +101,6 @@ The project rendering is *saṃjñā* = Reflection. Here the Bhāṣya specifies
 inverted Reflection as distorted grasping of a mark, which supports
 fixation upon views. The causal claim concerns an operation of Reflection,
 not a storehouse of ideas.
-
-## 6. Systematic Placement
-
-This verse explains the distinct Base positions. The cross-classification
-with Essence and Principle was established in 1.16:
-
-| Base determination in this verse | Essence crosswalk | Principle crosswalk |
-|---|---|---|
-| Feeling Base and Reflection Base, distinct from the other mental factors | With Formations, *avijñapti*, and the unconditioned: Dharma Essence | The same cross-classified contents: Dharma Principle |
-
-The distinction leaves the census at five Bases, twelve Essences, and
-eighteen Principles. Sharing the Dharma Essence and Dharma Principle
-crosswalk does not merge the distinct Base positions.
 
 ## 7. Technical Vocabulary
 
@@ -133,6 +120,19 @@ crosswalk does not merge the distinct Base positions.
 | krama | systematic sequence | ordered position of the bases, explained in VAK 1.22 |
 
 ## 8. Logical Determination
+
+### Systematic Placement
+
+This verse explains the distinct Base positions. The cross-classification
+with Essence and Principle was established in 1.16:
+
+| Base determination in this verse | Essence crosswalk | Principle crosswalk |
+|---|---|---|
+| Feeling Base and Reflection Base, distinct from the other mental factors | With Formations, *avijñapti*, and the unconditioned: Dharma Essence | The same cross-classified contents: Dharma Principle |
+
+The distinction leaves the census at five Bases, twelve Essences, and
+eighteen Principles. Sharing the Dharma Essence and Dharma Principle
+crosswalk does not merge the distinct Base positions.
 
 The classificatory problem is:
 

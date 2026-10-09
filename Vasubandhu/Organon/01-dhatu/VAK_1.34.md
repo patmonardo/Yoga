@@ -87,11 +87,11 @@ appropriated or unappropriated according to time and organic relation.
 
 ## 5. Translation
 
-### Close syntactic construe
+### Literal Translation
 
 > The seven cognitive Principles take objects, as does a portion of the Dharma Principle. Nine are unappropriated—those eight together with sound. The remaining nine are twofold.
 
-### Bhāṣya-informed translation
+### Bhāṣya-informed study translation
 
 > The six cognition Principles and the Mind Principle take objects, as do the associated mental factors within the Dharma Principle. The seven cognitive Principles, the entire Dharma Principle, and the sound Principle are always unappropriated. The other nine Principles may be appropriated into a present living continuum or remain unappropriated.
 

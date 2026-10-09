@@ -104,13 +104,13 @@ ethical determination.
 
 ## 5. Translation
 
-### Close syntactic construe
+### Literal Translation
 
 > Among these, one is visible: the Form Principle. Ten are resistant—the
 > Form Base Principles. Eight are ethically indeterminate: those same
 > [ten] with the Form Principle and Sound Principle excluded.
 
-### Bhāṣya-informed translation
+### Bhāṣya-informed study translation
 
 > Of the eighteen Principles, the Form Principle alone is spatially
 > demonstrable. The five sensory faculties and five sensory-object

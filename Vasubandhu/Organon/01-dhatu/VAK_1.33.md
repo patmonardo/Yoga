@@ -95,11 +95,11 @@ first definition does not include every possible instance of prajñā.
 
 ## 5. Translation
 
-### Close syntactic construe
+### Literal Translation
 
 > [The five sensory-Cognition Principles] are non-discriminative with respect to determining and recollective vikalpa. Those two are, respectively, mental discernment in an unconcentrated state and memory, all of which is mental.
 
-### Bhāṣya-informed translation
+### Bhāṣya-informed study translation
 
 > Sensory cognition is called non-discriminative only because it lacks the developed forms of determining and recollective vikalpa; it still possesses intrinsic vikalpa, identified with vitarka. Determining vikalpa is unconcentrated prajñā associated with mental cognition, while recollective vikalpa is specifically mental smṛti, whether concentrated or unconcentrated.
 

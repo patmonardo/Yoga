@@ -62,12 +62,6 @@ What people point out as earth, water, or fire is color and configuration
 named by worldly convention. “Wind” may name the Wind Principle itself, or
 a visible storm by its color and configuration.
 
-## 6. Systematic Placement
-
-The verse distinguishes worldly naming from the technical Principle. The
-Bhāṣya explains how the names apply; the visible appearance and the
-Principle are not interchangeable.
-
 ## 7. Technical Vocabulary
 
 | Sanskrit | Rendering | Note |
@@ -79,6 +73,12 @@ Principle are not interchangeable.
 | vāyu-dhātu | Wind Principle | the Principle named in the Bhāṣya |
 
 ## 8. Logical Determination
+
+### Systematic Placement
+
+The verse distinguishes worldly naming from the technical Principle. The
+Bhāṣya explains how the names apply; the visible appearance and the
+Principle are not interchangeable.
 
 ```text
 earth, water, fire

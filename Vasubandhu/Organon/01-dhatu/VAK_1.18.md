@@ -91,11 +91,11 @@ metaphysical thesis that every dharma exists in absolute isolation.
 
 ## 5. Translation
 
-### Close syntactic construe
+### Literal Translation
 
 > The inclusion of all is by one base, one essence, and one principle, by own-nature, because of separation from another's nature.
 
-### Bhāṣya-informed translation
+### Bhāṣya-informed study translation
 
 > All dharmas are included together through the Form Base, Mind Essence, and Dharma Principle. Inclusion is by a dharma's own nature, not by another's nature from which it is distinct.
 

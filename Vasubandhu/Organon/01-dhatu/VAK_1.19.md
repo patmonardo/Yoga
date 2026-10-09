@@ -93,11 +93,11 @@ The aesthetic explanation is not a fourth criterion of principial unity.
 
 ## 5. Translation
 
-### Close syntactic construe
+### Literal Translation
 
 > Because of commonality of kind, condition-range, and principle, the eye and the others have one-principle status even though dual. Their arising as a pair, however, is for the sake of beauty.
 
-### Bhāṣya-informed translation
+### Bhāṣya-informed study translation
 
 > The two eyes constitute one eye-principle because they share one faculty-kind, take visible form as their condition, and support one eye-principle. The same reasoning applies to the paired ears and nasal faculties. Their bodily occurrence in pairs is said to serve the beauty of the bodily support; it does not multiply the principles.
 

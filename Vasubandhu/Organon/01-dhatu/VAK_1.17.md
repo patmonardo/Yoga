@@ -76,13 +76,6 @@ are taught so that this sixth support be established.
 The support does not require a successor. An arhat's final consciousness
 remains mind. Another cause is wanting, and no next principle arises.
 
-## 6. Systematic Placement
-
-The Bhāṣya resolves the eighteen Principles as six supports, six
-supported Cognition Principles, and six Objects. Mind is the sixth support:
-the immediately ceased Cognition among the six, not a seventh Cognition.
-Support is a distinct relation, not a synonym for production.
-
 ## 7. Technical Vocabulary
 
 | Sanskrit | Rendering | Note |
@@ -100,6 +93,13 @@ Support is a distinct relation, not a synonym for production.
 | prasiddhi | establishment | so that the sixth support be established |
 
 ## 8. Logical Determination
+
+### Systematic Placement
+
+The Bhāṣya resolves the eighteen Principles as six supports, six
+supported Cognition Principles, and six Objects. Mind is the sixth support:
+the immediately ceased Cognition among the six, not a seventh Cognition.
+Support is a distinct relation, not a synonym for production.
 
 ```text
 1.16   seven names: six Cognitions + Mind Principle

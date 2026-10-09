@@ -97,11 +97,11 @@ marks actual or assured functional participation across the three times.
 
 ## 5. Translation
 
-### Close syntactic construe
+### Literal Translation
 
 > Twelve are internal, after excluding the six outer field Principles beginning with visible Form. The Dharma Principle is functionally participating; the remaining Principles may be functionally participating or corresponding non-participants. A corresponding non-participant is one that does not perform its own function.
 
-### Bhāṣya-informed translation
+### Bhāṣya-informed study translation
 
 > The six Faculty Principles and six Cognition Principles are internal; the six field-side Principles are outer. Consciousness is figuratively designated Self because ego-making rests upon it, and the Faculties are internal through their proximity as supports. The Dharma Principle is always functionally participating because every Dharma can become a field for Mind-Cognition. Every other Principle may participate in its proper operation—past, present, future, or assured—or remain of the same kind without exercising that operation.
 

@@ -53,12 +53,12 @@ between the twofold and twentyfold descriptions.
 
 ## 5. Translation
 
-### Close syntactic construe
+### Literal Translation
 
 > Visible Form is twofold and twentyfold. Sound, however, is eightfold.
 > Taste is sixfold. Odor is fourfold. The tangible has eleven as its nature.
 
-### Bhāṣya-informed translation
+### Bhāṣya-informed study translation
 
 > Visible Form is twofold as color and configuration, and that same meaning
 > is enumerated as twentyfold. Sound is eightfold. Taste is sixfold. Odor

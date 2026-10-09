@@ -60,15 +60,6 @@ The four Great Elements are those four Principles. Their functions are
 support, gathering, ripening, and spreading; their characters are hardness,
 cohesion, heat, and impulsion.
 
-## 6. Systematic Placement
-
-| Principle | Function | Character |
-|---|---|---|
-| Earth | support | hardness |
-| Water | gathering | cohesion |
-| Fire | ripening | heat |
-| Wind | spreading | impulsion |
-
 ## 7. Technical Vocabulary
 
 | Sanskrit | Rendering | Note |
@@ -81,6 +72,15 @@ cohesion, heat, and impulsion.
 | īraṇā | impulsion | character associated with Wind |
 
 ## 8. Logical Determination
+
+### Systematic Placement
+
+| Principle | Function | Character |
+|---|---|---|
+| Earth | support | hardness |
+| Water | gathering | cohesion |
+| Fire | ripening | heat |
+| Wind | spreading | impulsion |
 
 ```text
 Earth     support     hardness

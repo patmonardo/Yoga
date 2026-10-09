@@ -90,11 +90,11 @@ Principles.
 
 ## 5. Translation
 
-### Close syntactic construe
+### Literal Translation
 
 > The five internal [Faculty Principles] are maturation-born and upacaya-reinforced. Sound is not maturation-born. The eight non-resistant Principles include continuity-born and maturation-born instances.
 
-### Bhāṣya-informed translation
+### Bhāṣya-informed study translation
 
 > The five sensory Faculties are maturation-born and upacaya-reinforced through nourishment, conditioning, sleep, and distinctions of concentration. Sound is not itself maturation-born because its immediate production proceeds from effort, although it may be upacaya-reinforced or arise through causal continuity. The seven Cognition Principles together with the Dharma Principle include continuity-born and maturation-born instances, but are not upacaya-reinforced.
 

@@ -126,13 +126,13 @@ In the first derivation, this treatise occupies the place of a treasury because 
 
 > Stainless prajñā, with its attendants, is Abhidharma; so also is whatever [prajñā] is for the attainment of that, and whatever treatise [is for its attainment]. Because that enters into this by meaning—and because that is the supporting basis of this—[this treatise is called] the *Abhidharmakośa*.
 
-### Bhāṣya-informed translation
+### Bhāṣya-informed study translation
 
 > Stainless prajñā together with its attendants is Abhidharma in the ultimate sense: the discrimination of dharmas, with its retinue, a stainless complex of the five aggregates. In the conventional sense, so too are the prajñā with outflows constituted by hearing, reflection, and cultivation, and the prajñā acquired by birth, each with its attendants, and the treatise that is equipment for attaining that stainless prajñā. A dharma is so called because it bears its own mark. Abhidharma is this dharma facing the ultimate dharma, nirvāṇa, or facing the mark of a dharma. This work is called the *Abhidharmakośa* either because the principal meaning of śāstric Abhidharma is contained within it, or because it has been drawn from Abhidharma as its supporting treasury.
 
 The second translation makes the Bhāṣya's determinations explicit. It is not a word-for-word rendering of the Kārikā alone. Neither facing in the name-definition is dropped. *Amalā* stays stainless in this line.
 
-## 6. Philosophical Translation and Techne Reading
+## 6. Philosophical Translation
 
 > Abhidharma is first the Discriminator: stainless discrimination of dharmas, occurring with its full accompanying complex. By designation, the name also extends to prajñā still on the way, and to the treatise that functions as equipment for attaining it. The Kośa mediates between these orders: it gathers Abhidharma's principal meaning, yet is itself drawn from Abhidharma as its source.
 

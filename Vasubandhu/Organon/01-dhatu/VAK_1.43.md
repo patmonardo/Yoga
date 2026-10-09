@@ -70,15 +70,17 @@ has both contacted and non-contacted Conditions.
 
 ## 5. Translation
 
-### Close syntactic construe
+### Literal Translation
 
 > One also sees with both Eyes, because seeing is clearer. Eye, Ear, and Mind form a triad whose Conditions are not physically contacted; the other three operate otherwise.
 
-### Bhāṣya-informed translation
+### Bhāṣya-informed study translation
 
 > Seeing may occur through one Eye or both, with clearer seeing through their coordinated operation. Eye and Ear disclose their Conditions without physical contact; Mind, being non-Form, cannot physically reach its Condition. Nose, Tongue, and Body operate through physical contact with their Conditions, though some teachers classify hearing as both contacted and non-contacted.
 
-## 6. Access Mode and Range
+## 8. Logical Determination
+
+### Access Mode and Range
 
 Faculties have distinct access modes. Eye, Ear, and Mind operate without
 physical contact with their Conditions; Nose, Tongue, and Body operate
@@ -86,24 +88,6 @@ through contact. The mode does not determine unlimited access: each
 Faculty has a bounded range of operation. Coordinated Eyes support
 clearer visual Cognition, but neither contact nor non-contact grants
 unrestricted access to every Condition.
-
-## 7. Limits of the Analogy
-
-The magnet analogy shows that non-contact operation is selective, not
-unlimited. The Eye does not see every distant or screened Condition.
-Conversely, the Nose and other contact Faculties do not disclose every
-Condition they physically reach; the Bhāṣya gives co-arisen smells as
-an example. Some teachers classify hearing as operating through both
-contact and non-contact. These are the commentary's distinctions; they
-are not a modern account of sound transmission.
-
-The Bhāṣya then extends the question to physical reaching and atoms. It
-reports the Kāśmīra denial of atomic contact, an alternative account of
-contacting assemblages, and a final objection about directional parts.
-The Wind Principle is invoked to explain scattering and cohesion. These
-are reported arguments; the verse itself does not settle them.
-
-## 8. Logical Determination
 
 The binocular relation is:
 
@@ -163,6 +147,22 @@ Faculty(x)
 ```
 
 ## 9. Interpretive Note
+
+### Limits of the Analogy
+
+The magnet analogy shows that non-contact operation is selective, not
+unlimited. The Eye does not see every distant or screened Condition.
+Conversely, the Nose and other contact Faculties do not disclose every
+Condition they physically reach; the Bhāṣya gives co-arisen smells as
+an example. Some teachers classify hearing as operating through both
+contact and non-contact. These are the commentary's distinctions; they
+are not a modern account of sound transmission.
+
+The Bhāṣya then extends the question to physical reaching and atoms. It
+reports the Kāśmīra denial of atomic contact, an alternative account of
+contacting assemblages, and a final objection about directional parts.
+The Wind Principle is invoked to explain scattering and cohesion. These
+are reported arguments; the verse itself does not settle them.
 
 VAK 1.43 adds two determinations to the inquiry into seeing: both Eye
 Faculties can coordinate in clearer visual Cognition, and Faculties differ

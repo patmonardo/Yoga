@@ -93,13 +93,13 @@ object-supports are absent (`ālambanābhāva`).
 
 ## 5. Translation
 
-### Close syntactic construe
+### Literal Translation
 
 > The remaining [ten] are threefold [ethically]. All [eighteen] belong to
 > the Desire Realm. In the Form Realm there are fourteen, excluding the
 > Smell, Taste, olfactory-cognition, and gustatory-cognition Principles.
 
-### Bhāṣya-informed translation
+### Bhāṣya-informed study translation
 
 > The remaining ten Principles have wholesome, unwholesome, or ethically
 > indeterminate instances. All eighteen Principles are connected with the

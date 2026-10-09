@@ -90,11 +90,11 @@ of Principles in others.
 
 ## 5. Translation
 
-### Close syntactic construe
+### Literal Translation
 
 > The five external [Principles] are knowable through two Cognitions. The permanent Essences are unconditioned. A portion of the Essence Principle has Faculty-status, and those twelve are considered internal.
 
-### Bhāṣya-informed translation
+### Bhāṣya-informed study translation
 
 > Each of the five external Principles is experienced through its corresponding sensory Cognition and known through Mind-Cognition; the other thirteen are knowable only through Mind-Cognition. No entire Principle is permanent: only the unconditioned Essences, which occupy a portion of the Essence Principle, are permanent. Faculty-status belongs to a portion of the Essence Principle and to the relevant Principles or parts among the twelve internal Principles.
 

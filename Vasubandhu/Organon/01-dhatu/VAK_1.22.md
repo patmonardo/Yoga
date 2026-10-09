@@ -99,25 +99,17 @@ commentary.
 
 ## 5. Translation
 
-### Close syntactic construe
+### Literal Translation
 
 > The unconditioned is not stated among the Bases because their defining meaning does not apply. Their order, again, follows relative grossness, the progress of Affliction, the functional analogy beginning with a vessel, and Principle.
 
-### Bhāṣya-informed translation
+### Bhāṣya-informed study translation
 
 > Because Base (*skandha*) means a collectable multiplicity, the unconditioned cannot be made a member—or a sixth Base—without violating the category’s meaning. The five Bases are ordered through four convergent explanations: from gross to subtle; through the progress of Affliction; as vessel, food, seasoning, maker, and eater; and by Principle across levels of existence. These differentiated Base-configurations serve as stations in which Principle is established as seed in a field.
 
 The second translation preserves the systematic force of `arthāyoga` and
 makes the fourfold explanation readable without importing it into the
 Kārikā's individual words.
-
-## 6. Systematic Placement
-
-The unconditioned is excluded from Base classification because it is not a
-collectable multiplicity; it remains included in Dharma Essence and Dharma
-Principle. The four accounts explain the order of the five Bases without
-turning that order into an eighteen-Principle inventory. The full census
-remains five Bases, twelve Essences, and eighteen Principles.
 
 ## 7. Technical Vocabulary
 
@@ -150,6 +142,14 @@ remains five Bases, twelve Essences, and eighteen Principles.
 | bhavāgra | summit of existence | highest formless level, where Formations predominate |
 
 ## 8. Logical Determination
+
+### Systematic Placement
+
+The unconditioned is excluded from Base classification because it is not a
+collectable multiplicity; it remains included in Dharma Essence and Dharma
+Principle. The four accounts explain the order of the five Bases without
+turning that order into an eighteen-Principle inventory. The full census
+remains five Bases, twelve Essences, and eighteen Principles.
 
 The category-fit rule is:
 

@@ -85,31 +85,23 @@ shareable.
 
 ## 5. Translation
 
-### Close syntactic construe
+### Literal Translation
 
 > Eye and the other Faculties are supports because Cognition is altered by their alteration. Therefore Cognition is designated by them, for they are specific and not common.
 
-### Commentary-informed translation
+### Bhāṣya-informed study translation
 
 > The Faculties are called supports because benefit, injury, acuity, or dullness in a Faculty produces a corresponding alteration in its Cognition. Cognition is named from its Faculty—Eye-Cognition, Ear-Cognition, and so forth—because each Faculty supports its own specific kind of Cognition, whereas an Object such as visible Form can be shared by many sensory and mental Cognitions.
 
-## 6. Specific Support and Shared Object
+## 8. Logical Determination
+
+### Specific Support and Shared Object
 
 The Faculty is the specific support whose alteration corresponds to
 alteration in Cognition. An Object such as visible Form can be shared by
 Mind-Cognition and another Eye-Cognition. This naming rule distinguishes
 the Faculty's support relation from the Object relation without denying
 that Cognition depends on both.
-
-## 7. Scope of the Naming Rule
-
-“Support” names the Faculty relation; “Object” names what Cognition is
-directed toward. The commentary explicitly contrasts them here; do not
-add another relation to this account. The specific Faculty gives
-Cognition its name, while an Object may be shared across kinds of
-Cognition and across individuals.
-
-## 8. Logical Determination
 
 Cognition has dual dependence:
 
@@ -170,6 +162,14 @@ DependsOn(Cognition, SpecificFacultySupport)
 ```
 
 ## 9. Interpretive Note
+
+### Scope of the Naming Rule
+
+“Support” names the Faculty relation; “Object” names what Cognition is
+directed toward. The commentary explicitly contrasts them here; do not
+add another relation to this account. The specific Faculty gives
+Cognition its name, while an Object may be shared across kinds of
+Cognition and across individuals.
 
 VAK 1.45 completes the support analysis begun in 1.44. Cognition does not
 arise without an Object, but not every necessary condition has the same

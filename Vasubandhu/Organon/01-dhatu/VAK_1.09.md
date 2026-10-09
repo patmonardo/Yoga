@@ -50,13 +50,13 @@ cognitions are not additional members of the Form Base.
 
 ## 5. Translation
 
-### Close syntactic construe
+### Literal Translation
 
 > Form is the five faculties, the five meanings, and *avijñapti* also.
 > The Form clarities, beginning with the eye, are supports of the
 > corresponding cognitions.
 
-### Bhāṣya-informed translation
+### Bhāṣya-informed study translation
 
 > The Form Base consists of five faculties, the five respective meanings
 > or conditions (*viṣaya*) of those faculties, and *avijñapti*. The
