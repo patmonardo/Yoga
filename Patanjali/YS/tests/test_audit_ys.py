@@ -26,7 +26,7 @@ class YSAuditTests(unittest.TestCase):
     def test_heading_reader_ignores_fenced_examples(self):
         sample = "## 1. Sanskrit (Devanāgarī)\n```md\n## Wrong\n```\n"
         self.assertEqual(headings(sample), SUTRA_HEADINGS[:1])
-        self.assertEqual(len(BHASYA_HEADINGS), 5)
+        self.assertEqual(len(BHASYA_HEADINGS), 4)
 
 
 if __name__ == "__main__":

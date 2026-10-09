@@ -1,0 +1,115 @@
+\usepackage[table]{xcolor}
+\usepackage{titlesec}
+\usepackage{fancyhdr}
+\usepackage{microtype}
+\usepackage{setspace}
+\usepackage{enumitem}
+\usepackage{booktabs}
+\usepackage{longtable}
+\usepackage{array}
+\usepackage{fvextra}
+\usepackage{etoolbox}
+
+\definecolor{organonNavy}{HTML}{17324D}
+\definecolor{organonBlue}{HTML}{246B8E}
+\definecolor{organonTeal}{HTML}{23877B}
+\definecolor{organonGold}{HTML}{B7832F}
+\definecolor{organonPlum}{HTML}{744B70}
+\definecolor{organonInk}{HTML}{25313B}
+\definecolor{organonMist}{HTML}{EEF4F4}
+\definecolor{organonRule}{HTML}{A9BCC5}
+
+\color{organonInk}
+\setstretch{1.08}
+\setlength{\parskip}{0.48em}
+\setlength{\parindent}{0pt}
+\setlist{itemsep=0.2em,topsep=0.35em}
+\setlength{\emergencystretch}{3em}
+
+\titleformat{\section}
+  {\color{organonNavy}\normalfont\LARGE\bfseries}
+  {}{0pt}{}
+  [\vspace{0.2em}\color{organonGold}\titlerule]
+\titlespacing*{\section}{0pt}{0pt}{1.1em}
+
+\titleformat{\subsection}
+  {\color{organonBlue}\normalfont\Large\bfseries}
+  {}{0pt}{}
+\titlespacing*{\subsection}{0pt}{1.45em}{0.55em}
+
+\titleformat{\subsubsection}
+  {\color{organonTeal}\normalfont\large\bfseries}
+  {}{0pt}{}
+\titlespacing*{\subsubsection}{0pt}{1.15em}{0.4em}
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{\small\color{organonBlue}\textsc{The Organon Project}}
+\fancyhead[R]{\small\color{organonPlum}\textsc{Dharmapāda}}
+\fancyfoot[L]{\scriptsize\color{organonBlue}© 2026 The Organon Project. All rights reserved.}
+\fancyfoot[C]{\color{organonGold}\thepage}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\headrule}{\hbox to\headwidth{\color{organonRule}\leaders\hrule height \headrulewidth\hfill}}
+
+\AtBeginEnvironment{quote}{%
+  \color{organonNavy}%
+  \setlength{\leftskip}{1.1em}%
+  \setlength{\rightskip}{1.1em}%
+}
+
+\AtBeginEnvironment{longtable}{\small\rowcolors{2}{organonMist}{white}}
+\AtEndEnvironment{longtable}{\normalsize}
+
+\DefineVerbatimEnvironment{Highlighting}{Verbatim}{
+  breaklines=true,
+  breakanywhere=true,
+  commandchars=\\\{\},
+  fontsize=\small,
+  frame=single,
+  rulecolor=\color{organonRule},
+  framesep=4mm
+}
+
+\AtBeginDocument{%
+  \hypersetup{
+    colorlinks=true,
+    linkcolor=organonBlue,
+    urlcolor=organonTeal,
+    citecolor=organonPlum,
+    pdfauthor={The Organon Project},
+    pdftitle={Dharmapāda: Hegel and Yoga Sūtra IV.2--IV.25, IV.29--IV.34}
+  }%
+}
+
+\makeatletter
+\renewcommand{\maketitle}{%
+  \begin{titlepage}
+    \pagecolor{organonNavy}
+    \color{white}
+    \centering
+    \vspace*{0.12\textheight}
+    {\color{organonGold}\rule{0.72\textwidth}{1.2pt}}\\[2.2em]
+    {\fontsize{25}{30}\selectfont\bfseries THE ORGANON PROJECT\par}
+    \vspace{1.1em}
+    {\fontsize{36}{42}\selectfont\bfseries Dharmapāda\par}
+    \vspace{0.65em}
+    {\Large Hegel and Yoga Sūtra IV\par}
+    \vspace{2.2em}
+    {\color{organonGold}\rule{0.72\textwidth}{1.2pt}}\\[2.6em]
+    {\large Thirty Sūtra Commentaries\par}
+    \vspace{1.2em}
+    {\large\color{organonGold} The Prajñā--Dharma Abhidharma\par}
+    \vfill
+    {\large Essence · Appearance · Actuality · Absolute Relation\par}
+    \vspace{1.5em}
+    {\small A provisional study edition of the Organon Project\par}
+    \vspace{0.75em}
+    {\scriptsize Includes IV.2--IV.25 and IV.29--IV.34; IV.26--IV.28 remain unwritten.\par}
+    \vspace{0.65em}
+    {\scriptsize © 2026 The Organon Project. All rights reserved.\par}
+    \vspace*{0.05\textheight}
+  \end{titlepage}
+  \nopagecolor
+  \color{organonInk}
+}
+\makeatother

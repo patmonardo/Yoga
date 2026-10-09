@@ -23,9 +23,8 @@ Every drafted **our Bhāṣya** file uses:
 
 1. `Sūtra Anchor`
 2. `Commentary`
-3. `Two-Path Determination`
-4. `Source and Voice Boundaries`
-5. `Review Status`
+3. `Project Determination`
+4. `Review Status`
 
 Prefix each with `## 1.`, `## 2.`, and so on. These are the required top-level headings; verse-specific `###` subheadings may be added inside them. The Bhāṣya here is our composition, so the VAK sections for a received continuous Sanskrit commentary and its translation do not apply.
 

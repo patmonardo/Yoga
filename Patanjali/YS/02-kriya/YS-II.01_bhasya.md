@@ -18,7 +18,7 @@ The question is how yoga is undertaken where consciousness is still affected by 
 
 II.2 will give the first explicit test of this proposal: this yoga is for cultivating samādhi and attenuating the kleśas. If our reading of any member cannot explain its role in those two purposes, we should revise it.
 
-## 3. Two-Path Determination
+## 3. Project Determination
 
 I.17 explicitly names *saṃprajñāta*; I.18 introduces an *anyaḥ*, an “other” mode. Our working name for the latter is *asaṃprajñāta*. Kriyā-pāda must be able to explain the work of practice with respect to both, rather than treating cessation as the sole scientific end and articulated knowing as a disposable preliminary. This is our two-path thesis to test through the sūtras, beginning with the purpose stated in II.2.
 
@@ -26,10 +26,6 @@ The Kośa provides a methodological provocation, not a direct equation between B
 
 For this first effort, the operative question is precise: what does each member of *kriyāyoga* do for the cultivation of knowing, for cessation, and for their relation? The later Organon account should express the determinations won by that reading, not supply answers before the sūtras have been studied.
 
-## 4. Source and Voice Boundaries
-
-The Devanāgarī anchor belongs to `Patanjali/Sources/Yoga.txt`. The explanation of the three terms, the two-path proposal, and the Kośa comparison belong to our commentary. No continuous historical Bhāṣya text is supplied in this project source.
-
-## 5. Review Status
+## 4. Review Status
 
 First effort. Revisit the threefold unity when II.2 has been studied; then decide what can pass into the Organon formulation.

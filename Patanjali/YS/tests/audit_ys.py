@@ -28,14 +28,13 @@ SUTRA_HEADINGS = (
 BHASYA_HEADINGS = (
     "1. Sūtra Anchor",
     "2. Commentary",
-    "3. Two-Path Determination",
-    "4. Source and Voice Boundaries",
-    "5. Review Status",
+    "3. Project Determination",
+    "4. Review Status",
 )
 
 
 def normalized(text: str) -> str:
-    return " ".join(text.split())
+    return " ".join(re.sub(r"\s*॥", "॥", text).split())
 
 
 def headings(text: str) -> tuple[str, ...]:
