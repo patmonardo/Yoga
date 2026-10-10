@@ -30,7 +30,7 @@ The five names form a nominal list. Its predicate is supplied by I.5: these are 
 
 ## 6. Logical Determination
 
-I.6 gives the five kinds promised in I.5. Their order matters for inquiry: a movement can establish, misdetermine, construct from words, take absence as support, or retain an experienced object. The list includes valid cognition, so the field of *vṛtti* exceeds error. I.7–11 will determine each operation before I.12 asks about their restraint.
+I.6 gives the five kinds promised in I.5. Their order matters for the Science: a movement can warrant, misdetermine, construct from words, take absence as support, or retain an experienced object. The list includes valid cognition, so the field of *vṛtti* exceeds error. I.7–11 will determine each operation before I.12 returns to their sublation.
 
 ## 7. Interpretive Note
 

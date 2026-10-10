@@ -12,8 +12,8 @@ The fifth movement is non-loss of an experienced object. The Kośa defines *sm�
 
 ## 3. Project Determination
 
-For our Kośa, memory is an active condition of the instrument. It can preserve access to an object and also reinstate a mistaken or word-led determination. Fresh *pramāṇa* must test the retained form rather than inherit its authority. The *saṃskāra* question is genetic: which formed capacity enables this return, and what later insight can alter that capacity? I.43 and I.50 will make those questions sharper.
+For our Kośa, memory is an active condition of the instrument. It can preserve access to an object and also reinstate a mistaken or word-led determination. Fresh *pramāṇa* tests the retained form rather than inheriting its authority. Sublation here keeps the capacity to recall while displacing a retained form's claim to settle the present. I.43 and I.50 will make the *saṃskāra* question sharper.
 
 ## 4. Review Status
 
-Kośa-first revision. This closes I.6's five operations; I.12 asks how their restraint is cultivated.
+Revised for the Science of Consciousness. This closes I.6's five operations; I.12 asks how their sublation is cultivated.

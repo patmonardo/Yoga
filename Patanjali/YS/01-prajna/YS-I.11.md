@@ -29,7 +29,7 @@ The compound *anubhūta-viṣaya-asaṃpramoṣaḥ* is the masculine predicate 
 
 ## 6. Logical Determination
 
-I.11 completes the fivefold list of I.6. Its definition concerns continuity across experience: the *viṣaya* can cease to be presently given without being lost to cognition. The sūtra does not guarantee that the earlier experience was valid; memory can retain what arose through other kinds of *vṛtti* as well.
+I.11 completes the fivefold list of I.6. Its definition concerns continuity across experience: the *viṣaya* can cease to be presently given without being lost to cognition. The Science needs this retention to compare and test determinations; memory alone does not certify their truth. It can preserve the result of any of the preceding movements.
 
 ## 7. Interpretive Note
 

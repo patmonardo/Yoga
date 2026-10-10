@@ -29,7 +29,7 @@ The four forms agree with *vṛttayaḥ*. The source writes *kliṣṭā'kliṣ�
 
 ## 6. Logical Determination
 
-The fivefold division concerns **kind**; the afflicted/unafflicted division concerns **condition**. Each kind must be examined under that second distinction. The verse neither identifies one kind with affliction nor supplies the five names before I.6.
+The Science now examines the movements whose form can govern the seer's appearance. The fivefold division concerns **kind**; the afflicted/unafflicted division concerns **condition**. Each kind must be examined under that second distinction. A true cognition can be a *vṛtti*, and a *vṛtti* need not be afflicted.
 
 ## 7. Interpretive Note
 

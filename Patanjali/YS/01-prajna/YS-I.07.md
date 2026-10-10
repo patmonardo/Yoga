@@ -29,7 +29,7 @@ The first three terms form a coordinative compound: *pratyakṣa-anumāna-āgam�
 
 ## 6. Logical Determination
 
-I.6 listed *pramāṇa* first among the five movements of consciousness; I.7 divides that first kind into three. The division concerns how cognition is warranted. It does not yet say that every perceptual appearance, inference, or received assertion is valid. I.8 will distinguish error.
+I.6 listed *pramāṇa* first among the five movements of consciousness; I.7 divides that first kind into three. The Science begins its examination of the instrument with the question of warrant: what can perception, inference, or testimony establish? The list does not make every appearance, inference, or assertion valid. I.8 will distinguish error.
 
 ## 7. Interpretive Note
 

@@ -4,6 +4,7 @@ import unittest
 
 from audit_ys import (
     BHASYA_HEADINGS,
+    ROOT,
     SOURCE,
     SUTRA_HEADINGS,
     audit,
@@ -34,6 +35,15 @@ class YSAuditTests(unittest.TestCase):
         sample = "## 1. Sanskrit (Devanāgarī)\n```md\n## Wrong\n```\n"
         self.assertEqual(headings(sample), SUTRA_HEADINGS[:1])
         self.assertEqual(len(BHASYA_HEADINGS), 4)
+
+    def test_opening_translation_keeps_project_determination(self):
+        chapter = ROOT / "01-prajna"
+        for suffix in ("", "_bhasya"):
+            i2 = (chapter / f"YS-I.02{suffix}.md").read_text(encoding="utf-8")
+            i12 = (chapter / f"YS-I.12{suffix}.md").read_text(encoding="utf-8")
+            self.assertIn("Yoga is the Science of Consciousness.", i2)
+            self.assertIn("Their sublation is through practice and dispassion.", i12)
+            self.assertNotIn("Yoga is the restraint", i2)
 
 
 if __name__ == "__main__":

@@ -12,7 +12,7 @@ I.8 is more exact than “not knowing.” Cognition takes a determinate form, bu
 
 ## 3. Project Determination
 
-Our Kośa use asks what rule selected the alien form, which claim it sustained, and whether repetition has made that claim govern subsequent cognitions. Correction tests the object again and loosens the view's authority. This is a practical account of how an error operates in the instrument; the Yoga sūtra itself supplies the criterion *atad-rūpa-pratiṣṭha*.
+Our Kośa use asks what rule selected the alien form, which claim it sustained, and whether repetition has made that claim govern subsequent cognitions. Correction tests the object again and sublates the view's authority. The Yoga sūtra supplies the criterion *atad-rūpa-pratiṣṭha*; the Science traces how the error acquired and loses its governing force.
 
 ## 4. Review Status
 

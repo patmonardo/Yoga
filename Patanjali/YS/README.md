@@ -2,7 +2,7 @@
 
 This is the working home of a **complete, Kośa-focused commentary on Patañjali's Yoga Sūtra**. The intended finished work is a coherent commentary that readers can follow verse by verse. A public or sale edition is a possible later outcome, not the status of the present drafts.
 
-The present pass reads each Yoga sūtra through a Kośa-first inquiry into cognition, mental factors, object-support, conditions, path, and cessation. The sūtra's wording remains the textual anchor. A Kośa comparison must be tied to a passage and must say where Yoga and Kośa differ. The Kośa's categories do not silently become Patañjali's words. Received Yoga commentary may provide a conventional reading where useful, but it does not govern this pass.
+The present pass reads each Yoga sūtra through a Kośa-grounded inquiry into cognition, mental factors, object-support, conditions, and path. The sūtra's wording remains the textual anchor, while the author's Yogavidyā research governs the commentary's philosophical direction. A Kośa comparison must be tied to a passage and must say what that passage establishes. The Kośa's categories do not silently become Patañjali's words. Received Yoga commentary does not govern this pass. The [editorial method](editorial-method.md) records the procedure for reading, writing, and revising a block.
 
 ## Related work
 
@@ -15,8 +15,8 @@ The fourfold Form : Essence : Principle : System is **the author's system**, not
 
 ## Working form of the first layer
 
-1. **Sūtra study:** exact Sanskrit, morphology, grammar, a conventional translation, and the immediate determination of the verse.
-2. **Paired commentary:** a compact explanation in sequence, led by a source-grounded Kośa comparison and clear about the limits of that comparison.
+1. **Sūtra study:** exact Sanskrit, morphology, grammar, the project's leading translation, a grammatical gloss where needed, and the immediate determination of the verse.
+2. **Paired commentary:** a compact explanation in sequence, with source-grounded Kośa analysis and a clear project determination.
 3. **Essays:** fuller Kośa-focused arguments, objections, and source boundaries that can later be edited into the continuous commentary.
 
 The [Samāpatti Essays](essays/01-prajna/samapatti-essays.md) collect the
@@ -49,4 +49,4 @@ state; it is not the final publication structure. In particular, the
 I.12–13 comparisons keep Kośa's technical *nirodha* and *sthiti*
 distinct from Yoga's own usage.
 
-Existing Fichte and Hegel reports remain source material for [Yogavidya](../Yogavidya/README.md). They do not determine the first-layer translation or the Kośa comparison. The first layer may identify a later connection without developing it there.
+Existing Fichte and Hegel reports remain source material for [Yogavidya](../Yogavidya/README.md). Yogavidyā sets the research standard for this commentary; the Bhāṣya develops only what it can make clear at its teaching level. Kośa passages are read in their own arguments before they are brought into that development.

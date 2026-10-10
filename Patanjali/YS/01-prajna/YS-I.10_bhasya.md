@@ -12,7 +12,7 @@ I.10 names a movement with *abhāva-pratyaya* as its support. Absence of the usu
 
 ## 3. Project Determination
 
-In our Bhavacakra reading, sleep interrupts the current selection of a world and gives the instrument a daily occasion for renewed determination. That is the functional gift behind the “free samādhi reset” image; the image does not make sleep an attained samādhi. I.38 will give a disciplined use of knowledge of sleep as a support. The difference between undergoing the absence-supported movement and taking knowledge of it as a support matters for our practice.
+In our Bhavacakra reading, sleep interrupts the current selection of a world and gives the instrument an occasion for renewed determination. The Science distinguishes undergoing this absence-supported movement from knowing it and later taking that knowledge as a support at I.38. Sleep alone is no attained samādhi; its operation can nonetheless be comprehended and placed within the whole inquiry.
 
 ## 4. Review Status
 

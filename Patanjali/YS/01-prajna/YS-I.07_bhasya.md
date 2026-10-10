@@ -12,7 +12,7 @@ Perception, inference, and *āgama* are three ways a cognition can be warranted.
 
 ## 3. Project Determination
 
-For our Kośa, a *pramāṇa* is a disciplined test of the relation among cognition, its object, and the claim made about that object. Object-specific *vijñāna* can be genuine without its first formulation being the final word on what the object is. *Prajñā* tests the scope of the claim. The valid movement thus belongs within the instrument whose operation Yoga will later restrain; restraint need not retroactively make its valid content false.
+For our Kośa, a *pramāṇa* is a disciplined test of the relation among cognition, its object, and the claim made about that object. Object-specific *vijñāna* can be genuine without its first formulation being the final word on what the object is. *Prajñā* tests the scope of the claim. Sublation preserves valid content while overcoming a movement's claim to be the whole Science.
 
 ## 4. Review Status
 

@@ -30,7 +30,7 @@ The compound *abhāva-pratyaya-ālambanā* qualifies *vṛttiḥ*: the movement 
 
 ## 6. Logical Determination
 
-I.10 gives the fourth *vṛtti* from I.6 its own *ālambana*. The movement is not specified by an ordinary presented thing, as in I.7, nor by an alien form or a word-led construction, as in I.8–9. The support is an *abhāva-pratyaya*. Whether and how this movement can inform meditative steadiness is a later question, especially at I.38.
+I.10 gives the fourth *vṛtti* from I.6 its own *ālambana*. The movement is supported by *abhāva-pratyaya*, a presentation of absence. The Science must distinguish this movement from the ordinary presentation of a thing, from error, and from word-led construction. Its support makes sleep intelligible as a movement; it does not make the absence a final knowledge of consciousness.
 
 ## 7. Interpretive Note
 

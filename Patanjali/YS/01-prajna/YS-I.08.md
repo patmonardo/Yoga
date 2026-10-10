@@ -28,7 +28,7 @@ The sūtra defines masculine *viparyayaḥ* through the neuter predicate *mithy�
 
 ## 6. Logical Determination
 
-I.7 named ways cognition can be warranted. I.8 determines the second *vṛtti* from I.6 by its failure of fit with its object: the cognition is established on a form other than the object's own. The criterion concerns the cognition–object relation; it does not yet sort errors by cause, duration, or ethical condition.
+I.7 named ways cognition can be warranted. I.8 determines the second *vṛtti* from I.6 by its failure of fit with its object: the cognition is established on a form other than the object's own. The Science must expose the principle of this misdetermination; simply suppressing the mistaken appearance would leave its governing claim unexamined. The sūtra itself gives the criterion of fit, not a full causal account of error.
 
 ## 7. Interpretive Note
 

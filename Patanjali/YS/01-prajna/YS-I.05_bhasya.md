@@ -8,13 +8,13 @@
 
 ## 2. Commentary
 
-After I.4's *vṛtti-sārūpya*, Yoga turns to the movements themselves. There are five kinds; each can be examined as afflicted or unafflicted. The two divisions cross. I.6 will give the five names, while I.5 already requires us to ask what governs a movement's condition.
+After I.4's *vṛtti-sārūpya*, the Science turns to the movements themselves. There are five kinds; each can be examined as afflicted or unafflicted. The two divisions cross. I.6 will give the five names, while I.5 already requires us to ask what governs a movement's condition and how that condition can change.
 
 Kośa makes that question exact. Afflicted consciousness has associated factors with determinate causal and ethical relations. *Kliṣṭa* is not simply another word for unwholesome, and *akliṣṭa* does not by itself mean Pure. We will track the factors and conditions rather than judge a movement by its surface content alone.
 
 ## 3. Project Determination
 
-The five Yoga kinds are not five isolated *caittas*. They are ways consciousness moves; the Kośa supplies a finer account of the factors accompanying those operations. This is the work of the inner instrument with Meaning. The Īśvara-centered route will need these distinctions without treating the sublation of both classes as the whole aim of Yoga Vidyā.
+The five Yoga kinds are ways consciousness moves; the Kośa supplies a finer account of the factors accompanying those operations. Sublation therefore requires discrimination of each movement and its condition. The Science does not discard an unafflicted movement simply because it is a movement; it determines the place of that movement in knowing.
 
 ## 4. Review Status
 

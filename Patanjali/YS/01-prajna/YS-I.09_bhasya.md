@@ -12,7 +12,7 @@ The third movement is real cognition with articulated word-content, even when no
 
 ## 3. Project Determination
 
-Our Kośa uses the sequence image → object-supported cognition → Principle : Rule determination → model for action. A word can move that sequence without securing its alleged *vastu*. Principle and Rule must test what the image is and what action it warrants. That is a project reconstruction of the operation, while the Yoga criterion remains *śabdajñānānupātī vastuśūnyaḥ*. It also explains why verbal construction is not automatically an error of the I.8 kind: its proposed thing may simply be absent.
+Our Kośa uses the sequence image → object-supported cognition → Principle : Rule determination → model for action. A word can move that sequence without securing its alleged *vastu*. Principle and Rule test what the image is and what action it warrants. The Science sublates the word's unsupported authority without losing the capacity to construct and discriminate. Yoga's criterion remains *śabdajñānānupātī vastuśūnyaḥ*; its proposed thing may simply be absent, rather than falsely perceived as in I.8.
 
 ## 4. Review Status
 

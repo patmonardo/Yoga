@@ -28,7 +28,7 @@ The two adjectives agree with *vikalpaḥ*. *Śabdajñāna* can be read as cogni
 
 ## 6. Logical Determination
 
-I.7 named valid cognition; I.8 defined mistaken cognition by its false fit to an object. I.9 marks another movement: a word-led content is articulated while the corresponding *vastu* is absent. This is why its difference from *viparyaya* matters. The mere presence of words does not establish the thing the words appear to present.
+I.7 named valid cognition; I.8 defined mistaken cognition by its false fit to an object. I.9 marks another movement: a word-led content is articulated while the corresponding *vastu* is absent. The Science must determine what the words do and whether their proposed thing is there. Sublation of this *vṛtti* preserves the power to articulate while refusing an unsupported claim to *vastu*.
 
 ## 7. Interpretive Note
 

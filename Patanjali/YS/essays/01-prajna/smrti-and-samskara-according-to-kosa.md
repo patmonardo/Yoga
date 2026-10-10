@@ -26,4 +26,4 @@ The later Yoga sequence reveals why this fifth movement matters to *samāpatti*.
 
 The essay's working genetic line is **experience → formed capacity → possible recollection → renewed cognition**. Within that line, *smṛti : saṃskāra* is a reciprocal determination in our project register: recollection discloses a capacity formed by experience, while that capacity makes recollection possible. Memory preserves access; fresh cognition tests what the retained way of access discloses. Yoga and Kośa meet precisely where preservation can either serve the present object or impose the past upon it.
 
-I.12 will ask how these five movements come under *nirodha* through *abhyāsa* and *vairāgya*. The functional synthesis of the set belongs there; the present essay establishes the fifth movement and its *saṃskāra* condition.
+I.12 asks how the five movements are sublated through *abhyāsa* and *vairāgya*. Memory's non-loss remains a capacity of the Science; what is overcome is a retained determination's untested claim to govern the present. The present essay establishes the fifth movement and its *saṃskāra* condition.

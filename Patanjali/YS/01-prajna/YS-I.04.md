@@ -32,7 +32,7 @@ The compound *vṛtti-sārūpyam* is the nominal predicate. *Itaratra* contrasts
 
 ## 6. Logical Determination
 
-I.3 gives abiding in the seer's own form; I.4 gives conformity to the form of the *vṛttis* in the other condition. The contrast does not require the seer to become a movement. It asks how the movement's determinate form can be taken as the seer's form. I.5 will distinguish afflicted and unafflicted movements.
+I.3 gives own-form abiding after sublation; I.4 gives conformity to a *vṛtti* in the other condition. The movement's determinate form is taken as the seer's form. This relation, *sārūpya*, is the problem to be known and overcome through the Science. It does not make the seer a movement, nor does it make every movement an error. I.5 will distinguish afflicted and unafflicted movements.
 
 ## 7. Interpretive Note
 
