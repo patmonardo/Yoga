@@ -8,14 +8,12 @@
 
 ## 2. Commentary
 
-The first movement named in I.6 is now articulated three ways. Perception apprehends an object directly; inference establishes something through a reason; *āgama* receives a teaching. Each has its own route to validity. Yoga's concise enumeration does not yet supply a full account of their conditions or errors.
-
-The Kośa provides a useful test. In disputing whether the characteristics of conditioned things are distinct real dharmas, its Bhāṣya asks whether perception, inference, or trustworthy testimony establishes that precise claim. When an opponent cites a sūtra, the reply examines the sūtra's meaning rather than treating its words as proof of a separately existent entity. This is the work developed in the [companion essay](../essays/pramana-according-to-kosa.md). It is a Kośa comparison, not an explanation Patañjali himself supplies here.
+Perception, inference, and *āgama* are three ways a cognition can be warranted. The Kośa puts warrant to work in a demanding case: when someone posits a distinct real dharma called “arising,” it asks what perception, inference, or trustworthy testimony establishes **that** existence claim. A teaching's words must be read for their *artha*; the word “arising” alone does not prove another entity alongside the conditioned event. The [Kośa essay](../essays/pramana-according-to-kosa.md) follows this argument. [Kośabhāṣya, source pp. 76–77](../../../Vasubandhu/Sources/kosabhasya.txt).
 
 ## 3. Project Determination
 
-*Pramāṇa* is a successful determination within the activity of consciousness. Its validity must be preserved: sublation does not mean that true cognition was simply false. Yet I.5–6 place it among the movements, and so its success does not make it identical with the whole science of consciousness. The question for our Yoga–Kośa inquiry is how warranted *vijñāna* participates in a fuller *prajñā* without confusing the cognition, its object, and its ground.
+For our Kośa, a *pramāṇa* is a disciplined test of the relation among cognition, its object, and the claim made about that object. Object-specific *vijñāna* can be genuine without its first formulation being the final word on what the object is. *Prajñā* tests the scope of the claim. The valid movement thus belongs within the instrument whose operation Yoga will later restrain; restraint need not retroactively make its valid content false.
 
 ## 4. Review Status
 
-First pass. Compare I.8 on error and I.49 on the difference between testimony, inference, and the *prajñā* arising there. The Kośa essay is a companion argument; its conclusions remain distinguishable from the sūtra's own words.
+Kośa-first revision. Compare I.8's alien-form cognition and later I.49's distinct *prajñā*.

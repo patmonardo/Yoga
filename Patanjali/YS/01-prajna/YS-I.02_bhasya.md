@@ -8,14 +8,16 @@
 
 ## 2. Commentary
 
-Yoga is defined by restraint of the movements of consciousness. *Citta* is consciousness; its *vṛttis* are determinate movements. I.5–11 distinguishes those movements; I.12 names practice and dispassion as the means of their restraint.
+The definition is exact about its target: *nirodha* concerns the *vṛttis* of *citta*. The sūtra does not say that consciousness itself is extinguished. I.5–11 will differentiate the movements; I.12 will name practice and dispassion as the means of their restraint.
 
-The Kośa's account of cessation can clarify the need to distinguish different ways a conditioned movement fails to arise, while its own two *nirodhas* remain distinct from the Yoga definition.
+The Kośa gives a powerful way to inspect the target. VAK 2.23 says *citta* and its associated factors cannot arise apart; VAK 2.34 specifies common support, object, and aspect in their association. A movement can therefore be examined as a determinate configuration of cognition and factors rather than a free-standing item in a list. This is an analytic comparison, not a claim that Yoga has adopted the Kośa's inventory. [Kośabhāṣya, VAK 2.23, 2.34](../../../Vasubandhu/Sources/kosabhasya.txt).
+
+Kośa VAK 1.6 then asks what kind of non-arising is at stake. *Pratisaṃkhyānirodha* is a particular disjunction attained through discriminative *prajñā*; *apratisaṃkhyānirodha* is the prevention of future arising when requisite conditions are missing. That distinction prevents a vague account of “stopping.” Yoga's sūtra has not assigned either Kośa technical cessation to its *vṛttis*. [Kośabhāṣya, VAK 1.6](../../../Vasubandhu/Sources/kosabhasya.txt).
 
 ## 3. Project Determination
 
-This Kośa comparison is limited to the distinction between discriminative disjunction and non-arising through deficient conditions. I.2 itself defines yoga by restraint of *citta-vṛttis*; it does not identify their restraint with either Kośa cessation.
+The Kośa-first task is to determine the configured movement and its conditions before asking what its *nirodha* accomplishes. The distinction between discriminative release and missing-condition non-arising stays available as a test through I.12 and I.17–18, where the Yoga sequence supplies more determinations.
 
 ## 4. Review Status
 
-First pass; return after I.3–4 and I.12–18.
+Kośa-first revision. Return after I.3–4 and I.12–18 to test the two cessation relations.

@@ -8,16 +8,14 @@
 
 ## 2. Commentary
 
-*Itaratra* answers *tadā* in I.3. *Vṛtti-sārūpya* is an apparent identity of form arising within conscious operation. The seer appears through a movement of consciousness; no material shape moves from one place to another.
+*Itaratra* answers *tadā* in I.3. The contrast is between abiding in the seer's own form and conformity to the form of the movements. *Sārūpya* names a relation of form; it does not say that the seer has been produced by, or physically changed into, a movement. Nor does it say that every movement is erroneous. I.5 will divide them into afflicted and unafflicted kinds.
 
-The sūtra does not say that a movement is false merely because it is a movement. I.5 will divide the *vṛttis* into afflicted and unafflicted kinds. Both fall within Yoga's inquiry into sublation; the division cannot be settled by identifying the afflicted class alone with I.4.
+The Kośa provides the detailed side of the comparison. VAK 2.23 says *citta* and *caittas* arise together. VAK 2.34 describes the associated event through shared support, object, and aspect. A cognition therefore has a determinate presentation with distinguishable factors. Yoga I.4 asks about the seer's *sārūpya* with such a movement; the Kośa analysis helps us specify the movement without identifying the seer as one more associated factor. [Kośabhāṣya, VAK 2.23, 2.34](../../../Vasubandhu/Sources/kosabhasya.txt).
 
 ## 3. Project Determination
 
-Yoga is compressed on the differentiated mental operations involved here. Kośa gives us *citta : caitta*: consciousness and its associated factors, whose co-arising, object-taking, and ethical qualities can be discriminated. This is the technical work our commentary brings to *sārūpya*.
-
-The Arhat path can follow the sublation of both kinds of *vṛtti* to its end. Our Yoga Vidyā takes up *sārūpya* through **aiśvarya**, the Īśvara-centered way developed in I.23–29. The inner instrument works with Meaning; its determinate operations need not claim to be the seer's own form.
+The first-layer determination is relational: a configured movement of consciousness supplies a form, and I.4 says the seer is in conformity with it in the other condition. The Kośa makes the configuration analysable; Yoga supplies the question of the seer. The larger Yoga Vidyā account of sublation and *aiśvarya* can be developed in its own layer after this relation is secure.
 
 ## 4. Review Status
 
-First pass; test the account against I.5 and I.23–29.
+Kośa-first revision. Test this reading against I.5 and the later account of *dṛśya*.

@@ -30,8 +30,8 @@ The five names form a nominal list. Its predicate is supplied by I.5: these are 
 
 ## 6. Logical Determination
 
-I.6 gives the five kinds promised in I.5. The list includes valid cognition. The distinction between valid cognition and error is therefore internal to the field of *vṛtti*; validity alone does not place a cognition outside the question of *nirodha*.
+I.6 gives the five kinds promised in I.5. Their order matters for inquiry: a movement can establish, misdetermine, construct from words, take absence as support, or retain an experienced object. The list includes valid cognition, so the field of *vṛtti* exceeds error. I.7–11 will determine each operation before I.12 asks about their restraint.
 
 ## 7. Interpretive Note
 
-This enumeration gives Yoga Vidyā a practical field of inquiry: how consciousness determines, mistakes, reconstructs through imagination, sleeps, and remembers. *Vikalpa* names a moment in that work; recognition of what imagination presents is a further determination, not a second name for *vikalpa*. Each kind can be afflicted or unafflicted as I.5 says. I.7 will specify the forms of *pramāṇa*; it will also make urgent the question of why even a valid movement is sublated.
+Our Kośa reading treats these as specifications of an instrument, not five isolated dictionary entries. Kośa VAK 2.23 says consciousness and associated factors arise together; VAK 2.34 differentiates their support, object, and aspect. Those relations help us inspect each Yoga movement's configuration without making the five Yoga kinds into five Kośa *caittas*. Each kind can be afflicted or unafflicted under I.5. The [sequence essay](../essays/five-vrittis-as-instrument-according-to-our-kosa.md) develops their functional relation. [Kośabhāṣya, VAK 2.23, 2.34](../../../Vasubandhu/Sources/kosabhasya.txt).

@@ -1,4 +1,4 @@
-# YS I.1 — Prajñā-pāda
+# YS I.1 — The Instruction Begins
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -28,8 +28,8 @@ This is a nominal sūtra without an expressed verb. *Yogānuśāsanam* names the
 
 ## 6. Logical Determination
 
-Yoga is given as a subject of instruction. I.2 defines it.
+*Atha* opens a teachable inquiry; *anuśāsanam* gives Yoga the form of ordered instruction. The sūtra does not yet state what yoga is; I.2 will do that. The Kośa's opening distinction between liberating *prajñā* and the teaching that supports its attainment gives a precise comparison for why a text can belong to a path without being identical to its realized end.
 
 ## 7. Interpretive Note
 
-We call Chapter I **Prajñā-pāda**. Yoga and Kośa together require a communicable Science of Principles.
+The source calls this chapter *Samādhi-pāda*; **Prajñā-pāda** is our project name for its study of knowing. Kośa VAK 1.2 calls undefiled *prajñā* with its entourage Abhidharma in the ultimate sense, and also calls the teaching that leads to it Abhidharma in a conventional sense. That distinction guides this reading of *anuśāsanam*; it does not translate Yoga's opening word into a Kośa term. [Kośabhāṣya, VAK 1.2](../../../Vasubandhu/Sources/kosabhasya.txt).

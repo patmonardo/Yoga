@@ -8,14 +8,14 @@
 
 ## 2. Commentary
 
-*Tadā* joins this sūtra to Yoga's definition in I.2. The sublation of the movements of consciousness makes possible the seer's abiding in its own form. *Avasthānam* names a standing in that form, not the making of the seer.
+*Tadā* ties the seer's abiding to I.2's restraint. *Draṣṭuḥ* gives whose abiding is at issue, and *svarūpe* gives its locus. The text does not say that restraint manufactures the seer; it says what obtains **then**. The seer is therefore not simply one of the movements being restrained.
 
-The genitive *draṣṭuḥ* is decisive. The sūtra concerns the seer. It does not call the seer a movement of consciousness, nor does it make the seer's own form an object constructed by that movement. I.4 will describe the other relation, in which the form of the movements governs appearance.
+The Kośa lets us state the problem more sharply. VAK 1.16 defines differentiated cognition by apprehension of its object. In the discussion of sight at source p. 31, the Kośa tests several ways of assigning “seeing” to eye or cognition, including a warning against treating conventional agent-phrases as independent entities. That analysis describes the conditioned work of seeing. I.3's *draṣṭṛ* must be read from Yoga's sūtra, not quietly substituted with Kośa *vijñāna*. The Kośa comparison marks the boundary of an object-cognition account. [Kośabhāṣya, VAK 1.16 and source p. 31](../../../Vasubandhu/Sources/kosabhasya.txt).
 
 ## 3. Project Determination
 
-Yoga's Science of Consciousness must account for how the movements can obscure or disclose the relation to the seer. Kośa gives us exact analysis of conditioned cognition and its factors; I.3 presses beyond a mere inventory of those factors by asking what the seer's abiding means when their false claim is sublated. That is a task for the sequence, not a settled identification of Kośa's *citta* with Yoga's *draṣṭṛ*.
+The precise issue for this first layer is the relation between the seer named in I.3 and the conditioned cognitions the Kośa can analyze. The sūtra requires their distinction; it has not yet given a theory of their identity, contact, or transformation. I.4 states the other condition to be explained.
 
 ## 4. Review Status
 
-First pass; read with I.4 before expanding the argument in Essays.
+Kośa-first revision. Read with I.4 before extending the account of *sārūpya*.

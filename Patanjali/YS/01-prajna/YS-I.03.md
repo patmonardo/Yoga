@@ -29,8 +29,8 @@ The sūtra is a nominal statement. *Draṣṭuḥ* supplies whose abiding is at 
 
 ## 6. Logical Determination
 
-*Tadā* makes I.3 depend on I.2. With the sublation of the movements of consciousness, the seer abides in its own form. The result is expressed as abiding, not as the production of a new seer.
+*Tadā* makes I.3 depend on the restraint specified in I.2. The sentence speaks of the seer's abiding in its own form, not the production of a new seer. It does not yet identify the seer with consciousness or describe a mechanism by which that abiding is achieved.
 
 ## 7. Interpretive Note
 
-The seer and consciousness must remain distinct in this study. I.3 names the seer's own form; it does not identify that form with a particular *vṛtti* or state what becomes of every operation of consciousness. I.4 will supply the contrasting condition.
+The seer and consciousness must remain distinct in this study. Kośa VAK 1.16 defines *vijñāna* as differentiated apprehension of an object, while its discussion of seeing at source p. 31 asks whether eye or cognition can be called the seer and warns against reifying ordinary agent-language. That inquiry helps specify what conditioned cognition does; it does not make Yoga's *draṣṭṛ* a Kośa cognition-dharma. I.4 supplies the contrasting condition. [Kośabhāṣya, VAK 1.16 and source p. 31](../../../Vasubandhu/Sources/kosabhasya.txt).

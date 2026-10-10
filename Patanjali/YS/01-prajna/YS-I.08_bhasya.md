@@ -8,14 +8,12 @@
 
 ## 2. Commentary
 
-After the three *pramāṇas*, Yoga names the movement in which cognition misses its object. The sūtra does not define error by the mere absence of information. A cognition has taken shape, but that shape does not belong to the object as apprehended. This is why I.8 can be read beside I.7: the question of warranted determination has become the question of its reversal.
-
-The Kośa makes that reversal concrete. It asks how the impermanent comes to be judged permanent, the painful pleasant, the impure pure, and the non-self self. In the Bhāṣya's narrower discussion, a settled *dṛṣṭi* can govern associated *saṃjñā* and *citta*; other mistakes need not carry that same force. Our [companion essay](../essays/viparyaya-according-to-kosa.md) follows the passage and its internal dispute. These Kośa distinctions help us test an error's structure without inserting its fourfold list into Patañjali's one-sentence definition.
+I.8 is more exact than “not knowing.” Cognition takes a determinate form, but it is established in one other than the object's own. The Kośa makes the operative difference visible: its four inversions of impermanent, painful, impure, and non-self phenomena can harden into a settled *dṛṣṭi*. That view can govern associated perception (*saṃjñā*) and consciousness (*citta*). A mistaken glimpse and an organizing view therefore have different reach. The [Kośa essay](../essays/viparyaya-according-to-kosa.md) follows the disputed classification without forcing its four cases into Yoga's definition. [Kośabhāṣya, source pp. 283–84](../../../Vasubandhu/Sources/kosabhasya.txt).
 
 ## 3. Project Determination
 
-The failure here is a false determination of an object within consciousness. Correction must therefore ask what form has been attributed, on what ground, and how firmly it is held. A mistaken cognition and an entrenched view call for different analyses. We will keep that difference open as the Yoga sequence proceeds; *viparyaya* is a movement, not yet a complete account of affliction or its removal.
+Our Kośa use asks what rule selected the alien form, which claim it sustained, and whether repetition has made that claim govern subsequent cognitions. Correction tests the object again and loosens the view's authority. This is a practical account of how an error operates in the instrument; the Yoga sūtra itself supplies the criterion *atad-rūpa-pratiṣṭha*.
 
 ## 4. Review Status
 
-First pass. Read I.9 next for *vikalpa*, keeping a word-led construction distinct from the error specified here. The Kośa essay grounds the present comparison; later philosophical integration can build on this distinction.
+Kośa-first revision. Read I.9 next: verbal construction and alien-form error require different tests.

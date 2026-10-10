@@ -8,16 +8,14 @@
 
 ## 2. Commentary
 
-*Atha*: now Yoga is taught. *Anuśāsana* requires an ordered account of what Yoga knows.
+*Atha* begins an instruction. *Anuśāsana* is the teachable order in which the sūtras will determine yoga; I.2 supplies the first definition. The opening makes an inquiry possible before it claims any result of that inquiry.
 
-Realization must become intelligible in its distinctions and teachable in its relations. The sūtras begin that work.
+The Kośa begins its own instruction by distinguishing undefiled *prajñā* with its entourage from the teaching and preparatory wisdom that lead to it (VAK 1.2). The text is a means of access to discernment, while discernment is an attained operation. That is the useful comparison for I.1: a disciplined exposition can give form to a path without being the attainment it expounds. The two texts have different subjects; the comparison concerns the relation between instruction and knowing. [Kośabhāṣya, VAK 1.2](../../../Vasubandhu/Sources/kosabhasya.txt).
 
 ## 3. Project Determination
 
-Yoga and Kośa are metaphysical systems. The Kośa determines the dharmas; Yoga determines consciousness and its movements. Together they call for a System of Principles. Yoga speaks to saints; the Āryans must also articulate this science for humanity.
-
-The Organon will give these determinations systematic form.
+Our name **Prajñā-pāda** signals the inquiry into knowledge that this instruction will develop; the source chapter is *Samādhi-pāda*. The Kośa comparison gives this first sūtra one disciplined task: keep the exposition, the practice it describes, and its attained knowledge distinguishable as the following sūtras determine them.
 
 ## 4. Review Status
 
-First pass; revisit after I.2.
+Kośa-first revision. Read I.1 with I.2; the opening alone does not define yoga.

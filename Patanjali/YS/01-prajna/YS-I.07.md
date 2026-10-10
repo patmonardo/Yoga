@@ -33,4 +33,4 @@ I.6 listed *pramāṇa* first among the five movements of consciousness; I.7 div
 
 ## 7. Interpretive Note
 
-The [companion Kośa essay](../essays/pramana-according-to-kosa.md) examines a Bhāṣya argument that asks which *pramāṇa* establishes a claim of real existence. Its list of perception, inference, and *āptāgama* illuminates the evidential work of I.7 while preserving the difference between Kośa's qualified term and Yoga's *āgama*. As I.5–6 require, even a warranted cognition remains a *vṛtti* that can be examined as afflicted or unafflicted.
+The [Kośa essay](../essays/pramana-according-to-kosa.md) tests a claim to real existence through perception, inference, and trustworthy testimony (*āptāgama*). It asks which claim each avenue actually warrants. Our Kośa use makes *pramāṇa* an operation of principled determination rather than a bare permission to believe. Yoga's *āgama* and the Kośa's *āptāgama* remain distinct wordings, and even warranted cognition remains a *vṛtti* under I.5–6.

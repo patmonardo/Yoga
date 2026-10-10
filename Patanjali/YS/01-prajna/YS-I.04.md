@@ -32,8 +32,8 @@ The compound *vṛtti-sārūpyam* is the nominal predicate. *Itaratra* contrasts
 
 ## 6. Logical Determination
 
-I.3 gives abiding in the seer's own form; I.4 gives conformity to the form of the *vṛttis*. *Sārūpya* concerns a mode of appearing through the operation of consciousness and its factors. I.5 will distinguish afflicted and unafflicted movements.
+I.3 gives abiding in the seer's own form; I.4 gives conformity to the form of the *vṛttis* in the other condition. The contrast does not require the seer to become a movement. It asks how the movement's determinate form can be taken as the seer's form. I.5 will distinguish afflicted and unafflicted movements.
 
 ## 7. Interpretive Note
 
-Both kinds of *vṛtti* named in I.5 enter the question of sublation. Here the issue is the apparent identity of the seer's form with a determinate operation of consciousness.
+Kośa VAK 2.23 and 2.34 show that a cognition appears with associated factors sharing its support, object, and aspect. This gives *vṛtti-sārūpya* a concrete comparison: determinate cognition has a form through which something appears. Yoga's claim concerns the seer's conformity to that form; the Kośa does not thereby supply a *puruṣa* or settle the seer's status. [Kośabhāṣya, VAK 2.23, 2.34](../../../Vasubandhu/Sources/kosabhasya.txt).

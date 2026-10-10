@@ -8,14 +8,12 @@
 
 ## 2. Commentary
 
-The third movement has its own determination. A word can give cognition an articulated content even where the corresponding thing is absent. Such cognition is a real movement; *vastuśūnya* does not erase the words or the act of thinking. It names the missing *vastu*. I.9 therefore asks for discrimination between what a word lets us think and what is given as the thing thought.
-
-The Kośa clarifies the range of *vikalpa* before we narrow it to this Yoga case. Its Bhāṣya says sensory cognition can have intrinsic *vikalpa* while lacking the examining and recollective kinds. It identifies those kinds respectively with *vitarka*, unconcentrated mental *prajñā*, and mental *smṛti*. The next Kośa verse says that seven cognition and mind Principles are *sālambana*, object-supported. Read together, these passages prevent us from calling every differentiation empty or from mistaking cognition's object-support for proof of the thing its words posit. The [companion essay](../essays/vikalpa-according-to-kosa.md) sets out the sources and the limits of this comparison.
+The third movement is real cognition with articulated word-content, even when no corresponding *vastu* is there. Kośa VAK 1.33 distinguishes intrinsic, examining, and recollective *vikalpa*; even sensory cognition has the first. Yoga I.9 selects the narrower problem of a word-led construction. Kośa VAK 1.34 says seven mind and cognition Principles are *sālambana*. Their having an object-support does not certify the thing asserted by the words. This is the crucial difference between support for cognition and warranted existence of its proposed being. The [Kośa essay](../essays/vikalpa-according-to-kosa.md) develops the distinction. [Kośabhāṣya, VAK 1.33–34](../../../Vasubandhu/Sources/kosabhasya.txt).
 
 ## 3. Project Determination
 
-Here cognition articulates a meaning-content within consciousness without a corresponding *vastu*. Its *ālambana* supports cognition as apprehension; that support need not be the thing posited, and it does not, on that account, support consciousness as such. The power of articulation is real; the claim to a corresponding thing has to be tested. This allows our later work on imagination and recognition to begin from the sūtra's exact condition rather than from a general praise or rejection of conceptual construction. I.5 still permits the question whether a particular *vikalpa* is afflicted or unafflicted.
+Our Kośa uses the sequence image → object-supported cognition → Principle : Rule determination → model for action. A word can move that sequence without securing its alleged *vastu*. Principle and Rule must test what the image is and what action it warrants. That is a project reconstruction of the operation, while the Yoga criterion remains *śabdajñānānupātī vastuśūnyaḥ*. It also explains why verbal construction is not automatically an error of the I.8 kind: its proposed thing may simply be absent.
 
 ## 4. Review Status
 
-First pass. Compare I.8 on false cognition, I.11 on memory, and I.42 on the mixture of word, meaning, and cognition. Keep the Kośa's threefold classification and Yoga's word-led criterion distinguishable as the essays develop.
+Kośa-first revision. Compare I.8, I.11, and I.42 while keeping the wider Kośa classification distinct from Yoga's word-led case.
