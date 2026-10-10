@@ -287,6 +287,10 @@ reconstruction.
 
 ### Organon Sāṃkhya: Kantian commentary
 
+The [Sāṃkhya report area](Samkhya/README.md) begins with a bounded
+source and inference register. It is an entry point for this method, not
+a completed reconstruction of the Kārikā sequence.
+
 Use the Kārikā sequence to reconstruct Sāṃkhya's own proof and system before
 introducing Kant. For each proposed correspondence, identify the problem
 Sāṃkhya is solving, the role of the relevant determination, and the Kantian

@@ -12,3 +12,12 @@ The existing Fichte and Hegel reports remain in their current locations. This di
 The [Māṇḍūkya study of OṂ and its *artha*](Prajnapada/mandukya-om-artha-study.md)
 begins the second-layer inquiry prompted by Yoga Sūtra I.27–29. It reads the
 Upaniṣad and Śaṅkara directly before developing the Organon comparison.
+
+The [I.40 essay on mastery and the Kośa's *samāpatti*
+analysis](Prajnapada/ys-i-40-range-and-samapatti.md) begins the companion
+essay sequence for I.40–51. These essays develop the key Yogavidya topics
+for a later Vārttika while the paired sūtra studies remain concise.
+
+The [Organon Sāṃkhya report area](../../../Docs/Samkhya/README.md)
+holds the separate Sāṃkhya source work needed before expanding earlier
+Yoga studies, including the question of *aiśvarya* and the immeasurables.

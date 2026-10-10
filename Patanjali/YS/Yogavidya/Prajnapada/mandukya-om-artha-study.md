@@ -10,6 +10,15 @@ the text's own further determinations. It belongs to Yogavidya's Organon
 reading, while the [paired I.28 study](../../01-prajna/YS-I.28.md) keeps the
 Yoga sūtra's wording in view.
 
+In our Organon reading, OṂ's *artha* first raises the question of
+**Subjective Artha**, ultimately Artha as **Absolute Attribute**. This is
+different from the impure **Objective Artha** whose Form : Essence
+mixture becomes explicit at Yoga I.42. The Māṇḍūkya study can develop
+the first question through practice; the [I.41–43 Bhāṣya
+essays](../../essays/01-prajna/samapatti-and-the-three-bases-at-i-41.md)
+develop the two-truths relation. Neither distinction is a dictionary
+translation of *artha* in the Upaniṣad or the Yoga Sūtra.
+
 ## Māṇḍūkya 1: OṂ and the whole field
 
 > ओमित्येतदक्षरमिदं सर्वं तस्योपव्याख्यानं भूतं भवद्भविष्यदिति सर्वमोङ्कार एव । यच्चान्यत्त्रिकालातीतं तदप्योङ्कार एव ॥ १ ॥

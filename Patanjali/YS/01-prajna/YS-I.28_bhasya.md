@@ -4,13 +4,13 @@
 
 > तज्जपस्तदर्थभावनम्॥ १.२८॥
 
-> *taj-japas tad-artha-bhāvanam* — Repetition of that, and cultivation of its meaning.
+> *taj-japas tad-artha-bhāvanam* — Repetition of that, and cultivation of its *artha*.
 
 ## 2. Commentary
 
 The designation of I.27 now becomes a practice. *Japa* repeats the
 *praṇava*; *bhāvanā* cultivates its *artha*. Repetition of OṂ is familiar.
-The less obvious work is sustained attention to what OṂ means. Mere repeated
+The less obvious work is sustained attention to OṂ's *artha*. Mere repeated
 sound has not yet performed that work.
 
 [Gītā 8.13](../../../Sankara/BG/BG-C08/gita-8.13.md) joins utterance of OṂ
@@ -36,10 +36,14 @@ realization. The Kośa does not identify that expression with OṂ.
 
 ## 3. Project Determination
 
-Repetition maintains a determinate address to Īśvara; cultivation of meaning
-tests whether that address becomes knowledge and practice. The present
-extension of the Buddha's teaching lies in the latter work, while the sūtra
-holds sound and meaning together.
+Repetition maintains a determinate address to Īśvara; cultivation of
+*artha* tests whether that address becomes knowledge and practice. This
+first *artha* cannot be assumed to be the impure Objective Artha of
+I.42–43. It opens our inquiry into Subjective Artha, ultimately Artha
+as Absolute Attribute; the two-truths distinction receives its first
+developed treatment in the [samāpatti essays](../essays/01-prajna/samapatti-and-the-three-bases-at-i-41.md).
+The present extension of the Buddha's teaching lies in this cultivation,
+while the sūtra holds sound and *artha* together.
 
 ## 4. Review Status
 

@@ -21,8 +21,28 @@ The fourfold Form : Essence : Principle : System is **the author's system**, not
 
 The study and paired commentary files proceed one sūtra at a time. The [tests](tests/README.md) check file pairing, source anchors, and heading order; they cannot certify an attribution or a philosophical conclusion.
 
+The [Prajñāpāda reading map](prajna-reading-map.md) provides a Chapter I
+table of contents, key-term index, and provisional Form–Essence–Principle
+guide for the first-pass paired commentary.
+
+The first explicit *artha* in this chapter is OṂ's *tad-artha* at I.28.
+In our Organon reading it must not be predetermined as Objective Artha:
+it opens the question of Subjective Artha, ultimately Artha as Absolute
+Attribute. In the *saṃvṛti* field of I.42–43, **artha is impure,
+Objective Artha and implicates an object**. Do not silently replace
+*artha* with “object” or treat *artha-mātra* at I.43 as already pure.
+The movement between these determinations belongs to the two-truths
+inquiry developed through the samāpatti sequence.
+
 ## Editorial status
 
-The I.1–13 studies are working drafts. Some earlier paired commentaries and essays still contain second-layer claims under headings such as “Project Determination.” Those passages need editorial separation before this first layer is a complete Kośa-focused manuscript. The current heading template records the draft state; it is not the final publication structure. In particular, the I.12–13 comparisons keep Kośa's technical *nirodha* and *sthiti* distinct from Yoga's own usage.
+Chapter I.1–51 has a complete first-pass pair of studies and Bhāṣyas;
+they remain working drafts. Some paired commentaries and essays contain
+second-layer claims under headings such as “Project Determination.”
+Those passages need editorial separation before this first layer is a
+finished manuscript. The current heading template records the draft
+state; it is not the final publication structure. In particular, the
+I.12–13 comparisons keep Kośa's technical *nirodha* and *sthiti*
+distinct from Yoga's own usage.
 
 Existing Fichte and Hegel reports remain source material for [Yogavidya](Yogavidya/README.md). They do not determine the first-layer translation or the Kośa comparison. The first layer may identify a later connection without developing it there.
