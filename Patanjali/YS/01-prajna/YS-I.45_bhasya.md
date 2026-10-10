@@ -40,7 +40,9 @@ Base is active through its Dharma Essence and Dharma Principle:
 formed determinations are reflected into their conditions, and the
 Principle of that reflection must be found rather than presumed.
 This is a first pass on the four divisions; their full reconstruction
-belongs with the later study of II.19.
+belongs with the later study of II.19. The
+[Bhāṣya essay](../essays/01-prajna/alinga-and-the-limit-of-reflection-at-i-45.md)
+works through the limit of reflective marks here.
 
 ## 4. Review Status
 

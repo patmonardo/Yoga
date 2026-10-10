@@ -25,8 +25,9 @@ how complete attention can remain determinate across changing scale.
 I.41 takes the next step: consciousness, like a clear jewel, rests upon
 the grasper, grasping, or grasped. Thus I.40 establishes availability of
 the field before I.41 describes *samāpatti* within it. The
-[companion essay](../Yogavidya/Prajnapada/ys-i-40-range-and-samapatti.md)
-works through this threshold with the Kośa and the existing Fichte report.
+[Bhāṣya essay](../essays/01-prajna/vasikara-and-the-range-of-samapatti-at-i-40.md)
+works through this threshold; the [Yogavidyā study](../Yogavidya/Prajnapada/ys-i-40-range-and-samapatti.md)
+develops its further implications.
 
 ## 3. Project Determination
 

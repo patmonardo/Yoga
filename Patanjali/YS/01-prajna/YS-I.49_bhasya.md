@@ -26,7 +26,9 @@ The Science of Principles cannot be a renamed inference. Its
 determinate Concept must disclose the Principle from which the
 Form and Essence discoveries belong together. That is the issue
 of this *viśeṣa-artha*. We leave the full Objective : Subjective
-Artha reconstruction for the later Yogavidyā pass.
+Artha reconstruction for the later Yogavidyā pass. The
+[Bhāṣya essay](../essays/01-prajna/visesa-artha-and-prajnas-field-at-i-49.md)
+sets out the present distinction.
 
 ## 4. Review Status
 

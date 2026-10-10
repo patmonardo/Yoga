@@ -26,7 +26,9 @@ Form and Essence are two *bīja* of this *saṃvṛti* work. *Nirvitarkā*
 and *nirvicārā* find Principles through their respective seeded
 processes; they are not yet *nirbīja*. The later movement must show
 how the complete relation of the Principles is known and how the
-seeded formation is sublated.
+seeded formation is sublated. The
+[Bhāṣya essay](../essays/01-prajna/sabija-and-the-two-seeds-at-i-46.md)
+specifies what remains seeded in the preceding modes.
 
 ## 4. Review Status
 

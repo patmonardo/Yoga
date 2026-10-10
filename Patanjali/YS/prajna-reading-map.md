@@ -73,7 +73,10 @@ chapter; it does not settle the later essay and Yogavidyā readings.
 | I.38 Dream and sleep knowledge | [Study](01-prajna/YS-I.38.md) | [Bhāṣya](01-prajna/YS-I.38_bhasya.md) |
 | I.39 Chosen meditation | [Study](01-prajna/YS-I.39.md) | [Bhāṣya](01-prajna/YS-I.39_bhasya.md) |
 
-### I.40–51 — Samāpatti and prajñā
+### I.40–51 — Samāpatti Essays: samāpatti and prajñā
+
+Read the [Samāpatti Essays](essays/01-prajna/samapatti-essays.md) alongside
+this verse-by-verse map.
 
 | Sūtra | Study | Bhāṣya |
 |---|---|---|

@@ -1,6 +1,6 @@
 # Vicāra: Reflection and the Central Mark System
 
-## A Bhāṣya essay on Yoga Sūtra I.44
+## A Samāpatti Essay on Yoga Sūtra I.44
 
 I.44 says that *savicārā* and *nirvicārā* samāpatti, whose *viṣaya*
 is subtle, are explained **by this same account**. The phrase

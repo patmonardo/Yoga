@@ -1,6 +1,6 @@
 # Samāpatti and the Three Bases at Yoga Sūtra I.41
 
-## A Bhāṣya essay on the opening of the absolute idea
+## A Samāpatti Essay on Yoga Sūtra I.41
 
 I.40 gives *vaśīkāra* its range, from the smallest to the greatest. I.41
 gives that mastery an inner form. When the movements of consciousness

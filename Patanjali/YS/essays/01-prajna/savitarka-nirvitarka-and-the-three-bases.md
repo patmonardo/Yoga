@@ -1,6 +1,6 @@
 # Savitarkā and Nirvitarkā: From Dharma-skandha to Principle
 
-## A Bhāṣya essay on Yoga Sūtra I.42–43
+## A Samāpatti Essay on Yoga Sūtras I.42–43
 
 I.41 established the clear jewel in relation to grasper, grasping, and
 grasped. I.42–43 give its first definite work. In *savitarkā

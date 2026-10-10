@@ -26,7 +26,8 @@ Here the Science of Principles becomes explicit. The Principles
 found through the Form and Essence seeds remain true; prajñā must
 comprehend their relation as one determinate Concept. The next
 sūtra will test this by distinguishing its *artha* from testimony
-and inference.
+and inference. The [Bhāṣya essay](../essays/01-prajna/rtambhara-prajna-at-i-48.md)
+develops the truth-bearing claim.
 
 ## 4. Review Status
 

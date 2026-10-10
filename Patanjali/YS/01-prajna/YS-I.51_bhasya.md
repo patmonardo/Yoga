@@ -30,7 +30,9 @@ The prajñā born in the seeded work has done its work; its
 is the third Principle determination, *nirbīja*, after those
 found in *nirvitarkā* and *nirvicārā*. Their content is not
 discarded: the Science comprehends the two discoveries from
-the central Principle.
+the central Principle. The
+[Bhāṣya essay](../essays/01-prajna/nirbija-and-the-sublation-of-seed-at-i-51.md)
+traces this final transition through the whole sequence.
 
 ## 4. Review Status
 

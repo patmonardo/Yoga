@@ -26,7 +26,9 @@ The Saṃskāra Base is not a store of completed knowledge. The
 Science finds Principles within its formations and leaves a new
 capacity for knowing. I.50 gives that capacity a causal role, while
 I.51 will sublate even this privileged formation. The Principle
-found does not depend eternally on its seed.
+found does not depend eternally on its seed. The
+[Bhāṣya essay](../essays/01-prajna/prajna-born-samskara-at-i-50.md)
+develops the formation's efficacy and limit.
 
 ## 4. Review Status
 

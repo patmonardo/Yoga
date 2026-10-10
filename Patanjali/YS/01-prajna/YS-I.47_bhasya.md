@@ -25,6 +25,8 @@ Essence Base Reflection becomes clear in its own operation. Its
 Principle is no longer a fleeting discovery hidden by the marks
 through which it was found. This clarity prepares the truth-bearing
 Prajñā of I.48 without making I.47 the chapter's final attainment.
+The [Bhāṣya essay](../essays/01-prajna/nirvicara-proficiency-and-inner-clarity-at-i-47.md)
+develops the work of proficiency.
 
 ## 4. Review Status
 
