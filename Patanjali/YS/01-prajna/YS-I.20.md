@@ -36,4 +36,4 @@ The Bhāṣya calls this *upāya-pratyaya*, conditioned by means. It unfolds a s
 
 ## 7. Interpretive Note
 
-The [Kośa essay](../essays/five-powers-according-to-kosa.md) investigates the unusually exact shared fivefold set. The Kośa calls these five *indriyas* and *balas*, but Yoga's Bhāṣya gives them its own order and destination.
+The [Kośa essay](../essays/01-prajna/five-powers-according-to-kosa.md) investigates the unusually exact shared fivefold set. The Kośa calls these five *indriyas* and *balas*, but Yoga's Bhāṣya gives them its own order and destination.

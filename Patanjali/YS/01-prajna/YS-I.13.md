@@ -33,4 +33,4 @@ I.12 named *abhyāsa* as one means of restraint; I.13 defines it by its aim, *st
 
 ## 7. Interpretive Note
 
-The [Kośa companion essay](../essays/sthiti-and-abhyasa-according-to-kosa.md) tests *sthiti* against the Kośa's debate about continuance of a conditioned stream and *vīrya* against its account of wholesome mental factors. Neither comparison makes Yoga's meditative steadiness a separate Kośa dharma.
+The [Kośa companion essay](../essays/01-prajna/sthiti-and-abhyasa-according-to-kosa.md) tests *sthiti* against the Kośa's debate about continuance of a conditioned stream and *vīrya* against its account of wholesome mental factors. Neither comparison makes Yoga's meditative steadiness a separate Kośa dharma.

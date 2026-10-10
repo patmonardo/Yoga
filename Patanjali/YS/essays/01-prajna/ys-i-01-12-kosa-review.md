@@ -2,13 +2,13 @@
 
 ## The argument so far
 
-I.1 announces an instruction. I.2 defines yoga by restraint of the movements of consciousness. I.3–4 state the consequence for the seer: abiding in its own form, or conformity to the movements. I.5 crosses two determinations, fivefold kinds and afflicted/unafflicted condition. I.6 names the five kinds, I.7–11 defines each, and I.12 supplies the dual means of restraint. This is the first complete arc of the text, not twelve isolated topics. [Yoga source](../../Sources/Yoga.txt).
+I.1 announces an instruction. I.2 defines yoga by restraint of the movements of consciousness. I.3–4 state the consequence for the seer: abiding in its own form, or conformity to the movements. I.5 crosses two determinations, fivefold kinds and afflicted/unafflicted condition. I.6 names the five kinds, I.7–11 defines each, and I.12 supplies the dual means of restraint. This is the first complete arc of the text, not twelve isolated topics. [Yoga source](../../../Sources/Yoga.txt).
 
 | Passage | Determination established | Kośa question for our review |
 |---|---|---|
-| [I.1–2](../01-prajna/YS-I.02.md) | Instruction and definition of yoga | Which Kośa distinctions clarify *nirodha* without identifying its unconditioned dharmas with Yoga's restraint? |
-| [I.3–4](../01-prajna/YS-I.04_bhasya.md) | Seer's own form and conformity to movements | How do we compare seer and *citta* with Kośa's analysis of consciousness without treating *puruṣa* as a Kośa dharma? |
-| [I.5–6](../01-prajna/YS-I.06_bhasya.md) | Five kinds crossed with afflicted/unafflicted condition | What accompanying factors condition each kind? Yoga's five kinds are not five individual Kośa *caittas*. |
+| [I.1–2](../../01-prajna/YS-I.02.md) | Instruction and definition of yoga | Which Kośa distinctions clarify *nirodha* without identifying its unconditioned dharmas with Yoga's restraint? |
+| [I.3–4](../../01-prajna/YS-I.04_bhasya.md) | Seer's own form and conformity to movements | How do we compare seer and *citta* with Kośa's analysis of consciousness without treating *puruṣa* as a Kośa dharma? |
+| [I.5–6](../../01-prajna/YS-I.06_bhasya.md) | Five kinds crossed with afflicted/unafflicted condition | What accompanying factors condition each kind? Yoga's five kinds are not five individual Kośa *caittas*. |
 | [I.7](pramana-according-to-kosa.md) | Three valid means | How is warrant tested, and how does valid cognition remain a restrainable movement? |
 | [I.8](viparyaya-according-to-kosa.md) | Cognition in an alien form | When does a mistake become a settled view that governs associated cognition? |
 | [I.9](vikalpa-according-to-kosa.md) | Word-led thought lacking corresponding *vastu* | How can cognition have an *ālambana* without the thing posited by words being there? |
@@ -28,7 +28,7 @@ I.1 announces an instruction. I.2 defines yoga by restraint of the movements of 
 
 **Memory and formation.** The Yoga Bhāṣya explicitly connects a prior cognition, *saṃskāra*, and later memory; the Kośa's capacity analogy clarifies causal continuity in its own argumentative setting. The analogy does not establish a universal *saṃskāra* mechanism.
 
-**Two senses of *nirodha*.** The Kośa's *pratisaṃkhyānirodha* and *apratisaṃkhyānirodha* distinguish discriminative disjunction from missing-condition non-arising. Neither is a name for Yoga's practice or dispassion. I.12's received Bhāṣya says dispassion checks the object current and discerning practice opens the discernment current. [Kośabhāṣya, source pp. 3–4](../../../Vasubandhu/Sources/kosabhasya.txt); [Yoga I.12 with Bhāṣya](https://www.wisdomlib.org/hinduism/book/yoga-sutra-with-bhasya-sanskrit/d/doc1216809.html).
+**Two senses of *nirodha*.** The Kośa's *pratisaṃkhyānirodha* and *apratisaṃkhyānirodha* distinguish discriminative disjunction from missing-condition non-arising. Neither is a name for Yoga's practice or dispassion. I.12's received Bhāṣya says dispassion checks the object current and discerning practice opens the discernment current. [Kośabhāṣya, source pp. 3–4](../../../../Vasubandhu/Sources/kosabhasya.txt); [Yoga I.12 with Bhāṣya](https://www.wisdomlib.org/hinduism/book/yoga-sutra-with-bhasya-sanskrit/d/doc1216809.html).
 
 ## Questions carried forward
 

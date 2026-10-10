@@ -34,4 +34,4 @@ I.10 gives the fourth *vṛtti* from I.6 its own *ālambana*. The movement is no
 
 ## 7. Interpretive Note
 
-The [Kośa essay](../essays/nidra-and-absorption-according-to-kosa.md) distinguishes dull contraction, wholesome gathering around one *ālambana*, and deliberate cessation. This is useful for our Bhavacakra reading: a daily release from the current object-configuration can become an occasion for renewed determination. The sūtra calls sleep an absence-supported *vṛtti*, so ordinary sleep itself is not thereby a Kośa *samāpatti* or the achievement of samādhi.
+The [Kośa essay](../essays/01-prajna/nidra-and-absorption-according-to-kosa.md) distinguishes dull contraction, wholesome gathering around one *ālambana*, and deliberate cessation. This is useful for our Bhavacakra reading: a daily release from the current object-configuration can become an occasion for renewed determination. The sūtra calls sleep an absence-supported *vṛtti*, so ordinary sleep itself is not thereby a Kośa *samāpatti* or the achievement of samādhi.

@@ -2,7 +2,7 @@
 
 ## A Kośa companion essay for Yoga Sūtra I.13
 
-The Kośa gives *sthiti* a disputed place among the characteristics of conditioned dharmas. VAK 2.45 lists origination, aging, continuance, and impermanence. Its Bhāṣya first reports the account in which *sthiti* establishes a dharma: *sthitiḥ sthāpayati*. Later, in a counteranalysis, it explains continuance through a stream: *sa eva pravāho 'nuvartamānaḥ sthitiḥ*, “the very stream, continuing, is *sthiti*.” The contrast is between a separately posited characteristic and continuity understood through a conditioned succession. The passage does not define Yoga practice. [Kośabhāṣya, source pp. 75–77](../../../Vasubandhu/Sources/kosabhasya.txt).
+The Kośa gives *sthiti* a disputed place among the characteristics of conditioned dharmas. VAK 2.45 lists origination, aging, continuance, and impermanence. Its Bhāṣya first reports the account in which *sthiti* establishes a dharma: *sthitiḥ sthāpayati*. Later, in a counteranalysis, it explains continuance through a stream: *sa eva pravāho 'nuvartamānaḥ sthitiḥ*, “the very stream, continuing, is *sthiti*.” The contrast is between a separately posited characteristic and continuity understood through a conditioned succession. The passage does not define Yoga practice. [Kośabhāṣya, source pp. 75–77](../../../../Vasubandhu/Sources/kosabhasya.txt).
 
 ## The Yoga question: what is to be steady?
 
@@ -12,6 +12,6 @@ The Kośa comparison gives a disciplined way to ask about the continuity involve
 
 ## Effort and wholesome factors
 
-The Yoga Bhāṣya names *vīrya* while explaining *yatna*. In VAK 2.25 the Kośa lists *vīrya* among ten factors always accompanying wholesome consciousness. That is a classification of associated factors, not a definition of Yoga's *abhyāsa*. The comparison nonetheless shows that the commentator's “effort” is not exhausted by counting repeated acts: the Kośa attends to the quality of the mental condition in which vigor occurs. [Kośabhāṣya, source p. 55](../../../Vasubandhu/Sources/kosabhasya.txt).
+The Yoga Bhāṣya names *vīrya* while explaining *yatna*. In VAK 2.25 the Kośa lists *vīrya* among ten factors always accompanying wholesome consciousness. That is a classification of associated factors, not a definition of Yoga's *abhyāsa*. The comparison nonetheless shows that the commentator's “effort” is not exhausted by counting repeated acts: the Kośa attends to the quality of the mental condition in which vigor occurs. [Kośabhāṣya, source p. 55](../../../../Vasubandhu/Sources/kosabhasya.txt).
 
 I.14 will give the temporal conditions under which practice becomes firmly grounded. For I.13, the source-based result is narrower and stronger: *abhyāsa* is effort and undertaking directed toward a particular *sthiti*, and the Kośa comparison tests how continuance and vigor are understood without replacing Yoga's own definition.

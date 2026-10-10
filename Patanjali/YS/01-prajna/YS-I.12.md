@@ -34,4 +34,4 @@ I.12 returns from the five named movements to I.2's *nirodha*. The dual instrume
 
 ## 7. Interpretive Note
 
-The [companion essay](../essays/nirodha-according-to-kosa.md) compares the Kośa's discriminative cessation and cessation through missing conditions with Yoga's *nirodha*. The comparison does not equate the Kośa's two unconditioned dharmas with Yoga's restraint of the movements.
+The [companion essay](../essays/01-prajna/nirodha-according-to-kosa.md) compares the Kośa's discriminative cessation and cessation through missing conditions with Yoga's *nirodha*. The comparison does not equate the Kośa's two unconditioned dharmas with Yoga's restraint of the movements.

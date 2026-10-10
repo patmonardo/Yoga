@@ -32,4 +32,4 @@ I.7 named valid cognition; I.8 defined mistaken cognition by its false fit to an
 
 ## 7. Interpretive Note
 
-The [Kośa essay](../essays/vikalpa-according-to-kosa.md) distinguishes intrinsic, examining, and recollective *vikalpa*. That wider Kośa range makes Yoga's word-led, *vastuśūnya* case more specific. Kośa *sālambana* says cognition takes an object-support; it does not establish the corresponding being that a word proposes. In our project register, Principle and Rule determine when an image becomes a workable object-model. That reconstruction tests the word's claim to *vastu*; it is not a hidden translation of I.9.
+The [Kośa essay](../essays/01-prajna/vikalpa-according-to-kosa.md) distinguishes intrinsic, examining, and recollective *vikalpa*. That wider Kośa range makes Yoga's word-led, *vastuśūnya* case more specific. Kośa *sālambana* says cognition takes an object-support; it does not establish the corresponding being that a word proposes. In our project register, Principle and Rule determine when an image becomes a workable object-model. That reconstruction tests the word's claim to *vastu*; it is not a hidden translation of I.9.

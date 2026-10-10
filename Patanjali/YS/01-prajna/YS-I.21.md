@@ -32,4 +32,4 @@ The Bhāṣya places the statement within a graded account of practitioners' mea
 
 ## 7. Interpretive Note
 
-The [Kośa essay](../essays/samvega-and-nearness-according-to-kosa.md) finds the same expression *tīvra-saṃvega* in a path context. The terms coincide closely, though the texts calculate nearness through different path structures.
+The [Kośa essay](../essays/01-prajna/samvega-and-nearness-according-to-kosa.md) finds the same expression *tīvra-saṃvega* in a path context. The terms coincide closely, though the texts calculate nearness through different path structures.

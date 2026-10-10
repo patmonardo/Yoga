@@ -33,4 +33,4 @@ I.11 completes the fivefold list of I.6. Its definition concerns continuity acro
 
 ## 7. Interpretive Note
 
-The [Kośa essay](../essays/smrti-and-samskara-according-to-kosa.md) compares Yoga's experienced *viṣaya* with the Kośa's non-loss of an *ālambana*, then distinguishes recollection from a capacity to recollect. In our Kośa use, memory preserves a way of access that fresh cognition must still test; it is a working condition of knowing, not a proof that the earlier determination was true. I.43 and I.50 will further test purification and newly formed capacity.
+The [Kośa essay](../essays/01-prajna/smrti-and-samskara-according-to-kosa.md) compares Yoga's experienced *viṣaya* with the Kośa's non-loss of an *ālambana*, then distinguishes recollection from a capacity to recollect. In our Kośa use, memory preserves a way of access that fresh cognition must still test; it is a working condition of knowing, not a proof that the earlier determination was true. I.43 and I.50 will further test purification and newly formed capacity.

@@ -8,7 +8,7 @@
 
 ## 2. Commentary
 
-Perception, inference, and *āgama* are three ways a cognition can be warranted. The Kośa puts warrant to work in a demanding case: when someone posits a distinct real dharma called “arising,” it asks what perception, inference, or trustworthy testimony establishes **that** existence claim. A teaching's words must be read for their *artha*; the word “arising” alone does not prove another entity alongside the conditioned event. The [Kośa essay](../essays/pramana-according-to-kosa.md) follows this argument. [Kośabhāṣya, source pp. 76–77](../../../Vasubandhu/Sources/kosabhasya.txt).
+Perception, inference, and *āgama* are three ways a cognition can be warranted. The Kośa puts warrant to work in a demanding case: when someone posits a distinct real dharma called “arising,” it asks what perception, inference, or trustworthy testimony establishes **that** existence claim. A teaching's words must be read for their *artha*; the word “arising” alone does not prove another entity alongside the conditioned event. The [Kośa essay](../essays/01-prajna/pramana-according-to-kosa.md) follows this argument. [Kośabhāṣya, source pp. 76–77](../../../Vasubandhu/Sources/kosabhasya.txt).
 
 ## 3. Project Determination
 

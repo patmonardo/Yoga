@@ -10,7 +10,7 @@
 
 The five movements have been distinguished; I.12 asks how their *nirodha* comes about. Practice and dispassion are given in the instrumental dual. In the received Bhāṣya's river image, one current runs toward non-discernment, the other toward discernment. Dispassion obstructs the current toward objects; repeated discerning vision opens the other. The two means determine one task together.
 
-The Kośa distinguishes *pratisaṃkhyānirodha*, disjunction attained through discriminative *prajñā*, from *apratisaṃkhyānirodha*, non-arising when conditions are missing. These are two unconditioned dharmas in the Kośa, whereas Yoga I.12 concerns the restraint of *citta-vṛttis* by two means. The [companion essay](../essays/nirodha-according-to-kosa.md) compares the passages without identifying their terms.
+The Kośa distinguishes *pratisaṃkhyānirodha*, disjunction attained through discriminative *prajñā*, from *apratisaṃkhyānirodha*, non-arising when conditions are missing. These are two unconditioned dharmas in the Kośa, whereas Yoga I.12 concerns the restraint of *citta-vṛttis* by two means. The [companion essay](../essays/01-prajna/nirodha-according-to-kosa.md) compares the passages without identifying their terms.
 
 ## 3. Project Determination
 

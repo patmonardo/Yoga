@@ -32,4 +32,4 @@ The received Bhāṣya says the bodiless gods live by consciousness employing on
 
 ## 7. Interpretive Note
 
-The [Kośa essay](../essays/bhava-pratyaya-and-kosa-attainment.md) compares attained absorption, rebirth-result, and the danger of mistaking a refined condition for liberation. It does not identify the Yoga *videhas* with the Kośa's non-percipient beings.
+The [Kośa essay](../essays/01-prajna/bhava-pratyaya-and-kosa-attainment.md) compares attained absorption, rebirth-result, and the danger of mistaking a refined condition for liberation. It does not identify the Yoga *videhas* with the Kośa's non-percipient beings.

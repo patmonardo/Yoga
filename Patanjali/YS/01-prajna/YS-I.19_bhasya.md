@@ -10,7 +10,7 @@
 
 I.18 described the other samādhi with *saṃskāras* left over. I.19 asks how it occurs for the bodiless and those absorbed in Prakṛti. The received Yoga Bhāṣya says their state depends on a mode of existence, *bhava*. The bodiless gods pass through a result sustained by their own impressions; those absorbed in Prakṛti retain a consciousness whose work is not finished. Both experience something *like* *kaivalya*, yet that condition passes and consciousness returns. The likeness to liberation is part of the diagnosis, not its certification.
 
-The Kośa supplies a close analytic warning. Its non-percipient attainment is entered with a wish for escape, produces rebirth among non-percipient beings, and ends when the relevant dispositions run out. Its cessation attainment is described differently: it belongs to an Ārya and is gained through application. These Kośa attainments are not Yoga's *videha* or *prakṛtilaya*, but they show how cessation, rebirth, and release must be distinguished. See the [companion essay](../essays/bhava-pratyaya-and-kosa-attainment.md).
+The Kośa supplies a close analytic warning. Its non-percipient attainment is entered with a wish for escape, produces rebirth among non-percipient beings, and ends when the relevant dispositions run out. Its cessation attainment is described differently: it belongs to an Ārya and is gained through application. These Kośa attainments are not Yoga's *videha* or *prakṛtilaya*, but they show how cessation, rebirth, and release must be distinguished. See the [companion essay](../essays/01-prajna/bhava-pratyaya-and-kosa-attainment.md).
 
 ## 3. Project Determination
 

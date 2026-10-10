@@ -10,7 +10,7 @@
 
 The *saḥ* carries I.13's *abhyāsa* forward. Effort toward *sthiti* is not firmly grounded simply by being undertaken once. Duration, continuity, and earnest regard describe the manner in which it is cultivated. The received Yoga Bhāṣya specifies that such practice is not quickly overwhelmed by *vyutthāna-saṃskāra*. Its firm ground is therefore a demonstrated capacity to withstand the pull of contrary formations.
 
-The Kośa provides a sharper comparison for this durability. It defines *vīrya* as the mind's energetic engagement and distinguishes cultivation (*bhāvanā*) as a path from initial seeing. In a dispute about *prāpti*, its Bhāṣya explains abandonment through a transformed basis (*āśraya*) in which the abandoned afflictions can no longer sprout. This is a stronger claim than I.14 makes for practice and belongs to a different doctrinal argument. It helps identify the question I.14 raises: when has repeated effort changed the conditions of future arising? The [companion essay](../essays/firm-grounded-practice-according-to-kosa.md) follows the passages.
+The Kośa provides a sharper comparison for this durability. It defines *vīrya* as the mind's energetic engagement and distinguishes cultivation (*bhāvanā*) as a path from initial seeing. In a dispute about *prāpti*, its Bhāṣya explains abandonment through a transformed basis (*āśraya*) in which the abandoned afflictions can no longer sprout. This is a stronger claim than I.14 makes for practice and belongs to a different doctrinal argument. It helps identify the question I.14 raises: when has repeated effort changed the conditions of future arising? The [companion essay](../essays/01-prajna/firm-grounded-practice-according-to-kosa.md) follows the passages.
 
 ## 3. Project Determination
 

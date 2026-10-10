@@ -8,7 +8,7 @@
 
 ## 2. Commentary
 
-The fifth movement is non-loss of an experienced object. The Kośa defines *smṛti* by non-loss of *ālambana* and identifies recollective *vikalpa* with mental memory. It also uses the capacity to produce memory from prior experience as an analogy for causal continuity. These passages yield a precise operation: the object is no longer present as it was, but a formed capacity allows a later cognition to take it up again. The [Kośa essay](../essays/smrti-and-samskara-according-to-kosa.md) follows the passages and their limits. [Kośabhāṣya, source pp. 22, 54, 278–79](../../../Vasubandhu/Sources/kosabhasya.txt).
+The fifth movement is non-loss of an experienced object. The Kośa defines *smṛti* by non-loss of *ālambana* and identifies recollective *vikalpa* with mental memory. It also uses the capacity to produce memory from prior experience as an analogy for causal continuity. These passages yield a precise operation: the object is no longer present as it was, but a formed capacity allows a later cognition to take it up again. The [Kośa essay](../essays/01-prajna/smrti-and-samskara-according-to-kosa.md) follows the passages and their limits. [Kośabhāṣya, source pp. 22, 54, 278–79](../../../Vasubandhu/Sources/kosabhasya.txt).
 
 ## 3. Project Determination
 

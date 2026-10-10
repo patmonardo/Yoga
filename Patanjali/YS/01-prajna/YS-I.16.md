@@ -33,4 +33,4 @@ I.15 described mastery concerning encountered and taught objects. I.16 shifts th
 
 ## 7. Interpretive Note
 
-The [Kośa companion essay](../essays/higher-vairagya-according-to-kosa.md) compares this higher grade with Kośa accounts of subtler attachment, supramundane dispassion, discriminative cessation, and *virāgadhātu*. The Kośa has no *puruṣakhyāti* in its account, so the comparison identifies a shared problem of residual attachment without equating the paths or their ultimate objects.
+The [Kośa companion essay](../essays/01-prajna/higher-vairagya-according-to-kosa.md) compares this higher grade with Kośa accounts of subtler attachment, supramundane dispassion, discriminative cessation, and *virāgadhātu*. The Kośa has no *puruṣakhyāti* in its account, so the comparison identifies a shared problem of residual attachment without equating the paths or their ultimate objects.

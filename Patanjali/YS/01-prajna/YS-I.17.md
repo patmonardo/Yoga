@@ -35,4 +35,4 @@ The received Bhāṣya describes four increasingly spare forms: *savitarka* acco
 
 ## 7. Interpretive Note
 
-The [Kośa companion essay](../essays/samprajnata-and-kosa-dhyana.md) compares the gross/subtle distinction and the changing factors of meditative attainment. The Kośa's four *dhyānas* have their own factor lists; their number does not make them identical to the four forms set out by the Yoga Bhāṣya.
+The [Kośa companion essay](../essays/01-prajna/samprajnata-and-kosa-dhyana.md) compares the gross/subtle distinction and the changing factors of meditative attainment. The Kośa's four *dhyānas* have their own factor lists; their number does not make them identical to the four forms set out by the Yoga Bhāṣya.

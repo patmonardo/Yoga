@@ -36,4 +36,4 @@ I.12 gave practice and dispassion as two means; I.13–14 specified practice; I.
 
 ## 7. Interpretive Note
 
-The [Kośa companion essay](../essays/vairagya-and-viraga-according-to-kosa.md) examines *rāga* within refined meditative states, worldly and supramundane dispassion, and *virāgadhātu*. It also records the precise Sāṃkhya textual tension: *virāga* is a sattvic form of Buddhi in Kārikā 23, while Kārikā 45 connects *vairāgya* with *prakṛtilaya*. Neither statement is silently substituted for Yoga I.15's definition.
+The [Kośa companion essay](../essays/01-prajna/vairagya-and-viraga-according-to-kosa.md) examines *rāga* within refined meditative states, worldly and supramundane dispassion, and *virāgadhātu*. It also records the precise Sāṃkhya textual tension: *virāga* is a sattvic form of Buddhi in Kārikā 23, while Kārikā 45 connects *vairāgya* with *prakṛtilaya*. Neither statement is silently substituted for Yoga I.15's definition.

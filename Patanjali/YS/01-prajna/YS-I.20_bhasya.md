@@ -10,7 +10,7 @@
 
 The “others” are the practitioners contrasted with the *videhas* and *prakṛtilayas* of I.19. Their route depends on means. The received Bhāṣya states the order as a developing causal sequence: a clarified confidence supports energy; energy supports recollection; recollection keeps consciousness unconfused and collected; collectedness allows *prajñā-viveka*, discernment by which the object is known as it is. Practice of this discernment, together with dispassion toward its objects, leads toward *asaṃprajñāta* samādhi. There is a task for each member, and the path does not skip from confidence straight to wisdom.
 
-The Kośa names precisely these five as the faith, energy, mindfulness, concentration, and wisdom *indriyas*. It says they restrain afflictions and bring forth the path; VAK 6.68–69 counts them among the operative constituents of awakening. This is a strong lexical and structural comparison. The Yoga Bhāṣya nonetheless specifies a different sequence and goal. The [companion essay](../essays/five-powers-according-to-kosa.md) follows that shared set through the sources.
+The Kośa names precisely these five as the faith, energy, mindfulness, concentration, and wisdom *indriyas*. It says they restrain afflictions and bring forth the path; VAK 6.68–69 counts them among the operative constituents of awakening. This is a strong lexical and structural comparison. The Yoga Bhāṣya nonetheless specifies a different sequence and goal. The [companion essay](../essays/01-prajna/five-powers-according-to-kosa.md) follows that shared set through the sources.
 
 ## 3. Project Determination
 

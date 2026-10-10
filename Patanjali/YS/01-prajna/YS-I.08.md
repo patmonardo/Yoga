@@ -32,4 +32,4 @@ I.7 named ways cognition can be warranted. I.8 determines the second *vṛtti* f
 
 ## 7. Interpretive Note
 
-The [Kośa essay](../essays/viparyaya-according-to-kosa.md) follows a more specific account of *viparyāsa*: four reversals that can become organizing views and affect associated *saṃjñā* and *citta*. In our Kośa use, this asks how a wrong form gains authority over a whole cognition, rather than treating error as a bad image alone. Yoga's *viparyaya* is broader than those four cases; I.5's afflicted/unafflicted distinction still crosses the movements.
+The [Kośa essay](../essays/01-prajna/viparyaya-according-to-kosa.md) follows a more specific account of *viparyāsa*: four reversals that can become organizing views and affect associated *saṃjñā* and *citta*. In our Kośa use, this asks how a wrong form gains authority over a whole cognition, rather than treating error as a bad image alone. Yoga's *viparyaya* is broader than those four cases; I.5's afflicted/unafflicted distinction still crosses the movements.

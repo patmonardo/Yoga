@@ -35,4 +35,4 @@ The Bhāṣya calls this *asaṃprajñāta samādhi*: when all the movements of 
 
 ## 7. Interpretive Note
 
-The [Kośa companion essay](../essays/virama-and-the-two-kosa-nirodhas.md) tests I.17–18 against *pratisaṃkhyānirodha* and *apratisaṃkhyānirodha*. The comparison turns on how cessation is reached and what cannot arise; it does not treat Yoga's meditative state as one of the Kośa's unconditioned dharmas.
+The [Kośa companion essay](../essays/01-prajna/virama-and-the-two-kosa-nirodhas.md) tests I.17–18 against *pratisaṃkhyānirodha* and *apratisaṃkhyānirodha*. The comparison turns on how cessation is reached and what cannot arise; it does not treat Yoga's meditative state as one of the Kośa's unconditioned dharmas.

@@ -8,7 +8,7 @@
 
 ## 2. Commentary
 
-I.10 names a movement with *abhāva-pratyaya* as its support. Absence of the usual object is not absence of all conscious movement. The Kośa forces three discriminations: *styāna–middha* contracts and sinks; wholesome *samāpatti* gathers cognition on one *ālambana*; its special cessation attainments depend on still other conditions. These are different ways the ordinary object-field can recede. The [Kośa essay](../essays/nidra-and-absorption-according-to-kosa.md) follows those passages. Yoga calls this fourth movement *nidrā* by its own support. [Kośabhāṣya, source pp. 68–70, 432–33](../../../Vasubandhu/Sources/kosabhasya.txt).
+I.10 names a movement with *abhāva-pratyaya* as its support. Absence of the usual object is not absence of all conscious movement. The Kośa forces three discriminations: *styāna–middha* contracts and sinks; wholesome *samāpatti* gathers cognition on one *ālambana*; its special cessation attainments depend on still other conditions. These are different ways the ordinary object-field can recede. The [Kośa essay](../essays/01-prajna/nidra-and-absorption-according-to-kosa.md) follows those passages. Yoga calls this fourth movement *nidrā* by its own support. [Kośabhāṣya, source pp. 68–70, 432–33](../../../Vasubandhu/Sources/kosabhasya.txt).
 
 ## 3. Project Determination
 

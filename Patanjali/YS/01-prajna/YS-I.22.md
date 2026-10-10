@@ -35,4 +35,4 @@ The received Bhāṣya distinguishes mild-intense, middle-intense, and very-inte
 
 ## 7. Interpretive Note
 
-The [Kośa essay](../essays/degrees-of-intensity-according-to-kosa.md) compares the Kośa's recursive three-by-three grading, its graded cultivation of samādhi, and its account of faster penetration with sharper faculties. The matching scheme clarifies the logic of degree without making the two path taxonomies identical.
+The [Kośa essay](../essays/01-prajna/degrees-of-intensity-according-to-kosa.md) compares the Kośa's recursive three-by-three grading, its graded cultivation of samādhi, and its account of faster penetration with sharper faculties. The matching scheme clarifies the logic of degree without making the two path taxonomies identical.

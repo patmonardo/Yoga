@@ -10,7 +10,7 @@
 
 I.21 said that samādhi and its fruit are near for practitioners with intense *saṃvega*. The received Bhāṣya now differentiates intensity itself: mild-intense, middle-intense, and very-intense. Correspondingly, attainment is near, nearer, and nearest. The last case has a very strong means as well. Thus the path has a structure of degree within degree; “intense” is not a single undifferentiated class.
 
-The Kośa has a close methodological parallel. VAK 6.33 divides mild, middle, and intense qualities into three further grades each, yielding nine. There it classifies afflictions and their counteractive paths, not Yoga practitioners' *saṃvega*. Elsewhere its meditative cultivation proceeds from mild through middle to intense, and its path analysis associates sharp faculties with quicker penetration. These passages show why degree matters to both capacity and result. The [companion essay](../essays/degrees-of-intensity-according-to-kosa.md) keeps each Kośa context distinct.
+The Kośa has a close methodological parallel. VAK 6.33 divides mild, middle, and intense qualities into three further grades each, yielding nine. There it classifies afflictions and their counteractive paths, not Yoga practitioners' *saṃvega*. Elsewhere its meditative cultivation proceeds from mild through middle to intense, and its path analysis associates sharp faculties with quicker penetration. These passages show why degree matters to both capacity and result. The [companion essay](../essays/01-prajna/degrees-of-intensity-according-to-kosa.md) keeps each Kośa context distinct.
 
 ## 3. Project Determination
 

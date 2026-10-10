@@ -36,4 +36,4 @@ I.13 defines practice as effort toward *sthiti*; I.14 asks when that effort has 
 
 ## 7. Interpretive Note
 
-The [Kośa companion essay](../essays/firm-grounded-practice-according-to-kosa.md) compares this durability with the Kośa's analysis of *vīrya*, cultivation, and a transformed basis that no longer lets certain afflictions sprout. The Kośa passage concerns abandonment on its own path; it does not define Yoga's *dṛḍhabhūmi*.
+The [Kośa companion essay](../essays/01-prajna/firm-grounded-practice-according-to-kosa.md) compares this durability with the Kośa's analysis of *vīrya*, cultivation, and a transformed basis that no longer lets certain afflictions sprout. The Kośa passage concerns abandonment on its own path; it does not define Yoga's *dṛḍhabhūmi*.

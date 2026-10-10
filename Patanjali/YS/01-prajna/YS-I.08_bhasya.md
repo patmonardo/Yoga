@@ -8,7 +8,7 @@
 
 ## 2. Commentary
 
-I.8 is more exact than “not knowing.” Cognition takes a determinate form, but it is established in one other than the object's own. The Kośa makes the operative difference visible: its four inversions of impermanent, painful, impure, and non-self phenomena can harden into a settled *dṛṣṭi*. That view can govern associated perception (*saṃjñā*) and consciousness (*citta*). A mistaken glimpse and an organizing view therefore have different reach. The [Kośa essay](../essays/viparyaya-according-to-kosa.md) follows the disputed classification without forcing its four cases into Yoga's definition. [Kośabhāṣya, source pp. 283–84](../../../Vasubandhu/Sources/kosabhasya.txt).
+I.8 is more exact than “not knowing.” Cognition takes a determinate form, but it is established in one other than the object's own. The Kośa makes the operative difference visible: its four inversions of impermanent, painful, impure, and non-self phenomena can harden into a settled *dṛṣṭi*. That view can govern associated perception (*saṃjñā*) and consciousness (*citta*). A mistaken glimpse and an organizing view therefore have different reach. The [Kośa essay](../essays/01-prajna/viparyaya-according-to-kosa.md) follows the disputed classification without forcing its four cases into Yoga's definition. [Kośabhāṣya, source pp. 283–84](../../../Vasubandhu/Sources/kosabhasya.txt).
 
 ## 3. Project Determination
 
