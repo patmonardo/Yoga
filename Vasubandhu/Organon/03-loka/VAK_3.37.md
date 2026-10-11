@@ -1,4 +1,4 @@
-# VAK_3.37
+# VAK_3.37 — Karma and Maturation-result Thing
 
 ## 1. Sanskrit (Devanāgarī)
 

@@ -1,4 +1,4 @@
-# VAK_3.02
+# VAK_3.02 — Seventeen Stations of the Form Realm
 
 ## 1. Sanskrit (Devanāgarī)
 

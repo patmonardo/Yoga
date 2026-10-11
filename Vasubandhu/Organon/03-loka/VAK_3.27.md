@@ -1,4 +1,4 @@
-# VAK_3.27
+# VAK_3.27 — The Recursion Rule of the Members of Becoming
 
 ## 1. Sanskrit (Devanāgarī)
 

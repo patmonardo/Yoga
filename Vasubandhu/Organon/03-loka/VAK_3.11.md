@@ -1,4 +1,4 @@
-# VAK_3.11
+# VAK_3.11 — Continuity and the Failure of the Reflection Analogy
 
 ## 1. Sanskrit (Devanāgarī)
 

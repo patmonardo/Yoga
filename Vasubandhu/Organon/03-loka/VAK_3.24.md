@@ -1,4 +1,4 @@
-# VAK_3.24
+# VAK_3.24 — Becoming as Renewal-Producing Karma
 
 ## 1. Sanskrit (Devanāgarī)
 

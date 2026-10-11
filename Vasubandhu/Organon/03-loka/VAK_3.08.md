@@ -1,4 +1,4 @@
-# VAK_3.08
+# VAK_3.08 — Consciousness, Field, Inclusion, and Birth
 
 ## 1. Sanskrit (Devanāgarī)
 

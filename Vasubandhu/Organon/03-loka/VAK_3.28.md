@@ -1,4 +1,4 @@
-# VAK_3.28
+# VAK_3.28 — Causal Relation and Ignorance as an Operative Contrary
 
 ## 1. Sanskrit (Devanāgarī)
 

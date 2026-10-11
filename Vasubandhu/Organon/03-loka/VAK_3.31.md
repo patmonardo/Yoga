@@ -1,4 +1,4 @@
-# VAK_3.31
+# VAK_3.31 — Feeling-Bearing Contact
 
 ## 1. Sanskrit (Devanāgarī)
 

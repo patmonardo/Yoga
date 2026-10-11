@@ -1,4 +1,4 @@
-# VAK_3.38
+# VAK_3.38 — Rebirth-Linking and the Persistence of the World
 
 ## 1. Sanskrit (Devanāgarī)
 

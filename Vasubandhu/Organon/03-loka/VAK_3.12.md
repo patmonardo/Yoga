@@ -1,4 +1,4 @@
-# VAK_3.12
+# VAK_3.12 — Scriptural Proof and Contested Transmission
 
 ## 1. Sanskrit (Devanāgarī)
 

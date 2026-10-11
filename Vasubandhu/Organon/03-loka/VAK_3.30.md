@@ -1,4 +1,4 @@
-# VAK_3.30
+# VAK_3.30 — Name, Conjunction, and Designation-Contact
 
 ## 1. Sanskrit (Devanāgarī)
 

@@ -1,4 +1,4 @@
-# VAK_3.18
+# VAK_3.18 — Continuity Without an Inner Transmigrator
 
 ## 1. Sanskrit (Devanāgarī)
 

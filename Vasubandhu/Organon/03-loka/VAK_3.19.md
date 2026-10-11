@@ -1,4 +1,4 @@
-# VAK_3.19
+# VAK_3.19 — The Beginningless but Terminable Wheel of Becoming
 
 ## 1. Sanskrit (Devanāgarī)
 

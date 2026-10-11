@@ -1,4 +1,4 @@
-# VAK_3.26
+# VAK_3.26 — Affliction, Karma, Vastu, and Inference from the Middle
 
 ## 1. Sanskrit (Devanāgarī)
 

@@ -1,4 +1,4 @@
-# VAK_3.16
+# VAK_3.16 — Four Cognition-Profiles of Womb-Descent
 
 ## 1. Sanskrit (Devanāgarī)
 

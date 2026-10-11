@@ -1,4 +1,4 @@
-# VAK_3.03
+# VAK_3.03 — The Formless Realm Has No Station
 
 ## 1. Sanskrit (Devanāgarī)
 

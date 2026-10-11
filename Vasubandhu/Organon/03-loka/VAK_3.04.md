@@ -1,4 +1,4 @@
-# VAK_3.04
+# VAK_3.04 — Realms, Destinies, and the Designation Sattva
 
 ## 1. Sanskrit (Devanāgarī)
 

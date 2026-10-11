@@ -1,4 +1,4 @@
-# VAK_3.14
+# VAK_3.14 — The Operating Conditions of Intermediate Existence
 
 ## 1. Sanskrit (Devanāgarī)
 

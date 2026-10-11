@@ -1,4 +1,4 @@
-# VAK_3.29
+# VAK_3.29 — Why Ignorance Is Not Defective Discriminative Comprehension
 
 ## 1. Sanskrit (Devanāgarī)
 

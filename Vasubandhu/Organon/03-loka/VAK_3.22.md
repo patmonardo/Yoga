@@ -1,4 +1,4 @@
-# VAK_3.22 — Name-and-Form, Six Essences, and Contact
+# VAK_3.22 — From Name-and-Form to Contact
 
 ## 1. Sanskrit (Devanāgarī)
 

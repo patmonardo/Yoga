@@ -1,4 +1,4 @@
-# VAK_3.25
+# VAK_3.25 — Stage-Naming and the Removal of Temporal Confusion
 
 ## 1. Sanskrit (Devanāgarī)
 

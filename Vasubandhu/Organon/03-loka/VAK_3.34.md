@@ -1,4 +1,4 @@
-# VAK_3.34
+# VAK_3.34 — Ranging across Three Realms
 
 ## 1. Sanskrit (Devanāgarī)
 

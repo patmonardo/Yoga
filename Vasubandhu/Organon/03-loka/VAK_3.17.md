@@ -1,4 +1,4 @@
-# VAK_3.17
+# VAK_3.17 — The Grounds of Lucid Womb-Descent
 
 ## 1. Sanskrit (Devanāgarī)
 

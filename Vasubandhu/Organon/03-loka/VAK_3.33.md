@@ -1,4 +1,4 @@
-# VAK_3.33
+# VAK_3.33 — Mental Ranging by Realm
 
 ## 1. Sanskrit (Devanāgarī)
 

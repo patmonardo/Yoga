@@ -1,4 +1,4 @@
-# VAK_3.35
+# VAK_3.35 — Formless Ranging and Influx
 
 ## 1. Sanskrit (Devanāgarī)
 

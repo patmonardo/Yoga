@@ -1,4 +1,4 @@
-# VAK_3.13
+# VAK_3.13 — Projected Form and the Four Phases of Existence
 
 ## 1. Sanskrit (Devanāgarī)
 

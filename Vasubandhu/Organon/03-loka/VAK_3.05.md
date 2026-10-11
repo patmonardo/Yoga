@@ -1,4 +1,4 @@
-# VAK_3.05
+# VAK_3.05 — Configurations of Body and Perception
 
 ## 1. Sanskrit (Devanāgarī)
 

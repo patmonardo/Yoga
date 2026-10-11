@@ -1,4 +1,4 @@
-# VAK_3.10
+# VAK_3.10 — Intermediate Existence and Directed Transition
 
 ## 1. Sanskrit (Devanāgarī)
 

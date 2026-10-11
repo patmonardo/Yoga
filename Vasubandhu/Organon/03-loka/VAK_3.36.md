@@ -1,4 +1,4 @@
-# VAK_3.36
+# VAK_3.36 — Five Reproductive Functions of Affliction
 
 ## 1. Sanskrit (Devanāgarī)
 

@@ -1,4 +1,4 @@
-# VAK_3.23 — Feeling, Craving, and Appropriation
+# VAK_3.23 — From Feeling to Appropriation
 
 ## 1. Sanskrit (Devanāgarī)
 

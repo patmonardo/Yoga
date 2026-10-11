@@ -1,4 +1,4 @@
-# VAK_3.09
+# VAK_3.09 — Birth-Modes Across the Destinies
 
 ## 1. Sanskrit (Devanāgarī)
 

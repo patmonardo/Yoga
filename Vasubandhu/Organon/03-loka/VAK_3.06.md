@@ -1,4 +1,4 @@
-# VAK_3.06
+# VAK_3.06 — Stations of Consciousness and Sentient Abodes
 
 ## 1. Sanskrit (Devanāgarī)
 

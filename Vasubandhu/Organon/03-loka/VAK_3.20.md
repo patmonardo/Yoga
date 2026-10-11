@@ -1,4 +1,4 @@
-# VAK_3.20 — Samutpāda in Three Sections
+# VAK_3.20 — Samutpāda Across Three Births
 
 ## 1. Sanskrit (Devanāgarī)
 

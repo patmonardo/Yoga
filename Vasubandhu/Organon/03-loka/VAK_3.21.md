@@ -1,4 +1,4 @@
-# VAK_3.21 — From Former State to Junction
+# VAK_3.21 — Four State-Designations of the Continuum
 
 ## 1. Sanskrit (Devanāgarī)
 

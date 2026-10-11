@@ -1,4 +1,4 @@
-# VAK_3.32
+# VAK_3.32 — Feeling and Mental Ranging
 
 ## 1. Sanskrit (Devanāgarī)
 

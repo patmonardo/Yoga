@@ -1,4 +1,4 @@
-# VAK_3.07
+# VAK_3.07 — Unwilling Residence and the Four Supports
 
 ## 1. Sanskrit (Devanāgarī)
 

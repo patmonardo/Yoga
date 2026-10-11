@@ -1,4 +1,4 @@
-# VAK_3.15
+# VAK_3.15 — Inverted Cognition at the Place of Rebirth
 
 ## 1. Sanskrit (Devanāgarī)
 
