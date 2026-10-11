@@ -1,12 +1,12 @@
-# VAK_3.03 Bhāṣya — The Formless Domain Has No Station
+# VAK_3.03 Bhāṣya — The Formless Realm Has No Station
 
 ## 1. Kārikā Anchor
 
 > ārūpyadhātur asthānaḥ upapattyā caturvidhaḥ /
 > nikāyaṃ jīvitaṃ cātra niśritā cittasantatiḥ // 3.03 //
 
-> The formless-domain has no spatial station, yet it is fourfold according to
-> rebirth. In this domain, the continuity of consciousness is said to depend
+> The Formless Realm has no spatial station, yet it is fourfold according to
+> rebirth. In this Realm, the continuity of consciousness is said to depend
 > upon the common class-character and the life-faculty.
 
 “Spatial” and the expanded terms “common class-character” and “life-faculty”
@@ -67,11 +67,11 @@ e-text, not readings established by manuscript collation.
 
 ## 3. Continuous Conventional Translation
 
-The formless-domain has no station. For formless dharmas have no spatial
+The Formless Realm has no station. For formless dharmas have no spatial
 station. It is the rule that past and future dharmas, avijñapti, and formless
 dharmas are not spatially situated.
 
-Nevertheless, it is fourfold according to rebirth. The formless-domain is
+Nevertheless, it is fourfold according to rebirth. The Formless Realm is
 fourfold through differentiation of rebirth: namely, the Essence of the
 infinitude of space, the Essence of the infinitude of consciousness,
 the Essence of nothingness, and the Essence of neither perception nor
@@ -82,7 +82,7 @@ from that existence, their intermediate existence arises in that same place.
 
 Just as the continuity of consciousness among beings possessing form proceeds
 in dependence upon form, upon what does it proceed among beings in the
-formless-domain?
+Formless Realm?
 
 “Here the continuity of consciousness depends upon class and life.” The
 Ābhidhārmikas explain this as dependence upon the common class-character and
@@ -90,7 +90,7 @@ the life-faculty.
 
 If so, why does the continuity of consciousness among beings possessing form
 not proceed in dependence upon those same two? Because of weakness. What
-makes that continuity strong in the formless-domain? Its arising from a
+makes that continuity strong in the Formless Realm? Its arising from a
 distinctive attainment. For that attainment has removed the representation
 of form. If the continuity is strong for precisely that reason, however,
 it should proceed by that strength itself; what need is there of a further
@@ -101,7 +101,7 @@ the life-faculty among beings possessing form proceed in dependence upon form,
 upon what do they proceed among formless beings? The same two support one
 another. Then why do those same two not support one another among beings
 possessing form? Because they are weak there. What, then, makes them strong in
-the formless-domain? Their arising from a distinctive attainment. But this
+the Formless Realm? Their arising from a distinctive attainment. But this
 applies equally to the continuity of consciousness, or to consciousness and
 the mental factors themselves.
 
@@ -137,7 +137,7 @@ the speaker of every intervening question and reply.
 
 ## 5. Non-stationed Yet Fourfold by Rebirth
 
-`Asthāna` is not merely a statement that the formless-domain is subtle or
+`Asthāna` is not merely a statement that the Formless Realm is subtle or
 distant. The prose gives it a precise scope: formless dharmas are
 `adeśastha`, not situated in a spatial place. It places them in this respect
 with past dharmas, future dharmas, and avijñapti.
@@ -155,8 +155,8 @@ Fourfoldness nevertheless remains. Its differentiating principle is not
 The Bhāṣya expressly denies that their higher and lower order is produced by
 spatial location. Its remarks about death, rebirth, and intermediate existence
 do not covertly restore four formless places. They explain why a being's
-formless rebirth and subsequent intermediate existence arise in the place
-where the relevant transition occurs, although the formless dharmas
+rebirth in the Formless Realm and subsequent intermediate existence arise in
+the place where the relevant transition occurs, although the formless dharmas
 themselves are not spatially stationed there.
 
 ## 6. The Ābhidhārmika Support-Model
@@ -179,7 +179,7 @@ Neither term should be converted into an enduring self or an immaterial
 substance. They are conditioned dharmas proposed as supports within this
 doctrinal account. In the first exchange, the feminine `tasyāḥ` resumes
 `cittasantati`: the question is what makes that continuity strong in the
-formless-domain. The reply cites its arising from a distinctive attainment
+Formless Realm. The reply cites its arising from a distinctive attainment
 that has cleared away the representation of form.
 
 That reply does not settle the matter. If the continuity is strong from
@@ -193,13 +193,13 @@ supports them without form, the Ābhidhārmika reply makes the two support one
 another. This produces a symmetry problem:
 
 ```text
-if mutual support suffices in the formless-domain,
+if mutual support suffices in the Formless Realm,
 why does it not suffice among beings possessing form?
 ```
 
 In this second exchange, `tayoḥ` explicitly refers to the two proposed
 supports: they are said to be weak among beings with form and strong in the
-formless-domain because of a distinctive attainment. The critic replies
+Formless Realm because of a distinctive attainment. The critic replies
 that this same explanation can equally be applied to the continuity of
 consciousness—or to consciousness and its mental factors.
 
@@ -227,6 +227,10 @@ The Bhāṣya determines `asthāna` as absence of spatial station. It does not
 deny order, causality, rebirth, or continuity. Hence “without station” must not
 be paraphrased as unconditioned, omnipresent, or absolute.
 
+Here *ārūpyadhātu* is conventionally rendered **Formless Realm**. The general
+Organon mapping of *dhātu* remains **Principle**; the compound-specific Realm
+rendering does not replace it.
+
 `Upapattyā caturvidhaḥ` is resolved as fourfold through differences of
 rebirth. The four attainments supply the names of those rebirths, while the
 prose blocks their interpretation as four vertically arranged places.
@@ -249,20 +253,20 @@ The opening sequence of Lokanirdeśa has now successively loosened the equation
 of world with place:
 
 ```text
-VAK 3.01 — desire-domain
+VAK 3.01 — Desire Realm
     sentient orders, locations, and supporting receptacle-world
 
-VAK 3.02 — form-domain
+VAK 3.02 — Form Realm
     stations articulated through dhyāna-levels
 
-VAK 3.03 — formless-domain
+VAK 3.03 — Formless Realm
     spatial station negated
     differentiation retained through rebirth
     continuity retained through causal genesis
 ```
 
 The strong result is that `loka` survives the negation of location. A world in
-the Kośa sense is not fundamentally a physical container. The formless-domain
+the Kośa sense is not fundamentally a physical container. The Formless Realm
 remains within conditioned existence because it still has rebirth,
 consciousness-continuity, and a cause determining the mode of its arising.
 
@@ -288,11 +292,11 @@ compared.
 
 The natural unit includes the full objection to mutual support and the
 explicit Sautrāntika alternative. It ends before the question asking why the
-three are called desire-, form-, and formless-domains, which opens VAK 3.04.
+three are called the Desire, Form, and Formless Realms, which opens VAK 3.04.
 The normalization of the fourth formless sphere's name is disclosed above;
 no critical edition is claimed.
 
-The research witnesses, running source, existing Kārikā study, and preceding
-Bhāṣya Studies remain unchanged. This study remains provisional pending
-critical rereading. The next sequential unit is VAK 3.04; it has not been
-undertaken here.
+The research witnesses, running source, and existing Kārikā study remain
+unchanged. The preceding Bhāṣya Studies use the reviewed Realm terminology.
+This study remains provisional pending critical rereading. The next sequential
+unit is VAK 3.04; it has not been undertaken here.

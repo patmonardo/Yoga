@@ -183,7 +183,7 @@ attain parinirvāṇa after reaching the domain, after reaching a perception, or
 after reaching a thought; hence three kinds are obtained.
 
 Alternatively, the first attains parinirvāṇa after acquiring the common class-
-character in the form-domain; the second after also experiencing divine
+character in the Form Realm; the second after also experiencing divine
 prosperity; and the third after entering the devas' recitation of Dharma. One
 who attains parinirvāṇa upon rebirth enters a still more excellent recitation,
 or, in most cases, attains it immediately upon rebirth after shortening the
@@ -192,7 +192,7 @@ lifespan.
 None of these explanations corresponds to the similes of the spark and heated
 iron, because they lack the relevant distinctions of place and course. On
 these accounts an intermediate attainer should also be taught in the
-formless-domain, since one could attain parinirvāṇa at an interval in the
+Formless Realm, since one could attain parinirvāṇa at an interval in the
 lifespan there; but none is taught. The cited verse enumerating lifespan
 classes does not do so. Therefore these explanations too are mere invention.
 
@@ -253,7 +253,7 @@ gandharva present at conception
 five non-returners and seven courses
     opponent invents alternate meanings of “intermediate”
 
-alternate meanings tested against similes and the formless-domain
+alternate meanings tested against similes and the Formless Realm
 
 apparent countertexts
     Dūṣī Māra and Avīci

@@ -210,7 +210,7 @@ growth and faculty-maturation
     → another world, as before
 ```
 
-An old karma does not propel the wheel indefinitely by itself. Each embodied
+Old karma does not propel the wheel indefinitely in isolation. Each embodied
 life becomes a field in which the causes of another birth are renewed. The
 faculties are therefore not only mature capacities; under affliction they are
 also conditions through which the continuum reproduces its causal future.
@@ -286,9 +286,9 @@ kleśa + karma-upacaya
 ```
 
 The source does not call these stages an Oculus, and its embryology should not
-be treated as contemporary science. What it does demonstrate is that a
-configuration can reproduce itself without an invariant substance: the
-resulting embodied field becomes a new cause-bearing field.
+be treated as contemporary science. What it does demonstrate is that a configuration can produce a successor
+without an invariant substance: the resulting embodied field becomes a new
+cause-bearing field.
 
 The most important practical determination is that recurrence is conditional.
 The wheel is ancient beyond any discoverable first beginning, but it is not

@@ -144,7 +144,7 @@ becomes a deva intermediate being or some other kind. In whatever destiny it
 has arisen oriented toward, it must be reborn in that very destiny and not
 another.
 
-Does a desire-domain intermediate being consume morsel-food? Yes, but not
+Does a Desire Realm intermediate being consume morsel-food? Yes, but not
 gross food. What, then? “It feeds upon scent.” For this reason it is called a
 gandharva. Verbal roots have many meanings, and the shortened form is explained
 by analogy with similar words. One of little status consumes foul scent; one
@@ -277,7 +277,7 @@ destinations.
 
 ## 7. Nutriment and the Disputed Duration
 
-For a desire-domain intermediate being, scent supplies the subtle form of
+For a Desire Realm intermediate being, scent supplies the subtle form of
 morsel-food. The Bhāṣya connects `gandhabhuk`, scent-eater, with the name
 `gandharva` and distinguishes foul from fragrant scent according to status.
 This is its technical nutriment account, not an exhaustive history of the
@@ -323,7 +323,7 @@ embodiment of the sort denied in VAK 3.13.
 
 `Anivartya` is fixed to the projected destiny, not simply unable to reverse
 physical direction. `Gandhabhuk` is scent-eating and applies to the subtle
-nutriment of a desire-domain intermediate being.
+nutriment of a Desire Realm intermediate being.
 
 The lengthy duration debate is Bhāṣya-only. Since it preserves several views,
 no single number should be silently inserted into the Kārikā translation.

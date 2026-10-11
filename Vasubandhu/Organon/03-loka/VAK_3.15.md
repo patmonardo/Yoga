@@ -237,10 +237,11 @@ projected destination
     → action completes transition
 ```
 
-The representation is false as disclosure of the destination yet effective
-as transition-control. `Jagan mithyā` now receives an exact local contact:
-appearance is neither ultimate truth nor causal nothing. It can govern the
-Agent's passage through the World System.
+The Bhāṣya's claim is local: the intermediate being mistakes its own
+karmically determined destination for relief or another attractive
+presentation. This identifies an inversion in this transition; it does not
+establish that the Realms themselves are merely appearances or that
+perceptions of other Realms are false.
 
 Rudra's higher comprehension does not belong to the primary doctrine here.
 Within the Kārikā, the painful wonder is sufficient: destiny is fixed,

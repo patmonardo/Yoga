@@ -128,7 +128,8 @@ configuration through which a world is embodied and recognized.
 | nānā / nānātva | diverse / diversity | differentiated feature-value of either body or perception |
 | eka / ekatva | one / unity | common or non-different feature-value of either body or perception |
 | viparyaya | reversal | instruction to invert the preceding feature combinations; no developed doctrine of epistemic error is asserted here |
-| ārūpin | formless one | a class belonging to the formless-domain |
+| dhātu | Principle generally; Domain in generic classification; Realm in the named Realm compounds | *ārūpyadhātu* is the Formless Realm |
+| ārūpin | formless one | a class belonging to the Formless Realm |
 | vijñānasthiti | station of differentiated cognition | Bhāṣya and VAK 3.06 name for the completed sevenfold classification |
 | abhinirvṛtta | newly arisen / produced | Bhāṣya term distinguishing newly arisen from long-established members of a class |
 | saṃvartanīkuśala | knowledgeable about contraction | Bhāṣya term explaining one perceptual response to a cosmic event |

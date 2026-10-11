@@ -1,4 +1,4 @@
-# VAK_3.01 Bhāṣya — The Twenty Locations of the Desire-Domain
+# VAK_3.01 Bhāṣya — The Twenty Locations of the Desire Realm
 
 ## 1. Kārikā Anchor
 
@@ -6,13 +6,13 @@
 > kāmadhātuḥ sa narakadvīpabhedena viṃśatiḥ // 3.01 //
 
 > Hell-beings, pretas, animals, humans, and the six classes of
-> heaven-dwellers constitute the desire-domain. Through the differentiation
+> heaven-dwellers constitute the Desire Realm. Through the differentiation
 > of its hells and continents, it comprises twenty locations.
 
 The Bhāṣya supplies `sthānāni`, “locations,” as the understood noun with
 `viṃśatiḥ`. The first half of the verse names modes of sentient existence;
 the second gives a count of locations. These are related determinations of the
-desire-domain, but they are not identical classifications.
+Desire Realm, but they are not identical classifications.
 
 ## 2. Continuous Sanskrit
 
@@ -40,7 +40,7 @@ desire-domain, but they are not identical classifications.
 
 This unit runs from printed 111.03 through 111.15 in
 `Vasubandhu/Sources/kosabhasya.txt`. The next words, `etasmāc ca
-kāmadhātoḥ`, open the determination of the form-domain accompanying VAK 3.02.
+kāmadhātoḥ`, open the determination of the Form Realm accompanying VAK 3.02.
 
 Word division and punctuation are editorial. The running e-text transmits
 `strāyastriṃśā`; the expected standard name is `trāyastriṃśā`. The transmitted
@@ -52,15 +52,15 @@ source; it had been omitted in the earlier continuous transcription.
 ## 3. Continuous Conventional Translation
 
 This must now be explained. Citta and the other dharmas have been analyzed
-according to their restriction to the desire-, form-, and formless-domains.
-What, then, are these desire-, form-, and formless-domains? It is said:
+according to their restriction to the Desire, Form, and Formless Realms.
+What, then, are these Realms? It is said:
 
 “Hell-beings, pretas, animals, humans, and the six heaven-dwellers: the
-desire-domain.”
+Desire Realm.”
 
 There are four destinies and six classes of devas, namely the
 Cāturmahārājakāyikas, Trāyastriṃśas, Yāmas, Tuṣitas, Nirmāṇaratis, and
-Paranirmitavaśavartins. This is the desire-domain together with its
+Paranirmitavaśavartins. This is the Desire Realm together with its
 container-world.
 
 How many locations does it contain? He says: “Through the differentiation of
@@ -72,33 +72,33 @@ Mahāraurava, Tapana, Pratāpana, and Avīci. There are four continents:
 Jambūdvīpa, Pūrvavideha, Avaragodānīya, and Uttarakuru. The six classes of
 devas just mentioned, the animals, and the pretas make twenty locations.
 
-The desire-domain extends from the Paranirmitavaśavartins down to Avīci. When
+The Desire Realm extends from the Paranirmitavaśavartins down to Avīci. When
 the container-world is included, it extends as far down as the wind-circle.
 
 “Restriction” renders `naiyamya`: the earlier analyses assigned citta and
-other dharmas a determinate belonging to one or more domains. “Container-world”
+other dharmas a determinate belonging to one or more Realms. “Container-world”
 renders `bhājanaloka`; **Cosmic Frame** is reserved for the later Organon study
 and is not inserted into the conventional translation.
 
 The “four destinies” here are the four nondeva groups named before the six
 deva classes. The later five-destiny formulation in 3.04 includes the deva
-destiny, of which these six classes are the desire-domain portion.
+destiny, of which these six classes are the Desire Realm portion.
 
 ## 4. Movement and Voice of the Commentary
 
 The opening does not begin an independent cosmological survey. It returns to a
 classification already used in Indriyanirdeśa: citta and other dharmas were
-determined according to their restriction to the three domains. That analysis
-presupposed the domains without yet making them its principal object.
+determined according to their restriction to the three Realms. That analysis
+presupposed the Realms without yet making them its principal object.
 
 The movement of this unit is compact:
 
 ```text
-classification of dharmas by the three domains
+classification of dharmas by the three Realms
     ↓
-question: what are those domains?
+question: what are those Realms?
     ↓
-sentient articulation of the desire-domain
+sentient articulation of the Desire Realm
     ↓
 inclusion of the container-world
     ↓
@@ -112,25 +112,25 @@ or disputed doctrinal position is introduced. The phrase `ity ucyate`
 introduces the Kārikā, and `ity āha` introduces its answer to the prose
 question about the number of locations.
 
-## 5. From Classification by Domain to Determination of Domain
+## 5. From Classification by Realm to Determination of Realm
 
 The retrospective sentence is the hinge:
 
 > kāmarūpārūpyanaiyamyena cittādīnāṃ kṛto nirdeśaḥ
 
 Citta and the other dharmas have already been analyzed through determinate
-belonging to the desire-, form-, and formless-domains. Lokanirdeśa now makes
+belonging to the Desire, Form, and Formless Realms. Lokanirdeśa now makes
 the previously operative classifier itself explicit:
 
 ```text
-dharmas classified by domain
+dharmas classified by Realm
     ↓ reflection upon the presupposed classifier
-domain made an object of determination
+Realm made an object of determination
 ```
 
 This is why the chapter can begin with an enumeration without treating world
 as an unexplained object. The enumeration answers a question generated by the
-preceding analysis. The desire-domain is first approached through the modes of
+preceding analysis. The Desire Realm is first approached through the modes of
 sentient existence that belong to it.
 
 The prose calls hell-beings, pretas, animals, and humans `catasro gatayaḥ`,
@@ -142,13 +142,13 @@ domains. Both expressions are Bhāṣya determinations; neither `gati` nor
 
 ## 6. Sentient Existence and the Container-World
 
-The clause `eṣa kāmadhātuḥ saha bhājanalokena` prevents the domain from being
+The clause `eṣa kāmadhātuḥ saha bhājanalokena` prevents the Realm from being
 reduced to a class of beings. The account contains two non-interchangeable
 orders:
 
 ```text
 sentient order
-    four nondeva destinies + six desire-domain deva classes
+    four nondeva destinies + six Desire Realm deva classes
 
 supporting order
     bhājanaloka, the container-world
@@ -156,13 +156,13 @@ supporting order
 
 `Saha`, “together with,” joins these orders without identifying them. Beings
 do not constitute the supporting world merely by being counted, and the
-container-world is not itself another sentient destiny. The desire-domain
-includes both the beings and the world-support within which their locations
-and extent are determined.
+container-world is not itself another sentient destiny. The Desire Realm is
+joined with the supporting world to give the complete account of inhabited
+world and extent.
 
 The passage does not yet explain the constitution of `bhājanaloka`; later
 verses undertake that analysis. Here the term performs a precise corrective
-function: an inhabited domain cannot be exhaustively specified through its
+function: an inhabited Realm cannot be exhaustively specified through its
 inhabitants alone.
 
 ## 7. Twenty Locations and Two Lower Limits
@@ -174,7 +174,7 @@ The Bhāṣya asks `kati sthānāni`, “how many locations?” and then states 
 |---|---:|
 | great hells | 8 |
 | continents | 4 |
-| desire-domain deva classes | 6 |
+| Desire Realm deva classes | 6 |
 | animals, counted as one station | 1 |
 | pretas, counted as one station | 1 |
 | **Total** | **20** |
@@ -190,17 +190,17 @@ closing count of stations answer different questions.
 The final sentence then distinguishes two extents:
 
 ```text
-desire-domain by sentient range
+Desire Realm by sentient range
     Paranirmitavaśavartin → Avīci
 
-desire-domain including the container-world
+Desire Realm including the container-world
     Paranirmitavaśavartin → vāyumaṇḍala
 ```
 
 The different lower limits do not describe two competing cosmologies. Avīci
 is the lower limit of the sentient articulation named here; the wind-circle is
 the lower limit when the supporting container is taken into account. The
-Bhāṣya thus closes the unit by showing that the domain's extent depends upon
+Bhāṣya thus closes the unit by showing that the Realm's extent depends upon
 which constitutive order is included.
 
 ## 8. The Bhāṣya's Decisions for the Kārikā
@@ -218,10 +218,10 @@ twenty locations
 Kārikā names humans in the sentient enumeration, but the four continents carry
 the human contribution to the location-count.
 
-`Dhātu` is rendered “domain.” In this unit the prose warrants that choice by
-giving the desire-domain sentient modes, classes, locations, a supporting
-world, and ordered limits. “Element” would obscure the structured range being
-determined.
+`Dhātu` is rendered “Realm” here, following the local conventional sense of
+*kāmadhātu*. In the Organon mapping, *dhātu* remains **Principle**; these are
+distinct layers. The prose determines this Desire Realm through sentient
+modes, classes, locations, a supporting world, and ordered limits.
 
 `Naraka` shifts with the level of analysis: the opening enumeration permits
 “hell-being” or “hell-destiny,” while the count concerns eight great hells as
@@ -232,20 +232,23 @@ explication; they are not silently inserted into the verse.
 ## 9. Philosophical and Organon Study
 
 The strongest philosophical result is the reflective structure of the chapter
-opening. A domain first functioned as the ground of classification; it must
+opening. A Realm first functioned as the ground of classification; it must
 now be determined as a structured field. The Bhāṣya carries out that
 determination through inhabitants, locations, support, and limits.
 
-For the Organon reconstruction, **World System** names the articulated whole,
+For the Organon reconstruction, **World System** names the joined world-account,
 while **Cosmic Frame** names the supporting order disclosed by
-`bhājanaloka`:
+`bhājanaloka`. The Desire Realm, the supporting world, and the joined
+world-account remain distinct:
 
 ```text
-World System
-    sentient modes
-    determinate locations
-    Cosmic Frame
-    ordered limits
+Desire Realm
+    sentient modes and their locations
+    sentient range: Paranirmitavaśavartin → Avīci
+
+joined world-account
+    Desire Realm + supporting world (bhājanaloka)
+    complete lower extent: vāyumaṇḍala
 ```
 
 These capitalized terms belong only to the Organon register. They do not
@@ -259,23 +262,23 @@ sentient plurality without world-support
 world-support without sentient plurality
     = an abstract container
 
-desire-domain
-    = their articulated unity within ordered limits
+Desire Realm
+    = the Realm determination of the account
 ```
 
-The relation is reciprocal: beings determine the domain as inhabited, while
-the domain determines beings as placed. The present unit determines this
-world; it does not yet explain its genesis. The later claim that world-variety
-is karma-born must not be imported into VAK 3.01 as though `karma` occurred in
-its wording.
+The relation is reciprocal: beings determine the Realm as inhabited, while
+the Realm determines beings as placed. The present unit determines this
+world-account; it does not yet explain its genesis. The later claim that
+world-variety is karma-born must not be imported into VAK 3.01 as though
+`karma` occurred in its wording.
 
 This opening also gives a disciplined model of analysis. A distinction used
 to classify material is returned to and made explicit in its own right:
 
 ```text
-use(domain)
-    → reflect upon domain
-    → articulate domain
+use(Realm)
+    → reflect upon Realm
+    → articulate Realm
 ```
 
 That light Organon contact follows the Bhāṣya's actual explanatory movement.
@@ -290,10 +293,10 @@ and Chapter 2 Bhāṣya forms, and the running Sanskrit at 111.03–111.15 have 
 compared.
 
 The natural unit ends before `etasmāc ca kāmadhātoḥ`, which opens the
-form-domain determination accompanying VAK 3.02. The transmitted
+Form Realm determination accompanying VAK 3.02. The transmitted
 `strāyastriṃśā` remains visible and is identified as a source caution; no
-critical reconstruction is claimed. The research witnesses, running source,
-and existing Kārikā study remain unchanged.
+critical reconstruction is claimed. The research witnesses and running source
+remain unchanged.
 
 The study remains provisional pending critical rereading. The next sequential
 unit is VAK 3.02; it has not been undertaken here.

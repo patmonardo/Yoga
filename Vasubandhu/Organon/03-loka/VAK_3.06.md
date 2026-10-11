@@ -116,7 +116,7 @@ conditions under which cognition can stand, weaken, or be interrupted.
 | paribheda | disruption / breaking-apart | condition that injures, interrupts, or destabilizes differentiated cognition |
 | vijñānaparibheda | disruption of differentiated cognition | Bhāṣya compound explaining the exclusion criterion |
 | bhavāgra | peak of existence | summit of conditioned becoming; cognition is subtle or weakly operative there, not simply absent |
-| asaṃjñi-sattva | `saṃjñā`-suspended being | separate form-domain class included among being-abodes but excluded from cognition-stations; the name alone does not license a global judgment about consciousness |
+| asaṃjñi-sattva | `saṃjñā`-suspended being | separate Form Realm class included among being-abodes but excluded from cognition-stations; the name alone does not license a global judgment about consciousness |
 | sattvāvāsa | abode of beings | mode in which beings dwell; broader than cognition-station |
 | cittasantaticcheda | cutting of consciousness-continuity | Bhāṣya explanation of disruption at the peak of existence |
 | gantukāmatā | desire to go | first half of an alternative functional criterion for cognition-station |

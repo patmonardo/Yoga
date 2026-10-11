@@ -103,7 +103,7 @@ termination through cause-exhaustion are Bhāṣya determinations.
 
 ## 6. Philosophical Translation
 
-> The World System reproduces itself recursively. A projected continuity
+> The conditioned World process proceeds recursively. A projected continuity
 > develops into embodiment; mature embodiment becomes a field for renewed
 > affliction and action; these conditions project another embodiment. No first
 > cycle can be admitted without abandoning causal determination, yet no cycle
@@ -117,7 +117,7 @@ termination through cause-exhaustion are Bhāṣya determinations.
 |---|---|---|
 | yathākṣepam | according to projection | development follows the karmic projection established in the preceding verses |
 | krama | ordered sequence | gradual developmental order rather than instantaneous completed embodiment |
-| santāna | continuum / serial continuity | subject that develops, matures, accumulates conditions, and proceeds again |
+| santāna | continuum / serial continuity | causally ordered series of developing phases |
 | vṛddha | developed / grown | maturation through embryonic and embodied stages |
 | kleśa | affliction | becomes active again as faculties mature and helps reproduce the wheel |
 | karma | karmic action | accumulates anew during embodied life and conditions further birth |
@@ -179,7 +179,7 @@ previous kleśa + karma
     → another world
 ```
 
-An earlier action does not propel the series forever by itself. Each matured
+An earlier action does not propel the series forever in isolation. Each matured
 life becomes the field in which the conditions of another life are produced.
 
 ### Why no first beginning?
@@ -254,62 +254,40 @@ those conditions
     project another hidden transition
 ```
 
-This is Transcendental Technē as project architecture: a complete recursive
-specification of conditioned re-worlding. Yet the very completeness of the
-mechanism exposes its limit. Nothing in the wheel possesses necessity in
-itself; every phase depends upon conditions and vanishes into its successor.
-
-Here Hegel enters more powerfully than `skandhamātra`. The series cannot be
-promoted into a stable replacement for what 3.18 rejected:
+The recursive structure is:
 
 ```text
-each skandha-determination
-    arises by conditions
-    persists as transition
-    vanishes into the next determination
-
-santāna
-    is the comprehension of ordered vanishing
-    not an independently standing permanence
+karma and affliction
+    → projected rebirth
+    → embryonic and embodied development
+    → maturation of faculties
+    → renewed affliction and karma
+    → death and intermediate existence
+    → another birth
 ```
 
-The NonBeing of Abhidharma is disclosed from within its own success. Its
-determinations are exact, causally effective, and immediately passing away.
-Persistence falls into Dharma—the law of transformation through which each
-moment is already surrendering itself.
+`Santāna` names the causal continuity among these phases, not an owner behind
+them. No ātman carries the process: each phase depends on conditions and
+contributes conditions to what follows.
+
+The two temporal claims are distinct:
 
 ```text
-Being of the conditioned determination
-    = its passage into NonBeing
+anādi
+    no first conditioned birth
 
-continuity
-    = this vanishing comprehended as ordered Becoming
+hetu-kṣaya
+    causes can be exhausted
+    → no further birth
 ```
 
-That does not refute the Kośa. It comprehends why its World System cannot be
-ultimate. `Jagan mithyā`: the wheel is effective as appearance, terrible in
-its consequences, and incapable of grounding itself as the One True Thing.
+Beginninglessness therefore establishes neither an eternal world nor an
+eternal bearer. Termination occurs through exhaustion of the conditions that
+sustain recurrence, not through the escape of a permanent self.
 
-The possibility of `hetu-kṣaya` is therefore philosophically decisive. The
-World System admits that its own operation can cease. Its beginninglessness
-does not confer eternity; its causal structure contains the opening through
-which the Path terminates recurrence.
-
-```text
-causal recursion
-    explains the persistence of World
-
-exhaustion of causes
-    reveals the non-necessity of World
-
-comprehension of that non-necessity
-    opens beyond the World System
-```
-
-The Kārikā itself names only the beginningless wheel. The argument for its
-possible end and the embryological recursion are Bhāṣya determinations; the
-Hegelian NonBeing and Vedāntic sublation are our declared philosophical
-reconstruction.
+The Kārikā names the beginningless wheel; the Bhāṣya supplies the
+embryological sequence and the argument for termination through
+cause-exhaustion. This note stays with those source-grounded determinations.
 
 ## 10. OWL++ Seed
 

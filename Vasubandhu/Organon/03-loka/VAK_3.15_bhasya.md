@@ -101,7 +101,7 @@ for the father. Aversion arises toward the other parent. Thus it is stated in
 the *Prajñapti*: “At that time one or the other of two mental states becomes
 present in the gandharva, accompanied either by attraction or by aversion.”
 Distorted by these two, and wishing to enjoy, it embraces that place and
-imagines that condition in itself. Having reached that impure place of the
+takes that condition to be its own. Having reached that impure place of the
 womb, it becomes delighted and settles there. Its aggregates then become
 dense and the aggregates of intermediate existence disappear; in this way it
 has been reborn.
@@ -251,6 +251,8 @@ inverted understanding.
 The prose fixes the verse's compressed terms:
 
 - `gatideśa` is the being's own already projected place of rebirth.
+- `ātmany adhimucyate` is reflexive: the being takes the condition to be its
+  own; it does not posit a metaphysical ātman.
 - `viparyastamati` denotes cognition under which attraction and aversion
   mispresent the transition, most explicitly when hell appears as relief.
 - `riraṃsayā` is the longing that carries the being into womb-birth; it does

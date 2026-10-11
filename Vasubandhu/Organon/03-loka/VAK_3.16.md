@@ -250,10 +250,10 @@ Agent report
     “I enter / remain in / leave this environment”
 ```
 
-`Jagan mithyā` again gains a concrete local determination. Forest, hut,
-garden, and palace are neither accurate disclosures of the operative process
-nor causally idle fantasies. They are the appearance-world through which the
-Agent undergoes a real transition.
+The Bhāṣya identifies forest, hut, garden, and palace as inverted
+presentations within this particular womb-transition. That local claim
+concerns how this process is perceived; it does not make the Realms unreal or
+settle the status of experience in other lokas.
 
 But clear awareness is possible inside the World System. The first three
 profiles show progressively sustained freedom from inversion through entry,

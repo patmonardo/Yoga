@@ -111,7 +111,7 @@ has not been altered.
 
 ## 3. Continuous Conventional Translation
 
-Within these same three domains and five destinies, the following should be
+Within these same three Realms and five destinies, the following should be
 understood in order: those with diverse bodies and diverse perceptions; those
 with diverse bodies and one perception; by reversal, those with one body and
 diverse or one perception; and the three formless classes. These are the seven
@@ -120,7 +120,7 @@ stations of consciousness.
 The sūtra says: “There are form-possessing beings with diverse bodies and
 diverse perceptions, such as humans and certain devas. This is the first
 station of consciousness.” Which are those certain devas? Those of
-the desire-domain and those belonging to the level of the first dhyāna, apart
+the Desire Realm and those belonging to the level of the first dhyāna, apart
 from the beings first arisen there.
 
 They have diverse bodies because their bodies differ, having many colors,

@@ -39,7 +39,7 @@ aṇḍaja-ādayaḥ        → aṇḍajādayaḥ
 | saṃgrahe | locative singular of `saṃgraha` | when inclusion or containment is examined |
 | catasraḥ | nominative feminine plural numeral | four, agreeing with `yonayaḥ` |
 | yonayaḥ | nominative feminine plural | modes or sources of birth |
-| tatra | locative adverb | there, within the three-domain World System |
+| tatra | locative adverb | there, within the three-Realm World System |
 | sattvānām | genitive plural | of beings / sentient continuities |
 | aṇḍajādayaḥ | nominative feminine plural compound | beginning with the egg-born mode |
 
@@ -77,7 +77,7 @@ When their inclusion is examined, four cases arise:
 | 4 | no | no | the remaining cases after the first three are set aside |
 
 The second half then opens a new determination of the already articulated
-three-domain world:
+three-Realm world:
 
 ```text
 tatra
@@ -94,15 +94,16 @@ moisture-born, and spontaneously arisen.
 ### Close syntactic construe
 
 > Differentiated cognition is not declared to be a station; but when inclusion
-> is examined, the relation is four-cornered. Within that [three-domain world],
-> beings have four modes of birth, beginning with egg-birth.
+> is examined, the relation is four-cornered. Within that
+> [three-Realm world], beings have four modes of birth, beginning with
+> egg-birth.
 
 ### Bhāṣya-informed study translation
 
 > Differentiated cognition is not itself one of its four aggregate-stations:
 > it functions as seed, while the coexisting aggregates function as its field.
 > The seven cognition-stations and the four aggregate-stations overlap through
-> four possible inclusion-relations. Within this three-domain World System,
+> four possible inclusion-relations. Within this three-Realm World System,
 > beings arise through four modes of birth: egg-born, womb-born,
 > moisture-born, and spontaneously arisen.
 

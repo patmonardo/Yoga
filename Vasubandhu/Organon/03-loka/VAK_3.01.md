@@ -31,7 +31,7 @@ viṃśatiḥ                → viṃśatiḥ
 | manuṣyāḥ | nominative masculine plural | humans |
 | ṣaṭ | numeral; surface form `ṣaḍ` before voiced `d` | six |
 | divaukasaḥ | nominative masculine plural of `divaukas` (`div` + `okas`) | heaven-dwellers |
-| kāma-dhātuḥ | nominative masculine singular compound | desire-domain |
+| kāma-dhātuḥ | nominative masculine singular compound | Desire Realm |
 | saḥ | nominative masculine singular pronoun; metrically `sa` | that, referring to the preceding enumeration |
 | naraka-dvīpa-bhedena | instrumental singular compound | by the differentiation of hells and continents |
 | viṃśatiḥ | nominative feminine singular numeral noun | twenty; the Bhāṣya supplies “locations” |
@@ -44,7 +44,7 @@ that goes across or horizontally, has the established sense “animal.”
 ## 4. Grammar
 
 The verse first presents a nominative enumeration and then identifies its
-domain:
+Realm:
 
 ```text
 naraka-preta-tiryañcaḥ
@@ -66,7 +66,7 @@ saḥ kāmadhātuḥ
     viṃśatiḥ [sthānāni]
 ```
 
-`Naraka-dvīpa-bhedena` is instrumental: the domain is twentyfold by or through
+`Naraka-dvīpa-bhedena` is instrumental: the Realm is twentyfold by or through
 the differentiation of its hells and continents. The Bhāṣya explicitly
 supplies the ellipsis `sthānāni`, “locations.” It resolves the count as:
 
@@ -74,7 +74,7 @@ supplies the ellipsis `sthānāni`, “locations.” It resolves the count as:
 |---|---:|
 | great hells | 8 |
 | continents, which locate human existence | 4 |
-| desire-domain deva classes | 6 |
+| Desire Realm deva classes | 6 |
 | animal location | 1 |
 | preta location | 1 |
 | **Total** | **20** |
@@ -87,13 +87,13 @@ second half are therefore related classifications, but not identical lists.
 ### Close syntactic construe
 
 > Hell-beings, pretas, animals, humans, and six classes of heaven-dwellers:
-> that is the desire-domain, twenty [locations] through the differentiation of
+> that is the Desire Realm, twenty [locations] through the differentiation of
 > hells and continents.
 
 ### Bhāṣya-informed study translation
 
 > Hell-beings, pretas, animals, humans, and the six classes of heaven-dwellers
-> constitute the desire-domain. Through the differentiation of its hells and
+> constitute the Desire Realm. Through the differentiation of its hells and
 > continents, it comprises twenty locations.
 
 The bracketed “locations” in the close construe is supplied from the Bhāṣya.
@@ -102,30 +102,29 @@ commentarial explications of the compressed verse.
 
 ## 6. Philosophical Translation
 
-> The desire-domain is the first determinate World System. It is articulated
-> through modes of sentient existence, their places, and the Cosmic Frame that
-> supports their ordered appearance. Its plurality is not left indefinite:
-> the differentiation of hells, human continents, animal and preta locations,
-> and the six deva classes forms a bounded system of twenty locations.
+> The Desire Realm is articulated through modes of sentient existence and
+> their locations. Together with the supporting world, it forms an ordered
+> world-account: the Bhāṣya counts twenty locations and specifies the limits
+> of both the sentient range and, when the supporting world is included, the
+> complete extent.
 
-This rendering makes explicit the movement established by the Bhāṣya without
-turning `loka` into a ready-made external object. Capitalized **World System**
-and **Cosmic Frame** belong to the Organon philosophical register. They do not
-replace the close translations “world” and “container-world.” The domain is
-determined through inhabitants, placements, supporting world, and limits.
+This rendering keeps the Desire Realm (*kāmadhātu*) distinct from the
+supporting world (*bhājanaloka*) and from the joined world-account. Capitalized
+**World System** and **Cosmic Frame** belong to the Organon register; they do
+not replace the close translations “world” and “container-world.”
 
 ## 7. Technical Vocabulary
 
 | Sanskrit | Controlled rendering | Determination in this unit |
 |---|---|---|
 | loka | world; World System in the Organon register | the articulated whole of sentient orders, placements, supporting frame, differentiation, and limits; not a ready-made external universe |
-| kāmadhātu | desire-domain | the domain characterized by desire and containing the listed destinies and deva classes |
-| dhātu | domain | a structured field of belonging and placement, not merely an element |
+| kāmadhātu | Desire Realm | the Realm characterized by desire and containing the listed destinies and deva classes |
+| dhātu | Realm here; Principle in the Organon mapping | the local conventional sense is Realm; keep it distinct from the controlled Organon rendering Principle |
 | naraka | hell / hell-being | realm or destiny; its contextual reference is fixed by the level of classification |
 | preta | preta | a deprived mode of sentient existence; retained as a technical name |
 | tiryañc | animal | literally “going across”; one of the four destinies in the Bhāṣya |
 | divaukas | heaven-dweller | a deva dwelling in heaven; the verse specifies six classes collectively |
-| bheda | differentiation | the articulation through which the domain receives a determinate count |
+| bheda | differentiation | the articulation through which the Realm receives a determinate count |
 | gati | destiny | Bhāṣya term for the four principal courses of rebirth named in the first part |
 | devanikāya | deva class | Bhāṣya term enumerating the six kinds compressed as `ṣaḍ divaukasaḥ` |
 | sthāna | location | Bhāṣya-supplied noun specifying what the number twenty counts |
@@ -142,38 +141,39 @@ Avaragodānīya, and Uttarakuru.
 
 The opening question of Loka-nirdeśa arises from a presupposition of the
 preceding chapter. Citta and other dharmas had been classified according to
-restriction to the desire-, form-, and formless-domains. The Bhāṣya now asks
-what those domains themselves are:
+restriction to the Desire, Form, and Formless Realms. The Bhāṣya now asks
+what those Realms themselves are:
 
 ```text
-classification by domain
+classification by Realm
     ↓ reflection
-determination of the domain
+determination of the Realm
 ```
 
-VAK 3.01 begins that determination with the desire-domain. Its logical
+VAK 3.01 begins that determination with the Desire Realm. Its logical
 articulation is:
 
 ```text
-World System: kāmadhātu
-    sentient order
+Desire Realm: kāmadhātu
+    sentient articulation
         four destinies + six deva classes
     order of placement
         twenty locations
-    Cosmic Frame
-        bhājanaloka
     ordered extent
         Paranirmitavaśavartin → Avīci
-        or, including the Cosmic Frame, → vāyumaṇḍala
+        with bhājanaloka included → vāyumaṇḍala
+
+joined world-account
+    Desire Realm + bhājanaloka
 ```
 
-The Kārikā itself supplies the enumeration, the domain judgment, the ground of
+The Kārikā itself supplies the enumeration, the Realm judgment, the ground of
 differentiation, and the number twenty. The Bhāṣya supplies the decisive
 interpretation of the number as locations, resolves the count, includes the
 container-world, and determines the vertical limits.
 
-The **World System** is thus neither merely a collection of beings nor merely
-a container. The **Cosmic Frame** names its supporting order:
+The Bhāṣya's joined account is neither merely a collection of beings nor
+merely a container. The **Cosmic Frame** names the supporting order:
 
 ```text
 sentient orders without a Cosmic Frame
@@ -183,11 +183,13 @@ Cosmic Frame without sentient orders
     = abstract container
 
 World System
-    = their articulated unity
+    = the Organon name for their articulated unity
 ```
 
-This systematic unity is an Organon reconstruction of the Bhāṣya's articulated
-account, not a formula stated verbatim by Vasubandhu.
+The Desire Realm is one determination in this account, not itself a synonym
+for *loka* or for the complete World System. This systematic unity is an
+Organon reconstruction of the Bhāṣya's articulated account, not a formula
+stated verbatim by Vasubandhu.
 
 ## 9. Interpretive Note
 
@@ -196,15 +198,16 @@ opens by taking a distinction that the preceding analysis already used and
 making that distinction itself explicit. The classifier becomes the object of
 determination.
 
-The extraordinary feature of the verse is its movement between forms of
-existence and places of existence. Hell-beings, pretas, animals, humans, and
-devas first articulate the domain as inhabited. The twenty locations then
-articulate it as a differentiated order of placement. Finally, the Bhāṣya's
+The verse moves between forms of existence and places of existence.
+Hell-beings, pretas, animals, humans, and devas first articulate the Realm as
+inhabited. The twenty locations then articulate it as a differentiated order
+of placement. Finally, the Bhāṣya's
 `saha bhājanalokena` prevents either side from standing alone: the desire-world
 includes its supporting world.
 
-For the Organon project, Loka-nirdeśa may therefore provide the systematic
-form of World itself. VAK 3.01 gives its first determination:
+For the Organon project, the Bhāṣya's joined account contributes to the
+systematic determination of World. VAK 3.01 gives its first Realm-level
+articulation:
 
 ```text
 WorldSystem {
@@ -234,15 +237,15 @@ which sentient modes receive position, relation, and extent. Nor is it the
 whole World System: the complete system is the articulated unity of sentient
 orders, determinate places, supporting frame, and limits.
 
-The domain is not yet explained genetically. VAK 3.01 determines the
-differentiated world; the later declaration `karmajaṃ lokavaicitryam` will ask
-for the karmic genesis of world-variety. That later relation should not be
-imported into this verse as though `karma` were part of its wording.
+The Realm is not yet explained genetically. VAK 3.01 determines its
+differentiated articulation; the later declaration `karmajaṃ lokavaicitryam`
+will ask for the karmic genesis of world-variety. That later relation should
+not be imported into this verse as though `karma` were part of its wording.
 
 Likewise, “worldling consciousness” may become an Organon contact point, but
-the primary result here is narrower and stronger: a domain previously used to
-classify dharmas is now reconstructed as a World System—an inhabited, placed,
-supported, differentiated, and bounded whole.
+the primary result here is narrower: a Realm previously used to classify
+dharmas is now examined through its inhabitants, locations, supporting world,
+differentiation, and bounds.
 
 ## 10. OWL++ Seed
 
@@ -256,17 +259,20 @@ vak:VAK_3_01 a vak:Karika ;
     vak:belongsTo vak:Lokanirdesa ;
     vak:determines loka:KamaDhatu .
 
-loka:KamaDhatu a organon:WorldSystem ;
+loka:KamaDhatu a organon:Realm ;
     organon:hasSentientArticulation loka:FourDestinies,
         loka:SixDesireDevaClasses ;
     organon:hasLocationCount "20"^^xsd:integer ;
-    organon:hasCosmicFrame loka:Bhajanaloka ;
     organon:hasUpperLimit loka:Paranirmitavasavartin ;
     organon:hasSentientLowerLimit loka:Avici ;
     organon:hasContainerLowerLimit loka:Vayumandala .
 
 loka:Bhajanaloka a organon:CosmicFrame ;
-    organon:isConstitutiveMomentOf loka:KamaDhatu .
+    organon:isConstitutiveMomentOf organon:KamaWorldAccount .
+
+organon:KamaWorldAccount a organon:WorldSystem ;
+    organon:hasDomain loka:KamaDhatu ;
+    organon:hasCosmicFrame loka:Bhajanaloka .
 
 loka:TwentyLocations a organon:LocationSystem ;
     organon:hasPartition loka:EightGreatHells,

@@ -5,7 +5,7 @@
 > narakādisvanāmoktā gatayaḥ pañca teṣu tāḥ /
 > akliṣṭāvyākṛtā eva sattvākhyā nāntarābhavaḥ // 3.04 //
 
-> Within those domains are five destinies, called by their own names beginning
+> Within those Realms are five destinies, called by their own names beginning
 > with hell. According to the Vaibhāṣika determination, they are exclusively
 > unafflicted and indeterminate, designated as beings; intermediate existence
 > is not a destiny.
@@ -159,16 +159,16 @@ describe rain falling *onto* an axle-support.
 
 ## 3. Continuous Conventional Translation
 
-Why are these called the desire-, form-, and formless-domains? A domain is so
+Why are these called the Desire, Form, and Formless Realms? A domain is so
 called because it bears its own characteristic. The domain connected with
-desire is the desire-domain. The domain connected with form is the
-form-domain, with the middle member elided, as in compounds such as
+desire is the Desire Realm. The domain connected with form is the
+Form Realm, with the middle member elided, as in compounds such as
 “diamond-child” and “pepper-drink.” Because form does not exist there, it is
 formless. The state of being formless is formlessness. Alternatively, what is
 capable of being formed is “formable”; what is not formable is “formless,” and
 its state is formlessness. The domain connected with that is the
-formless-domain. Or the desire-domain is the domain of desires, that which
-bears desires. The form- and formless-domains should be understood similarly.
+Formless Realm. Or the Desire Realm is the domain of desires, that which
+bears desires. The Form and Formless Realms should be understood similarly.
 
 What is this thing called desire? In brief, it is craving associated with
 morsel-food and sexual intercourse. For a verse says: “The attractive things
@@ -183,20 +183,20 @@ conceives unwholesome thoughts will still be an enjoyer of desires.”
 conceptual craving is not desire for you, then your own teacher will be an
 enjoyer of desires merely upon seeing delightful forms.”
 
-Are all dharmas that occur in the three domains connected with their
-respective domains? No. Those in which craving for desire, form, or
-formlessness lies latent are connected with that domain. What, then, are those
-three cravings? Those which lie latent in the three respective domains. Is
+Are all dharmas that occur in the three Realms connected with their
+respective Realms? No. Those in which craving for desire, form, or
+formlessness lies latent are connected with that Realm. What, then, are those
+three cravings? Those which lie latent in the three respective Realms. Is
 this not the circular explanation of the horse and its tether—“Whose tether
 is this? The horse's. Whose horse is this? The tether's”—so that neither is
 known?
 
-It is not circular in this way, because the locations within the desire-domain
+It is not circular in this way, because the locations within the Desire Realm
 have already been specified. The craving of one not free from attachment to
 those locations is desire-craving, and the dharma in which it lies latent is
-connected with the desire-domain. Craving for form and formlessness should be
+connected with the Desire Realm. Craving for form and formlessness should be
 understood correspondingly in one who is free from attachment to the lower
-domain. Alternatively, craving belonging to a non-concentrated level is
+Realm. Alternatively, craving belonging to a non-concentrated level is
 desire-craving; craving in the dhyānas and formless attainments is craving for
 form and formlessness.
 
@@ -204,9 +204,9 @@ How can desire-craving occur in a mind of magical creation? Because one takes
 delight in that creation after hearing of it or after falling away from it;
 or the creator's mind may itself have craving through the force of the
 creation, or because odors and tastes are created. This craving belongs to the
-desire-domain, since a form-domain mind does not create those two.
+Desire Realm, since a mind in the Form Realm does not create those two.
 
-Is there only one system of three domains? Systems of three domains have no
+Is there only one system of three Realms? Systems of three Realms have no
 end: there are as many domains as the extent of space. For this very reason
 there is no appearance of completely new beings. Although innumerable beings
 attain complete nirvāṇa at the appearance of each Buddha, beings are never
@@ -218,17 +218,17 @@ streams of water falling from the sky, so toward the east there is no break
 or interval among world-systems contracting and expanding; and likewise in
 the south, west, and north. It does not say “above and below.” Others say that
 there are systems above and below too, according to a reading of another
-school. Above Akaniṣṭha there is again a desire-domain, and below a
-desire-domain there are again Akaniṣṭhas. One who is free from attachment to
-one desire-domain is free from attachment to all of them, and likewise for
-the form- and formless-domains. Someone born in a given world-system who
+school. Above Akaniṣṭha there is again a Desire Realm, and below a
+Desire Realm there are again Akaniṣṭhas. One who is free from attachment to
+one Desire Realm is free from attachment to all Desire Realms, and likewise
+for the Form and Formless Realms. Someone born in a given world-system who
 develops a supernormal power based on the first dhyāna reaches only that
 world-system's Brahmā-world, not another.
 
-Within the three domains just stated are “five destinies called by their own
+Within the three Realms just stated are “five destinies called by their own
 names beginning with hell”: hell-beings, animals, pretas, devas, and humans.
-The desire-domain contains four complete destinies and a portion of the fifth;
-the form- and formless-domains contain only portions of the deva destiny.
+The Desire Realm contains four complete destinies and a portion of the fifth;
+the Form and Formless Realms contain only portions of the deva destiny.
 
 Are there then domain-dharmas outside the destinies, since the destinies are
 said to be within the domains? Yes. Wholesome dharmas, afflicted dharmas, the
@@ -302,7 +302,7 @@ This is a compound unit with three movements:
 ```text
 112.24–114.04
     what makes a dhātu and what connects a dharma with it?
-    how many three-domain world-systems are there?
+    how many three-Realm world-systems are there?
 
 114.04–114.27
     what are the five destinies?
@@ -349,7 +349,7 @@ domain
     bears its characteristic field of connected dharmas
 ```
 
-The discussion then pluralizes the entire three-domain structure. There are
+The discussion then pluralizes the entire three-Realm structure. There are
 indefinitely many world-systems, arranged without gaps horizontally and,
 according to another school's reading, also above and below. Yet freedom from
 attachment to one domain applies to all corresponding domains. Cosmological
@@ -370,8 +370,8 @@ dhātu
 ```
 
 The five destinies are hell, animal, preta, deva, and human. Their distribution
-across domains is uneven: the desire-domain contains four entire destinies and
-part of the divine destiny, whereas the two higher domains contain only parts
+across Realms is uneven: the Desire Realm contains four entire destinies and
+part of the divine destiny, whereas the two higher Realms contain only parts
 of the divine destiny. Domain and destiny are therefore different axes of
 classification.
 
@@ -387,7 +387,7 @@ The Vaibhāṣika argument separates four functions:
 
 | Function | Term | Determination |
 |---|---|---|
-| field | `dhātu` | broader domain containing destinies and non-destiny dharmas |
+| field | generic `dhātu` | Domain in this local classification; Principle in the general Organon mapping; Realm in the specific three Realm names |
 | result-position | `gati` | settled course of sentient rebirth |
 | generating cause | `karmabhava` | karma-existence producing the destiny |
 | transition | `antarābhava` | interval between destinies, not itself a destination |
@@ -417,8 +417,12 @@ dharmas.
 ## 8. The Bhāṣya's Decisions for the Kārikā
 
 The preparatory prose prevents `dhātu` from being translated as a mere place.
-It is a characteristic-bearing domain of connected dharmas, and innumerable
-instances of the three-domain world-system may occur throughout space.
+In the general Organon mapping, *dhātu* is **Principle**; the specific
+compounds *kāmadhātu*, *rūpadhātu*, and *ārūpyadhātu* are Desire Realm, Form
+Realm, and Formless Realm. Here the Bhāṣya describes the generic Domain as
+characteristic-bearing and connected with dharmas. It also states that
+innumerable instances of the three-Realm world-system may occur throughout
+space.
 
 `Gati` is best retained as “destiny,” provided its verbal and functional force
 remains visible: it is a course that terminates in a determinate rebirth
@@ -506,7 +510,7 @@ This pass corrected the rain simile and translated `ṛddhim utpādayati` as
 developing a supernormal power. The placement in the world-system of birth is
 now explicit in the latter sentence.
 
-The research witnesses, running source, existing Kārikā study, and preceding
-Bhāṣya Studies remain unchanged. This study remains provisional pending
-critical rereading. VAK 3.05 begins at 115.17 and has not been undertaken
+The research witnesses, running source, and existing Kārikā study remain
+unchanged. The preceding Bhāṣya Studies use the reviewed Realm terminology.
+This study remains provisional pending critical rereading. VAK 3.05 begins at 115.17 and has not been undertaken
 here.

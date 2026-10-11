@@ -31,7 +31,7 @@ na antarā-bhavaḥ           → nāntarābhavaḥ
 | narakādi-svanāmoktāḥ | nominative feminine plural compound | called by their own names beginning with naraka |
 | gatayaḥ | nominative feminine plural of `gati` | destinies, courses of rebirth |
 | pañca | numeral | five |
-| teṣu | locative plural pronoun | among those, referring to the three domains |
+| teṣu | locative plural pronoun | among those, referring to the three Realms |
 | tāḥ | nominative feminine plural pronoun | those five destinies |
 | akliṣṭa-avyākṛtāḥ | nominative feminine plural compound | unafflicted and indeterminate |
 | eva | restrictive particle | only, precisely |
@@ -53,7 +53,7 @@ teṣu
     naraka-ādi-sva-nāma-uktāḥ
 ```
 
-“Among those” means within the three domains just determined. The Bhāṣya
+“Among those” means within the three Realms just determined. The Bhāṣya
 enumerates the five as hell-being, animal, preta, deva, and human destinies.
 
 The second half restricts their status and excludes an apparent sixth member:
@@ -75,13 +75,13 @@ five destinies; it does not deny intermediate existence.
 
 ### Close syntactic construe
 
-> Among those [domains] are the five destinies, called by their own names
+> Among those [Realms] are the five destinies, called by their own names
 > beginning with naraka. They alone are unafflicted-indeterminate and
 > designated as beings; intermediate existence is not [a destiny].
 
 ### Bhāṣya-informed study translation
 
-> Within the three domains are five destinies—hell, animal, preta, deva, and
+> Within the three Realms are five destinies—hell, animal, preta, deva, and
 > human. They are resultant, non-obscured indeterminate configurations
 > designated as beings. Intermediate existence is not itself one of these
 > destinies.
@@ -105,8 +105,8 @@ the transition between positions, and the designation applied to the result.
 
 | Sanskrit | Controlled rendering | Determination in this unit |
 |---|---|---|
-| dhātu | domain | world-field broader than any destiny occurring within it |
-| gati | destiny / course | resultant course of sentient placement within a domain |
+| dhātu | Principle generally; Domain in the generic classification | in the specific compounds *kāmadhātu*, *rūpadhātu*, and *ārūpyadhātu*, use Desire Realm, Form Realm, and Formless Realm |
+| gati | destiny / course | resultant course of sentient placement within a Realm |
 | akliṣṭa | unafflicted | the destiny is not itself an affliction, even when its karmic cause was afflicted |
 | avyākṛta | indeterminate | not itself ethically productive as wholesome or unwholesome |
 | anivṛtāvyākṛta | non-obscured indeterminate | Bhāṣya precision for the status of a destiny |
@@ -116,10 +116,11 @@ the transition between positions, and the designation applied to the result.
 | vipāka | maturation-result | resultant dharmas upon which a destiny-designation is imposed |
 | saṃkhyāṃ gacchati | receives a designation | Bhāṣya phrase explaining how “hell-being” is predicated |
 
-The distribution stated by the Bhāṣya is not symmetrical. Kāmadhātu contains
-four full destinies and part of the deva destiny; rūpadhātu and ārūpyadhātu
-contain only portions of the deva destiny. The three domains are therefore
-broader than the five destinies and do not simply map one-to-one onto them.
+The distribution stated by the Bhāṣya is not symmetrical. The Desire Realm
+contains four full destinies and part of the deva destiny; the Form Realm and
+Formless Realm contain only portions of the deva destiny. The three Realms are
+therefore broader than the five destinies and do not simply map one-to-one
+onto them.
 
 ## 8. Logical Determination
 

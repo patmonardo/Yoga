@@ -1,15 +1,15 @@
-# VAK_3.02 Bhāṣya — Seventeen Stations of the Form-Domain
+# VAK_3.02 Bhāṣya — Seventeen Stations of the Form Realm
 
 ## 1. Kārikā Anchor
 
 > ūrdhvaṃ saptadaśasthāno rūpadhātuḥ pṛthak pṛthak /
 > dhyānaṃ tribhūmikaṃ tatra caturthaṃ tvaṣṭabhūmikam // 3.02 //
 
-> Above the desire-domain lies the form-domain, comprising seventeen
+> Above the Desire Realm lies the Form Realm, comprising seventeen
 > stations. Its first three dhyānas each comprise three levels, while the
 > fourth comprises eight.
 
-The Bhāṣya supplies “above this desire-domain” and resolves `pṛthak pṛthak`
+The Bhāṣya supplies “above this Desire Realm” and resolves `pṛthak pṛthak`
 through `pratyekam`, “each separately.” It then enumerates the seventeen
 stations and records a Kāśmīra alternative of sixteen. The alternative turns
 on whether Mahābrahmā's superior station constitutes a distinct `bhūmi`.
@@ -51,7 +51,7 @@ is claimed.
 
 ## 3. Continuous Conventional Translation
 
-Above this desire-domain is “the form-domain, having seventeen stations.” How
+Above this Desire Realm is “the Form Realm, having seventeen stations.” How
 is this so? He says: “Separately, each dhyāna there has three levels.” The
 first, second, and third dhyānas are each three-levelled. “But the fourth has
 eight levels.”
@@ -61,7 +61,7 @@ Mahābrahmās. The second comprises the Parīttābhas, Apramāṇābhas, and
 Ābhāsvaras. The third comprises the Parīttaśubhas, Apramāṇaśubhas, and
 Śubhakṛtsnas. The fourth comprises the Anabhrakas, Puṇyaprasavas,
 Bṛhatphalas, Abṛhas, Atapas, Sudṛśas, Sudarśanas, and Akaniṣṭhas. These are
-the seventeen stations that constitute the form-domain together with the
+the seventeen stations that constitute the Form Realm together with the
 beings dwelling in them.
 
 The Kāśmīras say that there are sixteen. They hold that among the
@@ -76,13 +76,13 @@ remains provisional, as noted above.
 ## 4. Movement and Voices of the Commentary
 
 The opening `etasmāc ca kāmadhātoḥ` continues directly from VAK 3.01. Having
-determined the desire-domain, the Bhāṣya moves upward to the form-domain and
+determined the Desire Realm, the Bhāṣya moves upward to the Form Realm and
 asks how its stated total of seventeen is obtained:
 
 ```text
-above the desire-domain
+above the Desire Realm
     ↓
-form-domain: seventeen stations
+Form Realm: seventeen stations
     ↓
 four dhyānas distribute those stations
     ↓
@@ -119,15 +119,15 @@ The names do not form an unstructured parade of deities. Their arrangement is
 governed by the fourfold dhyāna order. The count proceeds from dhyāna, through
 its levels, to the stations and beings belonging there.
 
-`Ūrdhvam` gives an ordered relation to the desire-domain, but not liberation
-from conditioned world. The form-domain remains a `dhātu`, and its internal
+`Ūrdhvam` gives an ordered relation to the Desire Realm, but not liberation
+from conditioned world. The Form Realm remains conditioned, and its internal
 members remain `bhūmi` and `sthāna`. Refinement of world is not by itself
 release from world.
 
 ## 6. Dhyāna as an Articulation of World
 
 In this passage `dhyāna` does not name only an inward meditative episode. It
-organizes the form-domain itself. The relation is neither a casual analogy nor
+organizes the Form Realm itself. The relation is neither a casual analogy nor
 an identity between a private mental state and an external place:
 
 ```text
@@ -138,12 +138,13 @@ rūpadhātu
                 inhabited by corresponding sattvas
 ```
 
-The final phrase `saha tannivāsibhiḥ sattvaiḥ` again prevents world-domain
-from being reduced to either places or beings. Here, however, the supporting
-structure is not expressed through `bhājanaloka` as in VAK 3.01. The text
+The final phrase `saha tannivāsibhiḥ sattvaiḥ` again prevents the account of
+the inhabited world from being reduced to either places or beings. Here,
+however, the supporting structure is not expressed through `bhājanaloka` as in
+VAK 3.01. The text
 relates the seventeen stations to the beings dwelling in them.
 
-This makes dhyāna a principle of domain-articulation in the local doctrinal
+This makes dhyāna a principle of Realm-articulation in the local doctrinal
 account. It does not authorize importing the full Yoga account of dhyāna into
 the Kārikā, nor does it make a higher dhyāna a pāramārthika station.
 
@@ -182,8 +183,8 @@ being.
 
 ## 8. The Bhāṣya's Decisions for the Kārikā
 
-The Bhāṣya makes the reference of `ūrdhvam` explicit: the form-domain is above
-the desire-domain determined in VAK 3.01. “Above” remains a relation within the
+The Bhāṣya makes the reference of `ūrdhvam` explicit: the Form Realm is above
+the Desire Realm determined in VAK 3.01. “Above” remains a relation within the
 world order, not a synonym for liberation.
 
 `Pṛthak pṛthak` is distributive. A translation such as “dhyāna is separately
@@ -191,7 +192,7 @@ three-levelled” remains obscure unless the prose's `pratyekam` is followed:
 each of the first three dhyānas has three levels. The fourth has eight.
 
 `Sthāna` and `bhūmi` must not be translated as though they were
-interchangeable. “Station” preserves a determinate position within a domain;
+interchangeable. “Station” preserves a determinate position within a Realm;
 “level” or “ground” marks the structural division at issue. The Kāśmīra
 argument depends entirely upon their difference.
 
@@ -207,10 +208,10 @@ VAK 3.01 determined a World System through sentient orders, locations,
 supporting frame, and limits. VAK 3.02 adds an internally graded articulation:
 
 ```text
-desire-domain
+Desire Realm
     principally articulated here through destiny and placement
 
-form-domain
+Form Realm
     articulated through dhyāna
         level
             station
@@ -220,7 +221,7 @@ form-domain
 For the Organon reconstruction, the central insight is not that meditative
 psychology mysteriously produces cosmic geography. It is that the form of
 conscious existence and the form of world-placement are correlated within one
-domain-order. Dhyāna names the governing articulation under which levels,
+Realm-order. Dhyāna names the governing articulation under which levels,
 stations, and inhabitants receive their determinate positions.
 
 The Kāśmīra alternative then supplies a necessary restraint for any formal
@@ -236,9 +237,9 @@ This is especially important for the study of elaborate cosmological lists.
 The conceptual work lies in the criterion by which a difference counts, not
 in multiplying entities merely because the source gives them names.
 
-The upward movement must also remain bounded. Rūpadhātu is more refined than
-kāmadhātu within the Kośa world-order, but it is still conditioned world. The
-Pāramārthika cannot be added as an eighteenth station or treated as the next
+The upward movement must also remain bounded. The Form Realm is more refined
+than the Desire Realm within the Kośa world-order, but it is still conditioned
+world. The Pāramārthika cannot be added as an eighteenth station or treated as the next
 address above Akaniṣṭha. That boundary belongs to the Organon study and must
 not be projected backward as wording or doctrine of VAK 3.02.
 
@@ -255,7 +256,7 @@ likely supplies the image of a house, though its exact syntactic attachment
 remains provisional. The argument requires only a specially differentiated
 station within the Brahmapurohita level, not another `bhūmi`.
 
-The research witnesses, running source, existing Kārikā study, and VAK 3.01
-Bhāṣya Study remain unchanged. This study remains provisional pending critical
-rereading. The next sequential unit is VAK 3.03; it has not been undertaken
-here.
+The research witnesses, running source, and existing Kārikā study remain
+unchanged. The VAK 3.01 Bhāṣya Study now uses the reviewed Realm terminology.
+This study remains provisional pending critical rereading. The next sequential
+unit is VAK 3.03; it has not been undertaken here.

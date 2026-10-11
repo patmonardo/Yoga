@@ -27,13 +27,13 @@ citta-santatiḥ             → citta-santatiḥ
 
 | Form | Morphology | Lexical force here |
 |---|---|---|
-| ārūpya-dhātuḥ | nominative masculine singular compound | formless-domain |
+| ārūpya-dhātuḥ | nominative masculine singular compound | Formless Realm |
 | asthānaḥ | nominative masculine singular adjective, `a-` + `sthāna` | without station |
 | upapattyā | instrumental feminine singular of `upapatti` | according to rebirth / by differentiation of rebirth |
 | catur-vidhaḥ | nominative masculine singular adjective | fourfold, of four kinds |
 | nikāyam | accusative masculine singular | class; interpreted by the Bhāṣya as common class-character |
 | jīvitam | accusative neuter singular | life; interpreted by the Bhāṣya as life-faculty |
-| atra | locative adverb | here, in this formless-domain |
+| atra | locative adverb | here, in this Formless Realm |
 | niśritā | nominative feminine singular past participle of `ni-√śri` | resting upon, dependent upon |
 | citta-santatiḥ | nominative feminine singular compound | continuity of consciousness |
 
@@ -51,14 +51,14 @@ The first half negates station while retaining differentiation:
 ```
 
 `Upapattyā` is instrumental and states the basis of the fourfoldness. The
-formless-domain is not fourfold through four spatial stations; it is fourfold
+Formless Realm is not fourfold through four spatial stations; it is fourfold
 according to modes of rebirth.
 
 The second half gives a dependency structure:
 
 ```text
 citta-santatiḥ        subject
-    atra              domain-locator
+    atra                  Realm-locator
     nikāyam jīvitam ca
                       objects of the dependency relation
     niśritā            predicate
@@ -73,13 +73,13 @@ must not be mistaken for an uncontested expansion of the verse.
 
 ### Close syntactic construe
 
-> The formless-domain has no station; it is fourfold according to rebirth.
+> The Formless Realm has no station; it is fourfold according to rebirth.
 > Here the continuity of consciousness rests upon class and life.
 
 ### Bhāṣya-informed study translation
 
-> The formless-domain has no spatial station, yet it is fourfold according to
-> rebirth. In this domain, the continuity of consciousness is said to depend
+> The Formless Realm has no spatial station, yet it is fourfold according to
+> rebirth. In this Realm, the continuity of consciousness is said to depend
 > upon the common class-character and the life-faculty.
 
 “Spatial” reflects the Bhāṣya's explanation `adeśastha`, not a separate word
@@ -90,22 +90,23 @@ the fact that the commentary subjects this support-model to criticism.
 ## 6. Philosophical Translation
 
 > At its most abstract limit, the World System relinquishes spatial station
-> without relinquishing conditioned differentiation. The formless-domain is
+> without relinquishing conditioned differentiation. The Formless Realm is
 > articulated through four modes of rebirth, while continuity of consciousness
 > remains dependent. Form and location disappear; world-order, genesis, life,
 > and continuity do not.
 
 This is an Organon rendering. It does not translate `ārūpya` as Absolute or
-identify the formless-domain with liberation.
+identify the Formless Realm with liberation.
 
 ## 7. Technical Vocabulary
 
 | Sanskrit | Controlled rendering | Determination in this unit |
 |---|---|---|
-| ārūpyadhātu | formless-domain | the domain without form-stations but still differentiated by conditioned rebirth |
+| dhātu | Principle in the general Organon mapping; Realm in this conventional compound | use Formless Realm for *ārūpyadhātu*, distinct from the general project mapping |
+| ārūpyadhātu | Formless Realm | the Realm without form-stations but still differentiated by conditioned rebirth |
 | asthāna | without station | direct negation of the `sthāna` structure used for rūpadhātu |
 | adeśastha | not spatially situated | Bhāṣya clarification of `asthāna`; also predicated there of other non-spatial dharmas |
-| upapatti | rebirth | mode of conditioned arising that differentiates the formless-domain |
+| upapatti | rebirth | mode of conditioned arising that differentiates the Formless Realm |
 | nikāya | class | Kārikā term expanded by the Bhāṣya as `nikāyasabhāga` |
 | nikāyasabhāga | common class-character | proposed non-material support in the Ābhidhārmika account |
 | jīvita | life | Kārikā term expanded by the Bhāṣya as `jīvitendriya` |
@@ -140,13 +141,13 @@ The opening sequence now yields three progressively deeper determinations of
 the World System:
 
 ```text
-VAK 3.01 — kāmadhātu
+VAK 3.01 — Desire Realm (kāmadhātu)
     World differentiated through destinies and inhabited locations
 
-VAK 3.02 — rūpadhātu
+VAK 3.02 — Form Realm (rūpadhātu)
     World differentiated through stations and dhyāna-grounds
 
-VAK 3.03 — ārūpyadhātu
+VAK 3.03 — Formless Realm (ārūpyadhātu)
     station negated
     differentiation retained through rebirth
     consciousness-continuity retained through dependence
@@ -196,8 +197,8 @@ The negation of `sthāna` does not terminate `loka`. An ordered continuum of
 conditioned existence remains, differentiated by rebirth and marked by life
 and consciousness-continuity.
 
-This makes ārūpyadhātu the strongest possible abstraction internal to the
-World System—not the Absolute:
+This makes the Formless Realm the strongest possible abstraction internal to
+the World System—not the Absolute:
 
 ```text
 formlessness
@@ -218,7 +219,7 @@ Tāmasic World System
         stationed desire-world
     rūpadhātu
         stationed form-world
-    ārūpyadhātu
+    Formless Realm (ārūpyadhātu)
         non-stationed conditioned continuity
 
 Pāramārthika / Pure Principles
@@ -229,7 +230,7 @@ Pāramārthika / Pure Principles
 ```
 
 This is a project-level synthesis, not Vasubandhu's assertion. Its textual
-discipline lies in recognizing exactly what the formless-domain fails to
+discipline lies in recognizing exactly what the Formless Realm fails to
 overcome: conditioned arising and continuity. The pāramārthika can enclose the
 entire World System precisely because it is not one determination within the
 system's opposition of form and formlessness.
@@ -256,7 +257,7 @@ vak:VAK_3_03 a vak:Karika ;
     vak:belongsTo vak:Lokanirdesa ;
     vak:determines loka:ArupyaDhatu .
 
-loka:ArupyaDhatu a organon:WorldDomain ;
+loka:ArupyaDhatu a organon:Realm ;
     organon:hasStationStatus organon:NonStationed ;
     organon:hasRebirthModeCount "4"^^xsd:integer ;
     organon:isDifferentiatedBy loka:Upapatti ;

@@ -85,11 +85,11 @@ around spatially.
 > and by a highly purified divine eye produced through `abhijñā`. It travels
 > with karmically generated extraordinary speed, possesses all five faculties,
 > passes through ordinary material obstructions, cannot change the destiny
-> toward which it was projected, and in the desire domain takes subtle scent
+> toward which it was projected, and in the Desire Realm takes subtle scent
 > rather than gross morsel-food as nutriment.
 
 The restriction to five faculties, production of the divine eye through
-`abhijñā`, destination-fixity, desire-domain qualification, and contrast with
+`abhijñā`, destination-fixity, Desire Realm qualification, and contrast with
 gross food are Bhāṣya determinations.
 
 ## 6. Philosophical Translation
@@ -113,7 +113,7 @@ gross food are Bhāṣya determinations.
 | sakalākṣa | complete in faculties | glossed as possession of the complete five faculties |
 | apratigha | unobstructed | not stopped by ordinary material impact or resistance |
 | anivartya | fixed to its projected course | cannot exchange one projected destiny for another |
-| gandhabhuk | scent-eater | desire-domain intermediate being sustained by subtle scent |
+| gandhabhuk | scent-eater | Desire Realm intermediate being sustained by subtle scent |
 | kavaḍīkārāhāra | morsel-food | nutriment accepted only in a non-gross mode here |
 | upapatti-sāmagrī | complete conditions for rebirth | Bhāṣya stopping-condition for intermediate existence |
 | pṛthag-ākṣepa | separate projection | denied of an independent intermediate lifespan |
@@ -177,7 +177,7 @@ configuration, not merely an abstract interval.
 
 ### Nutriment and duration
 
-For a desire-domain intermediate being:
+For a Desire Realm intermediate being:
 
 ```text
 nutriment

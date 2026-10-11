@@ -217,91 +217,58 @@ traveler is absent from the rebirth mechanism.
 
 ## 9. Interpretive Note
 
-### Round 1: Vasubandhu lands the punch
+### Continuity without a transmigrator
 
-The Buddhist argument should be granted without qualification at its proper
-target. Continuity does not force us to insert an individualized cosmic
-proprietor. The first seventeen verses have already constructed a remarkably
-complete transition system; 3.18 now refuses the redundant addition.
+VAK 3.18 answers a specific inference: rebirth requires an inner ātman to
+transfer the Bases from one life to another. The close translation of
+`nātmāsti` is “no ātman exists”; retain it as the source's wording, not as the
+Organon's primary question framed in terms of Being. Base–Essence–Principle
+asks how a Dharma is articulated. Here the conditioned Skandha/Base unfolds
+through the causal Principle expressed as “when this is, that comes to be.”
+The passage assigns no independent ātman to carry that relation and posits no
+“One True Thing” behind it. The Bhāṣya's figurative use of “ātman” is
+conventional designation, not a second entity.
 
-```text
-gati
-yoni
-ākṣepa
-antarābhava
-karmarddhi
-viparyaya
-garbhāvakrānti
-skandha-saṃtati
-```
-
-This is a profound victory over adhyāsa. It protects Buddhist practice from
-the caricature that a practitioner must become a null or an NPC. What is
-defeated is the counterfeit empirical proprietor, not agency, ethical
-formation, cultivated clarity, achieved knowing, or liberation.
-
-### The bell has not ended the match
-
-Our counter-position does not reinsert Ātman into the transition diagram. It
-asks a different question:
+“Intermediate existence” translates `antarābhava` here as the conditioned
+phase between death and rebirth. It names a causal transition, not a hidden
+traveler; its relation to a Realm is a separate classification question.
 
 ```text
-When appropriative and constructed operation is stilled,
-what is disclosed through nirodha-samāpatti
-in relation to the unconditioned in dharmadhātu?
+momentary Bases + affliction + karma
+    → intermediate-existence continuum
+    → new aggregate phase
+
+conditioned continuity
+    ≠ an independent owner or transmigrator
 ```
 
-The project answer is:
+The Organon label “Agent,” where used in the preceding studies, names a
+conventional role in this conditioned sequence; it does not designate a
+permanent owner, transmigrator, or ātman. The flame analogy likewise explains
+causal succession across change, not the travel of an identical substance.
+
+### Scope of the argument
+
+The passage traces the transition through conditioned Bases and their causal
+relation. Questions about cessation and unconditioned dharmas require their
+own analysis; they do not warrant introducing a hidden ātman beyond that
+relation.
+
+### Determination
 
 ```text
-Ātman
-    is not an empirical rebirth-carrier
-    is not one item in the World System
-    is the One True Thing disclosed
-      when adhyāsa and constructed cognition cease
+transmigrating ātman
+    denied
+
+conditioned Base-series
+    linked through dependent arising
+    causally conditioned
+    sufficient to explain rebirth
 ```
 
-That is our Śaṅkara-guided philosophical claim, not Vasubandhu's statement.
-It neither repairs nor cancels the Buddhist causal account. It denies that
-causal completeness within the World System is identical with ultimate
-comprehension of that World System.
-
-### `Jagan mithyā`
-
-VAK 3.18 may therefore be accepted as the exact Technē of rebirth within
-appearance:
-
-```text
-skandha-series
-    causally real within World
-    morally formed
-    capable of continuity and liberation
-
-World System
-    cannot by those operations alone
-    establish itself as ultimate truth
-```
-
-`Jagan mithyā` does not make the Kośa's analysis false or useless. It places
-the entire causal architecture within a truth that comprehends and sublates
-it. Pāramārthika is not another destination above the devas; it encloses the
-whole field in which destination, continuity, birth, and death operate.
-
-### Round 1 decision
-
-```text
-Against the transmigrating empirical proprietor:
-    Vasubandhu wins decisively.
-
-Against Ātman as the One True Thing:
-    no contact has yet been made,
-    because that contender was never placed
-    inside the rebirth mechanism.
-```
-
-The disciplined result is not a compromise. It is a distinction of levels:
-the Kośa gives the victorious causal analysis of the World System; the Organon
-asks what becomes Known when that complete World System is itself sublated.
+The Bhāṣya's figurative use of “ātman” for the Skandha/Bases does not qualify
+the denial by positing another self. It marks a conventional designation
+within the causal account, not a hidden Being behind it.
 
 ## 10. OWL++ Seed
 
@@ -328,7 +295,4 @@ loka:ExternalistTransitionInference a organon:RejectedInference ;
     organon:adds loka:IndividualTransitionPrinciple ;
     organon:lacksRequiredCausalContribution true .
 
-organon:RoundOneDistinction a organon:LevelDistinction ;
-    organon:assigns loka:ConditionedRebirthContinuity to organon:WorldSystem ;
-    organon:reserves organon:UltimateDisclosure for organon:ParamarthikaInquiry .
 ```

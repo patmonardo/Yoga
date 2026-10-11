@@ -142,12 +142,12 @@ Abhidharma; it is poetry, and poets composing verse sometimes superimpose
 certain features. Or it may be interpreted as describing the appearance seen
 by his mother in her dream, and the poet composed the verse accordingly.
 
-An intermediate being destined for the form-domain appears at full size and
+An intermediate being destined for the Form Realm appears at full size and
 clothed because modesty predominates there. The Bodhisattva likewise appears
 clothed, and the nun Śuklā is also given as a special case connected with the
 power of aspiration; the exact transmitted sentence concerning her remains
 uncertain. Other intermediate beings are naked because shamelessness
-predominates in the desire-domain.
+predominates in the Desire Realm.
 
 What, then, is this prior-time existence? “That, in turn, is after the moment
 of rebirth and before death.” Existence in general means the five appropriated
@@ -234,8 +234,8 @@ zoological claim is denied. Appearance, signification, and bodily
 configuration remain distinct.
 
 The account of clothing likewise makes intermediate appearance
-domain-conditioned. Full size and clothing in the form-domain are connected
-with modesty; ordinary desire-domain intermediate beings are described as
+domain-conditioned. Full size and clothing in the Form Realm are connected
+with modesty; ordinary Desire Realm intermediate beings are described as
 naked. These are Bhāṣya determinations, not words of the Kārikā.
 
 ## 7. Four Temporal Functions of Existence

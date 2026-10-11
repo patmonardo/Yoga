@@ -28,13 +28,13 @@ tu aṣṭa-bhūmikam       → tv aṣṭa-bhūmikam
 
 | Form | Morphology | Lexical force here |
 |---|---|---|
-| ūrdhvam | adverbial accusative / indeclinable use of `ūrdhva` | above, upward from the desire-domain |
+| ūrdhvam | adverbial accusative / indeclinable use of `ūrdhva` | above, upward from the Desire Realm |
 | saptadaśa-sthānaḥ | nominative masculine singular possessive compound | having seventeen stations |
-| rūpa-dhātuḥ | nominative masculine singular compound | form-domain |
+| rūpa-dhātuḥ | nominative masculine singular compound | Form Realm |
 | pṛthak pṛthak | repeated indeclinable | separately, each distinctly |
 | dhyānam | nominative neuter singular | a dhyāna; meditative absorption-order |
 | tri-bhūmikam | nominative neuter singular adjective | having three levels or grounds |
-| tatra | locative adverb | there, within the form-domain |
+| tatra | locative adverb | there, within the Form Realm |
 | caturtham | nominative neuter singular | the fourth dhyāna |
 | tu | contrastive particle | but, whereas |
 | aṣṭa-bhūmikam | nominative neuter singular adjective | having eight levels or grounds |
@@ -45,7 +45,7 @@ separately.”
 
 ## 4. Grammar
 
-The first clause locates and counts the next domain:
+The first clause locates and counts the next Realm:
 
 ```text
 ūrdhvam [etasmāt kāmadhātoḥ]
@@ -53,7 +53,7 @@ The first clause locates and counts the next domain:
     rūpa-dhātuḥ
 ```
 
-The Bhāṣya supplies the point of comparison: “above this desire-domain.”
+The Bhāṣya supplies the point of comparison: “above this Desire Realm.”
 `Saptadaśa-sthānaḥ` predicates possession of seventeen stations of
 `rūpadhātuḥ`.
 
@@ -86,23 +86,23 @@ adjudicating it.
 
 ### Close syntactic construe
 
-> Above, the form-domain has seventeen stations. There, each [of the first
+> Above, the Form Realm has seventeen stations. There, each [of the first
 > three] dhyānas has three levels, but the fourth has eight levels.
 
 ### Bhāṣya-informed study translation
 
-> Above the desire-domain lies the form-domain, comprising seventeen stations.
+> Above the Desire Realm lies the Form Realm, comprising seventeen stations.
 > Its first three dhyānas each comprise three levels, while the fourth
 > comprises eight. The Kāśmīras instead count sixteen, treating Mahābrahmā as
 > an elevated station but not as a distinct ground.
 
-“Above the desire-domain,” “the first three,” and the sixteenfold alternative
+“Above the Desire Realm,” “the first three,” and the sixteenfold alternative
 are Bhāṣya determinations. The Kārikā itself states “above,” seventeen
 stations, the distributive three-level rule, and the eight-level exception.
 
 ## 6. Philosophical Translation
 
-> The World System rises above the desire-domain into the form-domain, yet
+> The World System rises above the Desire Realm into the Form Realm, yet
 > remains internally ordered World. Here dhyāna is not merely an inward state:
 > it articulates a cosmic hierarchy of grounds and stations. The first three
 > dhyāna-orders each have three levels, and the fourth has eight, yielding the
@@ -117,8 +117,9 @@ This is the Organon rendering of the verse's structure. “World System” and
 | Sanskrit | Controlled rendering | Determination in this unit |
 |---|---|---|
 | ūrdhvam | above | ordered vertical relation to kāmadhātu; not liberation or transcendence beyond World |
-| rūpadhātu | form-domain | the domain of refined form above kāmadhātu and organized through dhyāna |
-| sthāna | station | determinate position within a domain; not automatically a distinct structural ground |
+| dhātu | Principle in the general Organon mapping; Realm in the conventional compound here | retain Form Realm for *rūpadhātu*; do not use Realm as the general Organon rendering |
+| rūpadhātu | Form Realm | the Realm of refined Form above kāmadhātu and organized through dhyāna |
+| sthāna | station | determinate position within a Realm; not automatically a distinct structural ground |
 | dhyāna | dhyāna | meditative absorption functioning here as a principle of world-articulation |
 | bhūmi | level / ground | a distinct structural level within a dhyāna-order |
 | pṛthak pṛthak | each separately | distributive rule applied to the first three dhyānas |
@@ -164,9 +165,9 @@ Cosmic Frame, and limits. VAK 3.02 adds vertical and intensional articulation:
 
 ```text
 World System
-    kāmadhātu
+    Desire Realm (kāmadhātu)
         differentiated principally by destiny and placement
-    rūpadhātu
+    Form Realm (rūpadhātu)
         differentiated by dhyāna
             bhūmi
                 sthāna
@@ -208,22 +209,22 @@ and Cosmic Frame are internally correlated.
 
 The first great result is that dhyāna belongs to the architecture of Cosmos.
 Within the Kośa's presentation, a meditative distinction can articulate a
-world-domain. “Inner state” and “cosmic station” therefore cannot simply be
+Realm. “Inner state” and “cosmic station” therefore cannot simply be
 presupposed as two unrelated orders.
 
 The second result is negative but decisive: ascent within the World System is
-not transcendence of the World System. `Ūrdhvam` carries us from desire to
-refined form, but every dhyāna-level remains a `bhūmi`, every station remains a
-`sthāna`, and rūpadhātu remains a `dhātu` of conditioned existence.
+not transcendence of the World System. `Ūrdhvam` carries us from the Desire
+Realm to the Form Realm, but every dhyāna-level remains a `bhūmi`, every
+station remains a `sthāna`, and the Form Realm remains conditioned existence.
 
 This gives the Organon project room to think big while remaining textually
 clean:
 
 ```text
 Tāmasic World System
-    kāmadhātu
-    rūpadhātu
-    ārūpyadhātu
+    Desire Realm (kāmadhātu)
+    Form Realm (rūpadhātu)
+    Formless Realm (ārūpyadhātu)
     every internal ascent and refinement
 
 Pāramārthika
@@ -272,7 +273,7 @@ vak:VAK_3_02 a vak:Karika ;
     vak:belongsTo vak:Lokanirdesa ;
     vak:determines loka:RupaDhatu .
 
-loka:RupaDhatu a organon:WorldDomain ;
+loka:RupaDhatu a organon:Realm ;
     organon:isAbove loka:KamaDhatu ;
     organon:hasStationCount "17"^^xsd:integer ;
     organon:isArticulatedBy loka:DhyanaOrder .
