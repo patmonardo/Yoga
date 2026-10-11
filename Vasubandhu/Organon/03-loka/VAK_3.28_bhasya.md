@@ -295,7 +295,7 @@ collation. The earlier research witness excerpts only the discussions at
 136.02–136.13 and 140.26–141.08; it omits most of this sustained argument.
 The running source remains unchanged.
 
-## 3. Continuous Conventional Translation
+## 3. Scientific English Rendering
 
 Another sūtra says that ignorance has unwise attention as its cause, and that
 unwise attention in turn has ignorance as its cause. Some say that unwise
@@ -307,7 +307,7 @@ cause and result, craving and ignorance could likewise be denied separate
 member-status wherever they were included together.
 
 Another says that unwise attention, taught elsewhere as ignorance's cause, is
-located at the time of contact: “Depending upon the eye and forms, a turbid
+located at the time of contact: “Depending upon the Eye Faculty and Forms, a turbid
 attention born of delusion arises.” Ignorance must also occur at the time of
 feeling, since another sūtra says that craving arises depending upon feeling
 born of contact with ignorance. Thus unwise attention at contact can condition
@@ -329,16 +329,16 @@ process is how this life connects with another and another with this life.
 That purpose has already been stated: removal of confusion concerning the
 prior limit, subsequent limit, and middle.
 
-The Blessed One said, “Monks, I shall teach you dependent arising and the
-dependently arisen dharmas.” What distinguishes them? From the standpoint of
-the treatise, initially nothing: both expressions range over all conditioned
-dharmas. A question follows: how can future dharmas, not yet arisen, be called
-dependently arisen? The reply compares their being called conditioned before
-actual production: they have been intended by formative volition. Even future
-untainted dharmas have been intended with respect to acquisition by wholesome
-volition. The threatened extension to nirvāṇa is blocked by designation
-according to kind, as something not yet visibly formed may nevertheless be
-called form because it belongs to that kind.
+The Blessed One said, “Monks, I shall teach you *samutpāda* and Dharmas
+arisen in dependence.” What distinguishes them? From the standpoint of the
+treatise, initially nothing: both expressions range over all conditioned
+Dharmas. A question follows: how can future Dharmas, not yet arisen, be
+called arisen in dependence? The reply compares their being called
+conditioned before actual production: they have been intended by formative
+volition. Even future untainted Dharmas have been intended with respect to
+acquisition by wholesome volition. The threatened extension to Nirvāṇa is
+blocked by designation according to kind, as something not yet visibly
+manifest may nevertheless be called Form because it belongs to that kind.
 
 The sūtra's intention, however, is this: “Here dependent arising is cause,
 while the dependently arisen is regarded as result.” A member functioning as
@@ -354,29 +354,29 @@ final dharmas are dependently arisen but not dependent arising; other past
 and present dharmas are both; unconditioned dharmas are neither.
 
 The Sautrāntikas object that these are school theses rather than the meaning
-of the sūtra. They reject the stage-based interpretation of twelve five-
-aggregate states because the sūtra defines ignorance itself as non-knowledge
-concerning the past and so forth. A text whose meaning is explicit should not
-be reinterpreted.
+of the sūtra. They reject the stage-based interpretation of twelve states of
+the five Bases because the sūtra defines ignorance itself as non-knowing
+concerning the past and so forth. A text whose meaning is explicit should
+not be reinterpreted.
 
 The reply says not every explicit-looking statement is definitive and that
 teachings may name a complex by what predominates. The elephant-footprint
-sūtra, for example, explains earth-element through hair and body-hair even
-though other material qualities are present there. The Sautrāntika rejoinder
-is that this is a collection of examples of earth-element, not the naming of
-hair as a five-aggregate stage; the definition is complete rather than
-residual. Even other bodily earth-element is covered by the phrase concerning
-whatever else is hard and solid. If an unmentioned remainder of ignorance can
-be shown, let it be shown—but why insert dharmas of another kind into
-ignorance?
+sūtra, for example, explains the Earth Principle through hair and body-hair
+even though other material qualities are present there. The Sautrāntika
+rejoinder is that this is a collection of examples of the Earth Principle,
+not the naming of hair as a five-Base stage; the definition is complete
+rather than residual. Even other bodily instances of the Earth Principle are
+covered by the phrase concerning whatever else is hard and solid. If an
+unmentioned remainder of ignorance can be shown, let it be shown—but why
+insert Dharmas of another kind into ignorance?
 
-Although all five aggregates occur in the proposed stages, the member should
-be fixed by the factor whose presence and absence govern the relevant effect.
-An arhat has five aggregates, yet formations productive of renewed existence
-do not arise from the five aggregates as such; they arise from ignorance.
-Likewise cognition destined toward meritorious, nonmeritorious, or
-imperturbable results, and craving and the rest, depend upon their specifically
-stated conditions. The sūtra means what its definitions say.
+Although all five Bases occur in the proposed stages, the member should be
+fixed by the factor whose presence and absence govern the relevant effect.
+An Arhat has five Bases, yet Formations productive of renewed existence do
+not arise from the five Bases as such; they arise from ignorance. Likewise
+Cognition destined toward meritorious, nonmeritorious, or imperturbable
+results, and craving and the rest, depend upon their specifically stated
+conditions. The sūtra means what its definitions say.
 
 The Sautrāntikas also reject the simple cause/result gloss and the fourfold
 classification as extra-scriptural. The sūtra defines dependent arising as
@@ -398,8 +398,8 @@ dependent arising. Arising is a characteristic of the conditioned; an eternal
 entity cannot be the characteristic of what is impermanent, nor could such a
 separate entity be properly related to ignorance and the other members.
 
-The text then analyzes the expression. `Pratītya` is explained as “having
-reached or depended upon,” and `samutpāda` as manifestation or arising:
+The text then analyzes the expression. *Pratītya* is explained as “having
+reached or depended upon,” and *samutpāda* as manifestation or arising:
 arising upon reaching a condition. A grammatical objection says the absolutive
 normally gives an earlier action by the same agent—“having bathed, he eats.”
 But before arising no entity exists that could first depend and later arise,
@@ -420,8 +420,8 @@ that arises. Verses add that an absolutive can also occur with simultaneous
 relations, as darkness goes upon obtaining a lamp or someone sleeps with the
 mouth opened. Others propose a different etymology involving distributive
 conditions and unstable things arising through assemblages of causes, but the
-proposal does not fit formulations such as “depending on eye and forms,
-eye-consciousness arises.”
+proposal does not fit formulations such as “depending on the Eye Faculty and
+Forms, Eye-Cognition arises.”
 
 Why does the Buddha state both “when this exists, that exists” and “from the
 arising of this, that arises”? Suggested answers include: emphasis; showing
@@ -459,23 +459,23 @@ failing to know that this is merely dependently arisen formation, adheres to
 self-view and the conceit “I am,” and undertakes bodily, verbal, and mental
 karma for personal pleasure or avoidance of pain: meritorious karma for
 future pleasure, imperturbable karma for refined neutral or pleasant result,
-and nonmeritorious karma for pleasure in this life. These are formations
-conditioned by ignorance. Through their projective power, the consciousness-
+and nonmeritorious karma for pleasure in this life. These are Formations
+conditioned by ignorance. Through their projective power, the Cognition-
 continuum proceeds to its destiny through intermediate existence, like the
 movement of a flame.
 
-Consciousness is conditioned by formations other than itself; this permits
-the consciousness-member to be specified as the six classes of consciousness.
-Conditioned by consciousness, five-aggregate name-and-form arises throughout
-the life in the respective destiny. As name-and-form matures, the six sense
-spheres arise in sequence. With objects available, consciousness occurs; the
-conjunction of the three is contact capable of producing pleasure and the
-other feelings; from it arise the three feelings.
+Discriminative Cognition is conditioned by Formations other than itself; this
+permits the Cognition-member to be specified as the six classes of Cognition.
+Conditioned by Cognition, Name-and-Form constituted by five Bases arises
+throughout life in the respective destiny. As Name-and-Form matures, the six
+Essences arise in sequence. With Conditions available, Cognition occurs; the
+conjunction of the three is Contact capable of producing pleasant and other
+Feelings; from it arise the three Feelings.
 
-From feeling comes craving: desire-realm craving for one oppressed by pain
-and oriented toward pleasant feeling; form-realm craving in relation to
-pleasant and neutral feeling; formless-realm craving in relation to neutral
-feeling. From craving for agreeable feeling comes appropriation of sensuality,
+From Feeling comes Craving: Desire-Realm craving for one oppressed by pain
+and oriented toward pleasant Feeling; Form-Realm craving in relation to
+pleasant and neutral Feeling; Formless-Realm craving in relation to neutral
+Feeling. From craving for agreeable Feeling comes appropriation of sensuality,
 views, rules and observances, and a doctrine of self. Sensuality is the five
 sense-qualities; views are the sixty-two described in the *Brahmajāla*;
 rules include abstention from misconduct; observances include dog- and
@@ -487,19 +487,19 @@ which “self” is asserted; others take it as self-view and the conceit “I a
 Because no self exists, appropriation of a self-doctrine is appropriation of
 a mere designation. Scripture says that the uninstructed ordinary person
 follows the designation “self,” though no self or what belongs to self is
-there. Appropriation is desire-and-passion directed toward these objects.
+there. Appropriation is desire-and-passion directed toward these domains.
 
 Conditioned by appropriation, karma productive of renewed existence is
-accumulated; this is becoming. Conditioned by becoming, future five-aggregate
-birth occurs through the descent of consciousness. With birth, aging-and-
-death occurs as taught. Thus arises the whole great aggregate of suffering:
+accumulated; this is Becoming. Conditioned by Becoming, future Birth of the
+five Bases occurs through the descent of Cognition. With Birth,
+Aging-and-Death occurs as taught. Thus arises the whole great Suffering Base:
 “whole” because devoid of anything belonging to self; “great” because the
 mass of suffering is without beginning or end; “arising” means manifestation.
 This is the Vaibhāṣika method stated earlier.
 
-What, then, does ignorance mean? If it meant simply whatever is not knowledge,
-the eye and other non-cognitive dharmas would also become ignorance. If it
-meant the absence of knowledge, it would be nothing at all, which is
+What, then, does ignorance mean? If it meant simply whatever is not knowing,
+the Eye Faculty and other non-cognitive Dharmas would also become ignorance.
+If it meant the absence of knowing, it would be nothing at all, which is
 unsuitable. Therefore ignorance is “a distinct dharma opposed to knowledge,
 as an enemy, untruth, and so forth.”
 
@@ -507,13 +507,14 @@ An enemy is not just anything other than a friend, nor the mere absence of a
 friend; it is something standing opposed to a friend. Truth is called `ṛta`,
 and a statement opposed to it is untruth. Likewise non-dharma, non-benefit,
 and non-duty are adversarial counterparts of dharma, benefit, and duty.
-Ignorance should similarly be understood as a distinct dharma standing
-opposed to knowledge.
+Ignorance should similarly be understood as a distinct Dharma standing
+opposed to knowing.
 
 How is this known? Because ignorance is taught as a condition. Moreover, it
 is called a fetter, bondage, latent tendency, flood, and yoke in the sūtras.
-A mere absence could not function in these ways, nor could the eye and other
-neutral non-knowledge factors. Ignorance is therefore a distinct dharma.
+A mere absence could not function in these ways, nor could the Eye Faculty
+and other neutral non-knowing factors. Ignorance is therefore a distinct
+Dharma.
 
 ## 4. Argumentative Architecture and Voices
 
@@ -554,11 +555,10 @@ The same member may bear both descriptions without disorder because the
 relation (`apekṣā`) differs. The father-and-son comparison makes the form
 clear: one person can be son in one relation and father in another.
 
-The Sautrāntika critique forces a qualification. Dependent arising is not
-exhausted by labeling an entity “cause.” The sūtra also presents the stable
-conditional rule: only with ignorance do formations occur, not otherwise.
-The causal member and the lawfulness of its conditioning relation must not be
-collapsed.
+The Sautrāntikas define dependent arising in terms of lawfulness, stability,
+and non-deceptiveness, objecting to a merely causal gloss. The Bhāṣya records
+this challenge alongside its relational account; the causal member and the
+lawfulness of its conditioning relation must not be collapsed.
 
 ## 6. Stable Law Without an Eternal Entity
 
@@ -640,15 +640,15 @@ This conclusion does not yet decide whether ignorance is a kind of defective
 
 VAK 3.28 yields two complementary controls for the theory of projection.
 First, cause and result are relational roles, not permanent types. The same
-artifact can be an outflow relative to its source and a project relative to
-what it subsequently conditions. Second, ignorance is not missing data. It is
-an active contrary determination capable of bending attention, action, and
-the ensuing causal field.
+dharma can be a result relative to its condition and a cause relative to what
+it subsequently conditions. Second, ignorance is not merely missing
+information. In the Bhāṣya's account, it is an active contrary determination
+capable of conditioning attention, action, and the ensuing causal field.
 
 For an eventual Oculus this implies:
 
 ```text
-artifact identity
+member identity
     must be distinguished from causal role
 
 stable rule

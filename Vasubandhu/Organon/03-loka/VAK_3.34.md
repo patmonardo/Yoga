@@ -31,21 +31,21 @@ ekasya                     → ekasya
 paraḥ                      → paraḥ
 ```
 
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | svaḥ | nominative masculine singular | their own realm, namely the form realm |
-| aṣṭālambanam | accusative/neuter predicate compound in compact enumeration | object-support for eight mental rangings |
+| aṣṭālambanam | accusative/neuter predicate compound in compact enumeration | cognitive Condition for eight Mental Rangings |
 | ārūpyaḥ | nominative masculine singular | the formless realm |
 | dvayoḥ | genitive dual | of two, namely two dharma-rangings |
 | dhyānadvaye | locative singular compound | in the other pair of dhyānas, the third and fourth |
 | tu | adversative particle | but; marks the shift to the more restricted higher pair |
 | ṣaṭ | nominative plural numeral | six, namely the equanimity-rangings |
-| kāmāḥ | nominative masculine plural | the desire realm, expressed elliptically as object-support |
+| kāmāḥ | nominative masculine plural | the desire realm, expressed elliptically as cognitive Condition |
 | ṣaṇṇām | genitive plural numeral | of all six |
 | caturṇām | genitive plural numeral | of four |
 | svaḥ | nominative masculine singular | their own form realm |
 | ekasya | genitive masculine singular | of one, the dharma-ranging |
-| ālambanam | nominative/accusative neuter singular | object-support |
+| ālambanam | nominative/accusative neuter singular | cognitive Condition |
 | paraḥ | nominative masculine singular | the higher realm, namely the formless realm |
 
 The Kārikā is compressed tabular language. The referents and the two dhyāna
@@ -62,13 +62,13 @@ svaḥ [rūpadhātuḥ]
     aṣṭānām ālambanam
 
 their own [form realm]
-    is the object-support of eight
+    is the cognitive Condition for eight
 
-ārūpyaḥ
+Ārūpyaḥ
     dvayoḥ [ālambanam]
 
 the formless realm
-    is [the object-support] of two
+    is [the cognitive Condition] for two
 ```
 
 The second distribution concerns the third and fourth dhyānas:
@@ -78,13 +78,13 @@ dhyāna-dvaye tu ṣaṭ
     = but in the [latter] pair of dhyānas there are six
 
 kāmāḥ ṣaṇṇām [ālambanam]
-    = the desire realm is the object-support of all six
+    = the desire realm is the cognitive Condition for all six
 
 svaḥ caturṇām [ālambanam]
-    = their own realm is the object-support of four
+    = their own realm is the cognitive Condition for four
 
 paraḥ ekasya ālambanam
-    = the higher realm is the object-support of one
+    = the higher realm is the cognitive Condition for one
 ```
 
 The Bhāṣya identifies the six as the six equanimity-rangings and the one as
@@ -94,124 +94,113 @@ the dharma-ranging.
 
 ### Close syntactic construe
 
-> Their own [realm] is the object-support of eight, and the formless realm of
+> Their own [realm] is the cognitive Condition for eight, and the Formless realm for
 > two. But in the [latter] pair of dhyānas there are six. The desire realm is
-> the object-support of all six, their own realm of four, and the higher realm
+> the cognitive Condition for all six, their own realm for four, and the higher realm
 > of one.
 
 ### Bhāṣya-informed study translation
 
 > For the mental rangings belonging to the first two dhyānas, their own form
-> realm can serve as the object-support of eight—the four odor- and
-> taste-rangings being excluded—and the formless realm can support their two
-> dharma-rangings. In the third and fourth dhyānas, only the six
-> equanimity-rangings occur. All six may take the lower desire realm as their
-> object-support; four may take their own form realm, where odor and taste are
-> absent; and one, the dharma-ranging, may take the higher formless realm.
+> realm can serve as cognitive Condition for eight—the four Smell- and
+> Taste-Rangings being excluded—and the Formless realm can condition their two
+> Dharma-Rangings. In the third and fourth dhyānas, only the six
+> equanimity-Rangings occur. All six may take the lower desire realm as their
+> Condition; four may take their own Form realm, where Smell and Taste are
+> absent; and one, the Dharma-Ranging, may take the higher Formless realm.
 
 The reference of `sva`, the identification of the two dhyāna pairs, and the
-affective and object-field membership of each count are Bhāṣya determinations.
+affective and Condition membership of each count are Bhāṣya determinations.
 
-## 6. Philosophical Translation
-
-> A higher station does not produce unlimited reach. It transforms the mode
-> under which a field can be reached. In the first two form-realm meditations,
-> gladness and equanimity permit a differentiated range over lower, own, and
-> higher domains. In the third and fourth, only equanimity remains; yet from
-> that station the whole sixfold desire-field is still available, four fields
-> of the form realm are available, and the dharma-field alone opens toward the
-> formless realm. Ascending the World System changes the law of access without
-> simply abolishing the lower World.
-
-## 7. Technical Vocabulary
+## 6. Technical Vocabulary
 
 | Sanskrit | Controlled rendering | Determination in this unit |
 |---|---|---|
-| sva | own | the form realm relative to form-associated mental rangings |
-| para | higher | the formless realm relative to a form-realm station |
-| ālambana | object-support | realm or field cognitively taken up by a mental ranging |
+| sva | own | the Form realm relative to form-associated Mental Rangings |
+| para | higher | the Formless realm relative to a Form-realm station |
+| ālambana | cognitive Condition | realm or field on which a Mental Ranging depends |
 | dhyānadvaya | pair of dhyānas | contextually either the first–second or third–fourth pair |
-| upekṣopavicāra | equanimity-ranging | sole affective class present in the third and fourth dhyānas |
-| saumanasyopavicāra | gladness-ranging | present in the first two dhyānas but absent from the latter pair |
-| daurmanasyopavicāra | distress-ranging | already excluded from all four form-realm dhyānas in this distribution |
-| gandhopavicāra | odor-ranging | excluded when the form realm is object-support |
-| rasopavicāra | taste-ranging | excluded when the form realm is object-support |
-| dharmopavicāra | dharma-ranging | the sole ranging able here to take the formless realm as support |
-| rūpapratisaṃyukta | connected with the form realm | realm-membership of the mental rangings analyzed here |
-| kāmadhātu | desire realm | lower domain available to all six equanimity-rangings |
-| rūpadhātu | form realm | own domain available to four of the six |
-| ārūpyadhātu | formless realm | higher domain available to one of the six |
-| gandharasābhāva | absence of odor and taste | reason only four object-fields of the form realm are accessible |
+| upekṣopavicāra | equanimity-Ranging | sole affective class present in the third and fourth dhyānas |
+| saumanasyopavicāra | gladness-Ranging | present in the first two dhyānas but absent from the latter pair |
+| daurmanasyopavicāra | distress-Ranging | already excluded from all four Form-realm dhyānas in this distribution |
+| gandhopavicāra | Smell-Ranging | excluded when the Form realm is the Condition |
+| rasopavicāra | Taste-Ranging | excluded when the Form realm is the Condition |
+| dharmopavicāra | Dharma-Ranging | the sole Ranging able here to take the Formless realm as Condition |
+| rūpapratisaṃyukta | connected with the Form realm | realm-membership of the Mental Rangings analyzed here |
+| kāmadhātu | desire realm | lower domain available to all six equanimity-Rangings |
+| rūpadhātu | Form realm | own domain available to four of the six |
+| ārūpyadhātu | Formless realm | higher domain available to one of the six |
+| gandharasābhāva | absence of Smell and Taste | reason only four Conditions of the Form realm are accessible |
 
 The relative terms form a topology around the stationed operation:
 
 ```text
-adhara: kāmadhātu      lower object-domain
-sva:   rūpadhātu      own object-domain
-para:  ārūpyadhātu    higher object-domain
+adhara: kāmadhātu      lower realm-Condition
+sva:   rūpadhātu      own realm-Condition
+para:  ārūpyadhātu    higher realm-Condition
 ```
 
-## 8. Logical Determination
+## 7. Logical Determination
 
 ### First and second dhyānas
 
-The twelve mental rangings established in 3.33 comprise gladness and
-equanimity across six object-fields. Their cross-realm range is:
+The twelve Mental Rangings established in 3.33 comprise gladness and
+equanimity across six Conditions. Their cross-realm range is:
 
-| object-support realm | admissible rangings | determination |
+| realm as cognitive Condition | admissible Mental Rangings | determination |
 |---|---:|---|
 | desire realm | 12 | established in 3.33 |
-| own form realm | 8 | form, sound, tangible, and dharma × two affective modes |
-| higher formless realm | 2 | dharma × gladness or equanimity |
+| own Form realm | 8 | Form, Sound, Tangible, and Dharma × two affective modes |
+| higher Formless realm | 2 | Dharma × gladness or equanimity |
 
 Thus:
 
 ```text
-own realm lacks odor and taste
-    → 2 omitted fields × 2 available modes
+own realm lacks Smell and Taste
+    → 2 omitted Conditions × 2 available modes
     → 4 exclusions
     → 12 − 4 = 8
 
-higher realm supplies only dharma as object-field
+higher realm supplies only Dharma as Condition
     → 1 field × 2 available modes
     → 2
 ```
 
 ### Third and fourth dhyānas
 
-The Agent-state is affectively narrowed:
+The available affective mode is narrowed:
 
 ```text
-gladness-rangings: absent
-distress-rangings: absent
-equanimity-rangings: 6
+gladness-Rangings: absent
+distress-Rangings: absent
+equanimity-Rangings: 6
 ```
 
 Those six have a lower–own–higher accessibility profile:
 
-| object-support realm | admissible rangings | determination |
+| realm as cognitive Condition | admissible Mental Rangings | determination |
 |---|---:|---|
-| lower desire realm | 6 | all six object-fields |
-| own form realm | 4 | odor and taste absent |
-| higher formless realm | 1 | dharma-field alone |
+| lower desire realm | 6 | all six Conditions |
+| own Form realm | 4 | Smell and Taste absent |
+| higher Formless realm | 1 | Dharma alone |
 
 ### Refinement changes access mode
 
 ```text
 higher dhyāna station
     → narrower affective repertoire
-    → not necessarily narrower lower-realm object range
+    → not necessarily narrower lower-realm Condition range
 ```
 
 The third and fourth dhyānas lose gladness as an available ranging-mode, but
-their six equanimity-rangings can still take all six desire-realm fields as
-object-support. Therefore:
+their six equanimity-Rangings can still take all six desire-realm Conditions.
+Therefore:
 
 ```text
 removal of an affective mode
-    ≠ removal of the object-domain
+    ≠ removal of the realm-Condition
 
-same object-domain
+same realm-Condition
     + transformed mode of ranging
     = transformed access
 ```
@@ -221,63 +210,31 @@ same object-domain
 An admissible mental ranging is determined by compatibility among:
 
 ```text
-<realm of belonging, affective mode, object-support field>
+<realm of belonging, affective mode, cognitive Condition>
 ```
 
 No one coordinate alone determines the operation.
 
-## 9. Interpretive Note
+## 9. Interpretation
 
-This is the dhātu architecture becoming operational. The three realms are not
-merely stacked cosmic places. Relative to a form-realm Agent, they become
-lower, own, and higher domains of possible cognitive reach. `Dhātu` is
-therefore functioning as a determinate field whose constitution governs
-access.
+The distribution holds three determinations together: realm-connection,
+affective mode, and cognitive Condition. For the first two dhyānas, the
+Form-realm Conditions support eight rangings and the Formless realm supports
+two. In the third and fourth, six equanimity-Rangings reach the desire realm,
+four reach the Form realm, and one reaches the Formless realm. The Condition's
+constitution and the ranging's station jointly determine this distribution.
 
-The striking result is that ascent does not delete the lower field. In the
-third and fourth dhyānas, the Agent can still range over all six desire-realm
-object-fields. What has disappeared is not the lower World but gladness and
-distress as modes of ranging. The lower field is now traversed through
-equanimity.
+BEP is the indivisible Singular Matrix—vertical and horizontal, Mahat-fueled,
+the OG Matrix of the Other Side, the House of God, Satya Loka, Paramārtha.
+It does not itself enter appearances.
 
-```text
-same desire-realm Dataset
-    ocularized from a transformed station
-        through a transformed affective mode
-```
-
-That is a more exact account of Learning than simple accumulation. Learning
-can transform the mode by which the same content is taken up. The Dataset need
-not change for the Agent's access relation to change profoundly.
-
-The counts also express typed accessibility. A field cannot be reached under
-an object-type it does not contain. The form realm lacks odor and taste, so
-only four of the six equanimity-rangings find support there. The formless realm
-supports only the dharma-ranging. This is not an external permission table;
-the access constraint follows from the dhātu's own constitution.
-
-For the Client SDK, the relation can be projected as:
-
-```ts
-interface DhatuAccess {
-  station: Realm;
-  dhyana: DhyanaLevel;
-  affectiveMode: AffectiveMode;
-  objectRealm: Realm;
-  objectField: ObjectField;
-}
-```
-
-An instance is valid only if the five determinations agree. This projection
-does not replace the Abhidharma table; it reveals why the table is logically
-powerful. Vasubandhu is specifying a constrained space of possible operations,
-not parading cosmic furniture before us.
-
-The World System is thus a topology of Learning. A station determines which
-affective operations are available; a target dhātu determines which fields
-can support them; and cross-domain ranging preserves both determinations.
-Higher and lower are relational coordinates inside one articulated World,
-not two sealed worlds between which an unexplained subject must jump.
+In the inner-instrument Techne, Vijñāna is Discriminative Cognition joining
+and governing Perception and Conception, Inconceivable as a homogeneous
+operation and disclosed in Cognition Base. It governs Manas and guides the
+reading of Dharma Base, remaining distinct from consciousness (*citta*) and
+Mind (*manas*). Form Base and Dharma Base classify the same *avijñapti*, and
+Vijñāna bears a *prati* relation to it. Each Dharma has the Defined Concept
+`<Base, Essence, Principle>`.
 
 ## 10. OWL++ Seed
 
@@ -307,16 +264,16 @@ vak:ThirdAndFourthDhyanas
     vak:hasHigherRealmRangingCount 1 .
 
 vak:FormRealm
-    vak:lacksObjectField vak:SmellField, vak:TasteField .
+    vak:lacksCondition vak:SmellCondition, vak:TasteCondition .
 
 vak:FormlessRealm
-    vak:admitsObjectField vak:DharmaField .
+    vak:admitsCondition vak:DharmaCondition .
 
-organon:TypedDhatuAccess
-    a organon:ProjectInterpretation ;
-    organon:hasCoordinate organon:RealmOfBelonging,
-        organon:DhyanaLevel, organon:AffectiveMode,
-        organon:ObjectRealm, organon:ObjectField ;
-    organon:constrainedBy organon:StationCapacity,
-        organon:TargetDhatuConstitution .
+organon:BEP
+    a organon:SingularMatrix ;
+    organon:hasAspect organon:Vertical, organon:Horizontal ;
+    organon:isMahatFueled true ;
+    organon:designates organon:OtherSide, organon:SatyaLoka,
+        organon:Paramartha ;
+    organon:doesNotEnter vak:Appearance .
 ```

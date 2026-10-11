@@ -1,4 +1,4 @@
-# VAK_3.32 Bhāṣya — Feeling, Causal Sequence, and Mental Ranging
+# VAK_3.32 Bhāṣya — Feeling and Mental Ranging
 
 ## 1. Kārikā Anchor
 
@@ -7,14 +7,14 @@ tajjāḥ ṣaḍvedanāḥ pañca kāyikī caitasī parā /
 punaś cāṣṭādaśavidhā sā manopavicārataḥ // 3.32 //
 ```
 
-> Born from those contacts are six feelings. Five are bodily; the other is
-> mental. That mental feeling is again eighteenfold according to mental
-> ranging.
+> Born from those Contacts are six Feelings. Five are bodily; the other is
+> mental. That mental Feeling is again eighteenfold according to Mental
+> Ranging.
 
-The Bhāṣya first divides feeling by the contact from which it arises and by
-its support. It then preserves an extended dispute over whether contact and
-feeling are simultaneous or successive before returning to the eighteen
-mental rangings.
+The Bhāṣya first divides Feeling by the Contact from which it arises and by
+its support. It then preserves an extended dispute over whether Contact and
+Feeling are simultaneous or successive before returning to the eighteen
+Mental Rangings.
 
 ## 2. Continuous Sanskrit
 
@@ -132,26 +132,23 @@ kasmāt kāyikī vedanā na manopavicāraḥ? naiva hy asau mana evāśritā nā
 upavicārikā, avikalpakatvād ity ayogaḥ.
 ```
 
-The running witness is unusually corrupt in this unit. The continuous text
-regularizes obvious mechanical errors and reconstructs several required
-forms, including the moment-sequence around 145.20 and the nine planes at
-146.06–10. At 145.09–10 the running source has `sūtre tv aniṣṭam`; the
-continuous text provisionally reads `śāstre tv aniṣṭam` to preserve the
-argument's contrast between what the treatise accepts and the sūtra denies.
-Those repairs are provisional; the argument must be checked
-against critical Sanskrit and parallel witnesses before being treated as an
-established text.
+The supplied witness contains corrupt spellings and joins. The continuous
+text provisionally regularizes the moment-sequence around 145.20 and the
+three sets of grounds at 146.06–10. At 145.09–10 the witness reads
+`sūtre tv aniṣṭam`; the rendering provisionally reads `śāstre tv aniṣṭam`
+to preserve the passage's contrast between treatise and sūtra. These
+readings remain provisional; the source file is unchanged.
 
-## 3. Continuous Conventional Translation
+## 3. Scientific English Rendering
 
-Feeling must now be explained. The sixfold contact previously stated gives
-rise to six feelings: feelings born from eye-contact, ear-contact,
-nose-contact, tongue-contact, body-contact, and mind-contact. The first five
-are called bodily feeling because they depend upon material faculties. The
-feeling born from mind-contact is called mental because it depends upon mind
-alone.
+Feeling must now be explained. The sixfold Contact previously stated gives
+rise to six Feelings: Feelings born from Eye-Contact, Ear-Contact,
+Nose-Contact, Tongue-Contact, Body-Contact, and Mind-Contact. The first five
+are called bodily Feeling because they are supported by Form Faculties. The
+Feeling born from Mind-Contact is called mental because it is supported by
+consciousness (*citta*) alone.
 
-Does feeling arise after contact or at the same time? The Vaibhāṣikas say at
+Does Feeling arise after Contact or at the same time? The Vaibhāṣikas say at
 the same time, because the two are mutually coexistent causes. An objection
 asks how two things arising together can stand as generated and generator.
 The reply asks why they cannot. “Because a dharma has no productive capacity
@@ -161,98 +158,102 @@ each generate the other? There is no fault, because mutual fruition is
 accepted for coexistent causes.
 
 An opponent answers that, even if this is accepted in the treatise, mutual
-fruition between contact and feeling is not accepted in the sūtra. The sūtra
-says that eye-contact conditions feeling born from eye-contact, not that such
-feeling conditions eye-contact. Moreover, a productive dharma is ordinarily
+fruition between Contact and Feeling is not accepted in the sūtra. The sūtra
+says that Eye-Contact conditions Feeling born from Eye-Contact, not that such
+Feeling conditions Eye-Contact. Moreover, a productive Dharma is ordinarily
 earlier than what it produces: seed before sprout, milk before curd, impact
-before desire, and mind-faculty before mental cognition. Otherwise, because
+before desire, and Mind-Faculty before Mind-Cognition. Otherwise, because
 cause and effect depend upon a series, everything would arise simultaneously
 or nothing would ever arise, since there would be no later difference.
 
 The Vaibhāṣikas maintain that coexistence is also established and compare
-contact and feeling to shadow and sprout. The opposing side replies that even
-the cited cases can be understood from earlier conditions: faculty and object
-precede cognition, and a later aggregate of primary and derivative matter
-arises from an earlier aggregate.
+Contact and Feeling to shadow and sprout. The opposing side replies that even
+the cited cases can be understood from earlier Conditions: Faculty and
+Meaning precede Cognition, and a later configuration of Great Principles and
+Principle-dependent Forms arises from an earlier configuration.
 
-Others therefore say that feeling occurs after contact. Faculty and object
-occupy the first moment, cognition the second; the conjunction of the three
-is contact, and feeling conditioned by contact follows in the third moment.
-The objection is that feeling would then not occur in every cognition, nor
-would every cognition be contact. The reply says that feeling in a later
-contact has the previous contact as its cause, while every contact has its
-feeling and every cognition is contact.
+Others therefore say that Feeling occurs after Contact. Faculty and Meaning
+occupy the first moment, Cognition the second; the conjunction of the three
+is Contact, and Feeling conditioned by Contact follows in the third moment.
+The objection is that Feeling would then not occur in every Cognition, nor
+would every Cognition be Contact. The reply says that Feeling in a later
+Contact has the previous Contact as its cause, while every Contact has its
+Feeling and every Cognition is Contact.
 
-That account is challenged when successive contacts have different objects:
-how could feeling generated by contact with one kind of object possess
-another object, different also from that of the mind with which it is
-associated? The successive account allows cognition functioning as contact
-to lack feeling at that moment and the prior cognition possessing feeling not
-to be contact. Asked what fault follows, its defender is confronted with the
-rule that the ten universal mental factors occur in every mind.
+That account is challenged when successive Contacts have different
+Conditions: how could Feeling generated by Contact with one Condition have a
+different Condition, distinct also from that of the Mind with which it is
+associated? The successive account allows Cognition functioning as Contact
+to lack Feeling at that moment and the prior Cognition possessing Feeling
+not to be Contact. Asked what fault follows, its defender is confronted with
+the rule that the ten Great-Ground Dharmas occur in every instance of
+consciousness (*citta*).
 
 Where is that rule established? In the treatise. “We take the sūtras as
 authority, not the treatises,” for the Blessed One said that one should rely
-upon the discourses. An alternative construal says that “universal” need not
-mean that all ten factors occur in every mind. It can mean that certain
-factors occur, as appropriate rather than all simultaneously, throughout the
-three contemplative planes, the wholesome, unwholesome, and indeterminate
-planes, and the trainee, adept, and neither-trainee-nor-adept planes.
-The unwholesome universal factors were not included in this recitation;
-formerly they were not recited.
+upon the sūtras. An alternative construal says that “Great-Ground” need not
+mean that all ten Dharmas occur in every instance of consciousness
+simultaneously. It can mean that they occur, as appropriate, across three cognitive grounds:
+one with applied and sustained thought, one without applied thought and with
+sustained thought alone, and one without either; three ethical grounds—
+wholesome, unwholesome, and indeterminate; and three path grounds—in-training,
+beyond-training, and neither-in-training-nor-beyond-training. The unwholesome
+Great-Ground Dharmas were not included in this recitation; formerly they
+were not recited.
 
 Scriptural arguments continue. One sūtra says that with eye and forms as
-conditions eye-cognition arises; the conjunction of the three is contact;
-feeling, recognition, and volition are co-arisen. The reply notes that it says
-“co-arisen,” not “co-arisen with contact,” and that “together with” can also
-apply to what follows immediately. Another sūtra says that feeling,
-recognition, volition, and cognition are blended rather than unblended. Yet
-the meaning of “blended” must be determined: does it establish identity of
-object-support or identity of moment?
+Conditions Eye-Cognition arises; the conjunction of the three is Contact;
+Feeling, recognition, and volition are co-arisen. The reply notes that it
+says “co-arisen,” not “co-arisen with Contact,” and that “together with” can
+also apply to what follows immediately. Another sūtra says that Feeling,
+recognition, volition, and Cognition are blended rather than unblended. Yet
+the meaning of “blended” must be determined: does it establish the same
+cognitive Condition/support or the same moment?
 
 The counterargument notes that life and heat are called “blended” when they
 coexist, supporting a same-moment reading. It also invokes the definition
-of contact as the conjunction of three. How could cognition exist without
-the threefold conjunction and therefore without contact? It concludes that
-contact must occur wherever cognition occurs and feeling must arise together
-with contact. Enough of this overextended discussion; the original sequence
+of Contact as the conjunction of three. How could Cognition exist without
+the threefold conjunction and therefore without Contact? It concludes that
+Contact must occur wherever Cognition occurs and Feeling must arise together
+with Contact. Enough of this extended discussion; the original sequence
 should be resumed.
 
-Mental feeling has been stated in summary. It is again divided eighteenfold
-through the establishment of eighteen mental rangings; the connection marked
-by “again” is to be observed here. There are six rangings of
-gladness, six of distress, and six of equanimity. Why exactly eighteen? By
-own-nature alone there would be three; by association alone there would be
-one, since all are associated with mind; by object-support alone there would
-be six, since their objects are the six fields beginning with form. The
-eighteen are established by all three determinations.
+Mental Feeling has been stated in summary. It is again divided eighteenfold
+through the establishment of eighteen Mental Rangings; the link marked by
+“again” is to be observed here. There are six rangings of gladness, six of
+distress, and six of equanimity. Why exactly eighteen? By intrinsic character
+alone there would be three; by association alone there would be one, since
+all are associated with Mind; by cognitive Condition/support alone there
+would be six, since the Conditions are the six fields beginning with Form.
+The eighteen are established by all three determinations.
 
-Of them, the fifteen rangings over form through tangible objects have
-unmixed, specifically fixed object-supports. The three dharma-object rangings
-can operate both ways. What does “mental ranging” mean? One explanation says
-that, dependent upon mind, gladness and the others range over objects. Others
-say that they make mind range over its objects, since under the influence of
-feeling mind ranges through objects again and again.
+Of these, the fifteen rangings through the Form-to-Tangible Conditions have
+unmixed, specifically fixed cognitive Conditions/supports. The three
+Dharma-Condition rangings allow both mixed and unmixed support. What does
+“Mental Ranging” mean? One explanation says that, dependent upon Mind,
+gladness and the others range through Conditions. Others say that they make
+Mind range through Conditions, since under the influence of Feeling, Mind
+ranges through Conditions again and again.
 
-Why is bodily feeling not mental ranging? Because it neither depends upon
-mind alone nor performs such ranging, since it is non-discriminative.
+Why is bodily Feeling not Mental Ranging? Because it is neither supported by
+Mind alone nor itself a ranging operation, since it is
+non-discriminative.
 
 ## 4. Argument and Voices
 
-The natural unit contains a sustained dialectic, not a single settled causal
-formula:
+The natural unit contains a sustained dialectic:
 
-- the exposition defines six feelings and divides them by material or mental
-  support;
-- the Vaibhāṣikas defend simultaneous contact and feeling through coexistent
+- the exposition defines six Feelings and divides them by Form-Faculty or
+  consciousness support
+- the Vaibhāṣikas defend simultaneous Contact and Feeling through coexistent
   causation;
-- opposing speakers defend temporal succession through ordinary causal
+- opposing speakers defend temporal succession through causal
   priority and dependent-arising language;
-- both sides test their models against object continuity, universal mental
-  factors, and several sūtra formulations;
-- a sharp intervention subordinates treatise authority to the discourses;
-- the prose finally returns to the verse and generates eighteen mental
-  rangings from affective mode and object-field.
+- both sides test their models against cognitive Condition continuity, the
+  Great-Ground Dharmas, and several sūtra formulations;
+- a sharp intervention subordinates treatise authority to sūtra authority;
+- the prose returns to the verse and generates eighteen Mental Rangings
+  from affective mode and cognitive Condition.
 
 The speaker of every short objection and reply is not always explicit in the
 running text. The Study therefore attributes only the named Vaibhāṣika and
@@ -264,25 +265,25 @@ arguments within the recorded debate.
 The first classification follows causal origin:
 
 ```text
-6 contacts
-    → 6 contact-born feelings
+6 Contacts
+    → 6 Contact-born Feelings
 ```
 
 The next classification follows support:
 
 ```text
-5 feelings supported by material faculties
+5 Feelings supported by Form Faculties
     → kāyikī vedanā
       bodily feeling
 
-1 feeling supported by mind alone
+1 Feeling supported by consciousness (*citta*) alone
     → caitasikī vedanā
       mental feeling
 ```
 
-“Bodily” here is a technical grouping by support. It does not mean that the
-five feelings form one additional body-substance, nor does “mental” mean that
-its object must itself be non-material.
+“Bodily” and “mental” name the two supports stated in the Bhāṣya: the first
+five Feelings are supported by Form Faculties; the sixth is supported by
+consciousness (*citta*) alone.
 
 ## 6. Simultaneous or Successive?
 
@@ -290,26 +291,22 @@ The two principal models are:
 
 ```text
 Vaibhāṣika
-    contact ∥ feeling
+    Contact ∥ Feeling
     coexistent causal relation
 
 Other teachers
-    faculty/object → cognition/contact → feeling
+    Faculty/Meaning → Cognition/Contact → Feeling
     successive moments
 ```
 
-The debate exposes pressure on each model. Simultaneity must explain how
-co-arisen dharmas can be cause and effect without contradicting the sūtra's
-one-way formulation. Succession must explain how cognition can occur without
-feeling in the same moment, how feeling preserves its object across changing
-contacts, and how this fits teachings that present mental factors as blended
-or co-arisen.
+The debate tests each model against coexistent causality, the sūtra's
+one-way statement of Contact and Feeling, causal priority, and the
+continuity of cognitive Conditions across changing Contacts.
 
-The closing inference favors the inseparability of cognition, contact, and
-co-arisen feeling. But the length and unresolved exegetical turns should not
-be flattened into an elementary linear pipeline. The passage demonstrates
-the difficulty of reconciling dependent-arising sequence, momentary analysis,
-coexistent causality, and scriptural diction.
+The closing argument establishes Contact wherever Cognition occurs and
+Feeling co-arisen with Contact. The preceding objections and replies retain
+the full tension among dependent-arising sequence, momentary analysis,
+coexistent causality, and sūtra wording.
 
 ## 7. Sūtra and Treatise as Evidence
 
@@ -321,31 +318,26 @@ sūtrapramāṇakā vayaṃ na śāstrapramāṇakāḥ
 
 > We take the sūtras as authority, not the treatises.
 
-appears when the rule that all ten universal factors occur in every mind is
-invoked against the successive model. Its local function is precise: a
-scholastic rule cannot end the dispute merely because a treatise states it.
-The following alternative construal of `mahābhūmika` further weakens the
-inference from “universal” to “all simultaneously present in every mind.”
-
-This does not make the entire discussion anti-Abhidharma. Both sides continue
-with close sūtra exegesis, and the final argument supports contact and feeling
-wherever cognition occurs. The methodological hierarchy disciplines the
-system; it does not abolish systematic reasoning.
+appears when the rule that all ten Great-Ground Dharmas occur in every
+instance of consciousness is invoked against the successive model. Its local
+function is precise: the treatise's formulation is tested against the sūtra.
+The following alternative construal of `mahābhūmika` distinguishes
+universality across grounds from the claim that all ten Dharmas occur
+simultaneously in every instance of consciousness.
 
 ## 8. The Eighteen Mental Rangings
 
-Mental feeling is divided through three affective modes across six
-object-fields:
+Mental Feeling is divided through three modes across six Conditions:
 
 ```text
 6 saumanasya-upavicāras
-    rangings of gladness
+    gladness-Rangings
 
 6 daurmanasya-upavicāras
-    rangings of distress
+    distress-Rangings
 
 6 upekṣā-upavicāras
-    rangings of equanimity
+    equanimity-Rangings
 
 3 × 6 = 18
 ```
@@ -353,78 +345,49 @@ object-fields:
 The Bhāṣya tests the possible grounds explicitly:
 
 ```text
-own-nature alone     → 3
-association alone    → 1
-object-support alone → 6
-combined placement   → 18
+intrinsic character alone        → 3
+association with Mind alone      → 1
+cognitive Condition/support alone → 6
+all three grounds together       → 18
 ```
 
-The fifteen associated with the first five object-fields have specifically
-fixed, unmixed objects. The three dharma-object rangings can take mixed or
-unmixed object-supports. `Manopavicāra` is then explained either as the
-affective states ranging through objects dependent upon mind or as their
-making mind range through objects. The common determination is repeated
-mental traversal under the influence of feeling.
+The fifteen associated with Form through Tangible Conditions have specifically
+fixed, unmixed cognitive Conditions/supports. The three Dharma-Condition
+Rangings allow mixed or unmixed support. `Manopavicāra` is then explained
+either as the affective modes ranging through Conditions dependent upon Mind
+or as their making Mind range through Conditions. The common determination
+is repeated Mental Ranging under the influence of Feeling.
 
-Bodily feeling is excluded not because it is unreal or affectively inert,
-but because it is not supported by mind alone and is non-discriminative. The
-criterion combines support with mode of operation.
+Bodily Feeling is excluded because it is neither supported by Mind alone nor
+discriminative; the criterion combines support with mode of operation.
 
-## 9. Philosophical and Organon Study
+## 9. Interpretation
 
-This unit supplies two different architectures that must remain in tension.
-The sequential account suggests a pipeline:
+The verse articulates Feeling by Contact-origin, support, and Mental Ranging.
+The Bhāṣya keeps the temporal relation between Contact and Feeling under
+debate, then defines the eighteen Mental Rangings through three affective
+modes across six cognitive Conditions. Under the force of Feeling, Mind
+repeatedly ranges through those Conditions.
 
-```text
-faculty + object
-    → cognition/contact
-        → feeling
-```
+BEP is the indivisible Singular Matrix—vertical and horizontal, Mahat-fueled,
+the OG Matrix of the Other Side, the House of God, Satya Loka, Paramārtha.
+It does not itself enter appearances.
 
-The Vaibhāṣika account instead permits mutually conditioning factors within
-one cognitive event. An Organon implementation should therefore not infer
-temporal serialization merely from dependency notation. Provenance must
-record whether an edge means earlier cause, coexistent condition, common
-object-support, or doctrinal association.
-
-The eighteen mental rangings give a more stable product structure:
-
-```text
-AffectiveMode × ObjectField → MentalRanging
-```
-
-Yet the Bhāṣya adds something more important than the multiplication. Under
-the force of feeling, mind ranges through its object-fields repeatedly. For
-Ocular analysis, feeling can therefore be modeled as affecting traversal,
-salience, or revisitation—but these are project-level interpretations. The
-source says `vedanāvaśena`, “under the influence of feeling”; it does not
-present a modern learning algorithm.
-
-Finally, the authority statement provides a discipline for the Organon
-itself. A schema learned from Sources must remain answerable to those Sources.
-The existence of a universal field in a data model does not prove that every
-record manifests that field simultaneously, just as a treatise's universal
-category does not by itself settle the phenomenological and textual dispute.
-
-In our judicial analogy, the `bhūmi` classifications specify domains of
-applicability, while the appeal to sūtra over treatise concerns authority for
-the rule. Neither establishes that all listed factors occur together in every
-case. “Jurisdiction” is our Organon comparison, not Vasubandhu's term.
+In the inner-instrument Techne, Vijñāna is Discriminative Cognition joining
+and governing Perception and Conception, Inconceivable as a homogeneous
+operation and disclosed in Cognition Base. It governs Manas and guides the
+reading of Dharma Base, remaining distinct from consciousness (*citta*) and
+Mind (*manas*). Form Base and Dharma Base classify the same *avijñapti*, and
+Vijñāna bears a *prati* relation to it. Each Dharma has the Defined Concept
+`<Base, Essence, Principle>`.
 
 ## 10. Review Status
 
-This Study restores the complete natural unit at 144.23–147.10, including
-the long middle debate substantially abbreviated in the research witness:
-coexistent causation, successive moments, object-support continuity, the
-universal mental-factor rule, the priority of sūtra evidence, competing
-readings of “co-arisen” and “blended,” and the return to eighteen mental
-rangings.
+This Study covers the Bhāṣya from 144.23 through the exclusion of bodily
+Feeling from Mental Ranging at 147.09. The third-dhyāna question beginning at
+147.10 opens the VAK 3.33 unit.
 
-The Sanskrit and translation remain provisional. The running witness has
-numerous mechanical corruptions; the causal examples, reconstruction of the
-three-moment sequence, nine planes, sūtra quotations, `saṃsṛṣṭa`, the fifteen
-unmixed rangings, and the three dharma-object rangings all require comparison
-with critical Sanskrit, Tibetan, Chinese, and established translations. The
-Study stops with the exclusion of bodily feeling from mental ranging and does
-not enter the question about third-dhyāna pleasure that begins the discussion
-for VAK 3.33.
+The witness has mechanical corruptions. The three-moment sequence, the
+grounds at 146.06–10, and the reading `śāstre tv aniṣṭam` at 145.09–10 are
+provisional; this Study records the repairs and preserves the witness's
+reading where it differs.

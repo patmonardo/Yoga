@@ -99,10 +99,11 @@ At the Āyatana level, **Essence is the Entry into an Essential Relation of
 an Impure Dharma**; this relation comprises products of Reflective Mind.
 Mind-Essence is Reflective Science at this level. Reflectively, Mind-Essence
 is the Seer as Reflector and Dharma-Essence is the Seen. *Artha* is
-classified under the Seen; *viṣaya* marks a specific moment of the Seen.
-These are Organon determinations, not lexical definitions of the Sanskrit
-terms. An *ālambana* or *viṣaya* may condition Cognition without becoming an
-achieved Object.
+classified under the Seen; *viṣaya* marks a specific moment of the Seen and
+the playground of the Faculties. These are Organon determinations, not
+lexical definitions of the Sanskrit terms. An *ālambana* or *viṣaya* may
+condition Cognition without thereby being Object, the comprehended truth of
+Vastu.
 
 Essence is not an inert interior hidden behind appearance. It is Reflection:
 determination becoming what it is through relation, distinction,
@@ -296,7 +297,9 @@ Object
     = comprehended Truth of the Thing
 ```
 
-Objectivity is an achievement of synthesis and comprehension. A sensory correlate does not become an Object merely by standing opposite a faculty.
+Object is the comprehended truth of Vastu, disclosed through synthesis and
+comprehension. A sensory Condition does not become Object merely by standing
+opposite a Faculty.
 
 ## 8. Vijñapti and Avijñapti
 

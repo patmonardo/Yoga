@@ -1,18 +1,16 @@
-# VAK_3.20 Bhāṣya — Dependent Arising Across Three Lives
+# VAK_3.20 Bhāṣya — Samutpāda Across Three Births
 
 ## 1. Kārikā Anchor
 
 > sa pratītyasamutpādo dvādaśāṅgas trikāṇḍakaḥ /
 > pūrvāparāntayor dve dve madhye 'ṣṭau paripūriṇaḥ // 3.20 //
 
-> That dependent arising has twelve members and three sections: two at each
-> of the prior and subsequent limits, and eight in the middle for one who
-> completes the course.
+### Bhāṣya-informed study translation
 
-The Bhāṣya identifies “that” dependent arising with the aggregate-continuum
-already followed across three lives. It enumerates and distributes the twelve
-members, then restricts the complete eight-member middle to a fully traversed
-desire-realm life.
+> The Base-continuum already described across three births is *samutpāda*
+> articulated in twelve members and three sections: two at the past and
+> future limits, and eight in the present course of one who completes all
+> successive states.
 
 ## 2. Continuous Sanskrit
 
@@ -48,186 +46,165 @@ desire-realm life.
 > pañcāparāntikaḥ, saphalahetukayoḥ pūrvāparāntayor grahaṇāt /
 
 This natural unit runs from printed 131.03 through 131.18 in
-`Vasubandhu/Sources/kosabhasya.txt`. The question `atha ka ime 'vidyādayaḥ`
-at 131.19 begins the detailed definition of the individual members in VAK
-3.21.
+`Vasubandhu/Sources/kosabhasya.txt`. The question beginning at 131.19
+introduces the detailed definition of the individual members and belongs to
+VAK 3.21.
 
-Word division and punctuation are editorial. The e-text's `ūpadiṣṭaḥ` has
-been provisionally regularized to `upadiṣṭaḥ`, and obvious compound divisions
-have been supplied. The running source remains unchanged.
+Word division and punctuation are editorial. The source e-text's
+`ūpadiṣṭaḥ` is regularized here to `upadiṣṭaḥ`; the running source is
+unchanged.
 
-## 3. Continuous Conventional Translation
+## 3. Scientific English Rendering
 
-The aggregate-continuum that has just been taught in the condition of three
-lives “is dependent arising, possessing twelve members and three sections.”
+The Base-continuum just taught as extending through three births is that
+*samutpāda*, twelve-membered and three-sectioned.
 
-Its twelve members are ignorance, formations, consciousness, name-and-form,
-the six Essences, contact, feeling, craving, appropriation, becoming,
-birth, and aging-and-death. Its three sections are the prior limit, the
-subsequent limit, and the middle—that is, the past, future, and present lives.
+Its twelve members are Ignorance, Formations, Cognition, Name-and-Form, the
+six Essences, Contact, Feeling, Craving, Appropriation, Becoming, Birth, and
+Aging-and-Death. Its three sections are the past, future, and present births.
 
-How are the twelve members arranged within these three sections?
+How are the twelve members arranged in these three sections?
 
-“At the prior and subsequent limits there are two each; in the middle there
-are eight.” Ignorance and formations belong to the prior limit. Birth and
-aging-and-death belong to the subsequent limit. The remaining eight belong to
-the middle.
+> Two at each of the prior and subsequent limits; eight in the middle.
 
-But do these eight members occur in every birth? No, he says. For whom, then?
+Ignorance and Formations are at the prior limit; Birth and Aging-and-Death
+are at the subsequent limit. The remaining eight are in the middle.
 
-“For one who completes the course.” One is complete when one reaches all
-these successive states; such is the person intended here, not one who dies
-within the interval. Nor is a being of the form realm or formless realm
-intended. For in the *Mahānidānaparyāya* it is specifically a desire-realm
-person who is indicated, since it says: “Ānanda, if consciousness were not to
-descend into the mother's womb ...”
+Do these eight members occur in every birth? No. For whom, then?
 
-When dependent arising is instead said to be twofold—as pertaining to the
-former limit and as pertaining to the latter limit—the former-limit series
-has seven members, extending through feeling, and the latter-limit series has
-five. This is because the prior and subsequent limits are each included
-together with their result and cause, respectively.
+> For one who completes the course.
 
-## 4. Movement and Voices of the Commentary
+The commentary explains this as one who encounters all these successive
+states. It excludes one who dies in the interval and one moving in the Form
+or Formless Realm. In the *Mahānidānaparyāya*, it says, a Desire Realm
+person is indicated, with the statement: “If Cognition, Ānanda, were not to
+descend into a mother's womb ...”
 
-Vasubandhu speaks throughout, posing exegetical questions to unfold the
-verse. A scriptural citation from the *Mahānidānaparyāya* supports the scope
-restriction. The movement is:
+When *samutpāda* is instead divided into two sections—the former-limit and
+latter-limit arrangements—the former has seven members, extending through
+Feeling, and the latter has five. The commentary connects this division with
+taking the prior and subsequent limits together with result and cause.
 
-```text
-identify the three-life aggregate-continuum as dependent arising
-    → enumerate twelve members
-    → distribute them 2 / 8 / 2 across three lives
-    → restrict the full middle to a complete desire-realm course
-    → give an alternate 7 / 5 organization
-```
+## 4. Commentary Movement
 
-The alternate division does not introduce another causal process. It groups
-the same twelve members according to a different explanatory cut.
+Vasubandhu proceeds by question and answer:
 
-## 5. The Aggregate-Continuum Articulated
+1. **Identify the antecedent.** “That” refers to the Base-continuum just
+   described across three births.
+2. **Name the structure.** This course is *samutpāda*, articulated into
+   twelve members and three sections.
+3. **Map the sections.** The prior limit is past birth, the subsequent
+   limit is future birth, and the middle is present birth.
+4. **Distribute the members.** Ignorance and Formations occupy the prior
+   limit; Birth and Aging-and-Death the subsequent limit; the remaining
+   eight the middle.
+5. **Qualify the complete middle.** The eight do not occur in every birth.
+   The complete course applies to one who traverses all successive states;
+   the Bhāṣya excludes one who dies in the interval and those in the Form
+   and Formless Realms.
+6. **Offer another grouping.** The same twelve members may be organized as
+   seven through Feeling and five from Craving onward.
 
-The antecedent of `sa`, “that,” is explicit in the prose:
+The Bhāṣya's “person” is the one whose course traverses the specified
+states; it does not introduce a separate traveler. The citation from the
+*Mahānidānaparyāya* supports the stated scope of the complete middle.
 
-```text
-skandhasaṃtāna previously described across three lives
-    =
-twelve-member dependent arising in three temporal sections
-```
+## 5. Three-Section and Two-Section Arrangements
 
-The twelve members are therefore not twelve independent substances added to
-the continuum. They articulate its functions and phases. VAK 3.18 rejected
-an inner transmigrator; VAK 3.19 displayed the continuum's recursive growth;
-VAK 3.20 now renders that same continuity analytically discriminable.
-
-`Pratītyasamutpāda` is translated here as “dependent arising.” The compound
-expresses arising in dependence upon conditions; “co-arising” may suggest an
-unwarranted simultaneity when this passage is explicitly arranging functions
-across past, present, and future lives.
-
-## 6. The Three-Life Distribution
-
-The distribution is exact:
+The twelve-member arrangement is:
 
 ```text
-prior limit — past life
-    avidyā       ignorance
-    saṃskāra     formations
+Past birth — prior limit
+    Ignorance
+    Formations
 
-middle — present life
-    vijñāna      consciousness / differentiated cognition
-    nāmarūpa     name-and-form
-    ṣaḍāyatana   six Essences
-    sparśa       contact
-    vedanā       feeling
-    tṛṣṇā        craving
-    upādāna      appropriation
-    bhava        becoming
+Present birth — middle
+    Cognition
+    Name-and-Form
+    six Essences
+    Contact
+    Feeling
+    Craving
+    Appropriation
+    Becoming
 
-subsequent limit — future life
-    jāti         birth
-    jarāmaraṇa   aging-and-death
+Future birth — subsequent limit
+    Birth
+    Aging-and-Death
 ```
 
-The middle is not merely a temporal gap. It is the phase in which past causal
-formation becomes an embodied cognitive course and that course develops the
-appropriation and becoming that condition a future birth.
-
-## 7. `Paripūriṇaḥ`: The Complete-Case Restriction
-
-The Bhāṣya explicitly denies that all eight middle members occur in every
-birth. `Paripūriṇaḥ` designates a person who reaches all the relevant
-successive states.
-
-The complete model excludes:
-
-- One who dies before traversing the intervening states.
-- A form-realm being.
-- A formless-realm being.
-
-The cited formula concerning consciousness descending into a mother's womb
-shows that the full course here is modeled on womb-born desire-realm life.
-The twelve-member law is not thereby denied elsewhere; rather, this particular
-2/8/2 temporal display has a stated field of complete application.
-
-## 8. The Alternate Seven-and-Five Division
-
-The same series can be divided at a different point:
+The alternate grouping is:
 
 ```text
-former-limit series: seven members
-    avidyā through vedanā
-    prior causes together with their present results
-
-latter-limit series: five members
-    tṛṣṇā through jarāmaraṇa
-    present causes together with their future results
+Former-limit arrangement:  seven members, through Feeling
+Latter-limit arrangement:  five members, from Craving through Aging-and-Death
 ```
 
-The three-section and two-section presentations answer different analytic
-questions. The first locates members in three lives; the second gathers cause
-and result around the former and latter limits. Classification changes while
-the conditioned relations being classified remain the same.
+The latter sentence attributes the alternate grouping to taking the two
+limits with result and cause. The precise assignment of those two terms to
+the respective limits is not made fully explicit in the passage; the
+translation preserves that point without forcing a more specific mapping.
 
-## 9. Philosophical and Organon Study
+## 6. Interpretation
 
-The wheel of becoming now becomes a structured object of comprehension. A
-single conditioned continuum can be indexed by member, temporal section,
-causal role, and scope of application without being converted into an
-enduring thing.
+This is the chapter's reflective turn from an already displayed course to
+its causal articulation. The Bhāṣya begins from the three-birth
+Base-continuum and reconstructs it as a twelve-member *samutpāda*. Its
+appearance is made intelligible through the grounds and conditions that
+specify the course; the passage does not narrate a genetic origin from an
+independent source.
 
-For the Organon, this is close to the restrained Dataset insight motivating
-the wider project:
+**Pre-Subject Knowing.** In this reading, the Science of Knowing operates
+before the Subject is constituted: it encounters the Seed of the Subject.
+There is not yet a Subject:Object relation, so do not name what is known here
+as an Object. Object belongs to the later articulation in which Subject and
+Object stand in relation. This is a project-level Techne distinction, not
+terminology stated by VAK 3.20.
 
-```text
-one source process
-    → twelve functional labels
-    → three temporal partitions
-    → an alternate two-part grouping
-    → explicit conditions of complete instantiation
-```
+The horizontal reading follows the distribution across past, present, and
+future births. The vertical reading reconstructs how that same course is
+mediated by conditions. In the project's BEP terms, immediacy and mediacy
+must both be retained: the appearance is not erased by its conditions, and
+the conditions are not mistaken for a second course. The 2/8/2 temporal
+sections are not themselves the three BEP axes.
 
-These labels are not arbitrary projections. They are controlled by the
-relations the Bhāṣya identifies. At the same time, the alternate 7/5 division
-shows that one process can sustain more than one valid analytic organization.
-The grouping is a view of the causal structure, not a rival world added to it.
+Attending to the transition from past to present birth shifts the unit of
+reflection from “life to life” toward “death to death.” Each renewed birth
+belongs to a continuity bounded by death; birth marks a conditioned passage
+within that cycle rather than its final measure. This resonates with the
+Hindu formulation of saṃsāra as going “from death to death.” It is a
+comparative lens on the Kośa's three-birth arrangement, not wording
+attributed to this Bhāṣya.
 
-This remains a textual result about dependent arising, not an implementation
-of the Oculus. It does, however, offer a disciplined model for Ocular analysis:
-preserve the underlying continuum, state the dimensions by which it is
-partitioned, and record the domain in which a complete schema applies.
+The order of the members sharpens this reflection. Formations stands at
+the past limit; Cognition begins the present middle. Their adjacency in the
+twelve-member sequence marks a transition across births. Name-and-Form may
+be read as an inclusive twofold summary, which the sixfold Essence
+articulation then differentiates. In the project's root-framework reading,
+Dharma Essence takes up that sixfold Essence structure together with Feeling
+and Formations. The twelve-member arrangement nevertheless discriminates
+Feeling into the present middle and Formations into the past limit; inclusion
+in the wider framework does not erase their distinct positions.
 
-## 10. Review Status
+Becoming is a key hinge in the present middle and should be read alongside
+Avijñapti in the wider Loka–Karma analysis: the question is how karmic
+efficacy persists and shapes embodied life. The image that one reaches the
+end of life with the “face one has earned” names accumulated conditions
+becoming legible in present-life expression. It is not a physiognomic test
+for judging another person's character or worth. This is a project-level
+extension; VAK 3.20 names Becoming but does not itself mention Avijñapti or
+the face.
 
-This Study restores the complete natural unit at 131.03–131.18. It preserves
-the identification of dependent arising with the three-life aggregate-
-continuum, the twelve-member enumeration, the 2/8/2 distribution, the
-complete-case restriction, its desire-realm scriptural basis, and the
-alternate seven-and-five division.
+This passage establishes the structure, not the detailed operation of every
+member. The following verses examine the members in turn. The complete
+eight-member middle also has a stated scope; it must not be universalized
+to every birth or detached from the conditions the Bhāṣya names.
 
-The translation remains provisional. The precise syntax of
-`saphalahetukayoḥ pūrvāparāntayor grahaṇāt` and the relation between the two
-classificatory arrangements require comparison with critical Sanskrit,
-Tibetan, Chinese, and established translations during the later learning
-pass. The Study stops before the definition of ignorance at 131.19 and does
-not enter VAK 3.21.
+At the level of the Kośa's wider cognitive architecture, Vijñāna is
+Discriminative Cognition joining and governing Perception and Conception;
+their unity is not a homogeneous operation, and its Idea is disclosed in
+the Cognition Base. Vijñāna governs Mind and guides the reading of Dharma
+Base. Its relation to Avijñapti, and Avijñapti's distinct classifications
+in Form Base and Dharma Base, must likewise remain discriminated. Here,
+VAK 3.20 names Cognition as one member but does not unfold those wider
+relations; Cognition remains distinct from consciousness and Mind.

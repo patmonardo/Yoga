@@ -7,13 +7,13 @@ nāma tv arūpiṇaḥ skandhāḥ sparśāḥ ṣaṭ saṃnipātajāḥ /
 pañcapratighasaṃsparśaḥ ṣaṣṭho 'dhivacanāhvayaḥ // 3.30 //
 ```
 
-> Name, however, is the non-rūpa aggregates. The six contacts arise from
-> conjunction. Five are contacts based on resistance; the sixth is called
-> designation-contact.
+> Name is the four Bases other than Form Base. The six Contacts arise from
+> conjunction. Five are resistance-Contacts; the sixth is called
+> designation-Contact.
 
 The Bhāṣya first determines `nāma`, then examines what it means for contact
 to arise from conjunction. Its central excursus preserves a dispute over
-whether contact is that conjunction itself or another mind-associated
+whether contact is that conjunction itself or another consciousness-associated
 dharma. Only then does it explain the two classes stated in the verse.
 
 ## 2. Continuous Sanskrit
@@ -85,142 +85,176 @@ apare punar āhuḥ: vacanam adhikṛtyārtheṣu manovijñānasya pravṛttir n
 pañcānām, atas tad evādhivacanam. tena saṃprayuktaḥ sparśo
 'dhivacanasaṃsparśa ity eka āśrayaprabhāvito dvitīyaḥ
 saṃprayogaprabhāvitaḥ.
+
+punas ta eva ṣaṭ sparśās trayo bhavanti /
+vidyāvidyetarasparśāḥ /
+vidyāsaṃsparśo 'vidyāsaṃsparśaḥ /
+tābhyāṃ cānyo naivavidyānāvidyāsaṃsparśa iti /
+ete punaḥ yathākramaṃ veditavyāḥ /
+
+amalakliṣṭaśeṣitāḥ /
+
+anāsravaḥ sparśo vidyāsaṃsparśaḥ kliṣṭo 'vidyāsaṃsparśo
+vidyāvidyābhyāṃ saṃprayuktatvāt /
+śeṣo naivavidyānāvidyāsaṃsparśa ubhābhyām asaṃprayogāt /
+kaḥ punaḥ śeṣaḥ /
+kuśalasāsravo 'nivṛtāvyākṛtaś ca /
+
+punar avidyāsaṃsparśasyābhīkṣṇasamudācāriṇa ekadeśasya grahaṇād dvau
+saṃsparśau bhavataḥ /
+vyāpādānunayasparśau /
+vyāpādānunayābhyāṃ saṃprayogāt /
+punar sarvasaṃgraheṇa /
 ```
 
 The running witness has several evident mechanical corruptions in this unit.
 The continuous text regularizes them provisionally from syntax and the verse,
-including `ṣparśāḥ`, `kparihāram`, and the damaged final forms. The readings
-`kāryakāraṇabhāva` and the blue-example punctuation remain especially
-important points for comparison with critical witnesses and translations.
-At 143.19–20 the running source actually has `kāryakāraṇābhāva`; the
-continuous text's `kāryakāraṇabhāva` is a conjectural repair supported by
-the preceding cause-and-effect discussion and its argument about which
-faculty, object, and cognition form a contact. The compact
-`nāmendriyārthavaśena` at 142.17 has no secure division in this witness;
-its English rendering below is provisional. The earlier research witness
-preserves the passage but does not settle these readings. The running source
-remains unchanged.
+including `ṣparśāḥ`, `kparihāram`, and damaged final forms. At 143.19–20 the
+running source has `kāryakāraṇābhāva`; the continuous text's
+`kāryakāraṇabhāva` is a conjectural reading in light of the preceding
+cause-effect discussion of Faculty, Meaning, and Cognition in Contact. The
+compact `nāmendriyārthavaśena` at 142.17 has no secure division here, so its
+English rendering remains provisional. The line at 144.12 is similarly
+compressed: the supplied text reads `vidyā 'vidyābhyāṃ`, represented in the
+continuous text as `vidyāvidyābhyāṃ`; the rendering preserves the
+classification without forcing an interpretation of that phrase. The
+running source remains unchanged.
 
-## 3. Continuous Conventional Translation
+## 3. Scientific English Rendering
 
-What, then, is meant by “name-and-form”? Form has been explained in detail as
+What, then, is meant by “Name-and-Form”? Form has been explained in detail
 above.
 
-Name, however, is the non-rūpa aggregates. Why? It is called name because it
-inclines toward objects under the influence of names, faculties, and objects.
-Under the influence of which name? That which is commonly recognized in the
-world as indicating the several objects—“cow,” “horse,” “form,”
-“taste,” and so forth. But why is this itself called name? Because that name
-inclines toward those several objects. Others say that the non-rūpa aggregates
-are called name because, when the body has been laid down here, they incline
-toward another rebirth.
+Name, however, is the Bases that are not Form. Why? Name is so called
+because it inclines toward meanings under the influence of Name, Faculty,
+and Meaning. Under the influence of which Name? The names established in
+common usage that indicate the respective meanings—“cow,” “horse,” “Form,”
+“Taste,” and the like. Why is this itself called Name? Because that Name
+inclines toward those meanings. Others say that the non-Form Bases are
+called Name because, when the body is laid down here, they incline toward
+another rebirth.
 
-The six Essences have been stated; contact must now be explained. There
-are six contacts, from eye-contact through mind-contact. They arise from
-conjunction: they are born from the conjunction of three—faculty, object, and
-differentiated cognition.
+The six Essences have been stated; Contact must now be explained. There are
+six Contacts, from Eye-Contact through Mind-Contact. They arise from
+conjunction, born from the meeting of three: Faculty, Meaning, and
+Discriminative Cognition.
 
-For the five faculties, their conjunction with object and cognition is
-reasonable, since they arise together. But how can the ceased mind-faculty be
-conjoined with a future or present dharma-object and mental cognition? Their
-conjunction is precisely their relation as cause and effect. Alternatively,
-“conjunction” means their orientation toward a single common effect: all
-three are suitably disposed for the arising of contact.
+For the five Faculties, their conjunction with Meaning and Cognition is
+intelligible because they arise together. But how can the ceased Mind
+Faculty be conjoined with future and present Dharmas and Mind-Cognition?
+Their conjunction is their cause-effect relation. Alternatively,
+“conjunction” means orientation toward one common effect: all three are
+disposed toward the arising of Contact.
 
-Here, however, the understandings of the teachers have diverged. Some explain
-contact as the conjunction itself. They cite as evidence the sūtra: “The
-meeting, conjunction, and combination of these three dharmas—that is
-contact.” Others explain contact as another dharma associated with mind. They
-cite as evidence the six-by-six teaching: “What is the sixfold exposition of
-dharma? Six internal Essences, six external Essences, six bodies of
-differentiated cognition, six bodies of contact, six bodies of feeling, and
-six bodies of thirst.” Here the bodies of contact are taught separately from
-the faculties, objects, and cognitions.
+Here the teachers' understandings diverge. Some explain Contact as the
+conjunction itself and cite the sūtra: “The meeting, conjunction, and
+combination of these three Dharmas—that is Contact.” Others explain Contact
+as another Dharma associated with consciousness. They cite the six-by-six
+teaching: “What is the sixfold exposition of Dharma? Six internal Essences,
+six external Essences, six classes of Cognition, six classes of Contact,
+six classes of Feeling, and six classes of Craving.” Here, the Contact
+classes are taught separately from Faculty, Meaning, and Cognition.
 
-Those who say that contact is the conjunction itself reply: separate teaching
-does not necessarily establish separate existence; otherwise feeling and
-thirst would have to exist separately from the Dharma-Essence. “That fault does
-not follow, since the Dharma-Essence also contains what is distinct from them.”
-But there is no corresponding triad besides the triad that constitutes
-contact whose remainder could be intended here. Faculty and object may exist
-without cognition, but cognition does not exist without faculty and object.
-Consequently, after all three have been taught, the further mention of contact
-would become pointless.
+Those who say Contact is the conjunction itself reply that separate
+statement does not establish separate existence; otherwise Feeling and
+Craving would have to be separate from Dharma Essence. The response is that
+this does not follow, since Dharma Essence also contains Dharmas distinct
+from those two. But apart from the three that constitute Contact, there is
+no other triad whose remainder could be meant. Faculty and Meaning can exist
+without Cognition, but Cognition does not occur without Faculty and Meaning.
+Therefore, once the three have been stated, a further mention of Contact
+would be redundant.
 
-One group answers that not every eye and visible form is the cause of every
-eye-cognition, nor is every eye-cognition the effect of every eye and visible
-form. Therefore, just those members that stand in the relevant causal relation
-are established as contact.
+One group replies that not every Eye and Form is the cause of every
+Eye-Cognition, nor is every Eye-Cognition the effect of every Eye and Form.
+Only those that stand in the relevant cause-effect relation are established
+as Contact.
 
-How do those who hold contact to be distinct from conjunction answer the
-sūtra saying that the meeting, conjunction, and combination of the three is
-contact? Perhaps they do not read it that way. How, then? They read “from the
-meeting, from the conjunction, from the combination”; or they say that the
-effect is figuratively designated by its cause.
+How do those who hold Contact to be distinct from conjunction answer the
+sūtra that says the meeting, conjunction, and combination of the three is
+Contact? They may not read it that way, but instead read “from the meeting,
+from the conjunction, from the combination”; or they say the effect is
+figuratively designated by its cause.
 
-This discussion would spread into altogether too much detail, so enough of
-the digression. The Ābhidharmikas describe contact itself as follows. Of the
-six contacts, the five—eye-, ear-, nose-, tongue-, and body-contact—are called
-contacts based on resistance because they depend upon faculties possessing
-resistance. The sixth, mind-contact, is called designation-contact.
+This discussion would spread into too much detail; enough of the
+digression. The Ābhidharmikas describe the six Contacts as follows: the
+Eye-, Ear-, Nose-, Tongue-, and Body-Contacts are called the five
+resistance-Contacts because they depend on resistant Faculties. Mind-Contact
+is the sixth and is called designation-Contact.
 
-Why? `Adhivacana` means a name or designation. This is said to be an additional
-object-support for mental cognition, and therefore the contact is called
-designation-contact. As it is said: “By eye-cognition one cognizes blue, but
-not ‘blue’; by mental cognition one cognizes blue and also cognizes ‘blue.’”
-The first class is determined by its support; the second by its object-support.
+Why? “Designation” means Name. It is said to be an additional Condition for
+Mind-Cognition, and therefore this is called designation-Contact. As stated:
+“Eye-Cognition cognizes blue, but not ‘blue’; Mind-Cognition cognizes blue
+and also cognizes ‘blue.’” One is determined by its support, the other by
+its Condition.
 
-Others say that mental cognition, unlike the five sensory cognitions, proceeds
-toward objects with reference to a word; that is therefore the designation.
-Contact associated with it is designation-contact. On this account, the first
-class is determined by its support and the second by its association.
+Others say that mental Cognition, unlike the five sensory Cognitions,
+proceeds toward meanings with reference to a word; that is why it is called
+designation. Contact associated with it is designation-Contact. On this
+account, the first is determined by support, the second by association.
+
+Again, those same six Contacts are three: Contact with Knowledge, Contact with
+Ignorance, and Contact with neither. They are understood in that order: Contact without Influx is Contact with
+Knowledge; afflicted Contact is Contact with Ignorance; the remainder is
+neither, because it is associated with neither. The remainder consists of
+wholesome-with-Influx and non-obstructive-indeterminate Contacts.
+
+By taking one portion of frequently occurring Contact with Ignorance, two
+Contacts are identified: ill-will Contact and attachment Contact, through
+association with ill-will and attachment. The Bhāṣya then signals a
+comprehensive recasting before the next kārikā.
 
 ## 4. Argument and Voices
 
-The commentary moves through five determinations:
+The unit moves through these determinations:
 
-1. Vasubandhu identifies `nāma` with the four non-rūpa aggregates and offers
-   an etymological account through inclination toward objects.
-2. Other teachers explain the same name through inclination toward another
-   rebirth after the present body is abandoned.
-3. The six contacts arise from a functional conjunction of faculty, object,
-   and cognition; in the mental case this cannot mean simple simultaneity.
-4. Competing teachers identify contact either with the conjunction or with a
-   distinct mind-associated dharma. Scriptural formulations are argued on
-   both sides, and Vasubandhu ends the excursus without resolving it here.
-5. The five sensory contacts are classified through resistant support, while
-   mind-contact is classified through designation. Other teachers shift the
-   latter explanation from object-support to association with word-mediated
-   mental activity.
+1. Name is defined as the four Bases other than Form Base. The Bhāṣya gives
+   two explanations of its name: inclination toward meanings under the
+   power of names, Faculties, and meanings; or inclination toward another
+   rebirth.
+2. The six Contacts arise from the conjunction of Faculty, Meaning, and
+   Cognition. For Mind-Contact, conjunction is explained through
+   cause-effect relation or orientation toward one common effect.
+3. Teachers disagree over whether Contact is the conjunction itself or a
+   distinct Dharma associated with consciousness. Their scriptural arguments
+   and replies remain distinct; the excursus is set aside without a final
+   settlement.
+4. The five sensory Contacts are classified through resistant Faculty
+   support; Mind-Contact is designation-Contact. The Bhāṣya reports two
+   explanations of designation's role: as an additional Condition, or as
+   word-referenced mental Cognition and its associated Contact.
+5. The six Contacts are further divided into Contact with Knowledge, with
+   Ignorance, or with neither. The remainder is specified as wholesome with
+   influx or indeterminate; ill-will and attachment Contacts are then
+   identified within frequently occurring ignorance-Contact.
 
 The repeated `apare` and `ity eke` must remain visible. The alternatives are
 reported positions, not automatically Vasubandhu's own final commitments.
 
-## 5. Nāma Is the Non-Rūpa Aggregate Complex
+## 5. Name and the Four Non-Form Bases
 
-In this context `nāma` is not merely a spoken or written label:
+In this context `nāma` names the four Bases other than Form Base:
 
 ```text
 nāma
     = vedanā + saṃjñā + saṃskāra + vijñāna
 ```
 
-The linguistic examples answer why this fourfold aggregate complex receives
-the designation “name”; they do not reduce the complex to vocabulary. The
-first etymology is difficult because its transmitted compound is compressed,
-but its governing comparison is intelligible: an ordinary name indicates and
-inclines toward its object. The alternative rebirth-etymology gives `nāma` a
-continuity-function extending beyond the body's dissolution.
+The examples “cow,” “horse,” “Form,” and “Taste” explain ordinary names as
+indicators of meanings. The first etymology is difficult because its
+transmitted compound is compressed; its English rendering remains
+provisional. Another explanation says these four Bases incline toward
+another rebirth after the body is laid down.
 
-These are explanations of the term, not two new lists of constituents. In
-both cases the referent remains the four aggregates other than rūpa.
+These are explanations of the term, not additional constituents. In both
+cases, Name refers to the four Bases other than Form Base.
 
 ## 6. Conjunction Is Causal and Functional
 
 The easy sensory case might suggest that `saṃnipāta` means simultaneous
-co-presence. Mind-contact blocks that reduction. Its faculty is the
-immediately ceased cognition, while its object and present cognition need not
-share that temporal position.
+co-presence. Mind-Contact blocks that reduction. The Mind Faculty has ceased,
+while the relevant future and present Dharmas and Mind-Cognition do not share
+that temporal position.
 
 The Bhāṣya therefore supplies two relational construals:
 
@@ -236,119 +270,117 @@ saṃnipāta
       orientation toward one common effect
 ```
 
-The three terms are “suitably disposed” (`praguṇa`) for the production of
-contact. Conjunction here is neither spatial collision nor bare co-occurrence;
-it is an effective causal-functional configuration.
+The three are “disposed” (`praguṇa`) for the arising of Contact. The Bhāṣya
+offers cause-effect relation and common-effect orientation as accounts of
+their conjunction.
 
 ## 7. Is Contact the Relation or Its Product?
 
-The teachers' dispute is ontological as well as exegetical:
+The teachers' dispute distinguishes two accounts:
 
 ```text
 Position A
     sparśa = the structured conjunction
 
 Position B
-    sparśa = another mind-associated dharma
+    sparśa = another consciousness-associated Dharma
              arising through that conjunction
 ```
 
-Position A cites a sūtra that appears to equate the threefold meeting with
-contact. Position B cites the six-by-six discourse, where contact is listed
-after faculty, object, and cognition. The reply—“separate mention does not
-establish separate existence”—refuses to infer ontology immediately from
-enumeration. The counterreply argues that a further item becomes redundant
-once an exhaustive triad has already been named.
+Position A cites a sūtra that appears to identify the threefold meeting with
+Contact. Position B cites the six-by-six discourse, where Contact is listed
+after Faculty, Meaning, and Cognition. The reply says that separate mention
+does not by itself establish a separate factor. The counterreply argues that
+a further item becomes redundant once the three constituents have been
+named.
 
-Both sides then refine their readings. One limits “contact” to the particular
-members of the triad standing in the relevant cause-effect relation. The other
-reads the sūtra ablatively—contact is *from* meeting and conjunction—or treats
-the naming of effect by cause as figurative. The Bhāṣya records these moves
-and stops the digression; it does not impose a final settlement.
+One account limits Contact to those triads whose members stand in the
+relevant cause-effect relation. The other reads the sūtra ablatively—Contact
+is “from” meeting and conjunction—or treats the effect as designated by its
+cause. The Bhāṣya records these arguments and then stops the digression.
 
 ## 8. Resistant Contact and Designation-Contact
 
-The five sensory contacts receive their name from their material supports:
+The five sensory Contacts receive their name through resistant Faculty
+support:
 
 ```text
-five sensory contacts
-    sapratigha faculties
-    → āśrayaprabhāvita
-      determined by support
+five sensory Contacts
+    resistant Faculties
+    → support-determined
 ```
 
-Mind-contact differs because mental cognition can take designation as an
-additional object. The blue example distinguishes presentation from the
-apprehension of presentation under a name:
+Mind-Contact is called designation-Contact. One explanation treats
+designation as an additional Condition for Mind-Cognition. The blue example
+distinguishes Cognition of presented Form from Cognition of it under its
+designation:
 
 ```text
-eye-cognition
-    knows blue
+Eye-Cognition
+    Cognizes blue
 
-mental cognition
-    knows blue
-    and knows “blue”
+Mind-Cognition
+    Cognizes blue
+    and Cognizes “blue”
 ```
 
-On the first explanation, designation-contact is `ālambana-prabhāvita`,
-determined by object-support. On the alternative explanation, mental
-cognition proceeds toward objects with reference to words and the associated
-contact is `saṃprayogaprabhāvita`, determined by association. Neither account
-says that mind is nothing but language.
+On this account, designation-Contact is *ālambana-prabhāvita*,
+Condition-determined. Others say that mental Cognition proceeds toward
+meanings with reference to words; its associated Contact is
+*saṃprayoga-prabhāvita*, association-determined.
 
-## 9. Philosophical and Organon Study
+## 9. Contact's Further Classification
 
-This unit distinguishes several axes that an analysis of cognition must not
-collapse:
+The Bhāṣya divides the same six Contacts into three classes:
 
 ```text
-support          āśraya
-object-support   ālambana
-association      saṃprayoga
-causal relation  kāryakāraṇabhāva
-designation      adhivacana
+Contact with Knowledge
+Contact with Ignorance
+Contact with neither
 ```
 
-The blue example is particularly important for the Organon. Mental cognition
-can take both presented content and its designation as objects. In an NLP
-Dataset, a label is therefore not simply identical with the item labeled, yet
-it can itself enter a subsequent cognitive operation as an object-support.
-This gives a precise source-side analogue for labeling and typing as
-projection primitives, but “projection” remains the Organon's reconstruction,
-not Vasubandhu's term here.
+It then identifies Contact without Influx as Contact with Knowledge, afflicted
+Contact as Contact with Ignorance, and the remaining class as neither. The
+remaining Contacts are wholesome-with-Influx and non-obstructive-
+indeterminate. The witness's
+compressed explanation for the afflicted class is retained in the Sanskrit
+block rather than expanded beyond what the wording securely supports.
 
-In our project architecture, the TS Agent is where Hegelian Logic can inform
-the interpretation and practical workflow of these designations; the Kernel
-is assigned the machine-learning and logic mechanisms. This is an Organon
-mapping, not a claim made by the Bhāṣya.
+The text further identifies ill-will and attachment Contacts by taking a
+frequently occurring portion of Contact with Ignorance. These Contacts are
+associated with ill-will and attachment. The passage then signals a
+comprehensive recasting before proceeding to VAK 3.31.
 
-The contact dispute also supplies a methodological warning for Dataset and
-ontology design:
+## 10. Interpretation
 
-```text
-separate field or enumeration
-    does not by itself entail
-separate substantial entity
-```
+The appearing field here is articulated as Form and Name, with Contact
+arising through the relation of Faculty, Meaning, and Discriminative
+Cognition. The six Contacts are then differentiated by resistant support,
+designation, and their relation to Knowledge and Ignorance.
 
-Yet the counterargument matters equally: an added field should perform a
-non-redundant function. Thus a schema cannot settle ontology merely by
-separating columns, but neither should it multiply formally idle distinctions.
-The Bhāṣya keeps relation, relational configuration, and a possible product
-of relation open as distinct analytical possibilities.
+BEP is the indivisible Singular Matrix: vertical and horizontal,
+Mahat-fueled, the OG Matrix of the Other Side, the House of God, Satya Loka,
+Paramārtha. It does not itself enter appearances.
 
-## 10. Review Status
+In the inner-instrument Techne, Vijñāna is Discriminative Cognition joining
+and governing Perception and Conception; its unity is Inconceivable as a
+homogeneous operation. Vijñāna governs Manas and guides the reading of
+Dharma Base; it remains distinct from consciousness (*citta*) and Mind
+(*manas*). Form Base and Dharma Base classify the same *avijñapti*, and
+Vijñāna bears a *prati* relation to it. Each Dharma is understood through
+`<Base, Essence, Principle>`.
 
-This Study restores the complete natural unit at 142.15–144.07: the two
-explanations of `nāma`; sixfold contact and the temporal problem of mental
-conjunction; the extended dispute over whether contact is conjunction or a
-distinct associated dharma; and both explanations of resistant and
-designation-contact.
+## 11. Review Status
 
-The Sanskrit and translation remain provisional. The compressed
-`nāmendriyārthavaśena` etymology, the source's mechanical corruptions, the
-precise causal-relational reading at 143.19–20, the variant sūtra readings,
-and the punctuation of the blue example require comparison with critical
-Sanskrit, Tibetan, Chinese, and established translations. The Study ends with
-the second explanation of designation-contact and does not enter the
-subdivisions of contact leading to VAK 3.31.
+This Study covers the natural unit at 142.15–144.17: the two explanations of
+Name; sixfold Contact and the temporal problem of Mind conjunction; the
+extended dispute over whether Contact is conjunction or a distinct
+associated Dharma; designation-Contact and its two explanations; and the
+further classification into Contacts with Knowledge, Ignorance, neither,
+ill-will, and attachment.
+
+The Sanskrit witness is mechanically corrupt in several places. The
+`nāmendriyārthavaśena` compound, the reading at 143.19–20, the compressed
+reason for afflicted Contact, and the punctuation of the blue example
+remain provisional. The running source is preserved unchanged; the Study
+stops before the verse of VAK 3.31.

@@ -1,4 +1,4 @@
-# VAK_3.35 Bhāṣya — Formless Range and Afflictive Ranging
+# VAK_3.35 Bhāṣya — Formless Ranging and Influx
 
 ## 1. Kārikā Anchor
 
@@ -7,14 +7,14 @@ catvāro 'rūpisāmante rūpagā eka ūrdhvagaḥ /
 eko maule svaviṣayaḥ sarve 'ṣṭādaśa sāsravāḥ // 3.35 //
 ```
 
-> At the threshold of the formless, four are form-directed and one is
-> upward-directed. In a fundamental formless attainment, one has its own
-> field. All eighteen are with outflows.
+> At the threshold of the Formless realm, four are Form-directed and one is
+> upward-directed. In a fundamental Formless attainment, one has its own
+> Condition. All eighteen have Influx.
 
-The Bhāṣya completes the realm-distribution of mental rangings, calculates
+The Bhāṣya completes the realm-distribution of Mental Rangings, calculates
 their possession at different levels, and then records another interpreter's
-claim that the sūtra uses `manopavicāra` more narrowly for specifically
-afflictive modes of ranging.
+claim that the sūtra uses `manopavicāra` more narrowly for afflicted modes of
+ranging.
 
 ## 2. Continuous Sanskrit
 
@@ -95,64 +95,63 @@ source's `śāstrā gamitatvāt` is represented by the uncertain compound
 thirty-sixfold division, requires collation. The running source remains
 unchanged.
 
-## 3. Continuous Conventional Translation
+## 3. Scientific English Rendering
 
-The mental rangings connected with the formless realm are now explained. At
-the threshold of the formless—here, the threshold of the Essence of infinite
-space—there are four: rangings over form, sound, tangible objects, and
-dharmas. They are form-directed because the fourth concentration is their
-object-support. For those whose objects are separately delimited, these are
-counted distinctly; for those whose object-support is taken collectively,
-there is there only one dharma-ranging with a mixed object-support.
+The Mental Rangings connected with the Formless realm are now explained. At
+the threshold of the Formless realm—here, the threshold of the Essence of
+Infinite Space—there are four: Rangings through Form, Sound, Tangible, and
+Dharma. They are Form-directed because the fourth dhyāna is their cognitive
+Condition. Where their Conditions are separately delimited, these are
+counted distinctly; where Conditions are gathered together, there is only one
+Dharma-Ranging with a mixed cognitive Condition.
 
-One is upward-directed: the single dharma-ranging there whose object-support
-is the formless realm. In a fundamental formless attainment there is only one
-dharma-ranging and no other. It has its own field, for the formless realm
-itself is its object-support. Fundamental formless attainments do not take a
-lower realm as object-support, as will be explained later.
+One is upward-directed: the single Dharma-Ranging whose cognitive Condition
+is the Formless realm. In a fundamental Formless attainment there is only one
+Dharma-Ranging and no other. It has its own realm as Condition. Fundamental
+Formless attainments do not take a lower realm as cognitive Condition, as
+will be explained later.
 
-All these eighteen mental rangings are with outflows; not one is without
-outflows.
+All these eighteen Mental Rangings have Influx; not one is without Influx.
 
 Who possesses how many? A being born in the desire realm who has not acquired
-a wholesome form-realm mind possesses all the desire-realm rangings. On the
-provisional reading of the compressed passage, that being also possesses
-eight defiled rangings at each of the first and second concentrations, four
-at each of the third and fourth after excluding those whose objects are odor
-and taste, and one defiled formless-realm ranging.
+a wholesome Form-realm consciousness possesses all desire-realm Rangings. On
+the provisional reading of the compressed passage, that being also
+possesses eight afflicted Rangings at each of the first and second dhyānas,
+four at each of the third and fourth after excluding Smell and Taste, and one
+afflicted Formless-realm Ranging.
 A desire-realm being not dispassionate and lacking acquisition of a wholesome
-form-realm mind possesses all the desire-realm rangings; ten belonging to the
-first concentration—four defiled gladness-rangings after excluding odor and
-taste and six equanimity-rangings belonging to the threshold—and eight
-belonging to the second concentration. The third, fourth, and formless levels
+Form-realm consciousness possesses all desire-realm Rangings; ten belonging
+to the first dhyāna—four afflicted gladness-Rangings after excluding Smell
+and Taste and six equanimity-Rangings belonging to the approach level—and
+eight belonging to the second dhyāna. The third, fourth, and Formless levels
 are to be understood as before. The remainder is to be followed by this same
 method.
 
-One born in a concentration should also be understood to possess one
-desire-realm equanimity-dharma-ranging associated with a mind of magical
-creation.
+One born in a dhyāna should also be understood to possess one desire-realm
+equanimity-Dharma-Ranging associated with a consciousness (*citta*) of
+extraordinary creation.
 
-Another says: this is indeed the Vaibhāṣika meaning of the mental rangings,
+Another says: this is indeed the Vaibhāṣika meaning of the Mental Rangings,
 but the meaning of the sūtra appears otherwise. It is not reasonable to say
-that someone dispassionate toward something mentally ranges over it with that
-thing as object. Therefore not all contaminated occurrences of gladness,
-distress, and equanimity are mental rangings. Rather, the mental rangings are
-the afflictive states by which mind ranges through objects.
+that someone dispassionate toward something mentally ranges through it with
+that Condition. Therefore not all with-Influx occurrences of gladness,
+distress, and equanimity are Mental Rangings. Rather, Mental Rangings are
+the afflicted states through which Mind ranges through Conditions.
 
-How does it range? It is attracted, it is repelled, or it remains neutral
+How does it range? Mind is drawn along, repelled, or remains neutral
 without discriminative consideration. Their counteragents are the six stable
-dwellings: having seen forms with the eye, one becomes neither glad nor
+dwellings: having seen Forms with the Eye, one becomes neither glad nor
 distressed but dwells equanimously, recollected and clearly comprehending;
-and so on through cognizing dharmas with mind.
+and so on through Cognizing Dharmas with Mind.
 
-It is not that an arhat has no wholesome worldly gladness whose object is a
-dharma. What the sūtra intends to exclude is specifically the afflictive state
-that constitutes mental ranging.
+An Arhat may have wholesome worldly gladness with Dharma as its cognitive
+Condition. What the sūtra intends to exclude is specifically the afflicted
+state that constitutes Mental Ranging.
 
-Those same states beginning with gladness become the thirty-six teacher's
+Those same states beginning with gladness become the thirty-six Teacher's
 terms through the distinction between being grounded in attachment and being
 grounded in renunciation, a distinction whose stated textual warrant is
-uncertain in the running witness. Those grounded in attachment are defiled;
+uncertain in the running witness. Those grounded in attachment are afflicted;
 those grounded in renunciation are wholesome.
 
 Thus the limb of becoming called feeling is to be understood as differentiated
@@ -162,13 +161,13 @@ in many ways.
 
 Three layers must be kept distinct:
 
-1. The Vaibhāṣika distribution completes the map of realm-membership,
-   object-support, and possession for the eighteen rangings.
+1. The Vaibhāṣika distribution completes the map of realm-connection,
+   cognitive Condition, and possession for the eighteen Mental Rangings.
 2. The verse and gloss state that all eighteen in this technical class are
-   `sāsrava`, with outflows.
+   `sāsrava`, with Influx.
 3. An unnamed alternative interpreter, introduced by `apara āha`, accepts
    this as the Vaibhāṣika meaning but argues that the sūtra's practical use of
-   `manopavicāra` is narrower and specifically afflictive.
+   `manopavicāra` is narrower and specifically afflicted.
 
 The final sentence closes the whole exposition of the becoming-limb called
 feeling. The alternative reading is preserved by Vasubandhu's text, but it
@@ -176,56 +175,56 @@ must not be silently converted into his unqualified first-person conclusion.
 
 ## 5. Threshold and Fundamental Formless Attainment
 
-At the threshold of the Essence of infinite space:
+At the threshold of the Essence of Infinite Space:
 
 ```text
-4 form-directed rangings
-    form
-    sound
-    tangible
-    dharma
-    object-support: fourth concentration
+4 Form-directed Rangings
+    Form
+    Sound
+    Tangible
+    Dharma
+    cognitive Condition: fourth dhyāna
 
-1 upward-directed ranging
-    dharma
-    object-support: formless realm
+1 upward-directed Ranging
+    Dharma
+    cognitive Condition: Formless realm
 ```
 
-The count of four assumes separately delimited object-supports. When the
-lower objects are taken collectively, the analysis counts one mixed-object
-dharma-ranging instead. Thus counting depends not only on what is included
-but on whether objects are separately delimited or collectively gathered.
+The count of four assumes separately delimited cognitive Conditions. When the
+lower Conditions are taken collectively, the analysis counts one
+mixed-Condition Dharma-Ranging instead. Counting depends on whether
+Conditions are separately delimited or collectively gathered.
 
-In a fundamental formless attainment only one own-field dharma-ranging
-remains. Its object-support is the formless realm itself, and the Bhāṣya
-announces that the impossibility of a lower-realm object for fundamental
+In a fundamental Formless attainment only one own-field Dharma-Ranging
+remains. Its cognitive Condition is the Formless realm itself, and the Bhāṣya
+announces that the impossibility of a lower-realm cognitive Condition for fundamental
 formless attainments will be demonstrated later.
 
-## 6. With Outflows and Possessed Rangings
+## 6. With Influx and Possessed Rangings
 
 The doctrinal statement is categorical within the Vaibhāṣika scheme:
 
 ```text
 for every member of the eighteenfold class:
-    status = sāsrava
+    status = with Influx
 
 no member:
-    status = anāsrava
+    status = without Influx
 ```
 
 Subtle station, meditative height, and cross-realm reach therefore do not by
-themselves establish uncontaminated cognition.
+themselves establish freedom from Influx.
 
 The following possession calculation adds another axis. It does not merely
-ask which rangings can occur at a level, but which a given being is endowed
-with according to birth, acquisition of wholesome higher-level mind,
-dispassion, defiled status, meditative plane, and object-support. Its closing
+ask which Rangings can occur at a level, but which a given being is endowed
+with according to birth, acquisition of wholesome higher-level consciousness,
+dispassion, affliction, meditative level, and cognitive Condition. Its closing
 instruction—follow the remainder by this method—shows that the prose supplies
 a generative rule rather than exhaustively reciting every case.
 
 The special creative-mind case is equally important: a being born in a
-concentration can possess a desire-realm equanimity-dharma-ranging through
-association with a mind of magical creation. Birth-realm, possession, and
+concentration can possess a desire-realm equanimity-Dharma-Ranging through
+association with a consciousness of extraordinary creation. Birth-realm, possession, and
 manifest cognitive association must therefore not be collapsed.
 
 ## 7. The Alternative Sūtra Reading
@@ -236,41 +235,41 @@ from the practical intension of the sūtra:
 ```text
 Vaibhāṣika extension
     all eighteen technical rangings
-    all with outflows
+    all with Influx
 
 alternative sūtra intension
-    afflictive modes by which mind ranges
+    afflicted modes by which Mind ranges
 ```
 
-On the latter reading, not every contaminated gladness, distress, or
+On the latter reading, not every with-Influx gladness, distress, or
 equanimity is `manopavicāra`. The decisive modes are:
 
 ```text
 anunīyate
-    mind is drawn along or attracted
+    Mind is drawn along
 
 pratihanyate
-    mind is repelled or struck against
+    Mind is repelled
 
 apratisaṃkhyāya upekṣate
-    mind remains neutral without discriminative consideration
+    Mind remains neutral without discriminative consideration
 ```
 
 The six stable dwellings are their counteragents. Perception and cognition
 continue, but the practitioner is neither elated nor distressed and remains
 equanimous, recollected, and clearly comprehending.
 
-## 8. Feeling Is Not Abolished in Liberation
+## 8. Wholesome Feeling Is Not Excluded
 
 The arhat example prevents a crude inference:
 
 ```text
-absence of afflictive mental ranging
+absence of afflicted Mental Ranging
     ≠ absence of all worldly wholesome gladness
-    ≠ absence of dharma-directed cognition
+    ≠ absence of Dharma-directed Cognition
 ```
 
-What is excluded is the `sāṃkleśika` operation by which mind is reactively
+What is excluded is the `sāṃkleśika` operation by which Mind is reactively
 drawn, repelled, or left in unexamined neutrality. The field remains available
 and affective life is not reduced to blankness.
 
@@ -280,7 +279,7 @@ The thirty-six teacher's terms reinforce the role of ground:
 18 modes × 2 grounds = 36
 
 gardhāśrita
-    grounded in attachment → defiled
+    grounded in attachment → afflicted
 
 naiṣkramyāśrita
     grounded in renunciation → wholesome
@@ -288,59 +287,45 @@ naiṣkramyāśrita
 
 The same broad affective vocabulary receives a different doctrinal status
 according to what grounds it. This is not a contradiction of the statement
-that the Vaibhāṣika eighteenfold class is contaminated; it belongs to the
+that the Vaibhāṣika eighteenfold class has Influx; it belongs to the
 alternative practical differentiation introduced afterward.
 
-## 9. Philosophical and Organon Study
+## 9. Interpretation
 
-This passage distinguishes a map's extension from the function for which a
-category is taught. The Vaibhāṣika table answers where rangings occur, what
-they can take as object, and who possesses them. The alternative asks which
-operation in the agent's relation to its field is to be transformed.
+The Vaibhāṣika account maps availability and possession, declaring all
+eighteen Mental Rangings to have Influx. “Another” then presents a narrower
+sūtra reading: reactive attraction, repulsion, and neutrality without
+discriminative consideration are the afflicted modes to be countered by the
+six stable dwellings. That reading preserves Feeling, Perception, and
+wholesome cognition while changing the mode of traversal.
 
-For the Organon, this yields a three-layer analysis:
+This Loka–Karma analysis belongs to the Bhava Chakra, distinct from the Dharma
+Chakra. BEP is the indivisible Singular Matrix, both vertical and horizontal,
+Mahat-fueled: the OG Matrix of the Other Side, the House of God, Satya Loka.
+The Dharma Chakra spans *saṃvṛti* and *paramārtha* as two determinations of
+the same reality, not two worlds or substances. The Absolute Base spans and
+combines Form Base and Dharma Base; this unity is Absolute Dharma,
+discriminating all Dharmas through Form and Law.
 
-```text
-availability
-    the field can be accessed
-
-possession
-    the agent is endowed with a capacity
-
-manifest mode of traversal
-    attraction | repulsion | unexamined neutrality
-```
-
-These layers are not interchangeable. A capacity can remain available while
-its afflictive manifestation ceases; an agent can continue to cognize a field
-without being reactively governed by it.
-
-The stable dwellings are therefore a particularly exact model of
-transformation without interface deletion. The same fields remain present,
-but their governing efficacy changes: recollection and clear comprehension
-replace reactive capture. In the project's language, this can inform a theory
-of Learning as transformation of traversal rather than accumulation or
-erasure. That is an Organon reconstruction, not a term supplied by the
-Bhāṣya.
-
-The distinction between separately delimited, collective, and mixed
-object-supports also matters for Ocular Datasets. Cardinality depends upon the
-view under which objects are grouped. A count of four fields and a count of
-one mixed dharma-object can both be valid only if their aggregation rules and
-provenance remain explicit.
+The Kośa presents Vijñāna as Discriminative Cognition joining and governing
+Perception and Conception. Their unity is Inconceivable as a homogeneous
+operation; its Idea is disclosed in Vijñāna Base. Vijñāna governs Manas and
+guides the reading of Dharma Base, remaining distinct from *citta* and
+*manas*. Form Base and Dharma Base classify the same *avijñapti* in distinct
+ways, and Vijñāna bears a *prati* relation to it. Each Dharma has the Defined
+Concept `<Base, Essence, Principle>`.
 
 ## 10. Review Status
 
-This Study restores the complete natural unit at 149.01–150.11: the threshold
-and fundamental formless distributions, separate and collective object
-counting, the contaminated status of all eighteen, the dense possession
+This Study covers the complete natural unit at 149.01–150.11: the threshold
+and fundamental Formless distributions, separate and collective Condition
+counting, the Influx status of all eighteen, the dense possession
 calculation, the creative-mind exception, the alternative sūtra reading, the
 six stable dwellings, and the attachment/renunciation division into thirty-six
 teacher's terms.
 
-The Sanskrit and translation remain provisional. The possession calculation
-at 149.17–24 is textually compressed and damaged; its exact case relations
-and counts, `paripiṇḍitālambana`, `saṃbhinnālambana`, the six stable dwellings,
-and `śāstṛpadāni` require comparison with critical Sanskrit, Tibetan, Chinese,
-and established translations. The Study stops with the explicit closure of
-the becoming-limb called feeling and does not begin VAK 3.36.
+The possession calculation at 149.17–24 is textually compressed and damaged;
+its case relations and counts, `paripiṇḍitālambana`,
+`saṃbhinnālambana`, and `śāstṛpadāni` remain provisional. The Study stops
+with the explicit closure of the Becoming Limb
+called Feeling and does not begin VAK 3.36.

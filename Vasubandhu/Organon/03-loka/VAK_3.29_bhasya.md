@@ -1,4 +1,4 @@
-# VAK_3.29 Bhāṣya — Why Ignorance Is Not Defective Prajñā
+# VAK_3.29 Bhāṣya — Why Ignorance Is Not Defective Discriminative Comprehension
 
 ## 1. Kārikā Anchor
 
@@ -6,15 +6,16 @@
 > dṛṣṭes tatsaṃprayuktatvāt prajñopakleśadeśanāt // 3.29 //
 
 > Because ignorance is called a fetter and so forth, it is an operative
-> factor. If it were defective prajñā—no, because wrong views are defective
-> prajñā, are associated with ignorance, and ignorance is taught as a
-> defilement of prajñā.
+> factor. If it were faulty discriminative comprehension—no, because wrong
+> views are themselves faulty discriminative comprehension, are associated
+> with ignorance, and ignorance is taught as a defilement of discriminative
+> comprehension.
 
-The Bhāṣya tests a natural refinement of the rejected privative definition:
-perhaps ignorance is not absence of knowledge but knowledge functioning
-badly. The reply distinguishes ignorance from wrong view and from the
-`prajñā` it defiles, then considers several further definitions without
-claiming to settle the final own-nature of ignorance.
+The Bhāṣya tests a refinement of the rejected privative definition: perhaps
+ignorance is not absence of knowing but faulty discriminative comprehension.
+The reply distinguishes ignorance from wrong view and from the *prajñā* it
+defiles, then considers further definitions without settling ignorance's
+intrinsic nature.
 
 ## 2. Continuous Sanskrit
 
@@ -91,33 +92,39 @@ gives a short passage labeled 143.19–143.24 that does not match this unit
 in the running source; its wording and labels require separate collation.
 The running source remains unchanged.
 
-## 3. Continuous Conventional Translation
+## 3. Scientific English Rendering
 
 An objection proposes an analogy: just as a bad wife is called “no wife” and
-a bad son “no son,” let ignorance likewise mean defective prajñā.
+a bad son “no son,” let ignorance likewise mean defective discriminative
+comprehension.
 
-“If it is defective prajñā—no, because of wrong view.” Defective prajñā is
-afflicted prajñā, and that has the nature of wrong view. It therefore cannot
-be ignorance.
+“If it is defective discriminative comprehension—no, because of views.”
+Afflicted discriminative comprehension is of the nature of wrong view. It
+therefore cannot be ignorance.
 
-Perhaps ignorance is the defective prajñā that is not wrong view? That too is
-impossible. Why? “Because wrong view is associated with it.” If ignorance
-were prajñā, wrong view could not be associated with it, since two distinct
-instances of the substance prajñā are not associated with one another.
+Perhaps ignorance is the defective discriminative comprehension that is not
+wrong view? That too is impossible. Why? “Because wrong view is associated
+with it.” If ignorance were discriminative comprehension, wrong view could
+not be associated with it, since two distinct instances of the same
+discriminative factor are not associated with one another.
 
 There is a further reason: “because ignorance is taught as a defilement of
-prajñā.” A sūtra says, “A mind defiled by passion is not liberated; prajñā
-defiled by ignorance is not purified.” The very same prajñā cannot suitably
-be the defilement of that prajñā. Just as passion is a defilement of mind and
-is of another kind, so ignorance is a defilement of prajñā.
+discriminative comprehension.” A sūtra says, “Consciousness defiled by
+passion is not liberated; discriminative comprehension defiled by ignorance
+is not purified.” The very same discriminative comprehension cannot
+suitably be the defilement of that comprehension. Just as passion is a
+defilement of consciousness and is of another kind, so ignorance is a
+defilement of discriminative comprehension.
 
-An opponent asks why the passage cannot instead mean that wholesome prajñā,
-mixed with afflicted prajñā, fails to become purified, and that the latter is
-therefore its defilement. Likewise, when a sūtra says that a mind defiled by
-passion is not liberated, must passion literally envelop it? The mind is so
-impaired by passion that it is not liberated; when that cultivation is
-reversed, it is liberated. In the same way, one might conceive prajñā defiled
-by ignorance simply as prajñā damaged by defective prajñā.
+An opponent asks why the passage cannot instead mean that wholesome
+discriminative comprehension, mixed with afflicted discriminative
+comprehension, fails to become purified, and that the latter is therefore
+its defilement. Likewise, when a sūtra says that consciousness defiled by
+passion is not liberated, must passion literally envelop it? Consciousness
+is so impaired by passion that it is not liberated; when that cultivation is
+reversed, it is liberated. In the same way, one might conceive
+discriminative comprehension defiled by ignorance simply as comprehension
+damaged by defective comprehension.
 
 The reply is pointed: who can prevent someone from constructing such an
 interpretation? The received description, however, presents ignorance as a
@@ -127,28 +134,29 @@ The same reasoning excludes the view that all afflictions collectively are
 ignorance. If ignorance had the nature of all afflictions, it would not be
 enumerated separately among the fetters and other lists, nor could it be
 associated with wrong view, since afflictions such as views are not mutually
-associated with every other affliction. Moreover, mind as well as prajñā
-would then have to be described as defiled specifically by ignorance. If the
-reply is that “ignorance” merely qualifies the kind of defilement intended,
-the same qualification would have to be made explicitly for prajñā as well.
+associated with every other affliction. Moreover, consciousness as well as
+discriminative comprehension would then have to be described as defiled
+specifically by ignorance. If the reply is that “ignorance” merely qualifies
+the kind of defilement intended, the same qualification would have to be
+made explicitly for discriminative comprehension as well.
 
-Let ignorance, then, be a distinct dharma. What is its own-nature? One answer
-is: non-disclosure or non-manifest understanding of the truths and of karma
-and its results. But what this “non-disclosure” itself is remains unknown. If
-it simply means lack of disclosure, the same defect returns as with defining
-ignorance by absence. If it means a distinct dharma opposed to disclosure, we
-still ask what that dharma is.
+Let ignorance, then, be a distinct Dharma. What is its own nature? One answer
+is: non-disclosure of the truths and of karma and its results. But what this
+“non-disclosure” itself is remains unknown. If it simply means lack of
+disclosure, the same defect returns as with defining ignorance by absence.
+If it means a distinct Dharma opposed to disclosure, we still ask what that
+Dharma is.
 
-The reply says that dharmas can be defined relationally in just this fashion.
-For example: “What is the eye? The clear material form that serves as the
-support of eye-consciousness.”
+The reply says that Dharmas can be defined relationally in just this fashion.
+For example: “What is the Eye? The transparent Form that serves as the
+support of Eye-Cognition.”
 
-The venerable Dharmatrāta proposes an “I am” form of mine-making as
+The venerable Dharmatrāta proposes an “I am” mode of self-making as
 ignorance; the transmitted wording is uncertain. An objection asks how this
-mine-making differs from the conceit “I am.” A sūtra distinguishes cravings,
-views, forms of mine-making,
-ego-making, possessiveness, the conceit “I am,” adherence, and latent
-tendencies, and speaks of their abandonment and complete knowledge.
+self-making differs from the conceit “I am.” A sūtra distinguishes cravings,
+views, modes of self-making, ego-making, possessiveness, the conceit “I am,”
+adherence, and latent tendencies, and speaks of their abandonment and full
+comprehension.
 
 Such mine-making or selfhood does exist. But why identify precisely this with
 ignorance? Because, the proposal answers, it cannot be assigned to another
@@ -162,7 +170,7 @@ The passage contains a sequence of proposed reductions and replies:
 
 ```text
 bad-wife analogy
-    → ignorance as defective prajñā
+    → ignorance as defective discriminative comprehension
     → rejected through wrong view and association
 
 alternate reading of “defilement”
@@ -179,22 +187,22 @@ Dharmatrāta's “I-am” selfhood
     → recorded, questioned, and left unresolved
 ```
 
-The main proof belongs to Vasubandhu's received Abhidharma analysis. Several
-objections remain dialectically alive; the final Dharmatrāta proposal is not
+Vasubandhu's exposition rejects the proposed identities while preserving
+several objections and alternatives. The final Dharmatrāta proposal is not
 adopted as a settled definition.
 
-## 5. Wrong View Is Defective Prajñā
+## 5. Wrong View Is Defective Discriminative Comprehension
 
-The Bhāṣya accepts that `kuprajñā` is a real category: afflicted
-discriminative comprehension has the nature of wrong view. That concession
-makes the distinction sharper:
+The Bhāṣya accepts `kuprajñā` as a category: afflicted discriminative
+comprehension has the nature of wrong view. That concession makes the
+distinction sharper:
 
 ```text
-prajñā
-    discriminative comprehension
+vidyā / prajñā
+    knowing / discriminative comprehension
 
 kuprajñā / dṛṣṭi
-    defective prajñā in the form of view
+    afflicted discriminative comprehension in the form of view
 
 avidyā
     distinct factor associated with wrong view
@@ -207,9 +215,10 @@ that appears at the level of view.
 
 Two relational arguments support the distinction.
 
-First, wrong view is said to be associated (`saṃprayukta`) with ignorance. If
-both were separate instances of the same prajñā-factor, the technical
-association asserted by the doctrine would fail.
+First, wrong view is said to be associated (`saṃprayukta`) with ignorance.
+If ignorance were itself prajñā, wrong view could not be associated with it
+as a distinct factor; two distinct instances of the same prajñā are not
+associated in the way the argument requires.
 
 Second, ignorance is taught as an `upakleśa`, a defilement, of prajñā:
 
@@ -219,31 +228,31 @@ avidyā defiles prajñā
 ```
 
 The opponent's alternative reading—one prajñā contaminating another—shows
-that scriptural grammar alone does not mechanically force the conclusion.
-The received classification of ignorance as a different kind of factor does
-the remaining doctrinal work.
+that the verse's grammatical relation alone does not settle the analysis.
+The Bhāṣya reports this alternative and maintains its account of ignorance
+as a factor of another kind.
 
 ## 7. Rejected and Suspended Definitions
 
-VAK 3.28–3.29 now excludes several reductions:
+VAK 3.28–3.29 rejects several reductions:
 
 ```text
-ignorance is everything other than knowledge
-ignorance is absence of knowledge
-ignorance is defective prajñā
+ignorance is everything other than knowing
+ignorance is absence of knowing
+ignorance is defective discriminative comprehension
 ignorance is all afflictions collectively
 ```
 
 The proposed positive definition “non-disclosure of the truths and karmic
-results” remains difficult because it risks restating ignorance through
-another unexplained negation. The relational definition of the eye shows that
-not every definition must provide a simpler intrinsic essence, but it does
-not make the obscurity disappear.
+results” remains difficult because what “non-disclosure” is remains
+unexplained. The relational definition of the Eye Faculty shows that not
+every definition must provide a simpler intrinsic nature, but it does not
+make the obscurity disappear.
 
 Dharmatrāta's proposal identifies ignorance with a form of self-making or
-sentient-being “I-am”-ness. The Bhāṣya records reasons for considering it but
-also the danger of collapsing it into conceit. Its suspension—“let this
-remain”—must be preserved as such.
+“I-am”-ness. The Bhāṣya records the proposal and the objection that it may
+instead be conceit. It concludes, “let this remain”; neither the proposal nor
+its rejection is settled.
 
 ## 8. Bhāṣya Decisions for the Kārikā
 
@@ -259,37 +268,28 @@ The first pāda's `saṃyojanādivacanāt` completes the preceding proof that
 ignorance is an operative factor, since a mere absence could not be a fetter,
 bondage, latent tendency, flood, or yoke.
 
-## 9. Philosophical and Organon Study
+## 9. Interpretation
 
-This unit distinguishes an erroneous output from the condition deforming the
-operation that produces it:
+The source distinguishes wrong view from ignorance, which is associated with
+it and taught as defiling *prajñā*. In the inner-instrument Techne,
+*prajñā* is Science of Principles. This is a project-level interpretation,
+not a lexical gloss or an assertion that this passage alone defines the
+entire inner instrument.
 
 ```text
 wrong view
-    determinate defective judgment
+    afflicted discriminative comprehension
 
 ignorance
-    associated afflictive condition
-    under which discrimination is defiled
+    distinct factor associated with wrong view
+    and taught as defiling prajñā
 ```
 
-For the Organon, this blocks a simplistic learning model in which every error
-is corrected by replacing one proposition. A system may produce a wrong label
-because the labeling operation is itself conditioned by a persistent
-distortion. Output correction and transformation of the generating condition
-are different interventions.
-
-The Bhāṣya also provides a salutary limit. Once asked for ignorance's final
-intrinsic nature, the proposed answers become obscure, relational, or
-controversial. The Study should not turn the useful functional distinction
-into a fully transparent metaphysical entity. We know how ignorance opposes,
-associates, defiles, and conditions more securely than we know an isolated
-essence apart from those relations.
-
-Comparative claims about avidyā and Yoga Vidyā can use this distinction later:
-direct Self-recognition would have to transform the condition of cognition,
-not merely revise one view. That remains an Organon comparison, not the
-settled conclusion of Vasubandhu's present debate.
+The interpretation should retain the Bhāṣya's limit: its proposed accounts
+of ignorance's own nature remain difficult, and Dharmatrāta's “I-am” account
+is suspended for further discussion. The distinction between wrong view and
+its associated defiling factor is clearer than an isolated definition of
+ignorance.
 
 ## 10. Review Status
 

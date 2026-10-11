@@ -1,4 +1,4 @@
-# VAK_3.33 Bhāṣya — The Realm and Range of Mental Ranging
+# VAK_3.33 Bhāṣya — Mental Ranging by Realm
 
 ## 1. Kārikā Anchor
 
@@ -7,16 +7,16 @@ kāme svālambanāḥ sarve rūpī dvādaśagocaraḥ /
 trayāṇām uttaraḥ dhyānadvaye dvādaśa kāmagāḥ // 3.33 //
 ```
 
-> In the desire realm all have their own realm as object-support. The form
-> realm is the range of twelve, and the higher realm of three. In the first
-> two concentrations there are twelve, and they range toward desire.
+> In the desire realm all have their own realm as cognitive Condition. The
+> Form realm is the range of twelve, and the higher realm of three. In the
+> first two dhyānas there are twelve, and they range toward desire.
 
 The Bhāṣya first completes the determination of `manopavicāra`: it explains
 why third-concentration pleasure is not counted, why sensory language does
 not make these rangings sensory cognitions, and why an object is not
 intrinsically fixed as gladdening, distressing, or equanimous. It then begins
 the distribution of the eighteen rangings by realm-membership and
-object-support.
+realm-Condition.
 
 ## 2. Continuous Sanskrit
 
@@ -81,51 +81,50 @@ elided initial *a-* of *aśubhā* (“unattractive”). Other repairs include
 `tvbālambanam` to `tv ālambanam` at 147.21–22, and `āmadhātau` to
 `kāmadhātau` at 147.26. The running source remains unchanged.
 
-## 3. Continuous Conventional Translation
+## 3. Scientific English Rendering
 
-Why is the pleasure of the third concentration not included among the mental
-rangings? It is said to be because, at the starting point in the desire realm,
-there is no mentally based pleasure faculty and, correspondingly, no ranging
-of pain as its opposite.
+Why is the pleasure of the third dhyāna not included among Mental Rangings?
+At the outset, in the desire realm, there is no mental-level Pleasure
+Faculty; correspondingly, there is no distress-Ranging as its counterpart.
 
-If these rangings are mental in level, how are we to understand the sūtra's
-statement: “Having seen forms with the eye, one ranges over forms that are a
-basis for gladness,” and so forth? This was said with the intention that they
-are brought forth by the five bodies of sensory cognition. They are still
-mental in level, just as the contemplation of the unpleasant is both brought
-forth by eye-cognition and mental in level.
+If these rangings belong to the mental level, how is the sūtra's statement
+“having seen Forms with the Eye, one ranges through Forms that occasion
+gladness” to be understood? It refers to their being elicited by the five
+Cognition groups. These remain mental-level operations, just as the
+unattractive can be elicited by Eye-Cognition and also belong to the mental
+level.
 
-The wording “having seen,” through “having touched,” does not establish the
-objection. Those who range without presently seeing through touching also
-have mental rangings. Otherwise, in the desire realm there could be no
-rangings over form and the other fields that take the form realm as their
-object-support; nor, in the form realm, could there be rangings over odor,
-taste, and tangible that take the desire realm as object-support. The sūtra
-states the most fitting and unconfused case in order to distinguish faculty
-and object. One who has seen forms and then ranges over sounds also has a
-mental ranging.
+The phrase “having seen,” through “having touched,” does not establish that
+objection. Those who range without currently seeing or touching also have
+Mental Rangings. Otherwise, in the desire realm there could be no rangings
+through Form and the other Conditions with the Form realm as their Condition;
+nor, in the Form realm, could there be rangings through Smell, Taste, and
+Tangible with the desire realm as Condition. The sūtra states the clearest
+case to distinguish Faculty from its Condition. One who has seen Forms and
+then ranges through Sounds also has a Mental Ranging.
 
-Is there a form that is exclusively a basis for gladness—or, at the other
-limit, exclusively a basis for equanimity? Such fixation exists relative to a
-continuum, but not in the object-support itself.
+Is there a Form that is exclusively a basis for gladness—or exclusively for
+equanimity? A continuum can be determined in this way, but the cognitive
+Condition itself is not so fixed.
 
-Now it must be stated how many of these mental rangings belong to the desire
-realm and how many have which objects, and similarly through those belonging
-to the formless realm.
+Now it must be stated how many Mental Rangings are connected with each realm
+and which cognitive Conditions they have, extending the account through the
+Formless realm.
 
-In the desire realm all eighteen exist, and the desire realm is the
-object-support of all of them. The form realm is the range of twelve of those
-same rangings, excluding the six rangings over odor and taste, because those
-two object-fields are absent there. “Range” carries forward into the next
-clause: the higher, formless realm is the object-support of the three
-dharma-rangings because form and the other sensory fields are absent there.
+In the desire realm all eighteen exist, and the desire realm is the cognitive
+Condition for all of them. The Form realm is a Condition for twelve of those
+same rangings, excluding the six Smell- and Taste-Rangings, because those
+Conditions are absent there. “Range” carries forward into the next clause:
+the higher, Formless realm is the cognitive Condition for the three
+Dharma-Rangings because Form and the other sensory Conditions are absent
+there.
 
 The desire-realm-connected rangings have been stated. Those connected with
-the form realm must now be stated. In the first two concentrations there are
-twelve, excluding the rangings of distress. Those twelve are “desire-going”:
-they take the desire realm as object-support. A verb of going is indeed found
-used in the sense of apprehending an object-field. How is this understood? It
-is understood in precisely this way.
+the Form realm must now be stated. In the first two dhyānas there are twelve,
+excluding the distress-Rangings. Those twelve are “desire-going”: they take
+the desire realm as cognitive Condition. A verb of going is indeed used in
+the sense of apprehending a Condition. This is how the expression is
+understood.
 
 ## 4. Argument and Natural Boundary
 
@@ -135,8 +134,8 @@ The unit has two closely connected parts:
    level from the sensory cognition that may bring it forth, and by locating
    affective suitability in a continuum rather than intrinsically in the
    object.
-2. It asks two separate distribution questions: which realm a ranging belongs
-   to, and which realm or object-field it can take as `ālambana` or `gocara`.
+2. It asks two separate distribution questions: which realm a Ranging belongs
+   to, and which realm or Condition it can take as `ālambana` or `gocara`.
 
 The research witness begins only with the second part at 147.23. The running
 source shows that 147.10–22 supplies the conceptual premise for it: mental
@@ -169,9 +168,9 @@ it: one may see forms and then range over sounds.
 Thus three axes must remain separate:
 
 ```text
-eliciting cognition
+eliciting Cognition
 current mental operation
-object-support of that operation
+cognitive Condition of that operation
 ```
 
 The language of seeing through touching presents a clear paradigmatic case;
@@ -190,7 +189,7 @@ affective fixation
     is not intrinsic to the ālambana alone
 ```
 
-`Saṃtāna` here is the relevant individual continuum. The same object-support
+`Saṃtāna` here is the relevant individual continuum. The same cognitive Condition
 need not occupy one invariant affective station for every continuum. This is
 not the claim that affect is arbitrary: the qualification relocates the
 determination from the isolated object to the relation between object and a
@@ -201,7 +200,7 @@ be determined by its support, its realm-membership, the constitution of its
 object-field, and the continuum in which it occurs—not by one object-label
 alone.
 
-## 7. Realm-Membership and Object-Range
+## 7. Realm-Connection and Cognitive Condition
 
 The opening question distinguishes:
 
@@ -210,22 +209,22 @@ pratisaṃyukta
     the realm with which a ranging is connected
 
 ālambana / gocara
-    the realm or field it can take as object-support
+    the realm or Condition it can take as cognitive support
 ```
 
 The verse first maps the desire-realm-connected rangings and their possible
 object-realms:
 
-| Realm as object-support | Rangings admitted | Reason for restriction |
+| Realm as cognitive Condition | Rangings admitted | Reason for restriction |
 |---|---:|---|
-| desire realm | 18 | all six object-fields are available |
-| form realm | 12 | the three odor and three taste rangings are excluded |
-| formless realm | 3 | only the three dharma-rangings remain |
+| desire realm | 18 | all six Conditions are available |
+| Form realm | 12 | the three Smell and three Taste Rangings are excluded |
+| Formless realm | 3 | only the three Dharma-Rangings remain |
 
-The restriction follows from the constitution of the target realm. If odor
-and taste are absent in the form realm, that realm cannot be the object of
-odor- and taste-rangings. Where sensory form and the remaining sensory fields
-are absent, only the dharma-field can serve as object-support.
+The restriction follows from the constitution of the realm taken as
+Condition. If Smell and Taste are absent in the Form realm, it cannot
+condition Smell- and Taste-Rangings. Where Form and the other sensory
+Conditions are absent, only Dharma remains available.
 
 ## 8. The First Two Concentrations and Desire-Going
 
@@ -234,83 +233,58 @@ realm to those belonging to the form realm:
 
 ```text
 first two concentrations
-    6 gladness-rangings
-    + 6 equanimity-rangings
+    6 gladness-Rangings
+    + 6 equanimity-Rangings
     = 12
 
 excluded
-    6 distress-rangings
+    6 distress-Rangings
 ```
 
-All twelve can nevertheless take the desire realm as their object-support.
+All twelve can nevertheless take the desire realm as their cognitive
+Condition.
 Accordingly:
 
 ```text
-realm of belonging = form realm
-object-realm        = desire realm
+realm of belonging = Form realm
+realm as Condition = desire realm
 ```
 
-The Bhāṣya explicitly treats “going” as cognitive directedness or
-apprehension, not locomotion. A mental ranging reaches the desire realm by
-taking it as object; it does not thereby change its own realm-membership.
+The Bhāṣya explains “going” through taking the desire realm as a cognitive
+Condition. A Ranging's realm of belonging and the realm that conditions it
+are distinct determinations.
 
 The precise distribution beyond the first two concentrations is reserved for
 VAK 3.34.
 
-## 9. Philosophical and Organon Study
+## 9. Interpretation
 
-The passage gives the Organon a four-coordinate model, provided it is clearly
-marked as reconstruction:
+The Bhāṣya distinguishes the mental level of a Ranging from its sensory
+elicitation and distinguishes the realm with which it is connected from the
+cognitive Condition it takes up. It also locates affective determination in a
+continuum and distributes admissible Conditions according to each realm's
+constitution.
 
-```text
-MentalRanging {
-    continuum
-    realmOfBelonging
-    elicitingCognition
-    objectSupport
-}
-```
+BEP is the indivisible Singular Matrix—vertical and horizontal, Mahat-fueled,
+the OG Matrix of the Other Side, the House of God, Satya Loka, Paramārtha.
+It does not itself enter appearances.
 
-These coordinates answer different questions. Where an operation is
-constituted does not determine what it can be about; what elicited it does not
-exhaust its subsequent range; and an affective type is not a property stored
-in the object independently of every continuum.
-
-In the project's judicial analogy, realm of belonging is the operation's
-seat, while object-range concerns which matters it can take up. The analogy
-helps keep jurisdiction and admissible subject matter distinct; these are
-Organon terms, not the Bhāṣya's legal vocabulary.
-
-This is especially useful for an Ocular Dataset. The source-domain of an
-artifact, the state of the analyzing agent, the event that prompted an
-analysis, and the objects reached by that analysis require distinct fields.
-Collapsing them would reproduce exactly the confusions the Bhāṣya avoids.
-
-The realm restrictions also prevent the modern analogy from becoming mere
-subjectivism. Cross-domain reach is possible, but not every query is valid.
-The target field's own constitution determines which object-kinds it can
-supply. A form realm lacking odor and taste cannot become object-support for
-odor- and taste-rangings; directedness is relationally open yet objectively
-constrained.
-
-Finally, the continuum qualification is important for the project's theory
-of labeling. “Gladdening object” is not an absolute type intrinsic to the
-artifact. It records a relational determination in a continuum. The label can
-be valid without being an eternal predicate of the object itself.
+In the inner-instrument Techne, Vijñāna is Discriminative Cognition joining
+and governing Perception and Conception, Inconceivable as a homogeneous
+operation and disclosed in Cognition Base. It governs Manas and guides the
+reading of Dharma Base, remaining distinct from consciousness (*citta*) and
+Mind (*manas*). Form Base and Dharma Base classify the same *avijñapti*, and
+Vijñāna bears a *prati* relation to it. Each Dharma has the Defined Concept
+`<Base, Essence, Principle>`.
 
 ## 10. Review Status
 
-This Study restores the complete natural unit at 147.10–148.11, including
-the preliminary material omitted from the research witness: third-dhyāna
-pleasure, the sensory wording of mental ranging, cross-object and cross-realm
-operation, and affective fixation relative to a continuum. It then preserves
-the desire-, form-, and formless-realm object ranges and the twelve
-desire-going rangings of the first two concentrations.
+This Study covers 147.10–148.11: the third-dhyāna question, sensory
+elicitation and mental-level ranging, affective determination relative to a
+continuum, realm and Condition distributions, and the twelve rangings
+connected with the first two dhyānas. It stops at the explanation of
+`kāmaga`, before VAK 3.34's further distribution of Form-realm Rangings.
 
-The Sanskrit and translation remain provisional. The explanation of the
-third-concentration exclusion, the damaged negative constructions at
-147.15–19, `saṃtānaṃ niyamya`, the exact force of `rūpī`, and the closing
-idiom about verbs of going require comparison with critical Sanskrit,
-Tibetan, Chinese, and established translations. The Study stops at the
-explanation of `kāmaga` and does not begin VAK 3.34's further distribution of
-form-realm rangings.
+The source witness contains mechanical corruptions. The contextual repairs
+and the interpretation of `saṃtānaṃ niyamya`, `rūpī`, and `kāmaga` remain
+provisional; the source is unchanged.

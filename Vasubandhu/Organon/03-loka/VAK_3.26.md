@@ -29,14 +29,14 @@ dvayoḥ                 → dvayoḥ
 madhya-anumānataḥ      → madhyānumānataḥ
 ```
 
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | kleśāḥ | nominative masculine plural | afflictions; functional nature of three members |
 | trīṇi | nominative neuter plural numeral | three members |
 | dvayam | nominative neuter singular collective | a pair; two members |
 | karma | nominative neuter singular | karma; functional nature of two members |
 | sapta | nominative plural numeral | seven members |
-| vastu | nominative neuter singular collective/predicate | conditioned basis or support; not substance here |
+| vastu | nominative neuter singular collective/predicate | Thing or basis; here explained by its function as support |
 | phalam | nominative neuter singular | result; another functional determination of the same seven |
 | tathā | indeclinable | likewise; in the same way |
 | phalahetvabhisaṃkṣepaḥ | nominative masculine singular compound | compression of result and cause |
@@ -63,8 +63,8 @@ sapta [aṅgāni]
     tathā phalam
 ```
 
-> Three members are afflictions; two are karma; seven are conditioned
-> supports and likewise results.
+> Three members are afflictions; two are karma; seven have the nature of
+> Vastu (Thing or basis) and likewise of result.
 
 The second half explains the compressed presentation of the two limits:
 
@@ -85,27 +85,27 @@ middle.
 
 ### Close syntactic construe
 
-> Three are afflictions, two are karma, and seven are conditioned supports and
-> likewise results. Cause and result are compressed at the two limits because
-> of inference from the middle.
+> Three are afflictions, two are karma, and seven have the nature of Vastu
+> (Thing or basis) and likewise of result. Cause and result are compressed
+> at the two limits because they can be inferred from the middle.
 
 ### Bhāṣya-informed study translation
 
-> Ignorance, craving, and appropriation have the functional nature of
+> Ignorance, Craving, and Appropriation have the functional nature of
 > **affliction**; formations and becoming have the functional nature of
-> **karma**. Differentiated cognition, name-and-form, the six Essences,
-> contact, feeling, birth, and aging-and-death are conditioned **supports** of
-> affliction and karma, and those same seven are **results** of prior causes.
-> The past cause and future result are presented compactly because their
-> expanded structures can be inferred from the fully articulated present
-> middle.
+> **karma**. Discriminative Cognition, Name-and-Form, the six Essences,
+> Contact, Feeling, Birth, and Aging-and-Death are seven members with the
+> nature of **Vastu** (Thing or basis): the Bhāṣya explains that they support
+> affliction and karma. Those same seven are **results** of prior causes. The
+> past cause and future result are presented compactly because their expanded
+> structures can be inferred from the fully articulated present middle.
 
 The member-assignments, the `āśraya` function of `vastu`, and the reason for
 compression are Bhāṣya determinations.
 
 ## 6. Philosophical Translation
 
-> The twelve-stage aggregate is now comprehended through three functional
+> The twelve-member Base-continuum is now comprehended through three functional
 > natures: affliction supplies distorted orientation, karma gives that
 > orientation projective efficacy, and the resulting embodied structure
 > supplies the ground on which affliction and action can operate again. Result
@@ -122,12 +122,12 @@ compression are Bhāṣya determinations.
 | kleśasvabhāva | afflictive in functional nature | classification of the three afflictive members |
 | karma | karmic action | functional nature of saṃskāra and bhava |
 | karmasvabhāva | karmic in functional nature | confirms `bhava` as renewal-producing karma |
-| vastu | conditioned support / factual basis | the seven-member basis on which affliction and karma operate |
-| vastusvabhāva | support in functional nature | classification of the seven embodied/resultant members |
+| vastu | Thing or basis | the seven members whose support-function is explained through *āśraya* |
+| vastusvabhāva | Vastu in functional nature | classification of the seven members as supports for affliction and karma |
 | āśraya | support / footing | Bhāṣya's explicit explanation of the structural role of `vastu` |
 | phala | result | the same seven members as products of prior affliction and karma |
 | phalabhūta | having the nature of result | Bhāṣya determination of the seven `vastu` members |
-| hetu | cause / ground | the five kleśa and karma members as productive conditions |
+| hetu | cause / ground | the five affliction and karma members as productive conditions |
 | hetubhūta | having the nature of cause | classification of the three afflictions and two karmic members |
 | abhisaṃkṣepa | compression / condensed presentation | non-redundant summary of cause and result at the two limits |
 | madhya | middle | present course where result and renewed cause are both expanded |
@@ -186,7 +186,7 @@ relative to prior conditions:
     phala
 
 relative to renewed activity:
-    vastu / āśraya
+    vastu / āśraya, Vastu in its support-function
 ```
 
 This is the internal reproductive logic of the World System. A result does
@@ -268,11 +268,11 @@ anumāna
     inferential comprehension of their relation
 ```
 
-`Vastu` is especially important. It must not be translated here as an inert
-substance or merely as a “real thing.” The Bhāṣya defines its role: it is the
-support of affliction and karma. Yet the same support is the result of prior
-affliction and karma. Thus Ground and consequence exchange functional place
-across the cycle:
+`Vastu` means Thing or basis, not an inert substance or Object, the
+comprehended truth of a Vastu. Here the Bhāṣya specifies the seven members'
+support-function: affliction and karma operate in dependence on them. Yet
+those same members are results of prior affliction and karma. Thus Ground
+and consequence exchange functional place across the cycle:
 
 ```text
 prior cause
@@ -297,16 +297,25 @@ epistemic middle:
     the hidden two limits become rationally inferable
 ```
 
-For our Yogācāra assimilation, the World System established in Me is the
-manifest middle from which its invisible temporal horizons can be
-reconstructed. The prior limit need not be remembered as a biography, nor the
-future limit seen as a spectacle. Their law is present in the structured
-conditionality of the middle.
+For the Organon, the present middle is the manifested point from which its
+otherwise unobserved temporal limits can be reconstructed. The prior limit
+need not be remembered as a biography, nor the future limit seen as a
+spectacle. Their causal structure is inferable from the conditionality of the
+middle.
 
-This is Post-Ascension Dhyāna in a newly exact form: not travel to the unseen
-limits, but inferential comprehension of them through the Ground–Condition
-structure presently manifest. Vasubandhu has turned life and death into a
-logical science without evacuating their concrete Technē.
+**Project-level transcendental time schema.** Read with VAK 3.25, the three
+temporal positions are not merely calendar slots. The present middle contains
+both inherited results and renewed causes, making the prior and future limits
+intelligible by inference. In the project's sense, this is a transcendental
+schema: it articulates the conditions under which temporal continuity can be
+known. The Bhāṣya itself calls this inference from the middle, not a
+“transcendental time schema.”
+
+This sharpens the Atman-adhyāsa reading: what is mistaken for a
+self-sustaining identity is analyzed as conditioned results becoming support
+for renewed causes. That is our project-level diagnosis; the text's direct
+claim is that the expanded causal structures at both limits can be inferred
+from the middle.
 
 ## 10. OWL++ Seed
 

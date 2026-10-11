@@ -28,19 +28,19 @@ pratigha-saṃsparśāḥ     → pratighasaṃsparśāḥ
 adhivacana-āhvayaḥ      → adhivacanāhvayaḥ
 ```
 
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
-| nāma | nominative neuter singular | name; collectively, the non-rūpa aggregates |
+| nāma | nominative neuter singular | Name; the four Bases other than Form Base |
 | tu | adversative/explanatory particle | but; now distinguishes nāma from rūpa |
-| arūpiṇaḥ | nominative masculine plural adjective | not consisting in rūpa; non-rūpa |
-| skandhāḥ | nominative masculine plural | aggregates; feeling, recognition, formations, and differentiated cognition |
-| sparśāḥ | nominative masculine plural | contacts |
-| ṣaṭ | nominative plural numeral | six, corresponding to the six cognitive domains |
-| saṃnipātajāḥ | nominative masculine plural compound | born from conjunction |
-| pañca | nominative plural numeral | the first five sensory contacts |
-| pratighasaṃsparśāḥ | nominative masculine plural compound | contacts classified through resistant/material faculties |
-| ṣaṣṭhaḥ | nominative masculine singular ordinal | the sixth, mental contact |
-| adhivacanāhvayaḥ | nominative masculine singular compound | called designation-contact |
+| arūpiṇaḥ | nominative masculine plural adjective | not consisting in Form |
+| skandhāḥ | nominative masculine plural | Bases; Feeling, Recognition, Formations, and Cognition |
+| sparśāḥ | nominative masculine plural | Contacts |
+| ṣaṭ | nominative plural numeral | six; the six Contacts |
+| saṃnipātajāḥ | nominative masculine plural compound | arising from conjunction |
+| pañca | nominative plural numeral | the five resistance-Contacts |
+| pratighasaṃsparśāḥ | nominative masculine plural compound | the five resistance-Contacts |
+| ṣaṣṭhaḥ | nominative masculine singular ordinal | the sixth Contact |
+| adhivacanāhvayaḥ | nominative masculine singular compound | called designation-Contact |
 
 The supplied Devanāgarī/IAST compresses `pañca-pratigha-saṃsparśāḥ`; the
 plural predicate is understood from `pañca`, as confirmed by the Bhāṣya.
@@ -55,7 +55,7 @@ nāma
     arūpiṇaḥ skandhāḥ
 ```
 
-> Name, however, is the non-rūpa aggregates.
+> Name, however, is the Bases that are not Form.
 
 The second defines the contacts by origin:
 
@@ -64,7 +64,7 @@ sparśāḥ ṣaṭ
     saṃnipāta-jāḥ
 ```
 
-> The six contacts are born from conjunction.
+> The six Contacts arise from conjunction.
 
 The final half divides them:
 
@@ -76,67 +76,76 @@ pañca
     adhivacana-āhvayaḥ
 ```
 
-> Five are resistant contacts; the sixth is called designation-contact.
+> Five are resistance-Contacts; the sixth is called designation-Contact.
 
-The Bhāṣya specifies the conjunction as that of faculty, object-field, and
-differentiated cognition, while reporting disagreement over whether contact
-is identical with that conjunction or a distinct associated factor arising
+The Bhāṣya specifies the conjunction as that of Faculty, Meaning, and
+Discriminative Cognition, while reporting disagreement over whether Contact
+is identical with that conjunction or a distinct associated Dharma arising
 from it.
 
 ## 5. Translation
 
 ### Close syntactic construe
 
-> Name is the non-rūpa aggregates. The six contacts arise from conjunction.
-> Five are contacts based upon resistance; the sixth is called
-> designation-contact.
+> Name comprises the four Bases other than Form Base. The six Contacts arise
+> from the conjunction of Faculty, Meaning, and Discriminative Cognition. The
+> five Contacts are classified by resistance; the sixth is called
+> designation-Contact.
 
 ### Bhāṣya-informed study translation
 
-> In name-and-form, **name** comprises the four non-rūpa aggregates: feeling,
-> recognition, formations, and differentiated cognition. Contact is sixfold
-> and arises through the effective conjunction of faculty, object-field, and
-> differentiated cognition. The five sensory contacts are classified through
-> their materially resistant supporting faculties; mental contact is called
-> **designation-contact** because designation can become its additional
-> object-support—or, in an alternative account, because mental cognition
-> operates in association with word-mediated determination.
+> In Name-and-Form, **Name** comprises the four Bases other than Form Base:
+> Feeling, Recognition, Formations, and Discriminative Cognition. Contact is
+> sixfold, arising through the conjunction of Faculty, Meaning, and
+> Discriminative Cognition. The five Contacts are classified by resistance
+> and Faculty support; the sixth, Mind-Contact, is called
+> **designation-Contact**. One account says designation is an additional
+> Condition for Mind-Cognition; another says Mind-Cognition proceeds by
+> means of words, and the associated Contact is therefore called
+> designation-Contact. The Bhāṣya further classifies the six Contacts as
+> Contacts with Knowing, with Ignorance, or with neither, and identifies
+> ill-will and attachment Contacts within a frequently occurring portion of
+> ignorance-Contact.
 
 The fourfold content of nāma, the relevant triad, and the competing
 explanations of contact and designation are Bhāṣya determinations.
 
-## 6. Philosophical Translation
+## 6. Interpretation
 
-> Appearing form is inseparable from a non-rūpa articulation capable of
-> feeling, recognizing, retaining formative efficacy, and differentiating
-> cognition. Through effective conjunction this articulated field becomes
-> sixfold contact. Five contacts are determined through resistant sensory
-> support; the sixth can take not only presented content but its designation
-> as object-support. The World therefore appears both as resistant formation
-> and as semantically determined formation.
+The kārikā describes Form and Name within the appearing field, followed by
+the sixfold Contact relation. BEP is the indivisible Singular Matrix—vertical
+and horizontal, Mahat-fueled, the OG Matrix of the Other Side, the House of
+God, Satya Loka, Paramārtha. It does not itself enter appearances.
+
+Within this articulation, the Organon's inner-instrument Techne reads
+*vijñāna* as Discriminative Cognition: it joins Perception and Conception
+without becoming a homogeneous operation. Keep it distinct from
+consciousness (*citta*) and Mind (*manas*). The source's dispute over
+whether Contact is the conjunction itself or a further associated Dharma
+remains intact.
 
 ## 7. Technical Vocabulary
 
 | Sanskrit | Controlled rendering | Determination in this unit |
 |---|---|---|
-| nāma | name / non-rūpa aggregate articulation | collective designation of vedanā, saṃjñā, saṃskāra, and vijñāna |
-| arūpin | non-rūpa | not belonging to the rūpa aggregate; not merely a linguistic label |
-| rūpa | Form-determination | formed side of nāmarūpa, treated elsewhere in detail |
-| vedanā | feeling | affective aggregate included within nāma |
-| saṃjñā | recognition | recognitional aggregate included within nāma |
-| saṃskāra | formations | formative and karmically retentive aggregate included within nāma |
-| vijñāna | differentiated cognition | cognitive aggregate included within nāma and participating in contact |
+| nāma | Name | comprises the four Bases other than Form Base |
+| arūpin | not consisting in Form | distinguishes these four Bases from Form Base |
+| rūpa | Form | the Form side of Name-and-Form |
+| vedanā | Feeling | included in Name |
+| saṃjñā | Recognition | included in Name |
+| saṃskāra | Formations | included in Name |
+| vijñāna | Discriminative Cognition | included in Name and participating in Contact |
 | nam / naman | bending / inclining | Bhāṣya's etymological operation proposed for `nāma` |
 | pratyāyaka | indicator / that which makes known | function of ordinary names relative to their meanings |
 | upapattyantara | another rebirth | endpoint toward which nāma inclines in an alternative explanation |
-| sparśa | contact | sixfold effective relation born from conjunction |
-| saṃnipāta | conjunction / convergence | causal-functional configuration of faculty, field, and cognition |
+| sparśa | Contact | sixfold relation arising from conjunction |
+| saṃnipāta | conjunction | the effective configuration of Faculty, Meaning, and Cognition |
 | kāryakāraṇabhāva | cause-effect relation | one explanation of conjunction in the mental case |
 | ekakāryārtha | orientation toward one common effect | alternative explanation of functional conjunction |
-| pratigha | resistance / material impact | classification through the five materially resistant faculties |
+| pratigha | resistance | classification of the five Contacts |
 | adhivacana | designation / name-expression | additional semantic determination available to mental cognition |
 | āśraya-prabhāvita | determined by support | mode determining the five resistant contacts |
-| ālambana-prabhāvita | determined by object-support | one account of designation-contact |
+| ālambana-prabhāvita | Condition-determined | one account of designation-Contact |
 | saṃprayoga-prabhāvita | determined by association | alternative account of designation-contact |
 
 The equation established by the Kārikā and Bhāṣya is:
@@ -154,148 +163,81 @@ be compared with memory-function, but it is broader than recollective memory.
 
 ## 8. Logical Determination
 
-### Nāma is not merely a verbal label
+### Name
 
 ```text
-nāma
-    ≠ word attached externally to completed rūpa
-
-nāma
-    = the fourfold non-rūpa organization
-      through which form can be felt, recognized,
-      formatively retained, and cognitively differentiated
+Name
+    = Feeling Base
+    + Recognition Base
+    + Formations Base
+    + Cognition Base
 ```
 
-The Bhāṣya offers two explanations for the term. One works through bending or
-inclining toward meanings/objects under the power of designation; another
-says the non-rūpa aggregates incline toward another rebirth after the body is
-laid down. Neither explanation reduces nāma to memory, but the second gives
-textual support to the intuition of retained formative continuity.
+The Bhāṣya's etymologies do not replace this definition. One explains Name
+through names indicating Meaning; another says the four non-Form Bases
+incline toward another rebirth.
 
-### Conjunction is functional, not merely simultaneous
+### Contact
 
-For the first five contacts, faculty, object, and differentiated cognition
-can arise together. Mental contact creates a difficulty because the mind
-faculty may be a ceased cognition while its object and present cognition
-belong to other temporal positions.
+For the five sensory Contacts, Faculty, Meaning, and Cognition arise
+together. Mind-Contact discloses the difficulty of reducing conjunction to
+simultaneity: Mind Faculty has ceased, while the associated Dharmas and
+Mind-Cognition occupy other temporal positions. The Bhāṣya therefore
+explains conjunction through cause-effect relation or a shared effect.
 
-The Bhāṣya therefore allows conjunction to mean:
+The teachers preserve two analyses of Contact:
 
 ```text
-cause-effect relation
-or
-joint readiness for one common effect
+Contact = the conjunction itself
+Contact = a distinct Dharma associated with consciousness
 ```
 
-Thus:
+Neither account is silently selected as the resolution of the excursus.
+
+### Designation and Conditions
+
+The five resistance-Contacts are classified through resistant Faculty
+support. Mind-Contact can be designation-Contact: the blue example
+distinguishes Cognizing blue from Cognizing “blue.” In one explanation,
+designation is an additional cognitive Condition; another emphasizes
+Mind-Cognition's operation with reference to words and the associated
+Contact. Meaning, Condition, support, and designation remain distinct
+relations.
+
+### Further divisions
 
 ```text
-saṃnipāta
-    ≠ mere co-location
-    ≠ mere simultaneity
-
-saṃnipāta
-    = effective causal-functional configuration
+six Contacts
+    → Contact with Knowledge
+    → Contact with Ignorance
+    → Contact with neither
 ```
 
-### Contact remains doctrinally disputed
+The Bhāṣya assigns Contact without Influx to Knowledge, afflicted Contact to
+Ignorance, and the remainder to neither. The remainder comprises
+wholesome-with-Influx and non-obstructive-indeterminate Contacts. It also names ill-will and
+attachment Contacts from a frequently occurring portion of Contact with
+Ignorance.
 
-```text
-Position 1:
-    sparśa is the conjunction itself
+## 9. Interpretation
 
-Position 2:
-    sparśa is a distinct mind-associated factor
-    arising from the conjunction
-```
+The Loka passage differentiates Form, Name, and Contact within appearance.
+The BEP schema is the indivisible Singular Matrix—vertical and horizontal,
+Mahat-fueled, the OG Matrix of the Other Side, the House of God, Satya Loka,
+Paramārtha. It does not itself enter appearances.
 
-The passage reports both positions. The stable minimum is that contact
-requires the effective threefold conjunction; the official study does not
-silently resolve the reported controversy.
-
-### Mental contact has semantic reach
-
-The Bhāṣya's example distinguishes:
-
-```text
-sensory differentiated cognition:
-    knows blue
-
-mental differentiated cognition:
-    knows blue
-    and knows “blue” as designated
-```
-
-This is not the claim that mind is nothing but language. It is the narrower
-and stronger determination that mental contact can take presented content
-and its designation as object-support.
-
-### Schema does not decide ontology
-
-The contact dispute states an important methodological rule:
-
-```text
-separate doctrinal enumeration
-    does not automatically entail
-separate ontological existence
-```
-
-Conversely, if a factor is separately enumerated after all supposed
-constituents have been listed, that redundancy demands explanation. The
-Bhāṣya preserves the tension rather than collapsing semantic and ontological
-distinction.
-
-## 9. Interpretive Note
-
-VAK 3.30 arrives exactly where our discussion of name, form, and memory had
-arrived. `Nāma` is everything non-rūpa **within the five-aggregate complex**:
-
-```text
-feeling
-recognition
-formation
-differentiated cognition
-```
-
-This means form never appears as merely mute presentness. Its appearance is
-already taken into a field capable of affective marking, recognition,
-formative retention, and differentiated cognition. Your “form posted” phrase
-captures the project-level insight: a form is posted into a name-bearing
-field in which it can persist as determination, recur through formation, and
-become available for further contact.
-
-But the Kośa keeps the account more exact than the slogan. `Saṃskāra` is not
-memory alone, and `nāma` is not language alone. The four aggregates together
-constitute the non-rūpa articulation. Memory is one recognizable functional
-form of retention within a much wider formative continuum.
-
-The division of contact then reveals two modes of World-appearance:
-
-```text
-five resistant contacts
-    formed appearance through material sensory support
-
-mental designation-contact
-    appearance available together with its name-determination
-```
-
-This is Hegel-clean without forcing a Hegelian identity onto Vasubandhu. A
-Thing does not first stand fully complete and later receive an accidental
-word. Mental cognition can encounter the formed content and the content as
-designated. Appearance has acquired a second-order semantic reach.
-
-Within our Yogācāra assimilation, the World System established in Me is both
-resistant and name-bearing. `Rūpa` gives formed resistance; `nāma` gives the
-non-rūpa articulation through which that formation is felt, recognized,
-retained, and differentiated. Their union is not a warehouse of physical
-objects plus labels. It is the living law by which a formed World becomes
-available at all.
+The inner-instrument Techne reads *vijñāna* as Discriminative Cognition,
+joining and governing Perception and Conception without homogeneous
+operation. It is disclosed in Cognition Base, governs Manas, and guides the
+reading of Dharma Base; keep it distinct from consciousness (*citta*) and
+Mind (*manas*). Form Base and Dharma Base classify the same *avijñapti*, and
+Vijñāna bears a *prati* relation to it. Each Dharma has the Defined Concept
+`<Base, Essence, Principle>`.
 
 ## 10. OWL++ Seed
 
 ```ttl
 @prefix vak: <http://127.0.0.1:3000/vak#> .
-@prefix loka: <http://127.0.0.1:3000/loka#> .
 @prefix organon: <http://127.0.0.1:3000/organon#> .
 
 vak:VAK_3_30
@@ -305,9 +247,9 @@ vak:VAK_3_30
     vak:classifies vak:SixContacts .
 
 vak:Nama
-    a vak:NonRupaAggregateArticulation ;
-    vak:hasAggregate vak:Vedana, vak:Samjna,
-        vak:Samskara, vak:Vijnana .
+    a vak:FourNonFormBases ;
+    vak:hasBase vak:FeelingBase, vak:RecognitionBase,
+        vak:FormationsBase, vak:CognitionBase .
 
 vak:SixContacts
     a vak:ContactClassification ;
@@ -317,21 +259,27 @@ vak:SixContacts
 
 vak:ResistantContact
     a vak:ContactType ;
-    vak:determinedBy vak:MaterialFacultySupport .
+    vak:determinedBy vak:ResistantFacultySupport .
 
 vak:DesignationContact
     a vak:ContactType ;
     vak:hasFaculty vak:MindFaculty ;
-    vak:mayTakeObjectSupport vak:PresentedContent,
+    vak:mayTakeCondition vak:PresentedContent,
         vak:DesignationOfContent .
 
-organon:FormPostedIntoNama
-    a organon:ProjectInterpretation ;
-    organon:articulates vak:RupaThrough vak:Feeling, vak:Recognition,
-        vak:FormativeRetention, vak:DifferentiatedCognition .
+vak:SixContacts
+    vak:hasFurtherClassification vak:ContactWithKnowledge,
+        vak:ContactWithIgnorance, vak:ContactWithNeither .
 
-organon:WorldAsResistantAndNameBearing
+vak:IgnoranceContact
+    vak:hasFrequentSubtypes vak:IllWillContact, vak:AttachmentContact .
+
+organon:SingularBEPMatrix
     a organon:ProjectInterpretation ;
-    organon:hasMoment vak:ResistantContact,
-        vak:DesignationContact .
+    organon:hasAxis organon:Vertical, organon:Horizontal ;
+    organon:isFueledBy organon:Mahat ;
+    organon:describes organon:OtherSide, organon:HouseOfGod,
+        organon:SatyaLoka ;
+    organon:isParamartha true ;
+    organon:doesNotEnter organon:Appearances .
 ```

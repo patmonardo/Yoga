@@ -40,7 +40,7 @@ jarā-maraṇam            → jarāmaraṇam
 
 | Form | Morphology | Lexical force here |
 |---|---|---|
-| saḥ | nominative masculine singular pronoun | the one pursuing objects in 3.23 |
+| saḥ | nominative masculine singular pronoun | the one pursuing Conditions in 3.23 |
 | bhaviṣyat | future active participial form used in compound relation | future; forthcoming |
 | bhavaphalam | accusative neuter singular compound | renewed existence as result |
 | kurute | third-person singular middle present of √kṛ | makes; performs; produces |
@@ -102,7 +102,7 @@ Kārikā reading is not independently secure.
 
 ### Bhāṣya-informed study translation
 
-> Running about to obtain desired objects, one accumulates karma productive
+> Running about to obtain desired Conditions, one accumulates karma productive
 > of renewed existence; this renewal-producing karma is designated
 > **becoming**. When, after death from the present life, that karma produces a
 > future rebirth-junction, the junction is designated **birth**. The ensuing
@@ -160,7 +160,7 @@ future-result compression:
 
 ```text
 upādāna
-    object pursued for acquisition
+    Condition pursued for acquisition
 
         ↓ activity accumulates karma
 
@@ -203,7 +203,7 @@ nāmarūpa → ṣaḍāyatana → sparśa → vedanā
 jarāmaraṇa when viewed prospectively
 ```
 
-The twelve members are therefore not twelve self-standing objects occupying
+The twelve members are therefore not twelve self-standing items occupying
 one invariant temporal scale. They are determinations of one conditioned
 course according to position, scale, and explanatory function.
 
@@ -232,17 +232,17 @@ exist. Through appropriation and karma, it **produces the future as a
 determinate destination of the present course**.
 
 ```text
-object pursued
+Condition pursued
     → karma accumulated
     → future junction projected
     → embodied World renewed
 ```
 
 This also deepens the determination that the World is established in Me. The
-object pursued in the present is not merely one content among others. Through
-the action organized around it, the object participates in configuring the
-future World in which differentiated cognition will again obtain footing.
-The object-field becomes destiny through karma.
+the Condition pursued in the present is not merely a passive target. Action
+organized in relation to it participates in configuring the future World in
+which Discriminative Cognition will again obtain footing. The field of
+Conditions becomes a determinant of destiny through karma.
 
 The perspectival identity `vijñāna here = jāti there` is especially powerful
 for Yogācāra assimilation. The members do not name metaphysically sealed
@@ -293,7 +293,7 @@ organon:IndexicalMemberDesignation
     organon:accordingTo organon:TemporalPosition,
         organon:ExplanatoryFunction .
 
-organon:ObjectBecomesDestiny
+organon:ConditionBecomesDestiny
     a organon:ProjectInterpretation ;
     organon:mediatedBy vak:AcquisitionSearch, vak:KarmaAccumulation ;
     organon:projects vak:FutureEmbodiedWorld .

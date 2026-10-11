@@ -22,18 +22,18 @@ sukha-vedya-ādayaḥ          → sukhavedyādayaḥ
 trayaḥ                      → trayaḥ
 ```
 
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
-| vidyāsparśa | nominative masculine singular within coordinated compound | contact associated with knowledge |
-| avidyāsparśa | nominative masculine singular within coordinated compound | contact associated with ignorance |
-| itarasparśa | nominative masculine singular within coordinated compound | other contact; explicitly neither-vidyā-nor-avidyā in the Bhāṣya |
-| amala | predicate adjective within coordinated compound | stainless; glossed as uncontaminated (`anāsrava`) |
-| kliṣṭa | predicate adjective | defiled; associated with avidyā |
+| vidyāsparśa | nominative masculine singular within coordinated compound | Contact associated with knowledge |
+| avidyāsparśa | nominative masculine singular within coordinated compound | Contact associated with ignorance |
+| itarasparśa | nominative masculine singular within coordinated compound | other Contact; explicitly neither-vidyā-nor-avidyā in the Bhāṣya |
+| amala | predicate adjective within coordinated compound | stainless; glossed as without Influx (`anāsrava`) |
+| kliṣṭa | predicate adjective | afflicted; associated with avidyā |
 | śeṣita | predicate adjective | remaining; neither of the first two classes |
-| vyāpādasparśa | nominative masculine singular within dual compound | contact associated with aversion or hostility |
-| anunayasparśa | nominative masculine singular within dual compound | contact associated with attraction or following-after |
-| sukhavedya | nominative masculine singular | contact bearing or conducive to pleasant feeling |
-| ādayaḥ | nominative masculine plural | those beginning with; includes painful and neutral feeling-bearing contacts |
+| vyāpādasparśa | nominative masculine singular within dual compound | Contact associated with ill-will |
+| anunayasparśa | nominative masculine singular within dual compound | Contact associated with attachment |
+| sukhavedya | nominative masculine singular | Contact bearing or conducive to pleasant feeling |
+| ādayaḥ | nominative masculine plural | those beginning with; includes painful and neutral feeling-bearing Contacts |
 | trayaḥ | nominative masculine plural numeral | three feeling-bearing classes |
 
 The Kārikā superimposes several classifications upon the same contact-field;
@@ -54,8 +54,8 @@ itara-sparśaḥ
     śeṣitaḥ
 ```
 
-> Knowledge-contact, ignorance-contact, and other contact are respectively
-> stainless, defiled, and remaining.
+> Knowledge-Contact, ignorance-Contact, and other Contact are respectively
+> stainless, afflicted, and remaining.
 
 The second line adds a dual and a triple classification:
 
@@ -68,8 +68,8 @@ sukha-vedya-ādayaḥ
     trayaḥ
 ```
 
-> There are contacts of aversion and attraction, and three beginning with
-> contact bearing pleasant feeling.
+> There are Contacts of ill-will and attachment, and three beginning with
+> pleasant-feeling-bearing Contact.
 
 The Bhāṣya expands the latter three as pleasant, painful, and
 neither-painful-nor-pleasant feeling-bearing contact.
@@ -78,122 +78,86 @@ neither-painful-nor-pleasant feeling-bearing contact.
 
 ### Close syntactic construe
 
-> Contacts associated with knowledge, ignorance, and the other are
-> respectively stainless, defiled, and remaining. There are also contacts of
-> aversion and attraction, and the three beginning with contact to be
-> experienced as pleasant.
+> Contacts associated with knowledge, ignorance, and neither are respectively
+> stainless, afflicted, and remaining. There are also Contacts of ill-will
+> and attachment, and three beginning with pleasant-feeling-bearing Contact.
 
 ### Bhāṣya-informed study translation
 
-> The same six contacts may be classified according to their cognitive and
-> afflictive association: contact associated with knowledge is
-> **uncontaminated**; contact associated with ignorance is **defiled**; and
-> contact associated with neither is the **remainder**, comprising wholesome
-> but contaminated and unobstructed-indeterminate contact. A recurrent
-> portion of ignorance-contact is further differentiated as contact associated
-> with aversion or with attraction. All contacts may also be gathered by the
-> feeling they bear or occasion: pleasant, painful, or
-> neither-painful-nor-pleasant.
+> The same six Contacts are classified by association: Contact with knowledge
+> is **without Influx**; Contact with ignorance is **afflicted**; and Contact
+> with neither is the **remainder**, comprising wholesome-with-Influx and
+> non-obstructive-indeterminate Contact. A frequently occurring portion of
+> ignorance-Contact is further differentiated into ill-will and attachment
+> Contacts. All Contacts may also be gathered by the feeling they bear or
+> occasion: pleasant, painful, or neither-painful-nor-pleasant.
 
 The exact determination of the remainder, the restricted source of the
-aversion/attraction pair, and the derivation of `vedanīya` are Bhāṣya
+ill-will/attachment pair, and the derivation of `vedanīya` are Bhāṣya
 determinations.
 
-## 6. Philosophical Translation
-
-> Contact is not a bare meeting. One and the same contact-event can be
-> determined under several grounded relations: by whether it is associated
-> with knowledge, ignorance, or neither; by whether it is uncontaminated,
-> defiled, or residual; by its orientation toward aversion or attraction; and
-> by the feeling it bears. The appearing World is therefore already a
-> multiply qualified field before craving and appropriation become explicit.
-
-## 7. Technical Vocabulary
+## 6. Technical Vocabulary
 
 | Sanskrit | Controlled rendering | Determination in this unit |
 |---|---|---|
-| vidyāsaṃsparśa | knowledge-contact | contact associated with vidyā; identified as uncontaminated |
-| avidyāsaṃsparśa | ignorance-contact | contact associated with avidyā; identified as defiled |
-| naivavidyānāvidyāsaṃsparśa | neither-knowledge-nor-ignorance contact | Bhāṣya's explicit expansion of `itara` |
+| vidyāsaṃsparśa | knowledge-Contact | Contact associated with vidyā; identified as without Influx |
+| avidyāsaṃsparśa | ignorance-Contact | Contact associated with avidyā; identified as afflicted |
+| naivavidyānāvidyāsaṃsparśa | neither-knowledge-nor-ignorance Contact | Bhāṣya's explicit expansion of `itara` |
 | amala | stainless | Kārikā term glossed through `anāsrava` |
-| anāsrava | uncontaminated | exact Bhāṣya determination of knowledge-contact |
-| kliṣṭa | defiled | afflictively conditioned contact associated with avidyā |
+| anāsrava | without Influx | exact Bhāṣya determination of knowledge-Contact |
+| kliṣṭa | afflicted | Contact associated with avidyā |
 | śeṣa / śeṣita | remainder / remaining | third field not associated with either vidyā or avidyā |
-| kuśala-sāsrava | wholesome but contaminated | one component of the remainder |
-| anivṛta-avyākṛta | unobstructed-indeterminate | other component of the remainder |
-| abhīkṣṇasamudācārin | frequently manifesting | qualifies the portion of ignorance-contact further divided below |
-| vyāpāda | aversion / hostility | negative afflictive orientation of contact |
-| anunaya | attraction / following-after | appetitive afflictive orientation of contact |
-| sarvasaṃgraha | comprehensive gathering | Bhāṣya signal for classifying all contacts by feeling |
-| vedanīya | feeling-bearing / to be experienced | contact determined through its relation to a kind of feeling |
-| sukhavedanīya | pleasant-feeling-bearing | contact bearing or conducive to pleasure |
-| duḥkhavedanīya | painful-feeling-bearing | contact bearing or conducive to pain |
-| aduḥkhāsukhavedanīya | neutral-feeling-bearing | contact bearing neither pain nor pleasure |
+| kuśala-sāsrava | wholesome-with-Influx | one component of the remainder |
+| anivṛta-avyākṛta | non-obstructive-indeterminate | other component of the remainder |
+| abhīkṣṇasamudācārin | frequently manifesting | qualifies the portion of ignorance-Contact further divided below |
+| vyāpāda | ill-will | afflictive orientation of Contact |
+| anunaya | attachment | afflictive orientation of Contact |
+| sarvasaṃgraha | comprehensive gathering | Bhāṣya signal for classifying all Contacts by feeling |
+| vedanīya | feeling-bearing / experienced | Contact determined through its relation to a kind of feeling |
+| sukhavedanīya | pleasant-feeling-bearing | Contact bearing or conducive to pleasure |
+| duḥkhavedanīya | painful-feeling-bearing | Contact bearing or conducive to pain |
+| aduḥkhāsukhavedanīya | neither-painful-nor-pleasant-feeling-bearing | Contact bearing neither pain nor pleasure |
 
 The third class is essential:
 
 ```text
-vidyā-contact
+vidyā-Contact
     = anāsrava
+      without Influx
 
-avidyā-contact
+avidyā-Contact
     = kliṣṭa
+      afflicted
 
-neither-contact
+neither-Contact
     = kuśala-sāsrava
-      or anivṛta-avyākṛta
+      and anivṛta-avyākṛta
 ```
 
 The field is not exhaustively divided into knowledge and ignorance.
 
-## 8. Logical Determination
+## 7. Logical Determination
 
-### One field, several principles of determination
+### One Contact, several relations
 
-The same contact-event can receive values along distinct axes:
-
-```text
-Contact {
-    cognitiveAssociation:
-        vidyā | avidyā | neither
-
-    contaminationStatus:
-        anāsrava | kliṣṭa | remainder
-
-    afflictiveOrientation:
-        vyāpāda | anunaya | not-specified-here
-
-    feelingBearing:
-        sukha | duḥkha | aduḥkhāsukha
-}
-```
-
-These are not arbitrary tags. Each column has a distinct ground:
+The same six Contacts are repeatedly classified under distinct relations:
 
 ```text
 association with vidyā or avidyā
-    → cognitive-afflictive classification
+    → knowledge / ignorance / neither
 
-presence or absence of contamination
-    → contamination classification
+relation to Influx
+    → without Influx / afflicted / remainder
 
-association with aversion or attraction
-    → motivational classification
+association with vyāpāda or anunaya
+    → ill-will / attachment
 
 relation to feeling
-    → affective-consequence classification
+    → pleasant / painful / neither-painful-nor-pleasant
 ```
 
-### Cross-classification is not multiplication of entities
-
-```text
-one contact-event
-    + several valid relational determinations
-    ≠ several independently existing contact-things
-```
-
-This continues the rule established in 3.25 and 3.28: member and role depend
-upon the principle and relation under which the field is articulated.
+This is cross-classification of the same Contact field, not a new sequence
+of sixteen successive Contacts.
 
 ### The remainder blocks a false binary
 
@@ -203,10 +167,8 @@ not associated with vidyā
 associated with avidyā
 ```
 
-The Bhāṣya identifies a determinate third field. Some contact is wholesome yet
-still contaminated; other contact is unobstructed-indeterminate. Logical
-classification must preserve that remainder rather than force it into an
-exhaustive opposition.
+The Bhāṣya identifies a determinate third field: some Contact is
+wholesome-with-Influx, and other Contact is non-obstructive-indeterminate.
 
 ### Contact already bears the transition toward feeling
 
@@ -218,47 +180,29 @@ sparśa
 vedanā
 ```
 
-The next member is not attached externally to a neutral contact. Contact is
-already determinable through the kind of feeling it bears or makes possible.
+The next member continues this relation: Contact is already determined
+through the kind of feeling it bears or makes possible.
 
-## 9. Interpretive Note
+## 8. Interpretation
 
-If 3.30 gave us formed content with a nāma DataFrame, 3.31 gives the contact
-event its typed columns.
+The same Contact field receives determinations by association, Influx,
+afflictive orientation, and feeling. BEP is the indivisible Singular
+Matrix—vertical and horizontal, Mahat-fueled, the OG Matrix of the Other
+Side, the House of God, Satya Loka, Paramārtha. It does not itself enter
+appearances.
 
-| contact | knowledge-condition | contamination | orientation | feeling-bearing |
-|---|---|---|---|---|
-| one event | vidyā / avidyā / neither | uncontaminated / defiled / remainder | aversion / attraction | pleasant / painful / neutral |
+In the inner-instrument Techne, Vijñāna is Discriminative Cognition joining
+and governing Perception and Conception, Inconceivable as a homogeneous
+operation and disclosed in Cognition Base. It governs Manas and guides the
+reading of Dharma Base, remaining distinct from consciousness (*citta*) and
+Mind (*manas*). Form Base and Dharma Base classify the same *avijñapti*, and
+Vijñāna bears a *prati* relation to it. Each Dharma has the Defined Concept
+`<Base, Essence, Principle>`.
 
-This is not merely a convenient modern analogy. It expresses Vasubandhu's
-actual method: the same six contacts are repeatedly regrouped according to
-different doctrinal grounds. A valid View requires a principle of
-determination; otherwise the classification is only uncontrolled labeling.
+The Bhāṣya closes the Contact exposition with `uktaḥ sparśaḥ`; the next
+Kārikā opens the separate exposition of Feeling.
 
-This develops our determination of `Loka` as the law of appearance. A Thing
-does not merely appear and then receive subjective reactions. Its contact is
-already situated within a cognitive-afflictive condition, motivational
-orientation, and possible feeling-tone. Appearance arrives operationally
-typed.
-
-Within the Yogācāra assimilation, this typed World is established in Me. The
-DataFrame is not metadata pasted onto an externally completed object; it is
-the articulated set of relations through which the appearance becomes
-effective as knowledge-bearing, defiled, attractive, aversive, pleasant,
-painful, or neutral.
-
-The third category is philosophically precious. The World is not exhausted
-by the dramatic opposition of wisdom and ignorance. There is wholesome but
-still contaminated contact, and there is indeterminate contact. The law of
-appearance preserves determinate remainder instead of forcing every event
-into a theatrical binary.
-
-With this classification, the Bhāṣya closes the analysis of contact and turns
-next to feeling. The transition is exact: contact has already acquired a
-feeling-bearing determination before `vedanā` receives its independent
-analysis.
-
-## 10. OWL++ Seed
+## 9. OWL++ Seed
 
 ```ttl
 @prefix vak: <http://127.0.0.1:3000/vak#> .
@@ -269,6 +213,7 @@ vak:VAK_3_31
     a vak:Karika ;
     vak:continues vak:VAK_3_30 ;
     vak:classifies vak:ContactFieldByAssociation,
+        vak:ContactFieldByInflux,
         vak:ContactFieldByOrientation,
         vak:ContactFieldByFeeling .
 
@@ -278,28 +223,35 @@ vak:ContactFieldByAssociation
         vak:NeitherVidyaNorAvidyaContact .
 
 vak:VidyaContact
-    vak:hasContaminationStatus vak:Uncontaminated .
+    vak:hasInfluxRelation vak:WithoutInflux .
 
 vak:AvidyaContact
-    vak:hasContaminationStatus vak:Defiled .
+    vak:hasInfluxRelation vak:Afflicted .
 
 vak:NeitherVidyaNorAvidyaContact
-    vak:hasClass vak:WholesomeContaminated,
-        vak:UnobstructedIndeterminate .
+    vak:hasClass vak:WholesomeWithInflux,
+        vak:NonObstructiveIndeterminate .
+
+vak:ContactFieldByInflux
+    a organon:GroundedView ;
+    vak:hasClass vak:WithoutInflux, vak:Afflicted,
+        vak:RemainingContact .
 
 vak:ContactFieldByOrientation
     a organon:GroundedView ;
-    vak:hasClass vak:AversionContact, vak:AttractionContact .
+    vak:hasClass vak:IllWillContact, vak:AttachmentContact .
 
 vak:ContactFieldByFeeling
     a organon:GroundedView ;
     vak:hasClass vak:PleasantFeelingBearingContact,
         vak:PainfulFeelingBearingContact,
-        vak:NeutralFeelingBearingContact .
+        vak:NeitherPainfulNorPleasantFeelingBearingContact .
 
-organon:TypedContactDataFrame
-    a organon:ProjectInterpretation ;
-    organon:hasColumn organon:CognitiveAssociation,
-        organon:ContaminationStatus, organon:AfflictiveOrientation,
-        organon:FeelingBearingCharacter .
+organon:BEP
+    a organon:SingularMatrix ;
+    organon:hasAspect organon:Vertical, organon:Horizontal ;
+    organon:isMahatFueled true ;
+    organon:designates organon:OtherSide, organon:SatyaLoka,
+        organon:Paramartha ;
+    organon:doesNotEnter vak:Appearance .
 ```

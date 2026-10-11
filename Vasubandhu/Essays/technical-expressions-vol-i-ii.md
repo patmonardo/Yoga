@@ -201,38 +201,44 @@ contrast technically operative; do not assume it is a synonym for *prāpti*.
 wandering. Keep it distinct from *loka*; it is useful context but not a
 coequal system-expression in the priority roster.
 
-## 7. Conditions, Fields, and the Object Distinction
+## 7. Conditions, Fields, Vastu, and Object
 
-These terms are not all at the same level, but their English renderings can
-make a condition of cognition look like an achieved Object or collapse
-distinct roles. In the sensory schema, the five *arthas* are meanings
-classified under the Seen; do not collapse them into the cognitive
-conditions (*ālambana*, *viṣaya*) or into an achieved Object.
+These terms name different moments of knowing. Keep the cognitive
+Condition, the Thing, its Meaning, and the truth disclosed as Object
+distinct.
 
 | Expression | Working sense | Editorial control |
 |---|---|---|
-| **Ālambana** (*ālambana*) | Cognitive condition or support; in the causal scheme, object-condition. | Do not render as an achieved Object. Preserve its role as a condition on which cognition depends. |
-| **Viṣaya** (*viṣaya*) | Field or condition of a faculty/Cognition; in 1.09, the Bhāṣya uses it to explain the five *arthas*. In the Reflective Relation, a specific moment of the Seen. | Do not promote the field/condition to an achieved Object or identify one moment with the whole Seen. Translate according to its local relation. |
-| **Artha** (*artha*) | Meaning; purpose or function where the local context requires. In 1.09, one of the five sensory meanings, each classified under the Seen and related to its corresponding *viṣaya*. | Never translate *artha* as “object” or object-like. Keep Meaning distinct from cognitive Conditions (*ālambana*, *viṣaya*) and from the achieved Object. In 2.02, *sva-artha* means one's own meaning; see the Pre-Loka Object Request note below. |
-| **Vastu** (*vastu*) | Thing or real basis in the project's current philosophical distinction. | Keep distinct from a cognitive Condition (*ālambana/viṣaya*) and from **Object**, the project's achieved comprehension. |
+| **Ālambana** (*ālambana*) | Cognitive condition or support; in the causal scheme, object-condition. | Preserve its role as a Condition on which Cognition depends; do not identify it with Object, the truth of Vastu. |
+| **Viṣaya** (*viṣaya*) | Condition or field of a Faculty/Cognition; in 1.09, the Bhāṣya uses it to explain the five *arthas*. In the Reflective Relation, a specific moment of the Seen and the playground of the Faculties. | Translate according to its local relation as Condition; do not promote a specific Condition to Object or identify one moment with the whole Seen. |
+| **Artha** (*artha*) | Meaning; purpose or function where the local context requires. In 1.09, one of the five sensory meanings, each classified under the Seen and related to its corresponding *viṣaya*. | Never translate *artha* as “object” or object-like. Keep Meaning distinct from cognitive Conditions (*ālambana*, *viṣaya*) and from Object. In 2.02, *sva-artha* means one's own meaning; see the Pre-Loka Object Request note below. |
+| **Vastu** (*vastu*) | Thing or real basis. | Keep the Thing distinct from its cognitive Condition and from Object, the comprehended truth of the Vastu. |
+| **Object** | The comprehended truth of a Vastu. | Object is not the Vastu itself, a cognitive Condition, or the act of comprehension. Objectivity is disclosed through synthesis and comprehension, not by merely staring at a Condition. |
 
 **Condition is not Object.** A *viṣaya* or *ālambana* may condition or
-support a Cognition without thereby being the comprehended Object. The
-project's **Object** names an achievement of synthesis and comprehension;
-do not use it as a loose synonym for the five *arthas*.
+support Cognition without itself being Object. The Condition belongs to the
+playground of the Faculties; Object names the truth of Vastu disclosed in
+knowing.
+
+**Pre-Subject boundary.** In the Science of Knowing, Knowing encounters the
+Seed of the Subject before the Subject is constituted. This determination
+does not yet have a Subject:Object relation; do not call what is known here
+an Object. Reserve Object for the later Subject:Object relation, where it
+names the comprehended truth of Vastu.
 
 **Indriya 2.02: Pre-Loka Object Request.** In *svārthopalabdhi*,
-*sva-artha* is one's own meaning and *upalabdhi* is apprehension. The
-Organon reading calls this relation an **Object Request**: meaning is
-requested in apprehension, not yet an achieved Object or a Thing. Object
-Construction and the graspable Being-There are still ahead of the request.
-This is Pre-Loka; “Object Request” is an Organon determination, not a
-lexical translation of *artha*.
+*sva-artha* is one's own Meaning and *upalabdhi* is apprehension. The
+Organon reading calls this relation an **Object Request**: Meaning is
+requested in apprehension, while Object—the comprehended truth of Vastu—
+has not yet been disclosed. This does not mean that the Vastu itself is
+absent. Object Construction is still ahead of the request. “Object Request”
+is an Organon determination, not a lexical translation of *artha*.
 
 **Reflective Seer/Seen relation.** Mind-Essence is the Seer as Reflector;
 Dharma-Essence is the Seen. *Artha* is classified under the Seen, while
-*viṣaya* marks a specific moment of the Seen. This is an Organon-level
-relation, not a lexical definition of either Sanskrit term.
+*viṣaya* marks a specific moment of the Seen and the playground of the
+Faculties. This is an Organon-level relation, not a lexical definition of
+either Sanskrit term.
 
 **Bounded supporting vocabulary:** *Bhūta/mahābhūta* means Element/great
 Element in the material analysis. Keep these distinct from *dhātu* when it

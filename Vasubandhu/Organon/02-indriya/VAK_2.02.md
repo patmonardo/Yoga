@@ -98,16 +98,17 @@ The commentary distinguishes a condition of apprehension from its governing
 Faculty. A sensory object contributes its particular content; the Faculty
 provides a common operative capacity across that sensory range, and
 apprehension varies with the Faculty's condition. Causal contribution alone
-does not establish governing efficacy. In the sensory schema, the object
-functions as a cognitive Condition, distinct from an achieved Object.
+does not establish governing efficacy. In the sensory schema, the *viṣaya*
+functions as a cognitive Condition, distinct from Object, the comprehended
+truth of Vastu.
 
-In the Kant-informed Techne, the Faculty/object distinction marks different
-conditions within one relation of apprehension; it does not turn either
-condition into an independent substance. Mind's wider range does not erase
-the distinct sensory fields. The Female and Male Faculties likewise remain
-portions of the Body Faculty while governing a wider embodied configuration.
-This is a project-level interpretation, not a claim that the Bhāṣya names
-Kant or supplies a contemporary theory of sexed embodiment.
+In the Kant-informed Techne, the Faculty/Condition distinction marks
+different moments within one relation of apprehension; it does not turn
+either moment into an independent substance. Mind's wider range does not
+erase the distinct sensory fields. The Female and Male Faculties likewise
+remain portions of the Body Faculty while governing a wider embodied
+configuration. This is a project-level interpretation, not a claim that the
+Bhāṣya names Kant or supplies a contemporary theory of sexed embodiment.
 
 ## 7. Technical Vocabulary
 

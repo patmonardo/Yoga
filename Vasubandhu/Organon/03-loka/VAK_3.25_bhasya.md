@@ -10,8 +10,8 @@
 > the prior limit, subsequent limit, and middle.
 
 The Bhāṣya locates the twelve-member, three-life account among several valid
-modes of dependent-arising analysis. It explains how composite five-aggregate
-stages receive single member-names and why the sūtra selects this particular
+modes of *samutpāda* analysis. It explains how complex five-Base stages
+receive single member-names and why the sūtra selects this particular
 sentient-life presentation.
 
 ## 2. Continuous Sanskrit
@@ -87,61 +87,62 @@ are retained above. The meanings of this term and `sāṃbandhika` remain
 dependent upon this compressed classification and require collation.
 The running source remains unchanged.
 
-## 3. Continuous Conventional Translation
+## 3. Scientific English Rendering
 
-This dependent arising is said to be fourfold: momentary, extended,
-connected, and stage-based. How is it momentary? All twelve members can occur
-even in a single moment. Suppose, for example, that under the power of greed
-one deprives a living being of life. The delusion is ignorance; the volition
-is formations; the cognition of the object is consciousness; the four
-aggregates co-arising with consciousness are name-and-form; the faculties
-established in name-and-form are the six Essences; their impingement is
-contact; the experiencing of contact is feeling; the greed is craving; the
-associated enveloping afflictions are appropriation; the bodily and verbal
-karma arising from them is becoming; the emergence of those dharmas is birth,
-their maturation is aging, and their dissolution is death.
+This *samutpāda* is said to be fourfold: momentary, progressive, connected,
+and stage-based. How is it momentary? All twelve members can occur even
+within one moment. Suppose, for example, that under the power of Greed one
+deprives a living being of life. The Delusion in this act is Ignorance; its
+Volition is Formations; discernment of a Thing is Discriminative Cognition;
+the four Bases co-arising with Cognition are Name-and-Form; the Faculties
+established in Name-and-Form are the six Essences; their encounter is
+Contact; experiencing Contact is Feeling; the Greed is Craving; its
+associated besetting afflictions are Appropriation; the bodily and verbal
+karma arising from these is Becoming; the emergence of those Dharmas is
+Birth, their maturation is Aging, and their dissolution is Death.
 
-Others explain that the momentary and connected modes are as stated in the
-treatises: “What is dependent arising? All conditioned dharmas.” The
-stage-based mode consists of twelve five-aggregate stages connected across
-three uninterrupted lives. That same presentation is the extended mode.
+Others say that the momentary and connected modes are as stated in the
+treatises: “What is dependent arising? All conditioned Dharmas.” The
+stage-based mode consists of twelve five-Base stages linked through three
+continuous births; that same course is also called progressive.
 
 Which of these did the Blessed One intend here? “This presentation is said
 to be intended as stage-based.”
 
-If each member is a set of five aggregates, why did he name only such dharmas
-as ignorance and formations? “The naming of a member is according to
-predominance.” He called the stage in which ignorance predominates
-“ignorance,” the stage in which formations predominate “formations,” and so
-on through aging-and-death. Hence there is no fault.
+If each member is a five-Base stage, why does he name only Dharmas such as
+Ignorance and Formations? “The naming of a member is according to
+predominance.” He called the stage in which Ignorance predominates
+“Ignorance,” the stage in which Formations predominate “Formations,” and so
+on through Aging-and-Death. Hence there is no fault.
 
-Why, then, does the sūtra teach twelve-member dependent arising, while the
+Why, then, does the sūtra teach twelve-member *samutpāda*, while the
 treatises say otherwise: “What is dependent arising? All conditioned
-dharmas”? The sūtra speaks according to its intention; Abhidharma speaks
-according to characteristic definition. There are corresponding distinctions:
-stage-based, momentary, extended, connected, designated in terms of a sentient
-being, and not designated in terms of a sentient being.
+Dharmas”? The sūtra speaks according to its intention; Abhidharma speaks
+according to characteristic determination. The modes are distinguished as
+stage-based, momentary, progressive, connected, designated in terms of a
+sentient life, and not so designated.
 
-Why does the sūtra use specifically the sentient-being presentation? “For the
-removal of confusion concerning the prior limit, subsequent limit, and
+Why does the sūtra use specifically the sentient-life presentation? “For
+the removal of confusion concerning the prior limit, subsequent limit, and
 middle.” For this very reason it has three sections.
 
 Confusion concerning the prior limit gives rise to doubts such as: “Did I
-exist in the past, or did I not exist? What was I? How was I?” Confusion
-concerning the subsequent limit gives rise to the doubt: “Will I exist in the
-future?” and so forth. Confusion concerning the middle gives rise to doubts
-such as: “What is this? What are we now? What shall we become?”
+exist in the past, or did I not? What was I? How was I?” Confusion
+concerning the subsequent limit gives rise to the doubt: “What will I be in
+the future?” and so forth. Confusion concerning the middle gives rise to
+doubts such as: “What is this? Who are we? What will we become?”
 
-To turn away these three kinds of confusion, the sūtra teaches dependent
-arising in a sentient-being, three-section form: respectively, ignorance and
-formations; birth and aging-and-death; and consciousness through becoming.
+To turn away these three kinds of confusion, the sūtra teaches
+sentient-life-designated *samutpāda* in three sections: respectively,
+Ignorance and Formations; Birth and Aging-and-Death; and Cognition through
+Becoming.
 
-For the sūtra itself says: “Monks, when dependent arising and dependently
-arisen dharmas have been seen by a monk correctly, as they really are, through
-discriminative comprehension, he does not run back toward the prior limit,
-asking: ‘Did I exist in the past?’” and so forth.
+For the sūtra itself says: “Monks, when dependent arising and Dharmas arisen
+in dependence have been seen correctly, as they are, through *prajñā*, one
+does not turn back toward the prior limit, asking: ‘Did I exist in the
+past?’” and so forth.
 
-Others say that craving, appropriation, and becoming also serve to turn away
+Others say that Craving, Appropriation, and Becoming also serve to turn away
 confusion concerning the subsequent limit, because these are precisely the
 causes of that future limit.
 
@@ -176,13 +177,13 @@ sāṃbandhika  connected
 
 The killing example shows that the twelve functions can be discriminated
 within one ethically charged moment. They are not intrinsically twelve long
-chronological epochs. Delusion, volition, object-cognition, co-arising
-aggregates, faculties, contact, feeling, greed, associated affliction,
-action, emergence, maturation, and dissolution instantiate the twelve-member
-pattern at a compressed scale.
+chronological epochs. Delusion, volition, discernment of a Thing, co-arising
+Bases, Faculties, Contact, Feeling, Greed, associated affliction, action,
+emergence, maturation, and dissolution instantiate the twelve-member pattern
+at a compressed scale.
 
 The reported explanation then defines the stage-based mode as twelve
-five-aggregate stages across three uninterrupted lives and identifies that
+five-Base stages across three continuous births and identifies that
 same course as extended. The exact distribution of the remaining labels is
 textually compressed, so the provisional renderings should not be hardened
 without comparison of other witnesses.
@@ -190,17 +191,17 @@ without comparison of other witnesses.
 ## 6. Stage-Based Presentation and Naming by Predominance
 
 The Buddha's intended presentation in this sūtra is `āvasthika`. Every member
-is a composite stage containing five aggregates. A single dharma names the
+is a composite stage containing five Bases. A single Dharma names the
 whole stage because it is predominant there:
 
 ```text
-five-aggregate stage
-    → one dharma is functionally predominant
+five-Base stage
+    → one Dharma is functionally predominant
     → the whole stage receives that member-name
 ```
 
-Thus “ignorance” does not assert that only ignorance exists in its stage, and
-“consciousness” does not isolate consciousness from the other aggregates.
+Thus “Ignorance” does not assert that only Ignorance exists in its stage, and
+“Cognition” does not isolate Cognition from the other Bases.
 The rule makes explicit the semantic operation already encountered in VAK
 3.21–3.24.
 
@@ -227,7 +228,7 @@ field permits different valid articulations because scope and purpose differ.
 
 This distinction also controls translation. `Sattvākhya` means that the
 presentation is designated in terms of a sentient life's course; it does not
-reintroduce the substantial person rejected in VAK 3.18.
+itself settle the metaphysical status of a person.
 
 ## 8. Three Confusions and Their Removal
 
@@ -236,22 +237,29 @@ The three temporal sections answer three forms of self-directed uncertainty:
 ```text
 prior limit
     Was I? What was I? How was I?
-    → avidyā and saṃskāra
+    → Ignorance and Formations
 
 subsequent limit
     Will I be? What will I become?
-    → jāti and jarāmaraṇa
+    → Birth and Aging-and-Death
 
 middle
     What is this? What are we? What shall we become?
-    → vijñāna through bhava
+    → Cognition through Becoming
 ```
 
 The teaching does not answer by furnishing a biography of an invariant self.
-It replaces the form of that speculation with a discriminative account of
-conditions. The cited sūtra names the required operation: seeing dependent
-arising and dependently arisen dharmas correctly, as they are, through
-`prajñā`.
+It replaces that speculation with a discriminative account of conditions.
+The cited sūtra names the required operation: seeing dependent arising and
+Dharmas arisen in dependence correctly, as they are, through *prajñā*.
+
+**Project-level Atman-adhyāsa reading.** The temporal questions show how a
+putative enduring Atman can be superimposed upon conditioned continuity:
+“Was I? What was I? Will I be?” The Bhāṣya calls these forms of *saṃmoha*,
+not *adhyāsa*, and prescribes right seeing of the conditioned course. The
+Atman-adhyāsa formulation is our comparative diagnosis of the error the
+teaching disarms, not a term or universal metaphysical refutation attributed
+to Vasubandhu.
 
 The final reported view strengthens the causal side of the future section:
 craving, appropriation, and becoming can also remove future confusion because
@@ -276,21 +284,19 @@ This is directly relevant to the restrained Oculus idea. A Dataset can be
 reanalyzed through several legitimate configurations without treating them as
 competing realities. But each configuration must record its scope, naming
 rule, and purpose. Here the sūtra View is answerable both to the five-
-aggregate stages and to its practical success in removing temporal confusion.
+Base stages and to its practical success in removing temporal confusion.
 
-The passage also places `prajñā` more carefully than a generic “higher
-awareness.” Its work is discriminative: it sees the conditioned relations as
-they are and thereby disables the projection of an invariant personal history
-behind them. This is the Buddhist practical result. Any Organon comparison
-with absolute Self-recognition must begin after granting that result at its
-proper object and must not be inserted into Vasubandhu's own explanation.
+The passage presents *prajñā* as the operation by which conditioned
+relations are seen as they are. In the project's inner-instrument Techne,
+*prajñā* is Science of Principles; that project-level determination belongs
+to the Interpretation and is not a lexical gloss supplied by this Bhāṣya.
 
 ## 10. Review Status
 
 This Study restores the complete natural unit from 132.27 into the shared
 134.03–134.04 source span. It includes
 the four modes, the single-moment killing example, the stage-based
-five-aggregate interpretation, naming by predominance, the distinction
+five-Base interpretation, naming by predominance, the distinction
 between sūtra intention and Abhidharma characteristic, the three temporal
 confusions, the scriptural role of `prajñā`, and the final view attributed to
 others.

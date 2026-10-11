@@ -1,4 +1,4 @@
-# VAK_3.22
+# VAK_3.22 — Name-and-Form, Six Essences, and Contact
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -12,40 +12,39 @@
 >
 > sparśaḥ prāk sukhaduḥkhādikāraṇajñānaśaktitaḥ // 3.22 //
 
-The opening phrase completes the definition of `nāmarūpa` begun in 3.21.
+The first phrase completes the definition of Name-and-Form begun in VAK
+3.21.
 
 ## 3. Lexical Analysis
 
 ```text
-prāk                    → prāk
-ṣaṭ-āyatana-utpādāt     → ṣaḍāyatanotpādāt
-tat-pūrvam              → tatpūrvam
-trika-saṃgamāt          → trikasaṃgamāt
-sparśaḥ                 → sparśaḥ
-prāk                    → prāk
-sukha-duḥkha-ādi        → sukhaduḥkhādi
-kāraṇa-jñāna-śaktitaḥ   → kāraṇajñānaśaktitaḥ
+prāk                              → prāk
+ṣaṭ-āyatana-utpādāt              → ṣaḍāyatanotpādāt
+tat-pūrvam                       → tatpūrvam
+trika-saṃgamāt                   → trikasaṃgamāt
+sparśaḥ                          → sparśaḥ
+prāk                             → prāk
+sukha-duḥkha-ādi-kāraṇa-jñāna-śaktitaḥ
+                                 → sukhaduḥkhādikāraṇajñānaśaktitaḥ
 ```
 
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
-| prāk | indeclinable governing the ablative | prior to; until before |
-| ṣaḍāyatanotpādāt | ablative singular compound | before the arising of the six Essences |
-| tatpūrvam | nominative neuter singular predicate | that stage is prior to; extends until before |
-| trikasaṃgamāt | ablative singular compound | before the conjunction of the triad |
-| sparśaḥ | nominative masculine singular | contact; stage arising from triadic conjunction |
-| sukhaduḥkhādi | compound member | pleasure, pain, and the remaining kind of feeling |
-| kāraṇa | compound member | cause; here, causes of the three kinds of feeling |
-| jñāna | compound member | knowing; determinative cognition of those causes |
-| śaktitaḥ | ablative singular abstract noun | before the capacity or power [arises] |
+| prāk | indeclinable governing an ablative | before; marks the stage's terminal boundary |
+| ṣaṭ-āyatana-utpādāt | ablative singular compound | before the arising of the six Essences |
+| tat-pūrvam | adverbial expression | before that; marks the preceding boundary of the six-Essence stage |
+| trika-saṃgamāt | ablative singular compound | before the conjunction of the triad |
+| sparśaḥ | nominative masculine singular | Contact, the stage arising from the triad's conjunction |
+| sukhaduḥkha-ādi | compound members | pleasure, pain, and the other kind of Feeling |
+| kāraṇa-jñāna-śaktitaḥ | ablative singular compound | before the capacity to discriminate the causes |
 
-The Kārikā states the stages elliptically through their ending boundaries.
-The Bhāṣya supplies `avasthā`, “stage,” throughout and explicates the `trika`
-as faculty, cognitive field, and differentiated cognition.
+The Bhāṣya identifies the triad as Faculty, Condition, and Discriminative
+Cognition. It explains the final compound through the capacity to
+discriminate the causes of the three Feelings.
 
 ## 4. Grammar
 
-The three constructions continue the stage-definitions of 3.21:
+The verse continues the stage definitions:
 
 ```text
 [nāmarūpam]
@@ -58,220 +57,79 @@ sparśaḥ
     prāk sukha-duḥkha-ādi-kāraṇa-jñāna-śaktitaḥ
 ```
 
-> Name-and-form extends until before the arising of the six Essences. That
-> stage extends until before the conjunction of the triad. Contact extends
-> until before the capacity to know the causes of pleasure, pain, and the
-> remaining feeling.
+> Name-and-Form extends until before the arising of the six Essences; the
+> six-Essence stage extends until before the conjunction of the triad.
+> Contact extends until before the capacity to discriminate the causes of
+> pleasure, pain, and the other Feeling.
 
-The Bhāṣya sharpens the final phrase as the capacity for `pariccheda`,
-discrimination or determination, of the causes of the three feelings.
+The stage subjects in the first two constructions are supplied from the
+preceding verse and the Bhāṣya. The Bhāṣya specifies the triad and clarifies
+the final capacity as discrimination of the causes of three Feelings.
 
 ## 5. Translation
 
-### Close syntactic construe
+### Close syntactic rendering
 
-> [Name-and-form extends] until the arising of the six Essences; that extends
-> until the conjunction of the triad. Contact extends until the capacity to
-> know the causes of pleasure, pain, and the other feeling.
+> [Name-and-Form extends] until before the arising of the six Essences;
+> [the six-Essence stage extends] until before the conjunction of the triad.
+> Contact [extends] until before the capacity to discriminate the causes
+> of pleasure, pain, and the other Feeling.
 
 ### Bhāṣya-informed study translation
 
-> The developmental stage after the rebirth-linking mind and before the
-> arising of the six Essences is designated **name-and-form**. The ensuing
-> sphere-stage continues until faculty, cognitive field, and differentiated
-> cognition enter into conjunction. From their conjunction, **contact**
-> arises; the contact-stage continues until the developing being becomes
-> capable of discriminating the causes of the three kinds of feeling.
+> Name-and-Form names the interval after junction consciousness and before
+> the arising of the six Essences. The succeeding interval is called the
+> six-Essence stage, even though its boundary could be stated as the arising
+> of four Essences, because the full sixfold organization is established
+> then. That stage continues until Faculty, Condition, and Discriminative
+> Cognition meet. From their conjunction, Contact arises; the Contact-stage
+> lasts until the capacity to discriminate the causes of pleasant, painful,
+> and neutral Feeling is established.
 
-The stage-boundaries, the explicit members of the triad, and causal
-discrimination of the three feelings are Bhāṣya determinations.
+## 6. Scope Note
 
-## 6. Philosophical Translation
+The Bhāṣya does not name which four Essences mark the immediate emergence.
+It explains why the stage is designated through the full six-Essence
+organization. The arising of Contact and the limit of the Contact-stage are
+also Bhāṣya determinations.
 
-> Embodiment develops by acquiring progressively richer powers. Name-and-form
-> becomes a differentiated sphere-structure; the sphere-structure becomes
-> capable of an actual threefold relation; the conjunction of faculty,
-> cognitive field, and differentiated cognition produces contact; and contact
-> develops toward discrimination of affective causality. Each stage ends when
-> the continuum acquires a capacity exceeding the determination under which
-> that stage was named.
+Here *viṣaya* is rendered **Condition**: a specific moment of the Seen and
+the playground of the Faculties. Keep it distinct from Object, the
+comprehended truth of Vastu, and keep Discriminative Cognition distinct from
+consciousness and Mind.
 
-## 7. Technical Vocabulary
-
-| Sanskrit | Controlled rendering | Determination in this unit |
-|---|---|---|
-| nāmarūpa | name-and-form | post-linking developmental stage before the sphere-structure arises |
-| ṣaḍāyatana | six Essences | conventional name of the developing sixfold access-structure |
-| āyatana | Essence | capacity or field of access; not the subject itself |
-| utpāda | arising | actual emergence of a new developmental structure |
-| indriya | faculty | capacity of access participating in contact |
-| viṣaya | cognitive field / object-determination | what is encountered by a faculty; not assumed here as a self-standing external object |
-| vijñāna | differentiated cognition | third member of the conjunction producing contact |
-| trika | triad | faculty, cognitive field, and differentiated cognition |
-| saṃgama / saṃnipāta | conjunction | actual coming-together of the three relata |
-| sparśa | contact | relational event and stage arising from the triadic conjunction |
-| vedanātraya | three feelings | pleasure, pain, and neither-pleasure-nor-pain |
-| jñāna | knowing | developed discrimination of the causes of feeling |
-| śakti | capacity / power | acquired ability marking a developmental transition |
-| pariccheda | discrimination / determination | Bhāṣya's specification of the knowing-capacity |
-| samartha | capable / competent | able to perform the new discrimination |
-| vyavasthāpana | systematic designation | explains why the whole developing stage is called “six Essences” |
-
-The Bhāṣya explicitly gives:
-
-```text
-indriya + viṣaya + vijñāna
-    → saṃnipāta
-    → sparśa
-```
-
-This replaces the research draft's inferred “sphere + object-support +
-knowledge” formula with Vasubandhu's stated triad and the controlled rendering
-of `vijñāna`.
-
-## 8. Logical Determination
-
-### A genesis of capacities
-
-Each stage is determined by the new power whose appearance ends it:
-
-```text
-nāmarūpa-stage
-    ends when sphere-structure arises
-
-ṣaḍāyatana-stage
-    ends when threefold conjunction occurs
-
-sparśa-stage
-    ends when causal discrimination of feeling becomes possible
-```
-
-Therefore the middle of dependent origination is not a row of externally
-connected occurrences. It is the ordered construction of an embodied agent's
-capacities:
-
-```text
-embodied organization
-    → differentiated access
-    → actual cognitive relation
-    → contact
-    → affective discrimination
-```
-
-### Possessing a sphere is not yet contact
-
-Vasubandhu distinguishes three logical levels:
-
-```text
-faculty or access-capacity exists
-    ≠
-faculty, field, and differentiated cognition are conjoined
-    ≠
-the causes of the resulting feelings can be discriminated
-```
-
-The relation must become actual. `Sparśa` is neither one relatum nor their
-mere inventory; it arises from their conjunction.
-
-### Systematic designation does not require instantaneous completion
-
-The Bhāṣya notes that not all six Essences need be fully manifest at every
-instant of the `ṣaḍāyatana` stage. The name classifies the developmental phase
-as a whole.
-
-```text
-stage-name
-    expresses its governing structure
-    without asserting simultaneous completion
-    at every moment within the stage
-```
-
-This continues 3.21's rule of naming a concrete aggregate-state through its
-predominant determination.
-
-## 9. Interpretive Note
-
-Here the Kośa begins to answer where the manifested World obtains its concrete
-footing. It does not begin with a finished subject confronting a finished
-object. The capacity for a world is constructed in stages:
-
-```text
-name-and-form
-    → spheres of access
-    → triadic conjunction
-    → contact
-    → discriminable affective consequence
-```
-
-Within our Yogācāra assimilation, this sequence can be read as an account of
-how the World System becomes established, retained, projected, and
-differentiated **in Me**. That determination is our declared philosophical
-standpoint, not wording attributed to the Kārikā or Bhāṣya. Vasubandhu's own
-achievement here is to show that “having a world” is a generated relational
-capacity rather than an unexplained primitive.
-
-The verse also clarifies the relation between conditioned `vijñāna` and
-`jñāna`. Differentiated cognition participates in the triad that produces
-contact. Knowing appears at the next reflective level as the capacity to
-discriminate the causes of affective determination.
-
-```text
-vijñāna
-    participates in a determinate encounter
-
-jñāna-śakti
-    discriminates the causal structure of its affective result
-```
-
-This is not yet the achieved knowing of the entire World System. But it is a
-decisive genetic advance: the embodied cognition-platform becomes capable not
-only of undergoing pleasure and pain, but of determining why those feelings
-arise.
-
-The Darśana/Jñāna question therefore becomes sharper. Seeing or contacting a
-field is not identical with knowing its causal articulation. Vasubandhu has
-placed that distinction inside the development of the embodied agent itself.
-Our later path study must determine how far the same distinction governs
-suprasensuous ascent and the knowledge that follows it.
-
-## 10. OWL++ Seed
+## 7. OWL++ Seed
 
 ```ttl
 @prefix vak: <http://127.0.0.1:3000/vak#> .
-@prefix loka: <http://127.0.0.1:3000/loka#> .
 @prefix organon: <http://127.0.0.1:3000/organon#> .
 
 vak:VAK_3_22
     a vak:Karika ;
     vak:continues vak:VAK_3_21 ;
-    vak:definesStage vak:NamarupaStage, vak:SixEssenceStage,
-        vak:ContactStage .
+    vak:definesStage vak:NameAndFormStage, vak:SixEssenceStage,
+        vak:ContactStage ;
+    vak:definesRelation vak:CognitiveTriad .
 
-vak:NamarupaStage
-    vak:terminatesAt vak:ArisingOfSixEssences .
+vak:NameAndFormStage
+    a vak:TemporalStage ;
+    vak:endsBefore vak:SixEssencesArise .
 
 vak:SixEssenceStage
-    a vak:DevelopmentalStage ;
-    vak:terminatesAt vak:TriadicConjunction ;
-    vak:hasGoverningStructure vak:SixEssences .
+    a vak:TemporalStage ;
+    vak:endsBefore vak:CognitiveTriadConjunction .
 
-vak:TriadicConjunction
-    a loka:CognitiveRelation ;
-    vak:hasRelatum vak:Faculty, vak:CognitiveField,
-        vak:DifferentiatedCognition ;
-    vak:produces vak:ContactStage .
+vak:CognitiveTriad
+    a organon:CognitiveRelation ;
+    vak:hasMember vak:Faculty, vak:Condition, vak:Vijnana ;
+    vak:conjunctionProduces vak:Contact .
 
 vak:ContactStage
-    a vak:DevelopmentalStage ;
-    vak:arisesFrom vak:TriadicConjunction ;
-    vak:terminatesAt vak:AffectiveCausalDiscrimination .
+    a vak:TemporalStage ;
+    vak:beginsAt vak:CognitiveTriadConjunction ;
+    vak:endsBefore vak:CauseDiscriminationCapacity .
 
-vak:AffectiveCausalDiscrimination
-    a vak:AcquiredCapacity ;
-    vak:determinesCauseOf vak:ThreeFeelings .
-
-organon:WorldInMe
-    a organon:ProjectInterpretation ;
-    organon:reads vak:DevelopmentalCapacityStructure ;
-    organon:as organon:ImmanentWorldArticulation .
+vak:CauseDiscriminationCapacity
+    a organon:DiscriminativeCapacity ;
+    vak:concerns vak:ThreeFeelingsCauses .
 ```

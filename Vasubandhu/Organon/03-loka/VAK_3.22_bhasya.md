@@ -5,199 +5,158 @@
 > prāk ṣaḍāyatanotpādāt tatpūrvaṃ trikasaṃgamāt /
 > sparśaḥ prāk sukhaduḥkhādikāraṇajñānaśaktitaḥ // 3.22 //
 
-> Name-and-form extends until the arising of the six Essences; that
-> stage extends until the conjunction of the triad. Contact extends until the
-> capacity to know the causes of pleasure, pain, and the other kind of
-> feeling.
+### Bhāṣya-informed study translation
 
-The Bhāṣya defines three developmental intervals by their terminal
-conditions: name-and-form, the six-Essence stage, and contact. Each stage ends
-when the continuum acquires a new structure or capacity.
+> Name-and-Form names the interval after junction consciousness and before
+> the arising of the six Essences. The succeeding interval is called the
+> six-Essence stage, even though its boundary could be stated as the arising
+> of four Essences, because the full sixfold organization is established
+> then. That stage continues until Faculty, Condition, and Discriminative
+> Cognition meet. From their conjunction, Contact arises; the Contact-stage
+> lasts until the capacity to discriminate the causes of pleasant, painful,
+> and neutral Feeling is established.
 
 ## 2. Continuous Sanskrit
 
 > prāk ṣaḍāyatanotpādāt /
 >
-> saṃdhicittāt pareṇa yāvat ṣaḍāyatanaṃ notpadyate sāvasthā nāmarūpam /
+> saṃdhicittāt pareṇa yāvat ṣaḍāyatanaṃ notpadyate sā 'vasthā nāmarūpam /
 > tāvat ṣaḍāyatanam ity ucyate / prāk caturāyatanotpādād iti vaktavye
 > ṣaḍāyatanavacanaṃ tadā tadvyavasthāpanāt /
 >
 > tatpūrvaṃ trikasaṃgamāt /
 >
-> utpanne ṣaḍāyatane sāvasthā tāvat ṣaḍāyatanam ity ucyate yāvad
+> utpanne ṣaḍāyatane sāvasthā tāvat ṣaḍāyatanaṃ ity ucyate yāvad
 > indriyaviṣayavijñānatrikasaṃnipātaḥ /
 >
 > sparśaḥ prāk sukhaduḥkhādikāraṇajñānaśaktitaḥ // 3.22 //
 >
 > trayāṇāṃ saṃnipātāt sparśo bhavati / sa yāvad
-> vedanātrayakāraṇaparicchedena samartho bhavati sāvasthā sparśa ity
+> vedanātrayakāraṇaparicchedena samartho bhavati sā 'vasthā sparśa ity
 > ucyate /
 
-This natural unit runs from printed 132.02 through the first statement at
-132.11 in `Vasubandhu/Sources/kosabhasya.txt`. The next statement,
-`paricchedasāmarthye sati`, also at 132.11, introduces the feeling-stage of
+This natural unit runs from printed 132.02 through 132.11 in
+`Vasubandhu/Sources/kosabhasya.txt`. The next statement at 132.11,
+`paricchedasāmarthye sati`, introduces the Feeling-stage and belongs to
 VAK 3.23.
 
-Word division and punctuation are editorial. The dense e-text form
-`prakcaturāyatanotpādādini` has provisionally been divided as `prāk
-caturāyatanotpādād iti`. The two occurrences printed `sā 'vasthā` are joined
-here only through ordinary word division. The running source remains
-unchanged.
+Word division and punctuation are editorial. The e-text's
+`prakcaturāyatanotpādādini` is provisionally divided as
+`prāk caturāyatanotpādād iti`. The source's `sā 'vasthā` is joined by
+ordinary word division. The running source remains unchanged.
 
-## 3. Continuous Conventional Translation
+## 3. Scientific English Rendering
 
-“Until the arising of the six Essences.” The stage after the
-rebirth-linking mind and before the six Essences arise is name-and-form.
-After that, it is called the six-Essence stage. Strictly, the text ought to say
-“before the arising of the four Essences”; nevertheless it says “the six sense
-Essences” because the full six-Essence structure is established at that time.
+> Before the arising of the six Essences.
 
-“That stage extends until the conjunction of the triad.” Once the six sense
-spheres have arisen, the stage is called the six-Essence stage until the
-conjunction of the triad consisting of faculty, object, and consciousness.
+The stage after junction consciousness and before the six Essences have
+arisen is Name-and-Form. After that it is called the six-Essence stage.
+Although it could have been said “before the arising of four Essences,” the
+designation “six Essences” is used because the sixfold organization is
+established at that time.
 
-“Contact extends until the capacity to know the causes of pleasure, pain, and
-the other kind of feeling.” Contact arises from the conjunction of the three.
-The stage extending until the being becomes capable of discriminating the
-causes of the three kinds of feeling is called contact.
+> That stage is before the conjunction of the triad.
 
-## 4. Movement and Voice of the Commentary
+Once the six Essences have arisen, the stage is called the six-Essence stage
+until the conjunction of the triad of Faculty, Condition, and
+Discriminative Cognition.
 
-Vasubandhu continues the state-definitions begun in VAK 3.21. There is no
-independent opponent. A brief precision problem concerning four versus six
-spheres is raised and resolved within the exposition:
+> Contact is before the capacity to discriminate the causes of pleasure,
+> pain, and the other Feeling.
+
+Contact arises from the conjunction of the three. The stage in which one
+becomes capable of discriminating the causes of the three Feelings is called
+Contact.
+
+## 4. Commentary Movement
+
+The Bhāṣya specifies a succession of temporal and cognitive boundaries:
 
 ```text
-after the rebirth-linking mind
-    → name-and-form
+after junction consciousness, before six Essences arise
+    → Name-and-Form
 
-establishment of the six-Essence structure
+sixfold Essence organization established, before triad conjunction
     → six-Essence stage
 
-conjunction of faculty, object, and consciousness
-    → contact
+Faculty + Condition + Discriminative Cognition meet
+    → Contact arises
 
-capacity to discriminate the causes of feeling
-    → limit of the contact-stage
+capacity to discriminate causes of three Feelings develops
+    → limit of the Contact-stage
 ```
 
-These are temporal-functional boundaries within one aggregate-continuum, not
-four separate substances.
+The four-versus-six question concerns designation. The Bhāṣya acknowledges
+that four Essences could mark immediate emergence, but explains that the
+six-Essence name applies because the full sixfold organization is
+established then. It does not identify which four Essences newly arise.
 
-## 5. Completing the Definition of Name-and-Form
+The source gives the cognitive triad directly: Faculty, Condition, and
+Discriminative Cognition. Their conjunction is not itself one of the three
+members; Contact is the relation that arises from their conjunction.
+Here Condition is *viṣaya*: a specific moment of the Seen and the playground
+of the Faculties. Object is the comprehended truth of Vastu, not this
+Condition.
 
-VAK 3.21 announced that name-and-form comes after consciousness at the
-rebirth-junction. The opening of this verse supplies its terminal boundary:
+## 5. Interpretation
 
-```text
-beginning: after saṃdhicitta, the rebirth-linking mind
-end:       when the six-Essence structure arises
+This verse makes the sixfold Essence stage precise as a temporal
+organization, not merely a count. The Bhāṣya's four-versus-six distinction
+shows how an immediate emergence can be named from the full framework it
+establishes. In the project's root-framework reading, Dharma Essence takes
+up the sixfold Essence structure. Feeling and Formations remain within that
+wider framework but are discriminated as distinct members in the
+twelve-member sequence.
+
+The horizontal structure is the sixfold range of cognitive access. The
+vertical movement is from that organized capacity to the actual conjunction
+of Faculty, Condition, and Discriminative Cognition, and then to the
+capacity for discriminating the causes of Feeling. Contact is not the
+Essence-stage itself or one of the triad's members; it is the relation
+arising from their conjunction. The higher discriminative capacity marks a
+further phase rather than dissolving the earlier distinctions.
+
+At the level of the Kośa's wider cognitive architecture, Vijñāna is
+Discriminative Cognition joining and governing Perception and Conception;
+their unity is not a homogeneous operation, and its Idea is disclosed in
+the Cognition Base. Vijñāna governs Mind and guides the reading of Dharma
+Base. Its relation to Avijñapti, and Avijñapti's distinct classifications
+in Form Base and Dharma Base, must likewise remain discriminated. Here the
+Bhāṣya's triad preserves Faculty, Condition, and Discriminative Cognition
+as distinct terms.
+
+## 6. OWL++ Seed
+
+```ttl
+@prefix vak: <http://127.0.0.1:3000/vak#> .
+@prefix organon: <http://127.0.0.1:3000/organon#> .
+
+vak:VAK_3_22
+    a vak:Karika ;
+    vak:continues vak:VAK_3_21 ;
+    vak:definesStage vak:NameAndFormStage, vak:SixEssenceStage,
+        vak:ContactStage ;
+    vak:definesRelation vak:CognitiveTriad .
+
+vak:NameAndFormStage
+    a vak:TemporalStage ;
+    vak:endsBefore vak:SixEssencesArise .
+
+vak:SixEssenceStage
+    a vak:TemporalStage ;
+    vak:endsBefore vak:CognitiveTriadConjunction .
+
+vak:CognitiveTriad
+    a organon:CognitiveRelation ;
+    vak:hasMember vak:Faculty, vak:Condition, vak:Vijnana ;
+    vak:conjunctionProduces vak:Contact .
+
+vak:ContactStage
+    a vak:TemporalStage ;
+    vak:beginsAt vak:CognitiveTriadConjunction ;
+    vak:endsBefore vak:CauseDiscriminationCapacity .
+
+vak:CauseDiscriminationCapacity
+    a organon:DiscriminativeCapacity ;
+    vak:concerns vak:ThreeFeelingsCauses .
 ```
-
-`Nāmarūpa` therefore names a developmental interval. It is not introduced
-here as a static metaphysical pair confronting consciousness from outside.
-The same aggregate-continuum is designated differently as its organization
-changes.
-
-## 6. Why the Text Says Six Essences
-
-The Bhāṣya observes that, strictly speaking, the boundary could be described
-as the arising of four Essences. Yet the doctrinal member is called
-`ṣaḍāyatana` because the six-Essence structure is established at that stage.
-This passage does not specify which four Essences newly arise.
-
-The point is classificatory:
-
-```text
-arising of four Essences marks the boundary
-    → six-Essence organization is established
-    → stage designated ṣaḍāyatana
-```
-
-Thus the stage-name expresses the structure attained, not merely the number
-of bases newly produced at its final boundary.
-
-## 7. The Triad and the Arising of Contact
-
-The prose identifies the compressed `trika` exactly:
-
-```text
-indriya    faculty
-viṣaya     object
-vijñāna    consciousness / differentiated cognition
-```
-
-Their conjunction (`saṃnipāta`) gives rise to contact. `Sparśa` is not simply
-one of the three relata, nor their passive coexistence. It is the relational
-event arising when a faculty, its object, and the corresponding consciousness
-come together.
-
-`Vijñāna` should not be translated as `jñāna` here. The former participates
-in the object-relation producing contact; the latter occurs in the verse's
-compound as the knowing-capacity by which affective causes can be
-discriminated.
-
-## 8. The Limit of the Contact-Stage
-
-The difficult compound `sukhaduḥkhādikāraṇajñānaśakti` is glossed through
-`vedanātrayakāraṇapariccheda`: discrimination of the causes of the three
-kinds of feeling—pleasure, pain, and neither-pleasure-nor-pain.
-
-The sequence therefore distinguishes three levels:
-
-```text
-six-Essence structure is available
-    ≠ triadic cognitive encounter actually occurs
-
-triadic encounter occurs
-    ≠ causes of its affective consequences can yet be discriminated
-
-causal discrimination becomes possible
-    → contact-stage has reached its limit
-```
-
-The stage is bounded not simply by another event but by acquisition of a new
-capacity (`śakti`, `samartha`).
-
-## 9. Philosophical and Organon Study
-
-This passage offers a compact genesis of an embodied cognitive relation. It
-does not begin with a finished subject facing a finished object. A bodily-
-cognitive organization develops, its capacities of access become established,
-the relevant faculty, object, and consciousness enter into conjunction, and
-only then does contact arise.
-
-For the Organon, the relations must remain typed separately:
-
-```text
-faculty       capacity for access
-object        determinate field encountered
-consciousness differentiated cognition of that field
-conjunction   actual coordination of the three
-contact       event arising from their coordination
-knowing-power capacity to discriminate affective causes
-```
-
-This is more exact than treating “experience” as one undifferentiated event.
-It also constrains the proposed Oculus: labeling a state as contact cannot
-erase its enabling faculty, object, consciousness, or the later capacity that
-marks its limit.
-
-The source itself presents a developmental Abhidharma analysis. Any further
-comparison with Yoga's subject-object relation or the Organon's Absolute–
-Attribute–Mode structure must remain a later comparative construction rather
-than a translation of Vasubandhu.
-
-## 10. Review Status
-
-This Study restores the complete natural unit from 132.02 through the first
-statement at 132.11. It completes the definition of name-and-form, preserves
-the four-versus-six Essence qualification, and identifies the triad as faculty,
-object, and consciousness. It defines contact through its arising condition
-and the discriminative capacity that marks its end.
-
-The Sanskrit and translation remain provisional. The compound at 132.04–05,
-the reason for the four-sphere formulation, and the exact temporal force of
-`prāk` require comparison with critical Sanskrit, Tibetan, Chinese, and
-established translations during the later learning pass. The Study stops
-before the feeling-stage and does not enter VAK 3.23.

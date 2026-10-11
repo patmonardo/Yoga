@@ -213,9 +213,17 @@ in the core matrix.
 
 Reflectively, **Mind-Essence** is the Seer as Reflector, and **Dharma-Essence**
 is the Seen. Classify *artha* under the Seen; treat *viṣaya* as a specific
-moment of the Seen. This is a Techne-level relation, not a lexical
-definition. In the sensory schema, preserve the distinction between a
-cognitive Condition and an achieved Object.
+moment of the Seen and the playground of the Faculties. This is a
+Techne-level relation, not a lexical definition. **Object** means the
+comprehended truth of a **Vastu** (Thing or real basis); it is not a synonym
+for a cognitive Condition (*viṣaya* or *ālambana*) or the Vastu itself.
+In the **Pre-Subject** Science of Knowing, Knowing encounters the Seed of
+the Subject before the Subject is constituted. Do not use Object or the
+Subject:Object relation for this determination; reserve Object for the
+later constituted relation.
+Keep existing studies using earlier Object wording distinct until reviewed;
+migrate them with their paired units rather than by an unrelated
+repository-wide replacement.
 
 Older studies and models still contain previous labels, including Being,
 Domain, Concept, and Essence Base. Do not reproduce those labels in new or

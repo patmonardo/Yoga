@@ -1,4 +1,4 @@
-# VAK_3.37 Bhāṣya — Productive Action and Consumable Result
+# VAK_3.37 Bhāṣya — Karma and Maturation-result Thing
 
 ## 1. Kārikā Anchor
 
@@ -7,11 +7,11 @@ tuṣitaṇḍulavat karma tathaivauṣadhipuṣpavat /
 siddhānnapānavad vastu tasmin bhavacatuṣṭaye // 3.37 //
 ```
 
-> Action is like a grain enclosed in its husk, and likewise like a plant and
-> a flower. Resultant fact is like prepared food and drink, within that
-> fourfold becoming.
+> Karma is like a grain enclosed in its husk, and likewise like a plant and
+> a flower. The Thing called maturation-result is like prepared food and
+> drink, within that fourfold Becoming.
 
-The Bhāṣya continues VAK 3.36's causal analogies. It gives action three
+The Bhāṣya continues VAK 3.36's causal analogies. It gives Karma three
 different determinations, distinguishes maturation-result from a further
 productive cause, and locates the process within four modes of becoming.
 
@@ -53,30 +53,30 @@ it remains a conjecture pending collation. At 151.14–15 the witness reads
 to `pravartate`; the second is retained, rather than silently changed to
 `pravarteta`.
 
-## 3. Continuous Conventional Translation
+## 3. Scientific English Rendering
 
-Action is like a grain enclosed in its husk, and likewise like a plant and a
+Karma is like a grain enclosed in its husk, and likewise like a plant and a
 flower. Something that possesses a husk is called “husked.” Affliction has
-already been said to occupy the place of the husk; now action is said to
+already been said to occupy the place of the husk; now Karma is said to
 occupy the place of the grain enclosed in that husk.
 
 There are plants whose endpoint is the ripening of their fruit. On the
-conjecturally supplied negative, actions likewise do not produce further
-maturation-results once they have ripened.
+conjecturally supplied negative, Karma likewise does not produce further
+maturation-results once it has ripened.
 
-And just as a flower is a cause proximate to the arising of fruit, so actions
-are to be understood in relation to the arising of maturation-result.
+And just as a flower is a cause proximate to the arising of fruit, so Karma
+is to be understood in relation to the arising of maturation-result.
 
-Resultant fact is like prepared food and drink. Just as prepared food and
-drink are fit only for consumption and not for germination, so is the
-resultant fact called maturation-result. Another maturation-result does not
+The Thing called maturation-result is like prepared food and drink. Just as
+prepared food and drink are fit only for consumption and not for germination, so is the
+Thing called maturation-result. Another maturation-result does not
 proceed from a maturation-result in later births. For if it continued to do
 so, there would be no liberation.
 
 This continuum of births, dependently co-arising in this way, does not pass
-beyond four modes of becoming: intermediate becoming, rebirth becoming,
-life-course becoming, and death becoming. These have already been explained.
-The process occurs within that fourfold becoming.
+beyond four modes of Becoming: Intermediate Becoming, Rebirth Becoming,
+Life-course Becoming, and Death Becoming. These have already been explained.
+The process occurs within that fourfold Becoming.
 
 ## 4. Scope and Voice
 
@@ -85,48 +85,48 @@ school voice. The unit continues directly from the final image of VAK 3.36:
 
 ```text
 VAK 3.36
-    kleśa = enclosing husk
+    Affliction = enclosing husk
 
 VAK 3.37
-    karma = grain enclosed in that husk
+    Karma = grain enclosed in that husk
 ```
 
-It then introduces two further analogies for action and one for resultant
-fact. The closing phrase locates this causal triad within the already
-explained four modes of becoming; it does not yet reopen their detailed
+It then introduces two further analogies for Karma and one for the Thing
+called maturation-result. The closing phrase locates this causal triad within
+the already explained four modes of Becoming; it does not yet reopen their detailed
 analysis.
 
-## 5. Three Determinations of Action
+## 5. Three Determinations of Karma
 
 Each image makes a different claim:
 
 ```text
 husked grain
-    action enclosed by affliction
+    Karma enclosed by Affliction
     is capable of germinating into another birth
 
 plant
-    action reaches its terminus in maturation
+    Karma reaches its terminus in maturation
     and does not repeatedly produce new maturation-results
 
 flower
-    action is proximate cause
+    Karma is the proximate cause
     of the arising of maturation-result
 ```
 
 The plant and flower comparisons must not be conflated. With the supplied
 negative, the plant marks a limit to repeated maturation after ripening. The
 flower marks causal proximity to the fruit's arising. The grain image,
-inherited from the preceding verse, marks action's capacity to germinate
-while enclosed by affliction.
+inherited from the preceding verse, marks Karma's capacity to germinate
+while enclosed by Affliction.
 
-Thus action is neither an eternally productive substance nor a mere result.
+Thus Karma is neither an eternally productive substance nor a mere result.
 It bears a conditioned capacity, ripens, and reaches a terminus in the result
 it produces.
 
-## 6. Resultant Fact Is for Experience, Not Germination
+## 6. Maturation-result Thing Is for Experience, Not Germination
 
-The prepared food and drink analogy assigns `vipākākhya vastu` a distinct
+The prepared food and drink analogy assigns the *vipākākhya vastu* a distinct
 causal role:
 
 ```text
@@ -139,15 +139,15 @@ maturation-result
     ↛ another maturation-result merely as result
 ```
 
-The distinction is categorical but limited. A resultant situation may become
-the occasion for new affliction and action through other conditions; the
+The distinction is categorical but limited. A matured situation may become
+the occasion for new Affliction and Karma through other conditions; the
 claim here is that maturation-result does not, by its own status as result,
 automatically generate another maturation-result.
 
 That limit explains the appeal to liberation. If every result necessarily
 produced another result in an unbroken self-propagating series, no terminal
-condition would be possible. Release is intelligible because productive
-cause and matured result are not the same causal type.
+condition would be possible. Release is intelligible because productive Karma and the matured Thing are
+not the same causal determination.
 
 ## 7. The Four Modes of Becoming
 
@@ -155,21 +155,21 @@ The birth-continuum is articulated as:
 
 ```text
 antarābhava
-    intermediate becoming
+    Intermediate Becoming
 
 upapattibhava
-    rebirth or arising becoming
+    Rebirth Becoming
 
 pūrvakālabhava
-    life-course becoming between arising and death
+    Life-course Becoming between arising and death
 
 maraṇabhava
-    death becoming
+    Death Becoming
 ```
 
 The Bhāṣya notes that these modes have already been explained. Here they
-provide the temporal field within which affliction, action, and resultant
-fact operate.
+provide the temporal field within which Affliction, Karma, and the
+maturation-result Thing operate.
 
 The sequence does not itself prove an endless cycle:
 
@@ -177,7 +177,7 @@ The sequence does not itself prove an endless cycle:
 intermediate → rebirth → life-course → death
 ```
 
-A further transition depends upon the affliction-enabled productive action
+A further transition depends upon the Affliction-enabled productive Karma
 analyzed in VAK 3.36–3.37. The four modes classify the continuum; they do not
 constitute a self-driving bearer or mechanism.
 
@@ -187,66 +187,60 @@ Across the paired Studies, the compact triad has become:
 
 | Factor | Causal role |
 |---|---|
-| `kleśa` | conditions action's capacity to germinate into another birth |
+| `kleśa` | conditions Karma's capacity to germinate into another birth |
 | `karma` | can produce maturation-result under the stated conditions |
-| `vastu` | is the matured result available for experience |
+| `vastu` | the Thing called maturation-result, available for experience |
 
 The logical relations are:
 
 ```text
-kleśa conditions the fertility of karma
-karma produces vipāka-vastu
-vipāka-vastu does not reproduce vipāka merely as vipāka
+Affliction conditions the fertility of Karma
+Karma produces a Thing called maturation-result
+the maturation-result Thing does not reproduce another maturation-result merely as result
 ```
 
-Source, enabling condition, productive carrier, proximate cause, terminus,
-and experienced result are related but non-identical determinations. The
+Affliction, enabling condition, productive Karma, proximate cause, terminus,
+and experienced Thing are related but non-identical determinations. The
 similes make those distinctions more exactly than a single undifferentiated
 notion of causation would.
 
-## 9. Philosophical and Organon Study
+## 9. Interpretation
 
-The passage blocks a serious error in a theory of Learning: treating every
-output as automatically executable input of the same causal type. A formed
-result can preserve provenance from the action that produced it without
-inheriting that action's productive role.
+The verse distinguishes Karma's germinative capacity, maturation, and
+proximity to its result from the Thing called maturation-result, which is
+available for experience but does not, merely as result, produce another
+maturation-result. The plant comparison's negative is textually conjectural;
+the prepared-food analogy and argument about liberation state the non-
+recurrence claim directly.
 
-```text
-productive lineage
-    → matured artifact
-        → available for experience
-        ↛ automatically another productive lineage
-```
+The four modes of Becoming locate this causal process: Intermediate,
+Rebirth, Life-course, and Death Becoming. Prepared food and drink illustrate
+the experienced result here; the next verse's discussion of food as
+sustaining beings is a separate inquiry.
 
-For Ocular Datasets, this means provenance and causal capability require
-separate fields. A Study derived from a Source is not thereby another Source
-of equal authority; an analysis artifact does not silently become an
-executable transformation; an output record does not become a rule merely
-because it can be read again. New productivity requires the appropriate
-operation and enabling conditions.
+This Loka–Karma analysis belongs to the Bhava Chakra, distinct from the Dharma
+Chakra. BEP is the indivisible Singular Matrix, both vertical and horizontal,
+Mahat-fueled: the OG Matrix of the Other Side, the House of God, Satya Loka.
+The Dharma Chakra spans *saṃvṛti* and *paramārtha* as two determinations of
+the same reality, not two worlds or substances. The Absolute Base spans and
+combines Form Base and Dharma Base; this unity is Absolute Dharma,
+discriminating all Dharmas through Form and Law.
 
-The fourfold becoming also offers a lifecycle model, but only at the Organon
-level of reconstruction: transition, initialization, sustained course, and
-termination. Its philosophical importance lies in the last term. A process
-whose result is not inherently self-replicating can genuinely terminate once
-its enabling and productive conditions cease.
-
-This is the disciplined counterpart to the previous Study's theory of
-retained afflictive capacity. Recurrence is powerful but conditional. The
-World System can reproduce learned patterns; it is not metaphysically doomed
-to make every appearance reproduce itself forever.
+The Kośa presents Vijñāna as Discriminative Cognition joining and governing
+Perception and Conception. Their unity is Inconceivable as a homogeneous
+operation; its Idea is disclosed in Vijñāna Base. Vijñāna governs Manas and
+guides the reading of Dharma Base, remaining distinct from *citta* and
+*manas*. Form Base and Dharma Base classify the same *avijñapti* in distinct
+ways, and Vijñāna bears a *prati* relation to it. Each Dharma has the Defined
+Concept `<Base, Essence, Principle>`.
 
 ## 10. Review Status
 
-This Study restores the complete natural unit at 151.07–151.18: action as
-husked grain, plant, and flower; resultant fact as prepared food and drink;
-the non-productivity of maturation-result as such; the argument from the
-possibility of liberation; and the four modes of becoming.
+This Study covers 151.07–151.18: Karma as husked grain, plant, and flower;
+the Thing called maturation-result as prepared food and drink; the
+non-recurrence of maturation-result; and the four modes of Becoming.
 
-The Sanskrit and translation remain provisional. The supplied negative in
-the plant analogy is especially consequential and needs comparison with
-critical witnesses. The repairs to `phalotpattāv āsannaṃ kāraṇam` and
-`pravartate`, the exact force of `paribhoga`, and the relation of the closing
-locative to the verse also need checking. The Study stops at
-`tasmin bhavacatuṣṭaye` and does not begin VAK 3.38's detailed
-characterization of the four modes.
+The supplied negative at 151.09–10 remains conjectural. The readings of
+`phalotpattavāsannaṃ`, `vipākotpatto`, `pathā`, and `pravarhate` follow the
+local witness notes above. The Study stops at `tasmin bhavacatuṣṭaye` and
+does not begin VAK 3.38.

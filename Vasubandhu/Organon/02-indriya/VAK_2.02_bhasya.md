@@ -239,10 +239,11 @@ biological or psychological theory.
 **Kant-informed Techne.** The analysis asks which distinct condition
 accounts for the common capacity and mode of apprehension, rather than
 treating every cause as a governing Faculty. The object contributes
-particular content; the Faculty's condition governs the mode of
-apprehension. The sensory object functions as a cognitive Condition,
-distinct from an achieved Object. This is a project-level interpretation of the text's
-distinction, not terminology attributed to the Bhāṣya.
+particular determination; the Faculty's condition governs the mode of
+apprehension. The sensory *viṣaya* functions as a cognitive Condition,
+distinct from Object, the comprehended truth of Vastu. This is a
+project-level interpretation of the text's distinction, not terminology
+attributed to the Bhāṣya.
 
 Across the Kośa, Vijñāna is Discriminative Cognition joining Perception
 and Conception without reducing their unity to one homogeneous

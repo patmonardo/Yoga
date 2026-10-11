@@ -34,9 +34,9 @@ madhyeṣu               → madhyeṣu
 saṃmoha-vinivṛttaye    → saṃmohavinivṛttaye
 ```
 
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
-| āvasthikaḥ | nominative masculine singular adjective | stage-based; consisting in complex five-aggregate stages |
+| āvasthikaḥ | nominative masculine singular adjective | stage-based; consisting in complex five-Base stages |
 | kila | reportive particle | it is said; according to the received determination |
 | iṣṭaḥ | nominative masculine singular past participle | intended; accepted |
 | ayam | nominative masculine singular pronoun | this presentation of dependent origination |
@@ -83,7 +83,7 @@ pūrva-apara-anta-madhyeṣu
 > For the removal of confusion concerning the prior limit, subsequent limit,
 > and middle.
 
-The Bhāṣya specifies that each member is a five-aggregate stage and that the
+The Bhāṣya specifies that each member is a five-Base stage and that the
 three limits are past, future, and present within the three-life articulation.
 
 ## 5. Translation
@@ -97,17 +97,17 @@ three limits are past, future, and present within the three-life articulation.
 ### Bhāṣya-informed study translation
 
 > The twelvefold sūtra presentation is intended as a sequence of complex
-> five-aggregate stages. Each stage is named after the determination
+> five-Base stages. Each stage is named after the determination
 > predominant within it. This sentient-life sequence is divided across past,
 > future, and present in order to remove confusion about temporal continuity
-> through discriminative comprehension of conditioned arising.
+> by rightly seeing conditioned arising through *prajñā*.
 
-Five-aggregate composition, the sūtra's selective intention, the concrete
+Five-Base composition, the sūtra's selective intention, the concrete
 forms of temporal confusion, and the role of Prajñā are Bhāṣya determinations.
 
 ## 6. Philosophical Translation
 
-> The aggregate sequence now reflects into its governing principle. A stage
+> The Base sequence now reflects into its governing principle. A stage
 > is a complex whole; its name expresses the determination governing that
 > whole, not an isolated component extracted from it. The twelve-member,
 > three-section model is selected because its form answers a determinate
@@ -118,9 +118,9 @@ forms of temporal confusion, and the role of Prajñā are Bhāṣya determinatio
 
 | Sanskrit | Controlled rendering | Determination in this unit |
 |---|---|---|
-| āvasthika | stage-based | twelve complex five-aggregate stages connected through three births |
-| avasthā | stage / state | concrete composite phase of the aggregate-continuum |
-| pañcaskandhikā avasthā | five-aggregate stage | Bhāṣya's constitution of each member in the intended model |
+| āvasthika | stage-based | twelve complex five-Base stages connected through three births |
+| avasthā | stage / state | concrete composite phase of the Base-continuum |
+| pañcaskandhikā avasthā | five-Base stage | Bhāṣya's constitution of each member in the intended model |
 | kila | it is said | reportive qualification of the received interpretation |
 | iṣṭa | intended / accepted | identifies the model selected for the sūtra passage |
 | prādhānya | predominance | governing determination according to which a stage is named |
@@ -136,7 +136,7 @@ forms of temporal confusion, and the role of Prajñā are Bhāṣya determinatio
 | saṃmoha | confusion | temporal miscomprehension addressed by the teaching |
 | vinivṛtti | removal | practical-cognitive purpose of the selected model |
 | yathābhūta | according to actuality | scriptural qualification of right seeing cited by the Bhāṣya |
-| prajñā | discriminative comprehension | operation through which conditioned structure is rightly seen |
+| prajñā | Science of Principles in the inner-instrument Techne | in this passage, the means of rightly seeing conditioned structure |
 
 The Bhāṣya distinguishes several possible articulations of dependent
 origination, including momentary, extended, connected, and stage-based forms.
@@ -148,7 +148,7 @@ meaning of dependent origination in every context.
 ### The principle of stage-designation
 
 ```text
-five-aggregate stage
+five-Base stage
     contains multiple determinations
 
 one determination governs the stage
@@ -162,15 +162,15 @@ Therefore:
 
 ```text
 avidyā-member
-    = five-aggregate stage in which avidyā predominates
+    = five-Base stage in which avidyā predominates
 
 saṃskāra-member
-    = five-aggregate stage in which saṃskāra predominates
+    = five-Base stage in which saṃskāra predominates
 
 ...
 
 jarāmaraṇa-member
-    = five-aggregate stage in which aging-and-death predominates
+    = five-Base stage in which aging-and-death predominates
 ```
 
 The member-name neither isolates a substance nor denies the other factors
@@ -202,9 +202,8 @@ determinate confusion
 ### Three temporal confusions, one three-section response
 
 The Bhāṣya illustrates the confusions through questions concerning existence
-and identity in past, future, and present. The local anti-adhyāsa warning is
-accepted without making subject-negation the doctrine of the whole passage.
-The positive operation is causal comprehension:
+and identity in past, future, and present. The positive operation is causal
+comprehension:
 
 ```text
 confusion about the past
@@ -220,28 +219,36 @@ confusion about the present
 Rather than answering temporal speculation with an invented biography, the
 teaching reconstructs the lawful conditions of continuity.
 
-### The aggregate enters its principle
+**Project-level Atman-adhyāsa reading.** The imagined enduring Atman is
+superimposed upon conditioned continuity: “Was I? What was I? Will I be?”
+The Bhāṣya names these questions as forms of *saṃmoha* and gives the remedy
+as seeing dependent arising and what arises dependently, correctly and as
+they are, through *prajñā*. Calling this Atman-*adhyāsa* is the project's
+comparative diagnosis; the passage does not use the term *adhyāsa* or present
+an explicit refutation of every doctrine of Atman.
+
+### The Base sequence enters its governing principle
 
 VAK 3.20–3.24 gave the concrete articulation. VAK 3.25 determines how and why
 that articulation is formed:
 
 ```text
-aggregate-continuum
+Base-continuum
     → differentiated into stages
     → stages named by predominance
     → temporal model selected by purpose
     → confusion removed through Prajñā
 ```
 
-This is a reflective advance from the presented aggregate to the principle
+This is a reflective advance from the presented Base sequence to the principle
 of its intelligible presentation.
 
 ## 9. Interpretive Note
 
-Your reading of the movement is correct: Vasubandhu first gives the aggregate
-in its condensed twelvefold articulation and then enters its principle. The
-principle is not another hidden thirteenth component. It is the rule through
-which the twelve components become a rational View.
+Your reading of the movement is correct: Vasubandhu first gives the Base
+sequence in its condensed twelve-member articulation and then enters its
+governing principle. The principle is not another hidden thirteenth member.
+It is the rule through which the twelve members become an intelligible View.
 
 ```text
 complex field
@@ -300,7 +307,7 @@ vak:VAK_3_25
 
 vak:StageBasedDesignation
     a organon:SemanticOperation ;
-    organon:hasInput vak:FiveAggregateStage ;
+    organon:hasInput vak:FiveBaseStage ;
     organon:selects vak:PredominantDetermination ;
     organon:produces vak:MemberName .
 

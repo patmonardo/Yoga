@@ -1,17 +1,18 @@
-# VAK_3.26 Bhāṣya — Affliction, Karma, Basis, and Inference from the Middle
+# VAK_3.26 Bhāṣya — Affliction, Karma, Vastu, and Inference from the Middle
 
 ## 1. Kārikā Anchor
 
 > kleśās trīṇi dvayaṃ karma sapta vastu phalaṃ tathā /
 > phalahetvabhisaṃkṣepo dvayor madhyānumānataḥ // 3.26 //
 
-> Three members are afflictions, two are karma, and seven are bases and
+> Three members are afflictions, two are karma, and seven are Vastu and
 > likewise results. Cause and result are compressed at the two limits because
 > they can be inferred from the middle.
 
 The Bhāṣya reclassifies the twelve temporal members by causal function. Five
 are causes—three afflictions and two karmic members—while seven are both the
-results of prior causes and the bases supporting renewed affliction and karma.
+results of prior causes and Vastu members supporting renewed affliction and
+karma.
 
 ## 2. Continuous Sanskrit
 
@@ -63,29 +64,30 @@ effort, but its exact qualifier requires collation. The earlier research
 witness silently normalizes these damaged readings. The running source
 remains unchanged.
 
-## 3. Continuous Conventional Translation
+## 3. Scientific English Rendering
 
-This twelve-member dependent arising is further to be understood as having
-three natures: affliction, karma, and basis.
+This twelve-member *samutpāda* is further to be understood as having three
+functional natures: affliction, karma, and Vastu.
 
-“Three are afflictions.” The three members whose nature is affliction are
-ignorance, craving, and appropriation.
+“Three are afflictions.” The three members whose functional nature is
+affliction are Ignorance, Craving, and Appropriation.
 
-“Two are karma.” The two members whose nature is karma are formations and
-becoming.
+“Two are karma.” The two members whose functional nature is karma are
+Formations and Becoming.
 
-“Seven are bases.” The seven members whose nature is basis are consciousness,
-name-and-form, the six Essences, contact, feeling, birth, and aging-and-
-death, because they support affliction and karma.
+“Seven are Vastu.” The seven members with the functional nature of Vastu are
+Discriminative Cognition, Name-and-Form, the six Essences, Contact, Feeling,
+Birth, and Aging-and-Death, because they support affliction and karma.
 
-And just as these seven members are bases, “so too they are results.” Those
-same seven members have the nature of results. The remaining five have the
-nature of causes because their natures are karma and affliction.
+And just as these seven members are Vastu, “so too they are results.” Those
+same seven members have the functional nature of results. The remaining five
+have the functional nature of causes because they belong to karma and
+affliction.
 
-Why, then, are result and cause expanded in the middle? Because the basis is
-differentiated there fivefold and affliction twofold. In the future time the
-result is compressed through a twofold division; in the past time the cause
-is compressed because affliction is taught under a single heading.
+Why, then, are result and cause expanded in the middle? Because Vastu is
+differentiated fivefold there and affliction twofold. In the future time the
+result is compressed into two members; in the past time the cause is
+compressed because affliction is taught under a single heading.
 
 “Cause and result are compressed at the two limits because they can be
 inferred from the middle.” From the middle alone, the expanded cause-and-
@@ -136,11 +138,11 @@ The placement of `bhava` with karma confirms VAK 3.24: becoming here is the
 renewal-producing karma accumulated through appropriative activity, not the
 future result considered by itself.
 
-`Vastu` should not be rendered “substance.” The Bhāṣya defines its function
-through `āśraya`: these seven are the conditioned bases upon which affliction
-and karma operate.
+`Vastu` means Thing or basis, not Object or an inert substance. The Bhāṣya
+explains these seven members' support-function through `āśraya`: affliction
+and karma operate in dependence on them.
 
-## 6. The Same Seven as Basis and Result
+## 6. The Same Seven as Vastu and Result
 
 The seven `vastu` members receive a double relational determination:
 
@@ -171,7 +173,7 @@ relations within the cycle, not three self-standing kinds of substance.
 The present middle displays causal structure at higher resolution:
 
 ```text
-five resultant bases
+five resultant members
     vijñāna through vedanā
 
 two afflictions
@@ -223,7 +225,7 @@ functional configuration
 
 For the Organon, this is a strong example of multidimensional analysis. A
 member's temporal location does not determine its causal role, and its causal
-role does not exhaust its relational status. The same seven artifacts can be
+role does not exhaust its relational status. The same seven members can be
 typed as results relative to their ground and as supports relative to what
 operates upon them next.
 
@@ -242,6 +244,20 @@ The source-grounded practical result is equally important. The hidden limits
 become intelligible through the present middle. Rational comprehension need
 not invent a permanent traveler or claim visionary access to the past and
 future; it reconstructs them from the causal organization presently given.
+
+**Project-level transcendental time schema.** Read with VAK 3.25, the three
+temporal positions are not merely calendar slots. The present middle contains
+both inherited results and renewed causes, making the prior and future limits
+intelligible by inference. In the project's sense, this is a transcendental
+schema: it articulates the conditions under which temporal continuity can be
+known. The Bhāṣya itself calls this inference from the middle, not a
+“transcendental time schema.”
+
+This sharpens the Atman-adhyāsa reading: what is mistaken for a
+self-sustaining identity is analyzed as conditioned results becoming support
+for renewed causes. That is our project-level diagnosis; the text's direct
+claim is that the expanded causal structures at both limits can be inferred
+from the middle.
 
 ## 10. Review Status
 

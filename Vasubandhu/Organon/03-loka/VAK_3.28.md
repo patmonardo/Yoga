@@ -40,7 +40,7 @@ avidyā                  → avidyā
 amitra-anṛta-ādi-vat    → amitrānṛtādivat
 ```
 
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | hetuḥ | nominative masculine singular | cause / ground; role assigned here to `samutpāda` |
 | atra | indeclinable | here; within the sūtra's intended distinction |
@@ -52,7 +52,7 @@ amitra-anṛta-ādi-vat    → amitrānṛtādivat
 | dharmaḥ | nominative masculine singular | operative determination |
 | anyaḥ | nominative masculine singular | another; distinct |
 | avidyā | nominative feminine singular | ignorance; distinct factor opposed to `vidyā` |
-| amitra | compound member | enemy / non-friend; determinate opponent, not mere friend-absence |
+| amitra | compound member | enemy; a determinate opponent, not merely a non-friend |
 | anṛta | compound member | untruth; determinate contrary of truth |
 | ādivat | indeclinable comparative suffix | as in these and similar negative compounds |
 
@@ -276,7 +276,7 @@ distortion becomes effective.
 
 Within the Yogācāra assimilation, the opposition occurs in Me as a
 determination of the World-field. `Vidyā` and `avidyā` are not two external
-cosmic objects. They are opposed modes through which the conditional system
+cosmic entities. They are opposed modes through which the conditional system
 is articulated and enacted. The Kośa's primary claim remains narrower:
 avidyā is a distinct causally effective dharma contrary to vidyā.
 

@@ -238,10 +238,10 @@ associated inversion-complex.
 ## 9. Interpretive Note
 
 VAK 5.09 shows how the Subject can inhere in an objective display while
-misrecognizing its truth. `Ālambana` is not yet the achieved Object; it is the
-cognitive support transactionally presented. The governing view fixes that
-support under an alien predicate, and recognition and consciousness proceed
-within the resulting appearance.
+misrecognizing its truth. `Ālambana` is a cognitive Condition, not Object,
+the comprehended truth of Vastu; it is the cognitive support transactionally
+presented. The governing view fixes that support under an alien predicate,
+and recognition and consciousness proceed within the resulting appearance.
 
 ```text
 twofold objective display

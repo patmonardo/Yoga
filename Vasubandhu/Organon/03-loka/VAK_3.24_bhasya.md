@@ -47,21 +47,21 @@ Word division and punctuation are editorial. The transmitted final phrase
 gloss without silently emending the Sanskrit verse. The running source
 remains unchanged.
 
-## 3. Continuous Conventional Translation
+## 3. Scientific English Rendering
 
 Running about in that way, “one produces karma whose result is future
-existence; that is becoming.” Running about for the sake of obtaining objects,
-one accumulates karma productive of renewed existence. This is one's
-becoming. Through that karma, after one has fallen away from this life, a
-future rebirth-junction occurs.
+existence; that is becoming.” Running about for the sake of obtaining
+Conditions, one accumulates karma productive of renewed existence. This is
+one's Becoming. Through that karma, after one has fallen away from this life,
+a future rebirth-junction occurs.
 
-That “rebirth-junction, in turn, is birth.” What is the consciousness-member
-here in the present birth is birth for that same continuum in another birth.
+That “rebirth-junction, in turn, is birth.” What is the Cognition-member here
+in the present birth is Birth for that same continuum in another birth.
 
-Thereafter, “aging-and-death extends up to the feeling-stage.” The stage after
-birth and continuing through the feeling-stage is aging-and-death. The four
-members that here are name-and-form, the six Essences, contact, and
-feeling are, in the other—future—birth, aging-and-death. In this way the
+Thereafter, “Aging-and-Death extends up to the Feeling-stage.” The stage
+after Birth and continuing through the Feeling-stage is Aging-and-Death. The
+four members that here are Name-and-Form, the six Essences, Contact, and
+Feeling are, in the other—future—birth, Aging-and-Death. In this way the
 twelve members are complete.
 
 ## 4. Movement and Voice of the Commentary
@@ -98,12 +98,18 @@ that renewal-producing karma
 
 `Bhava` is therefore not primarily the future existence already achieved. It
 is `paunarbhavika karma`, karma productive of renewed existence, accumulated
-while the being pursues objects for acquisition.
+while the being pursues Conditions for acquisition.
 
-This gives appropriation a projective consequence. The search-field of VAK
-3.23 does not terminate when an object is obtained; action performed within
-that field accumulates the causal efficacy from which another embodied course
-will arise.
+This gives Appropriation a projective consequence. The field of pursuit in
+VAK 3.23 does not terminate when a Condition is attained; action performed
+within that field accumulates the causal efficacy from which another
+embodied course will arise.
+
+VAK 3.24 names renewal-producing karma and its accumulation, but does not
+identify the persistence of that efficacy with *avijñapti*. The relation
+between Becoming and *avijñapti* is a question to pursue in the Karma
+analysis; this verse establishes the causal role without settling that
+account.
 
 ## 6. Rebirth-Junction Viewed as Birth
 
@@ -165,7 +171,7 @@ future results
     jāti, jarāmaraṇa
 ```
 
-The sequence is not twelve objects on one uniform chronological scale. Some
+The sequence is not twelve items on one uniform chronological scale. Some
 members name broad aggregate-states, and future members compress ranges
 analyzed more finely in the present middle. The following discussion will
 make the principle of stage-designation explicit, but that belongs to the
@@ -178,7 +184,7 @@ being feels, desires, appropriates, and does determines the future not as an
 abstract possibility but as accumulated projective efficacy:
 
 ```text
-object pursued
+Condition pursued
     → action accumulated
     → future junction projected
     → another embodied field
