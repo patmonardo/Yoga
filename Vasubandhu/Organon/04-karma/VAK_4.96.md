@@ -20,7 +20,7 @@ e-text is non-critical, so this remains a provisional reading.
 kauravāsaṃjñisattvāś ca matam āvaraṇatrayam // 4.96 //
 ```
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 ānantaryāṇi | karmāṇi | tīvra-kleśaḥ | atha | durgatiḥ |

@@ -14,7 +14,7 @@ samaṃ prāk ca mṛtasyāsti na maulo 'nyāśrayodayāt /
 senādiṣv ekakāryatvāt sarve kartṛvad anvitāḥ // 4.72 //
 ```
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 samam | prāk | ca | mṛtasya | asti | na | maulaḥ |

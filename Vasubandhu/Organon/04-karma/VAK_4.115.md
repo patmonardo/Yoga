@@ -14,7 +14,7 @@ dātā viśiṣṭaḥ śraddhādyaiḥ satkṛtyādi dadāti ataḥ /
 satkārodārarucitā kālānācchedyalābhitā // 4.115 //
 ```
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 dātā | viśiṣṭaḥ | śraddhā-ādyaiḥ | sat-kṛtya | ādi | dadāti |

@@ -25,7 +25,7 @@ The verse reports three positions. It does not identify the Kāśmīra
 wealth-and-debt analogy as Vasubandhu’s own final conclusion. The Bhāṣya
 subjects that position to sustained criticism.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 patanīyena

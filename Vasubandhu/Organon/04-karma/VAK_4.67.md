@@ -14,7 +14,7 @@ aśubhāḥ ṣaḍ avijñaptir dvidhaikaḥ te 'pi kurvataḥ /
 dvividhāḥ sapta kuśalāḥ avijñaptiḥ samādhijāḥ // 4.67 //
 ```
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 aśubhāḥ | ṣaṭ | avijñaptiḥ | dvidhā | ekaḥ |

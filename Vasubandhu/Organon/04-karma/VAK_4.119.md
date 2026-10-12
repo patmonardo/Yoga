@@ -14,7 +14,7 @@ pṛṣṭhaṃ kṣetram adhiṣṭhānaṃ prayogaś cetanāśayaḥ |
 eṣāṃ mṛdvadhimātratvāt karma mṛdvadhimātratā || 4.119 ||
 ```
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 pṛṣṭham | kṣetram | adhiṣṭhānam | prayogaḥ | cetanā | āśayaḥ |

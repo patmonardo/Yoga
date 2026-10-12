@@ -14,7 +14,7 @@ vadha-vyāpāda-pāruṣya-niṣṭhā dveṣeṇa lobhataḥ /
 para-strī-gamanābhidhyādattādāna-samāpanam // 4.70 //
 ```
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 vadha | vyāpāda | pāruṣya | niṣṭhā | dveṣeṇa |

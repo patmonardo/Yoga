@@ -18,7 +18,7 @@ The verse begins the account of when the six perfections become complete.
 VAK 4.111 determines giving, patience, and discipline; the remaining three
 are reserved for the following kārikā.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 sarvatra | sarvam | dadataḥ | kāruṇyāt | dāna-pūraṇam |

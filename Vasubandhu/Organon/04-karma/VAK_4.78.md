@@ -14,7 +14,7 @@ vyāpādaḥ sattva-vidveṣo nāsti-dṛṣṭiḥ śubhāśubhe /
 mithyādṛṣṭis trayo hy atra panthānaḥ sapta karma ca // 4.78 //
 ```
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 vyāpādaḥ | sattva-vidveṣaḥ |

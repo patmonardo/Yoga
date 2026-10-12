@@ -14,7 +14,7 @@ prahāṇa-mārge samale sa-phalaṃ karma pañcabhiḥ /
 caturbhir amale 'nyac ca sāsravaṃ yac chubhāśubham // 4.87 //
 ```
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 prahāṇa-mārge | samale | sa-phalam | karma | pañcabhiḥ |

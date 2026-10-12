@@ -32,7 +32,7 @@ mithyā-ācāra-ati-garhya-tvāt saukaryāt akriyā-āptitaḥ /
 yathā-abhyupagamam lābhaḥ saṃvarasya na saṃtate[h] //
 ```
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 mithyā-ācāra-ati-garhya-tvāt

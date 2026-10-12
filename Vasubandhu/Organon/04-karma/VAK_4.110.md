@@ -18,7 +18,7 @@ The verse lists Vipaśyin, Dīpaṃkara (`dīpakṛt`), and Ratnaśikhin in reve
 chronological order. The Bhāṣya explicitly reconstructs Ratnaśikhin as the end
 of the first incalculable, Dīpaṃkara the second, and Vipaśyin the third.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 eka-ekam | puṇya-śata-jam | asaṃkhyeya-traya-āntya-jāḥ |

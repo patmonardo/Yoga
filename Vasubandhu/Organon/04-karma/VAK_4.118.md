@@ -14,7 +14,7 @@ mātṛpitṛglānadhārmakathikebhyo 'ntyajanmane |
 bodhisattvāya cāmeyā anāryebhyo 'pi dakṣiṇā || 4.118 ||
 ```
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 mātṛ-pitṛ-glāna-dhārma-kathikebhyaḥ | antya-janmane |

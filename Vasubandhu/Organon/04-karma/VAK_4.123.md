@@ -19,7 +19,7 @@ announced at the end of VAK 4.122. Its commentary occurs in the preceding
 Bhāṣya unit; the local VAK 4.123 Bhāṣya witness begins with the second
 hemistich and its definition of cultivation.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 dauḥśīlya-tat-hetu-ahatam | tat-vipakṣa-āśritam | śama-āśritam |

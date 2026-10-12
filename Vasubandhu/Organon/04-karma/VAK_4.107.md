@@ -14,7 +14,7 @@
 kṣāntyanāgāmitārhattvaprāptau karmātivighnakṛt // 4.107 //
 ```
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 ānantarya-sabhāgāni | pañcamam | stūpa-bhedanam |

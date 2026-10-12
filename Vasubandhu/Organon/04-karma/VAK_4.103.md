@@ -14,7 +14,7 @@ upakāriguṇakṣetranirākṛtivipādanāt /
 vyañjanāntarito 'pi syān mātā yacchoṇitodbhavaḥ // 4.103 //
 ```
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 upakāri-guṇa-kṣetra-nirākṛti-vipādanāt |

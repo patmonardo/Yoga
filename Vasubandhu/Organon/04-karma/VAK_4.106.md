@@ -19,7 +19,7 @@ away the access or means by which the Saṅgha obtains comfort and support. The
 kārikā also leaves the fivefold list incomplete; its fifth member appears in
 VAK 4.107.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 dūṣaṇam | mātuḥ | arhantyāḥ | niyati-sthasya | māraṇam |

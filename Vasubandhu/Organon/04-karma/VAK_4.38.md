@@ -25,7 +25,7 @@ The Bhāṣya distributes the list: ordinary prātimokṣa restraint has four
 causes of abandonment; upavāsa restraint has those four plus expiration at
 the end of the night.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 prātimokṣa-damaḥ

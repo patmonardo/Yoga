@@ -14,7 +14,7 @@ bhikṣur dṛkcarito vṛttī bhinatty anyatra bāliśān /
 śāstṛmārgāntarakṣāntau bhinno na vivasaty asau // 4.100 //
 ```
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 bhikṣuḥ | dṛk-caritaḥ | vṛttī | bhinatti | anyatra | bāliśān |

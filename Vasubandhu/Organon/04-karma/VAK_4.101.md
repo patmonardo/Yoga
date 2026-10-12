@@ -14,7 +14,7 @@ cakrabhedaḥ sa ca mato jambūdvīpe navādibhiḥ /
 karmabhedas triṣu dvīpeṣv aṣṭabhir adhikaiś ca saḥ // 4.101 //
 ```
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 cakra-bhedaḥ | saḥ | ca | mataḥ | jambū-dvīpe | nava-ādibhiḥ |

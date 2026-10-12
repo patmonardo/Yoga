@@ -18,7 +18,7 @@ The Bhāṣya glosses `yogapravartita` as `upāyaviśeṣapravartita`, set in
 motion by a specific method or means. The ordered grouping is bodily, verbal,
 and mental activity respectively.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 yoga-pravartitam | karma | sa-samutthāpakam | tridhā |

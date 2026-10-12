@@ -14,7 +14,7 @@ dharmāḥ śaikṣādikā ekaṃ phalaṃ trīṇy api ca dvayam /
 tābhyām anyasya śaikṣādyā dve dve pañca phalāni ca // 4.92 //
 ```
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 dharmāḥ | śaikṣa-ādikāḥ | ekam | phalam | trīṇi | api | ca | dvayam |

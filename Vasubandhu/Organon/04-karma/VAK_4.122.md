@@ -14,7 +14,7 @@ dauḥśīlyam aśubhaṃ rūpaṃ śīlaṃ tadviratir dvidhā |
 pratikṣiptāc ca buddhena viśuddhaṃ tu caturguṇam || 4.122 ||
 ```
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 dauḥśīlyam | aśubham | rūpam | śīlam | tat-viratiḥ | dvidhā |

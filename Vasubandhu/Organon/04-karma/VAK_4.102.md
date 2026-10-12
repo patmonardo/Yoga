@@ -14,7 +14,7 @@
 sīmāyāṃ cāpy abaddhāyāṃ cakrabhedo na jāyate // 4.102 //
 ```
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 ādau | ante | arbudāt | pūrvam | yugāt | ca | uparate | munau |

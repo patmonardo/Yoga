@@ -26,7 +26,7 @@ distributes the causal functions: intoxicants destroy recollection, indulgent
 luxury produces `mada`, and abstention from untimely eating positively sustains
 recollection of the observance and `saṃvega`.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 śīla-aṅgāni

@@ -14,7 +14,7 @@ dharmadānaṃ yathābhūtasūtrādyakliṣṭadeśanā |
 puṇyanirvāṇanirvedhabhāgīyaṃ kuśalaṃ tridhā || 4.125 ||
 ```
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 dharma-dānam | yathā-bhūta-sūtra-ādi-akliṣṭa-deśanā |

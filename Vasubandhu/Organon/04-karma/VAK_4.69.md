@@ -14,7 +14,7 @@ tad-anantara-saṃbhūter abhidhyādyās trimūlajāḥ /
 kuśalāḥ sa-prayogāntā alobha-dveṣa-moha-jāḥ // 4.69 //
 ```
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 tat-anantara-saṃbhūteḥ |

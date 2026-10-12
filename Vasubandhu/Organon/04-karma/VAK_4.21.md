@@ -25,7 +25,7 @@ The transmitted `samāhītāryamārgasthau` is compressed and textually awkward.
 The Bhāṣya resolves the intended pair as the practitioner entered into
 concentration and the practitioner entered into the noble Path.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 samāhita

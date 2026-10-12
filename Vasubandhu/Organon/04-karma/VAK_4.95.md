@@ -14,7 +14,7 @@ ekaṃ janmākṣipaty ekam anekaṃ paripūrakam /
 nākṣepike samāpattī acitte prāptayo na ca // 4.95 //
 ```
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 ekam | janma | ākṣipati | ekam | anekam | paripūrakam |

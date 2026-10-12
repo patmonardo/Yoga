@@ -26,7 +26,7 @@ The Bhāṣya confirms the respective pairing: wholesome avijñapti belongs to
 the non-restraint bearer’s contrary episode, and unwholesome avijñapti to the
 restraint bearer’s contrary episode.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 asaṃvara-sthaḥ

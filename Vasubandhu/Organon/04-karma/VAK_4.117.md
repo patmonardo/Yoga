@@ -18,7 +18,7 @@ The second half is exceptionally compressed. Its segmentation and supplied
 terms are determined below through the Bhāṣya and remain distinguishable from
 the bare wording of the Kārikā.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 gati-duḥkha-upakāritva-guṇaiḥ | kṣetram | viśiṣyate |

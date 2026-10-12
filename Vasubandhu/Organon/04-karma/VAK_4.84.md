@@ -14,7 +14,7 @@
 saṃmukhībhāvataś cāpi hitvā sa-narakān kurūn // 4.84 //
 ```
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 ārūpya | asaṃjñi-sattveṣu | lābhataḥ | sapta | śeṣite |

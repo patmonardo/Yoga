@@ -14,7 +14,7 @@ sāmantakās tu vijñaptir avijñaptir bhaven na vā /
 viparyayeṇa pṛṣṭhāni prayogas tu trimūlajaḥ // 4.68 //
 ```
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 sāmantakāḥ | tu | vijñaptiḥ |

@@ -14,7 +14,7 @@ prāṇātipātaḥ saṃcintya parasyābhrānti-māraṇam /
 adattādānam anya-sva-svīkriyā bala-cauryataḥ // 4.73 //
 ```
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 prāṇa-atipātaḥ | saṃcintya | parasya |

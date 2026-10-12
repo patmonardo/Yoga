@@ -25,7 +25,7 @@ The second compound names six causes of loss. Here `artha` is the Idea as a
 purposive determination realized in an enduring `vastu`, not merely an external
 object and not an abstract meaning detached from practical realization.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 asaṃvaraḥ

@@ -14,7 +14,7 @@ sarve 'tītasya catvāri madhyamasyāpy anāgatāḥ /
 madhyamā dve 'jātasya phalāni trīṇy anāgatāḥ // 4.90 //
 ```
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 sarve | atītasya | catvāri | madhyamasya | api | anāgatāḥ |

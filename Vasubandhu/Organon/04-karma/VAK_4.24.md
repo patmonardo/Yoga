@@ -25,7 +25,7 @@ The prepared Bhāṣya witness begins with the second half of the kārikā. The
 commentary on the first half has therefore been read directly from the local
 primary Sanskrit witness and is identified as Bhāṣya material below.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 nivṛta-anivṛtābhyām

@@ -25,7 +25,7 @@ The witness reads `saṃvṛteḥ`. The Bhāṣya makes clear that the subject i
 undertaking of prātimokṣa restraint; the form must not be confused with
 `saṃvṛti` in the philosophical sense of convention.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 yāvat-jīvam

@@ -28,7 +28,7 @@ anāsraveṇa ārya-sattvāḥ antyau citta-anuvartinau //
 The Bhāṣya resolves the compressed second quarter: one who is endowed with
 `dhyāna` is necessarily endowed with the restraint born from or in `dhyāna`.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 prātimokṣa-anvitāḥ

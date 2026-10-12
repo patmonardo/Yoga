@@ -25,7 +25,7 @@ The verse analyzes restraint and non-restraint along three axes: beings,
 karmic limbs, and causes. The Bhāṣya gives two possible meanings of `kāraṇa`,
 then uses degrees of mental strength in its detailed classification.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 saṃvaraḥ

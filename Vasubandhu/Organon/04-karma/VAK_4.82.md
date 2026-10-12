@@ -14,7 +14,7 @@ bhinna-pralāpa-pāruṣya-vyāpādā narake dvidhā /
 samanvāgamato 'bhidhyā-mithyā-dṛṣṭī kurau trayaḥ // 4.82 //
 ```
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 bhinna-pralāpa | pāruṣya | vyāpādāḥ |

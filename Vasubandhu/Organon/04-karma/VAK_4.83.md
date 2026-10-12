@@ -14,7 +14,7 @@ saptamaḥ svayam apy atra kāme 'nyatra daśāśubhāḥ /
 śubhās trayas tu sarvatra saṃmukhībhāva-lābhataḥ // 4.83 //
 ```
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 saptamaḥ | svayam | api | atra |

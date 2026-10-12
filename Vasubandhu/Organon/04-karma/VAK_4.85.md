@@ -14,7 +14,7 @@ sarve 'dhipati-niṣyanda-vipāka-phaladā matāḥ /
 duḥkhanān māraṇād ojo-nāśanāt trividhaṃ phalam // 4.85 //
 ```
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 sarve | adhipati-niṣyanda-vipāka-phala-dāḥ | matāḥ |

@@ -14,7 +14,7 @@ anāsravaṃ punaḥ śeṣaṃ tribhir avyākṛtaṃ ca yat /
 catvāri dve tathā trīṇi kuśalasya śubhādayaḥ // 4.88 //
 ```
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 an-āsravam | punaḥ | śeṣam | tribhiḥ | avyākṛtam | ca | yat |

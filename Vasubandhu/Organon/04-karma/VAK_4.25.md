@@ -24,7 +24,7 @@ tyakta-anutpanna-vijñaptiḥ avijñaptyā ārya-pudgalaḥ //
 The verse gives the two crossed cases announced by the Bhāṣya’s
 `catuṣkoṭika`: vijñapti without avijñapti, then avijñapti without vijñapti.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 vijñaptyā

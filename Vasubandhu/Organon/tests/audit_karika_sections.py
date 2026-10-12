@@ -31,16 +31,7 @@ SECTION_ORDER = (
     "OWL++ Seed",
 )
 REQUIRED_SECTIONS = SECTION_ORDER[:5]
-KARMAN_SECTION_ORDER = (
-    "Sanskrit (Devanāgarī)",
-    "Sanskrit (IAST)",
-    "Lexical Analysis",
-    "Grammar",
-    "Translation",
-    "Interpretation",
-    "Logical Determination",
-    "Textual Notes",
-)
+KARMAN_SECTION_ORDER = SECTION_ORDER
 HEADING = re.compile(r"^\s{0,3}(#{2,6})\s+(.+?)\s*#*\s*$")
 FENCE = re.compile(r"^\s{0,3}(`{3,}|~{3,})")
 NUMBERED_HEADING = re.compile(r"^##\s+(\d+)\.\s+")

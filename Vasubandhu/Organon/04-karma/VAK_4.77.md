@@ -14,7 +14,7 @@ ato 'nyat kliṣṭam ity anye lapanā-gīta-nāṭyavat /
 kuśāstravac cābhidhyā tu para-sva-viṣamā spṛhā // 4.77 //
 ```
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 ataḥ | anyat | kliṣṭam | iti | anye |

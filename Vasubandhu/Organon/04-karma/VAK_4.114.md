@@ -14,7 +14,7 @@ svaparārthobhayārthāya nobhayārthāya dīyate /
 tadviśeṣaḥ punar dātṛvastukṣetraviśeṣataḥ // 4.114 //
 ```
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 sva-arthāya | para-arthāya | ubhaya-arthāya | na-ubhaya-arthāya |

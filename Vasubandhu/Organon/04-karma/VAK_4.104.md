@@ -19,7 +19,7 @@ construction `prahārāt na ūrdhvam`: “nor when [the victim] becomes an arhat
 after the blow.” The kārikā is exceptionally compressed; the two exclusion
 cases cannot be recovered safely from surface wording alone.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 buddhe | na | tāḍana-icchasya | prahārāt | na | ūrdhvam | arhati |

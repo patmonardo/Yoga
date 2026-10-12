@@ -14,7 +14,7 @@ aśubhasya śubhādyā dve trīṇi catvāry anukramam /
 avyākṛtasya dve trīṇi trīṇi caite śubhādayaḥ // 4.89 //
 ```
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 aśubhasya | śubha-ādyāḥ | dve | trīṇi | catvāri | anukramam |

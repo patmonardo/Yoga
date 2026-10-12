@@ -14,7 +14,7 @@ mūlacchedas tv asaddṛṣṭyā kāmāptotpatti-lābhinām /
 phala-hetv-apavādinyā sarvathā kramaśo nṛṣu // 4.79 //
 ```
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 mūla-cchedaḥ | tu | asat-dṛṣṭyā |

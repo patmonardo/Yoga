@@ -14,7 +14,7 @@ mithyādṛṣṭes tu mohena śeṣāṇāṃ tribhir iṣyate /
 sattva-bhogāv adhiṣṭhānaṃ nāmarūpaṃ ca nāma ca // 4.71 //
 ```
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 mithyā-dṛṣṭeḥ | tu | mohena |

@@ -25,7 +25,7 @@ The preceding Bhāṣya explicitly closes the avijñapti topic. `Tu punaḥ`, �
 now, in turn,” therefore marks a real transition back to the temporal
 possession of `vijñapti`.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 vijñaptyā

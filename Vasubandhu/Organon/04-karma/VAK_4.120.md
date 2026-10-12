@@ -18,7 +18,7 @@ The normalized reading `niṣkaukṛtya` is supported by the Bhāṣya's gloss
 `nirvipratisāra`, without remorse. The compound also includes absence of an
 opposing factor; these together constitute one of five causes.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 saṃcetanā-samāptibhyām | niṣ-kaukṛtya-vi-pakṣataḥ |

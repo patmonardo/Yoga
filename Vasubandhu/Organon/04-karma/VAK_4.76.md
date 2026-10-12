@@ -14,7 +14,7 @@ paiśunyaṃ kliṣṭacittasya vacanaṃ parabhedane /
 pāruṣyam apriyaṃ sarvaṃ kliṣṭaṃ bhinnapralāpitā // 4.76 //
 ```
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 paiśunyam | kliṣṭa-cittasya | vacanam | para-bhedane |

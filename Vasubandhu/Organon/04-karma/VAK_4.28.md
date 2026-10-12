@@ -25,7 +25,7 @@ The Bhāṣya resolves `kālyam` as sunrise and `āniśākṣayāt` as continuin
 the following sunrise. It also restricts `nirbhūṣeṇa`: exceptional adornment
 is excluded, but habitual adornment need not be removed.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 kālyam

@@ -14,7 +14,7 @@ yugapad yāvad aṣṭābhir aśubhaiḥ saha vartate /
 cetanā daśabhir yāvac chubhair naikāṣṭapañcabhiḥ // 4.81 //
 ```
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 yugapat | yāvat | aṣṭābhiḥ | aśubhaiḥ |

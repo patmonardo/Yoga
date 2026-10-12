@@ -14,7 +14,7 @@ dīyate yena tad dānaṃ pūjānugrahakāmyayā /
 kāyavākkarma sotthānaṃ mahābhogyaphalaṃ ca tat // 4.113 //
 ```
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 dīyate | yena | tat | dānam | pūjā-anugraha-kāmyayā |

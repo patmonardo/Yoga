@@ -14,7 +14,7 @@ chinatti strī pumān dṛṣṭi-caritaḥ so 'samanvayaḥ /
 saṃdhiḥ kāṅkṣāsti-dṛṣṭibhyāṃ nehānantarya-kāriṇaḥ // 4.80 //
 ```
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 chinatti | strī | pumān | dṛṣṭi-caritaḥ |

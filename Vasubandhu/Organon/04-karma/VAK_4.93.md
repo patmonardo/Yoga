@@ -14,7 +14,7 @@ trīṇi catvāri caikaṃ ca dṛg-gheyasya tad-ādayaḥ /
 te dve catvāry atha trīṇi bhāvanā-heya-karmaṇaḥ // 4.93 //
 ```
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 trīṇi | catvāri | ca | ekam | ca | dṛk-heyasya | tad-ādayaḥ |

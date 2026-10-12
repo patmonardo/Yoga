@@ -18,7 +18,7 @@ The transmitted electronic reading `yaśasvi vā` is retained in the witness.
 The Bhāṣya construes the intended result as `yaśasvī bhavati`, “one becomes
 renowned.”
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 varṇa-ādi-sampadā | vastu |

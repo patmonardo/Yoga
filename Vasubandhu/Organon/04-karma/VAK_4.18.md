@@ -25,7 +25,7 @@ The transmitted `tāv ānantarya-` displays regular sandhi from `tau` before a
 vowel. The final half is syntactically compressed and must be read with the
 Bhāṣya: both restraints have both `smṛti` and `saṃprajñāna` as their nature.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 anāgamye

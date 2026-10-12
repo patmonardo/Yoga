@@ -14,7 +14,7 @@ tadavadyaṃ mṛṣāvādas tena bhettā samanvitaḥ /
 avīcau pacyate kalpam adhikair adhikā rujaḥ // 4.99 //
 ```
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 tat-avadyaṃ | mṛṣā-vādaḥ | tena | bhettā | samanvitaḥ |

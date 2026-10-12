@@ -14,7 +14,7 @@ triṣu dvīpeṣv ānantaryaṃ śaṇḍhādīnāṃ tu neṣyate /
 alpopakārālajjitvāc cheṣe gatiṣu pañcasu // 4.97 //
 ```
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 triṣu | dvīpeṣu | ānantaryam | śaṇḍha-ādīnām | tu | na | iṣyate |

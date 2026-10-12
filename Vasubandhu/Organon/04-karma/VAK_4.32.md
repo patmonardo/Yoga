@@ -26,7 +26,7 @@ The compound is distributed by the Bhāṣya. Buddha-refuge concerns the
 `śaikṣa` and `aśaikṣa` dharmas that make the noble Saṅgha; Dharma-refuge
 concerns nirvāṇa.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 buddha-saṃgha-karān

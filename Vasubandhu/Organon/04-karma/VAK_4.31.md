@@ -26,7 +26,7 @@ possesses lay restraint. The reportive `kila` is essential: the explanation
 based on differing preservation of the rules is presented as a received
 answer, not as an uncontested conclusion of the Bhāṣya.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 sarve

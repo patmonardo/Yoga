@@ -26,7 +26,7 @@ The transmitted `saṃvṛt` is compressed. The Bhāṣya resolves it through
 The following “statement,” by contrast, serves instruction in the training
 rules rather than first producing the restraint.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 anyasya

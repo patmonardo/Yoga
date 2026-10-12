@@ -7,7 +7,7 @@ and verse range, so the same checks can be applied to different study volumes.
 python Vasubandhu/Organon/tests/audit_karika_sections.py \
   --chapter 4 --check
 python Vasubandhu/Organon/tests/audit_karika_sections.py \
-  --chapter 4 --start 14 --end 16 --check
+  --chapter 4 --start 42 --end 66 --check
 python Vasubandhu/Organon/tests/test_karika_bhasya_alignment.py \
   --chapter 4 --start 1 --end 16
 python -m unittest discover \
@@ -22,16 +22,20 @@ exact Karman template to every chapter 4 study:
 3. Lexical Analysis
 4. Grammar
 5. Translation
-6. Interpretation
-7. Logical Determination
-8. Textual Notes
+6. Philosophical Translation
+7. Technical Vocabulary
+8. Logical Determination
+9. Interpretive Note
+10. OWL++ Seed
 
 The Karman check requires those top-level sections in that order, with those
 numbers, and rejects every other top-level section. It does not inspect
 subsections (`###` and deeper) or headings inside fenced code blocks. Chapter 4
 selects the strict Karman profile automatically; `--profile generic` cannot
 disable it in check mode. Legacy chapter 4 studies that do not match the
-template are reported as nonconforming, with no per-verse exceptions.
+template are reported as nonconforming, with no per-verse exceptions. A
+section body may be empty; the audit locks the section headings, not their
+content.
 
 Chapters 2, 3, and 5–8 remain on the generic profile pending separate damage
 assessment. Without `--check`, the audit inventories exact top-level heading

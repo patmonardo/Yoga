@@ -18,7 +18,7 @@ The Bhāṣya introduces these expressions as `paryāya`, alternative evaluative
 designations for already established classes of dharmas. The verse closes the
 Karma chapter.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 sa-avadyāḥ | nivṛtāḥ | hīnāḥ | kliṣṭāḥ | dharmāḥ |

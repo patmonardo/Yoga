@@ -14,7 +14,7 @@ agamyagamanaṃ kāmamithyācāraś caturvidhaḥ /
 anyathāsaṃjñino vākyam arthābhijñe mṛṣāvacaḥ // 4.74 //
 ```
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 a-gamya-gamanam | kāma-mithyā-ācāraḥ | catur-vidhaḥ |

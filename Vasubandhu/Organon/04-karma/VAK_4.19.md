@@ -25,7 +25,7 @@ The Bhāṣya’s prose citation contains two evident electronic irregularities 
 forms of `prātimokṣa`. They do not create a substantive alternative to the
 kārikā reading printed above.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 prātimokṣa-sthitaḥ

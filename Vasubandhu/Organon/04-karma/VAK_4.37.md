@@ -25,7 +25,7 @@ The second half is densely compressed. The Bhāṣya controls its distribution:
 remaining avijñapti arises through a specially efficacious field, through a
 deliberate undertaking, or through action pursued with sufficient earnestness.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 asaṃvarasya

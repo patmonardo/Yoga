@@ -24,7 +24,7 @@ maulebhyaḥ sarva-kālebhyaḥ dhyāna-anāsrava-saṃvarau //
 The compact `sarva-ubhaya` receives two separate decompositions in the
 Bhāṣya. Neither “all” nor “both” may be left as a vague universal.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 sarva-ubhayebhyaḥ

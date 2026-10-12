@@ -22,7 +22,7 @@ tiṣyastotreṇa vīryasya dhīsamādhyor anantaram /
 puṇyaṃ kriyātha tadvastu trayaṃ karmapathā yathā // 4.112 //
 ```
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 tiṣya-stotreṇa | vīryasya | dhī-samādhyoḥ | anantaram |

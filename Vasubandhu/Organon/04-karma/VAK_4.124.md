@@ -19,7 +19,7 @@ characteristic fruit-map rather than treating either mapping as exclusive.
 The four persons mentioned in the second half are not identified in this
 local passage.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 svargāya | śīlam | prādhānyāt | visaṃyogāya | bhāvanā |

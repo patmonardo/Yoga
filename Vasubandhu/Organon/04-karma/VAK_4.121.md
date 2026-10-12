@@ -18,7 +18,7 @@ The segmentation `maitryādivat | agṛhṇati` is supported by the Bhāṣya:
 merit occurs as with loving-kindness even when there is no recipient who
 accepts or enjoys the gift.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 caitye | tyāga-anvayam | puṇyam | maitrī-ādi-vat | a-gṛhṇati |

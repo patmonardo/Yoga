@@ -14,7 +14,7 @@ saṃghabhedas tv asāmagrīsvabhāvo viprayuktakaḥ /
 akliṣṭāvyākṛto dharmaḥ saṃghas tena samanvitaḥ // 4.98 //
 ```
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 saṃgha-bhedaḥ | tu | asāmagrī-svabhāvaḥ | viprayuktakaḥ |

@@ -14,7 +14,7 @@ jambūdvīpe pumān eva saṃmukhaṃ buddhacetanaḥ /
 cintāmayaṃ kalpaśate śeṣam ākṣipate hi tat // 4.109 //
 ```
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 jambū-dvīpe | pumān | eva | saṃmukham | buddha-cetanaḥ |

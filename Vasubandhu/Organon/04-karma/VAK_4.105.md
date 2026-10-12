@@ -14,7 +14,7 @@ saṃghabhede mṛṣāvādo mahāvadyatamo mataḥ /
 bhavāgracetanā loke mahāphalatamā śubhe // 4.105 //
 ```
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 saṃgha-bhede | mṛṣā-vādaḥ | mahā-avadya-tamaḥ | mataḥ |

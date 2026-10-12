@@ -14,7 +14,7 @@ sva-bhūmi-dharmāś catvāri trīṇi dve vānya-bhūmikāḥ /
 śaikṣasya trīṇi śaikṣādyā aśaikṣasya tu karmaṇaḥ // 4.91 //
 ```
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 sva-bhūmi-dharmāḥ | catvāri | trīṇi | dve | vā | anya-bhūmikāḥ |

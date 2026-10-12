@@ -26,7 +26,7 @@ speech is selected among verbal faults for the lay restraint. The second
 explains why intoxicants are selected among acts regarded by the
 Ābhidharmikas as blameworthy because prohibited.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 mṛṣā-vāda-prasaṅgāt

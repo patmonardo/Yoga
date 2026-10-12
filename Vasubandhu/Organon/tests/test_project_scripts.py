@@ -67,19 +67,34 @@ class ProjectScriptTests(unittest.TestCase):
 
         legacy_headings = (
             *headings[:5],
-            "## 6. Philosophical Translation",
-            "## 7. Technical Vocabulary",
-            "## 8. Logical Determination",
-            "## 9. Interpretive Note",
-            "## 10. OWL++ Seed",
+            "## 6. Interpretation",
+            "## 7. Logical Determination",
+            "## 8. Textual Notes",
         )
         errors = check_headings(legacy_headings, profile="karman")
         self.assertTrue(
-            any("noncanonical section heading" in error for error in errors)
+            any("missing required section" in error for error in errors)
         )
         self.assertTrue(
             any("do not match the Karman template" in error for error in errors)
         )
+
+    def test_karman_profile_accepts_empty_sections(self):
+        with tempfile.TemporaryDirectory() as directory:
+            path = Path(directory) / "study.md"
+            path.write_text(
+                "\n".join(
+                    f"## {number}. {section}"
+                    for number, section in enumerate(KARMAN_SECTION_ORDER, start=1)
+                ),
+                encoding="utf-8",
+            )
+
+            headings = headings_in(path)
+            self.assertEqual(
+                check_headings(headings, profile="karman"),
+                [],
+            )
 
     def test_karman_profile_ignores_child_headings(self):
         with tempfile.TemporaryDirectory() as directory:
@@ -118,9 +133,9 @@ class ProjectScriptTests(unittest.TestCase):
                 "--chapter",
                 "4",
                 "--start",
-                "14",
+                "42",
                 "--end",
-                "16",
+                "66",
                 "--check",
             ],
             capture_output=True,
@@ -128,7 +143,7 @@ class ProjectScriptTests(unittest.TestCase):
             check=False,
         )
         self.assertEqual(result.returncode, 0, result.stdout + result.stderr)
-        self.assertIn("3 of 3 requested", result.stdout)
+        self.assertIn("25 of 25 requested", result.stdout)
         self.assertIn("Checking headings with the karman profile", result.stdout)
         self.assertIn("all requested studies conform", result.stdout)
 
@@ -140,9 +155,9 @@ class ProjectScriptTests(unittest.TestCase):
                 "--chapter",
                 "4",
                 "--start",
-                "14",
+                "42",
                 "--end",
-                "16",
+                "66",
                 "--profile",
                 "generic",
                 "--check",

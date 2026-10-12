@@ -14,7 +14,7 @@ lobhajaṃ kāya-vāk-karma mithyājīvaḥ pṛthak kṛtaḥ /
 duḥśodhatvāt pariṣkāra-lobhotthaṃ cen na sūtrataḥ // 4.86 //
 ```
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 lobha-jam | kāya-vāk-karma | mithyā-ājīvaḥ | pṛthak | kṛtaḥ |

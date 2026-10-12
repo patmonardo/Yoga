@@ -35,7 +35,7 @@ bhūmi-saṃcāra-hānibhyām dhyāna-āptam tyajyate śubham /
 tathā ārūpya-āptam āryam tu phala-āpti-uttapti-hānibhiḥ //
 ```
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 bhūmi-saṃcāra-hānibhyām

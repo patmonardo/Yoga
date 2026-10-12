@@ -14,7 +14,7 @@ apraheyasya te tv ekaṃ dve catvāri yathākramam /
 ayoga-vihitaṃ kliṣṭaṃ vidhi-bhraṣṭaṃ ca kecana // 4.94 //
 ```
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 apraheyasya | te | tu | ekam | dve | catvāri | yathākramam |

@@ -25,7 +25,7 @@ The compound `atītājātayā` is compressed. The Bhāṣya resolves it as posse
 of past and future avijñapti. That prose explanation controls the study
 translation.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 tathā

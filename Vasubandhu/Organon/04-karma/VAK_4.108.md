@@ -14,7 +14,7 @@ bodhisattvaḥ kuto yāvat yato lakṣaṇakarmakṛt /
 sugatiḥ kulajo 'vyakṣaḥ pumān jātismaro 'nivṛt // 4.108 //
 ```
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 bodhisattvaḥ | kutaḥ | yāvat | yataḥ | lakṣaṇa-karma-kṛt |

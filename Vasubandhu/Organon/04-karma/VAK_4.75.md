@@ -14,7 +14,7 @@ cakṣuḥ-śrotra-manaś-cittair anubhūtaṃ tribhiś ca yat /
 tad dṛṣṭa-śruta-vijñātaṃ mataṃ coktaṃ yathākramam // 4.75 //
 ```
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 cakṣuḥ-śrotra-manaḥ-cittaiḥ | anubhūtam |

@@ -26,7 +26,7 @@ The verb `labhyate`, “is acquired,” governs all three restraints. The partic
 `ādi`, “and the others,” is doctrinally important: the ordinary interpersonal
 procedure is not the only recognized acquisition of prātimokṣa restraint.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 dhyāna-jaḥ
