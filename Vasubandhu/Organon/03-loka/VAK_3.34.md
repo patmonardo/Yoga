@@ -224,9 +224,10 @@ two. In the third and fourth, six equanimity-Rangings reach the desire realm,
 four reach the Form realm, and one reaches the Formless realm. The Condition's
 constitution and the ranging's station jointly determine this distribution.
 
-BEP is the indivisible Singular Matrix—vertical and horizontal, Mahat-fueled,
-the OG Matrix of the Other Side, the House of God, Satya Loka, Paramārtha.
-It does not itself enter appearances.
+BEP is the Abhidharma, with Base, Essence, and Principle as its three levels
+of intuition. The further description of BEP as a Posited Process in Buddhi,
+with Buddhi as Agent of the Matrix, is a working formulation still in
+progress; BEP is not Mahat or the Matrix itself.
 
 In the inner-instrument Techne, Vijñāna is Discriminative Cognition joining
 and governing Perception and Conception, Inconceivable as a homogeneous
@@ -270,10 +271,7 @@ vak:FormlessRealm
     vak:admitsCondition vak:DharmaCondition .
 
 organon:BEP
-    a organon:SingularMatrix ;
-    organon:hasAspect organon:Vertical, organon:Horizontal ;
-    organon:isMahatFueled true ;
-    organon:designates organon:OtherSide, organon:SatyaLoka,
-        organon:Paramartha ;
-    organon:doesNotEnter vak:Appearance .
+    a organon:Abhidharma ;
+    organon:hasIntuitionLevel organon:Base, organon:Essence,
+        organon:Principle .
 ```

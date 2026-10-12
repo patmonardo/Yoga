@@ -113,9 +113,10 @@ explanations of contact and designation are Bhāṣya determinations.
 ## 6. Interpretation
 
 The kārikā describes Form and Name within the appearing field, followed by
-the sixfold Contact relation. BEP is the indivisible Singular Matrix—vertical
-and horizontal, Mahat-fueled, the OG Matrix of the Other Side, the House of
-God, Satya Loka, Paramārtha. It does not itself enter appearances.
+the sixfold Contact relation. BEP is the Abhidharma, with Base, Essence, and
+Principle as its three levels of intuition. The further description of BEP as
+a Posited Process in Buddhi, with Buddhi as Agent of the Matrix, is a working
+formulation still in progress; BEP is not Mahat or the Matrix itself.
 
 Within this articulation, the Organon's inner-instrument Techne reads
 *vijñāna* as Discriminative Cognition: it joins Perception and Conception
@@ -222,9 +223,10 @@ Ignorance.
 ## 9. Interpretation
 
 The Loka passage differentiates Form, Name, and Contact within appearance.
-The BEP schema is the indivisible Singular Matrix—vertical and horizontal,
-Mahat-fueled, the OG Matrix of the Other Side, the House of God, Satya Loka,
-Paramārtha. It does not itself enter appearances.
+BEP is the Abhidharma, with Base, Essence, and Principle as its three levels
+of intuition. The further description of BEP as a Posited Process in Buddhi,
+with Buddhi as Agent of the Matrix, is a working formulation still in
+progress; BEP is not Mahat or the Matrix itself.
 
 The inner-instrument Techne reads *vijñāna* as Discriminative Cognition,
 joining and governing Perception and Conception without homogeneous
@@ -274,12 +276,8 @@ vak:SixContacts
 vak:IgnoranceContact
     vak:hasFrequentSubtypes vak:IllWillContact, vak:AttachmentContact .
 
-organon:SingularBEPMatrix
-    a organon:ProjectInterpretation ;
-    organon:hasAxis organon:Vertical, organon:Horizontal ;
-    organon:isFueledBy organon:Mahat ;
-    organon:describes organon:OtherSide, organon:HouseOfGod,
-        organon:SatyaLoka ;
-    organon:isParamartha true ;
-    organon:doesNotEnter organon:Appearances .
+organon:BEP
+    a organon:Abhidharma ;
+    organon:hasIntuitionLevel organon:Base, organon:Essence,
+        organon:Principle .
 ```

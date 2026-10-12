@@ -204,9 +204,10 @@ realm; the Form realm conditions twelve, and the Formless realm conditions
 three. The first two dhyānas connect twelve rangings with the Form realm,
 while the desire realm can condition those same twelve.
 
-BEP is the indivisible Singular Matrix—vertical and horizontal, Mahat-fueled,
-the OG Matrix of the Other Side, the House of God, Satya Loka, Paramārtha.
-It does not itself enter appearances.
+BEP is the Abhidharma, with Base, Essence, and Principle as its three levels
+of intuition. The further description of BEP as a Posited Process in Buddhi,
+with Buddhi as Agent of the Matrix, is a working formulation still in
+progress; BEP is not Mahat or the Matrix itself.
 
 In the inner-instrument Techne, Vijñāna is Discriminative Cognition joining
 and governing Perception and Conception, Inconceivable as a homogeneous

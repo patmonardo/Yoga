@@ -219,9 +219,11 @@ the experienced result here; the next verse's discussion of food as
 sustaining beings is a separate inquiry.
 
 This Loka–Karma analysis belongs to the Bhava Chakra, distinct from the Dharma
-Chakra. BEP is the indivisible Singular Matrix, both vertical and horizontal,
-Mahat-fueled: the OG Matrix of the Other Side, the House of God, Satya Loka.
-The Dharma Chakra spans *saṃvṛti* and *paramārtha* as two determinations of
+Chakra. BEP is the Abhidharma, with Base, Essence, and Principle as its three
+levels of intuition. The further description of BEP as a Posited Process in
+Buddhi, with Buddhi as Agent of the Matrix, is a working formulation still in
+progress; BEP is not Mahat or the Matrix itself. The Dharma Chakra spans
+*saṃvṛti* and *paramārtha* as two determinations of
 the same reality, not two worlds or substances. The Absolute Base spans and
 combines Form Base and Dharma Base; this unity is Absolute Dharma,
 discriminating all Dharmas through Form and Law.

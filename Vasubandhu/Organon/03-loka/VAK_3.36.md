@@ -237,9 +237,11 @@ clear: Karma joined with *kleśaprāpti* can germinate into another birth;
 Karma alone cannot. The verse presents causal efficacy, not a permanent
 bearer behind the sequence.
 
-BEP is the indivisible Singular Matrix, both vertical and horizontal,
-Mahat-fueled: the OG Matrix of the Other Side, the House of God, Satya Loka.
-The Dharma Chakra spans *saṃvṛti* and *paramārtha* as two determinations of
+BEP is the Abhidharma, with Base, Essence, and Principle as its three levels
+of intuition. The further description of BEP as a Posited Process in Buddhi,
+with Buddhi as Agent of the Matrix, is a working formulation still in
+progress; BEP is not Mahat or the Matrix itself. The Dharma Chakra spans
+*saṃvṛti* and *paramārtha* as two determinations of
 the same reality, not two worlds or substances. The Absolute Base spans and
 combines Form Base and Dharma Base; this unity is Absolute Dharma,
 discriminating all Dharmas through Form and Law.
@@ -285,9 +287,7 @@ vak:HuskAnalogy
     vak:hasPossibleResult vak:AnotherBirth .
 
 organon:BEP
-    a organon:SingularMatrix ;
-    organon:hasAspect organon:Vertical, organon:Horizontal ;
-    organon:isMahatFueled true ;
-    organon:designates organon:OtherSide, organon:SatyaLoka ;
-    organon:doesNotEnter vak:Appearance .
+    a organon:Abhidharma ;
+    organon:hasIntuitionLevel organon:Base, organon:Essence,
+        organon:Principle .
 ```
