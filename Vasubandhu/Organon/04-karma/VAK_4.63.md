@@ -1,4 +1,4 @@
-# VAK_4.63
+# VAK_4.63 — Two Alternative Allocations of Black Karma
 
 ## 1. Sanskrit (Devanāgarī)
 

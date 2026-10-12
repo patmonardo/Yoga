@@ -1,4 +1,4 @@
-# VAK_4.53
+# VAK_4.53 — Twenty-Two Karmic Possibilities in Intermediate Existence
 
 ## 1. Sanskrit (Devanāgarī)
 

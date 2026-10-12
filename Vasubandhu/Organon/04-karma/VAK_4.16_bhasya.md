@@ -1,25 +1,32 @@
-# VAK 4.16 Bhāṣya — How Restraint Is Action
+# VAK_4.16 Bhāṣya — Restraint as Action: Names and Moments
 
 ## 1. Kārikā Anchor
 
-```iast
-śīlaṃ sucaritaṃ karma saṃvaraś cocyate punaḥ /
-ādye vijñaptyavijñaptī prātimokṣakriyāpathaḥ // 4.16 //
-```
+> śīlaṃ sucaritaṃ karma saṃvaraś cocyate punaḥ /
+> ādye vijñaptyavijñaptī prātimokṣakriyāpathaḥ // 4.16 //
 
-> It is also called discipline, good conduct, action, and restraint. In
-> the first [moment of undertaking it], manifest and non-manifest action
-> are prātimokṣa; [restraint is also called] a course of action.
+> Restraint is called discipline because it is undertaken as abstention
+> from improper actions; good conduct because learned persons praise it;
+> action because its nature is activity; and restraint because it
+> contains body and speech. The objection that non-disclosing continuity
+> is non-action is answered by distinguishing the deed prevented from
+> the restraint itself: evil is not performed through the restraint, yet
+> the restraint is produced through manifestation and consciousness.
+> Others explain it as a cause and a result of activity. In the first
+> moment of undertaking restraint, both manifestation and non-disclosing
+> continuity are called *prātimokṣa*; in later moments, the continuing
+> state is *prātimokṣasaṃvara*, not *prātimokṣa* in that strict sense.
+> The commentary also calls it an action-course insofar as it belongs
+> to the fundamental phase.
 
-The Kārikā's final `kriyāpatha` is kept distinct from the Bhāṣya prose's
-`karmapatha`. The complete commentary unit runs from [207|07] through
-[207|21] in `Vasubandhu/Sources/kosabhasya.txt`; the next question opens
-4.17.
+This is the Bhāṣya-informed study translation in `VAK_4.16.md`. The
+commentary unit runs from [207|07] through [207|21]; the next question
+begins at [207|22] and belongs to 4.17.
 
 ## 2. Continuous Sanskrit
 
 ```iast
-sa eṣa prātimokṣasaṃvaraḥ
+sa eṣa prātimokṣasaṃvaraḥ.
 
 śīlaṃ sucaritaṃ karma saṃvaraś cocyate.
 
@@ -40,99 +47,87 @@ saṃvarasamādānasya prathame vijñaptyavijñaptī prātimokṣa ity ucyate.
 pāpasya tena prātimokṣaṇād utsarjanād ity arthaḥ.
 svārthe vṛddhividhānādvaikṛtavaiśasavat.
 prātimokṣasaṃvara ity api kāyavāksaṃvaraṇāt; karmapatha ity ucyate
-maulasaṃgṛhītatvāt. dvitīyādiṣu kṣaṇeṣu prātimokṣasaṃvara eva,
+maulasaṃgṛhītatvāt. dvitīyādiṣu kṣaṇeṣui prātimokṣasaṃvara eva,
 na prātimokṣaḥ. pṛṣṭhaṃ ca na maulaḥ karmapathaḥ.
 ```
 
 Word division and punctuation are editorial. The running verse citation
-reads `prātimokṣakiyāpathaḥ`, while the official Kārikā witness reads
-`prātimokṣakriyāpathaḥ` and the prose says `karmapatha`. These forms are
-shown separately, not silently equated. The word-formation sentence at
-[207|19], printed above without conjectural segmentation, remains
-uncertain. `kṣaṇeṣu` normalizes the witness's `kṣaṇeṣui` at [207|20–21].
+reads *prātimokṣakiyāpathaḥ*; the Kārikā witness reads
+*prātimokṣakriyāpathaḥ*, while the prose explains the term as
+*karmapatha*. The sentence at [207|19] is retained without conjectural
+segmentation. The witness's *kṣaṇeṣui* at [207|20–21] is normalized
+above as *kṣaṇeṣu*.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
-This prātimokṣa restraint is called discipline, good conduct, action, and
-restraint. It is called discipline because one undertakes abstention from
-improper actions. An explanatory derivation connects it with coolness: a
-cited verse says that when pleasant discipline is undertaken the body does
-not burn. It is called good conduct because the learned praise it. It is
-called karma because its nature is activity.
+This is *prātimokṣa* restraint.
 
-But, one asks, avijñapti is called non-activity. How can it be activity?
-It is called non-activity because conscientious people who have undertaken
-it do not commit evil through it. Yet avijñapti is itself produced by
-manifestation and mind, and in that respect it is activity. Others explain
-the term by saying it is a cause and a result of activity. It is called
-restraint because it restrains body and speech. These are names for
-prātimokṣa restraint in general.
+It is called *śīla* because it is undertaken as abstention from
+improper actions. The Bhāṣya also offers an explanatory association with
+coolness, citing a verse that says the body does not burn when pleasant
+discipline is undertaken. It is called good conduct because the learned
+praise it. It is called action because its nature is activity.
 
-Further, in the first moment of undertaking restraint, both manifestation
-and non-manifest action are called prātimokṣa. Through them evil is released
-or cast off. [The prose adds a word-formation explanation involving
-`vṛddhi`; the examples in the printed sentence are uncertain.] It is also
-called prātimokṣa restraint because body and speech are restrained, and an
-action-course because it is included in the fundamental phase. In the
-second and later moments it is prātimokṣa restraint, but not prātimokṣa in
-that strict first-moment sense. What follows the fundamental phase is not
-itself the fundamental action-course.
+One may object: *avijñapti* is called non-action; how can it be activity?
+It is called non-action because conscientious people who have undertaken
+it do not commit evil through it. Yet it is activity because it is
+produced by manifestation and consciousness. Others say that it is a
+cause and a result of activity. It is called restraint because it
+contains body and speech. Thus, generally, these are names for
+*prātimokṣa* restraint.
 
-## 4. The Objection About Kriyā
+Further: in the first moment of undertaking restraint, manifestation
+and non-disclosing continuity are called *prātimokṣa*, because through
+them evil is released or cast off. [The following word-formation
+explanation is uncertain.] It is also called *prātimokṣa* restraint
+because it contains body and speech, and an action-course because it is
+included in the fundamental phase. In the second and later moments it
+is *prātimokṣasaṃvara*, but not *prātimokṣa* in that strict
+first-moment sense. What follows is not itself the fundamental
+action-course.
 
-The Bhāṣya makes the relation of `kriyā` and `karma` unusually explicit:
+## 4. Argument and Scope
 
-```text
-kriyāsvabhāvatvāt karma
-    because its nature is activity, it is karma
-```
+The Bhāṣya gives a distinct ground for each of the four names:
 
-The question `nanu cāvijñaptir akriyety ucyate` is a real objection, not
-another agreed definition. Vasubandhu answers by assigning the two words
-different subjects of predication:
+- *śīla*: abstention from improper actions, with a further “coolness”
+  explanation;
+- *sucarita*: praise by the learned;
+- *karma*: the nature of activity;
+- *saṃvara*: containment of body and speech.
 
-```text
-akriyā
-    the evil deed is not performed by the restrained person
+The *akriyā* objection is not a denial that restraint is produced. The
+first answer uses “non-action” of the evil deed that does not occur
+through restraint, then calls *avijñapti* activity because it is
+produced through *vijñapti* and *citta*. A second account—activity as
+cause and result—is attributed to “others,” not merged into the first
+answer.
 
-kriyā
-    the avijñapti itself is produced by vijñapti and citta
-```
+The second part distinguishes the first moment of undertaking restraint
+from later moments. Both *vijñapti* and *avijñapti* are called
+*prātimokṣa* at acquisition; subsequent moments are called
+*prātimokṣasaṃvara*, not *prātimokṣa* in the strict sense glossed
+here. The commentary further places the restraint under the fundamental
+action-course and distinguishes what follows from that fundamental
+phase.
 
-The alternative introduced by `ity apare`—cause and result of activity—is
-reported as another explanation. It should not replace the preceding
-answer in translation.
+## 5. Interpretation
 
-## 5. First Moment and Continuing Restraint
+The passage explains how restraint can prevent an evil deed while still
+counting as produced activity. It keeps the prevented action distinct
+from the positively established restraint, and the initial undertaking
+distinct from its later continuation.
 
-`Ādye` is glossed as `saṃvarasamādānasya prathame`: **in the first
-moment of undertaking restraint**. It does not mean the first two of the
-four names. The first moment has both `vijñapti` and `avijñapti` and is
-strictly called `prātimokṣa`. From the second moment onward the continuing
-determination is `prātimokṣasaṃvara`.
+In the Organon reading, this is compatible with treating restraint as a
+practical determination rather than a mere absence. The project may
+connect that undertaking with Cetanā, but this Bhāṣya unit itself names
+*vijñapti* and *citta* as the producers of *avijñapti*; it does not
+name Cetanā here.
 
-The further distinction is between `maula`, the fundamental phase included
-under `karmapatha`, and `pṛṣṭha`, what follows it. The source does not make
-every later moment a fresh first acquisition. Nor does its prose erase the
-textual question raised by the Kārikā's `kriyāpatha` form.
+## 6. Review Status
 
-## 6. Philosophical and Organon Study
-
-This is the passage our *kriyā* discussion needed. The Kośa can call a
-restraint **karma** without treating it as an outward evil deed: an
-undertaken restraint is positively brought about even as it prevents a
-specified deed. Action and abstention are therefore related through the
-production and function of the restraint, not through a verbal paradox.
-
-For the Organon, one Program Feature can be read under several grounded
-predicates—discipline, good conduct, action, restraint—while its acquisition
-and continuation remain distinct states. That is a project interpretation
-of the Bhāṣya's distinctions, not a claim that its restraint theory is
-already software.
-
-## 7. Review Status
-
-The whole natural unit through [207|21] is translated. The source's
-`kiyāpatha`, the Kārikā's `kriyāpatha`, the Bhāṣya's `karmapatha`, and the
-uncertain word-formation example remain visible for later collation. The
-research witness and running source are unchanged.
+The unit through [207|21] is translated. The reading and interpretation
+of the word-formation sentence at [207|19] remain open. The distinction
+between the Kārikā's *kriyāpatha*, the running citation's
+*kiyāpatha*, and the prose *karmapatha* is preserved. The next question
+begins at [207|22].

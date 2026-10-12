@@ -1,4 +1,4 @@
-# VAK_4.26
+# VAK_4.26 — How the Three Restraints Are Acquired
 
 ## 1. Sanskrit (Devanāgarī)
 

@@ -1,4 +1,4 @@
-# VAK_4.126
+# VAK_4.126 — Skilled Activities as Body, Speech, and Mind
 
 ## 1. Sanskrit (Devanāgarī)
 

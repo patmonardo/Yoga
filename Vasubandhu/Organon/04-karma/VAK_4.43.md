@@ -1,4 +1,4 @@
-# VAK_4.43
+# VAK_4.43 — Who Can Bear a Standing Restraint?
 
 ## 1. Sanskrit (Devanāgarī)
 

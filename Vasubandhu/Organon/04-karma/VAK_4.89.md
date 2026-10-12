@@ -1,4 +1,4 @@
-# VAK_4.89
+# VAK_4.89 — Completion of the Action-quality Matrix
 
 ## 1. Sanskrit (Devanāgarī)
 

@@ -1,4 +1,4 @@
-# VAK_4.25
+# VAK_4.25 — Manifestation and Non-Manifestation Come Apart
 
 ## 1. Sanskrit (Devanāgarī)
 

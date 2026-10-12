@@ -1,4 +1,4 @@
-# VAK_4.104
+# VAK_4.104 — Intention, Preparation, and the Path
 
 ## 1. Sanskrit (Devanāgarī)
 

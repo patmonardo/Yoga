@@ -1,4 +1,4 @@
-# VAK_4.42
+# VAK_4.42 — Loss by Realm Shift, Abandonment by Path
 
 ## 1. Sanskrit (Devanāgarī)
 

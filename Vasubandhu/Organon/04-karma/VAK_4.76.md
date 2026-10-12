@@ -1,4 +1,4 @@
-# VAK_4.76
+# VAK_4.76 — Division, Injury, and Afflicted Discourse
 
 ## 1. Sanskrit (Devanāgarī)
 

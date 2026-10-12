@@ -1,4 +1,4 @@
-# VAK_4.112
+# VAK_4.112 — Completing the Perfections and Analyzing Merit
 
 ## 1. Sanskrit (Devanāgarī)
 

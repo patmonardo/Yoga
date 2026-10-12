@@ -1,4 +1,4 @@
-# VAK_4.102
+# VAK_4.102 — Six Exclusions from Wheel Division
 
 ## 1. Sanskrit (Devanāgarī)
 

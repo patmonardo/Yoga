@@ -1,4 +1,4 @@
-# VAK_4.97
+# VAK_4.97 — Where the Three Obstructions Occur
 
 ## 1. Sanskrit (Devanāgarī)
 

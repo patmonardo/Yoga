@@ -1,4 +1,4 @@
-# VAK_4.77
+# VAK_4.77 — Residual Discourse and Covetousness
 
 ## 1. Sanskrit (Devanāgarī)
 

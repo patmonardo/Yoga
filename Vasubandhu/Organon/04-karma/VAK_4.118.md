@@ -1,4 +1,4 @@
-# VAK_4.118
+# VAK_4.118 — Five Immeasurable Fields of Giving
 
 ## 1. Sanskrit (Devanāgarī)
 

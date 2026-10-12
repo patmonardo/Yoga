@@ -1,4 +1,4 @@
-# VAK_4.21
+# VAK_4.21 — Present Restraint and the Middle Bearer
 
 ## 1. Sanskrit (Devanāgarī)
 

@@ -1,4 +1,4 @@
-# VAK_4.51
+# VAK_4.51 — Four Corners and the Projection of a Rebirth Series
 
 ## 1. Sanskrit (Devanāgarī)
 

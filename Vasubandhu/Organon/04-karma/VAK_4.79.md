@@ -1,4 +1,4 @@
-# VAK_4.79
+# VAK_4.79 — Severance of the Wholesome Roots
 
 ## 1. Sanskrit (Devanāgarī)
 

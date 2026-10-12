@@ -1,19 +1,22 @@
-# VAK 4.15 Bhāṣya — Undertaking a Field of Abstention
+# VAK_4.15 Bhāṣya — Four Restraint Statuses by Scope of Abstention
 
 ## 1. Kārikā Anchor
 
-```iast
-pañcāṣṭadaśasarvebhyo varjyebhyo viratigrahāt /
-upāsakopavāsasthaśramaṇoddeśabhikṣutā // 4.15 //
-```
+> pañcāṣṭadaśasarvebhyo varjyebhyo viratigrahāt /
+> upāsakopavāsasthaśramaṇoddeśabhikṣutā // 4.15 //
 
-> By undertaking abstention from five, eight, ten, or all things to be
-> avoided, one becomes respectively a lay follower, an observer of the
-> fast, a novice, or a monk.
+> One is established in lay restraint by undertaking abstention from five
+> prohibited actions; in the *upavāsa* observance by undertaking eight;
+> in novice restraint by undertaking ten; and in monk restraint by
+> undertaking abstention from all prohibited bodily and verbal actions.
+> The Bhāṣya explains that the eightfold undertaking groups adornment
+> with entertainment, while the novice's tenfold count separates those
+> two fields and adds abstention from accepting gold and silver. It calls
+> the complete undertaking *prātimokṣa* restraint.
 
-The Bhāṣya unit runs from [206|22] through [207|07] of
-`Vasubandhu/Sources/kosabhasya.txt`. The next line begins 4.16's question
-about the names of this restraint.
+This is the Bhāṣya-informed study translation in `VAK_4.15.md`. The
+prose unit runs from [206|22] through [207|07]; the next kārikā begins
+at [207|08].
 
 ## 2. Continuous Sanskrit
 
@@ -33,7 +36,7 @@ prāṇātipātādattādānābrahmacaryamṛṣāvādamadyapānebhyo
 gandhamālyavilepananṛtyagītavāditrād
 uccaśayanamahāśayanād akālabhojanāc ca.
 
-daśabhyo viratisamādānāc chrāmaṇero bhavati: ebhya eva
+daśabhyo viratisamādānāt śrāmaṇero bhavati: ebhya eva
 jātarūparajatapratigrahāc ca. nṛtyagītavāditragandhamālyavilepanaṃ
 cātra dvayīkṛtya daśa bhavanti.
 
@@ -41,73 +44,79 @@ sarvebhya eva varjanīyebhyaḥ kāyavākkarmabhyaḥ viratisamādānād
 bhikṣur ity ucyate. sa eṣa prātimokṣasaṃvaraḥ.
 ```
 
-Word division and punctuation are editorial. The running witness's
-`pañccabhyo` is retained rather than silently corrected to `pañcabhyo`.
-Its eightfold list is densely compounded, so the English list below is a
-provisional division controlled by the explicit totals and the later
-`dvayīkṛtya` instruction. The witness also has `nṛtyagitavāditra`,
-regularized above as `nṛtyagītavāditra`.
+Word division and punctuation are editorial. The witness's
+`pañccabhyo` is retained rather than silently corrected. At [207|04–05],
+the witness has the sandhied `viratisamādānācchrāmaṇero`, divided here as
+`viratisamādānāt śrāmaṇero`. The eightfold list is densely compounded;
+its category divisions below follow the Bhāṣya's totals and its explicit
+instruction that adornment and entertainment be counted separately for
+the tenfold undertaking.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
-How does a person become a lay follower, an observer of the fast, and so on
-up to a monk? By undertaking abstention from five, eight, ten, or all things
-to be avoided, respectively. The enumeration is to be understood in that
+How does someone become a lay follower, one established in the
+*upavāsa* observance, and so on up to a monk? The answer is through
+undertaking abstention from five, eight, ten, or all things to be
+avoided, respectively. The enumeration is to be understood in that
 order.
 
-By undertaking abstention from five avoidable actions, one stands in lay
-restraint: killing, taking what has not been given, sexual misconduct, false
-speech, and drinking intoxicants.
+By undertaking abstention from five avoidable actions, one is established
+in lay restraint: killing, taking what is not given, sexual misconduct,
+false speech, and drinking intoxicating liquor.
 
-By undertaking abstention from eight, one observes the fast: abstention from
-killing, taking what has not been given, sexual activity, false speech,
-intoxicants, adornment and entertainment, high or luxurious beds, and eating
-at an improper time.
+By undertaking abstention from eight, one is established in the
+*upavāsa* observance: abstention from killing, taking what is not given,
+sexual activity, false speech, intoxicants, the combined field of
+adornment and entertainment, elevated beds, and untimely eating.
 
 By undertaking abstention from ten, one becomes a novice. These are the
-same, together with abstention from accepting gold and silver. Here the
-combined field of entertainment and adornment is counted as two, making
-ten.
+same fields, together with abstention from accepting gold and silver.
+Here adornment and entertainment are counted separately, making ten.
 
 By undertaking abstention from all prohibited bodily and verbal actions,
-one is called a monk. This is prātimokṣa restraint.
+one is called a monk. This is *prātimokṣa* restraint.
 
-## 4. What the Numbers Determine
+## 4. The Counts and Their Grounds
 
-| Undertaken scope | Restraint status | Distinctive point |
-|---|---|---|
-| five | lay follower (`upāsaka`) | sexual misconduct is prohibited |
-| eight | fast observer (`upavāsastha`) | sexual activity is prohibited; further observances are added |
-| ten | novice (`śrāmaṇera`) | gold and silver are added; adornment and entertainment count separately |
-| all | monk (`bhikṣu`) | all prohibited bodily and verbal actions are included |
+The Bhāṣya directs that the four numbers correspond to the four statuses
+in the order given by the kārikā:
 
-The change from five to eight includes a change in the sexual rule's scope:
-`kāmamithyācāra` in the lay five becomes `abrahmacarya` in the eight.
-The change from eight to ten is partly a new prohibition and partly a new
-division of one previously combined field. The numbers therefore name
-articulated undertakings, not four quantities of interchangeable rules.
+1. **Five — lay restraint:** killing, taking what is not given, sexual
+   misconduct, false speech, and drinking intoxicants.
+2. **Eight — *upavāsa* observance:** the five above, with sexual
+   misconduct replaced by celibacy, plus the combined adornment-and-
+   entertainment field, elevated beds, and untimely eating.
+3. **Ten — novice restraint:** the eightfold field, with adornment and
+   entertainment counted separately and acceptance of gold and silver
+   added.
+4. **All — monk restraint:** abstention from every prohibited bodily and
+   verbal action.
 
-## 5. Volition, Undertaking, and Status
+The eightfold list is not merely copied unchanged into the tenfold count:
+the Bhāṣya explicitly says to divide the adornment-and-entertainment
+field into two and add acceptance of gold and silver. The precise
+subdivision of the compressed eightfold list remains editorial.
 
-The repeated expression is `viratisamādāna`, the undertaking of
-abstention. The Kārikā says `viratigraha`, taking up abstention. The text
-does not infer restraint merely because a person happens not to perform a
-prohibited act. It connects each standing to an undertaking directed at a
-specified field of possible bodily and verbal action.
+## 5. Interpretation
 
-This gives the philosophical study of karma a concrete task. Volition
-(`cetanā`) is central to the chapter's opening account, but here a
-volitional undertaking is specified by **what is avoided** and **which
-restraint is acquired**. “Karma” at 4.01 still covers more than vows; this
-verse determines one disciplined mode within that wider account.
+The Bhāṣya repeatedly uses *virati-samādāna*, the undertaking of
+abstention, to explain the kārikā's *virati-graha*. The status
+corresponds to the range undertaken: five, eight, ten, or the complete
+field of prohibited bodily and verbal action.
 
-For the Organon, an agent's status can be understood as a continuing
-practical commitment with an explicit scope. This is our reconstruction,
-not a claim that the Bhāṣya already presents an Agent program.
+For the Organon reading, the verse specifies the field through which
+practical Cetanā is disciplined. Its focus is not simply on naming
+statuses or counting rules, but on the scope of abstention that is
+undertaken. This is an Organon application; the Bhāṣya itself explains
+the four designations through their respective abstention counts.
+
+This unit continues the restraint branch of 4.13. It gives no further
+account of the class described there as “neither restraint nor
+non-restraint.”
 
 ## 6. Review Status
 
-The complete natural unit through [207|07] is translated. The segmentation
-of the eightfold compound and the source spelling noted above remain
-provisional. The research witness and running source are unchanged; 4.16
-begins with `śīlaṃ sucaritaṃ karma`.
+The source unit through [207|07] is translated. The exact division of
+the compressed eightfold list remains provisional; the Bhāṣya's
+instruction for the tenfold count is explicit. The next kārikā begins at
+[207|08].

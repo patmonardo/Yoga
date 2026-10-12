@@ -1,4 +1,4 @@
-# VAK_4.113
+# VAK_4.113 — What Counts as Giving?
 
 ## 1. Sanskrit (Devanāgarī)
 

@@ -1,4 +1,4 @@
-# VAK_4.124
+# VAK_4.124 — Characteristic Fruits and Brahmā Merit
 
 ## 1. Sanskrit (Devanāgarī)
 

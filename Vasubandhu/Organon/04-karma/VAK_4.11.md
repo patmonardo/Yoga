@@ -38,58 +38,9 @@ pañcakam tu anuvartakam
 | tu | contrastive particle | however |
 | anuvartakam | nominative neuter singular | accompanying during performance |
 
-## 4. Grammar and Argument
+## 4. Grammar
 
-The first clause assigns initiation to Cognition abandoned by seeing:
-
-```text
-dṛṣṭi-heyaṃ vijñānam
-    pravartakam
-
-Cognition to be abandoned by seeing
-    is initiating
-```
-
-The Bhāṣya explains that this mind is the causal basis for the `vitarka` and
-`vicāra` that produce manifestation. It does not accompany the performance:
-the outward-facing consciousness active during the action is not that
-initiating consciousness.
-
-The next clause assigns both roles to Mind-Cognition abandoned through
-cultivation:
-
-```text
-mānasaṃ [vijñānam] bhāvanā-heyam
-    ubhayam
-
-Mind-Cognition to be abandoned through cultivation
-    performs both functions
-```
-
-The final clause assigns accompaniment alone to the five sensory Cognitions:
-
-```text
-pañcakam tu
-    anuvartakam
-
-the five [sensory Cognitions], however,
-    accompany performance
-```
-
-The Bhāṣya supplies the fourth member:
-
-| Function relative to manifestation | Cognition |
-|---|---|
-| Initiates only | Cognition abandoned by seeing |
-| Accompanies only | The five sensory Cognitions |
-| Initiates and accompanies | Mind-Cognition abandoned through cultivation |
-| Neither | Uncontaminated Cognition |
-
-The opening objection challenges how an initiating consciousness's path
-classification relates to the Form it produces. The Bhāṣya's exchange is
-compressed and marks the claim concerning Form as requiring proof. It does
-not support a general rule that an effect inherits every classification of
-its cause.
+The first clause identifies `dṛṣṭiheyaṃ vijñānam` as `pravartakam`. The next clause predicates `ubhayam` of `mānasaṃ bhāvanāheyam`. The final contrastive `pañcakam tu` is predicated as `anuvartakam`.
 
 ## 5. Translation
 

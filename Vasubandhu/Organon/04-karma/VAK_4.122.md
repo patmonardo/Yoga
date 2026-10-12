@@ -1,4 +1,4 @@
-# VAK_4.122
+# VAK_4.122 — Abstention and Purified Discipline
 
 ## 1. Sanskrit (Devanāgarī)
 

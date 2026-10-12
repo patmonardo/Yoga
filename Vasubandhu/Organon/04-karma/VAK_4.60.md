@@ -1,4 +1,4 @@
-# VAK_4.60
+# VAK_4.60 — Allocating the Four Colors of Karma
 
 ## 1. Sanskrit (Devanāgarī)
 

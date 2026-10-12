@@ -1,4 +1,4 @@
-# VAK_4.101
+# VAK_4.101 — Division of the Dharma Wheel and Communal Action
 
 ## 1. Sanskrit (Devanāgarī)
 

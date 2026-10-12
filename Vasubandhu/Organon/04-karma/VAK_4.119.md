@@ -1,4 +1,4 @@
-# VAK_4.119
+# VAK_4.119 — Six Determinants of Karmic Weight
 
 ## 1. Sanskrit (Devanāgarī)
 

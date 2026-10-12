@@ -1,4 +1,4 @@
-# VAK_4.93
+# VAK_4.93 — Results by Mode of Abandonment
 
 ## 1. Sanskrit (Devanāgarī)
 

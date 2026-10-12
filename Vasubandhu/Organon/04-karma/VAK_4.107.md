@@ -1,4 +1,4 @@
-# VAK_4.107
+# VAK_4.107 — Karma at Three Path Thresholds
 
 ## 1. Sanskrit (Devanāgarī)
 

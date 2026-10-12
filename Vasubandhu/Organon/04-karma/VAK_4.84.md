@@ -1,4 +1,4 @@
-# VAK_4.84
+# VAK_4.84 — The Seven Wholesome Material Courses
 
 ## 1. Sanskrit (Devanāgarī)
 

@@ -1,4 +1,4 @@
-# VAK_4.115
+# VAK_4.115 — The Giver and the Manner of Giving
 
 ## 1. Sanskrit (Devanāgarī)
 

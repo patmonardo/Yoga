@@ -1,4 +1,4 @@
-# VAK_4.24
+# VAK_4.24 — Weak Manifestation and the Names of Non-Restraint
 
 ## 1. Sanskrit (Devanāgarī)
 

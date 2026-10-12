@@ -1,4 +1,4 @@
-# VAK_4.85
+# VAK_4.85 — The Three Results of a Course of Action
 
 ## 1. Sanskrit (Devanāgarī)
 

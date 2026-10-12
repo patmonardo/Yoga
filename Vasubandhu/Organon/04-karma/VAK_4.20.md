@@ -1,4 +1,4 @@
-# VAK_4.20
+# VAK_4.20 — Temporal Possession Across Three Restraints
 
 ## 1. Sanskrit (Devanāgarī)
 

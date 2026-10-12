@@ -1,4 +1,4 @@
-# VAK_4.114
+# VAK_4.114 — Four Benefits and Three Determinants of Giving
 
 ## 1. Sanskrit (Devanāgarī)
 

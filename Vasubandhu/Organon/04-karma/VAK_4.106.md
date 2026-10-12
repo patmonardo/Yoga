@@ -1,4 +1,4 @@
-# VAK_4.106
+# VAK_4.106 — Analogues of the Immediate-Result Offenses
 
 ## 1. Sanskrit (Devanāgarī)
 

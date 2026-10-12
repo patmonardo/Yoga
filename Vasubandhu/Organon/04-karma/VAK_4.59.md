@@ -1,4 +1,4 @@
-# VAK_4.59
+# VAK_4.59 — Crookedness, Fault, Stain, and Four Karmas
 
 ## 1. Sanskrit (Devanāgarī)
 

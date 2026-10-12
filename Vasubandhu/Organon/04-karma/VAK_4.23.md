@@ -1,4 +1,4 @@
-# VAK_4.23
+# VAK_4.23 — Possession of Manifest Action
 
 ## 1. Sanskrit (Devanāgarī)
 

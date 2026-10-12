@@ -1,4 +1,4 @@
-# VAK_4.74
+# VAK_4.74 — Governed Relation and Semantic Action
 
 ## 1. Sanskrit (Devanāgarī)
 

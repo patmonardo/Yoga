@@ -1,4 +1,4 @@
-# VAK_4.57
+# VAK_4.57 — The Locus of Feeling as Karmic Maturation
 
 ## 1. Sanskrit (Devanāgarī)
 

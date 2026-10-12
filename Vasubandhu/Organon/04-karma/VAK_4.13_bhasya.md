@@ -1,20 +1,20 @@
-# VAK 4.13 Bhāṣya — Three Kinds of Avijñapti and Restraint
+# VAK_4.13 Bhāṣya — Three Kinds of Avijñapti and Restraint
 
 ## 1. Kārikā Anchor
 
-```iast
-avijñaptis tridhā jñeyā saṃvarāsaṃvaretarā /
-saṃvaraḥ prātimokṣākhyo dhyānajo 'nāsravas tathā // 4.13 //
-```
+> avijñaptis tridhā jñeyā saṃvarāsaṃvaretarā /
+> saṃvaraḥ prātimokṣākhyo dhyānajo 'nāsravas tathā // 4.13 //
 
-> Avijñapti is to be understood in three ways: restraint, non-restraint, and
-> what is other than both. Restraint is called prātimokṣa, is born of
-> meditation, or is without outflows.
+> Non-disclosing continuity is classified as restraint, non-restraint, or
+> neither. Restraint checks the spread of misconduct. It is threefold:
+> *prātimokṣa* restraint, identified by the Bhāṣya with desire-realm
+> discipline; meditation-born restraint, identified with Form-realm
+> discipline; and uncontaminated restraint, identified with uncontaminated
+> discipline.
 
-The verse classifies the avijñapti discussed earlier; it does not redefine
-all karma as a vow. The Bhāṣya unit runs from [205|12] through [205|18] in
-`Vasubandhu/Sources/kosabhasya.txt`. The following line begins 4.14's
-subdivision of prātimokṣa restraint.
+This is the Bhāṣya-informed study translation in `VAK_4.13.md`. The source
+unit runs from [205|12] through [205|18]; the following verse opens the
+eightfold division of *prātimokṣa* restraint.
 
 ## 2. Continuous Sanskrit
 
@@ -32,95 +32,70 @@ saṃvaraḥ prātimokṣākhyo dhyānajo 'nāsravas tathā.
 
 trividhaḥ saṃvaraḥ. prātimokṣasaṃvara ihatyānāṃ kāmāvacaraṃ śīlam.
 dhyānasaṃvaro rūpāvacaraṃ śīlam. anāsravasaṃvaro 'nāsravaṃ śīlam.
-tatra punaḥ
 ```
 
-Word division and punctuation are editorial. The running witness prints
-`tābhyāṃ cetaro`; its division as `tābhyāṃ ca itaraḥ` is provisional, but
-the following `naiva saṃvaro nāsaṃvaraḥ` secures the sense “neither.” The
-closing `tatra punaḥ` leads into 4.14 and is retained to show the boundary.
-No words of 4.14 are included.
+Word division and punctuation are editorial. The running witness reads
+`tābhyāṃ cetaro`; its division as `tābhyāṃ ca itaraḥ` is provisional, while
+`naiva saṃvaro nāsaṃvaraḥ` makes the intended “neither” clear. The first
+`tatra punaḥ` ([205|15]) introduces the second line of 4.13; the later
+occurrence ([205|18]) leads into 4.14 and is omitted here to keep the natural
+unit boundary.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
-The avijñapti mentioned previously is to be understood in three ways:
-restraint, non-restraint, and what is other than those two. There is restraint
-and there is non-restraint; the other is neither restraint nor non-restraint.
-Restraint is the containing or checking of the spread of misconduct.
+The non-disclosing continuity mentioned earlier is to be understood as
+threefold: restraint, non-restraint, and that which is other than those two.
+There is restraint and there is non-restraint; the third class is neither.
+Restraint is the checking of the spread of misconduct.
 
-Among these, restraint is called prātimokṣa, is born of meditation, or is
-without outflows. Restraint is threefold. For those here, prātimokṣa
-restraint is ethical discipline belonging to the desire realm; meditation
-restraint is ethical discipline belonging to the form realm; uncontaminated
-restraint is uncontaminated ethical discipline. The text then turns to a
-further division.
+Restraint, in turn, is threefold: *prātimokṣa* restraint, meditation-born
+restraint, and uncontaminated restraint. The Bhāṣya identifies them,
+respectively, as desire-realm discipline, Form-realm discipline, and
+uncontaminated discipline.
 
-## 4. What the Two Triads Classify
+## 4. Argument and Scope
 
-The first triad partitions **avijñapti**:
+The Bhāṣya makes clear that this verse contains two related classifications:
 
 ```text
 avijñapti
-    restraint | non-restraint | neither
+    → restraint
+    → non-restraint
+    → neither
+
+restraint
+    → prātimokṣa
+    → meditation-born
+    → uncontaminated
 ```
 
-The third member prevents `asaṃvara` from becoming a mere logical negation
-of `saṃvara`: lacking restraint does not, by that fact alone, establish the
-specific contrary class. “Neither” does not mean ethically indifferent in
-every respect; the verse gives its place in this classification only.
+The third class in the first division is not simply another name for
+non-restraint. The prose explicitly says it is neither of the first two.
+The second division applies only to restraint and identifies its three
+forms with three kinds of `śīla`.
 
-The second triad partitions **restraint**, one member of the first triad:
+The functional definition is concise: restraint checks the spread of
+misconduct. The commentary then assigns the three restraints to the
+corresponding ethical disciplines. The eightfold subdivision of
+*prātimokṣa* begins in the next verse and lies outside this unit.
 
-| Restraint | Bhāṣya identification |
-|---|---|
-| prātimokṣa | desire-realm `śīla` |
-| meditation born | form-realm `śīla` |
-| without outflows | uncontaminated `śīla` |
+## 5. Interpretation
 
-`Śīla` and these three domain identifications occur in the Bhāṣya's prose;
-they are not separate words in the Kārikā. The details of prātimokṣa
-restraint begin in 4.14.
+The Bhāṣya presents restraint not as mere non-performance but as an
+operative check on the spread of misconduct. In the Organon reading, this
+supports approaching *prātimokṣa* as a systems vow: a practical commitment
+that stabilizes and governs Cetanā. That formulation belongs to the
+systematic interpretation, while the text's explicit claim here is the
+threefold classification and the checking function of restraint.
 
-## 5. Restraint as a Function
+This verse begins the Karma plane's movement from the analysis of action
+to disciplined action. It does not, by itself, state the full
+Yogavidyā claim that Avidyā:Asmitā dies only through such practical
+realization.
 
-Vasubandhu explains `saṃvara` through `saṃvaraṇa` and `saṃrodha`: the
-containing or blocking of `dauḥśīlyaprasara`, the spread of misconduct.
-That definition gives restraint an operation, not merely a label for a
-person who happens not to commit an offense at a given moment. The local
-prose does not yet specify every acquisition, duration, or loss condition
-for each restraint; the following verses address those questions.
+## 6. Review Status
 
-## 6. Karma, Vows, and Fruit
-
-Philologically, `kriyā` and `karman` are related formations from √`kṛ`,
-“to do or make”; `karman` is not derived from the noun `kriyā`. Both can
-be translated “action,” but here the philosophical emphasis differs:
-`kriyā` can name doing as activity, while the Kośa determines `karman`
-as action with specific volitional, expressive, and ethical conditions.
-This emphasis is our interpretive distinction, not an exclusive lexical
-definition of either word.
-
-The move toward vows is significant without making vows the meaning of
-karma. Earlier verses analyzed volition, bodily and verbal expression, and
-their ethical determination. Here the topic narrows to kinds of
-**avijñapti** and then to kinds of **saṃvara**. Prātimokṣa is one of those
-restraints, alongside meditation-born and uncontaminated restraint.
-
-Nor is karma simply the fruit of a vow. In this local argument the restraint
-itself is a continuing practical determination; a later result of action is
-a different causal question. A vow may establish a disciplined course of
-action, but this verse does not collapse action, restraint, and its eventual
-result into one term.
-
-## 7. Organon Reading and Review Status
-
-For our practical philosophy, the useful structure is a general theory of
-action that can represent a durable constraint on action. A vow is one
-important way an agent undertakes such a constraint; meditative and
-uncontaminated restraint show why the constraint cannot be modeled solely
-as an institutional pledge. This is an Organon reconstruction of the
-classification, not Vasubandhu's programming vocabulary.
-
-The source unit is complete through [205|18]. The interpretation of
-`tābhyāṃ cetaro` and the precise force of `ihatyānām` remain provisional.
-The research witness and running source are unchanged.
+The source unit through [205|18] is translated; the eightfold
+*prātimokṣa* division beginning at [205|19] is reserved for the next verse.
+The segmentation of `tābhyāṃ cetaro` and the precise force of
+`ihatyānām` remain provisional.

@@ -1,4 +1,4 @@
-# VAK_4.18
+# VAK_4.18 — Abandonment, Mind, and Faculty Restraint
 
 ## 1. Sanskrit (Devanāgarī)
 

@@ -1,4 +1,4 @@
-# VAK_4.50
+# VAK_4.50 — Whether and When Karma Ripens
 
 ## 1. Sanskrit (Devanāgarī)
 

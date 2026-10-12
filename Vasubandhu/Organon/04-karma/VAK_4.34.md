@@ -1,4 +1,4 @@
-# VAK_4.34
+# VAK_4.34 — Truthful Disclosure and Guarding the Other Precepts
 
 ## 1. Sanskrit (Devanāgarī)
 

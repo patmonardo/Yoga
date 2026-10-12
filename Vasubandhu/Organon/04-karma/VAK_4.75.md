@@ -1,4 +1,4 @@
-# VAK_4.75
+# VAK_4.75 — Seen, Heard, Thought, and Known
 
 ## 1. Sanskrit (Devanāgarī)
 

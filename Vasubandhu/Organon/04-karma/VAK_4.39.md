@@ -1,4 +1,4 @@
-# VAK_4.39
+# VAK_4.39 — Can a Root Offense Leave Restraint Intact?
 
 ## 1. Sanskrit (Devanāgarī)
 

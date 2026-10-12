@@ -1,4 +1,4 @@
-# VAK_4.31
+# VAK_4.31 — Partial Practice and the Strength of Restraint
 
 ## 1. Sanskrit (Devanāgarī)
 

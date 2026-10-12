@@ -48,57 +48,7 @@ an-āsravam yatra jātaḥ avijñaptiḥ an-upāttikā
 
 ## 4. Grammar
 
-The first hemistich states the same-level rule:
-
-```text
-kāya-vāk-karma sāsravam
-    svāni mahābhūtāni upādāya [utpadyate]
-
-contaminated bodily and verbal karma
-    arises depending upon its own Great Elements
-```
-
-The Bhāṣya expands the range:
-
-```text
-desire-domain karma
-    →     desire-realm Great Elements
-
-first-dhyāna karma
-    →     first-dhyāna Great Elements
-
-...
-
-fourth-dhyāna karma
-    →     fourth-dhyāna Great Elements
-```
-
-The second hemistich is compressed. The commentary supplies the full relation:
-
-```text
-anāsravaṃ tu kāya-vāk-karma
-    yasyāṃ bhūmau jātaḥ [pudgalaḥ]
-    tat utpādayati
-    tad-bhūtāni upādāya [utpadyate]
-
-uncontaminated bodily and verbal karma
-    depends upon the Great Elements of the level
-    in which the person producing it is born
-```
-
-Thus masculine `jātaḥ` agrees with the understood practitioner, not with
-neuter `anāsravaṃ karma`. The earlier apparent gender difficulty is therefore
-resolved without emending the witness.
-
-The final predication is direct:
-
-```text
-avijñaptiḥ
-    anupāttikā
-
-non-disclosing continuity
-    is non-appropriated
-```
+The first pāda predicates `sāsravam` of `kāya-vāk-karma`; `svāni bhūtāni upādāya` is its dependent absolutive phrase. The second pāda gives `anāsravam` as a further nominal subject, followed by the relative phrase `yatra jātaḥ`. It closes with the nominal predication `avijñaptiḥ anupāttikā`.
 
 ## 5. Translation
 
@@ -169,90 +119,8 @@ Form-classified
 
 ## 8. Logical Determination
 
-**Same-level support for contaminated action**
 
-```text
-For each ordinary level X:
-
-    sāsrava bodily/verbal karma of X
-        → depends upon Great Elements of X
-```
-
-The relation is systematically level-indexed, not merely organism-indexed.
-
-**Uncontaminated action crosses two axes**
-
-```text
-Axis 1 — soteriological status:
-    anāsrava
-    not classified as contaminated in the desire, Form, or formless levels
-
-Axis 2 — level of support:
-    bodily/verbal karma depends upon level-specific Great Elements
-```
-
-Therefore:
-
-```text
-anāsrava action
-    + practitioner born in bhūmi X
-        → bodily/verbal karma supported by Great Elements of X
-```
-
-No contradiction follows because the relation is mediation, not predicative
-identity:
-
-```text
-uncontaminated karma
-    operates through
-conditioned Great Elements of its level
-
-it does not follow that
-the supporting Great Elements are themselves uncontaminated
-```
-
-**Uncontaminated action does not imply uncontaminated Great Elements**
-
-The rejected inference would be:
-
-```text
-anāsrava action
-    → must depend upon anāsrava Great Elements
-```
-
-The Bhāṣya instead gives:
-
-```text
-no anāsrava Great Elements exist
-
-yet anāsrava bodily/verbal karma arises
-
-therefore it depends upon
-    the Great Elements of the practitioner's bhūmi
-```
-
-This blocks the need to posit a separate set of uncontaminated Great Elements.
-
-**Great-Element support and appropriation**
-
-```text
-avijñapti
-    is classified as Form in the Vaibhāṣika account
-    depends upon Great Elements
-    is non-disclosing
-    is anupāttika
-```
-
-Hence:
-
-```text
-Form-classified(x)
-    ↛ appropriated bodily support(x)
-```
-
-The verse does not yet fully explain how a non-appropriated material
-determination belongs to a particular continuum. It fixes the classification
-that subsequent verses must develop.
+Contaminated bodily and verbal action → its own Elements; the second pāda qualifies uncontaminated action by its level of arising and names non-disclosing continuity as non-appropriated.
 
 ## 9. Interpretive Note
 

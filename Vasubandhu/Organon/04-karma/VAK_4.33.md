@@ -1,4 +1,4 @@
-# VAK_4.33
+# VAK_4.33 — The Determinate Scope of a Lay Vow
 
 ## 1. Sanskrit (Devanāgarī)
 

@@ -1,4 +1,4 @@
-# VAK_4.64
+# VAK_4.64 — Three Silences and Threefold Purity
 
 ## 1. Sanskrit (Devanāgarī)
 

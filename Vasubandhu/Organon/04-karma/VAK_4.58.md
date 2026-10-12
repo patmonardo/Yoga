@@ -1,4 +1,4 @@
-# VAK_4.58
+# VAK_4.58 — Disturbance of Mind and Its Conditions
 
 ## 1. Sanskrit (Devanāgarī)
 

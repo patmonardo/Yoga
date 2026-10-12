@@ -1,4 +1,4 @@
-# VAK_4.46
+# VAK_4.46 — Immovable Karma and the Level of Maturation
 
 ## 1. Sanskrit (Devanāgarī)
 

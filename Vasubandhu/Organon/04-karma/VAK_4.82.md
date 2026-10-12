@@ -1,4 +1,4 @@
-# VAK_4.82
+# VAK_4.82 — Endowment and Manifestation by Destiny
 
 ## 1. Sanskrit (Devanāgarī)
 

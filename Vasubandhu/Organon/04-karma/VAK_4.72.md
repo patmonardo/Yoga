@@ -1,4 +1,4 @@
-# VAK_4.72
+# VAK_4.72 — Continuity and Collective Agency
 
 ## 1. Sanskrit (Devanāgarī)
 

@@ -56,64 +56,7 @@ karma`) with bodily and verbal action. A literal reading therefore supplies
 
 ## 4. Grammar
 
-The first pāda is a nominal predication:
-
-```text
-loka-vaicitryam
-    karma-jam
-
-the differentiation of the world
-    is born from karma
-```
-
-The second pāda defines the referent of `tat`, karma:
-
-```text
-tat [karma]
-    cetanā
-    ca tat-kṛtam
-
-that [karma is]
-    volition
-    and what is produced by it
-```
-
-The second hemistich correlates this causal division with the three domains of
-action:
-
-```text
-cetanā
-    mānasaṃ karma
-
-volition
-    [is] mental action
-
-tat-jaṃ [karma]
-    vāk-kāya-karmaṇī
-
-action born from that
-    [is] verbal and bodily action
-```
-
-The Bhāṣya cites the corresponding sūtra division:
-
-```text
-cetanā karma
-    volition as karma
-
-cetayitvā karma
-    karma after having willed
-```
-
-It then asks whether bodily, verbal, and mental action are classified by
-support (`āśraya`), intrinsic nature (`svabhāva`), or origination
-(`samutthāna`). The Vaibhāṣika answer distributes the three grounds among the
-three actions respectively. This classificatory argument belongs to the
-commentary, not to the explicit syntax of the verse.
-
-The verse makes Cetanā's status exact: it is itself mental karma, while
-`tatkṛta` names the distinct action produced from it. Cetanā is not merely a
-prelude to karma, nor a synonym for every kind of mental activity.
+The first clause predicates `karma-jam` of `loka-vaicitryam`. The second identifies `tat karma` with the coordinated terms `cetanā` and `tat-kṛtam`. The final line predicates `mānasaṃ karma` of Cetanā and names the action produced from it as bodily and verbal.
 
 ## 5. Translation
 
@@ -183,84 +126,8 @@ problem opens with `vijñapti` and `avijñapti` in the following unit.
 
 ## 8. Logical Determination
 
-**Explanatory and genetic orders**
 
-The exposition begins from actuality and asks for its ground:
-
-```text
-loka-vaicitrya
-    ← karma
-        ← cetanā
-```
-
-The process itself runs forward:
-
-```text
-cetanā
-    → verbal and bodily action
-        → karmic efficacy
-            → differentiated World
-```
-
-The middle relation—how momentary activity acquires or retains the efficacy
-to produce later results—is not yet supplied by VAK 4.01. It is the problem
-bequeathed to the chapter.
-
-**Two intersecting divisions**
-
-```text
-causal division:
-    karma = cetanā + cetanā-produced action
-
-domain division:
-    karma = mental + verbal + bodily action
-
-intersection:
-    mental karma = cetanā
-    verbal and bodily action = cetanā-produced action
-```
-
-The two divisions intersect without becoming identical lists. Cetanā is
-explicitly mental karma; bodily and verbal actions are the other mode, born
-from it. The verse therefore puts Cetanā at the center of the account without
-collapsing all mental activity into karma.
-
-**Bhāṣya test of classification**
-
-No single undifferentiated criterion preserves the threefold distinction:
-
-```text
-support alone
-    → all three depend upon body
-    → everything would be bodily action
-
-intrinsic nature alone
-    → speech itself has karmic nature
-    → everything would collapse into verbal action
-
-origination alone
-    → all three arise from mind
-    → everything would be mental action
-```
-
-The attributed Vaibhāṣika solution uses distinct classificatory grounds in
-sequence. The Bhāṣya thereby turns a received list into a question about what
-makes each distinction valid.
-
-**Immanent rather than external production**
-
-```text
-not:
-    external designing intelligence
-        → deliberately fabricated World
-
-but:
-    karmic activity of conditioned beings
-        → differentiated conditioned World
-```
-
-The second formulation is textual doctrine at the Bhāṣya level. Its further
-description as immanent existential production is the Organon interpretation.
+`karma-ja` → differentiated world; `karma` → Cetanā and what it produces; Cetanā → mental action; its product → bodily and verbal action.
 
 ## 9. Interpretive Note
 

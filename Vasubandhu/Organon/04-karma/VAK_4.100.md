@@ -1,4 +1,4 @@
-# VAK_4.100
+# VAK_4.100 — Who Divides the Saṅgha and When
 
 ## 1. Sanskrit (Devanāgarī)
 

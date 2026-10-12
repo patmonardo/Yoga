@@ -1,4 +1,4 @@
-# VAK_4.88
+# VAK_4.88 — The Result Profile of Wholesome Action
 
 ## 1. Sanskrit (Devanāgarī)
 

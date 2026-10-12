@@ -1,4 +1,4 @@
-# VAK_4.73
+# VAK_4.73 — Killing and Appropriation
 
 ## 1. Sanskrit (Devanāgarī)
 

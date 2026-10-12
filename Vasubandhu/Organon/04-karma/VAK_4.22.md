@@ -1,4 +1,4 @@
-# VAK_4.22
+# VAK_4.22 — Contrary Action Within an Established Standing
 
 ## 1. Sanskrit (Devanāgarī)
 

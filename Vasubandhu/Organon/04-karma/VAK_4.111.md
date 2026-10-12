@@ -1,4 +1,4 @@
-# VAK_4.111
+# VAK_4.111 — Giving, Patience, and Discipline
 
 ## 1. Sanskrit (Devanāgarī)
 

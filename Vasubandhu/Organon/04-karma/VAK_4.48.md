@@ -1,4 +1,4 @@
-# VAK_4.48
+# VAK_4.48 — Neutral Maturation Below the Fourth Absorption
 
 ## 1. Sanskrit (Devanāgarī)
 

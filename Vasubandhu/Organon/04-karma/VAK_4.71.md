@@ -1,4 +1,4 @@
-# VAK_4.71
+# VAK_4.71 — Completion Root and Objective Basis
 
 ## 1. Sanskrit (Devanāgarī)
 

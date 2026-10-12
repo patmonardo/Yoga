@@ -1,4 +1,4 @@
-# VAK_4.36
+# VAK_4.36 — Universality, Partial Vows, and Non-restraint
 
 ## 1. Sanskrit (Devanāgarī)
 

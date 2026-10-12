@@ -1,4 +1,4 @@
-# VAK_4.30
+# VAK_4.30 — Refuge, Lay Status, and Acquired Restraint
 
 ## 1. Sanskrit (Devanāgarī)
 

@@ -1,4 +1,4 @@
-# VAK_4.62
+# VAK_4.62 — The Ninth Path and the Abandonment of White Karma
 
 ## 1. Sanskrit (Devanāgarī)
 

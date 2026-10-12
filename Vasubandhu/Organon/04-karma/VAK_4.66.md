@@ -1,4 +1,4 @@
-# VAK_4.66
+# VAK_4.66 — Ten Courses Selected from Conduct
 
 ## 1. Sanskrit (Devanāgarī)
 

@@ -1,4 +1,4 @@
-# VAK_4.69
+# VAK_4.69 — Roots of the Complete Practical Process
 
 ## 1. Sanskrit (Devanāgarī)
 

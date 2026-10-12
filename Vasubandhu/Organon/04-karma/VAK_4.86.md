@@ -1,4 +1,4 @@
-# VAK_4.86
+# VAK_4.86 — Wrong Livelihood and the Difficulty of Purifying Greed
 
 ## 1. Sanskrit (Devanāgarī)
 

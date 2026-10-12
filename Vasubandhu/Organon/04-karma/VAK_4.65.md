@@ -1,4 +1,4 @@
-# VAK_4.65
+# VAK_4.65 — Mental Bad Conduct Beyond Karma
 
 ## 1. Sanskrit (Devanāgarī)
 

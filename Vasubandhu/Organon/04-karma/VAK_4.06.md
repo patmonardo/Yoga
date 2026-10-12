@@ -53,76 +53,7 @@ samādhi-jā aupacayikā an-upātta-abhinna-bhūta-jā
 
 ## 4. Grammar
 
-The first hemistich supplies four coordinated determinations of ordinary
-`avijñapti`:
-
-```text
-[avijñaptiḥ]
-    naiḥṣyandikī ca
-    sattvākhyā [ca]
-    niṣyanda-upātta-bhūta-jā [ca]
-
-[non-disclosing continuity]
-    is homogeneous-outflow-derived,
-    is designated in relation to a sentient being,
-    and is born from homogeneous-outflow-derived,
-        appropriated Great Elements
-```
-
-The compound `niṣyandopāttabhūtajā` is read as:
-
-```text
-niṣyanda + upātta + bhūta + jā
-
-born from Great Elements that are
-    homogeneous-outflow-derived
-    and appropriated
-```
-
-The Bhāṣya adds a second condition not stated independently in the compound:
-
-```text
-ordinary avijñapti
-    arises depending upon naiḥṣyandika mahābhūtas
-    and depending upon citta-caittas
-
-this is the mode belonging to a non-concentrated level
-    (asamāhita-bhūmikā)
-```
-
-The second hemistich changes the subject specification from ordinary
-`avijñapti` to that born from samādhi:
-
-```text
-samādhi-jā [avijñaptiḥ]
-    aupacayikā
-    anupāttā
-    abhinna-bhūta-jā
-
-samādhi-born non-disclosing continuity
-    is cultivation-produced,
-    is non-appropriated,
-    and is born from an undivided great-element basis
-```
-
-The Bhāṣya identifies `samādhijā avijñapti` as the non-disclosing restraint of
-dhyāna and of the uncontaminated path. It explains `abhinnabhūtajā` by taking
-the seven abstentions—from killing through incoherent or frivolous speech—as
-dependent upon the very same Great Elements:
-
-```text
-one samādhi-produced Great-Element basis
-    → abstention from killing
-    → abstention from taking what is not given
-    → abstention from sexual misconduct
-    → abstention from false speech
-    → abstention from divisive speech
-    → abstention from harsh speech
-    → abstention from incoherent or frivolous speech
-```
-
-This shared basis is contrasted with `prātimokṣa` restraint, for which the
-seven `avijñaptis` depend upon distinct sets of Great Elements.
+Both hemistichs share the understood subject `avijñaptiḥ`. The first coordinates `naiḥṣyandikī`, `sattvākhyā`, and `niṣyandopāttabhūtajā` as predicates. The second coordinates `samādhijā`, `aupacayikā`, `anupāttā`, and `abhinnabhūtajā`.
 
 ## 5. Translation
 
@@ -195,89 +126,8 @@ non-disclosing
 
 ## 8. Logical Determination
 
-**Two axes of classification**
 
-The verse crosses two logically distinct questions:
-
-```text
-Axis 1 — How is the avijñapti generated?
-
-    ordinary field
-        → niṣyanda: homogeneous causal continuation
-
-    concentrated field
-        → upacaya: cultivation or development
-
-Axis 2 — How is its material support organized?
-
-    ordinary living continuum
-        → appropriated Great-Element basis
-
-    samādhi-born sevenfold restraint
-        → non-appropriated, common Great-Element basis
-```
-
-The second axis is sharpened by the Bhāṣya's comparison:
-
-```text
-samādhi restraint:
-    seven avijñaptis
-    ← one and the same set of mahābhūtas
-
-prātimokṣa restraint:
-    seven avijñaptis
-    ← seven differentiated material bases
-```
-
-Thus numerical plurality at the level of normative content does not determine
-numerical plurality at the level of material support.
-
-**Causal determination without a hidden subject**
-
-The ordinary sequence can be stated as:
-
-```text
-citta-caitta determination
-    + homogeneous-outflow-derived appropriated Great Elements
-        → ordinary avijñapti in a sentient continuum
-```
-
-The samādhi sequence is different:
-
-```text
-samādhi
-    → cultivation-produced mahābhūtas
-        → one common support
-            → seven determinate abstentions
-```
-
-Nothing in this inference requires an imperceptible agent outside the series.
-`Avijñapti` names the conditioned practical determination whose persistence is
-being analyzed; its explanatory conditions remain within the psycho-physical
-and contemplative series.
-
-**Unity and differentiation**
-
-The Bhāṣya explains the common basis by analogy with mind:
-
-```text
-cittavat bhūtābhedāt
-    “as with consciousness, because the Great Elements are not divided”
-```
-
-The force of the analogy is structural:
-
-```text
-one concentrated causal ground
-    does not produce an indeterminate restraint
-
-it produces
-    seven distinguishable practical negations
-    without seven separately generated supports
-```
-
-The unity belongs to genesis and support; the difference belongs to the
-determinate objects of abstention.
+Ordinary non-disclosing continuity → the first set of predicates; meditation-born continuity → the second set, including cultivation-produced, non-appropriated, and common-Element origin.
 
 ## 9. Interpretive Note
 

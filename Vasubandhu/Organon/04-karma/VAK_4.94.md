@@ -1,4 +1,4 @@
-# VAK_4.94
+# VAK_4.94 — Non-abandonable Results and Procedural Constitution
 
 ## 1. Sanskrit (Devanāgarī)
 

@@ -1,4 +1,4 @@
-# VAK_4.120
+# VAK_4.120 — When a Performed Action Is Accumulated
 
 ## 1. Sanskrit (Devanāgarī)
 

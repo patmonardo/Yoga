@@ -1,4 +1,4 @@
-# VAK_4.117
+# VAK_4.117 — The Recipient Field and Foremost Gifts
 
 ## 1. Sanskrit (Devanāgarī)
 

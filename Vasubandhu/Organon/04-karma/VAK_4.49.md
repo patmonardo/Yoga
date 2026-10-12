@@ -1,4 +1,4 @@
-# VAK_4.49
+# VAK_4.49 — Five Grounds of Being Experienced
 
 ## 1. Sanskrit (Devanāgarī)
 

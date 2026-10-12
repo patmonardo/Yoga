@@ -1,4 +1,4 @@
-# VAK_4.41
+# VAK_4.41 — Ending Non-restraint and Intermediate Avijñapti
 
 ## 1. Sanskrit (Devanāgarī)
 

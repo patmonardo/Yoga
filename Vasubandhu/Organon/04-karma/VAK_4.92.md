@@ -1,4 +1,4 @@
-# VAK_4.92
+# VAK_4.92 — Completion of the Training-status Matrix
 
 ## 1. Sanskrit (Devanāgarī)
 

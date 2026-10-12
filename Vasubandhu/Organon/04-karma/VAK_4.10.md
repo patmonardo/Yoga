@@ -40,50 +40,9 @@ The Bhāṣya resolves the compound as `hetusamutthāna` and
 `tatkṣaṇasamutthāna`. It explains the first as projecting or initiating
 action, and the second as present during the action's performance.
 
-## 4. Grammar and Argument
+## 4. Grammar
 
-The first line states a twofold classification:
-
-```text
-samutthānam
-    dvidhā [asti]
-
-origination
-    is twofold
-```
-
-The second line assigns a function to each:
-
-```text
-hetu-samutthāna
-    → pravartaka
-
-tat-kṣaṇa-samutthāna
-    → anuvartaka
-```
-
-The Bhāṣya glosses the first relation as `ākṣepakatva`, its capacity to
-project or initiate. It glosses the second as `kriyākālānuvartana`, its
-accompaniment of action during the time of performance.
-
-This distinction answers an objection about the scriptural sequence from
-wrong view to wrong resolve, speech, and bodily action. A condition may
-initiate an action without being the consciousness present when the
-manifestation occurs. The two functions therefore do not conflict with the
-preceding claim about which consciousness immediately produces manifestation.
-
-The Bhāṣya then asks what the contemporaneous condition contributes:
-
-```text
-without it
-    an already projected action
-    would be like that of a corpse
-```
-
-It next asks how restraint arises in a person without consciousness. The
-reply says that the relevant capacity is clearer when consciousness is
-present; it does not state that restraint is impossible without
-consciousness.
+The first pāda predicates `dvidhā` of `samutthānam` and names its two forms in the compound `hetu-tat-kṣaṇotthāna-saṃjñitam`. In the second, `tayoḥ` introduces the pair; `ādyam` and `dvitīyam` correspond respectively to `pravartakam` and `anuvartakam`.
 
 ## 5. Translation
 

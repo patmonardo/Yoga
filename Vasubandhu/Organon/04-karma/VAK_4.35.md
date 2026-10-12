@@ -1,4 +1,4 @@
-# VAK_4.35
+# VAK_4.35 — The Bases and Times of Three Restraints
 
 ## 1. Sanskrit (Devanāgarī)
 

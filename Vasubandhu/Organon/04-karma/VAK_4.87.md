@@ -1,4 +1,4 @@
-# VAK_4.87
+# VAK_4.87 — Action Classified by the Five Results
 
 ## 1. Sanskrit (Devanāgarī)
 

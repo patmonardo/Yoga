@@ -1,4 +1,4 @@
-# VAK_4.47
+# VAK_4.47 — Karma Classified by the Feeling of Its Result
 
 ## 1. Sanskrit (Devanāgarī)
 

@@ -1,4 +1,4 @@
-# VAK_4.44
+# VAK_4.44 — Restraint Possessed Without Present Manifestation
 
 ## 1. Sanskrit (Devanāgarī)
 

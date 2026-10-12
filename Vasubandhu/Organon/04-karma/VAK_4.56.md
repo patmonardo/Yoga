@@ -1,4 +1,4 @@
-# VAK_4.56
+# VAK_4.56 — Five Exceptional Fields
 
 ## 1. Sanskrit (Devanāgarī)
 

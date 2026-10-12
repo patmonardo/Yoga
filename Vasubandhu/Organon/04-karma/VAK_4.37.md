@@ -1,4 +1,4 @@
-# VAK_4.37
+# VAK_4.37 — How Standing Karmic Forms Are Acquired
 
 ## 1. Sanskrit (Devanāgarī)
 

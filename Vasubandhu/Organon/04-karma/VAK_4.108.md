@@ -1,4 +1,4 @@
-# VAK_4.108
+# VAK_4.108 — The Bodhisattva's Determinate Career
 
 ## 1. Sanskrit (Devanāgarī)
 

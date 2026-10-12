@@ -1,4 +1,4 @@
-# VAK_4.67
+# VAK_4.67 — Manifest and Non-Manifest Courses
 
 ## 1. Sanskrit (Devanāgarī)
 

@@ -1,4 +1,4 @@
-# VAK_4.98
+# VAK_4.98 — The Divider and the Divided Saṅgha
 
 ## 1. Sanskrit (Devanāgarī)
 

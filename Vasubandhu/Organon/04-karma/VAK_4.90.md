@@ -1,4 +1,4 @@
-# VAK_4.90
+# VAK_4.90 — The Temporal Result Matrix
 
 ## 1. Sanskrit (Devanāgarī)
 

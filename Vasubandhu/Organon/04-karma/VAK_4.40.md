@@ -1,4 +1,4 @@
-# VAK_4.40
+# VAK_4.40 — Relinquishment by Regression and by Advance
 
 ## 1. Sanskrit (Devanāgarī)
 

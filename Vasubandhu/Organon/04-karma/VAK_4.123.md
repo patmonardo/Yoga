@@ -1,4 +1,4 @@
-# VAK_4.123
+# VAK_4.123 — Cultivation as Perfuming the Mind
 
 ## 1. Sanskrit (Devanāgarī)
 

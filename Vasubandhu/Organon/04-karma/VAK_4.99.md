@@ -1,4 +1,4 @@
-# VAK_4.99
+# VAK_4.99 — The Divider's Speech and Its Result
 
 ## 1. Sanskrit (Devanāgarī)
 

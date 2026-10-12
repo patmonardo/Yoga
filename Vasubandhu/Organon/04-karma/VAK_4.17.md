@@ -1,4 +1,4 @@
-# VAK_4.17
+# VAK_4.17 — Bearers and Mind-Following Restraint
 
 ## 1. Sanskrit (Devanāgarī)
 

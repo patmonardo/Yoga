@@ -1,4 +1,4 @@
-# VAK_4.110
+# VAK_4.110 — Merits, Three Periods, and the First Vow
 
 ## 1. Sanskrit (Devanāgarī)
 

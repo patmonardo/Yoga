@@ -1,4 +1,4 @@
-# VAK_4.70
+# VAK_4.70 — The Roots Operative at Completion
 
 ## 1. Sanskrit (Devanāgarī)
 

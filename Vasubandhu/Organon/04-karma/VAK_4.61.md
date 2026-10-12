@@ -1,4 +1,4 @@
-# VAK_4.61
+# VAK_4.61 — Twelve Volitions That End Black Karma
 
 ## 1. Sanskrit (Devanāgarī)
 

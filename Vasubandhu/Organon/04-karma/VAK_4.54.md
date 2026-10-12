@@ -1,4 +1,4 @@
-# VAK_4.54
+# VAK_4.54 — Conditions That Make Karma Determinate
 
 ## 1. Sanskrit (Devanāgarī)
 

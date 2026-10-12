@@ -1,4 +1,4 @@
-# VAK_4.55
+# VAK_4.55 — Present-Life Fruition and Complete Detachment
 
 ## 1. Sanskrit (Devanāgarī)
 

@@ -41,71 +41,9 @@ parama-avyākṛte dhruve
 The Bhāṣya identifies the two permanent Dharmas as space and
 non-analytical cessation.
 
-## 4. Grammar and Argument
+## 4. Grammar
 
-The first pāda supplies the ground on which associated Dharmas are wholesome:
-
-```text
-tad-yuktāḥ [dharmāḥ]
-    saṃprayogeṇa [kuśalāḥ]
-
-Dharmas associated with those [factors]
-    are wholesome through association
-```
-
-The next phrase turns to products:
-
-```text
-kriyā-ādayaḥ
-    samutthānāt [kuśalāḥ]
-
-actions and the rest
-    are wholesome through their originating condition
-```
-
-The Bhāṣya includes bodily and verbal action and certain formations
-dissociated from consciousness. It also raises a problem: some `prāptis`
-appear to be produced by a consciousness of a different ethical class.
-The commentary gives compressed examples but explicitly leaves the
-difficulty to be explained; the originating-condition rule should not be
-treated as exceptionless here.
-
-`Viparyayeṇa` then directs the reader to apply the contrary ethical
-classifications:
-
-```text
-saṃsāra
-    → unwholesome ultimately, because it consists in suffering
-
-unwholesome roots, shamelessness, lack of moral concern
-    → unwholesome intrinsically
-
-Dharmas associated with them
-    → unwholesome through association
-
-actions and related products
-    → unwholesome through their originating condition
-```
-
-An objection follows: if saṃsāra is unwholesome ultimately, and contaminated
-Dharmas belong to saṃsāra, would no contaminated Dharma be wholesome or
-indeterminate? The Bhāṣya distinguishes the grounds. Saṃsāra is called
-unwholesome ultimately; contaminated Dharmas are also classified relative to
-their karmic maturation. A contaminated Dharma not classified with respect to
-maturation is indeterminate, while one associated with a desirable maturation
-is called wholesome.
-
-The closing phrase concerns ultimate indeterminacy:
-
-```text
-paramāvyākṛte dhruve
-    → ākāśa
-    → apratisaṃkhyānirodha
-```
-
-These two unconditioned Dharmas are unobscured-indeterminate without
-qualification. This is distinct from the use of `avyākṛta` for contaminated
-Dharmas classified relative to maturation.
+The first pāda uses `saṃprayogeṇa` and `samutthānāt` as the grounds for two nominal predications. In the second, `viparyayeṇa` marks the converse; `paramāvyākṛte dhruve` completes the final nominal clause.
 
 ## 5. Translation
 

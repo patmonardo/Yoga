@@ -1,4 +1,4 @@
-# VAK_4.19
+# VAK_4.19 — Present and Past Prātimokṣa Restraint
 
 ## 1. Sanskrit (Devanāgarī)
 

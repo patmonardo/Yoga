@@ -1,4 +1,4 @@
-# VAK_4.96
+# VAK_4.96 — Three Obstructions to the Noble Path
 
 ## 1. Sanskrit (Devanāgarī)
 

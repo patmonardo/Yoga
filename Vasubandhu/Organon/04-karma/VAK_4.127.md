@@ -1,4 +1,4 @@
-# VAK_4.127
+# VAK_4.127 — The Closing Classification of Dharmas
 
 ## 1. Sanskrit (Devanāgarī)
 

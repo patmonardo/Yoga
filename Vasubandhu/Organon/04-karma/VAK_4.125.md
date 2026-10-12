@@ -1,4 +1,4 @@
-# VAK_4.125
+# VAK_4.125 — Dharma-Giving and Three Directions of Wholesome Action
 
 ## 1. Sanskrit (Devanāgarī)
 

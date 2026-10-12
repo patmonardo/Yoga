@@ -47,46 +47,9 @@ The Bhāṣya expands `śubha-ādi` into the three ethical classes:
 `kuśala`, `akuśala`, and `avyākṛta`. It explains the compressed Buddha-clause
 as an asymmetric correspondence, not an exceptionless identity.
 
-## 4. Grammar and Argument
+## 4. Grammar
 
-The opening clause gives the general range:
-
-```text
-when the initiator is wholesome and so forth,
-the accompanying Cognition may be threefold
-```
-
-The Bhāṣya explicitly applies the threefold range to each kind of initiator:
-the accompanying Cognition may be wholesome, unwholesome, or indeterminate.
-
-The Sage-clause narrows that range for the Buddha. The Bhāṣya states that a
-wholesome initiator is accompanied by a wholesome Cognition; an indeterminate
-initiator may be accompanied by an indeterminate or a wholesome Cognition.
-A wholesome initiator is never followed by an indeterminate Cognition. The
-text then reports another school's claim that the Buddha has no
-indeterminate consciousness. The Vaibhāṣika reply understands continuous
-concentration as freedom from involuntary scattering, not as the absence of
-all indeterminate Cognitions.
-
-The final clause excludes maturation-born Cognition from both functions:
-
-```text
-vipāka-jaṃ cittam
-    na pravartakam
-    na anuvartakam
-
-maturation-born consciousness
-    is neither initiating
-    nor accompanying
-```
-
-The Bhāṣya gives its reason: it proceeds without deliberate constructive
-activity.
-
-The closing exchange asks which Cognition determines the ethical quality of
-manifestation. It rejects a simple rule based on whichever consciousness
-accompanies an action, but the final qualification about an intervening
-consciousness remains textually compressed.
+The first clause places the initiating condition in the locative `pravartake śubhādau` and predicates `tridhāpy anuvartakam` of what accompanies it. The second clause gives a parallel nominal phrase for the Sage; the final `na ubhayam ... vipākajam` is a negated nominal predication.
 
 ## 5. Translation
 

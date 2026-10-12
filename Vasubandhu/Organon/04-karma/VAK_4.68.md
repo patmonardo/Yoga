@@ -1,4 +1,4 @@
-# VAK_4.68
+# VAK_4.68 — Preparation, Completion, and Aftermath
 
 ## 1. Sanskrit (Devanāgarī)
 

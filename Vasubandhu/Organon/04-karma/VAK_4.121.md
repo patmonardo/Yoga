@@ -1,4 +1,4 @@
-# VAK_4.121
+# VAK_4.121 — Shrine Gifts, Recipient-Free Merit, and Bad Fields
 
 ## 1. Sanskrit (Devanāgarī)
 

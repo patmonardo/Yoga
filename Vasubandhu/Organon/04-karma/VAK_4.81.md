@@ -1,4 +1,4 @@
-# VAK_4.81
+# VAK_4.81 — Intention and Simultaneous Courses of Action
 
 ## 1. Sanskrit (Devanāgarī)
 

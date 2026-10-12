@@ -1,4 +1,4 @@
-# VAK_4.29
+# VAK_4.29 — The Eight Limbs as Functions and as a Whole
 
 ## 1. Sanskrit (Devanāgarī)
 

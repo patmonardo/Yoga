@@ -45,71 +45,9 @@ The verse leaves `vijñaptiḥ` understood in its first clause. The Bhāṣya
 supplies it explicitly. Its final compound is likewise compressed; the
 commentary resolves it as the three wholesome roots, `hrī`, and `apatrāpya`.
 
-## 4. Grammar and Argument
+## 4. Grammar
 
-The first clause carries `vijñaptiḥ` forward from the preceding discussion:
-
-```text
-kāme api
-nivṛtā [vijñaptiḥ]
-na asti
-
-even in the desire realm
-obscured [manifestation]
-does not occur
-```
-
-The Bhāṣya says obscured-indeterminate manifestation occurs in Brahmaloka,
-not in the desire realm. It also reports an alternative account on which
-unobscured-indeterminate manifestation can occur in higher dhyānas. The
-commentary then gives the originating-condition explanation for the account
-it adopts.
-
-The causal phrase is:
-
-```text
-samutthānam asat yataḥ
-
-because its originating condition is absent
-```
-
-The Bhāṣya identifies the relevant condition as consciousness possessing both
-`vitarka` and `vicāra`. Such consciousness is absent from the second dhyāna
-upward. The account also distinguishes consciousness abandoned through
-cultivation, which can produce outward manifestation, from consciousness
-abandoned through seeing, which proceeds inwardly and does not produce it.
-The required obscured-indeterminate consciousness is absent in the desire
-realm.
-
-The second half shifts from the production of manifestation to the grounds
-for ethical classification:
-
-```text
-paramārthaśubhaḥ mokṣaḥ
-
-liberation is wholesome ultimately
-```
-
-The Bhāṣya identifies liberation with nirvāṇa: the complete pacification of
-suffering and supreme security.
-
-The final pāda supplies factors wholesome intrinsically:
-
-```text
-svataḥ
-    trīṇi kuśalamūlāni
-    hrīḥ
-    apatrāpyaṃ ca
-
-intrinsically wholesome:
-    the three wholesome roots,
-    hrī,
-    and apatrāpya
-```
-
-The commentary glosses `svataḥ` as `svabhāvena`, “by intrinsic nature,” and
-explains that these factors do not depend on another wholesome factor through
-association or originating condition.
+The first pāda places the understood subject in the locative `kāme`; `yataḥ` introduces the causal clause `samutthānam asat`. The second pāda contains two nominal predications: `mokṣaḥ paramārthaśubhaḥ`, and the factors `mūla`, `hrī`, and `apatrapā` qualified by `svataḥ`.
 
 ## 5. Translation
 

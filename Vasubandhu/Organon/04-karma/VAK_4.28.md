@@ -1,4 +1,4 @@
-# VAK_4.28
+# VAK_4.28 — Receiving the Eight-Limbed Upavāsa
 
 ## 1. Sanskrit (Devanāgarī)
 

@@ -1,4 +1,4 @@
-# VAK_4.27
+# VAK_4.27 — The Duration and Purpose of Undertaking
 
 ## 1. Sanskrit (Devanāgarī)
 

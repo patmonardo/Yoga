@@ -1,4 +1,4 @@
-# VAK_4.52
+# VAK_4.52 — Detachment and the Karma One Can Still Produce
 
 ## 1. Sanskrit (Devanāgarī)
 

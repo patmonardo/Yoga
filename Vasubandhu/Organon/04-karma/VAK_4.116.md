@@ -1,4 +1,4 @@
-# VAK_4.116
+# VAK_4.116 — The Qualities of the Gift-Object
 
 ## 1. Sanskrit (Devanāgarī)
 

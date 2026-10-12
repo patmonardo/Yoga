@@ -1,4 +1,4 @@
-# VAK_4.32
+# VAK_4.32 — What the Three Refuges Protect
 
 ## 1. Sanskrit (Devanāgarī)
 

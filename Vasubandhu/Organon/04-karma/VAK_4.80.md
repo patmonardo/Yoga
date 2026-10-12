@@ -1,4 +1,4 @@
-# VAK_4.80
+# VAK_4.80 — Reconnection of the Wholesome Roots
 
 ## 1. Sanskrit (Devanāgarī)
 

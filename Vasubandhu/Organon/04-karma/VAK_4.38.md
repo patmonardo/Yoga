@@ -1,4 +1,4 @@
-# VAK_4.38
+# VAK_4.38 — How Prātimokṣa Restraint Is Lost
 
 ## 1. Sanskrit (Devanāgarī)
 

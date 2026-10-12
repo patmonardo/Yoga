@@ -1,4 +1,4 @@
-# VAK_4.45
+# VAK_4.45 — Karma as Security, Merit, and Felt Result
 
 ## 1. Sanskrit (Devanāgarī)
 

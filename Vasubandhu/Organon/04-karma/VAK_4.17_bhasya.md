@@ -7,9 +7,10 @@ prātimokṣānvitā aṣṭau dhyānajena tadanvitaḥ /
 anāsraveṇāryasattvāḥ antyau cittānuvartinau // 4.17 //
 ```
 
-> The eight are endowed with prātimokṣa restraint. One endowed with
-> meditation is endowed with meditation-born restraint. Noble beings are
-> endowed with uncontaminated restraint. The latter two follow the mind.
+> The eight disciplinary classes are endowed with prātimokṣa restraint.
+> Whoever is endowed with dhyāna is necessarily endowed with the restraint
+> born from or in dhyāna. Noble beings are endowed with uncontaminated
+> restraint. Of the three restraints, the latter two follow consciousness.
 
 The Bhāṣya unit runs from [207|22] through [208|13] of
 `Vasubandhu/Sources/kosabhasya.txt`. The next sentence introduces the

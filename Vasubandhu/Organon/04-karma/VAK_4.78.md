@@ -1,4 +1,4 @@
-# VAK_4.78
+# VAK_4.78 — Why They Are Courses of Karma
 
 ## 1. Sanskrit (Devanāgarī)
 
