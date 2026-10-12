@@ -2,11 +2,13 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
+
 > संयोजनादिवचनात् कुप्रज्ञा चेन्न दर्शनात् ।
 >
 > दृष्टेस्तत्संप्रयुक्तत्वात् प्रज्ञोपक्लेशदेशनात् ॥ ३.२९ ॥
 
 ## 2. Sanskrit (IAST)
+
 
 > saṃyojanādivacanāt kuprajñā cen na darśanāt /
 >
@@ -24,6 +26,7 @@ na
 ```
 
 ## 3. Lexical Analysis
+
 
 ```text
 saṃyojana-ādi-vacanāt    → saṃyojanādivacanāt
@@ -51,6 +54,7 @@ prajñā-upakleśa-deśanāt  → prajñopakleśadeśanāt
 views are instances of faulty prajñā.
 
 ## 4. Grammar
+
 
 The opening ablative completes the proof that ignorance is an operative
 factor:
@@ -91,6 +95,7 @@ avidyāyāḥ
 
 ## 5. Translation
 
+
 ### Close syntactic construe
 
 > [Ignorance is a distinct operative factor] because it is spoken of as a
@@ -113,7 +118,8 @@ avidyāyāḥ
 The explicit identification of wrong views with `ku-prajñā` and the two
 non-identity arguments are Bhāṣya determinations.
 
-## 6. Interpretation
+## 6. Philosophical Translation
+
 
 In the source's argument, wrong view is a determinate instance of faulty
 discriminative comprehension; ignorance is distinct from that view, is
@@ -128,6 +134,7 @@ associated factor that defiles the operation; it does not license treating
 every error as the product of one fully specified hidden mechanism.
 
 ## 7. Technical Vocabulary
+
 
 | Sanskrit | Controlled rendering | Determination in this unit |
 |---|---|---|
@@ -162,6 +169,7 @@ avidyā
 ```
 
 ## 8. Logical Determination
+
 
 ### Non-identity through association
 
@@ -214,7 +222,11 @@ These relations establish a functional distinction; they do not, by
 themselves, provide a complete account of how every wrong view arises or
 settle the intrinsic nature of ignorance.
 
-## 9. OWL++ Seed
+## 9. Interpretive Note
+
+
+## 10. OWL++ Seed
+
 
 ```ttl
 @prefix vak: <http://127.0.0.1:3000/vak#> .

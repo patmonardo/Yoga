@@ -2,17 +2,20 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
+
 > स्वोऽष्टालम्बनमारूप्यो द्वयोर्ध्यानद्वये तु षट् ।
 >
 > कामाः षण्णां चतुर्णां स्व एकस्यालम्बनं परः ॥ ३.३४ ॥
 
 ## 2. Sanskrit (IAST)
 
+
 > svo 'ṣṭālambanam ārūpyo dvayor dhyānadvaye tu ṣaṭ /
 >
 > kāmāḥ ṣaṇṇāṃ caturṇāṃ sva ekasyālambanaṃ paraḥ // 3.34 //
 
 ## 3. Lexical Analysis
+
 
 ```text
 svaḥ                        → svo
@@ -54,6 +57,7 @@ the governing matrix.
 
 ## 4. Grammar
 
+
 The opening continues the analysis of mental rangings belonging to the first
 two form-realm dhyānas from 3.33:
 
@@ -92,6 +96,7 @@ the dharma-ranging.
 
 ## 5. Translation
 
+
 ### Close syntactic construe
 
 > Their own [realm] is the cognitive Condition for eight, and the Formless realm for
@@ -112,7 +117,22 @@ the dharma-ranging.
 The reference of `sva`, the identification of the two dhyāna pairs, and the
 affective and Condition membership of each count are Bhāṣya determinations.
 
-## 6. Technical Vocabulary
+## 6. Philosophical Translation
+
+
+The distribution holds three determinations together: realm-connection,
+affective mode, and cognitive Condition. For the first two dhyānas, the
+Form-realm Conditions support eight rangings and the Formless realm supports
+two. In the third and fourth, six equanimity-Rangings reach the desire realm,
+four reach the Form realm, and one reaches the Formless realm. The Condition's
+constitution and the ranging's station jointly determine this distribution.
+
+At the project level, realm-connection, affective mode, and cognitive
+Condition jointly determine the admissible range; higher meditative
+placement does not erase access to lower-realm Conditions.
+
+## 7. Technical Vocabulary
+
 
 | Sanskrit | Controlled rendering | Determination in this unit |
 |---|---|---|
@@ -127,9 +147,9 @@ affective and Condition membership of each count are Bhāṣya determinations.
 | rasopavicāra | Taste-Ranging | excluded when the Form realm is the Condition |
 | dharmopavicāra | Dharma-Ranging | the sole Ranging able here to take the Formless realm as Condition |
 | rūpapratisaṃyukta | connected with the Form realm | realm-membership of the Mental Rangings analyzed here |
-| kāmadhātu | desire realm | lower domain available to all six equanimity-Rangings |
-| rūpadhātu | Form realm | own domain available to four of the six |
-| ārūpyadhātu | Formless realm | higher domain available to one of the six |
+| kāmadhātu | desire realm | lower realm available to all six equanimity-Rangings |
+| rūpadhātu | Form realm | own realm available to four of the six |
+| ārūpyadhātu | Formless realm | higher realm available to one of the six |
 | gandharasābhāva | absence of Smell and Taste | reason only four Conditions of the Form realm are accessible |
 
 The relative terms form a topology around the stationed operation:
@@ -140,7 +160,8 @@ sva:   rūpadhātu      own realm-Condition
 para:  ārūpyadhātu    higher realm-Condition
 ```
 
-## 7. Logical Determination
+## 8. Logical Determination
+
 
 ### First and second dhyānas
 
@@ -215,29 +236,11 @@ An admissible mental ranging is determined by compatibility among:
 
 No one coordinate alone determines the operation.
 
-## 9. Interpretation
+## 9. Interpretive Note
 
-The distribution holds three determinations together: realm-connection,
-affective mode, and cognitive Condition. For the first two dhyānas, the
-Form-realm Conditions support eight rangings and the Formless realm supports
-two. In the third and fourth, six equanimity-Rangings reach the desire realm,
-four reach the Form realm, and one reaches the Formless realm. The Condition's
-constitution and the ranging's station jointly determine this distribution.
-
-BEP is the Abhidharma, with Base, Essence, and Principle as its three levels
-of intuition. The further description of BEP as a Posited Process in Buddhi,
-with Buddhi as Agent of the Matrix, is a working formulation still in
-progress; BEP is not Mahat or the Matrix itself.
-
-In the inner-instrument Techne, Vijñāna is Discriminative Cognition joining
-and governing Perception and Conception, Inconceivable as a homogeneous
-operation and disclosed in Cognition Base. It governs Manas and guides the
-reading of Dharma Base, remaining distinct from consciousness (*citta*) and
-Mind (*manas*). Form Base and Dharma Base classify the same *avijñapti*, and
-Vijñāna bears a *prati* relation to it. Each Dharma has the Defined Concept
-`<Base, Essence, Principle>`.
 
 ## 10. OWL++ Seed
+
 
 ```ttl
 @prefix vak: <http://127.0.0.1:3000/vak#> .

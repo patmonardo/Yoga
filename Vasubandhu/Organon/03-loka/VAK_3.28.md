@@ -240,45 +240,10 @@ relation and factors capable of functioning within that relation.
 
 ## 9. Interpretive Note
 
-The massive Dharma discussion surrounding 3.28 should not obscure the basic
-Kārikā. Its two principles are compact and decisive.
-
-First:
-
-```text
-the same determination
-    may be result of its ground
-    and cause of its consequence
-```
-
-This is the conversion we identified in 3.26:
-
-```text
-phala
-    → vastu / āśraya
-    → renewed hetu
-```
-
-The Bhāṣya now supplies the exact reason: `apekṣābheda`, difference of
-relation. Cause and result do not name two eternally separated worlds. They
-are functions disclosed within the articulated Middle.
-
-Second, avidyā is not eternal darkness and not a mere vacancy where knowledge
-has failed to arrive. It is active opposition to knowledge. That is why more
-information alone may not remove it: the contrary determination must be met
-by a genuinely transformative `pratipakṣa`.
-
-For our Jñāna-mārga, this matters profoundly. Logical-scientific meditation
-does not merely fill gaps in an incomplete representation. It identifies the
-operative contrary that bends the Ground–Condition sequence toward renewed
-bondage and comprehends the exact conditional relation through which that
-distortion becomes effective.
-
-Within the Yogācāra assimilation, the opposition occurs in Me as a
-determination of the World-field. `Vidyā` and `avidyā` are not two external
-cosmic entities. They are opposed modes through which the conditional system
-is articulated and enacted. The Kośa's primary claim remains narrower:
-avidyā is a distinct causally effective dharma contrary to vidyā.
+The project-level reading takes cause and result as relational functions and
+avidyā as an operative contrary to vidyā, not a mere absence of information.
+The Bhāṣya's direct claims remain specific: a Dharma's causal role varies by
+relation, and ignorance is a conditioned affliction distinct from knowledge.
 
 ## 10. OWL++ Seed
 

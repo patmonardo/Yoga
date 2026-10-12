@@ -226,70 +226,9 @@ metrical assertion about death and arising generally.
 
 ## 9. Interpretive Note
 
-This verse gives the Client SDK for embodiment transition. The decisive
-operation occurs neither in the sensory interfaces nor in an unconscious
-shutdown. It occurs in mental differentiated cognition, at a non-acute
-affective station, while consciousness is bound to a bodily support undergoing
-transition.
-
-```text
-current embodiment
-    → bodily support begins transformation
-        → support-bound manovijñāna becomes operative
-            → death transition
-                → intermediate linking / renewed arising
-```
-
-This strongly confirms the Kośa as a Practical Theory of Consciousness. It
-does not merely assert that beings die and are reborn. It discriminates the
-cognitive locus, affective condition, concentration-state, and support relation
-under which those operations can occur.
-
-The samādhi restriction is philosophically important. Samādhi is not being
-devalued; its very stability, deliberate formation, and supportive power make
-it unlike the transition station. Within this analysis, one does not die or
-take rebirth while consciousness is actually concentrated. If death approaches
-during a mindless attainment, consciousness must first return.
-
-This places a precise limit on any simple “Ascension Dhyāna equals death or
-rebirth” model. An ascent may transform the Agent's station, but the Kośa
-assigns the actual embodiment transition to a different configuration:
-
-```text
-manovijñāna
-    + neutral feeling
-    + non-concentrated operation
-    + bodily-support binding
-```
-
-The point is textual and can now enter our larger debate without being allowed
-to decide every Yoga or Pāli account in advance.
-
-For Oculus, the event can be projected as a typed state transition:
-
-```ts
-interface EmbodimentTransition {
-  locus: "manovijnana";
-  feeling: "neither-painful-nor-pleasant";
-  concentrated: false;
-  mindPresent: true;
-  bodilySupportBound: true;
-  operation: "death" | "intermediate-linking" | "rebirth";
-}
-```
-
-This is an Organon reconstruction, not Vasubandhu's software model. It captures
-the discrimination: shutdown is not transition, concentration is not
-transition, and sensory cognition is not the transition-controller.
-
-The six-event list also reveals the reach of `manovijñāna`. It is the station
-where the Agent can lose or restore its ethical roots, withdraw from a realm,
-decline from an attainment, and change embodiments. Mental differentiated
-cognition is not merely another sensory channel; it governs system-level
-reconfiguration.
+At the project level, the transition is analyzed through Mind-Cognition, Feeling, concentration-status, and bodily support. This does not identify it with sensory cognition or generalize beyond the Bhāṣya's cases; the client/Agent model is an analogy only.
 
 ## 10. OWL++ Seed
-
 ```ttl
 @prefix vak: <http://127.0.0.1:3000/vak#> .
 @prefix loka: <http://127.0.0.1:3000/loka#> .

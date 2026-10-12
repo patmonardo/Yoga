@@ -16,6 +16,24 @@ to arise from conjunction. Its central excursus preserves a dispute over
 whether contact is that conjunction itself or another consciousness-associated
 dharma. Only then does it explain the two classes stated in the verse.
 
+### Bhāṣya-informed study translation
+
+> In Name-and-Form, **Name** comprises the four Bases other than Form Base:
+> Feeling, Recognition, Formations, and Discriminative Cognition. Contact is
+> sixfold, arising through the conjunction of Faculty, Meaning, and
+> Discriminative Cognition. The five Contacts are classified by resistance
+> and Faculty support; the sixth, Mind-Contact, is called
+> **designation-Contact**. One account says designation is an additional
+> Condition for Mind-Cognition; another says Mind-Cognition proceeds by
+> means of words, and the associated Contact is therefore called
+> designation-Contact. The Bhāṣya further classifies the six Contacts as
+> Contacts with Knowing, with Ignorance, or with neither, and identifies
+> ill-will and attachment Contacts within a frequently occurring portion of
+> ignorance-Contact.
+
+The fourfold content of nāma, the relevant triad, and the competing
+explanations of contact and designation are Bhāṣya determinations.
+
 ## 2. Continuous Sanskrit
 
 ```iast

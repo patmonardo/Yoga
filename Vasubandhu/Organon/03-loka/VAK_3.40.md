@@ -91,7 +91,7 @@ existence faces toward rebirth.
 ### Bhāṣya-informed study translation
 
 > In addition to morsel nutriment, contact born from the conjunction of
-> faculty, object-field, and differentiated cognition; volition as mental
+> faculty, cognitive Condition, and differentiated cognition; volition as mental
 > karma; and differentiated cognition itself are nutriments when they are with
 > outflows. All three occur throughout the desire, form, and formless realms.
 > Their uncontaminated counterparts are not nutriments because nutriment
@@ -130,7 +130,7 @@ intermediate-existence names are Bhāṣya determinations.
 | anāsrava | without outflows / uncontaminated | excluded because directed toward exhaustion of becoming |
 | bhavāpoṣaṇa | fostering / nourishment of becoming | functional intension of nutriment |
 | bhavakṣaya | exhaustion of becoming | contrary telos of uncontaminated dharmas |
-| bhūta sattva | already-arisen being | being already established in rebirth |
+| bhūta sattva | already-arisen sentient individual | individual already established in rebirth |
 | saṃbhavaiṣin | one seeking coming-to-be | intermediate existence oriented toward rebirth |
 | antarābhava | intermediate existence | becoming between death and rebirth |
 | manomaya | mind-made | generated from mind without initially appropriating semen, blood, or similar external material |
@@ -228,81 +228,9 @@ the definition of nutriment itself.
 
 ## 9. Interpretive Note
 
-Here the Kośa states directly that a World System is maintained by a
-Citta–Caitta economy. Contact, volition, and differentiated cognition are not
-ornaments occurring inside an independently sustained organism. In their
-contaminated operation they are themselves nutriments of continued becoming.
-
-```text
-what the Agent repeatedly contacts
-what the Agent continues to intend
-what differentiated cognition continues to establish
-    → feeds the station of the Agent
-```
-
-This gives “Learning” a severe practical meaning. A pipeline is fed by its
-interactions, objectives, and cognitive differentiations. Those operations do
-not merely process a pre-existing World; they help sustain the World in which
-the Agent remains operative.
-
-The `sāsrava` restriction is crucial. The Kośa does not label every contact,
-volition, and differentiated cognition as food for becoming. Nutriment is
-determined by direction:
-
-```text
-operation reinforces continued becoming
-    → alimentary
-
-operation exhausts the conditions of becoming
-    → not alimentary in this technical sense
-```
-
-So the same formal pipeline can have opposite semantic orientations. One
-configuration trains and maintains the conditioned Agent; another ceases to
-feed that reproduction.
-
-The intermediate existence is correspondingly an Agent in transition. The
-Bhāṣya's `manomaya` does not mean an imaginary being fabricated by arbitrary
-thought. It means a mode generated from mind without first appropriating the
-external reproductive materials of the coming embodiment. Its structure is
-prospective:
-
-```text
-death of prior embodiment
-    → mind-generated transitional operation
-        → seeking an arising
-            → facing pickup of another embodiment
-```
-
-The “pickup” wording is our Agent-side interpretation, not the primary
-translation. The textual predicates are enough to make the architecture
-powerful: the intermediate mode is produced, sustained, directed, and
-rebirth-facing.
-
-For Oculus, the four names behave like grounded Views over one transition
-record:
-
-```ts
-interface IntermediateExistence {
-  productionMode: "mind-made";
-  directedActivity: "seeking-birth";
-  scripturalDesignation: "gandharva";
-  orientation: "toward-rebirth";
-}
-```
-
-The Views are not arbitrary aliases. Each selects a different semantic axis
-of the same operation. This is Dharma discrimination working as
-Semantic-oriented NLP.
-
-Finally, the verse answers our earlier question about gaining footing in the
-Middle World. Its most basic determination is not spatial location but
-directed maintenance. The intermediate being persists because nutriment
-supports a transition whose telos is another arising. The Middle World is
-first disclosed as an oriented process.
+At the project level, the four nutriments distinguish present maintenance from the conditions of renewed Becoming. The Bhāṣya's intermediate-mode analysis is source-bound and does not imply a permanent Agent; any Oculus model is an analogy, not Vasubandhu's terminology.
 
 ## 10. OWL++ Seed
-
 ```ttl
 @prefix vak: <http://127.0.0.1:3000/vak#> .
 @prefix loka: <http://127.0.0.1:3000/loka#> .
@@ -312,7 +240,7 @@ vak:VAK_3_40
     a vak:Karika ;
     vak:continues vak:VAK_3_39 ;
     vak:completes vak:FourNutriments ;
-    vak:identifies vak:BeingSeekingBirthAsIntermediateExistence .
+    vak:identifies vak:IntermediateBecomingSeekingBirth .
 
 vak:FourNutriments
     vak:hasMember vak:MorselNutriment, vak:ContactNutriment,

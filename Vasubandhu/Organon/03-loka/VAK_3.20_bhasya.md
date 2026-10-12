@@ -7,10 +7,10 @@
 
 ### Bhāṣya-informed study translation
 
-> The Base-continuum already described across three births is *samutpāda*
-> articulated in twelve members and three sections: two at the past and
-> future limits, and eight in the present course of one who completes all
-> successive states.
+> The Base-continuum already described across three births is the
+> conditioned arising, articulated in twelve members and three sections:
+> two at each of the past and future limits, and eight in the present course
+> of one who completes all successive states.
 
 ## 2. Continuous Sanskrit
 
@@ -57,11 +57,12 @@ unchanged.
 ## 3. Scientific English Rendering
 
 The Base-continuum just taught as extending through three births is that
-*samutpāda*, twelve-membered and three-sectioned.
+conditioned arising, twelve-membered and three-sectioned.
 
-Its twelve members are Ignorance, Formations, Cognition, Name-and-Form, the
-six Essences, Contact, Feeling, Craving, Appropriation, Becoming, Birth, and
-Aging-and-Death. Its three sections are the past, future, and present births.
+Its twelve members are Ignorance, Formations, Discriminative Cognition,
+Name-and-Form, the six Essences, Contact, Feeling, Craving, Appropriation,
+Becoming, Birth, and Aging-and-Death. Its three sections are the past,
+present, and future births.
 
 How are the twelve members arranged in these three sections?
 
@@ -75,15 +76,16 @@ Do these eight members occur in every birth? No. For whom, then?
 > For one who completes the course.
 
 The commentary explains this as one who encounters all these successive
-states. It excludes one who dies in the interval and one moving in the Form
-or Formless Realm. In the *Mahānidānaparyāya*, it says, a Desire Realm
-person is indicated, with the statement: “If Cognition, Ānanda, were not to
-descend into a mother's womb ...”
+states. It excludes one who dies in the interval and one whose course is in
+the Form or Formless Realm. In the *Mahānidānaparyāya*, it says, a Desire
+Realm person is indicated, with the statement: “If Discriminative Cognition,
+Ānanda, were not to descend into a mother's womb ...”
 
-When *samutpāda* is instead divided into two sections—the former-limit and
-latter-limit arrangements—the former has seven members, extending through
-Feeling, and the latter has five. The commentary connects this division with
-taking the prior and subsequent limits together with result and cause.
+When conditioned arising is instead divided into two sections—the
+former-limit and latter-limit arrangements—the former has seven members,
+extending through Feeling, and the latter has five. The commentary connects
+this division with taking the prior and subsequent limits together with
+result and cause.
 
 ## 4. Commentary Movement
 
@@ -119,7 +121,7 @@ Past birth — prior limit
     Formations
 
 Present birth — middle
-    Cognition
+    Discriminative Cognition
     Name-and-Form
     six Essences
     Contact
@@ -147,26 +149,32 @@ translation preserves that point without forcing a more specific mapping.
 
 ## 6. Interpretation
 
-This is the chapter's reflective turn from an already displayed course to
-its causal articulation. The Bhāṣya begins from the three-birth
-Base-continuum and reconstructs it as a twelve-member *samutpāda*. Its
-appearance is made intelligible through the grounds and conditions that
-specify the course; the passage does not narrate a genetic origin from an
-independent source.
+### Conditioned continuity and objective Dharmas
 
-**Pre-Subject Knowing.** In this reading, the Science of Knowing operates
+This is the chapter's reflective turn from an already displayed course to
+its conditional articulation. The Bhāṣya begins from the three-birth
+Base-continuum and reconstructs it as a twelve-member conditioned arising.
+In the Organon reading, the members are not a flat list: they specify
+Objective Dharmas and their relations within one course. The passage does
+not narrate a genetic origin from an independent source.
+
+The horizontal reading follows the distribution across past, present, and
+future births. The vertical reading reconstructs how that same course is
+mediated by conditions. In the project's BEP terms, immediacy and mediacy
+must both be retained: the appearance is not erased by its conditions, and
+the conditions are not mistaken for a second course. The 2/8/2 distribution
+is temporal; it is not itself the three BEP axes.
+
+### Pre-Subject Knowing
+
+In this project-level reading, the Science of Knowing operates
 before the Subject is constituted: it encounters the Seed of the Subject.
 There is not yet a Subject:Object relation, so do not name what is known here
 as an Object. Object belongs to the later articulation in which Subject and
 Object stand in relation. This is a project-level Techne distinction, not
 terminology stated by VAK 3.20.
 
-The horizontal reading follows the distribution across past, present, and
-future births. The vertical reading reconstructs how that same course is
-mediated by conditions. In the project's BEP terms, immediacy and mediacy
-must both be retained: the appearance is not erased by its conditions, and
-the conditions are not mistaken for a second course. The 2/8/2 temporal
-sections are not themselves the three BEP axes.
+### Comparative resonance
 
 Attending to the transition from past to present birth shifts the unit of
 reflection from “life to life” toward “death to death.” Each renewed birth
@@ -176,15 +184,20 @@ Hindu formulation of saṃsāra as going “from death to death.” It is a
 comparative lens on the Kośa's three-birth arrangement, not wording
 attributed to this Bhāṣya.
 
+### Cross-framework continuity
+
 The order of the members sharpens this reflection. Formations stands at
-the past limit; Cognition begins the present middle. Their adjacency in the
-twelve-member sequence marks a transition across births. Name-and-Form may
-be read as an inclusive twofold summary, which the sixfold Essence
-articulation then differentiates. In the project's root-framework reading,
-Dharma Essence takes up that sixfold Essence structure together with Feeling
-and Formations. The twelve-member arrangement nevertheless discriminates
-Feeling into the present middle and Formations into the past limit; inclusion
-in the wider framework does not erase their distinct positions.
+the past limit; Discriminative Cognition begins the present middle. Their
+adjacency in the twelve-member sequence marks a transition across births.
+Name-and-Form may be read as an inclusive twofold summary, which the sixfold
+Essence articulation then differentiates. In the project's root-framework
+reading, Dharma Essence takes up that sixfold Essence structure together
+with Feeling and Formations. The twelve-member arrangement nevertheless
+discriminates Feeling into the present middle and Formations into the past
+limit; inclusion in the wider framework does not erase their distinct
+positions.
+
+### Loka–Karma extension
 
 Becoming is a key hinge in the present middle and should be read alongside
 Avijñapti in the wider Loka–Karma analysis: the question is how karmic
@@ -194,6 +207,8 @@ becoming legible in present-life expression. It is not a physiognomic test
 for judging another person's character or worth. This is a project-level
 extension; VAK 3.20 names Becoming but does not itself mention Avijñapti or
 the face.
+
+### Scope and cognitive architecture
 
 This passage establishes the structure, not the detailed operation of every
 member. The following verses examine the members in turn. The complete
@@ -206,5 +221,5 @@ their unity is not a homogeneous operation, and its Idea is disclosed in
 the Cognition Base. Vijñāna governs Mind and guides the reading of Dharma
 Base. Its relation to Avijñapti, and Avijñapti's distinct classifications
 in Form Base and Dharma Base, must likewise remain discriminated. Here,
-VAK 3.20 names Cognition as one member but does not unfold those wider
-relations; Cognition remains distinct from consciousness and Mind.
+VAK 3.20 names Discriminative Cognition as one member but does not unfold
+those wider relations; it remains distinct from consciousness and Mind.

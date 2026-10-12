@@ -16,6 +16,22 @@ explains why intermediate becoming is absent from the formless realm, and
 then changes the governing question from the arising of sentient beings to
 their continued persistence.
 
+### Bhāṣya-informed study translation
+
+> Rebirth-becoming is necessarily defiled and may be bound by any affliction
+> belonging to the level in which that rebirth occurs. The other three modes
+> of becoming—intermediate, life-course, and death becoming—may each be
+> wholesome, defiled, or indeterminate. In the formless realm only three modes
+> occur: rebirth, life-course, and death; intermediate becoming is absent
+> because that realm is not spatially delimited as another place requiring an
+> intervening transition-body. Having explained how sentient beings arise
+> through dependent co-arising, the text now states how they remain: the World
+> persists through nutriment.
+
+The necessity of defilement, the three ethical classes, the excluded mode in
+the formless realm, and the arising-versus-persistence transition are Bhāṣya
+determinations.
+
 ## 2. Continuous Sanskrit
 
 ```iast
@@ -67,7 +83,7 @@ secure. The sūtra introduction at 152.09–10 has
 `abhisaṃbudhyākhyātaḥ` and `sarvasattvā`. These passages need collation;
 the running witness has not been altered.
 
-## 3. Continuous Conventional Translation
+## 3. Scientific English Rendering
 
 Rebirth-becoming is defiled—necessarily so. By which affliction? By all the
 afflictions belonging to its own level. Whatever level the rebirth-becoming
@@ -118,7 +134,7 @@ its exact wording is uncertain. No objector speaks in this unit. The four
 nutriments are only announced at the endpoint; their determination belongs
 to the next Study.
 
-## 5. Rebirth-Being Is Necessarily Defiled
+## 5. Rebirth Becoming Is Necessarily Defiled
 
 The ethical asymmetry among the four becomings is:
 
@@ -132,14 +148,14 @@ maraṇabhava
     each may be kuśala, kliṣṭa, or avyākṛta
 ```
 
-Rebirth-becoming is the establishment or binding of a renewed series and is
+Rebirth Becoming is the establishment or binding of a renewed series and is
 therefore never ethically neutral in the present account. The linking *into*
 intermediate becoming is also necessarily defiled; this does not make every
 moment of intermediate becoming defiled, since it belongs among the three
 modes that may be wholesome, defiled, or indeterminate.
 
 `Svabhūmika` restricts the afflictive condition by level. The relevant
-affliction belongs to the same ground as the rebirth-being it binds. “All
+affliction belongs to the same ground as the Rebirth Becoming it binds. “All
 afflictions” therefore does not erase the architecture of levels or claim
 that an affliction from any arbitrary ground directly binds every rebirth.
 
@@ -251,7 +267,7 @@ function rather than instantiate empty stages for formal symmetry.
 ## 10. Review Status
 
 This Study restores the complete natural unit at 151.19–152.10: necessarily
-defiled rebirth-being, same-level afflictions, habitual momentum at linking,
+defiled Rebirth Becoming, same-level afflictions, habitual momentum at linking,
 the threefold status of the other becomings, the absence of intermediate
 becoming from the formless realm, and the transition from arising to
 persistence through nutriment.

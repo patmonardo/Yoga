@@ -5,6 +5,8 @@ and verse range, so the same checks can be applied to different study volumes.
 
 ```sh
 python Vasubandhu/Organon/tests/audit_karika_sections.py \
+  --chapter 3 --check
+python Vasubandhu/Organon/tests/audit_karika_sections.py \
   --chapter 4 --check
 python Vasubandhu/Organon/tests/audit_karika_sections.py \
   --chapter 4 --start 42 --end 66 --check
@@ -15,7 +17,7 @@ python -m unittest discover \
 ```
 
 The heading audit applies strict Dhātu Pattern 3 rules to chapter 1 and one
-exact Karman template to every chapter 4 study:
+exact ten-section template to every Loka and Karman kārikā study:
 
 1. Sanskrit (Devanāgarī)
 2. Sanskrit (IAST)
@@ -28,16 +30,14 @@ exact Karman template to every chapter 4 study:
 9. Interpretive Note
 10. OWL++ Seed
 
-The Karman check requires those top-level sections in that order, with those
-numbers, and rejects every other top-level section. It does not inspect
-subsections (`###` and deeper) or headings inside fenced code blocks. Chapter 4
-selects the strict Karman profile automatically; `--profile generic` cannot
-disable it in check mode. Legacy chapter 4 studies that do not match the
-template are reported as nonconforming, with no per-verse exceptions. A
-section body may be empty; the audit locks the section headings, not their
-content.
+The Loka and Karman checks require those top-level sections in that order,
+with those numbers, and reject every other top-level section. They do not
+inspect subsections (`###` and deeper) or headings inside fenced code blocks.
+Chapters 3 and 4 select their strict profiles automatically; `--profile
+generic` cannot disable either in check mode. A section body may be empty; the
+audit locks the section headings, not their content.
 
-Chapters 2, 3, and 5–8 remain on the generic profile pending separate damage
+Chapters 2 and 5–8 remain on the generic profile pending separate damage
 assessment. Without `--check`, the audit inventories exact top-level heading
 patterns without enforcing them. Add repeated `--require-section` or
 `--forbid-section` options for additional scoped checks.

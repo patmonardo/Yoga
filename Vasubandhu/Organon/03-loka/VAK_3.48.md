@@ -99,7 +99,7 @@ and center-surrounding relation are Bhāṣya determinations.
 > established together with surrounding structures. Meru is not merely added
 > to a list of physical objects: it supplies a middle relative to which the
 > remaining mountains acquire ordered positions. The Physical World passes
-> from measurable extension to an internally addressed domain.
+> from measurable extension to an internally addressed field.
 
 ## 7. Technical Vocabulary
 
@@ -145,7 +145,7 @@ reads `triguṇa` as an operation upon the measure already established in 3.47.
 ```text
 extended support-field
     + designated middle
-        → oriented spatial domain
+        → oriented spatial field
 ```
 
 An expanse has breadth without yet possessing a privileged internal address.
@@ -178,44 +178,7 @@ prematurely absorbing the next Kārikā into this one.
 
 ## 9. Interpretive Note
 
-VAK 3.48 contains two different but connected acts of world-construction.
-First, the support-field is closed into a circumference by a proportional
-calculation. Second, that encircled field receives a center and relationally
-surrounding positions. The transition is:
-
-```text
-extent
-    → circumference
-        → center
-            → surrounding placement
-```
-
-This is more useful than the mountain inventory considered by itself. A
-domain becomes navigable and internally addressable when it acquires an
-orientation system. “Middle” and “around” are reciprocally determining spatial
-relations: Sumeru is the middle of this arrangement because the other ranges
-are disposed around it, while they count as surrounding ranges through their
-relation to that middle.
-
-For the Organon projection:
-
-```ts
-interface OrientedWorldField {
-  support: "golden-earth";
-  circumferenceYojanas: 3_610_350;
-  center: "Sumeru";
-  surroundingStructures: string[];
-}
-```
-
-This is explanatory notation, not the vocabulary of the Kārikā. Its purpose
-is to preserve the shift from undirected magnitude to relational place. The
-Physical World is becoming not merely large, but structured such that a
-position can be specified through its relations to other positions.
-
-No symbolic identification of Meru with a yogic axis is required here. The
-textual achievement is already substantial: a generated common field becomes
-geometrically bounded, centered, and ready for systematic differentiation.
+At the project level, the account proceeds from measured extension to circumference, center, and surrounding placement. This relational spatial order needs no symbolic identification of Sumeru with a yogic axis.
 
 ## 10. OWL++ Seed
 

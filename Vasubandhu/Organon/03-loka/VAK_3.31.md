@@ -2,17 +2,20 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
+
 > विद्याविद्येतरस्पर्शाः अमलक्लिष्टशेषिताः ।
 >
 > व्यापादानुनयस्पर्शौ सुखवेद्यादयस्त्रयः ॥ ३.३१ ॥
 
 ## 2. Sanskrit (IAST)
 
+
 > vidyāvidyetarasparśāḥ amalakliṣṭaśeṣitāḥ /
 >
 > vyāpādānunayasparśau sukhavedyādayas trayaḥ // 3.31 //
 
 ## 3. Lexical Analysis
+
 
 ```text
 vidyā-avidyā-itara-sparśāḥ  → vidyāvidyetarasparśāḥ
@@ -40,6 +43,7 @@ The Kārikā superimposes several classifications upon the same contact-field;
 it does not state a new temporal sequence.
 
 ## 4. Grammar
+
 
 The first line correlates two threefold classifications:
 
@@ -76,6 +80,7 @@ neither-painful-nor-pleasant feeling-bearing contact.
 
 ## 5. Translation
 
+
 ### Close syntactic construe
 
 > Contacts associated with knowledge, ignorance, and neither are respectively
@@ -96,7 +101,15 @@ The exact determination of the remainder, the restricted source of the
 ill-will/attachment pair, and the derivation of `vedanīya` are Bhāṣya
 determinations.
 
-## 6. Technical Vocabulary
+## 6. Philosophical Translation
+
+The same Contact field receives determinations by association, Influx,
+afflictive orientation, and Feeling. These are intersecting classifications,
+not sixteen successive events. The Bhāṣya closes the Contact exposition with
+`uktaḥ sparśaḥ`; the next Kārikā opens the separate exposition of Feeling.
+
+## 7. Technical Vocabulary
+
 
 | Sanskrit | Controlled rendering | Determination in this unit |
 |---|---|---|
@@ -136,7 +149,8 @@ neither-Contact
 
 The field is not exhaustively divided into knowledge and ignorance.
 
-## 7. Logical Determination
+## 8. Logical Determination
+
 
 ### One Contact, several relations
 
@@ -183,27 +197,11 @@ vedanā
 The next member continues this relation: Contact is already determined
 through the kind of feeling it bears or makes possible.
 
-## 8. Interpretation
+## 9. Interpretive Note
 
-The same Contact field receives determinations by association, Influx,
-afflictive orientation, and feeling. BEP is the Abhidharma, with Base,
-Essence, and Principle as its three levels of intuition. The further
-description of BEP as a Posited Process in Buddhi, with Buddhi as Agent of the
-Matrix, is a working formulation still in progress; BEP is not Mahat or the
-Matrix itself.
 
-In the inner-instrument Techne, Vijñāna is Discriminative Cognition joining
-and governing Perception and Conception, Inconceivable as a homogeneous
-operation and disclosed in Cognition Base. It governs Manas and guides the
-reading of Dharma Base, remaining distinct from consciousness (*citta*) and
-Mind (*manas*). Form Base and Dharma Base classify the same *avijñapti*, and
-Vijñāna bears a *prati* relation to it. Each Dharma has the Defined Concept
-`<Base, Essence, Principle>`.
+## 10. OWL++ Seed
 
-The Bhāṣya closes the Contact exposition with `uktaḥ sparśaḥ`; the next
-Kārikā opens the separate exposition of Feeling.
-
-## 9. OWL++ Seed
 
 ```ttl
 @prefix vak: <http://127.0.0.1:3000/vak#> .

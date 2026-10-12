@@ -226,38 +226,15 @@ stage-designations will be stated explicitly in 3.25.
 
 ## 9. Interpretive Note
 
-VAK 3.24 reveals why the Middle is the productive Dharma of the World System.
-The present middle does not simply mediate a past and future that already
-exist. Through appropriation and karma, it **produces the future as a
-determinate destination of the present course**.
+In the Organon's project-level reading, the members designate a conditioned
+course by temporal position and analytic scale: the present junction is
+Discriminative Cognition, while the future result is Birth; four developed
+stages are compressed under Aging-and-Death. The Bhāṣya grounds these
+designations in its three-life presentation; the broader Yogācāra assimilation
+remains a project interpretation.
 
-```text
-Condition pursued
-    → karma accumulated
-    → future junction projected
-    → embodied World renewed
-```
-
-This also deepens the determination that the World is established in Me. The
-the Condition pursued in the present is not merely a passive target. Action
-organized in relation to it participates in configuring the future World in
-which Discriminative Cognition will again obtain footing. The field of
-Conditions becomes a determinant of destiny through karma.
-
-The perspectival identity `vijñāna here = jāti there` is especially powerful
-for Yogācāra assimilation. The members do not name metaphysically sealed
-pieces. A single transition is differentiated according to the standpoint
-from which the World System comprehends its function. Likewise,
-`jarāmaraṇa` is not merely the last biological episode of old age followed by
-death; within this three-life presentation it gathers the already developing
-future course through feeling.
-
-Your expectation about the exposition is therefore confirmed with one
-adjustment. VAK 3.24 completes the condensed component-list. The Bhāṣya then
-begins reflecting on its principle, and 3.25 formally states it: the intended
-series is stage-based, with each complex five-aggregate stage named according
-to its predominant determination. We stop here so that principle can receive
-its own complete study.
+VAK 3.24 completes the condensed member-list. The Bhāṣya then turns to the
+principle of stage-designation, which receives its own treatment in 3.25.
 
 ## 10. OWL++ Seed
 

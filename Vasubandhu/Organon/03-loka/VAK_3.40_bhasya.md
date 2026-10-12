@@ -1,10 +1,10 @@
-# VAK_3.40 Bhāṣya — Mental Nutriments and the Birth-Seeking Intermediate Being
+# VAK_3.40 Bhāṣya — Mental Nutriments and Birth-Seeking Intermediate Becoming
 
 ## 1. Kārikā Anchor
 
 ```iast
 sparśasaṃcetanāvijñā āhārāḥ sāsravās triṣu /
-manomayaḥ saṃbhavaiṣī gandharvaś cāntarābhavaḥ // 3.40 //
+manomayaḥ saṃbhavaiṣī gandharvaścāntarābhavaḥ // 3.40 //
 ```
 
 > Contact, volition, and differentiated cognition are nutriments when with
@@ -15,6 +15,24 @@ The Bhāṣya completes the enumeration of the four nutriments, excludes the
 uncontaminated forms through the function of nutriment, and identifies the
 sūtra's “one seeking birth” with intermediate existence under several
 functional designations.
+
+### Bhāṣya-informed study translation
+
+> In addition to morsel nutriment, contact born from the conjunction of
+> faculty, cognitive Condition, and differentiated cognition; volition as mental
+> karma; and differentiated cognition itself are nutriments when they are with
+> outflows. All three occur throughout the desire, form, and formless realms.
+> Their uncontaminated counterparts are not nutriments because nutriment
+> fosters becoming, whereas uncontaminated dharmas operate toward its
+> exhaustion. The “one seeking birth” whom nutriment supports is intermediate
+> existence: called mind-made because it arises from mind without first taking
+> up external reproductive material; birth-seeking because it tends toward a
+> new arising; and gandharva. It is also called `abhinirvṛtti`, emergence
+> facing toward rebirth.
+
+The triadic genesis of contact, the determination of volition as mental karma,
+the exclusion of uncontaminated factors, and the explanations of the
+intermediate-existence names are Bhāṣya determinations.
 
 ## 2. Continuous Sanskrit
 
@@ -58,7 +76,7 @@ regularizes evident forms provisionally. The local derivation of `gandharva`,
 the exact wording of both sūtra citations, and the distribution of the
 fourfold alternative require comparison with critical witnesses.
 
-## 3. Continuous Conventional Translation
+## 3. Scientific English Rendering
 
 Contact, volition, and differentiated cognition are nutriments when they are
 with outflows, and they occur in all three realms. Contact is born from the

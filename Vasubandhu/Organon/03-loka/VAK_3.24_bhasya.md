@@ -2,8 +2,8 @@
 
 ## 1. Kārikā Anchor
 
-> sa bhaviṣyadbhavaphalaṃ kurute karma tad bhavaḥ /
-> pratisaṃdhiḥ punar jātir jarāmaraṇam ā vidaḥ // 3.24 //
+> sa bhaviṣyat bhavaphalaṃ kurute karma tad bhavaḥ /
+> pratisaṃdhiḥ punar jātiḥ jarāmaraṇam ā vidaḥ // 3.24 //
 
 > One produces karma whose result is future existence; that is becoming.
 > Rebirth-junction, in turn, is birth; aging-and-death extends up to the
@@ -13,6 +13,18 @@ The Bhāṣya completes the twelve-member sequence. Appropriative pursuit
 accumulates karma productive of renewed existence; its future rebirth-junction
 is designated birth, while the ensuing development through feeling is
 gathered under aging-and-death.
+
+### Bhāṣya-informed study translation
+
+> Running about to obtain desired Conditions, one accumulates karma productive
+> of renewed existence; this renewal-producing karma is designated
+> **becoming**. When, after death from the present life, that karma produces a
+> future rebirth-junction, the junction is designated **birth**. The ensuing
+> future-life development—from name-and-form through the stage of feeling—is
+> gathered prospectively under **aging-and-death**.
+
+Renewal-producing karma, the perspectival equivalence of rebirth-junction and
+birth, and the range gathered under aging-and-death are Bhāṣya determinations.
 
 ## 2. Continuous Sanskrit
 
@@ -126,10 +138,10 @@ viewed from the present as a future result
 
 This is not an identity between the concepts `vijñāna` and `jāti` in every
 context. It is a perspectival equivalence within the three-life articulation:
-the junction called consciousness when analyzing the present middle is called
-birth when it stands at the future limit.
+the junction designated Discriminative Cognition when analyzing the present
+middle is designated Birth when viewed as a future result.
 
-The aggregate-continuum, not an independent traveler, remains the underlying
+The Base-continuum, not an independent traveler, remains the underlying
 range to which both designations apply.
 
 ## 7. Aging-and-Death as a Compressed Future Range
@@ -172,7 +184,7 @@ future results
 ```
 
 The sequence is not twelve items on one uniform chronological scale. Some
-members name broad aggregate-states, and future members compress ranges
+members name broad Base-states, and future members compress ranges
 analyzed more finely in the present middle. The following discussion will
 make the principle of stage-designation explicit, but that belongs to the
 next Study.

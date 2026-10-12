@@ -9,6 +9,7 @@ import unittest
 
 from audit_karika_sections import (
     KARMAN_SECTION_ORDER,
+    LOKA_SECTION_ORDER,
     check_headings,
     headings_in,
 )
@@ -113,6 +114,26 @@ class ProjectScriptTests(unittest.TestCase):
                 [],
             )
 
+    def test_loka_profile_locks_exact_top_level_schema(self):
+        headings = tuple(
+            f"## {number}. {section}"
+            for number, section in enumerate(LOKA_SECTION_ORDER, start=1)
+        )
+        self.assertEqual(check_headings(headings, profile="loka"), [])
+
+        legacy_headings = (
+            *headings[:5],
+            "## 6. Scope Note",
+            "## 7. OWL++ Seed",
+        )
+        errors = check_headings(legacy_headings, profile="loka")
+        self.assertTrue(
+            any("missing required section" in error for error in errors)
+        )
+        self.assertTrue(
+            any("do not match the Loka template" in error for error in errors)
+        )
+
     def test_generic_profile_accepts_volume_specific_headings(self):
         headings = ("## Source", "## Word Division", "## Scientific Translation")
         self.assertEqual(check_headings(headings, profile="generic"), [])
@@ -171,6 +192,26 @@ class ProjectScriptTests(unittest.TestCase):
             "chapter 4 checks require the strict karman profile", result.stderr
         )
 
+    def test_loka_check_cannot_be_downgraded_to_generic(self):
+        result = subprocess.run(
+            [
+                sys.executable,
+                str(AUDIT_SCRIPT),
+                "--chapter",
+                "3",
+                "--profile",
+                "generic",
+                "--check",
+            ],
+            capture_output=True,
+            text=True,
+            check=False,
+        )
+        self.assertEqual(result.returncode, 2)
+        self.assertIn(
+            "chapter 3 checks require the strict loka profile", result.stderr
+        )
+
     def test_karman_default_profile_rejects_legacy_top_level_headings(self):
         with tempfile.TemporaryDirectory() as directory:
             study_dir = Path(directory)
@@ -227,6 +268,24 @@ class ProjectScriptTests(unittest.TestCase):
         )
         self.assertEqual(result.returncode, 0, result.stdout + result.stderr)
         self.assertIn("127 of 127 requested", result.stdout)
+        self.assertIn("Heading check: all requested studies conform", result.stdout)
+
+    def test_full_loka_audit_checks_every_verse(self):
+        result = subprocess.run(
+            [
+                sys.executable,
+                str(AUDIT_SCRIPT),
+                "--chapter",
+                "3",
+                "--check",
+            ],
+            capture_output=True,
+            text=True,
+            check=False,
+        )
+        self.assertEqual(result.returncode, 0, result.stdout + result.stderr)
+        self.assertIn("102 of 102 requested", result.stdout)
+        self.assertIn("Checking headings with the loka profile", result.stdout)
         self.assertIn("Heading check: all requested studies conform", result.stdout)
 
     def test_shared_builder_dry_runs_every_edition_to_root_folder(self):

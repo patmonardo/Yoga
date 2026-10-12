@@ -3,7 +3,7 @@
 ## 1. Kārikā Anchor
 
 ```iast
-catvāro 'rūpisāmante rūpagā eka ūrdhvagaḥ /
+catvāro 'rūpisāmante rūpagāḥ eka ūrdhvagaḥ /
 eko maule svaviṣayaḥ sarve 'ṣṭādaśa sāsravāḥ // 3.35 //
 ```
 
@@ -15,6 +15,20 @@ The Bhāṣya completes the realm-distribution of Mental Rangings, calculates
 their possession at different levels, and then records another interpreter's
 claim that the sūtra uses `manopavicāra` more narrowly for afflicted modes of
 ranging.
+
+### Bhāṣya-informed study translation
+
+> At the threshold of the first Formless attainment, four Mental Rangings—
+> Form, Sound, Tangible, and Dharma—take the fourth dhyāna as their cognitive
+> Condition, while one Dharma-Ranging takes the higher Formless realm as its
+> Condition. In a fundamental Formless attainment, only one Dharma-Ranging
+> occurs, taking its own Formless realm as Condition. In the Vaibhāṣika
+> classification, all eighteen Mental Rangings have Influx; none is without
+> Influx.
+
+The identification of the threshold, the Conditions of the four, the
+single Dharma-Ranging, and the Vaibhāṣika scope of the concluding statement
+are determinations made explicit in the Bhāṣya.
 
 ## 2. Continuous Sanskrit
 

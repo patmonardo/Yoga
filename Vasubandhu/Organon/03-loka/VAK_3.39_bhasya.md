@@ -16,6 +16,24 @@ gross or subtle, restricts it to the desire realm, identifies its three
 constituent spheres, and excludes visible form through a functional test of
 sustaining support.
 
+### Bhāṣya-informed study translation
+
+> Morsel nutriment occurs only in the desire realm and is constituted by the
+> three desire-realm Essences of odor, taste, and tangible. It may be gross or
+> subtle, and sustaining influences not literally swallowed may be included
+> under its subtle form. Visible form itself is not nutriment, because
+> nutriment must support the faculties and their material elements, whereas
+> visible form does not support even its own faculty, the eye, in the act of
+> ingestion. When seeing attractive food occasions pleasure, the nourishing
+> factor is the pleasant-feeling-producing contact that takes the form as its
+> cognitive Condition, not the visible form itself. Liberated persons confirm the
+> distinction: they may see pleasing food without receiving that sustaining
+> benefit from its appearance.
+
+The identification of the three Essences, the gross/subtle distinction, the
+functional definition of nutriment, and the contact analysis are Bhāṣya
+determinations.
+
 ## 2. Continuous Sanskrit
 
 ```iast
@@ -61,7 +79,7 @@ in the pleasure clause at 153.01. The continuous text regularizes these
 provisionally. The examples of subtle nutriment, the scope of `niḥṣyanda`,
 and the difficult final compound in the verse require critical comparison.
 
-## 3. Continuous Conventional Translation
+## 3. Scientific English Rendering
 
 Morsel nutriment is the first nutriment. It is gross and subtle. It is subtle
 for intermediate beings because they subsist upon odor; likewise for gods and
@@ -88,13 +106,13 @@ Why is the visible-form Essence not nutriment? It too is taken in when food is
 formed into morsels. The answer is that visible form does not support its own
 faculty or the liberated. Nutriment is that which conduces to the sustaining
 support of the faculties and the great elements. At the time of ingestion,
-visible form does not support its own faculty, the eye, or the great elements
-belonging to it—still less the other faculties, since visible form is not
-their object-field.
+visible form does not support its own faculty, the Eye, or the great elements
+belonging to it—still less the other Faculties, since visible form is not
+their cognitive Condition.
 
 Even when something visible, while being seen, produces pleasure and
-gladness, the nutriment is the pleasant-feeling-bearing contact that has that
-visible form as its object-support, not the visible form itself. This is
+gladness, the nutriment is the pleasant-feeling-bearing Contact that has that
+visible form as its cognitive Condition, not the visible form itself. This is
 confirmed by liberated persons, non-returners and arhats: although they may
 see pleasing food, its appearance does not provide the sustaining benefit in
 question.
@@ -112,7 +130,7 @@ The passage has a clear progression:
    category.
 4. An objector asks why visible form is excluded despite the visible meal
    being ingested.
-5. The reply defines nutriment by `anugraha`, distinguishes object-support
+5. The reply defines nutriment by `anugraha`, distinguishes cognitive Condition
    from nourishing factor, and uses liberated persons as a discrimination
    test.
 
@@ -185,17 +203,17 @@ The Bhāṣya defines nutriment functionally:
       of faculties and great elements
 ```
 
-Visible form fails this criterion. Its relation to the eye is object-field to
-faculty, not material support to what is sustained. It does not nourish the
-eye merely by being visible, nor can it nourish the other faculties for which
-it is not an object.
+Visible form fails this criterion. Its relation to the Eye is a cognitive
+Condition for Cognition, not material support to what is sustained. It does
+not nourish the Eye merely by being visible, nor can it nourish the other
+Faculties for which it is not a cognitive Condition.
 
 This distinguishes the apparent unity called “food” into different causal
 roles:
 
 ```text
 visible form
-    displayed object-support
+    cognitive Condition
 
 odor + taste + tangible
     material morsel nutriment
@@ -204,9 +222,9 @@ pleasant-feeling-bearing contact
     possible affective nutriment occasioned in seeing
 ```
 
-When attractive appearance produces pleasure, the contact taking that form
-as object is nutriment; the object-support is not thereby identical with the
-nourishing operation.
+When attractive appearance produces pleasure, the Contact taking that form
+as its cognitive Condition is nutriment; the Condition is not thereby
+identical with the nourishing operation.
 
 ## 8. The Liberated-Person Test
 
@@ -226,14 +244,14 @@ insufficient to establish technical nutriment.
 The argument does not say that liberated persons need no material support or
 cannot recognize attractiveness. It tests only the claim that visible form
 itself nourishes by producing conditioned pleasure. The absence of that
-affective support reveals that the form served as object, while contact had
+affective support reveals that the form served as cognitive Condition, while Contact had
 performed the nourishing function in susceptible continuums.
 
 ## 9. Philosophical and Organon Study
 
 This unit offers an exact example of semantic discrimination. The ordinary
 noun “food” groups visible appearance, odor, taste, texture, ingestion,
-contact, pleasure, and bodily maintenance into one practical object. The
+contact, pleasure, and bodily maintenance into one practical package. The
 Bhāṣya separates these according to the work each performs.
 
 For an Ocular Dataset, the source-side lesson is:
@@ -245,9 +263,9 @@ functional role
 ```
 
 An artifact may display beautifully without sustaining the process that uses
-it. A displayed form can be an object-support while a distinct contact-event
-produces the operational effect. Content, presentation, interaction, and
-maintenance therefore need separate provenance and typing.
+it. A displayed form can be a cognitive Condition while a distinct
+Contact-event produces the operational effect. Content, presentation,
+interaction, and maintenance therefore need separate provenance and typing.
 
 The inclusion of subtle nutriment also prevents narrow implementation by
 stereotype. A definition based only on the familiar action of chewing would

@@ -243,52 +243,11 @@ relations of the enumeration and reconnect its apparent limits.
 
 ## 9. Interpretive Note
 
-This is the clearest statement yet of the Kośa's Technē. The World System is
-not merely described; its lawful reproduction is specified:
-
-```text
-afflictive orientation
-    → projective operation
-    → embodied result
-    → developed experiential field
-    → renewed afflictive orientation
-```
-
-The system has “skin in the game” because every arrow is assigned concrete
-members. `Avidyā → saṃskāra`, `saṃskāra → vijñāna`, `vedanā → tṛṣṇā`, and
-`upādāna → bhava` are not ornamental cosmological claims. Together they form
-a compact causal program for life, action, death, and renewed embodiment.
-
-In our Ground–Condition architecture, 3.27 supplies the transition algebra:
-
-```text
-hetu
-    is typed as kleśa or karma
-
-phala
-    arises as vastu
-
-vastu
-    becomes āśraya for renewed hetu
-
-naya
-    determines the licensed transitions
-```
-
-The Truth of the system is therefore not exhausted by one isolated
-hypothetical judgment. It is the closed family of conditionals through which
-the World reproduces its own grounds.
-
-Read with VAK 3.25–3.26, this rule makes the transcendental time schema
-recursive: the displayed beginning and end are not absolute limits because
-the transitions among affliction, karma, and Vastu reconnect them. Here Vastu
-means Thing or basis in its support-function, not a cognitive Condition or
-Object. This is a project-level synthesis of the Bhāṣya's transition rules.
-
-The related Path question is where the conditions sustaining recurrence can
-be exhausted so that result no longer supports renewed affliction. That
-question extends beyond this verse; 3.27 supplies the causal rule it would
-have to address.
+The Organon's project-level synthesis reads the Bhāṣya's transitions as a
+recursive Ground–Condition pattern: affliction conditions karma, karma
+conditions Vastu, and Vastu supports renewed affliction or further Vastu.
+Where the Path can exhaust this recurrence is a further question, not settled
+by this verse.
 
 ## 10. OWL++ Seed
 

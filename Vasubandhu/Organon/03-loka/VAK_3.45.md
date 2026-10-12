@@ -94,8 +94,8 @@ contained in the Kārikā.
 
 > The Kośa begins the Physical World not with a self-standing lump of matter,
 > but with the configuration of a common world-support. The first articulated
-> support is an immense wind-domain beneath the world-system. Although shared,
-> stable, and objective for its inhabitants, its formation is attributed to
+> support is an immense wind-maṇḍala beneath the world-system. Although shared,
+> stable, and common to its inhabitants, its formation is attributed to
 > the collective causal efficacy of embodied Agents. The World System is thus
 > neither private appearance nor causally independent scenery: it is a common,
 > conditioned field within which sentient trajectories can be embodied.
@@ -118,7 +118,7 @@ contained in the Kārikā.
 | sarvasattva | all sentient beings | bearers of the karma whose efficacy produces the support |
 
 `Maṇḍala` is retained because “disk” alone can falsely suggest only a visible
-solid object. Here it denotes a vast, bounded cosmological domain with a
+solid object. Here it denotes a vast, bounded bounded cosmological region with a
 supporting function.
 
 ## 8. Logical Determination
@@ -178,40 +178,7 @@ modern empirical physics.
 
 ## 9. Interpretive Note
 
-VAK 3.45 opens the Physical World as a theory of world-configuration. The
-decisive term is not only `bhājanaloka`, but `saṃniveśa`: a world is presented
-through an ordered placement of mutually supporting domains. The first member
-of that order is invisible habitation-wise yet structurally indispensable—the
-wind-maṇḍala below.
-
-The Bhāṣya makes this more philosophically powerful by locating the genesis of
-the common support in `sarvasattvānāṃ karmādhipatyena`, the governing efficacy
-of the karma of all beings. The Physical World is not simply placed beside the
-Human World as a second unrelated thing. The causal histories of beings and
-the formation of their common container belong to one World System.
-
-That relation may be modeled without reducing the world to an individual's
-projection:
-
-```ts
-interface SharedWorldSupport {
-  domain: "wind-mandala";
-  position: "below";
-  verticalExtentYojanas: 1_600_000;
-  lateralExtent: "incalculable";
-  formationCondition: "collective-karmic-efficacy";
-  stability: "extremely-firm";
-}
-```
-
-This is an Organon explanatory projection, not Vasubandhu's terminology. Its
-important constraint is semantic: collective causal formation and common
-objective stability must both be retained. Neither a privately imagined world
-nor independently self-grounding matter expresses the Bhāṣya's determination.
-
-The remaining physical verses can now articulate the higher supports upon
-this first field. We should let that construction proceed in its own sequence
-before drawing wider Sāṃkhya, Yoga, or transcendental correspondences.
+At the project level, the Physical World is a shared support formed through collective karmic efficacy, not a private projection or independently self-grounding matter. The following verses develop its ordered supports without requiring wider cosmological correspondences.
 
 ## 10. OWL++ Seed
 

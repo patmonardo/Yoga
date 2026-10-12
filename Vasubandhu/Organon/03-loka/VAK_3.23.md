@@ -71,9 +71,10 @@ physical coupling.
 
 ### Close syntactic rendering
 
-> Feeling is before sexual coupling; Craving is the state of one passionately
-> attached to sensual enjoyment and sexual coupling. Appropriation, however,
-> is the state of one running about to attain enjoyments.
+> The Feeling-stage is before sexual passion becomes active. Craving is the
+> state of one passionately attached to sensual enjoyment and sexual
+> coupling. Appropriation is the state of one running about to attain
+> enjoyments.
 
 ### Bhāṣya-informed study translation
 
@@ -84,18 +85,46 @@ physical coupling.
 > has entered the search and runs in all directions to attain the Condition
 > is called Appropriation.
 
-## 6. Scope Note
+## 6. Philosophical Translation
 
-The Bhāṣya marks three distinct operations: Feeling before active passion,
-Craving while passion is manifest but search has not begun, and Appropriation
-once search is organized around attaining the Condition. This is a
-functional-stage analysis, not a universal age timetable.
+> Feeling names the stage before active sexual passion. Craving names the
+> state in which passion for sensual enjoyment and sexual coupling is
+> manifest. Appropriation names the state in which one enters a search and
+> ranges about to attain the sought Condition.
 
-Here *viṣaya* is rendered **Condition**, a specific moment of the Seen and
-the playground of the Faculties. Do not substitute Object—the comprehended
-truth of Vastu—for this source term.
+## 7. Technical Vocabulary
 
-## 7. OWL++ Seed
+| Sanskrit | Controlled rendering | Determination in this passage |
+|---|---|---|
+| `vitti` | Feeling | the stage before active sexual passion |
+| `maithuna` | sexual coupling | the boundary named in the verse; the Bhāṣya explains it through active passion |
+| `tṛṣṇā` | Craving | active passion for sensual enjoyment and sexual coupling, before search begins |
+| `bhoga` | enjoyment | what the Craving-stage desires and the pursuit seeks |
+| `viṣaya` | Condition | the object of pursuit in the Bhāṣya's explanation |
+| `upādāna` | Appropriation | the stage in which organized search for attainment begins |
+| `paridhāvati` | runs about / ranges in pursuit | the Bhāṣya's description of seeking the Condition in all directions |
+
+## 8. Logical Determination
+
+```text
+capacity to discriminate causes of the three Feelings
+    → Feeling-stage, before passion manifests
+    → Craving, when passion manifests
+    → Appropriation, when the search for the Condition begins
+    → pursuit ranges in all directions toward attainment
+```
+
+The distinctions are functional, not a universal age timetable or a mere
+scale of increasing intensity. Appropriation begins with organized pursuit;
+Craving supplies its motivational direction.
+
+## 9. Interpretive Note
+
+The verse names the stages; the Bhāṣya specifies active passion and the
+transition into search. The sought *viṣaya* is **Condition**, not Object,
+the comprehended truth of Vastu.
+
+## 10. OWL++ Seed
 
 ```ttl
 @prefix vak: <http://127.0.0.1:3000/vak#> .

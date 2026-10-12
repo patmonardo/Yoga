@@ -15,6 +15,19 @@ that is not knowledge” and “mere absence of knowledge” as definitions of
 ignorance. Between them, the Bhāṣya debates the status, wording, scope, and
 causal meaning of dependent arising itself.
 
+### Bhāṣya-informed study translation
+
+> A member is called **dependent arising** insofar as it functions as the
+> cause from which another member arises, and **dependently arisen** insofar
+> as it functions as a result. The same member may bear both determinations
+> under different relations. Ignorance is neither everything other than
+> knowledge nor the mere absence of knowledge; it is a distinct operative
+> factor standing contrary to knowledge, as an enemy stands contrary to a
+> friend and untruth to truth.
+
+Relational role, the rejection of two alternative definitions of ignorance,
+and its status as an operative condition are Bhāṣya determinations.
+
 ## 2. Continuous Sanskrit
 
 > ayoniśomanaskārahetukāvidyoktā sūtrāntare / avidyāhetukaś

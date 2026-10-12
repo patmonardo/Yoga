@@ -2,17 +2,20 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
+
 > चत्वारोऽरूपिसामन्ते रूपगाः एक ऊर्ध्वगः ।
 >
 > एको मौले स्वविषयः सर्वेऽष्टादश सास्रवाः ॥ ३.३५ ॥
 
 ## 2. Sanskrit (IAST)
 
+
 > catvāro 'rūpisāmante rūpagāḥ eka ūrdhvagaḥ /
 >
 > eko maule svaviṣayaḥ sarve 'ṣṭādaśa sāsravāḥ // 3.35 //
 
 ## 3. Lexical Analysis
+
 
 ```text
 catvāraḥ                   → catvāro
@@ -46,6 +49,7 @@ the Formless realm. The last clause predicates `sāsrava` of the complete
 eighteenfold class.
 
 ## 4. Grammar
+
 
 The first hemistich concerns the threshold of the first formless attainment:
 
@@ -83,6 +87,7 @@ Dharma-Ranging whose cognitive Condition is the Formless realm itself.
 
 ## 5. Translation
 
+
 ### Close syntactic construe
 
 > At the threshold of the Formless realm, four are Form-directed and one is
@@ -103,7 +108,23 @@ The identification of the threshold, the Conditions of the four, the
 single Dharma-Ranging, and the Vaibhāṣika scope of the concluding statement
 are determinations made explicit in the Bhāṣya.
 
-## 6. Technical Vocabulary
+## 6. Philosophical Translation
+
+
+The Vaibhāṣika account completes the distribution of Mental Rangings and
+states that all eighteen have Influx. The alternative sūtra interpretation,
+explicitly attributed to “another,” narrows *manopavicāra* to reactive
+attraction, repulsion, and neutrality without discriminative consideration.
+The six stable dwellings name the counter-operation: equanimity, recollection,
+and clear comprehension. The distinction concerns how the field is traversed,
+not whether Feeling or wholesome cognition continues.
+
+This project-level distinction separates the Vaibhāṣika distribution of
+Mental Rangings from the narrower practical sūtra interpretation. The latter
+changes the mode of traversal, not the field of available Conditions.
+
+## 7. Technical Vocabulary
+
 
 | Sanskrit | Controlled rendering | Determination in this unit |
 |---|---|---|
@@ -137,7 +158,8 @@ alternative sūtra intension:
     specifically afflicted modes by which Mind ranges
 ```
 
-## 7. Logical Determination
+## 8. Logical Determination
+
 
 ### Completion of the formless distribution
 
@@ -222,35 +244,11 @@ same six Conditions
 The counter-operation does not require deletion of perception, cognition, or
 wholesome affect. It transforms the mode of traversal.
 
-## 8. Interpretation
+## 9. Interpretive Note
 
-The Vaibhāṣika account completes the distribution of Mental Rangings and
-states that all eighteen have Influx. The alternative sūtra interpretation,
-explicitly attributed to “another,” narrows *manopavicāra* to reactive
-attraction, repulsion, and neutrality without discriminative consideration.
-The six stable dwellings name the counter-operation: equanimity, recollection,
-and clear comprehension. The distinction concerns how the field is traversed,
-not whether Feeling or wholesome cognition continues.
 
-This Loka–Karma analysis belongs to the Bhava Chakra, distinct from the Dharma
-Chakra. BEP is the Abhidharma, with Base, Essence, and Principle as its three
-levels of intuition. The further description of BEP as a Posited Process in
-Buddhi, with Buddhi as Agent of the Matrix, is a working formulation still in
-progress; BEP is not Mahat or the Matrix itself. The Dharma Chakra spans
-*saṃvṛti* and *paramārtha* as two determinations of
-the same reality, not two worlds or substances. The Absolute Base spans and
-combines Form Base and Dharma Base; this unity is Absolute Dharma,
-discriminating all Dharmas through Form and Law.
+## 10. OWL++ Seed
 
-The Kośa presents Vijñāna as Discriminative Cognition joining and governing
-Perception and Conception. Their unity is Inconceivable as a homogeneous
-operation; its Idea is disclosed in Vijñāna Base. Vijñāna governs Manas and
-guides the reading of Dharma Base, remaining distinct from *citta* and
-*manas*. Form Base and Dharma Base classify the same *avijñapti* in distinct
-ways, and Vijñāna bears a *prati* relation to it. Each Dharma has the Defined
-Concept `<Base, Essence, Principle>`.
-
-## 9. OWL++ Seed
 
 ```ttl
 @prefix vak: <http://127.0.0.1:3000/vak#> .

@@ -56,17 +56,22 @@ def verse_text(text: str, chapter: int, verse: int) -> str:
     marker = re.search(marker_pattern, text)
     if not marker:
         return ""
-    lines = text[: marker.end()].splitlines()
-    joined = " ".join(
-        quoted
-        for line in lines
-        if line.strip().startswith(">")
-        if (
-            quoted := re.sub(
-                marker_pattern, "", line.strip().lstrip(">")
-            ).strip()
+    iast_block = re.search(r"```iast\s*(.*?)```", text, re.S | re.I)
+    if iast_block:
+        joined = iast_block.group(1)
+    else:
+        lines = text[: marker.end()].splitlines()
+        joined = " ".join(
+            quoted
+            for line in lines
+            if line.strip().startswith(">")
+            if (
+                quoted := re.sub(
+                    marker_pattern, "", line.strip().lstrip(">")
+                ).strip()
+            )
         )
-    ).strip()
+    joined = " ".join(re.sub(marker_pattern, "", joined).split())
     return re.sub(r"a-ā", "ā", joined).replace("-", "")
 
 

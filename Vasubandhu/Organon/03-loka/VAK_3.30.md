@@ -2,17 +2,20 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
+
 > नाम त्वरूपिणः स्कन्धाः स्पर्शाः षट् संनिपातजाः ।
 >
 > पञ्चप्रतिघसंस्पर्शः षष्ठोऽधिवचनाह्वयः ॥ ३.३० ॥
 
 ## 2. Sanskrit (IAST)
 
+
 > nāma tv arūpiṇaḥ skandhāḥ sparśāḥ ṣaṭ saṃnipātajāḥ /
 >
 > pañcapratighasaṃsparśaḥ ṣaṣṭho 'dhivacanāhvayaḥ // 3.30 //
 
 ## 3. Lexical Analysis
+
 
 ```text
 nāma                    → nāma
@@ -46,6 +49,7 @@ The supplied Devanāgarī/IAST compresses `pañca-pratigha-saṃsparśāḥ`; th
 plural predicate is understood from `pañca`, as confirmed by the Bhāṣya.
 
 ## 4. Grammar
+
 
 The first definition is a nominal identity:
 
@@ -85,6 +89,7 @@ from it.
 
 ## 5. Translation
 
+
 ### Close syntactic construe
 
 > Name comprises the four Bases other than Form Base. The six Contacts arise
@@ -110,22 +115,17 @@ from it.
 The fourfold content of nāma, the relevant triad, and the competing
 explanations of contact and designation are Bhāṣya determinations.
 
-## 6. Interpretation
+## 6. Philosophical Translation
 
-The kārikā describes Form and Name within the appearing field, followed by
-the sixfold Contact relation. BEP is the Abhidharma, with Base, Essence, and
-Principle as its three levels of intuition. The further description of BEP as
-a Posited Process in Buddhi, with Buddhi as Agent of the Matrix, is a working
-formulation still in progress; BEP is not Mahat or the Matrix itself.
-
-Within this articulation, the Organon's inner-instrument Techne reads
-*vijñāna* as Discriminative Cognition: it joins Perception and Conception
-without becoming a homogeneous operation. Keep it distinct from
-consciousness (*citta*) and Mind (*manas*). The source's dispute over
-whether Contact is the conjunction itself or a further associated Dharma
-remains intact.
+The kārikā describes Form and Name within the appearing field and explains
+the sixfold Contact relation. In the Organon's inner-instrument Techne, the
+cognitive factor in the Faculty–Meaning–Discriminative Cognition triad remains
+distinct from consciousness (*citta*) and Mind (*manas*). The Bhāṣya's
+dispute over whether Contact is the conjunction itself or a further
+associated Dharma remains unresolved.
 
 ## 7. Technical Vocabulary
+
 
 | Sanskrit | Controlled rendering | Determination in this unit |
 |---|---|---|
@@ -163,6 +163,7 @@ Thus `saṃskāra` is indeed a constituent of nāma. Its formative retention may
 be compared with memory-function, but it is broader than recollective memory.
 
 ## 8. Logical Determination
+
 
 ### Name
 
@@ -220,23 +221,11 @@ wholesome-with-Influx and non-obstructive-indeterminate Contacts. It also names 
 attachment Contacts from a frequently occurring portion of Contact with
 Ignorance.
 
-## 9. Interpretation
+## 9. Interpretive Note
 
-The Loka passage differentiates Form, Name, and Contact within appearance.
-BEP is the Abhidharma, with Base, Essence, and Principle as its three levels
-of intuition. The further description of BEP as a Posited Process in Buddhi,
-with Buddhi as Agent of the Matrix, is a working formulation still in
-progress; BEP is not Mahat or the Matrix itself.
-
-The inner-instrument Techne reads *vijñāna* as Discriminative Cognition,
-joining and governing Perception and Conception without homogeneous
-operation. It is disclosed in Cognition Base, governs Manas, and guides the
-reading of Dharma Base; keep it distinct from consciousness (*citta*) and
-Mind (*manas*). Form Base and Dharma Base classify the same *avijñapti*, and
-Vijñāna bears a *prati* relation to it. Each Dharma has the Defined Concept
-`<Base, Essence, Principle>`.
 
 ## 10. OWL++ Seed
+
 
 ```ttl
 @prefix vak: <http://127.0.0.1:3000/vak#> .

@@ -2,17 +2,20 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
+
 > कामे स्वालम्बनाः सर्वे रूपी द्वादशगोचरः ।
 >
 > त्रयाणामुत्तरः ध्यानद्वये द्वादश कामगाः ॥ ३.३३ ॥
 
 ## 2. Sanskrit (IAST)
 
+
 > kāme svālambanāḥ sarve rūpī dvādaśagocaraḥ /
 >
 > trayāṇām uttaraḥ dhyānadvaye dvādaśa kāmagāḥ // 3.33 //
 
 ## 3. Lexical Analysis
+
 
 ```text
 kāme                       → kāme
@@ -45,6 +48,7 @@ distinguishes: realm-membership (`pratisaṃyukta`) and cognitive Condition
 (`ālambana`).
 
 ## 4. Grammar
+
 
 The first three clauses concern realms as cognitive Conditions:
 
@@ -79,6 +83,7 @@ Condition.
 
 ## 5. Translation
 
+
 ### Close syntactic construe
 
 > In the desire realm, all [eighteen] have their own [realm] as
@@ -101,7 +106,17 @@ The identification of the omitted rangings, the reference of `rūpī` and
 `uttaraḥ`, and the interpretation of `kāmagāḥ` are Bhāṣya
 determinations.
 
-## 6. Technical Vocabulary
+## 6. Philosophical Translation
+
+VAK 3.32 established the repeated ranging of Mind under the force of Feeling.
+Here the Bhāṣya distinguishes a ranging's connection with a realm from the
+realm that conditions it. All eighteen rangings are possible in the desire
+realm; the Form realm conditions twelve, and the Formless realm conditions
+three. The first two dhyānas connect twelve rangings with the Form realm,
+while the desire realm can condition those same twelve.
+
+## 7. Technical Vocabulary
+
 
 | Sanskrit | Controlled rendering | Determination in this unit |
 |---|---|---|
@@ -112,7 +127,7 @@ determinations.
 | pratisaṃyukta | connected with / belonging to | identifies the realm to which a ranging belongs |
 | ālambana | cognitive Condition / support | that on which the ranging depends |
 | svālambana | own cognitive Condition | one's own realm functioning as Condition |
-| gocara | field / range | admissible domain of operation |
+| gocara | field / range | admissible range of operation |
 | gandha | Smell | sensory Condition absent from the Form realm |
 | rasa | Taste | sensory Condition absent from the Form realm |
 | dharmopavicāra | Dharma-Ranging | Mental Ranging whose Condition is Dharma |
@@ -131,7 +146,8 @@ pratisaṃyukta
     = what field the mental ranging can take up
 ```
 
-## 7. Logical Determination
+## 8. Logical Determination
+
 
 ### Realm-connection differs from cognitive Condition
 
@@ -192,32 +208,14 @@ kāmadhātum ālambante
     = they take the desire realm as cognitive Condition
 ```
 
-The World System permits cross-domain cognitive range without confusing that
+The World System permits cross-realm cognitive range without confusing that
 range with a change of station.
 
-## 8. Interpretation
+## 9. Interpretive Note
 
-VAK 3.32 established the repeated ranging of Mind under the force of Feeling.
-Here the Bhāṣya distinguishes a ranging's connection with a realm from the
-realm that conditions it. All eighteen rangings are possible in the desire
-realm; the Form realm conditions twelve, and the Formless realm conditions
-three. The first two dhyānas connect twelve rangings with the Form realm,
-while the desire realm can condition those same twelve.
 
-BEP is the Abhidharma, with Base, Essence, and Principle as its three levels
-of intuition. The further description of BEP as a Posited Process in Buddhi,
-with Buddhi as Agent of the Matrix, is a working formulation still in
-progress; BEP is not Mahat or the Matrix itself.
+## 10. OWL++ Seed
 
-In the inner-instrument Techne, Vijñāna is Discriminative Cognition joining
-and governing Perception and Conception, Inconceivable as a homogeneous
-operation and disclosed in Cognition Base. It governs Manas and guides the
-reading of Dharma Base, remaining distinct from consciousness (*citta*) and
-Mind (*manas*). Form Base and Dharma Base classify the same *avijñapti*, and
-Vijñāna bears a *prati* relation to it. Each Dharma has the Defined Concept
-`<Base, Essence, Principle>`.
-
-## 9. OWL++ Seed
 
 ```ttl
 @prefix vak: <http://127.0.0.1:3000/vak#> .

@@ -15,6 +15,17 @@ The Bhāṣya identifies the scale as the great thousandfold world-system,
 distinguishes vertical from lateral extent, and supplies the genesis of the
 wind-maṇḍala through the governing efficacy of the karma of all beings.
 
+### Bhāṣya-informed study translation
+
+> They describe the arrangement of the great world-system as follows. Below,
+> established in space, a wind-maṇḍala comes into formation through the
+> governing efficacy of the karma of all beings. It is 1,600,000 yojanas in
+> vertical extent, incalculable in breadth, and extraordinarily firm.
+
+The great world-system, establishment in space, karmic formation, yojana unit,
+lateral dimension, and firmness are Bhāṣya determinations rather than wording
+contained in the Kārikā.
+
 ## 2. Continuous Sanskrit
 
 ```iast
@@ -34,7 +45,7 @@ evident duplicated nasal have been regularized provisionally. The expression
 `mahālagno 'pi vajreṇa` is textually uncertain and has not been silently
 resolved into a confident critical reading.
 
-## 3. Continuous Conventional Translation
+## 3. Scientific English Rendering
 
 The sentient world has been explained; the container-world is now to be
 explained.
@@ -169,7 +180,7 @@ asaṃkhyaṃ
 
 `Vāyumaṇḍala` is retained as “wind-maṇḍala.” “Wind-circle” is possible, but
 “circle” can misleadingly suggest only a line or circumference, while the
-prose attributes thickness, breadth, and supporting firmness to the domain.
+prose attributes thickness, breadth, and supporting firmness to the wind-maṇḍala.
 
 The doctrinal sequence is genetic as well as spatial:
 

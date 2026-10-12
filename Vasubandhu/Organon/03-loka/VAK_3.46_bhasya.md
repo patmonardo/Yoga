@@ -16,6 +16,17 @@ laterally, preserves two explanatory positions, and resolves the compressed
 arithmetic: 800,000 yojanas become golden earth and 320,000 yojanas of water
 remain.
 
+### Bhāṣya-informed study translation
+
+> Above the wind-maṇḍala forms a water-maṇḍala 1,120,000 yojanas deep. Winds
+> generated through the karmic efficacy of beings turn its waters, and the
+> upper 800,000 yojanas become golden earth, like the skin that forms upon
+> cooked milk. A water layer 320,000 yojanas deep remains beneath it.
+
+The location above the wind-maṇḍala, formation by clouds and rain, karmically
+generated winds, milk-skin analogy, and exact division between gold and
+remaining water are Bhāṣya determinations.
+
 ## 2. Continuous Sanskrit
 
 ```iast
@@ -47,7 +58,7 @@ continuous text makes provisional spacing and sandhi repairs sufficient for
 readability; it is not offered as a critical edition. The exact form of
 `pakvakṣīraśarībhāva` especially requires control against other witnesses.
 
-## 3. Continuous Conventional Translation
+## 3. Scientific English Rendering
 
 Above it, the water-maṇḍala has a vertical extent of eleven
 hundred-thousand plus twenty thousand yojanas. The word “maṇḍala” is carried
@@ -104,7 +115,7 @@ final adjudication between them.
 
 ## 5. Formation and Exact Measure
 
-The water-domain does not simply appear as a layer already in place. Its
+The water-maṇḍala does not simply appear as a layer already in place. Its
 formation has a stated sequence:
 
 ```text
@@ -133,7 +144,7 @@ mass noun.
 ## 6. Why the Waters Do Not Disperse
 
 The question `kathaṃ tā āpo na tiryaṅ visravanti?` tests the internal
-coherence of the model. A vast water-domain situated above wind appears to
+coherence of the model. A vast water-maṇḍala situated above wind appears to
 require an explanation for its lateral containment.
 
 The immediate answer is the same causal category used for the formation of
@@ -180,7 +191,7 @@ Because the Sanskrit expression is damaged or compressed, “skin upon cooked
 milk” is a provisional rendering of the evident general comparison.
 
 The resulting `kāñcanamayī mahī`, golden earth, is therefore both continuous
-with and distinct from the water-domain. It arises by transformation of its
+with and distinct from the water-maṇḍala. It arises by transformation of its
 upper portion and then functions as the ground above the water that remains.
 
 This is not elemental creation ex nihilo. The commentary presents an
@@ -229,7 +240,7 @@ formation
 The passage is more than a stack of cosmological substances. Each support
 has a genesis; the stability of the water becomes an explicit problem; rival
 accounts of that stability are preserved; and a new ground is produced by a
-measured transformation of the preceding domain.
+measured transformation of the preceding support layer.
 
 For the Organon Dataset, at least three explanatory levels must remain
 distinct:

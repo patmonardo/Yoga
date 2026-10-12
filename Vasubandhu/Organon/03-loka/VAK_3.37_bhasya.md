@@ -15,6 +15,22 @@ The Bhāṣya continues VAK 3.36's causal analogies. It gives Karma three
 different determinations, distinguishes maturation-result from a further
 productive cause, and locates the process within four modes of becoming.
 
+### Bhāṣya-informed study translation
+
+> Karma joined with Affliction is like a grain enclosed in its husk, retaining
+> the capacity to germinate. It is like a plant whose process terminates in
+> the ripening of fruit; on the provisionally supplied negative, Karma does
+> not continue producing further maturation-results after ripening. Karma is
+> also like a flower, its cause proximate to fruit-arising. The Thing (Vastu)
+> called maturation-result is like prepared food and drink: available for
+> experience, but not itself capable of germinating into another
+> maturation-result. This causal process operates within four modes of
+> Becoming: Intermediate, Rebirth, Life-course, and Death.
+
+The distinct forces of the plant and flower comparisons, the determination of
+`vastu` as maturation-result, and the enumeration of the four modes of Becoming are
+Bhāṣya determinations.
+
 ## 2. Continuous Sanskrit
 
 ```iast

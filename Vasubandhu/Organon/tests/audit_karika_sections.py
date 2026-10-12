@@ -32,6 +32,7 @@ SECTION_ORDER = (
 )
 REQUIRED_SECTIONS = SECTION_ORDER[:5]
 KARMAN_SECTION_ORDER = SECTION_ORDER
+LOKA_SECTION_ORDER = SECTION_ORDER
 HEADING = re.compile(r"^\s{0,3}(#{2,6})\s+(.+?)\s*#*\s*$")
 FENCE = re.compile(r"^\s{0,3}(`{3,}|~{3,})")
 NUMBERED_HEADING = re.compile(r"^##\s+(\d+)\.\s+")
@@ -87,8 +88,12 @@ def check_headings(
     if profile == "generic":
         return errors
 
-    if profile == "karman":
-        for required in KARMAN_SECTION_ORDER:
+    if profile in ("karman", "loka"):
+        section_order = (
+            KARMAN_SECTION_ORDER if profile == "karman" else LOKA_SECTION_ORDER
+        )
+        volume_name = "Karman" if profile == "karman" else "Loka"
+        for required in section_order:
             count = titles.count(required)
             if count == 0:
                 errors.append(f"missing required section: {required}")
@@ -96,13 +101,17 @@ def check_headings(
                 errors.append(f"duplicate section: {required}")
 
         for heading, title in zip(headings, titles):
-            if title not in KARMAN_SECTION_ORDER:
+            if title not in section_order:
                 errors.append(f"noncanonical section heading: {heading}")
-            if re.search(r"\bargument\b", title, re.IGNORECASE):
+            if profile == "karman" and re.search(
+                r"\bargument\b", title, re.IGNORECASE
+            ):
                 errors.append(f"argument heading is not permitted: {heading}")
 
-        if titles != list(KARMAN_SECTION_ORDER):
-            errors.append("top-level sections do not match the Karman template")
+        if titles != list(section_order):
+            errors.append(
+                f"top-level sections do not match the {volume_name} template"
+            )
 
         for index, heading in enumerate(headings, start=1):
             match = NUMBERED_HEADING.match(heading)
@@ -162,6 +171,8 @@ def selected_profile(requested: str, chapter: int) -> str:
         return requested
     if chapter == 1:
         return "dhatu"
+    if chapter == 3:
+        return "loka"
     if chapter == 4:
         return "karman"
     return "generic"
@@ -189,7 +200,7 @@ def main() -> int:
     )
     parser.add_argument(
         "--profile",
-        choices=("auto", "dhatu", "karman", "generic"),
+        choices=("auto", "dhatu", "loka", "karman", "generic"),
         default="auto",
         help="heading rules to apply (default: selected from chapter)",
     )
@@ -222,8 +233,16 @@ def main() -> int:
         else ORGANON_DIR / CHAPTER_DIRS[args.chapter]
     )
     profile = selected_profile(args.profile, args.chapter)
-    if args.check and args.chapter == 4 and profile != "karman":
-        parser.error("chapter 4 checks require the strict karman profile")
+    required_profiles = {3: "loka", 4: "karman"}
+    if (
+        args.check
+        and args.chapter in required_profiles
+        and profile != required_profiles[args.chapter]
+    ):
+        parser.error(
+            f"chapter {args.chapter} checks require the strict "
+            f"{required_profiles[args.chapter]} profile"
+        )
     studies = {}
     missing_karikas = []
     missing_bhasya = []

@@ -100,13 +100,17 @@ Condition.
 
 ## 5. Interpretation
 
+### Essence structure and temporal boundaries
+
 This verse makes the sixfold Essence stage precise as a temporal
 organization, not merely a count. The Bhāṣya's four-versus-six distinction
-shows how an immediate emergence can be named from the full framework it
+shows how immediate emergence is designated through the full framework it
 establishes. In the project's root-framework reading, Dharma Essence takes
 up the sixfold Essence structure. Feeling and Formations remain within that
-wider framework but are discriminated as distinct members in the
-twelve-member sequence.
+wider framework but retain distinct positions in the twelve-member
+sequence.
+
+### Contact as a relation
 
 The horizontal structure is the sixfold range of cognitive access. The
 vertical movement is from that organized capacity to the actual conjunction
@@ -114,7 +118,11 @@ of Faculty, Condition, and Discriminative Cognition, and then to the
 capacity for discriminating the causes of Feeling. Contact is not the
 Essence-stage itself or one of the triad's members; it is the relation
 arising from their conjunction. The higher discriminative capacity marks a
-further phase rather than dissolving the earlier distinctions.
+further phase rather than dissolving the earlier distinctions. The sequence
+thus determines Objective Dharmas through their boundaries and relations,
+not as a flat inventory.
+
+### Vijñāna in the wider Kośa
 
 At the level of the Kośa's wider cognitive architecture, Vijñāna is
 Discriminative Cognition joining and governing Perception and Conception;

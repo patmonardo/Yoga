@@ -235,7 +235,7 @@ arhat case retains an explicitly reported disagreement.
 For ordinary gradual death, the Bhāṣya adds:
 
 ```text
-excess predominance of water, fire, or wind domain
+excess predominance of the water, fire, or wind Principles
     → severe impairment of vital points
         → intense pain and loss of function
             → death
@@ -247,57 +247,9 @@ derives the pattern by analogy with dissolution of the container-world.
 
 ## 9. Interpretive Note
 
-VAK 3.43 continues the Kośa's Practical Theory of Consciousness by mapping
-body-disposal as a typed operation. The text does not simply announce that
-mind leaves the body. It distinguishes sudden from gradual termination,
-specifies the cognitive state compatible with departure, correlates bodily
-locus with destination, and preserves dissent where the arhat's locus is
-disputed.
-
-The most important interpretive restraint is also the most revealing. Feet,
-navel, and heart are not a universal ascent-channel. They are alternative
-terminal addresses selected by destination within the Bhāṣya's model. We
-should therefore not import a suṣumnā sequence into the primary reading.
-
-Within the Agent projection:
-
-```ts
-interface GradualEmbodimentRelease {
-  transitionMode: "gradual";
-  destination: "lower" | "human" | "deva" | "no-rebirth";
-  cessationLocus: "feet" | "navel" | "heart" | "crown";
-  locusAuthority: "principal" | "alternative";
-}
-```
-
-This remains an Organon reconstruction. It makes explicit that destination
-and bodily locus are linked fields, while the crown reading belongs only to an
-alternative authority.
-
-The support relation from 3.41–3.42 remains active. As the bodily faculty
-contracts, consciousness bound to that support undergoes its final operation.
-Body and mental differentiated cognition are not two independent objects
-whose later separation is unexplained. Their reciprocal support is precisely
-what changes at death.
-
-The arhat's indeterminate final mind gives another important determination.
-Final extinction is not described here as the triumph of an acutely heroic
-mental state. It occurs through a weak cognitive register compatible with the
-cutting of the series. The operation is terminal because it no longer projects
-or nourishes another becoming.
-
-For semantic modeling, `marmaccheda` reinforces a rule already established by
-the food verses: technical classification follows function, not surface image.
-The vital point is called “cut” because it ceases to function, not because it
-has been divided like timber. The Kośa continually moves from ordinary words
-to operational discrimination.
-
-This study was developed solely from the 3.43 Kārikā, its Bhāṣya, the local
-primary Sanskrit, and established controlled vocabulary. The user's concurrent
-verse-20 research has been kept outside this interpretive unit as requested.
+The Bhāṣya distinguishes sudden from gradual termination, correlates the gradual departure-locus with destination, and preserves alternatives where the Arhat's locus is disputed. These bodily loci are not a universal ascent sequence; that comparison would exceed the source.
 
 ## 10. OWL++ Seed
-
 ```ttl
 @prefix vak: <http://127.0.0.1:3000/vak#> .
 @prefix loka: <http://127.0.0.1:3000/loka#> .

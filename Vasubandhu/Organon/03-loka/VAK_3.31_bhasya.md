@@ -17,6 +17,20 @@ unit. This unit begins with the verse at 144.18, explains the three
 feeling-bearing Contacts, totals the sixteen classifications, and closes the
 Contact exposition at `uktaḥ sparśaḥ`.
 
+### Bhāṣya-informed study translation
+
+> The same six Contacts are classified by association: Contact with knowledge
+> is **without Influx**; Contact with ignorance is **afflicted**; and Contact
+> with neither is the **remainder**, comprising wholesome-with-Influx and
+> non-obstructive-indeterminate Contact. A frequently occurring portion of
+> ignorance-Contact is further differentiated into ill-will and attachment
+> Contacts. All Contacts may also be gathered by the feeling they bear or
+> occasion: pleasant, painful, or neither-painful-nor-pleasant.
+
+The exact determination of the remainder, the restricted source of the
+ill-will/attachment pair, and the derivation of `vedanīya` are Bhāṣya
+determinations.
+
 ## 2. Continuous Sanskrit
 
 ```iast

@@ -16,6 +16,21 @@ and sustained life, it states why four nutriments are singled out, assigns
 each its predominant function, and tests the functional definition through
 four-cornered cases and the nutriment of hell beings.
 
+### Bhāṣya-informed study translation
+
+> Two nutriments principally maintain existence already arisen: morsel
+> nutriment nourishes the support, the body endowed with faculties, while
+> contact nourishes what depends upon that support, consciousness and its
+> associated mental operations. The other two principally bring about
+> existence not yet arisen: mental volition projects renewed becoming, and
+> from the seed of differentiated cognition conditioned by karma the projected
+> becoming emerges. Thus the four are ordered respectively as bodily
+> maintenance, citta-caitta maintenance, projection of another becoming, and
+> production of that projected becoming.
+
+The identifications of support and supported, the four exact assignments, and
+the karma-conditioned `vijñāna`-seed are Bhāṣya determinations.
+
 ## 2. Continuous Sanskrit
 
 ```iast
@@ -98,7 +113,7 @@ the verse's `ākṣepa-nirvṛtti` compound, and the expressions for molten copp
 and the five destinies. The stories, the four-cornered analysis, and the hell
 discussion remain provisional pending critical comparison.
 
-## 3. Continuous Conventional Translation
+## 3. Scientific English Rendering
 
 How many nutriments serve the persistence of beings, and how many support
 those seeking birth? The Vaibhāṣikas say that all four serve both purposes.

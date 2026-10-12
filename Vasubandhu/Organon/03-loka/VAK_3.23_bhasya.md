@@ -91,11 +91,16 @@ relation from collapsing into a fixed target of attention.
 
 ## 5. Interpretation
 
+### Three functional thresholds
+
 The lower boundary of the Feeling-stage is the capacity to discriminate the
 causes of the three Feelings, inherited from VAK 3.22. Its upper boundary is
 the active manifestation of sexual passion. Thus Feeling is not already
 Craving: the stages are discriminated by operation, not merely ranked as
-increasing intensities.
+increasing intensities. They are objective distinctions in the conditioned
+sequence, not a universal psychological or age timetable.
+
+### Craving and organized pursuit
 
 The horizontal reach becomes explicit in Appropriation: pursuit extends in
 all directions to attain the Condition. But its direction is supplied by
@@ -103,11 +108,15 @@ Craving. This outward expansion is not itself vertical knowing. The earlier
 capacity to discriminate causes and the later activity of pursuit must
 remain distinct.
 
+### Feeling within the root-framework
+
 Within the project's root-framework reading, Dharma Essence integrates the
 sixfold Essence structure while Feeling remains a distinct determination
 within the wider framework. Here Feeling is given its own stage, boundary,
 and relation to passion. Integration does not collapse its role into the
 six Essences or into Craving.
+
+### Vijñāna in the wider Kośa
 
 At the level of the Kośa's wider cognitive architecture, Vijñāna is
 Discriminative Cognition joining and governing Perception and Conception;

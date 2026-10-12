@@ -96,11 +96,11 @@ remaining water are Bhāṣya determinations.
 ## 6. Philosophical Translation
 
 > The common world-field advances from support to formation, containment, and
-> transformation. Upon the wind-domain, water gathers into a measured whole.
+> transformation. Upon the wind-maṇḍala, water gathers into a measured whole.
 > Its persistence calls for a retaining condition; its upper portion is then
 > transformed by karmically generated winds into a stable golden ground. The
 > Physical World is therefore constructed neither by a bare inventory of
-> elements nor by simple stacking. Each new domain arises through an operation
+> substances nor by simple stacking. Each new support layer arises through an operation
 > that determines how the preceding field is gathered, retained, and converted
 > into a support for what follows.
 
@@ -108,11 +108,11 @@ remaining water are Bhāṣya determinations.
 
 | Sanskrit | Controlled rendering | Determination in this unit |
 |---|---|---|
-| ap-maṇḍala / jala-maṇḍala | water-maṇḍala | second great support-domain, formed above the wind-maṇḍala |
-| udvedha | vertical extent | total depth of the water-domain before transformation |
+| ap-maṇḍala / jala-maṇḍala | water-maṇḍala | second great support layer, formed above the wind-maṇḍala |
+| udvedha | vertical extent | total depth of the water-maṇḍala before transformation |
 | ucchraya | height / elevation | vertical measure of the portion becoming gold |
 | śeṣa | remainder | the 320,000-yojana water layer left after transformation |
-| kāñcana | gold / golden substance | transformed upper portion of the water-domain |
+| kāñcana | gold / golden substance | transformed upper portion of the water-maṇḍala |
 | kāñcanamayī mahī | golden earth | stable golden ground above the remaining waters |
 | karmādhipatya | governing efficacy of karma | principal explanation for the waters' ordered persistence |
 | karmaprabhāva | power of karma | source of the winds effecting transformation |
@@ -124,14 +124,14 @@ remaining water are Bhāṣya determinations.
 The complete measure is:
 
 ```text
-original water-domain          1,120,000 yojanas
+original water-maṇḍala          1,120,000 yojanas
 upper portion becoming gold      800,000 yojanas
 water remaining                  320,000 yojanas
 ```
 
 ## 8. Logical Determination
 
-### Formation of the water-domain
+### Formation of the water-maṇḍala
 
 ```text
 karma of beings
@@ -173,13 +173,13 @@ between the two local explanations.
 
 ```text
 karma-produced winds
-    → turning of the water-domain
+    → turning of the water-maṇḍala
         → upper water becomes golden
             → golden earth rests above remaining water
 ```
 
 Gold is not introduced here as an externally added third layer. It is a new
-support-determination generated from the upper portion of the water-domain.
+support-determination generated from the upper portion of the water-maṇḍala.
 
 ### Conservation of measure
 
@@ -194,51 +194,7 @@ changes the determination of a portion without erasing the measured whole.
 
 ## 9. Interpretive Note
 
-VAK 3.46 improves the Physical World account in two ways. First, it shows that
-`saṃniveśa`, configuration, is genetic: clouds form, rain accumulates, winds
-turn the waters, and golden earth results. Second, the Bhāṣya subjects the
-received cosmology to a coherence test. A world-model must explain not only
-which domains exist, but how a domain retains its organization.
-
-This yields a useful sequence:
-
-```text
-formation
-    → containment
-        → transformation
-            → new support
-```
-
-The two containment accounts should remain distinct. `Karmādhipatya` names the
-governing causal efficacy of the collective sentient field. The Nikāyāntarīya
-model names an intermediate physical mechanism—wind holds the water like a
-receptacle. They can be related, especially because the transforming winds are
-themselves karmically generated, but the Bhāṣya does not simply identify the
-two explanations.
-
-For the Organon, the strongest transferable determination is that the common
-world has to be both generated and maintained:
-
-```ts
-interface GeneratedSupportLayer {
-  priorSupport: "wind-mandala";
-  formedDomain: "water-mandala";
-  retentionAccount: "karmic-governance" | "wind-enclosure";
-  transformedPortion: "golden-earth";
-  remainingPortion: "water";
-}
-```
-
-This is an explanatory projection, not Vasubandhu's terminology. It preserves
-the passage's causal levels and the reported disagreement. It also carries
-forward the result of the Human World analysis without forcing an analogy:
-the karma of sentient trajectories does not merely select locations within a
-ready-made physical container; it participates in the formation, stability,
-and transformation of that shared container.
-
-The passage still does not derive space itself from karma. The wind-domain was
-said to be established in space; here the layered container is constructed
-within that framework. The status of space should remain an open question.
+At the project level, retain the distinction between collective karmic governance and the reported wind-containment account while tracing formation, maintenance, and transformation. This passage does not derive space itself from karma.
 
 ## 10. OWL++ Seed
 
@@ -255,14 +211,14 @@ vak:VAK_3_46
     vak:preservesAlternative loka:WindEnclosureAccount .
 
 loka:WaterMandala
-    a loka:SupportDomain ;
+    a loka:SupportLayer ;
     loka:restsUpon loka:WindMandala ;
     loka:hasOriginalDepthYojanas 1120000 ;
     loka:hasRemainingDepthYojanas 320000 ;
     loka:hasRetentionCondition loka:CollectiveKarmicEfficacy .
 
 loka:GoldenEarth
-    a loka:TransformedSupportDomain ;
+    a loka:TransformedSupportLayer ;
     loka:hasDepthYojanas 800000 ;
     loka:arisesFrom loka:UpperWater ;
     loka:restsUpon loka:RemainingWater .

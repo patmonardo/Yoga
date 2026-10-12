@@ -22,7 +22,7 @@ tri-kāṇḍakaḥ            → trikāṇḍakaḥ
 pūrva-apara-antayoḥ     → pūrvāparāntayoḥ
 dve dve                 → dve dve
 madhye                  → madhye
-aṣṭau                   → 'ṣṭau
+aṣṭau                   → aṣṭau
 paripūriṇaḥ             → paripūriṇaḥ
 ```
 
@@ -68,29 +68,72 @@ three sections as past, future, and present births.
 
 ### Close syntactic rendering
 
-> That *samutpāda* is twelve-membered and three-sectioned: two at each of the
-> prior and subsequent limits, and eight in the middle for one who completes
-> the course.
+> That conditioned arising is twelve-membered and three-sectioned: two at
+> each of the prior and subsequent limits, and eight in the middle for one
+> who completes the course.
 
 ### Bhāṣya-informed study translation
 
-> The Base-continuum already described across three births is *samutpāda*
-> articulated in twelve members and three sections: two at the past and
-> future limits, and eight in the present course of one who completes all
-> successive states.
+> The Base-continuum already described across three births is the
+> conditioned arising, articulated in twelve members and three sections:
+> two at each of the past and future limits, and eight in the present course
+> of one who completes all successive states.
 
-## 6. Scope Note
+## 6. Philosophical Translation
 
-The kārikā itself does not enumerate the twelve members or identify the
-sections with past, future, and present births. Those are Bhāṣya
-determinations. The Bhāṣya also qualifies the complete eight-member middle:
-it does not occur in every birth.
+> The Base-continuum already described across three births is conditioned
+> arising, articulated into twelve members and three temporal sections. Two
+> members mark the prior limit, eight occupy the present middle of a
+> complete course, and two mark the subsequent limit.
 
-The Cognition member is rendered **Cognition**, not consciousness or Mind.
-The Kośa's wider cognitive architecture must remain distinct from this
-verse's local enumeration.
+## 7. Technical Vocabulary
 
-## 7. OWL++ Seed
+| Sanskrit | Controlled rendering | Determination in this passage |
+|---|---|---|
+| `pratītya-samutpāda` | conditioned arising | the twelve-member course under its conditions |
+| `dvādaśāṅga` | twelve-membered | the count of members in the arrangement |
+| `trikāṇḍaka` | three-sectioned | past, present, and future births, as specified by the Bhāṣya |
+| `pūrvāparāntayoḥ` | at the prior and subsequent limits | two members at each temporal boundary |
+| `paripūriṇaḥ` | for one who completes the course | limits the complete eight-member middle; the Bhāṣya excludes one who dies in the interval and those in the Form or Formless Realms |
+| `vijñāna` | Discriminative Cognition | one of the eight members in the present middle |
+
+## 8. Logical Determination
+
+```text
+Past birth — prior limit
+    Ignorance
+    Formations
+
+Present birth — middle
+    Discriminative Cognition
+    Name-and-Form
+    six Essences
+    Contact
+    Feeling
+    Craving
+    Appropriation
+    Becoming
+
+Future birth — subsequent limit
+    Birth
+    Aging-and-Death
+```
+
+The kārikā fixes the distribution at 2 / 8 / 2. The Bhāṣya assigns the
+three sections and their members, and restricts the complete middle course
+to one who encounters all its successive states.
+
+## 9. Interpretive Note
+
+The past, present, and future sections are temporal divisions, not the
+three BEP projections. The Bhāṣya's “person” marks the scope of the complete
+course, not a separate traveler. It excludes one who dies in the interval
+and those in the Form or Formless Realms. The verse names Discriminative
+Cognition as one member; the Kośa's wider account of Vijñāna joining and
+governing Perception and Conception is not expanded here. Keep it distinct
+from consciousness (*citta*) and Mind (*manas*).
+
+## 10. OWL++ Seed
 
 ```ttl
 @prefix vak: <http://127.0.0.1:3000/vak#> .

@@ -77,7 +77,7 @@ for each determination are supplied by the Bhāṣya.
 > by trajectory rather than by a merely present mental state. One course has
 > become irreversible toward the exhaustion of affliction; another has become
 > fixed toward a destructive maturation; the remaining course is still open
-> to determination through conditions. The third domain is therefore not an
+> to determination through conditions. The third class is therefore not an
 > empty remainder. It is the field in which Practical Reason can alter the
 > Agent's course before it becomes fixed.
 
@@ -190,42 +190,7 @@ of the two specified fixed forms.
 
 ## 9. Interpretive Note
 
-VAK 3.44 completes the Kośa's first account of the sentient world by adding
-path-orientation to genesis, persistence, and death. The decisive category is
-`niyata`: the question is not simply what an Agent presently thinks or does,
-but whether its causal trajectory has become fixed toward one of two termini.
-
-This makes the otherwise unstated third member philosophically central. The
-`aniyata` Agent remains condition-dependent. That is the domain in which
-instruction, practice, circumstance, and action can still redirect the
-course. A technical Agent projection can preserve the distinction:
-
-```ts
-type TrajectoryStatus =
-  | "fixed-right"
-  | "fixed-wrong"
-  | "condition-dependent";
-
-interface SentientWorldAgent {
-  trajectory: TrajectoryStatus;
-  determinationGround: "path-without-outflows" | "immediate-action" | "conditions";
-}
-```
-
-This is an Organon reconstruction, not terminology attributed to Vasubandhu.
-Its purpose is to retain the difference between a present property, an
-eventual result, and a presently fixed course.
-
-The Bhāṣya then marks the architectural boundary without ambiguity:
-
-```text
-the sentient world has been explained
-    → the container-world is now to be explained
-```
-
-Thus 3.44 is the final determination of the Human World block, while 3.45
-opens the Physical World. The line concerning vital-point impairment found in
-the preliminary Kārikā witness belongs to 3.43; it is not part of this verse.
+At the project level, the sentient-world account distinguishes fixed trajectory from condition-dependent course. The Bhāṣya’s transition to the container-world marks the boundary between those inquiries; the Agent schema is an Organon model, not Vasubandhu’s terminology.
 
 ## 10. OWL++ Seed
 

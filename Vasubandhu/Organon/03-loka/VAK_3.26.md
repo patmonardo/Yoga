@@ -252,70 +252,11 @@ inference, while `madhyānumāna` supplies its empirical footing.
 
 ## 9. Interpretive Note
 
-This verse gives remarkably direct support to our long-standing architecture:
-
-```text
-hetu
-    productive ground
-
-phala
-    conditioned result
-
-āśraya
-    footing on which renewed determination operates
-
-anumāna
-    inferential comprehension of their relation
-```
-
-`Vastu` means Thing or basis, not an inert substance or Object, the
-comprehended truth of a Vastu. Here the Bhāṣya specifies the seven members'
-support-function: affliction and karma operate in dependence on them. Yet
-those same members are results of prior affliction and karma. Thus Ground
-and consequence exchange functional place across the cycle:
-
-```text
-prior cause
-    → present result
-    → present support
-    → renewed cause
-    → future result
-```
-
-This is why the Kośa has more skin in the game than a general statement that
-action has consequences. It identifies the exact members functioning as
-cause, the members functioning as result, and the conversion through which a
-result becomes the platform of further action.
-
-The middle is simultaneously ontological and epistemic:
-
-```text
-ontological middle:
-    inherited result becomes renewed cause
-
-epistemic middle:
-    the hidden two limits become rationally inferable
-```
-
-For the Organon, the present middle is the manifested point from which its
-otherwise unobserved temporal limits can be reconstructed. The prior limit
-need not be remembered as a biography, nor the future limit seen as a
-spectacle. Their causal structure is inferable from the conditionality of the
-middle.
-
-**Project-level transcendental time schema.** Read with VAK 3.25, the three
-temporal positions are not merely calendar slots. The present middle contains
-both inherited results and renewed causes, making the prior and future limits
-intelligible by inference. In the project's sense, this is a transcendental
-schema: it articulates the conditions under which temporal continuity can be
-known. The Bhāṣya itself calls this inference from the middle, not a
-“transcendental time schema.”
-
-This sharpens the Atman-adhyāsa reading: what is mistaken for a
-self-sustaining identity is analyzed as conditioned results becoming support
-for renewed causes. That is our project-level diagnosis; the text's direct
-claim is that the expanded causal structures at both limits can be inferred
-from the middle.
+In the Organon's Ground–Condition reading, the middle is both a present
+result that supports renewed causes and the evidential basis for inferring
+the prior and future limits. Calling this a “transcendental time schema” or
+reading it as a diagnosis of Atman-adhyāsa is project-level interpretation;
+the Bhāṣya directly establishes inference from the middle.
 
 ## 10. OWL++ Seed
 

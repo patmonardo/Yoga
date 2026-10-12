@@ -16,6 +16,17 @@ additional thirteenth cause, nor aging-and-death an additional result: the
 functional transitions among affliction, karma, and Vastu-support already
 reconnect the sequence.
 
+### Bhāṣya-informed study translation
+
+> Affliction can generate another affliction or karmic action; karmic action
+> generates Vastu in its support-function; that Vastu develops into further
+> Vastu and also supports renewed affliction. This
+> recursive causal grammar governs the twelve members and reconnects their
+> apparent beginning and end without requiring any additional member.
+
+The five transition-types, their concrete member-pairs, and the response to
+the boundary objection are Bhāṣya determinations.
+
 ## 2. Continuous Sanskrit
 
 > yadi khalu dvādaśāṅga eva pratītyasamutpādaḥ, evaṃ saty avidyāyā

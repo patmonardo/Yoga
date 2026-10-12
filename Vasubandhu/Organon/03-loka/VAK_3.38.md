@@ -128,12 +128,12 @@ determinations.
 | tridhā | threefold | wholesome, defiled, or indeterminate |
 | kuśala | wholesome | first possible status of the other three becomings |
 | avyākṛta | indeterminate | neither wholesome nor unwholesome result-producing status |
-| ārūpyadhātu | formless realm | non-spatially delimited domain in which intermediate becoming is absent |
+| ārūpyadhātu | formless realm | non-spatially delimited realm in which intermediate becoming is absent |
 | sthānāntaraparicchinna | delimited as another place | condition denied of the formless realm |
 | āhāra | nutriment | condition through which an arisen sentient World persists |
 | sthiti | station / persistence | continued maintenance after arising |
 | āhārasthitika | persisting through nutriment | predicate of the sentient World |
-| jagat | World | conditioned domain of sentient existence considered in its persistence |
+| jagat | World | conditioned field of sentient existence considered in its persistence |
 
 The two governing questions are distinct:
 
@@ -215,69 +215,10 @@ verses.
 
 ## 9. Interpretive Note
 
-This is the proper final structural hinge before the cosmographic expansion.
-The World System has now been given both a genesis and a maintenance law:
-
-```text
-World comes into operation
-    through dependent co-arising
-
-World remains in operation
-    through nutriment
-```
-
-“Food” is therefore much larger than edible matter. The continuing Bhāṣya
-announces four nutriments: material morsel, contact, mental volition, and
-differentiated cognition. Material embodiment must be fed, but so must the
-affective, purposive, and cognitive organization through which an Agent
-remains stationed in a World.
-
-This extends the Yoga Citta Theory into a Practical Theory of maintenance:
-
-```text
-embodied support
-    + contact support
-    + purposive support
-    + cognition support
-        → continued Agent station
-```
-
-The list is a Bhāṣya-forward bridge, not wording contained in the Kārikā's
-single compound. Its philosophical importance is already contained in
-`āhārasthitika`: persistence is relational and continuously conditioned.
-
-For the Oculus architecture, a generated View does not remain available merely
-because it was once produced. It requires continuing supports:
-
-```ts
-interface StationMaintenance {
-  embodiedNutriment: MaterialSupport;
-  contactNutriment: ContactSupport;
-  volitionalNutriment: PurposiveSupport;
-  cognitionNutriment: DifferentiatedCognitionSupport;
-}
-```
-
-This is an Organon projection, not Vasubandhu's terminology. It distinguishes
-construction from retention. A pipeline that can generate Meaning but cannot
-sustain its conscious, purposive, and evidential relations has not yet built a
-World System.
-
-The first half of the verse also sharpens Learning. At the weak station of
-rebirth-linking, what has been frequently enacted and lies nearest becomes
-operative through prior momentum. Saṃskāra-like habituation is not a passive
-archive: history becomes selection pressure upon the next station.
-
-Yet the subsequent life-course is not condemned to one ethical value. The
-other modes of becoming remain threefold. A defiled entry condition does not
-make every later operation necessarily defiled; wholesome transformation
-remains structurally available within the embodied course.
-
-Finally, the absence of intermediate becoming in the formless realm confirms
-that the World System is not a naive geography. Transition is required where
-there is a determinate passage between spatial destinations. Where no such
-spatial difference obtains, the intermediate mode has no work to perform.
-Vasubandhu's cosmology is already a functional topology.
+At the project level, this verse distinguishes production from persistence:
+dependent co-arising explains arising, while nutriment explains continued
+station. The Bhāṣya's fourfold nutriment analysis follows in the next Studies;
+it should not be imported into the Kārikā's brief statement.
 
 ## 10. OWL++ Seed
 

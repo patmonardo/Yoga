@@ -70,8 +70,8 @@ junction but does not state its endpoint.
 ### Close syntactic rendering
 
 > The state of former afflictions is Ignorance; Formations are the state of
-> former Karma. But the junction Bases are Discriminative Cognition; after
-> this comes Name-and-Form.
+> former Karma. The junction Bases, however, are Discriminative Cognition;
+> thereafter comes Name-and-Form.
 
 ### Bhāṣya-informed study translation
 
@@ -83,17 +83,52 @@ junction but does not state its endpoint.
 > Cognition. Name-and-Form follows that junction; the next verse specifies
 > the boundary of this stage.
 
-## 6. Scope Note
+## 6. Philosophical Translation
 
-The Bhāṣya establishes the “state” reading, the association of other
-afflictions with Ignorance, the maturation of former Karma, and the five-Base
-character of the junction designated Discriminative Cognition. The endpoint
-of Name-and-Form belongs to VAK 3.22.
+> Ignorance designates the former state of affliction, and Formations the
+> former state of Karma. At the rebirth-junction, the five Bases are
+> designated Discriminative Cognition; Name-and-Form follows that junction.
 
-Here *vijñāna* is rendered Discriminative Cognition, not consciousness
-(*citta*) or Mind (*manas*).
+## 7. Technical Vocabulary
 
-## 7. OWL++ Seed
+| Sanskrit | Controlled rendering | Determination in this passage |
+|---|---|---|
+| `daśā` | state | Bhāṣya-confirmed reading in the first pāda; not the numeral ten |
+| `avidyā` | Ignorance | designation of the former afflictive state |
+| `saṃskāra` | Formations | designation of the former karmic state whose result matures here |
+| `saṃdhiskandha` | junction Base | the Base configuration at rebirth-linking |
+| `vijñāna` | Discriminative Cognition | designation of the five Bases together at the junction |
+| `nāmarūpa` | Name-and-Form | the stage following the rebirth-junction |
+
+## 8. Logical Determination
+
+```text
+former afflictive state
+    → Ignorance
+
+former karmic state
+    → Formations
+
+five Bases at rebirth-junction
+    → Discriminative Cognition
+
+after the junction
+    → Name-and-Form
+    → its boundary is specified in VAK 3.22
+```
+
+The verse orders designations across former and present births. It does not
+make Formations and the junctional Cognition simultaneous, nor posit a
+substance that travels between them.
+
+## 9. Interpretive Note
+
+The Bhāṣya confirms *daśā*, “state,” rather than *daśa*, “ten”; the precise
+compound division remains editorial. Here *vijñāna* designates the junctional
+five-Base configuration and remains distinct from consciousness (*citta*)
+and Mind (*manas*).
+
+## 10. OWL++ Seed
 
 ```ttl
 @prefix vak: <http://127.0.0.1:3000/vak#> .

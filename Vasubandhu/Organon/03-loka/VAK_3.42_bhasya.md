@@ -4,7 +4,7 @@
 
 ```iast
 chedasaṃdhāna vairāgyahānicyutyupapattayaḥ /
-manovijñāna eveṣṭā upekṣāyāṃ cyutodbhavau // 3.42 //
+manovijñāna eveṣṭāḥ upekṣāyāṃ cyutodbhavau // 3.42 //
 ```
 
 > Cutting, reconnection, dispassion, decline, death, and rebirth are accepted
@@ -15,6 +15,22 @@ The Bhāṣya expands the six compressed events, assigns them exclusively to
 mental cognition, includes the linking of intermediate existence under
 rebirth, and determines the feeling accompanying death and arising as
 neither-painful-nor-pleasant.
+
+### Bhāṣya-informed study translation
+
+> The cutting off of wholesome roots, their reconnection, dispassion from a
+> realm or level, decline from an attainment, death, and rebirth occur only
+> while mental differentiated cognition is operative. Rebirth here includes
+> the linking of intermediate existence. Death and arising occur only with
+> neither-painful-nor-pleasant feeling, whose non-acute character is compatible
+> with transition. They do not occur while consciousness is concentrated in
+> samādhi, nor while mind is absent: when a mindless being's bodily support
+> begins its fatal alteration, mind bound to that support must first become
+> manifest, and death follows only afterward.
+
+The expansions of the six events, the technical determination of equanimity,
+and the exclusions of concentrated and mindless states are Bhāṣya
+determinations.
 
 ## 2. Continuous Sanskrit
 
@@ -49,7 +65,7 @@ endings. The continuous text regularizes these provisionally. The opening
 summary of persistence and death, and the exact force of `paṭu` and `apaṭu`,
 require comparison with critical witnesses.
 
-## 3. Continuous Conventional Translation
+## 3. Scientific English Rendering
 
 It has been explained how dependent co-arising operates for sentient beings
 and how they persist. Death through such causes as the exhaustion of lifespan
@@ -131,7 +147,7 @@ antarābhava-pratisaṃdhi
 ```
 
 This carry-forward connects VAK 3.42 with the preceding identification of the
-birth-seeking intermediate being. The transition into intermediate existence
+birth-seeking Intermediate Becoming. The transition into intermediate existence
 is already a rebirth-linking event for purposes of the cognitive-locus rule.
 
 The inclusion does not erase the distinction between intermediate emergence
@@ -198,7 +214,7 @@ global reconfiguration rather than local sensory registration:
 
 ```text
 sensory cognition
-    registers a domain-specific presentation
+    registers a realm-specific presentation
 
 mental differentiated cognition
     can alter ethical capacity

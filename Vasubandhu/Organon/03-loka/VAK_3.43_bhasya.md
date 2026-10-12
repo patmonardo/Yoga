@@ -16,6 +16,23 @@ Bhāṣya supplies the arhat as the subject of `nirvāti`, identifies the two
 indeterminate minds, distinguishes sudden from gradual death, and correlates
 the three bodily loci with different destinations.
 
+### Bhāṣya-informed study translation
+
+> Death and rebirth do not occur while consciousness is one-pointedly
+> concentrated or while mind is absent. The arhat enters final extinction in
+> one of two indeterminate minds: a mind associated with ordinary bodily
+> deportment or a maturation-result consciousness. In sudden death, the bodily
+> faculty together with mind disappears abruptly. In gradual death, the final
+> cessation of differentiated cognition occurs at a bodily locus correlated
+> with destination: at the feet for one going to a lower destiny, at the navel
+> for one going to human birth, and at the heart for one going to deva birth.
+> For an arhat, the principal account also gives the heart; another opinion
+> gives the crown of the head.
+
+The arhat as supplied subject, the two indeterminate minds, the distinction
+between sudden and gradual death, and the destination–locus mapping are Bhāṣya
+determinations.
+
 ## 2. Continuous Sanskrit
 
 ```iast
@@ -75,7 +92,7 @@ forms. This continuous text regularizes punctuation and evident sandhi, and
 provisionally repairs the phrase comparing the pain to the impact of a sharp
 weapon. These repairs require control against critical Sanskrit witnesses.
 
-## 3. Continuous Conventional Translation
+## 3. Scientific English Rendering
 
 Even there—that is, even in mental differentiated cognition—these two do not
 occur in concentrated consciousness or in a mindless state. “These two” means
@@ -121,11 +138,11 @@ Among living beings, gradual death commonly occurs when they are struck down
 by the impairment of vital points and by painful feeling. Certain regions of
 the body bring about death when they are damaged; these are therefore called
 vital points. They appear to be cut when one of the water, fire, or wind
-domains becomes excessively predominant, bringing intense pains like the
+Principles becomes excessively predominant, bringing intense pains like the
 impact of a sharp weapon. They are not literally cut as wood is cut. They are
 called “cut” because afterward they no longer function, as though cut.
 
-Why is the earth domain not included? Because there is no fourth bodily
+Why is the Earth Principle not included? Because there is no fourth bodily
 disorder: the disorders are the three—wind, bile, and phlegm—and, as
 appropriate, these are principally associated with the wind, fire, and water
 domains. Others explain the matter by analogy with the forces that dissolve
@@ -272,9 +289,9 @@ The principal explanation coordinates three disorders and three predominant
 domains:
 
 ```text
-wind disorder     → wind domain
-bile disorder     → fire domain
-phlegm disorder   → water domain
+wind disorder     → wind Principle
+bile disorder     → fire Principle
+phlegm disorder   → water Principle
 ```
 
 Because this medical scheme recognizes three disorders and no fourth, earth

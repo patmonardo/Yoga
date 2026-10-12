@@ -11,7 +11,15 @@ lakṣadvādaśakaṃ caiva jalakāñcanamaṇḍalam // 3.47 //
 > three thousand, and four hundred fifty yojanas.
 
 The Bhāṣya makes one concise but decisive clarification: the water and golden
-domains have the same horizontal extent.
+maṇḍalas have the same horizontal extent.
+
+### Bhāṣya-informed study translation
+
+> The water-maṇḍala and golden-earth maṇḍala have the same horizontal extent:
+> each measures 1,203,450 yojanas across.
+
+Their equality in breadth, the supplied yojana unit, and the distributive
+application of the one measure to both maṇḍalas are Bhāṣya determinations.
 
 ## 2. Continuous Sanskrit
 
@@ -25,11 +33,11 @@ Samānaṃ hy etad ubhayaṃ vistārataḥ.
 The running witness is mechanically clear in this brief unit. Punctuation
 and word division have been regularized without altering its substance.
 
-## 3. Continuous Conventional Translation
+## 3. Scientific English Rendering
 
 The water-and-gold maṇḍala measures transversely twelve hundred-thousand,
 three thousand, and four hundred fifty yojanas. For these two—the water
-domain and the golden domain—are equal in breadth.
+maṇḍala and the golden maṇḍala—are equal in breadth.
 
 The next phrase in the running source states that the surrounding measure is
 threefold. That phrase is the opening of VAK 3.48 and is therefore not folded
@@ -43,7 +51,7 @@ The commentary performs a single exegetical operation:
 compound subject
     jala-kāñcana-maṇḍala
 
-resolved as two domains
+resolved as two maṇḍalas
     water-maṇḍala + golden-earth maṇḍala
 
 one shared measure
@@ -76,16 +84,16 @@ selects the horizontal rather than vertical axis.
 
 ## 6. Vertical Difference and Horizontal Equality
 
-VAK 3.46 differentiated the two domains vertically:
+VAK 3.46 differentiated the two maṇḍalas vertically:
 
-| Domain | Vertical extent |
+| Maṇḍala | Vertical extent |
 |---|---:|
 | remaining water | 320,000 yojanas |
 | golden earth | 800,000 yojanas |
 
 VAK 3.47 now relates them horizontally:
 
-| Domain | Transverse extent |
+| Maṇḍala | Transverse extent |
 |---|---:|
 | water-maṇḍala | 1,203,450 yojanas |
 | golden-earth maṇḍala | 1,203,450 yojanas |
@@ -103,7 +111,7 @@ supports under their common transverse measure.
 The Bhāṣya warrants a distributive reading:
 
 ```text
-the water and gold domains
+the water and gold maṇḍalas
     each possess the stated breadth
     and are horizontally coextensive
 ```
@@ -164,8 +172,8 @@ An Ocular representation would therefore not store a bare assertion such as
 “water equals gold.” It would preserve the relation and its dimension:
 
 ```text
-left domain      water-maṇḍala
-right domain     golden-earth maṇḍala
+left maṇḍala      water-maṇḍala
+right maṇḍala     golden-earth maṇḍala
 relation         equal extent
 selected axis    transverse breadth
 value            1,203,450 yojanas
@@ -184,7 +192,7 @@ system.
 
 This Study restores the complete compact VAK 3.47 unit at 158.16–158.18: the
 transverse measure of the water-and-gold support-system and the Bhāṣya's
-clarification that its two domains have equal breadth.
+clarification that its two maṇḍalas have equal breadth.
 
 The Sanskrit is comparatively secure in the running witness. The numerical
 construal, distributive force of `ubhayam`, and rendering of `vistāra` should

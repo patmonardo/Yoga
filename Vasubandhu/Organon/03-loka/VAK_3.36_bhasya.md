@@ -15,6 +15,21 @@ The Bhāṣya explains why the remaining members of dependent co-arising are not
 all repeated here, then differentiates five causal functions of affliction
 through five similes.
 
+### Bhāṣya-informed study translation
+
+> The remaining limbs are not all explained again here: some have already
+> been treated, while others will be treated in the Karma and Affliction
+> chapters. The present topic is Affliction. It is like a seed because it
+> generates further Affliction, Karma, and Thing; like a nāga because
+> it keeps the lake of birth from drying up; like an unextracted root because
+> the destinies grow again while it remains; like a tree because it repeatedly
+> produces flowers and fruits; and like a husk because Karma enclosed by the
+> acquisition of Affliction retains the capacity to germinate into another
+> birth, whereas Karma alone does not.
+
+The allocation of each precise causal function to its simile is supplied by
+the Bhāṣya.
+
 ## 2. Continuous Sanskrit
 
 ```iast

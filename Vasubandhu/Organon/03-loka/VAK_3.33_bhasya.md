@@ -18,6 +18,21 @@ intrinsically fixed as gladdening, distressing, or equanimous. It then begins
 the distribution of the eighteen rangings by realm-membership and
 realm-Condition.
 
+### Bhāṣya-informed study translation
+
+> All eighteen Mental Rangings occur in the desire realm, and the desire realm
+> can serve as the cognitive Condition for all eighteen. The Form realm can serve as
+> the range of twelve, because the six Rangings concerned with Smell and Taste
+> are excluded there. The higher, formless realm can serve as the range of
+> only the three Dharma-Rangings, because Form and the other sensory
+> Conditions are absent there. In the first two dhyānas, twelve Mental
+> Rangings occur—the six distress-Rangings being absent—and all twelve can
+> take the desire realm as their cognitive Condition.
+
+The identification of the omitted rangings, the reference of `rūpī` and
+`uttaraḥ`, and the interpretation of `kāmagāḥ` are Bhāṣya
+determinations.
+
 ## 2. Continuous Sanskrit
 
 ```iast
@@ -192,12 +207,12 @@ affective fixation
 `Saṃtāna` here is the relevant individual continuum. The same cognitive Condition
 need not occupy one invariant affective station for every continuum. This is
 not the claim that affect is arbitrary: the qualification relocates the
-determination from the isolated object to the relation between object and a
-continuum.
+determination from an isolated Condition to the relation between that
+Condition and a continuum.
 
 That result prepares the realm analysis. The range of a mental operation must
 be determined by its support, its realm-membership, the constitution of its
-object-field, and the continuum in which it occurs—not by one object-label
+Condition, and the continuum in which it occurs—not by one Condition label
 alone.
 
 ## 7. Realm-Connection and Cognitive Condition

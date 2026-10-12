@@ -14,6 +14,20 @@ are causes—three afflictions and two karmic members—while seven are both the
 results of prior causes and Vastu members supporting renewed affliction and
 karma.
 
+### Bhāṣya-informed study translation
+
+> Ignorance, Craving, and Appropriation have the functional nature of
+> **affliction**; formations and becoming have the functional nature of
+> **karma**. Discriminative Cognition, Name-and-Form, the six Essences,
+> Contact, Feeling, Birth, and Aging-and-Death are seven members with the
+> nature of **Vastu** (Thing or basis): the Bhāṣya explains that they support
+> affliction and karma. Those same seven are **results** of prior causes. The
+> past cause and future result are presented compactly because their expanded
+> structures can be inferred from the fully articulated present middle.
+
+The member-assignments, the `āśraya` function of `vastu`, and the reason for
+compression are Bhāṣya determinations.
+
 ## 2. Continuous Sanskrit
 
 > sa punar eṣa dvādaśāṅgaḥ pratītyasamutpādas trisvabhāvo veditavyaḥ:

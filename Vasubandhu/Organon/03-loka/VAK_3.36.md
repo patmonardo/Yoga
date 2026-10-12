@@ -2,17 +2,20 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
+
 > उक्तं च वक्ष्यते चान्यदत्र तु क्लेश इष्यते ।
 >
 > बीजवन्नागवन्मूलवृक्षवत्तुषवत्तथा ॥ ३.३६ ॥
 
 ## 2. Sanskrit (IAST)
 
+
 > uktaṃ ca vakṣyate cānyad atra tu kleśa iṣyate /
 >
 > bījavan nāgavan mūlavṛkṣavat tuṣavat tathā // 3.36 //
 
 ## 3. Lexical Analysis
+
 
 ```text
 uktam                       → uktaṃ
@@ -52,6 +55,7 @@ the Bhāṣya's `kleśo ... veditavyaḥ`. The five `-vat` forms predicate disti
 similarities of affliction rather than five names for one entity.
 
 ## 4. Grammar
+
 
 The first hemistich explains the selective scope of the present discussion:
 
@@ -95,6 +99,7 @@ topic and its analogical determinations.
 
 ## 5. Translation
 
+
 ### Close syntactic construe
 
 > Some [members] have been explained, and others will be explained. Here,
@@ -116,7 +121,21 @@ topic and its analogical determinations.
 The allocation of each precise causal function to its simile is supplied by
 the Bhāṣya.
 
-## 6. Technical Vocabulary
+## 6. Philosophical Translation
+
+
+The five analogies articulate Affliction's different relations to the
+Affliction–Karma–Thing complex. The husk makes the condition especially
+clear: Karma joined with *kleśaprāpti* can germinate into another birth;
+Karma alone cannot. The verse presents causal efficacy, not a permanent
+bearer behind the sequence.
+
+The project-level causal reading is limited to this verse's distinction:
+Affliction conditions recurrence, but does not become a permanent bearer of
+the sequence.
+
+## 7. Technical Vocabulary
+
 
 | Sanskrit | Controlled rendering | Determination in this unit |
 |---|---|---|
@@ -150,7 +169,8 @@ vṛkṣa   → recurrent production
 tuṣa    → preservation of Karma's reproductive capacity
 ```
 
-## 7. Logical Determination
+## 8. Logical Determination
+
 
 ### Why the Kośa changes method here
 
@@ -229,32 +249,11 @@ removing the reproductive condition
 The wheel is not explained by the persistence of an unchanging Thing. It is
 explained by the retention and reactivation of causal capacity.
 
-## 8. Interpretation
+## 9. Interpretive Note
 
-The five analogies articulate Affliction's different relations to the
-Affliction–Karma–Thing complex. The husk makes the condition especially
-clear: Karma joined with *kleśaprāpti* can germinate into another birth;
-Karma alone cannot. The verse presents causal efficacy, not a permanent
-bearer behind the sequence.
 
-BEP is the Abhidharma, with Base, Essence, and Principle as its three levels
-of intuition. The further description of BEP as a Posited Process in Buddhi,
-with Buddhi as Agent of the Matrix, is a working formulation still in
-progress; BEP is not Mahat or the Matrix itself. The Dharma Chakra spans
-*saṃvṛti* and *paramārtha* as two determinations of
-the same reality, not two worlds or substances. The Absolute Base spans and
-combines Form Base and Dharma Base; this unity is Absolute Dharma,
-discriminating all Dharmas through Form and Law.
+## 10. OWL++ Seed
 
-The Kośa presents Vijñāna as Discriminative Cognition joining and governing
-Perception and Conception. Their unity is Inconceivable as a homogeneous
-operation; its Idea is disclosed in Vijñāna Base. Vijñāna governs Manas and
-guides the reading of Dharma Base, remaining distinct from *citta* and
-*manas*. Form Base and Dharma Base classify the same *avijñapti* in distinct
-ways, and Vijñāna bears a *prati* relation to it. Each Dharma has the Defined
-Concept `<Base, Essence, Principle>`.
-
-## 9. OWL++ Seed
 
 ```ttl
 @prefix vak: <http://127.0.0.1:3000/vak#> .

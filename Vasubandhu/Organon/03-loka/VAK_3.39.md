@@ -89,7 +89,7 @@ against that definition.
 > visible form does not support even its own faculty, the eye, in the act of
 > ingestion. When seeing attractive food occasions pleasure, the nourishing
 > factor is the pleasant-feeling-producing contact that takes the form as its
-> object-support, not the visible form itself. Liberated persons confirm the
+> cognitive Condition, not the visible form itself. Liberated persons confirm the
 > distinction: they may see pleasing food without receiving that sustaining
 > benefit from its appearance.
 
@@ -126,7 +126,7 @@ determinations.
 | indriya | faculty | one class of structures sustained by nutriment |
 | mahābhūta | great element | material basis sustained together with the faculties |
 | sukhavedanīya sparśa | pleasant-feeling-producing contact | actual nutriment when attractive appearance occasions pleasure |
-| ālambana | object-support | role of the visible form relative to pleasant contact |
+| ālambana | cognitive Condition | role of visible form relative to pleasant Contact |
 | mukta | liberated person | non-returner or arhat used to test the alleged sustaining power of appearance |
 
 The definition is functional:
@@ -184,20 +184,20 @@ supports(x, faculties + great elements)
     → eligibleFor(x, nutriment)
 ```
 
-Visible form fails this test. Its relation to the eye is that of object-field,
-not material sustenance.
+Visible form fails this test. Its relation to the Eye is as a cognitive
+Condition, not as material sustenance.
 
-### Object-support and nourishing operation must not be collapsed
+### Cognitive Condition and nourishing operation must not be collapsed
 
 ```text
 visible form
-    → object-support of pleasant contact
+    → cognitive Condition for pleasant Contact
 
 pleasant contact
     → nourishing operation
 
 therefore:
-    object-support of nourishment
+    cognitive Condition of the nourishing operation
         ≠ nourishing factor itself
 ```
 
@@ -220,67 +220,11 @@ support.
 
 ## 9. Interpretive Note
 
-This verse is an exceptionally clean example of Dharma discrimination. An
-ordinary Thing called “food” is decomposed according to the different work
-performed by its dharmas:
-
-```text
-visible form
-    → appears to the eye
-
-odor, taste, tangible
-    → constitute material nutriment
-
-pleasant contact
-    → may provide affective nourishment
-```
-
-The Kośa refuses object-level shorthand. “I ate the beautiful steak” is
-ordinary language; Abhidharma asks which determinations actually sustained the
-faculties, which served as object-support, and which generated pleasant
-feeling. The apparent unity of the meal is resolved into functional domains.
-
-This gives our Semantic-oriented NLP pipeline a precise rule:
-
-```text
-surface noun
-    ≠ semantic operation
-```
-
-A token labeled `food` does not settle the semantic analysis. Oculus must
-discriminate the roles carried within the event:
-
-```ts
-interface NutrimentEvent {
-  displayedForm: ObjectSupport;
-  materialSupports: Array<Odor | Taste | Tangible>;
-  contact?: PleasantFeelingProducingContact;
-  sustainingEffect: FacultyElementSupport;
-}
-```
-
-This is an Organon projection, not the wording of Vasubandhu. It shows why the
-Kośa extends Yoga Citta Theory into Practical Reason: it distinguishes what
-appears, what is contacted, what is felt, and what actually maintains the
-embodied Agent.
-
-The verse also sharpens our account of the Semantic Copula. The statement
-“this is food” becomes true in the technical sense only through the sustaining
-relation:
-
-```text
-x is nutriment
-    because
-x actually supports the embodied system
-```
-
-The copula is not classification by resemblance. It is functional
-determination.
-
-Finally, subtle nutriment prevents us from reducing material support to crude
-ingestion. Bathing, anointing, odor-support, and pervasive assimilation can
-maintain embodiment without the stereotyped act of chewing. The definition
-follows the sustaining operation wherever it occurs.
+The verse distinguishes the visible Condition that occasions pleasant
+Contact from the factors that materially or affectively sustain life. Visible
+appearance alone is not nutriment; the Bhāṣya's criterion is sustaining
+function. This project-level reading treats the analysis as role-sensitive
+discrimination, not as a software theory supplied by the source.
 
 ## 10. OWL++ Seed
 
@@ -303,18 +247,18 @@ vak:MorselNutriment
     vak:hasFunction vak:SustainingFacultiesAndGreatElements .
 
 vak:VisibleForm
-    vak:hasRole vak:ObjectSupport ;
+    vak:hasRole vak:Condition ;
     vak:lacksFunction vak:SustainingOwnFaculty ;
     vak:isNot vak:MorselNutriment .
 
 vak:PleasantFeelingProducingContact
-    vak:mayHaveObjectSupport vak:VisibleForm ;
+    vak:mayHaveCondition vak:VisibleForm ;
     vak:mayHaveFunction vak:AffectiveNutriment .
 
 organon:FunctionalNutrimentDiscrimination
     a organon:ProjectInterpretation ;
     organon:distinguishes organon:DisplayedContent,
-        organon:ObjectSupport, organon:NourishingOperation,
+        organon:Condition, organon:NourishingOperation,
         organon:SustainingEffect ;
     organon:rejects organon:SurfaceNounAsFinalSemanticClassification .
 ```

@@ -244,96 +244,9 @@ functional determination rather than reducing nutriment to ordinary naming.
 
 ## 9. Interpretive Note
 
-This verse gives exact form to the transition the user has identified:
-
-```text
-Human Dharma
-    → begins from lived embodiment:
-      body, food, contact, present maintenance
-
-Abhidharma
-    → discriminates the conditions and functions:
-      support, supported, projection, production
-```
-
-“Human Dharma” and this contrast are our interpretive names, not Vasubandhu's
-labels. But they identify the method accurately. The Kośa begins from what any
-embodied person knows—life must be fed—and then discovers that “feeding” is a
-fourfold functional architecture extending from bodily support to the
-production of another becoming.
-
-This is Kantian realism in the intended project sense. The Kośa does not leave
-the ordinary World behind for a hidden second World. It begins with the real
-conditions of embodied appearance and discriminates the lawful operations
-through which that appearance is maintained and projected.
-
-```text
-empirical actuality:
-    an embodied being eats, encounters, intends, cognizes
-
-Abhidharma determination:
-    these operations occupy different roles
-    in maintaining present and producing future becoming
-```
-
-The explicit `citta-caitta` determination is central. Contact does not merely
-occur beside consciousness. It nourishes consciousness and its associated
-operations as the supported life of the embodied Agent. This is the practical
-Caitta theory we were seeking:
-
-```text
-āśraya: embodied faculty-system
-    ↔
-āśrita: citta-caitta operation
-```
-
-Morsel nutriment sustains the Client's embodied support; contact sustains its
-active semantic interface. Without contact, the citta-caitta complex is not
-fed by a World.
-
-The latter pair advances from maintenance into Learning and generation.
-Volition supplies the future-directed determination; karma-conditioned
-differentiated cognition retains the productive seed from which that
-determination can become another station.
-
-```text
-purpose
-    → projection
-
-learned cognitive lineage
-    → realization
-```
-
-That is stronger than a linear data pipeline. The Agent does not merely
-receive inputs and emit outputs. Its contacts maintain its current conscious
-organization; its volitions project possible future organization; and its
-conditioned cognitive seed can realize that projection as a renewed World.
-
-For Oculus, the four nutriments can be projected as two coordinated services:
-
-```ts
-interface PresentMaintenance {
-  embodiedSupport: MorselNutriment;
-  consciousOperations: ContactNutriment;
-}
-
-interface FutureGeneration {
-  projectedStation: MentalVolition;
-  realizedStation: KarmaConditionedVijnanaSeed;
-}
-```
-
-This is Organon architecture, not a premature repository implementation. It
-makes the philosophical division visible: present state requires maintenance;
-future state requires both projection and a productive lineage capable of
-realization.
-
-The food verses have therefore moved completely beyond food as an object. They
-now state the general law by which an embodied conscious system maintains
-itself and produces its successor.
+At the project level, the four nutriments distinguish support for present embodied and mental operations from conditions that project future Becoming. Human Dharma and the Citta–Caitta economy are project formulations; the Bhāṣya's categories remain morsel nutriment, Contact, mental volition, and Discriminative Cognition.
 
 ## 10. OWL++ Seed
-
 ```ttl
 @prefix vak: <http://127.0.0.1:3000/vak#> .
 @prefix loka: <http://127.0.0.1:3000/loka#> .

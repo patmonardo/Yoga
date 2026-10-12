@@ -17,6 +17,20 @@ The reply distinguishes ignorance from wrong view and from the *prajñā* it
 defiles, then considers further definitions without settling ignorance's
 intrinsic nature.
 
+### Bhāṣya-informed study translation
+
+> The scriptural descriptions of ignorance as fetter, bondage, latent
+> tendency, flood, and yoke confirm that it is an operative factor rather than
+> a mere absence. Nor can ignorance be reduced to faulty discriminative
+> comprehension. Wrong views are themselves instances of faulty
+> discriminative comprehension, yet they are said to be associated with
+> ignorance; moreover, ignorance is taught as that which defiles
+> discriminative comprehension. These relations require ignorance, faulty
+> view, and discriminative comprehension to remain functionally distinct.
+
+The explicit identification of wrong views with `ku-prajñā` and the two
+non-identity arguments are Bhāṣya determinations.
+
 ## 2. Continuous Sanskrit
 
 > yathā tarhi kubhāryā abhāryety ucyate kuputraś cāputraḥ, evam avidyāpy

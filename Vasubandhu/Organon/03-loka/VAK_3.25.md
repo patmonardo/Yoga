@@ -245,52 +245,12 @@ of its intelligible presentation.
 
 ## 9. Interpretive Note
 
-Your reading of the movement is correct: Vasubandhu first gives the Base
-sequence in its condensed twelve-member articulation and then enters its
-governing principle. The principle is not another hidden thirteenth member.
-It is the rule through which the twelve members become an intelligible View.
-
-```text
-complex field
-    → predominant determination
-    → stage-name
-    → ordered temporal View
-    → practical removal of confusion
-```
-
-This makes 3.25 one of the methodological keys of Loka-nirdeśa. The sūtra and
-Abhidharma need not compete as though only one formulation could be true.
-Abhidharma determines the characteristic extension of dependent origination;
-the sūtra selects a representation appropriate to the transformation of an
-embodied agent's comprehension.
-
-That is also the beginning of genuine Jñāna-mārga in our project sense. The
-agent no longer merely ascends through or encounters determinate stations.
-Prajñā comprehends why this particular World-model has been constructed, what
-error it addresses, and how its temporal differentiations express one causal
-continuity.
-
-Within the Yogācāra assimilation, the World System established in Me is not a
-single frozen representation. The same conditioned field supports multiple
-valid articulations. A rational View is selected according to the work it
-must perform. The three-life View is true as an intentional instrument for
-comprehending karmic continuity; it is not the final exhaustive determination
-of the field.
-
-This is extraordinarily sophisticated science:
-
-```text
-the field does not dictate one representation
-
-the cognitive task selects a View
-
-the View remains answerable to the field
-
-its truth includes its power to remove the targeted confusion
-```
-
-Thus the World System is not only generated through dependent conditions. It
-is also **comprehended through purpose-governed articulation**.
+The Organon's project-level reading treats stage-designation as
+purpose-governed but answerable to the conditioned field: the three-life
+presentation is a valid instrument for removing temporal confusion, not an
+exhaustive account of every possible articulation. This methodological
+extension is distinct from Vasubandhu's direct explanation of the sūtra's
+intended presentation.
 
 ## 10. OWL++ Seed
 

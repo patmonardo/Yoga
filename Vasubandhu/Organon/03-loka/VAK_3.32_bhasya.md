@@ -4,7 +4,7 @@
 
 ```iast
 tajjāḥ ṣaḍvedanāḥ pañca kāyikī caitasī parā /
-punaś cāṣṭādaśavidhā sā manopavicārataḥ // 3.32 //
+punaścāṣṭādaśavidhā sā manopavicārataḥ // 3.32 //
 ```
 
 > Born from those Contacts are six Feelings. Five are bodily; the other is
@@ -15,6 +15,21 @@ The Bhāṣya first divides Feeling by the Contact from which it arises and by
 its support. It then preserves an extended dispute over whether Contact and
 Feeling are simultaneous or successive before returning to the eighteen
 Mental Rangings.
+
+### Bhāṣya-informed study translation
+
+> Six feelings arise in relation to the six contacts: feeling born from eye-,
+> Ear-, Nose-, Tongue-, Body-, and Mind-Contact. The first five are called
+> **bodily Feeling** because they are supported by Form Faculties; the
+> remaining one is called **mental Feeling** because it is supported by
+> consciousness (*citta*) alone. Mental Feeling is further divided into
+> eighteen Mental Rangings: six of gladness, six of distress, and six of
+> equanimity, each corresponding to one of the six Conditions—Form, Sound,
+> Smell, Taste, Tangible, and Dharma.
+
+The Form-Faculty and consciousness (*citta*) support relations, as well as
+the internal `3 × 6` construction of the eighteen Mental Rangings, are
+Bhāṣya determinations.
 
 ## 2. Continuous Sanskrit
 

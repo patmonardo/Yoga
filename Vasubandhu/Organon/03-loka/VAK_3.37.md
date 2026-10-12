@@ -2,17 +2,20 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
+
 > तुषितण्डुलवत् कर्म तथैवौषधिपुष्पवत् ।
 >
 > सिद्धान्नपानवद्वस्तु तस्मिन् भवचतुष्टये ॥ ३.३७ ॥
 
 ## 2. Sanskrit (IAST)
 
+
 > tuṣitaṇḍulavat karma tathaivauṣadhipuṣpavat /
 >
 > siddhānnapānavad vastu tasmin bhavacatuṣṭaye // 3.37 //
 
 ## 3. Lexical Analysis
+
 
 ```text
 tuṣi-taṇḍula-vat            → tuṣitaṇḍulavat
@@ -41,6 +44,7 @@ the grain that possesses or is enclosed by a husk: Karma joined with the
 Affliction-enclosure established in 3.36.
 
 ## 4. Grammar
+
 
 The first hemistich predicates three analogical determinations of `karma`:
 
@@ -77,6 +81,7 @@ Becoming, Life-course Becoming, and Death Becoming.
 
 ## 5. Translation
 
+
 ### Close syntactic construe
 
 > Karma is like a grain enclosed in its husk, and likewise like a plant and a
@@ -99,7 +104,27 @@ The distinct forces of the plant and flower comparisons, the determination of
 `vastu` as maturation-result, and the enumeration of the four modes of Becoming are
 Bhāṣya determinations.
 
-## 6. Technical Vocabulary
+## 6. Philosophical Translation
+
+
+The verse separates three causal determinations: Karma enclosed by Affliction
+retains germinative capacity; Karma ripens and is proximate to maturation;
+the Thing called maturation-result is available for experience but does not,
+merely as result, produce another maturation-result. This distinction
+supports the Bhāṣya's argument that liberation is possible.
+
+The prepared food and drink are similes for the experienced result. The next
+unit's account of food as sustaining beings is a separate inquiry, not a
+meaning to import into this comparison. The four modes—Intermediate,
+Rebirth, Life-course, and Death Becoming—locate the causal process without
+turning them into a self-driving bearer.
+
+At the project level, the four modes locate a conditioned causal process;
+they do not constitute a self-driving bearer. This distinction is essential
+to the verse's account of Karma, maturation-result, and release.
+
+## 7. Technical Vocabulary
+
 
 | Sanskrit | Controlled rendering | Determination in this unit |
 |---|---|---|
@@ -132,7 +157,8 @@ Karma  → matures and produces the Thing called maturation-result
 Vastu  → names the matured Thing available for experience
 ```
 
-## 7. Logical Determination
+## 8. Logical Determination
+
 
 ### Three Karma analogies, three determinations
 
@@ -203,39 +229,11 @@ Vastu              names matured result
 
 Each factor remains distinct through its causal role in the whole.
 
-## 8. Interpretation
+## 9. Interpretive Note
 
-The verse separates three causal determinations: Karma enclosed by Affliction
-retains germinative capacity; Karma ripens and is proximate to maturation;
-the Thing called maturation-result is available for experience but does not,
-merely as result, produce another maturation-result. This distinction
-supports the Bhāṣya's argument that liberation is possible.
 
-The prepared food and drink are similes for the experienced result. The next
-unit's account of food as sustaining beings is a separate inquiry, not a
-meaning to import into this comparison. The four modes—Intermediate,
-Rebirth, Life-course, and Death Becoming—locate the causal process without
-turning them into a self-driving bearer.
+## 10. OWL++ Seed
 
-This Loka–Karma analysis belongs to the Bhava Chakra, distinct from the Dharma
-Chakra. BEP is the Abhidharma, with Base, Essence, and Principle as its three
-levels of intuition. The further description of BEP as a Posited Process in
-Buddhi, with Buddhi as Agent of the Matrix, is a working formulation still in
-progress; BEP is not Mahat or the Matrix itself. The Dharma Chakra spans
-*saṃvṛti* and *paramārtha* as two determinations of
-the same reality, not two worlds or substances. The Absolute Base spans and
-combines Form Base and Dharma Base; this unity is Absolute Dharma,
-discriminating all Dharmas through Form and Law.
-
-The Kośa presents Vijñāna as Discriminative Cognition joining and governing
-Perception and Conception. Their unity is Inconceivable as a homogeneous
-operation; its Idea is disclosed in Vijñāna Base. Vijñāna governs Manas and
-guides the reading of Dharma Base, remaining distinct from *citta* and
-*manas*. Form Base and Dharma Base classify the same *avijñapti* in distinct
-ways, and Vijñāna bears a *prati* relation to it. Each Dharma has the Defined
-Concept `<Base, Essence, Principle>`.
-
-## 9. OWL++ Seed
 
 ```ttl
 @prefix vak: <http://127.0.0.1:3000/vak#> .

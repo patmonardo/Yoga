@@ -59,9 +59,9 @@ the water-and-gold maṇḍala
     [yojanas]
 ```
 
-The Bhāṣya states that `ubhayam`, both the water and gold domains, are equal in
+The Bhāṣya states that `ubhayam`, both the water and gold maṇḍalas, are equal in
 `vistāra`, breadth. Thus the compound does not designate a third substance; it
-collects two vertically differentiated domains under one shared transverse
+collects two vertically differentiated maṇḍalas under one shared transverse
 measure.
 
 ## 5. Translation
@@ -77,11 +77,11 @@ measure.
 > each measures 1,203,450 yojanas across.
 
 Their equality in breadth, the supplied yojana unit, and the distributive
-application of the one measure to both domains are Bhāṣya determinations.
+application of the one measure to both maṇḍalas are Bhāṣya determinations.
 
 ## 6. Philosophical Translation
 
-> The two support-domains distinguished vertically in 3.46 are now unified
+> The two support-maṇḍalas distinguished vertically in 3.46 are now unified
 > horizontally. Water remains below and golden earth above, yet both occupy one
 > transverse world-field. Difference of function and depth therefore coexists
 > with equality of breadth. The Physical World acquires determinate extension
@@ -94,9 +94,9 @@ application of the one measure to both domains are Bhāṣya determinations.
 |---|---|---|
 | tiryak | transversely / laterally | axis of measure distinguished from vertical depth |
 | vistāra | breadth / extent | Bhāṣya gloss for the transverse measure |
-| jala-maṇḍala | water-maṇḍala | lower domain retaining 320,000 yojanas of depth |
-| kāñcana-maṇḍala | golden-earth maṇḍala | upper transformed domain 800,000 yojanas deep |
-| jala-kāñcana-maṇḍala | water-and-gold maṇḍala system | the two domains considered under their equal breadth |
+| jala-maṇḍala | water-maṇḍala | lower maṇḍala retaining 320,000 yojanas of depth |
+| kāñcana-maṇḍala | golden-earth maṇḍala | upper transformed maṇḍala 800,000 yojanas deep |
+| jala-kāñcana-maṇḍala | water-and-gold maṇḍala system | the two maṇḍalas considered under their equal breadth |
 | lakṣa | hundred-thousand | largest unit in the stated transverse measure |
 | sahasra | thousand | intermediate unit in the stated measure |
 | śata | hundred | smallest unit explicitly grouped in the measure |
@@ -116,15 +116,15 @@ golden-earth maṇḍala     800,000               1,203,450
 ### Vertical difference and horizontal equality
 
 ```text
-water-domain ≠ gold-domain
+water-maṇḍala ≠ gold-maṇḍala
     with respect to substance, genesis, position, and depth
 
-water-domain = gold-domain
+water-maṇḍala = gold-maṇḍala
     with respect to transverse extent
 ```
 
 Equality is indexed to a dimension. It does not erase the determinations by
-which the two domains differ.
+which the two maṇḍalas differ.
 
 ### From generated layer to measured field
 
@@ -160,44 +160,7 @@ the circumferential operation is a forward link, not part of this Kārikā.
 
 ## 9. Interpretive Note
 
-VAK 3.47 is austere but methodologically revealing. Once the Kośa has generated
-the water and golden-earth domains, it does not rush immediately to populated
-geography. It first fixes their shared extension. The container must become a
-measured field before determinate locations can be distributed within it.
-
-The most useful abstraction is not merely “breadth follows height.” It is that
-one structured whole can sustain different relations along different axes:
-
-```text
-vertical axis
-    → difference, layering, support
-
-horizontal axis
-    → equality, coextension, common field
-```
-
-This is a genuine semantic discrimination. Saying that water and gold are
-“equal” without supplying the axis would be false; saying only that they are
-“different” would miss their common spatial domain. The proposition becomes
-true through the relation under which its terms are compared.
-
-For the Organon projection:
-
-```ts
-interface DimensionedSupportDomain {
-  domain: "water" | "golden-earth";
-  verticalDepthYojanas: number;
-  transverseExtentYojanas: 1_203_450;
-}
-```
-
-This is explanatory notation, not Vasubandhu's terminology. It preserves the
-important fact that a single entity may participate in several measures and
-that comparison requires an explicitly selected dimension.
-
-The verse therefore contributes a modest but durable World-System principle:
-configuration becomes intelligible when heterogeneous domains are related by
-shared coordinates without having their differences flattened.
+At the project level, equality is measure-relative: the water and golden-earth maṇḍalas differ in vertical role yet share transverse extent. The comparison is true only with its measurement axis made explicit.
 
 ## 10. OWL++ Seed
 

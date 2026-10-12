@@ -86,19 +86,52 @@ the final capacity as discrimination of the causes of three Feelings.
 > lasts until the capacity to discriminate the causes of pleasant, painful,
 > and neutral Feeling is established.
 
-## 6. Scope Note
+## 6. Philosophical Translation
 
-The Bhāṣya does not name which four Essences mark the immediate emergence.
-It explains why the stage is designated through the full six-Essence
-organization. The arising of Contact and the limit of the Contact-stage are
-also Bhāṣya determinations.
+> Name-and-Form extends until the six Essences arise. The six-Essence stage
+> extends until Faculty, Condition, and Discriminative Cognition come
+> together. From that conjunction Contact arises; the Contact-stage extends
+> until there is capacity to discriminate the causes of pleasure, pain, and
+> the other Feelings.
 
-Here *viṣaya* is rendered **Condition**: a specific moment of the Seen and
-the playground of the Faculties. Keep it distinct from Object, the
-comprehended truth of Vastu, and keep Discriminative Cognition distinct from
-consciousness and Mind.
+## 7. Technical Vocabulary
 
-## 7. OWL++ Seed
+| Sanskrit | Controlled rendering | Determination in this passage |
+|---|---|---|
+| `prāk` | before / up to before | marks the boundary of a stage |
+| `ṣaḍāyatana` | six Essences | the full sixfold organization used to designate the stage |
+| `trika` | triad | Faculty, Condition, and Discriminative Cognition, as specified by the Bhāṣya |
+| `saṃgama` | conjunction | the meeting from which Contact arises |
+| `sparśa` | Contact | the relation arising from conjunction, and the stage before cause-discrimination capacity |
+| `sukha-duḥkha-ādi` | pleasure, pain, and the other Feelings | the objects of the relevant cause-discrimination |
+| `jñāna-śakti` | capacity to discriminate | here, capacity to discern the causes of the three Feelings |
+
+## 8. Logical Determination
+
+```text
+rebirth-junction
+    → Name-and-Form
+    → sixfold Essence organization established
+    → six-Essence stage
+    → Faculty + Condition + Discriminative Cognition meet
+    → Contact arises
+    → capacity to discriminate causes of the three Feelings
+    → end of the Contact-stage
+```
+
+The first two stage-boundaries continue the sequence begun in VAK 3.21.
+The Bhāṣya says the six-Essence designation names the established whole;
+it does not identify the four Essences that could mark immediate emergence.
+Contact is not one of the triad's members.
+
+## 9. Interpretive Note
+
+Here *viṣaya* is **Condition**, a specific moment of the Seen and the
+playground of the Faculties—not Object, the comprehended truth of Vastu.
+The local triad also keeps Discriminative Cognition distinct from
+consciousness (*citta*) and Mind (*manas*).
+
+## 10. OWL++ Seed
 
 ```ttl
 @prefix vak: <http://127.0.0.1:3000/vak#> .

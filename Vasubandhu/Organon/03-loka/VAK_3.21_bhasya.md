@@ -101,13 +101,18 @@ the arising of the six Essences.
 
 ## 5. Interpretation
 
+### Objective transitions across births
+
 The placement of Formations beside Discriminative Cognition is structurally
 significant, but they are not located in the same birth. Formations names
 the former karmic state; Discriminative Cognition names the five-Base
 configuration at the present rebirth-junction. Their sequence therefore
 shows the transition across births: former Karma matures here, and the
 junction is comprehended as a whole configuration rather than as a
-transmigrating substance.
+transmigrating substance. The verse gives objective designations within one
+conditioned continuity, not names for a single enduring bearer.
+
+### Name-and-Form and the sixfold Essence structure
 
 Name-and-Form may be a comprehensive twofold summary of the stage following
 the junction, but this verse establishes only its succession. The next
@@ -118,10 +123,14 @@ discriminates them into distinct positions. This verse locates Formations
 in the prior birth; Feeling receives its own position in the present
 sequence.
 
+### Horizontal and vertical determination
+
 Horizontally, the verse locates conditions and stages across prior and
 present births. Vertically, it reconstructs the mediacy through which the
 prior karmic state is intelligible in the present junction. The immediate
 appearance is retained while its conditioning is made knowable.
+
+### Vijñāna in the wider Kośa
 
 At the level of the Kośa's wider cognitive architecture, Vijñāna is
 Discriminative Cognition joining and governing Perception and Conception;

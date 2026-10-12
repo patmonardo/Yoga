@@ -14,6 +14,17 @@ modes of *samutpāda* analysis. It explains how complex five-Base stages
 receive single member-names and why the sūtra selects this particular
 sentient-life presentation.
 
+### Bhāṣya-informed study translation
+
+> The twelvefold sūtra presentation is intended as a sequence of complex
+> five-Base stages. Each stage is named after the determination
+> predominant within it. This sentient-life sequence is divided across past,
+> future, and present in order to remove confusion about temporal continuity
+> by rightly seeing conditioned arising through *prajñā*.
+
+Five-Base composition, the sūtra's selective intention, the concrete
+forms of temporal confusion, and the role of Prajñā are Bhāṣya determinations.
+
 ## 2. Continuous Sanskrit
 
 > sa caiṣa pratītyasamutpādaś caturvidha ucyate: kṣaṇikaḥ, prakarṣikaḥ,
@@ -94,8 +105,8 @@ and stage-based. How is it momentary? All twelve members can occur even
 within one moment. Suppose, for example, that under the power of Greed one
 deprives a living being of life. The Delusion in this act is Ignorance; its
 Volition is Formations; discernment of a Thing is Discriminative Cognition;
-the four Bases co-arising with Cognition are Name-and-Form; the Faculties
-established in Name-and-Form are the six Essences; their encounter is
+the four Bases co-arising with Discriminative Cognition are Name-and-Form; the
+Faculties established in Name-and-Form are the six Essences; their encounter is
 Contact; experiencing Contact is Feeling; the Greed is Craving; its
 associated besetting afflictions are Appropriation; the bodily and verbal
 karma arising from these is Becoming; the emergence of those Dharmas is

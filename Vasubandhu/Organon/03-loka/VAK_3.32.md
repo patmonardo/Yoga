@@ -2,17 +2,20 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
+
 > तज्जाः षड्वेदनाः पञ्च कायिकी चैतसी परा ।
 >
 > पुनश्चाष्टादशविधा सा मनोपविचारतः ॥ ३.३२ ॥
 
 ## 2. Sanskrit (IAST)
 
+
 > tajjāḥ ṣaḍvedanāḥ pañca kāyikī caitasī parā /
 >
 > punaścāṣṭādaśavidhā sā manopavicārataḥ // 3.32 //
 
 ## 3. Lexical Analysis
+
 
 ```text
 tat-jāḥ                    → tajjāḥ
@@ -46,6 +49,7 @@ Conditions in three affective modes.
 
 ## 4. Grammar
 
+
 The first hemistich states the production and then divides the result:
 
 ```text
@@ -78,6 +82,7 @@ distress, and equanimity, each ranging through the six Conditions.
 
 ## 5. Translation
 
+
 ### Close syntactic construe
 
 > Born from those [contacts] are six feelings. Five are bodily; the other is
@@ -99,7 +104,16 @@ The Form-Faculty and consciousness (*citta*) support relations, as well as
 the internal `3 × 6` construction of the eighteen Mental Rangings, are
 Bhāṣya determinations.
 
-## 6. Technical Vocabulary
+## 6. Philosophical Translation
+
+The six Contact-born Feelings are classified by their support into five
+bodily Feelings grounded in Form Faculties and one mental Feeling grounded
+in consciousness (*citta*) alone. The mental Feeling then ranges in three
+modes across six Conditions. The Bhāṣya's two explanations of `manopavicāra`
+meet in the repeated movement of Mind under the force of Feeling.
+
+## 7. Technical Vocabulary
+
 
 | Sanskrit | Controlled rendering | Determination in this unit |
 |---|---|---|
@@ -136,7 +150,8 @@ under the force of feeling,
         through Conditions
 ```
 
-## 7. Logical Determination
+## 8. Logical Determination
+
 
 ### Three successive grounds of articulation
 
@@ -201,28 +216,11 @@ and sūtra formulations to decide by themselves. The closing argument
 establishes Contact and Feeling with Cognition; the recorded debate preserves
 the rival accounts of their temporal relation.
 
-## 8. Interpretation
+## 9. Interpretive Note
 
-The six Contact-born Feelings are classified by their support into five
-bodily Feelings grounded in Form Faculties and one mental Feeling grounded
-in consciousness (*citta*) alone. The mental Feeling then ranges in three
-modes across six Conditions. The Bhāṣya's two explanations of `manopavicāra`
-meet in the repeated movement of Mind under the force of Feeling.
 
-BEP is the Abhidharma, with Base, Essence, and Principle as its three levels
-of intuition. The further description of BEP as a Posited Process in Buddhi,
-with Buddhi as Agent of the Matrix, is a working formulation still in
-progress; BEP is not Mahat or the Matrix itself.
+## 10. OWL++ Seed
 
-In the inner-instrument Techne, Vijñāna is Discriminative Cognition joining
-and governing Perception and Conception, Inconceivable as a homogeneous
-operation and disclosed in Cognition Base. It governs Manas and guides the
-reading of Dharma Base, remaining distinct from consciousness (*citta*) and
-Mind (*manas*). Form Base and Dharma Base classify the same *avijñapti*, and
-Vijñāna bears a *prati* relation to it. Each Dharma has the Defined Concept
-`<Base, Essence, Principle>`.
-
-## 9. OWL++ Seed
 
 ```ttl
 @prefix vak: <http://127.0.0.1:3000/vak#> .
