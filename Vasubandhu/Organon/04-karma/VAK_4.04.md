@@ -1,4 +1,4 @@
-# VAK_4.04
+# VAK_4.04 — Is Avijñapti a Distinct Dharma?
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -13,7 +13,7 @@
 > kṣaṇād ūrdhvam avijñaptiḥ kāmāptātītabhūtajā // 4.4 //
 
 The first pāda is a compressed Vaibhāṣika proof-dossier for the real existence
-of `avijñapti`. It invokes scriptural classifications of form, the continuing
+of `avijñapti`. It invokes scriptural classifications of Form, the continuing
 increase of merit, the completion of an action-path by one not personally
 performing the final deed, and further related grounds. The Bhāṣya then answers
 this dossier at length from Sautrāntika and Yogācāra positions.
@@ -21,7 +21,7 @@ this dossier at length from Sautrāntika and Yogācāra positions.
 The second pāda turns from proof to material genealogy. It specifies how
 desire-domain `avijñapti` is generated after its first moment.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 trividha-amala-rūpa-ukti   → trividhāmalarūpokti
@@ -34,12 +34,12 @@ kāma-āpta                  → kāmāpta
 atīta-bhūta-jā             → atītabhūtajā
 ```
 
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
-| trividhāmalarūpokti | compound member within an instrumental proof-list | teaching of threefold form and uncontaminated form |
-| trividha | compound member | threefold; the three scriptural classes of form |
-| amala | compound member | stainless / uncontaminated; Bhāṣya interprets through `anāsrava` form |
-| rūpa | compound member | form or material determination |
+| trividhāmalarūpokti | compound member within an instrumental proof-list | teaching of threefold Form and uncontaminated Form |
+| trividha | compound member | threefold; the three scriptural classes of Form |
+| amala | compound member | stainless / uncontaminated; Bhāṣya interprets through `anāsrava` Form |
+| rūpa | compound member | Form |
 | ukti | compound member | statement or scriptural teaching |
 | vṛddhi | compound member | increase; here continued increase of merit |
 | akurvat | present active participle with privative prefix | one not personally performing the relevant final act |
@@ -47,21 +47,21 @@ atīta-bhūta-jā             → atītabhūtajā
 | ādibhiḥ | instrumental plural | by these and further grounds |
 | kṣaṇāt | ablative singular | after or beyond the moment |
 | ūrdhvam | adverb | subsequently; from then onward |
-| avijñaptiḥ | nominative feminine singular | non-manifest action / non-disclosive material determination |
+| avijñaptiḥ | nominative feminine singular | non-disclosing continuity; its status is disputed in the Bhāṣya |
 | kāmāpta | compound adjective | belonging to or included in the desire domain |
 | atīta | compound member | past |
-| bhūta | compound member | great material determination; `mahābhūta` is supplied by the Bhāṣya |
+| bhūta | compound member | Element; `mahābhūta` is supplied by the Bhāṣya |
 | jā | feminine nominative singular compound ending | born from / generated from |
 
-The first compound does not mean one undifferentiated “threefold pure form.”
+The first compound does not mean one undifferentiated “threefold pure Form.”
 The Bhāṣya separates two scriptural claims:
 
 ```text
 trividha-rūpa-ukti
-    teaching of three kinds of form
+    teaching of three kinds of Form
 
 amala / anāsrava-rūpa-ukti
-    teaching of uncontaminated form
+    teaching of uncontaminated Form
 ```
 
 The final compound is likewise commentary-resolved:
@@ -71,7 +71,7 @@ kāmāpta avijñapti
     desire-domain avijñapti
 
 atīta-mahābhūta-jā
-    generated from past great material determinations
+    generated from past Great Elements
 ```
 
 ## 4. Grammar
@@ -84,8 +84,8 @@ amala-rūpa-uktyā
 vṛddhyā
 akurvat-patha-ādinā
 
-by the teaching of threefold form,
-by the teaching of uncontaminated form,
+by the teaching of threefold Form,
+by the teaching of uncontaminated Form,
 by increase,
 by the action-path of one not acting personally,
 and by further grounds
@@ -108,10 +108,10 @@ kṣaṇāt ūrdhvam
 
 beyond the [first] moment,
     desire-domain avijñapti
-    is born from past great elements
+    is born from past Great Elements
 ```
 
-`Prathamāt`, “after the first,” and `mahābhūtāni`, “great elements,” are
+`Prathamāt`, “after the first,” and `mahābhūtāni`, “Great Elements,” are
 Bhāṣya specifications rather than words displayed in the Kārikā.
 
 The Bhāṣya further distinguishes two causal roles:
@@ -131,9 +131,9 @@ present bodily mahābhūtas
 ### Literal Translation
 
 > [Its existence is argued] from the teaching of threefold and uncontaminated
-> form, from increase, from the action-path of one not personally acting, and
-> from further grounds. Beyond the moment, desire-domain non-manifest action is
-> born from past great material determinations.
+> Form, from increase, from the action-path of one not personally acting, and
+> from further grounds. Beyond the first moment, desire-domain `avijñapti` is
+> born from past Great Elements.
 
 The bracketed conclusion, the separation of the two `rūpa` teachings, the
 reference of `patha` to an action-path, and the expansion of `bhūta` to great
@@ -141,45 +141,37 @@ material determinations are supplied by the Bhāṣya.
 
 ### Bhāṣya-informed study translation
 
-> The Vaibhāṣikas argue for a real non-manifest material determination from
-> the scriptural teaching of three classes of form and uncontaminated form,
+> The Vaibhāṣikas argue for a distinct real Form Dharma from
+> the scriptural teaching of three classes of Form and uncontaminated Form,
 > from the continued increase of merit, from completion of an action-course
 > when its instigator does not personally perform the final deed, and from
 > further considerations such as restraint and the completeness of the Noble
 > Eightfold Path. Beyond its first moment, desire-domain `avijñapti` is
-> generated from past great elements as its producing basis, while present
-> bodily elements supply its continuing support.
+> generated from past Great Elements as its producing basis, while present
+> bodily Great Elements supply its continuing support.
 
 The attribution to the Vaibhāṣikas, the further examples, and the distinction
 between producing and sustaining material bases are commentary determinations.
 
-## 6. Philosophical Translation
+## 6. Bhāṣya-Based Synthesis
 
-> A momentary action can transform what remains possible after its manifest
-> occurrence has ceased. The dispute is not whether action has efficacy beyond
-> its visible moment, but how that efficacy exists. The Vaibhāṣika posits a
-> distinct non-manifest material determination, generated from past material
-> causes and sustained by present embodiment. The Sautrāntika instead locates
-> persistence in a specific transformation of the same causal continuum: the
-> prior act does not survive as a hidden thing, but changes the continuum's
-> capacity to produce later conduct and result.
-
-The Noble Path becomes a decisive test case. During samāpatti the practitioner
-does not presently speak, act bodily, or pursue a livelihood, yet the Path is
-still called eightfold. The issue is whether right speech, right action, and
-right livelihood must therefore exist as non-manifest material entities, or
-whether the Path has transformed disposition and basis so that those practical
-functions are causally secured without present performance.
+The first pāda records the Vaibhāṣika grounds for affirming `avijñapti`;
+the Bhāṣya then gives the Sautrāntika replies and their account of continuum
+transformation. The second pāda states the Vaibhāṣika account of the
+desire-realm `avijñapti`: past Great Elements produce it, while present
+bodily Great Elements support its continuation. The cited Path and
+restraint examples test how the schools explain conduct when no corresponding
+bodily or verbal action is presently performed.
 
 ## 7. Technical Vocabulary
 
 | Sanskrit | Controlled rendering | Determination in this unit |
 |---|---|---|
-| avijñapti | non-manifest action / non-disclosive form | Vaibhāṣika distinct material dharma continuing beyond manifestation |
+| avijñapti | non-disclosing continuity | Vaibhāṣika: distinct Form Dharma continuing beyond manifestation; Sautrāntika: no separate real entity |
 | dravyataḥ | as an independently real entity | status denied by Sautrāntikas and affirmed by Vaibhāṣikas |
 | dravyāntara | another distinct real entity | exact ontological commitment of the Vaibhāṣika conclusion |
-| trividha-rūpa | threefold form | visible-resistant, invisible-resistant, and invisible-non-resistant form |
-| anāsrava-rūpa | uncontaminated form | scriptural category claimed by Vaibhāṣikas for avijñapti and reinterpreted through samādhi-generated form by Yogācāras |
+| trividha-rūpa | threefold Form | visible-resistant, invisible-resistant, and invisible-non-resistant Form |
+| anāsrava-rūpa | uncontaminated Form | scriptural category claimed by Vaibhāṣikas for `avijñapti` and reinterpreted through concentration-generated Form by meditation practitioners |
 | anidarśana | invisible / not visually manifest | not an object of the eye faculty |
 | apratigha | non-resistant | not spatially obstructive |
 | vṛddhi | increase | continuous growth of merit even while the donor's consciousness is otherwise directed |
@@ -190,8 +182,8 @@ functions are causally secured without present performance.
 | bhāvita-saṃtati | cultivated or conditioned continuum | continuum transformed by prior volition |
 | kārye kāraṇopacāra | application of the cause-name to the effect | explains designation of the transformed continuum as `karmapatha` |
 | āśaya | disposition / orientation | acquired Path-determination governing later conduct |
-| āśraya | supporting or producing basis | Path-basis generally; here past great elements producing desire-domain avijñapti |
-| saṃniśraya | continuing or sustaining support | present bodily great elements supporting continuation |
+| āśraya | supporting or producing basis | Path-basis generally; here past Great Elements producing desire-realm `avijñapti` |
+| saṃniśraya | continuing or sustaining support | present bodily Great Elements supporting continuation |
 | pravṛtti | initiation | first causal production of the non-manifest stream |
 | anuvṛtti | continuation | persistence supported after initiation |
 | samyagvāk | right speech | Path-member absent as present speech during samāpatti |
@@ -248,7 +240,7 @@ that determination
 The proof is cumulative rather than resting on one example:
 
 ```text
-scriptural form classifications
+scriptural Form classifications
     + merit-growth
     + commissioned karmapatha
     + Dharma-domain classification
@@ -380,69 +372,11 @@ Production and maintenance must not be flattened into one causal function.
 
 ## 9. Interpretive Note
 
-VAK 4.04 is the first full trial of `avijñapti`. The controversy has already
-passed beyond the shallow opposition between visible and invisible. Both sides
-agree that a deed can determine a future it does not presently display. The
-question is:
-
-```text
-Must efficacy beyond manifestation
-be borne by another real entity?
-
-Or can activity transform the continuum itself
-so that its future production is now different?
-```
-
-The Sautrāntika answer is transcendentally disciplined. It preserves every
-phenomenon for which `avijñapti` was introduced—merit-growth, responsibility
-for commissioned action, restraint, Path-completeness, and future fruit—but
-refuses to convert the necessary mediation into a separately subsisting
-imperceptible object.
-
-```text
-not:
-    vanished deed
-        → hidden karmic token
-            → later result
-
-but:
-    activity
-        → determinate transformation of continuum
-            → altered future-producing capacity
-```
-
-This is also where the four-volume architecture of the Kośa becomes visible
-inside one dispute. Volume II analyzes right action, but it cannot determine
-that action without invoking the Path formally developed in Volume III and the
-samāpatti fully developed in Volume IV. The Noble Eightfold Path is therefore
-not confined to Mārganirdeśa. Its practical members are already being defined
-here through the question of how Path-determination remains actual when no
-corresponding deed is presently displayed.
-
-The controlled Organon comparison is:
-
-```text
-Vaibhāṣika avijñapti
-    continuity through a distinct non-manifest determination
-
-Sautrāntika saṃtati-pariṇāma-viśeṣa
-    continuity through self-transformation of the causal series
-
-Transcendental question
-    what conditions the identity of responsibility
-    across non-identical moments?
-```
-
-The Hegelian strength of the Sautrāntika position is that persistence is not
-the inert survival of a token. Activity preserves itself by changing the
-productive character of its own continuum. Yet this remains an Organon
-contact point: the text presents a Sautrāntika causal theory, not Hegelian
-doctrine.
-
-The Vaibhāṣika must not be caricatured. Its distinction between producing
-`āśraya` and sustaining `saṃniśraya` recognizes that genesis and maintenance
-are different determinations. What remains under judgment is whether this
-dynamic articulation requires `avijñapti-rūpa` as a separate `dravyāntara`.
+The Bhāṣya presents two explanations of continuity. The Vaibhāṣikas defend
+`avijñapti` as a distinct real Form Dharma; the Sautrāntikas explain the
+cited cases through a specific transformation of the continuum. The Path,
+restraint, merit, and commissioned-action examples are arguments within this
+dispute, not a general claim that one account applies to every kind of action.
 
 ## 10. OWL++ Seed
 
@@ -486,8 +420,8 @@ path:PathEntry
         path:FutureRightLivelihood .
 
 karma:DesireDomainAvijnapti
-    logic:hasProducingBasis karma:PastGreatElements ;
-    logic:hasSustainingSupport karma:PresentBodilyGreatElements .
+    logic:hasProducingBasis karma:PastGreatPrinciples ;
+    logic:hasSustainingSupport karma:PresentBodilyGreatPrinciples .
 
 organon:AvijnaptiTrial
     a organon:InterpretiveModel ;

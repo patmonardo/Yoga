@@ -51,8 +51,8 @@ REQUIRED_MAPPINGS = (
     "`skandha` -> **Base**",
     "`āyatana` -> **Essence**",
     "`dhātu` -> **Principle**",
-    "`bhūta` / `mahābhūta` -> **Great Principle**",
-    "`bhautika` -> **Principle-dependent**",
+    "`bhūta` -> **Element**; `mahābhūta` -> **Great Element**",
+    "`bhautika` -> **Element-dependent**",
     "*prajñā* as **Science of Principles**",
 )
 

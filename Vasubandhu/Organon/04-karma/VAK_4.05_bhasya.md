@@ -1,16 +1,19 @@
-# VAK_4.05 Bhāṣya — The Level of Karma's Material Basis
+# VAK_4.05 Bhāṣya — Karma and Its Great-Element Support
 
 ## 1. Kārikā Anchor
 
 > svāni bhūtāny upādāya kāyavākkarma sāsravam /
 > anāsravaṃ yatra jāto 'vijñaptir anupāttikā // 4.05 //
 
-> Contaminated bodily and verbal karma depends upon the great elements of
-> its own level. Uncontaminated karma depends upon those of the level in
-> which its producer is born. Non-manifest action is non-appropriated.
+> Contaminated bodily and verbal karma depends upon the Great Elements of
+> its own level. Uncontaminated bodily and verbal karma has no separate
+> uncontaminated Great-Element support; it depends upon the Great Elements
+> of the level where its producer is born and arises through their force.
+> The Bhāṣya identifies `avijñapti` as non-disclosing continuity and states
+> that it is non-appropriated.
 
 The Kārikā study is `VAK_4.05.md`. After 4.04's debate over the reality
-of `avijñapti`, this unit asks which great elements support bodily and
+of `avijñapti`, this unit asks which Great Elements support bodily and
 verbal karma.
 
 ## 2. Continuous Sanskrit
@@ -41,66 +44,67 @@ Kārikā, the contrast, and the explanation require `anāsravaṃ`; that
 correction is displayed rather than silently attributed to the witness.
 The following `naiḥṣyandikī` at [200|04] opens the next determination.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
-Now, bodily and verbal karma depends on great elements belonging to which
-level, and itself belongs to which level?
+Now, which level's Great Elements support bodily and verbal karma, and to
+which level does that karma belong?
 
-“Contaminated bodily and verbal karma depends upon its own great
-elements.” Desire-domain bodily and verbal karma depends upon
-desire-domain great elements. Likewise, up through karma belonging to
-the fourth meditative level, each depends upon great elements of that
+“Contaminated bodily and verbal karma depends upon its own Great
+Principles.” Desire-domain bodily and verbal karma depends upon
+desire-realm Great Elements. Likewise, up through karma belonging to
+the fourth meditative level, each depends upon Great Elements of that
 same level.
 
 “Uncontaminated karma [depends upon those of the level] in which one is
 born.” Uncontaminated bodily and verbal karma is to be understood as
-depending upon the great elements belonging to the level in which the
-person producing it is born. This is because uncontaminated dharmas do
-not fall within a domain, because there are no uncontaminated great
-elements, and because that karma arises through the force of the great
-elements belonging to that level.
+depending upon the Great Elements belonging to the level in which the
+person producing it is born. This is because uncontaminated Dharmas do
+not fall within a Principle-classification, because there are no
+uncontaminated Great Elements, and because that karma arises through
+the force of the Great Elements belonging to that level.
 
-Here both actions called manifestation and non-manifestation are to be
-understood. “Non-manifest action is non-appropriated.”
+Here both forms of karma called manifestation and non-disclosing
+continuity are to be understood. “Non-disclosing continuity is
+non-appropriated.”
 
 The last assertion receives no separate prose explanation within this
 unit; its further characterization belongs to the continuation.
 
 ## 4. Movement and Voice
 
-Vasubandhu asks for the level of the material basis of bodily and verbal
+Vasubandhu asks for the level of the Great-Element support of bodily and verbal
 karma. The answer distinguishes contaminated from uncontaminated karma.
-For contaminated karma, its own level supplies its great elements. For
+For contaminated karma, its own level supplies its Great Elements. For
 uncontaminated karma, the producer's level supplies them because there
-is no special class of uncontaminated great elements. The closing line
+is no separate class of uncontaminated Great Elements. The closing line
 recalls both `vijñapti` and `avijñapti`, then states that `avijñapti`
-is non-appropriated. No separate objector or school voice is explicitly
+is non-disclosing continuity and is non-appropriated. No separate objector or school voice is explicitly
 introduced in this short unit.
 
 ## 5. Two Axes of Determination
 
 The passage does not identify the spiritual status of an action with
-the status of its material support:
+the level of its Great-Element support:
 
 ```text
-sāsrava karma       → great elements of its own level
-anāsrava karma      → great elements of the producer's level
+sāsrava karma       → Great Elements of its own level
+anāsrava karma      → Great Elements of the producer's level
 ```
 
 The first rule is level correspondence. The second is necessary because
-`anāsrava` does not name another material realm and there are no
-`anāsrava mahābhūtas`. A conditioned material basis can support
-uncontaminated bodily or verbal karma without becoming a separate
-uncontaminated matter. `Tadbalena` points back to the level-specific
-great elements: the karma arises through their causal power without
+`anāsrava` does not name another level and there are no
+uncontaminated Great Elements. Great Elements of a given level can
+support uncontaminated bodily or verbal karma without themselves becoming
+uncontaminated. `Tadbalena` points back to the level-specific Great
+Principles: the karma arises through their causal power without
 becoming identical with its basis.
 
-## 6. Manifestation and Non-manifestation
+## 6. Manifestation and Non-disclosing Continuity
 
 `Tatra vijñaptyavijñaptyākhyakarmaṇī veditavye` applies the level
 analysis to the two modes of bodily and verbal karma. The final statement,
 `avijñaptir anupāttikā`, gives an additional property of the
-non-manifest mode. Material classification does not, on this account,
+non-disclosing mode. Form-classification does not, on this account,
 entail appropriation as living body.
 
 The verse does not yet explain all the senses of `anupāttika`. Retaining
@@ -109,10 +113,10 @@ simply “not mine” or “not embodied.”
 
 ## 7. Translation Decisions
 
-`Svāni` means great elements proper to the same *bhūmi*, rather than
-matter owned by an individual. `Yatra jātaḥ` refers, as the prose
+`Svāni` means Great Elements proper to the same *bhūmi*, rather than
+something owned by an individual. `Yatra jātaḥ` refers, as the prose
 explains, to the person born in the level where uncontaminated karma is
-produced. The Bhāṣya supplies that person and the understood material
+produced. The Bhāṣya supplies that person and the understood Great-Element
 basis in the verse's compressed second half.
 
 The witness's `asravaṃ` at [199|27–200|01] appears to be a missing
@@ -120,37 +124,32 @@ negative. The correction to `anāsravaṃ` is strongly supported by the
 local argument but remains an editorial intervention requiring a witness
 check.
 `Tadbalena` literally says “through its/their power.” The immediate
-antecedent is the great elements of the producer's level, so the
+antecedent is the Great Elements of the producer's level, so the
 translation makes that referent explicit rather than substituting the
-level itself for those elements.
+level itself for those Principles.
 
 ## 8. Doctrinal Limit
 
-This unit specifies *which* material basis is involved; it does not
+This unit specifies which Great Elements support the karma; it does not
 settle the preceding dispute about whether `avijñapti` exists as a
-distinct substance. Its material analysis follows the Vaibhāṣika
+distinct Dharma. Its account follows the Vaibhāṣika
 reaffirmation in 4.04. A Sautrāntika account of continuity need not
 accept that ontology merely because the Bhāṣya now explains it.
 
-## 9. Philosophical and Organon Study
+## 9. Interpretation
 
-**Textual determination.** Karma's moral or liberative status and the
-level of its material support are distinct coordinates. Uncontaminated
-action can occur with a conditioned material basis; the two are related
-without becoming identical.
-
-**Organon reconstruction.** The LOKA:KARMA inquiry can use this as a
-discipline of placement: a determination must be located in the world
-where it acts, but its significance is not exhausted by the material
-level that supports it. The Bhāṣya makes the narrower claim about
-levels, great elements, and two modes of karma. It does not introduce
-Puruṣa, a presiding Self, or a Sāṃkhya retinue.
+The Bhāṣya distinguishes the status of bodily and verbal karma from the
+level of the Great Elements through which it is produced. It then
+identifies manifestation and non-disclosing continuity as the two forms
+of karma under discussion, and states that the latter is
+non-appropriated. The verse does not further explain that final
+classification.
 
 ## 10. Review Status
 
 The 4.05 unit is translated through [200|03] and stops before 4.06.
 The source reading `asravaṃ` has been explicitly corrected in the
 continuous text. The referent of `tadbalena` is identified as the
-level-specific great elements; the later account of `anupāttika`
+level-specific Great Elements; the later account of `anupāttika`
 remains a point for review against the continuation and independent
 witnesses.

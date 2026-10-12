@@ -5,14 +5,17 @@
 > kāme 'pi nivṛtā nāsti samutthānam asad yataḥ /
 > paramārthaśubho mokṣaḥ svato mūlahryapatrapāḥ // 4.08 //
 
-> Even in the desire domain, obscured-indeterminate manifestation does
-> not occur, because its producing condition is absent. Liberation is
-> wholesome in the ultimate sense; the wholesome roots, moral shame,
-> and moral concern are wholesome by their own nature.
+> Obscured-indeterminate manifestation does not occur in the desire realm; the
+> Bhāṣya reports it in Brahmaloka. The commentary explains its absence in the
+> desire realm, and above Brahmaloka, by the absence of the required
+> originating consciousness. Liberation—nirvāṇa—is wholesome ultimately,
+> because it is the complete pacification of suffering and supreme security.
+> The three wholesome roots, `hrī`, and `apatrāpya` are wholesome by intrinsic
+> nature, not through dependence on another wholesome factor.
 
-`Vijñapti` is the understood subject of the first clause. The Bhāṣya
-introduces four grounds of ethical predication, of which this verse
-determines the first two. The Kārikā study is `VAK_4.08.md`.
+`Vijñapti` is understood in the first clause and supplied explicitly by the
+Bhāṣya. The commentary introduces four grounds of ethical predication; this
+verse determines the first two. The kārikā study is `VAK_4.08.md`.
 
 ## 2. Continuous Sanskrit
 
@@ -55,153 +58,132 @@ trīṇi kuśalamūlāni. hriś cāpatrapyaṃ ca svabhāevna kuśalāni,
 anyasaṃprayogasamutthanānapekṣatvāt, pathyauṣadhavat.
 ```
 
-This unit runs from [201|18] to [202|12] of
-`Vasubandhu/Sources/kosabhasya.txt`; `saṃprayogeṇa tadyuktāḥ` at
-[202|13] begins 4.09. Word division and punctuation are editorial.
-The witness's `nivṛktāvyākṛtā`, `kṣiptavāt`, `svabhāevna`, and rough
-`mūlahyar patrapāḥ` are retained, with their interpretation stated
-below rather than silently normalized. The prose concerning higher
-dhyānas omitted by the research excerpt is restored here.
-The Sanskrit calls Mahābrahmā's act `kāyakarma`, bodily action, while
-the [parallel Chinese translations](https://www2.hf.uio.no/polyglotta/index.php?cid=503127&level=1&page=fulltext&vid=511&view=fulltext)
-describe deceitful speech and self-praise to avoid Aśvajit's question.
-That witness difference is not silently resolved in the Sanskrit block.
+This unit runs from [201|18] through [202|12] in
+`Vasubandhu/Sources/kosabhasya.txt`; `saṃprayogeṇa tadyuktāḥ` at [202|13]
+begins VAK 4.09. Word division and punctuation are editorial. The running
+witness's `nivṛktāvyākṛtā`, `kṣiptavāt`, `svabhāevna`, and rough final verse
+phrase are retained here rather than silently normalized. The Sanskrit
+describes Mahābrahmā's act as bodily action, while the
+[parallel Chinese translations](https://www2.hf.uio.no/polyglotta/index.php?cid=503127&level=1&page=fulltext&vid=511&view=fulltext)
+describe speech and self-praise; the exact form of the anecdotal act remains
+uncertain.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
-“Even in the desire domain, obscured-indeterminate manifestation does
-not exist.” It exists only in Brahmaloka. A bodily action arising from
-deceit is reported of Mahābrahmā. The damaged Sanskrit places him
-before his retinue and links his act to warding off the venerable
-Aśvajit; the Chinese witnesses describe boastful self-praise to evade
-Aśvajit's question. The precise bodily act is not secure here.
+“Even in the desire realm, obscured-indeterminate manifestation does not
+exist.” It exists only in Brahmaloka. A bodily action arising from deceit is
+reported of Mahābrahmā. The Sanskrit says that he acted before his retinue in
+connection with the venerable Aśvajit; the Chinese witnesses describe boastful
+self-praise to evade Aśvajit's question. The precise act is not secure.
 
-If there is no verbal manifestation above that level, how can sound as
-an external sensory object be produced there by external great elements?
-Others say that manifestation also exists in the second and higher
-dhyānas, but is unobscured-indeterminate, neither wholesome nor
-defiled. Why? One born in those levels does not bring into presence a
-mind of a lower level that could produce such manifestation; it is
-inferior and has been abandoned. This explains why the proposed higher
-manifestation could be neither wholesome nor defiled on that account.
-The earlier account, however, is the
-one being presented here.
+If verbal manifestation is absent above that level, how can the Sound Essence
+there be caused by external Great Elements? Others say that manifestation
+exists also in the second and higher dhyānas as unobscured-indeterminate,
+neither wholesome nor afflicted. One born at those levels does not bring a
+lower-level consciousness into presence to produce such manifestation,
+because that consciousness is inferior and has been abandoned. The commentary
+then returns to the account it explains.
 
 Why is there no manifestation above Brahmaloka, and no
-obscured-indeterminate manifestation in the desire domain? “Because its
-producing condition is absent.” Manifestation is produced by a mind
-possessing both initial application and sustained examination
-(`vitarka` and `vicāra`); such a mind is absent from the second dhyāna
-upward. Manifestation is also produced by a mind of the class abandoned
-through cultivation. What is abandoned through seeing turns inwardly
-and does not produce this outward action. The relevant
-obscured-indeterminate mind is absent in the desire domain.
+obscured-indeterminate manifestation in the desire realm? “Because its
+originating condition is absent.” Manifestation is produced by a
+consciousness possessing both `vitarka` and `vicāra`; such consciousness is
+absent from the second dhyāna upward. Manifestation is produced by
+consciousness abandoned through cultivation. What is abandoned through seeing
+proceeds inwardly and does not produce this outward manifestation. The
+relevant obscured-indeterminate consciousness is absent in the desire realm.
 
-Are dharmas then to be understood as wholesome or unwholesome solely
-because of their producing condition? No. They are determined in four
-ways: ultimately, by their own nature, by association, and by their
-producing condition. First, “liberation is wholesome in the ultimate
-sense.” Nirvāṇa is the pacification of all suffering; because it is
-supreme security, it is wholesome ultimately, as health is.
-
-“The roots, moral shame, and moral concern are wholesome by their own
-nature.” The three wholesome roots, `hrī`, and `apatrāpya` are
-intrinsically wholesome because they do not depend for their goodness
-on association with, or production by, something else. They are like
-beneficial medicine.
-
-The Brahmaloka anecdote and the final clause about the relevant
-obscured mind are translated provisionally because of rough source
-readings. The ethical distinctions themselves are explicit.
+Are Dharmas then to be classified as wholesome or unwholesome solely through
+their originating condition? No. The Bhāṣya gives four grounds:
+ultimately, intrinsically, by association, and by originating condition.
+First, liberation is wholesome ultimately. Nirvāṇa is the complete
+pacification of suffering and, as supreme security, is wholesome ultimately,
+like health. The wholesome roots, `hrī`, and `apatrāpya` are wholesome
+intrinsically because they do not depend on association with, or production
+by, another factor for their wholesome character, like beneficial medicine.
 
 ## 4. Movement and Voices
 
-The first question completes the distribution of `vijñapti` across
-levels. The Bhāṣya reports Mahābrahmā's deceit-produced bodily act,
-then allows another view about indeterminate manifestation in higher
-dhyānas before stating the preferred explanation from `samutthāna`.
-The next question asks whether this causal origin is the sole ground
-of ethical quality. The answer introduces four grounds and explains
-the first two: liberation is ultimately wholesome; the roots, `hrī`,
-and `apatrāpya` are intrinsically wholesome.
+The commentary first resolves the understood subject of the verse as
+`vijñapti`. It reports the Brahmaloka example, raises the question of sound
+above that level, and records an alternative view allowing unobscured-
+indeterminate manifestation in higher dhyānas. It then explains the
+restriction through the absence of a consciousness with the required
+`vitarka` and `vicāra`, and through the contrast between cultivation-abandoned
+and seeing-abandoned consciousness.
 
-`Anye punar āhuḥ` marks the alternative view about higher dhyānas.
-`Śrūyate` marks the Mahābrahmā episode as reported. The questions
-serve the commentary's dialectic; no single external objector is named.
-The Sanskrit and Chinese witnesses diverge on whether the reported
-deceitful expression is bodily or verbal; the argument needs only a
-manifest act arising from deceit in Brahmaloka.
+The next question tests whether originating condition alone determines
+ethical quality. The answer introduces four grounds and develops the first
+two. `Anye punar āhuḥ` marks the alternative higher-dhyāna view; `śrūyate`
+marks the Mahābrahmā episode as reported. The Sanskrit and Chinese witnesses
+differ on whether the deceitful expression is bodily or verbal.
 
-## 5. What Produces Manifestation
+## 5. Production of Manifestation
 
-The first half concerns **manifest** bodily and verbal action, not
-`avijñapti`. The proposed origin is a mind with `vitarka` and
-`vicāra`; this condition is lacking above first dhyāna. The passage
-also distinguishes what is abandoned through cultivation from what is
-abandoned through seeing. The latter turns inward and does not
-generate the outward manifestation at issue. The example of
-Mahābrahmā shows that obscured-indeterminate bodily manifestation is
-assigned a restricted place rather than denied everywhere.
+The first half concerns manifest bodily and verbal action, not
+`avijñapti`. The originating consciousness must possess `vitarka` and
+`vicāra`, a condition absent above the first dhyāna in the account presented.
+The passage also distinguishes consciousness abandoned through cultivation,
+which can activate outward manifestation, from consciousness abandoned
+through seeing, which proceeds inwardly. The desire realm lacks the
+obscured-indeterminate consciousness capable of producing the manifestation
+at issue.
 
-The alternative account of higher-level sound cautions against
-treating the distribution as undisputed. A sound-object produced by
-external great elements is not automatically identical with verbal
-`vijñapti`; the very question presses that distinction.
+The alternative account of higher-level sound is not silently merged with
+this explanation. Sound produced by external Great Elements is not
+automatically the same thing as verbal `vijñapti`; the Bhāṣya's question
+preserves that distinction.
 
 ## 6. Four Grounds of Ethical Predication
 
-The shift from `samutthāna` to `kuśala` asks by what relation an
-ethical predicate belongs to a dharma:
+The Bhāṣya rejects the inference that because manifestation is explained by
+its originating condition, all wholesome or unwholesome classification must
+be determined in that way. It lists four distinct grounds:
 
-```text
-paramārthataḥ       ultimately
-svabhāvataḥ         by own nature
-saṃprayogataḥ       by association
-samutthānataḥ       by producing condition
-```
+| Ground | Sense | Treatment in this unit |
+|---|---|---|
+| `paramārthataḥ` | ultimately | liberation / nirvāṇa |
+| `svabhāvataḥ` | intrinsically | the three wholesome roots, `hrī`, and `apatrāpya` |
+| `saṃprayogataḥ` | by association | introduced here; developed in VAK 4.09 |
+| `samutthānataḥ` | by originating condition | introduced here; developed in VAK 4.09 |
 
-4.08 determines the first two. Nirvāṇa is wholesome as final security
-and cessation of suffering. The three wholesome roots, moral shame,
-and moral concern are wholesome by their own nature. Association and
-originating condition are introduced here but argued in 4.09.
+Nirvāṇa is wholesome ultimately as the complete pacification of suffering
+and supreme security. The three wholesome roots, `hrī`, and `apatrāpya` are
+wholesome intrinsically: their classification does not depend on association
+with, or production by, another wholesome factor. The comparison is with
+health and beneficial medicine, respectively.
 
-## 7. Translation Decisions
+## 7. Translation Decisions and Limits
 
-`Nivṛtā` is read with understood `vijñapti`; the prose explicitly
-supplies it. `Asat` in `samutthānam asad yataḥ` means that the needed
-originating condition is absent, not that every origin is unwholesome.
-`Paramārthaśubha` is “wholesome ultimately” here because the Bhāṣya
-connects it with the cessation of suffering and supreme security.
-The rough verse cluster `mūlahyar patrapāḥ` is resolved by the prose
-as the three `kuśalamūlas`, `hrī`, and `apatrāpya`.
+`Nivṛtā` is read with the understood `vijñaptiḥ` supplied in the prose.
+`Asat` qualifies the required `samutthāna`: the originating condition is
+absent; it does not mean that the manifestation itself is “bad.” The
+Bhāṣya resolves the compressed final verse phrase as the three
+`kuśalamūlas`, `hrī`, and `apatrāpya`. The association and originating-
+condition grounds are introduced but not fully developed until VAK 4.09.
 
-## 8. Doctrinal Limit
+The Sanskrit's bodily-action reading of Mahābrahmā's deceitful act differs
+from the Chinese witnesses' description of speech and self-praise. The study
+preserves that difference rather than deciding between the witnesses.
 
-The four grounds cannot be compressed into “goodness comes from
-intention.” The text has just used an originating mind to explain
-manifestation, yet immediately refuses to make origin the only basis
-for ethical classification. Nirvāṇa, intrinsically wholesome factors,
-associated factors, and effects of wholesome origin occupy distinct
-positions in the account. The last two await the next unit.
+## 8. Interpretation
 
-## 9. Philosophical and Organon Study
+This unit moves from the conditions for manifest action to the distinct
+grounds on which ethical predicates apply. Its causal explanation of
+manifestation does not reduce wholesome and unwholesome classification to
+origin alone: the Bhāṣya explicitly distinguishes ultimate, intrinsic,
+associative, and originating-condition grounds, while explaining only the
+first two here.
 
-**Textual determination.** The Bhāṣya moves from conditions of
-manifest action to conditions under which ethical predicates are
-valid. It distinguishes the source of an event from the different
-grounds of its goodness. This prevents one causal explanation from
-swallowing every ethical distinction.
+In the Kośa's broader system, Discriminative Cognition (*vijñāna*) governs
+Mind (*manas*) and guides Dharma Base; it remains distinct from
+consciousness (*citta*) as the producing condition discussed in this
+passage. The same `avijñapti` is classified in Form Base and Dharma Base,
+with *vijñāna* bearing the stated *prati* relation to it.
 
-**Organon reconstruction.** In LOKA:KARMA, a world contract must say
-both *where* an action can appear and *why* a normative predicate
-belongs to it. The four grounds give a disciplined way to ask the
-second question. This is a project use of the source distinction,
-not Vasubandhu's own language of contracts or rational skies.
+## 9. Review Status
 
-## 10. Review Status
-
-The complete unit through [202|12] is translated and the study stops
-before 4.09. The alternative higher-dhyāna view and rough Sanskrit
-readings remain provisional. The Brahmaloka anecdote is now checked
-against parallel Chinese witnesses, which differ in the mode of action
-and clarify the evasion of Aśvajit's question.
+The complete unit through [202|12] is translated; the study stops before
+VAK 4.09. The alternative higher-dhyāna view and rough Sanskrit readings
+remain provisional. The Brahmaloka anecdote is translated with the bodily /
+verbal witness difference left unresolved.

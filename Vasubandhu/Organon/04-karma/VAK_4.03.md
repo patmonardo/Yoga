@@ -1,4 +1,4 @@
-# VAK_4.03
+# VAK_4.03 — Perishing, Configuration, and Verbal Manifestation
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -22,7 +22,11 @@ The argumentative subjects and school positions are not recoverable securely
 from the isolated Kārikā alone. They are resolved by the continuous Bhāṣya
 discussion extending from VAK 4.02 into this unit.
 
-## 3. Padaccheda and Lexical Analysis
+In its account of bodily action, the Bhāṣya distinguishes prior planning
+Cetanā from the later Cetanā that impels the body. It also identifies verbal
+manifestation with speech sound.
+
+## 3. Lexical Analysis
 
 ```text
 na                         → na
@@ -44,7 +48,7 @@ tu                         → tu
 vāk-dhvaniḥ                → vāgdhvaniḥ
 ```
 
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | na | negative particle | not |
 | kasyacit | genitive neuter singular indefinite pronoun | of anything / for anything |
@@ -166,21 +170,15 @@ The interpretation of `dvigrāhya` as apprehension by eye and bodily faculty,
 the inference from atomic absence, and the formulation in terms of independent
 material reality are Bhāṣya determinations.
 
-## 6. Philosophical Translation
+## 6. Bhāṣya-Based Synthesis
 
-> A conditioned occurrence does not first endure and then receive destruction
-> from a second cause. It is intrinsically perishable: causes account for the
-> arising of its successor, not for manufacturing its absence. What appears as
-> bodily motion is consequently a serial production of momentary material
-> arrangements. Yet configuration cannot simply be installed as another
-> self-subsisting material thing, for it is intelligible only through an
-> arranged plurality and is not contained in any isolated atom. Bodily action
-> therefore divides into determining volition and its designated manifest
-> form, whereas manifest verbal action is the produced sound of speech.
-
-This rendering follows the Sautrāntika reconstruction developed in the
-Bhāṣya. The Vaibhāṣikas retain configuration as a real material determination;
-the Kārikā records the controversy rather than erasing it.
+The Bhāṣya connects three determinations. Destruction is not a further
+positive effect requiring a destroyer; apparent motion is explained through
+successive arising; and the Sautrāntikas treat configuration as a designation
+grounded in arranged material plurality rather than as a separate entity.
+The Vaibhāṣikas retain configuration as real. The commentary then explains
+bodily karma through the volition that directs the body and identifies verbal
+manifestation with speech sound.
 
 ## 7. Technical Vocabulary
 
@@ -200,9 +198,12 @@ the Kārikā records the controversy rather than erasing it.
 | saṃniveśa | arrangement / disposition | organized plurality upon which longness and other configurations are designated |
 | prajñapti | designation | attribution grounded in arrangement without a separate configuration-entity |
 | kāyādhiṣṭhāna karma | action having the body as its basis or domain | Sautrāntika reconstruction of bodily action |
-| saṃkalpa-cetanā | projective or planning volition | Bhāṣya: prior volition, “I shall act thus” |
-| kriyā-cetanā | operative volition | Bhāṣya: volition that actually directs and impels the body |
+| cetanā | Cetanā; volition or intending | specific role in the definition and division of karma; not all mental activity |
+| saṃkalpa-cetanā | planning Cetanā | Bhāṣya: prior intending, “I shall act thus” |
+| kriyā-cetanā | operative Cetanā | Bhāṣya: later volition that directs and impels the body |
 | praṇetrī | directing / leading | Bhāṣya characterization of operative volition's relation to the body |
+| citta | consciousness | distinct from Cetanā; in this passage, the Bhāṣya asks whether non-disclosing continuity follows consciousness |
+| vijñapti / avijñapti | manifestation/disclosure / non-disclosing continuity | distinct modes in the karma discussion; the further dispute over avijñapti begins in 4.04 |
 | vāg-vijñapti | verbal manifestation | speech as manifest action |
 | vāk-dhvani | vocal sound / speech-sound | material manifestation of verbal karma |
 
@@ -338,72 +339,11 @@ determine the status of verbal `avijñapti`.
 
 ## 9. Interpretive Note
 
-VAK 4.03 enacts the immediate discipline of Transcendental Philosophy. It
-does not permit an explanatory demand to generate a new entity merely because
-the entity would make the explanation easy.
-
-First, destruction cannot be hypostatized as a positive product with its own
-producer. The question must instead be returned to the conditions under which
-a successor arises or fails to arise:
-
-```text
-not:
-    what thing produces non-being?
-
-but:
-    what conditions the next determination?
-```
-
-Second, configuration cannot be installed behind the arranged plurality as an
-extra material object. The Sautrāntika criticism preserves its semantic work
-while refusing its substantialization:
-
-```text
-configuration is objectively grounded
-    in determinate arrangement
-
-configuration is not therefore
-    an additional self-subsisting thing
-```
-
-This is already the form of the impending `avijñapti` trial. A function may be
-necessary without licensing a transcendent bearer of that function. The text
-has not yet reached its verdict on non-manifest action, but it has established
-the discipline under which the claim must be judged.
-
-The Hegelian contact is strongest at the level of method: a proposed
-determination is not refuted from outside but made to disclose the relations it
-presupposes. `Saṃsthāna` cannot maintain itself as an isolated entity; its
-truth passes into the determinate arrangement of a plurality and the activity
-through which that arrangement manifests volition.
-
-The Sāṃkhya–Yoga comparison should remain open at this stage. The passage has
-already distinguished determining activity, material plurality, configuration,
-manifestation, and causal succession—the exact kinds of difference that the
-project's Sāṃkhya–Yoga resources can articulate. But no one-to-one mapping has
-yet been established by the Sanskrit or Bhāṣya.
-
-The achieved sequence is:
-
-```text
-cetanā
-    determining activity
-
-saṃniveśa
-    material articulation
-
-saṃsthāna
-    manifest relational form
-
-vijñapti
-    action made known
-
-causal succession
-    efficacy beyond any isolated visible moment
-```
-
-The semantic task is not to erase any member of this sequence. It is to deny
-that each required distinction must become a separately subsisting entity.
+The Bhāṣya preserves distinct positions rather than giving one unqualified
+account of configuration: the Sautrāntikas treat it as a grounded
+designation, while the Vaibhāṣikas retain it as real. It also distinguishes
+planning Cetanā from operative Cetanā in its account of bodily action.
+`Avijñapti` is mentioned but its further dispute is deferred to 4.04.
 
 ## 10. OWL++ Seed
 

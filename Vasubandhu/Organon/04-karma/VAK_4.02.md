@@ -1,4 +1,4 @@
-# VAK_4.02
+# VAK_4.02 — Manifest Action, Configuration, and Momentariness
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -12,12 +12,13 @@
 >
 > saṃsthānaṃ na gatir yasmāt saṃskṛtaṃ kṣaṇikaṃ vyayāt // 4.2 //
 
-VAK 4.01 distinguished volition from the bodily and verbal actions generated
-by it. `Te` now resumes those latter two actions. The Bhāṣya makes the opening
-compression explicit: bodily and verbal karma are **each** to be understood as
-having manifest and non-manifest modes.
+VAK 4.01 identifies Cetanā as mental karma and distinguishes the bodily and
+verbal actions produced after intending. `Te` resumes those two actions. The
+Bhāṣya makes the opening compression explicit: bodily and verbal karma each
+have both a `vijñapti` and an `avijñapti` mode. These terms do not rename
+Cetanā.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 te                         → te
@@ -34,11 +35,11 @@ kṣaṇikam                   → kṣaṇikaṃ
 vyayāt                     → vyayāt
 ```
 
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | te | nominative neuter dual pronoun | those two: bodily and verbal actions from 4.01 |
 | tu | contrastive or transitional particle | now / as for those two |
-| vijñaptyavijñaptī | nominative feminine dual compound | manifestation and non-manifestation; Bhāṣya distributes both to each of the two actions |
+| vijñaptyavijñaptī | nominative feminine dual compound | manifestation/disclosure and non-disclosing continuity; Bhāṣya distributes both to each of the two actions |
 | kāyavijñaptiḥ | nominative feminine singular compound | bodily manifestation / bodily making-known |
 | iṣyate | present passive, third-person singular | is accepted, maintained, or held to be |
 | saṃsthānam | nominative neuter singular | configuration, determinate spatial arrangement |
@@ -54,14 +55,15 @@ known or manifest. It must remain distinct from `vijñāna`:
 
 ```text
 vijñāna
-    differentiated cognition
+    Cognition (Discriminative Cognition)
 
 vijñapti
     manifestation / making-known through action
 ```
 
-`Avijñapti` is not simple nonexistence or failure to act. The verse names it as
-a mode of bodily and verbal karma, but its positive constitution must be
+`Avijñapti` is not simple nonexistence or failure to act. The controlled
+technical rendering is **non-disclosing continuity**. The verse names it as a
+mode of bodily and verbal karma, but its positive constitution must be
 established by the following units.
 
 ## 4. Grammar
@@ -150,27 +152,22 @@ The distributive **each**, the body's being configured `cittavaśena`, “under
 the direction of consciousness,” and the denial of passage by one identical
 thing into another place are Bhāṣya determinations.
 
-## 6. Philosophical Translation
+## 6. Cetanā and Bodily Manifestation
 
-> Volition becomes objectively manifest not by sending one enduring bodily
-> entity through a continuous path, but by determining the body's
-> configuration anew within a succession of conditioned moments. The visible
-> act is therefore real as expression without being a self-identical motion
-> that persists across places. Yet bodily and verbal karma also possess a
-> non-manifest mode. The Abhidharma inquiry must consequently explain how
-> action remains existentially effective when its manifest configuration has
-> already perished.
-
-This does not deny experienced movement. It denies that movement is one
-conditioned entity which remains numerically identical while migrating from
-place to place.
+VAK 4.01 identifies Cetanā as mental karma and distinguishes the bodily and
+verbal actions produced from it. VAK 4.02 takes up those two actions and
+assigns both modes to each. The Bhāṣya then treats bodily manifestation in
+particular: it is the body's configuration under the direction of
+consciousness, not the transfer of one enduring conditioned thing between
+places. The verse grounds this rejection of motion in momentariness. It names
+`avijñapti` but does not yet establish its constitution.
 
 ## 7. Technical Vocabulary
 
 | Sanskrit | Controlled rendering | Determination in this unit |
 |---|---|---|
-| vijñapti | manifestation / making-known | expressive mode of bodily or verbal karma |
-| avijñapti | non-manifest action | karmic mode lacking present perceptible expression; positive determination remains for subsequent verses |
+| vijñapti | manifestation / disclosure | expressive mode of bodily or verbal karma |
+| avijñapti | non-disclosing continuity | mode assigned to each bodily and verbal action; positive determination remains for subsequent verses |
 | vijñapti-avijñapti-svabhāva | having manifestation and non-manifestation as natures | Bhāṣya's distributive analysis of bodily and verbal karma |
 | kāya-vijñapti | bodily manifestation | bodily configuration generated under the determination of consciousness |
 | cittavaśena | under the direction or power of consciousness | Bhāṣya-only condition distinguishing expressive configuration from mere shape |
@@ -307,64 +304,14 @@ therefore the section must distinguish
 `Avijñapti` is introduced at exactly this pressure point, but it should not yet
 be treated as a fully explained persistence mechanism.
 
-## 9. Interpretive Note
+## 9. Textual Connection
 
-The first forty-four verses form the major Abhidharma Karma section. VAK 4.01
-gave its existential problem:
-
-```text
-How does volitional activity generate differentiated existence?
-```
-
-VAK 4.02 gives the first specifically Abhidharma answer by asking what sort of
-existence an action itself possesses. It refuses to begin from the ordinary
-picture of an enduring body carrying an action through time and space. The
-visible bodily act is a momentary expressive configuration arising under the
-determination of consciousness.
-
-This makes `vijñapti` an event of objective expression:
-
-```text
-cetanā
-    inward determining activity
-
-cittavaśena saṃsthāna
-    body configured under that determination
-
-kāya-vijñapti
-    activity made manifest
-```
-
-The reciprocal difficulty is now unavoidable. If manifestation perishes in
-its moment, the chapter cannot locate the whole reality of karma in what is
-presently visible. `Avijñapti` names a non-manifest mode of bodily and verbal
-karma, but this verse announces rather than completes its theory.
-
-The existential determination is therefore precise:
-
-```text
-action exists as event,
-not as an enduring moving thing;
-
-yet its efficacy cannot be reduced
-to the event's present visibility.
-```
-
-The Bhāṣya's theory of momentariness intensifies rather than dissolves the
-problem of responsibility. It shifts the question from ownership by a
-persistent substrate to causal production within a continuum:
-
-```text
-not:
-    what identical thing carries the action forward?
-
-but:
-    what determination makes the next occurrence possible,
-    and what prevents or redirects its production?
-```
-
-That question will govern the technical analysis of `avijñapti`, restraint,
-and karmic continuity through the remainder of this opening section.
+VAK 4.01 identifies Cetanā as mental karma and distinguishes the bodily and
+verbal actions produced from it. VAK 4.02 takes up those produced actions,
+states that each has both modes, and examines bodily manifestation. The
+Bhāṣya's account of configuration and momentariness addresses bodily action;
+the positive constitution of `avijñapti` and the wider account of karmic
+continuity remain for the following verses.
 
 ## 10. OWL++ Seed
 

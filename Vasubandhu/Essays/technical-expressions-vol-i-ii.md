@@ -48,7 +48,8 @@ nor isolated rendering exhausts that science.
 | **Nāma-skandha view** | Project-level grouping of the four non-Rūpa Skandhas, viewed as **Jñāna-skandha : Vijñāna-skandha**. | Not a sixth Skandha or a source-defined compound. Jñāna-skandha is the ordinary-knowledge triad; Vijñāna-skandha remains its special Cognition member. |
 | **Jñāna-skandha view** | Project-level **ordinary knowledge**, grouping Vedanā, Saṃjñā, and Saṃskāra. | An overlay on three existing Skandhas, not another Skandha. Distinct from source *dharmaskandha* as a teaching-body and from Dharma-āyatana/Dharma-dhātu. |
 | **Āyatana** (*āyatana*) | Conventional senses include sphere, domain, basis, or sense-field. Controlled Organon term: **Essence**. In the project reading, it is the **Entry** into an Essential Relation of an Impure Dharma. | The Essential Relation comprises all products of Reflective Mind; Mind-Essence is Reflective Science at the Āyatana level. Keep this distinct from Dhātu / Determinate Science. “Essence” is a project rendering, not a lexical definition. |
-| **Dhātu** (*dhātu*) | Conventional sense depends on compound and context: **element**, **realm**, or **domain**. Organon: **Principle**. In the eighteenfold cognitive matrix, the eighteen Dhātus are precisely eighteen cognitive Principles. | Preserve local conventional senses such as *kāma-dhātu*. Do not reduce the eighteen cognitive Principles to a flat list of elements or domains. |
+| **Dhātu** (*dhātu*) | Conventional glosses vary by compound and context; controlled Organon rendering: **Principle**. In the eighteenfold cognitive matrix, the eighteen Dhātus are cognitive Principles. | Never use “element” as the controlled rendering of Dhātu: it directs the reading toward atomistic inventory and obscures the Principle's subjective and operative determination. A local gloss such as “realm” may remain when the passage specifically means a realm; do not generalize it into the technical rendering. |
+| **Bhūta / mahābhūta** (*bhūta, mahābhūta*) | **Element / Great Element**; plural **Great Elements**. | Keep this material-support classification distinct from Dhātu / Principle. “Element” belongs to *bhūta/mahābhūta*, not *dhātu*; this vocabulary alone does not assert an atomistic theory. |
 | **Indriya** (*indriya*) | **Faculty**, always. Its defining force is governing efficacy or power. | Never translate *indriya* as “organ.” Reserve “organ” for a separately named anatomical part, not as a gloss for *indriya*. A Faculty is determined by what it governs, not by anatomy alone. |
 | **Rūpa** (*rūpa*) | **Form**. | Never translate *rūpa* as “Matter.” Distinguish Form as an aggregate, visible form as an object-field, and the form realm. |
 
@@ -201,6 +202,55 @@ contrast technically operative; do not assume it is a synonym for *prāpti*.
 wandering. Keep it distinct from *loka*; it is useful context but not a
 coequal system-expression in the priority roster.
 
+### Organon Thesis: Pure Practical Reason and Loka:Cetanā
+
+The current Organon thesis treats the Abhidharma as **Pure Practical
+Reason**, oriented to liberation from suffering. “Pure” here does not mean a
+universal theoretical system that absorbs Perception or Conception. The
+Abhidharma's practical analysis does not itself subsume either; keep those
+cognitive operations distinct from its practical determinations.
+
+In this reading, Dhātu as Principle is **Subjective Light**: a Principle of
+Cetanā, not an atomistic inventory. A realm is read as a Principle prior to
+the operations of the Cetanā of a Being born in that realm. “Prior” marks
+structural or explanatory priority in the analysis, not an “in the beginning”
+cosmogony.
+
+The proposed relation is **Citta:Caitta informs Loka:Cetanā**. This is an
+Organon-level relation between mental structure and volitional organization
+of the lived world, not an equation among the terms or a lexical claim made
+by every source passage. Keep this thesis separate from translations and
+local Bhāṣya explanations unless the passage supports its use or the study
+explicitly turns to the Organon interpretation.
+
+### Working Organon Thesis: Opposition:Relation and the Bhava Chakra
+
+The proposed square is `Dhātu:Indriya :: Loka:Karma`. Its meaning is to be
+studied through the dialectical development of the two dyads, not inferred
+from any one term in isolation: Dhātu develops toward Loka, and Indriya
+toward Karma.
+
+The Chakra model treats a circle's division into two semicircles and then
+four quadrants as an articulation of its Rim. The quadrants are the
+components of that Rim. Within this construction, **Opposition** may be an
+**Anti-Relation**, rather than merely one species of Relation; the proposed
+notation **Opposition:Relation** marks this as an open structural question,
+not a settled definition.
+
+The proposed reverse movement `Citta → Loka` treats Citta as the Truth of
+Bhava and Loka as a Law of Appearance. The associated projector-machine
+image is provisional. The proposed ruler-function is over the Laws of
+Appearance: Indriya's governing operation develops into Cetanā, expressed
+through `Citta:Caitta → Loka:Cetanā`. Cetanā is the operative determination
+through which those Laws are ruled. **Ruler** is not a lexical rendering of
+*indriya*, whose controlled rendering remains **Faculty**.
+
+This is an Organon-level account of how a Scientific text may disclose
+Meaning through the development and opposition of its dyads. It does not
+alter the conventional translations of Dhātu, Indriya, Loka, or Karma and
+must not be inserted into a local verse translation unless the study
+explicitly undertakes that interpretation.
+
 ## 7. Conditions, Fields, Vastu, and Object
 
 These terms name different moments of knowing. Keep the cognitive
@@ -240,9 +290,10 @@ Dharma-Essence is the Seen. *Artha* is classified under the Seen, while
 Faculties. This is an Organon-level relation, not a lexical definition of
 either Sanskrit term.
 
-**Bounded supporting vocabulary:** *Bhūta/mahābhūta* means Element/great
-Element in the material analysis. Keep these distinct from *dhātu* when it
-means realm, domain, or the Organon Principle.
+**Bhūta/Dhātu boundary.** *Bhūta/mahābhūta* is rendered Element/Great
+Element(s); *dhātu* is rendered Principle. Do not let the Element gloss
+bleed into Dhātu or turn cognitive Principles into an atomistic inventory;
+see the distinct entries in Section 1.
 
 ## 8. Applying the Pre-Techne
 

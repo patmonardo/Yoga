@@ -1,14 +1,19 @@
-# VAK_4.06 Bhāṣya — Two Material Genealogies of Non-manifest Action
+# VAK_4.06 Bhāṣya — Two Genealogies of Non-disclosing Continuity
 
 ## 1. Kārikā Anchor
 
-> naiḥṣyandikī ca sattvākhyā niṣyandopāttabhūtajā /
-> samādhijaupacayikānupātābhinnabhūtajā // 4.06 //
+> naiḥṣyandikī ca sattvākhyā niṣyandopātta-bhūtajā /
+>
+> samādhijā aupacayikānupāttābhinna-bhūtajā // 4.6 //
 
-> [For the non-concentrated case,] non-manifest action belongs to homogeneous
-> causal outflow and to a sentient being; it arises from outflow-derived, appropriated great
-> elements. Concentration-born non-manifest action arises from developed,
-> non-appropriated great elements common to its several restraints.
+> At a non-concentrated level, `avijñapti` is a homogeneous causal
+> continuation designated in relation to a sentient continuum. It arises in
+> dependence upon outflow-derived, appropriated Great Elements and upon
+> consciousness and mental factors. The `avijñapti` born from samādhi—the
+> restraints of dhyāna and of the uncontaminated path—is produced through
+> cultivation and is non-appropriated. Its seven abstentions arise from one
+> undivided, common Great-Element basis, unlike the seven distinct bases of
+> prātimokṣa restraint.
 
 The second line follows the running witness's rough spelling; the
 Kārikā study `VAK_4.06.md` gives `anupāttā` where it reads `anupātā`.
@@ -63,24 +68,24 @@ and `anupātāni`; their relation to the expected `anupāttā` and
 `anupāttāni` remains a witness question. It also reads `pravandhād` in
 the configuration objection, retained above.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
-“It belongs to homogeneous outflow and is designated as belonging to a
+“It belongs to homogeneous outflow and is designated in relation to a
 sentient being.” Further, it is “born from outflow-derived, appropriated
-great elements.” Non-manifest action arises depending on great elements
-of homogeneous outflow, and also on mind and mental factors. This is the
+Great Elements.” Non-disclosing continuity arises depending on Great Elements
+of homogeneous outflow, and also on consciousness and mental factors. This is the
 account for the non-concentrated level.
 
-“That born from concentration arises from developed, non-appropriated,
-undivided great elements.” Non-manifest action consisting in restraint
-born from meditation and uncontaminated restraint is born from
-concentration. It arises depending on great elements produced by
-concentration, developed and non-appropriated. They are also undivided:
-the very great elements on which abstention from killing depends are
-those on which abstention through the last of the verbal wrongs depends.
-Why? Because the material elements are not divided, just as mind is not
-divided. With prātimokṣa restraint, by contrast, the seven non-manifest
-determinations depend on different great elements.
+“That born from concentration arises from cultivated, non-appropriated,
+undivided Great Elements.” Non-disclosing continuity consisting in restraint
+born from meditation and uncontaminated restraint is born from concentration.
+It arises depending on Great Elements produced through concentration,
+cultivated and non-appropriated. They are also undivided: the very Great
+Elements on which abstention from killing depends are those on which
+abstention through the last of the verbal wrongs depends. Why? Because the
+Great Elements are not divided, just as consciousness is not divided. With
+prātimokṣa restraint, by contrast, the seven non-disclosing continuities depend
+on different Great Elements.
 
 Manifest action, however, belongs to homogeneous outflow; bodily
 manifestation is appropriated. When this manifestation arises, does it
@@ -88,22 +93,22 @@ interrupt the continuum of the previous configuration, or does it not?
 What follows? If it interrupts that continuum, then an interrupted
 resultant form would have to resume afterward, which is unacceptable
 on the Vaibhāṣika account. But if it does not interrupt it, how could
-two configurations obtain in one aggregate of great elements? The
-answer is that different outflow-derived elements arise at that time,
+two configurations obtain in one collection of Great Elements? The
+answer is that different outflow-derived Elements arise at that time,
 on which the manifestation depends.
 
-An objector presses the material consequence: then each limb on which
-manifestation depends ought to become larger as those great elements
-pervade it. If they do not pervade it, how could the whole limb manifest
-the action? The answer is that the body is porous and has room for them.
+An objector presses the consequence: then each limb on which manifestation
+depends ought to become larger as those Great Elements pervade it. If they do
+not pervade it, how could the whole limb manifest the action? The answer is
+that the body is porous and has room for them.
 
 Karma, then, has been stated in different ways as twofold, threefold,
 and fivefold. It is volition and action after having willed. The latter
 is further divided into bodily and verbal action, while volition itself
 is the remaining member of the threefold classification. Bodily action
 is divided into what is called manifestation and what is called
-non-manifestation, and verbal action is likewise divided. Together with
-volition, that makes five. Non-manifest action is in turn twofold:
+non-disclosing continuity, and verbal action is likewise divided. Together
+with volition, that makes five. Non-disclosing continuity is in turn twofold:
 wholesome and unwholesome.
 
 The wording around the interruption of a prior configuration is
@@ -126,24 +131,24 @@ The material explanations follow the Vaibhāṣika position established
 at the end of 4.04. Several objections are dialectical and have no
 explicitly named school speaker in this unit.
 
-## 5. Two Modes of Non-manifest Action
+## 5. Two Modes of Non-disclosing Continuity
 
 For the non-concentrated level, `avijñapti` is `naiḥṣyandikī` and arises
-depending both on outflow-derived great elements and on `citta-caitta`.
+depending both on outflow-derived Great Elements and on `citta-caitta`.
 The verse calls it `sattvākhyā`, designated with reference to a sentient
 being. That designation does not introduce a substantial Self. The
-great elements in this ordinary case are `upātta`, appropriated;
+Great Elements in this ordinary case are `upātta`, appropriated;
 `avijñapti` itself remains `anupāttikā`, non-appropriated, as stated in
-4.05. The source assigns those predicates to the material basis and to
-the derived action respectively.
+4.05. The source assigns appropriation to the Great Elements and
+non-appropriation to the derived action.
 
 For restraint born of concentration, the prose names both
-`dhyānasaṃvara` and `anāsravasaṃvara`. Its great elements are generated
-through concentration and classified as developed and non-appropriated.
-The seven abstentions share the same material basis. `Abhinna` here
-means common across those restraints, not an indivisible metaphysical
-stuff. Prātimokṣa restraint provides the explicit contrast: seven
-non-manifest determinations depend on different bases.
+`dhyānasaṃvara` and `anāsravasaṃvara`. Its Great Elements are generated
+through concentration and classified as cultivated and non-appropriated.
+The seven abstentions share the same Great-Element basis. `Abhinna` here
+means common across those restraints. Prātimokṣa restraint provides the
+explicit contrast: seven non-disclosing continuities depend on different
+bases.
 
 ## 6. The Configuration Objection
 
@@ -152,7 +157,7 @@ introduces a new configuration, it must be related to the prior
 configuration. Interrupting the prior series creates a problem about
 its resumption; allowing both configurations at once creates a problem
 about their material bases. The Vaibhāṣika reply invokes newly arisen,
-outflow-derived elements and then the body's porosity to answer why
+outflow-derived Great Elements and then the body's porosity to answer why
 their presence need not enlarge the visible limb.
 
 This is the local material explanation offered by that school. It
@@ -166,8 +171,8 @@ The commentary gathers the earlier divisions without equating them:
 ```text
 two:   volition | action after having willed
 three: mental volition | bodily action | verbal action
-five:  mental volition | bodily manifest | bodily non-manifest
-       | verbal manifest | verbal non-manifest
+five:  mental volition | bodily manifestation | bodily non-disclosing continuity
+       | verbal manifestation | verbal non-disclosing continuity
 ```
 
 `Avijñapti` is then said to be wholesome or unwholesome. Why there is
@@ -178,10 +183,10 @@ no ethically indeterminate `avijñapti` is the next verse's question.
 “Homogeneous outflow” renders `niṣyanda`; “developed” renders
 `aupacayika`. Neither should be flattened into an unqualified modern
 idea of information storage. The difference between shared and
-separate great-element bases is a Vaibhāṣika material distinction.
+separate Great-Element bases is a Vaibhāṣika distinction.
 `Anupātā` is preserved as a rough witness reading; the conventional
 translation follows the contextually expected “non-appropriated.”
-`Upātta` in `niṣyandopāttabhūtajā` modifies the great elements from
+`Upātta` in `niṣyandopāttabhūtajā` modifies the Great Elements from
 which ordinary `avijñapti` arises; it does not reverse 4.05's
 classification of `avijñapti` itself as `anupāttikā`.
 
@@ -189,21 +194,14 @@ The Kārikā itself stops at the description of concentration-born
 `avijñapti`. The configuration objection and two/three/five count are
 Bhāṣya prose belonging to its natural unit.
 
-## 9. Philosophical and Organon Study
+## 9. Interpretation
 
-**Textual determination.** The same normative abstentions can have
-different material genealogies according to how restraint arises.
-Concentration-born restraint shares a basis; prātimokṣa restraint has
-separate bases. The later objection asks how manifest action can arise
-within an already configured body. These are concrete constraints on
-any account of continuing karma.
-
-**Organon reconstruction.** LOKA:KARMA here demands that a standing
-determination have a specified mode of production and support. A
-unified rational stance is no substitute for those distinctions. The
-Puruṣa–Prajñā thought can remain a comparative question; the present
-Bhāṣya explains great elements, concentration, and kinds of restraint,
-without positing a presiding Puruṣa.
+The Bhāṣya distinguishes ordinary non-disclosing continuity from restraint
+born through concentration. The latter has a common Great-Element basis for
+seven abstentions, while prātimokṣa restraint has distinct bases. It then
+examines how manifest bodily action relates to an existing bodily
+configuration and closes by summarizing karma's twofold, threefold, and
+fivefold divisions.
 
 ## 10. Review Status
 

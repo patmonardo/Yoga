@@ -1,4 +1,4 @@
-# VAK_4.07
+# VAK_4.07 — Ethical Force and the Realms of Action
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -23,7 +23,7 @@ mode of karma
 ethical quality
     → wholesome / unwholesome / indeterminate
 
-domain or contemplative level
+realm or contemplative level
     → desire / form / formless
 ```
 
@@ -35,91 +35,24 @@ a karmic determination capable of continuing after that mind has ceased.
 The verse therefore moves from taxonomy into a theory of effective practical
 determination.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
-na                         → nā- before avyākṛtā
-avyākṛtā                   → avyākṛtā
-asti                       → asty before avijñaptiḥ
-avijñaptiḥ                 → avijñaptiḥ
-tridhā                     → tridhā
-anyat                      → anyat
-aśubham                    → aśubham
-punaḥ                      → punaḥ
-kāme                       → kāme
-rūpe                       → rūpe
-api                        → 'py after -e
-avijñaptiḥ                 → avijñaptir before v-
-vijñaptiḥ                  → vijñaptiḥ
-sa-vicārayoḥ               → savicārayoḥ
+na avyākṛtā asti avijñaptiḥ /
+tridhā anyat aśubham punaḥ /
+kāme rūpe api avijñaptiḥ vijñaptiḥ sa-vicārayoḥ
 ```
 
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
-| na | negative particle | excludes indeterminate `avijñapti` |
-| avyākṛtā | nominative feminine singular adjective | ethically indeterminate; neither wholesome nor unwholesome |
-| asti | third-person singular present of `√as` | exists; occurs |
-| avijñaptiḥ | nominative feminine singular | non-manifest action / non-disclosive form |
-| tridhā | indeclinable adverb | in three ways; according to three ethical qualities |
-| anyat | nominative neuter singular | the other or remainder; Bhāṣya: both `vijñapti` and `cetanā` |
+| na avyākṛtā | negative particle and nominative feminine singular adjective | excludes ethically indeterminate `avijñapti` |
+| avijñaptiḥ | nominative feminine singular | non-disclosing continuity |
+| tridhā | indeclinable adverb | threefold, by ethical quality |
+| anyat karma | nominative neuter singular | the other karma; the Bhāṣya identifies `vijñapti` and `cetanā` |
 | aśubham | nominative neuter singular adjective used substantivally | the unwholesome [karma] |
-| punaḥ | connective adverb | however; now in turn |
-| kāme | locative singular of `kāma` | in the desire domain |
-| rūpe | locative singular of `rūpa` | in the form domain |
-| api | particle | also; Bhāṣya: in the desire domain as well as the form domain |
-| vijñaptiḥ | nominative feminine singular | manifest or disclosive bodily/verbal action |
-| savicārayoḥ | locative dual of `savicāra` | in the two levels possessing `vicāra` |
-
-**The scope of `anyat`**
-
-The singular `anyat` is compressed.
-
-It does not refer only to `vijñapti`.
-
-The Bhāṣya explicitly asks what the “other” is and answers:
-
-```text
-vijñaptiḥ ca
-cetanā ca
-
-manifest action
-and volition
-```
-
-Each is threefold:
-
-```text
-kuśala
-akuśala
-avyākṛta
-```
-
-The close translation must therefore allow a collective remainder even though
-the Sanskrit expression is singular.
-
-**The scope of `savicārayoḥ`**
-
-`Savicārayoḥ` is locative dual.
-
-The Bhāṣya identifies its two members exactly:
-
-```text
-kāmadhātu
-prathama-dhyāna
-```
-
-Thus `vijñapti` occurs in the desire domain and in the first dhyāna, but not in
-higher dhyānas.
-
-**Witness caution**
-
-The transmitted prose `kuśalāvyākṛtaṃ tu sarvatra prativedhāt` is semantically
-difficult in its present form.
-
-No emendation is silently introduced here.
-
-The secure determinations of the passage do not depend upon forcing a final
-translation of that sentence.
+| kāme, rūpe | locative singulars | in the desire realm; in the Form realm |
+| vijñaptiḥ | nominative feminine singular | manifestation; bodily or verbal disclosure |
+| savicārayoḥ | locative dual | in the two levels possessing `vicāra` |
 
 ## 4. Grammar
 
@@ -129,7 +62,7 @@ The opening statement is direct:
 avyākṛtā avijñaptiḥ
     na asti
 
-an ethically indeterminate avijñapti
+an ethically indeterminate non-disclosing continuity
     does not exist
 ```
 
@@ -153,14 +86,14 @@ cetanā
     kuśalā / akuśalā / avyākṛtā
 ```
 
-The next statement restricts unwholesome karma by domain:
+The next statement restricts unwholesome karma by realm:
 
 ```text
 aśubhaṃ [karma]
     kāme [eva]
 
 unwholesome karma
-    [exists] only in the desire domain
+    [exists] only in the desire realm
 ```
 
 `Punaḥ` marks a renewed qualification rather than a contradiction of the
@@ -171,18 +104,18 @@ The particle `api` must be read from the Bhāṣya's explanation:
 ```text
 rūpe api avijñaptiḥ [asti]
 
-avijñapti exists also in the form domain
+non-disclosing continuity exists also in the Form realm
 ```
 
-“Also” includes its already understood existence in the desire domain:
+“Also” includes its already understood existence in the desire realm:
 
 ```text
 avijñapti
-    → desire domain
-    → form domain
+    → desire realm
+    → Form realm
 ```
 
-It does not extend `avijñapti` into the formless domain.
+It does not extend `avijñapti` into the formless realms.
 
 The last clause gives the distribution of manifest action:
 
@@ -190,7 +123,7 @@ The last clause gives the distribution of manifest action:
 vijñaptiḥ
     savicārayoḥ [bhūmyoḥ eva]
 
-manifest action
+manifestation
     [exists] only in the two levels possessing vicāra
 ```
 
@@ -201,7 +134,7 @@ kāmadhātau
 prathame ca dhyāne
 na tata ūrdhvam
 
-in the desire domain
+in the desire realm
 and in the first dhyāna
 not above that
 ```
@@ -210,9 +143,10 @@ not above that
 
 ### Literal Translation
 
-> There is no ethically indeterminate `avijñapti`; the remaining [karmas] are
-> threefold. The unwholesome, however, exists in the desire domain.
-> `Avijñapti` exists also in the form domain; `vijñapti` exists in the two
+> There is no ethically indeterminate non-disclosing continuity; the
+> remaining [karmas] are threefold. The unwholesome, however, exists in the
+> desire realm. Non-disclosing continuity exists also in the Form realm;
+> manifestation exists in the two
 > levels possessing `vicāra`.
 
 The plural “remaining karmas” is supplied from the Bhāṣya's explicit
@@ -220,61 +154,57 @@ identification of `vijñapti` and `cetanā`.
 
 ### Bhāṣya-informed study translation
 
-> Non-manifest action is never ethically indeterminate: it is either wholesome
-> or unwholesome. Manifest action and volition, by contrast, may each be
-> wholesome, unwholesome, or indeterminate. Unwholesome karma is confined to
-> the desire domain. Non-manifest action occurs in both the desire domain and
-> the form domain, but not in the formless domains. Manifest bodily and verbal
-> action occurs only in the two levels where `vicāra` remains operative—the
-> desire domain and the first dhyāna.
+> Non-disclosing continuity is never ethically indeterminate: it is either
+> wholesome or unwholesome. Manifestation and volition, by contrast, may each
+> be wholesome, unwholesome, or indeterminate. Unwholesome karma is confined
+> to the desire realm. Non-disclosing continuity occurs in both the desire
+> realm and the Form realm, but not in the formless realms. Bodily and verbal
+> manifestation occurs only in the two levels where `vicāra` remains
+> operative—the desire realm and the first dhyāna.
 
-The absence of `avijñapti` from the formless domains, the identification of the
+The absence of `avijñapti` from the formless realms, the identification of the
 two `savicāra` levels, and the inclusion of `cetanā` under `anyat` are Bhāṣya
 determinations.
 
-## 6. Philosophical Translation
+## 6. Interpretation
 
-> Not every mental occurrence establishes an objective continuation of action.
-> A neutral mind may arise and cease, but it lacks the force required to
-> project a practical determination beyond its own occurrence. Non-manifest
-> action therefore belongs only to wholesome or unwholesome determination.
-> Its persistence also remains conditioned by an appropriate material field:
-> it can occur in the desire and form domains, but not where all material form
-> has been left behind.
+The Bhāṣya's reason for excluding ethically indeterminate
+`avijñapti` is causal: an indeterminate consciousness lacks the strength to
+project karma that continues after that consciousness ceases. The text then
+distinguishes the ethical quality of karma from its distribution among the
+desire, Form, and formless realms. It also limits bodily and verbal
+manifestation to the desire realm and first dhyāna.
 
-This gives `avijñapti` a sharper meaning than “something invisible.”
-
-It is the proposed material persistence of ethically forceful action after the
-originating mental event has ceased.
-
-The Bhāṣya's argument joins ethical determination, causal strength, temporal
-continuation, and material support without reducing any one of them to the
-others.
+In the Kośa's broader system, Discriminative Cognition (*vijñāna*) governs
+Mind (*manas*) and guides Dharma Base; it remains distinct from the
+consciousness (*citta*) whose causal strength is discussed here. The same
+`avijñapti` is classified in Form Base and Dharma Base, with *vijñāna* bearing
+the stated *prati* relation to it.
 
 ## 7. Technical Vocabulary
 
 | Sanskrit | Controlled rendering | Determination in this unit |
 |---|---|---|
 | kuśala | wholesome / skillful | ethical determination capable of belonging to `avijñapti`, `vijñapti`, or `cetanā` |
-| akuśala / aśubha | unwholesome | ethically negative karma, restricted to the desire domain |
+| akuśala / aśubha | unwholesome | karma restricted to the desire realm |
 | avyākṛta | ethically indeterminate | neither wholesome nor unwholesome; excluded from `avijñapti` |
-| avijñapti | non-manifest action / non-disclosive form | continuing karmic determination that may be wholesome or unwholesome, never indeterminate |
-| vijñapti | manifest action / disclosive form | bodily or verbal action perceptibly expressed |
+| avijñapti | non-disclosing continuity | karma that may be wholesome or unwholesome, never indeterminate |
+| vijñapti | manifestation / disclosure | bodily or verbal action in its disclosive mode |
 | cetanā | volition | mental karma; with `vijñapti`, included in the threefold ethical classification |
-| durbala-citta | weak mind | Bhāṣya explanation of ethically indeterminate mind's insufficient projective force |
+| durbala-citta | weak consciousness | Bhāṣya explanation of ethically indeterminate consciousness's insufficient projective force |
 | balavat-karma | forceful karma | karma capable of continuing after the originating mind has ceased |
 | ākṣip | project / establish | generate a karmic determination with continuing causal efficacy |
 | anubandh | continue after / follow upon | persist in the continuum after the originating citta has ceased |
-| kāmadhātu | desire domain | only domain in which unwholesome karma occurs |
-| rūpadhātu | form domain | domain in which wholesome `avijñapti` can occur |
-| ārūpyadhātu | formless domain | excludes `avijñapti` because the required material basis is absent |
-| bhūta | great material determination / great element | indispensable support for materially classified `avijñapti` |
-| savicāra | possessing sustained examination | character of the desire domain and first dhyāna relevant to `vijñapti` |
+| kāmadhātu | desire realm | only realm in which unwholesome karma occurs |
+| rūpadhātu | Form realm | realm in which `avijñapti` can occur |
+| ārūpyadhātu | formless realm | excludes `avijñapti` because Elements are absent |
+| bhūta | Element | support relevant to the absence of `avijñapti` in formless realms |
+| savicāra | possessing sustained examination | character of the desire realm and first dhyāna relevant to `vijñapti` |
 | prathama-dhyāna | first dhyāna | highest contemplative level in which `vijñapti` occurs |
-| āhrīkya | shamelessness | unwholesome factor abandoned above the desire domain |
+| āhrīkya | shamelessness | unwholesome factor abandoned above the desire realm |
 | anapatrāpya | lack of moral concern | unwholesome factor paired with shamelessness |
-| sarvarūpavaimukhya | complete turning away from form | character of formless attainment that blocks production of material form |
-| dauḥśīlya | misconduct | desire-domain fault opposed by ethical discipline |
+| sarvarūpavaimukhya | complete turning away from Form | character of formless attainment that blocks production of Form |
+| dauḥśīlya | misconduct | desire-realm fault opposed by ethical discipline |
 | pratipakṣa | antidote / counteragent | relation in which `śīla` stands to misconduct |
 | śīla | ethical discipline | restraint functioning as the antidote to misconduct |
 
@@ -292,8 +222,8 @@ balavat
     = capable of establishing continuation
       beyond the originating citta
 
-non-manifest
-    ≠ present in every domain
+non-disclosing continuity
+    ≠ present in every realm
 ```
 
 ## 8. Logical Determination
@@ -337,11 +267,11 @@ to continue after its originating mental event has ceased
 The converse is not established automatically. Causal force alone does not
 prove that every continuation is a distinct `avijñapti` dharma.
 
-**Domain classification**
+**Realm classification**
 
 The second matrix is:
 
-| Determination | Desire domain | Form domain | Formless domain |
+| Determination | Desire realm | Form realm | Formless realm |
 |---|---:|---:|---:|
 | unwholesome karma | yes | no | no |
 | `avijñapti` | yes | yes | no |
@@ -350,20 +280,21 @@ The second matrix is:
 The restriction of unwholesome karma is ethical:
 
 ```text
-above the desire domain
+above the desire realm
     → unwholesome roots are abandoned
     → shamelessness and lack of moral concern are absent
     → unwholesome karma does not occur
 ```
 
-The exclusion of formless `avijñapti` is material and practical:
+The exclusion of formless `avijñapti` is based on its Element-support and
+practical role:
 
 ```text
 avijñapti is materially classified
-    → requires great material elements
+    → requires Elements
 
-formless domains lack those material elements
-    → no formless-domain avijñapti
+formless realms lack those Elements
+    → no formless-realm avijñapti
 ```
 
 The Bhāṣya strengthens the argument:
@@ -377,10 +308,10 @@ formless attainment
     → antidote to misconduct
 
 misconduct
-    → belongs to the desire domain
+    → belongs to the desire realm
 
 formless attainments
-    → remote from desire-domain misconduct
+    → remote from desire-realm misconduct
        in support, mode, object, and counteraction
 ```
 
@@ -390,7 +321,7 @@ The final cluster is explicitly presented as the Vaibhāṣika position.
 
 The Bhāṣya allows a natural objection to appear.
 
-If uncontaminated determination is not confined to an ordinary domain, might a
+If uncontaminated determination is not confined to an ordinary realm, might a
 practitioner absorbed in a formless attainment possess an uncontaminated
 `avijñapti`?
 
@@ -398,15 +329,15 @@ The answer distinguishes two claims:
 
 ```text
 anāsrava determination
-    → does not fall within an ordinary domain
+    → does not fall within an ordinary realm
 
-but avijñapti as rūpa
-    → still requires a material basis
+but avijñapti as Form
+    → still requires Element support
 ```
 
-Therefore the uncontaminated status of the Path does not create formless
-matter or permit a formless-domain `avijñapti` to depend upon heterogeneous
-material elements.
+Therefore the uncontaminated status of the Path does not produce Elements in a
+formless realm or permit formless `avijñapti` to depend upon Elements of a
+dissimilar class.
 
 **Manifest action and `vicāra`**
 
@@ -417,7 +348,7 @@ vijñapti
     → requires a level possessing vicāra
 
 levels possessing vicāra here
-    → desire domain
+    → desire realm
     → first dhyāna
 
 therefore
@@ -426,165 +357,9 @@ therefore
 
 This is not a general claim that nothing practical occurs at higher levels.
 
-It is a domain restriction upon manifest bodily and verbal karma.
+It is a realm restriction upon manifest bodily and verbal karma.
 
-## 9. Interpretive Note
-
-**Occurrence is not yet effective determination**
-
-The major Dharma Talk within this Bhāṣya begins from a deceptively simple
-question:
-
-Why can `avijñapti` not be ethically indeterminate?
-
-The answer changes the level of the inquiry.
-
-Vasubandhu does not merely say that the classification table lacks an
-indeterminate member. He explains that an indeterminate citta is `durbala`.
-It cannot project a `balavat-karma` capable of remaining in continuity after
-the originating citta has ceased.
-
-The distinction is therefore:
-
-```text
-mere occurrence
-    → arises and ceases
-
-effective practical determination
-    → arises
-    → projects a consequence
-    → continues after the originating occurrence has ceased
-```
-
-This gives us an exact contact point with our discussion of `kṣaṇa`.
-
-Immediate intuition presents an arising that vanishes. But not everything that
-vanishes is thereby without result. The question of karma is whether the
-vanishing occurrence has established a determination capable of entering the
-differentiated field as an objective continuation.
-
-At the Organon level:
-
-```text
-the originating citta vanishes
-    ≠ its determination necessarily vanishes without consequence
-
-ethical force
-    → mediates the transition
-      from immediate occurrence
-      to continuing practical objectivity
-```
-
-This comparison belongs to our philosophical reconstruction. The Bhāṣya itself
-speaks of the mind ceasing and the projected karma continuing.
-
-**Strength as determinative capacity**
-
-`Durbala` and `balavat` should not be psychologized.
-
-The Bhāṣya is not primarily contrasting a faint feeling with an intense
-feeling. Strength is measured by what the determination can do:
-
-```text
-weak
-    → cannot establish continuity beyond its own citta
-
-strong
-    → can project karma that continues afterward
-```
-
-This is practical force.
-
-The ethical quality of the originating consciousness is therefore internally
-connected with its power of objective continuation. Wholesome and unwholesome
-determinations can bind the continuum in opposed ways. Ethical neutrality does
-not acquire that form of binding persistence.
-
-Here `avijñapti` becomes more intelligible when approached semantically rather
-than imagined pictorially. We do not need to picture a hidden object floating
-behind the deed. We first determine the function assigned to it:
-
-```text
-the deed is no longer manifest
-the originating citta has ceased
-the ethical determination nevertheless continues
-```
-
-The further ontological question remains open: must this function be borne by
-a distinct material dharma, or can the causal series itself account for the
-continuity?
-
-That is the proper point at which the Vaibhāṣika and Sautrāntika constructions
-can later be compared.
-
-**Determination requires a field**
-
-The second half of the Dharma Talk prevents practical continuity from becoming
-an abstract power detached from its conditions.
-
-Even a forceful ethical determination requires the kind of field in which its
-mode of actuality is possible.
-
-`Avijñapti` is classified as form. It therefore cannot be assigned to the
-formless domains merely because an uncontaminated Path determination can occur
-in relation to a practitioner absorbed there.
-
-The levels must not be collapsed:
-
-```text
-soteriological status
-    → contaminated or uncontaminated
-
-material mode
-    → manifest or non-manifest form
-
-cosmological support
-    → desire, form, or formless domain
-```
-
-An uncontaminated determination does not manufacture an uncontaminated or
-formless material substrate.
-
-The Bhāṣya thus joins force and field:
-
-```text
-force without an appropriate field
-    → cannot assume this material mode
-
-field without sufficient ethical force
-    → does not generate continuing avijñapti
-
-avijñapti
-    → requires both determinate force and suitable material support
-```
-
-**Readable form and doctrinal form**
-
-The argument itself shows why the perfected Kośa cannot be written as packed
-textbook prose.
-
-Several distinct questions are operating at once:
-
-```text
-Which karmas possess which ethical qualities?
-
-Why does neutral consciousness fail to produce avijñapti?
-
-Where can unwholesome karma occur?
-
-Why is avijñapti absent from the formless domains?
-
-Why does manifest action cease above the first dhyāna?
-```
-
-Compressing these into one optimized paragraph would preserve propositions
-while destroying the movement of understanding.
-
-The Doctrine App and PDF should instead let the reader descend through the
-argument one determination at a time. The visible spacing is not ornamental.
-It is part of the pedagogical representation of the logical structure.
-
-## 10. OWL++ Seed
+## 9. OWL++ Seed
 
 ```text
 Class: Karma
@@ -597,30 +372,18 @@ Class: Unwholesome
 Class: Indeterminate
 Class: UnwholesomeKarma
 Class: Citta
-Class: WeakCitta
-Class: ForcefulKarma
-Class: ContinuingKarmicDetermination
-Class: Domain
-Class: DesireDomain
-Class: FormDomain
-Class: FormlessDomain
+Class: Realm
+Class: DesireRealm
+Class: FormRealm
+Class: FormlessRealm
 Class: FirstDhyana
-Class: MahabhutaBasis
+Class: Element
 Class: VicaraPossessingLevel
-Class: EthicalDiscipline
-Class: Misconduct
 
 ObjectProperty: hasEthicalQuality
-ObjectProperty: projectedBy
 ObjectProperty: continuesAfter
-ObjectProperty: existsInDomain
-ObjectProperty: requiresMaterialBasis
-ObjectProperty: opposes
-ObjectProperty: possessesFactor
-
-DataProperty: hasProjectiveStrength
-DataProperty: isManifest
-DataProperty: isMateriallyClassified
+ObjectProperty: existsInRealm
+ObjectProperty: requiresElementSupport
 
 Avijnapti SubClassOf Karma
 Vijnapti SubClassOf Karma
@@ -636,107 +399,44 @@ UnwholesomeKarma SubClassOf
 Avijnapti SubClassOf
     hasEthicalQuality only (Wholesome or Unwholesome)
 Avijnapti SubClassOf
-    hasEthicalQuality exactly 1 EthicalQuality
-Avijnapti SubClassOf
-    requiresMaterialBasis some MahabhutaBasis
-Avijnapti SubClassOf
-    isMateriallyClassified value true
+    requiresElementSupport some Element
 
 Vijnapti SubClassOf
     hasEthicalQuality only (Wholesome or Unwholesome or Indeterminate)
 Cetana SubClassOf
     hasEthicalQuality only (Wholesome or Unwholesome or Indeterminate)
 
-WeakCitta SubClassOf Citta
-WeakCitta SubClassOf
-    hasProjectiveStrength value insufficient
-
-ForcefulKarma SubClassOf Karma
-ForcefulKarma SubClassOf
-    continuesAfter some Citta
-
-DesireDomain SubClassOf Domain
-FormDomain SubClassOf Domain
-FormlessDomain SubClassOf Domain
-FirstDhyana SubClassOf FormDomain
+DesireRealm SubClassOf Realm
+FormRealm SubClassOf Realm
+FormlessRealm SubClassOf Realm
+FirstDhyana SubClassOf FormRealm
 FirstDhyana SubClassOf VicaraPossessingLevel
-DesireDomain SubClassOf VicaraPossessingLevel
+DesireRealm SubClassOf VicaraPossessingLevel
 
 UnwholesomeKarma SubClassOf
-    existsInDomain only DesireDomain
+    existsInRealm only DesireRealm
 
 Avijnapti SubClassOf
-    existsInDomain only (DesireDomain or FormDomain)
+    existsInRealm only (DesireRealm or FormRealm)
 
 Vijnapti SubClassOf
-    existsInDomain only (DesireDomain or FirstDhyana)
+    existsInRealm only (DesireRealm or FirstDhyana)
 
 DisjointClasses:
     Wholesome,
     Unwholesome,
     Indeterminate
-
-Constraint: NoIndeterminateAvijnapti
-    if x Type Avijnapti
-    then x hasEthicalQuality Indeterminate is false
-
-Rule: NeutralMindCannotProjectAvijnapti
-    Citta(?c)
-    and hasEthicalQuality(?c, Indeterminate)
-    and hasProjectiveStrength(?c, insufficient)
-    -> cannotProject(?c, ContinuingKarmicDetermination)
-
-Rule: ContinuingDeterminationOutlastsOrigin
-    ForcefulKarma(?k)
-    and projectedBy(?k, ?c)
-    and Citta(?c)
-    -> continuesAfter(?k, ?c)
-
-Rule: NoFormlessAvijnapti
-    Avijnapti(?a)
-    and requiresMaterialBasis(?a, MahabhutaBasis)
-    and FormlessDomain(?d)
-    and lacks(?d, MahabhutaBasis)
-    -> existsInDomain(?a, ?d) is false
-
-Rule: ManifestActionLevelRestriction
-    Vijnapti(?v)
-    and existsInDomain(?v, ?d)
-    -> VicaraPossessingLevel(?d)
-
-OrganonInference:
-    immediate occurrence
-        may vanish without establishing
-    continuing practical objectivity
-
-    sufficiently forceful ethical determination
-        mediates
-    occurrence into causal continuation
-
-Boundary:
-    the ethical and domain matrices,
-    weak-mind argument,
-    material-support argument,
-    and identification of the two savicara levels
-        formalize the karika and Bhasya
-
-    Immediate Intuition,
-    differentiated field,
-    and practical objectivity
-        are Organon-level interpretations
-        not lexical claims of VAK 4.07
 ```
 
-The result of VAK 4.07 can be stated without compression:
+This seed records the ethical and realm classifications stated or explained in
+the unit. The causal explanation for the absence of indeterminate
+`avijñapti`, and the Vaibhāṣika attribution of the formless-realm argument,
+remain in the prose rather than being generalized into additional rules.
 
-```text
-not every citta projects a continuing karmic determination
+## 10. Review Status
 
-not every ethical quality belongs to every mode of karma
-
-not every mode of karma is possible in every domain
-
-effective action requires
-    sufficient determinative force
-    and an adequate field of actuality
-```
+The natural unit through [201|17] is translated and the study stops before
+4.08. The damaged `prativedhāt` clause and the compressed formless-realm
+exchange remain provisional. The omitted `tatra` is restored and two
+editorial repairs are identified. Research witnesses and the running source
+were left intact.

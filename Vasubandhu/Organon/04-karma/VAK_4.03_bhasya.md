@@ -5,10 +5,13 @@
 > na kasyacid ahetoḥ syād hetuḥ syāc ca vināśakaḥ /
 > dvigrāhyaṃ syān na cāṇau tad vāgvijñaptis tu vāgdhvaniḥ // 4.03 //
 
-> Otherwise destruction would never be without a cause; a productive cause
-> would itself become a destroyer. Configuration would be apprehended by
-> two faculties, yet it is not present in an atom. Verbal manifestation,
-> however, is speech sound.
+> If destruction required a cause as arising does, no destruction would be
+> causeless; yet momentary cognitions, sounds, and flames cease without a
+> separate destroyer, and a productive cause would otherwise have to function
+> as a destroyer. Moreover, if bodily configuration were an independently real
+> material determination, the same form would be directly apprehensible by
+> both sight and touch, although no such configuration exists within a single
+> atom. Verbal manifestation, by contrast, is speech-sound.
 
 The first two pādas continue the proof of momentariness opened by 4.02. The
 last two test the reality of bodily configuration and identify verbal
@@ -280,19 +283,19 @@ mental karma are understood correspondingly. What, then, of the sūtra's
 the body is impelled; this is called action after having willed.
 
 An objection says that without real bodily manifestation there would be
-no desire-realm non-manifest action, with many unwelcome consequences.
+no desire-realm non-disclosing continuity, with many unwelcome consequences.
 The reply says that consequences of that objection will themselves have
-consequences. Another objection says that if non-manifest action arises
+consequences. Another objection says that if non-disclosing continuity arises
 from a special volition, it should follow consciousness, as a
-concentration-born non-manifest action does. The reply denies the
+concentration-born non-disclosing continuity does. The reply denies the
 parallel: the distinctive volition projects it differently. Even where
-manifestation exists, its capacity to project non-manifest action looks
+manifestation exists, its capacity to project non-disclosing continuity looks
 to the power of volition, because it is inert on its own.
 
 The Vaibhāṣikas, by contrast, describe configuration as a real entity and
 bodily manifestation as having configuration for its nature. “Verbal
 manifestation, however, is speech sound”: sound whose nature is speech
-is verbal manifestation. Non-manifest action has already been mentioned.
+is verbal manifestation. Non-disclosing continuity has already been mentioned.
 
 The English follows the continuous argumentative sequence. The attribution
 of the touch-memory objection and its reply agrees with a [philological
@@ -381,25 +384,13 @@ labels. Its school positions are clear in outline, but close decisions
 about several objections await a critical witness comparison. This
 Study gives a continuous working translation, not an emended edition.
 
-## 9. Philosophical and Organon Study
+## 9. Interpretation
 
-**Textual determination.** The Kośa's argument contests both an enduring
-mover and a separately real configuration. Yet the Sautrāntika still
-allows configured appearance and bodily action, now understood through
-arrangement, designation, and directing volition. Mediation has not
-vanished; the account of what mediates has become more demanding.
-
-**Organon reconstruction.** Your graph analogy can be useful if kept at
-its proper level. Nodes can mark determinate appearances, and edges can
-represent proposed conditions or relations. A graph as such is a logical
-construction; mathematical treatment begins when one gives it formal
-properties and operations. Neither a drawn edge nor a smooth interpolated
-curve proves that one identical entity passed continuously between its
-endpoints. The Kantian question here is what warrants applying the
-relation to experienced objects. The Kośa's own answer must be assessed
-through its distinctions among perception, inference, succession,
-configuration, and volition. This is a comparative placement, not a
-translation of `saṃsthāna` into graph theory or Kantian terminology.
+The Bhāṣya's account of action distinguishes prior planning Cetanā from the
+later Cetanā that impels the body; it calls the latter action after having
+willed. This is a passage-specific explanation of bodily and verbal karma.
+The debate over configuration remains divided between the Sautrāntika and
+Vaibhāṣika positions, and the further dispute over `avijñapti` begins in 4.04.
 
 ## 10. Review Status
 

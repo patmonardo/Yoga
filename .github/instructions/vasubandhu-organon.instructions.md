@@ -243,8 +243,8 @@ translation.
   Scientific framework, not an equivalent rendering; translating Form as Matter
   reverses the project's conceptual path.
 - `dhātu` -> **Principle**
-- `bhūta` / `mahābhūta` -> **Great Principle**; plural **Great Principles**
-- `bhautika` -> **Principle-dependent**
+- `bhūta` -> **Element**; `mahābhūta` -> **Great Element**; plural **Great Elements**
+- `bhautika` -> **Element-dependent**
 - `vijñāna` -> **Cognition**, more precisely **Discriminative Cognition**,
   with **Discrimination** as its defining function; in the inner-instrument
   Techne, **Knowing** means Higher Cognition of Scientific Knowing. Keep it

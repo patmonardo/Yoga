@@ -1,14 +1,18 @@
-# VAK_4.04 Bhāṣya — Is Non-manifest Action a Real Dharma?
+# VAK_4.04 Bhāṣya — Is Avijñapti a Distinct Dharma?
 
 ## 1. Kārikā Anchor
 
 > trividhāmalarūpoktivṛddhyakurvatpathādibhiḥ /
 > kṣaṇād ūrdhvam avijñaptiḥ kāmāptātītabhūtajā // 4.04 //
 
-> [Its existence is argued] from teachings on three kinds of form and
-> uncontaminated form, the increase of merit, an action-path completed by
-> one not personally acting, and further grounds. After the first moment,
-> desire-domain non-manifest action is born from past great elements.
+> The Vaibhāṣikas argue for a distinct real Form Dharma from
+> the scriptural teaching of three classes of Form and uncontaminated Form,
+> from the continued increase of merit, from completion of an action-course
+> when its instigator does not personally perform the final deed, and from
+> further considerations such as restraint and the completeness of the Noble
+> Eightfold Path. Beyond its first moment, desire-domain `avijñapti` is
+> generated from past Great Elements as its producing basis, while present
+> bodily Great Elements supply its continuing support.
 
 The first pāda condenses the Vaibhāṣika case for a distinct `avijñapti`.
 The Bhāṣya supplies an extended Sautrāntika reply before its final account
@@ -258,68 +262,67 @@ spellings, word divisions, and sūtra quotations. In particular its
 and the path are retained as witness readings, not endorsed corrections.
 The continuous translation is accordingly provisional.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
-The Sautrāntikas say that non-manifest action, too, does not exist as a
+The Sautrāntikas say that `avijñapti` (non-disclosing continuity), too, does not exist as a
 real entity. It is merely the non-doing accepted by undertaking restraint;
-moreover, it is designated as depending even on past great elements,
+moreover, it is designated as depending even on past Great Elements,
 which no longer exist in their own nature, and it lacks the character of
-material form. The Vaibhāṣikas say that it does exist. How is this known?
-From the teachings on three kinds of form and uncontaminated form, the
+Form. The Vaibhāṣikas say that it does exist. How is this known?
+From the teachings on three kinds of Form and uncontaminated Form, the
 increase of merit, action-paths completed by one not personally acting,
 and other grounds.
 
-A sūtra states that form is included in three classes: visible and
+A sūtra states that Form is included in three classes: visible and
 resistant, invisible and resistant, and invisible and non-resistant.
-The Blessed One also spoke of uncontaminated form among the dharmas in
+The Blessed One also spoke of uncontaminated Form among the Dharmas in
 which attraction and aversion do not arise. The Vaibhāṣikas argue that
-without non-manifest action no form could satisfy the third class or
-count as uncontaminated form.
+without `avijñapti` no Form could satisfy the third class or count as
+uncontaminated Form.
 
 Increase is also taught: for a faithful donor endowed with the seven
 material bases of meritorious action, merit continually increases while
 the donor walks, sleeps, stands, or wakes; the teaching likewise mentions
-non-material bases. How could merit increase while the donor's mind is
-elsewhere without non-manifest action? Likewise a person who directs
+non-material bases. How could merit increase while the donor's Mind is
+elsewhere without `avijñapti`? Likewise a person who directs
 others to act would fail to complete an action-path while not personally
 doing the final deed. The manifest command cannot itself be the
 principal action-path before the deed has been done, and it has a
 different nature even once the deed is complete.
 
-The Vaibhāṣikas add that the Dharma-Essence is described as invisible and
+The Vaibhāṣikas add that the Dharma Essence is described as invisible and
 non-resistant, without being called immaterial. The noble eightfold path
 would lack right speech, action, and livelihood during meditative
-absorption if no non-manifest factor were present. A cited passage saying
+absorption if no `avijñapti` were present. A cited passage saying
 that those three factors had already been purified refers, they say, to
 prior detachment through a worldly path. Prātimokṣa restraint would also
-be absent after its initial undertaking when a monk's or nun's mind was
+be absent after its initial undertaking when a monk's or nun's Mind was
 elsewhere. A sūtra calls abstention a barrier to misconduct. How could
-something nonexistent function as such a barrier? Hence non-manifest
-action exists.
+something nonexistent function as such a barrier? Hence `avijñapti` exists.
 
 The Sautrāntikas reply that the case is elaborate but does not establish
 its conclusion. Meditation practitioners (`yogācārāḥ`) explain invisible,
-non-resistant form as arising through the power of concentration and belonging to
+non-resistant Form as arising through the power of concentration and belonging to
 a meditator's meditative object. It is invisible because it is not an
 object of the eye and non-resistant because it does not obstruct space.
-If asked how it can still be form, the same question faces the proposed
-non-manifest form. In uncontaminated concentration, this concentration-
-born form can be called uncontaminated. Others propose an arhat's
-external form, because it no longer supports the influxes. The ensuing
-sūtra exchange distinguishes senses in which form may be called
+If asked how it can still be Form, the same question faces the proposed
+non-disclosing continuity. In uncontaminated concentration, this concentration-
+born Form can be called uncontaminated. Others propose an arhat's
+external Form, because it no longer supports the influxes. The ensuing
+sūtra exchange distinguishes senses in which Form may be called
 contaminated or uncontaminated; the qualifiers in the cited texts matter.
 
-As for merit increasing, earlier teachers explain that giving-volition
+As for merit increasing, earlier teachers explain that giving-Cetanā
 cultivates the donor's continuum. As recipients use the gift and benefit
 from it, that cultivated continuum undergoes a subtle transformation,
-even while the donor's mind is elsewhere, making it capable of greater
+even while the donor's Mind is elsewhere, making it capable of greater
 future fruit. That is what the saying about merit increasing may mean.
 The objection asks how a change in one person's continuum can affect
 another's. The same question confronts a supposed non-manifest dharma
 arising in one continuum through another's change. With non-material
-bases of merit, repeated cultivation of giving-volition directed at the
+bases of merit, repeated cultivation of giving-Cetanā directed at the
 object can accompany the donor even in dreams; where there is no
-manifest action, the proponent of non-manifest action must explain its
+manifest action, the proponent of `avijñapti` must explain its
 own account. A further sūtra about a virtuous recipient's meditation
 and the donor's flow of merit leads the Sautrāntika to prefer a specific
 transformation of the continuum.
@@ -333,20 +336,20 @@ one who personally acts when the deed is completed. Another proposal
 relates killing to the agent's volition before, during, and after the
 act; the commentary cautions that mere belief that one has killed,
 when the intended person is unharmed, cannot complete the principal
-path. An objector asks why one should reject invisible non-manifest
-action yet accept an equally unseen continuum-transformation. The
+path. An objector asks why one should reject invisible `avijñapti` yet
+accept an equally unseen continuum-transformation. The
 reply denies hostility to invisibility: it is the production of an
 additional dharma separate from mind and body that remains unpersuasive.
 A causal transformation of the agent's own mental continuum can explain
 later fruit.
 
-The Sautrāntika reply then addresses the Dharma-Essence argument: the
-text's invisible, non-resistant form can be included there without
-establishing the proposed distinct non-manifest entity. For the noble
+The Sautrāntika reply then addresses the Dharma Essence argument: the
+text's invisible, non-resistant Form can be included there without
+establishing the proposed distinct `avijñapti`. For the noble
 path, they ask what right speech, action, and livelihood mean while one
 is absorbed and neither speaks, acts, nor seeks livelihood. The
-Vaibhāṣika answer is that one acquires an uncontaminated non-manifest
-factor, which shapes conduct after emerging. The Sautrāntika proposes
+Vaibhāṣika answer is that one acquires an uncontaminated `avijñapti`,
+which shapes conduct after emerging. The Sautrāntika proposes
 instead that one acquires a corresponding intention and basis that shape
 later conduct; the names of path factors are then applied through their
 causal signs. Another reply treats the necessary abstention itself as
@@ -357,20 +360,20 @@ Prātimokṣa restraint can likewise be the volitional undertaking that
 restrains bodily and verbal misconduct. When the mind is elsewhere, the
 undertaking has been cultivated and can be recollected when action is
 at issue. Remembering the pledge and feeling shame at misconduct can
-function as a barrier. Indeed, if non-manifest action alone prevented
+function as a barrier. Indeed, if `avijñapti` alone prevented
 misconduct, someone who forgot the training could never break a rule.
-The Vaibhāṣikas end the dispute by reaffirming that non-manifest form
-is a distinct real entity.
+The Vaibhāṣikas end the dispute by reaffirming that `avijñapti` is a
+distinct real Form Dharma.
 
 The discussion then asks about its material basis. Does it arise from
-the same great elements as manifest action? The answer is no: one and
+the same Great Elements as manifest action? The answer is no: one and
 the same causal complex is not suited to produce both a coarse and a
-subtle result. Most derivative forms depend on contemporary great
-elements, but some present and future forms depend on past ones.
-Which forms? “After the first moment, desire-domain non-manifest action
-is born from past great elements.” These are the great elements of its
+subtle result. Most derivative Forms depend on contemporary Great
+Principles, but some present and future Forms depend on past ones.
+Which Forms? “After the first moment, desire-domain `avijñapti` is born
+from past Great Elements.” These are the Great Elements of its
 initial moment, now past. They serve as its producing basis (`āśraya`);
-present great elements of the body serve as
+present bodily Great Elements serve as
 its continuing support (`saṃniśraya`). Their functions are initiation
 and continuation respectively, like the hand's impulse and the ground's
 support for a rolling wheel.
@@ -383,19 +386,19 @@ require independent textual comparison.
 ## 4. Argument and Voices
 
 The Sautrāntikas first deny `avijñapti` as a distinct real entity. The
-Vaibhāṣikas answer with a cumulative proof from classifications of form,
+Vaibhāṣikas answer with a cumulative proof from classifications of Form,
 continuing merit, commissioned action, the path, and restraint. The
 Sautrāntikas answer each class of evidence, invoking meditation
-practitioners for concentration-born form and earlier teachers for subtle
+practitioners for concentration-born Form and earlier teachers for subtle
 transformation of the causal continuum. The Vaibhāṣikas explicitly
-reaffirm their position and then specify the great elements on which
-non-manifest form depends. Short objections inside this exchange are
+reaffirm their position and then specify the Great Elements on which
+`avijñapti` depends. Short objections inside this exchange are
 not all securely attributable to one school.
 
 ## 5. What the Proof-list Is Asked to Establish
 
 The central question is ontological: must continuing karmic efficacy be
-carried by an additional, non-manifest material dharma? The Vaibhāṣika
+carried by an additional, distinct Form Dharma? The Vaibhāṣika
 arguments do not merely say that invisible effects occur. They seek
 `dravyāntaram`, a distinct real entity. The Sautrāntika accepts karmic
 continuity and argues that the cited phenomena can be explained by
@@ -405,7 +408,7 @@ whether action has consequences.
 
 ## 6. Merit, Commissioned Action, and the Continuum
 
-A donor's earlier volition can cultivate a continuum capable of later
+A donor's earlier Cetanā can cultivate a continuum capable of later
 transformation as the gift benefits others. Similarly, completion of an
 act by an agent can alter an instigator's continuum. The reply about
 an attempted killing whose object survives guards the difference
@@ -414,7 +417,7 @@ action-path. The text does not allow a mere inner conviction to stand
 in for every external condition of the deed.
 
 The Vaibhāṣika challenge remains serious: why admit an unseen
-transformation but refuse unseen non-manifest matter? The Sautrāntika
+transformation but refuse a distinct `avijñapti`? The Sautrāntika
 answer is that a transformation of an already operative causal series
 is intelligible without positing a further dharma distinct from that
 series. This is the sharpest point of the dispute.
@@ -424,20 +427,20 @@ series. This is the sharpest point of the dispute.
 The noble path and prātimokṣa examples test how a standing practical
 status persists when its bearer is not presently speaking or acting.
 The Sautrāntika appeals to acquired intention, basis, habituation,
-and recollection; the Vaibhāṣika appeals to an existing non-manifest
-dharma. The forgotten-vow counterexample tests whether such a dharma
+and recollection; the Vaibhāṣika appeals to an existing `avijñapti`.
+The forgotten-vow counterexample tests whether it
 could be an automatic barrier against misconduct.
 
 After reaffirming real `avijñapti`, the Vaibhāṣikas distinguish the
-**great elements of its first moment, now past, that initiate it** from the
-**present bodily elements that support its continuation**. The wheel analogy assigns
+**Great Elements of its first moment, now past, that initiate it** from the
+**present bodily Great Elements that support its continuation**. The wheel analogy assigns
 different causal roles to the first impulse and continuing support.
 This material account is an attributed position in the debate.
 
 ## 8. Translation and Doctrinal Limits
 
-`Avijñapti` is rendered “non-manifest action” here, without making it
-simple absence or deciding its substantial reality in advance.
+`Avijñapti` is the controlled technical term for non-disclosing continuity;
+this rendering does not decide its substantial reality in advance.
 `Sāsrava` and `anāsrava` mean contaminated and uncontaminated in the
 cited argument; neither is merely visible or invisible.
 `Saṃtati-pariṇāma-viśeṣa` names a subtle modification of a causal
@@ -453,21 +456,13 @@ The running source has numerous rough readings and some damaged
 quotations. The continuous English gives the argument's provisional
 sense, not a critical reconstruction of those quotations.
 
-## 9. Philosophical and Organon Study
+## 9. Interpretation
 
-**Textual determination.** The Bhāṣya makes continuing action, rather
-than a fleeting visible deed, the central difficulty. Both sides must
-explain merit growing, commissioned deeds becoming complete, and
-restraint remaining effective. They disagree about the kind of entity
-or transformation needed to do so.
-
-**Organon reconstruction.** LOKA:KARMA here asks how a commitment or act
-continues to determine a world after its visible moment has passed.
-The answer cannot be imposed from our rational stance. The two source
-accounts offer distinct contracts between appearance and efficacy:
-material non-manifest form on one side, transformed causal continuum on
-the other. The comparison with mediation is illuminating only if those
-alternatives remain distinct and the cited cases continue to test them.
+The Bhāṣya gives the Vaibhāṣika arguments for a distinct `avijñapti`,
+presents the Sautrāntika replies through continuum transformation, and
+returns to the Vaibhāṣika account of its material support. The verse's
+first pāda summarizes grounds in dispute; its second states the production
+and continuing support assigned to desire-domain `avijñapti`.
 
 ## 10. Review Status
 
