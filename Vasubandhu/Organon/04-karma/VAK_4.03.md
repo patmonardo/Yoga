@@ -115,7 +115,9 @@ The interpretation of `dvigrāhya` as apprehension by eye and bodily faculty,
 the inference from atomic absence, and the formulation in terms of independent
 material reality are Bhāṣya determinations.
 
-## 6. Bhāṣya-Based Synthesis
+## 6. Philosophical Translation
+
+### Bhāṣya-Based Synthesis
 
 The Bhāṣya connects three determinations. Destruction is not a further
 positive effect requiring a destroyer; apparent motion is explained through

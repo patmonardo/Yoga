@@ -70,7 +70,9 @@ The first pāda predicates `aṣṭadhā` and `caturvidhaḥ` of the understood 
 The explanations of name-transfer, causal grounds, and coexistence come
 from the Bhāṣya; the kārikā states the counts and their contrast.
 
-## 6. Interpretation
+## 6. Philosophical Translation
+
+### Interpretation
 
 In the Organon reading, the verse distinguishes a change in designation
 from a change in practical determination, and a distinct determination
@@ -84,11 +86,15 @@ This verse analyzes *prātimokṣa* restraint only. It does not identify
 instances of the third *avijñapti* class, “neither restraint nor
 non-restraint,” named in 4.13.
 
-## 7. Logical Determination
+## 7. Technical Vocabulary
+
+## 8. Logical Determination
 
 Eight designations → four restraint-types; name-transfer is distinct from type; successive restraints are separate and compatible.
 
-## 8. Textual Notes
+## 9. Interpretive Note
+
+### Textual Notes
 
 The Bhāṣya unit runs from [205|19] through [206|21] in
 `Vasubandhu/Sources/kosabhasya.txt`. The next question begins at [206|22]
@@ -100,3 +106,5 @@ Bhāṣya study normalizes these provisionally as `bahutarāṇi`,
 `madapramādapadebhyo`, and `dvayor`. The compressed expression
 `pañcadaśa viṃśativat dīnāraśateravacca` is retained without conjectural
 reconstruction. These readings remain open for collation.
+
+## 10. OWL++ Seed

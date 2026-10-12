@@ -74,7 +74,9 @@ The first clause places the initiating condition in the locative `pravartake śu
 The threefold ordinary range, the details of the Buddha-case, and the reason
 for excluding maturation-born consciousness are supplied by the Bhāṣya.
 
-## 6. Interpretation
+## 6. Philosophical Translation
+
+### Interpretation
 
 The verse distinguishes causal continuity from sameness of ethical quality
 at every cognitive stage. The Buddha-case is specially qualified; the
@@ -82,11 +84,6 @@ Bhāṣya also preserves a disagreement about whether the Buddha has
 indeterminate consciousness. Its final exchange assigns ethical
 classification of manifestation to the initiating causal sequence while
 qualifying which initiator is relevant.
-
-The proposed `Dhātu:Indriya :: Loka:Karma` square and
-Opposition:Relation framework is recorded separately as a provisional
-Organon thesis. It is not a lexical determination or an explicit conclusion
-of VAK 4.12.
 
 In the Kośa's broader system, Discriminative Cognition (*vijñāna*) governs
 Mind (*manas*) and guides Dharma Base; it remains distinct from
@@ -112,7 +109,11 @@ same `avijñapti` is classified in Form Base and Dharma Base, with
 | `nirabhisaṃskāra-vāhitva` | proceeding without deliberate construction | reason maturation-born consciousness is neither function |
 | `anāsrava` | uncontaminated | fourth member of the 4.11 classification, not a synonym for indeterminate |
 
-## 8. Textual Notes
+## 8. Logical Determination
+
+## 9. Interpretive Note
+
+### Textual Notes
 
 The Bhāṣya unit begins with `kiṃ khalu yathā pravartakaṃ tathaivānuvartakaṃ
 bhavati` at [204|11] and ends with `avasitaḥ prasaṅgaḥ` at [205|11] in
@@ -125,3 +126,5 @@ The final phrase `anyavyavahitaṃ hetusamutthānaṃ` is translated
 provisionally as causal origination separated by an intervening cognition.
 The closing objection and this qualification require further witness
 comparison.
+
+## 10. OWL++ Seed

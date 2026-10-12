@@ -105,7 +105,9 @@ material determinations are supplied by the Bhāṣya.
 The attribution to the Vaibhāṣikas, the further examples, and the distinction
 between producing and sustaining material bases are commentary determinations.
 
-## 6. Bhāṣya-Based Synthesis
+## 6. Philosophical Translation
+
+### Bhāṣya-Based Synthesis
 
 The first pāda records the Vaibhāṣika grounds for affirming `avijñapti`;
 the Bhāṣya then gives the Sautrāntika replies and their account of continuum

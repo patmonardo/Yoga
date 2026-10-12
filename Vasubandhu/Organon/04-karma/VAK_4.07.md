@@ -85,7 +85,9 @@ The absence of `avijñapti` from the formless realms, the identification of the
 two `savicāra` levels, and the inclusion of `cetanā` under `anyat` are Bhāṣya
 determinations.
 
-## 6. Interpretation
+## 6. Philosophical Translation
+
+### Interpretation
 
 The Bhāṣya's reason for excluding ethically indeterminate
 `avijñapti` is causal: an indeterminate consciousness lacks the strength to
@@ -150,7 +152,17 @@ non-disclosing continuity
 
 The verse excludes ethically indeterminate non-disclosing continuity; classifies other karma in three ways; then distinguishes the realm-range of unwholesome karma, non-disclosing continuity, and manifestation.
 
-## 9. OWL++ Seed
+## 9. Interpretive Note
+
+### Review Status
+
+The natural unit through [201|17] is translated and the study stops before
+4.08. The damaged `prativedhāt` clause and the compressed formless-realm
+exchange remain provisional. The omitted `tatra` is restored and two
+editorial repairs are identified. Research witnesses and the running source
+were left intact.
+
+## 10. OWL++ Seed
 
 ```text
 Class: Karma
@@ -223,11 +235,3 @@ This seed records the ethical and realm classifications stated or explained in
 the unit. The causal explanation for the absence of indeterminate
 `avijñapti`, and the Vaibhāṣika attribution of the formless-realm argument,
 remain in the prose rather than being generalized into additional rules.
-
-## 10. Review Status
-
-The natural unit through [201|17] is translated and the study stops before
-4.08. The damaged `prativedhāt` clause and the compressed formless-realm
-exchange remain provisional. The omitted `tatra` is restored and two
-editorial repairs are identified. Research witnesses and the running source
-were left intact.

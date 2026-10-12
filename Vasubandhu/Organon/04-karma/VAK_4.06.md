@@ -80,7 +80,9 @@ Dependence upon `citta-caitta`, the non-concentrated level, the identification
 of the two samādhi restraints, the enumeration of seven abstentions, and the
 contrast with `prātimokṣa` are determinations supplied by the Bhāṣya.
 
-## 6. Interpretation
+## 6. Philosophical Translation
+
+### Interpretation
 
 The first line describes ordinary `avijñapti` as a homogeneous continuation
 associated with a sentient continuum and dependent on appropriated Great

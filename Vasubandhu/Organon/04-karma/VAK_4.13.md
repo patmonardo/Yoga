@@ -63,7 +63,9 @@ The first pāda predicates `tridhā jñeyā` of `avijñaptiḥ`; the compound `s
 > discipline; and uncontaminated restraint, identified with uncontaminated
 > discipline.
 
-## 6. Interpretation
+## 6. Philosophical Translation
+
+### Interpretation
 
 The verse gives non-disclosing continuity an expressly practical
 classification: restraint, non-restraint, or neither. It then differentiates
@@ -96,7 +98,11 @@ classifications remain for the coming verses.
 | `anāsrava-saṃvara` | uncontaminated restraint | identified with uncontaminated discipline |
 | `śīla` | discipline | the Bhāṣya's term for the three corresponding forms |
 
-## 8. Textual Notes
+## 8. Logical Determination
+
+## 9. Interpretive Note
+
+### Textual Notes
 
 The Bhāṣya unit runs from [205|12] through [205|18] in
 `Vasubandhu/Sources/kosabhasya.txt`. The next verse, beginning at [205|19],
@@ -107,3 +113,5 @@ The witness reads `tābhyāṃ cetaro`; the division `tābhyāṃ ca itaraḥ` i
 editorial. The following `naiva saṃvaro nāsaṃvaraḥ` secures the sense
 “neither.” The exact force of `ihatyānām` in the commentary's
 realm-identification remains provisional.
+
+## 10. OWL++ Seed

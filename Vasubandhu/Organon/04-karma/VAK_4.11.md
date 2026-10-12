@@ -62,7 +62,9 @@ The fourth case and the identification of the fivefold group as the five
 sensory Cognitions come from the Bhāṣya, not from an explicit fourth member
 in the verse.
 
-## 6. Interpretation
+## 6. Philosophical Translation
+
+### Interpretation
 
 The fourfold account classifies Cognitions by their role relative to
 manifestation, not by an all-purpose measure of their efficacy. The Bhāṣya
@@ -92,7 +94,11 @@ and Dharma Base, with *vijñāna* bearing the stated *prati* relation to it.
 | `mahābhūta` | Great Element | distinguished from ethical and path classification |
 | `rūpa` | Form | the product whose classification is debated |
 
-## 8. Textual Notes
+## 8. Logical Determination
+
+## 9. Interpretive Note
+
+### Textual Notes
 
 The Bhāṣya unit begins with `tatra ca` at [203|19], gives the first
 recitation of VAK 4.11 at [203|20], and ends with `nobhayam anāsravam` at
@@ -103,3 +109,5 @@ The running witness alternates `pravartaka` and `pravarttaka`. The exchange
 concerning produced Form, Great Elements, and abandonment is compressed;
 fine speaker assignments and the exact scope of the cited Abhidharma claim
 remain provisional. The fourfold conclusion itself is explicit.
+
+## 10. OWL++ Seed

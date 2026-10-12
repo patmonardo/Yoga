@@ -67,7 +67,9 @@ The coordinated numerals `pañca`, `aṣṭa`, `daśa`, and `sarvebhyaḥ` quali
 
 The respective order and enumeration are specified in the Bhāṣya.
 
-## 6. Interpretation
+## 6. Philosophical Translation
+
+### Interpretation
 
 The verse makes undertaken abstention—not the status-name alone—the
 organizing principle of the fourfold scheme. Its counts describe distinct
@@ -79,11 +81,15 @@ restraint: what is undertaken and the range of action from which one
 abstains. This is an Organon application of the Bhāṣya's explicit focus
 on *virati-samādāna*.
 
-## 7. Logical Determination
+## 7. Technical Vocabulary
+
+## 8. Logical Determination
 
 Five / eight / ten / all abstentions → the four restraint statuses in the listed order.
 
-## 8. Textual Notes
+## 9. Interpretive Note
+
+### Textual Notes
 
 The Bhāṣya unit runs from [206|22] through [207|07] in
 `Vasubandhu/Sources/kosabhasya.txt`. The next kārikā begins at [207|08].
@@ -93,3 +99,5 @@ continuous Sanskrit text; the kārikā has `pañca`. The list at [207|03–06]
 is densely compounded. Its category divisions are provisional and follow
 the stated totals and the Bhāṣya's instruction that adornment and
 entertainment be counted separately for the tenfold undertaking.
+
+## 10. OWL++ Seed

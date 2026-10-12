@@ -77,7 +77,9 @@ The first clause predicates `karma-jam` of `loka-vaicitryam`. The second identif
 The specification of the two worlds, the attribution to beings' karmas, and
 the equivalence of `tatkṛta` with `cetayitvā karma` are Bhāṣya determinations.
 
-## 6. Cetanā in the Verse
+## 6. Philosophical Translation
+
+### Cetanā in the Verse
 
 The verse defines karma through two connected but distinct modes: Cetanā,
 and what is produced from Cetanā. It then identifies Cetanā as mental karma,

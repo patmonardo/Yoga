@@ -71,7 +71,9 @@ The Brahmaloka example, the alternative higher-dhyāna account, the
 `vitarka`-`vicāra` condition, and the explanations of the two ethical grounds
 are supplied by the Bhāṣya.
 
-## 6. Interpretation
+## 6. Philosophical Translation
+
+### Interpretation
 
 The first half explains a restriction on obscured-indeterminate
 manifestation. The second half prevents that causal explanation from becoming
@@ -106,7 +108,11 @@ bearing the stated *prati* relation to it.
 | `hrī` | ethical self-respect | wholesome intrinsically |
 | `apatrāpya` | moral circumspection | wholesome intrinsically |
 
-## 8. Textual Notes
+## 8. Logical Determination
+
+## 9. Interpretive Note
+
+### Textual Notes
 
 The natural unit runs from [201|18] through [202|12] in
 `Vasubandhu/Sources/kosabhasya.txt`; `saṃprayogeṇa tadyuktāḥ` at [202|13]
@@ -119,3 +125,5 @@ silently normalizing the witness. The Sanskrit describes Mahābrahmā's
 deceitful act as bodily action, while the [parallel Chinese translations](https://www2.hf.uio.no/polyglotta/index.php?cid=503127&level=1&page=fulltext&vid=511&view=fulltext)
 describe speech and self-praise. The precise form of that anecdotal act
 remains unsettled.
+
+## 10. OWL++ Seed

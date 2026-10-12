@@ -71,7 +71,9 @@ The cause-and-result explanation is explicitly attributed to “others.”
 The first-moment gloss and the distinction between *kriyāpatha* and
 *karmapatha* come from the Bhāṣya.
 
-## 6. Interpretation
+## 6. Philosophical Translation
+
+### Interpretation
 
 The Bhāṣya does not treat restraint as mere inactivity. It is
 non-action with respect to the evil deed it prevents, but activity with
@@ -84,11 +86,15 @@ undertaken practical determination. Cetanā is not named in this unit;
 connecting the undertaking to the project's Cetanā framework is an
 Organon interpretation, not the Bhāṣya's wording here.
 
-## 7. Logical Determination
+## 7. Technical Vocabulary
+
+## 8. Logical Determination
 
 Restraint receives four names; the first undertaking moment pairs manifestation with non-disclosing continuity; later restraint continues as a distinct moment.
 
-## 8. Textual Notes
+## 9. Interpretive Note
+
+### Textual Notes
 
 The Bhāṣya unit runs from [207|07] through [207|21] in
 `Vasubandhu/Sources/kosabhasya.txt`. The next question begins at [207|22]
@@ -99,3 +105,5 @@ citation has *prātimokṣakiyāpathaḥ*, while the explanatory prose uses
 *karmapatha*. The word-formation sentence at [207|19] is retained in
 the Bhāṣya study without conjectural interpretation. The witness's
 `kṣaṇeṣui` at [207|20–21] is normalized as *kṣaṇeṣu*.
+
+## 10. OWL++ Seed

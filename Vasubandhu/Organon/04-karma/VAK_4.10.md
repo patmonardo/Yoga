@@ -61,7 +61,9 @@ The first pāda predicates `dvidhā` of `samutthānam` and names its two forms i
 > action in a corpse. The Bhāṣya leaves open how this account applies to
 > restraint arising without consciousness.
 
-## 6. Interpretation
+## 6. Philosophical Translation
+
+### Interpretation
 
 The Bhāṣya distinguishes causal initiation from accompaniment during
 performance. This lets an earlier condition—such as wrong view in the
@@ -92,7 +94,11 @@ relation to it.
 | `mahābhūta` | Great Element | material support distinguished from the agent's intention |
 | `saṃvara` | restraint | its arising without consciousness is raised as a question |
 
-## 8. Textual Notes
+## 8. Logical Determination
+
+## 9. Interpretive Note
+
+### Textual Notes
 
 The Bhāṣya unit begins at [203|05–06] and runs through [203|18–19] in
 `Vasubandhu/Sources/kosabhasya.txt`; `pravartakaṃ dṛṣṭiheyaṃ vijñānam` at
@@ -104,3 +110,5 @@ as transmitted rather than silently completed. The opening questions about
 the ethical status of the Great Elements, concentration-born
 `avijñapti`, and the divine Eye and Ear are explicitly left for further
 effort in the Bhāṣya.
+
+## 10. OWL++ Seed

@@ -73,7 +73,9 @@ The same-level series through the fourth dhyāna, the absence of
 uncontaminated Great Elements, and the explicit referent of `jātaḥ` are
 Bhāṣya determinations.
 
-## 6. Interpretation
+## 6. Philosophical Translation
+
+### Interpretation
 
 For contaminated bodily and verbal karma, the Bhāṣya matches the karma's level
 with the Great Elements supporting it. Uncontaminated karma has no separate

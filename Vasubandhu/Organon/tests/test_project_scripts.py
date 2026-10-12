@@ -172,22 +172,42 @@ class ProjectScriptTests(unittest.TestCase):
         )
 
     def test_karman_default_profile_rejects_legacy_top_level_headings(self):
-        result = subprocess.run(
-            [
-                sys.executable,
-                str(AUDIT_SCRIPT),
-                "--chapter",
-                "4",
-                "--start",
-                "17",
-                "--end",
-                "17",
-                "--check",
-            ],
-            capture_output=True,
-            text=True,
-            check=False,
-        )
+        with tempfile.TemporaryDirectory() as directory:
+            study_dir = Path(directory)
+            (study_dir / "VAK_4.17.md").write_text(
+                "\n".join(
+                    (
+                        "## 1. Sanskrit (Devanāgarī)",
+                        "## 2. Sanskrit (IAST)",
+                        "## 3. Lexical Analysis",
+                        "## 4. Grammar",
+                        "## 5. Translation",
+                        "## 6. Interpretation",
+                        "## 7. Logical Determination",
+                        "## 8. Textual Notes",
+                    )
+                ),
+                encoding="utf-8",
+            )
+            (study_dir / "VAK_4.17_bhasya.md").write_text("", encoding="utf-8")
+            result = subprocess.run(
+                [
+                    sys.executable,
+                    str(AUDIT_SCRIPT),
+                    "--chapter",
+                    "4",
+                    "--study-dir",
+                    str(study_dir),
+                    "--start",
+                    "17",
+                    "--end",
+                    "17",
+                    "--check",
+                ],
+                capture_output=True,
+                text=True,
+                check=False,
+            )
         self.assertEqual(result.returncode, 1)
         self.assertIn("Checking headings with the karman profile", result.stdout)
         self.assertIn("noncanonical section heading", result.stdout)
@@ -205,10 +225,9 @@ class ProjectScriptTests(unittest.TestCase):
             text=True,
             check=False,
         )
-        self.assertEqual(result.returncode, 1)
+        self.assertEqual(result.returncode, 0, result.stdout + result.stderr)
         self.assertIn("127 of 127 requested", result.stdout)
-        self.assertIn("Heading check:", result.stdout)
-        self.assertIn("VAK_4.17:", result.stdout)
+        self.assertIn("Heading check: all requested studies conform", result.stdout)
 
     def test_shared_builder_dry_runs_every_edition_to_root_folder(self):
         verse_counts = {

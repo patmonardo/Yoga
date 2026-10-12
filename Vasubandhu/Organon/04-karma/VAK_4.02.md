@@ -90,7 +90,9 @@ The distributive **each**, the body's being configured `cittavaśena`, “under
 the direction of consciousness,” and the denial of passage by one identical
 thing into another place are Bhāṣya determinations.
 
-## 6. Cetanā and Bodily Manifestation
+## 6. Philosophical Translation
+
+### Cetanā and Bodily Manifestation
 
 VAK 4.01 identifies Cetanā as mental karma and distinguishes the bodily and
 verbal actions produced from it. VAK 4.02 takes up those two actions and
@@ -141,7 +143,9 @@ The first is maintained here; the second is rejected.
 
 Bodily and verbal action → the two forms named in the verse; bodily manifestation → configuration, not movement; the final clause relates conditioned existence to momentariness and perishing.
 
-## 9. Textual Connection
+## 9. Interpretive Note
+
+### Textual Connection
 
 VAK 4.01 identifies Cetanā as mental karma and distinguishes the bodily and
 verbal actions produced from it. VAK 4.02 takes up those produced actions,

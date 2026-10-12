@@ -68,7 +68,9 @@ The first pāda uses `saṃprayogeṇa` and `samutthānāt` as the grounds for t
 > cessation are the two unconditioned Dharmas that are indeterminate without
 > qualification.
 
-## 6. Interpretation
+## 6. Philosophical Translation
+
+### Interpretation
 
 The Bhāṣya completes the four grounds begun in VAK 4.08 while retaining
 their distinctness. Association and origination classify different
@@ -98,7 +100,11 @@ classified in Form Base and Dharma Base, with *vijñāna* bearing the stated
 | `ākāśa` | space | one of the two unconditioned Dharmas named |
 | `apratisaṃkhyānirodha` | non-analytical cessation | the other unconditioned Dharma named |
 
-## 8. Textual Notes
+## 8. Logical Determination
+
+## 9. Interpretive Note
+
+### Textual Notes
 
 The natural unit runs from [202|13] through [203|05] in
 `Vasubandhu/Sources/kosabhasya.txt`; `idaṃ vicāryate` at [203|05–06] opens
@@ -111,3 +117,5 @@ record and marks its editorial readings in the translation. The compressed
 `nirodhasamāpatti`, and `asaṃjñisamāpatti`, following their separate
 treatment in Chapter 2. The difficulty about certain `prāptis` is left open
 by the Bhāṣya itself.
+
+## 10. OWL++ Seed
