@@ -9,8 +9,9 @@ import sys
 
 
 ROOT = Path(__file__).resolve().parents[1]
-SOURCE = ROOT.parent / "Sources" / "Yoga.txt"
+SOURCE = ROOT.parents[1] / "Sources" / "Yoga.txt"
 CHAPTERS = {1: "01-prajna", 2: "02-kriya", 3: "03-jnana", 4: "04-dharma"}
+EXCLUDED_STUDIES = {(4, 1)}  # IV.1 is outside this Dharmapāda edition.
 ROMAN = {1: "I", 2: "II", 3: "III", 4: "IV"}
 DEVANAGARI = str.maketrans("०१२३४५६७८९", "0123456789")
 MARKER = re.compile(r"॥\s*([१-४])\.([०-९]+)॥")
@@ -91,6 +92,8 @@ def audit() -> list[str]:
         if not numbers or numbers != list(range(1, numbers[-1] + 1)):
             errors.append(f"source chapter {chapter}: numbering has a gap")
         for verse in numbers:
+            if (chapter, verse) in EXCLUDED_STUDIES:
+                continue
             stem = f"YS-{ROMAN[chapter]}.{verse:02d}"
             folder = ROOT / CHAPTERS[chapter]
             for suffix in ("", "_bhasya"):
@@ -137,6 +140,7 @@ def audit() -> list[str]:
     drafted = sum(
         bool((ROOT / CHAPTERS[ch] / f"YS-{ROMAN[ch]}.{v:02d}.md").read_text(encoding="utf-8").strip())
         for ch, v in source
+        if (ch, v) not in EXCLUDED_STUDIES
         if (ROOT / CHAPTERS[ch] / f"YS-{ROMAN[ch]}.{v:02d}.md").is_file()
     )
     print(f"YS source: {len(source)} sūtras; study files: {len(actual)}/{len(expected)}; drafted pairs: {drafted}")

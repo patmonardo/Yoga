@@ -1,0 +1,35 @@
+# YS I.8 — Cognition Established in an Alien Form
+
+## 1. Sanskrit (Devanāgarī)
+
+> विपर्ययो मिथ्याज्ञानमतद्रूपप्रतिष्ठम्॥ १.८॥
+
+## 2. Sanskrit (IAST)
+
+> viparyayo mithyājñānam atadrūpapratiṣṭham // 1.8 //
+
+## 3. Lexical Analysis
+
+| Pada | Form | Force |
+|---|---|---|
+| *viparyayaḥ* | nominative masculine singular, with *-o* before the following *m-* | reversal, misapprehension |
+| *mithyājñānam* | nominative neuter singular | mistaken cognition |
+| *atadrūpapratiṣṭham* | nominative neuter singular | established in a form that is not that object's form |
+
+## 4. Grammar
+
+The sūtra defines masculine *viparyayaḥ* through the neuter predicate *mithyājñānam*. The neuter adjective *atadrūpapratiṣṭham* qualifies that cognition, not the masculine subject. In the compound, *a-tad-rūpa* negates the object's own form; *pratiṣṭha* says where the cognition is established. The compact syntax identifies mistaken cognition without naming a specific object.
+
+## 5. Translation
+
+### Literal translation
+
+> Reversal is mistaken cognition established in a form that is not that object's own.
+
+## 6. Logical Determination
+
+I.7 named ways cognition can be warranted. I.8 determines the second *vṛtti* from I.6 by its failure of fit with its object: the cognition is established on a form other than the object's own. The Science must expose the principle of this misdetermination; simply suppressing the mistaken appearance would leave its governing claim unexamined. The sūtra itself gives the criterion of fit, not a full causal account of error.
+
+## 7. Interpretive Note
+
+The [Kośa essay](../essays/01-prajna/viparyaya-according-to-kosa.md) follows a more specific account of *viparyāsa*: four reversals that can become organizing views and affect associated *saṃjñā* and *citta*. In our Kośa use, this asks how a wrong form gains authority over a whole cognition, rather than treating error as a bad image alone. Yoga's *viparyaya* is broader than those four cases; I.5's afflicted/unafflicted distinction still crosses the movements.

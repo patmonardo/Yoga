@@ -1,0 +1,36 @@
+# YS I.11 — Smṛti, the Non-Loss of an Experienced Object
+
+## 1. Sanskrit (Devanāgarī)
+
+> अनुभूतविषयासम्प्रमोषः स्मृतिः ॥ १.११॥
+
+## 2. Sanskrit (IAST)
+
+> anubhūtaviṣayāsaṃpramoṣaḥ smṛtiḥ // 1.11 //
+
+## 3. Lexical Analysis
+
+| Pada | Form | Force |
+|---|---|---|
+| *anubhūta* | compound member, past passive participle | experienced |
+| *viṣaya* | compound member | object or field of cognition |
+| *asaṃpramoṣaḥ* | nominative masculine singular | non-loss, not letting slip away |
+| *smṛtiḥ* | nominative feminine singular | memory, recollection |
+
+## 4. Grammar
+
+The compound *anubhūta-viṣaya-asaṃpramoṣaḥ* is the masculine predicate noun defining feminine *smṛtiḥ*. The gender difference belongs to the two nouns in an equational sentence. *Anubhūta* qualifies the *viṣaya*: what is not lost is the object **as experienced**, not an object named without any prior encounter. The sūtra does not state the causal mechanism of retention.
+
+## 5. Translation
+
+### Literal translation
+
+> Memory is the non-loss of an experienced object.
+
+## 6. Logical Determination
+
+I.11 completes the fivefold list of I.6. Its definition concerns continuity across experience: the *viṣaya* can cease to be presently given without being lost to cognition. The Science needs this retention to compare and test determinations; memory alone does not certify their truth. It can preserve the result of any of the preceding movements.
+
+## 7. Interpretive Note
+
+The [Kośa essay](../essays/01-prajna/smrti-and-samskara-according-to-kosa.md) compares Yoga's experienced *viṣaya* with the Kośa's non-loss of an *ālambana*, then distinguishes recollection from a capacity to recollect. In our Kośa use, memory preserves a way of access that fresh cognition must still test; it is a working condition of knowing, not a proof that the earlier determination was true. I.43 and I.50 will further test purification and newly formed capacity.

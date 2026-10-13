@@ -1,0 +1,31 @@
+# Higher Vairāgya According to the Kośa
+
+## A Kośa companion essay for Yoga Sūtra I.16
+
+I.16 says *tat paraṃ puruṣakhyāter guṇavaitṛṣṇyam*: the higher dispassion is freedom from thirst for the *guṇas* through discernment of *puruṣa*. “Higher” refers to the *vairāgya* of I.15, where mastery was defined in relation to encountered and traditionally taught objects. Here the Yoga Bhāṣya explicitly recognizes two grades. Its explanation of the higher grade says that practice of seeing *puruṣa* clarifies and nourishes Buddhi through discrimination; Buddhi becomes dispassionate toward the *guṇas* in both manifest and unmanifest conditions. It calls this grade *jñānaprasādamātra*, a clarification of knowledge alone, and ends with the unusually decisive statement *jñānasyaiva parā kāṣṭhā vairāgyam*: dispassion is the very culmination of knowledge. [Yoga I.16 with Bhāṣya](https://www.wisdomlib.org/hinduism/book/yoga-sutra-with-bhasya-sanskrit/d/doc1216813.html).
+
+The sūtra supplies *puruṣakhyāti* and *guṇavaitṛṣṇya*; the Bhāṣya supplies the explicit language of Buddhi, knowledge, and the inseparable arrival of *kaivalya*. The latter supports treating higher *vairāgya* as a determination of wisdom rather than merely suppression of desire. It does not erase the difference between this commentator's claim and the sūtra's compact syntax.
+
+## What the Kośa detects beyond ordinary objects
+
+The Kośa's account of *bhavarāga* says attachment can persist in the refined form of attachment to meditative attainment (*samāpattirāga*). This confirms a diagnostic point relevant to the shift from I.15 to I.16: lack of thirst for common pleasures does not settle whether one is free from thirst for subtler states. The Kośa is describing affliction in the form and formless realms, not Yoga's *guṇas*. Its analysis helps us ask how far the freedom from attachment extends, not what *puruṣa* is. [Kośabhāṣya, source p. 279](../../../../Vasubandhu/Sources/kosabhasya.txt).
+
+VAK 6.45 then distinguishes worldly and supramundane routes to dispassion. From *bhavāgra*, the highest conditioned level, only the supramundane path can free one; a worldly path belonging to the affected level is not its own adequate counteragent. This is a Kośa account of the reach and limits of a path. It does not translate Yoga's *para-vairāgya* as “supramundane” in the Kośa's technical sense, but it gives a rigorous comparison for why an earlier grade of mastery may not reach the ultimate target. [Kośabhāṣya, source p. 366](../../../../Vasubandhu/Sources/kosabhasya.txt).
+
+## Knowledge, disjunction, and the limit of the comparison
+
+The Kośa defines *pratisaṃkhyānirodha* as disjunction from outflowing dharmas through a distinctive discriminative *prajñā* concerning the noble truths. This is a precise link between cognition and release, but its object and doctrinal setting differ from Yoga's *puruṣakhyāti*. [Kośabhāṣya, source pp. 3–4](../../../../Vasubandhu/Sources/kosabhasya.txt).
+
+At VAK 6.78, *virāga* is the exhaustion of *rāga*, named *virāgadhātu* in an account of unconditioned liberation. The same passage distinguishes abandonment of other afflictions and *nirodhadhātu*. Its terms specify what has ceased. Yoga I.16 instead explains higher dispassion through discernment of *puruṣa* and absence of thirst for the *guṇas*. The common philosophical problem is whether freedom from attachment is a merely local achievement or reaches its most subtle conditions. The two sources answer through different objects of knowledge and different paths. [Kośabhāṣya, source p. 389](../../../../Vasubandhu/Sources/kosabhasya.txt).
+
+## Buddhi and the two grades
+
+Sāṃkhya Kārikā 23 lists *virāga* with *dharma*, *jñāna*, and *aiśvarya* among Buddhi's sattvic forms. The Yoga Bhāṣya to I.16 then explicitly places higher *vairāgya* in a Buddhi clarified by seeing *puruṣa*. These are two textual grounds for investigating dispassion as a cognitive and discriminative power. They do not by themselves establish that *virāga* and *aiśvarya* are two named species of one *prajñā* in the Kārikā. That ordering can be argued in Yogavidya after the source relations are secure. [Sāṃkhya Kārikā 23](../../../../Reference/Samkhya.txt); [Yoga I.16 with Bhāṣya](https://www.wisdomlib.org/hinduism/book/yoga-sutra-with-bhasya-sanskrit/d/doc1216813.html).
+
+## The Jñānapāda endpoint
+
+The later Yoga sequence tests the Bhāṣya's “culmination of knowledge.” III.49 says that discernment of the difference between *sattva* and *puruṣa* brings mastery over all states and omniscience. The next sūtra says that **even from that** (*tad-vairāgyād api*), through the exhaustion of the seeds of defects, comes *kaivalya*. In this project's source that is III.50; some editions number the same sūtra III.51. The received Bhāṣya says the discriminative cognition is a *dharma* of *sattva*, which is itself on the side to be relinquished, while *puruṣa* is distinct and unchanging. It explains the defect-seeds as unable to germinate and describes *kaivalya* as the complete separation of *puruṣa* from the *guṇas*. Thus knowledge reaches its culmination by doing its discriminative work, not by making its own attained mastery the final possession. [Yoga III.49–50 source](../../../Sources/Yoga.txt); [Yoga III.50 with Bhāṣya](https://www.wisdomlib.org/hinduism/book/yoga-sutra-with-bhasya-sanskrit/d/doc1216953.html).
+
+III.55 closes the pāda with *sattvapuruṣayoḥ śuddhisāmye kaivalyam*: *kaivalya* when the purity of *sattva* and *puruṣa* is equal. Its Bhāṣya says that, ultimately (*paramārthatas*), knowledge removes nonseeing (*adarśana*); when that is gone, subsequent afflictions and their karmic results no longer arise. This is the end-point relation between clarified Buddhi and *puruṣa* that I.16 anticipates, while the Kośa comparison remains a different account of discriminative release. [Yoga III.55 with Bhāṣya](https://www.wisdomlib.org/hinduism/book/yoga-sutra-with-bhasya-sanskrit/d/doc1216958.html).
+
+The Kośa-first result is therefore substantial but bounded. The Yoga Bhāṣya itself makes higher *vairāgya* the culmination of knowledge. The Kośa shows why subtle attachment remains a real problem and how discriminative knowledge can be causally relevant to release. It does not supply *puruṣa*, the *guṇas*, or the identity of the two liberations.

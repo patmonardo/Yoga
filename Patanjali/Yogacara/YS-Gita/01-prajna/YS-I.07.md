@@ -1,0 +1,36 @@
+# YS I.7 — The Three Pramāṇas
+
+## 1. Sanskrit (Devanāgarī)
+
+> प्रत्यक्षानुमानागमाः प्रमाणानि ॥ १.७॥
+
+## 2. Sanskrit (IAST)
+
+> pratyakṣānumānāgamāḥ pramāṇāni // 1.7 //
+
+## 3. Lexical Analysis
+
+| Pada | Form | Force |
+|---|---|---|
+| *pratyakṣa* | first compound member | perception, what is directly apprehended |
+| *anumāna* | second compound member | inference |
+| *āgamāḥ* | final compound member, nominative masculine plural | received authoritative testimony |
+| *pramāṇāni* | nominative neuter plural | valid means or instances of cognition |
+
+## 4. Grammar
+
+The first three terms form a coordinative compound: *pratyakṣa-anumāna-āgamāḥ*, “perception, inference, and testimony.” Its final member determines the compound's masculine plural form. *Pramāṇāni* is a neuter plural predicate noun. The differing genders are possible because this is an equational sentence, not adjective agreement: the three named kinds are *pramāṇas*.
+
+## 5. Translation
+
+### Literal translation
+
+> Perception, inference, and authoritative testimony are the valid means of cognition.
+
+## 6. Logical Determination
+
+I.6 listed *pramāṇa* first among the five movements of consciousness; I.7 divides that first kind into three. The Science begins its examination of the instrument with the question of warrant: what can perception, inference, or testimony establish? The list does not make every appearance, inference, or assertion valid. I.8 will distinguish error.
+
+## 7. Interpretive Note
+
+The [Kośa essay](../essays/01-prajna/pramana-according-to-kosa.md) tests a claim to real existence through perception, inference, and trustworthy testimony (*āptāgama*). It asks which claim each avenue actually warrants. Our Kośa use makes *pramāṇa* an operation of principled determination rather than a bare permission to believe. Yoga's *āgama* and the Kośa's *āptāgama* remain distinct wordings, and even warranted cognition remains a *vṛtti* under I.5–6.

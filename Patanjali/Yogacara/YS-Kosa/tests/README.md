@@ -3,11 +3,11 @@
 Run from the repository root:
 
 ```sh
-python3 Patanjali/YS/tests/audit_ys.py
-python3 -m unittest discover -s Patanjali/YS/tests -p 'test_*.py'
+python3 Patanjali/Yogacara/YS-Kosa/tests/audit_ys.py
+python3 -m unittest discover -s Patanjali/Yogacara/YS-Kosa/tests -p 'test_*.py'
 ```
 
-The audit reads `Patanjali/Sources/Yoga.txt` and checks the numbered sūtra inventory against all four chapter folders. Every sūtra must have a study file and a paired `_bhasya.md` file. Empty pairs are reserved for later study; a drafted pair must have matching numbered titles and exact Devanāgarī source quotations in both files. A one-sided draft fails.
+The audit reads `Patanjali/Sources/Yoga.txt` and checks the numbered sūtra inventory against all four chapter folders. IV.1 is intentionally excluded from this Dharmapāda edition; the numbering remains IV.2 onward. Every included sūtra must have a study file and a paired `_bhasya.md` file. Empty pairs are reserved for later study; a drafted pair must have matching numbered titles and exact Devanāgarī source quotations in both files. A one-sided draft fails.
 
 Every drafted **sūtra study** uses these exact level-two headings, in order:
 
