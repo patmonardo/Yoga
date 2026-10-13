@@ -137,7 +137,7 @@ Sudarśana
     contains Vaijayanta at its center
 ```
 
-Centrality is relative to a containing domain. Vaijayanta is not the center of
+Centrality is relative to a containing region. Vaijayanta is not the center of
 Meru without qualification; it is the center of the city that is itself
 centrally located on the summit.
 
@@ -221,7 +221,7 @@ world-system
                 → Vaijayanta
 ```
 
-Each level can serve as a center relative to one domain and as a contained
+Each level can serve as a center relative to one region and as a contained
 member relative to another. A flat list of locations would lose this nested
 scope.
 
@@ -230,7 +230,7 @@ interface FunctionalZone {
   position: "Center" | "ExteriorSide";
   structure: "Palace" | "Garden" | "Grove";
   function: "RoyalResidence" | "DivineRecreation";
-  containingDomain: "Sudarsana";
+  containingRegion: "Sudarsana";
 }
 
 interface VaijayantaPalace extends FunctionalZone {
@@ -295,5 +295,5 @@ organon:SemanticZoning
     organon:binds organon:SpatialPosition,
         organon:InstitutionalFunction,
         organon:CharacteristicActivity,
-        organon:DomainRelation .
+        organon:RegionRelation .
 ```

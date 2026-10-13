@@ -1,6 +1,6 @@
 # VAK_3.76 Bhāṣya — Deva Body-Measures
 
-## Kārikā Anchor
+## 1. Kārikā Anchor
 
 ```iast
 pādavṛddhyā tanur yāvat sārdhakrośo divaukasām /
@@ -10,6 +10,16 @@ kāmināṃ rūpiṇāṃ tv ādau yojanārdhaṃ tataḥ param // 3.76 //
 > The bodies of the desire-realm devas increase by quarter-krośas, up to one
 > and a half krośas. But among the form-realm devas, the first measure is half
 > a yojana; beyond that, [the measure increases].
+
+### Bhāṣya-informed study translation
+
+> The bodies of the six classes of desire-realm devas measure successively
+> one quarter, one half, three quarters, one, one and one-quarter, and one and
+> one-half krośas. At the first form-realm station, that of the Brahmakāyikas,
+> the body measures half a yojana; the measures beyond that are taken up next.
+
+The identity of the six classes, their exact distribution, and the
+identification of the first form-realm station are Bhāṣya determinations.
 
 ## Continuous Sanskrit
 
@@ -34,8 +44,7 @@ identifies `pāda` as one quarter of a krośa and names all six desire-realm
 classes. `Tataḥ param`, “beyond that,” closes the verse's explanation while
 pointing forward; the further form-realm measures belong to the next unit.
 
-## Continuous Conventional Translation
-
+## Scientific English Rendering
 Among the desire-realm devas, bodily measure increases by quarter-krośas, up
 to one and a half krośas. A quarter is one fourth of a krośa. The body of a
 Cāturmahārājakāyika is one such quarter; that of a Trāyastriṃśa is two

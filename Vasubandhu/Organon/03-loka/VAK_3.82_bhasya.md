@@ -1,6 +1,6 @@
 # VAK_3.82 Bhāṣya — Lifespans in the Six Hot Hells
 
-## Kārikā Anchor
+## 1. Kārikā Anchor
 
 ```iast
 kāmadevāyuṣā tulyā ahorātrā yathākramam /
@@ -10,6 +10,19 @@ saṃjīvādiṣu ṣaṭsv āyus tais teṣāṃ kāmadevavat // 3.82 //
 > In the six hells beginning with Saṃjīva, day-and-nights correspond in order
 > to the lifespans of the desire-realm devas; by those units, the hell-beings'
 > lifespans follow the same numerical counts.
+
+### Bhāṣya-informed study translation
+
+> For each of the first six hot hells, the entire lifespan of the corresponding
+> desire-realm deva class constitutes one hell day-and-night. Using that
+> enlarged day-night to construct the local calendar, the hell lifespan has
+> the same numerical number of years as the matched deva lifespan: 500 years
+> in Saṃjīva, 1,000 in Kālasūtra, 2,000 in Saṃghāta, 4,000 in Raurava, 8,000 in
+> Mahāraurava, and 16,000 in Tāpana.
+
+The names and ordering of the six hells, the exact pairings, and the
+restriction of `kāmadevavat` to numerical year-count are Bhāṣya
+determinations.
 
 ## Continuous Sanskrit
 
@@ -49,8 +62,7 @@ Spacing and sandhi have been regularized. In the hell list, `Tāpane` is the
 locative name of the sixth hell, Tāpana; the source's joined spelling is
 preserved in sense, not treated as a different class.
 
-## Continuous Conventional Translation
-
+## Scientific English Rendering
 Now the unfortunate destinies are to be explained. First, in the six hells
 beginning with Saṃjīva, day-and-night units correspond in order to the
 lifespans of the six classes of desire-realm devas.

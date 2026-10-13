@@ -1,6 +1,6 @@
 # VAK_3.79 Bhāṣya — The Cāturmahārājika Divine Calendar
 
-## Kārikā Anchor
+## 1. Kārikā Anchor
 
 ```iast
 nṛṇāṃ varṣāṇi pañcāśad ahorātro divaukasām /
@@ -9,6 +9,17 @@ kāme 'dharāṇāṃ tenāyuḥ pañcavarṣaśatāni tu // 3.79 //
 
 > Fifty human years are one day-and-night for the lowest desire-realm devas;
 > reckoned by that, their lifespan is five hundred years.
+
+### Bhāṣya-informed study translation
+
+> For the Cāturmahārājakāyika devas, fifty human years constitute one divine
+> day-and-night. Thirty such day-nights constitute their month and twelve such
+> months their year; measured by this divine calendar, their lifespan is five
+> hundred divine years.
+
+The identification of the deva class, the thirty-day month, the twelve-month
+year, and the divine status of the five hundred years are Bhāṣya
+determinations.
 
 ## Continuous Sanskrit
 
@@ -31,8 +42,7 @@ dvādaśamāsakena saṃvatsareṇa, divyāni pañcavarṣaśatāny āyuḥpram�
 The source uses both `ahorātra` and `rātrindiva` for the day-and-night unit;
 both are retained in the Sanskrit rather than silently normalized.
 
-## Continuous Conventional Translation
-
+## Scientific English Rendering
 The human lifespans have been stated; now those of the devas must be
 explained. Their day-and-night must first be established, for only then can
 their lifespan be stated. So that measure is established for them.

@@ -6,7 +6,7 @@ organon_dir="$(cd "$edition_dir/.." && pwd)"
 
 usage() {
   cat <<'EOF'
-Usage: editions/build.sh --volume 1-8 --kind karika|bhasya [options]
+Usage: editions/build.sh --chapter 1-8 --kind karika|bhasya [options]
 
 Options:
   --start NUMBER   First verse to include (default: 1)
@@ -15,12 +15,12 @@ Options:
   --dry-run        Validate inputs and show the build configuration
   -h, --help       Show this help
 
-Volume 3 Bhāṣya contains 38 studies; all other configured ranges are listed
+Chapter 3 Bhāṣya contains 38 studies; all other configured ranges are listed
 by the chapter's current complete-study count.
 EOF
 }
 
-volume=
+chapter=
 kind=
 start=1
 end=
@@ -29,9 +29,9 @@ dry_run=0
 
 while (($#)); do
   case "$1" in
-    --volume)
-      (($# >= 2)) || { echo "Missing value for --volume" >&2; exit 2; }
-      volume="$2"
+    --chapter)
+      (($# >= 2)) || { echo "Missing value for --chapter" >&2; exit 2; }
+      chapter="$2"
       shift 2
       ;;
     --kind)
@@ -70,13 +70,13 @@ while (($#)); do
   esac
 done
 
-if [[ -z "$volume" || -z "$kind" ]]; then
-  echo "Both --volume and --kind are required." >&2
+if [[ -z "$chapter" || -z "$kind" ]]; then
+  echo "Both --chapter and --kind are required." >&2
   usage >&2
   exit 2
 fi
-if [[ ! "$volume" =~ ^[1-8]$ ]]; then
-  echo "Unsupported volume: $volume (choose 1 through 8)." >&2
+if [[ ! "$chapter" =~ ^[1-8]$ ]]; then
+  echo "Unsupported chapter: $chapter (choose 1 through 8)." >&2
   exit 2
 fi
 if [[ "$kind" != "karika" && "$kind" != "bhasya" ]]; then
@@ -96,7 +96,7 @@ if [[ -n "$end" ]] && ((end < start)); then
   exit 2
 fi
 
-case "$volume" in
+case "$chapter" in
   1)
     chapter_dir="01-dhatu"
     chapter_name="Dhātunirdeśa"
@@ -139,14 +139,14 @@ case "$volume" in
     ;;
 esac
 
-if [[ "$volume" == 3 && "$kind" == "bhasya" ]]; then
+if [[ "$chapter" == 3 && "$kind" == "bhasya" ]]; then
   chapter_count=38
 fi
 if [[ -z "$end" ]]; then
   end="$chapter_count"
 fi
 if ((end > chapter_count)); then
-  echo "Volume $volume $kind is configured through verse $chapter_count." >&2
+  echo "Chapter $chapter $kind is configured through verse $chapter_count." >&2
   exit 2
 fi
 
@@ -158,7 +158,7 @@ if [[ "$kind" == "bhasya" ]]; then
 fi
 title="The Organon Kośa: $chapter_name $study_kind"
 
-case "$volume:$kind" in
+case "$chapter:$kind" in
   1:karika)
     subtitle="A Sequential Study Edition"
     edition_status="Study Edition"
@@ -243,8 +243,8 @@ esac
 
 first_verse="$(printf '%02d' "$start")"
 last_verse="$(printf '%02d' "$end")"
-date_text="$edition_status · VAK $volume.$first_verse–$volume.$last_verse"
-if [[ "$volume:$kind" == "5:bhasya" ]]; then
+date_text="$edition_status · VAK $chapter.$first_verse–$chapter.$last_verse"
+if [[ "$chapter:$kind" == "5:bhasya" ]]; then
   date_text+=" · Provisional"
 fi
 output_file="${output:-$edition_dir/$output_name}"
@@ -255,7 +255,7 @@ sources=()
 missing_sources=()
 for ((verse = start; verse <= end; verse++)); do
   number="$(printf '%02d' "$verse")"
-  source="$organon_dir/$chapter_dir/VAK_$volume.$number$source_suffix.md"
+  source="$organon_dir/$chapter_dir/VAK_$chapter.$number$source_suffix.md"
   if [[ -f "$source" ]]; then
     sources+=("$source")
   else
@@ -278,7 +278,7 @@ done
 if ((dry_run)); then
   printf 'PDF: %s\n' "$output_file"
   printf 'Sources: %d (VAK %s.%s–%s.%s)\n' \
-    "${#sources[@]}" "$volume" "$first_verse" "$volume" "$last_verse"
+    "${#sources[@]}" "$chapter" "$first_verse" "$chapter" "$last_verse"
   printf 'Title: %s\nSubtitle: %s\nDate: %s\n' \
     "$title" "$subtitle" "$date_text"
   exit 0

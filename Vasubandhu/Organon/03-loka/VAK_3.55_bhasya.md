@@ -15,6 +15,18 @@ The Bhāṣya locates Aparagodānīya west of Sumeru and Uttarakuru north of it,
 resolves their compressed measurements, and adds that the faces of humans in
 each continent correspond in shape to that continent.
 
+### Bhāṣya-informed study translation
+
+> West of Sumeru, Aparagodānīya is circular like the full moon. Its total
+> encircling measure is 7,500 yojanas and its middle span is 2,500. North of
+> Sumeru, Uttarakuru is square, with a total boundary of 8,000 yojanas and four
+> exactly equal sides of 2,000 each. In every continent, the faces of its human
+> inhabitants have the same form as the continent itself.
+
+The western and northern locations, full-moon comparison, interpretation of
+the total and middle measures, equality of all four Kuru sides, and formal
+correspondence between continent and human face are Bhāṣya determinations.
+
 ## 2. Continuous Sanskrit
 
 ```iast
@@ -41,7 +53,7 @@ The continuous text regularizes punctuation and evident sandhi. The simile
 rendering require critical comparison; it appears to compare Uttarakuru's
 square form to a platform or seat used for a particular function.
 
-## 3. Continuous Conventional Translation
+## 3. Scientific English Rendering
 
 Godānīya measures seven and one-half thousand yojanas and is circular. To the
 west of here, on the western side of Sumeru, lies the continent
@@ -218,9 +230,9 @@ whole-measure operation
 derived total
 ```
 
-The final sentence then suggests a Domain–Agent correspondence, but only at
+The final sentence then suggests a Region–Agent correspondence, but only at
 the level explicitly stated: regional form and facial form match. A stronger
-claim that the Domain produces or constrains the Agent's form is an Organon
+claim that the Region produces or constrains the Agent's form is an Organon
 hypothesis, not Vasubandhu's local assertion.
 
 This distinction is especially important for the project's concern with

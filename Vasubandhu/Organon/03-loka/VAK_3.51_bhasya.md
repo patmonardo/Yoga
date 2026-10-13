@@ -16,6 +16,19 @@ The Bhāṣya generates the complete descending series from Sumeru through
 Cakravāḍa, defines the equal-height-and-thickness rule, and identifies the
 seven inner intervals as seas filled with water possessing eight qualities.
 
+### Bhāṣya-informed study translation
+
+> Beginning from Sumeru's height above the water, each successive surrounding
+> mountain is half the height of the preceding one; each mountain's horizontal
+> thickness equals its own height. The seven spaces between Sumeru and
+> Nimindhara are cool inner seas called Śītās. The first, between Sumeru and
+> Yugandhara, is 80,000 yojanas wide, and its water possesses eight beneficial
+> sensible qualities.
+
+The starting term of the halving sequence, interpretation of `ghana`, precise
+location and width-axis of the first sea, and eight water qualities are Bhāṣya
+determinations.
+
 ## 2. Continuous Sanskrit
 
 ```iast
@@ -50,7 +63,7 @@ measure of Cakravāḍa. The continuous text regularizes punctuation and sandhi;
 the exact numerical compound for 312½ yojanas remains provisional pending
 comparison with critical witnesses.
 
-## 3. Continuous Conventional Translation
+## 3. Scientific English Rendering
 
 Across the eight outer heights there is successive diminution by halves. The
 height of Sumeru above the water is eighty thousand yojanas. Yugandhara is
@@ -171,7 +184,7 @@ mountains in that sequence create seven intervening regions:
 mountain / Śītā / mountain / Śītā ... / mountain
 ```
 
-These intervals are not empty distances. Each is a positive water-domain
+These intervals are not empty distances. Each is a positive water-region
 called a `Śītā`. Their water has eight determinations:
 
 1. cool (`śītala`);
@@ -225,7 +238,7 @@ structural invariant
     each mountain's thickness equals its height
 
 positive interval
-    each gap is a qualified water-domain
+    each gap is a qualified water-region
 ```
 
 For the Organon, this distinguishes a generated series from a mere list. An
@@ -240,8 +253,8 @@ ordered members
 successor relation
 scale operation
 per-member dimensional invariant
-intervening domain
-domain qualities and embodied effects
+intervening region
+region qualities and embodied effects
 ```
 
 This is an Organon reconstruction, not Vasubandhu's formal vocabulary. It
@@ -251,7 +264,7 @@ effects.
 
 The resulting alternation is not the Fichtean Gap as a project concept, but
 it supplies disciplined textual material for later comparison. The source's
-own claim is concrete: seven water-domains articulate the spaces generated
+own claim is concrete: seven water-regions articulate the spaces generated
 by eight inner mountains.
 
 ## 10. Review Status

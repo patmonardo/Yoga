@@ -15,6 +15,17 @@ The Bhāṣya resolves the opening pronoun by carrying Jambūdvīpa forward from
 VAK 3.53. It then locates Prāgvideha east of Sumeru and makes explicit the
 elliptical 2,000-yojana measure of its other three sides.
 
+### Bhāṣya-informed study translation
+
+> Jambūdvīpa is cart-shaped because, while three sides measure 2,000 yojanas,
+> its fourth side measures only 3.5. East of Sumeru lies Prāgvideha, formed like
+> a half-moon. Three of its sides likewise measure 2,000 yojanas each, while
+> its fourth side measures 350.
+
+The referent of the opening clause, causal relation between the exceptional
+side and cart shape, eastern placement, inherited 2,000-yojana measure, and
+formation language are Bhāṣya determinations.
+
 ## 2. Continuous Sanskrit
 
 ```iast
@@ -42,7 +53,7 @@ mechanical form `cturthamasya`. The alternation between `Prāgvideha` and
 `Pūrva Videha` is retained as the text's own naming relation rather than
 silently standardized away.
 
-## 3. Continuous Conventional Translation
+## 3. Scientific English Rendering
 
 Jambūdvīpa's one remaining side is three and one-half yojanas. Its fourth
 side measures three and one-half yojanas, and precisely because of this it is

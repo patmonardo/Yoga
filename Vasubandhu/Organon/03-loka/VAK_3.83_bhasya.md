@@ -1,9 +1,9 @@
 # VAK_3.83 Bhāṣya — Different Measures for Lower Destinies
 
-## Kārikā Anchor
+## 1. Kārikā Anchor
 
 ```iast
-ardhaṃ pratāpane 'vīcāv antarakalpaṃ paraṃ punaḥ /
+ardhaṃ pratāpane 'vīcāv antaḥkalpaṃ paraṃ punaḥ /
 kalpaṃ tiraścāṃ pretānāṃ māsāhnā śatapañcakam // 3.83 //
 ```
 
@@ -13,6 +13,18 @@ kalpaṃ tiraścāṃ pretānāṃ māsāhnā śatapañcakam // 3.83 //
 
 The Bhāṣya supplies the referent of `ardham` and specifies that the animal
 lifespan is a maximum, not a fixed duration for all animals.
+
+### Bhāṣya-informed study translation
+
+> Lifespan in the Pratāpana great naraka is half an antarakalpa, and in Avīci
+> it is one antarakalpa. Animals have no single fixed lifespan; their maximum
+> is one antarakalpa, attained by exceptional great nāgas such as Nanda and
+> Upananda. For pretas, one human month constitutes one day-and-night, and
+> measured by that calendar their lifespan is five hundred preta years.
+
+The antarakalpa supplied after `ardham`, the absence of a fixed animal
+lifespan, the great-nāga examples, and the explicit human-to-preta conversion
+are Bhāṣya determinations.
 
 ## Continuous Sanskrit
 
@@ -46,8 +58,7 @@ Spacing and sandhi are regularized. The source reading `aśvatalī` in the
 great-nāga list is retained as `Aśvatalī` rather than silently emended. The
 scriptural quotation is excerpted as it appears in the running witness.
 
-## Continuous Conventional Translation
-
+## Scientific English Rendering
 In the great hell Pratāpana, lifespan is half an intermediate kalpa; in
 Avīci, it is one intermediate kalpa.
 

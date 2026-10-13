@@ -16,6 +16,18 @@ assigns gold to its enclosing wall, describes the ground as composed of 101
 substances, and explains its softness through the ground's response to a
 footstep.
 
+### Bhāṣya-informed study translation
+
+> At the center of Meru's summit stands the city Sudarśana, Śakra's capital.
+> Each side measures 2,500 yojanas and its height is 1½ yojanas. Its enclosing
+> wall is golden, and its ground is variegated with 101 substances. The ground
+> is soft to the touch like cotton fluff: it sinks when a foot is placed upon
+> it and rises again when the foot is lifted.
+
+The assignment of the measures to side and height, golden wall, 101 ground
+constituents, cotton-fluff comparison, action-responsive surface, and
+identification as Śakra's capital are Bhāṣya determinations.
+
 ## 2. Continuous Sanskrit
 
 ```iast
@@ -43,7 +55,7 @@ regularized. The wording `ekottareṇa dhātuśatena` is rendered as “one hund
 and one substances,” following the conventional parsing reflected in the
 study witness.
 
-## 3. Continuous Conventional Translation
+## 3. Scientific English Rendering
 
 And concerning the summit of Meru:
 

@@ -1,6 +1,6 @@
 # VAK_3.89 Bhāṣya — The Year and the Kinds of Kalpa
 
-## Kārikā Anchor
+## 1. Kārikā Anchor
 
 ```iast
 trayo muhūrttāhorātramāsā dvādaśamāsakaḥ /
@@ -13,6 +13,19 @@ saṃvatsaraḥ sonarātraḥ kalpo bahuvidhaḥ smṛtaḥ // 3.89 //
 
 The verse is metrically compressed. The Bhāṣya supplies the repeated factor
 of thirty and explains the annual `ūnarātra` adjustments.
+
+### Bhāṣya-informed study translation
+
+> Thirty lavas constitute one muhūrta, thirty muhūrtas one complete
+> day-and-night, and thirty day-and-nights one month. Twelve months constitute
+> a year: four months each of winter, summer, and the rains, with six
+> `ūnarātras` omitted during the year as calendrical corrections. Having
+> completed the measure of the year, the Kośa distinguishes four kinds of
+> kalpa: intermediate, contraction, expansion, and great kalpa.
+
+The repeated factor thirty, variable proportions of day and night, seasonal
+division, six annual omissions, and fourfold kalpa classification are Bhāṣya
+determinations.
 
 ## Continuous Sanskrit
 
@@ -50,8 +63,7 @@ Spacing and sandhi are regularized. The mnemonic verse on the placement of
 the `ūnarātra` is translated cautiously: its wording is compressed, while
 the prose explicitly states that six such nights are omitted in a year.
 
-## Continuous Conventional Translation
-
+## Scientific English Rendering
 Thirty lavas make one muhūrta; thirty muhūrtas make one day-and-night. The
 night is sometimes longer, sometimes shorter, and sometimes equal [to the
 day]. Thirty day-and-nights make one month.

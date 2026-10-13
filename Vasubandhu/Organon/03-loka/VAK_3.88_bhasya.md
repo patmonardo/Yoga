@@ -1,15 +1,25 @@
 # VAK_3.88 Bhāṣya — Completing the Yojana and Beginning Time-Measure
 
-## Kārikā Anchor
+## 1. Kārikā Anchor
 
 ```iast
 te 'ṣṭau yojanam ity āhur viṃśaṃ kṣaṇaśataṃ punaḥ /
-tatkṣaṇaḥ te punaḥ ṣaṣṭir lavas triṃśadguṇottarāḥ // 3.88 //
+tatkṣaṇas te punaḥ ṣaṣṭir lavas triṃśadguṇottarāḥ // 3.88 //
 ```
 
 > Eight of those are said to make one yojana. Again, one hundred and twenty
 > moments make one tatkṣaṇa; sixty of those make one lava; subsequent measures
 > increase by thirtyfold steps.
+
+### Bhāṣya-informed study translation
+
+> Eight krośas constitute one yojana, completing the spatial measure-series.
+> The temporal series then begins: 120 moments constitute one tatkṣaṇa, and 60
+> tatkṣaṇas constitute one lava. The next temporal units proceed by thirtyfold
+> aggregation, beginning with 30 lavas to one muhūrta.
+
+The interpretation of the compressed numeral as 120 and the forward scope of
+the thirtyfold rule are Bhāṣya determinations.
 
 ## Continuous Sanskrit
 
@@ -36,8 +46,7 @@ compressed `viṃśaṃ kṣaṇaśatam` as 120 moments. The next verse begins t
 application of the thirtyfold progression; its calculations are not imported
 here.
 
-## Continuous Conventional Translation
-
+## Scientific English Rendering
 Eight krośas are said to make one yojana. The measure of the yojana has been
 stated; now the measure of the year is to be explained.
 

@@ -1,6 +1,6 @@
 # VAK_3.93 Bhāṣya — The Great Kalpa and the Bodhisattva’s Resolve
 
-## Kārikā Anchor
+## 1. Kārikā Anchor
 
 ```iast
 vivartate 'tha saṃvṛtta āste saṃvartate samam /
@@ -14,6 +14,20 @@ te hy aśītir mahākalpas tad asaṃkhyatrayodbhavam // 3.93 //
 The first line completes the four-phase cycle discussed in 3.92. The second
 turns from cosmic time to the great-kalpa measure and the bodhisattva’s
 attainment of buddhahood.
+
+### Bhāṣya-informed study translation
+
+> Expansion, standing while expanded, contraction, and standing while
+> contracted each last twenty intermediate kalpas. These four equal temporal
+> enclosures total eighty intermediate kalpas, which constitute one
+> mahākalpa. The mahākalpa is the unit used in the three-`asaṃkhyeya`
+> accumulation through which buddhahood is attained. Here `asaṃkhyeya` is an
+> enormous determinate number reached at the sixtieth place in a conventional
+> numerical series, after which counting recommences.
+
+The complete four-phase construe, the five-Base nature of kalpa,
+identification of the relevant unit as mahākalpa, and sixty-place meaning of
+`asaṃkhyeya` are Bhāṣya determinations.
 
 ## Continuous Sanskrit
 
@@ -86,11 +100,11 @@ critically reconstructed. The long sequence of named numerical magnitudes is
 abridged as marked; the translation states its rule and the Bhāṣya’s
 conclusion.
 
-## Continuous Conventional Translation
+## Scientific English Rendering
 
 These eighty intermediate kalpas are a great kalpa. This is the measure of a
 great kalpa. What is a kalpa by nature? It has the nature of the five
-aggregates.
+Bases.
 
 It is said that buddhahood is attained through three `asaṃkhyeya` kalpas. Of
 which kalpas? Of the very great kalpa just described. “From the arising of

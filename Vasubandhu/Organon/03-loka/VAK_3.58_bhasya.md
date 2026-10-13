@@ -16,6 +16,19 @@ distinguishes two kinds of pleasant feeling while evaluating an alternative
 etymology, preserves two topologies for the seven other hells, and cites the
 Buddha on the common structure of the eight great hells.
 
+### Bhāṣya-informed study translation
+
+> Avīci lies 20,000 yojanas beneath Jambūdvīpa and itself measures 20,000
+> yojanas in both depth and breadth, placing its lower floor 40,000 yojanas
+> below the surface reference. On the principal account, seven further hells
+> are arranged successively above it: Pratāpana, Tāpana, Mahāraurava, Raurava,
+> Saṃghāta, Kālasūtra, and Saṃjīva. Another account places them at Avīci's
+> sides. All eight principal hells have sixteen subsidiary regions.
+
+The Jambūdvīpa referent, two internal dimensions, derived lower-floor depth,
+names and principal arrangement of the seven hells, alternative lateral model,
+and subsidiary structure are Bhāṣya determinations.
+
 ## 2. Continuous Sanskrit
 
 ```iast
@@ -60,7 +73,7 @@ verses, especially around `catuskandhā`, `asitāḥ`, and the closing flame
 description. The continuous text regularizes evident spacing and sandhi but
 does not silently reconstruct a critical sūtra text.
 
-## 3. Continuous Conventional Translation
+## 3. Scientific English Rendering
 
 Where are the hells located, and how large are they?
 
@@ -262,7 +275,7 @@ address and extent
     + causal class of feeling
     + regional topology
     + karmic population condition
-        → determinate hell-domain
+        → determinate hell-region
 ```
 
 For the Organon Dataset, it is especially important not to encode “Avīci” as
@@ -271,14 +284,14 @@ several axes: location, measure, suffering-continuity, relation to neighboring
 hells, and subsidiary structure.
 
 The etymological dispute demonstrates a classification test. A proposed
-feature must not merely apply; it must discriminate the named domain from
+feature must not merely apply; it must discriminate the named region from
 relevant alternatives. When “no pleasant maturation” applies to other hells
 as well, the account fails as a unique determination unless further causal
 distinctions are introduced.
 
 This is an Organon reconstruction of the source's method, not terminology
 attributed to Vasubandhu. It also clarifies the relationship between Loka and
-Karma: the present chapter specifies result-domains and cites cruel actions
+Karma: the present chapter specifies result-regions and cites cruel actions
 as their filling condition, while the systematic analysis of karmic acts and
 maturation belongs to the later Karma chapter.
 

@@ -101,8 +101,8 @@ the Vajrapāṇis as yakṣas are Bhāṣya determinations.
 
 ## 6. Philosophical Translation
 
-> The upward articulation of Meru reaches a summit domain occupied by the
-> Thirty-Three. This domain is specified through a coordinate structure:
+> The upward articulation of Meru reaches a summit region occupied by the
+> Thirty-Three. This region is specified through a coordinate structure:
 > sides establish directional extent, their intersections establish corners,
 > and the corners support four further peaks with determinate inhabitants.
 > Yet the transmitted number does not determine its own metric semantics. Two
@@ -114,7 +114,7 @@ the Vajrapāṇis as yakṣas are Bhāṣya determinations.
 
 | Sanskrit | Controlled rendering | Determination in this unit |
 |---|---|---|
-| Meru-mūrdhan | summit of Meru | habitation domain of the Trāyastriṃśas |
+| Meru-mūrdhan | summit of Meru | habitation region of the Trāyastriṃśas |
 | Trāyastriṃśa | one of the Thirty-Three | deva population resident on the summit |
 | diś | direction / sidewise extent | dimensional axis of the summit measure |
 | vidiś | intermediate direction | Bhāṣya: a corner of Meru's summit |
@@ -169,7 +169,7 @@ A quantity without a measurement relation is therefore underdetermined.
 ### Summit and peak scales
 
 ```text
-summit domain:
+summit region:
     measured by side or perimeter
 
 corner nodes:
@@ -184,7 +184,7 @@ peak population:
 ```
 
 The passage nests a smaller measured habitation structure inside the boundary
-of a larger measured habitation domain.
+of a larger measured habitation region.
 
 ### Source-preserving representation
 
@@ -212,7 +212,7 @@ The movement across 3.63–3.65 is systematic:
 3.65  summit boundary, coordinate frame, and corner populations
 ```
 
-The summit is not simply “above” the preceding domain. It introduces another
+The summit is not simply “above” the preceding region. It introduces another
 scale of organization. The lower terraces are arranged by ordinal elevation;
 the summit is articulated laterally by direction, side, corner, and perimeter.
 The World System changes its mode of spatial determination as it reaches a new
@@ -267,11 +267,11 @@ here states residence and yakṣa classification, not a guardian function.
 vak:VAK_3_65
     a vak:Karika ;
     vak:continues vak:VAK_3_64 ;
-    vak:describes loka:MeruSummitDomain ;
+    vak:describes loka:MeruSummitRegion ;
     vak:preservesExplanation loka:PrincipalSummitMetric,
         loka:AlternativeSummitMetric .
 
-loka:MeruSummitDomain
+loka:MeruSummitRegion
     loka:hasPopulation loka:TrayastrimsaDevas ;
     loka:hasBoundaryFeature loka:FourDirectionalSides,
         loka:FourCorners ;

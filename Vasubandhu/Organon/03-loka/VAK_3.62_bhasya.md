@@ -4,7 +4,7 @@
 
 ```iast
 lavaśo rātryaharvṛddhī dakṣiṇottarage ravau /
-svacchāyayā 'rkasāmīpyād vikalendusamīkṣaṇam // 3.62 //
+svacchāyayārkasāmīpyād vikalendusamīkṣaṇam // 3.62 //
 ```
 
 > Night and day increase lava by lava as the sun moves southward and
@@ -15,6 +15,21 @@ The Bhāṣya first supplies the increment and directional rule left open by VAK
 3.61. It then turns from temporal measure to lunar appearance and preserves
 two explanations: an account attributed to the *Prajñapti* and an alternative
 attributed to earlier teachers.
+
+### Bhāṣya-informed study translation
+
+> Night increases one lava at a time while the sun moves toward the southern
+> side of Jambūdvīpa; day increases one lava at a time while it moves northward.
+> At the beginning of the bright fortnight, the lunar disk appears incomplete.
+> According to the Prajñapti account, when the lunar vehicle approaches the
+> solar vehicle, solar rays fall upon it and shadow on the opposite side makes
+> only part of the disk visible. According to earlier teachers, the
+> configuration of the lunar vehicle's motion is itself such that only part of
+> it is seen.
+
+The exact increment, ordered direction–duration mapping, bright-fortnight
+location, causal mechanism, and alternative motion-configuration account are
+Bhāṣya determinations.
 
 ## 2. Continuous Sanskrit
 
@@ -49,7 +64,7 @@ clauses. The continuous text regularizes spacing, sandhi, and punctuation.
 lunar residence's conveyance or motion; the passage itself does not further
 analyze the compound.
 
-## 3. Continuous Conventional Translation
+## 3. Scientific English Rendering
 
 By what measure does night or day increase?
 

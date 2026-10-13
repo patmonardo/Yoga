@@ -99,12 +99,12 @@ four named subsidiary types occur at each gate.
 
 The gate distribution, experiential descriptions, three-member weapon group,
 name Vaitaraṇī, complete cold-hell list, and causal explanation of these
-domains are Bhāṣya determinations.
+regions are Bhāṣya determinations.
 
 ## 6. Philosophical Translation
 
 > Painful result-environments are generated compositionally. A principal
-> domain supplies four exits; each exit instantiates the same four subsidiary
+> region supplies four exits; each exit instantiates the same four subsidiary
 > encounter-types, producing sixteen local pathways without sixteen unrelated
 > stipulations. The Bhāṣya then asks whether figures acting within this
 > environment are genuinely sentient Agents or behaviorally agent-like karmic
@@ -124,7 +124,7 @@ domains are Bhāṣya determinations.
 | ayaḥśālmalīvana | iron śālmalī forest | third member of the weapon group |
 | śastrābhinipāta | weapon assault | common genus grouping the three weapon-regions as one utsada type |
 | Vaitaraṇī | Vaitaraṇī | boiling caustic river, fourth subsidiary type |
-| utsada | subsidiary painful region | additional torment-domain attached at a gate |
+| utsada | subsidiary painful region | additional torment-region attached at a gate |
 | narakapāla | hell-guard | apparent actor whose sentient status is disputed |
 | sattvasaṃkhyāta | counted as a sentient being | classification at issue in the guard controversy |
 | sattvakarmādhipatya | governing efficacy of beings' karma | causal ground of the common hell-world |
@@ -222,7 +222,7 @@ It does not merely describe where punishments are stored. It specifies an
 execution topology:
 
 ```text
-principal result-domain
+principal result-region
     → gated transitions
         → typed encounter-regions
             → apparent actors

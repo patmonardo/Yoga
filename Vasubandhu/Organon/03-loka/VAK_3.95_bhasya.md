@@ -1,6 +1,6 @@
 # VAK_3.95 Bhāṣya — Cakravartins and the Four Wheels
 
-## Kārikā Anchor
+## 1. Kārikā Anchor
 
 ```iast
 cakravartisamutpattir nādho 'śītisahasrakāt /
@@ -10,6 +10,17 @@ suvarṇa-rūpya-tāmrāyaś-cakriṇas te 'dhara-kramāt // 3.95 //
 > A Cakravartin does not arise below [a human lifespan of] eighty thousand.
 > They are wheel-bearers of gold, silver, copper, and iron, in descending
 > order.
+
+### Bhāṣya-informed study translation
+
+> Wheel-turning sovereigns arise while the human lifespan ranges from
+> immeasurable length down to eighty thousand years, but never below that
+> threshold. They are fourfold according to whether their sovereign wheel is
+> gold, silver, copper, or iron—respectively the highest, next-highest,
+> middling, and lowest types.
+
+The upper range, the material condition of extraordinary crop-abundance, and
+the four explicit rank-names are supplied by the Bhāṣya.
 
 ## Continuous Sanskrit
 
@@ -36,8 +47,7 @@ compressed form `cakrkāṇi`; `cakrāṇi` is adopted above as the clear readin
 required by the sentence. The verse's compound supplies the four materials,
 including iron (`ayas`).
 
-## Continuous Conventional Translation
-
+## Scientific English Rendering
 When do Cakravartins arise? They arise while human lifespans are immeasurable,
 down to eighty thousand years, but not below that. Those whose lifespans fall
 below this are not a suitable basis for that abundance of crops.

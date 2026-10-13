@@ -17,6 +17,17 @@ celestial residences from those who dwell upon the ground, then determines
 the number, elevation, and outward extent of Sumeru's terraces. The named
 inhabitants of the four terraces belong to VAK 3.64.
 
+### Bhāṣya-informed study translation
+
+> Sumeru has four surrounding terraces. The first is reached after ascending
+> 10,000 yojanas, and each succeeding terrace after another 10,000, so that the
+> fourth stands at 40,000 yojanas and the four together occupy the lower half
+> of Sumeru's 80,000-yojana height above the water. From the mountain they
+> project outward respectively 16,000, 8,000, 4,000, and 2,000 yojanas.
+
+The cumulative elevations, the lower-half determination, and the ordered
+distribution of the outward measures are Bhāṣya determinations.
+
 ## 2. Continuous Sanskrit
 
 ```iast
@@ -47,7 +58,7 @@ proper names. `Kiyatyaḥ` is understood contextually as asking the terraces'
 extent or dimensions; the following answer differentiates their vertical
 interval from their outward projection.
 
-## 3. Continuous Conventional Translation
+## 3. Scientific English Rendering
 
 What beings inhabit these celestial residences beginning with those of the
 sun?
@@ -90,7 +101,7 @@ Cāturmahārājakāyika devas
 ```
 
 The terrace geometry is therefore not an isolated interruption in the
-cosmography. It establishes the ground-level domain whose inhabitants will be
+cosmography. It establishes the ground-level region whose inhabitants will be
 distributed in the following verse.
 
 No opponent or alternative school is named in this unit. The questions unpack
@@ -177,7 +188,7 @@ same deva class
         → differentiated locations within one world-system
 ```
 
-The Bhāṣya then constructs the ground domain before assigning named groups to
+The Bhāṣya then constructs the ground region before assigning named groups to
 its levels. Spatial order and population order are consecutive layers of the
 exposition. VAK 3.63 gives the positions and measures; VAK 3.64 will specify
 the inhabitants.
@@ -198,8 +209,8 @@ terrace identity
     = ordinal level + elevation + outward projection
 ```
 
-The geometry supplies a domain into which inhabitants can subsequently be
-bound. Yet the domain is not produced merely by listing those inhabitants;
+The geometry supplies a region into which inhabitants can subsequently be
+bound. Yet the region is not produced merely by listing those inhabitants;
 its vertical and horizontal relations are independently determined first.
 
 In Dataset terms, `elevation` and `projection` are distinct Features governed

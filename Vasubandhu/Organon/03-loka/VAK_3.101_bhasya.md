@@ -1,6 +1,6 @@
 # VAK_3.101 Bhāṣya — The Fourth-Dhyāna Abodes Are Not Eternal
 
-## Kārikā Anchor
+## 1. Kārikā Anchor
 
 ```iast
 tadapakṣālasādharmyāt na caturthe 'sty aniñjanāt /
@@ -14,6 +14,19 @@ na nityaṃ saha sattvena tadvimānodayavyayāt // 3.101 //
 The first pāda completes the explanation begun under 3.100. The Bhāṣya then
 answers the question left there: the fourth-dhyāna receptacle is not thereby
 eternal.
+
+### Bhāṣya-informed study translation
+
+> Each of the lower dhyāna-worlds is vulnerable to an external contraction
+> analogous to a disturbance internal to its meditative structure. The fourth
+> dhyāna lacks such an internal disturbance and is therefore called immovable;
+> no contraction by fire, water, or wind reaches it. This relative immunity
+> does not make its receptacle eternal. Its abodes are discontinuously placed,
+> like stars, and each celestial abode arises and disappears together with the
+> being who inhabits it.
+
+The internal/external correspondence, the Buddha's designation `āneñja`, and
+the discontinuous star-like abodes are Bhāṣya determinations.
 
 ## Continuous Sanskrit
 
@@ -31,8 +44,7 @@ nāsty asya nityatvam.
 Kena punaḥ krameṇaitāḥ saṃvartanyo bhavanti? Nirantaraṃ tāvat—
 ```
 
-## Continuous Conventional Translation
-
+## Scientific English Rendering
 It is not eternal together with the being, because that being's celestial
 abode arises and passes away. The fourth dhyāna is not connected to one
 continuous plane. What, then, is it? It consists of locations separated from

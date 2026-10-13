@@ -16,6 +16,20 @@ names the lake Anavatapta, lists its four rivers, describes its water and
 accessibility, and connects the nearby Jambū tree—or alternatively its
 fruit—with the name Jambūdvīpa.
 
+### Bhāṣya-informed study translation
+
+> Within Jambūdvīpa, proceeding north across three groups of three black or
+> Kīṭa mountains, one reaches Himavān. Beyond Himavān but before Gandhamādana
+> lies Lake Anavatapta, fifty yojanas wide and fifty long. Its water possesses
+> eight qualities, and four rivers—the Gaṅgā, Sindhu, Śītā, and Vakṣu—flow from
+> it. Humans lacking extraordinary power cannot readily reach it. Nearby grows
+> the sweet-fruited Jambū tree, from which Jambūdvīpa is named—or, according to
+> an alternative explanation, from its fruit.
+
+The three-by-three grouping, name and qualities of the lake, river list,
+accessibility condition, Jambū tree, and two naming explanations are Bhāṣya
+determinations.
+
 ## 2. Continuous Sanskrit
 
 ```iast
@@ -43,7 +57,7 @@ The running witness contains minor mechanical forms, including `sravnti` and
 qualities. The continuous text regularizes evident spelling and sandhi while
 leaving the exact syntax of the eight-quality phrase provisional.
 
-## 3. Continuous Conventional Translation
+## 3. Scientific English Rendering
 
 Here, to the north, beyond the nine Kīṭa mountains, is Himavān. Here within
 Jambūdvīpa, to its north, there are three black mountains. After crossing

@@ -1,6 +1,6 @@
 # VAK_3.102 Bhāṣya — The Sixty-Four Contractions
 
-## Kārikā Anchor
+## 1. Kārikā Anchor
 
 ```iast
 saptāgninā adbhir ekā evaṃ gate 'dbhiḥ saptake punaḥ /
@@ -13,6 +13,18 @@ tejasā saptakaḥ paścād vāyusaṃvartanī tataḥ // 3.102 //
 
 The Bhāṣya resolves the compressed sequence into its full count and closes
 the Lokanirdeśa, the third Kośasthāna.
+
+### Bhāṣya-informed study translation
+
+> Seven successive fire-contractions are followed by one water-contraction.
+> This sequence repeats until seven water-contractions have occurred, yielding
+> forty-nine contractions by fire and seven by water. Seven more fire-
+> contractions then occur, followed by one contraction by wind. The complete
+> cycle therefore comprises fifty-six fire-contractions, seven water-
+> contractions, and one wind-contraction: sixty-four in all.
+
+The totals, their correspondence with the lifespan of the Śubhakṛtsna gods,
+and the closing causal stanza are Bhāṣya determinations.
 
 ## Continuous Sanskrit
 
@@ -57,8 +69,7 @@ teṣāṃ ca yo nirodha evaṃvādī mahāśramaṇa” iti.
 Abhidharmakośabhāṣye Lokanirdeśo nāma tṛtīyaṃ kośasthānaṃ samāptam iti.
 ```
 
-## Continuous Conventional Translation
-
+## Scientific English Rendering
 In what sequence, then, do these contractions occur? First, without
 interruption, seven occur by fire. Then one occurs by water, after the seven
 fire-contractions. When seven water-contractions have occurred in this way,

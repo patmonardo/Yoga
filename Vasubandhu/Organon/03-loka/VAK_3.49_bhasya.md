@@ -16,6 +16,16 @@ the middle, identifies Nimindhara as the outermost surrounding mountain,
 locates the four continents beyond it, and describes Cakravāḍa as the outer
 enclosure of the four-continent world.
 
+### Bhāṣya-informed study translation
+
+> Aśvakarṇa, Vinitaka, and Nimindhara complete the seven golden mountain-ranges
+> surrounding Sumeru, with Nimindhara outermost. Beyond it lie the four
+> continents, and beyond them stands the iron Cakravāḍa, enclosing the entire
+> four-continent world.
+
+The outermost position of Nimindhara, number of continents, enclosing function
+of Cakravāḍa, and material assignments are supplied by the Bhāṣya.
+
 ## 2. Continuous Sanskrit
 
 ```iast
@@ -46,7 +56,7 @@ uncertain. Because the Kārikā's `āyasaḥ` securely identifies Cakravāḍa a
 iron, the conventional translation follows that explicit reading while
 leaving the damaged prose form visible for later review.
 
-## 3. Continuous Conventional Translation
+## 3. Scientific English Rendering
 
 Aśvakarṇa, Vinitaka, and Mount Nimindhara complete the list. These are the
 eight great mountains established upon the golden maṇḍala. Sumeru is in the

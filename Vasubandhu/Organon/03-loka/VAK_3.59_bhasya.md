@@ -16,6 +16,20 @@ the eight cold hells. The Bhāṣya then closes its account of the hell-containe
 and briefly identifies the primary locations of animals and pretas before the
 next kārikā turns to the sun and moon.
 
+### Bhāṣya-informed study translation
+
+> At each of the four gates of every great hot hell lie four subsidiary painful
+> regions: knee-deep burning embers; putrid excrement-mire inhabited by
+> piercing creatures; a weapon-assault group comprising the razor road,
+> sword-leaf forest, and iron śālmalī forest; and the Vaitaraṇī river of boiling
+> caustic water. Four gates multiplied by four types produce sixteen
+> subsidiary regions for each great hell. There are also eight cold hells:
+> Arvuda, Nirarvuda, Aṭata, Hahava, Huhuva, Utpala, Padma, and Mahāpadma.
+
+The gate distribution, experiential descriptions, three-member weapon group,
+name Vaitaraṇī, complete cold-hell list, and causal explanation of these
+regions are Bhāṣya determinations.
+
 ## 2. Continuous Sanskrit
 
 ```iast
@@ -112,7 +126,7 @@ by the local source. The readings `anukrāmatām`, `vivartanīvāyubījavat`, an
 the second derivation of `utsada` remain provisional; no critical Sanskrit
 text has been silently substituted for the witness.
 
-## 3. Continuous Conventional Translation
+## 3. Scientific English Rendering
 
 What are the sixteen subsidiary regions?
 
@@ -333,7 +347,7 @@ including rivers, mountains, deserts, other regions, and subterranean places.
 This is not a reduction of painful experience to private imagination. Both
 the shared receptacle and the particular configuration are karmically
 produced. The distinction is one of causal scope: collective world-order and
-specific resultant domain.
+specific resultant region.
 
 The notices concerning animals and pretas finish this geographic movement.
 Both classes have a stated root location and a wider dispersal. Yama is named
@@ -356,7 +370,7 @@ than merely reading agency from the grammar of a scene.
 The same discipline applies to world-production. `Adhipatya` names the
 governing efficacy through which the shared world is produced; `sva-sva-
 karman` determines particular configurations within that world. In Organon
-terms, this offers a useful model for keeping a common domain, an instantiated
+terms, this offers a useful model for keeping a common region, an instantiated
 environment, and the status of the agents within it as separate analytical
 dimensions. This is a project-level reconstruction of the distinction, not
 terminology attributed to Vasubandhu.

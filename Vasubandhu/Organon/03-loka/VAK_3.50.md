@@ -124,7 +124,7 @@ tradition, marked by “they describe.”
 | sphaṭika | crystal | material of one face of Meru |
 | yathāsaṃkhyam | respectively, in stated order | distributes the four materials across the four sides |
 | pārśva | side / face | directionally oriented surface of Meru |
-| magna | submerged | common relation of the mountains to the water-domain |
+| magna | submerged | common relation of the mountains to the water-region |
 | anubhāva | efficacy / influence | power by which a face affects appearance in its direction |
 | prabhā | radiance | luminous mediation between material face and visible sky |
 | anurāga | coloring / tinging | determination acquired by the sky's appearance |

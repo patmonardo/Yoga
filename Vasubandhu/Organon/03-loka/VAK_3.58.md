@@ -102,7 +102,7 @@ and subsidiary structure are Bhāṣya determinations.
 > spatial, experiential, and karmic. Avīci is addressed relative to the
 > inhabited surface, bounded by measurable dimensions, and distinguished by an
 > experiential invariant: suffering there lacks interval. Neighboring painful
-> domains differ in the temporal structure and causal classification of their
+> regions differ in the temporal structure and causal classification of their
 > inhabitants' experience. The physical container is therefore already an
 > operational result-field for Agents, not an inert geometry awaiting an
 > unrelated doctrine of karma.
@@ -151,7 +151,7 @@ Avīci lower floor     = −40,000
 ```
 
 The lower-floor position is derived rather than separately stipulated. A
-location plus an internal extent yields the far boundary of the domain.
+location plus an internal extent yields the far boundary of the region.
 
 ### Inventory and topology are separable
 
@@ -181,7 +181,7 @@ other hells:
 ```
 
 The distinctive predicate is temporal and Agential. Spatial location alone
-does not define the domain; the continuous structure of lived suffering does.
+does not define the region; the continuous structure of lived suffering does.
 
 ### Name tested by causal classification
 
@@ -197,7 +197,7 @@ pleasant feeling as naiḥṣyandika
 ```
 
 An etymology is evaluated by whether its proposed characteristic uniquely
-classifies the named domain. When it fails, a more exact causal type-distinction
+classifies the named region. When it fails, a more exact causal type-distinction
 is required.
 
 ### Multiplicative subsidiary structure
@@ -209,7 +209,7 @@ is required.
 ```
 
 This expands the lower world through a uniform attachment rule while
-preserving the difference between principal and subsidiary domains.
+preserving the difference between principal and subsidiary regions.
 
 ### Explicit bridge toward Karma
 
@@ -218,7 +218,7 @@ cruel karmas:
 
 ```text
 raudra-karman
-    → population / determination of painful result-domains
+    → population / determination of painful result-regions
 ```
 
 This does not replace the detailed causal analysis reserved for Karma-nirdeśa,
@@ -239,7 +239,7 @@ physical address
     + bounded extent
     + experiential regime
     + karmic result-type
-        → operational world-domain
+        → operational world-region
 ```
 
 This looks forward to Karma-nirdeśa in a precise architectural sense. Loka
@@ -258,7 +258,7 @@ failed classification.
 For the Organon projection:
 
 ```ts
-interface KarmicallyIndexedWorldDomain {
+interface KarmicallyIndexedWorldRegion {
   spatialAddress: number;
   boundedExtent: readonly [number, number];
   experientialContinuity: "interrupted" | "uninterrupted";
@@ -305,10 +305,10 @@ loka:LateralHellTopology
     loka:hasRelation loka:AtSidesOfAvici .
 
 loka:HellUtsadaSystem
-    loka:hasPrincipalDomainCount 8 ;
+    loka:hasPrincipalRegionCount 8 ;
     loka:hasSubsidiaryCountPerPrincipal 16 .
 
-organon:KarmicallyIndexedWorldDomain
+organon:KarmicallyIndexedWorldRegion
     a organon:ProjectInterpretation ;
     organon:hasDetermination organon:SpatialAddress,
         organon:BoundedExtent,

@@ -1,6 +1,6 @@
 # VAK_3.85 Bhāṣya — Lifespan Exceptions and the Smallest Measures
 
-## Kārikā Anchor
+## 1. Kārikā Anchor
 
 ```iast
 kurubāhyo 'ntarāmṛtyuḥ paramāṇv-akṣara-kṣaṇāḥ /
@@ -13,6 +13,22 @@ rūpa-nāmādhva-paryantāḥ paramāṇur aṇus tathā // 3.85 //
 
 The last phrase begins the material scale continued in 3.86; it is left open
 here rather than completed from the next verse.
+
+### Bhāṣya-informed study translation
+
+> Beings in Uttarakuru necessarily live out their fixed lifespan; outside it,
+> death before the allotted term is possible, though special classes are
+> exempt. At the opposite end of measurement, the ultimate atom is the limit
+> reached by diminishing form, the letter or syllabic unit is the limit of a
+> name-expression, and the moment is the limit of time. A moment is
+> operationally determined as the minimal duration in which, given complete
+> conditions, a dharma obtains its occurrence, or in which a moving dharma
+> traverses the interval from one ultimate atom to the next. The final words
+> begin the ascending material scale continued in 3.86.
+
+The universal Uttarakuru guarantee, special exemptions elsewhere, operational
+definitions of a moment, and attribution of sixty-five moments per finger-snap
+to the Abhidharmikas are Bhāṣya determinations.
 
 ## Continuous Sanskrit
 
@@ -62,8 +78,7 @@ dense and its compounds are difficult to segment; the Sanskrit is retained
 with only light punctuation. The clause at `[176|06-07]` contains the unclear
 reading `utkāni`, left visible rather than silently emended.
 
-## Continuous Conventional Translation
-
+## Scientific English Rendering
 So, among these beings with lifespans, does death occur before the lifespan
 is complete, or not? It does in general. Outside Uttarakuru, premature death
 can occur. In Uttarakuru, beings with fixed lifespans necessarily live out

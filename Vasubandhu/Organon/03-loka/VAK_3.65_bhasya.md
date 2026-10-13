@@ -16,6 +16,19 @@ accounts. It then identifies the intermediate directions as the summit's four
 corners and describes a 500-yojana peak at each, inhabited by yakṣas called
 Vajrapāṇis.
 
+### Bhāṣya-informed study translation
+
+> The Trāyastriṃśa gods inhabit Meru's summit. On the principal explanation,
+> each side of the summit measures 80,000 yojanas, as does the corresponding
+> measure below. According to another opinion, each of its four sides measures
+> 20,000, making 80,000 around the whole circumference. At the summit's four
+> corners rise four peaks, each measuring 500 yojanas, inhabited by yakṣas
+> called Vajrapāṇis.
+
+The competing interpretations of the summit measure, the identification of
+`vidiś` with corner, the 500-yojana peak measure, and the classification of
+the Vajrapāṇis as yakṣas are Bhāṣya determinations.
+
 ## 2. Continuous Sanskrit
 
 ```iast
@@ -45,7 +58,7 @@ sentence, `pañcayojanaśatapramāṇāḥ` states the measure of the four peaks
 does not specify a separate dimension such as height or width; the translation
 therefore preserves “500-yojana measure.”
 
-## 3. Continuous Conventional Translation
+## 3. Scientific English Rendering
 
 The Thirty-Three dwell on Meru's summit.
 
@@ -142,7 +155,7 @@ summit and the latter in the corner peaks.
 ## 8. Doctrinal Determination
 
 This passage extends the spatial account from the measured terraces in 3.63
-and their inhabitants in 3.64 to the summit domain:
+and their inhabitants in 3.64 to the summit region:
 
 ```text
 Meru summit

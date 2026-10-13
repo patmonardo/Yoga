@@ -219,7 +219,7 @@ interface CapabilityBearingLocus<Operation> {
 This is explanatory notation, not Vasubandhu's vocabulary. It preserves a
 useful rule for the Agent system: an operation should not be specified without
 the support-capacity required for its execution. Logical possibility alone
-does not guarantee operational realizability within a given domain.
+does not guarantee operational realizability within a given region.
 
 The abstraction is particularly important because it reconnects Physical
 World and Path without collapsing them. The produced container is not itself

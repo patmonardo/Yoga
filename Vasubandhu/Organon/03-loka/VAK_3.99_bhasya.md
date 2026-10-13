@@ -1,6 +1,6 @@
 # VAK_3.99 Bhāṣya — Three Calamities and Their Durations
 
-## Kārikā Anchor
+## 1. Kārikā Anchor
 
 ```iast
 kalpasya śastrarogābhyāṃ durbhikṣeṇa ca nirgamaḥ /
@@ -13,6 +13,18 @@ divasān sapta māsāṃś ca varṣāṇi ca yathākramam // 3.99 //
 The Bhāṣya specifies that the durations accumulate: seven days; seven months
 and seven days; seven years, seven months, and seven days. Here `kalpa` is
 explicitly an intermediate kalpa.
+
+### Bhāṣya-informed study translation
+
+> At the ten-year human lifespan, an intermediate kalpa reaches its terminal
+> passage through one of three calamities: weapon-killing, incurable disease,
+> or famine. The weapon calamity lasts seven days; the disease calamity lasts
+> seven months and seven days; and the famine calamity lasts seven years,
+> seven months, and seven days.
+
+The ten-year lifespan condition, alternative character of the crises,
+cumulative durations, their ethical causes, and the detailed famine forms are
+all Bhāṣya determinations.
 
 ## Continuous Sanskrit
 
@@ -76,8 +88,7 @@ Punctuation and sandhi are lightly regularized. The source's famine names and
 the expression `vaivastryadaurbalye` are obscure; they are retained rather
 than given a falsely certain technical interpretation.
 
-## Continuous Conventional Translation
-
+## Scientific English Rendering
 For people whose lifespans are ten years, the intermediate age reaches its
 conclusion. How does it end? Through three calamities: weapons, disease, and
 famine. At that time people are attached to unrighteous desire, overwhelmed

@@ -17,6 +17,18 @@ make the great system. It then says the complete great system contracts and
 evolves together, explaining `saṃbhava` here as `vivarta` and deferring the
 fuller account.
 
+### Bhāṣya-informed study translation
+
+> One thousand small thousandfold world-systems form the middle, second-order
+> thousandfold world-system. One thousand of those middle systems form the
+> third-order great thousandfold world-system. This complete aggregate
+> contracts together and evolves together; in this verse, `saṃbhava`, arising,
+> is explained as `vivarta`, cosmological evolution or expansion.
+
+The immediately preceding aggregate as unit, the full name of the greatest
+aggregate, its completeness, synchronized contraction and evolution, and the
+`saṃbhava`–`vivarta` equivalence are Bhāṣya determinations.
+
 ## 2. Continuous Sanskrit
 
 ```iast
@@ -42,8 +54,7 @@ compound `trisāhasra-mahāsāhasra` is expanded from the prose to give the full
 name of the final aggregate. The Bhāṣya explicitly equates `saṃbhava` with
 `vivarta` in this context and says the fuller explanation comes later.
 
-## 3. Continuous Conventional Translation
-
+## 3. Scientific English Rendering
 One thousand of those small thousandfold world-systems forms the middle,
 second-order world-system.
 

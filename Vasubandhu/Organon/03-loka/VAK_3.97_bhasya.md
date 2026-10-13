@@ -1,10 +1,10 @@
 # VAK_3.97 Bhāṣya — From Earth-Savor to Social Order
 
-## Kārikā Anchor
+## 1. Kārikā Anchor
 
 ```iast
 deśasthottaptapūrṇatvair lakṣaṇātiśayo muneḥ /
-prāg āsan rūpivat sattvāḥ rasarāgāt tataḥ śanaiḥ // 3.97 //
+prāg āsan rūpivat sattvā rasarāgāt tataḥ śanaiḥ // 3.97 //
 ```
 
 > The Muni's marks are superior through their placement, vividness, and
@@ -14,6 +14,21 @@ prāg āsan rūpivat sattvāḥ rasarāgāt tataḥ śanaiḥ // 3.97 //
 The Bhāṣya first completes the comparison between Buddha and Cakravartin,
 then narrates the gradual material and social transformation of first-age
 humanity.
+
+### Bhāṣya-informed study translation
+
+> The Buddha's marks surpass the corresponding marks of a cakravartin by
+> being more exactly situated, more vividly manifest, and more completely
+> developed. At the beginning of the kalpa, human beings resembled beings of
+> the rūpa realm: they were mind-made, self-luminous, moved through the sky,
+> fed on joy, and lived for a long time. When attachment to the newly appeared
+> earth-savor arose, they gradually entered gross nourishment, heavier
+> embodiment, environmental differentiation, sexual differentiation, and the
+> social conditions of the present Human World.
+
+The detailed qualities of first-kalpa beings and every stage after
+`rasarāga` are supplied by the Bhāṣya and its cited sūtra, not enumerated in
+the verse.
 
 ## Continuous Sanskrit
 
@@ -84,8 +99,7 @@ rewritten. The source's phrase `ālasyāt saṃnidhiṃ kṛtvā sāgrahaiḥ k�
 bhṛtaḥ` is compressed and its relation to the prose is uncertain; it is
 retained above. Some sandhi and obvious spelling variants are regularized.
 
-## Continuous Conventional Translation
-
+## Scientific English Rendering
 Is the possession of a wheel the only distinction between Cakravartins and
 other kings? There is another: they possess the thirty-two marks of a great
 person, as Buddhas do. The Muni's marks are superior through their more exact

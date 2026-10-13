@@ -1,6 +1,6 @@
 # VAK_3.91 Bhāṣya — The Twenty Intermediate Kalpas
 
-## Kārikā Anchor
+## 1. Kārikā Anchor
 
 ```iast
 antaḥkalpo 'mitād yāvad daśavarṣāyuṣas tataḥ /
@@ -10,6 +10,19 @@ utkarṣā apakarṣāś ca kalpā aṣṭādaśāpare // 3.91 //
 > The first intermediate kalpa runs from immeasurable lifespan down to a
 > ten-year lifespan. After that, the next eighteen kalpas have increases and
 > decreases.
+
+### Bhāṣya-informed study translation
+
+> The first intermediate kalpa of the standing World is the gradual decline
+> of human lifespan from immeasurable duration to ten years. Each of the next
+> eighteen intermediate kalpas rises from ten years to the fixed upper limit
+> of 80,000 years and then declines again to ten. A twentieth intermediate
+> kalpa consists only of the final increase from ten to 80,000 years. Despite
+> these different internal trajectories, all twenty intermediate kalpas are
+> equal in duration.
+
+The 80,000-year upper bound, the one-way twentieth increase, and equality in
+duration of all twenty kalpas are Bhāṣya determinations.
 
 ## Continuous Sanskrit
 
@@ -46,8 +59,7 @@ The prose is punctuated and spaced for reading. In the final sentence,
 of the middle kalpas; the first kalpa's decline and the last kalpa's increase
 each occupy that same duration.
 
-## Continuous Conventional Translation
-
+## Scientific English Rendering
 While the world is expanding, nineteen intermediate kalpas pass during which
 human beings have immeasurable lifespans. As those lifespans gradually
 decrease, they eventually reach ten years. This is the first intermediate

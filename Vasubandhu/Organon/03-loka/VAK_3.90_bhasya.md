@@ -1,6 +1,6 @@
 # VAK_3.90 Bhāṣya — Contraction and Expansion of the World
 
-## Kārikā Anchor
+## 1. Kārikā Anchor
 
 ```iast
 saṃvartakalpo narakāsaṃbhavād bhājanakṣayaḥ /
@@ -14,6 +14,21 @@ vivartakalpaḥ prāgvāyor yāvan narakasaṃbhavaḥ // 3.90 //
 The paired boundaries are deliberately asymmetric: `narakāsaṃbhava` is
 non-arising at the start of contraction; `narakasaṃbhava` is arising at the
 end of expansion.
+
+### Bhāṣya-informed study translation
+
+> The contraction kalpa begins when beings in the narakas die without new
+> beings arising there. Populations then disappear in an ordered ascent through
+> the destinies and realms; when no beings remain even in Brahmaloka, the
+> contraction of beings is complete. Only afterward is the empty
+> receptacle-world destroyed. The expansion kalpa begins with the first subtle
+> winds, arising through the governing efficacy of beings' karma. The
+> receptacle-world is constructed first; beings then populate it progressively
+> downward, with arising in the narakas completing expansion.
+
+The stages of depopulation and repopulation, the distinction between beings
+and receptacle, the seven-sun destruction, karmic efficacy of the formative
+winds, and inverse-order rule are Bhāṣya determinations.
 
 ## Continuous Sanskrit
 
@@ -105,8 +120,7 @@ without treating the damaged reading as certain. Several technical compounds
 and a short fire-propagation explanation are difficult; their translation
 below follows the clear sequence without pretending to settle every detail.
 
-## Continuous Conventional Translation
-
+## Scientific English Rendering
 The four kinds are the intermediate kalpa, contraction kalpa, expansion kalpa,
 and great kalpa. First, the contraction kalpa runs from the non-arising of
 beings in the narakas through the exhaustion of the receptacle-world. There are

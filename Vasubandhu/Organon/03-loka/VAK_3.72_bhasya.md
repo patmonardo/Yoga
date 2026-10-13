@@ -19,6 +19,25 @@ fact that a higher-level body is outside the object-range of lower-level
 faculties. A Nikāyāntarīya account proposes that higher beings appear below in
 a constructed body suited to the lower level.
 
+### Bhāṣya-informed study translation
+
+> Beginning from Jambūdvīpa, the distance from any heavenly station down to
+> Jambūdvīpa equals the distance from that station up to the next station. Thus
+> the principal station of the Four Great Kings stands 40,000 yojanas above
+> here, the station of the Thirty-Three another 40,000 above that, and each
+> subsequent interval equals the total height already reached. The sequence
+> ends at Akaniṣṭha, above which there is no further station. Beings of a lower
+> station do not ordinarily ascend to and see a higher residence. They may do
+> so through their own ṛddhi or by being led by a more powerful deva or one
+> belonging to that higher station. Yet a genuinely higher dhātu or bhūmi does
+> not thereby become an object of lower-level faculties. According to the
+> Nikāyāntarīyas, a higher being appears below through a constructed body
+> belonging to the lower bhūmi.
+
+The Jambūdvīpa reference, examples and terminal station, two access modes,
+object-domain restriction, and constructed-body account are Bhāṣya
+determinations.
+
 ## 2. Continuous Sanskrit
 
 ```iast
@@ -66,8 +85,7 @@ preserved rather than expanded into a confident etymology. The phrase
 form; its syntax is compressed, but the following question and answer make
 the contrast with a constructed lower-bhūmi body clear.
 
-## 3. Continuous Conventional Translation
-
+## 3. Scientific English Rendering
 Of the twenty-two stations of the devas that have been described, how far is
 each higher one from the one below it?
 

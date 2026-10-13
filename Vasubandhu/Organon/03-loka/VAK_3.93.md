@@ -120,7 +120,7 @@ tat-[mahākalpa]-asaṃkhya-trayāt
 > enormous determinate number reached at the sixtieth place in a conventional
 > numerical series, after which counting recommences.
 
-The complete four-phase construe, the five-aggregate nature of kalpa,
+The complete four-phase construe, the five-Base nature of kalpa,
 identification of the relevant unit as mahākalpa, and sixty-place meaning of
 `asaṃkhyeya` are Bhāṣya determinations.
 
@@ -129,10 +129,10 @@ identification of the relevant unit as mahākalpa, and sixty-place meaning of
 > The complete World-cycle is a temporal whole composed of four equally
 > measured but qualitatively different phases. Its enclosure is not an empty
 > cosmic duration standing apart from what happens within it: Vasubandhu says
-> that kalpa has the five aggregates as its nature. Even the apparently
+> that kalpa has the five Bases as its nature. Even the apparently
 > incalculable accumulation required for buddhahood remains logically
 > determinate. The Kośa preserves measure at both limits—through the complete
-> aggregate-process of a World and through magnitudes exceeding ordinary
+> four-phase process of a World and through magnitudes exceeding ordinary
 > representation.
 
 ## 7. Technical Vocabulary
@@ -147,7 +147,7 @@ identification of the relevant unit as mahākalpa, and sixty-place meaning of
 | mahākalpa | great kalpa | complete cycle of 80 intermediate kalpas |
 | pramāṇa | measure | exact quantitative determination of the mahākalpa |
 | svabhāva | nature / determinate constitution | answers what a kalpa is constituted as |
-| pañcaskandha-svabhāva | having the five aggregates as its nature | Bhāṣya determination of kalpa's constitution |
+| pañcaskandha-svabhāva | having the five Bases as its nature | Bhāṣya determination of kalpa's constitution |
 | asaṃkhya / asaṃkhyeya | conventionally named enormous number | magnitude at the sixtieth numerical place |
 | sthānāntara | numerical place / place transition | one position in the cited large-number sequence |
 | muktakasūtra | independent sūtra | authority cited for the sixty-place enumeration |
@@ -211,14 +211,14 @@ The logical form is constitutive:
 ```text
 Kalpa
     → is not specified merely by an external clock-value
-    → has the five-aggregate process as its determinate nature
+    → has the five Bases as its determinate nature
 ```
 
 Thus:
 
 ```text
 temporal enclosure
-    ↔ organized aggregate-process it encloses
+    ↔ organized four-phase process it encloses
 ```
 
 This reciprocal relation must not be flattened into either extreme:
@@ -230,7 +230,7 @@ kalpa = empty time-container
 or:
 
 ```text
-kalpa = one isolated aggregate-item
+kalpa = one isolated component
 ```
 
 Its measure is the unity of the complete conditioned process.
@@ -279,14 +279,14 @@ of bodhisattva cultivation without collapsing cosmology into path attainment.
 
 The Bhāṣya's `pañcaskandhasvabhāva` gives extraordinary support to the
 Enclosure analysis. Temporal enclosure is not a void surrounding an externally
-given sequence. Its determinate nature is the articulated aggregate-process
+given sequence. Its determinate nature is the articulated four-phase process
 through which the World expands, stands, contracts, and remains contracted.
 
 ```text
 temporal Enclosure
     → gives the four phases one measured unity
 
-five-aggregate process
+five-Base constitution
     → supplies the concrete determination of that unity
 
 reciprocal relation
@@ -294,17 +294,17 @@ reciprocal relation
 ```
 
 This also sharpens your claim that `vijñānas` are Sattvic temporal enclosures.
-`Vijñāna` belongs within the five-aggregate constitution named by the Bhāṣya.
+`Vijñāna` belongs within the five-Base constitution named by the Bhāṣya.
 At the cognitive scale it illuminates and differentiates an appearing as one
 temporal station; at the cosmic scale the kalpa encloses the vast serial field
-of aggregate-events as one World-cycle.
+of conditioned events as one World-cycle.
 
 ```text
 Sattvic micro-enclosure:
     vijñāna holds differentiated appearing as one occurrence
 
 cosmic macro-enclosure:
-    mahākalpa holds differentiated aggregate-process as one cycle
+    mahākalpa holds the differentiated four-phase process as one cycle
 ```
 
 The correspondence is structural, not numerical. The cognitive enclosure is

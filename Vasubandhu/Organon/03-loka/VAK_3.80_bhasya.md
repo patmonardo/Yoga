@@ -1,6 +1,6 @@
 # VAK_3.80 Bhāṣya — Two Calendars of the Devas
 
-## Kārikā Anchor
+## 1. Kārikā Anchor
 
 ```iast
 dviguṇottaram ūrdhvānām ubhayaṃ rūpiṇāṃ punaḥ /
@@ -10,6 +10,19 @@ nāsty ahorātram āyus tu kalpaiḥ svāśrayasaṃmitaiḥ // 3.80 //
 > For the higher [desire-realm devas], both measures double successively. For
 > the form-realm devas, in turn, there is no day-and-night, but lifespan is
 > measured in kalpas commensurate with their own bodily support.
+
+### Bhāṣya-informed study translation
+
+> At each higher desire-realm deva station, both the human duration
+> corresponding to one divine day-and-night and the number of divine years in
+> the lifespan are doubled. Form-realm devas, however, have no day-and-night.
+> Their lifespan is measured directly in kalpas, with the number of kalpas
+> equal to the number of yojanas assigned to their bodily support—from one-half
+> yojana and one-half kalpa through 16,000 yojanas and 16,000 kalpas at
+> Akaniṣṭha.
+
+The two members of `ubhayam`, the complete desire-realm sequence, and the
+exact yojana-to-kalpa commensurability are Bhāṣya determinations.
 
 ## Continuous Sanskrit
 
@@ -53,8 +66,7 @@ The running source has `rātrindiva`/`rātrindivena` beside the kārikā's
 transmitted in a compressed list of signs for day-and-night; I retain it
 without forcing a more specific botanical or lunar interpretation.
 
-## Continuous Conventional Translation
-
+## Scientific English Rendering
 For the higher devas, both measures double successively: the day-and-night
 measure and the lifespan. How so? One hundred human years make one
 day-and-night for the Trāyastriṃśa devas. By that day-and-night, their

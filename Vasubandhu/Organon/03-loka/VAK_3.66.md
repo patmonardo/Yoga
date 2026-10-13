@@ -92,7 +92,7 @@ identification as Śakra's capital are Bhāṣya determinations.
 
 ## 6. Philosophical Translation
 
-> The directional summit-domain of 3.65 now receives a determinate center.
+> The directional summit-region of 3.65 now receives a determinate center.
 > Sudarśana is specified simultaneously as geometrical enclosure, named city,
 > materially differentiated surface, sensuous environment, and political
 > capital. Its softness is not merely an isolated quality: the Bhāṣya states a
@@ -129,7 +129,7 @@ One.
 ### Progressive specification of the city
 
 ```text
-summit domain
+summit region
     → center
         → named city
             → dimensions
@@ -139,7 +139,7 @@ summit domain
             → political function
 ```
 
-Each predicate answers a different question about one civic domain. Location,
+Each predicate answers a different question about one civic region. Location,
 measure, material, sensation, and function remain semantically distinct.
 
 ### Dimensional schema
@@ -200,12 +200,12 @@ VAK 3.66 gives us a compact model of progressive concretion:
 ```text
 coordinate field
     → selected center
-        → constructed civic domain
+        → constructed civic region
             → embodied interaction
 ```
 
 This is the most useful abstraction behind the ornamental description. A
-world-domain is not adequately specified merely by assigning it coordinates.
+world-region is not adequately specified merely by assigning it coordinates.
 It becomes habitable through boundaries, differentiated materials, perceptible
 qualities, and lawful responses to the actions of its inhabitants.
 

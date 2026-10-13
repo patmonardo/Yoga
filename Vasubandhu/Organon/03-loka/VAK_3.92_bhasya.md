@@ -1,6 +1,6 @@
 # VAK_3.92 Bhāṣya — The Four Equal World-Phases
 
-## Kārikā Anchor
+## 1. Kārikā Anchor
 
 ```iast
 utkarṣa ekas te 'śītisahasrād yāvad āyuṣaḥ /
@@ -13,6 +13,19 @@ iti loko vivṛtto 'yaṃ kalpāṃs tiṣṭhati viṃśatim // 3.92 //
 The Bhāṣya supplies the starting point of the final increase (ten years) and
 clarifies that these twenty are intermediate kalpas. It then compares the
 durations of the world's four major phases.
+
+### Bhāṣya-informed study translation
+
+> A final one-way increase carries human lifespan from ten years to the fixed
+> upper bound of 80,000. With that twentieth intermediate kalpa, the sequence
+> is complete: the fully expanded World remains standing for twenty
+> intermediate kalpas. The Bhāṣya further states that expansion, expanded
+> standing, contraction, and contracted standing each occupy the same duration
+> of twenty intermediate kalpas, though their internal processes differ.
+
+The ten-year starting point, equality of all intermediate-kalpa durations,
+fourfold equality of the major World-phases, and internal distribution of
+formation and contraction are Bhāṣya determinations.
 
 ## Continuous Sanskrit
 
@@ -40,8 +53,7 @@ Sandhi and punctuation are lightly regularized. The source reads
 `abhinivartante` in the receptacle sentence; its sense there is uncertain,
 and it is retained without emendation.
 
-## Continuous Conventional Translation
-
+## Scientific English Rendering
 By this reckoning of intermediate kalpas, this expanded world stands for
 twenty intermediate kalpas. It remains in the expanded state for twenty;
 the expansion process likewise takes twenty. Then it remains contracted for

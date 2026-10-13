@@ -15,6 +15,19 @@ classes, says that these children mature rapidly, and then shifts subjects:
 the complete and clothed beings are rūpāvacara devas. It adds that all devas
 speak the ārya language.
 
+### Bhāṣya-informed study translation
+
+> In the six kāma-deva classes respectively, newborns appear like children of
+> five, six, seven, eight, nine, and ten years of age, and then mature very
+> quickly. When a divine boy or girl appears in the lap of a god or goddess,
+> the child is reckoned their son or daughter. Rūpāvacara devas, by contrast,
+> arise with bodies already complete and already clothed. All devas speak the
+> ārya language.
+
+The one-to-one age distribution, rapid maturation, parentage through the locus
+of appearance, shift to rūpāvacara devas, complete-body determination,
+clothing, and common language are Bhāṣya determinations.
+
 ## 2. Continuous Sanskrit
 
 ```iast
@@ -37,8 +50,7 @@ witness is clear apart from spacing and sandhi, regularized here. The
 commentary explicitly supplies `yathāsaṃkhyam`, “respectively,” and identifies
 `rūpiṇaḥ` as rūpāvacara devas.
 
-## 3. Continuous Conventional Translation
-
+## 3. Scientific English Rendering
 How large are they when they are born?
 
 Among these, a child resembling one of five years up through one resembling

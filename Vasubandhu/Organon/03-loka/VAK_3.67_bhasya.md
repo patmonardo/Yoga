@@ -15,6 +15,20 @@ explains its jeweled arrangement and comparative splendor, then turns to four
 divine recreation grounds outside the city. The gardens adorn Sudarśana; the
 next verse gives additional spatial and functional details.
 
+### Bhāṣya-informed study translation
+
+> At the center of Sudarśana stands Vaijayanta, the palace of Śakra, Indra of
+> the gods. Each of its sides measures 250 yojanas. Through the excellent
+> arrangement of many kinds of jewels, its magnificence surpasses all other
+> divine residences. Outside the city, on its four sides, lie four recreation-
+> grounds of the gods: the Caitraratha garden, Pāruṣyaka, the Miśraka grove,
+> and the Nandana grove. These adorn Sudarśana externally.
+
+The identification of Vaijayanta as Śakra's central palace, its comparative
+magnificence, the jewel arrangement, the one-per-side distribution, and the
+classification of the exterior places as divine recreation-grounds are
+Bhāṣya determinations.
+
 ## 2. Continuous Sanskrit
 
 ```iast
@@ -44,7 +58,7 @@ measure of 250 yojanas on each side, in agreement with the kārikā's clear
 splendor is syntactically compressed; the translation preserves its sense
 without supplying a more elaborate construction.
 
-## 3. Continuous Conventional Translation
+## 3. Scientific English Rendering
 
 Here Vaijayanta has sides of 250 yojanas.
 
@@ -150,7 +164,7 @@ The city is characterized through both internal and surrounding relations.
 Its beauty is not confined to the palace, and the exterior grounds are not
 merely empty scenery: the Bhāṣya identifies them as places of divine activity.
 
-The passage describes a refined domain within the desire realm's cosmography.
+The passage describes a refined region within the desire realm's cosmography.
 Its sensory and political splendor remains part of produced Loka.
 
 ## 9. Organon Study

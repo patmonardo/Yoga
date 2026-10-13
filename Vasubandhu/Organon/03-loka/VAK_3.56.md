@@ -93,7 +93,7 @@ report are Bhāṣya determinations.
 
 > The fourfold regional system expands without losing its organizing frame.
 > Each principal continent generates a local pair of attendant regions, so a
-> uniform branching rule produces eight further inhabited domains. These
+> uniform branching rule produces eight further inhabited regions. These
 > subordinate regions are neither anonymous gaps nor additional peers of the
 > primary four: their identity includes a determinate relation to a parent
 > region. The World System increases its particularity through structured

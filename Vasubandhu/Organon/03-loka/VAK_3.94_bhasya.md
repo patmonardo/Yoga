@@ -1,6 +1,6 @@
 # VAK_3.94 Bhāṣya — Buddhas and Pratyekabuddhas
 
-## Kārikā Anchor
+## 1. Kārikā Anchor
 
 ```iast
 buddhatvam apakarṣe hi śatād yāvat tadudbhavaḥ /
@@ -14,6 +14,18 @@ dvayoḥ pratyekabuddhānāṃ khaḍgaḥ kalpaśatānvayaḥ // 3.94 //
 The Bhāṣya makes the verse's temporal compressions explicit and clarifies
 that the hundred kalpas of the solitary type are great kalpas spent in the
 accumulations for awakening.
+
+### Bhāṣya-informed study translation
+
+> A Buddha arises only during the decrease of human lifespan: after the
+> lifespan has begun to fall below eighty thousand years and before it falls
+> below one hundred. Pratyekabuddhas may arise during either increase or
+> decrease. Of their two kinds, the rhinoceros-horn-like solitary type is
+> preceded by a preparatory accumulation for awakening extending through one
+> hundred mahākalpas.
+
+The precise upper bound, the two Pratyekabuddha types, and the interpretation
+of the hundred mahākalpas as preparation for awakening come from the Bhāṣya.
 
 ## Continuous Sanskrit
 
@@ -77,8 +89,7 @@ ascetics is explicitly introduced as a prior account, not as an independently
 verified historical report. In `pratisrotaḥnayanam`, the compound is spaced
 for readability; the sense is leading beings against the current.
 
-## Continuous Conventional Translation
-
+## Scientific English Rendering
 At what time do Buddhas arise—during increase, or during decrease? During
 decrease, from the period beginning at the eighty-thousand-year lifespan down
 to the time when human beings have lifespans of one hundred years. They do

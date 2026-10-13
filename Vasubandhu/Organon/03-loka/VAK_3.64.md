@@ -92,7 +92,7 @@ and settlement forms are Bhāṣya determinations.
 
 ## 6. Philosophical Translation
 
-> The measured terraces of 3.63 now become inhabited domains. Each level
+> The measured terraces of 3.63 now become inhabited regions. Each level
 > receives a differentiated population, yet those local differences are
 > gathered under one encompassing class: the host of the Four Great Kings.
 > This class is not confined to a single vertical structure; its habitation
@@ -168,7 +168,7 @@ class-membership does not erase the ordered distribution of residences.
 ```text
 Meru terraces
     + settlements on seven mountains
-        → distributed Mahārājika domain
+        → distributed Mahārājika region
 ```
 
 The particle `api`, “also,” is logically important: it expands the extension
@@ -190,7 +190,7 @@ VAK 3.63 and 3.64 form a precise two-stage construction:
 
 This is why the ostensibly picturesque catalogue remains methodically useful.
 The World System does not introduce agents into an unarticulated expanse. It
-first establishes addressable domains, then binds populations to those
+first establishes addressable regions, then binds populations to those
 addresses, then identifies a higher-order class that ranges across several
 locations.
 
@@ -207,7 +207,7 @@ interface PopulationBinding {
   role?: "ruler" | "attendant" | "resident";
 }
 
-interface DistributedDomain {
+interface DistributedRegion {
   governingCenter: "FourthMeruTerrace";
   terraceBindings: readonly PopulationBinding[];
   mountainSettlements: readonly ("Village" | "Town")[];
@@ -226,7 +226,7 @@ Agent class
     + spatial address
     + collective membership
     + differentiated role
-        → socially articulated World domain
+        → socially articulated World region
 ```
 
 The produced Physical World is already becoming the support of ordered

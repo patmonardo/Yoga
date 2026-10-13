@@ -111,7 +111,7 @@ continents are Bhāṣya determinations.
 
 ## 6. Philosophical Translation
 
-> The recursive inner order closes by producing an exterior domain. Within the
+> The recursive inner order closes by producing an exterior region. Within the
 > mountain system, each sea receives its width through a proportional law, yet
 > the same sea admits another measure along its shore. Beyond that articulated
 > sequence, the residual interval is not discarded as geometrical waste: it is
@@ -131,7 +131,7 @@ continents are Bhāṣya determinations.
 | vaipulya | width / breadth | enumerated radial dimension |
 | dairghya | length / longitudinal extent | dimension left unenumerated because of its great spread |
 | śeṣa | remainder / residual interval | space between Nimindhara and Cakravāḍa |
-| bāhya-mahāsamudra | outer great ocean | new domain constituted by the residual interval |
+| bāhya-mahāsamudra | outer great ocean | new region constituted by the residual interval |
 | kṣārodaka | saline / alkaline water | qualitative determination of the outer ocean |
 | cāturdvīpaka | four-continent world | inhabited regional system placed within the outer ocean |
 
@@ -149,7 +149,7 @@ seventh      1,250
 
 ## 8. Logical Determination
 
-### One domain, multiple axes
+### One region, multiple axes
 
 ```text
 first inner ocean
@@ -186,7 +186,7 @@ Systematicity does not require pretending that every magnitude has been
 calculated. The model marks both what it determines and where enumeration
 stops.
 
-### Remainder becomes domain
+### Remainder becomes region
 
 ```text
 bounded inner construction completed
@@ -218,7 +218,7 @@ system development:
 
 ```text
 remainder of completed subsystem
-    → typed domain
+    → typed region
         → ground of succeeding subsystem
 ```
 
@@ -236,10 +236,10 @@ carry its axis and measurement operation.
 For the Organon projection:
 
 ```ts
-interface TypedRemainderDomain {
+interface TypedRemainderRegion {
   boundedBy: readonly ["Nimindhara", "Cakravada"];
   inheritedRole: "remainder-of-inner-ring-system";
-  domainType: "outer-saline-ocean";
+  regionType: "outer-saline-ocean";
   succeedingRole: "field-for-four-continents";
 }
 ```
@@ -283,10 +283,10 @@ loka:OuterGreatOcean
     loka:contains loka:FourContinents ;
     loka:arisesAsRemainderOf loka:InnerMountainSeaSystem .
 
-organon:TypedRemainderDomain
+organon:TypedRemainderRegion
     a organon:ProjectInterpretation ;
     organon:isProducedBy organon:CompletionOfPriorSystem ;
-    organon:hasPositiveType organon:OuterDomain ;
+    organon:hasPositiveType organon:OuterRegion ;
     organon:grounds organon:SucceedingWorldArticulation .
 
 organon:AxisIndexedMeasure

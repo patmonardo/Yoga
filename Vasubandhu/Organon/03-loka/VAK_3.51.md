@@ -117,7 +117,7 @@ determinations.
 | ghana | thickness / breadth | horizontal thickness equal to that mountain's height |
 | samocchrāyaghana | having thickness equal to height | invariant aspect-ratio rule for every mountain |
 | antara | interval / intervening region | space between adjacent mountains |
-| Śītā | cool inner sea | water-domain occupying each of seven intervals |
+| Śītā | cool inner sea | water-region occupying each of seven intervals |
 | vaipulya | width / breadth | axis on which the first Śītā measures 80,000 yojanas |
 | aṣṭāṅgopeta pānīya | water endowed with eight qualities | qualitative constitution of the Śītā seas |
 | śītala | cool | first stated quality of the water |
@@ -193,7 +193,7 @@ first Śītā
     qualitative determination: water endowed with eight qualities
 ```
 
-A complete domain specification requires both measure and mode of possible
+A complete region specification requires both measure and mode of possible
 experience. Width locates the sea in the spatial system; the water's qualities
 determine how embodied beings encounter it.
 
@@ -217,11 +217,11 @@ and each thickness follows from the invariant.
 
 The Śītās prevent this from becoming only an abstract geometry. An interval is
 not a mere numerical distance between two objects. It is itself a positive
-domain with material content and sensible-functional qualities. Thus the world
+region with material content and sensible-functional qualities. Thus the world
 is constructed through alternating types of region:
 
 ```text
-boundary-domain ↔ interval-domain
+boundary-region ↔ interval-region
 ```
 
 For the Organon projection:
@@ -233,7 +233,7 @@ interface RecursiveRingSystem {
   mountainCount: 8;
   intervalCount: 7;
   invariant: "thickness-equals-height";
-  intervalDomain: "eight-qualified-cool-sea";
+  intervalRegion: "eight-qualified-cool-sea";
 }
 ```
 
@@ -273,9 +273,9 @@ organon:ControlledRecursiveDifferentiation
     organon:preserves organon:AspectInvariant ;
     organon:produces organon:OrderedDifference .
 
-organon:PositiveIntervalDomain
+organon:PositiveIntervalRegion
     a organon:ProjectInterpretation ;
     organon:hasQuantitativeDetermination organon:Width ;
     organon:hasQualitativeDetermination organon:SensibleFunction ;
-    organon:alternatesWith organon:BoundaryDomain .
+    organon:alternatesWith organon:BoundaryRegion .
 ```

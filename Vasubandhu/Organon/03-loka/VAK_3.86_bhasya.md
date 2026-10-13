@@ -1,6 +1,6 @@
 # VAK_3.86 Bhāṣya — The Sevenfold Material Measure
 
-## Kārikā Anchor
+## 1. Kārikā Anchor
 
 ```iast
 lohāpaśaśāvigocchidrarajolikṣās tadudbhavāḥ /
@@ -12,6 +12,18 @@ yavas tathāṅgulīparva jñeyaṃ saptaguṇottaram // 3.86 //
 
 The first-line compound is compressed. The sequence below follows Vasubandhu's
 explicit prose rather than a speculative segmentation of that compound.
+
+### Bhāṣya-informed study translation
+
+> Beginning with the ultimate atom, each next material measure is constituted
+> from seven of the preceding measure: seven ultimate atoms make one aṇu;
+> seven aṇus one loharajas; and the same sevenfold aggregation proceeds through
+> avrajas, dāśarajas, aiḍakarajas, gorajas, aperture-dust, likṣā, yūkā, barley
+> grain, and finger-joint. Three finger-joints constitute one finger.
+
+The exact technical members, the insertion of `yūkā` as what arises from a
+`likṣā`, and the three-joints-to-one-finger relation are Bhāṣya
+determinations.
 
 ## Continuous Sanskrit
 
@@ -37,8 +49,7 @@ Spacing is regularized. The Bhāṣya's technical unit-names are retained as
 transmitted; their role in the sequence is clear even where their lexical
 derivation is not.
 
-## Continuous Conventional Translation
-
+## Scientific English Rendering
 This series, beginning with the ultimate atom, is to be understood as
 successively sevenfold. Seven ultimate atoms make one aṇu; seven aṇus make
 one loharajas. Seven of those make one avrajas; seven avrajas make one

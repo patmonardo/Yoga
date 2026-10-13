@@ -16,6 +16,19 @@ inventory in the kārikā: each named kind is counted by thousands, including
 each of the four continents and a complete series of sensual-domain deva
 classes.
 
+### Bhāṣya-informed study translation
+
+> One thousand Jambūdvīpas, one thousand Pūrvavidehas, one thousand
+> Aparagodānīyas, and one thousand Uttarakurus; one thousand suns, moons, and
+> Sumerus; one thousand complete sets of sensual devas from the
+> Cāturmahārājakāyikas through the Paranirmitavaśavartins; and one thousand
+> Brahma-worlds together constitute what is called the small thousandfold
+> world-system.
+
+The separate thousandfold count for all four continents, the complete limits
+of the sensual-deva series, and the definition as a `sāhasra-cūḍika lokadhātu`
+are Bhāṣya determinations.
+
 ## 2. Continuous Sanskrit
 
 ```iast
@@ -47,8 +60,7 @@ The question asks about the middle and great thousandfold systems as well,
 but this study stops after the definition of the small system. Their
 definitions follow with VAK 3.74.
 
-## 3. Continuous Conventional Translation
-
+## 3. Scientific English Rendering
 Now, how large are these residences beginning with those of the Yāmas?
 
 Some say that the four extend as far as the summit of Sumeru. Others say that

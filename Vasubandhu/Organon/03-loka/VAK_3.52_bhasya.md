@@ -16,6 +16,20 @@ The Bhāṣya distinguishes the inner and outer oceans, resolves the first
 seas, and identifies the residual interval between Nimindhara and Cakravāḍa
 as the saline outer great ocean.
 
+### Bhāṣya-informed study translation
+
+> The first Śītā, between Sumeru and Yugandhara, is the inner ocean. Its radial
+> width is 80,000 yojanas, while its measure along the Yugandhara shore is three
+> times that, 240,000. Each of the six remaining Śītā seas has half the width
+> of the preceding one. Their great longitudinal extension is left
+> unenumerated. The residual interval between Nimindhara and Cakravāḍa is the
+> outer great ocean, filled with saline water; within it lie the four
+> continents.
+
+The radial and shore-wise axes, numerical shore measure, unenumerated length,
+precise boundaries of the remainder, saline character, and placement of the
+continents are Bhāṣya determinations.
+
 ## 2. Continuous Sanskrit
 
 ```iast
@@ -46,7 +60,7 @@ and `hṣārodakasya`. The continuous text provisionally restores evident word
 division and reads the latter as `kṣārodakasya`; these are not presented as
 critical-edition decisions.
 
-## 3. Continuous Conventional Translation
+## 3. Scientific English Rendering
 
 That is the inner ocean. For there are two oceans, an inner and an outer.
 That Śītā—the first—is the inner ocean.
@@ -153,13 +167,13 @@ residual interval outer great ocean
 ```
 
 This remainder is not empty space and not an unspecified excess. It is a
-positive domain with boundaries and material quality. The prose calls it the
+positive region with boundaries and material quality. The prose calls it the
 `bāhya-mahāsamudra`, outer great ocean, and distinguishes its saline water
 from the eight-qualified water of the inner Śītās.
 
 The contrast is therefore multidimensional:
 
-| Domain | Position | Water quality |
+| Region | Position | Water quality |
 |---|---|---|
 | seven Śītās | within the inner mountain system | cool and eight-qualified |
 | outer great ocean | between Nimindhara and Cakravāḍa | saline |
@@ -194,7 +208,7 @@ character.
 ## 9. Philosophical and Organon Study
 
 VAK 3.52 shows how the end of one configuration produces a new positive
-domain:
+region:
 
 ```text
 completed inner ring-system
@@ -211,7 +225,7 @@ For the Organon Dataset, this requires separate representation of:
 ```text
 source operation       completion of the inner sequence
 residual extent        Nimindhara–Cakravāḍa interval
-positive domain type   outer great ocean
+positive region type   outer great ocean
 qualitative feature    saline water
 pending determination  width supplied by the next verse
 ```

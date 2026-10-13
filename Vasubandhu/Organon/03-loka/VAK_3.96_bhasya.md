@@ -1,6 +1,6 @@
 # VAK_3.96 Bhāṣya — The Cakravartin’s Reach and Limits
 
-## Kārikā Anchor
+## 1. Kārikā Anchor
 
 ```iast
 ekadvitricaturdvīpā na ca dvau saha buddhavat /
@@ -13,6 +13,22 @@ pratyudyāna-svayaṃyāna-kalahāstrajito 'vadhāḥ // 3.96 //
 
 The Bhāṣya resolves the final word: even when conquest uses weapons, killing
 does not occur. Thus `avadhāḥ` means “without killing,” not “boundaries.”
+
+### Bhāṣya-informed study translation
+
+> The iron-, copper-, silver-, and gold-wheel sovereigns rule respectively
+> one, two, three, and four continents. Two cakravartins do not arise
+> simultaneously in the same World-field, just as two Buddhas do not. The
+> gold-wheel ruler is voluntarily received; the silver-wheel ruler goes to
+> the subordinate kings, who then submit; the copper-wheel ruler meets them
+> in conflict before their submission; and the iron-wheel ruler encounters
+> armed resistance. Nevertheless, none of the four kills. After victory they
+> establish beings in the ten wholesome courses of action.
+
+The exact wheel mappings, same-world qualification, absence of killing, and
+subsequent moral establishment are Bhāṣya determinations. The commentary also
+records disagreement over whether Buddhas may arise simultaneously in
+different world-systems.
 
 ## Continuous Sanskrit
 
@@ -117,8 +133,7 @@ corrupt in places, particularly in the explanation of the Buddha's activity.
 The translation follows the clear argumentative movement without claiming a
 critical reconstruction.
 
-## Continuous Conventional Translation
-
+## Scientific English Rendering
 The four Cakravartins rule one, two, three, or four continents respectively.
 The iron-wheel ruler is lord of one continent, the copper-wheel ruler of two,
 the silver-wheel ruler of three, and the gold-wheel ruler of four. This is a

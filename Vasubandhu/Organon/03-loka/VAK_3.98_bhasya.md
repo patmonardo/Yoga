@@ -1,6 +1,6 @@
 # VAK_3.98 Bhāṣya — Ten-Year Lifespan and the Roots of Misfortune
 
-## Kārikā Anchor
+## 1. Kārikā Anchor
 
 ```iast
 ālasyāt saṃnidhiṃ kṛtvā sāgrahaiḥ kṣetrapo bhṛtaḥ /
@@ -10,6 +10,21 @@ tataḥ karmapathādhikyād apahrāse daśāyuṣaḥ // 3.98 //
 > Because of laziness, a store was made; through possessive appropriation a
 > field-guardian was maintained. Then, as courses of action increased, human
 > lifespan declined to ten years.
+
+### Bhāṣya-informed study translation
+
+> A lazy being began storing naturally arising rice, and others imitated him.
+> Storage produced the making of things as “mine”; fields were divided,
+> possessive claims were established, and theft began. To restrain theft, the
+> community selected a distinguished person to guard the fields and supported
+> him with one sixth of the produce. From this office arose the designations
+> `kṣatriya` and Mahāsammata King and the succession of royal authority.
+> Greed, failed distribution, theft, punishment, and false speech then
+> multiplied the unwholesome courses of action, until human lifespan declined
+> to ten years.
+
+The imitation sequence, `mamakāra`, sixth-share support, royal designations,
+and named forms of ethical decline are Bhāṣya determinations.
 
 ## Continuous Sanskrit
 
@@ -23,8 +38,7 @@ Ato 'sya kṛtsnasyānarthaughasya dvau dharmau mūlayoniḥ: rasarāga ālasya�
 
 Punctuation and sandhi are lightly regularized.
 
-## Continuous Conventional Translation
-
+## Scientific English Rendering
 As these courses of action increased, human beings gradually declined in
 lifespan until people with ten-year lifespans appeared. The two root causes
 of this entire flood of misfortune are attachment to savor and laziness.

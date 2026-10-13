@@ -173,7 +173,7 @@ north  → Kuru         → equal square
 Directional identity, metric structure, and morphology jointly specify each
 regional type.
 
-### Domain–embodiment correspondence
+### Region–embodiment correspondence
 
 The Bhāṣya states:
 
@@ -205,9 +205,9 @@ entity type
 The final Bhāṣya sentence is even more striking. Regional form and embodied
 human form correspond. Textually, we should call this a morphological
 correspondence; Vasubandhu does not supply a separate causal derivation here.
-For the Organon, however, it offers a disciplined model of Domain–Agent
+For the Organon, however, it offers a disciplined model of Region–Agent
 congruence: the form in which an Agent appears is not unrelated to the
-determinate Domain it inhabits.
+determinate Region it inhabits.
 
 ```ts
 interface RegionalEmbodimentSchema {
@@ -226,7 +226,7 @@ textual determination:
     continent form corresponds to facial form
 
 Organon hypothesis:
-    a Domain may constrain the form in which its Agents appear
+    a Region may constrain the form in which its Agents appear
 ```
 
 The hypothesis is warranted as a direction for later synthesis, but the
@@ -270,7 +270,7 @@ organon:ShapeIndexedMeasurement
     organon:relates organon:CharacteristicLocalMeasure,
         organon:WholeBoundaryMeasure .
 
-organon:DomainAgentCongruence
+organon:RegionAgentCongruence
     a organon:ProjectHypothesis ;
     organon:isGroundedIn loka:RegionFaceCorrespondence ;
     organon:hasStrongerCausalStatus organon:NotYetEstablished .

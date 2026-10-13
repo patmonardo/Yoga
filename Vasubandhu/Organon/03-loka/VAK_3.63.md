@@ -94,7 +94,7 @@ distribution of the outward measures are Bhāṣya determinations.
 
 ## 6. Philosophical Translation
 
-> Sumeru is articulated as a graded domain by two coordinated but different
+> Sumeru is articulated as a graded region by two coordinated but different
 > laws. Elevation advances through equal additions; outward extent contracts
 > by successive halves. The identity of a level is therefore not exhausted by
 > one spatial quantity: each terrace has an ordinal position, a vertical
@@ -200,7 +200,7 @@ about spiritual rank.
 
 The verse also separates topology from population. VAK 3.63 defines the
 available levels; the following verse assigns inhabitants to them. In the
-Organon vocabulary, domain construction logically precedes Agent binding:
+Organon vocabulary, region construction logically precedes Agent binding:
 
 ```text
 graded places and capacities
@@ -276,6 +276,6 @@ organon:AxisCoupledHierarchy
 
 organon:PreallocatedHabitationSchema
     a organon:ProjectInterpretation ;
-    organon:requires organon:DomainConstruction ;
+    organon:requires organon:RegionConstruction ;
     organon:precedes organon:AgentBinding .
 ```

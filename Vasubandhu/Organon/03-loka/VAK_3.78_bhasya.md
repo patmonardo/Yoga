@@ -1,6 +1,6 @@
 # VAK_3.78 Bhāṣya — Human Lifespans Across the Continents
 
-## Kārikā Anchor
+## 1. Kārikā Anchor
 
 ```iast
 sahasram āyuḥ kuruṣu dvayor ardhārdhavarjitam /
@@ -13,6 +13,18 @@ ihāniyatam ante tu daśābdā ādito 'mitam // 3.78 //
 
 The verse's opening is read as `sahasram āyuḥ`, following the Bhāṣya's
 segmentation.
+
+### Bhāṣya-informed study translation
+
+> Human lifespan is 1,000 years in Uttarakuru, 500 years in Godānīya, and 250
+> years in Pūrvavideha. Here in Jambūdvīpa no single lifespan is fixed: as the
+> kalpa declines it eventually reaches ten years, whereas the first humans of
+> the kalpa have an immeasurable lifespan, one that cannot be expressed even
+> by a numerical reckoning beginning in thousands.
+
+The named assignment of 500 and 250 years, the variability formula “sometimes
+greater, sometimes less,” and the kalpic subjects of the two extrema are
+Bhāṣya determinations.
 
 ## Continuous Sanskrit
 
@@ -50,8 +62,7 @@ Spacing and sandhi have been regularized. `Ardhatṛtīye varṣaśate` is
 translated as 250 years, in line with the preceding halving and the Bhāṣya's
 construction of the continental sequence.
 
-## Continuous Conventional Translation
-
+## Scientific English Rendering
 Just as the measures differ, do lifespans also differ? They do, the Bhāṣya
 says.
 

@@ -1,14 +1,25 @@
 # VAK_3.75 Bhāṣya — Human Measures Across the Four Continents
 
-## Kārikā Anchor
+## 1. Kārikā Anchor
 
 ```iast
 jāmbūdvīpāḥ pramāṇena catuḥsārdhatrihastakāḥ /
-dviguṇottaravṛddhyā tu pūrvagodottarāhvayāḥ // 3.75 //
+dviguṇottaravṛddhayā tu pūrvagodottarāvhayāḥ // 3.75 //
 ```
 
 > Humans of Jambūdvīpa have a measure of three and a half hastas; those called
 > Pūrva, Goda, and Uttara increase successively by doubling.
+
+### Bhāṣya-informed study translation
+
+> Humans of Jambūdvīpa measure 3½ hastas in height according to the principal
+> account, though some give 4 hastas. The humans of Pūrvavideha measure 8
+> hastas, those of Godānīya 16, and those of Uttarakuru 32, each of these three
+> successive populations being twice the measure of the preceding one.
+
+The principal and alternative Jambūdvīpa values, exact measures of the other
+three populations, and restricted scope of the doubling rule are Bhāṣya
+determinations.
 
 ## Continuous Sanskrit
 
@@ -33,8 +44,7 @@ The commentary's first Jambūdvīpa measure is given as three and a half
 `hasta`, while `kecit tu` explicitly preserves an alternative of four. The
 prose identifies the successive measures for the other three populations.
 
-## Continuous Conventional Translation
-
+## Scientific English Rendering
 Do beings have differences in bodily measure just as world-containers have
 differences in measure? They do, the Bhāṣya says.
 

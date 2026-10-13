@@ -16,6 +16,18 @@ classifies all of them as Cāturmahārājakāyika devas. It then extends their
 habitation to villages and towns on the seven mountains beginning with
 Yugandhara.
 
+### Bhāṣya-informed study translation
+
+> Karoṭapāṇi yakṣas inhabit the first terrace, Mālādhāras the second, and
+> Sadāmadas—also called Sadāmattas—the third. The Four Great Kings themselves
+> and their attendants inhabit the fourth. All these belong to the host of the
+> Four Great Kings. That same class also has villages and towns on the seven
+> mountains beginning with Yugandhara.
+
+The terrace-by-terrace assignment, identification of the Karoṭapāṇis as
+yakṣas, fourth-terrace population, common Cāturmahārājakāyika classification,
+and settlement forms are Bhāṣya determinations.
+
 ## 2. Continuous Sanskrit
 
 ```iast
@@ -43,7 +55,7 @@ The transmitted phrase `sarveṣāṃ mahiṣṭhaḥ` is retained as “the hig
 all,” while recognizing that the scope of this evaluative statement is not
 further elaborated in this unit.
 
-## 3. Continuous Conventional Translation
+## 3. Scientific English Rendering
 
 On those terraces are the Karoṭapāṇis, the Mālādhāras, and the Sadāmadas; and
 there are also Mahārājika devas on the seven mountains.
@@ -120,7 +132,7 @@ together.
 
 The seven mountains are identified as those beginning with Yugandhara. On
 them are the villages and towns of this deva host. The particle `api` extends
-the habitation range: their domain includes both the measured terraces and
+the habitation range: their region includes both the measured terraces and
 settlements distributed across the surrounding mountains.
 
 The text names these settlement forms but does not give their number,

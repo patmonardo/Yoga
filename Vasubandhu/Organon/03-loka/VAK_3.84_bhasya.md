@@ -1,6 +1,6 @@
 # VAK_3.84 Bhāṣya — The Sesame Comparison and Cold-Hell Lifespans
 
-## Kārikā Anchor
+## 1. Kārikā Anchor
 
 ```iast
 vāhād varṣaśatenaika-tiloddhāra-kṣayāyuṣaḥ /
@@ -13,6 +13,20 @@ arbudād viṃśatiguṇa-prativṛddhyāyuṣaḥ pare // 3.84 //
 
 The source uses the spelling `arvuda`; the normalized `arbuda` follows the
 local kārikā study and is the form used below.
+
+### Bhāṣya-informed study translation
+
+> Suppose a sealed Māgadha vāha of twenty khārīs were completely filled with
+> sesame seeds, and one seed were removed only at the end of every hundred
+> years. That entire store would be exhausted before the lifespan of a being
+> born in Arbuda reached its limit. This comparison indicates the magnitude of
+> the Arbuda lifespan without equating the two. Each subsequent cold-naraka
+> lifespan is exactly twenty times the preceding one: twenty Arbudas make one
+> Nirarbuda, and the same recurrence continues through Mahāpadma.
+
+The twenty-khārī specification, sealed-container description, strict
+comparative inequality, and cited examples of the recurrence are Bhāṣya
+determinations supplied through a saying attributed to the Buddha.
 
 ## Continuous Sanskrit
 
@@ -42,8 +56,7 @@ Spacing and sandhi are regularized. The source's `cūḍikāvaddhaḥ` is render
 as tied or sealed. The final `iti` introduces an abbreviated citation, whose
 intervening sequence is not reproduced in this witness.
 
-## Continuous Conventional Translation
-
+## Scientific English Rendering
 What is the measure of lifespan in the cold hells?
 
 The Blessed One has explained their lifespan by comparison alone: “Suppose,

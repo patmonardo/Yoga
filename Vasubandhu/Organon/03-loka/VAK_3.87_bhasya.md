@@ -1,6 +1,6 @@
 # VAK_3.87 Bhāṣya — From Finger-Breadth to Wilderness
 
-## Kārikā Anchor
+## 1. Kārikā Anchor
 
 ```iast
 caturviṃśatir aṅgulyo hasto hastacatuṣṭayam /
@@ -10,6 +10,16 @@ dhanuḥ pañcaśatāny eṣāṃ krośo 'raṇyaṃ ca tan matam // 3.87 //
 > Twenty-four finger-breadths make a hasta; four hastas make a dhanu; five
 > hundred of these make a krośa. A region at about that distance from a
 > village is regarded as wilderness.
+
+### Bhāṣya-informed study translation
+
+> Twenty-four finger-breadths constitute one hasta; four hastas constitute one
+> dhanu or measured span; and five hundred dhanu measures constitute one
+> krośa. A region beginning at approximately one krośa from a village is
+> conventionally regarded as wilderness.
+
+The clarification of `dhanu` as a span or extent and the village-relative
+definition of `araṇya` are Bhāṣya determinations.
 
 ## Continuous Sanskrit
 
@@ -30,8 +40,7 @@ Spacing and sandhi are regularized. The Bhāṣya glosses `dhanu` with
 village-relative region of about one krośa; it is not another unit in the
 conversion chain.
 
-## Continuous Conventional Translation
-
+## Scientific English Rendering
 Twenty-four finger-breadths make one hasta, and four hastas make one dhanu,
 that is, one measured span. Five hundred of these make one krośa. A region
 about one krośa from a village is conventionally regarded as wilderness.

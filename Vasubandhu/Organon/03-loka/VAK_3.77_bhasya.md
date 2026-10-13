@@ -1,6 +1,6 @@
 # VAK_3.77 Bhāṣya — The Form-Realm Measure Series
 
-## Kārikā Anchor
+## 1. Kārikā Anchor
 
 ```iast
 ardhārdhavṛddhir ūrdhvaṃ tu parīttābhebhya āśrayaḥ /
@@ -10,6 +10,19 @@ dviguṇadviguṇā hitvānabhrakebhyas triyojanam // 3.77 //
 > Above, the bodily support increases by successive half-yojana steps; above
 > the Parīttābhas it is doubled successively, with three yojanas subtracted at
 > the Anabhraka level.
+
+### Bhāṣya-informed study translation
+
+> From the Brahmakāyika measure of one-half yojana, the next three form-realm
+> stations increase by one-half yojana each, reaching two yojanas at
+> Parīttābha. Above Parīttābha, bodily measure doubles at each station through
+> Śubhakṛtsna at sixty-four yojanas. The expected next double is reduced by
+> three, giving the Anabhrakas a measure of 125 yojanas. Above them, successive
+> doubling resumes and culminates in the Akaniṣṭhas at 16,000 yojanas.
+
+The limits of the additive series, the intermediate class-values, the exact
+Anabhraka calculation, the resumed doubling, and the Akaniṣṭha terminus are
+supplied or entailed by the Bhāṣya's exposition.
 
 ## Continuous Sanskrit
 
@@ -36,8 +49,7 @@ Spacing and sandhi have been regularized. The verse's compressed `hitvā`
 clause is read with the prose: the expected doubled measure is reduced by
 three yojanas for the Anabhrakas.
 
-## Continuous Conventional Translation
-
+## Scientific English Rendering
 The measure increases by successive half-yojana steps. At the next three
 stations, the Brahmapurohitas measure one yojana, Mahābrahman one and a half,
 and the Parīttābhas two yojanas.

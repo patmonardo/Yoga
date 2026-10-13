@@ -88,23 +88,17 @@ mountains; the singular pronoun refers to the outer Cakravāḍa.
 > Aśvakarṇa, Vinitaka, and Nimindhara complete the seven golden mountain-ranges
 > surrounding Sumeru, with Nimindhara outermost. Beyond it lie the four
 > continents, and beyond them stands the iron Cakravāḍa, enclosing the entire
-> four-continent world. Mountains and continents arise when seed-bearing
-> waters, churned by winds of differing powers, yield differentiated products
-> that karmically impelled winds gather into masses.
+> four-continent world.
 
 The outermost position of Nimindhara, number of continents, enclosing function
-of Cakravāḍa, and genetic account are supplied by the Bhāṣya.
+of Cakravāḍa, and material assignments are supplied by the Bhāṣya.
 
 ## 6. Philosophical Translation
 
-> The oriented field now reaches determinate closure: center, concentric
-> ranges, inhabited regions, and an outer boundary. Yet the Bhāṣya refuses to
-> leave this as a static topology. It asks how heterogeneous structures can
-> arise at all. Its answer is a convergence of differentiated seeds, forces,
-> causes, and conditions whose effects are gathered into mountains and
-> continents. A World System is therefore both bounded as an articulated whole
-> and genetically open to analysis through the conditions producing each
-> determination.
+> The oriented field reaches determinate closure: a center, surrounding
+> ranges, four continents, and an outer boundary. Each place is defined by its
+> relation to the others, and the iron Cakravāḍa closes the topology of the
+> four-continent world.
 
 ## 7. Technical Vocabulary
 
@@ -119,13 +113,6 @@ of Cakravāḍa, and genetic account are supplied by the Bhāṣya.
 | prākāra | rampart / enclosing wall | Bhāṣya description of the mountain-rings' function |
 | haima | golden | material determination of the seven surrounding mountains |
 | āyasa | iron | material determination of Cakravāḍa |
-| nānāvidha-bīja-garbha | containing many kinds of seeds | Bhāṣya description of the generative waters |
-| pratyayībhavati | becomes a condition | causal role in production of a differentiated effect |
-| pariṇāma | transformation | disputed genetic concept in the Bhāṣya's Sāṃkhya polemic |
-| avasthita-dravya | enduring substance | substrate presupposed by the Sāṃkhya account as Vasubandhu presents it |
-| dharmin | bearer of determinations | supposed enduring bearer targeted by the polemic |
-| kāryaviśeṣa | differentiated effect | particular product arising through a specific causal convergence |
-| karmaprabhāva | efficacy of karma | impels the winds that gather products into mountains and continents |
 
 ## 8. Logical Determination
 
@@ -140,109 +127,23 @@ Sumeru at center
 
 The World System now possesses nested interiority and a terminal exterior
 boundary. Cakravāḍa does not merely follow the other mountains in a list; it
-closes the four-continent domain into one bounded arrangement.
-
-### Genetic question beneath the topology
-
-The Bhāṣya asks `atha kathaṃ teṣāṃ saṃbhavaḥ`—how do these structures arise?
-Its positive sequence is:
-
-```text
-waters containing heterogeneous seeds
-    + winds having heterogeneous powers
-        → convergence of differentiated conditions
-            → production of differentiated effects
-                → karmically impelled gathering
-                    → mountains and continents
-```
-
-Heterogeneity of result is explained through heterogeneity and convergence of
-conditions, not by treating the finished kinds as inexplicable givens.
-
-### Vasubandhu's presentation of Sāṃkhya transformation
-
-```text
-enduring substance / bearer
-    → one determination ceases
-    → another determination appears
-    → substance remains through the alteration
-```
-
-Vasubandhu objects that no bearer distinct from its determinations is found.
-When the defender replies that transformation is simply the same substance's
-becoming otherwise, Vasubandhu treats the claim that it is both the same and
-not so as incoherent.
-
-This is the polemical Sāṃkhya model constructed within the Bhāṣya. It should
-not be silently substituted for a complete or neutral account of Sāṃkhya's
-own theory.
-
-### Positive causal contrast
-
-```text
-not:
-    invariant empirical bearer + exchanged properties
-
-but:
-    specific causal convergence → differentiated new effect
-```
-
-Vasubandhu does not deny ordinary transformation language: the preceding
-verse itself describes water becoming golden. He denies that the explanatory
-work requires a numerically enduring substrate behind the successive
-determinations.
+encloses the four-continent world. The Bhāṣya's question about how these
+structures arise begins with the next Kārikā and is treated in VAK 3.50.
 
 ## 9. Interpretive Note
 
-VAK 3.49 produces two abstractions of unusual value. At the level of
-configuration, it completes a bounded topology:
+VAK 3.49 completes the topology of the four-continent world:
 
 ```text
 center
     → concentric enclosure
-        → regional field
+        → four continents
             → terminal boundary
 ```
 
-At the level of genesis, its Bhāṣya refuses to identify the visible structure
-with its own explanation. Mountains and continents are stabilized results;
-their causes lie in a prior field of seed-bearing waters, differentiated
-forces, convergent conditions, and karmically driven aggregation.
-
-This gives a disciplined distinction between a system's topology and its
-genesis. The topology answers where each region stands relative to the whole.
-The genetic account answers through what conditions those regions arise. A
-complete World System requires both, but neither relation can replace the
-other.
-
-The Sāṃkhya dispute should remain sharp and fairly attributed. Vasubandhu's
-target is an enduring `dharmin` whose determinations are exchanged while the
-bearer remains. His alternative is not sheer discontinuity or production from
-nothing. It is conditioned production in which preceding factors become
-conditions for a differentiated effect. The philosophical contrast is
-therefore between two accounts of continuity through change:
-
-```text
-substrate-continuity
-    versus
-causal-continuity
-```
-
-For the Organon projection:
-
-```ts
-interface ProducedWorldRegion {
-  topologicalRole: "center" | "ring" | "continent" | "outer-boundary";
-  causalInputs: readonly Condition[];
-  producedKind: string;
-  aggregationPower: "karmic-efficacy";
-}
-```
-
-This is explanatory notation, not Vasubandhu's vocabulary. Its function is to
-prevent the stable output type from being mistaken for a self-explanatory
-substance. The world can possess durable structure while its explanatory
-continuity remains causal and relational.
+The verse orders mountain, continent, and boundary by their position relative
+to Sumeru. The Bhāṣya's following inquiry into the genesis of these structures
+belongs with VAK 3.50, not this verse's translation or study.
 
 ## 10. OWL++ Seed
 
@@ -255,8 +156,7 @@ vak:VAK_3_49
     a vak:Karika ;
     vak:completes loka:GreatMountainSystem ;
     vak:describes loka:FourContinentField,
-        loka:CakravadaBoundary ;
-    vak:hasCommentarialIssue vak:TransformationDebate .
+        loka:CakravadaBoundary .
 
 loka:FourContinentWorld
     loka:hasCenter loka:Sumeru ;
@@ -267,23 +167,4 @@ loka:FourContinentWorld
 loka:Cakravada
     a loka:IronMountainBoundary ;
     loka:encloses loka:FourContinentWorld .
-
-loka:MountainAndContinentGenesis
-    loka:hasMaterialCondition loka:SeedBearingWaters ;
-    loka:hasDynamicCondition loka:DifferentiatedWinds ;
-    loka:produces loka:DifferentiatedEffects ;
-    loka:hasAggregationCondition loka:KarmicEfficacy .
-
-vak:TransformationDebate
-    vak:contrasts vak:EnduringBearerTransformation,
-        vak:ConditionedDifferentiatedProduction ;
-    vak:attributesCritiqueTo vak:Vasubandhu ;
-    vak:representsOpponentAs vak:SamkhyaDefender .
-
-organon:WorldTopologyGenesisDistinction
-    a organon:ProjectInterpretation ;
-    organon:distinguishes organon:RelationalPlacement,
-        organon:CausalProduction ;
-    organon:contrasts organon:SubstrateContinuity,
-        organon:CausalContinuity .
 ```

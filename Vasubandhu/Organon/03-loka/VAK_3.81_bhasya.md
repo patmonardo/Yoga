@@ -1,6 +1,6 @@
 # VAK_3.81 Bhāṣya — Lifespan and the Measure of a Kalpa
 
-## Kārikā Anchor
+## 1. Kārikā Anchor
 
 ```iast
 ārūpye viṃśatiḥ kalpasahasrāṇy adhikādhikam /
@@ -14,6 +14,19 @@ mahākalpaḥ parīttābhāt prabhṛty ardham adhas tataḥ // 3.81 //
 The local kārikā witness compresses the second line. Its division here follows
 the Bhāṣya's explicit prose: `parīttābhāt prabhṛti` (“beginning with
 Parīttābha”) and `ardham adhas tataḥ` (“below that, half”).
+
+### Bhāṣya-informed study translation
+
+> Lifespans in the four formless stations are respectively 20,000 kalpas in
+> the Essence of Infinite Space, 40,000 in the Essence of Infinite Cognition,
+> 60,000 in the Essence of Nothingness, and 80,000 at the Summit of Existence.
+> In these lifespan calculations, `kalpa` means a full mahākalpa from the
+> Parīttābha class upward; below Parīttābha, half a mahākalpa is conventionally
+> counted as one kalpa.
+
+The names and exact distribution of the four formless stations, the explicit
+question about which kind of kalpa is intended, and the conventional status
+of the lower unit are Bhāṣya determinations.
 
 ## Continuous Sanskrit
 
@@ -51,8 +64,7 @@ Sandhi and word division have been regularized. The second kārikā line is
 presented according to the parsing confirmed by the Bhāṣya, rather than the
 compressed form of the local root-text witness.
 
-## Continuous Conventional Translation
-
+## Scientific English Rendering
 In the formless realm, lifespans increase successively by twenty thousand
 kalpas. In the Essence of Infinite Space, lifespan is twenty thousand
 kalpas; in the Essence of Infinite Cognition, twenty thousand more; in the

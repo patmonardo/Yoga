@@ -299,18 +299,18 @@ class ProjectScriptTests(unittest.TestCase):
             7: 56,
             8: 43,
         }
-        for volume, karika_count in verse_counts.items():
+        for chapter, karika_count in verse_counts.items():
             for kind in ("karika", "bhasya"):
                 expected_count = (
-                    38 if volume == 3 and kind == "bhasya" else karika_count
+                    38 if chapter == 3 and kind == "bhasya" else karika_count
                 )
-                with self.subTest(volume=volume, kind=kind):
+                with self.subTest(chapter=chapter, kind=kind):
                     result = subprocess.run(
                         [
                             "bash",
                             str(BUILD_SCRIPT),
-                            "--volume",
-                            str(volume),
+                            "--chapter",
+                            str(chapter),
                             "--kind",
                             kind,
                             "--dry-run",
@@ -340,7 +340,7 @@ class ProjectScriptTests(unittest.TestCase):
             [
                 "bash",
                 str(BUILD_SCRIPT),
-                "--volume",
+                "--chapter",
                 "4",
                 "--kind",
                 "karika",
@@ -356,6 +356,24 @@ class ProjectScriptTests(unittest.TestCase):
         )
         self.assertEqual(result.returncode, 0, result.stdout + result.stderr)
         self.assertIn("Sources: 16 (VAK 4.01–4.16)", result.stdout)
+
+    def test_shared_builder_rejects_volume_option(self):
+        result = subprocess.run(
+            [
+                "bash",
+                str(BUILD_SCRIPT),
+                "--volume",
+                "4",
+                "--kind",
+                "karika",
+                "--dry-run",
+            ],
+            capture_output=True,
+            text=True,
+            check=False,
+        )
+        self.assertEqual(result.returncode, 2)
+        self.assertIn("Unknown option: --volume", result.stderr)
 
 
 if __name__ == "__main__":

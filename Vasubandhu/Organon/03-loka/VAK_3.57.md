@@ -162,7 +162,7 @@ Anavatapta
     └── Vakṣu
 ```
 
-One bounded source-domain generates four outgoing river relations. The lake's
+One bounded source-region generates four outgoing river relations. The lake's
 identity includes not only its location and dimensions but its role within a
 larger hydrological network.
 
