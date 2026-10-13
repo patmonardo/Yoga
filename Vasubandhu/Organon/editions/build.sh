@@ -311,7 +311,6 @@ pandoc "${sources[@]}" \
   --variable linestretch=1.05 \
   --toc \
   --toc-depth=1 \
-  --number-sections \
   --output="$output_file"
 
 printf '%s\n' "$output_file"

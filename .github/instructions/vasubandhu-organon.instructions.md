@@ -59,6 +59,24 @@ folder, consult these load-bearing project documents:
 - Use the technical vocabulary below consistently, without letting it erase
   grammatical, textual, or school-level distinctions.
 
+## Translation as Generative Bhāṣya
+
+- Treat the compact Kārikā as an invitation to further understanding, not a
+  closed decree. A new Bhāṣya may develop, test, and where warranted challenge
+  inherited readings; do not defer to Vasubandhu as an unquestionable authority.
+- Preserve the textual witness and the Bhāṣya's actual argument, while letting
+  Organon, Hegelian, or Yogavidyā interpretation genuinely work on the passage.
+  Do not impose these frameworks as hidden source meanings, but do not use
+  source/interpretation distinctions to quarantine our synthesis in disclaimers.
+- Keep source claims, English rendering, and project interpretation
+  identifiable and in active dialogue. Treat translation as interpretive:
+  explain consequential choices and uncertainties, and make our interpretive
+  claims answerable to the text without restricting them to paraphrase.
+- Treat the Absolute Vow as our generative commitment and horizon, not as a
+  doctrine to attribute silently to Vasubandhu. Aim for neither reverent
+  paraphrase nor hostile appropriation, but a new Bhāṣya that preserves the
+  source while allowing the system to develop.
+
 ## Central architecture
 
 - The Dharma Chakra is the central idea of the Kośa, not a side note,
