@@ -58,7 +58,7 @@ na
 | `utpadyavedyakṛt` | nominative masculine singular compound | producer of karma to be experienced in the next rebirth |
 | `anyavedyakṛt` | nominative masculine singular compound | producer of the other future-result karma |
 | `āryaḥ` | nominative masculine singular | noble person |
-| `kāme` | locative masculine singular | in or with respect to the desire domain |
+| `kāme` | locative masculine singular | in or with respect to the Desire Realm |
 | `agre` | locative neuter singular | at the summit of existence |
 | `asthiraḥ` | nominative masculine singular | unstable; liable to fall back |
 | `api na` | particles | not even; nevertheless does not |
@@ -117,7 +117,7 @@ na [tad-karma-kṛt]
 ```
 
 > Even an unstable noble person does not produce those future karmas with
-> respect to the desire domain or the summit of existence.
+> respect to the Desire Realm or the summit of existence.
 
 The sandhi `vāsthiraḥ` must be resolved as `vā asthiraḥ` for this syntax.
 
@@ -127,17 +127,18 @@ The sandhi `vāsthiraḥ` must be resolved as `vā asthiraḥ` for this syntax.
 
 > A stable ordinary person detached from a given level does not produce karma
 > to be experienced there in the next rebirth. A stable noble person does not
-> produce the other future-result karma either; with respect to the desire
-> domain or the summit, even an unstable noble person does not.
+> produce the other future-result karma either; with respect to the Desire
+> Realm or the summit, even an unstable noble person does not.
 
 ### Bhāṣya-informed study translation
 
 > An ordinary person who is stably detached from a level produces no karma
-> leading to immediate rebirth in that level. A stable noble person produces
-> neither immediate-next-birth nor later-life karma for a level from which that
-> person is detached, because return to the lower level is no longer possible.
+> to be experienced in the next birth in that level. A stable noble person
+> produces neither next-birth-result nor later-life karma for a level from
+> which that person is detached, because return to the lower level is no
+> longer possible.
 > Even a noble person liable to fall back cannot produce those future karmas
-> with respect to the desire domain or the summit of existence.
+> with respect to the Desire Realm or the summit of existence.
 
 The continuation of `sthira`, the scope of the two future karmas, the
 impossibility of return, and the special rule for an unstable noble person are
@@ -192,7 +193,7 @@ dṛṣṭadharmavedanīya karma
 **Unstable noble person**
 
 `Parihāṇadharmā` means liable to fall back. Even such a noble person is subject
-to the special restriction at the desire domain and `bhavāgra`.
+to the special restriction at the Desire Realm and `bhavāgra`.
 
 **Reason for the boundary restriction**
 
@@ -232,10 +233,10 @@ impossible for another.
 
 ```text
 stable ordinary
-    excludes immediate-next-birth karma
+    excludes next-birth-result karma
 
 stable noble
-    excludes immediate-next-birth
+    excludes next-birth-result
     and later-life karma
 ```
 
@@ -276,8 +277,8 @@ possibility itself.
 
 **The boundary levels**
 
-Kāmadhātu and `bhavāgra` are the lower and upper limits singled out in the
-special rule for the unstable noble person. The restriction depends on the
+The Desire Realm (`kāmadhātu`) and `bhavāgra` are the lower and upper limits
+singled out in the special rule for the unstable noble person. The restriction depends on the
 technical doctrine of falling from a fruit and must not be generalized without
 that context.
 
@@ -300,7 +301,7 @@ Class: StablePerson
 Class: UnstablePerson
 Class: Detachment
 Class: Level
-Class: DesireDomain
+Class: DesireRealm
 Class: SummitOfExistence
 Class: Karma
 Class: PresentLifeResultKarma

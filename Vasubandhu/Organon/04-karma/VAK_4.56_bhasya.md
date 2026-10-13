@@ -1,4 +1,4 @@
-# VAK 4.56 Bhāṣya — Five Exceptional Fields
+# VAK 4.56 Bhāṣya — Exceptional Field: Saṅgha and Five Emergent States
 
 ## 1. Kārikā Anchor
 
@@ -7,9 +7,13 @@ ye nirodhāraṇāmaitrīdarśanārhatphalotthitāḥ /
 teṣu kārāpakārasya phalaṃ sadyo 'nubhūyate // 4.56 //
 ```
 
-> For those who have emerged from cessation, non-contention,
-> loving-kindness, the Path of Seeing, or the fruit of arhatship,
-> the result of benefiting or harming them is experienced at once.
+> The Bhāṣya also names the Bhikṣu Saṅgha headed by the Buddha as a field. The
+> result of benefit or injury directed toward someone freshly emerged from
+> cessation attainment, non-contention, loving-kindness, the Path of Seeing, or
+> the fruit of arhatship is certainly experienced in this life. The recipient
+> is described as newly peaceful, benevolently oriented, or purified. The verse
+> says `sadyaḥ` (“at once”), while the prose specifies present-life certainty
+> without fixing an exact interval.
 
 The Bhāṣya's prose specifies that this result is certain **in the
 present life**. The verse's `sadyaḥ` does not establish an exact
@@ -120,9 +124,9 @@ that actions toward them have no karmic result.
 The Kārikā says `sadyaḥ`, “at once.” The concluding prose says
 `dṛṣṭa eva dharme niyataṃ prāpyate`: the result is certainly obtained
 in this very life. This secures the timing class without supplying a
-clock time. Both benefit and harm are included; the text does not
-collapse their ethical difference into the single fact of
-present-life fruition.
+clock time. Both benefit and harm are included; the text does not collapse their
+ethical difference into the shared fact of a result certain within
+the present life.
 
 ## 6. Organon Contact Point
 

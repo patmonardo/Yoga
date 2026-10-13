@@ -22,7 +22,7 @@ tad-bhūmiṣu yataḥ karma-vipākam prati na iñjati //
 ```
 
 The Bhāṣya carries `śubham` forward into the second determination: `āneñja`
-is wholesome karma belonging to the form and formless domains.
+is wholesome karma belonging to the Form and Formless Realms.
 
 ## 3. Lexical Analysis
 
@@ -45,12 +45,12 @@ iñjati
 
 | Form | Morphology | Lexical value here |
 |---|---|---|
-| `kāmadhātau` | locative masculine singular compound | in the desire domain |
+| `kāmadhātau` | locative masculine singular compound | in the Desire Realm |
 | `śubham` | nominative neuter singular | wholesome; auspicious |
 | `karma` | nominative neuter singular | karma; action |
 | `puṇyam` | nominative neuter singular | meritorious |
 | `āneñjam` | nominative neuter singular | immovable; non-shifting |
-| `ūrdhvajam` | nominative neuter singular compound | produced above; born in the higher domains |
+| `ūrdhvajam` | nominative neuter singular compound | produced above; born in the higher realms |
 | `tadbhūmiṣu` | locative feminine plural compound | in those levels |
 | `yataḥ` | causal relative adverb | because; since |
 | `karmavipākam` | accusative masculine singular compound | karmic maturation |
@@ -63,16 +63,17 @@ The verse uses both terms and does not make them interchangeable:
 
 ```text
 dhātu
-    broad domain of karmic existence and operation
+    realm of karmic existence and operation in this compound
 
 bhūmi
     determinate level or station within the ordered field
 ```
 
-The desire domain contains multiple destinies and classes of beings. Higher
+The Desire Realm contains multiple destinies and classes of beings. Higher
 karma is called immovable because its maturation does not shift from its
 corresponding `bhūmi`, not merely because it remains somewhere in a broadly
-named domain.
+named realm. Here, the conventional rendering “Realm” does not replace the
+Organon rendering Dhātu as Principle.
 
 **`āneñja`**
 
@@ -83,7 +84,7 @@ maturation, not absolutely motionless or unconditioned.
 **`ūrdhvaja`**
 
 “Born above” is explained by the Bhāṣya as wholesome karma pertaining to the
-form and formless domains.
+Form and Formless Realms.
 
 ## 4. Grammar
 
@@ -95,9 +96,9 @@ kāma-dhātau
 puṇyam [bhavati]
 ```
 
-> Wholesome karma in the desire domain is meritorious.
+> Wholesome karma in the Desire Realm is meritorious.
 
-The locative supplies the domain in which the wholesome karma is classified
+The locative supplies the realm in which the wholesome karma is classified
 as `puṇya`.
 
 **Immovable karma**
@@ -111,7 +112,7 @@ as `puṇya`.
 > Wholesome karma produced above is immovable.
 
 The Bhāṣya explicitly repeats the force of `śubham`. Thus `ūrdhvajam` should
-not be generalized to every event occurring in a higher domain.
+not be generalized to every event occurring in a higher realm.
 
 **The causal definition**
 
@@ -131,35 +132,35 @@ na iñjati
 
 ### Literal Translation
 
-> Wholesome karma in the desire domain is meritorious; wholesome karma
+> Wholesome karma in the Desire Realm is meritorious; wholesome karma
 > produced above is immovable, because with respect to maturation karma does
 > not shift from those levels.
 
 ### Bhāṣya-informed study translation
 
-> Wholesome karma belonging to the desire domain is called meritorious, while
-> wholesome karma belonging to the form and formless domains is called
+> Wholesome karma belonging to the Desire Realm is called meritorious, while
+> wholesome karma belonging to the Form and Formless Realms is called
 > immovable. It is immovable specifically with respect to maturation: karma
 > produced for one of those higher levels cannot mature in another level.
 > Unwholesome karma is what ordinary usage calls demeritorious.
 
-The extension of `śubha` to the higher-domain clause, the identification of
-the higher domains, the exact fixity of maturation, and the closing statement
+The extension of `śubha` to the higher-realm clause, the identification of
+the higher realms, the exact fixity of maturation, and the closing statement
 about `apuṇya` are supplied by the Bhāṣya.
 
 ## 6. Philosophical Translation
 
 > Karma is determined not only by ethical quality but by the relation between
-> its field of production and its field of maturation. Desire-domain karma is
+> its realm of production and its level of maturation. Desire-Realm karma is
 > comparatively mobile: intervening conditions can alter the destiny or class
 > in which its result appears. Higher wholesome karma is immovable because
 > its originating level and maturation-level stand in an invariant relation.
-> Its stability is therefore not inert permanence but necessity within a
-> specified causal mapping.
+> This is not inert permanence, but fixity within a specified causal relation.
 
-This is a determination of relative invariance. The same meditative complex
-may contain movement under one aspect and generate immovable karma under
-another without contradiction.
+This is a determination of relative invariance. The Bhāṣya's “moved”
+predicate concerns disturbance within samādhi; “immovable” concerns the
+level at which karma matures. Since the predicates concern different
+determinations, they do not contradict one another.
 
 ## 7. Technical Vocabulary
 
@@ -167,17 +168,17 @@ another without contradiction.
 
 ```text
 puṇya
-    wholesome karma of the desire domain
+    wholesome karma of the Desire Realm
 
 apuṇya
     unwholesome karma
 
 āneñja
-    wholesome karma of the form and formless domains
+    wholesome karma of the Form and Formless Realms
     with maturation fixed by level
 ```
 
-The classifications combine ethical quality with domain and maturation.
+The classifications combine ethical quality with realm and maturation.
 
 **The objection from moved dhyānas**
 
@@ -192,7 +193,7 @@ karma connected with those dhyānas be called immovable?
 dhyāna
     moved with respect to perturbation within samādhi
 
-higher-domain karma
+higher-realm karma
     immovable with respect to maturation-level
 ```
 
@@ -200,12 +201,12 @@ The predicates differ because their specified relations differ.
 
 **`avyavasthāna`**
 
-The Bhāṣya calls desire-domain maturation non-fixed. Karma associated with one
+The Bhāṣya calls Desire-Realm maturation non-fixed. Karma associated with one
 destiny may mature in another, and karma associated with one divine class may
 mature in another class.
 
 ```text
-desire-domain karma
+Desire-Realm karma
     + the power of other conditions
     → alternative admissible maturation-locus
 ```
@@ -251,7 +252,7 @@ ORIGIN_LEVEL(K) = X
 For higher karma, the mapping is invariant. `Āneñja` names this law of the
 relation, not an absence of activity.
 
-**Conditional mobility in the desire domain**
+**Conditional mobility in the Desire Realm**
 
 ```text
 ORIGIN_SPECIFICATION(K) = X
@@ -259,8 +260,8 @@ ORIGIN_SPECIFICATION(K) = X
     → MATURATION_LOCUS(K) may be Y
 ```
 
-The Bhāṣya's examples remain within the desire-domain field: gods, humans,
-animals, and pretas. The movement does not imply maturation in any domain
+The Bhāṣya's examples remain within the Desire-Realm field: gods, humans,
+animals, and pretas. The movement does not imply maturation in any realm
 whatsoever.
 
 **No contradiction across different respects**
@@ -282,7 +283,7 @@ The verse confirms three layers:
 ethical determination
     wholesome / unwholesome
 
-domain determination
+realm determination
     desire / form / formless
 
 level-indexed maturation
@@ -290,7 +291,7 @@ level-indexed maturation
     or fixed to a corresponding bhūmi
 ```
 
-The complete account therefore requires both domain and internal
+The complete account therefore requires both realm and internal
 differentiation. Dhātu gives the systematic field; bhūmi gives the indexed
 position required by this karmic law.
 
@@ -303,14 +304,14 @@ karma is dropped. The field of genesis enters the determination of what the
 karma is:
 
 ```text
-wholesome + desire-domain
+wholesome + Desire-Realm
     → puṇya
 
-wholesome + higher-domain + fixed bhūmi-maturation
+wholesome + higher-realm + fixed bhūmi-maturation
     → āneñja
 ```
 
-Domain is therefore internal to the karmic classification.
+Realm is therefore internal to the karmic classification.
 
 **Necessity as lawful activity**
 
@@ -329,7 +330,7 @@ This is stronger than treating stability as a static property of a substance.
 
 **Conditions and admissible variation**
 
-The Bhāṣya does not oppose law to conditioning. In the desire domain, other
+The Bhāṣya does not oppose law to conditioning. In the Desire Realm, other
 conditions can redirect the precise locus of maturation. The field determines
 the admissible range within which conditional variation operates.
 
@@ -361,18 +362,18 @@ Class: UnwholesomeKarma
 Class: MeritoriousKarma
 Class: DemeritoriousKarma
 Class: ImmovableKarma
-Class: Domain
-Class: DesireDomain
-Class: FormDomain
-Class: FormlessDomain
-Class: HigherDomain
+Class: Realm
+Class: DesireRealm
+Class: FormRealm
+Class: FormlessRealm
+Class: HigherRealm
 Class: Level
 Class: Destiny
 Class: Maturation
 Class: OtherCondition
 Class: SamadhiPerturbation
 
-ObjectProperty: belongsToDomain
+ObjectProperty: belongsToRealm
 ObjectProperty: generatedForLevel
 ObjectProperty: maturesAtLevel
 ObjectProperty: mayMatureInDestiny
@@ -385,20 +386,20 @@ UnwholesomeKarma SubClassOf Karma
 MeritoriousKarma SubClassOf WholesomeKarma
 DemeritoriousKarma SubClassOf UnwholesomeKarma
 ImmovableKarma SubClassOf WholesomeKarma
-DesireDomain SubClassOf Domain
-FormDomain SubClassOf Domain
-FormlessDomain SubClassOf Domain
-HigherDomain SubClassOf Domain
+DesireRealm SubClassOf Realm
+FormRealm SubClassOf Realm
+FormlessRealm SubClassOf Realm
+HigherRealm SubClassOf Realm
 
-Rule: DesireDomainWholesomeKarmaIsMeritorious
+Rule: DesireRealmWholesomeKarmaIsMeritorious
     WholesomeKarma(?k)
-    and belongsToDomain(?k, DesireDomain)
+    and belongsToRealm(?k, DesireRealm)
     -> MeritoriousKarma(?k)
 
-Rule: HigherDomainWholesomeKarmaIsImmovable
+Rule: HigherRealmWholesomeKarmaIsImmovable
     WholesomeKarma(?k)
-    and belongsToDomain(?k, ?d)
-    and HigherDomain(?d)
+    and belongsToRealm(?k, ?d)
+    and HigherRealm(?d)
     -> ImmovableKarma(?k)
 
 Rule: FixedHigherMaturation
@@ -411,19 +412,19 @@ Constraint: ImmovableIsRelational
     means immovableWithRespectTo MaturationLevel
     not absence of movement in every respect
 
-Constraint: DomainAndLevelRemainDistinct
-    Domain supplies the ordered field
+Constraint: RealmAndLevelRemainDistinct
+    Realm supplies the ordered field
     Level supplies the determinate maturation station
 
 Constraint: DifferentRespectsPreventContradiction
     movedWithRespectTo(?x, SamadhiPerturbation)
     may coexist with immovableWithRespectTo(?x, Maturation)
 
-Constraint: DesireDomainMobilityIsConditioned
-    alternative maturation-loci within DesireDomain
+Constraint: DesireRealmMobilityIsConditioned
+    alternative maturation-loci within DesireRealm
     depend on OtherCondition
 ```
 
 The seed represents `āneñja` as invariance of the relation between originating
 level and maturation-level while preserving conditioned mobility within the
-desire-domain field.
+Desire-Realm field.

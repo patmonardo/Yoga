@@ -46,13 +46,13 @@ saḥ
 | Form | Morphology | Lexical value here |
 |---|---|---|
 | `dvāviṃśatividham` | accusative neuter singular compound | twenty-twofold; of twenty-two kinds |
-| `kāmeṣu` | locative masculine plural | in the desire domain |
+| `kāmeṣu` | locative masculine plural | in the Desire Realm |
 | `ākṣipati` | third-person singular present | projects; casts forth |
 | `antarābhavaḥ` | nominative masculine singular | intermediate existence |
 | `dṛṣṭadharmaphalam` | nominative/accusative neuter singular compound | having its fruit in the present existence |
 | `tat` | nominative/accusative neuter singular pronoun | that [karma] |
 | `ca` | conjunction | and; also |
-| `nikāyaḥ` | nominative masculine singular | aggregate-continuum; class-continuity |
+| `nikāyaḥ` | nominative masculine singular | class-continuity; rebirth-class |
 | `hi` | explanatory particle | for; because |
 | `ekaḥ eva` | emphatic nominative phrase | one and the same |
 | `saḥ` | nominative masculine singular pronoun | that [continuum] |
@@ -64,9 +64,9 @@ the capacity to produce or project karma with determinate future targets.
 
 **`nikāya` and `nikāyasabhāga`**
 
-The Bhāṣya specifies one homogeneous aggregate-continuum projected by one
-karma. Its identity spans intermediate existence and the ten developmental
-stages that follow.
+The Bhāṣya specifies one rebirth-class continuum projected by one karma. Its
+continuity spans intermediate existence and the ten developmental stages that
+follow.
 
 **`dṛṣṭadharmaphala`**
 
@@ -85,7 +85,7 @@ dvāviṃśati-vidham [karma]
 ākṣipati
 ```
 
-> In the desire domain, intermediate existence projects twenty-two kinds of
+> In the Desire Realm, intermediate existence produces twenty-two kinds of
 > karma.
 
 The accusative `dvāviṃśatividham` qualifies the understood `karma` as the
@@ -110,7 +110,7 @@ saḥ nikāyaḥ
 ekaḥ eva [asti]
 ```
 
-> For that aggregate-continuum is one and the same.
+> For that rebirth-class continuum is one and the same.
 
 The explanatory `hi` gives continuity of `nikāya` as the reason for the
 temporal classification.
@@ -119,18 +119,18 @@ temporal classification.
 
 ### Literal Translation
 
-> In the desire domain, intermediate existence projects twenty-two kinds of
+> In the Desire Realm, intermediate existence produces twenty-two kinds of
 > karma. Its determinate portion has its fruit in the present existence, for
-> that aggregate-continuum is one and the same.
+> that rebirth-class continuum is one and the same.
 
 ### Bhāṣya-informed study translation
 
-> In desire-domain intermediate existence, karma can be produced for each of
+> In Desire-Realm intermediate existence, karma can be produced for each of
 > eleven stages—the intermediate state itself, five embryonic stages, and five
 > stages after birth—with each kind either determinate or indeterminate, making
 > twenty-two. The eleven determinate kinds count as present-existence-result
 > karma because intermediate existence and the ten stages that follow form one
-> and the same karmically projected aggregate-continuum.
+> and the same karmically projected rebirth-class continuum.
 
 The eleven stages, multiplication by modal status, and restriction of the
 present-existence designation to the determinate cases are supplied by the
@@ -170,6 +170,9 @@ five post-birth stages
     10. madhya
     11. vṛddha
 ```
+
+The source compresses the third post-birth member as `va`; `yuvan` is supplied
+from the announced fivefold count and remains an editorial inference.
 
 **The twenty-twofold derivation**
 
@@ -245,7 +248,9 @@ karma produced in intermediate existence
 ```
 
 The cause establishing the field and the causes maturing within that field
-must not be collapsed.
+must not be collapsed. The repeated root `ākṣip` marks distinct relations:
+intermediate existence projects target-specific karma, while one karma
+projects the rebirth-class continuum.
 
 ## 9. Interpretive Note
 
@@ -262,7 +267,7 @@ theory:
 
 ```text
 continuity through rebirth transition
-    → one projected aggregate-series
+    → one projected rebirth-class continuum
     → determinate temporal classification of karma
 ```
 
@@ -273,7 +278,7 @@ beings can support practical causality.
 
 The same continuum does not mean an unchanged self travels through the stages.
 The invariant is the causal organization that differentiates itself into
-successive aggregate-configurations.
+successive developmental configurations.
 
 **Developmental specificity**
 
@@ -294,14 +299,14 @@ Class: IntermediateExistence
 Class: EmbryonicStage
 Class: PostBirthStage
 Class: MaturationTarget
-Class: AggregateContinuum
+Class: RebirthClassContinuum
 Class: ModalStatus
 Class: DeterminateStatus
 Class: IndeterminateStatus
 Class: IntermediateExistenceKarmicPossibility
 Class: PresentExistenceResultKarma
 Class: NextBirthResultKarma
-Class: DesireDomain
+Class: DesireRealm
 
 ObjectProperty: producedIn
 ObjectProperty: projects
@@ -347,8 +352,8 @@ Constraint: ContinuumIdentityIsNotPhaseIdentity
     does not entail that ?a and ?b are the same phase
 
 Constraint: NoPermanentBearerRequired
-    AggregateContinuum identity
-    is causal continuity across changing aggregate-configurations
+    RebirthClassContinuum identity
+    is causal continuity across changing developmental configurations
 ```
 
 The seed models the twenty-twofold range as a product and temporal identity as

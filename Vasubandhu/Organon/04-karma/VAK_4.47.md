@@ -22,7 +22,7 @@ aduḥkha-asukha-vedyam tu duḥkha-vedyam iha aśubham //
 ```
 
 The Bhāṣya makes explicit that the field of pleasant maturation begins in the
-desire domain and extends through the third dhyāna.
+Desire Realm and extends through the third dhyāna.
 
 ## 3. Lexical Analysis
 
@@ -54,7 +54,7 @@ aśubham
 | `aduḥkhāsukhavedyam` | nominative neuter singular compound | to be experienced as neither pain nor pleasure |
 | `tu` | contrastive particle | but; whereas |
 | `duḥkhavedyam` | nominative neuter singular compound | to be experienced as pain |
-| `iha` | adverb | here; here in the desire domain |
+| `iha` | adverb | here; here in the Desire Realm |
 | `aśubham` | nominative neuter singular | unwholesome karma |
 
 **`vedya`**
@@ -64,7 +64,7 @@ describe the feeling necessarily accompanying the action at its production.
 
 **`iha`**
 
-The Bhāṣya explains “here” as the desire domain. Unwholesome karma occurs only
+The Bhāṣya explains “here” as the Desire Realm. Unwholesome karma occurs only
 there and is classified as painfully experienced.
 
 **`sasaṃbhāra`**
@@ -83,11 +83,11 @@ dhyānāt ā tṛtīyāt
 sukha-vedyam [bhavati]
 ```
 
-> Wholesome karma in the desire domain and through the third dhyāna is to be
+> Wholesome karma in the Desire Realm and through the third dhyāna is to be
 > experienced as pleasure.
 
 The kārikā compresses the lower limit. The Bhāṣya states that the relevant
-`bhūmi` includes the desire domain together with the first three dhyānas.
+`bhūmi` includes the Desire Realm together with the first three dhyānas.
 
 **Neutral-feeling maturation**
 
@@ -111,36 +111,36 @@ aśubham [karma]
 duḥkha-vedyam [bhavati]
 ```
 
-> Here in the desire domain, unwholesome karma is to be experienced as pain.
+> Here in the Desire Realm, unwholesome karma is to be experienced as pain.
 
-`Iha` restricts the occurrence of unwholesome karma to the desire domain.
+`Iha` restricts the occurrence of unwholesome karma to the Desire Realm.
 
 ## 5. Translation
 
 ### Literal Translation
 
-> Wholesome karma from the desire domain through the third dhyāna is to be
+> Wholesome karma from the Desire Realm through the third dhyāna is to be
 > experienced as pleasure. Beyond this it is to be experienced as neither
 > pain nor pleasure; here, unwholesome karma is to be experienced as pain.
 
 ### Bhāṣya-informed study translation
 
-> Wholesome karma belonging to the desire domain and the first three dhyānas
+> Wholesome karma belonging to the Desire Realm and the first three dhyānas
 > matures with pleasant feeling. Above the third dhyāna, wholesome karma
 > matures with feeling that is neither painful nor pleasant. Here in the
-> desire domain, unwholesome karma matures with painful feeling. These names
+> Desire Realm, unwholesome karma matures with painful feeling. These names
 > characterize the maturation by its feeling, although feeling is not the
 > whole fruit: its associated complex matures with it.
 
-The inclusion of the desire domain and the qualification concerning the whole
+The inclusion of the Desire Realm and the qualification concerning the whole
 associated result-complex are supplied by the Bhāṣya.
 
 ## 6. Philosophical Translation
 
-> Karma matures not only in a determinate domain and level but through a
+> Karma matures not only in a determinate realm and level but through a
 > determinate mode of experience. Wholesome karma through the third dhyāna has
 > pleasure as the characteristic feeling of its result; higher wholesome karma
-> has neither-painful-nor-pleasant feeling; desire-domain unwholesome karma has
+> has neither-painful-nor-pleasant feeling; Desire-Realm unwholesome karma has
 > pain. Yet the experienced feeling is only the dominant determination by
 > which the concrete maturation-complex is named, not the totality of that
 > complex.
@@ -166,13 +166,13 @@ aduḥkhāsukhavedanīya
 **Distribution by level**
 
 ```text
-desire domain through third dhyāna
+Desire Realm through third dhyāna
     wholesome karma → pleasant maturation
 
 above third dhyāna
     wholesome karma → neither-painful-nor-pleasant maturation
 
-desire domain
+Desire Realm
     unwholesome karma → painful maturation
 ```
 
@@ -225,18 +225,12 @@ karma-quality
     → characteristic feeling of result
 ```
 
-**The Indriya application**
+**`Vedanā` and the associated result-complex**
 
-```text
-karma
-    determines a maturation-complex
-
-vedanā-indriya
-    supplies its characteristic experienced mode
-```
-
-The feeling-faculty does not replace the karmic result. It is the moment
-through which that result is experientially determined.
+The Bhāṣya names felt experience (`vedanā`) and says it is not the whole
+result. It does not identify this feeling with a feeling-Faculty
+(`vedanendriya`): the experience and the capacity to experience it are
+distinct determinations.
 
 **Determination of the whole by a characteristic moment**
 
@@ -268,24 +262,25 @@ of the lower opposition indefinitely.
 
 ## 9. Interpretive Note
 
-**Dhātu, bhūmi, and Indriya now operate together**
+**Realm, bhūmi, and vedanā remain distinct**
 
 ```text
-Dhātu
-    field in which karma is produced and matures
+kāmadhātu
+    Realm in which the specified karma occurs
 
 Bhūmi
-    level determining the available affective constitution
+    level that conditions the relevant feeling-range
 
-Indriya
-    faculty through which the matured result is experienced
+Vedanā
+    felt character of the karmic result
 
 Karma
-    law connecting production, maturation, and experience
+    whose vipāka is classified by its characteristic vedanā
 ```
 
-This is precisely an application of the earlier theoretical architecture.
-None of the moments can substitute for the others.
+The source connects these determinations without making them synonyms. Its
+use of `kāmadhātu` is a local Realm designation, not a substitution for the
+Organon rendering of Dhātu as Principle.
 
 **The result is a concrete complex**
 
@@ -318,7 +313,7 @@ Class: NeitherPainfulNorPleasantFeeling
 Class: PleasantlyExperiencedKarma
 Class: PainfullyExperiencedKarma
 Class: NeutrallyExperiencedKarma
-Class: DesireDomain
+Class: DesireRealm
 Class: DhyanaLevel
 Class: FirstThroughThirdDhyana
 Class: AboveThirdDhyana
@@ -346,9 +341,9 @@ Rule: HigherWholesomeKarmaHasNeutralMaturation
     and producedAtLevel(?k, AboveThirdDhyana)
     -> NeutrallyExperiencedKarma(?k)
 
-Rule: DesireDomainUnwholesomeKarmaHasPainfulMaturation
+Rule: DesireRealmUnwholesomeKarmaHasPainfulMaturation
     UnwholesomeKarma(?k)
-    and belongsToField(?k, DesireDomain)
+    and belongsToField(?k, DesireRealm)
     -> PainfullyExperiencedKarma(?k)
 
 Constraint: FeelingIsNotWholeFruit
@@ -360,8 +355,8 @@ Constraint: VedaniyaConcernsMaturation
     feeling at karmic production
     does not determine the vedanīya class by itself
 
-Constraint: DesireDomainIncludedInPleasantRange
-    wholesome DesireDomain karma
+Constraint: DesireRealmIncludedInPleasantRange
+    wholesome DesireRealm karma
     may be PleasantlyExperiencedKarma
 ```
 

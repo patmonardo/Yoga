@@ -48,8 +48,8 @@ nir-āsravam
 | Form | Morphology | Lexical value here |
 |---|---|---|
 | `aśubham` | nominative neuter singular | unwholesome karma |
-| `rūpāptam` | nominative neuter singular compound | belonging to the form domain |
-| `kāmāptam` | nominative neuter singular compound | belonging to the desire domain |
+| `rūpāptam` | nominative neuter singular compound | belonging to the Form Realm |
+| `kāmāptam` | nominative neuter singular compound | belonging to the Desire Realm |
 | `śubham` | nominative neuter singular | wholesome karma |
 | `ca eva` | particles | and indeed |
 | `yathākramam` | adverb | respectively; in the stated order |
@@ -96,7 +96,7 @@ yathā-kramam
 kṛṣṇam śuklam ubhayam [bhavati]
 ```
 
-> Unwholesome karma, wholesome form-domain karma, and wholesome desire-domain
+> Unwholesome karma, wholesome karma of the Form Realm, and wholesome karma of the Desire Realm
 > karma are respectively black, white, and both.
 
 `Yathākramam` controls the ordered distribution. “Both” is clarified by the
@@ -119,18 +119,18 @@ preceding productive karmic system.
 
 ### Literal Translation
 
-> Unwholesome karma, wholesome karma belonging to the form domain, and
-> wholesome karma belonging to the desire domain are respectively black,
+> Unwholesome karma, wholesome karma belonging to the Form Realm, and
+> wholesome karma belonging to the Desire Realm are respectively black,
 > white, and both. Karma without influxes is for the exhaustion of those.
 
 ### Bhāṣya-informed study translation
 
-> Unwholesome karma is black and has undesirable black maturation. Wholesome
-> form-domain karma is white and has desirable white maturation. Wholesome
-> desire-domain karma is called black-and-white with respect to the continuum,
+> Unwholesome karma is black and has unpleasant black maturation. Wholesome
+> karma of the Form Realm is white and has pleasant white maturation. Wholesome
+> karma of the Desire Realm is called black-and-white with respect to the continuum,
 > where wholesome and unwholesome karmas and their results are interspersed;
 > no single karma is intrinsically both. Karma without influxes is neither
-> black nor white in this classification, produces no ordinary maturation, and
+> black nor white in this classification, produces no maturation, and
 > conduces to the exhaustion of the preceding three karmic classes.
 
 The continuum-relative account of mixture, qualification of “not white,” and
@@ -168,7 +168,7 @@ predicates.
 **White karma**
 
 ```text
-form-domain wholesome karma
+Form-Realm wholesome karma
     → not interspersed with unwholesome karma there
     → white
 
@@ -176,11 +176,11 @@ desirable maturation
     → white maturation
 ```
 
-**Why formless-domain karma is omitted**
+**Why Formless-Realm karma is omitted**
 
 The omission follows the scope of the particular sūtra formulation, which
 presupposes intermediate and rebirth existence together with bodily, verbal,
-and mental karma. Vasubandhu notes that wholesome formless-domain karma is
+and mental karma. Vasubandhu notes that wholesome Formless-Realm karma is
 included in another sūtra. Its omission here is not an ontological denial.
 
 **Black-and-white karma**
@@ -196,14 +196,14 @@ na svabhāvataḥ
 ```
 
 Black and white are mutually opposed. One karma cannot intrinsically possess
-both characters, but one desire-domain continuum can contain interspersed
+both characters, but one Desire-Realm continuum can contain interspersed
 wholesome and unwholesome karmas.
 
 **Asymmetry of mixture**
 
 The Bhāṣya does not call unwholesome karma mixed merely because wholesome
 karma can occur in the same continuum. Unwholesome karma is strong in the
-desire domain, whereas weaker wholesome karma is characteristically
+Desire Realm, whereas weaker wholesome karma is characteristically
 interspersed with it.
 
 **Neither black nor white**
@@ -339,9 +339,9 @@ Class: WhiteKarma
 Class: BlackWhiteContinuumKarma
 Class: NeitherBlackNorWhiteKarma
 Class: UnwholesomeKarma
-Class: FormDomainWholesomeKarma
-Class: DesireDomainWholesomeKarma
-Class: FormlessDomainWholesomeKarma
+Class: FormRealmWholesomeKarma
+Class: DesireRealmWholesomeKarma
+Class: FormlessRealmWholesomeKarma
 Class: KarmaWithoutInfluxes
 Class: Maturation
 Class: DesirableMaturation
@@ -366,11 +366,11 @@ Rule: UnwholesomeKarmaIsBlack
     UnwholesomeKarma(?k)
     -> BlackKarma(?k)
 
-Rule: FormDomainWholesomeKarmaIsWhite
-    FormDomainWholesomeKarma(?k)
+Rule: FormRealmWholesomeKarmaIsWhite
+    FormRealmWholesomeKarma(?k)
     -> WhiteKarma(?k)
 
-Rule: DesireDomainContinuumCanBeMixed
+Rule: DesireRealmContinuumCanBeMixed
     Continuum(?c)
     and containsKarma(?c, ?b)
     and BlackKarma(?b)
@@ -395,7 +395,7 @@ Constraint: NeitherBlackNorWhiteIsNotInactivity
     is determinate exhaustive activity
 
 Constraint: FormlessOmissionIsSutraScoped
-    omission of FormlessDomainWholesomeKarma
+    omission of FormlessRealmWholesomeKarma
     from this verse does not deny its whiteness in every classification
 ```
 

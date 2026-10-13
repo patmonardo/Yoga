@@ -1,4 +1,4 @@
-# VAK_4.56 — Five Exceptional Fields
+# VAK_4.56 — Exceptional Field: Saṅgha and Five Emergent States
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -22,7 +22,8 @@ teṣu kāra-apakārasya phalam sadyaḥ anubhūyate //
 ```
 
 The repeated force of `utthita`, “emerged,” applies to all five states. The
-Bhāṣya emphasizes the freshly transformed condition of the continuum.
+Bhāṣya also names the Bhikṣu Saṅgha headed by the Buddha as an exceptional
+field before discussing these five individual cases.
 
 ## 3. Lexical Analysis
 
@@ -65,14 +66,15 @@ persons just emerged from a powerful attainment or path-event.
 
 **`kāra / apakāra`**
 
-Benefit and injury express opposite ethical relations to the same exceptional
-field. The polarity changes the quality of the fruit; the field accelerates
-its maturation.
+Benefit and injury express opposite relations to the same exceptional field.
+The Bhāṣya says that the result of either is certain within the present life;
+it does not specify an exact interval after the act.
 
 **`sadyaḥ`**
 
-“Immediately” means that the result is necessarily experienced in the present
-life, with exceptional temporal proximity emphasized by the passage.
+The verse says “at once”; the Bhāṣya's concluding prose specifies that the
+result is certainly obtained in the present life, without establishing an
+exact interval after the act.
 
 ## 4. Grammar
 
@@ -118,28 +120,29 @@ which the action is performed.
 
 ### Bhāṣya-informed study translation
 
-> Benefit or injury directed toward someone freshly emerged from cessation
-> attainment, non-contention, loving-kindness, the Path of Seeing, or the fruit
-> of arhatship necessarily bears fruit in the present life. In each case the
-> recipient's continuum has just been exceptionally calmed, benevolently
-> oriented, or purified; that freshly transformed condition makes it an
-> especially powerful karmic field.
+> The Bhāṣya also names the Bhikṣu Saṅgha headed by the Buddha as a field. The
+> result of benefit or injury directed toward someone freshly emerged from
+> cessation attainment, non-contention, loving-kindness, the Path of Seeing, or
+> the fruit of arhatship is certainly experienced in this life. The recipient
+> is described as newly peaceful, benevolently oriented, or purified. The verse
+> says `sadyaḥ` (“at once”), while the prose specifies present-life certainty
+> without fixing an exact interval.
 
 The emphasis on freshness, the state of each continuum, and the present-life
 necessity of the result are supplied by the Bhāṣya.
 
 ## 6. Philosophical Translation
 
-> The causal force of an action depends partly on the actuality of the field
-> into which it enters. A continuum freshly transformed by cessation,
-> immeasurable benevolence, seeing, or completed liberation is not a passive
-> recipient. Its achieved determination intensifies the relation itself, so
-> that benefit or injury directed toward it passes rapidly into experienced
-> result. Field-state therefore participates internally in the constitution of
-> karmic efficacy.
+> The causal force of an action depends partly on the state of its recipient
+> field. A continuum emerged from cessation, immeasurable benevolence, seeing,
+> or arhat-fruition is not treated as interchangeable with one in another
+> state. The Bhāṣya classifies benefit or injury directed toward these
+> recipients as certain to yield a result in the present life, without
+> assigning an exact clock-time interval. Field-state therefore participates
+> in the account of karmic efficacy.
 
-The same formal acceleration applies to benefit and injury while their ethical
-results remain opposed.
+The rule applies to both benefit and injury without erasing their ethical
+distinction.
 
 ## 7. Technical Vocabulary
 
@@ -196,7 +199,7 @@ Then:
 ```text
 ACTION(agent, recipient)
     + EXCEPTIONAL_FIELD(recipient)
-    → IMMEDIATE_PRESENT_FRUIT(action)
+    → RESULT_CERTAIN_IN_PRESENT_LIFE(action)
 ```
 
 **Status alone is insufficient to explain the rule**
@@ -211,24 +214,25 @@ freshly actualized continuum-state
 
 The timing relative to the attainment is doctrinally significant.
 
-**Ethical polarity and temporal acceleration**
+**Benefit and injury retain their distinction**
 
 ```text
 benefit toward exceptional field
-    → immediate favorable fruit
+    → result certain in present life
 
 injury toward exceptional field
-    → immediate unfavorable fruit
+    → result certain in present life
 ```
 
-Field-power accelerates both without neutralizing their opposition.
+The source establishes present-life certainty for both; it does not specify an
+exact interval or collapse their ethical difference.
 
 **Continuation of sufficient-ground analysis**
 
 ```text
 freshly transformed field
     is sufficient ground
-    for immediate maturation
+    for a result certain in the present life
 ```
 
 This specifies one of the field-based grounds introduced in VAK 4.54–4.55.
@@ -294,7 +298,7 @@ Class: ArhatFruitEmergent
 Class: Benefit
 Class: Injury
 Class: Action
-Class: ImmediatePresentFruit
+Class: PresentLifeResult
 Class: Attainment
 Class: PathEvent
 Class: BasisTransformation
@@ -320,11 +324,11 @@ Rule: FreshTransformationCreatesExceptionalField
     and FreshlyTransformedContinuum(?c)
     -> hasFieldStatus(?r, ExceptionalField)
 
-Rule: ActionTowardExceptionalFieldHasImmediateFruit
+Rule: ActionTowardExceptionalFieldHasPresentLifeResult
     Action(?a)
     and directedToward(?a, ?r)
     and hasFieldStatus(?r, ExceptionalField)
-    -> producesFruit(?a, ImmediatePresentFruit)
+    -> producesFruit(?a, PresentLifeResult)
 
 Constraint: FiveEmergentClasses
     CessationEmergent
@@ -335,9 +339,8 @@ Constraint: FiveEmergentClasses
     instantiate the stated exceptional fields
 
 Constraint: EthicalPolarityRemainsDistinct
-    Benefit produces favorable fruit
-    Injury produces unfavorable fruit
-    although both are accelerated by ExceptionalField
+    Benefit and Injury remain ethically distinct
+    although both have a result certain in the present life
 
 Constraint: AsrayaparivrttiRemainsLocal
     BasisTransformation here
@@ -345,4 +348,4 @@ Constraint: AsrayaparivrttiRemainsLocal
 ```
 
 The seed makes the recipient's freshly transformed continuum an internal
-condition of immediate karmic fruition.
+condition of a result certain in the present life.

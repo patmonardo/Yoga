@@ -7,10 +7,12 @@ prātimokṣadamas tyāgaḥ śikṣānikṣepaṇāc cyuteḥ /
 ubhayavyañjanotpatter mūlacchedān niśātyayāt // 4.38 //
 ```
 
-> Prātimokṣa discipline is lost through laying down the training,
-> death, the arising of both sexual characteristics, and severance
-> of the wholesome roots; the passing of the night also ends the
-> one-day observance.
+> Ordinary prātimokṣa restraint is lost in four ways: through formally laying
+> down the training, through death, through the simultaneous arising of both
+> sexual characteristics, or through severance of the wholesome roots.
+> Upavāsa restraint is lost through those same four causes and additionally
+> when the night ends and the duration projected by its undertaking is
+> complete.
 
 The running unit begins with the transition to abandonment at
 [222|18] and ends with the explanation of the five grounds at

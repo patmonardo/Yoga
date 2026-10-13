@@ -7,9 +7,12 @@ kuśalasyāvitarkasya karmaṇo vedanā matā /
 vipākaś caitasiky eva kāyiky evāśubhasya tu // 4.57 //
 ```
 
-> The feeling held to be the maturation of wholesome karma without
-> `vitarka` is exclusively mental; for unwholesome karma, it is
-> exclusively bodily.
+> For wholesome karma belonging to the non-discursive range—from the
+> intermediate dhyāna through the summit of existence—the feeling that
+> constitutes its maturation is exclusively mental, because bodily feeling
+> necessarily belongs to a vitarka-and-vicāra mode. For unwholesome karma, the
+> painful maturation-feeling is exclusively bodily, because mental painful
+> feeling is `daurmanasya`, and `daurmanasya` is not itself karmic maturation.
 
 This classifies *feeling as maturation*, not every feeling that may
 occur in the life of someone affected by such karma.

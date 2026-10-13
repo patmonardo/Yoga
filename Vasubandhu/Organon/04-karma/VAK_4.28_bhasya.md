@@ -7,10 +7,13 @@ kālyaṃ grāhyo 'nyato nīcaiḥ sthitenoktānuvāditā /
 upavāsaḥ samagrāṅgo nirbhūṣeṇāniśākṣayāt // 4.28 //
 ```
 
-> The upavāsa is to be received at the proper morning time, from
-> another, by one standing lower and repeating what has been said.
-> It is to be received with all its limbs, without exceptional
-> adornment, until the following sunrise.
+> Ordinarily, the upavāsa restraint is received at sunrise from another
+> person. The recipient assumes a deferential posture and repeats the formula
+> only after the giver has spoken it. The observance must be undertaken with
+> all eight limbs, without exceptional adornment that fosters vanity, and
+> maintained until the following sunrise. Habitual adornment is not excluded,
+> and one with a prior standing commitment to observe the eight may receive
+> the restraint even after eating.
 
 The running Bhāṣya unit begins with the procedural question at
 [213|12] and ends with the cited explanation of `poṣadha` at

@@ -4,19 +4,23 @@
 
 ```iast
 bhūmisaṃcārahānibhyāṃ dhyānāptaṃ tyajyate śubham /
-tathārūpyāptam āryaṃ tu phalāptyuttaptihānibhiḥ // 4.40 //
+tathārūpyāptam āryaṃ tu phalāptyutpattihānibhiḥ // 4.40 //
 ```
 
-> Wholesome dharmas acquired through dhyāna are relinquished
-> through a change of ground or falling away; likewise those of
-> the formless levels. Noble uncontaminated dharmas are relinquished
-> through attaining a fruit, strengthening the faculties, or
-> falling away.
+> Wholesome dharmas acquired through dhyāna are lost when the practitioner
+> passes to another ground or falls away from the attainment; wholesome
+> dharmas belonging to the formless attainments are lost in the same two ways.
+> Uncontaminated noble dharmas have three modes of relinquishment: attainment
+> of a fruit relinquishes the preceding Path, strengthening the faculties
+> relinquishes the Path associated with weaker faculties, and regression
+> relinquishes a higher Path or, where possible, a fruit or an attainment
+> distinguished by that fruit.
 
 The Kārikā witness reads `phalāptyutpattihānibhiḥ`, but the
-running Bhāṣya verse reads `phalāptyuttaptihānibhiḥ` and the
-prose explains this as `indriyottāpana`, strengthening of the
-faculties. The unit runs from [224|19] through the closing line
+running Bhāṣya verse reads `phalāptyuttaptihānibhiḥ`; its prose
+explains this as `indriyottāpana`, strengthening of the faculties.
+The anchor follows the Kārikā witness while retaining the Bhāṣya
+reading here. The unit runs from [224|19] through the closing line
 at [225|02] in `Vasubandhu/Sources/kosabhasya.txt`. The next
 verse turns to the loss of non-restraint at [225|03].
 

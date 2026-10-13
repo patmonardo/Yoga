@@ -7,9 +7,12 @@ mṛṣāvādaprasaṅgāc ca sarvaśikṣāvyatikrame /
 pratikṣepaṇasāvadyān madyād evānyaguptaye // 4.34 //
 ```
 
-> False speech [is singled out] because it can arise when any
-> training rule is transgressed. Intoxicants alone [are singled out
-> among acts] blameworthy by prohibition, to guard the other rules.
+> Abstention from false speech is singled out among the verbal rules because
+> violation of any training rule can create an occasion for lying when the
+> transgressor is questioned and tempted to deny the act. Among acts regarded
+> by the Ābhidharmikas as blameworthy because prohibited, abstention from
+> intoxicants is specifically included in lay restraint because intoxication
+> may leave all the other training limbs unguarded.
 
 The complete running unit begins at the question about false speech
 at [218|09–10] and ends with the explanation of intoxicants as a

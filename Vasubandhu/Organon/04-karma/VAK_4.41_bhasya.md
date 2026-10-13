@@ -7,10 +7,14 @@ asaṃvaraḥ saṃvarāptimṛtyudvivyañjanodayaiḥ /
 vegādānakriyārthāyurmūlacchedais tu madhyamā // 4.41 //
 ```
 
-> Non-restraint ends through acquiring restraint, death, or the
-> arising of both sexual characteristics. Intermediate avijñapti
-> ends when its force, undertaking, activity, project-object,
-> lifespan, or wholesome root is cut off.
+> Established non-restraint is cut off when a stronger contrary restraint is
+> acquired, when the bearer dies, or when the qualifying bodily support is
+> disrupted by the arising of both sexual characteristics. Avijñapti that is
+> neither complete restraint nor complete non-restraint ceases in six ways:
+> when its projected force is exhausted, its undertaking is relinquished, its
+> activity is discontinued, the enduring realization of its Idea is
+> destroyed, its bearer’s life ends, or its supporting wholesome roots are
+> severed.
 
 The natural unit starts at [225|03] and ends at [225|20–21] in
 `Vasubandhu/Sources/kosabhasya.txt`. The next verse begins with
@@ -94,8 +98,9 @@ ends, like the motion of a potter's wheel [or an arrow] when
 its impulse is spent. It also ends when the undertaking is
 relinquished—“Enough of this undertaking”—or when the action
 stops, as when one no longer does what one undertook. It ends
-when its `artha` is cut off: the enduring object involved, such
-as a shrine, park, monastery, bed or seat, mechanism, or net.
+when its `artha` is cut off: when the associated undertaking or
+its concrete basis, such as a shrine, park, monastery, bed or seat,
+mechanism, or net, ceases to sustain the practical determination.
 It ends when the person's life ends or when the severance of
 wholesome roots begins. These are the six causes for abandoning
 intermediate avijñapti.
@@ -129,7 +134,7 @@ a continuing practical determination can lose support:
 | Force (`vega`) | The projected momentum of confidence or affliction ends |
 | Undertaking (`ādāna`) | One relinquishes the adopted practice |
 | Activity (`kriyā`) | One stops doing what was undertaken |
-| Purpose-object (`artha`) | The enduring `vastu` through which the deed operates ends |
+| Purpose (`artha`) | The associated undertaking or its concrete `vastu` ceases to sustain the practical determination |
 | Lifespan (`āyus`) | The bearer's life ends |
 | Wholesome root (`mūla`) | Its severance begins |
 

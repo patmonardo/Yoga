@@ -7,8 +7,13 @@ svabhāvasaṃprayogābhyām ālambanavipākataḥ /
 saṃmukhībhāvataś ceti pañcadhā vedanīyatā // 4.49 //
 ```
 
-> Being experienced is fivefold: through own nature, association,
-> an object, maturation, and present manifestation.
+> Something may be called “to be experienced” on five different grounds:
+> feeling by its own nature; contact through association with feeling; an
+> object through serving as feeling's cognitive support; karma through the
+> maturation it produces; and a feeling through its present manifestation.
+> Karma is therefore called pleasant-, painful-, or neutral-to-be-experienced
+> not because it is itself feeling, but because its maturation is characterized
+> by that feeling.
 
 The preceding question about why karma is called `vedanīya` belongs
 to 4.48. Here `api ca` at [229|07] opens a further analysis, running

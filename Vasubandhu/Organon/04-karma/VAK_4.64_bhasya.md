@@ -7,11 +7,11 @@ aśaikṣaṃ kāyavākkarma manaś caiva yathākramam /
 maunatrayaṃ tridhā śaucaṃ sarvaṃ sucaritatrayam // 4.64 //
 ```
 
-> The bodily and verbal actions, and the mind, of one beyond
+> The bodily and verbal actions, and the Mind, of one beyond
 > training are respectively the three silences. Threefold purity
 > is the whole threefold range of good conduct.
 
-The Kārikā names **mind**, not “mental karma,” as the third silence;
+The Kārikā names **Mind**, not “mental karma,” as the third silence;
 the Bhāṣya makes that distinction explicit. The official Kārikā
 records `sarvaṃ` as a normalization of the base witness's `sarva`.
 
@@ -59,26 +59,26 @@ witness before a critical edition. Line breaks, punctuation, and
 verse numbering are editorial. The sentence on three bad conducts
 at [237|13] starts 4.65.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Scientific English Rendering
 
 A sūtra states that there are three silences: bodily, verbal, and
 mental silence. In this connection: “The bodily and verbal actions,
-and the mind, of one beyond training are respectively the three
+and the Mind, of one beyond training are respectively the three
 silences.” The bodily and verbal actions of one beyond training are
-bodily and verbal silence. But mental silence is the very mind of
-one beyond training, **not mental karma**. Why? For mind is the sage
-in the highest sense. It, the text says, is inferred from bodily
+bodily and verbal silence. But mental silence is the very Mind of
+one beyond training, **not mental karma**. Why? For consciousness is the sage
+in the highest sense. Consciousness, the text says, is inferred from bodily
 and verbal actions.
 
 Moreover, bodily and verbal actions may be abstentions by nature;
 mental karma is not such an abstention, since there is no mental
-`vijñapti`. “Silence” is understood as refraining. Thus the mind
+`vijñapti`. “Silence” is understood as refraining. Thus the Mind
 itself, when restrained, is called silence. Why only that of one
 beyond training? Because the arhat is a sage in the highest sense:
 all the chatter of afflictions has ceased.
 
 The sūtra also speaks of three purities: purity of body, speech,
-and mind. This is the meaning of “Threefold purity is the whole
+and Mind. This is the meaning of “Threefold purity is the whole
 threefold range of good conduct.” All good bodily conduct is bodily
 purity; all good verbal and mental conduct is verbal and mental
 purity, respectively. Such conduct removes the stain of bad conduct,
@@ -89,7 +89,7 @@ those who adhere to false notions of silence and purity.
 
 The first two members of `maunatraya` are bodily and verbal
 **karma**. The third is `manaḥ` itself. Vasubandhu supplies two
-reasons. First, mind is the `paramārthamuni`, inferred by another
+reasons. First, consciousness is the `paramārthamuni`, inferred by another
 from bodily and verbal actions. Second, bodily and verbal karma can
 be abstention by nature, whereas mental karma is not classified in
 the same way: there is no mental `vijñapti`. The passage's claim
@@ -112,14 +112,14 @@ three silences of one beyond training. The final sentence gives the
 teaching a discriminative purpose: to sort genuine silence and
 purity from mistaken understandings of them.
 
-## 6. Organon Contact Point
+## 6. Interpretation
 
-Our practical account can distinguish inward restraint, outward
-bodily and verbal action, and the inference from those actions back
-to a state of mind. The Bhāṣya itself marks these as different
-relations. A project reconstruction should preserve the distinction
-between mind and mental karma before drawing a broader theory of
-agency from it.
+The verse distinguishes Mind itself as the third silence from bodily
+and verbal karma. The Bhāṣya also says consciousness is the sage in
+the highest sense and is inferred from bodily and verbal actions.
+The Techne preserves Mind (*manas*) and consciousness (*citta*) as
+distinct determinations, and relates inward restraint to outward
+action without treating the latter as a substitute for the former.
 
 ## 7. Review Status
 

@@ -134,7 +134,8 @@ nṛṇām trayaḥ [saṃvarāḥ santi]
 > Among humans are the three restraints.
 
 The Bhāṣya makes this distribution explicit. The phrase should not be joined
-with `devānām` so as to attribute all three indiscriminately to both domains.
+with `devānām` so as to attribute all three indiscriminately to both modes of
+existence.
 
 ## 5. Translation
 

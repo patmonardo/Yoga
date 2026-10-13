@@ -22,7 +22,7 @@ navame cetanā yā sā kṛṣṇa-śukla-kṣayāya ca /
 ```
 
 The Bhāṣya distinguishes intrinsic destruction from abandonment through the
-elimination of afflictions that take wholesome karma as their object-support.
+elimination of afflictions that take wholesome karma as their object.
 
 ## 3. Lexical Analysis
 
@@ -56,7 +56,7 @@ antya-ānantarya-mārga-jā
 
 **`navama`**
 
-This is the ninth and final uninterrupted path of desire-domain detachment. It
+This is the ninth and final uninterrupted path of detachment from the Desire Realm. It
 completes what the first eight paths began in VAK 4.61.
 
 **`antyānantaryamārgajā`**
@@ -71,7 +71,7 @@ what kind of abandonment applies to wholesome karma.
 
 ## 4. Grammar
 
-**The ninth desire-domain path**
+**The ninth Desire-Realm path**
 
 ```text
 navame [kāma-vairāgya-ānantarya-mārge]
@@ -110,13 +110,12 @@ of the four dhyānas.
 
 ### Bhāṣya-informed study translation
 
-> The volition in the ninth uninterrupted path of desire-domain detachment
-> abandons black-and-white wholesome karma together with the ninth and final
-> type of black unwholesome karma. The volition arising in the final
-> uninterrupted path of detachment from each of the four dhyānas abandons
-> white karma. Wholesome karma is not destroyed in its intrinsic nature; its
-> abandonment consists in removing every remaining affliction that can take
-> it as an object-support.
+> The volition in the ninth uninterrupted path of detachment from the Desire
+> Realm abandons black-and-white wholesome karma and the ninth, final type of
+> black unwholesome karma. Volition in the final uninterrupted path for
+> detachment from each of the four dhyānas abandons white karma. Wholesome
+> karma is not destroyed in its intrinsic nature; its abandonment consists in
+> removing every remaining affliction that can take it as an object.
 
 The double target of the ninth path, fourfold dhyāna distribution, and
 relational account of wholesome abandonment are supplied by the Bhāṣya.
@@ -124,7 +123,7 @@ relational account of wholesome abandonment are supplied by the Bhāṣya.
 ## 6. Philosophical Translation
 
 > The Path negates unwholesome and wholesome karmic determinations in different
-> ways. The final desire-domain operation completes the abandonment of the last
+> ways. The final Desire-Realm operation completes the abandonment of the last
 > black type and the mixed wholesome field. White karma, however, is not
 > annihilated as positive content: the Path removes every afflictive relation
 > that can appropriate it as an object. Abandonment is complete when the final
@@ -136,18 +135,20 @@ intrinsic being.
 
 ## 7. Technical Vocabulary
 
-**Completion of desire-domain abandonment**
+**Completion of Desire-Realm abandonment**
 
 ```text
 first eight uninterrupted paths
-    → abandon first eight types of black karma
+    → target black karma (VAK 4.61)
 
 ninth uninterrupted path
-    → abandons ninth black type
-    → abandons desire-domain black-and-white wholesome karma
+    → abandons the ninth type of black unwholesome karma
+    → abandons Desire-Realm black-and-white wholesome karma
 ```
 
-The ninth path closes the complete desire-domain target-set.
+The Bhāṣya explicitly calls the black target the ninth type; it does not
+enumerate the first eight types here. The ninth path also closes the
+Desire-Realm target-set by abandoning its black-and-white wholesome karma.
 
 **Four volitions for white karma**
 
@@ -195,7 +196,7 @@ PATH_STAGE
     → MODE_OF_ABANDONMENT
 ```
 
-The ninth desire-domain path has two targets; each final dhyāna path targets
+The ninth Desire-Realm path has two targets; each final dhyāna path targets
 white karma belonging to that level.
 
 **Intrinsic and relational negation**
@@ -294,17 +295,17 @@ Class: WhiteKarma
 Class: WholesomeKarma
 Class: Volition
 Class: PathVolition
-Class: NinthDesireDetachmentPath
+Class: NinthDesireRealmDetachmentPath
 Class: FinalDhyanaDetachmentPath
 Class: Affliction
 Class: ObjectTakingAffliction
-Class: ObjectSupport
+Class: Object
 Class: IntrinsicDestruction
 Class: RelationalAbandonment
 
 ObjectProperty: occursInPathStage
 ObjectProperty: targetsForAbandonment
-ObjectProperty: takesAsObjectSupport
+ObjectProperty: takesAsObject
 ObjectProperty: eliminatesRelation
 ObjectProperty: mayBecomeManifest
 
@@ -315,9 +316,9 @@ WholesomeKarma SubClassOf Karma
 PathVolition SubClassOf Volition
 ObjectTakingAffliction SubClassOf Affliction
 
-Rule: NinthPathCompletesDesireDomainAbandonment
+Rule: NinthPathCompletesDesireRealmAbandonment
     PathVolition(?c)
-    and occursInPathStage(?c, NinthDesireDetachmentPath)
+    and occursInPathStage(?c, NinthDesireRealmDetachmentPath)
     -> targetsForAbandonment(?c, BlackKarma)
     and targetsForAbandonment(?c, BlackWhiteKarma)
 
@@ -326,10 +327,11 @@ Rule: FinalDhyanaPathsAbandonWhiteKarma
     and occursInPathStage(?c, FinalDhyanaDetachmentPath)
     -> targetsForAbandonment(?c, WhiteKarma)
 
-Rule: WholesomeAbandonmentEliminatesObjectTakingAfflictions
-    WholesomeKarma(?k)
+Rule: FinalDhyanaAbandonmentEliminatesObjectTakingAfflictions
+    WhiteKarma(?k)
+    and occursInPathStage(?c, FinalDhyanaDetachmentPath)
     and ObjectTakingAffliction(?a)
-    and takesAsObjectSupport(?a, ?k)
+    and takesAsObject(?a, ?k)
     and PathVolition(?c)
     -> eliminatesRelation(?c, ?a)
 

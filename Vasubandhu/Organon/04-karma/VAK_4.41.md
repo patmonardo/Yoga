@@ -23,7 +23,7 @@ vega-ādāna-kriyā-artha-āyus-mūla-cchedaiḥ tu madhyamā //
 
 The second compound names six causes of loss. Here `artha` is the Idea as a
 purposive determination realized in an enduring `vastu`, not merely an external
-object and not an abstract meaning detached from practical realization.
+thing and not an abstract meaning detached from practical realization.
 
 ## 3. Lexical Analysis
 

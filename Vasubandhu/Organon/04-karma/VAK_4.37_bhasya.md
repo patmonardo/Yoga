@@ -7,9 +7,12 @@ asaṃvarasya kriyayā lābho 'bhyupagamena vā /
 śeṣāvijñaptilābhas tu kṣetrādānādarehanāt // 4.37 //
 ```
 
-> Non-restraint is acquired through action or through adopting it.
-> The remaining avijñapti arises through a qualified field,
-> undertaking, or earnest pursuit of an action.
+> Non-restraint is acquired either by performing the harmful occupational
+> activity or by deliberately adopting that livelihood as one’s own. Other
+> avijñapti—neither complete restraint nor complete non-restraint—arises
+> through relation to a specially efficacious field, through taking up a
+> continuing practice, or through pursuing a wholesome or unwholesome action
+> with sufficient earnestness and effort.
 
 The complete unit runs from [222|08] through [222|16–17] in
 `Vasubandhu/Sources/kosabhasya.txt`. The announcement of the

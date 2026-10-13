@@ -4,12 +4,14 @@
 
 ```iast
 kāmadhātau śubhaṃ karma puṇyam āneñjam ūrdhvajam /
-tadbhūmiṣu yataḥ karma vipākaṃ prati neñjati // 4.46 //
+tadbhūmiṣu yataḥ karmavipākaṃ prati neñjati // 4.46 //
 ```
 
-> Wholesome karma in the desire domain is meritorious; wholesome karma
-> produced above is immovable, because it does not shift from those
-> levels with respect to maturation.
+> Wholesome karma belonging to the Desire Realm is called meritorious, while
+> wholesome karma belonging to the Form and Formless Realms is called
+> immovable. It is immovable specifically with respect to maturation: karma
+> produced for one of those higher levels cannot mature in another level.
+> Unwholesome karma is what ordinary usage calls demeritorious.
 
 The Bhāṣya unit begins with `tatra tāvat` at [227|13] and ends at
 `sa eṣa kriyate` at [228|03]. The next kārikā begins at [228|04].
@@ -62,9 +64,9 @@ repaired. Its spellings of the immovable term also vary locally
 
 ## 3. Continuous Conventional Translation
 
-First, then: “Wholesome karma in the desire domain is meritorious;
+First, then: “Wholesome karma in the Desire Realm is meritorious;
 what is produced above is immovable.” The word “wholesome” carries
-forward. Wholesome karma belonging to the form and formless domains
+forward. Wholesome karma belonging to the Form and Formless Realms
 is immovable.
 
 But has the Blessed One not called the three meditative absorptions
@@ -77,7 +79,7 @@ immovable. Why, then, is what is called moved in one place called
 immovable elsewhere?
 
 “Because karma does not shift from those levels with respect to
-maturation.” Desire-domain karma does move with respect to
+maturation.” Desire-Realm karma does move with respect to
 maturation. How? Because its placement is not fixed. Karma associated
 with one destiny can ripen in another; karma associated with one
 class of gods can ripen in another divine class. The same karma
@@ -88,7 +90,7 @@ animals, or pretas. The compact Sanskrit for this list and its
 qualification by `anyabhūmika` are uncertain in the running
 e-text.
 
-Karma belonging to the form and formless domains, however, is never
+Karma belonging to the Form and Formless Realms, however, is never
 able to ripen in a level other than its own. It is therefore called
 immovable because its maturation has a fixed placement. As for
 demeritorious karma, it is commonly known in the world to be
@@ -122,16 +124,16 @@ classification is:
 
 | Class | Determination in this unit |
 |---|---|
-| `puṇya` | Wholesome karma of the desire domain |
+| `puṇya` | Wholesome karma of the Desire Realm |
 | `apuṇya` | Unwholesome karma, treated as familiar usage |
-| `āneñja` | Wholesome karma of the form and formless domains, fixed as to its maturation level |
+| `āneñja` | Wholesome karma of the Form and Formless Realms, fixed as to its maturation level |
 
-`Avyavasthāna` explains the comparative mobility of desire-domain
+`Avyavasthāna` explains the comparative mobility of Desire-Realm
 results; `anyapratyayavaśāt` preserves the role of other conditions.
 `Vyavasthitavipākatva` is the positive ground for calling higher
 karma immovable. The contrast concerns the **level of maturation**,
-not a claim that desire-domain karma produces arbitrary results or
-that higher-domain karma has ceased to be conditioned.
+not a claim that Desire-Realm karma produces arbitrary results or
+that higher-realm karma has ceased to be conditioned.
 
 The last two sentences make the section boundary explicit: the
 `puṇya` triad is finished, and the three classes of felt result

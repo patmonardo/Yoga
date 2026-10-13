@@ -84,7 +84,7 @@ mindless condition.
 The three bearer relations are stated with `anvita` in the Kārikā and
 `samanvāgata` in the prose:
 
-| Restraint | Bearer identified here |
+| Restraint | Bearer |
 |---|---|
 | prātimokṣa | the eight disciplinary classes of 4.14 |
 | meditation born | one endowed with meditation, including the neighboring attainment by extended usage |

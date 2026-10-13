@@ -126,7 +126,7 @@ to karma are supplied by the Bhāṣya.
 ## 6. Philosophical Translation
 
 > One predicate can be valid through several irreducibly different mediations.
-> To say that something “is experienced” may express identity, association,
+> To say that something “is experienced” may express own-nature, association,
 > object-relation, causal production, or present actuality. The surface copula
 > does not reveal which relation grounds the assertion. In the karmic case,
 > the predicate returns from the matured result to its cause: karma is called
@@ -163,6 +163,8 @@ viṣaya
 ```
 
 The object is what feeling takes up, not feeling's intrinsic nature.
+The antecedent of feminine `tām` in the e-text is uncertain; the translation
+does not assign it a more specific referent.
 
 **4. `vipākavedanīyatā`**
 
@@ -230,16 +232,6 @@ karma is pleasant feeling
 
 The predicate is transferred through maturation, not through identity.
 
-**Possession and manifestation remain distinct**
-
-```text
-possesses feeling-determination
-    ≠ presently manifests feeling
-```
-
-The fifth mode concerns present actuality specifically. It does not erase the
-possession relation developed in VAK 4.44.
-
 **Five relations, not five lexical accidents**
 
 The polysemy is controlled by a systematic relation in each case. The word is
@@ -263,20 +255,12 @@ causal result, or present manifestation
 The task is not to reject predication but to recover the mediation that makes
 it true.
 
-**Application of Dhātu and Indriya**
+**Source terms and project architecture**
 
-```text
-karma
-    arises and matures within a determinate field
-
-feeling-faculty
-    receives the experiential determination
-
-vipākavedanīyatā
-    joins causal action to experienced result
-```
-
-The relation connects the levels without identifying them.
+The source grounds these designations in `svabhāva`, `saṃprayoga`,
+`ālambana`, `vipāka`, and `saṃmukhībhāva`. It does not invoke Dhātu or a
+feeling-Faculty; those terms should not be inserted into its conventional
+analysis.
 
 **Object in ordinary usage**
 

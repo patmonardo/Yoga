@@ -56,7 +56,7 @@ the preceding explanation. Line breaks, punctuation, and verse
 numbering are editorial. A new inquiry into the constitution of
 the courses begins at [238|13].
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Scientific English Rendering
 
 “Good conduct is the converse.” It comprises desirable, wholesome
 bodily, verbal, and mental karma, together with non-covetousness,
@@ -111,7 +111,7 @@ of **roots** from which such conduct can arise. This preserves
 the distinction in 4.65 between a mental condition and karma
 strictly understood as volition.
 
-## 5. Organon Contact Point
+## 5. Interpretation
 
 For our Rational Moral Agent, this supplies a disciplined way to
 form a practical classification: begin with the full range of
@@ -126,5 +126,7 @@ sūtra-based teaching.
 
 The complete unit [237|23]–[238|12] is translated. Witness
 irregularities, particularly the verbal example, are marked for
-a later philological check. Research and running-source files
-are unchanged.
+a later philological check. This completes the definitional
+sequence at the level of selection; the next inquiry into the
+constitution of the ten courses begins at [238|13]. Research and
+running-source files are unchanged.

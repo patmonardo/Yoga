@@ -7,10 +7,13 @@ samāhītāryamārgasthau tau yuktau vartamānayā /
 madhyasthasyāsti ced ādau madhyayā ūrdhvaṃ dvikālayā // 4.21 //
 ```
 
-> The one in concentration and the one established in the noble Path
-> are respectively endowed with present [avijñapti]. If one standing
-> in neither restraint nor non-restraint has avijñapti, at first it is
-> possessed as present; afterward it is possessed as past and present.
+> The practitioner actually entered into concentration and the practitioner
+> actually entered into the noble Path are respectively endowed with present
+> meditation-born and uncontaminated avijñapti; they are not so endowed as
+> present when they have emerged from those states. If a person established in
+> neither restraint nor non-restraint possesses an occasional avijñapti, it is
+> possessed only as present in its first moment and as both past and present
+> thereafter, so long as it has not been abandoned.
 
 The running commentary unit begins with the first half-verse at
 [210|01] and ends at [210|11] in `Vasubandhu/Sources/kosabhasya.txt`.

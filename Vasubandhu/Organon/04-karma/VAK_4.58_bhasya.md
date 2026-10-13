@@ -7,9 +7,15 @@ cittakṣepo manaścitte sa ca karmavipākajaḥ /
 bhayopaghātavaiṣamyaśokaiś cākurukāminām // 4.58 //
 ```
 
-> Disturbance of mind occurs in mental consciousness. It arises from
-> karmic maturation, and also from fear, injury, imbalance, or grief,
-> among those without compassion in the desire realm.
+> Mental derangement occurs in `manovijñāna`, not in the five non-conceptual
+> sensory knowledge-series. It can arise downstream from karmic maturation:
+> the direct maturation disturbs the bodily or elemental constitution, and the
+> resulting disequilibrium disorders mental cognition and recollection. It may
+> also arise through fear, physical injury, bodily imbalance, or grief. The
+> Bhāṣya parses the population phrase as `akuruṇāṃ kāminām` (“those without
+> compassion in the Desire Realm”); a competing division of `akurukāminām` is
+> `a-kuru-kāminām` (“Desire-Realm beings outside the Kurus”). The intended
+> division and population range remain uncertain.
 
 The last phrase follows the Bhāṣya's own expansion of the compressed
 `akurukāminām`; its exact word division deserves further review.
@@ -115,7 +121,7 @@ simply interchangeable.
 
 Whose minds are disturbed? “Those without compassion in the desire
 realm.” The prose expands this as those without compassion who are
-in the desire realm. Such disturbance occurs even among gods, and
+in the Desire Realm. Such disturbance occurs even among gods, and
 all the more among humans, animals, and hungry ghosts. Hell beings,
 the text says, are constantly disturbed: assaulted by intense pains,
 they scarcely attend even to themselves, let alone to what should

@@ -140,12 +140,13 @@ is sufficient; both need not be killed.
 
 ### Bhāṣya-informed study translation
 
-> Karma becomes necessarily maturing when it is produced through exceptionally
-> intense affliction, exceptionally intense confidence, or sustained repetition.
-> Wholesome or unwholesome karma directed toward a field of qualities—the Three
-> Jewels or a person distinguished by spiritual fruit or meditative
-> attainment—can become determinate even without such intensity or continuity.
-> Killing either one's mother or one's father is likewise determinate karma.
+> Karma is determinate when performed through intense affliction, intense
+> confidence, or continuity of performance. Wholesome or unwholesome karma
+> performed in a field of qualities—the Three Jewels or a person distinguished
+> by a particular fruit or meditative attainment—can become determinate even
+> without intense affliction or confidence or continuity. Killing either
+> parent is likewise determinate, however it is performed; other acts involving
+> one's parents are not included.
 
 The expansion of the opening compound, definition and independent force of
 `guṇakṣetra`, and exact scope of `pitroḥ` are supplied by the Bhāṣya.
@@ -190,13 +191,12 @@ equivalent.
 **Continuity**
 
 ```text
-repeated or sustained performance
-    → reinforcement of causal disposition
+continuity of performance
     → determinate karma
 ```
 
-Fixity can arise through persistence even when no single occurrence has
-extreme intensity.
+The Bhāṣya identifies continuity as an independent ground but does not specify
+its temporal measure or a habit-building mechanism.
 
 **Field of qualities**
 
@@ -251,7 +251,7 @@ These are not presented as jointly necessary conditions.
 | Field-side | exceptional recipient-field |
 | Relation-side | killing a parent |
 
-**Genesis of modal necessity**
+**Conditions of determinacy**
 
 VAK 4.50 stated the modal difference:
 
@@ -259,12 +259,15 @@ VAK 4.50 stated the modal difference:
 determinate / indeterminate karma
 ```
 
-VAK 4.54 now gives genetic conditions:
+VAK 4.54 now gives conditions:
 
 ```text
-causal configuration acquires exceptional force
-    → maturation becomes necessary
+specified causal conditions
+    → karma becomes determinate
 ```
+
+Here `niyata` fixes whether maturation is assured, not when it occurs; compare
+the distinction between maturation-certainty and maturation-time in VAK 4.50.
 
 **Kleśa and karma remain distinct**
 
@@ -298,12 +301,12 @@ karma
 
 Externally similar acts can therefore acquire radically different modal force.
 
-**Repetition transforms possibility into trajectory**
+**Continuity as a causal condition**
 
-Continuity is especially important for discipline. Repeated performance does
-not merely add identical acts numerically; it reinforces the continuum from
-which further action arises. A defeasible tendency can become a determinate
-trajectory.
+The Bhāṣya lists `sātatya` alongside intensity and the qualified field as an
+independent ground of determinacy. Its precise temporal extent is not specified
+here, so continuity should not be expanded into a particular habit-forming
+mechanism without further evidence.
 
 **The field is causally active within the relation**
 

@@ -24,6 +24,10 @@ vipākaḥ caitasikī eva kāyikī eva aśubhasya tu //
 The Bhāṣya fixes the `avitarka` range here as extending from intermediate
 dhyāna through the summit of existence.
 
+The running source reads `kukśalasyāvitarkasya` at [233|07]. This study prints
+`kuśalasya`, supported by the Kārikā and the Bhāṣya's own explanation; the
+witness variant is retained in the Bhāṣya study.
+
 ## 3. Lexical Analysis
 
 ```text

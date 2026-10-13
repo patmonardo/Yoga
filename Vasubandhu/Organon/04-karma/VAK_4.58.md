@@ -54,7 +54,7 @@ a-kuru-kāminām
 | `vaiṣamya` | compound member | disequilibrium or bodily imbalance |
 | `śokaiḥ` | instrumental masculine plural | through grief |
 | `ca` | conjunction | and; also |
-| `akurukāminām` | genitive masculine plural compound | among desire-domain beings other than the Kurus |
+| `akurukāminām` | genitive masculine plural; division disputed | see the competing Kārikā and Bhāṣya readings below |
 
 **`cittakṣepa`**
 
@@ -71,6 +71,14 @@ sensory knowledge-series are excluded because they are `avikalpaka`.
 
 “Born from maturation” expresses mediate causal origin. It does not state that
 the manifest derangement is itself the immediate maturation.
+
+**`akurukāminām`: population phrase**
+
+The Kārikā's compound admits the division `a-kuru-kāminām` (“among
+Desire-Realm beings outside the Kurus”). The Bhāṣya instead gives
+`akuruṇāṃ kāminām` (“among those without compassion in the Desire Realm”).
+The running witness preserves the compressed form, so the intended division
+and population range remain uncertain.
 
 ## 4. Grammar
 
@@ -105,8 +113,8 @@ bhaya-upaghāta-vaiṣamya-śokaiḥ ca
 a-kuru-kāminām
 ```
 
-> It also occurs through fear, injury, bodily imbalance, and grief among
-> desire-domain beings other than the Kurus.
+> It also occurs through fear, injury, bodily imbalance, and grief among the
+> beings designated by `akurukāminām`; the population phrase is disputed.
 
 The instrumental compound supplies proximate causes; the genitive gives the
 range of beings in the text's cosmology.
@@ -117,7 +125,7 @@ range of beings in the text's cosmology.
 
 > Mental derangement occurs in mental cognition. It may be born from karmic
 > maturation and may also arise through fear, injury, bodily imbalance, or
-> grief among desire-domain beings other than the Kurus.
+> grief among those designated by the disputed `akurukāminām`.
 
 ### Bhāṣya-informed study translation
 
@@ -125,9 +133,11 @@ range of beings in the text's cosmology.
 > sensory knowledge-series. It can arise downstream from karmic maturation:
 > the direct maturation disturbs the bodily or elemental constitution, and the
 > resulting disequilibrium disorders mental cognition and recollection. It may
-> also arise through the proximate conditions of fear, physical injury, bodily
-> imbalance, or grief. According to the text, its range includes desire-domain
-> beings other than the Kurus.
+> also arise through fear, physical injury, bodily imbalance, or grief. The
+> Bhāṣya parses the population phrase as `akuruṇāṃ kāminām` (“those without
+> compassion in the Desire Realm”); a competing division of `akurukāminām` is
+> `a-kuru-kāminām` (“Desire-Realm beings outside the Kurus”). The intended
+> division and population range remain uncertain.
 
 The exclusion of the sensory series and the mediate bodily causal sequence are
 supplied by the Bhāṣya.

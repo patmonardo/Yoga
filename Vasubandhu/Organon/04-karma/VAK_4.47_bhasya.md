@@ -7,9 +7,12 @@ sukhavedyaṃ śubhaṃ dhyānād ā tṛtīyād ataḥ param /
 aduḥkhāsukhavedyaṃ tu duḥkhavedyam ihāśubham // 4.47 //
 ```
 
-> Wholesome karma through the third absorption is to be experienced
-> pleasantly; above it, as neither painful nor pleasant. Here,
-> unwholesome karma is to be experienced painfully.
+> Wholesome karma belonging to the Desire Realm and the first three dhyānas
+> matures with pleasant feeling. Above the third dhyāna, wholesome karma
+> matures with feeling that is neither painful nor pleasant. Here in the
+> Desire Realm, unwholesome karma matures with painful feeling. These names
+> characterize the maturation by its feeling, although feeling is not the
+> whole fruit: its associated complex matures with it.
 
 The Bhāṣya unit runs from [228|04] through [228|13] in the running
 source. Its `sasaṃbhārā` conclusion belongs to this unit. The next
@@ -47,18 +50,18 @@ has the compact expression `kāmadhātustrīṇi ca dhyānāni`.
 ## 3. Continuous Conventional Translation
 
 “Wholesome karma is to be experienced pleasantly through the third
-absorption.” Wholesome karma is to be experienced pleasantly as far
-as the third absorption. For this is the range of pleasant feeling:
-the desire domain and the three absorptions.
+dhyāna.” Wholesome karma is to be experienced pleasantly as far
+as the third dhyāna. For this is the range of pleasant feeling:
+the Desire Realm and the three dhyānas.
 
 “Above that, however, it is to be experienced as neither painful nor
 pleasant.” The word “wholesome” carries forward. Wholesome karma
-beyond the third absorption is to be experienced as neither painful
+beyond the third dhyāna is to be experienced as neither painful
 nor pleasant, because pleasant and painful feeling are absent there.
 
 “Here, unwholesome karma is to be experienced painfully.”
 Unwholesome karma is to be experienced painfully. The word “here”
-shows that it exists only in the desire domain. Yet feeling alone is
+shows that it exists only in the Desire Realm. Yet feeling alone is
 not the result of these karmas. What, then? Feeling together with its
 accompaniments.
 
@@ -69,15 +72,15 @@ the ethical quality of karma and the level of its maturation:
 
 | Karma | Range named here | Feeling of maturation |
 |---|---|---|
-| Wholesome | Desire domain through the third absorption | Pleasant |
-| Wholesome | Above the third absorption | Neither painful nor pleasant |
-| Unwholesome | Desire domain (`iha`) | Painful |
+| Wholesome | Desire Realm through the third dhyāna | Pleasant |
+| Wholesome | Above the third dhyāna | Neither painful nor pleasant |
+| Unwholesome | Desire Realm (`iha`) | Painful |
 
-The first row includes the desire domain because the Bhāṣya names it
+The first row includes the Desire Realm because the Bhāṣya names it
 explicitly, although the compressed verse mentions the absorptions.
 The second carries forward `śubham`, again explicitly noted in the
 Bhāṣya. `Iha` does work in the third: it restricts unwholesome karma
-to the desire domain.
+to the Desire Realm.
 
 The explanation concerns the feeling character of *maturation*.
 It does not say that an actor necessarily feels pleasure or pain
@@ -106,6 +109,6 @@ its `vipāka`.
 ## 7. Review Status
 
 The complete local unit [228|04]–[228|13] is translated. The verse's
-three classes, the Bhāṣya's domain qualifications, and the final
+three classes, the Bhāṣya's Realm qualifications, and the final
 qualification about accompaniments remain distinct. The research
 witness and running Sanskrit source are unchanged.

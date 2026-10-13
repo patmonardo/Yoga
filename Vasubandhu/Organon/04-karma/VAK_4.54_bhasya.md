@@ -7,9 +7,13 @@ tīvrakleśaprasādena sātatyena ca yat kṛtam /
 guṇakṣetre ca niyataṃ tat pitror ghātakaṃ ca yat // 4.54 //
 ```
 
-> Karma done through intense affliction or intense confidence,
-> through sustained repetition, or in a field of qualities is
-> determinate; so is karma that kills either parent.
+> Karma is determinate when performed through intense affliction, intense
+> confidence, or continuity of performance. Wholesome or unwholesome karma
+> performed in a field of qualities—the Three Jewels or a person distinguished
+> by a particular fruit or meditative attainment—can become determinate even
+> without intense affliction or confidence or continuity. Killing either
+> parent is likewise determinate, however it is performed; other acts involving
+> one's parents are not included.
 
 The unit begins with the question at [231|22] and ends at [232|04].
 The next question, concerning present-life-result karma, begins at

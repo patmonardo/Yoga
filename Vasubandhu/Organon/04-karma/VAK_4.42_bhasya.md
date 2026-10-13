@@ -7,10 +7,12 @@ kāmāptaṃ kuśalārūpaṃ mūlacchedordhvajanmataḥ /
 pratipakṣodayāt kliṣṭam arūpaṃ tu vihīyate // 4.42 //
 ```
 
-> Wholesome nonmaterial dharma belonging to the desire realm is
-> relinquished through severance of wholesome roots or rebirth
-> in a higher realm. Defiled nonmaterial dharma, however, is
-> abandoned through the arising of its counteragent.
+> A wholesome non-Form dharma belonging to the desire realm is lost either
+> when the wholesome roots are severed or when the person is reborn above the
+> desire realm, in the Form or Formless Realm. Every defiled non-Form dharma,
+> however, is abandoned only when its corresponding counteragent—the specific
+> Path of abandonment opposed to that kind of defilement—arises and removes it
+> together with its associated factors.
 
 The complete running unit is [225|22]–[226|01–02] in
 `Vasubandhu/Sources/kosabhasya.txt`. The question about which
@@ -35,22 +37,22 @@ parityajyate nānyathā /
 
 Word division, punctuation, and the verse-end label are editorial.
 The Bhāṣya's `arūpasvabhāva` governs `arūpa` in both halves:
-nonmaterial by nature. It does not denote the formless realm
+non-Form by nature. It does not denote the Formless Realm
 (`ārūpyadhātu`) or `avijñapti`, which this Abhidharma system
-classifies as material (`rūpa`). The latter confusion in the
+classifies as Form (`rūpa`). The latter confusion in the
 earlier Kārikā interpretation is corrected here.
 
 ## 3. Continuous Conventional Translation
 
-“Wholesome nonmaterial dharma belonging to the desire realm is
+“Wholesome non-Form dharma belonging to the desire realm is
 relinquished through severance of the roots or birth above.” A
-wholesome dharma of nonmaterial nature belonging to the desire
+wholesome dharma of non-Form nature belonging to the desire
 realm is relinquished in two ways: through complete severance of
 the wholesome roots or through rebirth in the Form or Formless
 Realm.
 
-“Defiled nonmaterial dharma, however, is abandoned through the
-arising of its counteragent.” Every defiled nonmaterial dharma
+“Defiled non-Form dharma, however, is abandoned through the
+arising of its counteragent.” Every defiled non-Form dharma
 is abandoned through the arising of its appropriate counteragent.
 For each type of defilement, the path that abandons that type
 relinquishes it together with its associated factors, and not
@@ -63,9 +65,9 @@ with a careful asymmetry:
 
 | Dharma under discussion | Condition of loss |
 |---|---|
-| Desire-realm wholesome, nonmaterial | Severance of wholesome roots |
-| Desire-realm wholesome, nonmaterial | Rebirth in a higher realm |
-| Defiled, nonmaterial | Arising of the specific counteragent |
+| Desire-realm wholesome, non-Form | Severance of wholesome roots |
+| Desire-realm wholesome, non-Form | Rebirth in a higher realm |
+| Defiled, non-Form | Arising of the specific counteragent |
 
 The first condition cuts a sustaining wholesome root; the second
 changes the realm to which the possessed dharma belongs. Neither

@@ -7,8 +7,12 @@ dharmakṣāntiṣu vairāgye cānantaryapathāṣṭake /
 yā cetanā dvādaśadhā karma kṛṣṇakṣayāya tat // 4.61 //
 ```
 
-> The twelvefold volition in the dharma-patiences and the eight
-> immediate paths of detachment is karma that ends black karma.
+> Four volitions occur in the dharma-knowledge patiences of the Path of Seeing,
+> and eight occur in the first eight uninterrupted paths of detachment from the
+> Desire Realm. These twelve volitions are karma without influxes whose specific
+> function is the abandonment of black karma. Not every karma without influxes
+> exhausts all three productive karmic classes; the Path's abandonment function
+> is differentiated by stage and target.
 
 ## 2. Continuous Sanskrit
 
@@ -32,22 +36,20 @@ belongs to the next verse, beginning at [236|05].
 
 ## 3. Continuous Conventional Translation
 
-Does all outflow-free karma lead to the exhaustion of all three
-kinds of karma just described? No, it is said. What, then? “The
-twelvefold volition in the dharma-patiences and in the eight
-immediate paths of detachment is karma that ends black karma.”
-On the Path of Seeing there are four `dharmajñānakṣānti` states;
-in detachment from the desire realm there are eight immediate
-paths. The volition occurring in these is twelvefold. This is
-the karma that leads to the abandonment of black karma.
+Does all karma without influxes lead to the exhaustion of all three
+kinds of karma just described? No, it is said. What, then? On the
+Path of Seeing there are four `dharmajñānakṣānti` states; in
+detachment from the Desire Realm there are eight uninterrupted
+paths. The volition occurring in these twelve path-moments is karma
+whose function is the abandonment of black karma.
 
-## 4. Which Outflow-Free Karma Does What?
+## 4. Which Karma Without Influxes Does What?
 
-The question narrows 4.60's broad assertion that outflow-free
-karma exhausts the other three classes. It is **not** every
-outflow-free action indiscriminately that ends each class. For
-black karma, the Bhāṣya counts four patiences on the Path of
-Seeing plus eight immediate paths in desire-realm detachment:
+The question narrows 4.60's broad assertion that karma without
+influxes exhausts the other three classes. It is **not** every such
+karma indiscriminately that ends each class. For black karma, the
+Bhāṣya counts four patiences on the Path of Seeing plus eight
+uninterrupted paths in detachment from the Desire Realm:
 `4 + 8 = 12` instances of volition. This is an allocation of
 exhaustive function across path moments, not a new list of twelve
 ethical commandments.
@@ -63,5 +65,5 @@ the Kośa's own soteriological account.
 ## 6. Review Status
 
 The complete short unit [235|22]–[236|04] is translated. The
-four-plus-eight count and the limit on “all outflow-free karma”
+four-plus-eight count and the limit on “all karma without influxes”
 are explicit. Research and running-source files are unchanged.

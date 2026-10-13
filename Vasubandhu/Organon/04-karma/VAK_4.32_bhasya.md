@@ -7,9 +7,11 @@ buddhasaṃghakarān dharmān aśaikṣān ubhayāṃś ca saḥ /
 nirvāṇaṃ ceti śaraṇaṃ yo yāti śaraṇatrayam // 4.32 //
 ```
 
-> Whoever goes to the Three Refuges takes refuge in the qualities
-> that make a Buddha, belonging to one beyond training; in both kinds
-> of qualities that make the Saṅgha; and in nirvāṇa.
+> Whoever goes to the Three Refuges takes refuge in the aśaikṣa dharmas that
+> constitute one as a Buddha, especially knowledge of exhaustion and its
+> associated factors; in the śaikṣa and aśaikṣa Path-dharmas through which the
+> eight noble persons constitute the Saṅgha; and in nirvāṇa, specifically
+> cessation through discriminative comprehension, as the Dharma-refuge.
 
 The natural unit starts with the question about restraint and refuge
 at [216|13–14] and ends with refuge as the gateway to undertaking

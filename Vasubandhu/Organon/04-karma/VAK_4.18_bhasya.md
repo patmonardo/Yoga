@@ -7,10 +7,10 @@ anāgamye prahāṇākhyau tāv ānantaryamārgajau /
 saṃprajñānasmṛtī dve tu manaindriyasaṃvarau // 4.18 //
 ```
 
-> In the preliminary concentration, those two, when born in the
-> uninterrupted paths, are called abandonment restraints. Mind-restraint
-> and faculty-restraint, however, each have two natures: clear comprehension
-> and recollection.
+> In the preliminary concentration, meditation-born and uncontaminated
+> restraint, when born in the nine uninterrupted paths, are called
+> abandonment restraints. Mind-restraint and faculty-restraint, however, each
+> have a twofold nature: recollection and clear comprehension.
 
 The running Bhāṣya unit begins at [208|13] and ends at [209|03] in
 `Vasubandhu/Sources/kosabhasya.txt`. Its first question resumes the two
@@ -27,7 +27,7 @@ anāgamye prahāṇākhyau tāv ānantaryamārgajau.
 
 anāgamye tau dhyānānāsravasaṃvarau navasv ānantaryamārgeṣu
 prahāṇasaṃvarāv ity ucyete. tābhyāṃ dauḥśīlyasya tatsamutthāpakānāṃ
-ca kleśānāṃ prahāṇāt. nata eva syād dhyānasaṃvaro na
+ca kleśānāṃ prahāṇāt. ata eva syād dhyānasaṃvaro na
 prahāṇasaṃvara iti catuṣkoṭikaṃ kriyate.
 
 prathamā koṭir anāgamyānantaryamārgavarjyaḥ sāsravo dhyānasaṃvaraḥ.
@@ -54,11 +54,10 @@ smṛtisaṃprajñānasvabhāva iti; indriyasaṃvaro 'pi.
 ```
 
 Word division, sentence punctuation, and the separation of cited verses
-are editorial. The running witness's `nata eva syād` at [208|17–18] is
-left unsegmented: the following four cases establish the question's
-function, while its precise reading remains uncertain. The witness's
-`punardvigrahaṇaṃ` is divided as *punar dvigrahaṇaṃ* without replacing
-its wording with a smoother paraphrase.
+are editorial. The running witness reads `ata eva syād` at [208|17–18],
+introducing the four-case analysis. The witness's `punardvigrahaṇaṃ` is
+divided as *punar dvigrahaṇaṃ* without replacing its wording with a
+smoother paraphrase.
 
 ## 3. Continuous Conventional Translation
 
@@ -148,5 +147,4 @@ the Organon, not a claim that Vasubandhu describes its architecture.
 
 The complete running unit through [209|03] is represented; its two cited
 sayings and four cases remain within the continuous translation. The
-segmentation of `nata eva syād` remains provisional. The running source,
-research Bhāṣya, and Kārikā files are unchanged.
+running source, research Bhāṣya, and Kārikā files are unchanged.

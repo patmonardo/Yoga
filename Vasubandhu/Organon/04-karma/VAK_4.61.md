@@ -22,7 +22,8 @@ yā cetanā dvādaśadhā karma kṛṣṇa-kṣayāya tat //
 ```
 
 The Bhāṣya identifies the four patiences as `dharmajñānakṣānti` on the Path of
-Seeing and the eight paths as uninterrupted paths of desire-domain detachment.
+Seeing and the eight paths as uninterrupted paths of detachment from the Desire
+Realm.
 
 ## 3. Lexical Analysis
 
@@ -45,7 +46,7 @@ tat
 | Form | Morphology | Lexical value here |
 |---|---|---|
 | `dharmakṣāntiṣu` | locative feminine plural compound | in the dharma-knowledge patiences |
-| `vairāgye` | locative neuter singular | in detachment; here detachment from the desire domain |
+| `vairāgye` | locative neuter singular | in detachment; here detachment from the Desire Realm |
 | `ānantaryapathāṣṭake` | locative neuter singular compound | in the set of eight uninterrupted paths |
 | `yā` | nominative feminine singular relative pronoun | whatever; the volition which |
 | `cetanā` | nominative feminine singular | volition |
@@ -64,7 +65,7 @@ black karma.
 
 An uninterrupted path is the active abandoning phase immediately connected
 with the liberation-path that follows. Here the first eight moments of
-desire-domain detachment are counted.
+detachment from the Desire Realm are counted.
 
 **`kṣaya / prahāṇa`**
 
@@ -85,7 +86,7 @@ sā dvādaśadhā [bhavati]
 ```
 
 > The volition present in the dharma-knowledge patiences and in the eight
-> uninterrupted paths of desire-domain detachment is twelvefold.
+> uninterrupted paths of detachment from the Desire Realm is twelvefold.
 
 The locatives state the path-moments in which the volition occurs. The number
 is the sum of four and eight.
@@ -112,14 +113,14 @@ The dative expresses the target and direction of the path-volition's activity.
 ### Bhāṣya-informed study translation
 
 > Four volitions occur in the dharma-knowledge patiences of the Path of Seeing,
-> and eight occur in the first eight uninterrupted paths of desire-domain
-> detachment. These twelve volitions are karma without influxes whose specific
+> and eight occur in the first eight uninterrupted paths of detachment from the
+> Desire Realm. These twelve volitions are karma without influxes whose specific
 > function is the abandonment of black karma. Not every karma without influxes
-> exhausts every ordinary karmic class indiscriminately; the Path's negative
-> efficacy is differentiated by stage and target.
+> exhausts all three productive karmic classes; the Path's abandonment function
+> is differentiated by stage and target.
 
-The exact identities of the four and eight, the restriction to desire-domain
-detachment, and the gloss of exhaustion as abandonment are supplied by the
+The exact identities of the four and eight, the restriction to detachment from
+the Desire Realm, and the gloss of exhaustion as abandonment are supplied by the
 Bhāṣya.
 
 ## 6. Philosophical Translation
@@ -127,7 +128,7 @@ Bhāṣya.
 > Liberating activity is not an empty negation of karma in general. Each
 > path-volition is a positive determination whose function is the removal of a
 > corresponding practical determination. Four seeing-path operations and eight
-> uninterrupted operations of desire-domain detachment together constitute a
+> uninterrupted operations of detachment from the Desire Realm together constitute a
 > twelvefold activity directed specifically against black karma. Negation is
 > therefore rational because it is internally differentiated by what negates,
 > what is negated, and the stage at which the relation becomes actual.
@@ -142,7 +143,7 @@ The Path operates upon the karmic circuit through determinate volition.
 Path of Seeing
     4 dharma-knowledge patiences
 
-desire-domain detachment
+detachment from the Desire Realm
     first 8 uninterrupted paths
 
 total
@@ -165,7 +166,7 @@ one undifferentiated volition. It identifies the karmic factor operative here.
 
 **Why only the first eight uninterrupted paths**
 
-The ninth uninterrupted path of desire-domain detachment is assigned a
+The ninth uninterrupted path of detachment from the Desire Realm is assigned a
 different target in VAK 4.62. The arithmetic is therefore doctrinal, not merely
 convenient.
 
@@ -207,7 +208,7 @@ For this verse:
 
 ```text
 4 SEEING_PATH_VOLITIONS
-    + 8 DESIRE_DETACHMENT_VOLITIONS
+    + 8 DESIRE_REALM_DETACHMENT_VOLITIONS
     → ABANDON(BLACK_KARMA)
 ```
 
@@ -294,7 +295,7 @@ Class: Volition
 Class: PathVolition
 Class: DharmaKnowledgePatience
 Class: PathOfSeeing
-Class: DesireDomainDetachment
+Class: DesireRealmDetachment
 Class: UninterruptedPath
 Class: FirstEightUninterruptedPaths
 Class: Abandonment
@@ -317,7 +318,7 @@ Rule: FourPatienceVolitionsTargetBlackKarma
     and occursInPathStage(?c, DharmaKnowledgePatience)
     -> targetsForAbandonment(?c, BlackKarma)
 
-Rule: EightDesireDetachmentVolitionsTargetBlackKarma
+Rule: EightDesireRealmDetachmentVolitionsTargetBlackKarma
     PathVolition(?c)
     and occursInPathStage(?c, FirstEightUninterruptedPaths)
     -> targetsForAbandonment(?c, BlackKarma)

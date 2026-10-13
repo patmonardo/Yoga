@@ -14,7 +14,7 @@ aśubhaṃ kāyakarmādi mataṃ duścaritatrayam /
 akarmāpi tv abhidhyādi manoduścaritaṃ tridhā // 4.65 //
 ```
 
-Padapāṭha-style separation:
+Word division:
 
 ```iast
 aśubham kāya-karma-ādi matam duścarita-trayam /
@@ -41,7 +41,7 @@ manaḥ-duścaritam
 tridhā
 ```
 
-| Form | Morphology | Lexical value here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `aśubham` | nominative neuter singular | unwholesome |
 | `kāyakarmādi` | nominative neuter singular compound | bodily karma and the remaining verbal and mental karmas |
@@ -113,7 +113,7 @@ conduct does not entail classification as karma.
 
 ## 5. Translation
 
-### Literal Translation
+### Scientific English Rendering
 
 > Unwholesome bodily karma and the rest are held to be the threefold bad
 > conduct. But covetousness and the others, although not karma, constitute
@@ -121,26 +121,29 @@ conduct does not entail classification as karma.
 
 ### Bhāṣya-informed study translation
 
-> Unwholesome bodily, verbal, and mental karma are respectively bodily, verbal,
-> and mental bad conduct. Mental bad conduct is broader than mental karma: it
-> also includes covetousness, ill will, and false view, although these are
-> kleśic determinations distinct from volition and are not karma in their own
-> nature. Volition may proceed through these afflictive avenues, which explains
-> why a sūtra can indicate mental karma through them without identifying kleśa
-> and karma.
+> Unwholesome bodily action and the rest are held to be the three kinds of bad
+> conduct. Yet mental bad conduct beginning with covetousness is threefold,
+> even though it is not itself karma.
+
+The Bhāṣya identifies the first three as unwholesome bodily, verbal, and
+mental karma, each classified as the corresponding bad conduct. It adds that
+covetousness, ill will, and false view are distinct in meaning from volition
+and are not karma in their own nature. The Vaibhāṣika explanation is that
+volition proceeds through these afflictive avenues; the sūtra indicates
+volition through them without identifying affliction with karma.
 
 The Dārṣṭāntika position, Vaibhāṣika resolution, and distinction from `cetanā`
 are supplied by the Bhāṣya.
 
 ## 6. Philosophical Translation
 
-> Practical deformation is broader than completed karmic action. Covetousness,
-> hostility, and false view already constitute bad mental conduct because they
-> configure the avenue through which volition proceeds, yet they are not
-> themselves volition or karma. The kleśa is therefore neither identical with
-> the act nor externally unrelated to it: it determines the practical direction
-> through which `cetanā` becomes karmic activity. Ground, mediation, and action
-> remain distinct within one genesis.
+> Bad conduct has a broader extension than strict karma. Covetousness, hostility,
+> and false view already constitute bad mental conduct because they configure
+> the avenue through which volition proceeds, yet they are not themselves
+> volition or karma. The affliction is neither identical with the act nor
+> externally unrelated to it: it shapes the practical direction through which
+> volition becomes karmic activity. Affliction, volition, and action remain
+> distinct within this mediated relation.
 
 False view is consequently practical deformation without being redescribed as
 strict karma in Vasubandhu's taxonomy.
@@ -282,22 +285,22 @@ The practical field is broader than the field of executed karmic acts.
 
 ## 9. Interpretive Note
 
-**Kleśa as Ground, not karma**
+**Kleśa as a volitional avenue, not karma**
 
-The user's Ground formulation is confirmed at the level of mediation:
+The Bhāṣya supports a mediated relation, not an identity:
 
 ```text
 kleśa
-    grounds the deformed avenue
+    configures the afflictive avenue
 
-cetanā
+volition (cetanā)
     actualizes activity through that avenue
 
 karma
     is the resulting strict volitional determination
 ```
 
-But the Kośa insists that the Ground and the action are not identical.
+The Kośa keeps the affliction distinct from volition and karma.
 
 **Status of Rational Karma**
 
@@ -313,10 +316,10 @@ mithyādṛṣṭi
 
 The project term must therefore not be inserted into the primary textual layer.
 
-**Testing the avidyā hypothesis**
+**Testing the false-view hypothesis**
 
-The verse supports the claim that false rational determination becomes
-practically effective by configuring volition, but it also demands a mediation:
+The verse supports the project-level claim that false view becomes practically
+effective by configuring volition, but it also demands a mediation:
 
 ```text
 false view

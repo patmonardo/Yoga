@@ -10,7 +10,7 @@
 ## 2. Sanskrit (IAST)
 
 ```iast
-tathaivāsaṃvarastho ’pi dhyānasaṃvaravān sadā /
+tathaivāsaṃvarastho 'pi dhyānasaṃvaravān sadā /
 atītājātayā āryas tu prathame nābhyatītayā // 4.20 //
 ```
 

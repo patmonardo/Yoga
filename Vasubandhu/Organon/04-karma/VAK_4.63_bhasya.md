@@ -7,10 +7,10 @@ anye narakavedyānyakāmavedyaṃ dvayaṃ viduḥ /
 dṛgdheyaṃ kṛṣṇam anye 'nyat kṛṣṇaśuklaṃ tu kāmajam // 4.63 //
 ```
 
-> Some hold the two to be karma experienced in hell and karma
-> experienced elsewhere in the desire realm. Others call what is
-> abandoned by seeing black, and the remaining desire-born karma
-> black-and-white.
+> Other teachers understand the pair as karma to be experienced in hell and
+> karma to be experienced elsewhere in the Desire Realm, respectively. Still
+> others call karma abandoned by seeing black; the remaining Desire-Realm
+> karma is black-and-white.
 
 The verse reports **other teachers'** classifications; it does
 not silently replace Vasubandhu's preceding allocation.
@@ -43,21 +43,21 @@ official verse's reading order. Line breaks, punctuation, and verse
 numbering are editorial. The new sūtra on three silences begins at
 [236|23] and belongs to 4.64.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Scientific English Rendering
 
 “Some hold the two to be what is experienced in hell and what is
-experienced elsewhere in the desire realm.” Other teachers regard
+experienced elsewhere in the Desire Realm.” Other teachers regard
 karma experienced in hell as black and karma experienced in another
-desire-realm destination as black-and-white, respectively. In hell,
+Desire-Realm destination as black-and-white, respectively. In hell,
 only unwholesome karma matures; hence karma to be experienced there
-is called black. Elsewhere in the desire realm, both wholesome and
+is called black. Elsewhere in the Desire Realm, both wholesome and
 unwholesome karma mature; hence karma to be experienced there is
 called black-and-white.
 
 “Others call what is abandoned by seeing black.” Still other
 teachers say that karma to be abandoned by seeing is black because
-it is unmixed with wholesome karma. “The remaining desire-born
-karma is black-and-white.” The other karma of the desire realm is
+it is unmixed with wholesome karma. “The remaining karma born in the
+Desire Realm is black-and-white.” The other karma of the Desire Realm is
 called black-and-white. What is this other karma? What is to be
 abandoned by cultivation, for that comprises both wholesome and
 unwholesome karma.
@@ -76,13 +76,16 @@ the claim that wholesome and unwholesome karmas mature in a realm
 does not make one intrinsically contradictory karma, as 4.60
 already cautioned.
 
-## 5. Organon Contact Point
+## 5. Interpretation
 
-A category may be reallocated when the governing criterion changes.
-For our classification work, the field or path used as the key must
-be explicit. Here the two alternative keys are destination and
-mode of abandonment, and their provenance remains other teachers'
-views within the Bhāṣya.
+The two alternatives determine karma through different relations: the
+first through the Desire-Realm destination in which its maturation is
+experienced, the second through the Path by which it is abandoned. In the
+Organon account, these are a maturation-field relation and a Path-operation,
+not competing intrinsic definitions of one color predicate. Making each
+relation explicit lets the classifications remain comparable without
+collapsing their distinct grounds. The Bhāṣya attributes both alternatives
+to other teachers.
 
 ## 6. Review Status
 

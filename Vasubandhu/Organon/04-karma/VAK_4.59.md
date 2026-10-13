@@ -23,6 +23,8 @@ kṛṣṇa-śukla-ādi-bhedena punaḥ karma catur-vidham //
 
 The first half correlates three predicates with three afflictive origins. The
 second half announces a new fourfold classification completed in VAK 4.60.
+The running source has `punaḥḥ` at [234|26], with a duplicated visarga; this
+study prints the normalized `punaḥ`.
 
 ## 3. Lexical Analysis
 

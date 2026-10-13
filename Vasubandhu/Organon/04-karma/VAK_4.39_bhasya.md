@@ -7,10 +7,13 @@ patanīyena cety eke saddharmāntardhito 'pare /
 dhanarṇavat tu kāśmīrair āpannasyeṣyate dvayam // 4.39 //
 ```
 
-> Some say restraint is lost through a downfall offense; others,
-> through disappearance of the true Dharma. The Kāśmīras instead
-> hold that the offender has both morality and misconduct, like
-> someone who has both wealth and debt.
+> Some authorities hold that committing one of the four root downfall
+> offenses destroys bhikṣu or śrāmaṇera restraint. Others hold that
+> prātimokṣa restraint is lost when the true Dharma and its disciplinary
+> institutions disappear. The Kāśmīra Vaibhāṣikas reject both simple losses
+> and maintain instead that the grave offender still possesses the earlier
+> restraint together with the newly incurred misconduct, just as one person
+> may possess both wealth and debt.
 
 The complete unit runs from [223|01] through [224|17–18] in
 `Vasubandhu/Sources/kosabhasya.txt`. The new question about

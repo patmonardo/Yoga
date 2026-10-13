@@ -47,7 +47,7 @@ conflating the witnesses. Line breaks, punctuation, and verse
 numbering are editorial. The next half-verse, `viparyayāt
 sucaritam`, begins the 4.66 unit at [237|23].
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Scientific English Rendering
 
 Three kinds of bad conduct have been stated. In this connection:
 “Unwholesome bodily action and the rest are held to be the three
@@ -93,7 +93,7 @@ about whether covetousness, hostility, or wrong view matters
 ethically. The closing definition names undesirable result as
 the ground for calling conduct blameworthy.
 
-## 5. Organon Contact Point
+## 5. Interpretation
 
 Our practical vocabulary can keep an afflictive orientation,
 the volition that proceeds through it, and the wider predicate

@@ -7,10 +7,13 @@ yadviraktaḥ sthiro bālas tatra notpadyavedyakṛt /
 nānyavedyakṛd apy āryaḥ kāme 'gre vāsthiro 'pi na // 4.52 //
 ```
 
-> A stable ordinary person detached from a level does not make
-> karma to be experienced there at the next birth. A stable noble
-> person does not make later-life karma for it either; at the desire
-> domain or the summit, even one liable to fall back does not.
+> An ordinary person who is stably detached from a level produces no karma
+> to be experienced in the next birth in that level. A stable noble person
+> produces neither next-birth-result nor later-life karma for a level from
+> which that person is detached, because return to the lower level is no
+> longer possible.
+> Even a noble person liable to fall back cannot produce those future karmas
+> with respect to the Desire Realm or the summit of existence.
 
 The unit begins at [230|26] and ends with a forward reference at
 [231|07–08]. The question about karma in the intermediate existence
@@ -68,8 +71,8 @@ lower level. They might make indeterminate karma, and present-life
 karma if born there.
 
 “Even one liable to fall back does not, with respect to the desire
-domain or the summit.” A noble person who is liable to fall back,
-yet has become free of desire for the desire domain or for the
+Realm or the summit.” A noble person who is liable to fall back,
+yet has become free of desire for the Desire Realm or for the
 summit of existence, cannot make karma for either of those levels
 to be experienced at the next birth or in a later life. Why? Such
 a person falls back from the fruit. As will be explained later, one
@@ -83,7 +86,7 @@ word in this e-text.
 |---|---|
 | Stable ordinary person | Next-birth-result karma |
 | Stable noble person | Next-birth and later-life-result karma |
-| Noble person liable to fall back, detached from desire domain or summit | Those two future-result classes at these boundary levels |
+| Noble person liable to fall back, detached from the Desire Realm or summit | Those two future-result classes at these boundary levels |
 
 `Sthira` is glossed by `aparihāṇadharmā`, not liable to fall back.
 `Asthira` in the final line is explained by `parihāṇadharmā`, liable

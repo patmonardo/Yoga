@@ -1,4 +1,4 @@
-# VAK 4.48 Bhāṣya — Neutral Maturation Below the Fourth Absorption
+# VAK 4.48 Bhāṣya — Neutral Maturation Below the Fourth Dhyāna
 
 ## 1. Kārikā Anchor
 
@@ -7,9 +7,13 @@ adho 'pi madhyam asty eke dhyānāntaravipākataḥ /
 apūrvācaramaḥ pākas trayāṇāṃ ceṣyate yataḥ // 4.48 //
 ```
 
-> Some hold that the middle class exists even below, because of the
-> maturation of the intermediate absorption and because a maturation
-> of the three is admitted in which none is earlier or later.
+> Some authorities maintain that karma whose maturation is experienced as
+> neither pain nor pleasure also occurs below the fourth dhyāna. The
+> intermediate dhyāna, where neither pleasant nor painful feeling occurs, is
+> invoked as one ground; scripture also recognizes the simultaneous maturation
+> of pleasant-, painful-, and neutral-result karmas, something possible only in
+> the Desire Realm. The distribution stated in VAK 4.47 is therefore the
+> predominant rule rather than an exceptionless one.
 
 The unit begins at [228|14]. The Bhāṣya continues beyond the
 research witness's endpoint [229|03], explaining `vedanīya` through
@@ -70,14 +74,14 @@ than given silent doctrinal repairs.
 “Some hold that the middle class exists even below.” Others say
 that the middle karma just mentioned, karma to be experienced as
 neither painful nor pleasant, exists even below the fourth
-absorption. Why? “Because it is the maturation of the intermediate
-absorption.” Otherwise, karma belonging to the intermediate
-absorption would have no maturation, or the intermediate absorption
+dhyāna. Why? “Because it is the maturation of the intermediate
+dhyāna.” Otherwise, karma belonging to the intermediate
+dhyāna would have no maturation, or the intermediate dhyāna
 would be the maturation of no karma, since pleasant and painful
 feelings are absent there.
 
-Some say that the faculty of pleasure is the maturation of
-intermediate-absorption karma within absorption. Others say that
+Some say that the pleasure Faculty is the maturation of
+intermediate-dhyāna karma within that dhyāna. Others say that
 feeling is not its maturation at all. The latter is contrary to the
 treatise, for it reads: “Could only mental feeling ripen as the
 maturation of a karma? It could, in the case of wholesome karma
@@ -85,17 +89,17 @@ without thinking.”
 
 “And because a maturation of the three is admitted in which none is
 earlier or later.” A sūtra says: “Could the maturation of three
-karmas ripen with none earlier or later? It could: material form from
+karmas ripen with none earlier or later? It could: Form from
 karma to be experienced pleasantly, mind and mental factors from
 karma to be experienced painfully, and factors dissociated from mind
 from karma to be experienced as neither painful nor pleasant.” Thus
 karma of the third, neutral-result class exists below as well. For
-nowhere outside the desire domain can the maturations of all three
+nowhere outside the Desire Realm can the maturations of all three
 karmas coincide at once.
 
 Is that karma, then, wholesome or unwholesome? The running text's
 answer is only, “But that is weak.” If so, does this contradict
-“Wholesome karma through the third absorption is to be experienced
+“Wholesome karma through the third dhyāna is to be experienced
 pleasantly” and “Wholesome karma has desirable maturation”? This
 statement should be understood as describing the predominant case.
 
@@ -112,7 +116,7 @@ and to karma experienced as neither painful nor pleasant.
 ## 4. The Two Grounds for the Qualification
 
 The first half attributes the extension of the neutral-result class
-to `eke`/`anye`, “some.” Their intermediate-absorption argument
+to `eke`/`anye`, “some.” Their intermediate-dhyāna argument
 depends on an absence of both pleasant and painful feeling there.
 Vasubandhu records competing replies, including denial that feeling
 is a maturation at all, and rejects that denial as `ucchāstra`,
@@ -122,21 +126,21 @@ The second half brings independent sūtra evidence. It describes
 the **simultaneous** (`yugapat`) maturation of three distinct karmas
 as form, mind with mental factors, and factors dissociated from mind.
 `Apūrvācarama` therefore concerns the temporal relation among
-their maturations, not their order in a hierarchy of absorptions.
-Vasubandhu locates that conjunction in the desire domain, providing
+their maturations, not their order in a hierarchy of dhyānas.
+Vasubandhu locates that conjunction in the Desire Realm, providing
 another ground for neutral-result karma *below* the fourth
-absorption.
+dhyāna.
 
 | Question | Local answer |
 |---|---|
-| Can neutral-result karma occur below the fourth absorption? | Yes, on the grounds argued here |
+| Can neutral-result karma occur below the fourth dhyāna? | Yes, on the grounds argued here |
 | Does this erase the distribution in 4.47? | No; 4.47 is `bāhulika`, a predominant description |
 | Does `vedanīya` make karma itself a feeling? | No; the expression concerns what its maturation affords |
 
 ## 5. Textual and Doctrinal Limits
 
 The reply `durbalaṃ tu tat` does not explicitly select “wholesome”
-or “unwholesome” after asking which the desire-domain neutral-result
+or “unwholesome” after asking which the Desire-Realm neutral-result
 karma is. The running e-text may be compressed or damaged; the study
 does not supply a missing answer. The closing analogy at [229|05–06]
 is also insufficiently clear for a confident reconstruction of its
@@ -149,7 +153,7 @@ own nature and the experience of its maturation.
 ## 6. Organon Contact Point
 
 For our OM theory, `bāhulika` is an instructive correction of a
-classification: a general mapping from karmic domain to felt result
+classification: a general mapping from karmic realm to felt result
 is revised when a concrete case and a sūtra-based conjunction
 require it. This is a project analogy about rules and their scope.
 The source's argument concerns particular Buddhist karma classes,

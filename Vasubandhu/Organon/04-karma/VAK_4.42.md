@@ -21,7 +21,7 @@ kāma-āptam kuśala-arūpam mūla-cchedāt ūrdhva-janmataḥ /
 pratipakṣa-udayāt kliṣṭam arūpam tu vihīyate //
 ```
 
-The Bhāṣya explicitly glosses both classes as `arūpasvabhāva`, non-material
+The Bhāṣya explicitly glosses both classes as `arūpasvabhāva`, non-Form
 by nature. `Arūpa` here does not mean avijñapti, which Sarvāstivāda classifies
 as `rūpa`, and it does not mean the formless realm (`ārūpya`).
 
@@ -45,12 +45,12 @@ vihīyate
 | Form | Morphology | Lexical value here |
 |---|---|---|
 | `kāmāptam` | nominative neuter singular compound | belonging to the desire realm |
-| `kuśalārūpam` | nominative neuter singular compound | wholesome non-material dharma |
+| `kuśalārūpam` | nominative neuter singular compound | wholesome non-Form dharma |
 | `mūlacchedāt` | ablative singular compound | through severance of the root |
 | `ūrdhvajanmataḥ` | ablative singular compound | through birth above; rebirth in a higher realm |
 | `pratipakṣodayāt` | ablative singular compound | through arising of the counteragent |
 | `kliṣṭam` | nominative neuter singular | defiled; afflicted |
-| `arūpam` | nominative neuter singular | non-material dharma |
+| `arūpam` | nominative neuter singular | non-Form dharma |
 | `tu` | contrastive particle | but; however |
 | `vihīyate` | third-person singular present passive from `vi-√hā` | is abandoned, lost, left behind |
 
@@ -58,14 +58,14 @@ vihīyate
 
 ```text
 arūpa
-    non-material by nature
+    non-Form by nature
 
 ārūpya
-    the formless domain
+    the Formless Realm
     or a formless attainment
 
 avijñapti
-    imperceptible but classified as rūpa
+    imperceptible but classified as Form (`rūpa`)
 ```
 
 The first-pass report incorrectly associated `arūpa` with avijñapti. The
@@ -74,13 +74,13 @@ Bhāṣya rules that out.
 **`kāmāpta`**
 
 The Bhāṣya glosses this as `kāmāvacara`, belonging to the desire realm. The
-wholesome non-material dharma depends both on wholesome roots and on present
+wholesome non-Form dharma depends both on wholesome roots and on present
 possession within that realm.
 
 **`mūlaccheda`**
 
 The root is specified as the wholesome roots (`kuśalamūla`). Their complete
-severance removes the causal basis of the wholesome non-material dharma.
+severance removes the causal basis of the wholesome non-Form dharma.
 
 **`ūrdhvajanman`**
 
@@ -88,14 +88,14 @@ Birth above is explicitly rebirth in either:
 
 ```text
 rūpadhātu
-    the form realm
+    the Form Realm
 
 ārūpyadhātu
-    the formless realm
+    the Formless Realm
 ```
 
 The desire-realm dharma is no longer possessed after transition to a higher
-domain.
+realm.
 
 **`pratipakṣa`**
 
@@ -105,7 +105,7 @@ specific kind of defilement.
 
 ## 4. Grammar
 
-**Wholesome non-material dharma**
+**Wholesome non-Form dharma**
 
 ```text
 kāma-āptam kuśalam arūpam
@@ -113,13 +113,13 @@ mūla-cchedāt ūrdhva-janmataḥ [ca]
 vihīyate
 ```
 
-> Wholesome non-material dharma belonging to the desire realm is abandoned
+> Wholesome non-Form dharma belonging to the desire realm is abandoned
 > through severance of the wholesome roots or through birth above.
 
 The two ablatives state alternative causes. The verb appears only in the
 second half but governs both clauses.
 
-**Defiled non-material dharma**
+**Defiled non-Form dharma**
 
 ```text
 kliṣṭam arūpam tu
@@ -127,7 +127,7 @@ pratipakṣa-udayāt
 vihīyate
 ```
 
-> Defiled non-material dharma, however, is abandoned through arising of its
+> Defiled non-Form dharma, however, is abandoned through arising of its
 > counteragent.
 
 `Tu` contrasts the causal structure of defiled dharmas with the two losses of
@@ -137,15 +137,15 @@ desire-realm wholesome dharmas.
 
 ### Literal Translation
 
-> Wholesome non-material dharma belonging to the desire realm is abandoned
-> through severance of the root or through birth above. Defiled non-material
+> Wholesome non-Form dharma belonging to the desire realm is abandoned
+> through severance of the root or through birth above. Defiled non-Form
 > dharma, however, is abandoned through the arising of its counteragent.
 
 ### Bhāṣya-informed study translation
 
-> A wholesome non-material dharma belonging to the desire realm is lost either
+> A wholesome non-Form dharma belonging to the desire realm is lost either
 > when the wholesome roots are severed or when the person is reborn above the
-> desire realm, in the form or formless domain. Every defiled non-material
+> desire realm, in the Form or Formless Realm. Every defiled non-Form
 > dharma, however, is abandoned only when its corresponding counteragent—the
 > specific Path of abandonment opposed to that kind of defilement—arises and
 > removes it together with its associated factors.
@@ -157,28 +157,28 @@ Bhāṣya.
 ## 6. Philosophical Translation
 
 > A wholesome determination may cease because its generative root is
-> destroyed or because the continuum leaves the domain in which that
+> destroyed or because the continuum leaves the realm in which that
 > determination belongs. A defiled determination requires another logic: it
 > is not abandoned through mere absence, distraction, or external prevention,
 > but through the arising of the determinate Path that opposes and removes
 > that particular form of defilement together with its operative complex.
 
 The verse therefore distinguishes loss of causal support, loss of
-domain-compatibility, and mediated abandonment through a specific contrary.
+realm-compatibility, and mediated abandonment through a specific contrary.
 
 ## 7. Technical Vocabulary
 
-**Wholesome non-material dharmas of the desire realm**
+**Wholesome non-Form dharmas of the desire realm**
 
-These are wholesome dharmas whose intrinsic nature is non-material and whose
-domain is kāmadhātu. The Bhāṣya does not reduce them to one subtype in this
+These are wholesome dharmas whose intrinsic nature is non-Form and whose
+realm is kāmadhātu. The Bhāṣya does not reduce them to one subtype in this
 short passage.
 
 Their possession depends on:
 
 ```text
 wholesome roots remain intact
-desire-realm domain remains current
+desire realm remains current
 ```
 
 **Root-severance versus contrary action**
@@ -196,12 +196,12 @@ The second is a radical causal loss, not an ordinary lapse.
 
 **Realm transition**
 
-Rebirth above does not destroy the wholesome roots. It changes the domain in
+Rebirth above does not destroy the wholesome roots. It changes the realm in
 which the continuum is presently configured:
 
 ```text
 desire-realm dharma possessed
-    → rebirth in form or formless realm
+    → rebirth in the Form or Formless Realm
     → desire-realm possession ceases
 ```
 
@@ -238,7 +238,7 @@ an isolated name abstracted from its connected factors.
 root-loss
     wholesome causal capacity severed
 
-domain-transition
+realm-transition
     former realm-bound possession ends
 
 counteragent-arising
@@ -278,7 +278,7 @@ defilement.
 **Taxonomic boundary**
 
 ```text
-non-material by nature
+non-Form by nature
     excludes avijñapti here
 
 formless realm
@@ -320,23 +320,23 @@ P is the determinate contrary of D
 The negation is therefore mediated and productive, not an empty logical
 complement.
 
-**Domain is a condition, not a location label**
+**Realm is a condition, not a location label**
 
 Birth above changes the conditioning architecture of the continuum. A
 desire-realm-specific wholesome dharma ceases to be presently possessed
-because the domain to which it belongs is no longer the current configuration.
+because the realm to which it belongs is no longer the current configuration.
 
 This does not turn `dhātu` into a temporal bridge or hidden substance. It
-states the domain-index of the determination.
+states the realm-index of the determination.
 
 **Correction of the first pass**
 
 The earlier association of `arūpa` with avijñapti confused imperceptibility
-with non-material nature. Avijñapti may be imperceptible, but within the
+with non-Form nature. Avijñapti may be imperceptible, but within the
 Sarvāstivāda classification it remains `rūpa`. The Bhāṣya’s
 `arūpasvabhāva` makes the present boundary explicit.
 
-This is the Organon contact: causal support, domain-compatibility, and
+This is the Organon contact: causal support, realm-compatibility, and
 specific mediated opposition. The doctrinal classes and strict counteragent
 relation remain Bhāṣya determinations.
 
@@ -344,9 +344,9 @@ relation remain Bhāṣya determinations.
 
 ```text
 Class: Dharma
-Class: NonMaterialDharma
-Class: WholesomeNonMaterialDharma
-Class: DefiledNonMaterialDharma
+Class: NonFormDharma
+Class: WholesomeNonFormDharma
+Class: DefiledNonFormDharma
 Class: DesireRealm
 Class: FormRealm
 Class: FormlessRealm
@@ -365,18 +365,18 @@ ObjectProperty: correspondsTo
 ObjectProperty: abandons
 ObjectProperty: accompaniedBy
 
-WholesomeNonMaterialDharma SubClassOf NonMaterialDharma
-DefiledNonMaterialDharma SubClassOf NonMaterialDharma
+WholesomeNonFormDharma SubClassOf NonFormDharma
+DefiledNonFormDharma SubClassOf NonFormDharma
 PathOfAbandonment SubClassOf Counteragent
 
 Rule: WholesomeRootSeverance
-    WholesomeNonMaterialDharma(?d)
+    WholesomeNonFormDharma(?d)
     and dependsOn(?d, WholesomeRoot)
     and SeveranceOfWholesomeRoots(?s)
     -> abandonedThrough(?d, ?s)
 
 Rule: HigherRealmTransition
-    WholesomeNonMaterialDharma(?d)
+    WholesomeNonFormDharma(?d)
     and belongsToRealm(?d, DesireRealm)
     and HigherRealmRebirth(?r)
     -> abandonedThrough(?d, ?r)
@@ -388,7 +388,7 @@ Rule: SpecificCounteragentAbandonment
     -> abandons(?p, ?d)
 
 Constraint: ArupaIsNotAvijnaptiHere
-    NonMaterialDharma in VAK_4_42
+    NonFormDharma in VAK_4_42
     is not Avijnapti
     because Avijnapti is classified as Rupa
 

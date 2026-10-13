@@ -7,13 +7,16 @@ navame cetanā yā sā kṛṣṇaśuklakṣayāya ca /
 śuklasya dhyānavairāgyeṣv antyānantaryamārgajā // 4.62 //
 ```
 
-> Volition in the ninth path also ends black-and-white karma;
-volition born in the final immediate paths of detachment from
-the dhyānas ends white karma.
+> The volition in the ninth uninterrupted path of detachment from the Desire
+> Realm abandons black-and-white wholesome karma and the ninth, final type of
+> black unwholesome karma. Volition in the final uninterrupted path for
+> detachment from each of the four dhyānas abandons white karma. Wholesome
+> karma is not destroyed in its intrinsic nature; its abandonment consists in
+> removing every remaining affliction that can take it as an object.
 
 The prose specifies what the first half adds to 4.61: the ninth
-desire-realm path concerns both the mixed class and the final
-remaining grade of black karma.
+Desire-Realm path concerns both the mixed class and the final
+remaining grade of black unwholesome karma.
 
 ## 2. Continuous Sanskrit
 
@@ -45,16 +48,17 @@ views begin at [236|14] with 4.63.
 
 ## 3. Continuous Conventional Translation
 
-“Volition in the ninth [immediate path] also serves to end
-black-and-white [karma].” Volition in the ninth immediate path of
-detachment from the desire realm abandons wholesome black-and-white
-karma, and also the ninth grade of unwholesome black karma.
+“Volition in the ninth [uninterrupted path] also serves to exhaust
+black-and-white karma.” Volition in the ninth uninterrupted path of
+detachment from the Desire Realm abandons wholesome black-and-white
+karma and the ninth grade of black unwholesome karma.
 
-“[Volition] born in the final immediate paths of detachment from the
-dhyānas [serves to end] white karma.” For one becoming detached from
-each dhyāna, the volition in its last, ninth immediate path is
-fourfold; it abandons white karma. Why is wholesome karma abandoned
-by the final immediate path and not another? Its own nature is not
+“[Volition] born in the final uninterrupted paths of detachment from
+the dhyānas [serves to exhaust] white karma.” For one becoming
+detached from each dhyāna, the volition in its final, ninth
+uninterrupted path is fourfold; it abandons white karma. Why is
+wholesome karma abandoned by the final uninterrupted path and not
+another? Its own nature is not
 destroyed, since it can still come to presence even after its
 abandonment. Rather, the afflictions that take it as their object
 are abandoned. Therefore, so long as even one kind of such
@@ -62,9 +66,9 @@ object-directed affliction remains, its abandonment cannot occur.
 
 ## 4. Abandonment Is Not Intrinsic Destruction
 
-Two terminal moments are distinguished. The ninth desire-realm
-immediate path ends the mixed wholesome class and the ninth grade
-of black karma. The final immediate path for each of four dhyānas
+Two terminal moments are distinguished. The ninth Desire-Realm
+uninterrupted path ends the mixed wholesome class and the ninth grade
+of black unwholesome karma. The final uninterrupted path for each of four dhyānas
 ends white karma associated with that level.
 
 The explanation of `prahāṇa` is the crucial limit. A wholesome

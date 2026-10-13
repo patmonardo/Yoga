@@ -7,9 +7,12 @@ dvāviṃśatividhaṃ kāmeṣv ākṣipaty antarābhavaḥ /
 dṛṣṭadharmaphalaṃ tac ca nikāyo hy eka eva saḥ // 4.53 //
 ```
 
-> In the desire domain, intermediate existence initiates twenty-two
-> kinds of karma. Its determinate karma has its result in the
-> present existence, for that rebirth series is one and the same.
+> In Desire-Realm intermediate existence, karma can be produced for each of
+> eleven stages—the intermediate state itself, five embryonic stages, and five
+> stages after birth—with each kind either determinate or indeterminate, making
+> twenty-two. The eleven determinate kinds count as present-existence-result
+> karma because intermediate existence and the ten stages that follow form one
+> and the same karmically projected rebirth-class continuum.
 
 The Bhāṣya unit begins with the question at [231|09] and ends at
 [231|20–21]. The next question, about which karma is determinate,
@@ -49,7 +52,7 @@ upapadyavedanīyena ca tasyākṣepāt /
 
 Word division, punctuation, and verse number are editorial. The
 running source has `gāmāvacaro` where the context requires the
-desire-domain term `kāmāvacara`. Its compact sequence
+Desire-Realm term `kāmāvacara`. Its compact sequence
 `bālakumāravamadhyavṛddha` does not securely display all five
 post-birth stage names; the conventional “youth” below is inferred
 from the announced fivefold count, not silently restored into the
@@ -57,16 +60,16 @@ Sanskrit.
 
 ## 3. Continuous Conventional Translation
 
-Can karma also be initiated during intermediate existence? Yes, he
-says: “In the desire domain, intermediate existence initiates
-twenty-two kinds.” Desire-domain intermediate existence initiates
+Can karma also be projected during intermediate existence? Yes, he
+says: “In the Desire Realm, intermediate existence projects
+twenty-two kinds.” Desire-Realm intermediate existence projects
 twenty-two kinds of karma. How so? There are five stages in the
 womb: *kalala*, *arbuda*, *peśī*, *ghana*, and *praśākhā*. There
 are five stages after birth: childhood, boyhood, an apparent youth
 stage, middle age, and old age. The source is compressed at the
 third of these post-birth stages.
 
-In intermediate existence, one can initiate karma to be
+In intermediate existence, one can project karma to be
 experienced at the *kalala* stage, either indeterminate or
 determinate. This continues through karma to be experienced in old
 age, as well as karma to be experienced in intermediate existence
@@ -102,7 +105,7 @@ member, but that uncertainty does not affect the count.
 ## 5. One Series Across Different Stages
 
 The verse's `dṛṣṭadharmaphala` is explained only for the eleven
-**determinate** kinds. Karma initiated during intermediate
+**determinate** kinds. Karma projected during intermediate
 existence may mature at a later developmental stage yet still be
 classed as present-existence-result karma, because the intermediate
 phase and the ten subsequent phases belong to one projected
@@ -110,11 +113,14 @@ phase and the ten subsequent phases belong to one projected
 class-continuity criterion, not bodily sameness or a claim about
 an unchanging self.
 
-The final sentence distinguishes two directions of karma:
-`upapadyavedanīya` karma projects the intermediate existence;
-karma newly initiated *within* it can mature during that same
-series. The passage therefore gives no independent fifth timing
-class called `antarābhavavedanīya`.
+The passage uses projection at two levels. Intermediate existence
+projects target-specific karma for the stages in its own series; one
+karma projects that rebirth-class continuum as a whole. The final
+sentence distinguishes the latter from karma projected *within* the
+intermediate existence: `upapadyavedanīya` karma projects the
+intermediate existence, while karma projected there can mature during
+that same series. The passage therefore gives no independent fifth
+timing class called `antarābhavavedanīya`.
 
 ## 6. Organon Contact Point
 

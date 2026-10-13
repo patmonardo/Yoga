@@ -14,7 +14,7 @@ viparyayāt sucaritaṃ tadaudārikasaṃgrahāt /
 daśa karmapathā uktā yathāyogaṃ śubhāśubhāḥ // 4.66 //
 ```
 
-Padapāṭha-style separation:
+Word division:
 
 ```iast
 viparyayāt sucaritam tat-audārika-saṃgrahāt /
@@ -39,12 +39,12 @@ yathā-yogam
 śubha-aśubhāḥ
 ```
 
-| Form | Morphology | Lexical value here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `viparyayāt` | ablative masculine singular | by reversal; from the contrary |
 | `sucaritam` | nominative neuter singular | good conduct |
 | `tat` | compound member | of that wider conduct-field |
-| `audārika` | compound member | gross, principal, manifest, ethically decisive |
+| `audārika` | compound member | gross or salient; selected as principal here |
 | `saṃgrahāt` | ablative masculine singular | because of comprehension or selection |
 | `daśa` | numeral | ten |
 | `karmapathāḥ` | nominative masculine plural compound | courses of karma |
@@ -60,9 +60,8 @@ non-covetousness, non-hostility, and right view.
 
 **`audārika`**
 
-“Gross” does not mean merely physically large or coarse. The selected forms
-are principal, manifest, and ethically decisive enough to constitute canonical
-courses of karma.
+“Gross” does not mean merely physically large. Here the Bhāṣya uses the term
+for salient forms selected as the principal courses in this classification.
 
 **`karmapatha`**
 
@@ -102,7 +101,7 @@ unwholesome courses from bad conduct.
 
 ## 5. Translation
 
-### Literal Translation
+### Scientific English Rendering
 
 > By reversal there is good conduct. Because the principal forms of that
 > conduct are comprehended, ten courses of karma are taught, wholesome and
@@ -110,14 +109,19 @@ unwholesome courses from bad conduct.
 
 ### Bhāṣya-informed study translation
 
-> Good conduct is the reversal of bad conduct: wholesome bodily, verbal, and
-> mental karma together with non-covetousness, non-hostility, and right view.
-> From the broader fields of good and bad conduct, the sūtra selects ten
-> principal and ethically decisive forms as the wholesome and unwholesome
-> courses of karma. Preparatory and subsequent phases, lesser forms of conduct,
-> giving, abstention from intoxicants, pleasant speech, and mental volition as
-> such remain ethically significant without thereby belonging to the selected
-> ten.
+> Good conduct is the converse [of bad conduct]. By selecting the salient
+> forms of those conducts, ten courses of karma are taught, wholesome or
+> unwholesome as applicable.
+
+The Bhāṣya identifies good conduct as wholesome bodily, verbal, and mental
+karma together with non-covetousness, non-hostility, and right view. It explains
+that views have ethical quality as roots of beneficial or harmful conduct,
+even without a present intention to benefit or harm another. The ten courses
+select salient forms from the broader fields of good and bad conduct.
+Preparatory and subsequent phases, lesser bodily misconduct, the uncertain
+verbal example, giving, abstention from intoxicants, pleasant speech, and
+mental volition as such remain ethically significant without belonging to
+the selected ten.
 
 The positive extension of good conduct, selection criterion, and examples
 outside the ten are supplied by the Bhāṣya.
@@ -174,7 +178,9 @@ three mental courses
     = ten karmapathas
 ```
 
-Their detailed composition begins in the following verses.
+Their detailed composition begins in the following verses. This Kārikā closes
+the definitional sequence at the level of selection; the next inquiry begins
+the applied examination of these courses.
 
 **Bad conduct excluded from the ten**
 
@@ -185,7 +191,7 @@ preparatory phases
 subsequent phases
 binding and other lesser afflicted bodily conduct
 unselected verbal misconduct
-mental cetanā as such
+mental volition as such
 ```
 
 The three bodily bad karmapathas are selected because they decisively deprive
@@ -200,7 +206,7 @@ preparatory and subsequent wholesome phases
 abstention from intoxicants and similar disciplines
 giving and reverential activity
 pleasant or affectionate speech
-mental cetanā as such
+mental volition as such
 ```
 
 Exclusion from the ten does not mean ethical irrelevance.
@@ -242,7 +248,7 @@ their Meaning.
 ```text
 right or false view
     → root-condition
-    → orientation of cetanā
+    → orientation of volition (*cetanā*)
     → qualified karma
 ```
 
@@ -284,7 +290,7 @@ can be stated without calling view itself karma:
 
 ```text
 root determination
-    → cetanā
+    → volition
     → practical course
     → karmic result
 ```

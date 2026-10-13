@@ -7,10 +7,12 @@
 catvāry ekaṃ tathā trīṇi smṛtināśo madaś ca taiḥ // 4.29 //
 ```
 
-> In order, four are limbs of discipline, one a limb of heedfulness,
-> and three limbs of observance. Without the supporting limbs,
-> recollection can be lost and intoxicated pride can arise through
-> the acts they restrain.
+> Of the eight upavāsa limbs, the first four are limbs of discipline, the
+> fifth is the limb safeguarding heedfulness, and the final three are limbs
+> shaping the special observance. Intoxicants destroy recollection of what
+> should and should not be done; luxury and entertainment produce intoxicated
+> self-indulgence, bringing breach of discipline near; and abstention from
+> untimely eating sustains recollection of the upavāsa and sober urgency.
 
 The running Bhāṣya unit begins with the question at [214|03] and
 ends with the first-moment objection at [214|23–24] in

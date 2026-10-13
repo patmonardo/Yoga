@@ -7,10 +7,12 @@ asaṃvarasthaḥ śubhayāśubhayā saṃvare sthitaḥ /
 avijñaptyānvito yāvat prasādakleśavegavān // 4.22 //
 ```
 
-> One established in non-restraint may be endowed with wholesome
-> avijñapti, and one established in restraint with unwholesome
-> avijñapti, for as long as the force of confidence or affliction
-> continues.
+> A person established in non-restraint may generate wholesome avijñapti while
+> acting under a powerful movement of `prasāda`, such as in praise or
+> reverence. Conversely, a person established in restraint may generate
+> unwholesome avijñapti while acting under a powerful defilement, as in killing,
+> binding, or striking. Each contrary avijñapti continues only for as long as
+> its generating force continues.
 
 The running source unit begins with the question at [210|11–12] and
 ends with the explicit avijñapti closing sentence at [210|19] in

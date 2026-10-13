@@ -7,10 +7,14 @@ anyasyāpy upavāso 'sti śaraṇaṃ tv agatasya na /
 upāsakatvopagamāt saṃvṛt uktis tu bhikṣuvat // 4.30 //
 ```
 
-> Upavāsa can belong to another [not previously an observer], but not
-> to one who has not gone for refuge. On the Kāśmīra account, lay
-> restraint arises from undertaking upāsaka status; the later
-> statement of training rules instructs, as with a monk.
+> A person not previously established as an upavāsaka may acquire the
+> day-and-night restraint by first going for refuge to Buddha, Dharma, and
+> Saṃgha and then undertaking the observance; it does not otherwise arise,
+> apart from the qualification of ignorance. According to the Kāśmīra account,
+> lay restraint arises from undertaking upāsaka status itself. The subsequent
+> statement of the training rules serves to instruct the new upāsaka in the
+> restraint already acquired, just as monks and novices are taught their rules
+> after acquisition.
 
 The running unit starts with the eligibility question at [214|25]
 and ends with the comparison to monks and novices at [215|12–13] in

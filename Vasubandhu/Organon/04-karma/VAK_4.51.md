@@ -49,8 +49,8 @@ tridhā
 | `anye` | nominative masculine plural | others; here the Dārṣṭāntikas |
 | `nikāyākṣepaṇam` | nominative/accusative neuter singular compound | projection of a rebirth-continuum |
 | `tribhiḥ` | instrumental plural | by three [kinds of karma] |
-| `sarvatra` | adverb | everywhere; throughout the realms and destinies |
-| `caturākṣepaḥ` | nominative masculine singular compound | occurrence or accumulation of all four |
+| `sarvatra` | adverb | everywhere; throughout the Realms and destinies |
+| `caturākṣepaḥ` | nominative masculine singular compound | undertaking of all four kinds |
 | `śubhasya` | genitive neuter singular | of wholesome karma |
 | `narake` | locative masculine singular | in hell |
 | `tridhā` | adverb | threefold |
@@ -114,8 +114,8 @@ sarvatra catur-ākṣepaḥ
 narake tridhā [ākṣepaḥ]
 ```
 
-> In general all four kinds occur throughout; but in hell wholesome karma is
-> threefold.
+> In general all four kinds may be undertaken throughout; but in hell wholesome
+> karma is threefold.
 
 The Bhāṣya marks the first as the general rule and the second as its exception.
 
@@ -125,7 +125,7 @@ The Bhāṣya marks the first as the general rule and the second as its exceptio
 
 > Others analyze karma through four alternatives. A rebirth-continuum is
 > projected by three [of the four temporal kinds]. In general all four kinds
-> occur throughout; in hell wholesome karma is threefold.
+> may be undertaken throughout; in hell wholesome karma is threefold.
 
 ### Bhāṣya-informed study translation
 
@@ -133,9 +133,10 @@ The Bhāṣya marks the first as the general rule and the second as its exceptio
 > whether its temporal stage is fixed and whether maturation itself is fixed.
 > Of the four temporal kinds, three can project a future rebirth-continuum;
 > present-life-result karma cannot, since it fruits within the life already
-> established. All four kinds may generally occur throughout the three domains
-> and destinies as appropriate. In hell, however, wholesome karma is only
-> threefold because no desirable present-life maturation occurs there.
+> established. All four kinds may generally be undertaken throughout the three
+> Realms and destinies as applicable. In hell, however, wholesome karma is only
+> threefold because present-life-result wholesome karma has no desirable
+> maturation there.
 
 The identity of the two axes, exclusion of present-life karma from projection,
 and explanation of the hell exception are supplied by the Bhāṣya.
@@ -197,8 +198,8 @@ simultaneously, four karmic types can be accumulated in one moment.
 **General rule and hell exception**
 
 ```text
-all three dhātus and all destinies
-    → four kinds occur as appropriate
+all three Realms and all destinies
+    → four kinds may be undertaken as applicable
 
 hell
     → wholesome karma lacks present-life-result form
@@ -278,7 +279,7 @@ types can perform that function.
 
 **Dhātu and gati constrain application**
 
-The classification is tested across all domains and destinies, then qualified
+The classification is tested across all Realms and destinies, then qualified
 by the affective possibilities of hell. Universal-looking classifications are
 again mediated by the concrete field in which they are applied.
 
@@ -303,9 +304,9 @@ Class: PresentLifeResultKarma
 Class: FutureDirectedKarma
 Class: RebirthContinuum
 Class: FutureRebirthContinuum
-Class: DesireDomain
-Class: FormDomain
-Class: FormlessDomain
+Class: DesireRealm
+Class: FormRealm
+Class: FormlessRealm
 Class: HellDestiny
 Class: WholesomeKarma
 Class: DarshtantikaPosition
@@ -314,7 +315,7 @@ ObjectProperty: hasTemporalStageFixity
 ObjectProperty: hasMaturationFixity
 ObjectProperty: projectsContinuum
 ObjectProperty: fruitsWithinContinuum
-ObjectProperty: possibleInDomain
+ObjectProperty: possibleInRealm
 ObjectProperty: possibleInDestiny
 ObjectProperty: attributedTo
 

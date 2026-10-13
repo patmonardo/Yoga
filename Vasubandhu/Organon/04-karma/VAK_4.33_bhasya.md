@@ -4,17 +4,22 @@
 
 ```iast
 mithyācārātigarhyatvāt saukaryād akriyāptitaḥ /
-yathābhyupagamaṃ lābhaḥ saṃvarasya na saṃtateḥ // 4.33 //
+yathābhyupagamaṃ lābhaḥ saṃvarasya na saṃtate // 4.33 //
 ```
 
-> Because sexual misconduct is especially blameworthy, because
-> abstaining from it is practicable, and because non-performance is
-> acquired as restraint, restraint is acquired according to the
-> undertaking, not merely according to a person's continuum.
+> Abstention from sexual misconduct—rather than complete celibacy—is
+> established as the lay follower’s training rule because sexual misconduct
+> is especially blameworthy, because householders can practicably abstain from
+> it, and because noble persons acquire a fixed restraint of non-performance
+> with respect to it. The restraint acquired corresponds to the actual
+> undertaking: “I abstain from sexual misconduct.” It does not thereby become
+> an undertaking of complete celibacy extending through the person’s
+> continuum.
 
-The Kārikā witness reads `na saṃtate`, while the running Bhāṣya
-anchor reads `na saṃtateḥ`; this study follows the latter and does
-not silently resolve the difference. The natural unit runs from
+The Kārikā witness reads `na saṃtate`; the separate Bhāṣya citation
+reads `na saṃtateḥ` at [218|05]. The anchor above follows the
+Kārikā witness, while the translation follows the Bhāṣya's
+explanation; neither reading is silently normalized. The natural unit runs from
 [217|20–21] through [218|07–08] in
 `Vasubandhu/Sources/kosabhasya.txt`. The question about false
 speech at [218|09–10] opens the next discussion.

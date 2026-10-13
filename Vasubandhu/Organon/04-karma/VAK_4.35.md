@@ -186,12 +186,13 @@ present act is already occurring.
 ### Bhāṣya-informed study translation
 
 > Prātimokṣa restraint, which belongs to the desire realm, is acquired from
-> present objective bases with respect to all three stages of misconduct—the
-> root act, its preparation, and its aftermath—and with respect to both
+> presently existing Bases, Essences, and Principles with respect to all
+> three stages of misconduct—the root act, its preparation, and its
+> aftermath—and with respect to both
 > sentient and non-sentient bases and both naturally blameworthy and
 > prohibition-based faults. Meditation-born and uncontaminated restraints are
-> acquired only with respect to root karmapathas, but from bases belonging to
-> the past, present, and future.
+> acquired only with respect to root karmapathas, but from Bases, Essences,
+> and Principles belonging to the past, present, and future.
 
 The three stages, the two binary divisions, and the `skandha`–`āyatana`–
 `dhātu` account of temporal bases are determinations supplied by the Bhāṣya.

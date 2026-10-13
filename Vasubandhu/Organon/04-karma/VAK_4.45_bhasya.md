@@ -7,10 +7,12 @@ kṣemākṣemetarat karma kuśalākuśaletarat /
 puṇyāpuṇyam aniñjaṃ ca sukhavedyādi ca trayam // 4.45 //
 ```
 
-> Karma is secure, insecure, or neither: wholesome, unwholesome,
-> or indeterminate respectively. It is also meritorious,
-> demeritorious, or immovable, and is threefold according to
-> whether its result is experienced as pleasure, pain, or neither.
+> Wholesome karma is secure: it brings desirable maturation and conduces to
+> nirvāṇa by protecting from suffering. Unwholesome karma is insecure,
+> opposed to security both at the time and ultimately, and brings undesirable
+> maturation; indeterminate karma is neither. Karma is further classified as
+> meritorious, demeritorious, or immovable, and by whether its result is to be
+> experienced as pleasure, pain, or neither pleasure nor pain.
 
 At [227|04] in `Vasubandhu/Sources/kosabhasya.txt`, Vasubandhu
 explicitly begins explaining the karmas named in the sūtras.
@@ -63,8 +65,8 @@ remaining classes.
 Wholesome karma is secure: its maturation is desirable, and it
 leads toward the attainment of nirvāṇa, because it protects
 from suffering. Unwholesome karma is insecure, opposed to
-security both at the relevant time and ultimately; its
-maturation is undesirable. Karma that is other than these two
+security both at the time and ultimately; its maturation is
+undesirable. Karma that is other than these two
 is neither secure nor insecure. It is also other than wholesome
 and unwholesome karma: that is, it is indeterminate
 (`avyākṛta`).

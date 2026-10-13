@@ -7,9 +7,12 @@ nivṛtānivṛtābhyāṃ ca nātītābhyāṃ samanvitaḥ /
 asaṃvaro duścaritaṃ dauḥśīlyaṃ karma tatpathaḥ // 4.24 //
 ```
 
-> Nor is one endowed with past manifest actions that are obscured or
-> unobscured indeterminate. Non-restraint is also called bad conduct,
-> bad discipline, action, and an action-course.
+> No one remains endowed with past manifest action of either neutral kind,
+> obscured or unobscured, because the acquisition of such a weak dharma does
+> not continue. Non-restraint is also called misconduct because it is censured
+> and produces undesirable fruit, bad discipline because it opposes śīla,
+> karma because it is bodily and verbal action, and a path of action because it
+> belongs to the fundamental phase of the karmic course.
 
 The running Bhāṣya unit extends from [211|02] through the explanation
 of `karmapathaḥ` at [211|12] in

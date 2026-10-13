@@ -7,9 +7,13 @@ yāvajjīvaṃ samādānam ahorātraṃ ca saṃvṛteḥ /
 nāsaṃvaro 'sty ahorātraṃ na kilaivaṃ pragṛhyate // 4.27 //
 ```
 
-> Restraint is undertaken for life or for a day and night. Non-restraint
-> is not [ordinarily] established for a day and night, since, it is
-> said, it is not undertaken in that way.
+> The seven lifelong classes of prātimokṣa restraint are undertaken for the
+> duration of life, while upavāsa restraint is undertaken for one complete day
+> and night. Non-restraint is not ordinarily classified as a one-day-and-night
+> determination because no one is observed deliberately undertaking it in the
+> manner of upavāsa—although Vasubandhu concedes that, if someone genuinely
+> sought and undertook such non-restraint for a limited period, it would be
+> acquired.
 
 The running Bhāṣya unit begins with the question at [212|09–10] and
 ends with the Sautrāntika explanation at [213|10–11] in

@@ -16,7 +16,7 @@
 >
 > gatāsūn agatāsūṃś ca nānuśocanti paṇḍitāḥ || 2.11 ||
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 aśocyān anvaśocas tvam

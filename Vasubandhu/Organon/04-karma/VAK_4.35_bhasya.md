@@ -7,10 +7,14 @@ sarvobhayebhyaḥ kāmāpto vartamānebhya āpyate /
 maulebhyaḥ sarvakālebhyo dhyānānāsravasaṃvarau // 4.35 //
 ```
 
-> Desire-realm restraint is acquired from present bases across all
-> [three stages] and both [relevant divisions]. Meditation-born and
-> uncontaminated restraints are acquired from root karmic courses
-> across all times.
+> Prātimokṣa restraint, which belongs to the desire realm, is acquired from
+> presently existing Bases, Essences, and Principles with respect to all
+> three stages of misconduct—the root act, its preparation, and its
+> aftermath—and with respect to both sentient and non-sentient bases and both
+> naturally blameworthy and prohibition-based faults. Meditation-born and
+> uncontaminated restraints are acquired only with respect to root
+> karmapathas, but from Bases, Essences, and Principles belonging to the
+> past, present, and future.
 
 The running unit extends from the opening question at [219|11–12]
 through the correction about future restraint at [220|02–03] in
@@ -71,12 +75,12 @@ uncontaminated. If one of them is acquired from a given basis, are
 the other two acquired from it as well? No. What, then? “The
 desire-realm restraint is acquired from present bases across all
 and both.” The desire-realm restraint, that is, prātimokṣa, is
-acquired only from presently existing aggregates, Essences,
-and elements. “All” means the principal act, its preparation,
+acquired only from presently existing Bases, Essences,
+and Principles. “All” means the principal act, its preparation,
 and its aftermath. “Both” means bases designated sentient and
 non-sentient, and faults naturally blameworthy and blameworthy by
-prohibition. It is acquired from present aggregates, Essences,
-and elements only, because it operates with living beings as its
+prohibition. It is acquired from present Bases, Essences,
+and Principles only, because it operates with living beings as its
 support; past and future ones are not counted as living beings in
 that operative sense.
 
@@ -84,11 +88,11 @@ that operative sense.
 from root karmic courses across all times.” These two restraints
 are acquired only from the principal karmic courses, not their
 preparation or aftermath, still less from merely prohibited
-faults. They are acquired from aggregates, Essences, and
-elements belonging to all times, including past and future.
+faults. They are acquired from Bases, Essences, and
+Principles belonging to all times, including past and future.
 
 For this reason a four-cornered analysis is made. There are
-aggregates, elements, and Essences from which prātimokṣa
+Bases, Essences, and Principles from which prātimokṣa
 restraint alone is acquired, not the two higher restraints; and
 so on. The first corner comprises present bases connected with
 preparatory or subsequent stages and with faults blameworthy by
@@ -128,8 +132,8 @@ merely because all are called `saṃvara`.
 ## 5. Present Support, Future Restraint
 
 The final correction separates **acquisition from a basis** and
-**restraint of an action**. Present aggregates, Essences, and
-elements can ground acquisition of prātimokṣa; this does not mean
+**restraint of an action**. Present Bases, Essences, and
+Principles can ground acquisition of prātimokṣa; this does not mean
 an already occurring karmic course is being prevented at that
 instant. The action to be restrained lies ahead. The text's
 formula `vartamānādhiṣṭhānebhyaḥ` therefore controls the earlier

@@ -7,9 +7,14 @@ catuṣkoṭikam ity anye nikāyākṣepaṇaṃ tribhiḥ /
 sarvatra catur ākṣepaḥ śubhasya narake tridhā // 4.51 //
 ```
 
-> Others set out four alternatives. Three kinds project a rebirth
-> series. In general four kinds can be undertaken everywhere; for
-> wholesome karma in hell, there are three.
+> The Dārṣṭāntikas analyze karma through four alternatives by distinguishing
+> whether its temporal stage is fixed and whether maturation itself is fixed.
+> Of the four temporal kinds, three can project a future rebirth-continuum;
+> present-life-result karma cannot, since it fruits within the life already
+> established. All four kinds may generally be undertaken throughout the three
+> Realms and destinies as applicable. In hell, however, wholesome karma is only
+> threefold because present-life-result wholesome karma has no desirable
+> maturation there.
 
 The unit runs from [230|08] through the explanation of the hell
 exception at [230|24–25]. The next kārikā begins at [230|26].
@@ -84,9 +89,9 @@ those three actions here.
 
 “Three kinds project a rebirth series.” Of these four kinds of karma,
 present-life-result karma does not project a `nikāyasabhāga`, a
-continuum of the same class. In which domain, and in which destiny,
+continuum of the same class. In which Realm, and in which destiny,
 can how many kinds of karma be initiated? “Everywhere, four kinds
-can be initiated.” In all three domains and all destinies, the four
+can be initiated.” In all three Realms and all destinies, the four
 kinds can be initiated as wholesome or unwholesome, as applicable.
 There is an exception to this general rule: “For wholesome karma in
 hell, there are three.” In hell, three kinds of wholesome karma may
@@ -131,9 +136,9 @@ For the Practical Reason of our agent, this verse is a worked
 example of case classification. It keeps assurance of a result,
 temporal placement, initiation of action, and projection of a
 future series as separate questions. The hell case then tests a
-general rule against the conditions of a particular domain. This
+general rule against the conditions of a particular Realm. This
 is our methodological use of the passage; the source's claims
-remain about karma, domains, and destinies.
+remain about karma, Realms, and destinies.
 
 ## 7. Review Status
 

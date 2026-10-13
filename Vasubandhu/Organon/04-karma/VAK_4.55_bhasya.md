@@ -1,4 +1,4 @@
-# VAK 4.55 Bhāṣya — Present-Life Fruition and Complete Detachment
+# VAK 4.55 Bhāṣya — Present-Life Result and Complete Detachment
 
 ## 1. Kārikā Anchor
 
@@ -7,12 +7,16 @@ dṛṣṭadharmaphalaṃ karma kṣetrāśayaviśeṣataḥ /
 tadbhūmyatyantavairāgyād vipāke niyataṃ hi yat // 4.55 //
 ```
 
-> Karma may bear fruit in this life through a distinctive field or
-> intention; through complete detachment from its level, so too may
-> karma that is fixed with respect to maturation.
+> Karma may have its result in the present life because of an exceptional
+> recipient-field or exceptional underlying intention. It may also have its
+> result in the present life through complete detachment from the level to which
+> it belongs, but only if its maturation is certain and its temporal stage is
+> not fixed. Karma fixed to another stage matures there, so complete detachment
+> from that level cannot precede it; indeterminate karma instead fails to
+> mature through complete detachment.
 
 The unit opens with the question at [232|05] and ends at [232|15–16].
-The question about which fields guarantee present-life fruition at
+The question about which fields guarantee a present-life result at
 [232|17] begins the next unit.
 
 ## 2. Continuous Sanskrit
@@ -53,7 +57,7 @@ an independently verified event.
 ## 3. Continuous Conventional Translation
 
 What sort of karma should be understood as having a result in this
-life? “Karma has a present-life result because of a distinctive
+life? “Karma has a present-life result because of an exceptional
 field or intention.” Karma to be experienced in this life may arise
 through the special character of its field. Thus a change of bodily
 sex characteristics is reported after conduct involving speech
@@ -79,7 +83,7 @@ complete detachment brings non-maturation instead.
 
 ## 4. Three Routes, One Narrow Modal Rule
 
-The first half presents two grounds for present-life fruition:
+The first half presents two grounds for a present-life result:
 `kṣetraviśeṣa`, a special field, and `āśayaviśeṣa`, a special
 underlying intention. The Bhāṣya illustrates each with an inherited
 bodily-change account. Their function here is to exemplify the
@@ -91,7 +95,7 @@ from the karma's level. Vasubandhu immediately limits its scope:
 
 | Karma's status | Result of complete detachment in this account |
 |---|---|
-| Maturation fixed, time unfixed | Present-life fruition |
+| Maturation fixed, time unfixed | Present-life result |
 | Already fixed to another time | It matures at that time; prior complete detachment is excluded |
 | Maturation indeterminate | Non-maturation |
 
@@ -104,8 +108,8 @@ every pending karma ripen at once.
 For a case of outstanding karma, the question is first whether its
 result is fixed, then whether its time is already fixed, and only
 then what complete detachment from its level entails. The Bhāṣya
-uses these distinctions to decide between present fruition,
-fruition at its assigned stage, and no fruition. That is the
+uses these distinctions to decide between a present-life result,
+maturation at its assigned stage, and non-maturation. That is the
 practical precision of the passage.
 
 ## 6. Organon Contact Point

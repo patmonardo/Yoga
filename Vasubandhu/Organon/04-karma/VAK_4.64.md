@@ -14,7 +14,7 @@ aśaikṣaṃ kāyavākkarma manaś caiva yathākramam /
 maunatrayaṃ tridhā śaucaṃ sarvaṃ sucaritatrayam // 4.64 //
 ```
 
-Padapāṭha-style separation:
+Word division:
 
 ```iast
 a-śaikṣam kāya-vāk-karma manaḥ ca eva yathā-kramam /
@@ -43,11 +43,11 @@ sarvam
 sucarita-trayam
 ```
 
-| Form | Morphology | Lexical value here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `aśaikṣam` | nominative neuter singular | beyond training; belonging to the arhat |
 | `kāyavākkarma` | nominative neuter singular compound | bodily and verbal karma |
-| `manaḥ` | nominative neuter singular | mind |
+| `manaḥ` | nominative neuter singular | Mind |
 | `ca eva` | particles | and precisely; and also |
 | `yathākramam` | adverb | respectively; in order |
 | `maunatrayam` | nominative neuter singular compound | the three silences |
@@ -66,10 +66,10 @@ further remains to be cultivated: the arhat.
 ```text
 bodily karma
 verbal karma
-mind
+Mind
 ```
 
-The third member is `manas`, not `manaskarma`. The Bhāṣya makes this difference
+The third member is Mind (`manas`), not mental karma. The Bhāṣya makes this difference
 explicit and doctrinally decisive.
 
 **`mauna`**
@@ -90,11 +90,11 @@ yathā-kramam
 mauna-trayam [bhavati]
 ```
 
-> The bodily karma, verbal karma, and mind of the one beyond training are,
+> The bodily karma, verbal karma, and Mind of the one beyond training are,
 > respectively, the three silences.
 
 The Bhāṣya restricts `karma` to the bodily and verbal members. Mental silence
-is the restrained mind itself.
+is the restrained Mind itself.
 
 **Threefold purity**
 
@@ -110,35 +110,41 @@ indicates the whole extension of each.
 
 ## 5. Translation
 
-### Literal Translation
+### Scientific English Rendering
 
-> The bodily karma, verbal karma, and mind of one beyond training are,
+> The bodily karma, verbal karma, and Mind of one beyond training are,
 > respectively, the three silences. Threefold purity is the complete threefold
 > good conduct.
 
 ### Bhāṣya-informed study translation
 
-> Perfected bodily abstention and perfected verbal abstention in the arhat are
-> bodily and verbal silence; the arhat's restrained mind itself—not a supposed
-> mental manifestation parallel to bodily and verbal `vijñapti`—is mental
-> silence. The arhat is the sage in the highest sense because all afflictive
-> chatter has ceased. Bodily, verbal, and mental purity consist in the complete
-> corresponding forms of good conduct, which remove the stain of bad conduct
-> temporarily or completely.
+> The bodily and verbal actions, and the Mind, of one beyond training are
+> respectively the three silences. Threefold purity is the whole threefold
+> range of good conduct.
+
+The Bhāṣya specifies that bodily and verbal silence are the bodily and verbal
+karma of one beyond training, while the third is Mind itself, not mental
+karma. It calls consciousness the sage in the highest sense and says that
+consciousness is inferred from bodily and verbal karma. Since silence means
+abstention, Mind itself, when restrained, is called silence. The arhat
+qualifies because all afflictive chatter has ceased. Purity comprises all
+bodily, verbal, and mental good conduct, removing the stain of bad conduct
+temporarily or completely.
 
 The asymmetry of the mental member, absence of mental `vijñapti`, restriction
 to the arhat, and genetic definition of purity are supplied by the Bhāṣya.
 
 ## 6. Philosophical Translation
 
-> True silence is perfected activity whose afflictive Ground has ceased. Body
-> and speech manifest restraint through abstaining action; mind does not need a
-> fictitious inward `vijñapti`, because the restrained mind itself is the
-> inward silence from which those manifestations proceed. For another observer,
-> the epistemic direction reverses: bodily and verbal action are signs from
-> which the inward determination is inferred. Purity is likewise not an
-> immediate static quality but good conduct generated through removal of the
-> stain of bad conduct.
+> True silence is not blank muteness but perfected abstention. Bodily and
+> verbal karma can be abstentions by nature; mental silence is Mind itself
+> when restrained, not a third mental manifestation parallel to bodily and
+> verbal `vijñapti`. The Bhāṣya distinguishes this Mind from consciousness,
+> which it calls the sage in the highest sense and says is inferred from
+> bodily and verbal karma. Read through the Techne, this asymmetry lets inward
+> determination and outward evidence remain related without reducing one to
+> the other. Purity, likewise, is good conduct that removes the stain of bad
+> conduct, temporarily or completely.
 
 The inner is neither reduced to outward behavior nor sealed away from it.
 
@@ -159,7 +165,7 @@ These can be `virati-svabhāva`, abstention by nature.
 **Mental silence**
 
 ```text
-aśaikṣa mind itself
+the aśaikṣa Mind itself
     → mental silence
 
 not
@@ -172,11 +178,12 @@ bodily and verbal manifestation.
 **`cittaṃ hi paramārthamuniḥ`**
 
 ```text
-for mind is the sage in the highest sense
+for consciousness is the sage in the highest sense
 ```
 
 The inward condition is inferred from bodily and verbal karmas. Their outward
-appearance is evidence of mind, not a replacement for it.
+appearance is evidence from which consciousness is inferred, not a replacement
+for it.
 
 **Why only the arhat**
 
@@ -212,28 +219,25 @@ cleanliness.
 
 ## 8. Logical Determination
 
-**Ontological and epistemic directions**
+**Enumeration and inference**
 
 ```text
-ontological direction
-    restrained mind
-        → perfected bodily action
-        → perfected verbal action
-
-epistemic direction for another
+Bhāṣya's epistemic direction
     bodily and verbal action
         → inference
-        → restrained mind
+        → consciousness (citta)
 ```
 
-These directions are reciprocal without being identical.
+The passage identifies Mind itself as the third silence but says consciousness
+is inferred from bodily and verbal action. It does not state a direct causal
+sequence from restrained Mind to those actions.
 
 **No artificial symmetry**
 
 ```text
 body     → karma / vijñapti / abstention
 speech   → karma / vijñapti / abstention
-mind     → mind itself restrained
+Mind     → Mind itself restrained
 ```
 
 The triplicity does not license repetition of one mechanism at every level.
@@ -267,8 +271,8 @@ VAK 4.64 gives positive content to cessation:
 
 ```text
 kleśa-jalpa absent
-    → not blank mind
-    → mind as paramārtha-muni
+    → not blank Mind
+    → Mind as paramārtha-muni
     → perfected bodily and verbal restraint
 ```
 
@@ -284,7 +288,7 @@ protects the difference of levels.
 
 Another person does not directly inspect the inward determination. Body and
 speech provide its appearances; inference returns from those appearances to
-mind. This is a disciplined relation between inward Ground and outward sign.
+consciousness. This is a disciplined relation between inward Ground and outward sign.
 
 **Threshold into conduct**
 
@@ -309,6 +313,8 @@ Class: Person
 Class: Arhat
 Class: BeyondTraining
 Class: Mind
+Class: RestrainedMind
+Class: Consciousness
 Class: BodilyOrVerbalKarma
 Class: BodilyKarma
 Class: VerbalKarma
@@ -327,6 +333,7 @@ Class: Inference
 
 ObjectProperty: hasPathStatus
 ObjectProperty: hasMind
+ObjectProperty: hasConsciousness
 ObjectProperty: manifestsThrough
 ObjectProperty: inferredFrom
 ObjectProperty: constitutesSilence
@@ -335,6 +342,7 @@ ObjectProperty: removesStain
 
 Arhat SubClassOf Person
 Arhat SubClassOf BeyondTraining
+RestrainedMind SubClassOf Mind
 BodilyKarma SubClassOf BodilyOrVerbalKarma
 VerbalKarma SubClassOf BodilyOrVerbalKarma
 BodilySilence SubClassOf BodilyKarma
@@ -354,20 +362,21 @@ Rule: PerfectedSpeechConstitutesVerbalSilence
 
 Rule: RestrainedMindConstitutesMentalSilence
     Arhat(?p)
-    and Mind(?m)
+    and RestrainedMind(?m)
     and hasMind(?p, ?m)
     -> constitutesSilence(?m, MentalSilence)
 
-Rule: OutwardActionSupportsInferenceToMind
+Rule: OutwardActionSupportsInferenceToConsciousness
     Person(?p)
-    and hasMind(?p, ?m)
+    and Consciousness(?c)
+    and hasConsciousness(?p, ?c)
     and manifestsThrough(?p, ?k)
     and BodilyOrVerbalKarma(?k)
-    -> inferredFrom(?m, ?k)
+    -> inferredFrom(?c, ?k)
 
 Constraint: MentalSilenceIsNotMentalVijnapti
     MentalSilence
-    is Mind itself restrained
+    is Mind itself when restrained
     not a third manifestation parallel to bodily and verbal Vijnapti
 
 Constraint: TrueSilenceRequiresCessationOfAfflictiveChatter
@@ -379,5 +388,5 @@ Constraint: PurityIsCompleteGoodConduct
     constitute ThreefoldPurity
 ```
 
-The seed preserves the asymmetry between outward karmic silence and the mind
+The seed preserves the asymmetry between outward karmic silence and Mind
 itself as inward silence.

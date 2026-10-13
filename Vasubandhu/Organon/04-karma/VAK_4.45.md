@@ -76,7 +76,7 @@ indeterminate.
 **`vedya`**
 
 The gerundive `vedya` means “to be experienced.” It classifies karma by the
-feeling-character of its maturation, not necessarily by the feeling present
+kind of result to be experienced; it does not itself name the feeling present
 during the originating action.
 
 ## 4. Grammar
@@ -138,11 +138,11 @@ experienced as neither pain nor pleasure.
 ### Bhāṣya-informed study translation
 
 > Wholesome karma is secure: it brings desirable maturation and conduces to
-> nirvāṇa by protecting from suffering. Unwholesome karma is insecure, its
-> contrary, and brings undesirable maturation; indeterminate karma is neither.
-> Karma is further classified as meritorious, demeritorious, or immovable, and
-> according to whether its maturation is experienced as pleasure, pain, or
-> neither pleasure nor pain.
+> nirvāṇa by protecting from suffering. Unwholesome karma is insecure,
+> opposed to security both at the time and ultimately, and brings undesirable
+> maturation; indeterminate karma is neither. Karma is further classified as
+> meritorious, demeritorious, or immovable, and by whether its result is to be
+> experienced as pleasure, pain, or neither pleasure nor pain.
 
 The desirable and undesirable maturations, nirvāṇa-direction, protection from
 suffering, identification of the residual class as `avyākṛta`, and expansion
@@ -155,12 +155,12 @@ of the final triad are supplied by the Bhāṣya.
 > secure because its maturation is desirable and its ultimate tendency is
 > release from suffering; unwholesome action is its practical contrary;
 > indeterminate action falls under neither determination. The same karma-field
-> can then be divided on other grounds—merit and cosmological stability, or
-> the pleasure, pain, and neutrality through which maturation is experienced.
+> can then be classified on other grounds—merit, demerit, and immovability,
+> or the pleasure, pain, and neutrality through which a result is experienced.
 
 The verse therefore does not attach one abstract moral predicate to an
-isolated act. It begins a multidimensional determination of action by quality,
-causal direction, domain, and experienced result.
+isolated act. It begins a multidimensional determination of karma by ethical
+quality, karmic class, and kind of result to be experienced.
 
 ## 7. Technical Vocabulary
 
@@ -214,7 +214,7 @@ determined under this wholesome/unwholesome opposition.
 
 **`puṇya / apuṇya / aniñja`**
 
-This second triad concerns karmic production across cosmological domains. It
+This second triad concerns karmic production across cosmological realms. It
 must not simply be treated as a repetition of wholesome, unwholesome, and
 indeterminate. Its exact range follows in VAK 4.46.
 
@@ -222,16 +222,18 @@ indeterminate. Its exact range follows in VAK 4.46.
 
 ```text
 sukha-vedanīya
-    maturation to be experienced as pleasure
+    karma whose result is to be experienced as pleasure
 
 duḥkha-vedanīya
-    maturation to be experienced as pain
+    karma whose result is to be experienced as pain
 
 aduḥkhāsukha-vedanīya
-    maturation to be experienced as neither pain nor pleasure
+    karma whose result is to be experienced as neither pain nor pleasure
 ```
 
-The classification concerns the feeling that receives the matured result.
+`Vedanīya` means “to be experienced.” This is not the name of a
+feeling-Faculty, nor does it identify the experienced result with the volition
+(`cetanā`) of the originating act.
 
 ## 8. Logical Determination
 
@@ -265,37 +267,15 @@ claim that every wholesome act immediately produces nirvāṇa.
 |---|---|
 | Ethical-soteriological character | secure / insecure / neither = wholesome / unwholesome / indeterminate |
 | Karmic-cosmological mode | meritorious / demeritorious / immovable |
-| Felt maturation | pleasure / pain / neither |
+| Kind of result to be experienced | pleasure / pain / neither |
 
 The same karma may receive determinations along each axis. The verse does not
 enumerate nine unrelated substances.
 
-**Dhātu in application**
+**Realm distribution remains to be specified**
 
-Dhātu now operates as a differentiated field in which karmic causes and
-results have determinate ranges:
-
-```text
-karma
-    → arises within a domain
-    → has a domain-conditioned efficacy
-    → matures within a determinate field
-```
-
-VAK 4.46 will make this explicit for the desire, form, and formless domains.
-
-**Indriya in application**
-
-The final triad connects karmic maturation with the faculties of feeling:
-
-```text
-karma matures
-    → result is received as pleasure, pain, or neither
-```
-
-The karmic classification and the feeling-faculty are not identical. One
-determines the causal result; the other is the mode in which that result is
-experienced.
+The verse itself does not name Dhātu or specify the realm ranges of these
+classes. The following exposition supplies those determinations.
 
 ## 9. Interpretive Note
 
@@ -308,29 +288,19 @@ Abhidharma analysis
     form, acquisition, persistence, and bearer of karma
 
 Sūtra classifications
-    quality, domain, maturation, time, and experienced result
+    quality, realm, maturation, time, and experienced result
 ```
 
 The second movement does not abandon the first. It applies the established
 apparatus to action as classified in the sūtras.
 
-**Dhātu and Indriya must work together without collapsing**
+**Volition and experienced maturation are distinct moments**
 
-The new section tests whether the earlier architecture is complete:
-
-```text
-Dhātu
-    differentiates the fields and ranges of karmic operation
-
-Indriya
-    differentiates the capacities and modes through which maturation is lived
-
-Karma
-    connects action, field, maturation, and experience
-```
-
-Dhātu does not itself feel the result, and Indriya does not itself supply the
-whole causal classification. Their determinations meet in the application.
+Read alongside the earlier account of mental karma as `cetanā`, this
+classification does not relocate volition into the result. `Cetanā` belongs
+to the action-side; `vipāka` is maturation, and `vedanīya` classifies the
+kind of result to be experienced. This verse does not itself explain their
+causal interval or claim that an action's immediate feeling is its maturation.
 
 **Security is practical, not merely subjective**
 
@@ -338,18 +308,9 @@ whole causal classification. Their determinations meet in the application.
 direction of karma toward desirable maturation and protection from suffering.
 The Bhāṣya therefore gives a genuinely practical criterion for `kuśala`.
 
-**Meaning and Idea remain contextual translations of `artha`**
-
-This verse does not contain `artha`, but its method confirms why no single
-English equivalent can be imposed mechanically. Sanskrit terms receive their
-determinate Meaning from their function within a relation. Where `artha`
-names intelligible content, “Meaning” may be right; where it names a purposive
-determination governing realization, “Idea” may be right; and ordinary
-referent, purpose, or benefit remain possible in other constructions.
-
-This is the Organon contact. The definitions, consequences, and section
-transition belong to the Bhāṣya; the Dhātu–Indriya application and the note on
-`artha` are project interpretations.
+This is the Organon contact. The Bhāṣya's definitions and classifications
+remain distinct from the project connection between volition, maturation,
+and experienced result.
 
 ## 10. OWL++ Seed
 
@@ -370,15 +331,14 @@ Class: DesirableMaturation
 Class: UndesirableMaturation
 Class: Nirvana
 Class: Suffering
-Class: Domain
-Class: FeelingFaculty
+Class: Realm
 
 ObjectProperty: hasDefiningCharacter
 ObjectProperty: producesMaturation
 ObjectProperty: conducesTo
 ObjectProperty: protectsFrom
 ObjectProperty: contraryTo
-ObjectProperty: belongsToDomain
+ObjectProperty: belongsToRealm
 ObjectProperty: experiencedThrough
 
 SecureKarma EquivalentTo WholesomeKarma
@@ -408,13 +368,13 @@ Constraint: VedaniyaConcernsMaturation
     PleasantlyExperiencedKarma
     PainfullyExperiencedKarma
     and NeutrallyExperiencedKarma
-    classify the feeling of karmic maturation
-    not necessarily the feeling accompanying the originating action
+    classify the kind of karmic result to be experienced
+    not the volition of the originating action
 
 Constraint: ClassificationAxesRemainDistinct
     ethical character
     karmic-cosmological mode
-    and felt maturation
+    and kind of result to be experienced
     are distinct grounds of determination
 
 Constraint: BhasyaDefinitionRemainsAttributed

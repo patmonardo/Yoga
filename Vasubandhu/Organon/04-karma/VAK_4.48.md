@@ -1,4 +1,4 @@
-# VAK_4.48 — Neutral Maturation Below the Fourth Absorption
+# VAK_4.48 — Neutral Maturation Below the Fourth Dhyāna
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -130,13 +130,13 @@ three within the meditative hierarchy.
 
 > Some authorities maintain that karma whose maturation is experienced as
 > neither pain nor pleasure also occurs below the fourth dhyāna. The
-> intermediate dhyāna, which has neither pleasant nor painful feeling, requires
-> such a result; scripture also recognizes the simultaneous maturation of
-> pleasant-, painful-, and neutral-result karmas, something possible only in
-> the desire domain. The distribution stated in VAK 4.47 is therefore the
+> intermediate dhyāna, where neither pleasant nor painful feeling occurs, is
+> invoked as one ground; scripture also recognizes the simultaneous maturation
+> of pleasant-, painful-, and neutral-result karmas, something possible only in
+> the Desire Realm. The distribution stated in VAK 4.47 is therefore the
 > predominant rule rather than an exceptionless one.
 
-The simultaneous force of `apūrvācarama`, the desire-domain restriction, and
+The simultaneous force of `apūrvācarama`, the Desire-Realm restriction, and
 the qualification of the preceding rule as predominant are supplied by the
 Bhāṣya.
 
@@ -144,7 +144,7 @@ Bhāṣya.
 
 > A general classification must be revised when the concrete field presents a
 > boundary case. The intermediate dhyāna lacks the feelings assigned by the
-> neighboring categories, while the desire domain permits all three karmic
+> neighboring categories, while the Desire Realm permits all three karmic
 > result-types to mature together. The original law is not discarded; its
 > quantificational force is corrected from exceptionless universality to
 > predominance, and the extension of the neutral class becomes more adequate
@@ -183,7 +183,7 @@ neutral-result karma
 ```
 
 These three results can mature simultaneously. The Bhāṣya says this conjunction
-of all three maturations occurs only in the desire domain.
+of all three maturations occurs only in the Desire Realm.
 
 **`yugapat`**
 
@@ -227,7 +227,7 @@ assigned to one member.
 **Scriptural counterexample**
 
 ```text
-desire domain
+Desire Realm
     → simultaneous maturation of all three result-classes
     → neutral-result karma exists below the fourth dhyāna
 ```
@@ -257,7 +257,7 @@ Simultaneous actuality does not collapse the differences among the results.
 
 **Dhātu as concrete range**
 
-The desire domain is not defined here by one exclusive feeling-result. Its
+The Desire Realm is not defined here by one exclusive feeling-result. Its
 concrete structure can support the conjunction of all three:
 
 ```text
@@ -287,12 +287,13 @@ Neutral maturation is not restricted to a highest terminal position. As the
 middle determination, it can appear within the lower field when the concrete
 conditions exclude both pleasure and pain.
 
-**Dhātu permits differentiated coexistence**
+**The Desire-Realm field permits differentiated coexistence**
 
-The simultaneous desire-domain case strengthens the field interpretation of
-Dhātu. A field is not a homogeneous quality shared by everything within it.
-It is the systematic range in which distinct determinations can arise, relate,
-and become actual together.
+The simultaneous Desire-Realm case shows that a karmic field is not a
+homogeneous quality shared by everything within it. It is a systematic range
+in which distinct determinations can arise, relate, and become actual
+together. This is a project-level field interpretation, not a translation of
+`dhātu` as “field.”
 
 **Doctrinal restraint**
 
@@ -302,7 +303,7 @@ after `durbalaṃ tu tat` prevents us from forcing a complete sectarian
 resolution beyond what the witness supports.
 
 This is the Organon contact. The alternative views, śāstra rejection, sūtra
-distribution, desire-domain restriction, and `bāhulika` qualification belong
+distribution, Desire-Realm restriction, and `bāhulika` qualification belong
 to the Bhāṣya.
 
 ## 10. OWL++ Seed
@@ -315,7 +316,7 @@ Class: NeutralResultKarma
 Class: Maturation
 Class: SimultaneousMaturation
 Class: IntermediateDhyana
-Class: DesireDomain
+Class: DesireRealm
 Class: GeneralRule
 Class: PredominantRule
 Class: BoundaryCase
@@ -341,13 +342,13 @@ Rule: IntermediateDhyanaRequiresNeutralResultClass
     and occursIn(?k, IntermediateDhyana)
     -> NeutralResultKarma(?k)
 
-Rule: ThreeResultsCanMatureSimultaneouslyInDesireDomain
+Rule: ThreeResultsCanMatureSimultaneouslyInDesireRealm
     PleasantResultKarma(?p)
     and PainfulResultKarma(?d)
     and NeutralResultKarma(?n)
-    and occursIn(?p, DesireDomain)
-    and occursIn(?d, DesireDomain)
-    and occursIn(?n, DesireDomain)
+    and occursIn(?p, DesireRealm)
+    and occursIn(?d, DesireRealm)
+    and occursIn(?n, DesireRealm)
     -> maturesSimultaneouslyWith(?p, ?d)
     and maturesSimultaneouslyWith(?d, ?n)
 

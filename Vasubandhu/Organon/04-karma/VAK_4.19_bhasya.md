@@ -7,9 +7,10 @@ prātimokṣasthito nityam atyāgād vartamānayā /
 avijñaptyānvitaḥ pūrvāt kṣaṇād ūrdhvam atītayā // 4.19 //
 ```
 
-> One established in prātimokṣa restraint is continually endowed with
-> present avijñapti, so long as he has not abandoned it; after the first
-> moment, he is also endowed with past avijñapti.
+> One established in prātimokṣa restraint is continually endowed with present
+> avijñapti for as long as that restraint has not been relinquished. From the
+> moment following the first, he is also endowed with past avijñapti, likewise
+> so long as the restraint has not been relinquished.
 
 The complete running unit for this verse extends from [209|04] through
 [209|11–12] in `Vasubandhu/Sources/kosabhasya.txt`. The next sentence

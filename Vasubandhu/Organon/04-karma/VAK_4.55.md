@@ -1,4 +1,4 @@
-# VAK_4.55 — Present-Life Fruition and Complete Detachment
+# VAK_4.55 — Present-Life Result and Complete Detachment
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -21,7 +21,7 @@ dṛṣṭa-dharma-phalam karma kṣetra-āśaya-viśeṣataḥ /
 tad-bhūmi-atyanta-vairāgyāt vipāke niyatam hi yat //
 ```
 
-The Bhāṣya distinguishes three routes to present-life fruition: exceptional
+The Bhāṣya distinguishes three routes to a present-life result: exceptional
 field, exceptional intention, and complete detachment from the relevant level.
 
 ## 3. Lexical Analysis
@@ -62,12 +62,15 @@ develops the `guṇakṣetra` teaching of VAK 4.54.
 **`āśayaviśeṣa`**
 
 `Āśaya` is the underlying intention, disposition, or purposive orientation
-from which the action proceeds. Exceptional intention can accelerate fruition.
+from which the action proceeds. The Bhāṣya presents its exceptional character
+as a ground for a present-life result.
 
 **`atyantavairāgya`**
 
-Complete detachment permanently closes the relevant `bhūmi` as a possible
-future field of return and maturation.
+The rule concerns complete detachment from the `bhūmi` to which the karma
+belongs. Treating this as closure of a future field is an interpretive model;
+the Bhāṣya's stated consequence depends on the karma's maturation and temporal
+fixity.
 
 ## 4. Grammar
 
@@ -106,30 +109,31 @@ indeterminate.
 
 ### Literal Translation
 
-> Karma has its fruit in the present life because of an exceptional field or
+> Karma has its result in the present life because of an exceptional field or
 > intention; likewise through complete detachment from its corresponding level,
 > when it is fixed with respect to maturation.
 
 ### Bhāṣya-informed study translation
 
-> Karma may mature in the present life because its recipient-field is
-> exceptional or because the agent's underlying intention is exceptional.
-> Present fruition may also result from complete detachment from the level to
-> which the karma belongs, provided that maturation is necessary but its time
-> has not already been fixed to another life. If maturation is indeterminate,
-> closing that future field may instead prevent the karma from ever maturing.
+> Karma may have its result in the present life because of an exceptional
+> recipient-field or exceptional underlying intention. It may also have its
+> result in the present life through complete detachment from the level to which
+> it belongs, but only if its maturation is certain and its temporal stage is
+> not fixed. Karma fixed to another stage matures there, so complete detachment
+> from that level cannot precede it; indeterminate karma instead fails to
+> mature through complete detachment.
 
 The examples of exceptional field and intention and the exact modal limitation
 on the detachment rule are supplied by the Bhāṣya.
 
 ## 6. Philosophical Translation
 
-> A determined causal content may remain deferred only while a future field of
-> actualization remains open. When complete detachment permanently closes that
-> field, karma whose fruition is necessary but temporally unfixed must become
-> actual now. A merely possible fruition, however, can lapse when its field is
-> closed. The Path therefore discriminates between what must be resolved and
-> what can cease without result.
+> Complete detachment has different consequences for karmas with different
+> modal status. If maturation is certain but its temporal stage is unfixed,
+> detachment from the karma's level is accompanied by a present-life result. If
+> the stage is fixed elsewhere, the maturation remains assigned there; if
+> maturation is indeterminate, complete detachment is accompanied by
+> non-maturation.
 
 Exceptional field and exceptional intention supply two further routes by which
 causal power contracts the interval between action and actuality.
@@ -141,18 +145,19 @@ causal power contracts the interval between action and actuality.
 ```text
 exceptional recipient-field
     → intensified karmic relation
-    → present-life fruition
+    → present-life result
 ```
 
-The Bhāṣya gives a traditional report involving conduct directed toward a
-woman of the Saṅgha and a transformation of sexual characteristics. The report
-functions as an example of field-conditioned immediacy; its inherited bodily
-categories remain text-bound.
+The Bhāṣya reports a transformation of sexual characteristics associated with
+conduct involving speech about a woman connected to the Saṅgha. The source
+phrase is compressed, so the exact act and the woman's relation to the Saṅgha
+remain uncertain. The account exemplifies field-conditioned present-life
+result; its inherited bodily categories remain text-bound.
 
 **Exceptional intention**
 
 The second traditional example concerns a person classified by the source as
-`śaṇḍha` who releases bulls from castration and acquires male characteristics.
+`śaṇḍha` who releases cattle from castration and acquires male characteristics.
 Its doctrinal function is narrower than its inherited narrative form:
 
 ```text
@@ -171,11 +176,12 @@ avasthā-aniyata
     its temporal stage is not fixed
 ```
 
-Only this combination is accelerated by complete detachment.
+Under this rule, only this combination becomes present-life-result karma
+through complete detachment.
 
 **Karma fixed to another stage**
 
-If fruition is already fixed to a later temporal stage, it must occur there.
+If maturation is already fixed to a later temporal stage, it must occur there.
 The Bhāṣya says complete detachment from that level cannot take place before
 the scheduled maturation.
 
@@ -191,11 +197,11 @@ Closure does not force actuality where actuality was never necessary.
 
 ## 8. Logical Determination
 
-**Three routes to present fruition**
+**Three routes to a present-life result**
 
 ```text
-EXCEPTIONAL_FIELD(K)       → PRESENT_FRUIT(K)
-EXCEPTIONAL_INTENTION(K)   → PRESENT_FRUIT(K)
+EXCEPTIONAL_FIELD(K)       → PRESENT_LIFE_RESULT(K)
+EXCEPTIONAL_INTENTION(K)   → PRESENT_LIFE_RESULT(K)
 ```
 
 For field closure:
@@ -204,7 +210,7 @@ For field closure:
 VIPAKA_FIXED(K)
     + TEMPORAL_STAGE_UNFIXED(K)
     + COMPLETELY_DETACHED(agent, FIELD(K))
-    → PRESENT_FRUIT(K)
+    → PRESENT_LIFE_RESULT(K)
 ```
 
 **Indeterminate karma follows another rule**
@@ -212,7 +218,7 @@ VIPAKA_FIXED(K)
 ```text
 VIPAKA_UNFIXED(K)
     + FIELD_PERMANENTLY_CLOSED(K)
-    → FRUITION_MAY_NOT_OCCUR(K)
+    → MATURATION_MAY_NOT_OCCUR(K)
 ```
 
 **Three independent variables**
@@ -225,16 +231,17 @@ VIPAKA_UNFIXED(K)
 
 The outcome depends on their combination, not on “detachment” alone.
 
-**Prospective and retrospective effects of the Path**
+**Scope of the detachment rule**
 
 ```text
-prospective
-    detachment closes production of corresponding future karma
-
-retrospective
-    complete detachment resolves or cancels outstanding karma
-    according to its modal status
+complete detachment
+    changes the outcome of the karma under discussion
+    according to its maturation and temporal fixity
 ```
+
+This passage does not state that detachment prevents the production of future
+karma; it specifies the result of detachment for karma already classified by
+its modal status.
 
 ## 9. Interpretive Note
 
@@ -260,10 +267,10 @@ The Bhāṣya's modal discrimination is essential:
 
 ```text
 necessary karmic ground
-    must attain actuality
+    must mature
 
 indeterminate karmic ground
-    may cease without fruition
+    may fail to mature
 ```
 
 “Absolute” must therefore name the completeness of the grounding relation, not
@@ -271,13 +278,13 @@ the claim that every karmic tendency inevitably appears.
 
 **Closing a field changes the pending causal system**
 
-Complete detachment does more than forbid new projection. It reorganizes
-outstanding causal determinations: the necessary and temporally open become
-present; the unnecessary may lapse.
+Here complete detachment affects the maturation of outstanding karma according
+to its status: karma certain to mature but not fixed to another stage has a
+present-life result, while indeterminate karma may fail to mature.
 
 **Field and intention are equally real determinants**
 
-Present fruition can arise from the recipient-side or the agent-side of the
+Present-life result can arise from the recipient-side or the agent-side of the
 relation. Karma is neither purely subjective intention nor merely external
 contact with an object.
 
@@ -300,7 +307,7 @@ Class: Level
 Class: OpenField
 Class: PermanentlyClosedField
 Class: CompleteDetachment
-Class: Fruition
+Class: KarmicResult
 Class: NonMaturation
 
 ObjectProperty: directedTowardField
@@ -309,7 +316,7 @@ ObjectProperty: belongsToLevel
 ObjectProperty: closesField
 ObjectProperty: hasMaturationFixity
 ObjectProperty: hasTemporalStageFixity
-ObjectProperty: producesFruition
+ObjectProperty: producesKarmicResult
 
 PresentLifeResultKarma SubClassOf Karma
 MaturationFixedKarma SubClassOf Karma
@@ -317,19 +324,19 @@ MaturationUnfixedKarma SubClassOf Karma
 TemporalStageFixedKarma SubClassOf Karma
 TemporalStageUnfixedKarma SubClassOf Karma
 
-Rule: ExceptionalFieldCanProducePresentFruit
+Rule: ExceptionalFieldCanProducePresentLifeResult
     Karma(?k)
     and directedTowardField(?k, ?f)
     and ExceptionalField(?f)
     -> PresentLifeResultKarma(?k)
 
-Rule: ExceptionalIntentionCanProducePresentFruit
+Rule: ExceptionalIntentionCanProducePresentLifeResult
     Karma(?k)
     and proceedsFromIntention(?k, ?i)
     and ExceptionalIntention(?i)
     -> PresentLifeResultKarma(?k)
 
-Rule: ClosureAcceleratesNecessaryTemporallyOpenKarma
+Rule: ClosureYieldsPresentLifeResultForTemporallyUnfixedDeterminateKarma
     MaturationFixedKarma(?k)
     and TemporalStageUnfixedKarma(?k)
     and belongsToLevel(?k, ?x)
@@ -337,20 +344,20 @@ Rule: ClosureAcceleratesNecessaryTemporallyOpenKarma
     and CompleteDetachment(?d)
     -> PresentLifeResultKarma(?k)
 
-Constraint: ClosureDoesNotForceIndeterminateFruition
+Constraint: ClosureBringsNonMaturationForIndeterminateKarma
     MaturationUnfixedKarma
     plus PermanentlyClosedField
-    permits NonMaturation
+    -> NonMaturation
 
-Constraint: LaterStageFixedKarmaIsNotAccelerated
-    TemporalStageFixedKarma assigned to another life
-    is excluded from the complete-detachment acceleration rule
+Constraint: OtherStageFixedKarmaIsNotRedirected
+    TemporalStageFixedKarma assigned to another temporal stage
+    is excluded from the present-life-result rule
 
 Constraint: GroundIsModallyDifferentiated
     karmic Ground
-    may determine necessary Fruition
-    or only possible Fruition
+    may make maturation certain
+    or leave maturation indeterminate
 ```
 
-The seed distinguishes field closure from fruition necessity and prevents
-complete detachment from being modeled as indiscriminate acceleration.
+The seed distinguishes field closure from maturation certainty and does not
+model complete detachment as indiscriminate redirection of maturation.

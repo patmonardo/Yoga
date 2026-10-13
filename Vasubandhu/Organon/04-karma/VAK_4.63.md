@@ -14,7 +14,7 @@ anye narakavedyānyakāmavedyaṃ dvayaṃ viduḥ /
 dṛgdheyaṃ kṛṣṇam anye 'nyat kṛṣṇaśuklaṃ tu kāmajam // 4.63 //
 ```
 
-Padapāṭha-style separation:
+Word division:
 
 ```iast
 anye naraka-vedyam anya-kāma-vedyam dvayam viduḥ /
@@ -44,11 +44,11 @@ tu
 kāma-jam
 ```
 
-| Form | Morphology | Lexical value here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `anye` | nominative masculine plural | other teachers |
 | `narakavedyam` | nominative/accusative neuter singular compound | karma to be experienced in hell |
-| `anyakāmavedyam` | nominative/accusative neuter singular compound | karma to be experienced elsewhere in the desire domain |
+| `anyakāmavedyam` | nominative/accusative neuter singular compound | karma to be experienced elsewhere in the Desire Realm |
 | `dvayam` | accusative neuter singular | the pair; the two classes |
 | `viduḥ` | third-person plural perfect of `√vid` | they know; they hold |
 | `dṛgdheyam` | nominative/accusative neuter singular compound | to be abandoned by seeing |
@@ -56,11 +56,11 @@ kāma-jam
 | `anyat` | nominative/accusative neuter singular | the other; the remainder |
 | `kṛṣṇaśuklam` | nominative/accusative neuter singular | black-and-white |
 | `tu` | contrastive particle | but; whereas |
-| `kāmajam` | nominative/accusative neuter singular | produced in or belonging to the desire domain |
+| `kāmajam` | nominative/accusative neuter singular | produced in or belonging to the Desire Realm |
 
 **`anyakāmavedya`**
 
-The Bhāṣya specifies karma whose maturation is experienced in a desire-domain
+The Bhāṣya specifies karma whose maturation is experienced in a Desire-Realm
 destination other than hell.
 
 **`dṛgdheya`**
@@ -70,7 +70,7 @@ by seeing.
 
 **`anyat`**
 
-The Bhāṣya identifies the remainder as desire-domain karma to be abandoned by
+The Bhāṣya identifies the remainder as Desire-Realm karma to be abandoned by
 cultivation, `bhāvanāprahātavya`.
 
 ## 4. Grammar
@@ -87,7 +87,7 @@ viduḥ
 ```
 
 > Other teachers understand the pair as karma to be experienced in hell and
-> karma to be experienced elsewhere in the desire domain, respectively.
+> karma to be experienced elsewhere in the Desire Realm, respectively.
 
 The labels black and black-and-white are supplied from the established topic
 and correlated in order by the Bhāṣya.
@@ -104,30 +104,34 @@ kṛṣṇa-śuklam [viduḥ]
 ```
 
 > Still others call karma abandoned by seeing black; the remaining
-> desire-domain karma is black-and-white.
+> Desire-Realm karma is black-and-white.
 
 The repeated verb is understood. `Anyat` contrasts the cultivation-abandoned
 remainder with the seeing-abandoned class.
 
 ## 5. Translation
 
-### Literal Translation
+### Scientific English Rendering
 
 > Other teachers understand the pair as karma to be experienced in hell and
-> karma to be experienced elsewhere in the desire domain, respectively. Still
-> others call karma abandoned by seeing black; the remaining desire-domain
+> karma to be experienced elsewhere in the Desire Realm, respectively. Still
+> others call karma abandoned by seeing black; the remaining Desire-Realm
 > karma is black-and-white.
 
 ### Bhāṣya-informed study translation
 
-> According to one group of teachers, black karma is karma whose maturation is
-> experienced in hell, where only unwholesome karma matures; black-and-white
-> karma is karma experienced elsewhere in the desire domain, where both
-> wholesome and unwholesome karma mature. According to another group, karma
-> abandoned by the Path of Seeing is black because it is unmixed with
-> wholesome karma, while the remaining desire-domain karma—what is abandoned
-> through cultivation—is black-and-white because it includes both wholesome
-> and unwholesome forms.
+> Other teachers understand the pair as karma to be experienced in hell and
+> karma to be experienced elsewhere in the Desire Realm, respectively. Still
+> others call karma abandoned by seeing black; the remaining Desire-Realm
+> karma is black-and-white.
+
+The first group correlates the pair with black and black-and-white karma,
+respectively. In hell, only unwholesome karma matures; elsewhere in the
+Desire Realm, both wholesome and unwholesome karma mature. The second group
+calls karma abandoned by the Path of Seeing black because it is unmixed with
+wholesome karma. The remaining Desire-Realm karma is abandoned through
+cultivation and is black-and-white because it comprises both wholesome and
+unwholesome karma.
 
 The grounds supplied for both alternatives and the identification of the
 remainder are supplied by the Bhāṣya.
@@ -153,7 +157,7 @@ hell
     only unwholesome karma matures
     → hell-result karma called black
 
-other desire-domain destinations
+other Desire-Realm destinations
     wholesome and unwholesome karma mature
     → their result-field called black-and-white
 ```
@@ -211,7 +215,7 @@ The term alone underdetermines the taxonomy.
 
 ```text
 PRINCIPAL_4_60(K)
-    grounds color in ethical/domain constitution
+    grounds color in ethical character and continuum-relative intermixture
 
 ALTERNATIVE_A(K)
     grounds color in maturation-field
@@ -299,7 +303,7 @@ Class: Karma
 Class: BlackKarma
 Class: BlackWhiteKarma
 Class: HellResultKarma
-Class: OtherDesireDomainResultKarma
+Class: OtherDesireRealmResultKarma
 Class: SeeingAbandonedKarma
 Class: CultivationAbandonedKarma
 Class: Classification
@@ -311,7 +315,7 @@ Class: BlackWhiteUnderMaturationField
 Class: BlackUnderAbandonmentMode
 Class: BlackWhiteUnderAbandonmentMode
 Class: Hell
-Class: DesireDomainDestination
+Class: OtherDesireRealmDestination
 Class: PathOfSeeing
 Class: PathOfCultivation
 Class: OtherTeachersPosition
@@ -323,7 +327,7 @@ ObjectProperty: includesEthicalClass
 ObjectProperty: attributedTo
 
 HellResultKarma SubClassOf Karma
-OtherDesireDomainResultKarma SubClassOf Karma
+OtherDesireRealmResultKarma SubClassOf Karma
 SeeingAbandonedKarma SubClassOf Karma
 CultivationAbandonedKarma SubClassOf Karma
 
@@ -332,8 +336,9 @@ Rule: HellResultIsBlackUnderFieldClassification
     and maturesIn(?k, Hell)
     -> classifiedBy(?k, BlackUnderMaturationField)
 
-Rule: OtherDesireResultIsMixedUnderFieldClassification
-    OtherDesireDomainResultKarma(?k)
+Rule: OtherDesireRealmResultIsMixedUnderFieldClassification
+    OtherDesireRealmResultKarma(?k)
+    and maturesIn(?k, OtherDesireRealmDestination)
     -> classifiedBy(?k, BlackWhiteUnderMaturationField)
 
 Rule: SeeingAbandonedIsBlackUnderPathClassification
