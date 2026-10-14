@@ -7,9 +7,13 @@ aśubhasya śubhādyā dve trīṇi catvāry anukramam /
 avyākṛtasya dve trīṇi trīṇi caite śubhādayaḥ // 4.89 //
 ```
 
-> For unwholesome action, results beginning with the wholesome are
-> respectively two, three, and four. For indeterminate action, these results
-> beginning with the wholesome are two, three, and three.
+> Wholesome dharmas stand to unwholesome action through activity-produced
+> and dominant results; unwholesome dharmas through corresponding,
+> activity-produced, and dominant results; and indeterminate dharmas through
+> maturation, corresponding, activity-produced, and dominant results.
+> Wholesome dharmas stand to indeterminate action through activity-produced
+> and dominant results; both unwholesome and indeterminate dharmas stand to
+> it through corresponding, activity-produced, and dominant results.
 
 Together with 4.88, this verse completes a three-by-three matrix relating the
 ethical quality of action to the ethical quality of dharmas functioning as
@@ -39,28 +43,27 @@ as the dual `puruṣakārādhipatiphale`. At `[256|16–17]`, the compressed
 `avyākṛtayordṛṣṭyoniḥrṣyandaphalam` is segmented and normalized as
 `avyākṛtayor dṛṣṭyor niṣyandaphalam`.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Scientific English Rendering
 
-For unwholesome action, results beginning with the wholesome are two, three,
-and four respectively.
+For unwholesome action, the result counts for dharmas beginning with
+wholesome are two, three, and four, respectively.
 
 Wholesome dharmas stand as two results of unwholesome action: the
 activity-produced and dominant results. Unwholesome dharmas stand as three
 results, with maturation and disconnection excluded. Indeterminate dharmas
-stand as four results, with disconnection excluded. For the indeterminate
-views of a real personality and of grasping an extreme are corresponding
-results of the pervasive unwholesome dharmas and of those abandoned by seeing
-suffering.
+stand as four results, with disconnection excluded. The indeterminate
+personality-view and extreme-view are corresponding results of pervasive
+unwholesome dharmas and of dharmas abandoned by seeing suffering.
 
-For indeterminate action, these same classes beginning with wholesome results
-are two, three, and three.
+For indeterminate action, these same result-quality classes have two, three,
+and three results, respectively.
 
 Wholesome dharmas stand as two results of indeterminate action: the
 activity-produced and dominant results. Unwholesome dharmas stand as three
-results, with maturation and disconnection excluded. For the unwholesome
-dharmas abandoned by seeing suffering and the other truths are corresponding
-results of the two indeterminate views. Indeterminate dharmas stand under
-these same three result relations.
+results, with maturation and disconnection excluded. Unwholesome dharmas
+abandoned by seeing suffering and the other truths are corresponding results
+of the two indeterminate views. Indeterminate dharmas stand under these same
+three result-relations.
 
 ## 4. The Completed Count Matrix
 
@@ -73,7 +76,7 @@ Across 4.88–4.89, the counts are:
 | indeterminate | 2 | 3 | 3 |
 
 These numbers are compressed references to subsets of the five result
-relations. They are not quantities of karmic reward or punishment.
+relations. They do not measure reward or punishment.
 
 ## 5. Exact Relation Matrix
 
@@ -160,7 +163,7 @@ The indeterminate row demonstrates this strongly. Indeterminate action can:
 
 Ethical nonclassification therefore coexists with exact causal typing.
 
-## 9. Organon Contact Point
+## 9. Interpretation
 
 This is a genuine agent architecture table. The correct primitive is a typed
 edge:

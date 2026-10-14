@@ -9,9 +9,9 @@
 
 ## 2. Sanskrit (IAST)
 
-```text
-cakṣuḥ-śrotra-manaś-cittair anubhūtaṃ tribhiś ca yat /
-tad dṛṣṭa-śruta-vijñātaṃ mataṃ coktaṃ yathākramam // 4.75 //
+```iast
+cakṣuḥ śrotramanaścittairanubhūtaṃ tribhiśca yat /
+taddṛṣṭaśrutavijñātaṃ mataṃ coktaṃ yathākramam // 4.75 //
 ```
 
 ## 3. Lexical Analysis
@@ -23,14 +23,14 @@ tat | dṛṣṭam | śrutam | vijñātam | matam | ca |
 uktam | yathā-kramam
 ```
 
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
-| `cakṣuḥ` | compound member | eye; visual basis |
-| `śrotra` | compound member | ear; auditory basis |
-| `manas` | compound member | mind; mental basis |
-| `cittaiḥ` | instrumental plural | by the corresponding cognitions or knowledge-events |
+| `cakṣuḥ` | compound member | eye |
+| `śrotra` | compound member | ear |
+| `manas` | compound member | Mind |
+| `cittaiḥ` | instrumental plural of `citta` | through consciousness associated with eye, ear, and Mind |
 | `anubhūtam` | nominative neuter singular past participle | experienced; undergone |
-| `tribhiḥ` | instrumental plural | by the three remaining cognitions |
+| `tribhiḥ` | instrumental plural | through the three remaining consciousnesses |
 | `yat ... tat` | correlative pronouns | whatever ... that |
 | `dṛṣṭam` | nominative neuter singular | seen |
 | `śrutam` | nominative neuter singular | heard |
@@ -41,21 +41,22 @@ uktam | yathā-kramam
 
 **The sixfold field**
 
-The Bhāṣya expands the compressed instrumental structure into six kinds of
-knowledge:
+The kārikā names consciousness associated with the eye, ear, and Mind, then
+three further consciousnesses. The Bhāṣya interprets this compact structure
+through six kinds of Cognition (`vijñāna`):
 
 ```text
-eye-knowledge
-ear-knowledge
-mind-knowledge
-nose-knowledge
-tongue-knowledge
-body-knowledge
+visual Cognition
+auditory Cognition
+Mind-Cognition
+olfactory Cognition
+gustatory Cognition
+tactile Cognition
 ```
 
-The verse distributes these across four conventional expressions. `Vijñāna`
-in the Bhāṣya is rendered here as knowledge, in accordance with the project's
-controlled vocabulary.
+The verse distributes these through four conventional expressions. The
+distinction between the kārikā's `citta` and the Bhāṣya's `vijñāna` is
+preserved: consciousness is not silently rendered as Cognition.
 
 ## 4. Grammar
 
@@ -63,10 +64,8 @@ controlled vocabulary.
 
 ```text
 yat
-    cakṣuḥ-cittena anubhūtam
-    śrotra-cittena anubhūtam
-    manaś-cittena anubhūtam
-    tribhiḥ ca anubhūtam
+    through consciousness associated with the eye, ear, and Mind
+    through the three remaining consciousnesses
 
 tat
     dṛṣṭam
@@ -76,17 +75,18 @@ tat
     yathākramam uktam
 ```
 
-> Whatever is experienced by eye-, ear-, and mind-knowledge and by the three
-> remaining knowledges is called seen, heard, known, and thought,
-> respectively.
+> What is experienced through consciousness associated with the eye, ear,
+> and Mind, and through the three other consciousnesses, is called seen,
+> heard, known, and thought, respectively.
 
-`Yathākramam` requires an ordered correspondence. The Bhāṣya fixes it as:
+`Yathākramam` requires an ordered correspondence. The Bhāṣya states the
+Vaibhāṣika allocation in terms of six Cognitions:
 
 ```text
-eye-knowledge                  → seen
-ear-knowledge                  → heard
-mind-knowledge                 → known
-nose-, tongue-, body-knowledge → thought
+visual Cognition                         → seen
+auditory Cognition                       → heard
+Mind-Cognition                           → known
+olfactory, gustatory, tactile Cognition  → thought
 ```
 
 The last collective allocation is explicitly identified as the Vaibhāṣika
@@ -94,18 +94,21 @@ account in the prose.
 
 ## 5. Translation
 
-### Literal Translation
+### Scientific English Rendering
 
-> Whatever is experienced by eye-, ear-, and mind-knowledge and by the three
-> remaining knowledges is called, respectively, seen, heard, known, and
-> thought.
+> What is experienced through consciousness associated with the eye, ear,
+> and Mind, and through the three other consciousnesses, is called seen,
+> heard, known, and thought, respectively.
 
 ### Bhāṣya-informed study translation
 
-> According to the Vaibhāṣika allocation stated by the Kārikā, what is
-> experienced through visual knowledge is called seen; through auditory
-> knowledge, heard; through mental knowledge, known; and through olfactory,
-> gustatory, or bodily knowledge, thought. The Bhāṣya then challenges the
+> What is experienced through consciousness associated with the eye, ear,
+> and Mind, and through the three other consciousnesses, is called seen,
+> heard, known, and thought, respectively.
+>
+> The Bhāṣya interprets this through the Vaibhāṣika allocation: visual
+> Cognition is called seen; auditory Cognition, heard; Mind-Cognition, known;
+> and olfactory, gustatory, or tactile Cognition, thought. It then challenges the
 > scriptural and classificatory proof offered for this table and records
 > alternative accounts in which the four expressions are determined by the
 > mode of access: direct sensory presence, report from another, reasoning or
@@ -118,11 +121,11 @@ alternative definitions all belong to the Bhāṣya.
 
 > Truthful speech requires a determination of the sense in which a matter is
 > seen, heard, thought, or known. One account fixes these expressions by the
-> cognitive basis or object-field; competing accounts fix them by how the
+> cognitive basis or Condition-field; competing accounts fix them by how the
 > speaker has gained access to the matter. The passage therefore does not
 > deliver a single unchallenged epistemic table. It exposes a question about
-> the ground of differentiation: are the predicates licensed by faculty and
-> object, or by the agent's mode of access?
+> the ground of differentiation: are the predicates licensed by Faculty and
+> Condition, or by the agent's mode of access?
 
 The logical movement is:
 
@@ -172,7 +175,7 @@ kāya-vijñāna
 ```
 
 The Vaibhāṣikas argue that odor, taste, and tangibles must receive `mata`
-because the other three object-fields have been assigned to seen, heard, and
+because the other three Conditions have been assigned to seen, heard, and
 known.
 
 **`Pratyakṣa` / `pratyakṣīkṛta` — directly apprehended**
@@ -226,7 +229,7 @@ inward direct realization → known
 ```
 
 Under this account, one sensory object can receive different predicates
-according to how the speaker stands in relation to it. The sixth object-field
+according to how the speaker stands in relation to it. The sixth Condition
 is excluded only from direct visual “seen,” not from all four expressions.
 
 **The earlier-teacher variant**
@@ -245,7 +248,7 @@ This resembles Model B but should not be silently identified with it.
 The Vaibhāṣikas cite a sūtra that speaks of merely the seen in the seen,
 merely the heard in the heard, and so forth. The Bhāṣya's criticism is that
 the passage has another purpose: preventing the superimposition of agreeable
-and disagreeable signs upon the sixfold object-field, not defining a technical
+and disagreeable signs upon the sixfold Condition field, not defining a technical
 four-term table.
 
 ```text
@@ -283,7 +286,7 @@ The decisive philosophical question is not which table is easiest to encode,
 but what relation generates the four distinctions:
 
 ```text
-fixed cognitive basis and object-field?
+fixed cognitive basis and Condition?
 
 or
 
@@ -299,7 +302,7 @@ The scriptural criticism gives a general discipline: identical words can
 perform different work in different arguments. The sūtra's practical aim must
 be determined before its terms are extracted as technical definitions.
 
-This is the Organon contact. The Vaibhāṣika table, scriptural rationale,
+This is the project's interpretive synthesis. The Vaibhāṣika table, scriptural rationale,
 criticism, alternative accounts, and earlier-teacher account belong to the
 Bhāṣya; the explicit contrast between two grounds of differentiation is the
 project synthesis.
@@ -312,7 +315,7 @@ Class: Seen
 Class: Heard
 Class: Thought
 Class: Known
-Class: KnowledgeBasis
+Class: CognitionBasis
 Class: ModeOfAccess
 Class: VaibhasikaAllocation
 Class: AlternativeAccessAllocation
@@ -333,19 +336,19 @@ Thought SubClassOf ConventionalExpression
 Known SubClassOf ConventionalExpression
 
 Rule: VaibhasikaVisualAllocation
-    experiencedThrough(?x, EyeKnowledge)
+    experiencedThrough(?x, VisualCognition)
     -> designatedAs(?x, Seen)
 
 Rule: VaibhasikaAuditoryAllocation
-    experiencedThrough(?x, EarKnowledge)
+    experiencedThrough(?x, AuditoryCognition)
     -> designatedAs(?x, Heard)
 
 Rule: VaibhasikaMentalAllocation
-    experiencedThrough(?x, MindKnowledge)
+    experiencedThrough(?x, MindCognition)
     -> designatedAs(?x, Known)
 
 Rule: VaibhasikaRemainingSenseAllocation
-    experiencedThrough(?x, NoseOrTongueOrBodyKnowledge)
+    experiencedThrough(?x, OlfactoryGustatoryOrTactileCognition)
     -> designatedAs(?x, Thought)
 
 Constraint: CompetingAllocationsRemainDistinct

@@ -3,179 +3,120 @@
 ## 1. Kārikā Anchor
 
 ```iast
-trīṇi catvāri caikaṃ ca dṛggheyasya tadādayaḥ /
-te dve catvāry atha trīṇi bhāvanāheyakarmaṇaḥ // 4.93 //
+trīṇi catvāri caikaṃ ca dṛg-gheyasya tad-ādayaḥ /
+te dve catvāry atha trīṇi bhāvanā-heya-karmaṇaḥ // 4.93 //
 ```
 
-> For action abandoned through seeing, result-dharmas beginning with that
-> class are respectively three, four, and one. For action abandoned through
-> cultivation, those same classes are respectively two, four, and three.
-
-The ordered result classes are: abandoned through seeing, abandoned through
-cultivation, and not abandoned. The verse gives two source rows; the third
-source row begins after the 4.93 boundary.
+> Action to be abandoned through seeing has result-dharmas to be abandoned
+> through seeing as three results, excluding maturation and disconnection;
+> result-dharmas to be abandoned through cultivation as four results,
+> excluding disconnection; and dharmas not to be abandoned as one result:
+> the dominant result. Action to be abandoned through cultivation has
+> result-dharmas to be abandoned through seeing as two results:
+> activity-produced and dominant; result-dharmas to be abandoned through
+> cultivation as four results, excluding disconnection; and dharmas not to
+> be abandoned as three results, excluding maturation and the corresponding
+> result.
 
 ## 2. Continuous Sanskrit
 
 ```iast
-trīṇi catvāri caikaṃ ca dṛggheyasya tadādayaḥ /
+trīṇi catvāri caikaṃ ca dṛg-gheyasya tad-ādayaḥ /
 
 darśanaheyasya karmaṇo darśanaheyā dharmās trīṇi phalāni,
-vipākavisaṃyogaphale hitvā; bhāvanāheyāś catvāri, visaṃyogaphalaṃ hitvā;
-apraheyā ekam adhipatiphalam.
+vipākavisaṃyogaphale hitvā; bhāvanāheyāś catvāri,
+visaṃyogaphalaṃ hitvā; apraheyā ekam adhipatiphalam.
 
 te dve catvāry atha trīṇi bhāvanāheyakarmaṇaḥ // 4.93 //
 
 bhāvanāheyasya karmaṇo darśanaheyā dharmā dve,
-puruṣakārādhipatiphale; bhāvanāheyāś catvāri, visaṃyogaphalaṃ muktvā;
-apraheyās trīṇi, vipākaniṣyandaphale muktvā.
+puruṣakārādhipatiphale; bhāvanāheyāś catvāri,
+visaṃyogaphalaṃ muktvā; apraheyās trīṇi,
+vipākaniṣyandaphale muktvā.
 ```
 
-The witness compresses `vipākavisaṃyogaphalehitvā` at `[257|18]`; it is
-segmented above without changing the reading. `Dṛggheya` in the kārikā and
-`darśanaheya` in the prose name the same seeing-abandonable class.
+The source unit is `[257|17]–[257|22]`. The prose distributes each count
+over the same three target classes. The kārikā's `dṛg-gheya` and the prose's
+`darśanaheya` refer here to the same class.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Scientific English Rendering
 
-For action abandoned through seeing, dharmas abandoned through seeing stand
-as three results, with maturation and disconnection excluded. Dharmas
-abandoned through cultivation stand as four results, with disconnection
-excluded. Dharmas that are not abandoned stand as one result: the dominant
-result.
+For action to be abandoned through seeing, dharmas to be abandoned through
+seeing are three results, with maturation and disconnection excluded.
+Dharmas to be abandoned through cultivation are four results, with
+disconnection excluded. Dharmas not to be abandoned are one result: the
+dominant result.
 
-For action abandoned through cultivation, dharmas abandoned through seeing
-stand as two results: the activity-produced and dominant results. Dharmas
-abandoned through cultivation stand as four results, with disconnection
-excluded. Dharmas that are not abandoned stand as three results, with
-maturation and correspondence excluded.
+For action to be abandoned through cultivation, dharmas to be abandoned
+through seeing are two results: activity-produced and dominant. Dharmas to
+be abandoned through cultivation are four results, with disconnection
+excluded. Dharmas not to be abandoned are three results, with maturation and
+the corresponding result excluded.
 
-## 4. The Three Abandonment Classes
+## 4. The Seeing-abandonable-action Row
 
-The matrix uses three determinations:
+| Result-dharma status | Number | Included results | Excluded results |
+|---|---:|---|---|
+| to be abandoned through seeing | 3 | corresponding, activity-produced, dominant | maturation, disconnection |
+| to be abandoned through cultivation | 4 | maturation, corresponding, activity-produced, dominant | disconnection |
+| not to be abandoned | 1 | dominant | maturation, corresponding, disconnection, activity-produced |
 
-```text
-darśanaheya   abandoned through seeing
-bhāvanāheya   abandoned through cultivation
-apraheya      not abandoned
-```
+The three-result profile excludes maturation and disconnection; the
+four-result profile excludes disconnection alone. The final cell is
+identified explicitly as the dominant result.
 
-“Abandoned through seeing” refers to dharmas removed through insight into the
-Truths. “Abandoned through cultivation” refers to dharmas removed through the
-subsequent cultivation of the Path. “Not abandoned” includes dharmas for
-which abandonment is not the applicable relation.
+## 5. The Cultivation-abandonable-action Row
 
-These are functional Path classifications. `Apraheya` does not mean a defect
-that can never be removed; it means the dharma is not itself an object to be
-abandoned under these two modes.
+| Result-dharma status | Number | Included results | Excluded results |
+|---|---:|---|---|
+| to be abandoned through seeing | 2 | activity-produced, dominant | maturation, corresponding, disconnection |
+| to be abandoned through cultivation | 4 | maturation, corresponding, activity-produced, dominant | disconnection |
+| not to be abandoned | 3 | disconnection, activity-produced, dominant | maturation, corresponding |
 
-## 5. Seeing-abandonable Action
+Here the third cell is the three-result set: excluding maturation and the
+corresponding result leaves disconnection, activity-produced, and dominant.
+Its membership therefore differs from the equal-count seeing-to-seeing
+cell.
 
-The first row is:
+## 6. The Partial Directed Matrix
 
-| Result-dharma class | Number | Included relations |
-|---|---:|---|
-| seeing-abandonable | 3 | correspondence, activity-produced, dominant |
-| cultivation-abandonable | 4 | maturation, correspondence, activity-produced, dominant |
-| non-abandonable | 1 | dominant |
-
-Seeing-abandonable action continues into similar seeing-abandonable dharmas,
-but cannot give them as maturation or disconnection. It can stand in four
-relations to cultivation-abandonable dharmas, including maturation. Relative
-to non-abandonable dharmas, only dominance remains.
-
-The one-result final cell prevents a false inference that an action removed
-through seeing directly produces a non-abandonable Path result. It may
-condition such a dharma within the total field, but it does not generate it
-through maturation, correspondence, disconnection, or direct activity.
-
-## 6. Cultivation-abandonable Action
-
-The second row is:
-
-| Result-dharma class | Number | Included relations |
-|---|---:|---|
-| seeing-abandonable | 2 | activity-produced, dominant |
-| cultivation-abandonable | 4 | maturation, correspondence, activity-produced, dominant |
-| non-abandonable | 3 | disconnection, activity-produced, dominant |
-
-The same-class cell contains the familiar contaminated four-result profile:
-everything except disconnection. The cross-relation back to
-seeing-abandonable dharmas lacks both maturation and correspondence; only
-production and dominance remain.
-
-Toward non-abandonable dharmas, disconnection becomes available while
-maturation and correspondence disappear. Cultivation can perform the
-abandoning operation through which a non-abandonable result such as release
-stands in the disconnection relation.
-
-## 7. The Partial Directed Matrix
-
-The two rows established by this verse are:
-
-| Action ↓ / Result → | Seeing-abandonable | Cultivation-abandonable | Non-abandonable |
+| Action status ↓ / Result status → | Seeing-abandonable | Cultivation-abandonable | Not to be abandoned |
 |---|---|---|---|
-| seeing-abandonable | N, P, A | M, N, P, A | A |
-| cultivation-abandonable | P, A | M, N, P, A | V, P, A |
+| seeing-abandonable | corresponding, activity-produced, dominant | maturation, corresponding, activity-produced, dominant | dominant |
+| cultivation-abandonable | activity-produced, dominant | maturation, corresponding, activity-produced, dominant | disconnection, activity-produced, dominant |
 
-where:
+The two rows are directed. Their result-sets cannot be inferred by reversing
+the action and result statuses, and equal counts do not entail equal
+memberships.
 
-```text
-M = maturation
-N = correspondence
-V = disconnection
-P = activity-produced
-A = dominant
-```
+## 7. The Ordered Abandonment Classes
 
-The matrix is directed. Seeing and cultivation name different mechanisms of
-removal, and reversing source and target changes the permitted result types.
-
-## 8. Path Genesis in the Matrix
-
-The structure displays a progression:
+The Bhāṣya applies the kārikā's first and second action classes to one
+continuing result sequence:
 
 ```text
-seeing identifies and removes principial error
-    ↓
-cultivation removes the remaining habituated determinations
-    ↓
-disconnection can stand as a non-abandonable result
+darśanaheya   to be abandoned through seeing
+bhāvanāheya   to be abandoned through cultivation
+apraheya      not to be abandoned
 ```
 
-This does not reduce the Path to temporal stages alone. Each cell specifies
-how action at one abandonment status can causally relate to dharmas at another
-status. The genetic order is expressed through typed efficacy.
+These are status terms in the result classification. The matrix records
+which result-relations obtain between an action of one status and dharmas of
+another; it does not equate an action with the operation that abandons them.
 
-## 9. Organon Contact Point
+## 8. Interpretation
 
-The Causal Algebra gains a transformation-status coordinate:
+The abandonment-status matrix makes result a relation between ordered
+determinations, not an automatic consequence of a source label. The same
+result count may encode different causal memberships, as the two
+three-result cells demonstrate. Across the Kośa's wider cognitive movement,
+Discriminative Cognition joins and governs Perception and Conception; this
+matrix articulates practical causal differentiation through action and
+result-status.
 
-```text
-AbandonmentResultRule {
-    actionAbandonmentClass
-    resultAbandonmentClass
-    permittedResultTypes
-}
-```
+## 9. Review Status
 
-This allows the Agent to distinguish:
-
-```text
-detecting and removing a principial contradiction
-iteratively retraining habituated operation
-establishing a result that is no longer an object of removal
-```
-
-The exact edge set matters more than the count. In particular, the
-cultivation-to-non-abandonable cell contains disconnection, while the
-seeing-to-non-abandonable cell contains dominance alone.
-
-This agent interpretation is the Organon reconstruction. The modes of
-abandonment and result memberships belong to the Bhāṣya.
-
-## 10. Review Status
-
-The complete 4.93 unit `[257|17]–[257|22]` is included. It gives the
-seeing-abandonable and cultivation-abandonable rows with exact result-set
-membership. It stops before the non-abandonable source row beginning at
-`[257|23]`; that material is not imported into this study.
+The complete 4.93 unit `[257|17]–[257|22]` is included. It specifies the
+seeing-abandonable and cultivation-abandonable action rows and their exact
+result memberships. The non-abandonable action row begins at `[257|23]` and
+is reserved for 4.94.

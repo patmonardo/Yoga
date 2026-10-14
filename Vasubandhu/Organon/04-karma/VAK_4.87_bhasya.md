@@ -7,9 +7,12 @@ prahāṇamārge samale saphalaṃ karma pañcabhiḥ /
 caturbhir amale 'nyac ca sāsravaṃ yac chubhāśubham // 4.87 //
 ```
 
-> Action in the contaminated path of abandonment has all five results. In the
-> uncontaminated path it has four; so too does other contaminated action,
-> whether wholesome or unwholesome.
+> In the Path of Abandonment with stain, action stands in all five
+> result-relations: maturation result, corresponding result,
+> disconnection-result, activity-produced result, and dominant result.
+> Action in the Path of Abandonment without Influx has four results, because
+> it lacks maturation-result. Other action with Influx, whether wholesome or
+> unwholesome, likewise has four, but lacks disconnection-result.
 
 VAK 4.85 used a threefold practical account of results. This verse returns to
 the complete Abhidharma taxonomy of five results and asks which result
@@ -49,31 +52,31 @@ regression after `[255|14]`; it is read as `[255|15]`. The transmitted
 conjectural compound division. The witness's `karmaṃ` at `[256|01–02]` is
 normalized to `karma`.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Scientific English Rendering
 
-Of the five results explained earlier, which kinds of action possess how many
+Of the five results explained earlier, which kinds of action possess which
 results?
 
-Action within a contaminated path of abandonment possesses all five results.
+Action within a Path of Abandonment with stain possesses all five results.
 A path is directed toward abandonment, or the afflictions are abandoned by
-means of it; hence “path of abandonment.” This is the uninterrupted path.
-Any contaminated action within it possesses all five results.
+means of it; hence “Path of Abandonment.” This is the uninterrupted Path.
+Any action with Influx within it possesses all five results.
 
 Its maturation result is the maturation belonging to and entering its own
 ground. Its corresponding result consists in later similar dharmas born from
-samādhi. Its disconnection result is disconnection itself, the abandonment
+samādhi. Its disconnection-result is disconnection itself, the abandonment
 in question. Its activity-produced result consists in the dharmas drawn forth
-by it, such as the path of liberation and the dharmas arising together with
-that path, as well as what is cultivated in the future and the abandonment.
+by it, such as the Path of Liberation and the dharmas arising together with
+that Path, as well as what is cultivated in the future and the abandonment.
 Its dominant result consists in all conditioned dharmas other than itself,
 except those that had already arisen.
 
-Action within the uncontaminated path of abandonment possesses four results,
+Action within the Path of Abandonment without Influx possesses four results,
 with the maturation result excluded.
 
-Other contaminated action—whether wholesome action apart from the path of
-abandonment or unwholesome action—also possesses four results, but here the
-disconnection result is excluded.
+Other action with Influx—whether wholesome action apart from the Path of
+Abandonment or unwholesome action—also possesses four results, but here the
+disconnection-result is excluded.
 
 ## 4. The Five Results
 
@@ -81,8 +84,8 @@ The question presupposes the complete result set:
 
 ```text
 1. vipākaphala       maturation result
-2. niṣyandaphala     corresponding or outflow result
-3. visaṃyogaphala    disconnection result
+2. niṣyandaphala     corresponding result
+3. visaṃyogaphala    disconnection-result
 4. puruṣakāraphala   activity-produced result
 5. adhipatiphala     dominant result
 ```
@@ -99,20 +102,21 @@ path whose purpose is abandonment
 path by which the afflictions are abandoned
 ```
 
-It then identifies this with the uninterrupted path, `ānantaryamārga`. This
-is the phase that directly removes the affliction. The liberation path that
-follows is listed among the dharmas drawn forth by it.
+It then identifies this with the uninterrupted Path, `ānantaryamārga`. This
+is the operation that directly removes the affliction. The Path of Liberation
+that follows is listed among the dharmas drawn forth by it.
 
 This distinction must remain sharp:
 
 ```text
-uninterrupted path → performs the abandonment
-liberation path    → follows upon and confirms that abandonment
+uninterrupted Path → performs the abandonment
+Path of Liberation → follows upon and confirms that abandonment
 ```
 
-## 6. Why the Contaminated Abandonment Path Has Five
+## 6. Why Action in the Path with Stain Has Five Results
 
-The contaminated path of abandonment can enter every result relation:
+Action with Influx in the Path of Abandonment with stain can enter every
+result relation:
 
 | Result | Bhāṣya determination |
 |---|---|
@@ -134,15 +138,15 @@ The two remaining action classes both have four results, but not the same
 four:
 
 ```text
-uncontaminated abandonment-path action
+action in the Path of Abandonment without Influx
     = all five − maturation
 
-other contaminated wholesome or unwholesome action
+other wholesome or unwholesome action with Influx
     = all five − disconnection
 ```
 
-Uncontaminated action does not produce maturation because maturation belongs
-to the contaminated causal order. Ordinary contaminated action does not
+Action without Influx does not produce maturation because maturation belongs
+to the causal order conditioned by Influx. Other action with Influx does not
 produce the disconnection result because it does not itself perform the
 Path's abandonment of affliction.
 
@@ -155,23 +159,24 @@ equal cardinality ≠ identical membership
 Both classes are “four-result” action, yet the omitted relation reveals their
 opposite doctrinal characters.
 
-## 8. Wholesome Does Not Mean Uncontaminated
+## 8. Wholesome Does Not Mean Without Influx
 
-The final phrase explicitly includes other `sāsrava` action that is either
-wholesome or unwholesome. Ethical quality and contamination therefore form
-independent coordinates:
+The final phrase explicitly includes other action with Influx that is either
+wholesome or unwholesome. Ethical quality and Influx status therefore form
+independent coordinates; stain is a further, distinct description of the
+Path in the first two clauses:
 
 ```text
 wholesome / unwholesome
-contaminated / uncontaminated
-Path / non-Path
+with Influx / without Influx
+Path with stain / Path without stain
 ```
 
-A wholesome action can remain contaminated and produce maturation. An
-uncontaminated action belongs to the Path relation and lacks maturation even
-though it is efficacious under four other result modes.
+A wholesome action can be with Influx and produce maturation. The Bhāṣya
+identifies action in the Path without stain as without Influx; that action
+lacks maturation even though it is efficacious under four other result modes.
 
-## 9. Organon Contact Point
+## 9. Interpretation
 
 For the Organon, this passage is a result-interface matrix:
 
@@ -200,9 +205,10 @@ doctrine.
 
 ## 10. Review Status
 
-The complete 4.87 unit `[255|15]–[256|02]` is included. It defines the path
-of abandonment, supplies all five results of its contaminated form, excludes
-maturation from its uncontaminated form, and excludes disconnection from
-other contaminated wholesome and unwholesome action. It stops before the
-first phrase of 4.88 at `[256|03]`. The erroneous line marker and witness
-irregularities are explicitly recorded.
+The complete 4.87 unit `[255|15]–[256|02]` is included. It defines the Path
+of Abandonment, supplies all five results for action with Influx in the Path
+with stain, excludes maturation from action without Influx in the Path
+without stain, and excludes disconnection from other wholesome and
+unwholesome action with Influx. It stops before the first phrase of 4.88 at
+`[256|03]`. The erroneous line marker and witness irregularities are
+explicitly recorded.

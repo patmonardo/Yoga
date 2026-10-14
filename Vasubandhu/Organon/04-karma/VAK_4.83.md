@@ -1,4 +1,4 @@
-# VAK_4.83 — The Courses in Uttarakuru and the Desire Realm
+# VAK_4.83 — Courses of Action in Uttarakuru and the Desire-Realm
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -9,7 +9,7 @@
 
 ## 2. Sanskrit (IAST)
 
-```text
+```iast
 saptamaḥ svayam apy atra kāme 'nyatra daśāśubhāḥ /
 śubhās trayas tu sarvatra saṃmukhībhāva-lābhataḥ // 4.83 //
 ```
@@ -23,33 +23,33 @@ kāme | anyatra | daśa | aśubhāḥ |
 saṃmukhībhāva-lābhataḥ
 ```
 
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
-| `saptamaḥ` | nominative masculine singular ordinal | the seventh karmapatha |
+| `saptamaḥ` | nominative masculine singular ordinal | the seventh Course of Action |
 | `svayam api` | adverb plus particle | also in actual manifestation; not merely as endowment |
 | `atra` | locative adverb | here, in Uttarakuru |
-| `kāme` | locative masculine singular | in the desire domain |
+| `kāme` | locative masculine singular | in the Desire-Realm |
 | `anyatra` | indeclinable | elsewhere; outside the preceding exceptional cases |
 | `daśa` | nominative plural numeral | ten |
-| `aśubhāḥ` | nominative masculine plural | unwholesome courses |
-| `śubhāḥ trayaḥ` | nominative masculine plural | the three wholesome mental courses |
+| `aśubhāḥ` | nominative masculine plural | unwholesome Courses of Action |
+| `śubhāḥ trayaḥ` | nominative masculine plural | the three wholesome mental Courses of Action |
 | `tu` | contrastive particle | but; whereas |
 | `sarvatra` | indeclinable | everywhere |
 | `saṃmukhībhāva-lābhataḥ` | ablatival compound used adverbially | by present manifestation and by acquisition |
 
-**The seventh course**
+**The seventh Course of Action**
 
 In the standard sequence, the seventh is:
 
 ```text
-1–3    bodily courses
-4–7    verbal courses
+1–3    bodily Courses of Action
+4–7    verbal Courses of Action
 
 7      saṃbhinnapralāpa
        disordered or frivolous afflicted speech
 ```
 
-**The three wholesome mental courses**
+**The three wholesome mental Courses of Action**
 
 The Bhāṣya names them explicitly:
 
@@ -69,13 +69,14 @@ atra [kurau]
     svayam api [asti]
 ```
 
-> Here in Uttarakuru, the seventh course also occurs in actual manifestation.
+> Here in Uttarakuru, the seventh Course of Action also occurs by present
+> manifestation.
 
 The Bhāṣya resolves the compressed `svayam api` as
 `saṃmukhībhāvato 'py asti`: it exists there also by present manifestation,
 not only by endowment.
 
-**All ten elsewhere in the desire domain**
+**All ten elsewhere in the Desire-Realm**
 
 ```text
 kāme
@@ -84,8 +85,8 @@ kāme
     [saṃmukhībhāvataḥ api vidyante]
 ```
 
-> Elsewhere in the desire domain, all ten unwholesome courses also occur by
-> present manifestation.
+> Elsewhere in the Desire-Realm, all ten unwholesome Courses of Action also
+> occur by present manifestation.
 
 `Anyatra` is fixed by the Bhāṣya as outside hell and Uttarakuru.
 
@@ -98,31 +99,36 @@ kāme
     lābhataḥ ca [vidyante]
 ```
 
-> But the three wholesome courses occur everywhere, both by present
-> manifestation and by acquisition.
+> But the three wholesome mental Courses of Action occur everywhere by present
+> manifestation and acquisition.
 
 The compound coordinates event-level occurrence and continuum-level
 endowment. The Bhāṣya expands `sarvatra` to all five destinies throughout all
-three domains.
+three realms.
 
 ## 5. Translation
 
-### Literal Translation
+### Scientific English Rendering
 
-> Here the seventh also occurs in actual manifestation. Elsewhere in the
-> desire domain, there are the ten unwholesome courses. But the three wholesome
-> courses occur everywhere through present manifestation and acquisition.
+> Here in Uttarakuru, the seventh Course of Action also occurs by present
+> manifestation. Elsewhere in the Desire-Realm, all ten unwholesome Courses of
+> Action also occur by present manifestation. But the three wholesome mental
+> Courses of Action occur everywhere by present manifestation and acquisition.
 
 ### Bhāṣya-informed study translation
 
-> In Uttarakuru, the seventh course—disordered or frivolous afflicted
-> speech—can become presently manifest, because its inhabitants sometimes sing
-> with afflicted citta, even though the three unwholesome mental courses remain
-> merely endowed there. Elsewhere in the desire domain, outside hell and
-> Uttarakuru, all ten unwholesome courses can become presently manifest. The
-> three wholesome mental courses—non-covetousness, non-hostility, and right
-> view—can both belong to a continuum and become presently manifest in all five
-> destinies throughout all three domains.
+> Here in Uttarakuru, the seventh Course of Action also occurs by present
+> manifestation. Elsewhere in the Desire-Realm, all ten unwholesome Courses of
+> Action also occur by present manifestation. But the three wholesome mental
+> Courses of Action occur everywhere by present manifestation and acquisition.
+>
+> The seventh is disordered or frivolous afflicted speech: its inhabitants
+> sometimes sing with afflicted consciousness, although the three unwholesome
+> mental Courses of Action remain merely endowed there. “Elsewhere” excludes
+> hell and Uttarakuru. The three wholesome Courses of Action are
+> non-covetousness, non-hostility, and right view; each can belong to a
+> continuum and become presently manifest in all five destinies throughout
+> all three realms.
 
 The identification of the seventh, its mode of occurrence, the exact scope of
 `anyatra`, and the universal expansion of `sarvatra` are supplied by the
@@ -130,27 +136,28 @@ Bhāṣya.
 
 ## 6. Philosophical Translation
 
-> A favorable domain does not mechanically eliminate every unwholesome event:
-> a specific verbal course can still become actual when its immediate
-> afflictive condition is present. Conversely, unwholesome manifestation is
-> not distributed uniformly throughout the desire domain; each local domain
-> permits or blocks courses through determinate lifespan, relational,
-> dispositional, and practical conditions. The three wholesome mental courses
-> have the widest modal scope: no destiny or domain excludes their acquisition
+> A favorable world-setting does not mechanically eliminate every
+> unwholesome event: a specific verbal Course of Action can still become
+> actual when its immediate afflictive condition is present. Conversely,
+> unwholesome manifestation is not distributed uniformly throughout the
+> Desire-Realm; each local setting permits or blocks Courses of Action through
+> determinate lifespan, relational, dispositional, and practical conditions.
+> The three wholesome mental Courses of Action have the widest modal scope:
+> no destiny or setting excludes their acquisition
 > or manifestation in principle.
 
 The relation is:
 
 ```text
-universal course-form
-    → domain conditions
+universal Course-of-Action form
+    → world-setting conditions
     → continuum endowment
     → present manifestation
 ```
 
 ## 7. Technical Vocabulary
 
-**`Saptama karmapatha` — the seventh course**
+**`Saptama` — the seventh Course of Action**
 
 `Saṃbhinnapralāpa`, disordered or frivolous afflicted speech. Its appearance
 in Uttarakuru confirms that favorable external and social conditions do not
@@ -159,60 +166,60 @@ guarantee the impossibility of every unwholesome manifestation.
 **`Svayam api` — also in present manifestation**
 
 The Bhāṣya does not leave `svayam` as the vague “by itself.” It specifies that
-the course exists through `saṃmukhībhāva`, actual present occurrence.
+the Course of Action exists through `saṃmukhībhāva`, actual present occurrence.
 
 **Why the seventh can manifest**
 
-The inhabitants sometimes sing with afflicted citta. The same surface form,
+The inhabitants sometimes sing with afflicted consciousness. The same surface form,
 song, was already shown in VAK 4.76–4.77 to vary in ethical status according
 to its orientation.
 
 **`Apāpāśaya` — absence of corrupt disposition**
 
 The Bhāṣya's general reason that killing and the other major unwholesome
-courses do not arise in Uttarakuru.
+Courses of Action do not arise in Uttarakuru.
 
 **`Niyatāyuṣkatva` — fixed lifespan**
 
-Blocks the ordinary completion-condition for killing in that domain.
+Blocks the ordinary completion-condition for killing in that setting.
 
 **Absence of ordinary possessive relations**
 
 The Bhāṣya invokes the absence of ordinary property and possessive sexual
 relations, together with absence of practical occasion, to explain why theft,
-sexual misconduct, and related courses do not manifest. Its mythic and social
+sexual misconduct, and related Courses of Action do not manifest. Its mythic and social
 details remain historically attributed rather than generalized as modern
 norms.
 
-**`Kāma-dhātu` — desire domain**
+**`Kāma-dhātu` — Desire-Realm**
 
-A single domain containing locally different spaces of practical possibility.
-The phrase “elsewhere” shows that membership in one domain does not make its
-manifestation profile homogeneous.
+One realm containing locally different settings of practical possibility.
+The phrase “elsewhere” shows that membership in the Desire-Realm does not make
+its manifestation profile homogeneous.
 
 **`Asaṃvara` — non-restraint**
 
 Formalized unwholesome discipline or state opposed to restraint. The Bhāṣya
-distinguishes animals, pretas, and gods, where unwholesome courses occur apart
+distinguishes animals, pretas, and gods, where unwholesome Courses of Action occur apart
 from formal non-restraint, from humans, where they may also be included within
 it.
 
 **`Anabhidhyā` — non-covetousness**
 
-The wholesome mental course opposed to wrongful appropriative longing.
+The wholesome mental Course of Action opposed to wrongful appropriative longing.
 
 **`Avyāpāda` — non-hostility**
 
-The wholesome mental course opposed to ill will and directed harm.
+The wholesome mental Course of Action opposed to ill will and directed harm.
 
 **`Samyagdṛṣṭi` — right view**
 
-The wholesome mental course affirming the practical and causal order denied
+The wholesome mental Course of Action affirming the practical and causal order denied
 by false view.
 
 **`Lābha` — acquisition or endowment**
 
-The continuum-level relation through which a course belongs operatively to a
+The continuum-level relation through which a Course of Action belongs operatively to a
 continuum. Here it is paired directly with present manifestation.
 
 ## 8. Logical Determination
@@ -235,17 +242,17 @@ PRESENTLY MANIFESTABLE
     disordered / frivolous afflicted speech
 ```
 
-The Bhāṣya explains the absence of other major unwholesome courses through
+The Bhāṣya explains the absence of other major unwholesome Courses of Action through
 fixed lifespan, absence of ordinary possessive relations, absence of practical
 occasion, and lack of a corrupt governing disposition.
 
-**Other desire-domain locations**
+**Other Desire-Realm settings**
 
 ```text
-desire domain
+Desire-Realm
     minus hell
     minus Uttarakuru
-        → all ten unwholesome courses
+        → all ten unwholesome Courses of Action
           can presently manifest
 ```
 
@@ -256,7 +263,7 @@ locations continuously manifests all ten.
 
 ```text
 all five destinies
-    × all three domains
+    × all three realms
         → anabhidhyā
         → avyāpāda
         → samyagdṛṣṭi
@@ -266,16 +273,16 @@ each available as:
     + present manifestation
 ```
 
-Universality means no domain excludes these modes in principle; it does not
+Universality means no setting excludes these modes in principle; it does not
 mean constant actuality in every continuum.
 
 **Four logical levels**
 
 ```text
-course-type
+Course-of-Action type
     universal determination
 
-domain-support
+world-setting support
     local possibility of realization
 
 continuum-endowment
@@ -287,7 +294,7 @@ event-manifestation
 
 These levels must not be collapsed.
 
-**Domain support is internally determined**
+**World-setting support is internally determined**
 
 Manifestability depends upon a structured set of conditions:
 
@@ -301,14 +308,14 @@ dispositional orientation
 completion condition
 ```
 
-A domain profile is therefore an explanatory configuration, not a bare list
+A world-setting profile is therefore an explanatory configuration, not a bare list
 of permissions.
 
 ## 9. Interpretive Note
 
 **Universal determination and local realizability**
 
-The course-form is not created by the domain, but its manifestation is locally
+The Course of Action is not created by the world-setting, but its manifestation is locally
 conditioned:
 
 ```text
@@ -317,40 +324,42 @@ universal determination
 local instantiability
 ```
 
-This preserves the universality of the ten-course taxonomy while explaining
+This preserves the universality of the ten-Course-of-Action taxonomy while explaining
 why its members are unequally distributed.
 
 **Favorable environment is not perfected agency**
 
 Uttarakuru removes many occasions and supports for wrongdoing, but an
-afflicted citta can still generate the seventh verbal course. External
+afflicted consciousness can still generate the seventh verbal Course of
+Action. External
 configuration can constrain action without completing the internal
 transformation of every continuum.
 
 **Wholesome portability**
 
-The three wholesome mental courses are not tied to bodily equipment, property
-relations, deceptive occasions, or one cosmological domain. Their universality
+The three wholesome mental Courses of Action are not tied to bodily
+equipment, property relations, deceptive occasions, or one cosmological
+realm. Their universality
 is nevertheless modal rather than continuous: they can be acquired and
 manifest everywhere, not that they are always actual.
 
-This is the Organon contact. The domain distributions, seventh-course example,
-absence-reasons, formal non-restraint distinction, and universal wholesome
-scope belong to the Bhāṣya; the four-level modal articulation is the project
-synthesis.
+The Bhāṣya's distribution across the Desire-Realm, the seventh-Course
+example, absence-reasons, restraint distinction, and universal wholesome
+scope ground the four-level modal articulation.
 
 ## 10. OWL++ Seed
 
 ```text
-Class: KarmapathaType
-Class: DomainSupport
-Class: CourseEndowment
+Class: CourseOfActionType
+Class: WorldSettingSupport
+Class: CourseOfActionEndowment
 Class: PresentManifestation
-Class: DesireDomain
-Class: UttarakuruDomain
-Class: OrdinaryDesireDomainLocation
+Class: DesireRealm
+Class: HellSetting
+Class: UttarakuruSetting
+Class: OtherDesireRealmSetting
 Class: DisorderedAfflictedSpeech
-Class: WholesomeMentalCourse
+Class: WholesomeMentalCourseOfAction
 Class: NonCovetousness
 Class: NonHostility
 Class: RightView
@@ -361,37 +370,37 @@ ObjectProperty: presentlyManifests
 ObjectProperty: availableAcross
 ObjectProperty: conditionedBy
 
-NonCovetousness SubClassOf WholesomeMentalCourse
-NonHostility SubClassOf WholesomeMentalCourse
-RightView SubClassOf WholesomeMentalCourse
+NonCovetousness SubClassOf WholesomeMentalCourseOfAction
+NonHostility SubClassOf WholesomeMentalCourseOfAction
+RightView SubClassOf WholesomeMentalCourseOfAction
 
-Rule: SeventhCourseManifestsInUttarakuru
-    LocatedIn(?continuum, UttarakuruDomain)
-    and AfflictedCitta(?citta)
-    and GeneratesAfflictedSong(?citta, ?speech)
+Rule: SeventhCourseOfActionManifestsInUttarakuru
+    LocatedIn(?continuum, UttarakuruSetting)
+    and AfflictedConsciousness(?consciousness)
+    and GeneratesAfflictedSong(?consciousness, ?speech)
     -> presentlyManifests(?continuum, DisorderedAfflictedSpeech)
 
-Rule: AllTenManifestElsewhereInDesireDomain
-    LocatedIn(?continuum, DesireDomain)
-    and not LocatedIn(?continuum, HellDomain)
-    and not LocatedIn(?continuum, UttarakuruDomain)
-    and UnwholesomeKarmapatha(?course)
+Rule: AllTenManifestElsewhereInDesireRealm
+    LocatedIn(?continuum, DesireRealm)
+    and not LocatedIn(?continuum, HellSetting)
+    and not LocatedIn(?continuum, UttarakuruSetting)
+    and UnwholesomeCourseOfAction(?course)
     -> MayPresentlyManifest(?continuum, ?course)
 
 Rule: WholesomeMentalCoursesUniversallyAvailable
-    WholesomeMentalCourse(?course)
+    WholesomeMentalCourseOfAction(?course)
     -> availableAcross(?course, FiveDestinies)
-       and availableAcross(?course, ThreeDomains)
+       and availableAcross(?course, ThreeRealms)
        and MayBeEndowed(?course)
        and MayPresentlyManifest(?course)
 
 Constraint: UniversalAvailabilityIsNotConstantActuality
-    availability across all destinies and domains
+    availability across all destinies and realms
     does not imply
     continuous manifestation in every continuum
 
-Constraint: DomainDoesNotCreateCourseType
-    domain support conditions manifestation
+Constraint: SettingDoesNotCreateCourseOfActionType
+    world-setting support conditions manifestation
     without generating
-    the universal karmapatha determination
+    the universal Course of Action determination
 ```

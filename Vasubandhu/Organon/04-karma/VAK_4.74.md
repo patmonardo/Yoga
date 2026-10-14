@@ -9,9 +9,9 @@
 
 ## 2. Sanskrit (IAST)
 
-```text
-agamyagamanaṃ kāmamithyācāraś caturvidhaḥ /
-anyathāsaṃjñino vākyam arthābhijñe mṛṣāvacaḥ // 4.74 //
+```iast
+agamyagamanaṃ kāmamithyācāraścaturvidhaḥ /
+anyathāsaṃjñino vākyamarthābhijñe mṛṣāvacaḥ // 4.74 //
 ```
 
 ## 3. Lexical Analysis
@@ -21,7 +21,7 @@ a-gamya-gamanam | kāma-mithyā-ācāraḥ | catur-vidhaḥ |
 anyathā-saṃjñinaḥ | vākyam | artha-abhijñe | mṛṣā-vacaḥ
 ```
 
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `a-gamya-gamanam` | nominative neuter singular compound | going where or to whom one should not sexually approach |
 | `kāma-mithyā-ācāraḥ` | nominative masculine singular compound | wrong conduct in the sexual domain |
@@ -84,7 +84,7 @@ the hearer understands the meaning asserted.
 
 ## 5. Translation
 
-### Literal Translation
+### Scientific English Rendering
 
 > Going where one should not approach is sexual misconduct, and it is
 > fourfold. The statement of one whose recognition is otherwise, when the
@@ -92,14 +92,18 @@ the hearer understands the meaning asserted.
 
 ### Bhāṣya-informed study translation
 
-> Sexual misconduct is sexual activity violating one of four governing
-> conditions recognized by the commentary: the person or relation, bodily
-> locus, place, or time. The inherited non-mistake condition also applies,
-> although the Bhāṣya reports disagreement about cases in which intended and
-> actual partners do not coincide. False speech is completed when a speaker
-> knowingly states a meaning contrary to their own recognition and the hearer
-> understands the asserted meaning. If comprehension does not occur, the
-> speech is classified instead as disordered speech.
+> Sexual misconduct is fourfold approach to what is not to be approached.
+> False speech is the statement of one whose recognition is otherwise,
+> directed to one capable of understanding its meaning.
+>
+> The Bhāṣya classifies sexual misconduct by the person or relation, bodily
+> locus, place, or time, and carries forward the non-mistake condition. It
+> reports disagreement about cases in which intended and actual partners do
+> not coincide. False speech is completed when a speaker asserts a meaning
+> contrary to their own recognition and the recipient understands that
+> meaning. If understanding does not occur, the speech is classified instead
+> as disordered speech; whether actual understanding or only capacity is
+> required remains disputed in the commentary.
 
 The four dimensions, their historically specific cases, the disputed
 object-recognition analysis, and the treatment of failed comprehension belong
@@ -110,8 +114,8 @@ to the Bhāṣya.
 > Bodily and verbal acts receive their practical determination only within the
 > relations they realize. Sexual activity is classified through the governing
 > interpersonal, bodily, spatial, and temporal conditions of its performance.
-> False speech is a semantic act in which the speaker deliberately produces
-> for another a meaning divergent from the speaker's own recognition. Its
+> False speech is a semantic act in which the speaker asserts for another a
+> meaning divergent from the speaker's own recognition. Its
 > completion therefore lies not in sound alone but in successfully constituted
 > understanding.
 
@@ -275,7 +279,7 @@ form relates:
 
 ```text
 inward recognition
-    → deliberately divergent statement
+    → divergent statement
     → recipient comprehension
 ```
 
@@ -298,7 +302,7 @@ determination of conduct through relation, embodiment, place, and time. The
 study records the witness accurately without silently converting every
 historical example into a contemporary norm.
 
-This is the Organon contact. The fourfold classification, examples,
+This is the project's interpretive synthesis. The fourfold classification, examples,
 object-recognition dispute, comprehension rule, and phonetic completion point
 belong to the Bhāṣya; the formulation as relational and semantic Practical
 Form is the project synthesis.

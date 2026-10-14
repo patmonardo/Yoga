@@ -9,9 +9,9 @@
 
 ## 2. Sanskrit (IAST)
 
-```text
-vadha-vyāpāda-pāruṣya-niṣṭhā dveṣeṇa lobhataḥ /
-para-strī-gamanābhidhyādattādāna-samāpanam // 4.70 //
+```iast
+vadhavyāpādapāruṣyaniṣṭhā dveṣeṇa lobhataḥ /
+parastrīgamanābhidhyā 'dattādānasamāpanam // 4.70 //
 ```
 
 ## 3. Lexical Analysis
@@ -22,7 +22,7 @@ lobhataḥ | para-strī-gamana | abhidhyā | adatta-ādāna |
 samāpanam
 ```
 
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `vadha` | compound member from `√han` | killing; destruction of life |
 | `vyāpāda` | masculine compound member | hostility; the wish to harm |
@@ -84,7 +84,7 @@ bringing a karmapatha to completed status.
 
 ## 5. Translation
 
-### Literal Translation
+### Scientific English Rendering
 
 > The completion of killing, hostility, and harsh speech is through hatred.
 > From greed comes the completion of going to another's wife, covetousness,
@@ -92,16 +92,15 @@ bringing a karmapatha to completed status.
 
 ### Bhāṣya-informed study translation
 
-> Killing, hostility, and harsh speech reach completion through hatred, when
-> a rejecting and harsh mind becomes immediately operative. Sexual misconduct,
-> covetousness, and taking what is not given reach completion through greed.
-> The Bhāṣya completes the tenfold classification: false view culminates
-> through delusion become intense, while false speech, divisive speech, and
-> disordered speech may each be completed through greed, hatred, or delusion.
+> Killing, hostility, and harsh speech reach completion through hatred.
+> Through greed comes the completion of sexual misconduct, covetousness, and
+> taking what is not given.
 
-Only the hatred-triad and greed-triad occur in the Kārikā. The completion-root
-of false view and the variable roots of the other three speech-courses are
-given by its immediate Bhāṣya.
+The Bhāṣya explains the hatred-triad through the immediate presence of a
+rejecting and harsh consciousness. Its discussion here completes the two
+triads named by the Kārikā. VAK 4.71 continues the classification by assigning
+false view to intense delusion and the three remaining speech-courses to any
+of the three roots.
 
 ## 6. Philosophical Translation
 
@@ -133,7 +132,7 @@ of a karmapatha.
 
 The afflictive root characterized by aversion and rejection. The Bhāṣya
 explains the hatred-triad through the immediate presence of a rejecting,
-harsh mind (`parityāga-paruṣa-citta-saṃmukhībhāva`).
+harsh consciousness (`parityāga-paruṣa-citta-saṃmukhībhāva`).
 
 **The hatred-completed triad**
 
@@ -173,12 +172,12 @@ paiśunya              divisive speech
 saṃbhinnapralāpa      disordered speech
 ```
 
-According to the Bhāṣya, any of these can reach completion through greed,
-hatred, or delusion.
+According to the Bhāṣya on VAK 4.71, any of these can reach completion
+through greed, hatred, or delusion.
 
 ## 8. Logical Determination
 
-**The complete ten-course map**
+**The completion-root map across VAK 4.70–4.71**
 
 ```text
 DVEṢA
@@ -200,8 +199,8 @@ LOBHA / DVEṢA / MOHA
     disordered speech
 ```
 
-The last four mappings are Bhāṣya determinations completing the six-member
-classification stated by the verse.
+VAK 4.70 supplies the first six mappings; the following verse and its Bhāṣya
+add the remaining four.
 
 **Genesis and completion**
 
@@ -294,8 +293,9 @@ obscuration
     → false orientation becomes determinate
 ```
 
-This is the Organon contact. The six verse mappings, the four Bhāṣya mappings,
-and the explanations of the completing roots belong to the source layers; the
+This is the Organon contact. The six mappings in VAK 4.70, the four mappings
+added in VAK 4.71, and the explanations of the completing roots belong to the
+source layers; the
 two-axis account of course-form and completion-ground is the project
 synthesis.
 

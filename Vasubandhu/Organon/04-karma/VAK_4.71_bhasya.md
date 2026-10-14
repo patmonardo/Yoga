@@ -48,7 +48,7 @@ surface forms remain visible. A new problem concerning death before or
 simultaneously with the intended victim begins at `[242|23]` and leads into
 VAK 4.72.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Scientific English Rendering
 
 “False view, however, reaches completion through delusion,” for delusion
 that has become intense brings it to completion.
@@ -92,7 +92,7 @@ LOBHA / DVEṢA / MOHA
 
 False view is not identical with delusion. `Moha` becomes sufficiently
 intense to complete the determinate course `mithyādṛṣṭi`. This confirms
-the relation developed in 4.69: the root is a general generative Power;
+the relation developed in 4.69: the root is a general generative power;
 the mental course is its determinate practical conclusion.
 
 The remaining speech courses are structurally more variable. Their common
@@ -124,7 +124,7 @@ directed. The completed practical Form is consequently relational:
 
 ```text
 Root
-    governing Power
+governing source
 
 Course
     determinate practical Form
@@ -147,7 +147,7 @@ objective-basis classification do not replace one another:
 
 ```text
 completion root
-    through which Power does the course culminate?
+    through which root does the course culminate?
 
 objective basis
     upon what field does that determination operate?
@@ -166,7 +166,7 @@ completion through any of three roots. Practical meaning belongs to the
 whole configuration rather than to a word, behavior label, or motive taken
 alone.
 
-## 7. Organon Contact Point
+## 7. Interpretation
 
 The Fichtean formulation can now be expanded:
 
@@ -178,7 +178,7 @@ Course takes its Stand upon Adhiṣṭhāna
     as objective field.
 ```
 
-The karmapatha mediates the two. It is the determinate Power through which
+The karmapatha mediates the two. It is the determinate course through which
 a root becomes objectively effective upon a basis. For our agent
 architecture, a practical judgment therefore needs to represent the
 governing root, the course-form, and the field upon which it operates.

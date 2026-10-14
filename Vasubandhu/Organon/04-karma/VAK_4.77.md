@@ -9,9 +9,9 @@
 
 ## 2. Sanskrit (IAST)
 
-```text
-ato 'nyat kliṣṭam ity anye lapanā-gīta-nāṭyavat /
-kuśāstravac cābhidhyā tu para-sva-viṣamā spṛhā // 4.77 //
+```iast
+ato 'nyat kliṣṭamityanye lapanāgītanāṭyavat /
+kuśāstravaccābhidhyā tu parasvaviṣamaspṛhā // 4.77 //
 ```
 
 ## 3. Lexical Analysis
@@ -23,7 +23,7 @@ ku-śāstra-vat | ca |
 abhidhyā | tu | para-sva-viṣamā | spṛhā
 ```
 
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `ataḥ` | ablative singular pronoun used comparatively | other than these; apart from the preceding courses |
 | `anyat` | nominative neuter singular | what is other; the remainder |
@@ -81,27 +81,31 @@ desire as such.
 
 ## 5. Translation
 
-### Literal Translation
+### Scientific English Rendering
 
-> Others say that afflicted speech other than these is disordered or
-> frivolous speech, as in flattery, song, drama, and corrupt treatises.
+> Others say that afflicted speech other than these is disordered
+> discourse, as with flattering talk, song, drama, and corrupt treatises.
 > Covetousness, however, is wrongful longing for another's possession.
 
 ### Bhāṣya-informed study translation
 
-> According to one transmitted view, `saṃbhinnapralāpa` is the residual class
-> of afflicted verbal action outside false, divisive, and harsh speech; its
-> examples include ingratiating talk, passion-oriented song, entertainment,
-> and corrupt teaching. These expressive forms are not intrinsically
-> unwholesome: their classification depends upon their afflictive orientation,
-> and some afflicted talk may still fail to reach the decisive status of a
-> karmapatha. Covetousness as a mental karmapatha is the wrongful wish to make
-> another's possession one's own, whether by force or by some device. It is
-> not desire in general and is not yet the bodily act of theft.
+> Others say that afflicted speech other than these is disordered
+> discourse, as with flattering talk, song, drama, and corrupt treatises.
+> Covetousness, however, is wrongful longing for another's possession.
+>
+> The residual account excludes false, divisive, and harsh speech from the
+> fourth class. The examples show that expressive forms are not intrinsically
+> unwholesome: their classification depends on their afflictive orientation,
+> and some afflicted talk may fail to reach karmapatha status. One account
+> defines covetousness as the wrongful wish to make another's possession one's
+> own by force or stratagem. Other views call all desire-realm craving
+> `abhidhyā`, while another holds that not every instance of this broad class
+> reaches karmapatha status: the courses select gross and decisive forms of
+> misconduct. It is not desire in general under every account, and it is
+> distinct from bodily theft.
 
-The qualifications concerning song, renunciation, non-karmapatha chatter,
-appropriative means, and alternative extensions of `abhidhyā` are supplied by
-the Bhāṣya.
+The examples, song qualification, non-karmapatha chatter, and competing
+extensions of `abhidhyā` are supplied by the Bhāṣya.
 
 ## 6. Philosophical Translation
 
@@ -292,9 +296,10 @@ may illuminate the structural problem, but they are not simply identical with
 the ancient classification. The Bhāṣya's direct determination concerns
 afflicted verbal activity and its disputed relation to karmapatha status.
 
-This is the Organon contact. The residual view, examples, song qualification,
-three extensions of `abhidhyā`, and selection principle belong to the Bhāṣya;
-the projected-relational-transition analysis is the project synthesis.
+This is the project's interpretive synthesis. The residual view, examples,
+song qualification, three extensions of `abhidhyā`, and selection principle
+belong to the Bhāṣya; the projected-relational-transition analysis is the
+project synthesis.
 
 ## 10. OWL++ Seed
 

@@ -7,9 +7,13 @@ sarve 'tītasya catvāri madhyamasyāpy anāgatāḥ /
 madhyamā dve 'jātasya phalāni trīṇy anāgatāḥ // 4.90 //
 ```
 
-> For past action, dharmas of all three times are four results. For present
-> action, future dharmas are also four; present dharmas are two. For future
-> action, future dharmas are three results.
+> Past action relates to past, present, and future dharmas through maturation,
+> corresponding, activity-produced, and dominant results; disconnection is
+> excluded. Present action relates to future dharmas through those same four
+> results, but to present dharmas through only activity-produced and dominant
+> results. Future action relates to future dharmas through maturation,
+> activity-produced, and dominant results; corresponding and disconnection
+> are excluded.
 
 The verse rotates the causal matrix again. After classifying action and result
 by ethical quality, it now indexes both sides of the result relation by time.
@@ -39,11 +43,11 @@ The witness reads `phalaṃ` at `[256|20]`, `catvāti` at `[256|22]`,
 `pratyupannasya` at `[256|24]`, and `triṇy` at `[256|25]`. These are
 normalized above according to the immediately explicit syntax.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Scientific English Rendering
 
 For past action, dharmas of all three times stand as four results. “All” means
 belonging to the three times. Past, present, and future dharmas can be results
-of past action under four result relations, with the disconnection result
+of past action under four result-relations, with disconnection-result
 excluded.
 
 For present action, future dharmas also stand as these same four results.
@@ -60,7 +64,7 @@ The research kārikā alone permits a misleading reading:
 
 ```text
 sarve 'tītasya
-    “all five results belong to past action”
+    “past action has all five result-types”
 ```
 
 The Bhāṣya rules this out. `Sarve` refers to the temporal classes of the
@@ -72,7 +76,7 @@ present dharmas
 future dharmas
 ```
 
-Each class can stand as a result of past action through four relations. The
+Each class can stand as a result of past action through four result-relations. The
 excluded fifth is disconnection.
 
 Likewise, `madhyamā dve` does not mean “the middle two members” of the
@@ -83,7 +87,7 @@ five-result list. It means that **present dharmas** stand as two results of
 
 The verse establishes the following nonempty cells:
 
-| Time of action | Time of result-dharma | Number | Result relations |
+| Time of action | Time of result-dharma | Number | Result-relations |
 |---|---|---:|---|
 | past | past | 4 | maturation, correspondence, activity-produced, dominant |
 | past | present | 4 | maturation, correspondence, activity-produced, dominant |
@@ -92,7 +96,8 @@ The verse establishes the following nonempty cells:
 | present | future | 4 | maturation, correspondence, activity-produced, dominant |
 | future | future | 3 | maturation, activity-produced, dominant |
 
-The unstated reverse-time cells remain empty:
+The verse does not assign result-profiles to every possible time-pair. The
+reverse-time pairs are not listed:
 
 ```text
 present action → past result
@@ -123,23 +128,24 @@ puruṣakāraphala — result directly produced by the activity
 adhipatiphala   — result conditioned through dominance
 ```
 
-Maturation and correspondence require temporal succession; the result cannot
-already be present as the maturation or later similar outflow of the action
-that is itself presently arising.
+Maturation and correspondence require temporal succession; a result cannot
+be simultaneously present as the maturation or corresponding result of an
+action that is itself presently arising.
 
-The present therefore has immediate efficacy without completed karmic return:
+Present action can have concurrent efficacy without its maturation-result
+already being present:
 
 ```text
 present action
     → concurrent production and conditioning
-    → future maturation and correspondence
+    → future maturation and corresponding results
 ```
 
 ## 8. Why Future Action Has Three Future Results
 
 Future action and future result-dharmas can be related through maturation,
-activity-production, and dominance. Correspondence is excluded because an
-outflow result must follow an already arisen similar cause. Disconnection is
+activity-production, and dominance. Correspondence is excluded because a
+corresponding result must follow an already arisen similar cause. Disconnection is
 excluded for the nontemporal reason already given.
 
 The future cell represents causal capacity, not a completed occurrence:
@@ -154,7 +160,7 @@ This is specifically intelligible within the Sarvāstivāda temporal framework,
 where future dharmas can be classified by causal function without being
 presently active.
 
-## 9. Organon Contact Point
+## 9. Interpretation
 
 The Causal Algebra for Agency now requires temporal typing on both ends of
 every result edge:

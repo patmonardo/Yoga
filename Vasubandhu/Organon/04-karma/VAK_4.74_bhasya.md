@@ -94,7 +94,7 @@ discussion with a deliberately non-explanatory resolution. These features
 remain visible. The sūtra classification of sixteen modes of assertion
 begins a new inquiry at `[245|09]` and leads into VAK 4.75.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Scientific English Rendering
 
 “Sexual misconduct is fourfold approach to what is not to be approached.”
 Sexual approach to what is not to be approached has four forms. One may
@@ -135,21 +135,21 @@ statement is false speech.
 What if the recipient does not understand? It is disordered speech. The
 verse says “statement.” Since a statement can consist of many phonetic
 units, which one bears the course of karma? The final unit, together with
-the non-manifest determination, constitutes the course at the point where
-the recipient understands the meaning. The preceding phonetic units are
-preparation.
+*avijñapti* (non-disclosing continuity), constitutes the course at the point
+where the recipient understands the meaning. The preceding phonetic units
+are preparation.
 
 The expression “one understanding the meaning” raises a further question.
 Does it mean a hearer who has actually understood the meaning, or one
 capable of understanding it? What follows from the distinction? If it means
-one who has already understood, then because sentence-meaning is an object
-of mental consciousness, and because the verbal manifestation has ceased
-together with auditory consciousness, only the non-manifest action would
+one who has already understood, then because sentence-meaning is a
+Condition of Mind-Cognition, and because the speech-manifestation has ceased
+together with Auditory Cognition, only non-disclosing continuity would
 constitute the principal course. If it means someone capable of
 understanding, this fault does not arise.
 
-But how can someone be called capable of understanding merely when auditory
-consciousness has arisen? The Bhāṣya closes: let the interpretation be
+But how can someone be called capable of understanding merely when
+Auditory Cognition has arisen? The Bhāṣya closes: let the interpretation be
 whatever avoids the fault. The timing problem is thus exposed but not
 fully resolved in this unit.
 
@@ -211,8 +211,8 @@ recipient capable of understanding that meaning
 
 This distinguishes lying from factual error. A speaker who states what they
 recognize, even when that recognition is mistaken, does not satisfy the
-definition given here. False speech requires a deliberate divergence between
-recognition and assertion.
+definition given here. False speech requires divergence between recognition
+and assertion.
 
 The recipient is constitutive rather than incidental. Without uptake, the
 utterance does not reach completion as false speech and is classified here
@@ -225,18 +225,18 @@ The analysis of a multi-unit statement repeats the three-phase structure:
 earlier phonetic units
     = preparation
 
-meaning-completing final unit + avijñapti
+meaning-completing final unit + avijñapti (non-disclosing continuity)
     = principal course
 ```
 
-Yet the source immediately recognizes a difficulty. Auditory consciousness
-apprehends sound; mental consciousness apprehends the sentence meaning. By
-the time semantic comprehension occurs, the manifest speech-event may have
+Yet the source immediately recognizes a difficulty. Auditory Cognition
+apprehends sound; Mind-Cognition apprehends the sentence meaning. By the
+time semantic comprehension occurs, the speech-manifestation may have
 ceased. The proposal that the recipient need only be capable of
 understanding protects a manifest component at completion, but the Bhāṣya
 does not fully explain that capacity relation here.
 
-## 6. Organon Contact Point
+## 6. Interpretation
 
 VAK 4.74 provides a powerful model for the VAK LogicSet. A verbal course
 cannot be classified from message content alone:
@@ -257,8 +257,8 @@ cannot be judged solely as a sequence of tokens: the course belongs to the
 relation between recognition, asserted Form, intended recipient, and uptake.
 
 For applied Science of Knowing, false speech is a failure of semantic
-copulation: the speaker knowingly joins a subject and determination contrary
-to their own recognition and succeeds in presenting that unity to another.
+copulation: the speaker joins a subject and determination contrary to their
+own recognition and succeeds in presenting that unity to another.
 This Organon formulation extends the Bhāṣya's schema; it does not replace
 the historical definitions and examples.
 

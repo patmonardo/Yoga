@@ -7,7 +7,7 @@ paiśunyaṃ kliṣṭacittasya vacanaṃ parabhedane /
 pāruṣyamapriyaṃ sarvaṃ kliṣṭaṃ bhinna pralāpitā // 4.76 //
 ```
 
-> Divisive speech is the utterance of one whose citta is afflicted,
+> Divisive speech is the utterance of one whose consciousness is afflicted,
 > directed toward dividing others. Harsh speech is disagreeable speech.
 > All afflicted speech is disordered discourse.
 
@@ -49,16 +49,16 @@ at `[247|01]` with `ato 'nyat kliṣṭamityanye`, an attributed alternative
 definition of `saṃbhinnapralāpa`. This boundary corrects the earlier draft,
 which had carried that next half-verse and its prose into 4.76.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Scientific English Rendering
 
-“Divisive speech is the utterance of one whose citta is afflicted,
-directed toward dividing others.” Speech arising from an afflicted citta
+“Divisive speech is the utterance of one whose consciousness is afflicted,
+directed toward dividing others.” Speech arising from afflicted consciousness
 and directed toward dividing others and producing estrangement is divisive
 speech. The conditions “one understanding the meaning” and “without
 mistake” continue to apply.
 
 “Harsh speech is disagreeable speech.” The expressions “utterance of one
-whose citta is afflicted,” “one understanding the meaning,” and “without
+whose consciousness is afflicted,” “one understanding the meaning,” and “without
 mistake” also continue here. Afflicted speech that is disagreeable to
 others, whose meaning is understood, and which is addressed to the very
 person intended is harsh speech.
@@ -95,7 +95,7 @@ The final definition is taxonomically broad. False, divisive, and harsh
 speech can all also fall under `saṃbhinnapralāpa` insofar as each is
 afflicted. The alternative exclusive remainder begins only in VAK 4.77.
 
-## 5. Organon Contact Point
+## 5. Interpretation
 
 The verbal course is constituted through:
 
@@ -125,7 +125,7 @@ AfflictedSpeech
 
 Before executing a classification, the agent must know whether the governing
 account allows overlap or requires exclusive remainder classes. This is the
-Organon use of the Bhāṣya's broad definition.
+project's interpretation of the Bhāṣya's broad definition.
 
 ## 6. Review Status
 

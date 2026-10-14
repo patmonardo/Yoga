@@ -9,9 +9,9 @@
 
 ## 2. Sanskrit (IAST)
 
-```text
-vyāpādaḥ sattva-vidveṣo nāsti-dṛṣṭiḥ śubhāśubhe /
-mithyādṛṣṭis trayo hy atra panthānaḥ sapta karma ca // 4.78 //
+```iast
+vyāpādaḥ sattvavidveṣo nāstidṛṣṭiḥ śubhāśubhe /
+mithyādṛṣṭistrayo hyatra panthānaḥ sapta karma ca // 4.78 //
 ```
 
 ## 3. Lexical Analysis
@@ -24,7 +24,7 @@ trayaḥ | hi | atra | panthānaḥ |
 sapta | karma | ca
 ```
 
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `vyāpādaḥ` | nominative masculine singular | ill will; hostile intention |
 | `sattva-vidveṣaḥ` | nominative masculine singular compound | hostility toward living beings |
@@ -34,7 +34,7 @@ sapta | karma | ca
 | `trayaḥ` | nominative masculine plural | the three mental courses |
 | `hi` | explanatory particle | for; indeed |
 | `atra` | locative adverb | here; among these ten |
-| `panthānaḥ` | nominative masculine plural of `panthan` | paths; courses |
+| `panthānaḥ` | nominative masculine plural of `panthan` | routes; courses |
 | `sapta` | nominative plural numeral | the seven bodily and verbal courses |
 | `karma ca` | nominative neuter singular used collectively | and also karma |
 
@@ -77,7 +77,7 @@ hostility proceeds in the form of harming another.
 The locative dual states the field concerning which denial is made. The
 Bhāṣya explains that this is only the opening example of a wider repudiation.
 
-**Three paths and seven actions**
+**Three routes and seven actions**
 
 ```text
 atra [daśasu karmapatheṣu]
@@ -85,31 +85,33 @@ atra [daśasu karmapatheṣu]
     sapta karma ca [panthānaḥ ca]
 ```
 
-> Here the three are paths of karma, while the seven are both karma and paths
-> of karma.
+> Here the three are routes of karma, while the seven are both karma and
+> routes of karma.
 
 The omitted complements are restored by the Bhāṣya's explicit explanation.
 `Hi` marks this as the reasoned clarification of the compound `karmapatha`.
 
 ## 5. Translation
 
-### Literal Translation
+### Scientific English Rendering
 
-> Ill will is hostility toward living beings. False view is the denial of
-> wholesome and unwholesome karma. For here the three are paths, while the
-> seven are also karma.
+> Hostility is hatred of living beings. False view is the view that
+> wholesome and unwholesome karma do not exist. Here the three are routes
+> of karma, while the seven are both karma and routes of karma.
 
 ### Bhāṣya-informed study translation
 
-> Ill will is hostility directed toward a living being and proceeding in the
-> form of harming another. False view is the denial of wholesome and
-> unwholesome karma; taken in its full extension, it repudiates karma, karmic
-> result, and the noble ones, of which the verse states only an initial
-> example. Covetousness, ill will, and false view are paths of karma because
-> the volition associated with them is carried along their direction and
-> formed under their influence. The three bodily and four verbal courses are
-> themselves karma and are also paths upon which their originating volition
-> proceeds.
+> Hostility is hatred of living beings. False view is the view that
+> wholesome and unwholesome karma do not exist. Here the three are routes
+> of karma, while the seven are both karma and routes of karma.
+>
+> The Bhāṣya specifies that hostility proceeds as harming another. It
+> expands false view beyond the verse's initial example to repudiation of
+> karma, result, and the noble ones. Covetousness, ill will, and false view
+> are Courses of Action because associated volition is carried along their
+> direction and formed under their influence. The bodily and verbal courses
+> are themselves karma and also routes along which their originating
+> volition proceeds.
 
 The harmful orientation, full range of false view, and dynamic explanation of
 `karmapatha` are supplied by the Bhāṣya.
@@ -120,13 +122,13 @@ The harmful orientation, full range of false view, and dynamic explanation of
 > volition becomes karmically formed. Covetousness projects appropriation;
 > ill will projects harm to a living being; false view repudiates the
 > moral-causal order that makes wholesome and unwholesome activity
-> intelligible. They are called paths because volition moves according to
-> their direction. The seven bodily and verbal courses are realized activity
-> and at the same time routes through which that activity proceeds toward
-> further consequence.
+> intelligible. They are Courses of Action because volition moves according
+> to their direction. The seven bodily and verbal courses are realized
+> activity and also routes through which originating volition proceeds
+> toward consequence.
 
-`Path` therefore has genetic force. It does not merely label membership in a
-list.
+The route metaphor explains their genetic force; it does not equate a Course
+of Action with the liberative Path (*mārga*).
 
 ## 7. Technical Vocabulary
 
@@ -177,10 +179,11 @@ karma-phala       karmic result
 
 The Kārikā gives only `ādimātra`, an initial sample of this extension.
 
-**`Karmapatha` — path or course of karma**
+**`Karmapatha` — Course of Action**
 
-The Bhāṣya explains the compound dynamically. A path carries, channels, and
-gives direction to volition; it is not merely a static moral category.
+The Bhāṣya explains the compound dynamically. Its route carries, channels,
+and gives direction to volition; it is not merely a static moral category
+or the liberative Path (*mārga*).
 
 **`Vāha` — conveyance**
 
@@ -191,12 +194,12 @@ courses is carried by them and goes according to their course.
 
 ```text
 three mental courses
-    path of karma
+    Courses of Action as routes for karma
     but not themselves karma in this strict account
 
 seven bodily and verbal courses
     themselves karma
-    and paths of karma
+    and Courses of Action
 ```
 
 The larger Bhāṣya unit also reports a Dārṣṭāntika alternative treating the
@@ -223,12 +226,12 @@ moha
 ```
 
 The arrows do not state identity. They distinguish general afflictive ground,
-determinate mental path, and volition formed along that path.
+determinate mental Course of Action, and volition formed along its direction.
 
-**Why the mental three are paths**
+**Why the mental three are Courses of Action**
 
 ```text
-mental karmapatha
+mental Course of Action
     supplies determinate orientation
         ↓
 cetanā associated with it
@@ -237,7 +240,7 @@ cetanā associated with it
 karma is formed accordingly
 ```
 
-This is a genuine mediating function: the path determines how volition
+This is a genuine mediating function: the Course of Action determines how volition
 proceeds.
 
 **Why the external seven are both**
@@ -248,7 +251,7 @@ cetanā
 
 bodily or verbal course
     = karma as realized activity
-    + path upon which the producing cetanā proceeds
+    + route along which the producing cetanā proceeds
 ```
 
 The realized course is both product and pathway.
@@ -283,19 +286,19 @@ The strongest result is the Bhāṣya's own genetic image:
 root
     supplies general afflictive ground
 
-mental karmapatha
+mental Course of Action
     specifies the direction
 
 cetanā
     travels and is formed along that direction
 
-bodily or verbal karmapatha
+bodily or verbal Course of Action
     realizes the process as activity
 ```
 
-A path is meaningful through the movement it conducts. Detached from volition
-and realized action, it would be a mere list-item; in the system it is the
-route of practical formation.
+A Course of Action has genetic force through the movement it conducts.
+Detached from volition and realized action, it would be a mere list-item; in
+the system it is the route of practical formation.
 
 **False view attacks the condition of practical intelligibility**
 
@@ -306,9 +309,10 @@ delusion without reducing it to ignorance generally.
 
 **No premature identification with manifestation modes**
 
-The mental-path / bodily-verbal-action distinction is not simply identical
+The mental Course-of-Action / bodily-verbal-action distinction is not identical
 with `avijñapti` / `vijñapti`. VAK 4.78 is explaining the strict status of the
-ten as karma and path; its own categorial asymmetry should be preserved.
+ten as karma and Course of Action; its own categorial asymmetry should be
+preserved.
 
 This is the Organon contact. The definitions, expanded false-view range,
 conveyance account, and Vaibhāṣika asymmetry belong to the Bhāṣya; the explicit
@@ -318,6 +322,7 @@ root-orientation-volition-realization sequence is the project synthesis.
 
 ```text
 Class: UnwholesomeRoot
+Class: CourseOfAction
 Class: MentalKarmicCourse
 Class: BodilyVerbalKarmicCourse
 Class: Volition
@@ -335,7 +340,6 @@ ObjectProperty: channels
 ObjectProperty: formedUnderInfluenceOf
 ObjectProperty: realizedAs
 ObjectProperty: isKarma
-ObjectProperty: isPathOfKarma
 ObjectProperty: repudiates
 
 Covetousness SubClassOf MentalKarmicCourse
@@ -354,17 +358,18 @@ Rule: FalseViewRepudiatesMoralCausalOrder
        and repudiates(?v, KarmicResult)
        and repudiates(?v, NobleOnes)
 
-Rule: MentalCourseChannelsVolition
-    MentalKarmicCourse(?path)
-    and AssociatedWith(?volition, ?path)
-    -> channels(?path, ?volition)
-       and formedUnderInfluenceOf(?volition, ?path)
-       and isPathOfKarma(?path, ?volition)
+MentalKarmicCourse SubClassOf CourseOfAction
+BodilyVerbalKarmicCourse SubClassOf CourseOfAction
 
-Rule: BodilyVerbalCourseIsKarmaAndPath
+Rule: MentalCourseChannelsVolition
+    MentalKarmicCourse(?course)
+    and AssociatedWith(?volition, ?course)
+    -> channels(?course, ?volition)
+       and formedUnderInfluenceOf(?volition, ?course)
+
+Rule: BodilyVerbalCourseIsKarmaAndCourseOfAction
     BodilyVerbalKarmicCourse(?course)
     -> isKarma(?course, true)
-       and isPathOfKarma(?course, Volition)
 
 Constraint: RootMentalCourseAndVolitionRemainDistinct
     UnwholesomeRoot,
@@ -372,8 +377,8 @@ Constraint: RootMentalCourseAndVolitionRemainDistinct
     and Volition
     are separately represented determinations
 
-Constraint: MentalPathDistinctionIsNotManifestationDistinction
-    mental versus bodily-verbal karmapatha
+Constraint: MentalCourseDistinctionIsNotManifestationDistinction
+    mental versus bodily-verbal Courses of Action
     is not identical with
     avijñapti versus vijñapti
 ```

@@ -9,9 +9,9 @@
 
 ## 2. Sanskrit (IAST)
 
-```text
+```iast
 paiśunyaṃ kliṣṭacittasya vacanaṃ parabhedane /
-pāruṣyam apriyaṃ sarvaṃ kliṣṭaṃ bhinnapralāpitā // 4.76 //
+pāruṣyamapriyaṃ sarvaṃ kliṣṭaṃ bhinna pralāpitā // 4.76 //
 ```
 
 ## 3. Lexical Analysis
@@ -22,10 +22,10 @@ pāruṣyam | apriyam | sarvam | kliṣṭam |
 bhinna-pralāpitā
 ```
 
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `paiśunyam` | nominative neuter singular | divisive speech |
-| `kliṣṭa-cittasya` | genitive masculine singular compound | of one whose citta is afflicted |
+| `kliṣṭa-cittasya` | genitive masculine singular compound | of one whose consciousness is afflicted |
 | `vacanam` | nominative neuter singular | utterance; speech |
 | `para-bhedane` | locative neuter singular | for the division of others |
 | `pāruṣyam` | nominative neuter singular | harsh or injurious speech |
@@ -34,7 +34,7 @@ bhinna-pralāpitā
 | `kliṣṭam` | nominative neuter singular | afflicted; ethically contaminated |
 | `bhinna-pralāpitā` | nominative feminine singular abstract | the condition of disordered or frivolous afflicted speech |
 
-**Three verbal courses**
+**Three further verbal courses**
 
 The verse completes the formal definitions of the four verbal unwholesome
 courses begun with false speech in VAK 4.74:
@@ -60,7 +60,7 @@ kliṣṭa-cittasya
         paiśunyam [bhavati]
 ```
 
-> Divisive speech is the utterance of one whose citta is afflicted, directed
+> Divisive speech is the utterance of one whose consciousness is afflicted, directed
 > toward dividing others.
 
 The genitive supplies the speaker's afflictive condition; the locative gives
@@ -74,7 +74,7 @@ the practical end toward which the utterance is directed.
         pāruṣyam [bhavati]
 ```
 
-> Harsh speech is disagreeable speech arising from an afflicted citta.
+> Harsh speech is disagreeable speech arising from afflicted consciousness.
 
 The Bhāṣya carries `kliṣṭacittasya`, `vacanam`, and the previously established
 conditions `arthābhijña` and `abhrānti` into this compressed definition.
@@ -88,32 +88,32 @@ sarvam kliṣṭam [vacanam]
 
 > All afflicted speech is the condition of disordered or frivolous speech.
 
-The Bhāṣya records disagreement about the extension of `sarvam`: one reading
-includes all afflicted utterance; another restricts the fourth course to
-afflicted speech other than false, divisive, and harsh speech.
+The Bhāṣya defines the course broadly here as all afflicted utterance. An
+alternative residual definition begins in VAK 4.77.
 
 ## 5. Translation
 
-### Literal Translation
+### Scientific English Rendering
 
-> Divisive speech is the utterance of one whose citta is afflicted, directed
-> toward dividing others. Harsh speech is what is disagreeable. All afflicted
-> speech is disordered or frivolous speech.
+> Divisive speech is the utterance of one whose consciousness is afflicted,
+> directed toward dividing others. Harsh speech is disagreeable speech.
+> All afflicted speech is disordered discourse.
 
 ### Bhāṣya-informed study translation
 
-> Divisive speech is meaning-bearing speech arising from an afflicted citta
-> and directed toward breaking relations among others and producing
-> estrangement. Harsh speech is afflicted, disagreeable or injurious speech
-> whose meaning is understood by the intended recipient without confusion of
-> the person addressed. `Saṃbhinnapralāpa` is afflicted discourse: on one
-> interpretation it includes every afflicted utterance; on another it is the
-> residual class of afflicted speech not already constituted as false,
-> divisive, or harsh speech. It need not be unintelligible or grammatically
-> incoherent.
+> Divisive speech is the utterance of one whose consciousness is afflicted,
+> directed toward dividing others. Harsh speech is disagreeable speech.
+> All afflicted speech is disordered discourse.
+>
+> The Bhāṣya specifies that divisive speech aims to produce estrangement and
+> carries forward the conditions that the recipient understand the meaning
+> and that the intended person not be mistaken. Those conditions also govern
+> harsh speech, which is afflicted, disagreeable address understood by the
+> person actually intended. Here the fourth course is defined broadly as all
+> afflicted utterance; the alternative residual definition begins in VAK 4.77.
 
 The aimed estrangement, inherited comprehension and non-mistake conditions,
-the two interpretations of the fourth course, and its examples are supplied
+the definition of the fourth course as all afflicted speech are supplied
 by the Bhāṣya.
 
 ## 6. Philosophical Translation
@@ -121,13 +121,12 @@ by the Bhāṣya.
 > Speech becomes karmically determinate through the practical relation it
 > realizes. It may corrupt the speaker's relation to meaning through
 > falsehood, rupture relations among others through division, reach an
-> intended person as afflicted painful address, or dissipate the wholesome
-> orientation of discourse through afflicted talk. Semantic coherence alone
-> does not make speech ethically ordered: an intelligible utterance can still
-> flatter for gain, inflame passion, entertain under affliction, or propagate
-> a corrupt orientation.
+> intended person as afflicted painful address, or fall under the broad
+> fourth course simply as afflicted utterance. Semantic coherence alone does
+> not establish the ethical status of discourse.
 
-The four verbal failures are related but not reducible to one another.
+The four verbal course types are related but not reducible to one another;
+the broad fourth course may overlap the first three.
 
 ## 7. Technical Vocabulary
 
@@ -137,9 +136,9 @@ Speech practically directed toward breaking a relation among others. The
 Bhāṣya adds `aprīti`, estrangement or lack of affection, as the effect it aims
 to produce.
 
-**`Kliṣṭacitta` — afflicted citta**
+**`Kliṣṭacitta` — afflicted consciousness**
 
-Citta operating under an unwholesome root or afflictive determination. The
+Consciousness operating under an unwholesome root or afflictive determination. The
 term marks the ethical generation of speech; it should not be converted into
 a diagnosis of an enduring psychological substance.
 
@@ -164,29 +163,9 @@ correct targeting.
 
 **`Saṃbhinnapralāpa` — disordered or frivolous afflicted speech**
 
-A deliberately cautious translation. The examples show that the category is
-not limited to nonsense, broken grammar, or semantic incoherence.
-
-**Bhāṣya examples**
-
-```text
-lapanā       flattering or ingratiating talk
-gīta         passion-driven song
-nāṭya        theatrical or entertainment speech
-kuśāstra     corrupt or heterodox treatise
-parideva     lamentation
-saṃgaṇikā    social chatter or gossip
-```
-
-These examples belong to the commentary's received ethical field; they do not
-make every song, performance, lament, or conversation intrinsically
-unwholesome.
-
-**`Grāmyarasa` and `naiṣkramya`**
-
-Sensual or vulgar taste and renunciation. The Bhāṣya contrasts song generated
-by the former with song connected to the latter, showing that expressive form
-alone does not determine karmic status.
+A deliberately cautious translation. Here the category is defined by
+afflicted speech broadly; examples and the alternative residual account begin
+in the succeeding discussion.
 
 ## 8. Logical Determination
 
@@ -203,7 +182,7 @@ afflicted generation
 
 The exact practical function differentiates the courses.
 
-**Four verbal failures**
+**Four verbal course types**
 
 ```text
 FALSE SPEECH
@@ -219,46 +198,18 @@ HARSH SPEECH
     realized as afflicted painful address
 
 DISORDERED / FRIVOLOUS AFFLICTED SPEECH
-    practical orientation of discourse
-    corrupted or dissipated
+    all afflicted utterance under the broad definition
 ```
 
-**Two extensions of `saṃbhinnapralāpa`**
+**Broad definition of `saṃbhinnapralāpa`**
 
 ```text
-POSITION A — broad
-    AfflictedSpeech(x)
-        → Saṃbhinnapralāpa(x)
-
-POSITION B — residual
-    AfflictedSpeech(x)
-    and not FalseSpeech(x)
-    and not DivisiveSpeech(x)
-    and not HarshSpeech(x)
-        → Saṃbhinnapralāpa(x)
+all afflicted utterance
+    → saṃbhinnapralāpa
 ```
 
-The Bhāṣya transmits both positions; the official study does not collapse
-their different taxonomic consequences.
-
-**Form and orientation**
-
-```text
-same expressive form: song
-
-sensual-afflictive orientation
-    → classified as afflicted discourse
-
-renunciation orientation
-    → not classified in that way
-```
-
-Therefore:
-
-```text
-surface linguistic form
-    ≠ sufficient ethical determination
-```
+The alternative residual definition is introduced in VAK 4.77, outside the
+present source unit.
 
 ## 9. Interpretive Note
 
@@ -280,21 +231,21 @@ rooted intention
 **Meaningful speech can still be disordered**
 
 The fourth course concerns the ethical order of discourse, not merely its
-syntax or semantic intelligibility. A coherent statement can remain
-`saṃbhinnapralāpa` under the Bhāṣya's examples because its generation and
-practical orientation are afflicted.
+syntax or semantic intelligibility. Because the verse defines it as all
+afflicted utterance, semantic coherence alone does not exclude a statement
+from `saṃbhinnapralāpa`.
 
 **Avoiding a modern mechanical equivalence**
 
 Context-free verbosity, irrelevant continuation, or semantic drift may offer
 modern analogies for disordered discourse, but the ancient category must not
-be identified with technical output defects. Its source determination is
-ethical: afflicted speech considered broadly or as the residual fourth verbal
-karmapatha.
+be identified with technical output defects. The source definition here is
+ethical and broad: all afflicted speech falls within the fourth course.
 
-This is the Organon contact. The definitions, inherited completion-conditions,
-two interpretations, examples, and song contrast belong to the Bhāṣya; the
-four-relations model of verbal Practical Form is the project synthesis.
+This is the project's interpretive synthesis. The definitions, inherited
+completion-conditions, and broad fourth-course classification belong to the
+Bhāṣya; the four-relations model of verbal Practical Form is the project
+synthesis.
 
 ## 10. OWL++ Seed
 
@@ -304,22 +255,18 @@ Class: FalseSpeech
 Class: DivisiveSpeech
 Class: HarshSpeech
 Class: DisorderedAfflictedSpeech
-Class: AfflictedCitta
+Class: AfflictedConsciousness
+Class: AfflictedSpeech
 Class: RecipientUnderstanding
 Class: NonMistakenRecipientRelation
 Class: RelationalRupture
 Class: PainfulAddress
-Class: AfflictedDiscursiveOrientation
-Class: BroadExtension
-Class: ResidualExtension
 
 ObjectProperty: generatedFrom
 ObjectProperty: understoodBy
 ObjectProperty: correctlyTargets
 ObjectProperty: aimsAt
 ObjectProperty: produces
-ObjectProperty: hasTaxonomicExtension
-ObjectProperty: governedByOrientation
 
 FalseSpeech SubClassOf VerbalUnwholesomeKarmicCourse
 DivisiveSpeech SubClassOf VerbalUnwholesomeKarmicCourse
@@ -327,7 +274,7 @@ HarshSpeech SubClassOf VerbalUnwholesomeKarmicCourse
 DisorderedAfflictedSpeech SubClassOf VerbalUnwholesomeKarmicCourse
 
 Rule: ConstitutiveConditionsOfDivisiveSpeech
-    AfflictedCitta(?c)
+    AfflictedConsciousness(?c)
     and generatedFrom(?utterance, ?c)
     and understoodBy(?utterance, ?recipient)
     and correctlyTargets(?utterance, ?relation)
@@ -335,24 +282,15 @@ Rule: ConstitutiveConditionsOfDivisiveSpeech
     -> DivisiveSpeech(?utterance)
 
 Rule: ConstitutiveConditionsOfHarshSpeech
-    AfflictedCitta(?c)
+    AfflictedConsciousness(?c)
     and generatedFrom(?utterance, ?c)
     and understoodBy(?utterance, ?recipient)
     and correctlyTargets(?utterance, ?recipient)
     and produces(?utterance, PainfulAddress)
     -> HarshSpeech(?utterance)
 
-Rule: BroadDisorderedSpeechPosition
+Rule: BroadDisorderedSpeechDefinition
     AfflictedSpeech(?utterance)
-    and hasTaxonomicExtension(?account, BroadExtension)
-    -> DisorderedAfflictedSpeech(?utterance)
-
-Rule: ResidualDisorderedSpeechPosition
-    AfflictedSpeech(?utterance)
-    and not FalseSpeech(?utterance)
-    and not DivisiveSpeech(?utterance)
-    and not HarshSpeech(?utterance)
-    and hasTaxonomicExtension(?account, ResidualExtension)
     -> DisorderedAfflictedSpeech(?utterance)
 
 Constraint: SemanticCoherenceDoesNotGuaranteeWholesomeSpeech
@@ -360,8 +298,4 @@ Constraint: SemanticCoherenceDoesNotGuaranteeWholesomeSpeech
     does not by itself exclude
     DisorderedAfflictedSpeech
 
-Constraint: ExpressiveFormDoesNotDetermineEthicalOrientation
-    song or performance as a surface form
-    may be differently classified
-    according to its governing orientation
 ```

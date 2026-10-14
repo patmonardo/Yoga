@@ -9,7 +9,7 @@
 
 ## 2. Sanskrit (IAST)
 
-```text
+```iast
 chinatti strī pumān dṛṣṭi-caritaḥ so 'samanvayaḥ /
 saṃdhiḥ kāṅkṣāsti-dṛṣṭibhyāṃ nehānantarya-kāriṇaḥ // 4.80 //
 ```
@@ -23,7 +23,7 @@ saṃdhiḥ | kāṅkṣā-asti-dṛṣṭibhyām |
 na | iha | ānantarya-kāriṇaḥ
 ```
 
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `chinatti` | third-person singular present of `√chid` | severs; cuts off |
 | `strī` | nominative feminine singular | a woman |
@@ -33,7 +33,7 @@ na | iha | ānantarya-kāriṇaḥ
 | `a-samanvayaḥ` | nominative masculine singular | non-endowment; non-possession |
 | `saṃdhiḥ` | nominative masculine singular | reconnection; restoration of continuity |
 | `kāṅkṣā` | compound member | doubt |
-| `asti-dṛṣṭi` | compound member | the view that ground and result exist |
+| `asti-dṛṣṭi` | compound member | the view that karmic ground and result exist |
 | `-bhyām` | instrumental dual ending | through either of the two |
 | `na iha` | negation plus locative adverb | not here; not in this present life |
 | `ānantarya-kāriṇaḥ` | genitive masculine singular compound | for one who has committed an immediate-retribution action |
@@ -82,7 +82,8 @@ asti-dṛṣṭyā vā
     saṃdhiḥ [bhavati]
 ```
 
-> Reconnection occurs through doubt or through the view that they exist.
+> Reconnection occurs through doubt or through the view that karmic ground
+> and result exist.
 
 The instrumental dual coordinates two alternative conditions. The Bhāṣya
 glosses `asti-dṛṣṭi` as `samyagdṛṣṭi`, right view concerning karmic ground and
@@ -103,25 +104,29 @@ result.
 
 ## 5. Translation
 
-### Literal Translation
+### Scientific English Rendering
 
 > A woman or a man whose disposition is governed by view severs them; that
-> severance is non-endowment. Reconnection occurs through doubt or through the
-> view that they exist, but not here for one who has committed an
-> immediate-retribution action.
+> severance is non-endowment. Reconnection occurs through doubt or the view
+> that karmic ground and result exist, but not here for one who has committed
+> an immediate-retribution action.
 
 ### Bhāṣya-informed study translation
 
-> A woman or a man whose disposition has become firmly governed by false view
-> can sever the wholesome roots; a person governed merely by unstable craving
-> does not complete this severance. Root-severance is the state of
-> non-endowment in which acquisition of the wholesome roots no longer arises
-> and non-acquisition arises. The roots reconnect when doubt about karmic
-> ground and result breaks the certainty of denial, or when right view that
-> they exist arises. All nine grades reconnect together at the level of
-> endowment, although their actual manifestation returns successively. For one
-> who has committed an immediate-retribution action, this reconnection cannot
-> occur in the present life, though it is not absolutely excluded thereafter.
+> A woman or a man whose disposition is governed by view severs them; that
+> severance is non-endowment. Reconnection occurs through doubt or the view
+> that karmic ground and result exist, but not here for one who has committed
+> an immediate-retribution action.
+>
+> The Bhāṣya specifies that the view-governed disposition must be firmly
+> established; a person governed by unstable craving does not complete this
+> severance. Non-endowment arises when acquisition of the wholesome roots no
+> longer recurs and non-acquisition arises. Doubt about karmic ground and
+> result breaks the certainty of denial; the view that karmic ground and
+> result exist is glossed as right view. All nine grades reconnect together,
+> although their manifestation returns successively. An immediate-retribution
+> actor cannot reconnect in the present life, but reconnection is not excluded
+> thereafter.
 
 The craving/view contrast, technical acquisition account, simultaneous
 reconnection, gradual manifestation, and temporal scope of the exception are
@@ -135,7 +140,7 @@ supplied by the Bhāṣya.
 > before full right view has been established. Once the relation of endowment
 > is restored, capacity and manifestation remain distinct—the whole capacity
 > reconnects together, while its effective exercise returns progressively.
-> Restoration of principle also does not erase consequences already fixed by
+> Restoration of orientation also does not erase consequences already fixed by
 > completed action.
 
 The local cycle is:
@@ -151,9 +156,10 @@ fixed false view
 
 ## 7. Technical Vocabulary
 
-**`Dṛṣṭi-carita` — governed by view**
+**`Dṛṣṭi-carita` — opinionist (view-governed)**
 
-A disposition whose practical course is principially organized by view. The
+“Opinionist” names a person whose disposition is governed by a settled view;
+it does not mean a rationalist or a person guided by reason. The
 Bhāṣya attributes its capacity for severance to a firm and deeply established
 unwholesome orientation (`dṛḍha-gūḍha-pāpāśaya`).
 
@@ -167,8 +173,8 @@ The contrasted type. Craving may be intense but its orientation is unstable
 The Kārikā explicitly states `strī pumān`, woman and man. The Bhāṣya records
 an alternative denying severance to women on an alleged weakness of desire,
 energy, and discriminative capacity, then answers that this would contradict
-an established doctrinal statement concerning the female faculty. The
-official study preserves the verse's inclusive statement and attributes the
+an established doctrinal statement concerning the Female Faculty. The
+study preserves the verse's inclusive statement and attributes the
 rejected restriction historically.
 
 **`Asamanvaya` / `asamanvāgama` — non-endowment**
@@ -300,10 +306,10 @@ determined by completed action.
 
 ## 9. Interpretive Note
 
-**Principle is more stable than appetite**
+**Fixed view and unstable craving**
 
 The Bhāṣya's contrast is not praise of view as such. It identifies the greater
-structural stability of a principially fixed orientation. Fluctuating craving
+structural stability of a fixed view-governed orientation. Fluctuating craving
 can repeatedly produce harm; fixed false view can reorganize the continuum so
 deeply that wholesome endowment is severed.
 

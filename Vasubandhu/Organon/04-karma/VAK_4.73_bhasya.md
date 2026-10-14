@@ -101,7 +101,7 @@ sentence concerning treasure and `parivartaka`; they remain visible and
 the uncertain constructions are not silently repaired. VAK 4.74 begins at
 `[244|13]` with the fourfold definition of sexual misconduct.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Scientific English Rendering
 
 Under what conditions does one who personally kills commit the course of
 killing, and under what conditions does each course through false view
@@ -115,21 +115,23 @@ the course of killing.
 
 What if one kills while uncertain whether the target is alive or not, or
 whether it is this being or another? Even then, one necessarily reaches a
-decision before striking: “Whoever it is, let it be.” A mind willing to
-destroy life has thereby been formed.
+decision before striking: “Whoever it is, let it be.” This already
+constitutes a `tyāga-citta`, a consciousness resolved on relinquishing
+life.
 
 How can killing occur when the aggregates are momentary? One account calls
-`prāṇa` a vital wind supported by body and mind: killing brings that to an
-end, as one extinguishes a lamp or stops the sound of a bell. Alternatively,
-`prāṇa` is the life faculty, and one brings that to cessation. If one
+`prāṇa` a vital wind supported by body and consciousness: killing brings
+that to an end, as one extinguishes a lamp or stops the sound of a bell.
+Alternatively, `prāṇa` is the Life Faculty, and one brings that to
+cessation. If one
 obstructs the arising of even a single moment of life that otherwise would
 arise, one is touched by the fault of killing; otherwise one is not.
 
 Whose life is it? It is the life of the one who dies through its absence.
 The force of the genitive “whose” will be examined later in the discussion
 of the person. The Blessed One nevertheless said: “When vitality, heat,
-and consciousness leave this body, it lies cast away like an insentient
-piece of wood.” Therefore a body possessing the faculties is called living;
+and Cognition leave this body, it lies cast away like an insentient
+piece of wood.” Therefore a body possessing the Faculties is called living;
 one without them is called dead.
 
 The Nirgranthas maintain that even an unintended killing of a living being
@@ -259,7 +261,7 @@ intention + objective relation + effective completion
 This is the Course of Action as an intelligent Form rather than a visible
 event or an inward state considered separately.
 
-## 7. Organon Contact Point
+## 7. Interpretation
 
 The analysis supplies an executable judgment schema:
 

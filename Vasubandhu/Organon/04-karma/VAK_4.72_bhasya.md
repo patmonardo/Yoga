@@ -60,7 +60,7 @@ well as a difficult quotation at `[242|26]–[243|02]`; they remain visible
 rather than receiving silent repairs. The inquiry into the defining marks
 of each individual course begins at `[243|12]` and leads into VAK 4.73.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Scientific English Rendering
 
 Suppose someone arranges another person's death and then dies at the same
 time as that person or before them. Does the principal course of karma
@@ -152,7 +152,7 @@ at the cost of one's own life. This is the Bhāṣya's stringent criterion in
 this example; it should not be generalized without qualification into a
 complete theory of coercion.
 
-## 6. Organon Contact Point
+## 6. Interpretation
 
 VAK 4.72 gives two rules for the unity of a Course of Action:
 

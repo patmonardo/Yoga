@@ -9,7 +9,7 @@
 
 ## 2. Sanskrit (IAST)
 
-```text
+```iast
 bhinna-pralāpa-pāruṣya-vyāpādā narake dvidhā /
 samanvāgamato 'bhidhyā-mithyā-dṛṣṭī kurau trayaḥ // 4.82 //
 ```
@@ -23,18 +23,18 @@ samanvāgamataḥ | abhidhyā | mithyā-dṛṣṭī |
 kurau | trayaḥ
 ```
 
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `bhinna-pralāpa` | compound member | disordered or frivolous afflicted speech |
 | `pāruṣya` | compound member | harsh speech |
-| `vyāpādāḥ` | nominative masculine plural, governing the compound list | ill will, together with the preceding two courses |
+| `vyāpādāḥ` | nominative masculine plural, governing the compound list | ill will, together with the preceding two Courses of Action |
 | `narake` | locative masculine singular | in hell |
 | `dvidhā` | indeclinable | in two ways; under both modes |
 | `samanvāgamataḥ` | ablative used adverbially | by way of endowment |
 | `abhidhyā` | compound member | covetousness |
 | `mithyā-dṛṣṭī` | dual form completing the pair | covetousness and false view |
 | `kurau` | locative masculine singular | in Kuru; specifically Uttarakuru |
-| `trayaḥ` | nominative masculine plural | the three mental courses |
+| `trayaḥ` | nominative masculine plural | the three mental Courses of Action |
 
 **Two modes of occurrence**
 
@@ -48,11 +48,12 @@ samanvāgamataḥ
     by endowment
 ```
 
-`Dvidhā` means that the first three courses occur in hell under both modes.
+`Dvidhā` means that the first three Courses of Action occur in hell under both
+modes.
 
 ## 4. Grammar
 
-**The three twofold courses in hell**
+**The three twofold Courses of Action in hell**
 
 ```text
 bhinna-pralāpaḥ
@@ -67,7 +68,7 @@ vyāpādaḥ
 The prose supplies the exact two ways: each is both an endowment of the
 continuum and capable of present manifestation.
 
-**Two endowed-only courses in hell**
+**Two endowed-only Courses of Action in hell**
 
 ```text
 abhidhyā
@@ -81,7 +82,7 @@ mithyā-dṛṣṭiḥ
 The Bhāṣya explicitly adds `na saṃmukhībhāvataḥ`: not through present
 manifestation.
 
-**The three mental courses in Uttarakuru**
+**The three mental Courses of Action in Uttarakuru**
 
 ```text
 kurau
@@ -89,29 +90,32 @@ kurau
     samanvāgamataḥ [santi]
 ```
 
-> In Uttarakuru, the three mental courses occur by way of endowment.
+> In Uttarakuru, the three mental Courses of Action occur by way of endowment.
 
 `Samanvāgamataḥ` carries forward syntactically. The Bhāṣya again denies their
 present manifestation there.
 
 ## 5. Translation
 
-### Literal Translation
+### Scientific English Rendering
 
-> In hell, disordered speech, harsh speech, and ill will occur in two ways.
-> Covetousness and false view occur by way of endowment. In Uttarakuru, the
-> three occur by way of endowment.
+> In hell, disordered or frivolous speech, harsh speech, and ill will occur in
+> both modes; covetousness and false view occur by endowment. In Kuru, the
+> three occur by endowment.
 
 ### Bhāṣya-informed study translation
 
-> In hell, disordered or frivolous speech, harsh speech, and ill will both
-> belong to the continuum and become presently manifest: lamentation manifests
-> the first, mutual torment the second, and mutual hatred the third.
-> Covetousness and false view remain endowments but do not manifest there,
-> because there is no attractive appropriable basis and karmic result is
-> directly evident. In Uttarakuru, covetousness, ill will, and false view also
-> belong to the continuum without becoming manifest, because possessiveness,
-> a hostile basis, and a corrupt practical disposition are absent.
+> In hell, disordered or frivolous speech, harsh speech, and ill will occur in
+> both modes; covetousness and false view occur by endowment. In Kuru, the
+> three occur by endowment.
+>
+> The Bhāṣya explains that the first three Courses of Action are both
+> endowments and presently manifest: lamentation manifests disordered speech,
+> mutual torment harsh speech, and mutual hatred ill will. Covetousness and
+> false view remain endowed but do not manifest in hell, where there is no
+> attractive basis and karmic result is directly evident. In Uttarakuru,
+> covetousness, ill will, and false view remain endowed but unmanifest because
+> possessiveness, a hostile basis, and an unwholesome disposition are absent.
 
 The two modes, the manifestation examples, and the explanations of absence are
 supplied by the Bhāṣya.
@@ -120,11 +124,11 @@ supplied by the Bhāṣya.
 
 > A karmic determination can belong operatively to a continuum without being
 > actual in the present event. Manifestation requires more than endowment: the
-> existential domain must supply the relevant relational basis, motive,
-> practical purpose, and disposition. Hell permits the active expression of
-> lamenting, harsh, and hostile courses while blocking appropriation and denial
+> destiny-setting must supply the relevant relational basis, motive, practical
+> purpose, and disposition. Hell permits the active expression of lamenting,
+> harsh, and hostile Courses of Action while blocking appropriation and denial
 > for lack of their specific conditions. Uttarakuru blocks the manifestation
-> of all three mental courses through favorable relational and dispositional
+> of all three mental Courses of Action through favorable relational and dispositional
 > conditions without thereby erasing their endowment.
 
 The governing distinction is:
@@ -157,17 +161,18 @@ endowed
     + presently manifest
 ```
 
-It does not mean that each course has two different ethical natures.
+It does not mean that each Course of Action has two different ethical natures.
 
 **`Naraka` — hell destiny**
 
-An existential domain whose conditions allow some unwholesome courses to
+A hell setting whose conditions allow some unwholesome Courses of Action to
 manifest while making others impossible or purposeless.
 
 **`Paridevanā` — lamentation**
 
 The Bhāṣya's explanation of how `saṃbhinnapralāpa` manifests in hell. This
-confirms again that the course cannot be reduced to syntactic incoherence.
+confirms again that the Course of Action cannot be reduced to syntactic
+incoherence.
 
 **`Rukṣa-saṃtānatā` — harshness of the continuum**
 
@@ -183,7 +188,8 @@ analysis.
 **`Uttarakuru` — northern Kuru**
 
 The northern human continent in the Kośa cosmology, characterized here by
-conditions blocking manifestation of the three mental unwholesome courses.
+conditions blocking manifestation of the three mental unwholesome Courses of
+Action.
 
 **`Amama-aparigrahatva` — absence of possessiveness and appropriation**
 
@@ -204,10 +210,10 @@ The reason false view does not become manifest in Uttarakuru.
 
 ```text
 AXIS 1
-    Is the continuum endowed with the course?
+    Is the continuum endowed with the Course of Action?
 
 AXIS 2
-    Do present domain-conditions support manifestation?
+    Do conditions in the present setting support manifestation?
 ```
 
 The axes generate at least three distinguishable states:
@@ -270,16 +276,16 @@ ENDOWED, NOT MANIFEST
 ```
 
 VAK 4.83 continues the Uttarakuru and destiny distribution, so VAK 4.82 should
-not be treated as a complete independent inventory of that domain.
+not be treated as a complete independent inventory of that setting.
 
 **Conditional manifestation rule**
 
 ```text
-EndowedWith(continuum, course)
-    + DomainSupports(course)
-    + RelationalBasisPresent(course)
-    + DispositionalConditionPresent(course)
-        → course may manifest
+EndowedWith(continuum, CourseOfAction)
+    + SettingSupports(CourseOfAction)
+    + RelationalBasisPresent(CourseOfAction)
+    + DispositionalConditionPresent(CourseOfAction)
+        → CourseOfAction may manifest
 ```
 
 Conversely:
@@ -287,7 +293,7 @@ Conversely:
 ```text
 endowed
     + constitutive condition absent
-        → course remains unmanifest
+        → Course of Action remains unmanifest
 ```
 
 Therefore neither inference is valid:
@@ -311,42 +317,42 @@ endowment
     a determination belongs to the continuum
 
 manifestability
-    the domain supplies its constitutive conditions
+    the setting supplies its constitutive conditions
 
 manifestation
     the determination becomes actual in an event
 ```
 
-This is more exact than calling a course simply present or absent.
+This is more exact than calling a Course of Action simply present or absent.
 
-**Domain does not mechanically cause conduct**
+**Setting does not mechanically cause conduct**
 
-Hell is not described as uniformly producing every unwholesome course, nor is
-Uttarakuru described as erasing every unwholesome endowment. Each course is
-tested against its own requirements: an attractive basis for covetousness,
+Hell is not described as uniformly producing every unwholesome Course of
+Action, nor is Uttarakuru described as erasing every unwholesome endowment.
+Each Course of Action is tested against its own requirements: an attractive basis for covetousness,
 purpose for deception, an undivided relation for divisive speech, or a hostile
 basis for ill will.
 
 **Favorable conditions can inhibit without curing**
 
 Uttarakuru's gentleness and lack of possessiveness prevent manifestation, but
-the three mental courses remain endowments. Environmental support and
+the three mental Courses of Action remain endowments. Environmental support and
 transformation of the continuum are therefore different determinations.
 
-This is the Organon contact. The destiny distributions, manifestation
-examples, and constitutive absence-reasons belong to the Bhāṣya; the explicit
-three-level modal model is the project synthesis.
+The Bhāṣya's destiny-specific examples ground the three-level modal model:
+endowment, manifestability, and manifestation remain distinct, with each
+Course of Action tested against its own constitutive conditions.
 
 ## 10. OWL++ Seed
 
 ```text
 Class: CausalContinuum
-Class: KarmapathaEndowment
-Class: CourseManifestability
+Class: CourseOfActionEndowment
+Class: CourseOfActionManifestability
 Class: PresentManifestation
-Class: ExistentialDomain
-Class: HellDomain
-Class: UttarakuruDomain
+Class: WorldSetting
+Class: HellSetting
+Class: UttarakuruSetting
 Class: RelationalBasis
 Class: DispositionalCondition
 
@@ -357,23 +363,23 @@ ObjectProperty: lacksRelationalBasisFor
 ObjectProperty: lacksDispositionFor
 ObjectProperty: conditionedBy
 
-HellDomain SubClassOf ExistentialDomain
-UttarakuruDomain SubClassOf ExistentialDomain
+HellSetting SubClassOf WorldSetting
+UttarakuruSetting SubClassOf WorldSetting
 
 Rule: EndowmentPlusConditionsPermitsManifestation
     endowedWith(?continuum, ?course)
-    and supportsManifestationOf(?domain, ?course)
-    and RelationalBasisPresent(?domain, ?course)
+    and supportsManifestationOf(?setting, ?course)
+    and RelationalBasisPresent(?setting, ?course)
     and DispositionalConditionPresent(?continuum, ?course)
     -> MayPresentlyManifest(?continuum, ?course)
 
 Rule: MissingBasisBlocksManifestation
     endowedWith(?continuum, ?course)
-    and lacksRelationalBasisFor(?domain, ?course)
+    and lacksRelationalBasisFor(?setting, ?course)
     -> not presentlyManifests(?continuum, ?course)
 
 Rule: HellTwofoldCourses
-    LocatedIn(?continuum, HellDomain)
+    LocatedIn(?continuum, HellSetting)
     -> endowedWith(?continuum, DisorderedAfflictedSpeech)
        and presentlyManifests(?continuum, DisorderedAfflictedSpeech)
        and endowedWith(?continuum, HarshSpeech)
@@ -382,7 +388,7 @@ Rule: HellTwofoldCourses
        and presentlyManifests(?continuum, IllWill)
 
 Rule: UttarakuruMentalCoursesRemainUnmanifest
-    LocatedIn(?continuum, UttarakuruDomain)
+    LocatedIn(?continuum, UttarakuruSetting)
     -> endowedWith(?continuum, Covetousness)
        and endowedWith(?continuum, IllWill)
        and endowedWith(?continuum, FalseView)

@@ -1,4 +1,4 @@
-# VAK 4.92 Bhāṣya — Completion of the Training-status Matrix
+# VAK 4.92 Bhāṣya — Completion of the Training-status Result Matrix
 
 ## 1. Kārikā Anchor
 
@@ -7,173 +7,126 @@ dharmāḥ śaikṣādikā ekaṃ phalaṃ trīṇy api ca dvayam /
 tābhyām anyasya śaikṣādyā dve dve pañca phalāni ca // 4.92 //
 ```
 
-> For adept action, dharmas beginning with the trainee class are respectively
-> one result, three, and two. For action belonging to neither of those two,
-> dharmas beginning with the trainee class are respectively two, two, and all
-> five results.
-
-The opening words complete the `aśaikṣa` construction left suspended at the
-end of 4.91. The second half then supplies the final row of the matrix.
+> For beyond-training action, trainee dharmas stand as one result: the
+> dominant result. Dharmas belonging to one beyond training stand as three
+> results, with maturation and disconnection excluded; the corresponding,
+> activity-produced, and dominant results remain. Dharmas belonging to
+> neither trainee nor one beyond training stand as two results:
+> activity-produced and dominant. For action belonging to neither trainee
+> nor one beyond training, trainee dharmas stand as two results:
+> activity-produced and dominant. Dharmas belonging to one beyond training
+> stand in the same way. Dharmas belonging to neither status stand as all
+> five results: maturation, corresponding, disconnection, activity-produced,
+> and dominant.
 
 ## 2. Continuous Sanskrit
 
 ```iast
 dharmāḥ śaikṣādikā ekaṃ phalaṃ trīṇy api ca dvayam /
 
-aśaikṣasya karmaṇaḥ śaikṣā dharmā ekam adhipatiphalam; aśaikṣās trīṇi,
-vipākavisaṃyogaphale hitvā; naivaśaikṣānāśaikṣā dve,
-puruṣakārādhipatiphale.
+aśaikṣasya karmaṇaḥ śaikṣā dharmā ekam adhipatiphalam /
+aśaikṣāḥ trīṇi vipākavisaṃyogaphale hitvā /
+naivaśaikṣānāśaikṣā dve puruṣakārādhipatiphale /
 
 tābhyām anyasya śaikṣādyā dve dve pañca phalāni ca // 4.92 //
 
-śaikṣāśaikṣābhyām anyasya karmaṇo naivaśaikṣānāśaikṣasya śaikṣā
-dharmā dve, puruṣakārādhipatiphale. aśaikṣā apy evam.
-naivaśaikṣānāśaikṣāḥ pañca phalāni.
+śaikṣāśaikṣābhyām anyasya karmaṇo naivaśaikṣānāśaikṣasya
+śaikṣā dharmā dve puruṣakārādhipatiphale /
+aśaikṣā apy evam /
+naivaśaikṣānāśaikṣāḥ pañca phalāni /
 ```
 
-The unit is textually stable. The continuous Sanskrit opens compounds and
-sandhi while preserving the source's ordered classes: trainee, adept, and
-neither trainee nor adept.
+The source unit is `[257|11]–[257|16]`. It supplies the continuation left
+open in 4.91, then states the result profile for action belonging to neither
+trainee nor beyond-training status.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Scientific English Rendering
 
-For action belonging to an adept, trainee dharmas stand as one result: the
-dominant result. Adept dharmas stand as three results, with maturation and
-disconnection excluded. Dharmas belonging to neither trainee nor adept stand
-as two results: the activity-produced and dominant results.
+For action belonging to one beyond training, trainee dharmas are one result:
+the dominant result. Beyond-training dharmas are three results, excluding
+maturation and disconnection; the corresponding, activity-produced, and
+dominant results remain. Dharmas belonging to neither trainee nor one beyond
+training are two results: activity-produced and dominant.
 
-For action belonging to neither trainee nor adept, trainee dharmas stand as
-two results: the activity-produced and dominant results. Adept dharmas are
-related in the same way. Dharmas belonging to neither status stand as all
-five results.
+For action other than the two training-status classes, trainee dharmas are
+two results: activity-produced and dominant. Beyond-training dharmas are the
+same. Dharmas belonging to neither status are all five results: maturation,
+corresponding, disconnection, activity-produced, and dominant.
 
-## 4. The Adept-action Row
+## 4. The Beyond-training-action Row
 
-The action of one beyond training has the profile:
+| Result-dharma status | Number | Included results | Excluded results |
+|---|---:|---|---|
+| trainee | 1 | dominant | maturation, corresponding, disconnection, activity-produced |
+| beyond training | 3 | corresponding, activity-produced, dominant | maturation, disconnection |
+| neither | 2 | activity-produced, dominant | maturation, corresponding, disconnection |
 
-| Result-dharma status | Number | Included relations |
-|---|---:|---|
-| trainee | 1 | dominant |
-| adept | 3 | corresponding, activity-produced, dominant |
-| neither | 2 | activity-produced, dominant |
+The single result in the trainee cell is specified by the Bhāṣya as the
+dominant result. In the beyond-training cell, excluding maturation and
+disconnection leaves the corresponding, activity-produced, and dominant
+results. The neither-status cell is expressly identified as the
+activity-produced and dominant results.
 
-The first cell is striking. Adept action does not produce trainee dharmas as
-its corresponding continuation, because completion of training does not
-regress genetically into the trainee Path. It can nevertheless stand as a
-dominant condition for trainee dharmas.
+## 5. The Neither-status-action Row
 
-The adept-to-adept cell retains correspondence: completed training can
-continue through dharmas of its own status. The neither-status cell lacks
-that same-status Path correspondence but remains open to direct production
-and dominance.
+| Result-dharma status | Number | Included results | Excluded results |
+|---|---:|---|---|
+| trainee | 2 | activity-produced, dominant | maturation, corresponding, disconnection |
+| beyond training | 2 | activity-produced, dominant | maturation, corresponding, disconnection |
+| neither | 5 | maturation, corresponding, disconnection, activity-produced, dominant | none |
 
-## 5. The Neither-status Row
+The phrase `aśaikṣā apy evam` carries the two-result profile from trainee
+dharmas to beyond-training dharmas. The final clause assigns all five
+results to neither-status dharmas. It states the full admissible result-set
+for this classification, not that every individual action manifests five
+separate results.
 
-Action belonging to neither trainee nor adept yields:
+## 6. Completed Directed Matrix
 
-| Result-dharma status | Number | Included relations |
-|---|---:|---|
-| trainee | 2 | activity-produced, dominant |
-| adept | 2 | activity-produced, dominant |
-| neither | 5 | maturation, correspondence, disconnection, activity-produced, dominant |
-
-The two cross-status cells show that ordinary action can support or produce
-Path dharmas without itself possessing a Path status. Its relation to Path
-results is limited to production and dominance.
-
-Within its own neither-status field, however, the complete fivefold result
-range is available. This broad class includes the contaminated and ordinary
-processes capable of maturation and correspondence, while also admitting an
-action that produces disconnection.
-
-## 6. The Complete Directed Matrix
-
-Combining 4.91 and 4.92 gives:
-
-| Action status ↓ / Result status → | Trainee | Adept | Neither |
+| Action status ↓ / Result status → | Trainee | Beyond training | Neither |
 |---|---|---|---|
-| trainee | N, P, A | N, P, A | V, P, A |
-| adept | A | N, P, A | P, A |
-| neither | P, A | P, A | M, N, V, P, A |
+| trainee | corresponding, activity-produced, dominant | corresponding, activity-produced, dominant | disconnection, activity-produced, dominant |
+| beyond training | dominant | corresponding, activity-produced, dominant | activity-produced, dominant |
+| neither | activity-produced, dominant | activity-produced, dominant | maturation, corresponding, disconnection, activity-produced, dominant |
 
-where:
-
-```text
-M = maturation       (vipāka)
-N = correspondence   (niṣyanda)
-V = disconnection    (visaṃyoga)
-P = activity-produced (puruṣakāra)
-A = dominant         (adhipati)
-```
-
-This table displays the exact membership concealed by the count matrix:
+The counts alone obscure the change in membership:
 
 ```text
-trainee: 3, 3, 3
-adept:   1, 3, 2
-neither: 2, 2, 5
+trainee:         3, 3, 3
+beyond training: 1, 3, 2
+neither:         2, 2, 5
 ```
 
-## 7. Path Directionality
+For example, trainee action related to neither-status dharmas includes
+disconnection, whereas beyond-training action related to neither-status
+dharmas does not. Neither-status action related to neither-status dharmas
+has the full five-result set.
 
-The matrix is not symmetric:
+## 7. Status and Causal Direction
 
-```text
-trainee action → adept result
-    correspondence + production + dominance
+The matrix is directional. Beyond-training action relates to trainee dharmas
+only through the dominant result, while trainee action has a corresponding
+result in beyond-training dharmas. The reverse status-pair therefore does
+not reproduce the same result-set.
 
-adept action → trainee result
-    dominance only
-```
+`Aśaikṣa` is rendered **beyond training**, not “untrained”: the status marks
+completed training. `Naivaśaikṣa-nāśaikṣa` names the third class, neither
+trainee nor beyond training. These are result-classification coordinates,
+not rankings inferred from the number of available relations.
 
-This is the causal signature of an irreversible developmental order. The
-trainee can generate a continuation culminating in adept dharmas. Adept
-action does not generate a corresponding return to training, although it can
-support trainees as a dominant condition.
+## 8. Interpretation
 
-The Path is therefore represented as directed transformation rather than a
-mere partition into social or psychological classes.
+The 4.91–4.92 matrix treats action and its result as ordered terms whose
+training statuses jointly determine causal membership. Counts compress
+typed relations; they do not replace them or measure spiritual worth. The
+Kośa's wider cognitive movement is governed by Discriminative Cognition
+joining and governing Perception and Conception. Here, that movement is
+articulated practically as the differentiation of action-result relations
+across training-status classes.
 
-## 8. Why Neither-status Action Can Have Disconnection
-
-“Neither” does not mean incapable of entering the Path's causal field. It is
-a classification of the action itself, not a blanket denial of liberating
-effect. The all-five cell shows that a neither-status action can stand in the
-disconnection relation to a neither-status result under the relevant cases.
-
-Similarly, the trainee-to-neither cell includes disconnection even though
-correspondence is absent. The result ontology classifies the precise causal
-aspect; training status alone does not dictate it without the ordered source
-and target relation.
-
-## 9. Organon Contact Point
-
-The completed table is an executable transition policy:
-
-```text
-AllowedResultTypes(
-    action.trainingStatus,
-    result.trainingStatus
-) -> Set<ResultType>
-```
-
-It also gives the Agent architecture a nonregression rule:
-
-```text
-Correspondence(Adept, Trainee) = false
-Correspondence(Trainee, Adept) = true
-```
-
-An adept process may govern, enable, or condition training processes without
-becoming their developmental predecessor. Conversely, a trainee process can
-have an adept successor as its genetic continuation.
-
-The executable framing is the Organon reconstruction. The training statuses
-and exact result memberships belong to the source.
-
-## 10. Review Status
+## 9. Review Status
 
 The complete 4.92 unit `[257|11]–[257|16]` is included. It completes the
-adept row, supplies the neither-status row, and reconstructs the entire
-directed three-by-three training-status matrix from 4.91–4.92. It stops
-before 4.93 changes the coordinate to mode of abandonment at `[257|17]`.
+beyond-training-action row begun in 4.91, adds the neither-status-action row,
+and gives the full directed matrix. The study stops before the next
+classification begins at `[257|17]`.

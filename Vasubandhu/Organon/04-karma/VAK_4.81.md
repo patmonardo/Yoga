@@ -1,4 +1,4 @@
-# VAK_4.81 — Intention and Simultaneous Courses of Action
+# VAK_4.81 — Volition and Simultaneous Courses of Action
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -9,7 +9,7 @@
 
 ## 2. Sanskrit (IAST)
 
-```text
+```iast
 yugapad yāvad aṣṭābhir aśubhaiḥ saha vartate /
 cetanā daśabhir yāvac chubhair naikāṣṭapañcabhiḥ // 4.81 //
 ```
@@ -23,16 +23,16 @@ daśabhiḥ | yāvat | śubhaiḥ |
 na | eka-aṣṭa-pañcabhiḥ
 ```
 
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `yugapat` | indeclinable | simultaneously; in one occurrence |
 | `yāvat` | indeclinable correlative | as many as; up to |
 | `aṣṭābhiḥ` | instrumental plural numeral | with eight |
-| `aśubhaiḥ` | instrumental masculine plural | with unwholesome karmapathas |
+| `aśubhaiḥ` | instrumental masculine plural | with unwholesome Courses of Action |
 | `saha vartate` | preposition plus third-person singular | occurs together with |
 | `cetanā` | nominative feminine singular | volition |
 | `daśabhiḥ` | instrumental plural numeral | with ten |
-| `śubhaiḥ` | instrumental masculine plural | with wholesome karmapathas |
+| `śubhaiḥ` | instrumental masculine plural | with wholesome Courses of Action |
 | `na` | negative particle | not |
 | `eka-aṣṭa-pañcabhiḥ` | compressed instrumental numerical compound | with one, eight, or five |
 
@@ -41,11 +41,11 @@ na | eka-aṣṭa-pañcabhiḥ
 The Bhāṣya asks:
 
 ```text
-With how many karmapathas
-can one cetanā arise and occur simultaneously?
+With how many Courses of Action can one volition arise and occur
+simultaneously?
 ```
 
-This is not a count of courses with which a continuum remains endowed over
+This is not a count of Courses of Action with which a continuum remains endowed over
 time. It concerns actual co-presence in one volitional event.
 
 ## 4. Grammar
@@ -60,7 +60,8 @@ cetanā
     saha vartate
 ```
 
-> Volition occurs simultaneously with as many as eight unwholesome courses.
+> Volition occurs simultaneously with as many as eight unwholesome Courses of
+> Action.
 
 `Yāvat` establishes a maximum. The Bhāṣya fills the range continuously from
 one through eight rather than stating only the upper bound.
@@ -79,8 +80,8 @@ na tu
     pañcabhiḥ [ca]
 ```
 
-> With wholesome courses, volition occurs with as many as ten, but not with
-> one, eight, or five.
+> With wholesome Courses of Action, volition occurs with as many as ten, but
+> not with one, eight, or five.
 
 The Bhāṣya treats the tenfold statement as a general rule (`utsarga`) and the
 three excluded totals as its exception (`apavāda`) within the principal scheme
@@ -89,21 +90,25 @@ universalized beyond that context.
 
 ## 5. Translation
 
-### Literal Translation
+### Scientific English Rendering
 
-> Volition occurs simultaneously with as many as eight unwholesome courses.
-> With wholesome courses it occurs with as many as ten, but not with one,
-> eight, or five.
+> Volition occurs simultaneously with up to eight unwholesome Courses of
+> Action; with up to ten wholesome Courses of Action, but not with one, eight,
+> or five.
 
 ### Bhāṣya-informed study translation
 
-> One volition can arise simultaneously with any number from one through eight
-> unwholesome karmapathas, depending upon which mental course is manifest and
-> which bodily or verbal courses reach completion together. In the principal
+> Volition occurs simultaneously with up to eight unwholesome Courses of
+> Action; with up to ten wholesome Courses of Action, but not with one, eight,
+> or five.
+>
+> The Bhāṣya specifies that the unwholesome count ranges from one to eight,
+> depending on which mental Course of Action is manifest and which bodily or
+> verbal Courses of Action reach completion together. In the principal
 > wholesome conjunction scheme, one volition can accompany two, three, four,
-> six, seven, nine, or ten wholesome courses; totals of one, five, and eight
-> are excluded there. Outside that restraint-based scheme, however, the
-> Bhāṣya explicitly permits one, five, or eight through other configurations
+> six, seven, nine, or ten wholesome Courses of Action; totals of one, five,
+> and eight are excluded there. Outside that restraint-based scheme, however,
+> the Bhāṣya explicitly permits one, five, or eight through other configurations
 > of undertaken abstention.
 
 The constructed numerical cases, general-rule/exception analysis, and final
@@ -111,9 +116,9 @@ contextual qualification are supplied by the Bhāṣya.
 
 ## 6. Philosophical Translation
 
-> One volition can organize several determinate courses at once. Yet courses
-> that are individually possible do not thereby form an arbitrary possible
-> whole: their co-presence depends upon mental orientation, material
+> One volition can organize several determinate Courses of Action at once. Yet
+> individually possible Courses of Action do not thereby form an arbitrary
+> possible whole: their co-presence depends upon mental orientation, Form-based
 > completion, restraint, mode of knowledge, and practical context. The numbers
 > express structures of joint realization, not an accidental heap of moral
 > predicates. General rule, exception, and contextual qualification together
@@ -130,24 +135,26 @@ individual possibility
 
 **`Yugapat` — simultaneously**
 
-Co-presence within one event governed by one `cetanā`. It does not mean only
-that the courses belong to the same person or continuum at different times.
+Co-presence within one event governed by one volition (`cetanā`). It does not
+mean only that the Courses of Action belong to the same person or continuum
+at different times.
 
 **`Cetanā` — volition**
 
 The karmic determination that directs and organizes the event. VAK 4.78 showed
-that the mental karmapathas channel associated volition; VAK 4.81 now asks how
-many determinate courses can occur with that volition at once.
+that the mental Courses of Action channel associated volition; VAK 4.81 now
+asks how many determinate Courses of Action can occur with that volition at
+once.
 
 **`Saṃmukhībhāva` — manifestation or presence**
 
-Actual occurrence of a karmapatha in the event, as opposed to continuing
+Actual occurrence of a Course of Action in the event, as opposed to continuing
 endowment (`samanvāgama`) within the continuum.
 
 **`Utsarga` — general rule**
 
 The default wholesome statement: volition may occur with as many as ten
-wholesome courses.
+wholesome Courses of Action.
 
 **`Apavāda` — exception**
 
@@ -163,7 +170,7 @@ undertaken restraints generate many of the wholesome conjunction totals.
 
 **`Ekaṅga-virati` — one-factor abstention**
 
-The Bhāṣya's counterexample showing that one wholesome karmapatha can occur
+The Bhāṣya's counterexample showing that one wholesome Course of Action can occur
 outside the principal enumeration.
 
 ## 8. Logical Determination
@@ -171,10 +178,10 @@ outside the principal enumeration.
 **Unwholesome range**
 
 ```text
-one cetanā-event
+one volition-event
     can include
 1, 2, 3, 4, 5, 6, 7, or 8
-simultaneously manifest unwholesome courses
+simultaneously manifest unwholesome Courses of Action
 ```
 
 Examples supplied by the Bhāṣya include:
@@ -183,13 +190,13 @@ Examples supplied by the Bhāṣya include:
 vyāpāda + prāṇātipāta
     = 2
 
-divisive intention
+intent to divide
     + false speech
     + divisive speech
     + harsh speech
     = 4
 
-preparation concerning six courses
+preparation concerning six Courses of Action
     + personally completed sexual misconduct
     + simultaneous completion
     = maximum 8
@@ -207,7 +214,7 @@ greed? The answer restricts the earlier rule:
 ```text
 characteristic completion-root
     governs the case
-    where the completing citta is not otherwise determined
+    where the completing consciousness is not otherwise determined
 
 complex co-presence
     may contain additional mental determinants
@@ -230,9 +237,9 @@ excluded within this scheme:
     1, 5, 8
 ```
 
-The Bhāṣya derives these from combinations involving wholesome sense-knowledge,
-mental knowledge, right view, different undertakings of restraint, dhyāna
-restraint, non-outflow restraint, and the knowledges of exhaustion and
+The Bhāṣya derives these from combinations involving wholesome sensory
+Cognitions, Mind-Cognition, right view, different undertakings of restraint,
+dhyāna restraint, without-Influx restraint, and the knowledges of exhaustion and
 non-arising.
 
 **Contextual qualification**
@@ -256,8 +263,8 @@ verse-level exception
 
 **Constrained compossibility**
 
-Let `C(e)` be the set of karmapathas co-present in event `e` under one
-volition. Then membership of `a` and `b` in the general karmapatha inventory
+Let `C(e)` be the set of Courses of Action co-present in event `e` under one
+volition. Then membership of `a` and `b` in the general Course of Action inventory
 does not imply that `{a,b}` is realizable in every context:
 
 ```text
@@ -277,7 +284,7 @@ conditions govern joint possibility.
 The verse prevents the equation:
 
 ```text
-one cetanā
+one volition
     = one isolated moral predicate
 ```
 
@@ -315,7 +322,7 @@ synthesis.
 
 ```text
 Class: VolitionalEvent
-Class: KarmapathaConjunction
+Class: CourseOfActionConjunction
 Class: UnwholesomeConjunction
 Class: WholesomeConjunction
 Class: PrincipalRestraintScheme
@@ -324,15 +331,15 @@ Class: GeneralRule
 Class: ContextualException
 
 ObjectProperty: governedByVolition
-ObjectProperty: hasCoPresentCourse
+ObjectProperty: hasCoPresentCourseOfAction
 ObjectProperty: validInContext
 ObjectProperty: hasCardinality
 ObjectProperty: hasMaximumCardinality
 ObjectProperty: excludesCardinality
 ObjectProperty: qualifies
 
-UnwholesomeConjunction SubClassOf KarmapathaConjunction
-WholesomeConjunction SubClassOf KarmapathaConjunction
+UnwholesomeConjunction SubClassOf CourseOfActionConjunction
+WholesomeConjunction SubClassOf CourseOfActionConjunction
 
 Rule: UnwholesomeMaximum
     UnwholesomeConjunction(?c)
@@ -350,16 +357,16 @@ Rule: ContextualWholesomeQualification
     -> MayHaveCardinality(?c, 1, 5, 8)
 
 Constraint: SimultaneityIsNotEndowment
-    hasCoPresentCourse within one VolitionalEvent
+    hasCoPresentCourseOfAction within one VolitionalEvent
     is not identical with
-    enduring possession of a karmapatha
+    enduring possession of a Course of Action
 
 Constraint: IndividualPossibilityDoesNotImplyJointPossibility
-    possible courses require contextual compatibility
+    possible Courses of Action require contextual compatibility
     before forming one valid conjunction
 
 Constraint: CompletionRootDoesNotExhaustCoPresentDeterminations
     characteristic root at completion
     does not enumerate
-    every mental course present in the concrete event
+    every mental Course of Action present in the concrete event
 ```

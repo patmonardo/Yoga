@@ -9,7 +9,7 @@
 
 ## 2. Sanskrit (IAST)
 
-```text
+```iast
 prahāṇa-mārge samale sa-phalaṃ karma pañcabhiḥ /
 caturbhir amale 'nyac ca sāsravaṃ yac chubhāśubham // 4.87 //
 ```
@@ -21,18 +21,18 @@ prahāṇa-mārge | samale | sa-phalam | karma | pañcabhiḥ |
 caturbhiḥ | amale | anyat | ca | sa-āsravam | yat | śubha-aśubham
 ```
 
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `prahāṇa-mārge` | locative masculine singular compound | in the path that directly abandons affliction |
-| `samale` | locative masculine singular | contaminated; accompanied by stain |
+| `samale` | locative masculine singular | in the Path of Abandonment with stain |
 | `sa-phalam` | nominative neuter singular compound agreeing with `karma` | possessing or connected with results |
-| `karma` | nominative neuter singular | karma; here volitional operation within the specified path |
+| `karma` | nominative neuter singular | action associated with the specified Path |
 | `pañcabhiḥ` | instrumental plural numeral, with `phalaiḥ` understood | with five results |
 | `caturbhiḥ` | instrumental plural numeral, with `phalaiḥ` understood | with four results |
-| `amale` | locative masculine singular | in the uncontaminated path |
-| `anyat` | nominative neuter singular | other; outside the path of abandoning |
+| `amale` | locative masculine singular | in the Path of Abandonment without stain |
+| `anyat` | nominative neuter singular | other; outside the Path of Abandonment |
 | `ca` | coordinating particle | and, also |
-| `sāsravam` | nominative neuter singular | accompanied by outflows; contaminated |
+| `sāsravam` | nominative neuter singular | with Influx |
 | `yat` | relative nominative neuter singular | whichever, whatever |
 | `śubha-aśubham` | nominative neuter singular coordinative compound | wholesome or unwholesome |
 
@@ -40,46 +40,46 @@ caturbhiḥ | amale | anyat | ca | sa-āsravam | yat | śubha-aśubham
 
 ```text
 vipāka-phala       maturation result
-niṣyanda-phala     corresponding or outflow-result
+niṣyanda-phala     corresponding result
 visaṃyoga-phala    disconnection-result
 puruṣakāra-phala   activity-produced result
 adhipati-phala     dominant result
 ```
 
-The verse classifies karma by membership in this complete result-system. The
+The verse classifies action by membership in this complete result-system. The
 Bhāṣya determines which result is absent from each four-member profile.
 
 ## 4. Grammar
 
-**Contaminated path of abandoning**
+**Path of Abandonment with stain**
 
 ```text
 samale prahāṇa-mārge
-    karma
+    action
     pañcabhiḥ [phalaiḥ]
     sa-phalam [asti]
 ```
 
-> In the contaminated path of abandoning, karma possesses all five results.
+> In the Path of Abandonment with stain, action possesses all five results.
 
 The Bhāṣya identifies `prahāṇa-mārga` precisely as `ānantarya-mārga`, the
-immediate path that directly performs the abandonment of affliction.
+uninterrupted Path that directly performs the abandonment of affliction.
 
-**Uncontaminated path**
+**Path of Abandonment without stain**
 
 ```text
 amale [prahāṇa-mārge]
-    [karma]
+    [action]
     caturbhiḥ [phalaiḥ]
     [sa-phalam asti]
 ```
 
-> In the uncontaminated path of abandoning, karma possesses four results.
+> In the Path of Abandonment without stain, action possesses four results.
 
 The head noun and predicate are carried forward by ellipsis. According to the
 Bhāṣya, the missing member is maturation-result.
 
-**Other contaminated karma**
+**Other action with Influx**
 
 ```text
 anyat ca
@@ -88,7 +88,7 @@ anyat ca
     [tat caturbhiḥ phalaiḥ sa-phalam]
 ```
 
-> Other contaminated karma, whether wholesome or unwholesome, also possesses
+> Other action with Influx, whether wholesome or unwholesome, also possesses
 > four results.
 
 Here the missing member is not maturation but disconnection-result. Equal
@@ -96,48 +96,47 @@ instrumental numerals therefore do not imply identical result-sets.
 
 ## 5. Translation
 
-### Literal Translation
+### Scientific English Rendering
 
-> In the contaminated path of abandoning, karma possesses five results. In
-> the uncontaminated path it possesses four; so too does any other contaminated
-> karma that is wholesome or unwholesome.
+> In the Path of Abandonment with stain, action possesses five results. In
+> the Path of Abandonment without stain it possesses four; so too does other
+> action with Influx, whether wholesome or unwholesome.
 
 ### Bhāṣya-informed study translation
 
-> Karma operating in the contaminated immediate path that directly abandons
-> affliction stands in all five result-relations: maturation, correspondence,
-> disconnection, activity-produced consequence, and dominant conditioning.
-> Karma in an uncontaminated immediate path has four of these, because it does
-> not generate karmic maturation. Other contaminated wholesome or unwholesome
-> karma likewise has four, but with a different structure: it can mature, yet
-> because it does not itself perform the path's abandoning operation, it lacks
-> disconnection-result.
+> In the Path of Abandonment with stain, action stands in all five
+> result-relations: maturation result, corresponding result,
+> disconnection-result, activity-produced result, and dominant result.
+> Action in the Path of Abandonment without Influx has four results, because
+> it lacks maturation-result. Other action with Influx, whether wholesome or
+> unwholesome, likewise has four, but lacks disconnection-result.
 
-The identification of the immediate path, the five memberships, and the two
+The identification of the uninterrupted Path, the five memberships, and the two
 different exclusions are supplied by the Bhāṣya.
 
 ## 6. Philosophical Translation
 
 > The result-profile of an operation is determined by what the operation is
-> capable of doing within its concrete field. Contaminated path-activity can
-> still reproduce conditioned existence and yet, as the immediate operation
-> of abandoning, also effect disconnection. Uncontaminated path-activity
-> achieves disconnection without generating another maturation. Ordinary
-> contaminated action continues the causal reproduction of existence but does
-> not, merely by being wholesome or unwholesome, break the bond to affliction.
+> capable of doing within its concrete field. Action in the Path of
+> Abandonment with stain can still reproduce conditioned existence and yet,
+> as the uninterrupted operation of abandoning, also effect disconnection.
+> Action in the Path of Abandonment without stain achieves disconnection
+> without generating another maturation. Other action with Influx continues
+> the causal reproduction of existence but does not, merely by being
+> wholesome or unwholesome, break the bond to affliction.
 
 The dialectical structure is:
 
 ```text
-contaminated immediate path
+Path of Abandonment with stain
     preserves the power of maturation
     and negates afflictive conjunction
 
-uncontaminated immediate path
+Path of Abandonment without stain
     negates afflictive conjunction
     without reproducing maturation
 
-ordinary contaminated karma
+other action with Influx
     reproduces maturation
     without achieving disconnection
 ```
@@ -148,53 +147,63 @@ operation expressed through the exact structure of its results.
 
 ## 7. Technical Vocabulary
 
-**`Prahāṇa-mārga` — path of abandoning**
+**`Prahāṇa-mārga` — Path of Abandonment**
 
 The path for abandoning or that by which afflictions are abandoned. The
 Bhāṣya identifies it with the `ānantarya-mārga`, not with every broadly
 liberative or contemplative state.
 
-**`Ānantarya-mārga` — immediate path**
+**`Ānantarya-mārga` — uninterrupted Path**
 
-The operative path-moment that directly abandons a determinate affliction. Its
-function explains why karma located there can possess disconnection-result.
+The operative Path that directly abandons a determinate affliction. Its
+function explains why action located there can possess disconnection-result.
 
-**`Samala` and `sāsrava` — contaminated**
+**`Samala` — with stain**
 
-`Samala` literally presents the path as “with stain”; `sāsrava` classifies
-karma as accompanied by outflows. Contaminated does not mean simply
-unwholesome: the verse explicitly includes contaminated karma that is either
-wholesome or unwholesome.
+`Samala` describes the Path of Abandonment in the first clause as bearing
+stain. It is not a synonym for ethical unwholesomeness or for Influx.
 
-**`Amala` and `anāsrava` — uncontaminated**
+**`Sāsrava` — with Influx**
 
-Without stain or outflow. The uncontaminated immediate path can produce
-operative and liberative consequences, but it does not ripen into another
-mode of conditioned existence.
+`Sāsrava` classifies action as with Influx. The Bhāṣya says that action
+within the Path with stain is with Influx, and the verse also explicitly
+includes wholesome action with Influx.
+
+**`Amala` — without stain**
+
+`Amala` describes the Path of Abandonment in the second clause as without
+stain. It is not itself the word `anāsrava`.
+
+**`Anāsrava` — without Influx**
+
+The Bhāṣya identifies the action in the Path without stain as without
+Influx. This action can produce operative and liberative consequences, but
+not maturation-result.
 
 **`Vipāka-phala` — maturation result**
 
-The fruition of karma in a mode of conditioned existence. It belongs to the
-contaminated immediate path and to other contaminated wholesome or
-unwholesome karma, but not to the uncontaminated immediate path.
+The fruition of action in a mode of conditioned existence. It belongs to
+action in the Path with stain and to other wholesome or unwholesome action
+with Influx, but not to action in the Path without Influx.
 
 **`Niṣyanda-phala` — corresponding result**
 
-For the contaminated immediate path, the Bhāṣya gives similar, superior
-dharmas subsequently born from samādhi. It belongs to all three profiles in
-this verse.
+For action in the Path with stain, the Bhāṣya gives similar, superior
+dharmas subsequently born from samādhi. This result belongs to all three
+profiles in the verse.
 
 **`Visaṃyoga-phala` — disconnection-result**
 
 The achieved separation from affliction: the abandoning itself. It belongs
-to both contaminated and uncontaminated immediate paths, but not to ordinary
-contaminated wholesome or unwholesome karma outside that path.
+to action in both Paths of Abandonment, with and without stain, but not to
+other wholesome or unwholesome action with Influx.
 
 **`Puruṣakāra-phala` — activity-produced result**
 
 Dharmas actively drawn forth by the causal operation. The Bhāṣya includes the
 subsequent `adhimukti-mārga`, its co-arising dharmas, future cultivation, and
-the abandoning among the relevant results of immediate-path activity.
+the abandoning among the relevant results of activity in the uninterrupted
+Path.
 
 **`Adhipati-phala` — dominant result**
 
@@ -202,11 +211,10 @@ The wider efficacy by which the operation conditions other conditioned
 dharmas, excluding itself and dharmas already arisen before it. This result
 belongs to all three profiles.
 
-**Wholesome does not entail uncontaminated**
+**Wholesome does not entail without Influx**
 
-`Śubha` specifies ethical quality; `anāsrava` specifies freedom from the
-outflow-structure that reproduces conditioned existence. Their distinction is
-essential to the verse's classification.
+`Śubha` specifies ethical quality; `anāsrava` specifies freedom from Influx.
+The verse explicitly allows action to be wholesome and with Influx.
 
 ## 8. Logical Determination
 
@@ -225,30 +233,31 @@ A = adhipati
 Then:
 
 ```text
-ContaminatedImmediatePath
+ActionInStainedAbandoningPath
     = {V, N, D, P, A}
 
-UncontaminatedImmediatePath
+ActionInWithoutStainAbandoningPath
     = {N, D, P, A}
 
-OtherContaminatedKarma
+OtherWithInfluxAction
     = {V, N, P, A}
 ```
 
 **Membership table**
 
-| Karma class | `vipāka` | `niṣyanda` | `visaṃyoga` | `puruṣakāra` | `adhipati` |
+| Action class | `vipāka` | `niṣyanda` | `visaṃyoga` | `puruṣakāra` | `adhipati` |
 |---|---:|---:|---:|---:|---:|
-| contaminated immediate path | yes | yes | yes | yes | yes |
-| uncontaminated immediate path | no | yes | yes | yes | yes |
-| other contaminated wholesome/unwholesome | yes | yes | no | yes | yes |
+| action in the Path with stain | yes | yes | yes | yes | yes |
+| action in the Path without stain (without Influx) | no | yes | yes | yes | yes |
+| other wholesome or unwholesome action with Influx | yes | yes | no | yes | yes |
 
 The table exposes three independent axes:
 
 ```text
-path-function          immediate abandoning / other activity
-contamination-status  contaminated / uncontaminated
-ethical quality       wholesome / unwholesome
+path-function          uninterrupted Path of Abandonment / other activity
+stain                   with stain / without stain
+Influx                  with Influx / without Influx
+ethical quality         wholesome / unwholesome
 ```
 
 No one axis can substitute for the others.
@@ -256,22 +265,22 @@ No one axis can substitute for the others.
 **Cardinality is secondary**
 
 ```text
-|UncontaminatedImmediatePathResults| = 4
-|OtherContaminatedKarmaResults|      = 4
+|ActionInWithoutStainAbandoningPathResults| = 4
+|OtherWithInfluxActionResults|       = 4
 
 but
 
-UncontaminatedImmediatePathResults
-    ≠ OtherContaminatedKarmaResults
+ActionInWithoutStainAbandoningPathResults
+    ≠ OtherWithInfluxActionResults
 ```
 
 The essential difference is:
 
 ```text
-uncontaminated path:
+Path of Abandonment without stain (action without Influx):
     disconnection without maturation
 
-other contaminated karma:
+other action with Influx:
     maturation without disconnection
 ```
 
@@ -290,29 +299,30 @@ assignment.
 
 ## 9. Interpretive Note
 
-VAK 4.87 turns the five fruits into a logic of causal powers. Each result-type
-answers a different question about what an operation can accomplish. The
-taxonomy is therefore not an enumeration added after the fact; it is an
-analysis of the internal efficacy of karma under different determinations.
+VAK 4.87 turns the five results into a logic of causal powers. Each
+result-type answers a different question about what an operation can
+accomplish. The taxonomy is therefore not an enumeration added after the
+fact; it is an analysis of the internal efficacy of action under different
+determinations.
 
-The contaminated immediate path is the most dialectically concentrated case.
-It is still located within the outflow-conditioned field and can therefore
-produce maturation. Yet its specific function is the negation of that field's
-afflictive bond. It possesses both `vipāka` and `visaṃyoga`: conditioned
-causality has become capable of acting against the conjunction it ordinarily
-reproduces.
+The Path of Abandonment with stain is the most dialectically concentrated
+case. The Bhāṣya classifies action within it as with Influx, so it can produce
+maturation. Yet its specific function is the abandonment of affliction. It
+possesses both `vipāka` and `visaṃyoga`: conditioned causality has become
+capable of acting against the conjunction it ordinarily reproduces.
 
-The uncontaminated immediate path advances the determination. It retains the
-positive efficacy of correspondence, active production, dominant
-conditioning, and actual disconnection, but no longer produces maturation.
-Negation is no longer merely an operation occurring within reproduction; it
-has freed itself from reproducing another conditioned existence.
+The Path of Abandonment without stain advances the determination. The
+Bhāṣya identifies its action as without Influx. It retains the positive
+efficacy of correspondence, active production, dominant conditioning, and
+actual disconnection, but no longer produces maturation. Negation is no
+longer merely an operation occurring within reproduction; it has freed
+itself from reproducing another conditioned existence.
 
-Ordinary contaminated wholesome karma shows why goodness alone is not
-liberation. It can mature favorably and condition further results, but it does
-not thereby perform `visaṃyoga`. The distinction between wholesome and
-uncontaminated is thus the distinction between improving the content of
-conditioned existence and transforming the causal form that perpetuates it.
+Other wholesome action with Influx shows why goodness alone is not liberation.
+It can mature favorably and condition further results, but it does not thereby
+perform `visaṃyoga`. The distinction between wholesome and without-Influx is
+thus the distinction between improving the content of conditioned existence
+and transforming the causal form that perpetuates it.
 
 Hegelian Transcendental Philosophy makes the difference between the two
 four-member profiles fully intelligible. An abstract understanding sees the
@@ -325,51 +335,57 @@ quantitative, but their truth is structurally opposed.
 ## 10. OWL++ Seed
 
 ```text
-Class: KarmaResult
+Class: Action
+Class: ActionWithInflux
+Class: ActionWithoutInflux
+Class: ActionResult
 Class: MaturationResult
-  SubClassOf: KarmaResult
+  SubClassOf: ActionResult
 Class: CorrespondingResult
-  SubClassOf: KarmaResult
+  SubClassOf: ActionResult
 Class: DisconnectionResult
-  SubClassOf: KarmaResult
+  SubClassOf: ActionResult
 Class: ActivityProducedResult
-  SubClassOf: KarmaResult
+  SubClassOf: ActionResult
 Class: DominantResult
-  SubClassOf: KarmaResult
+  SubClassOf: ActionResult
 
-Class: ImmediateAbandoningPathKarma
-Class: ContaminatedImmediatePathKarma
-  SubClassOf: ImmediateAbandoningPathKarma
-Class: UncontaminatedImmediatePathKarma
-  SubClassOf: ImmediateAbandoningPathKarma
-Class: OtherContaminatedKarma
+Class: AbandoningPathAction
+Class: StainedAbandoningPathAction
+  SubClassOf: AbandoningPathAction
+  SubClassOf: ActionWithInflux
+Class: WithoutStainAbandoningPathAction
+  SubClassOf: AbandoningPathAction
+  SubClassOf: ActionWithoutInflux
+Class: OtherWithInfluxAction
+  SubClassOf: ActionWithInflux
 
 ObjectProperty: hasResultType
-  Domain: Karma
-  Range: KarmaResult
+  Domain: Action
+  Range: ActionResult
 
 ObjectProperty: directlyAbandons
-  Domain: ImmediateAbandoningPathKarma
+  Domain: AbandoningPathAction
   Range: Affliction
 
-Rule: ContaminatedImmediatePathProfile
-  if x instanceOf ContaminatedImmediatePathKarma
+Rule: StainedAbandoningPathProfile
+  if x instanceOf StainedAbandoningPathAction
   then x hasResultType MaturationResult
        and x hasResultType CorrespondingResult
        and x hasResultType DisconnectionResult
        and x hasResultType ActivityProducedResult
        and x hasResultType DominantResult
 
-Rule: UncontaminatedImmediatePathProfile
-  if x instanceOf UncontaminatedImmediatePathKarma
+Rule: WithoutStainAbandoningPathProfile
+  if x instanceOf WithoutStainAbandoningPathAction
   then not hasResultType(x, MaturationResult)
        and x hasResultType CorrespondingResult
        and x hasResultType DisconnectionResult
        and x hasResultType ActivityProducedResult
        and x hasResultType DominantResult
 
-Rule: OtherContaminatedProfile
-  if x instanceOf OtherContaminatedKarma
+Rule: OtherWithInfluxProfile
+  if x instanceOf OtherWithInfluxAction
   then x hasResultType MaturationResult
        and x hasResultType CorrespondingResult
        and not hasResultType(x, DisconnectionResult)
@@ -377,6 +393,6 @@ Rule: OtherContaminatedProfile
        and x hasResultType DominantResult
 
 Constraint: SameResultCountDoesNotEntailSameResultSet
-Constraint: WholesomeDoesNotEntailUncontaminated
+Constraint: WholesomeDoesNotEntailWithoutInflux
 Constraint: DisconnectionRequiresAbandoningFunction
 ```

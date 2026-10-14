@@ -9,7 +9,7 @@
 
 ## 2. Sanskrit (IAST)
 
-```text
+```iast
 sva-bhūmi-dharmāś catvāri trīṇi dve vānya-bhūmikāḥ /
 śaikṣasya trīṇi śaikṣādyā aśaikṣasya tu karmaṇaḥ // 4.91 //
 ```
@@ -21,19 +21,19 @@ sva-bhūmi-dharmāḥ | catvāri | trīṇi | dve | vā | anya-bhūmikāḥ |
 śaikṣasya | trīṇi | śaikṣa-ādyāḥ | aśaikṣasya | tu | karmaṇaḥ
 ```
 
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
-| `sva-bhūmi-dharmāḥ` | nominative masculine plural compound | result-dharmas belonging to the same classified level as the causal karma |
-| `catvāri` | nominative neuter plural | four fruit-relations |
-| `trīṇi` | nominative neuter plural | three fruit-relations |
-| `dve` | nominative neuter dual | two fruit-relations |
+| `sva-bhūmi-dharmāḥ` | nominative masculine plural compound | result-dharmas belonging to the same classified level as the causal action |
+| `catvāri` | nominative neuter plural | four results |
+| `trīṇi` | nominative neuter plural | three results |
+| `dve` | nominative neuter dual | two results |
 | `vā` | disjunctive particle | or, depending on the further condition |
 | `anya-bhūmikāḥ` | nominative masculine plural | result-dharmas belonging to a different level |
-| `śaikṣasya` | genitive singular | of trainee karma |
+| `śaikṣasya` | genitive singular | of trainee action |
 | `śaikṣa-ādyāḥ` | nominative masculine plural compound | result-dharmas beginning with the trainee class |
-| `aśaikṣasya` | genitive singular | of beyond-training karma |
+| `aśaikṣasya` | genitive singular | of beyond-training action |
 | `tu` | contrastive particle | but, whereas |
-| `karmaṇaḥ` | genitive neuter singular | of karma; governing both path-status clauses |
+| `karmaṇaḥ` | genitive neuter singular | of action; governing both Path-status clauses |
 
 **Two new relational axes**
 
@@ -45,8 +45,8 @@ path-status relation:
     trainee / beyond-training / neither
 ```
 
-The Bhāṣya further divides different-level results into uncontaminated and
-contaminated cases. The final phrase begins the beyond-training row but carries
+The Bhāṣya further divides different-level results into without-Influx and
+with-Influx cases. The final phrase begins the beyond-training row but carries
 its numerical predicate into VAK 4.92.
 
 ## 4. Grammar
@@ -59,8 +59,8 @@ sva-bhūmikasya karmaṇaḥ
     catvāri [phalāni]
 ```
 
-> For karma belonging to a given level, dharmas of that same level are results
-> in four ways.
+> For action belonging to a given level, dharmas of that same level are
+> results through four relations.
 
 The kārikā compresses the source term, which the Bhāṣya supplies. The four
 relations exclude disconnection.
@@ -78,11 +78,11 @@ The verse leaves the condition behind the disjunction implicit. The Bhāṣya
 determines it:
 
 ```text
-if uncontaminated → three
-if contaminated   → two
+if without Influx → three
+if with Influx    → two
 ```
 
-**Trainee karma**
+**Trainee action**
 
 ```text
 śaikṣasya karmaṇaḥ
@@ -90,7 +90,7 @@ if contaminated   → two
     trīṇi [phalāni]
 ```
 
-> For trainee karma, result-dharmas beginning with the trainee class are
+> For trainee action, result-dharmas beginning with the trainee class are
 > results in three ways.
 
 The Bhāṣya distributes the repeated count across trainee, beyond-training,
@@ -103,36 +103,35 @@ set.
 aśaikṣasya tu karmaṇaḥ ...
 ```
 
-> But for the karma of one beyond training ...
+> But for the action of one beyond training ...
 
 The syntactic unit is deliberately incomplete at the verse boundary. Its
 predicate and numerical distribution occur in VAK 4.92.
 
 ## 5. Translation
 
-### Literal Translation
+### Scientific English Rendering
 
-> Dharmas of the same level are four results; those of another level are three
-> or two. For trainee karma, those beginning with the trainee class are three;
-> but for the karma of one beyond training—
+> Dharmas of the same level have four results; those of another level have
+> three or two. For trainee action, dharmas beginning with the trainee class
+> have three results; but for the action of one beyond training—
 
 ### Bhāṣya-informed study translation
 
-> Result-dharmas belonging to the same level as their causal karma can stand
-> to it through four relations—maturation, correspondence,
-> activity-production, and dominant conditioning—while disconnection is
-> excluded. Different-level uncontaminated dharmas can be results through
-> correspondence, activity-production, and dominant conditioning; because
-> they do not fall within a domain, maturation is unavailable, and
-> disconnection is also excluded. Different-level contaminated dharmas can be
-> results only through activity-production and dominant conditioning. For
-> trainee karma, trainee and beyond-training dharmas are results through
-> correspondence, activity-production, and dominant conditioning, while
-> dharmas of neither status are results through disconnection,
-> activity-production, and dominant conditioning. The classification of
-> beyond-training karma begins here and continues in the next verse.
+> Result-dharmas belonging to the same level as their causal action can stand
+> to it through maturation, corresponding, activity-produced, and dominant
+> results; disconnection is excluded. Different-level dharmas without Influx
+> can be results through corresponding, activity-produced, and dominant
+> relations; because they do not fall within a realm, maturation is
+> unavailable, and disconnection is also excluded. Different-level dharmas
+> with Influx can be results only through activity-produced and dominant
+> relations. For trainee action, trainee and beyond-training dharmas are
+> results through corresponding, activity-produced, and dominant relations,
+> while dharmas of neither status are results through disconnection,
+> activity-produced, and dominant relations. The classification of
+> beyond-training action begins here and continues in the next verse.
 
-The exact memberships, the contamination division, and the complete trainee
+The exact memberships, the Influx division, and the complete trainee
 row are Bhāṣya determinations.
 
 ## 6. Philosophical Translation
@@ -151,9 +150,9 @@ The developed form is:
 source-level
     × result-level
     × same/different-level relation
-    × contamination-status
+    × Influx status
     × path-status of source and result
-    × fruit-relation
+    × result-relation
 ```
 
 Hegelian-transcendental comprehension reveals `bhūmi` as a determinate ground:
@@ -166,25 +165,25 @@ liberative result.
 **`Bhūmi` — ground or classified level**
 
 Here `bhūmi` is active within causal determination. A dharma can function as
-same-level or different-level only relative to the causal karma under
+same-level or different-level only relative to the causal action under
 consideration. It should not be flattened into physical location.
 
 **`Sva-bhūmika` — belonging to the same level**
 
-A relational determination joining source karma and candidate result-dharma
+A relational determination joining source action and candidate result-dharma
 within one ground. Four relations are possible: maturation, correspondence,
 activity-production, and dominant conditioning.
 
 **`Anya-bhūmika` — belonging to another level**
 
 A cross-level result determination. Its result-profile is not fixed until the
-candidate result's contaminated or uncontaminated status is also specified.
+candidate result's Influx status is also specified.
 
-**`Dhātvapatitatva` — not falling within a domain**
+**`Dhātvapatitatva` — not falling within a realm**
 
-The Bhāṣya's reason that an uncontaminated different-level dharma cannot be a
-maturation-result. Here `dhātu` is a classified domain, never a physical
-element.
+The Bhāṣya's reason that a different-level dharma without Influx cannot be a
+maturation-result: it does not fall within a realm. The compound concerns
+realm-status here, not a physical Element.
 
 **`Śaikṣa` — trainee**
 
@@ -198,9 +197,9 @@ mean ignorant or untrained; it marks achieved completion.
 
 **`Naiva-śaikṣa-nāśaikṣa` — neither trainee nor beyond-training**
 
-The third technical status. For trainee karma, dharmas of this class have the
+The third technical status. For trainee action, dharmas of this class have the
 same count as trainee and beyond-training result-dharmas but a different
-fruit-set.
+result-set.
 
 **Same-level `vipāka`**
 
@@ -209,15 +208,14 @@ profile but absent from both different-level profiles.
 
 **Cross-level `niṣyanda`**
 
-Correspondence can cross levels when the candidate result-dharma is
-uncontaminated, but not in the contaminated different-level case described
-here.
+Correspondence can cross levels when the candidate result-dharma is without
+Influx, but not in the with-Influx different-level case described here.
 
 **Path-status `visaṃyoga`**
 
-For trainee karma, disconnection occurs among neither-trainee-nor-beyond-
+For trainee action, disconnection occurs among neither-trainee-nor-beyond-
 training resulting dharmas, while it is absent from the trainee and
-beyond-training columns. The fruit-name and the status of its resulting dharma
+beyond-training columns. The result-type and the status of its resulting dharma
 must not be conflated.
 
 ## 8. Logical Determination
@@ -237,15 +235,15 @@ A = adhipati
 Then:
 
 ```text
-SameBhumi(Karma, ResultDharma)
+SameBhumi(Action, ResultDharma)
     → {V, N, P, A}
 
-DifferentBhumi(Karma, ResultDharma)
-and Uncontaminated(ResultDharma)
+DifferentBhumi(Action, ResultDharma)
+and WithoutInflux(ResultDharma)
     → {N, P, A}
 
-DifferentBhumi(Karma, ResultDharma)
-and Contaminated(ResultDharma)
+DifferentBhumi(Action, ResultDharma)
+and WithInflux(ResultDharma)
     → {P, A}
 ```
 
@@ -254,22 +252,22 @@ and Contaminated(ResultDharma)
 | Level relation and result-status | `vipāka` | `niṣyanda` | `visaṃyoga` | `puruṣakāra` | `adhipati` |
 |---|---:|---:|---:|---:|---:|
 | same level | yes | yes | no | yes | yes |
-| different level, uncontaminated | no | yes | no | yes | yes |
-| different level, contaminated | no | no | no | yes | yes |
+| different level, without Influx | no | yes | no | yes | yes |
+| different level, with Influx | no | no | no | yes | yes |
 
 Crossing the level-boundary progressively removes relations of reproduction
 and correspondence, while `puruṣakāra` and `adhipati` persist.
 
-**Trainee-karma row**
+**Trainee-action row**
 
 ```text
-FruitRelations(TraineeKarma, TraineeDharma)
+ResultRelations(TraineeAction, TraineeDharma)
     = {N, P, A}
 
-FruitRelations(TraineeKarma, BeyondTrainingDharma)
+ResultRelations(TraineeAction, BeyondTrainingDharma)
     = {N, P, A}
 
-FruitRelations(TraineeKarma, NeitherStatusDharma)
+ResultRelations(TraineeAction, NeitherStatusDharma)
     = {D, P, A}
 ```
 
@@ -284,7 +282,7 @@ Thus:
 ```text
 same result-count              ≠ same result-set
 same-level property            ≠ unary property of result alone
-different-level relation       ≠ complete without contamination-status
+different-level relation       ≠ complete without Influx status
 training-status                ≠ ethical quality
 ```
 
@@ -293,7 +291,7 @@ training-status                ≠ ethical quality
 The verse begins but does not complete:
 
 ```text
-FruitRelations(BeyondTrainingKarma, ...)
+ResultRelations(BeyondTrainingAction, ...)
 ```
 
 Its completion belongs to VAK 4.92. Preserving this open edge is part of the
@@ -304,14 +302,14 @@ canonical logical sequence.
 VAK 4.91 demonstrates again that meaning lies in systematic relation. `Bhūmi`
 cannot be adequately translated and then left as an isolated noun meaning
 “level.” Its causal meaning emerges through the opposition of own-level and
-other-level, the contamination-status of the result, and the fruit-relation
+other-level, the Influx status of the result, and the result-relation
 that remains possible across the boundary.
 
-The three profiles exhibit a rational contraction. Within one ground, karma
+The three profiles exhibit a rational contraction. Within one ground, action
 can mature, correspond, actively produce, and dominantly condition. Across
-grounds toward an uncontaminated result, maturation falls away because the
-result does not belong within a domain, though correspondence remains. Across
-grounds toward a contaminated result, correspondence also falls away. Active
+grounds toward a result without Influx, maturation falls away because the
+result does not belong within a realm, though correspondence remains. Across
+grounds toward a result with Influx, correspondence also falls away. Active
 production and dominant efficacy constitute the most universal causal
 relations because they can operate across the greatest difference.
 
@@ -319,7 +317,7 @@ The Path-status matrix then raises the same relational method to the
 development of agency. Trainee, beyond-training, and neither are not labels
 attached externally to otherwise identical dharmas. They determine which
 causal continuities and liberative results are possible. Most strikingly,
-three results in every trainee-karma cell conceal a change from correspondence
+three results in every trainee-action cell conceal a change from correspondence
 to disconnection in the neither-status result.
 
 Hegelian Transcendental Philosophy makes this intelligible as the movement
@@ -338,11 +336,11 @@ the Concept being expressed exceeds the boundary of this one.
 ## 10. OWL++ Seed
 
 ```text
-Class: Karma
+Class: Action
 Class: ResultDharma
 Class: Bhumi
-Class: TraineeKarma
-  SubClassOf: Karma
+Class: TraineeAction
+  SubClassOf: Action
 Class: TraineeDharma
   SubClassOf: ResultDharma
 Class: BeyondTrainingDharma
@@ -350,61 +348,97 @@ Class: BeyondTrainingDharma
 Class: NeitherTrainingStatusDharma
   SubClassOf: ResultDharma
 
-Class: FruitRelation
-Class: MaturationRelation
-Class: CorrespondenceRelation
-Class: DisconnectionRelation
-Class: ActivityProducedRelation
-Class: DominantRelation
+Class: ResultRelation
+Class: ResultRelationType
+Class: MaturationResult
+  SubClassOf: ResultRelationType
+Class: CorrespondingResult
+  SubClassOf: ResultRelationType
+Class: DisconnectionResult
+  SubClassOf: ResultRelationType
+Class: ActivityProducedResult
+  SubClassOf: ResultRelationType
+Class: DominantResult
+  SubClassOf: ResultRelationType
+
+Class: InfluxStatus
+Individual: WithInflux
+  Type: InfluxStatus
+Individual: WithoutInflux
+  Type: InfluxStatus
+
+Class: TrainingStatus
+Individual: Trainee
+  Type: TrainingStatus
+Individual: BeyondTraining
+  Type: TrainingStatus
+Individual: NeitherStatus
+  Type: TrainingStatus
+
+ObjectProperty: hasSourceAction
+  Domain: ResultRelation
+  Range: Action
+
+ObjectProperty: hasResultDharma
+  Domain: ResultRelation
+  Range: ResultDharma
+
+ObjectProperty: hasResultType
+  Domain: ResultRelation
+  Range: ResultRelationType
 
 ObjectProperty: hasSourceBhumi
-  Domain: FruitRelation
+  Domain: Action
   Range: Bhumi
 
 ObjectProperty: hasResultBhumi
-  Domain: FruitRelation
+  Domain: ResultDharma
   Range: Bhumi
 
-ObjectProperty: hasResultContaminationStatus
-  Domain: FruitRelation
-  Range: Contaminated or Uncontaminated
+ObjectProperty: hasResultInfluxStatus
+  Domain: ResultDharma
+  Range: InfluxStatus
+
+ObjectProperty: hasActionTrainingStatus
+  Domain: Action
+  Range: TrainingStatus
 
 ObjectProperty: hasResultTrainingStatus
-  Domain: FruitRelation
-  Range: Trainee or BeyondTraining or NeitherStatus
+  Domain: ResultDharma
+  Range: TrainingStatus
 
 Rule: SameBhumiProfile
-  if sameBhumi(sourceKarma, resultDharma)
-  then permittedRelations(sourceKarma, resultDharma)
-       = {MaturationRelation, CorrespondenceRelation,
-          ActivityProducedRelation, DominantRelation}
+  if sameBhumi(sourceAction, resultDharma)
+  then permittedResultTypes(sourceAction, resultDharma)
+       = {MaturationResult, CorrespondingResult,
+          ActivityProducedResult, DominantResult}
 
-Rule: OtherBhumiUncontaminatedProfile
-  if differentBhumi(sourceKarma, resultDharma)
-     and resultDharma instanceOf UncontaminatedDharma
-  then permittedRelations(sourceKarma, resultDharma)
-       = {CorrespondenceRelation, ActivityProducedRelation,
-          DominantRelation}
+Rule: OtherBhumiWithoutInfluxProfile
+  if differentBhumi(sourceAction, resultDharma)
+     and resultDharma hasResultInfluxStatus WithoutInflux
+  then permittedResultTypes(sourceAction, resultDharma)
+       = {CorrespondingResult, ActivityProducedResult,
+          DominantResult}
 
-Rule: OtherBhumiContaminatedProfile
-  if differentBhumi(sourceKarma, resultDharma)
-     and resultDharma instanceOf ContaminatedDharma
-  then permittedRelations(sourceKarma, resultDharma)
-       = {ActivityProducedRelation, DominantRelation}
+Rule: OtherBhumiWithInfluxProfile
+  if differentBhumi(sourceAction, resultDharma)
+     and resultDharma hasResultInfluxStatus WithInflux
+  then permittedResultTypes(sourceAction, resultDharma)
+       = {ActivityProducedResult, DominantResult}
 
 Rule: TraineeToTrainee
-  permittedRelations = {CorrespondenceRelation,
-                        ActivityProducedRelation, DominantRelation}
+  permittedResultTypes = {CorrespondingResult,
+                          ActivityProducedResult, DominantResult}
 
 Rule: TraineeToBeyondTraining
-  permittedRelations = {CorrespondenceRelation,
-                        ActivityProducedRelation, DominantRelation}
+  permittedResultTypes = {CorrespondingResult,
+                          ActivityProducedResult, DominantResult}
 
 Rule: TraineeToNeitherStatus
-  permittedRelations = {DisconnectionRelation,
-                        ActivityProducedRelation, DominantRelation}
+  permittedResultTypes = {DisconnectionResult,
+                          ActivityProducedResult, DominantResult}
 
 Constraint: BhumiRelationRequiresBothSourceAndResult
-Constraint: EqualFruitCountsDoNotEntailEqualFruitSets
+Constraint: EqualResultCountsDoNotEntailEqualResultSets
 Constraint: BeyondTrainingSourceRowContinuesInNextVerse
 ```

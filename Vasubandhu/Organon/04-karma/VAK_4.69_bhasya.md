@@ -14,7 +14,7 @@ kuśalāḥ saprayogāntā alobhadveṣamohajāḥ // 4.69 //
 
 The first half completes the preceding inquiry into the three unwholesome
 roots. The second applies the three-phase form of VAK 4.68 to wholesome
-courses and explains their genesis from a wholesome mind.
+courses and explains their genesis from wholesome consciousness.
 
 ## 2. Continuous Sanskrit
 
@@ -61,7 +61,7 @@ The complete unit is `[241|20]–[242|05]`. The running witness reads
 irregularities have not been silently normalized. The next inquiry begins
 at `[242|06]` and introduces the completion roots classified in VAK 4.70.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Scientific English Rendering
 
 How are covetousness and the other mental courses born from greed?
 “Because they arise immediately after them, covetousness and the other
@@ -75,7 +75,7 @@ ones constituted? The verse says: “The wholesome courses, together with
 their preparation and aftermath, are born from non-greed, non-hatred, and
 non-delusion.” Wholesome courses of karma, including preparation and
 aftermath, arise from non-greed, non-hatred, and non-delusion because they
-arise from a wholesome mind, and such a mind is necessarily associated
+arise from wholesome consciousness, which is necessarily associated
 with non-greed and the other wholesome roots.
 
 In this analysis, abstention from preparation for an unwholesome course is
@@ -93,7 +93,7 @@ non-manifest restraint continues, this constitutes the aftermath. The
 exact syntax of the final procedural details is compressed in the witness,
 but the allocation of the three phases is clear.
 
-## 4. Root, Mind, and Determinate Course
+## 4. Root, Consciousness, and Determinate Course
 
 The first half distinguishes an unwholesome root from the determinate
 mental course that follows it:
@@ -114,7 +114,7 @@ The wholesome side supplies a different but complementary relation:
 
 ```text
 alobha + adveṣa + amoha
-    necessarily associated with wholesome mind
+    necessarily associated with wholesome consciousness
         ↓
 wholesome preparation → principal course → aftermath
 ```
@@ -149,14 +149,14 @@ principal wholesome course possesses both `vijñapti` and `avijñapti`: a
 formal act makes the undertaking manifest, while the acquired restraint
 continues as a non-manifest determination.
 
-## 6. Organon Contact Point
+## 6. Interpretation
 
-The governing Power of a wholesome course is now located in its complete
-genesis:
+The generative organization of a wholesome course is now located in its
+complete genesis:
 
 ```text
 Wholesome Roots
-    → Wholesome Mind
+    → wholesome consciousness
     → Preparation
     → Principal Restraint
     → Persistent Aftermath
@@ -165,14 +165,15 @@ Wholesome Roots
 For our Rational Moral Agent, this prevents a behavior-only judgment. The
 same visible omission can arise from inability, fear, calculation, or an
 acquired wholesome determination. The course is wholesome when its phases
-are generated and governed by the appropriate roots through a wholesome
-mind.
+are generated and governed by the appropriate roots through wholesome
+consciousness.
 
-This also advances the movement from `karmapatha` toward `Mārga`. A single
-abstention becomes path-like when its ground governs preparation, decisive
-undertaking, and continued conduct as one intelligible course. This is the
-Organon reconstruction; Vasubandhu's immediate subject is the Abhidharma
-classification of wholesome courses and ordination restraint.
+This allows a comparison between `karmapatha` and `Mārga` without equating
+them. Here `karmapatha` names a wholesome course articulated through
+preparation, principal restraint, and aftermath; the verse does not identify
+that course with the liberative Path. This is the Organon comparison;
+Vasubandhu's immediate subject is the Abhidharma classification of wholesome
+courses and ordination restraint.
 
 ## 7. Review Status
 

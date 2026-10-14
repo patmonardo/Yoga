@@ -7,9 +7,10 @@ chinatti strī pumān dṛṣṭicaritaḥ so 'samanvayaḥ /
 saṃdhiḥ kāṅkṣāstidṛṣṭibhyāṃ nehānantaryakāriṇaḥ // 4.80 //
 ```
 
-> A woman or a man governed by views severs them; that is non-endowment.
-> Reconnection occurs through doubt or the view that they exist, but not here
-> for one who has committed an immediate-retribution action.
+> A woman or a man whose disposition is governed by view severs them; that
+> severance is non-endowment. Reconnection occurs through doubt or the view
+> that karmic ground and result exist, but not here for one who has committed
+> an immediate-retribution action.
 
 The kārikā completes the account begun at 4.79. It identifies who can sever
 the wholesome roots, defines the severance as non-endowment, and specifies
@@ -78,12 +79,12 @@ is printed above while the witness irregularity is recorded here. Several
 compounds and sandhi divisions have likewise been opened for readability;
 the doctrine has not been rewritten.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Scientific English Rendering
 
 Both a woman and a man sever the roots. Others say that a woman does not,
-because her resolve, vigor, and Prajñā are weak. But the following canonical
-statement would contradict them: “One endowed with the female faculty is
-necessarily endowed with eight faculties.”
+because her resolve, vigor, and discernment are weak. But the following
+canonical statement would contradict them: “One endowed with the Female
+Faculty is necessarily endowed with eight Faculties.”
 
 Even among those persons, one governed by craving does not sever the roots,
 because the underlying disposition is unstable. Who, then, does so? One
@@ -98,10 +99,11 @@ and non-acquisition arises, then, upon the arising of this non-endowment, the
 wholesome roots are said to have been severed.
 
 How are those severed roots subsequently reconnected? Reconnection occurs
-through doubt or through the view that there is. When doubt concerning cause
-and result arises in that person, or the view that they exist—which means
-right view—then the wholesome roots are said to be reconnected because their
-acquisition arises again. All nine grades are reconnected at once, although
+through doubt or through the view that cause and result exist. When doubt
+concerning cause and result arises in that person, or the view that they
+exist—which means right view—then the wholesome roots are said to be
+reconnected because their acquisition arises again. All nine grades are
+reconnected at once, although
 their manifestation occurs successively, as when health is recovered first
 and strength afterward.
 
@@ -133,15 +135,14 @@ either there or in another hell.
 
 ## 4. Who Can Sever the Roots
 
-The first dispute concerns sexual faculty. Vasubandhu's initial formulation
-admits both woman and man. The alternative excludes women by alleging weak
-resolve, vigor, and Prajñā. The Bhāṣya answers from an authoritative faculty
-classification: possession of the female faculty entails possession of the
-requisite eight faculties. The alternative restriction therefore conflicts
-with its own canonical framework.
+The first dispute is whether women can sever the roots. Vasubandhu's initial
+formulation admits both woman and man. The alternative excludes women by alleging weak
+resolve, vigor, and discernment. The Bhāṣya answers from an authoritative
+Faculty classification: possession of the Female Faculty entails possession
+of the requisite eight Faculties. The alternative restriction therefore
+conflicts with its own canonical framework.
 
-The operative distinction is subsequently displaced from sex to the
-character of conduct:
+The operative distinction is subsequently displaced from sex to disposition:
 
 ```text
 tṛṣṇācarita — governed by craving — unstable disposition
@@ -243,10 +244,15 @@ that severs wholesome roots matures in Avīci. Immediate-retribution action
 has a broader hell destination: Avīci or another hell. This difference helps
 explain why the predicates cannot be collapsed.
 
-## 9. Organon Contact Point
+## 9. Interpretation
 
-At the project level, this is a compact theory of recoverability. A rational
-moral agent becomes practically closed when denial of ground and result is
+Here *dṛṣṭi-carita* is an opinionist, not a rationalist: the operative trait
+is a settled view governing disposition, not disciplined reasoning. “View-
+governed” remains the source-bound rendering; “opinionist” sharpens the
+project's interpretation.
+
+At the project level, this is a compact theory of recoverability. A moral
+agent becomes practically closed when denial of ground and result is
 installed as its governing view. Recovery can begin before the correct
 principle is fully known:
 
@@ -268,9 +274,9 @@ manifestation is equally useful for an agent architecture. Restoration of a
 principle may restore a complete capability structure while competent use of
 its grades still requires an ordered return through practice.
 
-These formulations are an Organon reconstruction. The Sarvāstivāda dharmas
-of acquisition and non-acquisition, the intermediate-state chronology, the
-named persons, and the maturation claims remain the doctrine of the source.
+This interpretation develops the source's account of recoverability without
+altering its claims about acquisition and non-acquisition, the intermediate-
+state chronology, the named persons, or maturation.
 
 ## 10. Review Status
 

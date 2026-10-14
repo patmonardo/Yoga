@@ -9,9 +9,9 @@
 
 ## 2. Sanskrit (IAST)
 
-```text
-prāṇātipātaḥ saṃcintya parasyābhrānti-māraṇam /
-adattādānam anya-sva-svīkriyā bala-cauryataḥ // 4.73 //
+```iast
+prāṇātipātaḥ saṃcintya parasyābhrāntimāraṇam /
+adattādānamanyasvasvīkriyā balacauryataḥ // 4.73 //
 ```
 
 ## 3. Lexical Analysis
@@ -23,7 +23,7 @@ adatta-ādānam | anya-sva-svīkriyā |
 bala-cauryataḥ
 ```
 
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `prāṇa-atipātaḥ` | nominative masculine singular compound | destruction of life; killing-course |
 | `saṃcintya` | absolutive of `sam-√cint` | having deliberately considered; intentionally |
@@ -89,22 +89,24 @@ possession one's own.
 
 ## 5. Translation
 
-### Literal Translation
+### Scientific English Rendering
 
 > Destruction of life is the deliberate, non-mistaken killing of another.
-> Taking what is not given is the appropriation of another's possession by
-> force or stealth.
+> Taking what is not given is the non-mistaken appropriation of another's
+> possession by force or stealth.
 
 ### Bhāṣya-informed study translation
 
-> The karmapatha of destroying life is completed when one deliberately forms
-> the determination to kill a particular living other and kills that very
-> being without confusion of the target. Even initial uncertainty does not
-> prevent completion when one finally strikes under the settled resolve to
-> destroy life regardless of which being it is. Taking what is not given is
-> completed when one non-mistakenly makes another's possession one's own by
-> overt force or covert theft. Mere production of death or displacement of
-> property does not by itself establish either karmapatha.
+> Killing is the deliberate, non-mistaken killing of another. Taking what is
+> not given is the appropriation of another's possession by force or stealth.
+>
+> The Bhāṣya specifies that killing is completed when one resolves to kill a
+> particular being and kills that very being. Even initial uncertainty does
+> not prevent completion if one settles on “whoever it is” and strikes with
+> that resolve. Taking what is not given is completed when one non-mistakenly
+> makes another's possession one's own by force or stealth. Mere production
+> of death or displacement of property does not by itself establish either
+> course.
 
 The doubtful-target case, the extension of `abhrānti` to theft, and the
 distinction between physical causation and karmic authorship are supplied by
@@ -129,8 +131,9 @@ the annihilation of an enduring life-substance.
 **`Prāṇa` — life**
 
 Within `prāṇātipāta`, life or living vitality, not physiological breath alone.
-The Bhāṣya offers vital wind supported by body and mind as one formulation and
-`jīvitendriya`, the life faculty, as the more exact Abhidharma determination.
+The Bhāṣya offers vital wind supported by body and consciousness as one
+formulation and `jīvitendriya`, the Life Faculty, as the more exact
+Abhidharma determination.
 
 **`Atipāta` — striking down or destruction**
 
@@ -148,7 +151,7 @@ The being or possession intended must be the one actually affected. This is
 more precise than generic absence of error: it preserves the linkage between
 intended basis and completed result.
 
-**`Tyāgacitta` — destructive relinquishing mind**
+**`Tyāgacitta` — relinquishing consciousness**
 
 Bhāṣya terminology explaining the doubtful case. A person initially unsure
 whether the target is alive or which being it is can nevertheless settle upon
@@ -157,9 +160,9 @@ that life.
 
 **`Jīvitendriya` and `jīvitakṣaṇa`**
 
-The life faculty and a moment of life. The Bhāṣya states that obstructing even
-one life-moment that otherwise would arise incurs the fault of destruction of
-life.
+The Life Faculty and a moment of life. The Bhāṣya states that obstructing
+even one life-moment that otherwise would arise incurs the fault of
+destruction of life.
 
 **`Adatta-ādāna` — taking what is not given**
 
@@ -299,7 +302,7 @@ the person. The study therefore affirms the practical reality of killing and
 theft without turning a grammatical possessor into an enduring metaphysical
 subject.
 
-This is the Organon contact. The constitutive definitions, momentary-life
+This is the project's interpretive synthesis. The constitutive definitions, momentary-life
 analysis, Nirgrantha dispute, property cases, and postponed person-question
 belong to the Bhāṣya; the event-action-karmapatha sequence is the project
 synthesis.

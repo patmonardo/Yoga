@@ -9,9 +9,9 @@
 
 ## 2. Sanskrit (IAST)
 
-```text
-mūlacchedas tv asaddṛṣṭyā kāmāptotpatti-lābhinām /
-phala-hetv-apavādinyā sarvathā kramaśo nṛṣu // 4.79 //
+```iast
+mūlacchedastvasaddṛṣṭyā kāmāptotpattilābhinām /
+phalahetvapavādinyā sarvathā kramaśo nṛṣu // 4.79 //
 ```
 
 ## 3. Lexical Analysis
@@ -23,12 +23,12 @@ phala-hetu-apavādinyā |
 sarvathā | kramaśaḥ | nṛṣu
 ```
 
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `mūla-cchedaḥ` | nominative masculine singular compound | severance of the wholesome roots |
 | `tu` | adversative or transitional particle | but; now |
 | `asat-dṛṣṭyā` | instrumental feminine singular | by false or invalid view |
-| `kāma-āpta` | compound member | belonging to the desire domain |
+| `kāma-āpta` | compound member | belonging to the Desire-Realm |
 | `utpatti-lābhinām` | genitive plural compound | of those acquired by birth |
 | `phala-hetu-apavādinyā` | instrumental feminine singular compound | by that which denies result and ground |
 | `sarvathā` | indeclinable | completely; in every respect |
@@ -41,11 +41,11 @@ The Bhāṣya resolves the compressed `kāmāptotpatti-lābhinām` as a qualific
 of the wholesome roots:
 
 ```text
-desire-domain wholesome roots
+Desire-Realm wholesome roots
     acquired by birth
 ```
 
-It does not mean merely “persons who have acquired a desire-domain birth.”
+It does not mean merely “persons who have acquired a Desire-Realm birth.”
 `Kuśala-mūlānām` is understood as the object of `cheda`.
 
 ## 4. Grammar
@@ -73,7 +73,7 @@ kuśala-mūlānām
     chedaḥ
 ```
 
-> The wholesome roots belonging to the desire domain and acquired by birth
+> The wholesome roots belonging to the Desire-Realm and acquired by birth
 > are severed.
 
 The fuller phrase `utpatti-pratilābhika` is supplied by the Bhāṣya. Cultivated
@@ -98,21 +98,26 @@ graded rather than instantaneous.
 
 ## 5. Translation
 
-### Literal Translation
+### Scientific English Rendering
 
-> The severance of the roots, however, is through false view—of those
-> belonging to the desire domain and acquired by birth—through a view denying
-> result and ground; completely, successively, among humans.
+> Severance of the wholesome roots occurs through false view. It concerns
+> Desire-Realm roots acquired by birth, through a view denying result and
+> ground; completely, successively, among humans.
 
 ### Bhāṣya-informed study translation
 
-> Desire-domain wholesome roots acquired by birth are severed among humans by
-> fully intensified false view that denies karmic result and its ground. The
-> severance reaches all nine grades and, according to the explanation preferred
-> in the Bhāṣya, occurs successively as nine grades of false view remove the
-> nine grades of wholesome roots. Practice-produced wholesome roots have
-> already fallen away before this final severance. A transmitted alternative
-> instead holds that all nine grades are severed at once.
+> Severance of the wholesome roots occurs through false view. It concerns
+> Desire-Realm roots acquired by birth, through a view denying result and
+> ground; completely, successively, among humans.
+>
+> The Bhāṣya specifies that the view must be fully intensified and that its
+> full extension repudiates karma, result, and the noble ones. Only
+> Desire-Realm roots acquired by birth are directly severed; practice-
+> produced roots have already fallen away, while higher-domain roots are
+> rendered remote through the continuum's unsuitability for acquiring them.
+> The preferred account has nine grades of false view successively sever
+> nine grades of roots; an alternative holds that all nine are severed at
+> once.
 
 Full intensification, the birth-acquired/practice-produced distinction, the
 nine-grade mechanism, and the competing temporal accounts are supplied by the
@@ -184,7 +189,7 @@ the immediate burner and the thieves supplied it.
 
 **`Upapatti-pratilābhika` — acquired by birth**
 
-Wholesome roots possessed through the mode of birth. These desire-domain roots
+Wholesome roots possessed through the mode of birth. These Desire-Realm roots
 are directly severed.
 
 **`Prāyogika` — produced through practice**
@@ -216,7 +221,7 @@ false view that severs them.
 **`Bhājana` / `abhājana` — suitable or unsuitable basis**
 
 The continuum becomes unsuitable for acquiring higher-domain wholesome roots.
-This explains how direct severance of desire-domain roots also places those
+This explains how direct severance of Desire-Realm roots also places those
 higher acquisitions far away.
 
 ## 8. Logical Determination
@@ -237,7 +242,7 @@ unrelated.
 **What is directly severed**
 
 ```text
-desire-domain birth-acquired wholesome roots
+Desire-Realm birth-acquired wholesome roots
     → directly severed
 
 practice-produced wholesome roots
@@ -400,7 +405,7 @@ Rule: SequentialNineGradeSeverance
 
 Constraint: DirectObjectOfSeverance
     RootSeverance directly targets
-    desire-domain birth-acquired wholesome roots
+    Desire-Realm birth-acquired wholesome roots
 
 Constraint: CompleteScopeAndSuccessiveModeRemainDistinct
     complete absence of all nine grades

@@ -9,7 +9,7 @@
 
 ## 2. Sanskrit (IAST)
 
-```text
+```iast
 sāmantakās tu vijñaptir avijñaptir bhaven na vā /
 viparyayeṇa pṛṣṭhāni prayogas tu trimūlajaḥ // 4.68 //
 ```
@@ -23,7 +23,7 @@ viparyayeṇa | pṛṣṭhāni |
 prayogaḥ | tu | tri-mūla-jaḥ
 ```
 
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `sāmantakāḥ` | nominative masculine plural | proximate actions; actions functionally approaching the principal course |
 | `tu` | adversative or transitional particle | but; now |
@@ -102,7 +102,7 @@ unwholesome roots, not that all three must occur together.
 
 ## 5. Translation
 
-### Literal Translation
+### Scientific English Rendering
 
 > The proximate actions, however, are manifest action; non-manifest
 > determination may or may not occur. The subsequent actions are conversely.
@@ -110,14 +110,17 @@ unwholesome roots, not that all three must occur together.
 
 ### Bhāṣya-informed study translation
 
-> The preparatory actions approaching a bodily or verbal karmic course are
-> necessarily manifest; they generate non-manifest determination only under
-> conditions of sufficiently intense afflictive force. After principal
-> completion, the distribution is reversed: non-manifest determination
-> necessarily continues, while further manifest action occurs only if the
-> agent continues to behave in conformity with the completed course.
-> Preparation for an unwholesome course may arise from greed, hatred, or
-> delusion.
+> The proximate actions are manifest action; non-manifest action may or may
+> not arise. The subsequent actions are the converse. Preparation, however,
+> is born from the three roots.
+
+The Bhāṣya explains that preparation for a bodily or verbal course is
+necessarily manifest; it generates non-manifest determination only under
+conditions of sufficiently intense afflictive force. After principal
+completion, non-manifest determination necessarily continues, while further
+manifest action occurs only if the agent continues to act in conformity with
+the completed course. Preparation for an unwholesome course may arise from
+greed, hatred, or delusion.
 
 The conditions for `avijñapti`, the exact converse distribution, and the
 restriction of the three-root claim to preparatory genesis are supplied by the

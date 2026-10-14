@@ -203,7 +203,7 @@ inside the cited examples. They have not been silently repaired. The first
 half of VAK 4.69 begins at `[241|20]` with the question concerning the
 three roots of covetousness and the other mental courses.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Scientific English Rendering
 
 “The proximate actions are manifest action.” The actions proximate to a
 course of karma necessarily have manifest action as their nature.
@@ -272,8 +272,8 @@ hostility toward the person, and strengthen wrong view for the sake of the
 killing. The other courses should be connected in corresponding ways.
 
 Yet covetousness and the other mental courses are not properly called
-preparatory actions merely as mental occurrences. The arising of a
-thought alone does not constitute practical engagement, because action
+preparatory actions merely as mental occurrences. The mere arising of
+consciousness does not constitute practical engagement, because action
 has not begun.
 
 The sūtra says: “Monks, killing is threefold: born from greed, born from
@@ -409,7 +409,7 @@ can be subordinated to another as its means. Classification must therefore
 determine both the act's place within a course and the Power that generates
 that placement.
 
-## 6. Organon Contact Point
+## 6. Interpretation
 
 For the Organon, VAK 4.68 gives the Course of Action an executable
 configuration:

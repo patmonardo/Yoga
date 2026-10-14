@@ -9,9 +9,9 @@
 
 ## 2. Sanskrit (IAST)
 
-```text
+```iast
 samaṃ prāk ca mṛtasyāsti na maulo 'nyāśrayodayāt /
-senādiṣv ekakāryatvāt sarve kartṛvad anvitāḥ // 4.72 //
+senādiṣvekakāryatvāt sarve kartṛvadanvitāḥ // 4.72 //
 ```
 
 ## 3. Lexical Analysis
@@ -23,7 +23,7 @@ senā-ādiṣu | eka-kāryatvāt |
 sarve | kartṛ-vat | anvitāḥ
 ```
 
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `samam` | accusative singular used adverbially | simultaneously; at the same time |
 | `prāk` | indeclinable | beforehand; earlier |
@@ -97,7 +97,7 @@ of shared attribution.
 
 ## 5. Translation
 
-### Literal Translation
+### Scientific English Rendering
 
 > For one who has died simultaneously or beforehand, there is no principal
 > course, because another support arises. In armies and similar collectives,
@@ -105,15 +105,15 @@ of shared attribution.
 
 ### Bhāṣya-informed study translation
 
-> If one arranges another's death but dies before the victim or simultaneously
-> with the victim, one does not acquire the principal karmic course of killing.
-> Until the victim dies, principal completion has not occurred; once the
-> preparatory support has ceased, the later support that arises did not perform
-> that preparation, and the completed course is not transferred to it. By
-> contrast, when members of an army, hunting party, or raiding force jointly
-> undertake a killing-project, all are karmically connected with the killing
-> like its immediate performer because they share one practical operation and
-> function as mutual instigators.
+> For one who dies simultaneously with the victim or beforehand, there is no
+> principal course, because another support arises. In an army and similar
+> undertakings, all are connected with the course like the doer because they
+> participate in one common operation.
+
+The Bhāṣya explains that the later support did not undertake the preparation,
+so the completed course is not transferred to it. By contrast, participants
+in a common killing-project are connected with the course like its immediate
+performer because they function as mutual instigators.
 
 The arranged-killing scenario, the later-support reasoning, the collective
 examples, and mutual-instigation analysis are supplied by the Bhāṣya.

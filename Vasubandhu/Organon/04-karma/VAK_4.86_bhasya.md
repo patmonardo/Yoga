@@ -8,8 +8,8 @@ duḥśodhatvāt pariṣkāralobhotthaṃ cen na sūtrataḥ // 4.86 //
 ```
 
 > Bodily or verbal action born from greed is wrong livelihood. It is treated
-> separately because it is difficult to purify. If it is said to arise only
-> from greed for the requisites, no: that is not so according to the sūtra.
+> separately because it is difficult to purify. If wrong livelihood is said
+> to arise only from greed for requisites—no, not according to the sūtra.
 
 The verse explains why the Noble Eightfold Path names wrong livelihood in
 addition to wrong speech and wrong action. The difference is one of causal
@@ -58,17 +58,16 @@ not attributed to the witness. The following source marker is printed
 `[254|15]`, although the sequence requires `[255|15]`; that next unit is not
 included here.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Scientific English Rendering
 
 The Blessed One speaks of wrong speech, wrong action, and wrong livelihood.
 What wrong livelihood is there apart from the first two? There is no other
 kind of action. Rather, bodily or verbal action born from greed is wrong
-livelihood, whereas bodily and verbal actions born from hatred or delusion
-are wrong action. Wrong livelihood is treated separately from those two
+livelihood, whereas actions born from hatred or delusion fall under wrong action. Wrong livelihood is treated separately from those two
 because it is difficult to purify.
 
-Greed is a dharma that carries one away, and the mind is not easily guarded
-against action arising from it. Livelihood is therefore difficult to purify.
+Greed is compelling, and consciousness is difficult to guard against actions
+arising from it. Livelihood is therefore difficult to purify.
 It is separately indicated in order to produce careful attention toward it.
 
 A verse is cited here: “The view of householders, always divided among many
@@ -81,7 +80,8 @@ account, dancing, singing, and similar activity undertaken for one's own
 enjoyment would have no connection with livelihood. This restriction does
 not accord with the sūtra. In the section on ethical conduct, the Blessed One
 also places watching elephant fights and similar spectacles under wrong
-livelihood. Why? Because they involve enjoyment of an improper object. That
+livelihood. Why? Because they involve enjoyment of an improper experiential
+field. That
 concludes the matter.
 
 ## 4. No Additional Medium of Action
@@ -146,7 +146,7 @@ sustenance. The Bhāṣya rejects this extension as too narrow because the sūtr
 includes watching elephant fights and related spectacles.
 
 The supplied reason is `mithyāviṣayaparibhoga`, enjoyment or consumption of
-an improper object. Wrong livelihood therefore reaches beyond how resources
+an improper experiential field. Wrong livelihood therefore reaches beyond how resources
 are acquired. It can include how a life is maintained and occupied through
 bodily and verbal participation in an improper field of enjoyment.
 
@@ -170,7 +170,7 @@ differently when one instance is organized by greed as a means of life and
 another is organized by hatred. Conversely, the separate Path name does not
 license invention of a new action substance.
 
-## 9. Organon Contact Point
+## 9. Interpretation
 
 For the Rational Moral Agent, 4.86 supplies a rule for practical auditing:
 
@@ -181,16 +181,18 @@ ActionClass =
 
 An operation's API shape does not determine its moral class. The same bodily
 or verbal operation may serve different governing motives and world
-relations. The audit must therefore preserve provenance from root through
-function to the object consumed or produced.
+relations. The audit must therefore preserve provenance from root through function to
+the experiential field engaged.
 
-The separate warning for livelihood also models risk based observability.
-A recurrent, dependency laden operation deserves explicit monitoring when
+The separate warning for livelihood also models risk-based observability.
+A recurrent, dependency-laden operation deserves explicit monitoring when
 its errors are unusually hard to detect and purify, even if it reuses ordinary
 execution channels.
 
-These are Organon applications. The Path classification, the monastic
-dependency claim, and the sūtra examples remain the source doctrine.
+In the wider Karman framework, volition (*cetanā*) is the enacted practical
+determination; greed is the causal root organizing this bodily or verbal
+action as livelihood. They are distinct, not equivalents. Separate naming
+makes this difficult-to-purify relation visible to disciplined correction.
 
 ## 10. Review Status
 

@@ -9,7 +9,7 @@
 
 ## 2. Sanskrit (IAST)
 
-```text
+```iast
 aśubhāḥ ṣaḍ avijñaptir dvidhaikaḥ te 'pi kurvataḥ /
 dvividhāḥ sapta kuśalāḥ avijñaptiḥ samādhijāḥ // 4.67 //
 ```
@@ -23,7 +23,7 @@ dvividhāḥ | sapta | kuśalāḥ |
 avijñaptiḥ | samādhi-jāḥ
 ```
 
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `aśubhāḥ` | nominative masculine plural | unwholesome courses |
 | `ṣaṭ` | numeral | six |
@@ -110,7 +110,7 @@ second to restraint born from meditative concentration.
 
 ## 5. Translation
 
-### Literal Translation
+### Scientific English Rendering
 
 > Six unwholesome courses are non-manifest; one is twofold. Those too are
 > twofold for one who performs them. The seven wholesome courses are twofold;
@@ -118,15 +118,21 @@ second to restraint born from meditative concentration.
 
 ### Bhāṣya-informed study translation
 
-> Of the seven unwholesome bodily and verbal courses, six can reach principal
-> completion for an instigator as non-manifest karmic determination, since
-> another may execute the visible act. Sexual misconduct, whose completion is
-> necessarily personal, is both manifest action and non-manifest
-> determination. When one personally performs the other six, they too can be
-> twofold, although delayed completion may leave only non-manifest
-> determination at the principal moment. The seven wholesome courses grounded
-> in undertaken discipline possess both modes; restraint born from meditative
-> concentration is non-manifest alone because it depends upon mind alone.
+> Six unwholesome courses are non-manifest; one is twofold. Those six too are
+> twofold for one who performs them personally. The seven wholesome courses
+> are twofold; those born from concentration are non-manifest.
+
+The Bhāṣya identifies the six as killing, taking what is not given, and the
+four unwholesome verbal courses. When an instigator has another perform one
+of these, the instigator lacks the principal manifest action but the course
+is completed through non-manifest determination. Sexual misconduct is the
+exception because its completion must be personal, so it is both manifest and
+non-manifest. If one personally performs the other six, they are twofold when
+death occurs at the time; if death occurs later, only non-manifest
+determination remains at the principal completion. The seven wholesome
+bodily and verbal courses grounded in undertaken discipline are twofold;
+restraint born from concentration is non-manifest alone because it depends
+upon consciousness alone.
 
 The identities of the six, the delegated-action rationale, the temporal
 qualification, and the contrast between undertaken and concentration-born
@@ -197,7 +203,7 @@ non-manifest modes.
 **`Samādhija` — born from concentration**
 
 The Bhāṣya includes restraint associated with dhyāna and uncontaminated
-restraint. Because this discipline depends upon mind alone
+restraint. Because this discipline depends upon consciousness alone
 (`cittamātrādhīna`), it is `avijñapti` alone.
 
 ## 8. Logical Determination
@@ -249,7 +255,7 @@ verse will articulate preparation, principal completion, and aftermath.
 explicit undertaking
     → vijñapti + avijñapti
 
-concentration dependent on mind alone
+concentration dependent on consciousness alone
     → avijñapti
 ```
 
@@ -312,6 +318,7 @@ Class: VisibleExecutor
 Class: ResponsibleContinuum
 Class: UndertakenRestraint
 Class: ConcentrationBornRestraint
+Class: ConsciousnessAlone
 Class: DelegableCourse
 Class: PersonallyCompletedCourse
 
@@ -351,7 +358,7 @@ Rule: UndertakenRestraintIsTwofold
 
 Rule: ConcentrationBornRestraintIsNonManifest
     ConcentrationBornRestraint(?r)
-    and dependsOn(?r, MindAlone)
+    and dependsOn(?r, ConsciousnessAlone)
     -> hasRealizationMode(?r, NonManifestKarmicDetermination)
 
 Constraint: ExecutionResponsibilityAndCompletionRemainDistinct

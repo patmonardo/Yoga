@@ -39,7 +39,7 @@ The complete unit is `[242|06]–[242|12]`. The running witness reads
 silently repaired to the expected `pāruṣyāṇām`. The first half of VAK 4.71
 begins at `[242|13]` with the completion root of false view.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Scientific English Rendering
 
 It was said that not all courses of karma reach completion through greed
 and the other roots alike. Which course, then, reaches completion through
@@ -47,7 +47,8 @@ which root?
 
 “Killing, hostility, and harsh speech reach completion through hatred.”
 These three—killing, hostility, and harsh speech—are completed through
-hatred because a rejecting and harsh mind has become immediately present.
+hatred because a rejecting and harsh consciousness has become immediately
+present.
 
 “Through greed comes the completion of sexual misconduct, covetousness,
 and taking what is not given.” Sexual misconduct, covetousness, and taking
@@ -68,8 +69,8 @@ completion root
 Preparation for any unwholesome course can arise from greed, hatred, or
 delusion. The completed course nevertheless has a more determinate
 relation to its governing root. A complex history of motives therefore
-does not replace the question: **what Power gives the course its completed
-form?**
+does not replace the question: **which root governs completion of the
+course?**
 
 The verse gives two triads:
 
@@ -90,7 +91,7 @@ rejection. Greed completes courses whose fulfilled determination is
 appropriative possession or enjoyment. These formulations render the
 relation conceptually; the source itself states the root assignments and
 explains the hatred triad through the immediate presence of a rejecting,
-harsh mind.
+harsh consciousness.
 
 ## 5. Course as Practical Syllogism
 
@@ -114,11 +115,11 @@ rejected or injured, greed as something to be appropriated or enjoyed.
 
 This also clarifies why root and course remain distinct. `Dveṣa` is not
 identical with killing, hostility, or harsh speech; it is the common
-governing Power that can reach determinate completion in each. `Lobha` is
+governing root through which each can reach determinate completion. `Lobha` is
 not identical with theft, covetousness, or sexual misconduct; each is a
 specific practical conclusion generated under its rule.
 
-## 6. Organon Contact Point
+## 6. Interpretation
 
 In our Fichtean reconstruction:
 
@@ -127,11 +128,10 @@ Being takes its Stand on Principle.
 Course takes its Stand on Root.
 ```
 
-VAK 4.70 adds that the Principle must be identified at the point where the
-course becomes complete. A partial motive somewhere in the causal history
-does not by itself determine the completed Form. The ruling root is the
-Power through which mediation, object, and result become one determinate
-course.
+VAK 4.70 adds that the operative root must be identified at the point where
+the course becomes complete. A partial motive somewhere in the causal history
+does not by itself determine the completed Form. The ruling root relates
+mediation, object, and result within one determinate course.
 
 For the Rational Moral Agent, judgment therefore requires at least:
 

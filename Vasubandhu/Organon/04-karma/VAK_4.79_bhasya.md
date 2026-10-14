@@ -9,7 +9,7 @@ phalahetvapavādinyā sarvathā kramaśo nṛṣu // 4.79 //
 
 
 > Severance of the wholesome roots occurs through false view. It concerns
-> desire-domain roots acquired by birth, through a view denying result and
+> Desire-Realm roots acquired by birth, through a view denying result and
 > ground; completely, successively, among humans.
 
 False view now appears at its strongest practical degree. It no longer
@@ -136,7 +136,7 @@ forms including `dahani`, `kuśalamūlāli`, `samuchidyante`,
 4.80 begins at `[250|02]` by asking which human continuums can perform the
 severance and how reconnection occurs.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Scientific English Rendering
 
 “Severance of the roots occurs through false view.” The wholesome roots are
 severed by false view that has become fully intense.
@@ -148,7 +148,7 @@ view is brought forth by the unwholesome roots, its action is attributed to
 them. Fire itself burns a village, but because thieves supplied the fire one
 says that the thieves burned the village.
 
-Which wholesome roots are severed? “Those belonging to the desire domain
+Which wholesome roots are severed? “Those belonging to the Desire-Realm
 and acquired by birth.” Desire-domain wholesome roots are severed because
 the person is not presently endowed with roots belonging to the form and
 formless domains.
@@ -230,7 +230,7 @@ they generate the false view that performs it.
 The direct object is carefully restricted:
 
 ```text
-desire-domain roots acquired by birth
+Desire-Realm roots acquired by birth
     → directly severed
 
 practice-produced wholesome roots
@@ -295,7 +295,7 @@ as capable of powerful principial determination in either direction.
 Prajñā can disclose the practical order, while false view can become strong
 enough to destroy the continuum's wholesome generative capacity.
 
-## 8. Organon Contact Point
+## 8. Interpretation
 
 Root-severing false view is a failure at the level of practical architecture:
 
@@ -320,7 +320,7 @@ Complete failure may be assembled through successive losses of provenance,
 causal discrimination, consequence tracking, and corrective capacity.
 Preserving one operative grade can preserve the possibility of regeneration.
 
-These agent and schema formulations are the Organon reconstruction. The
+These agent and schema formulations are the project's interpretation. The
 objects of severance, causal attribution, domain restrictions, nine-grade
 dispute, restraint dispute, and human locus belong to the Bhāṣya.
 

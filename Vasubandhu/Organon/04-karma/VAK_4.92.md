@@ -1,4 +1,4 @@
-# VAK_4.92 — Completion of the Training-status Matrix
+# VAK_4.92 — Completion of the Training-status Result Matrix
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -9,7 +9,7 @@
 
 ## 2. Sanskrit (IAST)
 
-```text
+```iast
 dharmāḥ śaikṣādikā ekaṃ phalaṃ trīṇy api ca dvayam /
 tābhyām anyasya śaikṣādyā dve dve pañca phalāni ca // 4.92 //
 ```
@@ -21,352 +21,189 @@ dharmāḥ | śaikṣa-ādikāḥ | ekam | phalam | trīṇi | api | ca | dvayam
 tābhyām | anyasya | śaikṣa-ādyāḥ | dve | dve | pañca | phalāni | ca
 ```
 
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
-| `dharmāḥ` | nominative masculine plural | candidate result-dharmas |
-| `śaikṣa-ādikāḥ` | nominative masculine plural compound | the ordered classes beginning with trainee |
-| `ekam phalam` | nominative neuter singular | one fruit-relation |
-| `trīṇi` | nominative neuter plural | three fruit-relations |
+| `dharmāḥ` | nominative masculine plural | result-dharmas in the ordered classification |
+| `śaikṣa-ādikāḥ` | nominative masculine plural compound | classes beginning with trainee |
+| `ekam phalam` | nominative neuter singular | one result |
+| `trīṇi` | nominative neuter plural | three results |
 | `api ca` | additive coordination | and also |
-| `dvayam` | nominative neuter singular collective | a pair; two fruit-relations |
-| `tābhyām` | ablative plural pronoun | from those two; other than trainee and beyond-training |
-| `anyasya` | genitive singular | of the other class; of neither-status karma |
-| `śaikṣa-ādyāḥ` | nominative masculine plural compound | result-dharmas in the sequence trainee, beyond-training, neither |
-| `dve dve` | distributive neuter duals | two and two |
-| `pañca phalāni` | nominative neuter plural | all five fruit-relations |
+| `dvayam` | nominative neuter singular collective | a pair; two results |
+| `tābhyām` | ablative dual pronoun | other than those two, trainee and beyond-training |
+| `anyasya` | genitive singular | belonging to the other action-class, neither status |
+| `śaikṣa-ādyāḥ` | nominative masculine plural compound | result-dharmas in the order trainee, beyond training, neither |
+| `dve dve` | distributive neuter duals | two results for each of the first two classes |
+| `pañca phalāni` | nominative neuter plural | five results for the third class |
 
-**Continuation from VAK 4.91**
-
-The opening phrase completes the unfinished construction:
-
-```text
-aśaikṣasya tu karmaṇaḥ ...
-    dharmāḥ śaikṣādikāḥ
-    ekam trīṇi dvayam [phalāni]
-```
-
-The second half then supplies the row for karma belonging to neither Path
-status.
+The opening result-class sequence continues the beyond-training action clause
+begun in 4.91. The Bhāṣya identifies the three classes and the exact result
+memberships. The second half specifies action belonging to neither trainee
+nor one beyond training.
 
 ## 4. Grammar
 
-**Beyond-training karma**
+**Beyond-training action**
 
 ```text
 aśaikṣasya karmaṇaḥ
-    śaikṣādikāḥ dharmāḥ
-    ekam phalam
-    trīṇi [phalāni]
-    dvayam [phalayoḥ]
-    [anukramam]
+    dharmāḥ śaikṣādikāḥ
+    ekam phalam, trīṇi, dvayam
 ```
 
-> For beyond-training karma, result-dharmas beginning with the trainee class
-> are related through one, three, and two fruits respectively.
+> For action belonging to one beyond training, result-dharmas beginning with
+> the trainee class are respectively one, three, and two results.
 
-The ordered sequence remains trainee, beyond-training, neither. The Bhāṣya
-supplies the distributive `anukramam` sense and identifies every member.
+The ordered result classes are trainee, beyond training, and neither. The
+Bhāṣya specifies which result-relations constitute each count.
 
-**Neither-status karma**
+**Action other than those two statuses**
 
 ```text
 śaikṣāśaikṣābhyām anyasya [karmaṇaḥ]
     śaikṣādyāḥ [dharmāḥ]
     dve dve pañca phalāni
-    [anukramam]
 ```
 
-> For karma other than those two, the same ordered result-classes are related
-> through two, two, and five fruits respectively.
+> For action belonging to neither trainee nor one beyond training, the same
+> ordered result classes have respectively two, two, and five results.
 
-`Tābhyām anyasya` does not name a fourth Path status. It resolves to the
-technical class `naivaśaikṣa-nāśaikṣa`, neither trainee nor beyond-training.
+`Tābhyām anyasya` refers to action other than action of the two named
+training-status classes; the Bhāṣya identifies this as neither-status action.
 
 ## 5. Translation
 
-### Literal Translation
+### Scientific English Rendering
 
-> For the karma of one beyond training, dharmas beginning with the trainee
-> class are one result, three, and also a pair. For karma other than those two,
-> those beginning with the trainee class are two, two, and five results.
+> For action belonging to one beyond training, dharmas beginning with the
+> trainee class are respectively one, three, and two results. For action
+> belonging to neither trainee nor one beyond training, the same ordered
+> classes are respectively two, two, and five results.
 
 ### Bhāṣya-informed study translation
 
-> For beyond-training karma, trainee dharmas can be results only through
-> dominant conditioning; beyond-training dharmas through correspondence,
-> activity-production, and dominant conditioning; and dharmas of neither
-> status through activity-production and dominant conditioning. For karma of
-> neither status, trainee and beyond-training dharmas can each be results
-> through activity-production and dominant conditioning, while neither-status
-> dharmas can stand to it through all five relations: maturation,
-> correspondence, disconnection, activity-production, and dominant
-> conditioning.
-
-The identity of the single fruit, the memberships of every cell, and the
-technical meaning of the third status are supplied by the Bhāṣya.
+> For beyond-training action, trainee dharmas stand as one result: the
+> dominant result. Dharmas belonging to one beyond training stand as three
+> results, with maturation and disconnection excluded; the corresponding,
+> activity-produced, and dominant results remain. Dharmas belonging to
+> neither trainee nor one beyond training stand as two results:
+> activity-produced and dominant. For action belonging to neither trainee
+> nor one beyond training, trainee dharmas stand as two results:
+> activity-produced and dominant. Dharmas belonging to one beyond training
+> stand in the same way. Dharmas belonging to neither status stand as all
+> five results: maturation, corresponding, disconnection, activity-produced,
+> and dominant.
 
 ## 6. Philosophical Translation
 
-> The causal form of the Path is directional. Training can continue into and
-> actively produce determinations beyond training, but completed training does
-> not reproduce itself backward as training; it can only exercise dominant
-> efficacy with respect to trainee dharmas. Outside the two noble Path
-> statuses, conditioned activity possesses its greatest internal causal
-> density, admitting all five relations within its own class. Breadth of causal
-> entanglement, however, is not superiority. Rational development is measured
-> by the determinate transformation of the relation, not by the number of
-> causal predicates retained.
-
-The matrix expresses:
-
-```text
-training
-    → can generate completion as a corresponding development
-
-completion
-    → can govern training
-    → cannot regress into training as its own corresponding continuation
-
-neither-status conditioned field
-    → retains the complete multiplicity of causal propagation
-```
-
-This is Practical Reason encoded as an asymmetric developmental relation.
+> The result-profile of action belonging to one beyond training is
+> asymmetrical across the three result-status classes: one result, three,
+> and two. Action belonging to neither status has a different profile: two,
+> two, and five. These counts summarize distinct memberships in the
+> five-result classification; equal counts do not imply identical causal
+> relations, and the largest count does not itself rank a Path status.
 
 ## 7. Technical Vocabulary
 
-**`Śaikṣa` — trainee**
-
-One whose noble training remains operative. The status identifies a station
-within the Path and therefore helps determine which fruit-relations are
-possible between causal karma and resulting dharmas.
-
-**`Aśaikṣa` — beyond training**
-
-One whose required noble training is complete. The term does not mean
-untrained. Its causal profile shows achieved completion as a determinate Path
-status rather than a simple absence of practice.
-
-**`Naivaśaikṣa-nāśaikṣa` — neither trainee nor beyond-training**
-
-The class outside the two noble training statuses. Its self-relation admits
-all five fruits, displaying maximum causal range within the conditioned field
-without implying a higher liberative station.
-
-**`Tābhyām anya` — other than those two**
-
-The kārikā's relational designation of the third status. Its meaning depends
-on the already established opposition between trainee and beyond-training.
-
-**The single `adhipati-phala`**
-
-Beyond-training karma relates to trainee dharmas only through dominant result.
-Completion can condition and govern training, but trainee dharmas are not its
-maturation, corresponding continuation, disconnection, or activity-produced
-result in this matrix.
-
-**`Niṣyanda` and developmental continuity**
-
-Correspondence joins trainee karma to beyond-training dharmas and
-beyond-training karma to beyond-training dharmas. It does not join
-beyond-training karma back to trainee dharmas. The asymmetry gives causal form
-to the direction of development.
-
-**`Visaṃyoga` in the completed matrix**
-
-For trainee karma, disconnection appears in relation to neither-status
-dharmas. For neither-status karma relating to neither-status dharmas, it is one
-of all five available fruits. Fruit-membership alone therefore does not
-identify the Path-status or liberative value of the source.
-
-**Five fruits in one cell**
-
-`Pañca phalāni` means that the complete fivefold taxonomy is admissible for
-the ordered relation from neither-status karma to neither-status dharmas. It
-does not assert that every individual act produces five separate concrete
-events.
+- **Action** — the rendering of *karma/karman*; no additional volition is
+  inserted where this verse does not name *cetanā*.
+- **Result** — the rendering of *phala* in this classification.
+- **Trainee** (*śaikṣa*) — the first training-status class.
+- **Beyond training** (*aśaikṣa*) — the second training-status class; not
+  “untrained.”
+- **Neither status** (*naivaśaikṣa-nāśaikṣa*) — neither trainee nor beyond
+  training.
+- **Maturation result** (*vipāka-phala*), **corresponding result**
+  (*niṣyanda-phala*), **disconnection-result** (*visaṃyoga-phala*),
+  **activity-produced result** (*puruṣakāra-phala*), and **dominant result**
+  (*adhipati-phala*) — the five result-relations specified by the Bhāṣya.
 
 ## 8. Logical Determination
 
-**Rows completed by this verse**
+Let `M`, `C`, `D`, `P`, and `A` name maturation, corresponding,
+disconnection, activity-produced, and dominant results respectively.
 
-Let:
+**Rows specified in this verse**
 
-```text
-V = vipāka
-N = niṣyanda
-D = visaṃyoga
-P = puruṣakāra
-A = adhipati
-```
-
-Then:
-
-```text
-F(BeyondTraining, Trainee)
-    = {A}
-
-F(BeyondTraining, BeyondTraining)
-    = {N, P, A}
-
-F(BeyondTraining, Neither)
-    = {P, A}
-
-F(Neither, Trainee)
-    = {P, A}
-
-F(Neither, BeyondTraining)
-    = {P, A}
-
-F(Neither, Neither)
-    = {V, N, D, P, A}
-```
-
-**Completed VAK 4.91–4.92 matrix**
-
-| Source karma | Trainee result | Beyond-training result | Neither-status result |
+| Action status ↓ / Result status → | Trainee | Beyond training | Neither |
 |---|---|---|---|
-| trainee | `N, P, A` | `N, P, A` | `D, P, A` |
-| beyond training | `A` | `N, P, A` | `P, A` |
-| neither | `P, A` | `P, A` | `V, N, D, P, A` |
+| beyond training | `A` | `C, P, A` | `P, A` |
+| neither | `P, A` | `P, A` | `M, C, D, P, A` |
 
-The numerical projection is:
+**Completed 4.91–4.92 matrix**
 
-| Source karma | Trainee | Beyond training | Neither |
-|---|---:|---:|---:|
-| trainee | 3 | 3 | 3 |
-| beyond training | 1 | 3 | 2 |
-| neither | 2 | 2 | 5 |
+| Action status ↓ / Result status → | Trainee | Beyond training | Neither |
+|---|---|---|---|
+| trainee | `C, P, A` | `C, P, A` | `D, P, A` |
+| beyond training | `A` | `C, P, A` | `P, A` |
+| neither | `P, A` | `P, A` | `M, C, D, P, A` |
 
-**Directed asymmetry**
-
-```text
-F(Trainee, BeyondTraining) = {N, P, A}
-
-F(BeyondTraining, Trainee) = {A}
-```
-
-Therefore:
-
-```text
-same endpoint classes reversed  ≠ same causal relation
-same result-count               ≠ same fruit-set
-all five fruit-types            ≠ highest Path-status
-completion                      ≠ regression into training
-```
-
-**The Path relation**
-
-```text
-trainee course
-    → corresponding continuity toward completed training
-    → active production of completed-training dharmas
-    → dominant support of completion
-
-beyond-training course
-    → dominant support of trainee dharmas
-    → no corresponding backward development
-```
-
-The ordered pair of source-status and result-status is consequently
-irreducible.
+The numerical projection is `3, 3, 3` for trainee action, `1, 3, 2` for
+beyond-training action, and `2, 2, 5` for neither-status action. Result
+membership is directed: reversing action and result status does not preserve
+the set.
 
 ## 9. Interpretive Note
 
-VAK 4.92 closes the fruit analysis begun in 4.87 by giving Path development a
-directed causal grammar. A static taxonomy would list trainee,
-beyond-training, and neither as three properties. The Kośa instead asks what
-each status can do in relation to each other status. Meaning emerges from the
-directed matrix.
-
-The contrast between trainee-to-beyond-training and beyond-training-to-trainee
-is the conceptual center. Training can yield completed-training dharmas
-through `niṣyanda`, because completion is the corresponding development of
-the Path. It can also actively produce and dominantly condition them.
-Completion, however, does not flow backward as training. It relates to trainee
-dharmas only through `adhipati`, the governing efficacy by which an achieved
-station can support the development of another continuum without becoming
-that unfinished station itself.
-
-The neither-to-neither cell prevents a quantitative misunderstanding. It
-contains all five fruits, yet it is not thereby the most rational or liberated
-cell. It is the most causally inclusive because ordinary conditioned activity
-can mature, correspond, disconnect, actively produce, and dominantly
-condition within its own broad field. Liberation is not maximal causal
-multiplicity; it is transformation of the causal structure according to its
-telos.
-
-This is a precise contribution to Rational Yoga. Saṃyama-bhūmis cannot be
-completed by listing stages or experiences. Each Bhūmi must be traversed as a
-directed structure of source, target, operation, admissible inference, and
-result. The Kośa has now demonstrated that method on ethical quality, time,
-ground, and Path-status without losing the unity of the fivefold fruit-object.
-
-Hegelian Transcendental Philosophy makes the developmental asymmetry
-intelligible. A completed determination preserves the process that generated
-it, but it does not become identical with an earlier incomplete station. It
-can govern that station as its truth. Thus beyond-training is the truth of
-training, while training is the genetic course through which that truth
-becomes actual.
+The completed matrix makes action-status and result-status jointly
+determinative. The Bhāṣya gives an exact set of result-relations for each
+ordered pair; a count is only a compressed statement of that set. In the
+Kośa's wider cognitive movement, Discriminative Cognition joins and governs
+Perception and Conception; this matrix articulates practical causal
+differentiation through action and result-status. Its five-result
+neither-to-neither cell expresses the breadth of that classified relation,
+not a ranking of spiritual worth.
 
 ## 10. OWL++ Seed
 
 ```text
-Class: PathStatus
-Class: TraineeStatus
-  SubClassOf: PathStatus
-Class: BeyondTrainingStatus
-  SubClassOf: PathStatus
-Class: NeitherTrainingStatus
-  SubClassOf: PathStatus
+Class: Action
+Class: ResultDharma
+Class: ResultRelationType
+Class: TraineeAction
+  SubClassOf: Action
+Class: BeyondTrainingAction
+  SubClassOf: Action
+Class: NeitherTrainingStatusAction
+  SubClassOf: Action
+Class: TraineeDharma
+  SubClassOf: ResultDharma
+Class: BeyondTrainingDharma
+  SubClassOf: ResultDharma
+Class: NeitherTrainingStatusDharma
+  SubClassOf: ResultDharma
 
-Class: FruitRelation
-Class: MaturationRelation
-Class: CorrespondenceRelation
-Class: DisconnectionRelation
-Class: ActivityProducedRelation
-Class: DominantRelation
+Class: CorrespondingResult
+  SubClassOf: ResultRelationType
+Class: DisconnectionResult
+  SubClassOf: ResultRelationType
+Class: ActivityProducedResult
+  SubClassOf: ResultRelationType
+Class: DominantResult
+  SubClassOf: ResultRelationType
+Class: MaturationResult
+  SubClassOf: ResultRelationType
 
-ObjectProperty: hasSourceStatus
-  Domain: FruitRelation
-  Range: PathStatus
-
-ObjectProperty: hasResultStatus
-  Domain: FruitRelation
-  Range: PathStatus
-
-ObjectProperty: permitsFruitType
-  Domain: DirectedPathStatusRelation
-  Range: FruitRelation
+ObjectProperty: hasActionTrainingStatus
+  Domain: Action
+ObjectProperty: hasResultTrainingStatus
+  Domain: ResultDharma
 
 Rule: BeyondTrainingToTrainee
-  permittedFruitTypes = {DominantRelation}
-
+  permittedResultTypes = {DominantResult}
 Rule: BeyondTrainingToBeyondTraining
-  permittedFruitTypes = {CorrespondenceRelation,
-                         ActivityProducedRelation, DominantRelation}
-
+  permittedResultTypes = {CorrespondingResult,
+                          ActivityProducedResult, DominantResult}
 Rule: BeyondTrainingToNeither
-  permittedFruitTypes = {ActivityProducedRelation, DominantRelation}
-
+  permittedResultTypes = {ActivityProducedResult, DominantResult}
 Rule: NeitherToTrainee
-  permittedFruitTypes = {ActivityProducedRelation, DominantRelation}
-
+  permittedResultTypes = {ActivityProducedResult, DominantResult}
 Rule: NeitherToBeyondTraining
-  permittedFruitTypes = {ActivityProducedRelation, DominantRelation}
-
+  permittedResultTypes = {ActivityProducedResult, DominantResult}
 Rule: NeitherToNeither
-  permittedFruitTypes = {MaturationRelation, CorrespondenceRelation,
-                         DisconnectionRelation, ActivityProducedRelation,
-                         DominantRelation}
+  permittedResultTypes = {MaturationResult, CorrespondingResult,
+                          DisconnectionResult, ActivityProducedResult,
+                          DominantResult}
 
-Rule: DevelopmentalAsymmetry
-  if sourceStatus TraineeStatus and resultStatus BeyondTrainingStatus
-  then permitsFruitType CorrespondenceRelation
-  but if sourceStatus BeyondTrainingStatus and resultStatus TraineeStatus
-  then not permitsFruitType CorrespondenceRelation
-
-Constraint: PathStatusRelationIsDirected
-Constraint: EqualCardinalityDoesNotEntailEqualMembership
-Constraint: MaximumFruitCountDoesNotEntailHighestPathStatus
+Constraint: ResultCountsAreDerivedFromResultTypeMembership
+Constraint: ReversingTrainingStatusDoesNotPreserveResultMembership
 ```

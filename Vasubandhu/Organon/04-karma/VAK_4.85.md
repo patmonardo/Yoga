@@ -9,7 +9,7 @@
 
 ## 2. Sanskrit (IAST)
 
-```text
+```iast
 sarve 'dhipati-niṣyanda-vipāka-phaladā matāḥ /
 duḥkhanān māraṇād ojo-nāśanāt trividhaṃ phalam // 4.85 //
 ```
@@ -21,11 +21,11 @@ sarve | adhipati-niṣyanda-vipāka-phala-dāḥ | matāḥ |
 duḥkhanāt | māraṇāt | ojas-nāśanāt | trividham | phalam
 ```
 
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
-| `sarve` | nominative masculine plural | all the wholesome and unwholesome courses of action |
+| `sarve` | nominative masculine plural | all the wholesome and unwholesome Courses of Action |
 | `adhipati-phala` | determinative compound | dominant result; conditioning of the broader field |
-| `niṣyanda-phala` | determinative compound | outflow or corresponding result |
+| `niṣyanda-phala` | determinative compound | corresponding result |
 | `vipāka-phala` | determinative compound | maturation result |
 | `-dāḥ` | nominative masculine plural from `-da` | giving, productive of |
 | `matāḥ` | nominative masculine plural past passive participle of √`man` | held, recognized, understood |
@@ -33,7 +33,7 @@ duḥkhanāt | māraṇāt | ojas-nāśanāt | trividham | phalam
 | `māraṇāt` | ablative singular action noun | from killing or causing death |
 | `ojas-nāśanāt` | ablative singular compound | from destroying vitality |
 | `trividham` | accusative neuter singular | threefold |
-| `phalam` | accusative neuter singular | result, fruit |
+| `phalam` | accusative neuter singular | result |
 
 **Sandhi in the second pāda**
 
@@ -56,13 +56,13 @@ to each result.
 The Bhāṣya expands the understood subject:
 
 ```text
-ten unwholesome karmapathas
+ten unwholesome Courses of Action
 and
-ten wholesome karmapathas
+ten wholesome Courses of Action
 ```
 
 The second half uses killing as the explanatory model; the same differentiated
-result-structure is then extended to the other courses.
+result-structure is then extended to the other Courses of Action.
 
 ## 4. Grammar
 
@@ -76,7 +76,7 @@ sarve [karmapathāḥ]
     matāḥ
 ```
 
-> All courses of action are held to give dominant, corresponding, and
+> All Courses of Action are held to give dominant, corresponding, and
 > maturation results.
 
 The long compound coordinates three objects of `-dāḥ`. It does not name one
@@ -92,14 +92,14 @@ ojas-nāśanāt
     trividhaṃ phalam [bhavati]
 ```
 
-> From causing suffering, causing death, and destroying vitality, the result
+> From causing suffering, killing, and destroying vitality, the result
 > is threefold.
 
 The Bhāṣya fixes the one-to-one construal:
 
 ```text
 causing suffering       → maturation result
-causing death           → corresponding result
+killing                 → corresponding result
 destroying vitality     → dominant result
 ```
 
@@ -109,24 +109,26 @@ example of killing.
 
 ## 5. Translation
 
-### Literal Translation
+### Scientific English Rendering
 
-> All are held to give dominant, corresponding, and maturation results. From
-> causing suffering, causing death, and destroying vitality, the result is
-> threefold.
+> All Courses of Action are held to give dominant, corresponding, and
+> maturation results. From causing suffering, killing, and destroying
+> vitality, the result is threefold.
 
 ### Bhāṣya-informed study translation
 
-> All ten unwholesome and all ten wholesome courses of action are understood
-> to produce results in three differentiated causal registers: maturation of
-> the agent's mode of existence, a later result corresponding to the course,
-> and conditioning of the broader field. Killing displays the rationale. By
-> causing another to suffer, one undergoes suffering through maturation in
-> hell; by ending another's life, one later becomes short-lived through a
-> corresponding result; and by destroying another's vitality, one conditions
-> a field whose medicines and supports possess little vitality. The other
-> unwholesome courses are to be analyzed through the same structure, while
-> wholesome courses yield the contrary results through systematic reversal.
+> All Courses of Action are held to give dominant, corresponding, and
+> maturation results. From causing suffering, killing, and destroying
+> vitality, the result is threefold.
+>
+> The Bhāṣya specifies that this includes all ten unwholesome and ten
+> wholesome Courses of Action. It demonstrates the three relations through
+> killing: causing suffering corresponds to maturation in hell, killing to a
+> later short life, and destroying vitality to weakened external conditions.
+> It extends the same threefold structure to the other Courses of Action and
+> says wholesome results follow by reversal. The short-life case is not
+> simple production: killing is analyzed as an obstruction-ground relative
+> to human lifespan.
 
 The rebirth, human, environmental, obstruction-ground, and wholesome-reversal
 details belong to the Bhāṣya's explanation.
@@ -164,18 +166,20 @@ conditioned interior organization of the agent.
 
 **`Vipāka-phala` — maturation result**
 
-Result at the level of a future mode of existence. For unwholesome courses
-that have been practiced, cultivated, and made abundant, the Bhāṣya gives
-rebirth in hell as the maturation result. For wholesome courses it gives the
+Result at the level of a future mode of existence. For unwholesome Courses of
+Action that have been practiced, cultivated, and made abundant, the Bhāṣya gives
+rebirth in hell as the maturation result. For wholesome Courses of Action it
+gives the
 contrary direction, exemplified by divine rebirth after cultivated abstention
 from killing.
 
-**`Niṣyanda-phala` — outflow or corresponding result**
+**`Niṣyanda-phala` — corresponding result**
 
 A later determination specially corresponding to the qualitative form of the
-course: killing with short life, theft with loss of possessions, divisive
-speech with broken friendships, and so forth. `Outflow` must not suggest that
-one numerically identical substance travels from the deed into the result.
+Course of Action: killing with short life, taking what is not given with loss
+of possessions, divisive speech with broken friendships, and so forth. The
+correspondence denotes qualitative similarity, not numerical transmission of
+an entity.
 
 **`Sādṛśya-viśeṣa` — special relation of similarity**
 
@@ -186,7 +190,7 @@ broader classes of maturation and dominant result.
 
 **`Adhipati-phala` — dominant result**
 
-The conditioning of the external or shared field. Repeated courses deform or
+The conditioning of the external or shared field. Repeated Courses of Action deform or
 sustain the efficacy of surroundings: vitality, terrain, seasons, fruits,
 medicinal supports, and other conditions of embodied life. `Adhipati` here
 names governing causal efficacy, not a sovereign entity standing behind the
@@ -243,7 +247,7 @@ completed determination does in different relations.
 
 **The full unwholesome correspondence supplied by the Bhāṣya**
 
-| Course | Corresponding result | Dominant field-result |
+| Course of Action | Corresponding result | Dominant field-result |
 |---|---|---|
 | killing | short life | external things have little vitality |
 | taking what is not given | loss of possessions | destructive environmental disturbances |
@@ -287,7 +291,7 @@ one deed                         ≠ one undifferentiated consequence
 killing
 ├── negates sentient well-being
 │   └── vipāka: suffering of the agent
-├── negates the course of life
+├── negates the victim's life
 │   └── niṣyanda: obstruction and short life
 └── negates operative vitality
     └── adhipati: weakened vitality of the field
@@ -334,11 +338,11 @@ result as inwardly sedimented conditioning.
 ## 10. OWL++ Seed
 
 ```text
-Class: KarmicCourse
-Class: WholesomeKarmicCourse
-  SubClassOf: KarmicCourse
-Class: UnwholesomeKarmicCourse
-  SubClassOf: KarmicCourse
+Class: CourseOfAction
+Class: WholesomeCourseOfAction
+  SubClassOf: CourseOfAction
+Class: UnwholesomeCourseOfAction
+  SubClassOf: CourseOfAction
 
 Class: KarmicResult
 Class: MaturationResult
@@ -355,19 +359,19 @@ Class: ObstructionGround
 Class: SpecialSimilarityRelation
 
 ObjectProperty: givesResult
-  Domain: KarmicCourse
+  Domain: CourseOfAction
   Range: KarmicResult
 
 ObjectProperty: maturesAs
-  Domain: KarmicCourse
+  Domain: CourseOfAction
   Range: AgentModeOfExistence
 
 ObjectProperty: correspondsAs
-  Domain: KarmicCourse
+  Domain: CourseOfAction
   Range: LaterLifeDetermination
 
 ObjectProperty: conditionsFieldAs
-  Domain: KarmicCourse
+  Domain: CourseOfAction
   Range: ConditionedField
 
 ObjectProperty: obstructs
@@ -376,10 +380,10 @@ ObjectProperty: obstructs
 
 ObjectProperty: relatedBySpecialSimilarity
   Domain: CorrespondingResult
-  Range: KarmicCourse
+  Range: CourseOfAction
 
 Rule: ThreefoldResult
-  if x instanceOf KarmicCourse
+  if x instanceOf CourseOfAction
   then x givesResult some MaturationResult
        and x givesResult some CorrespondingResult
        and x givesResult some DominantResult
@@ -398,12 +402,12 @@ Rule: KillingAsObstruction
        and not solelyProduces(x, y)
 
 Rule: WholesomeReversal
-  if x instanceOf WholesomeCourse
+  if x instanceOf WholesomeCourseOfAction
      and x isContraryOf y
-     and y instanceOf UnwholesomeCourse
+     and y instanceOf UnwholesomeCourseOfAction
   then resultsOf(x) areSystematicReversalOf resultsOf(y)
 
 Constraint: CorrespondenceDoesNotEntailNumericalIdentity
 Constraint: CausalContributionDoesNotEntailSoleProduction
-Constraint: OneCourseHasDifferentiatedResultRelations
+Constraint: OneCourseOfActionHasDifferentiatedResultRelations
 ```

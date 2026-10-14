@@ -9,7 +9,7 @@
 
 ## 2. Sanskrit (IAST)
 
-```text
+```iast
 mithyādṛṣṭes tu mohena śeṣāṇāṃ tribhir iṣyate /
 sattva-bhogāv adhiṣṭhānaṃ nāmarūpaṃ ca nāma ca // 4.71 //
 ```
@@ -23,7 +23,7 @@ sattva-bhogau | adhiṣṭhānam |
 nāma-rūpam | ca | nāma | ca
 ```
 
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `mithyā-dṛṣṭeḥ` | genitive feminine singular | of false view |
 | `tu` | adversative or transitional particle | but; however |
@@ -109,7 +109,7 @@ bases successively across the four groups of courses.
 
 ## 5. Translation
 
-### Literal Translation
+### Scientific English Rendering
 
 > False view, however, reaches completion through delusion; the remaining
 > courses are held to reach completion through the three. Living being and
@@ -117,14 +117,16 @@ bases successively across the four groups of courses.
 
 ### Bhāṣya-informed study translation
 
-> False view reaches completion through delusion when delusion becomes
-> intense. False speech, divisive speech, and disordered speech may each reach
-> completion through greed, hatred, or delusion. The ten courses are also
-> arranged as four groups according to their objective bases: killing,
-> hostility, and harsh speech operate upon living beings; sexual misconduct,
-> covetousness, and taking what is not given operate upon possessions or
-> objects of enjoyment; false view has name-and-form as its basis; and the
-> three remaining speech-courses have the structured name-complex as theirs.
+> False view reaches completion through delusion; the remaining courses are
+> held to reach completion through the three. Living being and object of
+> enjoyment, name-and-form, and name are their respective bases.
+
+The Bhāṣya says intensified delusion brings false view to completion, and
+identifies the remaining courses as false speech, divisive speech, and
+disordered speech, each completable through greed, hatred, or delusion. It
+distributes the ten courses into four groups—three, three, one, and three—
+with living being, object of enjoyment, name-and-form, and name-complex as
+their respective bases.
 
 The identities of the remainder, the intensified-delusion explanation, and
 the exact `3 + 3 + 1 + 3` distribution are supplied by the Bhāṣya.

@@ -1,4 +1,4 @@
-# VAK 4.94 Bhāṣya — Non-abandonable Results and Procedural Constitution
+# VAK 4.94 Bhāṣya — Non-abandonable Results and Action Constitution
 
 ## 1. Kārikā Anchor
 
@@ -7,13 +7,19 @@ apraheyasya te tv ekaṃ dve catvāri yathākramam /
 ayogavihitaṃ kliṣṭaṃ vidhibhraṣṭaṃ ca kecana // 4.94 //
 ```
 
-> For non-abandonable action, those same result classes are respectively one,
-> two, and four. Improperly constituted action is afflicted; some also include
-> action that has fallen from the prescribed procedure.
-
-The first half completes the matrix begun in 4.93. The second begins a new
-classification reported from the treatises: action properly constituted,
-improperly constituted, or neither.
+> Action not to be abandoned has, in order, one, two, and four results when
+> related to dharmas to be abandoned through seeing, to be abandoned through
+> cultivation, and not to be abandoned: the dominant result; the
+> activity-produced and dominant results; and the corresponding,
+> disconnection, activity-produced, and dominant results. The Bhāṣya explains
+> that the repeated “respectively” preserves the order through its abbreviated
+> middle statement. The inquiry then distinguishes action properly
+> constituted, improperly constituted, and neither. One view classifies
+> afflicted action as improperly constituted because it arises from
+> non-methodical attention; another also includes action that departs from
+> the appropriate procedure. Other teachers identify wholesome action as
+> properly constituted and not deviating from procedure, with action outside
+> these classes neither properly nor improperly constituted.
 
 ## 2. Continuous Sanskrit
 
@@ -21,219 +27,146 @@ improperly constituted, or neither.
 apraheyasya te tv ekaṃ dve catvāri yathākramam /
 
 apraheyasya karmaṇo darśanaheyā dharmā ekam adhipatiphalam;
-bhāvanāheyā dve, puruṣakārādhipatiphale; apraheyāś catvāri,
-vipākaphalaṃ muktvā.
+bhāvanāheyā dve puruṣakārādhipatiphale;
+apraheyāś catvāri vipākaphalaṃ muktvā.
 
-punar yathākramagrahaṇam ādyantavan madhye 'pi jñāpanārtham. eṣa hi
-peyāladharmaḥ.
+punar yathākramagrahaṇam ādyantavan madhye 'pi jñāpanārtham.
+eṣa hi peyāladharmaḥ.
 
-karmanirdeśaprasaṅgenedam api paripraśnyate. śāstreṣv ayogavihitaṃ,
-yogavihitaṃ, naivayogavihitaṃ nāyogavihitaṃ ca karmoktam. tasya kiṃ
-lakṣaṇam?
+karmanirdeśaprasaṅgenedam api paripraśnyate:
+śāstreṣv ayogavihitaṃ yogavihitaṃ naivayogavihitaṃ nāyogavihitaṃ ca
+karmoktam. tasya kiṃ lakṣaṇam?
 
 ayogavihitaṃ kliṣṭaṃ vidhibhraṣṭaṃ ca kecana // 4.94 //
 
 kliṣṭaṃ karmāyogavihitam ayoniśomanaskārasaṃbhūtatvād ity eke.
-vidhibhraṣṭam apīty apare. yena yathā gantavyaṃ, sthātavyaṃ, bhoktavyaṃ,
-pravicaritavyam ity evamādi, tac cānyathā vidadhāti. tad
-ayuktavidhānād ayogavihitam iti.
+vidhibhraṣṭam apīty apare.
+yena yathā gantavyaṃ sthātavyaṃ bhoktavyaṃ pravicaritavyam ity evamādi,
+tac cānyathā vidadhāti.
+tad ayuktavidhānād ayogavihitam iti.
 
-kuśalaṃ karma yogavihitam; avidhibhraṣṭaṃ cety apare.
-ubhābhyām anyan nobhayathā: naivayogavihitaṃ nāyogavihitam.
+kuśalaṃ karma yogavihitam avidhibhraṣṭaṃ cety apare.
+ubhābhyām anyan nobhayathā:
+naivayogavihitaṃ nāyogavihitam.
 ```
 
-The witness reads `karmaṃ` at `[258|08–09]`, normalized above to `karma`.
-The compound `ayogavihita` remains difficult to render with one English
-word; “improperly constituted” is used here to preserve both its origin in
-improper attention and its possible extension to procedural deviation.
+The source unit is `[257|23]–[258|10]`. It first completes the
+abandonment-status matrix, explains the repeated order, and then reports
+different accounts of action constitution. The witness reads `karmaṃ` in
+`kuśalaṃ karmaṃ` at `[258|08–09]`; the continuous text above normalizes this
+to `karma`.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Scientific English Rendering
 
-For non-abandonable action, those same result classes are one, two, and four
-respectively. Dharmas abandoned through seeing stand as one result: the
-dominant result. Dharmas abandoned through cultivation stand as two results:
-the activity-produced and dominant results. Non-abandonable dharmas stand as
-four results, with maturation excluded.
+For action not to be abandoned, dharmas to be abandoned through seeing are
+one result: the dominant result. Dharmas to be abandoned through cultivation
+are two results: activity-produced and dominant. Dharmas not to be abandoned
+are four results, with maturation excluded.
 
-The word “respectively” is stated again so that, as at the beginning and end,
-it will also be understood in the intervening cases. For this is a matter of
-elliptical repetition.
+The order is stated again so that the middle cases, as well as the first and
+last, are understood to follow it. This is an abbreviated recitation.
 
-In connection with the exposition of action, this question is also asked.
-The treatises speak of action as improperly constituted, properly
-constituted, and neither properly nor improperly constituted. What are their
-characteristics?
+In connection with the exposition of action, this question is also raised:
+the treatises speak of action as improperly constituted, properly
+constituted, and neither properly nor improperly constituted. What are
+their characteristics?
 
-Some say that afflicted action is improperly constituted because it is born
-from improper attention. Others also include action that has fallen from the
-prescribed procedure. One should go, stand, eat, and conduct oneself in a
-particular manner, and so on; if one performs these otherwise, the action is
-improperly constituted because its manner of performance is unfitting.
+Some classify afflicted action and action deviating from prescribed
+procedure as improperly constituted. One view says afflicted action is
+improperly constituted because it arises from non-methodical attention.
+Others also include action that deviates from the prescribed manner of
+going, standing, eating, and conducting oneself. Action performed otherwise
+is improperly constituted because its manner of prescription is unfitting.
 
-Wholesome action is properly constituted. According to the second position,
-it must also not have fallen from prescribed procedure. Action other than
-these two is classified in neither way: it is neither properly constituted
-nor improperly constituted.
+Other teachers say wholesome action is properly constituted and has not
+deviated from prescribed procedure. What is other than both classes is
+neither properly nor improperly constituted.
 
-## 4. The Non-abandonable Source Row
+## 4. The Non-abandonable-action Row
 
-The final row is:
+| Result-dharma status | Number | Included results | Excluded result |
+|---|---:|---|---|
+| to be abandoned through seeing | 1 | dominant | maturation, corresponding, disconnection, activity-produced |
+| to be abandoned through cultivation | 2 | activity-produced, dominant | maturation, corresponding, disconnection |
+| not to be abandoned | 4 | corresponding, disconnection, activity-produced, dominant | maturation |
 
-| Result-dharma class | Number | Included relations |
-|---|---:|---|
-| seeing-abandonable | 1 | dominant |
-| cultivation-abandonable | 2 | activity-produced, dominant |
-| non-abandonable | 4 | correspondence, disconnection, activity-produced, dominant |
+The phrase `te ... yathākramam` carries forward the same target order used
+in 4.93. The source row completes the three-by-three matrix without
+collapsing result count into result membership.
 
-Non-abandonable action cannot produce maturation because it belongs outside
-the contaminated maturation order. Toward its own class, however, it can
-continue by correspondence, perform disconnection, produce determinate
-dharmas, and function as a dominant condition.
+## 5. The Repeated Order and Abbreviated Recitation
 
-Its relations to abandonable dharmas are narrower. It cannot generate them as
-its maturation or corresponding continuation. It may condition both classes,
-and it may directly produce cultivation-abandonable dharmas.
-
-## 5. The Completed Abandonment Matrix
-
-Combining 4.93 and the first half of 4.94 gives:
-
-| Action ↓ / Result → | Seeing-abandonable | Cultivation-abandonable | Non-abandonable |
-|---|---|---|---|
-| seeing-abandonable | N, P, A | M, N, P, A | A |
-| cultivation-abandonable | P, A | M, N, P, A | V, P, A |
-| non-abandonable | A | P, A | N, V, P, A |
-
-where:
+The Bhāṣya explains the renewed `yathākramam` as a reminder that the stated
+order applies to the intervening member as well as the beginning and end.
+It calls the passage a `peyāladharma`, an abbreviated recitation in which
+repeated material is supplied from the established sequence.
 
 ```text
-M = maturation
-N = correspondence
-V = disconnection
-P = activity-produced
-A = dominant
+target order:
+    to be abandoned through seeing
+    to be abandoned through cultivation
+    not to be abandoned
 ```
 
-The diagonal exposes three different causal profiles. Both abandonable
-classes retain contaminated maturation and correspondence but lack
-disconnection. The non-abandonable diagonal lacks maturation while retaining
-both correspondence and disconnection.
+The order is essential: the numbers `one, two, four` do not by themselves
+identify which result class receives which count.
 
-## 6. `Yathākramam` and Elliptical Repetition
+## 6. Three Action-constitution Classes
 
-Vasubandhu pauses to explain why “respectively” appears again. The intervening
-matrix statements are compressed by `peyāla`, an ellipsis in which repeated
-material is understood rather than restated.
-
-```text
-explicit order at the beginning
-    → abbreviated middle applications
-    → explicit order at the end
-```
-
-The repeated `yathākramam` guarantees that the same ordered mapping governs
-the omitted middle formulations. It is a textual operator preserving column
-alignment across compression.
-
-This is important for the algebra: a compact numeral sequence has no meaning
-without a stable order of target classes.
-
-## 7. A New Classification: `Yoga-vihita`
-
-The second half changes the question from causal results to the constitution
-of action. Three classes are presupposed:
+The commentary first names three classifications found in treatises:
 
 ```text
 yogavihita
-    properly constituted or appropriately performed
+    properly constituted
 
 ayogavihita
-    improperly constituted or inappropriately performed
+    improperly constituted
 
-naiva-yogavihita-na-ayogavihita
-    neither
+naiva yogavihita nāyogavihita
+    neither properly nor improperly constituted
 ```
 
-`Yoga` here concerns fitting application or conjunction, not the entire Yoga
-system as later reconstructed by the Organon. `Vihita` carries the sense of
-being arranged, performed, or prescribed in a determinate way.
+The verse reports positions about the characteristics of improper
+constitution. The Bhāṣya does not merge the explanations into one
+unattributed definition.
 
-## 8. Two Accounts of Improper Constitution
+## 7. Reported Accounts
 
-Two positions are recorded:
+**Non-methodical-attention account**
 
-1. **Affliction account.** An afflicted action is improperly constituted
-   because it arises from `ayoniśomanaskāra`, improper or nonprincipial
-   attention.
-2. **Procedural account.** Action that departs from the appropriate manner of
-   going, standing, eating, or conducting oneself is also improperly
-   constituted.
+One group holds that afflicted action is improperly constituted because it
+arises from `ayoniśomanaskāra`, attention not proceeding by an appropriate
+method.
 
-The second account adds Form to causal root:
+**Procedural-deviation account**
 
-```text
-afflicted origin
-    or
-deviation from the fitting procedure
-        → ayogavihita
-```
+Other teachers also include action that deviates from the prescribed manner
+of going, standing, eating, or conducting oneself. If someone performs
+otherwise what is to be done in a specified manner, the action is improperly
+constituted because its manner of prescription is unfitting.
 
-An action can therefore be defective not only because of what motivates it,
-but because its enacted configuration violates the procedure appropriate to
-its situation.
+**Wholesome-action account and the residual class**
 
-## 9. Proper and Neither-class Action
+Other teachers say wholesome action is properly constituted and has not
+deviated from procedure. Action other than the two classes is neither
+properly nor improperly constituted. These reported criteria remain
+distinct: the source does not reduce ethical quality, attention, and
+procedural conformity to one test.
 
-Wholesome action supplies the core definition of `yogavihita`. Under the
-broader procedural account, wholesomeness alone is insufficient: the action
-must also preserve the fitting procedure.
+## 8. Interpretation
 
-The residual class is neither. This does not mean logically unintelligible.
-It contains action that satisfies neither the positive conditions of proper
-constitution nor the negative conditions assigned to improper constitution.
+The completed matrix shows that not-to-be-abandoned action remains causally
+operative: its own-status relation includes four result types, with
+maturation excluded. The discussion then shifts from result relations to
+the constitution of action. The Kośa's wider cognitive movement is governed
+by Discriminative Cognition joining and governing Perception and Conception;
+here, the practical inquiry distinguishes how action arises from how it is
+performed. The reported accounts should remain attributed and distinct.
 
-The three classes should therefore be represented as determinate predicates,
-not as a simple Boolean:
+## 9. Review Status
 
-```text
-Proper
-Improper
-NeitherProperNorImproper
-```
-
-## 10. Organon Contact Point
-
-VAK 4.94 adds procedural validity to the Causal Algebra for Agency:
-
-```text
-ActionEvaluation {
-    causalRoot
-    attentionMode
-    prescribedProcedure
-    enactedProcedure
-    constitutionClass
-}
-```
-
-An action may fail through corrupted intention or through malformed execution.
-This gives the Program Feature two independent validation stages:
-
-```text
-Root.Eval   — is the action generated from fitting attention?
-Form.Eval   — does execution conform to its determinate procedure?
-```
-
-The `peyāla` explanation also provides an authoring rule for executable
-matrices: compression is valid only when the row and column order remains
-explicitly recoverable.
-
-These are Organon applications. The three action classes, competing
-definitions, and conduct examples belong to the Bhāṣya.
-
-## 11. Review Status
-
-The complete composite 4.94 unit `[257|23]–[258|10]` is included. It completes
-the abandonment-status matrix, explains the repeated ordering operator, and
-then defines properly constituted, improperly constituted, and neither-class
-action. It stops before the new rebirth-production question at `[258|11]`.
-The witness irregularity and the scope change within the kārikā are marked.
+The complete 4.94 unit `[257|23]–[258|10]` is included. It completes the
+abandonment-status matrix, explains the repeated order and abbreviated
+recitation, and preserves the reported accounts of properly constituted,
+improperly constituted, and neither-class action. The study stops before the
+next question begins at `[258|11]`.

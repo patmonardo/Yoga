@@ -7,14 +7,14 @@ sarve 'dhipatiniṣyandavipākaphaladā matāḥ /
 duḥkhanān māraṇād ojonāśanāt trividhaṃ phalam // 4.85 //
 ```
 
-> All are held to give dominant, corresponding, and maturation results.
-> From causing suffering, killing, and destroying vitality comes the
-> threefold result.
+> All Courses of Action are held to give dominant, corresponding, and
+> maturation results. From causing suffering, killing, and destroying
+> vitality, the result is threefold.
 
-“All” gathers the ten unwholesome and ten wholesome courses whose
+“All” gathers the ten unwholesome and ten wholesome Courses of Action whose
 distribution was completed in 4.82–4.84. The Bhāṣya first enumerates the
 three results and then derives their differentiation from three aspects of
-killing as a completed course.
+killing as a completed Course of Action.
 
 ## 2. Continuous Sanskrit
 
@@ -74,31 +74,30 @@ printed above and the repair is marked here. Other obvious running-text forms
 normalized above include `narakeṣrapapadyate`, `praṇātipāta`, `maulelnety`,
 and `prāṇātīpātena`.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Scientific English Rendering
 
-These ten unwholesome and ten wholesome courses of action are all held to
+These ten unwholesome and ten wholesome Courses of Action are all held to
 give dominant, corresponding, and maturation results.
 
-First, through cultivating, developing, and repeatedly performing any of the
-unwholesome courses, one is reborn in the hells. That is their maturation
+First, through practicing, cultivating, and making any of the unwholesome
+Courses of Action abundant, one is reborn in hell. That is their maturation
 result.
 
-If the person later returns to the human condition, killing produces short
-life; taking what is not given produces loss of possessions; sexual
-misconduct produces an unsatisfactory spouse relation; false speech produces
-frequent accusation; divisive speech produces the breakup of friendships;
-harsh speech produces the hearing of disagreeable sounds; frivolous speech
-produces speech that carries no authority; covetousness produces intense
-desire; ill will produces intense hatred; and false view produces intense
-delusion, because false view has delusion in abundance. This is called their
-corresponding result.
+If the person comes to be among humans, killing produces short life; taking
+what is not given produces loss of possessions; sexual misconduct leaves the
+person without a suitable spouse; false speech brings frequent accusation;
+divisive speech produces the breakup of friendships; harsh speech leads to
+hearing disagreeable sounds; frivolous speech produces words that carry no
+authority; covetousness produces intense covetousness; ill will produces
+intense hatred; and false view produces intense delusion, because false view
+has delusion in abundance. This is called their corresponding result.
 
 Even a short human life is a wholesome result. How, then, can it be the
 corresponding result of killing? The claim is not that the life itself is the
 result of killing. Rather, because of killing the person is short-lived.
 Killing must therefore be understood as a cause obstructing that lifespan.
 
-When killing has been intensely practiced, external things have little
+When killing has been repeatedly practiced, external things have little
 vitality. Through taking what is not given, hail and dust are abundant;
 through sexual misconduct, things are covered with dust; through false
 speech, they are foul-smelling; through divisive speech, the terrain is
@@ -119,23 +118,24 @@ Even what has been called a corresponding result does not fall outside the
 two categories of maturation and dominant result. It receives the special
 name because of a distinctive resemblance.
 
-Why do these courses produce this threefold result? In committing killing,
+Why do these Courses of Action produce this threefold result? In committing
+killing,
 the agent causes the victim suffering, kills the victim, and destroys the
 victim's vitality. From causing suffering, the agent is afflicted by
 suffering in hell through the maturation result. From killing, the agent is
 short-lived through the corresponding result. From destroying vitality,
 external medicines have little potency through the dominant result. The
-other courses are to be correlated in the same way.
+other Courses of Action are to be correlated in the same way.
 
-The three results of the wholesome courses should be understood similarly.
-Through cultivating, developing, and repeatedly practicing abstention from
-killing, one is reborn among the gods. If one subsequently reaches the human
-condition, one is long-lived. Every case should be supplied by reversing the
-unwholesome series.
+The three results of the wholesome Courses of Action should be understood
+similarly. Through practicing, cultivating, and making abstention from
+killing abundant, one is reborn among the gods. If one subsequently comes to
+be among humans, one is long-lived. Every case should be supplied by
+reversing the unwholesome series.
 
 ## 4. Three Result Relations
 
-The verse distinguishes three modes in which one completed course exceeds
+The verse distinguishes three modes in which one completed Course of Action exceeds
 its immediate occurrence:
 
 | Result | Sanskrit | Exemplification for killing |
@@ -151,9 +151,9 @@ conditions the shared external field.
 
 ## 5. The Ten Corresponding Results
 
-The middle series pairs each course with a later human determination:
+The middle series pairs each Course of Action with a later human determination:
 
-| Unwholesome course | Corresponding result |
+| Unwholesome Course of Action | Corresponding result |
 |---|---|
 | killing | short life |
 | taking what is not given | loss of possessions |
@@ -179,12 +179,12 @@ appears in the surrounding world: vitality, weather, terrain, seasons, and
 fruitfulness.
 
 ```text
-course repeatedly cultivated
+Course of Action repeatedly cultivated
     → shared field acquires a corresponding defect
 ```
 
 This is the strongest `Loka : Karma` moment in the passage. Karma is not
-confined to an interior moral ledger. The course conditions the world in
+confined to an interior moral ledger. The Course of Action conditions the world in
 which later agents must live. Yet each environmental correspondence remains
 a source claim; it should not be presented as empirically verified natural
 science.
@@ -223,8 +223,8 @@ destroying vitality   → dominant result: low vitality in medicines
 ```
 
 This supplies the rationale for the triad. Result structure is generated from
-the internal structure of the course itself. Vasubandhu directs the same
-method to the other nine courses: discriminate the aspects of harm performed,
+the internal structure of the Course of Action itself. Vasubandhu directs the same
+method to the other nine Courses of Action: discriminate the aspects of harm performed,
 then correlate them with the modes of result.
 
 ## 9. Wholesome Reversal
@@ -238,39 +238,41 @@ environmental impairment.
 The method is systematic:
 
 ```text
-unwholesome course → deprivation across agent and world
+unwholesome Course of Action → deprivation across agent and world
 wholesome abstention → reversal of that deprivation
 ```
 
 The reversal is grounded in the same three result relations, not in a second
 unrelated theory of wholesome karma.
 
-## 10. Organon Contact Point
+## 10. Interpretation
 
 For the Organon, a Course of Action must return a structured result rather
 than a single value:
 
 ```text
-CourseResult {
+CourseOfActionResult {
     maturation: transformation of the agent's future state
     correspondence: homologous determination in later operation
     dominance: conditioning of the shared World System
 }
 ```
 
-The deeper rule is genetic. The three outputs must be derived from the aspects
-of the completed operation, with traceable links from injury to result. This
-gives the Practical Agent an auditable rationale rather than a bare moral
-label.
+The three registers are generated from distinct aspects of the completed
+Course of Action, with traceable links from its operation to the result. This
+makes causal differentiation answerable to what the action did rather than
+leaving it as a bare moral label.
 
-The treatment of correspondence also supplies a classification warning:
-useful practical names can cross-cut a stricter causal ontology. A result may
-be called “corresponding” because its form resembles the course while still
-belonging, under another analysis, to maturation or dominance.
+The status of correspondence is especially important. The Bhāṣya says that
+`niṣyandaphala` does not exceed the categories of maturation and dominant
+result; it receives its distinct name from a special resemblance. The
+interpretation therefore distinguishes result-relations without reifying
+them as separate causal substances.
 
-These are Organon determinations. The rebirth claims, environmental results,
-and their precise karmic correlations remain the doctrine reported by the
-Bhāṣya.
+The Course of Action determines both the agent's later conditions and the
+shared field in which further action occurs. The three-result account thus
+joins ethical form, the agent's becoming, and the world-conditioned
+consequences of conduct.
 
 ## 11. Review Status
 

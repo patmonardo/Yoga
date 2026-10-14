@@ -63,7 +63,7 @@ The complete unit is `[247|01]–[247|17]`. The running witness reads
 remain visible. VAK 4.78 begins at `[247|18]` with hostility and false view
 before asking why the ten are called courses of karma.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Scientific English Rendering
 
 “Others say that afflicted speech other than these is disordered
 discourse.” According to this position, afflicted speech other than false
@@ -177,7 +177,7 @@ A term may have a broad scriptural extension while the ten-course
 classification selects only the form powerful enough to govern a practical
 configuration. This is the qualitative degree of a Course of Action.
 
-## 7. Organon Contact Point
+## 7. Interpretation
 
 VAK 4.77 gives two rules for agent design:
 
@@ -204,8 +204,9 @@ The mental course can be represented as a projected transition:
  Practical Degree>
 ```
 
-This is the Organon reconstruction. The speech taxonomy, examples, competing
-extensions of `abhidhyā`, and gross-conduct selection belong to the Bhāṣya.
+This is the project's interpretive reconstruction. The speech taxonomy,
+examples, competing extensions of `abhidhyā`, and gross-conduct selection
+belong to the Bhāṣya.
 
 ## 8. Review Status
 
