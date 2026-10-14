@@ -1,4 +1,4 @@
-# VAK 4.127 Bhāṣya — The Closing Classification of Dharmas
+# VAK 4.127 Bhāṣya — Practice, Rank, and the Unsurpassed
 
 ## 1. Kārikā Anchor
 
@@ -7,12 +7,13 @@ sāvadyā nivṛtā hīnāḥ kliṣṭā dharmāḥ śubhāmalāḥ /
 praṇītāḥ saṃskṛtaśubhāḥ sevyāḥ mokṣas tv anuttaraḥ // 4.127 //
 ```
 
-> Afflicted dharmas are faulty, obscured, and inferior; wholesome,
-> undefiled dharmas are excellent. Conditioned wholesome dharmas are
-> to be practiced; liberation is unsurpassed.
+> Afflicted Dharmas are faulty, obscured, and inferior. “Auspicious,”
+> “stainless,” and “excellent” are designations for Dharmas. Conditioned
+> wholesome Dharmas are to be cultivated; liberation, however, is
+> unsurpassed.
 
-The Bhāṣya presents these as alternative evaluative designations,
-then explains why the unconditioned is not a practice to be produced.
+The Bhāṣya explicitly glosses `praṇīta` (“excellent”) as a designation
+for wholesome Dharmas without influx.
 
 ## 2. Continuous Sanskrit
 
@@ -34,7 +35,8 @@ saṃskṛtaśubhāḥ sevyāḥ
 kuśalasaṃskṛtānāṃ sevitavyā iti paryāyaḥ;
 śeṣā asevitavyā iti siddhaṃ bhavati.
 
-kasmād asaṃskṛtaṃ na sevyam? anabhyasanīyatvād aphalatvāc ca;
+kasmād asaṃskṛtaṃ na sevyam?
+anabhyasanīyatvād aphalatvāc ca;
 phalārthaṃ hi sevā bhavati.
 
 sottarā anye sarvadharmāḥ.
@@ -44,62 +46,78 @@ mokṣas tv anuttaraḥ // 4.127 //
 na hi nirvāṇād viśiṣṭataram asti.
 tac ca sarvebhyo viśiṣṭaṃ kuśalanityatvāt.
 
-abhidharmakośabhāṣye karmanirdeśo nāma caturthaṃ kośasthānam iti.
+abhidharmakośabhāṣye karmanirdeśo nāma caturthaṃ kośasthānam iti //
+pañcamaṃ kośasthānam.
 ```
 
-The final verse and commentary occupy `[275|07]–[275|19]`; the
-colophon is at `[275|20–21]`. The witness prints `kusalasaṃskṛtānāṃ`
-without `ś`, normalized above. The colophon is retained because it
-explicitly closes the fourth chapter. Material after it belongs to
-the fifth chapter.
+The verse and commentary occupy `[275|07]–[275|19]`; the colophon is at
+`[275|20–21]`. The witness reads `kusalasaṃskṛtānāṃ`; it is normalized
+here as `kuśalasaṃskṛtānāṃ`.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Scientific English Rendering
 
-Now some alternative designations of dharmas are given. Afflicted
-dharmas are called faulty, obscured, and inferior. The source calls
-wholesome undefiled dharmas excellent; it infers an intermediate
-class between the inferior and the excellent. Conditioned wholesome
-dharmas are called fit to be practiced. The remainder are not
-practiced in that sense.
+“Now some alternative designations for Dharmas are stated:
 
-Why is the unconditioned not practiced? Because it cannot be
-habituated and does not yield a further fruit: practice is undertaken
-for a fruit. All other dharmas have something superior to them.
-Liberation alone is unsurpassed. Nothing is more excellent than
-nirvāṇa; it surpasses all because it is wholesome and permanent.
+‘Faulty, obscured, inferior—afflicted Dharmas.’
 
-The colophon states that the fourth chapter of the
-*Abhidharmakośabhāṣya*, called the *Karmanirdeśa*, is complete.
+Faulty, obscured, and inferior are alternative designations for afflicted
+Dharmas.
 
-## 4. Classification and Practical Direction
+‘Auspicious, stainless; excellent.’
 
-| Class or term | Bhāṣya's determination |
-|---|---|
-| afflicted (`kliṣṭa`) | faulty, obscured, inferior |
-| wholesome and undefiled | excellent; the verse also calls them auspicious and stainless |
-| conditioned wholesome | to be practiced or habituated |
-| unconditioned | not a producible practice with a further fruit |
-| liberation (`mokṣa`, `nirvāṇa`) | unsurpassed |
+‘Excellent’ is an alternative designation for wholesome Dharmas without
+influx. From inferior and excellent, it follows that the others are
+intermediate.
 
-The wording `paryāyāḥ` matters: the opening predicates organize
-evaluative language for dharma classes, rather than naming new
-causal entities. The final distinction keeps **means** and **end**
-apart. Conditioned wholesome activity can be practiced for fruit;
-nirvāṇa is not another conditioned achievement to be manufactured
-by repeating an action.
+‘Conditioned wholesome Dharmas are to be practiced.’
 
-## 5. Organon Contact Point — Project Reconstruction
+‘To be practiced’ is an alternative designation for conditioned wholesome
+Dharmas; it follows that the remainder are not to be practiced.
 
-For our architecture, the closing verse marks a boundary on an
-action system: its cultivated, conditioned means can be specified
-and compared, but their unconditioned end should not be entered as
-one more productive task. This is a comparative reading of the
-Bhāṣya's `sevyāḥ` and `anuttaraḥ`, not a claim that the text teaches
-our Organon system.
+Why is the unconditioned not to be practiced? Because it cannot be
+repeatedly cultivated and because it has no fruit; for practice is
+undertaken for the sake of fruit.
 
-## 6. Review Status
+All other Dharmas have something higher than themselves.
 
-The verse, its commentary, and the Chapter 4 colophon have been
-checked through `[275|20–21]`. This completes the sequential
-Karma Bhāṣya studies through 4.127, subject to the remaining QA
-checks on the files and any later textual revision.
+‘Liberation, however, is unsurpassed.’
+
+For nothing is more excellent than nirvāṇa. It is superior to all because
+it is wholesome and permanent.
+
+Thus, in the *Abhidharmakośabhāṣya*, the fourth Kośa chapter, named
+Karmanirdeśa, is complete. The fifth Kośa chapter [begins].”
+
+## 4. Interpretation
+
+The Bhāṣya's opening word, `paryāya`, controls the first movement: the
+verse organizes alternative designations for Dharma classes rather than
+introducing a fresh inventory. Faulty, obscured, and inferior are
+predicated of afflicted Dharmas. The Bhāṣya explicitly identifies
+`praṇīta` (“excellent”) with wholesome Dharmas without influx and infers
+an intermediate rank between inferior and excellent.
+
+The next movement changes the question from evaluation to practice.
+Conditioned wholesome Dharmas are to be practiced; the unconditioned is
+not itself a repeatedly cultivated cause aimed at producing a further
+fruit. This does not make the unconditioned inferior. The passage
+distinguishes the cultivable means from the unsurpassed end.
+
+The concluding contrast is therefore not simply another lexical pair.
+All other Dharmas have something higher than themselves; liberation is
+unsurpassed because nothing exceeds nirvāṇa, which the Bhāṣya calls
+wholesome and permanent. The chapter's causal analysis has a limit: its
+means can be classified and cultivated, but liberation is not one more
+conditioned product within that scheme.
+
+## 5. Textual and Scope Notes
+
+The verse's `śubhāmalāḥ` and `praṇītāḥ` are retained as separate
+expressions. The explicit Bhāṣya gloss ties `praṇīta` to wholesome
+Dharmas without influx; the translation does not silently expand that
+gloss into a universal equation between all positive qualities,
+conditioned wholesomeness, and liberation.
+
+The chapter colophon at `[275|20–21]` confirms that this is the closing
+unit of the fourth Kośa chapter, Karmanirdeśa. It is included as
+continuing chapter context, not as an additional kārikā.

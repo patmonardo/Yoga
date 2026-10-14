@@ -1,272 +1,187 @@
-# VAK_4.119 — Six Determinants of Karmic Weight
+# VAK 4.119 — Six Factors of Karmic Weight
 
 ## 1. Sanskrit (Devanāgarī)
 
 ```sanskrit
 पृष्ठं क्षेत्रमधिष्ठानं प्रयोगश्चेतनाशयः ।
-एषां मृद्वधिमात्रत्वात् कर्म मृद्वधिमात्रता ॥ ४.११९ ॥
+एषां मृद्वधिमात्रत्वात् कर्ममृद्वधिमात्रता ॥ ४.११९ ॥
 ```
 
 ## 2. Sanskrit (IAST)
 
-```text
-pṛṣṭhaṃ kṣetram adhiṣṭhānaṃ prayogaś cetanāśayaḥ |
-eṣāṃ mṛdvadhimātratvāt karma mṛdvadhimātratā || 4.119 ||
+```iast
+pṛṣṭhaṃ kṣetram adhiṣṭhānaṃ prayogaś cetanāśayaḥ /
+eṣāṃ mṛdvadhimātratvāt karmamṛdvadhimātratā // 4.119 //
 ```
+
+The verse's `cetanāśayaḥ` enumerates two factors, `cetanā` and `āśayaḥ`;
+the Bhāṣya explicitly counts six causes.
 
 ## 3. Lexical Analysis
 
 ```text
 pṛṣṭham | kṣetram | adhiṣṭhānam | prayogaḥ | cetanā | āśayaḥ |
-eṣām | mṛdu-adhimātratvāt | karma | mṛdu-adhimātratā
+eṣām | mṛdu-adhimātratvāt | karma-mṛdu-adhimātratā
 ```
 
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
-| `pṛṣṭham` | nominative singular neuter | subsequent renewal of a performed deed |
-| `kṣetram` | nominative singular neuter | field in relation to which benefit or harm is done |
-| `adhiṣṭhānam` | nominative singular neuter | karmapatha, completed course of action |
-| `prayogaḥ` | nominative singular masculine | bodily or verbal undertaking directed toward the karmapatha |
-| `cetanā` | nominative singular feminine | volition that brings the karmapatha to completion |
-| `āśayaḥ` | nominative singular masculine | underlying purpose or resolve |
+| `pṛṣṭham` | nominative singular neuter | subsequent repetition of what has been done |
+| `kṣetram` | nominative singular neuter | field in which benefit or harm is done |
+| `adhiṣṭhānam` | nominative singular neuter | the action-course (`karmapatha`) |
+| `prayogaḥ` | nominative singular masculine | bodily or verbal undertaking for that course |
+| `cetanā` | nominative singular feminine | volition by which the action-course is completed |
+| `āśayaḥ` | nominative singular masculine | underlying intention or resolve |
 | `eṣām` | genitive plural pronoun | of these six |
-| `mṛdu-adhimātratvāt` | ablative singular compound abstract noun | because of mildness or intensity |
-| `karma` | nominative singular neuter | karma, the deed in its causal determination |
-| `mṛdu-adhimātratā` | nominative singular feminine compound | the condition of being mild or intense |
+| `mṛdvadhimātratvāt` | ablative singular abstract compound | because of their mildness or intensity |
+| `karmamṛdvadhimātratā` | nominative singular feminine compound | the action's mildness or intensity |
 
-The exact technical senses of the first six terms are supplied by the
-Bhāṣya. In particular:
-
-```text
-pṛṣṭha      = repetition or renewal after performance
-adhiṣṭhāna  = the karmapatha itself
-```
+The Bhāṣya supplies the technical senses. In particular, it distinguishes
+the completion-volition `cetanā` from the intention or resolve `āśaya`.
 
 ## 4. Grammar
 
-**Enumeration of the six causes**
+The six nominatives are:
 
 ```text
-pṛṣṭham
-kṣetram
-adhiṣṭhānam
-prayogaḥ
-cetanā
-āśayaḥ [ca]
+pṛṣṭham | kṣetram | adhiṣṭhānam | prayogaḥ | cetanā | āśayaḥ
 ```
 
-The coordinated nominatives identify six causes through which karmic
-heaviness or lightness is known. The Bhāṣya explicitly introduces them as
-`ṣaṭ kāraṇāni`, six causes.
+The compound `cetanāśayaḥ` is resolved as the final two members of that
+sixfold list, not as a single compound factor. The Bhāṣya introduces the
+enumeration as six causes for understanding whether action is heavy or
+light.
 
-**Ablative ground of variation**
+The second half expresses correspondence of degree:
 
 ```text
-eṣām
-    mṛdutvāt adhimātratvāt ca
-karma
-    mṛdu adhimātraṃ ca [bhavati]
+eṣām mṛdu-adhimātratvāt
+    karma mṛdu-adhimātratā
 ```
 
-> Because these are mild or intense, karma is mild or intense.
-
-The abstract compound expresses graded causal force. The Bhāṣya correlates
-this with `laghu` and `guru`, light and heavy, and states the limiting cases:
-all six intense produce extremely heavy karma; all six mild produce extremely
-mild karma.
+> According to whether these factors are mild or intense, the action is
+> mild or intense.
 
 ## 5. Translation
 
-### Literal Translation
+### Scientific English Rendering
 
-> Subsequent reinforcement, field, karmapatha, undertaking, volition, and
-> underlying resolve: because these are mild or intense, karma is mild or
-> intense.
+> Repetition, field, action-course, undertaking, volition, and resolve:
+> according to whether these are mild or intense, action is mild or intense.
 
 ### Bhāṣya-informed study translation
 
-> The weight of karma is determined through six causes: repetition or renewal
-> of the deed after it has been performed; the field in relation to which
-> benefit or harm is done; the karmapatha that is completed; the bodily or
-> verbal undertaking directed toward it; the volition that completes it; and
-> the underlying resolve governing what one intends to do or refrain from.
-> According as these factors are mild or intense, the karma is correspondingly
-> light or heavy. One factor can sometimes make an act heavy by itself, while
-> convergence of all six at maximum intensity makes it extremely heavy.
+> Repetition, field, action-course, undertaking, volition, and resolve:
+> according to whether these are mild or intense, action is mild or intense.
+> The Bhāṣya defines repetition as renewed enactment after an act has been
+> done; field as that in which benefit or harm is performed; action-course as
+> the course of action itself; undertaking as bodily or verbal activity for
+> that course; volition as that by which the course is completed; and resolve
+> as the intention, “I will do this in this way; I will not do that in that
+> way.” In some cases repetition alone, field alone, or the action-course
+> within a field makes an action heavy. When all six factors are intense, the
+> action is extremely heavy; when they are mild, it is extremely mild.
 
-The six definitions, the non-additive cases, and the maximal convergence are
-Bhāṣya determinations.
+The definitions, examples of a single factor's force, and limiting cases are
+provided by the Bhāṣya.
 
 ## 6. Philosophical Translation
 
-> A deed is not an isolated visible occurrence carrying a ready-made weight.
-> It is an internally articulated practical whole: a standing purpose becomes
-> a completing volition, takes bodily or verbal form as an undertaking,
-> realizes a determinate course of action within a qualified field, and may be
-> stabilized through renewed enactment. Karmic gravity is the degree of
-> determination attained by this whole, whether through the exceptional force
-> of one moment or through convergence of all six.
-
-The architecture is:
-
-```text
-āśaya      underlying resolve
-    ↓
-cetanā     completing volition
-    ↓
-prayoga    bodily or verbal undertaking
-    ↓
-adhiṣṭhāna completed karmapatha
-    ↓
-pṛṣṭha     subsequent renewal
-
-all enacted in relation to kṣetra, the field
-```
+> The action is not weighted by volition in isolation. The Bhāṣya gives
+> volition a precise and decisive function: it completes the action-course.
+> That function is distinct from the resolve that frames what one will or
+> will not do, from the bodily or verbal undertaking, and from the course
+> enacted in a field. Repetition can further determine the action after it
+> has been performed. Karmic weight emerges through these distinguishable
+> factors; sometimes one factor is sufficient for heaviness, while the
+> convergence of all six establishes the extreme case.
 
 ## 7. Technical Vocabulary
 
-**`Pṛṣṭha` — subsequent renewal**
-
-Defined as `yat kṛtasya punar anukriyā`, renewed enactment of what has already
-been done. This is narrower than regret, approval, or any generic emotion
-afterward. Renewal can fix the act toward certainty of maturation.
-
-**`Kṣetra` — field**
-
-That in relation to which benefit or harm is performed. The preceding verses
-showed its determination through destiny, suffering, beneficence, qualities,
-and causal reach.
-
-**`Adhiṣṭhāna` — karmapatha**
-
-The Bhāṣya identifies it directly with the course of action itself. It should
-not here be translated as an indeterminate physical basis or external object.
-
-**`Prayoga` — undertaking**
-
-Bodily or verbal karma performed for the sake of producing the karmapatha.
-It is the practical execution leading toward completion, not yet identical
-with the completed course.
-
-**`Cetanā` — completing volition**
-
-The volition by which the karmapatha is brought to completion. It is the
-immediate volitional determination of this deed.
-
-**`Āśaya` — underlying resolve**
-
-The deeper purposive orientation expressed by the Bhāṣya as “I shall do such
-and such; I shall not do such and such.” It must be distinguished from the
-particular completing volition.
-
-**`Mṛdu`, `adhimātra`, `laghu`, and `guru`**
-
-Mild and intense characterize the six causal factors; light and heavy
-characterize the resulting karmic weight. These terms describe degree of
-determination, not the wholesome or unwholesome species by themselves.
+- **`Pṛṣṭha`** — follow-up repetition or renewed enactment of what has
+  already been done.
+- **`Kṣetra`** — field in which benefit or harm is done; here continuous
+  with the recipient-field analysis of 4.117–4.118.
+- **`Adhiṣṭhāna` / `karmapatha`** — the action-course itself.
+- **`Prayoga`** — bodily or verbal undertaking directed toward the
+  action-course.
+- **`Cetanā`** — volition by which the action-course is completed. It is
+  one of the six factors here, not a synonym for the entire action or for
+  all mental activity.
+- **`Āśaya`** — intention or resolve, expressed as what one will or will
+  not do; distinct from the completing volition.
+- **`Mṛdu` / `adhimātra`** — mild / intense, describing the degree of the
+  factors.
+- **`Laghu` / `guru`** — light / heavy, the Bhāṣya's terms for the
+  corresponding action-weight.
+- **`Vipāka-niyama`** — certainty of maturation, invoked to explain how
+  repetition alone can make an action heavy.
 
 ## 8. Logical Determination
 
-Let the six determinants be:
-
 ```text
-P = subsequent renewal
-F = recipient-field
-A = karmapatha
-R = undertaking
-C = completing volition
-S = underlying resolve
+Pṛṣṭha       = follow-up repetition
+Kṣetra       = field
+Adhiṣṭhāna   = action-course
+Prayoga      = bodily/verbal undertaking
+Cetanā       = completion-volition
+Āśaya        = underlying intention or resolve
 ```
 
-Then karmic weight is a structured function:
+The Bhāṣya does not describe a simple additive score. It states that:
 
 ```text
-Weight(K) = f(P, F, A, R, C, S)
+repetition alone may make an action heavy
+field alone may make an action heavy
+action-course may make it heavy within the same field
+all six intense → extremely heavy action
+all six mild    → extremely mild action
 ```
 
-This is not a mechanically additive equation. The Bhāṣya permits:
-
-```text
-Intense(P) alone → Heavy(K)
-Intense(F) alone → Heavy(K)
-Intense(A) within the same F → Heavy(K)
-AllSixIntense → ExtremelyHeavy(K)
-AllSixMild    → ExtremelyMild(K)
-```
-
-The parental example proves reciprocal determination:
-
-```text
-same field: mother or father
-
-killing    → exceptionally heavy through karmapatha
-stealing   → not heavy in the same manner
-```
-
-Field does not erase deed-type, and deed-type is not evaluated independently
-of field.
+The example of the same parental field distinguishes killing from taking
+what is not given: field does not erase the action-course, and the action-
+course is not evaluated apart from the field.
 
 ## 9. Interpretive Note
 
-VAK 4.114–4.118 analyzed the differentiated structure of giving. VAK 4.119
-generalizes the method into an instrument for knowing karmic gravity. Its six
-causes form a temporal and relational course rather than a bag of detached
-properties:
+After 4.114–4.118 distinguish the giver, thing given, and recipient field
+within giving, 4.119 generalizes the inquiry to factors that determine
+action-weight. It especially clarifies the role of `cetanā`: this passage
+does not reduce karma to volition, but it does identify volition as the
+factor that completes the action-course. `Āśaya` remains a separate
+intention, and `prayoga` names bodily or verbal undertaking.
 
-```text
-policy of action
-    → determinate willing
-    → embodied execution
-    → completed course
-    → renewed stabilization
+These are differentiated factors in action, not an equation of Mind with
+any one factor or an inventory of Bases. The verse's “mild/intense” and
+the Bhāṣya's “light/heavy” concern karmic weight; they do not by
+themselves classify the action as wholesome or unwholesome.
 
-within a qualified objective field
-```
-
-This is an unusually exact Kośa analogue for the project's claim that a Path
-is Schema Inference. Practical Reason is not exhausted by an abstract maxim;
-the principle must be traced through volition, means, completed course,
-field, and subsequent stabilization. The karmic course becomes intelligible
-only as this full Crystal Structure of mutually qualifying determinations.
-
-The distinction between `āśaya` and `cetanā` is decisive for Kriyā Yoga:
-standing orientation is not yet the singular act-volition, and neither is yet
-the bodily or verbal `prayoga`. The Path must organize all three without
-collapsing their logical levels.
-
-This Organon reading is a comparative reconstruction. The source claim is the
-six-cause analysis of karmic weight, including the possibility that one
-intense factor suffices and the rule that complete convergence yields the
-extreme case.
+The source span is `[271|08]–[271|18]`. The witness reads `prayiogaḥ`
+in the verse, normalized here as `prayogaḥ`, and `mātāitroḥ` in the
+parental example, normalized as `mātāpitror`. The next question at
+`[271|19]` concerns when an action is said to be done and accumulated.
 
 ## 10. OWL++ Seed
 
-```ttl
-vak:VAK_4_119 a vak:Karika ;
-    rdfs:label "VAK 4.119" ;
-    vak:continues vak:VAK_4_118 ;
-    vak:hasTopic vak:KarmicWeight,
-                 vak:SixWeightDeterminants .
+```text
+Class: KarmicWeight
+Class: Pṛṣṭha
+Class: Kṣetra
+Class: Adhiṣṭhāna
+Class: Prayoga
+Class: Cetanā
+Class: Āśaya
+Class: Mild
+Class: Intense
 
-vak:SixWeightDeterminants
-    vak:hasMember vak:SubsequentRenewal,
-                  vak:RecipientField,
-                  vak:Karmapatha,
-                  vak:Undertaking,
-                  vak:CompletingVolition,
-                  vak:UnderlyingResolve .
+Rule: SixWeightFactors
+  KarmicWeight -> Pṛṣṭha
+  KarmicWeight -> Kṣetra
+  KarmicWeight -> Adhiṣṭhāna
+  KarmicWeight -> Prayoga
+  KarmicWeight -> Cetanā
+  KarmicWeight -> Āśaya
 
-vak:UnderlyingResolve
-    vak:precedes vak:CompletingVolition .
-
-vak:CompletingVolition
-    vak:realizedThrough vak:Undertaking ;
-    vak:bringsToCompletion vak:Karmapatha .
-
-vak:SubsequentRenewal
-    vak:mayFix vak:CertaintyOfMaturation .
-
-vak:KarmicWeight
-    vak:variesWith vak:SixWeightDeterminants ;
-    vak:hasDegree vak:MildOrIntense .
+Attribution: CetanāCompletesActionCourse
+  source = Bhāṣya
 ```

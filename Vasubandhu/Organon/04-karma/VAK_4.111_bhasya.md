@@ -7,13 +7,13 @@ sarvatra sarvaṃ dadataḥ kāruṇyād dānapūraṇam /
 aṅgacchede 'py akopāt tu rāgiṇaḥ kṣāntiśīlayoḥ // 4.111 //
 ```
 
-> Giving is complete for one who gives everything to everyone from
-> compassion. Patience and moral discipline are complete for one who,
-> though still subject to passion, does not become angry even when the
-> limbs are being cut.
+> Giving is complete for one who gives everything everywhere from
+> compassion. Patience and discipline are complete for one still
+> possessing passion who does not become angry even when bodily parts
+> are being cut.
 
-The Bhāṣya gives criteria for the completion of three perfections. The
-following verse supplies the remaining three.
+The Bhāṣya treats the verse as specifying when three perfections are
+complete: giving in the first half, patience and discipline in the second.
 
 ## 2. Continuous Sanskrit
 
@@ -22,68 +22,72 @@ atha kasyām avasthāyāṃ bodhisattvaḥ kāṃ pāramitāṃ paripūrayate?
 
 sarvatra sarvaṃ dadataḥ kāruṇyād dānapūraṇam /
 
-yadā sarvasmai sarvaṃ dadāti, ā akṣṇaḥ ā majjāyāḥ, kāruṇyān
-nābhyudayaviśeṣaṃ lipsamānaḥ, iyatā dānapāramitā paripūrṇā bhavati.
+yadā sarvasmai sarvaṃ dadāti, ā akṣṇaḥ ā majjāyāḥ,
+kāruṇyān nābhyudayaviśeṣaṃ lipsamānaḥ,
+iyatā dānapāramitā paripūrṇā bhavati.
 
 aṅgacchede 'py akopāt tu rāgiṇaḥ kṣāntiśīlayoḥ // 4.111 //
 
-yadā 'yam avītarāgo 'pi chidyamāneṣv aṅgeṣu nālpam api kupyati,
-tadāsya kṣāntiśīlapāramite paripūrṇe bhavataḥ.
+yadā 'yam avītarāgo 'pi chidyamāneṣv aṅgeṣu
+nālpam api kupyati,
+tadā 'sya kṣāntiśīlapāramite paripūrṇe bhavataḥ.
 ```
 
-The running-source unit is `[267|03]–[267|09]`. The witness reads
-`avasthāvāṃ` at `[267|03]`; `avasthāyāṃ` above is a grammatical
-repair. Sandhi and punctuation are opened for readability. The next
-source line begins 4.112's account of vigor.
+The source unit is `[267|03]–[267|09]`. The witness reads
+`avasthāvāṃ` at `[267|03]`; `avasthāyāṃ` is a grammatical repair.
+Sandhi and punctuation are opened for readability. The next source line
+begins 4.112.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Scientific English Rendering
 
-At what stage does a bodhisattva complete each perfection? The
-perfection of giving is complete when the bodhisattva gives everything
-to everyone, even the eye and marrow, from compassion and without
-seeking some special worldly advantage for oneself.
+At what stage does a bodhisattva complete which perfection?
 
-The perfections of patience and moral discipline are complete when,
-although passion has not yet been abandoned, the bodhisattva does not
-become angry in the slightest even as the limbs are being cut.
+Giving is complete for one who gives everything everywhere from
+compassion.
 
-## 4. Two Criteria of Completion
+When one gives everything to everyone, extending from the eye to the
+marrow, from compassion and without seeking exceptional advancement,
+the perfection of giving is thereby complete.
 
-| Perfection | Criterion given here |
-|---|---|
-| giving (`dāna`) | everything to everyone, extending even to bodily parts, from compassion rather than hoped-for advancement |
-| patience (`kṣānti`) | no anger even under extreme bodily injury |
-| discipline (`śīla`) | completed together with patience under that same condition of no anger |
+Patience and discipline are complete for one still possessing passion
+who does not become angry even when bodily parts are being cut.
 
-The first case combines the extent of the gift with its motive.
-`Kāruṇyāt` and `nābhyudayaviśeṣaṃ lipsamānaḥ` rule out treating
-the gift as a transaction for one's own superior worldly condition.
+When this person, although not yet free from passion, does not become
+angry in the slightest while bodily parts are being cut, the perfections
+of patience and discipline are complete.
 
-The second case is deliberately qualified by `rāgiṇaḥ`, explained as
-`avītarāgaḥ`: passion has not been fully abandoned. The perfection
-claimed here is therefore not an assertion that every affliction has
-already ceased. The Bhāṣya says that **both** patience and discipline
-are complete when no anger arises in this extreme test. It does not
-give a separate account of retaliatory acts in this short unit.
+## 4. The Bhāṣya's Two Completion-Conditions
 
-## 5. Organon Contact Point — Project Reconstruction
+| Perfection | Stated condition | Qualification |
+|---|---|---|
+| Giving | Everything is given to everyone, from compassion | The giver does not seek exceptional advancement |
+| Patience | No anger arises under bodily injury | Passion has not yet been abandoned |
+| Discipline | Complete under the same no-anger condition | The Bhāṣya gives no separate criterion here |
 
-The passage distinguishes the governing relation of an act from a
-simple external tally:
+The phrase `ā akṣṇaḥ ā majjāyāḥ` extends the gift from eye to marrow.
+The bodily example is a claim made by the source, not an instruction to
+imitate bodily injury or self-harm. In the second case, `avītarāgaḥ api`
+preserves the point that passion may remain even when these two perfections
+are complete.
 
-```text
-unreserved giving + compassion → completion of giving
-extreme injury + no anger → completion of patience and discipline
-```
+## 5. Interpretation
 
-For our account of agency, a course can be tested by the breadth of
-the field in which it acts and by its stability under opposition. That
-comparison is an Organon reading of the two cases, not a formula
-stated by the Bhāṣya.
+The first condition joins the extent of the gift, its recipient-field, and
+its ground: everything is given to everyone from compassion, without seeking
+special advancement. The second uses one condition—absence of anger even
+under extreme injury—to mark completion of both patience and discipline.
+The passage does not state that all passion has ceased, nor does it give a
+separate account of the discipline-perfection's operation.
+
+The verse does not use *cetanā*. Its account of motive is given through
+compassion and the absence of desire for exceptional advancement; those
+should remain the source's own terms. The bodily examples are presented as
+part of the text's perfection-criteria, not as present-day behavioral
+guidance.
 
 ## 6. Review Status
 
-The study covers `[267|03]–[267|09]`, including the Bhāṣya's explicit
-qualification that the bodhisattva has not yet abandoned passion. It
-stops before 4.112 begins at `[267|10]`. The running witness and
-first-pass study remain unchanged.
+This study covers `[267|03]–[267|09]`, including the Bhāṣya's
+qualification that passion remains and its joint completion of patience
+and discipline. It stops before 4.112 at `[267|10]`. The witness reading
+`avasthāvāṃ` and its grammatical repair are recorded.

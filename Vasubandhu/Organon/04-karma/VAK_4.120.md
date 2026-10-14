@@ -1,4 +1,4 @@
-# VAK_4.120 — When a Performed Action Is Accumulated
+# VAK 4.120 — Performed and Accumulated Action
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -9,267 +9,178 @@
 
 ## 2. Sanskrit (IAST)
 
-```text
-saṃcetanasamāptibhyāṃ niṣkaukṛtyavipakṣataḥ |
-parivārād vipākāc ca karmopacitam ucyate || 4.120 ||
+```iast
+saṃcetanasamāptibhyāṃ niṣkaukṛtyavipakṣataḥ /
+parivārād vipākāc ca karmopacitam ucyate // 4.120 //
 ```
 
-The normalized reading `niṣkaukṛtya` is supported by the Bhāṣya's gloss
-`nirvipratisāra`, without remorse. The compound also includes absence of an
-opposing factor; these together constitute one of five causes.
+The Bhāṣya counts five conditions: deliberate intention, completion,
+absence of remorse and counteraction, accompaniment, and maturation.
+Absence of remorse and counteraction forms one combined condition.
 
 ## 3. Lexical Analysis
 
 ```text
-saṃcetanā-samāptibhyām | niṣ-kaukṛtya-vi-pakṣataḥ |
+saṃcetana-samāptibhyām | niṣ-kaukṛtya-vipakṣataḥ |
 parivārāt | vipākāt | ca | karma | upacitam | ucyate
 ```
 
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
-| `saṃcetanā-samāptibhyām` | instrumental dual | through deliberate intention and completion |
-| `niṣkaukṛtyavipakṣataḥ` | ablatival compound | through absence of remorse and of a counteragent |
-| `parivārāt` | ablative singular | through congruent accompaniment |
+| `saṃcetana-samāptibhyām` | instrumental dual compound | through deliberate intention and completion |
+| `niṣkaukṛtya-vipakṣataḥ` | ablatival compound | through absence of remorse and an opposing factor |
+| `parivārāt` | ablative singular | through accompaniment |
 | `vipākāt` | ablative singular | through determination toward maturation |
-| `ca` | conjunction | and |
-| `karma` | nominative singular neuter | karma, performed activity |
-| `upacitam` | nominative singular neuter past participle | accumulated, causally consolidated |
+| `ca` | indeclinable conjunction | and |
+| `karma` | nominative singular neuter | action |
+| `upacitam` | nominative singular neuter past passive participle | accumulated |
 | `ucyate` | third-person singular present passive of `√vac` | is called |
 
-**The Bhāṣya's five causes**
+The Bhāṣya's fivefold analysis separates the instrumental dual into
+`saṃcetanā` and `samāpti`, and treats lack of remorse together with lack
+of an opposing factor as one condition.
+
+## 4. Grammar
+
+The five conditions are:
 
 ```text
 1. saṃcetanā
 2. samāpti
 3. niṣkaukṛtya + niṣpratipakṣa
 4. parivāra
-5. vipākadānaniyama
+5. vipākadāna-niyama
 ```
 
-The two members of the third line form one combined cause. The commentary
-explicitly announces `pañcabhiḥ karaṇaiḥ`, through five causes.
-
-## 4. Grammar
-
-**Instrumental and ablatival causes**
+The main predication contrasts a status of action:
 
 ```text
-saṃcetanayā
-samāptyā
-niṣkaukṛtya-niṣpratipakṣatvena
-parivāreṇa
-vipākadāna-niyamena
-    karma upacitam ucyate
+karma upacitam ucyate
+    action is called accumulated
 ```
 
-> Through these five determinations, karma is called accumulated.
-
-The instrumental dual first names deliberate adoption and sufficient
-completion. The following ablatives continue the causal series.
-
-**Predication of causal status**
-
-```text
-karma
-    upacitam
-    ucyate
-```
-
-`Upacita` predicates a status stronger than occurrence. The Bhāṣya begins by
-distinguishing `kṛta`, performed, from `upacita`, accumulated, and concludes
-that otherwise karma may be performed without being accumulated.
+The Bhāṣya frames the distinction by opening with `kṛtaṃ copacitaṃ ca
+karmocyate` and concludes that action can be done without being
+accumulated. Thus occurrence alone does not entail `upacita`.
 
 ## 5. Translation
 
-### Literal Translation
+### Scientific English Rendering
 
-> Karma is called accumulated through deliberate intention and completion,
-> through absence of remorse and of an opposing factor, through
-> accompaniment, and through maturation.
+> An action is called accumulated through deliberate intention, completion,
+> absence of remorse and counteraction, accompaniment, and determination
+> toward maturation.
 
 ### Bhāṣya-informed study translation
 
-> Performed karma becomes accumulated through five causes: it is undertaken
-> deliberately rather than without prior awareness or in a sudden impulse;
-> the configuration sufficient for its result is completed; it remains both
-> without remorse and without a practical counteragent; it is surrounded by
-> factors of the same ethical quality; and it is fixed to give maturation.
-> When these conditions are absent, an act may have been performed without
-> becoming causally consolidated in this stronger sense. The same structure
-> applies to wholesome as well as unwholesome karma.
+> An action is called accumulated through deliberate intention, completion,
+> absence of remorse and counteraction, accompaniment, and determination
+> toward maturation. The Bhāṣya says deliberate action is done after
+> consideration, not without prior awareness or suddenly. Completion is
+> relative to the number of misconducts or action-courses required in a
+> particular case: until that course is complete, action has been done but
+> is not accumulated; when complete, it is accumulated. The other
+> conditions are that the action is without remorse and without an opposing
+> factor, that unwholesome action has unwholesome accompaniment (and
+> wholesome action is to be analyzed correspondingly), and that its giving
+> of maturation is determinate.
 
-The sufficient-threshold account of completion, the paired third cause,
-ethical congruence of accompaniment, fixed maturation, and extension to
-wholesome karma are Bhāṣya determinations.
+The Bhāṣya's completion examples and its application to wholesome action
+are preserved in the paired study.
 
 ## 6. Philosophical Translation
 
-> Historical occurrence and causal incorporation are not identical. A deed
-> becomes accumulated when the agent has reflectively appropriated it, its
-> sufficient practical configuration has been completed, no inward reversal
-> or contrary force opposes it, surrounding activity reinforces its ethical
-> form, and its futurity is fixed as maturation. `Upacita` thus names the deed
-> as an integrated determination of the continuing causal system, not merely
-> as something that once happened.
-
-The movement is:
-
-```text
-performed occurrence
-    → deliberate appropriation
-    → sufficient completion
-    → absence of reversal and counteraction
-    → congruent reinforcement
-    → fixed causal futurity
-    = accumulated karma
-```
+> A performed action and an accumulated action are not identical
+> determinations. Deliberate intention matters, but is not enough by
+> itself: the required course must be complete, the action must remain
+> without remorse or opposition, its accompaniment must be congruent, and
+> maturation must be fixed. The analysis makes causal persistence
+> intelligible without treating karma as a stored substance or reducing
+> the event to its initial volition.
 
 ## 7. Technical Vocabulary
 
-**`Kṛta` — performed**
-
-The deed has historically occurred. This fact does not by itself entail the
-stronger status of causal accumulation.
-
-**`Upacita` — accumulated or causally consolidated**
-
-Karma that has crossed the relevant threshold of causal establishment. The
-term does not posit a material karmic substance or permanent storing subject.
-
-**`Saṃcetanā` — deliberate intention**
-
-The Bhāṣya contrasts an act done after reflection with one performed without
-prior awareness or suddenly and rashly. The deed is cognitively and
-volitionally appropriated before execution.
-
-**`Samāpti` — completion of the sufficient configuration**
-
-Not merely the external endpoint of one act. The commentary says that one
-misconduct or karmapatha may suffice for one person, while as many as three
-misconducts or all ten karmapathas may be required in another case. Until the
-requisite set is complete, the karma is performed but not accumulated.
-
-**`Niṣkaukṛtya` or `nirvipratisāra` — absence of remorse**
-
-The deed has not been inwardly repudiated through regret. This is paired with
-absence of an external or cultivated counteragent.
-
-**`Pratipakṣa` — counteragent**
-
-A contrary practical factor capable of opposing causal consolidation. Its
-absence belongs with non-remorse as the third of five causes.
-
-**`Parivāra` — congruent accompaniment**
-
-The principal act is surrounded by factors of its own ethical species:
-unwholesome by unwholesome accompaniment, and wholesome by wholesome
-accompaniment. It is not just any incidental context.
-
-**`Vipākadāna-niyata` — fixed to give maturation**
-
-The Bhāṣya's precise determination of `vipākāt`. Accumulated karma is not
-merely capable of fruit; its giving of maturation has become fixed.
+- **`Kṛta`** — done or performed. Its occurrence does not by itself make
+  the action accumulated.
+- **`Upacita`** — accumulated; the stronger status distinguished from
+  merely having been done.
+- **`Saṃcetanā`** — deliberate or considered action. The Bhāṣya contrasts
+  it with action done without prior awareness or suddenly.
+- **`Samāpti`** — completion. The required number of misconducts or
+  action-courses varies in the Bhāṣya's examples.
+- **`Niṣkaukṛtya` / `nirvipratisāra`** — absence of remorse.
+- **`Pratipakṣa`** — opposing or counteracting factor; its absence is
+  paired with absence of remorse as one condition.
+- **`Parivāra`** — accompaniment. The Bhāṣya states that unwholesome
+  action is accompanied by unwholesome factors and directs that wholesome
+  action be treated correspondingly.
+- **`Vipākadāna-niyama`** — determination that the action gives
+  maturation.
+- **`Vipāka`** — maturation, not a generic effect or an automatic reward.
 
 ## 8. Logical Determination
 
-The primary distinction is:
-
 ```text
-Kṛta(k) does not entail Upacita(k)
+Kṛta(action) does not entail Upacita(action)
 ```
 
-The fivefold structure is:
+The Bhāṣya specifies five conditions for accumulated status:
 
 ```text
-Upacita(k) only if sufficiently determined by:
-
-D = deliberate adoption
-C = completion of the requisite configuration
-N = absence of remorse and counteragent
-P = ethically congruent accompaniment
-V = fixity toward maturation
+deliberate action
+completion of the relevant course
+absence of remorse and opposing factor
+congruent accompaniment
+determination toward maturation
 ```
 
-The completion rule is threshold-sensitive:
+Completion is threshold-sensitive:
 
 ```text
-RequiredConfiguration(k, agent) incomplete
-    → Performed(k) and not Accumulated(k)
-
-RequiredConfiguration(k, agent) complete
-    → eligible for Accumulated(k)
+required course incomplete → done, not accumulated
+required course complete   → accumulated
 ```
 
-The Bhāṣya does not reduce these causes to a merely external sequence. They
-jointly distinguish an event that occurred from a deed integrated into a
-determinate causal futurity.
+The examples allow that a single misconduct or action-course may suffice
+for one person, while more may be required in another case. This is not a
+fixed numerical rule for all actions.
 
 ## 9. Interpretive Note
 
-VAK 4.119 analyzed the degree or weight of karma through six determinants.
-VAK 4.120 asks a different question: when does performed karma acquire the
-stronger status of accumulation?
+VAK 4.119 asks how the mildness or intensity of six factors determines
+action-weight. VAK 4.120 asks when an action that has occurred is also
+accumulated. These are different questions: an action can be done without
+crossing the completion or causal-determination threshold stated here.
 
-```text
-4.119 → How intensely is the deed determined?
-4.120 → Has the deed become causally incorporated?
-```
+The contrast also sharpens the role of volition. In 4.119, `cetanā` is
+the factor by which the action-course is completed; here `saṃcetanā`
+describes doing an action deliberately, after consideration. Neither use
+makes volition identical with the whole action. The verse names deliberate
+action as one condition among five, with completion, opposition,
+accompaniment, and maturation separately articulated.
 
-The five causes form a layered practical object:
-
-```text
-reflective adoption
-    → sufficient objective completion
-    → unopposed persistence
-    → systemic reinforcement
-    → determinate futurity
-```
-
-For the Organon project, this is a particularly clear fivefold traversal.
-The deed becomes meaningful not through an isolated predicate but through its
-position in a whole causal architecture. `Upacita` is the truth of this
-fivefold structure: the performed operation has altered the continuing
-instrument such that a determinate future result belongs to its organization.
-
-This also clarifies why counterpractice matters within Kriyā Yoga. A contrary
-principle does not arithmetically erase an event; remorse and `pratipakṣa`
-change whether the deed continues unopposed into systemic reinforcement and
-fixed maturation. The Negative Dialectic operates as a real reorganization of
-the practical continuum.
-
-This comparative formulation remains separate from the source doctrine. The
-Bhāṣya itself establishes the five causes and the strict distinction between
-performed and accumulated karma.
+The source span is `[271|19]–[272|03]`. The witness reads `saṃcenataḥ`
+in the first explanatory question, normalized as `saṃcetanataḥ`, and has
+the compressed `vipākadāna niyataṃ`, parsed here as `vipākadāne niyatam`.
+The next topic opens at `[272|04]`.
 
 ## 10. OWL++ Seed
 
-```ttl
-vak:VAK_4_120 a vak:Karika ;
-    rdfs:label "VAK 4.120" ;
-    vak:continues vak:VAK_4_119 ;
-    vak:hasTopic vak:PerformedKarma,
-                 vak:AccumulatedKarma .
+```text
+Class: PerformedAction
+Class: AccumulatedAction
+Class: DeliberateIntention
+Class: Completion
+Class: AbsenceOfRemorseAndCounteraction
+Class: CongruentAccompaniment
+Class: DeterminateMaturation
 
-vak:PerformedKarma
-    vak:doesNotEntail vak:AccumulatedKarma .
+Rule: AccumulationConditions
+  AccumulatedAction -> DeliberateIntention
+  AccumulatedAction -> Completion
+  AccumulatedAction -> AbsenceOfRemorseAndCounteraction
+  AccumulatedAction -> CongruentAccompaniment
+  AccumulatedAction -> DeterminateMaturation
 
-vak:AccumulatedKarma
-    vak:determinedBy vak:DeliberateAdoption,
-                     vak:SufficientCompletion,
-                     vak:UnopposedPersistence,
-                     vak:CongruentAccompaniment,
-                     vak:FixedMaturation .
-
-vak:UnopposedPersistence
-    vak:requiresAbsenceOf vak:Remorse,
-                          vak:Counteragent .
-
-vak:SufficientCompletion
-    vak:relativeTo vak:RequiredKarmicConfiguration .
-
-vak:CongruentAccompaniment
-    vak:hasSameEthicalQualityAs vak:PrincipalKarma .
-
-vak:FixedMaturation
-    vak:fixes vak:GivingOfMaturation .
+Relation: PerformedAction -> doesNotByItselfEntail -> AccumulatedAction
 ```

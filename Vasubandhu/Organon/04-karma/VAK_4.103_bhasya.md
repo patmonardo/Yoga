@@ -1,4 +1,4 @@
-# VAK 4.103 Bhāṣya — Exceptional Fields and the Identity of the Victim
+# VAK 4.103 Bhāṣya — Exceptional Relations and the Immediate-Result Classification
 
 ## 1. Kārikā Anchor
 
@@ -7,14 +7,10 @@ upakāriguṇakṣetranirākṛtivipādanāt /
 vyañjanāntarito 'pi syān mātā yacchoṇitodbhavaḥ // 4.103 //
 ```
 
-> The immediate-result status comes from repudiating benefactors and
-> destroying a field of qualities. A parent remains such even after a
-> change of sexual characteristic; the mother is the one from whose
-> reproductive blood the being arose.
-
-The Bhāṣya tests the exceptional karmic field through difficult identity
-and intention cases. The ancient embryological criterion is stated as
-source doctrine, with the caregiving role of another woman also preserved.
+> The immediate-result classification arises from repudiating a benefactor
+> and destroying a field of qualities. A change in sexual characteristic
+> does not erase parentage; for the technical maternity criterion, the
+> mother is the woman from whose maternal blood the living being arose.
 
 ## 2. Continuous Sanskrit
 
@@ -23,32 +19,39 @@ kasmān mātṛvadhādiṣv ānantaryaṃ nānyatra?
 
 upakāriguṇakṣetranirākṛtivipādanāt /
 
-mātāpitṛvadhe tāvad upakāriṇo nirākaraṇāt. kathaṃ tāv upakāriṇau?
-ātmabhāvasya tatprabhavatvāt. kiṃ tayor nirākaraṇam? parityāgaḥ.
+mātāpitṛvadhe tāvad upakāriṇo nirākaraṇāt.
+kathaṃ tāv upakāriṇau?
+ātmabhāvasya tatprabhavatvāt.
+kiṃ tayor nirākaraṇam?
+parityāgaḥ.
 guṇakṣetratvād arhadvadhād ānantaryam.
 
-yadi punar mātur vyañjanaṃ parivṛttaṃ syāt pitur vā, tatraikasminn
-āmnāyo:
+yadi punar mātur vyañjanaṃ parivṛttaṃ syāt pitur vā,
+tatraikasminn āmnāyaḥ:
 
 vyañjanāntarito 'pi syāt
 
-ata evocyate: "syāt puruṣaṃ jīvitād vyaparopayen na pitaraṃ
-nārhantam, ānantaryāvadyena ca spṛśyeta. syān mātur vyañjanaṃ
-parivṛttaṃ syād" iti. "syāt strīṃ jīvitād vyaparopayen na mātaraṃ
-nārhantīm, ānantaryāvadyena ca spṛśyeta. syāt pitur vyañjanaṃ
-parivṛttaṃ syād" iti.
+ata evocyate:
+"syāt puruṣaṃ jīvitād vyaparopayen na pitaraṃ nārhantam,
+ānantaryāvadyena ca spṛśyeta.
+syān mātur vyañjanaṃ parivṛttaṃ syād" iti.
+"syāt strīṃ jīvitād vyaparopayen na mātaraṃ nārhantīm,
+ānantaryāvadyena ca spṛśyeta.
+syāt pitur vyañjanaṃ parivṛttaṃ syād" iti.
 
-anyasyāḥ striyāḥ kalalaṃ prasrutam anyayā yonyā pītam. katarā tasya
-mātā, yāṃ ghnataḥ syād ānantaryam?
+anyasyāḥ striyāḥ kalalaṃ prasrutam anyayā yonyā pītam.
+katarā tasya mātā, yāṃ ghnataḥ syād ānantaryam?
 
 mātā yacchoṇitodbhavaḥ // 4.103 //
 
-yasyāḥ śoṇitād asāv udbhūtaḥ sattvaḥ sā 'sya mātā; dvitīyā tu
-sarvakṛtyeṣv avalokyā. sā hy āpāyikā poṣikā saṃvardhikā ca.
+yasyāḥ śoṇitād asāv udbhūtaḥ sattvaḥ sā 'sya mātā;
+dvitīyā tu sarvakṛtyeṣv avalokyā.
+sā hy āpāyikā poṣikā saṃvardhikā ca.
 
 yadi mātari prayogaṃ kṛtvānyāṃ mārayen na syād ānantaryam.
-amātṛprayogeṇa mārayet tathāpi na syāt. mañcatalāvalīnamātṛmāraṇaṃ
-cātrodāhāryaṃ, dhāvakasya ca putreṇa maśakaprayogeṇa pitur māraṇaṃ ca.
+amātṛprayogeṇa mārayet tathāpi na syāt.
+mañcatalāvalīnamātṛmāraṇaṃ cātrodāhāryaṃ,
+dhāvakasya ca putreṇa maśakaprayogeṇa pitur māraṇaṃ ca.
 
 ekena prahāreṇa mātaram anyāṃ ca mārayato dve avijñaptī bhavataḥ.
 vijñaptis tv ānantaryam eva, tasya karmaṇo balīyastvāt.
@@ -58,196 +61,124 @@ anarhatsaṃjñayāpy arhadghāte bhavaty ānantaryam,
 "ahaṃ hanmi" ity āśrayāvadhāraṇāt.
 
 yaḥ pitaram arhantaṃ hiṃsyāt tasyāpy ekam eva syād ānantaryam,
-āśrayaikatvāt. idam avadānaṃ kathaṃ nīyate: "gaccha śikhaṇḍinaṃ
-brūhi dve ānantarye bhavatā kṛte: yac ca pitā jīvitād vyaparopito
-yac cārhan" iti? dvābhyāṃ kāraṇābhyām iti vaktavyam, dvābhyāṃ vā
-mukhābhyāṃ paribhāṣitaḥ.
+āśrayikatvāt.
+idam avadānaṃ kathaṃ nīyate:
+"gaccha śikhaṇḍinaṃ brūhi dve ānantarye bhavatā kṛte:
+yac ca pitā jīvitād vyaparopito yac cārhan" iti?
+dvābhyāṃ kāraṇābhyām iti vaktavyam,
+dvābhyāṃ vā mukhābhyāṃ paribhāṣitaḥ.
 
 kim avaśyaṃ tathāgatasya duṣṭacittarudhirotpādanād ānantaryam?
 vadhābhiprāyasya syāt.
 
 buddhe na tāḍanecchasya
 
-yadi tāḍanābhiprāya utpādayen na syāt. yady anarhati praharet,
-sa ca prahārād ūrdhvam arhan syāt:
+yadi tāḍanābhiprāya utpādayen na syāt.
+yady anarhati praharet sa ca prahārād ūrdhvam arhan syāt:
 
 prahārān nordhvam arhati /
 
-syād ānantaryam iti vartate; na hi tena tatra prayogaḥ kṛtaḥ.
+syād ānantaryam iti vartate;
+na hi tena tatra prayogaḥ kṛtaḥ.
 ```
 
-The opening kārikā has `upakāriyuṇa` in the running witness at `[262|21]`;
-the research reading `upakāriguṇa` is printed above. The witness also has
-compressed or damaged forms in the quoted cases and examples. The Sanskrit
-here opens sandhi and makes local conjectural repairs for readability;
-uncertain examples are not used to support a stronger doctrinal claim.
+The witness at `[262|21]` reads `upakāriyuṇakṣetranirākṛtivipādanāt`;
+the research reading `upakāriguṇakṣetra` is printed above. The witness
+also compresses the quoted examples and the closing discussion. Word
+division and punctuation are editorial; the examples below are rendered
+without adding detail beyond their argumentative role.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Scientific English Rendering
 
-Why are killing one's mother and the other specified acts immediate-result
-actions, whereas other killings are not? In killing a mother or father,
-the agent repudiates a benefactor. Parents are benefactors because the
-person's embodied existence arose through them. Repudiation here means
-rejecting or casting aside that relation. Killing an arhat has the
-immediate-result status because an arhat is a field of qualities.
+Why does killing one's mother and related cases receive the
+immediate-result classification, and not other cases? Because of
+repudiation of a benefactor and destruction of a field of qualities.
 
-If a mother's or father's sexual characteristic changes, the parental
-relation is still recognized. The cited cases say that a person who kills
-a man who is neither his father nor an arhat may still incur the immediate
-offense if that man was his mother before the change; conversely, a woman
-who is neither his mother nor an arhat may be his father before such a
-change.
+In killing a mother or father, there is repudiation of a benefactor. How
+are they benefactors? Because this embodied existence arose through them.
+What is repudiation of them? Abandonment. Killing an arhat has the
+immediate-result classification because the arhat is a field of qualities.
 
-Suppose the early embryo originated from one woman but was carried in
-another woman's womb. Which woman counts as mother for the immediate
-offense? The verse answers: the one from whose reproductive blood the
-being arose. The second woman must nevertheless be regarded in all the
-ordinary duties toward a mother: she bore, nourished, and raised the child.
+If a mother's or father's sexual characteristic has changed, one
+tradition states that the parental relation remains. The cited reciprocal
+cases concern a person classified as mother whose characteristic has
+changed and a person classified as father whose characteristic has
+changed.
 
-If a person prepares to kill the mother but kills someone else, the
-immediate offense does not occur. Nor does it occur when the mother is
-killed through a preparation directed toward someone other than the
-mother. The Bhāṣya supplies examples of hidden persons and a blow meant
-for an insect that kills a father.
+Suppose the early embryonic material from one woman was received by
+another woman's womb. Which is the mother for the immediate-result
+classification? The verse says: the mother is the one from whose maternal
+blood the living being arose. The other woman is also to be regarded in
+all practical contexts, for she bore, nourished, and reared the child.
 
-If one blow kills the mother and another person, two *avijñaptis* arise.
-The visible *vijñapti* is classified as the immediate-result action because
-that action is stronger. Bhadanta Ghoṣaka holds instead that the *vijñapti*
-also divides in two, because it consists of aggregated atoms.
+If an action directed at the mother instead affects another person, the
+immediate-result classification does not follow. Nor does it follow when
+the action is directed at someone other than the mother but the mother
+becomes the actual victim. The Bhāṣya gives examples of these mismatches.
 
-Killing an arhat incurs the immediate offense even if the killer does not
-recognize the victim as an arhat: the intended individual is fixed in the
-resolve “I will kill this person.” If one kills a father who is also an
-arhat, there is one immediate-result action because the bodily support is
-one. A cited story speaks of two such offenses; the Bhāṣya explains this
-as two grounds for the offense, or as two ways of censuring the killer.
+When one action affects the mother and another person, two
+non-disclosing continuities occur. The manifestation is classified as
+the immediate-result action alone because that action is stronger.
+Bhadanta Ghoṣaka holds that the manifestation also divides into two
+because it is composed of atomic constituents.
 
-Does maliciously drawing a Tathāgata's blood always incur the immediate
-offense? It does when the agent intends to kill. Mere intent to strike
-does not suffice in this analysis. If someone strikes a person who is not
-yet an arhat and that person becomes an arhat afterward, the earlier blow
-does not acquire the immediate-result status retroactively: the relevant
-action was not directed at an arhat when performed.
+Even if the agent does not recognize the victim as an arhat, killing an
+arhat receives the immediate-result classification because the intended
+individual is fixed in the resolve, “I kill this person.” If the father
+is also an arhat, the Bhāṣya counts one immediate-result action because
+there is one support. A cited account speaks of two; the explanation is
+that there are two grounds, or that the action is described in two ways.
 
-## 4. Benefactors and Fields of Qualities
+Does producing blood from the Tathāgata necessarily receive the
+immediate-result classification? It does when there is an intention to
+kill. An intention only to strike does not suffice. If the person was not
+an arhat when the action was directed at them and became one only
+afterward, the immediate-result classification does not follow: the
+action was not directed at an arhat in that case.
 
-The first half of the verse explains karmic gravity through the object
-of the action:
+## 4. Relations and Action-Factor Disputes
 
-| Object | Exceptional relation |
+The Bhāṣya keeps several determinations distinct:
+
+| Question | Bhāṣya's determination |
 |---|---|
-| mother or father | benefactor, source of the agent's embodied life |
-| arhat | field of spiritual qualities |
+| Why parents? | They are benefactors through the origin of the agent's embodied existence; repudiation is glossed as abandonment. |
+| Why an arhat? | The arhat is a field of qualities. |
+| Which mother for the technical rule? | The woman from whose maternal blood the living being arose. |
+| What of the other woman? | Her roles of bearing, nourishing, and rearing are expressly retained. |
+| Does intended target matter? | Yes; when intended parent and actual victim differ, the special classification does not follow. |
+| Does recognition of arhat status matter? | Not if the intended individual is fixed and is in fact an arhat. |
+| One father who is also an arhat? | One immediate-result action because there is one support; the cited double description is explained by two grounds or expressions. |
+| One action, two victims? | The Bhāṣya counts two non-disclosing continuities; Ghoṣaka disputes the count of manifestations. |
+| Tathāgata case? | Intention to kill is required; intention only to strike does not suffice. |
 
-The expression `upakāriguṇakṣetra` compresses these distinctions. It
-establishes why the specified action receives a classification beyond the
-general course of killing. The visible bodily act alone does not decide
-the exceptional predicate.
+## 5. Interpretation
 
-## 5. Parenthood Across Changed Characteristics
+The passage treats an action's classification as relational. It does not
+reduce the analysis to the bodily event alone: the benefactor relation,
+quality-field status, intended individual, actual victim, and status at
+the time of action all matter. The maternal example makes the point
+especially clearly: one relation governs this technical classification,
+while another practical relation is preserved rather than denied.
 
-The cited cases separate parental identity from present sexual appearance.
-The source's ancient criterion for the *technical immediate offense* is
-generative origin: the woman whose reproductive substance supplied the
-being is the mother under this classification.
+The discussion also returns to the distinction between manifestation and
+non-disclosing continuity. The Bhāṣya gives its own count for a
+multiple-victim action and records Ghoṣaka's disagreement instead of
+collapsing the two positions.
 
-The Bhāṣya simultaneously recognizes the second woman's full practical
-claim to care and regard. She bore, fed, and raised the child. This is a
-real distinction within the text:
+The source uses *abhiprāya* for intention in the final cases, but does not
+name *cetanā*. The translation therefore preserves the specific contrast
+between intending to kill and intending only to strike without turning
+*abhiprāya* into a general definition of volition. The ancient
+embryological criterion and sexual-characteristic cases remain attributed
+to the Bhāṣya, not generalized into contemporary classifications.
 
-```text
-criterion for this ānantarya classification
-    ≠
-complete account of obligations to a caregiver
-```
+## 6. Review Status
 
-Neither ancient embryology nor these sexual categories should be imported
-unexamined into present medical or legal classifications.
-
-## 6. Preparation, Intended Object, and Actual Victim
-
-The two countercases show that causal completion alone is insufficient:
-
-```text
-prepare to kill mother → kill another person
-    → no maternal ānantarya
-
-prepare to kill another → kill mother
-    → no maternal ānantarya
-```
-
-The exceptional course requires alignment between the intended field and
-the completed act. The examples are difficult in detail, but their shared
-rule is clear: accidental substitution does not supply the missing
-intentional determination.
-
-## 7. One Blow, Two `Avijñaptis`
-
-When one blow kills two persons, including the mother, the Bhāṣya counts
-two *avijñaptis*. It counts the visible *vijñapti* under the stronger
-immediate-result action. Bhadanta Ghoṣaka disagrees and counts two visible
-factors as well, appealing to their aggregation from atoms.
-
-```text
-one bodily stroke
-    → two victims
-    → two non-manifest action factors
-    → disputed count of manifest factors
-```
-
-This special case brings the opening Karma theory back into direct causal
-analysis. The count depends on how one individuates the action across
-victims and material manifestation; the Bhāṣya records both positions.
-
-## 8. The Arhat and Tathāgata Cases
-
-Arhat status need not be known by the killer if the intended individual is
-fixed and actually an arhat. By contrast, a victim who becomes an arhat
-only after the strike does not retroactively change the strike's status.
-
-A father who is also an arhat supplies two exceptional grounds but one
-victim. The Bhāṣya's preferred count is one immediate-result action, while
-the cited story's “two” is explained as two grounds or two censures.
-
-For the Tathāgata case, the text adds the intention to kill. Intention to
-strike alone is not classified here as the immediate-result action. These
-distinctions keep the victim's status, the agent's aim, and the action's
-completion in separate positions.
-
-## 9. Organon Contact Point
-
-The Causal Algebra for Agency must evaluate exceptional actions across
-several indices:
-
-```text
-ExceptionalAction {
-    agent
-    intendedObject
-    actualVictim
-    victimStatusAtAction
-    historicalRelation
-    preparatoryCourse
-    completedEvent
-    manifestFactorCount
-    nonManifestFactorCount
-}
-```
-
-The cases show why one generic `Killed(x, y)` edge is insufficient. A
-relational history can persist through changed appearance; a later status
-does not rewrite an earlier act; one event can have multiple victims and
-multiple action factors. The formal model should store the source's
-disputed factor counts as positions, not collapse them into one rule.
-
-This is the Organon reconstruction. The ancient parenthood test, the
-immediate-result classifications, and the `vijñapti/avijñapti` dispute
-belong to the Bhāṣya.
-
-## 10. Review Status
-
-The complete 4.103 unit `[262|20]–[263|23]` is included. It ends before
-4.104 asks whether someone who has begun preparing an immediate-result
-action can attain dispassion or a Path fruit. Benefactor and quality fields,
-parenthood, intended versus actual victim, dual action factors, overlapping
-father/arhat status, and the Tathāgata cases are retained. Conjectural
-repairs and the limits of the historical categories are marked.
+The complete 4.103 unit `[262|20]–[263|23]` is included: the reasons for
+the immediate-result classification, the parental and arhat fields, the
+changed-characteristic and two-mother cases, intended-target distinctions,
+the disputed manifestation count, overlapping father/arhat status, and
+the Tathāgata cases. It ends before the next question at `[263|23–24]`.
+The research reading at `[262|21]` and the witness irregularities are
+marked.

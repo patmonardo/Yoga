@@ -1,4 +1,4 @@
-# VAK 4.119 Bhāṣya — Six Determinants of Karmic Weight
+# VAK 4.119 Bhāṣya — Six Factors of Karmic Weight
 
 ## 1. Kārikā Anchor
 
@@ -7,9 +7,12 @@ pṛṣṭhaṃ kṣetram adhiṣṭhānaṃ prayogaś cetanāśayaḥ /
 eṣāṃ mṛdvadhimātratvāt karmamṛdvadhimātratā // 4.119 //
 ```
 
-> Subsequent repetition, field, course of action, preparation,
-> volition, and underlying resolve: according to how mild or intense
-> these six are, karma is mild or intense.
+> Repetition, field, action-course, undertaking, volition, and resolve:
+> according to whether these are mild or intense, action is mild or intense.
+
+The Bhāṣya introduces the six as causes for understanding the heaviness or
+lightness of action. It parses `cetanāśayaḥ` as two factors, `cetanā` and
+`āśaya`.
 
 ## 2. Continuous Sanskrit
 
@@ -39,53 +42,72 @@ adhimātraṃ guru karma veditavyam; yasya mṛdūni
 tasyātyarthaṃ mṛdu veditavyam.
 ```
 
-The unit is `[271|08]–[271|18]`. The witness reads `prayiogaḥ` in
-the kārikā and `mātāitroḥ` in the parental example; `prayogaḥ` and
-`mātāpitror` above are marked repairs. Sandhi and punctuation are
-opened without altering the sixfold sequence.
+The source span is `[271|08]–[271|18]`. The verse witness reads
+`prayiogaḥ`, normalized here as `prayogaḥ`. In the example at
+`[271|16]`, the witness reads `mātāitroḥ`; `mātāpitror` is a
+normalization. The six-factor sequence is retained.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Scientific English Rendering
 
-To know whether karma is heavy or light, one must know six causes.
-`Pṛṣṭha` is repeating or following up an act already done. `Kṣetra`
-is the field in which benefit or harm is done. `Adhiṣṭhāna` is the
-course of action. `Prayoga` is bodily or verbal activity undertaken for
-that course. `Cetanā` is the volition by which the course is completed.
-`Āśaya` is the underlying resolve: “I will do this” or “I will not do
-that.”
+For one who wishes to know the heaviness or lightness of actions, six causes
+are to be known in brief. They are:
 
-In some cases a deed becomes grave through repetition alone, since
-its maturation becomes fixed; in others, through its field. Within
-the same field, the specific course matters: killing a parent does
-not have the same weight as taking that parent's property. The other
-factors are to be applied similarly. When all six are intense, the
-deed is extremely heavy; when all are mild, it is extremely mild.
+“Repetition, field, action-course, undertaking, volition, and resolve:
+according to whether these are mild or intense, action is mild or intense.”
 
-## 4. Six Relations, Not One Score
+“Repetition” is the renewed enactment of what has been done. “Field” is
+that in which acts of benefit or harm are performed. “Action-course” is
+the action-course. “Undertaking” is bodily or verbal action for its sake.
+“Volition” is that by which one completes the action-course. “Resolve”
+is the intention: “I will do this in this way; I will not do that in that
+way.”
 
-| Factor | Bhāṣya's local gloss |
+For someone, an action becomes heavy through repetition alone, because it
+stands fixed through certainty of maturation. For someone else, it becomes
+heavy through the field alone. Within that same field, it becomes heavy
+through the action-course, and not otherwise—as in taking the life of
+one's mother or father, but not in the same way through taking what is not
+given and similar actions. The other factors are to be applied similarly.
+
+For one whose factors are all intense, the action is to be understood as
+extremely intense and heavy; for one whose factors are mild, it is to be
+understood as extremely mild.
+
+## 4. Six Factors and Their Relations
+
+| Factor | Bhāṣya definition |
 |---|---|
-| `pṛṣṭha` | further repetition of what was done |
-| `kṣetra` | recipient or victim field |
-| `adhiṣṭhāna` | karmic course (`karmapatha`) |
-| `prayoga` | bodily or verbal preparation directed to it |
-| `cetanā` | completing volition |
-| `āśaya` | underlying practical resolve |
+| `pṛṣṭha` | renewed enactment of what has already been done |
+| `kṣetra` | where benefit or harm is performed |
+| `adhiṣṭhāna` | the action-course itself |
+| `prayoga` | bodily or verbal action for that course |
+| `cetanā` | volition by which the action-course is completed |
+| `āśaya` | the intention or resolve governing what one will or will not do |
 
-The same recipient field does not by itself fix the weight. The
-parental example requires distinguishing killing from theft. The
-Bhāṣya also allows one factor alone to make an act grave, while
-the all-intense and all-mild cases establish the extremes.
+The examples distinguish single-factor force from convergence: repetition
+alone or field alone can make an action heavy, and the action-course
+distinguishes acts within one field. The all-intense and all-mild cases
+state the extremes.
 
-## 5. Organon Contact Point — Project Reconstruction
+## 5. Interpretation
 
-This is a strong schema for an action evaluation: history, field,
-course type, preparation, completing volition, and governing resolve
-remain separately inspectable. The six source glosses are Vasubandhu's
-analysis; applying them as fields in an executable agent record would
-be our reconstruction.
+The Bhāṣya gives `cetanā` a specific function in the action's structure:
+it completes the action-course. This makes volition load-bearing without
+making it interchangeable with all of karma. `Āśaya` is the resolve
+about what one will or will not do; `prayoga` is the bodily or verbal
+undertaking; `adhiṣṭhāna` is the course completed. The verse places these
+alongside field and repetition as distinct factors in determining weight.
+
+The examples prevent a simple additive reading. One factor can sometimes
+make an action heavy by itself; a field does not erase the distinction
+between killing and taking what is not given in that same field. Conversely,
+the all-intense and all-mild cases describe maximal convergence. The
+analysis concerns weight, not by itself the wholesome or unwholesome
+classification of an action.
 
 ## 6. Review Status
 
-The study covers `[271|08]–[271|18]` and stops before the new
-question at `[271|19]` about when a performed action is accumulated.
+This study covers `[271|08]–[271|18]` and stops before the question at
+`[271|19]` about when an action is done and accumulated. The verse
+normalization `prayiogaḥ` → `prayogaḥ` and the repair
+`mātāitroḥ` → `mātāpitror` are recorded.

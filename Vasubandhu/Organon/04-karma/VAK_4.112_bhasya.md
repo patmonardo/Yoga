@@ -1,4 +1,4 @@
-# VAK 4.112 Bhāṣya — Completing the Perfections and Analyzing Merit
+# VAK 4.112 Bhāṣya — The Perfections and Merit-Activity
 
 ## 1. Kārikā Anchor
 
@@ -7,22 +7,22 @@ tiṣyastotreṇa vīryasya dhīsamādhyor anantaram /
 puṇyaṃ kriyātha tadvastu trayaṃ karmapathā yathā // 4.112 //
 ```
 
-> Vigor [was completed] by praising Tiṣya; wisdom and concentration
-> [were completed] immediately before awakening. Then the three bases
-> of meritorious activity bear the designations merit, activity, and
-> basis as appropriate, as with the paths of karma.
+> Through praise of Tiṣya, vigor was completed; the Science of Principles
+> and concentration were completed immediately before awakening. Then, as
+> with paths of karma, the triad is merit, activity, and basis according
+> to function.
 
-The running source quotes the two halves of the first line separately
-and places the explicit `VAkK_4.112` marker at the end of the second
-line. This study follows the joined kārikā of the repository witness
-while preserving the commentary's two successive topics.
+The repository joins both lines as 4.112, while the Bhāṣya source places
+the Tiṣya and perfection material before the explicit verse marker on the
+second line. The commentary proceeds from the perfections to the three
+bases of meritorious activity.
 
 ## 2. Continuous Sanskrit
 
 ```iast
 tiṣyastotreṇa vīryasya
 
-tiṣyaṃ tathāgataṃ ratnaguhāyāṃ tejodhātusamāpannaṃ dṛṣṭvā,
+tiṣyaṃ tathāgataṃ ratnaguhāyāṃ tejodhātusamāpannadṛṣṭyā,
 bhagavān bodhisattvabhūta ekena pādena sthitvā sapta divasān
 stutavān ekagāthayā:
 
@@ -63,84 +63,118 @@ kuśalacetanā paramārthena puṇyakriyā;
 tasyā etāni vastūnīty apare.
 ```
 
-The source span is `[267|10]–[268|08]`. The opening description of
-Tiṣya is syntactically compressed in the witness; its punctuation and
-participles above are normalized for readability. The analysis of
-co-arising factors in `[268|04–06]` is also compressed and should not
-be forced into a rigid one-to-one taxonomy. The next question, “What is
-giving?”, starts at `[268|09]` and belongs to 4.113.
+The source span is `[267|10]–[268|08]`. The opening account of Tiṣya is
+compressed in the witness; punctuation is editorial. The prose analysis
+of co-arising factors at `[268|04–06]` is not expanded beyond its stated
+functional distinctions. The next question, “What is giving?”, starts
+at `[268|09]` and belongs to 4.113.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Scientific English Rendering
 
-The bodhisattva saw the Buddha Tiṣya in a jewel cave, absorbed in a
-fire-element attainment. Standing on one foot, he praised Tiṣya for
-seven days with a single verse: nowhere in heaven or on earth, in any
-direction or divine dwelling, could he find another great ascetic
-equal to Tiṣya. At that time, it is said, the perfection of vigor was
-completed and nine kalpas were turned back.
+Through the praise of Tiṣya, vigor was completed.
 
-Wisdom and concentration were completed **immediately before
-awakening**, in diamond-like concentration. They are called perfections
-because each had reached the far shore of its own excellence.
+Seeing the Tathāgata Tiṣya in the Ratna Cave, absorbed in an attainment
+of the Fire Principle, the Blessed One, while a bodhisattva, stood on
+one foot and praised him for seven days with a single verse:
 
-A sūtra names three bases of meritorious activity: giving, discipline,
-and cultivation. How is each a `puṇyakriyāvastu`? Each may involve
-merit, activity, and a basis, according to the factor in question.
-This resembles “paths of karma”: some factors are both karma and path,
-while others are paths for karma.
+“Neither in heaven nor on earth, nor in this world, nor in the abode of
+Vaiśravaṇa; neither in the divine abode of the Maruts, nor in the
+directions or intermediate directions—where could another great ascetic,
+a bull among men and equal to you, be found across the whole abundant
+earth with its mountains and forests?”
 
-In giving, bodily or verbal karma can bear all three designations;
-the volition that brings it about is merit and activity; its other
-co-arising factors are merit. The bodily or verbal karma of discipline
-likewise bears all three designations. In cultivation, loving-kindness
-is merit and a basis for meritorious activity, since associated volition
-is formed through it. The text further distinguishes associated
-volition, discipline, and other co-arising factors by their functions.
+At that time, it is said, the perfection of vigor was complete, and nine
+kalpas were turned back.
 
-An alternative construal treats meritorious activity as the cause or
-undertaking of merit, with the three as its bases. Other teachers say
-that, in the strict sense, wholesome volition is meritorious activity
-and the three are its bases.
+“Immediately after concentration and the Science of Principles” is
+clarified as immediately before awakening: the perfections of concentration
+and the Science of Principles were completed in diamond-like concentration.
+They are called perfections because they reached the far shore of their
+own excellence.
 
-## 4. The Last Three Perfections
+A sūtra says there are three bases of meritorious activity: giving-formed,
+discipline-formed, and cultivation-formed. How is this triad a basis of
+meritorious activity? As with paths of karma, the triad is merit, activity,
+and basis according to function.
 
-The praise of Tiṣya marks the completion of `vīrya`, vigor. The phrase
-`dhīsamādhyor anantaram` does **not** mean that wisdom and concentration
-were completed right after that episode. The prose resolves it as
-`bodheḥ pūrvasamanantaram`: immediately before awakening, in
-`vajropamasamādhi`. Here `dhī` corresponds to `prajñā` and `samādhi`
-to `dhyāna` in the commentary's list of perfections.
+In the giving-formed basis, bodily and verbal action has all three
+designations. The volition that brings it forth is merit and activity;
+its other co-arising factors are merit alone. In the discipline-formed
+basis, bodily and verbal action itself has all three designations.
+
+In the cultivation-formed basis, loving-kindness is merit and a basis of
+meritorious activity, because associated volition is formed through
+loving-kindness. The co-arising volition and discipline are merit and
+activity; other co-arising factors are merit alone.
+
+Alternatively, meritorious activity is the cause of merit, and these
+three are its bases, since the endeavor to acquire them begins as an
+undertaking of merit. Others say that wholesome volition is meritorious
+activity in the strict sense and that these three are its bases.
+
+## 4. Completion of the Perfections
+
+| Perfection | Bhāṣya's account |
+|---|---|
+| Vigor | Completed through the Bodhisattva's seven-day praise of Tiṣya; nine kalpas are said to have been turned back |
+| Concentration | Completed in diamond-like concentration immediately before awakening |
+| Science of Principles | Completed together with concentration immediately before awakening |
+
+The prose prevents the first line's `anantaram` from being read as
+“immediately after the Tiṣya praise.” It resolves the timing as immediately
+before awakening. The Fire Principle belongs to the description of Tiṣya's
+attainment in the jewel cave, not to the later completion of the perfections.
 
 ## 5. Merit, Activity, and Basis
 
-`Puṇyakriyāvastu` is analyzed functionally, not as one object with
-three fixed synonyms. The same concrete deed can include factors that
-are activity and merit, factors that are also a basis, and accompanying
-factors that are merit alone. The Bhāṣya's `yathāyogam` (“as
-appropriate”) governs this distribution.
+The three structures named from the sūtra are giving-formed,
+discipline-formed, and cultivation-formed bases of meritorious activity.
+The Bhāṣya applies the predicates merit, activity, and basis to factors
+according to their role:
 
-The final reported view sharpens the role of `cetanā`: wholesome
-volition is meritorious activity in the strict sense. This is a view
-introduced as `apare`, not a silent replacement of the preceding
-factor-by-factor analysis.
+| Structure | Factor | Functional predicates |
+|---|---|---|
+| Giving-formed | bodily/verbal action | merit, activity, and basis |
+| Giving-formed | initiating volition | merit and activity |
+| Giving-formed | other co-arising factors | merit alone |
+| Discipline-formed | bodily/verbal action | merit, activity, and basis |
+| Cultivation-formed | loving-kindness | merit and basis |
+| Cultivation-formed | associated volition and discipline | merit and activity |
+| Cultivation-formed | other co-arising factors | merit alone |
 
-## 6. Organon Contact Point — Project Reconstruction
+The comparison with `karma-patha` shows that the relation between a
+structure and its factors may be expressed in more than one way: as action
+and its paths, or as paths of action. The Bhāṣya's `yathāyogam`—according
+to function—governs these assignments. The prose is compressed, so the
+table preserves the stated distinctions without imposing a broader,
+one-to-one taxonomy.
 
-For our action model, the passage suggests assigning predicates by a
-factor's role in a concrete course:
+The Bhāṣya then offers two further analyses. One treats meritorious
+activity as the cause of merit and the three structures as its bases.
+Another, attributed to “others,” says that wholesome volition is
+meritorious activity in the strict sense and the three are its bases.
+That last view does not erase the preceding factor-by-factor account.
 
-```text
-factor in a meritorious course
-    → merit, activity, basis, or a combination as appropriate
-```
+## 6. Interpretation
 
-That formalization belongs to the Organon. The Bhāṣya itself supplies
-the differentiated examples and the alternative volition-centered
-reading.
+The Tiṣya episode and the later merit analysis belong to one source unit
+but have distinct arguments. Praise completes vigor; concentration and the
+Science of Principles are completed at a different threshold, immediately
+before awakening. The word `anantaram` is therefore read through the
+Bhāṣya's explicit correction, not attached to the chronology of the praise.
+
+The action analysis makes *cetanā* central in a precise, local way. In the
+giving-formed structure, initiating volition is both merit and activity.
+The Bhāṣya also reports the stricter position that wholesome volition is
+meritorious activity in the ultimate sense, with giving, discipline, and
+cultivation as its bases. This is explicitly an attributed alternative;
+it should not be flattened into a single, unqualified definition of all
+action.
 
 ## 7. Review Status
 
-The study covers `[267|10]–[268|08]`, preserves the Tiṣya episode and
-the sūtra's triad, and records the split kārikā boundary. It stops
-before `[268|09]`, where 4.113 begins. The running witness and earlier
-kārikā studies remain unchanged.
+This study covers `[267|10]–[268|08]`, including the Tiṣya praise, the
+timing of the final two perfections, the sūtra's triad, the functional
+classification of factors, and the reported volition-centered alternative.
+It stops before the question about giving at `[268|09]`. The repository's
+joined verse and the electronic source's split placement are both recorded.

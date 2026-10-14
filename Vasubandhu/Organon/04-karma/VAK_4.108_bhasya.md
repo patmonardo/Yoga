@@ -8,13 +8,13 @@ sugatiḥ kulajo 'vyakṣaḥ pumān jātismaro 'nivṛt // 4.108 //
 ```
 
 > From what point onward is one called a bodhisattva? From the time one
-> begins actions whose maturation produces the marks. Thereafter one
-> has a favorable destiny, eminent birth, unimpaired faculties, male
-> embodiment, memory of former births, and does not turn back.
+> undertakes action whose maturation produces the marks. Thereafter: a
+> favorable rebirth destination, birth in an eminent family, unimpaired
+> faculties, male embodiment, memory of former births, and non-retrogression.
 
-This is the Bhāṣya's technical answer to the question raised by the
-preceding account of killing a bodhisattva *established in certainty*.
-It does not settle every Buddhist use of “bodhisattva.”
+This answers the preceding question about killing a bodhisattva established
+in certainty. The Bhāṣya gives a technical threshold for that designation;
+it does not claim to settle every use of “bodhisattva.”
 
 ## 2. Continuous Sanskrit
 
@@ -53,76 +53,81 @@ sattvebhyaḥ sarvakadarthānāṃ soḍhāro bhavanti,
 sarvaśramayantraṇānāṃ codvoḍhāraḥ.
 ```
 
-The running-source unit is `[265|10–11]–[265|26]`. Sandhi,
-punctuation, and word division are opened for readability. The witness's
-gloss of `avyakṣa` is unusually explicit; it is preserved rather than
-replaced by an unsupported lexical guess. The term `niyatipatita` is
-rendered “entered certainty” in this context. The next source sentence
-at `[265|26–27]` turns to how the mark-producing karma is accumulated.
+The source unit is `[265|10–11]–[265|26]`. Sandhi, word division, and
+punctuation are opened for readability. The Bhāṣya's gloss of `avyakṣa`
+is retained. Its terms for family and bodily status are translated as
+source claims rather than generalized norms.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Scientific English Rendering
 
-The preceding passage mentioned killing a bodhisattva. From what point
-onward should someone be called a bodhisattva? From the time the person
-begins performing actions whose maturation produces the marks. At that
-time the person has entered certainty. How so? From then onward the
-following conditions obtain continually.
+The preceding passage mentioned the killing of a bodhisattva. From what
+point onward should one be called a bodhisattva? From the time one begins
+to undertake actions whose maturation is the marks. At that time one has
+entered certainty. How so? From that time onward, continually, one has the
+following predicates:
 
-The person has a favorable destiny, being born among gods or humans.
-Within those destinies, the person is born into eminent warrior,
-brahmin, or wealthy householder families. The faculties are unimpaired.
-The text specifies male embodiment and excludes female and other
-bodily categories under its inherited classification. The person
-remembers former births and does not turn back.
+One has a favorable rebirth destination, because one is reborn among gods
+or humans. In such a favorable destination, one is born in a kṣatriya,
+brahmin, or wealthy householder family; the Bhāṣya says that no other
+family is considered eminent here. One is `avyakṣa`: the commentary first
+explains the word through defective faculties, then glosses it as having
+unimpaired faculties. One is male, not female or another bodily category
+in the Bhāṣya's classification.
 
-What does “not turning back” mean here? No kind of suffering and no
-opposition from beings exhausts the effort to benefit them. The
-commentary likens bodhisattvas to an “unbought slave”: despite attaining
-exceptional advantages, they freely lower their standing among beings,
-endure mistreatment, and bear hardship through compassion without
-self-interested cause.
+One remembers former births. One is `anivṛt`, non-retrogressing: suffering
+in all its forms and opposition from beings do not wear one down in working
+for their welfare.
 
-## 4. A Threshold, Then Recurring Conditions
+The Bhāṣya says that such bodhisattvas are described in the world as an
+“unbought slave.” Though they have attained exceptional distinction, they
+place themselves among beings without conceit, through dependence on
+compassion without interested return. They endure every affront and bear
+every hardship on behalf of beings.
 
-The decisive threshold is **the beginning of mark-producing karma**,
-not the already visible possession of the marks. The Bhāṣya calls this
-`niyatipatita`, entry into certainty, and says the listed conditions
-hold `nityam` from that point. Its predicates describe a continuing
-career across births in this technical scheme.
+The “unbought slave” and social-status language is the Bhāṣya's historical
+imagery. Its practical explanation is endurance in the work for beings'
+welfare, not a general approval of slavery or inherited rank.
 
-The source's birth and bodily restrictions must be read as its own
-historical doctrinal claims. They are not a general definition of human
-capacity or an Organon requirement. Likewise, the text's social ranking
-of families is not entailed by the abstract idea of a determinate
-trajectory.
+## 4. Threshold and Recurring Predicates
 
-## 5. `Anivṛt`: The Practical Force of Non-Retreat
+| Predicate | Bhāṣya's explanation | Scope |
+|---|---|---|
+| `sugati` | Birth among gods or humans | Favorable rebirth destination in this account |
+| `kulaja` | Kṣatriya, brahmin, or wealthy householder family | The Bhāṣya's inherited family hierarchy |
+| `avyakṣa` | Having unimpaired faculties (`avikalendriya`) | Explicit commentary gloss |
+| `pumān` | Male; other bodily categories excluded | Historical bodily claim in the source |
+| `jātismara` | Remembering former births | Continuity of recollection across births |
+| `anivṛt` | Not turning back from beings' welfare | Not worn down by suffering or their opposition |
 
-The Bhāṣya does more than attach “non-retrogression” as a status label.
-It specifies the test: hardship and hostility do not make the
-bodhisattva abandon the welfare of beings. The vivid servant image
-expresses a reversal of rank: eminence does not cancel the work of
-serving others. Its caste analogy belongs to the source's historical
-language; the practical point is endurance without conceit.
+The trigger is the beginning of action whose maturation produces the marks.
+The Bhāṣya says the bodhisattva enters certainty then, and that the listed
+predicates apply `nityam`, continually, from that time onward. The social
+and bodily restrictions are stated as part of this particular account and
+are not necessary to repeat as universal prescriptions.
 
-## 6. Organon Contact Point — Project Reconstruction
+## 5. Interpretation
 
-For our agency model, this unit distinguishes a future form already
-being produced from a form already complete:
+This is the passage that most directly supports the “favorable births from
+then onward” intuition: the Bhāṣya explicitly says `tasmāt kālāt prabhṛti
+nityam` and explains `sugati` as rebirth among gods or humans. Its threshold
+is precise, however: the beginning of action whose maturation produces the
+marks, at which the bodhisattva enters certainty. It does not identify that
+threshold with *bhavāgra-cetanā*. The greatest worldly maturation described
+in 4.105 and the bodhisattva's mark-producing career here should remain
+distinct unless another passage establishes their relation.
 
-```text
-beginning of mark-producing action
-    → determinate career with recurring conditions
-    → marks as future maturation
-```
+The Path trajectory can be brought into dialogue with Arya or Tantra as a
+project interpretation, but neither term names the subject of this passage.
+The source also includes specific family and male-body qualifications.
+Those are the Bhāṣya's inherited historical claims, not a universal
+Organon norm. By contrast, its account of `anivṛt` makes the practical
+dimension clear: no suffering or opposition should exhaust the commitment
+to beings' welfare.
 
-The useful abstraction is that a present course can organize future
-possibilities. The concrete restrictions and karmic claims are those of
-the Kośa; the schema of an agent's persistent course is our
-reconstruction.
+## 6. Review Status
 
-## 7. Review Status
-
-The study covers `[265|10–11]–[265|26]`. It stops before the question
-about producing mark-karma that introduces 4.109. The running witness
-and first-pass kārikā study remain unchanged.
+This study covers `[265|10–11]–[265|26]`. It stops before
+`[265|26–27]`, where the Bhāṣya asks how the action producing the marks is
+undertaken and introduces 4.109. The technical threshold, the continuing
+predicates, the commentary's historical birth and bodily restrictions, and
+its explanation of non-retrogression are preserved.

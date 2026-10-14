@@ -7,13 +7,13 @@ gatiduḥkhopakāritvaguṇaiḥ kṣetraṃ viśiṣyate /
 agraṃ muktasya muktāya bodhisattvasya cāṣṭamam // 4.117 //
 ```
 
-> The recipient field is distinguished by destiny, suffering,
-> beneficence, and qualities. Foremost is a gift from one free of
-> passion to another; giving to a bodhisattva is also foremost. Of a
-> separate eightfold list of gifts, the eighth is foremost.
+> The recipient field is distinguished by destiny, suffering, beneficence,
+> and qualities. Foremost is the gift from one who is free to one who is
+> free; a gift to a Bodhisattva is also foremost; and, in another set of
+> eight gifts, the eighth is foremost.
 
-The compressed second half joins distinct comparisons. The Bhāṣya
-separates them before explaining the list of eight motives.
+The compressed second half contains three distinct judgments. The Bhāṣya
+separates them before explaining the eightfold list.
 
 ## 2. Continuous Sanskrit
 
@@ -58,7 +58,7 @@ agram iti vartate. katamāny aṣṭau?
 [witness list: āsādya dānaṃ bhayadānam adānme dānaṃ dāsyati me
 dānaṃ dattpūrvaṃ me dānaṃ pitṛbhiśca pitāmahaiśceti dānaṃ dadāti
 svargārthaṃ dānaṃ kīrtyarthaṃ dānaṃ cittālaṅkārārthaṃ dānaṃ
-cittapariṣkārārthaṃ yiogasaṃbhārārthamuttamārthasya prāptaye
+cittapariṣkārārthaṃ yogasaṃbhārārtham uttamārthasya prāptaye
 dānaṃ dadāti]
 
 tatrāsādya dānaṃ yad āsannebhya upagatebhyo dānaṃ dadātīti paurāṇāḥ.
@@ -66,79 +66,89 @@ bhayadānaṃ yad vināśābhimukhaṃ dṛṣṭvā varaṃ dadāmīti dadāti.
 śeṣaṃ sugamatvān na vibhaktam.
 ```
 
-The source unit is `[270|04]–[270|25–26]`. The witness has
-`viśipyate` for `viśiṣyate` at `[270|04]` and several compressed or
-damaged phrases in the examples. The eightfold list is reproduced as
-a bracketed witness passage rather than silently segmented into a
-numbered Sanskrit list. Its opening items and joins are uncertain;
-the final motive is intelligible from the text. The next sentence at
-`[270|26]` introduces 4.118's further cases of immeasurable fruit.
+At `[270|04]` the witness reads `viśipyate`; the kārikā and explanation
+use `viśiṣyate`. At `[270|08]` the witness has the difficult reading
+`duḥkhaviśeṣā dviśiṣyate`; the normalized `duḥkhaviśeṣād viśiṣyate`
+is editorial. The list at `[270|21–25]` is reproduced as a witness
+passage, not silently divided into eight numbered items. Its opening
+and joins are uncertain. The next topic begins at `[270|26]`.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Scientific English Rendering
 
-How is a recipient field distinguished? By destiny: a cited saying
-expects a hundredfold maturation from giving to an animal and a
-thousandfold one from giving to an undisciplined human. By suffering:
-the commentary cites gifts to the sick, those attending the sick, and
-other material supports, whose merit is said to be beyond measure. By
-beneficence: parents and others who have helped the giver are fields
-of gratitude. By qualities: giving to someone disciplined is cited as
-having a hundred-thousandfold maturation.
+How is the recipient field distinguished? First, it is distinguished by
+a difference in destination. For it is said by the Blessed One: “Having
+given a gift to one in an animal destination, a hundredfold maturation
+is to be expected; having given a gift to an undisciplined person who is
+human, a thousandfold.”
 
-Among material gifts, the Buddha is quoted as calling a gift by one
-free of passion to another free of passion foremost. A gift to a
-bodhisattva is also foremost because the bodhisattva is a cause of
-benefit to all beings, even though both giver and recipient may still
-be unliberated.
+It is distinguished by a difference in suffering. Among the material
+bases of meritorious action, after stating gifts to a sick person, to one
+attending the sick, and to those in need of cooling and similar aid, it is
+said: “For a faithful son or daughter of good family endowed with these
+seven material bases of meritorious action, it is not possible to
+comprehend the measure of merit.”
 
-Setting that case aside, the eighth of another list of gifts is
-foremost. The difficult transmitted list moves through gifts shaped by
-immediate circumstance, fear, reciprocal expectation, custom, and
-worldly aims. Its final gift is for adornment and purification of mind,
-as equipment for yoga and for attainment of the highest goal. The
-commentary glosses the first item as giving to those who have come
-near and the second as giving when loss threatens; it leaves the rest
-unexplained here.
+It is distinguished by a difference in beneficence, as with parents and
+other benefactors, as illustrated by the Ṛṣyamṛga Jātaka and similar
+examples. It is distinguished by a difference in qualities, as in the
+statement: “Having given to one who is disciplined, the maturation is
+hundred-thousandfold,” and similar statements.
 
-## 4. Four Grounds of Field Distinction
+Among all gifts, the gift from one free from passion to one free from
+passion is foremost. The Blessed One said: “Having given, one free from
+passion to one free from passion, this is the highest gift among gifts
+of material things.”
 
-| Ground | Example in the Bhāṣya |
+A gift to a Bodhisattva is also foremost. A gift given to a Bodhisattva
+for the benefit of all living beings is foremost, even when giver and
+recipient are not yet free.
+
+Setting these aside, of the other eight gifts stated by the Blessed One,
+the eighth is foremost. Which eight? [The witness list is preserved above.]
+The ancient teachers say that giving to those nearby who have arrived is
+“giving upon approach.” “Giving from fear” is giving when, seeing that
+loss is imminent, one thinks, “Better that I give.” The rest are not
+explained because their meaning is clear.
+
+## 4. The Recipient-Field Grounds and Foremost Cases
+
+| Ground or case | Bhāṣya example or claim |
 |---|---|
-| `gati` — destiny | animal and human recipients |
-| `duḥkha` — suffering | sick people and their attendants |
-| `upakāritva` — beneficence | parents and other benefactors |
-| `guṇa` — qualities | someone possessing discipline |
+| Destination | Gift to one in an animal destination; gift to an undisciplined human |
+| Suffering | Gift to the sick, their attendants, and those needing cooling or similar aid |
+| Beneficence | Gift to parents and other benefactors |
+| Qualities | Gift to one who is disciplined |
+| Free giver to free recipient | Foremost among gifts of material things |
+| Gift to a Bodhisattva | Foremost on the stated rationale of benefit to all living beings |
+| Eighth gift in another classification | Foremost within that eightfold series |
 
-These are different relations that can distinguish a recipient. The
-passage does not reduce the field to one rank of spiritual attainment:
-need and a history of help also matter.
+The numbers attached to maturation, and the classifications of “foremost,”
+are claims cited or made by the Bhāṣya. The damaged eightfold list is not
+reconstructed into a clean numbered catalogue; only the first two entries
+receive explicit explanation in this passage.
 
-## 5. Three Foremost Claims, Three Comparisons
+## 5. Interpretation
 
-The gift from a passion-free giver to a passion-free recipient is
-called foremost among material gifts. The bodhisattva gift is also
-foremost under the rationale of benefit to all beings. The eighth
-gift belongs to a **separate list of motives** and is foremost there
-because it serves purification of mind, yoga, and the highest goal.
-`Aṣṭamam` must not be attached to `bodhisattvasya` as though the
-bodhisattva were the eighth recipient.
+The field is not one undifferentiated rank. Destination, suffering, prior
+beneficence, and qualities are heterogeneous grounds, and the examples
+show that practical need and relational history matter alongside
+qualities. The Bhāṣya then gives three separate grounds for “foremost”:
+a gift between those free from passion, a gift to a Bodhisattva because
+of its orientation to the benefit of all beings, and the eighth gift in
+a separate classification.
 
-The first-pass study's bare kārikā reading left this relation
-provisional. The Bhāṣya resolves the main distinction, though the
-exact segmentation of the transmitted eightfold list remains
-uncertain.
+The Bodhisattva's causal reach does not collapse into the first four
+grounds; it is the Bhāṣya's stated reason for the second foremost-gift
+claim. Likewise, the eighth gift is not a further recipient class or a
+rank assigned to the Bodhisattva. The verse and commentary analyze
+relations within giving; they do not identify the recipient field with
+Mind. Bases gather content and frames, not Mind itself. The verse does
+not name `cetanā`, though its account of a giving-event belongs within
+the chapter's broader analysis of volitional action.
 
-## 6. Organon Contact Point — Project Reconstruction
+## 6. Review Status
 
-For our action model, the field is determined by the recipient's
-condition, need, relation to the giver, and qualities. The act's
-purpose provides another axis. Treating these as distinct dimensions
-of one giving-event is our reconstruction; the numerical fruits and
-foremost rankings are Kośa doctrine.
-
-## 7. Review Status
-
-The study covers `[270|04]–[270|25–26]`, including the difficult
-eightfold list without an invented clean enumeration. It stops
-before `[270|26]` begins the next topic. The running source and
-first-pass study remain unchanged.
+This study covers `[270|04]–[270|25–26]`. It records the witness's
+`viśipyate` and difficult `duḥkhaviśeṣā dviśiṣyate`, and preserves the
+eightfold list without an unsupported segmentation. The sentence at
+`[270|26]` begins the next topic.

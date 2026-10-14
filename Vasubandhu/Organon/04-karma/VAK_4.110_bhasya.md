@@ -1,4 +1,4 @@
-# VAK 4.110 Bhāṣya — Merits, Three Periods, and the First Vow
+# VAK 4.110 Bhāṣya — Merit Measures and the Bodhisattva Chronology
 
 ## 1. Kārikā Anchor
 
@@ -8,11 +8,12 @@ vipaśyī dīpakṛd ratnaśikhī śākyamuniḥ purā // 4.110 //
 ```
 
 > Each individual mark is born from a hundred merits. Vipaśyin,
-> Dīpaṃkara, and Ratnaśikhin stand at the ends of the three
-> incalculable periods; before them was an earlier Buddha Śākyamuni.
+> Dīpaṃkara, and Ratnaśikhin occur at the ends of the three incalculable
+> periods; earlier was Śākyamuni.
 
-The names are given in reverse order relative to the three periods.
-The Bhāṣya also asks what a “merit” in the first half could measure.
+The Bhāṣya asks how much one merit measures, supplies the period-by-period
+chronology, and identifies an earlier Buddha Śākyamuni as the setting of
+the Bodhisattva's first vow.
 
 ## 2. Continuous Sanskrit
 
@@ -36,10 +37,11 @@ atha kasya kalpāsaṃkhyeyasyānte katamo buddha āsīt?
 pratilomānukrameṇa yathākramam:
 
 asaṃkhyeyatrayāntyajāḥ /
-vipaśyī dīpakṛd ratnaśikhī
+vipaśyī dīpakṛt ratnaśikhī
 
 ratnaśikhini samyaksaṃbuddhe prathamo 'saṃkhyeyaḥ samāptaḥ;
-dīpaṅkare bhagavati dvitīyaḥ; vipaśyini tathāgate tṛtīyaḥ.
+dīpaṅkare bhagavati dvitīyaḥ;
+vipaśyini tathāgate tṛtīyaḥ.
 sarveṣāṃ tu teṣām:
 
 śākyamuniḥ purā // 4.110 //
@@ -52,78 +54,78 @@ yatra bhagavatā bodhisattvabhūtenādyaṃ praṇidhānaṃ kṛtam:
 varṣa sahasrāntaṃ śāsanaṃ babhūva]
 ```
 
-The source span is `[266|11]–[267|02]`. The running witness reads
-`śāsyamuniḥ` in the final kārikā fragment at `[266|24]`, while its
-immediately following prose has `śākyamunir nāma`; the normalized
-kārikā reading above follows that prose and the research witness.
-The source has `pratheme` for `prathame` and `vabhūva` for `babhūva`.
-The remainder of `[266|25–267|02]`, concerning that earlier Buddha's
-era and teaching, is compressed and uncertain in this witness; the
-secure first-vow clause is translated below without a conjectural
-reconstruction of the rest. The bracketed line reproduces the crux
-rather than silently dropping it from the source unit.
+The source span is `[266|11]–[267|02]`. At `[266|24]` the witness reads
+`śāsyamuniḥ`; the prose immediately after has `śākyamunir nāma`, so the
+verse is normalized here to `śākyamuniḥ`. The witness also has `pratheme`
+for `prathame` and `vabhūva` for `babhūva`. The closing line about the
+earlier Buddha's era and teaching is too rough here for a reliable
+reconstruction; it is retained as a crux rather than silently repaired.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Scientific English Rendering
 
-Each of the marks is born from a hundred merits. How large is one such
-merit? Some say its measure reaches the enjoyment-result of all beings
-apart from a bodhisattva near awakening. Others give a cosmological
-measure, the karmic predominance through which the entire
-three-thousand-great-thousand world system comes about. Still others
-say that only Buddhas know its measure.
+Concerning those marks:
 
-How many Buddhas did the Blessed One serve while still a bodhisattva?
+Each individual one is born from a hundred merits.
+
+What is the measure of one merit? Some say that, with the near bodhisattva
+excepted, it extends up to the enjoyment-result of all beings. Others say
+that it extends up to the karmic efficacy by which the entire
+three-thousand-great-thousand world-system arises. Others say that Buddhas
+alone know its measure.
+
+How many Buddhas did the Blessed One attend upon when he was a bodhisattva?
 Seventy-five thousand in the first incalculable period, seventy-six
-thousand in the second, and seventy-seven thousand in the third. Which
-Buddha stood at the end of each period? The verse names them in reverse
-order: Ratnaśikhin at the end of the first, Dīpaṃkara at the end of the
-second, and Vipaśyin at the end of the third.
+thousand in the second, and seventy-seven thousand in the third.
 
-Before all three there was an earlier fully awakened Buddha named
-Śākyamuni. In his presence the bodhisattva who later became the
-Blessed One first made the vow: “May I become a Buddha of just this
-kind.” The closing details about that earlier Buddha are not secure
-enough in this witness to translate more closely.
+At the end of which incalculable period was each Buddha? In reverse order:
+Ratnaśikhin brought the first incalculable period to its end; Dīpaṃkara,
+the second; Vipaśyin, the third. Before all of them was Śākyamuni.
 
-## 4. A Hundred Merits for Each Mark
+There was formerly a fully awakened Buddha named Śākyamuni. Before him,
+the Blessed One, while a bodhisattva, first made the vow: “May I become
+a Buddha of just this kind.” The witness's following statement about that
+earlier Buddha's era and teaching remains uncertain.
 
-`Ekaikaṃ` distributes the hundredfold ground over **each individual**
-mark. The Bhāṣya does not reduce a merit here to a fixed, readily
-counted deed. Its three reported positions propose very large measures
-or reserve the measure to Buddhas. They should remain distinct
-proposals rather than be fused into one arithmetic definition.
+## 4. Merit Measures and Period Chronology
 
-## 5. The Chronology Restored by the Bhāṣya
+| Bhāṣya statement | Attribution | Scope |
+|---|---|---|
+| The measure reaches the enjoyment-result of all beings, excepting the near bodhisattva | `eke`, some | One proposed measure of a single merit |
+| The measure reaches the karmic efficacy through which the whole great world-system arises | `apare`, others | A cosmological measure |
+| Buddhas alone know the measure | `apare`, others | A limit on ordinary measurement |
 
-| Period ending | Buddha named by the prose | Buddhas served during period |
-|---|---|---:|
-| first incalculable | Ratnaśikhin | 75,000 |
-| second incalculable | Dīpaṃkara | 76,000 |
-| third incalculable | Vipaśyin | 77,000 |
+| Incalculable period | Buddhas attended | Buddha at its end |
+|---|---:|---|
+| First | 75,000 | Ratnaśikhin |
+| Second | 76,000 | Dīpaṃkara |
+| Third | 77,000 | Vipaśyin |
 
-The verse lists Vipaśyin, Dīpaṃkara, and Ratnaśikhin in the opposite
-direction. The earlier Śākyamuni is a **previous Buddha with that
-name**, not the bodhisattva's own later Buddhahood. The Bhāṣya places
-the first explicit vow before this earlier Buddha.
+The verse names Vipaśyin, Dīpaṃkara, and Ratnaśikhin in reverse
+chronological order; the prose restores the sequence. The earlier
+Śākyamuni is a Buddha preceding these three termini. The Bhāṣya says that
+the later Bodhisattva first made the vow of becoming a Buddha of that kind
+in his presence.
 
-## 6. Organon Contact Point — Project Reconstruction
+## 5. Interpretation
 
-The passage joins two scales of production:
+The Bhāṣya states a hundred merits for each individual mark but does not
+settle an ordinary unit for measuring one merit. Its speakers offer
+different scales: the enjoyment-result of beings, the karmic efficacy
+behind a whole world-system, and knowledge reserved to Buddhas. These
+positions should remain alternatives rather than be compressed into one
+definition.
 
-```text
-many merits → each determinate mark
-first vow → long ordered bodhisattva career
-```
+The chronology likewise distinguishes the three period-ending Buddhas
+from the earlier Śākyamuni before whom the first vow is made. That vow
+gives the long career an explicit direction, but the source does not call
+it *cetanā* or equate it with every subsequent volition. The closing
+statement about the earlier Buddha's era and teaching is not secure enough
+to extend the interpretation.
 
-For our account of agency, the vow can be read as an adopted end that
-organizes a long course, while the marks are its accumulated activity
-made visible. That genetic reading is project interpretation. The
-Kośa's specific numbers, chronology, and disputed measures remain
-source claims.
+## 6. Review Status
 
-## 7. Review Status
-
-The study covers `[266|11]–[267|02]`, records the `śāsyamuniḥ`
-irregularity, and leaves the unclear closing sentence unexpanded. It
-stops before `[267|03]`, where 4.111 turns to the perfections. The
-running source and first-pass study remain unchanged.
+This study covers `[266|11]–[267|02]`, including the three reported
+measures of merit, the Buddha counts and chronology, and the first-vow
+account. It stops before `[267|03]`, where the Bhāṣya asks about the
+perfections. The verse reading `śākyamuniḥ` follows the adjacent prose;
+the rough closing statement remains marked as a textual crux.

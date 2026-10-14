@@ -7,13 +7,9 @@ bhikṣur dṛkcarito vṛttī bhinatty anyatra bāliśān /
 śāstṛmārgāntarakṣāntau bhinno na vivasaty asau // 4.100 //
 ```
 
-> A monk governed by view, whose conduct retains standing, divides
-> immature members away from the Teacher's presence. Division occurs
-> when they accept another teacher and path; it does not last overnight.
-
-The verse names the effective divider, the place, the susceptible members,
-the assent that completes division, and its brief duration. The difficult
-`vṛttī` is read in light of the prose contrast below.
+> A monk governed by view and established in conduct divides the immature
+> elsewhere. Upon acceptance of another teacher and another path, the Saṅgha
+> is divided; that division does not last through the night.
 
 ## 2. Continuous Sanskrit
 
@@ -22,156 +18,106 @@ kaḥ punar eṣa saṃghaṃ bhinatti?
 
 bhikṣur dṛkcarito vṛttī bhinatti /
 
-bhikṣur bhinatti, na gṛhī na bhikṣuṇyādayaḥ. sa ca dṛṣṭicarita eva,
-na tṛṣṇācaritaḥ. ṛtastho na bhinnavṛttas tasyānādeyavākyatvāt.
-kva bhinatti? atra bhagavān saṃnihitas, tataḥ
+bhikṣur bhinatti, na gṛhī na bhikṣuṇyādayaḥ.
+sa ca dṛṣṭicarita eva, na tṛṣṇācaritaḥ.
+ṛtastho na bhinnavṛttas tasyānādeyavākyatvāt.
+
+kva bhinatti?
+atra bhagavān saṃnihitas, tataḥ
 
 anyatra
 
-na hi śāstur eva saṃnidhau śakyo bhettum, tathāgatānāṃ
-duṣprasahatvād ādeyavākyatvāc ca.
+na hi śāstur eva saṃnidhau śakyo bhettum,
+tathāgatānāṃ duṣprasahatvād ādeyavākyatvāc ca.
 
 kān bhinatti?
 
 bāliśān /
 
-pṛthagjanān eva, nāryān, pratyakṣadharmatvāt. tān api na
-kṣāntilābhina ity apare.
+pṛthagjanān eva, nāryān, pratyakṣadharmatvāt.
+tān api na kṣāntilābhina ity apare.
 
 kiyatā bhinnaḥ saṃgho bhavati?
 
 śāstṛmārgāntarakṣāntau bhinnaḥ
 
 yadā tebhyas tathāgatād anyaḥ śāstā kṣamate,
-tadupadiṣṭāc ca mārgād anyo mārgaḥ, iyatā bhinnaḥ saṃgho vaktavyaḥ.
+tadupadiṣṭāc ca mārgād anyo mārgaḥ,
+iyatā bhinnaḥ saṃgho vaktavyaḥ.
 
-kiyantaṃ kālaṃ bhinna āste? tām eva rātriṃ
+kiyantaṃ kālaṃ bhinna āste?
+tām eva rātriṃ
 
 na vivasaty asau // 4.100 //
 
 aparyuṣita eva hi saṃghabhede saṃgho 'vaśyaṃ pratisaṃdhīyate.
 ```
 
-The witness at `[261|09]` reads `bhikṣurdu kvacarito vṛttī`, with damage
-around `dṛkcarito`; the research kārikā supplies the normalized anchor.
-The prose has `ṛtastho na bhinnavṛttaḥ` at `[261|11]`. Its first word and
-the precise grammatical force of `vṛttī` require caution; the study uses
-the secure contrast with broken conduct and words that are not accepted.
-The witness's `bhanatti` in the opening question is normalized to
-`bhinatti`.
+The witness at `[261|09]` reads `bhikṣurdu kvacarito vṛttī`, damaged around
+`dṛkcarito`; the anchor follows the normalized verse form. Word division
+and punctuation in the continuous Sanskrit are editorial. The prose
+reading `ṛtastho` is retained without resolving its precise force beyond
+the contrast with `bhinnavṛtta`.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Scientific English Rendering
 
-Who divides the Saṅgha? A monk governed by view and possessing the
-relevant standing of conduct does so. A monk divides it, not a householder
-or a nun and the like. The monk is governed by view, not by craving. The
-prose contrasts this monk with one whose conduct has broken down, because
-the words of the latter would not be accepted.
+Who, then, divides this Saṅgha? A monk governed by view and established in
+conduct divides it. A monk divides it, not a householder, a nun, or the
+like. He is governed by view, not by craving. He is established in proper
+conduct, not of broken conduct, because his words would not be accepted.
 
-Where does the monk divide the Saṅgha? Elsewhere than where the Blessed One
-is present. In the Teacher's own presence the division cannot be effected,
-because Tathāgatas are difficult to overcome and their words are accepted.
+Where does he divide it? Elsewhere: the Blessed One is present here, and
+division cannot be effected in the Teacher's own presence,
+because the Tathāgatas are difficult to overcome and their words are
+accepted.
 
-Whom does the monk divide? The immature: ordinary persons, not noble
-persons, since the latter directly see the Dharma. According to another
-opinion, even ordinary persons who have obtained acceptance are not
-susceptible.
+Whom does he divide? The immature: ordinary persons, not noble persons,
+because they directly realize Dharma. According to another view, those who
+have attained *kṣānti* are not included either.
 
-At what point is the Saṅgha divided? When those persons accept a teacher
-other than the Tathāgata and a path other than the one taught by him.
+At what point is the Saṅgha divided? Upon acceptance of another teacher and
+another path. When they accept as teacher someone other than the Tathāgata
+and accept a path other than the one he taught, the Saṅgha is to be said to
+be divided in this respect.
 
-How long does the division last? It does not continue overnight. Before
-the night passes, the Saṅgha is necessarily reunited.
+How long does it remain divided? It does not last through that same night.
+For before the night has passed, the Saṅgha is necessarily reunited.
 
-## 4. The Effective Divider
+## 4. The Conditions of Division
 
-The Bhāṣya requires an internal agent: a monk. It excludes householders,
-nuns, and other agents from this particular technical class of division.
-The monk's conduct is governed by a **view** rather than by craving. This
-matches the chapter's earlier distinction between unstable craving and a
-fixed standpoint capable of producing a radical practical result.
+The Bhāṣya distinguishes the agent, the location, the susceptible group,
+and the condition that completes the division:
 
-The `vṛttī` condition adds effective standing. A person whose conduct is
-already publicly discredited cannot persuade the group into this formal
-division, because that person's speech is not accepted. The point is
-practical efficacy, not merely the utterance of false claims.
+| Condition | Bhāṣya's account |
+|---|---|
+| Agent | A monk governed by view, not craving; a householder and a nun do not effect this technical division. |
+| Conduct | The monk is not of broken conduct; otherwise his words would not be accepted. |
+| Location | Elsewhere than the Blessed One's presence, where the Tathāgata's words are accepted and cannot be overcome. |
+| Recipients | Immature persons, glossed as ordinary persons; noble persons are excluded. Another view also excludes those who have attained *kṣānti*. |
+| Completion | The recipients accept both another teacher and a path other than the one taught by the Tathāgata. |
+| Duration | Reunion is necessary before that night has passed. |
 
-These eligibility rules belong to the source's monastic classification.
-They do not establish that excluded persons cannot cause other forms of
-institutional conflict.
+The Bhāṣya's `kṣānti` in the alternative concerning recipient eligibility
+should not be collapsed into the later compound's acceptance of a rival
+teacher and path. The contexts specify different relations.
 
-## 5. Place and Recipients
+## 5. Interpretation
 
-The divider acts away from the Buddha's presence. The source explains this
-through the Tathāgata's authoritative speech and resistance to such
-opposition. The relevant condition is whether the rival claim can obtain
-recognition among members, not a magical spatial barrier.
+The passage separates the divider's capacity to persuade from the
+community's completed state: the monk's accepted speech is not by itself
+the division. The technical condition is that susceptible recipients accept
+both a rival teacher and a rival path. This clarifies the relation between
+the culpable verbal action discussed in 4.99 and the Saṅgha's resulting
+non-concord without identifying action, acceptance, and collective result.
 
-The recipients are `bāliśa`, explained as ordinary persons
-(`pṛthagjana`). Noble persons are excluded because the Dharma is directly
-present to them. A further opinion excludes even ordinary persons who have
-attained `kṣānti`, acceptance. The dispute narrows the susceptibility
-condition without altering the central requirement of assent.
+No *cetanā* is named in this unit. Its point here is the Bhāṣya's criterion
+for when division is completed, not a redefinition of the volition/action
+distinction.
 
-## 6. The Completion Condition: Assent
+## 6. Review Status
 
-The division is complete only when the members accept **both** a rival
-teacher and a rival path:
-
-```text
-false verbal action by divider
-    → reception by susceptible members
-    → assent to another teacher and another path
-    → Saṅgha endowed with non-concord
-```
-
-This follows directly from 4.98–4.99. Speech is the culpable causal act;
-the community's assent mediates its production of an actual divided state.
-The two accepted contents must be kept together. A dispute about a minor
-practice is not automatically the `cakrabheda` at issue here.
-
-## 7. Duration
-
-`Na vivasati` means the division does not pass the night. The prose makes
-the limit explicit: reunion occurs before the night has elapsed.
-
-```text
-formal division → same night → necessary reunion
-```
-
-This is a source claim about the technical Dharmacakra division under
-discussion. It should not be generalized to every historical schism or
-disagreement in a Buddhist institution.
-
-## 8. Organon Contact Point
-
-The special topic adds a recognition condition to the Causal Algebra for
-Agency. A communicative action can alter a collective state only when its
-recipients take up a proposed authority and course:
-
-```text
-CollectiveTransition {
-    agent: internalSpeaker
-    utterance: rivalTeacherAndPath
-    audience: susceptibleMembers
-    mediation: assent
-    resultingState: nonConcord
-    durationBound: sameNight
-}
-```
-
-The source's categories are specific to the Saṅgha. The generalizable
-structure is the difference between uttering a proposition and producing
-an institutional fact through its acceptance.
-
-This is the Organon reconstruction. The monastic restrictions, the
-Buddha-presence condition, the `kṣānti` opinion, and the reunion claim
-remain Bhāṣya doctrine.
-
-## 9. Review Status
-
-The complete 4.100 unit `[261|07–08]–[261|23]` is included. It stops
-before the new identification of this case as `cakrabheda` at `[261|24]`.
-The divider, conduct condition, location, recipients, rival teacher and
-path, and duration are all retained. The uncertain witness reading around
-`vṛttī` is marked.
+The complete unit `[261|07–08]–[261|23]` is included: the question of who
+divides the Saṅgha, the agent and conduct conditions, location, recipients,
+acceptance of another teacher and path, and the duration limit. It stops
+before the identification of this division as `cakrabheda` at `[261|24]`.
+The damaged witness reading around `vṛttī` is retained as an uncertainty.

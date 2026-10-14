@@ -1,4 +1,4 @@
-# VAK_4.123 — Cultivation as Perfuming the Mind
+# VAK 4.123 — Cultivation and the Conditioning of Consciousness
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -9,261 +9,183 @@
 
 ## 2. Sanskrit (IAST)
 
-```text
-dauḥśīlyataddhetvahataṃ tadvipakṣaśamāśritam |
-samāhitaṃ tu kuśalaṃ bhāvanā cittavāsanāt || 4.123 ||
+```iast
+dauḥśīlyataddhetvahataṃ tadvipakṣaśamāśritam /
+samāhitaṃ tu kuśalaṃ bhāvanā cittavāsanāt // 4.123 //
 ```
 
-The first hemistich supplies the textual formulation of the four qualities
-announced at the end of VAK 4.122. Its commentary occurs in the preceding
-Bhāṣya unit; the local VAK 4.123 Bhāṣya witness begins with the second
-hemistich and its definition of cultivation.
+The first half completes the four qualities of purified discipline
+announced in 4.122. The local Bhāṣya discussion begins with the second
+half, defining cultivation.
 
 ## 3. Lexical Analysis
 
 ```text
-dauḥśīlya-tat-hetu-ahatam | tat-vipakṣa-āśritam | śama-āśritam |
+dauḥśīlya-tad-hetu-ahatam | tad-vipakṣa-śamāśritam |
 samāhitam | tu | kuśalam | bhāvanā | citta-vāsanāt
 ```
 
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `dauḥśīlya` | compound member | misconduct |
-| `tat-hetu` | compound member | its cause, the cause of misconduct |
-| `ahatam` | nominative singular neuter | undamaged, unstruck |
-| `tat-vipakṣa` | compound member | its opponent or antidote |
-| `śamāśritam` | nominative singular neuter compound | based upon peace or pacification |
-| `samāhitam` | nominative singular neuter | concentrated, collected |
+| `tad-hetu` | compound member | its cause |
+| `ahatam` | nominative singular neuter past passive participle | unharmed |
+| `tad-vipakṣa` | compound member | its counteragent |
+| `śamāśritam` | nominative singular neuter compound | resting on peace |
+| `samāhitam` | nominative singular neuter | concentrated; collected |
 | `tu` | contrastive particle | however |
-| `kuśalam` | nominative singular neuter | wholesome activity or factors |
-| `bhāvanā` | nominative singular feminine | cultivation, development |
-| `citta-vāsanāt` | ablative singular compound | because of conditioning or perfuming the mind |
+| `kuśalam` | nominative singular neuter | wholesomeness |
+| `bhāvanā` | nominative singular feminine | cultivation |
+| `citta-vāsanāt` | ablative singular compound | because it conditions or perfumes Consciousness |
 
-**Four qualities represented in the first hemistich**
-
-```text
-1. not damaged by misconduct
-2. not damaged by its afflictive causes
-3. grounded in its antidote through mindfulness
-4. directed toward nirvāṇa rather than superior rebirth
-```
-
-The compound's compressed coordination yields two positive qualities:
-reliance upon the antidote and reliance upon `śama`. The Bhāṣya specifies the
-latter as transformation toward nirvāṇa rather than dependence upon a
-superior rebirth.
+The four qualities in the first half are explained in the preceding
+Bhāṣya unit. The second half defines cultivation through the effect of
+concentrated wholesomeness on `citta`, translated here as Consciousness.
 
 ## 4. Grammar
 
-**Completion of purified discipline**
+The first compound has a shared predicate:
 
 ```text
-viśuddhaṃ śīlam
-    dauḥśīlyena ahatam
-    tad-hetunā ahatam
-    tad-vipakṣam āśritam
-    śamam āśritam [bhavati]
+dauḥśīlyaṃ ca tad-hetuṃ ca
+    ahatam [śīlam]
 ```
 
-The single `ahatam` distributes over misconduct and its cause. The compound
-The compact second predicate carries two coordinated objects of reliance:
-the antidote and peace. The Bhāṣya identifies their concrete determinations
-as the establishments of mindfulness and orientation toward nirvāṇa.
+> [Discipline is] unharmed by misconduct and by its cause.
 
-**Definition of cultivation**
+The next compound coordinates two supports:
 
 ```text
-samāhitaṃ kuśalam
+tad-vipakṣam āśritam
+śamam āśritam [śīlam]
+```
+
+The Bhāṣya identifies the counteragent with grounding in the establishments
+of mindfulness, and peace with direction toward nirvāṇa rather than a
+particular rebirth.
+
+The second half defines cultivation:
+
+```text
+samāhitaṃ kuśalaṃ
     citta-vāsanāt
     bhāvanā [ucyate]
 ```
 
-> Concentrated wholesomeness is called cultivation because it conditions the
-> mind.
+> Concentrated wholesomeness is cultivation because it conditions
+> Consciousness.
 
-The ablative `cittavāsanāt` gives the reason for the designation. The Bhāṣya
-defines `samāhita` relationally as wholesome factors co-arising with what has
-samādhi as its nature.
+The Bhāṣya explains `samāhita` as what has the nature of concentration
+and co-arises with it.
 
 ## 5. Translation
 
-### Literal Translation
+### Scientific English Rendering
 
-> [Purified discipline] is undamaged by misconduct and its cause and is
-> grounded in its antidote. Concentrated wholesome activity, however, is
-> cultivation because it conditions the mind.
+> Purified discipline is unharmed by misconduct and its causes, rests on
+> their counteragent and on peace. Cultivation, however, is concentrated
+> wholesomeness because it conditions Consciousness.
 
 ### Bhāṣya-informed study translation
 
-> Purified discipline remains undamaged both by misconduct and by the
-> afflictions that cause it; it is supported by the antidote through the
-> establishments of mindfulness and is directed toward nirvāṇa rather than a
-> superior rebirth. The third basis of meritorious activity is cultivation:
-> wholesome factors conjoined with samādhi intensely perfume the mind, making
-> the causal continuum of the nature of those qualities, as sesame seeds take
-> on the fragrance of flowers.
+> Purified discipline is unharmed by misconduct and its causes, rests on
+> their counteragent and on peace. Cultivation, however, is concentrated
+> wholesomeness because it conditions Consciousness. The Bhāṣya explains
+> that a wholesome factor “concentrated” in this sense has the nature of
+> concentration and co-arises with it. It strongly perfumes Consciousness,
+> making the continuing series partake of its qualities, as flowers perfume
+> sesame seeds.
 
-The mindfulness and nirvāṇa determinations derive from the preceding Bhāṣya
-unit. Conjunction with samādhi, intensive conditioning, transformation of the
-continuum, and the sesame analogy derive from the local 4.123 commentary.
+The four qualities of purified discipline are supplied in the 4.122
+Bhāṣya study; the local 4.123 Bhāṣya defines concentrated wholesome
+cultivation and gives the flower-and-sesame analogy.
 
 ## 6. Philosophical Translation
 
-> Purified restraint secures the practical system against corrupt activity,
-> its afflictive generator, and loss of liberative direction. Cultivation then
-> advances from protection to positive self-formation: concentrated
-> wholesomeness acts upon the continuum that produced it, impressing its
-> qualities into that continuum so that future cognition and action arise
-> from a newly conditioned practical nature. The instrument does not merely
-> contain a wholesome state; through repeated collected activity it becomes
-> increasingly of that state's quality.
-
-The transition among the three merit-bases is:
-
-```text
-dāna     → transforms the relation to possession
-śīla     → institutes and purifies restraint
-bhāvanā  → transforms the mental continuum itself
-```
+> Cultivation is not merely the occurrence of a wholesome state. A
+> wholesome factor co-arising with concentration conditions Consciousness
+> and gives the continuing series its qualities. The flower-and-sesame
+> comparison describes formation through sustained relation: the qualities
+> of cultivation become qualities of the continuum, rather than remaining
+> an isolated episode.
 
 ## 7. Technical Vocabulary
 
-**`Tadhetu` — cause of misconduct**
-
-The greed and other afflictions and secondary afflictions capable of
-generating misconduct. Purity requires more than externally correct output.
-
-**`Tadvipakṣa` — antidote to misconduct**
-
-The contrary practical support identified by the Bhāṣya with grounding in
-the establishments of mindfulness.
-
-**`Śamāśrita` — based upon peace**
-
-The fourth quality of purified discipline. The commentary explains this as
-transformation toward nirvāṇa rather than reliance upon a superior rebirth;
-it is coordinated with the third quality, support by the antidote.
-
-**`Samāhita-kuśala` — concentrated wholesomeness**
-
-Wholesome factors co-arising with what has samādhi as its nature. This is a
-technical relational determination, not merely a loosely calm mental state.
-
-**`Bhāvanā` — cultivation**
-
-Concentrated wholesome activity named from its effect of conditioning the
-mind. A wholesome state becomes cultivation in the full sense when it
-qualitatively transforms the continuing series.
-
-**`Cittavāsanā` — conditioning or perfuming the mind**
-
-The causal function by which present concentrated wholesomeness leaves its
-qualitative determination in the continuum.
-
-**`Tanmayīkaraṇa` — making of that nature**
-
-The Bhāṣya's strong explanation: cultivation makes the `saṃtati` of the
-nature of the wholesome qualities. It is stronger than temporary possession
-of a passing state.
-
-**`Saṃtati` — causal continuum**
-
-The series transformed through cultivation. Continuity and acquired
-qualitative form are explained without requiring a permanent self.
+- **`Dauḥśīlya`** — misconduct; the first hemistich describes purified
+  discipline as unharmed by it.
+- **`Tadhetu`** — cause of misconduct, identified in the Bhāṣya as greed
+  and other afflictions and secondary afflictions.
+- **`Tadvipakṣa`** — counteragent to misconduct; the preceding Bhāṣya
+  identifies its support with the establishments of mindfulness.
+- **`Śamāśrita`** — resting on peace; explained as directed toward
+  nirvāṇa rather than a particular rebirth.
+- **`Samāhita-kuśala`** — wholesome factor with the nature of concentration
+  and co-arising with it.
+- **`Bhāvanā`** — cultivation, defined by its conditioning effect on
+  Consciousness.
+- **`Citta-vāsanā`** — conditioning or “perfuming” Consciousness.
+- **`Saṃtati`** — continuing series or continuum, which comes to partake
+  of the cultivated qualities.
+- **`Tanmayīkaraṇa`** — making the continuum partake of that nature; the
+  Bhāṣya's explanation of how the qualities condition the series.
 
 ## 8. Logical Determination
 
-Purified discipline has a negative-positive structure:
+The first half presents four qualities of purified discipline:
 
 ```text
-NotDamagedBy(Misconduct)
-NotDamagedBy(AfflictiveCauses)
-GroundedIn(MindfulnessAntidote)
-DirectedToward(Nirvana)
+unharmed by misconduct
+unharmed by its causes
+grounded in the counteragent
+resting on peace and directed toward nirvāṇa
 ```
 
-Cultivation is defined functionally:
+The second half defines cultivation by its operation:
 
 ```text
-WholesomeFactors(x)
-    + CoArisesWithSamadhi(x)
-    + IntenselyConditionsMind(x)
-    → Cultivation(x)
+wholesome factor
+    + nature of concentration and co-arising with it
+    → conditions Consciousness
+    → the continuum partakes of its qualities
 ```
 
-Its recursive causal form is:
-
-```text
-Citta produces ConcentratedWholesomeness
-    → ConcentratedWholesomeness conditions Citta
-    → Continuum becomes of that wholesome quality
-    → Future citta is disposed toward corresponding activity
-```
-
-Therefore:
-
-```text
-OccurrenceOfWholesomeState
-    does not entail
-TransformationOfContinuum
-```
-
-The latter is the distinctive determination of `bhāvanā`.
+The sesame analogy represents a change in the continuum's qualities,
+not the replacement of that continuum by a different substance.
 
 ## 9. Interpretive Note
 
-VAK 4.123 is the hinge between discipline and cultivation. The first
-hemistich completes the purification architecture prepared in 4.122; the
-second introduces the third merit-basis as a recursive transformation of the
-mental continuum.
+VAK 4.122 treats discipline as abstention in two modes and announces the
+four qualities of purified discipline. VAK 4.123 completes that account,
+then defines cultivation as concentrated wholesomeness that conditions
+Consciousness. The distinction between `citta` (Consciousness) and
+`manas` (Mind) remains in force: the Bhāṣya says the former is conditioned,
+not that Mind or a Base is the subject of this transformation.
 
-The Bhāṣya's formula is extraordinarily close to the project's conception of
-a Samyama Bhūmi:
+Read with your stated practice of Samādhi as Dhyāna, Śamatha, and
+Vipaśyanā, the passage supplies a criterion of cultivation: concentrated
+wholesomeness must condition Consciousness and the continuing series.
+Those three practice terms are your project framing; the verse itself
+does not enumerate them.
 
-```text
-wholesome principle conjoined with samādhi
-    → intensive application within citta
-    → qualitative conditioning across the continuum
-    → continuum made tanmaya with those qualities
-    → future Jñāna and Kriyā arise from the formed ground
-```
-
-Thus Samyama is Practical Reason not merely because it selects an action but
-because concentrated application recursively forms the faculty that will
-perform and know. Bhāvanā is the passage from a good occurrence to a stable
-world-producing disposition. The flower does not replace the sesame; through
-sustained relation, the sesame itself becomes fragrant.
-
-The three merit-bases now display a systematic ascent from external relation,
-through disciplined negation, to positive formation of the subjective
-instrument. This Organon synthesis is reconstructive. The source doctrine is
-the definition of cultivation through concentrated wholesomeness and
-mind-conditioning of the causal continuum.
+The local Bhāṣya span is `[273|23]–[274|04]`; the first hemistich was
+quoted and explained with 4.122. At `[274|03–04]`, the commentary turns
+to the results of discipline and cultivation, the subject of 4.124.
 
 ## 10. OWL++ Seed
 
-```ttl
-vak:VAK_4_123 a vak:Karika ;
-    rdfs:label "VAK 4.123" ;
-    vak:continues vak:VAK_4_122 ;
-    vak:hasTopic vak:PurifiedDiscipline,
-                 vak:MentalCultivation .
+```text
+Class: PurifiedDiscipline
+Class: ConcentratedWholesomeness
+Class: Cultivation
+Class: Consciousness
+Class: ContinuingSeries
+Class: CultivatedQualities
 
-vak:PurifiedDiscipline
-    vak:notDamagedBy vak:Misconduct,
-                     vak:AfflictiveCauses ;
-    vak:groundedIn vak:MindfulnessAntidote ;
-    vak:directedToward vak:Nirvana .
+Rule: CultivationConditionsConsciousness
+  ConcentratedWholesomeness -> Cultivation
+  Cultivation -> conditions Consciousness
+  Consciousness -> ContinuingSeriesPartakesOf CultivatedQualities
 
-vak:MentalCultivation
-    vak:definedAs vak:ConcentratedWholesomeness ;
-    vak:hasFunction vak:ConditionsMind,
-                    vak:TransformsContinuum .
-
-vak:ConcentratedWholesomeness
-    vak:coArisesWith vak:Samadhi ;
-    vak:makesContinuumOfNature vak:WholesomeQualities .
-
-vak:MindConditioning
-    vak:hasAnalogy vak:FlowersPerfumingSesame .
+Attribution: FlowerAndSesameAnalogy
+  source = Bhāṣya
 ```

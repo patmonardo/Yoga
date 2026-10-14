@@ -1,4 +1,4 @@
-# VAK 4.101 Bhāṣya — Division of the Dharma Wheel and Communal Action
+# VAK 4.101 Bhāṣya — Division of the Dharma Chakra and Communal Action
 
 ## 1. Kārikā Anchor
 
@@ -7,13 +7,10 @@ cakrabhedaḥ sa ca mato jambūdvīpe navādibhiḥ /
 karmabhedas triṣu dvīpeṣv aṣṭabhir adhikaiś ca saḥ // 4.101 //
 ```
 
-> That division is held to be division of the wheel; in Jambūdvīpa it is
-> brought about by nine or more. Division of communal action occurs in the
-> three continents with eight or more.
-
-The verse distinguishes a rupture in the operation of the Dharma wheel
-from a division in the Saṅgha's formal communal acts. Their locus and
-minimum numbers differ.
+> The division of the Dharma Chakra described in the preceding verses is
+> held to be wheel-division in Jambūdvīpa with nine or more monks; division
+> of communal action occurs in the three continents where the Teaching is
+> established, with eight or more monks.
 
 ## 2. Continuous Sanskrit
 
@@ -22,139 +19,102 @@ yo 'yaṃ saṃghabheda uktaḥ
 
 cakrabhedaḥ sa ca mataḥ
 
-dharmacakraṃ hi tadā bhagavato bhinnaṃ bhavati,
-mārgapravṛttiviṣṭhāpanāt. ata eva cakrabhedaś cocyate
-saṃghabhedaś ca.
+dharmacakraṃ hi tadā bhagavato bhinnaṃ bhavati /
+mārgapravṛttiviṣṭhāpanāt /
+ata eva cakrādaścocyate saṃghabhedaś ca /
 
 kva punaś cakrabhedo bhavati?
 
 jambūdvīpe
 
-nānyeṣu dvīpeṣu. katibhir bhikṣubhiḥ?
+nānyeṣu dvīpeṣu /
+katibhir bhikṣubhiḥ?
 
 navādibhiḥ /
 
-navādiṃ kṛtvā pareṇāniyamaḥ. aṣṭau bhikṣayaḥ saṃgho bhavati,
-navamo bhettā. avaśyaṃ hi saṃghena dvayoḥ pakṣayoḥ sthātavyam.
-evaṃ bhinno bhavati.
+navādiṃ kṛtvā pareṇāniyamaḥ /
+aṣṭau bhikṣayaḥ saṃgho bhavati /
+navamo bhettā /
+avaśyaṃ hi saṃghena dvayoḥ pakṣayoḥ sthātavyam /
+evaṃ bhinno bhavati /
 
-anyas tu saṃghabhedaḥ karmabhedād bhavati. yady ekasīmāyāṃ vyagrāḥ
-karma kurvanti, sa caiṣa
+anyas tu saṃghabhedaḥ karmabhedād bhavati /
+yady ekasīmāyāṃ vyagrāḥ karma kurvanti /
+sa caiṣa
 
 karmabhedas triṣu dvīpeṣu
 
-yeṣv eva śāsanam. katibhir bhikṣubhiḥ?
+yeṣv eva śāsanam /
+katibhir bhikṣubhiḥ?
 
 aṣṭābhir adhikaiś ca saḥ // 4.101 //
 ```
 
-The source at `[261|25–26]` has an irregular compressed phrase after the
-explanation of the Dharma wheel. The Sanskrit above gives its secure
-contextual sense—that the occurrence is called both wheel-division and
-Saṅgha-division—without relying on the damaged exact form. Other sandhi
-and word divisions are editorial.
+The unit begins with `yo 'yaṃ saṃghabheda uktaḥ` at `[261|23]`, after
+the preceding sentence about reunion, and ends with the verse at
+`[262|09]`. In the witness, `ata eva cakrādaścocyate` is irregular;
+the context identifies the names as `cakrabheda` and `saṃghabheda`.
+Word division and punctuation are editorial.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Scientific English Rendering
 
-The Saṅgha division just described is held to be division of the wheel.
-The Blessed One's Dharma wheel is divided then because the occurrence of
-the Path is interrupted. Hence it is called both division of the wheel and
-division of the Saṅgha.
+The Saṅgha division just described is held to be division of the Dharma
+Chakra. For the Blessed One's Dharma Chakra is then divided through
+displacement of the operation of the Path. Therefore it is called both
+wheel-division and Saṅgha-division.
 
-Where does this division of the wheel occur? In Jambūdvīpa, not in the
-other continents. Through how many monks? Nine or more. Nine is the lower
-bound; there is no fixed upper bound. Eight monks constitute the Saṅgha
-on the two sides, and the ninth is the divider. The community must stand
-in two parties; thus it becomes divided.
+Where does division of the Dharma Chakra occur? In Jambūdvīpa, not in the
+other continents. With how many monks? With nine or more.
 
-There is another division of the Saṅgha, arising through division of
-communal action. It occurs if members perform communal acts separately
-within one boundary (`sīmā`). This division of action occurs in the three
-continents in which the teaching is established. Through how many monks?
-Eight or more.
+Starting with nine, there is no upper limit. Eight monks constitute a
+Saṅgha, and the ninth is the divider. For the Saṅgha must necessarily
+stand in two parties. In this way it is divided.
 
-## 4. Division of the Dharma Wheel
+Another Saṅgha division occurs through division of communal action. If
+they perform communal actions in a divided manner within one boundary, this
+is division of communal action. It occurs in the three continents where
+the Teaching exists. With how many monks? With eight or more, as the verse
+says.
 
-`Cakrabheda` is the technical designation for the division treated in
-4.98–4.100: members accept a rival teacher and path. The Bhāṣya now
-specifies its effect as `mārgapravṛttiviṣṭhāpana`, interruption of the
-Path's ongoing operation.
+## 4. The Two Divisions
 
-```text
-assent to another teacher and path
-    → Saṅgha divided
-    → operation of the Dharma wheel interrupted
-```
+| Feature | `Cakrabheda` | `Karmabheda` |
+|---|---|---|
+| What is divided | The Dharma Chakra, through displacement of the Path's operation | The Saṅgha's communal action |
+| Location | Jambūdvīpa, not the other continents | The three continents where the Teaching exists |
+| Number | Nine or more monks | Eight or more monks |
+| Numerical explanation | Eight monks constitute a Saṅgha; a ninth is the divider; two parties must be represented | The Bhāṣya gives the threshold but no further group distribution |
+| Local condition | Division of the wheel tied to displacement of the Path's operation | Separate or discordant communal action within one boundary |
 
-This is a division of governing teaching, not just a quarrel among monks.
-The claim remains specific to the source's Dharmacakra account.
+The first count does not establish four monks in each party. The second
+count is not explained as two groups of four. Those numerical
+distributions should not be supplied as if stated by the Bhāṣya.
 
-## 5. Place and Number for Wheel Division
+In `karmabheda`, *karman* is the communal action performed by the Saṅgha.
+It is not the divider's culpable action discussed in the preceding verses,
+nor the later maturation of that action.
 
-The place is Jambūdvīpa. The commentary expressly excludes the other
-continents.
+## 5. Interpretation
 
-The minimum number is nine:
+The Bhāṣya distinguishes two collective conditions rather than treating
+all division as one generic schism. In `cakrabheda`, the Dharma Chakra is
+divided through displacement of the Path's operation. In `karmabheda`,
+communal action is divided within a shared boundary. The named object of
+division, spatial range, and participant threshold differ.
 
-```text
-eight monks → community occupying two sides
-ninth monk  → divider
-```
+This offers a bounded test for the BEP-protocol insight: the passage
+distinguishes what is divided and specifies the shared institutional
+support for one kind of division. That relation is suggestive for the
+Organon, but the Bhāṣya itself does not state a complete
+Base–Essence–Principle protocol here. Its local use of *karman* also
+reminds us to read action by its grammatical and institutional function,
+not automatically as ethical action with maturation.
 
-The text gives no fixed maximum. Its numerical rule is not merely a
-headcount; two parties must actually be constituted. Without that
-division into sides, the nine persons would not yet instantiate the
-collective rupture under discussion.
+## 6. Review Status
 
-## 6. Division of Communal Action
-
-`Karmabheda` has a different completion condition: monks within **one
-formal boundary** perform the Saṅgha's communal action separately.
-
-```text
-one sīmā
-    + separated groups
-    + distinct performances of communal karma
-        → karmabheda
-```
-
-It can occur in the three human continents where the teaching is present
-and requires eight or more monks. The eight-person minimum is explicit.
-The familiar picture of two groups of four is a plausible explanation of
-the count, but the local Bhāṣya does not state that construction in words.
-
-The two divisions should not be collapsed. A community can divide in its
-formal performance without the specific rival-teacher-and-path assent
-required for `cakrabheda`.
-
-## 7. Organon Contact Point
-
-The Causal Algebra for Agency gains two collective failure modes:
-
-```text
-PrincipleDivision {
-    governingTeacherAndPath: contested
-    pathOperation: interrupted
-}
-
-ActionDivision {
-    formalBoundary: shared
-    communalAction: separatelyPerformed
-}
-```
-
-The first changes the community's governing rationale. The second changes
-how one bounded community executes its acts. Both affect collective unity,
-but their predicates have different conditions and cardinalities.
-
-This is the Organon reconstruction. Jambūdvīpa, the three continents, the
-minimum numbers, and the interruption of the Dharma wheel belong to the
-Bhāṣya.
-
-## 8. Review Status
-
-The complete 4.101 unit `[261|23]–[262|09]` is included. It covers the
-two kinds of division, their loci, minimum numbers, and distinct completion
-conditions. It stops before 4.102 begins the six timing exclusions at
-`[262|10]`. The irregular witness phrase is marked, and the four-plus-four
-explanation is identified as an inference.
+The complete 4.101 unit `[261|23]–[262|09]` is included. It identifies
+the preceding division as `cakrabheda`, explains its effect on the Dharma
+Chakra, gives the distinct conditions, locations, and numerical thresholds
+for `cakrabheda` and `karmabheda`, and stops before the next topic at
+`[262|10]`. The irregular witness phrase `cakrādaścocyate` and the
+unspecified group distributions are explicitly marked.

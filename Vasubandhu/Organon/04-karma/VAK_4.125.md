@@ -1,4 +1,4 @@
-# VAK_4.125 — Dharma-Giving and Three Directions of Wholesome Action
+# VAK 4.125 — Dharma-Giving and Three Orientations of Wholesome Activity
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -9,260 +9,211 @@
 
 ## 2. Sanskrit (IAST)
 
-```text
-dharmadānaṃ yathābhūtasūtrādyakliṣṭadeśanā |
-puṇyanirvāṇanirvedhabhāgīyaṃ kuśalaṃ tridhā || 4.125 ||
+```iast
+dharmadānaṃ yathābhūtasūtrādyakliṣṭadeśanā /
+puṇyanirvāṇanirvedhabhāgīyaṃ kuśalaṃ tridhā // 4.125 //
 ```
 
 ## 3. Lexical Analysis
 
 ```text
-dharma-dānam | yathā-bhūta-sūtra-ādi-akliṣṭa-deśanā |
+dharma-dānam | yathābhūta-sūtra-ādi-akliṣṭa-deśanā |
 puṇya-nirvāṇa-nirvedha-bhāgīyam | kuśalam | tridhā
 ```
 
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
-| `dharmadānam` | nominative singular neuter | the gift of Dharma |
-| `yathābhūta` | compound member | according to actuality, as it really is |
-| `sūtrādi` | compound member | sūtra and the other teachings |
-| `akliṣṭa` | compound member adjective | unafflicted, not governed by affliction |
-| `deśanā` | nominative singular feminine | exposition, instruction, pointing-out |
-| `puṇyabhāgīyam` | nominative singular neuter adjective | belonging to merit |
-| `nirvāṇabhāgīyam` | nominative singular neuter adjective | belonging to nirvāṇa or liberation |
-| `nirvedhabhāgīyam` | nominative singular neuter adjective | belonging to penetration or breakthrough |
+| `dharmadānam` | nominative singular neuter | the gift of Dharma; Dharma-giving |
+| `yathābhūta` | indeclinable compound member | as things are; according to actuality |
+| `sūtrādi` | compound member | sūtra and related teachings |
+| `akliṣṭa` | compound member adjective | unafflicted |
+| `deśanā` | nominative singular feminine | exposition or teaching |
+| `puṇya` | compound member | merit |
+| `nirvāṇa` | compound member | nirvāṇa |
+| `nirvedha` | compound member | penetration |
+| `bhāgīya` | compound member adjective | oriented toward or belonging to |
 | `kuśalam` | nominative singular neuter | wholesome activity |
 | `tridhā` | indeclinable | threefold |
 
-**Two necessary determinations of Dharma-giving**
-
-```text
-yathābhūta  → fidelity of the teaching to its actual determination
-akliṣṭa     → purity of the mind and purpose governing exposition
-```
-
-Neither can substitute for the other.
+The compound in the first half defines Dharma-giving through exposition:
+the teachings are presented as they are, and the exposition is
+unafflicted. The second half classifies wholesome activity by three
+different orientations.
 
 ## 4. Grammar
 
-**Nominal definition of Dharma-giving**
+The first half gives a nominal definition:
 
 ```text
 yathābhūta-sūtrādi-akliṣṭa-deśanā
     dharmadānam [asti]
 ```
 
-> The unafflicted exposition of sūtra and the other teachings as they really
-> are is the gift of Dharma.
+> The unafflicted exposition of sūtra and related teachings as they are
+> is Dharma-giving.
 
-`Yathābhūta` determines the truthfulness of the content as expounded;
-`akliṣṭa` determines the act of exposition. The Bhāṣya explicitly contrasts
-distorted teaching with teaching motivated by gain, honor, or fame.
-
-**Threefold teleological classification**
+The second half predicates a threefold division of wholesome activity:
 
 ```text
 kuśalam
-    puṇyabhāgīyam
-    nirvāṇabhāgīyam
-    nirvedhabhāgīyam ca
+    puṇya-bhāgīyam
+    nirvāṇa-bhāgīyam
+    nirvedha-bhāgīyam
     tridhā [bhavati]
 ```
 
-The shared `-bhāgīya` expresses participation in or orientation toward three
-different results and developmental positions, not three synonyms for
-wholesomeness.
+The Bhāṣya explains the three orientations as merit with desirable
+maturation, liberation-oriented wholesomeness that establishes certainty
+of final nirvāṇa, and penetration-oriented wholesomeness in a fourfold
+sequence beginning with `uṣman`.
 
 ## 5. Translation
 
-### Literal Translation
+### Scientific English Rendering
 
-> The gift of Dharma is the unafflicted exposition of sūtra and the other
-> teachings as they really are. Wholesome activity is threefold: belonging to
-> merit, belonging to nirvāṇa, and belonging to penetration.
+> Dharma-giving is the unafflicted exposition of sūtra and related
+> teachings as they are. Wholesome activity is threefold: merit-oriented,
+> nirvāṇa-oriented, and penetration-oriented.
 
 ### Bhāṣya-informed study translation
 
-> Dharma-giving consists in expounding the sūtras and related teachings
-> faithfully to their actual meaning and without an afflicted purpose.
-> Teaching an inverted Dharma, or teaching even correct doctrine while
-> seeking gain, honor, or fame, causes a great loss of merit. Wholesome
-> activity is also classified by its developmental direction: merit-oriented
-> wholesomeness has desirable maturation; liberation-oriented wholesomeness
-> establishes certainty of eventual final nirvāṇa; and
-> penetration-oriented wholesomeness comprises the four preparatory stages
-> beginning with `uṣman`, to be explained later.
+> Dharma-giving is the unafflicted exposition of sūtra and related
+> teachings as they are. Wholesome activity is threefold: merit-oriented,
+> nirvāṇa-oriented, and penetration-oriented. The Bhāṣya says that
+> exposition of an inverted Dharma, or exposition with an afflicted mind
+> seeking gain, honor, or fame, causes a great loss of merit. It explains
+> merit-oriented wholesomeness as having desirable maturation;
+> liberation-oriented wholesomeness, when it arises, makes one certain to
+> be destined for final nirvāṇa; and penetration-oriented wholesomeness as
+> the fourfold sequence beginning with `uṣman`, which it will explain
+> later. The Bhāṣya also treats horripilation and tears on hearing a
+> teaching about saṃsāra's drawbacks, non-self, and nirvāṇa's qualities
+> as a sign of an existing liberation-oriented wholesome root, like a
+> sprout indicating a seed.
 
-The named corrupt motives, great loss of merit, definitions of the first two
-classes, and anticipation of the four penetration-stages are supplied by the
-Bhāṣya.
+The verse states the three orientations; the explanation of their
+respective characteristics, the teaching-response sign, and the warning
+about afflicted exposition come from the Bhāṣya.
 
 ## 6. Philosophical Translation
 
-> Teaching becomes a genuine gift only through the unity of truth and
-> practical purity. The representation must preserve the determination of
-> what is taught, while the communicative act must be governed by the end of
-> making that determination available rather than by appropriation of gain,
-> status, or reputation. The wholesome activity thereby awakened may improve
-> conditioned existence, establish an irreversible orientation toward
-> liberation, or enter the determinate sequence of penetrative breakthrough.
-> These are genetically connected but logically distinct positions in the
-> formation of the continuum.
-
-The transmission structure is:
-
-```text
-semantic fidelity
-    + unafflicted purpose
-    + actual exposition
-    → valid Dharma-giving
-    → possible transformation of another continuum
-```
+> Dharma-giving is not mere transmission of words. It requires teaching
+> as things are and an unafflicted act of exposition. The two conditions
+> meet in a volitional practice: the teaching's content is not inverted,
+> and its communication is not governed by the speaker's pursuit of gain,
+> honor, or fame. Wholesome activity likewise has distinct directions:
+> it may organize desirable maturation, establish a course toward final
+> nirvāṇa, or enter the sequence of penetration. The Bhāṣya's image of a
+> sprout disclosing a seed makes a response to teaching evidence of an
+> already-present root, not a substitute for that root.
 
 ## 7. Technical Vocabulary
 
-**`Āmiṣadāna` — material giving**
-
-The topic explicitly declared complete by the Bhāṣya before the transition to
-Dharma-giving.
-
-**`Dharmadāna` — gift of Dharma**
-
-Making liberating teaching available through a faithful and unafflicted act
-of exposition. It gives not merely propositions but a means of discernment,
-practice, and transformation.
-
-**`Yathābhūta` — according to actuality**
-
-The semantic truth-condition of transmission. Exposition must preserve the
-teaching's actual distinctions and qualifications rather than invert them.
-
-**`Akliṣṭadeśanā` — unafflicted exposition**
-
-The agential purity-condition. Correct verbal content does not alone complete
-Dharma-giving when exposition is governed by gain, honor, or fame.
-
-**`Viparītadharma-deśanā` — inverted exposition of Dharma**
-
-Teaching that distorts the determination communicated. The Bhāṣya associates
-it with a great loss of merit.
-
-**`Puṇyabhāgīya` — belonging to merit**
-
-Wholesome activity whose defining causal orientation is a desirable
-maturation within conditioned existence.
-
-**`Nirvāṇabhāgīya` or `mokṣabhāgīya` — belonging to liberation**
-
-Wholesomeness upon whose arising the continuum becomes certain eventually to
-attain final nirvāṇa. The Bhāṣya uses `mokṣabhāgīya` as its explanatory term.
-
-**`Nirvedhabhāgīya` — belonging to penetration**
-
-The fourfold breakthrough-oriented sequence beginning with `uṣman`. Its full
-analysis is explicitly deferred by the Bhāṣya.
-
-**`Parinirvāṇadharman` — destined by nature for final nirvāṇa**
-
-The certainty established by the arising of a liberation-oriented wholesome
-root; it is not yet the achieved result itself.
+- **`Dharmadāna`** — Dharma-giving through exposition of sūtra and related
+  teachings.
+- **`Yathābhūta`** — as things are; the exposition must not invert the
+  teaching's determination.
+- **`Akliṣṭa`** — unafflicted. The Bhāṣya contrasts this with an afflicted
+  mind seeking gain, honor, or fame.
+- **`Puṇyabhāgīya`** — merit-oriented wholesomeness, characterized here by
+  desirable maturation.
+- **`Nirvāṇabhāgīya`** — the verse's term for the second orientation. The
+  Bhāṣya glosses it with `mokṣabhāgīya`, liberation-oriented.
+- **`Nirvedhabhāgīya`** — penetration-oriented wholesomeness; the Bhāṣya
+  identifies its fourfold sequence as beginning with `uṣman`.
+- **`Kuśala`** — wholesome, a technical classification rather than a
+  general judgment that something is simply good.
+- **`Cetanā`** — volition is not named in this verse. The interpretive
+  emphasis on the speaker's purpose follows the Bhāṣya's description of an
+  afflicted mind and its desires, without substituting `cetanā` for the
+  source's terms.
 
 ## 8. Logical Determination
 
-Valid Dharma-giving requires a conjunction:
+The Bhāṣya makes Dharma-giving depend on both what is taught and how it is
+expounded:
 
 ```text
-FaithfulContent(t)
-    + UnafflictedPurpose(t)
-    + ActualExposition(t)
-    → DharmaGiving(t)
+exposition as things are
+    + unafflicted exposition
+    → Dharma-giving
+
+inverted Dharma
+    or exposition with an afflicted, reward-seeking mind
+    → great loss of merit
 ```
 
-The two principal failure modes are:
+It distinguishes two threefold classifications:
 
 ```text
-DistortedContent(t)  → not CompleteDharmaGiving(t)
-AfflictedPurpose(t)  → not CompleteDharmaGiving(t)
+according to bases of meritorious activity:
+    giving | discipline | cultivation
+
+according to wholesome activity's orientation:
+    merit | nirvāṇa | penetration
 ```
 
-The three wholesome orientations are:
+The second classification adds another axis; it does not cancel or replace
+the first. The three orientations are distinguished by their stated
+developmental character:
 
 ```text
-MeritOriented(k)       → DesirableMaturation
-LiberationOriented(k)  → CertaintyOfFinalNirvana
-PenetrationOriented(k) → FourfoldBreakthroughSequence
-```
-
-Their difference is qualitative:
-
-```text
-BetterConditionedResult
-    ≠ IrreversibleLiberativeOrientation
-    ≠ ImmediatePreparatoryPenetration
+merit       → desirable maturation
+nirvāṇa     → certainty of a course toward final nirvāṇa
+penetration → fourfold sequence beginning with uṣman
 ```
 
 ## 9. Interpretive Note
 
-VAK 4.125 returns from the fruits of giving, discipline, and cultivation to
-the act of transmitting the principle itself. The verse is almost a charter
-for the controlled Kośa method: Dharma must be presented `yathābhūta`, with
-text, qualification, and uncertainty preserved, while the exposition must
-remain `akliṣṭa`, governed by the work of disclosure rather than external
-reward.
+VAK 4.125 turns from material giving to Dharma-giving, then distinguishes
+three orientations of wholesome activity. The first definition makes
+transmission answerable both to the teaching's content and to the
+condition of its exposition. The Bhāṣya's critique is specific: inverted
+teaching and teaching driven by an afflicted pursuit of gain, honor, or
+fame cause loss of merit. It does not license inferring a speaker's
+motives from disagreement alone.
 
-This has a direct Organon consequence:
+The Bhāṣya's two classifications should remain distinct. Giving,
+discipline, and cultivation describe bases of meritorious activity;
+merit, nirvāṇa, and penetration describe the orientation of wholesome
+activity. Its example of horripilation and tears is an evidentiary sign
+of a liberation-oriented root, compared to a sprout revealing a seed.
+It is not presented as the definition of that root or as a criterion that
+every hearer must display.
 
-```text
-textual representation
-    → systematic determination of meaning
-    → unafflicted communicative enactment
-    → another agent receives a principle of seeing
-    → practice may generate a new developmental course
-```
+In the Organon reading, the passage makes the speaker's volitional
+orientation relevant to Dharma-giving without naming `cetanā` or
+redefining the verse through that term. This preserves the user's
+emphasis on volition while keeping the technical claim at the level the
+Bhāṣya supplies.
 
-The gift is therefore not an isolated lexical item. It is an articulated
-instrument capable of enabling the hearer to recognize saṃsāra's defects,
-selflessness, nirvāṇa's qualities, and eventually the structure of the Path.
-This is how a Dharma speaker can give the `prajñācakṣus` described at 4.118.
-
-The threefold wholesome then locates the result genetically. `Puṇya` improves
-the conditioned field; `mokṣabhāgīya` establishes the course toward final
-release; `nirvedhabhāgīya` enters the determinate Schema of breakthrough. A
-single word “wholesome” cannot replace these positions in the system.
-
-The Organon application is reconstructive. The source doctrine strictly
-requires truthful and unafflicted exposition and distinguishes the three
-developmental orientations of wholesome activity.
+The Bhāṣya unit covers `[274|14]–[274|23–24]`. It begins by closing the
+discussion of material giving and ends by deferring the four stages of
+penetration for later explanation. The next topic, at `[275|01]`, asks
+about writing, seals, calculation, poetry, and number.
 
 ## 10. OWL++ Seed
 
-```ttl
-vak:VAK_4_125 a vak:Karika ;
-    rdfs:label "VAK 4.125" ;
-    vak:continues vak:VAK_4_124 ;
-    vak:hasTopic vak:DharmaGiving,
-                 vak:ThreeWholesomeOrientations .
+```text
+Class: DharmaGiving
+Class: FaithfulExposition
+Class: UnafflictedPurpose
+Class: WholesomeActivity
+Class: MeritOrientedWholesomeness
+Class: NirvāṇaOrientedWholesomeness
+Class: PenetrationOrientedWholesomeness
+Class: LiberationOrientedWholesomeRoot
 
-vak:DharmaGiving
-    vak:requires vak:FaithfulExposition,
-                 vak:UnafflictedPurpose,
-                 vak:ActualCommunication .
+Rule: DharmaGiving
+  FaithfulExposition + UnafflictedPurpose -> DharmaGiving
 
-vak:DistortedDharmaExposition
-    vak:causes vak:GreatLossOfMerit .
+Rule: ThreeOrientations
+  WholesomeActivity -> MeritOrientedWholesomeness
+  WholesomeActivity -> NirvāṇaOrientedWholesomeness
+  WholesomeActivity -> PenetrationOrientedWholesomeness
 
-vak:AfflictedDharmaExposition
-    vak:motivatedBy vak:Gain,
-                    vak:Honor,
-                    vak:Fame .
-
-vak:MeritOrientedWholesomeness
-    vak:hasCharacteristicResult vak:DesirableMaturation .
-
-vak:LiberationOrientedWholesomeness
-    vak:establishes vak:CertaintyOfFinalNirvana .
-
-vak:PenetrationOrientedWholesomeness
-    vak:hasStageCount "4" ;
-    vak:beginsWith vak:Usman .
+Attribution: Bhāṣya
+  MeritOrientedWholesomeness -> DesirableMaturation
+  NirvāṇaOrientedWholesomeness -> CertaintyOfFinalNirvāṇa
+  PenetrationOrientedWholesomeness -> FourfoldSequenceBeginningWithUṣman
 ```

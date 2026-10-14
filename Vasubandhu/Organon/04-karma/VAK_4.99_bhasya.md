@@ -1,179 +1,137 @@
-# VAK 4.99 Bhāṣya — The Divider's Speech and Its Result
+# VAK 4.99 Bhāṣya — The Divider's Culpable Speech and Its Maturation
 
 ## 1. Kārikā Anchor
 
 ```iast
-sadavadyaṃ mṛṣāvādas tena bhettā samanvitaḥ /
+tad-avadyaṃ mṛṣāvādas tena bhettā samanvitaḥ /
 avīcau pacyate kalpam adhikair adhikā rujaḥ // 4.99 //
 ```
 
-> The culpable factor there is false speech, with which the divider is
-> endowed. The divider undergoes maturation in Avīci for a kalpa; with
-> additional immediate-result acts, the pains increase.
+### Bhāṣya-informed study translation
 
-The verse answers the question left by 4.98: the Saṅgha bears the state of
-division, so what does its divider bear? The Bhāṣya identifies the
-culpable verbal action and then specifies its maturation.
+> The culpable action that produces the Saṅgha's division is false speech,
+> and it is this verbal action—not the community's condition of non-concord—
+> that belongs to the divider. More precisely, it comprises verbal
+> manifestation and non-disclosing continuity co-arising with the division.
+> This action matures in the great Avīci hell for one intermediate kalpa.
+> When additional actions of *ānantarya* are present, the support becomes
+> denser and more sensitive, and the causes of pain become more numerous and
+> more intense.
 
 ## 2. Continuous Sanskrit
 
 ```iast
-yo hi bhinnas tasya bhedo na bhettuḥ. atha bhettā kena samanvāgataḥ?
+yo hi bhinnaḥ tasya bhedo na bhettuḥ.
+atha bhettā kena samanvāgataḥ?
 
-sadavadyaṃ mṛṣāvādas tena bhettā samanvitaḥ /
+tad-avadyaṃ mṛṣāvādas tena bhettā samanvitaḥ /
 
-saṃghabhedāvadyena bhettā samanvāgataḥ. tat punar mṛṣāvādaḥ.
-sa punaḥ saṃghabhedasahaje vāgvijñaptyavijñaptī.
-
-sa ca tenāvadyena samanvāgato bhettā
+saṃghabhedāvadyena bhettā samanvāgataḥ.
+tat punar mṛṣāvādaḥ.
+sa punaḥ saṃghabhedasahaje vāg-vijñapty-avijñaptī.
+sa ca tenāvadyena samanvāgato bhettā.
 
 avīcau pacyate kalpam
 
-antarakalpam avīcau mahānarake vipacyate. anyais tu nāvaśyam avīcau.
+antarakalpam avīcau mahānarake vipacyate.
+anyais tu nāvaśyam avīcau.
 
-atha yena bahūny ānantaryāṇi kṛtāni bhavanti, anantaram eva tāni
-vipacyante. kiṃ tu tais tasya bhavati?
+atha yena bahūny ānantaryāṇi kṛtāni bhavanti,
+anantaram eva tāni vipacyante?
+kiṃ tu tais tasya bhavati?
 
 adhikair adhikā rujaḥ // 4.99 //
 
 sa hi bhūyobhir ānantaryais tasminn avīcau ghanataraṃ sukumārataraṃ
-cāśrayaṃ labhate; kāraṇāś ca bahutarās tīvratarāś ca, yena
-dvitricatuṣpañcaguṇāṃ vedanāṃ vedayate.
+cāśrayaṃ labhate; kāraṇāś ca bahutarās tīvratarāś ca,
+yena dvitri-catuḥ-pañcaguṇāṃ vedanāṃ vedayate.
 ```
 
-The running witness prints `adhhikair` at `[261|05]`; the kārikā anchor
-normalizes this to `adhikair`. It also prints `kalpan` at `[261|01]`, where
-the research kārikā and syntax support `kalpam`. These repairs are
-recorded here rather than assigned silently to the witness.
+The unit is `[260|22]–[261|07]`. The witness gives `sadavadyam` at
+`[260|23]`, `kalpan` at `[261|01]`, and `adhhikair` at `[261|05]`.
+The kārikā reading `tad-avadyaṃ` and the context support these normalized
+forms: `tad-avadyaṃ`, `kalpam`, and `adhikair`. Word division and sandhi
+are editorial. The study stops before the question about who can divide
+the Saṅgha at `[261|07–08]`.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Scientific English Rendering
 
-The division belongs to what is divided, not to the one who divides it.
-With what, then, is the divider endowed?
+The division belongs to the one divided, not to the divider. With what,
+then, is the divider endowed?
 
-The divider is endowed with the culpable factor associated with Saṅgha
-division. That factor is false speech. More exactly, it is the verbal
-*vijñapti* and *avijñapti* arising together with the division.
+The culpable action associated with that division is false speech, and the
+divider is endowed with it. More precisely, the divider is endowed with the
+culpability associated with Saṅgha division, namely false speech. This
+consists of verbal manifestation and non-disclosing continuity arising
+together with the Saṅgha division. The divider is endowed with that
+culpable action.
 
-Endowed with that culpable action, the divider undergoes maturation in the
-great hell Avīci for an intermediate kalpa. The other immediate-result
-actions do not necessarily mature in Avīci.
+The divider undergoes maturation in Avīci for a kalpa. It matures in the
+great Avīci hell for an intermediate kalpa; the other actions of
+*ānantarya* do not necessarily mature in Avīci.
 
-If a person has committed several immediate-result actions, do they all
-mature in immediate succession? Rather, their additional number increases
-the person's pain. In Avīci such a person acquires a denser yet more
-sensitive bodily basis and undergoes more numerous and more intense causes
-of suffering, experiencing pain twofold, threefold, fourfold, or fivefold.
+If someone has performed many actions of *ānantarya*, do they all mature
+immediately in succession? What then occurs through them? The greater the
+number, the greater the pains. Through many such actions, that person
+obtains a denser and more sensitive support in that same Avīci, and the
+causes are more numerous and more intense, so that the person experiences
+feeling twofold, threefold, fourfold, or fivefold.
 
-## 4. The Bearer of Division and the Bearer of Guilt
+## 4. The Divider's Culpable Action
 
-The source completes the attribution begun in 4.98:
+The Bhāṣya answers the question left by 4.98:
 
 ```text
-Saṅgha → endowed with the divided condition
-divider → endowed with the culpable verbal action
+divider
+    is endowed with culpable false speech
+
+Saṅgha
+    is endowed with the resulting non-concord
 ```
 
-The divided condition is an ethically indeterminate collective dharma.
-The divider's false speech is an unwholesome action. The action and its
-resulting collective state are connected causally while belonging to
-different bearers.
+The action is specified as false speech; the following explanation
+identifies its factors as verbal manifestation and non-disclosing
+continuity arising together with the division. This action is not the
+resulting condition of non-concord.
 
-This explains why the visible term `saṃghabheda` can name both a grave
-action and a collective condition. The Bhāṣya insists on assigning each
-meaning to the correct causal position.
+## 5. Avīci and the Intermediate Kalpa
 
-## 5. Verbal `Vijñapti` and `Avijñapti`
+The verse says `kalpam`; the Bhāṣya clarifies this as one `antarakalpa`,
+an intermediate kalpa, in the great Avīci hell. It explicitly adds that
+the other actions of *ānantarya* do not necessarily mature in Avīci.
+That qualification applies to this stated locus and duration; it should
+not be generalized into a broader account of every such action.
 
-The culpable action is specified as two jointly arising verbal factors:
+## 6. Multiple Actions and Increased Pain
+
+The Bhāṣya asks whether several actions of *ānantarya* mature immediately
+one after another. It answers with the verse's comparison: greater number,
+greater pains. The explanation is increased painfulness in the same Avīci
+field, described through:
 
 ```text
-vāg-vijñapti   — communicative verbal manifestation
-vāg-avijñapti — non-manifest verbal action factor
+denser and more sensitive support
+more numerous and more intense causes
+twofold, threefold, fourfold, or fivefold feeling
 ```
 
-The passage does not let us equate the guilt with the Saṅgha's objective
-non-concord. It places the culpability in the divider's own action,
-including the verbal *avijñapti* that accompanies the decisive occurrence.
+The passage describes intensified maturation, not a string of separate
+immediate births for each action.
 
-This is an important return to the chapter's opening theory. The special
-case of Saṅgha division depends on the same distinction between manifest
-action and the non-manifest factor of action that the Karma chapter first
-established. The exact ontology of *avijñapti* remains the Abhidharma
-problem already studied; this passage specifies its role in the case.
+## 7. Interpretation
 
-## 6. Avīci and Duration
+The source distributes three roles across two related studies: the divider
+performs and bears the culpable verbal action; the Saṅgha bears the
+resulting non-concord; and the divider's later continuum bears the
+maturation. Multiple *ānantarya* actions intensify the stated painful
+experience rather than multiplying the immediate-birth sequence.
 
-The kārikā says `kalpam`; the Bhāṣya specifies `antarakalpam`, an
-intermediate kalpa. It also distinguishes this case from the other
-immediate-result actions, whose maturation is not necessarily in Avīci.
+## 8. Review Status
 
-```text
-Saṅgha-dividing false speech
-    → Avīci for an antarakalpa
-
-other ānantarya actions
-    → Avīci is not required in every case
-```
-
-This is the source's account of karmic maturation, not a general empirical
-law inferable from the visible speech act.
-
-## 7. Additional Actions, Greater Pain
-
-The question asks whether several immediate-result acts must ripen one
-after another. The answer turns to the **intensity of one Avīci
-experience**. The source describes a more susceptible bodily basis and
-more numerous, stronger causes of pain.
-
-```text
-additional grave acts
-    → increased susceptibility and painful conditions
-    → twofold through fivefold suffering
-```
-
-The multiplication is not a simple sum of separately scheduled hell
-births. It is a change in the experienced severity of the result.
-
-## 8. Organon Contact Point
-
-For the Causal Algebra for Agency, 4.99 yields a compact attribution and
-result chain:
-
-```text
-DividerAction {
-    agent: divider
-    medium: speech
-    factors: [vijñapti, avijñapti]
-    quality: unwholesome
-}
-
-CollectiveEffect {
-    bearer: Saṅgha
-    state: nonConcord
-    quality: indeterminate
-}
-
-Maturation {
-    bearer: dividerContinuum
-    intensity: conditionedByAdditionalGraveActions
-}
-```
-
-The useful formal point is that **one act has different relations to
-different bearers**. The divider performs the action; the community bears
-the changed state; the divider's later continuum bears the maturation.
-Agent, affected collective, and future experiencer must remain distinct
-roles in the graph.
-
-This is the Organon reconstruction. The verbal factor ontology, Avīci
-duration, and quantified suffering remain source doctrine.
-
-## 9. Review Status
-
-The complete 4.99 unit `[260|22]–[261|07]` is included. It covers the
-divider's false speech, its verbal `vijñapti` and `avijñapti`, Avīci
-maturation for an intermediate kalpa, and the intensification associated
-with multiple immediate-result actions. It stops before the new question
-about who can divide the Saṅgha at `[261|07–08]`. Witness irregularities
-are recorded explicitly.
+The complete 4.99 unit `[260|22]–[261|07]` is included: the question
+following 4.98, the identification of false speech, its verbal
+manifestation and non-disclosing continuity, Avīci maturation for an
+intermediate kalpa, the distinction concerning other actions of
+*ānantarya*, and increased pain when several such actions are present.
+Witness normalizations are marked. The study stops before the next
+question, about who divides the Saṅgha, at `[261|07–08]`.

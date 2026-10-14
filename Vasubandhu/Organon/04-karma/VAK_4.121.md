@@ -1,4 +1,4 @@
-# VAK_4.121 — Shrine Gifts, Recipient-Free Merit, and Bad Fields
+# VAK 4.121 — Relinquishment, Reception, and the Gift-Seed
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -9,273 +9,197 @@
 
 ## 2. Sanskrit (IAST)
 
-```text
-caitye tyāgānvayaṃ puṇyaṃ maitryādivad agṛhṇati |
-kukṣetre 'pīṣṭaphalatā phalabījāviparyayāt || 4.121 ||
+```iast
+caitye tyāgānvayaṃ puṇyaṃ maitryādivad agṛhṇati /
+kukṣetre 'pīṣṭaphalatā phalabījāviparyayāt // 4.121 //
 ```
 
-The segmentation `maitryādivat | agṛhṇati` is supported by the Bhāṣya:
-merit occurs as with loving-kindness even when there is no recipient who
-accepts or enjoys the gift.
+The form `agṛhṇati` is difficult in the verse. The Bhāṣya reads the
+comparison as merit arising as with loving-kindness even without a
+recipient who accepts or uses the gift.
 
 ## 3. Lexical Analysis
 
 ```text
-caitye | tyāga-anvayam | puṇyam | maitrī-ādi-vat | a-gṛhṇati |
-ku-kṣetre | api | iṣṭa-phalatā | phala-bīja-a-viparyayāt
+caitye | tyāgānvayam | puṇyam | maitryādivat | agṛhṇati |
+ku-kṣetre | api | iṣṭa-phalatā | phala-bīja-aviparyayāt
 ```
 
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `caitye` | locative singular neuter | at or with respect to a shrine |
 | `tyāgānvayam` | nominative singular neuter compound adjective | connected with relinquishment |
 | `puṇyam` | nominative singular neuter | merit |
-| `maitryādivat` | comparative indeclinable | as with loving-kindness and the other immeasurables |
-| `agṛhṇati` | locative expression with negated participial sense | when no one receives |
-| `kukṣetre` | locative singular neuter compound | in a bad or deficient field |
+| `maitryādivat` | comparative indeclinable | as with loving-kindness and the related practices |
+| `agṛhṇati` | transmitted form; syntax is difficult | the Bhāṣya's context supplies absence of a recipient |
+| `kukṣetre` | locative singular neuter compound | in a deficient field |
 | `api` | concessive particle | even |
-| `iṣṭaphalatā` | nominative singular feminine abstract compound | possession of desirable fruit |
-| `phalabījāviparyayāt` | ablative singular compound | because fruit does not reverse the nature of seed |
+| `iṣṭaphalatā` | nominative singular feminine abstract compound | having a desirable result |
+| `phalabījāviparyayāt` | ablatival compound | because fruit does not invert the seed |
 
-**Bhāṣya distinction of two merits**
-
-```text
-tyāgānvaya-puṇya
-    merit connected with the giver's relinquishment
-
-paribhogānvaya-puṇya
-    merit connected with the recipient's use of the gift
-```
-
-A shrine offering has the first but lacks the second.
+The Bhāṣya distinguishes merit connected with relinquishment from merit
+connected with the recipient's use of what is given.
 
 ## 4. Grammar
 
-**Merit without reception**
+The first half states the shrine case and compares it with loving-kindness:
 
 ```text
 caitye
-    agṛhṇati [kasmiṃścit]
+    tyāgānvayaṃ puṇyam
     maitryādivat
-    tyāgānvayaṃ puṇyaṃ [bhavati]
+    [agṛhṇati]
 ```
 
-> At a shrine, when no one receives, there is merit connected with
-> relinquishment, as with loving-kindness and the other immeasurables.
+> At a shrine, there is merit connected with relinquishment, as with
+> loving-kindness, even when no recipient receives the offering.
 
-The locative determines the devotional field. `Tyāgānvayam` qualifies
-`puṇyam`; the comparison shows that actual reception and benefit are not
-necessary conditions for every kind of wholesome causal efficacy.
-
-**Non-inversion in a deficient field**
+This reading of `agṛhṇati` follows the Bhāṣya's explanation. The second
+half states a relation between seed and fruit:
 
 ```text
 kukṣetre api
-    iṣṭaphalatā [bhavati]
-phalabījayoḥ aviparyayāt
+    iṣṭa-phalatā [bhavati]
+phala-bīja-aviparyayāt
 ```
 
-> Even in a bad field, the fruit remains desirable because the fruit does not
-> reverse the nature of its seed.
+> Even in a deficient field, the result is desirable because fruit does
+> not reverse the nature of its seed.
 
-The ablative supplies the causal reason. The Bhāṣya allows field-defect to
-reduce the fruit or make the seed fruitless, but not to invert its ethical
-polarity.
+The Bhāṣya immediately limits this claim: a defective field may reduce
+the fruit or make it absent, but does not make the fruit undesirable.
 
 ## 5. Translation
 
-### Literal Translation
+### Scientific English Rendering
 
-> At a shrine there is merit connected with relinquishment, as with
-> loving-kindness and the others, even when no one receives. Even in a bad
-> field there is desirable fruit, because fruit and seed are not inverted.
+> At a shrine, merit connected with relinquishment arises as with
+> loving-kindness, even without a recipient. Even in a deficient field,
+> there is desirable fruit because fruit does not invert the seed.
 
 ### Bhāṣya-informed study translation
 
-> An offering at a shrine produces merit belonging to relinquishment even
-> though no living recipient accepts or uses the gift, just as loving-kindness
-> and the other immeasurables are meritorious without such reception. The
-> bodily and verbal enactment of devotion is not superfluous: it expresses a
-> more intense devotion than the inward orientation alone. Likewise, giving
-> undertaken from concern for another's welfare retains a desirable fruit
-> even in a deficient field. The field may diminish the fruit or prevent its
-> occurrence, but it does not reverse the wholesome nature supplied by the
-> seed.
+> At a shrine, merit connected with relinquishment arises as with
+> loving-kindness, even without a recipient. Even in a deficient field,
+> there is desirable fruit because fruit does not invert the seed. The
+> Bhāṣya distinguishes merit arising from relinquishment itself from merit
+> arising through the recipient's use of what is given. A shrine offering
+> has the former, not the latter. Merit can also arise from the giver's
+> own mental cultivation, as in loving-kindness and cultivation of right
+> view. Yet an offering or act of honor is not useless: devotion expressed
+> through bodily and verbal action is more intense than devotion alone.
+> A gift-seed moved by the resolve for another's welfare retains desirable
+> fruit in a deficient field, although the field's defect can reduce the
+> fruit or prevent it.
 
-The two kinds of merit, the intensification through enactment, the
-other-welfare orientation, and the field's power to reduce but not invert the
-fruit are Bhāṣya determinations.
+The two kinds of merit, the role of enacted devotion, and the limits of
+the seed-and-field comparison are explained by the Bhāṣya.
 
 ## 6. Philosophical Translation
 
-> Giving has more than one causal channel. The giver's relinquishment can
-> transform the practical relation to possession even where no recipient
-> consumes the object, while actual recipient-use supplies an additional
-> channel when present. Yet the deed is neither purely inward nor wholly
-> controlled by its field: embodied enactment intensifies the originating
-> determination, and the field conditions its realization and magnitude
-> without manufacturing its ethical quality. The fruit preserves the
-> qualitative tendency of the seed through mediation.
-
-The complete distinction is:
-
-```text
-agent's wholesome determination → ethical quality of seed
-bodily and verbal enactment      → intensity of determination
-recipient-field                  → magnitude or effectiveness
-fruit                            → preserves seed-quality
-```
+> Benefit to a recipient is not the only source of merit. Relinquishment
+> has its own causal force, and mental cultivation can generate merit even
+> without a recipient's acceptance. But the bodily or verbal enactment of
+> devotion is not redundant: the Bhāṣya treats it as a stronger expression
+> of the underlying devotion. The field then conditions the result without
+> turning the gift-seed's desirable direction into an undesirable one; it
+> can diminish that result or leave it unrealized.
 
 ## 7. Technical Vocabulary
 
-**`Caitya` — shrine or sacred monument**
-
-The devotional field of an offering made with respect to the departed
-Teacher. No living enjoyer receives the offering, but the Buddha remains its
-intentional object as one formerly possessed of qualities.
-
-**`Tyāga` — relinquishment**
-
-Intentional surrender of appropriative control. Its merit does not require
-that another person physically take possession or consume the object.
-
-**`Tyāgānvaya-puṇya` — merit connected with relinquishment**
-
-The causal channel present in shrine-offering. It arises from relinquishment
-itself.
-
-**`Paribhogānvaya-puṇya` — merit connected with recipient-use**
-
-The additional channel arising from the recipient's enjoyment or use of what
-is given. It is absent in the shrine case.
-
-**`Maitryādi` — loving-kindness and the other immeasurables**
-
-Loving-kindness, compassion, sympathetic joy, and equanimity. The Bhāṣya also
-mentions cultivation of right view as wholesome activity not dependent upon
-external acceptance.
-
-**`Svacittaprabhava` — arising from one's own mind**
-
-The commentary's explanation of merit generated through the agent's own
-wholesome mental determination. This does not make bodily and verbal action
-redundant.
-
-**`Bhakti` — devotion**
-
-The mental cause of shrine-offering. Devotion capable of generating bodily
-and verbal honoring is more intense than devotion remaining at intention
-alone.
-
-**`Parahitādhyāśaya` — orientation toward another's welfare**
-
-The wholesome underlying resolve that determines the giving-seed's basic
-ethical character even when the recipient-field is defective.
-
-**`Phalabījāviparyaya` — non-inversion of fruit and seed**
-
-Fruit does not reverse the qualitative nature of its seed. The Bhāṣya uses
-grape and neem seeds to distinguish qualitative continuity from variation in
-magnitude.
+- **`Caitya`** — shrine or sacred monument; here the object of an offering
+  without a living recipient who uses it.
+- **`Tyāga`** — relinquishment.
+- **`Tyāgānvaya-puṇya`** — merit connected with relinquishment itself.
+- **`Paribhogānvaya-puṇya`** — merit arising through the recipient's use
+  of the thing given.
+- **`Maitryādi`** — loving-kindness and related practices. The Bhāṣya
+  invokes the immeasurables and cultivation of right view as practices
+  that can yield merit without a recipient's acceptance.
+- **`Svacittaprabhava`** — arising from one's own mind; the Bhāṣya's
+  explanation of merit in those practices.
+- **`Bhakti`** — devotion. When it gives rise to bodily and verbal
+  offering or honor, it is more intense than devotion alone.
+- **`Parahitādhyāśaya`** — resolve directed toward another's welfare,
+  which the Bhāṣya identifies as the orientation of the wholesome
+  giving-seed.
+- **`Phalabījāviparyaya`** — non-inversion of fruit and seed.
+- **`Iṣṭaphala`** — desirable fruit; in this passage, it may be reduced
+  or absent because of a defective field, but does not become undesirable.
 
 ## 8. Logical Determination
 
-The first objection is invalid:
+The Bhāṣya distinguishes two channels:
 
 ```text
-NoRecipientUse(g)
+relinquishment itself
+    → relinquishment-connected merit
+
+recipient's use of what is given
+    → use-connected merit
+```
+
+At a shrine, the first is present and the second absent. Therefore:
+
+```text
+no recipient-use
     does not entail
-NoMerit(g)
+no merit
 ```
 
-because:
+The seed and field have different functions:
 
 ```text
-Relinquishment(g) → RelinquishmentConnectedMerit(g)
-RecipientUse(g)   → UseConnectedMerit(g)
+wholesome giving-seed oriented to another's welfare
+    + deficient field
+    → desirable fruit, reduced fruit, or no fruit
+    → not undesirable fruit merely through inversion
 ```
 
-The second causal distinction is:
-
-```text
-SeedQuality(g)  → basic ethical tendency of fruit
-FieldQuality(f) → magnitude or effectiveness of fruit
-```
-
-Therefore:
-
-```text
-WholesomeGivingSeed(g) + DeficientField(f)
-    → DesirableFruit(g), LittleFruit(g), or NoFruit(g)
-    → never UndesirableFruit merely because f is deficient
-```
-
-The Bhāṣya's symmetry between devotion and hostile intention adds:
-
-```text
-Intention alone
-    <
-Intention expressed through body and speech
-```
-
-for both wholesome and unwholesome determination.
+The fruit analogy preserves the seed's qualitative direction while allowing
+the field to condition whether, and to what degree, fruit occurs.
 
 ## 9. Interpretive Note
 
-VAK 4.117–4.120 showed how strongly the field and complete practical
-configuration determine karma. VAK 4.121 now introduces a necessary limit:
-the field is constitutive but not sovereign.
+Read with 4.119–4.120, this passage does not make merit a matter of
+intention alone or of recipient-benefit alone. The Bhāṣya distinguishes
+relinquishment, mental cultivation, enacted devotion, recipient use, and
+field-condition. Its hostile-intention comparison makes enactment
+significant in both directions: an intention expressed through bodily or
+verbal action has more force than intention alone.
 
-```text
-seed supplies qualitative direction
-field supplies conditions of realization
-enactment supplies intensified actuality
-fruit preserves direction through mediation
-```
+The account of merit arising from `svacitta` is a claim about the causal
+role of mental cultivation, not an identification of the whole action with
+Mind. The passage distinguishes the gift, the giver's orientation, the
+recipient's use, and the field; Bases gather content and frames, not Mind
+itself.
 
-This gives a precise form to conditioned dialectic. The deed's ethical
-quality is neither an isolated inner predicate nor an effect imposed by the
-external field. It originates in a determinate practical orientation, becomes
-more actual through bodily and verbal expression, and is conditioned—possibly
-down to fruitlessness—by the field without being converted into its opposite.
-
-The two causal channels also refine Schema Inference. A practical circuit can
-close through genuine relinquishment even when the recipient-use branch is
-absent. Samyama must therefore discriminate which determinations are
-essential to this act-type and which constitute additional realizations of
-its end; it cannot demand one uniform empirical schema for every form of
-giving.
-
-This Organon interpretation is reconstructive. The source doctrine is the
-distinction between relinquishment-connected and use-connected merit, the
-intensifying role of enactment, and the non-inversion of wholesome seed by a
-defective field.
+The source span is `[272|04]–[273|01]`. The witness has `tyāgānvyaṃ`
+at `[272|07]`, normalized as `tyāgānvayaṃ`, and a compressed form near
+`dānakriyāvīja` at `[272|19–20]`. The interpretation of `agṛhṇati`
+follows the Bhāṣya's no-recipient explanation. The giving-based merit
+discussion closes at `[273|01]`.
 
 ## 10. OWL++ Seed
 
-```ttl
-vak:VAK_4_121 a vak:Karika ;
-    rdfs:label "VAK 4.121" ;
-    vak:continues vak:VAK_4_120 ;
-    vak:hasTopic vak:RelinquishmentConnectedMerit,
-                 vak:UseConnectedMerit,
-                 vak:SeedFruitNonInversion .
+```text
+Class: RelinquishmentConnectedMerit
+Class: UseConnectedMerit
+Class: ShrineOffering
+Class: GivingSeed
+Class: DeficientField
+Class: DesirableFruit
+Class: ReducedFruit
+Class: NoFruit
 
-vak:ShrineOffering
-    vak:hasMeritChannel vak:RelinquishmentConnectedMerit ;
-    vak:lacksMeritChannel vak:UseConnectedMerit .
+Rule: ShrineOfferingMerit
+  ShrineOffering -> RelinquishmentConnectedMerit
+  ShrineOffering -> not UseConnectedMerit
 
-vak:EmbodiedOffering
-    vak:intensifies vak:GeneratingDevotion .
+Rule: SeedAndField
+  GivingSeed + DeficientField
+    -> DesirableFruit | ReducedFruit | NoFruit
 
-vak:GivingSeed
-    vak:hasEthicalQualityFrom vak:UnderlyingOrientation .
-
-vak:RecipientField
-    vak:conditions vak:FruitMagnitude,
-                   vak:FruitEffectiveness ;
-    vak:doesNotInvert vak:SeedEthicalQuality .
-
-vak:SeedFruitNonInversion
-    vak:preservesAcrossMediation vak:QualitativeTendency .
+Attribution: SeedFieldRelation
+  source = Bhāṣya
 ```

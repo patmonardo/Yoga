@@ -1,4 +1,4 @@
-# VAK_4.108 — The Bodhisattva's Determinate Career
+# VAK 4.108 — The Bodhisattva's Determinate Career
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -9,10 +9,14 @@
 
 ## 2. Sanskrit (IAST)
 
-```text
+```iast
 bodhisattvaḥ kuto yāvat yato lakṣaṇakarmakṛt /
 sugatiḥ kulajo 'vyakṣaḥ pumān jātismaro 'nivṛt // 4.108 //
 ```
+
+The verse asks when one is properly designated a bodhisattva, then lists six
+predicates of the resulting career. The Bhāṣya locates the threshold at the
+beginning of action whose maturation produces the marks.
 
 ## 3. Lexical Analysis
 
@@ -21,338 +25,166 @@ bodhisattvaḥ | kutaḥ | yāvat | yataḥ | lakṣaṇa-karma-kṛt |
 su-gatiḥ | kula-jaḥ | a-vyakṣaḥ | pumān | jāti-smaraḥ | a-nivṛt
 ```
 
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
-| `bodhisattvaḥ` | nominative masculine singular | Bodhisattva in the strict technical sense |
-| `kutaḥ yāvat` | interrogative-adverbial construction | from what point onward |
-| `yataḥ` | relative adverb | from when, from the point at which |
-| `lakṣaṇa-karma-kṛt` | nominative masculine singular agent compound | one beginning to perform karma whose maturation produces the marks |
-| `su-gatiḥ` | nominative masculine singular possessive compound | one whose destinies are favorable |
+| `bodhisattvaḥ` | nominative masculine singular | the person whose technical designation is being defined |
+| `kutaḥ yāvat` | interrogative adverbial construction | from what point onward |
+| `yataḥ` | relative adverb | from the point at which |
+| `lakṣaṇa-karma-kṛt` | nominative masculine singular compound | one undertaking action directed to the marks; the Bhāṣya specifies action whose maturation produces them |
+| `su-gatiḥ` | nominative masculine singular compound | one whose rebirth destination is favorable |
 | `kula-jaḥ` | nominative masculine singular compound | born in an eminent family |
-| `a-vyakṣaḥ` | nominative masculine singular | without defective faculties, as resolved by the Bhāṣya |
-| `pumān` | nominative masculine singular | male, in the inherited bodily classification |
+| `a-vyakṣaḥ` | nominative masculine singular | not impaired in faculties, as glossed by the Bhāṣya |
+| `pumān` | nominative masculine singular | male |
 | `jāti-smaraḥ` | nominative masculine singular compound | remembering former births |
-| `a-nivṛt` | nominative masculine singular | non-retrogressing, not turning back |
+| `a-nivṛt` | nominative masculine singular | not turning back; non-retrogressing |
 
-**Question and answer**
-
-```text
-bodhisattvaḥ
-    kutaḥ yāvat [vaktavyaḥ]?
-
-yataḥ [prabhṛti]
-    lakṣaṇa-karma-kṛt [bhavati]
-```
-
-**Persistent determinations thereafter**
-
-```text
-sugatiḥ
-kulajaḥ
-avyakṣaḥ
-pumān
-jātismaraḥ
-anivṛt
-```
-
-The Bhāṣya inserts `nityam`, continually: these are recurrent constraints of
-the stabilized trajectory, not descriptions of one isolated birth.
+The Bhāṣya supplies `prabhṛti` and `nityam` in its explanation: the six
+predicates apply continually from the threshold it identifies.
 
 ## 4. Grammar
 
-**Threshold of technical designation**
+The question and answer are compressed:
 
 ```text
-bodhisattvaḥ
-    kutaḥ yāvat?
+bodhisattvaḥ kutaḥ yāvat [vaktavyaḥ]?
+yataḥ [prabhṛti] lakṣaṇa-karma-kṛt [bhavati]
 ```
 
-> From what point onward is one [technically] a Bodhisattva?
+> From what point onward is one called a bodhisattva? From the time one
+> undertakes action directed to the marks.
 
-The question arises from VAK 4.106, which classified killing a Bodhisattva
-established in certainty as an immediate-result analogue. A determinate
-starting point is therefore required for that qualified field.
-
-**Beginning of mark-producing activity**
+The Bhāṣya explains the compound more specifically as beginning to undertake
+actions whose maturation is the marks. At that time the person has entered
+certainty. The remaining six nominative predicates describe that career from
+then onward:
 
 ```text
-yataḥ
-    lakṣaṇa-karma-kṛt [bhavati]
-    [tataḥ bodhisattvaḥ]
+sugatiḥ | kulajaḥ | avyakṣaḥ | pumān | jātismaraḥ | anivṛt
 ```
-
-> From the time when one begins performing karma [whose maturation produces]
-> the marks.
-
-`Lakṣaṇa-karmakṛt` does not mean that the marks are already present. The prose
-expands it as beginning karmas whose maturation consists in the marks of a
-Great Person. At that threshold one has entered certainty.
-
-**Six coordinate predicates**
-
-```text
-[saḥ]
-    sugatiḥ
-    kulajaḥ
-    avyakṣaḥ
-    pumān
-    jātismaraḥ
-    anivṛt [bhavati]
-```
-
-> Thereafter he is of favorable destiny, eminent birth, unimpaired faculties,
-> male, recollective of former births, and non-retrogressing.
-
-All six nominatives predicate determinations of one trajectory. `Avyakṣa` is
-lexically difficult on the surface; the Bhāṣya explicitly glosses it as
-`avikalendriya`, having unimpaired faculties.
 
 ## 5. Translation
 
-### Literal Translation
+### Scientific English Rendering
 
-> From what point onward is one a Bodhisattva? From when one becomes a
-> performer of karma [producing] the marks. [Thereafter] one is of favorable
-> destiny, eminent birth, unimpaired faculties, male, remembering former
-> births, and non-retrogressing.
+> From what point onward is one called a bodhisattva? From the time one
+> undertakes action whose maturation produces the marks. Thereafter: a
+> favorable rebirth destination, birth in an eminent family, unimpaired
+> faculties, male embodiment, memory of former births, and non-retrogression.
 
 ### Bhāṣya-informed study translation
 
-> In the strict technical sense, one is called a Bodhisattva from the time one
-> begins performing karmas whose maturation produces the marks of a Great
-> Person. At that point the career has entered certainty. From then onward its
-> births are continually constrained to favorable destinies and eminent
-> families, with unimpaired faculties and the inherited bodily qualification
-> stated by the text; former births are remembered, and the Bodhisattva does
-> not turn back. Non-retrogression means that no suffering endured and no
-> misconduct encountered from beings exhausts the practical commitment to
-> their welfare.
+> From what point onward is one called a bodhisattva? From the time one
+> undertakes action whose maturation produces the marks. Thereafter: a
+> favorable rebirth destination, birth in an eminent family, unimpaired
+> faculties, male embodiment, memory of former births, and non-retrogression.
+> The Bhāṣya says that from this point onward these conditions apply
+> continually and that the person has entered certainty. It explains favorable
+> destination as birth among gods or humans; specifies kṣatriya, brahmin, and
+> wealthy householder families; and glosses `avyakṣa` as having unimpaired
+> faculties. It defines non-retrogression practically: suffering and the
+> opposition of beings do not wear down the commitment to their welfare.
 
-The mark-maturation analysis, entry into certainty, continual force of the
-six predicates, gloss of `avyakṣa`, inherited social and bodily specifications,
-and practical explanation of non-retrogression are supplied by the Bhāṣya.
+The family and bodily qualifications are reported as the Bhāṣya's own
+historical claims, not as a general norm. Its servant image and social
+language are likewise attributed to the source.
 
 ## 6. Philosophical Translation
 
-> The Bodhisattva is technically determined not by a title, aspiration, or
-> already completed Buddha-form, but by an activity whose principle has begun
-> to generate that future form. This present karmic genesis establishes an
-> irreversible corridor of becoming across environmental, social, embodied,
-> mnemonic, and practical dimensions. The future is not externally appended
-> to the series: its law is already active as the organization of the series.
-
-The rational form is:
-
-```text
-mark-producing karmic Principle becomes operative
-    → entry into certainty
-    → regulated sequence of Bhumis and embodiments
-    → future Buddha-form
-```
-
-The highest determination of this certainty is practical universality:
-
-```text
-suffering and opposition from particular beings
-    do not negate
-the end of benefiting all beings
-```
+> The technical designation begins not with aspiration alone, nor only when
+> the marks are already manifest, but when action whose maturation is those
+> marks has begun. The Bhāṣya treats this as entry into certainty: a future
+> career is now organized through recurring rebirth, faculties, memory, and
+> practical non-retrogression.
 
 ## 7. Technical Vocabulary
 
-**`Bodhisattva` — strict technical designation**
-
-The person whose mark-producing karmas have begun and whose trajectory has
-thereby entered certainty. The Bhāṣya distinguishes this threshold from
-aspiration considered by itself.
-
-**`Lakṣaṇa-vipāka-karman` — karma maturing as the marks**
-
-Activity whose future maturation produces the marks of a Great Person. The
-marks are accumulated practical genesis made bodily manifest, not an
-unrelated form bestowed only at the conclusion.
-
-**`Niyatipatita` — entered into certainty**
-
-The Bhāṣya's modal determination of the career once mark-producing karma
-begins. Contrary future possibilities are constrained within a stabilized
-course toward Buddhahood.
-
-**`Sugati` — favorable destiny**
-
-Birth among gods or humans according to the prose. It is the recurring
-rebirth-domain of the strict Bodhisattva trajectory.
-
-**`Kulaja` — born in an eminent family**
-
-Specified by the Bhāṣya through eminent kṣatriya, brāhmaṇa, or wealthy
-householder families. This belongs to the inherited social doctrine of the
-passage and is not the universal logical definition of Bodhisattvahood.
-
-**`Avyakṣa` — having unimpaired faculties**
-
-Explained explicitly as `avikalendriya`. The difficult negative formation is
-therefore determined by the commentary rather than guessed from its surface.
-
-**`Pumān` — male embodiment**
-
-The bodily qualification stated in the inherited Abhidharma scheme. It is
-preserved as source doctrine while the Organon extraction concerns the wider
-logic of a constrained trajectory across embodiments.
-
-**`Jātismara` — remembering former births**
-
-Diachronic recollection through which earlier Bhūmis belong consciously to
-the present career. The trajectory is not merely causally continuous but
-retains access to its lived history.
-
-**`Anivṛt` / `anivartaka` — non-retrogressing**
-
-Not turning back from the welfare of beings. The Bhāṣya makes this positive
-and practical: suffering and others' harmful conduct cannot produce
-exhaustion or cancellation of the end.
-
-**`Niṣkāraṇa-karuṇā` — compassion without interested return**
-
-The Bhāṣya's explanation of why a great being freely assumes dependence upon
-the needs of beings, endures injuries, and bears their burdens. The vivid
-“unbought slave” image expresses voluntary service rather than external
-ownership.
+- **`Lakṣaṇa-karmakṛt`** — one undertaking action for the marks. The Bhāṣya
+  clarifies this as action whose maturation produces the marks.
+- **`Niyatipatita`** — entered into certainty. In the Bhāṣya, this
+  determination begins with mark-producing action.
+- **`Sugati`** — favorable rebirth destination. The Bhāṣya specifies birth
+  among gods or humans.
+- **`Kulaja`** — born in an eminent family. The Bhāṣya names kṣatriya,
+  brahmin, and wealthy householder lineages; this is its inherited social
+  classification.
+- **`Avyakṣa`** — unimpaired in faculties, explicitly glossed by the Bhāṣya
+  as `avikalendriya`.
+- **`Jātismara`** — remembering former births.
+- **`Anivṛt` / `anivartaka`** — not turning back. The Bhāṣya explains this
+  as not being wearied in working for beings' welfare by suffering or their
+  opposition.
+- **`Apaṇakrīta dāsa`** — the Bhāṣya's “unbought slave” image for a bodhisattva
+  who, without conceit and from compassion, bears hardship in service of
+  beings. It is a historical metaphor, not an endorsement of slavery.
 
 ## 8. Logical Determination
 
-Let:
-
 ```text
-A = aspirant
-L = beginning of mark-producing karma
-N = entry into certainty
-T = strict Bodhisattva trajectory
-B = future Buddha-form
+Beginning of action whose maturation produces the marks
+    → entry into certainty
+    → continual career predicates:
+        favorable rebirth destination
+        eminent family, as defined by the source
+        unimpaired faculties
+        male embodiment, as stated by the source
+        memory of former births
+        non-retrogression in the welfare of beings
 ```
 
-Then:
-
-```text
-Begins(A, L)
-    → Enters(A, N)
-    → Constitutes(A, T)
-    → Generates(T, B)
-```
-
-But:
-
-```text
-AspiresToBuddhahood(A) alone
-    does not entail
-StrictTechnicalBodhisattva(A)
-```
-
-**Trajectory constraints**
-
-```text
-StrictTechnicalBodhisattva(A)
-    → FutureBirthDomain(A) ∈ FavorableDestinies
-    → HasUnimpairedFaculties(A)
-    → RemembersFormerBirths(A)
-    → NonRetrogressing(A)
-```
-
-The inherited social and bodily qualifications are additional predicates of
-the received scheme, not silently universalized Organon axioms.
-
-**Practical non-retrogression**
-
-For every suffering `s` and adverse conduct `c` encountered from beings:
-
-```text
-Endures(A, s)
-Encounters(A, c)
-    does not entail
-Abandons(A, WelfareOfBeings)
-```
-
-**Future as present modal determination**
-
-```text
-FutureBuddhaForm(B)
-    is not yet ActualAt(t1)
-
-GeneratingPrincipleOf(B)
-    is ActualIn(KarmaAt(t1))
-```
+The threshold and its resulting predicates belong to this Bhāṣya's technical
+account. The family and bodily restrictions remain attributed source claims;
+they are not generalized into universal Organon axioms.
 
 ## 9. Interpretive Note
 
-VAK 4.107 showed Path-transitions progressively eliminating maturation-Bhūmis.
-VAK 4.108 gives the complementary positive structure: karma can establish a
-determinate corridor through future Bhūmis. The strict Bodhisattva is the
-career in which the Principle of future Buddha-form has become presently
-operative and non-retrogressive.
+Here the text does give a clear “from then onward” account. The Bhāṣya says
+`tasmāt kālāt prabhṛti nityam`—from that time onward, continually—and
+defines *sugati* as birth among gods or humans. This is the strongest local
+basis so far for the intuition of favorable or “proper” births across a
+bodhisattva career. The threshold, however, is the beginning of action whose
+maturation produces the marks, not *bhavāgra-cetanā*. The previous verse's
+worldly maturation ranking and this verse's bodhisattva trajectory are
+related topics, not an identity asserted by the source.
 
-This is a particularly clear instance of Principle-to-Bhūmi Schema Inference:
+The same care applies to the Arya/Tantra connection. This passage offers a
+determinate Path trajectory and a continuing pattern across births, but
+does not name Tantra. The Bhāṣya's specific family and bodily predicates,
+including its male-only claim, are historical doctrine and should not be
+silently adopted as contemporary or project-wide norms. Its account of
+non-retrogression is also practical: the bodhisattva does not abandon beings'
+welfare when faced with suffering or opposition.
 
-```text
-Principle
-    = mark-producing karma oriented toward Buddhahood
-
-Bhūmi-sequence
-    = the valid conditioned determinations through which that Principle
-      becomes manifest
-
-Jñāna
-    = comprehension of the whole trajectory through its generative law
-```
-
-The six predicates are not an accidental checklist. They traverse distinct
-layers of the developing Object: rebirth-domain, social field, embodied
-capacity, inherited bodily condition, mnemonic continuity, and practical
-direction. The Principle holds these determinations together as one career.
-
-Most importantly, `anivṛt` prevents certainty from being misunderstood as a
-mechanical prediction. The trajectory demonstrates its necessity through
-Kriyā: every suffering and every contradiction presented by beings is
-subordinated to the universal end of their welfare. The course maintains
-itself by practically overcoming what would cause an ordinary intention to
-withdraw.
-
-This is the positive dialectic corresponding to the non-arising Path. The
-Path closes regressive possibilities, while mark-producing activity generates
-the complete future crystal of Buddha-form. Non-retrogression is their unity:
-the negation of withdrawal is at once the continued positive production of
-the universal end.
+The source unit is `[265|10–11]–[265|26]`. It stops before the next question
+at `[265|26–27]`, which introduces how the action producing the marks is
+undertaken.
 
 ## 10. OWL++ Seed
 
-```ttl
-vak:VAK_4_108 a vak:Karika ;
-    rdfs:label "VAK 4.108" ;
-    vak:continues vak:VAK_4_107 ;
-    vak:hasTopic vak:StrictBodhisattvaThreshold,
-                 vak:MarkProducingKarma,
-                 vak:IrreversibleTrajectory .
+```text
+Class: BodhisattvaInTechnicalSense
+Class: MarkMaturationAction
+Class: EntryIntoCertainty
+Class: FavorableRebirthDestination
+Class: EminentFamily
+Class: UnimpairedFaculties
+Class: MemoryOfFormerBirths
+Class: NonRetrogression
+Class: WelfareOfBeings
 
-vak:StrictTechnicalBodhisattva
-    vak:beginsWith vak:MarkProducingKarma ;
-    vak:enters vak:Certainty ;
-    vak:hasTrajectory vak:BodhisattvaCareer .
+Rule: BodhisattvaThreshold
+  begins = MarkMaturationAction
+  resultsIn = EntryIntoCertainty
 
-vak:MarkProducingKarma
-    vak:hasMaturation vak:GreatPersonMarks ;
-    vak:generates vak:FutureBuddhaForm .
+Rule: CareerPredicates
+  appliesFrom = EntryIntoCertainty
+  predicates = FavorableRebirthDestination + EminentFamily
+               + UnimpairedFaculties + MemoryOfFormerBirths
+               + NonRetrogression
 
-vak:BodhisattvaCareer
-    vak:hasBirthDomain vak:FavorableDestiny ;
-    vak:hasBirthCondition vak:EminentFamily ;
-    vak:hasCapacityCondition vak:UnimpairedFaculties ;
-    vak:hasContinuityProperty vak:FormerBirthMemory ;
-    vak:hasPracticalDirection vak:NonRetrogression .
+Rule: NonRetrogression
+  preserves = WelfareOfBeings
+  despite = Suffering + OppositionFromBeings
 
-vak:NonRetrogression
-    vak:preservesThrough vak:Suffering,
-                         vak:MisconductOfBeings ;
-    vak:hasUniversalEnd vak:WelfareOfAllBeings .
-
-vak:FutureBuddhaForm
-    vak:hasPresentGeneratingPrinciple vak:MarkProducingKarma .
+Attribution: EminentFamilyAndMaleEmbodiment
+  status = BhāṣyaHistoricalClaim
 ```

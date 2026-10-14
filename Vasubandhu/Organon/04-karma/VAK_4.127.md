@@ -1,291 +1,224 @@
-# VAK_4.127 — The Closing Classification of Dharmas
+# VAK 4.127 — Practice, Rank, and the Unsurpassed
 
 ## 1. Sanskrit (Devanāgarī)
 
 ```sanskrit
 सावद्या निवृता हीनाः क्लिष्टा धर्माः शुभामलाः ।
-प्रणीताः संस्कृतशुभाः सेव्याः मोक्षस्त्वनुत्तरः ॥ ४.१२७ ॥
+प्रणीताः संस्कृतशुभाः सेव्या मोक्षस्त्वनुत्तरः ॥ ४.१२७ ॥
 ```
 
 ## 2. Sanskrit (IAST)
 
-```text
-sāvadyā nivṛtā hīnāḥ kliṣṭā dharmāḥ śubhāmalāḥ |
-praṇītāḥ saṃskṛtaśubhāḥ sevyāḥ mokṣas tv anuttaraḥ || 4.127 ||
+```iast
+sāvadyā nivṛtā hīnāḥ kliṣṭā dharmāḥ śubhāmalāḥ /
+praṇītāḥ saṃskṛtaśubhāḥ sevyāḥ mokṣas tv anuttaraḥ // 4.127 //
 ```
 
-The Bhāṣya introduces these expressions as `paryāya`, alternative evaluative
-designations for already established classes of dharmas. The verse closes the
-Karma chapter.
+The Bhāṣya introduces the verse as a set of `paryāya`, alternative
+designations for Dharmas. It then moves from evaluation to practice and
+ends by distinguishing conditioned cultivation from unsurpassed
+liberation.
 
 ## 3. Lexical Analysis
 
 ```text
-sa-avadyāḥ | nivṛtāḥ | hīnāḥ | kliṣṭāḥ | dharmāḥ |
+sāvadyāḥ | nivṛtāḥ | hīnāḥ | kliṣṭāḥ | dharmāḥ |
 śubhāḥ | amalāḥ | praṇītāḥ | saṃskṛta-śubhāḥ | sevyāḥ |
 mokṣaḥ | tu | anuttaraḥ
 ```
 
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
-| `sāvadyāḥ` | nominative plural masculine | blameworthy, accompanied by fault |
-| `nivṛtāḥ` | nominative plural masculine | obscured, covered |
+| `sāvadyāḥ` | nominative plural masculine | faulty; accompanied by fault |
+| `nivṛtāḥ` | nominative plural masculine | obscured or covered |
 | `hīnāḥ` | nominative plural masculine | inferior |
 | `kliṣṭāḥ` | nominative plural masculine | afflicted |
-| `dharmāḥ` | nominative plural masculine | dharmas, determinations |
-| `śubhāḥ` | nominative plural masculine | auspicious, wholesome |
-| `amalāḥ` | nominative plural masculine | stainless, uncontaminated |
-| `praṇītāḥ` | nominative plural masculine | excellent, elevated |
-| `saṃskṛtaśubhāḥ` | nominative plural masculine compound | conditioned wholesome dharmas |
+| `dharmāḥ` | nominative plural masculine | Dharmas; determinations |
+| `śubhāḥ` | nominative plural masculine | auspicious |
+| `amalāḥ` | nominative plural masculine | stainless |
+| `praṇītāḥ` | nominative plural masculine | excellent |
+| `saṃskṛtaśubhāḥ` | nominative plural masculine compound | conditioned wholesome [Dharmas] |
 | `sevyāḥ` | nominative plural masculine gerundive | to be practiced or cultivated |
-| `mokṣaḥ` | nominative singular masculine | liberation, identified with nirvāṇa |
-| `tu` | contrastive particle | but, however |
-| `anuttaraḥ` | nominative singular masculine | unsurpassed, having nothing higher |
+| `mokṣaḥ` | nominative singular masculine | liberation |
+| `tu` | adversative particle | however |
+| `anuttaraḥ` | nominative singular masculine | unsurpassed; having nothing higher |
 
-**Bhāṣya-controlled referents**
-
-```text
-kliṣṭa dharmas
-    → sāvadyā, nivṛta, hīna
-
-kuśala-anāsrava dharmas
-    → śubha, amala, praṇīta
-
-saṃskṛta-kuśala dharmas
-    → sevya
-
-mokṣa or nirvāṇa
-    → anuttara
-```
+The Bhāṣya explicitly glosses `praṇīta` as a designation for wholesome
+Dharmas without influx. It separately identifies conditioned wholesome
+Dharmas as those to be practiced.
 
 ## 4. Grammar
 
-**Evaluative synonyms for afflicted dharmas**
+The first clause predicates three alternative descriptions of afflicted
+Dharmas:
 
 ```text
-kliṣṭāḥ dharmāḥ
+kliṣṭā dharmāḥ
     sāvadyāḥ
     nivṛtāḥ
     hīnāḥ [ucyante]
 ```
 
-The three predicates are alternative characterizations, not separately
-generated ontological classes.
-
-**Wholesome uncontaminated and conditioned wholesome dharmas**
+The verse then gives the positive terms `śubha`, `amala`, and `praṇīta`.
+The Bhāṣya specifically supplies the referent for `praṇīta`:
 
 ```text
-kuśalā anāsravā dharmāḥ
-    śubhāḥ amalāḥ praṇītāḥ [ucyante]
+kuśalānāsravāṇāṃ praṇītā iti paryāyaḥ
+```
 
-saṃskṛta-kuśalā dharmāḥ
+The practical prescription is:
+
+```text
+saṃskṛta-śubhāḥ
     sevyāḥ [bhavanti]
 ```
 
-The referent `kuśala-anāsrava` is supplied explicitly by the Bhāṣya. Thus the
-strong positive series must not be generalized without qualification to all
-conditioned wholesome karma.
-
-**Singular culmination**
+The final contrast sets liberation apart from the classes ranked below it:
 
 ```text
 mokṣaḥ tu
     anuttaraḥ [asti]
 ```
 
-The contrastive particle separates liberation from all dharmas that have
-something superior to them.
-
 ## 5. Translation
 
-### Literal Translation
+### Scientific English Rendering
 
-> Afflicted dharmas are blameworthy, obscured, and inferior; wholesome
-> uncontaminated dharmas are auspicious, stainless, and excellent.
-> Conditioned wholesome dharmas are to be cultivated; liberation, however,
-> is unsurpassed.
+> Afflicted Dharmas are faulty, obscured, and inferior. “Auspicious,”
+> “stainless,” and “excellent” are designations for Dharmas. Conditioned
+> wholesome Dharmas are to be cultivated; liberation, however, is
+> unsurpassed.
 
 ### Bhāṣya-informed study translation
 
-> “Blameworthy,” “obscured,” and “inferior” are alternative designations for
-> afflicted dharmas; “auspicious,” “stainless,” and “excellent” characterize
-> wholesome uncontaminated dharmas. Conditioned wholesome dharmas are to be
-> repeatedly practiced because cultivation is undertaken for a fruit. The
-> unconditioned is not cultivated as another productive cause: it cannot be
-> habituated into existence and yields no further fruit. Every other dharma
-> has something superior to it, but liberation—nirvāṇa—is unsurpassed because
-> nothing is more excellent and because it is wholesome and permanent.
+> Afflicted Dharmas are faulty, obscured, and inferior. “Auspicious,”
+> “stainless,” and “excellent” are designations for Dharmas. Conditioned
+> wholesome Dharmas are to be cultivated; liberation, however, is
+> unsurpassed. The Bhāṣya calls the first three alternative designations
+> for afflicted Dharmas, and specifies “excellent” as a designation for
+> wholesome Dharmas without influx. It infers an intermediate rank between
+> inferior and excellent. Conditioned wholesome Dharmas are to be
+> practiced; the remainder are not. The unconditioned is not itself
+> practiced as a habituated cause, because it cannot be repeatedly
+> cultivated and yields no further fruit; practice is undertaken for
+> fruit. All other Dharmas have something higher than themselves, but
+> liberation is unsurpassed: nothing is more excellent than nirvāṇa,
+> which is superior to all because it is wholesome and permanent.
 
-The synonym structure, inferred intermediate rank, reasons the unconditioned
-is not cultivated, and final criterion of nirvāṇa are Bhāṣya determinations.
+The synonym relations, intermediate rank, account of practice, and final
+explanation of nirvāṇa are given by the Bhāṣya.
 
 ## 6. Philosophical Translation
 
-> The causal discipline of karma culminates by distinguishing what must be
-> abandoned, what must be cultivated, and what must not be mistaken for one
-> more product of cultivation. Afflicted determinations are defective and
-> inferior; conditioned wholesome determinations are indispensable means and
-> must be repeatedly developed. Yet the end is not the endless refinement of
-> conditioned production. Liberation is unsurpassed precisely because it is
-> not another karmic result standing above earlier results on the same scale,
-> but the unconditioned cessation of the binding structure whose operations
-> the chapter has analyzed.
-
-The closing practical order is:
-
-```text
-abandon the afflicted
-    → cultivate conditioned wholesome causes
-    → realize the uncontaminated excellent
-    → do not reduce liberation to another conditioned product
-```
+> Affliction marks a defective and obscured mode of determination.
+> Conditioned wholesome activity is to be practiced because it has a
+> causal role; yet that practice is not self-justifying, and its
+> refinement is not the unsurpassed end. The unconditioned is not another
+> habituated cause to be manufactured for a further fruit. Liberation is
+> unsurpassed—not a larger unit of merit, but the end that no other Dharma
+> surpasses.
 
 ## 7. Technical Vocabulary
 
-**`Paryāya` — alternative designation**
-
-The Bhāṣya's metalinguistic key to the verse. The predicates consolidate the
-evaluative vocabulary for existing dharma classes rather than introducing a
-new ontology.
-
-**`Kliṣṭa` — afflicted**
-
-Governed or contaminated by affliction. Such dharmas are described as
-faulty, obscured, and inferior.
-
-**`Sāvadya` — blameworthy or faulty**
-
-An evaluative designation for afflicted dharmas, marking their defective
-causal and ethical character.
-
-**`Nivṛta` — obscured or covered**
-
-Afflicted dharmas as cognitively veiled. This should not be confused with
-`nivṛtta`, ceased or turned away.
-
-**`Hīna`, `madhya`, and `praṇīta` — inferior, intermediate, excellent**
-
-The Bhāṣya infers the intermediate from the stated extremes. This is a scale
-of rank, not a collapse of all wholesome dharmas into the highest class.
-
-**`Kuśala-anāsrava` — wholesome uncontaminated dharmas**
-
-The commentary's referent for the designations auspicious, stainless, and
-excellent.
-
-**`Saṃskṛta-kuśala` — conditioned wholesome dharmas**
-
-Productive causes to be practiced and habituated for the sake of fruit.
-
-**`Sevitavya` — to be cultivated**
-
-Repeatedly practiced or attended upon. The prescription applies to
-conditioned wholesome dharmas, not to the unconditioned end.
-
-**`Sottara` and `anuttara` — having something higher and unsurpassed**
-
-All other dharmas have something superior; liberation alone is unsurpassed.
-
-**`Mokṣa` or `nirvāṇa` — liberation**
-
-The chapter's final term. The Bhāṣya calls it superior to all because it is
-wholesome and permanent.
+- **`Paryāya`** — alternative designation. The Bhāṣya's term signals that
+  the verse is organizing descriptions of established Dharma classes,
+  not simply adding new entities.
+- **`Kliṣṭa`** — afflicted; the Bhāṣya aligns it here with the
+  designations faulty, obscured, and inferior.
+- **`Nivṛta`** — obscured or covered. Keep it distinct from `nivṛtta`,
+  “ceased” or “turned away.”
+- **`Praṇīta`** — excellent. The Bhāṣya explicitly identifies this
+  designation with wholesome Dharmas without influx.
+- **`Madhya`** — intermediate. The Bhāṣya infers this rank from the
+  inferior and the excellent.
+- **`Saṃskṛtaśubha`** — conditioned wholesome Dharma; the class specified
+  as `sevyā`, to be practiced.
+- **`Sevyā`** — to be practiced or cultivated. Here the prescription
+  concerns conditioned wholesome Dharmas, not treating the unconditioned
+  as a productive cause.
+- **`Sottara` / `anuttara`** — having something higher / unsurpassed. The
+  Bhāṣya says all other Dharmas have something superior, while liberation
+  has none.
+- **`Mokṣa` / `nirvāṇa`** — liberation. The Bhāṣya identifies liberation
+  with nirvāṇa and describes it as wholesome and permanent.
 
 ## 8. Logical Determination
 
-The verse answers three different questions:
+The passage makes several distinct determinations; they should not be
+collapsed into one ranking:
 
 ```text
-AfflictiveStatus:
-    Klista(x) → Faulty(x) ∧ Obscured(x) ∧ Inferior(x)
+evaluative designations:
+    afflicted Dharma → faulty, obscured, inferior
+    praṇīta           → wholesome Dharma without influx
+    intermediate      → inferred between inferior and excellent
 
-PurityAndRank:
-    WholesomeUncontaminated(x)
-        → Auspicious(x) ∧ Stainless(x) ∧ Excellent(x)
+practical relation:
+    conditioned wholesome Dharma → to be practiced
+    unconditioned                 → not a habituated cause for further fruit
 
-PracticalRelation:
-    ConditionedWholesome(x) → ToBeCultivated(x)
+limit of the hierarchy:
+    other Dharmas → have something higher
+    liberation    → unsurpassed
 ```
 
-The means-end distinction is:
+Thus:
 
 ```text
-Cultivation(x)
-    → for the sake of FurtherFruit(x)
-
-UnconditionedLiberation
-    → not repeatedly producible
-    → has no further fruit
-    → not a cultivated cause
-```
-
-Finally:
-
-```text
-EveryDharmaExceptLiberation(x) → HasSomethingHigher(x)
-Liberation → Unsurpassed
+cultivable means ≠ unsurpassed end
 ```
 
 ## 9. Interpretive Note
 
-VAK 4.127 closes the Karma chapter by placing its entire practical technology
-under a higher end. The chapter has shown how action is classified, formed,
-completed, accumulated, weighted, counteracted, purified, and cultivated.
-Its final judgment is:
+VAK 4.127 closes the chapter by joining three questions: how Dharmas are
+evaluated, which conditioned Dharmas are to be practiced, and what stands
+unsurpassed. The opening `paryāya` keeps the first movement relational:
+the verse supplies alternative designations for classes already under
+discussion. The Bhāṣya then infers an intermediate rank, gives a
+practice-directive for conditioned wholesome Dharmas, and marks the
+limit of that practice in liberation.
 
-```text
-master conditioned causality
-    without absolutizing conditioned causality
-```
+This is the systematic point behind the chapter's final turn. In 4.124,
+merit has measures and conditioned results; in 4.125, wholesome activity
+has distinct developmental orientations; in 4.126, worldly skills are
+classified by their mode of action. Here these analyses are placed under
+a practical limit: conditioned wholesome means are to be cultivated, but
+liberation is not another product in the same causal series.
 
-This confirms the user's insight that Path is a higher-level Concept and the
-truth of karmic courses of action. Conditioned wholesome dharmas are `sevya`:
-they supply the determinate means by which the continuum is trained. But
-`mokṣa` is not the final member of a longer list of karmic products. It is the
-unsurpassed end that gives the whole practical sequence its governing
-direction while remaining irreducible to the conditioned machinery.
+That limit gives force to the user's “No Merit” provocation without
+misquoting this passage. The Bhāṣya does not deny merit or the practice of
+conditioned wholesome activity; it denies that cultivation is the
+unconditioned end itself. The Bodhidharma “no merit” story can be read as
+a later challenge to treating merit as ultimate spiritual currency, not
+as the Kośa's own wording or a denial of its causal distinctions.
 
-In Rational Yoga terms, the Path must traverse the Pure Conditioned without
-confusing refinement of the instrument with the unconditioned end. Samyama
-forms the relevant Bhūmi, produces determinate Jñāna and Kriyā, and cultivates
-the counter-principles that dissolve bondage; yet liberation is not merely
-the largest or most excellent output of that operation.
+Within the user's Brahman Chakra reading, `anuttara` can mark the horizon
+of Infinite Satya-Jñāna beyond any finite measure of merit. That is an
+Organon interpretation, not the lexical meaning of `mokṣa` or a term
+attributed to Vasubandhu. The source's own statement is that liberation
+is unsurpassed and that nirvāṇa is wholesome and permanent. The chapter's
+`brāhmapuṇya` in 4.124 names Brahmā-merit; it should not be confused with
+the project-level Brahman Chakra.
 
-This Organon synthesis is reconstructive. The source passage itself provides
-the synonym taxonomy, prescribes cultivation of conditioned wholesome
-dharmas, and declares nirvāṇa unsurpassed rather than another cultivable
-cause.
+The verse and Bhāṣya occupy `[275|07]–[275|19]`. The colophon at
+`[275|20–21]` closes the fourth Kośa chapter, the Karmanirdeśa; the fifth
+chapter begins immediately afterward.
 
 ## 10. OWL++ Seed
 
-```ttl
-vak:VAK_4_127 a vak:Karika ;
-    rdfs:label "VAK 4.127" ;
-    vak:continues vak:VAK_4_126 ;
-    vak:closesChapter vak:KarmaNirdesa ;
-    vak:hasTopic vak:EvaluativeDharmaSynonyms,
-                 vak:CultivatedMeans,
-                 vak:UnsurpassedLiberation .
+```text
+Class: AfflictedDharma
+Class: WholesomeDharmaWithoutInflux
+Class: IntermediateDharma
+Class: ConditionedWholesomeDharma
+Class: UnconditionedDharma
+Class: Liberation
 
-vak:AfflictedDharma
-    vak:hasDesignation vak:Blameworthy,
-                       vak:Obscured,
-                       vak:Inferior .
-
-vak:WholesomeUncontaminatedDharma
-    vak:hasDesignation vak:Auspicious,
-                       vak:Stainless,
-                       vak:Excellent .
-
-vak:ConditionedWholesomeDharma
-    vak:hasPracticalRelation vak:ToBeCultivated ;
-    vak:servesAs vak:ProductiveCause .
-
-vak:UnconditionedLiberation
-    vak:notProducedBy vak:RepeatedHabituation ;
-    vak:hasNoFurtherFruit true ;
-    vak:hasRank vak:Unsurpassed .
-
-vak:KarmaPath
-    vak:hasGoverningEnd vak:UnsurpassedLiberation .
+Attribution: Bhāṣya
+  AfflictedDharma -> Faulty + Obscured + Inferior
+  WholesomeDharmaWithoutInflux -> Excellent
+  IntermediateDharma -> BetweenInferiorAndExcellent
+  ConditionedWholesomeDharma -> ToBePracticed
+  OtherDharmas -> HaveSomethingHigher
+  Liberation -> Unsurpassed + Wholesome + Permanent
 ```

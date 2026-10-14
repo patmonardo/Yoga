@@ -1,4 +1,4 @@
-# VAK 4.125 Bhāṣya — Dharma-Giving and Three Directions of Wholesome Action
+# VAK 4.125 Bhāṣya — Dharma-Giving and Three Orientations of Wholesome Activity
 
 ## 1. Kārikā Anchor
 
@@ -7,12 +7,12 @@ dharmadānaṃ yathābhūtasūtrādyakliṣṭadeśanā /
 puṇyanirvāṇanirvedhabhāgīyaṃ kuśalaṃ tridhā // 4.125 //
 ```
 
-> Dharma-giving is unafflicted explanation of sūtra and related
-> teachings according to how things are. Wholesome action is
-> threefold: tending toward merit, nirvāṇa, or penetration.
+> Dharma-giving is the unafflicted exposition of sūtra and related
+> teachings as they are. Wholesome activity is threefold: merit-oriented,
+> nirvāṇa-oriented, and penetration-oriented.
 
-The Bhāṣya's gloss calls the middle type `mokṣabhāgīya`, tending
-toward liberation; the kārikā uses `nirvāṇabhāgīya`.
+The verse uses `nirvāṇabhāgīya`; the Bhāṣya explains this middle category
+as `mokṣabhāgīya`, liberation-oriented.
 
 ## 2. Continuous Sanskrit
 
@@ -23,73 +23,88 @@ dharmadānaṃ yathābhūtasūtrādyakliṣṭadeśanā /
 
 sūtrādīnāṃ yathābhūtam akliṣṭadeśanā dharmadānam.
 ato mahatīṃ ta ātmanaḥ puṇyajyāniṃ kurvanti ye viparītadharmaṃ
-deśayanti, kliṣṭacittā vā lābhasatkārayaśāṃsi vāñchantaḥ.
+deśayanti, kliṣṭacittā vā lābhasatkāra yaśāṃsi vāñchantaḥ.
 
-uktaṃ puṇyakriyāvastubhedena trividhaṃ kuśalam. punaḥ:
+uktaṃ puṇyakriyāvastubhedena trividhaṃ kuśalaṃ punaḥ:
 
 puṇyanirvāṇanirvedhabhāgīyaṃ kuśalaṃ tridhā // 4.125 //
 
 puṇyabhāgīyaṃ yad iṣṭavipākam; mokṣabhāgīyaṃ yasminn utpanne
 niyataṃ parinirvāṇadharmā bhavati.
 
-yasya saṃsārādīnava-nairātmya-nirvāṇaguṇadyotikāṃ kathāṃ
-śrutvā romaharṣāśrūpātau bhavatas, tasyāsti mokṣabhāgīyaṃ
-kuśalamūlam ity avaseyam, pravṛṣīvāṅkuraprarohāt
-khalavileṣu bījāstitvam.
+yasya saṃsārādīnavanairātmyanirvāṇaguṇadyotikāṃ kathāṃ śrutvā
+romaharṣāśrūpātau bhavatas, tasyāsti mokṣabhāgīyaṃ kuśalamūlam
+ity avaseyaṃ, pravṛṣīvāṅkuraprarohāt khalavileṣu bījāstitvam.
 
 nirvedhabhāgīyam uṣmādi caturvidhaṃ paścād vyākhyāsyāmaḥ.
 ```
 
-The unit is `[274|14]–[274|23–24]`. The running witness's
-`romaharṣāśrūpātau` and seed image are compressed; their secure
-sense is that an affective response to teaching is treated as a sign
-of an existing liberation-oriented wholesome root, like a sprout
-indicating a seed. No further physiological criterion is inferred.
+The source span is `[274|14]–[274|23–24]`. At `[274|15]` the witness
+prints a space in `yathābhūta sūtrādyakliṣṭadeśanā`; the compound is
+presented joined in the kārikā block. The compact phrase
+`romaharṣāśrūpātau` is retained rather than silently regularized.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Scientific English Rendering
 
-Material giving has been discussed; what is Dharma-giving? It is
-explaining sūtras and related teachings truthfully, without an
-afflicted motive. Those who explain Dharma in an inverted way, or
-with a mind seeking gain, honor, and fame, cause a great loss of
-merit for themselves.
+“Material giving has been discussed; Dharma-giving must now be stated.
+This is what is said:
 
-Wholesome action was previously divided into giving, discipline,
-and cultivation as bases of meritorious activity. It is now divided
-another way: merit-oriented action has a desirable maturation;
-liberation-oriented action, once it arises, makes the person
-determined for final nirvāṇa; and penetration-oriented action
-comprises four stages beginning with heat, to be explained later.
+‘Dharma-giving is the unafflicted exposition of sūtra and related
+teachings as they are.’
 
-The Bhāṣya gives a sign of the liberation-oriented root: someone
-hearing an account of saṃsāra's drawbacks, non-self, and nirvāṇa's
-qualities may experience a bodily stirring and tears. As a sprout
-shows that a seed was present, this reaction is taken as indicating
-the relevant wholesome root. The text does not define that root
-solely by the reaction.
+Unafflicted exposition of sūtra and related teachings as they are is
+Dharma-giving. Therefore those who expound an inverted Dharma, or who,
+with an afflicted mind, desire gain, honor, or fame, cause a great loss
+of merit for themselves.
 
-## 4. Two Analyses of Wholesome Action
+Wholesome activity has been stated to be threefold according to the
+bases of meritorious activity; again:
 
-| Analysis | Members | Question answered |
-|---|---|---|
-| `puṇyakriyāvastu` | giving, discipline, cultivation | through what practical basis? |
-| `bhāgīya` | merit, liberation, penetration | toward what kind of result or stage? |
+‘Wholesome activity is threefold: merit-oriented, nirvāṇa-oriented, and
+penetration-oriented.’
 
-The second analysis does not erase the first. The source explicitly
-says `punaḥ`, “again,” before giving another threefold division.
+Merit-oriented [wholesomeness] is that which has desirable maturation.
+Liberation-oriented [wholesomeness] is that upon whose arising one
+becomes certain to be destined for final nirvāṇa.
 
-The Dharma-giving definition also joins **truth of exposition** and
-**freedom from an afflicted motive**. A correct-looking recitation
-for gain and reputation fails the `akliṣṭa` condition as stated here.
+For someone who, on hearing a teaching illuminating the drawbacks of
+saṃsāra, non-self, and the qualities of nirvāṇa, experiences horripilation
+and tears, it is to be understood that a liberation-oriented wholesome
+root exists. This is like the presence of a seed being shown by the
+emergence of a sprout in the furrows during the rainy season.
 
-## 5. Organon Contact Point — Project Reconstruction
+Penetration-oriented [wholesomeness] is fourfold, beginning with
+`uṣman`; we shall explain it later.”
 
-For our Practical Reason work, this passage permits classifying an
-action by both its medium and its direction. That two-axis schema is
-our reconstruction. The Kośa's own claims concern Dharma exposition,
-the three kinds of wholesome roots, and their fruits.
+## 4. Interpretation
 
-## 6. Review Status
+The Bhāṣya gives Dharma-giving two requirements: the teaching is expounded
+as it is, and the exposition is unafflicted. Its warning specifies two
+failures: inverting Dharma, or teaching with an afflicted mind that seeks
+gain, honor, or fame. Its object is the speaker's own great loss of merit.
 
-The study covers `[274|14]–[274|23–24]` and stops before the new
-question about writing and other skills at `[275|01]`.
+The commentary then signals a second, additional threefold division.
+`Puṇyakriyāvastu` classifies wholesome activity according to its basis
+of meritorious action; `bhāgīya` classifies it according to orientation:
+desirable maturation, certainty of a course toward final nirvāṇa, or the
+fourfold sequence of penetration. The Bhāṣya's shift from the verse's
+`nirvāṇabhāgīya` to its explanatory `mokṣabhāgīya` is retained rather
+than treated as a textual variant.
+
+The response of horripilation and tears is offered as evidence for an
+existing liberation-oriented wholesome root. The sprout-and-seed
+comparison explains the inference; it does not make the response itself
+the root or establish it as a necessary sign for every hearer.
+
+## 5. Textual and Scope Notes
+
+The source unit begins by closing material giving at `[274|14]`. The
+verse's first statement occurs at `[274|15]`; its threefold classification
+is repeated as a kārikā at `[274|19]`. The unit ends at `[274|23–24]`,
+where the Bhāṣya defers explanation of the four penetration-oriented
+stages. A new question begins at `[275|01]`.
+
+The source compresses the affective pair in `romaharṣāśrūpātau` and the
+seed analogy in `pravṛṣīvāṅkuraprarohāt khalavileṣu bījāstitvam`. The
+translation renders their evident sense without adding a physiological
+theory or a universal diagnostic criterion.

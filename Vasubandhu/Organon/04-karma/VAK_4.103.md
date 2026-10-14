@@ -1,4 +1,4 @@
-# VAK_4.103 — Exceptional Fields and the Identity of the Victim
+# VAK_4.103 — Exceptional Relations in Immediate-Result Action
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -9,7 +9,7 @@
 
 ## 2. Sanskrit (IAST)
 
-```text
+```iast
 upakāriguṇakṣetranirākṛtivipādanāt /
 vyañjanāntarito 'pi syān mātā yacchoṇitodbhavaḥ // 4.103 //
 ```
@@ -21,317 +21,196 @@ upakāri-guṇa-kṣetra-nirākṛti-vipādanāt |
 vyañjana-antaritaḥ | api | syāt | mātā | yat-śoṇita-udbhavaḥ
 ```
 
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
-| `upakāri` | compound member from `upakārin` | benefactor; here mother and father |
-| `guṇa-kṣetra` | compound member | field of exceptional qualities; here the arhat |
-| `nirākṛti` | compound member from `nir-ā-√kṛ` | repudiation or abandonment |
-| `vipādanāt` | ablative neuter singular action noun | because of killing or destruction |
-| `vyañjana-antaritaḥ` | nominative masculine singular | altered with respect to sexual characteristic |
-| `api` | concessive particle | even, although |
+| `upakāri` | compound member from `upakārin` | benefactor; the Bhāṣya applies it to parents |
+| `guṇa-kṣetra` | compound member | field of qualities; the Bhāṣya applies it to an arhat |
+| `nirākṛti` | compound member from `nir-ā-√kṛ` | repudiation; glossed as abandonment |
+| `vipādanāt` | ablative singular action noun | because of destruction or killing |
+| `vyañjana-antaritaḥ` | nominative masculine singular | even with a changed sexual characteristic |
+| `api` | concessive particle | even |
 | `syāt` | third-person singular optative of `√as` | may be, would remain |
 | `mātā` | nominative feminine singular | mother |
-| `yat-śoṇita-udbhavaḥ` | relative compound, nominative masculine singular | one whose arising is from whose maternal generative substance |
+| `yat-śoṇita-udbhavaḥ` | relative compound, nominative masculine singular | a living being whose arising is from whose maternal blood |
 
-**Bhāṣya-resolved coordination of the first line**
-
-```text
-upakāriṇaḥ nirākṛtiḥ
-    → repudiation of a benefactor
-
-guṇakṣetrasya vipādanam
-    → destruction of a field of qualities
-```
-
-The dense compound compresses two different grounds of immediate-result
-karma. It should not be flattened into one vague class of exceptional
-persons.
-
-**Two tests of parental identity**
-
-```text
-vyañjanāntara
-    → does not cancel parental status
-
-yat-śoṇita-udbhavaḥ
-    → determines technical maternity in the exceptional two-mother case
-```
-
-The second test is explained fully only in the Bhāṣya.
+The first compound compresses two relations that the Bhāṣya distinguishes:
+repudiation of a benefactor and destruction of a field of qualities.
 
 ## 4. Grammar
 
-**Ablative of cause**
+The first line gives two grounds for the immediate-result classification:
 
 ```text
-upakāri-[nirākṛti]-guṇakṣetra-vipādanāt
-    [ānantaryaṃ bhavati]
+upakāri-nirākṛti
+    → repudiation of a benefactor
+
+guṇa-kṣetra-vipādana
+    → destruction of a field of qualities
 ```
 
-> [Immediate-result karma arises] because of repudiating a benefactor and
-> destroying a field of qualities.
+The Bhāṣya identifies parents with the first relation and an arhat with
+the second.
 
-The governing predicate is understood from the preceding discussion. The
-Bhāṣya pairs `nirākṛti` with the parents and `vipādana` with the arhat,
-establishing beneficence and exceptional qualities as distinct field-relations.
-
-**Concessive persistence of parental status**
+The final clauses concern parentage:
 
 ```text
-vyañjana-antaritaḥ api
-    [pitā vā mātā vā] syāt
+vyañjana-antaritaḥ api syāt
+    → parentage remains despite a change in sexual characteristic
+
+mātā yat-śoṇita-udbhavaḥ
+    → technical maternity is assigned by the source's maternal-blood criterion
 ```
 
-> Even though altered in sexual characteristic, [the person] remains the
-> parent.
-
-The masculine nominative reflects the compressed case-form rather than
-limiting the doctrine to one direction of change. The Bhāṣya gives reciprocal
-examples for mother and father.
-
-**Relative determination of maternity**
-
-```text
-[sā] mātā
-    yat-śoṇita-udbhavaḥ [asau]
-```
-
-> The mother is she from whose maternal generative substance that being
-> arose.
-
-The relative `yat` correlates the source woman with the being's origination.
-The Bhāṣya applies this rule to an exceptional case in which one woman
-supplies the embryonic material and another receives, bears, nourishes, and
-raises the child.
+The verse's compactness leaves the specific cases and the relation between
+technical maternity and practical caregiving to the Bhāṣya.
 
 ## 5. Translation
 
-### Literal Translation
+### Scientific English Rendering
 
-> [Immediate-result karma arises] because of repudiating a benefactor and
-> destroying a field of qualities. Even if the sexual characteristic has
-> changed, [the parental relation] remains. The mother is she from whose
-> maternal generative substance the being arose.
+> Because of repudiating a benefactor and destroying a field of qualities.
+> Even with a change in sexual characteristic, parentage may remain; the
+> mother is the one from whose maternal blood the living being arose.
 
 ### Bhāṣya-informed study translation
 
-> Killing one's parents has immediate consequence because it repudiates the
-> constitutive benefactors from whom this embodied existence arose; killing an
-> arhat has immediate consequence because it destroys an exceptional field of
-> spiritual qualities. A later transformation of sexual characteristic does
-> not erase the parental relation. Where one woman supplies the maternal
-> generative substance and another bears and raises the child, the first is
-> technically the mother for the immediate-result classification, while the
-> second is rightly regarded as mother in ordinary practical relations because
-> she carried, nourished, and raised the child.
+> The immediate-result classification arises from repudiating a benefactor
+> and destroying a field of qualities. A change in sexual characteristic
+> does not erase parentage; for the technical maternity criterion, the
+> mother is the woman from whose maternal blood the living being arose.
+> The Bhāṣya explains parental killing through the agent's relation to
+> parents from whom embodied existence arose, and arhat-killing through
+> the arhat's status as a field of qualities. In its exceptional case of
+> two maternal relations, the source assigns technical maternity by
+> maternal origin while preserving the other woman's roles of bearing,
+> nourishing, and rearing. The further cases distinguish intended target,
+> actual victim, status at the time of action, and the number of
+> manifestation and non-disclosing-continuity factors.
 
-The embodied-origin explanation, the gloss of `nirākṛti` as abandonment, the
-reciprocal sex-change cases, and the distinction between technical and
-practical maternity are supplied by the Bhāṣya.
+The maternal-blood criterion is the Bhāṣya's historical doctrine, not a
+modern biological definition. The caregiving relation remains explicit
+in the same passage.
 
 ## 6. Philosophical Translation
 
-> The karmic identity of a field is constituted through its determinate
-> history and relations, not exhausted by its present visible predicates or
-> by an undifferentiated name. Parents are fields through the genesis of this
-> embodied existence; the arhat is a field through realized qualities. Within
-> maternity itself, causal origin, gestation, nourishment, and upbringing are
-> distinguishable relations whose truths remain valid at their proper levels.
-
-The rational form is:
-
-```text
-present appearance
-    ≠ complete relational identity
-
-causal genesis
-    + embodied history
-    + practical care
-    + field-character
-    → differentiated meaning of the person as karmic field
-```
-
-The Kośa does not solve the exceptional case by forcing every relation into
-one predicate. It determines which relation governs the technical question
-while preserving the practical truth of the others.
+> The exceptional classification depends on the relation that grounds the
+> action's target: parents are treated as benefactors through the origin of
+> the agent's embodied existence, while an arhat is treated as a field of
+> qualities. The maternity discussion distinguishes origin from bearing
+> and care, selecting one relation for the technical rule without denying
+> the others. The remaining cases show that intended target, actual victim,
+> and the target's status at the time of action are not interchangeable.
 
 ## 7. Technical Vocabulary
 
-**`Upakārin` — constitutive benefactor**
-
-Mother and father are benefactors because this `ātmabhāva`, this embodied
-existence, arises from them. Their relevance is therefore genetic and
-constitutive rather than a generic appeal to gratitude.
-
-**`Nirākṛti` — repudiation**
-
-The Bhāṣya glosses this as `parityāga`, abandonment. Parental killing is
-analyzed as the agent's destructive repudiation of the beneficent relation
-that stands behind its own embodied existence.
-
-**`Guṇakṣetra` — field of qualities**
-
-The arhat as an exceptional karmic field through realized spiritual
-qualities. This is a distinct ground from the parent's benefactor relation.
-
-**`Vipādana` — destruction or killing**
-
-The bodily destruction of the field of qualities. In the compressed first
-line it is coordinated with, but not identical to, repudiation of the
-benefactor.
-
-**`Vyañjana-parivṛtti` — transformation of sexual characteristic**
-
-The Bhāṣya's formulation of the case tested by `vyañjanāntarita`. A change in
-present sexual characteristic does not dissolve the parental relation formed
-through the child's origination.
-
-**`Śoṇita` — maternal generative substance**
-
-The ancient embryological term used to determine causal maternity in the
-exceptional case. It should be retained in its historical doctrinal register,
-not silently equated with a finished modern biological category.
-
-**Causal or technical maternity**
-
-The relation assigned to the woman from whose `śoṇita` the being arose. This
-relation governs which killing would constitute matricidal immediate-result
-karma in the Bhāṣya's exceptional case.
-
-**Gestational and nurturing maternity**
-
-The second woman is `āpāyikā`, `poṣikā`, and `saṃvardhikā`: bearer,
-nourisher, and rearer. Vasubandhu preserves her practical maternal status
-even though another relation governs the narrow technical classification.
+- **`Upakārin`** — benefactor. The Bhāṣya grounds the parents' role in the
+  agent's embodied existence arising through them.
+- **`Nirākṛti`** — repudiation; the Bhāṣya glosses it as `parityāga`,
+  abandonment.
+- **`Guṇakṣetra`** — field of qualities; here the arhat.
+- **`Vyañjana`** — sexual characteristic in the Bhāṣya's historical
+  categories. The study does not map this classification onto present
+  medical or social taxonomies.
+- **`Śoṇita`** — blood, used in the Bhāṣya's ancient embryological
+  account of technical maternity.
+- **`Ānantarya`** — the immediate-result classification discussed in this
+  passage; render the associated *karman* as action, not as an automatic
+  moral reward or result.
+- **`Vijñapti / avijñapti`** — manifestation / non-disclosing continuity.
+  The Bhāṣya records differing counts of these factors in one case.
+- **`Abhiprāya`** — intention in the distinctions between intending to
+  kill and intending only to strike. This passage does not use
+  *cetanā*; do not silently identify the terms.
 
 ## 8. Logical Determination
 
-Let:
-
 ```text
-A = the karmic agent
-E = A's present embodied existence
-P = a parent
-R = an arhat
-M1 = source of maternal generative substance
-M2 = gestational and nurturing mother
+Parent:
+    relation = benefactor through embodied origin
+Arhat:
+    relation = field of qualities
+
+Exceptional classification:
+    intended target
+    + actual victim
+    + relevant relation/status at the time of action
+    → immediate-result classification
 ```
 
-Then:
+The Bhāṣya further distinguishes:
 
 ```text
-OriginatesFrom(E, P)
-    → ConstitutiveBenefactorOf(P, A)
+changed sexual characteristic
+    does not by itself cancel parentage
 
-PossessesRealizedQualities(R)
-    → QualityField(R)
+maternal origin
+    → technical maternity in this classification
+
+bearing + nourishing + rearing
+    → a distinct practical maternal relation, preserved by the Bhāṣya
 ```
 
-The exceptional gravity is field-relative:
-
-```text
-Kills(A, x) alone
-    ≠ complete karmic determination
-
-Kills(A, x)
-    + ConstitutiveRelation(A, x)
-    + ExceptionalFieldCharacter(x)
-    → technically differentiated karma
-```
-
-**Persistence through changed appearance**
-
-```text
-ChangesSexCharacteristic(P)
-    does not entail
-CeasesToBeParentOf(P, A)
-```
-
-**Differentiated maternal relations**
-
-```text
-MaternalGenerativeOrigin(A, M1)
-    → TechnicalMotherForAnantarya(M1, A)
-
-Gestates(M2, A)
-Nourishes(M2, A)
-Raises(M2, A)
-    → PracticalMother(M2, A)
-```
-
-Neither inference cancels the other because the predicates determine
-different relations.
+Where one action affects two victims, the Bhāṣya counts two
+non-disclosing continuities; its account of manifestation is disputed by
+Bhadanta Ghoṣaka. A father who is also an arhat is one support and receives
+one immediate-result classification in the Bhāṣya's analysis, though a
+cited account speaks of two grounds.
 
 ## 9. Interpretive Note
 
-VAK 4.97 established that karma is determined within an agent–field–relation
-whole. VAK 4.103 now gives the field a genetic depth. The relevant person is
-not an isolated present bearer of visible features; the field includes the
-history through which the agent's own embodiment arose and the qualities
-through which the recipient has become spiritually determinate.
+This unit continues the action analysis from 4.102 by examining how
+exceptional status depends on relations, not merely on a bodily event.
+Parents, an arhat, a technical maternal relation, and a caregiving relation
+occupy distinct positions in the Bhāṣya's reasoning. The later questions
+add the intended person, actual victim, and status at the time of action.
 
-This explains the two grounds of exceptional gravity. In parental killing,
-Kriyā turns destructively against the constitutive benefactor relation from
-which the agent's embodied capacity for action emerged. In killing an arhat,
-it destroys a field in which the qualities of the Path have become actual.
-The Path is again the higher determination: `guṇakṣetra` is not merely a
-prestigious object but a living actuality of liberating qualities.
+The text's uses of intention (`abhiprāya`) are relevant to its case
+distinctions, but *cetanā* is not named here. The study therefore preserves
+the specific intention statements without turning them into a general
+definition of volition. The historical account of sexual characteristics
+and maternity is attributed to the Bhāṣya and not generalized beyond its
+technical question.
 
-The exceptional maternity case is methodologically invaluable. The single
-word “mother” covers at least three relations:
-
-```text
-causal-generative source
-gestational bearer
-nurturing and formative caregiver
-```
-
-The Kośa does not discard the term; it unfolds its internal relational
-structure. It selects causal-generative maternity for the narrow
-immediate-result rule while explicitly preserving gestational and nurturing
-maternity in practical life. This is exactly why isolated dictionary meaning
-is inadequate: meaning emerges through the system of relations and the
-question being determined.
-
-For the five-layered Object, this verse is a clean traversal rather than a
-mere list of attributes. Present appearance, causal origin, embodied
-mediation, practical care, and spiritual field-character are distinguishable
-determinations of one concrete object. Samyama as Schema Inference must know
-which layer supplies the valid middle term for the judgment at hand without
-annihilating the truth of the remaining layers.
+The source unit runs from the question at `[262|20]` through the answer at
+`[263|23]`, ending before the next question at `[263|23–24]`.
 
 ## 10. OWL++ Seed
 
-```ttl
-vak:VAK_4_103 a vak:Karika ;
-    rdfs:label "VAK 4.103" ;
-    vak:continues vak:VAK_4_102 ;
-    vak:hasTopic vak:ExceptionalKarmicField,
-                 vak:RelationalIdentity,
-                 vak:DifferentiatedMaternity .
+```text
+Class: ImmediateResultAction
+Class: ParentBenefactorRelation
+Class: QualityField
+Class: Arhat
+Class: MaternalOriginRelation
+Class: BearingRelation
+Class: NourishingRelation
+Class: RearingRelation
+Class: Manifestation
+Class: NonDisclosingContinuity
 
-vak:ParentField a vak:ConstitutiveBenefactorField ;
-    vak:groundedIn vak:EmbodiedOriginationRelation .
+ObjectProperty: directedAt
+  Domain: ImmediateResultAction
+ObjectProperty: hasActualVictim
+  Domain: ImmediateResultAction
+ObjectProperty: groundedIn
+  Domain: ParentBenefactorRelation
+ObjectProperty: hasMaternalOriginRelation
+  Domain: LivingBeing
 
-vak:ArhatField a vak:QualityField ;
-    vak:groundedIn vak:RealizedPathQualities .
+Rule: ParentRelatedImmediateResult
+  ground = ParentBenefactorRelation
+  relation = EmbodiedOrigin
 
-vak:ChangeOfSexCharacteristic
-    vak:doesNotCancel vak:ParentalRelation .
+Rule: ArhatRelatedImmediateResult
+  ground = QualityField
+  target = Arhat
 
-vak:TechnicalMaternalRelation
-    vak:groundedIn vak:MaternalGenerativeOrigin ;
-    vak:governs vak:MatricidalAnantaryaClassification .
+Rule: DistinctMaternalRelations
+  technicalClassification = MaternalOriginRelation
+  practicalRelations = {BearingRelation, NourishingRelation, RearingRelation}
+  constraint = OneRelationDoesNotEraseTheOther
 
-vak:PracticalMaternalRelation
-    vak:groundedIn vak:Gestation,
-                   vak:Nourishment,
-                   vak:Upbringing .
-
-vak:MotherPredicate
-    vak:hasRelationalDetermination vak:TechnicalMaternalRelation,
-                                    vak:PracticalMaternalRelation .
-
-vak:PresentVisiblePredicate
-    vak:doesNotExhaust vak:HistoricallyConstitutedRelation .
+Rule: MultipleVictimActionFactors
+  bhāṣyaPosition = TwoNonDisclosingContinuities
+  manifestationCount = Disputed
 ```

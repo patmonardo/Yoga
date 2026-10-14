@@ -1,4 +1,4 @@
-# VAK 4.118 Bhāṣya — Five Immeasurable Fields of Giving
+# VAK 4.118 Bhāṣya — Five Immeasurable Recipient Fields
 
 ## 1. Kārikā Anchor
 
@@ -7,18 +7,18 @@ mātṛpitṛglānadhārmakathikebhyo 'ntyajanmane /
 bodhisattvāya cāmeyā anāryebhyo 'pi dakṣiṇā // 4.118 //
 ```
 
-> An offering to one's mother, father, a sick person, a Dharma
-> speaker, or a bodhisattva in the final birth has immeasurable fruit,
-> even if the recipients are not noble persons.
+> An offering to one's mother, father, a sick person, a Dharma speaker, or
+> a Bodhisattva in the final birth is immeasurable, even when these
+> recipients are not noble persons.
 
-`Antyajanmane bodhisattvāya` names **one** recipient. The Bhāṣya
-confirms that the verse lists five fields.
+`Antyajanmane bodhisattvāya` names one recipient: a Bodhisattva in the
+final birth. The Bhāṣya confirms five fields in the verse.
 
 ## 2. Continuous Sanskrit
 
 ```iast
-srotaāpattiphalapratipannakāya dānaṃ dattvā 'prameyavipākaḥ;
-tato 'prameyataraḥ srotaāpannāya, iti vistareṇoktaṃ sūtre.
+srota āpattiphalapratipannakāya dānaṃ dattvā 'prameyavipākaḥ;
+tato 'prameyataraḥ srota āpannāya, iti vistareṇoktaṃ sūtre.
 api tu:
 
 mātṛpitṛglānadhārmakathikebhyo 'ntyajanmane /
@@ -28,70 +28,78 @@ ebhyaḥ pañcabhyaḥ pṛthagjanabhūtebhyo 'py aprameyā phalato
 dakṣiṇā bhavati. tatrāntyajanmā bodhisattvaś caramabhavikaḥ.
 
 dharmakathikaś caturvidhe kṣetraviśeṣe katamasmin pakṣe
-nikṣeptavyaḥ? upakāripakṣe.
+dikṣeptavyaḥ? upakāripakṣe.
 
 sa hi mahākalyāṇamitram, avidyāndhāyāṃ prajāyāṃ
 prajñācakṣuṣo dātā, samaviṣamasya prakāśayitā,
-anāsravasya dharmakāyasyābhinirvartayitā,
+anāsravasya dharmakāyasyātinivartayitā,
 samāsato buddhakṛtyasya kartā.
 ```
 
-The source unit is `[270|26]–[271|07]`. The running witness has
-`srota āpatti` and `srota āpannāya` with spaces, opened above as the
-standard compounds. It reads `dikṣeptavyaḥ` at `[271|04–05]` and
-`ātinivartayitā` at `[271|05–07]`; `nikṣeptavyaḥ` and
-`abhinirvartayitā` above are conjectural repairs. The secure sense of
-the latter phrase is a productive relation to the uncontaminated
-Dharma-body; the exact verb remains uncertain in this witness.
+The source span is `[270|26]–[271|07]`. At `[271|04–05]`, the witness
+reads `dikṣeptavyaḥ`; `nikṣeptavyaḥ` is a conjectural repair. At
+`[271|05–07]`, the witness reads `ātinivartayitā`; `abhinirvartayitā`
+has been conjectured. The translation signals the uncertainty rather than
+silently adopting either repair.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Scientific English Rendering
 
-A sūtra says that giving to one practicing for stream-entry has an
-immeasurable maturation and that giving to a stream-enterer has an
-even greater one, and so on. Yet offerings to five other recipients
-also have immeasurable fruit: mother, father, a sick person, a Dharma
-speaker, and a bodhisattva in the final existence. This is so even if
-these recipients are ordinary persons. “Final-birth bodhisattva”
-means one in the last existence before Buddhahood.
+A sūtra states: “Having given to one practicing for the fruit of
+stream-entry, [there is] immeasurable maturation; from that, [there is]
+still greater [maturation] for one who has attained stream-entry.” This
+is stated at length in the sūtra. However:
 
-Among the four ways a recipient field was distinguished in 4.117,
-where should a Dharma speaker be placed? Among benefactors. Such a
-speaker is a great spiritual friend, gives the eye of prajñā to people
-blinded by ignorance, discloses the even and uneven course, and has a
-productive relation to the uncontaminated Dharma-body. In brief, the
-speaker performs the work of a Buddha.
+“An offering to one's mother, father, a sick person, a Dharma speaker, or
+a Bodhisattva in the final birth is immeasurable, even when these
+recipients are not noble persons.”
 
-## 4. The Five Fields
+An offering to these five, even when they are ordinary persons, is
+immeasurable with respect to result. Among them, the Bodhisattva in the
+final birth is one whose present existence is the final one.
 
-| Recipient | Relevant relation in this sequence |
+Among the four kinds of distinction of the recipient field, under which
+category should a Dharma speaker be placed? Under the category of
+benefactors. For the Dharma speaker is a great beneficial friend, gives
+the eye of the Science of Principles to people blinded by ignorance,
+makes clear what is even and uneven, and [according to a conjectural
+reading] brings about the Dharma-body without influx. In brief, the
+Dharma speaker performs Buddha-work.
+
+## 4. Distinctions Preserved
+
+| Expression or claim | Bhāṣya's force |
 |---|---|
-| mother and father | prior benefit to the giver |
-| sick person | present suffering and need |
-| Dharma speaker | benefit through instruction |
-| final-birth bodhisattva | a career approaching Buddhahood |
+| `aprameya-vipāka` | Immeasurable maturation in the preceding sūtra comparison |
+| `aprameyā phalato dakṣiṇā` | Immeasurable offering with respect to result for the five fields |
+| `pṛthagjanabhūta` | The five recipients may be ordinary persons |
+| `upakāripakṣa` | The Dharma speaker belongs among benefactors |
+| `prajñācakṣus` | The Science-of-Principles eye given to those blinded by ignorance |
+| `ātinivartayitā` | Witness reading in the Dharma-body phrase; exact force uncertain |
+| `abhinirvartayitā` | Conjectural reading that would mean “bringing about” the Dharma-body without influx |
 
-The verse does not claim that these five recipients have the same
-qualities or status. Its common predicate is that the gift's **fruit**
-is immeasurable (`aprameyā phalato`), even where noble attainment is
-absent. Material size of the offering is not what `ameyā` measures.
+The stream-entry comparison is a lead-in, not a sixth recipient in the
+verse's fivefold list. `Phala` and `vipāka` are kept distinct in the
+translation.
 
-The Bhāṣya itself classifies the Dharma speaker under
-`upakāritva`, beneficence. It does not merely infer that category from
-the speaker's learning or institutional title; it lists what the
-speaker enables for others.
+## 5. Interpretation
 
-## 5. Organon Contact Point — Project Reconstruction
+The Dharma speaker is assigned to the benefactor field because the
+speaker's instruction enables others: it gives the eye of the Science of
+Principles, clarifies what is even and uneven, and performs Buddha-work.
+This is the Bhāṣya's reason for recognizing the speaker as a field of
+immeasurable result, not a general claim about every person who speaks
+about Dharma.
 
-For our account of a practical field, the Dharma speaker is a clear
-case of mediated benefit: instruction supplies discriminative capacity
-to others, so the effect of supporting the speaker can extend beyond
-the initial giver-recipient pair. That is an Organon inference from
-the Bhāṣya's description, not a separate source claim about a
-particular institution.
+The fivefold field analysis includes relations of care, need, instruction,
+and a Bodhisattva's final existence. The result predicate does not depend
+on noble status alone. Keep this role-structure distinct from Mind itself:
+Bases gather content and frames, not Mind. The verse does not name
+`cetanā`; the volitional dimension remains part of the broader chapter
+context rather than an inserted source term.
 
 ## 6. Review Status
 
-The study covers `[270|26]–[271|07]`, records the difficult verb in
-the Dharma-body sentence, and stops before 4.119's six determinants
-of karmic weight begin at `[271|08]`. The running source and
-first-pass study remain unchanged.
+This study covers `[270|26]–[271|07]` and stops before the six factors
+for determining karmic weight begin at `[271|08]`. The two difficult
+readings in the Dharma-speaker explanation and their conjectural repairs
+are recorded.

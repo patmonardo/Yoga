@@ -1,4 +1,4 @@
-# VAK 4.124 Bhāṣya — Characteristic Fruits and Brahmā Merit
+# VAK 4.124 Bhāṣya — Predominant Results and Brahmā-Merit
 
 ## 1. Kārikā Anchor
 
@@ -7,13 +7,12 @@ svargāya śīlaṃ prādhānyāt visaṃyogāya bhāvanā /
 caturṇāṃ brāhmapuṇyatvaṃ kalpaṃ svargeṣu modanāt // 4.124 //
 ```
 
-> Discipline principally leads to heaven, and cultivation to
-> disconnection. The merit associated with four persons is called
-> Brahmā merit because it brings enjoyment in heaven for a kalpa.
+> Discipline principally conduces to heaven; cultivation principally
+> conduces to disjunction. The merit of the four [persons] is called
+> Brahmā-merit because of delighting in heaven for a kalpa.
 
-`Prādhānyāt` marks a principal relation, not an exclusive one.
-The running unit does not identify the four persons mentioned in
-the second half.
+`Prādhānyāt` marks predominance, not an exclusive result. The four persons
+are not identified in this local passage.
 
 ## 2. Continuous Sanskrit
 
@@ -36,51 +35,58 @@ nikāyāntare gāthāṃ paṭhanti:
 "brāhmaṃ puṇyaṃ prasavati, kalpaṃ svargeṣu modate" iti.
 ```
 
-The unit is `[274|05]–[274|13]`. The witness's `sutra` at
-`[274|07]` is normalized to `sūtra`. The Vaibhāṣika explanation
-points back to a measure mentioned for karma producing the marks;
-the local passage does not restate that measure or enumerate the four
-persons. The next question begins a new topic, Dharma-giving.
+The source span is `[274|05]–[274|13]`. The witness reads `sutra` at
+`[274|07]`, normalized here as `sūtra`. The next topic begins at
+`[274|14]`.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Scientific English Rendering
 
-Discipline leads principally to heavenly birth, and cultivation
-principally to disconnection. Giving can also lead to heaven, but
-discipline has the predominant relation to it. Discipline can also
-lead to disconnection, but cultivation has the predominant relation
-to that result.
+“Discipline principally conduces to heaven; cultivation principally to
+disjunction.”
 
-A sūtra says that four persons generate Brahmā merit. What is its
-measure? The Vaibhāṣikas connect it to the measure previously used
-to explain karma maturing as the Buddha's marks. Earlier teachers
-instead explain it by its fruit: the merit through which one enjoys
-the heavens for a kalpa is Brahmā merit, since Brahmā's ministers
-have a kalpa-long life. Another collection quotes a verse saying
-the same.
+Giving also conduces to heaven; discipline does so principally.
+Discipline also conduces to disjunction; cultivation does so principally.
 
-## 4. Principal Fruit and Disputed Measure
+A sūtra states: “Four persons produce Brahmā-merit.” What is that
+Brahmā-merit? The Vaibhāṣikas say it was stated to make known the measure
+of action whose maturation produces the marks. Former teachers, however,
+explain:
 
-The first half gives a **relative emphasis**:
+“The merit of the four is Brahmā-merit because of delighting in the
+heavens for a kalpa.”
 
-```text
-giving → can lead to heaven
-discipline → principally leads to heaven; can also aid disconnection
-cultivation → principally leads to disconnection
-```
+The merit by which one delights in the heavens for a kalpa is Brahmā-merit,
+because the ministers of Brahmā have a lifespan of a kalpa. In another
+collection they recite a verse: “Brahmā-merit is produced, and one delights
+in the heavens for a kalpa.”
 
-The second half reports more than one explanation of Brahmā merit.
-The text does not support silently identifying the four persons or
-turning “one kalpa in heaven” into the only reported measure.
+## 4. Two Accounts of Brahmā-Merit
 
-## 5. Organon Contact Point — Project Reconstruction
+| Attribution | Measure or explanation |
+|---|---|
+| Vaibhāṣikas | The measure used to indicate action whose maturation produces the Buddha's marks |
+| Former teachers | Merit yielding enjoyment in the heavens for a kalpa |
+| Another collection | A verse stating that Brahmā-merit produces a kalpa of heavenly enjoyment |
 
-The `prādhānyāt` qualification is useful for our practical schema:
-an activity may support several ends while having one characteristic
-fruit in a given analysis. This is an abstraction from the source's
-explicit non-exclusive comparisons.
+The four persons are named in the sūtra cited by the Bhāṣya but are not
+enumerated here. The Vaibhāṣika account and former-teacher account remain
+distinct.
+
+## 5. Interpretation
+
+The Bhāṣya explicitly makes predominance non-exclusive. Giving and
+discipline can both conduce to heaven; discipline and cultivation can
+both conduce to disjunction. Their chief orientations differ, but the
+practices are not sealed into mutually exclusive causal boxes.
+
+The dispute over Brahmā-merit concerns its measure: one account refers
+back to the measure of action producing the Buddha's marks, while the
+former teachers use kalpa-long heavenly enjoyment. The source reports
+both without identifying the four persons or resolving the difference
+here.
 
 ## 6. Review Status
 
-The study covers `[274|05]–[274|13]` and stops before Dharma-giving
-at `[274|14]`. The running source and first-pass study remain
-unchanged.
+This study covers `[274|05]–[274|13]` and stops before the material-giving
+discussion at `[274|14]`. It preserves the Vaibhāṣika and former-teacher
+accounts separately.

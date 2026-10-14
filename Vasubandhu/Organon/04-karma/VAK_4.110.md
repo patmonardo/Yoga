@@ -1,4 +1,4 @@
-# VAK_4.110 — Merits, Three Periods, and the First Vow
+# VAK 4.110 — The Marks, Merit, and the Bodhisattva's Career
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -9,327 +9,184 @@
 
 ## 2. Sanskrit (IAST)
 
-```text
+```iast
 ekaikaṃ puṇyaśatajam asaṃkhyeyatrayāntyajāḥ /
 vipaśyī dīpakṛd ratnaśikhī śākyamuniḥ purā // 4.110 //
 ```
 
-The verse lists Vipaśyin, Dīpaṃkara (`dīpakṛt`), and Ratnaśikhin in reverse
-chronological order. The Bhāṣya explicitly reconstructs Ratnaśikhin as the end
-of the first incalculable, Dīpaṃkara the second, and Vipaśyin the third.
+The Bhāṣya reads the first half as a claim about each mark's merit-ground.
+It then reconstructs the order of the Buddhas at the ends of the three
+incalculable periods and identifies an earlier Buddha Śākyamuni as the
+setting of the Bodhisattva's first vow.
 
 ## 3. Lexical Analysis
 
 ```text
-eka-ekam | puṇya-śata-jam | asaṃkhyeya-traya-āntya-jāḥ |
+eka-ekam | puṇya-śata-jam | asaṃkhyeya-traya-antya-jāḥ |
 vipaśyī | dīpa-kṛt | ratna-śikhī | śākya-muniḥ | purā
 ```
 
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
-| `eka-ekam` | nominative neuter singular distributive, with `lakṣaṇam` understood | each individual mark |
-| `puṇya-śata-jam` | nominative neuter singular compound | born from one hundred merit-units |
-| `asaṃkhyeya-traya-āntya-jāḥ` | nominative masculine plural compound | Buddhas appearing at the ends of the three incalculables |
-| `vipaśyī` | nominative masculine singular | the Buddha Vipaśyin |
-| `dīpa-kṛt` | nominative masculine singular | Dīpaṃkara, “Lamp-maker” |
-| `ratna-śikhī` | nominative masculine singular | the Buddha Ratnaśikhin |
-| `śākya-muniḥ` | nominative masculine singular | an earlier Buddha named Śākyamuni |
+| `eka-ekam` | distributive nominative/accusative neuter singular; `lakṣaṇam` understood | each individual mark |
+| `puṇya-śata-jam` | nominative/accusative neuter singular compound | born from a hundred merits |
+| `asaṃkhyeya-traya-antya-jāḥ` | nominative masculine plural compound | those occurring at the ends of three incalculable periods |
+| `vipaśyī` | nominative masculine singular | Vipaśyin |
+| `dīpa-kṛt` | nominative masculine singular | Dīpaṃkara |
+| `ratna-śikhī` | nominative masculine singular | Ratnaśikhin |
+| `śākya-muniḥ` | nominative masculine singular | Śākyamuni, identified by the Bhāṣya as an earlier Buddha |
 | `purā` | temporal adverb | formerly, before these |
 
-**Distributive production of the marks**
-
-```text
-ekaikaṃ [lakṣaṇam]
-    puṇyaśatajam [asti]
-```
-
-**Bhāṣya-resolved chronology**
-
-```text
-first incalculable ends
-    → Ratnaśikhin
-
-second incalculable ends
-    → Dīpaṃkara
-
-third incalculable ends
-    → Vipaśyin
-
-before all three
-    → an earlier Buddha Śākyamuni
-    → field of the Bodhisattva's first vow
-```
+The verse names the period-ending Buddhas in reverse order. The Bhāṣya
+assigns Ratnaśikhin to the first period's end, Dīpaṃkara to the second,
+and Vipaśyin to the third.
 
 ## 4. Grammar
 
-**Each mark and its causal multiplicity**
+The first half distributes the causal statement over each mark:
 
 ```text
 eka-ekam [lakṣaṇam]
     puṇya-śata-jam [bhavati]
 ```
 
-> Each individual mark is born from one hundred merits.
+> Each individual mark is born from a hundred merits.
 
-The distributive repetition `eka-ekam` makes the rule apply separately to
-every mark. `Puṇyaśataja` does not say that one undifferentiated total of one
-hundred merits produces the complete set; each singular mark has its own
-hundredfold causal ground.
-
-**Buddhas at the termini**
+The second half gives the three period-ending Buddhas, followed by an
+earlier Śākyamuni:
 
 ```text
-asaṃkhyeya-traya-antya-jāḥ
+asaṃkhyeya-traya-antya-jāḥ:
     vipaśyī
-    dīpakṛt
-    ratnaśikhī
+    dīpa-kṛt
+    ratna-śikhī
+
+śākya-muniḥ purā
 ```
 
-> Vipaśyin, Dīpaṃkara, and Ratnaśikhin are those at the ends of the three
-> incalculable periods.
-
-The compound is plural, while each proper name is singular in apposition.
-The verse's forward sequence is retrograde relative to the career's first,
-second, and third periods.
-
-**Earlier field of the first vow**
-
-```text
-śākyamuniḥ
-    purā [babhūva]
-```
-
-> Before them there was [a Buddha] Śākyamuni.
-
-The Bhāṣya distinguishes this earlier Buddha bearing the same name from the
-Bodhisattva who would become the present Śākyamuni. Before that Buddha the
-Bodhisattva first made his explicit vow to become a Buddha of that kind.
+The order in the verse is retrograde relative to the career's first,
+second, and third incalculable periods. The prose supplies the chronology
+and states that the earlier Śākyamuni is where the Bodhisattva first made
+the vow to become a Buddha of that kind.
 
 ## 5. Translation
 
-### Literal Translation
+### Scientific English Rendering
 
-> Each individual [mark] is born from one hundred merits. Vipaśyin,
-> Dīpaṃkara, and Ratnaśikhin are those at the ends of the three incalculable
-> periods; before them was Śākyamuni.
+> Each individual mark is born from a hundred merits. Vipaśyin,
+> Dīpaṃkara, and Ratnaśikhin occur at the ends of the three incalculable
+> periods; earlier was Śākyamuni.
 
 ### Bhāṣya-informed study translation
 
-> Each individual mark of a Great Person matures from a hundred extraordinary
-> units of merit, whose magnitude cannot be reduced to an ordinary tally of
-> good deeds. Within the larger Bodhisattva career, Ratnaśikhin stands at the
-> end of the first incalculable period, Dīpaṃkara at the end of the second, and
-> Vipaśyin at the end of the third. Prior to these was an earlier Buddha named
-> Śākyamuni, in whose presence the Bodhisattva who would become the present
-> Śākyamuni first formed the explicit vow to attain Buddhahood of that kind.
+> Each individual mark is born from a hundred merits. Vipaśyin,
+> Dīpaṃkara, and Ratnaśikhin occur at the ends of the three incalculable
+> periods; earlier was Śākyamuni. The Bhāṣya reverses the names into
+> chronological order: Ratnaśikhin ends the first period, Dīpaṃkara the
+> second, and Vipaśyin the third. Before these, an earlier Buddha named
+> Śākyamuni was present when the Bodhisattva first vowed, “May I become
+> a Buddha of just this kind.”
 
-The disputed measures of one merit-unit, numbers of Buddhas served, reversed
-chronology, identity of the earlier Śākyamuni, and first-vow episode are
-supplied by the Bhāṣya.
+The Bhāṣya asks what one merit measures and reports three different
+answers. It also gives counts of Buddhas attended in each period. These
+explanations and the first-vow episode are not all stated in the kārikā.
 
 ## 6. Philosophical Translation
 
-> Buddha-form is accumulated activity made manifest. A hundredfold causal
-> multiplicity does not remain an external aggregate but matures as one
-> determinate bodily mark; the whole set of marks concentrates an immense
-> practical history into visible form. Yet the measure of that history is
-> proportionate to the total causal field and therefore exceeds ordinary
-> worldly calculation. Its intelligibility is genetic, not reducible to a
-> ledger.
-
-The nested career is:
-
-```text
-first explicit vow before an actual Buddha
-    → three incalculable periods of service and cultivation
-    → hundred-kalpa mark-producing phase
-    → manifested Buddha-form
-```
-
-Quantity passes into quality through karmic integration:
-
-```text
-one hundred merit-units
-    → one singular mark
-
-immense multiplicity of actions
-    → one articulated Buddha-body
-```
+> Each mark has a determinate hundredfold merit-ground, while the measure
+> of a single merit is disputed or reserved to Buddha-knowledge. The mark
+> is thus presented as a specific result of accumulated action, not a
+> quantity that can simply be converted into an ordinary tally. The
+> chronology adds a long career and an explicit vow as its organizing end.
 
 ## 7. Technical Vocabulary
 
-**`Puṇyaśataja` — born from one hundred merits**
-
-The causal constitution of each individual Buddha-mark. The number expresses
-an ordered hundredfold accumulation, but the Bhāṣya refuses to equate its
-units with ordinary, readily measurable good deeds.
-
-**`Puṇya-parimāṇa` — measure of one merit-unit**
-
-The Bhāṣya reports three positions: the enjoyment-result of all beings other
-than a Bodhisattva near awakening; the karmic predominance capable of
-producing the entire three-thousand-great-thousand world-system; or a measure
-known only by Buddhas. These are reported estimates, not one settled
-arithmetical definition.
-
-**`Karmādhipatya` — karmic governing efficacy**
-
-In the second reported measure, the efficacy through which a complete
-world-system is produced. The proposal indicates the cosmological scale of
-one merit-unit rather than reducing merit to an external score.
-
-**`Kalpāsaṃkhyeya` — incalculable period**
-
-The macro-temporal measure of the Bodhisattva career. The Bhāṣya records
-service to seventy-five thousand Buddhas in the first, seventy-six thousand
-in the second, and seventy-seven thousand in the third.
-
-**Ratnaśikhin, Dīpaṃkara, and Vipaśyin**
-
-The Buddhas marking the ends of the first, second, and third incalculable
-periods respectively. Their actual order must be reconstructed against the
-reverse order of names in the verse.
-
-**The earlier Śākyamuni**
-
-A perfectly awakened Buddha prior to those three termini. In his field the
-later Bodhisattva made the first explicit `praṇidhāna` for Buddhahood.
-
-**`Praṇidhāna` — vow or resolve**
-
-The explicit practical adoption of Buddhahood as the end governing the
-career. It precedes the incalculable accumulation and gives that activity a
-unified direction.
+- **`Puṇya-śata-ja`** — born from a hundred merits. The Bhāṣya applies
+  this distributively to each individual mark.
+- **`Puṇya-parimāṇa`** — measure of one merit. The Bhāṣya reports three
+  views rather than one settled common metric.
+- **`Saṃnikṛṣṭa-bodhisattva`** — the near or proximate bodhisattva
+  excluded in one estimate; the precise force of the term is not elaborated
+  here.
+- **`Karmādhipatya`** — the efficacy or predominance of beings' karma in
+  bringing forth the great world-system, offered as another scale for one
+  merit.
+- **`Kalpa-asaṃkhyeya`** — an incalculable period in the bodhisattva's
+  career. The Bhāṣya gives the numbers of Buddhas attended in each.
+- **`Praṇidhāna`** — vow or resolve. The Bhāṣya says the Bodhisattva first
+  made this vow before an earlier Buddha named Śākyamuni.
 
 ## 8. Logical Determination
 
-Let:
-
 ```text
-M = one Buddha-mark
-P1 ... P100 = one hundred extraordinary merit-units
-B = the complete Buddha-body
-V = first explicit vow
-C = the subsequent Bodhisattva career
+For each individual mark:
+    merit-ground = one hundred merits
+
+Measure of one merit, as reported:
+    1. up to the enjoyment-result of all beings,
+       with the near bodhisattva excepted
+    2. the karmic efficacy through which the entire great world-system arises
+    3. known only by Buddhas
+
+Career chronology:
+    first incalculable period  → 75,000 Buddhas; ends with Ratnaśikhin
+    second incalculable period → 76,000 Buddhas; ends with Dīpaṃkara
+    third incalculable period  → 77,000 Buddhas; ends with Vipaśyin
+    earlier still              → first vow before an earlier Śākyamuni
 ```
 
-Then:
-
-```text
-Integrates({P1 ... P100}, M)
-```
-
-not merely:
-
-```text
-ExternallyAdjacent(P1 ... P100, M)
-```
-
-For the complete form:
-
-```text
-ForEachMark(Mi):
-    HasDistinctHundredfoldGround(Mi)
-
-Integrates({M1 ... Mn}, B)
-```
-
-**Nested temporal architecture**
-
-```text
-Adopts(V, BuddhaEnd)
-    → Organizes(V, C)
-    → Traverses(C, ThreeIncalculablePeriods)
-    → Produces(C, HundredKalpaMarkPhase)
-    → MaturesAs(C, B)
-```
-
-**Real but non-reductive quantification**
-
-```text
-CountOfMeritUnits(M) = 100
-
-ExactWorldlyMeasure(OneMeritUnit)
-    = doctrinally unsettled or Buddha-cognized
-```
-
-Thus:
-
-```text
-DeterminateQuantity
-    does not entail
-AdequateOrdinaryMetric
-```
+The first two measures are positions attributed to unnamed speakers; the
+third is attributed to others. Do not merge them into a single definition
+or present the numbers as one speaker's account.
 
 ## 9. Interpretive Note
 
-VAK 4.109 showed the actual Buddha-field becoming reflectively operative in
-mark-producing Kriyā. VAK 4.110 expands that local act into the entire genetic
-architecture of Buddha-form. The present mark is intelligible only through
-the multiplicity of merit it concentrates, while that merit belongs to a
-career organized by an original vow and traversing nested temporal scales.
+The hundredfold statement gives each mark its own merit-ground. The
+Bhāṣya then resists reducing “one merit” to a convenient human unit:
+reported estimates range from the enjoyment-result of beings to the
+karmic efficacy of an entire world-system, while another position reserves
+the measure to Buddhas. The number of merits is stated, but the scale of a
+single merit remains difficult to quantify.
 
-This is a genuine quantity-to-quality transition. The hundred merits do not
-sit beside the mark as one hundred external causes beside one external
-effect. They are integrated and preserved in the mark as determinate form.
-The Buddha-body is consequently an embodied archive: it does not merely
-record the career symbolically but is that activity matured into appearance.
+The vow before the earlier Śākyamuni links that immense accumulation to an
+adopted end. This is a source-grounded relation between resolve and career,
+not an explicit equation of *praṇidhāna* with *cetanā*. The chronology is
+also careful to distinguish the earlier Buddha named Śākyamuni from the
+later Buddha whose career is being recounted.
 
-For Samyama as Schema Inference, the causal crystal has several nested levels:
-
-```text
-actual Buddha-field
-    → vow as adopted Principle
-    → incalculable Bhūmi-sequence
-    → reflected mark-producing actions
-    → hundredfold integrations
-    → articulated Buddha-form
-```
-
-Jñāna of the mark therefore cannot stop at its visible predicate. It must
-recover the Principle, relational fields, quantitative integrations, and
-temporal transitions through which the appearance has become valid.
-
-The limit placed on measurement is also rational rather than anti-rational.
-The Kośa asserts a definite quantitative organization while recognizing that
-an adequate unit must be proportionate to the whole causal field. Ordinary
-cognition lacks that complete field; Buddha-cognition is said to possess it.
-The failure is not of determination but of the measuring standpoint.
-
-Finally, `praṇidhāna` gives the immense multiplicity one end. The vow does not
-magically produce the Buddha-body; it makes the following activity one career
-whose accumulated quantity can pass over into the determinate quality of
-Buddha-form.
+The source witness reads `śāsyamuniḥ` in the verse at `[266|24]`, while the
+following prose has `śākyamunir nāma`; the study follows the prose and
+research reading. It also records `pratheme` for `prathame` and `vabhūva`
+for `babhūva`. The closing statement about the earlier Buddha's era and
+teaching is rough in this witness and is not conjecturally reconstructed.
+The unit covers `[266|11]–[267|02]` and stops before the question about
+the perfections at `[267|03]`.
 
 ## 10. OWL++ Seed
 
-```ttl
-vak:VAK_4_110 a vak:Karika ;
-    rdfs:label "VAK 4.110" ;
-    vak:continues vak:VAK_4_109 ;
-    vak:hasTopic vak:HundredfoldMeritGround,
-                 vak:ThreeIncalculableCareer,
-                 vak:QuantityToQualityMaturation .
+```text
+Class: BuddhaMark
+Class: Merit
+Class: IncalculablePeriod
+Class: PeriodEndingBuddha
+Class: BodhisattvaVow
 
-vak:BuddhaMark
-    vak:producedBy vak:HundredMeritComplex ;
-    vak:integrates vak:ExtraordinaryMeritUnits .
+Rule: MarkMeritGround
+  forEach = BuddhaMark
+  meritCount = OneHundred
 
-vak:MeritUnitMeasure
-    vak:hasReportedEstimate vak:AllBeingsEnjoymentResult,
-                            vak:WorldSystemProducingKarmicEfficacy ;
-    vak:mayBeKnownOnlyBy vak:BuddhaCognition .
+AlternativeMeasure: OneMerit
+  measure1 = EnjoymentResultOfBeingsExceptNearBodhisattva
+  measure2 = KarmicEfficacyProducingGreatWorldSystem
+  measure3 = KnownOnlyByBuddhas
 
-vak:ThreeIncalculableCareer
-    vak:hasFirstTerminus vak:Ratnasikhin ;
-    vak:hasSecondTerminus vak:Dipamkara ;
-    vak:hasThirdTerminus vak:Vipasyin ;
-    vak:precedes vak:HundredKalpaMarkPhase .
+Rule: PeriodEndingBuddhas
+  first = Ratnashikhin
+  second = Dipamkara
+  third = Vipashyin
 
-vak:FirstBuddhahoodVow
-    vak:madeBefore vak:EarlierSakyamuniBuddha ;
-    vak:organizes vak:BodhisattvaCareer .
-
-vak:BuddhaBody
-    vak:manifests vak:IntegratedKarmicHistory .
+Rule: PriorVow
+  occursBefore = ThreeIncalculablePeriods
+  object = BuddhahoodOfThatKind
+  setting = EarlierBuddhaNamedShakyamuni
 ```

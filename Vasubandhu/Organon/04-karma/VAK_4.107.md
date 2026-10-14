@@ -1,18 +1,23 @@
-# VAK_4.107 — Karma at Three Path Thresholds
+# VAK 4.107 — Analogues and Karma at Three Path Thresholds
 
 ## 1. Sanskrit (Devanāgarī)
 
 ```sanskrit
 आनन्तर्यसभागानि पञ्चमं स्तूपभेदनम् ।
-क्षान्त्यनागामितार्हत्त्वप्राप्तौ कर्मातिविघ्नकृत् ॥ ४.१०७ ॥
+क्षान्त्यानागामितार्हत्त्वप्राप्तौ कर्मातिविघ्नकृत् ॥ ४.१०७ ॥
 ```
 
 ## 2. Sanskrit (IAST)
 
-```text
+```iast
 ānantaryasabhāgāni pañcamaṃ stūpabhedanam /
 kṣāntyanāgāmitārhattvaprāptau karmātivighnakṛt // 4.107 //
 ```
+
+The first half completes the five actions analogous to the immediate-result
+actions. The second half opens a separate claim: karma can be strongly
+obstructive at three Path attainments. The Bhāṣya explicitly says that this
+second claim concerns other karma as well, not only the five analogues.
 
 ## 3. Lexical Analysis
 
@@ -21,60 +26,29 @@ kṣāntyanāgāmitārhattvaprāptau karmātivighnakṛt // 4.107 //
 kṣānti-anāgāmitā-arhattva-prāptau | karma | ati-vighna-kṛt
 ```
 
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
-| `ānantarya-sabhāgāni` | nominative neuter plural | analogues of the immediate-result karmas |
-| `pañcamam` | nominative neuter singular | the fifth |
-| `stūpa-bhedanam` | nominative neuter singular compound | destruction of a stūpa |
-| `kṣānti` | compound member | the Path-stage of acceptance |
-| `anāgāmitā` | compound member | non-returnership |
-| `arhattva` | compound member | arhatship |
-| `prāptau` | locative feminine singular action noun | at the attainment |
-| `karma` | nominative neuter singular | karma possessing an outstanding maturation |
-| `ati-vighna-kṛt` | nominative neuter singular agent compound | producing an extreme obstruction |
-
-**Completion of the preceding list**
-
-```text
-[pūrvoktāni catvāri]
-    ānantarya-sabhāgāni
-
-pañcamam
-    stūpa-bhedanam
-```
-
-**Three Path thresholds**
-
-```text
-kṣānti-prāptau
-anāgāmitā-prāptau
-arhattva-prāptau
-
-karma
-    ati-vighna-kṛt [bhavati]
-```
-
-The Bhāṣya explicitly broadens the subject of the second half to other karma
-possessing maturation. `Karma` must not be restricted to the five analogues.
+| `ānantarya-sabhāgāni` | nominative neuter plural compound | analogous in character to the immediate-result actions |
+| `pañcamam` | nominative neuter singular ordinal | the fifth |
+| `stūpa-bhedanam` | nominative neuter singular action noun | destruction of a stūpa |
+| `kṣānti-anāgāmitā-arhattva-prāptau` | locative singular compound | at the attainments of acceptance, non-returnership, and arhatship |
+| `karma` | nominative neuter singular | action; the Bhāṣya extends the claim beyond the preceding five analogues |
+| `ati-vighna-kṛt` | nominative neuter singular compound predicate | making a powerful obstruction; strongly obstructive |
 
 ## 4. Grammar
 
-**Classification and fifth member**
+The first half completes the preceding list:
 
 ```text
-[etāni]
-    ānantarya-sabhāgāni [santi]
-
-pañcamam
-    stūpa-bhedanam [asti]
+ānantarya-sabhāgāni
+    pañcamam stūpa-bhedanam [asti]
 ```
 
-> These are immediate-result analogues; destruction of a stūpa is the fifth.
+> They are analogous to the immediate-result actions; destruction of a stūpa
+> is the fifth.
 
-The neuter plural predicate resumes the four acts in VAK 4.106. The following
-neuter singular identifies the final member of the fivefold list.
-
-**One predication across three attainments**
+The second half predicates obstructive force of karma at the named
+attainments:
 
 ```text
 kṣānti-anāgāmitā-arhattva-prāptau
@@ -82,266 +56,134 @@ kṣānti-anāgāmitā-arhattva-prāptau
     ati-vighna-kṛt [bhavati]
 ```
 
-> At the attainment of acceptance, non-returnership, and arhatship, karma
-> becomes extremely obstructive.
-
-The locative `prāptau` applies distributively to the three coordinated
-attainments. The singular `karma` receives a different maturation-domain in
-each case, as specified by the commentary.
+The Bhāṣya glosses the three terms as the attainment of `kṣānti`, the fruit
+of non-returnership, and arhatship. It also broadens `karma` beyond the five
+analogues with `anyad api tu karma savipākam`—“other karma, too, that has
+maturation.”
 
 ## 5. Translation
 
-### Literal Translation
+### Scientific English Rendering
 
-> These are analogues of the immediate-result karmas; destruction of a stūpa
-> is the fifth. At the attainment of acceptance, non-returnership, and
-> arhatship, karma produces an extreme obstruction.
+> The analogues of the immediate-result actions; destruction of a stūpa
+> is the fifth. Karma is a powerful obstruction at the attainments of
+> acceptance, non-returnership, and arhatship.
 
 ### Bhāṣya-informed study translation
 
-> The four acts named previously are analogues of the immediate-result karmas,
-> and destruction of a stūpa is the fifth. More broadly, karma whose
-> maturation-domain is about to be permanently passed beyond becomes acutely
-> obstructive at three Path-transitions. As one advances from the summit-stage
-> toward acceptance, karma destined for bad rebirth obstructs; approaching
-> non-returnership, desire-realm karma obstructs, except for karma to be
-> experienced in the present life; approaching arhatship, form- and
-> formless-realm karma obstruct. Each presses its outstanding causal claim as
-> the field in which it could mature is about to become inaccessible.
+> The analogues of the immediate-result actions; destruction of a stūpa
+> is the fifth. Karma is a powerful obstruction at the attainments of
+> acceptance, non-returnership, and arhatship. The Bhāṣya makes clear that
+> this second claim is not confined to the five analogues: other karma
+> possessing maturation can obstruct at these thresholds. As one advances
+> from the summit stage toward acceptance, karma leading to bad destinies
+> obstructs because its maturation ground is being passed beyond. Desire-realm
+> karma similarly obstructs one approaching the fruit of non-returnership,
+> except for action whose maturation is to be experienced in the present
+> life. Form- and formless-realm karma similarly obstruct one approaching
+> arhatship.
 
-The ordered fivefold correspondence, necessary hell result, reported dispute
-about immediacy, broadening to other karma, three obstructing classes, and the
-maturation-domain rationale are supplied by the Bhāṣya.
+The creditor simile explains the first case: claims appear when someone is
+about to leave the country. It illustrates why karma presses as its
+maturation ground is being left; it does not say that every obstructing
+action necessarily prevents attainment.
 
 ## 6. Philosophical Translation
 
-> Advancement on the Path does not merely add a higher state to an unchanged
-> continuum. Each irreversible transition eliminates whole domains in which
-> conditioned karma could still mature. Consequently, unresolved karma tied
-> to a departing domain becomes most obstructive at its boundary. Karma here
-> functions as an outstanding conditioned claim, while the Path progressively
-> contracts and finally closes the space of possible rebirth-maturation.
-
-The rational sequence is:
-
-```text
-karma bears maturation relative to Bhūmi D
-    → Path-transition approaches transcendence of D
-    → future maturation in D is about to become impossible
-    → karma becomes acutely obstructive at the threshold
-```
-
-The obstruction is therefore indexed to a specific transition and a specific
-maturation-field, not a vague quantity of past moral burden.
+> A Path threshold can become the point at which an action's maturation
+> presses most strongly. As the practitioner passes beyond the field in
+> which a result could ripen, that outstanding maturation acts like a
+> creditor appearing at the moment of departure. The obstruction is
+> transition-sensitive: its force is related to the maturation ground being
+> crossed, not to a general claim that all karma blocks every attainment.
 
 ## 7. Technical Vocabulary
 
-**`Ānantarya-sabhāga` — immediate-result analogue**
-
-A karmic species sharing the higher-order gravity of the canonical
-immediate-result acts without strict technical identity. The completed list
-contains the four acts of VAK 4.106 plus destruction of a stūpa.
-
-**`Stūpabhedana` — destruction of a stūpa**
-
-The fifth analogue. It attacks a sacred and institutional locus through which
-relation to the Buddha is maintained. The Bhāṣya states its place in the
-ordered correspondence but does not elaborate the mechanism here.
-
-**`Kṣānti` — acceptance**
-
-The Path-stage approached from `mūrdhan`, the summit-stage. Its attainment
-passes beyond the possibility of later maturation in the bad destinies;
-therefore `āpāyika` karma becomes obstructive at this threshold.
-
-**`Anāgāmitā` — non-returnership**
-
-The attainment after which future rebirth in the desire realm no longer
-occurs. Desire-realm karma therefore becomes obstructive as this fruit is
-approached.
-
-**`Dṛṣṭadharmavedanīya-karma` — karma experienced in the present life**
-
-The exception at non-returnership. Because its result does not require a
-future desire-realm birth, the transition does not remove its field of
-maturation in the same way.
-
-**`Arhattva` — arhatship**
-
-The attainment terminating further rebirth in form and formless realms as
-well as lower domains. Karmas belonging to those higher conditioned realms
-therefore become obstructive at this final threshold.
-
-**`Vipākabhūmi` — maturation-domain**
-
-The field or level within which a karma's result can become actual. This
-Bhāṣya term supplies the common principle governing all three cases.
-
-**`Ati-vighnakṛt` — acutely obstructive**
-
-Karma's intensified opposition at the moment when spiritual advancement is
-about to eliminate its remaining future field of maturation.
-
-**The creditor analogy**
-
-As creditors confront a debtor preparing to leave the country, karma tied to
-a maturation-domain confronts the continuum as it is about to pass beyond
-that domain. The analogy concerns an unresolved claim and a disappearing
-field of realization, not generic punishment.
+- **`Ānantarya-sabhāga`** — analogous in character to the immediate-result
+  actions; the first half completes the five-member set from 4.106.
+- **`Kṣānti`** — acceptance, the first attainment named in the verse.
+- **`Anāgāmitā`** — non-returnership; the Bhāṣya specifies its fruit as the
+  second threshold.
+- **`Arhattva`** — arhatship, the third threshold.
+- **`Savipāka karma`** — action possessing maturation. The Bhāṣya says that
+  this broader class, not merely the five analogues, can obstruct.
+- **`Vipākabhūmi`** — maturation ground. The first case is explained by
+  passage beyond the ground in which the karma would mature.
+- **`Dṛṣṭadharmavedanīya karma`** — action whose maturation is to be
+  experienced in the present life; excepted from the stated obstruction at
+  the non-returnership threshold.
+- **`Mūrdhan`** — the summit stage from which the Bhāṣya describes movement
+  toward `kṣānti`; the witness phrase is difficult, and this contextual
+  rendering does not resolve every grammatical detail.
 
 ## 8. Logical Determination
 
-Let:
-
 ```text
-K = karma possessing a maturation
-D = the Bhūmi in which K can mature
-T = an irreversible Path-transition
+Approaching kṣānti from the summit stage:
+    karma leading to bad destinies obstructs
+    because its maturation ground is being passed beyond
+
+Approaching the fruit of non-returnership:
+    desire-realm karma obstructs
+    except action to be experienced in the present life
+
+Approaching arhatship:
+    form- and formless-realm karma obstructs
 ```
 
-Then:
-
-```text
-PossibleMaturation(K, D)
-Transcends(T, D)
-Approaches(T)
-    → AcuteObstruction(K, T)
-```
-
-**Three instantiations**
-
-```text
-T1 = attainment of kṣānti
-D1 = bad-destiny maturation-domains
-K1 = āpāyika karma
-
-T2 = attainment of non-returnership
-D2 = future desire-realm rebirth
-K2 = desire-realm karma
-
-T3 = attainment of arhatship
-D3 = future form- and formless-realm rebirth
-K3 = form- and formless-realm karma
-```
-
-Therefore:
-
-```text
-AcuteObstruction(K1, T1)
-AcuteObstruction(K2, T2)
-AcuteObstruction(K3, T3)
-```
-
-with the exception:
-
-```text
-PresentLifeMaturation(K)
-    → does not require FutureDesireRealmBirth(K)
-    → not included in K2 for this reason
-```
-
-**Progressive contraction of conditioned possibility**
-
-```text
-kṣānti
-    → closes bad-destiny future
-
-non-returnership
-    → closes desire-realm return
-
-arhatship
-    → closes every remaining rebirth-domain
-```
+The Bhāṣya's repeated `tathaiva` carries the maturation-ground rationale
+from the first case to the latter two. These are three specified
+attainment-and-maturation relations, not a universal assertion that all
+accumulated actions necessarily obstruct progress or that any obstruction
+must succeed.
 
 ## 9. Interpretive Note
 
-VAK 4.104 showed that the Path can interrupt an ordinary unwholesome
-preparation by transforming the basis, while unreversed immediate-result
-preparation blocks that transformation. VAK 4.107 now provides the complete
-Bhūmi-logic of such opposition: a Path-transition changes not merely the
-agent's state but the set of worlds in which its accumulated karmas can still
-be realized.
+This verse sharpens the preceding discussion of future trajectory. The
+obstruction arises at a transition beyond the field in which a result could
+mature; the creditor simile makes that temporal pressure vivid. This offers
+a textual basis for examining how Path attainment and future maturation
+interact, but it is not a guarantee that only “proper” births follow from
+*bhavāgra*. Here the text specifies which kinds of karma obstruct particular
+thresholds, and it preserves an exception for present-life maturation.
 
-This makes Karma the conditioned possibility-structure and Path its
-progressive truth. Karma determines claims upon future actuality; Path
-successively invalidates entire classes of those future actualities by
-passing beyond their domains. At the threshold, the contradiction becomes
-maximal:
+Read alongside the previous verse, the distinction remains: *bhavāgra-cetanā*
+has the greatest worldly maturation-result, while this passage analyzes
+other maturation-bearing karma at three Path attainments. A broader
+Yoga or Tantra account of the Path's determination of future birth can be
+developed as Organon interpretation, but it should not be substituted for
+these local claims.
 
-```text
-karma says:
-    this result must still become actual in Bhūmi D
-
-Path says:
-    Bhūmi D will no longer be available as a future field
-```
-
-The creditor image is therefore a concrete Schema Inference. Country,
-departure, debtor, and creditor correspond structurally to maturation-domain,
-Path-transition, continuum, and outstanding karma. The likeness is valid
-because the relations, not merely the visible terms, form one crystal of
-inference.
-
-For Samyama as Practical Reason, the three thresholds are successive
-reconfigurations of admissible appearance:
-
-```text
-acceptance
-    → removes the bad-destiny Bhumis from future realization
-
-non-returnership
-    → removes the desire-realm Bhumi from future return
-
-arhatship
-    → removes the form and formless Bhumis from future rebirth
-```
-
-Thus the Path of non-arising is not merely the production of an elevated
-experience. It is the systematic non-arising of whole domains of conditioned
-possibility. Arhatship completes the contraction: no maturation-Bhūmi remains
-for another rebirth.
-
-The verse therefore gives a rigorous sense in which the Path is the Truth of
-Karma. It does not deny karmic causality from outside; it traverses and
-progressively closes the fields within which karmic causality could still
-produce becoming.
+The source unit is `[265|01]–[265|10]`. Its opening through `[265|04]`
+overlaps 4.106 because the Bhāṣya completes the five analogues before
+turning to the three thresholds. The study stops before the next question
+at `[265|10–11]`.
 
 ## 10. OWL++ Seed
 
-```ttl
-vak:VAK_4_107 a vak:Karika ;
-    rdfs:label "VAK 4.107" ;
-    vak:continues vak:VAK_4_106 ;
-    vak:hasTopic vak:AnantaryaAnalogueCompletion,
-                 vak:KarmicThresholdObstruction,
-                 vak:MaturationDomainTranscendence .
+```text
+Class: KarmaWithMaturation
+Class: BadDestinyLeadingKarma
+Class: DesireRealmKarma
+Class: PresentLifeMaturationAction
+Class: FormRealmKarma
+Class: FormlessRealmKarma
+Class: PathAttainmentThreshold
+Class: MaturationGround
 
-vak:DestroyingStupa a vak:AnantaryaAnalogue ;
-    vak:ordinalPosition 5 ;
-    vak:negates vak:SacredInstitutionalLocus .
+Rule: KshantiObstruction
+  threshold = Kshanti
+  obstructingAction = BadDestinyLeadingKarma
+  groundRelation = MaturationGroundBeingPassed
 
-vak:KarmicThresholdObstruction
-    vak:requires vak:OutstandingMaturationClaim,
-                 vak:ApproachingPathTransition,
-                 vak:DepartingMaturationDomain .
+Rule: NonReturnershipObstruction
+  threshold = NonReturnershipFruit
+  obstructingAction = DesireRealmKarma
+  exception = PresentLifeMaturationAction
 
-vak:KsantiAttainment
-    vak:transcends vak:BadDestinyMaturationDomains ;
-    vak:opposedAtThresholdBy vak:BadDestinyKarma .
+Rule: ArhatshipObstruction
+  threshold = Arhatship
+  obstructingAction = FormRealmKarma + FormlessRealmKarma
 
-vak:NonReturnershipAttainment
-    vak:transcends vak:FutureDesireRealmRebirth ;
-    vak:opposedAtThresholdBy vak:DesireRealmKarma .
-
-vak:PresentLifeMaturationKarma
-    vak:exceptionTo vak:DesireRealmThresholdObstruction .
-
-vak:ArhatshipAttainment
-    vak:transcends vak:FutureFormRealmRebirth,
-                   vak:FutureFormlessRealmRebirth ;
-    vak:opposedAtThresholdBy vak:FormRealmKarma,
-                              vak:FormlessRealmKarma .
-
-vak:PathOfNonArising
-    vak:progressivelyCloses vak:FutureMaturationDomains .
+Constraint: SpecifiedObstruction != UniversalAttainmentFailure
 ```

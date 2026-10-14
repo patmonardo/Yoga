@@ -1,4 +1,4 @@
-# VAK 4.116 Bhāṣya — The Qualities of the Gift-Object
+# VAK 4.116 Bhāṣya — The Distinction of the Gift-Object
 
 ## 1. Kārikā Anchor
 
@@ -7,13 +7,12 @@ varṇādisampadā vastu surūpatvaṃ yaśasvi vā /
 priyatā sukumārartusukhasparśāṅgatā tataḥ // 4.116 //
 ```
 
-> The gift-object is distinguished by excellence of color and the
-> other sensible qualities. From giving such objects come beauty,
-> renown, belovedness, and limbs that are delicate and pleasant to
-> touch in the seasons.
+> The gift-object is distinguished by excellence of color and the other
+> qualities. From giving such an object arise beauty, renown, belovedness,
+> delicacy of limbs, and limbs pleasant to touch according to the seasons.
 
-The Bhāṣya specifies four qualities of the object and the ordered
-results attributed to each. Touch carries two related bodily results.
+The Bhāṣya specifies four qualities of the thing given and pairs them in
+order with the results. Touch carries two related bodily results.
 
 ## 2. Continuous Sanskrit
 
@@ -38,61 +37,62 @@ sparśasaṃpannaṃ dattvā sukumārāṅgaś ca bhavati,
 ṛtusukhasparśāni cāsyāṅgāni bhavanti, yathā strīratnasya.
 ```
 
-The source span is `[269|20]–[270|03]`. The witness reads
-`dadvarṇa...` at `[269|22–23]`, separated and repaired above as
-`tad varṇa...`. It reads `surūptvaṃ` at `[269|24–25]`, while the
-repository kārikā has `surūpatvaṃ`; the latter is used here. The
-transmitted `yaśasvi vā` is retained in the anchor, though the prose
-explains its result as `yaśasvī bhavati`. The following question about
-the recipient field begins at `[270|04]`.
+The source span is `[269|20]–[270|03]`. At `[269|22–23]`, the witness
+reads `dadvarṇa...`; this transcription separates and repairs it as
+`tad varṇa...`. At `[269|24–25]`, the witness has `surūptvaṃ`; the
+repository kārikā reading `surūpatvaṃ` is used in the anchor. The verse's
+`yaśasvi vā` is retained, while the prose specifies `yaśasvī bhavati`.
+The recipient-field question begins at `[270|04]`.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Scientific English Rendering
 
-How is the gift-object distinguished? It is distinguished by
-excellence of color and the other qualities. If what is given is
-excellent in even one of color, fragrance, taste, or touch, the object
-is distinguished in that respect. What follows from giving such an
-object? The results are paired in order.
+How is the thing given distinguished? The phrase “through excellence of
+color and the other qualities” means that the thing given is distinguished.
+If what is given is endowed with even one among color, smell, taste, and
+touch, the thing is distinguished in that respect. What follows from giving
+such a thing? The results follow in order:
 
-Giving something excellent in color yields beautiful form. Giving
-something fragrant yields renown, since fame spreads through the
-directions as fragrance does. Giving something excellent in taste
-yields being beloved, as good flavor is pleasing. Giving something
-excellent in touch yields delicate limbs and limbs pleasant to touch
-in different seasons, like those attributed to the jewel-woman.
+Giving something endowed with color, one becomes beautiful. Giving
+something endowed with smell, one becomes renowned, because renown spreads
+through the directions like fragrance. Giving something endowed with taste,
+one becomes beloved, as a flavor is pleasant. Giving something endowed with
+touch, one has delicate limbs, and one's limbs are pleasant to touch
+according to the seasons, as with the jewel-woman.
 
-## 4. The Bhāṣya's Ordered Correspondence
+## 4. The Ordered Correspondence
 
-| Quality of gift-object | Result assigned to giver |
+| Quality of the thing given | Result stated in the Bhāṣya |
 |---|---|
-| color or appearance (`varṇa`) | beauty of form (`surūpatva`) |
-| fragrance (`gandha`) | renown (`yaśas`) |
-| taste (`rasa`) | belovedness (`priyatā`) |
-| touch (`sparśa`) | delicate limbs and seasonally pleasant bodily touch |
+| Color (`varṇa`) | Beauty |
+| Smell (`gandha`) | Renown |
+| Taste (`rasa`) | Belovedness |
+| Touch (`sparśa`) | Delicate limbs and seasonally pleasant touch |
 
-`Yathākramam` supplies the order. The final row has two results from
-one sensible quality; it does not introduce a fifth kind of gift-object.
-The comparisons of fragrance with spreading fame and good taste with
-belovedness are the Bhāṣya's analogies for these claimed karmic
-results.
+`Yathākramam` specifies the order. The last quality yields two related
+results; it does not add another quality of the thing given. The Bhāṣya
+states that excellence in any one of the four qualities can distinguish
+the gift-object. Its comparisons of fragrance with spreading renown and
+taste with agreeableness explain the listed correspondences.
 
-The source says that excellence in **any one** of the four qualities
-can distinguish a gift-object. It does not require every gift to
-possess all four. Nor does this local analysis say that sensible
-excellence alone decides the entire worth of giving: 4.114 also named
-the giver and recipient field.
+## 5. Interpretation
 
-## 5. Organon Contact Point — Project Reconstruction
+The prior discussion has distinguished the giver and manner of giving;
+this passage turns to the thing given. The gift's sensible qualities
+therefore matter as part of the deed's determinate content, not as an
+ornament to an otherwise complete intention. The Bhāṣya's account of
+maturation preserves a correspondence between those qualities and later
+results, while the two outcomes from touch show that this correspondence
+need not be one-to-one at the level of individual fruits.
 
-The object is a determinate middle in the giving-event. In our action
-model, its actual sensible qualities affect what the recipient can
-receive and how the gift appears. The Bhāṣya then assigns formally
-corresponding future fruits to those qualities. Modeling the first
-point as a practical relation is our reconstruction; the specific
-future fruits remain source doctrine.
+The giver, thing given, and recipient field remain distinct determinations
+of the giving-event. Bases gather content and frames; they are not Mind
+itself. The passage itself does not name `cetanā`, so this interpretation
+does not insert it into the source's wording: it relates the gift-object
+analysis to the chapter's larger account of volitional action.
 
 ## 6. Review Status
 
-The study covers `[269|20]–[270|03]`, records the two visible witness
-irregularities, and stops before the recipient-field analysis at
-`[270|04]`. The running source and first-pass study remain unchanged.
+This study covers `[269|20]–[270|03]` and stops before the recipient-field
+analysis at `[270|04]`. The readings `dadvarṇa...` and `surūptvaṃ` are
+recorded with their editorial handling; `yaśasvi vā` remains in the verse
+anchor alongside the prose's `yaśasvī bhavati`.

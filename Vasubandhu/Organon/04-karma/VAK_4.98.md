@@ -1,4 +1,4 @@
-# VAK_4.98 — The Divider and the Divided Saṅgha
+# VAK_4.98 — Saṅgha Division and Its Bearer
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -9,7 +9,7 @@
 
 ## 2. Sanskrit (IAST)
 
-```text
+```iast
 saṃghabhedas tv asāmagrīsvabhāvo viprayuktakaḥ /
 akliṣṭāvyākṛto dharmaḥ saṃghas tena samanvitaḥ // 4.98 //
 ```
@@ -21,178 +21,100 @@ saṃgha-bhedaḥ | tu | asāmagrī-svabhāvaḥ | viprayuktakaḥ |
 akliṣṭa-avyākṛtaḥ | dharmaḥ | saṃghaḥ | tena | samanvitaḥ
 ```
 
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
-| `saṃgha-bhedaḥ` | nominative masculine singular compound | division or schism of the Saṅgha |
-| `tu` | adversative particle | but; marks a corrective distinction |
-| `asāmagrī-svabhāvaḥ` | nominative masculine singular compound | having non-concord as its intrinsic nature |
-| `viprayuktakaḥ` | nominative masculine singular | dissociated; belonging to the mind-dissociated factors |
-| `akliṣṭa-avyākṛtaḥ` | nominative masculine singular compound | non-afflicted and ethically indeterminate |
-| `dharmaḥ` | nominative masculine singular | conditioned determination |
-| `saṃghaḥ` | nominative masculine singular | the Saṅgha, the divided community |
-| `tena` | instrumental masculine singular pronoun | with it; with that schism or non-concord |
-| `samanvitaḥ` | nominative masculine singular past passive participle | endowed with, possessing |
+| `saṃgha-bhedaḥ` | nominative masculine singular compound | Saṅgha division; the resulting condition of non-concord |
+| `tu` | contrastive particle | but; marks a distinction from the causal action |
+| `asāmagrī-svabhāvaḥ` | nominative masculine singular compound | having non-concord as its nature |
+| `viprayuktakaḥ` | nominative masculine singular | dissociated; classified as a factor dissociated from consciousness |
+| `akliṣṭa-avyākṛtaḥ` | nominative masculine singular compound | non-afflicted and indeterminate |
+| `dharmaḥ` | nominative masculine singular | a conditioned Dharma |
+| `saṃghaḥ` | nominative masculine singular | the Saṅgha that bears the division |
+| `tena` | instrumental masculine singular pronoun | with it, referring to the division |
+| `samanvitaḥ` | nominative masculine singular past passive participle | endowed with it |
 
-**Two subjects, one transferred name**
-
-```text
-saṃghabhedaḥ
-    asāmagrīsvabhāvaḥ
-    viprayuktakaḥ
-    akliṣṭāvyākṛtaḥ dharmaḥ
-
-saṃghaḥ
-    tena samanvitaḥ
-```
-
-The first sentence defines the divided condition. The second identifies its
-bearer. The Bhāṣya distinguishes both from the verbal karma of the divider.
+The verse changes focus from the action that produces division to the
+division as a resulting condition. The Bhāṣya explains why the same term
+can be used for both cause and result, then identifies the Saṅgha as bearer
+of the resulting non-concord.
 
 ## 4. Grammar
 
-**Corrective definition**
+**Nature of Saṅgha division**
 
 ```text
-saṃghabhedaḥ tu
-    asāmagrī-svabhāvaḥ [asti]
-```
-
-> But Saṅgha schism has non-concord as its nature.
-
-`Tu` corrects the causal compression inherited from the list of five
-immediate-result karmas. The schism strictly considered is not the divider's
-act; it is the condition produced in the community.
-
-**Classification of the schism**
-
-```text
-[saṃghabhedaḥ]
+saṃgha-bhedaḥ tu
+    asāmagrī-svabhāvaḥ
     viprayuktakaḥ
-    akliṣṭa-avyākṛtaḥ
-    dharmaḥ [asti]
+    akliṣṭa-avyākṛtaḥ dharmaḥ
 ```
 
-> It is a mind-dissociated, non-afflicted, indeterminate dharma.
+> But Saṅgha division has non-concord as its nature; it is a dissociated,
+> non-afflicted, indeterminate Dharma.
 
-The coordinated predicates classify one and the same `saṃghabheda`. The
-Bhāṣya gives the more established category-expression `citta-viprayukta
-saṃskāra` and calls it `anivṛta-avyākṛta`, unobscured-indeterminate.
+The Bhāṣya specifies `asāmagrī` as a conditioned formation dissociated from
+consciousness and classified as non-afflicted and indeterminate.
 
-**Bearer of the schism**
+**Bearer of the division**
 
 ```text
 saṃghaḥ
     tena
-    samanvitaḥ [asti]
+    samanvitaḥ
 ```
 
 > The Saṅgha is endowed with it.
 
-The instrumental `tena` completes `samanvitaḥ`. The grammatical subject is
-the Saṅgha, not the divider: the division belongs to what is divided.
+The instrumental `tena` refers to the division. The subject of this clause
+is the Saṅgha, not the agent who caused the division.
 
 ## 5. Translation
 
-### Literal Translation
+### Scientific English Rendering
 
-> But Saṅgha schism has non-concord as its intrinsic nature. It is a
-> mind-dissociated, non-afflicted, indeterminate dharma. The Saṅgha is endowed
-> with it.
+> But Saṅgha division has non-concord as its nature; it is a dissociated,
+> non-afflicted, indeterminate Dharma. The Saṅgha is endowed with it.
 
 ### Bhāṣya-informed study translation
 
-> The schism itself must be distinguished from the immediate-result karma
-> that produces it. Strictly considered, Saṅgha schism is the community's
-> state of non-concord, a conditioned factor dissociated from mind and classed
-> as non-afflicted and indeterminate. This divided condition belongs to the
-> Saṅgha that has been divided, not to the agent who divided it. The agent
-> bears the culpable causal karma.
+> The division itself must be distinguished from the action that produces
+> it. Strictly considered, Saṅgha division is the condition of non-concord,
+> a conditioned formation dissociated from consciousness and classified as
+> non-afflicted and indeterminate. This resulting condition belongs to the
+> Saṅgha that has been divided, not to the agent who divided it.
 
-The distinction between causal karma and produced condition, the transfer of
-the result-name to its cause, and the explicit denial that the divider bears
-the schism are supplied by the Bhāṣya.
+The causal use of “Saṅgha division,” the classification of non-concord, and
+the explicit distinction between divider and bearer are supplied by the
+Bhāṣya.
 
 ## 6. Philosophical Translation
 
-> A collective is not exhausted by the numerical presence of its members. It
-> exists through a determinate unity of concordant operation and can therefore
-> acquire the opposed relational state of non-concord while its members
-> remain. One agent's activity produces this transformation, but the resulting
-> determination belongs to the affected whole. Causal production and
-> possession of the produced state are distinct relations.
-
-The rational structure is:
-
-```text
-divider's verbal activity
-    → produces non-concord
-
-non-concord
-    → determines the Saṅgha as divided
-
-therefore
-    producer of the condition ≠ bearer of the condition
-```
-
-The verse thus gives a precise collective determination: the unity or
-division of the Saṅgha is objective in its relations and is not reducible to
-one member's private mental state.
+> The cause of a division and the divided condition are distinct
+> determinations. The action belongs to the divider; the resulting
+> non-concord is borne by the Saṅgha. Naming the cause by its result does
+> not make them one and the same Dharma.
 
 ## 7. Technical Vocabulary
 
-**`Saṃghabheda` — Saṅgha schism**
-
-Strictly, the state of division borne by the Saṅgha. In the enumeration of
-the five immediate-result karmas, the same word can designate the causal act
-through a transfer of the result-name to its cause.
-
-**`Hetau phalopacāra` — application of a result-name to its cause**
-
-The Bhāṣya's explanation of the compressed usage. “Saṅgha schism” can name
-the immediate-result karma because that karma causes the schism; this does
-not make the cause and result numerically or categorically identical.
-
-**`Asāmagrī` — non-concord**
-
-The intrinsic nature of schism. `Sāmagrī` is coordinated concurrence or
-coming-together; its negation is a real conditioned relation of the community,
-not the mere absence of a thought in one person.
-
-**`Citta-viprayukta saṃskāra` — conditioned factor dissociated from mind**
-
-The Bhāṣya's category for non-concord. The division is neither citta nor a
-mental factor, although it is generated through intentional activity and
-possessed within a continuum of conditioned relations.
-
-**`Akliṣṭa-avyākṛta` — non-afflicted and indeterminate**
-
-The schism as resultant relational state is not itself greed, hatred,
-delusion, or the unwholesome intention that caused it. The Bhāṣya restates
-the classification as `anivṛta-avyākṛta`, unobscured-indeterminate.
-
-**`Samanvita` — endowed with or possessing**
-
-The possession-relation that assigns the schism to the Saṅgha. It separates
-the bearer of the produced state from the producer of that state.
-
-**Divider and divided community**
-
-The divider bears the unwholesome verbal karma; the Saṅgha bears the
-non-concord. The historical expression “the divider's schism” must not erase
-this technical difference.
+- **Saṅgha division** (*saṃghabheda*) — in the strict definition here, the
+  resulting condition of non-concord; in the prior action-list, the same
+  expression can name its cause.
+- **Non-concord** (*asāmagrī*) — the intrinsic nature assigned to the
+  divided condition.
+- **Dissociated** (*viprayukta*) — the Bhāṣya identifies the condition as
+  a conditioned formation dissociated from consciousness.
+- **Non-afflicted** (*akliṣṭa*) and **indeterminate** (*avyākṛta*) — the
+  technical classifications of the resulting condition; they do not
+  transfer the ethical classification of the causal action to its result.
+- **Result-name applied to cause** (*hetau phalopacāra*) — the Bhāṣya's
+  explanation for calling the causal action “Saṅgha division.”
+- **Endowed with** (*samanvita*) — the predicate assigning the resulting
+  condition to the Saṅgha as its bearer.
 
 ## 8. Logical Determination
 
-Let:
-
-```text
-D = the divider
-S = the Saṅgha
-K = the divider's schismatic verbal karma
-B = schism as non-concord
-```
-
-Then:
+Let `D` be the divider, `K` the causal action, `S` the Saṅgha, and `B` the
+resulting condition of non-concord.
 
 ```text
 Performs(D, K)
@@ -200,108 +122,63 @@ Causes(K, B)
 Bears(S, B)
 ```
 
-But:
+The Bhāṣya rejects these identifications:
 
 ```text
-K ≠ B
-Bears(D, B) = false
-Performs(S, K) = false
+K = B
+Bears(D, B)
 ```
 
-**Transfer of designation**
+The use of the result-name for the cause is a transfer of designation:
 
 ```text
 Causes(K, B)
-Name(B) transferred to K
-    → K may be called “Saṅgha schism”
+    → the name “Saṅgha division” may be applied to K
 ```
 
-This semantic transfer preserves the causal relation only if it does not
-collapse the relata.
-
-**Collective transformation**
-
-```text
-Concordant(S, t₁)
-Cause(K, B)
-NonConcordant(S, t₂)
-```
-
-The members may persist across `t₁` and `t₂`; what changes is the relation
-constituting their communal unity.
-
-**Ethical classification**
-
-```text
-Unwholesome(K)
-Causes(K, B)
-Indeterminate(B)
-```
-
-The ethical quality of a causal activity need not be inherited as the
-intrinsic classification of every condition it produces.
+The transfer preserves the causal relation only if the action and resulting
+condition remain distinct.
 
 ## 9. Interpretive Note
 
-VAK 4.97 showed that a karma is determined within an agent–field–relation
-whole. VAK 4.98 now differentiates the relations within that whole. The
-agent-side activity and the collective-side result are not two descriptions
-of one simple item. The verbal karma belongs to the divider; the objective
-non-concord belongs to the Saṅgha.
-
-This is an important advance in the systematic account of the Object. A
-spiritual Object such as the Saṅgha has determinations that belong to it as a
-relational whole. Its concord is not merely the coincident psychology of its
-members, and its division is not merely the divider's hostile intention. A
-transformation of the constitutive relation is a transformation of the
-collective itself.
-
-For the Rational Yoga account of a Bhūmi, the verse shows why the appearances
-of a field must be construed through several logical roles. Kriyā occurs at
-the agent pole; a new relational determination arises in the affected field;
-and Jñāna must assign each determination to its proper bearer. Confusing
-cause, result, and bearer would yield an invalid Schema Inference even when
-the historical narrative remained superficially recognizable.
-
-The Organon result is therefore exact rather than analogical:
-
-```text
-activity
-    → generated relational state
-
-generated relational state
-    → inheres in the affected whole
-```
-
-The Kośa supplies the differentiated grammar required to think collective
-spiritual objects without reducing them either to an aggregate of bodies or
-to a single subject's intention.
+The verse gives a precise attribution rule: the divider performs the
+causal action, while the Saṅgha is endowed with the resulting non-concord.
+The result's classification as non-afflicted and indeterminate is not a
+reclassification of the action that produced it. The Bhāṣya thereby
+separates causal agency, conditioned result, and bearer.
 
 ## 10. OWL++ Seed
 
-```ttl
-vak:VAK_4_98 a vak:Karika ;
-    rdfs:label "VAK 4.98" ;
-    vak:continues vak:VAK_4_97 ;
-    vak:hasTopic vak:SanghaSchism,
-                 vak:CollectiveRelationalDetermination .
+```text
+Class: Action
+Class: Saṅgha
+Class: SaṅghaDivision
+Class: NonConcord
+Class: ConditionedFormationDissociatedFromConsciousness
+Class: NonAfflictedDharma
+Class: IndeterminateDharma
 
-vak:SchismaticVerbalKarma a vak:UnwholesomeKarma ;
-    vak:performedBy vak:Divider ;
-    vak:causes vak:SanghaSchism .
+ObjectProperty: performedBy
+  Domain: Action
+ObjectProperty: causes
+  Domain: Action
+ObjectProperty: borneBy
+  Domain: SaṅghaDivision
 
-vak:SanghaSchism a vak:CittaViprayuktaSamskara,
-                    vak:AklistaDharma,
-                    vak:AvyakrtaDharma ;
-    vak:hasIntrinsicNature vak:NonConcord ;
-    vak:borneBy vak:Sangha ;
-    vak:notBorneBy vak:Divider .
+Individual: SchismaticAction
+  Type: Action
+Individual: ResultingNonConcord
+  Type: SaṅghaDivision
+  Type: NonConcord
+  Type: ConditionedFormationDissociatedFromConsciousness
+  Type: NonAfflictedDharma
+  Type: IndeterminateDharma
 
-vak:ResultNameTransfer a vak:CausalMetonymy ;
-    vak:transfersNameFrom vak:SanghaSchism ;
-    vak:transfersNameTo vak:SchismaticVerbalKarma ;
-    vak:licensedBy vak:CausesResultRelation .
+Rule: SaṅghaDivisionNameTransfer
+  if causes(SchismaticAction, ResultingNonConcord)
+  then resultNameMayApplyToCause(SaṅghaDivisionName,
+                                 SchismaticAction)
 
-vak:CollectiveRelationalDetermination
-    vak:mayChangeWhile vak:MembersPersist .
+Constraint: CausalActionIsNotResultingNonConcord
+Constraint: SaṅghaBearsTheDivisionNotTheDivider
 ```

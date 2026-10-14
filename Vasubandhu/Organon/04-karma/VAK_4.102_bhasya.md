@@ -1,4 +1,4 @@
-# VAK 4.102 Bhāṣya — Six Exclusions from Wheel Division
+# VAK 4.102 Bhāṣya — Six Exclusions from Dharma Chakra Division
 
 ## 1. Kārikā Anchor
 
@@ -7,12 +7,10 @@
 sīmāyāṃ cāpy abaddhāyāṃ cakrabhedo na jāyate // 4.102 //
 ```
 
-> Division of the Dharma wheel does not arise at the beginning, at the
-> end, before an excrescence, before the leading pair, after the Sage has
-> passed away, or while the communal boundary remains unbound.
-
-The commentary supplies the referents of the compressed terms and the
-reason each condition excludes `cakrabheda`.
+> Division of the Dharma Chakra does not arise at the beginning or end,
+> before defects of discipline and view have arisen, before the foremost
+> pair of disciples has appeared, after the Sage has passed away, or while
+> the communal boundary remains unbound.
 
 ## 2. Continuous Sanskrit
 
@@ -22,142 +20,94 @@ cakrabhedas tu ṣaṭsu kāleṣu na bhavati. katameṣu?
 ādāv ante 'rbudāt pūrvaṃ yugāc coparate munau /
 sīmāyāṃ cāpy abaddhāyāṃ cakrabhedo na jāyate // 4.102 //
 
-ādāv acirapravartite dharmacakre; ante parinirvāṇakāle bhagavataḥ.
-etayor hi dvayor avasthayoḥ saṃgha ekaraso bhavati.
+ādāv acirapravartite dharmacakre /
+ante parinirvāṇakāle bhagavataḥ /
+etayor hi dvayor avasthayoḥ saṃgha ekaraso bhavati /
 
-madhye 'py arbudāt pūrvaṃ na bhidyate, yāvac chāsane śīlārbudaṃ
-dṛṣṭyarbudaṃ ca notpannaṃ bhavati.
+madhye 'py arbudāt pūrvaṃ na bhidyate,
+yāvac chāsane śīlārbudaṃ dṛṣṭyarbudaṃ ca notpannaṃ bhavati /
 
-yugāc ca pūrvaṃ na bhidyate, yāvac chrāvakāgrayugaṃ notpannaṃ bhavati,
-bhinnanyāyaparivāsāt tena ca pratisaṃdhānīyatvāt.
+yugāc ca pūrvaṃ na bhidyate,
+yāvat śrāvakāgrayugaṃ notpannaṃ bhavati,
+bhinnanyāyaparivāsāt tena ca pratisaṃdhānīyatvāt /
 
-uparate munau śāstari parinirvṛte pratidvandvābhāvāt.
+uparate munau śāstari parinirvṛte pratidvandvābhāvāt /
 
-sīmāyām abaddhāyāṃ yāvat sīmā na baddhā bhavati. ekasīmāyāṃ hi
-pakṣadvayāvasthānāt saṃghabheda ity eṣu kāleṣu cakrabhedo na bhavati.
+sīmāyām abaddhāyāṃ yāvat sīmā na baddhā bhavati /
+ekasīmāyāṃ hi pakṣadvayāvasthānāt saṃghabheda ity eṣu kāleṣu
+cakrabhedo na bhavati /
 
-na ca punaḥ sarveṣāṃ baddhānāṃ cakrabhedaḥ, karmādhīnatvāt.
+na ca punaḥ sarveṣāṃ baddhānāṃ cakrabhedaḥ,
+karmādhīnatvāt /
 ```
 
-The running witness compresses the final line as `karmādhīnatvāt` and
-contains a difficult phrase `bhinnanyāyaparivāsāt` in the explanation of
-the leading pair. Both are retained. The latter's exact syntactic force
-remains uncertain; the secure point is that the leading pair can effect
-reconciliation.
+The source unit is `[262|10]–[262|19]`. The compound
+`bhinnanyāyaparivāsāt` is retained because its precise force is uncertain;
+the following `pratisaṃdhānīyatvāt` associates the foremost pair with
+reconciliation. Word division and punctuation are editorial.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Scientific English Rendering
 
-Division of the Dharma wheel does not occur in six conditions. At the
-beginning, the Dharma wheel has only recently begun to turn. At the end,
-the Blessed One is approaching final nirvāṇa. In both conditions the
-Saṅgha has one character or common tenor.
+Division of the Dharma Chakra does not occur at six times. Which six?
 
-Even in the intervening period, it is not divided before an “excrescence”
-arises in the teaching: an excrescence in conduct and an excrescence in
-view. Nor is it divided before the pair of foremost disciples appears.
-The commentary connects this pair with the ability to reunite the
-community; the phrase describing their relation to divergent approaches
-is textually difficult.
+At the beginning, when the Dharma Chakra has only recently begun to turn;
+at the end, at the time of the Blessed One's parinirvāṇa. For in these two
+conditions the Saṅgha is one in tenor.
 
-After the Sage has passed away, division of this kind does not arise,
-because the relevant opponent or rival is absent. Nor does it arise while
-the communal boundary has not been formally established. The division
-requires two parties situated within one boundary.
+Even in the middle period, division does not occur before the `arbuda`,
+until the defects of discipline and view have arisen in the Teaching.
 
-Yet not every Saṅgha with an established boundary undergoes division. Its
-occurrence depends upon action.
+Nor does it occur before the pair, until the foremost pair of disciples
+has appeared. The phrase `bhinnanyāyaparivāsāt` is difficult; the
+commentary also says that reconciliation is to be effected through them.
+
+After the Sage—the Teacher—has passed away and attained parinirvāṇa, it
+does not occur, because there is no rival.
+
+While the boundary is unbound, division does not occur until the boundary
+has been bound. For Saṅgha division consists in the presence of two parties
+within one boundary. In these times, therefore, division of the Dharma
+Chakra does not occur.
+
+Yet not every Saṅgha with a bound boundary undergoes division of the Dharma
+Chakra, because its occurrence depends on action.
 
 ## 4. The Six Exclusions
 
-| Exclusion | Bhāṣya explanation |
+| Exclusion | Bhāṣya's explanation |
 |---|---|
-| beginning | Dharma wheel only recently set in motion |
-| end | Buddha approaching final nirvāṇa; Saṅgha remains of one tenor |
-| before `arbuda` | no corruption in conduct or view has arisen |
-| before the foremost pair | the pair of leading disciples has not appeared |
-| after the Sage's passing | no relevant rival to the present Teacher |
-| unbound `sīmā` | no single formal boundary within which two parties can stand |
+| At the beginning | The Dharma Chakra has only recently begun to turn. |
+| At the end | The Blessed One is at parinirvāṇa; the Saṅgha is one in tenor. |
+| Before `arbuda` | Defects of discipline and view have not yet arisen in the Teaching. |
+| Before the foremost pair | The foremost pair of disciples has not yet appeared; the exact force of the related compound remains uncertain. |
+| After the Sage has passed away | There is no rival to the living Teacher. |
+| Before the boundary is bound | A common boundary within which two parties can stand has not been established. |
 
-`Ādau` and `ante` designate two phases within the Buddha's dispensation.
-`Uparate munau` designates the period after his passing. They are related
-but distinct exclusions in the verse.
+The beginning and end are two separately named conditions in the verse;
+the later condition after the Sage's passing is also retained separately.
 
-## 5. `Arbuda`: Conduct and View
+## 5. Action-Dependence and Interpretation
 
-`Arbuda`, literally a swelling or excrescence, is explained as two
-internal defects of the teaching's communal life:
+The six exclusions specify when `cakrabheda` cannot occur. The final
+sentence prevents the reverse inference: even where the boundary is bound,
+division does not necessarily occur, because it depends on action. The
+passage thus distinguishes historical and institutional conditions from
+the action-dependent actuality of division.
 
-```text
-śīlārbuda — defect in conduct
-dṛṣṭyarbuda — defect in view
-```
+For the causal-pipeline reading, the source gives a constrained sequence:
+the field must be historically available, internal defects must have
+arisen, agents associated with reconciliation must be present, and one
+boundary must contain the two parties. Those conditions delimit the
+possible event; they do not themselves cause it.
 
-The formal division requires these defects to have appeared. A fully
-unified beginning does not yet supply the fault lines on which the rival
-teacher and path can take hold. This identifies a causal precondition,
-not a claim that every defect must result in division.
+Here *karman* is rendered **action**. The Bhāṣya does not name *cetanā* in
+this passage, so its action-dependence is not expanded into a claim about
+volition.
 
-## 6. The Leading Pair
+## 6. Review Status
 
-`Yuga` is specified as the pair of foremost disciples
-(`śrāvakāgrayuga`). The commentary associates them with restoring a
-divided Saṅgha. The exact force of `bhinnanyāyaparivāsāt` is uncertain in
-this witness, so no detailed historical story is inferred from it.
-
-The source's claim is conditional: before this pair has appeared, the
-specified wheel division does not occur. Their availability belongs to
-the temporal and institutional conditions of this technical case.
-
-## 7. Boundary and Action
-
-The `sīmā` must be formally bound. The reason given is that two opposing
-parties must stand inside **one** bounded communal field. Without that
-shared field, separate groups do not yet instantiate this division of a
-single Saṅgha.
-
-```text
-common boundary + two constituted parties
-    → division becomes possible
-```
-
-The final sentence prevents an invalid converse:
-
-```text
-common boundary
-    ⇏ actual division
-```
-
-An actual divisive action is still required. Formal possibility and
-eventual occurrence are different determinations.
-
-## 8. Organon Contact Point
-
-The Causal Algebra for Agency can represent division as a transition
-enabled by historical and institutional conditions:
-
-```text
-CanDivideWheel =
-    matureDispensation
-    ∧ conductOrViewDefect
-    ∧ livingTeacherContext
-    ∧ establishedBoundary
-    ∧ susceptibleTwoPartyField
-
-DivisionOccurs = CanDivideWheel ∧ effectiveDivisiveAction
-```
-
-This formula is a project reconstruction, not a verbatim set of
-Sarvāstivāda axioms. The passage's decisive logical form is that an
-eligible field does not produce its own rupture. Action mediates the move
-from possibility to actuality.
-
-The six exclusions, `arbuda` pair, foremost disciples, and `sīmā` rule
-remain Bhāṣya doctrine.
-
-## 9. Review Status
-
-The complete 4.102 unit `[262|10]–[262|19]` is included. It stops before
-the question about why killing parents and other acts count as
-immediate-result actions at `[262|20]`. All six exclusions and the final
-action-dependence qualification are retained. The difficult phrase about
-the leading pair is marked as uncertain.
+The complete unit `[262|10]–[262|19]` is included: the six exclusions,
+the Bhāṣya's glosses on the beginning, end, `arbuda`, foremost pair,
+Teacher's passing, and boundary, followed by the action-dependence
+qualification. It stops before the next question at `[262|20]`. The
+uncertain force of `bhinnanyāyaparivāsāt` is marked.

@@ -7,13 +7,12 @@ jambūdvīpe pumān eva saṃmukhaṃ buddhacetanaḥ /
 cintāmayaṃ kalpaśate śeṣam ākṣipate hi tat // 4.109 //
 ```
 
-> In Jambūdvīpa alone, as a man, face-to-face with a Buddha and with
-> volition taking that Buddha as its object, the bodhisattva projects
-> the remaining reflection-born karma of the marks over a hundred kalpas.
+> Only in Jambūdvīpa, as a man, face-to-face with the Teacher and with
+> volition taking a Buddha as its object, does the bodhisattva project the
+> reflection-formed remainder of that karma over one hundred kalpas.
 
-The kārikā specifies the conditions under which the mark-producing
-karma introduced in 4.108 is accumulated. The Bhāṣya distinguishes
-reflection from both hearing and meditative cultivation.
+The Bhāṣya explains this as the projection of the action whose maturation
+produces the marks, introduced in 4.108.
 
 ## 2. Continuous Sanskrit
 
@@ -42,73 +41,79 @@ eva bodhisattva etāṃś caturo doṣān vyāvartayati, dvau ca guṇau
 pratilabhata iti pūrvācāryāḥ.
 ```
 
-The source unit is `[265|26–27]–[266|11]`. Its embedded saying at
-`[266|07–09]` is textually rough in this witness; the spacing and
-punctuation above are provisional. Its detailed wording is not used
-for a separate doctrinal inference. The final sentence attributes an
-additional claim about four defects and two qualities to earlier
-teachers but does not identify them here. The following question about
-the measure of merit for each mark begins 4.110. The witness reads
-`dvau ca guṇo` at `[266|09–11]`; `dvau ca guṇau` above is a grammatical
-repair.
+The source unit is `[265|26–27]–[266|11]`. The saying at `[266|07–09]`
+is textually rough; its spacing and punctuation are provisional, and the
+phrase concerning `pakṣabhikṣāpradāna` remains uncertain. The witness reads
+`dvau ca guṇo` at `[266|09–11]`; the text above normalizes this
+grammatically to `dvau ca guṇau`. The next topic begins at `[266|11]`.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Scientific English Rendering
 
-Regarding the karma said to mature as the marks: a bodhisattva projects
-it only in Jambūdvīpa, because its inhabitants are held to have sharp
-intelligence. The text restricts this activity to a man under its
-inherited bodily scheme.
+Regarding the action said to mature as the marks:
 
-It occurs when the Teacher is face-to-face, through volition whose
-object is a Buddha. This karma is formed by reflection, neither by
-hearing nor by meditative cultivation. The bodhisattva projects the
-remainder over a hundred kalpas, rather than over an indefinite number
-of existences. Śākyamuni, however, is said to have shortened this
-period by nine kalpas through intense vigor, completing it in
-ninety-one. The commentary adduces a saying about this period; the
-wording of the quotation is uncertain in the present witness.
+The bodhisattva projects the action whose maturation produces the marks
+only in Jambūdvīpa, because its inhabitants are held to have sharp
+intelligence. The text restricts this to a man, not a woman.
 
-Earlier teachers additionally say that, after the first incalculable
-period, the bodhisattva naturally remembers former births, removes
-four defects, and obtains two qualities. This unit gives no list of
-those defects or qualities.
+It is when the Teacher is actually present face-to-face and through volition
+that takes a Buddha as its object. That action is formed through reflection,
+not through hearing and not through meditative cultivation.
 
-## 4. The Conditions of Projection
+The remainder is projected over one hundred kalpas, not across many
+existences. Because of exceptionally ardent vigor, the Blessed Śākyamuni
+removed nine kalpas; it was projected over ninety-one kalpas.
 
-| Condition | Bhāṣya's determination |
+For this reason, a saying referring to ninety-one kalpas is quoted. The
+speaker says that they do not remember or know of even one family being
+injured or harmed because of `pakṣabhikṣāpradāna`. The syntax and the
+precise force of that phrase remain uncertain.
+
+Thereafter, because of natural memory of former births, the bodhisattva who
+has passed beyond the first incalculable period avoids these four faults
+and obtains two qualities, according to earlier teachers. This passage does
+not specify the four faults or the two qualities.
+
+## 4. Conditions and Qualifications of Projection
+
+| Determination | Bhāṣya's account |
 |---|---|
-| place | Jambūdvīpa, explained by sharp intelligence |
-| embodiment | male, in this received scheme |
-| object and relation | a Buddha present face-to-face, taken as the object of volition |
-| cognitive mode | `cintāmaya`, formed by reflection; neither `śrutamaya` nor `bhāvanāmaya` |
-| temporal measure | ordinarily a hundred kalpas for the remainder; Śākyamuni is said to complete it in ninety-one |
+| Place | Jambūdvīpa alone, because of its inhabitants' sharp intelligence |
+| Embodiment | Male alone, within the source's inherited restriction |
+| Relational condition | The Teacher is actually present face-to-face |
+| Volitional object | A Buddha |
+| Mode of formation | `Cintāmaya`, through reflection; not `śrutamaya` or `bhāvanāmaya` |
+| Standard period | The remainder over one hundred kalpas, not many existences |
+| Śākyamuni's period | Ninety-one kalpas, with nine removed through exceptional vigor |
+| Further claim | Earlier teachers say four faults are avoided and two qualities obtained; these are not listed here |
 
-`Buddhālambanayaiva cetanayā` gives the precise intentional relation:
-the volition takes a Buddha as its object. The first-pass kārikā study
-calls this “volition directed toward Buddhahood”; the Bhāṣya's wording
-is narrower and supplies an immediately present Teacher.
+The quoted saying is included as the Bhāṣya's evidence, but its uncertain
+wording does not support a more specific claim here. Likewise, the text
+attributes the four-fault/two-quality account to earlier teachers without
+identifying its members.
 
-The contrast among `cintāmaya`, `śrutamaya`, and `bhāvanāmaya` identifies
-the mode of this particular karma. It does not imply that study or
-meditation have no place elsewhere in the bodhisattva career.
+## 5. Interpretation
 
-## 5. Organon Contact Point — Project Reconstruction
+This passage makes the volitional relation unusually precise: *cetanā*
+takes a Buddha as its object, and the Teacher is actually present
+face-to-face. The action whose maturation produces the marks is therefore
+not described as a private wish for future Buddhahood. It is formed
+reflectively in relation to a present Teacher. The contrast with
+`śrutamaya` and `bhāvanāmaya` belongs to this action's specific mode of
+formation; it does not deny that hearing or meditative cultivation matter
+elsewhere in the career.
 
-The passage offers a specific form of mediated production:
-
-```text
-present Buddha as object of reflective volition
-    → projection of mark-producing karma
-    → future maturation as the marks
-```
-
-That schema is our account of the passage's causal movement. The
-geographic, bodily, and chronological restrictions remain claims of
-this Abhidharma presentation, not general constraints on Organon agents.
+Read beside 4.108, this describes a practical sequence: the mark-producing
+career begins, then its accumulation is projected through a specified
+volitional relation and mode. The source's restrictions to Jambūdvīpa and
+male embodiment, as well as its one-hundred-kalpa measure, remain claims of
+this received account rather than universal Organon rules. The exceptional
+ninety-one-kalpa case changes the duration, not the stated object of
+volition or kind of karma.
 
 ## 6. Review Status
 
-The study covers `[265|26–27]–[266|11]` and marks the difficult
-quotation rather than silently supplying a clean text. It stops before
-the next question about the merit generating each mark. The running
-source and first-pass study remain unchanged.
+This study covers `[265|26–27]–[266|11]`, including the difficult
+Śākyamuni quotation and the earlier teachers' unenumerated four faults and
+two qualities. It stops before the next question about the merit associated
+with each mark. The uncertain quotation and the witness reading
+`dvau ca guṇo` are marked rather than silently treated as settled.

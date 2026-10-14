@@ -1,4 +1,4 @@
-# VAK_4.99 — The Divider's Speech and Its Result
+# VAK_4.99 — The Divider's Culpable Speech and Its Maturation
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -9,342 +9,197 @@
 
 ## 2. Sanskrit (IAST)
 
-```text
-tadavadyaṃ mṛṣāvādas tena bhettā samanvitaḥ /
+```iast
+tad-avadyaṃ mṛṣāvādas tena bhettā samanvitaḥ /
 avīcau pacyate kalpam adhikair adhikā rujaḥ // 4.99 //
 ```
 
 ## 3. Lexical Analysis
 
 ```text
-tat-avadyaṃ | mṛṣā-vādaḥ | tena | bhettā | samanvitaḥ |
+tat-avyadyam | mṛṣā-vādaḥ | tena | bhettā | samanvitaḥ |
 avīcau | pacyate | kalpam | adhikaiḥ | adhikāḥ | rujaḥ
 ```
 
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
-| `tat-avadyaṃ` | nominative neuter singular compound | the culpable karma associated with that schism |
+| `tat-avadyaṃ` | nominative neuter singular | the culpable action associated with that division |
 | `mṛṣā-vādaḥ` | nominative masculine singular | false speech |
 | `tena` | instrumental masculine singular | with that false speech |
-| `bhettā` | nominative masculine singular agent noun from `√bhid` | the divider |
-| `samanvitaḥ` | nominative masculine singular past passive participle | endowed with, possessing |
-| `avīcau` | locative masculine singular | in Avīci hell |
-| `pacyate` | third-person singular present passive of `√pac` | is ripened, undergoes torment |
-| `kalpam` | accusative neuter singular of duration | for a kalpa |
-| `adhikaiḥ` | instrumental plural, with `ānantaryaiḥ` understood | through additional immediate-result karmas |
-| `adhikāḥ` | nominative feminine plural | greater, increased |
-| `rujaḥ` | nominative feminine plural | pains, torments |
+| `bhettā` | nominative masculine singular agent noun | the divider |
+| `samanvitaḥ` | nominative masculine singular participle | endowed with it |
+| `avīcau` | locative singular | in Avīci |
+| `pacyate` | third-person singular passive | undergoes maturation |
+| `kalpam` | accusative singular of duration | for a kalpa; specified by the Bhāṣya as an intermediate kalpa |
+| `adhikaiḥ` | instrumental plural | with additional actions of *ānantarya* understood |
+| `adhikāḥ` | nominative feminine plural | greater or increased |
+| `rujaḥ` | nominative feminine plural | pains |
 
-**Bhāṣya-resolved structure**
-
-```text
-tat avadyaṃ
-    = mṛṣāvādaḥ
-
-bhettā
-    tena [mṛṣāvādena] samanvitaḥ
-
-[bhettā]
-    avīcau kalpaṃ pacyate
-
-adhikaiḥ [ānantaryaiḥ]
-    adhikāḥ rujaḥ [bhavanti]
-```
-
-The Bhāṣya supplies the omitted referent of `adhikaiḥ`: additional
-`ānantarya` karmas. It also glosses the verse's `kalpam` as one
-`antarakalpa`, an intermediate kalpa.
+The verse answers the 4.98 question of what the divider is endowed with:
+the culpable false speech. It then states the maturation locus and duration,
+before noting that additional actions of *ānantarya* increase the pains.
 
 ## 4. Grammar
 
-**The divider's culpable determination**
+**The divider's culpable action**
 
 ```text
 tat-avadyaṃ
-    mṛṣāvādaḥ [asti]
-```
+    mṛṣā-vādaḥ [asti]
 
-> The culpable karma associated with that is false speech.
-
-`Tat` refers to the Saṅgha schism defined in VAK 4.98. The compound does not
-identify the schism itself as morally culpable; it identifies the culpable
-karma that causes or accompanies that schism.
-
-**Possession by the divider**
-
-```text
 bhettā
-    tena
-    samanvitaḥ [asti]
+    tena [mṛṣā-vādena]
+    samanvitaḥ
 ```
 
-> The divider is endowed with that [false speech].
+> The culpable action associated with that is false speech, and the divider
+> is endowed with it.
 
-The instrumental complement of `samanvitaḥ` assigns the verbal karma to the
-divider. This contrasts with VAK 4.98, where the Saṅgha is endowed with the
-resultant non-concord.
+The Bhāṣya specifies that this false speech co-arises with the Saṅgha
+division as verbal manifestation and non-disclosing continuity. It is the
+divider's action, not the Saṅgha's resulting state of non-concord.
 
-**Maturation in Avīci**
+**Maturation and increased pains**
 
 ```text
-[saḥ]
+[bhettā]
     avīcau
     kalpam
     pacyate
-```
 
-> He undergoes maturation in Avīci for a kalpa.
-
-The understood subject is the divider in the later continuum that receives
-the result. `Pacyate`, literally “is cooked,” is the conventional passive
-image for undergoing painful karmic maturation. The Bhāṣya specifies an
-intermediate kalpa.
-
-**Convergent intensification**
-
-```text
-adhikaiḥ [ānantaryaiḥ]
+adhikaiḥ [ānantarya-karmabhiḥ]
     adhikāḥ rujaḥ [bhavanti]
 ```
 
-> With additional immediate-result karmas, the pains are greater.
+> The divider undergoes maturation in Avīci for a kalpa; with additional
+> actions of *ānantarya*, the pains are greater.
 
-The instrumental states the cause of increase. The repetition
-`adhikaiḥ—adhikāḥ` correlates additional grave causes with increased pain; it
-does not posit a separate Avīci rebirth for every cause.
+The Bhāṣya glosses the duration as one intermediate kalpa and explains the
+increase through a more susceptible support and more numerous, more intense
+causes of pain.
 
 ## 5. Translation
 
-### Literal Translation
+### Scientific English Rendering
 
-> The culpable karma associated with that is false speech, and the divider is
-> endowed with it. He undergoes maturation in Avīci for a kalpa; through
-> additional [immediate-result karmas], the pains are greater.
+> The culpable action associated with that is false speech, and the divider
+> is endowed with it. He undergoes maturation in Avīci for a kalpa; with
+> additional actions of *ānantarya*, the pains are greater.
 
 ### Bhāṣya-informed study translation
 
-> The culpable karma that produces the Saṅgha's schism is false speech, and it
-> is this verbal karma—not the community's condition of non-concord—that
-> belongs to the divider. It consists more precisely in the verbal
-> manifestation and non-manifestation co-arising with the schism. This karma
-> matures in the great Avīci hell for one intermediate kalpa. If the agent has
-> committed additional immediate-result karmas, they converge in that
-> maturation by increasing the support's susceptibility and the number and
-> intensity of painful conditions.
+> The culpable action that produces the Saṅgha's division is false speech,
+> and it is this verbal action—not the community's condition of non-concord—
+> that belongs to the divider. More precisely, it comprises verbal
+> manifestation and non-disclosing continuity co-arising with the division.
+> This action matures in the great Avīci hell for one intermediate kalpa.
+> When additional actions of *ānantarya* are present, the support becomes
+> denser and more sensitive, and the causes of pain become more numerous and
+> more intense.
 
-The manifestation/non-manifestation analysis, the intermediate-kalpa
-duration, and the mechanism of intensified maturation are supplied by the
-Bhāṣya.
+The manifestation/non-disclosing-continuity analysis, intermediate-kalpa
+duration, and explanation of increased pain are Bhāṣya determinations.
 
 ## 6. Philosophical Translation
 
-> A false representation can be semantically invalid yet practically
-> productive. As verbal karma it belongs to the divider; through the adherence
-> it reorganizes, it produces an objective condition of non-concord belonging
-> to the Saṅgha; and it later matures as painful actuality in the divider's
-> continuum. One causal course thus distributes distinct determinations across
-> different bearers and times without collapsing them into one thing.
-
-The rational circuit is:
-
-```text
-false representation as verbal activity
-    → collective non-concord
-    → later painful maturation
-```
-
-Its unity is causal mediation, not identity:
-
-```text
-divider's karma
-    ≠ Saṅgha's divided condition
-    ≠ divider's later resultant experience
-```
-
-Multiple immediate-result karmas need not form a serial succession of
-results. They can converge by intensifying one resultant field.
+> The divider's culpable speech belongs to the agent; the non-concord it
+> produces belongs to the Saṅgha; the later maturation belongs to the
+> divider's continuum. One causal course links these distinct determinations
+> without collapsing action, collective result, and experienced maturation
+> into one bearer or one moment.
 
 ## 7. Technical Vocabulary
 
-**`Saṃghabheda-avadya` — the culpable karma associated with Saṅgha schism**
-
-The divider's own morally blameworthy determination. The Bhāṣya identifies
-it with false speech and keeps it distinct from `saṃghabheda` as the
-indeterminate non-concord borne by the community.
-
-**`Mṛṣāvāda` — false speech**
-
-Here, the verbal karma causally operative in producing the schism. Its
-falsity does not deprive it of causal efficacy; a false representation can
-reorganize adherence and thereby generate a real collective division.
-
-**`Vāg-vijñapti` and `avijñapti` — verbal manifestation and non-manifestation**
-
-The Bhāṣya specifies the culpable factor as the verbal manifestation and
-non-manifestation co-arising with the schism. The public communicative act
-and its acquired karmic continuity together belong to the divider.
-
-**`Bhettṛ` — divider**
-
-The causal agent who possesses the culpable false-speech karma. The divider
-does not possess the community's non-concord merely by having caused it.
-
-**`Avīci` — the uninterrupted hell**
-
-The specific locus in which the Saṅgha-schism karma matures. The Bhāṣya notes
-that the other immediate-result karmas do not necessarily mature in Avīci.
-
-**`Antarakalpa` — intermediate kalpa**
-
-The Bhāṣya's precise gloss on `kalpam`, specifying the duration of the
-Avīci maturation in this case.
-
-**`Adhikaiḥ adhikāḥ rujaḥ` — greater pains through additional karmas**
-
-Additional immediate-result karmas produce a denser and more sensitive
-support and more numerous and intense causes of torment. The Bhāṣya describes
-the resulting feeling as twofold through fivefold according to the number of
-such karmas.
-
-**Convergent causal intensification**
-
-Several causes jointly increase the intensity of one resultant field. This
-resolves the apparent contradiction between multiple immediate-result karmas
-and the impossibility of several distinct rebirths intervening immediately
-after the same death.
+- **Culpable action** (*avadya*) — the blameworthy action associated with
+  Saṅgha division.
+- **False speech** (*mṛṣāvāda*) — the divider's verbal action in this case.
+- **Divider** (*bhettā*) — the agent who possesses the culpable speech.
+- **Verbal manifestation** (*vāg-vijñapti*) and **non-disclosing continuity**
+  (*vāg-avijñapti*) — the two verbal factors the Bhāṣya says arise together
+  with the Saṅgha division. Keep this pair distinct from the resulting
+  non-concord.
+- **Avīci** — the maturation locus specified for this action; the Bhāṣya
+  says other actions of *ānantarya* do not necessarily mature there.
+- **Intermediate kalpa** (*antarakalpa*) — the Bhāṣya's specification of
+  the verse's `kalpam`.
+- **Pain** (*ruj*) — increased in proportion to additional actions of
+  *ānantarya* in the Bhāṣya's account.
+- **Action of *ānantarya*** — the additional grave action whose presence
+  increases the painful maturation in this passage.
 
 ## 8. Logical Determination
 
-Let:
+Let `D` be the divider, `K` the culpable false-speech action, `S` the
+Saṅgha, `N` its resulting non-concord, and `M` the divider's later
+maturation.
 
 ```text
-A = the divider
-K = culpable false-speech karma
-S = the Saṅgha
-D = collective non-concord
-V = later Avīci maturation
+Bears(D, K)
+Causes(K, N)
+Bears(S, N)
+Bears(D's later continuum, M)
 ```
 
-Then:
+Thus:
 
 ```text
-Bears(A, K)
-Produces(K, D)
-Bears(S, D)
-MaturesAs(K, V)
-Bears(LaterContinuum(A), V)
+K ≠ N
+N ≠ M
 ```
 
-And:
+For multiple actions of *ānantarya*, the Bhāṣya describes increased painful
+intensity within the Avīci maturation, not a separate sequence of
+immediately successive births:
 
 ```text
-K ≠ D
-D ≠ V
-K ≠ V
-```
-
-**Semantic invalidity and practical efficacy**
-
-```text
-False(K)
-    does not imply
-CausallyIneffective(K)
-
-FalseRepresentation(K)
-    → ReorganizesAdherence(K)
-    → Produces(K, D)
-```
-
-**Multiple immediate-result karmas**
-
-For `K₁ ... Kₙ`:
-
-```text
-ImmediateResult(K₁ ... Kₙ)
-    does not require
-n successive immediate rebirths
-
-Converge(K₁ ... Kₙ, V)
-    → Intensify(V)
-```
-
-The Bhāṣya analyzes that intensification as:
-
-```text
-more immediate-result karmas
-    → denser and more sensitive resultant support
-    → more numerous and stronger tormenting causes
-    → greater painful feeling
+more ānantarya actions
+    → denser, more sensitive support
+    → more numerous and intense causes
+    → twofold through fivefold feeling
 ```
 
 ## 9. Interpretive Note
 
-VAK 4.98 distinguished the divider's activity from the Saṅgha's state of
-non-concord. VAK 4.99 completes the circuit by assigning the false-speech
-karma to the divider and its later maturation to the divider's subsequent
-continuum. The same karmic course is therefore articulated across three
-logical sites: acting subject, affected spiritual Object, and resultant
-experiential field.
-
-This is a particularly strong determination of Kriyā-Jñāna. The false speech
-is not merely a proposition awaiting theoretical assessment. It is a
-practical application that organizes hearers around a false determination of
-teacher, Dharma, or Path. Because it becomes a principle of communal
-adherence, it transforms the appearances of the collective Bhūmi and
-produces an actual division.
-
-The contrast between truth and efficacy must therefore be stated carefully:
-
-```text
-valid meaning
-    → depends on the truth of the determination within the whole
-
-practical efficacy
-    → can belong even to a false determination when it organizes activity
-```
-
-The later maturation then returns the objective consequence to the agent's
-continuum, but not by making the collective division and the pain identical.
-Karma is the mediation that preserves and connects these differences.
-
-Finally, the convergence of several immediate-result karmas shows that a
-resultant Bhūmi can be internally intensified by multiple causal courses.
-Multiplicity need not appear as a sequence of separate worlds; it can enter
-the qualitative structure of one experienced field. This extends the lesson
-of VAK 4.95: several karmic determinations can complete and intensify one
-result without becoming several projectors of several simultaneous births.
+VAK 4.98 assigns the resulting non-concord to the Saṅgha. VAK 4.99
+completes the attribution by assigning culpable false speech to the
+divider, then describes the maturation of that action. The Bhāṣya's
+account of multiple actions intensifying the painful support resolves the
+question of how several *ānantarya* actions relate without treating each
+as a separate intervening birth.
 
 ## 10. OWL++ Seed
 
-```ttl
-vak:VAK_4_99 a vak:Karika ;
-    rdfs:label "VAK 4.99" ;
-    vak:continues vak:VAK_4_98 ;
-    vak:hasTopic vak:SchismaticFalseSpeech,
-                 vak:AviciMaturation,
-                 vak:ConvergentCausalIntensification .
+```text
+Class: Action
+Class: FalseSpeechAction
+  SubClassOf: Action
+Class: VerbalManifestation
+Class: NonDisclosingContinuity
+Class: SaṅghaDivision
+Class: NonConcord
+Class: AviciMaturation
+Class: AnantaryaAction
 
-vak:SchismaticFalseSpeech a vak:UnwholesomeVerbalKarma ;
-    vak:borneBy vak:Divider ;
-    vak:hasManifestAspect vak:VerbalManifestation ;
-    vak:hasNonManifestAspect vak:VerbalNonManifestation ;
-    vak:produces vak:SanghaNonConcord ;
-    vak:maturesAs vak:AviciMaturation .
+ObjectProperty: performedBy
+  Domain: Action
+ObjectProperty: causes
+  Domain: Action
+ObjectProperty: borneBy
+  Domain: SaṅghaDivision
+ObjectProperty: maturesAs
+  Domain: Action
 
-vak:SanghaNonConcord a vak:IndeterminateCollectiveState ;
-    vak:borneBy vak:Sangha ;
-    vak:notIdenticalTo vak:SchismaticFalseSpeech,
-                       vak:AviciMaturation .
+Rule: DividerCulpableAction
+  action = FalseSpeechAction
+  performedBy = Divider
+  factors = {VerbalManifestation, NonDisclosingContinuity}
+Rule: SaṅghaDivisionMaturation
+  action = FalseSpeechAction
+  maturesAs = AviciMaturation
+  duration = IntermediateKalpa
+Rule: AdditionalAnantaryaActions
+  increase = PainfulMaturationIntensity
 
-vak:AviciMaturation
-    vak:borneBy vak:LaterContinuumOfDivider ;
-    vak:hasDuration vak:OneIntermediateKalpa .
-
-vak:MultipleAnantaryaKarmas
-    vak:convergeIn vak:AviciMaturation ;
-    vak:intensify vak:ResultantSupport,
-                  vak:PainfulFeeling .
-
-vak:FalseRepresentation
-    vak:mayPossess vak:PracticalCausalEfficacy .
+Constraint: DividerActionIsNotSaṅghaNonConcord
+Constraint: AdditionalActionsDoNotEntailSeparateImmediateBirthSequence
 ```

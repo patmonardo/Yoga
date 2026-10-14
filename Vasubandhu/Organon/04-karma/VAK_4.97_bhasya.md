@@ -1,4 +1,4 @@
-# VAK 4.97 Bhāṣya — Where the Three Obstructions Occur
+# VAK 4.97 Bhāṣya — Locus of the Three Obstructions
 
 ## 1. Kārikā Anchor
 
@@ -7,35 +7,48 @@ triṣu dvīpeṣv ānantaryaṃ śaṇḍhādīnāṃ tu neṣyate /
 alpopakārālajjitvāc cheṣe gatiṣu pañcasu // 4.97 //
 ```
 
-> Immediate-result action is found in the three continents, but is not
-> admitted for the persons here called `śaṇḍha` and related categories,
-> because of lesser parental benefit and lesser moral inhibition. The
-> remaining obstructions occur across the five destinies.
+### Bhāṣya-informed study translation
 
-The last phrase concerns the remaining **two obstructions**, afflictive
-and resultant, from 4.96. It does not mean that the five immediate-result
-actions occur in all five destinies.
+> Among these obstructions, where is each to be understood? The actions of
+> *ānantarya* are admitted in the three continents—not in Uttarakuru, the
+> other destinies, or another Principle; even there, only for women and men.
+> They are not admitted for persons classified in the text as *śaṇḍha* and
+> related cases. The Bhāṣya recalls its earlier explanation concerning
+> non-restraint and adds lesser parental beneficence and lesser inhibition
+> toward parents, assigning these reasons respectively to the parents and
+> the persons. It attributes the claimed difference in beneficence to
+> embodied condition and parental affection. It extends the exclusion to
+> animals and pretas, while Bhadanta allows a possible case among those of
+> exceptional intelligence, such as a well-bred horse. A human who kills
+> nonhuman parents is also said not to incur *ānantarya*. The Bhāṣya then
+> clarifies that the “remaining” two are affliction-obstruction and
+> maturation-obstruction, which occur across the five destinies; it
+> identifies the Kuru condition among humans and non-percipient beings
+> among gods as instances of the latter.
 
 ## 2. Continuous Sanskrit
 
 ```iast
-athaiṣām āvaraṇānāṃ katamat kasyāṃ gatau veditavyam? ekāntena tāvat
+athaiṣām āvaraṇānāṃ katamat kasyāṃ gatau veditavyam?
+ekāntena tāvat
 
-triṣu dvīpeṣv ānantaryaṃ
+triṣu dvīpeṣv ānantaryam
 
-nottarakurau nānyāsu gatiṣu; kuta evānyatra dhātau? teṣv api
-strīpuruṣāṇām eva.
+nottarakurau nānyāsu gatiṣu; kuta evānyatra dhātau?
+teṣv api strīpuruṣāṇām eva.
 
-śaṇḍhādīnāṃ tu neṣyate /
+śaṇḍhādīnāṃ tu neṣyate.
 
 kiṃ kāraṇam? tad evāsaṃvarābhāve kāraṇam uddiṣṭam. api ca
 
 alpopakārālajjitvāt
 
-yathākramaṃ mātāpitros teṣāṃ ca. alpopakārau kilaiṣāṃ mātāpitarau
-vikalātmabhāvādhipatitvād alpasnehatvāc ca. teṣām api na tīvraṃ hy
-apatrāpyaṃ mātāpitror antike pratyupasthitaṃ, yad vipādanād
-ānantaryeṇa spṛśyeran. ata eva tiryakpretānām api neṣyate.
+yathākramaṃ mātāpitros teṣāṃ ca.
+alpopakārau kilaiṣāṃ mātāpitarau
+vikalātmabhāvādhipatitvād alpasnehatvāc ca.
+teṣām api na tīvraṃ hy apatrāpyaṃ mātāpitror antike pratyupasthitaṃ,
+yad vipādanād ānantaryeṇa spṛśyeran.
+ata eva tiryakpretānām api neṣyate.
 
 paṭubuddhīnāṃ syād aśvājāneyavad iti bhadantaḥ.
 
@@ -45,125 +58,121 @@ uktaṃ karmāvaraṇam.
 
 śeṣe gatiṣu pañcasu // 4.97 //
 
-ke punaḥ śeṣe? kleśavipākāvaraṇe. manuṣyeṣu vipākāvaraṇam:
-kauravāḥ; deveṣv asaṃjñisattvāḥ.
+ke punaḥ śeṣe? kleśavipākāvaraṇe.
+manuṣyeṣu vipākāvaraṇam: kauravāḥ;
+deveṣv asaṃjñisattvāḥ.
 ```
 
-The running witness has `tetṣvapi` at `[260|02]`, normalized as `teṣv api`.
-Other spacing above is editorial. The terms `śaṇḍha` and related classes
-are retained as the source's historical classifications; their extension
-is not inferred from contemporary categories of sex or gender.
+The complete unit is `[259|25]–[260|12–13]`. The witness reads
+`tetṣvapi`, normalized here as `teṣv api`. Spacing and punctuation are
+editorial. The source's historical classifications are preserved as source
+terms, without mapping them to current identities.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Scientific English Rendering
 
-In which destiny is each of these obstructions to be understood? First,
-immediate-result action is confined to the three human continents. It is
-absent from Uttarakuru and from the other destinies, and still more clearly
-from another realm. Even in the three continents it is admitted only for
-women and men.
+Among these obstructions, where is each to be understood? First, the
+*ānantarya* actions are admitted in the three continents—not in Uttarakuru
+or the other destinies, still less in another Principle. Even in those
+continents, they are admitted only for women and men.
 
-For those here called `śaṇḍha` and the related categories it is not
-accepted. Why? The reason previously given for their not having the
-technical state of non-restraint is invoked. Further, the text says,
-respectively, that the parents' benefit toward them is smaller and their
-own moral inhibition in relation to their parents is weaker. It attributes
-this to its account of impaired bodily formation and lesser parental
-affection. Thus, it says, killing the parents would not have the particular
-intensity required for an immediate-result action. For the same reason,
-the classification is not accepted for animals or hungry ghosts.
+They are not admitted for persons classified as *śaṇḍha* and related cases.
+Why? The reason previously given concerning the absence of non-restraint is
+also cited. Further, the verse says “because of lesser beneficence and
+absence of inhibition.” These apply respectively to the parents and to
+those persons. Their parents are said to have rendered comparatively little
+benefit because of the persons' bodily condition and because parental
+affection is slight. The text says that the persons also lack strong
+*apatrāpya* in relation to their parents, such that killing them would
+count as *ānantarya*. For the same reason, it is not accepted for animals
+and pretas.
 
-Bhadanta objects that it may be possible for animals with sharp
-intelligence, such as an exceptionally trained horse. Nor, says the text,
-would a human who killed parents belonging to a nonhuman destiny thereby
-commit an immediate-result action.
+Bhadanta says that it might occur among those of sharp intelligence, as in
+the case of a well-bred horse. A human who kills nonhuman parents likewise
+does not incur *ānantarya*.
 
-That concludes obstruction by action. What are the “remaining”
-obstructions, said to occur in the five destinies? They are obstruction by
-affliction and obstruction by maturation. Among humans, the latter applies
-to the people of Uttarakuru; among gods, to non-percipient beings. The bad
-destinies were already named as resultant obstructions in 4.96.
+Action-obstruction has been explained. “The remaining two [obstructions]
+are in the five destinies.” What are the remaining two? Affliction-obstruction
+and maturation-obstruction. Among humans, maturation-obstruction is the Kuru
+condition; among gods, it is non-percipient beings.
 
-## 4. The Three Human Continents
+## 4. Locus of the *Ānantarya* Actions
 
-The primary restriction is geographical and existential:
+The Bhāṣya first gives the distribution:
 
 ```text
-Jambūdvīpa
-Pūrvavideha
-Aparagodānīya
-    → immediate-result action is possible
+three continents:
+    admitted
 
-Uttarakuru and other destinies
-    → excluded from this technical classification
+Uttarakuru:
+    not admitted
+
+other destinies and other Principles:
+    not admitted
+
+within the three continents:
+    admitted only for women and men
 ```
 
-The source also restricts the relevant agents within the three continents.
-This is not an empirical claim that severe violence cannot occur outside
-those groups. It specifies the conditions under which the Abhidharma
-assigns the **five ānantarya** classification.
+This is the scope assigned to the technical action-class, not a claim that
+other agents cannot perform serious harmful actions.
 
-## 5. The Disputed Agent Restriction
+## 5. The Reported Agent Restriction
 
-The exclusion of `śaṇḍha` and related persons relies first on an earlier
-rule about `asaṃvara`, non-restraint. The second argument is explicitly
-relational: the parents' benefit and the agent's moral inhibition are taken
-as insufficiently intense for this particular karmic class.
-
-`Yathākramam` fixes the assignments:
+The Bhāṣya recalls an earlier account concerning absence of non-restraint,
+then gives two additional reasons, connected by `yathākramam`:
 
 ```text
-lesser benefit      → attributed to the parents
-lesser moral concern → attributed to the offspring
+alpopakāra
+    → attributed to the parents' relation of beneficence
+
+alajjitva / apatrāpya
+    → attributed to the persons' inhibition toward their parents
 ```
 
-The parent-child relation, rather than the visible act alone, governs the
-specific gravity assigned here. Bhadanta's exceptional-animal suggestion
-shows that the classification was not presented without dispute. The
-historical assumptions about bodies, affection, and moral capacity remain
-claims of this source; our analysis does not adopt them as facts about
-living persons.
+It grounds the claimed lesser parental beneficence in bodily condition and
+lesser affection. It says that the relevant strong inhibition toward parents
+is not present. This is the source's historical doctrinal rationale; it is
+not adopted here as an empirical account of living people or generalized to
+present-day categories.
 
-## 6. “Remaining” Means Two Obstructions
+The commentary extends its exclusion to animals and pretas. Bhadanta then
+offers a qualified possibility for exceptionally intelligent animals, with
+the example of a well-bred horse. It also says that killing nonhuman parents
+does not constitute *ānantarya* even when the agent is human. These remain
+attributed source positions.
 
-After `uktaṃ karmāvaraṇam`, “obstruction by action has been explained,” the
-question `ke punaḥ śeṣe?` asks exactly what remains. The answer is:
+## 6. “The Remaining Two”
+
+After saying “action-obstruction has been explained,” the Bhāṣya asks what
+remains and answers:
 
 ```text
-kleśāvaraṇa — obstruction by affliction
-vipākāvaraṇa — obstruction by resultant existence
+kleśāvaraṇa
+vipākāvaraṇa
 ```
 
-“In the five destinies” distributes those two kinds across the full field.
-It does not assert that every instance of resultant obstruction occurs in
-every destiny. The Bhāṣya specifies the human and divine instances, while
-4.96 had already identified the three bad destinies.
+Thus `śeṣe gatiṣu pañcasu` distributes affliction-obstruction and
+maturation-obstruction across the five destinies. It does not mean that
+other grave actions occur in all five. The commentary specifies the Kuru
+condition among humans and non-percipient beings among gods as instances of
+maturation-obstruction; the three bad destinies had already been included
+in 4.96.
 
-## 7. Organon Contact Point
+## 7. Interpretation
 
-The Causal Algebra for Agency needs to keep two questions distinct:
-
-```text
-Is a severe action possible in this world?
-Does it satisfy the source's exact ānantarya predicate?
-```
-
-A typed predicate must declare its conditions and preserve recorded
-disagreement about them. Here the argument depends upon destiny, human
-continent, agent class, field of action, and the morally charged relation
-to the victim. The study can use that relational structure without
-transferring the source's exclusions into a modern agent policy.
-
-The second half also demonstrates how a compressed term inherits its scope
-from the immediately preceding discourse. Resolving `śeṣe` to the two
-remaining *obstructions* is necessary before the verse can be encoded.
-
-These are Organon applications. The continental cosmography and disputed
-eligibility claims belong to the Bhāṣya.
+VAK 4.96 established three obstruction-types; 4.97 differentiates their
+scope. Action-obstruction is assigned a narrow locus, while the other two
+obstructions extend across the five destinies. The technical classification
+depends on the distinctions the source names, not merely on a surface
+description of an act. The historical restrictions and their rationale
+must remain attributed to the Bhāṣya, especially where they concern
+embodied categories and parental relations.
 
 ## 8. Review Status
 
-The complete 4.97 unit `[259|25]–[260|12–13]` is included. It stops before
-the new question about the intrinsic character of immediate-result acts at
-`[260|13]`. The three-continent restriction, agent dispute, Bhadanta's
-qualification, nonhuman-parent case, and exact referent of `śeṣe` are
-retained. The witness spelling and historical classification are marked.
+The complete 4.97 unit `[259|25]–[260|12–13]` is included: the three-continent
+restriction, agent conditions, the Bhāṣya's stated rationale, its extension
+to animals and pretas, Bhadanta's qualification, the nonhuman-parent case,
+and the explanation that “the remaining two” are affliction-obstruction and
+maturation-obstruction. The study stops before the next question on the
+intrinsic nature of the *ānantarya* actions at `[260|13]`.

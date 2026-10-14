@@ -1,4 +1,4 @@
-# VAK_4.124 — Characteristic Fruits and Brahmā Merit
+# VAK 4.124 — Predominant Results and Brahmā-Merit
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -9,15 +9,14 @@
 
 ## 2. Sanskrit (IAST)
 
-```text
-svargāya śīlaṃ prādhānyāt visaṃyogāya bhāvanā |
-caturṇāṃ brāhmapuṇyatvaṃ kalpaṃ svargeṣu modanāt || 4.124 ||
+```iast
+svargāya śīlaṃ prādhānyāt visaṃyogāya bhāvanā /
+caturṇāṃ brāhmapuṇyatvaṃ kalpaṃ svargeṣu modanāt // 4.124 //
 ```
 
-The Bhāṣya applies the qualification `prādhānyāt`, principally, to the
-characteristic fruit-map rather than treating either mapping as exclusive.
-The four persons mentioned in the second half are not identified in this
-local passage.
+The Bhāṣya makes clear that `prādhānyāt` marks a predominant, not an
+exclusive, result. It also records two different accounts of Brahmā-merit's
+measure, attributed to the Vaibhāṣikas and former teachers.
 
 ## 3. Lexical Analysis
 
@@ -26,33 +25,26 @@ svargāya | śīlam | prādhānyāt | visaṃyogāya | bhāvanā |
 caturṇām | brāhma-puṇyatvam | kalpam | svargeṣu | modanāt
 ```
 
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
-| `svargāya` | dative singular masculine | toward heaven, for heavenly rebirth |
+| `svargāya` | dative singular masculine | for heaven; toward heavenly existence |
 | `śīlam` | nominative singular neuter | discipline |
 | `prādhānyāt` | ablative singular abstract noun | because of predominance; principally |
-| `visaṃyogāya` | dative singular masculine | toward disjunction or release from conjunction |
+| `visaṃyogāya` | dative singular masculine | for disjunction |
 | `bhāvanā` | nominative singular feminine | cultivation |
-| `caturṇām` | genitive plural | of four |
+| `caturṇām` | genitive plural | of the four [persons] |
 | `brāhmapuṇyatvam` | nominative singular neuter compound | the status of Brahmā-merit |
 | `kalpam` | accusative singular masculine | for a kalpa |
-| `svargeṣu` | locative plural masculine | in heavenly realms |
-| `modanāt` | ablative singular action noun | because of delighting or enjoying |
+| `svargeṣu` | locative plural masculine | in the heavens |
+| `modanāt` | ablative singular action noun | because of enjoying or delighting |
 
-**Predominant fruit-map completed by the Bhāṣya**
-
-```text
-dāna     → abundant enjoyment or resources
-śīla     → heaven, principally
-bhāvanā  → disjunction, principally
-```
-
-The first mapping is recalled from the preceding discussion rather than
-stated in this Kārikā.
+The Bhāṣya supplies the predominant-result comparison for giving as well
+as discipline and cultivation. It does not identify the four persons in
+this unit.
 
 ## 4. Grammar
 
-**Characteristic orientations**
+The first half gives predominant orientations:
 
 ```text
 śīlam
@@ -67,11 +59,11 @@ bhāvanā
 > Discipline principally conduces to heaven; cultivation principally
 > conduces to disjunction.
 
-The datives express end or result. Although `prādhānyāt` occurs with the
-first clause, the Bhāṣya explicitly construes the classification through
-predominance and denies exclusivity in both directions.
+Although `prādhānyāt` occurs with discipline in the verse, the Bhāṣya
+explicitly applies the same qualification to cultivation and states that
+each practice may also support the other's result.
 
-**Result-based measure of Brahmā-merit**
+The second half associates the four with Brahmā-merit:
 
 ```text
 caturṇām
@@ -79,189 +71,130 @@ caturṇām
 kalpaṃ svargeṣu modanāt
 ```
 
-> The four have the status of Brahmā-merit because one delights in heaven for
-> a kalpa.
-
-This is the former teachers' construal adopted by the Kārikā formulation.
-The identities of the four derive from a quoted sūtra but are not enumerated
-in this unit.
+The Bhāṣya reports competing explanations of what quantity or result
+constitutes this Brahmā-merit.
 
 ## 5. Translation
 
-### Literal Translation
+### Scientific English Rendering
 
-> Discipline is principally for heaven; cultivation is for disjunction. The
-> four have the status of Brahmā-merit because of delighting in the heavens
-> for a kalpa.
+> Discipline principally conduces to heaven; cultivation principally
+> conduces to disjunction. The merit of the four [persons] is called
+> Brahmā-merit because of delighting in heaven for a kalpa.
 
 ### Bhāṣya-informed study translation
 
-> Discipline principally conduces to heavenly rebirth, while cultivation
-> principally conduces to disconnection from binding factors. These are
-> dominant rather than exclusive tendencies: giving also supports heaven, and
-> discipline also supports disconnection, but cultivation does so
-> characteristically. A sūtra speaks of four persons who generate
-> Brahmā-merit. The former teachers define its measure as enough merit to
-> produce heavenly enjoyment for a kalpa, corresponding to the kalpa-long
-> lifespan of Brahmā's ministers; the Vaibhāṣikas instead correlate it with
-> the immense karmic measure invoked for the Buddha's marks.
+> Discipline principally conduces to heaven; cultivation principally
+> conduces to disjunction. The merit of the four [persons] is called
+> Brahmā-merit because of delighting in heaven for a kalpa. The Bhāṣya
+> clarifies that giving also conduces to heaven, while discipline also
+> conduces to disjunction. The Vaibhāṣikas connect Brahmā-merit with the
+> measure used for action whose maturation produces the Buddha's marks.
+> Former teachers define it by result: the merit through which one delights
+> in the heavens for a kalpa, in accord with the kalpa-long lifespan of
+> Brahmā's ministers. Another collection transmits a verse stating this
+> result.
 
-The overlap among fruits and both measurements of Brahmā-merit are Bhāṣya
-determinations. The passage does not supply the four persons' identities.
+The two measures and the comparison among giving, discipline, and
+cultivation are Bhāṣya explanations; the four persons' identities are not
+provided here.
 
 ## 6. Philosophical Translation
 
-> Discipline and cultivation can cooperate toward several results, yet their
-> characteristic operations differ. Discipline principally orders embodied
-> existence into a form compatible with a favorable world; cultivation
-> transforms the mental continuum so that a binding conjunction can cease.
-> The distinction is therefore not between good and better quantities of one
-> result, but between improvement within conditioned existence and the
-> operative production of disconnection. Even kalpa-long celestial enjoyment
-> remains an immense conditioned result rather than release from conjunction.
-
-The contrast is:
-
-```text
-ordered conduct → improved conditioned world
-transformed citta → capacity for disjunction
-```
+> The practices are distinguished by what they principally conduce to,
+> not by exclusive ownership of a single result. Giving can support
+> heavenly existence; discipline chiefly orders action toward it, while
+> also supporting disjunction; cultivation principally conduces to
+> disjunction. The competing measures of Brahmā-merit remain conditioned
+> results, whether framed through a measure associated with the Buddha's
+> marks or through a kalpa of heavenly enjoyment. Magnitude and duration
+> do not, by themselves, turn a heavenly result into disjunction.
 
 ## 7. Technical Vocabulary
 
-**`Prādhānya` — predominance**
-
-The chief causal tendency of a practice. It prevents the fruit-map from
-becoming an exclusive one-to-one classification.
-
-**`Svarga` — heaven or favorable celestial rebirth**
-
-The characteristic result of discipline. Restraint blocks bodily and verbal
-causes of painful destinations and forms a continuum compatible with a more
-ordered experiential field.
-
-**`Visaṃyoga` — disjunction**
-
-Release understood structurally as separation from a binding conjunction.
-The term should not be flattened into a vague “liberation”: it names the
-cessation of an operative causal connection with affliction.
-
-**`Bhāvanā` — cultivation**
-
-Concentrated wholesome conditioning of the continuum, defined in VAK 4.123.
-Because it changes the continuum's qualitative disposition, it principally
-supports abandonment of binding factors.
-
-**`Brāhmapuṇya` — Brahmā-merit**
-
-An exceptional measure of conditioned merit. The Bhāṣya records two accounts
-of its quantity without identifying the four persons mentioned by the sūtra.
-
-**Vaibhāṣika measure**
-
-Brahmā-merit is correlated with the vast measure used to indicate karma whose
-maturation produces the Buddha's marks.
-
-**Former teachers' measure**
-
-Whatever merit yields celestial enjoyment for a kalpa, explained through the
-kalpa-long lifespan of Brahmā's ministers. A variant recitation from another
-school supports this result-based definition.
+- **`Prādhānya`** — predominance. It marks a characteristic result without
+  excluding other results or cooperation among practices.
+- **`Svarga`** — heaven or heavenly existence; the result principally
+  associated with discipline in this passage.
+- **`Visaṃyoga`** — disjunction; the result principally associated with
+  cultivation.
+- **`Bhāvanā`** — cultivation, defined in 4.123 through concentrated
+  wholesomeness conditioning Consciousness.
+- **`Brāhmapuṇya`** — Brahmā-merit, whose measure is disputed in the
+  Bhāṣya.
+- **Vaibhāṣika account** — links Brahmā-merit with the measure for action
+  whose maturation produces the Buddha's marks.
+- **Former-teacher account** — defines Brahmā-merit by the amount that
+  yields enjoyment in the heavens for a kalpa.
 
 ## 8. Logical Determination
 
-The dominant mappings are:
+The Bhāṣya states the predominant results and their overlap:
 
 ```text
-PrincipalFruit(Giving)      = AbundantEnjoyment
-PrincipalFruit(Discipline)  = Heaven
-PrincipalFruit(Cultivation) = Disjunction
-```
-
-But predominance entails overlap:
-
-```text
-Giving     → may support Heaven
-Discipline → may support Disjunction
-Cultivation → principally supports Disjunction
+giving      → can conduce to heaven
+discipline  → principally conduces to heaven;
+              can also conduce to disjunction
+cultivation → principally conduces to disjunction
 ```
 
 Therefore:
 
 ```text
-PrincipalFruit(P, R)
-    does not entail
-OnlyFruit(P, R)
+predominant result ≠ exclusive result
 ```
 
-The second half distinguishes two proposed measures:
+The Bhāṣya preserves two measures of Brahmā-merit:
 
 ```text
-VaibhasikaMeasure(BrahmaMerit)
-    = MeasureAssociatedWithBuddhaMarks
+Vaibhāṣika account
+    → measure associated with action producing the Buddha's marks
 
-FormerTeachersMeasure(BrahmaMerit)
-    = SufficientFor(KalpaLongHeavenlyEnjoyment)
+former-teacher account
+    → enough merit for enjoyment in the heavens for a kalpa
 ```
 
-Both quantify conditioned merit; neither converts duration or magnitude into
-the logical type `Disjunction`.
+The local passage does not enumerate the four persons or collapse the
+two explanations into one.
 
 ## 9. Interpretive Note
 
-VAK 4.124 completes the three merit-bases by assigning their predominant
-fruits. The sequence reveals a graded transformation of practical reality:
+VAK 4.124 completes the discussion of giving, discipline, and cultivation
+by describing their predominant results. The Bhāṣya's `prādhānyāt`
+prevents a rigid one-practice/one-result scheme: giving may conduce to
+heaven, and discipline may conduce to disjunction, though their chief
+orientations differ.
 
-```text
-dāna     → reorders possession and resources
-śīla     → reorders conduct and destination
-bhāvanā  → reorders the continuum's causal connectivity
-```
+The two Brahmā-merit accounts measure exceptional conditioned results in
+different ways. A kalpa of heavenly enjoyment is not the same result as
+disjunction merely because it is vast in duration. The four persons named
+in the cited sūtra remain unidentified in this passage.
 
-The last is why cultivation principally yields `visaṃyoga`. The concentrated
-conditioning described in 4.123 does not merely improve appearances within a
-given Bhūmi; it makes possible the cessation of the conjunction that keeps
-the continuum bound to afflictive production. This is the Negative Dialectic
-in a strict practical sense: not abstract denial, but removal of an operative
-connection through a positively cultivated counter-determination.
-
-`Prādhānyāt` is equally important for the project's Schema Inference. A
-principle is classified by its governing tendency without erasing secondary
-consequences or cooperation with other disciplines. Thus śīla can serve the
-Path to disjunction even though heaven is its characteristic independent
-fruit.
-
-Finally, Brahmā-merit marks the boundary between enormous conditioned value
-and liberation. Quantity and duration within saṃsāra do not become
-`visaṃyoga` merely by increase. This Organon synthesis is reconstructive; the
-source claim concerns predominant fruits and the disputed measure of
-Brahmā-merit.
+The source span is `[274|05]–[274|13]`. The witness has `sutra` at
+`[274|07]`, normalized as `sūtra`. The Vaibhāṣika reference points back
+to the earlier account of action producing the Buddha's marks; the
+measure is not repeated here. The next topic begins with material giving
+at `[274|14]`.
 
 ## 10. OWL++ Seed
 
-```ttl
-vak:VAK_4_124 a vak:Karika ;
-    rdfs:label "VAK 4.124" ;
-    vak:continues vak:VAK_4_123 ;
-    vak:hasTopic vak:PredominantMeritFruits,
-                 vak:BrahmaMerit .
+```text
+Class: Giving
+Class: Discipline
+Class: Cultivation
+Class: Heaven
+Class: Disjunction
+Class: BrahmāMerit
+Class: VaibhāṣikaMeasure
+Class: FormerTeacherMeasure
 
-vak:Giving
-    vak:hasPredominantFruit vak:AbundantEnjoyment ;
-    vak:mayConduceTo vak:Heaven .
+Rule: PredominantResults
+  Discipline -> principally Heaven
+  Cultivation -> principally Disjunction
+  Giving -> mayConduceTo Heaven
+  Discipline -> mayConduceTo Disjunction
 
-vak:MoralDiscipline
-    vak:hasPredominantFruit vak:Heaven ;
-    vak:mayConduceTo vak:Disjunction .
-
-vak:MentalCultivation
-    vak:hasPredominantFruit vak:Disjunction .
-
-vak:PredominantFruit
-    vak:doesNotImply vak:ExclusiveFruit .
-
-vak:BrahmaMerit
-    vak:hasVaibhasikaMeasure vak:BuddhaMarksKarmicMeasure ;
-    vak:hasFormerTeachersMeasure vak:KalpaLongHeavenlyEnjoyment ;
-    vak:isTypeOf vak:ConditionedMerit .
+Attribution: BrahmāMeritMeasures
+  Vaibhāṣika = MeasureAssociatedWithBuddhaMarks
+  FormerTeachers = KalpaOfHeavenlyEnjoyment
 ```

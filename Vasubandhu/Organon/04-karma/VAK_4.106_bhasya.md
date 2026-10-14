@@ -1,4 +1,4 @@
-# VAK 4.106 Bhāṣya — Analogues of the Immediate-Result Offenses
+# VAK 4.106 Bhāṣya — The Immediate-Result Analogues
 
 ## 1. Kārikā Anchor
 
@@ -7,13 +7,12 @@ dūṣaṇaṃ mātur arhantyā niyatisthasya māraṇam /
 bodhisattvasya śaikṣasya saṃghāyadvārahārikā // 4.106 //
 ```
 
-> Sexual violation of one's mother when she is an arhat; killing a
-> bodhisattva established in certainty; killing a noble trainee; and
-> taking away the Saṅgha's means of support—these begin a list of acts
-> analogous to the five immediate-result offenses.
+> Violation of one's mother when she is an arhat; killing a bodhisattva
+> established in certainty; killing a trainee; and taking away an access
+> or means associated with the Saṅgha's comfort.
 
-The list has four members in 4.106. The running commentary completes it
-with the first half of 4.107 before moving to another question.
+The kārikā gives four members. The Bhāṣya completes the set with the fifth
+member named in the opening half of 4.107.
 
 ## 2. Continuous Sanskrit
 
@@ -33,66 +32,68 @@ niyatipatitaṃ bodhisattvaṃ mārayati, śaikṣaṃ mārayati,
 saṃghasya sukhāya dvārikaṃ harati, stūpabhedaṃ karoti.
 ```
 
-The running-source unit is `[264|22]–[265|04]`. Its quotation of 4.107a
-is included because the Bhāṣya needs that half-verse to finish the list.
-The source prints `ānatnaryāṇāṃ` at `[265|02]`, repaired above to
-`ānantaryāṇāṃ`. The compound `saṃghāyadvārahārikā` and its prose
-paraphrase are difficult; the translation below stays close to the
-paraphrase's sense of removing a means of comfort or support.
+The unit is `[264|22]–[265|04]`. The witness has `ānatnaryāṇāṃ` at
+`[265|02]`; the reading is normalized here to `ānantaryāṇāṃ`. The compact
+compound `saṃghāyadvārahārikā` is difficult, so the translation follows
+the Bhāṣya's prose paraphrase while marking its uncertain referent.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Scientific English Rendering
 
-Do only the five immediate-result offenses necessarily lead to rebirth
-in hell? Acts analogous to them also necessarily do so. Other teachers
-say that such a rebirth does **not necessarily follow immediately**.
-Which acts are these?
+Do only the immediate-result actions necessarily lead to rebirth in Hell?
+Actions analogous to the immediate-result actions also necessarily do so.
+Other teachers say, however, that the rebirth does not necessarily follow
+immediately. Which actions are these?
 
-They are sexual violation of one's mother when she is an arhat; killing
-a bodhisattva established in certainty; killing a noble trainee; taking
-away a means by which the Saṅgha obtains support or comfort; and, as the
-fifth, breaking a stūpa. These five correspond, in order, to the five
-immediate-result offenses. The prose restates each act and specifies
-sexual misconduct for the first.
+Violation of one's mother when she is an arhat; killing a bodhisattva
+established in certainty; killing a trainee; taking away an access or means
+associated with the Saṅgha's comfort; and, as the fifth, destruction of a
+stūpa. These five correspond in order to the five immediate-result actions.
+The prose specifies sexual misconduct in the first case and restates the
+remaining acts. Its expression concerning the Saṅgha is difficult; the
+paraphrase describes taking away a `dvārika` associated with the Saṅgha's
+comfort.
 
-## 4. Analogy Without Identity
+The main account asserts the certainty of Hell rebirth for these analogues.
+The reported alternative disputes whether that rebirth must immediately
+follow; it does not deny the analogy or change the set's five members.
 
-`Ānantaryasabhāga` marks a shared character with the five strict
-`ānantarya` offenses. The Bhāṣya presents the analogues as a **distinct
-set of five**, not as new names for the canonical offenses. It also
-preserves a disagreement about timing: necessary hell rebirth is asserted,
-while the reported alternative denies that it must be in the very next
-existence.
+## 4. Analogy, Membership, and Timing
 
-| Analogue | Field or act specified in the Bhāṣya |
-|---|---|
-| sexual violation | one's mother who is an arhat |
-| killing | a bodhisattva fixed in certainty |
-| killing | a noble trainee (`śaikṣa`) |
-| deprivation | the Saṅgha's means of support or comfort |
-| damage | breaking a stūpa |
+| Point | Bhāṣya's statement | Limitation |
+|---|---|---|
+| Membership | Five actions are `ānantarya-sabhāga` | The analogues are not thereby members of the strict immediate-result class |
+| Correspondence | They correspond in order to the five immediate-result actions | The rationale for each pairing is not explained here |
+| Consequence | The main account says Hell rebirth necessarily follows | A reported view denies that it must follow immediately |
+| Saṅgha case | A `dvārika` associated with the Saṅgha's comfort is taken away | The precise referent of the compressed kārikā compound remains difficult |
 
-The first case concerns a person who combines the maternal relation and
-arhat status. The next two concern a fixed bodhisattva and someone still
-training on the noble Path. The last two concern the Saṅgha's practical
-support and a stūpa. The Bhāṣya gives an ordered analogy but does not
-explain the exact rationale for each pairing in this short unit.
+The first analogue combines the relation of mother with the status of arhat;
+the Bhāṣya specifies the action as sexual misconduct. The next cases concern
+a bodhisattva established in certainty and a trainee. The fifth member,
+destruction of a stūpa, is supplied by 4.107a, not by the four-item
+enumeration in 4.106.
 
-## 5. Organon Contact Point — Project Reconstruction
+## 5. Interpretation
 
-The usable distinction for our account of action is between an exact
-doctrinal class and an analogue sharing its salient relations:
+The passage distinguishes an established action-class from acts that share
+its grave character. Its argument is not that every serious act is an
+immediate-result action: the Bhāṣya names an analogous set, gives its ordered
+correspondence, and preserves a dispute about the timing of its Hell rebirth.
+Class, analogy, and timing remain separate determinations.
 
-```text
-strict immediate-result offense ≠ analogous grave action
-analogy depends on the affected field and act
-```
-
-This classification belongs to the Kośa; treating it as an agent's
-general method for recognizing related action types is our extension.
+The bodhisattva established in certainty and the trainee make the Path
+dimension salient. *Śaikṣa* is explicitly a training-status term, while the
+verse does not itself say *ārya* or *tantra*. Read beside 4.105, this
+supports a careful distinction: *bhavāgra-cetanā* is greatest for worldly
+maturation-result; the present passage concerns actions analogous to the
+immediate-result class. Neither unit establishes exclusive “proper”
+subsequent births from *bhavāgra*. A Yoga or Tantra account of a determinate Path
+and its future births can be developed as Organon interpretation, but it
+requires evidence beyond these claims.
 
 ## 6. Review Status
 
-The study covers `[264|22]–[265|04]`, including the necessary overlap
-with 4.107a. It stops before `[265|04–05]`, where the next topic—karma
-that obstructs attainment at three times—begins. The first-pass kārikā
-and running witness remain unchanged.
+This study covers `[264|22]–[265|04]`, including 4.106 and the opening
+half-verse of 4.107, which completes the five-item list. It stops before
+the next topic at `[265|04–05]`, concerning karma that obstructs attainment
+at three thresholds. The witness reading `ānatnaryāṇāṃ` and the difficult
+Saṅgha compound are recorded rather than silently regularized.

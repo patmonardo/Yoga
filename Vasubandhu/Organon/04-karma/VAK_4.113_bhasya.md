@@ -7,13 +7,12 @@ dīyate yena tad dānaṃ pūjānugrahakāmyayā /
 kāyavākkarma sotthānaṃ mahābhogyaphalaṃ ca tat // 4.113 //
 ```
 
-> Giving is that through which something is given from the wish to
-> honor or benefit another: bodily or verbal action together with what
-> sets it in motion. It has abundant enjoyment as its fruit.
+> Giving is that through which something is given from the wish to honor
+> or benefit others. It is bodily or verbal action together with its
+> activation, and it has abundant enjoyment as its result.
 
-The Bhāṣya distinguishes the thing given from the wholesome action of
-giving and then specifies the motive, action, activating complex, and
-result.
+The Bhāṣya distinguishes the thing given from the giving-action, then
+specifies its motive, means, activating factors, and result.
 
 ## 2. Continuous Sanskrit
 
@@ -36,7 +35,7 @@ kiṃ punas tad utthānam? yena kalāpena tad utthāpyate.
 āha cātra:
 
 "śubhena manasā dravyaṃ svaṃ dadāti yadā pumān /
-tatkṣaṇaṃ kuśalāḥ skandhā dānam ity abhidhīyate" iti.
+tat kṣaṇaṃ kuśalāḥ skandhā dānam ity abhidhīyate" iti.
 
 mahābhogyaphalaṃ ca tat // 4.113 //
 
@@ -45,69 +44,79 @@ svabhāve caiṣa mayaḍ veditavyaḥ, tad yathā tṛṇamayaṃ gṛhaṃ
 parṇamayaṃ bhājanam iti. tat khalv etad dānam:
 ```
 
-The span is `[268|09]–[268|20]`. The running witness has `daddānam`
-at `[268|09–10]`; the separated `tad dānam` above follows the
-relative-correlative syntax. Its quoted verse reads `tat kṣaṇaṃ`
-with a space. The last sentence leads into 4.114's classification of
-giving by whose benefit it serves; that new half-verse begins at
-`[268|21]`.
+The unit is `[268|09]–[268|20]`. The witness reads `daddānam` at
+`[268|09–10]`; `tad dānam` is separated here to show the
+relative-correlative construction. The cited verse reads `tat kṣaṇaṃ`
+with a space. The closing colon introduces the next topic, which begins
+at `[268|21]`.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Scientific English Rendering
 
-What is called giving? In ordinary speech, the object given may also
-be called a gift. Here, however, giving means **that through which**
-something is given. Things can also be handed over through passion and
-other afflictions, which are not meant in this definition. The verse
-therefore adds the wish to honor or benefit others.
+What is called giving? In ordinary usage, the thing that is given may
+itself be called a gift. Here, however, the definition is: “Giving is
+that through which something is given.” Things are also given through
+passion and other afflictions, but those cases are not intended here.
+Therefore, to qualify the definition, the verse says:
 
-What is this through which one gives? Bodily or verbal action together
-with its activation. That activation is the group of factors through
-which the action is brought about. A cited verse says: when a person
-gives personal property with a wholesome mind, the wholesome
-aggregates present at that moment are called giving.
+“From the wish to honor or benefit others.”
 
-This giving-based meritorious activity has abundant enjoyment as its
-fruit. In `dānamaya` (“made of giving”), the suffix `-maya` indicates
-its nature or constitution, as when one speaks of a house made of grass
-or a vessel made of leaves. The commentary then turns to the different
-purposes served by such giving.
+Through what, then, is something given?
 
-## 4. Action, Object, and Motive
+“Bodily or verbal action together with its activation.”
 
-| Element | Place in the definition |
+What is that activation? It is the cluster of factors by which the action
+is brought into operation. A cited verse says:
+
+“When a person gives a personal resource with a wholesome Mind, the
+wholesome Bases at that moment are called giving.”
+
+“And it has abundant enjoyment as its result.”
+
+This basis of meritorious activity constituted as giving has abundant
+enjoyment as its result. Here `-maya` is understood as denoting nature
+or constitution, as in “a house formed of grass” or “a vessel formed of
+leaves.” The Bhāṣya then begins its next topic: “This giving ...”
+
+## 4. Action, Motive, and Activation
+
+| Factor | Role in the Bhāṣya's definition |
 |---|---|
-| object handed over | conventionally called a gift; distinct from giving as karmic action |
-| bodily or verbal action | the means by which the transfer occurs |
-| `utthāna` | the complex of factors that brings that action about |
-| wish to honor or benefit | restricts the definition to the wholesome giving discussed here |
-| abundant enjoyment | its characteristic worldly fruit |
+| Thing given | May be called a gift in ordinary usage; distinct from giving as action |
+| Wish to honor or benefit | Qualifies the action; excludes transfers produced by passion and other afflictions |
+| Bodily or verbal action | The means through which the thing is given |
+| `Utthāna` | The cluster of factors that brings the action into operation |
+| Wholesome Mind and Bases | The cited verse designates the wholesome Bases present at that moment as giving |
+| Result | Abundant enjoyment |
 
-The restriction matters: the same visible transfer can arise from
-`rāga` and other afflictions. The Bhāṣya does not classify every
-transfer of property as the giving-based meritorious activity at issue.
-Nor does it identify giving with a private wish alone; body or speech
-must serve as the operative means.
+The phrase `dānamayaṃ puṇyakriyāvastu` is explained through constitution
+or nature, not literal material composition. The grass house and leaf vessel
+are the Bhāṣya's analogies for this use of `-maya`.
 
-The cited verse broadens the immediate event to the wholesome
-aggregates present at the moment of giving. This fits the preceding
-analysis of `puṇyakriyāvastu`: one concrete action includes volition,
-manifestation, and accompanying factors.
+## 5. Interpretation
 
-## 5. Organon Contact Point — Project Reconstruction
+The definition is relational and action-based: the thing given is not
+identical with the means by which it is given. Nor does every transfer
+count as the wholesome giving under discussion, since the same thing may
+be given through passion or another affliction. The stated wishes to honor
+or benefit others delimit the action, while bodily or verbal performance
+and its activating cluster make the transfer operative.
 
-For our model of action, the verse invites a distinction between a
-transferred resource and the executable course that transfers it:
+The cited verse calls the wholesome Bases present at the moment of giving
+“giving.” The current unit does not name *cetanā*: it says “wholesome
+Mind” and “wholesome Bases,” and describes a cluster that activates
+action. These should be read alongside, not substituted for, the explicit
+volition-analysis in 4.112.
 
-```text
-wholesome motive + activating factors + bodily or verbal action
-    → giving as a completed practical event
-```
-
-This is an Organon abstraction from the Bhāṣya's definition. Its
-stated fruit, abundant enjoyment, remains a Kośa karmic claim.
+In the project reading, the Bases are the content and frames of the
+giving-event, not Mind itself. The cited verse keeps wholesome Mind
+(`śubha-manas`) distinct from the wholesome Bases (`kuśala-skandha`),
+which name the gathered content/frame of the event rather than a mental
+substance.
 
 ## 6. Review Status
 
-The study covers `[268|09]–[268|20]`, including the grammatical note
-on `dānamaya`. It stops before 4.114's first half at `[268|21]`.
-The running source and first-pass study remain unchanged.
+This study covers `[268|09]–[268|20]`, including the ordinary and
+technical senses of giving, the restrictive motive, bodily or verbal
+action, the activating cluster, the cited verse, and the result. It
+stops at the colon that introduces 4.114 at `[268|20–21]`. The witness
+reading `daddānam` and the cited verse's `tat kṣaṇaṃ` are recorded.

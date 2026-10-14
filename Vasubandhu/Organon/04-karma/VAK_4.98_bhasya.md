@@ -1,4 +1,4 @@
-# VAK 4.98 Bhāṣya — The Divider and the Divided Saṅgha
+# VAK 4.98 Bhāṣya — Saṅgha Division and Its Bearer
 
 ## 1. Kārikā Anchor
 
@@ -7,159 +7,131 @@ saṃghabhedas tv asāmagrīsvabhāvo viprayuktakaḥ /
 akliṣṭāvyākṛto dharmaḥ saṃghas tena samanvitaḥ // 4.98 //
 ```
 
-> The division of the Saṅgha consists in non-concord. It is a mind
-> dissociated, non-afflicted, ethically indeterminate dharma; the Saṅgha
-> is endowed with it.
+### Bhāṣya-informed study translation
 
-The verse follows a question about the intrinsic character of the five
-immediate-result actions. Its central discrimination is between the act
-that produces division and the divided state borne by the community.
+> The division itself must be distinguished from the action that produces
+> it. Strictly considered, Saṅgha division is the condition of non-concord,
+> a conditioned formation dissociated from consciousness and classified as
+> non-afflicted and indeterminate. This resulting condition belongs to the
+> Saṅgha that has been divided, not to the agent who divided it.
 
 ## 2. Continuous Sanskrit
 
 ```iast
-kiṃsvabhāvāny ānantaryāṇi? catvāri kāyakarma, ekaṃ vākkarma; trīṇi
-prāṇātipātaḥ, ekaṃ mṛṣāvādaḥ, ekaṃ prāṇātipātaprayogaḥ.
+kiṃsvabhāvāny ānantaryāṇi?
+catvāri kāyakarma, ekaṃ vākkarma;
+trīṇi prāṇātipātaḥ, ekaṃ mṛṣāvādaḥ, ekaṃ prāṇātipātaprayogaḥ.
 
-anupakramadharmāṇo hi tathāgatāḥ. hetau phalopacārāt saṃghabheda
-ānantaryam uktaṃ, bhidyate vāneneti kṛtvā.
+anupakramadharmāṇo hi tathāgatāḥ.
+hetau phalopacārāt saṃghabheda ānantaryam uktam,
+bhidyate vā 'neneti kṛtvā.
 
 saṃghabhedas tv asāmagrīsvabhāvo viprayuktakaḥ /
 akliṣṭāvyākṛto dharmaḥ
 
-asāmagrī nāma cittaviprayuktaḥ saṃskāro 'nivṛtāvyākṛtaḥ
-saṃghabhedaḥ.
-
-sa kim ānantaryaṃ bhaviṣyati? naiva ca tena bhettā samanvāgataḥ.
+asāmagrī nāma cittaviprayuktaḥ saṃskāro 'nivṛtāvyākṛtaḥ saṃghabhedaḥ.
+sa kim ānantaryaṃ bhaviṣyati?
+naiva ca tena bhettā samanvāgataḥ.
 kiṃ tarhi?
 
 saṃghas tena samanvitaḥ // 4.98 //
+
+yo hi bhinnaḥ tasya bhedo na bhettuḥ.
 ```
 
-The witness reads `asāmagrī nāna` at `[260|19]`; `asāmagrī nāma` is the
-contextually supported repair printed above. It also gives
-`anupakramadharmāṇo`, which is retained rather than replaced by a broader
-claim about the Tathāgata's body. Sandhi and word division elsewhere are
-editorial.
+The complete unit is `[260|13]–[260|22]`. The witness reads
+`asāmagrī nāna` at `[260|19]`; `asāmagrī nāma` is the contextually
+supported repair printed here. Sandhi and word division are editorial.
+The unit includes the five-action classification that leads into the
+verse, but stops before the question at `[260|23]` about what the divider
+is endowed with.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Scientific English Rendering
 
-What is the intrinsic character of the immediate-result actions? Four are
-bodily actions and one is verbal action. Three are acts of killing, one is
-false speech, and one is an attempt at killing. For Tathāgatas are of a
-nature that cannot be fatally injured.
+What is the nature of the actions of *ānantarya*? Four are bodily actions
+and one is a speech-action; three are acts of killing, one is false speech,
+and one is an attempt at killing. For Tathāgatas are not susceptible to
+assault.
 
-“Division of the Saṅgha” is called an immediate-result action by applying
-the name of the result to its cause. Alternatively, it receives that name
-because the Saṅgha is divided *by* the relevant action.
+“Saṅgha division” is called an action of *ānantarya* by applying the name
+of the result to its cause, or because the Saṅgha is divided by means of
+it.
 
-The division itself consists in non-concord. It is a conditioned factor
-dissociated from mind, non-afflicted, and ethically indeterminate. The
-non-concord called Saṅgha division is just such a factor.
+But Saṅgha division has non-concord as its nature; it is a dissociated,
+non-afflicted, indeterminate Dharma. “Non-concord” is a conditioned
+formation dissociated from consciousness, non-afflicted, and indeterminate:
+this is Saṅgha division.
 
-Could that condition itself be the immediate-result action? No: the
-divider is not endowed with it. Rather, the Saṅgha is endowed with the
-division.
+Could that itself be the action of *ānantarya*? No, and the divider is not
+endowed with it. What, then? The Saṅgha is endowed with it. The division
+belongs to the one who is divided, not to the divider.
 
-## 4. The Five Actions by Medium and Course
+## 4. The Five Actions and the Naming of Saṅgha Division
 
-The Bhāṣya classifies the five `ānantarya` actions as follows:
+The Bhāṣya first classifies the five actions by bodily or verbal medium and
+by the type of operation:
 
-| Technical analysis | Number | Cases |
+| Classification | Number | Cases |
 |---|---:|---|
-| completed killing | 3 | mother, father, arhat |
-| false speech | 1 | speech producing Saṅgha division |
-| preparation for killing | 1 | malicious wounding of a Tathāgata |
+| bodily action | 4 | three acts of killing and one attempt at killing |
+| speech-action | 1 | false speech associated with Saṅgha division |
 
-Thus four belong to bodily action and one to verbal action. The fifth is
-classified as an attempt rather than completed killing because the source
-denies that a Tathāgata can be fatally injured by the act in question.
+The commentary says the Tathāgatas are not susceptible to assault; thus the
+fifth case is the attempt at killing rather than a completed killing.
 
-This analysis begins with the **agent's action**. The kārikā then shifts
-to the **state brought about** in the Saṅgha.
+It then explains the phrase “Saṅgha division” in two ways:
 
-## 5. Cause Named by Its Result
+1. **Result-name applied to cause** (*hetau phalopacāra*): the name of the
+   division is applied to the causal action.
+2. **Instrumental explanation**: the Saṅgha is divided by means of that
+   action.
 
-The expression `saṃghabheda`, “division of the Saṅgha,” can name the
-immediate-result action through `hetau phalopacāra`: applying the name of
-the effect to its cause. The prose also offers an instrumental explanation:
-the act is so called because the Saṅgha is divided by it.
+Neither explanation collapses the action into the condition it produces.
 
-```text
-divider's verbal act
-    → produces
-Saṅgha's state of non-concord
-```
+## 5. The Resulting Condition
 
-The same expression can therefore occur in a causal sentence and in a
-sentence about the resulting condition. The Bhāṣya explicitly asks which
-one is the culpable `ānantarya` action.
-
-## 6. The Divided State
-
-The actual division is `asāmagrī`, lack of concord. It is classified as
-a conditioned factor dissociated from mind and mental factors
-(`cittaviprayukta saṃskāra`). It is also `anivṛtāvyākṛta`: ethically
-indeterminate and not obscured by affliction in the technical sense.
-
-This does not declare the divider innocent. It assigns ethical quality to
-the right bearer and causal role:
+The verse defines Saṅgha division as non-concord. The prose classifies this
+non-concord as:
 
 ```text
-culpable cause       → divider's action
-indeterminate effect → community's divided condition
+citta-viprayukta saṃskāra
+anivṛta-avyākṛta
 ```
 
-The collective condition is not reducible to one member's private mental
-episode. The Saṅgha, as an organized community, is what is endowed with
-non-concord.
+That is, a conditioned formation dissociated from consciousness, classified
+as non-afflicted and indeterminate. These predicates characterize the
+resulting division, not the action of the divider.
 
-## 7. Endowment and Bearer
+## 6. The Divider and the Bearer
 
-The last line resolves the apparent contradiction. If the division itself
-were the immediate-result action, the divider would have to be endowed
-with it. The Bhāṣya denies that attribution:
+The Bhāṣya asks whether the resulting division itself is the action of
+*ānantarya* and answers no. It then distinguishes who is endowed with the
+state:
 
 ```text
-EndowedWith(Saṅgha, division) = true
-EndowedWith(divider, division) = false
+divider:
+    not endowed with the resulting division
+
+Saṅgha:
+    endowed with the resulting division
 ```
 
-The next verse asks what the divider *is* endowed with. That question is
-left for 4.99; the present unit establishes the bearer of the divided
-state.
+The closing sentence makes the assignment explicit: the division belongs
+to the one divided, not to the divider. The question about what the divider
+is endowed with belongs to the next unit.
 
-## 8. Organon Contact Point
+## 7. Interpretation
 
-For the Causal Algebra for Agency, a produced state needs a bearer distinct
-from the agent who caused it:
+The Bhāṣya separates three roles that the compressed name “Saṅgha division”
+could obscure: the causal action, the resulting condition of non-concord,
+and the bearer of that condition. The result-name may be applied to the
+cause, but the attribution remains exact: the divider performs the action,
+while the divided Saṅgha is endowed with the resultant condition.
 
-```text
-ActionEvent {
-    agent: divider
-    medium: speech
-    causalRole: producesDivision
-}
+## 8. Review Status
 
-CollectiveState {
-    bearer: Saṅgha
-    determination: nonConcord
-    ethicalQuality: indeterminate
-}
-```
-
-An Agent system must keep attribution of the act, attribution of the
-resulting state, and ethical classification of each apart. The one causal
-transition joins them without making them identical.
-
-This is an Organon reconstruction. The five-action analysis, Sarvāstivāda
-mind dissociated factor, and source's claims about a Tathāgata remain
-Bhāṣya doctrine.
-
-## 9. Review Status
-
-The complete 4.98 unit `[260|13]–[260|21]` is included. It covers the
-five actions by bodily or verbal medium, the causal naming of Saṅgha
-division, the classification of non-concord, and the Saṅgha as bearer.
-It stops before the question about what the divider possesses at `[260|22]`.
-The one conjectural witness repair is recorded.
+The complete 4.98 unit `[260|13]–[260|22]` is included: the classification
+of the five actions, the two explanations of the name “Saṅgha division,”
+the resulting condition's nature, and the Saṅgha as its bearer. The
+conjectural repair `nāma` is marked. The study stops before the question
+about the divider's own endowment at `[260|23]`.

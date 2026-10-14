@@ -1,4 +1,4 @@
-# VAK 4.120 Bhāṣya — When a Performed Action Is Accumulated
+# VAK 4.120 Bhāṣya — Performed and Accumulated Action
 
 ## 1. Kārikā Anchor
 
@@ -7,12 +7,12 @@ saṃcetanasamāptibhyāṃ niṣkaukṛtyavipakṣataḥ /
 parivārād vipākāc ca karmopacitam ucyate // 4.120 //
 ```
 
-> Karma is called accumulated through deliberate intention,
-> completion, absence of remorse and opposition, compatible
-> accompaniment, and determinate maturation.
+> An action is called accumulated through deliberate intention, completion,
+> absence of remorse and counteraction, accompaniment, and determination
+> toward maturation.
 
-The commentary counts **five causes**: absence of remorse and of an
-opposing factor belong together as one condition.
+The Bhāṣya counts five conditions. It treats absence of remorse and absence
+of an opposing factor together as one.
 
 ## 2. Continuous Sanskrit
 
@@ -41,50 +41,69 @@ evaṃ kuśalam api yojyam. ato 'nyathā karma kṛtaṃ bhavati,
 nopacitam.
 ```
 
-The unit is `[271|19]–[272|03]`. The witness has `saṃcenataḥ` in
-the first gloss, normalized to `saṃcetanataḥ`, and the compressed
-`vipākadāna niyataṃ`, rendered above as `vipākadāne niyataṃ`.
-The second gloss is difficult in its examples; its secure distinction
-is between an action merely performed and the relevant course completed.
+The source span is `[271|19]–[272|03]`. The witness reads `saṃcenataḥ`
+in the first explanatory question, normalized here as `saṃcetanataḥ`.
+At `[272|02]` it has the compressed `vipākadāna niyataṃ`, parsed here
+as `vipākadāne niyatam`.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Scientific English Rendering
 
-An action can be described as both done and accumulated. When is it
-accumulated? First, when it was performed after deliberation, neither
-unwittingly nor suddenly. Second, when the relevant course is
-complete; the commentary notes that the number of misdeeds or courses
-involved can vary. Before the required course is complete, the action
-has been done but is not yet accumulated in this sense.
+An action is called both done and accumulated. How does an action become
+accumulated? Through five conditions:
 
-Third, the agent has no remorse and no counteracting factor. Fourth,
-an unwholesome act has an unwholesome accompaniment. Fifth, it is
-fixed with respect to giving a maturation-result. The same analysis
-should be applied to wholesome action. Otherwise, an action may have
-been done without being accumulated.
+“An action is called accumulated through deliberate intention, completion,
+absence of remorse and counteraction, accompaniment, and determination
+toward maturation.”
 
-## 4. Performed and Accumulated
+How through deliberate intention? It is done after consideration, not
+without prior awareness and not suddenly.
 
-The five conditions are not five independent acts. They determine
-whether a deed has acquired the status `upacita`:
+How through completion? Some reach a lower destination through one
+misconduct, some through as many as three; some through one action-course,
+some through as many as ten. For each person, until the number through
+which that person proceeds is complete, the action has been done but is
+not accumulated; once complete, it is accumulated.
 
-```text
-deliberate + completed + unopposed + congruently accompanied
-    + fixed in maturation → accumulated
-```
+How through absence of remorse and counteraction? The action is without
+remorse and without an opposing factor.
 
-The source's contrast `kṛtaṃ ... nopacitam` is decisive: occurrence
-alone does not entail full accumulation. Nor does the passage say that
-an act not accumulated is causally nothing. Its claim is about this
-technical classification.
+How through accompaniment? The unwholesome action is accompanied by
+unwholesome factors. How through maturation? It is determinate in giving
+maturation. Wholesome action is to be analyzed in the same way. Otherwise,
+an action has been done but is not accumulated.
 
-## 5. Organon Contact Point — Project Reconstruction
+## 4. Five Conditions
 
-An agent model can keep action occurrence distinct from a later or
-stronger state of commitment to its result. The Bhāṣya supplies the
-five determinations; treating them as state transitions in a program
-would be our reconstruction.
+| Condition | Bhāṣya's explanation |
+|---|---|
+| Deliberate intention | Done after consideration, not unknowingly or suddenly |
+| Completion | The required misconduct or action-course has been completed |
+| Absence of remorse and counteraction | The action is without remorse and without an opposing factor |
+| Accompaniment | Unwholesome action has unwholesome accompaniment; wholesome action is treated correspondingly |
+| Determinate maturation | The action is fixed in its giving of maturation |
+
+The completion examples describe differing thresholds: one or more
+misconducts, or one or more action-courses, according to the case. The
+text's point is that prior to the relevant completion the action is done
+but not accumulated.
+
+## 5. Interpretation
+
+The Bhāṣya distinguishes occurrence from accumulation without positing a
+stored karmic substance. Its five conditions describe when an action is
+deliberate, complete, unopposed by remorse or a counteractive factor,
+accompanied by factors of its own ethical kind, and fixed toward maturation.
+The case-dependent completion threshold prevents the definition from
+being reduced to one universal count of deeds.
+
+Keep this question distinct from 4.119's analysis of action-weight. There,
+`cetanā` completes the action-course; here, `saṃcetanā` marks action done
+after consideration. The terms are related, but their local functions
+should not be collapsed. Deliberate volition is one condition for
+accumulation, not a substitute for the other four.
 
 ## 6. Review Status
 
-The study covers `[271|19]–[272|03]` and stops before the shrine
-offering problem that opens 4.121 at `[272|04]`.
+This study covers `[271|19]–[272|03]` and stops before the shrine-offering
+discussion at `[272|04]`. The readings `saṃcenataḥ` and
+`vipākadāna niyataṃ` are recorded with their editorial normalization.

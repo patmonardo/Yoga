@@ -1,4 +1,4 @@
-# VAK_4.114 — Four Benefits and Three Determinants of Giving
+# VAK 4.114 — Benefit and the Distinction of Giving
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -9,10 +9,14 @@
 
 ## 2. Sanskrit (IAST)
 
-```text
+```iast
 svaparārthobhayārthāya nobhayārthāya dīyate /
 tadviśeṣaḥ punar dātṛvastukṣetraviśeṣataḥ // 4.114 //
 ```
+
+The first half classifies giving by whose benefit it serves. The second
+names three further determinants of its distinction: the giver, the thing
+given, and the recipient field.
 
 ## 3. Lexical Analysis
 
@@ -22,339 +26,181 @@ dīyate | tat-viśeṣaḥ | punaḥ | dātṛ-viśeṣataḥ |
 vastu-viśeṣataḥ | kṣetra-viśeṣataḥ
 ```
 
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
-| `sva-arthāya` | dative masculine singular | for the donor's benefit |
-| `para-arthāya` | dative masculine singular | for another's benefit |
-| `ubhaya-arthāya` | dative masculine singular | for the benefit of both |
-| `na-ubhaya-arthāya` | dative masculine singular with negation | for the ordinary benefit of neither |
-| `dīyate` | third-person singular present passive of `√dā` | something is given |
-| `tat-viśeṣaḥ` | nominative masculine singular | the distinction or excellence of that giving |
-| `punaḥ` | adverbial particle | further, again, in turn |
+| `sva-arthāya` | dative singular compound | for one's own benefit |
+| `para-arthāya` | dative singular compound | for another's benefit |
+| `ubhaya-arthāya` | dative singular compound | for the benefit of both |
+| `na-ubhaya-arthāya` | dative singular compound with negation | for the benefit of neither |
+| `dīyate` | third-person singular present passive of `√dā` | is given |
+| `tat-viśeṣaḥ` | nominative masculine singular compound | the further distinction of that giving |
+| `punaḥ` | indeclinable adverb | further, in turn |
 | `dātṛ-viśeṣataḥ` | ablatival adverb | owing to the distinction of the giver |
-| `vastu-viśeṣataḥ` | ablatival adverb | owing to the distinction of the gift-object |
-| `kṣetra-viśeṣataḥ` | ablatival adverb | owing to the distinction of the recipient-field |
+| `vastu-viśeṣataḥ` | ablatival adverb | owing to the distinction of the thing given |
+| `kṣetra-viśeṣataḥ` | ablatival adverb | owing to the distinction of the recipient field |
 
-**Four benefit-scopes**
-
-```text
-sva-arthāya
-para-arthāya
-ubhaya-arthāya
-na-ubhaya-arthāya
-    dīyate
-```
-
-**Three determinants of excellence**
-
-```text
-dātṛ-viśeṣa
-vastu-viśeṣa
-kṣetra-viśeṣa
-    → dāna-viśeṣa
-```
-
-The Bhāṣya treats benefit-scope and excellence as two distinct analyses of
-the same giving-event.
+The Bhāṣya explains the four benefit-relations through actual help to
+recipients and the giver's capacity for future maturation, not simply
+through the giver's declared intention.
 
 ## 4. Grammar
 
-**Four dative classifications**
+The first half coordinates four purpose datives:
 
 ```text
-[dravyaṃ]
+[dravyaṃ] dīyate
     svārthāya vā
     parārthāya vā
     ubhayārthāya vā
     nobhayārthāya vā
-    dīyate
 ```
 
-> Something is given for the benefit of oneself, another, both, or neither.
+> Something is given for one's own benefit, another's benefit, both, or
+> neither.
 
-The four datives state the benefit under which the act is classified. The
-Bhāṣya shows that this is not reducible to the donor's intended beneficiary;
-it depends on actual recipient benefit and the donor's continuing capacity
-for karmic maturation.
-
-**Further differentiation of the giving**
+The second half gives the grounds of further distinction:
 
 ```text
 tasya [dānasya] viśeṣaḥ
     dātṛ-viśeṣataḥ
     vastu-viśeṣataḥ
-    kṣetra-viśeṣataḥ [bhavati]
+    kṣetra-viśeṣataḥ
 ```
 
-> The distinction of that giving arises from the distinction of the giver,
-> object, and field.
+> The distinction of that giving depends on the distinction of the giver,
+> the thing given, and the recipient field.
 
-The repeated `viśeṣataḥ` is compressed into the coordinated compound. These
-three determinants rank the excellence and fruit of giving independently of
-the preceding fourfold benefit classification.
+These are two analyses of one giving-event: its benefit-relations and its
+further distinction.
 
 ## 5. Translation
 
-### Literal Translation
+### Scientific English Rendering
 
-> Giving is performed for one's own benefit, for another's benefit, for the
-> benefit of both, or for the benefit of neither. Its distinction, moreover,
-> arises from the distinction of the giver, gift-object, and recipient-field.
+> Giving is for one's own benefit, another's benefit, both, or neither.
+> Its further distinction depends on the distinction of the giver, the
+> thing given, and the recipient field.
 
 ### Bhāṣya-informed study translation
 
-> Giving benefits the donor alone when one still capable of future karmic
-> maturation offers to a stūpa, which receives no material benefit. It benefits
-> another alone when a dispassionate noble gives to living beings but has
-> passed beyond the future domain in which that gift could mature personally.
-> It benefits both when living recipients receive assistance and the donor
-> remains capable of the giving's future result. It provides the ordinary
-> benefit of neither when a dispassionate noble offers to a stūpa solely from
-> reverence and gratitude; nevertheless the act remains wholesome. Beyond
-> this benefit-scope, the giving's excellence varies with the qualities of the
-> giver, the object given, and the recipient-field.
+> Giving is for one's own benefit, another's benefit, both, or neither.
+> Its further distinction depends on the distinction of the giver, the
+> thing given, and the recipient field. A gift to a caitya benefits the
+> donor alone when the donor can still receive future maturation, because
+> the caitya receives no assistance. A dispassionate noble who gives to
+> living beings benefits them, but—setting aside a result experienced in
+> this life—does not receive future maturation because that maturation
+> ground has been passed beyond. Giving to living beings benefits both
+> when the donor can still receive future maturation. A dispassionate
+> noble's gift to a caitya, setting aside a present-life result, benefits
+> neither in these two senses; the Bhāṣya says it is given from reverence
+> and gratitude.
 
-The four paradigms, present-life-result exceptions, role of spiritual status,
-reverence-and-gratitude case, and initial account of giver-excellence are
-supplied by the Bhāṣya.
+The four cases and the present-life-result qualifications are supplied by
+the Bhāṣya. “Neither” does not mean that the final gift is unwholesome or
+without a positive ground.
 
 ## 6. Philosophical Translation
 
-> Wholesome value, actual benefit, and future maturation are distinct
-> determinations. A gift can materially assist a recipient without generating
-> future rebirth-result for a liberated donor; it can generate result for a
-> donor without assisting a non-living field; and it can remain ethically
-> complete through reverence and gratitude even where neither ordinary benefit
-> occurs. The act's excellence is then determined through the concrete unity
-> of agent, mediating object, and field.
-
-The rational matrices are:
-
-```text
-benefit-scope
-    = recipient benefit
-    × donor maturation-possibility
-
-giving-excellence
-    = giver-quality
-    × gift-object-quality
-    × recipient-field-quality
-```
-
-These two matrices answer different questions and must not be collapsed.
+> A giving-event can be evaluated by two distinct relations: who actually
+> benefits, and what makes the gift distinct in its causal significance.
+> Assistance to a recipient and future maturation for the giver can separate:
+> one may occur without the other, or neither may occur in the ordinary
+> sense while reverence and gratitude still ground the act. The giver, the
+> thing given, and the recipient field further determine the gift's
+> particularity.
 
 ## 7. Technical Vocabulary
 
-**`Svārtha` — donor benefit alone**
-
-In the Bhāṣya's paradigm, an ordinary person or a noble not yet free from
-passion gives to a stūpa. The stūpa receives no material assistance, while the
-donor remains within a domain where the giving can mature as future benefit.
-
-**`Parārtha` — recipient benefit alone**
-
-A dispassionate noble gives to living beings. They are materially benefited,
-but—apart from a present-life result—the donor has passed entirely beyond the
-rebirth-domain in which the gift-karma would mature.
-
-**`Ubhayārtha` — benefit to both**
-
-A donor still capable of future maturation gives to living beings. The
-recipient receives actual assistance and the donor's continuum receives the
-future karmic fruit.
-
-**`Nobhayārtha` — ordinary benefit to neither**
-
-A dispassionate noble offers to a stūpa. Neither material recipient-benefit nor
-future donor-maturation occurs, yet the act remains wholesome because it is
-grounded solely in reverence and gratitude. “Neither” is not a defective or
-failed gift.
-
-**`Gaurava` — reverence**
-
-Respectful regard determining the stūpa-offering when no future benefit is
-sought or produced for the donor.
-
-**`Kṛtajñatā` — gratitude**
-
-Recognition of benefit received. Together with reverence it supplies a
-positive practical ground independent of ordinary material gain and future
-karmic acquisition.
-
-**`Dṛṣṭadharmavedanīya` — experienced in this very life**
-
-The Bhāṣya's exception when it says a dispassionate noble receives no future
-maturation-result from giving. A result realized in the present life does not
-require entry into a rebirth-domain already transcended.
-
-**`Dātṛ-viśeṣa` — excellence of the giver**
-
-The first of three intensity determinants. The Bhāṣya begins its explanation
-with a giver endowed with faith, discipline, learning, and related qualities;
-the gift's fruit is correspondingly distinguished.
-
-**`Vastu-viśeṣa` — excellence of the gift-object**
-
-The second determinant named by the verse. Its detailed analysis continues
-beyond this Bhāṣya unit and is therefore not anticipated here.
-
-**`Kṣetra-viśeṣa` — excellence of the recipient-field**
-
-The third determinant. The field is not a passive endpoint but a relational
-condition of the giving's karmic magnitude; its detailed differentiation is
-reserved for the succeeding analysis.
+- **`Svārtha`** — benefit to the giver. In the Bhāṣya's first case, the
+  donor can still receive future maturation from a gift to a caitya.
+- **`Parārtha`** — benefit to another. The dispassionate noble assists
+  living beings but has passed beyond the relevant future maturation ground.
+- **`Ubhayārtha`** — benefit to both donor and recipients.
+- **`Nobhayārtha`** — benefit to neither in the two relations being
+  classified. The Bhāṣya's example remains grounded in reverence and
+  gratitude.
+- **`Dṛṣṭadharmavedanīya`** — a result to be experienced in this life;
+  the Bhāṣya sets it aside in two cases concerning a dispassionate noble.
+- **`Vipākabhūmi`** — maturation ground. Its being passed beyond explains
+  why a donor does not receive future maturation in the stated cases.
+- **`Caitya`** — a shrine or stūpa, contrasted here with living recipients
+  who can be materially assisted.
+- **`Gaurava` and `kṛtajñatā`** — reverence and gratitude, the positive
+  grounds named for the final case. The witness wording is difficult.
+- **`Dātṛ-viśeṣa`** — distinction of the giver.
+- **`Vastu-viśeṣa`** — distinction of the thing given; `vastu` is rendered
+  here as the thing, not as the project's technical **Object**.
+- **`Kṣetra-viśeṣa`** — distinction of the recipient field.
 
 ## 8. Logical Determination
 
-Let:
-
 ```text
-D = donor
-R = recipient
-RB = material or practical recipient benefit
-FM = future maturation for the donor
-PV = present-life result
-W = wholesome value
+Benefit to recipients | Future maturation for donor | Classification
+----------------------|-----------------------------|---------------
+no                    | yes                         | giver alone
+yes                   | no                          | others alone
+yes                   | yes                         | both
+no                    | no                          | neither, in these senses
 ```
 
-Then the fourfold matrix is:
+The last row does not entail absence of wholesome value:
 
 ```text
-RB = false, FM = true
-    → SelfBenefitOnly
-
-RB = true, FM = false
-    → OtherBenefitOnly
-
-RB = true, FM = true
-    → BenefitToBoth
-
-RB = false, FM = false
-    → OrdinaryBenefitToNeither
+no recipient assistance
++ no future donor maturation
++ reverence and gratitude
+→ a positively grounded giving
 ```
 
-But:
+Further distinction is a separate analysis:
 
 ```text
-RB = false ∧ FM = false
-    does not entail
-W = false
+giver + thing given + recipient field
+    → distinction of the giving
 ```
-
-For the stūpa-offering by a dispassionate noble:
-
-```text
-GroundedIn(D, ReverenceAndGratitude)
-RB = false
-FM = false
-W = true
-```
-
-**Spiritual status changes result-space**
-
-```text
-DispassionateNoble(D)
-Transcended(D, FutureMaturationDomain)
-    → not Possible(FM)
-```
-
-This changes the benefit classification without changing the external form
-of transfer.
-
-**Excellence function**
-
-```text
-GivingExcellence(E)
-    = f(GiverQuality(D), GiftQuality(O), FieldQuality(R))
-```
-
-Benefit-scope is not an argument of this function in the verse's second
-classification unless mediated through one of those concrete determinants.
 
 ## 9. Interpretive Note
 
-VAK 4.113 showed giving as recipient-oriented purpose becoming objective
-through activation and transfer. VAK 4.114 now demonstrates that the resulting
-event cannot be evaluated along one axis. Material assistance, conditioned
-karmic fruit, wholesome practical value, and excellence are related but
-non-identical determinations.
+The four categories concern relations within the giving-event, not an
+undivided Mind. Read with 4.113, the project treats the Skandhas/Bases as
+gathered **content and frames** of the event, not Mind itself. Here the
+Bhāṣya distinguishes the giver, the thing given, and the recipient field;
+these are differentiated roles and frames through which actual benefit
+and maturation are assessed, not synonyms for Mind or for one another.
 
-The “neither” case is the philosophical center. The dispassionate noble has
-passed beyond the Bhūmi in which a future enjoyment-result could mature, and
-the stūpa does not consume material support as a living recipient would.
-Nevertheless, reverence and gratitude remain sufficient to determine a
-wholesome act:
-
-```text
-no recipient gain
-no future personal gain
-    + reverence and gratitude
-    → wholesome Kriyā
-```
-
-This is a precise form of action without conditioned appropriation. The deed
-is not performed to enlarge the agent's future field, yet it does not become
-empty or irrational. Its Principle is acknowledgment of a relation whose
-truth is expressed practically.
-
-For the Sannyāsa non-arising Path, this is crucial. Transcending the field of
-future maturation does not abolish Kriyā; it changes the relation under which
-Kriyā is performed. Action can remain valid after acquisition of future fruit
-has ceased to be its possible or determining end.
-
-The second half supplies the full practical syllogism:
-
-```text
-giver
-    → determines the subjective and ethical capacity
-
-gift-object
-    → mediates relinquishment
-
-recipient-field
-    → completes the direction and magnitude of the act
-```
-
-Samyama as Schema Inference must traverse all three terms and also keep the
-evaluation axes distinct. Otherwise “beneficial,” “meritorious,” “fruitful,”
-and “excellent” collapse into one vague predicate and the systematic meaning
-of giving disappears.
+“Neither” is the revealing edge-case. The dispassionate noble's offering
+to a caitya does not assist a living recipient or produce future maturation
+for the donor, apart from the stated present-life exception. Yet reverence
+and gratitude remain a positive ground. The second half then shifts from
+benefit to the giver, thing, and field that distinguish the giving. The
+source unit is `[268|21]–[269|06]`, with `tat khalv etad dānam` at
+`[268|20]` as a lead-in; the next analysis begins at `[269|07]`.
 
 ## 10. OWL++ Seed
 
-```ttl
-vak:VAK_4_114 a vak:Karika ;
-    rdfs:label "VAK 4.114" ;
-    vak:continues vak:VAK_4_113 ;
-    vak:hasTopic vak:GivingBenefitScope,
-                 vak:GivingExcellence,
-                 vak:ActionWithoutFutureAppropriation .
+```text
+Class: GivingEvent
+Class: DonorBenefit
+Class: RecipientBenefit
+Class: FutureMaturation
+Class: PresentLifeResult
+Class: Reverence
+Class: Gratitude
+Class: Giver
+Class: ThingGiven
+Class: RecipientField
 
-vak:GivingBenefitScope owl:oneOf (
-    vak:SelfBenefitOnly
-    vak:OtherBenefitOnly
-    vak:BenefitToBoth
-    vak:OrdinaryBenefitToNeither
-) .
+Rule: BenefitClassification
+  donorBenefit = FutureMaturation
+  recipientBenefit = ActualAssistance
+  cases = DonorOnly + RecipientOnly + Both + Neither
 
-vak:OrdinaryBenefitToNeither
-    vak:compatibleWith vak:WholesomeValue ;
-    vak:exemplifiedBy vak:DispassionateNobleStupaOffering .
+Constraint: NeitherBenefit != Unwholesome
 
-vak:DispassionateNobleStupaOffering
-    vak:groundedIn vak:Reverence,
-                   vak:Gratitude ;
-    vak:hasRecipientMaterialBenefit false ;
-    vak:hasFutureDonorMaturation false ;
-    vak:hasWholesomeValue true .
+Rule: GivingDistinction
+  dependsOn = Giver + ThingGiven + RecipientField
 
-vak:GivingExcellence
-    vak:determinedBy vak:GiverExcellence,
-                     vak:GiftObjectExcellence,
-                     vak:RecipientFieldExcellence .
-
-vak:GiverExcellence
-    vak:groundedIn vak:Faith,
-                   vak:Discipline,
-                   vak:Learning .
+Attribution: PresentLifeResult
+  status = ExcludedInSpecifiedCases
 ```

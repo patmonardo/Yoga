@@ -1,4 +1,4 @@
-# VAK 4.126 Bhāṣya — Skilled Activities as Body, Speech, and Mind
+# VAK 4.126 Bhāṣya — Worldly Skills as Three Modes of Action
 
 ## 1. Kārikā Anchor
 
@@ -7,12 +7,12 @@ yogapravartitaṃ karma sasamutthāpakaṃ tridhā /
 lipimudre sagaṇanaṃ kāvyaṃ saṃkhyā yathākramam // 4.126 //
 ```
 
-> Skill-governed activity, together with what activates it, is
-> threefold: writing and sealing are bodily, calculation and poetry
-> verbal, and enumeration mental, respectively.
+> Action set in motion by a specific method, together with what gives rise
+> to it, is threefold: writing and sealing; calculation and poetry; and
+> reckoning, in the corresponding order.
 
-Here `yoga` is glossed as a **particular means or method**. The
-Bhāṣya does not invoke liberative Yoga in this classification.
+The Bhāṣya identifies the three modes as bodily, verbal, and mental
+action.
 
 ## 2. Continuous Sanskrit
 
@@ -26,52 +26,68 @@ lipimudre sagaṇanaṃ kāvyaṃ saṃkhyā yathākramam // 4.126 //
 yogapravartitam ity upāyaviśeṣapravartitam.
 tridhā karmeti kāyavāṅmanaskarma.
 tatra lipimudre tāvad yogapravartitaṃ kāyakarma samutthāpanam.
-gaṇanā kāvyaṃ ca vākkarma. ity etāni pañcaskandhasvabhāvāni.
+gaṇanā kāvyaṃ ca vākkarma.
+ity etāni pañcaskandhasvabhāvāni.
 saṃkhyā manaskarma, yan manasā saṃkalanaṃ dharmāṇām.
 ```
 
-The unit is `[275|01]–[275|06]`. The kārikā's compound
+The source span is `[275|01]–[275|06]`. The kārikā's
 `sasamutthāpakaṃ` and the prose's `samutthāpanam` are retained as
-printed. The passage distinguishes `gaṇanā`, treated as verbal
-calculation, from `saṃkhyā`, mental enumeration or reckoning.
+transmitted. The Bhāṣya resolves the otherwise compressed sequence of
+activities by assigning each group to a mode of action.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Scientific English Rendering
 
-What is the nature of the worldly activities called writing, sealing,
-calculation, poetry, and enumeration? They are actions set in motion
-by a specific method, together with their activating conditions.
-There are three kinds of action: bodily, verbal, and mental.
+“What is the nature of the worldly practices called writing, sealing,
+calculation, poetry, and reckoning?
 
-Writing and sealing are bodily actions. Calculation and poetry are
-verbal actions. These activities have the nature of the five
-aggregates in the commentary's account. Enumeration is mental action:
-the mind's reckoning of dharmas.
+‘Action set in motion by a specific method, together with what gives rise
+to it, is threefold: writing and sealing; calculation and poetry; and
+reckoning, in the corresponding order.’
 
-## 4. Why the Two Numbering Terms Differ
+‘Set in motion by a method’ means set in motion by a specific means.
+‘Threefold action’ means bodily, verbal, and mental action.
 
-| Activity | Assigned medium |
-|---|---|
-| `lipi` — writing; `mudrā` — sealing | body |
-| `gaṇanā` — calculation | speech |
-| `kāvya` — poetry | speech |
-| `saṃkhyā` — enumeration or reckoning of dharmas | mind |
+Writing and sealing, in particular, are bodily action set in motion by a
+specific method; the Bhāṣya describes this as their `samutthāpanam`
+(bringing-forth). Calculation and poetry are verbal action. These [first
+four] are of the nature of the five Bases.
+`Saṃkhyā` is mental action: the mental collecting or reckoning of Dharmas.”
 
-The difference between `gaṇanā` and `saṃkhyā` is supplied by the
-Bhāṣya's explicit assignments, not by treating the two as simple
-synonyms for mathematics. The classification describes the action
-in its relevant medium; it does not deny that a skilled practice can
-also enlist other capacities.
+## 4. Interpretation
 
-## 5. Organon Contact Point — Project Reconstruction
+The question asks for the `svabhāva`—the operative nature—of familiar
+worldly skills. The answer does more than name or define five activities:
+it locates their action in a threefold system. The local gloss fixes
+`yogapravartita` as method-specific activation, not as contemplative Yoga.
+The named practices are then differentiated by how the action is enacted:
+through body, speech, or mind.
 
-The passage is useful for the Organon because it distinguishes a
-method-governed practice from its medium of execution. Writing,
-speaking calculations, and mentally reckoning dharmas can belong to
-one broader learned practice while being different karmic action
-types. That design inference remains separate from the source's
-fivefold list.
+The placement of `gaṇanā` and `saṃkhyā` is especially instructive.
+Although both concern counting or number, the Bhāṣya assigns calculation
+to verbal action and defines `saṃkhyā` as mental collection of Dharmas.
+The operative relation—not a dictionary synonym or shared topic—determines
+their classification.
 
-## 6. Review Status
+The Bhāṣya characterizes the first four activities as having the nature
+of the five Bases, then names `saṃkhyā` as mental action. In the Organon
+reading, these statements are compatible: Base names the structured
+content-and-frame determination of activity, not Mind itself; mental
+reckoning is the operation that collects Dharmas.
 
-The study covers `[275|01]–[275|06]` and stops before the final
-classification of dharmas at `[275|07]`.
+This unit also advances the chapter's systematic movement. The preceding
+verse distinguished wholesome actions by their developmental direction;
+this verse distinguishes worldly actions by their operative mode. Ends
+and modes answer different questions and must not be collapsed.
+
+## 5. Textual and Scope Notes
+
+The verse's `saṃkhyā` is kept distinct from the Bhāṣya's preceding
+`gaṇanā`: the latter is assigned with poetry to verbal action, while the
+former is explicitly defined as mental collection of Dharmas. The
+demonstrative `etāni` follows the four activities already assigned to
+body and speech; the translation therefore identifies the first four as
+having the nature of the five Bases.
+
+The study covers `[275|01]–[275|06]` and stops before the classification
+of Dharmas that begins at `[275|07]`.

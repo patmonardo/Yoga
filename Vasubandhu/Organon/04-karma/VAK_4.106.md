@@ -1,4 +1,4 @@
-# VAK_4.106 — Analogues of the Immediate-Result Offenses
+# VAK 4.106 — Actions Analogous to Immediate-Result Actions
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -9,15 +9,15 @@
 
 ## 2. Sanskrit (IAST)
 
-```text
+```iast
 dūṣaṇaṃ mātur arhantyā niyatisthasya māraṇam /
 bodhisattvasya śaikṣasya saṃghāyadvārahārikā // 4.106 //
 ```
 
-The final expression is highly compressed. The Bhāṣya resolves it as taking
-away the access or means by which the Saṅgha obtains comfort and support. The
-kārikā also leaves the fivefold list incomplete; its fifth member appears in
-VAK 4.107.
+The verse lists four acts. Its final compound is compressed; the Bhāṣya
+paraphrases it as taking away something through which the Saṅgha obtains
+comfort. The commentary supplies the fifth member from the opening half of
+4.107.
 
 ## 3. Lexical Analysis
 
@@ -26,322 +26,158 @@ dūṣaṇam | mātuḥ | arhantyāḥ | niyati-sthasya | māraṇam |
 bodhisattvasya | śaikṣasya | saṃghāya | dvāra-hārikā
 ```
 
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
-| `dūṣaṇam` | nominative/accusative neuter singular action noun | violation, specified by the Bhāṣya as sexual violation |
+| `dūṣaṇam` | nominative neuter singular action noun | violation; the Bhāṣya specifies sexual misconduct |
 | `mātuḥ` | genitive feminine singular | of one's mother |
-| `arhantyāḥ` | genitive feminine singular | who is an arhat |
-| `niyati-sthasya` | genitive masculine singular | established in certainty |
-| `māraṇam` | nominative/accusative neuter singular action noun | killing |
+| `arhantyāḥ` | genitive feminine singular | who is an arhat; qualifies the mother |
+| `niyati-sthasya` | genitive masculine singular compound | established in certainty |
+| `māraṇam` | nominative neuter singular action noun | killing |
 | `bodhisattvasya` | genitive masculine singular | of a bodhisattva |
-| `śaikṣasya` | genitive masculine singular | of a noble trainee |
+| `śaikṣasya` | genitive masculine singular | of a trainee |
 | `saṃghāya` | dative masculine singular | for or with respect to the Saṅgha |
-| `dvāra-hārikā` | compact agent/action expression | taking away its access or means of support |
+| `dvāra-hārikā` | nominative feminine singular compound | taking away an access or means; its precise force is clarified by the Bhāṣya's prose |
 
-**Bhāṣya-resolved list in this verse**
-
-```text
-1. arhant-mātuḥ dūṣaṇam
-    sexual violation of one's mother when she is an arhat
-
-2. niyati-sthasya bodhisattvasya māraṇam
-    killing a bodhisattva established in certainty
-
-3. śaikṣasya [māraṇam]
-    killing a noble trainee
-
-4. saṃghasya sukhāya dvārikaṃ haraṇam
-    taking away the Saṅgha's access to comfort or support
-```
-
-The Bhāṣya identifies these as the first four of five `ānantarya-sabhāga`
-acts. That class-name is commentary, not explicit wording of this kārikā.
+The genitives specify the persons involved in the first three acts. The final
+expression is difficult to parse in isolation; the Bhāṣya's paraphrase guides
+the translation without resolving every detail of the compound.
 
 ## 4. Grammar
 
-**Combined benefactor and quality-field**
+The first two action nouns are specified by genitives:
 
 ```text
 mātuḥ arhantyāḥ
     dūṣaṇam
-```
 
-> Sexual violation of one's mother when she is an arhat.
-
-Both genitives determine one woman under two relations: mother and arhat. The
-Bhāṣya specifies `dūṣaṇa` through `abrahmacaryakaraṇa`, making the violation
-sexual rather than a generic dishonoring.
-
-**Assured bodhisattva field**
-
-```text
 niyati-sthasya bodhisattvasya
     māraṇam
 ```
 
-> Killing a bodhisattva established in certainty.
-
-The nested genitives determine the object of `māraṇam`. The bodhisattva's
-assured trajectory toward Buddhahood belongs to the field attacked by the
-act.
-
-**Developing noble Path-field**
+The Bhāṣya supplies the sexual sense of `dūṣaṇam` and carries `māraṇam`
+forward elliptically for the trainee:
 
 ```text
-śaikṣasya
-    [māraṇam]
+śaikṣasya [māraṇam]
 ```
 
-> Killing a noble trainee.
-
-The action noun is carried forward by ellipsis. A `śaikṣa` has entered the
-noble Path but has not completed the training.
-
-**Removal of communal access**
-
-```text
-saṃghāya
-    dvāra-hārikā
-```
-
-> Taking away the Saṅgha's access [to comfort or support].
-
-The surface construction is compact and philologically less transparent than
-the preceding items. The prose paraphrase `saṃghasya sukhāya dvārikaṃ harati`
-governs the study translation.
+The final compound is not expanded into a confident word-for-word
+construction. Its sense is read with the prose `saṃghasya sukhāya dvārikaṃ
+harati`, which describes taking away an access or means associated with the
+Saṅgha's comfort.
 
 ## 5. Translation
 
-### Literal Translation
+### Scientific English Rendering
 
 > Violation of one's mother when she is an arhat; killing a bodhisattva
-> established in certainty; [killing] a noble trainee; and taking away the
-> Saṅgha's access [to support]—
-
-The sentence and fivefold list continue into VAK 4.107.
+> established in certainty; killing a trainee; and taking away an access
+> or means associated with the Saṅgha's comfort.
 
 ### Bhāṣya-informed study translation
 
-> Acts analogous to the immediate-result karmas include sexually violating
-> one's mother when she is also an arhat, killing a bodhisattva established in
-> certainty, killing a noble trainee, and depriving the Saṅgha of the access
-> or means through which it obtains comfort and material support. Together
-> with destruction of a stūpa, named next, these form five analogues
-> corresponding in order to the five immediate-result karmas. They necessarily
-> lead to hell rebirth according to the primary account, although reported
-> teachers deny that this result must occur immediately in the next existence.
+> Violation of one's mother when she is an arhat; killing a bodhisattva
+> established in certainty; killing a trainee; and taking away an access
+> or means associated with the Saṅgha's comfort. The Bhāṣya identifies
+> these as the first four actions analogous to the five immediate-result
+> actions; destruction of a stūpa, stated in 4.107, is the fifth. It says
+> that these analogues necessarily lead to a hell rebirth, while reporting
+> another view that the rebirth need not immediately follow.
 
-The analogue-class, the sexual sense of `dūṣaṇa`, the precise support-removal
-case, the fifth member, the ordered correspondence, and the dispute about
-immediacy are all supplied by the Bhāṣya.
+The analogy, the first act's sexual sense, the fifth member, and the
+qualification about timing are supplied by the Bhāṣya, not all stated in
+this kārikā.
 
 ## 6. Philosophical Translation
 
-> Technical identity and structural affinity must be distinguished. An act
-> may fall outside the canonical species of immediate-result karma while
-> reproducing its decisive practical structure: negation of a constitutive
-> benefactor, destruction of an assured or developing Path-field, or removal
-> of the material condition through which the spiritual community operates.
-> Shared gravity belongs to this higher-order form, not to superficial
-> resemblance.
-
-The rational structure is:
-
-```text
-strict immediate-result karma
-    = exact doctrinal species
-
-immediate-result analogue
-    = distinct species
-    + shared decisive structure of exceptional negation
-```
-
-Therefore:
-
-```text
-structural affinity
-    ≠ numerical or technical identity
-```
+> A course of action may resemble an established karmic class without
+> becoming numerically identical to it. Here the Bhāṣya groups five grave
+> acts by ordered analogy with the five immediate-result actions, yet
+> preserves a distinction over whether their result must immediately follow.
+> Similarity of structure does not erase difference of class or timing.
 
 ## 7. Technical Vocabulary
 
-**`Ānantarya-sabhāga` — analogue of an immediate-result karma**
-
-A distinct karmic class sharing the decisive structure and grave consequence
-of an immediate-result karma without becoming one of the canonical five.
-`Sabhāga` indicates participation in a common form or character, not mere
-verbal similarity.
-
-**Certainty and immediacy of result**
-
-The main Bhāṣya account says these analogues necessarily lead to hell rebirth.
-A reported view distinguishes them from strict `ānantarya`: the destination
-is certain, but its maturation need not occur immediately in the next life.
-
-**`Dūṣaṇa` — sexual violation**
-
-The Bhāṣya's `abrahmacaryakaraṇa` removes the ambiguity of the kārikā term.
-The first analogue attacks a single field combining the benefactor relation
-of mother with the realized quality-field of an arhat.
-
-**`Niyati-stha bodhisattva` — bodhisattva established in certainty**
-
-A bodhisattva whose trajectory toward Buddhahood has become assured. The
-field is determined not only by present qualities but by a fixed practical
-future belonging to its present status.
-
-**`Śaikṣa` — noble trainee**
-
-One who has entered the noble Path and remains in training. Killing a
-`śaikṣa` destroys the Path in active development rather than its completed
-fruit.
-
-**`Saṃghasya sukhāya dvārikā` — the Saṅgha's access to comfort or support**
-
-The material or practical means through which communal life is sustained.
-Removing it attacks the operability of the spiritual Object by withdrawing a
-condition of its activity.
-
-**Fifth analogue held for VAK 4.107**
-
-The Bhāṣya identifies destruction of a stūpa as the fifth member, but the
-kārikā's own enumeration does not state it until the next verse. It is
-registered here only to explain why the present list is syntactically open.
+- **`Ānantarya`** — the immediate-result actions to which this passage
+  compares a separate set of five.
+- **`Ānantarya-sabhāga`** — sharing a character or analogy with the
+  immediate-result actions; the Bhāṣya treats these as a distinct set, not
+  as additional members of the original five.
+- **`Dūṣaṇa`** — violation; here the Bhāṣya specifies sexual misconduct
+  through `abrahmacarya-karaṇa`.
+- **`Niyati-stha bodhisattva`** — a bodhisattva established in certainty.
+  The verse names this Path-related status but does not explain its stages.
+- **`Śaikṣa`** — one who is still in training. The passage locates the
+  person within a Path-related category.
+- **`Saṃghāya dvāra-hārikā`** — a difficult expression concerning the
+  Saṅgha. The Bhāṣya's paraphrase refers to taking away an access or means
+  associated with communal comfort; the precise object remains uncertain.
+- **`Stūpa-bhedana`** — destruction of a stūpa, the fifth analogue supplied
+  in the next half-verse.
 
 ## 8. Logical Determination
 
-Let:
-
 ```text
-A = a strict immediate-result karma
-S = an immediate-result analogue
-H = the higher-order structure of exceptional negation
+Strict immediate-result actions
+    = five-member karmic class
+
+Immediate-result analogues
+    = five distinct actions
+    = corresponding in order to that class
+
+Necessary hell rebirth
+    = asserted for the analogues
+
+Immediate succession of that rebirth
+    = disputed by the reported alternative
 ```
 
-Then:
-
-```text
-Instantiates(A, H)
-Instantiates(S, H)
-```
-
-But:
-
-```text
-S ≠ A
-SameHigherOrderStructure(S, A)
-    does not entail
-SameTechnicalSpecies(S, A)
-```
-
-**Field determinations represented in VAK 4.106**
-
-```text
-MotherArhatField
-    = ConstitutiveBenefactor
-    + RealizedQualityField
-
-FixedBodhisattvaField
-    = AssuredFutureBuddhahood
-
-SaiksaField
-    = NoblePathInDevelopment
-
-SanghaSupportField
-    = MaterialConditionOfCommunalOperation
-```
-
-**Result distinction**
-
-```text
-StrictAnantarya(x)
-    → CertainHellResult(x)
-    → ImmediateNextLifeMaturation(x)
-
-AnantaryaAnalogue(x)
-    → CertainHellResult(x)
-```
-
-Under the reported alternative:
-
-```text
-AnantaryaAnalogue(x)
-    does not entail
-ImmediateNextLifeMaturation(x)
-```
+The correspondence is explicit, but the Bhāṣya does not explain the exact
+rationale for each pairing in this unit. Do not infer that the analogues
+become strict immediate-result actions or that their rebirth timing is
+undisputed.
 
 ## 9. Interpretive Note
 
-VAK 4.105 required every maximum to specify its comparison class and fruit.
-VAK 4.106 advances the same discipline through analogy. Two courses can share
-a higher-order karmic form without belonging to one technical species. The
-Kośa thus avoids both nominal rigidity and undisciplined resemblance.
+The verse does bring Path-determined persons into the account: a bodhisattva
+established in certainty and a trainee. This gives the action-classification
+a genuine Path and *ārya*-related resonance, especially in the case of
+`śaikṣa`; the verse itself does not use the word *ārya*. The Bhāṣya's point
+here, however, is the analogy between grave actions and the immediate-result
+class, not a doctrine of subsequent births.
 
-This is directly relevant to Schema Inference. A valid secondary inference
-does not move from one isolated matching feature. It identifies the Principle
-that organizes a complete structure and then determines whether another case
-instantiates that structure within its own Bhūmi:
+This distinction matters alongside 4.105. There *bhavāgra-cetanā* is
+identified as greatest for maturation-result among wholesome actions in the
+world, with an exceptionally tranquil maturation lasting eighty thousand
+kalpas. That statement alone does not say that only certain or “proper”
+births follow from *bhavāgra*, nor does it name Tantra. A Yoga or Tantra
+account of a Path whose trajectory determines later birth may be a fruitful
+Organon extension, but it needs its own textual basis and should not be
+silently attributed to these two verses.
 
-```text
-Principle of exceptional field-negation
-    → strict immediate-result cases
-    → structurally corresponding analogue cases
-```
-
-The bodhisattva and trainee make the temporal depth of the spiritual Object
-especially clear. The former bears an assured course toward Buddhahood; the
-latter embodies the Path as active development. Their future is not an
-external prediction added to a finished present object. It is a determinate
-course presently constituting what the field is.
-
-The Saṅgha-support case adds the material layer. A spiritual Object does not
-operate through doctrine and recognition alone. It requires access, support,
-and conditions for communal life. To remove those means is to attack its
-practical actuality without directly killing its members or verbally dividing
-its governing Principle.
-
-This yields a differentiated traversal:
-
-```text
-benefactor relation
-realized quality
-assured becoming
-developing Path
-material communal condition
-```
-
-`Sabhāga` is therefore a rigorous analogical operator: it preserves the
-difference of each field while recognizing the higher structural unity that
-governs their karmic gravity.
+The source unit for this verse-pair begins with the question at `[264|22]`
+and runs through the prose list at `[265|04]`. It includes the opening half
+of 4.107 because the Bhāṣya uses it to complete the five-member set.
 
 ## 10. OWL++ Seed
 
-```ttl
-vak:VAK_4_106 a vak:Karika ;
-    rdfs:label "VAK 4.106" ;
-    vak:continues vak:VAK_4_105 ;
-    vak:hasTopic vak:AnantaryaAnalogues,
-                 vak:StructuralAffinity,
-                 vak:ExceptionalKarmicFields .
+```text
+Class: StrictImmediateResultAction
+Class: ImmediateResultAnalogue
+Class: CertainHellRebirth
+Class: BodhisattvaEstablishedInCertainty
+Class: Trainee
+Class: SaṅghaComfortAccess
+Class: StupaDestruction
 
-vak:AnantaryaAnalogue
-    vak:sharesHigherOrderStructureWith vak:AnantaryaKarma ;
-    vak:distinctTechnicalSpeciesFrom vak:AnantaryaKarma ;
-    vak:hasNecessaryResult vak:HellRebirth .
+Rule: AnalogueCorrespondence
+  domain = ImmediateResultAnalogue
+  cardinality = Five
+  correspondsInOrderTo = StrictImmediateResultAction
 
-vak:SexualViolationOfMotherArhat a vak:AnantaryaAnalogue ;
-    vak:negates vak:CombinedBenefactorAndQualityField .
+Rule: AnalogueRebirth
+  domain = ImmediateResultAnalogue
+  result = CertainHellRebirth
 
-vak:KillingFixedBodhisattva a vak:AnantaryaAnalogue ;
-    vak:negates vak:AssuredBuddhahoodTrajectory .
-
-vak:KillingSaiksa a vak:AnantaryaAnalogue ;
-    vak:negates vak:NoblePathInDevelopment .
-
-vak:RemovingSanghaSupportAccess a vak:AnantaryaAnalogue ;
-    vak:negates vak:MaterialConditionOfCommunalOperation .
-
-vak:ReportedAlternativeView
-    vak:deniesNecessaryProperty vak:ImmediateNextLifeMaturation ;
-    vak:forClass vak:AnantaryaAnalogue .
+Constraint: CertainHellRebirth != NecessarilyImmediateNextRebirth
 ```

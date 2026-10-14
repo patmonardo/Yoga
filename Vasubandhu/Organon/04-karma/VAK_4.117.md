@@ -1,4 +1,4 @@
-# VAK_4.117 — The Recipient Field and Foremost Gifts
+# VAK 4.117 — Recipient-Field Distinctions
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -9,14 +9,13 @@
 
 ## 2. Sanskrit (IAST)
 
-```text
-gatiduḥkhopakāritvaguṇaiḥ kṣetraṃ viśiṣyate |
-agraṃ muktasya muktāya bodhisattvasya cāṣṭamam || 4.117 ||
+```iast
+gatiduḥkhopakāritvaguṇaiḥ kṣetraṃ viśiṣyate /
+agraṃ muktasya muktāya bodhisattvasya cāṣṭamam // 4.117 //
 ```
 
-The second half is exceptionally compressed. Its segmentation and supplied
-terms are determined below through the Bhāṣya and remain distinguishable from
-the bare wording of the Kārikā.
+The second half is compressed. Its referents and divisions are supplied
+through the Bhāṣya and should not be read as one undifferentiated ranking.
 
 ## 3. Lexical Analysis
 
@@ -25,251 +24,176 @@ gati-duḥkha-upakāritva-guṇaiḥ | kṣetram | viśiṣyate |
 agram | muktasya | muktāya | bodhisattvasya | ca | aṣṭamam
 ```
 
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
-| `gati-duḥkha-upakāritva-guṇaiḥ` | instrumental plural coordinative compound | by destiny, suffering, prior beneficence, and qualities |
-| `kṣetram` | nominative singular neuter | recipient-field |
+| `gati-duḥkha-upakāritva-guṇaiḥ` | instrumental plural compound | by destiny, suffering, beneficence, and qualities |
+| `kṣetram` | nominative singular neuter | recipient field |
 | `viśiṣyate` | third-person singular present passive of `vi-√śiṣ` | is distinguished |
-| `agram` | nominative singular neuter | foremost, supreme |
-| `muktasya` | genitive singular masculine | of a liberated giver |
-| `muktāya` | dative singular masculine | to a liberated recipient |
-| `bodhisattvasya` | genitive singular masculine | concerning a Bodhisattva; supplied sense: to a Bodhisattva |
-| `ca` | conjunction | and, also |
-| `aṣṭamam` | nominative singular neuter ordinal | the eighth |
+| `agram` | nominative singular neuter | foremost |
+| `muktasya` | genitive singular masculine | of one who is free |
+| `muktāya` | dative singular masculine | to one who is free |
+| `bodhisattvasya` | genitive singular masculine | concerning a Bodhisattva; the Bhāṣya supplies “gift to a Bodhisattva” |
+| `ca` | indeclinable conjunction | and; also |
+| `aṣṭamam` | nominative singular neuter ordinal | the eighth; the Bhāṣya supplies “gift” |
 
-**Bhāṣya-resolved segmentation**
-
-```text
-muktasya muktāya [dānam] agram
-    the gift of a liberated person to a liberated person is foremost
-
-bodhisattvasya ca [dānam agram]
-    a gift to a Bodhisattva is also foremost
-
-[anyeṣu aṣṭasu dāneṣu] aṣṭamam agram
-    among another series of eight gifts, the eighth is foremost
-```
-
-The last two construals require the commentary; `bodhisattvasya` and
-`aṣṭamam` must not be fused into “the Bodhisattva is eighth.”
+The compound's four grounds are elaborated as the recipient's destination,
+present suffering, prior benefit to the giver, and qualities. The Bhāṣya
+then separates three foremost-gift claims: one concerning gifts between
+those free from passion, one concerning a gift to a Bodhisattva, and one
+within another eightfold classification.
 
 ## 4. Grammar
 
-**Four instrumental determinations of the field**
+The first line assigns four instrumental grounds to the recipient field:
 
 ```text
 kṣetram
-    gatyā
-    duḥkhena
-    upakāritvena
-    guṇaiḥ ca
+    gati-duḥkha-upakāritva-guṇaiḥ
     viśiṣyate
 ```
 
-> The recipient-field is distinguished by destiny, suffering, prior
-> beneficence, and qualities.
+> The recipient field is distinguished by destiny, suffering, beneficence,
+> and qualities.
 
-The instruments state distinct grounds of field-excellence, not necessarily
-four mutually exclusive recipient classes.
+The second line has elliptical gifts supplied by the Bhāṣya:
 
-**Foremost cases**
+```text
+muktasya muktāya [dānam] agram
+bodhisattvasya ca [dānam agram]
+[anyeṣu aṣṭasu dāneṣu] aṣṭamam [dānam] agram
+```
 
-`Muktasya` marks the giver, while dative `muktāya` marks the recipient. The
-neuter `agram` qualifies an understood `dānam`, gift. The Bhāṣya then supplies
-the parallel ellipsis after `bodhisattvasya ca` and introduces a separate
-canonical set for `aṣṭamam`.
-
-The compressed syntax therefore contains three judgments rather than one
-continuous eight-member ranking.
+The first two judgments concern distinct foremost gifts. The third refers
+to the eighth gift within a separate eightfold list; it does not identify
+the Bodhisattva as “the eighth.”
 
 ## 5. Translation
 
-### Literal Translation
+### Scientific English Rendering
 
-> The recipient-field is distinguished by destiny, suffering, beneficence,
-> and qualities. Foremost is [the gift] of a liberated person to one who is
-> liberated, and [a gift] to a Bodhisattva; the eighth [gift] is foremost.
+> The recipient field is distinguished by destiny, suffering, beneficence,
+> and qualities. Foremost is the gift from one who is free to one who is
+> free; a gift to a Bodhisattva is also foremost; and, in another set of
+> eight gifts, the eighth is foremost.
 
 ### Bhāṣya-informed study translation
 
-> A recipient-field is distinguished in four ways: by the recipient's mode of
-> rebirth, present suffering, history of benefiting the giver, or realized
-> qualities. Among material gifts, giving by one free from passion to another
-> free from passion is foremost. Giving to a Bodhisattva is also supreme
-> because the Bodhisattva is a cause of benefit for all beings. In a separate
-> canonical series of eight motives for giving, the eighth—giving for the
-> adornment and purification of mind, as equipment for yoga and for attainment
-> of the highest goal—is foremost.
+> The recipient field is distinguished by destiny, suffering, beneficence,
+> and qualities. Foremost is the gift from one who is free to one who is
+> free; a gift to a Bodhisattva is also foremost; and, in another set of
+> eight gifts, the eighth is foremost.
 
-The examples, the universal-benefit rationale, and the contents of the
-eightfold series are Bhāṣya material.
+The Bhāṣya clarifies that the first case is foremost among gifts of
+material things and concerns those free from passion. The Bodhisattva gift
+is foremost because the Bodhisattva is a cause of benefit to all living
+beings, even when both giver and recipient are not yet free. In the
+separate eightfold classification, the eighth gift is for the adornment
+and purification of Mind, as equipment for yoga and for attaining the
+highest goal.
+
+The examples grounding the four field-distinctions and the separate
+eightfold list are supplied by the Bhāṣya.
 
 ## 6. Philosophical Translation
 
-> The recipient is not a passive terminus to which an independently complete
-> deed is directed. Destiny, suffering, relational history, realized
-> excellence, and causal reach determine what the giving is. Thus the same
-> transferred object becomes relief, gratitude, honor, or support for
-> universal benefit according to the field in which it operates. At its
-> highest, giving is freed from ordinary acquisition at both poles or is
-> ordered toward purification of mind and the supreme practical end.
-
-The complete practical relation is:
-
-```text
-formed giver
-    + qualified gift-object
-    + determinate recipient-field
-    + governing purpose
-    = concretely specified giving-event
-```
+> The recipient is not an incidental endpoint of an already complete
+> giving. The recipient's destination, need, relation to the giver, and
+> qualities help determine what this action is. The Bhāṣya also presents
+> causal reach as a distinct ground for the Bodhisattva gift's rank, and
+> places the final gift in a separate classification of purposes. These
+> distinctions keep the giver, object, recipient field, and purpose in
+> relation without reducing them to one another.
 
 ## 7. Technical Vocabulary
 
-**`Kṣetra-viśeṣa` — distinction of the recipient-field**
-
-The third excellence-determinant announced in VAK 4.114. The field determines
-the practical meaning of giving through the recipient's condition and
-relation to the giver.
-
-**`Gati` — destiny or mode of rebirth**
-
-The recipient's existential mode independently differentiates the field. The
-Bhāṣya contrasts giving to an animal with giving to an immoral human; the
-comparison is about destiny, not moral praise.
-
-**`Duḥkha` — suffering or need**
-
-Present affliction can itself distinguish a field. The commentary names the
-sick and those attending the sick. Need and spiritual attainment are thus
-different grounds of field-power.
-
-**`Upakāritva` — prior beneficence**
-
-The history of benefit received from parents and other benefactors persists
-as a present practical determination. Here giving has the form of gratitude.
-
-**`Guṇa` — realized quality**
-
-Ethical or spiritual excellence in the recipient. Here giving assumes the
-form of honor directed toward an actual excellence.
-
-**`Mukta` or `vītarāga` — liberated or free from passion**
-
-The foremost material-gift relation joins a giver free from passion to a
-recipient free from passion; both poles are purified of ordinary attachment.
-
-**`Bodhisattva` — cause of universal benefit**
-
-The Bhāṣya judges this field through causal reach: support is given to a
-trajectory ordered toward the benefit of all beings, even though giver and
-recipient are not yet liberated.
-
-**`Yogasaṃbhāra` — equipment for yoga**
-
-One determination of the eighth and highest gift in the separate canonical
-series. Giving here serves transformation of mind and attainment of the
-highest goal.
+- **`Kṣetra-viśeṣa`** — distinction of the recipient field, the third
+  determinant named in 4.114.
+- **`Gati`** — destination or mode of rebirth. The Bhāṣya contrasts a
+  recipient in an animal destination with an undisciplined human recipient.
+- **`Duḥkha`** — suffering. The examples include sick people and those
+  attending them.
+- **`Upakāritva`** — beneficence, specifically prior benefit received from
+  parents and other benefactors.
+- **`Guṇa`** — qualities; the example is a recipient who is disciplined.
+- **`Vītarāga`** — one free from passion; the quoted comparison concerns
+  a giver and recipient both so described.
+- **`Bodhisattva`** — the recipient in a gift directed toward the benefit
+  of all living beings, the Bhāṣya's stated rationale for its rank.
+- **`Yogasaṃbhāra`** — equipment for yoga, among the purposes in the
+  separate eightfold gift-list.
+- **`Vipāka`** — maturation; the Bhāṣya's cited comparisons state
+  hundredfold, thousandfold, and hundred-thousandfold measures.
 
 ## 8. Logical Determination
 
-Let field distinction be a function of heterogeneous grounds:
+The Bhāṣya grounds recipient-field distinction in four different relations:
 
 ```text
-FieldDistinction(R) = f(
-    Destiny(R),
-    Suffering(R),
-    PriorBenefitToGiver(R),
-    RealizedQualities(R),
-    CausalReach(R)
-)
+destination       → gift to an animal or an undisciplined human
+suffering         → gift to the sick or those attending the sick
+prior beneficence → gift to parents and other benefactors
+qualities         → gift to one who is disciplined
 ```
 
-`CausalReach` is especially explicit in the Bhāṣya's Bodhisattva case. It is
-not a fifth word in the Kārikā's compound but the commentary's rationale for
-the supreme status of that field.
+These are not four mutually exclusive kinds of recipient. The cited
+maturation measures belong to the Bhāṣya's examples and are not generalized
+here into a universal empirical rule.
 
-The practical determination varies relationally:
+The second half makes three separate claims:
 
 ```text
-Give(to suffering being)  → Relief
-Give(to benefactor)       → Gratitude
-Give(to excellent being)  → Honor
-Give(to Bodhisattva)      → SupportOfUniversalBenefit
+one free from passion → one free from passion
+    = foremost among gifts of material things
+
+gift to a Bodhisattva for the benefit of all beings
+    = foremost on the rationale stated by the Bhāṣya
+
+eighth gift in a separate eightfold classification
+    = foremost in that classification
 ```
 
-The three claims of the second half remain logically separate:
-
-```text
-LiberatedGiver → LiberatedRecipient = ForemostMaterialGift
-Gift → Bodhisattva                  = SupremeByCausalReach
-GiftWithEighthMotive                = ForemostOfEightMotives
-```
+The witness's list is compressed and damaged in places; the sequence is
+preserved in the Bhāṣya study without an invented numbered reconstruction.
 
 ## 9. Interpretive Note
 
-VAK 4.115–4.117 has now traversed the three moments announced at 4.114:
+VAK 4.114 named the giver, thing given, and recipient field as distinct
+determinants of giving. The sequence through 4.115–4.117 has now considered
+each in turn. This verse makes the field relational: a recipient's suffering
+or prior beneficence is not the same ground as destination or qualities.
+The Bodhisattva case adds a further rationale—the action's reach toward the
+benefit of all beings—without collapsing that rationale into one of the
+four compound members.
 
-```text
-giver-quality
-    → mode of giving
+This analysis concerns relations in the giving-event, not Mind itself.
+Bases gather content and frames; they are not Mind. The verse does not
+name `cetanā`; the field's role belongs within the chapter's wider account
+of volitional action, without being silently inserted into the translation.
 
-gift-object quality
-    → determinate sensible benefit
-
-recipient-field quality
-    → practical meaning and reach of the deed
-```
-
-The third moment completes the action as a relational whole. A deed cannot be
-fully classified from the agent's maxim or transferred object alone, because
-its Concept changes with the Bhūmi in which it is applied. The suffering
-field calls forth relief; the benefactor-field, gratitude; the field of
-qualities, honor; the Bodhisattva-field, participation in universal future
-benefit.
-
-The eighth gift makes the connection to Practical Reason unusually explicit:
-giving becomes `yogasaṃbhāra`, equipment for yoga, when its principle is
-applied for purification of mind and the highest end. On the Organon reading,
-this is Schema Inference: a principle becomes determinate Jñāna through the
-fully articulated recipient-field, rather than being imposed upon an
-indifferent appearance.
-
-This comparative synthesis is not attributed to the Kārikā or Bhāṣya. The
-source doctrine is the plural determination of the field and the distinct
-supreme cases established by the commentary.
+The source span is `[270|04]–[270|25–26]`. The witness has `viśipyate`
+at `[270|04]` and a difficult form at `[270|08]`, both handled in the
+Bhāṣya study. The passage at `[270|21–25]` gives a compressed eightfold
+list and explicitly explains only its first two entries; the next topic
+begins at `[270|26]`.
 
 ## 10. OWL++ Seed
 
-```ttl
-vak:VAK_4_117 a vak:Karika ;
-    rdfs:label "VAK 4.117" ;
-    vak:continues vak:VAK_4_116 ;
-    vak:hasTopic vak:RecipientFieldExcellence,
-                 vak:ForemostGiving .
+```text
+Class: DistinguishedRecipientField
+Class: Destination
+Class: Suffering
+Class: PriorBeneficence
+Class: RecipientQualities
+Class: GiftFromFreeToFree
+Class: GiftToBodhisattva
+Class: EighthGiftInSeparateClassification
 
-vak:RecipientFieldExcellence
-    vak:determinedBy vak:Destiny,
-                     vak:Suffering,
-                     vak:PriorBeneficence,
-                     vak:RealizedQualities .
+Rule: RecipientFieldGrounds
+  DistinguishedRecipientField -> Destination
+  DistinguishedRecipientField -> Suffering
+  DistinguishedRecipientField -> PriorBeneficence
+  DistinguishedRecipientField -> RecipientQualities
 
-vak:GiftToBodhisattva
-    vak:hasFieldRationale vak:UniversalBenefitCausality ;
-    vak:hasRank vak:SupremeGift .
-
-vak:LiberatedToLiberatedGift
-    vak:hasRank vak:ForemostMaterialGift .
-
-vak:EighthGift
-    vak:hasPurpose vak:AdornmentOfMind,
-                   vak:PurificationOfMind,
-                   vak:EquipmentForYoga,
-                   vak:HighestAttainment ;
-    vak:hasRank vak:ForemostOfEightGifts .
-
-vak:DeterminateGivingEvent
-    vak:hasMoment vak:DistinguishedGiver,
-                  vak:DistinguishedGiftObject,
-                  vak:DistinguishedRecipientField .
+Attribution: ForemostGiftClaims
+  source = Bhāṣya
 ```

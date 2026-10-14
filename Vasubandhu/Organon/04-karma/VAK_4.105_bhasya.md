@@ -1,4 +1,4 @@
-# VAK 4.105 Bhāṣya — The Gravest Fault and the Greatest Fruit
+# VAK 4.105 Bhāṣya — The Gravest Culpability and the Greatest Fruit
 
 ## 1. Kārikā Anchor
 
@@ -7,13 +7,10 @@ saṃghabhede mṛṣāvādo mahāvadyatamo mataḥ /
 bhavāgracetanā loke mahāphalatamā śubhe // 4.105 //
 ```
 
-> False speech that divides the Saṅgha is regarded as the most blameworthy;
-> among wholesome actions in the world, volition at the summit of existence
-> yields the greatest fruit.
-
-The Bhāṣya explains each superlative by specifying the harm or fruit being
-measured. Its comparison of worldly maturation with liberative release is
-essential to the second half.
+> Among the immediate-result actions, false speech producing Saṅgha
+> division is regarded as the most culpable. Among wholesome actions in
+> the world, volition at the summit of becoming is greatest with respect
+> to maturation-result.
 
 ## 2. Continuous Sanskrit
 
@@ -24,118 +21,120 @@ saṃghabhede mṛṣāvādo mahāvadyatamo mataḥ /
 
 yaḥ saṃghabhedanimittaṃ mṛṣāvādo dharmādharmajñasya
 viparyayadyotanāt, sa sarveṣāṃ duścaritānāṃ mahāvadyatamaḥ.
-kiṃ kāraṇam? tathāgatadharmaśarīraprahāritatvāt, lokānāṃ ca
-svargāpavargamārgāntarāyakatvāt.
+kiṃ kāraṇam?
+tathāgatadharmaśarīraprahāritatvāt,
+lokānāṃ ca svargāpavargamārgāntarāyakatvāt.
 
 saṃghe hi bhinne lokasya niyāmāvakrānti-phala-prāpti-vairāgya-
-āsravakṣayāḥ pratibadhyante; dhyāna-adhyayana-svādhyāya-cintā-karmāṇy
-api na pravartante. sadevanāgamanuṣyaṃ jagac cākulaṃ vimanaskaṃ
-vartate yāvat punar na pratisaṃdhito bhavati, yasmāc cāvīcau kalpaṃ
-vipākaḥ.
+āsravakṣayāḥ pratibadhyante;
+dhyāna-adhyayana-svādhyāya-cintā-karmāṇy api na pravartante.
+sadevanāgamanuṣyaṃ jagac cākulaṃ vimanaskaṃ vartate
+yāvat punar na pratisaṃdhito bhavati,
+yasmāc cāvīcau kalpaṃ vipākaḥ.
 
 śeṣāṇām ānantaryāṇāṃ yathākramaṃ pañcama-tṛtīya-prathamāni
 gurutarāṇi; sarvalaghuḥ pitṛvadhaḥ.
 
 yat tarhi bhagavatā trayāṇāṃ daṇḍānāṃ manodaṇḍo mahāsāvadya uktaḥ,
-punar mithyādṛṣṭiḥ param avadyānām ity uktam? ānantaryāṇi niyamya
-saṃghabhedo mahāsāvadya uktaḥ; trīṇi karmāṇi niyamya manodaṇḍaḥ;
-dṛṣṭīr niyamya mithyādṛṣṭiḥ. athavā vipākavistaraṃ
-mahājanavyāpādanaṃ kuśalamūlasamucchedaṃ cādhikṛtya yathākramam.
+punar mithyādṛṣṭiḥ param avadyānām ity uktam?
+ānantaryāṇi niyamya saṃghabhedo mahāsāvadya uktaḥ;
+trīṇi karmāṇi niyamya manodaṇḍaḥ;
+dṛṣṭīr niyamya mithyādṛṣṭiḥ.
+athavā vipākavistaraṃ mahājanavyāpādanaṃ kuśalamūlasamucchedaṃ
+cādhikṛtya yathākramam.
 
 sucaritānāṃ punaḥ katamat mahāphalatamam?
 
 bhavāgracetanā loke mahāphalatamā śubhe // 4.105 //
 
 kuśale punaḥ karmaṇi bhavāgracetanā sarveṣāṃ mahāphalatamā.
-tasyā aśītikalpasahasrāṇy atipraśānto vipākaḥ. vipākaphalaṃ
-cādhikṛtyaitad uktam. visaṃyogaphalaṃ tv adhikṛtya
-vajropamasamādhicetanā sarveṣāṃ mahāphalā,
-sarvasaṃyojanaparyādānaphalatvāt. ata eva loka ity uktam.
+tasyā aśītikalpasahasrāṇy atipraśānto vipākaḥ.
+vipākaphalaṃ cādhikṛtyaitad uktam.
+visaṃyogaphalaṃ tv adhikṛtya vajropamasamādhicetanā sarveṣāṃ
+mahāphalā, sarvasaṃyojanaparyādānaphalatvāt.
+ata eva loka ity uktam.
 ```
 
-This study follows `[264|03]–[264|21]` of `kosabhasya.txt`. The running
-witness prints `saṃghamede` at `[264|04]`; the kārikā's established reading
-`saṃghabhede` is used above. Sandhi, spacing, and punctuation have been
-opened for readability. The compressed ranking of the remaining immediate
-offenses and the phrase about inversion of Dharma and non-Dharma warrant
-caution; neither is expanded into an unsupported list here.
+This study follows `[264|03]–[264|21]`. The running witness reads
+`saṃghamede` at `[264|04]`; the established kārikā reading
+`saṃghabhede` is used above. The sequence ranking the remaining
+immediate-result actions is retained without assigning its ordinal
+members beyond the text. Sandhi, spacing, and punctuation are editorial.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Scientific English Rendering
 
-Which of the immediate-result offenses is the gravest? The false speech
-that divides the Saṅgha. This is false speech occasioning division by
-presenting Dharma and non-Dharma in inverted order. It is the gravest of
-misdeeds because it strikes the Tathāgata's Dharma-body and obstructs
-people's paths to heaven and liberation.
+Which of these immediate-result actions is the most culpable?
 
-When the Saṅgha is divided, people's entry into assurance, attainment of
-fruits, dispassion, and destruction of the outflows are obstructed.
-Meditation, learning, recitation, reflection, and practice fail to
-proceed. The world of gods, nāgas, and humans is disturbed and dejected
-until reunion occurs. The act also has a kalpa of maturation in Avīci.
-The commentary ranks the remaining immediate offenses and calls killing
-one's father the lightest of them.
+False speech occasioning Saṅgha division is regarded as the most culpable.
+The false speech that occasions Saṅgha division displays an inversion of
+Dharma and non-Dharma and is the most culpable of all misconduct. Why?
+Because it strikes the Tathāgata's Dharma-body and obstructs the paths to
+heaven and liberation for beings.
 
-But the Blessed One has elsewhere called mental action the gravest of
-the three modes of action, and wrong view the gravest among faults. The
-Bhāṣya resolves these statements by their comparison classes: Saṅgha
-division among the immediate offenses, mental action among the three
-actions, and wrong view among views. Alternatively, they may refer,
-respectively, to the extent of maturation, harm to many people, and
-severing wholesome roots. The compressed source does not fully settle
-how the alternative reasons distribute across the three claims.
+When the Saṅgha is divided, entry into certainty, attainment of results,
+dispassion, and exhaustion of Influx are obstructed for the world.
+Meditation, study, recitation, reflection, and action also do not proceed.
+The world together with gods, nāgas, and humans remains disturbed and
+dismayed until the Saṅgha is reunited; the action matures in Avīci for one
+kalpa.
 
-Which wholesome action, then, has the greatest fruit? Among wholesome
-actions **in the world**, volition at the summit of existence has the
-greatest fruit. Its exceptionally peaceful maturation endures for eighty
-thousand kalpas. This claim concerns maturation fruit (*vipākaphala*).
-With respect to the fruit of disconnection (*visaṃyogaphala*), the
-volition of diamond-like concentration is greatest, since its fruit is
-the exhaustion of all fetters. That is why the verse says “in the world.”
+Among the remaining immediate-result actions, the fifth, third, and first
+are successively heavier; killing one's father is the lightest of all.
 
-## 4. What the Two Superlatives Measure
+But the Blessed One called mental action the most culpable of the three
+actions, and elsewhere wrong view the most culpable among views. Saṅgha
+division is called the most culpable when the comparison is restricted to
+immediate-result actions; mental action when restricted to the three
+actions; and wrong view when restricted to views. Alternatively, these
+judgments are made respectively with regard to extent of maturation, harm
+to many beings, and severing wholesome roots.
 
-| Judgment | Comparison and ground |
-|---|---|
-| gravest fault | Saṅgha-dividing false speech among the immediate offenses; it obstructs a shared field of practice and attainment |
-| greatest wholesome **worldly maturation** | `bhavāgracetanā`; its peaceful result lasts eighty thousand kalpas |
-| greatest **disconnection fruit** | `vajropamasamādhicetanā`; its result is the exhaustion of fetters |
+Which wholesome action is greatest in fruit? Among wholesome actions in
+the world, volition at the summit of becoming is greatest for all. Its
+maturation is exceptionally tranquil for eighty thousand kalpas. This
+statement concerns maturation-result. With respect to disconnection-result,
+volition of diamond-like concentration is greatest for all, because its
+result is the exhaustion of all fetters. For this reason the verse says
+“in the world.”
 
-The opening question compares the immediate offenses; the following
-explanation also calls divisive false speech the gravest of misdeeds.
-The Bhāṣya then addresses apparently competing claims of maximal fault
-by specifying their subjects rather than treating every “greatest” as an
-unrestricted absolute predicate.
+## 4. Comparison Classes and Results
 
-## 5. The Path's Shared Medium
+| Judgment | Comparison class | Result or ground |
+|---|---|---|
+| Most culpable | Immediate-result actions | Saṅgha-dividing false speech; it strikes the Tathāgata's Dharma-body and obstructs paths to heaven and liberation. |
+| Mental action most culpable | The three actions | A maximum within that stated class. |
+| Wrong view most culpable | Views | A maximum within that stated class. |
+| Greatest wholesome worldly volition | Wholesome actions in the world | `Bhavāgra-cetanā`; exceptionally tranquil maturation for eighty thousand kalpas. |
+| Greatest disconnection-result | Actions compared by disconnection-result | `Vajropama-samādhi-cetanā`; exhaustion of all fetters. |
 
-The harm of schism is not confined to one false utterance. The Bhāṣya
-traces a sequence from inverted presentation of Dharma to division of
-the community, then to obstruction of meditation, study, practice, and
-liberating attainments for many people. This is the stated reason that
-speech can carry extraordinary karmic gravity here.
+The Bhāṣya's maxima do not conflict: the comparison class and the kind
+of result differ.
 
-`Bhavāgra` supplies a different limit. It is the summit **within**
-conditioned existence, so its immense peaceful maturation does not
-equal release from fetters. The Bhāṣya's explicit `vipākaphala` versus
-`visaṃyogaphala` distinction prevents that conflation.
+## 5. Interpretation
 
-## 6. Organon Contact Point — Project Reconstruction
+The first superlative is explained by the effects of Saṅgha division on
+the shared practices and attainments of many beings. Its culpability is
+not ranked by speech considered in isolation; the Bhāṣya emphasizes its
+inversion of Dharma and non-Dharma, its relation to the Tathāgata's
+Dharma-body, and its obstruction of paths to heaven and liberation.
 
-The Organon can treat a superlative as a judgment requiring an explicit
-domain and result relation:
+The second half directly foregrounds *cetanā*: volition at the summit of
+becoming has the greatest maturation-result among wholesome actions
+within the world. The Bhāṣya then distinguishes that maximum from the
+greatest disconnection-result, assigned to volition of diamond-like
+concentration because it exhausts all fetters. Worldly maturation and
+liberative disconnection are thus separate axes, not competing placements
+on one scale.
 
-```text
-greatest(x, comparison class, result kind)
-```
+The source's *cetanā* is translated as **volition**. It is a specific
+technical term, not a synonym for every action or for any of the other
+classifications mentioned here.
 
-Here the comparison exposes how action in a shared world can enable or
-impede others' practical courses. This is a project inference from the
-Bhāṣya's list of consequences, not a formula Vasubandhu states.
+## 6. Review Status
 
-## 7. Review Status
-
-The source unit `[264|03]–[264|21]` is covered through its closing
-explanation of `loke`. The study stops before `[264|22]`, where the
-question for 4.106 begins. The running witness and first-pass kārikā
-study remain unchanged.
+The complete unit `[264|03]–[264|21]` is included: the ranking of
+immediate-result actions, its social and doctrinal grounds, the
+comparison-class qualifications, and the two kinds of greatest
+wholesome result. It stops before the next question at `[264|22]`.
+The source's compressed ranking of the remaining immediate-result
+actions and the witness variant `saṃghamede` are marked.

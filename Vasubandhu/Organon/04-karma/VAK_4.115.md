@@ -1,4 +1,4 @@
-# VAK_4.115 — The Giver and the Manner of Giving
+# VAK 4.115 — The Giver and the Manner of Giving
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -9,328 +9,191 @@
 
 ## 2. Sanskrit (IAST)
 
-```text
-dātā viśiṣṭaḥ śraddhādyaiḥ satkṛtyādi dadāti ataḥ /
+```iast
+dātā viśiṣṭaḥ śraddhādyaiḥ satkṛtyādi dadāty ataḥ /
 satkārodārarucitā kālānācchedyalābhitā // 4.115 //
 ```
+
+The verse develops the giver-determinant named in 4.114. The Bhāṣya
+expands `satkṛtyādi` into four manners of giving and explicitly pairs
+them, in order, with four features of the result.
 
 ## 3. Lexical Analysis
 
 ```text
 dātā | viśiṣṭaḥ | śraddhā-ādyaiḥ | sat-kṛtya | ādi | dadāti |
-ataḥ | satkāra | udāra-rucitā | kāla-lābhitā | an-ācchedya-lābhitā
+ataḥ | satkāra | udāra-ruci | kāla | an-ācchedya-lābhitā
 ```
 
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `dātā` | nominative masculine singular agent noun | giver |
 | `viśiṣṭaḥ` | nominative masculine singular | distinguished, excellent |
-| `śraddhā-ādyaiḥ` | instrumental plural | through faith and related qualities |
-| `sat-kṛtya` | absolutive | having shown honor; respectfully |
-| `ādi` | indeclinable compound member | and the other stated manners |
+| `śraddhā-ādyaiḥ` | instrumental plural compound | through faith and related qualities |
+| `sat-kṛtya` | absolutive | having shown respect; respectfully |
+| `ādi` | indeclinable compound member | and the other manners supplied by the Bhāṣya |
 | `dadāti` | third-person singular present active of `√dā` | gives |
 | `ataḥ` | causal adverb | from this, consequently |
-| `satkāra` | compound member | reception of honor |
-| `udāra-rucitā` | feminine abstract compound | delight in excellent enjoyments |
-| `kāla-lābhitā` | feminine abstract compound | acquisition at the proper time |
-| `an-ācchedya-lābhitā` | feminine abstract compound | acquisition not liable to interruption |
+| `satkāra` | nominative masculine singular | receipt of honor |
+| `udāra-ruci` | compound result expression | taste for excellent enjoyments |
+| `kāla` | compound member | proper time |
+| `an-ācchedya-lābhitā` | abstract result expression | acquisition not liable to seizure or destruction |
 
-**Bhāṣya expansion of `satkṛtyādi`**
-
-```text
-satkṛtya
-    respectfully
-
-svahastam
-    personally, with one's own hand
-
-kāle
-    at the proper time
-
-parānupahatya
-    without harming others
-```
-
-**Ordered correspondence of four manners and four fruits**
-
-```text
-respectfully
-    → receipt of honor
-
-personally
-    → delight in excellent enjoyments
-
-at the proper time
-    → timely acquisition
-
-without harming others
-    → uninterrupted acquisition
-```
-
-`Udārarucitā` is one fruit, not two independent fruits.
+The Bhāṣya clarifies the condensed result compound as four ordered outcomes:
+receiving honor, developing a taste for excellent enjoyments, acquiring
+resources at the proper time, and acquiring resources not liable to seizure
+or destruction.
 
 ## 4. Grammar
 
-**Distinction of the giver**
+The first line relates the giver's qualities to the manner of giving:
 
 ```text
 dātā
     śraddhā-ādyaiḥ
     viśiṣṭaḥ [bhavati]
-```
 
-> The giver is distinguished by faith and the other qualities.
-
-The instrumental states the qualities through which the giver is excellent.
-The Bhāṣya specifies faith, discipline, learning, and related excellences.
-
-**Inner excellence appearing as manner**
-
-```text
-[saḥ]
+saḥ
     satkṛtya-ādi
     dadāti
 ```
 
-> Such a giver gives respectfully and in the other proper ways.
+> The giver is distinguished by faith and related qualities and therefore
+> gives respectfully and in other specified ways.
 
-The absolutive determines how the finite verb is performed. The implied list
-is supplied by the commentary; it is not free editorial expansion.
-
-**Causal transition to fruit**
+The second line names consequences; the Bhāṣya's `yathākramam` fixes the
+order:
 
 ```text
-ataḥ
-    satkāra-lābhitā
-    udāra-rucitā
-    kāla-lābhitā
-    anācchedya-lābhitā [bhavati]
+respectfully
+    → receipt of honor
+personally
+    → taste for excellent enjoyments
+at the proper time
+    → timely acquisition
+without harming others
+    → acquisition not liable to seizure or destruction
 ```
 
-> Consequently there are reception of honor, delight in excellent
-> enjoyments, timely acquisition, and acquisition that cannot be cut off.
-
-The Bhāṣya's `yathākramam`, respectively, fixes a one-to-one order between
-the four modes of giving and these four features of maturation.
+The verse compresses the last three manners into `ādi`; the prose supplies
+them. It likewise expands the result-complex into four distinct outcomes.
 
 ## 5. Translation
 
-### Literal Translation
+### Scientific English Rendering
 
-> A giver is distinguished by faith and the other qualities and therefore
-> gives respectfully and in the other proper ways. From this come reception
-> of honor, delight in excellent enjoyments, timely acquisition, and
-> acquisition not liable to interruption.
+> A giver distinguished by faith and related qualities gives respectfully
+> and in other specified ways. Consequently, there is receipt of honor,
+> taste for excellent enjoyments, timely acquisition, and acquisition not
+> liable to seizure or destruction.
 
 ### Bhāṣya-informed study translation
 
-> A giver endowed with faith, moral discipline, learning, and related
-> qualities is distinguished, and that inward formation becomes manifest in
-> four manners of giving: respectfully, personally, at the proper time, and
-> without harming others. The giving's maturation preserves those modes in
-> ordered correspondence: respectful giving yields honor; personal giving
-> yields delight in excellent enjoyments; timely giving yields resources at
-> the proper time; and giving without injuring others yields possessions whose
-> availability is not liable to interruption.
+> A giver distinguished by faith and related qualities gives respectfully
+> and in other specified ways. Consequently, there is receipt of honor,
+> taste for excellent enjoyments, timely acquisition, and acquisition not
+> liable to seizure or destruction. The Bhāṣya specifies the manners as
+> respectful giving, giving with one's own hand, giving at the proper
+> time, and giving without harming others. It pairs these, respectively,
+> with receiving honor, developing a taste for excellent enjoyments,
+> acquiring resources at the proper time, and acquiring resources that
+> others do not take away and that are not destroyed by fire or similar
+> causes.
 
-The qualities grouped under `śraddhādi`, fourfold expansion of `ādi`, ordered
-correspondence, and interpretation of `udārarucitā` as one result are supplied
-by the Bhāṣya.
+The four manners, their ordered correspondence, and the explanatory
+examples of seizure and destruction are supplied by the Bhāṣya.
 
 ## 6. Philosophical Translation
 
-> The giver does not contribute only an object; the ethical and cognitive
-> formation of the agent enters the act through its mode of execution. That
-> mode is then preserved across temporal mediation as a corresponding form of
-> future availability. Karma returns neither an arbitrary prize nor an
-> undifferentiated quantity, but a world articulated according to the
-> qualitative relations enacted in the deed.
-
-The rational movement is:
-
-```text
-ethical-cognitive formation of agent
-    → determinate manner of relinquishment
-    → objective recipient-relation
-    → correspondingly formed maturation
-```
-
-Thus:
-
-```text
-mode of action
-    → mode of future result
-```
+> The giver's qualities become manifest in the manner of the deed, and
+> the Bhāṣya maps those manners to corresponding features of maturation.
+> Respect, personal involvement, timing, and non-injury are not interchangeable
+> descriptions: each has its own stated result. This is the giver-axis of
+> giving's distinction, not a general empirical law about wealth or security.
 
 ## 7. Technical Vocabulary
 
-**`Dātṛ-viśeṣa` — distinction of the giver**
-
-The first of the three excellence-determinants named in VAK 4.114. It is an
-ethical-cognitive distinction, not merely the donor's social identity or
-material wealth.
-
-**`Śraddhā` — faith or confidence**
-
-Confidence belonging to the giver's wholesome formation. Along with
-discipline, learning, and related qualities, it supports genuine and
-respectful relinquishment.
-
-**`Śīla` and `śruta` — discipline and learning**
-
-The Bhāṣya's further examples under `śraddhādi`. The giver enters the event as
-an ethically regulated and cognitively informed agent.
-
-**`Satkṛtya` — giving respectfully**
-
-Treating the recipient-field with honor in the performance of transfer. The
-corresponding maturation is being received with honor.
-
-**`Svahastam` — giving personally**
-
-Giving with one's own hand rather than leaving the practical encounter wholly
-to delegation. Its corresponding fruit is delight in excellent enjoyments.
-
-**`Kāle` — giving at the proper time**
-
-Making the gift when the recipient and situation call for it. The result is
-acquisition at the proper time, before the relevant occasion has passed.
-
-**`Parānupahatya` — giving without harming others**
-
-The gift must not be secured or performed through injury to other beings. Its
-corresponding fruit is enjoyment not liable to being cut off.
-
-**`Satkāra-lābhitā` — receiving honor**
-
-The first feature of fruit, corresponding to respectful performance.
-
-**`Udāra-rucitā` — delight in excellent enjoyments**
-
-The second feature. The Bhāṣya reads it as acquiring taste or delight in
-excellent enjoyments; it is not a pair of independent results called
-“abundance” and “agreeableness.”
-
-**`Kāla-lābhitā` and `anācchedya-lābhitā`**
-
-Timely acquisition and acquisition not liable to interruption. They preserve
-the temporal appropriateness and non-injurious stability of the giving-event.
+- **`Dātṛ-viśeṣa`** — distinction of the giver, the first determinant
+  named in 4.114.
+- **`Śraddhā-śīla-śruta`** — faith, discipline, and learning, with related
+  qualities; these distinguish the giver in the Bhāṣya's explanation.
+- **`Satkṛtya`** — respectfully, treating the recipient with honor.
+- **`Svahastam`** — with one's own hand, giving personally.
+- **`Kāle`** — at the proper time.
+- **`Parānupahatya`** — without harming others.
+- **`Satkāra-lābha`** — receiving honor, the result paired with respectful
+  giving.
+- **`Udāreṣu bhogeṣu ruci`** — taste for excellent enjoyments, the single
+  result paired with giving personally.
+- **`Kāla-lābha`** — acquisition at the proper time.
+- **`Anācchedya-lābha`** — acquisition not liable to seizure or destruction;
+  the witness wording in the explanation is uncertain.
 
 ## 8. Logical Determination
 
-Let:
-
 ```text
-D = distinguished giver
-Q = faith, discipline, learning, and related qualities
-M1 = respectful giving
-M2 = personal giving
-M3 = timely giving
-M4 = non-injurious giving
-F1 ... F4 = corresponding fruit-features
+Distinguished giver
+    = endowed with faith, discipline, learning, and related qualities
+
+Manner of giving                     Result
+-----------------                     ------
+respectfully                          receives honor
+with one's own hand                   develops taste for excellent enjoyments
+at the proper time                    acquires resources at the proper time
+without harming others                acquires resources not taken or destroyed
 ```
 
-Then:
+The correspondence is explicitly ordered in the Bhāṣya:
 
 ```text
-Possesses(D, Q)
-    → DisposesToward(D, {M1, M2, M3, M4})
+mode 1 → result 1
+mode 2 → result 2
+mode 3 → result 3
+mode 4 → result 4
 ```
 
-And, in the Bhāṣya's explicit order:
-
-```text
-M1 → F1 = ReceiptOfHonor
-M2 → F2 = DelightInExcellentEnjoyments
-M3 → F3 = TimelyAcquisition
-M4 → F4 = UninterruptedAcquisition
-```
-
-**Form-preserving maturation**
-
-```text
-Respects(D, RecipientField)
-    → FutureFieldRespects(D)
-
-ActsAtProperTime(D)
-    → FutureResourcesArriveAtProperTime(D)
-
-DoesNotInjureOthers(D)
-    → FutureResourcesNotInterrupted(D)
-```
-
-This correspondence is qualitative; the result is not merely “more” of an
-otherwise featureless good.
+The last result is the Bhāṣya's karmic claim, not a general guarantee of
+property security.
 
 ## 9. Interpretive Note
 
-VAK 4.114 separated benefit-scope from excellence and named giver, object, and
-field as determinants of the latter. VAK 4.115 develops the giver through a
-three-stage mediation: inward formation, outward manner, and resultant world.
+VAK 4.114 named the giver, the thing given, and the recipient field as
+distinct determinants of giving's further distinction. VAK 4.115 isolates
+the giver and traces a sequence from qualities, to manner, to result. These
+are roles and relations within the action's frame; they are not Mind itself.
+The Skandha/Base account of gathered content and frames remains distinct,
+as established in the preceding studies.
 
-This is an especially clear Kriyā schema:
-
-```text
-agent-quality
-    → manner of acting
-    → relation produced
-    → world in which that relation returns
-```
-
-Faith, discipline, and learning are not inert properties stored inside the
-giver. They become actual only as the mode of giving: respect, personal
-presence, timeliness, and non-injury. The fruit then manifests those same
-determinations under a new temporal form.
-
-For Samyama as Practical Reason, the one Principle is not merely “give.” It
-must be applied across the concrete Bhūmi of recipient, time, means, and
-affected others. Jñāna of the deed includes the full crystal of valid
-secondary determinations:
-
-```text
-how the recipient is recognized
-who performs the transfer
-when the need is met
-whether the means injure another
-```
-
-The result-correspondence shows why Karma is a Schema of actuality. Practical
-form is preserved through transformation: respect becomes recognition,
-timeliness becomes timely availability, and non-injury becomes stability
-against loss. Karma is not a bookkeeping system external to action; it is the
-action's qualitative organization returning as a future field.
+The source unit is `[269|07]–[269|18–19]`. The witness reads `kālelna`
+at `[269|16–17]`, corrected to `kālena`. It reads `ācchādyante` at
+`[269|17–18]`; the proposed `ācchidyante` is conjectural and matches the
+preceding `anācchedya`. The translation follows the explanatory prose,
+which says the enjoyments are not taken by others or destroyed by fire and
+similar causes. The study stops before the question about the thing given
+at `[269|20]`.
 
 ## 10. OWL++ Seed
 
-```ttl
-vak:VAK_4_115 a vak:Karika ;
-    rdfs:label "VAK 4.115" ;
-    vak:continues vak:VAK_4_114 ;
-    vak:hasTopic vak:DistinguishedGiver,
-                 vak:MannerOfGiving,
-                 vak:FormPreservingMaturation .
+```text
+Class: DistinguishedGiver
+Class: Faith
+Class: Discipline
+Class: Learning
+Class: RespectfulGiving
+Class: PersonalGiving
+Class: TimelyGiving
+Class: NonInjuriousGiving
+Class: ReceiptOfHonor
+Class: TasteForExcellentEnjoyments
+Class: TimelyAcquisition
+Class: AcquisitionNotTakenOrDestroyed
 
-vak:DistinguishedGiver
-    vak:hasQuality vak:Faith,
-                   vak:Discipline,
-                   vak:Learning ;
-    vak:expressesQualityThrough vak:RespectfulGiving,
-                                vak:PersonalGiving,
-                                vak:TimelyGiving,
-                                vak:NonInjuriousGiving .
+Rule: GiverMannerResults
+  respectfulGiving = ReceiptOfHonor
+  personalGiving = TasteForExcellentEnjoyments
+  timelyGiving = TimelyAcquisition
+  nonInjuriousGiving = AcquisitionNotTakenOrDestroyed
 
-vak:RespectfulGiving
-    vak:hasCorrespondingFruit vak:ReceiptOfHonor .
-
-vak:PersonalGiving
-    vak:hasCorrespondingFruit vak:DelightInExcellentEnjoyments .
-
-vak:TimelyGiving
-    vak:hasCorrespondingFruit vak:TimelyAcquisition .
-
-vak:NonInjuriousGiving
-    vak:hasCorrespondingFruit vak:UninterruptedAcquisition .
-
-vak:KarmicMaturation
-    vak:preserves vak:QualitativeStructureOfAction .
+Attribution: AcquisitionNotTakenOrDestroyed
+  source = BhāṣyaExplanatoryClaim
 ```
