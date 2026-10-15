@@ -14,20 +14,7 @@
 
 ## 3. Lexical Analysis
 
-```text
-upapatti-bhavaḥ             → upapattibhavaḥ
-kliṣṭaḥ                    → kliṣṭaḥ
-sarva-kleśaiḥ              → sarvakleśaiḥ
-sva-bhūmikaiḥ              → svabhūmikaiḥ
-tridhā                     → tridhā
-anye                       → 'nye
-trayaḥ                     → traya
-ārūpye                     → ārūpye
-āhāra-sthitikam            → āhārasthitikaṃ
-jagat                      → jagat
-```
-
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | upapattibhavaḥ | nominative masculine singular compound | rebirth-becoming; arising in a destination |
 | kliṣṭaḥ | nominative masculine singular adjective | defiled; necessarily so according to the Bhāṣya |

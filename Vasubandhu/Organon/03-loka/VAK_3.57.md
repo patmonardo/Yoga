@@ -14,19 +14,7 @@
 
 ## 3. Lexical Analysis
 
-```text
-iha                         → iha
-uttareṇa                    → uttareṇa
-kīṭa-adri-navakāt           → kīṭādrinavakād
-himavān                     → dhimavāṃs
-tataḥ                       → tataḥ
-pañcāśat-vistṛta-āyāmam     → pañcāśadvistṛtāyāmam
-saraḥ                       → saro
-arvāk                       → 'rvāg
-gandhamādanāt               → gandhamādanāt
-```
-
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | iha | indeclinable | here, specified by the Bhāṣya as within Jambūdvīpa |
 | uttareṇa | indeclinable spatial form | northward, to the north |

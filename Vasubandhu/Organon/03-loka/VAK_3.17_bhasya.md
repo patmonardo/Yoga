@@ -2,12 +2,15 @@
 
 ## 1. Kārikā Anchor
 
-> garbhāvakrāntayas tisraś cakravartisvayaṃbhuvām /
-> karmajñānobhayeṣāṃ vā viśadatvād yathākramam // 3.17 //
+> garbhāvakrāntayas tisraś cakravartti-svayaṃbhuvām /
+> karma-jñānobhayeṣāṃ vā viśadatvād yathākramam // 3.17 //
 
-> Three modes of womb-descent belong to the wheel-turning ruler and the two
-> self-arisen ones—or, respectively, arise through the clarity of karma, of
-> knowing, and of both.
+> Three exceptional modes of womb-entry are assigned respectively to the
+> cakravartin, the Pratyekabuddha, and the perfectly awakened Buddha. The
+> cakravartin is clearly aware upon entry through clarified karma; the
+> Pratyekabuddha remains clearly aware through clarified achieved knowing; the
+> Buddha also emerges clearly aware through the clarity of both karma and
+> knowing.
 
 The Bhāṣya identifies the compressed three persons, assigns to each one of the
 progressively lucid profiles established in VAK 3.16, and specifies the

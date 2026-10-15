@@ -10,14 +10,7 @@
 
 ## 3. Lexical Analysis
 
-```text
-samyaktva-niyatāḥ          → samyaṅ...niyatā
-mithyātva-niyatāḥ          → ...mithyātvaniyatā
-āryāḥ                      → āryā
-ānantarya-kāriṇaḥ          → ānantaryakāriṇaḥ
-```
-
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | samyaktva | neuter abstract noun | rightness; defined by the Bhāṣya as complete abandonment of the afflictions |
 | mithyātva | neuter abstract noun | wrongness; here determined through the three bad destinies |

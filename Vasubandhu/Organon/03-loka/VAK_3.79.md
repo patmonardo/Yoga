@@ -14,21 +14,7 @@
 
 ## 3. Lexical Analysis
 
-```text
-nṛṇām                 → nṛṇāṃ
-varṣāṇi               → varṣāṇi
-pañcāśat              → pañcāśad (before a-)
-ahas-rātraḥ           → ahorātraḥ → ahorātro (before d-)
-diva-okasām           → divaukasām
-kāme                  → kāme
-adharāṇām             → 'dharāṇāṃ (after avagraha)
-tena                  → tena
-āyuḥ                  → āyuḥ
-pañca-varṣa-śatāni    → pañcavarṣaśatāni
-tu                    → tu
-```
-
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | nṛṇām | genitive masculine plural | of humans; identifies the source time-scale |
 | varṣāṇi | nominative neuter plural | years |

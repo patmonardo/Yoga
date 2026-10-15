@@ -27,18 +27,6 @@ na
 
 ## 3. Lexical Analysis
 
-
-```text
-saṃyojana-ādi-vacanāt    → saṃyojanādivacanāt
-ku-prajñā                → kuprajñā
-cet                      → cet
-na                       → na
-darśanāt                 → darśanāt
-dṛṣṭeḥ                   → dṛṣṭes
-tat-saṃprayuktatvāt      → tatsaṃprayuktatvāt
-prajñā-upakleśa-deśanāt  → prajñopakleśadeśanāt
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | saṃyojanādivacanāt | ablative singular compound | because ignorance is called a fetter and by related functional names |

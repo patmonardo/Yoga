@@ -16,20 +16,6 @@
 
 ## 3. Lexical Analysis
 
-
-```text
-tat-jāḥ                    → tajjāḥ
-ṣaṭ-vedanāḥ                → ṣaḍvedanāḥ
-pañca                      → pañca
-kāyikī                     → kāyikī
-caitasī                    → caitasī
-parā                       → parā
-punaḥ ca                   → punaś ca
-aṣṭādaśa-vidhā             → aṣṭādaśavidhā
-sā                         → sā
-manaḥ-upavicārataḥ         → manopavicārataḥ
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | tajjāḥ | nominative feminine plural; `tad` + `ja` | born from those, namely the six contacts of 3.30 |

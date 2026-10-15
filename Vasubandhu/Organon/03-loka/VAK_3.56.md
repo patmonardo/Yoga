@@ -18,21 +18,7 @@ are retained pending comparison with a critical edition.
 
 ## 3. Lexical Analysis
 
-```text
-dehāḥ                       → dehā
-videhāḥ                     → videhāḥ
-kuravaḥ                     → kuravaḥ
-kauravāḥ                    → kauravāś
-ca                          → c
-cāmarāḥ                     → cāmarā
-avarāḥ                      → avarāḥ
-aṣṭau                       → aṣṭau
-tat-antara-dvīpāḥ           → tadantaradvīpā
-gāṭhāḥ                      → gāṭhā
-uttara-mantriṇaḥ            → uttaramantriṇaḥ
-```
-
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | Dehāḥ | nominative masculine plural name-form | first intermediate island |
 | Videhāḥ | nominative masculine plural name-form | second intermediate island |

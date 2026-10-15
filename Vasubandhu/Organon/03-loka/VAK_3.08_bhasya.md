@@ -5,13 +5,15 @@
 > vijñānaṃ na sthitiḥ proktaṃ catuṣkoṭi tu saṃgrahe /
 > catasro yonayas tatra sattvānām aṇḍajādayaḥ // 3.08 //
 
-> Consciousness is not itself declared to be one of the four
-> supports; when inclusion is examined, however, the relation is
-> four-cornered. Within that three-Realm world, beings have four modes of
-> birth, beginning with egg-birth.
+> Differentiated cognition is not itself one of its four Base-stations:
+> it functions as seed, while the coexisting Bases function as its field.
+> The seven cognition-stations and the four Base-stations overlap through
+> four possible inclusion-relations. Within this three-Realm World System,
+> beings arise through four modes of birth: egg-born, womb-born,
+> moisture-born, and spontaneously arisen.
 
 The first half completes the relation between the seven cognition-stations
-and the four aggregate-supports. The second introduces a new axis: the manner
+and the four Base-supports. The second introduces a new axis: the manner
 in which sentient continuities arise. The Bhāṣya calls `yoni` a `jāti`, a kind
 or mode of birth, and groups beings through similarity of generation.
 
@@ -96,7 +98,7 @@ fragment, `vijñānaṃ na sthitiḥ proktam`, begins VAK 3.08 at 118.10.
 ## 3. Continuous Conventional Translation
 
 Why is consciousness not itself called a station of consciousness, whereas
-the seven stations include all five aggregates? Because a station is designated
+the seven stations include all five Bases? Because a station is designated
 apart from what stands upon it. The one that stands is not itself its seat,
 just as the king is not himself the royal throne. The Vaibhāṣikas say that
 the dharmas which consciousness mounts and by which it travels, like a boat
@@ -106,9 +108,9 @@ travel; therefore it is not included among the four.
 But what, then, of the sūtra statement: “When there is delight and craving for
 consciousness as nutriment, consciousness is established and has mounted
 there”? And how is it said that “the seven stations of consciousness are
-included within the five aggregates”?
+included within the five Bases”?
 
-In that case, when consciousness occurs with delight in the aggregates taken
+In that case, when consciousness occurs with delight in the Bases taken
 together, without distinction, within a birthplace, consciousness too belongs
 to a station of consciousness. But when the four are considered individually
 as form and the rest, each becomes a condition for the defilement of
@@ -129,9 +131,9 @@ seven, nor are the seven simply included within the four.
 “When inclusion is examined, the relation is four-cornered.” Four cases must
 be understood. Something may be included within the seven but not within the
 four, and so forth. The first corner is the consciousness occurring within the
-seven stations. The second is the aggregates other than consciousness, as
+seven stations. The second is the Bases other than consciousness, as
 present in the bad destinies, the fourth dhyāna, and the peak of existence.
-The third is the four support aggregate types, as applicable, within the
+The third is the four support Base types, as applicable, within the
 seven stations. The fourth is what remains after these cases are set aside.
 
 The three-Realm world described above as differentiated by destinies and the
@@ -181,7 +183,7 @@ the four supports considered individually, then adds the field-and-seed
 explanation. The remaining questions are expository.
 
 The commentary therefore does not merely state that cognition is seed and
-the other aggregates are field. It reaches that distinction through pressure
+the other Bases are field. It reaches that distinction through pressure
 upon a simpler account in which the bearer cannot be its own support.
 
 ## 5. Why Cognition Is Not Its Own Support
@@ -193,7 +195,7 @@ stands:
 vijñāna
     rider, voyager, or standing member
 
-four coexisting aggregates
+four coexisting Bases
     what it mounts
     what carries it
     its supports
@@ -201,14 +203,14 @@ four coexisting aggregates
 
 The king and royal seat analogy makes the asymmetry vivid. Yet the sūtra can
 speak of delight and craving in cognition itself and can include all five
-aggregates within the seven cognition-stations. The Bhāṣya consequently
+Bases within the seven cognition-stations. The Bhāṣya consequently
 distinguishes two scopes:
 
 ```text
-associated aggregates taken together within a birthplace
+associated Bases taken together within a birthplace
     cognition may be included in a cognition-station
 
-four aggregates considered individually as fields of cognition
+four Bases considered individually as fields of cognition
     cognition is not its own support
 ```
 
@@ -223,20 +225,20 @@ The second explanation assigns different functions:
 | Function | Member |
 |---|---|
 | seed | consciousness together with appropriation |
-| field | the four coexisting aggregates |
+| field | the four coexisting Bases |
 
-A seed is not the field for itself. The aggregates coexisting with cognition
+A seed is not the field for itself. The Bases coexisting with cognition
 are especially suited to function as its field, and so they are called its
 supports. The analogy establishes functional non-identity within a conditioned
 relation; it does not turn cognition into a permanent inner germ or the other
-aggregates into an independently existing container.
+Bases into an independently existing container.
 
 `Sopādānaṃ vijñānam` should remain “cognition together with appropriation.”
 The passage does not license translating `upādāna` as a substantial owner of
-the aggregates. Seed and field are explanatory roles occupied by conditioned
+the Bases. Seed and field are explanatory roles occupied by conditioned
 dharmas.
 
-The field account fits the earlier qualification `sāsrava`: these aggregates
+The field account fits the earlier qualification `sāsrava`: these Bases
 can serve as fields for consciousness under appropriation, delight, craving,
 and defilement. The Bhāṣya does not derive their with-outflow status from the
 seed-and-field analogy alone.
@@ -249,18 +251,18 @@ four propositions:
 | Corner | In the seven | In the four | Bhāṣya case |
 |---|---:|---:|---|
 | first | yes | no | cognition occurring within the seven cognition-stations |
-| second | no | yes | aggregates other than consciousness in bad destinies, fourth dhyāna, and peak of existence |
-| third | yes | yes | the four support aggregate types, where present, within the seven |
+| second | no | yes | Bases other than consciousness in bad destinies, fourth dhyāna, and peak of existence |
+| third | yes | yes | the four support Base types, where present, within the seven |
 | fourth | no | no | remaining cases after the preceding three are excluded |
 
 The two classifications overlap but neither simply contains the other. Their
 different membership follows from their different questions: the seven
 classify modes of existence in which cognition stands; the four classify the
-aggregate-fields supporting cognition.
+Base-fields supporting cognition.
 
-The second corner says `vijñānavarjyāḥ skandhāḥ`, aggregates other than
-consciousness. It must not be glossed as four aggregates in every excluded
-state: the formless peak of existence lacks the form aggregate. The same
+The second corner says `vijñānavarjyāḥ skandhāḥ`, Bases other than
+consciousness. It must not be glossed as four Bases in every excluded
+state: the formless peak of existence lacks the form Base. The same
 qualification applies to the third corner's four support types wherever a
 formless station is under consideration.
 
@@ -283,8 +285,8 @@ status and transition.
 ## 8. The Bhāṣya's Decisions for the Kārikā
 
 `Vijñānaṃ na sthitiḥ proktam` is restricted by context: cognition is not
-declared to be one of the four aggregate-supports, although it is included
-when all five aggregates constitute one of the seven cognition-stations. The
+declared to be one of the four Base-supports, although it is included
+when all five Bases constitute one of the seven cognition-stations. The
 translation makes this scope explicit.
 
 `Saṃgraha` means inclusion or extensional containment. `Catuṣkoṭi` names the
@@ -308,7 +310,7 @@ as self-supporting:
 ```text
 cognition as seed
     is established through
-coexisting aggregates as field
+coexisting Bases as field
 ```
 
 The two terms are inseparable within the process but not interchangeable in

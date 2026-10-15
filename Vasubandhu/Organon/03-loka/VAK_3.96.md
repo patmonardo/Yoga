@@ -19,21 +19,7 @@ by weapons. It must therefore be read as **without killing**, not as
 
 ## 3. Lexical Analysis
 
-```text
-eka-dvi-tri-catur-dvīpāḥ     → ekadvitricaturdvīpā
-na                           → na
-ca                           → ca
-dvau                         → dvau
-saha                         → saha
-buddha-vat                   → buddhavat
-pratyudyāna                  → pratyudyāna
-svayam-yāna                  → svayaṃyāna
-kalaha                       → kalaha
-astra-jitaḥ                  → astrajito (before a-)
-avadhāḥ                      → 'vadhāḥ (after avagraha)
-```
-
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | eka-dvi-tri-catur-dvīpāḥ | nominative masculine plural distributive compound | ruling respectively one, two, three, and four continents |
 | na ca dvau saha | negative clause with nominative dual | two do not occur simultaneously |

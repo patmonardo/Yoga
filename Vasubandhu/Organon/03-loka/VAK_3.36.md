@@ -16,24 +16,6 @@
 
 ## 3. Lexical Analysis
 
-
-```text
-uktam                       → uktaṃ
-ca                          → ca
-vakṣyate                    → vakṣyate
-ca anyat                    → cānyad
-atra                        → atra
-tu                          → tu
-kleśaḥ / kleśa              → kleśa
-iṣyate                      → iṣyate
-bīja-vat                    → bījavat
-nāga-vat                    → nāgavat
-mūla-vat                    → mūlavat
-vṛkṣa-vat                   → vṛkṣavat
-tuṣa-vat                    → tuṣavat
-tathā                       → tathā
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | uktaṃ | neuter nominative/accusative singular past passive participle | has been stated |

@@ -45,6 +45,7 @@ patterns without enforcing them. Add repeated `--require-section` or
 The paired-alignment test defaults to exact translation parity. Chapter 4
 uses prefix matching because its Bhāṣya anchors contain the paired translation
 while the Kārikā translation may continue with editorial study notes; override
-this with `--translation-match exact|prefix` when needed. The
-scientific-terminology regression module remains specific to the reviewed
-Dhātu studies and their controlled mappings.
+this with `--translation-match exact|prefix` when needed. For chapter 3, the
+test compares the quoted translation blocks and ignores explanatory prose
+following them. The scientific-terminology regression module remains specific
+to the reviewed Dhātu studies and their controlled mappings.

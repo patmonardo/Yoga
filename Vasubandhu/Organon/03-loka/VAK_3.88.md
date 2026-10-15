@@ -14,23 +14,7 @@
 
 ## 3. Lexical Analysis
 
-```text
-te                    → te
-aṣṭau                 → 'ṣṭau (after avagraha)
-yojanam               → yojanam
-iti                   → ity (before ā-)
-āhuḥ                  → āhur (before v-)
-viṃśam śatam          → viṃśaṃ ... śatam
-kṣaṇa-śatam           → kṣaṇaśatam
-punaḥ                 → punaḥ
-tat-kṣaṇaḥ            → tatkṣaṇas (before t-)
-te                    → te
-ṣaṣṭiḥ                → ṣaṣṭir (before l-)
-lavaḥ                 → lavas (before t-)
-triṃśat-guṇa-uttarāḥ  → triṃśadguṇottarāḥ
-```
-
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | te | nominative masculine plural | those preceding units, the krośas |
 | aṣṭau | cardinal numeral | eight |

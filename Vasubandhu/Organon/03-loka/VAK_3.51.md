@@ -14,21 +14,7 @@
 
 ## 3. Lexical Analysis
 
-```text
-ardha-ardha-hāniḥ           → ardhārdhahānir
-aṣṭāsu                      → aṣṭāsu
-sama-ucchrāya-ghanāḥ        → samocchrāyaghanāś
-ca                          → ca
-te                          → te
-śītāḥ                       → śītāḥ
-sapta                       → sapta
-antarāṇi                    → antarāṇy
-eṣām                        → eṣām
-ādyā                        → ādyā
-aśīti-sahasrikā             → aśītisahasrikā
-```
-
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | ardhārdhahāniḥ | nominative feminine singular compound | successive diminution by one half |
 | aṣṭāsu | locative feminine plural | across the eight [mountain heights] |

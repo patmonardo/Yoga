@@ -18,18 +18,7 @@ immediate metrical witness has an unstable form at this point.
 
 ## 3. Lexical Analysis
 
-```text
-vāhāt                         → vāhād (before v-)
-varṣa-śatena                 → varṣaśatena
-eka-tila-uddhāra             → ekatiloddhāra
-kṣaya-āyuṣaḥ                 → kṣayāyuṣaḥ
-arbudāt                      → arbudād (before v-)
-viṃśati-guṇa                 → viṃśatiguṇa
-prati-vṛddhi-āyuṣaḥ          → prativṛddhyāyuṣaḥ
-pare                         → pare
-```
-
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | vāhāt | ablative masculine singular | from a vāha-capacity filled with sesame seeds |
 | varṣaśatena | instrumental neuter singular | at an interval of one hundred years |

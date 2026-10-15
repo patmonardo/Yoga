@@ -14,18 +14,7 @@
 
 ## 3. Lexical Analysis
 
-```text
-saṃprajānan                 → saṃprajānan
-viśati + ekaḥ               → viśaty ekaḥ
-tiṣṭhati + api + aparaḥ     → tiṣṭhaty apy aparaḥ
-aparaḥ                      → aparaḥ
-niṣkrāmati + api            → niṣkrāmaty api
-sarvāṇi                     → sarvāṇi
-mūḍhaḥ + anyaḥ              → mūḍho 'nyaḥ
-nityam + aṇḍajaḥ            → nityam aṇḍajaḥ
-```
-
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | saṃprajānan | nominative masculine singular present participle | knowing clearly; clearly aware |
 | viśati | third-person singular present of √viś | enters |

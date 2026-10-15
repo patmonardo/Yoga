@@ -14,21 +14,7 @@
 
 ## 3. Lexical Analysis
 
-```text
-prāvṛṭ-māse                → prāvṛṇmāse
-dvitīye                    → dvitīye
-antya-navamyām             → 'ntyanavamyāṃ
-vardhate                   → vardhate
-niśā                       → niśā
-hemantānām                 → hemantānāṃ
-caturthe                   → caturthe
-tu                         → tu
-hīyate                     → hīyate
-ahaḥ                       → 'har
-viparyayāt                 → viparyayāt
-```
-
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | prāvṛṇmāse | locative masculine singular compound | in a rainy-season month |
 | dvitīye | locative singular ordinal | in the second month |

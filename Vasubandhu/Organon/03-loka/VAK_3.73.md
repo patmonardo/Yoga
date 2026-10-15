@@ -14,17 +14,7 @@
 
 ## 3. Lexical Analysis
 
-```text
-catur-dvīpaka-candra-arka-
-  meru-kāma-divaukasām     → caturdvīpakacandrārkamerukāmadivaukasām
-brahma-loka-sahasram       → brahmalokasahasraṃ
-ca                         → ca
-sāhasraḥ                   → sāhasraś
-cūḍikaḥ                    → cūḍiko
-mataḥ                      → mataḥ
-```
-
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | caturdvīpaka | compound member | four-continent world-unit |
 | candra | compound member | moon |

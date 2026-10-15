@@ -14,19 +14,7 @@
 
 ## 3. Lexical Analysis
 
-```text
-vijñāna-sthitayaḥ       → vijñānasthitayaḥ
-sapta                   → sapta
-śeṣam                   → śeṣam
-tat-paribheda-vat       → tatparibhedavat
-bhava-agra              → bhavāgra
-asaṃjñi-sattvāḥ + ca    → asaṃjñisattvāś ca
-sattva-āvāsāḥ           → sattvāvāsāḥ
-nava                    → nava
-smṛtāḥ                  → smṛtāḥ
-```
-
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | vijñāna-sthitayaḥ | nominative feminine plural compound | establishments or stations of differentiated cognition |
 | sapta | numeral | seven |
@@ -99,7 +87,7 @@ likewise makes explicit the Bhāṣya's several modes of `paribheda`.
 > The World System distinguishes mere abode from cognitive establishment.
 > Beings may dwell in a mode of existence without differentiated cognition
 > finding stable standing there. A cognition-station is a determinate
-> aggregate-field that sustains such cognition against disruption; an abode is
+> Base-field that sustains such cognition against disruption; an abode is
 > the broader condition in which a sentient continuity may reside.
 
 Thus World is not only the Cosmic Frame of dwelling. It also contains the
@@ -111,7 +99,7 @@ conditions under which cognition can stand, weaken, or be interrupted.
 |---|---|---|
 | vijñāna | differentiated cognition | domain-conditioned cognitive determination; not `citta`, `jñāna`, or `prajñā` |
 | sthiti | standing / establishment | stable establishment rather than mere occurrence or location |
-| vijñānasthiti | cognition-station | aggregate-field in which differentiated cognition can become established |
+| vijñānasthiti | cognition-station | Base-field in which differentiated cognition can become established |
 | śeṣa | remainder | bad destinies, fourth dhyāna, and peak of existence according to the Bhāṣya |
 | paribheda | disruption / breaking-apart | condition that injures, interrupts, or destabilizes differentiated cognition |
 | vijñānaparibheda | disruption of differentiated cognition | Bhāṣya compound explaining the exclusion criterion |
@@ -157,13 +145,13 @@ a cognition-station, the Bhāṣya answers:
 
 ```text
 in form-bearing cases
-    five associated aggregates
+    five associated Bases
 
 in formless cases
-    four associated aggregates
+    four associated Bases
 ```
 
-A cognition-station is the determinate aggregate-complex capable of sustaining
+A cognition-station is the determinate Base-complex capable of sustaining
 the establishment of `vijñāna`, rather than merely a population count.
 
 The exclusion criterion is functional:
@@ -200,7 +188,7 @@ The two scopes are therefore:
 ```text
 Vijñānasthiti
     narrower
-    aggregate-field sustaining differentiated cognition
+    Base-field sustaining differentiated cognition
 
 Sattvāvāsa
     broader
@@ -330,7 +318,7 @@ loka:NineSattvavasas a organon:BeingAbodeSystem ;
     organon:includesAdditionalMode loka:Bhavagra,
         loka:AsamjniSattva .
 
-organon:CognitionStation a organon:AggregateField ;
+organon:CognitionStation a organon:BaseField ;
     organon:sustains organon:DifferentiatedCognition ;
     organon:isNarrowerThan organon:BeingAbode .
 

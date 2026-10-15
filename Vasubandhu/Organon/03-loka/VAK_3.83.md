@@ -19,21 +19,7 @@ this point, but the intended temporal conversion is secure.
 
 ## 3. Lexical Analysis
 
-```text
-ardham                → ardhaṃ
-pratāpane             → pratāpane
-avīcau                → 'vīcau (after avagraha) → 'vīcāv (before a-)
-antar-kalpam          → antaḥkalpam
-param                 → param
-punaḥ                 → punaḥ
-kalpam                → kalpaṃ
-tiraścām              → tiraścāṃ
-pretānām              → pretānāṃ
-māsa-ahnā             → māsāhnā
-śata-pañcakam         → śatapañcakam
-```
-
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | ardham | nominative/accusative neuter singular | half, resolved as half an antarakalpa |
 | pratāpane | locative masculine singular | in the Pratāpana great naraka |

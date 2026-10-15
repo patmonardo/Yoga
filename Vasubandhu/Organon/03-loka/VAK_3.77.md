@@ -19,19 +19,7 @@ that governs the study translation below.
 
 ## 3. Lexical Analysis
 
-```text
-ardha-ardha-vṛddhiḥ      → ardhārdhavṛddhiḥ
-ūrdhvam                  → ūrdhvam
-tu                       → tu
-parītta-ābhebhyaḥ        → parīttābhebhyaḥ
-āśrayaḥ                  → āśrayaḥ
-dvi-guṇa-dvi-guṇāḥ       → dviguṇadviguṇāḥ
-hitvā                    → hitvā
-anabhrakebhyaḥ           → anabhrakebhyaḥ
-tri-yojanam              → triyojanam
-```
-
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | ardhārdhavṛddhiḥ | nominative feminine singular compound | increase by one half-unit at each step |
 | ūrdhvam | adverb | upward; at the levels above |

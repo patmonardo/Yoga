@@ -16,24 +16,6 @@
 
 ## 3. Lexical Analysis
 
-
-```text
-svaḥ                        → svo
-aṣṭa-ālambanam             → 'ṣṭālambanam
-ārūpyaḥ                    → ārūpyo
-dvayoḥ                     → dvayor
-dhyāna-dvaye               → dhyānadvaye
-tu                         → tu
-ṣaṭ                        → ṣaṭ
-kāmāḥ                      → kāmāḥ
-ṣaṇṇām                     → ṣaṇṇāṃ
-caturṇām                   → caturṇāṃ
-svaḥ                       → sva
-ekasya                     → ekasya
-ālambanam                  → ālambanam
-paraḥ                      → paraḥ
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | svaḥ | nominative masculine singular | their own realm, namely the form realm |

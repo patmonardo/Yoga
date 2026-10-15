@@ -14,16 +14,7 @@
 
 ## 3. Lexical Analysis
 
-```text
-garbha-avakrāntayaḥ                → garbhāvakrāntayaḥ
-tisraḥ + cakravartti-svayaṃbhuvām  → tisraś cakravartti-svayaṃbhuvām
-karma-jñāna-ubhayeṣām              → karma-jñānobhayeṣām
-vā                                 → vā
-viśadatvāt                         → viśadatvāt
-yathā-kramam                       → yathākramam
-```
-
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | garbhāvakrāntayaḥ | nominative feminine plural | descents or entries into the womb |
 | tisraḥ | nominative feminine plural numeral | three |

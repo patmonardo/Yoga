@@ -14,21 +14,7 @@
 
 ## 3. Lexical Analysis
 
-```text
-vijñānam             → vijñānam
-na                   → na
-sthitiḥ              → sthitiḥ
-proktam              → proktam
-catuṣ-koṭi           → catuṣ-koṭi
-tu                   → tu
-saṃgrahe             → saṃgrahe
-catasraḥ yonayaḥ     → catasro yonayaḥ
-tatra                → tatra
-sattvānām            → sattvānām
-aṇḍaja-ādayaḥ        → aṇḍajādayaḥ
-```
-
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | vijñānam | nominative neuter singular | differentiated cognition; here the `vijñāna-skandha` |
 | na | negation | not |
@@ -45,7 +31,7 @@ aṇḍaja-ādayaḥ        → aṇḍajādayaḥ
 
 `Catuṣkoṭi` here does not introduce a metaphysical tetralemma. The Bhāṣya
 defines it as a four-way inclusion analysis between the seven cosmological
-cognition-stations and the four aggregate-stations.
+cognition-stations and the four Base-stations.
 
 ## 4. Grammar
 
@@ -58,7 +44,7 @@ vijñānam
 ```
 
 Differentiated cognition is not declared to be a fifth station alongside the
-four with-outflow aggregates.
+four with-outflow Bases.
 
 The contrastive clause specifies the relation between the seven and the four:
 
@@ -72,8 +58,8 @@ When their inclusion is examined, four cases arise:
 | Corner | Included in seven | Included in four | Bhāṣya case |
 |---|---:|---:|---|
 | 1 | yes | no | `vijñāna` occurring within the seven cognition-stations |
-| 2 | no | yes | the other four aggregates in bad destinies, fourth dhyāna, and bhavāgra |
-| 3 | yes | yes | the four aggregates occurring within the seven cognition-stations |
+| 2 | no | yes | the other four Bases in bad destinies, fourth dhyāna, and bhavāgra |
+| 3 | yes | yes | the four Bases occurring within the seven cognition-stations |
 | 4 | no | no | the remaining cases after the first three are set aside |
 
 The second half then opens a new determination of the already articulated
@@ -100,21 +86,21 @@ moisture-born, and spontaneously arisen.
 
 ### Bhāṣya-informed study translation
 
-> Differentiated cognition is not itself one of its four aggregate-stations:
-> it functions as seed, while the coexisting aggregates function as its field.
-> The seven cognition-stations and the four aggregate-stations overlap through
+> Differentiated cognition is not itself one of its four Base-stations:
+> it functions as seed, while the coexisting Bases function as its field.
+> The seven cognition-stations and the four Base-stations overlap through
 > four possible inclusion-relations. Within this three-Realm World System,
 > beings arise through four modes of birth: egg-born, womb-born,
 > moisture-born, and spontaneously arisen.
 
-Seed, field, coexisting aggregates, the contents of the four corners, and the
+Seed, field, coexisting Bases, the contents of the four corners, and the
 full birth-mode list are Bhāṣya determinations rather than words supplied by
 the Kārikā itself.
 
 ## 6. Philosophical Translation
 
 > Differentiated cognition cannot provide its own footing. It is established
-> through a field of coexisting aggregate-relations and therefore cannot count
+> through a field of coexisting Base-relations and therefore cannot count
 > as its own station. Once the exact overlap of cognition and field has been
 > determined, the World System passes from standing to generation: sentient
 > continuities arise through four determinate modes of birth.
@@ -133,9 +119,9 @@ How does a sentient continuity enter World?
 
 | Sanskrit | Controlled rendering | Determination in this unit |
 |---|---|---|
-| vijñāna | differentiated cognition | seed relative to the coexisting aggregates that function as its field |
+| vijñāna | differentiated cognition | seed relative to the coexisting Bases that function as its field |
 | sthiti | standing / establishment / station | supporting establishment; cognition is not its own station |
-| kṣetra | field | Bhāṣya term for the four coexisting aggregates as stations of cognition |
+| kṣetra | field | Bhāṣya term for the four coexisting Bases as stations of cognition |
 | bīja | seed | Bhāṣya term for `vijñāna` together with appropriation relative to its field |
 | sopādāna vijñāna | cognition together with appropriation | the seed-side of the Bhāṣya's field-and-seed relation |
 | sahavartin | coexisting | dharmas concurrently related to cognition and suited to serve as its field |
@@ -187,10 +173,10 @@ The four-corner inclusion analysis proves:
 
 ```text
 SevenCognitionStations
-    ≠ FourAggregateStations
+    ≠ FourBaseStations
 
 SevenCognitionStations
-    overlaps FourAggregateStations
+    overlaps FourBaseStations
     without containing or being contained by it without remainder
 ```
 
@@ -283,7 +269,7 @@ PRAJNA
     becomes differentiated as vijñāna
 
 vijñāna
-    stands only through an aggregate-field
+    stands only through a Base-field
 
 birth-mode
     instantiates the embodied field
@@ -313,12 +299,12 @@ vak:VAK_3_08 a vak:Karika ;
 
 organon:SeedFieldRelation a organon:RelationalSchema ;
     organon:hasSeed organon:DifferentiatedCognitionWithAppropriation ;
-    organon:hasField abhi:FourWithOutflowAggregates ;
+    organon:hasField abhi:FourWithOutflowBases ;
     organon:prohibits organon:SeedAsItsOwnField .
 
 organon:FourCornerInclusion a organon:InclusionSchema ;
     organon:relates loka:SevenVijnanaSthitis,
-        abhi:FourAggregateStations ;
+        abhi:FourBaseStations ;
     organon:hasCorner organon:SevenOnly,
         organon:FourOnly,
         organon:Both,
@@ -339,7 +325,7 @@ loka:SpontaneouslyArisen
 
 organon:EmbodiedInstantiationSchema a organon:ProjectLevelSchema ;
     organon:requires organon:BirthMode,
-        organon:AggregateField,
+        organon:BaseField,
         organon:DifferentiatedCognition,
         organon:WorldPosition .
 ```

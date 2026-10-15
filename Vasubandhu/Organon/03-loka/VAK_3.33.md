@@ -16,20 +16,6 @@
 
 ## 3. Lexical Analysis
 
-
-```text
-kāme                       → kāme
-sva-ālambanāḥ              → svālambanāḥ
-sarve                      → sarve
-rūpī                       → rūpī
-dvādaśa-gocaraḥ            → dvādaśagocaraḥ
-trayāṇām                   → trayāṇām
-uttaraḥ                    → uttaraḥ
-dhyāna-dvaye               → dhyānadvaye
-dvādaśa                    → dvādaśa
-kāma-gāḥ                   → kāmagāḥ
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | kāme | locative singular of `kāma` | in the desire realm |

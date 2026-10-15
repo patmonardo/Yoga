@@ -14,18 +14,6 @@
 
 ## 3. Lexical Analysis
 
-```text
-saḥ                     → sa
-pratītya-samutpādaḥ     → pratītyasamutpādaḥ
-dvādaśa-aṅgaḥ           → dvādaśāṅgaḥ
-tri-kāṇḍakaḥ            → trikāṇḍakaḥ
-pūrva-apara-antayoḥ     → pūrvāparāntayoḥ
-dve dve                 → dve dve
-madhye                  → madhye
-aṣṭau                   → aṣṭau
-paripūriṇaḥ             → paripūriṇaḥ
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | saḥ | nominative masculine singular pronoun | that; the Bhāṣya supplies the previously described Base-continuum as its antecedent |

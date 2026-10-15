@@ -21,19 +21,6 @@ prādhānyāt + tu       → prādhānyāt tv
 
 ## 3. Lexical Analysis
 
-```text
-āvasthikaḥ             → āvasthikaḥ
-kila                    → kila
-iṣṭaḥ                  → iṣṭaḥ
-ayam                    → ayam
-prādhānyāt             → prādhānyāt
-tu                      → tu
-aṅga-kīrtanam          → aṅgakīrtanam
-pūrva-apara-anta       → pūrvāparānta
-madhyeṣu               → madhyeṣu
-saṃmoha-vinivṛttaye    → saṃmohavinivṛttaye
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | āvasthikaḥ | nominative masculine singular adjective | stage-based; consisting in complex five-Base stages |

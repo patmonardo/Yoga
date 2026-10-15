@@ -5,9 +5,10 @@
 > ekākṣepād asāv aiṣyatpūrvakālabhavākṛtiḥ /
 > sa punar maraṇāt pūrva upapattikṣaṇāt paraḥ // 3.13 //
 
-> Through one and the same projection, this intermediate existence has the
-> form of the coming prior-time existence. That prior-time existence, in turn,
-> is after the moment of rebirth and before death.
+> The same karma projects both a destiny and the intermediate existence that
+> leads to it; consequently the intermediate being already bears the form of
+> the life-phase that will arise in that destiny. This `pūrvakālabhava` extends
+> from after the rebirth-junction until before the final death-moment.
 
 The pronoun changes referent across the verse. `Asau` denotes intermediate
 existence; `saḥ` resumes `pūrvakālabhava`, the embodied life-phase after the
@@ -151,7 +152,7 @@ predominates in the Desire Realm.
 
 What, then, is this prior-time existence? “That, in turn, is after the moment
 of rebirth and before death.” Existence in general means the five appropriated
-aggregates, and it is divided fourfold. Intermediate existence is as already
+Bases, and it is divided fourfold. Intermediate existence is as already
 explained. Rebirth-existence is the junction-moment within the destinies. All
 existence after that, apart from the death-moment, is prior-time existence.
 The final moment is death-existence; after it, intermediate existence arises
@@ -240,7 +241,7 @@ naked. These are Bhāṣya determinations, not words of the Kārikā.
 
 ## 7. Four Temporal Functions of Existence
 
-The Bhāṣya defines `bhava` generally as the five appropriated aggregates and
+The Bhāṣya defines `bhava` generally as the five appropriated Bases and
 divides it according to temporal function:
 
 | Phase | Determination |
@@ -261,7 +262,7 @@ rebirth-junction
 ```
 
 What occupies these functions is not an enduring self but the conditioned
-series of appropriated aggregates. The distinction is temporal and causal,
+series of appropriated Bases. The distinction is temporal and causal,
 not a division into four separate entities.
 
 ## 8. The Bhāṣya's Decisions for the Kārikā
@@ -320,7 +321,7 @@ performs this discrimination; the Organon need not impose it from outside.
 
 For the present translation pass, the secure gain is limited and strong: one
 karmic projection coordinates transition and destination, and the four
-existence-phases are functions of an aggregate-continuity. A deeper account of
+existence-phases are functions of a Base-continuity. A deeper account of
 embodiment and symbolic appearance belongs to the later learning pass.
 
 ## 10. Review Status

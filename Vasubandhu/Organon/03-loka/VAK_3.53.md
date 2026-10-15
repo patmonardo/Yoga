@@ -14,21 +14,7 @@
 
 ## 3. Lexical Analysis
 
-```text
-lakṣa-trayam                → lakṣatrayam
-sahasrāṇi                   → sahasrāṇi
-viṃśatiḥ                    → viṃśatir
-dve                         → dve
-ca                          → ca
-tatra                       → tatra
-tu                          → tu
-jambū-dvīpaḥ                → jambūdvīpo
-dvi-sāhasraḥ                → dvisāhasras
-tri-pārśvaḥ                 → tripārśvaḥ
-śakaṭa-ākṛtiḥ               → śakaṭākṛtiḥ
-```
-
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | lakṣatrayam | neuter singular numerical compound | three hundred-thousands |
 | sahasrāṇi | neuter plural | thousands |

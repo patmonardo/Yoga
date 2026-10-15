@@ -14,18 +14,7 @@
 
 ## 3. Lexical Analysis
 
-```text
-tatra                       → tatra
-bhājana-lokasya             → bhājanalokasya
-saṃniveśam                  → saṃniveśam
-uśanti                      → uśanty
-adhaḥ                       → adhaḥ
-lakṣa-ṣoḍaśaka-udvedham     → lakṣaṣoḍaśakodvedham
-asaṃkhyam                   → asaṃkhyam
-vāyu-maṇḍalam               → vāyumaṇḍalam
-```
-
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | tatra | indeclinable | there; in the newly announced account |
 | bhājanalokasya | genitive singular compound | of the container-world |

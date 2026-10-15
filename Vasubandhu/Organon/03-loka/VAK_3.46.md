@@ -14,20 +14,7 @@
 
 ## 3. Lexical Analysis
 
-```text
-apām                         → apām
-ekādaśa-udvedham             → ekādaśodvedham
-sahasrāṇi                    → sahasrāṇi
-ca                           → ca
-viṃśatiḥ                     → viṃśatiḥ
-aṣṭa-lakṣa-ucchrayam         → aṣṭalakṣaucchrayaṃ
-paścāt                       → paścāc
-śeṣam                        → śeṣam
-bhavati                      → bhavati
-kāñcanam                     → kāñcanam
-```
-
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | apām | genitive plural of `ap` | of the waters; of the water-maṇḍala |
 | ekādaśa | cardinal number | eleven; the Bhāṣya supplies `lakṣas` |

@@ -2,7 +2,7 @@
 
 ## 1. Kārikā Anchor
 
-> ārūpyadhātur asthānaḥ upapattyā caturvidhaḥ /
+> ārūpyadhāturasthānaḥ upapattyā caturvidhaḥ /
 > nikāyaṃ jīvitaṃ cātra niśritā cittasantatiḥ // 3.03 //
 
 > The Formless Realm has no spatial station, yet it is fourfold according to

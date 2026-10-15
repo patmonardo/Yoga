@@ -14,19 +14,7 @@
 
 ## 3. Lexical Analysis
 
-```text
-naraka-ādi-sva-nāma-uktāḥ → narakādi-svanāmoktāḥ
-gatayaḥ                    → gatayaḥ
-pañca                      → pañca
-teṣu                       → teṣu
-tāḥ                        → tāḥ
-akliṣṭa-avyākṛtāḥ         → akliṣṭāvyākṛtāḥ
-eva                        → eva
-sattva-ākhyāḥ              → sattvākhyāḥ
-na antarā-bhavaḥ           → nāntarābhavaḥ
-```
-
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | narakādi-svanāmoktāḥ | nominative feminine plural compound | called by their own names beginning with naraka |
 | gatayaḥ | nominative feminine plural of `gati` | destinies, courses of rebirth |
@@ -88,7 +76,7 @@ five destinies; it does not deny intermediate existence.
 
 The explicit five-member enumeration, “resultant,” and “non-obscured” are
 Bhāṣya determinations. “Resultant configuration” anticipates the cited account
-in which karmically matured aggregates receive the designation of a being; it
+in which karmically matured Bases receive the designation of a being; it
 does not translate a single word of the Kārikā.
 
 ## 6. Philosophical Translation
@@ -110,7 +98,7 @@ the transition between positions, and the designation applied to the result.
 | akliṣṭa | unafflicted | the destiny is not itself an affliction, even when its karmic cause was afflicted |
 | avyākṛta | indeterminate | not itself ethically productive as wholesome or unwholesome |
 | anivṛtāvyākṛta | non-obscured indeterminate | Bhāṣya precision for the status of a destiny |
-| sattva-ākhya | designated as a being | conventional designation applied to a resultant aggregate-configuration |
+| sattva-ākhya | designated as a being | conventional designation applied to a resultant Base-configuration |
 | karmabhava | karmic becoming | causal activity producing a destiny; introduced through the Bhāṣya's sūtra citation |
 | antarābhava | intermediate existence / intermediate becoming | transition between established destinies; a `bhava` but not a `gati` |
 | vipāka | maturation-result | resultant dharmas upon which a destiny-designation is imposed |
@@ -139,7 +127,7 @@ Generating cause
 Transition between result-positions
     antarābhava
 
-Designation of a resultant aggregate-complex
+Designation of a resultant Base-complex
     sattva
 ```
 
@@ -162,7 +150,7 @@ vipāka-dharmas
     receive the designation sattva
 ```
 
-The Bhāṣya's Śāriputra citation is decisive: once the five aggregates ripen as
+The Bhāṣya's Śāriputra citation is decisive: once the five Bases ripen as
 the relevant result, the designation “hell-being” applies, but no hell-being
 is found apart from those dharmas. The citation establishes the conditions
 under which the designation applies.

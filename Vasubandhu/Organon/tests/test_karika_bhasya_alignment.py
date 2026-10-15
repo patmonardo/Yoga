@@ -83,10 +83,22 @@ def normalized_block(text: str) -> str:
     )
 
 
+def quoted_block(text: str) -> str:
+    return normalized_block(
+        "\n".join(
+            line for line in text.splitlines() if line.strip().startswith(">")
+        )
+    )
+
+
 def anchor_translation(anchor: str, chapter: int, verse: int) -> str:
     explicit = subsection(anchor, "Bhāṣya-informed study translation")
     if explicit:
-        return normalized_block(explicit)
+        return (
+            quoted_block(explicit)
+            if chapter == 3
+            else normalized_block(explicit)
+        )
 
     marker = re.search(rf"//\s*{chapter}\.0?{verse}\s*//", anchor)
     if not marker:
@@ -119,7 +131,10 @@ class KarikaBhasyaAlignmentTests(unittest.TestCase):
             anchor = section(
                 bhasya, r"^## 1\. Kārikā Anchor\s*$"
             )
-            informed_translation = normalized_block(informed_translation)
+            if CHAPTER == 3:
+                informed_translation = quoted_block(informed_translation)
+            else:
+                informed_translation = normalized_block(informed_translation)
             anchor_translation_text = anchor_translation(
                 anchor, CHAPTER, verse
             )

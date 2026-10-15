@@ -18,21 +18,7 @@ immeasurable duration down to eighty thousand years, never below that limit.
 
 ## 3. Lexical Analysis
 
-```text
-cakravarti-samutpattiḥ    → cakravartisamutpattir (before n-)
-na                        → na
-adhaḥ                     → adho (before vowel)
-aśīti-sahasrakāt          → 'śītisahasrakāt (after avagraha)
-suvarṇa                   → suvarṇa
-rūpya                     → rūpya
-tāmra                     → tāmra
-ayaḥ                      → ayaś (before c-)
-cakriṇaḥ                  → cakriṇas (before t-)
-te                        → te
-adhara-kramāt             → 'dharakramāt (after avagraha)
-```
-
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | cakravarti-samutpattiḥ | nominative feminine singular compound | arising of a wheel-turning sovereign |
 | na adhaḥ | negative plus adverb | not below |

@@ -20,22 +20,7 @@ days.
 
 ## 3. Lexical Analysis
 
-```text
-kalpasya                    → kalpasya
-śastra-roga-ābhyām          → śastrarogābhyāṃ
-durbhikṣeṇa                 → durbhikṣeṇa
-ca                          → ca
-nirgamaḥ                    → nirgamaḥ
-divasān                     → divasān
-sapta                       → sapta
-māsān                       → māsāṃś (before c-)
-ca                          → ca
-varṣāṇi                     → varṣāṇi
-ca                          → ca
-yathā-kramam                → yathākramam
-```
-
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | kalpasya | genitive masculine singular | of the kalpa, resolved as antarakalpa by the Bhāṣya |
 | śastrarogābhyām | instrumental dual | through weapon-calamity and disease-calamity |

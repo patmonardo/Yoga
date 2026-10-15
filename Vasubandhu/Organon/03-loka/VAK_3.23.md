@@ -16,19 +16,6 @@ The Bhāṣya identifies *vittiḥ* as the stage of Feeling.
 
 ## 3. Lexical Analysis
 
-```text
-vittiḥ                  → vittiḥ
-prāk                    → prāk
-maithunāt               → maithunāt
-tṛṣṇā                   → tṛṣṇā
-bhoga-maithuna-rāgiṇaḥ  → bhogamaithunarāgiṇaḥ
-upādānam                → upādānam
-tu                      → tu
-bhogānām                → bhogānām
-prāptaye                → prāptaye
-paridhāvataḥ            → paridhāvataḥ
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | vittiḥ | nominative feminine singular | Feeling; the Bhāṣya identifies it as the Feeling-stage |

@@ -22,16 +22,7 @@ source decision, not a silent normalization.
 
 ## 3. Lexical Analysis
 
-```text
-nānātva-kāya-saṃjñāḥ + ca → nānātvakāyasaṃjñāś ca
-nānā-kāya-eka-saṃjñinaḥ   → nānākāyaikasaṃjñinaḥ
-viparyayāt + ca            → viparyayāc ca
-eka-kāya-saṃjñāḥ           → ekakāyasaṃjñāḥ
-ca + ārūpiṇaḥ              → cārūpiṇaḥ
-trayaḥ                     → trayaḥ
-```
-
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | nānātva-kāya-saṃjñāḥ | nominative plural compressed expression | those having diversity of body and perception |
 | nānā-kāya-eka-saṃjñinaḥ | nominative masculine plural compound | those having diverse bodies and one perception |

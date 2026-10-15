@@ -14,19 +14,7 @@
 
 ## 3. Lexical Analysis
 
-```text
-madhye                     → madhye
-sārdha-dvi-sāhasra-pārśvam → sārdhadvisāhasrapārśvam
-adhyardha-yojanam          → adhyardhayojanam
-puram                      → puraṃ
-sudarśanam                 → sudarśanaṃ
-nāma                       → nāma
-haimam                     → haimaṃ
-citra-talam                → citratalaṃ
-mṛdu                       → mṛdu
-```
-
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | madhye | locative neuter singular | in the center, namely of Meru's summit |
 | sārdhadvisāhasrapārśvam | nominative neuter singular compound | having each side measure two thousand five hundred |

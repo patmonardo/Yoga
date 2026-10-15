@@ -16,18 +16,6 @@
 
 ## 3. Lexical Analysis
 
-
-```text
-tuṣi-taṇḍula-vat            → tuṣitaṇḍulavat
-karma                       → karma
-tathā eva                   → tathaiva
-auṣadhi-puṣpa-vat           → auṣadhipuṣpavat
-siddha-anna-pāna-vat        → siddhānnapānavat
-vastu                       → vastu
-tasmin                      → tasmin
-bhava-catuṣṭaye             → bhavacatuṣṭaye
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | tuṣitaṇḍulavat | indeclinable comparative compound | like a rice grain enclosed in its husk |

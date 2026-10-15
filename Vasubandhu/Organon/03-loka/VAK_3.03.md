@@ -14,18 +14,7 @@
 
 ## 3. Lexical Analysis
 
-```text
-ārūpya-dhātuḥ + asthānaḥ → ārūpya-dhātur asthānaḥ
-upapattyā                  → upapattyā
-catur-vidhaḥ               → catur-vidhaḥ
-nikāyam                    → nikāyam
-jīvitam                    → jīvitam
-ca + atra                  → cātra
-niśritā                    → niśritā
-citta-santatiḥ             → citta-santatiḥ
-```
-
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | ārūpya-dhātuḥ | nominative masculine singular compound | Formless Realm |
 | asthānaḥ | nominative masculine singular adjective, `a-` + `sthāna` | without station |

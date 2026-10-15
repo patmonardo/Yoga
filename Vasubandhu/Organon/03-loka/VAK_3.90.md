@@ -18,17 +18,7 @@ expansion complementary intervals with opposite boundary events.
 
 ## 3. Lexical Analysis
 
-```text
-saṃvarta-kalpaḥ       → saṃvartakalpaḥ → saṃvartakalpo (before n-)
-naraka-asaṃbhavāt     → narakāsaṃbhavād (before bh-)
-bhājana-kṣayaḥ        → bhājanakṣayaḥ
-vivarta-kalpaḥ        → vivartakalpaḥ
-prāk-vāyoḥ            → prāgvāyoḥ
-yāvat                 → yāvan (before n-)
-naraka-saṃbhavaḥ      → narakasaṃbhavaḥ
-```
-
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | saṃvartakalpaḥ | nominative masculine singular compound | kalpa defined by ordered contraction |
 | narakāsaṃbhavāt | ablative masculine singular compound | from cessation of new arising in the narakas |

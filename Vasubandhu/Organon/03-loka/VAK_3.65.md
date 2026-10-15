@@ -14,20 +14,7 @@
 
 ## 3. Lexical Analysis
 
-```text
-meru-mūrdhni               → merumūrdhni
-trayastriṃśāḥ              → trayastriṃśāḥ
-saḥ                        → sa
-ca                         → ca
-aśīti-sahasra-dik          → cāśītisahasradik
-vidikṣu                    → vidikṣu
-kūṭāḥ                      → kūṭāś
-catvāraḥ                   → catvāra
-uṣitāḥ                     → uṣitā
-vajra-pāṇibhiḥ             → vajrapāṇibhiḥ
-```
-
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | merumūrdhni | locative singular of compound with `mūrdhan` | on the summit or crown of Meru |
 | trayastriṃśāḥ | nominative masculine plural | the Trāyastriṃśas, the Thirty-Three gods |

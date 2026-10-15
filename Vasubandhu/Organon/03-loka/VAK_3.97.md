@@ -19,20 +19,7 @@ a new genetic exposition of the Human World. The Bhāṣya fixes `rūpivat` as
 
 ## 3. Lexical Analysis
 
-```text
-deśa-stha-uttapta-pūrṇatvaiḥ  → deśasthottaptapūrṇatvair (before l-)
-lakṣaṇa-atiśayaḥ              → lakṣaṇātiśayo (before m-)
-muneḥ                          → muneḥ
-prāk                           → prāg (before vowel)
-āsan                           → āsan
-rūpi-vat                       → rūpivat
-sattvāḥ                        → sattvā (before r-)
-rasa-rāgāt                     → rasarāgāt
-tataḥ                          → tataḥ
-śanaiḥ                         → śanaiḥ
-```
-
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | deśastha | compound member | situated in the proper place |
 | uttapta | compound member | intensely or vividly manifest, not merely clear |

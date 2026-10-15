@@ -14,18 +14,7 @@
 
 ## 3. Lexical Analysis
 
-```text
-tat-sahasram               → tatsahasraṃ
-dvi-sāhasraḥ               → dvisāhasro
-loka-dhātuḥ                → lokadhātus
-tu                         → tu
-madhyamaḥ                  → madhyamaḥ
-tat-sahasram               → tatsahasraṃ
-tri-sāhasraḥ               → trisāhasraḥ
-sama-saṃvarta-saṃbhavaḥ    → samasaṃvartasaṃbhavaḥ
-```
-
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | tatsahasram | nominative neuter singular compound | one thousand of that immediately preceding aggregate |
 | dvisāhasraḥ | nominative masculine singular | second-order thousandfold |

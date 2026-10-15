@@ -23,22 +23,7 @@ the Sanskrit witness.
 
 ## 3. Lexical Analysis
 
-```text
-saḥ                     → sa
-bhaviṣyat               → bhaviṣyat
-bhava-phalam            → bhavaphalam
-kurute                  → kurute
-karma                   → karma
-tat                     → tad
-bhavaḥ                  → bhavaḥ
-prati-saṃdhiḥ           → pratisaṃdhiḥ
-punaḥ                   → punar
-jātiḥ                   → jātiḥ
-jarā-maraṇam            → jarāmaraṇam
-ā vidaḥ                 → ā vidaḥ [uncertain witness]
-```
-
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | saḥ | nominative masculine singular pronoun | the one pursuing Conditions in 3.23 |
 | bhaviṣyat | future active participial form used in compound relation | future; forthcoming |

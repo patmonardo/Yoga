@@ -5,10 +5,10 @@
 > narakādisvanāmoktā gatayaḥ pañca teṣu tāḥ /
 > akliṣṭāvyākṛtā eva sattvākhyā nāntarābhavaḥ // 3.04 //
 
-> Within those Realms are five destinies, called by their own names beginning
-> with hell. According to the Vaibhāṣika determination, they are exclusively
-> unafflicted and indeterminate, designated as beings; intermediate existence
-> is not a destiny.
+> Within the three Realms are five destinies—hell, animal, preta, deva, and
+> human. They are resultant, non-obscured indeterminate configurations
+> designated as beings. Intermediate existence is not itself one of these
+> destinies.
 
 The qualification “according to the Vaibhāṣika determination” is required by
 the complete commentary. The Bhāṣya first argues that the destinies are
@@ -256,7 +256,7 @@ karma-existence, from them.
 The Kāśmīras also recite a discourse attributed to the elder Śāriputra. When
 one produces and accumulates karma to be experienced in hell through the
 manifestation of the relevant influxes and through the crookedness, faults,
-and impurities of body, speech, and mind, the five aggregates mature in the
+and impurities of body, speech, and mind, the five Bases mature in the
 hells as result. Once the result has arisen, one receives the designation
 “hell-being”; yet no hell-being is apprehended apart from those dharmas. This
 too is taken to prove that the destinies are exclusively non-obscured
@@ -288,8 +288,8 @@ What, then, of Śāriputra's statement that once the result has arisen one
 receives the designation “hell-being”? It says “when the result has arisen,”
 not “the result alone.” And what of the claim that no hell-being is apprehended
 apart from those dharmas? It denies a substantial person who travels toward a
-destiny: no hell-being is apprehended apart from the aggregates. It does not
-deny the inclusion of other aggregates.
+destiny: no hell-being is apprehended apart from the Bases. It does not
+deny the inclusion of other Bases.
 
 The Vaibhāṣikas, however, maintain that the destinies are exclusively
 indeterminate. Some say that they consist only in maturation-result; others
@@ -377,7 +377,7 @@ classification.
 
 `Sattvākhyā` does not establish a substance called a being behind the relevant
 dharmas. In the cited formula, the designation “hell-being” applies when the
-corresponding aggregates have arisen as karmic result, and no such being is
+corresponding Bases have arisen as karmic result, and no such being is
 found apart from the dharmas. The text determines a rule of designation upon
 a resultant complex, not an independent bearer separable from it.
 
@@ -400,9 +400,9 @@ this cause-result distinction.
 The alternate view denies that separate enumeration proves exclusion and
 allows wholesome or afflicted dharmas within a destiny. It also rereads the
 Śāriputra citation: “when the result has arisen” does not say “the result
-alone,” and denial of a hell-being apart from the aggregates rules out a
+alone,” and denial of a hell-being apart from the Bases rules out a
 substantial transmigrating person, not necessarily every non-resultant member
-of the aggregate series.
+of the Base series.
 
 The attempted definition of `gati` as a destination also encounters the
 formless case, where rebirth arises at the place of death. The more successful
@@ -463,7 +463,7 @@ destiny
     resultant placement
 
 “being”
-    designation upon the determinate aggregate-complex
+    designation upon the determinate Base-complex
 ```
 
 The critical achievement is not the multiplication of worlds but the

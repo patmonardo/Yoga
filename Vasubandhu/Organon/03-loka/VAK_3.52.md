@@ -14,23 +14,7 @@
 
 ## 3. Lexical Analysis
 
-```text
-ābhyantaraḥ                 → ābhyantaraḥ
-samudraḥ                    → samudro
-asau                        → 'sau
-tri-guṇaḥ                   → triguṇaḥ
-saḥ                         → sa
-tu                          → tu
-pārśvataḥ                   → pārśvataḥ
-ardha-ardhena               → ardhārdhena
-aparāḥ                      → aparāḥ
-śītāḥ                       → śītāḥ
-śeṣam                       → śeṣam
-bāhyaḥ                      → bāhyo
-mahā-udadheḥ                → mahodadheḥ
-```
-
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | ābhyantaraḥ | nominative masculine singular | inner, internal |
 | samudraḥ | nominative masculine singular | sea, ocean |

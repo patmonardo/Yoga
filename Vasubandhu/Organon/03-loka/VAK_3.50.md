@@ -18,20 +18,7 @@ refer only to Meru.
 
 ## 3. Lexical Analysis
 
-```text
-catū-ratna-mayaḥ            → catūratnamayo
-meruḥ                       → merur
-jale                        → jale
-aśīti-sahasrake             → 'śītisahasrake
-magnāḥ                      → magnāḥ
-ūrdhvam                     → ūrdhvaṃ
-jalāt                       → jalān
-meruḥ                       → merur
-bhūyaḥ                      → bhūyo
-aśīti-sahasrakaḥ            → 'śītisahasrakaḥ
-```
-
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | catū-ratna-mayaḥ | nominative masculine singular compound | made of four precious substances |
 | meruḥ | nominative masculine singular | Meru, central mountain |

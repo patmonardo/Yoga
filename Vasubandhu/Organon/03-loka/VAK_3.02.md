@@ -14,19 +14,7 @@
 
 ## 3. Lexical Analysis
 
-```text
-ūrdhvam                → ūrdhvam
-saptadaśa-sthānaḥ      → saptadaśa-sthānaḥ
-rūpa-dhātuḥ            → rūpa-dhātuḥ
-pṛthak pṛthak          → pṛthak pṛthak
-dhyānam                → dhyānam
-tri-bhūmikam           → tri-bhūmikam
-tatra                  → tatra
-caturtham              → caturtham
-tu aṣṭa-bhūmikam       → tv aṣṭa-bhūmikam
-```
-
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | ūrdhvam | adverbial accusative / indeclinable use of `ūrdhva` | above, upward from the Desire Realm |
 | saptadaśa-sthānaḥ | nominative masculine singular possessive compound | having seventeen stations |

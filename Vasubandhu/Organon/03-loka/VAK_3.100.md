@@ -20,20 +20,7 @@ indestructible material seed.
 
 ## 3. Lexical Analysis
 
-```text
-saṃvartanyaḥ               → saṃvartanyaḥ
-punaḥ                      → punas (before t-)
-tisraḥ                     → tisro (before bh-)
-bhavanti                   → bhavanty (before vowel)
-agni-ambu-vāyubhiḥ         → agnyambuvāyubhiḥ
-dhyāna-trayam              → dhyānatrayam
-dvitīya-ādi                → dvitīyādi
-śīrṣa                      → śīrṣa
-tāsām                      → tāsāṃ
-yathā-kramam               → yathākramam
-```
-
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | saṃvartanyaḥ | nominative feminine plural | cosmic contractions or destructions |
 | punaḥ | indeclinable | moreover; resumes with a larger class after the antarakalpa crises |

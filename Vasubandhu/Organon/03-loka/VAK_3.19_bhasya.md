@@ -3,13 +3,16 @@
 ## 1. Kārikā Anchor
 
 > yathākṣepaṃ kramād vṛddhaḥ santānaḥ kleśakarmabhiḥ /
-> paralokaṃ punar yātīty anādibhavacakrakam // 3.19 //
+> paralokaṃ punar yāti ity anādibhavacakrakam // 3.19 //
 
-> The continuum, having developed in sequence according to its projection,
-> goes again to another world through afflictions and karma. Thus is the
-> beginningless wheel of becoming.
+> The projected continuum develops through ordered embryonic and embodied
+> stages. As its faculties mature, afflictions become active again and further
+> karma accumulates; after death it passes, as before, through intermediate
+> continuity to another world. Birth produces conditions for renewed
+> affliction and action, and these produce birth again: this is the
+> beginningless—but causally terminable—wheel of becoming.
 
-The Bhāṣya follows the aggregate-continuum from karmically delimited growth
+The Bhāṣya follows the Base-continuum from karmically delimited growth
 through embryonic development, birth, maturation, renewed affliction and
 action, death, and another intermediate existence. It then explains why this
 wheel has no first beginning yet can have an end.
@@ -74,7 +77,7 @@ wheel has no first beginning yet can have an end.
 
 This natural unit runs from printed 129.21 through 131.02 in
 `Vasubandhu/Sources/kosabhasya.txt`. At 131.03 the text identifies the
-three-life aggregate-continuum with twelve-membered dependent arising; that
+three-life Base-continuum with twelve-membered dependent arising; that
 begins VAK 3.20.
 
 Word division and punctuation are editorial. The e-text contains numerous
@@ -88,7 +91,7 @@ a critical Sanskrit text is made, and the running source remains unchanged.
 
 That continuum, “having developed in sequence according to its projection,
 goes again to another world through afflictions and karma.” The projection of
-every aggregate-continuum is not equal, because the karma determining lifespan
+every Base-continuum is not equal, because the karma determining lifespan
 differs. Therefore, the extent of each continuum's gradual development accords
 with the extent of its projection.
 
@@ -169,7 +172,7 @@ Its inherited physiology must be distinguished from modern medicine.
 ## 5. Projection and Ordered Development
 
 `Yathākṣepam` first concerns measure. Lifespan-producing karma differs, so
-aggregate-continua do not receive equal projections or equal extents of
+Base-continua do not receive equal projections or equal extents of
 growth. `Krama` then concerns order: the projected life develops through
 successive material stages rather than appearing as an already completed
 body.

@@ -14,18 +14,7 @@
 
 ## 3. Lexical Analysis
 
-```text
-sparśa-saṃcetanā-vijñāḥ     → sparśasaṃcetanāvijñā
-āhārāḥ                     → āhārāḥ
-sa-āsravāḥ                 → sāsravās
-triṣu                      → triṣu
-manaḥ-mayaḥ                → manomayaḥ
-saṃbhava-eṣī              → saṃbhavaiṣī
-gandharvaḥ ca              → gandharvaś ca
-antarā-bhavaḥ              → antarābhavaḥ
-```
-
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | sparśa | first member of nominative plural coordination | contact as nutriment |
 | saṃcetanā | second member of coordination | volition; specified as mental karma by the Bhāṣya |

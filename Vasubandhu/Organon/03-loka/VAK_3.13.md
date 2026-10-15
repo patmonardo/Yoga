@@ -14,18 +14,7 @@
 
 ## 3. Lexical Analysis
 
-```text
-eka-ākṣepāt                         → ekākṣepāt
-asau                               → asau
-aiṣyat-pūrva-kāla-bhava-ākṛtiḥ     → aiṣyatpūrvakālabhavākṛtiḥ
-saḥ + punaḥ                        → sa punar
-maraṇāt                            → maraṇāt
-pūrvaḥ                             → pūrva
-upapatti-kṣaṇāt                    → upapattikṣaṇāt
-paraḥ                              → paraḥ
-```
-
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | ekākṣepāt | ablative singular compound | through one and the same projection |
 | asau | nominative masculine singular pronoun | this intermediate existence |
@@ -97,7 +86,7 @@ of the life-phase, are Bhāṣya determinations.
 > Transition is already configured by its result without being identical with
 > that result. One karmic projection determines both the destination and a
 > corresponding intermediate form ordered toward it. The ensuing embodied
-> life is then discriminated as a temporal-functional phase of the aggregates:
+> life is then discriminated as a temporal-functional phase of the Bases:
 > after the rebirth-junction and before death.
 
 ## 7. Technical Vocabulary
@@ -110,8 +99,8 @@ of the life-phase, are Bhāṣya determinations.
 | antarābhava | intermediate existence | transition configuration shaped toward the coming destiny |
 | aiṣyat | coming; going to be | marks the future life-form toward which transition is ordered |
 | ākṛti | form / configuration | destiny-corresponding form borne in advance by intermediate existence |
-| bhava | existence-phase | generally defined by the Bhāṣya as the five appropriated aggregates |
-| pañcopādānaskandha | five appropriated aggregates | Bhāṣya definition of `bhava` in this analysis |
+| bhava | existence-phase | generally defined by the Bhāṣya as the five appropriated Bases |
+| pañcopādānaskandha | five appropriated Bases | Bhāṣya definition of `bhava` in this analysis |
 | pūrvakālabhava | prior-time existence | life-phase after rebirth and before death |
 | upapattibhava | rebirth-existence | junction-moment within a destiny |
 | pratisandhikṣaṇa | moment of junction | Bhāṣya specification of the rebirth-moment |
@@ -149,7 +138,7 @@ form-correspondence
 
 ### Four temporal-functional modes of `bhava`
 
-The Bhāṣya defines `bhava` generally as the five appropriated aggregates and
+The Bhāṣya defines `bhava` generally as the five appropriated Bases and
 then discriminates four modes:
 
 ```text
@@ -157,7 +146,7 @@ upapattibhava
     the rebirth-junction moment
         ↓
 pūrvakālabhava
-    embodied aggregate-life after rebirth and before death
+    embodied Base-life after rebirth and before death
         ↓
 maraṇabhava
     the final moment of that life
@@ -166,7 +155,7 @@ antarābhava
     transition toward another rebirth among beings with form
 ```
 
-These are functions and temporal positions within aggregate-continuity.
+These are functions and temporal positions within Base-continuity.
 
 ### The burning-womb objection
 
@@ -224,7 +213,7 @@ rebirth-junction
 ```
 
 But this is not merely a loop of locations. Each phase is a determination of
-the five appropriated aggregates, and the coming embodied configuration is
+the five appropriated Bases, and the coming embodied configuration is
 already operative as the telos of the intermediate form.
 
 The Bhāṣya has only been used here to establish those load-bearing relations.
@@ -261,8 +250,8 @@ loka:FourBhavaPhaseSchema a organon:TemporalFunctionalSchema ;
         loka:DeathExistence,
         loka:IntermediateExistence .
 
-loka:PriorTimeExistence a organon:AggregateLifePhase ;
+loka:PriorTimeExistence a organon:BaseLifePhase ;
     organon:beginsAfter loka:RebirthMoment ;
     organon:endsBefore loka:DeathMoment ;
-    organon:hasConstituents loka:FiveAppropriatedAggregates .
+    organon:hasConstituents loka:FiveAppropriatedBases .
 ```

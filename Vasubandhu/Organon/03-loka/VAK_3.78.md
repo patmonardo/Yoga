@@ -19,22 +19,7 @@ the verse's meaning.
 
 ## 3. Lexical Analysis
 
-```text
-sahasram            → sahasram
-āyuḥ                 → āyuḥ
-kuruṣu               → kuruṣu
-dvayoḥ               → dvayor (before a-)
-ardha-ardha-varjitam  → ardhārdhavarjitam
-iha                  → iha
-aniyatam             → aniyatam
-ante                 → ante
-tu                   → tu
-daśa-abdāḥ           → daśābdāḥ
-āditaḥ               → ādito (before a-)
-amitam               → 'mitam (after avagraha)
-```
-
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | sahasram | cardinal numeral, neuter singular | one thousand years |
 | āyuḥ | nominative neuter singular | lifespan; duration of embodied life |

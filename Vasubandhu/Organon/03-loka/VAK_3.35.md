@@ -16,21 +16,6 @@
 
 ## 3. Lexical Analysis
 
-
-```text
-catvāraḥ                   → catvāro
-arūpi-sāmante              → 'rūpisāmante
-rūpa-gāḥ                   → rūpagāḥ
-ekaḥ                       → eka
-ūrdhva-gaḥ                 → ūrdhvagaḥ
-ekaḥ                       → eko
-maule                      → maule
-sva-viṣayaḥ                → svaviṣayaḥ
-sarve                      → sarve
-aṣṭādaśa                   → 'ṣṭādaśa
-sa-āsravāḥ                 → sāsravāḥ
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | catvāraḥ | nominative masculine plural numeral | four Mental Rangings |

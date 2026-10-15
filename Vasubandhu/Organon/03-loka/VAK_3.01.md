@@ -14,18 +14,7 @@
 
 ## 3. Lexical Analysis
 
-```text
-naraka-preta-tiryañcaḥ → naraka-preta-tiryañcaḥ
-manuṣyāḥ               → manuṣyāḥ
-ṣaṭ                     → ṣaṭ
-divaukasaḥ              → div-okasaḥ
-kāma-dhātuḥ             → kāma-dhātuḥ
-saḥ                     → saḥ
-naraka-dvīpa-bhedena    → naraka-dvīpa-bhedena
-viṃśatiḥ                → viṃśatiḥ
-```
-
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | naraka-preta-tiryañcaḥ | compressed coordinative expression, nominative plural | hell-beings, pretas, and animals |
 | manuṣyāḥ | nominative masculine plural | humans |

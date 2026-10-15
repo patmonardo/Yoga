@@ -14,21 +14,6 @@
 
 ## 3. Lexical Analysis
 
-```text
-kleśāḥ                 → kleśās
-trīṇi                  → trīṇi
-dvayam                 → dvayam
-karma                  → karma
-sapta                  → sapta
-vastu                  → vastu
-phalam                 → phalam
-tathā                  → tathā
-phala-hetu             → phalahetu
-abhisaṃkṣepaḥ          → abhisaṃkṣepaḥ
-dvayoḥ                 → dvayoḥ
-madhya-anumānataḥ      → madhyānumānataḥ
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | kleśāḥ | nominative masculine plural | afflictions; functional nature of three members |

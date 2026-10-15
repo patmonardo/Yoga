@@ -14,21 +14,7 @@
 
 ## 3. Lexical Analysis
 
-```text
-sa-ardha-tri-yojanam        → sārdhatriyojanam
-tu                          → tv
-ekam                        → ekam
-prāg-videhaḥ                → prāgvideho
-ardha-candra-vat            → 'rdhacandravat
-pārśva-trayam               → pārśvatrayam
-tathā                       → tathā
-asya                        → 'sya
-ekam                        → ekam
-sa-ardham                   → sārdham
-tri-śata-yojanam            → triśatayojanam
-```
-
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | sārdhatriyojanam | neuter singular numerical compound | three and one-half yojanas |
 | ekam | neuter singular | one [side], here Jambūdvīpa's fourth side |

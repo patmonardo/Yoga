@@ -14,20 +14,7 @@
 
 ## 3. Lexical Analysis
 
-```text
-kāma-deva-āyuṣā      → kāmadevāyuṣā
-tulyāḥ                → tulyā (before a-)
-ahas-rātrāḥ           → ahorātrāḥ → ahorātrā (before y-)
-yathā-kramam          → yathākramam
-saṃjīva-ādiṣu        → saṃjīvādiṣu
-ṣaṭsu                 → ṣaṭsv (before ā-)
-āyuḥ                  → āyus (before t-)
-taiḥ                  → tais (before t-)
-teṣām                 → teṣāṃ
-kāma-deva-vat         → kāmadevavat
-```
-
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | kāmadevāyuṣā | instrumental neuter singular compound | with the lifespan of a desire-realm deva class |
 | tulyāḥ | nominative masculine plural | equal or corresponding in temporal magnitude |

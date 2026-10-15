@@ -14,24 +14,7 @@
 
 ## 3. Lexical Analysis
 
-```text
-sthānāt                    → sthānāt
-sthānāt                    → sthānād
-adhaḥ                      → adho
-yāvat                      → yāvat
-tāvat                      → tāvad
-ūrdhvam                    → ūrdhvaṃ
-tataḥ tataḥ                → tatas tataḥ
-na                         → no
-ūrdhvam                    → ūrdhvaṃ
-darśanam                   → darśanam
-asti                       → asty
-eṣām                       → eṣām
-anyatra                    → anyatra
-ṛddhi-para-āśrayāt         → rddhiparāśrayāt
-```
-
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | sthānāt sthānāt | repeated ablative singular | from each successive station |
 | adhaḥ | adverb | downward / below |

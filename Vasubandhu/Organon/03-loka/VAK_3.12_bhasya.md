@@ -2,14 +2,16 @@
 
 ## 1. Kārikā Anchor
 
-> sahaikatra dvayābhāvād asantānād dvayodayāt /
-> kaṇṭhokteś cāsti gandharvāt pañcokter gatisūtrataḥ // 3.12 //
+> sahaikatra dvayābhāvāt asantānād dvayodayāt /
+> kaṇṭhokteś cāsti gandharvāt pañcokteḥ gatisūtrataḥ // 3.12 //
 
-> Reflection is not a valid example because the two cannot coexist in one
-> place, because it is not of the same continuity, and because it arises from
-> two causes. Intermediate existence exists, moreover, because it is expressly
-> stated, because of the gandharva, because five non-returners are stated, and
-> because of the discourse on the courses of good persons.
+> Reflection cannot establish discontinuous rebirth: original and reflection
+> do not occupy one place, reflection does not continue the original's series,
+> and its appearance depends upon both original and mirror. Intermediate
+> existence is further warranted by received teaching: it is expressly named,
+> presupposed by the gandharva present at conception, required by the five
+> non-returners, and differentiated in the discourse on the courses of good
+> persons.
 
 The first half recapitulates the completed rational refutation of reflection.
 The second opens the proof from `āgama`, authoritative teaching. The Bhāṣya
@@ -151,11 +153,11 @@ impassioned and have come together; and a gandharva is present.” Apart from
 intermediate existence, what other gandharva could this be?
 
 They do not recite this passage either. What do they read? “The dissolution
-of the aggregates is present.” If so, how is the Āśvalāyana Sūtra to be
+of the Bases is present.” If so, how is the Āśvalāyana Sūtra to be
 understood? It asks whether the gandharva who has become present is a
 kṣatriya, brāhmaṇa, vaiśya, or śūdra, and whether he has come from the east,
 south, west, or north. Coming from a direction cannot reasonably be predicated
-of a dissolution of aggregates.
+of a dissolution of Bases.
 
 If that too is not read, there is the proof “because five are stated.” The
 Blessed One taught five non-returners: one who attains parinirvāṇa in the
@@ -245,7 +247,7 @@ explicit enumeration of seven existences
     opponent rejects the recension
 
 gandharva present at conception
-    opponent substitutes “dissolution of aggregates”
+    opponent substitutes “dissolution of Bases”
 
 Āśvalāyana passage
     tests the substituted reading through class and direction
@@ -283,7 +285,7 @@ The Kārikā compresses four grounds:
 
 The argument does not merely count quotations. The Āśvalāyana passage controls
 the meaning of `gandharva`: social class and arrival from a direction fit a
-being approaching conception, not an abstract dissolution of aggregates.
+being approaching conception, not an abstract dissolution of Bases.
 
 Likewise, the three fire similes control `antarāparinirvāyin`. The differences
 concern progress before arrival. Reinterpreting “Antarā” as the proper name of

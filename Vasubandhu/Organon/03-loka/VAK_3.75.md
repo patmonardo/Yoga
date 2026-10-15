@@ -14,16 +14,7 @@
 
 ## 3. Lexical Analysis
 
-```text
-jāmbū-dvīpāḥ               → jāmbūdvīpāḥ
-pramāṇena                  → pramāṇena
-catuḥ-sārdha-tri-hastakāḥ  → catuḥsārdhatrihastakāḥ
-dvi-guṇa-uttara-vṛddhyā    → dviguṇottaravṛddhayā
-tu                         → tu
-pūrva-goda-uttara-āhvayāḥ  → pūrvagodottarāvhayāḥ
-```
-
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | jāmbūdvīpāḥ | nominative masculine plural | humans belonging to Jambūdvīpa |
 | pramāṇena | instrumental neuter singular | with respect to measure or magnitude |

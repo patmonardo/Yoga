@@ -5,14 +5,16 @@
 > nātmāsti skandhamātraṃ tu kleśakarmābhisaṃskṛtam /
 > antarābhavasaṃtatyā kukṣim eti pradīpavat // 3.18 //
 
-> No ātman exists; rather, the aggregates alone, conditioned by affliction
-> and karma, reach the womb through the continuity of intermediate existence,
-> like a flame.
+> The continuity from death through intermediate existence to rebirth does not
+> require the individually persistent principle inferred by the externalist.
+> What reaches the womb is the causally continuous Base-series, formed by
+> affliction and karma and transmitted through intermediate existence as one
+> flame conditions another.
 
 The verse answers an externalist inference: if a being passes from one world
 to another, an enduring agent must perform the passage. The Bhāṣya rejects
 that internal operator, but does not replace it with discontinuity. It locates
-rebirth in a dependently arisen continuum of momentary aggregates.
+rebirth in a dependently arisen continuum of momentary Bases.
 
 ## 2. Continuous Sanskrit
 
@@ -70,33 +72,33 @@ world, then an ātman is established.” This is what is denied:
 
 “No ātman exists.”
 
-What kind of ātman is meant? The one imagined to discard these aggregates and
-connect other aggregates. No such person operating within exists. Thus the
+What kind of ātman is meant? The one imagined to discard these Bases and
+connect other Bases. No such person operating within exists. Thus the
 Blessed One said: “There is karma and there is maturation, but no agent is
-apprehended who discards these aggregates and connects other aggregates,
+apprehended who discards these Bases and connects other Bases,
 apart from the designation of dharmas. And this is the designation of
 dharmas: when this exists, that comes to be”—that is, dependent arising in
 its full exposition.
 
 What kind of ātman, then, is not denied?
 
-“The aggregates alone.” If the aggregates alone are figuratively designated
+“The Bases alone.” If the Bases alone are figuratively designated
 as ātman, that is not rejected.
 
-“Then it follows that the aggregates themselves pass into another world.”
+“Then it follows that the Bases themselves pass into another world.”
 
-But the aggregates themselves do not travel from here. Rather, what is
+But the Bases themselves do not travel from here. Rather, what is
 “conditioned by affliction and karma” and “reaches the womb through the
-continuity of intermediate existence, like a flame” is the aggregate-series.
+continuity of intermediate existence, like a flame” is the Base-series.
 
-For the aggregates are momentary; they have no capacity to transmigrate. But
-the aggregates, permeated by afflictions and karma, arrive at the mother's
+For the Bases are momentary; they have no capacity to transmigrate. But
+the Bases, permeated by afflictions and karma, arrive at the mother's
 womb through the continuum called intermediate existence. It is just as a
 flame, although momentary, reaches another place through its continuum. Hence
 there is no such fault.
 
 It is therefore established that, even though no ātman exists, the continuum
-of aggregates conditioned by affliction and karma enters the mother's womb.
+of Bases conditioned by affliction and karma enters the mother's womb.
 
 ## 4. Argument and Voices
 
@@ -108,20 +110,20 @@ Externalists
     → a persistent ātman must be established
 
 Vasubandhu
-    no inner operator discards one aggregate-set
+    no inner operator discards one Base-set
     and reconnects another
 
 Question
     is every use of “ātman” rejected?
 
 Vasubandhu
-    figurative designation of the aggregates is not rejected
+    figurative designation of the Bases is not rejected
 
 Objection
-    then the aggregates themselves must travel
+    then the Bases themselves must travel
 
 Reply
-    momentary aggregates do not travel;
+    momentary Bases do not travel;
     the conditioned continuum reaches the new locus
 ```
 
@@ -136,9 +138,9 @@ imagined as an `antarvyāpārapuruṣa`, a person operating inside the process:
 
 ```text
 inner operator
-    discards present aggregates
+    discards present Bases
     → traverses the interval
-    → reconnects a new set of aggregates
+    → reconnects a new set of Bases
 ```
 
 This model turns the grammatical and conventional subject of rebirth into a
@@ -147,31 +149,31 @@ apprehended beyond the dependent sequence of dharmas.
 
 The verse's `nātmāsti` remains categorical within the Buddhist argument. Yet
 the Bhāṣya immediately asks which ātman is not denied and answers: the
-aggregates alone, if they are called ātman figuratively (`upacaryate`). This
+Bases alone, if they are called ātman figuratively (`upacaryate`). This
 does not reinstate a substantial self. It controls ordinary designation while
 refusing to mistake that designation for an additional bearer.
 
-## 6. Aggregates, Continuum, and Transmigration
+## 6. Bases, Continuum, and Transmigration
 
 The objection forces another distinction. If “ātman” is merely a designation
-for the aggregates, do those aggregates themselves migrate? No: each
-aggregate-event is momentary and lacks the power to travel between worlds.
+for the Bases, do those Bases themselves migrate? No: each
+Base-event is momentary and lacks the power to travel between worlds.
 
 The operative bearer of causal succession is therefore not an identical
-thing but `skandhānāṃ saṃtāna`, the continuum of aggregates:
+thing but `skandhānāṃ saṃtāna`, the continuum of Bases:
 
 ```text
-momentary aggregates
+momentary Bases
     conditioned by affliction and karma
-    → successive aggregate-events
+    → successive Base-events
     → intermediate-existence continuum
-    → aggregate-events at the womb
+    → Base-events at the womb
 ```
 
 “Continuum” does not name a second substance beneath the events. It names the
 ordered causal relation through which later events arise conditioned by
 earlier ones. The Bhāṣya thus denies both a migrating ātman and the literal
-migration of numerically identical aggregates.
+migration of numerically identical Bases.
 
 ## 7. The Flame Analogy
 
@@ -197,8 +199,8 @@ The prose sharpens every principal expression:
 - `nātmāsti` rejects the independently operating transmigrator proposed by
   the externalists.
 - `skandhamātra` can support a figurative personal designation, but the
-  aggregates themselves do not literally travel.
-- `kleśakarmābhisaṃskṛta` describes the aggregate-continuum as formed and
+  Bases themselves do not literally travel.
+- `kleśakarmābhisaṃskṛta` describes the Base-continuum as formed and
   permeated by affliction and karma.
 - `antarābhavasaṃtati` is the causal series bearing the transition between
   death and womb-entry.
@@ -207,13 +209,13 @@ The prose sharpens every principal expression:
 
 The syntactic singular `skandhamātram ... eti` is consequently interpreted by
 the prose through `skandhānāṃ saṃtānaḥ`: what reaches the womb is the
-aggregate-continuum, not one enduring aggregate-complex.
+Base-continuum, not one enduring Base-complex.
 
 ## 9. Philosophical and Organon Study
 
 The argument distinguishes the semantic subject of a process from a
 substantial agent posited behind it. Ordinary discourse may label the
-aggregate-series “self” or say that a being passes into another world. Those
+Base-series “self” or say that a being passes into another world. Those
 forms remain usable so long as they are not typed as evidence for an inner,
 identical operator.
 
@@ -225,11 +227,11 @@ relations hidden beneath the label:
 ```text
 personal designation
     is grounded in
-momentary aggregates + karma + maturation + dependent arising + continuum
+momentary Bases + karma + maturation + dependent arising + continuum
 ```
 
 This source argument denies an inner transmigrator as a causal requirement
-for rebirth. Dependent arising and the conditioned aggregate-continuum do the
+for rebirth. Dependent arising and the conditioned Base-continuum do the
 positive explanatory work here. The Organon's account of Self-recognition
 belongs to a later comparative study.
 
@@ -237,8 +239,8 @@ belongs to a later comparative study.
 
 This Study restores the complete natural unit from 129.05 to the opening of
 129.21. It includes the externalist inference, the scriptural appeal to
-dependent arising, the figurative use of “ātman” for the aggregates, the
-objection that aggregates would then transmigrate, and the reply through
+dependent arising, the figurative use of “ātman” for the Bases, the
+objection that Bases would then transmigrate, and the reply through
 momentariness and continuum.
 
 The translation remains provisional. The substantial repair at 129.18 and

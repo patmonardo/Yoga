@@ -14,18 +14,7 @@
 
 ## 3. Lexical Analysis
 
-```text
-kavaḍīkāraḥ                 → kavaḍīkāra
-āhāraḥ                     → āhāraḥ
-kāme                       → kāme
-tri-āyatana-ātmakaḥ        → tryāyatanātmakaḥ
-na                         → na
-rūpa-āyatanam              → rūpāyatanam
-tena                       → tena
-sva-akṣa-mukta-an-anugrahāt → svākṣamuktānanugrahāt
-```
-
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | kavaḍīkāra | nominative masculine singular in compound relation | morsel-making; material nutriment taken in gross or subtle form |
 | āhāraḥ | nominative masculine singular | nutriment; that which sustains |

@@ -14,17 +14,7 @@
 
 ## 3. Lexical Analysis
 
-```text
-viparyasta-matiḥ + yāti       → viparyastamatir yāti
-gati-deśam                    → gatideśam
-riraṃsayā                     → riraṃsayā
-gandha-sthāna-abhikāmaḥ       → gandhasthānābhikāmaḥ
-anyaḥ                         → anyaḥ
-ūrdhva-pādaḥ + tu             → ūrdhvapādas tu
-nārakaḥ                       → nārakaḥ
-```
-
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | viparyasta-matiḥ | nominative masculine singular compound | having inverted or distorted understanding |
 | yāti | third-person singular present of √yā | goes; proceeds |

@@ -20,20 +20,7 @@ abodes still arise and pass away with their beings.
 
 ## 3. Lexical Analysis
 
-```text
-tat-apakṣāla-sādharmyāt     → tadapakṣālasādharmyāt
-na                          → na
-caturthe                    → caturthe
-asti                        → 'sty (after -e)
-aniñjanāt                   → aniñjanāt
-na                          → na
-nityam                      → nityaṃ (before s-)
-saha                        → saha
-sattvena                    → sattvena
-tat-vimāna-udaya-vyayāt     → tadvimānodayavyayāt
-```
-
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | tadapakṣālasādharmyāt | ablative neuter singular compound | because of similarity to that internal disturbance |
 | caturthe | locative neuter singular | in the fourth dhyāna |

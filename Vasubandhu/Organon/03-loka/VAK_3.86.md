@@ -18,18 +18,7 @@ below follows the explicit forms and relations supplied by the Bhāṣya.
 
 ## 3. Lexical Analysis
 
-```text
-loha-apa-śaśa-avi-go-cchidra-rajaḥ-likṣāḥ
-                                      → lohāpaśaśāvigocchidrarajolikṣāḥ
-tat-udbhavāḥ                         → tadudbhavāḥ
-yavaḥ                                → yavas (before t-)
-tathā                                → tathā
-aṅgulī-parva                         → aṅgulīparva
-jñeyam                               → jñeyaṃ
-sapta-guṇa-uttaram                   → saptaguṇottaram
-```
-
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | rajas | compound-final nominal member | named minute dust-measure in the compressed series |
 | likṣāḥ | nominative feminine plural | likṣā units; stage preceding the yūkā |

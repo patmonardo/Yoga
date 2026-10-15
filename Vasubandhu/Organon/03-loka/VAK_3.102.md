@@ -19,24 +19,7 @@ then followed by one wind-contraction, producing sixty-four events in all.
 
 ## 3. Lexical Analysis
 
-```text
-sapta                       → sapta
-agninā                      → agninā
-adbhiḥ                      → adbhir (before vowel)
-ekā                         → ekā
-evam                        → evaṃ (before g-)
-gate                        → gate
-adbhiḥ                      → 'dbhiḥ (after -e)
-saptake                     → saptake
-punaḥ                       → punaḥ
-tejasā                      → tejasā
-saptakaḥ                    → saptakaḥ
-paścāt                      → paścād (before v-)
-vāyu-saṃvartanī             → vāyusaṃvartanī
-tataḥ                       → tataḥ
-```
-
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | sapta agninā | numeral with instrumental masculine singular | seven contractions by fire |
 | adbhiḥ ekā | instrumental feminine plural with nominative feminine singular | one contraction by water |

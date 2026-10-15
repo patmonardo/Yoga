@@ -48,14 +48,13 @@ folder, consult these load-bearing project documents:
   terminology when it conflicts with the Scientific mapping.
 - Use exactly one **Lexical Analysis** section per kārikā study. Do not add
   a separate *Padaccheda* section or additional lexical-analysis sections.
-- Follow VAK 1.17 as the fixed format: one concise word-division block and
-  one table with this exact header:
-  `Pada | Morphology | Force in this passage`. Use that same header for the
-  Lexical Analysis table in every study. Do not add separate **Sentence
-  words**, **External sandhi**, or compound-analysis subsections, additional
-  lexical tables, or extended lexical commentary. Add only a brief
-  clarification when a form requires it. Do not upgrade this format unless
-  explicitly requested.
+- The Lexical Analysis section is a single table with this exact header:
+  `Pada | Morphology | Force in this passage`. Use that same header in every
+  study. Do not add a separate word-division block, **Sentence words**,
+  **External sandhi**, or compound-analysis subsections, additional lexical
+  tables, or extended lexical commentary. Add only a brief clarification
+  when a form requires it. Do not upgrade this format unless explicitly
+  requested.
 - Use the technical vocabulary below consistently, without letting it erase
   grammatical, textual, or school-level distinctions.
 

@@ -5,9 +5,11 @@
 > nānātvakāyasaṃjñāś ca nānākāyaikasaṃjñinaḥ /
 > viparyayāc caikakāyasaṃjñāś cārūpiṇas trayaḥ // 3.05 //
 
-> There are those with diverse bodies and diverse perceptions, those with
-> diverse bodies and one perception, and, by reversal, those with one body
-> and diverse or one perception; together with the three formless classes.
+> Four embodied configurations are distinguished: diverse bodies with diverse
+> perceptions, diverse bodies with one perception, one body with diverse
+> perceptions, and one body with one perception. Together with three formless
+> classes, these form the seven stations of differentiated cognition named in
+> the following verse.
 
 The verse constructs four embodied combinations from two variables, body and
 perception, and adds three formless classes. The running exposition immediately

@@ -19,20 +19,7 @@ appropriation rather than a generic act of grasping.
 
 ## 3. Lexical Analysis
 
-```text
-ālasyāt                     → ālasyāt
-saṃnidhim                   → saṃnidhiṃ (before k-)
-kṛtvā                       → kṛtvā
-sa-āgrahaiḥ                 → sāgrahaiḥ
-kṣetra-paḥ                  → kṣetrapo (before bh-)
-bhṛtaḥ                      → bhṛtaḥ
-tataḥ                       → tataḥ
-karma-patha-ādhikyāt        → karmapathādhikyād (before vowel)
-apahrāse                    → apahrāse
-daśa-āyuṣaḥ                → daśāyuṣaḥ
-```
-
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | ālasyāt | ablative neuter singular | because of laziness; initiating condition of storage |
 | saṃnidhim | accusative masculine singular | a store, stockpile, or reserved accumulation |

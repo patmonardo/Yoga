@@ -19,22 +19,7 @@ contracted, not expanded.
 
 ## 3. Lexical Analysis
 
-```text
-vivartate                → vivartate
-atha                     → 'tha (after avagraha)
-saṃvṛttaḥ                → saṃvṛtta (before ā-)
-āste                     → āste
-saṃvartate               → saṃvartate
-samam                    → samam
-te                       → te
-hi                       → hy (before a-)
-aśītiḥ                   → aśītir (before m-)
-mahā-kalpaḥ              → mahākalpas (before t-)
-tat                      → tad (before a-)
-asaṃkhya-traya-udbhavam  → asaṃkhyatrayodbhavam
-```
-
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | vivartate | third-person singular middle present | the World expands or forms |
 | saṃvṛttaḥ | past passive participle, nominative masculine singular | contracted; having completed contraction |
@@ -323,7 +308,7 @@ interface Mahakalpa {
   phaseCount: 4;
   phaseDurationInAntarakalpas: 20;
   totalDurationInAntarakalpas: 80;
-  nature: "FiveAggregateProcess";
+  nature: "FiveBaseProcess";
 }
 
 interface AsamkhyeyaMagnitude {
@@ -358,9 +343,9 @@ loka:Mahakalpa
                       loka:SamvrttaStanding ;
     organon:hasPhaseDurationInAntarakalpas 20 ;
     organon:hasTotalDurationInAntarakalpas 80 ;
-    organon:hasNature loka:FiveAggregateProcess .
+    organon:hasNature loka:FiveBaseProcess .
 
-loka:FiveAggregateProcess
+loka:FiveBaseProcess
     a organon:ConstitutiveProcess ;
     organon:concretelyDetermines loka:MahakalpaTemporalUnity .
 
@@ -375,7 +360,7 @@ loka:AsamkhyeyaPathMeasure
     organon:associatedWith loka:BuddhahoodAttainment .
 
 organon:SattvicVijnanaTemporalEnclosure
-    organon:isConstituentWithin loka:FiveAggregateProcess ;
+    organon:isConstituentWithin loka:FiveBaseProcess ;
     organon:formallyCorrespondsTo loka:MahakalpaTemporalUnity ;
     organon:operatesAtResolution organon:CognitiveOccurrence .
 ```

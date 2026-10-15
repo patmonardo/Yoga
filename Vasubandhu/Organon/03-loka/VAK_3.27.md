@@ -18,22 +18,6 @@ again.
 
 ## 3. Lexical Analysis
 
-```text
-kleśāt                 → kleśāt
-kleśaḥ                 → kleśaḥ
-kriyā                  → kriyā
-ca eva                 → caiva
-tataḥ                  → tataḥ
-vastu                  → vastu
-tataḥ punaḥ            → tataḥ punaḥ
-vastu-kleśāḥ           → vastukleśāḥ
-ca                     → ca
-jāyante                → jāyante
-bhava-aṅgānām          → bhavāṅgānām
-ayam                   → ayam
-nayaḥ                  → nayaḥ
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | kleśāt | ablative masculine singular | from affliction; causal source |

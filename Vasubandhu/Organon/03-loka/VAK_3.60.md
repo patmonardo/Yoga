@@ -19,19 +19,7 @@ adopted here with the e-text forms recorded as witness irregularities.
 
 ## 3. Lexical Analysis
 
-```text
-ardhena                     → ardhena
-meroḥ                       → meroś
-candra-arkau                → candrārkau
-pañcāśat-sa-eka-yojanau     → pañcāśat-saika-yojanau
-ardha-rātraḥ                → ardharātro
-astam-gamanam               → 'staṃgamanam
-madhya-ahnaḥ                → madhyāhna
-udayaḥ                      → udayaḥ
-sakṛt                       → sakṛt
-```
-
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | ardhena | instrumental neuter singular | at half the height |
 | meroḥ | genitive masculine singular | of Meru |

@@ -14,18 +14,7 @@
 
 ## 3. Lexical Analysis
 
-```text
-yathā-ākṣepam           → yathākṣepam
-kramāt + vṛddhaḥ        → kramād vṛddhaḥ
-santānaḥ                → santānaḥ
-kleśa-karmabhiḥ         → kleśakarmabhiḥ
-para-lokam              → paralokam
-punaḥ + yāti            → punar yāti
-iti + anādi             → ity anādi
-anādi-bhava-cakrakam    → anādibhavacakrakam
-```
-
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | yathākṣepam | adverbial compound | according to the operative projection |
 | kramāt | ablative singular used adverbially | in sequence; gradually; by ordered stages |

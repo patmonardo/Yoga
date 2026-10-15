@@ -14,16 +14,7 @@
 
 ## 3. Lexical Analysis
 
-```text
-vrīhi-santāna-sādharmyāt  → vrīhisantānasādharmyāt
-avicchinna-bhava-udbhavaḥ  → avicchinnabhavodbhavaḥ
-pratibimbam                → pratibimbam
-asiddhatvāt                → asiddhatvāt
-asāmyāt + ca               → asāmyāc ca
-ca + anidarśanam           → cānidarśanam
-```
-
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | vrīhi | masculine noun in compound | rice; the generative rice-series |
 | santāna | masculine noun in compound | continuity; serial continuum |

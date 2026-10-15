@@ -5,14 +5,15 @@
 > anicchāvasanān nānye catasraḥ sthitayaḥ punaḥ /
 > catvāraḥ sāsravāḥ skandhāḥ svabhūmāv eva kevalam // 3.07 //
 
-> No other states are sentient abodes, because beings reside there
-> unwillingly. In another classification there are four cognition-supports:
-> the four aggregates with outflows, each exclusively in its own ground.
+> No additional states count as abodes of beings, because beings occupy the
+> bad destinies unwillingly. In another scriptural classification there are
+> four cognition-stations: form, feeling, perception, and formations with
+> outflows, each functioning as a station only within its own proper ground.
 
 The first half closes the ninefold classification of sentient abodes by
 excluding the bad destinies. The second half introduces a distinct scriptural
 classification of four `vijñānasthiti`. Here “support” conveys the Bhāṣya's
-functional explanation: these are the four aggregates upon which
+functional explanation: these are the four Bases upon which
 differentiated cognition becomes established.
 The translation's “exclusively in its own ground” follows `svabhūmāv eva`;
 the delayed `kevalam` also limits the exclusion of consciousness to the
@@ -93,14 +94,14 @@ another, “there are again four supports.” What are the four? A support of
 differentiated cognition associated with form, one associated with feeling,
 one associated with perception, and one associated with formations.
 
-What is their own-nature? Respectively, they are “the four aggregates with
+What is their own-nature? Respectively, they are “the four Bases with
 outflows.” And these are “exclusively in their own ground,” not in another
 ground. Why? Because a `sthiti` is an establishment. Under the power of
-craving, differentiated cognition does not become established in aggregates
+craving, differentiated cognition does not become established in Bases
 belonging to a dissimilar ground.
 
 Why is consciousness not itself called a station of consciousness, when the
-seven stations include all five aggregates? Because a station is designated
+seven stations include all five Bases? Because a station is designated
 apart from what stands upon it. The one that stands is not itself its seat,
 just as a king is not the royal throne. The Vaibhāṣikas say that the dharmas
 which consciousness mounts and by which it travels, like a boat passenger,
@@ -110,10 +111,10 @@ hence it is not named among the four.
 But how, then, should we understand the sūtra saying that when there is
 delight and craving for consciousness as nutriment, consciousness is
 established and mounted there? And how are the seven stations said to be
-included in the five aggregates? In that case, when consciousness operates
-with delight in the aggregates taken together within a realm of rebirth,
+included in the five Bases? In that case, when consciousness operates
+with delight in the Bases taken together within a realm of rebirth,
 consciousness too is included in a station of consciousness. Considered
-separately, however, form and the other aggregates become conditions for the
+separately, however, form and the other Bases become conditions for the
 defilement of consciousness. Therefore the restriction applies **only** to
 the four stations: `kevalam`.
 
@@ -126,7 +127,7 @@ nine sentient abodes
     bad destinies excluded because residence is unwilling
 
 seven cognition-stations taught in one context
-    four aggregate-supports taught in another context
+    four Base-supports taught in another context
 
 why consciousness belongs to the seven but not the four
     Vaibhāṣika seat/rider explanation
@@ -138,7 +139,7 @@ The expository voice makes explicit both objects suppressed by the verse:
 `sthiti` are supports of consciousness associated with form, feeling,
 perception, and formations. The Vaibhāṣikas are explicitly named for the
 seat/rider explanation. An unnamed questioner presses two scriptural
-counterexamples, prompting a distinction between the aggregates taken
+counterexamples, prompting a distinction between the Bases taken
 together and the four considered separately.
 
 No opposing school is named. The image of
@@ -193,31 +194,31 @@ existence without requiring an independently sovereign evil principle.
 The full rational analysis of karma belongs to Karmanirdeśa. Here the image
 does one local job: it distinguishes imposed placement from willing dwelling.
 
-## 7. Four Aggregate-Supports in Their Own Ground
+## 7. Four Base-Supports in Their Own Ground
 
 The second classification is not another list of cosmic populations. It names
 four supports associated with differentiated cognition:
 
-| Support named in the prose | Aggregate that constitutes it |
+| Support named in the prose | Base that constitutes it |
 |---|---|
-| associated with form | form aggregate with outflows |
-| associated with feeling | feeling aggregate with outflows |
-| associated with perception | perception aggregate with outflows |
-| associated with formations | formations aggregate with outflows |
+| associated with form | form Base with outflows |
+| associated with feeling | feeling Base with outflows |
+| associated with perception | perception Base with outflows |
+| associated with formations | formations Base with outflows |
 
-`Sāsrava` restricts these supports to conditioned aggregates with outflows.
-The consciousness aggregate is not included in this fourfold list. The
+`Sāsrava` restricts these supports to conditioned Bases with outflows.
+The consciousness Base is not included in this fourfold list. The
 question why is already raised and argued before the final word `kevalam` of
 VAK 3.07. The Vaibhāṣika explanation distinguishes what stands from its seat;
 the scriptural challenge then requires a more qualified account. In the
-sevenfold scheme, all five aggregates are included together within a rebirth
+sevenfold scheme, all five Bases are included together within a rebirth
 realm. In the fourfold scheme, the supports are considered individually, in
 their relation to the defilement of consciousness.
 
 The final restriction is equally important. A support functions only in its
 own `bhūmi`, not in a dissimilar ground. The Bhāṣya explains this through the
 meaning of `sthiti`: it is establishment. Cognition, governed by craving, is
-established upon aggregates belonging to its corresponding ground. The text
+established upon Bases belonging to its corresponding ground. The text
 therefore gives a ground-indexed relation, not four free-standing substances.
 
 ## 8. The Bhāṣya's Decisions for the Kārikā
@@ -229,19 +230,19 @@ between `svecchayā` and `akāmakāḥ`.
 
 `Punaḥ` marks a second scriptural classification. The seven
 `vijñānasthiti` of VAK 3.05–3.06 classify modes of sentient existence; these
-four classify the aggregate-supports upon which cognition is established.
+four classify the Base-supports upon which cognition is established.
 Their shared name does not make the enumerated members identical.
 
 `Catvāraḥ sāsravāḥ skandhāḥ` refers to form, feeling, perception, and
-formations. “Aggregates with outflows” retains the Sanskrit structure;
-“contaminated aggregates” is the doctrinal shorthand.
+formations. “Bases with outflows” retains the Sanskrit structure;
+“contaminated Bases” is the doctrinal shorthand.
 
 `Svabhūmāv eva` restricts each support to its own ground. The Bhāṣya's
 `pratiṣṭā hi sthitiḥ` confirms that this is a rule of establishment rather
 than simply a geographical statement. The delayed `kevalam` also limits the
 fourfold scheme: consciousness is excluded as a support *only* when the four
 are considered separately. It is included in the sevenfold scheme as part of
-the complete aggregate complex. The two restrictions must not be collapsed
+the complete Base complex. The two restrictions must not be collapsed
 into a single redundant “exclusively.”
 
 ## 9. Philosophical and Organon Study
@@ -282,7 +283,7 @@ have been compared.
 
 The research Bhāṣya identifies the opening movement but stops before the
 reason `pratiṣṭā hi sthitiḥ`, the ensuing dispute over the excluded fifth
-aggregate, and the verse's final `kevalam`. This pass restores that omitted
+Base, and the verse's final `kevalam`. This pass restores that omitted
 text, including the explicit Vaibhāṣika view and the scriptural challenge.
 The fuller seed/field explanation and four-cornered inclusion belong to the
 following VAK 3.08 exposition.

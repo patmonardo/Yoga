@@ -18,19 +18,7 @@ including `vasita`. The Bhāṣya's distributive explanation confirms `hasita`,
 
 ## 3. Lexical Analysis
 
-```text
-tataḥ                      → tata
-ūrdhvam                    → ūrdhvaṃ
-vimāneṣu                   → vimāneṣu
-devāḥ                      → devāḥ
-kāma-bhujaḥ                → kāmabhujas
-tu                         → tu
-ṣaṭ                        → ṣaṭ
-dvandva-āliṅgana-pāṇi-āpti-
-  hasita-īkṣita-maithunāḥ  → dvandvāliṅganapāṇyāptihasitekṣitamaithunāḥ
-```
-
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | tataḥ | ablatival adverb | from there, namely above the Trāyastriṃśa level |
 | ūrdhvam | adverbial accusative | upward / above |

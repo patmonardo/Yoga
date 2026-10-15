@@ -18,22 +18,7 @@ the Bhāṣya.
 
 ## 3. Lexical Analysis
 
-```text
-pāda-vṛddhyā      → pādavṛddhyā
-tanuḥ             → tanur (before y-)
-yāvat             → yāvat
-sa-ardha-krośaḥ   → sārdhakrośaḥ
-diva-okasām       → divaukasām
-kāminām           → kāmināṃ
-rūpiṇām           → rūpiṇāṃ
-tu                → tv (before ā-)
-ādau              → ādau
-yojana-ardham     → yojanārdham
-tataḥ             → tataḥ
-param             → param
-```
-
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | pādavṛddhyā | instrumental feminine singular compound | by an increase of one quarter of a krośa at each step |
 | tanuḥ | nominative feminine singular | body; bodily stature |

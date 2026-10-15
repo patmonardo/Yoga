@@ -14,23 +14,7 @@
 
 ## 3. Lexical Analysis
 
-```text
-adhaḥ                       → adhaḥ
-sahasraiḥ                   → sahasrair
-viṃśatyā                    → viṃśatyā
-tat-mātraḥ                  → tanmātro
-avīciḥ                      → 'vīcir
-asya                        → asya
-hi                          → hi
-tat-ūrdhvam                 → tadūrdhvam
-sapta                       → sapta
-narakāḥ                     → narakāḥ
-sarve                       → sarve
-aṣṭau                       → 'ṣṭau
-ṣoḍaśa-utsadāḥ              → ṣoḍaśotsadāḥ
-```
-
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | adhaḥ | indeclinable | below, downward |
 | sahasraiḥ viṃśatyā | instrumental numerical phrase | by twenty thousand yojanas |

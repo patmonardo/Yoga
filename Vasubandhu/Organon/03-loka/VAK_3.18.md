@@ -14,22 +14,12 @@
 
 ## 3. Lexical Analysis
 
-```text
-na + ātmā + asti                 → nātmāsti
-skandha-mātram                   → skandhamātram
-tu                               → tu
-kleśa-karma-abhisaṃskṛtam        → kleśakarmābhisaṃskṛtam
-antarābhava-saṃtatyā             → antarābhavasaṃtatyā
-kukṣim + eti                     → kukṣim eti
-pradīpa-vat                      → pradīpavat
-```
-
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | na | indeclinable negation | not |
 | ātmā | nominative masculine singular | enduring individual principle asserted by the objector and denied here |
 | asti | third-person singular present of √as | exists; is |
-| skandhamātram | nominative neuter singular compound | aggregates only; the aggregate-series and nothing further at this locus |
+| skandhamātram | nominative neuter singular compound | Bases only; the Base-series and nothing further at this locus |
 | tu | contrastive particle | but; rather |
 | kleśa | compound member | affliction |
 | karma | compound member | action and its karmic efficacy |
@@ -40,7 +30,7 @@ pradīpa-vat                      → pradīpavat
 | pradīpavat | comparative indeclinable | like a lamp or flame |
 
 The syntax opposes the objector's proposed transition-principle to the positive
-account: `na ... tu ...`—not the former, but the aggregate-series conditioned
+account: `na ... tu ...`—not the former, but the Base-series conditioned
 by affliction and karma.
 
 ## 4. Grammar
@@ -65,7 +55,7 @@ skandha-mātram tu
     pradīpavat
 ```
 
-> Rather, the aggregate-series alone—formed by affliction and karma—enters the
+> Rather, the Base-series alone—formed by affliction and karma—enters the
 > womb through the continuity of intermediate existence, like a flame.
 
 `Kleśakarmābhisaṃskṛtam` agrees with the neuter singular
@@ -76,7 +66,7 @@ mediating continuity; `kukṣim` is the destination of `eti`.
 
 ### Close syntactic construe
 
-> No ātman exists; rather, the aggregate-series alone, formed by affliction and
+> No ātman exists; rather, the Base-series alone, formed by affliction and
 > karma, enters the womb through the continuity of intermediate existence,
 > like a flame.
 
@@ -84,7 +74,7 @@ mediating continuity; `kukṣim` is the destination of `eti`.
 
 > The continuity from death through intermediate existence to rebirth does not
 > require the individually persistent principle inferred by the externalist.
-> What reaches the womb is the causally continuous aggregate-series, formed by
+> What reaches the womb is the causally continuous Base-series, formed by
 > affliction and karma and transmitted through intermediate existence as one
 > flame conditions another.
 
@@ -94,7 +84,7 @@ continuity are Bhāṣya determinations.
 ## 6. Philosophical Translation
 
 > Rebirth-continuity is completely articulated at its own level by conditioned
-> relations. Affliction and action form the aggregate-series; intermediate
+> relations. Affliction and action form the Base-series; intermediate
 > existence mediates its passage; the new embodied phase arises in dependence
 > upon the preceding phase. The explanatory work belongs to this lawful
 > process, not to an additional individual carried through it.
@@ -108,9 +98,9 @@ ultimate truth.
 | Sanskrit | Controlled rendering | Determination in this unit |
 |---|---|---|
 | nātmāsti | no ātman exists | categorical anti-adhyāsa warning directed against the externalist's inferred rebirth-principle |
-| skandhamātra | aggregates only / aggregate-series alone | positive determination of what undergoes conditioned continuity here |
+| skandhamātra | Bases only / Base-series alone | positive determination of what undergoes conditioned continuity here |
 | tu | but / rather | turns from the rejected inference to the positive causal account |
-| kleśa | affliction | formative condition of the aggregate-series |
+| kleśa | affliction | formative condition of the Base-series |
 | karma | action / karmic efficacy | formative and projective condition of the series |
 | abhisaṃskṛta | formed / conditioned | describes the preparation of the series by affliction and action |
 | antarābhava-saṃtati | continuity of intermediate existence | mediating series between death and womb-entry |
@@ -119,7 +109,7 @@ ultimate truth.
 
 The source-level negation is registered as the anti-adhyāsa warning that
 controls this argument. The study then proceeds with Vasubandhu's positive
-determinations: aggregates, affliction, karma, intermediate continuity, and
+determinations: Bases, affliction, karma, intermediate continuity, and
 womb-entry.
 
 The research Bhāṣya treats this as the answer to an externalist inference from
@@ -156,7 +146,7 @@ antarābhava-saṃtati
         ↓
 womb-entry
         ↓
-new embodied aggregate-phase
+new embodied Base-phase
 ```
 
 The conclusion is not discontinuity. It is more highly determined continuity.
@@ -236,7 +226,7 @@ traveler; its relation to a Realm is a separate classification question.
 ```text
 momentary Bases + affliction + karma
     → intermediate-existence continuum
-    → new aggregate phase
+    → new Base phase
 
 conditioned continuity
     ≠ an independent owner or transmigrator
@@ -285,7 +275,7 @@ vak:VAK_3_18 a vak:Karika ;
 loka:ConditionedRebirthContinuity a organon:CausalProcess ;
     organon:hasFormativeCondition loka:Affliction,
         loka:Karma ;
-    organon:hasContinuant loka:AggregateSeries ;
+    organon:hasContinuant loka:BaseSeries ;
     organon:hasMediator loka:IntermediateExistenceContinuity ;
     organon:hasDestination loka:WombEntry ;
     organon:hasModel loka:FlameSeries .

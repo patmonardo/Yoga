@@ -5,9 +5,10 @@
 > vijñānasthitayaḥ sapta śeṣaṃ tatparibhedavat /
 > bhavāgrāsaṃjñisattvāś ca sattvāvāsā nava smṛtāḥ // 3.06 //
 
-> The stations of consciousness are seven; the remainder possesses
-> conditions that disrupt it. Together with the peak of existence and the
-> non-percipient beings, nine sentient abodes are traditionally recognized.
+> There are seven states in which differentiated cognition can become stably
+> established. The remaining states contain conditions that disrupt such
+> cognition. When the peak of existence and the `asaṃjñi-sattvas` are
+> included, tradition recognizes nine abodes of beings.
 
 The Bhāṣya determines `paribheda` as that by which `vijñāna` is disrupted,
 not as a neutral subdivision. It also distinguishes two scopes: all seven
@@ -60,7 +61,7 @@ text is claimed, and the running witness remains unchanged.
 There are seven stations of consciousness.
 
 What here constitutes a station of consciousness? As appropriate
-to the case, it is the five aggregates or the four aggregates connected with
+to the case, it is the five Bases or the four Bases connected with
 that state.
 
 Why is the remainder not a cognition-station? Because “the remainder
@@ -101,7 +102,7 @@ place the seven inside a broader set of nine sentient abodes
 ```
 
 The expository voice answers the constitutive question through the associated
-aggregates. It then gives disruption as the first exclusion criterion.
+Bases. It then gives disruption as the first exclusion criterion.
 `Punar āha`, “another explanation is given,” introduces a second criterion
 based on willingness to enter and remain together with vigor of cognitive
 operation. The source does not name a school or speaker for this alternative,
@@ -118,14 +119,14 @@ as a celestial address. The answer is:
 
 ```text
 form-bearing cognition-station
-    five associated aggregates
+    five associated Bases
 
 formless cognition-station
-    four associated aggregates
+    four associated Bases
 ```
 
-The difference follows the presence or absence of the form aggregate. A
-`vijñānasthiti` is therefore constituted by the aggregate-complex connected
+The difference follows the presence or absence of the form Base. A
+`vijñānasthiti` is therefore constituted by the Base-complex connected
 with the corresponding mode, not by an independent place or substantial
 inhabitant.
 
@@ -222,7 +223,7 @@ cognition-station
 ```
 
 This sharpens the body–perception matrix of VAK 3.05. A configuration of body
-and perception is not yet sufficient; the associated aggregate-field must
+and perception is not yet sufficient; the associated Base-field must
 also support cognition against injury, suspension, or interruption.
 
 For the Organon learning pass, this will matter because mere location of a

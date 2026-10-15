@@ -16,21 +16,6 @@
 
 ## 3. Lexical Analysis
 
-
-```text
-nāma                    → nāma
-tu                      → tv
-arūpiṇaḥ                → arūpiṇaḥ
-skandhāḥ                → skandhāḥ
-sparśāḥ                 → sparśāḥ
-ṣaṭ                     → ṣaṭ
-saṃnipāta-jāḥ           → saṃnipātajāḥ
-pañca                   → pañca
-pratigha-saṃsparśāḥ     → pratighasaṃsparśāḥ
-ṣaṣṭhaḥ                 → ṣaṣṭhaḥ
-adhivacana-āhvayaḥ      → adhivacanāhvayaḥ
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | nāma | nominative neuter singular | Name; the four Bases other than Form Base |

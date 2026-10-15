@@ -17,21 +17,7 @@ pending comparison with a critical edition and variant cosmological lists.
 
 ## 3. Lexical Analysis
 
-```text
-aśvakarṇaḥ                  → aśvakarṇo
-vinitakaḥ                   → vinitako
-nimindhara-giriḥ            → nimindharagiriḥ
-tataḥ                       → tataḥ
-dvīpāḥ                      → dvīpā
-bahiḥ                       → bahiś
-cakravāḍaḥ                  → cakravāḍaḥ
-sapta                       → sapta
-haimāḥ                      → haimāḥ
-saḥ                         → sa
-āyasaḥ                      → āyasaḥ
-```
-
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | aśvakarṇaḥ | nominative masculine singular | Aśvakarṇa, continuing the mountain list |
 | vinitakaḥ | nominative masculine singular | Vinitaka, a surrounding mountain |

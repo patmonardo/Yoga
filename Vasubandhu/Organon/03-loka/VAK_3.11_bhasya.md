@@ -5,10 +5,11 @@
 > vrīhisantānasādharmyād avicchinnabhavodbhavaḥ /
 > pratibimbam asiddhatvād asāmyāc cānidarśanam // 3.11 //
 
-> Because of relevant similarity to the continuity of rice, the arising of
-> existence is uninterrupted. A reflected image is not a valid example,
-> because its independent arising is unestablished and because it is
-> dissimilar.
+> Dharmas belonging to a continuity appear elsewhere through an uninterrupted
+> series, as does the continuity of rice; so too does a sentient continuity.
+> Reflection cannot establish rebirth directly across a break: its status as a
+> separately arisen dharma is unproved, and its causal and serial structure is
+> unlike the transition from death to rebirth.
 
 This is the first proof by `yukti`, reasoning, announced in VAK 3.10. The
 Bhāṣya does not defend a permanent traveler. It argues that a sentient

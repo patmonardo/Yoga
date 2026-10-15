@@ -14,19 +14,7 @@
 
 ## 3. Lexical Analysis
 
-```text
-karoṭa-pāṇayaḥ            → karoṭapāṇayas
-tāsu                       → tāsu
-mālā-dhārāḥ                → mālādhārāḥ
-sadā-madāḥ                 → sadāmadāḥ
-mahārājika-devāḥ           → mahārājikadevāś
-ca                         → ca
-parvateṣu                  → parvateṣv
-api                        → api
-saptasu                    → saptasu
-```
-
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | karoṭapāṇayaḥ | nominative masculine plural compound | Karoṭapāṇis, a named class of terrace inhabitants |
 | tāsu | locative feminine plural pronoun | on those, referring to the four terraces of 3.63 |

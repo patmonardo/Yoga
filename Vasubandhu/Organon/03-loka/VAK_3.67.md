@@ -14,18 +14,7 @@
 
 ## 3. Lexical Analysis
 
-```text
-sārdha-dvi-śata-pārśvaḥ    → sārdhadviśatapārśvo
-atra                       → 'tra
-vaijayantaḥ                → vaijayantaḥ
-bahiḥ                      → bahiḥ
-punaḥ                      → punaḥ
-tat                        → tac
-caitraratha-pāruṣya-miśra-
-  nandana-bhūṣitam         → caitrarathapāruṣyamiśranandanabhūṣitam
-```
-
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | sārdhadviśatapārśvaḥ | nominative masculine singular compound | having each side measure two hundred fifty |
 | atra | indeclinable locative adverb | here, within Sudarśana |

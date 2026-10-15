@@ -2,12 +2,14 @@
 
 ## 1. Kārikā Anchor
 
-> saṃprajānan viśaty ekas tiṣṭhaty apy aparo 'paraḥ /
-> niṣkrāmaty api sarvāṇi mūḍho 'nyo nityam aṇḍajaḥ // 3.16 //
+> saṃprajānan viśaty ekaḥ tiṣṭhaty apy aparaḥ aparaḥ /
+> niṣkrāmaty api sarvāṇi mūḍho 'nyaḥ nityam aṇḍajaḥ // 3.16 //
 
-> One enters with clear awareness; another also remains with clear awareness;
-> a further one also emerges with clear awareness. Another is deluded through
-> all three; one who will be egg-born is always deluded.
+> Four womb-descents are distinguished. One is clearly aware upon entry;
+> another upon entry and residence; another throughout entry, residence, and
+> emergence. A fourth undergoes all three stages under delusion. The egg-born
+> case is invariably of the deluded type, with “egg-born” applied prospectively
+> to one who will emerge from an egg.
 
 The Bhāṣya restricts the preceding account of inverted cognition. Womb-descent
 does not invariably occur in delusion: its three phases—entry, residence, and

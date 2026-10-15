@@ -20,20 +20,7 @@ of one hundred **mahākalpas**.
 
 ## 3. Lexical Analysis
 
-```text
-buddhatvam                → buddhatvam
-apakarṣe                  → apakarṣe
-hi                        → hi
-śatāt                     → śatād (before y-)
-yāvat                     → yāvat
-tat-udbhavaḥ              → tadudbhavaḥ
-dvayoḥ                    → dvayoḥ
-pratyeka-buddhānām        → pratyekabuddhānāṃ
-khaḍgaḥ                   → khaḍgaḥ
-kalpa-śata-anvayaḥ        → kalpaśatānvayaḥ
-```
-
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | buddhatvam | nominative neuter singular | buddhahood; the state whose arising is temporally located |
 | apakarṣe | locative masculine singular | during decrease or decline of the human lifespan |

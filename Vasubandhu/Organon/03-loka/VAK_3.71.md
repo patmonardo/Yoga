@@ -14,18 +14,7 @@
 
 ## 3. Lexical Analysis
 
-```text
-kāma-upapattayaḥ           → kāmopapattayas
-tisraḥ                     → tisraḥ
-kāma-devāḥ                 → kāmadevāḥ
-sa-mānuṣāḥ                 → samānuṣāḥ
-sukha-upapattayaḥ          → sukhopapattayas
-tisraḥ                     → tisro
-nava                       → nava
-tri-dhyāna-bhūmayaḥ        → tridhyānabhūmayaḥ
-```
-
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | kāmopapattayaḥ | nominative feminine plural compound | modes of birth characterized by sensual desire |
 | tisraḥ | nominative feminine plural numeral | three |

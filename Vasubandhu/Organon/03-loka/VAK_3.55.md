@@ -14,22 +14,7 @@
 
 ## 3. Lexical Analysis
 
-```text
-godānīyaḥ                  → godānīyaḥ
-sahasrāṇi                  → sahasrāṇi
-sapta                      → sapta
-sa-ardhāni                 → sārdhāni
-maṇḍalaḥ                   → maṇḍalaḥ
-sa-ardhe                   → sārdhe
-dve                        → dve
-madhyamasya                → madhyamasya
-aṣṭau                      → 'ṣṭau
-catur-asraḥ                → caturasraḥ
-kuruḥ                      → kuruḥ
-samaḥ                      → samaḥ
-```
-
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | Godānīyaḥ | nominative masculine singular | Godānīya, western continent |
 | sapta sahasrāṇi sārdhāni | neuter plural numerical phrase | seven and one-half thousand |

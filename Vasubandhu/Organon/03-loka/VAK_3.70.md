@@ -14,21 +14,7 @@
 
 ## 3. Lexical Analysis
 
-```text
-pañca-varṣa-upamaḥ         → pañcavarṣopamo
-yāvat                      → yāvad
-daśa-varṣa-upamaḥ          → daśavarṣopamaḥ
-śiśuḥ                      → śiśuḥ
-saṃbhavati                 → saṃbhavaty
-eṣu                        → eṣu
-saṃpūrṇāḥ                  → saṃpūrṇāḥ
-sa-vastrāḥ                 → savastrāś
-ca                         → ca
-eva                        → eva
-rūpiṇaḥ                    → rūpiṇaḥ
-```
-
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | pañcavarṣopamaḥ | nominative masculine singular compound | resembling a five-year-old |
 | yāvat | indeclinable correlative | as far as / up to; marks the range endpoint |

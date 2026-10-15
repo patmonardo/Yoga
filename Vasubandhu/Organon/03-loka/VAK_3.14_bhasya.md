@@ -3,12 +3,14 @@
 ## 1. Kārikā Anchor
 
 > sajātiśuddhadivyākṣidṛśyaḥ karmarddhivegavān /
-> sakalākṣo 'pratighavān anivartyaḥ sa gandhabhuk // 3.14 //
+> sakalākṣaḥ apratighavān anivartyaḥ sa gandhabhuk // 3.14 //
 
-> The intermediate being is visible to those of its own class and to a
-> purified divine eye. It possesses the speed of karmic power, all five
-> faculties, and freedom from material obstruction; it cannot turn away from
-> its projected destiny, and it feeds upon scent.
+> The intermediate being can be seen by intermediate beings of its own class
+> and by a highly purified divine eye produced through `abhijñā`. It travels
+> with karmically generated extraordinary speed, possesses all five faculties,
+> passes through ordinary material obstructions, cannot change the destiny
+> toward which it was projected, and in the Desire Realm takes subtle scent
+> rather than gross morsel-food as nutriment.
 
 The Bhāṣya treats these not as decorative marvels but as constraints upon a
 transition already configured by karma. It then asks how long the intermediate

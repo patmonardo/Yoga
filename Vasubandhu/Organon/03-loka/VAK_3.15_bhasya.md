@@ -3,11 +3,13 @@
 ## 1. Kārikā Anchor
 
 > viparyastamatir yāti gatideśaṃ riraṃsayā /
-> gandhasthānābhikāmo 'nya ūrdhvapādas tu nārakaḥ // 3.15 //
+> gandhasthānābhikāmo 'nyaḥ ūrdhvapādas tu nārakaḥ // 3.15 //
 
-> With inverted understanding, the intermediate being goes to the place of
-> its destiny through longing. Another is attracted toward scent or a place; but
-> the hell-bound intermediate being goes with feet upward.
+> The intermediate being approaches its karmically projected rebirth-place
+> through a distorted presentation and the longing corresponding to its mode
+> of birth. A moisture-born transition approaches an impure or pure site,
+> drawn by scent; a spontaneously arisen transition is attracted toward its
+> place. A hell-bound transition moves inverted, with feet upward.
 
 The Bhāṣya explains how a destination already projected by karma becomes an
 object of approach. Its central claim is not that desire freely chooses the
@@ -102,8 +104,8 @@ the *Prajñapti*: “At that time one or the other of two mental states becomes
 present in the gandharva, accompanied either by attraction or by aversion.”
 Distorted by these two, and wishing to enjoy, it embraces that place and
 takes that condition to be its own. Having reached that impure place of the
-womb, it becomes delighted and settles there. Its aggregates then become
-dense and the aggregates of intermediate existence disappear; in this way it
+womb, it becomes delighted and settles there. Its Bases then become
+dense and the Bases of intermediate existence disappear; in this way it
 has been reborn.
 
 If it is male, it develops crouched in the mother's right side, facing her
@@ -166,7 +168,7 @@ The unit contains two connected investigations:
 karmically projected destination
     → destination perceived through a karma-produced eye
     → attraction and aversion configure approach
-    → intermediate aggregates disappear at rebirth
+    → intermediate Bases disappear at rebirth
     → dispute over the new body's material basis
     → different attractions for other modes of birth
     → inverted cognition makes hell appear as relief
@@ -195,7 +197,7 @@ own rebirth-place becomes visible
     → desire for one and aversion toward the other arise
     → the being appropriates the perceived situation
     → delight fixes it in the womb-place
-    → intermediate aggregates disappear as embodied aggregates become dense
+    → intermediate Bases disappear as embodied Bases become dense
 ```
 
 `Adhimucyate` is important here. The being takes or resolves the perceived

@@ -16,15 +16,6 @@
 
 ## 3. Lexical Analysis
 
-
-```text
-vidyā-avidyā-itara-sparśāḥ  → vidyāvidyetarasparśāḥ
-amala-kliṣṭa-śeṣitāḥ        → amalakliṣṭaśeṣitāḥ
-vyāpāda-anunaya-sparśau     → vyāpādānunayasparśau
-sukha-vedya-ādayaḥ          → sukhavedyādayaḥ
-trayaḥ                      → trayaḥ
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | vidyāsparśa | nominative masculine singular within coordinated compound | Contact associated with knowledge |

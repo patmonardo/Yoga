@@ -14,17 +14,7 @@
 
 ## 3. Lexical Analysis
 
-```text
-mṛtyu-upapatti-bhavayoḥ → mṛtyūpapattibhavayoḥ
-antarā                   → antarā
-bhavati + iha            → bhavatīha
-yaḥ                      → yaḥ
-gamya-deśa-anupetatvāt   → gamyadeśānupetatvāt
-na + upapannaḥ           → nopapannaḥ
-antarā-bhavaḥ            → antarābhavaḥ
-```
-
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | mṛtyu-upapatti-bhavayoḥ | locative dual compound | between death-existence and rebirth-existence |
 | antarā | indeclinable | between; in the interval |

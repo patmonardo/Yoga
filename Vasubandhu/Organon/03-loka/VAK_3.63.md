@@ -14,21 +14,7 @@
 
 ## 3. Lexical Analysis
 
-```text
-pariṣaṇḍāḥ                 → pariṣaṇḍāś
-catasraḥ                   → catasro
-asya                       → 'sya
-daśa-sāhasrika-antarāḥ     → daśasāhasrikāntarāḥ
-ṣoḍaśa                     → ṣoḍaśa
-aṣṭau                      → aṣṭau
-sahasrāṇi                  → sahasrāṇi
-catvāri                    → catvāri
-dve                        → dve
-ca                         → ca
-nirgatāḥ                   → nirgatāḥ
-```
-
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | pariṣaṇḍāḥ | nominative feminine plural | surrounding terraces or ledges |
 | catasraḥ | nominative feminine plural numeral | four |

@@ -14,21 +14,7 @@
 
 ## 3. Lexical Analysis
 
-```text
-dvi-guṇa-uttaram        → dviguṇottaram
-ūrdhvānām               → ūrdhvānām
-ubhayam                 → ubhayaṃ
-rūpiṇām                 → rūpiṇāṃ
-punaḥ                   → punaḥ
-na asti                 → nāsti
-ahas-rātram             → ahorātram
-āyuḥ                    → āyus (before t-)
-tu                      → tu
-kalpaiḥ                 → kalpaiḥ
-sva-āśraya-saṃmitaiḥ    → svāśrayasaṃmitaiḥ
-```
-
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | dviguṇottaram | nominative neuter singular compound agreeing with `ubhayam` | successively twofold at each higher station |
 | ūrdhvānām | genitive masculine plural | of the higher desire-realm devas |

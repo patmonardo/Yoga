@@ -14,21 +14,7 @@
 
 ## 3. Lexical Analysis
 
-```text
-cheda                       → cheda
-saṃdhāna                   → saṃdhāna
-vairāgya                   → vairāgya
-hāni                       → hāni
-cyuti                      → cyuti
-upapattayaḥ                → upapattayaḥ
-manaḥ-vijñāne              → manovijñāne
-eva                        → eva
-iṣṭāḥ                      → iṣṭāḥ
-upekṣāyām                  → upekṣāyām
-cyuta-udbhavau             → cyutodbhavau
-```
-
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | cheda | first member of coordinated nominative list | cutting off; specified as cutting wholesome roots |
 | saṃdhāna | second member of list | reconnection; specified as reconnecting wholesome roots |

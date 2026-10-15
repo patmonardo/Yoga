@@ -14,22 +14,7 @@
 
 ## 3. Lexical Analysis
 
-```text
-catur-viṃśatiḥ       → caturviṃśatir (before a-)
-aṅgulyaḥ             → aṅgulyo (before h-)
-hastaḥ               → hasto (before h-)
-hasta-catuṣṭayam     → hastacatuṣṭayam
-dhanuḥ               → dhanuḥ
-pañca-śatāni         → pañcaśatāny (before e-)
-eṣām                 → eṣāṃ
-krośaḥ               → krośo (before a-)
-araṇyam              → 'raṇyaṃ (after avagraha)
-ca                   → ca
-tat                  → tan (before m-)
-matam                → matam
-```
-
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | caturviṃśatiḥ | cardinal numeral | twenty-four |
 | aṅgulyaḥ | nominative feminine plural | aṅgulis or finger-breadths |

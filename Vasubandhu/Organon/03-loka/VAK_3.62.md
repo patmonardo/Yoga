@@ -14,17 +14,7 @@
 
 ## 3. Lexical Analysis
 
-```text
-lavaśaḥ                    → lavaśo
-rātri-ahaḥ-vṛddhī          → rātryaharvṛddhī
-dakṣiṇa-uttara-ge          → dakṣiṇottarage
-ravau                      → ravau
-sva-chāyayā                → svacchāyayā
-arka-sāmīpyāt              → 'rkasāmīpyād
-vikala-indu-samīkṣaṇam     → vikalendusamīkṣaṇam
-```
-
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | lavaśaḥ | adverbial distributive | lava by lava, one minute increment at a time |
 | rātryaharvṛddhī | nominative feminine dual compound | increases of night and day |

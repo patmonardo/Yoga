@@ -14,18 +14,7 @@
 
 ## 3. Lexical Analysis
 
-```text
-na                          → na
-ekāgra-acittayoḥ            → ekāgrācittayoḥ
-etau                        → etau
-nirvāti                     → nirvāty
-avyākṛta-dvaye              → avyākṛtadvaye
-krama-cyutau                → kramacyutau
-pāda-nābhi-hṛdayeṣu         → pādanābhihṛdayeṣu
-manaḥ-cyutiḥ                → manaścyutiḥ
-```
-
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | na | negative particle | excludes two cognitive conditions |
 | ekāgrācittayoḥ | locative dual compound | in concentrated consciousness and in a mindless state |

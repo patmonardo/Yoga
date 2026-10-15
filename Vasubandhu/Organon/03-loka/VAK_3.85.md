@@ -14,17 +14,7 @@
 
 ## 3. Lexical Analysis
 
-```text
-kuru-bāhyaḥ                → kurubāhyaḥ → kurubāhyo (before a-)
-antarā-mṛtyuḥ              → antarāmṛtyuḥ
-paramāṇu-akṣara-kṣaṇāḥ     → paramāṇv-akṣara-kṣaṇāḥ
-rūpa-nāma-adhva-paryantāḥ  → rūpanāmādhvaparyantāḥ
-paramāṇuḥ                  → paramāṇur (before a-)
-aṇuḥ                       → aṇus (before t-)
-tathā                      → tathā
-```
-
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | kurubāhyaḥ | nominative masculine singular compound | occurring outside Uttarakuru |
 | antarāmṛtyuḥ | nominative masculine singular compound | death before completion of the allotted lifespan |

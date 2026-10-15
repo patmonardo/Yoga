@@ -18,23 +18,7 @@ increase from a ten-year human lifespan to the upper limit of 80,000 years.
 
 ## 3. Lexical Analysis
 
-```text
-utkarṣaḥ              → utkarṣa (before e-)
-ekaḥ                  → ekas (before t-)
-te                    → te
-aśīti-sahasrāt        → 'śītisahasrād (after avagraha, before y-)
-yāvat                 → yāvad (before ā-)
-āyuṣaḥ                → āyuṣaḥ
-iti                   → iti
-lokaḥ                 → loko (before v-)
-vivṛttaḥ              → vivṛtto (before a-)
-ayam                  → 'yaṃ (after avagraha)
-kalpān                → kalpāṃs (before t-)
-tiṣṭhati              → tiṣṭhati
-viṃśatim              → viṃśatim
-```
-
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | utkarṣaḥ | nominative masculine singular | one directed increase of human lifespan |
 | ekaḥ | nominative masculine singular | single; the final one-way trajectory |

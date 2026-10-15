@@ -17,17 +17,6 @@ The first phrase completes the definition of Name-and-Form begun in VAK
 
 ## 3. Lexical Analysis
 
-```text
-prāk                              → prāk
-ṣaṭ-āyatana-utpādāt              → ṣaḍāyatanotpādāt
-tat-pūrvam                       → tatpūrvam
-trika-saṃgamāt                   → trikasaṃgamāt
-sparśaḥ                          → sparśaḥ
-prāk                             → prāk
-sukha-duḥkha-ādi-kāraṇa-jñāna-śaktitaḥ
-                                 → sukhaduḥkhādikāraṇajñānaśaktitaḥ
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | prāk | indeclinable governing an ablative | before; marks the stage's terminal boundary |

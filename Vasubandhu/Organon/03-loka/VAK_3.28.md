@@ -26,20 +26,6 @@ amitra-anṛta-ādi-vat
 
 ## 3. Lexical Analysis
 
-```text
-hetuḥ                   → hetur
-atra                    → atra
-samutpādaḥ              → samutpādaḥ
-samutpannam             → samutpannam
-phalam                  → phalam
-matam                   → matam
-vidyā-vipakṣaḥ          → vidyāvipakṣaḥ
-dharmaḥ                 → dharmaḥ
-anyaḥ                   → anyaḥ
-avidyā                  → avidyā
-amitra-anṛta-ādi-vat    → amitrānṛtādivat
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | hetuḥ | nominative masculine singular | cause / ground; role assigned here to `samutpāda` |

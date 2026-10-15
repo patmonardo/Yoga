@@ -14,18 +14,7 @@
 
 ## 3. Lexical Analysis
 
-```text
-viṃśati-antaritāni         → viṃśatyantaritāny
-eṣām                       → eṣāṃ
-su-bhūmīni                 → subhūmīni
-catur-diśam                → caturdiśam
-pūrva-uttare               → pūrvottare
-pārijātaḥ                  → pārijātaḥ
-sudharmā                   → sudharmā
-dakṣiṇa-avare              → dakṣiṇāvare
-```
-
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | viṃśatyantaritāni | nominative neuter plural compound | separated by twenty |
 | eṣām | genitive plural pronoun | of these, referring to the four gardens |

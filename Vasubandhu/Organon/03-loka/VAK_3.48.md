@@ -18,20 +18,7 @@ philological question for critical-edition review.
 
 ## 3. Lexical Analysis
 
-```text
-samantataḥ                   → samantatas
-tu                           → tu
-tri-guṇam                    → triguṇam
-tatra                        → tatra
-meruḥ                        → merur
-yugandharaḥ                  → yugandharaḥ
-īśādhāraḥ                    → īśādhāraḥ
-khadirakaḥ                   → khadirakaḥ
-sudarśana-giriḥ              → sudarśanagiris
-tathā                        → tathā
-```
-
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | samantataḥ | indeclinable adverb | all around, by the circumference |
 | tu | adversative or transitional particle | but; now as to another measure |

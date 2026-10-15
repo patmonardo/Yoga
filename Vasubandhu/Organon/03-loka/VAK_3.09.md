@@ -14,17 +14,7 @@
 
 ## 3. Lexical Analysis
 
-```text
-caturdhā                  → caturdhā
-narāḥ + tiryañcaḥ         → naratiryañcaḥ
-nārakāḥ                   → nārakāḥ
-upapādukāḥ                → upapādukāḥ
-antarābhavāḥ + devāḥ + ca → antarābhavadevāś ca
-pretāḥ + api              → pretā api
-jarāyujāḥ                 → jarāyujāḥ
-```
-
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | caturdhā | indeclinable distributive adverb | in four ways; through all four birth-modes |
 | narāḥ | nominative masculine plural | humans |

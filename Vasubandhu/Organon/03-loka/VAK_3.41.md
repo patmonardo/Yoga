@@ -14,18 +14,7 @@
 
 ## 3. Lexical Analysis
 
-```text
-iha                         → iha
-puṣṭi-artham               → puṣṭyartham
-āśraya-āśritayoḥ           → āśrayāśritayoḥ
-dvayam                      → dvayam
-dvayam                      → dvayam
-anya-bhava-ākṣepa-nirvṛtti-artham
-                            → anyabhavākṣepanirvṛttyartham
-yathā-kramam                → yathākramam
-```
-
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | iha | adverb | here; in already-arisen existence |
 | puṣṭyartham | accusative neuter singular purpose compound | for the sake of nourishment or strengthening |

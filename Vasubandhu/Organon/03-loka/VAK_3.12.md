@@ -14,19 +14,7 @@
 
 ## 3. Lexical Analysis
 
-```text
-saha + ekatra          → sahaikatra
-dvaya-abhāvāt          → dvayābhāvāt
-a-santānāt             → asantānāt
-dvaya-udayāt           → dvayodayāt
-kaṇṭha-ukteḥ + ca      → kaṇṭhokteś ca
-ca + asti              → cāsti
-gandharvāt             → gandharvāt
-pañca-ukteḥ            → pañcokteḥ
-gati-sūtrataḥ          → gatisūtrataḥ
-```
-
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | saha | indeclinable | together; simultaneously |
 | ekatra | indeclinable | in one place |
@@ -126,7 +114,7 @@ are determinations supplied by the Bhāṣya.
 | antarāparinirvāyin | one attaining parinirvāṇa in the intermediate state | classification unintelligible if no intermediate state exists |
 | gati-sūtra | discourse on courses | teaching of seven courses of good persons |
 | satpuruṣagati | course of a good person | Bhāṣya-cited framework containing three intermediate attainments |
-| skandhabheda | dissolution of the aggregates | opponent's alternative reading in place of `gandharva` |
+| skandhabheda | dissolution of the Bases | opponent's alternative reading in place of `gandharva` |
 
 The working Bhāṣya e-text contains visible corruptions, including `skndhabheda`
 and `paṭhacyate`. The argument can be established, but its quoted witness is
@@ -180,12 +168,12 @@ The opponent repeatedly contests the witnesses:
 
 ```text
 “our transmission does not recite that passage”
-“we read dissolution of the aggregates”
+“we read dissolution of the Bases”
 “Antarā is merely the name of certain devas”
 ```
 
 Vasubandhu responds by adducing another witness or testing the alternative for
-coherence. A dissolution of aggregates cannot intelligibly be described as
+coherence. A dissolution of Bases cannot intelligibly be described as
 coming from a direction; and if `antarā` names devas, parallel expressions
 would implausibly turn the other modes of attainment into deva names as well.
 

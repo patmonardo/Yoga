@@ -20,20 +20,7 @@ deficient nights used in constructing the year.
 
 ## 3. Lexical Analysis
 
-```text
-trayaḥ / [triṃśat]        → trayo
-muhūrta                   → muhūrttā-
-ahas-rātra                → -ahorātra-
-māsaḥ                     → -māsāḥ / māsā
-dvādaśa-māsakaḥ           → dvādaśamāsakaḥ
-saṃvatsaraḥ               → saṃvatsaraḥ
-sa-ūna-rātraḥ             → sonarātraḥ
-kalpaḥ                    → kalpo (before b-)
-bahu-vidhaḥ               → bahuvidhaḥ
-smṛtaḥ                    → smṛtaḥ
-```
-
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | muhūrta | compound member | time-unit composed of thirty lavas |
 | ahorātra | compound member | complete day-night cycle composed of thirty muhūrtas |

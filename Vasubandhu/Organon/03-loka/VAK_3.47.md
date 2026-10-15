@@ -14,18 +14,7 @@
 
 ## 3. Lexical Analysis
 
-```text
-tiryak                       → tiryak
-trīṇi                        → trīṇi
-sahasrāṇi                    → sahasrāṇi
-sa-ardham                    → sārdham
-śata-catuṣṭayam              → śatacatuṣṭayam
-lakṣa-dvādaśakam             → lakṣadvādaśakam
-ca eva                       → caiva
-jala-kāñcana-maṇḍalam        → jalakāñcanamaṇḍalam
-```
-
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | tiryak | indeclinable | transversely, laterally, across |
 | trīṇi sahasrāṇi | neuter plural numerical phrase | three thousand |

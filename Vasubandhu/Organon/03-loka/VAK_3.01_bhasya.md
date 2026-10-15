@@ -5,9 +5,9 @@
 > narakapretatiryañco manuṣyāḥ ṣaḍ divaukasaḥ /
 > kāmadhātuḥ sa narakadvīpabhedena viṃśatiḥ // 3.01 //
 
-> Hell-beings, pretas, animals, humans, and the six classes of
-> heaven-dwellers constitute the Desire Realm. Through the differentiation
-> of its hells and continents, it comprises twenty locations.
+> Hell-beings, pretas, animals, humans, and the six classes of heaven-dwellers
+> constitute the Desire Realm. Through the differentiation of its hells and
+> continents, it comprises twenty locations.
 
 The Bhāṣya supplies `sthānāni`, “locations,” as the understood noun with
 `viṃśatiḥ`. The first half of the verse names modes of sentient existence;

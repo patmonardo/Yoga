@@ -19,20 +19,7 @@ a mahākalpa; below that boundary it is half.
 
 ## 3. Lexical Analysis
 
-```text
-ārūpye                 → ārūpye
-viṃśatiḥ               → viṃśatiḥ
-kalpa-sahasrāṇi        → kalpasahasrāṇi
-adhika-adhikam         → adhikādhikam
-mahā-kalpaḥ            → mahākalpaḥ
-parītta-ābhāt          → parīttābhāt
-prabhṛti               → prabhṛty (before a-)
-ardham                 → ardham
-adhas                  → adhas
-tataḥ                  → tataḥ
-```
-
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | ārūpye | locative neuter singular | in the formless realm |
 | viṃśatiḥ | cardinal numeral | twenty; distributive increment in thousands |

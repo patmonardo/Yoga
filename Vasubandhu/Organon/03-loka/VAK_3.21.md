@@ -14,17 +14,6 @@
 
 ## 3. Lexical Analysis
 
-```text
-pūrvakleśā daśāvidyā  → pūrvakleśā + daśā + avidyā
-saṃskārāḥ              → saṃskārāḥ
-pūrva-karmaṇaḥ         → pūrvakarmaṇaḥ
-saṃdhi-skandhāḥ        → saṃdhiskandhāḥ
-tu                     → tu
-vijñānam               → vijñānam
-nāma-rūpam             → nāmarūpam
-ataḥ param             → ataḥ param
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | pūrvakleśā daśā | phrase; exact division of the first pāda remains uncertain | the state of afflictions in the former birth |

@@ -14,17 +14,7 @@
 
 ## 3. Lexical Analysis
 
-```text
-sajāti-śuddha-divya-akṣi-dṛśyaḥ → sajātiśuddhadivyākṣidṛśyaḥ
-karma-ṛddhi-vega-vān             → karmarddhivegavān
-sakala-akṣaḥ                     → sakalākṣaḥ
-a-pratigha-vān                   → apratighavān
-a-nivartyaḥ                      → anivartyaḥ
-saḥ                              → sa
-gandha-bhuk                      → gandhabhuk
-```
-
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | sajāti | compound member | of the same class or kind |
 | śuddha-divyākṣi | compound member | purified divine eye |

@@ -20,22 +20,7 @@ preserved rather than normalized to the more familiar `arbuda`.
 
 ## 3. Lexical Analysis
 
-```text
-kukūlam                     → kukūlaṃ
-kuṇapam                     → kuṇapaṃ
-ca                          → c
-atha                        → ātha
-kṣura-mārga-ādikam          → kṣuramārgādikaṃ
-nadī                        → nadī
-teṣām                       → teṣāṃ
-catur-diśam                 → caturdiśaṃ
-śītāḥ                       → śītā
-anye                        → anye
-aṣṭau                       → 'ṣṭāv
-arvuda-ādayaḥ               → arvudādayaḥ
-```
-
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | kukūlam | nominative/accusative neuter singular | knee-deep field of burning embers |
 | kuṇapam | nominative/accusative neuter singular | putrid excrement-mire |

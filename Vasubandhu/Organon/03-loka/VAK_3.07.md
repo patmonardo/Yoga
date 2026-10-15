@@ -14,19 +14,7 @@
 
 ## 3. Lexical Analysis
 
-```text
-anicchā-avasanāt + na + anye → anicchāvasanān nānye
-catasraḥ                      → catasraḥ
-sthitayaḥ                     → sthitayaḥ
-punaḥ                         → punaḥ
-catvāraḥ                      → catvāraḥ
-sa-āsravāḥ                    → sāsravāḥ
-skandhāḥ                      → skandhāḥ
-sva-bhūmau + eva             → svabhūmāv eva
-kevalam                       → kevalam
-```
-
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | anicchā-avasanāt | ablative singular compound | because dwelling is unwilling / because of unwanted residence |
 | na anye | negation with nominative masculine plural | no others |
@@ -35,7 +23,7 @@ kevalam                       → kevalam
 | punaḥ | indeclinable | again, further, in another scriptural classification |
 | catvāraḥ | nominative masculine plural numeral | four, agreeing with `skandhāḥ` |
 | sāsravāḥ | nominative masculine plural, `sa-āsrava` | with outflows; contaminated |
-| skandhāḥ | nominative masculine plural | aggregates |
+| skandhāḥ | nominative masculine plural | Bases |
 | sva-bhūmau | locative feminine singular compound | in their own ground |
 | eva kevalam | double restrictive expression | only, exclusively |
 
@@ -74,7 +62,7 @@ saṃjñā     perception
 saṃskāra   formations
 ```
 
-They are the four with-outflow aggregates other than `vijñāna`. Each functions
+They are the four with-outflow Bases other than `vijñāna`. Each functions
 as a station of differentiated cognition only in its own ground, never in
 another ground.
 
@@ -83,7 +71,7 @@ another ground.
 ### Close syntactic construe
 
 > There are no others because dwelling [there] is unwilling. Again, the four
-> stations are the four aggregates with outflows, exclusively in their own
+> stations are the four Bases with outflows, exclusively in their own
 > ground.
 
 ### Bhāṣya-informed study translation
@@ -93,7 +81,7 @@ another ground.
 > four cognition-stations: form, feeling, perception, and formations with
 > outflows, each functioning as a station only within its own proper ground.
 
-The bad destinies, the four named aggregates, and their function as stations
+The bad destinies, the four named Bases, and their function as stations
 associated with `vijñāna` are Bhāṣya determinations. “With outflows” preserves
 the literal structure of `sāsrava`; “contaminated” remains its doctrinal gloss.
 
@@ -118,12 +106,12 @@ ground of cognitive support.
 | karmarākṣasa | rākṣasa of karma | Bhāṣya image of karma as the coercive power enforcing unwanted placement |
 | bandhanasthāna | place of confinement | Bhāṣya comparison showing why forced occupancy is not properly an abode |
 | sthiti | standing / establishment / station | operative establishment; used here in a second fourfold classification |
-| rūpopaga | associated with form | first aggregate-based cognition-station in the Bhāṣya |
-| vedanopaga | associated with feeling | second aggregate-based cognition-station |
-| saṃjñopaga | associated with perception | third aggregate-based cognition-station |
-| saṃskāropaga | associated with formations | fourth aggregate-based cognition-station |
+| rūpopaga | associated with form | first Base-based cognition-station in the Bhāṣya |
+| vedanopaga | associated with feeling | second Base-based cognition-station |
+| saṃjñopaga | associated with perception | third Base-based cognition-station |
+| saṃskāropaga | associated with formations | fourth Base-based cognition-station |
 | sāsrava | with outflows; consequential in the Organon register | participating in the conditioned outflow-order rather than standing outside it |
-| skandha | aggregate | aggregate-complex functioning here as a station for differentiated cognition |
+| skandha | Base | Base-complex functioning here as a station for differentiated cognition |
 | svabhūmi | own ground | the proper domain-level in which a support-function operates |
 
 ### The station cognate
@@ -192,7 +180,7 @@ each support
 ```
 
 `Vijñāna` is not included as its own station. Differentiated cognition stands
-through relations to the other four with-outflow aggregates. No determination
+through relations to the other four with-outflow Bases. No determination
 floats free of the field that gives it its support-function.
 
 ## 9. Interpretive Note
@@ -224,7 +212,7 @@ PRAJNA
 
 vijñāna
     does not station itself
-    stands through four aggregate-relations
+    stands through four Base-relations
 
 four stations
     form
@@ -260,7 +248,7 @@ The verse therefore advances the telos proposed in VAK 3.06:
 ```text
 PRAJNA may become Known among Embodied Agents
     only if
-vijñāna can stand through lawful aggregate-supports
+vijñāna can stand through lawful Base-supports
     only if
 each support operates upon its own proper ground
 ```
@@ -281,20 +269,20 @@ and every station is ground-specific.
 vak:VAK_3_07 a vak:Karika ;
     vak:belongsTo vak:Lokanirdesa ;
     vak:closes loka:NineSattvavasas ;
-    vak:determines abhi:FourAggregateStations .
+    vak:determines abhi:FourBaseStations .
 
-abhi:FourAggregateStations a organon:CognitionSupportSystem ;
+abhi:FourBaseStations a organon:CognitionSupportSystem ;
     organon:hasStation abhi:RupaStation,
         abhi:VedanaStation,
         abhi:SamjnaStation,
         abhi:SamskaraStation .
 
-abhi:RupaStation a organon:WithOutflowAggregateStation .
-abhi:VedanaStation a organon:WithOutflowAggregateStation .
-abhi:SamjnaStation a organon:WithOutflowAggregateStation .
-abhi:SamskaraStation a organon:WithOutflowAggregateStation .
+abhi:RupaStation a organon:WithOutflowBaseStation .
+abhi:VedanaStation a organon:WithOutflowBaseStation .
+abhi:SamjnaStation a organon:WithOutflowBaseStation .
+abhi:SamskaraStation a organon:WithOutflowBaseStation .
 
-organon:WithOutflowAggregateStation
+organon:WithOutflowBaseStation
     organon:isRestrictedTo organon:OwnGround .
 
 loka:BadDestinyOccupancy a organon:CoercedPlacement ;

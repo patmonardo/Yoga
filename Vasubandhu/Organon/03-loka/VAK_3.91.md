@@ -14,21 +14,7 @@
 
 ## 3. Lexical Analysis
 
-```text
-antar-kalpaḥ          → antaḥkalpaḥ → antaḥkalpo (before a-)
-amitāt                → 'mitād (after avagraha, before y-)
-yāvat                 → yāvad (before d-)
-daśa-varṣa-āyuṣaḥ    → daśavarṣāyuṣas (before t-)
-tataḥ                 → tataḥ
-utkarṣāḥ              → utkarṣā (before a-)
-apakarṣāḥ             → apakarṣāś (before c-)
-ca                    → ca
-kalpāḥ                → kalpā (before a-)
-aṣṭādaśa              → aṣṭādaśa
-apare                 → apare
-```
-
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | antaḥkalpaḥ | nominative masculine singular compound | intermediate kalpa; internal temporal enclosure of the standing World |
 | amitāt | ablative neuter singular | from immeasurable lifespan |
