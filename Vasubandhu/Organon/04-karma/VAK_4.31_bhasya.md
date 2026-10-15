@@ -18,7 +18,7 @@ The running unit extends from [215|14] through [216|12–13] in
 `Vasubandhu/Sources/kosabhasya.txt`. The question about refuge at
 [216|13–14] opens the next discussion and is reserved for 4.32.
 
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
 ```iast
 sarve cet saṃvṛtā ekadeśakāryādayaḥ katham /

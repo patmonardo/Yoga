@@ -19,7 +19,7 @@ ends with the explicit avijñapti closing sentence at [210|19] in
 `Vasubandhu/Sources/kosabhasya.txt`. The next Kārikā begins a discussion
 of `vijñapti` at [210|20].
 
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
 ```iast
 kim asaṃvarasthaḥ kadācit kuśalayā vijñaptyā samanvāgato bhavati,

@@ -26,19 +26,6 @@ they are not presented as an exhaustive inventory of ethically qualified acts.
 
 ## 3. Lexical Analysis
 
-```text
-viparyayāt
-sucaritam
-
-tat-audārika-saṃgrahāt
-
-daśa
-karma-pathāḥ
-uktāḥ
-yathā-yogam
-śubha-aśubhāḥ
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | `viparyayāt` | ablative masculine singular | by reversal; from the contrary |
@@ -101,13 +88,13 @@ unwholesome courses from bad conduct.
 
 ## 5. Translation
 
-### Scientific English Rendering
+### Literal
 
 > By reversal there is good conduct. Because the principal forms of that
 > conduct are comprehended, ten courses of karma are taught, wholesome and
 > unwholesome as applicable.
 
-### Bhāṣya-informed study translation
+### Bhāṣya-informed
 
 > Good conduct is the converse [of bad conduct]. By selecting the salient
 > forms of those conducts, ten courses of karma are taught, wholesome or
@@ -128,16 +115,7 @@ outside the ten are supplied by the Bhāṣya.
 
 ## 6. Philosophical Translation
 
-> The complete practical field contains more determinations than its canonical
-> taxonomy. Through discrimination, the principal forms are selected as ten
-> courses that make the operative structure of wholesome and unwholesome
-> conduct explicit. The classification is therefore a Transcendental Form
-> theory: it identifies the decisive routes through which practical
-> determination becomes karmically organized without pretending that only ten
-> ethically meaningful events exist.
-
-View belongs to this field as a root governing the direction of action, not as
-strict karma identical with the volition it conditions.
+> By reversal there is good conduct. Because the principal forms of that conduct are comprehended, ten courses of karma are taught, wholesome and unwholesome as applicable.
 
 ## 7. Technical Vocabulary
 
@@ -320,6 +298,19 @@ articulation.
 This is the Organon contact. The positive conduct-list, question about views,
 root explanation, selection criterion, and excluded examples belong to the
 Bhāṣya; Transcendental Form Theory is the project synthesis.
+
+### Former Philosophical Translation
+
+> The complete practical field contains more determinations than its canonical
+> taxonomy. Through discrimination, the principal forms are selected as ten
+> courses that make the operative structure of wholesome and unwholesome
+> conduct explicit. The classification is therefore a Transcendental Form
+> theory: it identifies the decisive routes through which practical
+> determination becomes karmically organized without pretending that only ten
+> ethically meaningful events exist.
+
+View belongs to this field as a root governing the direction of action, not as
+strict karma identical with the volition it conditions.
 
 ## 10. OWL++ Seed
 

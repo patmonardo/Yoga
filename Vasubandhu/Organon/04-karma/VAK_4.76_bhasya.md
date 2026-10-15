@@ -15,7 +15,7 @@ The verse completes the definitions of the verbal courses. This unit gives
 the broad definition of the fourth course. The alternative residual account
 begins as the first half of VAK 4.77 and belongs to the next study.
 
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
 ```iast
 paiśunyaṃ kliṣṭacittasya vacanaṃ parabhedane /

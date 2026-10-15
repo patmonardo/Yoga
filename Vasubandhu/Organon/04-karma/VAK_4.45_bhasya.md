@@ -20,7 +20,7 @@ The complete opening unit runs through [227|12–13]. The phrase
 `tatra tāvat` at [227|13] introduces the explanation of the
 merit triad taken up in 4.46.
 
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
 ```iast
 ataḥ param idānīṃ karmanirdeśādhikārāt sūtrīddiṣṭānāṃ

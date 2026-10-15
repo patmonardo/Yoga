@@ -27,21 +27,6 @@ as `rūpa`, and it does not mean the formless realm (`ārūpya`).
 
 ## 3. Lexical Analysis
 
-```text
-kāma-āptam
-kuśala-arūpam
-
-mūla-cchedāt
-ūrdhva-janmataḥ
-
-pratipakṣa-udayāt
-
-kliṣṭam
-arūpam
-tu
-vihīyate
-```
-
 | Form | Morphology | Lexical value here |
 |---|---|---|
 | `kāmāptam` | nominative neuter singular compound | belonging to the desire realm |
@@ -135,13 +120,13 @@ desire-realm wholesome dharmas.
 
 ## 5. Translation
 
-### Literal Translation
+### Literal
 
 > Wholesome non-Form dharma belonging to the desire realm is abandoned
 > through severance of the root or through birth above. Defiled non-Form
 > dharma, however, is abandoned through the arising of its counteragent.
 
-### Bhāṣya-informed study translation
+### Bhāṣya-informed
 
 > A wholesome non-Form dharma belonging to the desire realm is lost either
 > when the wholesome roots are severed or when the person is reborn above the
@@ -156,15 +141,7 @@ Bhāṣya.
 
 ## 6. Philosophical Translation
 
-> A wholesome determination may cease because its generative root is
-> destroyed or because the continuum leaves the realm in which that
-> determination belongs. A defiled determination requires another logic: it
-> is not abandoned through mere absence, distraction, or external prevention,
-> but through the arising of the determinate Path that opposes and removes
-> that particular form of defilement together with its operative complex.
-
-The verse therefore distinguishes loss of causal support, loss of
-realm-compatibility, and mediated abandonment through a specific contrary.
+> Wholesome non-Form dharma belonging to the desire realm is abandoned through severance of the root or through birth above. Defiled non-Form dharma, however, is abandoned through the arising of its counteragent.
 
 ## 7. Technical Vocabulary
 
@@ -339,6 +316,18 @@ Sarvāstivāda classification it remains `rūpa`. The Bhāṣya’s
 This is the Organon contact: causal support, realm-compatibility, and
 specific mediated opposition. The doctrinal classes and strict counteragent
 relation remain Bhāṣya determinations.
+
+### Former Philosophical Translation
+
+> A wholesome determination may cease because its generative root is
+> destroyed or because the continuum leaves the realm in which that
+> determination belongs. A defiled determination requires another logic: it
+> is not abandoned through mere absence, distraction, or external prevention,
+> but through the arising of the determinate Path that opposes and removes
+> that particular form of defilement together with its operative complex.
+
+The verse therefore distinguishes loss of causal support, loss of
+realm-compatibility, and mediated abandonment through a specific contrary.
 
 ## 10. OWL++ Seed
 

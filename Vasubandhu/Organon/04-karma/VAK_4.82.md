@@ -16,13 +16,6 @@ samanvāgamato 'bhidhyā-mithyā-dṛṣṭī kurau trayaḥ // 4.82 //
 
 ## 3. Lexical Analysis
 
-```text
-bhinna-pralāpa | pāruṣya | vyāpādāḥ |
-narake | dvidhā |
-samanvāgamataḥ | abhidhyā | mithyā-dṛṣṭī |
-kurau | trayaḥ
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | `bhinna-pralāpa` | compound member | disordered or frivolous afflicted speech |
@@ -97,13 +90,13 @@ present manifestation there.
 
 ## 5. Translation
 
-### Scientific English Rendering
+### Literal
 
 > In hell, disordered or frivolous speech, harsh speech, and ill will occur in
 > both modes; covetousness and false view occur by endowment. In Kuru, the
 > three occur by endowment.
 
-### Bhāṣya-informed study translation
+### Bhāṣya-informed
 
 > In hell, disordered or frivolous speech, harsh speech, and ill will occur in
 > both modes; covetousness and false view occur by endowment. In Kuru, the
@@ -122,22 +115,7 @@ supplied by the Bhāṣya.
 
 ## 6. Philosophical Translation
 
-> A karmic determination can belong operatively to a continuum without being
-> actual in the present event. Manifestation requires more than endowment: the
-> destiny-setting must supply the relevant relational basis, motive, practical
-> purpose, and disposition. Hell permits the active expression of lamenting,
-> harsh, and hostile Courses of Action while blocking appropriation and denial
-> for lack of their specific conditions. Uttarakuru blocks the manifestation
-> of all three mental Courses of Action through favorable relational and dispositional
-> conditions without thereby erasing their endowment.
-
-The governing distinction is:
-
-```text
-what belongs to a continuum
-    ≠
-what is presently manifest
-```
+> In hell, disordered or frivolous speech, harsh speech, and ill will occur in both modes; covetousness and false view occur by endowment. In Kuru, the three occur by endowment.
 
 ## 7. Technical Vocabulary
 
@@ -342,6 +320,25 @@ transformation of the continuum are therefore different determinations.
 The Bhāṣya's destiny-specific examples ground the three-level modal model:
 endowment, manifestability, and manifestation remain distinct, with each
 Course of Action tested against its own constitutive conditions.
+
+### Former Philosophical Translation
+
+> A karmic determination can belong operatively to a continuum without being
+> actual in the present event. Manifestation requires more than endowment: the
+> destiny-setting must supply the relevant relational basis, motive, practical
+> purpose, and disposition. Hell permits the active expression of lamenting,
+> harsh, and hostile Courses of Action while blocking appropriation and denial
+> for lack of their specific conditions. Uttarakuru blocks the manifestation
+> of all three mental Courses of Action through favorable relational and dispositional
+> conditions without thereby erasing their endowment.
+
+The governing distinction is:
+
+```text
+what belongs to a continuum
+    ≠
+what is presently manifest
+```
 
 ## 10. OWL++ Seed
 

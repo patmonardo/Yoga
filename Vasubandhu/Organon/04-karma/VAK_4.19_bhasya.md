@@ -16,7 +16,7 @@ The complete running unit for this verse extends from [209|04] through
 [209|11–12] in `Vasubandhu/Sources/kosabhasya.txt`. The next sentence
 begins the application to non-restraint in 4.20.
 
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
 ```iast
 idaṃ vicāryate: kaḥ katamayā vijñaptyā 'vijñaptyā vā kiyantaṃ kālaṃ

@@ -20,7 +20,7 @@ the conclusion at [212|09] in `Vasubandhu/Sources/kosabhasya.txt`.
 The following question about how long prātimokṣa is undertaken
 opens 4.27.
 
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
 ```iast
 athaite saṃvarāḥ kathaṃ labhyante?

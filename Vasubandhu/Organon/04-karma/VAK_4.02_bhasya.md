@@ -17,7 +17,7 @@ The Bhāṣya makes `pratyekam`, **each**, explicit: both actions have a
 `vijñapti` and an `avijñapti` mode. The existing Kārikā study is
 `VAK_4.02.md`.
 
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
 ```iast
 te tu vijñaptyavijñaptī.

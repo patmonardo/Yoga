@@ -26,24 +26,7 @@ is wholesome karma belonging to the Form and Formless Realms.
 
 ## 3. Lexical Analysis
 
-```text
-kāma-dhātau
-śubham
-karma
-puṇyam
-
-āneñjam
-ūrdhva-jam
-
-tad-bhūmiṣu
-yataḥ
-karma-vipākam
-prati
-na
-iñjati
-```
-
-| Form | Morphology | Lexical value here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `kāmadhātau` | locative masculine singular compound | in the Desire Realm |
 | `śubham` | nominative neuter singular | wholesome; auspicious |
@@ -130,13 +113,13 @@ na iñjati
 
 ## 5. Translation
 
-### Literal Translation
+### Literal
 
 > Wholesome karma in the Desire Realm is meritorious; wholesome karma
 > produced above is immovable, because with respect to maturation karma does
 > not shift from those levels.
 
-### Bhāṣya-informed study translation
+### Bhāṣya-informed
 
 > Wholesome karma belonging to the Desire Realm is called meritorious, while
 > wholesome karma belonging to the Form and Formless Realms is called
@@ -150,17 +133,7 @@ about `apuṇya` are supplied by the Bhāṣya.
 
 ## 6. Philosophical Translation
 
-> Karma is determined not only by ethical quality but by the relation between
-> its realm of production and its level of maturation. Desire-Realm karma is
-> comparatively mobile: intervening conditions can alter the destiny or class
-> in which its result appears. Higher wholesome karma is immovable because
-> its originating level and maturation-level stand in an invariant relation.
-> This is not inert permanence, but fixity within a specified causal relation.
-
-This is a determination of relative invariance. The Bhāṣya's “moved”
-predicate concerns disturbance within samādhi; “immovable” concerns the
-level at which karma matures. Since the predicates concern different
-determinations, they do not contradict one another.
+> Wholesome karma in the Desire Realm is meritorious; wholesome karma produced above is immovable, because with respect to maturation karma does not shift from those levels.
 
 ## 7. Technical Vocabulary
 
@@ -352,6 +325,20 @@ complete picture also requires `bhūmi`, the internal determination of level.
 This is the Organon contact. The objection, scriptural comparison, examples of
 mobile maturation, and definition through fixed maturation belong to the
 Bhāṣya; the explicit Principle framework is project interpretation.
+
+### Former Philosophical Translation
+
+> Karma is determined not only by ethical quality but by the relation between
+> its realm of production and its level of maturation. Desire-Realm karma is
+> comparatively mobile: intervening conditions can alter the destiny or class
+> in which its result appears. Higher wholesome karma is immovable because
+> its originating level and maturation-level stand in an invariant relation.
+> This is not inert permanence, but fixity within a specified causal relation.
+
+This is a determination of relative invariance. The Bhāṣya's “moved”
+predicate concerns disturbance within samādhi; “immovable” concerns the
+level at which karma matures. Since the predicates concern different
+determinations, they do not contradict one another.
 
 ## 10. OWL++ Seed
 

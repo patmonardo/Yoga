@@ -28,23 +28,6 @@ answer, not as an uncontested conclusion of the Bhāṣya.
 
 ## 3. Lexical Analysis
 
-```text
-sarve
-cet
-saṃvṛtāḥ
-
-eka-deśa-kāri-ādayaḥ
-katham
-
-tat-pālanāt
-kila
-proktāḥ
-
-mṛdu-ādi-tvam
-yathā
-manaḥ
-```
-
 | Form | Morphology | Lexical value here |
 |---|---|---|
 | `sarve` | nominative masculine plural | all; all the upāsakas under discussion |
@@ -174,13 +157,13 @@ not numerical division into parts.
 
 ## 5. Translation
 
-### Literal Translation
+### Literal
 
 > If all are restrained, how are there one-part practitioners and the rest?
 > They are said to be so because of preserving those [parts]; [restraint] has
 > weakness and the other degrees, just as mind does.
 
-### Bhāṣya-informed study translation
+### Bhāṣya-informed
 
 > If all upāsakas are established in lay restraint, how can the Buddha speak
 > of one-part, partial, predominantly practicing, and fully practicing lay
@@ -196,18 +179,7 @@ unqualified conclusion.
 
 ## 6. Philosophical Translation
 
-> Possessing a practical form, preserving its particular rules, and bearing
-> it with a certain intensity are different determinations. The received
-> account says that every upāsaka possesses lay restraint while practical
-> designations vary with the rules actually guarded. Yet the Bhāṣya exposes
-> the scriptural difficulty of that solution: the classifications may concern
-> not merely later failures of execution, but the person’s relation to the
-> known and undertaken measure of the restraint itself. Independently of that
-> dispute, the same kind of restraint may be weak, medium, or strong according
-> to the mind-continuum in which it operates.
-
-This rendering keeps the Bhāṣya’s dispute open. It does not convert the
-reported Vaibhāṣika answer into the settled meaning of the kārikā.
+> If all are restrained, how are there one-part practitioners and the rest? They are said to be so because of preserving those [parts]; [restraint] has weakness and the other degrees, just as mind does.
 
 ## 7. Technical Vocabulary
 
@@ -425,6 +397,21 @@ ground and remains subject to doctrinal dispute.
 This is an Organon contact point. The scriptural classifications, the
 reported answer, the `utsūtra` criticism, the institutional dispute, and the
 three degrees of strength belong to the Bhāṣya itself.
+
+### Former Philosophical Translation
+
+> Possessing a practical form, preserving its particular rules, and bearing
+> it with a certain intensity are different determinations. The received
+> account says that every upāsaka possesses lay restraint while practical
+> designations vary with the rules actually guarded. Yet the Bhāṣya exposes
+> the scriptural difficulty of that solution: the classifications may concern
+> not merely later failures of execution, but the person’s relation to the
+> known and undertaken measure of the restraint itself. Independently of that
+> dispute, the same kind of restraint may be weak, medium, or strong according
+> to the mind-continuum in which it operates.
+
+This rendering keeps the Bhāṣya’s dispute open. It does not convert the
+reported Vaibhāṣika answer into the settled meaning of the kārikā.
 
 ## 10. OWL++ Seed
 

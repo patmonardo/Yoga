@@ -16,12 +16,6 @@ parastrīgamanābhidhyā 'dattādānasamāpanam // 4.70 //
 
 ## 3. Lexical Analysis
 
-```text
-vadha | vyāpāda | pāruṣya | niṣṭhā | dveṣeṇa |
-lobhataḥ | para-strī-gamana | abhidhyā | adatta-ādāna |
-samāpanam
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | `vadha` | compound member from `√han` | killing; destruction of life |
@@ -84,13 +78,13 @@ bringing a karmapatha to completed status.
 
 ## 5. Translation
 
-### Scientific English Rendering
+### Literal
 
 > The completion of killing, hostility, and harsh speech is through hatred.
 > From greed comes the completion of going to another's wife, covetousness,
 > and taking what is not given.
 
-### Bhāṣya-informed study translation
+### Bhāṣya-informed
 
 > Killing, hostility, and harsh speech reach completion through hatred.
 > Through greed comes the completion of sexual misconduct, covetousness, and
@@ -104,21 +98,7 @@ of the three roots.
 
 ## 6. Philosophical Translation
 
-> The affliction that first generates an action-process need not be the
-> affliction under which its defining course reaches fulfillment. At
-> completion, destructive rejection gives killing, hostility, and harsh
-> speech their determinate character; appropriation gives sexual misconduct,
-> covetousness, and theft theirs; intensified delusion completes false view.
-> Yet false, divisive, and disordered speech remain formally compatible with
-> all three afflictive grounds. The completed course and its completion-root
-> are therefore distinct but internally related determinations.
-
-The taxonomy requires both questions:
-
-```text
-What course has been completed?
-Through which root has it been completed?
-```
+> The completion of killing, hostility, and harsh speech is through hatred. From greed comes the completion of going to another's wife, covetousness, and taking what is not given.
 
 ## 7. Technical Vocabulary
 
@@ -298,6 +278,24 @@ added in VAK 4.71, and the explanations of the completing roots belong to the
 source layers; the
 two-axis account of course-form and completion-ground is the project
 synthesis.
+
+### Former Philosophical Translation
+
+> The affliction that first generates an action-process need not be the
+> affliction under which its defining course reaches fulfillment. At
+> completion, destructive rejection gives killing, hostility, and harsh
+> speech their determinate character; appropriation gives sexual misconduct,
+> covetousness, and theft theirs; intensified delusion completes false view.
+> Yet false, divisive, and disordered speech remain formally compatible with
+> all three afflictive grounds. The completed course and its completion-root
+> are therefore distinct but internally related determinations.
+
+The taxonomy requires both questions:
+
+```text
+What course has been completed?
+Through which root has it been completed?
+```
 
 ## 10. OWL++ Seed
 

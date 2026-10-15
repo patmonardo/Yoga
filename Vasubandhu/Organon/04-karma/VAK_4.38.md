@@ -27,20 +27,6 @@ the end of the night.
 
 ## 3. Lexical Analysis
 
-```text
-prātimokṣa-damaḥ
-tyāgaḥ
-
-śikṣā-nikṣepaṇāt
-cyuteḥ
-
-ubhaya-vyañjana-utpatteḥ
-
-mūla-cchedāt
-
-niśā-atyayāt
-```
-
 | Form | Morphology | Lexical value here |
 |---|---|---|
 | `prātimokṣadamaḥ` | nominative masculine singular compound | prātimokṣa discipline or restraint |
@@ -165,14 +151,14 @@ remain distinct.
 
 ## 5. Translation
 
-### Literal Translation
+### Literal
 
 > Prātimokṣa restraint is abandoned through laying down the training, through
 > death, through the arising of both sexual characteristics, and through
 > severance of the roots; [upavāsa restraint is also abandoned] through the
 > passing of the night.
 
-### Bhāṣya-informed study translation
+### Bhāṣya-informed
 
 > Ordinary prātimokṣa restraint is lost in four ways: through formally laying
 > down the training, through death, through the simultaneous arising of both
@@ -186,17 +172,7 @@ and the distribution of the fifth cause are supplied by the Bhāṣya.
 
 ## 6. Philosophical Translation
 
-> A standing discipline does not disappear through one homogeneous negation.
-> It can cease because the bearer manifests a declaration contrary to the
-> undertaking, because death removes its living support, because the
-> qualifying bodily support is disrupted, because its wholesome causal basis
-> is severed, or because its internally projected duration has been fulfilled.
-> Each termination event is effective only by negating a determinate condition
-> upon which the restraint depends.
-
-The upavāsa case is cessation through completion, not failure. The same
-undertaking that generates the temporary restraint also determines the limit
-at which it ends.
+> Prātimokṣa restraint is abandoned through laying down the training, through death, through the arising of both sexual characteristics, and through severance of the roots; [upavāsa restraint is also abandoned] through the passing of the night.
 
 ## 7. Technical Vocabulary
 
@@ -421,6 +397,20 @@ Upavāsa ends because it succeeds in persisting exactly as long as undertaken.
 
 This is the Organon contact. The five events, their distribution, and the five
 grounds of efficacy belong explicitly to the Bhāṣya.
+
+### Former Philosophical Translation
+
+> A standing discipline does not disappear through one homogeneous negation.
+> It can cease because the bearer manifests a declaration contrary to the
+> undertaking, because death removes its living support, because the
+> qualifying bodily support is disrupted, because its wholesome causal basis
+> is severed, or because its internally projected duration has been fulfilled.
+> Each termination event is effective only by negating a determinate condition
+> upon which the restraint depends.
+
+The upavāsa case is cessation through completion, not failure. The same
+undertaking that generates the temporary restraint also determines the limit
+at which it ends.
 
 ## 10. OWL++ Seed
 

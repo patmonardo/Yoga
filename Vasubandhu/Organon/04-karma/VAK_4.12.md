@@ -20,13 +20,6 @@ excludes maturation-born cognition from both functions.
 
 ## 3. Lexical Analysis
 
-```text
-pravartake śubha-ādau hi syāt /
-tridhā api anuvartakam /
-tulyam muneḥ śubhaṃ yāvat /
-na ubhayam tu vipāka-jam
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | pravartake | locative singular | when the initiator is [wholesome, etc.] |
@@ -53,14 +46,14 @@ The first clause places the initiating condition in the locative `pravartake śu
 
 ## 5. Translation
 
-### Close Translation
+### Literal
 
 > When the initiator is wholesome and so forth, the accompanying Cognition
 > may nevertheless be threefold. For the Sage, [the two are] corresponding,
 > within the wholesome limit. Maturation-born [Cognition], however, is
 > neither.
 
-### Bhāṣya-informed Study Translation
+### Bhāṣya-informed
 
 > In an ordinary action-series, the accompanying Cognition may be wholesome,
 > unwholesome, or indeterminate, whatever the ethical class of the initiator.
@@ -76,20 +69,7 @@ for excluding maturation-born consciousness are supplied by the Bhāṣya.
 
 ## 6. Philosophical Translation
 
-### Interpretation
-
-The verse distinguishes causal continuity from sameness of ethical quality
-at every cognitive stage. The Buddha-case is specially qualified; the
-Bhāṣya also preserves a disagreement about whether the Buddha has
-indeterminate consciousness. Its final exchange assigns ethical
-classification of manifestation to the initiating causal sequence while
-qualifying which initiator is relevant.
-
-In the Kośa's broader system, Discriminative Cognition (*vijñāna*) governs
-Mind (*manas*) and guides Dharma Base; it remains distinct from
-consciousness (*citta*) and manifestation (*vijñapti*) in this passage. The
-same `avijñapti` is classified in Form Base and Dharma Base, with
-*vijñāna* bearing the stated *prati* relation to it.
+> When the initiator is wholesome and so forth, the accompanying [Cognition] may nevertheless be threefold. For the Sage, [the two are] corresponding, within the wholesome limit. Maturation-born [Cognition], however, is neither.
 
 ## 7. Technical Vocabulary
 
@@ -126,5 +106,22 @@ The final phrase `anyavyavahitaṃ hetusamutthānaṃ` is translated
 provisionally as causal origination separated by an intervening cognition.
 The closing objection and this qualification require further witness
 comparison.
+
+### Former Philosophical Translation
+
+### Interpretation
+
+The verse distinguishes causal continuity from sameness of ethical quality
+at every cognitive stage. The Buddha-case is specially qualified; the
+Bhāṣya also preserves a disagreement about whether the Buddha has
+indeterminate consciousness. Its final exchange assigns ethical
+classification of manifestation to the initiating causal sequence while
+qualifying which initiator is relevant.
+
+In the Kośa's broader system, Discriminative Cognition (*vijñāna*) governs
+Mind (*manas*) and guides Dharma Base; it remains distinct from
+consciousness (*citta*) and manifestation (*vijñapti*) in this passage. The
+same `avijñapti` is classified in Form Base and Dharma Base, with
+*vijñāna* bearing the stated *prati* relation to it.
 
 ## 10. OWL++ Seed

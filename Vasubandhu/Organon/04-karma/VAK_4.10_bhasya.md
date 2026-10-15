@@ -15,7 +15,7 @@
 The distinction responds to questions left by the account of ethical
 classification in VAK 4.09. The kārikā study is `VAK_4.10.md`.
 
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
 ```iast
 idaṃ vicāryate. yadi samutthānavaśāt kuśalākuśalatvaṃ
@@ -51,7 +51,7 @@ witness reads `kukśalatvaprasaṅgaḥ` and has rough spacing in `ākṣiptā`,
 is divided above. The quoted sūtra is displayed as transmitted and is not
 silently completed.
 
-## 3. Continuous Translation
+## 3. Continuous Conventional Translation
 
 This is to be examined. If bodily and verbal karma are wholesome or
 unwholesome because of their originating condition, why are the Great

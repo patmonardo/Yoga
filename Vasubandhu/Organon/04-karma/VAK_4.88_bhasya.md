@@ -21,7 +21,7 @@ The first half completes the classification begun in 4.87. The second begins
 a new matrix whose rows are the ethical qualities of action and whose columns
 are the ethical qualities of the resulting dharmas.
 
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
 ```iast
 anāsravaṃ punaḥ śeṣaṃ tribhir avyākṛtaṃ ca yat /

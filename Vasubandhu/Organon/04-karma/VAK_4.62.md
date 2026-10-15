@@ -26,22 +26,7 @@ elimination of afflictions that take wholesome karma as their object.
 
 ## 3. Lexical Analysis
 
-```text
-navame
-cetanā
-yā
-sā
-
-kṛṣṇa-śukla-kṣayāya
-ca
-
-śuklasya
-
-dhyāna-vairāgyeṣu
-antya-ānantarya-mārga-jā
-```
-
-| Form | Morphology | Lexical value here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `navame` | locative masculine singular | in the ninth [uninterrupted path] |
 | `cetanā` | nominative feminine singular | volition |
@@ -102,13 +87,13 @@ of the four dhyānas.
 
 ## 5. Translation
 
-### Literal Translation
+### Literal
 
 > The volition in the ninth [uninterrupted path] is for the exhaustion of
 > black-and-white karma; that arising in the final uninterrupted paths of
 > detachment from the dhyānas is for the exhaustion of white karma.
 
-### Bhāṣya-informed study translation
+### Bhāṣya-informed
 
 > The volition in the ninth uninterrupted path of detachment from the Desire
 > Realm abandons black-and-white wholesome karma and the ninth, final type of
@@ -122,16 +107,7 @@ relational account of wholesome abandonment are supplied by the Bhāṣya.
 
 ## 6. Philosophical Translation
 
-> The Path negates unwholesome and wholesome karmic determinations in different
-> ways. The final Desire-Realm operation completes the abandonment of the last
-> black type and the mixed wholesome field. White karma, however, is not
-> annihilated as positive content: the Path removes every afflictive relation
-> that can appropriate it as an object. Abandonment is complete when the final
-> supporting kleśa-relation has disappeared, even though the wholesome dharma
-> remains capable of manifestation.
-
-Negation is therefore relational transformation rather than destruction of
-intrinsic being.
+> The volition in the ninth [uninterrupted path] is for the exhaustion of black-and-white karma; that arising in the final uninterrupted paths of detachment from the dhyānas is for the exhaustion of white karma.
 
 ## 7. Technical Vocabulary
 
@@ -284,6 +260,19 @@ structural exhaustion.
 This is the Organon contact. The double target, four dhyāna-paths, rejection of
 intrinsic destruction, and object-taking-affliction account belong to the
 Bhāṣya.
+
+### Former Philosophical Translation
+
+> The Path negates unwholesome and wholesome karmic determinations in different
+> ways. The final Desire-Realm operation completes the abandonment of the last
+> black type and the mixed wholesome field. White karma, however, is not
+> annihilated as positive content: the Path removes every afflictive relation
+> that can appropriate it as an object. Abandonment is complete when the final
+> supporting kleśa-relation has disappeared, even though the wholesome dharma
+> remains capable of manifestation.
+
+Negation is therefore relational transformation rather than destruction of
+intrinsic being.
 
 ## 10. OWL++ Seed
 

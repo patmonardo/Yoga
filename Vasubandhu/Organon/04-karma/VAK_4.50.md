@@ -25,23 +25,7 @@ dṛṣṭa-dharma-ādi-vedyatvāt pañcadhā karma kecana //
 
 ## 3. Lexical Analysis
 
-```text
-niyata-aniyatam
-tat
-ca
-
-niyatam
-trividham
-punaḥ
-
-dṛṣṭa-dharma-ādi-vedyatvāt
-
-pañcadhā
-karma
-kecana
-```
-
-| Form | Morphology | Lexical value here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `niyata` | compound member | determinate; fixed as necessarily maturing |
 | `aniyatam` | nominative neuter singular | indeterminate; not necessarily to be experienced |
@@ -119,13 +103,13 @@ divide indeterminate karma into two.
 
 ## 5. Translation
 
-### Literal Translation
+### Literal
 
 > That karma is determinate or indeterminate. Determinate karma is again
 > threefold because it is to be experienced beginning in the present life.
 > Some authorities hold karma to be fivefold.
 
-### Bhāṣya-informed study translation
+### Bhāṣya-informed
 
 > Karma is either determinate—its maturation must be experienced—or
 > indeterminate, whose maturation is not necessary. Determinate karma is
@@ -140,15 +124,7 @@ supplied by the Bhāṣya.
 
 ## 6. Philosophical Translation
 
-> Karmic causality includes distinct modal and temporal determinations. First
-> one asks whether the causal formation must attain fruition at all. Only if
-> fruition is necessary does one then determine its temporal index: this life,
-> the next life, or a more remote life. Causal efficacy therefore does not by
-> itself entail necessary actualization, while necessary actualization does not
-> by itself specify when the result must appear.
-
-The temporality of karma belongs to its differentiated causal form rather than
-being an external delay imposed upon an otherwise identical cause.
+> That karma is determinate or indeterminate. Determinate karma is again threefold because it is to be experienced beginning in the present life. Some authorities hold karma to be fivefold.
 
 ## 7. Technical Vocabulary
 
@@ -307,6 +283,18 @@ in the report.
 
 This is the Organon contact. The modal gloss, fourfold and fivefold counts,
 controversy, and seed analogy belong to the Bhāṣya.
+
+### Former Philosophical Translation
+
+> Karmic causality includes distinct modal and temporal determinations. First
+> one asks whether the causal formation must attain fruition at all. Only if
+> fruition is necessary does one then determine its temporal index: this life,
+> the next life, or a more remote life. Causal efficacy therefore does not by
+> itself entail necessary actualization, while necessary actualization does not
+> by itself specify when the result must appear.
+
+The temporality of karma belongs to its differentiated causal form rather than
+being an external delay imposed upon an otherwise identical cause.
 
 ## 10. OWL++ Seed
 

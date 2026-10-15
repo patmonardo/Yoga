@@ -15,7 +15,7 @@ dvividhāḥ sapta kuśalāḥ avijñaptiḥ samādhijāḥ // 4.67 //
 The verse classifies the seven bodily and verbal courses according to
 their mode of karmic existence: `vijñapti`, `avijñapti`, or both.
 
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
 ```iast
 eṣāṃ ca karmapathānām

@@ -16,11 +16,6 @@ saṃmukhībhāvataś cāpi hitvā sa-narakān kurūn // 4.84 //
 
 ## 3. Lexical Analysis
 
-```text
-ārūpya | asaṃjñi-sattveṣu | lābhataḥ | sapta | śeṣite |
-saṃmukhībhāvataḥ | ca | api | hitvā | sa-narakān | kurūn
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | `ārūpye` | locative neuter singular, metrically `ārūpya` in compound coordination | in the Formless Realm |
@@ -98,14 +93,14 @@ Bhāṣya identifies the Kurus as the inhabitants of Uttarakuru.
 
 ## 5. Translation
 
-### Scientific English Rendering
+### Literal
 
 > In the Formless Realm and among non-percipient beings, the seven wholesome
 > bodily and verbal Courses of Action occur by acquisition. In the remainder
 > they also occur by present manifestation, excluding hell beings and the
 > Kurus.
 
-### Bhāṣya-informed study translation
+### Bhāṣya-informed
 
 > In the Formless Realm and among non-percipient beings, the seven wholesome
 > bodily and verbal Courses of Action occur by acquisition. In the remainder
@@ -126,31 +121,7 @@ Bhāṣya.
 
 ## 6. Philosophical Translation
 
-> A wholesome Course of Action is not exhausted by a presently observable
-> deed. It may belong operatively to a continuum even where the bodily or
-> verbal conditions for its current enactment are absent. Conversely, present
-> wholesome abstention need not derive from a formally acquired restraint.
-> Realm and destination determine the available mode of the Course of Action:
-> endowment without
-> manifestation, manifestation within restraint, manifestation outside
-> restraint, or both. Ethical determination therefore requires the relation
-> among Course-of-Action form, continuum, mode of presence, and realm—not
-> inference
-> from an isolated external non-event.
-
-The source distinction may be represented as:
-
-```text
-wholesome Course-of-Action form
-    → continuum-endowment
-    → possibility of present manifestation
-    → relation to formal restraint
-    → realm-and-destiny distribution
-```
-
-This relational display expresses the Bhāṣya's distribution in Organon terms:
-it makes explicit how continuum-endowment and present manifestation are
-conditioned by the realm-and-destiny structure.
+> In the Formless Realm and among non-percipient beings, the seven wholesome bodily and verbal Courses of Action occur by acquisition. In the remainder they also occur by present manifestation, excluding hell beings and the Kurus.
 
 ## 7. Technical Vocabulary
 
@@ -303,6 +274,34 @@ For the Organon, this articulates capacity and actualization together:
 `saṃmukhībhāva` is its present operation. Their distinction explains how
 wholesome restraint can remain operative without being a current bodily or
 verbal deed.
+
+### Former Philosophical Translation
+
+> A wholesome Course of Action is not exhausted by a presently observable
+> deed. It may belong operatively to a continuum even where the bodily or
+> verbal conditions for its current enactment are absent. Conversely, present
+> wholesome abstention need not derive from a formally acquired restraint.
+> Realm and destination determine the available mode of the Course of Action:
+> endowment without
+> manifestation, manifestation within restraint, manifestation outside
+> restraint, or both. Ethical determination therefore requires the relation
+> among Course-of-Action form, continuum, mode of presence, and realm—not
+> inference
+> from an isolated external non-event.
+
+The source distinction may be represented as:
+
+```text
+wholesome Course-of-Action form
+    → continuum-endowment
+    → possibility of present manifestation
+    → relation to formal restraint
+    → realm-and-destiny distribution
+```
+
+This relational display expresses the Bhāṣya's distribution in Organon terms:
+it makes explicit how continuum-endowment and present manifestation are
+conditioned by the realm-and-destiny structure.
 
 ## 10. OWL++ Seed
 

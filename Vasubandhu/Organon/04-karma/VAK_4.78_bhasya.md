@@ -16,7 +16,7 @@ the compound `karmapatha`. In the Vaibhāṣika account, the mental three
 channel associated volition; the bodily and verbal seven are themselves
 karma and also the courses upon which their originating volition proceeds.
 
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
 ```iast
 vyāpādaḥ sattvavidveṣaḥ

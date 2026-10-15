@@ -19,12 +19,6 @@ contemporaneous condition that accompanies its performance.
 
 ## 3. Lexical Analysis
 
-```text
-samutthānam dvidhā /
-hetu-tat-kṣaṇa-utthāna-saṃjñitam /
-pravartakam tayoḥ ādyam dvitīyam anuvartakam
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | samutthānam | nominative neuter singular | origination; originating condition |
@@ -46,13 +40,13 @@ The first pāda predicates `dvidhā` of `samutthānam` and names its two forms i
 
 ## 5. Translation
 
-### Close Translation
+### Literal
 
 > Origination is twofold, designated as causal origination and origination in
 > that very moment. Of those two, the first is initiating; the second is
 > accompanying.
 
-### Bhāṣya-informed Study Translation
+### Bhāṣya-informed
 
 > There are two kinds of originating condition: one that projects and
 > initiates an action, and one present during the moment of its performance.
@@ -63,20 +57,7 @@ The first pāda predicates `dvidhā` of `samutthānam` and names its two forms i
 
 ## 6. Philosophical Translation
 
-### Interpretation
-
-The Bhāṣya distinguishes causal initiation from accompaniment during
-performance. This lets an earlier condition—such as wrong view in the
-scriptural sequence—initiate an action without being identified with the
-condition present when bodily or verbal manifestation occurs. The questions
-about concentration-born `avijñapti`, divine faculties, and restraint without
-consciousness remain unresolved in this unit.
-
-In the Kośa's broader system, Discriminative Cognition (*vijñāna*) governs
-Mind (*manas*) and guides Dharma Base; it is distinct from consciousness
-(*citta*) in the causal account here. The same `avijñapti` is classified in
-Form Base and Dharma Base, with *vijñāna* bearing the stated *prati*
-relation to it.
+> Origination is twofold, designated as causal origination and origination in that very moment. Of those two, the first is initiating; the second is accompanying.
 
 ## 7. Technical Vocabulary
 
@@ -110,5 +91,22 @@ as transmitted rather than silently completed. The opening questions about
 the ethical status of the Great Elements, concentration-born
 `avijñapti`, and the divine Eye and Ear are explicitly left for further
 effort in the Bhāṣya.
+
+### Former Philosophical Translation
+
+### Interpretation
+
+The Bhāṣya distinguishes causal initiation from accompaniment during
+performance. This lets an earlier condition—such as wrong view in the
+scriptural sequence—initiate an action without being identified with the
+condition present when bodily or verbal manifestation occurs. The questions
+about concentration-born `avijñapti`, divine faculties, and restraint without
+consciousness remain unresolved in this unit.
+
+In the Kośa's broader system, Discriminative Cognition (*vijñāna*) governs
+Mind (*manas*) and guides Dharma Base; it is distinct from consciousness
+(*citta*) in the causal account here. The same `avijñapti` is classified in
+Form Base and Dharma Base, with *vijñāna* bearing the stated *prati*
+relation to it.
 
 ## 10. OWL++ Seed

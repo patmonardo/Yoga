@@ -16,11 +16,6 @@ duḥkhanān māraṇād ojo-nāśanāt trividhaṃ phalam // 4.85 //
 
 ## 3. Lexical Analysis
 
-```text
-sarve | adhipati-niṣyanda-vipāka-phala-dāḥ | matāḥ |
-duḥkhanāt | māraṇāt | ojas-nāśanāt | trividham | phalam
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | `sarve` | nominative masculine plural | all the wholesome and unwholesome Courses of Action |
@@ -109,13 +104,13 @@ example of killing.
 
 ## 5. Translation
 
-### Scientific English Rendering
+### Literal
 
 > All Courses of Action are held to give dominant, corresponding, and
 > maturation results. From causing suffering, killing, and destroying
 > vitality, the result is threefold.
 
-### Bhāṣya-informed study translation
+### Bhāṣya-informed
 
 > All Courses of Action are held to give dominant, corresponding, and
 > maturation results. From causing suffering, killing, and destroying
@@ -135,32 +130,7 @@ details belong to the Bhāṣya's explanation.
 
 ## 6. Philosophical Translation
 
-> A deed does not vanish into the past when its visible performance ends. Its
-> determination becomes objective in several irreducible relations: it forms
-> the agent's future actuality, returns as a corresponding determination of
-> the agent's life, and conditions the world in which agency must operate. The
-> consequence is neither a detached reward nor the mechanical persistence of
-> an identical thing. It is the differentiated actuality of the deed itself,
-> propagated according to the aspect of life that the deed negated or
-> sustained.
-
-The Hegelian-transcendental comprehension of the passage is:
-
-```text
-subjective purpose enacted
-    → objective deed
-    → differentiated consequence
-        ├── actuality of the agent
-        ├── corresponding determination of its life
-        └── constitution of its objective field
-    → objectivity returns into the constitution of subjectivity
-```
-
-Karma therefore completes neither as a vanished event nor as a ledger entry.
-It completes as a world-producing and agent-producing determination. This is
-why the Karma chapter can conclude Objective Logic and prepare the transition
-to Anuśaya: what action has produced objectively will appear next as the
-conditioned interior organization of the agent.
+> All Courses of Action are held to give dominant, corresponding, and maturation results. From causing suffering, killing, and destroying vitality, the result is threefold.
 
 ## 7. Technical Vocabulary
 
@@ -334,6 +304,35 @@ which subjects reappear within it. Objective Logic therefore reaches its
 completion when objectivity reveals itself as the result of action and returns
 as the presupposition of the acting subject. Anuśaya can then begin from that
 result as inwardly sedimented conditioning.
+
+### Former Philosophical Translation
+
+> A deed does not vanish into the past when its visible performance ends. Its
+> determination becomes objective in several irreducible relations: it forms
+> the agent's future actuality, returns as a corresponding determination of
+> the agent's life, and conditions the world in which agency must operate. The
+> consequence is neither a detached reward nor the mechanical persistence of
+> an identical thing. It is the differentiated actuality of the deed itself,
+> propagated according to the aspect of life that the deed negated or
+> sustained.
+
+The Hegelian-transcendental comprehension of the passage is:
+
+```text
+subjective purpose enacted
+    → objective deed
+    → differentiated consequence
+        ├── actuality of the agent
+        ├── corresponding determination of its life
+        └── constitution of its objective field
+    → objectivity returns into the constitution of subjectivity
+```
+
+Karma therefore completes neither as a vanished event nor as a ledger entry.
+It completes as a world-producing and agent-producing determination. This is
+why the Karma chapter can conclude Objective Logic and prepare the transition
+to Anuśaya: what action has produced objectively will appear next as the
+conditioned interior organization of the agent.
 
 ## 10. OWL++ Seed
 

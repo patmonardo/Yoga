@@ -19,12 +19,6 @@ discipline of action. It first distinguishes three modes of
 
 ## 3. Lexical Analysis
 
-```text
-avijñaptiḥ tridhā jñeyā /
-saṃvara-asaṃvara-itarā /
-saṃvaraḥ prātimokṣa-ākhyaḥ dhyāna-jaḥ anāsravaḥ tathā
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | avijñaptiḥ | nominative feminine singular | non-disclosing continuity |
@@ -48,13 +42,13 @@ The first pāda predicates `tridhā jñeyā` of `avijñaptiḥ`; the compound `s
 
 ## 5. Translation
 
-### Close Translation
+### Literal
 
 > Non-disclosing continuity is to be understood as threefold: restraint,
 > non-restraint, and that which is neither. Restraint is called
 > *prātimokṣa*, is meditation-born, and is likewise uncontaminated.
 
-### Bhāṣya-informed Study Translation
+### Bhāṣya-informed
 
 > Non-disclosing continuity is classified as restraint, non-restraint, or
 > neither. Restraint checks the spread of misconduct. It is threefold:
@@ -65,24 +59,7 @@ The first pāda predicates `tridhā jñeyā` of `avijñaptiḥ`; the compound `s
 
 ## 6. Philosophical Translation
 
-### Interpretation
-
-The verse gives non-disclosing continuity an expressly practical
-classification: restraint, non-restraint, or neither. It then differentiates
-restraint by its mode. This marks a shift from the analysis of how action is
-initiated and carried through to how conduct is governed over time.
-
-In the Organon reading, *prātimokṣa* can be approached as a **systems vow**:
-a practical commitment that gives Cetanā a stable discipline. The Bhāṣya
-supports the functional core of this reading by defining restraint as
-checking the spread of misconduct. The fuller claim that Avidyā:Asmitā
-dies only through this practical realization belongs to Yogavidyā's
-systematic interpretation, not to the lexical content of this verse.
-
-This is the Karma plane's objective turn toward disciplined action. It
-begins to show how the Faculty's governing force becomes a determinate
-practical orientation, while the particular vow and its further
-classifications remain for the coming verses.
+> Non-disclosing continuity is to be understood as threefold: restraint, non-restraint, and that which is neither. Restraint is called prātimokṣa, is meditation-born, and is likewise uncontaminated.
 
 ## 7. Technical Vocabulary
 
@@ -113,5 +90,26 @@ The witness reads `tābhyāṃ cetaro`; the division `tābhyāṃ ca itaraḥ` i
 editorial. The following `naiva saṃvaro nāsaṃvaraḥ` secures the sense
 “neither.” The exact force of `ihatyānām` in the commentary's
 realm-identification remains provisional.
+
+### Former Philosophical Translation
+
+### Interpretation
+
+The verse gives non-disclosing continuity an expressly practical
+classification: restraint, non-restraint, or neither. It then differentiates
+restraint by its mode. This marks a shift from the analysis of how action is
+initiated and carried through to how conduct is governed over time.
+
+In the Organon reading, *prātimokṣa* can be approached as a **systems vow**:
+a practical commitment that gives Cetanā a stable discipline. The Bhāṣya
+supports the functional core of this reading by defining restraint as
+checking the spread of misconduct. The fuller claim that Avidyā:Asmitā
+dies only through this practical realization belongs to Yogavidyā's
+systematic interpretation, not to the lexical content of this verse.
+
+This is the Karma plane's objective turn toward disciplined action. It
+begins to show how the Faculty's governing force becomes a determinate
+practical orientation, while the particular vow and its further
+classifications remain for the coming verses.
 
 ## 10. OWL++ Seed

@@ -16,13 +16,6 @@ taddṛṣṭaśrutavijñātaṃ mataṃ coktaṃ yathākramam // 4.75 //
 
 ## 3. Lexical Analysis
 
-```text
-cakṣuḥ-śrotra-manaḥ-cittaiḥ | anubhūtam |
-tribhiḥ | ca | yat |
-tat | dṛṣṭam | śrutam | vijñātam | matam | ca |
-uktam | yathā-kramam
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | `cakṣuḥ` | compound member | eye |
@@ -94,13 +87,13 @@ account in the prose.
 
 ## 5. Translation
 
-### Scientific English Rendering
+### Literal
 
 > What is experienced through consciousness associated with the eye, ear,
 > and Mind, and through the three other consciousnesses, is called seen,
 > heard, known, and thought, respectively.
 
-### Bhāṣya-informed study translation
+### Bhāṣya-informed
 
 > What is experienced through consciousness associated with the eye, ear,
 > and Mind, and through the three other consciousnesses, is called seen,
@@ -119,22 +112,7 @@ alternative definitions all belong to the Bhāṣya.
 
 ## 6. Philosophical Translation
 
-> Truthful speech requires a determination of the sense in which a matter is
-> seen, heard, thought, or known. One account fixes these expressions by the
-> cognitive basis or Condition-field; competing accounts fix them by how the
-> speaker has gained access to the matter. The passage therefore does not
-> deliver a single unchallenged epistemic table. It exposes a question about
-> the ground of differentiation: are the predicates licensed by Faculty and
-> Condition, or by the agent's mode of access?
-
-The logical movement is:
-
-```text
-received allocation
-    → explanatory proof
-    → contextual criticism
-    → alternative classificatory principle
-```
+> What is experienced through consciousness associated with the eye, ear, and Mind, and through the three other consciousnesses, is called seen, heard, known, and thought, respectively.
 
 ## 7. Technical Vocabulary
 
@@ -306,6 +284,25 @@ This is the project's interpretive synthesis. The Vaibhāṣika table, scriptura
 criticism, alternative accounts, and earlier-teacher account belong to the
 Bhāṣya; the explicit contrast between two grounds of differentiation is the
 project synthesis.
+
+### Former Philosophical Translation
+
+> Truthful speech requires a determination of the sense in which a matter is
+> seen, heard, thought, or known. One account fixes these expressions by the
+> cognitive basis or Condition-field; competing accounts fix them by how the
+> speaker has gained access to the matter. The passage therefore does not
+> deliver a single unchallenged epistemic table. It exposes a question about
+> the ground of differentiation: are the predicates licensed by Faculty and
+> Condition, or by the agent's mode of access?
+
+The logical movement is:
+
+```text
+received allocation
+    → explanatory proof
+    → contextual criticism
+    → alternative classificatory principle
+```
 
 ## 10. OWL++ Seed
 

@@ -19,7 +19,7 @@ The unit begins at [228|14]. The Bhāṣya continues beyond the
 research witness's endpoint [229|03], explaining `vedanīya` through
 [229|07]. `Api ca` at [229|07] opens the fivefold analysis of 4.49.
 
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
 ```iast
 adho 'pi madhyam asty eke /

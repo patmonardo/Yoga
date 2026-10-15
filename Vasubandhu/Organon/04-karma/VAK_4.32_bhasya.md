@@ -19,7 +19,7 @@ restraints at [217|19] in `Vasubandhu/Sources/kosabhasya.txt`.
 The question about the lay sexual-conduct rule at [217|20–21]
 starts the next topic.
 
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
 ```iast
 kiṃ punaḥ saṃvaragrahaṇād evopāsakaḥ syād vinā śaraṇagamanaiḥ /

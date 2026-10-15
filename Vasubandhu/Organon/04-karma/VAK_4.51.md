@@ -26,23 +26,7 @@ temporal stage and fixity of maturation.
 
 ## 3. Lexical Analysis
 
-```text
-catuḥ-koṭikam
-iti
-anye
-
-nikāya-ākṣepaṇam
-tribhiḥ
-
-sarvatra
-catuḥ-ākṣepaḥ
-
-śubhasya
-narake
-tridhā
-```
-
-| Form | Morphology | Lexical value here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `catuṣkoṭikam` | nominative/accusative neuter singular | having four alternatives; four-cornered |
 | `iti` | quotative particle | thus |
@@ -121,13 +105,13 @@ The Bhāṣya marks the first as the general rule and the second as its exceptio
 
 ## 5. Translation
 
-### Literal Translation
+### Literal
 
 > Others analyze karma through four alternatives. A rebirth-continuum is
 > projected by three [of the four temporal kinds]. In general all four kinds
 > may be undertaken throughout; in hell wholesome karma is threefold.
 
-### Bhāṣya-informed study translation
+### Bhāṣya-informed
 
 > The Dārṣṭāntikas analyze karma through four alternatives by distinguishing
 > whether its temporal stage is fixed and whether maturation itself is fixed.
@@ -143,16 +127,7 @@ and explanation of the hell exception are supplied by the Bhāṣya.
 
 ## 6. Philosophical Translation
 
-> Karmic determination is not exhausted by a single opposition between fixed
-> and unfixed. The necessity of fruition and the necessity of its temporal
-> placement are orthogonal: a karma may be fixed in one respect and unfixed in
-> the other. Its causal function must then be distinguished again, because
-> producing a result within the present continuum is not the same as projecting
-> a future continuum. Modality, temporal index, and world-projecting function
-> are distinct determinations of one practical field.
-
-The four corners express structured alternatives, not skepticism about whether
-anything can be determined.
+> Others analyze karma through four alternatives. A rebirth-continuum is projected by three [of the four temporal kinds]. In general all four kinds may be undertaken throughout; in hell wholesome karma is threefold.
 
 ## 7. Technical Vocabulary
 
@@ -291,6 +266,19 @@ without requiring a permanent self beneath them.
 
 This is the Organon contact. The Dārṣṭāntika matrix, single-moment example,
 projection rule, distribution, and hell exception belong to the Bhāṣya.
+
+### Former Philosophical Translation
+
+> Karmic determination is not exhausted by a single opposition between fixed
+> and unfixed. The necessity of fruition and the necessity of its temporal
+> placement are orthogonal: a karma may be fixed in one respect and unfixed in
+> the other. Its causal function must then be distinguished again, because
+> producing a result within the present continuum is not the same as projecting
+> a future continuum. Modality, temporal index, and world-projecting function
+> are distinct determinations of one practical field.
+
+The four corners express structured alternatives, not skepticism about whether
+anything can be determined.
 
 ## 10. OWL++ Seed
 

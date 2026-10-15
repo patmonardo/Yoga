@@ -20,7 +20,7 @@ The running Bhāṣya unit begins with the procedural question at
 [214|01–02] in `Vasubandhu/Sources/kosabhasya.txt`. The next
 question asks why there are eight limbs and opens 4.29.
 
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
 ```iast
 athāhorātraṃ gṛhyamāṇa upavāsaḥ kathaṃ grahītavyaḥ?

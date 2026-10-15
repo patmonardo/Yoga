@@ -18,7 +18,7 @@ kṛṣṇaśuklobhayaṃ karma tatkṣayāya nirāsravam // 4.60 //
 The Bhāṣya specifies that “both” concerns the mixture of karmas
 within a continuum, not a single intrinsically black-and-white act.
 
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
 ```iast
 aśubhaṃ rūpakāmāptaṃ śubhaṃ caiva yathākramam /

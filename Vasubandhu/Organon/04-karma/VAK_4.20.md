@@ -27,23 +27,6 @@ translation.
 
 ## 3. Lexical Analysis
 
-```text
-tathā
-eva
-asaṃvara-sthaḥ
-api
-
-dhyāna-saṃvara-vān
-sadā
-atīta-ajātayā
-
-āryaḥ
-tu
-prathame
-na
-abhi-atītayā
-```
-
 | Form | Morphology | Lexical value here |
 |---|---|---|
 | `tathā` | adverb | in that manner; likewise |
@@ -142,14 +125,14 @@ restraint are possessed, but no past instance exists.
 
 ## 5. Translation
 
-### Literal Translation
+### Literal
 
 > One established in non-restraint is likewise. One possessing meditation
 > restraint is continually endowed with past and future avijñapti. The noble
 > person is likewise, but in the first moment is not endowed with past
 > avijñapti.
 
-### Bhāṣya-informed study translation
+### Bhāṣya-informed
 
 > One established in non-restraint follows the same pattern: while it has not
 > been abandoned, he possesses present avijñapti and, after the first moment,
@@ -165,18 +148,7 @@ immediately preceding verses.
 
 ## 6. Philosophical Translation
 
-> The temporal range of a practical determination depends upon its history in
-> the continuum. Non-restraint continues like prātimokṣa restraint through
-> present possession and, after its first moment, possession as past.
-> Meditation-born restraint can already possess a past at its first current
-> attainment because restraint abandoned in another birth is recovered; it
-> also possesses a future range. Uncontaminated restraint has no past at the
-> first noble Path moment because that Path has never before arisen in the
-> continuum.
-
-This is a Bhāṣya-informed statement of the source doctrine. “Temporal range”
-is interpretive language for the explicitly distinguished modes of
-possession.
+> One established in non-restraint is likewise. One possessing meditation restraint is continually endowed with past and future avijñapti. The noble person is likewise, but in the first moment is not endowed with past avijñapti.
 
 ## 7. Technical Vocabulary
 
@@ -363,6 +335,21 @@ Thus beginning is not temporal emptiness. It is a positive transition in which
 a determination without a prior instance becomes actual and opens a new
 future. This is an Organon development of the contrast Vasubandhu explicitly
 draws between recovered meditation restraint and the unprecedented noble Path.
+
+### Former Philosophical Translation
+
+> The temporal range of a practical determination depends upon its history in
+> the continuum. Non-restraint continues like prātimokṣa restraint through
+> present possession and, after its first moment, possession as past.
+> Meditation-born restraint can already possess a past at its first current
+> attainment because restraint abandoned in another birth is recovered; it
+> also possesses a future range. Uncontaminated restraint has no past at the
+> first noble Path moment because that Path has never before arisen in the
+> continuum.
+
+This is a Bhāṣya-informed statement of the source doctrine. “Temporal range”
+is interpretive language for the explicitly distinguished modes of
+possession.
 
 ## 10. OWL++ Seed
 

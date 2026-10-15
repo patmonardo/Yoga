@@ -27,20 +27,6 @@ primary Sanskrit witness and is identified as Bhāṣya material below.
 
 ## 3. Lexical Analysis
 
-```text
-nivṛta-anivṛtābhyām
-ca
-na
-atītābhyām
-samanvitaḥ
-
-asaṃvaraḥ
-duścaritam
-dauḥśīlyam
-karma
-tat-pathaḥ
-```
-
 | Form | Morphology | Lexical value here |
 |---|---|---|
 | `nivṛtānivṛtābhyām` | instrumental dual | with the obscured and unobscured [neutral vijñaptis] |
@@ -156,13 +142,13 @@ karmapatha
 
 ## 5. Translation
 
-### Literal Translation
+### Literal
 
 > And no one is endowed with the past obscured-indeterminate or
 > unobscured-indeterminate vijñaptis. Non-restraint is [also called]
 > misconduct, bad discipline, action, and the corresponding path of action.
 
-### Bhāṣya-informed study translation
+### Bhāṣya-informed
 
 > No one remains endowed with past manifest action of either neutral kind,
 > obscured or unobscured, because the acquisition of such a weak dharma does
@@ -176,16 +162,7 @@ by the Bhāṣya.
 
 ## 6. Philosophical Translation
 
-> Manifest action does not acquire the same temporal persistence in every
-> ethical class: past neutral vijñapti, whether obscured or unobscured, is too
-> weakly acquired to remain attached to the continuum. Non-restraint, by
-> contrast, is not empty lack but an organized contrary practical form. The
-> same determination can be named from its failure to restrain, its censured
-> conduct, its opposition to discipline, its nature as bodily-verbal action,
-> and its place in the fundamental action-course.
-
-“Organized practical form” is an interpretive expression. The source itself
-gives the alternative names and their distinct explanatory grounds.
+> And no one is endowed with the past obscured-indeterminate or unobscured-indeterminate vijñaptis. Non-restraint is [also called] misconduct, bad discipline, action, and the corresponding path of action.
 
 ## 7. Technical Vocabulary
 
@@ -402,6 +379,19 @@ what the complex is.
 This is an Organon synthesis. Vasubandhu’s explicit teaching is the absence of
 past possession for neutral vijñapti and the five grounded designations of
 non-restraint.
+
+### Former Philosophical Translation
+
+> Manifest action does not acquire the same temporal persistence in every
+> ethical class: past neutral vijñapti, whether obscured or unobscured, is too
+> weakly acquired to remain attached to the continuum. Non-restraint, by
+> contrast, is not empty lack but an organized contrary practical form. The
+> same determination can be named from its failure to restrain, its censured
+> conduct, its opposition to discipline, its nature as bodily-verbal action,
+> and its place in the fundamental action-course.
+
+“Organized practical form” is an interpretive expression. The source itself
+gives the alternative names and their distinct explanatory grounds.
 
 ## 10. OWL++ Seed
 

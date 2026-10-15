@@ -22,7 +22,7 @@ prepared research Bhāṣya witness begins only at [211|08] and omits
 the first half-verse and its explanation; these are recovered below
 from the running source.
 
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
 ```iast
 nivṛtānivṛtābhyāṃ ca nātītābhyāṃ samanvitaḥ.

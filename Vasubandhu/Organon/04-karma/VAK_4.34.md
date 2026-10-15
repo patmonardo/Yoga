@@ -28,17 +28,6 @@ explains why intoxicants are selected among acts regarded by the
 
 ## 3. Lexical Analysis
 
-```text
-mṛṣā-vāda-prasaṅgāt
-ca
-sarva-śikṣā-vyatikrame
-
-pratikṣepaṇa-sāvadyāt
-madyāt
-eva
-anya-guptaye
-```
-
 | Form | Morphology | Lexical value here |
 |---|---|---|
 | `mṛṣāvādaprasaṅgāt` | ablative singular compound | because an occasion or liability for false speech arises |
@@ -144,13 +133,13 @@ changes questions before introducing intoxicants.
 
 ## 5. Translation
 
-### Literal Translation
+### Literal
 
 > And because an occasion for false speech arises upon transgression of any
 > training rule. Among what is blameworthy by prohibition, [abstention]
 > specifically from intoxicants [is prescribed], for guarding the others.
 
-### Bhāṣya-informed study translation
+### Bhāṣya-informed
 
 > Abstention from false speech is singled out among the verbal rules because
 > violation of any training rule can create an occasion for lying when the
@@ -165,17 +154,7 @@ the classification of intoxicants.
 
 ## 6. Philosophical Translation
 
-> The lay discipline contains rules that protect its own continued integrity.
-> Truthfulness preserves accountable acknowledgement when another rule has
-> already been breached; abstention from intoxicants preserves the
-> recollection and heedfulness through which the other restraints remain
-> practically guardable. The five rules therefore do not form a flat list:
-> some directly prohibit harmful conduct, while others preserve the
-> conditions under which discipline can recognize and sustain itself.
-
-This systemic reading follows the functions stated by the Bhāṣya. It does not
-erase the technical disagreement over whether intoxicant use is naturally
-blameworthy or blameworthy through prohibition.
+> And because an occasion for false speech arises upon transgression of any training rule. Among what is blameworthy by prohibition, [abstention] specifically from intoxicants [is prescribed], for guarding the others.
 
 ## 7. Technical Vocabulary
 
@@ -400,6 +379,20 @@ This is the Organon contact: the practical whole preserves both its outward
 determinations and the inward conditions of their continued actuality. The
 school positions and concrete causal sequence remain the controlling textual
 layer.
+
+### Former Philosophical Translation
+
+> The lay discipline contains rules that protect its own continued integrity.
+> Truthfulness preserves accountable acknowledgement when another rule has
+> already been breached; abstention from intoxicants preserves the
+> recollection and heedfulness through which the other restraints remain
+> practically guardable. The five rules therefore do not form a flat list:
+> some directly prohibit harmful conduct, while others preserve the
+> conditions under which discipline can recognize and sustain itself.
+
+This systemic reading follows the functions stated by the Bhāṣya. It does not
+erase the technical disagreement over whether intoxicant use is naturally
+blameworthy or blameworthy through prohibition.
 
 ## 10. OWL++ Seed
 

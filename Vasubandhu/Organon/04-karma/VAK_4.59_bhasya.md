@@ -18,7 +18,7 @@ kṛṣṇaśuklādibhedena punaḥ karma caturvidham // 4.59 //
 The second half announces a sūtra classification whose terms and
 allocation are supplied across 4.59–4.60.
 
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
 ```iast
 punastrayo vaṅkā uktāḥ sūtre / kāyavaṅkok vāgvaṅko manovaṅkaḥ /

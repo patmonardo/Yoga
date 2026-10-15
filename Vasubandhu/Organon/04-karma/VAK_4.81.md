@@ -16,13 +16,6 @@ cetanā daśabhir yāvac chubhair naikāṣṭapañcabhiḥ // 4.81 //
 
 ## 3. Lexical Analysis
 
-```text
-yugapat | yāvat | aṣṭābhiḥ | aśubhaiḥ |
-saha | vartate | cetanā |
-daśabhiḥ | yāvat | śubhaiḥ |
-na | eka-aṣṭa-pañcabhiḥ
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | `yugapat` | indeclinable | simultaneously; in one occurrence |
@@ -90,13 +83,13 @@ universalized beyond that context.
 
 ## 5. Translation
 
-### Scientific English Rendering
+### Literal
 
 > Volition occurs simultaneously with up to eight unwholesome Courses of
 > Action; with up to ten wholesome Courses of Action, but not with one, eight,
 > or five.
 
-### Bhāṣya-informed study translation
+### Bhāṣya-informed
 
 > Volition occurs simultaneously with up to eight unwholesome Courses of
 > Action; with up to ten wholesome Courses of Action, but not with one, eight,
@@ -116,20 +109,7 @@ contextual qualification are supplied by the Bhāṣya.
 
 ## 6. Philosophical Translation
 
-> One volition can organize several determinate Courses of Action at once. Yet
-> individually possible Courses of Action do not thereby form an arbitrary
-> possible whole: their co-presence depends upon mental orientation, Form-based
-> completion, restraint, mode of knowledge, and practical context. The numbers
-> express structures of joint realization, not an accidental heap of moral
-> predicates. General rule, exception, and contextual qualification together
-> determine the actual field of compossibility.
-
-The central distinction is:
-
-```text
-individual possibility
-    ≠ joint possibility
-```
+> Volition occurs simultaneously with up to eight unwholesome Courses of Action; with up to ten wholesome Courses of Action, but not with one, eight, or five.
 
 ## 7. Technical Vocabulary
 
@@ -317,6 +297,23 @@ This is the Organon contact. The numerical cases, completion-root objection,
 restraint configurations, and qualification of the exclusions belong to the
 Bhāṣya; the explicit constrained-compossibility formulation is the project
 synthesis.
+
+### Former Philosophical Translation
+
+> One volition can organize several determinate Courses of Action at once. Yet
+> individually possible Courses of Action do not thereby form an arbitrary
+> possible whole: their co-presence depends upon mental orientation, Form-based
+> completion, restraint, mode of knowledge, and practical context. The numbers
+> express structures of joint realization, not an accidental heap of moral
+> predicates. General rule, exception, and contextual qualification together
+> determine the actual field of compossibility.
+
+The central distinction is:
+
+```text
+individual possibility
+    ≠ joint possibility
+```
 
 ## 10. OWL++ Seed
 

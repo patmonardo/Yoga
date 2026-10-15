@@ -20,7 +20,7 @@ The natural unit starts at [225|03] and ends at [225|20–21] in
 `Vasubandhu/Sources/kosabhasya.txt`. The next verse begins with
 the loss of desire-realm wholesome nonmaterial dharmas at [225|22].
 
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
 ```iast
 asaṃvaraḥ saṃvarāptimṛtyudvivyañjanodayaiḥ /

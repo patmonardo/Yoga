@@ -26,21 +26,7 @@ field, exceptional intention, and complete detachment from the relevant level.
 
 ## 3. Lexical Analysis
 
-```text
-dṛṣṭa-dharma-phalam
-karma
-
-kṣetra-āśaya-viśeṣataḥ
-
-tad-bhūmi-atyanta-vairāgyāt
-
-vipāke
-niyatam
-hi
-yat
-```
-
-| Form | Morphology | Lexical value here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `dṛṣṭadharmaphalam` | nominative neuter singular compound | having fruit in the present life |
 | `karma` | nominative neuter singular | karma |
@@ -107,13 +93,13 @@ indeterminate.
 
 ## 5. Translation
 
-### Literal Translation
+### Literal
 
 > Karma has its result in the present life because of an exceptional field or
 > intention; likewise through complete detachment from its corresponding level,
 > when it is fixed with respect to maturation.
 
-### Bhāṣya-informed study translation
+### Bhāṣya-informed
 
 > Karma may have its result in the present life because of an exceptional
 > recipient-field or exceptional underlying intention. It may also have its
@@ -128,15 +114,7 @@ on the detachment rule are supplied by the Bhāṣya.
 
 ## 6. Philosophical Translation
 
-> Complete detachment has different consequences for karmas with different
-> modal status. If maturation is certain but its temporal stage is unfixed,
-> detachment from the karma's level is accompanied by a present-life result. If
-> the stage is fixed elsewhere, the maturation remains assigned there; if
-> maturation is indeterminate, complete detachment is accompanied by
-> non-maturation.
-
-Exceptional field and exceptional intention supply two further routes by which
-causal power contracts the interval between action and actuality.
+> Karma has its result in the present life because of an exceptional field or intention; likewise through complete detachment from its corresponding level, when it is fixed with respect to maturation.
 
 ## 7. Technical Vocabulary
 
@@ -291,6 +269,18 @@ contact with an object.
 This is the Organon contact. The three routes, traditional examples, and modal
 limitations belong to the Bhāṣya; Karma as Absolute Ground is the project
 synthesis.
+
+### Former Philosophical Translation
+
+> Complete detachment has different consequences for karmas with different
+> modal status. If maturation is certain but its temporal stage is unfixed,
+> detachment from the karma's level is accompanied by a present-life result. If
+> the stage is fixed elsewhere, the maturation remains assigned there; if
+> maturation is indeterminate, complete detachment is accompanied by
+> non-maturation.
+
+Exceptional field and exceptional intention supply two further routes by which
+causal power contracts the interval between action and actuality.
 
 ## 10. OWL++ Seed
 

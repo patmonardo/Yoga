@@ -27,24 +27,6 @@ undertaking of prātimokṣa restraint; the form must not be confused with
 
 ## 3. Lexical Analysis
 
-```text
-yāvat-jīvam
-samādānam
-aho-rātram
-ca
-saṃvṛteḥ
-
-na
-asaṃvaraḥ
-asti
-aho-rātram
-
-na
-kila
-evam
-pragṛhyate
-```
-
 | Form | Morphology | Lexical value here |
 |---|---|---|
 | `yāvajjīvam` | indeclinable adverbial compound | for as long as life lasts |
@@ -139,13 +121,13 @@ Bhāṣya does not treat this first answer as the end of inquiry.
 
 ## 5. Translation
 
-### Literal Translation
+### Literal
 
 > Restraint is undertaken for life or for one day and night. Non-restraint is
 > not recognized for merely one day and night, since it is not ordinarily
 > undertaken in that manner.
 
-### Bhāṣya-informed study translation
+### Bhāṣya-informed
 
 > The seven lifelong classes of prātimokṣa restraint are undertaken for the
 > duration of life, while upavāsa restraint is undertaken for one complete day
@@ -161,17 +143,7 @@ determinations.
 
 ## 6. Philosophical Translation
 
-> A practical form includes its temporal limit within the manner of its
-> acquisition. Lifelong restraint and day-and-night upavāsa are complete but
-> differently bounded vows. Standing non-restraint ordinarily arises not from
-> a ritual declaration of duration but from an utterly corrupted practical
-> intention; temporary corruption produces harmful action without necessarily
-> instituting that standing form. Yet the asymmetry is genetic and customary,
-> not an absolute logical impossibility: a genuinely undertaken finite
-> non-restraint would also be acquired.
-
-This incorporates Vasubandhu’s interrogation of the received rule while
-preserving the verse’s stated classification.
+> Restraint is undertaken for life or for one day and night. Non-restraint is not recognized for merely one day and night, since it is not ordinarily undertaken in that manner.
 
 ## 7. Technical Vocabulary
 
@@ -432,6 +404,20 @@ does the form by which that content becomes effective in a continuum.
 This is an Organon development. Vasubandhu explicitly raises the rational
 question about longer upavāsa, qualifies the one-day non-restraint rule, and
 records the Sautrāntika intentional reconstruction.
+
+### Former Philosophical Translation
+
+> A practical form includes its temporal limit within the manner of its
+> acquisition. Lifelong restraint and day-and-night upavāsa are complete but
+> differently bounded vows. Standing non-restraint ordinarily arises not from
+> a ritual declaration of duration but from an utterly corrupted practical
+> intention; temporary corruption produces harmful action without necessarily
+> instituting that standing form. Yet the asymmetry is genetic and customary,
+> not an absolute logical impossibility: a genuinely undertaken finite
+> non-restraint would also be acquired.
+
+This incorporates Vasubandhu’s interrogation of the received rule while
+preserving the verse’s stated classification.
 
 ## 10. OWL++ Seed
 

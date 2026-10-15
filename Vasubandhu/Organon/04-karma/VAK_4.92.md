@@ -16,11 +16,6 @@ tābhyām anyasya śaikṣādyā dve dve pañca phalāni ca // 4.92 //
 
 ## 3. Lexical Analysis
 
-```text
-dharmāḥ | śaikṣa-ādikāḥ | ekam | phalam | trīṇi | api | ca | dvayam |
-tābhyām | anyasya | śaikṣa-ādyāḥ | dve | dve | pañca | phalāni | ca
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | `dharmāḥ` | nominative masculine plural | result-dharmas in the ordered classification |
@@ -72,14 +67,14 @@ training-status classes; the Bhāṣya identifies this as neither-status action.
 
 ## 5. Translation
 
-### Scientific English Rendering
+### Literal
 
 > For action belonging to one beyond training, dharmas beginning with the
 > trainee class are respectively one, three, and two results. For action
 > belonging to neither trainee nor one beyond training, the same ordered
 > classes are respectively two, two, and five results.
 
-### Bhāṣya-informed study translation
+### Bhāṣya-informed
 
 > For beyond-training action, trainee dharmas stand as one result: the
 > dominant result. Dharmas belonging to one beyond training stand as three
@@ -95,12 +90,7 @@ training-status classes; the Bhāṣya identifies this as neither-status action.
 
 ## 6. Philosophical Translation
 
-> The result-profile of action belonging to one beyond training is
-> asymmetrical across the three result-status classes: one result, three,
-> and two. Action belonging to neither status has a different profile: two,
-> two, and five. These counts summarize distinct memberships in the
-> five-result classification; equal counts do not imply identical causal
-> relations, and the largest count does not itself rank a Path status.
+> For action belonging to one beyond training, dharmas beginning with the trainee class are respectively one, three, and two results. For action belonging to neither trainee nor one beyond training, the same ordered classes are respectively two, two, and five results.
 
 ## 7. Technical Vocabulary
 
@@ -152,6 +142,15 @@ Perception and Conception; this matrix articulates practical causal
 differentiation through action and result-status. Its five-result
 neither-to-neither cell expresses the breadth of that classified relation,
 not a ranking of spiritual worth.
+
+### Former Philosophical Translation
+
+> The result-profile of action belonging to one beyond training is
+> asymmetrical across the three result-status classes: one result, three,
+> and two. Action belonging to neither status has a different profile: two,
+> two, and five. These counts summarize distinct memberships in the
+> five-result classification; equal counts do not imply identical causal
+> relations, and the largest count does not itself rank a Path status.
 
 ## 10. OWL++ Seed
 

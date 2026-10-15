@@ -15,7 +15,7 @@ The first half records an alternative, residual definition of the fourth
 verbal course. The second turns to the first mental course and identifies
 its practical content: the wish to make another's possession one's own.
 
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
 ```iast
 ato 'nyat kliṣṭamityanye

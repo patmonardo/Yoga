@@ -21,7 +21,7 @@ and ends with the comparison to monks and novices at [215|12–13] in
 `Vasubandhu/Sources/kosabhasya.txt`. The next question at [215|14]
 opens the further challenge in 4.31.
 
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
 ```iast
 kiṃ khalv ayam upavāsakasyaivopavāsa āhosvid anyasyāpi?

@@ -21,7 +21,7 @@ meditation-born and uncontaminated restraint at [224|19] opens
 4.40. The research Bhāṣya abbreviates [223|23–224|16]; this
 study retains the intervening argument and marks difficult forms.
 
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
 ```iast
 patanīyena cety eke

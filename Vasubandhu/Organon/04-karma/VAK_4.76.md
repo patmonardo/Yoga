@@ -16,12 +16,6 @@ pāruṣyamapriyaṃ sarvaṃ kliṣṭaṃ bhinna pralāpitā // 4.76 //
 
 ## 3. Lexical Analysis
 
-```text
-paiśunyam | kliṣṭa-cittasya | vacanam | para-bhedane |
-pāruṣyam | apriyam | sarvam | kliṣṭam |
-bhinna-pralāpitā
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | `paiśunyam` | nominative neuter singular | divisive speech |
@@ -93,13 +87,13 @@ alternative residual definition begins in VAK 4.77.
 
 ## 5. Translation
 
-### Scientific English Rendering
+### Literal
 
 > Divisive speech is the utterance of one whose consciousness is afflicted,
 > directed toward dividing others. Harsh speech is disagreeable speech.
 > All afflicted speech is disordered discourse.
 
-### Bhāṣya-informed study translation
+### Bhāṣya-informed
 
 > Divisive speech is the utterance of one whose consciousness is afflicted,
 > directed toward dividing others. Harsh speech is disagreeable speech.
@@ -118,15 +112,7 @@ by the Bhāṣya.
 
 ## 6. Philosophical Translation
 
-> Speech becomes karmically determinate through the practical relation it
-> realizes. It may corrupt the speaker's relation to meaning through
-> falsehood, rupture relations among others through division, reach an
-> intended person as afflicted painful address, or fall under the broad
-> fourth course simply as afflicted utterance. Semantic coherence alone does
-> not establish the ethical status of discourse.
-
-The four verbal course types are related but not reducible to one another;
-the broad fourth course may overlap the first three.
+> Divisive speech is the utterance of one whose consciousness is afflicted, directed toward dividing others. Harsh speech is disagreeable speech. All afflicted speech is disordered discourse.
 
 ## 7. Technical Vocabulary
 
@@ -246,6 +232,18 @@ This is the project's interpretive synthesis. The definitions, inherited
 completion-conditions, and broad fourth-course classification belong to the
 Bhāṣya; the four-relations model of verbal Practical Form is the project
 synthesis.
+
+### Former Philosophical Translation
+
+> Speech becomes karmically determinate through the practical relation it
+> realizes. It may corrupt the speaker's relation to meaning through
+> falsehood, rupture relations among others through division, reach an
+> intended person as afflicted painful address, or fall under the broad
+> fourth course simply as afflicted utterance. Semantic coherence alone does
+> not establish the ethical status of discourse.
+
+The four verbal course types are related but not reducible to one another;
+the broad fourth course may overlap the first three.
 
 ## 10. OWL++ Seed
 

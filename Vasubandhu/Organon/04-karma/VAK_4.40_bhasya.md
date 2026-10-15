@@ -24,7 +24,7 @@ reading here. The unit runs from [224|19] through the closing line
 at [225|02] in `Vasubandhu/Sources/kosabhasya.txt`. The next
 verse turns to the loss of non-restraint at [225|03].
 
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
 ```iast
 atha dhyānānāsravasaṃvarayoḥ kathaṃ tyāgaḥ /

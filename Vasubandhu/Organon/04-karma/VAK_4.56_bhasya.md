@@ -19,7 +19,7 @@ The Bhāṣya's prose specifies that this result is certain **in the
 present life**. The verse's `sadyaḥ` does not establish an exact
 interval between the act and its result.
 
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
 ```iast
 kīdṛśaṃ punaḥ kṣetraṃ yatrāvaśyaṃ dṛṣṭadharmavedanīyaṃ karma

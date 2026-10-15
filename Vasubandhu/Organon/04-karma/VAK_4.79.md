@@ -16,13 +16,6 @@ phalahetvapavādinyā sarvathā kramaśo nṛṣu // 4.79 //
 
 ## 3. Lexical Analysis
 
-```text
-mūla-cchedaḥ | tu | asat-dṛṣṭyā |
-kāma-āpta-utpatti-lābhinām |
-phala-hetu-apavādinyā |
-sarvathā | kramaśaḥ | nṛṣu
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | `mūla-cchedaḥ` | nominative masculine singular compound | severance of the wholesome roots |
@@ -98,13 +91,13 @@ graded rather than instantaneous.
 
 ## 5. Translation
 
-### Scientific English Rendering
+### Literal
 
 > Severance of the wholesome roots occurs through false view. It concerns
 > Desire-Realm roots acquired by birth, through a view denying result and
 > ground; completely, successively, among humans.
 
-### Bhāṣya-informed study translation
+### Bhāṣya-informed
 
 > Severance of the wholesome roots occurs through false view. It concerns
 > Desire-Realm roots acquired by birth, through a view denying result and
@@ -125,24 +118,7 @@ Bhāṣya.
 
 ## 6. Philosophical Translation
 
-> False view becomes root-severing not through error alone but when its denial
-> of karmic ground and consequence becomes fully formative for the continuum.
-> It progressively removes the generative capacities through which wholesome
-> action could arise until no residual grade remains. The outcome is complete,
-> yet its preferred explanation is mediated and sequential: total ethical
-> incapacity is produced through a determinate series of negations.
-
-The view attacks the practical field at both ends:
-
-```text
-ground
-    → action
-    → result
-
-denial of ground
-    + denial of result
-    → severance of wholesome generation
-```
+> Severance of the wholesome roots occurs through false view. It concerns Desire-Realm roots acquired by birth, through a view denying result and ground; completely, successively, among humans.
 
 ## 7. Technical Vocabulary
 
@@ -353,6 +329,27 @@ This is the Organon contact. The object of severance, intensification rule,
 causal attribution, nine-grade dispute, human restriction, and domain
 distinctions belong to the Bhāṣya; the contrast between internal violation and
 destruction of generative capacity is the project synthesis.
+
+### Former Philosophical Translation
+
+> False view becomes root-severing not through error alone but when its denial
+> of karmic ground and consequence becomes fully formative for the continuum.
+> It progressively removes the generative capacities through which wholesome
+> action could arise until no residual grade remains. The outcome is complete,
+> yet its preferred explanation is mediated and sequential: total ethical
+> incapacity is produced through a determinate series of negations.
+
+The view attacks the practical field at both ends:
+
+```text
+ground
+    → action
+    → result
+
+denial of ground
+    + denial of result
+    → severance of wholesome generation
+```
 
 ## 10. OWL++ Seed
 

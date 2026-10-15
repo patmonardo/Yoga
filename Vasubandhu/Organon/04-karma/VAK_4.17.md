@@ -30,20 +30,6 @@ The Bhāṣya resolves the compressed second quarter: one who is endowed with
 
 ## 3. Lexical Analysis
 
-```text
-prātimokṣa-anvitāḥ
-aṣṭau
-
-dhyāna-jena
-tad-anvitaḥ
-
-anāsraveṇa
-ārya-sattvāḥ
-
-antyau
-citta-anuvartinau
-```
-
 | Form | Morphology | Lexical value here |
 |---|---|---|
 | `prātimokṣānvitāḥ` | nominative masculine plural of `prātimokṣa-anvita` | endowed with prātimokṣa restraint |
@@ -152,13 +138,13 @@ They—not prātimokṣa restraint—are predicated as following consciousness.
 
 ## 5. Translation
 
-### Literal Translation
+### Literal
 
 > The eight are endowed with prātimokṣa restraint. One endowed with that
 > [dhyāna] is endowed with the restraint born from dhyāna. Noble beings are
 > endowed with uncontaminated restraint. The latter two follow consciousness.
 
-### Bhāṣya-informed study translation
+### Bhāṣya-informed
 
 > The eight disciplinary classes are endowed with prātimokṣa restraint.
 > Whoever is endowed with dhyāna is necessarily endowed with the restraint
@@ -171,17 +157,7 @@ are not additional words of the kārikā.
 
 ## 6. Philosophical Translation
 
-> The three forms of restraint are distributed according to their bearers
-> and their grounds. Prātimokṣa restraint belongs to the eight classes that
-> undertake it. Restraint born from meditative absorption belongs necessarily
-> to one established in that absorption, and uncontaminated restraint belongs
-> to noble beings. The latter two accompany the consciousness that grounds
-> them; prātimokṣa restraint can continue when the present consciousness has
-> changed or is absent.
-
-This translation includes the Bhāṣya’s contrastive criterion. “Grounds” is
-interpretive language for expressing the different conditions of possession;
-it is not a translation of a single Sanskrit term in the verse.
+> The eight are endowed with prātimokṣa restraint. One endowed with that [dhyāna] is endowed with the restraint born from dhyāna. Noble beings are endowed with uncontaminated restraint. The latter two follow consciousness.
 
 ## 7. Technical Vocabulary
 
@@ -387,6 +363,20 @@ The comparison does not identify Yoga’s yamas with the Buddhist eight classes
 or with the Sarvāstivāda theory of avijñapti. It isolates a shared practical
 problem: how a discipline becomes continuously efficacious rather than
 remaining an occasional intention.
+
+### Former Philosophical Translation
+
+> The three forms of restraint are distributed according to their bearers
+> and their grounds. Prātimokṣa restraint belongs to the eight classes that
+> undertake it. Restraint born from meditative absorption belongs necessarily
+> to one established in that absorption, and uncontaminated restraint belongs
+> to noble beings. The latter two accompany the consciousness that grounds
+> them; prātimokṣa restraint can continue when the present consciousness has
+> changed or is absent.
+
+This translation includes the Bhāṣya’s contrastive criterion. “Grounds” is
+interpretive language for expressing the different conditions of possession;
+it is not a translation of a single Sanskrit term in the verse.
 
 ## 10. OWL++ Seed
 

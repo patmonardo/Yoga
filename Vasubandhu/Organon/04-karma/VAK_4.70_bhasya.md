@@ -15,7 +15,7 @@ VAK 4.68 classified the roots from which preparation can arise. VAK 4.70
 now asks which root is immediately operative when a particular course
 reaches its defining completion.
 
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
 ```iast
 yaduktaṃ "na sarveṣāṃ karmapathānāṃ lobhādibhirniṣṭhe"tyatha kasya

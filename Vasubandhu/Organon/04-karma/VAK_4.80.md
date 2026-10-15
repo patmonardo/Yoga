@@ -16,13 +16,6 @@ saṃdhiḥ kāṅkṣāsti-dṛṣṭibhyāṃ nehānantarya-kāriṇaḥ // 4.
 
 ## 3. Lexical Analysis
 
-```text
-chinatti | strī | pumān | dṛṣṭi-caritaḥ |
-saḥ | a-samanvayaḥ |
-saṃdhiḥ | kāṅkṣā-asti-dṛṣṭibhyām |
-na | iha | ānantarya-kāriṇaḥ
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | `chinatti` | third-person singular present of `√chid` | severs; cuts off |
@@ -104,14 +97,14 @@ result.
 
 ## 5. Translation
 
-### Scientific English Rendering
+### Literal
 
 > A woman or a man whose disposition is governed by view severs them; that
 > severance is non-endowment. Reconnection occurs through doubt or the view
 > that karmic ground and result exist, but not here for one who has committed
 > an immediate-retribution action.
 
-### Bhāṣya-informed study translation
+### Bhāṣya-informed
 
 > A woman or a man whose disposition is governed by view severs them; that
 > severance is non-endowment. Reconnection occurs through doubt or the view
@@ -134,25 +127,7 @@ supplied by the Bhāṣya.
 
 ## 6. Philosophical Translation
 
-> Radical ethical collapse is a loss of operative endowment, not the
-> annihilation of a permanent entity. Recovery begins when the governing
-> certainty of denial is destabilized: doubt can reopen the practical field
-> before full right view has been established. Once the relation of endowment
-> is restored, capacity and manifestation remain distinct—the whole capacity
-> reconnects together, while its effective exercise returns progressively.
-> Restoration of orientation also does not erase consequences already fixed by
-> completed action.
-
-The local cycle is:
-
-```text
-fixed false view
-    → severance
-    → non-endowment
-    → doubt or right view
-    → restored endowment
-    → gradual manifestation
-```
+> A woman or a man whose disposition is governed by view severs them; that severance is non-endowment. Reconnection occurs through doubt or the view that karmic ground and result exist, but not here for one who has committed an immediate-retribution action.
 
 ## 7. Technical Vocabulary
 
@@ -337,6 +312,28 @@ This is the Organon contact. The agent-type dispute, `prāpti`/`aprāpti`
 account, conditions of reconnection, nine-grade asymmetry, and `ānantarya`
 exception belong to the Bhāṣya; the distinction between restored capacity and
 progressive exercise is the project synthesis.
+
+### Former Philosophical Translation
+
+> Radical ethical collapse is a loss of operative endowment, not the
+> annihilation of a permanent entity. Recovery begins when the governing
+> certainty of denial is destabilized: doubt can reopen the practical field
+> before full right view has been established. Once the relation of endowment
+> is restored, capacity and manifestation remain distinct—the whole capacity
+> reconnects together, while its effective exercise returns progressively.
+> Restoration of orientation also does not erase consequences already fixed by
+> completed action.
+
+The local cycle is:
+
+```text
+fixed false view
+    → severance
+    → non-endowment
+    → doubt or right view
+    → restored endowment
+    → gradual manifestation
+```
 
 ## 10. OWL++ Seed
 

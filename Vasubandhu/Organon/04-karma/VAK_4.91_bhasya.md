@@ -24,7 +24,7 @@ The final construction is intentionally incomplete. The first row of the
 training-status matrix is explained here; the verse then opens the
 beyond-training row, whose numbers occur in 4.92.
 
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
 ```iast
 svabhūmidharmāś catvāri

@@ -24,7 +24,7 @@ explanation; neither reading is silently normalized. The natural unit runs from
 `Vasubandhu/Sources/kosabhasya.txt`. The question about false
 speech at [218|09–10] opens the next discussion.
 
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
 ```iast
 kiṃ punaḥ kāraṇam anyeṣu saṃvareṣv abrahmacaryād viratiḥ

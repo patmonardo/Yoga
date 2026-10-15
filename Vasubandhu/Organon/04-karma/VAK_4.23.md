@@ -27,24 +27,6 @@ possession of `vijñapti`.
 
 ## 3. Lexical Analysis
 
-```text
-vijñaptyā
-tu
-punaḥ
-sarve
-kurvantaḥ
-madhyayā
-anvitāḥ
-
-atītayā
-kṣaṇāt
-ūrdhvam
-atyāgāt
-na
-asti
-ajātayā
-```
-
 | Form | Morphology | Lexical value here |
 |---|---|---|
 | `vijñaptyā` | instrumental feminine singular | with manifest action; with vijñapti |
@@ -147,13 +129,13 @@ arisen manifestation is presently possessed as vijñapti.
 
 ## 5. Translation
 
-### Literal Translation
+### Literal
 
 > But now, with vijñapti in turn: all who are acting are endowed with it as
 > present. After the first moment, provided it has not been abandoned, they are
 > also endowed with it as past. No one is endowed with future vijñapti.
 
-### Bhāṣya-informed study translation
+### Bhāṣya-informed
 
 > But now, turning again to manifest action: everyone—whether established in
 > restraint, non-restraint, or neither—possesses present vijñapti for exactly
@@ -166,15 +148,7 @@ universal force of the final denial are supplied by the Bhāṣya.
 
 ## 6. Philosophical Translation
 
-> Manifest action belongs to the present only in its actual production. Once a
-> moment of that production has passed, the action is also possessed under the
-> determination of pastness, provided it has not been abandoned. But
-> manifestation cannot be possessed in advance as future manifestation: what
-> has not yet arisen may be intended or otherwise conditioned, but it is not
-> yet `vijñapti` as an actually expressed bodily or verbal act.
-
-This states the temporal asymmetry of vijñapti without importing the Organon
-Wheel into the source translation.
+> But now, with vijñapti in turn: all who are acting are endowed with it as present. After the first moment, provided it has not been abandoned, they are also endowed with it as past. No one is endowed with future vijñapti.
 
 ## 7. Technical Vocabulary
 
@@ -385,6 +359,18 @@ difference of its poles.
 This is our Organon synthesis. Vasubandhu explicitly supplies the structural
 return to vijñapti and its temporal possession-rule; he does not formulate the
 Paramārthika Wheel in these terms.
+
+### Former Philosophical Translation
+
+> Manifest action belongs to the present only in its actual production. Once a
+> moment of that production has passed, the action is also possessed under the
+> determination of pastness, provided it has not been abandoned. But
+> manifestation cannot be possessed in advance as future manifestation: what
+> has not yet arisen may be intended or otherwise conditioned, but it is not
+> yet `vijñapti` as an actually expressed bodily or verbal act.
+
+This states the temporal asymmetry of vijñapti without importing the Organon
+Wheel into the source translation.
 
 ## 10. OWL++ Seed
 

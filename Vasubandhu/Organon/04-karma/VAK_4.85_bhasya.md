@@ -16,7 +16,7 @@ distribution was completed in 4.82–4.84. The Bhāṣya first enumerates the
 three results and then derives their differentiation from three aspects of
 killing as a completed Course of Action.
 
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
 ```iast
 ta ete daśākuśalāḥ karmapathāḥ kuśalāś ca

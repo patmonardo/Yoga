@@ -27,25 +27,6 @@ thing and not an abstract meaning detached from practical realization.
 
 ## 3. Lexical Analysis
 
-```text
-asaṃvaraḥ
-
-saṃvara-āpti
-mṛtyu
-dvi-vyañjana-udayaiḥ
-
-vega
-ādāna
-kriyā
-artha
-āyus
-mūla
-cchedaiḥ
-
-tu
-madhyamā
-```
-
 | Form | Morphology | Lexical value here |
 |---|---|---|
 | `asaṃvaraḥ` | nominative masculine singular | non-restraint |
@@ -141,14 +122,14 @@ prose as relinquishment of the undertaking. The understood feminine
 
 ## 5. Translation
 
-### Literal Translation
+### Literal
 
 > Non-restraint is relinquished through acquisition of restraint, death, or
 > the arising of both sexual characteristics. The intermediate [avijñapti],
 > however, is relinquished through severance of force, undertaking, activity,
 > Idea, lifespan, or root.
 
-### Bhāṣya-informed study translation
+### Bhāṣya-informed
 
 > Established non-restraint is cut off when a stronger contrary restraint is
 > acquired, when the bearer dies, or when the qualifying bodily support is
@@ -165,17 +146,7 @@ supplied by the Bhāṣya.
 
 ## 6. Philosophical Translation
 
-> A comprehensive harmful form and a project-specific persistent form do not
-> cease by the same logic. Established non-restraint requires a stronger
-> contrary determination; mere inactivity removes neither its acquired form
-> nor its practical history. Intermediate avijñapti persists only while its
-> particular causal complex remains operative—momentum, undertaking,
-> performance, realized Idea, living bearer, and wholesome root. Its loss is
-> therefore dependency-severance rather than conversion by a comprehensive
-> opposite.
-
-This distinction does not make non-restraint indestructible. Death and
-transformation of its support remain independent causes of loss.
+> Non-restraint is relinquished through acquisition of restraint, death, or the arising of both sexual characteristics. The intermediate [avijñapti], however, is relinquished through severance of force, undertaking, activity, Idea, lifespan, or root.
 
 ## 7. Technical Vocabulary
 
@@ -443,6 +414,20 @@ all karmic persistence.
 This is the Organon contact. Strong contrary determination, the medical and
 potter’s-wheel analogies, the anonymous upavāsa dispute, and the six
 dependency severances belong to the Bhāṣya.
+
+### Former Philosophical Translation
+
+> A comprehensive harmful form and a project-specific persistent form do not
+> cease by the same logic. Established non-restraint requires a stronger
+> contrary determination; mere inactivity removes neither its acquired form
+> nor its practical history. Intermediate avijñapti persists only while its
+> particular causal complex remains operative—momentum, undertaking,
+> performance, realized Idea, living bearer, and wholesome root. Its loss is
+> therefore dependency-severance rather than conversion by a comprehensive
+> opposite.
+
+This distinction does not make non-restraint indestructible. Death and
+transformation of its support remain independent causes of loss.
 
 ## 10. OWL++ Seed
 

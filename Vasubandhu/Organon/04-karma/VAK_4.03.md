@@ -28,26 +28,6 @@ manifestation with speech sound.
 
 ## 3. Lexical Analysis
 
-```text
-na                         → na
-kasyacit                   → kasyacid (before vowel)
-a-hetoḥ                    → ahetoḥ
-syāt                       → syād (before h-)
-hetuḥ                      → hetuḥ
-syāt                       → syāc (before ca)
-ca                         → ca
-vināśakaḥ                  → vināśakaḥ
-dvi-grāhyam                → dvigrāhyaṃ
-syāt                       → syān (before na)
-na                         → na
-ca                         → ca
-aṇau                       → cāṇau (after ca)
-tat                        → tad (before v-)
-vāk-vijñaptiḥ              → vāgvijñaptis (before tu)
-tu                         → tu
-vāk-dhvaniḥ                → vāgdhvaniḥ
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | na | negative particle | not |
@@ -91,7 +71,7 @@ The first two clauses use the optative `syāt` with `ahetoḥ` and `hetuḥ ... 
 
 ## 5. Translation
 
-### Literal Translation
+### Literal
 
 > For nothing would [destruction] be causeless, and the cause would become a
 > destroyer. [Configuration] would be apprehensible by two [faculties], and it
@@ -101,7 +81,7 @@ The first two clauses use the optative `syāt` with `ahetoḥ` and `hetuḥ ... 
 The bracketed subjects and the conditional force of the first sentence are
 supplied from the continuous Bhāṣya argument.
 
-### Bhāṣya-informed study translation
+### Bhāṣya-informed
 
 > If destruction required a cause as arising does, no destruction would be
 > causeless; yet momentary cognitions, sounds, and flames cease without a
@@ -117,15 +97,7 @@ material reality are Bhāṣya determinations.
 
 ## 6. Philosophical Translation
 
-### Bhāṣya-Based Synthesis
-
-The Bhāṣya connects three determinations. Destruction is not a further
-positive effect requiring a destroyer; apparent motion is explained through
-successive arising; and the Sautrāntikas treat configuration as a designation
-grounded in arranged material plurality rather than as a separate entity.
-The Vaibhāṣikas retain configuration as real. The commentary then explains
-bodily karma through the volition that directs the body and identifies verbal
-manifestation with speech sound.
+> [Destruction] would not be causeless for anything, and the cause would become a destroyer. [Configuration] would be apprehensible by two [faculties], and it does not exist in a single atom. Verbal manifestation, however, is vocal sound.
 
 ## 7. Technical Vocabulary
 
@@ -171,7 +143,6 @@ and above the arranged plurality.
 
 ## 8. Logical Determination
 
-
 The verse moves from its two clauses about cause and destruction, to a predication about configuration, and closes by identifying verbal manifestation with vocal sound.
 
 ## 9. Interpretive Note
@@ -181,6 +152,18 @@ account of configuration: the Sautrāntikas treat it as a grounded
 designation, while the Vaibhāṣikas retain it as real. It also distinguishes
 planning Cetanā from operative Cetanā in its account of bodily action.
 `Avijñapti` is mentioned but its further dispute is deferred to 4.04.
+
+### Former Philosophical Translation
+
+### Bhāṣya-Based Synthesis
+
+The Bhāṣya connects three determinations. Destruction is not a further
+positive effect requiring a destroyer; apparent motion is explained through
+successive arising; and the Sautrāntikas treat configuration as a designation
+grounded in arranged material plurality rather than as a separate entity.
+The Vaibhāṣikas retain configuration as real. The commentary then explains
+bodily karma through the volition that directs the body and identifies verbal
+manifestation with speech sound.
 
 ## 10. OWL++ Seed
 

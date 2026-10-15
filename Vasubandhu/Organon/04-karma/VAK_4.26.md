@@ -28,20 +28,6 @@ procedure is not the only recognized acquisition of prātimokṣa restraint.
 
 ## 3. Lexical Analysis
 
-```text
-dhyāna-jaḥ
-dhyāna-bhūmyā
-eva
-labhyate
-
-anāsravaḥ
-tayā
-āryayā
-
-prātimokṣa-ākhyaḥ
-para-vijñāpana-ādibhiḥ
-```
-
 | Form | Morphology | Lexical value here |
 |---|---|---|
 | `dhyānajaḥ` | nominative masculine singular compound | meditation-born [restraint] |
@@ -144,14 +130,14 @@ The instrumental plural prevents reduction to a single universal ceremony.
 
 ## 5. Translation
 
-### Literal Translation
+### Literal
 
 > Meditation-born restraint is acquired only through a dhyāna ground;
 > uncontaminated restraint is acquired through that same ground in its noble
 > form; the restraint called prātimokṣa is acquired through notification by
 > another and related means.
 
-### Bhāṣya-informed study translation
+### Bhāṣya-informed
 
 > Meditation-born restraint is acquired together with contaminated
 > dhyāna-level consciousness—whether fundamental or preparatory—because the
@@ -166,17 +152,7 @@ distinction, and procedural plurality are Bhāṣya determinations.
 
 ## 6. Philosophical Translation
 
-> Each restraint becomes actual through a ground adequate to its nature.
-> Meditation restraint co-arises with attained meditative consciousness;
-> uncontaminated restraint co-arises with that ground transformed into noble
-> Path-attainment; prātimokṣa restraint arises through a valid practical
-> procedure, ordinarily interpersonal and declarative but not reducible to one
-> outward speech-event. The unity of restraint therefore contains distinct
-> modes of genesis: state-acquisition, Path-acquisition, and institutionally
-> valid undertaking.
-
-“Modes of genesis” and “institutionally valid” are interpretive expressions.
-The source specifies the acquisition grounds and recognized procedures.
+> Meditation-born restraint is acquired only through a dhyāna ground; uncontaminated restraint is acquired through that same ground in its noble form; the restraint called prātimokṣa is acquired through notification by another and related means.
 
 ## 7. Technical Vocabulary
 
@@ -402,6 +378,20 @@ valid practical institution
 This is an Organon reconstruction. Vasubandhu explicitly teaches the three
 acquisition grounds, co-arising with meditative consciousness, and the Vinaya
 plurality included by `ādi`.
+
+### Former Philosophical Translation
+
+> Each restraint becomes actual through a ground adequate to its nature.
+> Meditation restraint co-arises with attained meditative consciousness;
+> uncontaminated restraint co-arises with that ground transformed into noble
+> Path-attainment; prātimokṣa restraint arises through a valid practical
+> procedure, ordinarily interpersonal and declarative but not reducible to one
+> outward speech-event. The unity of restraint therefore contains distinct
+> modes of genesis: state-acquisition, Path-acquisition, and institutionally
+> valid undertaking.
+
+“Modes of genesis” and “institutionally valid” are interpretive expressions.
+The source specifies the acquisition grounds and recognized procedures.
 
 ## 10. OWL++ Seed
 

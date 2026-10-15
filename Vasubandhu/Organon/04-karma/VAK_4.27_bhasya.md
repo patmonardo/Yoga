@@ -20,7 +20,7 @@ ends with the Sautrāntika explanation at [213|10–11] in
 `Vasubandhu/Sources/kosabhasya.txt`. The next question, at [213|12],
 opens 4.28 on how the one-day observance is undertaken.
 
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
 ```iast
 sa punar eṣa prātimokṣāsaṃvaraḥ samādīyamānaḥ kiyantaṃ kālaṃ

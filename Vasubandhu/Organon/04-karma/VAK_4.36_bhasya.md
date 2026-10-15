@@ -20,7 +20,7 @@ non-restraint is acquired, begins at [222|08] and opens 4.37.
 The research Bhāṣya omits substantial prose at [220|25–221|07]
 and [221|13–222|04]; this study restores it from the running text.
 
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
 ```iast
 atha kiṃ saṃvarāsaṃvarau sarvasattvebhya eva labhyete

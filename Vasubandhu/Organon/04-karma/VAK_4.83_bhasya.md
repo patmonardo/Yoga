@@ -16,7 +16,7 @@ The verse completes the regional distribution begun in 4.82. `Atra` carries
 forward Uttarakuru; `anyatra` then excludes both Uttarakuru and the hells
 from its general statement about the rest of the Desire-Realm.
 
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
 ```iast
 saptamaḥ svayam apy atra

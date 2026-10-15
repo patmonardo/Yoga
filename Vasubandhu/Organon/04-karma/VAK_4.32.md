@@ -28,24 +28,6 @@ concerns nirvāṇa.
 
 ## 3. Lexical Analysis
 
-```text
-buddha-saṃgha-karān
-dharmān
-aśaikṣān
-ubhayān
-ca
-saḥ
-
-nirvāṇam
-ca
-iti
-śaraṇam
-
-yaḥ
-yāti
-śaraṇa-trayam
-```
-
 | Form | Morphology | Lexical value here |
 |---|---|---|
 | `buddhasaṃghakarān` | accusative masculine plural compound | making or constituting Buddha and Saṅgha |
@@ -171,12 +153,12 @@ comprehension.
 
 ## 5. Translation
 
-### Literal Translation
+### Literal
 
 > Whoever goes to the Three Refuges takes as refuge the aśaikṣa dharmas that
 > make a Buddha, both kinds of dharmas that make the Saṅgha, and nirvāṇa.
 
-### Bhāṣya-informed study translation
+### Bhāṣya-informed
 
 > Whoever goes to the Three Refuges takes refuge in the aśaikṣa dharmas that
 > constitute one as a Buddha, especially knowledge of exhaustion and its
@@ -191,17 +173,7 @@ of Buddha or Saṅgha.
 
 ## 6. Philosophical Translation
 
-> Refuge passes through the visible bearer to the liberating determinations
-> through which that bearer is what it is. The Buddha is neither reduced to a
-> physical body nor identified without remainder with an abstract collection:
-> the completed Path-dharmas constitute the embodied support as Buddha. The
-> noble Saṅgha is constituted through the Path-dharmas acquired by trainees
-> and those beyond training. The Dharma-refuge terminates in nirvāṇa itself,
-> the discriminatively attained pacification of defilement and suffering.
-
-This does not deny the Buddha or Saṅgha as bearers. It preserves the explicit
-Bhāṣya distinction between the support and the dharmas that constitute its
-liberating determination.
+> Whoever goes to the Three Refuges takes as refuge the aśaikṣa dharmas that make a Buddha, both kinds of dharmas that make the Saṅgha, and nirvāṇa.
 
 ## 7. Technical Vocabulary
 
@@ -423,6 +395,20 @@ joined to seeing the Four Noble Truths and following the noble Path.
 This is the restrained Organon contact: constitutive determination, manifest
 practical institution, and liberation-directed Meaning. No independent
 governing intelligence or transcendent bearer is introduced.
+
+### Former Philosophical Translation
+
+> Refuge passes through the visible bearer to the liberating determinations
+> through which that bearer is what it is. The Buddha is neither reduced to a
+> physical body nor identified without remainder with an abstract collection:
+> the completed Path-dharmas constitute the embodied support as Buddha. The
+> noble Saṅgha is constituted through the Path-dharmas acquired by trainees
+> and those beyond training. The Dharma-refuge terminates in nirvāṇa itself,
+> the discriminatively attained pacification of defilement and suffering.
+
+This does not deny the Buddha or Saṅgha as bearers. It preserves the explicit
+Bhāṣya distinction between the support and the dharmas that constitute its
+liberating determination.
 
 ## 10. OWL++ Seed
 

@@ -23,7 +23,7 @@ The specification of restraint among gods starts with 4.44 at
 classifications; they are not identities inferred about people
 today.
 
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
 ```iast
 atha keṣāṃ sattvānām asaṃvaro bhavati keṣāṃ saṃvaraḥ /

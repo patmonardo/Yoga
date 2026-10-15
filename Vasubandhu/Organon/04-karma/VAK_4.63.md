@@ -26,24 +26,6 @@ silently replaces the principal classification of VAK 4.60.
 
 ## 3. Lexical Analysis
 
-```text
-anye
-
-naraka-vedyam
-anya-kāma-vedyam
-dvayam
-viduḥ
-
-dṛk-dheyam
-kṛṣṇam
-anye
-
-anyat
-kṛṣṇa-śuklam
-tu
-kāma-jam
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | `anye` | nominative masculine plural | other teachers |
@@ -111,14 +93,14 @@ remainder with the seeing-abandoned class.
 
 ## 5. Translation
 
-### Scientific English Rendering
+### Literal
 
 > Other teachers understand the pair as karma to be experienced in hell and
 > karma to be experienced elsewhere in the Desire Realm, respectively. Still
 > others call karma abandoned by seeing black; the remaining Desire-Realm
 > karma is black-and-white.
 
-### Bhāṣya-informed study translation
+### Bhāṣya-informed
 
 > Other teachers understand the pair as karma to be experienced in hell and
 > karma to be experienced elsewhere in the Desire Realm, respectively. Still
@@ -138,15 +120,7 @@ remainder are supplied by the Bhāṣya.
 
 ## 6. Philosophical Translation
 
-> A classificatory predicate receives determinate Meaning only through its
-> ground of division. “Black” can name karma by intrinsic ethical quality, by
-> the field in which its maturation occurs, or by the Path-operation through
-> which it is abandoned. These uses need not be confused or reduced to one
-> definition. The shared word remains controlled by the relation that licenses
-> its application in each doctrinal presentation.
-
-The verse therefore closes the block by reflecting the method of Abhidharma
-classification back upon its own terminology.
+> Other teachers understand the pair as karma to be experienced in hell and karma to be experienced elsewhere in the Desire Realm, respectively. Still others call karma abandoned by seeing black; the remaining Desire-Realm karma is black-and-white.
 
 ## 7. Technical Vocabulary
 
@@ -295,6 +269,18 @@ Abhidharma application.
 This is the Organon contact. The alternative teachers, maturation-field
 arguments, and abandonment-mode arguments belong to the Bhāṣya; the explicit
 Rational/Practical formulation is project synthesis.
+
+### Former Philosophical Translation
+
+> A classificatory predicate receives determinate Meaning only through its
+> ground of division. “Black” can name karma by intrinsic ethical quality, by
+> the field in which its maturation occurs, or by the Path-operation through
+> which it is abandoned. These uses need not be confused or reduced to one
+> definition. The shared word remains controlled by the relation that licenses
+> its application in each doctrinal presentation.
+
+The verse therefore closes the block by reflecting the method of Abhidharma
+classification back upon its own terminology.
 
 ## 10. OWL++ Seed
 

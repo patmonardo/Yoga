@@ -26,22 +26,7 @@ association, object-support, maturation, and present manifestation.
 
 ## 3. Lexical Analysis
 
-```text
-svabhāva
-saṃprayogābhyām
-
-ālambana
-vipākataḥ
-
-saṃmukhī-bhāvataḥ
-ca
-iti
-
-pañcadhā
-vedanīyatā
-```
-
-| Form | Morphology | Lexical value here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `svabhāva` | compound member | intrinsic nature; own character |
 | `saṃprayogābhyām` | instrumental dual | by intrinsic nature and association |
@@ -105,12 +90,12 @@ that license the designation `vedanīya`.
 
 ## 5. Translation
 
-### Literal Translation
+### Literal
 
 > The condition of being “to be experienced” is fivefold: by intrinsic nature,
 > association, object-support, maturation, and present manifestation.
 
-### Bhāṣya-informed study translation
+### Bhāṣya-informed
 
 > Something may be called “to be experienced” on five different grounds:
 > feeling by its own nature; contact through association with feeling; an
@@ -125,15 +110,7 @@ to karma are supplied by the Bhāṣya.
 
 ## 6. Philosophical Translation
 
-> One predicate can be valid through several irreducibly different mediations.
-> To say that something “is experienced” may express own-nature, association,
-> object-relation, causal production, or present actuality. The surface copula
-> does not reveal which relation grounds the assertion. In the karmic case,
-> the predicate returns from the matured result to its cause: karma is called
-> “pleasant-to-be-experienced” because it produces a maturation whose
-> experiential character is pleasure.
-
-Semantic identity must therefore not be inferred from sameness of predicate.
+> The condition of being “to be experienced” is fivefold: by intrinsic nature, association, object-support, maturation, and present manifestation.
 
 ## 7. Technical Vocabulary
 
@@ -276,6 +253,18 @@ The actualization of the feeling is itself the relevant experiential event.
 
 This is the Organon contact. The five grounds, their examples, and the return
 to karmic designation belong to the Bhāṣya.
+
+### Former Philosophical Translation
+
+> One predicate can be valid through several irreducibly different mediations.
+> To say that something “is experienced” may express own-nature, association,
+> object-relation, causal production, or present actuality. The surface copula
+> does not reveal which relation grounds the assertion. In the karmic case,
+> the predicate returns from the matured result to its cause: karma is called
+> “pleasant-to-be-experienced” because it produces a maturation whose
+> experiential character is pleasure.
+
+Semantic identity must therefore not be inferred from sameness of predicate.
 
 ## 10. OWL++ Seed
 

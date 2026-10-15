@@ -27,23 +27,7 @@ Realm.
 
 ## 3. Lexical Analysis
 
-```text
-dharma-kṣāntiṣu
-
-vairāgye
-ca
-ānantarya-patha-aṣṭake
-
-yā
-cetanā
-dvādaśadhā
-
-karma
-kṛṣṇa-kṣayāya
-tat
-```
-
-| Form | Morphology | Lexical value here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `dharmakṣāntiṣu` | locative feminine plural compound | in the dharma-knowledge patiences |
 | `vairāgye` | locative neuter singular | in detachment; here detachment from the Desire Realm |
@@ -105,12 +89,12 @@ The dative expresses the target and direction of the path-volition's activity.
 
 ## 5. Translation
 
-### Literal Translation
+### Literal
 
 > The volition in the dharma-patiences and in the eight uninterrupted paths of
 > detachment is twelvefold; that karma is for the exhaustion of black karma.
 
-### Bhāṣya-informed study translation
+### Bhāṣya-informed
 
 > Four volitions occur in the dharma-knowledge patiences of the Path of Seeing,
 > and eight occur in the first eight uninterrupted paths of detachment from the
@@ -125,15 +109,7 @@ Bhāṣya.
 
 ## 6. Philosophical Translation
 
-> Liberating activity is not an empty negation of karma in general. Each
-> path-volition is a positive determination whose function is the removal of a
-> corresponding practical determination. Four seeing-path operations and eight
-> uninterrupted operations of detachment from the Desire Realm together constitute a
-> twelvefold activity directed specifically against black karma. Negation is
-> therefore rational because it is internally differentiated by what negates,
-> what is negated, and the stage at which the relation becomes actual.
-
-The Path operates upon the karmic circuit through determinate volition.
+> The volition in the dharma-patiences and in the eight uninterrupted paths of detachment is twelvefold; that karma is for the exhaustion of black karma.
 
 ## 7. Technical Vocabulary
 
@@ -284,6 +260,18 @@ two moments of one Path.
 This is the Organon contact. The initial rejection, arithmetic, Path locations,
 and abandonment target belong to the Bhāṣya; the counter-ground formulation is
 project synthesis.
+
+### Former Philosophical Translation
+
+> Liberating activity is not an empty negation of karma in general. Each
+> path-volition is a positive determination whose function is the removal of a
+> corresponding practical determination. Four seeing-path operations and eight
+> uninterrupted operations of detachment from the Desire Realm together constitute a
+> twelvefold activity directed specifically against black karma. Negation is
+> therefore rational because it is internally differentiated by what negates,
+> what is negated, and the stage at which the relation becomes actual.
+
+The Path operates upon the karmic circuit through determinate volition.
 
 ## 10. OWL++ Seed
 

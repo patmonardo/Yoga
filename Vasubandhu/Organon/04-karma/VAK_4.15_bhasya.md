@@ -18,7 +18,7 @@ This is the Bhāṣya-informed study translation in `VAK_4.15.md`. The
 prose unit runs from [206|22] through [207|07]; the next kārikā begins
 at [207|08].
 
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
 ```iast
 kathaṃ cāyam upāsako bhavati, katham upavāsastho, yāvad bhikṣuḥ?
@@ -52,7 +52,7 @@ its category divisions below follow the Bhāṣya's totals and its explicit
 instruction that adornment and entertainment be counted separately for
 the tenfold undertaking.
 
-## 3. Continuous Translation
+## 3. Continuous Conventional Translation
 
 How does someone become a lay follower, one established in the
 *upavāsa* observance, and so on up to a monk? The answer is through

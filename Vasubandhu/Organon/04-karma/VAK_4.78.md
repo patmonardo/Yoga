@@ -16,14 +16,6 @@ mithyādṛṣṭistrayo hyatra panthānaḥ sapta karma ca // 4.78 //
 
 ## 3. Lexical Analysis
 
-```text
-vyāpādaḥ | sattva-vidveṣaḥ |
-na-asti-dṛṣṭiḥ | śubha-aśubhe |
-mithyā-dṛṣṭiḥ |
-trayaḥ | hi | atra | panthānaḥ |
-sapta | karma | ca
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | `vyāpādaḥ` | nominative masculine singular | ill will; hostile intention |
@@ -93,13 +85,13 @@ The omitted complements are restored by the Bhāṣya's explicit explanation.
 
 ## 5. Translation
 
-### Scientific English Rendering
+### Literal
 
 > Hostility is hatred of living beings. False view is the view that
 > wholesome and unwholesome karma do not exist. Here the three are routes
 > of karma, while the seven are both karma and routes of karma.
 
-### Bhāṣya-informed study translation
+### Bhāṣya-informed
 
 > Hostility is hatred of living beings. False view is the view that
 > wholesome and unwholesome karma do not exist. Here the three are routes
@@ -118,17 +110,7 @@ The harmful orientation, full range of false view, and dynamic explanation of
 
 ## 6. Philosophical Translation
 
-> The three mental courses are determinate orientations through which
-> volition becomes karmically formed. Covetousness projects appropriation;
-> ill will projects harm to a living being; false view repudiates the
-> moral-causal order that makes wholesome and unwholesome activity
-> intelligible. They are Courses of Action because volition moves according
-> to their direction. The seven bodily and verbal courses are realized
-> activity and also routes through which originating volition proceeds
-> toward consequence.
-
-The route metaphor explains their genetic force; it does not equate a Course
-of Action with the liberative Path (*mārga*).
+> Hostility is hatred of living beings. False view is the view that wholesome and unwholesome karma do not exist. Here the three are routes of karma, while the seven are both karma and routes of karma.
 
 ## 7. Technical Vocabulary
 
@@ -317,6 +299,20 @@ preserved.
 This is the Organon contact. The definitions, expanded false-view range,
 conveyance account, and Vaibhāṣika asymmetry belong to the Bhāṣya; the explicit
 root-orientation-volition-realization sequence is the project synthesis.
+
+### Former Philosophical Translation
+
+> The three mental courses are determinate orientations through which
+> volition becomes karmically formed. Covetousness projects appropriation;
+> ill will projects harm to a living being; false view repudiates the
+> moral-causal order that makes wholesome and unwholesome activity
+> intelligible. They are Courses of Action because volition moves according
+> to their direction. The seven bodily and verbal courses are realized
+> activity and also routes through which originating volition proceeds
+> toward consequence.
+
+The route metaphor explains their genetic force; it does not equate a Course
+of Action with the liberative Path (*mārga*).
 
 ## 10. OWL++ Seed
 

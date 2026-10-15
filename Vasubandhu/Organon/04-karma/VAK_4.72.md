@@ -16,13 +16,6 @@ senādiṣvekakāryatvāt sarve kartṛvadanvitāḥ // 4.72 //
 
 ## 3. Lexical Analysis
 
-```text
-samam | prāk | ca | mṛtasya | asti | na | maulaḥ |
-anya-āśraya-udayāt |
-senā-ādiṣu | eka-kāryatvāt |
-sarve | kartṛ-vat | anvitāḥ
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | `samam` | accusative singular used adverbially | simultaneously; at the same time |
@@ -97,13 +90,13 @@ of shared attribution.
 
 ## 5. Translation
 
-### Scientific English Rendering
+### Literal
 
 > For one who has died simultaneously or beforehand, there is no principal
 > course, because another support arises. In armies and similar collectives,
 > because there is one common undertaking, all are connected like the doer.
 
-### Bhāṣya-informed study translation
+### Bhāṣya-informed
 
 > For one who dies simultaneously with the victim or beforehand, there is no
 > principal course, because another support arises. In an army and similar
@@ -120,23 +113,7 @@ examples, and mutual-instigation analysis are supplied by the Bhāṣya.
 
 ## 6. Philosophical Translation
 
-> Causal efficacy by itself does not determine who bears the principal karmic
-> completion. Across time, attribution is restricted when the support that
-> initiated the project has ceased before the defining result occurs. Across
-> persons, attribution is extended when multiple participants constitute one
-> common undertaking. Practical unity is therefore neither permanent
-> substance nor isolated bodily execution: it is the determinate relation of
-> a bearer or participants to the process that reaches completion.
-
-The verse coordinates two apparently opposed results:
-
-```text
-support-difference
-    can break attribution
-
-unity of undertaking
-    can extend attribution
-```
+> For one who has died simultaneously or beforehand, there is no principal course, because another support arises. In armies and similar collectives, because there is one common undertaking, all are connected like the doer.
 
 ## 7. Technical Vocabulary
 
@@ -300,6 +277,26 @@ This is the Organon contact. The temporal rule, support analysis, army and
 related examples, mutual instigation, and stringent refusal exception belong
 to the Bhāṣya; the formulation in terms of two forms of Practical Unity is the
 project synthesis.
+
+### Former Philosophical Translation
+
+> Causal efficacy by itself does not determine who bears the principal karmic
+> completion. Across time, attribution is restricted when the support that
+> initiated the project has ceased before the defining result occurs. Across
+> persons, attribution is extended when multiple participants constitute one
+> common undertaking. Practical unity is therefore neither permanent
+> substance nor isolated bodily execution: it is the determinate relation of
+> a bearer or participants to the process that reaches completion.
+
+The verse coordinates two apparently opposed results:
+
+```text
+support-difference
+    can break attribution
+
+unity of undertaking
+    can extend attribution
+```
 
 ## 10. OWL++ Seed
 

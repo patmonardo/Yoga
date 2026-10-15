@@ -27,20 +27,6 @@ is excluded, but habitual adornment need not be removed.
 
 ## 3. Lexical Analysis
 
-```text
-kālyam
-grāhyaḥ
-anyataḥ
-nīcaiḥ
-sthitena
-ukta-anuvāditā
-
-upavāsaḥ
-samagra-aṅgaḥ
-nirbhūṣeṇa
-ā-niśā-kṣayāt
-```
-
 | Form | Morphology | Lexical value here |
 |---|---|---|
 | `kālyam` | adverbial form | at the proper time; at sunrise |
@@ -154,14 +140,14 @@ samagra-aṅgaḥ
 
 ## 5. Translation
 
-### Literal Translation
+### Literal
 
 > The upavāsa restraint is to be received at sunrise from another, by one
 > positioned deferentially and repeating the words after they are spoken. It
 > is to be complete in all its limbs, undertaken without adornment, and
 > maintained until the end of the night.
 
-### Bhāṣya-informed study translation
+### Bhāṣya-informed
 
 > Ordinarily, the upavāsa restraint is received at sunrise from another
 > person. The recipient assumes a deferential posture and repeats the formula
@@ -177,16 +163,7 @@ adornment are supplied by the Bhāṣya.
 
 ## 6. Philosophical Translation
 
-> A finite vow becomes actual through a complete practical mediation. Its
-> temporal beginning and end are fixed; another person gives its articulated
-> form; the recipient bodily expresses respect, receives the words in their
-> proper sequence, and appropriates them through responsive repetition; the
-> content is accepted as an integral eight-limbed whole and embodied without
-> exceptional self-display. Mere conformity to the relevant conduct may be
-> good, but it is not thereby the technically acquired upavāsa restraint.
-
-“Appropriation” and “practical mediation” articulate the procedure at the
-Organon level; they are not translations of single Sanskrit words.
+> The upavāsa restraint is to be received at sunrise from another, by one positioned deferentially and repeating the words after they are spoken. It is to be complete in all its limbs, undertaken without adornment, and maintained until the end of the night.
 
 ## 7. Technical Vocabulary
 
@@ -409,6 +386,19 @@ complete inward event.
 This is an Organon reconstruction. Vasubandhu explicitly teaches the complete
 procedure, its exceptions, and the distinction between mere good conduct and
 upavāsa restraint.
+
+### Former Philosophical Translation
+
+> A finite vow becomes actual through a complete practical mediation. Its
+> temporal beginning and end are fixed; another person gives its articulated
+> form; the recipient bodily expresses respect, receives the words in their
+> proper sequence, and appropriates them through responsive repetition; the
+> content is accepted as an integral eight-limbed whole and embodied without
+> exceptional self-display. Mere conformity to the relevant conduct may be
+> good, but it is not thereby the technically acquired upavāsa restraint.
+
+“Appropriation” and “practical mediation” articulate the procedure at the
+Organon level; they are not translations of single Sanskrit words.
 
 ## 10. OWL++ Seed
 

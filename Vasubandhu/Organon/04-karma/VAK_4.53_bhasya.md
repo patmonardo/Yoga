@@ -18,7 +18,7 @@ The Bhāṣya unit begins with the question at [231|09] and ends at
 [231|20–21]. The next question, about which karma is determinate,
 begins at [231|22].
 
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
 ```iast
 kim antarābhave 'py asti karmaṇa ākṣepaḥ /

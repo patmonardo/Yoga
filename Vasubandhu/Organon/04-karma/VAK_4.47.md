@@ -26,24 +26,7 @@ Desire Realm and extends through the third dhyāna.
 
 ## 3. Lexical Analysis
 
-```text
-sukha-vedyam
-śubham
-dhyānāt
-ā
-tṛtīyāt
-
-ataḥ
-param
-aduḥkha-asukha-vedyam
-tu
-
-duḥkha-vedyam
-iha
-aśubham
-```
-
-| Form | Morphology | Lexical value here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `sukhavedyam` | nominative neuter singular compound | to be experienced as pleasure |
 | `śubham` | nominative neuter singular | wholesome karma |
@@ -117,13 +100,13 @@ duḥkha-vedyam [bhavati]
 
 ## 5. Translation
 
-### Literal Translation
+### Literal
 
 > Wholesome karma from the Desire Realm through the third dhyāna is to be
 > experienced as pleasure. Beyond this it is to be experienced as neither
 > pain nor pleasure; here, unwholesome karma is to be experienced as pain.
 
-### Bhāṣya-informed study translation
+### Bhāṣya-informed
 
 > Wholesome karma belonging to the Desire Realm and the first three dhyānas
 > matures with pleasant feeling. Above the third dhyāna, wholesome karma
@@ -137,16 +120,7 @@ associated result-complex are supplied by the Bhāṣya.
 
 ## 6. Philosophical Translation
 
-> Karma matures not only in a determinate realm and level but through a
-> determinate mode of experience. Wholesome karma through the third dhyāna has
-> pleasure as the characteristic feeling of its result; higher wholesome karma
-> has neither-painful-nor-pleasant feeling; Desire-Realm unwholesome karma has
-> pain. Yet the experienced feeling is only the dominant determination by
-> which the concrete maturation-complex is named, not the totality of that
-> complex.
-
-The verse therefore connects karmic production to experience without reducing
-the fruit of karma to an isolated sensation.
+> Wholesome karma from the Desire Realm through the third dhyāna is to be experienced as pleasure. Beyond this it is to be experienced as neither pain nor pleasure; here, unwholesome karma is to be experienced as pain.
 
 ## 7. Technical Vocabulary
 
@@ -297,6 +271,19 @@ be read as a blank between two positive extremes.
 
 This is the Organon contact. The distribution, restriction of `iha`, and
 `sasaṃbhāra` qualification belong to the Bhāṣya.
+
+### Former Philosophical Translation
+
+> Karma matures not only in a determinate realm and level but through a
+> determinate mode of experience. Wholesome karma through the third dhyāna has
+> pleasure as the characteristic feeling of its result; higher wholesome karma
+> has neither-painful-nor-pleasant feeling; Desire-Realm unwholesome karma has
+> pain. Yet the experienced feeling is only the dominant determination by
+> which the concrete maturation-complex is named, not the totality of that
+> complex.
+
+The verse therefore connects karmic production to experience without reducing
+the fruit of karma to an isolated sensation.
 
 ## 10. OWL++ Seed
 

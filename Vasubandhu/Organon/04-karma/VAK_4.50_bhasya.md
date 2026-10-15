@@ -18,7 +18,7 @@ The complete unit begins at [229|19] and continues through the
 Vaibhāṣika seed analogy at [230|07]. The next kārikā begins at
 [230|08].
 
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
 ```iast
 niyatāniyataṃ tac ca

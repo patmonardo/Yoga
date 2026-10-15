@@ -19,7 +19,7 @@ ends with the first-moment objection at [214|23–24] in
 `Vasubandhu/Sources/kosabhasya.txt`. The next question, at
 [214|25], asks who may undertake upavāsa and opens 4.30.
 
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
 ```iast
 kimarthaṃ punar aṣṭāṅgany upādīyante? yasmāt:

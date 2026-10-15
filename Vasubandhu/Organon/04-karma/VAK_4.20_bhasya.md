@@ -20,7 +20,7 @@ The running Bhāṣya unit extends from [209|12] through [209|21–22] in
 was stated at the end of 4.19 and is carried into this unit. The next
 Kārikā half opens at [210|01].
 
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
 ```iast
 yathā prātimokṣasaṃvarastha uktaḥ:

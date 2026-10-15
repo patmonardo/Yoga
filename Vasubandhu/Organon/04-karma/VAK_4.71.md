@@ -16,13 +16,6 @@ sattva-bhogāv adhiṣṭhānaṃ nāmarūpaṃ ca nāma ca // 4.71 //
 
 ## 3. Lexical Analysis
 
-```text
-mithyā-dṛṣṭeḥ | tu | mohena |
-śeṣāṇām | tribhiḥ | iṣyate |
-sattva-bhogau | adhiṣṭhānam |
-nāma-rūpam | ca | nāma | ca
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | `mithyā-dṛṣṭeḥ` | genitive feminine singular | of false view |
@@ -109,13 +102,13 @@ bases successively across the four groups of courses.
 
 ## 5. Translation
 
-### Scientific English Rendering
+### Literal
 
 > False view, however, reaches completion through delusion; the remaining
 > courses are held to reach completion through the three. Living being and
 > possession, name-and-form, and name are the bases.
 
-### Bhāṣya-informed study translation
+### Bhāṣya-informed
 
 > False view reaches completion through delusion; the remaining courses are
 > held to reach completion through the three. Living being and object of
@@ -133,16 +126,7 @@ the exact `3 + 3 + 1 + 3` distribution are supplied by the Bhāṣya.
 
 ## 6. Philosophical Translation
 
-> A course of action is determined neither by inward affliction alone nor by
-> an outward event considered in isolation. An afflictive root becomes
-> determinate as a particular karmapatha, and that course realizes its
-> practical character upon a specific basis: a living being, a possession,
-> name-and-form, or a linguistic complex. The completed course is therefore a
-> structured relation among root, practical form, and objective basis.
-
-`Objective basis` does not mean a self-standing object abstracted from the
-course. `Adhiṣṭhāna` names that upon which this particular karmic determination
-is established or directed.
+> False view, however, reaches completion through delusion; the remaining courses are held to reach completion through the three. Living being and possession, name-and-form, and name are the bases.
 
 ## 7. Technical Vocabulary
 
@@ -316,6 +300,19 @@ external object or importing a later Organon architecture into the Bhāṣya.
 This is the Organon contact. The completion mappings, four bases, and exact
 group distribution belong to the Kārikā and Bhāṣya; the account of their unity
 as relational Practical Form is the project synthesis.
+
+### Former Philosophical Translation
+
+> A course of action is determined neither by inward affliction alone nor by
+> an outward event considered in isolation. An afflictive root becomes
+> determinate as a particular karmapatha, and that course realizes its
+> practical character upon a specific basis: a living being, a possession,
+> name-and-form, or a linguistic complex. The completed course is therefore a
+> structured relation among root, practical form, and objective basis.
+
+`Objective basis` does not mean a self-standing object abstracted from the
+course. `Adhiṣṭhāna` names that upon which this particular karmic determination
+is established or directed.
 
 ## 10. OWL++ Seed
 

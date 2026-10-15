@@ -19,7 +19,7 @@ The complete running unit is [225|22]–[226|01–02] in
 beings can possess restraint or non-restraint at [226|03] opens
 4.43.
 
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
 ```iast
 kāmāptaṃ kuśalārūpaṃ mūlacchedordhvajanmataḥ /

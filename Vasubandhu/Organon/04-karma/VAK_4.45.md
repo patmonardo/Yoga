@@ -26,21 +26,7 @@ exposition of the karmas enumerated in the sūtras.
 
 ## 3. Lexical Analysis
 
-```text
-kṣema-akṣema-itarat
-karma
-kuśala-akuśala-itarat
-
-puṇya-apuṇyam
-aniñjam
-ca
-
-sukha-vedya-ādi
-ca
-trayam
-```
-
-| Form | Morphology | Lexical value here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `kṣema` | neuter nominative/accusative singular compound member | secure; conducive to well-being and release |
 | `akṣema` | neuter nominative/accusative singular compound member | insecure; contrary to security |
@@ -129,13 +115,13 @@ experienced as neither pain nor pleasure.
 
 ## 5. Translation
 
-### Literal Translation
+### Literal
 
 > Karma that is secure, insecure, or other is wholesome, unwholesome, or
 > other, respectively. It is also meritorious, demeritorious, or immovable,
 > and threefold beginning with that which is to be experienced as pleasure.
 
-### Bhāṣya-informed study translation
+### Bhāṣya-informed
 
 > Wholesome karma is secure: it brings desirable maturation and conduces to
 > nirvāṇa by protecting from suffering. Unwholesome karma is insecure,
@@ -150,17 +136,7 @@ of the final triad are supplied by the Bhāṣya.
 
 ## 6. Philosophical Translation
 
-> Karma receives its ethical determination through the actuality it produces
-> and the direction in which it moves the continuum. Wholesome action is
-> secure because its maturation is desirable and its ultimate tendency is
-> release from suffering; unwholesome action is its practical contrary;
-> indeterminate action falls under neither determination. The same karma-field
-> can then be classified on other grounds—merit, demerit, and immovability,
-> or the pleasure, pain, and neutrality through which a result is experienced.
-
-The verse therefore does not attach one abstract moral predicate to an
-isolated act. It begins a multidimensional determination of karma by ethical
-quality, karmic class, and kind of result to be experienced.
+> Karma that is secure, insecure, or other is wholesome, unwholesome, or other, respectively. It is also meritorious, demeritorious, or immovable, and threefold beginning with that which is to be experienced as pleasure.
 
 ## 7. Technical Vocabulary
 
@@ -311,6 +287,20 @@ The Bhāṣya therefore gives a genuinely practical criterion for `kuśala`.
 This is the Organon contact. The Bhāṣya's definitions and classifications
 remain distinct from the project connection between volition, maturation,
 and experienced result.
+
+### Former Philosophical Translation
+
+> Karma receives its ethical determination through the actuality it produces
+> and the direction in which it moves the continuum. Wholesome action is
+> secure because its maturation is desirable and its ultimate tendency is
+> release from suffering; unwholesome action is its practical contrary;
+> indeterminate action falls under neither determination. The same karma-field
+> can then be classified on other grounds—merit, demerit, and immovability,
+> or the pleasure, pain, and neutrality through which a result is experienced.
+
+The verse therefore does not attach one abstract moral predicate to an
+isolated act. It begins a multidimensional determination of karma by ethical
+quality, karmic class, and kind of result to be experienced.
 
 ## 10. OWL++ Seed
 

@@ -16,7 +16,7 @@ False view now appears at its strongest practical degree. It no longer
 merely misclassifies one action: it can remove the generative bases through
 which wholesome action arises.
 
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
 ```iast
 mūlacchedastvasaddṛṣṭyā

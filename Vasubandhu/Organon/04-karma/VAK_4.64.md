@@ -27,22 +27,6 @@ Bhāṣya-supported syntactic normalization `sarvaṃ` in agreement with neuter
 
 ## 3. Lexical Analysis
 
-```text
-a-śaikṣam
-kāya-vāk-karma
-manaḥ
-ca
-eva
-yathā-kramam
-
-mauna-trayam
-
-tridhā
-śaucam
-sarvam
-sucarita-trayam
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | `aśaikṣam` | nominative neuter singular | beyond training; belonging to the arhat |
@@ -110,13 +94,13 @@ indicates the whole extension of each.
 
 ## 5. Translation
 
-### Scientific English Rendering
+### Literal
 
 > The bodily karma, verbal karma, and Mind of one beyond training are,
 > respectively, the three silences. Threefold purity is the complete threefold
 > good conduct.
 
-### Bhāṣya-informed study translation
+### Bhāṣya-informed
 
 > The bodily and verbal actions, and the Mind, of one beyond training are
 > respectively the three silences. Threefold purity is the whole threefold
@@ -136,17 +120,7 @@ to the arhat, and genetic definition of purity are supplied by the Bhāṣya.
 
 ## 6. Philosophical Translation
 
-> True silence is not blank muteness but perfected abstention. Bodily and
-> verbal karma can be abstentions by nature; mental silence is Mind itself
-> when restrained, not a third mental manifestation parallel to bodily and
-> verbal `vijñapti`. The Bhāṣya distinguishes this Mind from consciousness,
-> which it calls the sage in the highest sense and says is inferred from
-> bodily and verbal karma. Read through the Techne, this asymmetry lets inward
-> determination and outward evidence remain related without reducing one to
-> the other. Purity, likewise, is good conduct that removes the stain of bad
-> conduct, temporarily or completely.
-
-The inner is neither reduced to outward behavior nor sealed away from it.
+> The bodily karma, verbal karma, and Mind of one beyond training are, respectively, the three silences. Threefold purity is the complete threefold good conduct.
 
 ## 7. Technical Vocabulary
 
@@ -305,6 +279,20 @@ exhaustion of afflictive relation
 This is the Organon contact. The mental asymmetry, inference, abstention,
 afflictive chatter, three purities, and pedagogical purpose belong to the
 Bhāṣya.
+
+### Former Philosophical Translation
+
+> True silence is not blank muteness but perfected abstention. Bodily and
+> verbal karma can be abstentions by nature; mental silence is Mind itself
+> when restrained, not a third mental manifestation parallel to bodily and
+> verbal `vijñapti`. The Bhāṣya distinguishes this Mind from consciousness,
+> which it calls the sage in the highest sense and says is inferred from
+> bodily and verbal karma. Read through the Techne, this asymmetry lets inward
+> determination and outward evidence remain related without reducing one to
+> the other. Purity, likewise, is good conduct that removes the stain of bad
+> conduct, temporarily or completely.
+
+The inner is neither reduced to outward behavior nor sealed away from it.
 
 ## 10. OWL++ Seed
 

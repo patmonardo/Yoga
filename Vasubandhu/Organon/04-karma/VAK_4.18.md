@@ -27,18 +27,6 @@ Bhāṣya: both restraints have both `smṛti` and `saṃprajñāna` as their na
 
 ## 3. Lexical Analysis
 
-```text
-anāgamye
-prahāṇa-ākhyau
-tau
-ānantarya-mārga-jau
-
-saṃprajñāna-smṛtī
-dve
-tu
-manaḥ-indriya-saṃvarau
-```
-
 | Form | Morphology | Lexical value here |
 |---|---|---|
 | `anāgamye` | locative singular neuter of `anāgamya` | in the preliminary or threshold concentration |
@@ -163,14 +151,14 @@ clear comprehension.
 
 ## 5. Translation
 
-### Literal Translation
+### Literal
 
 > In the preliminary concentration the two are called abandonment
 > restraints—those two born in the uninterrupted paths. Mind-restraint and
 > faculty-restraint, however, are [each] the two: clear comprehension and
 > recollection.
 
-### Bhāṣya-informed study translation
+### Bhāṣya-informed
 
 > In the preliminary concentration, meditation-born and uncontaminated
 > restraint, when born in the nine uninterrupted paths, are called
@@ -182,16 +170,7 @@ are Bhāṣya-supplied resolutions of the kārikā’s compressed references.
 
 ## 6. Philosophical Translation
 
-> Meditation-born and uncontaminated restraint acquire the further name
-> “abandonment restraint” only when, in the preliminary concentration, they
-> function within the nine uninterrupted paths to abandon misconduct and the
-> defilements that generate it. Mind-restraint and restraint of the faculties
-> belong to a different order: neither is avijñapti-discipline; each consists
-> in the joint operation of mindfulness and clear comprehension.
-
-This rendering incorporates the Bhāṣya’s account of the abandoning function
-and its explicit categorical distinction. It does not insert those
-determinations into the bare words of the kārikā.
+> In the preliminary concentration the two are called abandonment restraints—those two born in the uninterrupted paths. Mind-restraint and faculty-restraint, however, are [each] the two: clear comprehension and recollection.
 
 ## 7. Technical Vocabulary
 
@@ -410,6 +389,19 @@ This is an Organon reconstruction of the relations. Vasubandhu’s explicit
 teaching is the conditional designation of abandonment restraint, the
 cross-cutting classifications, and the dual cognitive nature of both
 mind-restraint and faculty-restraint.
+
+### Former Philosophical Translation
+
+> Meditation-born and uncontaminated restraint acquire the further name
+> “abandonment restraint” only when, in the preliminary concentration, they
+> function within the nine uninterrupted paths to abandon misconduct and the
+> defilements that generate it. Mind-restraint and restraint of the faculties
+> belong to a different order: neither is avijñapti-discipline; each consists
+> in the joint operation of mindfulness and clear comprehension.
+
+This rendering incorporates the Bhāṣya’s account of the abandoning function
+and its explicit categorical distinction. It does not insert those
+determinations into the bare words of the kārikā.
 
 ## 10. OWL++ Seed
 

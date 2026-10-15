@@ -16,7 +16,7 @@ volition. This verse shifts the coordinate: it asks which unwholesome Courses
 of Action occur in particular destinations, either by present manifestation
 or by endowment.
 
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
 ```iast
 kasyāṃ gatau kati karmapathā akuśalāḥ kuśalā vā saṃmukhībhāvataḥ

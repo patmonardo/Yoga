@@ -18,7 +18,7 @@ The complete unit runs from [222|08] through [222|16–17] in
 `Vasubandhu/Sources/kosabhasya.txt`. The announcement of the
 next topic, abandonment (`tyāga`), at [222|18] opens 4.38.
 
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
 ```iast
 uktam idam asaṃvarasya yebhyo lābhaḥ /

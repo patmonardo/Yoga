@@ -16,11 +16,6 @@ avyākṛtasya dve trīṇi trīṇi caite śubhādayaḥ // 4.89 //
 
 ## 3. Lexical Analysis
 
-```text
-aśubhasya | śubha-ādyāḥ | dve | trīṇi | catvāri | anukramam |
-avyākṛtasya | dve | trīṇi | trīṇi | ca | ete | śubha-ādayaḥ
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | `aśubhasya` | genitive singular | of unwholesome action |
@@ -87,13 +82,13 @@ and their order. The distributive force of `anukramam` continues by ellipsis.
 
 ## 5. Translation
 
-### Scientific English Rendering
+### Literal
 
 > For unwholesome action, the results for dharmas beginning with wholesome
 > number two, three, and four, respectively. For indeterminate action, these
 > same result-quality classes number two, three, and three.
 
-### Bhāṣya-informed study translation
+### Bhāṣya-informed
 
 > Wholesome dharmas stand to unwholesome action through activity-produced
 > and dominant results; unwholesome dharmas through corresponding,
@@ -108,29 +103,7 @@ personality-view and extreme-view are supplied by the Bhāṣya.
 
 ## 6. Philosophical Translation
 
-> Causality does not proceed by copying the ethical quality of an action into
-> every result. Unwholesome and indeterminate actions can stand in determinate
-> relations to dharmas of every ethical quality. What joins source and result
-> is not bare qualitative identity but a specific result-relation: maturation,
-> correspondence, activity-production, or dominant conditioning. The complete
-> matrix develops the causal structure of an isolated Course of Action.
-
-This completion also reveals the higher station of the Path:
-
-```text
-Course of Action
-    acts within the causal matrix
-    and ordinarily reproduces its conditioned relations
-
-Path as Course of Action
-    comprehends the causal matrix practically
-    and makes disconnection itself the result of action
-```
-
-The Path is not externally opposed to action. It is action raised to reflexive
-universality: a Course of Action capable of acting upon the causal form of
-Courses of Action. It is therefore the truth of a Course of Action, not
-merely one more item beside it.
+> For unwholesome action, the results for dharmas beginning with wholesome number two, three, and four, respectively. For indeterminate action, these same result-quality classes number two, three, and three.
 
 ## 7. Technical Vocabulary
 
@@ -339,6 +312,32 @@ under which it acts. Action becomes self-comprehending practice. That is why
 the Path is not an external remedy appended after the analysis of action: it
 is the immanent truth toward which the concept of Course of Action has been
 moving.
+
+### Former Philosophical Translation
+
+> Causality does not proceed by copying the ethical quality of an action into
+> every result. Unwholesome and indeterminate actions can stand in determinate
+> relations to dharmas of every ethical quality. What joins source and result
+> is not bare qualitative identity but a specific result-relation: maturation,
+> correspondence, activity-production, or dominant conditioning. The complete
+> matrix develops the causal structure of an isolated Course of Action.
+
+This completion also reveals the higher station of the Path:
+
+```text
+Course of Action
+    acts within the causal matrix
+    and ordinarily reproduces its conditioned relations
+
+Path as Course of Action
+    comprehends the causal matrix practically
+    and makes disconnection itself the result of action
+```
+
+The Path is not externally opposed to action. It is action raised to reflexive
+universality: a Course of Action capable of acting upon the causal form of
+Courses of Action. It is therefore the truth of a Course of Action, not
+merely one more item beside it.
 
 ## 10. OWL++ Seed
 

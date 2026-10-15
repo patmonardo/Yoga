@@ -20,7 +20,7 @@ to 4.48. Here `api ca` at [229|07] opens a further analysis, running
 through the return to karma at [229|17–18]. The next classification
 begins at [229|19].
 
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
 ```iast
 api ca /

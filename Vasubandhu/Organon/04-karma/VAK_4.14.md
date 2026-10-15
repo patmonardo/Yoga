@@ -19,13 +19,6 @@ restraint-types, and the relation between successively undertaken restraints.
 
 ## 3. Lexical Analysis
 
-```text
-aṣṭadhā prātimokṣa-ākhyaḥ /
-dravyataḥ tu caturvidhaḥ /
-liṅgataḥ nāma-saṃcārāt /
-pṛthak te ca avirodhinaḥ
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | aṣṭadhā | indeclinable adverb | in eight ways |
@@ -49,14 +42,14 @@ The first pāda predicates `aṣṭadhā` and `caturvidhaḥ` of the understood 
 
 ## 5. Translation
 
-### Close Translation
+### Literal
 
 > *Prātimokṣa* restraint is eightfold by designation, but fourfold by
 > distinct restraint-type. Because names transfer according to *liṅga*,
 > those [successively undertaken restraints] are separate and also
 > compatible.
 
-### Bhāṣya-informed Study Translation
+### Bhāṣya-informed
 
 > *Prātimokṣa* restraint has eight disciplinary designations but four
 > distinct restraint-types. The Bhāṣya explains that some designations
@@ -72,19 +65,7 @@ from the Bhāṣya; the kārikā states the counts and their contrast.
 
 ## 6. Philosophical Translation
 
-### Interpretation
-
-In the Organon reading, the verse distinguishes a change in designation
-from a change in practical determination, and a distinct determination
-from an opposed one. Its account of successively undertaken restraints
-connects fuller discipline to a reorganization of the conditions for
-action, not simply to an accumulating list of rules. This supports reading
-restraint as a practical determination of Cetanā, while the Bhāṣya's
-explicit grounds here are distinct causal bases and compatibility.
-
-This verse analyzes *prātimokṣa* restraint only. It does not identify
-instances of the third *avijñapti* class, “neither restraint nor
-non-restraint,” named in 4.13.
+> Prātimokṣa restraint is eightfold by designation, but fourfold by distinct restraint-type. Because names transfer according to sex, those [successively undertaken restraints] are separate and also compatible.
 
 ## 7. Technical Vocabulary
 
@@ -106,5 +87,21 @@ Bhāṣya study normalizes these provisionally as `bahutarāṇi`,
 `madapramādapadebhyo`, and `dvayor`. The compressed expression
 `pañcadaśa viṃśativat dīnāraśateravacca` is retained without conjectural
 reconstruction. These readings remain open for collation.
+
+### Former Philosophical Translation
+
+### Interpretation
+
+In the Organon reading, the verse distinguishes a change in designation
+from a change in practical determination, and a distinct determination
+from an opposed one. Its account of successively undertaken restraints
+connects fuller discipline to a reorganization of the conditions for
+action, not simply to an accumulating list of rules. This supports reading
+restraint as a practical determination of Cetanā, while the Bhāṣya's
+explicit grounds here are distinct causal bases and compatibility.
+
+This verse analyzes *prātimokṣa* restraint only. It does not identify
+instances of the third *avijñapti* class, “neither restraint nor
+non-restraint,” named in 4.13.
 
 ## 10. OWL++ Seed

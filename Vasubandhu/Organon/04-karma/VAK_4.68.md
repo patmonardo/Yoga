@@ -16,13 +16,6 @@ viparyayeṇa pṛṣṭhāni prayogas tu trimūlajaḥ // 4.68 //
 
 ## 3. Lexical Analysis
 
-```text
-sāmantakāḥ | tu | vijñaptiḥ |
-avijñaptiḥ | bhavet | na | vā |
-viparyayeṇa | pṛṣṭhāni |
-prayogaḥ | tu | tri-mūla-jaḥ
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | `sāmantakāḥ` | nominative masculine plural | proximate actions; actions functionally approaching the principal course |
@@ -102,13 +95,13 @@ unwholesome roots, not that all three must occur together.
 
 ## 5. Translation
 
-### Scientific English Rendering
+### Literal
 
 > The proximate actions, however, are manifest action; non-manifest
 > determination may or may not occur. The subsequent actions are conversely.
 > Preparation, however, is born from the three roots.
 
-### Bhāṣya-informed study translation
+### Bhāṣya-informed
 
 > The proximate actions are manifest action; non-manifest action may or may
 > not arise. The subsequent actions are the converse. Preparation, however,
@@ -128,16 +121,7 @@ Bhāṣya.
 
 ## 6. Philosophical Translation
 
-> A bodily or verbal course of action is a differentiated practical process.
-> Before fulfillment, it exists through action directed toward completion;
-> at fulfillment, it becomes the principal karmic course; after fulfillment,
-> its determination persists and may again become manifest in conduct that
-> conforms to it. Genesis, appearance, completion, and persistence are thus
-> related moments, but none is identical with the others.
-
-The three mental courses mark the limit of this temporal schema: according to
-the Bhāṣya, their immediate presence itself constitutes the karmapatha, so
-they have no separately articulated preparation or aftermath.
+> The proximate actions, however, are manifest action; non-manifest determination may or may not occur. The subsequent actions are conversely. Preparation, however, is born from the three roots.
 
 ## 7. Technical Vocabulary
 
@@ -327,6 +311,19 @@ through which it becomes one determinate karmic course. The three-phase model,
 modal distribution, mental-course exception, examples, and completion problem
 belong to the Bhāṣya; the formulation as a mediated Practical Form is the
 project synthesis.
+
+### Former Philosophical Translation
+
+> A bodily or verbal course of action is a differentiated practical process.
+> Before fulfillment, it exists through action directed toward completion;
+> at fulfillment, it becomes the principal karmic course; after fulfillment,
+> its determination persists and may again become manifest in conduct that
+> conforms to it. Genesis, appearance, completion, and persistence are thus
+> related moments, but none is identical with the others.
+
+The three mental courses mark the limit of this temporal schema: according to
+the Bhāṣya, their immediate presence itself constitutes the karmapatha, so
+they have no separately articulated preparation or aftermath.
 
 ## 10. OWL++ Seed
 

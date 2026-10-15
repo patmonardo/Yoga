@@ -16,7 +16,7 @@ course. The visible event is insufficient: intention, recognition of the
 objective basis, mode of action, and fulfilled result must form one
 determinate practical relation.
 
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
 ```iast
 kiyatā punaḥ prāṇātipātaṃ svayaṃ kurvataḥ karmapatho bhavati kiyatā

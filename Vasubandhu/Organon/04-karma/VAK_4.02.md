@@ -20,21 +20,6 @@ Cetanā.
 
 ## 3. Lexical Analysis
 
-```text
-te                         → te
-tu                         → tu
-vijñapti-avijñaptī         → vijñaptyavijñaptī
-kāya-vijñaptiḥ             → kāyavijñaptir (before vowel)
-iṣyate                     → iṣyate
-saṃsthānam                 → saṃsthānaṃ
-na                         → na
-gatiḥ                      → gatir (before y-)
-yasmāt                     → yasmāt
-saṃskṛtam                  → saṃskṛtaṃ
-kṣaṇikam                   → kṣaṇikaṃ
-vyayāt                     → vyayāt
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | te | nominative neuter dual pronoun | those two: bodily and verbal actions from 4.01 |
@@ -72,13 +57,13 @@ established by the following units.
 
 ## 5. Translation
 
-### Literal Translation
+### Literal
 
 > Those two, however, are manifestation and non-manifestation. Bodily
 > manifestation is held to be configuration, not motion, because the
 > conditioned is momentary owing to its perishing.
 
-### Bhāṣya-informed study translation
+### Bhāṣya-informed
 
 > Bodily and verbal action each possess a manifest and a non-manifest mode.
 > Bodily manifestation is held to be the body's determinate configuration
@@ -92,15 +77,7 @@ thing into another place are Bhāṣya determinations.
 
 ## 6. Philosophical Translation
 
-### Cetanā and Bodily Manifestation
-
-VAK 4.01 identifies Cetanā as mental karma and distinguishes the bodily and
-verbal actions produced from it. VAK 4.02 takes up those two actions and
-assigns both modes to each. The Bhāṣya then treats bodily manifestation in
-particular: it is the body's configuration under the direction of
-consciousness, not the transfer of one enduring conditioned thing between
-places. The verse grounds this rejection of motion in momentariness. It names
-`avijñapti` but does not yet establish its constitution.
+> Those two [bodily and verbal karmas], however, are manifestation and non-disclosing continuity. Bodily manifestation is held to be configuration, not motion, because the conditioned is momentary on account of its perishing.
 
 ## 7. Technical Vocabulary
 
@@ -140,7 +117,6 @@ The first is maintained here; the second is rejected.
 
 ## 8. Logical Determination
 
-
 Bodily and verbal action → the two forms named in the verse; bodily manifestation → configuration, not movement; the final clause relates conditioned existence to momentariness and perishing.
 
 ## 9. Interpretive Note
@@ -153,6 +129,18 @@ states that each has both modes, and examines bodily manifestation. The
 Bhāṣya's account of configuration and momentariness addresses bodily action;
 the positive constitution of `avijñapti` and the wider account of karmic
 continuity remain for the following verses.
+
+### Former Philosophical Translation
+
+### Cetanā and Bodily Manifestation
+
+VAK 4.01 identifies Cetanā as mental karma and distinguishes the bodily and
+verbal actions produced from it. VAK 4.02 takes up those two actions and
+assigns both modes to each. The Bhāṣya then treats bodily manifestation in
+particular: it is the body's configuration under the direction of
+consciousness, not the transfer of one enduring conditioned thing between
+places. The verse grounds this rejection of motion in momentariness. It names
+`avijñapti` but does not yet establish its constitution.
 
 ## 10. OWL++ Seed
 

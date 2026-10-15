@@ -17,7 +17,7 @@ change of support can break principal completion. Across a coordinated
 group, unity of undertaking can extend the completed course beyond the
 immediate executor.
 
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
 ```iast
 yaḥ paraṃ maraṇānniyamayya samaṃ tena pūrvaṃ vā mriyate kimasya maulaḥ

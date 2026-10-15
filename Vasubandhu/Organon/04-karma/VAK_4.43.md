@@ -27,26 +27,6 @@ onto modern identities.
 
 ## 3. Lexical Analysis
 
-```text
-nṛṇām
-asaṃvaraḥ
-
-hitvā
-śaṇḍha-paṇḍa-dvidhākṛtīn
-kurūn
-ca
-
-saṃvaraḥ
-api
-evam
-
-devānām
-ca
-
-nṛṇām
-trayaḥ
-```
-
 | Form | Morphology | Lexical value here |
 |---|---|---|
 | `nṛṇām` | genitive masculine plural | among humans |
@@ -139,13 +119,13 @@ existence.
 
 ## 5. Translation
 
-### Literal Translation
+### Literal
 
 > Non-restraint occurs among humans, excluding the śaṇḍhas, paṇḍakas, persons
 > of twofold constitution, and the Kurus. Restraint occurs likewise and also
 > among gods. Among humans are the three [restraints].
 
-### Bhāṣya-informed study translation
+### Bhāṣya-informed
 
 > Acquired non-restraint occurs only in the human mode of existence, excluding
 > the bodily categories listed by the text and the inhabitants of Uttarakuru.
@@ -160,16 +140,7 @@ enjambment into VAK 4.44 are supplied by the Bhāṣya.
 
 ## 6. Philosophical Translation
 
-> A wholesome or harmful act may occur without producing the technical
-> standing form called restraint or non-restraint. Acquisition requires a
-> support held by this doctrine to possess the stability, discrimination, and
-> affective conditions necessary for the determination to take root. The
-> verse therefore distributes not moral worth but eligibility for specific
-> persistent karmic forms across modes of embodied existence.
-
-The inherited eligibility claims belong to Vasubandhu’s doctrinal framework;
-their support-logic can be analyzed without generalizing those classifications
-beyond the text.
+> Non-restraint occurs among humans, excluding the śaṇḍhas, paṇḍakas, persons of twofold constitution, and the Kurus. Restraint occurs likewise and also among gods. Among humans are the three [restraints].
 
 ## 7. Technical Vocabulary
 
@@ -373,6 +344,19 @@ VAK 4.44 completes the realm-distribution of the three restraints.
 
 This is the Organon contact. The inherited categories, causal explanations,
 barren-field analogy, and nāga case belong to the Bhāṣya.
+
+### Former Philosophical Translation
+
+> A wholesome or harmful act may occur without producing the technical
+> standing form called restraint or non-restraint. Acquisition requires a
+> support held by this doctrine to possess the stability, discrimination, and
+> affective conditions necessary for the determination to take root. The
+> verse therefore distributes not moral worth but eligibility for specific
+> persistent karmic forms across modes of embodied existence.
+
+The inherited eligibility claims belong to Vasubandhu’s doctrinal framework;
+their support-logic can be analyzed without generalizing those classifications
+beyond the text.
 
 ## 10. OWL++ Seed
 

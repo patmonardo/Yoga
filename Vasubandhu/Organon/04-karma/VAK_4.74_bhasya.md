@@ -16,7 +16,7 @@ relations. The first classifies sexuality through person, bodily locus,
 place, and time. The second constitutes false speech through recognition,
 statement, and recipient-side understanding.
 
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
 ```iast
 agamyagamanaṃ kāmamithyācāraścaturvidhaḥ /

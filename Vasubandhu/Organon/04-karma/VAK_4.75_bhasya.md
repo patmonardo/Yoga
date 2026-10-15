@@ -16,7 +16,7 @@ six kinds of sensory and mental Cognition. The Bhāṣya presents its scriptural
 and rational defense, rejects both arguments as conclusive, and records two
 access-based alternatives.
 
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
 ```iast
 ṣodaśa vyavahārāḥ sūtra uktāḥ /

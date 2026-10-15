@@ -16,7 +16,7 @@ The Bhāṣya unit runs from [207|22] through [208|13] of
 `Vasubandhu/Sources/kosabhasya.txt`. The next sentence introduces the
 question of when the latter two receive another name, taken up in 4.18.
 
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
 ```iast
 athaiṣāṃ saṃvarāṇāṃ kena kaḥ samanvāgataḥ?

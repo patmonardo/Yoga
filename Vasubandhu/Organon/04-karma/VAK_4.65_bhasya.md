@@ -14,7 +14,7 @@ akarmāpi tv abhidhyādi manoduścaritaṃ tridhā // 4.65 //
 The second half widens `manoduścarita` beyond mental karma as
 strictly identified with `cetanā`.
 
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
 ```iast
 trīṇi duścaritānyuktāni / tatra

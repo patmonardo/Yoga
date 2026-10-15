@@ -18,7 +18,7 @@ VAK 4.85 used a threefold practical account of results. This verse returns to
 the complete Abhidharma taxonomy of five results and asks which result
 relations belong to each class of action.
 
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
 ```iast
 yāni pūrvaṃ pañca phalāny uktāni, teṣāṃ katamat karma katibhiḥ phalaiḥ

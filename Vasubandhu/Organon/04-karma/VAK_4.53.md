@@ -26,24 +26,7 @@ of which may be determinate or indeterminate.
 
 ## 3. Lexical Analysis
 
-```text
-dvāviṃśati-vidham
-kāmeṣu
-ākṣipati
-antarābhavaḥ
-
-dṛṣṭa-dharma-phalam
-tat
-ca
-
-nikāyaḥ
-hi
-ekaḥ
-eva
-saḥ
-```
-
-| Form | Morphology | Lexical value here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `dvāviṃśatividham` | accusative neuter singular compound | twenty-twofold; of twenty-two kinds |
 | `kāmeṣu` | locative masculine plural | in the Desire Realm |
@@ -117,13 +100,13 @@ temporal classification.
 
 ## 5. Translation
 
-### Literal Translation
+### Literal
 
 > In the Desire Realm, intermediate existence produces twenty-two kinds of
 > karma. Its determinate portion has its fruit in the present existence, for
 > that rebirth-class continuum is one and the same.
 
-### Bhāṣya-informed study translation
+### Bhāṣya-informed
 
 > In Desire-Realm intermediate existence, karma can be produced for each of
 > eleven stages—the intermediate state itself, five embryonic stages, and five
@@ -138,15 +121,7 @@ Bhāṣya.
 
 ## 6. Philosophical Translation
 
-> A karmically projected continuum maintains its identity through radical
-> changes of developmental form. Karma produced in intermediate existence may
-> mature in embryonic development, childhood, maturity, or old age and still
-> count as fruit within the same present existence. The relevant identity is
-> neither bodily sameness nor persistence of a substance, but continuity of
-> one causal organization through differentiated phases.
-
-Chronological distance within one continuum therefore does not by itself
-constitute a different karmic life.
+> In the Desire Realm, intermediate existence produces twenty-two kinds of karma. Its determinate portion has its fruit in the present existence, for that rebirth-class continuum is one and the same.
 
 ## 7. Technical Vocabulary
 
@@ -288,6 +263,18 @@ Kriyā/Karma theory becomes.
 
 This is the Organon contact. The eleven-stage enumeration, twenty-twofold
 derivation, and one-continuum explanation belong to the Bhāṣya.
+
+### Former Philosophical Translation
+
+> A karmically projected continuum maintains its identity through radical
+> changes of developmental form. Karma produced in intermediate existence may
+> mature in embryonic development, childhood, maturity, or old age and still
+> count as fruit within the same present existence. The relevant identity is
+> neither bodily sameness nor persistence of a substance, but continuity of
+> one causal organization through differentiated phases.
+
+Chronological distance within one continuum therefore does not by itself
+constitute a different karmic life.
 
 ## 10. OWL++ Seed
 

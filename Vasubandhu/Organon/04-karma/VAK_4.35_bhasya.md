@@ -21,7 +21,7 @@ through the correction about future restraint at [220|02–03] in
 `Vasubandhu/Sources/kosabhasya.txt`. The question about whether
 restraint is acquired from every being at [220|04–05] begins 4.36.
 
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
 ```iast
 ya ime trayaḥ prātimokṣadhyānānāsravasaṃvarāḥ kimeṣāṃ yata eko

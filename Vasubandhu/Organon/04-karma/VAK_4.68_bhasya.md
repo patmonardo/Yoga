@@ -16,7 +16,7 @@ The Bhāṣya articulates the bodily and verbal course as preparation
 (`pṛṣṭha`). It then asks how these phases are related to manifestation,
 result, other courses, and the three unwholesome roots.
 
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
 ```iast
 sāmantakāstu vijñaptiḥ

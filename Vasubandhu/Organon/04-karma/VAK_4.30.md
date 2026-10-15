@@ -28,25 +28,6 @@ rules rather than first producing the restraint.
 
 ## 3. Lexical Analysis
 
-```text
-anyasya
-api
-upavāsaḥ
-asti
-
-śaraṇam
-tu
-agatasya
-na
-
-upāsakatva-upagamāt
-saṃvṛt
-
-uktiḥ
-tu
-bhikṣu-vat
-```
-
 | Form | Morphology | Lexical value here |
 |---|---|---|
 | `anyasya` | genitive masculine singular | for another; for one not already an observer |
@@ -148,13 +129,13 @@ understand its determinate content.
 
 ## 5. Translation
 
-### Literal Translation
+### Literal
 
 > Upavāsa restraint may also arise for another, but not for one who has not
 > gone for refuge. From entering upāsaka status restraint arises; the statement
 > [of the rules] is subsequent, as in the case of a monk.
 
-### Bhāṣya-informed study translation
+### Bhāṣya-informed
 
 > A person not previously established as an upavāsaka may acquire the
 > day-and-night restraint by first going for refuge to Buddha, Dharma, and
@@ -170,15 +151,7 @@ the instructional function of rule-recitation are supplied by the Bhāṣya.
 
 ## 6. Philosophical Translation
 
-> Religious orientation, acquisition of practical status, and explicit
-> knowledge of that status’s rules are distinct moments. Refuge turns the
-> person toward Buddha, Dharma, and Saṃgha; undertaking upāsaka status
-> institutes lay restraint; subsequent instruction unfolds the determinate
-> content of the form already acquired. Practical identity therefore cannot be
-> reduced either to general allegiance or to verbal knowledge of a rule-list.
-
-This philosophical ordering follows the Kāśmīra explanation recorded by the
-Bhāṣya. The Bahirdeśaka alternative identifies refuge itself as sufficient.
+> Upavāsa restraint may also arise for another, but not for one who has not gone for refuge. From entering upāsaka status restraint arises; the statement [of the rules] is subsequent, as in the case of a monk.
 
 ## 7. Technical Vocabulary
 
@@ -378,6 +351,18 @@ failed taxonomy.
 This is an Organon development. The school positions, acquisition sequence,
 and distinction between restraint and subsequent instruction are explicit in
 the Bhāṣya.
+
+### Former Philosophical Translation
+
+> Religious orientation, acquisition of practical status, and explicit
+> knowledge of that status’s rules are distinct moments. Refuge turns the
+> person toward Buddha, Dharma, and Saṃgha; undertaking upāsaka status
+> institutes lay restraint; subsequent instruction unfolds the determinate
+> content of the form already acquired. Practical identity therefore cannot be
+> reduced either to general allegiance or to verbal knowledge of a rule-list.
+
+This philosophical ordering follows the Kāśmīra explanation recorded by the
+Bhāṣya. The Bahirdeśaka alternative identifies refuge itself as sufficient.
 
 ## 10. OWL++ Seed
 

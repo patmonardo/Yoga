@@ -16,7 +16,7 @@ The kārikā completes the account begun at 4.79. It identifies who can sever
 the wholesome roots, defines the severance as non-endowment, and specifies
 the cognition through which their continuity is restored.
 
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
 ```iast
 chinatti strī pumān

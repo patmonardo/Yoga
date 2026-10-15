@@ -37,21 +37,6 @@ tathā ārūpya-āptam āryam tu phala-āpti-uttapti-hānibhiḥ //
 
 ## 3. Lexical Analysis
 
-```text
-bhūmi-saṃcāra-hānibhyām
-dhyāna-āptam
-tyajyate
-śubham
-
-tathā
-ārūpya-āptam
-
-āryam
-tu
-
-phala-āpti-uttapti-hānibhiḥ
-```
-
 | Form | Morphology | Lexical value here |
 |---|---|---|
 | `bhūmisaṃcārahānibhyām` | ablative dual compound | through transition of ground and through falling away |
@@ -146,7 +131,7 @@ dharmas.
 
 ## 5. Translation
 
-### Literal Translation
+### Literal
 
 > Wholesome determination acquired through dhyāna is relinquished through
 > transition of ground or falling away; that acquired through the formless
@@ -154,7 +139,7 @@ dharmas.
 > relinquished through attainment of a fruit, strengthening [of the
 > faculties], or falling away.
 
-### Bhāṣya-informed study translation
+### Bhāṣya-informed
 
 > Wholesome dharmas acquired through dhyāna are lost when the practitioner
 > passes to another ground or falls away from the attainment; wholesome
@@ -170,16 +155,7 @@ Bhāṣya.
 
 ## 6. Philosophical Translation
 
-> A determination may cease because its sustaining ground has been left, its
-> attainment has collapsed, its function has successfully produced its fruit,
-> or its subjective capacity has been strengthened beyond the form appropriate
-> to weaker faculties. Relinquishment therefore names both regression and
-> development. In the developmental cases the earlier Path is not simply
-> erased: it ceases as the presently possessed operative form because its work
-> is fulfilled or a stronger form now determines the continuum.
-
-This distinction must not be used to redescribe every loss as progress.
-`Parihāṇi` remains genuine falling away.
+> Wholesome determination acquired through dhyāna is relinquished through transition of ground or falling away; that acquired through the formless attainments is relinquished likewise. Noble determination, however, is relinquished through attainment of a fruit, strengthening [of the faculties], or falling away.
 
 ## 7. Technical Vocabulary
 
@@ -384,6 +360,19 @@ of determination that was acquired.
 
 This is the Organon contact. The two meditative causes, three noble causes,
 and the `uttapti` correction belong explicitly to the Bhāṣya.
+
+### Former Philosophical Translation
+
+> A determination may cease because its sustaining ground has been left, its
+> attainment has collapsed, its function has successfully produced its fruit,
+> or its subjective capacity has been strengthened beyond the form appropriate
+> to weaker faculties. Relinquishment therefore names both regression and
+> development. In the developmental cases the earlier Path is not simply
+> erased: it ceases as the presently possessed operative form because its work
+> is fulfilled or a stronger form now determines the continuum.
+
+This distinction must not be used to redescribe every loss as progress.
+`Parihāṇi` remains genuine falling away.
 
 ## 10. OWL++ Seed
 

@@ -27,23 +27,7 @@ field before discussing these five individual cases.
 
 ## 3. Lexical Analysis
 
-```text
-ye
-
-nirodha-utthitāḥ
-araṇā-utthitāḥ
-maitrī-utthitāḥ
-darśana-utthitāḥ
-arhat-phala-utthitāḥ
-
-teṣu
-kāra-apakārasya
-phalam
-sadyaḥ
-anubhūyate
-```
-
-| Form | Morphology | Lexical value here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `ye` | nominative masculine plural relative pronoun | those who |
 | `nirodha` | compound member | cessation attainment |
@@ -112,13 +96,13 @@ which the action is performed.
 
 ## 5. Translation
 
-### Literal Translation
+### Literal
 
 > For those emerged from cessation, non-contention, loving-kindness, the Path
 > of Seeing, or the fruit of arhatship, the result of benefit or injury done
 > toward them is experienced immediately.
 
-### Bhāṣya-informed study translation
+### Bhāṣya-informed
 
 > The Bhāṣya also names the Bhikṣu Saṅgha headed by the Buddha as a field. The
 > result of benefit or injury directed toward someone freshly emerged from
@@ -133,16 +117,7 @@ necessity of the result are supplied by the Bhāṣya.
 
 ## 6. Philosophical Translation
 
-> The causal force of an action depends partly on the state of its recipient
-> field. A continuum emerged from cessation, immeasurable benevolence, seeing,
-> or arhat-fruition is not treated as interchangeable with one in another
-> state. The Bhāṣya classifies benefit or injury directed toward these
-> recipients as certain to yield a result in the present life, without
-> assigning an exact clock-time interval. Field-state therefore participates
-> in the account of karmic efficacy.
-
-The rule applies to both benefit and injury without erasing their ethical
-distinction.
+> For those emerged from cessation, non-contention, loving-kindness, the Path of Seeing, or the fruit of arhatship, the result of benefit or injury done toward them is experienced immediately.
 
 ## 7. Technical Vocabulary
 
@@ -281,6 +256,19 @@ with a spiritually accomplished person into the technical rule stated here.
 
 This is the Organon contact. The five fields, their transformed states, and
 the negative boundary belong to the Bhāṣya.
+
+### Former Philosophical Translation
+
+> The causal force of an action depends partly on the state of its recipient
+> field. A continuum emerged from cessation, immeasurable benevolence, seeing,
+> or arhat-fruition is not treated as interchangeable with one in another
+> state. The Bhāṣya classifies benefit or injury directed toward these
+> recipients as certain to yield a result in the present life, without
+> assigning an exact clock-time interval. Field-state therefore participates
+> in the account of karmic efficacy.
+
+The rule applies to both benefit and injury without erasing their ethical
+distinction.
 
 ## 10. OWL++ Seed
 

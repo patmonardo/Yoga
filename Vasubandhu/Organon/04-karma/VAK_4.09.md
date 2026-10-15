@@ -19,13 +19,6 @@ classification from classification relative to karmic maturation.
 
 ## 3. Lexical Analysis
 
-```text
-saṃprayogeṇa tad-yuktāḥ /
-samutthānāt kriyā-ādayaḥ /
-viparyayeṇa akuśalam /
-parama-avyākṛte dhruve
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | saṃprayogeṇa | instrumental singular | through association |
@@ -47,14 +40,14 @@ The first pāda uses `saṃprayogeṇa` and `samutthānāt` as the grounds for t
 
 ## 5. Translation
 
-### Close Translation
+### Literal
 
 > Those associated with them are wholesome through association; actions and
 > the rest are wholesome through their originating condition. The unwholesome
 > is classified conversely. The two permanent [Dharmas] are ultimately
 > indeterminate.
 
-### Bhāṣya-informed Study Translation
+### Bhāṣya-informed
 
 > Dharmas associated with the wholesome roots, `hrī`, and `apatrāpya` are
 > wholesome through association. Bodily and verbal actions and related
@@ -70,20 +63,7 @@ The first pāda uses `saṃprayogeṇa` and `samutthānāt` as the grounds for t
 
 ## 6. Philosophical Translation
 
-### Interpretation
-
-The Bhāṣya completes the four grounds begun in VAK 4.08 while retaining
-their distinctness. Association and origination classify different
-relations; neither replaces intrinsic or ultimate classification. The
-objection about contaminated Dharmas is answered by separating the ultimate
-evaluation of saṃsāra from the ethical categories assigned relative to
-karmic maturation.
-
-In the Kośa's broader system, Discriminative Cognition (*vijñāna*) governs
-Mind (*manas*) and guides Dharma Base; it remains distinct from
-consciousness (*citta*) in the causal discussions. The same `avijñapti` is
-classified in Form Base and Dharma Base, with *vijñāna* bearing the stated
-*prati* relation to it.
+> Those associated with them are wholesome through association; actions and the rest are wholesome through origination. The unwholesome is classified conversely. The two permanent [Dharmas] are ultimately indeterminate.
 
 ## 7. Technical Vocabulary
 
@@ -117,5 +97,22 @@ record and marks its editorial readings in the translation. The compressed
 `nirodhasamāpatti`, and `asaṃjñisamāpatti`, following their separate
 treatment in Chapter 2. The difficulty about certain `prāptis` is left open
 by the Bhāṣya itself.
+
+### Former Philosophical Translation
+
+### Interpretation
+
+The Bhāṣya completes the four grounds begun in VAK 4.08 while retaining
+their distinctness. Association and origination classify different
+relations; neither replaces intrinsic or ultimate classification. The
+objection about contaminated Dharmas is answered by separating the ultimate
+evaluation of saṃsāra from the ethical categories assigned relative to
+karmic maturation.
+
+In the Kośa's broader system, Discriminative Cognition (*vijñāna*) governs
+Mind (*manas*) and guides Dharma Base; it remains distinct from
+consciousness (*citta*) in the causal discussions. The same `avijñapti` is
+classified in Form Base and Dharma Base, with *vijñāna* bearing the stated
+*prati* relation to it.
 
 ## 10. OWL++ Seed

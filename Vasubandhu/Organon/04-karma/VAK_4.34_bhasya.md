@@ -20,7 +20,7 @@ at [218|09–10] and ends with the explanation of intoxicants as a
 `Vasubandhu/Sources/kosabhasya.txt`. The question about the three
 kinds of restraint at [219|11–12] starts 4.35.
 
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
 ```iast
 atha kasmāt mṛṣāvādād viratir evopāsakasaṃvaraśikṣāpadaṃ

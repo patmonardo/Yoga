@@ -19,7 +19,7 @@ tābhyām anyasya śaikṣādyā dve dve pañca phalāni ca // 4.92 //
 > five results: maturation, corresponding, disconnection, activity-produced,
 > and dominant.
 
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
 ```iast
 dharmāḥ śaikṣādikā ekaṃ phalaṃ trīṇy api ca dvayam /

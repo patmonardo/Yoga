@@ -18,7 +18,7 @@ The prose specifies what the first half adds to 4.61: the ninth
 Desire-Realm path concerns both the mixed class and the final
 remaining grade of black unwholesome karma.
 
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
 ```iast
 navame cetanā yā sā kṛṣṇaśuklakṣayāya ca /

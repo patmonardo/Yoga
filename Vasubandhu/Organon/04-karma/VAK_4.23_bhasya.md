@@ -17,7 +17,7 @@ The running unit begins at [210|20] and ends at [211|01] in
 `Vasubandhu/Sources/kosabhasya.txt`. The preceding sentence closes
 the avijñapti discussion; the first half of 4.24 starts at [211|02].
 
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
 ```iast
 vijñaptyā tu punaḥ sarve kurvanto madhyayānvitāḥ.

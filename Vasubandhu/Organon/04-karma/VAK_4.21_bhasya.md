@@ -19,7 +19,7 @@ The running commentary unit begins with the first half-verse at
 [210|01] and ends at [210|11] in `Vasubandhu/Sources/kosabhasya.txt`.
 The next question opens 4.22.
 
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
 ```iast
 samāhitāryamārgasthau tau yuktau vartamānayā.

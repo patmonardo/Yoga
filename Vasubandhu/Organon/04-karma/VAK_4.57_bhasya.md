@@ -17,7 +17,7 @@ vipākaś caitasiky eva kāyiky evāśubhasya tu // 4.57 //
 This classifies *feeling as maturation*, not every feeling that may
 occur in the life of someone affected by such karma.
 
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
 ```iast
 vipākaḥ punarvedanāpradhānaḥ / tadidānīṃ vicāryate /

@@ -26,24 +26,7 @@ to be experienced as neither pain nor pleasure.
 
 ## 3. Lexical Analysis
 
-```text
-adhaḥ
-api
-madhyamaḥ
-asti
-eke
-
-dhyāna-antara-vipākataḥ
-
-apūrva-acaramaḥ
-pākaḥ
-trayāṇām
-ca
-iṣyate
-yataḥ
-```
-
-| Form | Morphology | Lexical value here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `adhaḥ` | adverb | below; below the fourth dhyāna |
 | `api` | particle | also; even |
@@ -120,13 +103,13 @@ three within the meditative hierarchy.
 
 ## 5. Translation
 
-### Literal Translation
+### Literal
 
 > Some maintain that the middle class exists even below, because it is the
 > maturation of the intermediate dhyāna, and because a maturation of the three
 > is accepted in which none is prior or posterior.
 
-### Bhāṣya-informed study translation
+### Bhāṣya-informed
 
 > Some authorities maintain that karma whose maturation is experienced as
 > neither pain nor pleasure also occurs below the fourth dhyāna. The
@@ -142,16 +125,7 @@ Bhāṣya.
 
 ## 6. Philosophical Translation
 
-> A general classification must be revised when the concrete field presents a
-> boundary case. The intermediate dhyāna lacks the feelings assigned by the
-> neighboring categories, while the Desire Realm permits all three karmic
-> result-types to mature together. The original law is not discarded; its
-> quantificational force is corrected from exceptionless universality to
-> predominance, and the extension of the neutral class becomes more adequate
-> to the field.
-
-Distinct causal determinations need not produce their effects successively:
-their maturations can remain distinct while becoming actual simultaneously.
+> Some maintain that the middle class exists even below, because it is the maturation of the intermediate dhyāna, and because a maturation of the three is accepted in which none is prior or posterior.
 
 ## 7. Technical Vocabulary
 
@@ -305,6 +279,19 @@ resolution beyond what the witness supports.
 This is the Organon contact. The alternative views, śāstra rejection, sūtra
 distribution, Desire-Realm restriction, and `bāhulika` qualification belong
 to the Bhāṣya.
+
+### Former Philosophical Translation
+
+> A general classification must be revised when the concrete field presents a
+> boundary case. The intermediate dhyāna lacks the feelings assigned by the
+> neighboring categories, while the Desire Realm permits all three karmic
+> result-types to mature together. The original law is not discarded; its
+> quantificational force is corrected from exceptionless universality to
+> predominance, and the extension of the neutral class becomes more adequate
+> to the field.
+
+Distinct causal determinations need not produce their effects successively:
+their maturations can remain distinct while becoming actual simultaneously.
 
 ## 10. OWL++ Seed
 

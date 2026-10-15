@@ -15,7 +15,7 @@ The Kārikā names **Mind**, not “mental karma,” as the third silence;
 the Bhāṣya makes that distinction explicit. The official Kārikā
 records `sarvaṃ` as a normalization of the base witness's `sarva`.
 
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
 ```iast
 sūtra uktaṃ trīṇi mauneyāni kāyamauneyaṃ vāṅmauneyaṃ manomauneyaṃ ca /

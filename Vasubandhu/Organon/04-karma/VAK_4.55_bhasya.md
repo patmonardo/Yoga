@@ -19,7 +19,7 @@ The unit opens with the question at [232|05] and ends at [232|15–16].
 The question about which fields guarantee a present-life result at
 [232|17] begins the next unit.
 
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
 ```iast
 atha dṛṣṭadharmavedanīyaṃ karma kīdṛśaṃ veditavyam /

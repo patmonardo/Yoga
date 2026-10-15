@@ -16,13 +16,6 @@ adattādānamanyasvasvīkriyā balacauryataḥ // 4.73 //
 
 ## 3. Lexical Analysis
 
-```text
-prāṇa-atipātaḥ | saṃcintya | parasya |
-a-bhrānti-māraṇam |
-adatta-ādānam | anya-sva-svīkriyā |
-bala-cauryataḥ
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | `prāṇa-atipātaḥ` | nominative masculine singular compound | destruction of life; killing-course |
@@ -89,13 +82,13 @@ possession one's own.
 
 ## 5. Translation
 
-### Scientific English Rendering
+### Literal
 
 > Destruction of life is the deliberate, non-mistaken killing of another.
 > Taking what is not given is the non-mistaken appropriation of another's
 > possession by force or stealth.
 
-### Bhāṣya-informed study translation
+### Bhāṣya-informed
 
 > Killing is the deliberate, non-mistaken killing of another. Taking what is
 > not given is the appropriation of another's possession by force or stealth.
@@ -114,17 +107,7 @@ the Bhāṣya.
 
 ## 6. Philosophical Translation
 
-> A bodily event becomes a determinate karmic course through the unity of
-> intentional direction, objective relation, execution, and fulfilled result.
-> Killing is not death considered merely as a physical occurrence; it is the
-> deliberate interruption of another conditioned life-series under a
-> non-mistaken lethal determination. Theft is not an object's spatial
-> displacement; it is the practical transformation of another's ungiven
-> possession into what the taker treats as their own. Moral form lies in the
-> complete relation, not in the visible movement alone.
-
-The Bhāṣya joins this intentional account to momentariness without requiring
-the annihilation of an enduring life-substance.
+> Destruction of life is the deliberate, non-mistaken killing of another. Taking what is not given is the non-mistaken appropriation of another's possession by force or stealth.
 
 ## 7. Technical Vocabulary
 
@@ -306,6 +289,20 @@ This is the project's interpretive synthesis. The constitutive definitions, mome
 analysis, Nirgrantha dispute, property cases, and postponed person-question
 belong to the Bhāṣya; the event-action-karmapatha sequence is the project
 synthesis.
+
+### Former Philosophical Translation
+
+> A bodily event becomes a determinate karmic course through the unity of
+> intentional direction, objective relation, execution, and fulfilled result.
+> Killing is not death considered merely as a physical occurrence; it is the
+> deliberate interruption of another conditioned life-series under a
+> non-mistaken lethal determination. Theft is not an object's spatial
+> displacement; it is the practical transformation of another's ungiven
+> possession into what the taker treats as their own. Moral form lies in the
+> complete relation, not in the visible movement alone.
+
+The Bhāṣya joins this intentional account to momentariness without requiring
+the annihilation of an enduring life-substance.
 
 ## 10. OWL++ Seed
 

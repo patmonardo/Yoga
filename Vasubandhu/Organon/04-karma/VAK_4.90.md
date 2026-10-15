@@ -16,11 +16,6 @@ madhyamā dve 'jātasya phalāni trīṇy anāgatāḥ // 4.90 //
 
 ## 3. Lexical Analysis
 
-```text
-sarve | atītasya | catvāri | madhyamasya | api | anāgatāḥ |
-madhyamāḥ | dve | ajātasya | phalāni | trīṇi | anāgatāḥ
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | `sarve` | nominative plural | all result-dharmas with respect to the three times |
@@ -107,14 +102,14 @@ the temporal status of the candidate result-dharmas.
 
 ## 5. Translation
 
-### Scientific English Rendering
+### Literal
 
 > For past action, dharmas of all three times stand under four
 > result-relations. For present action, future dharmas stand under those
 > same four, and present dharmas under two. For future action, future dharmas
 > stand under three result-relations.
 
-### Bhāṣya-informed study translation
+### Bhāṣya-informed
 
 > Past action relates to past, present, and future dharmas through maturation,
 > corresponding, activity-produced, and dominant results; disconnection is
@@ -129,27 +124,7 @@ the Bhāṣya.
 
 ## 6. Philosophical Translation
 
-> Causal efficacy has no complete determination apart from the temporal
-> relation of its terms. The same present action has one result-profile
-> with simultaneously present dharmas and another with future dharmas. Its
-> causal meaning is therefore not an intrinsic signature carried unchanged
-> through time; it is articulated by the temporal difference or simultaneity
-> through which source and result are joined.
-
-The minimal determination is now:
-
-```text
-source action
-    × source-time
-    × result-dharma
-    × result-time
-    × result-relation
-```
-
-Hegelian-transcendental comprehension makes time internal to the causal
-relation. Past, present, and future are not empty containers in which a fixed
-cause is placed. They determine which form of efficacy the cause can have:
-immediate production, dominant conditioning, correspondence, or maturation.
+> For past action, dharmas of all three times stand under four result-relations. For present action, future dharmas stand under those same four, and present dharmas under two. For future action, future dharmas stand under three result-relations.
 
 ## 7. Technical Vocabulary
 
@@ -311,6 +286,30 @@ practical organization: it orders present activity toward a future in which
 the bond itself is no longer reproduced. The truth of action is thus not
 timeless escape from causality, but disciplined transformation of its temporal
 actualization.
+
+### Former Philosophical Translation
+
+> Causal efficacy has no complete determination apart from the temporal
+> relation of its terms. The same present action has one result-profile
+> with simultaneously present dharmas and another with future dharmas. Its
+> causal meaning is therefore not an intrinsic signature carried unchanged
+> through time; it is articulated by the temporal difference or simultaneity
+> through which source and result are joined.
+
+The minimal determination is now:
+
+```text
+source action
+    × source-time
+    × result-dharma
+    × result-time
+    × result-relation
+```
+
+Hegelian-transcendental comprehension makes time internal to the causal
+relation. Past, present, and future are not empty containers in which a fixed
+cause is placed. They determine which form of efficacy the cause can have:
+immediate production, dominant conditioning, correspondence, or maturation.
 
 ## 10. OWL++ Seed
 

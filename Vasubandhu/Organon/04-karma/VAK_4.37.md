@@ -27,18 +27,6 @@ deliberate undertaking, or through action pursued with sufficient earnestness.
 
 ## 3. Lexical Analysis
 
-```text
-asaṃvarasya
-kriyayā
-lābhaḥ
-abhyupagamena
-vā
-
-śeṣa-avijñapti-lābhaḥ
-tu
-kṣetra-ādāna-ādara-īhanāt
-```
-
 | Form | Morphology | Lexical value here |
 |---|---|---|
 | `asaṃvarasya` | genitive masculine singular | of non-restraint |
@@ -154,13 +142,13 @@ list would obscure the relation between earnestness and striving.
 
 ## 5. Translation
 
-### Literal Translation
+### Literal
 
 > Non-restraint is acquired through action or through deliberate adoption.
 > The remaining avijñapti, however, is acquired through a field, undertaking,
 > or earnest striving.
 
-### Bhāṣya-informed study translation
+### Bhāṣya-informed
 
 > Non-restraint is acquired either by performing the harmful occupational
 > activity or by deliberately adopting that livelihood as one’s own. Other
@@ -174,18 +162,7 @@ of earnestness with performance are supplied by the Bhāṣya.
 
 ## 6. Philosophical Translation
 
-> A persistent practical form can arise in more than one direction. Repeated
-> life-activity may generate a standing non-restraint, while deliberate
-> adoption of a harmful livelihood may institute that standing form in
-> advance of its future enactments. Particular actions outside complete
-> restraint and non-restraint generate persistence only under determinate
-> conditions: the relational efficacy of their field, an undertaking that
-> gives conduct continuity, or an earnestness that makes the action more than
-> an indifferent occurrence.
-
-“Repeated” here describes the occupational horizon, not an additional
-condition stated by the kārikā. The Bhāṣya’s immediate acquisition example is
-performance of the relevant operation.
+> Non-restraint is acquired through action or through deliberate adoption. The remaining avijñapti, however, is acquired through a field, undertaking, or earnest striving.
 
 ## 7. Technical Vocabulary
 
@@ -426,6 +403,21 @@ arises, but how it is abandoned.
 
 This is the Organon contact. The occupational cases, three routes for other
 avijñapti, and explicit transition to abandonment belong to the Bhāṣya.
+
+### Former Philosophical Translation
+
+> A persistent practical form can arise in more than one direction. Repeated
+> life-activity may generate a standing non-restraint, while deliberate
+> adoption of a harmful livelihood may institute that standing form in
+> advance of its future enactments. Particular actions outside complete
+> restraint and non-restraint generate persistence only under determinate
+> conditions: the relational efficacy of their field, an undertaking that
+> gives conduct continuity, or an earnestness that makes the action more than
+> an indifferent occurrence.
+
+“Repeated” here describes the occupational horizon, not an additional
+condition stated by the kārikā. The Bhāṣya’s immediate acquisition example is
+performance of the relevant operation.
 
 ## 10. OWL++ Seed
 

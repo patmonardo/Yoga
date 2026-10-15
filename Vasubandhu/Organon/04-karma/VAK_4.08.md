@@ -20,13 +20,6 @@ VAK 4.09 continues with the remaining two.
 
 ## 3. Lexical Analysis
 
-```text
-kāme api nivṛtā [vijñaptiḥ] na asti /
-samutthānam asat yataḥ /
-paramārtha-śubhaḥ mokṣaḥ /
-svataḥ mūla-hrī-apatrapāḥ
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | kāme | locative singular | in the desire realm |
@@ -51,7 +44,7 @@ The first pāda places the understood subject in the locative `kāme`; `yataḥ`
 
 ## 5. Translation
 
-### Close Translation
+### Literal
 
 > Even in the desire realm, obscured [manifestation] does not occur, because
 > its originating condition is absent. Liberation is wholesome ultimately;
@@ -73,19 +66,7 @@ are supplied by the Bhāṣya.
 
 ## 6. Philosophical Translation
 
-### Interpretation
-
-The first half explains a restriction on obscured-indeterminate
-manifestation. The second half prevents that causal explanation from becoming
-a universal rule for ethical classification: the Bhāṣya distinguishes four
-grounds—ultimate, intrinsic, associative, and originating-condition—and
-explains only the first two here.
-
-In the Kośa's broader system, Discriminative Cognition (*vijñāna*) governs
-Mind (*manas*) and guides Dharma Base; it is distinct from the consciousness
-(*citta*) discussed as a producing condition in this passage. The same
-`avijñapti` is classified in Form Base and Dharma Base, with *vijñāna*
-bearing the stated *prati* relation to it.
+> Even in the desire realm, obscured [manifestation] does not occur, because its originating condition is absent. Liberation is wholesome ultimately; the roots, shame, and fear of blame are wholesome intrinsically.
 
 ## 7. Technical Vocabulary
 
@@ -125,5 +106,21 @@ silently normalizing the witness. The Sanskrit describes Mahābrahmā's
 deceitful act as bodily action, while the [parallel Chinese translations](https://www2.hf.uio.no/polyglotta/index.php?cid=503127&level=1&page=fulltext&vid=511&view=fulltext)
 describe speech and self-praise. The precise form of that anecdotal act
 remains unsettled.
+
+### Former Philosophical Translation
+
+### Interpretation
+
+The first half explains a restriction on obscured-indeterminate
+manifestation. The second half prevents that causal explanation from becoming
+a universal rule for ethical classification: the Bhāṣya distinguishes four
+grounds—ultimate, intrinsic, associative, and originating-condition—and
+explains only the first two here.
+
+In the Kośa's broader system, Discriminative Cognition (*vijñāna*) governs
+Mind (*manas*) and guides Dharma Base; it is distinct from the consciousness
+(*citta*) discussed as a producing condition in this passage. The same
+`avijñapti` is classified in Form Base and Dharma Base, with *vijñāna*
+bearing the stated *prati* relation to it.
 
 ## 10. OWL++ Seed

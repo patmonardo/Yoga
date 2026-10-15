@@ -16,13 +16,6 @@ saptamaḥ svayam apy atra kāme 'nyatra daśāśubhāḥ /
 
 ## 3. Lexical Analysis
 
-```text
-saptamaḥ | svayam | api | atra |
-kāme | anyatra | daśa | aśubhāḥ |
-śubhāḥ | trayaḥ | tu | sarvatra |
-saṃmukhībhāva-lābhataḥ
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | `saptamaḥ` | nominative masculine singular ordinal | the seventh Course of Action |
@@ -108,14 +101,14 @@ three realms.
 
 ## 5. Translation
 
-### Scientific English Rendering
+### Literal
 
 > Here in Uttarakuru, the seventh Course of Action also occurs by present
 > manifestation. Elsewhere in the Desire-Realm, all ten unwholesome Courses of
 > Action also occur by present manifestation. But the three wholesome mental
 > Courses of Action occur everywhere by present manifestation and acquisition.
 
-### Bhāṣya-informed study translation
+### Bhāṣya-informed
 
 > Here in Uttarakuru, the seventh Course of Action also occurs by present
 > manifestation. Elsewhere in the Desire-Realm, all ten unwholesome Courses of
@@ -136,24 +129,7 @@ Bhāṣya.
 
 ## 6. Philosophical Translation
 
-> A favorable world-setting does not mechanically eliminate every
-> unwholesome event: a specific verbal Course of Action can still become
-> actual when its immediate afflictive condition is present. Conversely,
-> unwholesome manifestation is not distributed uniformly throughout the
-> Desire-Realm; each local setting permits or blocks Courses of Action through
-> determinate lifespan, relational, dispositional, and practical conditions.
-> The three wholesome mental Courses of Action have the widest modal scope:
-> no destiny or setting excludes their acquisition
-> or manifestation in principle.
-
-The relation is:
-
-```text
-universal Course-of-Action form
-    → world-setting conditions
-    → continuum endowment
-    → present manifestation
-```
+> Here in Uttarakuru, the seventh Course of Action also occurs by present manifestation. Elsewhere in the Desire-Realm, all ten unwholesome Courses of Action also occur by present manifestation. But the three wholesome mental Courses of Action occur everywhere by present manifestation and acquisition.
 
 ## 7. Technical Vocabulary
 
@@ -346,6 +322,27 @@ manifest everywhere, not that they are always actual.
 The Bhāṣya's distribution across the Desire-Realm, the seventh-Course
 example, absence-reasons, restraint distinction, and universal wholesome
 scope ground the four-level modal articulation.
+
+### Former Philosophical Translation
+
+> A favorable world-setting does not mechanically eliminate every
+> unwholesome event: a specific verbal Course of Action can still become
+> actual when its immediate afflictive condition is present. Conversely,
+> unwholesome manifestation is not distributed uniformly throughout the
+> Desire-Realm; each local setting permits or blocks Courses of Action through
+> determinate lifespan, relational, dispositional, and practical conditions.
+> The three wholesome mental Courses of Action have the widest modal scope:
+> no destiny or setting excludes their acquisition
+> or manifestation in principle.
+
+The relation is:
+
+```text
+universal Course-of-Action form
+    → world-setting conditions
+    → continuum endowment
+    → present manifestation
+```
 
 ## 10. OWL++ Seed
 

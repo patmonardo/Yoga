@@ -34,19 +34,6 @@ yathā-abhyupagamam lābhaḥ saṃvarasya na saṃtate[h] //
 
 ## 3. Lexical Analysis
 
-```text
-mithyā-ācāra-ati-garhya-tvāt
-saukaryāt
-akriyā-āptitaḥ
-
-yathā-abhyupagamam
-lābhaḥ
-saṃvarasya
-
-na
-saṃtate / saṃtateḥ
-```
-
 | Form | Morphology | Lexical value here |
 |---|---|---|
 | `mithyācārātigarhyatvāt` | ablative singular abstract compound | because sexual misconduct is especially blameworthy |
@@ -169,14 +156,14 @@ qualification into a doctrine about every possible implication of every vow.
 
 ## 5. Translation
 
-### Literal Translation
+### Literal
 
 > Because sexual misconduct is especially blameworthy, because [abstention
 > from it] is practicable, and because fixed non-performance is acquired,
 > restraint is acquired according to the undertaking, not [as an unrestricted
 > celibate determination] of the continuum.
 
-### Bhāṣya-informed study translation
+### Bhāṣya-informed
 
 > Abstention from sexual misconduct—rather than complete celibacy—is
 > established as the lay follower’s training rule because sexual misconduct
@@ -194,16 +181,7 @@ uncertainty.
 
 ## 6. Philosophical Translation
 
-> A practical determination acquires its universality through the stability
-> of its determinate content, not through unlimited enlargement of its
-> predicate. The lay follower renounces sexual misconduct universally as
-> misconduct; the undertaking does not silently transform household life into
-> monastic celibacy. Accordingly, lawful marriage does not disturb the vow,
-> because it does not contradict what the vow actually determines.
-
-This is a contextual determination of the lay sexual precept. It should not
-be detached from that context and inflated into a complete theory of the
-semantic scope of every restraint.
+> Because sexual misconduct is especially blameworthy, because [abstention from it] is practicable, and because fixed non-performance is acquired, restraint is acquired according to the undertaking, not [as an unrestricted celibate determination] of the continuum.
 
 ## 7. Technical Vocabulary
 
@@ -413,6 +391,19 @@ the full content of an undertaking
 
 This remains an Organon contact point. The sexual-precept contrast, the three
 reasons, the marriage objection, and its answer belong to the Bhāṣya.
+
+### Former Philosophical Translation
+
+> A practical determination acquires its universality through the stability
+> of its determinate content, not through unlimited enlargement of its
+> predicate. The lay follower renounces sexual misconduct universally as
+> misconduct; the undertaking does not silently transform household life into
+> monastic celibacy. Accordingly, lawful marriage does not disturb the vow,
+> because it does not contradict what the vow actually determines.
+
+This is a contextual determination of the lay sexual precept. It should not
+be detached from that context and inflated into a complete theory of the
+semantic scope of every restraint.
 
 ## 10. OWL++ Seed
 

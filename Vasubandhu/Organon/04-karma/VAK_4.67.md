@@ -16,13 +16,6 @@ dvividhāḥ sapta kuśalāḥ avijñaptiḥ samādhijāḥ // 4.67 //
 
 ## 3. Lexical Analysis
 
-```text
-aśubhāḥ | ṣaṭ | avijñaptiḥ | dvidhā | ekaḥ |
-te | api | kurvataḥ |
-dvividhāḥ | sapta | kuśalāḥ |
-avijñaptiḥ | samādhi-jāḥ
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | `aśubhāḥ` | nominative masculine plural | unwholesome courses |
@@ -110,13 +103,13 @@ second to restraint born from meditative concentration.
 
 ## 5. Translation
 
-### Scientific English Rendering
+### Literal
 
 > Six unwholesome courses are non-manifest; one is twofold. Those too are
 > twofold for one who performs them. The seven wholesome courses are twofold;
 > those born from concentration are non-manifest.
 
-### Bhāṣya-informed study translation
+### Bhāṣya-informed
 
 > Six unwholesome courses are non-manifest; one is twofold. Those six too are
 > twofold for one who performs them personally. The seven wholesome courses
@@ -140,16 +133,7 @@ restraint are supplied by the Bhāṣya.
 
 ## 6. Philosophical Translation
 
-> A karmic course is not exhausted by the action that becomes outwardly
-> visible. Its agent of execution, bearer of responsibility, and moment of
-> completion need not coincide. The course may therefore attain effective
-> ethical determination where the responsible continuum has no principal
-> manifestation of its own. Conversely, wholesome restraint can be generated
-> through an explicit undertaking or arise from concentrated consciousness;
-> its mode of existence follows its mode of generation.
-
-This is still a classification of karmic modes, not a claim that inward
-intention by itself is `avijñapti`.
+> Six unwholesome courses are non-manifest; one is twofold. Those too are twofold for one who performs them. The seven wholesome courses are twofold; those born from concentration are non-manifest.
 
 ## 7. Technical Vocabulary
 
@@ -303,6 +287,19 @@ This is the Organon contact. The sixfold list, the exception, the delegated
 and delayed-completion analyses, and the two kinds of restraint belong to the
 Bhāṣya; the formulation in terms of relational objectivity and Practical Form
 is the project synthesis.
+
+### Former Philosophical Translation
+
+> A karmic course is not exhausted by the action that becomes outwardly
+> visible. Its agent of execution, bearer of responsibility, and moment of
+> completion need not coincide. The course may therefore attain effective
+> ethical determination where the responsible continuum has no principal
+> manifestation of its own. Conversely, wholesome restraint can be generated
+> through an explicit undertaking or arise from concentrated consciousness;
+> its mode of existence follows its mode of generation.
+
+This is still a classification of karmic modes, not a claim that inward
+intention by itself is `avijñapti`.
 
 ## 10. OWL++ Seed
 

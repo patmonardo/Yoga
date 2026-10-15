@@ -15,7 +15,7 @@ The verse explains why the Noble Eightfold Path names wrong livelihood in
 addition to wrong speech and wrong action. The difference is one of causal
 root and practical function, not a fourth medium of action.
 
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
 ```iast
 yad bhagavatā "mithyāvāṅ mithyākarmānto mithyājīva" ity uktaṃ, ko 'yam

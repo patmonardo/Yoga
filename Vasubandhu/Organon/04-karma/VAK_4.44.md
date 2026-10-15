@@ -26,18 +26,6 @@ The Bhāṣya supplies the exact distribution compressed by the verse.
 
 ## 3. Lexical Analysis
 
-```text
-kāma-rūpa-ja-devānām
-dhyāna-jaḥ
-
-anāsravaḥ
-punaḥ
-
-dhyāna-antara-asaṃjñi-sattva-varjyānām
-api
-arūpiṇām
-```
-
 | Form | Morphology | Lexical value here |
 |---|---|---|
 | `kāma` | compound member | Desire Realm |
@@ -127,14 +115,14 @@ not by present manifestation.
 
 ## 5. Translation
 
-### Literal Translation
+### Literal
 
 > Meditation-born [restraint belongs] to gods born in the Desire and Form
 > Realms. Uncontaminated [restraint], in turn, [belongs to those born in those
 > Realms], excluding those born in the intermediate dhyāna and non-percipient
 > beings, and also to formless beings.
 
-### Bhāṣya-informed study translation
+### Bhāṣya-informed
 
 > Meditation-born restraint occurs among gods born in the Desire and Form
 > Realms; above the Form Realm it does not occur. Uncontaminated restraint
@@ -149,17 +137,7 @@ manifestation are supplied by the Bhāṣya.
 
 ## 6. Philosophical Translation
 
-> A practical determination need not be presently manifest in order to belong
-> to a continuum. Meditation-born restraint requires a meditative actuality
-> whose range ends with the Form Realm. Uncontaminated restraint follows the
-> acquisition of the noble path and therefore has a different distribution:
-> it can remain possessed even in a formless existence in which it cannot be
-> brought into present manifestation. Possession is thus neither sensible
-> appearance nor current performance, but the continued belonging of an
-> acquired determination.
-
-This does not make the possessed restraint an eternal or transcendent entity.
-It remains a conditioned acquisition belonging to a determinate continuum.
+> Meditation-born [restraint belongs] to gods born in the Desire and Form Realms. Uncontaminated [restraint], in turn, [belongs to those born in those Realms], excluding those born in the intermediate dhyāna and non-percipient beings, and also to formless beings.
 
 ## 7. Technical Vocabulary
 
@@ -327,6 +305,20 @@ whether it can presently appear.
 
 This is the Organon contact. The realm distribution, exclusions, and
 `samanvāgama`–`saṃmukhībhāva` distinction belong to the Bhāṣya.
+
+### Former Philosophical Translation
+
+> A practical determination need not be presently manifest in order to belong
+> to a continuum. Meditation-born restraint requires a meditative actuality
+> whose range ends with the Form Realm. Uncontaminated restraint follows the
+> acquisition of the noble path and therefore has a different distribution:
+> it can remain possessed even in a formless existence in which it cannot be
+> brought into present manifestation. Possession is thus neither sensible
+> appearance nor current performance, but the continued belonging of an
+> acquired determination.
+
+This does not make the possessed restraint an eternal or transcendent entity.
+It remains a conditioned acquisition belonging to a determinate continuum.
 
 ## 10. OWL++ Seed
 

@@ -28,23 +28,6 @@ recollection of the observance and `saṃvega`.
 
 ## 3. Lexical Analysis
 
-```text
-śīla-aṅgāni
-apramāda-aṅgam
-vrata-aṅgāni
-yathā-kramam
-
-catvāri
-ekam
-tathā
-trīṇi
-
-smṛti-nāśaḥ
-madaḥ
-ca
-taiḥ
-```
-
 | Form | Morphology | Lexical value here |
 |---|---|---|
 | `śīlāṅgāni` | nominative neuter plural compound | limbs of discipline |
@@ -161,13 +144,13 @@ departure from ordinary meal-time
 
 ## 5. Translation
 
-### Literal Translation
+### Literal
 
 > Respectively, four are limbs of discipline, one is a limb of heedfulness,
 > and three are limbs of observance. Through those [contrary factors] there is
 > destruction of recollection and intoxicated self-indulgence.
 
-### Bhāṣya-informed study translation
+### Bhāṣya-informed
 
 > Of the eight upavāsa limbs, the first four are limbs of discipline, the fifth
 > is the limb safeguarding heedfulness, and the final three are limbs shaping
@@ -181,16 +164,7 @@ Bhāṣya determinations.
 
 ## 6. Philosophical Translation
 
-> The eightfold vow is an articulated practical whole. Four limbs directly
-> constitute ethical discipline; one preserves the vigilance without which
-> that discipline would be forgotten; three organize the surrounding mode of
-> life so indulgence does not dissolve the vow’s active force. The whole is
-> therefore neither a ninth entity beyond the limbs nor a mere list: it exists
-> as the differentiated functional unity of constitutive, preservative, and
-> supporting determinations.
-
-The final whole–part formulation develops the Bhāṣya’s `samudāya / avayava`
-analysis at the Organon level.
+> Respectively, four are limbs of discipline, one is a limb of heedfulness, and three are limbs of observance. Through those [contrary factors] there is destruction of recollection and intoxicated self-indulgence.
 
 ## 7. Technical Vocabulary
 
@@ -408,6 +382,19 @@ relation.
 This remains an Organon synthesis. Vasubandhu explicitly supplies the
 threefold functional classification and the whole–part analysis of the
 eightfold upavāsa.
+
+### Former Philosophical Translation
+
+> The eightfold vow is an articulated practical whole. Four limbs directly
+> constitute ethical discipline; one preserves the vigilance without which
+> that discipline would be forgotten; three organize the surrounding mode of
+> life so indulgence does not dissolve the vow’s active force. The whole is
+> therefore neither a ninth entity beyond the limbs nor a mere list: it exists
+> as the differentiated functional unity of constitutive, preservative, and
+> supporting determinations.
+
+The final whole–part formulation develops the Bhāṣya’s `samudāya / avayava`
+analysis at the Organon level.
 
 ## 10. OWL++ Seed
 

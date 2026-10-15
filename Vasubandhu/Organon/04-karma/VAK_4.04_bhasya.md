@@ -18,7 +18,7 @@ The first pāda condenses the Vaibhāṣika case for a distinct `avijñapti`.
 The Bhāṣya supplies an extended Sautrāntika reply before its final account
 of material support. The Kārikā study is `VAK_4.04.md`.
 
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
 ```iast
 sā 'pi dravyato nāstīti sautrāntikāḥ /
@@ -262,7 +262,7 @@ spellings, word divisions, and sūtra quotations. In particular its
 and the path are retained as witness readings, not endorsed corrections.
 The continuous translation is accordingly provisional.
 
-## 3. Continuous Translation
+## 3. Continuous Conventional Translation
 
 The Sautrāntikas say that `avijñapti` (non-disclosing continuity), too, does not exist as a
 real entity. It is merely the non-doing accepted by undertaking restraint;

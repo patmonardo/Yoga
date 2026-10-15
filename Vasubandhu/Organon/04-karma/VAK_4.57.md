@@ -30,24 +30,7 @@ witness variant is retained in the Bhāṣya study.
 
 ## 3. Lexical Analysis
 
-```text
-kuśalasya
-avitarkasya
-karmaṇaḥ
-vedanā
-matā
-
-vipākaḥ
-caitasikī
-eva
-
-kāyikī
-eva
-aśubhasya
-tu
-```
-
-| Form | Morphology | Lexical value here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `kuśalasya` | genitive neuter singular | of wholesome [karma] |
 | `avitarkasya` | genitive neuter singular | without vitarka; belonging to the non-discursive range |
@@ -107,13 +90,13 @@ clause.
 
 ## 5. Translation
 
-### Literal Translation
+### Literal
 
 > For wholesome karma without vitarka, the feeling held to constitute its
 > maturation is exclusively mental; for unwholesome karma, however, it is
 > exclusively bodily.
 
-### Bhāṣya-informed study translation
+### Bhāṣya-informed
 
 > For wholesome karma belonging to the non-discursive range—from the
 > intermediate dhyāna through the summit of existence—the feeling that
@@ -127,15 +110,7 @@ Bhāṣya.
 
 ## 6. Philosophical Translation
 
-> A karmic result is determined not only by its affective quality but by the
-> locus in which that quality can become actual. The structure of higher
-> wholesome karma excludes bodily feeling as its maturation; the structure of
-> unwholesome maturation excludes mental distress from serving as its direct
-> fruit. Cause, result-quality, and result-locus form a typed relation in which
-> no shared predicate licenses arbitrary substitution among its terms.
-
-Mental distress may accompany bodily suffering without thereby becoming the
-direct karmic maturation specified here.
+> For wholesome karma without vitarka, the feeling held to constitute its maturation is exclusively mental; for unwholesome karma, however, it is exclusively bodily.
 
 ## 7. Technical Vocabulary
 
@@ -281,6 +256,18 @@ through quality, field, time, and locus.
 
 This is the Organon contact. The range of `avitarka`, bodily-feeling condition,
 and exclusion of `daurmanasya` from vipāka belong to the Bhāṣya.
+
+### Former Philosophical Translation
+
+> A karmic result is determined not only by its affective quality but by the
+> locus in which that quality can become actual. The structure of higher
+> wholesome karma excludes bodily feeling as its maturation; the structure of
+> unwholesome maturation excludes mental distress from serving as its direct
+> fruit. Cause, result-quality, and result-locus form a typed relation in which
+> no shared predicate licenses arbitrary substitution among its terms.
+
+Mental distress may accompany bodily suffering without thereby becoming the
+direct karmic maturation specified here.
 
 ## 10. OWL++ Seed
 

@@ -16,11 +16,6 @@ anyathāsaṃjñino vākyamarthābhijñe mṛṣāvacaḥ // 4.74 //
 
 ## 3. Lexical Analysis
 
-```text
-a-gamya-gamanam | kāma-mithyā-ācāraḥ | catur-vidhaḥ |
-anyathā-saṃjñinaḥ | vākyam | artha-abhijñe | mṛṣā-vacaḥ
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | `a-gamya-gamanam` | nominative neuter singular compound | going where or to whom one should not sexually approach |
@@ -84,13 +79,13 @@ the hearer understands the meaning asserted.
 
 ## 5. Translation
 
-### Scientific English Rendering
+### Literal
 
 > Going where one should not approach is sexual misconduct, and it is
 > fourfold. The statement of one whose recognition is otherwise, when the
 > hearer understands its meaning, is false speech.
 
-### Bhāṣya-informed study translation
+### Bhāṣya-informed
 
 > Sexual misconduct is fourfold approach to what is not to be approached.
 > False speech is the statement of one whose recognition is otherwise,
@@ -111,23 +106,7 @@ to the Bhāṣya.
 
 ## 6. Philosophical Translation
 
-> Bodily and verbal acts receive their practical determination only within the
-> relations they realize. Sexual activity is classified through the governing
-> interpersonal, bodily, spatial, and temporal conditions of its performance.
-> False speech is a semantic act in which the speaker asserts for another a
-> meaning divergent from the speaker's own recognition. Its
-> completion therefore lies not in sound alone but in successfully constituted
-> understanding.
-
-The two definitions converge:
-
-```text
-bodily action
-    becomes determinate within a governed relational field
-
-verbal action
-    becomes determinate within a completed semantic relation
-```
+> Going where one should not approach is sexual misconduct, and it is fourfold. The statement of one whose recognition is otherwise, when the hearer understands its meaning, is false speech.
 
 ## 7. Technical Vocabulary
 
@@ -306,6 +285,26 @@ This is the project's interpretive synthesis. The fourfold classification, examp
 object-recognition dispute, comprehension rule, and phonetic completion point
 belong to the Bhāṣya; the formulation as relational and semantic Practical
 Form is the project synthesis.
+
+### Former Philosophical Translation
+
+> Bodily and verbal acts receive their practical determination only within the
+> relations they realize. Sexual activity is classified through the governing
+> interpersonal, bodily, spatial, and temporal conditions of its performance.
+> False speech is a semantic act in which the speaker asserts for another a
+> meaning divergent from the speaker's own recognition. Its
+> completion therefore lies not in sound alone but in successfully constituted
+> understanding.
+
+The two definitions converge:
+
+```text
+bodily action
+    becomes determinate within a governed relational field
+
+verbal action
+    becomes determinate within a completed semantic relation
+```
 
 ## 10. OWL++ Seed
 

@@ -20,7 +20,7 @@ Kārikā study `VAK_4.06.md` gives `anupāttā` where it reads `anupātā`.
 The bracketed scope in the translation comes from the Bhāṣya's
 `asamāhitabhūmikāyā eṣa prakāraḥ`, not from the Kārikā alone.
 
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
 ```iast
 naiḥṣyandikī ca sattvākhyā.
@@ -68,7 +68,7 @@ and `anupātāni`; their relation to the expected `anupāttā` and
 `anupāttāni` remains a witness question. It also reads `pravandhād` in
 the configuration objection, retained above.
 
-## 3. Continuous Translation
+## 3. Continuous Conventional Translation
 
 “It belongs to homogeneous outflow and is designated in relation to a
 sentient being.” Further, it is “born from outflow-derived, appropriated

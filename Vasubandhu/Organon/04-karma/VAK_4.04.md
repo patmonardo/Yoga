@@ -23,17 +23,6 @@ desire-domain `avijñapti` is generated after its first moment.
 
 ## 3. Lexical Analysis
 
-```text
-trividha-amala-rūpa-ukti   → trividhāmalarūpokti
-vṛddhi                     → vṛddhy (before vowel)
-a-kurvat-patha-ādibhiḥ     → akurvatpathādibhiḥ
-kṣaṇāt                     → kṣaṇād (before vowel)
-ūrdhvam                    → ūrdhvam
-avijñaptiḥ                 → avijñaptiḥ
-kāma-āpta                  → kāmāpta
-atīta-bhūta-jā             → atītabhūtajā
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | trividhāmalarūpokti | compound member within an instrumental proof-list | teaching of threefold Form and uncontaminated Form |
@@ -80,7 +69,7 @@ The first pāda is an instrumental phrase listing grounds in `-uktyā`, `-vṛdd
 
 ## 5. Translation
 
-### Literal Translation
+### Literal
 
 > [Its existence is argued] from the teaching of threefold and uncontaminated
 > Form, from increase, from the action-path of one not personally acting, and
@@ -91,7 +80,7 @@ The bracketed conclusion, the separation of the two `rūpa` teachings, the
 reference of `patha` to an action-path, and the expansion of `bhūta` to great
 material determinations are supplied by the Bhāṣya.
 
-### Bhāṣya-informed study translation
+### Bhāṣya-informed
 
 > The Vaibhāṣikas argue for a distinct real Form Dharma from
 > the scriptural teaching of three classes of Form and uncontaminated Form,
@@ -107,15 +96,7 @@ between producing and sustaining material bases are commentary determinations.
 
 ## 6. Philosophical Translation
 
-### Bhāṣya-Based Synthesis
-
-The first pāda records the Vaibhāṣika grounds for affirming `avijñapti`;
-the Bhāṣya then gives the Sautrāntika replies and their account of continuum
-transformation. The second pāda states the Vaibhāṣika account of the
-desire-realm `avijñapti`: past Great Elements produce it, while present
-bodily Great Elements support its continuation. The cited Path and
-restraint examples test how the schools explain conduct when no corresponding
-bodily or verbal action is presently performed.
+> [Existence is argued] from the teaching of threefold and uncontaminated Form, from increase, from the action-path of one not personally acting, and from further grounds. Beyond the first moment, desire-domain non-disclosing continuity is born from past Great Elements.
 
 ## 7. Technical Vocabulary
 
@@ -160,7 +141,6 @@ producing basis and present sustaining support perform different functions.
 
 ## 8. Logical Determination
 
-
 An instrumental series names the stated grounds; the second pāda predicates desire-realm and past-Great-Element origin of non-disclosing continuity beyond the moment.
 
 ## 9. Interpretive Note
@@ -170,6 +150,18 @@ The Bhāṣya presents two explanations of continuity. The Vaibhāṣikas defend
 cited cases through a specific transformation of the continuum. The Path,
 restraint, merit, and commissioned-action examples are arguments within this
 dispute, not a general claim that one account applies to every kind of action.
+
+### Former Philosophical Translation
+
+### Bhāṣya-Based Synthesis
+
+The first pāda records the Vaibhāṣika grounds for affirming `avijñapti`;
+the Bhāṣya then gives the Sautrāntika replies and their account of continuum
+transformation. The second pāda states the Vaibhāṣika account of the
+desire-realm `avijñapti`: past Great Elements produce it, while present
+bodily Great Elements support its continuation. The cited Path and
+restraint examples test how the schools explain conduct when no corresponding
+bodily or verbal action is presently performed.
 
 ## 10. OWL++ Seed
 

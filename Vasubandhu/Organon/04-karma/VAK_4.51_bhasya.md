@@ -19,7 +19,7 @@ sarvatra catur ākṣepaḥ śubhasya narake tridhā // 4.51 //
 The unit runs from [230|08] through the explanation of the hell
 exception at [230|24–25]. The next kārikā begins at [230|26].
 
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
 ```iast
 catuṣkoṭikam ity anye

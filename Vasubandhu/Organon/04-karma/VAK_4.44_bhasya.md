@@ -20,7 +20,7 @@ Bhāṣya unit is [226|25]–[227|03] in
 explicitly turns to karmas taught in the sūtras; that sentence
 opens the next study rather than extending this verse.
 
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
 ```iast
 kāmarūpajadevānāṃ dhyānajaḥ

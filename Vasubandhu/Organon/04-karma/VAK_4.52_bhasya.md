@@ -19,7 +19,7 @@ The unit begins at [230|26] and ends with a forward reference at
 [231|07–08]. The question about karma in the intermediate existence
 at [231|09] begins the next unit.
 
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
 ```iast
 yadviraktaḥ sthiro bālas tatra notpadyavedyakṛt /

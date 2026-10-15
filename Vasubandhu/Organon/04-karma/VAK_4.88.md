@@ -16,11 +16,6 @@ catvāri dve tathā trīṇi kuśalasya śubhādayaḥ // 4.88 //
 
 ## 3. Lexical Analysis
 
-```text
-an-āsravam | punaḥ | śeṣam | tribhiḥ | avyākṛtam | ca | yat |
-catvāri | dve | tathā | trīṇi | kuśalasya | śubha-ādayaḥ
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | `anāsravam` | nominative neuter singular | action without Influx |
@@ -97,13 +92,13 @@ three numerals explicit through `anukramam`, “respectively.”
 
 ## 5. Translation
 
-### Scientific English Rendering
+### Literal
 
 > The remaining action without Influx, and whatever action is indeterminate,
 > each have three results. For wholesome action, the result counts for
 > dharmas beginning with wholesome are four, two, and three, respectively.
 
-### Bhāṣya-informed study translation
+### Bhāṣya-informed
 
 > Action without Influx outside the Path of Abandonment, and indeterminate
 > action, each have three results: corresponding, activity-produced, and
@@ -120,29 +115,7 @@ are supplied by the Bhāṣya.
 
 ## 6. Philosophical Translation
 
-> An action does not transmit its ethical quality unchanged into every
-> result. Wholesome action relates differently to wholesome, unwholesome, and
-> indeterminate dharmas because causal efficacy is mediated by distinct
-> result-forms. Maturation yields an indeterminate resultant dharma;
-> disconnection belongs only within the wholesome liberative field; active
-> production and dominant conditioning can cross ethical qualities. The
-> action is therefore understood not by repeating its ethical label in every
-> result, but through the articulated system of relations by which its
-> efficacy becomes actual.
-
-The new form is:
-
-```text
-ethical quality of action
-    × quality of resulting dharma
-    × mode of causal relation
-    = determinate result-structure
-```
-
-Hegelian-transcendental comprehension shows why this matrix is necessary.
-Cause and effect are not fixed things connected by an external arrow; each is
-determined through the specific mediation that joins it to the other. The
-five results name those mediations.
+> The remaining action without Influx, and whatever action is indeterminate, each have three results. For wholesome action, the result counts for dharmas beginning with wholesome are four, two, and three, respectively.
 
 ## 7. Technical Vocabulary
 
@@ -328,6 +301,32 @@ longer appears as a linear sequence from act to consequence. It is the
 structured network through which qualities, operations, and fields determine
 one another. The agent that emerges from this network will enter Anuśaya as
 the inwardly conditioned result of these objective mediations.
+
+### Former Philosophical Translation
+
+> An action does not transmit its ethical quality unchanged into every
+> result. Wholesome action relates differently to wholesome, unwholesome, and
+> indeterminate dharmas because causal efficacy is mediated by distinct
+> result-forms. Maturation yields an indeterminate resultant dharma;
+> disconnection belongs only within the wholesome liberative field; active
+> production and dominant conditioning can cross ethical qualities. The
+> action is therefore understood not by repeating its ethical label in every
+> result, but through the articulated system of relations by which its
+> efficacy becomes actual.
+
+The new form is:
+
+```text
+ethical quality of action
+    × quality of resulting dharma
+    × mode of causal relation
+    = determinate result-structure
+```
+
+Hegelian-transcendental comprehension shows why this matrix is necessary.
+Cause and effect are not fixed things connected by an external arrow; each is
+determined through the specific mediation that joins it to the other. The
+five results name those mediations.
 
 ## 10. OWL++ Seed
 

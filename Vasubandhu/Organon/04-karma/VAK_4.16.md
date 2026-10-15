@@ -19,11 +19,6 @@ from its continuation.
 
 ## 3. Lexical Analysis
 
-```text
-śīlam sucaritam karma saṃvaraḥ ca ucyate punaḥ /
-ādye vijñapti-avijñaptī prātimokṣa-kriyāpathaḥ
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | śīlam | nominative neuter singular | discipline |
@@ -45,13 +40,13 @@ The first pāda coordinates four names—`śīlam`, `sucaritam`, `karma`, and `s
 
 ## 5. Translation
 
-### Close Translation
+### Literal
 
 > Restraint is also called discipline, good conduct, action, and
 > containment. In the first [moment], manifestation and non-disclosing
 > continuity are the course of *prātimokṣa* activity.
 
-### Bhāṣya-informed Study Translation
+### Bhāṣya-informed
 
 > Restraint is called discipline because it is undertaken as abstention
 > from improper actions; good conduct because learned persons praise it;
@@ -73,18 +68,7 @@ The first-moment gloss and the distinction between *kriyāpatha* and
 
 ## 6. Philosophical Translation
 
-### Interpretation
-
-The Bhāṣya does not treat restraint as mere inactivity. It is
-non-action with respect to the evil deed it prevents, but activity with
-respect to the restraint's own production. The distinction lets the
-commentary call restraint *karma* without claiming that it is the
-prohibited deed.
-
-For the Organon, this supports reading restraint as a positively
-undertaken practical determination. Cetanā is not named in this unit;
-connecting the undertaking to the project's Cetanā framework is an
-Organon interpretation, not the Bhāṣya's wording here.
+> Restraint is also called discipline, good conduct, action, and containment. In the first [moment], manifestation and non-disclosing continuity are the course of prātimokṣa activity.
 
 ## 7. Technical Vocabulary
 
@@ -105,5 +89,20 @@ citation has *prātimokṣakiyāpathaḥ*, while the explanatory prose uses
 *karmapatha*. The word-formation sentence at [207|19] is retained in
 the Bhāṣya study without conjectural interpretation. The witness's
 `kṣaṇeṣui` at [207|20–21] is normalized as *kṣaṇeṣu*.
+
+### Former Philosophical Translation
+
+### Interpretation
+
+The Bhāṣya does not treat restraint as mere inactivity. It is
+non-action with respect to the evil deed it prevents, but activity with
+respect to the restraint's own production. The distinction lets the
+commentary call restraint *karma* without claiming that it is the
+prohibited deed.
+
+For the Organon, this supports reading restraint as a positively
+undertaken practical determination. Cetanā is not named in this unit;
+connecting the undertaking to the project's Cetanā framework is an
+Organon interpretation, not the Bhāṣya's wording here.
 
 ## 10. OWL++ Seed

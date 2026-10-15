@@ -19,7 +19,7 @@ The running unit begins with the transition to abandonment at
 [222|26–27] in `Vasubandhu/Sources/kosabhasya.txt`. The
 alternative theories introduced at [223|01] belong to 4.39.
 
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
 ```iast
 tyāga idānīṃ vaktavyaḥ / tatra tāvat

@@ -27,24 +27,6 @@ subjects that position to sustained criticism.
 
 ## 3. Lexical Analysis
 
-```text
-patanīyena
-ca
-iti
-eke
-
-sat-dharma-antardhitaḥ
-apare
-
-dhana-ṛṇa-vat
-tu
-kāśmīraiḥ
-
-āpannasya
-iṣyate
-dvayam
-```
-
 | Form | Morphology | Lexical value here |
 |---|---|---|
 | `patanīyena` | instrumental neuter singular | through an offense entailing downfall or defeat |
@@ -148,14 +130,14 @@ determinations.
 
 ## 5. Translation
 
-### Literal Translation
+### Literal
 
 > Some say [prātimokṣa restraint is abandoned] also through a downfall
 > offense; others, through disappearance of the true Dharma. The Kāśmīras,
 > however, maintain that the offender has both [restraint and misconduct], as
 > one may have both wealth and debt.
 
-### Bhāṣya-informed study translation
+### Bhāṣya-informed
 
 > Some authorities hold that committing one of the four root downfall
 > offenses destroys bhikṣu or śrāmaṇera restraint. Others hold that
@@ -171,18 +153,7 @@ argument does not leave the Kāśmīra position unchallenged.
 
 ## 6. Philosophical Translation
 
-> A contrary determination need not automatically erase a previously
-> acquired practical form; opposition and non-possession are different. Yet
-> this coexistence principle has a limit. A grave act may not merely oppose
-> one rule within the form: it may destroy a root-constituting condition upon
-> which the remainder’s capacity depends. The problem is therefore not
-> settled either by simple cancellation or by unrestricted coexistence. One
-> must determine whether the violated part is local or constitutive of the
-> whole.
-
-The disappearance of an institution introduces a different distinction. The
-loss of procedures capable of generating new restraint does not retroactively
-destroy restraint already acquired.
+> Some say [prātimokṣa restraint is abandoned] also through a downfall offense; others, through disappearance of the true Dharma. The Kāśmīras, however, maintain that the offender has both [restraint and misconduct], as one may have both wealth and debt.
 
 ## 7. Technical Vocabulary
 
@@ -440,6 +411,21 @@ must be separately identified.
 This is the Organon contact: coexistence, root-destruction, residual form,
 generative capacity, and institutional acquisition. The school positions,
 scriptural dispute, and final conclusion belong to the Bhāṣya.
+
+### Former Philosophical Translation
+
+> A contrary determination need not automatically erase a previously
+> acquired practical form; opposition and non-possession are different. Yet
+> this coexistence principle has a limit. A grave act may not merely oppose
+> one rule within the form: it may destroy a root-constituting condition upon
+> which the remainder’s capacity depends. The problem is therefore not
+> settled either by simple cancellation or by unrestricted coexistence. One
+> must determine whether the violated part is local or constitutive of the
+> whole.
+
+The disappearance of an institution introduces a different distinction. The
+loss of procedures capable of generating new restraint does not retroactively
+destroy restraint already acquired.
 
 ## 10. OWL++ Seed
 

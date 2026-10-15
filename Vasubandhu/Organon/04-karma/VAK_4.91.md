@@ -16,11 +16,6 @@ sva-bhūmi-dharmāś catvāri trīṇi dve vānya-bhūmikāḥ /
 
 ## 3. Lexical Analysis
 
-```text
-sva-bhūmi-dharmāḥ | catvāri | trīṇi | dve | vā | anya-bhūmikāḥ |
-śaikṣasya | trīṇi | śaikṣa-ādyāḥ | aśaikṣasya | tu | karmaṇaḥ
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | `sva-bhūmi-dharmāḥ` | nominative masculine plural compound | result-dharmas belonging to the same classified level as the causal action |
@@ -110,13 +105,13 @@ predicate and numerical distribution occur in VAK 4.92.
 
 ## 5. Translation
 
-### Scientific English Rendering
+### Literal
 
 > Dharmas of the same level have four results; those of another level have
 > three or two. For trainee action, dharmas beginning with the trainee class
 > have three results; but for the action of one beyond training—
 
-### Bhāṣya-informed study translation
+### Bhāṣya-informed
 
 > Result-dharmas belonging to the same level as their causal action can stand
 > to it through maturation, corresponding, activity-produced, and dominant
@@ -136,29 +131,7 @@ row are Bhāṣya determinations.
 
 ## 6. Philosophical Translation
 
-> Causal efficacy is restricted not simply by the level of an isolated term,
-> but by the relation between the levels of source and result. Activity is most
-> richly continuous within its own ground; across grounds, correspondence and
-> maturation become progressively restricted, while active production and
-> dominant conditioning retain the broadest reach. The same causal structure
-> is then redetermined through the agent's station on the Path: training,
-> completion of training, or neither.
-
-The developed form is:
-
-```text
-source-level
-    × result-level
-    × same/different-level relation
-    × Influx status
-    × path-status of source and result
-    × result-relation
-```
-
-Hegelian-transcendental comprehension reveals `bhūmi` as a determinate ground:
-not a container in which causes happen to reside, but an organized field that
-conditions what can reproduce itself, cross into another level, or become a
-liberative result.
+> Dharmas of the same level have four results; those of another level have three or two. For trainee action, dharmas beginning with the trainee class have three results; but for the action of one beyond training—
 
 ## 7. Technical Vocabulary
 
@@ -332,6 +305,32 @@ The unfinished final phrase is conceptually appropriate. Beyond-training is
 not supplied as an isolated definition; its causal meaning emerges only in
 the continuation of the matrix. The syntax requires the next verse because
 the Concept being expressed exceeds the boundary of this one.
+
+### Former Philosophical Translation
+
+> Causal efficacy is restricted not simply by the level of an isolated term,
+> but by the relation between the levels of source and result. Activity is most
+> richly continuous within its own ground; across grounds, correspondence and
+> maturation become progressively restricted, while active production and
+> dominant conditioning retain the broadest reach. The same causal structure
+> is then redetermined through the agent's station on the Path: training,
+> completion of training, or neither.
+
+The developed form is:
+
+```text
+source-level
+    × result-level
+    × same/different-level relation
+    × Influx status
+    × path-status of source and result
+    × result-relation
+```
+
+Hegelian-transcendental comprehension reveals `bhūmi` as a determinate ground:
+not a container in which causes happen to reside, but an organized field that
+conditions what can reproduce itself, cross into another level, or become a
+liberative result.
 
 ## 10. OWL++ Seed
 

@@ -35,12 +35,6 @@ separate bases of prātimokṣa restraint.
 
 ## 3. Lexical Analysis
 
-```text
-naiḥṣyandikī ca sattva-ākhyā /
-niṣyanda-upātta-bhūta-jā /
-samādhi-jā aupacayikā an-upātta-abhinna-bhūta-jā
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | naiḥṣyandikī | nominative feminine singular adjective | homogeneous-outflow-derived |
@@ -57,7 +51,7 @@ Both hemistichs share the understood subject `avijñaptiḥ`. The first coordina
 
 ## 5. Translation
 
-### Literal Translation
+### Literal
 
 > [Non-disclosing continuity] is homogeneous-outflow-derived and designated in
 > relation to a sentient being, born from homogeneous-outflow-derived,
@@ -65,7 +59,7 @@ Both hemistichs share the understood subject `avijñaptiḥ`. The first coordina
 > cultivation-produced, non-appropriated, and born from an undivided
 > Great-Element basis.
 
-### Bhāṣya-informed study translation
+### Bhāṣya-informed
 
 > At a non-concentrated level, `avijñapti` is a homogeneous causal
 > continuation designated in relation to a sentient continuum. It arises in
@@ -82,14 +76,7 @@ contrast with `prātimokṣa` are determinations supplied by the Bhāṣya.
 
 ## 6. Philosophical Translation
 
-### Interpretation
-
-The first line describes ordinary `avijñapti` as a homogeneous continuation
-associated with a sentient continuum and dependent on appropriated Great
-Elements and mental factors. The second describes restraint born from samādhi:
-it is cultivated, non-appropriated, and supported by one undivided set of Great
-Elements. The Bhāṣya contrasts this shared basis with the distinct bases of
-prātimokṣa restraint.
+> [Non-disclosing continuity] is homogeneous-outflow-derived and designated in relation to a sentient being, born from homogeneous-outflow-derived, appropriated Great Elements. That born from concentration is cultivation-produced, non-appropriated, and born from an undivided Great-Element basis.
 
 ## 7. Technical Vocabulary
 
@@ -139,6 +126,17 @@ and restraint born from samādhi, supported by a common undivided set of Great
 Elements. It contrasts the latter with prātimokṣa restraint, whose seven
 non-disclosing continuities have distinct bases. This unit does not develop a
 broader account of the Path or of samādhi's place in the whole chapter.
+
+### Former Philosophical Translation
+
+### Interpretation
+
+The first line describes ordinary `avijñapti` as a homogeneous continuation
+associated with a sentient continuum and dependent on appropriated Great
+Elements and mental factors. The second describes restraint born from samādhi:
+it is cultivated, non-appropriated, and supported by one undivided set of Great
+Elements. The Bhāṣya contrasts this shared basis with the distinct bases of
+prātimokṣa restraint.
 
 ## 10. OWL++ Seed
 

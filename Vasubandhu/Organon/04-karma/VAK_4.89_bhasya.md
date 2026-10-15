@@ -19,7 +19,7 @@ Together with 4.88, this verse completes a three-by-three matrix relating the
 ethical quality of action to the ethical quality of dharmas functioning as
 its results under the five technical result relations.
 
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
 ```iast
 aśubhasya śubhādyā dve trīṇi catvāry anukramam /

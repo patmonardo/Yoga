@@ -16,7 +16,7 @@ volition. The Bhāṣya constructs the permitted numbers from concrete
 configurations rather than treating the ten Courses of Action as freely combinable
 items.
 
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
 ```iast
 karmapathaprasaṅga evāyaṃ vartate. tatra vaktavyaṃ katibhiḥ karmapathaiḥ

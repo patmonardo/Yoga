@@ -17,7 +17,7 @@ The running Bhāṣya unit begins at [208|13] and ends at [209|03] in
 mind-following restraints of 4.17. The inquiry into how long manifest and
 non-manifest action are possessed begins a new unit at [209|04].
 
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
 ```iast
 punas tāv eva dhyānānāsravasaṃvarau prahāṇasaṃvarākhyāṃ labhete.

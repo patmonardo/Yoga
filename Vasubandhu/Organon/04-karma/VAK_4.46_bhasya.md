@@ -18,7 +18,7 @@ The Bhāṣya unit begins with `tatra tāvat` at [227|13] and ends at
 The research witness stops at [228|01]; the final two sentences
 below are recovered from the running source.
 
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
 ```iast
 tatra tāvat

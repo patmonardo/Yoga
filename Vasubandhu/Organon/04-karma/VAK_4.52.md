@@ -27,29 +27,7 @@ the Bhāṣya's explicit explanation of an Ārya liable to fall back.
 
 ## 3. Lexical Analysis
 
-```text
-yat-viraktaḥ
-sthiraḥ
-bālaḥ
-
-tatra
-na
-utpadya-vedya-kṛt
-
-na
-anya-vedya-kṛt
-api
-āryaḥ
-
-kāme
-agre
-vā
-asthiraḥ
-api
-na
-```
-
-| Form | Morphology | Lexical value here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `yadviraktaḥ` | nominative masculine singular compound | detached from whichever level |
 | `sthiraḥ` | nominative masculine singular | stable; not liable to fall back |
@@ -123,14 +101,14 @@ The sandhi `vāsthiraḥ` must be resolved as `vā asthiraḥ` for this syntax.
 
 ## 5. Translation
 
-### Literal Translation
+### Literal
 
 > A stable ordinary person detached from a given level does not produce karma
 > to be experienced there in the next rebirth. A stable noble person does not
 > produce the other future-result karma either; with respect to the Desire
 > Realm or the summit, even an unstable noble person does not.
 
-### Bhāṣya-informed study translation
+### Bhāṣya-informed
 
 > An ordinary person who is stably detached from a level produces no karma
 > to be experienced in the next birth in that level. A stable noble person
@@ -146,14 +124,7 @@ supplied by the Bhāṣya.
 
 ## 6. Philosophical Translation
 
-> The Path changes the modal range of karmic production. Stable detachment does
-> not merely make a future rebirth unlikely; it removes the capacity to produce
-> the karma whose fruition would require return to the abandoned level. The
-> transformation of the continuum therefore contracts its field of possible
-> actions and, through them, its field of possible future worlds.
-
-This restriction concerns newly producible karma. It does not by itself state
-that every previously accumulated karmic determination has been destroyed.
+> A stable ordinary person detached from a given level does not produce karma to be experienced there in the next rebirth. A stable noble person does not produce the other future-result karma either; with respect to the Desire Realm or the summit, even an unstable noble person does not.
 
 ## 7. Technical Vocabulary
 
@@ -290,6 +261,17 @@ Bhāṣya's entire final explanation intelligible.
 
 This is the Organon contact. The practitioner distinctions, impossibility of
 return, and fall-from-fruit explanation belong to the Bhāṣya.
+
+### Former Philosophical Translation
+
+> The Path changes the modal range of karmic production. Stable detachment does
+> not merely make a future rebirth unlikely; it removes the capacity to produce
+> the karma whose fruition would require return to the abandoned level. The
+> transformation of the continuum therefore contracts its field of possible
+> actions and, through them, its field of possible future worlds.
+
+This restriction concerns newly producible karma. It does not by itself state
+that every previously accumulated karmic determination has been destroyed.
 
 ## 10. OWL++ Seed
 

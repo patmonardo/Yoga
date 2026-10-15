@@ -16,7 +16,7 @@ The first half completes the preceding inquiry into the three unwholesome
 roots. The second applies the three-phase form of VAK 4.68 to wholesome
 courses and explains their genesis from wholesome consciousness.
 
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
 ```iast
 abhidhyādayaḥ kathaṃ lobhajāḥ /

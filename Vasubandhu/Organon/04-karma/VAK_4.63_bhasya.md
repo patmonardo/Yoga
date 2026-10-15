@@ -15,7 +15,7 @@ dṛgdheyaṃ kṛṣṇam anye 'nyat kṛṣṇaśuklaṃ tu kāmajam // 4.63 /
 The verse reports **other teachers'** classifications; it does
 not silently replace Vasubandhu's preceding allocation.
 
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
 ```iast
 anye narakavedyānyakāmavedyaṃ dvayaṃ viduḥ /

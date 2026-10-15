@@ -19,12 +19,6 @@ fourfold classification by adding uncontaminated Cognition as neither.
 
 ## 3. Lexical Analysis
 
-```text
-pravartakam dṛṣṭi-heyam vijñānam /
-ubhayam punaḥ mānasam bhāvanā-heyam /
-pañcakam tu anuvartakam
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | pravartakam | nominative neuter singular | initiating |
@@ -44,13 +38,13 @@ The first clause identifies `dṛṣṭiheyaṃ vijñānam` as `pravartakam`. Th
 
 ## 5. Translation
 
-### Close Translation
+### Literal
 
 > Cognition abandoned by seeing is initiating. Mind-Cognition abandoned
 > through cultivation does both; the five [sensory Cognitions], however, are
 > accompanying.
 
-### Bhāṣya-informed Study Translation
+### Bhāṣya-informed
 
 > Cognition abandoned by seeing initiates manifestation but does not
 > accompany its performance. Mind-Cognition abandoned through cultivation
@@ -64,19 +58,7 @@ in the verse.
 
 ## 6. Philosophical Translation
 
-### Interpretation
-
-The fourfold account classifies Cognitions by their role relative to
-manifestation, not by an all-purpose measure of their efficacy. The Bhāṣya
-distinguishes an initiating causal basis from the condition present during
-performance and resists automatically transferring a cause's path
-classification to produced Form.
-
-In the Kośa's broader system, Discriminative Cognition (*vijñāna*) governs
-Mind (*manas*) and guides Dharma Base; keep it distinct from the
-consciousness (*citta*) named in the Bhāṣya's causal explanation and from
-manifestation (*vijñapti*). The same `avijñapti` is classified in Form Base
-and Dharma Base, with *vijñāna* bearing the stated *prati* relation to it.
+> Cognition abandoned by seeing is initiating. Mind-Cognition abandoned through cultivation does both; the five [sensory Cognitions], however, are accompanying.
 
 ## 7. Technical Vocabulary
 
@@ -109,5 +91,21 @@ The running witness alternates `pravartaka` and `pravarttaka`. The exchange
 concerning produced Form, Great Elements, and abandonment is compressed;
 fine speaker assignments and the exact scope of the cited Abhidharma claim
 remain provisional. The fourfold conclusion itself is explicit.
+
+### Former Philosophical Translation
+
+### Interpretation
+
+The fourfold account classifies Cognitions by their role relative to
+manifestation, not by an all-purpose measure of their efficacy. The Bhāṣya
+distinguishes an initiating causal basis from the condition present during
+performance and resists automatically transferring a cause's path
+classification to produced Form.
+
+In the Kośa's broader system, Discriminative Cognition (*vijñāna*) governs
+Mind (*manas*) and guides Dharma Base; keep it distinct from the
+consciousness (*citta*) named in the Bhāṣya's causal explanation and from
+manifestation (*vijñapti*). The same `avijñapti` is classified in Form Base
+and Dharma Base, with *vijñāna* bearing the stated *prati* relation to it.
 
 ## 10. OWL++ Seed

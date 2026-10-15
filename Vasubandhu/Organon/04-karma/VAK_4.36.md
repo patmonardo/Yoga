@@ -27,24 +27,6 @@ then uses degrees of mental strength in its detailed classification.
 
 ## 3. Lexical Analysis
 
-```text
-saṃvaraḥ
-sarva-sattvebhyaḥ
-
-vibhāṣā
-tu
-aṅga-kāraṇaiḥ
-
-asaṃvaraḥ
-tu
-sarvebhyaḥ
-
-sarva-aṅgebhyaḥ
-
-na
-kāraṇaiḥ
-```
-
 | Form | Morphology | Lexical value here |
 |---|---|---|
 | `saṃvaraḥ` | nominative masculine singular | restraint |
@@ -165,14 +147,14 @@ fewer beings within those predicates
 
 ## 5. Translation
 
-### Literal Translation
+### Literal
 
 > Restraint is acquired with respect to all beings, but there are
 > differentiated alternatives according to its limbs and causes.
 > Non-restraint, however, is acquired with respect to all beings and all
 > limbs, though not through all causes.
 
-### Bhāṣya-informed study translation
+### Bhāṣya-informed
 
 > Prātimokṣa restraint necessarily extends to all beings, although its
 > karmapatha-limbs vary with the kind of restraint undertaken and its causal
@@ -186,18 +168,7 @@ complete non-restraint account to the Vaibhāṣikas are supplied by the Bhāṣ
 
 ## 6. Philosophical Translation
 
-> A restraint can be universal in extension without containing every possible
-> practical predicate. Its non-killing limb, for example, excludes every
-> being from the class of permitted victims, while the particular discipline
-> may contain four limbs rather than the complete monastic range. The
-> universality belongs to the intention’s unrestricted relation to beings;
-> content and intensity remain separately determined. The Vaibhāṣika account
-> gives non-restraint the same universal extension but treats it as an
-> integrated complex of all harmful limbs arising at a determinate strength.
-
-The Bhāṣya preserves a Sautrāntika objection to the final account: outside
-the fixed eightfold restraint systems, restraint and non-restraint may be
-partial according to what is actually undertaken.
+> Restraint is acquired with respect to all beings, but there are differentiated alternatives according to its limbs and causes. Non-restraint, however, is acquired with respect to all beings and all limbs, though not through all causes.
 
 ## 7. Technical Vocabulary
 
@@ -440,6 +411,21 @@ restraint or non-restraint.
 
 This is the Organon contact. The three axes, four combinations, five possible
 restrictions, reachability argument, and school dispute belong to the Bhāṣya.
+
+### Former Philosophical Translation
+
+> A restraint can be universal in extension without containing every possible
+> practical predicate. Its non-killing limb, for example, excludes every
+> being from the class of permitted victims, while the particular discipline
+> may contain four limbs rather than the complete monastic range. The
+> universality belongs to the intention’s unrestricted relation to beings;
+> content and intensity remain separately determined. The Vaibhāṣika account
+> gives non-restraint the same universal extension but treats it as an
+> integrated complex of all harmful limbs arising at a determinate strength.
+
+The Bhāṣya preserves a Sautrāntika objection to the final account: outside
+the fixed eightfold restraint systems, restraint and non-restraint may be
+partial according to what is actually undertaken.
 
 ## 10. OWL++ Seed
 

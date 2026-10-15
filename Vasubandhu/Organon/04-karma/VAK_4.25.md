@@ -26,19 +26,6 @@ The verse gives the two crossed cases announced by the Bhāṣya’s
 
 ## 3. Lexical Analysis
 
-```text
-vijñaptyā
-eva
-anvitaḥ
-kurvan
-madhyasthaḥ
-mṛdu-cetanaḥ
-
-tyakta-anutpanna-vijñaptiḥ
-avijñaptyā
-ārya-pudgalaḥ
-```
-
 | Form | Morphology | Lexical value here |
 |---|---|---|
 | `vijñaptyā` | instrumental feminine singular | with manifestation; with manifest action |
@@ -144,14 +131,14 @@ In either circumstance the noble person remains endowed with avijñapti.
 
 ## 5. Translation
 
-### Literal Translation
+### Literal
 
 > A person established in neither restraint nor non-restraint, acting with
 > weak intention, is endowed only with manifestation. A noble person whose
 > manifestation has been abandoned or has not arisen is endowed with
 > non-manifest action.
 
-### Bhāṣya-informed study translation
+### Bhāṣya-informed
 
 > A middle-position person performing wholesome or unwholesome action with
 > weak intention possesses the manifest action alone, without avijñapti. A
@@ -164,16 +151,7 @@ exclusions are supplied by the Bhāṣya.
 
 ## 6. Philosophical Translation
 
-> Manifestation and non-manifest karmic determination can be separated in
-> either direction. Weak volition may produce an actual bodily or verbal
-> manifestation without instituting a continuing avijñapti. Conversely, the
-> noble Path’s non-manifest restraint can remain possessed when no
-> corresponding manifestation is presently possessed—whether because it has
-> not yet arisen in the new birth or because it has been relinquished.
-
-The verse establishes distinct possession-relations. It does not reduce
-avijñapti to volition or claim that all strong volition necessarily produces
-the same kind of avijñapti.
+> A person established in neither restraint nor non-restraint, acting with weak intention, is endowed only with manifestation. A noble person whose manifestation has been abandoned or has not arisen is endowed with non-manifest action.
 
 ## 7. Technical Vocabulary
 
@@ -357,6 +335,19 @@ of manifest occurrence from those of continuing karmic attribution.
 This is an Organon reconstruction. Vasubandhu explicitly establishes the two
 crossed possession-cases and closes the local arrangement of vijñapti and
 avijñapti.
+
+### Former Philosophical Translation
+
+> Manifestation and non-manifest karmic determination can be separated in
+> either direction. Weak volition may produce an actual bodily or verbal
+> manifestation without instituting a continuing avijñapti. Conversely, the
+> noble Path’s non-manifest restraint can remain possessed when no
+> corresponding manifestation is presently possessed—whether because it has
+> not yet arisen in the new birth or because it has been relinquished.
+
+The verse establishes distinct possession-relations. It does not reduce
+avijñapti to volition or claim that all strong volition necessarily produces
+the same kind of avijñapti.
 
 ## 10. OWL++ Seed
 

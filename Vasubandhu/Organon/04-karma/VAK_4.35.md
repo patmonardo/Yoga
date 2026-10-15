@@ -26,17 +26,6 @@ Bhāṣya. Neither “all” nor “both” may be left as a vague universal.
 
 ## 3. Lexical Analysis
 
-```text
-sarva-ubhayebhyaḥ
-kāma-āptaḥ
-vartamānebhyaḥ
-āpyate
-
-maulebhyaḥ
-sarva-kālebhyaḥ
-dhyāna-anāsrava-saṃvarau
-```
-
 | Form | Morphology | Lexical value here |
 |---|---|---|
 | `sarvobhayebhyaḥ` | ablative plural compound | with respect to all three stages and both relevant divisions |
@@ -177,13 +166,13 @@ present act is already occurring.
 
 ## 5. Translation
 
-### Literal Translation
+### Literal
 
 > Desire-realm restraint is acquired, from present bases, with respect to all
 > and both. Meditation-born and uncontaminated restraint are acquired with
 > respect to root [karmapathas], from bases belonging to all times.
 
-### Bhāṣya-informed study translation
+### Bhāṣya-informed
 
 > Prātimokṣa restraint, which belongs to the desire realm, is acquired from
 > presently existing Bases, Essences, and Principles with respect to all
@@ -199,18 +188,7 @@ The three stages, the two binary divisions, and the `skandha`–`āyatana`–
 
 ## 6. Philosophical Translation
 
-> The three restraints do not form a scalar hierarchy in which each higher
-> form simply contains everything below it. Prātimokṣa is temporally grounded
-> in present embodied relations yet ranges broadly across preparation, root
-> action, aftermath, and both natural and prescribed faults. Meditation-born
-> and uncontaminated restraint penetrate the root karmic course across all
-> three times, but do not possess the same breadth across stages and
-> prohibition-types. Each restraint has a universality determined by its own
-> mode of acquisition.
-
-The temporal reach of the higher restraints must not be confused with the
-possibility of preventing completed action. Their acquisition concerns bases
-in all three times; restraint as prohibition bears upon future action.
+> Desire-realm restraint is acquired, from present bases, with respect to all and both. Meditation-born and uncontaminated restraint are acquired with respect to root [karmapathas], from bases belonging to all times.
 
 ## 7. Technical Vocabulary
 
@@ -416,6 +394,21 @@ acquisition.
 
 This is the Organon contact. The full decompositions, temporal doctrine, and
 four corners remain Bhāṣya determinations rather than additions to the verse.
+
+### Former Philosophical Translation
+
+> The three restraints do not form a scalar hierarchy in which each higher
+> form simply contains everything below it. Prātimokṣa is temporally grounded
+> in present embodied relations yet ranges broadly across preparation, root
+> action, aftermath, and both natural and prescribed faults. Meditation-born
+> and uncontaminated restraint penetrate the root karmic course across all
+> three times, but do not possess the same breadth across stages and
+> prohibition-types. Each restraint has a universality determined by its own
+> mode of acquisition.
+
+The temporal reach of the higher restraints must not be confused with the
+possibility of preventing completed action. Their acquisition concerns bases
+in all three times; restraint as prohibition bears upon future action.
 
 ## 10. OWL++ Seed
 

@@ -19,12 +19,6 @@ the respective mapping and the contents of each scope.
 
 ## 3. Lexical Analysis
 
-```text
-pañca-aṣṭa-daśa-sarvebhyaḥ /
-varjyebhyaḥ virati-grahāt /
-upāsaka-upavāsastha-śramaṇa-uddeśa-bhikṣutā
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | pañca | numeral | five |
@@ -48,13 +42,13 @@ The coordinated numerals `pañca`, `aṣṭa`, `daśa`, and `sarvebhyaḥ` quali
 
 ## 5. Translation
 
-### Close Translation
+### Literal
 
 > Through undertaking abstention from five, eight, ten, or all things to
 > be avoided, there is, respectively, lay-follower status, the status of
 > one established in *upavāsa*, novice designation, and monk status.
 
-### Bhāṣya-informed Study Translation
+### Bhāṣya-informed
 
 > One is established in lay restraint by undertaking abstention from five
 > prohibited actions; in the *upavāsa* observance by undertaking eight;
@@ -69,17 +63,7 @@ The respective order and enumeration are specified in the Bhāṣya.
 
 ## 6. Philosophical Translation
 
-### Interpretation
-
-The verse makes undertaken abstention—not the status-name alone—the
-organizing principle of the fourfold scheme. Its counts describe distinct
-scopes of practical discipline, including the Bhāṣya's regrouping of
-adornment and entertainment in the novice count.
-
-In the Organon reading, this gives practical Cetanā a specified field of
-restraint: what is undertaken and the range of action from which one
-abstains. This is an Organon application of the Bhāṣya's explicit focus
-on *virati-samādāna*.
+> Through undertaking abstention from five, eight, ten, or all things to be avoided, there is, respectively, lay-follower status, the status of one established in upavāsa, novice designation, and monk status.
 
 ## 7. Technical Vocabulary
 
@@ -99,5 +83,19 @@ continuous Sanskrit text; the kārikā has `pañca`. The list at [207|03–06]
 is densely compounded. Its category divisions are provisional and follow
 the stated totals and the Bhāṣya's instruction that adornment and
 entertainment be counted separately for the tenfold undertaking.
+
+### Former Philosophical Translation
+
+### Interpretation
+
+The verse makes undertaken abstention—not the status-name alone—the
+organizing principle of the fourfold scheme. Its counts describe distinct
+scopes of practical discipline, including the Bhāṣya's regrouping of
+adornment and entertainment in the novice count.
+
+In the Organon reading, this gives practical Cetanā a specified field of
+restraint: what is undertaken and the range of action from which one
+abstains. This is an Organon application of the Bhāṣya's explicit focus
+on *virati-samādāna*.
 
 ## 10. OWL++ Seed

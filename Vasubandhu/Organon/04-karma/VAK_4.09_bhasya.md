@@ -20,7 +20,7 @@
 “Those factors” refers to the wholesome roots, `hrī`, and `apatrāpya` in
 VAK 4.08. The kārikā study is `VAK_4.09.md`.
 
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
 ```iast
 saṃprayogeṇa tadyuktāḥ.
@@ -68,7 +68,7 @@ The compressed `prāptinirodhāsaṃjñisamāpattayas` is read as naming
 separate treatment in Chapter 2. The question about certain `prāptis` is
 explicitly left unresolved by the commentary.
 
-## 3. Continuous Translation
+## 3. Continuous Conventional Translation
 
 “Those associated with them are wholesome through association.” Dharmas
 associated with the wholesome roots, `hrī`, and `apatrāpya` are wholesome

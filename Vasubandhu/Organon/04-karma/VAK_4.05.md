@@ -30,11 +30,6 @@ who, born in a given level, produces uncontaminated bodily or verbal karma.
 
 ## 3. Lexical Analysis
 
-```text
-sva-āni bhūta-āni up-ādāya kāya-vāk-karma sa-āsravam /
-an-āsravam yatra jātaḥ avijñaptiḥ an-upāttikā
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | svāni bhūtāni | accusative neuter plural | its own Great Elements; the Bhāṣya specifies those of the same level |
@@ -52,7 +47,7 @@ The first pāda predicates `sāsravam` of `kāya-vāk-karma`; `svāni bhūtāni 
 
 ## 5. Translation
 
-### Literal Translation
+### Literal
 
 > Contaminated bodily and verbal karma depends upon its own Great Elements.
 > Uncontaminated [karma depends upon the Great Elements of the level] where
@@ -60,7 +55,7 @@ The first pāda predicates `sāsravam` of `kāya-vāk-karma`; `svāni bhūtāni 
 
 The bracketed terms are syntactically supplied from the Bhāṣya.
 
-### Bhāṣya-informed study translation
+### Bhāṣya-informed
 
 > Contaminated bodily and verbal karma depends upon the Great Elements of
 > its own level. Uncontaminated bodily and verbal karma has no separate
@@ -75,15 +70,7 @@ Bhāṣya determinations.
 
 ## 6. Philosophical Translation
 
-### Interpretation
-
-For contaminated bodily and verbal karma, the Bhāṣya matches the karma's level
-with the Great Elements supporting it. Uncontaminated karma has no separate
-uncontaminated Great Elements; it is produced through the Great Elements
-of the level in which its producer is born. The passage distinguishes the
-status of the karma from the level of its support. It then states that
-`avijñapti`—non-disclosing continuity—is non-appropriated, without explaining
-that classification further here.
+> Contaminated bodily and verbal karma depends upon its own Great Elements. Uncontaminated [karma depends upon the Great Elements of the level] where [its producer] is born. Non-disclosing continuity is non-appropriated.
 
 ## 7. Technical Vocabulary
 
@@ -121,7 +108,6 @@ Form-classified
 
 ## 8. Logical Determination
 
-
 Contaminated bodily and verbal action → its own Elements; the second pāda qualifies uncontaminated action by its level of arising and names non-disclosing continuity as non-appropriated.
 
 ## 9. Interpretive Note
@@ -130,6 +116,18 @@ The Bhāṣya distinguishes the level of the karma from the level of the Great
 Principles that support it. It then states that `avijñapti` is
 non-appropriated, without explaining this property further in the present
 unit.
+
+### Former Philosophical Translation
+
+### Interpretation
+
+For contaminated bodily and verbal karma, the Bhāṣya matches the karma's level
+with the Great Elements supporting it. Uncontaminated karma has no separate
+uncontaminated Great Elements; it is produced through the Great Elements
+of the level in which its producer is born. The passage distinguishes the
+status of the karma from the level of its support. It then states that
+`avijñapti`—non-disclosing continuity—is non-appropriated, without explaining
+that classification further here.
 
 ## 10. OWL++ Seed
 

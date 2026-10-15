@@ -14,7 +14,7 @@ daśa karmapathā uktā yathāyogaṃ śubhāśubhāḥ // 4.66 //
 The ten are a selection from a wider ethical field, not an
 exhaustive list of everything good or bad one can do.
 
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
 ```iast
 viparyayātsucaritam

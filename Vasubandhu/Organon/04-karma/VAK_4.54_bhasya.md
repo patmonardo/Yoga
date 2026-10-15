@@ -19,7 +19,7 @@ The unit begins with the question at [231|22] and ends at [232|04].
 The next question, concerning present-life-result karma, begins at
 [232|05].
 
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
 ```iast
 kīdṛśaṃ karma niyataṃ veditavyam /

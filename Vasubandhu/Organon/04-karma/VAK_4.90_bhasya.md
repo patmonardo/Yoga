@@ -18,7 +18,7 @@ madhyamā dve 'jātasya phalāni trīṇy anāgatāḥ // 4.90 //
 The verse rotates the causal matrix again. After classifying action and result
 by ethical quality, it now indexes both sides of the result relation by time.
 
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
 ```iast
 sarve 'tītasya catvāri

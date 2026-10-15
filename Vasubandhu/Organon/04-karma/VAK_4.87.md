@@ -16,11 +16,6 @@ caturbhir amale 'nyac ca sāsravaṃ yac chubhāśubham // 4.87 //
 
 ## 3. Lexical Analysis
 
-```text
-prahāṇa-mārge | samale | sa-phalam | karma | pañcabhiḥ |
-caturbhiḥ | amale | anyat | ca | sa-āsravam | yat | śubha-aśubham
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | `prahāṇa-mārge` | locative masculine singular compound | in the path that directly abandons affliction |
@@ -96,13 +91,13 @@ instrumental numerals therefore do not imply identical result-sets.
 
 ## 5. Translation
 
-### Scientific English Rendering
+### Literal
 
 > In the Path of Abandonment with stain, action possesses five results. In
 > the Path of Abandonment without stain it possesses four; so too does other
 > action with Influx, whether wholesome or unwholesome.
 
-### Bhāṣya-informed study translation
+### Bhāṣya-informed
 
 > In the Path of Abandonment with stain, action stands in all five
 > result-relations: maturation result, corresponding result,
@@ -116,34 +111,7 @@ different exclusions are supplied by the Bhāṣya.
 
 ## 6. Philosophical Translation
 
-> The result-profile of an operation is determined by what the operation is
-> capable of doing within its concrete field. Action in the Path of
-> Abandonment with stain can still reproduce conditioned existence and yet,
-> as the uninterrupted operation of abandoning, also effect disconnection.
-> Action in the Path of Abandonment without stain achieves disconnection
-> without generating another maturation. Other action with Influx continues
-> the causal reproduction of existence but does not, merely by being
-> wholesome or unwholesome, break the bond to affliction.
-
-The dialectical structure is:
-
-```text
-Path of Abandonment with stain
-    preserves the power of maturation
-    and negates afflictive conjunction
-
-Path of Abandonment without stain
-    negates afflictive conjunction
-    without reproducing maturation
-
-other action with Influx
-    reproduces maturation
-    without achieving disconnection
-```
-
-The same numerical total—four—can therefore express opposite logical
-determinations. What matters is not quantity alone but the Concept of the
-operation expressed through the exact structure of its results.
+> In the Path of Abandonment with stain, action possesses five results. In the Path of Abandonment without stain it possesses four; so too does other action with Influx, whether wholesome or unwholesome.
 
 ## 7. Technical Vocabulary
 
@@ -331,6 +299,37 @@ which determination has been negated and which has been preserved. One profile
 has overcome maturation while preserving disconnection; the other preserves
 maturation because it lacks the power of disconnection. Their equality is
 quantitative, but their truth is structurally opposed.
+
+### Former Philosophical Translation
+
+> The result-profile of an operation is determined by what the operation is
+> capable of doing within its concrete field. Action in the Path of
+> Abandonment with stain can still reproduce conditioned existence and yet,
+> as the uninterrupted operation of abandoning, also effect disconnection.
+> Action in the Path of Abandonment without stain achieves disconnection
+> without generating another maturation. Other action with Influx continues
+> the causal reproduction of existence but does not, merely by being
+> wholesome or unwholesome, break the bond to affliction.
+
+The dialectical structure is:
+
+```text
+Path of Abandonment with stain
+    preserves the power of maturation
+    and negates afflictive conjunction
+
+Path of Abandonment without stain
+    negates afflictive conjunction
+    without reproducing maturation
+
+other action with Influx
+    reproduces maturation
+    without achieving disconnection
+```
+
+The same numerical total—four—can therefore express opposite logical
+determinations. What matters is not quantity alone but the Concept of the
+operation expressed through the exact structure of its results.
 
 ## 10. OWL++ Seed
 

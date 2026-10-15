@@ -26,24 +26,7 @@ bodily maturation that immediately conditions it.
 
 ## 3. Lexical Analysis
 
-```text
-citta-kṣepaḥ
-manaḥ-citte
-
-saḥ
-ca
-karma-vipāka-jaḥ
-
-bhaya
-upaghāta
-vaiṣamya
-śokaiḥ
-ca
-
-a-kuru-kāminām
-```
-
-| Form | Morphology | Lexical value here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `cittakṣepaḥ` | nominative masculine singular compound | derangement or displacement of mental functioning |
 | `manaścitte` | locative neuter singular compound | in mental cognition; in manovijñāna |
@@ -121,13 +104,13 @@ range of beings in the text's cosmology.
 
 ## 5. Translation
 
-### Literal Translation
+### Literal
 
 > Mental derangement occurs in mental cognition. It may be born from karmic
 > maturation and may also arise through fear, injury, bodily imbalance, or
 > grief among those designated by the disputed `akurukāminām`.
 
-### Bhāṣya-informed study translation
+### Bhāṣya-informed
 
 > Mental derangement occurs in `manovijñāna`, not in the five non-conceptual
 > sensory knowledge-series. It can arise downstream from karmic maturation:
@@ -144,16 +127,7 @@ supplied by the Bhāṣya.
 
 ## 6. Philosophical Translation
 
-> A karmic Ground need not appear immediately in the form of its final
-> consequence. Past action first becomes actual as a matured bodily condition;
-> that transformed basis then conditions a disturbance of mental functioning.
-> Ground, immediate maturation, proximate condition, and manifest effect are
-> distinct moments of one dependent causal process. To say that derangement is
-> “born from maturation” therefore preserves mediation rather than identifying
-> the appearance with its Ground.
-
-The same manifest condition may also arise through present fear, injury,
-imbalance, or grief without every case being reduced to one karmic explanation.
+> Mental derangement occurs in mental cognition. It may be born from karmic maturation and may also arise through fear, injury, bodily imbalance, or grief among those designated by the disputed `akurukāminām`.
 
 ## 7. Technical Vocabulary
 
@@ -322,6 +296,19 @@ same judgment.
 This is the Organon contact. The sensory exclusion, examples, mediate bodily
 cause, humoral language, and fourfold distinction belong to the Bhāṣya; the
 twofold Dependent Origination formulation is project synthesis.
+
+### Former Philosophical Translation
+
+> A karmic Ground need not appear immediately in the form of its final
+> consequence. Past action first becomes actual as a matured bodily condition;
+> that transformed basis then conditions a disturbance of mental functioning.
+> Ground, immediate maturation, proximate condition, and manifest effect are
+> distinct moments of one dependent causal process. To say that derangement is
+> “born from maturation” therefore preserves mediation rather than identifying
+> the appearance with its Ground.
+
+The same manifest condition may also arise through present fear, injury,
+imbalance, or grief without every case being reduced to one karmic explanation.
 
 ## 10. OWL++ Seed
 

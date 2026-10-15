@@ -27,22 +27,6 @@ concentration and the practitioner entered into the noble Path.
 
 ## 3. Lexical Analysis
 
-```text
-samāhita
-ārya-mārga-sthau
-tau
-yuktau
-vartamānayā
-
-madhyasthasya
-asti
-cet
-ādau
-madhyayā
-ūrdhvam
-dvi-kālayā
-```
-
 | Form | Morphology | Lexical value here |
 |---|---|---|
 | `samāhita` | prior-participial/adjectival member of a compressed dual construction | concentrated; entered into concentration |
@@ -148,13 +132,13 @@ non-abandonment, continues to govern this possession.
 
 ## 5. Translation
 
-### Literal Translation
+### Literal
 
 > The concentrated practitioner and the one established in the noble Path are
 > joined with present avijñapti. If one standing in the middle possesses
 > avijñapti, at first it is possessed as present, and afterward in two times.
 
-### Bhāṣya-informed study translation
+### Bhāṣya-informed
 
 > The practitioner actually entered into concentration and the practitioner
 > actually entered into the noble Path are respectively endowed with present
@@ -170,16 +154,7 @@ are supplied by the Bhāṣya.
 
 ## 6. Philosophical Translation
 
-> Mind-following restraint exists presently only with its corresponding
-> consciousness: meditation restraint while concentration is occurring, and
-> uncontaminated restraint while the noble Path is occurring. A person
-> established in neither restraint nor non-restraint has no necessary
-> avijñapti-system, yet a particular deed may produce an occasional
-> non-manifest determination. In its first moment that determination is
-> present; afterward it is possessed as both present and past.
-
-This distinguishes state-dependent restraint from occasional karmic
-determination without converting the `madhyastha` into a metaphysical Middle.
+> The concentrated practitioner and the one established in the noble Path are joined with present avijñapti. If one standing in the middle possesses avijñapti, at first it is possessed as present, and afterward in two times.
 
 ## 7. Technical Vocabulary
 
@@ -372,6 +347,19 @@ be made the universal model of the other.
 This is an Organon reconstruction. Vasubandhu’s explicit claims concern
 present possession during concentration or Path, its absence when emerged,
 and the conditional temporal possession of a middle person’s avijñapti.
+
+### Former Philosophical Translation
+
+> Mind-following restraint exists presently only with its corresponding
+> consciousness: meditation restraint while concentration is occurring, and
+> uncontaminated restraint while the noble Path is occurring. A person
+> established in neither restraint nor non-restraint has no necessary
+> avijñapti-system, yet a particular deed may produce an occasional
+> non-manifest determination. In its first moment that determination is
+> present; afterward it is possessed as both present and past.
+
+This distinguishes state-dependent restraint from occasional karmic
+determination without converting the `madhyastha` into a metaphysical Middle.
 
 ## 10. OWL++ Seed
 

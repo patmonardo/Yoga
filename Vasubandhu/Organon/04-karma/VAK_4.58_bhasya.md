@@ -20,7 +20,7 @@ bhayopaghātavaiṣamyaśokaiś cākurukāminām // 4.58 //
 The last phrase follows the Bhāṣya's own expansion of the compressed
 `akurukāminām`; its exact word division deserves further review.
 
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
 ```iast
 yattarhi sattvānāṃ cittakṣepo bhavati / katamasminnasau citte

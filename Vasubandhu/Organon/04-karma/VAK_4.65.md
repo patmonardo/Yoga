@@ -26,21 +26,6 @@ karma in their own nature.
 
 ## 3. Lexical Analysis
 
-```text
-aśubham
-kāya-karma-ādi
-matam
-duścarita-trayam
-
-akarma
-api
-tu
-
-abhidhyā-ādi
-manaḥ-duścaritam
-tridhā
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | `aśubham` | nominative neuter singular | unwholesome |
@@ -113,13 +98,13 @@ conduct does not entail classification as karma.
 
 ## 5. Translation
 
-### Scientific English Rendering
+### Literal
 
 > Unwholesome bodily karma and the rest are held to be the threefold bad
 > conduct. But covetousness and the others, although not karma, constitute
 > threefold mental bad conduct.
 
-### Bhāṣya-informed study translation
+### Bhāṣya-informed
 
 > Unwholesome bodily action and the rest are held to be the three kinds of bad
 > conduct. Yet mental bad conduct beginning with covetousness is threefold,
@@ -137,16 +122,7 @@ are supplied by the Bhāṣya.
 
 ## 6. Philosophical Translation
 
-> Bad conduct has a broader extension than strict karma. Covetousness, hostility,
-> and false view already constitute bad mental conduct because they configure
-> the avenue through which volition proceeds, yet they are not themselves
-> volition or karma. The affliction is neither identical with the act nor
-> externally unrelated to it: it shapes the practical direction through which
-> volition becomes karmic activity. Affliction, volition, and action remain
-> distinct within this mediated relation.
-
-False view is consequently practical deformation without being redescribed as
-strict karma in Vasubandhu's taxonomy.
+> Unwholesome bodily karma and the rest are held to be the threefold bad conduct. But covetousness and the others, although not karma, constitute threefold mental bad conduct.
 
 ## 7. Technical Vocabulary
 
@@ -338,6 +314,19 @@ determination proceeds. VAK 4.66 selects ten such paths.
 This is the Organon contact. The school dispute, categorical objection,
 scriptural resolution, and undesirable-result definition belong to the Bhāṣya;
 Rational Karma is project synthesis.
+
+### Former Philosophical Translation
+
+> Bad conduct has a broader extension than strict karma. Covetousness, hostility,
+> and false view already constitute bad mental conduct because they configure
+> the avenue through which volition proceeds, yet they are not themselves
+> volition or karma. The affliction is neither identical with the act nor
+> externally unrelated to it: it shapes the practical direction through which
+> volition becomes karmic activity. Affliction, volition, and action remain
+> distinct within this mediated relation.
+
+False view is consequently practical deformation without being redescribed as
+strict karma in Vasubandhu's taxonomy.
 
 ## 10. OWL++ Seed
 

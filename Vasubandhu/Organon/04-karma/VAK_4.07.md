@@ -37,12 +37,6 @@ determination.
 
 ## 3. Lexical Analysis
 
-```text
-na avyākṛtā asti avijñaptiḥ /
-tridhā anyat aśubham punaḥ /
-kāme rūpe api avijñaptiḥ vijñaptiḥ sa-vicārayoḥ
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | na avyākṛtā | negative particle and nominative feminine singular adjective | excludes ethically indeterminate `avijñapti` |
@@ -60,7 +54,7 @@ The opening clause negates the existence of `avyākṛtā avijñaptiḥ`; `tridh
 
 ## 5. Translation
 
-### Literal Translation
+### Literal
 
 > There is no ethically indeterminate non-disclosing continuity; the
 > remaining [karmas] are threefold. The unwholesome, however, exists in the
@@ -71,7 +65,7 @@ The opening clause negates the existence of `avyākṛtā avijñaptiḥ`; `tridh
 The plural “remaining karmas” is supplied from the Bhāṣya's explicit
 identification of `vijñapti` and `cetanā`.
 
-### Bhāṣya-informed study translation
+### Bhāṣya-informed
 
 > Non-disclosing continuity is never ethically indeterminate: it is either
 > wholesome or unwholesome. Manifestation and volition, by contrast, may each
@@ -87,20 +81,7 @@ determinations.
 
 ## 6. Philosophical Translation
 
-### Interpretation
-
-The Bhāṣya's reason for excluding ethically indeterminate
-`avijñapti` is causal: an indeterminate consciousness lacks the strength to
-project karma that continues after that consciousness ceases. The text then
-distinguishes the ethical quality of karma from its distribution among the
-desire, Form, and formless realms. It also limits bodily and verbal
-manifestation to the desire realm and first dhyāna.
-
-In the Kośa's broader system, Discriminative Cognition (*vijñāna*) governs
-Mind (*manas*) and guides Dharma Base; it remains distinct from the
-consciousness (*citta*) whose causal strength is discussed here. The same
-`avijñapti` is classified in Form Base and Dharma Base, with *vijñāna* bearing
-the stated *prati* relation to it.
+> There is no ethically indeterminate non-disclosing continuity; the remaining [karmas] are threefold. The unwholesome, however, exists in the desire realm. Non-disclosing continuity exists also in the Form realm; manifestation exists in the two levels possessing coarse thought.
 
 ## 7. Technical Vocabulary
 
@@ -161,6 +142,23 @@ The natural unit through [201|17] is translated and the study stops before
 exchange remain provisional. The omitted `tatra` is restored and two
 editorial repairs are identified. Research witnesses and the running source
 were left intact.
+
+### Former Philosophical Translation
+
+### Interpretation
+
+The Bhāṣya's reason for excluding ethically indeterminate
+`avijñapti` is causal: an indeterminate consciousness lacks the strength to
+project karma that continues after that consciousness ceases. The text then
+distinguishes the ethical quality of karma from its distribution among the
+desire, Form, and formless realms. It also limits bodily and verbal
+manifestation to the desire realm and first dhyāna.
+
+In the Kośa's broader system, Discriminative Cognition (*vijñāna*) governs
+Mind (*manas*) and guides Dharma Base; it remains distinct from the
+consciousness (*citta*) whose causal strength is discussed here. The same
+`avijñapti` is classified in Form Base and Dharma Base, with *vijñāna* bearing
+the stated *prati* relation to it.
 
 ## 10. OWL++ Seed
 

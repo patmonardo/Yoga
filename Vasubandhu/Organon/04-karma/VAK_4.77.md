@@ -16,13 +16,6 @@ kuśāstravaccābhidhyā tu parasvaviṣamaspṛhā // 4.77 //
 
 ## 3. Lexical Analysis
 
-```text
-ataḥ | anyat | kliṣṭam | iti | anye |
-lapanā-gīta-nāṭya-vat |
-ku-śāstra-vat | ca |
-abhidhyā | tu | para-sva-viṣamā | spṛhā
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | `ataḥ` | ablative singular pronoun used comparatively | other than these; apart from the preceding courses |
@@ -81,13 +74,13 @@ desire as such.
 
 ## 5. Translation
 
-### Scientific English Rendering
+### Literal
 
 > Others say that afflicted speech other than these is disordered
 > discourse, as with flattering talk, song, drama, and corrupt treatises.
 > Covetousness, however, is wrongful longing for another's possession.
 
-### Bhāṣya-informed study translation
+### Bhāṣya-informed
 
 > Others say that afflicted speech other than these is disordered
 > discourse, as with flattering talk, song, drama, and corrupt treatises.
@@ -109,24 +102,7 @@ extensions of `abhidhyā` are supplied by the Bhāṣya.
 
 ## 6. Philosophical Translation
 
-> Formal coherence does not guarantee wholesome discourse. Speech may possess
-> grammar, rhythm, dramatic organization, or systematic argument while its
-> practical orientation remains afflicted. Likewise, desire becomes the
-> mental course of covetousness only when it projects a wrongful
-> transformation of an existing relation: what belongs to another is
-> practically posited as what should become mine. The course is already
-> relationally determinate before bodily appropriation occurs.
-
-The verse distinguishes two kinds of form:
-
-```text
-organized verbal form
-    may lack wholesome practical orientation
-
-mental practical form
-    may project an objective transformation
-    before bodily execution
-```
+> Others say that afflicted speech other than these is disordered discourse, as with flattering talk, song, drama, and corrupt treatises. Covetousness, however, is wrongful longing for another's possession.
 
 ## 7. Technical Vocabulary
 
@@ -300,6 +276,27 @@ This is the project's interpretive synthesis. The residual view, examples,
 song qualification, three extensions of `abhidhyā`, and selection principle
 belong to the Bhāṣya; the projected-relational-transition analysis is the
 project synthesis.
+
+### Former Philosophical Translation
+
+> Formal coherence does not guarantee wholesome discourse. Speech may possess
+> grammar, rhythm, dramatic organization, or systematic argument while its
+> practical orientation remains afflicted. Likewise, desire becomes the
+> mental course of covetousness only when it projects a wrongful
+> transformation of an existing relation: what belongs to another is
+> practically posited as what should become mine. The course is already
+> relationally determinate before bodily appropriation occurs.
+
+The verse distinguishes two kinds of form:
+
+```text
+organized verbal form
+    may lack wholesome practical orientation
+
+mental practical form
+    may project an objective transformation
+    before bodily execution
+```
 
 ## 10. OWL++ Seed
 

@@ -18,7 +18,7 @@ and runs through its closing statement at [211|20–21] in
 `Vasubandhu/Sources/kosabhasya.txt`. The following question at
 [211|22] begins 4.26, on how restraints are acquired.
 
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
 ```iast
 syād vijñaptyā samanvāgato nāvijñaptyeti catuṣkoṭikam. tatra tāvat:

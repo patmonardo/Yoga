@@ -16,11 +16,6 @@ duḥśodhatvāt pariṣkāra-lobhotthaṃ cen na sūtrataḥ // 4.86 //
 
 ## 3. Lexical Analysis
 
-```text
-lobha-jam | kāya-vāk-karma | mithyā-ājīvaḥ | pṛthak | kṛtaḥ |
-duḥ-śodhatvāt | pariṣkāra-lobha-uttham | cet | na | sūtrataḥ
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | `lobha-jam` | neuter nominative singular compound agreeing with `karma` | born from greed |
@@ -90,13 +85,13 @@ necessities.
 
 ## 5. Translation
 
-### Scientific English Rendering
+### Literal
 
 > Bodily or verbal action born from greed is wrong livelihood. It is treated
 > separately because it is difficult to purify. If wrong livelihood is said
 > to arise only from greed for requisites—no, not according to the sūtra.
 
-### Bhāṣya-informed study translation
+### Bhāṣya-informed
 
 > Bodily or verbal action born from greed is wrong livelihood. It is treated
 > separately because it is difficult to purify. If wrong livelihood is said
@@ -117,34 +112,7 @@ example are Bhāṣya determinations.
 
 ## 6. Philosophical Translation
 
-> Wrong livelihood is not recognizable from the visible shape of an act
-> alone. Bodily and verbal action take this classification when greed governs
-> their participation in the practical economy through which life sustains
-> and enjoys itself. Its separate name marks no new faculty; it makes explicit
-> a contradiction within ordinary self-maintenance. The activity by which the
-> agent preserves life can simultaneously place that life under an appetitive
-> power that is exceptionally difficult to govern.
-
-The determination is therefore relational:
-
-```text
-body or speech
-    + greed as governing root
-    + practical economy of support and enjoyment
-    + difficulty of self-correction
-    = wrong livelihood
-```
-
-In Hegelian-transcendental terms, livelihood is a necessary mediation between
-the individual and its social-objective conditions. Greed converts this
-mediation into a relation in which the means of sustaining the subject
-dominate the subject. Separate ethical classification makes that inversion
-thinkable and therefore practically corrigible.
-
-Within the wider Karman framework, volition (*cetanā*) is distinct from the
-causal root: volition enacts the practical determination, while greed
-organizes this bodily or verbal action as livelihood. The two must not be
-collapsed.
+> Bodily or verbal action born from greed is wrong livelihood. It is treated separately because it is difficult to purify. If wrong livelihood is said to arise only from greed for requisites—no, not according to the sūtra.
 
 ## 7. Technical Vocabulary
 
@@ -306,6 +274,37 @@ medium. Practical Reason answers that a difference can be essential because
 it expresses an inversion of mediation and demands a distinct discipline of
 correction. The category is not ontologically primitive; it is practically
 necessary. Its truth lies in the self-transformation it makes possible.
+
+### Former Philosophical Translation
+
+> Wrong livelihood is not recognizable from the visible shape of an act
+> alone. Bodily and verbal action take this classification when greed governs
+> their participation in the practical economy through which life sustains
+> and enjoys itself. Its separate name marks no new faculty; it makes explicit
+> a contradiction within ordinary self-maintenance. The activity by which the
+> agent preserves life can simultaneously place that life under an appetitive
+> power that is exceptionally difficult to govern.
+
+The determination is therefore relational:
+
+```text
+body or speech
+    + greed as governing root
+    + practical economy of support and enjoyment
+    + difficulty of self-correction
+    = wrong livelihood
+```
+
+In Hegelian-transcendental terms, livelihood is a necessary mediation between
+the individual and its social-objective conditions. Greed converts this
+mediation into a relation in which the means of sustaining the subject
+dominate the subject. Separate ethical classification makes that inversion
+thinkable and therefore practically corrigible.
+
+Within the wider Karman framework, volition (*cetanā*) is distinct from the
+causal root: volition enacts the practical determination, while greed
+organizes this bodily or verbal action as livelihood. The two must not be
+collapsed.
 
 ## 10. OWL++ Seed
 

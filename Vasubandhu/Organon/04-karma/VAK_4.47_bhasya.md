@@ -18,7 +18,7 @@ The Bhāṣya unit runs from [228|04] through [228|13] in the running
 source. Its `sasaṃbhārā` conclusion belongs to this unit. The next
 argument begins with `adho 'pi madhyam asty eke` at [228|14].
 
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
 ```iast
 sukhavedyaṃ śubhaṃ dhyānād ā tṛtīyāt

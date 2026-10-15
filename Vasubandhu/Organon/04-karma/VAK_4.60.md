@@ -26,26 +26,7 @@ identifies karma without influxes as directed toward their exhaustion.
 
 ## 3. Lexical Analysis
 
-```text
-aśubham
-
-rūpa-āptam
-kāma-āptam
-śubham
-ca
-eva
-yathā-kramam
-
-kṛṣṇa
-śukla
-ubhayam
-karma
-
-tat-kṣayāya
-nir-āsravam
-```
-
-| Form | Morphology | Lexical value here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `aśubham` | nominative neuter singular | unwholesome karma |
 | `rūpāptam` | nominative neuter singular compound | belonging to the Form Realm |
@@ -117,13 +98,13 @@ preceding productive karmic system.
 
 ## 5. Translation
 
-### Literal Translation
+### Literal
 
 > Unwholesome karma, wholesome karma belonging to the Form Realm, and
 > wholesome karma belonging to the Desire Realm are respectively black,
 > white, and both. Karma without influxes is for the exhaustion of those.
 
-### Bhāṣya-informed study translation
+### Bhāṣya-informed
 
 > Unwholesome karma is black and has unpleasant black maturation. Wholesome
 > karma of the Form Realm is white and has pleasant white maturation. Wholesome
@@ -138,16 +119,7 @@ the absence of ordinary maturation are supplied by the Bhāṣya.
 
 ## 6. Philosophical Translation
 
-> Productive karma differentiates into dark, bright, and mixed continuums of
-> conditioned maturation. The mixture belongs to the articulated whole, not
-> to the intrinsic nature of one member: opposed determinations can coexist in
-> a continuum without becoming identical in a single act. Karma without
-> influxes then changes the function of activity itself. Rather than producing
-> another conditioned result, it operates toward the exhaustion of the karmic
-> circuit that generates such results.
-
-Negation here is practical and determinate: neither black nor white means an
-activity no longer functioning within the reproductive opposition.
+> Unwholesome karma, wholesome karma belonging to the Form Realm, and wholesome karma belonging to the Desire Realm are respectively black, white, and both. Karma without influxes is for the exhaustion of those.
 
 ## 7. Technical Vocabulary
 
@@ -328,6 +300,19 @@ is exactly what prevents false contradiction.
 This is the Organon contact. The four allocations, continuum distinction,
 ārūpya scope, asymmetry, and semantic qualification of `aśukla` belong to the
 Bhāṣya; the `tadabhāva` formulation is project synthesis.
+
+### Former Philosophical Translation
+
+> Productive karma differentiates into dark, bright, and mixed continuums of
+> conditioned maturation. The mixture belongs to the articulated whole, not
+> to the intrinsic nature of one member: opposed determinations can coexist in
+> a continuum without becoming identical in a single act. Karma without
+> influxes then changes the function of activity itself. Rather than producing
+> another conditioned result, it operates toward the exhaustion of the karmic
+> circuit that generates such results.
+
+Negation here is practical and determinate: neither black nor white means an
+activity no longer functioning within the reproductive opposition.
 
 ## 10. OWL++ Seed
 

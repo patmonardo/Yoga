@@ -17,7 +17,7 @@ The three wholesome mental Courses of Action were distributed in 4.83. The
 abstentions corresponding to the three bodily and four verbal unwholesome
 Courses of Action.
 
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
 ```iast
 ārūpyāsaṃjñisattveṣu lābhataḥ sapta

@@ -14,7 +14,7 @@ yā cetanā dvādaśadhā karma kṛṣṇakṣayāya tat // 4.61 //
 > exhausts all three productive karmic classes; the Path's abandonment function
 > is differentiated by stage and target.
 
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
 ```iast
 kiṃ punaḥ sarvamanāsravaṃ karma sarvasyāsya trividhasya karmaṇaḥ

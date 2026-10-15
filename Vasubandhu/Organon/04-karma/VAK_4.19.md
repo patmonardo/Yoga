@@ -27,20 +27,6 @@ kārikā reading printed above.
 
 ## 3. Lexical Analysis
 
-```text
-prātimokṣa-sthitaḥ
-nityam
-atyāgāt
-vartamānayā
-
-avijñaptyā
-anvitaḥ
-pūrvāt
-kṣaṇāt
-ūrdhvam
-atītayā
-```
-
 | Form | Morphology | Lexical value here |
 |---|---|---|
 | `prātimokṣasthitaḥ` | nominative masculine singular compound | one established in prātimokṣa restraint |
@@ -139,13 +125,13 @@ atyāgāt
 
 ## 5. Translation
 
-### Literal Translation
+### Literal
 
 > One established in prātimokṣa restraint is continually endowed with present
 > avijñapti because it has not been abandoned; after the first moment, he is
 > also endowed with past avijñapti.
 
-### Bhāṣya-informed study translation
+### Bhāṣya-informed
 
 > One established in prātimokṣa restraint is continually endowed with present
 > avijñapti for as long as that restraint has not been relinquished. From the
@@ -157,16 +143,7 @@ scope stated by the Bhāṣya.
 
 ## 6. Philosophical Translation
 
-> The bearer of prātimokṣa restraint continuously possesses avijñapti in its
-> present mode while the restraint remains un-abandoned. At the first moment,
-> only present avijñapti is possessed. Thereafter each current occurrence is
-> possessed as present, while the avijñapti of preceding moments is also
-> possessed under the determination of pastness. The restraint’s continuity
-> is therefore temporally articulated and governed throughout by
-> non-relinquishment.
-
-This states the Sarvāstivāda temporal account. It does not yet substitute the
-Organon’s account of Persistence for the source doctrine.
+> One established in prātimokṣa restraint is continually endowed with present avijñapti because it has not been abandoned; after the first moment, he is also endowed with past avijñapti.
 
 ## 7. Technical Vocabulary
 
@@ -347,6 +324,19 @@ as long as not abandoned.” The predicate includes a rule of persistence.
 This is an Organon development. Vasubandhu’s explicit determination remains:
 continuous possession of present avijñapti, and possession of past avijñapti
 after the first moment, all governed by `atyāga`.
+
+### Former Philosophical Translation
+
+> The bearer of prātimokṣa restraint continuously possesses avijñapti in its
+> present mode while the restraint remains un-abandoned. At the first moment,
+> only present avijñapti is possessed. Thereafter each current occurrence is
+> possessed as present, while the avijñapti of preceding moments is also
+> possessed under the determination of pastness. The restraint’s continuity
+> is therefore temporally articulated and governed throughout by
+> non-relinquishment.
+
+This states the Sarvāstivāda temporal account. It does not yet substitute the
+Organon’s account of Persistence for the source doctrine.
 
 ## 10. OWL++ Seed
 
