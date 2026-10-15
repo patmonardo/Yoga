@@ -1,4 +1,4 @@
-# VAK_2.29 — Counting Unwholesome Mental Factors
+# VAK_2.29 — How Many in the Unwholesome
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -12,170 +12,115 @@
 >
 > kleśaiś caturbhiḥ krodhādyaiḥ kaukṛtyenaikaviṃśatiḥ // 2.29 //
 
-## 3. Lexical Analysis
+Desire-realm scope continues from 2.28. Kleśaiś caturbhiḥ and krodhādyaiḥ are two groups. Not four afflictions beginning with anger.
 
-```text
-āveṇike                 → āveṇike
-tv                      → tu
-akuśale                 → akuśale
-dṛṣṭiyukte              → dṛṣṭi-yukte
-ca                      → ca
-viṃśatiḥ                → viṃśatiḥ
-kleśaiś                 → kleśaiḥ
-caturbhiḥ               → caturbhiḥ
-krodhādyaiḥ             → krodha-ādyaiḥ
-kaukṛtyenaikaviṃśatiḥ   → kaukṛtyena eka-viṃśatiḥ
-```
+## 3. Lexical Analysis
 
 | Pada | Morphology | Force in this passage |
 |---|---|---|
-| āveṇike | locative neuter singular | in the isolated case |
-| akuśale | locative neuter singular | in unwholesome consciousness |
-| dṛṣṭi-yukte | locative neuter singular compound | in consciousness associated with a view |
-| viṃśatiḥ | nominative feminine singular numeral | twenty |
-| kleśaiḥ caturbhiḥ | instrumental plural phrase | with one of four afflictions |
-| krodha-ādyaiḥ | instrumental plural compound | with a secondary affliction beginning with anger |
-| kaukṛtyena | instrumental neuter singular | with remorse |
-| eka-viṃśatiḥ | nominative feminine singular numeral | twenty-one |
+| āveṇike | locative | in the isolated |
+| akuśale | locative | in unwholesome consciousness |
+| dṛṣṭi-yukte | locative | associated with a view |
+| viṃśatiḥ | numeral | twenty |
+| kleśaiḥ caturbhiḥ | instrumental | with one of four afflictions |
+| krodha-ādyaiḥ | instrumental | with one secondary beginning with anger |
+| kaukṛtyena | instrumental | with regret |
+| ekaviṃśatiḥ | numeral | twenty-one |
 
-The Bhāṣya distributes the additions. The four afflictions are greed,
-hostility, conceit, and doubt. The anger-beginning secondary afflictions
-are a distinct category; the commentary counts one such associate at a
-time.
+The instrumentals distribute. Not one joint list.
 
 ## 4. Grammar
 
-The first line gives two cases with the same total:
-
 ```text
-āveṇike akuśale
-    → in isolated unwholesome consciousness
+isolated unwholesome
+    10 universal + 6 afflicted + 2 unwholesome + vitarka, vicāra
+    = 20
 
-dṛṣṭi-yukte ca
-    → and in consciousness associated with a view
+view-associated
+    the same twenty
+    view is a form of prajñā
+    count unchanged
 
-viṃśatiḥ
-    → twenty mental factors
+one of greed, hostility, conceit, doubt
+or one secondary beginning with anger
+or regret
+    = 21
 ```
 
-The second line distributes the additional-factor cases:
+## 5. Translation
+
+### Literal Translation
+
+But in isolated unwholesome consciousness, and in that associated with a view, twenty. With the four afflictions, with those beginning with anger, or with regret, twenty-one.
+
+### Bhāṣya-informed study translation
+
+In isolated unwholesome consciousness, twenty: the ten, the six, the two, vitarka, and vicāra. Isolated is a consciousness in which ignorance alone occurs, without another affliction such as attachment. Associated with a view, the same twenty. Should there not be twenty-one, the view being additional? No. A certain special form of prajñā, itself a universal great-ground factor, is called a view. Wrong view, attachment to views, or attachment to rules and observances.
+
+With one of the four, attachment, hostility, conceit, or doubt, twenty-one: that affliction and the twenty. With a secondary affliction beginning with anger, as previously stated, those twenty and that one. With regret, twenty-one. Regret itself is the twenty-first. In summary, isolated and view-associated, twenty. Associated with another affliction or secondary affliction, twenty-one.
+
+## 6. Philosophical Translation
+
+A new name is not a new factor. View is Discrimination in an unwholesome determination. Already counted. Greed, hostility, conceit, doubt, a secondary, and regret are distinct associates. They add one. Isolated is ignorance without another distinct affliction. It is not an empty consciousness. The other five of the afflicted six remain.
+
+Organon rendering:
+
+Mode against addition. Count after identity. Objective Logic on the mind is the pass, not the translation. Not the final pass.
+
+## 7. Technical Vocabulary
+
+| Sanskrit | Running word | Determination |
+|---|---|---|
+| āveṇika | isolated | ignorance without another distinct affliction |
+| dṛṣṭi-yukta | associated with a view | three named; unwholesome |
+| prajñā-viśeṣa | a special form of Discrimination | why the count does not rise |
+| rāga, pratigha, māna, vicikitsā | attachment, hostility, conceit, doubt | the four; one at a time |
+| krodhādi | secondary beginning with anger | one adds one |
+| kaukṛtya | regret | the unwholesome case here |
+
+Not every view is unwholesome. The obscured-indeterminate views are the next unit.
+
+## 8. Logical Determination
 
 ```text
-one of four afflictions
-or one secondary affliction beginning with anger
-or remorse
-    → twenty-one mental factors
+unwholesome base
+    = 10 + 6 + 2 + 2
+    = 20
+
+isolated
+    = that base
+    no further distinct affliction
+
+view
+    = specialize Discrimination
+    = 20
+
+one added associate
+    = 21
+    not the four together
+    not the secondaries together
+
+specialization
+    → count unchanged
+addition
+    → count + 1
+different name
+    ≠ different factor
 ```
 
-The view-associated case stays at twenty because view is a particular
-determination of already-counted discernment. The separate associations
-increase the count by one.
+## 9. Interpretive Note
 
-## 5. Scientific English Rendering
+Ignorance alone does not remove heedlessness, laziness, lack of faith, sluggishness, and agitation. Those are the afflicted ground. The restriction is another affliction such as attachment.
 
-### Kārikā
+The three views are wrong view, attachment to views, and attachment to rules and observances. Unwholesome is essential. Prajñā here is not liberating knowledge. A count of its occurrence is not adequacy.
 
-> In isolated unwholesome consciousness and in consciousness associated
-> with a view there are twenty [mental factors]. With one of the four
-> afflictions, a secondary affliction beginning with anger, or remorse,
-> there are twenty-one.
+Or distributes the four. Not twenty-four. The singular secondary controls the anger-group. Plurals in the verse are alternatives.
 
-### Bhāṣya-informed rendering
+Regret here is the unwholesome case of 2.28. Not all regret is unwholesome. Torpor is a later addition. These totals do not rule it out.
 
-> An isolated unwholesome consciousness contains twenty mental factors:
-> ten universal great-ground factors, six afflicted great-ground factors,
-> two unwholesome great-ground factors, *vitarka*, and *vicāra*.
-> Unwholesome consciousness associated with wrong view, attachment to
-> views, or attachment to rules and observances also contains twenty,
-> because view is a particular form of discernment already counted in
-> the universal factors. Association with one of the four afflictions—
-> greed, hostility, conceit, or doubt—with one secondary affliction
-> beginning with anger, or with remorse, makes twenty-one.
+Organon reading: labels are not the count. Identity first. Not the verse English.
 
-“Isolated” excludes another distinct affliction such as greed; it does
-not exclude the factors required by the universal, afflicted,
-unwholesome, and Desire-Principle grounds.
-
-## 6. Interpretation
-
-The verse and Bhāṣya distinguish specialization from addition. Wrong
-view, attachment to views, and attachment to rules and observances are
-particular determinations of the already-counted discernment factor;
-naming the determination does not create a second factor. By contrast,
-greed, hostility, conceit, doubt, one secondary affliction, or remorse
-is an additional associated factor and increases the total.
-
-The count therefore depends on resolving identity before counting:
-
-```text
-mode of an existing factor → same count
-distinct associated factor → count increases by one
-```
-
-In the inner-instrument Techne, *mati* is identified with *prajñā* in
-VAK 2.24, supporting the project rendering Science of Principles. A
-particular view can determine that factor without being counted again
-alongside it. This project application preserves the Bhāṣya's local
-identity argument; it does not equate every Idea with a distinct
-cognitive act.
-
-The Kośa's governing synthesis: Vijñāna is Discriminative Cognition joining
-and governing Perception and Conception. Their unity is Inconceivable as a
-homogeneous operation; its Idea is disclosed in the Cognition Base. Vijñāna
-governs Mind and guides the reading of Dharma Base. Form Base and Dharma
-Base both include the same *avijñapti* in distinct classifications, and
-Vijñāna bears a *prati* relation to *avijñapti*. This synthesis remains
-distinct from the local count of associated mental factors.
-
-## 7. Logical Determination
-
-```text
-UnwholesomeBase =
-      UniversalGreatGroundTen
-    ∪ AfflictedGreatGroundSix
-    ∪ UnwholesomeGreatGroundTwo
-    ∪ {Vitarka, Vicāra}
-
-Count(UnwholesomeBase) = 20
-```
-
-```text
-ViewMode ∈ {
-    WrongView,
-    AttachmentToViews,
-    AttachmentToRulesAndObservances
-}
-
-BaseFunction(ViewMode) = Discernment
-ViewAssociatedProfile = specialize(UnwholesomeBase, Discernment, ViewMode)
-Count(ViewAssociatedProfile) = 20
-```
-
-```text
-DistinctAdditionalFactor ∈ {
-    one of Greed, Hostility, Conceit, Doubt,
-    one SecondaryAfflictionBeginningWithAnger,
-    Remorse
-}
-
-ExtendedProfile = UnwholesomeBase ∪ {DistinctAdditionalFactor}
-Count(ExtendedProfile) = 21
-```
-
-## 8. Interpretive Note
-
-“Ignorance alone” in the isolated case means no further distinct
-affliction such as greed; it does not remove the other required factors.
-Likewise, view's unwholesome classification is specific to wrong view
-and the two attachments named by the Bhāṣya. The passage does not classify
-all views as unwholesome.
-
-The additions in the second line are alternatives, not a combined list.
-The verse counts a profile with one additional factor, not a profile
-containing the four afflictions, several secondary afflictions, and
-remorse all together.
-
-## 9. OWL++ Seed
+## 10. OWL++ Seed
 
 ```ttl
 @prefix vak: <http://127.0.0.1:3000/vak#> .
@@ -185,30 +130,13 @@ remorse all together.
 vak:VAK_2_29
     a vak:Karika ;
     rdfs:label "VAK 2.29" ;
-    vak:hasTopic vak:UnwholesomeMentalFactorCounts ;
+    vak:hasTopic vak:UnwholesomeCount ;
     vak:belongsTo vak:Indriyanirdesa .
 
-vak:UnwholesomeBaseProfile
-    vak:inherits vak:UniversalGreatGroundTen,
-        vak:AfflictedGreatGroundSix,
-        vak:UnwholesomeGreatGroundTwo ;
-    vak:requires vak:Vitarka,
-        vak:Vicara ;
-    vak:hasCount 20 .
+vak:IsolatedUnwholesome vak:hasCount 20 .
+vak:ViewAssociated vak:hasCount 20 .
+vak:AddedAssociate vak:hasCount 21 .
 
-vak:ViewAssociatedProfile
-    vak:hasBase vak:UnwholesomeBaseProfile ;
-    vak:specializes vak:Discernment ;
-    vak:hasCount 20 .
-
-vak:ExtendedUnwholesomeProfile
-    vak:hasBase vak:UnwholesomeBaseProfile ;
-    vak:addsOneAlternativeFrom vak:FourAfflictions,
-        vak:SecondaryAfflictionsBeginningWithAnger,
-        vak:Remorse ;
-    vak:hasCount 21 .
-
-organon:FactorCounting
-    organon:distinguishes organon:FactorSpecialization,
-        organon:DistinctFactorAddition .
+organon:ViewNotAnAddedFactor
+    organon:notTheVerseEnglish true .
 ```

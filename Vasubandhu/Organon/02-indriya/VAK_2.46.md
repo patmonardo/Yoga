@@ -1,77 +1,120 @@
-# VAK_2.46 — What the Marks Explain
+# VAK_2.46 — Secondary Marks, and the Restriction
 
-## Source
+## 1. Sanskrit (Devanāgarī)
+
+> जातिजात्यादयस्तेषां तेऽष्टधर्मैकवृत्तयः ।
+>
+> जन्यस्य जनिका जातिर्न हेतुप्रत्ययैर्विना ॥ २.४६ ॥
+
+## 2. Sanskrit (IAST)
 
 > jātijātyādayas teṣāṃ te 'ṣṭadharmaikavṛttayaḥ /
-> janyasya janikā jātirna hetupratyayairvinā // 2.46 //
+>
+> janyasya janikā jātir na hetupratyayair vinā // 2.46 //
 
-Printed citations place the first half at 76.11 and 76.15, and the
-second half at 79.18. The intervening marks debate is treated with
-VAK 2.45 because the commentary's textual sequence crosses the verse
-boundary.
+Jāti-jāti is arising-of-arising. Not emphasis. The first half was cited inside the marks. The restriction is this verse.
 
-## Word Division
+## 3. Lexical Analysis
 
-*jāti-jāti-ādayaḥ teṣām te aṣṭa-dharma-eka-vṛttayaḥ /
-janyasya janikā jātiḥ na hetu-pratyayaiḥ vinā*
+| Pada | Force |
+|---|---|
+| jāti-jāti-ādayaḥ | arising-of-arising and the rest |
+| teṣām | of those primary marks |
+| aṣṭa-dharma-eka-vṛttayaḥ | operating on eight, and on one |
+| janyasya | of what is to be generated |
+| janikā | the generator |
+| na vinā | not without |
+| hetu-pratyayaiḥ | causes and conditions |
 
-## Lexical Analysis
+Operation is activity, efficacy. Not a third synonym for the mark.
 
-| Pada | Morphology | Force in this passage |
+## 4. Grammar
+
+```text
+secondary marks
+    of the primary
+    arising-of-arising, persistence-of-persistence,
+    aging-of-aging, impermanence-of-impermanence
+primary
+    operate on eight, excluding themselves
+secondary
+    operate on one, the primary
+nine
+    the dharma, four primary, four secondary
+arising
+    generates what is to be generated
+    not without causes and conditions
+```
+
+## 5. Translation
+
+### Literal Translation
+
+Arising-of-arising and the rest, of those. They operate on eight dharmas, and on one. Arising is the generator of what is to be generated, not without causes and conditions.
+
+### Bhāṣya-informed study translation
+
+The primary marks are themselves conditioned, so they have secondary marks. No regress, because the primary operate on eight and the secondary on one. Arising generates the other eight. Arising-of-arising generates that arising. Like one hen and many, one hen and few. Persistence, aging, and impermanence likewise. Splitting space, on the critical account. No evidence of separate entities.
+
+Arising generates what is to be generated, not without the conjunction of causes and conditions. Then the power seen is the conjunction. When it is complete, arising. When it is not, no arising. Not from an arising-entity. Arisen designates existing after not existing. The genitive, the arising of form, does not prove a second entity, any more than the form of form does. The unconditioned does not arise. It does not exist after not existing. They maintain the marks as real. Defects are to be answered, and the established doctrine followed. The marks have been explained.
+
+## 6. Philosophical Translation
+
+Eight and one is a stipulation that stops the regress. It does not show the entities. The restriction is the cut. If causes and conditions are necessary and sufficient, the generator has no remaining work. Arising is the transition. Prior nonexistence, then existence. A name for that, not a producer beside it.
+
+The reply stands. Deer are not a reason to stop sowing. The doctrine is kept. Not settled.
+
+Hetu and pratyaya here are the conjunction the generator cannot do without. Not yet the block that lays them out.
+
+Organon rendering:
+
+A course begins when the conditions are complete. The beginning is not a classmate added to the course. Not the verse English. Not the final pass.
+
+## 7. Technical Vocabulary
+
+| Sanskrit | Running word | Determination |
 |---|---|---|
-| *jāti-jāti-ādayaḥ* | *jāti-jāti* (compound), nominative plural; *ādi* + *-ayaḥ* | Arising-of-arising and the related secondary marks. |
-| *teṣām* | *tad*, genitive plural | Of those [four primary marks]. |
-| *te* | *tad*, nominative plural | Those [primary marks] operate over the specified set. |
-| *aṣṭa-dharma-eka-vṛttayaḥ* | compound, nominative plural | Having operation over eight Dharmas each; the commentary distinguishes this from the secondary marks' operation on one. |
-| *janyasya* | *janya*, genitive singular | Of what is to be generated. |
-| *janikā* | *janikā*, nominative singular feminine | The producer or generative factor. |
-| *jātiḥ* | *jāti*, nominative singular feminine | Arising, the proposed generative mark. |
-| *na* | particle | Not. |
-| *hetu-pratyayaiḥ* | instrumental plural compound | Through causes and conditions. |
-| *vinā* | indeclinable with instrumental | Without. |
+| anulakṣaṇa | secondary mark | of the primary |
+| vṛtti | operation | efficacy |
+| janikā | generator | the claimed role |
+| hetu-pratyaya | causes and conditions | the restriction |
+| abhūtvā-bhāva | existing after not existing | the critical definition |
+| prajñapti | designation | not imaginary |
 
-## Scientific Translation
+## 8. Logical Determination
 
-The arising-of-arising and the other secondary marks belong to those
-[four primary marks]; those [primary marks] each operate over eight
-Dharmas. Arising generates what is to be generated, not without causes
-and conditions.
+```text
+nine
+    dharma + four primary + four secondary
+primary
+    → eight, not itself
+secondary
+    → one
+generates
+    → conjunction complete
+conjunction complete
+    → arises
+conjunction absent
+    → does not arise
+arising-entity
+    no further difference
+    redundant, on the critical account
+unconditioned
+    does not arise
+reply
+    doctrine kept
+    not settled
+```
 
-## Logical Movement
+## 9. Interpretive Note
 
-The verse states two linked but distinct claims. First, the Vaibhāṣika
-account answers an apparent regress: four primary marks operate over
-the other eight members of a nine-Dharma set, while each corresponding
-secondary mark operates on its primary mark alone. Second, the verse
-restricts arising's generative operation: it does not generate what is
-to be generated apart from causes and conditions.
+The first half belongs with the marks of 2.45. The second half is the objection the restriction invites. Grammar is not ontology. The close is that the marks have been explained, with the dispute recorded.
 
-The Bhāṣya then tests whether a separate real mark of arising adds any
-causal work. Its critical argument treats the complete causes and
-conditions as operative and “arisen” as a designation for a transition
-from prior non-occurrence to present occurrence. The Vaibhāṣika's
-closing defense nevertheless maintains that arising and the other marks
-are established as real entities. The dispute is preserved rather than
-resolved by the translation.
+## 10. OWL++ Seed
 
-## Organon Note
+```ttl
+@prefix vak: <http://127.0.0.1:3000/vak#> .
 
-This is an examination of the explanatory instrument: what work is
-assigned to the four marks, what work their secondary marks add, and
-whether causes and conditions require a distinct entity of arising.
-The classification and its critique are distinct moves in the Bhāṣya;
-neither is a flat list detached from its relations. The Kośa's governing
-systematic content also remains in view: Vijñāna is Discriminative
-Cognition joining and governing Perception and Conception; their unity
-is Inconceivable as a homogeneous operation, with its Idea disclosed in
-Cognition Base. Vijñāna governs Mind and guides the reading of Dharma
-Base. *Avijñapti* is the same Dharma classified in Form Base and Dharma
-Base, and Vijñāna bears a *prati* relation to it.
-
-## Review Status
-
-Paired study with the Bhāṣya discussion through printed 80.11. The
-source's extended debate begins in the VAK 2.45 contextual sequence;
-the marks argument closes at *uktāni lakṣaṇāni*. VAK 2.47 begins at
-80.12. The source transcription has damaged readings; see the paired
-Bhāṣya study for the consequential uncertainties.
+vak:VAK_2_46 a vak:Karika ; vak:hasTopic vak:ArisingRestriction .
+vak:MarkEntity vak:settled false .
+```

@@ -5,176 +5,87 @@
 > kaukṛtyamiddhākuśalāny ādye dhyāne na santy ataḥ /
 > dhyānāntare vitarkaś ca vicāraś cāpy ataḥ param // 2.31 //
 
-> Remorse, torpor, and the unwholesome are absent in the first dhyāna;
-> in the intermediate dhyāna, *vitarka* is absent as well; beyond this,
-> *vicāra* also.
+> Regret, torpor, and the unwholesome are not present in the first dhyāna, of these. In the intermediate dhyāna, vitarka also. Beyond this, vicāra also.
 
-The Bhāṣya carries the exclusions into successive levels and interprets
-“also” to include deception and crookedness at the higher levels.
+The commentary carries the exclusions upward and reads also as deception and crookedness. Not intoxication.
 
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
 > ya eva kāmadhātau caittānāṃ niyama uktaḥ
-> kaukṛtyamiddhākuśalānyādye dhyāne na santyataḥ /
-> ato yathoktāt kaukṛtyaṃ middhaṃ ca sarvathā nāsti prathame dhyāne yat kiñcidakuśalam /
-> pratighaḥ śāṭhyamadamāyāvarjyāśca krodhādaya āhrīkyānapatrāpye ca /
-> anyatsarva tathaiva /
+> kaukṛtyamiddhākuśalāny ādye dhyāne na santy ataḥ /
+> ato yathoktāt kaukṛtyaṃ middhaṃ ca sarvathā nāsti prathame dhyāne yat kiñcid akuśalam /
+> pratighaḥ śāṭhyamadamāyāvarjyāś ca krodhādaya āhrīkyānapatrāpye ca /
+> anyat sarvaṃ tathaiva /
 > ya eva prathame dhyāne na santi ta eva
-> dhyānāntare vitarkaśca
+> dhyānāntare vitarkaś ca
 > nāsti /
 > śeṣaṃ tathaiva /
-> vicāraścāpyataḥ param // 2.31 //
-> dhyānāntarāt pareṇa dvitīyādiṣu dhyāneṣvārūpyeṣu ca yathāpratiṣiddhaṃ nāsti vicāraśca /
-> māyā śāṭhyaṃ cetyapiśabdāt /
+> vicāraś cāpy ataḥ param // 2.31 //
+> dhyānāntarāt pareṇa dvitīyādiṣu dhyāneṣv ārūpyeṣu ca yathāpratiṣiddhaṃ nāsti vicāraś ca /
+> māyā śāṭhyaṃ cety apiśabdāt /
 > śeṣaṃ tathaiva /
-> brahmaṇo hi yāvacchāṭhyaṃ paṭhyate parṣatsambandhatvānnordhvam /
-> sa hi svasyāṃ parṣadyaśvajitā bhikṣuṇā praśnaṃ pṛṣṭaḥ "kutremāni brahman catavāri mahābhūtānyapariśeṣaṃ nirudhyante" iti /
-> aprajānan kṣepamakārṣīt /
-> "ahamasmin brahmā īśvaraḥ kartā nirmātā sraṣṭā sṛjaḥ pitṛbhūto bhūtānāmi"ti /
-> uktametadyasyāṃ bhūmau yatra citte yāvantaścaittāḥ //
+> brahmaṇo hi yāvac chāṭhyaṃ paṭhyate parṣatsambandhatvān nordhvam /
+> sa hi svasyāṃ parṣadi aśvajitā bhikṣuṇā praśnaṃ pṛṣṭaḥ kutremāni brahman catvāri mahābhūtāny apariśeṣaṃ nirudhyanta iti /
+> aprajānan kṣepam akārṣīt /
+> aham asmi brahmā īśvaraḥ kartā nirmātā sraṣṭā sṛjaḥ pitṛbhūto bhūtānām iti /
+> uktam etad yasyāṃ bhūmau yatra citte yāvantaś caittāḥ //
 
-The excerpt follows printed 59.02–59.15 in
-`Vasubandhu/Sources/kosabhasya.txt`, with source labels removed and
-the verse number regularized. Transcription defects are retained;
-contextual decisions are noted below. No independent collation is
-claimed.
+The unit is printed 59.02–59.15 in `Vasubandhu/Sources/kosabhasya.txt`. Catavāri and ahamasmin are read as four and I am. The title sequence sraṣṭā sṛjaḥ stays damaged. Not a collation. Distinctions among factors at 59.16 are 2.32.
 
-## 3. Scientific English Rendering
+## 3. Continuous Conventional Translation
 
-The rule for mental factors stated for the Desire Principle is now
-applied: “Remorse, torpor, and the unwholesome are absent in the first
-dhyāna.” Of the factors already described, remorse and torpor are
-entirely absent in the first dhyāna, as are factors operating in an
-unwholesome mode: hostility; the factors beginning with anger, except
-crookedness, intoxication, and deception; and shamelessness and absence
-of moral caution. Everything else remains as before.
+Taking the rule for mental factors already stated for the desire realm: regret, torpor, and the unwholesome are not present in the first dhyāna, of these. Of what has been described, regret and torpor are entirely absent in the first dhyāna, as is whatever is unwholesome: hostility; the factors beginning with anger, except crookedness, intoxication, and deception; and shamelessness and lack of moral caution. Everything else remains as before. Those absent in the first dhyāna are also absent in the intermediate dhyāna, together with vitarka. The remainder is as before. Beyond this, vicāra also. Beyond the intermediate dhyāna, in the second and subsequent dhyānas and in the formless levels, what was previously excluded is absent, as is vicāra. Also includes deception and crookedness. The remainder is as before.
 
-Those absent in the first dhyāna are also absent in the intermediate
-dhyāna, together with *vitarka*. The remainder is as before. “Beyond
-this, *vicāra* also.” Beyond the intermediate dhyāna, in the second and
-subsequent dhyānas and the Formless levels, *vicāra* is also absent,
-according to the prior exclusions. The word “also” includes deception
-and crookedness. The remainder is as before.
+Crookedness is recounted only as far as Brahmā, not above, because connected with an assembly. When the monk Aśvajit asked him in his own assembly, where, Brahmā, do these four great elements cease without remainder, he did not know and made an evasion: I am Brahmā, the Lord, the Maker, the Fashioner, the Creator, the Producer, the Father of beings. Thus it has been stated how many mental factors occur in which consciousness at which level.
 
-Crookedness is recounted only as far as Brahmā, not above, because it is
-connected with an assembly. In his own assembly, the monk Aśvajit asked
-Brahmā, “Where, Brahmā, do these four Great Principles cease without
-remainder?” Not knowing, Brahmā evaded the question: “I am Brahmā,
-Lord, Maker, Fashioner, Creator, Producer, Father of beings.” Thus it
-has been stated how many mental factors occur in which consciousness
-at which level.
+Creator, Producer is provisional for the damaged title sequence. Not a collation.
 
-The title sequence, particularly *sraṣṭā sṛjaḥ*, is transmitted
-imperfectly. “Creator, Producer” is a provisional rendering, not an
-independently collated restoration.
+## 4. Movement and Voice of the Commentary
 
-## 4. Movement and Voices of the Commentary
+The desire-realm distribution is the point of departure. Exclusions accumulate. The remainder as before keeps what is not altered. The Brahmā episode supports the upper limit of crookedness. The question is Aśvajit's. The titles are Brahmā's. The commentary calls the response an evasion made without knowing. Not an assertion of creative authority. The last sentence closes the distribution inquiry.
 
-The passage applies the Desire-Principle distribution to successive
-levels. First-dhyāna exclusions carry into the intermediate level; the
-subsequent levels inherit those exclusions and add further ones.
-Repeated “the remainder is as before” preserves cases not changed by
-the current rule.
+## 5. The First Dhyāna
 
-The Brahmā episode supports the stated upper limit for crookedness.
-Aśvajit asks the question; Brahmā gives the declaration of authority.
-The commentary says Brahmā does not know and evades the question. This
-quotation is not the author's assertion of Brahmā's authority. The final
-sentence closes this factor-distribution inquiry.
+Regret and torpor wholly excluded. Whatever is unwholesome. Hostility. The anger-group with three exceptions. Shamelessness and lack of moral caution.
 
-## 5. Exclusions in the First Dhyāna
+Crookedness, intoxication, and deception are exceptions to the anger-group exclusion. Not a permission of unwholesome dharmas where the unwholesome has been excluded. Afflicted and unwholesome, distinguished in 2.30, stay necessary.
 
-Remorse and torpor are wholly absent at the first level, as are factors
-operating in an unwholesome mode. The prose specifies hostility, the
-factors beginning with anger except *śāṭhya*, *mada*, and *māyā*, and
-the pair of shamelessness and absence of moral caution.
+A level's possible consciousnesses are not one wholesome absorption. Crookedness in the Brahmā discussion prevents that collapse.
 
-Crookedness, intoxication, and deception are exceptions to the exclusion
-of the anger-group, not grounds for restoring unwholesome operation at
-a level where the passage excludes it. The distinction between
-afflicted and unwholesome from VAK 2.30 remains necessary. The
-exceptions concern the distribution of named factors at the
-first-dhyāna/Brahmā level.
+## 6. Intermediate and Beyond
 
-This is a distribution by level, not a simple inventory of factors
-simultaneously manifest in one wholesome attainment. The range of
-consciousnesses possible at a level and a particular event there are
-distinct subjects.
-
-## 6. Intermediate and Higher Levels
-
-| Level | Additional exclusions from the preceding distribution |
+| Level | Further exclusion |
 |---|---|
-| First dhyāna, relative to the Desire Principle | Remorse, torpor, and the unwholesome factors specified in the prose |
-| Intermediate dhyāna | *Vitarka* |
-| Second and subsequent dhyānas, and Formless levels | *Vicāra*, deception, and crookedness |
+| First, relative to the desire realm | regret, torpor, and the unwholesome specified |
+| Intermediate | vitarka |
+| Second and higher, and the formless | vicāra, and deception and crookedness |
 
-The intermediate dhyāna is the level between the first and second. The
-separate removal of *vitarka* and *vicāra* establishes different
-distributions; this unit does not give their full definitions.
+The intermediate is between the first and the second. Vitarka and vicāra have different distributions. Definitions are not this unit.
 
-The Bhāṣya reads *api*, “also,” as including deception and crookedness
-beyond the intermediate level. It does not include *mada* in that
-further exclusion. Thus the three exceptions named at the first level
-must not all be declared absent above it. The exclusion here follows
-the two factors actually specified by the running commentary.
+Also includes deception and crookedness. It does not include intoxication. The three exceptions must not all be declared absent above the intermediate.
 
 ## 7. The Brahmā Example
 
-Crookedness is connected with an assembly, and the narrative supplies
-an instance. Asked before his own assembly where the four Great
-Principles cease without remainder, Brahmā does not answer but recites
-titles of authority. The Bhāṣya explicitly says he does not know and
-evades the question.
+Connected with an assembly. Asked before his assembly, he does not answer and recites titles. Lack of knowledge and evasion are supplied by the commentary. The question is where the four great elements cease without remainder. This unit does not answer it and does not complete the encounter.
 
-The excerpt does not give the answer or narrate the full encounter.
-Completing the story from another source would exceed this unit. The
-direct assembly-related explanation names crookedness; the preceding
-sentence also excludes deception at higher levels, but this passage
-does not give a complete account of the social conditions of both.
+Assembly-dependence is stated for crookedness. The joint exclusion of deception and crookedness is not expanded into a theory of both. The example stays in the distribution argument.
 
-## 8. Textual and Translation Decisions
+## 8. The Bhāṣya's Decisions for Translation
 
-*Ataḥ* refers back to the distribution already stated; it is not a
-causal claim that the higher levels follow from the mere existence of
-remorse or torpor. *Yathāpratiṣiddham* carries forward prior
-exclusions, while “the remainder is as before” governs unchanged cases.
+Ataḥ refers to the distribution already stated. Not a cause. As previously excluded carries what has been dropped. The remainder as before governs the unchanged.
 
-The transcription has *catavāri* for “four” and *ahamasmin* in the
-declaration. The translation reads these contextually without claiming
-an independently established Sanskrit emendation. The title sequence
-remains provisional.
+Four and I am are contextual. The title sequence stays marked. Intoxication is mada, not conceit. Torpor is middha, not sluggishness.
 
-“Intoxication” renders *mada*, not *māna*, conceit. Torpor is *middha*,
-not *styāna*, sluggishness. These terms retain distinct roles in the
-factor distributions.
+## 9. Organon Reading
 
-## 9. Interpretation
+Exclusion, not an increase of powers. Inherited classification and the exact change at each level. Removing a class is not qualifying a factor already counted.
 
-The passage specifies a cumulative exclusion rule across levels. It
-requires tracking the level, the ethical mode, and the identity of each
-factor separately. Excluding unwholesome operation does not eliminate
-every afflicted possibility; excluding a factor at a higher level
-does not by itself describe every feature of that level.
+Level, ethical character, and identity stay apart. Unwholesome excluded is not every affliction excluded. Absence at a higher level is not a description of every aspect of attainment there.
 
-In the Organon framework, the ten Samyama-bhūmis describe Path-related
-operation of mental factors, with Buddha Dharma as the 11th Bhūmi.
-This passage gives a level-indexed distribution but does not establish
-a one-to-one identity between its dhyāna/Formless levels and the
-Samyama-bhūmis.
+Status is not knowledge. The evasion is the commentary's evidence for crookedness. Not a thesis beside the example. Objective Logic on the mind is the pass. Not the translation. Not the final pass.
 
-The Kośa's governing synthesis: Vijñāna is Discriminative Cognition joining
-and governing Perception and Conception. Their unity is Inconceivable as a
-homogeneous operation; its Idea is disclosed in the Cognition Base. Vijñāna
-governs Mind and guides the reading of Dharma Base. Form Base and Dharma
-Base both include the same *avijñapti* in distinct classifications, and
-Vijñāna bears a *prati* relation to *avijñapti*. This system-level account
-remains distinct from the local distribution of mental factors by level.
+## 10. Review Status
 
-## 10. Textual and Scope Notes
+Fine-tuned with the kārikā. Domain withdrawn. The cumulative exclusions, the three exceptions, the two further names, and the Brahmā example are kept. Intoxication is not in the further drop.
 
-The translation follows the running transcription at 59.02–59.15 and
-includes the cumulative exclusions, first-level exceptions, Brahmā
-episode, and closing sentence. The exclusion of *mada* is not extended
-to higher levels; the title sequence remains imperfect. No independent
-collation is claimed.
+2.32 has not been opened.

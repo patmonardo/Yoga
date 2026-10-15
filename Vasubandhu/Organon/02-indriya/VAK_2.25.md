@@ -1,4 +1,4 @@
-# VAK_2.25 — The Wholesome Great-Ground Factors
+# VAK_2.25 — Always in the Wholesome
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -12,156 +12,115 @@
 >
 > mūladvayam ahiṃsā ca vīryaṃ ca kuśale sadā // 2.25 //
 
-The Bhāṣya resolves the first sandhi as *śraddhā apramādaḥ*: confidence
-and heedfulness. It is not parsed as *śraddhā-pramādaḥ*, “confidence and
-negligence.”
+Śraddhāpramādaḥ is faith and heedfulness. Not faith joined to negligence.
 
 ## 3. Lexical Analysis
 
-```text
-śraddhāpramādaḥ → śraddhā apramādaḥ
-praśrabdhir     → praśrabdhiḥ
-upekṣā          → upekṣā
-hrīr            → hrīḥ
-apatrapā        → apatrapā
-mūladvayam      → mūla-dvayam
-ahiṃsā ca       → ahiṃsā ca
-vīryaṃ ca       → vīryam ca
-kuśale          → kuśale
-sadā            → sadā
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
-| śraddhā | nominative feminine singular | confidence |
-| a-pramādaḥ | nominative masculine singular privative formation | heedfulness |
-| praśrabdhiḥ | nominative feminine singular | pliancy or workability |
-| upekṣā | nominative feminine singular | equanimity |
-| hrīḥ | nominative feminine singular | moral shame |
-| apatrapā | nominative feminine singular | moral caution |
-| mūla-dvayam | nominative neuter singular compound | the pair of wholesome roots |
-| ahiṃsā | nominative feminine singular | non-harming |
-| vīryam | nominative neuter singular | energy |
-| kuśale | locative neuter singular | in wholesome consciousness |
-| sadā | indeclinable | always |
+| śraddhā | nominative | faith |
+| apramādaḥ | nominative | heedfulness |
+| praśrabdhiḥ | nominative | pliancy |
+| upekṣā | nominative | equanimity; not neutral feeling |
+| hrīḥ | nominative | moral shame; explained later |
+| apatrapā | nominative | moral caution; explained later |
+| mūla-dvayam | nominative | two roots: non-greed, non-hatred |
+| ahiṃsā | nominative | non-harming |
+| vīryam | nominative | vigor |
+| kuśale sadā | locative | always in the wholesome |
 
-The Bhāṣya identifies the two roots as non-greed and non-hatred. Counted
-separately, they make ten factors.
+Ten, counting the two roots separately. Non-delusion is prajñā, already in the universal ten. Not counted again.
 
 ## 4. Grammar
 
-The ten coordinated factors share the locative condition *kuśale* and the
-adverb *sadā*:
-
 ```text
-śraddhā ... vīryam
-    → ten wholesome great-ground factors
+whenever consciousness is wholesome
+    → these ten are present
 
-kuśale sadā
-    → always in wholesome [consciousness]
+faith, heedfulness, pliancy, equanimity,
+moral shame, moral caution,
+non-greed, non-hatred,
+non-harming, vigor
 ```
 
-The rule is universal within a qualified range: whenever a consciousness
-is wholesome, the ten factors occur. The Bhāṣya says non-delusion is also
-present, but identifies its nature with *prajñā*, already included among
-the universal factors in VAK 2.24; it is not counted again here.
+The universal ten of 2.24 are not replaced. This ground is narrower.
 
-## 5. Scientific English Rendering
+## 5. Translation
 
-### Kārikā
+### Literal Translation
 
-> Confidence, heedfulness, pliancy, equanimity, moral shame, moral caution,
-> the two [wholesome] roots, non-harming, and energy are always present in
-> wholesome consciousness.
+Faith, heedfulness, pliancy, equanimity, moral shame, moral caution, the two roots, non-harming, and vigor, always in the wholesome.
 
-### Bhāṣya-informed rendering
+### Bhāṣya-informed study translation
 
-> Every wholesome consciousness necessarily includes ten factors:
-> confidence, heedful cultivation of wholesome Dharmas, mental workability,
-> evenness and non-application of consciousness, moral shame, moral caution,
-> non-greed, non-hatred, non-harming, and energetic arousal.
+Those whose ground is the wholesome occur always in wholesome consciousness. These ten. Faith is clarity of consciousness. Others say conviction concerning the truths, the Jewels, and the results of action. Heedfulness is cultivation of wholesome dharmas: attentive care concerning them. Another school reads guarding of consciousness.
 
-Here *upekṣā* is a wholesome mental factor defined as evenness and
-non-application of consciousness. It is distinct from the neutral-feeling
-Faculty discussed earlier.
+Pliancy is workability of consciousness. Bodily pliancy is also stated, as bodily feeling is. Among the factors of awakening it is workability of the body, called a factor because it is favorable to one. It brings workability of consciousness. Joy and what provides a basis for joy were called the awakening factor of joy. Aversion and its sign, the hindrance of ill will. Right view, intention, and effort, the aggregate of prajñā. Intention and effort are not prajñā by nature. Favorable, they receive the name.
 
-## 6. Interpretation
+Equanimity is evenness of consciousness, non-application. How, in that same consciousness, attention whose nature is application, and equanimity whose nature is non-application? The distinction is difficult. Even the difficult can be known. This is exceedingly difficult: no opposition where there is opposition. Application in one respect, non-application in another. Then not all associated factors would have one support. Other questions of this kind will arise. The method for those applies here.
 
-VAK 2.25 narrows the operating range from factors occurring in every
-consciousness to those occurring in every wholesome consciousness. The
-Bhāṣya supplies ten members, counting the two wholesome roots separately,
-and explains why non-delusion is not an additional member: its nature is
-*prajñā*, already present in the universal great-ground.
+Moral shame and moral caution will be explained later. The two roots are non-greed and non-hatred. Non-delusion exists, and its nature is prajñā. Prajñā is a great-ground factor, so it is not designated only a wholesome great-ground factor. Non-harming is non-injury. Vigor is the energetic arousal of consciousness.
 
-The discussion also distinguishes a factor's nature from relations of
-support and naming. The Bhāṣya says bodily workability supports mental
-workability and that factors favorable to an awakening factor may receive
-its designation without having the same nature. The equanimity exchange
-remains unresolved: “in one respect … in another” is proposed, but the
-objection about associated factors sharing one object-support is deferred
-to the treatment of similar questions. An Organon reconstruction must
-preserve that open issue rather than depict aspect-differentiation as a
-settled solution.
+## 6. Philosophical Translation
 
-In Kant-informed Techne, the wholesome class is a conditional
-determination of consciousness, specified by its ten associated factors;
-it is not a new Faculty or a succession of stages. The ten Samyama-bhūmis
-describe Path-related operation of mental factors in the Organon
-framework, with Buddha Dharma as the 11th Bhūmi. This verse neither
-identifies every wholesome consciousness with a Path stage nor asserts
-that each wholesome occurrence is perfected.
+Wholesome is a mode, not a label on an unchanged consciousness. The ten articulate it. Equanimity here is evenness and non-application. It is not the neutral-feeling faculty. Non-delusion is present as Discrimination and is not a second member. Bodily pliancy receives the name by being favorable. The name is not the nature.
 
-The Kośa's governing synthesis: Vijñāna is Discriminative Cognition joining
-and governing Perception and Conception. Their unity is Inconceivable as a
-homogeneous operation; its Idea is disclosed in the Cognition Base. Vijñāna
-governs Mind and guides the reading of Dharma Base. Form Base and Dharma
-Base both include the same *avijñapti* in distinct classifications, and
-Vijñāna bears a *prati* relation to *avijñapti*. The factors named here
-remain distinct from Faculties and from Vijñāna.
+The equanimity exchange is not solved. One respect and another meets the objection that associated factors share one support. The method is deferred.
 
-## 7. Logical Determination
+Organon rendering:
+
+A pass of Objective Logic on the mind: the wholesome is determined by what must be in it. Not the verse English. Not the final pass.
+
+## 7. Technical Vocabulary
+
+| Sanskrit | Running word | Determination |
+|---|---|---|
+| kuśala-mahābhūmika | wholesome great-ground | every wholesome consciousness |
+| śraddhā | faith | clarity; others: conviction |
+| apramāda | heedfulness | attentive care; another school: guarding |
+| praśrabdhi | pliancy | workability of consciousness |
+| upekṣā | equanimity | evenness, non-application; not neutral feeling |
+| alobha, adveṣa | non-greed, non-hatred | the two roots counted |
+| amoha | non-delusion | prajñā; not counted again |
+| ahiṃsā | non-harming | non-injury |
+| vīrya | vigor | arousal of consciousness |
+| bodhyaṅgānukūlya | favorable to an awakening factor | why the body receives the name |
+
+## 8. Logical Determination
 
 ```text
-WholesomeFactors = {
-    Confidence,
-    Heedfulness,
-    Pliancy,
-    Equanimity,
-    MoralShame,
-    MoralCaution,
-    NonGreed,
-    NonHatred,
-    NonHarming,
-    Energy
-}
+wholesome consciousness
+    → the ten
+    and the universal ten
 
-For every consciousness-event e:
-    Wholesome(e)
-        → For every factor f in WholesomeFactors:
-              PresentTogether(f, e)
+non-delusion
+    = prajñā
+    already counted
+    not a second member
+
+name by favor
+    ≠ nature
+
+equanimity
+    ≠ neutral feeling
+attention and equanimity
+    application and non-application
+    one support not settled
 ```
 
-Non-delusion is present through *prajñā* but is not counted as an
-additional member of this ten-factor class. This schema does not resolve
-the Bhāṣya's common-object question about attention and equanimity.
+## 9. Interpretive Note
 
-## 8. Interpretive Note
+The ground is every wholesome consciousness. Not ten stages. Not a claim that these arise only when a skill is developed.
 
-The commentary's alternative definitions remain attributed rather than
-fused. Confidence is first explained as clarity of consciousness; “others”
-explain it as conviction concerning truth, the Three Jewels, action, and
-its result. Heedfulness is cultivation of wholesome Dharmas, specified as
-attentive care; an unnamed other community uses the wording “guarding of
-consciousness.”
+Faith has two reported definitions. They are not fused. Heedfulness is care toward the wholesome dharmas, not those dharmas again. Guarding is another wording.
 
-The account of pliancy preserves the distinction between bodily
-workability, its support of mental workability, and the designation
-“awakening factor” received through favorability. Likewise, the prajñā
-example distinguishes being prajñā by nature from being favorable to
-prajñā. The source's apparent duplicated wording in that example is
-recorded in the Bhāṣya study and is not treated as a settled emendation.
+The equanimity result is a recorded difficulty and a deferral. Different respects are not a demonstrated solution until the shared support is accounted for.
 
-## 9. OWL++ Seed
+Shame and caution are not filled from later passages. Non-harming and vigor stay the brief local definitions.
+
+Organon reading: the wholesome is what the factors determine. Many passes. Not the verse English.
+
+## 10. OWL++ Seed
 
 ```ttl
 @prefix vak: <http://127.0.0.1:3000/vak#> .
@@ -171,33 +130,12 @@ recorded in the Bhāṣya study and is not treated as a settled emendation.
 vak:VAK_2_25
     a vak:Karika ;
     rdfs:label "VAK 2.25" ;
-    vak:hasTopic vak:WholesomeGreatGroundFactors ;
+    vak:hasTopic vak:WholesomeGreatGround ;
     vak:belongsTo vak:Indriyanirdesa .
 
-vak:WholesomeGreatGroundFactors
-    vak:hasMember vak:Confidence,
-        vak:Heedfulness,
-        vak:Pliancy,
-        vak:Equanimity,
-        vak:MoralShame,
-        vak:MoralCaution,
-        vak:NonGreed,
-        vak:NonHatred,
-        vak:NonHarming,
-        vak:Energy ;
-    vak:occursIn vak:EveryWholesomeCittaEvent .
+vak:WholesomeTen vak:inEveryWholesomeConsciousness true .
+vak:EquanimityHere vak:distinctFrom vak:NeutralFeeling .
 
-vak:Equanimity
-    vak:definedAs vak:EvennessOfCitta,
-        vak:NonApplicationOfCitta ;
-    vak:distinctFrom vak:NeutralFeelingFaculty .
-
-vak:NonDelusion
-    vak:hasNature vak:Prajna ;
-    vak:classifiedUnder vak:UniversalGreatGroundFactors .
-
-organon:FactorDesignation
-    organon:distinguishes organon:FactorNature,
-        organon:SupportRelation,
-        organon:TransferredDesignation .
+organon:NotTheFinalPass
+    organon:notTheVerseEnglish true .
 ```

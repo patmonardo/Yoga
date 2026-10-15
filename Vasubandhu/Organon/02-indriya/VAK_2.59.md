@@ -1,4 +1,4 @@
-# VAK_2.59 — Taking and Giving Results
+# VAK_2.59 — Taking and Giving
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -10,196 +10,113 @@
 
 > vartamānāḥ phalaṃ pañca gṛhṇanti dvau prayacchataḥ /
 >
-> vartamānābhyatītau dvau eko 'tītaḥ prayacchati // 2.59 //
+> vartamānābhyatītaṅ dvau eko 'tītaḥ prayacchati // 2.59 //
 
-## 3. Padaccheda
+Taking is assuming seed-status. Not receiving a finished fruit. Not a stored substance.
 
-```text
-vartamānāḥ           → vartamānāḥ
-phalam               → phalam
-pañca                 → pañca
-gṛhṇanti              → gṛhṇanti
-dvau                  → dvau
-prayacchataḥ          → prayacchataḥ
-vartamānābhyatītau    → vartamānau abhyatītau
-dvau                  → dvau
-ekaḥ                  → ekaḥ
-atītaḥ                → atītaḥ
-prayacchati           → prayacchati
-```
+## 3. Lexical Analysis
 
-| Form | Morphology | Lexical force here |
-|---|---|---|
-| vartamānāḥ | nominative masculine plural | being present / presently occurring |
-| phalam | accusative neuter singular | fruit / result |
-| pañca | nominative masculine plural | five causes |
-| gṛhṇanti | third-person plural present active of √`grah` | take, acquire a determinate relation to |
-| dvau | nominative masculine dual | two causes |
-| prayacchataḥ | third-person dual present active of `pra-√yam` | give / deliver |
-| vartamānau | nominative masculine dual | the two while present |
-| abhyatītau | nominative masculine dual | the same two when past |
-| ekaḥ | nominative masculine singular | one cause |
-| atītaḥ | nominative masculine singular | being past |
-| prayacchati | third-person singular present active | gives / brings its result to manifestation |
-
-The compact compound-like sequence `vartamānābhyatītau` coordinates two
-temporal qualifications of the following dual `dvau`: the two give both while
-present and when past. The final singular then isolates the maturation cause.
+| Pada | Force |
+|---|---|
+| vartamānāḥ pañca | five, while present |
+| gṛhṇanti | take |
+| dvau prayacchataḥ | two give |
+| vartamānau abhyatītaṅ | present and past |
+| ekaḥ atītaḥ | one, past |
+| prayacchati | gives |
 
 ## 4. Grammar
 
-The first pāda places the temporal predicate before its counted subject:
-
 ```text
-vartamānāḥ pañca
-    phalaṃ gṛhṇanti
-
-five, while present,
-    take fruit
+five
+    take while present
+    not past, already taken
+    not future, no activity
+two
+    co-arisen and associated
+    give while present
+    taking and giving at one time
+two
+    homogeneous and pervasive
+    give present or past
+    present = immediately after
+one
+    maturation
+    gives only when past
+conditioning
+    omitted
+    not invariably a fruit
 ```
-
-The remainder distributes fruit-giving through three constructions:
-
-```text
-dvau [vartamānau] prayacchataḥ
-    → two give while present
-
-dvau vartamānau abhyatītau [prayacchataḥ]
-    → two give while present and when past
-
-ekaḥ atītaḥ prayacchati
-    → one gives when past
-```
-
-The first `dvau` is supplied with `vartamānau` from the opening qualification,
-as the Bhāṣya confirms. Number performs the doctrinal classification: five
-take, two give simultaneously, two can give across present and past, and one
-gives only after passing into the past.
 
 ## 5. Translation
 
-### Close syntactic construe
+### Literal Translation
 
-> Five, being present, take fruit; two give [it while present]. Two give [it]
-> while present and when past; one, being past, gives [it].
+Five, present, take the fruit. Two give. Two, present and past. One, past, gives.
 
-### Bhāṣya-informed translation
+### Bhāṣya-informed study translation
 
-> Five of the causes assume seed-status toward their fruits only while present.
-> The co-arisen and associated causes also manifest their fruits while present;
-> the homogeneous and pervasive causes can manifest theirs while present or
-> past; and the maturation cause manifests its fruit only after it is past.
+Not when past: already taken. Not when future: no operative activity. The conditioning cause is likewise, and is not mentioned, because it need not have a fruit.
+
+Co-arisen and associated give while present. Same time as the taking. Homogeneous and pervasive give while present or past. Present, by bringing the outflow about immediately after. When the fruit has come about, those two are past, and that fruit has been given. Not given again.
+
+Taking without giving, giving without taking, both, neither. Wholesome roots cut off: the acquisitions abandoned last take and do not give. Reconnection: those very ones, past, give. The rest, both. Unwholesome, through dispassion toward the desire realm, and through the fall. Obscured-indeterminate, through arhatship and the decline. Unobscured-indeterminate: what gives also takes. An arhat's final aggregates take and do not give.
+
+With an object, moment by moment. Wholesome mind, then afflicted or indeterminate: takes, does not give. The reverse. Wholesome after wholesome: both. Apply the rest.
+
+How is a fruit taken? By assuming seed-status toward it. The maturation cause gives only when past. Neither together nor immediate.
+
+Others name four fruits: support, application, assemblage, cultivation. Included in efficacy and predominance. Causes and fruits have been explained.
 
 ## 6. Philosophical Translation
 
-> The Bhāṣya distinguishes taking fruit, defined as assuming seed-status, from
-> giving fruit. These operations can occur at the same time or at different
-> temporal phases, according to cause-type. The causal account is therefore
-> more precise than a single, undifferentiated before-and-after relation.
+Two operations. Taking is seed-status, a determinate order toward a fruit. Giving is the fruit manifest. Giving implies taking. Taking does not imply giving. The final aggregates are the case.
 
-```text
-take fruit
-    = assume seed-status toward a determinate result
+Present giving of the homogeneous cause is the next moment, not two moments at once. Once given, not given again.
 
-give fruit
-    = the determinate result becomes manifest
-```
+The four names are another classification, folded in. Not four more fruits.
 
-**Organon interpretation—not literal Bhāṣya doctrine.** This unit makes two
-causal operations separately studyable: assuming seed-status toward a fruit
-and giving that fruit. Their timing is type-specific, and the two operations
-may be simultaneous. Seed-status is a causal determination, not a stored
-substance or a guarantee that the finished fruit already exists.
+Organon rendering:
+
+A course can be seeded and not delivered. The summit's last aggregates are that case. Not the verse. Not the final pass.
 
 ## 7. Technical Vocabulary
 
-| Sanskrit | Controlled rendering | Determination in this unit |
+| Sanskrit | Running word | Determination |
 |---|---|---|
-| phala-grahaṇa | taking fruit | becoming a seed determinately ordered toward a fruit |
-| phala-pradāna | giving fruit | actual manifestation of the causally determined fruit |
-| bījabhāvopagama | assumption of seed-status | Bhāṣya definition of taking fruit |
-| vartamāna | present | phase of current causal operation |
-| atīta / abhyatīta | past | phase in which the cause has ceased as present but may give fruit |
-| sahabhū-hetu | co-arisen cause | takes and gives fruit in the present |
-| saṃprayuktaka-hetu | associated cause | takes and gives fruit in the present |
-| sabhāga-hetu | homogeneous cause | takes in the present; gives in the present or past |
-| sarvatraga-hetu | pervasive cause | takes in the present; gives in the present or past |
-| vipāka-hetu | maturation cause | takes in the present; gives only when past |
-| kāraṇa-hetu | conditioning cause | omitted from the fixed count because it does not invariably have a fruit |
-| niṣpuruṣakāratva | absence of operative activity | reason a future cause cannot yet take fruit |
-
-`Bīja` here is not a tiny substance stored somewhere in the continuum. It is
-the determinate causal status assumed by a presently operative dharma with
-respect to a fruit. The Bhāṣya, not the kārikā alone, supplies this definition.
+| grahaṇa | taking | seed-status |
+| pradāna | giving | manifestation |
+| bīja | seed | status, not a store |
+| kāraṇa-hetu | conditioning cause | omitted from the five |
 
 ## 8. Logical Determination
 
-The six causes form a temporally typed causal matrix:
-
-| Cause | Takes fruit | Gives fruit | Temporal form |
-|---|---|---|---|
-| co-arisen | present | present | simultaneous |
-| associated | present | present | simultaneous |
-| homogeneous | present | present or past | immediately successive continuity |
-| pervasive | present | present or past | immediately successive continuity |
-| maturation | present | past only | temporally non-immediate maturation |
-| conditioning | present when fruit-determinate | variable | excluded from the invariant enumeration |
-
 ```text
-Present(cause)
-AND DeterminatelyOrderedToward(cause, fruit)
-    → TakesFruit(cause, fruit)
-
-ManifestsThrough(fruit, cause, time)
-    → GivesFruit(cause, fruit, time)
+take
+    present only
+give, co-arisen and associated
+    present
+give, homogeneous and pervasive
+    present or past
+give, maturation
+    past only
+give
+    → take
+take
+    ≠ give
+four extra names
+    inside efficacy and predominance
 ```
 
-The implication is asymmetrical:
+## 9. Interpretive Note
 
-```text
-GivesFruit(cause, fruit)
-    → TakesFruit(cause, fruit)
+The close is that causes and fruits have been explained. How many causes a dharma arises from is next. The four conditions are later. Not this unit.
 
-TakesFruit(cause, fruit)
-    ↛ GivesFruit(cause, fruit)
+## 10. OWL++ Seed
+
+```ttl
+@prefix vak: <http://127.0.0.1:3000/vak#> .
+
+vak:VAK_2_59 a vak:Karika ; vak:hasTopic vak:TakingAndGiving .
+vak:Take vak:impliesGive false .
 ```
-
-The Bhāṣya's final aggregates of an arhat instantiate the second case: they can
-assume causal determination without a later continuation in which that fruit
-is delivered.
-
-The homogeneous and pervasive cases require precision. “Giving while
-present” describes a causal sequence whose fruit arises immediately after the
-cause. It does not make two successive moments numerically simultaneous. By
-the time the fruit is arisen, both occurrences can be spoken of as past, yet
-the fruit is not given a second time.
-
-## 9. Interpretation
-
-The Bhāṣya closes this unit at 97.15 with “the causes and fruits have been
-explained.” The four additional result-names are attributed to other
-teachers and are included within the results of operative efficacy and
-predominance; they are not added as four independent results to the main
-classification.
-
-The next source unit, VAK 2.60, begins at 97.16 by asking which dharmas arise
-from how many causes; its kārikā follows at 97.20. The four-condition
-(*pratyaya*) discussion comes later. This boundary keeps the present
-temporal rules distinct from the next cause-count analysis.
-
-This is the closing study handle for Hetu: **taking is not giving**. A cause
-takes a fruit when it presently assumes seed-status in relation to that
-fruit; it gives a fruit when the fruit is manifested through its causal
-operation. Co-arisen and associated causes unite the two operations in the
-present; homogeneous and pervasive causes extend giving across the transition
-into the past; maturation gives only when past. The classifications explain
-different temporal relations, not different kinds of hidden causal substance.
-
-## 10. Review Status
-
-First extended Hetu pass complete. The full taking/giving matrix, the
-fourfold examples, and the alternative result-names are retained, together
-with the source's explicit closure of causes and results at 97.15.
-
-Textual uncertainties remain marked. No independent manuscript or critical
-edition collation has been performed.

@@ -1,159 +1,28 @@
-# VAK_2.58 Bhāṣya — Efficacy, Attainment, and Fruit of Predominance
+# VAK_2.58 Bhāṣya — Efficacy and Predominance
 
 ## 1. Kārikā Anchor
 
 > yadvalāj jāyate yat tat phalaṃ puruṣakārajam /
 > apūrvaḥ saṃskṛtasyaiva saṃskṛto 'dhipateḥ phalam // 2.58 //
 
-> Whatever arises through something's power is its result of efficacy.
-> A conditioned dharma not earlier arisen is the fruit of predominance
-> of the conditioned alone.
+> Whatever arises through the force of which, that is the fruit born of efficacy. A conditioned dharma not earlier arisen is the fruit of predominance of the conditioned alone.
 
-The short unit at 96.03–10 completes the definitions of results. The
-next question concerns when causes take and give their results.
+From 96.03 through 96.10. Taking and giving at 96.11 is 2.59. Not opened.
 
-## 2. Continuous Sanskrit
+## 2. Continuous Conventional Translation
 
-> yadvalājjāyate yattatphalaṃ puruṣakārajam /
-> tadyathā adharabhūmikasya prayogacittasyoparibhūmikaḥ samādhiḥ sāsravasyānāsravo dhyānacittasya nirmāṇacittamityevamādi /
-> pratisaṃkhyānirodhastu yadvalāt prāpyata iti vaktavyam /
-> apūrvaḥ saṃskṛtasyaiva saṃskṛto 'dhipateḥ phalam // 2.58 //
-> pūrvotpannādanyaḥ saṃskṛto dharmaḥ saṃskṛtasyaiva sarvasyādhipatiphalam /
-> puruṣādhipatiphalayoḥ kiṃ nānā kāraṇam /
-> kartuḥ puruṣakāraphalam /
-> akarturapyadhipatiphalam /
-> tadyathā śilpini śilpaṃ puruṣakāraphalamadhipatiphalaṃ ca /
-> anyeṣāmadhipatiphalameva /
+Whatever arises through a force is its fruit of efficacy. Higher concentration from lower application. Uncontaminated from contaminated. Transformation-mind from concentration-mind. Cessation by Discrimination is attained through the force, not arisen. Predominance is a conditioned dharma not earlier arisen, of the conditioned alone. Of the agent, both. Of the non-agent, predominance only. The crafted work, for the artisan and for the others.
 
-## 3. Continuous Conventional Translation
+## 3. Movement and Voice
 
-“Whatever arises through something's power is its result of efficacy.”
-For example, concentration on a higher level is such a result of an
-application-mind on a lower level; an uncontaminated [concentration]
-of a contaminated one; and a transformation-mind of a concentration-mind.
-Other cases are similar. For cessation through discrimination, however,
-one must say, “that which is attained through its power.”
+Definition, examples, the verb changed for the cessation, then the wider fruit, then one work in two relations. Not a collation.
 
-“A conditioned dharma not earlier arisen is the fruit of predominance
-of the conditioned alone.” A conditioned dharma other than one that
-arose earlier is the fruit of predominance of every conditioned dharma
-[relative to which it has not arisen earlier].
+## 4. Organon Reading
 
-What is the distinction between result of efficacy and fruit of
-predominance? It is a result of efficacy in relation to the agent; it is
-a fruit of predominance even in relation to a non-agent. For example,
-a crafted work is both a result of efficacy and a fruit of predominance
-in relation to its artisan; in relation to others, it is only a
-fruit of predominance.
+Relation, not an isolated object. Attained is not produced. The local concentration is not the ascent. Not the translation. Not the final pass.
 
-## 4. Arising Through Power
+## 5. Review Status
 
-The definition identifies an operative relation rather than mere
-succession. The examples cross levels, distinguish contaminated
-from uncontaminated concentration, and relate concentration to a
-transformation-mind. The result need not duplicate its cause's
-level or contaminated status.
+Fine-tuned with the kārikā. The figure is not Puruṣa. Discrimination kept.
 
-The Sanskrit compresses the second example. Supplying “concentration”
-follows the preceding *samādhiḥ*; it does not assert that every
-contaminated state produces an uncontaminated one. These are examples
-of efficacy, not a complete list of sufficient conditions for each
-transition.
-
-## 5. Attainment Is Not Production
-
-The explicit replacement of “arises” by “is attained” for cessation
-through discrimination preserves the distinction developed in 2.55.
-Efficacy in relation to liberation does not require treating the
-unconditioned as a newly produced dharma.
-
-This sentence does not decide between the competing ontologies of
-cessation previously presented. It specifies how the result-language
-must be construed in this case. Neither a new substance nor a new
-event of absence should be silently inserted into the translation.
-
-## 6. The Temporal Scope of the Fruit of Predominance
-
-*Apūrva* is explained as excluding what arose earlier. Its force is
-relative to the conditioned dharma being considered as cause: an
-already earlier occurrence is not its fruit of predominance. “New”
-alone would obscure this relation, and “strictly later” would add
-a restriction the local gloss does not state.
-
-*Saṃskṛtasya eva* restricts the bearer of this result to the conditioned.
-This preserves 2.55's distinction: the unconditioned can enter the broad
-non-obstruction account of conditioning cause without taking and giving
-a result of its own. The present sentence does not revoke that distinction.
-
-## 7. One Work, Two Result-Relations
-
-The artisan example establishes that result-status depends upon a
-relation. The same work is a result of efficacy and a predominant
-result relative to its producer, while it is only a fruit of predominance
-relative to the others in the example. The latter designation does
-not attribute the artisan's productive agency to them.
-
-Predominance is thus broader than agency. Earlier studies explained
-its broad sense through non-obstruction as well as positive contribution.
-Here the distinction is applied to a single work, rather than to two
-separate classes of objects.
-
-## 8. Textual and Translation Decisions
-
-The running Sanskrit is retained apart from source labels and surrounding
-spacing. Its anomalous label at the second half of the verse is omitted
-with the other labels. The lexical reading *yadvalāt* is construed as
-*yad-balāt*, “through whose power”; no Sanskrit rewriting is imposed.
-
-“Concentration” in the elliptical second example and the relational
-qualification in the fruit-of-predominance sentence are supplied visibly.
-The research translation's “different from one that has already arisen”
-can suggest mere numerical difference; the source's gloss instead
-excludes prior arising in the relevant causal relation.
-
-The source says “the agent” and “even the non-agent.” It does not here
-qualify efficacy as exclusively immediate or unmediated. The earlier
-disagreement over a distant result of efficacy therefore remains open;
-“direct production” should not silently settle it. *Śilpa* is rendered
-“crafted work” in the artisan example, and *nirmāṇacitta* retains the
-established rendering “transformation-mind.”
-
-## 9. Interpretation
-
-The local Bhāṣya distinguishes the agent's operative efficacy from the
-broader relation of predominance: the artisan's work is both kinds of result
-for the artisan, but only a fruit of predominance for others. The Path
-example adds a separate distinction between producing a conditioned result
-and attaining analytical cessation.
-
-In the project's Hub reading, *Hetu* and *Pratyaya* are the two organizing
-sections, and this verse closes the Hub according to the project's table of
-contents. The Bhāṣya itself does not name those sections; its local terms are
-the result of operative activity and the fruit of predominance.
-
-The wider synthesis is project-level: Hegel's Subjective Logic develops
-*Hetu*, which returns in the second Objectivity model as teleological
-reflective cause; Yoga's *Pratyaya* is the unity of the Concept in the
-Qualitative Syllogism; and *Samādhi* combines Subjectivity and Objectivity.
-The conditioned *samādhi* in this Bhāṣya gives a local point of contact, not
-a textual equation with that synthesis. The aim is to articulate the System
-of Absolute Dharma Knowing as studyable sciences while keeping that
-interpretation separate from translation.
-
-For study, retain the relational question. A result of efficacy is named from
-the agent's operative power; a fruit of predominance is named from the wider
-conditioned field, including non-agents. The same crafted work can therefore
-have both descriptions in relation to its artisan and only the latter in
-relation to others. The Path's relation to disconnection remains attainment,
-not ordinary production.
-
-## 10. Review Status
-
-First extended results pass complete. The fifty-eighth study of the restarted Indriyanirdeśa Bhāṣya
-sequence. The kārikā anchor, research Bhāṣya, preceding boundary, and
-running Sanskrit at 96.03–10 have been compared. The complete local
-unit is translated; supplied words and contextual construals are marked.
-
-No independent edition or manuscript collation has been performed.
-Original witnesses and existing studies are unchanged. VAK 2.59 begins
-at 96.11 with the timing of taking and giving results.
+2.59 has not been opened.

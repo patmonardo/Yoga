@@ -1,4 +1,4 @@
-# VAK_2.36 — Acquisition and Non-Acquisition
+# VAK_2.36 — Acquisition
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -12,172 +12,143 @@
 >
 > prāptyaprāptī svasaṃtānapatitānāṃ nirodhayoḥ // 2.36 //
 
-The opening completes the VAK 2.35 catalogue. The research witness spaces
-*svasaṃtāna patitānām*; the compound is joined for analysis.
+The groups of names close the list of 2.35. The definition begins at acquisition.
 
 ## 3. Lexical Analysis
 
-```text
-nāmakāyādayaś ceti       → nāma-kāya-ādayaḥ ca iti
-prāptir                   → prāptiḥ
-lābhaḥ                    → lābhaḥ
-samanvayaḥ                → samanvayaḥ
-prāptyaprāptī             → prāpti-aprāptī
-svasaṃtānapatitānāṃ       → sva-saṃtāna-patitānām
-nirodhayoḥ                → nirodhayoḥ
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
-| nāma-kāya-ādayaḥ | nominative masculine plural compound | groups of names and related formations |
-| iti | closing particle | completes the preceding catalogue |
-| prāptiḥ | nominative feminine singular | acquisition |
-| lābhaḥ | nominative masculine singular | obtaining |
-| samanvayaḥ | nominative masculine singular | possession or continued endowment |
-| prāpti-aprāptī | nominative feminine dual | acquisition and non-acquisition |
-| sva-saṃtāna-patitānām | genitive plural compound | of what belongs to one's own continuum |
+| nāma-kāya-ādayaḥ | nominative | groups of names and so forth |
+| iti | | thus, the list |
+| prāptiḥ | nominative | acquisition |
+| lābhaḥ | nominative | obtaining |
+| samanvayaḥ | nominative | possession |
+| sva-saṃtāna-patitānām | genitive | of what belongs to one's own continuum |
 | nirodhayoḥ | genitive dual | of the two cessations |
 
-## 4. Scientific English Rendering
+Two explanations of one word. Gender does not block that.
 
-> Groups of names and related formations complete the catalogue.
-> Acquisition is obtaining and possession. Acquisition and non-acquisition
-> apply to conditioned Dharmas belonging to one's own continuum and, among
-> the unconditioned, to the two cessations.
-
-The Bhāṣya distinguishes first obtaining what was absent or relinquished
-from continuing to possess what has been obtained. It excludes another
-continuum, what belongs to no continuum, and space from the relation's
-range.
-
-## 5. Interpretation
-
-The verse specifies the boundary of a technical relation. *Prāpti* is not
-the present manifestation of a Dharma, nor a loose predicate that can be
-assigned to anything. It concerns a Dharma's acquisition or continued
-endowment within the continuum to which it belongs; *aprāpti* is its
-contrary only within this admissible range.
-
-The Bhāṣya then makes the profound issue explicit. The Vaibhāṣikas treat
-acquisition and non-acquisition as distinct real dissociated formations.
-The critical account preserves the practical difference while rejecting an
-additional entity: the status can be grounded in a continuum's seed-capacity,
-transformation of support, and mastery of renewed arising.
-
-The transition is therefore:
+## 4. Grammar
 
 ```text
-Manifest event
-    is not identical to
-Continuum-status
+acquisition
+    = obtaining, and possession
+    obtaining what was not possessed, or had been relinquished
+    possessing what has been obtained
+    non-acquisition by the reverse
 
-Continuum-status
-    is not identical to
-An additional real possession-entity
+range
+    conditioned: one's own continuum
+    not another's
+    not the non-sentient
+    unconditioned: the two cessations
+    not space
+    no acquisition, therefore no non-acquisition
 ```
 
-This gives the Hub its first exact task. Vijñāna does not merely register an
-event in the Impure Wheel; it governs the intelligibility of how a Dharma's
-causal capacity is retained, transformed, foreclosed, or made available
-across the continuum.
+## 5. Translation
 
-The Kośa's governing synthesis remains: Vijñāna is Discriminative Cognition
-joining and governing Perception and Conception. Their unity is
-Inconceivable as homogeneous operation, with its Idea disclosed in the
-Cognition Base. Vijñāna governs Mind and guides Dharma Base. Form Base and
-Dharma Base both classify the same *avijñapti*, with Vijñāna bearing a
-*prati* relation to it. The local dispute over *prāpti* concerns how a
-continuum-status is grounded, not whether these terms collapse into one.
+### Literal Translation
 
-## 6. Logical Determination
+And the groups of names and so forth. Acquisition is obtaining and possession. Acquisition and non-acquisition of what belongs to one's own continuum, and of the two cessations.
 
-The relation's range:
+### Bhāṣya-informed study translation
+
+Among these, first. Acquisition is twofold: obtaining what was not obtained or had been relinquished, and possessing what has been obtained. Non-acquisition by the reverse. Of what belongs to one's own continuum. Not of another's. No one possesses what belongs to another. Not of what belongs to no continuum. No one possesses the non-sentient. That is the rule for the conditioned. Among the unconditioned, the two cessations.
+
+All sentient beings possess cessation not through Discrimination. All noble persons, except one still fully bound at the initial moment, and some ordinary persons, possess cessation through Discrimination. No one possesses space. Therefore it has no acquisition. Where there is no acquisition, there is also no non-acquisition.
+
+Is acquisition a distinct entity? A sūtra speaks of arising, obtaining, and possession of the ten dharmas of one beyond training. Then a wheel-turning king possesses seven treasures. There the word is mastery. Why mastery there and a distinct entity elsewhere? Neither its own nature nor its activity is discerned. A real dharma is untenable.
+
+Not a cause of arising. The unconditioned does not arise. What was not acquired, or was relinquished, can arise. Co-arising acquisition leaves no work for arising. Degrees of affliction would not differ. A cause of determining status, then. Without it, noble and ordinary would not be determined when consciousness is worldly. That difference is abandonment. The support of the noble has been transformed by the paths of seeing and cultivation so that the abandoned afflictions cannot arise again. Like rice burned by fire. Or the seed impaired by a worldly path. The reverse is non-abandonment. Possession is designated from that.
+
+Wholesome dharmas: without effort, and through effort. Unimpaired seed-capacity is possession of the first. Wrong view impairs it. Not completely eradicated. The second, once arisen, is possessed by unimpeded mastery of bringing them forth. The seed receives the name. Not another entity.
+
+A seed is name-and-form capable of a result, directly or through a succession, by a particular transformation of the continuum. Transformation is the continuum becoming otherwise. The continuum is conditioned dharmas of the three times as cause and result. Possession of greed, in that sentence, is tolerating it or not expelling it. Possession in every case is a dharma by designation. Its negation is non-possession. The Vaibhāṣikas declare both real. This is our established doctrine.
+
+## 6. Philosophical Translation
+
+Acquisition is not the present event. Obtaining is the transition. Possession is the continuation. The reverse is non-acquisition, only inside the range. Outside the range is not a fail. Another's dharma, the non-sentient, and space are outside.
+
+The dispute is what makes the status true. A distinct dissociated real, or a designation grounded in the continuum's capacity. The sūtra word will not decide it. A king possesses treasures. The paths transform the support. Abandoned means cannot arise again. The seed account is not named as a school. The Vaibhāṣika reply stands. Not settled.
+
+The two cessations are the verse's nirodha. Not the look-ahead. Not a grade.
+
+Organon rendering:
+
+Pass and fail are this pair, when the range is met. Not the verse English. Objective Logic on the mind is the pass. Not the final pass.
+
+## 7. Technical Vocabulary
+
+| Sanskrit | Running word | Determination |
+|---|---|---|
+| prāpti | acquisition | obtaining and possession |
+| lābha | obtaining | what was absent or relinquished |
+| samanvāgama | possession | what has been obtained |
+| aprāpti | non-acquisition | the reverse, inside the range |
+| svasaṃtāna | one's own continuum | the conditioned range |
+| pratisaṃkhyā-nirodha | cessation through Discrimination | not all beings |
+| apratisaṃkhyā-nirodha | cessation not through Discrimination | all sentient beings |
+| ākāśa | space | neither |
+| bīja | seed | capable name-and-form; not a second entity |
+| prajñapti | designation | the critical account |
+| dravya | real entity | the Vaibhāṣika account |
+
+Anāsrava in the quotation is uncontaminated. Not unconditioned. Not every uncontaminated dharma.
+
+## 8. Logical Determination
 
 ```text
-Admissible(S, D)
-    := Conditioned(D) and BelongsToOwnContinuum(D, S)
-       or D is one of the two cessations
+acquisition
+    = obtaining or continued possession
+non-acquisition
+    = reverse, inside the range
+
+own continuum or one of two cessations
+    → the pair may apply
+another continuum, non-sentient, space
+    → neither
+
+no acquisition
+    → no non-acquisition
+
+real entity
+    attributed, not settled
+designation from capacity
+    the critical account
+    not a named school
+seed
+    ≠ a hidden extra
+abandonment
+    = cannot arise again
+    ≠ destruction of a possession-object
 ```
 
-The first definition:
+## 9. Interpretive Note
 
-```text
-Prapti(S, D)
-    := NewlyObtained(S, D)
-       or ContinuesToPossess(S, D)
+The list is completed and left. The inquiry is acquisition. Scriptural wording, causal work, and noble status are tested in that order. Production is disowned. Status remains the problem, because worldly consciousness does not display the path.
 
-Aprapti(S, D)
-    := not Prapti(S, D)
-       within Admissible(S, D)
-```
+The initial-moment exception is contextual. Fully bound, at the first moment of the noble path. Not a restored collation. The greed sentence is a local use. Tolerating, or not expelling. Not the king's mastery, and not the seed, forced into one gloss.
 
-Thus:
+Organon reading: the pair survives either account. What is stored is the question the next verses take up. Not the verse English.
 
-```text
-OutsideRange(S, D)
-    is not Aprapti(S, D)
-```
-
-The disputed ground:
-
-```text
-Vaibhasika:
-    Prapti(S, D) requires an additional real Dharma
-
-Critical account:
-    Prapti(S, D) is designated from
-        SeedCapacity(S, D)
-        + SupportTransformation(S)
-        + RenewedArisingCapacity(S, D)
-        + Mastery(S, D)
-```
-
-## 7. Interpretive Note
-
-The Bhāṣya does not deny the difference between acquired and unacquired
-status. It asks what makes that difference true. Its critical line opposes
-the inference from the word “possession” to a distinct real Dharma:
-scriptural possession can also mean mastery, tolerance, or failure to
-expel. It further argues that acquisition cannot be a universal production
-cause, since unconditioned Dharmas do not arise and different degrees of
-affliction require a more discriminating ground.
-
-For abandoned afflictions, the support is transformed by the Paths of
-seeing and cultivation so that it cannot produce the relevant affliction
-again. The Bhāṣya compares that support to rice burned by fire. For
-effortless wholesome Dharmas, possession rests on unimpaired seed-capacity;
-for effort-produced wholesome Dharmas, it rests on mastery of renewed
-arising. This is the distinction required to understand why a continuum may
-be held back from a result it has not attained without treating absence as
-a mere lack of present appearance.
-
-## 8. OWL++ Seed
+## 10. OWL++ Seed
 
 ```ttl
 @prefix vak: <http://127.0.0.1:3000/vak#> .
+@prefix organon: <http://127.0.0.1:3000/organon#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
 vak:VAK_2_36
     a vak:Karika ;
     rdfs:label "VAK 2.36" ;
-    vak:hasTopic vak:AcquisitionAndNonAcquisition ;
+    vak:hasTopic vak:Acquisition ;
     vak:belongsTo vak:Indriyanirdesa .
 
-vak:Acquisition
-    vak:includes vak:NewObtaining,
-        vak:ContinuedPossession ;
-    vak:hasDomain vak:OwnContinuumDharma,
-        vak:TwoCessations .
+vak:Acquisition vak:includes vak:Obtaining, vak:Possession .
+vak:Acquisition vak:range vak:OwnContinuum, vak:TwoCessations .
+vak:Space vak:neither true .
 
-vak:NonAcquisition
-    vak:isContraryTo vak:Acquisition ;
-    vak:hasDomain vak:OwnContinuumDharma,
-        vak:TwoCessations .
-
-vak:CriticalAccountOfAcquisition
-    vak:groundsStatusIn vak:SeedCapacity,
-        vak:SupportTransformation,
-        vak:RenewedArisingCapacity,
-        vak:Mastery ;
-    vak:rejects vak:AdditionalRealPossessionEntity .
+organon:DisputeNotSettled
+    organon:notTheVerseEnglish true .
 ```

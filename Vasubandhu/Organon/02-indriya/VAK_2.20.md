@@ -1,4 +1,4 @@
-# VAK_2.20 — The Fewest Faculties Possessed
+# VAK_2.20 — The Fewest
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -12,220 +12,109 @@
 >
 > yukto bālas tathārūpye upekṣāyurmanaḥśubhaiḥ // 2.20 //
 
-The surface form `vin-` is resolved by the Bhāṣya as `vit`, a collective
-designation for feeling or experiencing. It denotes all five feeling
-faculties here, not one additional faculty named “vit.”
+Vin- is vit. Feeling, collectively the five. Not a sixth faculty.
 
 ## 3. Lexical Analysis
 
-```text
-sarvālpair           → sarva-alpaiḥ
-niḥśubho             → niḥ-śubhaḥ
-aṣṭābhir             → aṣṭābhiḥ
-vinmanaḥkāyajīvitaiḥ → vit-manas-kāya-jīvitaiḥ
-yukto                → yuktaḥ
-bālas                → bālaḥ
-tathā                → tathā
-ārūpye               → ārūpye
-upekṣāyurmanaḥśubhaiḥ
-                     → upekṣā-āyus-manas-śubhaiḥ
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
-| sarva-alpaiḥ | instrumental plural superlative expression | with the fewest of all |
-| niḥ-śubhaḥ | nominative masculine singular | one without wholesome faculties |
-| aṣṭābhiḥ | instrumental plural numeral | with eight faculties |
-| vit | compound member, lexically explained by the Bhāṣya | feeling or experiencing; collectively, the five feelings |
-| manas | compound member | mind faculty |
-| kāya | compound member | body faculty |
-| jīvita | compound member | life faculty |
-| yuktaḥ | nominative masculine singular | endowed with / conjoined with |
-| bālaḥ | nominative masculine singular | ordinary person, as defined by the Bhāṣya |
-| tathā | indeclinable | likewise |
-| ārūpye | locative singular | in the formless realm |
-| upekṣā | compound member | neutral-feeling faculty |
-| āyus | compound member | life faculty |
-| śubha | compound member | wholesome faculties; narrowed by the Bhāṣya to the five beginning with confidence |
+| sarva-alpaiḥ | instrumental | with the fewest |
+| niḥ-śubhaḥ | nominative | without the wholesome |
+| aṣṭābhiḥ | instrumental | with eight |
+| vit | compound | feeling; the five |
+| manas, kāya, jīvita | compound | mind, body, life |
+| yuktaḥ | nominative | endowed with |
+| bālaḥ | nominative | ordinary person |
+| tathā ārūpye | locative | likewise, in the formless realm |
+| upekṣā-āyus-manas-śubhaiḥ | instrumental | neutral feeling, life, mind, the wholesome |
+
+Niḥśubha is severed wholesome roots. Śubha here is the five beginning with faith, not the three.
 
 ## 4. Grammar
 
-The first clause answers the question “who possesses the fewest faculties?”
-
 ```text
-niḥśubhaḥ bālaḥ
-    → an ordinary person without wholesome faculties
+severed roots
+    five feelings + body + mind + life
+    = 8
 
-sarva-alpaiḥ aṣṭābhiḥ ... yuktaḥ
-    → is endowed with the fewest of all: eight
+ordinary person, formless
+    neutral feeling + life + mind + five
+    = 8
 
-vit-manas-kāya-jīvitaiḥ
-    → with the feelings, mind, body, and life
+shared
+    = neutral feeling, life, mind
 ```
 
-The Bhāṣya expands `vit` into the five feeling faculties, making the count:
+Yuktaḥ carries into the second clause. The three are excluded by the eight and by the ordinary person.
 
-```text
-5 feelings + mind + body + life = 8
-```
+## 5. Translation
 
-The second clause coordinates a parallel minimum:
+### Literal Translation
 
-```text
-tathā ārūpye bālaḥ
-    → likewise, an ordinary person in the formless realm
+One without the wholesome is endowed, at the least, with eight: feeling, mind, body, and life. Likewise an ordinary person in the formless realm, with neutral feeling, life, mind, and the wholesome faculties.
 
-upekṣā-āyus-manas-śubhaiḥ [yuktaḥ]
-    → is endowed with neutral feeling, life, mind,
-      and the wholesome faculties
-```
+### Bhāṣya-informed study translation
 
-Here `yuktaḥ` is understood from the first clause. The Bhāṣya constrains
-`śubha` by both the total count and the ordinary status of the subject: it
-means the five faculties beginning with confidence, not the three
-uncontaminated realization faculties.
+With how many is one endowed who possesses the fewest? One whose wholesome roots have been severed is without the wholesome, and is endowed at the least with eight: the five feelings, and body, mind, and life. Feeling is vit because it experiences, or vit is experiencing, as saṃpat is accomplishment.
 
-## 5. Scientific English Rendering
+Just as that one is endowed with eight, likewise an ordinary person in the formless realm. Bāla is the name of an ordinary person. With which eight? Neutral feeling, life, mind, and those beginning with faith. They are exclusively wholesome, so the word takes them. Then “I shall know” and the rest would also be taken. No: because the subject is eight, and because the subject is an ordinary person.
 
-### Kārikā
+## 6. Philosophical Translation
 
-> An ordinary person without wholesome faculties is endowed with the fewest of all—with eight: the feelings, mind, body, and life. Likewise, in the formless realm, [an ordinary person is endowed] with neutral feeling, life, mind, and the wholesome faculties.
+Eight is the lower bound, and it is two configurations. One keeps body and all five feelings, and has no wholesome roots. One keeps the five that equip the path, and has no body and only neutral feeling. The shared three do not make them one state. The number does not rank them.
 
-### Bhāṣya-informed rendering
+Organon rendering:
 
-> The minimum number of possessed faculties is eight. One whose wholesome roots have been severed possesses the five feelings together with body, mind, and life. An ordinary person in the formless realm also possesses eight: neutral feeling, life, mind, and the five wholesome faculties beginning with confidence.
-
-The two configurations share only neutral feeling, life, and mind. Their equal
-cardinality does not indicate identical composition or ethical-path status.
-
-## 6. Interpretation
-
-The Bhāṣya gives two distinct eight-Faculty configurations at
-the minimum. One belongs to a person whose wholesome roots have
-been severed: all five feelings, Body, Mind, and Life. The other
-belongs to an ordinary person in the formless realm: neutral
-feeling, Life, Mind, and the five wholesome Faculties beginning
-with confidence. The sets share a triad, but differ in membership
-and ethical status; equal cardinality does not make them one
-configuration or a ranking.
-
-In the Kant-informed Techne, the conditions defining each bearer
-and the members of each set remain explicit. This formalization
-is a project-level reading, not a universal hierarchy inferred
-from counts.
-
-The Kośa's governing synthesis: Vijñāna is Discriminative Cognition joining
-and governing Perception and Conception. Their unity is Inconceivable as a
-homogeneous operation; its Idea is disclosed in the Cognition Base. Vijñāna
-governs Mind and guides the reading of Dharma Base. *Avijñapti* is the
-bridge, one Dharma classified in both Form Base and Dharma Base; Vijñāna
-bears a *prati* relation to it.
+The hub is not this count. Prāpti is the telos being looked toward, the technē that would lay out hetu and pratyaya. Without that telos in the desire realm the path is not entered. These two eights are the floor the controller still has to type. Not the verse English.
 
 ## 7. Technical Vocabulary
 
-| Sanskrit | Project rendering | Determination |
+| Sanskrit | Running word | Determination |
 |---|---|---|
-| sarvālpa | fewest of all | global minimum faculty-count, here eight |
-| niḥśubha | without wholesome faculties | defined by the Bhāṣya as one whose wholesome roots are severed |
-| samucchinna-kuśala-mūla | one whose wholesome roots are completely severed | Bhāṣya determination of the first minimum case |
-| vit | feeling / experiencing | collective expression for all five feeling faculties |
-| vedayate | experiences | verbal explanation offered by the Bhāṣya for `vit` |
-| bāla | ordinary person | defined here as `pṛthagjana`, excluding a noble person |
-| pṛthagjana | ordinary person | Bhāṣya gloss fixing the subject-status of the formless case |
-| ārūpya | formless realm | setting of the second minimum configuration |
-| śubha-indriya | wholesome faculties | in this count, the five beginning with confidence |
-| śraddhādi-pañcaka | five beginning with confidence | confidence, energy, mindfulness, concentration, and discernment |
-
-The Bhāṣya explicitly rejects including the three realization faculties under
-`śubha`: the subject is an ordinary person, and the stated total is eight.
+| sarvālpa | the fewest | eight |
+| niḥśubha | without the wholesome | severed roots |
+| vit | feeling | the five; vedayate |
+| bāla | ordinary person | pṛthagjana; not a child |
+| śubha | the wholesome | the five, in this count |
+| samucchinna-kuśala-mūla | severed wholesome roots | the first case |
 
 ## 8. Logical Determination
 
-The minimum cardinality is:
-
 ```text
-ForEvery valid living FacultyConfiguration c:
-    Count(c) ≥ 8
-```
+every living configuration
+    ≥ 8
 
-The first witness of that minimum is:
+severed roots
+    = five feelings, body, mind, life
+    wholesome five absent from the minimum
 
-```text
-FiveFeelings
-    = {Pleasure, Pain, Gladness, Distress, NeutralFeeling}
+formless ordinary person
+    = neutral feeling, life, mind, five
+    material faculties absent from the minimum
+    the three not included
 
-SeveredWholesomeRootsMinimum
-    = FiveFeelings ∪ {Body, Mind, Life}
+same count
+    ≠ same set
+intersection
+    = neutral feeling, life, mind
 
-Count = 8
-WholesomePathFive ∩ Configuration = ∅
-```
-
-The second witness is:
-
-```text
-WholesomePathFive
-    = {Confidence, Energy, Mindfulness,
-       Concentration, Discernment}
-
-FormlessOrdinaryMinimum
-    = {NeutralFeeling, Life, Mind} ∪ WholesomePathFive
-
-Count = 8
-MaterialFaculties ∩ Configuration = ∅
-```
-
-Therefore:
-
-```text
-Count(SeveredWholesomeRootsMinimum)
-    = Count(FormlessOrdinaryMinimum)
-
-SeveredWholesomeRootsMinimum
-    ≠ FormlessOrdinaryMinimum
-```
-
-The shared invariant is exactly the triad from VAK 2.17:
-
-```text
-Intersection(
-    SeveredWholesomeRootsMinimum,
-    FormlessOrdinaryMinimum)
-        = {NeutralFeeling, Life, Mind}
+at the least
+    ↛ every such person lacks the rest
 ```
 
 ## 9. Interpretive Note
 
-VAK 2.20 changes the question from the closure generated by a selected
-faculty to the lower bound of the entire possession-system. Eight is the
-minimum, but the verse immediately prevents us from treating that number as
-a sufficient model.
+The question has changed. Not what one faculty entails. What is the fewest a possessor can have.
 
-The first configuration belongs to a person whose wholesome roots have been
-severed. `Niḥśubha` does not mean absence of all functioning or all affect.
-That continuum still possesses body, life, mind, and the complete fivefold
-feeling range. What is absent is wholesome path-capacity.
+Without the wholesome is not an unwholesome thought, and not no faculties. The first eight still feels. Vit is not a sixth feeling.
 
-The second configuration is almost an inversion. The formless ordinary
-person lacks body and sensory faculties and possesses only neutral feeling,
-yet retains confidence, energy, mindfulness, concentration, and discernment.
-These are wholesome but contaminated faculties available to an ordinary
-person; they are not the uncontaminated realization faculties of a noble
-path-stage.
+At the least does not say every severed-roots person lacks eye, ear, nose, tongue, or the sex faculties. The prose does not list when those are absent.
 
-The comparison shows why cardinality alone is insufficient for describing
-a possession-set. The common triad does not erase the distinct membership,
-realm, or ethical status of either configuration. The Bhāṣya's objection
-also distinguishes the broad classification “wholesome” from its local
-reference to the five Faculties: the stated count and the ordinary-person
-status exclude the three realization Faculties.
+Wholesome would also take the three. The eight and the ordinary person exclude them. The reply does not deny that the three are wholesome. General extension and local range need not coincide.
 
-**Return to Dhātu at VAK 1.48.** Dhātu classifies Faculty relations
-within the Base–Essence–Principle architecture. The two minimum sets
-select different members from that classification under the stated
-realm and ethical conditions; they do not replace or redraw the Dhātu
-map. Placement in that map alone does not entail possession by this
-bearer.
+Five feelings in the count are not five feelings in one moment.
+
+Organon reading: the floor is typed. The telos is not this verse. Not the verse English.
 
 ## 10. OWL++ Seed
 
@@ -237,39 +126,12 @@ bearer.
 vak:VAK_2_20
     a vak:Karika ;
     rdfs:label "VAK 2.20" ;
-    vak:hasTopic vak:MinimumFacultyConfiguration ;
+    vak:hasTopic vak:MinimumPossession ;
     vak:belongsTo vak:Indriyanirdesa .
 
-vak:SeveredWholesomeRootsMinimum
-    a vak:FacultyConfiguration ;
-    vak:hasFaculty vak:FiveFeelingFaculties,
-        vak:BodyFaculty,
-        vak:MindFaculty,
-        vak:LifeFaculty ;
-    vak:hasCount 8 ;
-    vak:excludes vak:FiveBeginningWithConfidence .
+vak:SeveredRootsMinimum vak:hasCount 8 .
+vak:FormlessOrdinaryMinimum vak:hasCount 8 .
 
-vak:FormlessOrdinaryMinimum
-    a vak:FacultyConfiguration ;
-    vak:hasFaculty vak:NeutralFeelingFaculty,
-        vak:LifeFaculty,
-        vak:MindFaculty,
-        vak:FiveBeginningWithConfidence ;
-    vak:hasCount 8 ;
-    vak:hasRealm vak:FormlessRealm ;
-    vak:hasSubjectStatus vak:OrdinaryPerson .
-
-vak:MinimumFacultyConfiguration
-    vak:hasLowerBound 8 ;
-    vak:hasWitness vak:SeveredWholesomeRootsMinimum,
-        vak:FormlessOrdinaryMinimum .
-
-organon:StructuralStateTyping
-    a organon:InterpretiveReconstruction ;
-    organon:rejects organon:CountOnlyRepresentation ;
-    organon:requires organon:TypedFacultyMembership,
-        organon:RealmContext,
-        organon:EthicalCondition,
-        organon:PathStatus ;
-    organon:inferredFrom vak:MinimumFacultyConfiguration .
+organon:SameCountOpposed
+    organon:notTheVerseEnglish true .
 ```

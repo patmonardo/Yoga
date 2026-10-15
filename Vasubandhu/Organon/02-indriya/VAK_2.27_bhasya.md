@@ -5,158 +5,72 @@
 > krodhopanāhaśāṭhyerṣyāpradāsamrakṣamatsarāḥ /
 > māyāmadavihiṃsāś ca parīttakleśabhūmikāḥ // 2.27 //
 
-> Anger, resentment, deceitful crookedness, envy, spite, concealment of
-> faults, stinginess, deception, intoxication, and harmfulness belong to
-> the restricted ground of afflictions.
+> Anger, resentment, crookedness, envy, spite, concealment, stinginess, deception, intoxication, and harmfulness belong to the limited-affliction ground.
 
-The commentary explains the shared restrictions of this ground but defers
-the factors' individual definitions. It then closes the fivefold
-classification and acknowledges further factors not fixed within it.
+The commentary explains the ground and defers the definitions. It closes the five classes and names factors not fixed in them.
 
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
 > krodhopanāhaśāṭhyerṣyāpradāsamrakṣamatsarāḥ /
-> māyāmadavihiṃsāś ca parīttakleśbhūmikāḥ // 2.27 //
+> māyāmadavihiṃsāś ca parīttakleśabhūmikāḥ // 2.27 //
 > parīttakleśā bhūmir eṣāṃ ta ime parīttakleśabhūmikā
 > avidyāmātreṇa bhāvanāheyena manobhūmikenaiva ca saṃprayogāt /
-> eṣāṃ tu nirdekśa upakleśeṣu kariṣyate /
+> eṣāṃ tu nirdeśa upakleśeṣu kariṣyate /
 > uktā ime pañcaprakārāś caittāḥ /
 > anye 'pi cāniyatāḥ santi vitarkavicārakaukṛtyamiddhādayaḥ /
 
-The unit occupies printed 57.04–57.09 in
-`Vasubandhu/Sources/kosabhasya.txt`, ending before the question
-*tatra vaktavyaṃ kasmiṃścitte kati caittā avaśyaṃ bhavanti*, which begins
-the next inquiry into necessary mental-factor counts. Word division is
-editorial. The verse's *parīttakleśbhūmikāḥ* is normalized to
-*parīttakleśabhūmikāḥ* on the support of the immediately following prose;
-*nirdekśa* is read as *nirdeśa*. No independent collation is claimed.
-This local class-name lacks the *mahā* present in the fifth name
-introduced at VAK 2.23; the respective readings are retained.
+The unit is printed 57.04–57.09 in `Vasubandhu/Sources/kosabhasya.txt`. The question how many factors must be in a given consciousness opens 2.28. Parīttakleśbhūmikāḥ is read as parīttakleśabhūmikāḥ. Nirdekśa as nirdeśa. No independent collation is claimed. This class-name lacks the mahā of the name at 2.23. Both stay local.
 
-## 3. Scientific English Rendering
+## 3. Continuous Conventional Translation
 
-“Anger, resentment, deceitful crookedness, envy, spite, concealment of
-faults, stinginess, deception, intoxication, and harmfulness belong to
-the restricted ground of afflictions.” The restricted-affliction ground
-is theirs; thus they are called factors of that ground because their
-association is with ignorance alone—the ignorance that is abandonable
-through cultivation and belongs only to the mental sphere. Their
-exposition will be given in the discussion of secondary afflictions.
-These five classes of mental factors have been stated. There are also
-other, unfixed factors, such as initial examination, sustained
-examination, regret, and torpor.
+Anger, resentment, crookedness, envy, spite, concealment, stinginess, deception, intoxication, and harmfulness belong to the ground of limited afflictions. Limited afflictions are their ground, so they are called factors of that ground, because associated only with ignorance that is abandonable through cultivation and belongs to the mental sphere. Their exposition will be given among the secondary afflictions. These five classes of mental factors have been stated. There are also others, unfixed, such as initial examination, sustained examination, regret, and torpor.
 
-The instrumental qualifications *bhāvanāheyena* and *manobhūmikena*
-are read here as qualifying the associated ignorance. This restricts the
-class's range; it does not assert that ignorance is the sole Dharma
-associated with consciousness or deny the universal factors established
-in VAK 2.24.
+Only with ignorance is read inside the affliction classification. It does not deny consciousness and the universal factors. The instrumentals qualify the associated ignorance. They restrict the range of this class.
 
-## 4. Movement and Scope
+## 4. Movement and Voice of the Commentary
 
-The verse lists ten members of the fifth class. The prose explains their
-shared ground by association, abandonment category, and mental sphere;
-postpones their individual exposition; and concludes the fivefold
-classification introduced at VAK 2.23.
+Ten names. The prose gives association, abandonment, and sphere, postpones the exposition, and closes the fivefold division of 2.23. The last sentence keeps that close from being an inventory of every mental factor. And so forth leaves the further list open. No objection. No school.
 
-The final sentence prevents that conclusion from being mistaken for an
-exhaustive inventory of all mental factors. It names further unfixed
-factors and ends with “and so forth.” No objection, named school, or
-alternative view appears in this short unit.
+## 5. The Ten Names
 
-## 5. The Ten Names and Deferred Definitions
+Anger is not resentment. Crookedness is not deception. Spite is not harmfulness. The renderings are guides. The distinctions are not yet determined.
 
-The ten names distinguish anger from resentment, crookedness from
-deception, and spite from harmfulness. These English renderings are
-provisional lexical guides: the Bhāṣya does not yet explain how each
-distinction is determined. “Concealment of faults” for *mrakṣa* and
-“intoxication” for *mada* should likewise not be treated as complete
-definitions.
+Concealment and intoxication are not complete definitions. Intoxication is not settled as induced by a substance. That waits with the rest.
 
-The class predicate applies to each listed factor. Nothing here states
-that all ten occur together in every afflicted consciousness. The
-“always in the afflicted” rule governing the six in VAK 2.26 must not
-be carried over to this distinct class.
+The predicate applies to each. Nothing says all ten occur together in every afflicted consciousness. Always in the afflicted governed the six. It does not carry.
 
-## 6. The Restricted Ground
+## 6. What Restricts the Ground
 
-The compressed association clause joins ignorance with two
-qualifications: abandonable through cultivation and belonging to the
-mental sphere. The first distinguishes this abandonment category from
-abandonment through seeing; the second restricts the relevant sphere to
-mental consciousness rather than the five sensory consciousnesses.
+Ignorance, abandonable through cultivation, of the mental sphere. Cultivation is not seeing. Mental sphere is not the five sensory consciousnesses.
 
-“Only” is controlled by the affliction classification. Reading
-*avidyāmātreṇa* as “ignorance is the sole accompanying Dharma of any
-kind” would conflict with the preceding account of consciousness and
-its universal factors. It restricts the association being discussed
-among afflictions.
+Only has a controlled scope. Factors do not occur without consciousness. The universal ten accompany. Ignorance as the sole accompanying dharma of any kind would contradict that. It restricts the affliction association under discussion.
 
-*Parītta*, restricted, concerns the range of the class. It does not
-assess the consequences of an occurrence as negligible, and a shared
-range does not entail that all ten have identical definitions or
-necessarily co-occur.
+Limited is range. Not negligible harm. A shared range is not one definition, and not co-occurrence with the other nine.
 
-## 7. The Further Unfixed Factors
+## 7. The Unfixed
 
-The closing examples are *vitarka*, *vicāra*, *kaukṛtya*, and *middha*:
-initial examination, sustained examination, regret, and torpor. The
-prose calls them *aniyata*, unfixed, and leaves the examples open with
-*ādi*.
+Initial examination, sustained examination, regret, torpor, and so forth. Unfixed is not ethically indeterminate. The sentence does not declare them neutral. Their distributions wait on the count.
 
-“Unfixed” here is not the ethical classification *avyākṛta*,
-indeterminate; the sentence does not declare these factors ethically
-neutral. It acknowledges factors beyond the five classes just stated
-and leaves their particular distributions for the ensuing count
-analysis.
+Fivefold is the sequence treated. The acknowledgment of others keeps it from being an exhaustive partition.
 
-## 8. Textual and Translation Decisions
+## 8. The Bhāṣya's Decisions for Translation
 
-The scientific rendering preserves the grammatical dependence of the
-instrumental qualifiers on the associated ignorance. This lets the
-translation state the compressed sentence's class restriction without
-turning its parts into three unrelated assertions.
+The instrumentals stay on the associated ignorance. The analytical account can then state the restrictions without turning the sentence into three unrelated assertions.
 
-“Ground” follows the definition of *bhūmi* as sphere of operation in
-VAK 2.23. “Restricted ground of afflictions” translates
-*parīttakleśa* here; “secondary afflictions” translates *upakleśa*,
-the subject of the deferred exposition. The terms are not treated as
-identical names for the same range.
+Ground remains sphere of operation. Limited affliction and secondary affliction are different expressions. One is this class. One is the discussion deferred to. Not identified.
 
-The question at 57.09 about how many factors necessarily occur in a
-particular consciousness begins VAK 2.28. Keeping that boundary with
-the next study makes the count inquiry continuous.
+The next question stays with 2.28.
 
-## 9. Interpretation
+## 9. Organon Reading
 
-The fifth class is unified by shared range conditions, not by necessary
-co-presence. Its members are associated with ignorance, abandonable
-through cultivation, and restricted to the mental sphere. The Bhāṣya
-therefore does not license encoding the ten names as a set that must
-occur together in every relevant consciousness.
+Common range is not necessary co-presence. The universal class, the wholesome class, and this class cannot all be represented as lists that must accompany every occurrence of any member. Association, sphere, and abandonment are different aspects.
 
-The fivefold taxonomy is systematic but not exhaustive: the Bhāṣya
-closes its five classes and immediately acknowledges unfixed factors.
-The next passage must determine actual occurrence and counts under
-particular conditions rather than deriving them from the class name.
+Naming classes has not said which factors, or how many, occur in a particular consciousness. That is the next inquiry. Not this result in advance.
 
-In the Organon framework, the ten Samyama-bhūmis describe Path-related
-operation of mental factors; Buddha Dharma is the 11th Bhūmi. VAK 2.27
-supports only the stated restrictions and does not assign these members
-to individual Bhūmis or assert co-arising.
+Objective Logic on the mind is the pass. Not the translation. Not the final pass.
 
-The Kośa's governing synthesis: Vijñāna is Discriminative Cognition joining
-and governing Perception and Conception. Their unity is Inconceivable as a
-homogeneous operation; its Idea is disclosed in the Cognition Base. Vijñāna
-governs Mind and guides the reading of Dharma Base. Form Base and Dharma
-Base both include the same *avijñapti* in distinct classifications, and
-Vijñāna bears a *prati* relation to *avijñapti*. This system-level
-synthesis does not make the ten mental factors Faculties.
+## 10. Review Status
 
-## 10. Textual and Scope Notes
+Fine-tuned with the kārikā. Domain withdrawn. The ten, the restrictions, the deferral, the close, and the unfixed factors are kept.
 
-The translation follows the running transcription at 57.04–57.09,
-including all ten names, the restricted association clause, deferred
-exposition, closure of the five classes, and the unfixed examples. The
-normalizations and scope of “only” are explicit; no independent
-collation is claimed.
+2.28 has not been opened.

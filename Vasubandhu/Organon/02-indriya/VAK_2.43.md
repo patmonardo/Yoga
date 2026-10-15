@@ -12,147 +12,126 @@
 >
 > śubhā dvivedyāniyatā cāryasyāpyā prayogataḥ // 2.43 //
 
+Likewise again carries one determination: cessation of consciousness and the mental factors. Not the motive. Not the ground. Not the eligibility.
+
 ## 3. Lexical Analysis
 
+| Pada | Force |
+|---|---|
+| nirodha-ākhyā | called cessation |
+| tathā eva | likewise, that much |
+| vihāra-artham | for the sake of abiding |
+| bhava-agra-jā | born of the summit of existence |
+| śubhā | wholesome |
+| dvi-vedyā | to be experienced at two times |
+| aniyatā | unfixed |
+| āryasya | a noble person's |
+| āpyā prayogataḥ | acquired through application |
+
+Vihāra here is abiding. Not the academy. Saṃjñā is reflection. The level is the essence of neither reflection nor non-reflection.
+
+## 4. Grammar
+
 ```text
-nirodhākhyā    → nirodha-ākhyā
-tathaiveyam    → tathā eva iyam
-vihārārtham    → vihāra-artham
-bhavāgrajā     → bhava-agra-jā
-dvivedyāniyatā → dvi-vedyā aniyatā
-cāryasyāpyā    → ca āryasya āpyā
-prayogataḥ     → prayogataḥ
+called cessation
+    likewise the preceding cessation of citta and caitta
+for abiding
+    attention preceded by peaceful abiding
+    the other: attention preceded by escape
+summit of existence
+    that essence only
+    the other: fourth dhyāna
+wholesome
+    not afflicted, not indeterminate
+two times, and unfixed
+    next rebirth, or a later life
+    or no maturation, if final nirvāṇa here
+    four aggregates at the summit
+noble
+    ordinary cannot produce it
+    fear of annihilation
+    power of the noble path
+    resolve toward nirvāṇa in this life
+through application
+    not by dispassion
+    past not acquired
+    future not cultivated
+    cultivation is through the power of consciousness
 ```
 
-| Pada | Morphology | Force in this passage |
+## 5. Translation
+
+### Literal Translation
+
+This, called cessation, is likewise, for the sake of abiding, born of the summit of existence. Wholesome, to be experienced at two times and unfixed. A noble person's, acquired through application.
+
+### Bhāṣya-informed study translation
+
+Likewise the non-reflective attainment: what does likewise carry? Cessation of consciousness and the mental factors. The difference: for abiding. Entered by attention preceded by the conception of peaceful abiding. The other, by the conception of escape. That one is of the fourth dhyāna. This is born of the summit of existence, the essence of neither reflection nor non-reflection only. Wholesome. Neither afflicted nor indeterminate. To be experienced in the next rebirth or a later life, and unfixed: it may not mature, if one attains final nirvāṇa here. Its maturation at the summit is four aggregates.
+
+Exclusively a noble person's. Ordinary persons cannot produce it. They fear annihilation. It is produced by the power of the noble path, and by resolve toward nirvāṇa in this life. Not obtained by dispassion. Acquired through application. A past instance is not acquired. A future instance is not cultivated. That cultivation is through the power of consciousness.
+
+Is it so even for the Blessed One? No. For the Sage it is acquired through awakening, at the same time as the knowledge of exhaustion. Nothing of the Buddhas is called acquired through application. Manifestation of their qualities depends on the wish. For them, acquired through complete dispassion.
+
+How is he liberated in both respects if it has not been produced? Mastery, as if produced. Western teachers: the bodhisattva produces it earlier, as a trainee. That would make Upagupta's instruction authoritative: having produced the attainment of cessation, he produces the knowledge of exhaustion. Not beforehand, say the Kāśmīra teachers. Awakening in thirty-four moments, it is said. Sixteen for the truths. Eighteen for dispassion from the summit, nine uninterrupted and nine of liberation. Already free of attachment to the essence of nothingness, so the lower grounds are not still to be abandoned. No dissimilar consciousness in the interval. No occasion for this attainment. A dissimilar consciousness would be an intent to emerge. Bodhisattvas intend not to emerge. The outer regions read the pledge — I shall not break this posture before the exhaustion of the contaminants — as not departing from that resolve, one course to the completion of the aims. The Kāśmīra teachers keep the former account.
+
+## 6. Philosophical Translation
+
+Shared cessation does not make one attainment. Escape against abiding. Fourth dhyāna against the summit. Ordinary against noble. Necessary next rebirth against two times or none. Five aggregates against four. Dispassion does not acquire this one. Application does.
+
+Final nirvāṇa is the reason maturation may not occur. The attainment is not that nirvāṇa.
+
+The Buddha is the exception. Awakening, not application. Mastery is not prior production. The western account posits the prior production. Thirty-four moments is a report. The pledge's reading is disputed. Not settled.
+
+This nirodha is the attainment. Not the nirodha of virodha. The verse's vihāra is abiding. Not the academy.
+
+Organon rendering:
+
+The pass they were looking for is not this cessation. Peaceful abiding is their purpose. Opposition is not what the verse says is ceased. Not the verse English. Not the final pass.
+
+## 7. Technical Vocabulary
+
+| Sanskrit | Running word | Determination |
 |---|---|---|
-| nirodha-ākhyā | nominative feminine singular compound | called attainment of cessation |
-| tathā eva | adverbial phrase | likewise, with restricted force |
-| iyam | nominative feminine singular pronoun | this attainment |
-| vihāra-artham | accusative used adverbially | for the sake of abiding |
-| bhava-agra-jā | nominative feminine singular compound | belonging to the summit of existence |
-| śubhā | nominative feminine singular | wholesome |
-| dvi-vedyā | nominative feminine singular | maturing at either of two times |
-| aniyatā | nominative feminine singular | maturation can remain unfixed |
-| āryasya | genitive singular | of a noble person |
-| āpyā | gerundive | acquired or attainable |
-| prayogataḥ | adverbial ablative | through deliberate preparation |
+| nirodha-samāpatti | attainment of cessation | the second attainment |
+| vihārārtha | for abiding | peaceful abiding; not the academy |
+| bhavāgra | summit of existence | the level |
+| naivasaṃjñā-nāsaṃjñā | neither reflection nor non-reflection | the essence; not unconsciousness |
+| dvi-vedya | two times | next rebirth, or later |
+| aniyata | unfixed | may not mature |
+| prayoga | application | the ordinary noble acquisition |
+| kṣaya-jñāna | knowledge of exhaustion | the Buddha's simultaneity |
 
-## 4. Scientific English Rendering
-
-> This attainment, called cessation, is likewise [a cessation of
-> consciousness and associated mental factors]. It is for the sake of
-> abiding, belongs to the summit of existence, is wholesome, matures at
-> either of two times or remains unfixed, belongs to a noble person, and is
-> acquired through deliberate preparation.
-
-The Bhāṣya limits “likewise” to cessation of consciousness and associated
-mental factors. It differentiates the attainment of cessation from the
-Non-Reflecting attainment by its aim, support, practitioner, maturation,
-and manner of acquisition.
-
-## 5. Interpretation
-
-The attainment of cessation must not be translated as unconsciousness. The
-Bhāṣya begins with a shared operational description, but it does not use
-that description as the whole truth of either attainment:
+## 8. Logical Determination
 
 ```text
-Shared:
-    cessation of consciousness and associated mental factors
-
-Non-Reflecting attainment:
-    entered under a conception of escape;
-    fourth dhyāna;
-    ordinary practitioner;
-    fixed next-rebirth maturation
-
-Attainment of cessation:
-    entered under a conception of peaceful abiding;
-    summit of existence;
-    noble practitioner;
-    next-life, later-life, or unfixed maturation
+likewise
+    = citta-caitta cessation
+    ≠ same attainment
+abiding, summit, noble, application
+    against escape, fourth dhyāna, ordinary, necessary next rebirth
+four aggregates
+    against five
+final nirvāṇa here
+    → maturation may not occur
+    ≠ this attainment is nirvāṇa
+Buddha
+    with knowledge of exhaustion
+    mastery ≠ prior production
+thirty-four
+    reported
+    not settled
 ```
 
-The source thereby shows that the instrument's presently manifest operation
-is not the whole story. A formal similarity at the level of suspended
-citta-caitta operation does not establish identity of aim, path-basis,
-causal determination, or result. The attainment of cessation is a
-conditioned Path determination, not a blank episode and not the abolition
-of Vijñāna as the governing relation.
+## 9. Interpretive Note
 
-The Kośa-wide synthesis remains: Vijñāna is Discriminative Cognition joining
-and governing Perception and Conception. Their unity is Inconceivable as
-homogeneous operation, with its Idea disclosed in the Cognition Base.
-Vijñāna governs Mind and guides Dharma Base. The Hub is not an empirical
-factor which disappears with a factor-profile; it is the governing
-relation by which the profile, its cessation, and its transformed Path
-possibility are intelligible.
+The first half of the next verse is already in this prose: for the Sage, acquired through awakening. The second half, the common support of the two attainments, is not this unit. Kila stays on the thirty-four. The uncertain sentence on not emerging is not repaired into a permission to interrupt.
 
-## 6. Logical Determination
-
-```text
-CessationAttainment(S)
-    has:
-        aim = PeacefulAbiding
-        support = SummitOfExistence
-        ethicalKind = Wholesome
-        practitioner = Noble
-        acquisition = DeliberatePreparation
-        maturation = NextLife | LaterLife | Unfixed
-```
-
-```text
-SharedCittaCaittaCessation
-    does not entail
-Identity(NonReflectingAttainment, CessationAttainment)
-```
-
-The Bhāṣya states:
-
-```text
-OrdinaryPerson(S)
-    → cannot produce CessationAttainment(S)
-
-NoblePathPower(S)
-    and ResolveTowardNirvanaInThisLife(S)
-    → allows its production through preparation
-```
-
-For the Buddha, acquisition is simultaneous with awakening and the knowledge
-of exhaustion, not acquired through ordinary preparatory practice.
-
-## 7. Interpretive Note
-
-The Bhāṣya preserves a dispute over whether the Bodhisattva previously
-produced the attainment while still a trainee. Teachers of the outer regions
-affirm this; Kāśmīra teachers deny it, arguing that the thirty-four
-consciousness-moments of awakening permit no intervening dissimilar
-consciousness in which the attainment could arise. The uncertain line about
-the Bodhisattva's resolve remains a textual limit and is not silently
-harmonized.
-
-The verse says the attainment is “unfixed” with respect to maturation
-because it need not mature if final nirvāṇa occurs in the present life. Its
-maturation at the summit of existence is said to comprise four Bases.
-
-## 8. OWL++ Seed
+## 10. OWL++ Seed
 
 ```ttl
 @prefix vak: <http://127.0.0.1:3000/vak#> .
-@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
-vak:VAK_2_43
-    a vak:Karika ;
-    rdfs:label "VAK 2.43" ;
-    vak:hasTopic vak:CessationAttainment ;
-    vak:belongsTo vak:Indriyanirdesa .
-
-vak:CessationAttainment
-    vak:hasAim vak:PeacefulAbiding ;
-    vak:hasSupport vak:SummitOfExistence ;
-    vak:hasEthicalKind vak:Wholesome ;
-    vak:isAttainableBy vak:NoblePractitioner ;
-    vak:isAcquiredThrough vak:DeliberatePreparation ;
-    vak:preventsArisingOf vak:ConsciousnessAndAssociatedFactors .
+vak:VAK_2_43 a vak:Karika ; vak:hasTopic vak:AttainmentOfCessation .
+vak:Likewise vak:notSameAttainment true .
 ```

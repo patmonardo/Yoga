@@ -5,264 +5,114 @@
 > mohaḥ pramādaḥ kauśīdyam āśraddhyaṃ styānam auddhatyam /
 > kliṣṭe sadaivākuśale tv āhrīkyam anapatrapā // 2.26 //
 
-> Delusion, negligence, laziness, lack of confidence, sluggishness, and
-> agitation occur always in afflicted consciousness; in unwholesome
-> consciousness, shamelessness and absence of moral caution [also occur].
+> Delusion, heedlessness, laziness, lack of faith, sluggishness, and agitation, always in the afflicted. But in the unwholesome, shamelessness and lack of moral caution.
 
-The anchor follows the normalized reading in the existing Organon
-study. The continuous transcription below retains the damaged verse
-wording and the full ensuing classification discussion.
+The anchor is the normalized reading. The source below keeps the damaged verse.
 
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
-> mahatī bhūmirmahābhūmiḥ /
-> kleśā mahābhūmireṣāṃ ta ime kleśamahābhūmikā ye dharmāḥ sadaiva kliṣṭe cetasi bhavanti /
-> ke punaste sadaiva kliṣṭe cetasi bhavanti /
-> mohaḥ pramādaḥ kauśīdyamā śraddhyaṃ styānmuddhavaḥ /
+> mahatī bhūmir mahābhūmiḥ /
+> kleśā mahābhūmir eṣāṃ ta ime kleśamahābhūmikā ye dharmāḥ sadaiva kliṣṭe cetasi bhavanti /
+> ke punas te sadaiva kliṣṭe cetasi bhavanti /
+> mohaḥ pramādaḥ kauśīdyam āśraddhyaṃ styānam auddhatyam /
 > kliṣṭe sadaiva
-> tatra moho nāmāvidyā 'jñānamasaṃprakhyānam /
-> pramādaḥ kuśalānāṃ dharmāṇāmabhāvanā 'pramāda vipakṣo dharmaḥ /
-> kauśīdyaṃ cetaso nābhyutsāhho vīryavipakṣaḥ /
+> tatra moho nāmāvidyā 'jñānam asaṃprakhyānam /
+> pramādaḥ kuśalānāṃ dharmāṇām abhāvanā 'pramādavipakṣo dharmaḥ /
+> kauśīdyaṃ cetaso nābhyutsāho vīryavipakṣaḥ /
 > āśraddhyaṃ cetaso 'prasādaḥ śraddhāvipakṣaḥ /
 > styānaṃ katamat /
 > yā kāyagurutā cittagurutā kāyākarmaṇyatā cittākarmaṇyatā /
-> kāyikaṃ satyānaṃ caitasikaṃ styānamityuktamabhidharme /
-> kathaṃ caitasiko dharmaḥ kāyika ityucyate /
+> kāyikaṃ styānaṃ caitasikaṃ styānam ity uktam abhidharme /
+> kathaṃ caitasiko dharmaḥ kāyika ity ucyate /
 > yathā kāyikī vedanā /
-> auddhatyaṃ punaścetaso 'vyupaśamaḥ /
+> auddhatyaṃ punaś cetaso 'vyupaśamaḥ /
 > itīme ṣaṭ kleśamahābhūmikāḥ /
 > nanu cābhidharme daśa kleśamahābhūmikāḥ paṭhyante /
-> "āśraddhyaṃ kauśīdyaṃ muṣitasmṛtitā cetaso vikṣepaḥ avidyā asaṃprajanyamayoniśomanaskāro mithyādhimokṣa auddhatyaṃ pramādaśce" ti /
-> praptijño devānāṃ priyo na tviṣṭijñaḥ /
-> kā punaratreṣṭiḥ /
-> muṣitasmṛtivikṣepāsaṃprajanyāyoniśomanasikāramithyādhimokṣā mahābhūmikatvāt na kleśamahābhūmikā evāvadhāryante /
-> yathivāmohaḥ kuśalamahābhūmiko nāvadhāryate prajñāsvabhāvatvāt /
-> smṛtireva hi kliṣṭā muṣitasmṛtitā /
-> samādhireva kliṣṭo vikṣepa ityevamādi /
-> ata evocyate "ye mahābhūmikāḥ kleśamahābhūmikā api ta" iti /
+> āśraddhyaṃ kauśīdyaṃ muṣitasmṛtitā cetaso vikṣepaḥ avidyā asaṃprajanyam ayoniśomanaskāro mithyādhimokṣa auddhatyaṃ pramādaś ceti /
+> prāptijño devānāṃ priyo na tviṣṭijñaḥ /
+> kā punar atreṣṭiḥ /
+> muṣitasmṛtivikṣepāsaṃprajanyāyoniśomanasikāramithyādhimokṣā mahābhūmikatvān na kleśamahābhūmikā evāvadhāryante /
+> yathāmoho kuśalamahābhūmiko nāvadhāryate prajñāsvabhāvatvāt /
+> smṛtir eva hi kliṣṭā muṣitasmṛtitā /
+> samādhir eva kliṣṭo vikṣepa ity evam ādi /
+> ata evocyate ye mahābhūmikāḥ kleśamahābhūmikā api ta iti /
 > catuṣkoṭikaḥ /
-> prathamā koṭirvedanā cetanā saṃjñā cchandaḥ sparśaśca /
-> dvitīyā 'śrāddhyaṃ kauśīdyamavidyā auddhatyaṃ pramādaśca /
-> tṛtīyā muṣitasmṛtyādayaḥ pañca kliṣṭā yaṭhoktāḥ /
-> caturthyetānākārān sthāpayitveti /
-> kecittu mithyāsamādheranyacetaso vikṣepamicchanti /
-> teṣāmanyathā catuṣkoṭikaḥ /
-> styānaṃ punariṣyate sarvakleśasaṃprayogīti kleśamahābhūmikeṣu tasyāpāṭhe kasyāparādhaḥ /
-> evaṃ tvāhuḥ paṭhitavyaṃ bhavetsamādhyanuguṇatvāttu na paṭhitam /
-> kṣiprataraṃ kila styānacaritaḥ samādhimutpādayennauddhatyacarita iti /
+> prathamā koṭir vedanā cetanā saṃjñā cchandaḥ sparśaś ca /
+> dvitīyā āśraddhyaṃ kauśīdyam avidyā auddhatyaṃ pramādaś ca /
+> tṛtīyā muṣitasmṛtyādayaḥ pañca kliṣṭā yathoktāḥ /
+> caturthī etān ākārān sthāpayitvā /
+> kecit tu mithyāsamādher anyaś cetaso vikṣepam icchanti /
+> teṣām anyathā catuṣkoṭikaḥ /
+> styānaṃ punar iṣyate sarvakleśasaṃprayogīti kleśamahābhūmikeṣu tasyāpāṭhe kasyāparādhaḥ /
+> evaṃ tv āhuḥ paṭhitavyaṃ bhavet samādhyanuguṇatvāt tu na paṭhitam /
+> kṣiprataraṃ kila styānacaritaḥ samādhim utpādayen nauddhatyacarita iti /
 > kaḥ punaḥ styānacarito yo nauddhatyacaritaḥ ko vā auddhatyacarito yo na styānacaritaḥ /
-> nahyete jātu sahacariṣṇutāṃ jahītaḥ /
-> tathāpi yadyasyādhimātraṃ sa taccarito jñātavyaḥ /
-> ataḥ ṣaḍeva kleśamahābhūmikāḥ siddhyanti /
+> na hy ete jātu sahacariṣṇutāṃ jahītaḥ /
+> tathāpi yady asyādhimātraṃ sa taccarito jñātavyaḥ /
+> ataḥ ṣaḍ eva kleśamahābhūmikāḥ siddhyanti /
 > ete hi sadā kleṣṭa eva cetasi bhavanti nānyatra //
-> akuśale tvāhrīkyamanapatrapā // 2.26 //
-> akuśale tu cetasyāhrīkyamanapatrāpyaṃ ca nityaṃ bhavata ityetau dvau dharmāvakuśalamahābhūmikāvucyete /
-> tayośca paścāllakṣaṇaṃ vakṣyate /
+> akuśale tv āhrīkyam anapatrapā // 2.26 //
+> akuśale tu cetasy āhrīkyam anapatrāpyaṃ ca nityaṃ bhavata ity etau dvau dharmāv akuśalamahābhūmikāv ucyete /
+> tayoś ca paścāl lakṣaṇaṃ vakṣyate /
 
-This excerpt follows printed 56.02–57.03 in
-`Vasubandhu/Sources/kosabhasya.txt`. Source labels are removed and the
-verse number regularized; the transcription is otherwise retained.
-Contextual resolutions are recorded below. No independent collation is
-claimed.
+The unit is printed 56.02–57.03 in `Vasubandhu/Sources/kosabhasya.txt`. Defects stay in the source. Styānmuddhavaḥ is read as sluggishness and agitation. The retort is not restored. No independent collation is claimed. Limited affliction at 57.04 is 2.27.
 
-## 3. Scientific English Rendering
+## 3. Continuous Conventional Translation
 
-An extensive ground is a great ground. Those whose great ground is
-affliction are the afflicted great-ground factors: Dharmas that always
-occur in afflicted consciousness. Which occur there always? “Delusion,
-negligence, laziness, lack of confidence, sluggishness, and agitation,
-always in the afflicted.” Here delusion is ignorance, not knowing, lack
-of clear comprehension. Negligence is non-cultivation of wholesome
-Dharmas, a factor opposed to heedfulness. Laziness is absence of
-energetic exertion in consciousness, opposed to energy. Lack of
-confidence is absence of clarity in consciousness, opposed to confidence.
+An extensive ground is a great ground. Those whose great ground is affliction are the affliction great-ground factors: the dharmas that occur always in afflicted consciousness. Which occur always in afflicted consciousness? Delusion, heedlessness, laziness, lack of faith, sluggishness, and agitation, always in the afflicted. Delusion means ignorance, not knowing, lack of clear comprehension. Heedlessness is non-cultivation of wholesome dharmas, a factor opposed to heedfulness. Laziness is the absence of energetic arousal in consciousness, opposed to vigor. Lack of faith is absence of clarity in consciousness, opposed to faith. What is sluggishness? Heaviness of body and consciousness, unworkability of body and consciousness. The Abhidharma speaks of bodily sluggishness and mental sluggishness. How is a mental factor called bodily? As bodily feeling. Agitation is the non-pacification of consciousness. These are the six.
 
-What is sluggishness? It is heaviness of body and consciousness,
-unworkability of body and consciousness. The Abhidharma speaks of bodily
-sluggishness and mental sluggishness. How is a mental Dharma called
-bodily? As in the case of bodily feeling. Agitation, in turn, is
-non-pacification of consciousness. These are the six afflicted
-great-ground factors.
+But does the Abhidharma not recite ten: lack of faith, laziness, loss of recollection, distraction of consciousness, ignorance, lack of clear comprehension, improper attention, false resolution, agitation, and heedlessness? You know the recitation, not the intention. What is the intention? Loss of recollection, distraction, lack of clear comprehension, improper attention, and false resolution are not determined exclusively as affliction great-ground factors, because they belong to the universal great-ground factors. Likewise non-delusion is not determined exclusively as a wholesome great-ground factor, since it has the nature of prajñā. Loss of recollection is recollection when afflicted. Distraction is concentration when afflicted, and so on.
 
-But does the Abhidharma not recite ten afflicted great-ground factors:
-lack of confidence, laziness, lost recollection, distraction of
-consciousness, ignorance, lack of clear comprehension, improper
-attention, false resolution, agitation, and negligence? “You know the
-recitation, dear to the gods, but not its intention.” What is its
-intention here? Lost recollection, distraction, lack of clear
-comprehension, improper attention, and false resolution are not
-determined exclusively as afflicted great-ground factors, because they
-belong to the universal great ground. Likewise, non-delusion is not
-determined exclusively as a wholesome great-ground factor, since its
-nature is *prajñā*. Recollection itself, when afflicted, is lost
-recollection; concentration itself, when afflicted, is distraction;
-and so on.
+Hence the question: are those that are great-ground factors also affliction great-ground factors? Four alternatives. The first: feeling, volition, reflection, wish to perform, and contact. The second: lack of faith, laziness, ignorance, agitation, and heedlessness. The third: the five afflicted factors beginning with loss of recollection, as stated. The fourth excludes these modes. Some hold distraction of consciousness to be different from wrong concentration. For them the fourfold analysis is otherwise.
 
-For this reason the question is raised: “Are those that are
-great-ground factors also afflicted great-ground factors?” There are
-four alternatives. The first comprises feeling, volition, recognition,
-desire to perform, and contact. The second comprises lack of confidence,
-laziness, ignorance, agitation, and negligence. The third comprises the
-five afflicted factors beginning with lost recollection, as stated.
-The fourth excludes these modes. Some, however, hold distraction of
-consciousness to be distinct from wrong concentration. For them the
-fourfold analysis is different.
+Sluggishness is admitted to be associated with every affliction. Whose fault is it that it is not recited? They say it should be recited, but is not, because favorable to concentration. Someone predominantly sluggish, it is said, would produce concentration more quickly than someone predominantly agitated. Who is sluggish without being agitated, or agitated without being sluggish? These two never cease to accompany one another. Nevertheless, designation follows whichever predominates. Thus precisely six are established. They occur always and only in afflicted consciousness, nowhere else.
 
-Sluggishness, moreover, is admitted to be associated with every
-affliction. Whose fault is it, then, that it is not recited among the
-afflicted great-ground factors? They say: it should be recited, but is
-not, because it is favorable to concentration. Someone predominantly
-sluggish, they say, would produce concentration more quickly than
-someone predominantly agitated. But who is sluggish without being
-agitated, or agitated without being sluggish? These two never cease to
-accompany one another. Nevertheless, someone is to be designated by
-whichever is stronger. Thus exactly six afflicted great-ground factors
-are established. They occur always in afflicted consciousness and
-nowhere else.
+But in the unwholesome, shamelessness and lack of moral caution. In unwholesome consciousness these two are invariably present, and are called unwholesome great-ground factors. Their characteristics will be explained later.
 
-“But in the unwholesome, shamelessness and absence of moral caution.”
-In unwholesome consciousness, shamelessness and absence of moral
-caution are always present; these two Dharmas are therefore called
-unwholesome great-ground factors. Their characteristics will be
-explained later.
+## 4. Movement and Voice of the Commentary
 
-## 4. Movement and Attributions
+Six defined, then a ten-member recitation. The response separates factors counted in the afflicted class from afflicted forms of factors already counted as universal. Four alternatives. A reported alternative on distraction. Then sluggishness, absent from the ten. Omission, challenge, predominance, six. Then the narrower pair. No school named.
 
-The passage first defines six factors, then confronts a ten-member
-Abhidharma recitation. The response distinguishes factors separately
-classified in the afflicted ground from afflicted modes of factors
-already counted in the universal ground. A fourfold comparison makes
-that distinction explicit, followed by a reported alternative about
-distraction.
+## 5. Six and Two
 
-Sluggishness then receives separate treatment because it is absent
-from the cited ten. An explanation of that omission, a challenge to
-the contrast between sluggish and agitated types, and an answer through
-predominance precede the conclusion that there are six. The verse then
-introduces two factors with the narrower unwholesome range. The local
-passage names no school for these exchanges.
+Delusion, heedlessness, laziness, lack of faith, sluggishness, agitation. Three opposites are explicit: heedfulness, vigor, faith. Sluggishness is heaviness and unworkability. Agitation is non-pacification.
 
-The phrase “others” or “they say” carries positions about the ten-factor
-recitation, the classification, and sluggishness. The retort concerning
-knowledge of the recitation is textually uncertain. The alternative
-about distraction is attributed to “some.” Keep these voices and
-qualifications rather than flattening the sequence into one uncontested
-account.
+Bodily sluggishness repeats the feeling analogy. Not expanded. Not sleep.
 
-## 5. Six Afflicted Factors and Two Unwholesome Factors
+The pair belongs to every unwholesome consciousness. Afflicted and unwholesome are not the same range. The pair does not replace the six. Definitions deferred.
 
-The six are delusion, negligence, laziness, lack of confidence,
-sluggishness, and agitation. Three definitions explicitly refer to
-wholesome factors as opposites: negligence to heedfulness, laziness to
-energy, and lack of confidence to confidence. Sluggishness is defined
-by heaviness and unworkability; agitation by non-pacification.
+## 6. The Ten
 
-The bodily-sluggishness question repeats the comparison with bodily
-feeling from VAK 2.25. Its reply is brief and should not be expanded
-into an unstated account of how body and consciousness interact.
-Sluggishness here is not simply a synonym for sleep.
+Five kept as separately counted: lack of faith, laziness, ignorance, agitation, heedlessness. Five explained as universal factors afflicted. Lost recollection is recollection afflicted. Distraction is concentration afflicted. And so on: lack of clear comprehension is Discrimination afflicted, improper attention is attention afflicted, false resolution is resolution afflicted. Not extra definitions spelled out here.
 
-The concluding pair occurs in every unwholesome consciousness. Afflicted
-and unwholesome are therefore not interchangeable ranges. The pair does
-not replace the six; the commentary introduces a further, narrower
-class and defers its detailed definitions.
+Five accounted for under the universal factors, five separately counted, sluggishness added, six. Non-delusion is the parallel. Nature and qualified condition both register.
 
-## 6. The Ten-Member Recitation and Four Alternatives
+## 7. Four Alternatives
 
-Five items from the recited ten are treated as separately classified
-afflicted factors: lack of confidence, laziness, ignorance, agitation,
-and negligence. The other five are explained as universal factors in
-afflicted modes. The prose explicitly identifies lost recollection
-with recollection in an afflicted mode and distraction with
-concentration in an afflicted mode, then says “and so on.” By parallel
-with VAK 2.24, the remaining correspondences are lack of clear
-comprehension with discernment, improper attention with attention, and
-false resolution with resolution. Those three are inferred from the
-parallel, not individually defined here.
+Universal, not in the quoted afflicted group: feeling, volition, reflection, wish to perform, contact. In the quoted group, not universal: lack of faith, laziness, ignorance, agitation, heedlessness. Both, in the stated forms: the five beginning with lost recollection. Neither: outside those modes.
 
-| Relation in the cited classification | Members supplied by the prose |
-|---|---|
-| Universal great ground, not in the cited afflicted group | Feeling, volition, recognition, desire to perform, contact |
-| Cited afflicted group, not universal great ground | Lack of confidence, laziness, ignorance, agitation, negligence |
-| Both, in afflicted modes | The five beginning with lost recollection |
-| Neither | What remains outside these specified modes |
+The first row does not say feeling cannot occur in afflicted consciousness. Classification in the comparison. Sluggishness is not silently in the second row. Its omission is the next issue.
 
-This table records the comparison at this point in the argument.
-Sluggishness is not silently added to its second row; its omission is the
-next issue. The first row does not mean that feeling or contact cannot
-occur in afflicted consciousness. The alternative view that distraction
-differs from wrong concentration changes the fourfold analysis, but the
-source does not provide its revised lists.
+Some regard distraction as distinct from wrong concentration. The identification then fails, and the fourfold changes. The revised lists are not supplied. Not invented.
 
-## 7. Sluggishness, Agitation, and Predominance
+## 8. Predominance and the Text
 
-The explanation for omitting sluggishness appeals to its favorability
-to concentration and to a comparative claim that a predominantly
-sluggish type produces concentration more quickly than a predominantly
-agitated type. This is a reported rationale, not a recommendation to
-cultivate sluggishness or to classify it as wholesome.
+Favorable to concentration is a reported explanation of the omission. Not a recommendation to cultivate sluggishness. Not a reclassification as wholesome.
 
-The objection invokes the co-presence of sluggishness and agitation.
-The response distinguishes co-presence from predominance: a person is
-designated by whichever factor is stronger. The type-labels therefore
-do not require exclusive possession. The text concludes that six
-afflicted great-ground factors are established.
+Co-presence is not predominance. The label is the stronger. The labels do not require exclusive possession.
 
-## 8. Textual and Translation Decisions
+The verse in the source is damaged. The prose secures sluggishness and agitation. Absence of arousal, sluggishness, and afflicted are contextual readings. The retort is not restored. Recitation against intention is the contrast. Distraction different from wrong concentration is a contextual reading of a damaged phrase. The forms stay for collation.
 
-The running transcription is visibly damaged in the opening verse,
-including *styānmuddhavaḥ*. The anchor follows the existing Organon
-reading; the prose forms *styāna* and *auddhatya* support the intended
-factors. Other contextual resolutions include *nābhyutsāhho* as absence
-of energetic exertion, *satyānaṃ* as sluggishness, and *kleṣṭa* as
-afflicted.
+## 9. Organon Reading
 
-The retort is transcribed *praptijño devānāṃ priyo na tviṣṭijñaḥ*.
-“You know the recitation, dear to the gods, but not its intention”
-follows the contrast between the cited list and its interpretation; it
-does not establish the original first compound. *Anyacetaso* in the
-alternative about distraction is likewise read contextually as
-distinction from wrong concentration. These forms remain visible above
-for later collation; no emendation is claimed.
+Occurrence in afflicted consciousness is not exclusive membership in the afflicted class. A universal factor can be afflicted without becoming a new factor. The distraction dissent shows the identity is disputed, not a counting convention.
 
-## 9. Interpretation
+Range, qualified form, and predominance stay apart. Six against ten is the first two. Sluggish against agitated is the third. One label cannot do all three.
 
-This discussion distinguishes occurrence in afflicted consciousness
-from exclusive classification in the afflicted great ground. A
-universal factor may have an afflicted mode without thereby being
-separately counted as a member of the afflicted class. The reported
-disagreement about distraction shows
-that one part of the classification remains open, not that the
-fourfold comparison is merely a matter of counting.
+Objective Logic on the mind is the pass. Not the translation. Not the final pass.
 
-For Kant-informed Techne, keep a factor's identity, its qualified mode,
-its operating range, and its relative predominance distinct. The
-sluggishness-agitation exchange shows why these cannot be collapsed:
-both factors co-occur, while relative strength determines the
-designation. This analytical framing preserves rather than resolves
-the Bhāṣya's alternatives.
+## 10. Review Status
 
-The Organon framework reads the ten Samyama-bhūmis as Path-related
-operation of mental factors, with Buddha Dharma as the 11th Bhūmi.
-The wholesome, afflicted, and unwholesome ranges here are not themselves
-successive Path stages. In afflicted consciousness, universal functions
-persist in qualified modes, while the six factors exclusive to the
-afflicted ground and the two exclusive to the unwholesome ground have
-their respective ranges.
+Fine-tuned with the kārikā. Domain withdrawn. The six, the ten, the fourfold, the distraction alternative, and the predominance answer are kept.
 
-The Kośa's governing synthesis: Vijñāna is Discriminative Cognition joining
-and governing Perception and Conception. Their unity is Inconceivable as a
-homogeneous operation; its Idea is disclosed in the Cognition Base. Vijñāna
-governs Mind and guides the reading of Dharma Base. Form Base and Dharma
-Base both include the same *avijñapti* in distinct classifications, and
-Vijñāna bears a *prati* relation to *avijñapti*. This synthesis does not
-identify *citta* with Vijñāna or mental factors with Faculties.
-
-## 10. Textual and Scope Notes
-
-The translation follows the running transcription at 56.02–57.03 and
-includes the six-versus-ten discussion, fourfold comparison, alternative
-about distraction, sluggishness exchange, and unwholesome pair. The
-transcription defects and contextual resolutions above remain open to
-collation. The characteristics of shamelessness and lack of moral caution
-are explicitly deferred.
+2.27 has not been opened.

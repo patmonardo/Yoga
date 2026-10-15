@@ -1,10 +1,10 @@
-# VAK_2.37 — Five Classifications of Acquisition
+# VAK_2.37 — The Acquisition Matrix
 
 ## 1. Sanskrit (Devanāgarī)
 
 > त्रैयध्विकानां त्रिविधा शुभादीनां शुभादिका ।
 >
-> स्वधातुका तदाप्तानां अनाप्तानां चतुर्विधा ॥ २.३७ ॥
+> स्वधातुका तदाप्तानामनाप्तानां चतुर्विधा ॥ २.३७ ॥
 
 ## 2. Sanskrit (IAST)
 
@@ -12,125 +12,85 @@
 >
 > svadhātukā tadāptānām anāptānāṃ caturvidhā // 2.37 //
 
+The subject is acquisition. Āpta here is inclusion in a realm. Not acquired. Anāpta is not aprāpta.
+
 ## 3. Lexical Analysis
 
+| Pada | Force |
+|---|---|
+| traiyadhvikānām | of dharmas of the three times |
+| trividhā | threefold |
+| śubhādikā | correspondingly wholesome and so forth |
+| svadhātukā | of the same realm |
+| tadāptānām | of those included in that realm |
+| anāptānām | of those not included in a realm |
+| caturvidhā | fourfold |
+
+Realm is the three. Not the eighteen. Not Domain.
+
+## 4. Grammar
+
 ```text
-traiyadhvikānāṃ → trai-adhvika-ānām
-trividhā        → tri-vidhā
-śubhādīnāṃ      → śubha-ādīnām
-śubhādikā       → śubha-ādikā
-svadhātukā      → sva-dhātukā
-tadāptānām     → tad-āptānām
-anāptānāṃ      → an-āptānām
-caturvidhā     → catur-vidhā
+of the three times, acquisition is threefold
+    time of the dharma and time of the acquisition are distinct
+of wholesome and the rest, correspondingly wholesome and the rest
+of what is included in a realm, acquisition is of that realm
+of what is not included, fourfold
+    desire, form, formless, or uncontaminated
+    space still excluded, from 2.36
 ```
 
-| Pada | Morphology | Force in this passage |
+## 5. Translation
+
+### Literal Translation
+
+Of those of the three times, threefold. Of the wholesome and the rest, wholesome and the rest. Of the same realm, of those included in that. Of those not included, fourfold.
+
+### Bhāṣya-informed study translation
+
+Acquisition of a past, future, or present dharma may itself be past, future, or present. Of a wholesome, unwholesome, or indeterminate dharma, the acquisition has that ethical status. Of a dharma included in the desire, form, or formless realm, the acquisition belongs to that realm. Of a dharma not included in a realm, the acquisition may be of the desire, form, or formless realm, or uncontaminated. Uncontaminated is not a fourth realm. Path-stage and abandonment are the commentary's further indices. Not the verse.
+
+## 6. Philosophical Translation
+
+Possession is not a binary. Time of the dharma is not time of the credit. Ethical class mirrors. Realm mirrors, when the dharma is in a realm. What is not in a realm does not force the credit outside the three. Cessation not through Discrimination is credited in the three realms. Cessation through Discrimination in form, formless, or uncontaminated. The path-truth is uncontaminated. Collectively, four.
+
+Organon rendering:
+
+Indexed status, not a flag. Pass and fail are not the verse. Not the final pass.
+
+## 7. Technical Vocabulary
+
+| Sanskrit | Running word | Determination |
 |---|---|---|
-| traiyadhvikānām | genitive plural | of Dharmas belonging to the three times |
-| trividhā | nominative feminine singular | threefold |
-| śubha-ādīnām | genitive plural | of wholesome and other ethical kinds |
-| śubhādikā | nominative feminine singular | corresponding in ethical kind |
-| sva-dhātukā | nominative feminine singular | belonging to the same Principle-range |
-| tad-āptānām | genitive plural | of Dharmas included in that Principle-range |
-| anāptānām | genitive plural | of Dharmas not included in the three Principle-ranges |
-| caturvidhā | nominative feminine singular | fourfold |
+| traiyadhvika | of the three times | both indices |
+| svadhātuka | of the same realm | not Principle |
+| anāpta | not included in a realm | not unacquired |
+| anāsrava | uncontaminated | not a realm |
 
-The understood subject is *prāpti*. Here *tadāpta* and *anāpta* concern
-inclusion in a Principle-range; *anāpta* is not *aprāpta*, non-acquisition.
-
-## 4. Scientific English Rendering
-
-> Acquisition of Dharmas belonging to the three times is threefold;
-> acquisition of wholesome and other Dharmas corresponds to their ethical
-> kind. Acquisition of a Dharma included in a Principle-range belongs to
-> that same Principle-range; acquisition of a Dharma not so included is
-> fourfold.
-
-The Bhāṣya explains: a past, future, or present Dharma may have acquisition
-that is itself past, future, or present; wholesome, unwholesome, and
-indeterminate Dharmas have the corresponding acquisition; acquisition of
-Desire-, Form-, and Formless-Principle Dharmas belongs respectively to
-those same Principle-ranges; eligible uncontaminated Dharmas may have
-acquisition in the three Principle-ranges or uncontaminated acquisition.
-
-## 5. Interpretation
-
-VAK 2.37 makes *prāpti* a typed relation rather than a binary possession
-label. The time, ethical kind, Principle-range, training status, and
-abandonment status of the acquired Dharma and of its acquisition must be
-kept distinct.
-
-The Bhāṣya gives decisive examples. Cessation independent of discriminative
-comprehension has acquisition in the three Principle-ranges; cessation
-through discriminative comprehension can have Form-Principle, Formless-
-Principle, or uncontaminated acquisition; the truth of the Path has only
-uncontaminated acquisition. Space remains outside both acquisition and
-non-acquisition under the earlier restriction.
-
-The Kośa-wide synthesis remains: Vijñāna is Discriminative Cognition joining
-and governing Perception and Conception. Its unity is Inconceivable as
-homogeneous operation, disclosed in the Cognition Base. Vijñāna governs Mind
-and guides Dharma Base; *avijñapti* is the same Dharma classified in Form
-Base and Dharma Base, with Vijñāna bearing a *prati* relation to it. The
-acquisition matrix specifies the continuum-status by which such an impure
-or purified Dharma can become available.
-
-## 6. Logical Determination
+## 8. Logical Determination
 
 ```text
-Prapti(S, D) has independent indices:
-    DharmaTime(D)
-    AcquisitionTime
-    EthicalKind
-    PrincipleRange
-    TrainingStatus
-    AbandonmentStatus
+dharma-time × acquisition-time
+    nine, not three inherited
+ethical class of acquisition
+    = ethical class of the dharma
+realm-bound
+    → same realm
+not realm-bound
+    → desire, form, formless, or uncontaminated
+space
+    still neither
 ```
 
-```text
-DharmaTime(D) in {past, future, present}
-    does not fix
-AcquisitionTime(S, D)
+## 9. Interpretive Note
 
-EthicalKind(Prapti(S, D))
-    = EthicalKind(D)
-```
+The matrix is what a bare possesses leaves out. When, of what quality, in which realm, and, in the commentary, by what path and what abandonment. The fourfold rule is not arbitrary. It is the union of the eligible cases. Not an implementation.
 
-```text
-IncludedInPrincipleRange(D, R)
-    → PrincipleRange(Prapti(S, D)) = R
-
-EligibleUncontaminated(D)
-    → PrincipleRange(Prapti(S, D))
-      in {Desire, Form, Formless, Uncontaminated}
-```
-
-## 7. Interpretive Note
-
-The Bhāṣya continues the account of acquisition after the dispute in VAK
-2.36 and marks it with reportive *kila*. It does not silently settle the
-earlier disagreement about whether acquisition is a distinct real Dharma.
-The opening of VAK 2.38 completes its training and abandonment
-classifications; VAK 2.38 proper then begins the exception to this temporal
-matrix.
-
-## 8. OWL++ Seed
+## 10. OWL++ Seed
 
 ```ttl
 @prefix vak: <http://127.0.0.1:3000/vak#> .
-@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
-vak:VAK_2_37
-    a vak:Karika ;
-    rdfs:label "VAK 2.37" ;
-    vak:hasTopic vak:AcquisitionClassificationMatrix ;
-    vak:belongsTo vak:Indriyanirdesa .
-
-vak:Acquisition
-    vak:hasIndex vak:AcquisitionTime,
-        vak:EthicalKind,
-        vak:PrincipleRange,
-        vak:TrainingStatus,
-        vak:AbandonmentStatus .
+vak:VAK_2_37 a vak:Karika ; vak:hasTopic vak:AcquisitionMatrix .
+vak:DharmaTime vak:independentOf vak:AcquisitionTime .
 ```

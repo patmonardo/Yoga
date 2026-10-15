@@ -1,214 +1,112 @@
-# VAK_2.64 — Condition Counts and the Single World-Cause
+# VAK_2.64 — How Many Conditions
 
 ## 1. Sanskrit (Devanāgarī)
 
 > चतुर्भिश्चित्तचैत्ता हि समापत्तिद्वयं त्रिभिः ।
+>
 > द्वाभ्यामन्ये तु जायन्ते नेश्वरादेः क्रमादिभिः ॥ २.६४ ॥
 
 ## 2. Sanskrit (IAST)
 
 > caturbhiś cittacaittā hi samāpattidvayaṃ tribhiḥ /
+>
 > dvābhyām anye tu jāyante neśvarādeḥ kramādibhiḥ // 2.64 //
 
-The displayed *cittacaittā* regularizes the running transcription's
-*cattacaittā*. The commentary spans 101.07–102.18: condition counts
-followed by the argument against a single world-cause. The return to
-material causality at 102.19 introduces the next study.
+Succession is a ground of the refusal. Not a fifth condition. The pair is cessation-attainment and the non-reflective attainment. Not non-conscious.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-caturbhiḥ          → caturbhiḥ
-cittacaittāḥ       → citta-caittāḥ
-hi                → hi
-samāpattidvayam   → samāpatti-dvayam
-tribhiḥ           → tribhiḥ
-dvābhyām          → dvābhyām
-anye              → anye
-tu                → tu
-jāyante           → jāyante
-neśvarādeḥ        → na īśvara-ādeḥ
-kramādibhiḥ       → krama-ādibhiḥ
-```
-
-| Form | Morphology | Local sense |
-|---|---|---|
-| caturbhiḥ | instrumental plural numeral | through four [conditions] |
-| citta-caittāḥ | nominative plural compound | mind and mental factors |
-| hi | particle | indeed |
-| samāpatti-dvayam | nominative neuter singular compound | the pair of attainments |
-| tribhiḥ | instrumental plural numeral | through three [conditions] |
-| dvābhyām | instrumental dual numeral | through two [conditions] |
-| anye | nominative masculine plural | the others |
-| tu | connective particle | but |
-| jāyante | third-person plural present middle of √jan | arise |
-| īśvara-ādeḥ | ablative singular compound in this construction | from Īśvara and the like |
-| krama-ādibhiḥ | instrumental plural compound | on grounds of succession and the like |
-
-The final instrumental gives grounds for an argument. It does not
-add “sequence” as another productive condition alongside the four.
+| Pada | Force |
+|---|---|
+| caturbhiḥ | through four |
+| citta-caittāḥ | mind and the mental factors |
+| samāpatti-dvayam | the pair of attainments |
+| tribhiḥ | through three |
+| dvābhyām anye | the others, through two |
+| na īśvara-ādeḥ | not from Īśvara and the like |
+| krama-ādibhiḥ | on grounds of succession and the like |
 
 ## 4. Grammar
 
-The first three clauses distribute the understood *pratyayaiḥ*,
-“conditions,” across three subjects. *Jāyante* supplies the plural
-predicate for mind and factors and for “others”; with the singular
-*samāpattidvayam*, the corresponding *jāyate* is understood.
-
-The Bhāṣya identifies the pair as cessation-attainment and
-non-percipient attainment. It identifies “others” as material dharmas
-and the remaining formations dissociated from mind. The two attainments
-are themselves dissociated formations, so they must be excepted from
-this remaining group.
-
-The last clause carries forward arising: “[They arise] not from
-Īśvara and the like.” *Kramādibhiḥ* supplies the reasons for that
-negation. The first-pass “but by sequence and the like” incorrectly
-made the reason for rejecting an explanation into its replacement cause.
+```text
+mind and factors
+    four
+pair of attainments
+    three
+    no object
+others
+    form, and remaining dissociated
+    two
+    cause and predominant
+not from one world-cause
+    succession is the reason
+```
 
 ## 5. Translation
 
 ### Literal Translation
 
-> Mind and mental factors indeed arise through four [conditions];
-> the pair of attainments through three; the others through two.
-> [They arise] not from Īśvara and the like, on grounds of succession
-> and the like.
+Mind and the mental factors, through four. The pair of attainments, through three. The others arise through two. Not from Īśvara and the like, on grounds of succession and the like.
 
 ### Bhāṣya-informed study translation
 
-> Mind and mental factors arise through all four kinds of condition.
-> Cessation-attainment and non-percipient attainment arise through
-> three, excluding object-condition. Material dharmas and the remaining
-> dissociated formations arise through cause-condition and predominant
-> condition. The world's arising is not explained by one cause such
-> as Īśvara or Pradhāna: sequential arising and the further arguments
-> oppose that explanation.
+Cause-condition, the five. Immediately antecedent, the preceding mind and factors, uninterrupted. Object, as appropriate. Predominant, all dharmas other than itself.
 
-The single-world-cause formulation and the identification of the
-attainments come from the commentary. The verse names Īśvara and
-“the like”; the prose also names Puruṣa and Pradhāna.
+Cessation-attainment and the non-reflective attainment have no object. They are not object-having. Cause-condition is two: co-arisen, the marks; homogeneous, prior wholesome of the same level. Antecedent is the entering mind with its factors. Predominant as before. They follow mind because produced by mental preparation. They are not antecedent conditions, because they obstruct the arising of mind.
+
+The others, dissociated and form, arise through cause-condition and predominant condition, as already specified.
+
+Not from Īśvara, Puruṣa, Pradhāna, or the like, as one cause of the whole world. One sufficient cause would yield the world at once. Succession is observed. Will would be a plurality of causes. If the wills depend on other causes, Īśvara alone is not the cause. A beginningless series of differentiated causes is the account already held. Pleasure as the purpose fails sovereignty. Creation of calamity as pleasure is the polemic. A single cause would deny the evident efficacy of other things. Cooperation would leave him not sovereign. A first creation, depending on nothing else, would be beginningless. The same, as appropriate, for Pradhāna. No one cause of the world. Beings' own actions generate them in their births. Not settled as a refutation of every position.
 
 ## 6. Philosophical Translation
 
-> An account of arising must distinguish which conditional relations
-> apply to which dharmas. A cognitive occurrence has an object-condition;
-> the two attainments do not, although their production depends on a
-> preceding mental complex. The differences and succession of effects
-> require explanation beyond naming one undifferentiated world-cause.
+Counts of conditions. Not counts of the five inside the cause-condition. The first uncontaminated mind still lacks a homogeneous cause. That exclusion stands.
 
-This is a commentary-informed study formulation. It preserves the
-local critique without making sequence itself an agent or replacing
-the condition counts with a universal formula for cognition.
+The attainments are produced by an entering mind and do not produce the emerging mind. Direction matters. They can be objects. They do not have objects.
 
-**Organon interpretation—not literal Bhāṣya doctrine.** The condition
-profiles articulate conditional relations on the side of Essence.
-Loka:Karma is Appearance: the Bhava Chakra's manifest empirical movement,
-related to but distinct from the Dharma Chakra. The argument against one
-world-cause can be read as rejecting a single, undifferentiated ground for
-Appearance; this project-level reading does not collapse the distinct
-causes, conditions, and karma claim into one principle.
+Succession is evidence against one undifferentiated cause. Not a replacement cause. Karma at the close is births and maturation-fruits. Not every event. Efficacy of other things is not the enclosed Puruṣa. The polemic names a proposed single cause. That name stays enclosed.
+
+Organon rendering:
+
+A course has a profile of conditions. One ground of the world is refused. Not the verse. Not the final pass.
 
 ## 7. Technical Vocabulary
 
-| Term | Controlled rendering | Determination |
+| Sanskrit | Running word | Determination |
 |---|---|---|
-| samāpattidvaya | pair of attainments | cessation and non-percipient attainments |
-| ālambika | having an object | denied of the two attainments themselves |
-| cittābhisaṃskāraja | produced through mental preparation | explains their dependence on an entering mind |
-| cittotpattivibandhaka | obstructing the arising of mind | explains why they are not antecedent conditions for later mind |
-| anye | remaining dharmas | material and other dissociated dharmas |
-| krama | succession | evidence in the single-cause argument |
-| chanda | will / intention | proposed explanation of differentiated timing |
-| kāraṇaparaṃparā | succession of causes | differentiated causal series in the reply |
-| puruṣakāra | operative efficacy | observable activity of other factors |
-| īśvarādi | Īśvara and the like | proposed single world-causes challenged here |
-
-“Arising from an immediately antecedent condition” and “being an
-immediately antecedent condition” describe opposite directions of
-a relation. The two attainments make their difference explicit.
+| samāpatti-dvaya | the pair | cessation, non-reflective |
+| ālambika | object-having | denied of the pair |
+| krama | succession | a reason |
+| puruṣakāra | efficacy | of other things, not Puruṣa |
 
 ## 8. Logical Determination
 
-| Dharma group | Cause-condition | Immediately antecedent | Object-condition | Predominant | Count |
-|---|---|---|---|---|---:|
-| Mind and mental factors | Yes | Yes | Yes | Yes | 4 |
-| The two attainments | Yes | Yes | No | Yes | 3 |
-| Material and remaining dissociated dharmas | Yes | No | No | Yes | 2 |
+```text
+mind and factors
+    4
+pair
+    3
+    no object
+    not antecedent of the emerging mind
+others
+    2
+one world-cause
+    refused
+    succession is the ground
+karma
+    births
+    not every event
+```
 
-These count kinds of condition, not individual conditioning entities.
-The Bhāṣya's reference to the five causes under cause-condition does
-not override the differentiated profiles of 2.60–61: each occurrence
-has the relevant causes, not necessarily all five simultaneously.
+## 9. Interpretive Note
 
-**The attainments' asymmetric relation.** Their cause-condition includes
-co-arisen marks and previously arisen wholesome dharmas of the same
-level as homogeneous causes. Their immediately antecedent condition
-is the entering mind with associated factors. They themselves lack
-an object and obstruct the arising of mind; hence they do not function
-as the immediately antecedent condition of a subsequent mind.
-This agrees with 2.62's account of emergence through the preceding
-mind, without another mind intervening.
+Material causality among the great elements is the next study. Not this unit. The polemic is reported. Not adopted as a hymn.
 
-**Succession as a reason.** The commentary argues that one invariant
-cause, sufficient by itself, would not explain why effects arise at
-different times. An appeal to different divine intentions admits
-causal differentiation. If those intentions depend on other causes,
-the proposed cause is no longer sole; if they arise together from
-an unchanged cause, their differentiated later operation remains
-unexplained in the argument.
+## 10. OWL++ Seed
 
-The further replies challenge creation for pleasure, the suppression
-of observable efficacy in other factors, and an allegedly independent
-first creation. The same line is extended to Pradhāna. These arguments
-are reported as the Bhāṣya's critique, not as an exhaustive refutation
-of every conceivable theological or Sāṃkhya position.
+```ttl
+@prefix vak: <http://127.0.0.1:3000/vak#> .
 
-## 9. Interpretation
-
-**Bhāṣya scope and voices.** The numerical exposition and the subsequent
-debate belong together in the source but remain different kinds of
-claim. The first specifies conditional relations; the second contests
-a single-world-cause explanation. The proposals involving will and
-first creation belong to the opponent's replies. The sarcasm about
-pleasure in suffering and the quoted Rudra verse belong to the polemical
-exposition, not to the literal kārikā translation.
-
-The conclusion attributes beings' births to their own actions. It does
-not replace the preceding plurality of conditions with karma as the
-single cause of every event or classify every suffering as maturation.
-Its scope must remain that of the argument and its closing rebirth claim.
-
-The compressed introductory exchange at 101.20–22 is not secure enough
-to support every speaker assignment in the research translation. The
-subsequent single-cause argument is explicit. Transcription defects
-such as *cchandarbheda*, *śākyayūrvīyam*, and *nihgṛhṇtaḥ* also require
-collation before a critical continuous translation can be finalized.
-The present study relies on the clear argumentative distinctions rather
-than silently repairing every phrase.
-
-**Organon interpretation—not literal Bhāṣya doctrine.** The condition
-profiles articulate Essence; the debate tests whether one cause can account
-for the differentiated, sequential Appearance of the world. In the project's
-architecture, Loka:Karma is Appearance, the Bhava Chakra, related to but
-not collapsed into the Dharma Chakra.
-
-The closing karma statement concerns beings' births and maturation-fruits;
-it does not reduce all conditioned relations or all physical events to karma.
-The two attainments supply condition-profiles, not a definition of Samādhi.
-That more definitional approach belongs to the project's Yoga Dharmapada
-study of YS-IV, not to this translation.
-
-The decisive lesson is plural determination. The four conditions do not
-provide a finished cosmology, but they make a single, self-sufficient
-world-cause inadequate to the source's account of differentiated and
-successive arising. This is a foundation for later Loka–Karma inquiry, not a
-substitute for it; the later volume can illuminate the manifest world without
-undoing this relational critique.
-
-## 10. Review Status
-
-First Pratyaya foundation pass complete. Checked against the
-kārikā and research Bhāṣya and the running source at 101.07–102.18.
-Original witnesses remain unchanged. VAK 2.65 returns to material
-causality, distinguishing great elements and derived matter.
+vak:VAK_2_64 a vak:Karika ; vak:hasTopic vak:ConditionCounts .
+vak:OneWorldCause vak:accepted false .
+```

@@ -1,194 +1,75 @@
-# VAK_2.33 Bhāṣya — Initial Examination, Sustained Examination, Conceit, and Intoxication
+# VAK_2.33 Bhāṣya — Examination, Conceit, and Intoxication
 
-## 1. Text and Scope
+## 1. Kārikā Anchor
 
-This study covers the Bhāṣya on the second consecutive source verse labeled
-2.32, numbered VAK 2.33 in this repository. The source passage is printed
-at 60.23–61.19.
+> vitarkacārāv audāryasūkṣmate māna unnatiḥ /
+> madaḥ svadharme raktasya paryādānaṃ tu cetasaḥ // 2.33 //
 
-The commentary first tests the distinction between *vitarka* and *vicāra*
-through proposed coarseness and subtlety, joint operation, speech-formation,
-difference of kind and degree, and level-versus-moment attribution. It then
-distinguishes conceit from intoxication and records an alternative account
-of intoxication.
+> Vitarka and vicāra are coarseness and subtlety. Conceit is elevation. Intoxication is the taking-over of the consciousness of one attached to one's own qualities.
 
-## 2. Lexical Analysis
+The commentary tests the first distinction and does not settle it. Conceit and intoxication are then distinguished.
 
-| Pada | Morphology | Force in this passage |
-|---|---|---|
-| vitarka | masculine noun | initial examination |
-| vicāra | masculine noun | sustained examination |
-| audārikatā | feminine abstract noun | coarseness |
-| sūkṣmatā | feminine abstract noun | subtlety |
-| vāksaṃskāra | masculine compound | formation or preparation of speech |
-| jāti-bheda | masculine compound | difference of kind |
-| mṛdu-adhimātratā | feminine compound | lesser and greater intensity |
-| bhūmitaḥ | ablative adverbial form | with reference to a level |
-| kṣaṇataḥ | ablative adverbial form | with reference to a moment |
-| māna | masculine noun | conceit |
-| unnati | feminine noun | elevation |
-| mada | masculine noun | intoxication |
-| svadharma | masculine/neuter compound | one's own qualities |
-| paryādāna | neuter noun | taking-over or complete occupation |
-| saṃpraharṣaṇa | neuter noun | exhilaration; alternative definition of intoxication |
+## 2. Continuous Sanskrit Witness
 
-The kārikā transmits *cāra* where the Bhāṣya pairs *vitarka* with
-*vicāra*. The translation follows the commentary while preserving the
-source form in the kārikā study.
+> vitarkavicārayoḥ kiṃ nānākāraṇam /
+> vitarkacārāv audāryasūkṣmate /
+> kasya /
+> cetasa iti paścād vakṣyati /
+> cittaudārikatā vitarkaḥ /
+> cittasūkṣmatā vicāraḥ /
+> kathaṃ punar anayor ekatra citte yogaḥ /
+> kecid āhuḥ /
+> yathā payasi niṣiktaṃ sarpiḥ sūryaraśmibhir ūpariṣṭāt spṛṣṭaṃ nātiśyāyate nātivilīyate evaṃ vitarkavicārayogāc cittaṃ nātisūkṣmaṃ bhavati nātyaudārikam ity ubhayor api tatrāsti vyāpāraḥ /
+> evaṃ tarhi nimittabhūtau vitarkavicārāv audārikasūkṣmatayoḥ prāpnuto yathā payaś ca tapaś ca sarpiṣaḥ śyānatvavilīnatvayoḥ na tu punas tatsvabhāvau /
+> āpekṣikī caudārikasūkṣmatā bhūmiprakārabhedād ity ā bhavāgrād vitarkavicārau syātām /
+> na caudārikasūkṣmatayā jātibhedo yuktaḥ /
 
-## 3. Scientific English Rendering
+The unit is printed 60.23–61.19 in `Vasubandhu/Sources/kosabhasya.txt`. The witness above is the first objection. Speech-formation, non-coexistence, and the conceit pair are reported below. The butter example and the speech quotation are damaged. Not a collation. Technical designations at 61.20 are 2.34.
 
-> What distinguishes initial examination from sustained examination?
-> “Initial and sustained examination are coarseness and subtlety.” Of
-> what? “Of consciousness,” as will be stated later. Initial examination
-> is coarseness of consciousness; sustained examination is subtlety of
-> consciousness. How can both be associated with one consciousness?
->
-> Some say: just as clarified butter, touched from above by the sun's
-> rays, neither congeals excessively nor melts excessively, so
-> consciousness, through the association of initial and sustained
-> examination, becomes neither excessively subtle nor excessively coarse.
-> Both have an operation there.
->
-> Then the two factors would be conditions of coarseness and subtlety,
-> as water and heat are conditions of congealing and melting; they would
-> not themselves have those states as their nature. Coarseness and
-> subtlety are also relative to differences of level and variety. On
-> that basis, initial and sustained examination would extend up to the
-> summit of existence. Nor is a difference of kind established merely
-> through coarseness and subtlety.
->
-> Others say they are formations of speech, as stated in a sūtra:
-> “Having examined and sustainedly examined, one speaks—not without
-> having examined and sustainedly examined.” The coarse formations are
-> initial examination, and the subtle ones sustained examination. If
-> one factor in a consciousness is coarse and another subtle, what
-> contradiction is there? There would be none if they differed in kind,
-> as feeling and recognition do. But lesser and greater intensity
-> within one kind cannot occur simultaneously.
->
-> There is also a difference of kind. Then it should be stated. It is
-> difficult to state, and so is indicated through lesser and greater
-> intensity. It is not indicated in that way, since each kind itself
-> admits lesser and greater intensity.
->
-> Others say initial and sustained examination do not occur in one
-> consciousness. How, then, does the first dhyāna have five factors?
-> It has five factors with reference to the level, not to a moment.
->
-> What distinguishes conceit from intoxication? “Conceit is elevation;
-> intoxication is the taking-over of consciousness in one attached to
-> one's own qualities.” Conceit is elevation of consciousness through
-> any construction of distinction relative to another. Intoxication is
-> the taking-over of consciousness in one attached precisely to one's
-> own qualities. As there is intoxication born of liquor, so there is
-> intoxication born of attachment. Others say intoxication is a
-> particular kind of exhilaration.
+## 3. Continuous Conventional Translation
 
-The clarified-butter comparison and the negative clause in the speech
-quotation are textually defective in the running transcription. The
-translation gives their contextual argumentative sense without claiming
-an independently collated reading.
+What distinguishes vitarka from vicāra? They are coarseness and subtlety. Of what? Of consciousness, as will be stated. Vitarka is coarseness of consciousness. Vicāra is subtlety of consciousness. How can the two be associated with one consciousness? Some say: as clarified butter in water, touched from above by the sun's rays, neither congeals excessively nor melts excessively, so consciousness associated with both becomes neither excessively subtle nor excessively coarse. Both have an operation there.
 
-## 4. Movement and Voices of the Commentary
+Then they would be conditions of coarseness and subtlety, as water and heat are of the butter's congealing and melting, and would not have those states as their nature. Coarseness and subtlety are relative, by differences of level and variety. They would then extend as far as the summit of existence. Difference of kind is not established by coarseness and subtlety.
 
-The first question asks what distinguishes *vitarka* and *vicāra*. The
-initial definition identifies them with coarseness and subtlety of
-consciousness. The balancing analogy explains how both might operate
-together; the response tests whether this makes them conditions rather
-than the states they define and questions the range implied by relative
-coarseness and subtlety.
+Others say they are formations of speech in the sūtra: having examined, one speaks, not without having done so. The coarse are vitarka. The subtle are vicāra. If one dharma is coarse and another subtle, what contradiction? None, if they differed in kind, as feeling and reflection do. Lesser and greater intensity within one kind cannot occur together. There is a difference of kind. Then it should be stated. It is difficult to state, and is indicated by intensity. Not indicated that way, for each kind itself admits lesser and greater intensity.
 
-“Others” introduce the speech-formation account. Its objection and replies
-test coexistence, difference of kind, and whether degree can reveal that
-difference. “Others” then deny occurrence in one consciousness; the
-five-factor designation of first dhyāna prompts the level-versus-moment
-reply. The closing question distinguishes conceit from intoxication, with
-a further alternative definition of intoxication attributed to others.
+Still others say they do not occur in one consciousness at all. How, then, does the first dhyāna have five factors? With reference to the level, not to the moment.
 
-## 5. Conditions, Kinds, and Degrees
+What distinguishes conceit from intoxication? Conceit is elevation. Intoxication is the taking-over of consciousness in one attached to one's own qualities. Conceit is elevation of consciousness through any construction of distinction relative to another. Intoxication is the taking-over of consciousness in one attached precisely to one's own qualities. As intoxication born of liquor, so born of attachment. Others say a particular kind of exhilaration.
 
-The clarified-butter analogy proposes that the two factors jointly prevent
-consciousness from becoming excessively coarse or subtle. The response
-distinguishes a condition from the state it conditions: an explanation of
-how a state is moderated is not yet a definition of either factor.
+Cast into water follows the reply's water and heat. Not a restored reading. The speech quotation is damaged. Its sense is kept.
 
-The relative character of coarseness and subtlety raises a distributional
-problem. If these relative qualities alone defined the factors, they would
-extend across levels up to the summit of existence. That result conflicts
-with the restricted distribution considered in VAK 2.31.
+## 4. Movement and Voice of the Commentary
 
-The speech-formation account gives a possible common genus: one factor is
-coarse and the other subtle. The discussion then requires a difference of
-kind if both are present in one consciousness, but questions whether
-lesser and greater intensity establish such a difference. Each kind may
-itself vary in intensity. The passage does not provide a final,
-uncontested discriminant for the pair.
+The inquiry into distinctions continues. Three positions: a balancing analogy, speech-formations, and denial of occurrence in one consciousness. Objections press condition against nature, degree against kind, and level against moment. No harmonization is appended. Conceit and intoxication follow, with another reported definition of intoxication.
 
-## 6. Level and Moment
+## 5. Condition and State
 
-The last attributed position denies that *vitarka* and *vicāra* occur in
-one consciousness. The objection cites first dhyāna's five-factor
-designation; the reply says that it is fivefold with reference to the
-level (*bhūmi*), not with reference to a moment (*kṣaṇa*).
+The butter analogy says both operate to prevent excess. The reply makes them conditions of those states, not the states. The objection tests the definition. It does not merely deny that opposite influences could operate together.
 
-This response distinguishes the scale of attribution. It does not erase
-the earlier account proposing joint operation, nor settle the debate
-between the positions. It also does not specify a moment-by-moment
-sequence for the factors under the non-coexistence account.
+Relativity by level and variety: if that alone established the factors, they would reach the summit. That conflicts with 2.31, where they are successively excluded. The image and the range do different work. An account would have to name the factors and keep the range.
 
-## 7. Conceit and Intoxication
+## 6. Kind and Degree
 
-Conceit is elevation of consciousness through constructing a distinction
-relative to another. Intoxication is complete occupation of consciousness
-in one attached to one's own qualities. The first is explicitly
-comparative; the second is characterized by attachment to one's own
-qualities. The liquor-born example distinguishes intoxication caused by
-liquor from intoxication born of attachment. “A particular kind of
-exhilaration” is a separately attributed alternative, not a replacement
-for the preceding account.
+The sūtra account allows coarse and subtle in one consciousness. Coexistence is allowed where kinds differ. Intensity alone is challenged as the mark of that difference. A difference of kind is asserted and admitted to be hard to state. Intensity is rejected as the indication, because each kind itself varies in intensity. The demand is a character beyond degree. Not a settled definition of coarse thought and subtle thought. The renderings stay labels while the referents are examined.
 
-## 8. Textual Limits
+## 7. Level and Moment
 
-The opening butter example contains *'pyasuniṣṭhyūtaṃ*; the rendering of
-the butter as cast into water is a contextual construal supported by the
-reply's references to water and heat. The speech quotation contains the
-defective transmitted form *nāvitasryāvicārye*; the translation follows
-the argument's negative sense without restoring a Sanskrit reading.
-Other transcription defects, including *nimiṭta*, *yukata*, and
-*saṃprahaṛśaṇa*, remain uncorrected in the source witness.
+The last position denies co-presence. Five factors of the first dhyāna are then answered by level, not moment. An alternative. Not a withdrawal of the earlier association. Both stay. No order of the factors is supplied under the alternative. A predicate of a level need not, on this account, distribute to every moment. The attribution stays with the debate.
 
-The commentary's *cetasaḥ* supplies “of consciousness” as the scope of
-the initial definition. The kārikā's *cāra* is read as *vicāra* in the
-prose. These are Bhāṣya-guided translation decisions.
+## 8. Conceit and Intoxication
 
-## 9. Interpretation
+Elevation through a constructed distinction relative to another. Taking-over through attachment to one's own qualities. Comparison, and absorption in one's own. Pride for both would lose the distinction. Liquor clarifies attachment-born intoxication. It does not identify the factor with drinking. Exhilaration is others. Not a replacement.
 
-The passage demands that definition, causal conditioning, relative
-intensity, difference of kind, and scale of attribution be kept distinct.
-It records proposals and objections without harmonizing them. Its
-level-versus-moment distinction is precise, but remains part of a local
-argument rather than a general resolution of the competing accounts.
+## 9. Organon Reading
 
-The Kośa's governing synthesis: Vijñāna is Discriminative Cognition joining
-and governing Perception and Conception. Their unity is Inconceivable as a
-homogeneous operation; its Idea is disclosed in the Cognition Base. Vijñāna
-governs Mind and guides the reading of Dharma Base. Form Base and Dharma
-Base both include the same *avijñapti* in distinct classifications, and
-Vijñāna bears a *prati* relation to *avijñapti*. This framework does not
-make the disputed factor definitions in this passage a settled chronology.
+Identity, conditioning, intensity, and scale do not substitute for one another. An influence is not the state. Strength is not kind. The disputed definitions stay disputed. What each proposal explains, and what it leaves, is the precision. Level and moment are useful because the role is explicit.
 
-Under the project-level Samyama synthesis, ten Samyama-bhūmis describe
-Path-related operation of mental factors, and Buddha Dharma is the
-eleventh Bhūmi. VAK 2.33 neither enumerates those levels nor maps its
-discussion of first dhyāna onto a specific Samyama-bhūmi.
+Comparison and attachment to one's own organize different explanations. Not one emotion called pride. Objective Logic on the mind is the pass. Not the translation. Not the final pass.
 
 ## 10. Review Status
 
-The kārikā and Bhāṣya have been compared with the running transcription
-at 60.23–61.19. The paired study preserves the proposed coarseness and
-subtlety definition, the balancing analogy, the speech-formation account,
-the objections about conditions, range, kind, and intensity, the
-level-versus-moment reply, and both accounts of intoxication. Source
-numbering and transcription uncertainties are recorded; the source
-witness is unchanged.
+Fine-tuned with the kārikā. Domain withdrawn. The three positions, the objections, and the conceit pair are kept. The dispute is not settled.
+
+2.34 has not been opened.

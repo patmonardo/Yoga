@@ -1,4 +1,4 @@
-# VAK_2.19 — Possession of the Realization Faculties
+# VAK_2.19 — Realization and What It Entails
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -12,228 +12,116 @@
 >
 > ājñāsyāmīndriyopetas trayodaśabhir anvitaḥ // 2.19 //
 
-The opening `aṣṭābhiḥ` completes the subject `strīndriyādimān` carried over
-from VAK 2.18. Only after that completion does `ekādaśabhiḥ` govern the two
-realization-faculty cases introduced in this verse.
+Aṣṭābhiḥ completed the female-and-so-forth subject in 2.18. This study begins at eleven.
 
 ## 3. Lexical Analysis
 
-```text
-aṣṭābhir             → aṣṭābhiḥ
-ekādaśabhis          → ekādaśabhiḥ
-tv                   → tu
-ājñājñātendriyānvitaḥ
-                     → ājñā-ājñāta-indriya-anvitaḥ
-ājñāsyāmīndriyopetas
-                     → ājñāsyāmi-indriya-upetaḥ
-trayodaśabhir        → trayodaśabhiḥ
-anvitaḥ              → anvitaḥ
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
-| aṣṭābhiḥ | instrumental plural numeral | with eight faculties; completes VAK 2.18 |
-| ekādaśabhiḥ | instrumental plural numeral | with eleven faculties |
-| tu | contrastive particle | but / whereas |
-| ājñā-indriya | compound member | faculty of knowledge |
-| ājñāta-indriya | compound member | faculty belonging to one who has known, as explained by the Bhāṣya |
-| anvitaḥ | nominative masculine singular | accompanied by / endowed with |
-| ājñāsyāmi-indriya | possessive compound member | faculty called “I shall know” |
-| upetaḥ | nominative masculine singular | furnished with / possessing |
-| trayodaśabhiḥ | instrumental plural numeral | with thirteen faculties |
+| aṣṭābhiḥ | instrumental | with eight; the prior close |
+| ekādaśabhiḥ | instrumental | with eleven |
+| ājñā-indriya | compound | knowledge-faculty |
+| ājñāta-indriya | compound | one who has known; ājñātāvīndriya |
+| anvitaḥ | nominative | accompanied by |
+| ājñāsyāmi-indriya | compound | I shall know |
+| upetaḥ | nominative | furnished with |
+| trayodaśabhiḥ | instrumental | with thirteen |
 
-The Bhāṣya explains `ājñāta-indriya` as an abbreviated designation of the
-faculty belonging to one who has known, elsewhere termed
-`ājñātāvīndriya`.
+The gloss at 51.17 is difficult. Ājñātendriya is read as one who has known. The two cases stay apart by the prose that follows.
 
 ## 4. Grammar
 
-The verse begins by closing the preceding construction:
-
 ```text
-strī-indriya-ādi-mān aṣṭābhiḥ
-    → one possessing the female faculty and the following group
-      is endowed with eight
+knowledge-faculty
+    → eleven
+    ten in common + itself
+
+one who has known
+    → eleven
+    those same ten + itself
+
+I shall know
+    → thirteen
+    mind, life, body, four feelings, the five, itself
 ```
 
-The Bhāṣya distributes this rule `pratyekam`, to each case separately. The
-female faculty, male faculty, distress, and each of the five beginning with
-confidence do not form one joint eightfold set.
+Eleven is two possessions, not one set of twelve. Thirteen is not eleven plus two.
 
-The first line then introduces two parallel subjects under one count:
+## 5. Translation
 
-```text
-ājñā-indriya-anvitaḥ
-ājñāta-indriya-anvitaḥ
-    → endowed with 11
-```
+### Literal Translation
 
-The second line gives a third realization-faculty configuration:
+With eight. But one accompanied by the knowledge-faculty or the faculty of one who has known, with eleven. One furnished with the faculty “I shall know” is accompanied by thirteen.
 
-```text
-ājñāsyāmi-indriya-upetaḥ
-    → trayodaśabhiḥ anvitaḥ
-    → one possessing the “I shall know” faculty is endowed with 13
-```
+### Bhāṣya-informed study translation
 
-The possessive participles `anvitaḥ` and `upetaḥ` continue the chapter's
-analysis of necessary endowment, not merely faculties activated in one
-cognitive moment.
+One possessing the knowledge-faculty necessarily possesses eleven: pleasure, gladness, neutral feeling, life, mind, the five beginning with faith, and the knowledge-faculty. The same for one who has known: those ten, and that faculty.
 
-## 5. Scientific English Rendering
+One possessing “I shall know” is endowed with thirteen. Which thirteen? Mind, life, and body; four feelings; the five beginning with faith; and “I shall know.”
 
-### Kārikā
+## 6. Philosophical Translation
 
-> [One possessing the female faculty and so forth is endowed] with eight; but one endowed with the knowledge faculty or the faculty of one who has known, with eleven. One possessing the faculty called “I shall know” is endowed with thirteen.
+The later two share ten and are not one faculty. The prospective faculty has another set: body and pain are in it, and they are not in the common ten. Thirteen is not more realization than eleven. Omission from a necessary set is not a claim that the omitted faculty cannot be possessed.
 
-### Bhāṣya-informed rendering
+Organon rendering:
 
-> Possession of the female faculty, the male faculty, distress, or any one of the five faculties beginning with confidence entails a minimum configuration of eight, calculated separately for each case. Possession of the knowledge faculty or the faculty of one who has known entails eleven. Possession of the faculty called “I shall know” entails thirteen.
-
-The Kārikā states only the counts and faculty groups. The membership of each
-supporting configuration below is supplied by the Bhāṣya.
-
-## 6. Interpretation
-
-The five Faculties beginning with confidence form a separate
-eight-member necessary set when any one is possessed. The Bhāṣya
-then distinguishes two realization Faculties, each with eleven
-necessary possessions and a different final member, from the
-“I shall know” Faculty with its separately enumerated thirteen.
-The count does not rank realization; necessary possession is not
-simultaneous operation, nor does the Bhāṣya here state that every
-listed Faculty causally supports the realization.
-
-In the Kant-informed Techne, each claim retains its named Faculty,
-required membership, and scope. The Base–Essence–Principle crosswalk
-connects these possession-relations to the wider Organon without
-turning the Bhāṣya into a system-design theory.
-
-The Kośa's governing synthesis: Vijñāna is Discriminative Cognition joining
-and governing Perception and Conception. Their unity is Inconceivable as a
-homogeneous operation; its Idea is disclosed in the Cognition Base. Vijñāna
-governs Mind and guides the reading of Dharma Base. *Avijñapti* is the
-bridge, one Dharma classified in both Form Base and Dharma Base; Vijñāna
-bears a *prati* relation to it.
+Same count, different membership, again. The consequence of possessing a realization-faculty is its closure. The number does not rank the knowing. Not the verse English.
 
 ## 7. Technical Vocabulary
 
-| Sanskrit | Project rendering | Determination |
+| Sanskrit | Running word | Determination |
 |---|---|---|
-| pratyekam | in each case separately | Bhāṣya qualifier preventing aggregation of the eightfold cases |
-| śraddhādi-pañcaka | five beginning with confidence | confidence, energy, mindfulness, concentration, and discernment; mutually entailing here |
-| ājñāsyāmi-indriya | “I shall know” faculty | prospective realization faculty; entails thirteen |
-| ājñā-indriya | knowledge faculty | realization faculty; entails eleven |
-| ājñātāvī-indriya | faculty of one who has known | completed-realization faculty; entails eleven |
-| ājñāta-indriya | faculty belonging to one who has known | Bhāṣya's grammatical explanation of the preceding designation |
-| samanvāgata | endowed with / possessing | Bhāṣya relation of lawful membership in a continuum |
-| upeta | furnished with / possessing | Kārikā expression parallel to `anvita` |
-| anvita | accompanied by / endowed with | Kārikā expression for the co-possession relation |
-
-The associations with path of seeing, cultivation, and no-more-training are
-doctrinal determinations supplied by the Bhāṣya context; they are not stated
-in these two compact lines.
+| ājñendriya | knowledge-faculty | eleven |
+| ājñātāvīndriya | one who has known | eleven; another set |
+| ājñāsyāmīndriya | I shall know | thirteen |
+| śraddhādi | the five | all five, not faith alone |
+| tair eva daśabhiḥ | those same ten | carries the common members |
+| samanvāgata | possessing | not one path-moment |
 
 ## 8. Logical Determination
 
-The eight-count closes the group begun in VAK 2.18. Let:
-
 ```text
-PainClosure
-    = {Body, Life, Mind,
-       Pain, Pleasure, Gladness, NeutralFeeling}
-```
+common ten
+    = pleasure, gladness, neutral feeling,
+      life, mind, five beginning with faith
 
-Then the female, male, and distress cases are separately:
+knowledge-faculty
+    = ten + itself
+    = 11
 
-```text
-Closure(Female)   = PainClosure ∪ {Female}
-Closure(Male)     = PainClosure ∪ {Male}
-Closure(Distress) = PainClosure ∪ {Distress}
+one who has known
+    = ten + itself
+    = 11
+    ≠ both realization-faculties together
 
-Count(each) = 8
-```
+I shall know
+    = mind, life, body,
+      four feelings,
+      five,
+      itself
+    = 13
 
-For any one of the five beginning with confidence:
+four feelings
+    = pain, pleasure, gladness, neutral feeling
+    distress not in the set
 
-```text
-PathFive = {Confidence, Energy, Mindfulness,
-            Concentration, Discernment}
-
-f ∈ PathFive
-∧ Possesses(agent, f)
-    → PossessesAll(agent,
-        PathFive ∪ {NeutralFeeling, Life, Mind})
-    → MinimumCount = 8
-```
-
-The two elevenfold realization closures share ten supports:
-
-```text
-LaterRealizationSupport
-    = {Pleasure, Gladness, NeutralFeeling,
-       Life, Mind}
-      ∪ PathFive
-
-Closure(Knowledge)
-    = LaterRealizationSupport ∪ {Knowledge}
-Count = 11
-
-Closure(OneWhoHasKnown)
-    = LaterRealizationSupport ∪ {OneWhoHasKnown}
-Count = 11
-```
-
-The prospective realization faculty has a different support-set:
-
-```text
-SeeingPathSupport
-    = {Mind, Life, Body,
-       Pain, Pleasure, Gladness, NeutralFeeling}
-      ∪ PathFive
-
-Closure(IShallKnow)
-    = SeeingPathSupport ∪ {IShallKnow}
-Count = 13
-```
-
-Hence count does not determine configuration identity:
-
-```text
-Count(Closure(x)) = Count(Closure(y))
-    ⇏ Closure(x) = Closure(y)
+same count
+    ↛ same set
+larger count
+    ↛ more realization
+omitted
+    ↛ cannot be possessed
 ```
 
 ## 9. Interpretive Note
 
-VAK 2.19 first repairs the open syntax of VAK 2.18. Its initial “with eight”
-belongs to the female-faculty group left waiting at the prior verse boundary.
-The Bhāṣya's `pratyekam` is logically decisive: each named faculty generates
-its own minimum eightfold configuration. We must not merge female, male,
-distress, and the five practical faculties into a single state.
+The eight stands in 2.18. Pratyekam still holds: female, male, distress, and each of the five are separate eights.
 
-Possession of any of the five Faculties beginning with confidence entails
-possession of all five, which in turn require neutral feeling, Life, and Mind.
-This is the co-possession relation stated in the Bhāṣya; it does not establish
-that the members operate together or cause one another.
+The damaged gloss is kept. The contrast is carried by ājñendriyeṇa and ājñātāvīndriyeṇa. The resolution is marked, not a silent repair.
 
-The three realization faculties then articulate stages of knowing through
-different support closures. The prospective “I shall know” faculty requires
-thirteen, including body and four feelings. Knowledge and the faculty of one
-who has known each require eleven, with three feelings and no body in their
-minimum set. The numerical increase or decrease must not by itself be read as
-more or less realization. The sets encode the conditions of their respective
-path states.
+Pain in the thirteen is not a constituent of the seeing-path moment. The predicate is possession. Why body and pain are necessary here and absent from the common ten is not explained. No cause is inserted.
 
-The Organon representation should preserve exact set membership and
-distinguish necessary possession from current operation. Count alone cannot
-identify a configuration, and the larger thirteen-member set does not rank
-above either eleven-member set.
-
-**Return to Dhātu at VAK 1.48.** Dhātu classifies Faculty relations
-within the Base–Essence–Principle architecture. These eight-, eleven-,
-and thirteen-Faculty possession sets relate Faculties already classified
-there without making their loci identical or replacing the Dhātu map.
+Organon reading: the named faculty, its path-role, and the exact list. Not the verse English.
 
 ## 10. OWL++ Seed
 
@@ -245,36 +133,13 @@ there without making their loci identical or replacing the Dhātu map.
 vak:VAK_2_19
     a vak:Karika ;
     rdfs:label "VAK 2.19" ;
-    vak:hasTopic vak:NecessaryCopossession,
-        vak:RealizationFacultyConfiguration ;
-    vak:belongsTo vak:Indriyanirdesa ;
-    vak:syntacticallyCompletes vak:VAK_2_18 .
+    vak:hasTopic vak:RealizationClosure ;
+    vak:belongsTo vak:Indriyanirdesa .
 
-vak:FemaleFaculty,
-vak:MaleFaculty,
-vak:DistressFaculty,
-vak:FiveBeginningWithConfidence
-    vak:hasMinimumCopossessionCount 8 .
+vak:KnowledgeFaculty vak:closesOn 11 .
+vak:OneWhoHasKnown vak:closesOn 11 .
+vak:IShallKnow vak:closesOn 13 .
 
-vak:KnowledgeFaculty,
-vak:FacultyOfOneWhoHasKnown
-    vak:hasMinimumCopossessionCount 11 .
-
-vak:IShallKnowFaculty
-    vak:hasMinimumCopossessionCount 13 .
-
-vak:FiveBeginningWithConfidence
-    vak:hasMember vak:ConfidenceFaculty,
-        vak:EnergyFaculty,
-        vak:MindfulnessFaculty,
-        vak:ConcentrationFaculty,
-        vak:DiscernmentFaculty ;
-    vak:hasConstraint vak:MutualCopossession .
-
-organon:RealizationCapabilityState
-    a organon:InterpretiveReconstruction ;
-    organon:requires organon:ExactFacultyClosure,
-        organon:PathStageDetermination ;
-    organon:rejects organon:CountOnlyRepresentation ;
-    organon:inferredFrom vak:RealizationFacultyConfiguration .
+organon:LargerCountNotMore
+    organon:notTheVerseEnglish true .
 ```

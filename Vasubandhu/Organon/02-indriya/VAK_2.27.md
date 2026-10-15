@@ -1,4 +1,4 @@
-# VAK_2.27 — The Restricted Ground of Afflictions
+# VAK_2.27 — The Limited Ground
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -12,145 +12,106 @@
 >
 > māyāmadavihiṃsāś ca parīttakleśabhūmikāḥ // 2.27 //
 
-## 3. Lexical Analysis
+Pradāsa and mrakṣa are two. The local class-name has no mahā. The introductory name at 2.23 had it. Both readings stay local.
 
-```text
-krodhopanāhaśāṭhyerṣyāpradāsamrakṣamatsarāḥ
-    → krodha-upanāha-śāṭhya-īrṣyā-pradāsa-mrakṣa-matsarāḥ
-māyāmadavihiṃsāś ca
-    → māyā-mada-vihiṃsāḥ ca
-parīttakleśabhūmikāḥ
-    → parītta-kleśa-bhūmikāḥ
-```
+## 3. Lexical Analysis
 
 | Pada | Morphology | Force in this passage |
 |---|---|---|
-| krodha | masculine noun in compound | anger |
-| upanāha | masculine noun in compound | resentment |
-| śāṭhya | neuter noun in compound | deceitful crookedness |
-| īrṣyā | feminine noun in compound | envy |
-| pradāsa | masculine noun in compound | spite |
-| mrakṣa | masculine noun in compound | concealment of faults |
-| matsara | masculine noun in compound | stinginess |
-| māyā | feminine noun in compound | deception |
-| mada | masculine noun in compound | intoxication |
-| vihiṃsā | feminine noun in compound | harmfulness |
-| parītta-kleśa-bhūmikāḥ | nominative plural compound | belonging to the restricted ground of afflictions |
+| krodha | compound | anger |
+| upanāha | compound | resentment |
+| śāṭhya | compound | crookedness |
+| īrṣyā | compound | envy |
+| pradāsa | compound | spite |
+| mrakṣa | compound | concealment |
+| matsara | compound | stinginess |
+| māyā | compound | deception |
+| mada | compound | intoxication |
+| vihiṃsā | compound | harmfulness |
+| parītta-kleśa-bhūmikāḥ | nominative | of the limited-affliction ground |
 
-The dense sequence *pradāsamrakṣa* divides into *pradāsa* and *mrakṣa*.
-The Bhāṣya confirms the ten members but defers their individual
-definitions.
+The English of the ten is provisional. Definitions are deferred.
 
 ## 4. Grammar
 
-Ten nominal subjects are classified by the final predicate:
-
 ```text
-krodha ... vihiṃsāḥ
-    → ten mental factors
+ten names
+    → this ground
+    not all ten together
 
-parītta-kleśa-bhūmikāḥ
-    → belonging to the restricted ground of afflictions
+associated only with ignorance
+    abandonable through cultivation
+    of the mental sphere
 ```
 
-The Bhāṣya defines their shared range by association with ignorance,
-abandonment through cultivation, and operation only in the mental sphere.
-The plural predicate names a class; it does not say that all ten
-necessarily co-arise as one set.
+Always in the afflicted governed the six. It does not carry here.
 
-## 5. Scientific English Rendering
+## 5. Translation
 
-### Kārikā
+### Literal Translation
 
-> Anger, resentment, deceitful crookedness, envy, spite, concealment of
-> faults, stinginess, deception, intoxication, and harmfulness belong to
-> the restricted ground of afflictions.
+Anger, resentment, crookedness, envy, spite, concealment, stinginess, deception, intoxication, and harmfulness belong to the limited-affliction ground.
 
-### Bhāṣya-informed rendering
+### Bhāṣya-informed study translation
 
-> These factors belong to the restricted ground of afflictions because
-> they are associated only with ignorance that is abandonable through
-> cultivation and belongs to the mental sphere. Their individual
-> definitions will be given in the discussion of secondary afflictions.
-> The five classes of mental factors have now been stated. There are also
-> further unfixed factors, such as initial examination, sustained
-> examination, regret, and torpor.
+Limited afflictions are their ground. They are so called because associated only with ignorance that is abandonable through cultivation and belongs to the mental sphere. Their exposition will be given among the secondary afflictions. These five classes of mental factors have been stated. There are also others, unfixed: initial examination, sustained examination, regret, torpor, and so forth.
 
-“Restricted” describes the range of this class, not the moral significance
-of an individual occurrence. “Unfixed” translates *aniyata* here; it does
-not mean ethically indeterminate.
+## 6. Philosophical Translation
 
-## 6. Interpretation
+A ground can unite factors without making them a bundle. These share association, abandonment, and sphere. They do not share necessary co-presence. Limited is range, not slight harm. Only with ignorance restricts the affliction association. It does not cancel consciousness and the universal ten.
 
-The ten members share three stated restrictions: their association is
-with ignorance, they are abandonable through cultivation, and they
-operate only in the mental sphere. The Bhāṣya does not assert that they
-form a bundle necessarily present together in every consciousness or
-every afflicted consciousness. Nor does *parītta* declare their effects
-trivial.
+Unfixed is not ethically indeterminate. The five classes are the sequence treated. They are not an exhaustive partition.
 
-In the Organon framework, the ten Samyama-bhūmis describe Path-related
-operation of mental factors, with Buddha Dharma as the 11th Bhūmi. This
-verse supports only its own stated constraints; it does not assign the
-ten factors to individual Bhūmis or establish co-occurrence. The
-following count inquiry must determine particular distributions rather
-than assuming them from the class name.
+Organon rendering:
 
-The Kośa's governing synthesis: Vijñāna is Discriminative Cognition joining
-and governing Perception and Conception. Their unity is Inconceivable as a
-homogeneous operation; its Idea is disclosed in the Cognition Base. Vijñāna
-governs Mind and guides the reading of Dharma Base. Form Base and Dharma
-Base both include the same *avijñapti* in distinct classifications, and
-Vijñāna bears a *prati* relation to *avijñapti*. This does not turn the
-mental factors into Faculties.
+Class is not co-presence. The pass is Objective Logic on the mind. Not the verse English. Not the final pass.
 
-## 7. Logical Determination
+## 7. Technical Vocabulary
+
+| Sanskrit | Running word | Determination |
+|---|---|---|
+| parītta-kleśa-bhūmika | limited-affliction ground | range, not slightness |
+| avidyā-mātreṇa | only with ignorance | among afflictions |
+| bhāvanā-heya | abandonable through cultivation | not through seeing |
+| mano-bhūmika | of the mental sphere | not the five sensory consciousnesses |
+| upakleśa | secondary affliction | where the definitions wait |
+| aniyata | unfixed | not ethically indeterminate |
+
+## 8. Logical Determination
 
 ```text
-RestrictedAfflictionClass = {
-    Anger,
-    Resentment,
-    DeceitfulCrookedness,
-    Envy,
-    Spite,
-    ConcealmentOfFaults,
-    Stinginess,
-    Deception,
-    Intoxication,
-    Harmfulness
-}
+member of this class
+    → only with that ignorance
+    → abandonable through cultivation
+    → mental sphere
 
-For every factor f in RestrictedAfflictionClass:
-    AssociatedWith(f, Ignorance)
-    ∧ AbandonedThrough(f, Cultivation)
-    ∧ OperatesOnlyIn(f, MentalSphere)
+member and member
+    ↛ necessarily together
+
+universal ten
+    in every consciousness
+wholesome ten
+    in every wholesome consciousness
+afflicted six
+    always and only in the afflicted
+this ten
+    shared restrictions, not that universality
+
+five classes stated
+    ≠ every mental factor classified
 ```
 
-Class membership supplies shared range constraints, not a compulsory
-co-arising rule:
+## 9. Interpretive Note
 
-```text
-f, g ∈ RestrictedAfflictionClass
-    ⇏ NecessarilyCoarises(f, g)
-```
+Anger is not resentment. Crookedness is not deception. Spite is not harmfulness. The distinctions are named. They are not yet explained. Concealment and intoxication are not complete definitions. Intoxication is not settled as a substance.
 
-The Bhāṣya's *aniyata* examples name further factors beyond the five
-classes without specifying their full distributions in this verse.
+Secondary affliction is the deferred discussion. It is not identified with this class. Ground remains sphere of operation.
 
-## 8. Interpretive Note
+The unfixed examples leave the list open. Their distributions wait on the count of what must be in a given consciousness.
 
-The verse closes the fivefold classification introduced in VAK 2.23,
-then the Bhāṣya immediately acknowledges factors not fixed to those
-classes. The taxonomy is systematic but not an exhaustive inventory of
-every mental factor. The next unit asks how many factors necessarily
-occur in particular consciousnesses.
+Organon reading: shared constraints are not a required bundle. Not the verse English.
 
-“Restricted ground of afflictions” names the class in this verse.
-*Upakleśa*, the discussion where individual definitions are deferred,
-is rendered separately as “secondary afflictions”; the two terms are
-not treated as interchangeable names for identical ranges.
-
-## 9. OWL++ Seed
+## 10. OWL++ Seed
 
 ```ttl
 @prefix vak: <http://127.0.0.1:3000/vak#> .
@@ -160,34 +121,12 @@ not treated as interchangeable names for identical ranges.
 vak:VAK_2_27
     a vak:Karika ;
     rdfs:label "VAK 2.27" ;
-    vak:hasTopic vak:RestrictedAfflictionGround ;
-    vak:belongsTo vak:Indriyanirdesa ;
-    vak:closes vak:FivefoldCaittaGroundTaxonomy .
+    vak:hasTopic vak:LimitedAfflictionGround ;
+    vak:belongsTo vak:Indriyanirdesa .
 
-vak:RestrictedAfflictionGround
-    vak:hasMember vak:Anger,
-        vak:Resentment,
-        vak:DeceitfulCrookedness,
-        vak:Envy,
-        vak:Spite,
-        vak:ConcealmentOfFaults,
-        vak:Stinginess,
-        vak:Deception,
-        vak:Intoxication,
-        vak:Harmfulness ;
-    vak:hasAssociationRestriction vak:Ignorance ;
-    vak:hasAbandonmentType vak:AbandonedThroughCultivation ;
-    vak:hasOperatingSphere vak:MentalSphere ;
-    vak:doesNotImply vak:UniversalJointPresence .
+vak:LimitedTen vak:necessarilyTogether false .
+vak:FiveClasses vak:exhaustive false .
 
-vak:FurtherUnfixedFactors
-    vak:hasExample vak:InitialExamination,
-        vak:SustainedExamination,
-        vak:Regret,
-        vak:Torpor .
-
-organon:GroundClass
-    a organon:InterpretiveReconstruction ;
-    organon:definedBy organon:SharedRangeConstraints ;
-    organon:distinctFrom organon:RequiredBundle .
+organon:ClassNotBundle
+    organon:notTheVerseEnglish true .
 ```

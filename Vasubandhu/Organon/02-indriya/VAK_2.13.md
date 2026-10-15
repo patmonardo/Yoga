@@ -1,4 +1,4 @@
-# VAK_2.13 — What Is and Is Not to Be Abandoned
+# VAK_2.13 — To Be Abandoned, and Not
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -14,269 +14,120 @@
 
 ## 3. Lexical Analysis
 
-```text
-manovittitrayaṃ     → manaḥ-vitti-trayam
-tredhā              → tredhā
-dviheyā             → dvi-heyā
-durmanaskatā        → durmanaskatā
-nava                → nava
-bhāvanayā           → bhāvanayā
-pañca tv            → pañca tu
-aheyāny api         → aheyāni api
-na trayam           → na trayam
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
-| manas | compound member | mind-faculty |
-| vitti-trayam | nominative neuter singular compound | triad of feelings: pleasure, gladness, and neutral feeling |
-| tredhā | indeclinable adverb | in three ways |
-| dvi-heyā | nominative feminine singular compound | to be abandoned in two ways; agrees with `durmanaskatā` |
-| durmanaskatā | nominative feminine singular | distress; equivalent here to `daurmanasya` |
-| nava | nominative plural numeral | nine faculties |
-| bhāvanayā | instrumental feminine singular | by cultivation |
-| pañca | nominative plural numeral | the five beginning with confidence |
-| tu | contrastive particle | however |
-| aheyāni | nominative neuter plural | not to be abandoned |
-| api | additive particle | also |
-| na | negation | not |
-| trayam | nominative neuter singular | the triad of realization-faculties |
+| manaḥ-vitti-trayam | nominative | mind and a triad of feelings |
+| tredhā | indeclinable | in three ways |
+| dvi-heyā | nominative | to be abandoned in two ways |
+| durmanaskatā | nominative | distress |
+| nava | nominative | nine |
+| bhāvanayā | instrumental | by cultivation |
+| pañca tu | nominative | the five, however |
+| aheyāni api | nominative | also not to be abandoned |
+| na trayam | nominative | the triad is not |
 
-`Manovittitrayam` gathers four faculties, not three: mind together with a
-triad of feelings. The Bhāṣya identifies the three feelings as `sukha`,
-`saumanasya`, and `upekṣā`.
+Manovittitrayam is four faculties. The three feelings are pleasure, gladness, and neutral feeling. Pain is not in that triad.
 
 ## 4. Grammar
 
-The opening assigns three possible abandonment-statuses to four faculties:
-
 ```text
-manaḥ-vitti-trayaṃ tredhā
-    → mind and the triad of feelings are threefold
-```
+mind, pleasure, gladness, neutral feeling
+    → by seeing, by cultivation, or not to be abandoned
 
-The Bhāṣya supplies the three possibilities:
-
-```text
-darśana-prahātavya
-    → to be abandoned by seeing
-
-bhāvanā-prahātavya
-    → to be abandoned by cultivation
-
-aprahātavya / aheya
-    → not to be abandoned
-```
-
-The next clause concerns distress:
-
-```text
-dvi-heyā durmanaskatā
-    → distress is to be abandoned in two ways
+distress
     → by seeing or by cultivation
+    never not-to-be-abandoned
+
+nine, to be abandoned continues
+    → by cultivation only
+    seven of form, life, pain
+
+five
+    → by cultivation, and also not to be abandoned
+    with outflows, or without
+
+triad
+    → not to be abandoned
+    faultless is not fit
 ```
 
-`Nava bhāvanayā` continues an understood `heyāni`:
+Api adds a class. It does not put both statuses on one instance.
 
-```text
-nava [heyāni] bhāvanayā
-    → nine are [to be abandoned] by cultivation
-```
+## 5. Translation
 
-The final clauses distinguish mixed and fixed non-abandonment:
+### Literal Translation
 
-```text
-pañca tu aheyāni api
-    → the five, however, may also be not abandoned
+Mind and the triad of feelings are threefold. Distress is to be abandoned in two ways. Nine by cultivation. The five, however, also not to be abandoned. Not the triad.
 
-na trayam
-    → the triad is not [to be abandoned]
-```
+### Bhāṣya-informed study translation
 
-For the five, `api` adds non-abandonment to cultivation-abandonment. For the
-triad, the Bhāṣya states that abandonment never applies.
+How many are to be abandoned by seeing, how many by cultivation, how many not to be abandoned? Mind and the three feelings are threefold. Which three? Pleasure, gladness, and neutral feeling. Distress is to be abandoned in two ways, by seeing and by cultivation. Nine by cultivation: to be abandoned continues. Those beginning with the eye, life as the eighth, and the pain-faculty, are to be abandoned only by cultivation. The five beginning with faith are to be abandoned by cultivation, and also not to be abandoned, because they can be with outflows or without. The three beginning with “I shall know” are not to be abandoned at all, because they are without outflows. What is faultless is not fit to be abandoned. The distinctions of kind have been explained.
 
-## 5. Scientific English Rendering
+## 6. Philosophical Translation
 
-### Kārikā
+Abandonment falls on the qualified instance, not on the faculty-name. Mind and three feelings can be abandoned by seeing, by cultivation, or kept. Distress has no faultless remainder. The seven of form, life, and pain are cultivation only. Seeing does not erase them. The five split by outflow. The triad is never abandoned. Faultless is not fit.
 
-> Mind and the triad of feelings are threefold; distress is to be abandoned in two ways. Nine are [to be abandoned] by cultivation. The five, however, may also be not abandoned; the triad is not [to be abandoned].
+Organon rendering:
 
-### Bhāṣya-informed rendering
-
-> Mind, pleasure, gladness, and neutral feeling may be abandoned by seeing, abandoned by cultivation, or not abandoned. Distress may be abandoned by seeing or cultivation. The seven material faculties, life, and pain are abandoned only through cultivation. The five beginning with confidence are abandoned by cultivation when with outflows but are not abandoned when without outflows. The three realization-faculties are never abandoned, because what is faultless is not fit for abandonment.
-
-The Bhāṣya closes the classification with:
-
-```text
-na hi nirdoṣaṃ prahāṇārham
-    → what is faultless is not fit to be abandoned
-```
-
-## 6. Interpretation
-
-VAK 2.13 classifies Faculty-instances by abandonment-status: seeing,
-cultivation, or non-abandonment. The same Faculty-type can have different
-statuses under different outflow-conditions; the Bhāṣya's closing maxim is
-that what is faultless is not fit to be abandoned. This is not an instruction
-to destroy embodied faculties or a claim that a faculty-event is permanent.
-
-In the Kant-informed Techne, Faculty-identity and path-status are distinct
-determinations: the specified path-operation applies to qualified instances,
-not to every occurrence of a faculty-name as an undifferentiated whole. The
-Dhātu crosswalk relates these statuses to the Base–Essence–Principle map
-without relocating the mapped Faculties. This is a project-level analysis,
-not terminology supplied by the Bhāṣya.
-
-Across the Kośa, Vijñāna is Discriminative Cognition joining Perception
-and Conception without reducing their unity to one homogeneous operation;
-it governs Mind and guides the reading of Dharma Base. The same
-*avijñapti* remains one content in the Form Base and Dharma Base
-classifications, and Vijñāna bears a *prati* relation to it. This wider
-synthesis frames, but is not stated in full by, this verse.
+Citta supports. The caitta-instance is what the path abandons or keeps. A faulted faith is not the faculty deleted. A faultless realization is not discarded after use. The agent traverses by this rule. Not the verse English.
 
 ## 7. Technical Vocabulary
 
-| Sanskrit | Project rendering | Determination |
+| Sanskrit | Running word | Determination |
 |---|---|---|
-| darśana-prahātavya | to be abandoned by seeing | removed through direct seeing of truth |
-| bhāvanā-prahātavya | to be abandoned by cultivation | removed through sustained development after seeing |
-| aprahātavya / aheya | not to be abandoned | faultless or without-outflow operation preserved by the Path |
-| heya | to be abandoned | fit to be relinquished under a specified path-operation |
-| prahāṇa | abandonment | path-removal of a faulted determination or mode |
-| vitti-traya | triad of feelings | pleasure, gladness, and neutral feeling |
-| durmanaskatā / daurmanasya | distress | abandonable by seeing or cultivation, never non-abandonable |
-| jīvitāṣṭama | group ending with life as the eighth | seven material faculties plus life |
-| śraddhādi | those beginning with confidence | cultivation-abandonable when with outflows; non-abandonable when without outflows |
-| realization triad | three realization-faculties | exclusively without outflows and therefore never abandoned |
-| nirdoṣa | faultless | Bhāṣya ground for non-abandonment |
-| prakārabheda | distinction of types | Bhāṣya phrase closing the extended classificatory block |
-
-“Not to be abandoned” marks a technical path-status of faultless faculties;
-it does not mean causally inert or exempt from analysis.
+| darśana-prahātavya | to be abandoned by seeing | |
+| bhāvanā-prahātavya | to be abandoned by cultivation | |
+| aheya | not to be abandoned | not inert, not permanent |
+| vitti-traya | three feelings | pleasure, gladness, neutral feeling |
+| durmanaskatā | distress | both ways; never kept |
+| jīvitāṣṭama | life as eighth | with pain, the nine |
+| nirdoṣa | faultless | the reason the triad is not fit |
+| prakāra-bheda | distinctions of kind | closed here |
 
 ## 8. Logical Determination
 
-The abandonment-status domain is:
-
 ```text
-AbandonmentStatus
-    = {BySeeing, ByCultivation, NotAbandoned}
-```
+mind, pleasure, gladness, neutral feeling
+    = seeing, cultivation, or not
+    = 4
 
-The faculty partitions are:
+distress
+    = seeing or cultivation
+    = 1
 
-```text
-Threefold
-    = {Mind,
-       Pleasure,
-       Gladness,
-       NeutralFeeling}
+seven of form, life, pain
+    = cultivation only
+    = 9
 
-AllowedStatus(Threefold)
-    = {BySeeing, ByCultivation, NotAbandoned}
-```
+five
+    = cultivation if with outflows
+    = not abandoned if without
+    = 5
 
-```text
-TwofoldDistress
-    = {Distress}
+triad
+    = not abandoned
+    = 3
 
-AllowedStatus(Distress)
-    = {BySeeing, ByCultivation}
-```
-
-```text
-CultivationOnly
-    = {SevenMaterialFaculties,
-       Life,
-       Pain}
-
-RequiredStatus(CultivationOnly)
-    = ByCultivation
-```
-
-```text
-FivePathEquipmentFaculties
-    = {Confidence,
-       Energy,
-       Recollection,
-       Concentration,
-       Prajna}
-
-Sasrava(x)
-    → Status(x, ByCultivation)
-
-Anasrava(x)
-    → Status(x, NotAbandoned)
-```
-
-```text
-ThreeRealizationFaculties
-    → RequiredStatus(NotAbandoned)
-```
-
-The type-count is exhaustive:
-
-```text
 4 + 1 + 9 + 5 + 3 = 22
+
+faultless
+    → not fit to be abandoned
+
+same type, different outflow
+    → may differ in abandonment
 ```
 
-Abandonment applies to qualified instances:
-
-```text
-SameFacultyType(x, y)
-∧ DifferentOutflowStatus(x, y)
-    → MayHaveDifferentAbandonmentStatus(x, y)
-```
-
-The governing validity rule is:
-
-```text
-Faultless(x)
-    → NotFitForAbandonment(x)
-```
+Threefold here is not the ethical threefold of 2.11. Pain has moved.
 
 ## 9. Interpretive Note
 
-VAK 2.13 completes the long `prakārabheda`, the classification of the
-twenty-two faculties by their different modes. Its final axis is explicitly
-practical: what is removed by seeing, what requires cultivation, and what is
-not to be abandoned?
+This closes the distinctions of kind opened at 2.09: outflow, maturation, ethical quality, realm-connection, abandonment. Acquisition is the next question. It is not another name for this.
 
-The threefold status of Mind, pleasure, gladness, and neutral feeling shows
-that the Path does not discard a Faculty-type merely because some instances
-are abandonable. A Faculty-type may have instances assigned to seeing,
-cultivation, or non-abandonment according to their qualification.
+Both ways, for distress, distributes instances. One instance is not abandoned twice. Cultivation-abandonable is not unwholesome. The nine include indeterminate faculties. The five are wholesome and still abandonable when with outflows.
 
-Distress has no non-abandonable mode. VAK 2.10 showed it to be always
-productive of maturation; VAK 2.11 showed it always ethically determined;
-VAK 2.13 now confirms that every instance belongs to something the Path must
-abandon, whether through seeing or cultivation.
+The paragraph does not say how the nine are abandoned. It is not an instruction to destroy the body or end life. Ordinary cessation is not this category. Not to be abandoned is not permanence, and not uninterrupted operation.
 
-The nine cultivation-only Faculties make another distinction. Their
-classification as cultivation-abandonable is not an instruction to destroy
-embodied faculties or terminate life. The Bhāṣya assigns them a technical
-path-status without explaining each mechanism in this paragraph.
-
-The five beginning with confidence divide by outflow-status. Their
-with-outflow instances are cultivation-abandonable; their without-outflow
-instances are preserved. The three realization-faculties are more decisive:
-they are exclusively without outflows and never abandoned. Vasubandhu's
-maxim states the rule cleanly: what is faultless is not fit for abandonment.
-
-**Reciprocal return to Dhātu.** VAK 1.48 maps Faculty-status within
-the Base–Essence–Principle architecture. VAK 2.13 adds abandonment-
-status to those Faculties without relocating their mapped loci. The
-path classification distinguishes what is abandoned by seeing, by
-cultivation, or not at all.
-
-Across the Kośa, Vijñāna is Discriminative Cognition joining Perception
-and Conception without reducing their unity to one homogeneous operation;
-it governs Mind and guides the reading of Dharma Base. The same
-*avijñapti* remains one content in the Form Base and Dharma Base
-classifications, and Vijñāna bears a *prati* relation to it. This
-cross-chapter synthesis is an Organon framework, not a claim made
-by this verse.
+Organon reading: the path-rule is typed. Keep the faculty. Inspect the instance. Abandon only what is fit. Not the verse English.
 
 ## 10. OWL++ Seed
 
@@ -288,42 +139,14 @@ by this verse.
 vak:VAK_2_13
     a vak:Karika ;
     rdfs:label "VAK 2.13" ;
-    vak:hasTopic vak:AbandonmentStatusPartition ;
+    vak:hasTopic vak:Abandonment ;
     vak:belongsTo vak:Indriyanirdesa .
 
-vak:AbandonmentStatusPartition
-    vak:hasStatus vak:BySeeing,
-        vak:ByCultivation,
-        vak:NotAbandoned ;
-    vak:hasTotalCount 22 .
+vak:DistressFaculty vak:notAbandoned false .
+vak:Triad vak:notAbandoned true ;
+    vak:because vak:Faultless .
+vak:Five vak:splitsBy vak:Outflow .
 
-vak:MindPleasureGladnessNeutralFeeling
-    vak:allowsStatus vak:BySeeing,
-        vak:ByCultivation,
-        vak:NotAbandoned ;
-    vak:hasCount 4 .
-
-vak:DistressFaculty
-    vak:allowsStatus vak:BySeeing,
-        vak:ByCultivation ;
-    vak:excludesStatus vak:NotAbandoned .
-
-vak:SevenMaterialFacultiesLifeAndPain
-    vak:requiresStatus vak:ByCultivation ;
-    vak:hasCount 9 .
-
-vak:FivePathEquipmentFaculties
-    vak:hasSasravaStatus vak:ByCultivation ;
-    vak:hasAnasravaStatus vak:NotAbandoned .
-
-vak:ThreeRealizationFaculties
-    vak:requiresStatus vak:NotAbandoned ;
-    vak:hasGround vak:Faultless .
-
-organon:TypedTransformationPolicy
-    a organon:InterpretiveReconstruction ;
-    organon:operatesOn vak:QualifiedFacultyInstance ;
-    organon:preserves vak:FacultyIdentity ;
-    organon:variesBy vak:AbandonmentStatus ;
-    organon:inferredFrom vak:AbandonmentStatusPartition .
+organon:InstanceNotType
+    organon:notTheVerseEnglish true .
 ```

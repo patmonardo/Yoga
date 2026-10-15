@@ -1,4 +1,4 @@
-# VAK_2.24 — The Ten Factors in Every Consciousness
+# VAK_2.24 — In Every Consciousness
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -12,155 +12,110 @@
 >
 > manaskāro 'dhimokṣaś ca samādhiḥ sarvacetasi // 2.24 //
 
-## 3. Lexical Analysis
+Ten names, one predicate. Not a sequence.
 
-```text
-vedanā       → vedanā
-cetanā       → cetanā
-saṃjñā       → saṃjñā
-cchandaḥ     → chandaḥ
-sparśo       → sparśaḥ
-matiḥ        → matiḥ
-smṛtiḥ       → smṛtiḥ
-manaskāro    → manaskāraḥ
-adhimokṣaś ca → adhimokṣaḥ ca
-samādhiḥ     → samādhiḥ
-sarvacetasi  → sarva-cetasi
-```
+## 3. Lexical Analysis
 
 | Pada | Morphology | Force in this passage |
 |---|---|---|
-| vedanā | nominative feminine singular | feeling; three kinds of experience are explained in the Bhāṣya |
-| cetanā | nominative feminine singular | volition; formative activity of consciousness |
-| saṃjñā | nominative feminine singular | recognition; its transmitted gloss is uncertain |
-| chandaḥ | nominative masculine singular | desire to perform |
-| sparśaḥ | nominative masculine singular | contact arising from conjunction of Faculty, *viṣaya*, and Cognition |
-| matiḥ | nominative feminine singular | discernment; identified with *prajñā* |
-| smṛtiḥ | nominative feminine singular | recollection; non-loss of the object-support |
-| manaskāraḥ | nominative masculine singular | application or direction of consciousness |
-| adhimokṣaḥ | nominative masculine singular | resolution; glossed by *adhimukti* |
-| samādhiḥ | nominative masculine singular | concentration; one-pointedness of consciousness |
-| sarva-cetasi | locative neuter singular compound | in every consciousness |
+| vedanā | nominative | feeling |
+| cetanā | nominative | volition |
+| saṃjñā | nominative | reflection |
+| chandaḥ | nominative | wish to perform |
+| sparśaḥ | nominative | contact |
+| matiḥ | nominative | Discrimination |
+| smṛtiḥ | nominative | mindfulness |
+| manaskāraḥ | nominative | attention |
+| adhimokṣaḥ | nominative | resolution |
+| samādhiḥ | nominative | concentration |
+| sarva-cetasi | locative | in every consciousness |
+
+Mati is prajñā. Discrimination, not discernment. Smṛti is non-loss of the support. Samādhi is one-pointedness, not the perfected absorption.
 
 ## 4. Grammar
 
-The ten coordinated nominatives share one locative predicate:
-
 ```text
-vedanā ... samādhiḥ
-    → the ten named factors
-
-sarva-cetasi
+ten subjects
     → in every consciousness
+    all present together in every moment
+    kila: it is said
 ```
 
-The Bhāṣya supplies the predicate “are all present together in every
-moment of consciousness” (*sarvatra cittakṣaṇe samagrā bhavanti*).
-The list is therefore distributive and co-present, not a sequence of
-successive operations. The factors' definitions distinguish their
-functions without undoing this co-occurrence.
+The predicate is carried from the great-ground definition. Kila reports. It does not by itself reject.
 
-## 5. Scientific English Rendering
+## 5. Translation
 
-### Kārikā
+### Literal Translation
 
-> Feeling, volition, recognition, desire to perform, contact, discernment,
-> recollection, attention, resolution, and concentration [occur] in every
-> consciousness.
+Feeling, volition, reflection, wish to perform, contact, Discrimination, mindfulness, attention, resolution, and concentration, in every consciousness.
 
-### Bhāṣya-informed rendering
+### Bhāṣya-informed study translation
 
-> These ten Dharmas, it is said, are all present together in every moment
-> of consciousness. Feeling is three kinds of experience: pleasant,
-> painful, and neither painful nor pleasant. Volition is the formative
-> activity of consciousness, mental action. Recognition is apprehension
-> of the distinguishing mark of a *viṣaya* [the transmitted gloss is
-> damaged]. Desire to perform is the wish to act. Contact is touching
-> arising from the conjunction of Faculty, *viṣaya*, and Cognition.
-> Discernment is *prajñā*, discrimination among Dharmas. Recollection is
-> non-loss of the object-support. Attention is the application of
-> consciousness. Resolution is *adhimukti*, settling upon. Concentration
-> is the one-pointedness of consciousness.
+Which occur in every consciousness? These ten, it is said, are all present together in every moment of consciousness. Feeling is threefold experience: pleasant, painful, and neither. Volition is the formative activity of consciousness, mental action. Reflection is the take-up of the distinguishing mark. Wish to perform is the wish to act. Contact is the touching born of the conjunction of faculty, viṣaya, and cognition. Discrimination is prajñā, discrimination of dharmas. Mindfulness is non-loss of the support. Attention is the application of consciousness. Resolution is settling upon. Concentration is the one-pointedness of consciousness.
 
-The Bhāṣya's final comparison is that distinctions among consciousness
-and mental factors are difficult to determine even across streams, and
-more difficult within individual moments. Even differences of taste among
-Form-bearing medicinal plants, apprehensible by Faculty, can be hard to
-discern; this is still more so for non-Form Dharmas apprehended by
-understanding.
+The distinction of consciousness and factors is subtle. Hard to delimit even in streams, harder in moments. Differences of taste among medicinal plants are hard to determine, and those are material. How much more these, immaterial and taken by understanding.
 
-## 6. Interpretation
+## 6. Philosophical Translation
 
-The verse states that all ten factors occur in every consciousness; the
-Bhāṣya defines them distinctly and then emphasizes how difficult their
-distinction is. Universal occurrence does not mean equal strength,
-correctness, ethical quality, or liberating efficacy. The definitions also
-do not make the ten a temporal sequence or assert that each is separately
-obvious to ordinary inspection.
+Every consciousness is already articulated. The ten are not added later, and not ten steps. Feeling's three are alternatives, not three at once. Wish to perform is not craving. Reflection is not Discrimination. Mindfulness, attention, resolution, and concentration are four determinations, not one attention. Universal prajñā is not liberating knowledge. Universal concentration is not the absorption.
 
-In Kant-informed Techne, the ten names analyze distinguishable functions
-within a co-articulated consciousness-event, not ten successive additions
-to a bare consciousness-substance. This is a project-level reading of
-their stated co-occurrence and definitions; it does not replace the local
-glosses or infer that universal occurrence is perfected operation.
+Organon rendering:
 
-The ten Samyama-bhūmis describe Path-related operation of mental factors
-in the Organon framework, with Buddha Dharma as the 11th Bhūmi. VAK 2.24
-establishes universal occurrence in every consciousness but does not assign
-the ten factors individually to those Bhūmis or say they are already
-perfected. That project-level Path synthesis remains distinct from the
-Bhāṣya's account.
+The pair of 2.23 gets its first membership. Presence in every consciousness is not adequacy, and not the telos. Not the verse English.
 
-The Kośa's governing synthesis: Vijñāna joins and governs Perception and
-Conception as Discriminative Cognition. Their unity is Inconceivable as a
-homogeneous operation, and its Idea is disclosed in the Cognition Base.
-Vijñāna governs Mind and guides Dharma Base. *Avijñapti* is one Dharma
-classified in both Form Base and Dharma Base; Vijñāna bears a *prati*
-relation to it. These relations do not make *citta* synonymous with
-Vijñāna, or the ten mental factors additional Faculties.
+## 7. Technical Vocabulary
 
-## 7. Logical Determination
+| Sanskrit | Running word | Determination |
+|---|---|---|
+| vedanā | feeling | three experiences, not together |
+| cetanā | volition | cittābhisaṃskāra, mental action |
+| saṃjñā | reflection | take-up of the mark; gloss damaged |
+| chanda | wish to perform | kartṛkāmatā; not craving |
+| sparśa | contact | faculty, viṣaya, cognition |
+| mati | Discrimination | prajñā; not every discrimination correct |
+| smṛti | mindfulness | non-loss of the support |
+| manaskāra | attention | application of consciousness |
+| adhimokṣa | resolution | adhimukti, settling upon |
+| samādhi | concentration | one-pointedness |
+| kila | it is said | reportive |
+
+## 8. Logical Determination
 
 ```text
-UniversalCaittas = {
-    Feeling,
-    Volition,
-    Recognition,
-    DesireToPerform,
-    Contact,
-    Discernment,
-    Recollection,
-    Attention,
-    Resolution,
-    Concentration
-}
+every moment of consciousness
+    → all ten together
 
-For every consciousness-event e:
-    For every factor f in UniversalCaittas:
-        PresentTogether(f, e)
+not a sequence
+not equal strength
+not correctness
+not ethical quality
+
+feeling present
+    ↛ three feelings at once
+mati present
+    ↛ liberating knowledge
+samādhi present
+    ↛ absorption attained
+
+ground
+    = every consciousness
+support
+    ≠ the ground
 ```
 
-This formalizes the universal co-presence claim only. It does not specify
-causal order, equal intensity, or perfected function.
+## 9. Interpretive Note
 
-## 8. Interpretive Note
+The question was left at 2.23. These are the great-ground factors because the ground is every consciousness. Not because they are exalted.
 
-VAK 2.24 answers the question at the close of VAK 2.23: which factors
-occur in every consciousness? Its list gives the members of the
-great-ground class, and its Bhāṣya explains each name. The concluding
-analogy qualifies how readily these subtle distinctions can be made; it
-does not retract the definitions or introduce a competing list.
+Volition and wish to perform are different. Reflection and Discrimination are different. The recognition-gloss is damaged. The distinction of the two entries does not depend on restoring it.
 
-The passage's *mati* is identified locally with *prajñā*, discrimination
-among Dharmas, and *samādhi* with one-pointedness of consciousness.
-These definitions establish functions present in every consciousness in
-the reported account; they do not establish correctness or meditative
-attainment in every case. In the inner-instrument Techne, the
-identification of *mati* with *prajñā* supports the project rendering
-Science of Principles; that reading does not replace the local definition
-or imply perfected discrimination in every occurrence.
+Contact is not confined to bodily touch. Viṣaya in that definition is not decided as an external thing by this sentence. Mindfulness is non-loss of the support, not only memory of a past event. The ground is every consciousness. That does not make every consciousness their common support.
 
-## 9. OWL++ Seed
+The plant analogy is difficulty, not impossibility. The universal claim, the definitions, and the difficulty of seeing the differences stay apart. No rival list. No school named. Kila alone is not a rejection.
+
+Organon reading: the ten are the first closure of the pair. Universal function is not universal adequacy. Not the verse English.
+
+## 10. OWL++ Seed
 
 ```ttl
 @prefix vak: <http://127.0.0.1:3000/vak#> .
@@ -170,25 +125,12 @@ or imply perfected discrimination in every occurrence.
 vak:VAK_2_24
     a vak:Karika ;
     rdfs:label "VAK 2.24" ;
-    vak:hasTopic vak:UniversalMentalFactors ;
+    vak:hasTopic vak:GreatGroundTen ;
     vak:belongsTo vak:Indriyanirdesa .
 
-vak:UniversalMentalFactors
-    vak:hasMember vak:Feeling,
-        vak:Volition,
-        vak:Recognition,
-        vak:DesireToPerform,
-        vak:Contact,
-        vak:Discernment,
-        vak:Recollection,
-        vak:Attention,
-        vak:Resolution,
-        vak:Concentration ;
-    vak:occursIn vak:EveryCittaEvent .
+vak:GreatGroundTen vak:inEveryConsciousness true .
+vak:Mati vak:is vak:Discrimination .
 
-vak:Discernment
-    vak:definedAs vak:DiscriminationAmongDharmas .
-
-vak:Concentration
-    vak:definedAs vak:OnePointednessOfCitta .
+organon:PresenceNotAdequacy
+    organon:notTheVerseEnglish true .
 ```

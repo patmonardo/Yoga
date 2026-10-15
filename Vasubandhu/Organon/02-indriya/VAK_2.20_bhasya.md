@@ -5,25 +5,20 @@
 > sarvālpair niḥśubho 'ṣṭābhir vinmanaḥkāyajīvitaiḥ /
 > yukto bālas tathārūpye upekṣāyurmanaḥśubhaiḥ // 2.20 //
 
-> One without the wholesome is endowed, at the least, with eight:
-> feeling, mind, body, and life. Likewise an ordinary person in
-> the formless realm, with neutral feeling, life, mind, and the
-> wholesome faculties.
+> One without the wholesome is endowed, at the least, with eight: feeling, mind, body, and life. Likewise an ordinary person in the formless realm, with neutral feeling, life, mind, and the wholesome faculties.
 
-“Feeling” collectively supplies five faculties in the first case;
-“the wholesome faculties” supplies five in the second. The Bhāṣya
-explains both compressed expressions.
+Feeling supplies five in the first case. The wholesome supplies five in the second.
 
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
 > atha yaḥ sarvālpaiḥ samanvāgataḥ sa kiyadbhir indriyaiḥ /
 > sarvālpair niḥśubho 'ṣṭābhir vinmanaḥkāyajīvitaiḥ / yuktaḥ /
 > samucchinnakuśamūlo niḥśubhaḥ /
-> sa sarvālpair aṣṭābhir indriyaiḥ samanvāgataḥ /
+> sa sarvālpaiḥ aṣṭābhir indriyaiḥ samanvāgataḥ /
 > pañcabhir vedanādibhiḥ kāyamanojīvitaiś ca /
 > vedanā hi vit vedayata iti kṛtvā / vedanaṃ vā vit /
 > yathā saṃpadanaṃ saṃpat /
-> yathā ca niḥśubhaḥ sarvālpair aṣṭābhir indriyair yuktaḥ /
+> yathā ca niḥśubhaḥ sarvālpaiḥ aṣṭābhir indriyair yuktaḥ /
 > bālas tathārūpye /
 > bāla iti pṛthagjanasyākhyā / katamair aṣṭābhiḥ /
 > upekṣāyurmanaḥśubhaiḥ // 2.20 //
@@ -32,169 +27,58 @@ explains both compressed expressions.
 > ājñāsyāmīndriyādīnām api grahaṇaprasaṅgaḥ / na /
 > aṣṭādhikārād bālādhikārāc ca //
 
-This unit occupies printed 51.23–52.08 in
-`Vasubandhu/Sources/kosabhasya.txt`. Word division and punctuation
-are editorial. The mechanical *srvālpaiḥ* and *niḥśāubhaḥ* are
-normalized to *sarvālpaiḥ* and *niḥśubhaḥ*. The final damaged
-*naṣṭādhikārād dvālādhikārācca* is read as
-*aṣṭādhikārād bālādhikārāc ca*: the two grounds are the stated eight
-and the ordinary-person subject.
+The unit is printed 51.23–52.08 in `Vasubandhu/Sources/kosabhasya.txt`. Word division is editorial. Srvālpaiḥ and niḥśāubhaḥ are read as sarvālpaiḥ and niḥśubhaḥ. Naṣṭādhikārād dvālādhikārācca is read as aṣṭādhikārād bālādhikārāc ca. Samucchinnakuśamūlo is read as severed wholesome roots. Vedanādibhiḥ is the five feelings. Vedayata is experiences. Contextual, not a collation. The greatest number at 52.09 is 2.21.
 
-The source's *samucchinnakuśamūlo*, *vedanādibhiḥ*, and *vedayata*
-are retained. The translation understands the first as the standard
-expression for severed wholesome roots, *samucchinnakuśalamūla*;
-the second as referring to the five feelings in this enumeration;
-and the third as the verbal explanation “experiences.” These are
-contextual resolutions, not independently collated readings.
+## 3. Continuous Conventional Translation
 
-## 3. Scientific English Rendering
+Now, with how many faculties is someone endowed who possesses the fewest? One without the wholesome is endowed, at the least, with eight: feeling, mind, body, and life. One whose wholesome roots have been severed is without the wholesome. Such a person is endowed, at the least, with eight faculties: the five feelings, and body, mind, and life. Feeling is called vit because it experiences; or vit means experiencing, just as saṃpat means accomplishment. And just as one without the wholesome is endowed, at the least, with eight faculties, likewise an ordinary person in the formless realm. Bāla is a designation for an ordinary person. With which eight? With neutral feeling, life, mind, and the wholesome faculties: neutral feeling, life, and mind, together with those beginning with faith. Since those beginning with faith are exclusively wholesome, they are included by the expression wholesome. Then those beginning with the faculty “I shall know” would also have to be included. No: because the subject here is eight, and because the subject is an ordinary person.
 
-Now, with how many faculties is someone endowed who possesses
-the fewest? “One without the wholesome is endowed, at the least,
-with eight: feeling, mind, body, and life.” One whose wholesome
-roots have been severed is “without the wholesome.” Such a person
-is endowed, at the least, with eight faculties: the five feelings,
-and body, mind, and life. Feeling is called *vit* because it
-experiences; or *vit* means experiencing, just as *saṃpat* means
-accomplishment. And just as one without the wholesome is endowed,
-at the least, with eight faculties, “likewise an ordinary person
-in the formless realm.” *Bāla* is a designation for an ordinary
-person. With which eight? “With neutral feeling, life, mind, and
-the wholesome faculties”: neutral feeling, life, and mind, together
-with those beginning with confidence. Since those beginning with confidence
-are exclusively wholesome, they are included by the expression
-“wholesome.” Then those beginning with the faculty “I shall know”
-would also have to be included. No: because the subject here is
-eight, and because the subject is an ordinary person.
+## 4. Movement and Voice of the Commentary
 
-## 4. Movement and Voices of the Commentary
+The question shifts from what one faculty entails to the fewest a possessor can have. Two eights. Each needs a lexical explanation: vit, then śubha.
 
-The opening question shifts from the necessary co-possession
-entailed by a selected faculty to the fewest faculties a possessor
-can have. The answer supplies two eight-member sets. Each requires
-a lexical explanation: *vit* in the first, *śubha* in the second.
+An objection tests wholesome. If that quality takes the five, why not the three? The reply is the count and the ordinary person. No school is named.
 
-An unnamed objection tests the extension of “wholesome.” If that
-quality licenses inclusion of the confidence-group, why not the three
-realization faculties, which are also wholesome? The reply invokes
-both the count and the ordinary status of the subject. The
-translation retains this exchange without assigning it to a school.
+## 5. Severed Roots
 
-## 5. The Minimum with Wholesome Roots Severed
+Without the wholesome is severed roots. Not a present unwholesome thought. Not no faculties.
 
-*Niḥśubha* receives a precise definition: one whose wholesome
-roots have been severed. It does not mean someone presently having
-an unwholesome thought, nor someone without any faculties at all.
+The eight are pleasure, pain, gladness, distress, neutral feeling, body, mind, and life. Four expressions, five plus three. Vit is not a sixth feeling.
 
-The eight are pleasure, pain, gladness, distress, neutral feeling,
-body, mind, and life. The kārikā's four expressions therefore count
-five plus one plus one plus one. In particular, *vit* is not a
-sixth feeling or a separate faculty added to the established five.
+At the least is the minimum of the case. It does not say every such person lacks eye, ear, nose, tongue, or the sex faculties. Further faculties can raise the total. The prose does not list when each is absent.
 
-“At the least” matters. This is the minimum for the stated case;
-it does not assert that every person whose wholesome roots are
-severed lacks eye, ear, nose, tongue, or the sex faculties. Additional
-faculties can raise an individual's total beyond the minimum.
-The local prose does not enumerate the circumstances under which
-each of those additional faculties is absent.
+## 6. The Formless Ordinary Person
 
-## 6. The Ordinary Person in the Formless Realm
+The other eight are neutral feeling, life, mind, faith, vigor, mindfulness, concentration, and Discrimination. Bāla is ordinary person. Child would lose the status that controls the reply.
 
-The other eight are neutral feeling, life, mind, confidence, vigor,
-recollection, concentration, and prajñā. The Bhāṣya identifies
-*bāla* here by *pṛthagjana*, “ordinary person.” Translating it merely
-as “child” would lose the status that controls the final reply.
+Formless and ordinary person both stay on this case. Not every ordinary person in every realm. Possession of the five is not possession of a realization-faculty.
 
-The formless setting and the ordinary-person qualification must
-both remain attached to this case. The passage does not give this
-set as the complete inventory of every ordinary person in every
-realm. Nor does possession of the five wholesome faculties itself
-establish possession of a realization faculty.
+The sets share neutral feeling, life, and mind. Body and the other four feelings complete the first. The five complete the second. Equal number, distinct membership.
 
-The two eight-member sets share neutral feeling, life, and mind.
-In the first, body and the other four feelings complete the eight;
-in the second, the five beginning with confidence do so. Their equal
-number leaves their membership and wholesome status distinct.
+## 7. Why Wholesome Does Not Take All
 
-## 7. Why “Wholesome” Does Not Include All Wholesome Faculties
+Exclusively wholesome does not uniquely name the five. The three would satisfy it.
 
-The objection is well directed: being exclusively wholesome does
-not uniquely identify the five beginning with confidence. The three
-realization faculties would satisfy that description too.
+Two restrictions. The three would exceed eight. The subject is an ordinary person. Numeral and bearer fix the local range.
 
-The answer gives two contextual restrictions. Adding the three
-would exceed the stated eight; moreover, the subject is an ordinary
-person, excluding the realization faculties. The numeral and the
-specified bearer jointly determine the intended range of *śubha*.
-
-Thus the reply does not deny that the realization faculties are
-wholesome. It denies their inclusion in this particular reference.
-A word's general doctrinal extension and its local range in an
-enumeration need not coincide.
+The reply does not deny that the three are wholesome. It denies their inclusion here. General extension and local range need not coincide.
 
 ## 8. The Bhāṣya's Decisions for Translation
 
-The paired explanations of *vit* should both be preserved: feeling
-as that which experiences, and experiencing as an action noun.
-The analogy with *saṃpat*, accomplishment, belongs to the second
-explanation. The passage is giving a lexical derivation, not
-introducing an independently existing experiencer.
+Both explanations of vit stay: that which experiences, and experiencing as an action noun. Saṃpat belongs to the second. A lexical derivation, not an experiencer beside the feeling.
 
-*Yathā … tathā* links the two minima: “just as … likewise.” It
-makes the numerical comparison without transferring the first
-case's severance of wholesome roots to the formless ordinary
-person. The latter explicitly possesses the five wholesome faculties.
+Yathā … tathā is just as … likewise. The numerical comparison does not transfer severed roots to the formless ordinary person. That one possesses the five.
 
-As in VAK 2.17–2.19, possession is not simultaneous manifestation.
-Counting all five feelings in the first minimum does not describe
-someone experiencing pleasure, pain, gladness, distress, and neutral
-feeling together in one moment.
+Possession is not simultaneous manifestation. Five feelings in the count are not five feelings in one moment.
 
-## 9. Interpretation
+## 9. Organon Reading
 
-The passage gives a numerical lower bound without reducing the
-possessor to one uniform set of powers. Eight can describe a case
-with severed wholesome roots or a formless ordinary person endowed
-with the five wholesome faculties. The number alone cannot carry
-the ethical, bodily, or path determination.
+Eight can be severed roots, or a formless ordinary person with the five. The number cannot carry the determination. The shared triad is common possession, not a sufficient description of either case.
 
-For Organon interpretation, the minimum must be expressed together
-with its members and the conditions defining its bearer. The
-shared triad is a common possession, not a sufficient description
-of either complete case. Neither eightfold enumeration supplies
-a general essence of life abstracted from the inquiry's conditions.
+The hub looked toward is post citta:caitta, a controller endowed with the principle-rule set. Prāpti is the telos of that technē, and it is what lays out hetu and pratyaya. Without a telos in the desire realm the path is not entered. This verse is the floor, not that entry. Not the verse English.
 
-The objection also exhibits a disciplined movement from general
-meaning to local determination. “Wholesome” remains a wider
-classification, while count and bearer restrict what the word
-includes here. This is a semantic relation demonstrated by the
-commentary itself; a further Organon formalization should preserve
-both the general classification and the local restriction.
+## 10. Review Status
 
-The return to Dhātu 1.48 is a project crosswalk relating the two
-minimum sets to the Base–Essence–Principle architecture. A Faculty's
-place in the Dhātu classification does not alone establish possession
-by a particular bearer or replace the map. The realization Faculties'
-classification likewise does not entail that they are possessed by
-the ordinary person in this case.
+Fine-tuned with the kārikā. Domain withdrawn. Both eights and the objection are kept.
 
-The Kośa's governing synthesis: Vijñāna is Discriminative Cognition joining
-and governing Perception and Conception. Their unity is Inconceivable as a
-homogeneous operation; its Idea is disclosed in the Cognition Base. Vijñāna
-governs Mind and guides the reading of Dharma Base. *Avijñapti* is the
-bridge, one Dharma classified in both Form Base and Dharma Base; Vijñāna
-bears a *prati* relation to it.
-
-In a Kant-informed Techne reading, the bearer, realm, ethical
-condition, and Faculty membership remain explicit. This is a
-project-level interpretation, not a universal hierarchy inferred
-from the count.
-
-## 10. Textual and Scope Notes
-
-This study covers the minimum-possession discussion, both
-explanations of *vit*, and the objection concerning the three
-realization Faculties. Transcription repairs and unresolved forms
-are identified above; no independent collation is claimed. VAK 2.21
-begins with the question about the greatest number of Faculties
-possessed.
+2.21 has not been opened.

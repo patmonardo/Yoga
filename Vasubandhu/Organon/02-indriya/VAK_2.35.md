@@ -12,109 +12,115 @@
 >
 > āsaṃjñikaṃ samāpattī jīvitaṃ lakṣaṇāni ca // 2.35 //
 
-VAK 2.36 begins by adding groups of names and related formations to this
-catalogue. The Bhāṣya's detailed inquiry into *prāpti* begins there.
+The next verse opens with the groups of names and so forth. That continuation belongs with the class-name. The definitions do not.
 
 ## 3. Lexical Analysis
 
-```text
-viprayuktās tu  → viprayuktāḥ tu
-saṃskārāḥ       → saṃskārāḥ
-prāptyaprāptī   → prāpti-aprāptī
-sabhāgatā       → sabhāgatā
-āsaṃjñikam      → āsaṃjñikam
-samāpattī       → samāpattī
-jīvitam         → jīvitam
-lakṣaṇāni ca    → lakṣaṇāni ca
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
-| viprayuktāḥ | nominative masculine plural participle | dissociated or not associated |
-| tu | particle | introduces a new class |
-| saṃskārāḥ | nominative masculine plural | conditioned formations |
-| prāpti-aprāptī | nominative feminine dual | acquisition and non-acquisition |
-| sabhāgatā | nominative feminine singular | commonality |
-| āsaṃjñikam | nominative neuter singular | non-percipient condition |
-| samāpattī | nominative feminine dual | the two attainments |
-| jīvitam | nominative neuter singular | life-continuity |
-| lakṣaṇāni | nominative neuter plural | conditioned marks |
-| ca | conjunction | and |
+| viprayuktāḥ | nominative | dissociated |
+| tu | particle | the new class |
+| saṃskārāḥ | nominative | formations |
+| prāpti-aprāptī | dual | acquisition and non-acquisition |
+| sabhāgatā | nominative | commonality |
+| āsaṃjñikam | nominative | listed; English not locked |
+| samāpattī | dual | two attainments |
+| jīvitam | nominative | life |
+| lakṣaṇāni | plural | the marks |
 
-## 4. Scientific English Rendering
+Dissociated is the class-name. Not unconditioned. Not causally disconnected.
 
-> The conditioned formations dissociated from consciousness are acquisition
-> and non-acquisition, commonality, the non-percipient condition, the two
-> attainments, life-continuity, and the conditioned marks.
-
-The following verse completes the list with groups of names and related
-formations. The Bhāṣya calls the class dissociated because its members are
-neither associated with consciousness and mental factors nor of the nature
-of Form.
-
-## 5. Interpretation
-
-This verse begins a new class after the account of consciousness and its
-associated mental factors. “Dissociated” does not mean unconditioned,
-causally isolated, or irrelevant to a cognitive continuum. It identifies
-formations not joined to consciousness through the fivefold association
-defined in VAK 2.34 and not classified as Form.
-
-The leading dyad, *prāpti:aprāpti*, distinguishes a Dharma's present
-manifestation from its status in a continuum. A Dharma may be acquired or
-not acquired without being manifest as a factor in the present cognition.
-VAK 2.36 tests the ground of this distinction: whether it requires a
-separate real Dharma or is a designation based on the continuum's causal
-capacity and transformation.
-
-The Kośa's governing synthesis remains: Vijñāna is Discriminative Cognition
-joining and governing Perception and Conception. Their unity is
-Inconceivable as homogeneous operation, with its Idea disclosed in the
-Cognition Base. Vijñāna governs Mind and guides Dharma Base. *Avijñapti*
-is the same Dharma classified in Form Base and Dharma Base, with Vijñāna
-bearing a *prati* relation to it. The present classification makes visible
-conditions that structure a continuum without reducing them to the
-consciousness-event then manifest.
-
-## 6. Logical Determination
+## 4. Grammar
 
 ```text
-ConditionedFormation(D)
-and
-not AssociatedWithConsciousness(D)
-and
-not Form(D)
-    → DissociatedFormation(D)
+dissociated formations
+    acquisition and non-acquisition
+    commonality
+    āsaṃjñika
+    two attainments
+    life
+    the marks
+    and the groups of names and so forth
+
+so called
+    not associated with consciousness
+    not of the nature of form
+    still formations
 ```
 
-The initial pair must be distinguished from simple absence:
+The duals are pairs. The plurals are not single entities. The members are not yet defined.
+
+## 5. Translation
+
+### Literal Translation
+
+The dissociated formations, now: acquisition and non-acquisition, commonality, āsaṃjñika, the two attainments, life, and the marks.
+
+### Bhāṣya-informed study translation
+
+The dissociated formations are acquisition and non-acquisition, commonality, āsaṃjñika, the two attainments, life, the marks, and the groups of names and so forth. These formations are called dissociated from consciousness because they are not associated with consciousness and do not have the nature of form.
+
+The source has a double negation. Not associated is the class-name and the explanation. The extra negative is a defect. Not a collation.
+
+## 6. Philosophical Translation
+
+Association was five equalities. Dissociated is outside that conjunction. Not outside every relation. Not form. Not unconditioned. A catalog, not an occult region.
+
+Acquisition heads the list. Obtaining and continued possession are the next inquiry. Not this verse. Āsaṃjñika is named apart from the two attainments. Non-consciousness is not the English. Non-reflective is the look-ahead, not locked.
+
+Organon rendering:
+
+These are the records that are not classmates. Pass and fail are the first pair, when the definition opens. Not the verse English. Not the final pass.
+
+## 7. Technical Vocabulary
+
+| Sanskrit | Running word | Determination |
+|---|---|---|
+| citta-viprayukta-saṃskāra | dissociated formation | not associated; not form; still conditioned |
+| prāpti | acquisition | listed; defined next |
+| aprāpti | non-acquisition | the pair |
+| sabhāgatā | commonality | listed |
+| āsaṃjñika | āsaṃjñika | English not locked |
+| samāpatti | attainment | two; not identified here |
+| jīvita | life | listed |
+| lakṣaṇa | mark | plural |
+| nāma-kāya | groups of names | the continuation |
+
+## 8. Logical Determination
 
 ```text
-PresentlyManifest(S, D)
-    is not identical to
-AcquiredByContinuum(S, D)
+dissociated
+    = not in the fivefold association
+    ≠ no relation to the continuum
+    ≠ unconditioned
+    ≠ form
+
+pair
+    acquisition, non-acquisition
+    two attainments
+plural
+    marks
+    groups of names and so forth
+
+list
+    ≠ each member established as a distinct real
 ```
 
-The verse only introduces the catalogue. It does not yet establish the
-ontological status of each member, and it does not yet define the two
-attainments or the other formations in the list.
+## 9. Interpretive Note
 
-## 7. Interpretive Note
+The class opens after the close of consciousness and the mental factors. No objection. No school. The members follow separately.
 
-The running transcription at 62.14 contains an anomalous double negative:
-*na cittena asaṃprayuktā*. The Sanskrit witness is unchanged. The Bhāṣya's
-class-name and contrast with Form require the contextual rendering “not
-associated with consciousness.”
+Āsaṃjñika is not one of the two attainments. Their definitions are not imported. Life is not defined. The marks are not enumerated.
 
-The beginning of VAK 2.36, *nāmakāyādayaś ca iti*, completes this
-cross-verse catalogue. The repository treats VAK 2.35 as the introduction
-and VAK 2.36 as the detailed examination of acquisition and
-non-acquisition.
+The double negation stays in the source. The English follows the class-name.
 
-## 8. OWL++ Seed
+Organon reading: occurrence and credit are not the same question. This verse names the book. It does not yet grade. Not the verse English.
+
+## 10. OWL++ Seed
 
 ```ttl
 @prefix vak: <http://127.0.0.1:3000/vak#> .
+@prefix organon: <http://127.0.0.1:3000/organon#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
 vak:VAK_2_35
@@ -123,12 +129,10 @@ vak:VAK_2_35
     vak:hasTopic vak:DissociatedFormations ;
     vak:belongsTo vak:Indriyanirdesa .
 
-vak:DissociatedFormation
-    vak:notAssociatedWith vak:Consciousness ;
-    vak:notClassifiedAs vak:Form .
+vak:DissociatedFormations vak:notForm true .
+vak:DissociatedFormations vak:notAssociated true .
+vak:Prapti vak:definedHere false .
 
-vak:AcquisitionAndNonAcquisition
-    a vak:DissociatedFormation ;
-    vak:hasMembers vak:Acquisition,
-        vak:NonAcquisition .
+organon:RecordsNotClassmates
+    organon:notTheVerseEnglish true .
 ```

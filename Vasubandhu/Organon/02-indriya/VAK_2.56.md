@@ -1,4 +1,4 @@
-# VAK_2.56 — Assigning Results to Causes
+# VAK_2.56 — Principal Fruits
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -12,188 +12,99 @@
 >
 > sabhāgasarvatragayor niṣyandaḥ pauruṣaṃ dvayoḥ // 2.56 //
 
-## 3. Padaccheda
+Last and first are the order of 2.49. Not temporal priority. Pauruṣa is a figure. Not Puruṣa.
 
-```text
-vipākaphalam             → vipāka-phalam
-antyasya                 → antyasya
-pūrvasyādhipatam         → pūrvasya adhipatam
-phalam                   → phalam
-sabhāgasarvatragayoḥ     → sabhāga-sarvatragayoḥ
-niṣyandaḥ                → niṣyandaḥ
-pauruṣam                 → pauruṣam
-dvayoḥ                   → dvayoḥ
-```
+## 3. Lexical Analysis
 
-| Form | Morphology | Lexical force here |
-|---|---|---|
-| vipāka-phalam | nominative/accusative neuter singular compound | maturation-fruit |
-| antyasya | genitive masculine singular | of the last [cause] |
-| pūrvasya | genitive masculine singular | of the first [cause] |
-| adhipatam phalam | nominative/accusative neuter singular phrase | fruit of predominance |
-| sabhāga-sarvatragayoḥ | genitive masculine dual compound | of the homogeneous and pervasive causes |
-| niṣyandaḥ | nominative masculine singular | homogeneous-outflow fruit |
-| pauruṣam | nominative/accusative neuter singular | fruit of efficacious activity |
-| dvayoḥ | genitive masculine dual | of the two [remaining causes] |
-
-`Antya` and `pūrva` point back to the ordering of the six causes in VAK 2.49:
-the last is maturation cause and the first is conditioning cause. `Dvayoḥ`
-denotes the co-arisen and associated causes left after the other four have
-been assigned their principal fruits.
+| Pada | Force |
+|---|---|
+| antyasya | of the last, the maturation cause |
+| vipāka-phalam | maturation-fruit |
+| pūrvasya | of the first, the conditioning cause |
+| adhipataṃ phalam | fruit of predominance |
+| sabhāga-sarvatragayoḥ | of the homogeneous and the pervasive |
+| niṣyandaḥ | homogeneous outflow |
+| pauruṣam dvayoḥ | fruit of efficacy, of the two |
 
 ## 4. Grammar
 
-The first half contains two parallel genitive assignments:
-
 ```text
-antyasya [hetoḥ]
-    → vipāka-phalam
-
-pūrvasya [hetoḥ]
-    → adhipatam phalam
+last
+    maturation-fruit
+first
+    predominance
+homogeneous and pervasive
+    homogeneous outflow
+two remaining
+    co-arisen and associated
+    efficacy
+principal
+    not exclusive
 ```
-
-The second half completes the mapping:
-
-```text
-sabhāga-sarvatragayoḥ
-    → niṣyandaḥ [phalam]
-
-dvayoḥ [sahabhū-saṃprayuktakayoḥ]
-    → pauruṣam [phalam]
-```
-
-The ellipses are resolved through the sixfold list and the Bhāṣya. The verse
-assigns principal fruit-types; it does not grammatically assert that every
-cause can have only the one fruit named here.
 
 ## 5. Translation
 
-### Close syntactic construe
+### Literal Translation
 
-> The last [cause] has maturation as its fruit; the first has predominance as its fruit. The homogeneous and pervasive [causes] have homogeneous outflow; the two [remaining causes] have the fruit of efficacious activity.
+Maturation-fruit of the last. Fruit of predominance of the first. Homogeneous outflow of the homogeneous and the pervasive. Efficacy of the two.
 
-### Bhāṣya-informed translation
+### Bhāṣya-informed study translation
 
-> Maturation cause is principally distinguished by maturation-fruit, and conditioning cause by the fruit of predominance. Homogeneous and pervasive causes principally yield homogeneous outflow, while co-arisen and associated causes yield the fruit of operative efficacy. These are defining mappings rather than an exclusive one-to-one table: several causes can also possess a fruit of efficacious activity when their function produces a simultaneous or immediately subsequent result.
+The last was stated last. Its fruit is maturation. The first was stated first. Its fruit is predominance. What predominance has mere non-obstruction? That very non-obstruction. A contributory role too. The ten essences toward the five classes of cognition. Karma toward the receptacle-world. The ear, indirectly, toward eye-cognition: hearing gives rise to the desire to see. Apply the rest so.
+
+Homogeneous and pervasive have a similar fruit. Homogeneous outflow. The two are co-arisen and associated. Fruit of efficacy. Efficacy is the activity a dharma performs. Called a person's activity by resemblance, as a plant is called crow's leg, or a man a rutting elephant. The derivational sentence is damaged. Not restored.
+
+Do the others have it? The others do, except the maturation cause. Efficacy arises together or immediately after. Maturation does not. Others: the maturation cause too has a distant efficacy, like the farmers' crop. Not settled.
 
 ## 6. Philosophical Translation
 
-> A cause is not fully comprehended until the form in which its efficacy becomes manifest is determined. Ground may appear in its result as delayed maturation, enabling predominance, homogeneous continuation, or present operative activity. The same event can stand within several such rational relations without those relations becoming interchangeable.
+A cause is read by the form of its fruit. Delayed maturation, predominance, continuation in kind, present activity. First and last are list-order. The same event can bear more than one of these. They do not become interchangeable.
 
-The four modes are:
+Predominance begins at non-obstruction. Positive contribution is added, and mediation is added. Hearing is not the eye's support.
 
-```text
-vipāka:
-    delayed, individually appropriated maturation
+Efficacy is not a human result, and not the enclosed Puruṣa. A dharma's activity, named by a figure.
 
-adhipati:
-    enabling, directing, assisting, or not obstructing
+Organon rendering:
 
-niṣyanda:
-    continuation through relevant similarity
-
-pauruṣa:
-    manifestation of a dharma's operative efficacy
-```
-
-**Organon interpretation—not literal Bhāṣya doctrine.** The table assigns
-principal fruit-types but does not make each cause exclusive to one result.
-The Bhāṣya explicitly allows efficacy-fruit for other causes, while marking
-the temporal qualification and preserving the alternative concerning
-maturation cause.
+The table is what an Agent can record as result-type. The ascent through Hetu is not this assignment. Not the verse. Not the final pass.
 
 ## 7. Technical Vocabulary
 
-| Sanskrit | Controlled rendering | Determination in this unit |
+| Sanskrit | Running word | Determination |
 |---|---|---|
-| vipāka-phala | maturation-fruit | principal fruit assigned here to maturation cause; its definition follows in VAK 2.57 |
-| adhipati-phala | fruit of predominance | result enabled, supported, directed, or permitted by conditioning cause |
-| niṣyanda-phala | homogeneous-outflow fruit | result similar to its cause in the relevant indexed respects |
-| pauruṣa-phala | fruit of efficacious activity | result of a dharma's operative function, normally simultaneous or immediately subsequent |
-| puruṣakāra | efficacious activity | figurative person-like activity attributed to a dharma's causal function |
-| vipāka-hetu | maturation cause | last member of the six-cause list |
-| kāraṇa-hetu | conditioning cause | first member of the six-cause list |
-| adhipati | predominance | ranges from non-obstruction to positive direct or indirect assistance |
-
-`Pauruṣa` should not be rendered simply as “human result.” The Bhāṣya marks
-the expression as figurative: it concerns operative efficacy analogous to a
-person's activity.
-
-`Adhipati` likewise does not require forceful production. Non-obstruction is
-already its minimal form; principal conditioning causes may add positive
-assistance.
+| vipāka-phala | maturation-fruit | of the last |
+| adhipati-phala | predominance | non-obstruction, and more |
+| niṣyanda-phala | homogeneous outflow | similar fruit |
+| pauruṣa-phala | fruit of efficacy | activity, figurative |
 
 ## 8. Logical Determination
 
-The principal mapping table is:
-
-| Cause | Principal fruit |
-|---|---|
-| `vipāka-hetu` | `vipāka-phala` |
-| `kāraṇa-hetu` | `adhipati-phala` |
-| `sabhāga-hetu` | `niṣyanda-phala` |
-| `sarvatraga-hetu` | `niṣyanda-phala` |
-| `sahabhū-hetu` | `pauruṣa-phala` |
-| `saṃprayuktaka-hetu` | `pauruṣa-phala` |
-
-This is a principal-role relation:
-
 ```text
-PrincipalFruitType(causeType, fruitType)
+maturation cause
+    → maturation-fruit
+conditioning
+    → predominance
+homogeneous, pervasive
+    → homogeneous outflow
+co-arisen, associated
+    → efficacy
+principal
+    ≠ exclusive
+maturation
+    not immediate efficacy
+    distant, on the other account
+    not settled
 ```
 
-It is not an exclusive function:
+## 9. Interpretive Note
 
-```text
-PrincipalFruitType(c, f)
-    ⇏ HasNoOtherFruitType(c)
+Definitions of the fruits begin the next verse. This unit assigns and qualifies.
+
+## 10. OWL++ Seed
+
+```ttl
+@prefix vak: <http://127.0.0.1:3000/vak#> .
+
+vak:VAK_2_56 a vak:Karika ; vak:hasTopic vak:PrincipalFruits .
+vak:PaurusaPhala vak:exclusive false .
 ```
-
-The Bhāṣya's broader activity rule is:
-
-```text
-OperativeFunction(c, r)
-AND (Simultaneous(r, c) OR ImmediatelyAfter(r, c))
-    → PaurushaFruit(r, c)
-```
-
-Maturation cause is normally excluded because its defining fruit is delayed:
-
-```text
-VipakaHetu(c)
-AND TemporallyDistant(r, c)
-    → NOT ImmediatePaurushaFruit(r, c)
-```
-
-An alternative view admits a distant fruit of activity for maturation cause,
-like crops as the fruit of a farmer's work. This is reported, not adopted as
-the principal definition.
-
-The definitions of maturation-fruit and the detailed similarity
-distinctions are taken up in VAK 2.57, not in this source unit.
-
-## 9. Interpretation
-
-The Bhāṣya unit begins at 94.18 and ends at 95.08, after reporting the
-alternative that maturation cause may have a distant fruit of efficacy.
-At 95.09 the commentary begins defining the fruit-types; those definitions
-belong with VAK 2.57. The present verse assigns principal fruits and then
-qualifies, rather than closes, their distribution.
-
-The useful study question is not merely “which fruit belongs in which row?”
-It is: **what does the cause contribute in this relation?** Maturation
-answers through delayed individualized ripening; predominance through
-permission or contribution; homogeneous outflow through relevant similarity;
-and efficacy through operative activity. A single Dharma may enter more than
-one result-relation, so the table is an articulation of causal perspective,
-not an inventory of fixed causal labels.
-
-## 10. Review Status
-
-First extended results pass complete. The verse's principal assignments,
-the non-obstruction and positive-contribution distinction, and the reported
-alternative concerning distant efficacy are retained at their source boundary.
-
-Textual uncertainties remain marked. No independent manuscript or critical
-edition collation has been performed.

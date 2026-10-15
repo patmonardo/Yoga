@@ -1,4 +1,4 @@
-# VAK_2.31 — Mental-Factor Exclusions at Higher Levels
+# VAK_2.31 — What the Higher Levels Drop
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -12,152 +12,115 @@
 >
 > dhyānāntare vitarkaś ca vicāraś cāpy ataḥ param // 2.31 //
 
-## 3. Lexical Analysis
+Dhyānāntara is the intermediate level, between the first and the second. Not another dhyāna in general.
 
-```text
-kaukṛtyamiddhākuśalāny → kaukṛtya-middha-akuśalāni
-ādye                   → ādye
-dhyāne                 → dhyāne
-na santy               → na santi
-ataḥ                   → ataḥ
-dhyānāntare            → dhyāna-antare
-vitarkaś ca            → vitarkaḥ ca
-vicāraś cāpy           → vicāraḥ ca api
-ataḥ param             → ataḥ param
-```
+## 3. Lexical Analysis
 
 | Pada | Morphology | Force in this passage |
 |---|---|---|
-| kaukṛtya | compound member | remorse |
-| middha | compound member | torpor |
-| akuśalāni | nominative neuter plural | unwholesome factors |
-| ādye dhyāne | locative singular phrase | in the first dhyāna |
-| na santi | third-person plural present with negation | are absent |
-| ataḥ | indeclinable | from the foregoing distribution |
-| dhyāna-antare | locative singular compound | in the intermediate dhyāna |
-| vitarkaḥ | nominative masculine singular | *vitarka* |
-| vicāraḥ | nominative masculine singular | *vicāra* |
-| api | additive particle | also |
-| ataḥ param | indeclinable phrase | beyond this level |
+| kaukṛtya-middha-akuśalāni | nominative | regret, torpor, and the unwholesome |
+| ādye dhyāne | locative | in the first dhyāna |
+| na santi | | are not present |
+| ataḥ | indeclinable | of what was stated |
+| dhyāna-antare | locative | in the intermediate dhyāna |
+| vitarkaḥ ca | | vitarka also |
+| vicāraḥ ca api | | vicāra also |
+| ataḥ param | | beyond this |
 
-*Dhyānāntara* is the intermediate level between the first and second
-dhyānas, as specified by the Bhāṣya.
+Ataḥ points back to the desire-realm distribution. Not a cause.
 
 ## 4. Grammar
 
-The first clause identifies factors absent at the first level:
-
 ```text
-ādye dhyāne
-    → in the first dhyāna
+first dhyāna
+    regret and torpor absent entirely
+    whatever is unwholesome absent
+    hostility; anger-group except crookedness, intoxication, deception;
+    shamelessness and lack of moral caution
+    the rest as before
+    vitarka and vicāra remain
 
-kaukṛtya-middha-akuśalāni na santi
-    → remorse, torpor, and factors in unwholesome mode are absent
+intermediate
+    those exclusions, and vitarka
+    vicāra remains
+
+beyond
+    second and higher dhyānas, and the formless
+    those exclusions, and vicāra
+    also deception and crookedness
+    intoxication not named in this further drop
 ```
 
-The Bhāṣya qualifies the last member. Crookedness, intoxication, and
-deception are exceptions among the named affliction factors at the
-first-dhyāna/Brahmā level.
+## 5. Translation
 
-The exclusions are cumulative:
+### Literal Translation
 
-```text
-intermediate dhyāna:
-    previous exclusions + vitarka
+Regret, torpor, and the unwholesome are not present in the first dhyāna, of these. In the intermediate dhyāna, vitarka also. Beyond this, vicāra also.
 
-second dhyāna and above, including formless attainments:
-    previous exclusions + vicāra
-    and, by the Bhāṣya's reading of api, deception and crookedness
-```
+### Bhāṣya-informed study translation
 
-The later exclusion does not include intoxication.
+Of the rule stated for the desire realm: regret and torpor are entirely absent in the first dhyāna, as is whatever is unwholesome. Hostility. The factors beginning with anger, except crookedness, intoxication, and deception. Shamelessness and lack of moral caution. Everything else as before. Those absent in the first are also absent in the intermediate, together with vitarka. The rest as before. Beyond the intermediate, in the second and subsequent dhyānas and in the formless, what was excluded is absent, and vicāra. Also includes deception and crookedness. The rest as before.
 
-## 5. Scientific English Rendering
+Crookedness is recounted only as far as Brahmā, not above, because connected with an assembly. Aśvajit asked him in his assembly where the four great elements cease without remainder. He did not know, and evaded: I am Brahmā, the Lord, the Maker, the Fashioner, the Creator, the Producer, the Father of beings. Thus it has been stated how many mental factors occur in which consciousness at which level.
 
-### Kārikā
+## 6. Philosophical Translation
 
-> Remorse, torpor, and unwholesome factors are absent in the first
-> dhyāna. In the intermediate dhyāna, *vitarka* is absent as well;
-> beyond this, *vicāra* also.
+The higher level is defined by what can no longer occur. Exclusions accumulate. Vitarka and vicāra are not synonyms: one drops at the intermediate, the other beyond it. Definitions are not this unit.
 
-### Bhāṣya-informed rendering
+The three exceptions are exceptions to the anger-group drop. They do not permit the unwholesome where the unwholesome has been excluded. Afflicted and unwholesome stay apart, as in 2.30. A level's possible consciousnesses are not one wholesome absorption.
 
-> Of the factors described, remorse and torpor are entirely absent in the
-> first dhyāna, as are factors operating in an unwholesome mode: hostility,
-> the factors beginning with anger except crookedness, intoxication, and
-> deception, and shamelessness and absence of moral caution. Everything
-> else remains as before. Those absent in the first dhyāna are also absent
-> in the intermediate dhyāna, together with *vitarka*. The remainder is
-> as before. Beyond the intermediate dhyāna, in the second and subsequent
-> dhyānas and in the Formless levels, *vicāra* is also absent, along with
-> deception and crookedness. The remainder is as before.
+Also names deception and crookedness. It does not name intoxication. The three must not all be declared absent above the intermediate.
 
-The Bhāṣya explains that crookedness is recounted only as far as Brahmā,
-because it is connected with an assembly. Aśvajit questions Brahmā about
-where the four Great Principles cease without remainder. Not knowing,
-Brahmā evades the question by declaring, “I am Brahmā, Lord, Maker,
-Fashioner, Creator, Producer, Father of beings.” The transmitted title
-sequence is imperfect; the English rendering is provisional.
+Organon rendering:
 
-## 6. Interpretation
+Cumulative exclusion is the pass. Not a biography. Objective Logic on the mind is not the translation. Not the final pass.
 
-The verse turns the previous count profiles into level-specific exclusions.
-The first dhyāna excludes remorse, torpor, and unwholesome operation, but
-the Bhāṣya preserves exceptions for crookedness, intoxication, and
-deception. At the intermediate level, *vitarka* is additionally absent;
-above it, *vicāra* is absent as well, and the Bhāṣya reads *api* to add
-deception and crookedness. Intoxication is not included in that later
-exclusion.
+## 7. Technical Vocabulary
 
-The Brahmā episode illustrates the specific assembly-related range of
-crookedness: a display of authority evades a question the speaker cannot
-answer. Its argument is local; status alone does not establish knowledge.
-The commentary's conclusion is a level-indexed count of mental factors,
-not a claim that every consciousness at a level is identical.
+| Sanskrit | Running word | Determination |
+|---|---|---|
+| ādya-dhyāna | first dhyāna | drops regret, torpor, unwholesome operation |
+| dhyānāntara | intermediate dhyāna | drops vitarka; vicāra remains |
+| ataḥ param | beyond this | second and higher, and the formless |
+| yathā-pratiṣiddham | as previously excluded | carried upward |
+| śāṭhya, mada, māyā | crookedness, intoxication, deception | the three exceptions at the first |
+| parṣat-sambandha | connection with an assembly | why crookedness stops at Brahmā |
+| kṣepa | evasion | Brahmā's response |
 
-The Kośa's governing synthesis: Vijñāna is Discriminative Cognition joining
-and governing Perception and Conception. Their unity is Inconceivable as a
-homogeneous operation; its Idea is disclosed in the Cognition Base. Vijñāna
-governs Mind and guides the reading of Dharma Base. Form Base and Dharma
-Base both include the same *avijñapti* in distinct classifications, and
-Vijñāna bears a *prati* relation to *avijñapti*. This architecture remains
-distinct from the local level-indexed factor exclusions.
+Mada is not conceit. Middha is not sluggishness.
 
-## 7. Logical Determination
+## 8. Logical Determination
 
 ```text
-FirstDhyana:
-    Excludes(Remorse, Torpor, UnwholesomeMode)
-    Retains(Vitarka, Vicara)
-    ExceptionsAmongNamedAfflictions = {Crookedness, Intoxication, Deception}
+first
+    ⊇ excludes regret, torpor, unwholesome operation
+    retains vitarka, vicāra
+    crookedness, intoxication, deception not in that drop
 
-IntermediateDhyana:
-    Inherits(FirstDhyanaExclusions)
-    Excludes(Vitarka)
-    Retains(Vicara)
+intermediate
+    = first exclusions + vitarka
+    retains vicāra
 
-SecondAndHigherDhyanaOrFormless:
-    Inherits(IntermediateDhyanaExclusions)
-    Excludes(Vicara, Deception, Crookedness)
+beyond
+    = intermediate exclusions + vicāra + deception + crookedness
+    intoxication not named
+
+exclusions accumulate
+unwholesome excluded
+    ≠ every affliction excluded
 ```
 
-The first-dhyāna statement excludes factors in an unwholesome mode; it
-does not erase every factor elsewhere classified as an affliction in
-every mode.
+## 9. Interpretive Note
 
-## 8. Interpretive Note
+The Brahmā episode supports the upper limit of crookedness. The question is Aśvajit's. The titles are Brahmā's. The commentary calls the response an evasion made without knowing. Not an assertion of creative authority. The story is not completed from elsewhere. Assembly-dependence is stated for crookedness. Not expanded into a theory of both factors.
 
-The levels form a cumulative exclusion rule, but not a complete account
-of every mental-factor possibility at each level. “The remainder is as
-before” carries forward unchanged classifications. The exceptions and
-the specific scope of *api* must be retained to avoid overextending the
-exclusion.
+The title sequence is damaged. Creator, Producer is provisional. Four and I am are contextual readings.
 
-The Bhāṣya distinguishes *middha*, torpor, from *styāna*, sluggishness,
-and *mada*, intoxication, from *māna*, conceit. These lexical distinctions
-matter to the count and exclusions.
+The close indexes three variables: which level, which consciousness, how many factors. The remainder as before keeps what was not altered.
 
-## 9. OWL++ Seed
+Organon reading: level, ethical character, and factor-identity stay apart. Not the verse English.
+
+## 10. OWL++ Seed
 
 ```ttl
 @prefix vak: <http://127.0.0.1:3000/vak#> .
@@ -167,27 +130,13 @@ matter to the count and exclusions.
 vak:VAK_2_31
     a vak:Karika ;
     rdfs:label "VAK 2.31" ;
-    vak:hasTopic vak:DhyanaLevelFactorExclusions ;
+    vak:hasTopic vak:HigherLevelExclusions ;
     vak:belongsTo vak:Indriyanirdesa .
 
-vak:FirstDhyanaProfile
-    vak:excludes vak:Remorse,
-        vak:Torpor,
-        vak:UnwholesomeOperation ;
-    vak:retains vak:Vitarka,
-        vak:Vicara ;
-    vak:hasExceptions vak:Crookedness,
-        vak:Intoxication,
-        vak:Deception .
+vak:FirstDhyana vak:excludes vak:Regret, vak:Torpor, vak:Unwholesome .
+vak:IntermediateDhyana vak:excludes vak:Vitarka .
+vak:BeyondIntermediate vak:excludes vak:Vicara, vak:Deception, vak:Crookedness .
 
-vak:IntermediateDhyanaProfile
-    vak:inheritsExclusionsFrom vak:FirstDhyanaProfile ;
-    vak:excludes vak:Vitarka ;
-    vak:retains vak:Vicara .
-
-vak:HigherDhyanaAndFormlessProfile
-    vak:inheritsExclusionsFrom vak:IntermediateDhyanaProfile ;
-    vak:excludes vak:Vicara,
-        vak:Deception,
-        vak:Crookedness .
+organon:IntoxicationNotInTheFurtherDrop
+    organon:notTheVerseEnglish true .
 ```

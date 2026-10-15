@@ -1,4 +1,4 @@
-# VAK_2.50 — Co-arisen Cause and Reciprocity
+# VAK_2.50 — Co-arisen Cause
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -12,198 +12,95 @@
 >
 > bhūtavac cittacittānuvartilakṣaṇalakṣyavat // 2.50 //
 
-The kārikā is split across the commentary. Its first clause,
-*svato 'nye kāraṇaṃ hetuḥ*, is treated with the conditioning cause
-at the close of VAK 2.49 (83.16–17). The co-arisen-cause clause
-begins at 83.18; the examples and qualification run through 83.24.
-At 83.25 the next unit asks who the followers of consciousness are.
+The first clause was the conditioning cause. This unit is the co-arisen. Bhūta is the great elements. Not beings.
 
-## 3. Padaccheda
+## 3. Lexical Analysis
 
-```text
-svato 'nye                         → svataḥ anye
-kāraṇam                           → kāraṇam
-hetuḥ                             → hetuḥ
-sahabhūr                          → sahabhūḥ
-ye                                → ye
-mithaḥphalāḥ                      → mithaḥ-phalāḥ
-bhūtavat                          → bhūta-vat
-cittacittānuvartilakṣaṇalakṣyavat
-                                  → citta-citta-anuvarti-lakṣaṇa-lakṣya-vat
-```
-
-| Form | Morphology | Lexical force here |
-|---|---|---|
-| svataḥ | ablative singular of reflexive pronoun used adverbially | apart from itself / other than itself |
-| anye | nominative masculine plural | the others |
-| kāraṇam | nominative neuter singular predicate-name | conditioning [cause] |
-| hetuḥ | nominative masculine singular | cause / causal ground |
-| sahabhūḥ | nominative masculine singular predicate | co-arisen cause |
-| ye | nominative masculine plural relative pronoun | those which |
-| mithaḥ-phalāḥ | nominative masculine plural compound | mutually one another's results |
-| bhūta-vat | indeclinable comparative expression | as with the great Elements |
-| citta-citta-anuvarti-vat | comparative compound understood within the series | as with consciousness and its followers |
-| lakṣaṇa-lakṣya-vat | comparative compound | as with mark and what is marked |
-
-The final line compresses three examples under repeated `-vat`: the great
-Elements; consciousness with its followers; and conditioned marks with what
-they mark. `Bhūta` here means the four great Elements, not beings in general.
+| Pada | Force |
+|---|---|
+| svato 'nye | other than itself |
+| kāraṇaṃ hetuḥ | conditioning cause |
+| sahabhūḥ | co-arisen cause |
+| mithaḥ-phalāḥ | mutually one another's results |
+| bhūtavat | as the great elements |
+| citta-anuvarti | consciousness and its followers |
+| lakṣaṇa-lakṣya | mark and marked |
 
 ## 4. Grammar
 
-The first definition resumes `kāraṇa-hetu` from the preceding verse:
-
 ```text
-svataḥ anye [dharmāḥ]
-    → kāraṇam hetuḥ
-
-the dharmas other than the dharma itself
-    → are its conditioning causes
+conditioning
+    other than itself
+    already defined
+co-arisen
+    those that are mutually results
+examples
+    four great elements, of one another
+    consciousness and its followers, both ways
+    marks and the marked, both ways
+qualification
+    a dharma is co-arisen cause of its secondary marks
+    they are not co-arisen causes of it
 ```
-
-The number shift between plural `anye` and singular `hetuḥ` is classificatory:
-many other dharmas fall under the one causal type called `kāraṇa-hetu`.
-
-The second definition is a relative construction:
-
-```text
-ye mithaḥ-phalāḥ
-    → [te] sahabhūḥ [hetavaḥ]
-
-those which are mutually one another's results
-    → [are] co-arisen causes
-```
-
-The second half supplies three analogical instances:
-
-```text
-bhūta-vat
-    → like the four great Elements
-
-citta-citta-anuvarti-vat
-    → like consciousness and the dharmas following consciousness
-
-lakṣaṇa-lakṣya-vat
-    → like conditioned marks and the marked dharma
-```
-
-The kārikā asserts these examples compactly. The Bhāṣya supplies their
-application and an explicit qualification to the reciprocal formula.
 
 ## 5. Translation
 
-### Close syntactic construe
+### Literal Translation
 
-> Other than itself, [a dharma] is a conditioning cause. Those that are mutually one another's results are co-arisen causes, as with the great Elements, consciousness and its followers, and the marks and what they mark.
+Other than itself, the conditioning cause. Co-arisen: those that are mutually results. As the great elements, as consciousness and its followers, as the marks and the marked.
 
-The first clause is translated and discussed with the conditioning cause in
-VAK 2.49. This Bhāṣya-informed rendering follows the local explanation of the
-remaining clause:
+### Bhāṣya-informed study translation
 
-> Co-arisen causes are dharmas that are reciprocally one another's results.
-> Examples are the four great Elements, consciousness and its followers, and
-> conditioned marks with the dharmas they mark. As appropriate, every
-> conditioned dharma is a co-arisen cause. A qualification is required:
-> a dharma is a co-arisen cause of its subsidiary marks, but they are not
-> co-arisen causes of it.
+Those that are reciprocally one another's results are co-arisen causes of one another. The four great elements, of one another. Consciousness, of the dharmas that follow it, and they of it. The conditioned marks, of what they mark, and it of them. Every conditioned dharma, as appropriate, is a co-arisen cause. Not of every other. Even without mutual result, a dharma is a co-arisen cause of its secondary marks. They are not co-arisen causes of it. That qualification is to be added.
 
-## 6. Interpretation
+## 6. Philosophical Translation
 
-The text gives three examples for the co-arisen-cause relation and adds an
-explicitly asymmetric case. It thereby rejects two inadequate perspectives:
-mere simultaneous presence does not yet explain causation, and mutual
-resulthood is not an exceptionless formula. A determinate Dharma can stand in
-a reciprocal causal relation only where the specified relation obtains; its
-identity as a Dharma does not supply the relation in advance.
+Co-arisen is more than the same moment. Each stands as result of the other. The return is stated for consciousness and the followers, and for the marks. Not a principal producing passive accompaniments.
 
-Within the project's Hub-of-Power reading, the consciousness-and-followers
-example gives a textual point of contact for the `citta:caitta` dyad; the
-preceding transition from result-classification to causes and conditions,
-followed by the six causes, situates this within the broader `hetu:pratyaya`
-inquiry. Reading these as the two principial extremes projected and organized
-by an invariant Hub is the project's synthesis, not a claim made in this
-local Bhāṣya. The Hub is not an additional cause among the examples.
+The secondary marks break the rule. Reciprocity is the definition. It is not exceptionless. Principal marks and secondary marks stay apart. The marked dharma's mutual relation is not copied onto the secondary.
+
+Who the followers are is the next question. Not this verse.
+
+Organon rendering:
+
+Consciousness and the followers are the local contact with citta:caitta. Produced consciousness, not Citta the Universal. The Hub is not an extra cause in the examples. Not the verse. Not the final pass.
 
 ## 7. Technical Vocabulary
 
-| Sanskrit | Controlled rendering | Determination in this unit |
+| Sanskrit | Running word | Determination |
 |---|---|---|
-| kāraṇa-hetu | conditioning cause | every other dharma under the broad non-obstruction definition developed in 2.49 |
-| sahabhū-hetu | co-arisen cause | selected simultaneous dharmas asserted to stand in a causal relation |
-| mithaḥ-phala | mutually resultant | each member functions as a result relative to the other |
-| mahābhūta | great Element | earth, water, fire, and wind as a mutually conditioning complex |
-| cittānuvartin | follower of consciousness | the relation is illustrated here; the next unit specifies the followers |
-| lakṣaṇa | conditioned mark | arising, duration, aging, or impermanence |
-| lakṣya | what is marked | conditioned dharma characterized by those marks |
-| anulakṣaṇa | secondary mark | mark-of-a-mark that exposes an exception to strict mutual resulthood |
+| sahabhū-hetu | co-arisen cause | mutual result |
+| mithaḥphala | mutually resultant | the definition |
+| cittānuvartin | follower of consciousness | not yet listed |
+| anulakṣaṇa | secondary mark | the asymmetric case |
 
 ## 8. Logical Determination
 
-The local definition and its instances are:
-
 ```text
-MutuallyResultant(x, y)
-    → SahabhuHetu(x, y)
-    AND SahabhuHetu(y, x)
-
-FourGreatElements       ↔ co-arisen causes
-Consciousness, followers ↔ co-arisen causes
-Conditioned marks, marked dharma ↔ co-arisen causes
-```
-
-The qualification adds a non-reciprocal relation:
-
-```text
-SahabhuHetu(dharma, subsidiaryMarks)
-NOT SahabhuHetu(subsidiaryMarks, dharma)
+mutually resultant
+    → co-arisen, both ways
+four elements
+    both ways
+consciousness and followers
+    both ways
+marks and marked
+    both ways
+as appropriate
+    ≠ every conditioned of every other
+secondary marks
+    dharma → them
+    not them → dharma
 ```
 
 ## 9. Interpretive Note
 
-The examples show how the Bhāṣya applies co-arisen causality; the
-subsidiary-mark clause prevents the reciprocal definition from being treated
-as an exceptionless rule. The next passage identifies the followers of
-consciousness and the ways they follow it. The later debate over whether
-co-presence establishes reciprocal causal efficacy must be taken up at its
-own textual boundary, not imported into this short definition.
+Pāraṃparya in the opening prose is not the succession of causes from the nirvāṇa example. Reciprocal, from the examples. Not a collation.
 
 ## 10. OWL++ Seed
 
 ```ttl
 @prefix vak: <http://127.0.0.1:3000/vak#> .
-@prefix organon: <http://127.0.0.1:3000/organon#> .
 
-vak:KaranaHetu a organon:CausalRelationType .
-vak:SahabhuHetu a organon:CausalRelationType .
-vak:CittaFollower a organon:ConditionedDetermination .
-
-organon:CoPresence a organon:RelationType .
-organon:CommonGenesis a organon:CausalRelationType .
-organon:ReciprocalCausation a organon:CausalRelationType .
-organon:MutualResult a organon:ReciprocalCausation .
-
-organon:coPresentWith a organon:SymmetricProperty .
-organon:sharesAntecedentCauseWith a organon:SymmetricProperty .
-organon:mutuallyConditions a organon:SymmetricProperty .
-organon:followsCitta a organon:ObjectProperty .
-
-organon:FollowerProfile a organon:Schema ;
-    organon:requires organon:TemporalCorrespondence,
-        organon:ResultCorrespondence,
-        organon:MaturationCorrespondence,
-        organon:OutflowCorrespondence,
-        organon:EthicalCorrespondence .
-
-organon:OcularCausalSchema a organon:Schema ;
-    organon:distinguishes organon:CoPresence,
-        organon:CommonGenesis,
-        organon:ReciprocalCausation .
+vak:VAK_2_50 a vak:Karika ; vak:hasTopic vak:CoArisenCause .
+vak:SecondaryMark vak:reciprocal false .
 ```
-
-## 11. Review Status
-
-First Hetu-definition pass complete. The first clause is treated with
-VAK 2.49 at 83.16–17; this unit follows the co-arisen-cause discussion
-from 83.18 through the subsidiary-mark qualification at 83.24. The
-question about followers of consciousness begins at 83.25. The Organon
-reading is kept separate from the conventional translation.

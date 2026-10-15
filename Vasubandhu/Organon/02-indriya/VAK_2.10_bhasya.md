@@ -1,449 +1,84 @@
-# VAK_2.10 Bhāṣya — Maturation, Lifespan, and Result-Producing Faculties
+# VAK_2.10 Bhāṣya — Maturation and What Produces It
 
 ## 1. Kārikā Anchor
 
-> vipāko jīvitaṃ dvedhā dvādaśāntyāṣṭakād ṛte /
+> vipāko jīvitaṃ dvedhā dvādaśa antyāṣṭakād ṛte /
 > daurmanasyāc ca tat tv ekaṃ savipākaṃ daśa dvidhā // 2.10 //
 
-> Life is maturation; twelve are twofold, excluding the final eight
-> and distress. That one alone invariably has maturation as its result;
-> ten are twofold in that respect.
+> Life is maturation. Twelve are twofold, apart from the final eight and distress. That one alone possesses maturation as its result. Ten are twofold.
 
-Life is treated separately from the twelve. The second reference to
-“that one” means distress. The verse distinguishes being a maturation-result
-from having maturation as a result. Its opening classification is
-qualified within the lifespan discussion below.
+Life is separate from the twelve. That one is distress. Being a maturation and having maturation as a result are not the same predicate. The opening is qualified in the lifespan discussion.
 
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
-> katīndriyāṇi vipākaḥ kati na vipākaḥ /
-> ekāntena tāvat
-> vipāko jīvitaṃ
-> atha yadarhan bhikṣurāyuḥsaṃskārān sthāpayati tajjīvitendriyaṃ kasya vipākaḥ /
-> śāstra ukthaṃ "kathamāyuḥsaṃskārān sthāpayati /
-> arhan bhikṣuḥ ṛddhimāṃścetovaśitvaṃ prāptaḥ saṃghāya va pudgalāya vā pātraḥ vā cīvaraṃ vā anyatamānyatamaṃ vā śrāmaṇakaṃ jīvitapariṣkāraṃ vā dattvā tat praṇidhāya prantakoṭikam caturthaṃ dhyānaṃ samāpadyate /
-> sa tasmāt vyutthāya cittamutpādayati vācaṃ ca bhāṣate yanme bhogavipākaṃ tadāyurvipākaṃ bhavatviti /
-> tasya yat bhogavipākaṃ tadāyurvipākaṃ bhavati /
-> yeṣāṃ punarayamabhiprāyo vipākoccheṣaṃ vipacyata iti /
-> ta āhuḥ pūrvajātikṛtasya karmaṇo vipākoccheṣaṃ /
-> sa bhāvanābalenākṛṣya pratisaṃvedayata" iti /
-> kathamāyuḥsaṃskārā nutsṛjati /
-> tathaīva dānaṃ dattvā praṇidhāya prantakoṭikaṃ caturthaṃ dhyānaṃ samāpadyate/
-> yanme āyurvipākaṃ tat bhogavipākaṃ bhavatviti tasya tathā bhavati /
-> bhadantaghoṣakastvāha /
-> tasminneva āśraye rūpāvacarāṇi mahābhūtāni dhyānabalena saṃmudhakarotyāyuṣo 'nukūlāni vaihodhikāni ca /
-> evamāyuḥsaṃskārān sthāpayatyevamutsṛjatīti /
-> evaṃ tu bhavitavyam /
-> samādhiprabhāva eva sa teṣāṃ tadṛśo yena pūrvakarmajaṃ ca sthitikālāvedhamindriyamahābhūtānāṃ vyāvrttayantyapūrvaṃ ca samādhijamāvedhamākṣipanti /
-> tasmānna tajjīvitendriyaṃ vipākaṃ tato 'nyattu vipākaḥ /
-> praśnāt praśnāntaramupajāyate /
-> kimarthamāyuḥsaṃskārānadhitiṣṭhanti /
-> parahitārthaṃ śāsansthityarthaṃ vā /
-> te hyātmanaḥ kṣīṇamāyuḥ paśyanti /
-> na ca tatrānyaṃ śaktaṃ paśyanti /
-> atha kimarthamutsṛjanti /
-> alpaṃ ca parahitaṃ jīvite paśyanti rogābhibhūtaṃ cātmabhāvam /
-> yathoktaṃ
-> "sucīrṇe brahmacarye 'smin mārge caiva subhāvite /
-> tuṣṭa āyuḥkṣayāt bhavati rogasyāpagame yathā //"
-> iti /
-> athaitadāyuḥ saṃskārāṇāṃ sthāpanārthamutsarjanaṃ vā kva kasya vā veditavyam /
-> manuṣyeṣvevatriṣu dvīpeṣu strīpuruṣayorasamayavimuktasyārhataḥ prāntakoṭikadhyānalābhinaḥ /
-> tasya hi samādhau vaśitvam /
-> kleśaiścānupastabdhā santatiḥ /
-> sūtra uktam "bhagavān jīvitasaṃskārānadhiṣṭhāyāyuḥsaṃskārānustsṛṣṭavān" /
-> teṣāṃ ko viśeṣaḥ /
-> na kaścidityeke /
-> tathā hyuktam "jīvitendriyaṃ katamat /
-> traidhātukamāyuri"ti /
-> pūrvakarmaphalamāyuḥsaṃskārāḥ pratyutpannakarmaphalaṃ jīvitasaṃskārā ityapare /
-> yairvā nikāyasabhāgasthitista āyuḥsaṃskārāḥ /
-> yaistu kālāntaraṃ jīvati te jīvitasaṃskārā iti /
-> bahuvacanaṃ bahūnāmāyurjīvitasaṃskārakṣaṇānāmutsarjanā dhiṣṭhānāt /
-> nahyekasya kṣaṇasyotsarjanamadhiṣṭhanaṃ cāsti /
-> na ca kālāntarasthāvaramekamāyurdravyamiti dyotanārthamityeke /
-> bahuśveva saṃskāreṣvāyurākhyā nāstyekamāyurdravyam /
-> anyathā naiva saṃskāragrahaṇamakariṣyadityapare /
-> kimarthaṃ punarbhagavatā āyuhsaṃskārā utsṛṣṭāścādhiṣṭitāśca /
-> maraṇavaśitvajñāpanārthamutsṛṣṭājīvitavaśitvajñāpanārthamadhiṣṭitāḥ /
-> traimāsyameva nodhrvam vineyakāryābhāvāt /
-> yaccāpi tat pratijñātam "evaṃbhāvitairahaṃ caturbhirṛddhi pādairākāṅkṣankalpamapi tiṣṭheyaṃ kalpāvaśeṣamapī"ti /
-> tasyāpi saṃpādanārtham /
-> skandhamaraṇamārayornirjayārthamiti vaibhaṣikāḥ /
-> bodhimūle kleśadevaputramārau nirjitāviti /
-> niṣṭhitamānuṣaṅgikam //
-> prakṛtamevārabhyate /
-> dvedhā dvādaśa
-> katamāni dvādaśa /
-> antyāṣṭakādṛte /
-> daurmanasyācca
-> antyamaṣṭakaṃ śraddhādīni daurmanasyaṃ ca varjayitvā /
-> jīvitendriyādanyāni dvādaśa dvividhāni vipākaścāvipākaśca /
-> tatra cakṣurādīni saptaupacayikāni avipākaḥ /
-> śeṣāṇi vipākaḥ /
-> manoduḥkhasukhasaumanasyopekṣendriyāṇi kuśalakliṣṭānya vipākaḥ /
-> airyāpathikaśāilpasthānikanairmāṇikāni ca yathāyogam /
-> śeṣāṇi vipākaḥ /
-> jīvitendriyaṃ cakṣurādīni dvādaśa hitvā śeṣāṇyavipāka iti siddham /
-> yadi dauarmanasyendriyaṃ na vipāka iti sūtraṃ kathaṃ nīyate "trīṇi kāryāṇi /
-> saumanasyavedanīyaṃ karma daurmanasyavedanīyaṃ karma upekṣā vedanīyaṃ karme"ti saṃprayogavedanīyatāmadhikṛtyoktam /
-> daurmasyena saṃprayuktaṃ karma daurmanasyavedanīyam /
-> yathā sukhasaṃparayuktaḥ sparśaḥ sukhavedanīyaḥ /
-> saumanasyopekṣāvedanīye api tarhi karmaṇī evaṃ bhaviṣyataḥ /
-> yathecchasi tathā 'stu /
-> saṃprayoge 'pi na doṣaḥ vipāke 'pi na doṣaḥ /
-> agatyā hyetadevaṃ gamyeta /
-> kā punratra yuktirdaurmanasyaṃ na vipāka iti /
-> daurmanasyaṃ hi parikalpaviśeṣairutpādyate ca vyupaśāmyate ca /
-> nacaivam vipākaḥ /
-> saumanasyamapyevaṃ na syādvipākaḥ /
-> yadi tarhi daumanasyaṃ vipākaḥ syādānantaryakāriṇāṃ tannimittaṃ daurmanasyotpādāttatkarma vipakvaṃ syāt /
-> saumanasyamapyevam /
-> yadi saumanasyaṃ vipākaḥ syāt puṇyakāriṇāṃ tannimittaṃ saumanasyotpādāttatkarma vipakvaṃ syāt /
-> vītarāgāṇāṃ tarhi daurmanasyāsaṃbhavāt /
-> na caivaṃ vipākaḥ /
-> saumanasyamapyeṣāmavyākṛtaṃ kodṛśaṃ vipākaḥ syāt /
-> yādṛśaṃ tādṛśamastu /
-> sati tu saṃbhave saumanasyasyāsti vipākāvakāśī na dauarmanasyasya /
-> sarvathā 'samudācārāditi nāstyevaṃ daurmanasyaṃ vipāka iti vaibhāṣikāḥ /
-> tatra jīvitendriyāṣṭamāni sugatau kuśalasya vipāko durgatāvakuśalasya /
-> manaindriyamubhayorubhayasya /
-> sukhasaumanasyopekṣendriyāṇi kuśalasya /
-> duḥkhendriyamakuśalasya /
-> sugatābubhayavyañjanasyākuśalenatatsthānapratilambhaḥ /
-> natvindriyasya kuśalākṣepāt /
-> gatametad /
-> idaṃ nu vaktavyam /
-> katīndriyāṇi savipākāni katyavipākāni /
-> yadetat daurmanasyamanantaroktaṃ
-> tattvekaṃ savipākaṃ /
-> tadekaṃ savipākameva /
-> tuśabda evakārārtho bhinnakramaśca veditavyaḥ /
-> nahi tadavyākṛtamasti nāpyanāsravamasamāhitatvāt /
-> ato nāstyavipākaṃ daurmanasyam /
-> daśa dvidhā // 2.10 //
-> savipākānyavipākāni ca /
-> katamāni daśa /
-> mano 'nyavittiśraddhādīni
-> anyavittigrahaṇāt daurmanasyādanyat veditaṃ gṛhyate /
-> śraddhādīni śraddhāvīryasmṛtisamāchiprajñāḥ /
-> tatra manaḥsukhasaumanasyopekṣā akuāśalāḥ kuśalāḥ sāsravāśca savipākāḥ /
-> anāsravā avyākṛtāścāvipākāḥ /
-> duḥkhendriyaṃ kuśalākuāśalaṃ savipākamavyākṛtamavipākam /
-> śraddhādīni sasravāṇi savipākānyanāsravāṇyavipākāni /
-> anyadavipākamiti siddham /
+The unit runs from printed 43.08 through 46.06 in `Vasubandhu/Sources/kosabhasya.txt`. The lifespan digression ends at 44.19–20. Prakṛtamevārabhyate resumes the twelve. Mano 'nyavittiśraddhādīni at the close names the ten. The question at 46.07 opens the ethical classification and is not this unit.
 
-This is the complete running passage from printed 43.08 through
-46.06. Source locators and the verse identifier have been removed
-from the reading text; otherwise its wording, including defective
-forms, is retained. The long lifespan digression ends explicitly at
-44.19–20, after which the original topic resumes.
+The reading text retains the running wording, including defective forms. Contextual repairs, not a collation: ukthaṃ → uktam, samāchi → samādhi, akuāśala → akuśala. Saṃmudhakaroti is construed as bringing forth. Vaihodhikāni as adverse, against anukūlāni. Prāntakoṭika is the named fourth dhyāna. Sthitikālāvedha is the impetus that determines duration. Vipākoccheṣa is a remainder of maturation. Uncertainty stays visible.
 
-The opening words of VAK 2.11, *mano 'nyavittiśraddhādīni*, identify
-the ten just mentioned. Their explanation through 46.06 completes
-this natural unit, as in the research Bhāṣya. The new question at
-46.07 opens the next study's ethical classification.
+## 3. Continuous Conventional Translation
 
-The translation provisionally reads mechanical forms such as
-*ukthaṃ*, *samāchi*, and *akuāśala* as *uktaṃ*, *samādhi*, and
-*akuśala*. In the lifespan discussion, *saṃmudhakaroti* is construed
-as producing or bringing forth, and *vaihodhikāni* as adverse or
-opposing, in contrast to *anukūlāni*. These are contextual repairs,
-not independently verified readings. *Prāntakoṭika* is retained as
-a technical designation of the fourth dhyāna. The compressed
-*sthitikālāvedha* is rendered as the impetus determining duration.
-The reading *vipākoccheṣa* is understood as a remainder of maturation.
-Uncertainty in these places remains visible; no critical edition or
-independent collation is claimed.
+How many faculties are maturation, and how many are not? First, categorically: life is maturation. But when an arhat monk sustains the lifespan-formations, of what is that life-faculty the maturation? The treatise: an arhat with extraordinary powers and mastery of mind gives a bowl, a robe, or another requisite, directs his resolve, and enters the prāntakoṭika fourth dhyāna. Emerging, he forms the intention: may what would mature as resources mature as lifespan. It does. Those who hold that a remainder of maturation ripens say he draws forth, by the power of cultivation, the remaining maturation of action done in a previous birth.
 
-## 3. Scientific English Rendering
+Relinquishing is the same act reversed: may what would mature as lifespan mature as resources. Ghoṣaka says that by the power of dhyāna he produces, in that same support, form-realm great elements favorable or adverse to lifespan. The explanation that should stand: such is the power of concentration that they turn aside the impetus, born of prior action, that determines the duration of the faculties and great elements, and project a new impetus born of concentration. That life-faculty is not maturation. Life other than that is.
 
-How many faculties are maturation, and how many are not maturation?
-First, categorically: “Life is maturation.” But when an arhat monk
-sustains the lifespan-formations, of what is that life-faculty the
-maturation? It is said in the treatise: “How does he sustain the
-lifespan-formations? An arhat monk possessing extraordinary powers
-and mastery of mind gives to the community or to an individual a
-bowl, a robe, or some other requisite of the ascetic life. Having
-directed his resolve toward it, he enters the prāntakoṭika fourth
-dhyāna. Emerging from it, he forms the intention and speaks the words:
-‘May what would mature for me as resources mature as lifespan.’
-What would mature as resources then matures as lifespan. Those who
-hold that a remainder of maturation ripens say that, through the
-power of cultivation, he draws forth and experiences the remaining
-maturation of action performed in a previous birth.”
+Why sustain them? For the benefit of others, or the continuance of the teaching. They see their lifespan exhausted and no other person capable. Why relinquish? Little benefit to others in remaining, and the body overcome by illness. As it is said: when this holy life has been well lived and the path well cultivated, one is content at the exhaustion of lifespan, as at the departure of an illness.
 
-How does he relinquish the lifespan-formations? In the same manner,
-having given a gift and directed his resolve, he enters the
-prāntakoṭika fourth dhyāna: “May what would mature for me as lifespan
-mature as resources.” It becomes so for him. The venerable Ghoṣaka,
-however, says that through the power of dhyāna he produces in that
-very bodily support great elements belonging to the form realm,
-favorable or adverse to lifespan. In this way he sustains or
-relinquishes the lifespan-formations.
+Where, and in whom? Only among humans in the three continents, a woman or a man, an arhat liberated independently of occasion, who has the prāntakoṭika dhyāna. Mastery of concentration, and a continuum not propped by afflictions.
 
-But the explanation should be this: such is their power of
-concentration that they turn aside the impetus determining the
-duration of the faculties and great elements, born of previous
-action, and project a new impetus born of concentration. Therefore
-that life-faculty is not maturation; life other than that is maturation.
+The sūtra: the Blessed One, having sustained the life-formations, relinquished the lifespan-formations. Some say no difference. The life-faculty is lifespan belonging to the three realms. Others: lifespan-formations are the fruit of previous action, life-formations the fruit of present action. Or lifespan-formations are those by which the homogeneous class persists, life-formations those by which one lives a further period. The plural is many moments. A single moment cannot be relinquished and sustained. Some: there is no single lifespan-entity enduring through a time. Others: lifespan is a name for many formations. Otherwise the word formations would not have been used.
 
-One question gives rise to another. Why do they sustain the
-lifespan-formations? For the benefit of others or the continuance
-of the teaching. They see that their own lifespan is exhausted and
-see no other person capable of the task. Why do they relinquish them?
-They see little benefit to others in remaining alive, and their
-embodied existence is overcome by illness. As it is said: “When
-this holy life has been well lived and the path well cultivated,
-one is content at the exhaustion of lifespan, as at the departure
-of an illness.”
+Why did the Blessed One relinquish and sustain them? To show mastery over death, and mastery over life. Three months, not longer, because no task remained for those to be trained. Also to fulfill the declaration that with the four bases of extraordinary power he could remain a kalpa or the remainder of a kalpa. The Vaibhāṣikas: to conquer the Māras of the aggregates and of death. Affliction and the divine son had been conquered at the seat of awakening. The incidental discussion is concluded.
 
-Where, and in whom, is this sustaining or relinquishing of the
-lifespan-formations to be understood? Only among humans in the three
-continents, in a woman or a man who is an arhat liberated independently
-of occasion and has attained the prāntakoṭika dhyāna. Such a person
-has mastery over concentration, and the continuum is not propped up
-by afflictions.
+The topic resumes. Twelve are twofold. Which twelve? Apart from the final eight and distress. Apart from those beginning with faith, and distress, the twelve other than life are maturation and not. Of the seven beginning with the eye, those from development are not maturation. The rest are. Mind, pain, pleasure, gladness, and neutral feeling, when wholesome or afflicted, are not. Nor the instances of deportment, craft, and magical creation, as applicable. The rest are. The faculties left after life and those twelve are not maturation.
 
-A sūtra says: “The Blessed One, having sustained the life-formations,
-relinquished the lifespan-formations.” What difference is there
-between them? Some say none, for it is stated: “What is the
-life-faculty? Lifespan belonging to the three realms.” Others say
-that lifespan-formations are the fruit of previous action, whereas
-life-formations are the fruit of present action. Or those through
-which membership in the homogeneous class persists are lifespan-formations,
-while those through which one lives for a further period are
-life-formations.
+If distress is not maturation, how is the sūtra of three actions — to be experienced as gladness, as distress, as neutral feeling — to be taken? By association. Action associated with distress is called distress-experiencing, as contact associated with pleasure is pleasure-experiencing. Then the other two actions likewise? Let it be so. No fault in association, and no fault in maturation. This case is taken this way because no other reading is available.
 
-The plural is used because many moments of lifespan- and
-life-formations are relinquished or sustained; a single moment
-cannot be relinquished and sustained. Some say its purpose is to
-indicate that there is no single lifespan-entity enduring through
-a period of time. Others say that “lifespan” is a designation for
-many formations and that there is no single lifespan-entity;
-otherwise the word “formations” would not have been used.
+Why is distress not maturation? It is produced and calmed by particular conceptual constructions. Maturation is not. Then gladness would not be either. If distress were maturation, the action of one who commits an immediate-retribution offense would have matured when distress arose on its account. Likewise gladness and merit. Then: distress cannot occur in those free from attachment, and maturation is not excluded that way. What indeterminate gladness in them could be maturation? Whatever it is, let it be. Gladness can occur, so there is room. Distress has no room, because it does not occur in them at all. Thus distress is never maturation, say the Vaibhāṣikas.
 
-Why did the Blessed One relinquish and sustain the lifespan-formations?
-He relinquished them to show mastery over death and sustained them
-to show mastery over life. He sustained them for only three months,
-not longer, because no task remained concerning those to be trained.
-It was also to fulfill his declaration: “With the four bases of
-extraordinary power cultivated in this way, if I wished, I could
-remain for a kalpa or the remainder of a kalpa.” The Vaibhāṣikas say
-it was to conquer the Māras of the aggregates and death; the Māras
-of affliction and the divine son had been conquered at the seat of
-awakening. The incidental discussion is concluded.
+The eight with life as eighth are maturation of wholesome action in a favorable destiny, of unwholesome action in an unfavorable one. Mind is either in either. Pleasure, gladness, and neutral feeling are wholesome maturation. Pain is unwholesome. In a favorable destiny, acquisition of that condition in one with both sexual marks is unwholesome. Not the faculty itself: its projection is wholesome. This is concluded.
 
-The original topic is resumed. “Twelve are twofold.” Which twelve?
-“Excluding the final eight and distress.” Excluding the final eight,
-those beginning with confidence, and distress, the twelve other than
-the life-faculty are both maturation and non-maturation. Among the
-seven beginning with the eye, those arising through development
-are not maturation; the remaining instances are maturation. Mind,
-pain, pleasure, gladness, and neutral feeling, when wholesome or
-afflicted, are not maturation. Nor are their instances associated,
-as applicable, with deportment, craftsmanship, and magical creation.
-Their remaining instances are maturation. It follows that the
-faculties left after excluding life and the twelve beginning with
-the eye are not maturation.
+How many have maturation as a result, and how many do not? Distress, just mentioned: that one alone. Invariably. Tu means only, and stands out of place. Distress is not indeterminate, and not without outflows, because it is not concentrated. So there is no distress that does not produce maturation.
 
-If distress is not maturation, how is the sūtra understood that
-speaks of three kinds of action: action to be experienced as gladness,
-as distress, and as neutral feeling? It is spoken with reference
-to being experienced through association. Action associated with
-distress is called distress-experiencing, just as contact associated
-with pleasure is called pleasure-experiencing. Then the actions
-experienced as gladness and neutral feeling will also be understood
-in this way? Let it be as you wish. There is no fault in association
-or in maturation. It is because no other interpretation is available
-that this case must be understood in that way.
+Ten are twofold, producing and not. Which ten? Mind, the other feelings, and those beginning with faith. The other feelings are feeling other than distress. The five are faith, vigor, mindfulness, concentration, and Discrimination. Mind, pleasure, gladness, and neutral feeling produce maturation when unwholesome, or wholesome with outflows. Without outflows, or indeterminate, they do not. Pain produces it when wholesome or unwholesome, and not when indeterminate. The five produce it when with outflows, and not when without. The rest produce none.
 
-What reasoning establishes that distress is not maturation? Distress
-is produced and calmed through particular conceptual constructions;
-maturation is not like that. Then gladness too would not be maturation.
-If distress were maturation, the action of someone committing an
-immediate-retribution offense would have matured when distress
-arose on account of it. The same applies to gladness: if gladness
-were maturation, meritorious action would have matured when gladness
-arose on account of it. Then the reason is that distress cannot
-occur in those free from attachment, whereas maturation is not
-excluded in that way. What kind of indeterminate gladness in them
-could be maturation? Whatever kind it may be, let it be so. Since
-gladness can occur, there is room for it to be maturation. There is
-no such room for distress, because it does not occur at all in them.
-Thus distress is never maturation, say the Vaibhāṣikas.
+## 4. Movement and Voice of the Commentary
 
-Among these, the group of eight with life as the eighth is maturation
-of wholesome action in a favorable destiny and of unwholesome action
-in an unfavorable destiny. Mind is maturation of either kind in
-either destiny. Pleasure, gladness, and neutral feeling are maturation
-of wholesome action; pain is maturation of unwholesome action. In a
-favorable destiny, acquisition of that condition in one possessing
-both sexual characteristics is through unwholesome action, but not
-that of the faculty itself, because its projection is through wholesome
-action. This matter is concluded.
+A counterexample interrupts the opening rule: life sustained by concentration. A treatise account, a remainder, Ghoṣaka, and the explanation that should stand are distinguished. The last qualifies the rule. Motive, eligibility, the two names, and the Buddha's act complete a marked digression.
 
-Now this must be stated: how many faculties have maturation as a
-result, and how many do not? The distress just mentioned: “That
-one alone has maturation as its result.” That one invariably has
-maturation as its result. The word “but” has the force of “only”
-and must be understood out of its metrical position. Distress is
-not indeterminate, nor is it without outflows, because it is not
-concentrated. Thus there is no distress without maturation as a result.
+The twelve resume. The exclusion of distress is argued and attributed to the Vaibhāṣikas. Possessing maturation is a second classification. These are not one statement that life is always maturation.
 
-“Ten are twofold”: having and not having maturation as a result.
-Which ten? “Mind, the other feelings, and those beginning with confidence.”
-“The other feelings” means feeling other than distress. Those
-beginning with confidence are confidence, vigor, recollection, concentration,
-and prajñā. Mind, pleasure, gladness, and neutral feeling have
-maturation as a result when unwholesome or wholesome with outflows.
-When without outflows or indeterminate, they have no maturation as
-a result. Pain has maturation as a result when wholesome or unwholesome;
-when indeterminate, it does not. Those beginning with confidence have
-maturation as a result when with outflows and none when without
-outflows. It follows that the remaining faculties have no maturation
-as a result.
+The lifespan acts are reported claims. They are not general instructions.
 
-## 4. Movement and Voices of the Commentary
+## 5. The Life Exception
 
-The initial classification is interrupted by a counterexample:
-the life sustained by an arhat's concentration. A treatise account,
-an alternative appeal to remaining maturation, Ghoṣaka's explanation,
-and the proposal introduced by “the explanation should be this”
-are distinguished. The last explicitly qualifies the opening rule.
-The ensuing questions about motive, eligibility, terminology, and
-the Buddha's action complete an expressly marked digression.
+Life generated in the specified way is not maturation. Other life is. The adopted explanation replaces an impetus born of prior action with one born of concentration. That is not the conversion of resource-maturation, and not the drawing of a remainder. Those are reported.
 
-The resumed discussion classifies twelve faculties as sometimes
-maturation, then debates the exclusion of distress. Its conclusion
-is explicitly attributed to the Vaibhāṣikas. The later distinction
-between being maturation and producing maturation opens a second
-classification. These movements must not be flattened into one
-unqualified statement that life is always maturation.
+Āyuḥsaṃskāra and jīvitasaṃskāra are alternatives. Neither identity nor one difference is adopted as the only definition.
 
-The lifespan practices and karmic interpretations are reported as
-claims of the transmitted doctrinal account. The passage's statements
-about relinquishing lifespan concern its specially qualified arhats;
-they are not general practical instructions.
+## 6. The Twelve, and Distress
 
-## 5. The Life-Faculty Exception
+Development, deportment, craft, and magical creation are the non-maturation modes of the twelve. Wholesome and afflicted mind and feeling are not maturation. The rest of those twelve can be.
 
-The strongest correction supplied by the running source is explicit:
-life generated in the specified way through concentration is not
-maturation, while other life is maturation. The proposed explanation
-replaces an impetus born of previous karma with one born of concentration.
-That is different from converting resource-maturation into lifespan,
-and different again from drawing forward an unexperienced remainder.
+The sūtra of three actions is association. Distress-experiencing action is not distress as maturation. The Vaibhāṣika reasons stay: construction, the counterexample, absence in those free from attachment. Gladness still has room.
 
-The distinctions between *āyuḥsaṃskāra* and *jīvitasaṃskāra* are also
-reported as alternatives. Neither their identity nor one proposed
-difference should be silently adopted as the only definition. The
-plurality discussion concerns moments and the status of a lifespan-entity;
-it is retained at its source-defined scope.
+## 7. What Produces Maturation
 
-The technical *asamayavimukta* is rendered “liberated independently
-of occasion.” *Kalpa* remains untranslated in the quoted declaration:
-this passage does not resolve its intended duration. These terms
-require more than a smooth paraphrase if subjected to further review.
+Distress alone always produces it. Not indeterminate, not without outflows, not concentrated. The ten are either. The three realization-faculties, the seven of form, and life produce none. That last follows. It is the complement of the ten and of distress.
 
-## 6. Two Questions About Maturation
+## 8. The Bhāṣya's Decisions for Translation
 
-| Question | Principal distribution |
-|---|---|
-| Is the faculty itself maturation (*vipāka*)? | Life, subject to the stated exception; twelve sometimes; the remaining nine never |
-| Does it have maturation as its result (*savipāka*)? | Distress invariably; ten sometimes; the remaining eleven never |
+Vipāka is maturation, what the instance is. Savipāka is possessing maturation, what it produces. One English for both is the collapse not accepted.
 
-The twelve are the seven material faculties, mind, pain, pleasure,
-gladness, and neutral feeling. The ten in the second classification
-are mind, four feelings other than distress, and the five beginning
-with confidence. The two counts therefore do not describe the same grouping.
+Tu is only. The metrical displacement is marked. Prāntakoṭika is left as the name. The lifespan repairs stay provisional.
 
-At the opening of the second inquiry, *avipāka* functions as the
-opposite of *savipāka*: lacking maturation as a result. Earlier it
-means not itself a maturation-result. Translation must follow the
-question being asked. Neither use means “without consequences of
-any kind.”
+## 9. Organon Reading
 
-## 7. The Debate About Distress
+Two predicates. Life is received, except where concentration projects the impetus. Distress is not received, and it always produces. The construction that raises and calms it is the reason it is not a result. That reason is not innocence.
 
-The first two reasons offered against distress as maturation are
-challenged by the gladness parallel. Conceptual production and
-calming, and an emotional response to one's own deed, cannot simply
-be presented as unopposed proofs. The debate eventually appeals to
-the absence of distress in those free from attachment and the
-possibility of gladness in them, leaving room for gladness to be
-maturation. The conclusion is marked as Vaibhāṣika.
+Dhātu:Indriya asks both questions of the same faculty. The principles locate it. The rules say what this instance is and what it will produce. The received English that folds the two into karmic is not the page. Not the verse English.
 
-The scriptural phrase “to be experienced as distress” is therefore
-read through association with action rather than as its maturation.
-The reply permits either association or maturation for the other
-feelings where appropriate; it does not replace every karmic use
-of “experienced” with association.
+## 10. Review Status
 
-Distress is then classified as invariably productive of maturation.
-The text excludes indeterminate and without-outflow distress. It
-does not call distress invariably unwholesome or invariably afflicted:
-the next unit explicitly allows wholesome distress. Being distress,
-being karmically productive, and being ethically unwholesome are
-not interchangeable predicates.
+Fine-tuned with the kārikā. Domain withdrawn. The digression is kept and marked incidental. The two predicates stay apart.
 
-## 8. Translation Decisions and Source Limits
-
-*Upacayika* is rendered “arising through development,” distinguishing
-such material faculties from maturation-born instances. The neutral
-operational categories—deportment, craft, and magical creation—retain
-“as applicable”; the passage does not assign all modes to every faculty.
-
-The sentence about both sexual characteristics distinguishes the
-acquisition of a condition from the projection of the faculty.
-Its karmic explanation is preserved as a historical doctrinal claim,
-not expanded into a judgment about contemporary persons.
-
-The Sanskrit remains close to the running witness so that defects
-in this unusually long unit remain inspectable. The translation's
-most uncertain reconstructions concern Ghoṣaka's sentence and the
-impetus determining lifespan; these should receive priority in a
-future textual review. The existing research Bhāṣya omits the
-lifespan digression and therefore cannot alone establish this unit.
-
-## 9. Interpretation
-
-The Bhāṣya asks two separate questions: whether a Faculty-instance
-is itself maturation, and whether it produces maturation as its
-result. It distinguishes the direction of each relation and preserves
-their different partitions. In particular, distress is not *vipāka*
-but is *sa-vipāka*; the concentration-generated life-faculty is also
-an explicit qualification to the verse's opening generalization.
-
-The analysis depends on keeping the lifespan digression, the objections,
-and the Vaibhāṣika conclusion in view. The reasons offered for distress's
-classification are debated within the passage; they should not be
-summarized as if the first argument stood uncontested.
-
-The project crosswalk with Dhātu 1.48 connects Faculty-status to the
-Base–Essence–Principle architecture, while the Bhāṣya classifies
-instances according to maturation-provenance and future result.
-Location does not predetermine either karmic relation.
-
-Across the Kośa, Vijñāna is Discriminative Cognition joining Perception
-and Conception without reducing their unity to one homogeneous
-operation; it governs Mind and guides the reading of Dharma Base. The
-same *avijñapti* remains one content in the Form Base and Dharma Base
-classifications, and Vijñāna bears a *prati* relation to it. This
-cross-chapter synthesis is an Organon framework, not a claim made by
-this Bhāṣya.
-
-In a Kant-informed Techne reading, maturation-provenance and future
-result-producing capacity are distinct classification criteria. This
-is a project-level interpretation of the source's two questions, not
-a universal theory of causality or terminology supplied by the
-commentary.
-
-## 10. Textual and Scope Notes
-
-The omitted lifespan digression is restored in full, including the
-exception to life as maturation. The closing words from VAK 2.11's
-opening complete the ten-Faculty identification; its ethical-
-classification question remains reserved for that study. Defective
-readings and provisional construals are recorded above; no independent
-collation is claimed.
+2.11 has not been opened.

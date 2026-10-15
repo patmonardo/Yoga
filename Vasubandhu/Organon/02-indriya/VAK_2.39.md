@@ -1,4 +1,4 @@
-# VAK_2.39 — Non-Acquisition and Ordinary-Person Status
+# VAK_2.39 — Form, then Non-Acquisition
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -12,104 +12,93 @@
 >
 > akliṣṭāvyākṛtāprāptiḥ sātītājātayos tridhā // 2.39 //
 
-Its first half completes VAK 2.38's acquisition discussion. Its second half
-begins the classification of non-acquisition.
+The first half continues the rule of 2.38. The second opens non-acquisition. The boundary is kept, not renumbered. Akliṣṭāvyākṛtāprāptiḥ divides as unobscured-indeterminate non-acquisition. Not a positive acquisition.
 
 ## 3. Lexical Analysis
 
+| Pada | Force |
+|---|---|
+| nivṛtasya rūpasya | of obscured form |
+| kāme rūpasya | of form in the desire realm |
+| na agrajā | not prior-arisen |
+| aprāptiḥ | non-acquisition |
+| atīta-ajātayoḥ | of past and not-yet-arisen |
+| tridhā | threefold |
+
+Not-yet-arisen is future. Unobscured and indeterminate are two axes.
+
+## 4. Grammar
+
 ```text
-nivṛtasya ca        → nivṛtasya ca
-kāme rūpasya        → kāme rūpasya
-nāgrajā             → na agrajā
-akliṣṭāvyākṛtāprāptiḥ → akliṣṭa-avyākṛtā aprāptiḥ
-sātītājātayoḥ       → sā atīta-ajātayoḥ
-tridhā              → tri-dhā
+obscured-indeterminate manifest form
+    acquisition co-arisen only
+desire-realm form, manifest and nonmanifest
+    not prior
+    co-arisen and subsequent admitted
+non-acquisition
+    always unobscured-indeterminate
+past and future dharmas
+    non-acquisition past, present, or future
+present
+    the gloss at 66.04 is damaged
 ```
 
-| Pada | Morphology | Force in this passage |
+## 5. Translation
+
+### Literal Translation
+
+Of obscured form also. Of form in the desire realm, not prior-arisen. Non-acquisition is unobscured-indeterminate. Of past and not-yet-arisen, it is threefold.
+
+### Bhāṣya-informed study translation
+
+Acquisition of obscured-indeterminate manifest form arises only with that form. Desire-realm form has no acquisition before it occurs. Co-arisen and subsequent acquisition are admitted. Non-acquisition is always unobscured and indeterminate. It does not inherit the class of what is not possessed. On the provisional reading of the damaged gloss, non-acquisition of a present dharma is present only. Of a past or future dharma, past, present, or future.
+
+Nāratyaprāptiḥ is defective. Present-only is the reading taken. A denial of non-acquisition is the alternative, and is not adopted. Not a collation.
+
+## 6. Philosophical Translation
+
+Possession cannot precede every determination. Obscured manifest form leaves no credit before or after. Desire-realm form leaves a retained credit, and no advance credit. Reach is strength and history, not ethical class alone.
+
+Non-acquisition is typed. Not an indifferent nothing, and not a timeless false. Not a negative substance. The dispute of 2.36 still stands.
+
+Organon rendering:
+
+Fail, inside the range, is this typed negative. Not the verse. Not the final pass.
+
+## 7. Technical Vocabulary
+
+| Sanskrit | Running word | Determination |
 |---|---|---|
-| nivṛtasya | genitive singular | of obscured-indeterminate Form |
-| kāme | locative singular | in the Desire Principle |
-| rūpasya | genitive singular | of Form |
-| na agrajā | negation and adjective | not prior-arisen |
-| akliṣṭa-avyākṛtā | nominative feminine singular | unobscured and ethically indeterminate |
-| aprāptiḥ | nominative feminine singular | non-acquisition |
-| atīta-ajātayoḥ | genitive dual | of past and future Dharmas |
-| tridhā | adverb | threefold |
+| nivṛta | obscured | completed as obscured-indeterminate form |
+| agrajā | prior | excluded for desire-realm form |
+| aprāpti | non-acquisition | the second half |
+| akliṣṭa | unobscured | not the ethical axis |
+| ajāta | not yet arisen | future |
 
-## 4. Scientific English Rendering
-
-> Acquisition of obscured-indeterminate manifest Form is also co-arisen;
-> acquisition of Desire-Principle Form is not prior-arisen. Non-acquisition
-> is unobscured and ethically indeterminate; for past and future Dharmas it
-> is threefold.
-
-The Bhāṣya states that a present Dharma's non-acquisition is present on its
-provisional reading of the damaged source, while non-acquisition relative to
-past or future Dharmas may be past, present, or future.
-
-## 5. Interpretation
-
-Non-acquisition does not inherit the ethical kind of the Dharma not
-acquired. It is always unobscured-indeterminate, but remains temporally
-indexed and can be classified in any of the three Principle-ranges. No
-non-acquisition is itself uncontaminated.
-
-The Bhāṣya uses non-acquisition of noble Dharma to test ordinary-person
-status. A mere failure to possess every noble Dharma cannot be the rule:
-a Buddha does not thereby lack the lineage-specific Dharmas of disciples
-and solitary buddhas. The Sautrāntika account, which the text approves,
-defines ordinary-person status as a continuum in which noble Dharmas have
-not arisen.
-
-Vijñāna governs a continuum under this determination; ordinary-person
-status is not an immutable essence or moral insult. It is the specified
-absence of arisen noble Dharma and is therefore transformable.
-
-## 6. Logical Determination
+## 8. Logical Determination
 
 ```text
-Aprapti(S, D)
-    → EthicalKind = Indeterminate
-      and AfflictionClass = Unobscured
-
-DharmaTime(D) in {past, future}
-    → ApraptiTime(S, D) in {past, present, future}
-
-PrincipleRange(Aprapti(S, D))
-    in {Desire, Form, Formless}
+obscured manifest form
+    → co-arisen only
+desire-realm form
+    → co-arisen or subsequent
+    prior out
+non-acquisition
+    → unobscured and indeterminate
+present dharma
+    → present non-acquisition, provisional
+past or future
+    → three times
 ```
 
-```text
-Vaibhasika:
-    OrdinaryPersonStatus(S)
-      := RealNonAcquisition(S, NoblePath)
+## 9. Interpretive Note
 
-Sautrantika:
-    OrdinaryPersonStatus(S)
-      := NobleDharmasHaveNotArisen(S)
-```
+Realm classifications of non-acquisition, and ordinary-person status, are 2.40. The Buddha counterexample belongs there: absence of another lineage is not non-nobility.
 
-## 7. Interpretive Note
-
-The source's temporal gloss at 66.04 is damaged. The study provisionally
-reads it as present non-acquisition for a present Dharma, because that
-agrees with the feminine predicate and contrasts with the threefold
-past/future rule. It does not claim an independently collated emendation.
-
-## 8. OWL++ Seed
+## 10. OWL++ Seed
 
 ```ttl
 @prefix vak: <http://127.0.0.1:3000/vak#> .
-@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
-vak:VAK_2_39
-    a vak:Karika ;
-    rdfs:label "VAK 2.39" ;
-    vak:hasTopic vak:NonAcquisitionAndOrdinaryPersonStatus ;
-    vak:belongsTo vak:Indriyanirdesa .
-
-vak:NonAcquisition
-    vak:hasEthicalKind vak:Indeterminate ;
-    vak:hasAfflictionClass vak:Unobscured .
+vak:VAK_2_39 a vak:Karika ; vak:hasTopic vak:NonAcquisitionTyped .
 ```

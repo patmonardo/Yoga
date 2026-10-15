@@ -1,4 +1,4 @@
-# VAK_2.05 — The Scope of the Faculty Enumeration
+# VAK_2.05 — As Far As That
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -14,235 +14,123 @@
 
 ## 3. Lexical Analysis
 
-```text
-cittāśrayaḥ      → citta-āśrayaḥ
-tadvikalpaḥ      → tad-vikalpaḥ
-saṃkleśaḥ eva    → saṃkleśaḥ eva
-saṃbhāraḥ        → saṃbhāraḥ
-yāvatā tāvat     → yāvatā tāvat
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
-| citta | compound member | mind; the conditioned cognitive continuum |
-| āśrayaḥ | nominative masculine singular | support or basis |
-| tad | compound member, pronoun | its; referring to the fundamental living constitution |
-| vikalpaḥ | nominative masculine singular | differentiation or articulated division |
-| sthitiḥ | nominative feminine singular | persistence or continued standing |
-| saṃkleśaḥ | nominative masculine singular | defilement or afflicted entanglement |
-| eva | restrictive-emphatic particle | precisely / indeed |
-| saṃbhāraḥ | nominative masculine singular | equipment, provision, preparatory resources |
-| vyavadānam | nominative neuter singular | purification or clarification itself |
-| ca | conjunction | and |
-| yāvatā ... tāvat | correlative adverbs | insofar as / precisely so far |
-| indriyam | nominative neuter singular | faculty-status or the class of faculties |
+| citta-āśrayaḥ | nominative | support of mind |
+| tad-vikalpaḥ | nominative | its differentiation |
+| sthitiḥ | nominative | persistence |
+| saṃkleśaḥ eva | nominative | defilement |
+| saṃbhāraḥ | nominative | equipment |
+| vyavadānam | nominative | purification |
+| yāvatā tāvat | correlative | as far as that, so far |
+| indriyam | nominative | faculty |
 
-`Vikalpa` here means differentiation of the living constitution into female
-and male configurations, not an act of discursive thought.
+Vikalpa here is female and male differentiation of the living basis. It is not concept, and it is not imagination.
 
 ## 4. Grammar
 
-The first line and first half of the second enumerate six functions:
+The objection: if faculty follows from governing efficacy, add ignorance, and add speech, hand, foot, anus, and genital organ.
+
+The verse limits the count:
 
 ```text
 citta-āśraya
-    support of consciousness
+    the six
 
 tad-vikalpa
-    differentiation of that [living basis]
+    female and male
 
 sthiti
-    persistence
+    life
 
 saṃkleśa
-    defilement
+    the five feelings
 
 saṃbhāra
-    equipment for purification
+    the five, provision for purification
 
 vyavadāna
-    purification itself
+    the three
+
+yāvatā tāvat indriyam
+    so far, and no supplementary inclusion
 ```
 
-The correlative construction gives the limit:
+Iha, here, is the limit. Efficacy outside these six is not denied. It is not counted.
 
-```text
-yāvatā ... tāvat indriyam
-    insofar as these functions extend,
-    precisely so far does faculty-status extend
-```
+## 5. Translation
 
-The Bhāṣya distributes the twenty-two faculties exhaustively:
+### Literal Translation
 
-```text
-six Faculties              → citta-āśraya
-Female and Male Faculties  → tad-vikalpa
-Life Faculty               → sthiti
-five feelings              → saṃkleśa
-five beginning with faith  → vyavadāna-saṃbhāra
-three path-knowledge       → vyavadāna
-```
+Support of mind, its differentiation, persistence, and defilement; equipment and purification: as far as that, so far faculty.
 
-The verse therefore restricts the extension of `indriya`; it does not merely
-repeat the preceding enumeration.
+### Bhāṣya-informed study translation
 
-## 5. Scientific English Rendering
+If faculty followed from governing efficacy alone, ignorance and the rest would have to be added, since they govern formations and the rest. Speech, hand, foot, anus, and genital organ would have to be added, since they govern speaking, taking hold, moving about, excretion, and pleasure.
 
-### Kārikā
+They are not to be added. What is intended here is the verse. The six faculties are the support of mind. This sixfold āyatana is the fundamental constitution of a living being. Its female and male differentiation is by the female and male faculties. Its persistence is by the life-faculty. Its defilement is by the feelings. Provision for purification is by the five. Purification is by the three. Therefore ignorance and the rest are not accepted as faculties.
 
-> Support of consciousness, its differentiation, persistence, defilement, equipment, and purification: precisely insofar as these extend, so far does Faculty-status extend.
+## 6. Philosophical Translation
 
-### Bhāṣya-informed rendering
+Governing efficacy was the predicate. It is not the membership. Faculty extends exactly through six functions: support of mind, differentiation of that basis, persistence, defilement, equipment for purification, purification itself. Twenty-two fill those six. Ignorance governs, and the action-powers govern. They are not in the count.
 
-> The six Faculties support consciousness and constitute the fundamental basis of the living being; the Female and Male Faculties differentiate that basis; the Life Faculty sustains it; the five feelings govern its defilement; the five beginning with confidence equip it for purification; and the three realization Faculties effect purification itself. The Faculty-classification extends to these stated governing functions and no further.
+Organon rendering:
 
-## 6. Interpretation
-
-The Bhāṣya's reply limits the enumeration without denying the causal
-efficacy of the excluded candidates. Faculty-status here requires both
-governing efficacy and assignment to one of the six functions: support
-of consciousness, differentiation, persistence, defilement, provision
-for purification, or purification itself.
-
-In the Kant-informed Techne, the list defines the scope of a determinate
-classification rather than an exhaustive inventory of every cause or
-capacity. The project crosswalk with VAK 1.48 locates the Faculties in
-their Base–Essence–Principle relations; this verse explains which
-functions the twenty-twofold Faculty-classification includes. Indriyanirdeśa
-is a practical instance of Citta, not a general theory of mind. This is
-a project-level interpretation, not terminology supplied by the Bhāṣya.
-
-Across the Kośa, Vijñāna is Discriminative Cognition joining Perception
-and Conception without reducing their unity to one homogeneous
-operation; it governs Mind and guides the reading of Dharma Base. The
-same *avijñapti* remains one content in the Form Base and Dharma Base
-classifications, and Vijñāna bears a *prati* relation to it. This wider
-synthesis frames, but is not stated in full by, this verse.
+The principle is the membership discriminator: these six, and no further. The rules are the six functions. The victim traverses only the path they define. Defilement and purification remain the Kośa Path. The five equip it. The three effect it. Not the verse English.
 
 ## 7. Technical Vocabulary
 
-| Sanskrit | Project rendering | Determination |
+| Sanskrit | Running word | Determination |
 |---|---|---|
-| citta-āśraya | support of consciousness | role of the six sensory-and-Mind Faculties |
-| ṣaḍāyatana | sixfold Essence-system | concrete basis constituted by the six faculties |
-| maula-sattva-dravya | fundamental real constitution of a living being | Bhāṣya's description of the sixfold basis |
-| tad-vikalpa | its differentiation | female and male differentiation of the living basis |
-| sthiti | persistence | governed by the Life Faculty |
-| saṃkleśa | defilement | governed through the five feelings |
-| saṃbhāra | equipment / provision | five Faculties preparing purification |
-| vyavadāna-saṃbharaṇa | provision for purification | exact Bhāṣya function of the five beginning with confidence |
-| vyavadāna | purification itself | effected by the three path Faculties |
-| yāvatā tāvat | insofar as, precisely so far | establishes exact functional scope |
-| upasaṃkhyāna | supplementary inclusion | demand that additional causal powers be counted |
-| avidyā | ignorance | causally powerful but not a separate faculty-function here |
-| vāc | speech | proposed action-faculty rejected from this system |
-| pāṇi | hand | proposed grasping-faculty rejected from this system |
-| pāda | foot | proposed locomotion-faculty rejected from this system |
-| pāyu | anus | proposed excretion-faculty rejected from this system |
-| upastha | sexual organ | proposed pleasure-faculty rejected from this system |
+| citta-āśraya | support of mind | the six |
+| ṣaḍāyatana | sixfold āyatana | fundamental constitution of a living being |
+| maulaṃ sattva-dravya | fundamental constitution | the commentary's phrase; not a substance thesis |
+| tad-vikalpa | its differentiation | female and male; not concept |
+| saṃbhāra | equipment | the five; provision, not inert |
+| vyavadāna | purification | the three |
+| yāvatā tāvat | as far as that, so far | the membership limit |
+| upasaṃkhyāna | supplementary inclusion | what is refused |
+| avidyā | ignorance | governs; not a faculty here |
+| vāk, pāṇi, pāda, pāyu, upastha | speech, hand, foot, anus, genital organ | proposed; excluded |
 
 ## 8. Logical Determination
 
-The objector exposes the overgeneration problem:
-
 ```text
-If:
-    PredominantCausalPower(x, function)
-        → Indriya(x)
+governing efficacy
+    ↛ faculty in this enumeration
 
-Then:
-    Ignorance → faculty governing formations
-    Speech    → faculty governing speaking
-    Hand      → faculty governing grasping
-    Foot      → faculty governing locomotion
-    Anus      → faculty governing excretion
-    Genitals  → faculty governing pleasure
+faculty here
+    ↔ assigned to one of the six
+
+six
+    → support of mind
+female, male
+    → differentiation
+life
+    → persistence
+five feelings
+    → defilement
+five beginning with faith
+    → provision for purification
+three
+    → purification
+
+ignorance, speech, hand, foot, anus, genital organ
+    → govern
+    ↛ counted
 ```
 
-The Kārikā adds a second necessary condition:
-
-```text
-IndriyaInThisEnumeration(x)
-    ↔ PredominantGoverningEfficacy(x)
-    ∧ AssignedToAFunctionNamedHere(x)
-```
-
-The named functions are:
-
-```text
-EnumeratedFunction
-    = {MindSupport,
-       LivingDifferentiation,
-       Persistence,
-       Defilement,
-       PurificationEquipment,
-       Purification}
-```
-
-The mapping is:
-
-```text
-SixFaculties
-    → MindSupport
-
-FemaleMaleFaculties
-    → LivingDifferentiation
-
-LifeFaculty
-    → Persistence
-
-FiveFeelings
-    → Defilement
-
-FivePurificatoryPreparations
-    → PurificationEquipment
-
-ThreePathKnowledgeFaculties
-    → Purification
-```
-
-Therefore:
-
-```text
-CausallyEffective(x)
-    ↛ IndriyaInThisEnumeration(x)
-
-PredominantlyEffective(x)
-    ↛ IndriyaInThisEnumeration(x)
-
-NotAssignedToANamedFunction(x)
-    → NotCountedHereAsIndriya(x)
-```
-
-The Bhāṣya names no external school in this exchange. Its own contrast is
-between the proposed additions and the functions assigned within this
-twenty-twofold Faculty-classification.
+Six plus two plus one plus five plus five plus three. The genital organ proposed for pleasure is not the female and male faculties of 2.02. The relation differs.
 
 ## 9. Interpretive Note
 
-VAK 2.05 completes the distinction established in 2.01–2.04. Even
-*ādhipatya*, governing efficacy, does not by itself settle inclusion:
-the objection supplies further instances, while the reply confines this
-enumeration to the functions named in the verse and its Bhāṣya:
+2.01 gave the predicate. 2.02 narrowed it to apprehension. 2.03 and 2.04 filled defilement and purification. This verse stops the count.
 
-```text
-support of consciousness → differentiation → persistence
-    → defilement → provision for purification → purification
-```
+The objector is right that ignorance governs formations, and that speech and the four govern their acts. The reply does not deny that. Iha bounds the enumeration. Sāṃkhya counts action-faculties of this kind. This passage does not name Sāṃkhya. The designs differ. The twenty-two are not a fuller list of those faculties.
 
-The count is six plus two plus one plus five plus five plus three,
-accounting for the twenty-two Faculties. The limitation is local:
-*iha*, “here,” marks what this enumeration intends, not a denial that
-the excluded factors have causal efficacy. In a Kant-informed Techne
-reading, the stated functions provide a rule for determining membership
-in this classification; they do not claim to inventory every power of
-a living being or establish a sequence of temporal stages.
+The five are provision. They are not inert: 2.03 already has them check and draw the path. The three are purification itself. 2.04 already split them into seeing, cultivation, and one who has known. No chronology in which the five stop before the three begin.
 
-The project crosswalk with Dhātu 1.48 remains reciprocal: that study
-locates Faculty-status within Base–Essence–Principle relations, while
-this verse explains the functions served by the included Faculties.
-Neither account makes every knowable Essence or effective cause a
-Faculty.
+Organon reading: membership is the discriminator. The six rules define the path. The victim traverses that path and not the powers left outside it. Not the verse English.
 
 ## 10. OWL++ Seed
 
@@ -254,37 +142,17 @@ Faculty.
 vak:VAK_2_05
     a vak:Karika ;
     rdfs:label "VAK 2.05" ;
-    vak:hasTopic vak:FunctionalLimitOfTwentyTwoFaculties ;
+    vak:hasTopic vak:MembershipLimit ;
     vak:belongsTo vak:Indriyanirdesa .
 
-vak:Indriya
-    vak:requires vak:PredominantGoverningEfficacy,
-        vak:EnumeratedFunction .
+vak:Indriya vak:requires vak:AssignedFunction .
+vak:AssignedFunction vak:hasMembers vak:MindSupport,
+    vak:Differentiation, vak:Persistence, vak:Defilement,
+    vak:Provision, vak:Purification .
+vak:Ignorance vak:notIncludedIn vak:TwentyTwoIndriyas .
+vak:Speech vak:notIncludedIn vak:TwentyTwoIndriyas .
 
-vak:EnumeratedFunction
-    vak:hasMembers vak:ConsciousnessSupport,
-        vak:LivingDifferentiation,
-        vak:Persistence,
-        vak:Defilement,
-        vak:PurificationEquipment,
-        vak:Purification .
-
-vak:SixFaculties vak:governs vak:ConsciousnessSupport .
-vak:FemaleMaleFaculties vak:governs vak:LivingDifferentiation .
-vak:LifeFaculty vak:governs vak:Persistence .
-vak:FiveFeelings vak:governs vak:Defilement .
-vak:PurificatoryFive vak:governs vak:PurificationEquipment .
-vak:ThreePathKnowledgeFaculties vak:governs vak:Purification .
-
-vak:Speech,
-vak:Hand,
-vak:Foot,
-vak:Anus,
-vak:SexualOrgan
-    vak:hasCausalEfficacy true ;
-    vak:notIncludedIn vak:TwentyTwoIndriyas .
-
-organon:KosaIndriyaInterface
-    a organon:FunctionallyCompleteTechne ;
-    organon:completeOnlyFor vak:SixEnumeratedFunctions .
+organon:MembershipDiscriminator
+    organon:bounds vak:TwentyTwoIndriyas ;
+    organon:notTheVerseEnglish true .
 ```

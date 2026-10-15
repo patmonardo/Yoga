@@ -3,26 +3,15 @@
 ## 1. Kārikā Anchor
 
 > caturṣv artheṣu pañcānām ādhipatyaṃ dvayoḥ kila /
-> caturṇāṃ pañcakāṣṭānāṃ saṃkleśavyavadānayoḥ // 2.01 //
+> caturṇāṃ pañcakasyāṣṭānāṃ saṃkleśavyavadānayoḥ // 2.01 //
 
-> The five have governing efficacy with respect to four functions;
-> the four, it is said, with respect to two. The fivefold group and
-> the eight have governing efficacy with respect to defilement and
-> purification, respectively.
+> Of the five, governing efficacy with respect to four meanings; of the four, indeed, with respect to two; of the fivefold and of the eight, with respect to defilement and purification.
 
-The Bhāṣya identifies the groups and supplies the distributive force:
-each of the first five governs four functions, and each of the following
-four governs two. Here *dvayoḥ* is locative, continuing *artheṣu*;
-it does not introduce an additional group of two Faculties.
+The Bhāṣya identifies the groups and supplies the distributive force: each of the first five governs four meanings, and each of the following four governs two. Here dvayoḥ is locative, continuing artheṣu. It does not introduce an additional group of two faculties.
 
-The anchor retains the research witness's *pañcakāṣṭānām*, with
-*caturṇṇām* regularized to *caturṇām*. The existing Organon kārikā
-study expands the former to *pañcakasyāṣṭānām*. That expansion is
-not required here: the prose explicitly distinguishes the fivefold
-group from the eight. The English rendering preserves that distinction
-without replacing the Bhāṣya's witness form.
+The research witness compresses pañcakāṣṭānām. The kārikā study expands it to pañcakasyāṣṭānām, because the prose distinguishes the fivefold group from the eight. The anchor follows the study.
 
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
 > uktānīndriyāṇi / kaḥ punar indriyārthaḥ / "idi paramaiśvarye" /
 > tasya indantīti indriyāṇi / ata ādhipatyārtha indriyārthaḥ /
@@ -44,8 +33,8 @@ without replacing the Bhāṣya's witness form.
 > tatra sattvabhedaḥ strī puruṣa iti /
 > sattvavikalpaḥ stanādisaṃsthānasvarācārānyathātvam /
 > saṃkleśavyavadānayor ity apare / tathā hi
-> tadviprayuktavikalpānāṃ ṣaṇḍhapaṇḍakobhayavyañjanānām
-> asaṃvarānantāryakuśalamūlasamucchedā na bhavanti
+> tadviprayuktavikalpānāṃ ṣaṇḍha paṇḍakobhayavyañjanānām
+> asaṃvarānantaryākuśalamūlasamucchedā na bhavanti
 > saṃvaraphalaprāptivairāgyāṇi ceti /
 > jīvitendriyasya nikāyasabhāgasaṃbandhasādhāraṇayoḥ /
 > manaindriyasya punarbhavasaṃbandhavaśibhāvānuvarttanayoḥ /
@@ -56,251 +45,85 @@ without replacing the Bhāṣya's witness form.
 >
 > yat punaḥ sukhādīndriyapañcakaṃ yāni cāṣṭau śraddhādīni teṣāṃ /
 > pañcakāṣṭānāṃ saṃkleśavyavadānayoḥ // 2.01 //
-> ādhipatyaṃ yathākramaṃ pañcānāṃ sukhādīnāṃ saṃkleśe /
+> ādhipatyaṃ yathākramaṃ pañcānāṃ sukhādīnāṃ saṃkleṣe /
 > rāgādīnāṃ tadanuśāyitvāt / śraddhādīnāṃ vyavadāne /
 > tair vyavadāyate / vyavadāne 'pi sukhādīnām ādhipatyam ity apare /
 > "yasmāt sukhitasya cittaṃ samādhīyate" /
 > duḥkhopaniṣac chraddhā ṣaṇ naiṣkramyāśritāḥ saumanasyādaya
 > iti vaibhāṣikāḥ /
 
-The unit runs from printed 38.03 through the Vaibhāṣika statement
-at 39.02–03 in `Vasubandhu/Sources/kosabhasya.txt`. The preceding
-*oṃ namo buddhāya* is a chapter invocation. The next *apare punar āhuḥ*
-opens the objection retained with VAK 2.02 in the research sequence.
-The present study stops before that objection.
+The unit runs from printed 38.03 through the Vaibhāṣika statement at 39.02–03 in `Vasubandhu/Sources/kosabhasya.txt`. The preceding oṃ namo buddhāya is a chapter invocation. The next apare punar āhuḥ opens the objection retained with VAK 2.02. This study stops before that objection.
 
-Word division and punctuation are editorial. Mechanical repairs include
-*arthev* → *artheṣv*, *śāravaṇa* → *śravaṇa*, *spaṛśana* → *sparśana*,
-*puruśendriyayyos* → *puruṣendriyayos*, *stri* → *strī*,
-*saṃsleśa* → *saṃkleśa*, *kuāśalamula* → *kuśalamūla*,
-*punrbhava* → *punarbhava*, and *tai rvyavadāyate* → *tair vyavadāyate*.
-The quoted final *ve* is read as *vā* before *iti*; the embedded verse's
-*aṣṭānaṃ* is regularized to *aṣṭānāṃ* following the kārikā witness.
+Word division and punctuation are editorial. Mechanical repairs include arthev → artheṣv, śāravaṇa → śravaṇa, spaṛśana → sparśana, puruśendriyayyos → puruṣendriyayos, stri → strī, saṃsleśa → saṃkleśa, kuāśalamula → kuśalamūla, punrbhava → punarbhava, and tai rvyavadāyate → tair vyavadāyate. The quoted final ve is read as vā before iti. The embedded verse's aṣṭānaṃ is regularized to aṣṭānāṃ.
 
-Three places require more than mechanical correction. The difficult
-*tadviprayuktavikalpānām* is retained; its precise internal construal
-remains provisional. The Life Faculty's *saṃbandhasādhāraṇayoḥ* is also
-retained, although “connection and maintenance” is the research study's
-working interpretation; the second member is not secure as transmitted.
-Finally, the damaged *duḥdhupaniṣacchraddhāṣaṇnaiṣkramyāśritāḥ* is
-provisionally read as *duḥkhopaniṣac chraddhā ṣaṇ naiṣkramyāśritāḥ*.
-This yields faith conditioned by suffering and six renunciation-based
-forms of gladness and so forth. No independent collation is claimed.
+Three places require more than mechanical correction. The difficult tadviprayuktavikalpānām is retained; its internal construal remains provisional. The life-faculty's saṃbandhasādhāraṇayoḥ is retained; connection and maintenance is the working interpretation, and the second member is not secure. The damaged duḥdhupaniṣacchraddhāṣaṇnaiṣkramyāśritāḥ is provisionally read as duḥkhopaniṣac chraddhā ṣaṇ naiṣkramyāśritāḥ: faith conditioned by suffering, and six renunciation-based forms of gladness and so forth. No independent collation is claimed.
 
-## 3. Scientific English Rendering
+## 3. Continuous Conventional Translation
 
-The Faculties have been stated. But what is the meaning of “Faculty”?
-The verbal root *idi* is given in the sense of supreme lordship.
-From this, those that exercise lordship are called Faculties.
-Thus the meaning of “Faculty” is governing efficacy. Which of these
-has governing efficacy, and with respect to what?
+The faculties have been stated. But what is the meaning of faculty? The verbal root idi is given in the sense of supreme lordship. From this, those that exercise lordship are called faculties. Thus the meaning of faculty is governing efficacy. Which of these has governing efficacy, and with respect to what?
 
-“The five have governing efficacy with respect to four functions.”
-First, the eye and ear each have governing efficacy with respect to
-four functions: the attractiveness of embodied existence, because
-the blind and deaf are said to lack an attractive appearance;
-the preservation of embodied existence, because dangers are avoided
-after being seen or heard; the arising of visual and auditory
-Cognition together with their associated factors; and being the
-specific causes of seeing visible Form and hearing sound. For the
-nose, tongue, and body, attractiveness of embodied existence is
-explained as before. They preserve embodied existence because
-material food is consumed through them; they govern the arising
-of olfactory and the other corresponding Cognitions together with
-their associated factors; and they are the specific causes of
-smelling odors, tasting flavors, and touching tangibles.
+The five have governing efficacy with respect to four meanings. First, the eye and ear each have governing efficacy with respect to four meanings: the attractiveness of embodied existence, because the blind and deaf are said to lack an attractive appearance; the preservation of embodied existence, because dangers are avoided after being seen or heard; the arising of visual and auditory cognition together with their associated factors; and being the specific causes of seeing visible form and hearing sound. For the nose, tongue, and body, attractiveness of embodied existence is explained as before. They preserve embodied existence because material food is consumed through them. They govern the arising of olfactory and the other corresponding cognitions together with their associated factors. They are the specific causes of smelling odors, tasting flavors, and touching tangibles.
 
-“The four, it is said, with respect to two”: the Female, Male, Life,
-and Mind Faculties each have governing efficacy with respect to two
-functions. First, the Female and Male Faculties govern the distinction
-and differentiation of living beings. Here distinction means “female”
-and “male”; differentiation means differences in the configuration
-of breasts and so forth, voice, and conduct. Others say that their
-governing efficacy concerns defilement and purification. For beings
-lacking these determinations or having them defectively—the classes
-called *ṣaṇḍha*, *paṇḍaka*, and those with both sexual characteristics—
-there is, according to this account, neither non-restraint, action
-with immediate retribution, nor severance of wholesome roots;
-nor are there restraint, attainment of fruits, or dispassion.
+The four, it is said, with respect to two: the female, male, life, and mind faculties each have governing efficacy with respect to two meanings. First, the female and male faculties govern the distinction and differentiation of living beings. Here distinction means female and male. Differentiation means differences in the configuration of breasts and so forth, voice, and conduct. Others say that their governing efficacy concerns defilement and purification. For beings lacking these determinations or having them defectively — the classes called ṣaṇḍha, paṇḍaka, and those with both sexual characteristics — there is, according to this account, neither non-restraint, action with immediate retribution, nor severance of wholesome roots; nor are there restraint, attainment of fruits, or dispassion.
 
-The Life Faculty governs connection with and maintenance of the
-homogeneous class of living beings. The Mind Faculty governs
-connection with renewed existence and the continuation of mastery.
-Regarding connection with renewed existence, it is said: “At that
-time, one or the other of two states of consciousness becomes present to the
-gandharva: one accompanied by attraction or one accompanied by
-aversion.” Regarding the continuation of mastery, it is said:
-“This world is led by consciousness,” and so forth.
+The life-faculty governs connection with and maintenance of the homogeneous class of living beings. The mind-faculty governs connection with renewed existence and the continuation of mastery. Regarding connection with renewed existence, it is said: at that time, one or the other of two states of mind becomes present to the gandharva, one accompanied by attraction or one accompanied by aversion. Regarding the continuation of mastery, it is said: this world is led by mind, and so forth.
 
-As for the fivefold group of Faculties beginning with pleasure and
-the eight beginning with faith, “the fivefold group and the eight
-have governing efficacy with respect to defilement and purification.”
-Respectively, the five beginning with pleasure govern defilement,
-because attachment and the other afflictions lie latent in relation
-to them. Those beginning with faith govern purification, for through
-them one is purified. Others say that pleasure and the other feelings
-also have governing efficacy with respect to purification, “because
-the consciousness of one who is happy becomes concentrated.” The Vaibhāṣikas
-say: faith has suffering as its supporting condition; there are six
-renunciation-based forms of gladness and so forth.
+As for the fivefold group of faculties beginning with pleasure and the eight beginning with faith: the fivefold group and the eight have governing efficacy with respect to defilement and purification. Respectively, the five beginning with pleasure govern defilement, because attachment and the other afflictions lie latent in relation to them. Those beginning with faith govern purification, for through them one is purified. Others say that pleasure and the other feelings also have governing efficacy with respect to purification, because the mind of one who is happy becomes concentrated. The Vaibhāṣikas say: faith has suffering as its supporting condition; there are six renunciation-based forms of gladness and so forth.
 
-The Life Faculty sentence and the final Vaibhāṣika statement follow
-the provisional construals recorded above. The descriptions of bodily
-appearance and the exclusions concerning sexual classifications are
-claims of the transmitted account. The technical categories *ṣaṇḍha*
-and *paṇḍaka* are retained rather than assigned exact modern equivalents.
+The life-faculty sentence and the final Vaibhāṣika statement follow the provisional construals recorded above. The descriptions of bodily appearance and the exclusions concerning sexual classifications are claims of the transmitted account. Ṣaṇḍha and paṇḍaka are retained rather than assigned modern equivalents.
 
 ## 4. Movement and Voices of the Commentary
 
-The opening “the Faculties have been stated” resumes the twenty-two
-Faculties mapped into the Principles at the end of Chapter 1. Their
-enumeration is available; what now requires explanation is their
-common designation and its application to each group.
+The opening, the faculties have been stated, resumes the twenty-two faculties mapped at the close of the Principles. Their enumeration is available. What now requires explanation is their common designation, and its application to each group.
 
-The inquiry moves from the meaning of *indriya* to the governing
-relation, then distributes that relation across bodily, cognitive,
-affective, and purificatory functions. The etymology introduces the
-criterion; the ensuing explanations must show where it operates.
+The inquiry moves from the meaning of indriya to the governing relation, then distributes that relation across embodied life, cognition, distinction, continuity, feeling, and purification. The etymology introduces the predicate. The explanations show where it operates.
 
-The text twice reports “others”: first concerning the female and
-Male Faculties, then concerning feeling's role in purification.
-Only the final statement explicitly names the Vaibhāṣikas. The
-scriptural quotations about consciousness and concentration serve as reasons
-within these explanations. Neither unnamed alternative is assigned
-to a school here, and the whole passage should not be flattened
-into an uninterrupted statement of Vasubandhu's settled position.
+The text twice reports others: first concerning the female and male faculties, then concerning feeling's role in purification. Only the final statement names the Vaibhāṣikas. The quotations about mind and concentration serve as reasons inside these explanations. Neither unnamed alternative is assigned to a school here. The passage is not flattened into one settled position of Vasubandhu.
 
-## 5. Four Functions of the Sensory Five
+## 5. Four Meanings of the Five
 
-The initial sensory account distinguishes bodily attractiveness,
-preservation, the production of Cognition with associated factors,
-and the Faculty's specific causal role in its sensory operation.
-Preservation itself has two explanations: the eye and ear enable
-avoidance of danger, while the nose, tongue, and body enable the
-consumption of material food.
+The sensory account distinguishes attractiveness, preservation, the arising of cognition with associated factors, and the faculty's specific causal role. Preservation itself has two explanations. The eye and ear enable avoidance of danger. The nose, tongue, and body enable consumption of material food.
 
-The distinction between Cognition and its associated factors matters.
-*Sasaṃprayoga* includes the factors associated with Cognition;
-it does not identify them with the Faculty that conditions its arising.
-Likewise, the assertion of a specific cause concerns the relation
-between a particular Faculty and its operation. It does not establish
-that the Faculty alone is sufficient to produce that operation.
+Sasaṃprayoga includes the factors associated with cognition. It does not identify them with the faculty that conditions its arising. The specific cause is a relation between a faculty and its operation. It does not establish that the faculty alone is sufficient.
 
-This is the fourfold account being expounded at this point. The next
-unit questions its separation of functions. Its present articulation
-must therefore be preserved without presenting the count of four as
-the uncontested final explanation of sensory Faculty-status.
+This is the fourfold account at this point. The next unit questions its separation. The count of four is not presented as the uncontested final explanation.
 
 ## 6. Differentiation, Life, and Mind
 
-The four Faculties share a count of two functions, not a single pair
-of functions. Female and Male Faculties are first explained through
-*sattvabheda* and *sattvavikalpa*: distinction as female or male and
-the differentiated configuration of the living being. Here *vikalpa*
-does not name a separate act of conceptual imagining; the text
-specifies bodily configuration, voice, and conduct.
+The four faculties share a count of two, not a single pair. Female and male are first explained through sattvabheda and sattvavikalpa: distinction as female or male, and the differentiated configuration of the living being. Here vikalpa does not name a separate act of conceptual imagining. The text specifies configuration, voice, and conduct.
 
-The alternative explanation appeals to defilement and purification.
-Its examples concern particular capacities within the ancient
-classification: non-restraint and restraint, immediate-retribution
-action, severance of wholesome roots, attainment of fruits, and
-dispassion. Its denial of these specific determinations should not
-be expanded into a denial of every wholesome or unwholesome state.
+The alternative appeals to defilement and purification. Its examples are particular capacities in the ancient classification: non-restraint and restraint, immediate-retribution action, severance of wholesome roots, attainment of fruits, and dispassion. The denial of these determinations is not a denial of every wholesome or unwholesome state.
 
-Life and Mind must also remain distinct. The Life Faculty's difficult
-phrase concerns *nikāyasabhāga*, membership in a homogeneous class
-of living beings. The Mind Faculty is related to renewed existence
-and directive mastery. The first scriptural quotation specifies an
-affectively qualified state of consciousness; the second states that
-consciousness leads the world. Neither quotation makes consciousness
-an independent creator of the
-world, and the uncertainty in the life-faculty reading should not
-be concealed by a general claim that both Faculties “sustain life.”
+Life and mind remain distinct. The life-faculty's difficult phrase concerns nikāyasabhāga, membership in a homogeneous class. The mind-faculty is related to renewed existence and directive mastery. The first quotation specifies an affectively qualified state of mind. The second states mind's leading role. Neither makes mind an independent creator of the world. The uncertainty in the life-faculty reading is not concealed by a claim that both faculties sustain life.
 
 ## 7. Feeling, Defilement, and Purification
 
-The final distribution is explicit: *yathākramam*, respectively.
-The five feelings govern defilement; the eight beginning with faith
-govern purification. Their governing functions are explained through
-relations: afflictions lie latent in dependence on feeling, and
-purification occurs through the eight.
+The final distribution is explicit: yathākramam, respectively. The five feelings govern defilement. The eight beginning with faith govern purification. Afflictions lie latent in relation to feeling. Purification occurs through the eight.
 
-The first explanation does not identify feeling itself with affliction.
-Nor does the distribution establish that feelings cannot participate
-in purification. The ensuing alternative expressly argues that they
-do: happiness supports concentration. The Vaibhāṣika statement then
-invokes suffering as a condition of faith and gladness and other
-feelings based on renunciation.
+The first explanation does not identify feeling with affliction. Nor does the distribution establish that feelings cannot participate in purification. The alternative argues that they do: happiness supports concentration. The Vaibhāṣika statement then invokes suffering as a condition of faith, and gladness and other feelings based on renunciation.
 
-The damaged final sentence is too compressed to establish a complete
-chain of conditions or a precise allocation of all sixfold sets.
-What remains intelligible is the argumentative qualification:
-feeling's role changes with the relation in which it operates.
-“Defilement” and “purification” name processes whose conditions must
-be examined, rather than two inventories between which every item
-is separated absolutely.
+The damaged final sentence is too compressed for a complete chain. What remains intelligible is the qualification: feeling's role changes with the relation in which it operates. Defilement and purification name processes, not two inventories with an absolute cut.
 
 ## 8. The Bhāṣya's Decisions for Translation
 
-*Indriya* is rendered “Faculty,” and *ādhipatya* “governing efficacy.”
-Keeping them distinct preserves the explanation: a Faculty bears
-that designation because of its governing role. The root gloss
-*paramaiśvarya* supplies “supreme lordship” in the etymological
-sentence; it does not require every Faculty to be an absolute ruler.
+Indriya is faculty. Ādhipatya is governing efficacy. The root gloss paramaiśvarya supplies supreme lordship in the etymological sentence. It does not make every faculty an absolute ruler.
 
-*Artha* in “four functions” and “two functions” denotes the matters
-with respect to which governance is exercised. Translating it
-uniformly as sensory “object” would obscure bodily preservation,
-life, and the other functions actually listed.
+Artha stays meaning. The commentary assigns the matters with respect to which governance is exercised. Function reports that assignment. It is not the English of artha. Object would hide preservation, life, and the rest.
 
-*Ātmabhāvaśobhā* is translated “attractiveness of embodied existence.”
-The smoother “bodily integrity” would soften the source's explicit
-aesthetic judgment. *Parikarṣaṇa* is rendered “preservation,” following
-its examples of avoiding danger and consuming food.
+Ātmabhāvaśobhā is attractiveness of embodied existence. Bodily integrity would soften the source's aesthetic judgment. Parikarṣaṇa is preservation, following avoidance of danger and consumption of food.
 
-The particle *kila* remains “it is said.” It marks the reported account
-without settling by itself the exact degree of the author's distance.
-“Principally,” useful in analysis of the feeling group, is not inserted
-into the verse as though it were an expressed Sanskrit qualifier.
+Kila remains it is said. Principally is not inserted into the verse.
 
-## 9. Interpretation
+## 9. Organon Reading
 
-VAK 1.48 establishes the Principle classification and Faculty-incidence;
-this passage explains the common criterion of Faculty-status:
-*ādhipatya*, governing efficacy with respect to specified functions.
-The sensory operations, the distinct functions of Female, Male, Life,
-and Mind, and the assignments of feeling and the Faculties beginning
-with faith remain differentiated within that shared relation.
+VAK 1.48 locates faculty in the principles: a portion of the dharma-principle, and the twelve internal. This passage says why the mapped items bear the name. The criterion is ādhipatya.
 
-**Kant-informed Techne.** The verse's rule is functional and relational:
-a Faculty is determined through its efficacy with respect to a function.
-This is a project-level account of how the practical system is organized,
-not a claim that the Sanskrit text names Kant or that the faculties are
-timeless substances. Dhātu (Principle) and Indriya (Faculty) are reciprocal
-but non-interchangeable determinations; the relation is not an itemwise
-bijection between eighteen Principles and twenty-two Faculties.
+The principles give locus, field, or portion. The faculty gives governing efficacy. Neither side alone is the operative relation. A principle is not a faculty. A faculty is not a second count of the eighteen.
 
-**System-level synthesis.** Across the Kośa, Vijñāna is Discriminative
-Cognition joining and governing Perception and Conception; their unity is
-not homogeneous, and its Idea is disclosed in the Cognition Base. Vijñāna
-governs Manas and guides the reading of Dharma Base. The same *avijñapti*
-belongs to both Form Base and Dharma Base classifications, without being
-duplicated, and Vijñāna bears a *prati* relation to it. This is the
-project's cross-chapter synthesis, not a claim that VAK 2.01 states each
-relation explicitly.
+Indriya is the faculty of Rules. The principles remain the Faculty of Principles. The deposit stays behind the chapter. The wheel starts at this predicate. The faculties do not think and do not intuit. Mind, in the continuation of mastery, is produced in the ruling. It is not a faculty that thinks. Feeling rules the susceptibility on which defilement lies. The eight rule purification. That is the spin. It is not the verse English.
 
-In the Techne, Citta is Universal, the Base–Essence–Principle schema is
-Particular, and Buddha Mind is Singular as the actual executing instance.
-Indriyanirdeśa is a practical instance of Citta, not a general theory of
-Mind. These are project-level determinations; the passage itself
-establishes the Faculty criterion and its distribution.
+## 10. Review Status
 
-## 10. Textual Limits and Open Readings
+Fine-tuned with the kārikā. Domain withdrawn. Discernment withdrawn. Artha held as meaning. The continuous text is the commentary from 38.03–39.03, not a second copy of the essay.
 
-The difficult *tadviprayuktavikalpānām* and the life-faculty phrase
-*saṃbandhasādhāraṇayoḥ* remain provisional. The damaged closing statement
-is read provisionally as *duḥkhopaniṣac chraddhā ṣaṇ naiṣkramyāśritāḥ*;
-the reading does not establish a complete chain of conditions or a
-precise allocation of every set. The transmitted bodily and sexual
-classifications are reported as textual claims, not endorsed as
-contemporary descriptions.
+The sexual-classification phrase, the life-faculty reading, and the damaged closing statement remain provisional. 2.02 has not been opened.

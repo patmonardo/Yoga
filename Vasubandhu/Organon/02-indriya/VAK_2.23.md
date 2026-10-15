@@ -1,4 +1,4 @@
-# VAK_2.23 — Co-Arising and the Grounds of Mental Factors
+# VAK_2.23 — Consciousness and the Factors
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -12,170 +12,119 @@
 >
 > prāptyā vā pañcadhā caittā mahābhūmyādibhedataḥ // 2.23 //
 
-The compact first line is retained as transmitted. The Bhāṣya construes its
-middle movement as “everything [arises] necessarily together with the marks
-of the conditioned”; that reading informs the Scientific rendering below.
+The first line is compact. The Bhāṣya reads sarvaṃ saṃskṛtalakṣaṇaiḥ, everything with the marks of the conditioned, and carries necessarily together forward. The witness is kept.
 
 ## 3. Lexical Analysis
 
-```text
-cittaṃ               → cittam
-caittāḥ              → caittāḥ
-sahāvaśyaṃ           → saha avaśyam
-sarvasaṃskṛtalakṣaṇaiḥ
-                     → Bhāṣya construe: sarvaṃ saṃskṛta-lakṣaṇaiḥ
-prāptyā              → prāptyā
-vā                   → vā
-pañcadhā             → pañcadhā
-caittā               → caittāḥ
-mahābhūmyādibhedataḥ → mahā-bhūmi-ādi-bhedataḥ
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
-| cittam | nominative neuter singular | consciousness |
-| caittāḥ | nominative masculine plural | mental factors associated with consciousness |
-| saha | indeclinable | together |
-| avaśyam | indeclinable | necessarily |
-| sarvam | nominative neuter singular in the Bhāṣya's construe | everything conditioned |
-| saṃskṛta-lakṣaṇaiḥ | instrumental plural compound | with the marks of the conditioned |
-| prāptyā | instrumental feminine singular | with acquisition |
-| vā | indeclinable | or; marks a distinction of cases |
+| cittam | nominative | consciousness |
+| caittāḥ | nominative | mental factors |
+| saha avaśyam | indeclinable | necessarily together |
+| saṃskṛta-lakṣaṇaiḥ | instrumental | with the marks of the conditioned |
+| prāptyā | instrumental | with acquisition |
+| vā | particle | a distinction of cases |
 | pañcadhā | adverb | fivefold |
-| mahā-bhūmi-ādi-bhedataḥ | ablative singular compound | according to distinctions beginning with the great ground |
+| mahā-bhūmi-ādi-bhedataḥ | ablative | by the division beginning with the great ground |
+
+Citta is consciousness. It is not a substance behind the event. Caitta is the factor. Manas is not this word.
 
 ## 4. Grammar
 
-The Bhāṣya extends the necessary co-arising predicate through three
-statements, while distinguishing their scopes:
-
 ```text
-cittaṃ caittāḥ saha avaśyam
-    → consciousness and mental factors necessarily [arise] together
+consciousness and factors
+    → necessarily together
+    neither without the other
 
-sarvaṃ [saha avaśyaṃ] saṃskṛta-lakṣaṇaiḥ
-    → everything conditioned [arises necessarily together]
-      with the marks of the conditioned
+everything conditioned
+    → with the marks
+    form, consciousness, factors, dissociated formations
 
-[sattvākhyam] prāptyā vā
-    → or, a dharma designated as sentient
-      [arises necessarily together] with acquisition
+acquisition
+    → only what is designated as belonging to a sentient being
+    vā distinguishes the case
+    it does not replace the marks
+
+factors
+    → five classes
+    beginning with the great ground
 ```
 
-The subject restriction *sattvākhyam* is supplied in the Bhāṣya. *Vā*
-introduces this restricted case; it does not make conditioned marks optional.
-The second line names five classes of mental factors but does not yet list
-their members.
+The members are not this verse.
 
-## 5. Scientific English Rendering
+## 5. Translation
 
-### Kārikā
+### Literal Translation
 
-> Consciousness and mental factors necessarily arise together; [everything
-> conditioned arises necessarily together] with the marks of the conditioned,
-> or [a dharma designated as sentient arises together]
-> with acquisition. Mental factors are fivefold, according to distinctions
-> beginning with the great ground.
+Consciousness and the mental factors, necessarily together. Everything with the marks of the conditioned. Or with acquisition. Mental factors are fivefold, by the division beginning with the great ground.
 
-### Bhāṣya-informed rendering
+### Bhāṣya-informed study translation
 
-> Consciousness and mental factors necessarily arise together, since neither
-> can exist without the other. Whatever conditioned dharma arises—Form,
-> consciousness, mental factors, or formations dissociated from
-> consciousness—arises together with the marks of the conditioned. A dharma
-> designated as sentient arises together with
-> acquisition, not another dharma; thus “or” marks a distinction of cases.
-> Mental factors are fivefold: great-ground, wholesome great-ground,
-> affliction great-ground, unwholesome great-ground, and limited-affliction
-> great-ground factors. A ground is a sphere of operation. Those whose
-> ground is extensive are great-ground factors: they occur in every
-> consciousness.
+The co-arising of form has been stated. That of the rest is now to be stated. Consciousness and mental factors necessarily arise together. They cannot exist without one another. Everything with the marks of the conditioned: necessarily together carries forward. Whatever arises, form, consciousness, mental factors, or dissociated formations, arises with the marks of the conditioned. Or with acquisition. Only what is designated as belonging to a sentient being arises with acquisition, nothing else. Or distinguishes the cases.
 
-The Bhāṣya defines *bhūmi* here as *gativiṣaya*, a sphere of operation.
-The five class names are preserved; only the first class is defined further
-in this unit.
+What are the mental factors? Fivefold, by the division beginning with the great ground. Great-ground, wholesome great-ground, affliction great-ground, unwholesome great-ground, and limited-affliction great-ground. A ground is a sphere of operation. Those whose ground is extensive occur in every consciousness.
 
-## 6. Interpretation
+## 6. Philosophical Translation
 
-The passage distinguishes reciprocal co-arising of consciousness and
-associated mental factors, universal accompaniment of conditioned Dharmas
-by conditioned marks, and the restricted co-arising of acquisition with a
-dharma designated as sentient. The common language of
-co-arising does not make these relations interchangeable. Nor does necessary
-association by itself assert which term causally produces the other.
+No bare consciousness first, factors later. The two arise only together. The marks accompany every conditioned arising. Acquisition is narrower: a dharma designated as belonging to a sentient being. The five are ranges, not a list of members. Great is breadth, not rank. Only the great-ground class is said here to occur in every consciousness.
 
-The class division introduces another question: the range across which a
-mental factor occurs. The Bhāṣya calls this range its *bhūmi*, defines it
-as *gativiṣaya*, and says that the great-ground factors occur in every
-consciousness. This definition should not be collapsed into a temporal
-stage, a physical place, or a claim that every factor occurs in every
-consciousness.
+Organon rendering:
 
-In the Organon framework, the ten Samyama-bhūmis describe Path-related
-operation of mental factors, with Buddha Dharma as the 11th Bhūmi. This is
-the project's synthesis, not a lexical translation of the Bhāṣya's
-*bhūmi* or an enumeration made in this passage. The factor classes and
-their actual ranges must be established from the subsequent verses before
-mapping them into that progression.
-
-The Kośa's governing synthesis: Vijñāna joins and governs Perception and
-Conception as Discriminative Cognition; their unity is Inconceivable as a
-homogeneous operation, with its Idea disclosed in the Cognition Base.
-Vijñāna governs Mind and guides Dharma Base. *Avijñapti* is one Dharma
-classified in both Form Base and Dharma Base, bearing a *prati* relation
-to Vijñāna. This does not identify *citta* with Vijñāna or turn mental
-factors into Faculties.
+This is the citta:caitta the hub presupposes. Prāpti is named, and the verse restricts it. The telos of the technē is not printed as the translation. Hetu and pratyaya are not this line. Not the verse English.
 
 ## 7. Technical Vocabulary
 
-| Sanskrit | Project rendering | Determination |
+| Sanskrit | Running word | Determination |
 |---|---|---|
-| citta | consciousness | necessarily co-arises with its associated mental factors |
-| caitta / caitasika | mental factor | a conditioned dharma associated with consciousness |
-| saṃskṛta-lakṣaṇa | mark of the conditioned | accompanies every conditioned dharma that arises |
-| prāpti | acquisition | co-arises in the restricted case stated by the Bhāṣya |
-| sattvākhya | designated as sentient | restricts the acquisition clause |
-| bhūmi | ground | defined here as a sphere of operation |
-| gativiṣaya | sphere of operation | the Bhāṣya's definition of *bhūmi* |
-| mahābhūmika | great-ground factor | occurs in every consciousness, according to this passage |
-| kuśalamahābhūmika | wholesome great-ground factor | second named class |
-| kleśamahābhūmika | affliction great-ground factor | third named class |
-| akuśalamahābhūmika | unwholesome great-ground factor | fourth named class |
-| parīttakleśamahābhūmika | limited-affliction great-ground factor | fifth named class |
+| citta | consciousness | not manas |
+| caitta | mental factor | not a faculty |
+| saṃskṛta-lakṣaṇa | mark of the conditioned | not enumerated |
+| prāpti | acquisition | sentient designation only |
+| sattvākhya | designated as belonging to a sentient being | the restriction |
+| bhūmi | ground | gativiṣaya, sphere of operation |
+| mahābhūmika | great-ground | every consciousness |
+| parītta-kleśa-mahābhūmika | limited-affliction great-ground | the fifth name, kept |
+
+Great is range. Not a meditative stage, and not a place.
 
 ## 8. Logical Determination
 
 ```text
-For each arising conditioned dharma d:
-    Co-arisesWith(d, ConditionedMarks)
+consciousness
+    ↔ accompanying factors
+no bare consciousness
+no factor without consciousness
 
-For each mental event e:
-    HasConsciousness(e) ↔ HasAssociatedMentalFactors(e)
+not every factor in every consciousness
 
-For each dharma d designated as sentient:
-    Co-arisesWith(d, Prāpti)
+conditioned
+    → marks
+unconditioned
+    not brought back
 
-GreatGroundFactor(f)
-    → OccursIn(f, every consciousness)
+sentient designation
+    → acquisition
+otherwise
+    ↛ acquisition
+
+or
+    ≠ acquisition instead of the marks
+
+great-ground
+    → every consciousness
 ```
 
-These statements represent the passage's separate scopes. The five class
-names do not imply that the classes are mutually exclusive, nor that all
-five have the same range.
+Inseparability is not a direction of production. The passage states the last.
 
 ## 9. Interpretive Note
 
-VAK 2.23 carries the necessary co-arising inquiry from Form Dharmas to
-consciousness and mental factors, and then opens the analysis of their
-operating ranges. Its principal transition is from association to
-classification: first, what necessarily occurs together; then, across
-which consciousnesses a factor occurs. The details of class membership
-belong to the following verses.
+Three relations, not one together. Reciprocal for consciousness and factors. Universal for the marks. Restricted for acquisition.
 
-At the Principle level, keep this mental-factor analysis distinct from the
-Prāpti:Aprāpti Faculty relation developed in the chapter. Acquisition is
-named here as a conditioned co-arising relation, not equated with a
-Faculty or with a mental factor.
+Ground is sphere of operation. Not a place, not automatically a meditative level, not a path-stage. The five names are not yet five exclusive sets. Members and ranges wait.
+
+Universality of the first class does not make it wholesome. The wholesome class stays available for the next verses.
+
+Organon reading: the controller looked toward is post this pair. The verse is the pair, and the restricted acquisition. Not the verse English.
 
 ## 10. OWL++ Seed
 
@@ -187,32 +136,12 @@ Faculty or with a mental factor.
 vak:VAK_2_23
     a vak:Karika ;
     rdfs:label "VAK 2.23" ;
-    vak:hasTopic vak:MentalNecessaryCoarising,
-        vak:CaittaGroundClassification ;
+    vak:hasTopic vak:CittaCaittaCoarising ;
     vak:belongsTo vak:Indriyanirdesa .
 
-vak:CittaCaittaEvent
-    a vak:MentalEvent ;
-    vak:requires vak:Citta,
-        vak:AssociatedCaittaSet,
-        vak:ConditionedMarks .
+vak:Citta vak:requires vak:Caitta .
+vak:Prapti vak:appliesOnlyTo vak:SentientDesignation .
 
-vak:PrāptiCoarising
-    vak:appliesOnlyTo vak:DharmaBelongingToSentientContinuum .
-
-vak:Bhumi
-    organon:hasSourceDefinition "sphere of operation" ;
-    organon:hasProjectApplication organon:SamyamaBhumiProgression .
-
-vak:KośaSynthesis
-    organon:includes organon:DiscriminativeCognition,
-        organon:Perception,
-        organon:Conception,
-        organon:FormBase,
-        organon:DharmaBase .
-
-organon:Avijñapti
-    organon:classifiedIn organon:FormBase,
-        organon:DharmaBase ;
-    organon:hasPratiRelationTo organon:DiscriminativeCognition .
+organon:PraptiNotTheTranslation
+    organon:notTheVerseEnglish true .
 ```

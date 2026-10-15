@@ -1,4 +1,4 @@
-# VAK_2.03 — Persistence, Feeling, and Purification
+# VAK_2.03 — Class, Defilement, Purification
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -14,220 +14,111 @@
 
 ## 3. Lexical Analysis
 
-```text
-nikāyasthitisaṃkleśavyavadānādhipatyataḥ
-    → nikāya-sthiti-saṃkleśa-vyavadāna-ādhipatyataḥ
-
-śraddhādyāḥ
-    → śraddhā-ādyāḥ
-
-cendriyam
-    → ca indriyam
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
-| nikāya | compound member | group or class; the organized living continuum |
-| sthiti | compound member | persistence, maintenance, continued standing |
-| saṃkleśa | compound member | defilement; afflicted entanglement |
-| vyavadāna | compound member | purification or clarification |
-| ādhipatyataḥ | ablative singular abstract formation | because of governing efficacy |
-| jīvitam | nominative neuter singular | life; the Life Faculty |
-| vedanāḥ | nominative feminine plural | feelings |
-| pañca | numeral | five |
-| śraddhā-ādyāḥ | nominative feminine plural | the five beginning with confidence |
+| nikāya-sthiti | compound member | persistence of the living class |
+| saṃkleśa | compound member | defilement |
+| vyavadāna | compound member | purification |
+| ādhipatyataḥ | ablative | because of governing efficacy |
+| jīvitam | nominative | life |
+| vedanāḥ pañca | nominative | the five feelings |
+| śraddhā-ādyāḥ | nominative | those beginning with faith |
 | ca | conjunction | and |
-| indriyam | predicative neuter singular | Faculty-status, used distributively |
-| matāḥ | nominative plural past participle | regarded, accepted, or held to be |
+| indriyam | predicative | faculty, read distributively |
+| matāḥ | nominative participle | are held |
 
-The long initial compound supplies three governed fields in sequence. The
-three nominative groups in the second line correspond to them respectively.
+The compound gives three fields. The second line gives three groups, in that order.
 
 ## 4. Grammar
 
-The syntactic distribution is:
-
 ```text
 nikāya-sthiti-ādhipatyataḥ
-    jīvitam indriyaṃ matam
-    because it governs persistence of the living class,
-    Life is regarded as a Faculty
+    jīvitam indriyam matam
 
 saṃkleśa-ādhipatyataḥ
-    vedanāḥ pañca indriyaṃ matāḥ
-    because they govern defilement,
-    the five feelings are regarded as Faculties
+    vedanāḥ pañca indriyam matāḥ
 
 vyavadāna-ādhipatyataḥ
-    śraddhā-ādyāḥ indriyaṃ matāḥ
-    because they govern purification,
-    those beginning with confidence are regarded as Faculties
+    śraddhā-ādyāḥ indriyam matāḥ
 ```
 
-The Bhāṣya expands `nikāya-sthiti` as `nikāyasabhāga-sthiti`: the continued
-standing of a living continuum within its homogeneous class of existence.
+The Bhāṣya specifies nikāya-sthiti as nikāyasabhāga-sthiti, persistence of the homogeneous class. Śraddhādyāḥ here are five, each a faculty: faith, vigor, mindfulness, concentration, Discrimination. The eight of 2.01 are not closed in this verse.
 
-The five feelings are bodily pleasure, bodily pain, mental gladness, mental
-distress, and neutral feeling. The sūtra citation reduces their relevant
-affective tones to pleasant, painful, and neither-painful-nor-pleasant when
-mapping the latent afflictions.
+## 5. Translation
 
-`Śraddhādyāḥ` abbreviates confidence, energy, recollection, concentration,
-and *prajñā* (Science of Principles in the inner-instrument Techne). The
-Bhāṣya's `pratyekam` confirms that each is individually a Faculty; they are
-not one undifferentiated purifying power.
+### Literal Translation
 
-## 5. Scientific English Rendering
+Because of governing efficacy over class-persistence, defilement, and purification, life, the five feelings, and those beginning with faith are held to be faculty.
 
-### Kārikā
+### Bhāṣya-informed study translation
 
-> Because of governing efficacy with respect to persistence within the living class, defilement, and purification, Life, the five feeling Faculties, and those beginning with confidence are regarded as Faculties.
+The life-faculty governs persistence of the homogeneous class of living beings. The feelings govern defilement. The sūtra says: attachment lies latent in pleasant feeling, aversion in painful feeling, ignorance in neither-painful-nor-pleasant feeling. The five beginning with faith govern purification: through them the afflictions are checked, and the path is brought forward. Each of these is individually accepted as a faculty.
 
-### Bhāṣya-informed rendering
+## 6. Philosophical Translation
 
-> Life is a Faculty because it governs the continued standing of a living continuum within its class of existence. The five feelings are Faculties because they govern the affective conditions upon which afflictions lie latent. The five beginning with confidence are individually Faculties because they govern purification by checking afflictions and drawing the Path forward.
+Life governs standing, not origination. The five feelings govern the tones on which affliction lies. They are not the afflictions. Faith, vigor, mindfulness, concentration, and Discrimination govern purification, by checking the afflictions and drawing the path forward. Faculty is not only apprehension. It is also persistence, defilement, and purification.
 
-## 6. Interpretation
+Organon rendering:
 
-The verse distributes governing efficacy across three functions:
-persistence of the living continuum, the relation of feeling to
-defilement, and purification through the five beginning with confidence.
-Feeling is not identified with affliction; each feeling provides a
-condition in dependence on which an affliction may lie latent. The five
-purificatory Faculties coordinate checking affliction with drawing the
-Path forward.
-
-In the Kant-informed Techne, the verse classifies operative conditions of
-one living process rather than positing separate substances or a mere
-chronology of stages. Its three functions remain distinct within the
-practical system of Citta. This is a project-level interpretation; the
-verse itself states the governing relations, not a Kantian formulation.
-
-Across the Kośa, Vijñāna is Discriminative Cognition joining Perception and
-Conception without reducing their unity to one homogeneous operation; it
-governs Mind and guides the reading of Dharma Base. The same *avijñapti*
-remains one content in the Form Base and Dharma Base classifications, and
-Vijñāna bears a *prati* relation to it. This wider synthesis frames, but is
-not stated in full by, this verse.
+Applied Indriya. Defilement and purification are the Kośa Path. The five feelings and the five beginning with faith are its controllers. Life controls the standing of the class, and is not one of those two. Checking is not final abandonment. The principles remain deposited. Not the verse English.
 
 ## 7. Technical Vocabulary
 
-| Sanskrit | Project rendering | Determination |
+| Sanskrit | Running word | Determination |
 |---|---|---|
-| nikāya | living group / class | organized continuum belonging to a determinate class of existence |
-| sabhāga | homogeneous kind | common class-character shared by a living continuum |
-| sthiti | persistence / maintenance | continued standing of the already constituted series |
-| nikāyasabhāga-sthiti | persistence within the homogeneous living class | governed by the Life Faculty |
-| jīvitendriya | Life Faculty | governing the persistence of the living continuum |
-| vedanā | feeling | affective condition upon which affliction can lie latent |
-| sukha | bodily pleasure | pleasant bodily feeling-Faculty |
-| duḥkha | bodily pain | painful bodily feeling-Faculty |
-| saumanasya | mental gladness | pleasant mental feeling-Faculty |
-| daurmanasya | mental distress | painful mental feeling-Faculty |
-| upekṣā | neutral feeling | neither-painful-nor-pleasant feeling-Faculty |
-| anuśete | lies latent in dependence upon | relation of affliction to feeling |
-| rāga | attachment | lies latent with pleasant feeling |
-| pratigha | aversion / resistance | lies latent with painful feeling |
-| avidyā | ignorance | lies latent with neutral feeling |
-| vyavadāna | purification / clarification | checking affliction while advancing the path |
-| śraddhā | confidence | first of the five purificatory Faculties |
-| vīrya | energy / disciplined exertion | active Path Faculty |
-| smṛti | recollection | retaining and restoring the relevant determination |
-| samādhi | concentration | stabilization of the operative continuum |
-| prajñā | discrimination; Science of Principles in the inner-instrument Techne | discriminating Path Faculty |
-| viṣkambha | checking / suppression | inhibition of afflictive operation |
-| āvāhana | drawing forward | positive advancement of the path |
+| nikāyasthiti | class-persistence | Bhāṣya: nikāyasabhāga-sthiti |
+| jīvita | life-faculty | standing, not creation |
+| vedanā | feeling | not the affliction |
+| saṃkleśa | defilement | the Kośa Path, one side |
+| vyavadāna | purification | the Kośa Path, the other side |
+| anuśete | lies latent | relation of affliction to feeling; not identity |
+| śraddhā | faith | first of the five |
+| vīrya | vigor | |
+| smṛti | mindfulness | |
+| samādhi | concentration | |
+| prajñā | Discrimination | never discernment |
+| viṣkambha | checking | not final abandonment |
+| āvāhana | drawing forward | the path brought on |
 
 ## 8. Logical Determination
 
-Life governs continuation, not origination:
-
 ```text
-AlreadyConstituted(LivingContinuum)
-    ∧ LifeFacultyPresent
-    → MaintainedWithin(LivingContinuum, HomogeneousClass)
+life
+    → persistence of the homogeneous class
+    ↛ creates the aggregates
 
-LifeFaculty
-        ↛ OriginatesLivingContinuum
+pleasant feeling
+    → attachment lies latent
+painful feeling
+    → aversion lies latent
+neither
+    → ignorance lies latent
+
+feeling
+    ≠ affliction
+
+five beginning with faith
+    → each governs purification
+    → afflictions checked
+    → path drawn forward
+
+purification
+    ≠ mere absence
 ```
 
-Feeling and affliction must remain distinct:
+The five of the verse are not the eight of 2.01. The remaining three are not this unit.
 
-```text
-PleasantFeeling
-    → BasisForLatency(Attachment)
+## 9. Interpretive Note
 
-PainfulFeeling
-    → BasisForLatency(Aversion)
+2.01 named defilement and purification as the last distribution. 2.02 revised the six and the body-portion. This verse gives the predicate of the rest that are in view: life, the five feelings, and five of the eight.
 
-NeutralFeeling
-    → BasisForLatency(Ignorance)
+The sūtra uses three tones. The verse counts five faculties. Pleasure and gladness are pleasant. Pain and distress are painful. Equanimity is neither. The tones are not a second list of faculties.
 
-Feeling(x)
-    ↛ Affliction(x)
-```
+Pleasant feeling is not attachment. Painful feeling is not aversion. Neutral feeling is not ignorance. The citation does not say every feeling produces its affliction, and it does not tell a story about neutrality hiding ignorance.
 
-The relation is not simple production:
+The five check and draw. The two operations are coordinated. The text does not say checking must finish before the path begins, and it does not assign a separate operation to each of the five.
 
-```text
-BasisForLatency(Feeling, Affliction)
-    ≠ IdenticalWith(Feeling, Affliction)
-    ≠ NecessarilyCausesEveryOccurrence(Feeling, Affliction)
-```
-
-Purification has two coordinated operations:
-
-```text
-For each f in {Confidence, Energy, Recollection,
-               Concentration, ScienceOfPrinciples}:
-    Governs(f, Purification)
-
-Purification
-    = Checks(Afflictions)
-    + DrawsForward(Path)
-```
-
-Therefore:
-
-```text
-vyavadāna
-    ≠ mere absence of affliction
-
-vyavadāna
-    = negative inhibition
-    + positive path-actualization
-```
-
-VAK 2.03 adds three modes to the Indriya system:
-
-```text
-SustainingGovernance     → Life
-ConditioningGovernance   → FiveFeelings
-TransformativeGovernance → FivePathFaculties
-```
-
-These are determinations of conditioned operation.
-
-## 9. Relation to Dhātu
-
-VAK 2.03 distinguishes three functions: Life governs persistence within
-the living class; feeling supplies the condition in dependence on which
-afflictions may lie latent; and the five beginning with confidence check
-afflictions while drawing the Path forward. The Bhāṣya does not identify
-feeling with affliction, equate suppression with final abandonment, or
-assign a separate operation to each of the five purificatory Faculties.
-
-In the project crosswalk with VAK 1.48, these Faculties have locations
-within the Essence classification; this verse determines their governing
-functions. The Principle and Faculty descriptions remain distinct
-determinations of the same organized system, not competing inventories.
-
-The Kant-informed Techne reads these as conditions of operation within
-living Citta, not as a timeline or a sequence of independent substances.
-The verse's source claims remain narrower: it gives the governing
-relations and their distributions. The project's larger movement from
-afflictive operation toward the Path must not be mistaken for a claim that
-this brief passage fully describes the stages or final result.
+Organon reading: Defilement and purification are the Kośa Path. The faculties that govern them are its controllers. Life governs the standing of the class beside that path. Not the verse English.
 
 ## 10. OWL++ Seed
 
@@ -239,41 +130,18 @@ this brief passage fully describes the stages or final result.
 vak:VAK_2_03
     a vak:Karika ;
     rdfs:label "VAK 2.03" ;
-    vak:hasTopic vak:VitalAffectiveAndPurificatoryGovernance ;
+    vak:hasTopic vak:ClassDefilementPurification ;
     vak:belongsTo vak:Indriyanirdesa .
 
-vak:LifeFaculty
-    a vak:Indriya ;
-    vak:governs vak:PersistenceWithinLivingClass ;
-    vak:notIdenticalWith vak:Origination .
-
-vak:PleasantFeeling
-    vak:supportsLatencyOf vak:Attachment .
-
-vak:PainfulFeeling
-    vak:supportsLatencyOf vak:Aversion .
-
-vak:NeutralFeeling
-    vak:supportsLatencyOf vak:Ignorance .
-
-vak:Feeling
-    vak:notIdenticalWith vak:Affliction .
-
-vak:PurificatoryFive
-    vak:hasMembers vak:Confidence,
-        vak:Energy,
-        vak:Recollection,
-        vak:Concentration,
-        vak:ScienceOfPrinciples ;
-    vak:governs vak:Purification .
-
-vak:Purification
-    vak:checks vak:Afflictions ;
+vak:LifeFaculty vak:governs vak:ClassPersistence .
+vak:FeelingFive vak:governs vak:Defilement .
+vak:FiveBeginningWithFaith vak:governs vak:Purification .
+vak:Feeling vak:notIdenticalWith vak:Affliction .
+vak:Purification vak:checks vak:Affliction ;
     vak:drawsForward vak:Path .
 
-organon:IndriyaDetermination
-    organon:hasScope organon:PracticalCitta ;
-    organon:models vak:Continuity,
-        vak:AffectiveSusceptibility,
-        vak:PathTransformation .
+organon:KosaPath
+    organon:namedBy vak:Defilement, vak:Purification ;
+    organon:controlledBy vak:FeelingFive, vak:FiveBeginningWithFaith ;
+    organon:notTheVerseEnglish true .
 ```

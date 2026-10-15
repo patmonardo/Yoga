@@ -5,17 +5,11 @@
 > mano 'nyavittiśraddhādīny aṣṭakaṃ kuśalaṃ dvidhā /
 > daurmanasyaṃ mano 'nyā ca vittis tredhā anyad ekadhā // 2.11 //
 
-> Mind, the other feelings, and those beginning with confidence [are the
-> ten just mentioned]. The eight are wholesome; distress is twofold.
-> Mind and the other feelings are threefold; the remainder is onefold.
+> Mind, the other feelings, and those beginning with faith. The eight are wholesome. Distress is twofold. Mind and the other feeling are threefold. The remainder is onefold.
 
-The opening words complete VAK 2.10's identification of ten faculties
-that may or may not have maturation as a result. Their commentary
-was included in the preceding study. The new ethical inquiry begins
-with *aṣṭakaṃ kuśalam*, “the eight are wholesome.” The full verse
-is retained here so that its cross-verse syntax remains visible.
+The opening completes the ten of 2.10. That commentary stands there. The ethical question begins at the eight are wholesome.
 
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
 > kati kuśalāni katy akuśalāni katy avyākṛtāni /
 > ekāntena tāvat / aṣṭakaṃ kuśalaṃ /
@@ -26,151 +20,61 @@ is retained here so that its cross-verse syntax remains visible.
 > kiñcid anyat / jīvitāṣṭamaṃ cakṣurādi /
 > etad avyākṛtam eva //
 
-This is the complete ethical-classification unit at printed 46.07–16
-in `Vasubandhu/Sources/kosabhasya.txt`. Word division is editorial;
-no substantive repair is made. The witness's compact *kiñcid anyat*
-is construed contextually as asking what the remainder is. The next
-question, at 46.17, concerns affiliation with the realms and begins
-VAK 2.12. The earlier material at 46.01–06 has already been translated
-with the maturation inquiry in VAK 2.10.
+The unit is printed 46.07–16 in `Vasubandhu/Sources/kosabhasya.txt`. Word division is editorial. No substantive repair. Kiñcid anyat asks what the remainder is. The realm question at 46.17 opens 2.12. The material at 46.01–06 belongs to 2.10.
 
-## 3. Scientific English Rendering
+## 3. Continuous Conventional Translation
 
-How many are wholesome, how many unwholesome, and how many ethically
-indeterminate? First, categorically, “the eight are wholesome”: the
-five beginning with confidence and the three beginning with the faculty
-“I shall know.” “Distress is twofold”: wholesome and unwholesome.
-“Mind and the other feelings are threefold”: wholesome, unwholesome,
-and ethically indeterminate. “The remainder is onefold.” What is
-that remainder? Those beginning with the eye, with life as the
-eighth. These are exclusively ethically indeterminate.
+How many are wholesome, how many unwholesome, and how many indeterminate? First, categorically, the eight are wholesome: the five beginning with faith and the three beginning with the faculty “I shall know.” Distress is twofold: wholesome and unwholesome. Mind and the other feelings are threefold: wholesome, unwholesome, and indeterminate. The remainder is onefold. What is that remainder? Those beginning with the eye, with life as the eighth. These are exclusively indeterminate.
 
 ## 4. Movement and Voice of the Commentary
 
-The paragraph poses a new question, then supplies the members and
-qualities compressed in the verse. There is no objection, scriptural
-quotation, or named school in this unit. Its work is distributive:
-it establishes which ethical qualities apply to which faculties.
+A new question, then the members the verse compresses. No objection. No quotation. No school. The work is distributive.
 
-The transition is essential. The same word “twofold” has just been
-used in relation to maturation. Here it qualifies distress as
-wholesome or unwholesome. The count-word has no fixed doctrinal
-content apart from the question and its specified alternatives.
+Twofold has just been used for maturation. Here it is wholesome or unwholesome. The count-word has no content apart from the question.
 
 ## 5. The Four Groups
 
-| Faculty group | Ethical quality | Count |
+| Group | Quality | Count |
 |---|---|---:|
-| Five beginning with confidence and three realization faculties | Wholesome only | 8 |
-| Distress | Wholesome or unwholesome | 1 |
-| Mind and the four feelings other than distress | Wholesome, unwholesome, or indeterminate | 5 |
-| Seven material faculties and life | Indeterminate only | 8 |
+| Five beginning with faith, and the three | wholesome only | 8 |
+| Distress | wholesome or unwholesome | 1 |
+| Mind and the four other feelings | three qualities | 5 |
+| Seven of form, and life | indeterminate only | 8 |
 
-The enumeration accounts for all twenty-two. The four feelings
-other than distress are pain, pleasure, gladness, and neutral feeling.
-The final eight are eye, ear, nose, tongue, body, female, male,
-and life. They are a different group of eight from the wholesome
-group named at the beginning.
+Twenty-two. The four are pain, pleasure, gladness, and neutral feeling. The final eight are eye, ear, nose, tongue, body, female, male, and life. Not the wholesome eight.
 
-“Threefold” classifies possible instances of each of the five
-faculty-types. It does not assign one quality to mind, another to
-one feeling, and a third to another. Nor does it mean that one
-instance is simultaneously wholesome, unwholesome, and indeterminate.
+Threefold is the range of instances of each type. Not one quality assigned to mind and another to a feeling. Not three qualities in one instance.
 
 ## 6. Distress Can Be Wholesome
 
-The statement *kuśalaṃ cākuśalaṃ ca* is explicit. Distress is not
-necessarily unwholesome; it is excluded from ethical indeterminacy.
-The paragraph does not explain the circumstances of wholesome
-distress, so an illustrative psychological example would go beyond
-its local exposition.
+Kuśalaṃ cākuśalaṃ ca is explicit. Distress is not necessarily unwholesome. It is excluded from indeterminacy. The paragraph does not say when distress is wholesome. No example is added.
 
-This completes an important distinction from VAK 2.10. Distress
-was there classified as never itself maturation and invariably
-having maturation as its result. That causal determination does
-not entail exclusively unwholesome status. The present paragraph
-states the two ethical possibilities without revising the preceding
-causal classification.
+2.10 said distress is never maturation and always produces it. That does not make it unwholesome only. This paragraph does not revise that causal classification.
 
-Conversely, pleasant feeling is not necessarily wholesome. Pleasure
-and gladness belong to the threefold group. Affective character
-and ethical quality must therefore be kept separate in both directions.
+Pleasure is not necessarily wholesome. Pleasure and gladness are in the threefold group. Tone and ethical quality stay apart in both directions.
 
-## 7. Two Meanings of Neutrality
+## 7. Two Neutralities
 
-*Upekṣā* is neutral feeling: neither painful nor pleasant, as defined
-in VAK 2.08. *Avyākṛta* here is ethical indeterminacy: neither
-wholesome nor unwholesome. Neutral feeling belongs to the threefold
-ethical group, so its neutral tone does not settle its ethical status.
+Upekṣā is neither painful nor pleasant. Avyākṛta is neither wholesome nor unwholesome. Neutral feeling is in the threefold group. Its tone does not settle its quality.
 
-The seven material faculties and life, by contrast, are exclusively
-ethically indeterminate. That statement concerns the faculties
-themselves. It does not assign indeterminacy to every action in
-which they participate, or deny their governing functions.
+The seven of form and life are exclusively indeterminate. That is the faculties themselves. It does not make every act that uses them indeterminate, and it does not deny that they govern.
 
-The wholesome eight also require the distinctions established
-earlier. Confidence and the following four can be with or without
-outflows, whereas the three realization faculties are exclusively
-without outflows. Their shared wholesome status does not erase
-that difference. “Wholesome” is not interchangeable with “without
-outflows.”
+The wholesome eight still carry 2.09. The five can be with or without outflows. The three are without outflows. Shared wholesome status does not erase that. Wholesome is not without outflows.
 
 ## 8. The Bhāṣya's Decisions for Translation
 
-*Ekāntena* makes the first group's wholesome status categorical.
-The final *eva* makes the remainder exclusively indeterminate.
-The prose explicitly supplies the alternatives meant by *dvidhā*
-and *tredhā*, rather than leaving them as unexplained numerical labels.
+Ekāntena makes the first group categorical. Eva makes the remainder exclusive. The prose supplies what twofold and threefold mean.
 
-*Anyā vittiḥ*, “the other feeling,” is rendered distributively as
-“the other feelings”: the four other than distress. This follows
-the immediate contrast with distress and the preceding explanation
-of the same shortened expression in the maturation discussion.
+Anyā vittiḥ is read as the other feelings, the four. Jīvitāṣṭamam is the group with life as eighth, not eight kinds of life. Indeterminate is preferred to neutral, so avyākṛta stays off upekṣā.
 
-*Jīvitāṣṭamam* means the group with life as its eighth member.
-It is not a claim about eight kinds of life. “Ethically indeterminate”
-is preferred to an unqualified “neutral,” keeping *avyākṛta*
-distinct from the feeling-name *upekṣā*.
+## 9. Organon Reading
 
-## 9. Interpretation
+Ethical quality is a further question about faculties already established. A function can admit three qualities, or two, or one. Importance does not supply the judgment.
 
-The Bhāṣya assigns ethical qualities to the twenty-two Faculties
-by four groups. The five beginning with confidence and the three
-realization-Faculties are wholesome; distress is wholesome or
-unwholesome; Mind and the other four feelings admit all three
-qualities; the seven material Faculties and Life are indeterminate.
-These are qualifications of the Faculties, not replacements for
-their functional identities.
+The platform copes by keeping the axes. Maturation is not ethical quality. Outflow is not wholesome. Neutral feeling is not indeterminate. The principles locate the faculty. The rules say which quality this instance may bear. The received fold is not the page. Not the verse English.
 
-The cross-verse continuation from VAK 2.10 is necessary: the opening
-ten are those that may or may not produce maturation as a result,
-whereas the new question classifies ethical quality. The ethical
-partition also remains distinct from outflow-status: confidence and
-the following four may have outflows, while the realization-Faculties
-do not.
+## 10. Review Status
 
-The project crosswalk with Dhātu 1.48 relates the ethical classification
-to the Base–Essence–Principle map without relocating its Faculty-bearing
-loci. This is the Organon's comparative framework, not a claim made
-by the Bhāṣya.
+Fine-tuned with the kārikā. Domain withdrawn. Wholesome distress, threefold neutral feeling, and the outflow distinction stay explicit.
 
-Across the Kośa, Vijñāna is Discriminative Cognition joining Perception
-and Conception without reducing their unity to one homogeneous operation;
-it governs Mind and guides the reading of Dharma Base. The same
-*avijñapti* remains one content in the Form Base and Dharma Base
-classifications, and Vijñāna bears a *prati* relation to it. This
-cross-chapter synthesis is an Organon framework, not a claim made by
-this Bhāṣya.
-
-In a Kant-informed Techne reading, ethical quality is a distinct
-criterion, and the permitted range of qualities differs by Faculty
-group. This is a project-level interpretation, not terminology or
-philosophical attribution supplied by the source.
-
-## 10. Textual and Scope Notes
-
-The cross-verse transition and complete ethical-classification unit
-are preserved. The commentary's distribution, including wholesome
-distress and threefold neutral feeling, remains explicit. This unit
-ends before the realm-affiliation question at 46.17; no independent
-collation is claimed.
+2.12 has not been opened.

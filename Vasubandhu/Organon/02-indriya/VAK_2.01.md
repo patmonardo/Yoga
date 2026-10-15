@@ -1,4 +1,4 @@
-# VAK_2.01 — Faculties and Governing Efficacy
+# VAK_2.01 — Governing Efficacy
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -6,10 +6,7 @@
 >
 > चतुर्णां पञ्चकस्याष्टानां संक्लेशव्यवदानयोः ॥ २.१ ॥
 
-The immediate source contains mechanical irregularities in the final group
-expression (`चतुर्ण्णां पञ्चकाष्टानां`). The study text follows the syntax
-confirmed by the Bhāṣya: the four govern two functions, the fivefold group
-governs defilement, and the eight govern purification.
+The immediate source compresses the final group (`चतुर्ण्णां पञ्चकाष्टानां`). The study follows the Bhāṣya: the four govern two, the fivefold group governs defilement, and the eight govern purification.
 
 ## 2. Sanskrit (IAST)
 
@@ -19,229 +16,151 @@ governs defilement, and the eight govern purification.
 
 ## 3. Lexical Analysis
 
-```text
-caturṣv artheṣu       → caturṣu artheṣu
-pañcānām              → pañcānām
-ādhipatyam            → ādhipatyam
-dvayoḥ kila           → dvayoḥ kila
-caturṇām              → caturṇām
-pañcakasyāṣṭānām      → pañcakasya aṣṭānām
-saṃkleśavyavadānayoḥ  → saṃkleśa-vyavadānayoḥ
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
-| caturṣu | locative plural numeral | with respect to four |
-| artheṣu | locative masculine plural | functions, purposes, or operative matters |
-| pañcānām | genitive plural numeral | of the five sensory Faculties |
-| ādhipatyam | nominative neuter singular abstract noun | governing efficacy; effective predominance |
-| dvayoḥ | locative dual numeral | with respect to two functions |
-| kila | reportative-emphatic particle | indeed; according to the received teaching |
-| caturṇām | genitive plural numeral | of the four: Female, Male, Life, and Mind Faculties |
-| pañcakasya | genitive singular collective | of the fivefold group of feeling Faculties |
-| aṣṭānām | genitive plural numeral | of the eight beginning with faith |
-| saṃkleśa | compound member | defilement; afflicted involvement |
-| vyavadāna | compound member | purification; clarification |
+| caturṣu artheṣu | locative plural | with respect to four meanings |
+| pañcānām | genitive plural | of the five |
+| ādhipatyam | nominative neuter | governing efficacy |
+| dvayoḥ | locative dual | with respect to two |
+| kila | particle | indeed; it is said |
+| caturṇām | genitive plural | of the four |
+| pañcakasya | genitive singular | of the fivefold group |
+| aṣṭānām | genitive plural | of the eight |
+| saṃkleśa-vyavadānayoḥ | locative dual | defilement and purification |
 
-The verse is radically elliptical. `Ādhipatyam` governs all four groups, and
-the missing relational terms must be supplied distributively from the
-Bhāṣya.
+The verse is elliptical. Ādhipatyam governs all four groups. The Bhāṣya supplies the names.
 
 ## 4. Grammar
 
-The Bhāṣya first asks for the common meaning of `indriya`:
+The Bhāṣya asks the common meaning of indriya:
 
 ```text
 kaḥ punar indriyārthaḥ?
-    what, then, is the meaning of “Faculty”?
+    what, then, is the meaning of faculty?
 
 ata ādhipatyārtha indriyārthaḥ
-    therefore the meaning of indriya is ādhipatya
+    the meaning of indriya is ādhipatya
 ```
 
-It explains the name from a verbal root `id`, glossed by `paramaiśvarya`,
-supreme governance. The grammatical and doctrinal center is therefore:
+The root idi is glossed paramaiśvarya, supreme lordship. That gloss stays in the etymology. The predicate of the verse is governing efficacy:
 
 ```text
 ādhipatyāt indriyam
-    it is a Faculty because it exercises governing efficacy
-```
+    a faculty, because it governs
 
-The Kārikā then distributes that common predicate:
-
-```text
 pañcānām caturṣu artheṣu ādhipatyam
-    the five have governing efficacy with respect to four functions
+    the five, with respect to four meanings
 
-caturṇāṃ dvayoḥ [artheṣu] kila ādhipatyam
-    the four have governing efficacy with respect to two functions each
+caturṇām dvayoḥ kila
+    the four, with respect to two
 
-pañcakasya saṃkleśe ādhipatyam
-    the fivefold group governs defilement
+pañcakasya saṃkleśe
+    the fivefold group, in defilement
 
-aṣṭānāṃ vyavadāne ādhipatyam
-    the eight govern purification
+aṣṭānām vyavadāne
+    the eight, in purification
 ```
 
-The syntax does not define status as a Faculty by intrinsic anatomy.
-`Indriya` is predicated through a relation between a dharma and the function
-over which it exercises determining efficacy.
+Faculty is not an anatomical kind. It is a dharma exercised with respect to a meaning.
 
-## 5. Scientific English Rendering
+## 5. Translation
 
-### Kārikā
+### Literal Translation
 
-> The five have governing efficacy with respect to four functions; the four, indeed, with respect to two; the fivefold and eightfold groups [have governing efficacy] with respect to defilement and purification.
+Of the five, governing efficacy with respect to four meanings; of the four, indeed, with respect to two; of the fivefold and of the eight, with respect to defilement and purification.
 
-### Bhāṣya-informed rendering
+### Bhāṣya-informed study translation
 
-> The five sensory Faculties govern four functions of embodied life and sensory Cognition. The Female, Male, Life, and Mind Faculties each govern two functions. The five feeling Faculties govern defilement, while the eight Faculties beginning with faith govern purification.
+The five — eye, ear, nose, tongue, body — each govern four matters. Attractiveness of embodied existence, because the blind and the deaf are said to lack an attractive appearance. Preservation of embodied existence: the eye and ear by avoidance of danger once seen or heard, the nose, tongue, and body by consumption of material food. The arising of the corresponding cognition together with its associated factors. Being the specific cause of seeing visible form, hearing sound, smelling odor, tasting flavor, and touching the tangible.
 
-The four functions of the sensory Faculties are bodily integrity or
-attractiveness, preservation of embodied existence, production of the
-corresponding Cognition with its associated factors, and operation as the
-specific cause of that sensory disclosure.
+The female, male, life, and mind faculties each govern two. Female and male govern the distinction of living beings, female and male, and their differentiation in configuration, voice, and conduct. Others assign those two to defilement and purification. The life-faculty governs connection with, and maintenance of, the homogeneous class of living beings. The mind-faculty governs connection with renewed existence, and the continuation of mastery.
 
-## 6. Interpretation
+The five beginning with pleasure govern defilement, because attachment and the other afflictions lie latent in relation to them. The eight beginning with faith govern purification, for through them one is purified. Others, and the Vaibhāṣikas, also give the feelings a place in purification.
 
-The verse groups unlike Dharmas by a common relation, *ādhipatya*:
-governing efficacy with respect to a specified function. Its unity is
-functional, not a claim that all twenty-two Faculties share one substance
-or belong to one anatomical kind. The sensory five, the Female, Male,
-Life, and Mind Faculties, the feeling five, and the eight beginning with
-faith retain their distinct functions and groupings.
+## 6. Philosophical Translation
 
-In the Kant-informed Techne, this is a practical determination of the
-conditions under which the living system operates: a Faculty is identified
-through its determinate relation to what it governs. The verse itself does
-not name a Kantian framework or establish a general theory of Mind. In the
-Organon reading, Indriya is a practical instance of Citta; it remains
-distinct from the classification of Principles supplied by Dhātu.
+A dharma is a faculty where it governs. The five govern embodied life and the disclosure of meaning. The four govern distinction, continuity, renewed existence, and mastery. The fivefold governs defilement. The eight govern purification. The name is one because the efficacy is one, not because the items are one kind.
 
-Across the Kośa, Vijñāna is Discriminative Cognition joining Perception and
-Conception without reducing their unity to one homogeneous operation; it
-governs Mind and guides the reading of Dharma Base. The same *avijñapti*
-remains one content in the Form Base and Dharma Base classifications, and
-Vijñāna bears a *prati* relation to it. This wider synthesis frames the
-chapter but is not stated in full by this verse.
+Organon rendering:
+
+The spin begins. The principles remain behind this chapter. Indriya is the faculty of Rules. Governing efficacy is how a Rule holds. The faculties do not think and do not intuit. They make the elements implement a meaning, and they rule defilement and purification. Mind is produced in that ruling. It is not a faculty that thinks.
 
 ## 7. Technical Vocabulary
 
-| Sanskrit | Project rendering | Determination |
+| Sanskrit | Running word | Determination |
 |---|---|---|
-| indriya | Faculty | a Dharma considered through its governing efficacy |
-| ādhipatya | governing efficacy | common defining function of all twenty-two Faculties |
-| paramaiśvarya | supreme governance | Bhāṣya's gloss on the verbal root used to explain `indriya` |
-| artha | function | that with respect to which a Faculty governs |
-| ātmabhāva-śobhā | integrity or attractiveness of embodied existence | first function of the sensory five |
-| ātmabhāva-parikarṣaṇa | preservation of embodied existence | second function of the sensory five |
-| asādhāraṇa-kāraṇatva | being the specific cause | non-common causal role of each sensory Faculty |
-| sattva-bheda | differentiation of living beings | one function of the Female and Male Faculties |
-| sattva-vikalpa | differentiated configuration of living beings | bodily, vocal, and behavioral differentiation |
-| jīvitendriya | Life Faculty | governs connection with and maintenance of the living class-series |
-| manaindriya | Mind Faculty | governs renewed existence and continuing directive mastery |
-| saṃkleśa | defilement | governed by the five feeling Faculties |
-| vyavadāna | purification | governed by the eight constructive and realization Faculties |
+| indriya | faculty | faculty of Rules, in the Organon section only |
+| ādhipatya | governing efficacy | the common predicate; not sovereignty |
+| paramaiśvarya | supreme lordship | the root gloss; etymology only |
+| artha | meaning | the commentary assigns the functions; function is not the English |
+| ātmabhāva-śobhā | attractiveness of embodied existence | first matter of the five |
+| ātmabhāva-parikarṣaṇa | preservation of embodied existence | second matter of the five |
+| asādhāraṇa-kāraṇatva | specific cause | not a sufficient cause |
+| sattva-bheda | distinction of living beings | female and male |
+| sattva-vikalpa | differentiation | configuration, voice, conduct; not a separate imagining |
+| jīvitendriya | life-faculty | class-series; the second member of the compound is not secure |
+| manaindriya | mind-faculty | renewed existence and mastery; a production, not a thinker |
+| saṃkleśa | defilement | the five feelings, on the first account |
+| vyavadāna | purification | the eight; the feelings also, on the other account |
+| prajñā | Discrimination | the faculty in the eight; never discernment |
 
 ## 8. Logical Determination
 
-The common definition is relational:
-
 ```text
-Faculty(x, f)
+Faculty(x, m)
     ↔ Dharma(x)
-    ∧ GovernsWithRespectTo(x, f)
-```
+    ∧ GovernsWithRespectTo(x, m)
 
-Thus:
-
-```text
 Indriya(x)
-    ↛ SensoryOrgan(x)
+    ↛ Organ(x)
 
 SensoryFaculty(x)
     → Indriya(x)
 ```
 
-The twenty-two form four functional groups:
+Four groups, one predicate:
 
 ```text
-SensoryFive
-    → govern four embodied-cognitive functions
+eye, ear, nose, tongue, body
+    → four meanings each
 
-Female + Male + Life + Mind
-    → each governs two functions
+female, male, life, mind
+    → two each
 
-FeelingFive
-    → principally govern defilement
+five beginning with pleasure
+    → defilement
+    → purification, on the other account
 
-PurificatoryEight
-    → govern purification
+eight beginning with faith
+    → purification
 ```
 
-The nesting of the systems is therefore:
+The look back is not a second inventory:
 
 ```text
-FiveSensoryIndriyas
-    ⊂ TwentyTwoIndriyas
+principle
+    → locus, field, or portion
 
-FiveSensoryIndriyas
-    = one subsystem unified by sensory disclosure
+faculty
+    → governing efficacy
 
-TwentyTwoIndriyas
-    = wider system unified by ādhipatya
+principle
+    ≠ faculty
 ```
 
-Dhātu and Indriya are intersecting classifications:
+Some principles are faculties. Some portions are faculties. The five external are not. A principle without governing efficacy is not yet a Rule. Governing efficacy without a principle has no bearer.
 
-```text
-Principle(x)
-    → classifies x under a determinate principial relation
+## 9. Interpretive Note
 
-Faculty(x, f)
-    → identifies x through its governing relation to function f
+Chapter 1 closed by locating faculty: a portion of the dharma-principle, and the twelve internal. This verse changes the question. The common name is ādhipatya.
 
-PrincipleClassification(x)
-    ≠ GoverningRole(x, f)
-```
+The twenty-two are not one natural kind. Eye through body, female and male, life, mind, the five feelings, faith, vigor, mindfulness, concentration, Discrimination, and the three of realization, are one class because each governs.
 
-The Principle and Faculty classifications answer different questions. The
-Indriya system does not duplicate the Dhātu classification; it determines
-the governing function of a Faculty without collapsing that function into
-its Principle.
+The four matters of the five already exceed bare sensation: attractiveness, preservation, cognition with its associates, specific cause. Feeling is not itself affliction. The eight purify. The other account keeps feeling inside purification as well: the mind of one who is happy concentrates; suffering supports faith; gladness and the rest stand on renunciation.
 
-The Kośa's inference is logical:
+Kila marks the reported account. It does not by itself settle the author's distance. Principally is analysis. It is not in the verse.
 
-```text
-DeterminateGoverningRelation(x, f)
-    → FacultyWithRespectTo(x, f)
-```
-
-But this relation belongs to its System of Dharma-knowing. It uses logical
-form without producing Logic.
-
-## 9. Relation to Dhātu
-
-VAK 1.48 establishes the Principle classification and Faculty-incidence;
-VAK 2.01 explains the common governing criterion. Chapter 1 determines
-where the sensory Faculties stand in relation to objects and Cognitions.
-Chapter 2 asks why these—and seventeen other determinations—share the name
-*indriya*.
-
-The answer is *ādhipatya*. A Faculty has a governing role with respect to a
-specific function. The sensory five, Female and Male, Life and Mind, the
-five feelings, and the eight beginning with faith remain distinct groups;
-their common classification does not erase their different functions.
-
-The Bhāṣya's alternatives qualify the distribution of functions. They should
-remain attributed to the speakers named by the text, rather than being
-collapsed into a single unqualified position.
-
-**Techne relation.** The Principle classification and the Faculty
-classification are reciprocal but not interchangeable: one locates a
-Dharma within principial determination; the other articulates its governing
-operation. The project-level relation is not an itemwise bijection between
-eighteen Principles and twenty-two Faculties.
+Organon reading: Dhātu is the Faculty of Principles. Indriya is the faculty of Rules. The deposit stays. The wheel starts here. Not the verse English.
 
 ## 10. OWL++ Seed
 
@@ -253,7 +172,7 @@ eighteen Principles and twenty-two Faculties.
 vak:VAK_2_01
     a vak:Karika ;
     rdfs:label "VAK 2.01" ;
-    vak:hasTopic vak:GoverningEfficacyOfFaculties ;
+    vak:hasTopic vak:GoverningEfficacy ;
     vak:belongsTo vak:Indriyanirdesa .
 
 vak:Indriya
@@ -262,29 +181,25 @@ vak:Indriya
 
 vak:Adhipatya
     rdfs:label "governing efficacy" ;
-    vak:requires vak:Dharma,
-        vak:GovernedFunction .
+    vak:requires vak:Dharma, vak:Meaning .
 
 vak:SensoryFive
-    a vak:IndriyaSubsystem ;
     vak:partOf vak:TwentyTwoIndriyas ;
-    vak:governs vak:EmbodiedIntegrity,
-        vak:EmbodiedPreservation,
-        vak:SensoryCognitionProduction,
-        vak:SpecificSensoryDisclosure .
+    vak:governs vak:Attractiveness,
+        vak:Preservation,
+        vak:CognitionWithAssociates,
+        vak:SpecificCause .
 
-vak:FemaleMaleLifeMindGroup
-    vak:memberOf vak:TwentyTwoIndriyas ;
-    vak:governs vak:LivingDifferentiationAndContinuity .
+vak:FemaleMaleLifeMind
+    vak:governs vak:DistinctionAndContinuity .
 
 vak:FeelingFive
     vak:governs vak:Defilement .
 
-vak:PurificatoryEight
+vak:EightBeginningWithFaith
     vak:governs vak:Purification .
 
-organon:IndriyaDetermination
-    organon:hasCriterion vak:Adhipatya ;
-    organon:hasBearer vak:TwentyTwoIndriyas ;
-    organon:hasScope organon:PracticalCitta .
+organon:FacultyOfRules
+    organon:spinsAfter organon:FacultyOfPrinciples ;
+    organon:notIdenticalWith organon:VerseEnglish .
 ```

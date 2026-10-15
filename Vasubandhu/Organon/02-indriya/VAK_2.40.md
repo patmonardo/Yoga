@@ -1,4 +1,4 @@
-# VAK_2.40 — Relinquishing Non-Acquisition and the Regress of Acquisition
+# VAK_2.40 — Ordinary Status
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -12,96 +12,91 @@
 >
 > pṛthagjanatvaṃ tatprāptibhūsaṃcārād vihīyate // 2.40 //
 
+Āpta is inclusion in a realm, as in 2.37. Amala is uncontaminated. Not those who have attained purity.
+
 ## 3. Lexical Analysis
 
+| Pada | Force |
+|---|---|
+| kāma-ādi-āpta-amalānām | of realm-included and uncontaminated dharmas |
+| mārgasya aprāptiḥ | non-acquisition of the path |
+| pṛthagjanatvam | ordinary-person status |
+| tat-prāpti | acquisition of that |
+| bhū-saṃcāra | transition of ground |
+| vihīyate | is relinquished |
+
+Ordinary person is the path-status. Not an insult. Not a nature.
+
+## 4. Grammar
+
 ```text
-kāmādyāptāmalānāṃ ca → kāma-ādi-āpta-amalānām ca
-mārgasyāprāptiḥ       → mārgasya aprāptiḥ
-pṛthagjanatvam        → pṛthagjana-tvam
-tatprāptibhūsaṃcārāt  → tat-prāpti-bhūmi-saṃcārāt
-vihīyate              → vi-hīyate
+non-acquisition of realm-included and uncontaminated
+    also threefold, by realm
+    never itself uncontaminated
+non-acquisition of the path
+    = ordinary-person status, on the Vaibhāṣika account
+relinquished
+    by acquisition of that path
+    or by transition of ground
 ```
 
-| Pada | Morphology | Force in this passage |
+## 5. Translation
+
+### Literal Translation
+
+Of those included in the desire realm and the rest, and of the uncontaminated, also. Non-acquisition of the path is held to be ordinary-person status. It is relinquished by acquisition of that, or by transition of ground.
+
+### Bhāṣya-informed study translation
+
+Non-acquisition of a realm-bound or uncontaminated dharma may belong to any of the three realms. No non-acquisition is uncontaminated. The Vaibhāṣikas define ordinary-person status as non-acquisition of the noble path. It ceases by acquisition of that path, or by transition of ground. The critical account: a continuum in which noble dharmas have not yet arisen. Absence of another lineage's noble dharmas does not make the Buddha ordinary.
+
+If possession requires an acquisition, possession of that acquisition requires another. Mutual possession stops a simple regress and multiplies the entities. Inflation, not merely non-termination. The reply stands. Not settled.
+
+## 6. Philosophical Translation
+
+Ordinary status is developmental. The path is not yet operative. A real non-acquisition, or the non-arising of noble dharmas. Not an essence of the person. Left by credit of the path, or by a change of ground.
+
+Organon rendering:
+
+Who has not passed is this status. The two grounds of leaving it are the verse. Nirodha of virodha is the next discussion, not this relinquishment. Not the verse English. Not the final pass.
+
+## 7. Technical Vocabulary
+
+| Sanskrit | Running word | Determination |
 |---|---|---|
-| kāma-ādi-āpta-amalānām | genitive plural compound | of Dharmas in the three Principle-ranges and uncontaminated Dharmas |
-| mārgasya | genitive singular | of the Path |
-| aprāptiḥ | nominative feminine singular | non-acquisition |
-| pṛthagjanatvam | nominative neuter singular | ordinary-person status |
-| tat-prāpti | compound member | acquisition of that Dharma |
-| bhūmi-saṃcāra | compound | transition of ground |
-| vihīyate | passive verb | is relinquished |
+| amala | uncontaminated | the dharma; not the non-acquisition |
+| pṛthagjanatva | ordinary-person status | path-status |
+| bhūsaṃcāra | ground-transition | the second ground of relinquishment |
+| prāpti-prāpti | acquisition of acquisition | the regress |
 
-## 4. Scientific English Rendering
-
-> Non-acquisition is threefold also for Dharmas in the Desire, Form, and
-> Formless Principle-ranges and for uncontaminated Dharmas. Non-acquisition
-> of the Path is held to be ordinary-person status. It is relinquished
-> through acquisition of that Path or through transition of ground.
-
-The Bhāṣya distinguishes the two occasions: acquiring the noble Path and
-changing a relevant ground are not interchangeable achievements.
-
-## 5. Interpretation
-
-This verse states that ordinary-person status is transformable. The
-continuum does not cease to be ordinary merely because a present event is
-called elevated; the relevant noble Dharma must be acquired, or the
-applicable ground must change. Conversely, non-acquisition is not a
-permanent nature of the person.
-
-The ensuing Bhāṣya exposes the cost of treating *prāpti* and *aprāpti* as
-independent real entities. If each entity must itself be acquired, a
-second-order acquisition arises; the proposed mutual-possession solution
-halts a simple regress at one point but generates an expanding proliferation
-of acquisitions over successive moments.
-
-## 6. Logical Determination
+## 8. Logical Determination
 
 ```text
-OrdinaryPersonStatus(S)
-    := NonAcquisition(S, NoblePath)
-
-Acquires(S, NoblePath)
-or GroundTransition(S)
-    → Relinquishes(S, OrdinaryPersonStatus)
+non-acquisition
+    realm ∈ {desire, form, formless}
+    never uncontaminated
+ordinary, Vaibhāṣika
+    = real non-acquisition of the noble path
+ordinary, critical
+    = noble dharmas not yet arisen
+relinquished
+    by acquisition of that path
+    or ground-transition
+regress
+    mutual possession blocks the line
+    multiplies the entities
+    not settled
 ```
 
-The reified model:
+## 9. Interpretive Note
 
-```text
-RealPrapti(P, S, D)
-    → requires acquisition of P
-    → requires acquisition of that acquisition
-```
+The opening completes the threefold rule of 2.39. The status is the verse. The genetic account and the regress are the commentary. Voices stay apart.
 
-The critical result:
-
-```text
-ContinuumCapacityAndTransformation
-    explains status
-    without multiplying possession-entities
-```
-
-## 7. Interpretive Note
-
-The verse's opening completes VAK 2.39's Principle-range classification.
-Its second half carries ordinary-person status into the following regress
-argument. No transition to VAK 2.41 is made here.
-
-## 8. OWL++ Seed
+## 10. OWL++ Seed
 
 ```ttl
 @prefix vak: <http://127.0.0.1:3000/vak#> .
-@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
-vak:VAK_2_40
-    a vak:Karika ;
-    rdfs:label "VAK 2.40" ;
-    vak:hasTopic vak:RelinquishmentOfNonAcquisition ;
-    vak:belongsTo vak:Indriyanirdesa .
-
-vak:OrdinaryPersonStatus
-    vak:endsThrough vak:AcquisitionOfNoblePath,
-        vak:GroundTransition .
+vak:VAK_2_40 a vak:Karika ; vak:hasTopic vak:OrdinaryStatus .
+vak:OrdinaryStatus vak:settled false .
 ```

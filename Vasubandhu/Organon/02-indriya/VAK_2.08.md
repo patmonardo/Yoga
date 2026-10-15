@@ -1,4 +1,4 @@
-# VAK_2.08 — Gladness, Distress, and the Unity of Neutral Feeling
+# VAK_2.08 — Gladness, Distress, One Neutral
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -12,262 +12,127 @@
 >
 > daurmanasyam upekṣā tu madhyā ubhayī avikalpanāt // 2.8 //
 
-The research witness gives `madhyā ubhayī avikalpanāt`. The continuous
-source contracts the same sequence as `madhyobhayyavikalpanāt`; the separated
-forms are used below for analysis.
+The research witness separates madhyā ubhayī avikalpanāt. The running source contracts madhyobhayyavikalpanāt. The separated forms are used here.
 
 ## 3. Lexical Analysis
 
-```text
-anyatra             → anyatra
-sā saumanasyam      → sā saumanasyam
-aśātā caitasī       → aśātā caitasī
-punaḥ               → punaḥ
-daurmanasyam        → daurmanasyam
-upekṣā tu           → upekṣā tu
-madhyobhayyavikalpanāt
-                    → madhyā ubhayī avikalpanāt
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
-| anyatra | indeclinable adverb | elsewhere; outside the third-dhyāna case |
-| sā | nominative feminine singular pronoun | that same agreeable mental feeling from VAK 2.07 |
-| saumanasyam | nominative neuter singular | gladness-faculty / mental pleasure |
-| aśātā | nominative feminine singular | disagreeable; understood with `vedanā` |
-| caitasī | nominative feminine singular | mental; understood with `vedanā` |
-| punaḥ | indeclinable adverb | in turn / again |
-| daurmanasyam | nominative neuter singular | distress-faculty / mental displeasure |
-| upekṣā | nominative feminine singular | neutral feeling / equanimity |
-| tu | contrastive particle | but / however |
-| madhyā | nominative feminine singular | middle; neither agreeable nor disagreeable |
-| ubhayī | nominative feminine singular | of both kinds: bodily and mental |
-| avikalpanāt | ablative singular action noun | because of the absence of differentiation |
+| anyatra | indeclinable | elsewhere; outside the third dhyāna |
+| sā | nominative | that agreeable mental feeling |
+| saumanasyam | nominative | gladness |
+| aśātā caitasī | nominative | disagreeable, mental |
+| punaḥ | indeclinable | in turn |
+| daurmanasyam | nominative | distress |
+| upekṣā | nominative | neutral feeling |
+| tu | particle | but |
+| madhyā | nominative | the middle |
+| ubhayī | nominative | of both kinds |
+| avikalpanāt | ablative | because of non-differentiation |
 
-The neuter faculty names stand as predicates of feminine `vedanā` or its
-pronominal continuation. `Ubhayī` does not mean two neutral faculties; it
-means that the one neutral-feeling faculty includes bodily and mental feeling.
+Ubhayī is not two neutral faculties. One faculty includes bodily and mental.
 
 ## 4. Grammar
 
-`Anyatra` carries forward the exception established in VAK 2.07:
-
 ```text
-anyatra sā saumanasyam
-    → elsewhere, that [agreeable mental feeling] is gladness
-```
+anyatra sā
+    → saumanasyam
+    desire realm, first dhyāna, second dhyāna
 
-The Bhāṣya specifies the extension of “elsewhere”:
+aśātā caitasī punaḥ
+    → daurmanasyam
 
-```text
-desire realm
-+ first dhyāna
-+ second dhyāna
-```
-
-The next predication is parallel:
-
-```text
-aśātā caitasī [vedanā] punaḥ daurmanasyam
-    → disagreeable mental [feeling], in turn, is distress
-```
-
-The second line defines and then classifies neutral feeling:
-
-```text
 upekṣā tu madhyā
-    → neutral feeling, however, is the middle
+    neither agreeable nor disagreeable
 
 ubhayī
-    → it is of both kinds, bodily and mental
+    bodily and mental
 
 avikalpanāt
-    → because of the absence of differentiation
+    one faculty, because the neutral operation does not differ
 ```
 
-The Kārikā leaves the exact force of `avikalpanāt` compressed. The Bhāṣya
-explains it as the absence, in neutral feeling, of the functional difference
-that requires bodily and mental pleasure and pain to be counted separately.
+The third dhyāna is free of prīti. The Bhāṣya identifies prīti with saumanasya. That is why agreeable mental feeling there is the pleasure-faculty.
 
-## 5. Scientific English Rendering
+## 5. Translation
 
-### Kārikā
+### Literal Translation
 
-> Elsewhere, that [agreeable mental feeling] is gladness; disagreeable mental [feeling], in turn, is distress. Neutral feeling, however, is the middle, is of both kinds, and is one because of non-differentiation.
+Elsewhere, that is gladness. Disagreeable mental feeling, in turn, is distress. Neutral feeling, however, is the middle, of both kinds, because of non-differentiation.
 
-### Bhāṣya-informed rendering
+### Bhāṣya-informed study translation
 
-> Outside the third dhyāna—in the desire realm and the first and second dhyānas—agreeable mental feeling is the gladness-faculty. Disagreeable mental feeling is the distress-faculty. Neutral feeling is neither agreeable nor disagreeable; bodily and mental neutral feeling together constitute one faculty because they do not differ in the function of neutral attending.
+Outside the third dhyāna, in the desire realm and the first and second dhyānas, that agreeable mental feeling is the gladness-faculty. In the third dhyāna, because of dispassion toward rapture, it is the pleasure-faculty and not the gladness-faculty. Rapture is gladness.
 
-The Bhāṣya adds that the third dhyāna is free from `prīti`, which it identifies
-with `saumanasya`. This explains why agreeable mental feeling there is called
-`sukha-indriya`, not `saumanasya-indriya`.
+Disagreeable mental feeling is distress. Neutral feeling is the middle: neither agreeable nor disagreeable, neither painful nor pleasurable. It is of both kinds, bodily and mental. It is made one faculty because of non-differentiation.
 
-## 6. Interpretation
+Mental pleasure and pain arise for the most part through differentiation. Bodily pleasure and pain do not. They arise through the force of the viṣaya, even in arhats. So those two are distinguished as faculties. Neutral feeling, bodily or mental, arises in its own course even without that differentiation, and is made one faculty. Bodily pleasure supports in one way, mental pleasure in another. Bodily pain injures in one way, mental pain in another. In neutral feeling that difference does not exist. With respect to remaining neutral, there is no division.
 
-VAK 2.08 completes the five feeling-Faculties through distinctions of
-affective character, bodily or mental mode, meditative context, manner
-of arising, and effect. The Bhāṣya uses *prāyeṇa* (“for the most part”)
-to qualify the role of *vikalpana* in mental pleasure and pain; it does
-not make that process the universal cause of every such feeling.
-Bodily and mental neutral feelings remain distinct modes, but share
-one Faculty because their neutral operation does not differ.
+## 6. Philosophical Translation
 
-In the Kant-informed Techne, these stated features function as
-classification criteria: they determine when feeling-modes receive
-distinct Faculty designations and when differing modes count as one.
-The crosswalk with Dhātu 1.48 connects this functional account to the
-Base–Essence–Principle architecture without collapsing their different
-questions. This is a project-level interpretation, not terminology
-supplied by the Bhāṣya.
+Agreeable mental feeling is gladness, except in the third dhyāna, where rapture is absent and the name is pleasure. Disagreeable mental feeling is distress. Neutral feeling is the middle, bodily and mental, one faculty, because the neutral operation does not split.
 
-Across the Kośa, Vijñāna is Discriminative Cognition joining Perception
-and Conception without reducing their unity to one homogeneous operation;
-it governs Mind and guides the reading of Dharma Base. The same
-*avijñapti* remains one content in the Form Base and Dharma Base
-classifications, and Vijñāna bears a *prati* relation to it. This wider
-synthesis frames, but is not stated in full by, this verse.
+Pleasure and pain split by mode because arising and effect differ. Neutral feeling does not. For the most part is kept. Differentiation is not the cause of every mental pleasure or pain.
+
+Organon rendering:
+
+Two projections of one agreeable mental feeling. Elsewhere the jewel is gladness. In the third dhyāna it reflects the pleasure-place. Neutral feeling is one jewel in two modes. The net does not multiply a faculty where the operation is undivided. Not the verse English.
 
 ## 7. Technical Vocabulary
 
-| Sanskrit | Project rendering | Determination |
+| Sanskrit | Running word | Determination |
 |---|---|---|
-| saumanasya-indriya | gladness-faculty | agreeable mental feeling in the desire realm and first two dhyānas |
-| prīti | rapture / joyful elevation | identified by the Bhāṣya with `saumanasya`; absent in the third dhyāna |
-| daurmanasya-indriya | distress-faculty | disagreeable mental feeling |
-| upekṣā-indriya | neutral-feeling faculty | middle feeling, including bodily and mental instances as one faculty |
-| madhyā | middle | neither agreeable nor disagreeable; neither painful nor pleasurable |
-| ubhayī | of both kinds | bodily and mental neutral feeling |
-| vikalpana | differentiation | process through which mental pleasure and pain generally arise here |
-| avikalpana | absence of differentiation | ground for not dividing bodily and mental neutral feeling into two faculties |
-| viṣaya-vaśa | under the force of the sensory correlate | Bhāṣya explanation of bodily pleasure and pain arising even in arhats |
-| svarasena | naturally / by its own course | manner in which neutral feeling arises in one who is not differentiating |
-| anugṛhṇāti | supports / benefits | effect that differs between bodily and mental pleasure |
-| upahanti | injures / impairs | effect that differs between bodily and mental pain |
-| upekṣaṇa | neutral attending | common function of bodily and mental neutral feeling |
-| arhat | arhat | liberated practitioner who may still undergo bodily pleasure and pain |
-
-`Avikalpana` here is not a casual synonym for thoughtlessness. It answers a
-precise classificatory question: why do two modes of neutral feeling count as
-one faculty when bodily and mental pleasure and pain count separately?
+| saumanasya | gladness | agreeable mental feeling outside the third dhyāna |
+| prīti | rapture | identified here with gladness; absent in the third dhyāna |
+| daurmanasya | distress | disagreeable mental feeling |
+| upekṣā | neutral feeling | the middle; not every equanimity |
+| madhyā | middle | neither agreeable nor disagreeable |
+| ubhayī | of both kinds | bodily and mental; one faculty |
+| vikalpana | differentiation | how mental pleasure and pain mostly arise; not Discrimination |
+| avikalpana | non-differentiation | why neutral feeling is one |
+| viṣaya-vaśa | force of the viṣaya | bodily pleasure and pain, even in an arhat |
+| svarasena | in its own course | how neutral feeling arises |
+| upekṣaṇa | remaining neutral | the respect in which the modes do not differ |
 
 ## 8. Logical Determination
 
-VAK 2.07–2.08 complete the five feeling-faculties:
-
 ```text
-FeelingFaculty
-    = {Duhkha, Sukha, Saumanasya, Daurmanasya, Upeksa}
+disagreeable + bodily
+    → pain
+agreeable + bodily
+    → pleasure
+agreeable + mental + third dhyāna
+    → pleasure
+agreeable + mental + elsewhere
+    → gladness
+disagreeable + mental
+    → distress
+neutral + bodily or mental
+    → one neutral faculty
+
+mental pleasure or pain
+    → mostly through differentiation
+bodily pleasure or pain
+    → force of the viṣaya
+    → possible for an arhat
+
+different arising or different effect
+    → may split the faculty
+no difference in remaining neutral
+    → one faculty
 ```
 
-The full classifier is:
-
-```text
-Disagreeable(x) ∧ Bodily(x)
-    → FacultyClass(x, Duhkha)
-
-Agreeable(x) ∧ Bodily(x)
-    → FacultyClass(x, Sukha)
-
-Agreeable(x) ∧ Mental(x) ∧ ThirdDhyana(x)
-    → FacultyClass(x, Sukha)
-
-Agreeable(x) ∧ Mental(x) ∧ OutsideThirdDhyana(x)
-    → FacultyClass(x, Saumanasya)
-
-Disagreeable(x) ∧ Mental(x)
-    → FacultyClass(x, Daurmanasya)
-
-Neutral(x) ∧ (Bodily(x) ∨ Mental(x))
-    → FacultyClass(x, Upeksa)
-```
-
-The Bhāṣya gives a second-order rule for when empirical modes require distinct
-faculties:
-
-```text
-DifferentMannerOfArising(x, y)
-∨ DifferentEffectOnContinuum(x, y)
-    → MayRequireDistinctFacultyClasses(x, y)
-```
-
-Applied to pleasure and pain:
-
-```text
-MentalPleasureOrPain
-    → GenerallyArisesThrough(Vikalpana)
-
-BodilyPleasureOrPain
-    → MayAriseUnderForceOf(SensoryCorrelate)
-    → MayOccurIn(Arhat)
-
-BodilyPleasure supports differently from MentalPleasure
-BodilyPain injures differently from MentalPain
-```
-
-Applied to neutrality:
-
-```text
-Neutral(Bodily)
-∧ Neutral(Mental)
-∧ NoDifferenceIn(NeutralAttending)
-    → OneFaculty(Upeksa)
-```
-
-Thus:
-
-```text
-DifferentMode(x, y)
-    ↛ NecessarilyDifferentFaculty(x, y)
-
-SameTone(x, y)
-    ↛ NecessarilySameFaculty(x, y)
-
-FunctionalDifference(x, y)
-    → GovernsFacultyDifferentiation(x, y)
-```
+Different mode does not force two faculties. Same tone does not force one.
 
 ## 9. Interpretive Note
 
-VAK 2.08 completes the affective subsystem begun in VAK 2.07. The resulting
-classification is not a flat grid of pleasant, unpleasant, and neutral
-states. Meditative level, bodily or mental mode, manner of arising, and effect
-upon the continuum all participate in determining faculty-status.
+2.07 left the name. This verse gives it. Elsewhere is specified: desire realm, first dhyāna, second dhyāna. Absence of the five cognition-groups explained why the third-dhyāna feeling is mental. Dispassion toward rapture explains why it is not gladness. Rapture is gladness is the local statement. It is not a rule for every text.
 
-The first important determination is the boundary between `sukha` and
-`saumanasya`. Agreeable mental feeling is normally gladness, but the third
-dhyāna is free from `prīti`, and the Bhāṣya identifies `prīti` with
-`saumanasya`. Agreeable mental feeling at that level therefore occupies the
-`sukha` position without becoming bodily. Dhyāna changes the operative
-architecture under which feeling is classified.
+For the most part stays. Differentiation is not every mental pleasure or pain, and it is not affliction. The arhat may still have bodily pleasure and pain. The sentence does not say the arhat has no thought.
 
-The second determination concerns provenance. Mental pleasure and pain arise
-for the most part through `vikalpana`; bodily pleasure and pain may arise
-through the power of a sensory correlate, even for an arhat. Liberation does
-not erase bodily feeling. Nor does the passage claim that every mental feeling
-is afflicted. It distinguishes the ordinary mechanisms through which bodily
-and mental affect arise and operate.
+Neutral feeling arises in its own course. That is not the unconditioned, and it is not an advanced attainment by this sentence alone. Ubhayī keeps the modes. One faculty is the count, not the erasure of bodily and mental.
 
-The third determination concerns functional unity. Bodily and mental neutral
-feeling are empirically distinguishable, but the Bhāṣya finds no difference
-between them with respect to `upekṣaṇa`, neutral attending. They therefore
-form one faculty. The Kośa neither multiplies faculties for every substrate
-difference nor collapses functionally different states because their tone is
-similar.
-
-**Reciprocal return to Dhātu.** Dhātu 1.48 locates the five feeling
-Faculties within the Base–Essence–Principle architecture. Indriya
-2.08 specifies which feeling-differences warrant distinct Faculties
-and which do not. The structural map and functional criteria answer
-different questions and remain distinct.
-
-Across the Kośa, Vijñāna is Discriminative Cognition joining Perception
-and Conception without reducing their unity to one homogeneous operation;
-it governs Mind and guides the reading of Dharma Base. The same
-*avijñapti* remains one content in the Form Base and Dharma Base
-classifications, and Vijñāna bears a *prati* relation to it. This
-cross-chapter synthesis is the Organon's framework, not a claim made
-by this verse.
+Organon reading: the net reflects agreeable mental feeling into gladness or into pleasure, by level. It reflects the two neutral modes as one jewel. Not the verse English.
 
 ## 10. OWL++ Seed
 
@@ -279,44 +144,17 @@ by this verse.
 vak:VAK_2_08
     a vak:Karika ;
     rdfs:label "VAK 2.08" ;
-    vak:hasTopic vak:SaumanasyaIndriya,
-        vak:DaurmanasyaIndriya,
-        vak:UpeksaIndriya ;
+    vak:hasTopic vak:Gladness, vak:Distress, vak:NeutralFeeling ;
     vak:belongsTo vak:Indriyanirdesa .
 
-vak:SaumanasyaIndriya
-    a vak:FeelingFaculty ;
-    vak:hasAffectiveCharacter vak:Agreeable ;
-    vak:hasFeelingMode vak:Mental ;
-    vak:occursOutside vak:ThirdDhyana ;
-    vak:identifiedWith vak:Priti .
+vak:Gladness vak:isAgreeableMentalFeeling true ;
+    vak:outside vak:ThirdDhyana ;
+    vak:identifiedWith vak:Rapture .
+vak:Distress vak:isDisagreeableMentalFeeling true .
+vak:NeutralFeeling vak:includes vak:Bodily, vak:Mental ;
+    vak:oneFacultyBecause vak:NonDifferentiation .
 
-vak:DaurmanasyaIndriya
-    a vak:FeelingFaculty ;
-    vak:hasAffectiveCharacter vak:Disagreeable ;
-    vak:hasFeelingMode vak:Mental .
-
-vak:UpeksaIndriya
-    a vak:FeelingFaculty ;
-    vak:hasAffectiveCharacter vak:Neutral ;
-    vak:includesMode vak:Bodily,
-        vak:Mental ;
-    vak:hasUnifiedFunction vak:NeutralAttending ;
-    vak:unifiedBecause vak:Avikalpana .
-
-vak:BodilyPleasurePain
-    vak:mayAriseUnderForceOf vak:SensoryCorrelate ;
-    vak:mayOccurIn vak:Arhat .
-
-vak:MentalPleasurePain
-    vak:generallyArisesThrough vak:Vikalpana .
-
-organon:FunctionalFacultyClassifier
-    a organon:InterpretiveReconstruction ;
-    organon:usesFeature vak:AffectiveCharacter,
-        vak:FeelingMode,
-        vak:ExperientialLevel,
-        vak:GenerativeProvenance,
-        vak:FunctionalEffect ;
-    organon:inferredFrom vak:FiveFeelingFaculties .
+organon:JeweledNet
+    organon:projectsByLevel true ;
+    organon:notTheVerseEnglish true .
 ```

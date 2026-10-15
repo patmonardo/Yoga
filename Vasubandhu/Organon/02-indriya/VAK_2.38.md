@@ -1,4 +1,4 @@
-# VAK_2.38 — Exceptions to the Temporal Classification of Acquisition
+# VAK_2.38 — Status Does Not Inherit
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -12,95 +12,91 @@
 >
 > avyākṛtāptiḥ sahajābhijñānairmāṇikād ṛte // 2.38 //
 
+The final compound is compressed. Except the superknowledges and the magical-creation mind is the commentary's sense. Segmentation provisional.
+
 ## 3. Lexical Analysis
 
+| Pada | Force |
+|---|---|
+| na-śaikṣa-aśaikṣāṇām | of what is neither trainee nor beyond training |
+| tridhā | threefold |
+| aheyānām | of what is not to be abandoned |
+| dvidhā | twofold |
+| avyākṛta-āptiḥ | acquisition of the indeterminate |
+| sahajā | co-arisen |
+| ṛte | except |
+
+Sahajā is simultaneous. Not innate.
+
+## 4. Grammar
+
 ```text
-naśaikṣāśaikṣāṇām → na-śaikṣa-aśaikṣāṇām
-aheyānām           → a-heyānām
-avyākṛtāptiḥ       → avyākṛta-āptiḥ
-sahajā              → saha-jā
-abhijñānairmāṇikāt → abhijñā-nairmāṇikāt
-ṛte                 → ṛte
+neither trainee nor beyond
+    acquisition may be trainee, beyond, or neither
+not to be abandoned
+    acquisition abandoned by cultivation, or itself not to be abandoned
+indeterminate acquisition
+    co-arisen
+    except two indeterminate superknowledges
+    and the magical-creation mind
+    those may precede, accompany, and follow
 ```
 
-| Pada | Morphology | Force in this passage |
+Unobscured-indeterminate is the commentary's restriction on the co-arising rule.
+
+## 5. Translation
+
+### Literal Translation
+
+Threefold, of what is neither trainee nor beyond training. Of what is not to be abandoned, held to be twofold. Acquisition of the indeterminate is co-arisen, except the superknowledges and the magical creation.
+
+### Bhāṣya-informed study translation
+
+Acquisition of a dharma that is neither trainee nor beyond training may itself be any of the three. Of a dharma not to be abandoned, acquisition is abandoned through cultivation, or is itself not to be abandoned. Ordinary acquisition of cessation through Discrimination is the first. Acquisition by the noble path is the second. Acquisition of an unobscured-indeterminate dharma arises only with that dharma, except the two indeterminate superknowledges and the magical-creation mind. Special preparatory practice. Their acquisition may precede, accompany, and follow.
+
+## 6. Philosophical Translation
+
+The dharma's class does not fix the credit's class. The relation records how it became available. Weak neutral occurrence is possessed only while manifest. Cultivated neutral capacity is available before and retained after. Ethical neutrality is not weakness.
+
+Organon rendering:
+
+Manifestation is not the credit. Not the verse. Not the final pass.
+
+## 7. Technical Vocabulary
+
+| Sanskrit | Running word | Determination |
 |---|---|---|
-| naśaikṣāśaikṣāṇām | genitive plural compound | of Dharmas neither trainee nor beyond training |
-| tridhā | adverb | threefold |
-| aheyānām | genitive plural | of Dharmas not subject to abandonment |
-| dvidhā | adverb | twofold |
-| avyākṛta-āptiḥ | nominative feminine singular | acquisition of indeterminate Dharma |
-| sahajā | nominative feminine singular | co-arisen |
-| abhijñā-nairmāṇikāt | ablative compound | except superknowledges and magical-creation mind |
-| ṛte | indeclinable | except |
+| naivaśaikṣanāśaikṣa | neither | the third path-class |
+| aheya | not to be abandoned | the dharma; the credit may differ |
+| sahajā | co-arisen | not innate |
+| agrajā | prior | the exception |
+| abhijñā | superknowledge | two indeterminate |
+| nairmāṇika | magical-creation mind | the other exception |
 
-## 4. Scientific English Rendering
+Crafts are a further attributed extension. Not every skill is a superknowledge.
 
-> Acquisition of Dharmas neither trainee nor beyond training is threefold;
-> acquisition of Dharmas not subject to abandonment is twofold.
-> Acquisition of unobscured-indeterminate Dharmas is co-arisen, except for
-> the superknowledges and magical-creation mind.
-
-The Bhāṣya completes the first two classifications begun in VAK 2.37:
-the same neither-trainee-nor-beyond-training cessation can have trainee or
-beyond-training acquisition according to the Path through which it was
-obtained; the non-abandonable cases distinguish cultivation-abandonable
-acquisition from uncontaminated non-abandonable acquisition.
-
-## 5. Interpretation
-
-The verse gives an exception to the general three-time matrix. Weak
-unobscured-indeterminate Dharmas have acquisition only with their
-manifestation. Two indeterminate superknowledges and magical-creation mind
-are excepted because special practice gives them sufficient strength for
-prior, co-arisen, and subsequent acquisition.
-
-The Bhāṣya then adds that obscured-indeterminate manifest Form also has
-co-arisen-only acquisition, while Desire-Principle Form has no prior
-acquisition, though co-arisen and subsequent acquisition may occur. These
-are distinctions of capacity, preparation, and retention—not a claim that
-all indeterminate Dharmas behave alike.
-
-Vijñāna is Discriminative Cognition joining and governing Perception and
-Conception. In the present local analysis it governs a continuum whose
-acquisition-status can be weak, cultivated, momentary, or retained; the
-source does not convert this into a universal rule of instruction.
-
-## 6. Logical Determination
+## 8. Logical Determination
 
 ```text
-WeakUnobscuredIndeterminate(D)
-    → AcquisitionTime(S, D) = DharmaTime(D)
-
-ExceptionalCultivatedIndeterminate(D)
-    → AcquisitionTime(S, D)
-      in {prior, co-arisen, subsequent}
-
-DesirePrincipleForm(D)
-    → prior acquisition is excluded
+path-class of the dharma
+    ≠ path-class of the acquisition
+abandonment-class likewise
+weak unobscured-indeterminate
+    → co-arisen only
+special cultivation
+    → prior, co-arisen, subsequent
+indeterminate
+    ≠ weak
 ```
 
-## 7. Interpretive Note
+## 9. Interpretive Note
 
-*Sahajā* means co-arisen in this temporal classification, not innate or
-birth-acquired. The source's final compound is compressed and the
-identification of the exceptions follows the Bhāṣya; its exact
-segmentation remains provisional.
+An exception engine on the matrix of 2.37. Cessation through Discrimination is neither trainee nor beyond, in itself. Its credit follows the path that obtained it. The continuation into obscured form and desire-realm form is 2.39.
 
-## 8. OWL++ Seed
+## 10. OWL++ Seed
 
 ```ttl
 @prefix vak: <http://127.0.0.1:3000/vak#> .
-@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
-vak:VAK_2_38
-    a vak:Karika ;
-    rdfs:label "VAK 2.38" ;
-    vak:hasTopic vak:TemporalModesOfAcquisition ;
-    vak:belongsTo vak:Indriyanirdesa .
-
-vak:ExceptionalCultivatedIndeterminate
-    vak:permits vak:PriorAcquisition,
-        vak:CoArisenAcquisition,
-        vak:SubsequentAcquisition .
+vak:VAK_2_38 a vak:Karika ; vak:hasTopic vak:AcquisitionDoesNotInherit .
 ```

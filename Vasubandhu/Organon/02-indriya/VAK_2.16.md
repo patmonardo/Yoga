@@ -1,4 +1,4 @@
-# VAK_2.16 — Faculties Through Which the Fruits Are Attained
+# VAK_2.16 — Fruits Through Faculties
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -12,259 +12,128 @@
 >
 > navāptir antyaphalayoḥ saptāṣṭanavabhir dvayoḥ // 2.16 //
 
-## 3. Lexical Analysis
+The first half closed the death count in 2.15. This study is the fruit question.
 
-```text
-kramamṛtyau          → krama-mṛtyau
-catvāri              → catvāri
-śubhe                → śubhe
-sarvatra             → sarvatra
-pañca ca             → pañca ca
-navāptir             → nava āptiḥ
-antyaphalayoḥ        → antya-phalayoḥ
-saptāṣṭanavabhir     → sapta aṣṭa navabhiḥ
-dvayoḥ               → dvayoḥ
-```
+## 3. Lexical Analysis
 
 | Pada | Morphology | Force in this passage |
 |---|---|---|
-| krama-mṛtyau | locative singular compound | in gradual death |
-| tu | contrastive particle | but / on the other hand |
-| catvāri | neuter plural numeral | four faculties |
-| śubhe | locative singular | with a wholesome mind, as specified by the Bhāṣya |
-| sarvatra | indeclinable | in every case / throughout the realm profiles |
-| pañca | numeral | five additional faculties |
-| āptiḥ | nominative singular feminine | attainment |
-| antya-phalayoḥ | genitive dual | of the two fruits at the extremes |
-| navabhiḥ | instrumental plural | by nine faculties |
-| saptāṣṭanavabhiḥ | coordinated instrumental values | by seven, eight, or nine faculties |
+| krama-mṛtyau | locative | in gradual death |
+| catvāri | numeral | four |
+| śubhe | locative | with a wholesome mind |
+| sarvatra pañca ca | indeclinable | five in addition, everywhere |
+| nava-āptiḥ | nominative | attainment through nine |
+| antya-phalayoḥ | genitive dual | of the two extreme fruits |
+| sapta-aṣṭa-navabhiḥ | instrumental | through seven, eight, or nine |
 | dvayoḥ | genitive dual | of the two middle fruits |
 
-The Bhāṣya prevents two misleading readings. `Antya` identifies the two
-extremes of the four-fruit series—stream-entry and arhatship—not simply the
-last two in temporal order. The understood instrument of `navāptiḥ` is
-`navabhir indriyaiḥ`, “attainment through nine faculties.”
+Antya is the extremes of the four, stream-entry and arhatship, not the last two in time. The instrument is faculties. The fruit is not the set.
 
 ## 4. Grammar
 
-The first half gives two terminal rules:
-
 ```text
-krama-mṛtyau tu catvāri
-    → in gradual death, however, four [faculties cease]
+gradual death
+    → four cease together
+wholesome mind
+    → five in addition
 
-śubhe sarvatra pañca ca
-    → with a wholesome [mind], five more [cease] in every case
+two extremes
+    → through nine
+    stream-entry and arhatship
+
+two middle
+    → through seven, eight, or nine
+    once-returning and non-returning
 ```
 
-The verb `nirodhayati` is supplied from VAK 2.15 and repeated by the Bhāṣya.
-The four are:
+Nine for stream-entry is not the nine for arhatship.
 
-```text
-kāya-indriya
-jīvita-indriya
-manas-indriya
-upekṣā-indriya
-```
+## 5. Translation
 
-The five added under wholesome terminal consciousness are the series
-beginning with confidence:
+### Literal Translation
 
-```text
-śraddhā + vīrya + smṛti + samādhi + prajñā
-```
+In gradual death, however, four. With a wholesome mind, everywhere five in addition. Attainment of the two extreme fruits is through nine. Of the two, through seven, eight, or nine.
 
-The second half changes topic from cessation at death to attainment of the
-four `śrāmaṇya-phala`:
+### Bhāṣya-informed study translation
 
-```text
-nava āptiḥ antya-phalayoḥ
-    → attainment of the two extreme fruits is through nine
+The extremes are stream-entry and arhatship. The middle are once-returning and non-returning.
 
-sapta-aṣṭa-navabhiḥ dvayoḥ
-    → attainment of the two [middle fruits] is through seven,
-      eight, or nine
-```
+Stream-entry through nine: the five beginning with faith, excluding one who has known, together with mind and neutral feeling. “I shall know” is on the uninterrupted path. The knowledge-faculty is on the path of liberation. Attainment is through both. They bring about, and support, the acquisition of disconnection.
 
-The instrumental construction expresses the faculty-complex through which a
-fruit is attained. It does not identify the fruit with that complex.
+Arhatship through nine: the five, excluding “I shall know,” together with mind and any one of pleasure, gladness, and neutral feeling.
 
-## 5. Scientific English Rendering
+Once-returning and non-returning, each through seven, eight, or nine. Sequential, mundane: seven, the five, neutral feeling, and mind. Supramundane: eight, the knowledge-faculty as eighth. Already free from desire: nine, as stream-entry. Non-returning differs: any one of the three feelings, by the support. A sharp sequential practitioner who enters dhyāna on the ninth path of liberation attains non-returning through eight on a mundane path: neutral feeling on the uninterrupted path, gladness on liberation. Supramundane, nine.
 
-### Kārikā
+The Abhidharma says arhatship through eleven. It is attained through nine alone. Eleven is said because that is possible for one person, falling away and attaining again with pleasure, with gladness, and with neutral feeling. The three feelings are not at one time. A non-returner who has fallen away does not attain again with pleasure. One already free from desire does not fall away. That dispassion was attained through both paths.
 
-> In gradual death, however, four [faculties cease]; with a wholesome [mind], five more in every case. Attainment of the two extreme fruits is through nine; that of the two [middle fruits] is through seven, eight, or nine.
+## 6. Philosophical Translation
 
-### Bhāṣya-informed rendering
+The fruit is one result. The faculties through which it is attained are not the fruit. Stream-entry and arhatship are each nine, and not the same nine. The middle fruits are seven, eight, or nine by route: sequential mundane, sequential supramundane, or from prior dispassion. Eight can be two different sets. Eleven is one person across attainments, not one moment.
 
-> In gradual death, the faculties of body, life, mind, and neutral feeling cease together. If death occurs while the mind is wholesome, the five faculties beginning with confidence are added to the applicable terminal set. Stream-entry and arhatship, the two extreme fruits, are each attained through nine faculties. Once-returning and non-returning, the two middle fruits, may each be attained through seven, eight, or nine, according to the path and manner of attainment.
+Organon rendering:
 
-The four faculties of gradual death do not cease separately. The Bhāṣya
-restricts this fourfold rule to death with afflicted or ethically
-indeterminate consciousness. Wholesome death adds five faculties to the
-terminal profile already applicable to the case; thus the formless profile
-has eight and the form-realm profile thirteen.
-
-## 6. Interpretation
-
-The Bhāṣya restricts the fourfold gradual-death rule to death with
-afflicted or ethically indeterminate consciousness; a wholesome
-terminal mind adds five Faculties to the applicable set. It then
-distinguishes attainment-result from the Faculties and path through
-which that result is attained. The two extreme fruits each have a
-nine-Faculty count, while each middle fruit admits counts of seven,
-eight, or nine under the stated path and prior-dispassion conditions.
-These counts do not establish that every counted Faculty is
-simultaneously present.
-
-In the Kant-informed Techne, the path conditions are determinations
-of the account rather than one universal biography for every
-practitioner. The Base–Essence–Principle crosswalk connects this
-functional classification to the wider Organon without claiming
-that the Bhāṣya itself offers a system-design theory.
-
-The Kośa's governing synthesis: Vijñāna is Discriminative Cognition joining
-and governing Perception and Conception. Their unity is Inconceivable as a
-homogeneous operation; its Idea is disclosed in the Cognition Base. Vijñāna
-governs Mind and guides the reading of Dharma Base. *Avijñapti* is the
-bridge, one Dharma classified in both Form Base and Dharma Base; Vijñāna
-bears a *prati* relation to it.
+Consequence and the members that mediate it. Same consequence, different membership. The number does not name the set. Not the verse English.
 
 ## 7. Technical Vocabulary
 
-| Sanskrit | Project rendering | Determination |
+| Sanskrit | Running word | Determination |
 |---|---|---|
-| krama-mṛtyu | gradual death | terminal mode contrasted with the simultaneous death of VAK 2.15 |
-| pṛthag-nirodha | separate cessation | denied of the final four-faculty cluster |
-| kuśala-citta | wholesome consciousness | requires the presence of the five beginning with confidence |
-| śraddhādi-pañcaka | five beginning with confidence | confidence, energy, mindfulness, concentration, and discernment |
-| śrāmaṇya-phala | fruit of the religious path | four attained results analyzed by faculty-count |
-| antya-phala | fruit at an extreme | stream-entry or arhatship in the Bhāṣya's fourfold ordering |
-| madhya-phala | middle fruit | once-returning or non-returning |
-| ānantarya-mārga | uninterrupted path | bears the “I shall know” faculty in the stream-entry analysis |
-| vimukti-mārga | path of liberation | bears the knowledge faculty in that analysis |
-| visaṃyoga-prāpti | acquisition of disconnection | drawn forth and supported by the two path moments respectively |
-| ānupūrvika | one proceeding sequentially | reaches a middle fruit through the regular sequence |
-| vītarāga | one already free from desire | may attain a middle fruit directly |
-
-The path names and detailed faculty membership are Bhāṣya determinations,
-not terms stated in the compact Kārikā itself.
+| śrāmaṇya-phala | fruit of the path | four |
+| antya-phala | extreme fruit | stream-entry, arhatship |
+| madhya | middle | once-returning, non-returning |
+| ānantarya-mārga | uninterrupted path | bears “I shall know” |
+| vimukti-mārga | path of liberation | bears the knowledge-faculty |
+| visaṃyoga-prāpti | acquisition of disconnection | brought, then supported |
+| ānupūrvika | sequential | seven or eight |
+| vītarāga | already free from desire | nine |
+| ekasya | of one person | the eleven |
 
 ## 8. Logical Determination
 
-Gradual death has an atomic final dependency:
-
 ```text
-GradualDeath
-∧ TerminalMind ∈ {Afflicted, Indeterminate}
-    → FinalCluster = {Body, Life, Mind, NeutralFeeling}
-    → Count = 4
-    → ¬SeparateCessation(FinalCluster)
-```
+stream-entry
+    = five, mind, neutral feeling,
+      I shall know, knowledge-faculty
+    = 9
+    the two realization-faculties on two paths
 
-Wholesomeness augments the applicable terminal profile:
+arhatship
+    = five, mind, one of three feelings,
+      knowledge-faculty, one who has known
+    = 9
 
-```text
-TerminalMind = Wholesome
-    → RequiredAddition = {Confidence,
-                          Energy,
-                          Mindfulness,
-                          Concentration,
-                          Discernment}
+once-returning, non-returning
+    sequential mundane          7
+    sequential supramundane     8
+    prior dispassion            9
 
-WholesomeTerminalSet(context)
-    = BaseTerminalSet(context) ∪ RequiredAddition
-```
+sharp, ninth liberation, mundane
+    neutral feeling + gladness across the two paths
+    = 8
+supramundane
+    = 9
 
-Fruit and realization plan must be represented separately:
+eleven
+    = one person, repeated attainment, three feelings
+    ≠ one moment
 
-```text
-AttainmentPlan
-    = (Fruit, Route, PriorDispassion, FacultySet)
-
-Result(AttainmentPlan)
-    = Fruit
-```
-
-For the two extreme fruits:
-
-```text
-StreamEntry → FacultyCount = 9
-Arhatship   → FacultyCount = 9
-```
-
-Their nine-member sets are not identical:
-
-```text
-StreamEntrySet
-    = FiveBeginningWithConfidence
-    + {IShallKnow, Knowledge, Mind, NeutralFeeling}
-
-ArhatshipSet
-    = FiveBeginningWithConfidence
-    + {Knowledge, FacultyOfOneWhoHasKnown, Mind}
-    + oneOf{Pleasure, Gladness, NeutralFeeling}
-```
-
-For either middle fruit:
-
-```text
-Route = SequentialMundane
-    → FacultyCount = 7
-
-Route = SequentialSupramundane
-    → FacultyCount = 8
-
-Route = DirectFromPriorDispassion
-    → FacultyCount = 9
-```
-
-Therefore:
-
-```text
-SameFruit(planA, planB)
-    does not imply
-SameRoute(planA, planB)
-or SameFacultySet(planA, planB)
+same fruit
+    ↛ same set
+same count
+    ↛ same composition
 ```
 
 ## 9. Interpretive Note
 
-**Organon time-reading:** The fourfold terminal dependency is a limit within gradual cessation, not a rule that all faculties cease together. In the attainment analysis, fruit remains distinct from route: path moments and prior dispassion shape which particular configuration mediates the same result. This is ordered transformation, not a scalar measure of realization.
+The death clauses stand in 2.15. Four do not cease separately. Five are added on a wholesome mind.
 
-VAK 2.16 completes the distinction opened by the preceding verse. VAK 2.15
-described simultaneous terminal profiles by realm. The present verse isolates
-the irreducible remainder of gradual dying: body, life, mind, and neutral
-feeling cease together. Gradual process therefore does not mean unlimited
-separability. The process eventually reaches a dependency-cluster whose
-members have no separate terminal cessation.
+Extreme is first and last, not the last two. The stream-entry nine includes two path-names. They are not nine factors in one moment. Arhatship says any one feeling, not three together. That prepares the eleven.
 
-Wholesome consciousness then acts as a structural constraint, not a moral
-label externally attached to an otherwise unchanged state. If the terminal
-mind is wholesome, confidence, energy, mindfulness, concentration, and
-discernment must be present and must be counted. The state carries the
-faculties constitutive of its determination.
+Eight may be the knowledge-faculty added, or gladness added across the path-moments. The number does not identify the route.
 
-The second half introduces an even more powerful form of discrimination.
-The attained fruit must not be collapsed into the faculty configuration that
-realizes it. Stream-entry and arhatship each require nine faculties, but not
-the same nine. The middle fruits can each be reached through three different
-counts because route and prior freedom from desire alter the operative set.
+Eleven aggregates a history. The reply denies the three feelings at one time. A fallen non-returner does not regain the fruit with pleasure. Prior dispassion, attained through both paths, does not fall away. No general theory of relapse is added.
 
-The Kārikā gives compact counts and alternatives; the Bhāṣya specifies
-their conditions and relations to path-moments. This may be represented
-formally within the Organon, but it is not a claim that the Kośa presents
-a theory of computer architecture.
-
-Any formal Organon representation should preserve the distinction
-between a fruit and its routes and Faculty-configurations, without
-imposing one universal procedure.
-
-**Return to Dhātu at VAK 1.48.** The Dhātu analysis classifies Faculty
-relations within the Base–Essence–Principle architecture. VAK 2.16 addresses
-cessation and path-mediated attainment, distinct predicates that apply
-within that classification. The crosswalk preserves the Dhātu map rather
-than replacing it with a temporal or procedural model.
+Organon reading: the result is invariant. The mediating membership is not. Not the verse English.
 
 ## 10. OWL++ Seed
 
@@ -276,40 +145,14 @@ than replacing it with a temporal or procedural model.
 vak:VAK_2_16
     a vak:Karika ;
     rdfs:label "VAK 2.16" ;
-    vak:hasTopic vak:GradualDeath,
-        vak:WholesomeDeath,
-        vak:FruitAttainment ;
+    vak:hasTopic vak:FruitAttainment ;
     vak:belongsTo vak:Indriyanirdesa .
 
-vak:GradualDeathFinalCluster
-    vak:hasMember vak:BodyFaculty,
-        vak:LifeFaculty,
-        vak:MindFaculty,
-        vak:NeutralFeelingFaculty ;
-    vak:hasCount 4 ;
-    vak:hasConstraint vak:InseparableCessation .
+vak:StreamEntry vak:throughCount 9 .
+vak:Arhatship vak:throughCount 9 ;
+    vak:acrossPerson 11 .
+vak:MiddleFruit vak:throughCount 7, 8, 9 .
 
-vak:WholesomeTerminalProfile
-    vak:requiresAdditionalSet vak:FiveBeginningWithConfidence .
-
-vak:StreamEntry
-    vak:attainmentFacultyCount 9 .
-
-vak:Arhatship
-    vak:attainmentFacultyCount 9 .
-
-vak:OnceReturning,
-vak:NonReturning
-    vak:attainmentFacultyCount 7,
-        8,
-        9 ;
-    vak:countVariesBy vak:AttainmentRoute .
-
-organon:AttainmentPlan
-    a organon:InterpretiveReconstruction ;
-    organon:hasObjective vak:PathFruit ;
-    organon:hasParameter vak:AttainmentRoute,
-        vak:PriorDispassion,
-        vak:OperativeFacultySet ;
-    organon:inferredFrom vak:FruitAttainment .
+organon:SameFruitNotSameSet
+    organon:notTheVerseEnglish true .
 ```

@@ -5,22 +5,18 @@
 > cittāśrayas tadvikalpaḥ sthitiḥ saṃkleśa eva ca /
 > saṃbhāro vyavadānaṃ ca yāvatā tāvad indriyam // 2.05 //
 
-> Support of consciousness, its differentiation, persistence, and defilement;
-> equipment and purification: Faculty-status extends only so far as
-> these functions require.
+> Support of mind, its differentiation, persistence, and defilement; equipment and purification: as far as that, so far faculty.
 
-The Bhāṣya specifies equipment for purification and identifies what
-“its differentiation” concerns. The verse answers an objection about
-the scope of the enumeration, rather than introducing more faculties.
+The verse answers an objection about scope. It does not add faculties.
 
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
 > ādhipatyād indriyatve 'vidyādīnām upasaṃkhyānaṃ kartavyam /
 > avidyādīnām api hi saṃskārādiṣv ādhipatyam ata eṣām apīndriyatvam
 > upasaṃkhyātavyam / vāgādīnāṃ ca /
 > vākpāṇipādapāyūpasthānām api cendriyatvam upasaṃkhyātavyam /
 > vacanādānaviharaṇotsargānandeṣv ādhipatyāt /
-> na khalūpasaṃkhyātavyam / yasmād iheṣṭam /
+> na khalūpasamkhyātavyam / yasmād iheṣṭam /
 >
 > cittāśrayas tadvikalpaḥ sthitiḥ saṃkleśa eva ca /
 > saṃbhāro vyavadānaṃ ca yāvatā tāvad indriyam // 2.05 //
@@ -32,192 +28,73 @@ the scope of the enumeration, rather than introducing more faculties.
 > vyavadānasaṃbharaṇaṃ pañcabhir vyavadānaṃ tribhiḥ /
 > ato nāvidyādīnām indriyatvam iṣṭam /
 
-The unit begins with the objection at printed 40.08–09 and ends
-with *ato nāvidyādīnām indriyatvam iṣṭam* at 40.16–17 in
-`Vasubandhu/Sources/kosabhasya.txt`. It includes the verse at
-40.12–13. The next verse begins at 40.18–19 and belongs to VAK 2.06.
+The unit runs from the objection at printed 40.08–09 through ato nāvidyādīnām indriyatvam iṣṭam at 40.16–17 in `Vasubandhu/Sources/kosabhasya.txt`. The verse is at 40.12–13. The next verse, at 40.18–19, is 2.06.
 
-Word division is editorial. Following the research Bhāṣya, the
-reading text repairs *ādhipātyād* to *ādhipatyād*, *karttavyam* to
-*kartavyam*, *vākyāṇi* to *vākpāṇi*, *saṭtva* to *sattva*, and
-*strīpuruṣendraiyābhyām* to *strīpuruṣendriyābhyām*.
-The repair *vākpāṇi* restores speech and hand as the first two
-members of the fivefold list, corresponding to speaking and taking
-hold in the following sentence. No independent collation is claimed.
+Word division is editorial. Repairs: ādhipātyād → ādhipatyād, karttavyam → kartavyam, vākyāṇi → vākpāṇi, saṭtva → sattva, strīpuruṣendraiyābhyām → strīpuruṣendriyābhyām. Vākpāṇi restores speech and hand as the first two of the five, matching speaking and taking hold. No independent collation is claimed.
 
-## 3. Scientific English Rendering
+## 3. Continuous Conventional Translation
 
-If being a faculty follows from governing efficacy, ignorance and
-the other factors must be added to the enumeration. For ignorance
-and the others also have governing efficacy with respect to formations
-and the others; therefore they too must be counted as faculties.
-Speech and the others must also be added. Speech, hands, feet, anus,
-and genital organ must likewise be counted as faculties, because
-they have governing efficacy over speaking, taking hold, moving
-about, excretion, and pleasure.
+If being a faculty follows from governing efficacy, ignorance and the others must be added to the enumeration. For ignorance and the others also have governing efficacy with respect to formations and the rest; therefore they too must be counted as faculties. Speech and the rest must also be added. Speech, hand, foot, anus, and genital organ must likewise be counted as faculties, because they have governing efficacy over speaking, taking hold, moving about, excretion, and pleasure.
 
-They are not, however, to be added. For what is intended here is:
-“Support of consciousness, its differentiation, persistence, and defilement;
-equipment and purification: the faculties extend only so far as
-these functions require.” Here the six Faculties are the support
-of consciousness. This sixfold Essence-structure is the fundamental constitution
-of a living being. Its differentiation into female and male is
-through the female and male faculties; its persistence, through
-the life-faculty; and its defilement, through the feelings.
-Provision for purification is through the five, and purification
-through the three. Therefore ignorance and the others are not
-accepted as faculties.
+They are not, however, to be added. For what is intended here is: support of mind, its differentiation, persistence, and defilement; equipment and purification: as far as that, so far faculty. Here the six faculties are the support of mind. This sixfold āyatana is the fundamental constitution of a living being. Its differentiation into female and male is through the female and male faculties; its persistence, through the life-faculty; its defilement, through the feelings. Provision for purification is through the five, and purification through the three. Therefore ignorance and the rest are not accepted as faculties.
 
 ## 4. Objection and Reply
 
-The objector tests the implication of defining faculties by
-*ādhipatya*. Ignorance has governing efficacy with respect to
-formations, and the other factors have corresponding relations.
-This invokes the dependent-arising series without enumerating it.
-The objection then adds a different set of candidates: speech and
-the four bodily members, each paired with its characteristic activity.
+The objector tests ādhipatya. Ignorance governs formations. The other factors have corresponding relations. The dependent-arising series is invoked and not enumerated. A second set is then added: speech and four bodily members, each with its act.
 
-The reply begins at *na khalūpasaṃkhyātavyam*, “they are not,
-however, to be added.” Its crucial qualification is *iha*, “here”:
-the intended enumeration has a specified scope. The verse states
-that scope, and the prose distributes the existing faculties across it.
+The reply begins at na khalūpasamkhyātavyam. Iha is the qualification. The intended enumeration has a scope. The verse states it. The prose distributes the faculties already named.
 
-No school is named in this local exchange. The action-related list
-can invite comparison with other Indian faculty systems, but the
-passage does not itself identify its speaker as a representative
-of a particular school.
+No school is named. The action-list invites comparison. The passage does not identify the speaker.
 
-## 5. Governing Efficacy and the Limit of Enumeration
+## 5. Governing Efficacy and the Limit
 
-The objection is stronger than the claim that anything causally
-effective should be a faculty. It appeals to the very term already
-used to explain faculty-status: governing efficacy. The response
-does not explicitly deny the efficacy of ignorance or of the proposed
-action-capacities. It limits what is counted in the present system.
+The objection appeals to the predicate already used. The reply does not deny the efficacy of ignorance or of the proposed acts. It limits what is counted here.
 
-The six functions distribute the twenty-two Faculties as follows:
-
-| Function | Faculties assigned |
+| Function | Faculties |
 |---|---|
-| Support of consciousness | Six sensory and mental Faculties |
-| Differentiation of the living basis | Female and Male Faculties |
-| Persistence | Life Faculty |
-| Defilement | Five feelings |
-| Provision for purification | Five beginning with confidence |
-| Purification | Three realization Faculties |
+| Support of mind | the six |
+| Differentiation | female and male |
+| Persistence | life |
+| Defilement | the five feelings |
+| Provision for purification | the five beginning with faith |
+| Purification | the three |
 
-The count is six plus two plus one plus five plus five plus three.
-This explains the intended extent of the list. It does not supply
-an independent proof that every possible classification of living
-powers must use these six functions. The commentary's restriction
-should remain a determination of what is intended “here.”
+Six plus two plus one plus five plus five plus three. This is the intended extent. It is not a proof that every classification of living powers must use these six. The restriction remains what is intended here.
 
 ## 6. Support and Its Differentiation
 
-The six faculties are identified with the sixfold Essence-structure and
-called *maulaṃ sattvadravyam*. “Fundamental constitution of a living
-being” renders their role as its basic constituent basis. The phrase
-has stronger force than a loose collection of optional instruments,
-but this paragraph does not develop a separate argument about the
-ontological senses of *dravya*.
+The six are the sixfold āyatana, called maulaṃ sattvadravyam, the fundamental constitution of a living being. This paragraph does not open a separate argument about dravya.
 
-The following *tasya*, “of it,” resumes this living basis. Its
-female and male differentiation is assigned to the two faculties
-already discussed in VAK 2.02. Thus *tadvikalpa* should not become
-an act of conceptual construction by Mind merely because *citta* appears
-in the preceding compound. The commentary specifies embodied
-differentiation of the basis just identified.
+Tasya resumes that basis. Its female and male differentiation is the two faculties of 2.02. Tadvikalpa is not conceptual construction by mind merely because citta stands in the preceding compound.
 
-The proposed genital organ and the accepted female and male faculties
-also require care. The objection proposes *upastha* as governing
-pleasure; VAK 2.02 identified a genital portion of the body-faculty
-under its role in female-being and male-being. Excluding the former
-proposal does not deny the latter faculty-designation. The relevant
-governing relation differs, even where the bodily reference overlaps.
+Upastha in the objection governs pleasure. The female and male faculties govern female-being and male-being. Excluding the proposal does not withdraw the designation. The relation differs.
 
-## 7. Provision for Purification and Purification
+## 7. Provision and Purification
 
-The prose distinguishes *vyavadānasaṃbharaṇaṃ pañcabhiḥ* from
-*vyavadānaṃ tribhiḥ*: provision for purification through the five,
-purification through the three. The five are confidence, vigor,
-recollection, concentration, and prajñā; the three are the realization
-faculties explained in VAK 2.04.
+Vyavadānasaṃbharaṇaṃ pañcabhiḥ is provision through the five. Vyavadānaṃ tribhiḥ is purification through the three. The five are faith, vigor, mindfulness, concentration, and Discrimination. The three are the faculties of 2.04.
 
-This distinction articulates roles within the larger purificatory
-account. VAK 2.03 already stated that through the five afflictions
-are suppressed and the path is brought forward. Their designation
-as provision here does not make them inert preparation with no
-present purificatory effect. Nor does the short phrase *tribhiḥ*
-turn all three realization faculties into completed liberation:
-VAK 2.04 distinguished seeing, cultivation, and accomplished knowing.
+Provision does not make the five inert. 2.03 already has them check and draw the path. The three are not, by this phrase, all completed liberation. 2.04 kept seeing, cultivation, and one who has known apart.
 
-The contrast therefore belongs to this explanatory distribution.
-It should not be converted into a rigid chronology in which the
-five cease to operate before the three begin, or into a claim that
-the two groups have no relation beyond temporal succession.
+No chronology in which the five cease before the three begin.
 
 ## 8. The Bhāṣya's Decisions for Translation
 
-*Upasaṃkhyāna* means adding to the enumeration. The question is
-whether further faculties must be counted, not whether the proposed
-factors exist or have any function.
+Upasaṃkhyāna is adding to the enumeration, not a denial that the proposed factors exist.
 
-*Saṃbhāra*, “equipment” in the verse, is determined through
-*vyavadānasaṃbharaṇa* in the prose. “Provision for purification”
-preserves that explicit relation. The numerals “five” and “three”
-refer back to the groups already explained; their names are not
-newly enumerated in this paragraph.
+Saṃbhāra is read through vyavadānasaṃbharaṇa, provision for purification. The numerals refer to groups already explained.
 
-*Yāvatā tāvat* sets the extent of the classification in relation
-to the listed functions. “Only so far as these functions require”
-is a readable construal of that compressed relation. The Sanskrit
-does not separately state a theorem of minimality or use the
-interpretive term “indispensable.”
+Yāvatā tāvat sets the extent. The Sanskrit does not state a theorem of minimality.
 
-In the objector's list, *ānanda* is “pleasure,” specifically in
-relation to the genital organ. Substituting “generation” would
-change the function actually proposed. The final denial explicitly
-names ignorance “and the others”; the earlier reply already rejects
-the proposed supplementary enumeration as a whole.
+Ānanda is pleasure, in relation to the genital organ. Generation would change the proposed function. The final denial names ignorance and the rest. The reply already rejects the supplementary list as a whole.
 
-## 9. Interpretation
+## 9. Organon Reading
 
-The objection tests whether governing efficacy alone can determine
-membership. The reply does not deny the efficacy of ignorance or of
-the proposed action-capacities; *iha*, “here,” limits the present
-enumeration to the six functions articulated in the verse and
-distributed by the Bhāṣya. The count is six plus two plus one plus
-five plus five plus three, accounting for the twenty-two Faculties.
-This is a rule for this classification, not an inventory of every
-power of a living being.
+A common predicate admits more than the system intends. Iha bounds the functions for which faculty is assigned. Ignorance and the action-powers are not erased. They are not members.
 
-The project crosswalk with Dhātu 1.48 is reciprocal: Dhātu locates
-Faculty-status within Base–Essence–Principle relations; this passage
-explains the functions of the Faculties included in its enumeration.
-The Bhāṣya's *ṣaḍāyatana* is rendered as the sixfold Essence-structure,
-the living basis supported by the six Faculties. The functions specify
-the classification's scope; they do not turn the six into a chronology
-or assert that the excluded candidates are causally inert.
+The principle is the membership discriminator: these six functions. The rules are the path those functions define. The victim traverses that path. Powers outside the six are not its route. Defilement and purification remain the Kośa Path. The five equip it. The three effect it. The principles remain deposited. Not the verse English.
 
-Across the Kośa, Vijñāna is Discriminative Cognition joining Perception
-and Conception without reducing their unity to one homogeneous
-operation; it governs Mind and guides the reading of Dharma Base. The
-same *avijñapti* remains one content in the Form Base and Dharma Base
-classifications, and Vijñāna bears a *prati* relation to it. This
-cross-chapter synthesis is an Organon framework, not a claim made by
-this Bhāṣya paragraph.
+## 10. Review Status
 
-In a Kant-informed Techne reading, *iha* makes the operative scope
-determinate: the stated functions provide the rule by which this
-enumeration is delimited. This is a project-level interpretation,
-not terminology or philosophical attribution supplied by the source.
+Fine-tuned with the kārikā. Domain withdrawn. Membership is marked, not printed as the translation. Both proposed additions and the reply are kept.
 
-## 10. Textual and Scope Notes
-
-The unit includes the objection, reply, embedded verse, and its
-complete prose explanation, ending at *ato nāvidyādīnām indriyatvam
-iṣṭam* before VAK 2.06. Editorial repairs are documented above;
-no independent collation is claimed. The action-related functions
-proposed by the objector remain distinct from the functions assigned
-to the twenty-two Faculties. The five and three are read alongside
-their explanations in VAK 2.03–04.
+The vākpāṇi repair remains provisional. 2.06 has not been opened.

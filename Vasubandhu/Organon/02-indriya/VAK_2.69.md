@@ -1,194 +1,91 @@
-# VAK_2.69 — A Repeated Count with Different Members
+# VAK_2.69 — A Count That Changes Members
 
 ## 1. Sanskrit (Devanāgarī)
 
 > अष्टाभ्यो निवृतं तस्मात्षट् त्रिभ्योऽनिवृतं पुनः ।
+>
 > तस्मात्षडेवमारूप्ये तस्य नीतिः शुभात्पुनः ॥ २.६९ ॥
 
 ## 2. Sanskrit (IAST)
 
 > aṣṭābhyo nivṛtaṃ tasmāt ṣaṭ tribhyo 'nivṛtaṃ punaḥ /
+>
 > tasmāt ṣaḍ evam ārūpye tasya nītiḥ śubhāt punaḥ // 2.69 //
 
-The display applies sandhi in *ṣaḍ evam*. The local obscuration
-spellings are retained. The final *śubhāt punaḥ* begins a clause
-completed by *nava cittāni* in 2.70. The commentary at 104.22–105.07
-establishes the complete profiles treated here.
+Evam is thus, not only. The rule carried over is the unobscured three and six. The last phrase is unfinished. Completed in 2.70.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-aṣṭābhyaḥ         → aṣṭābhyaḥ
-nivṛtam          → nivṛtam
-tasmāt           → tasmāt
-ṣaṭ              → ṣaṭ
-tribhyo 'nivṛtam  → tribhyaḥ anivṛtam
-punaḥ            → punaḥ
-tasmāt ṣaḍ evam  → tasmāt ṣaṭ evam
-ārūpye           → ārūpye
-tasya            → tasya
-nītiḥ            → nītiḥ
-śubhāt           → śubhāt
-punaḥ            → punaḥ
-```
-
-| Form | Morphology | Local sense |
-|---|---|---|
-| aṣṭābhyaḥ | ablative plural numeral | from eight [kinds] |
-| nivṛtam | nominative neuter singular | obscured-indeterminate [mind] |
-| tasmāt | ablative singular pronoun | from that mind |
-| ṣaṭ | numeral | six [kinds] |
-| tribhyaḥ | ablative plural numeral | from three [kinds] |
-| anivṛtam | nominative neuter singular | unobscured-indeterminate [mind] |
-| punaḥ | adverb | in turn / again |
-| evam | adverb | thus, in this manner |
-| ārūpye | locative singular | in the formless realm |
-| tasya | genitive singular pronoun | of that [unobscured-indeterminate mind] |
-| nītiḥ | nominative feminine singular | rule / pattern of treatment |
-| śubhāt | ablative neuter singular | from wholesome [mind] |
-
-The *evam* after the second six is not *eva*, “only.” It introduces
-the parallel application to the formless realm. *Tasya* refers to
-the unobscured-indeterminate kind, as the Bhāṣya explicitly confirms.
+| Pada | Force |
+|---|---|
+| aṣṭābhyaḥ nivṛtam | obscured, from eight |
+| tasmāt ṣaṭ | from it, six |
+| tribhyaḥ anivṛtam | unobscured, from three |
+| evam ārūpye tasya nītiḥ | its rule, thus, in the formless |
+| śubhāt punaḥ | from wholesome, however |
 
 ## 4. Grammar
 
-The form-realm setting carries forward from 2.68. The first pair of
-clauses assigns eight predecessors and six successors to obscured-
-indeterminate mind. The next pair assigns three predecessors and six
-successors to unobscured-indeterminate mind.
-
-*Evam ārūpye tasya nītiḥ* carries that latter rule into the formless
-realm. It does not copy the obscured eight/six profile, nor transfer
-every form-realm transition unchanged. The Bhāṣya supplies realm-relative
-members for the formless unobscured three/six profile.
-
-*Śubhāt punaḥ* then introduces a new source, formless wholesome mind.
-Its successor count is grammatically deferred to 2.70. Verse boundaries
-must not force this phrase into the preceding rule or supply an invented
-conclusion within 2.69.
+```text
+form obscured
+    8 in, 6 out
+form unobscured
+    3 in, 6 out
+formless unobscured
+    the same pattern
+    not the same members
+formless wholesome
+    opened, not closed
+```
 
 ## 5. Translation
 
 ### Literal Translation
 
-> The obscured [mind arises] from eight; from it, six. The unobscured,
-> in turn, [arises] from three; from it, six. Its rule is likewise
-> in the formless realm. From wholesome [mind], however ...
+Obscured from eight. From it, six. Unobscured, in turn, from three. From it, six. Its rule, thus, in the formless. From wholesome, however—
 
 ### Bhāṣya-informed study translation
 
-> Form-realm obscured-indeterminate mind has eight predecessor kinds
-> and six successor kinds. Form-realm unobscured-indeterminate mind
-> has three predecessor kinds and six successor kinds. Formless
-> unobscured-indeterminate mind follows the same three-before,
-> six-after pattern, with the appropriate kinds specified for its
-> realm. From formless wholesome mind ... [continued in 2.70].
+Form obscured follows eight, setting aside the two afflicted desire kinds and trainee and beyond-training. Six follow: the three of its level, and the desire kinds except unobscured-indeterminate.
 
-All these relations are immediate succession within the twelve-kind
-analysis. The ellipsis reflects a genuine cross-verse construction,
-not missing research material.
+Form unobscured follows only the three of its level. Six follow: those three, the two afflicted desire kinds, and formless obscured. The same pattern in the formless: three of its level in, six out — its three, the afflicted of the lower realms.
 
 ## 6. Philosophical Translation
 
-> A rule can recur while the kinds to which it applies change.
-> Equal numbers of predecessors and successors do not establish
-> identical relations. To understand the repeated pattern, one
-> must determine its subject and the members appropriate to each realm.
+A repeated count is not a repeated set. Form unobscured is followed by formless obscured. Formless unobscured is followed by form obscured. The eight and six of the obscured kind do not carry over.
 
-This study interpretation follows the commentary's explicit reapplication
-of the unobscured rule. It does not infer a general inheritance principle
-for every mental classification.
+Organon rendering:
+
+The rule is reapplied. The members are specified again. Not the verse. Not the final pass.
 
 ## 7. Technical Vocabulary
 
-| Term | Controlled rendering | Determination |
+| Sanskrit | Running word | Determination |
 |---|---|---|
-| nivṛta | obscured-indeterminate | form-realm focal kind in the opening |
-| anivṛta | unobscured-indeterminate | subject of the three/six rule in both realms |
-| nīti | rule / pattern | specifically the treatment just given for the unobscured kind |
-| svabhūmika | belonging to its own level | the three own-realm kinds in these lists |
-| adharadhātuka | belonging to lower realms | desire and form in the formless successor explanation |
-| kliṣṭadvaya | two afflicted kinds | desire-realm unwholesome and obscured-indeterminate |
-| śaikṣa / aśaikṣa | trainee / beyond-training | excluded from the form-obscured predecessors |
-
-“Afflicted” in the form and formless realms means obscured-indeterminate,
-not unwholesome. The latter class is restricted to the desire realm
-in the twelve-kind enumeration.
+| nīti | rule | the unobscured pattern |
+| svabhūmika | own level | the three of that realm |
 
 ## 8. Logical Determination
 
-**Form-realm obscured-indeterminate mind.** Its eight predecessors
-are all twelve kinds except the two afflicted desire-realm kinds and
-the two uncontaminated kinds:
-
 ```text
-2 desire-realm kinds: wholesome, unobscured-indeterminate
-3 form-realm kinds
-3 formless-realm kinds
-Total: 8
+form obscured
+    8 in, 6 out
+form unobscured
+    3 in, 6 out
+formless unobscured
+    3 in, 6 out
+    members differ
 ```
 
-Its six successors are the three form-realm kinds plus desire-realm
-wholesome, unwholesome, and obscured-indeterminate minds. Desire-realm
-unobscured-indeterminate is excluded. There is no formless successor
-in this list.
+## 9. Interpretive Note
 
-**The two unobscured-indeterminate profiles.**
+The wholesome formless count is the next verse.
 
-| Focal kind | Predecessors | Successors |
-|---|---|---|
-| Form-realm unobscured | Three form-realm kinds | Three form-realm kinds; two afflicted desire-realm kinds; formless obscured-indeterminate |
-| Formless unobscured | Three formless-realm kinds | Three formless-realm kinds; two afflicted desire-realm kinds; form-realm obscured-indeterminate |
+## 10. OWL++ Seed
 
-Each row has three predecessors and six successors. The successor
-membership is not identical. In particular, the form-realm unobscured
-kind has a formless obscured successor; the formless unobscured kind
-has a form-realm obscured successor.
+```ttl
+@prefix vak: <http://127.0.0.1:3000/vak#> .
 
-These profiles agree with the earlier lists: formless unobscured is
-excluded from form-wholesome's nine predecessors, but included in
-form-obscured's eight. Form-obscured can precede desire-wholesome,
-as explained through the supporting-level return in 2.67, but cannot
-precede desire-unobscured, whose five predecessors were stated in 2.68.
-
-The present local passage enumerates the remaining edges without
-explaining each transition-context anew. Membership checks should
-not be turned into invented accounts of every transition's mechanism.
-
-## 9. Interpretation
-
-**Bhāṣya control.** The research translation leaves the form-obscured
-successor set partly vague. The running text specifies the three
-own-realm kinds and the desire-realm kinds except unobscured-indeterminate:
-that is an exact six. Its wording for the form-unobscured successors
-also needs expansion: *kāmāvacare ca kliṣṭe* is the two afflicted
-desire-realm kinds; the additional formless kind is obscured-indeterminate.
-This reading fits both the six total and the surrounding classifications.
-
-The rule carried into the formless realm is explicitly introduced by
-“as unobscured-indeterminate was stated in the form realm.” Thus the
-antecedent of *tasya* is determinate. The research kārikā's “thus in
-the formless realm; its rule again from the wholesome” obscures both
-that reference and the new unfinished clause.
-
-**Organon interpretation—not literal Bhāṣya doctrine.** The recurring
-three/six rule remains within Vol. I's Essence-side inquiry, but its
-members are specified anew in each realm. In our connection to Hegel's
-Doctrine of Essence, Vol. II's Loka:Karma is Appearance. The repeated
-count does not make the underlying relations identical, nor do these
-local profiles alone constitute the fuller Appearance account.
-
-Repeated numbers do not erase determinate difference. The recurring
-three-before/six-after rule is re-instantiated with different realm-relative
-members, and the final wholesome clause must remain unfinished until 2.70.
-The rule is intelligible only in its determinate application, not as a
-free-floating numerical pattern.
-
-## 10. Review Status
-
-First succession pass complete. Checked against the research
-kārikā, research Bhāṣya, and running Sanskrit at 104.22–105.07. Counts,
-member lists, and the cross-verse construction are resolved. Original
-witnesses remain unchanged. VAK 2.70 supplies the formless-wholesome
-count and continues to the uncontaminated kinds.
+vak:VAK_2_69 a vak:Karika ; vak:hasTopic vak:RepeatedCount .
+vak:SameCount vak:sameMembers false .
+```

@@ -1,192 +1,91 @@
-# VAK_2.71 — Beginning the Refinement into Twenty
+# VAK_2.71 — Twelve Made Twenty, First Cut
 
 ## 1. Sanskrit (Devanāgarī)
 
 > तस्माच्चत्वारि चित्तानि द्वादशैतानि विंशतिः ।
+>
 > प्रायोगिकोपपत्त्याप्तं शुभं भित्त्वा त्रिषु द्विधा ॥ २.७१ ॥
 
 ## 2. Sanskrit (IAST)
 
 > tasmāc catvāri cittāni dvādaśaitāni viṃśatiḥ /
+>
 > prāyogikopapattyāptaṃ śubhaṃ bhittvā triṣu dvidhā // 2.71 //
 
-This verse closes the twelve-kind succession account and begins its
-refinement into twenty kinds. The refinement continues syntactically
-and substantively into 2.72. The running commentary explains the first
-clause at 105.24–26 and the wholesome subdivision at 105.27–106.04;
-the full twenty-kind total is confirmed at 106.10–12.
+The four close the twelve. The twenty are not completed by this cut alone. Three wholesome kinds become six. That is fifteen. The rest is the next verse.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-tasmāc catvāri           → tasmāt catvāri
-cittāni                 → cittāni
-dvādaśaitāni            → dvādaśa etāni
-viṃśatiḥ                → viṃśatiḥ
-prāyogikopapattyāptam    → prāyogika-upapatti-āptam
-śubham                  → śubham
-bhittvā                 → bhittvā
-triṣu                   → triṣu
-dvidhā                  → dvidhā
-```
-
-| Form | Morphology | Local sense |
-|---|---|---|
-| tasmāt | ablative singular pronoun | from that beyond-training mind |
-| catvāri cittāni | nominative neuter plural with numeral | four kinds of mind |
-| dvādaśa etāni | numeral and nominative neuter plural pronoun | these twelve [kinds] |
-| viṃśatiḥ | nominative feminine singular numeral-noun | twenty |
-| prāyogika | adjective in a compound | produced through application |
-| upapatti-āpta | compound adjective | obtained through birth |
-| śubham | accusative neuter singular | wholesome [mind], object of dividing |
-| bhittvā | absolutive of √bhid | having divided |
-| triṣu | locative plural numeral | in the three [realms] |
-| dvidhā | numerical adverb | into two |
-
-The Bhāṣya expands the compound as *prāyogikaṃ ca upapattilābhikaṃ ca*.
-These are two modes distinguished within each realm's wholesome kind,
-not one type acquired jointly through practice and birth.
+| Pada | Force |
+|---|---|
+| tasmāt catvāri | from that, four |
+| dvādaśa etāni viṃśatiḥ | these twelve, twenty |
+| prāyogika | application-produced |
+| upapatti-āpta | obtained through birth |
+| śubham bhittvā | having divided the wholesome |
+| triṣu dvidhā | in the three, twofold |
 
 ## 4. Grammar
 
-*Tasmāt* resumes the beyond-training mind named at the end of 2.70.
-The predicate “arise immediately afterward” remains understood. The
-Bhāṣya identifies the four as the wholesome minds of the three realms
-and beyond-training mind itself.
-
-*Dvādaśa etāni viṃśatiḥ* announces the refined total: these twelve
-are made twenty. *Śubhaṃ bhittvā triṣu dvidhā* begins explaining how.
-The commentary carries *bhittvā* forward into 2.72, where additional
-subdivisions of unobscured-indeterminate mind complete the operation.
-The sentence must not be treated as though its entire numerical
-explanation ends within 2.71.
-
-*Triṣu* means the three realms, as the prose explicitly states.
-It does not split trainee and beyond-training minds or create two
-uncontaminated kinds for each realm.
+```text
+beyond-training
+    followed by four
+    three realm-wholesome, and itself
+twelve made twenty
+    first cut only
+    wholesome in each realm
+    application-produced and birth-acquired
+```
 
 ## 5. Translation
 
 ### Literal Translation
 
-> From that [mind arise] four minds. These twelve [are made] twenty,
-> having divided wholesome [mind] in the three [realms] into two:
-> application-produced and obtained through birth ...
+From that, four minds. These twelve are twenty, having divided wholesome in the three twofold: application-produced and obtained through birth.
 
 ### Bhāṣya-informed study translation
 
-> Beyond-training mind can be followed immediately by the wholesome
-> minds of the three realms and by beyond-training mind itself.
-> The twelve kinds are then refined into twenty. First, wholesome
-> mind in each of the three realms is divided into application-produced
-> and birth-acquired kinds; further subdivisions in 2.72 complete
-> the total.
-
-The continuation notice makes explicit what the following verse and
-Bhāṣya require. It is not an extra subdivision attributed to the words
-of this verse.
+Four follow beyond-training: the wholesome of the three realms, and beyond-training. These twelve are made twenty in turn. Wholesome mind in the three realms is divided into application-produced and birth-acquired. Two alternatives, not one kind got both ways. The division continues.
 
 ## 6. Philosophical Translation
 
-> The succession account closes by distinguishing what can follow
-> beyond-training cognition. The analysis then refines its kinds:
-> wholesome status alone leaves a difference between what arises
-> through application and what is obtained through birth. Further
-> distinctions are needed before the announced twenty kinds are complete.
+Birth-acquired wholesome is still wholesome. Not maturation-born. Maturation is unobscured-indeterminate. The cut does not split trainee or beyond-training.
 
-This study interpretation treats refinement as a further discrimination
-within an existing class. It does not presume that the old transition
-rules can be copied unchanged to every finer kind.
+Twelve minus three plus six is fifteen. Twenty is announced. Not yet reached.
+
+Organon rendering:
+
+A finer kind does not inherit every edge of the coarse kind. Not the verse. Not the final pass.
 
 ## 7. Technical Vocabulary
 
-| Term | Controlled rendering | Determination |
+| Sanskrit | Running word | Determination |
 |---|---|---|
-| aśaikṣa | beyond-training | antecedent of the opening pronoun, supplied from 2.70 |
-| prāyogika | application-produced | one wholesome subdivision in each realm |
-| upapattyāpta | obtained through birth | the paired wholesome subdivision |
-| upapattilābhika | birth-acquired | Bhāṣya expansion of the preceding term |
-| bhittvā | having divided | refinement operation continued into 2.72 |
-| dvādaśa | twelve | earlier classification of mind-kinds |
-| viṃśati | twenty | total after all the specified refinements |
-| triṣu | in the three realms | restriction of the wholesome split |
-
-“Birth-acquired” is not synonymous with “maturation-born.” The kinds
-being divided here are wholesome; maturation-result was defined as
-unobscured-indeterminate. Mode of obtaining a wholesome capacity and
-ethical status of a maturation-result must remain distinct.
+| prāyogika | application-produced | one wholesome |
+| upapattilābhika | birth-acquired | the other wholesome |
+| bhittvā | having divided | carried into the next |
 
 ## 8. Logical Determination
 
-**The last outgoing list.**
-
 ```text
-Beyond-training mind →
-    desire-realm wholesome
-    form-realm wholesome
-    formless-realm wholesome
-    beyond-training
-Total: 4
+beyond-training out
+    4
+wholesome split
+    +3
+    running 15
+twenty
+    not yet
 ```
 
-There is no direct trainee successor in this list. This concerns
-immediate succession of mind-kinds; it is not by itself a general
-proof that a person can never decline at any later point. Beyond-training
-mind is also not automatically the arhat's final mind: the latter's
-exclusion from antecedent conditioning was established in 2.62.
+## 9. Interpretive Note
 
-**Accounting for twenty.**
+The neutral cut completes the twenty. Not this verse alone.
 
-| Refinement | Change in number | Running total |
-|---|---:|---:|
-| Original classification | — | 12 |
-| Three wholesome kinds each divided into two: 2.71 | +3 | 15 |
-| Desire-realm unobscured kind divided into four: 2.72 | +3 | 18 |
-| Form-realm unobscured kind divided into three: 2.72 | +2 | 20 |
+## 10. OWL++ Seed
 
-The formless unobscured kind remains undivided. The two uncontaminated
-kinds also remain undivided in this refinement. Equivalently, the final
-groups contain eight desire-realm kinds, six form-realm kinds, four
-formless-realm kinds, and two uncontaminated kinds: 8 + 6 + 4 + 2 = 20.
+```ttl
+@prefix vak: <http://127.0.0.1:3000/vak#> .
 
-The details of the neutral subdivisions belong to the next verse.
-They are referenced here to establish the arithmetic and syntactic
-scope, not presented as additional literal content of 2.71.
-
-## 9. Interpretation
-
-**Bhāṣya control.** Both first-pass files say that dividing the three
-wholesome kinds alone produces twenty from twelve. That cannot be the
-complete operation: replacing three kinds by six yields fifteen.
-The running Bhāṣya explicitly continues the division in 2.72 and only
-then confirms twenty. The polished translation preserves that continuation.
-
-The opening *tasmāt* also needs its antecedent from the preceding verse.
-It closes a transition profile before the text changes from succession
-to classification. The two tasks should not be merged into an inference
-that “four successors” somehow supplies the increase to twenty.
-
-The short local prose clearly identifies the wholesome alternatives.
-The broader source includes transcription irregularities in the later
-twenty-kind summary; its enumerated divisions nevertheless establish
-the count. No independently collated Sanskrit edition is claimed.
-
-**Organon interpretation—not literal Bhāṣya doctrine.** This remains
-within Vol. I's Essence-side inquiry: the twelve mind-kinds are refined
-by distinguishing wholesome kinds obtained through application from
-those obtained through birth. In our connection to Hegel's Doctrine of
-Essence, Vol. II's Loka:Karma is Appearance, a later transition after
-the Indriya chapter. The finer kinds do not simply inherit every relation
-of the coarser twelvefold scheme.
-
-The lesson is refinement without erasure. Dividing the three wholesome kinds
-by application-produced and birth-acquired gives fifteen, not twenty; 2.72
-must complete the new determinations. A more determinate rule therefore
-does not merely add labels to the old twelve-kind system but changes what
-must be checked in its successor relations.
-
-## 10. Review Status
-
-Final Indriyanirdeśa refinement pass complete. Checked against the research
-kārikā, research Bhāṣya, and running source at 105.24–106.12, with 2.72's
-contribution explicitly distinguished. Original witnesses remain unchanged.
+vak:VAK_2_71 a vak:Karika ; vak:hasTopic vak:TwentyBegun .
+vak:WholesomeSplit vak:yields 15 .
+```

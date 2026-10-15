@@ -1,4 +1,4 @@
-# VAK_2.55 — Temporal Causes, Disconnection, and the Unconditioned
+# VAK_2.55 — Times of the Causes
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -12,272 +12,106 @@
 >
 > saṃskṛtaṃ savisaṃyogaṃ phalaṃ nāsaṃskṛtasya te // 2.55 //
 
-## 3. Padaccheda
+Two times are past and present. Three are past, present, and future. The conditioning cause is not in the count.
 
-```text
-sarvatragaḥ          → sarvatragaḥ
-sabhāgaś             → sabhāgaḥ
-ca                   → ca
-dvayadhvagau         → dvi-adhva-gau
-tryadhvagās          → tri-adhva-gāḥ
-trayaḥ               → trayaḥ
-saṃskṛtam            → saṃskṛtam
-savisaṃyogam         → sa-visaṃyogam
-phalam               → phalam
-nāsaṃskṛtasya        → na asaṃskṛtasya
-te                   → te
-```
+## 3. Lexical Analysis
 
-| Form | Morphology | Lexical force here |
-|---|---|---|
-| sarvatragaḥ | nominative masculine singular | pervasive cause |
-| sabhāgaḥ | nominative masculine singular | homogeneous cause |
-| dvi-adhva-gau | nominative masculine dual compound | ranging over two times |
-| tri-adhva-gāḥ | nominative masculine plural compound | ranging over three times |
-| trayaḥ | nominative masculine plural numeral | the three [causes] |
-| saṃskṛtam | nominative/accusative neuter singular | conditioned |
-| sa-visaṃyogam | nominative/accusative neuter singular compound | together with disconnection |
-| phalam | nominative/accusative neuter singular | fruit / result |
-| na asaṃskṛtasya | negation plus genitive neuter singular | not of the unconditioned |
-| te | nominative masculine plural pronoun | those [causes / causal-result relations] |
-
-`Adhvan` means temporal course or time-position here. The Bhāṣya resolves the
-two times as past and present and the three as past, present, and future.
-
-The compressed final clause is doctrinally consequential. The Bhāṣya reads it
-as denying ordinary cause and fruit to the unconditioned while admitting
-disconnection as a fruit of the Path in a different, non-productive sense.
+| Pada | Force |
+|---|---|
+| sarvatragaḥ sabhāgaḥ | pervasive and homogeneous |
+| dvayadhvagau | ranging over two times |
+| tryadhvagāḥ trayaḥ | three, ranging over three times |
+| saṃskṛtam | the conditioned |
+| savisaṃyogam | together with disconnection |
+| phalam | fruit |
+| nāsaṃskṛtasya te | those are not of the unconditioned |
 
 ## 4. Grammar
 
-The first half distributes temporal scope:
-
 ```text
-sarvatragaḥ + sabhāgaḥ
-    → dvayadhvagau
-    → past and present
-
-sahabhūḥ + saṃprayuktakaḥ + vipākaḥ
-    → tryadhvagāḥ trayaḥ
-    → past, present, and future
+pervasive, homogeneous
+    past and present
+    not future
+co-arisen, associated, maturation
+    three times
+conditioning
+    all times, and dissociated from time
+    supplied, not named
+fruit
+    conditioned, and disconnection
+unconditioned
+    does not have those
 ```
-
-The conditioning cause is not named in the metrical distribution. The
-Bhāṣya supplies its exceptional scope: it extends through all temporal
-positions and, in the broad non-obstruction sense, includes what is not
-temporally limited.
-
-The second half coordinates two result domains:
-
-```text
-saṃskṛtam phalam
-    → conditioned fruit
-
-sa-visaṃyogam [phalam]
-    → together with the fruit called disconnection
-```
-
-`Na asaṃskṛtasya te` then denies that the unconditioned enters the six-cause
-and five-fruit matrix in the same manner as conditioned dharmas. The syntax is
-compressed enough that its exact distribution depends upon the Bhāṣya's
-doctrinal construal.
 
 ## 5. Translation
 
-### Close syntactic construe
+### Literal Translation
 
-> The pervasive and homogeneous causes range over two times; three [causes] range over three times. Their fruit is conditioned, together with disconnection; those [causes and fruits] do not belong to the unconditioned.
+Pervasive and homogeneous range over two times. Three range over three times. The fruit is the conditioned, together with disconnection. Those are not of the unconditioned.
 
-### Bhāṣya-informed translation
+### Bhāṣya-informed study translation
 
-> Pervasive and homogeneous causes occur in the past and present, whereas co-arisen, associated, and maturation causes are admitted across past, present, and future. Conditioning cause has the widest scope. The six causes produce conditioned fruits; disconnection is nevertheless called a fruit of the Path because the Path acquires and discloses it, not because it produces an unconditioned entity through ordinary causal arising. The schools dispute whether such disconnection is an eternal real or the secured non-arising of future affliction.
+Past and present only. The reason was stated. Co-arisen, associated, and maturation belong to all three times. No restriction was stated for the conditioning cause. All times, and dissociated from time. The causes have been explained.
+
+The fruit is conditioned dharmas and cessation by Discrimination. Then the unconditioned, being a fruit, would have a cause, and being a cause, a fruit. Only the conditioned has cause and fruit. Not the unconditioned. The six causes do not obtain. The five fruits do not obtain.
+
+Why is the Path not the conditioning cause of disconnection? That cause is non-obstruction of arising. The unconditioned does not arise. Whose fruit, then? Acquired by the Path's power. Then only the acquisition is the fruit. Efficacy toward acquisition is production. Efficacy toward disconnection is bringing one to it. The Path is not in any way its cause. Disconnection is its fruit.
+
+The unconditioned is a conditioning cause by not obstructing arising. It has no fruit. Outside time, it cannot take or give one. The Sautrāntikas: nowhere called a cause. Causes and conditions of arising are impermanent. Object-condition is not thereby excluded. Not settled by the sūtra.
+
+What is disconnection? Cessation by Discrimination, and the reverse, is a mutual explanation. Not a disclosure. A distinct permanent wholesome entity, on one account, known by the noble. Without substantial existence, on the other. Space is absence of tangible obstruction. Cessation by Discrimination is non-arising by the power of Discrimination. Cessation without it is non-arising by deficiency of conditions. Not settled.
+
+Abandonment of past and present suffering is abandonment of the affliction that takes it as object, and of the seed deposited for future arising. Future abandonment is absolute non-arising, the seed absent. Effort on what has ceased has no purpose. Dispassion foremost among conditioned and unconditioned is not a claim that absence is a positive entity. Praise, to incline those to be trained. Noble truth is without error: suffering as suffering, absence of suffering as absence. The Vaibhāṣikas keep a real. Cause and fruit of it are not found. Gone, for now.
 
 ## 6. Philosophical Translation
 
-> Causal explanation has a boundary. Conditioned causes transform a continuum and produce conditioned acquisitions, but liberation cannot be another generated event without ceasing to be unconditioned. The Path changes the support so completely that renewed bondage cannot arise; what it reveals through that transformation is called disconnection.
+Timestamps first. Two causes cannot be future. Three can. The conditioning cause is the wide one, and can include what is not in time, as non-obstruction.
 
-The distinction is:
+The fruit-clause is the limit. A fruit of the Path need not be a product of the Path. Acquisition is produced. Disconnection is brought to. The Path is not its cause. That split is the verse's achievement. A generated liberation would be conditioned.
 
-```text
-productive genesis:
-    Path → transformed continuum → acquisition
+Entity or absence is the dispute. Directly known by the noble, on one account. Secured non-arising, on the other. Not settled. Not the nirodha of virodha.
 
-liberative disclosure:
-    transformed continuum
-        → impossibility of renewed affliction
-        → disconnection
-```
+Organon rendering:
 
-**Organon interpretation—not literal Bhāṣya doctrine.** The passage
-distinguishes the conditioned acquisition produced through the Path from
-disconnection, which is called its fruit without being produced as another
-conditioned dharma. The Bhāṣya preserves competing accounts of what
-disconnection is and does not collapse their disagreement.
+The academy grades a produced acquisition. The disclosure is not a grade. Puruṣa stays enclosed. Not the verse. Not the final pass.
 
 ## 7. Technical Vocabulary
 
-| Sanskrit | Controlled rendering | Determination in this unit |
+| Sanskrit | Running word | Determination |
 |---|---|---|
-| adhvan | temporal course / time-position | past, present, or future within the Sarvāstivāda matrix |
-| dvy-adhvaga | ranging over two times | past and present only |
-| try-adhvaga | ranging over three times | past, present, and future |
-| saṃskṛta | conditioned | produced through causes and conditions |
-| asaṃskṛta | unconditioned | not produced within the conditioned causal series |
-| phala | fruit / result | includes both produced result and, with qualification, liberative fruit |
-| visaṃyoga | disconnection | severance or non-recurrence of affliction |
-| savisaṃyoga-phala | conditioned fruits together with disconnection | coordinated result-domain requiring two senses of fruit |
-| pratisaṃkhyā-nirodha | analytical cessation | disconnection attained through discriminative knowledge |
-| apratisaṃkhyā-nirodha | non-analytical cessation | non-arising through incompleteness of conditions rather than discrimination |
-| prāpti | acquisition | conditioned possession produced through the Path |
-| prapaṇa | bringing forth / disclosure / realization | Bhāṣya term for the Path's distinct efficacy regarding disconnection |
-| utpatti-pratibandha | barrier to arising | Sautrāntika account of what discriminative knowledge establishes |
-| pratyātmavedya | directly known for oneself | Vaibhāṣika appeal to noble realization of the unconditioned |
-| avastuka | without causal basis / without substantial basis | contested term whose force differs across school positions |
-
-`Phala` cannot uniformly mean a produced effect. Disconnection is a fruit of
-the Path through attainment and disclosure, not through the same production
-relation that generates a conditioned occurrence.
+| adhvan | time | past, present, future |
+| visaṃyoga | disconnection | fruit, not product |
+| pratisaṃkhyā | Discrimination | the cessation's name |
+| prapaṇa | bringing to | not production |
+| prāpti | acquisition | what is produced |
 
 ## 8. Logical Determination
 
-The temporal profile is:
-
-| Cause | Past | Present | Future | Atemporal scope |
-|---|---:|---:|---:|---:|
-| pervasive | yes | yes | no | no |
-| homogeneous | yes | yes | no | no |
-| co-arisen | yes | yes | yes | no |
-| associated | yes | yes | yes | no |
-| maturation | yes | yes | yes | no |
-| conditioning | yes | yes | yes | broad non-obstruction can include the unconditioned |
-
-The ordinary productive rule is restricted:
-
 ```text
-Hetu(h)
-AND ProductivelyCauses(h, r)
-    → Conditioned(r)
+pervasive, homogeneous
+    past, present
+co-arisen, associated, maturation
+    three times
+conditioning
+    all times, and not in time
+product
+    → conditioned
+disconnection
+    fruit of the Path
+    not caused by the Path
+entity or absence
+    not settled
 ```
 
-The unconditioned cannot be such a product:
+## 9. Interpretive Note
 
-```text
-Unconditioned(u)
-    → NOT Arises(u)
-    → NOT ProductivelyCaused(u)
+The assignment of which fruit to which cause is the next verse. The debate is recorded, not closed.
+
+## 10. OWL++ Seed
+
+```ttl
+@prefix vak: <http://127.0.0.1:3000/vak#> .
+
+vak:VAK_2_55 a vak:Karika ; vak:hasTopic vak:TemporalScope .
+vak:Disconnection vak:produced false .
 ```
-
-The Path has differentiated efficacy:
-
-```text
-Path(p)
-    → Produces(p, AcquisitionOfDisconnection)
-    AND DisclosesOrSecures(p, Disconnection)
-
-NOT Produces(p, DisconnectionAsConditionedEvent)
-```
-
-This prevents a false reduction:
-
-```text
-FruitOf(Path, Disconnection)
-    ⇏ ConditionedEffectOf(Path, Disconnection)
-```
-
-The two principal school models are:
-
-```text
-VaibhasikaModel:
-    Disconnection = real eternal wholesome entity
-    known directly by noble cognition
-
-SautrantikaModel:
-    AnalyticalCessation = non-arising through discriminative knowledge
-    NonAnalyticalCessation = non-arising through incomplete conditions
-    Absence need not be a positive substance
-```
-
-The Sautrāntika reconstruction of liberation is:
-
-```text
-CounteragentAcquired(continuum)
-    → SeedOfFutureAfflictionDestroyed(continuum)
-    → IncapableOfProducingRenewedAffliction(continuum)
-    → AbsoluteNonArisingOfFutureSuffering
-```
-
-An unconditioned dharma may still function as object-condition without
-becoming a productive cause:
-
-```text
-ObjectOf(unconditioned, cognition)
-    ⇏ ProductivelyGenerates(unconditioned, cognition)
-```
-
-## 9. Interpretation
-
-VAK 2.55 does more than attach timestamps to causes. It tests whether the
-causal schema can contain its own limit. The first half is recognizably
-Sarvāstivāda: causal types receive past, present, and future scope. The second
-half opens a dispute over whether the unconditioned can enter any ordinary
-cause-result relation.
-
-The Path/disconnection distinction is the decisive achievement:
-
-```text
-Path
-    → transforms the conditioned support
-    → produces acquisition
-    → establishes a barrier to renewed arising
-
-Disconnection
-    → names the liberation thereby obtained or disclosed
-    → is not manufactured as another conditioned dharma
-```
-
-This preserves both genetic accountability and the unconditioned character
-of liberation. Cause explains how the continuum changes; it does not convert
-the truth disclosed by that change into another temporal product.
-
-This is the relevant sense of Absolute Logic for the present study. It does
-not posit an Absolute as a seventh cause outside the causal series. It
-requires that cause, fruit, acquisition, object-condition, and disconnection
-be held in their determinate relations, and it recognizes where productive
-causality reaches its own boundary. The perspective is therefore not supplied
-by an isolated Dharma: it emerges from the complete articulation of the
-relations at issue.
-
-The first half fixes temporal scope for the causes; the second limits how
-cause and fruit apply to the unconditioned. The Bhāṣya's debate does not
-yield one uncontested account: the Vaibhāṣika treats disconnection as a real
-unconditioned entity, while the Sautrāntika explains it through absence or
-non-arising. The Path's fruit-status must therefore be distinguished from
-ordinary production.
-
-The textual layers are:
-
-```text
-kārikā
-    → assigns temporal scope and limits cause-fruit relations
-
-Vaibhāṣika position
-    → preserves the unconditioned as a real eternal entity
-
-Sautrāntika critique favored by Vasubandhu's argument
-    → interprets cessation through secured non-arising
-      without a separate positive substance
-
-Organon reconstruction
-    → distinguishes productive transformation,
-      acquisition, disclosure, and prevention
-```
-
-## 10. Review Status
-
-First extended Hetu pass complete. The source unit runs from 90.23 through
-94.17, ending before the assignment of fruits at 94.18. The temporal
-classification, the full unconditioned debate, and the final Abhidharma
-defense remain distinct from the next study's result assignments.
-
-Textual uncertainties remain marked. No independent manuscript or critical
-edition collation has been performed.

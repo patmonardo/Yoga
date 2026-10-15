@@ -1,4 +1,4 @@
-# VAK_2.07 — Bodily Feeling and Third-Dhyāna Pleasure
+# VAK_2.07 — Pain, and Pleasure in the Third Dhyāna
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -14,236 +14,103 @@
 
 ## 3. Lexical Analysis
 
-```text
-duḥkhendriyam     → duḥkha-indriyam
-aśātā yā          → aśātā yā
-kāyikī vedanā     → kāyikī vedanā
-sukham śātā       → sukham śātā
-dhyāne tṛtīye     → dhyāne tṛtīye
-tu caitasī sā     → tu caitasī sā
-sukhendriyam      → sukha-indriyam
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
-| duḥkha-indriyam | nominative neuter singular compound | pain-faculty |
-| aśātā | nominative feminine singular | disagreeable or unpleasant; modifies `vedanā` |
-| yā | nominative feminine singular relative pronoun | whichever / that which |
-| kāyikī | nominative feminine singular adjective | bodily |
-| vedanā | nominative feminine singular | feeling |
-| sukham | nominative neuter singular | pleasure; predicative designation |
-| śātā | nominative feminine singular | agreeable or pleasant; understood with bodily `vedanā` |
-| dhyāne | locative neuter singular | in dhyāna |
-| tṛtīye | locative neuter singular ordinal | in the third |
-| tu | contrastive particle | but / however |
-| caitasī | nominative feminine singular adjective | mental; understood with `vedanā` |
-| sā | nominative feminine singular pronoun | that same [feeling] |
-| sukha-indriyam | nominative neuter singular compound | pleasure-faculty |
+| duḥkha-indriyam | nominative | the pain-faculty |
+| aśātā yā | nominative | whichever is disagreeable |
+| kāyikī vedanā | nominative | bodily feeling |
+| sukham śātā | nominative | pleasure is agreeable |
+| dhyāne tṛtīye | locative | in the third dhyāna |
+| tu | particle | but |
+| caitasī sā | nominative | that, mental |
+| sukha-indriyam | nominative | the pleasure-faculty |
 
-The feminine descriptions agree with `vedanā`; the neuter compounds are
-predicate designations. The difference in gender does not imply a different
-referent:
-
-```text
-yā kāyikī vedanā aśātā
-    sā duḥkha-indriyam
-```
+The feminine agrees with vedanā. The neuter compounds are the faculty-names. Same referent.
 
 ## 4. Grammar
 
-The opening relative construction identifies the pain-faculty:
-
 ```text
 aśātā yā kāyikī vedanā
-    → whichever bodily feeling is disagreeable
+    → duḥkha-indriyam
 
-[sā] duḥkha-indriyam
-    → [that] is the pain-faculty
-```
+śātā kāyikī vedanā
+    → sukha-indriyam
 
-The definition of ordinary pleasure is compressed across the pāda boundary:
-
-```text
-sukham śātā [kāyikī vedanā]
-    → pleasure is agreeable [bodily feeling]
-```
-
-The Bhāṣya supplies the ellipsis explicitly:
-
-```text
-sukhendriyaṃ kāyikī śātā vedanā
-    → the pleasure-faculty is agreeable bodily feeling
-```
-
-The final pāda introduces a locative exception:
-
-```text
 dhyāne tṛtīye tu
-    → but in the third dhyāna
-
-caitasī sā [vedanā] sukha-indriyam
-    → that same [agreeable] feeling, when mental,
-      is the pleasure-faculty
+    sā śātā vedanā caitasī
+    → sukha-indriyam
 ```
 
-`Sā` carries forward the agreeable feeling already designated by `śātā`.
-The contrast is between its ordinary bodily mode and its mental mode in the
-third dhyāna.
+The Bhāṣya fills the ellipsis: the pleasure-faculty is agreeable bodily feeling. In the third dhyāna that same agreeable feeling, mental, is the pleasure-faculty, because bodily feeling is absent. The five cognition-groups are absent.
 
-## 5. Scientific English Rendering
+## 5. Translation
 
-### Kārikā
+### Literal Translation
 
-> Whichever bodily feeling is disagreeable is the Pain Faculty; pleasure is agreeable [bodily feeling]. But in the third dhyāna, that [agreeable feeling], when mental, is the Pleasure Faculty.
+The pain-faculty is whichever bodily feeling is disagreeable. Pleasure is agreeable. But in the third dhyāna, that, mental, is the pleasure-faculty.
 
-### Bhāṣya-informed rendering
+### Bhāṣya-informed study translation
 
-> The Pain Faculty is disagreeable bodily feeling—that is, feeling which is injurious. The Pleasure Faculty is ordinarily agreeable bodily feeling—that is, feeling which is supportive. In the third dhyāna, however, agreeable mental feeling is classified as the Pleasure Faculty, because the five sensory Cognition-groups, and therefore bodily feeling, are absent there.
+Eye through the male faculty has been explained. Life, being dissociated, will be explained among the dissociated. Those beginning with faith will be explained among the mental factors. Pleasure and the rest, and those beginning with “I shall know,” are now to be explained.
 
-The explanatory terms `upaghātikā` and `anugrāhikā`, together with the reason
-from the absence of the five sensory cognition-groups, belong to the Bhāṣya.
-They are not additional words in the Kārikā.
+Disagreeable bodily feeling is the pain-faculty. Disagreeable means injurious. Agreeable bodily feeling is the pleasure-faculty. Agreeable means supportive. In the third dhyāna that same agreeable feeling, being mental, is the pleasure-faculty. There is no bodily feeling there, because the five cognition-groups are absent.
 
-## 6. Interpretation
+## 6. Philosophical Translation
 
-VAK 2.07 classifies bodily feeling by affective character: disagreeable
-bodily feeling is the Pain Faculty, and agreeable bodily feeling is
-ordinarily the Pleasure Faculty. The Bhāṣya adds a specific qualification:
-in the third dhyāna the five sensory Cognition-groups are absent, so
-agreeable mental feeling is also assigned to the Pleasure Faculty. This
-does not collapse bodily and mental feeling, or generalize the exception
-to all agreeable mental feeling.
+Pain is disagreeable bodily feeling. Pleasure is agreeable bodily feeling. The exception is narrow. In the third dhyāna the five cognition-groups are absent, so bodily feeling is absent, and agreeable mental feeling takes the pleasure-faculty. Mental feeling is not thereby bodily. Gladness is not this verse.
 
-In the Kant-informed Techne, the classification is context-sensitive:
-affective character, mode of feeling, and the stated meditative context
-jointly determine the Faculty designation. The Dhātu crosswalk locates
-the feeling Faculties within the Base–Essence–Principle architecture;
-this verse specifies a distinction among their modes. This is a
-project-level interpretation, not terminology supplied by the Bhāṣya.
+Organon rendering:
 
-Across the Kośa, Vijñāna is Discriminative Cognition joining Perception
-and Conception without reducing their unity to one homogeneous operation;
-it governs Mind and guides the reading of Dharma Base. The same
-*avijñapti* remains one content in the Form Base and Dharma Base
-classifications, and Vijñāna bears a *prati* relation to it. This wider
-synthesis frames, but is not stated in full by, this verse.
+A node in the network. The same faculty-place projects by mode and by level. Default is bodily. The third dhyāna projects the agreeable mental feeling into that place. Recursive, not a new faculty. The principles remain deposited. Not the verse English.
 
 ## 7. Technical Vocabulary
 
-| Sanskrit | Project rendering | Determination |
+| Sanskrit | Running word | Determination |
 |---|---|---|
-| duḥkha-indriya | pain-faculty | disagreeable bodily feeling |
-| sukha-indriya | pleasure-faculty | agreeable bodily feeling, with agreeable mental feeling in the third dhyāna as the stated exception |
-| vedanā | feeling | affective mode classified here by agreeableness and bodily or mental locus |
-| aśātā | disagreeable / unpleasant | Kārikā characterization of bodily feeling counted as pain |
-| upaghātikā | injurious / working against | Bhāṣya gloss on `aśātā`; functional rather than moral description |
-| śātā | agreeable / pleasant | Kārikā characterization of feeling counted as pleasure |
-| anugrāhikā | supportive / beneficial | Bhāṣya gloss on `śātā`; favoring or supporting the continuum |
-| kāyikī vedanā | bodily feeling | ordinary mode of both pain-faculty and pleasure-faculty in this verse |
-| caitasī vedanā | mental feeling | mode of the pleasure-faculty in the third dhyāna |
-| tṛtīya-dhyāna | third dhyāna | meditative level in which the stated mental exception applies |
-| pañca-vijñāna-kāya | five sensory cognition-groups | absent in the third dhyāna according to the Bhāṣya |
+| duḥkhendriya | pain-faculty | disagreeable bodily feeling |
+| sukhendriya | pleasure-faculty | agreeable bodily feeling; mental in the third dhyāna |
+| aśātā | disagreeable | Bhāṣya: injurious, upaghātikā |
+| śātā | agreeable | Bhāṣya: supportive, anugrāhikā |
+| kāyikī | bodily | not a material organ |
+| caitasī | mental | mode of feeling; not the faith-group |
+| tṛtīya-dhyāna | third dhyāna | the exception |
+| pañca-vijñāna-kāya | five cognition-groups | absent there; kāya is the group |
 
-`Sukha` and `duḥkha` are not unrestricted synonyms for every happiness and
-suffering in this passage. They name two of the five feeling-faculties and
-are technically distinguished from `saumanasya` and `daurmanasya`, which
-VAK 2.08 will define.
+Sukha and duḥkha here are two of the five. Gladness and distress are the next verse.
 
 ## 8. Logical Determination
 
-The ordinary classification uses two coordinates:
-
 ```text
-AffectiveCharacter
-    = {Agreeable, Disagreeable}
+bodily + disagreeable
+    → pain-faculty
 
-FeelingMode
-    = {Bodily, Mental}
+bodily + agreeable
+    → pleasure-faculty
+
+third dhyāna
+    → five cognition-groups absent
+    → bodily feeling absent
+    → agreeable mental feeling is the pleasure-faculty
+
+mental
+    ↛ pleasure-faculty
+agreeable + mental + third dhyāna
+    → pleasure-faculty
 ```
 
-VAK 2.07 gives the following rules:
-
-```text
-Feeling(x)
-∧ Bodily(x)
-∧ Disagreeable(x)
-    → FacultyClass(x, DuhkhaIndriya)
-
-Feeling(x)
-∧ Bodily(x)
-∧ Agreeable(x)
-    → FacultyClass(x, SukhaIndriya)
-```
-
-The third-dhyāna rule is context-sensitive:
-
-```text
-Feeling(x)
-∧ Mental(x)
-∧ Agreeable(x)
-∧ OccursAt(x, ThirdDhyana)
-    → FacultyClass(x, SukhaIndriya)
-```
-
-The Bhāṣya supplies its ground:
-
-```text
-OccursAt(x, ThirdDhyana)
-    → Absent(FiveSensoryCognitionGroups)
-    → Absent(BodilyFeeling)
-```
-
-Therefore bodily mode is an ordinary condition of `sukha-indriya`, not an
-exceptionless definition across every meditative level:
-
-```text
-SukhaIndriya(x)
-    ↛ NecessarilyBodily(x)
-
-Mental(x)
-    ↛ SukhaIndriya(x)
-
-Mental(x)
-∧ Agreeable(x)
-∧ ThirdDhyanaContext(x)
-    → SukhaIndriya(x)
-```
-
-The exception is narrow. It does not erase the bodily/mental distinction or
-license every agreeable mental feeling to be called `sukha-indriya`.
+The exception does not make every agreeable mental feeling the pleasure-faculty.
 
 ## 9. Interpretive Note
 
-VAK 2.07 begins the detailed definition of the five feeling-faculties that
-VAK 2.03 assigned a governing role in defilement and VAK 2.06 assigned to the
-experience of `pravṛtti`. The verse now shows how that experiential function
-is internally differentiated.
+2.03 assigned the feelings to defilement. 2.06 assigned them to the experience of engagement. This verse begins the internal cut.
 
-Pain and pleasure are not introduced as free-standing substances or abstract
-qualities. Each is a determinate feeling classified by affective character
-and mode. The Bhāṣya further interprets disagreeableness as `upaghātikā`,
-working against the continuum, and agreeableness as `anugrāhikā`, supporting
-it. These glosses give the hedonic distinction a functional force without
-turning it into a moral judgment.
+Injurious and supportive are the commentary's glosses. They are not moral wholesomeness. Pain and pleasure are faculty-names. They are not every suffering and every happiness.
 
-The third-dhyāna clause prevents a rigid anatomical definition of pleasure.
-Ordinarily, agreeable bodily feeling is `sukha`, while agreeable mental
-feeling will be classified as `saumanasya`. At the third dhyāna, however, the
-five sensory cognition-groups do not occur, so no bodily feeling is available.
-The agreeable mental feeling of that level is nevertheless `sukha-indriya`.
+Sā resumes the agreeable feeling. It is not one bodily feeling turning into a mental entity. Absence of the five cognition-groups explains why the feeling is not bodily. It does not yet say why the name is pleasure rather than gladness. That is the next unit.
 
-**Reciprocal return to Dhātu.** Dhātu 1.48 locates the feeling
-Faculties within the Base–Essence–Principle architecture; VAK 2.07
-specifies how the Pain and Pleasure Faculties are distinguished by
-affective character and mode. The third-dhyāna qualification concerns
-the classification of agreeable mental feeling, not a new location
-for Faculty-status.
+Eye through male is the range already treated. It is not a count of ten material faculties. Mind is in that range. Life is deferred because dissociated. The five beginning with faith are deferred to the mental factors.
 
-The next verse's treatment of mental gladness must preserve this
-qualification rather than generalize it to every pleasant mental
-feeling. The textual claim here remains narrow: agreeable mental
-feeling in the third dhyāna is assigned to the Pleasure Faculty because
-bodily feeling is absent there.
+Organon reading: the network projects the same place under another mode when the level changes. Not the verse English.
 
 ## 10. OWL++ Seed
 
@@ -255,38 +122,15 @@ bodily feeling is absent there.
 vak:VAK_2_07
     a vak:Karika ;
     rdfs:label "VAK 2.07" ;
-    vak:hasTopic vak:DuhkhaIndriya,
-        vak:SukhaIndriya ;
+    vak:hasTopic vak:PainFaculty, vak:PleasureFaculty ;
     vak:belongsTo vak:Indriyanirdesa .
 
-vak:DuhkhaIndriya
-    a vak:FeelingFaculty ;
-    vak:hasAffectiveCharacter vak:Disagreeable ;
-    vak:hasFeelingMode vak:Bodily .
+vak:PainFaculty vak:isDisagreeableBodilyFeeling true .
+vak:PleasureFaculty vak:defaultMode vak:Bodily ;
+    vak:inThirdDhyana vak:AgreeableMentalFeeling .
+vak:ThirdDhyana vak:lacks vak:FiveCognitionGroups .
 
-vak:SukhaIndriya
-    a vak:FeelingFaculty ;
-    vak:hasDefaultAffectiveCharacter vak:Agreeable ;
-    vak:hasDefaultFeelingMode vak:Bodily ;
-    vak:hasContextualRealization vak:ThirdDhyanaSukha .
-
-vak:ThirdDhyanaSukha
-    a vak:ContextualFacultyRealization ;
-    vak:hasAffectiveCharacter vak:Agreeable ;
-    vak:hasFeelingMode vak:Mental ;
-    vak:occursAt vak:ThirdDhyana ;
-    vak:groundedBy vak:AbsenceOfFiveSensoryCognitionGroups .
-
-vak:Asata
-    vak:explainedBy vak:Upaghatika .
-
-vak:Sata
-    vak:explainedBy vak:Anugrahika .
-
-organon:ContextGovernedFacultyClassification
-    a organon:InterpretiveReconstruction ;
-    organon:preserves vak:FacultyIdentity ;
-    organon:variesBy vak:FeelingMode,
-        vak:ExperientialLevel ;
-    organon:inferredFrom vak:ThirdDhyanaSukha .
+organon:ProjectedNode
+    organon:samePlace true ;
+    organon:notTheVerseEnglish true .
 ```

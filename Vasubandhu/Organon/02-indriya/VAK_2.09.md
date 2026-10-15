@@ -1,4 +1,4 @@
-# VAK_2.09 — Path-Designations and Outflow Classification
+# VAK_2.09 — Nine as Three, and the Partition
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -12,325 +12,129 @@
 >
 > rūpīṇi jīvitaṃ duḥkhe sāsravāṇi dvidhā nava // 2.9 //
 
-The research witness separates `trīṇi amalam`. Regular external sandhi could
-give `trīṇy amalam`; the witness and its analyzed forms are retained here.
+The research witness separates trīṇi amalam. External sandhi could give trīṇy amalam. The witness is kept.
 
 ## 3. Lexical Analysis
 
-```text
-dṛgbhāvanāśaikṣapathe
-                    → dṛk-bhāvanā-aśaikṣa-pathe
-nava trīṇy          → nava trīṇi
-amalaṃ trayam       → amalam trayam
-rūpīṇi              → rūpīṇi
-jīvitaṃ             → jīvitam
-duḥkhe              → duḥkhe
-sāsravāṇi           → sa-āsravāṇi
-dvidhā nava         → dvidhā nava
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
-| dṛk | compound member from `dṛś` | seeing; expanded by the Bhāṣya as the path of seeing |
-| bhāvanā | compound member | cultivation; the path of cultivation |
-| aśaikṣa | compound member | one requiring no further training; the path of no-more-training |
-| pathe | locative masculine singular | on the path; distributively expanded across three paths |
-| nava | nominative neuter plural numeral | nine faculties |
-| trīṇi | nominative neuter plural numeral | three; the three collective realization-faculties |
-| amalam | nominative neuter singular adjective | stainless; without outflows according to the Bhāṣya |
-| trayam | nominative neuter singular | triad; the three realization-faculties as a group |
-| rūpīṇi | nominative neuter plural | possessing form; the seven material faculties |
-| jīvitam | nominative neuter singular | life-faculty |
-| duḥkhe | nominative neuter dual | the two painful faculties: pain and distress |
-| sāsravāṇi | nominative neuter plural | with outflows |
-| dvidhā | indeclinable adverb | in both ways / twofold |
-| nava | nominative neuter plural numeral | nine faculties |
+| dṛk-bhāvanā-aśaikṣa-pathe | locative | on the paths of seeing, cultivation, and no-more-training |
+| nava | nominative | nine |
+| trīṇi | nominative | three |
+| amalam trayam | nominative | the triad is stainless |
+| rūpīṇi | nominative | those possessing form |
+| jīvitam | nominative | life |
+| duḥkhe | nominative dual | the two painful faculties |
+| sāsravāṇi | nominative | with outflows |
+| dvidhā nava | nominative | nine are twofold |
 
-`Duḥkhe` is dual, not locative. The Bhāṣya identifies its two members as
-`duḥkha-indriya` and `daurmanasya-indriya`.
+Duḥkhe is dual, not locative. Pain and distress.
 
 ## 4. Grammar
 
-The first pāda is compressed classificatory syntax:
-
 ```text
-dṛk-bhāvanā-aśaikṣa-pathe
-    → on the paths of seeing, cultivation, and no-more-training
+the same nine
+    on seeing
+        → I shall know what is not known
+    on cultivation
+        → the knowledge-faculty
+    on no-more-training
+        → one who has known
 
-nava trīṇi
-    → the nine [are called] the three [faculties]
-```
-
-The Bhāṣya resolves the relation:
-
-```text
-the same nine faculties
-    on the path of seeing
-        → first realization-faculty
-
-    on the path of cultivation
-        → second realization-faculty
-
-    on the path of no-more-training
-        → third realization-faculty
-```
-
-The next clause predicates stainlessness of the resulting triad:
-
-```text
 amalaṃ trayam
-    → the triad is stainless
-```
+    → the triad is without outflows
 
-The second line first gathers three groups beneath `sāsravāṇi`:
+rūpīṇi, jīvitam, duḥkhe
+    → exclusively with outflows
 
-```text
-rūpīṇi
-    → the seven material faculties
-
-jīvitam
-    → the life-faculty
-
-duḥkhe
-    → the two painful faculties
-
-[etāni] sāsravāṇi
-    → these are with outflows
-```
-
-The final construction supplies the remaining class:
-
-```text
 dvidhā nava
-    → nine are twofold
+    → the same nine, either way
 ```
 
-The complete count is exact:
+Three exclusively without outflows, ten exclusively with, nine either. Twenty-two.
 
-```text
-3 exclusively without outflows
-+ 10 exclusively with outflows
-+ 9 twofold
-= 22 faculties
-```
+## 5. Translation
 
-## 5. Scientific English Rendering
+### Literal Translation
 
-### Kārikā
+On the paths of seeing, cultivation, and no-more-training, the nine are the three. The triad is stainless. Those possessing form, life, and the two painful faculties are with outflows. Nine are twofold.
 
-> On the paths of seeing, cultivation, and no-more-training, the nine are the three [realization-faculties]; the triad is stainless. The material faculties, life, and the two painful faculties are with outflows; nine are twofold.
+### Bhāṣya-informed study translation
 
-### Bhāṣya-informed rendering
+The nine are mind, pleasure, gladness, neutral feeling, and the five beginning with faith. On the three paths they are called three faculties. On seeing, “I shall know what has not been known.” On cultivation, the knowledge-faculty. On no-more-training, the faculty of one who has known.
 
-> The same nine faculties—mind, pleasure, gladness, neutral feeling, and the five beginning with confidence—constitute respectively the three realization-faculties when operating on the paths of seeing, cultivation, and no-more-training. This triad is exclusively without outflows. The seven material faculties, life, pain, and distress are exclusively with outflows. The remaining nine faculties can be either with or without outflows.
+On seeing, one is engaged in knowing what has not been known. On cultivation there is nothing unprecedented to know. One knows that same thing in order to abandon the remaining latent afflictions. On no-more-training, the ascertainment “it has been known” is ājñātāva. One who has that is ājñātāvin. Or the name is a disposition to preserve what has been known, from attaining the knowledges of exhaustion and non-arising. Suffering has been fully known by me. It is not to be fully known again.
 
-The Bhāṣya identifies the three path-operations:
+The triad just named is stainless, meaning without outflows. Stain is another name for outflow. The seven possessing form — eye, ear, nose, tongue, body, female, male, included in the form aggregate — life, pain, and distress are exclusively with outflows. The nine are both.
 
-```text
-path of seeing
-    → knowing what had not previously been known
+Some say the five beginning with faith are exclusively without outflows, from the sūtra on one in whom they are altogether absent. That does not establish it. The statement concerns the faculties without outflows, after the noble persons have been set out. Or it concerns the outsider whose wholesome roots are severed. A sūtra before the Wheel was set turning already speaks of sharp, middling, and weak faculties. And the five are examined as to arising, disappearance, gratification, danger, and escape. That is not how dharmas without outflows are examined.
 
-path of cultivation
-    → continuing to know the same truth
-      in order to abandon the remaining latent afflictions
+## 6. Philosophical Translation
 
-path of no-more-training
-    → ascertainment that it has been known
-      through knowledge of exhaustion and non-arising
-```
+The three are not three further items beside the twenty-two. They are the same nine, named by the path-task. Seeing knows what had not been known. Cultivation knows that same thing against the remaining latent afflictions. No-more-training ascertains that it has been known. The triad is stainless. The nine, as types, can be either. A name does not settle the instance.
 
-## 6. Interpretation
+Organon rendering:
 
-The Bhāṣya assigns the same nine Faculty-types to three path-designations
-according to the task specified for each: knowing what had not been known,
-continuing that knowing while abandoning remaining latent afflictions, and
-ascertaining its completion. This collective classification does not
-require that all nine be simultaneously present in every path-event.
-The triad is explicitly without outflows; the nine component types can be
-either with or without outflows. These are different levels of classification.
-
-In the Kant-informed Techne, path-task and outflow-status are distinct
-criteria for determining a Faculty's classification. The project crosswalk
-with Dhātu 1.48 relates this functional organization to the Base–Essence–
-Principle map without replacing the textual categories. This is a
-project-level reading, not terminology supplied by the Bhāṣya.
-
-Across the Kośa, Vijñāna is Discriminative Cognition joining Perception
-and Conception without reducing their unity to one homogeneous operation;
-it governs Mind and guides the reading of Dharma Base. The same
-*avijñapti* remains one content in the Form Base and Dharma Base
-classifications, and Vijñāna bears a *prati* relation to it. This wider
-synthesis frames, but is not stated in full by, this verse.
+The net coordinates nine jewels into three path-names. The configuration is stainless. The jewels remain twofold. Faith and the rest are not stainless by name. Pure is not this cut. Not the verse English.
 
 ## 7. Technical Vocabulary
 
-| Sanskrit | Project rendering | Determination |
+| Sanskrit | Running word | Determination |
 |---|---|---|
-| dṛk-patha / darśana-mārga | path of seeing | first realization-context; knowing what had not previously been known |
-| bhāvanā-mārga | path of cultivation | continued knowing for abandoning remaining latent afflictions |
-| aśaikṣa-mārga | path of no-more-training | completed path in which further training is not required |
-| anājñātam-ājñāsyāmīndriya | faculty of “I shall know what is not yet known” | collective name of the nine on the path of seeing |
-| ājñendriya | knowledge-faculty | collective name of the nine on the path of cultivation |
-| ājñātāvīndriya | faculty of one who has known | collective name of the nine on the path of no-more-training |
-| ājñātāva | ascertainment that it has been known | Bhāṣya explanation of `ājñātāvin` |
-| kṣaya-jñāna | knowledge of exhaustion | knowledge that the afflictions have been exhausted |
-| anutpāda-jñāna | knowledge of non-arising | knowledge that what has been exhausted will not arise again |
-| amala | stainless | explained here as `anāsrava`, without outflows |
-| sāsrava | with outflows | implicated in the continuation of conditioned affliction |
-| anāsrava | without outflows | not implicated in the continuation of outflows; not causally inert |
-| dvidhā | twofold | capable of occurring either with or without outflows |
-| rūpin | possessing form | the seven faculties included in the form aggregate |
-| duḥkhe | the two painful faculties | pain and distress, both exclusively with outflows |
-| anuśaya | latent affliction | what continued cultivation aims to abandon |
-
-The project retains “with outflows / without outflows” as the literal register
-and “consequential / unconsequential” as a controlled Organon gloss. “Pure”
-must not be allowed to imply that an `anāsrava` faculty lacks effects.
+| darśana-mārga | path of seeing | knowing what had not been known |
+| bhāvanā-mārga | path of cultivation | the same knowing, against remaining anuśaya |
+| aśaikṣa-mārga | path of no-more-training | it has been known |
+| amala | stainless | glossed anāsrava; not Pure |
+| sāsrava | with outflows | the ten, and the nine in one way |
+| anāsrava | without outflows | the triad; not causally inert |
+| dvidhā | twofold | either, not both at once |
+| rūpin | possessing form | seven, in the form aggregate |
+| duḥkhe | pain and distress | dual |
+| kṣaya-jñāna | knowledge of exhaustion | |
+| anutpāda-jñāna | knowledge of non-arising | |
 
 ## 8. Logical Determination
 
-The nine component faculties are:
-
 ```text
-PathComponents
-    = {Mind,
-       Pleasure,
-       Gladness,
-       NeutralFeeling,
-       Confidence,
-       Energy,
-       Recollection,
-       Concentration,
-       Prajna}
-```
+nine
+    = mind, pleasure, gladness, neutral feeling,
+      faith, vigor, mindfulness, concentration, Discrimination
 
-Path-context synthesizes them into three collective faculties:
+seeing
+    → I shall know
+cultivation
+    → knowledge-faculty
+no-more-training
+    → one who has known
 
-```text
-Synthesize(PathComponents, PathOfSeeing)
-    → FirstRealizationFaculty
-
-Synthesize(PathComponents, PathOfCultivation)
-    → KnowledgeFaculty
-
-Synthesize(PathComponents, PathOfNoMoreTraining)
-    → FacultyOfOneWhoHasKnown
-```
-
-The collective identity does not eliminate its components:
-
-```text
-CollectivePathFaculty(x)
-    → HasNineComponentFaculties(x)
-
-CollectivePathFaculty(x)
-    ↛ OneAdditionalSubstance(x)
-```
-
-The outflow partition is exhaustive and disjoint:
-
-```text
-ExclusivelyAnasrava
-    = {FirstRealizationFaculty,
-       KnowledgeFaculty,
-       FacultyOfOneWhoHasKnown}
-
-ExclusivelySasrava
-    = {SevenMaterialFaculties,
-       LifeFaculty,
-       PainFaculty,
-       DistressFaculty}
-
-Twofold
-    = {Mind,
-       Pleasure,
-       Gladness,
-       NeutralFeeling,
-       Confidence,
-       Energy,
-       Recollection,
-       Concentration,
-       Prajna}
-```
-
-Thus:
-
-```text
-Count(ExclusivelyAnasrava) = 3
-Count(ExclusivelySasrava)  = 10
-Count(Twofold)             = 9
+triad
+    → exclusively without outflows
+seven of form, life, pain, distress
+    → exclusively with outflows
+nine
+    → either
 
 3 + 10 + 9 = 22
+
+nine twofold
+    ↛ triad partly with outflows
+five beginning with faith
+    ↛ exclusively without outflows
 ```
 
-The relation between the nine and the triad is context-sensitive:
-
-```text
-Twofold(ComponentFaculty)
-∧ OperatesWithin(AnasravaPathConfiguration)
-    → Constitutes(StainlessCollectiveFaculty)
-```
-
-There is no contradiction between twofold components and an exclusively
-without-outflow composite. The component class states what each faculty can
-be across contexts; the composite class states what the coordinated path-
-operation necessarily is.
+Nine types are not nine factors co-present in every path-event.
 
 ## 9. Interpretive Note
 
-VAK 2.09 begins a new classificatory phase. The chapter has defined the
-twenty-two faculties and completed the feeling subsystem. It now asks how
-those faculties are qualified by path and outflow-status.
+The chapter has named the twenty-two and defined the feelings. This verse qualifies them by path and by outflow.
 
-The first result is striking: the three realization-faculties are not three
-simple items standing beside the other nineteen. Each is a collective
-determination of the same nine faculties. Their identity comes from the path-
-task under which those faculties operate together:
+Nothing unprecedented to know is the path-task, not omniscience. Suffering fully known is not the loss of the power to cognize it again.
 
-```text
-seeing
-    → acquire the previously unacquired knowing
+Twofold is either status across instances, not both in one instance. With outflows is not unwholesome, and not the arhat's bodily feeling denied. Conditioned and unconditioned are not this classification.
 
-cultivation
-    → maintain and exercise that knowing against remaining anuśayas
+Some restrict the five. The first reply limits the citation to the faculties without outflows. The alternative limits it to the outsider whose wholesome roots are severed. Or marks an alternative, not a second step that must be joined. The Wheel not yet turned, and the fivefold examination, are the positive grounds. The last quotation is abbreviated in the Sanskrit. It is not completed from elsewhere.
 
-no-more-training
-    → secure exhaustion and non-arising as completed knowing
-```
-
-The second result is equally important. The nine components are `dvidhā`:
-they may occur with or without outflows. Yet their three realized collective
-configurations are necessarily without outflows. Purity is therefore not
-read off from the bare presence of confidence, concentration, or prajñā. It
-depends upon the path-configuration in which the faculties operate.
-
-The Bhāṣya defends this point against the view that the five beginning with
-confidence are always without outflows. Ordinary persons may possess them,
-and scripture examines their arising, disappearance, gratification, danger,
-and escape—a mode of examination not applied to exclusively without-outflow
-dharmas. A nominally purificatory capacity is not automatically pure in every
-deployment.
-
-**Reciprocal return to Dhātu.** Dhātu 1.48 maps Faculty-status within
-the Base–Essence–Principle architecture; VAK 2.09 regroups the same
-Faculty-types by path-task and outflow-status. These are different
-classificatory questions. The path classification does not erase the
-Dhātu relations or make all nine component-types identical in location.
-
-In the Kant-informed Techne, path-task and outflow-status serve as
-distinct criteria: the same nine Faculty-types receive path-designations
-according to what is being accomplished, while their instances may
-occur with either outflow-status. This is a source-bounded project
-interpretation, not an assertion of a new substance or a claim that
-the nine must occur simultaneously.
-
-Across the Kośa, Vijñāna is Discriminative Cognition joining Perception
-and Conception without reducing their unity to one homogeneous operation;
-it governs Mind and guides the reading of Dharma Base. The same
-*avijñapti* remains one content in the Form Base and Dharma Base
-classifications, and Vijñāna bears a *prati* relation to it. This
-cross-chapter synthesis is an Organon framework, not a claim made
-by this verse.
+Organon reading: nine jewels, three names, one stainless configuration. The principles remain deposited. Pure is not amala. Not the verse English.
 
 ## 10. OWL++ Seed
 
@@ -342,50 +146,15 @@ by this verse.
 vak:VAK_2_09
     a vak:Karika ;
     rdfs:label "VAK 2.09" ;
-    vak:hasTopic vak:ThreeRealizationFaculties,
-        vak:OutflowPartition ;
+    vak:hasTopic vak:NineAsThree ;
     vak:belongsTo vak:Indriyanirdesa .
 
-vak:PathComponents
-    vak:hasMember vak:MindFaculty,
-        vak:PleasureFaculty,
-        vak:GladnessFaculty,
-        vak:NeutralFeelingFaculty,
-        vak:ConfidenceFaculty,
-        vak:EnergyFaculty,
-        vak:RecollectionFaculty,
-        vak:ConcentrationFaculty,
-        vak:PrajnaFaculty ;
-    vak:hasCount 9 .
+vak:NineFaculties vak:namedOn vak:PathOfSeeing, vak:PathOfCultivation, vak:PathOfNoMoreTraining .
+vak:Triad vak:stainless true .
+vak:SevenOfForm vak:withOutflows true .
+vak:NineFaculties vak:twofold true .
 
-vak:FirstRealizationFaculty
-    a vak:CollectivePathFaculty ;
-    vak:arisesFrom vak:PathComponents ;
-    vak:operatesOn vak:PathOfSeeing ;
-    vak:hasOutflowStatus vak:ExclusivelyAnasrava .
-
-vak:KnowledgeFaculty
-    a vak:CollectivePathFaculty ;
-    vak:arisesFrom vak:PathComponents ;
-    vak:operatesOn vak:PathOfCultivation ;
-    vak:hasOutflowStatus vak:ExclusivelyAnasrava .
-
-vak:FacultyOfOneWhoHasKnown
-    a vak:CollectivePathFaculty ;
-    vak:arisesFrom vak:PathComponents ;
-    vak:operatesOn vak:PathOfNoMoreTraining ;
-    vak:hasOutflowStatus vak:ExclusivelyAnasrava .
-
-vak:OutflowPartition
-    vak:hasClass vak:ExclusivelyAnasrava,
-        vak:ExclusivelySasrava,
-        vak:Twofold ;
-    vak:hasTotalCount 22 .
-
-organon:PathAgentSynthesis
-    a organon:InterpretiveReconstruction ;
-    organon:synthesizes vak:PathComponents ;
-    organon:variesBy vak:PathContext ;
-    organon:produces vak:CollectivePathFaculty ;
-    organon:inferredFrom vak:ThreeRealizationFaculties .
+organon:PathConfiguration
+    organon:notPure true ;
+    organon:notTheVerseEnglish true .
 ```

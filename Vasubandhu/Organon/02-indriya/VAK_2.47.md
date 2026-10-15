@@ -1,74 +1,107 @@
-# VAK_2.47 — Linguistic Formations and Their Determination
+# VAK_2.47 — Groups of Names
 
-## Source
+## 1. Sanskrit (Devanāgarī)
+
+> नामकायादयः संज्ञावाक्याक्षरसमुक्तयः ।
+>
+> कामरूपाप्तसत्त्वाख्या निःष्यन्दाव्याकृतास्तथा ॥ २.४७ ॥
+
+## 2. Sanskrit (IAST)
 
 > nāmakāyādayaḥ saṃjñāvākyākṣarasamuktayaḥ /
+>
 > kāmarūpāptasattvākhyā niḥṣyandāvyākṛtās tathā // 2.47 //
 
-The commentary cites the first half at 80.13, the classification half at
-82.03–04, and the closing *tathā* at 82.08. The prose completes the
-verse's classification across that span; VAK 2.48 begins at 82.09.
+Kāya is a group. Not a body. Akṣara is a phonetic element. Not a letter of writing. Saṃjñā here is the treatise's name for the designation-collection. Reflection remains the running word elsewhere. Not collapsed.
 
-## Word Division
+## 3. Lexical Analysis
 
-*nāma-kāya-ādayaḥ saṃjñā-vākya-akṣara-samuktayaḥ /
-kāma-rūpa-āpta-sattva-ākhyā niḥṣyanda-avyākṛtāḥ tathā*
+| Pada | Force |
+|---|---|
+| nāma-kāya-ādayaḥ | groups of names and the rest |
+| saṃjñā-vākya-akṣara | designation, sentence, phonetic element |
+| samukti | collection |
+| kāma-rūpa-āpta | included in desire and form realms |
+| sattva-ākhyā | classed with sentient beings |
+| niḥṣyanda | homogeneous outflow |
+| avyākṛta | indeterminate |
+| tathā | likewise |
 
-## Lexical Analysis
+## 4. Grammar
 
-| Pada | Morphology | Force in this passage |
+```text
+three groups
+    names
+    sentences, to the completion of a meaning
+    phonetic elements
+classed
+    desire and form realms
+    with the sentient being who signifies
+    homogeneous outflow
+    unobscured-indeterminate
+formless
+    others say they are there, and inexpressible
+```
+
+## 5. Translation
+
+### Literal Translation
+
+Groups of names and the rest are collections of designations, sentences, and phonetic elements. Included in the desire and form realms, classed with sentient beings, homogeneous outflows, and likewise indeterminate.
+
+### Bhāṣya-informed study translation
+
+A name makes a designation, as form, as sound. A sentence goes to the completion of a meaning. A phonetic element is a, ā, and the rest. Writing is secondary. The three are dissociated formations, on the Vaibhāṣika account. Possessed by the one who signifies, not by what is signified. Homogeneous outflows. Unobscured-indeterminate. Not of the formless realm, on this account. Others place them there, inexpressible.
+
+Sounds are successive. They need not coexist. How does speech produce one name as a whole? If the last sound alone produces it, hearing that sound alone should yield the meaning. It does not. If every sound produces a name-entity, noise should. If only a sound with a fixed application does, that sound already does the semantic work. Co-arising with the referent fails for past, future, assigned names, and the unconditioned. No additional name-entity is required, on the critical account. They maintain the groups. Not settled.
+
+## 6. Philosophical Translation
+
+A stable semantic function is not a semantic substance. The collection is the question. Succession is the pressure. The last sound is not the name. The fixed application already carries the meaning, on the critical account.
+
+Likewise carries the classifications, not a new nature.
+
+Organon rendering:
+
+These are how a Determinate Dharma is said. Not the saying's classmates, on the critical account. The Transcendental contains the schema of the Ordinary. That is the Fichte:Hegel dyad. Not the verse. Not the final pass.
+
+## 7. Technical Vocabulary
+
+| Sanskrit | Running word | Determination |
 |---|---|---|
-| *nāma-kāya-ādayaḥ* | nominative plural compound | Name-groups and the other related groups; *kāya* is a group here, not a body. |
-| *saṃjñā* | feminine noun in compound | Designation or naming in this linguistic context. |
-| *vākya* | neuter noun in compound | Sentence or statement, delimited by completion of meaning in the commentary. |
-| *akṣara* | neuter noun in compound | Phonetic element, exemplified by *a* and *ā*; not primarily a written character. |
-| *samuktayaḥ* | nominative plural | Collections or assemblages of these linguistic members. |
-| *kāma-rūpa-āpta* | compound, nominative plural | Belonging to the Desire and Form realms. |
-| *sattva-ākhyāḥ* | nominative plural | Classified as associated with sentient beings. |
-| *niḥṣyanda-avyākṛtāḥ* | nominative plural predicates | Homogeneous outflows and indeterminate; the commentary specifies unobscured-indeterminate. |
-| *tathā* | indeclinable | Likewise; the commentary carries the classification forward to commonality. |
+| nāma-kāya | group of names | not a body |
+| akṣara | phonetic element | not writing |
+| kṛtāvadhi | fixed application | the conventional restriction |
+| dyotaka | revealer | the claimed function |
+| anabhilāpya | inexpressible | the other account of the formless |
 
-## Scientific Translation
+## 8. Logical Determination
 
-Name-groups and the other groups are collections of designations,
-sentences, and phonetic elements. They belong to the Desire and Form
-realms, are associated with sentient beings, are homogeneous outflows,
-and are indeterminate; likewise [the commentary applies the stated
-classifications to commonality].
+```text
+successive sounds
+    need not coexist
+last sound alone
+    ≠ the meaning
+noise
+    ≠ a name
+fixed application
+    already semantic, on the critical account
+co-arising
+    fails past, future, assigned, unconditioned
+entity
+    maintained
+    not settled
+```
 
-## Logical Movement
+## 9. Interpretive Note
 
-The verse identifies a class of linguistic formations and gives its
-classifications. The Bhāṣya distinguishes designation, sentence, and
-phonetic element; asks whether their functions require separately
-existing linguistic entities; records the Vaibhāṣika defense; and then
-states the groups' realm, association, result, and ethical classifications.
+The verse is cited in parts. The prose completes it. Tathā is the last word, after the classifications. The next verse sorts results. Causes are not this unit.
 
-The term *saṃjñā* means designation here. Its use in this linguistic
-analysis is not a reason to replace the project's distinct rendering
-Reflection wherever the same Sanskrit form occurs in a different
-technical context.
+## 10. OWL++ Seed
 
-## Organon Note
+```ttl
+@prefix vak: <http://127.0.0.1:3000/vak#> .
 
-This unit makes the named linguistic formations themselves objects of
-classification while disputing whether their functions require separate
-substances. In the emerging Hub framing, the distinction matters:
-determining a Dharma through its relations and name does not establish
-that the name is an additional entity that produces its meaning. That
-is an Organon question raised by the Bhāṣya, not a conclusion to insert
-into the verse's translation.
-
-The Kośa-wide synthesis presents Vijñāna as Discriminative Cognition
-joining and governing Perception and Conception; their unity is
-Inconceivable as a homogeneous operation, with its Idea disclosed in
-Cognition Base. Vijñāna governs Mind and guides the reading of Dharma
-Base. *Avijñapti* is the same Dharma classified in Form Base and Dharma
-Base, and Vijñāna bears a *prati* relation to it. This is the wider
-systematic frame, not a claim that this verse states each relation.
-
-## Review Status
-
-Paired with the Bhāṣya discussion through 82.08. The source sequence
-is continued in VAK 2.48; this study does not move that verse's prose
-back into the present unit.
+vak:VAK_2_47 a vak:Karika ; vak:hasTopic vak:NameGroups .
+vak:NameEntity vak:settled false .
+```

@@ -1,146 +1,44 @@
-# VAK_2.45 Bhāṣya — Life-Continuity and the Four Conditioned Marks
+# VAK_2.45 Bhāṣya — Life and the Marks of the Conditioned
 
-## 1. Text and Scope
+## 1. Kārikā Anchor
 
-This study covers the Bhāṣya on life at 73.14–75.18 and the opening
-definition of the four conditioned marks. The detailed argument over
-primary and secondary marks continues under VAK 2.46 and is not resolved
-here.
+> āyur jīvitam ādhāra ūṣmavijñāyor hi yaḥ /
+> lakṣaṇāni punar jātir jarā sthitir anityatā // 2.45 //
 
-## 2. Lexical Analysis
+> Life is lifespan, the support of warmth and cognition. The marks, in turn, are arising, aging, persistence, and impermanence.
 
-| Pada | Morphology | Force in this passage |
-|---|---|---|
-| āyus | neuter noun | lifespan |
-| jīvita | neuter noun | life-continuity |
-| ādhāra | masculine noun | support |
-| ūṣman | masculine noun | vital heat |
-| vijñāna | neuter noun | Cognition |
-| karma | neuter noun | karmic action |
-| nikāya-sabhāga | compound | homogeneous continuum |
-| sthiti-kāla-āvedha | compound | projection of persistence-duration |
-| jāti | feminine noun | arising |
-| sthiti | feminine noun | persistence |
-| jarā | feminine noun | aging or alteration |
-| anityatā | feminine abstract noun | impermanence |
-| pravāha | masculine noun | stream |
-| prabandha | masculine noun | connected continuity |
+Life is printed 73.14–75.18. The marks run to 79.17. The next verse is cited inside the marks and is not opened.
 
-## 3. Scientific English Rendering
+## 2. Continuous Conventional Translation
 
-> What is life? “Lifespan is life-continuity.” The Abhidharma calls the
-> life Faculty lifespan belonging to the three Principle-ranges. What
-> Dharma is lifespan? “That which is support for vital heat and Cognition.”
-> When lifespan, vital heat, and Cognition leave the body, it lies cast
-> aside like insentient wood.
->
-> The Vaibhāṣika account calls lifespan a real Dharma that supports vital
-> heat and Cognition. If lifespan itself needs support, however, an
-> interdependent circle threatens perpetual non-cessation. Karma is proposed
-> as lifespan's support; but then the explanation of Cognition changes
-> arbitrarily between heat and karma, and Cognition in the Formless
-> Principle would lack support.
->
-> The critical account does not deny life. It denies another substance:
-> lifespan is the projection by karma of the duration during which a
-> homogeneous continuum must persist. As long as karma has projected that
-> duration, the continuum persists; that is called lifespan.
->
-> Does death arise only through exhaustion of lifespan? The text gives four
-> cases: exhaustion of life-result karma, exhaustion of enjoyment-result
-> karma, both, and unequal harmful conditions. It nevertheless says death is
-> from exhaustion of lifespan: when lifespan is exhausted, loss of enjoyment
-> result has no independent capacity to cause death. In the combined case,
-> death is still attributed to lifespan exhaustion.
->
-> The marks of the conditioned are arising, aging, persistence, and
-> impermanence. Their detailed analysis follows.
+Life is lifespan, of the three realms. The support of warmth and cognition. When lifespan, warmth, and cognition leave the body, it lies like a senseless piece of wood. Mutual support would not cease. Karma projects the duration. Karma as the direct support of cognition would make all cognition until death a maturation. Warmth cannot support cognition in the formless realm. Lifespan is therefore the support of both. Not nonexistent. Not a distinct entity. Projected duration of the group same-class. Crop, and arrow. They maintain the real. Not settled.
 
-## 4. Movement and Voices of the Commentary
+Death through exhaustion of lifespan, of merit, of both, or through harm. Relinquishment falls in the first. Untimely death exists. Bound to the continuum in the two attainments. Persisting once arisen where the support is not impaired. Four acquisitions of embodied existence, by whose intention is effective. The summit is the sūtra's case of neither. Enough of the extension. Life has been explained.
 
-The commentary begins from the canonical triad of lifespan, vital heat, and
-Cognition. It tests the Vaibhāṣika support-entity against regress and
-arbitrariness objections, then offers the karmically projected duration of a
-homogeneous continuum. It turns to death, asks how lifespan persists in
-different kinds of continuum, records a fourfold analysis of self- and
-other-condition, and finally opens the topic of conditioned marks.
+The marks are arising, aging, persistence, and impermanence. The sūtra says three. Persistence unstated, or joined to aging as alteration of persistence. Secondary marks operate on one, primary on eight. The Sautrāntikas: splitting space. The marks are of the stream, not of a moment, because a moment's arising is not discerned. Beginning, continuation, difference, interruption. Also moment by moment, without separate entities. Not accepted.
 
-The critical life account is not a denial that living continuities have a
-determinate duration. It is a refusal to reify that duration into another
-support-substance.
+## 3. Movement and Voice
 
-## 5. Life, Cessation, and Death
+Definition, then the support regress, then the critical account, then the maintained real. Death is a separate fourfold. The marks are a second treatise. Three against four. Secondary marks against the stream. Voices stay.
 
-The verse gives the missing condition for the prior cessation inquiry:
+## 4. Life
 
-```text
-Cessation-attainment:
-    consciousness and associated factors do not operate for an interval
+The faculty-name is lifespan of the three realms. The sūtra gives the three that leave. Senseless wood is the sūtra's image. Not the non-reflective. Group same-class is what receives the projected duration. Same-class, not the universal. The arrow tests an extra quality. Speed and fall are not explained by one impetus.
 
-Life-continuity:
-    the karmically projected span of the homogeneous continuum
+## 5. Death
 
-Therefore:
-    temporary non-operation of consciousness and associated factors
-    does not by itself entail death
-```
+Four cases. Both exhausted is still called exhaustion of lifespan, because merit then has no further power. Untimely is the fourth, and the interrupted lifespan. The list of those subject to neither intention is damaged. Not restored. The summit answer is a different sūtra sentence. The extension on examples is closed by the text itself.
 
-The Bhāṣya differentiates life said to be tied to a continuum from life said
-to endure as a single arisen determination. Kāśmīra teachers gloss the
-first as interruptible because support can be impaired; the second is
-uninterrupted because such impairment does not occur. The passage then
-concludes that premature death exists.
+## 6. Marks
 
-Its fourfold analysis asks whether the conditions relevant to death arise
-from one's own determination, another's, both, or neither. The long list
-of examples is preserved in the source but textually defective; the
-argument's point is the range of causal conditions, not an exhaustive
-biography of every listed case.
+Conditioned is where the marks occur. Unconditioned persists in its own character, which is why persistence is the awkward fourth. Alteration of persistence is the join. The enemies in the thicket are the commentary's image for three. The secondary four are the regress-stop. Eight and one. The stream account takes the sūtra as discerned marks of a stream, not evidence of entities. A moment is not discerned. Not settled.
 
-## 6. Conditioned Marks
+## 7. Organon Reading
 
-The four marks describe the temporal articulation of a conditioned stream:
-
-```text
-Arising:
-    the onset of what was absent
-
-Persistence:
-    the connected continuation of the stream
-
-Aging:
-    the stream's becoming otherwise across earlier and later phases
-
-Impermanence:
-    interruption of continuation
-```
-
-Their order in the verse is arising, aging, persistence, impermanence. The
-Bhāṣya's explanatory order may display persistence before aging; this does
-not authorize silently changing the Sanskrit witness. The coming VAK 2.46
-asks whether the marks require distinct primary and secondary entities or
-can be understood as determinations of the stream itself.
-
-## 7. Interpretation
-
-This is the exact corollary to the cessation-attainment: the cognitive
-instrument is not the whole living continuum. Its operation can be suspended
-without the karmically projected life-continuity being exhausted. The
-Bhāṣya thus permits an interval of non-operation without turning it into
-death, a gap in all causality, or annihilation.
-
-The Hub does not inhabit a hidden life-substance. Vijñāna is Discriminative
-Cognition joining and governing Perception and Conception; its unity is
-Inconceivable as homogeneous operation, with its Idea disclosed in the
-Cognition Base. Life-continuity is the temporal condition in which the
-embodied wheel persists and the operation of consciousness may resume. The
-project must preserve this distinction without treating any current
-instrument-profile as the complete Dharma.
+Projected duration is not a classmate in the five equalities. The marks, on the critical account, are how a course begins, continues, alters, and fails to continue. A real life-entity and four real marks are the other account. Not the translation. Not the nirodha of virodha. Not the final pass.
 
 ## 8. Review Status
 
-The kārikā and Bhāṣya have been compared with the source transcription at
-73.14–75.19. The canonical triad, Vaibhāṣika support account, critical
-projected-duration account, death analysis, continuum versus single-arisen
-life distinction, premature-death conclusion, and opening marks definition
-are retained. VAK 2.46 remains untouched.
+Fine-tuned with the kārikā. Domain withdrawn. Commonality withdrawn. Cognition is not consciousness. The dispute is not settled.
+
+2.46 has not been opened.

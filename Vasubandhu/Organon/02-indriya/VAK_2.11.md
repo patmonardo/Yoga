@@ -1,4 +1,4 @@
-# VAK_2.11 — Ethical Quality of the Faculties
+# VAK_2.11 — Wholesome, Unwholesome, Indeterminate
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -12,291 +12,119 @@
 >
 > daurmanasyaṃ mano 'nyā ca vittis tredhā anyad ekadhā // 2.11 //
 
-The first three members complete the answer begun by `daśa dvidhā` at the
-end of VAK 2.10. The ethical classification begins with `aṣṭakaṃ kuśalam`.
+The first three members close the ten of 2.10. The ethical question begins at aṣṭakaṃ kuśalam.
 
 ## 3. Lexical Analysis
 
-```text
-mano                → manaḥ
-anyavitti            → anya-vitti
-śraddhādīny          → śraddhā-ādīni
-aṣṭakaṃ              → aṣṭakam
-kuśalaṃ              → kuśalam
-dvidhā               → dvidhā
-daurmanasyaṃ         → daurmanasyam
-mano                → manaḥ
-anyā ca vittiḥ       → anyā ca vittiḥ
-tredhā               → tredhā
-anyad                → anyat
-ekadhā               → ekadhā
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
-| manaḥ | nominative neuter singular | mind-faculty |
-| anya-vitti | compound / compressed expression | the other feelings, excluding distress |
-| śraddhā-ādīni | nominative neuter plural | those beginning with confidence |
-| aṣṭakam | nominative neuter singular | group of eight |
-| kuśalam | nominative neuter singular | wholesome |
-| dvidhā | indeclinable adverb | in two ways |
-| daurmanasyam | nominative neuter singular | distress-faculty |
-| anyā | nominative feminine singular | the other [feeling], distributively or collectively |
-| vittiḥ | nominative feminine singular | feeling; compressed equivalent of `vedanā` here |
-| tredhā | indeclinable adverb | in three ways |
-| anyat | nominative neuter singular | the remainder |
-| ekadhā | indeclinable adverb | in one way |
+| manaḥ | nominative | mind |
+| anya-vitti | nominative | the other feelings |
+| śraddhā-ādīni | nominative | those beginning with faith |
+| aṣṭakam | nominative | the group of eight |
+| kuśalam | nominative | wholesome |
+| dvidhā | indeclinable | twofold |
+| daurmanasyam | nominative | distress |
+| anyā vittiḥ | nominative | the other feeling |
+| tredhā | indeclinable | threefold |
+| anyat | nominative | the remainder |
+| ekadhā | indeclinable | onefold |
 
-`Vitti` is clarified by the Bhāṣya as `vedita`, feeling. In both occurrences,
-“other” excludes `daurmanasya`; the four are pain, pleasure, gladness, and
-neutral feeling.
+Vitti is feeling. Other excludes distress: pain, pleasure, gladness, neutral feeling.
 
 ## 4. Grammar
 
-The first phrase crosses the verse boundary conceptually:
-
 ```text
-VAK 2.10:
-    daśa dvidhā
-        → ten are twofold with respect to producing maturation
+mind + four feelings other than distress + five beginning with faith
+    = the ten of 2.10
 
-VAK 2.11:
-    manaḥ anya-vitti śraddhā-ādīni
-        → mind + four feelings other than distress
-          + five beginning with confidence
-        = 10
-```
+eight
+    = five beginning with faith + the three
+    → wholesome only
 
-The verse then begins a new question: which faculties are wholesome,
-unwholesome, or ethically indeterminate?
-
-```text
-aṣṭakaṃ kuśalam
-    → the group of eight is wholesome
-```
-
-The eight are supplied by the Bhāṣya:
-
-```text
-five beginning with confidence
-+ three realization-faculties
-= 8
-```
-
-`Dvidhā` belongs with the following `daurmanasyam`:
-
-```text
-dvidhā daurmanasyam
-    → distress is twofold
+distress
     → wholesome or unwholesome
-```
 
-The next clause is distributive:
-
-```text
-manaḥ anyā ca vittiḥ tredhā
-    → mind and each of the other feelings are threefold
+mind and the other feelings
     → wholesome, unwholesome, or indeterminate
+
+remainder
+    = seven of form, life as eighth
+    → indeterminate only
 ```
 
-The residual class is onefold:
+Twofold here is not the twofold of maturation.
 
-```text
-anyat ekadhā
-    → the remainder is of one kind
-    → exclusively indeterminate
-```
+## 5. Translation
 
-## 5. Scientific English Rendering
+### Literal Translation
 
-### Kārikā
+Mind, the other feelings, and those beginning with faith. The eight are wholesome. Distress is twofold. Mind and the other feeling are threefold. The remainder is onefold.
 
-> Mind, the feelings other [than distress], and those beginning with confidence [are the ten just called twofold]. The group of eight is wholesome; distress is twofold. Mind and the other feelings are threefold; the remainder is onefold.
+### Bhāṣya-informed study translation
 
-### Bhāṣya-informed rendering
+How many are wholesome, how many unwholesome, how many indeterminate? The eight are wholesome: the five beginning with faith, and the three beginning with “I shall know.” Distress is twofold, wholesome and unwholesome. Mind and the other feelings are threefold: wholesome, unwholesome, and indeterminate. The remainder is onefold: those beginning with the eye, life as the eighth. These are exclusively indeterminate.
 
-> The ten faculties that may either produce maturation or not are mind, the four feelings other than distress, and the five beginning with confidence. Turning to ethical quality: the five beginning with confidence and the three realization-faculties are exclusively wholesome. Distress may be wholesome or unwholesome. Mind and the four other feelings may be wholesome, unwholesome, or ethically indeterminate. The seven material faculties and life are exclusively indeterminate.
+## 6. Philosophical Translation
 
-The first sentence completes VAK 2.10. Without that carryover, the Kārikā's
-opening appears to conflict with the Bhāṣya's eightfold wholesome group.
+Ethical quality is not faculty, and it is not maturation. The eight are wholesome by the operation that defines them. Distress always bears a quality. It is never indeterminate. Mind and four feelings keep one function across three qualities. The seven of form and life govern, and they are indeterminate. Neutral feeling is not that indeterminacy.
 
-## 6. Interpretation
+Organon rendering:
 
-VAK 2.11 distinguishes ethical quality from Faculty-identity and completes
-the partition of all twenty-two Faculties. The five beginning with
-confidence and the three realization-Faculties are wholesome; distress
-permits wholesome or unwholesome instances; Mind and the other four
-feelings admit all three qualities; the seven material Faculties and Life
-are ethically indeterminate. Affective neutrality (*upekṣā*) is therefore
-not ethical indeterminacy (*avyākṛta*), and wholesome status is not
-equivalent to being without outflows (*anāsrava*).
-
-In the Kant-informed Techne, ethical quality is a distinct criterion
-applied to Faculty-instances, with a different range of permitted values
-for each group. The Dhātu crosswalk retains this ethical classification
-alongside the Base–Essence–Principle map; it does not relocate the
-Faculties. This is a project-level interpretation, not terminology
-supplied by the Bhāṣya.
-
-Across the Kośa, Vijñāna is Discriminative Cognition joining Perception
-and Conception without reducing their unity to one homogeneous operation;
-it governs Mind and guides the reading of Dharma Base. The same
-*avijñapti* remains one content in the Form Base and Dharma Base
-classifications, and Vijñāna bears a *prati* relation to it. This wider
-synthesis frames, but is not stated in full by, this verse.
+The platform has to hold the axes apart. Maturation, outflow, tone, and ethical quality are four questions. Wholesome is not without outflows. Neutral feeling is not indeterminate. The received English that folds them is not accepted. Not the verse English.
 
 ## 7. Technical Vocabulary
 
-| Sanskrit | Project rendering | Determination |
+| Sanskrit | Running word | Determination |
 |---|---|---|
-| kuśala | wholesome | ethically favorable and, for the final eight, path-directed |
-| akuśala | unwholesome | ethically unfavorable mode supplied explicitly by the Bhāṣya |
-| avyākṛta | ethically indeterminate | neither wholesome nor unwholesome; not identical with neutral feeling |
-| anya-vitti | feelings other than distress | pain, pleasure, gladness, and neutral feeling |
-| aṣṭaka | group of eight | five beginning with confidence plus three realization-faculties |
-| śraddhādi | those beginning with confidence | confidence, energy, recollection, concentration, and prajñā |
-| daurmanasya | distress | ethically twofold: wholesome or unwholesome, never indeterminate |
-| manas | mind-faculty | ethically threefold |
-| upekṣā | neutral feeling | affectively middle but ethically threefold |
-| jīvitāṣṭama | group ending with life as the eighth | seven material faculties plus life, exclusively indeterminate |
-| dvidhā | twofold | two permitted ethical qualities in this clause |
-| tredhā | threefold | wholesome, unwholesome, or indeterminate |
-| ekadhā | onefold | exclusively one ethical quality here |
-
-The controlled distinction is:
-
-```text
-upekṣā
-    = neutral affective tone
-
-avyākṛta
-    = ethically indeterminate quality
-```
-
-The two classifications answer different questions and must not be merged.
+| kuśala | wholesome | the eight, only |
+| akuśala | unwholesome | distress, and the five, in one way |
+| avyākṛta | indeterminate | neither; not neutral feeling |
+| anya-vitti | the other feelings | pain, pleasure, gladness, neutral feeling |
+| aṣṭaka | the eight | five + three; not the eight with life |
+| jīvitāṣṭama | life as eighth | seven of form and life |
+| upekṣā | neutral feeling | tone; ethically threefold |
 
 ## 8. Logical Determination
 
-The ethical-quality domain is:
-
 ```text
-EthicalQuality
-    = {Wholesome, Unwholesome, Indeterminate}
-```
+wholesome only
+    = five + three
+    = 8
 
-The faculty partitions are:
+distress
+    = wholesome or unwholesome
+    ≠ indeterminate
 
-```text
-WholesomeOnly
-    = {Confidence,
-       Energy,
-       Recollection,
-       Concentration,
-       Prajna,
-       FirstRealizationFaculty,
-       KnowledgeFaculty,
-       FacultyOfOneWhoHasKnown}
+mind, pain, pleasure, gladness, neutral feeling
+    = three qualities
+    = 5
 
-WholesomeOrUnwholesome
-    = {Distress}
+seven of form, life
+    = indeterminate only
+    = 8
 
-Threefold
-    = {Mind,
-       Pain,
-       Pleasure,
-       Gladness,
-       NeutralFeeling}
-
-IndeterminateOnly
-    = {SevenMaterialFaculties,
-       Life}
-```
-
-The count is exhaustive:
-
-```text
 8 + 1 + 5 + 8 = 22
+
+neutral feeling
+    ↛ indeterminate
+wholesome
+    ↛ without outflows
+never maturation
+    ↛ unwholesome
 ```
 
-The type and its allowed qualities are separate:
-
-```text
-FacultyType(x)
-    ↛ DeterminesOneEthicalQuality(x)
-
-MindFaculty(x)
-    → AllowedQuality(x,
-        {Wholesome, Unwholesome, Indeterminate})
-
-DistressFaculty(x)
-    → AllowedQuality(x,
-        {Wholesome, Unwholesome})
-
-PathDirectedFaculty(x)
-    → RequiredQuality(x, Wholesome)
-
-MaterialOrLifeFaculty(x)
-    → RequiredQuality(x, Indeterminate)
-```
-
-The two neutralities are orthogonal:
-
-```text
-AffectiveTone(x, Neutral)
-    ↛ EthicalQuality(x, Indeterminate)
-
-FacultyClass(x, Upeksa)
-    ∧ EthicalQuality(x, Wholesome | Unwholesome | Indeterminate)
-```
-
-The first phrase also completes the future-maturation partition of VAK 2.10:
-
-```text
-SavipakaTwofold
-    = {Mind,
-       FourFeelingsOtherThanDistress,
-       FiveBeginningWithConfidence}
-```
+Threefold is the range of instances, not three qualities in one instance.
 
 ## 9. Interpretive Note
 
-VAK 2.11 begins by closing the unfinished count of VAK 2.10. The ten
-faculties that can either possess maturation as future result or not are mind,
-the four feelings other than distress, and the five beginning with confidence.
-Recognizing this cross-verse continuation is necessary before beginning the
-new ethical classification.
+The opening closes 2.10. Without that carry, the first words look like the wholesome eight. They are the ten.
 
-The ethical partition distinguishes Faculty-identity from ethical
-qualification. Mind and the four feelings other than distress may occur as
-wholesome, unwholesome, or ethically indeterminate; their Faculty-identity
-persists across these modes.
+Distress can be wholesome. The paragraph does not say when. No example is invented. Pleasant feeling is not therefore wholesome. Pleasure and gladness are in the threefold group.
 
-Distress is narrower. It is never indeterminate, although the Bhāṣya allows
-both wholesome and unwholesome distress. The present unit does not explain
-the circumstances of wholesome distress, so no example should be inferred.
-What is established is that distress always bears ethical quality.
+The two eights are different. Faith and the three are wholesome. Eye through life are indeterminate. Shared wholesome status does not erase the outflow split of 2.09. The five can be either. The three are without outflows.
 
-The material Faculties and Life provide the opposite case. Their governing
-importance does not make them wholesome or unwholesome; the faculties
-themselves are exclusively `avyākṛta`.
-
-The eight path-directed Faculties are exclusively wholesome: five equip
-the path, and three are the realization-Faculties. Their wholesome status
-is distinct from the outflow classification in VAK 2.09; the five beginning
-with confidence may have outflows, while the realization-Faculties do not.
-
-**Reciprocal return to Dhātu.** VAK 1.48 maps Faculty-status within the
-Base–Essence–Principle architecture; this verse adds ethical qualification
-without relocating those Faculties. Functional locus, outflow-status, and
-ethical quality remain distinct classifications.
-
-Across the Kośa, Vijñāna is Discriminative Cognition joining Perception
-and Conception without reducing their unity to one homogeneous operation;
-it governs Mind and guides the reading of Dharma Base. The same
-*avijñapti* remains one content in the Form Base and Dharma Base
-classifications, and Vijñāna bears a *prati* relation to it. This
-cross-chapter synthesis is an Organon framework, not a claim made by
-this verse.
+Organon reading: four axes, one faculty. The platform copes by not collapsing them. Not the verse English.
 
 ## 10. OWL++ Seed
 
@@ -308,38 +136,14 @@ this verse.
 vak:VAK_2_11
     a vak:Karika ;
     rdfs:label "VAK 2.11" ;
-    vak:hasTopic vak:EthicalQualityPartition ;
-    vak:completes vak:SavipakaPartition ;
+    vak:hasTopic vak:EthicalQuality ;
     vak:belongsTo vak:Indriyanirdesa .
 
-vak:EthicalQualityPartition
-    vak:hasQuality vak:Wholesome,
-        vak:Unwholesome,
-        vak:Indeterminate ;
-    vak:hasTotalCount 22 .
+vak:WholesomeEight vak:requires vak:Wholesome .
+vak:DistressFaculty vak:excludes vak:Indeterminate .
+vak:NeutralFeeling vak:notIdenticalWith vak:Indeterminate .
 
-vak:EightPathDirectedFaculties
-    vak:requiresQuality vak:Wholesome ;
-    vak:hasCount 8 .
-
-vak:DistressFaculty
-    vak:allowsQuality vak:Wholesome,
-        vak:Unwholesome ;
-    vak:excludesQuality vak:Indeterminate .
-
-vak:MindAndFourOtherFeelings
-    vak:allowsQuality vak:Wholesome,
-        vak:Unwholesome,
-        vak:Indeterminate ;
-    vak:hasCount 5 .
-
-vak:SevenMaterialFacultiesAndLife
-    vak:requiresQuality vak:Indeterminate ;
-    vak:hasCount 8 .
-
-organon:EthicalCapabilityConstraint
-    a organon:InterpretiveReconstruction ;
-    organon:constrains vak:FacultyExecution ;
-    organon:uses vak:AllowedEthicalQuality ;
-    organon:inferredFrom vak:EthicalQualityPartition .
+organon:FourAxes
+    organon:notCollapsed true ;
+    organon:notTheVerseEnglish true .
 ```

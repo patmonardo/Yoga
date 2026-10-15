@@ -1,4 +1,4 @@
-# VAK_2.26 — Afflicted and Unwholesome Mental Factors
+# VAK_2.26 — Always in the Afflicted
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -6,190 +6,124 @@
 >
 > क्लिष्टे सदैवाकुशले त्वाह्रीक्यमनपत्रपा ॥ २.२६ ॥
 
-The research witness reads `आश्रद्धयं` and `उद्धवः`. The Bhāṣya has
-`आश्रद्ध्यम्` (*āśraddhyam*) and `औद्धत्यम्` (*auddhatyam*), adopted
-here for the verse while leaving the research witness unchanged.
-
 ## 2. Sanskrit (IAST)
 
 > mohaḥ pramādaḥ kauśīdyam āśraddhyaṃ styānam auddhatyam /
 >
 > kliṣṭe sadaivākuśale tv āhrīkyam anapatrapā // 2.26 //
 
-## 3. Lexical Analysis
+The running source damages the verse. Styāna and auddhatya are secured by the prose.
 
-```text
-mohaḥ         → mohaḥ
-pramādaḥ      → pramādaḥ
-kauśīdyam     → kauśīdyam
-āśraddhyaṃ    → ā-śraddhyam
-styānam       → styānam
-auddhatyam    → auddhatyam
-kliṣṭe        → kliṣṭe
-sadaivākuśale → sadā eva akuśale
-tv            → tu
-āhrīkyam      → āhrīkyam
-anapatrapā    → an-apatrapā
-```
+## 3. Lexical Analysis
 
 | Pada | Morphology | Force in this passage |
 |---|---|---|
-| mohaḥ | nominative masculine singular | delusion; explained as ignorance and lack of clear comprehension |
-| pramādaḥ | nominative masculine singular | negligence |
-| kauśīdyam | nominative neuter singular | laziness; absence of energetic exertion |
-| āśraddhyam | nominative neuter singular | lack of confidence or clarity |
-| styānam | nominative neuter singular | sluggishness; heaviness and unworkability |
-| auddhatyam | nominative neuter singular | agitation; non-pacification |
-| kliṣṭe | locative neuter singular | in afflicted consciousness |
-| sadā eva | indeclinables | always |
-| akuśale | locative neuter singular | in unwholesome consciousness |
-| tu | contrastive particle | but; introduces the unwholesome case |
-| āhrīkyam | nominative neuter singular | shamelessness |
-| an-apatrapā | nominative feminine singular | absence of moral caution |
+| mohaḥ | nominative | delusion |
+| pramādaḥ | nominative | heedlessness |
+| kauśīdyam | nominative | laziness |
+| āśraddhyam | nominative | lack of faith |
+| styānam | nominative | sluggishness |
+| auddhatyam | nominative | agitation |
+| kliṣṭe sadā eva | locative | always in the afflicted |
+| akuśale tu | locative | but in the unwholesome |
+| āhrīkyam | nominative | shamelessness |
+| anapatrapā | nominative | lack of moral caution |
+
+Afflicted and unwholesome are not the same range.
 
 ## 4. Grammar
 
-The first six factors are predicated of afflicted consciousness; the second
-line adds a further pair in the unwholesome case:
-
 ```text
-mohaḥ ... auddhatyam
-    → six factors always present in afflicted consciousness
+afflicted consciousness
+    → six, always, and only there
+    delusion, heedlessness, laziness,
+    lack of faith, sluggishness, agitation
 
-akuśale tu
-    → but in unwholesome consciousness
-
-āhrīkyam anapatrapā
-    → shamelessness and absence of moral caution [are present]
+unwholesome consciousness
+    → those, and shamelessness, lack of moral caution
+    the pair explained later
 ```
 
-The Bhāṣya treats *kliṣṭa* and *akuśala* as distinct class predicates.
-Unwholesome consciousness bears the afflicted factors and the additional
-two factors assigned to the unwholesome great ground.
+The ten-recitation is another count. Five of it are afflicted modes of the universal ten.
 
-## 5. Scientific English Rendering
+## 5. Translation
 
-### Kārikā
+### Literal Translation
 
-> Delusion, negligence, laziness, lack of confidence, sluggishness, and
-> agitation are always present in the afflicted; but in the unwholesome
-> [there are also] shamelessness and absence of moral caution.
+Delusion, heedlessness, laziness, lack of faith, sluggishness, and agitation, always in the afflicted. But in the unwholesome, shamelessness and lack of moral caution.
 
-### Bhāṣya-informed rendering
+### Bhāṣya-informed study translation
 
-> Every afflicted consciousness has six factors of the afflicted
-> great-ground class: ignorance, non-cultivation of wholesome Dharmas,
-> absence of energetic exertion, lack of confidence or clarity, bodily
-> and mental heaviness and unworkability, and non-pacification of
-> consciousness. Every unwholesome consciousness also has shamelessness
-> and absence of moral caution.
+Those that occur always in afflicted consciousness. Delusion is ignorance, not knowing, lack of clear comprehension. Heedlessness is non-cultivation of wholesome dharmas, opposed to heedfulness. Laziness is absence of arousal, opposed to vigor. Lack of faith is absence of clarity, opposed to faith. Sluggishness is heaviness and unworkability of body and consciousness. A mental factor called bodily, as bodily feeling. Agitation is non-pacification of consciousness. These six.
 
-The Bhāṣya reports a ten-member Abhidharma recitation but does not replace
-the Kārikā's six. It distinguishes afflicted modes of factors already
-included in the universal great ground from factors classified specifically
-in the afflicted great ground.
+The Abhidharma recites ten. You know the recitation, not the intention. Loss of recollection, distraction, lack of clear comprehension, improper attention, and false resolution are not exclusively affliction great-ground factors, because they are great-ground factors. As non-delusion is not exclusively wholesome, being prajñā. Lost recollection is recollection afflicted. Distraction is concentration afflicted, and so on.
 
-## 6. Interpretation
+Four alternatives. First: feeling, volition, reflection, wish to perform, contact. Second: lack of faith, laziness, ignorance, agitation, heedlessness. Third: the five beginning with lost recollection. Fourth: outside these modes. Some hold distraction different from wrong concentration. For them the fourfold is otherwise. The revised lists are not given.
 
-VAK 2.26 distinguishes three matters: the range in which a factor occurs,
-its mode in an afflicted consciousness, and its class membership. The
-ten-member recitation names afflicted factors; some correspond to altered
-modes of universal factors rather than new members of the six-factor
-class. The distinction preserves the force of both enumerations.
+Sluggishness is associated with every affliction. Why not recited? It should be, and is not, because favorable to concentration. The predominantly sluggish, it is said, would produce concentration more quickly than the predominantly agitated. Who is sluggish without being agitated? They never cease to accompany one another. Designation follows whichever predominates. Thus six. Always and only in afflicted consciousness.
 
-The Bhāṣya says lost recollection is recollection in an afflicted mode and
-distraction is concentration in an afflicted mode, “and so on.” By
-parallel mapping to VAK 2.24, the further correspondences are lack of
-clear comprehension with discernment, improper attention with attention,
-and false resolution with resolution. Those three are interpretive
-extensions of “and so on,” not individually stated definitions here.
+In unwholesome consciousness, shamelessness and lack of moral caution, invariably. Their characteristics later.
 
-Sluggishness and agitation are said never to cease accompanying one
-another; the stronger factor determines the character-label. Predominance
-does not mean exclusive possession. The reported claim that sluggishness
-can support concentration is not a recommendation to cultivate it or a
-reclassification of it as wholesome.
+## 6. Philosophical Translation
 
-In Kant-informed Techne, distinguish factor identity, afflicted mode,
-class range, and relative strength rather than flattening them into one
-label. This is an analytical project method, not a source term and not a
-resolution of the disagreement about distraction.
+Affliction is not the disappearance of the universal ten. Recollection, concentration, Discrimination, attention, and resolution remain, in afflicted modes. The six are the factors whose class is the afflicted ground. The two are a narrower class. Six and ten are not the same count under two names.
 
-The ten Samyama-bhūmis describe Path-related operation of mental factors
-in the Organon framework, with Buddha Dharma as the 11th Bhūmi. The
-wholesome, afflicted, and unwholesome ranges here are not themselves
-successive Path stages or a universal biography. The Kośa's governing
-synthesis: Vijñāna is Discriminative Cognition joining and governing
-Perception and Conception. Their unity is Inconceivable as a homogeneous
-operation; its Idea is disclosed in the Cognition Base. Vijñāna governs
-Mind and guides the reading of Dharma Base. Form Base and Dharma Base
-both include the same *avijñapti* in distinct classifications, and
-Vijñāna bears a *prati* relation to *avijñapti*. This synthesis does not
-identify *citta* with Vijñāna or mental factors with Faculties.
+Sluggishness and agitation co-arise. The label is predominance, not exclusive membership. Favorable to concentration is not a reclassification as wholesome.
 
-## 7. Logical Determination
+Organon rendering:
+
+Range, mode, and predominance stay apart. Objective Logic on the mind is the pass, not the translation. Not the final pass.
+
+## 7. Technical Vocabulary
+
+| Sanskrit | Running word | Determination |
+|---|---|---|
+| kleśa-mahābhūmika | affliction great-ground | always, only in the afflicted |
+| moha | delusion | avidyā |
+| pramāda | heedlessness | opposed to heedfulness |
+| kauśīdya | laziness | opposed to vigor |
+| āśraddhya | lack of faith | opposed to faith |
+| styāna | sluggishness | heaviness, unworkability |
+| auddhatya | agitation | non-pacification |
+| muṣita-smṛtitā | lost recollection | mindfulness afflicted |
+| vikṣepa | distraction | concentration afflicted; disputed |
+| akuśala-mahābhūmika | unwholesome great-ground | the two; narrower |
+
+## 8. Logical Determination
 
 ```text
-AfflictedSix = {
-    Delusion,
-    Negligence,
-    Laziness,
-    LackOfConfidence,
-    Sluggishness,
-    Agitation
-}
+afflicted
+    → six
+    only there
 
-UnwholesomeTwo = {
-    Shamelessness,
-    AbsenceOfMoralCaution
-}
+unwholesome
+    → six, and the two
+    afflicted ≠ unwholesome
 
-For every consciousness-event e:
-    Afflicted(e)
-        → AfflictedSix ⊆ Factors(e)
+afflicted mode of a universal factor
+    ≠ exclusively an affliction great-ground factor
 
-    Unwholesome(e)
-        → UnwholesomeTwo ⊆ Factors(e)
+co-present
+    ≠ the label
+predominance
+    = the designation
+
+distraction = wrong concentration
+    disputed
+    revised fourfold not supplied
 ```
 
-The longer list's five afflicted modes are analytically distinct from
-exclusive class membership:
+## 9. Interpretive Note
 
-```text
-LostRecollection       → afflicted mode of Recollection
-Distraction            → afflicted mode of Concentration
-LackOfClearComprehension → inferred afflicted mode of Discernment
-ImproperAttention      → inferred afflicted mode of Attention
-FalseResolution        → inferred afflicted mode of Resolution
-```
+Five of the ten are kept as the separately counted afflicted factors, with sluggishness added to make six. The other five are modes. And so on completes them: lack of clear comprehension is Discrimination afflicted, improper attention is attention afflicted, false resolution is resolution afflicted. Not extra definitions spelled out here.
 
-The final three mappings follow the parallel with VAK 2.24 and the
-Bhāṣya's “and so on”; they are not separately glossed in this verse's
-commentary.
+The first alternative does not say feeling cannot occur in afflicted consciousness. It is classification in the comparison. Sluggishness is not silently added to the second row. Its omission is the next question.
 
-## 8. Interpretive Note
+The retort is damaged. Recitation against intention is the contrast. Not a restored first compound. Bodily sluggishness is the feeling analogy, not expanded, and not sleep.
 
-The fourfold comparison in the Bhāṣya distinguishes membership in the
-universal great ground from membership in the afflicted great ground:
+Organon reading: a label is not the state. Not the verse English.
 
-| Relation | Members supplied by the prose |
-|---|---|
-| Universal great ground, not in the cited afflicted class | Feeling, volition, recognition, desire to act, contact |
-| Cited afflicted class, not universal great ground | Lack of confidence, laziness, ignorance, agitation, negligence |
-| Both, in afflicted modes | The five beginning with lost recollection |
-| Neither | What remains outside these specified memberships |
-
-This table records the recited classification at this point in the
-argument. Sluggishness is not silently inserted into the second row; its
-omission is the next question. Nor does the first row mean those factors
-never occur in afflicted consciousness.
-
-Some distinguish distraction from wrong concentration. The source says
-that this changes the fourfold analysis but does not supply the revised
-lists. The alternate taxonomy remains open rather than being filled by
-conjecture.
-
-## 9. OWL++ Seed
+## 10. OWL++ Seed
 
 ```ttl
 @prefix vak: <http://127.0.0.1:3000/vak#> .
@@ -199,34 +133,12 @@ conjecture.
 vak:VAK_2_26
     a vak:Karika ;
     rdfs:label "VAK 2.26" ;
-    vak:hasTopic vak:AfflictedGreatGroundFactors,
-        vak:UnwholesomeGreatGroundFactors ;
+    vak:hasTopic vak:AfflictedGround ;
     vak:belongsTo vak:Indriyanirdesa .
 
-vak:AfflictedGreatGroundFactors
-    vak:hasMember vak:Delusion,
-        vak:Negligence,
-        vak:Laziness,
-        vak:LackOfConfidence,
-        vak:Sluggishness,
-        vak:Agitation ;
-    vak:occursIn vak:EveryAfflictedCittaEvent .
+vak:AfflictedSix vak:onlyInAfflictedConsciousness true .
+vak:UnwholesomeTwo vak:inEveryUnwholesomeConsciousness true .
 
-vak:UnwholesomeGreatGroundFactors
-    vak:hasMember vak:Shamelessness,
-        vak:AbsenceOfMoralCaution ;
-    vak:occursIn vak:EveryUnwholesomeCittaEvent .
-
-vak:LostRecollection
-    vak:hasAfflictedMode vak:Recollection .
-
-vak:Distraction
-    vak:hasAfflictedMode vak:Concentration ;
-    vak:alternativeAnalysis vak:MayDifferFromWrongConcentration .
-
-organon:FactorClassification
-    organon:distinguishes organon:FactorIdentity,
-        organon:AfflictedMode,
-        organon:OperatingRange,
-        organon:RelativeStrength .
+organon:ModeNotNewFactor
+    organon:notTheVerseEnglish true .
 ```

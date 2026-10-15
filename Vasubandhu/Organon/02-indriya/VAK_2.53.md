@@ -1,4 +1,4 @@
-# VAK_2.53 — Cultivated Qualities and Associated Cause
+# VAK_2.53 — Application, and the Associated Cause
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -12,120 +12,91 @@
 >
 > saṃprayuktakahetus tu cittacaittāḥ samāśrayāḥ // 2.53 //
 
-The Bhāṣya resumes the first half at 87.20 and recites it at 87.22–24.
-The second half is recited at 88.15 and with the full verse marker at 88.19.
-Its explanation ends at 88.27; VAK 2.54 begins at 89.01.
+Those two are the equal and the superior, from 2.52. Cintā is thought. Not reflection. Reflection is saṃjñā.
 
-## 3. Padaccheda
+## 3. Lexical Analysis
 
-```text
-prayogajās                 → prayogajāḥ
-tayor                      → tayoḥ
-eva                        → eva
-śrutacintāmayādikāḥ        → śruta-cintā-maya-ādikāḥ
-saṃprayuktakahetus         → saṃprayuktaka-hetuḥ
-tu                         → tu
-cittacaittāḥ               → citta-caittāḥ
-samāśrayāḥ                 → sama-āśrayāḥ
-```
-
-| Form | Morphology | Lexical force here |
-|---|---|---|
-| prayogajāḥ | nominative masculine plural compound | produced through application or deliberate practice |
-| tayoḥ | genitive dual pronoun | of those two: the equal and the superior |
-| eva | restrictive particle | only |
-| śruta-cintā-maya-ādikāḥ | nominative masculine plural compound | beginning with those formed through hearing and reflection |
-| saṃprayuktaka-hetuḥ | nominative masculine singular compound | associated cause |
-| tu | adversative/transition particle | but / now |
-| citta-caittāḥ | nominative masculine plural coordinative compound | consciousness and mental factors |
-| sama-āśrayāḥ | nominative masculine plural compound | having the same support |
-
-`Tayoḥ eva` resumes the equal-or-superior pair (`sama-viśiṣṭa`) from VAK
-2.52. The first half therefore completes the homogeneous-cause rule before
-`tu` turns to the associated cause.
+| Pada | Force |
+|---|---|
+| prayogajāḥ | produced by application |
+| tayoḥ eva | of those two only |
+| śruta-cintā-maya-ādikāḥ | born of hearing, of thought, and the rest |
+| saṃprayuktaka-hetuḥ | associated cause |
+| citta-caittāḥ | consciousness and the mental factors |
+| samāśrayāḥ | of the same support |
 
 ## 4. Grammar
 
-The first half has an understood causal predicate from the preceding verse:
-
 ```text
-śruta-cintā-maya-ādikāḥ prayogajāḥ
-    → tayoḥ eva [sabhāga-hetavaḥ]
-
-application-produced qualities,
-beginning with those born of hearing and reflection
-    → are homogeneous causes only for the equal and superior
+application-produced
+    homogeneous cause of the equal and the superior only
+    not of the inferior
+associated
+    consciousness and the mental factors
+    same support
+    numerically the same, not the same kind
 ```
-
-The restrictive `eva` is essential: deliberate application does not produce
-an intentionally inferior homogeneous result.
-
-The second half gives a new nominal definition:
-
-```text
-sama-āśrayāḥ citta-caittāḥ
-    → saṃprayuktaka-hetuḥ
-
-consciousness and mental factors having the same support
-    → are associated cause
-```
-
-The plural members fall under the singular causal type. The Bhāṣya specifies
-that “same” means numerically the very same support, not merely another
-support of the same kind.
 
 ## 5. Translation
 
-### Close syntactic construe
+### Literal Translation
 
-> Qualities produced through application, beginning with those formed through hearing and reflection, [are homogeneous causes] only with respect to those two—the equal and the superior. But consciousness and mental factors having the same support are associated cause.
+Produced by application, of those two only: born of hearing, of thought, and the rest. But the associated cause: consciousness and the mental factors, of the same support.
 
-### Bhāṣya-informed translation
+### Bhāṣya-informed study translation
 
-> Worldly qualities produced through application—those formed through hearing, reflection, cultivation, and the rest—are homogeneous causes only of equal or superior qualities, not inferior ones. Associated cause consists of consciousness and its mental factors when they have the same support. The Bhāṣya explains this through the same faculty-moment, the five equalities, and the relation between associated cause and co-arisen cause.
+Not only the Path. Worldly qualities produced by application are homogeneous causes of the equal or the superior, not of the inferior. Hearing, thought, cultivation. In the desire realm, hearing reaches hearing and thought. Thought reaches thought. Cultivation is absent. In the form realm, hearing reaches hearing and cultivation. Thought is absent. Cultivation reaches cultivation. In the formless, cultivation reaches cultivation. Nine grades. Weak-weak reaches all nine. Weak-middle reaches eight. And so on.
 
-## 6. Technical Vocabulary
+Wholesome acquired by birth, all nine grades, of one another. Afflicted likewise. Unobscured-indeterminate are four: born of maturation, deportment, craft, and arising with a transformation-mind. Causes of four, three, two, and one. A result of a higher concentration is not a cause of a result of a lower. Effort is not to be fruitless. Rice is not the cause of barley.
 
-| Sanskrit | Rendering | Scope in this unit |
+An arisen uncontaminated dharma need not cause an unarisen inferior. Prior acquisition is not prior arising. A future receptivity is not a homogeneous cause of the knowledge. A superior is not the cause of an inferior, as when a higher fruit is lost and a lower becomes manifest. The homogeneous cause has been explained.
+
+Consciousness and the mental factors. Different times and continua would follow. Same aspect and object: the same. Same time: people looking at the new moon. Therefore the same support. Non-different. The eye-moment that supports eye-cognition supports the feeling and the rest associated with it. So with mind. Whatever is an associated cause is also co-arisen. Co-arisen, as mutually a result, like travelers by one another's strength. Associated, by the five equalities, like the same travelers sharing provisions. Without even one, they are not associated. The associated cause has been explained.
+
+## 6. Philosophical Translation
+
+Application takes the Path's direction. Birth-acquired and afflicted do not. Effort is not a promise of improvement. Decline is stated.
+
+Association is not the class. Not shared aspect. Not shared time. The new moon is other continua at one time. Same support is one moment of the faculty, not a support of the same kind. Five equalities: support, object, aspect, time, and one instance of each. One instance is not one substance.
+
+Every associated cause is co-arisen. Not the converse. The great elements were co-arisen and are not associated factors.
+
+Organon rendering:
+
+The rule-system is associated when the five hold. Produced consciousness, not Citta the Universal. Not the verse. Not the final pass.
+
+## 7. Technical Vocabulary
+
+| Sanskrit | Running word | Determination |
 |---|---|---|
-| prayogaja | produced through application | deliberate practice, distinguished from qualities acquired by birth |
-| śrutamaya | formed through hearing | one of the qualities whose causal reach is specified |
-| cintāmaya | formed through reflection | one of the qualities whose causal reach is specified |
-| bhāvanāmaya | formed through cultivation | included by `ādi` and analyzed in the realm examples |
-| upapatti-pratilambhika | acquired by birth | wholesome qualities treated separately from application-produced qualities |
-| anivṛtāvyākṛta | unobscured-indeterminate | the fourfold class analyzed by mode of arising |
-| sabhāgahetu | homogeneous cause | cause of a similar dharma, with grade and temporal restrictions |
-| saṃprayuktakahetu | associated cause | consciousness and mental factors associated under the five equalities |
-| sahabhūhetu | co-arisen cause | relation of mutual resulthood; every associated cause is also this |
-| pañca-samatā | five equalities | support, object-support, aspect, time, and numerical instance |
-| samāśraya | same support | the numerically non-different support explained through a faculty-moment |
+| prayogaja | produced by application | not by birth |
+| cintāmaya | born of thought | not saṃjñā |
+| pañca-samatā | five equalities | the association |
+| samāśraya | same support | numerically one |
 
-The fifth equality, *dravya*, concerns numerical instance: one instance of
-consciousness and one of each associated mental factor in the occurrence.
-It does not make the factors one substance.
+## 8. Logical Determination
 
-## 7. Interpretation
+```text
+application
+    → equal or superior only
+birth, afflicted
+    → of one another
+associated
+    = same support, and the five
+    → also co-arisen
+co-arisen
+    ≠ associated
+```
 
-In the project's modest sense, this is philosophical logic. The Bhāṣya tests
-what licenses a causal claim. A deliberately produced quality can be
-a homogeneous cause only for an equal or superior result; resemblance alone
-does not determine the result-grade. For associated cause, sharing an aspect,
-object, or time is still insufficient: the explanation requires the same
-support and invokes the five equalities. Each restriction blocks a different
-overbroad inference. The causal perspective is therefore relational and
-complete only through its conditions; a determinate Dharma does not bring
-that perspective with it merely by being present.
+## 9. Interpretive Note
 
-This is not a formal logic system named by the text. Conventionally, the
-passage completes the account of *sabhāgahetu* and defines *saṃprayuktakahetu*.
-In the project’s Hub reading, it continues the *hetu:pratyaya* inquiry while
-keeping these causal relations distinct; that synthesis is not a claim made
-explicitly by this Bhāṣya.
+The damaged unarisen-contaminated reading is against the example, an uncontaminated receptivity. Not repaired as a new rule. The pervasive cause is next.
 
-## 8. Review Status
+## 10. OWL++ Seed
 
-First Hetu-definition pass complete. Checked against the running Sanskrit and the paired
-VAK 2.52 boundary. The first and second halves of the kārikā are separated
-in the Bhāṣya by the extended homogeneous-cause discussion. Textual
-uncertainties and contextual repairs are recorded in the Bhāṣya study;
-no independent edition or manuscript collation has been performed.
+```ttl
+@prefix vak: <http://127.0.0.1:3000/vak#> .
+
+vak:VAK_2_53 a vak:Karika ; vak:hasTopic vak:AssociatedCause .
+vak:SameSupport vak:numerical true .
+```

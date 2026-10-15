@@ -1,159 +1,90 @@
-# VAK_2.30 Bhāṣya — Indeterminate Consciousness and Torpor
+# VAK_2.30 Bhāṣya — Indeterminate Consciousness and the Addition of Torpor
 
 ## 1. Kārikā Anchor
 
 > nivṛte 'ṣṭādaśānyatra dvādaśāvyākṛte matāḥ /
 > middhaṃ sarvāvirodhitvād yatra syād adhikaṃ hi tat // 2.30 //
 
-> In obscured-indeterminate consciousness eighteen are accepted; in the
-> other indeterminate case, twelve. Because torpor is compatible with all,
-> wherever it occurs, that factor is additional.
+> In the obscured, eighteen. In the other indeterminate, twelve are accepted. Because torpor is incompatible with none, wherever it may occur, that is additional.
 
-The Desire-Principle scope continues from VAK 2.28–2.29. This unit ends
-after the numerical examples for adding torpor, before the transition to
-higher levels.
+Desire-realm scope continues. The unit ends after the numerical examples, before the transition to the higher levels.
 
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
-> nivṛte 'ṣṭadaśa
+> nivṛte 'ṣṭādaśa
 > satkāyāntagrāhadṛṣṭisaṃprayuktaṃ cittaṃ kāmadhātau nivṛtāvyākṛtam /
 > tatrāṣṭādaśa caittāḥ /
 > daśa mahābhūmikāḥ ṣaṭ kleśamahābhūmikāḥ vitarkavicārau ca /
-> dṛṣṭiḥ pūrvavadeva nādhikā bhavati /
-> aynatra dvādaśāvyākṛte matāḥ /
-> nivṛtādanyadavyākṛtamanivṛtāvyākṛtam /
+> dṛṣṭiḥ pūrvavad eva nādhikā bhavati /
+> anyatra dvādaśāvyākṛte matāḥ /
+> nivṛtād anyad avyākṛtam anivṛtāvyākṛtam /
 > tatra dvādaśa caittā iṣṭāḥ /
 > daśa mahābhūmikā vitarkavicārau ca /
-> bahirdeśakā avyākṛtamapi kaukṛtyamicchanti /
+> bahirdeśakā avyākṛtam api kaukṛtyam icchanti /
 > teṣāṃ tatsaṃprayukte cetasi trayodaśa bhavanti /
-> middhaṃ sarvāvirodhitvādyatra syādadhikam hi tat // 2.30 //
-> sarvairebhiryathoktai ścaitairmiddhamaviruddhaṃ kuśalākuśalāvyākṛtatvāt /
-> ato tatra tatsyāt tatrādhikaṃ tadveditavyam /
-> yatra dvāviṃśatistatra trayoviṃśatiryatra trayoviṃśatistatra caturviṃśatirityevamādi /
+> middhaṃ sarvāvirodhitvād yatra syād adhikaṃ hi tat // 2.30 //
+> sarvair ebhir yathoktaiś caitair middham aviruddhaṃ kuśalākuśalāvyākṛtatvāt /
+> ato yatra tat syāt tatrādhikaṃ tad veditavyam /
+> yatra dvāviṃśatis tatra trayoviṃśatir yatra trayoviṃśatis tatra caturviṃśatir ity evam ādi /
 
-The excerpt follows printed 58.18–59.02 in
-`Vasubandhu/Sources/kosabhasya.txt`, ending before the separately marked
-59.02 transition *ya eva kāmadhātau*. Source labels are removed and the
-verse number regularized. Transcription defects remain visible; contextual
-resolutions are noted below. No independent collation is claimed.
+The unit is printed 58.18–59.02 in `Vasubandhu/Sources/kosabhasya.txt`. Aynatra is read as anyatra. The transition ya eva kāmadhātau is 2.31. No independent collation is claimed.
 
-## 3. Scientific English Rendering
+## 3. Continuous Conventional Translation
 
-“In the obscured, eighteen.” In the Desire Principle, consciousness
-associated with the view of self in the personal aggregate or with a view
-grasping an extreme is obscured-indeterminate. There are eighteen mental
-factors in it: ten universal great-ground factors, six afflicted
-great-ground factors, *vitarka*, and *vicāra*. As before, view does not
-constitute an addition.
+In the obscured, eighteen. In the desire realm, consciousness associated with the view of a self in the personal aggregate or with a view grasping an extreme is obscured-indeterminate. Eighteen mental factors: ten universal great-ground factors, six affliction great-ground factors, and vitarka and vicāra. As before, the view is not an addition. In the other indeterminate, twelve are accepted. The indeterminate other than the obscured is the unobscured-indeterminate. Twelve are accepted: ten universal great-ground factors, and vitarka and vicāra. Teachers of the outer regions also accept indeterminate regret. On their account, consciousness associated with it has thirteen.
 
-“In the other indeterminate case, twelve are accepted.” The
-indeterminate case other than the obscured one is unobscured-indeterminate.
-Twelve mental factors are accepted there: ten universal great-ground
-factors, *vitarka*, and *vicāra*. Teachers of the outer regions also
-accept indeterminate remorse. In a consciousness associated with it,
-they count thirteen.
+Because torpor is incompatible with none, wherever it occurs it is additional. Torpor is not incompatible with any of the mental factors already stated, since it can be wholesome, unwholesome, or indeterminate. Wherever it occurs, it is additional. Where twenty-two, twenty-three. Where twenty-three, twenty-four. And so forth.
 
-“Because torpor is compatible with all, wherever it occurs it is
-additional.” Torpor is not incompatible with any of the factors stated,
-because it may be wholesome, unwholesome, or indeterminate. Therefore,
-wherever it occurs, it is counted as additional: where there are
-twenty-two, there are twenty-three; where there are twenty-three, there
-are twenty-four; and so forth.
+## 4. Movement and Voice of the Commentary
 
-## 4. Movement and Attribution
+The desire-realm classification of 2.28 is completed. Unwholesome was 2.29. These are the two indeterminate cases. A regional alternative on regret interrupts the count. Then the general rule for torpor.
 
-The passage completes the Desire-Principle profiles begun in VAK 2.28.
-After the unwholesome cases in VAK 2.29, it gives the two indeterminate
-cases and then a general rule for adding torpor.
+Thirteen by regret is attributed to outer-region teachers. No school named. No region identified. The count stays attributed. Not merged into the twelve.
 
-The thirteen-factor remorse case is attributed to *bahirdeśakāḥ*,
-teachers of the outer regions. No particular school or region is
-identified, and the text does not decide between that account and the
-principal twelve-factor profile.
+## 5. Eighteen and Twelve
 
-## 5. The Eighteen- and Twelve-Factor Profiles
+| Case | Count |
+|---|---:|
+| Obscured-indeterminate | 10 + 6 + vitarka, vicāra = 18 |
+| Unobscured-indeterminate | 10 + vitarka, vicāra = 12 |
+| Unobscured with indeterminate regret, outer-region teachers | 13 |
 
-| Desire-Principle case | Factors | Total |
-|---|---|---:|
-| Obscured-indeterminate | Ten universal, six afflicted, *vitarka*, *vicāra* | 18 |
-| Unobscured-indeterminate | Ten universal, *vitarka*, *vicāra* | 12 |
-| Unobscured-indeterminate with remorse, according to the outer-region teachers | The preceding twelve plus remorse | 13 |
+Eighteen keeps the six and omits the two unwholesome factors of 2.29. Afflicted and unwholesome stay operational. Indeterminate need not be unafflicted. The obscured case is the counterexample.
 
-The eighteen retain the six afflicted factors but omit the two specifically
-unwholesome factors from VAK 2.29. The twelve omit the six afflicted factors
-as well; they do not acquire the ten wholesome factors from VAK 2.28.
-Unobscured-indeterminate and wholesome are distinct classifications.
-Neither count includes consciousness itself as an additional factor.
+Twelve omits the six and does not take the wholesome ten. Unobscured and wholesome stay different. Consciousness is not an additional factor.
 
-The obscured profile is associated with *satkāyadṛṣṭi* and
-*antagrāhadṛṣṭi*. Their full definitions are not supplied here. “As
-before,” the Bhāṣya says view is a particular form of *prajñā* and does
-not add a nineteenth factor.
+## 6. The Views and the Alternative
 
-## 6. The Attributed Alternative about Remorse
+The two views are named. Their full definitions are not here. As before carries the special form of prajñā. Present, not a nineteenth. Particular determination is not an additional associate.
 
-Teachers of the outer regions accept remorse as ethically indeterminate.
-Their count adds it to the unobscured-indeterminate profile, making
-thirteen. This is explicitly an attributed position; the commentary
-does not adjudicate it in this unit.
+The outer-region claim extends regret to the indeterminate. 2.28 distinguished wholesome and unwholesome regret. This position allows a further determination. Thirteen is stated under that position. No argument decides the accounts.
 
-The alternative's thirteen is distinct from thirteen reached by adding
-torpor to the twelve-factor base. Equal counts do not establish identical
-factor membership or the same attribution.
+## 7. Torpor
 
-## 7. Torpor as a Conditional Addition
+Across the ethical cases. Wholesome, unwholesome, or indeterminate. Not assigned to the afflicted class or the unwholesome class.
 
-The compatibility rule for *middha*, torpor, spans wholesome,
-unwholesome, and indeterminate consciousness. The commentary does not
-assign it exclusively to one ethical class.
+Compatible is not universal occurrence. Wherever it occurs, the count increases by one. Compatible with the factors already stated does not put the mutually alternative cases in one consciousness.
 
-Compatibility is not universal occurrence. *Yatra syāt*, “wherever it
-occurs,” makes the addition conditional. A profile's count increases by
-one only when torpor is actually present. The explicit examples are
-twenty-two to twenty-three and twenty-three to twenty-four. Applying the
-general rule to the eighteen- and twelve-factor profiles would yield
-nineteen and thirteen; these are deductions, not examples stated in the
-prose.
+The stated examples are twenty-two becoming twenty-three, and twenty-three becoming twenty-four. Wholesome consciousness, without and with regret. By the same rule, eighteen becomes nineteen and twelve becomes thirteen when torpor occurs. Applications. Not examples supplied by the prose.
 
-## 8. Textual and Translation Decisions
+Thirteen by torpor on twelve is not thirteen by regret. Equal numbers do not identify the added factor.
 
-*Anyatra avyākṛte* is resolved by the commentary as the indeterminate
-case other than obscured, hence unobscured-indeterminate. “Elsewhere”
-without that restriction would give twelve an unjustifiably broad range.
-“Indeterminate” translates *avyākṛta* in its ethical sense and is not
-the *aniyata* classification of unfixed factors in VAK 2.27.
+## 8. The Bhāṣya's Decisions for Translation
 
-“Torpor” renders *middha* here. The passage gives its ethical
-compatibility, not a full definition or an identification with
-*styāna*, sluggishness; the two have distinct places in the count.
+The other indeterminate is the unobscured. Elsewhere without that restriction would spread twelve too far. Indeterminate is avyākṛta. Not the unfixed of 2.27.
 
-The transcription's *aynatra* is read as *anyatra*. Its
-*yathoktai ścaitair* is contextually understood as referring to the
-previously stated factors; *ato tatra tatsyāt* is rendered according
-to the conditional rule in the verse. The Sanskrit excerpt retains
-the available forms; no independent restoration is claimed.
+Torpor continues middha. Sleepiness is another gloss. Compatibility and ethical range are given. Not a full definition. Not sluggishness. The two have different places.
 
-## 9. Interpretation
+Aynatra is read as anyatra. The conditional is the verse's wherever it may occur. Not a restored collation.
 
-The verse separates ethical classification, factor specialization, and
-conditional presence. Obscured and unobscured determine distinct base
-profiles; view is included through already-counted discernment; torpor
-increases the count only when it occurs. The outer-region teachers'
-alternative adds indeterminate remorse, and remains attributed rather
-than merged with the main account.
+## 9. Organon Reading
 
-The Kośa's governing synthesis: Vijñāna is Discriminative Cognition joining
-and governing Perception and Conception. Their unity is Inconceivable as a
-homogeneous operation; its Idea is disclosed in the Cognition Base. Vijñāna
-governs Mind and guides the reading of Dharma Base. Form Base and Dharma
-Base both include the same *avijñapti* in distinct classifications, and
-Vijñāna bears a *prati* relation to *avijñapti*. This system-level synthesis
-remains distinct from the local counts of associated mental factors.
+Three grounds of a count: ethical class, identity of a factor already counted, and conditional presence. Obscured and unobscured set the principal totals. View is counted through Discrimination. Regret and torpor add under stated conditions.
 
-## 10. Textual and Scope Notes
+Thirteen without its derivation does not say whether torpor was added or regret under the regional alternative. Compatibility is not occurrence. The desire-realm inquiry closes. Higher levels are the next restriction. Objective Logic on the mind is the pass. Not the translation. Not the final pass.
 
-The translation follows the running transcription at 58.18–59.02 and
-includes both indeterminate counts, the attributed remorse alternative,
-and the torpor rule. Deductions from the rule are distinguished from
-the explicit examples. The next transition begins at 59.02 with
-*ya eva kāmadhātau*; it belongs to the following unit.
+## 10. Review Status
+
+Fine-tuned with the kārikā. Domain withdrawn. Both counts, the attributed thirteen, and the torpor rule are kept. Applications are marked as applications.
+
+2.31 has not been opened.

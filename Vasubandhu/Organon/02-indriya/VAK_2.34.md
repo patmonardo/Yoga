@@ -1,4 +1,4 @@
-# VAK_2.34 — Consciousness, Mind, Cognition, and Associated Factors
+# VAK_2.34 — One Meaning, Fivefold Association
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -12,130 +12,130 @@
 >
 > sāśrayālambanākārāḥ saṃprayuktāś ca pañcadhā // 2.34 //
 
-## 3. Lexical Analysis
+Ekārtha is one referent in this context. Not unrestricted interchange. Not Citta the Universal.
 
-```text
-cittaṃ              → cittam
-mano 'tha           → manaḥ atha
-vijñānam            → vijñānam
-ekārthaṃ            → eka-artham
-cittacaitasāḥ       → citta-caitasāḥ
-sāśrayālambanākārāḥ → sa-āśraya-ālambana-ākārāḥ
-saṃprayuktāś ca     → saṃprayuktāḥ ca
-pañcadhā            → pañcadhā
-```
+## 3. Lexical Analysis
 
 | Pada | Morphology | Force in this passage |
 |---|---|---|
-| cittam | nominative neuter singular | consciousness |
-| manaḥ | nominative neuter singular | Mind |
-| vijñānam | nominative neuter singular | Cognition |
-| eka-artham | nominative neuter singular compound | having one meaning or referent here |
-| citta-caitasāḥ | nominative plural compound | consciousness and its associated mental factors |
-| sa-āśraya | possessive compound member | having a support |
-| ālambana | compound member | object-support |
-| ākāra | compound member | manner or aspect |
-| saṃprayuktāḥ | nominative plural past passive participle | associated |
-| pañcadhā | adverb | in five ways |
+| cittam | nominative | consciousness |
+| manaḥ | nominative | mind |
+| vijñānam | nominative | cognition |
+| eka-artham | nominative | one meaning |
+| citta-caitasāḥ | nominative | consciousness and the mental factors |
+| sa-āśraya | | having a support |
+| ālambana | | cognitive support |
+| ākāra | | manner |
+| saṃprayuktāḥ | | associated |
+| pañcadhā | | fivefold |
 
-The Bhāṣya explains *ekārtha* contextually and gives the five equalities as
-support, object-support, manner, time, and numerical instance.
+Artha is meaning. Vijñāna is cognition. Not principle.
 
-## 4. Scientific English Rendering
-
-> Consciousness, Mind, and Cognition have one referent here. Consciousness
-> and its associated mental factors have support, object-support, and
-> manner, and are associated in five ways.
-
-## 5. Interpretation
-
-The verse identifies one referent while preserving distinct terms and
-functions. The Bhāṣya explains their contextual unity and specifies the
-relation between consciousness and its associated factors through five
-equalities: support, object-support, manner, time, and numerical instance.
-The one-event structure does not make consciousness and each factor the
-same factor.
-
-For the Kośa's governing synthesis, Vijñāna is Discriminative Cognition
-joining and governing Perception and Conception. Their unity is
-Inconceivable as a homogeneous operation; its Idea is disclosed in the
-Cognition Base. Vijñāna governs Mind and guides the reading of Dharma Base.
-Form Base and Dharma Base both include the same *avijñapti* in distinct
-classifications, and Vijñāna bears a *prati* relation to *avijñapti*. Here
-the Bhāṣya's statement that *citta*, *manas*, and *vijñāna* have one
-referent is local to this explanation; it does not erase the distinct
-project functions of consciousness, Mind, and Cognition.
-
-The project-level Samyama synthesis treats ten Samyama-bhūmis as describing
-Path-related operation of mental factors, with Buddha Dharma as the
-eleventh Bhūmi. This verse states the conditions of association; it does
-not enumerate or assign those levels.
-
-## 6. Logical Determination
-
-The Bhāṣya distinguishes contextual co-reference from functional
-explanation:
+## 4. Grammar
 
 ```text
-One referent:
-    citta, manas, vijñāna
+citta, manas, vijñāna
+    → one meaning here
+    three functions
 
-Explanatory functions:
-    citta     → gathering or variegation
-    manas     → support
-    vijñāna   → supported cognition
+consciousness and mental factors
+    having support, cognitive support, manner
+    associated fivefold
+    support, cognitive support, manner, time, one instance
 ```
 
-The fivefold association:
+## 5. Translation
+
+### Literal Translation
+
+Consciousness, mind, and cognition have one meaning. Consciousness and the mental factors have support, cognitive support, and manner, and are associated fivefold.
+
+### Bhāṣya-informed study translation
+
+The factors, together with consciousness, have been explained by kind. Their designations are now defined, being current in the teaching. Citta, because it gathers. Manas, because it considers. Vijñāna, because it cognizes. Others: citta, because variegated by wholesome and unwholesome dharmas. That same, as support, is manas. As supported, vijñāna.
+
+Consciousness and the mental factors have one referent under these predicates. Called having support, because dependent on the faculties. Having cognitive support, because they apprehend an object. Having manner, because they take that same cognitive support in a particular way. Associated, because conjoined equally. In five ways: equality of support, cognitive support, manner, time, and instance. As there is one consciousness, so one of each mental factor. Consciousness and the mental factors, with their distinctions, have been explained.
+
+## 6. Philosophical Translation
+
+One cognition is not a bare consciousness and not a heap. The three names are one occurrence under three functions. Gathering, support, supported cognition. The factors belong to that occurrence by five equalities. Same faculty. Same cognitive support. Same manner. Same moment. One instance of each. Unity does not erase the functions. Difference does not dissolve the event.
+
+Same time is necessary and not sufficient. The other four equalities belong to the relation. The earlier counts said which factors occur. This says in what respects they are associated.
+
+Organon rendering:
+
+This produced occurrence is not Citta the Universal. Pratyaya sits in the association, not in citta alone. The academy, the pass, and the grades are the Hub, not this verse. Objective Logic on the mind is the pass, not the translation. Not the final pass.
+
+## 7. Technical Vocabulary
+
+| Sanskrit | Running word | Determination |
+|---|---|---|
+| citta | consciousness | gathers; or variegated |
+| manas | mind | support-function of the same occurrence |
+| vijñāna | cognition | supported cognition; not principle |
+| ekārtha | one meaning | contextual; not every text |
+| āśraya | support | the faculty depended on |
+| ālambana | cognitive support | what is apprehended |
+| ākāra | manner | how that support is taken |
+| saṃprayoga | association | the five equalities |
+| dravya-samatā | equality of instance | one of each; not substance |
+
+What is gathered is not specified. No seed-theory is inserted.
+
+## 8. Logical Determination
 
 ```text
-Associated(citta, caittas)
-    requires equality of:
-        support
-        object-support
-        manner
-        time
-        numerical instance
+one occurrence
+    citta = gathering, or variegation
+    manas = support
+    vijñāna = supported cognition
+referent one
+    roles not one
+
+for each associated factor
+    same support
+    same cognitive support
+    same manner
+    same time
+    one instance
+
+same time
+    ≠ associated
+associated
+    → the five
+
+one consciousness
+    ≠ only one mental factor
+one of each
+    ≠ all factors one entity
 ```
 
-The closing explanation specifies numerical equality as one consciousness
-and one instance of each associated factor. This does not mean there is only
-one mental factor or that the different factors become one entity.
+## 9. Interpretive Note
 
-## 7. Interpretive Note
+The section closes. Distributions and particular distinctions give way to the names. Others are not a named school. The questions introduce explanations, not a developed objection.
 
-The Bhāṣya offers two explanations of the three terms. The first derives
-them respectively from gathering, considering, and cognizing. “Others”
-say consciousness is so called because it is variegated by wholesome and
-unwholesome Principles; that same occurrence is Mind insofar as it
-supports, and Cognition insofar as it is supported. Both are contextual
-accounts, not grounds for unrestricted interchange of the terms.
+Support is not the cognitive support. Manner is not a separate image, and not a theory of representation. Having manner is the local function.
 
-The five equalities specify shared conditions of association, not
-successive stages. *Dravya* is clarified by the Bhāṣya's one-instance-each
-explanation; it should not be turned into a claim about material
-substance. The object-support is not the faculty-support, and the manner
-is a distinct predicate concerning how the object-support is taken.
+Fivefold association does not settle the shared support of attention and equanimity, deferred at 2.25. It does not refute the alternative on vitarka and vicāra at 2.33. Level-attribution is still not moment-co-presence. Repeating the relation does not supply the missing explanation.
 
-## 8. OWL++ Seed
+Organon reading: common reference, common conditions, and identity of factor stay apart. Not the verse English.
+
+## 10. OWL++ Seed
 
 ```ttl
 @prefix vak: <http://127.0.0.1:3000/vak#> .
+@prefix organon: <http://127.0.0.1:3000/organon#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
 vak:VAK_2_34
     a vak:Karika ;
     rdfs:label "VAK 2.34" ;
-    vak:hasTopic vak:FivefoldMentalFactorAssociation ;
+    vak:hasTopic vak:FivefoldAssociation ;
     vak:belongsTo vak:Indriyanirdesa .
 
-vak:FivefoldAssociation
-    vak:hasEquality vak:SupportEquality,
-        vak:ObjectSupportEquality,
-        vak:MannerEquality,
-        vak:TimeEquality,
-        vak:NumericalInstanceEquality .
+vak:CittaManasVijnana vak:oneReferentHere true .
+vak:FiveEqualities vak:includes vak:Support, vak:Alambana, vak:Akara, vak:Time, vak:Instance .
 
-vak:NumericalInstanceEquality
-    vak:means "one consciousness and one instance of each associated factor" .
+organon:ProducedOccurrenceNotTheUniversal
+    organon:notTheVerseEnglish true .
 ```

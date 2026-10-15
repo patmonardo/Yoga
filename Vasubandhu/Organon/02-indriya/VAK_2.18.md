@@ -1,4 +1,4 @@
-# VAK_2.18 — Further Relations of Necessary Possession
+# VAK_2.18 — What Possession Entails
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -12,222 +12,138 @@
 >
 > saumanasyī ca duḥkhī tu saptabhiḥ strīndriyādimān // 2.18 //
 
-The syntax does not close completely at the verse boundary. According to the
-Bhāṣya, `strīndriyādimān` receives its instrumental count—`aṣṭābhiḥ`, “with
-eight”—from the opening of VAK 2.19. The study therefore marks the carryover
-without importing the next verse's further analysis.
+The last subject takes its count from the next opening, aṣṭābhiḥ. That completion is marked. The eleven and thirteen are not this verse.
 
 ## 3. Lexical Analysis
 
-```text
-caturbhiḥ            → caturbhiḥ
-sukhakāyābhyāṃ       → sukha-kāyābhyām
-pañcabhiś            → pañcabhiḥ
-cakṣurādimān         → cakṣuḥ-ādi-mān
-saumanasyī           → saumanasya-in
-ca                   → ca
-duḥkhī               → duḥkha-in
-tu                   → tu
-saptabhiḥ            → saptabhiḥ
-strīndriyādimān      → strī-indriya-ādi-mān
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
-| caturbhiḥ | instrumental plural numeral | with four faculties |
-| sukha-kāyābhyām | instrumental dual compound | in the cases of pleasure and body |
-| pañcabhiḥ | instrumental plural numeral | with five faculties |
-| cakṣuḥ-ādi-mān | nominative masculine singular possessive compound | one possessing the eye faculty or another beginning from that series |
-| saumanasyī | nominative masculine singular possessive formation | one possessing gladness |
-| duḥkhī | nominative masculine singular possessive formation | one possessing pain |
-| saptabhiḥ | instrumental plural numeral | with seven faculties |
-| strī-indriya-ādi-mān | nominative masculine singular possessive compound | one possessing the female faculty or another in the indicated group |
+| caturbhiḥ | instrumental | with four |
+| sukha-kāyābhyām | instrumental dual | pleasure, and body, separately |
+| pañcabhiḥ | instrumental | with five |
+| cakṣur-ādi-mān | nominative | one possessing the eye and so forth |
+| saumanasyī | nominative | one possessing gladness |
+| duḥkhī tu | nominative | one possessing pain, however |
+| saptabhiḥ | instrumental | with seven |
+| strī-indriya-ādi-mān | nominative | one possessing the female faculty and so forth |
 
-The instrumental dual `sukha-kāyābhyām` distributes the four-count over two
-separate cases: a possessor of pleasure and a possessor of the body faculty.
-It does not say that pleasure and body jointly constitute a four-member set.
+The dual distributes four over two cases. It does not make pleasure and body one set of four.
 
 ## 4. Grammar
 
-The Kārikā continues the ellipsis established in VAK 2.17: the understood
-predicate is “is necessarily endowed with.”
-
 ```text
-sukha-holder   → endowed with 4
-body-holder    → endowed with 4
+pleasure
+    → triad + pleasure
+    = 4
+body
+    → triad + body
+    = 4
 
-eye-holder and the corresponding sensory cases
-               → endowed with 5
+eye, ear, nose, tongue, each
+    → triad + body + that faculty
+    = 5
 
-gladness-holder
-               → endowed with 5
+gladness
+    → triad + pleasure + gladness
+    = 5
 
-pain-holder    → endowed with 7
+pain
+    → body, life, mind, four feelings
+    = 7
+    distress not included
+
+female and so forth
+    → eight, from the next opening
 ```
 
-The distribution of `pañcabhiḥ` is clarified by the Bhāṣya: it governs both
-the eye-series case and the gladness case. The contrastive `tu` foregrounds
-the pain-holder's sevenfold configuration.
+The predicate is necessarily possesses, carried from 2.17.
 
-The final subject remains without its numeral inside VAK 2.18:
+## 5. Translation
 
-```text
-strī-indriya-ādi-mān ...
-    → one possessing the female faculty and so on ...
-```
+### Literal Translation
 
-The opening `aṣṭābhiḥ` of VAK 2.19 completes it: such a possessor is endowed
-with eight. This syntactic determination is explicitly supplied by the
-Bhāṣya.
+With four, in the cases of pleasure and body. One possessing the eye and so forth, with five, and one possessing gladness. One possessing pain, however, with seven. One possessing the female faculty and so forth.
 
-## 5. Scientific English Rendering
+### Bhāṣya-informed study translation
 
-### Kārikā
+One possessing pleasure necessarily possesses four: the three beginning with neutral feeling, and pleasure. One possessing body, four: those three and body. One possessing the eye, five: neutral feeling, life, mind, body, and the eye. The same for ear, nose, and tongue.
 
-> In the cases of pleasure and body, [one is endowed] with four; one possessing the eye and so forth, with five, as also one possessing gladness; one possessing pain, however, with seven; one possessing the female faculty and so forth [with eight, as completed by VAK 2.19].
+One possessing gladness, five: neutral feeling, life, mind, pleasure, and gladness. With which pleasure is one born in the second dhyāna, who has not attained the third, endowed? With an afflicted pleasure belonging to the third dhyāna.
 
-### Bhāṣya-informed rendering
+One possessing pain, seven: body, life, mind, and four feeling-faculties. Pain, pleasure, gladness, and neutral feeling. Not distress.
 
-> Possession of either pleasure or the body faculty necessarily entails four faculties: that faculty together with neutral feeling, life, and mind. Possession of the eye—or separately the ear, nose, or tongue—entails five, adding body to the necessary triad. Possession of gladness also entails five, adding pleasure and gladness to the triad. Possession of pain entails seven: body, life, mind, and four feeling faculties. Possession of the female faculty and the further faculties gathered by “and so forth” entails eight, the count being supplied by the next verse.
+One possessing the female faculty, eight: those seven and the female faculty. And so forth gathers male, distress, and those beginning with faith. Each of male and distress is eight on that seven. One possessing a faculty beginning with faith possesses the five together with neutral feeling, life, and mind. A different eight.
 
-The four feelings required in the pain configuration are pain, pleasure,
-gladness, and neutral feeling. Distress is not entailed merely by pain.
+## 6. Philosophical Translation
 
-## 6. Interpretation
+If this is possessed, what else must be. Pleasure and body each close on four, and not the same four. Eye and gladness each close on five, and not the same five. Pain closes on seven. Female, male, and distress close on that seven plus themselves. Faith and the rest close on the five plus the triad. Equal counts are not interchangeable sets.
 
-The Bhāṣya gives distinct minimum possession-sets for the named
-Faculties: pleasure or Body with four, each of the eye-series and
-gladness with five, and pain with seven. Equal counts do not imply
-identical members. Possession is not current manifestation: the
-second-dhyāna example allows an afflicted pleasure Faculty assigned
-to the third dhyāna despite non-attainment of that dhyāna. The
-eightfold case begun with the female Faculty is completed by VAK 2.19.
+The second-dhyāna case keeps birth, attainment, and possession apart. Afflicted third-level pleasure can be possessed without the third dhyāna attained, and without pleasure manifest.
 
-In the Kant-informed Techne, the initiating Faculty, required set,
-and asserted relation are kept explicit. This is a project-level
-formalization of necessary co-possession, not a causal theory or
-system-design account supplied by the Bhāṣya.
+Organon rendering:
 
-The Kośa's governing synthesis: Vijñāna is Discriminative Cognition joining
-and governing Perception and Conception. Their unity is Inconceivable as a
-homogeneous operation; its Idea is disclosed in the Cognition Base. Vijñāna
-governs Mind and guides the reading of Dharma Base. *Avijñapti* is the
-bridge, one Dharma classified in both Form Base and Dharma Base; Vijñāna
-bears a *prati* relation to it.
+Membership under possession. The consequence of one member is a determinate set. Not activation, and not the non-reflective look-ahead. Not the verse English.
 
 ## 7. Technical Vocabulary
 
-| Sanskrit | Project rendering | Determination |
+| Sanskrit | Running word | Determination |
 |---|---|---|
-| samanvāgata | endowed with / possessing | present membership in a continuum, not necessarily current manifestation |
-| sukha-indriya | pleasure faculty | entails the necessary triad, producing four |
-| kāya-indriya | body faculty | entails the necessary triad, producing four |
-| cakṣur-ādi | eye and the corresponding sensory faculties | eye, ear, nose, and tongue treated as separate fivefold cases |
-| saumanasya-indriya | gladness faculty | entails the triad plus pleasure, producing five |
-| duḥkha-indriya | pain faculty | entails body, life, mind, and four feelings, producing seven |
-| strī-indriya-ādi | female faculty and the group beginning with it | receives the count eight from VAK 2.19 |
-| dvitīya-dhyānaja | born in the second dhyāna | Bhāṣya test case for possessed but presently unmanifest pleasure |
-| tṛtīya-dhyānālābhin | one who has not attained the third dhyāna | sharpens the distinction between possession and attainment |
-| kliṣṭa | afflicted | qualifies the third-dhyāna pleasure faculty in the test case |
-
-The Bhāṣya explains the `ādi` after the verse boundary as gathering the male
-faculty, distress, and the five beginning with confidence alongside the
-female faculty. Their detailed eightfold sets belong to VAK 2.19.
+| samanvāgata | possessing | not occurring now |
+| cakṣur-ādi | eye and so forth | ear, nose, tongue; separate cases |
+| strī-indriya-ādi | female and so forth | male, distress, the five; another range |
+| dvitīya-dhyāna-ja | born in the second dhyāna | the test |
+| tṛtīya-dhyāna-alābhin | not attained the third | possession without attainment |
+| kliṣṭa | afflicted | the third-level pleasure in the answer |
 
 ## 8. Logical Determination
 
-Let the necessary triad from VAK 2.17 be:
-
 ```text
-T = {NeutralFeeling, Life, Mind}
+triad
+    = neutral feeling, life, mind
+
+pleasure
+    = triad + pleasure
+body
+    = triad + body
+
+eye, ear, nose, tongue
+    = triad + body + that one
+    = 5
+
+gladness
+    = triad + pleasure + gladness
+    = 5
+
+pain
+    = body, life, mind,
+      pain, pleasure, gladness, neutral feeling
+    = 7
+
+female, male, distress
+    = those seven + itself
+    = 8
+
+five beginning with faith
+    = the five + triad
+    = 8
+
+possessed
+    ↛ active now
+same count
+    ↛ same set
 ```
-
-The present verse adds closure rules:
-
-```text
-Closure(Pleasure) = T ∪ {Pleasure}
-Count = 4
-
-Closure(Body) = T ∪ {Body}
-Count = 4
-```
-
-For each of eye, ear, nose, and tongue:
-
-```text
-ExternalSense ∈ {Eye, Ear, Nose, Tongue}
-
-Closure(ExternalSense)
-    = T ∪ {Body, ExternalSense}
-Count = 5
-```
-
-For gladness:
-
-```text
-Closure(Gladness)
-    = T ∪ {Pleasure, Gladness}
-Count = 5
-```
-
-For pain:
-
-```text
-Closure(Pain)
-    = {Body, Life, Mind,
-       Pain, Pleasure, Gladness, NeutralFeeling}
-Count = 7
-```
-
-The closure relation concerns possession:
-
-```text
-Possesses(agent, faculty)
-    → PossessesAll(agent, Closure(faculty))
-```
-
-It does not imply simultaneous activation:
-
-```text
-Possesses(agent, faculty)
-    ⇏ ActiveInCurrentEvent(agent, faculty)
-```
-
-The Bhāṣya's dhyāna example supplies the countermodel: an individual can
-possess an afflicted pleasure faculty assigned to another meditative level
-without presently manifesting a purified attainment of that level.
 
 ## 9. Interpretive Note
 
-VAK 2.18 turns the necessary triad into a graded dependency calculus. The
-counts are minimum closures, not totals of every faculty a given individual
-might contingently possess. Each rule answers: if this faculty is possessed,
-what else must be possessed with it?
+The closures are minimums. They do not say no other faculty can be possessed.
 
-The eye-series illustrates embodied dependency. Eye, ear, nose, and tongue
-each require the body faculty, and body requires the triad of neutral feeling,
-life, and mind. The fivefold count is computed by following that dependency
-chain. Gladness reaches five differently: it requires pleasure along with the
-triad. Equal counts therefore do not imply identical configurations.
+Eye requires body, and body requires the triad. Gladness requires pleasure, and pleasure requires the triad. Two ways to five.
 
-The Bhāṣya prevents “co-presence” from being misunderstood as
-concurrent manifestation. Its second-dhyāna example allows possession
-of an afflicted pleasure Faculty belonging to the third-dhyāna level
-even without attainment of that dhyāna. `Samanvāgama` here concerns
-possession, not present activation.
+The second-dhyāna answer is short. It does not explain the mechanism. Latent would add a theory the sentence does not give. The claim is the afflicted third-level pleasure, possessed, the dhyāna not attained.
 
-The cross-verse completion is itself instructive. The Kārikās form a linked
-instruction stream: the grammatical operand begun at the end of 2.18 is
-completed by the count at the start of 2.19. We record that interface here,
-but defer the composition of the eightfold configurations to the next study.
+Distress is the next eight, not part of the seven. The faith eight does not ride on the pain seven. Tu marks that.
 
-**Return to Dhātu at VAK 1.48.** Dhātu classifies Faculty relations
-within the Base–Essence–Principle architecture. VAK 2.18 specifies
-necessary co-possession among Faculties already classified there.
-For example, possession of Eye entails Body and the triad, without
-making their loci identical or claiming that all are active together.
-The crosswalk does not convert co-possession into causal production
-or replace the Dhātu map.
+Organon reading: the set, the initiating faculty, and the relation. A number alone loses the determination. Not the verse English.
 
 ## 10. OWL++ Seed
 
@@ -239,32 +155,14 @@ or replace the Dhātu map.
 vak:VAK_2_18
     a vak:Karika ;
     rdfs:label "VAK 2.18" ;
-    vak:hasTopic vak:NecessaryCopossession ;
-    vak:belongsTo vak:Indriyanirdesa ;
-    vak:syntacticallyContinuesInto vak:VAK_2_19 .
+    vak:hasTopic vak:PossessionClosure ;
+    vak:belongsTo vak:Indriyanirdesa .
 
-vak:PleasureFaculty,
-vak:BodyFaculty
-    vak:hasMinimumCopossessionCount 4 .
+vak:PleasureFaculty vak:closesOn 4 .
+vak:EyeFaculty vak:closesOn 5 .
+vak:GladnessFaculty vak:closesOn 5 .
+vak:PainFaculty vak:closesOn 7 .
 
-vak:EyeFaculty,
-vak:EarFaculty,
-vak:NoseFaculty,
-vak:TongueFaculty,
-vak:GladnessFaculty
-    vak:hasMinimumCopossessionCount 5 .
-
-vak:PainFaculty
-    vak:hasMinimumCopossessionCount 7 .
-
-vak:FemaleFacultyAndFollowingGroup
-    vak:hasMinimumCopossessionCount 8 ;
-    vak:countSuppliedBy vak:VAK_2_19 .
-
-organon:FacultyCapabilityModel
-    a organon:InterpretiveReconstruction ;
-    organon:distinguishes organon:CapabilityState,
-        organon:ActivationState ;
-    organon:computes organon:DependencyClosure ;
-    organon:inferredFrom vak:NecessaryCopossession .
+organon:EqualCountNotEqualSet
+    organon:notTheVerseEnglish true .
 ```

@@ -1,8 +1,8 @@
-# VAK_2.60 — Dharma Classes and Their Causes
+# VAK_2.60 — Four Classes, by Exclusion
 
 ## 1. Sanskrit (Devanāgarī)
 
-> क्लिष्टा विपाकजाः शेषाः प्रथमाऱ्या यथाक्रमम् ।
+> क्लिष्टा विपाकजाः शेषाः प्रथमार्या यथाक्रमम् ।
 >
 > विपाकं सर्वगं हित्वा तौ सभागं च शेषजाः ॥ २.६० ॥
 
@@ -12,168 +12,106 @@
 >
 > vipākaṃ sarvagaṃ hitvā tau sabhāgaṃ ca śeṣajāḥ // 2.60 //
 
-## 3. Padaccheda
+Sarvaga is the pervasive cause. Śeṣa is the remaining class. Śeṣaja is born from what remains. First noble is the first uncontaminated moment. Not every noble dharma.
 
-```text
-kliṣṭāḥ             → kliṣṭāḥ
-vipākajāḥ            → vipāka-jāḥ
-śeṣāḥ                → śeṣāḥ
-prathamāryāḥ         → prathama-āryāḥ
-yathākramam          → yathā-kramam
-vipākam              → vipākam
-sarvagam             → sarva-gam
-hitvā                 → hitvā
-tau                   → tau
-sabhāgam              → sabhāgam
-ca                    → ca
-śeṣajāḥ               → śeṣa-jāḥ
-```
+## 3. Lexical Analysis
 
-| Form | Morphology | Lexical force here |
-|---|---|---|
-| kliṣṭāḥ | nominative masculine plural | afflicted dharmas |
-| vipāka-jāḥ | nominative masculine plural compound | dharmas born as maturation-results |
-| śeṣāḥ | nominative masculine plural | the residual class |
-| prathama-āryāḥ | nominative masculine plural | the first noble, uncontaminated dharmas |
-| yathā-kramam | indeclinable adverb | respectively / in the stated order |
-| vipākam | accusative masculine singular | the maturation cause |
-| sarva-gam | accusative masculine singular | the pervasive cause |
-| hitvā | absolutive of √`hā` | having left out / excluded |
-| tau | accusative masculine dual | those two causes just named |
-| sabhāgam | accusative masculine singular | the homogeneous cause |
-| śeṣa-jāḥ | nominative masculine plural compound | born from the remaining causes |
-
-`Sarvaga` is the metrical form corresponding here to the previously defined
-`sarvatraga-hetu`. `Śeṣa` occurs in two constructions: the third class is the
-residual dharmas, whereas `śeṣa-jāḥ` says that all four classes arise from
-whatever causes remain after the specified exclusions.
+| Pada | Force |
+|---|---|
+| kliṣṭāḥ | afflicted |
+| vipāka-jāḥ | born as maturation |
+| śeṣāḥ | the remaining |
+| prathama-āryāḥ | the first noble |
+| yathākramam | respectively |
+| hitvā | excluding |
+| śeṣa-jāḥ | born from the rest |
 
 ## 4. Grammar
 
-The first half enumerates four classes. `Yathākramam` maps them, in order, onto
-four progressively cumulative exclusions in the second half:
-
 ```text
-kliṣṭāḥ
-    vipākaṃ hitvā
-
-vipākajāḥ
-    sarvagaṃ hitvā
-
-śeṣāḥ
-    tau [vipākaṃ sarvagaṃ] hitvā
-
-prathamāryāḥ
-    tau sabhāgaṃ ca hitvā
+afflicted
+    exclude maturation
+    five
+maturation-born
+    exclude pervasive
+    five
+remaining
+    exclude those two
+    four
+first uncontaminated
+    exclude those two and homogeneous
+    three
+mind and factors
+    these counts
+form, and dissociated
+    also exclude associated
+    four, four, three, two
+none
+    from one cause only
 ```
-
-`Śeṣa-jāḥ` is the common predicate: each class is “born from the remaining
-[causes].” The construction requires both the ordered correspondence marked by
-`yathākramam` and the anaphoric dual `tau` to recover the exclusion matrix.
-
-The Bhāṣya identifies the fourth class more precisely as the first
-uncontaminated dharmas (`prathamānāsravāḥ`). The kārikā's `prathamāryāḥ` should
-therefore not be expanded into all noble states.
 
 ## 5. Translation
 
-### Close syntactic construe
+### Literal Translation
 
-> The afflicted, the maturation-born, the residual, and the first noble
-> [dharmas] are born, respectively, from the remaining [causes], after excluding
-> the maturation cause, the pervasive cause, those two, and those two together
-> with the homogeneous cause.
+Afflicted, maturation-born, remaining, and first noble, respectively, excluding maturation, the pervasive, those two, and those two with the homogeneous: born from the rest.
 
-### Bhāṣya-informed translation
+### Bhāṣya-informed study translation
 
-> Afflicted dharmas arise from five causes, all but maturation-cause;
-> maturation-born dharmas arise from five, all but pervasive cause; residual
-> dharmas arise from four, excluding both; and the first uncontaminated noble
-> dharmas arise from three, excluding those two and homogeneous cause.
+Fourfold. Afflicted. Born as maturation. The first uncontaminated. The remaining: indeterminate apart from the maturation-born, and wholesome apart from the first uncontaminated moment.
+
+Afflicted arise from five, excluding the maturation cause. Maturation-born from five, excluding the pervasive. Remaining from four, excluding those two. First uncontaminated from three, excluding those two and the homogeneous.
+
+These counts are mind and the mental factors. Form, and what is dissociated from mind, likewise, and without the associated cause. Afflicted and maturation-born from four. Remaining from three. First uncontaminated from two. No dharma arises from one cause. The detailed exposition of causes is complete.
 
 ## 6. Philosophical Translation
 
-> Genesis is determined negatively as well as positively. To know how a given
-> dharma arises is to know the complete causal repertoire and the causes that
-> its status makes inadmissible. Affliction, maturation, residual occurrence,
-> and the first noble breakthrough are four causal profiles within one system.
+The profile is what is excluded. The two fives are not the same five. Affliction cannot be a maturation. A maturation is not produced by the pervasive cause. The remaining drop both.
 
-```text
-complete cause system
-    − status-incompatible cause types
-    = admissible genetic profile
-```
+The first uncontaminated has no homogeneous cause. No earlier one of its kind in that continuum. It is not causeless. Conditioning, co-arisen, and associated remain, for mind and the factors. Conditioning and co-arisen remain, for the others. Preparation is not this missing cause.
 
-**Organon interpretation—not literal Bhāṣya doctrine.** The first
-uncontaminated occurrence is not causeless: it lacks a prior homogeneous
-instance of its class while retaining the other admissible causal relations.
+One cause is refused for an arising dharma. The unconditioned is not in the count. It is not produced.
+
+Organon rendering:
+
+A first pass has no prior of its class. The course still has causes. Not the verse. Not the final pass.
 
 ## 7. Technical Vocabulary
 
-| Sanskrit | Controlled rendering | Determination in this unit |
+| Sanskrit | Running word | Determination |
 |---|---|---|
-| kliṣṭa | afflicted | marked by defilement; cannot be maturation-produced |
-| vipākaja | maturation-born | arisen as maturation-result; not produced by pervasive cause |
-| śeṣa | residual | unobscured-indeterminate dharmas other than maturation-born, plus wholesome dharmas other than the first uncontaminated moment |
-| prathamārya | first noble | first uncontaminated Path occurrence, not noble dharmas generally |
-| prathamānāsrava | first uncontaminated | Bhāṣya specification of `prathamārya` |
-| vipāka-hetu | maturation cause | excluded for afflicted and both later profiles |
-| sarvatraga-hetu | pervasive cause | kārikā `sarvaga`; excluded for maturation-born and both later profiles |
-| sabhāga-hetu | homogeneous cause | additionally excluded for the first noble occurrence |
-| śeṣaja | born from the remaining | generated by the non-excluded members of the six-cause system |
-| yathākramam | respectively | aligns four classes with four exclusion rules |
-
-The Bhāṣya defines the residual class rather than leaving it as a vague
-“other”: indeterminate dharmas other than maturation-born ones and wholesome
-dharmas other than the first uncontaminated moment.
+| prathamārya | first noble | first uncontaminated moment |
+| śeṣa | remaining | not the named three |
+| hitvā | excluding | the profile |
+| eka-hetu | one cause | none arises so |
 
 ## 8. Logical Determination
 
-For citta and caitta, the exclusions from the six causes resolve as follows:
+```text
+afflicted
+    5, or 4
+maturation-born
+    5, or 4
+    not the same omission
+remaining
+    4, or 3
+first uncontaminated
+    3, or 2
+    no homogeneous
+    not causeless
+one cause
+    none
+```
 
-| Arising class | Excluded causes | Admissible count |
-|---|---|---:|
-| afflicted | maturation | 5 |
-| maturation-born | pervasive | 5 |
-| residual | maturation, pervasive | 4 |
-| first uncontaminated | maturation, pervasive, homogeneous | 3 |
+## 9. Interpretive Note
 
-The first uncontaminated occurrence lacks a homogeneous cause because no
-earlier uncontaminated dharma of its class has arisen in that continuum; it
-is not causeless.
+The mind and form qualification is the opening of the next verse, and it closes this account. The question about the four conditions is the next unit. Not opened.
 
-The two five-cause classes exclude different causes: maturation cause for
-afflicted dharmas and pervasive cause for maturation-born dharmas. The
-immediately following kārikā supplies the domain qualification: the counts
-first concern mind and mental factors, while material and mind-dissociated
-dharmas additionally exclude associated cause. That qualification is treated
-with VAK 2.61.
+## 10. OWL++ Seed
 
-## 9. Interpretation
+```ttl
+@prefix vak: <http://127.0.0.1:3000/vak#> .
 
-This verse remains within the cause analysis: it classifies arising dharmas
-by the cause-types they admit. The Bhāṣya then extends the counts to material
-and mind-dissociated dharmas, additionally excluding associated cause, and
-closes the cause account with the statement that no dharma arises from only
-one cause.
-
-The first half of VAK 2.61 supplies that domain qualification. The next
-commentary unit begins at 98.03 with the question about the four conditions.
-The change is from classifying which causes contribute to arising to
-classifying conditional relations; the full definitions follow in the
-subsequent verses.
-
-The study question is not “how many causes does Dharma have in general?”
-It is “which cause-relations can this kind of Dharma admit?” The first
-uncontaminated occurrence shows why the distinction matters: it excludes a
-prior homogeneous cause without becoming causeless. This is the precise
-bridge from Hetu's differentiated causes to Pratyaya's differentiated
-conditions.
-
-## 10. Review Status
-
-First Pratyaya foundation pass complete. The four-class exclusion matrix and
-the source boundary into the four conditions are retained.
-
-Textual uncertainties remain marked. No independent manuscript or critical
-edition collation has been performed.
+vak:VAK_2_60 a vak:Karika ; vak:hasTopic vak:CauseCounts .
+vak:OneCause vak:arising false .
+```

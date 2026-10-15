@@ -1,23 +1,15 @@
-# VAK_2.12 Bhāṣya — Faculties and Realm-Affiliation
+# VAK_2.12 Bhāṣya — Faculties and Realm-Connection
 
 ## 1. Kārikā Anchor
 
 > kāmāptam amalaṃ hitvā rūpāptaṃ strīpumindriye /
 > duḥkhe ca hitvā ārūpyāptaṃ sukhe cāpohya rūpi ca // 2.12 //
 
-> Excluding the stainless triad, the faculties may belong to the
-> desire realm. Excluding also the female and male faculties and
-> the two painful faculties, they may belong to the form realm.
-> Removing in addition the two pleasant faculties and what is
-> material, they may belong to the formless realm.
+> Excluding the stainless, desire-realm-connected. Excluding the female and male faculties and the two painful faculties, form-realm-connected. Excluding also the two pleasant faculties and what possesses form, formless-realm-connected.
 
-The exclusions carry forward through the three clauses. *Duḥkhe*
-means pain and distress; *sukhe* means pleasure and gladness.
-The final list of surviving faculties confirms the latter dual.
-“May belong” expresses possible realm-affiliation, not possession
-of every listed faculty by every being in that realm.
+The exclusions carry forward. Duḥkhe is pain and distress. Sukhe is pleasure and gladness. Connection is possible affiliation, not possession of every listed faculty by every being.
 
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
 > katamad indriyaṃ katamadhātvāptam eṣām indriyāṇām /
 > kāmāptam amalaṃ hitvā /
@@ -40,180 +32,66 @@ of every listed faculty by every being in that realm.
 > kim avaśiṣyate / manojīvitopekṣendriyāṇi śraddhādīni ca pañca /
 > etāny ārūpyapratisaṃyuktāni santi nānyāni /
 
-The complete unit runs from printed 46.17 through 47.03 in
-`Vasubandhu/Sources/kosabhasya.txt`. The next question, at 47.04,
-concerns abandonment and begins VAK 2.13.
+The unit runs from printed 46.17 through 47.03 in `Vasubandhu/Sources/kosabhasya.txt`. Abandonment at 47.04 opens 2.13.
 
-Word division is editorial. Mechanical repairs are *kāmachātau*
-→ *kāmadhātau*, *akuśalā bhāvāccha* → *akuśalābhāvāc ca*,
-and *avaśāiṣyate* → *avaśiṣyate*; *varttate* is regularized to
-*vartate*. The compressed sentence *anyaḥ puruṣabhāvo yaḥ
-kāmadhātau puruṣāṇāṃ bhavati* is retained. Its translation follows
-the contextual contrast with desire-realm male-being; no words
-specifying the alternative characteristic are added to the Sanskrit.
-No independent collation is claimed.
+Word division is editorial. Repairs: kāmachātau → kāmadhātau, akuśalā bhāvāccha → akuśalābhāvāc ca, avaśāiṣyate → avaśiṣyate, varttate → vartate. Anyaḥ puruṣabhāvo yaḥ kāmadhātau puruṣāṇāṃ bhavati is retained. No words are added to specify the other characteristic. No independent collation is claimed.
 
-## 3. Scientific English Rendering
+## 3. Continuous Conventional Translation
 
-Which of these faculties belongs to which realm? “Excluding the
-stainless triad, they belong to the desire realm.” First, the
-faculties are to be understood as connected with the desire realm
-apart from the exclusively without-outflow triad beginning with
-the faculty “I shall know”; for that triad is entirely unconnected
-with the realms.
+Which of these faculties is connected with which realm? Excluding the stainless triad, they are connected with the desire realm. First, the faculties are to be understood as connected with the desire realm apart from the exclusively without-outflow triad beginning with the faculty “I shall know.” For that triad is entirely unconnected with the realms.
 
-“They belong to the form realm, excluding the female and male
-faculties and the two painful faculties.” The exclusion of the
-stainless triad continues to apply. “The two painful faculties”
-means pain and distress. The female and male faculties are absent
-in the form realm because of dispassion toward sexual intercourse
-and because they would produce unattractiveness. How, then, are
-those beings called males? Where are they called that? In the
-sūtra: “It is impossible, there is no possibility, that a woman
-should occupy the status of Brahmā. That possibility does not exist.
-It is possible that a man should do so.” The male-being possessed
-by men in the desire realm is different. The pain-faculty is absent
-because of the clarity of the bodily support and the absence of
-the unwholesome. The distress-faculty is absent because the continuum
-is softened by tranquillity and because bases for resentment are absent.
+They are connected with the form realm, excluding the female and male faculties and the two painful faculties. The exclusion of the stainless triad continues. The two painful faculties are pain and distress. The female and male faculties are absent in the form realm because of dispassion toward sexual intercourse and because they would produce unattractiveness. How, then, are those beings called males? Where? In the sūtra: it is impossible, there is no possibility, that a woman should occupy the status of Brahmā. That possibility does not exist. It is possible that a man should. The male-being of men in the desire realm is different. The pain-faculty is absent because of the clarity of the support and the absence of the unwholesome. The distress-faculty is absent because the continuum is softened by tranquillity and because bases for resentment are absent.
 
-“They belong to the formless realm, removing also the two pleasant
-faculties and what is material.” The exclusion of the female and
-male faculties, the two painful faculties, and the stainless triad
-continues to apply. What remains? The faculties of mind, life,
-and neutral feeling, together with the five beginning with confidence.
-These, and no others, are found connected with the formless realm.
+They are connected with the formless realm, removing also the two pleasant faculties and what possesses form. The exclusion of female and male, the two painful faculties, and the stainless triad continues. What remains? Mind, life, neutral feeling, and the five beginning with faith. These, and no others, are found connected with the formless realm.
 
-## 4. Movement and Voices of the Commentary
+## 4. Movement and Voice of the Commentary
 
-The opening question introduces realm-affiliation as a new axis
-of classification. The answer proceeds by cumulative exclusions.
-Within the form-realm explanation, a scriptural objection challenges
-the absence of the male faculty: how can the designation “male”
-still apply? The reply distinguishes the relevant senses of male-being.
+A new axis, answered by cumulative exclusion. Within the form-realm clause, a scriptural objection asks how male still applies. The reply distinguishes the senses of male-being.
 
-The questions “How, then?” and “Where?” make the exchange visible,
-but neither an objector nor a school is named. The scriptural
-restriction and the aesthetic explanation are claims of the
-transmitted account, preserved as such. The passage does not
-provide a contemporary biological account of sex or embodiment.
+How, then, and where, make the exchange visible. No objector is named. No school. The restriction and the aesthetic reason are claims of the account. The passage does not give a biological theory of sex.
 
-## 5. Affiliation Is Not Mere Occurrence
+## 5. Connection Is Not Occurrence
 
-The stainless triad is excluded because it is exclusively without
-outflows and *apratisaṃyukta*, unconnected with the realms. This
-does not mean that no being associated with a realm can develop
-the realization faculties. The predicate concerns the faculties'
-realm-affiliation, not simply the location or embodied condition
-of a person who possesses them.
+The triad is excluded because it is exclusively without outflows and apratisaṃyukta. That does not mean no being connected with a realm can develop the three. The predicate is the faculty's connection, not the place of the person who has it.
 
-The distinction also matters for the nine faculty-types previously
-classified as twofold in outflow-status. Their inclusion among
-realm-affiliated types does not assert that their without-outflow
-instances become realm-bound. Faculty-type, status of an instance,
-and the bearer's circumstances remain different questions.
+The nine that are twofold in outflow are included among connected types. That does not bind their without-outflow instances. Type, instance, and the bearer's circumstances stay apart.
 
-The resulting counts are nineteen for the desire realm, fifteen
-for the form realm, and eight for the formless realm. These counts
-are derived from the exclusions; the prose explicitly enumerates
-the final eight. They describe possible affiliations, not a demand
-that every listed faculty occur together.
+Nineteen, fifteen, eight. The prose enumerates the eight. Possible connection, not a demand that every listed faculty occur together.
 
-## 6. The Form-Realm Exclusions and the Male Designation
+## 6. Form-Realm Exclusions and the Male Name
 
-The two sexual faculties are excluded for two stated reasons:
-dispassion toward intercourse and their producing unattractiveness
-in the relevant bodily setting. The latter is the text's aesthetic
-judgment, not a substitute for its first reason.
+Two reasons for female and male: dispassion toward intercourse, and unattractiveness in that setting. The second does not replace the first.
 
-The objection then appeals to a sūtra's designation of a possible
-Brahmā as male. The reply distinguishes desire-realm *puruṣabhāva*
-from the designation under discussion. It does not retract the
-absence of the male faculty, and it does not fully specify the
-other characteristic. Calling that characteristic merely social,
-symbolic, or anatomical would exceed the sentence.
+The sūtra calls a possible Brahmā male. The reply distinguishes desire-realm puruṣabhāva. It does not retract the absence of the faculty, and it does not specify the other characteristic. Social, symbolic, or anatomical would exceed the sentence.
 
-Pain and distress receive separate explanations. Pain is excluded
-through the clarity of the bodily support and the absence of the
-unwholesome. Distress is excluded through tranquillity's effect on
-the continuum and the absence of bases for resentment. These are
-the local reasons stated; they should not be reduced to a single
-general claim that a subtler realm is simply happier.
+Pain and distress have separate reasons. Clarity of the support, and absence of the unwholesome. A continuum softened by tranquillity, and no basis for resentment. Not one claim that a subtler realm is simply happier.
 
 ## 7. The Formless Remainder
 
-The formless rule removes pleasure and gladness, as well as material
-faculties, while retaining the earlier exclusions. The surviving
-eight are Mind, Life, neutral feeling, confidence, vigor, recollection,
-concentration, and prajñā.
+Pleasure and gladness go, and what possesses form. Earlier exclusions stand. The eight are mind, life, neutral feeling, faith, vigor, mindfulness, concentration, and Discrimination.
 
-The subtraction must avoid double-counting. The female and male
-faculties have already been removed from the form-realm list.
-Removing the remaining material faculties therefore removes five
-more, while the two pleasant faculties remove another two:
-fifteen minus five minus two leaves eight.
+Female and male were already out of the form-realm fifteen. Removing the remaining five of form, and the two pleasant faculties, leaves eight.
 
-The list gives the faculties affiliated with the formless realm.
-It is not a complete inventory of every dharma there, a derivation
-of a universal minimum for consciousness, or an identification of
-formless existence with liberation. The stainless triad remains
-unaffiliated with all three realms.
+Not every dharma of that realm. Not a minimum theory of mind. Not liberation. The triad remains unconnected with all three.
 
 ## 8. The Bhāṣya's Decisions for Translation
 
-The commentary unfolds *āpta* through *pratisaṃyukta*, connected
-with or affiliated with a realm. This is why “belonging” needs
-the qualification given above rather than being equated with
-simple occurrence in a place.
+Āpta is unfolded as pratisaṃyukta, connected. Belonging is not occurrence in a place.
 
-Both *duḥkhe* and *sukhe* are dual exclusions. The prose expressly
-glosses the former as pain and distress; the final remainder confirms
-that the latter excludes both pleasure and gladness. The research
-Bhāṣya's English “pleasure” alone is therefore insufficient here.
+Both duals are exclusions. The prose glosses duḥkhe. The remainder confirms sukhe is pleasure and gladness. Pleasure alone is not enough.
 
-*Amalaṃ ceti vartate* and the later carryover statement keep earlier
-exclusions active. They are translated explicitly rather than
-leaving the reader to infer a fresh, independent list each time.
-*Rūpi* collects the material faculties; it does not identify the
-form realm itself as the item being subtracted.
+Amalaṃ ceti vartate keeps the earlier exclusion active. Rūpi collects the faculties that possess form. It is not the form realm being subtracted.
 
-## 9. Interpretation
+## 9. Organon Reading
 
-The Bhāṣya distinguishes Faculty-identity, possible realm-affiliation,
-and without-outflow status. The stainless triad is excluded because
-it is *apratisaṃyukta*, unconnected with all three realms; this does
-not mean that a being associated with a realm cannot develop the
-realization-Faculties. The form-realm discussion preserves the
-scriptural objection about the designation “male” and the reply's
-distinction of senses, without supplying an unstated positive account
-of the alternative characteristic.
+Realm-connection is another predicate. Faculty, connection, outflow, ethical quality, and the path-name stay apart. Confusing them would put the triad in a higher realm, or make it impossible for a knower who is still connected.
 
-The nested exclusions yield possible realm-profiles, not a complete
-inventory of beings or a universal minimum for mental life. The
-project crosswalk with Dhātu 1.48 relates those profiles to the
-Base–Essence–Principle map while keeping locus distinct from
-realm-affiliation. This is an Organon comparison, not a claim made
-by the Bhāṣya.
+The male name in the sūtra is not the male faculty. The unspecified characteristic is not invented.
 
-Across the Kośa, Vijñāna is Discriminative Cognition joining Perception
-and Conception without reducing their unity to one homogeneous
-operation; it governs Mind and guides the reading of Dharma Base. The
-same *avijñapti* remains one content in the Form Base and Dharma Base
-classifications, and Vijñāna bears a *prati* relation to it. This
-cross-chapter synthesis is an Organon framework, not a claim made by
-this Bhāṣya.
+The platform holds the axis. A higher conditioned realm is not the stainless path. The principles remain deposited. Not the verse English.
 
-In a Kant-informed Techne reading, cumulative exclusions specify
-compatibility within this classification; they do not entail a
-chronological path of ascent or a hierarchy culminating in the
-stainless triad. This is a project-level interpretation, not
-terminology or philosophical attribution supplied by the source.
+## 10. Review Status
 
-## 10. Textual and Scope Notes
+Fine-tuned with the kārikā. Domain withdrawn. The objection and the eight are kept. Connection is not occurrence.
 
-The continuous translation preserves the scriptural objection and
-reply, all stated form-realm reasons, and the explicit formless
-remainder. The two pleasant Faculties and the distinction between
-affiliation and occurrence remain explicit. Mechanical repairs are
-recorded above; no independent collation is claimed. The next unit
-begins with abandonment at VAK 2.13.
+2.13 has not been opened.

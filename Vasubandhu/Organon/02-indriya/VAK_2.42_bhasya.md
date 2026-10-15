@@ -1,179 +1,63 @@
 # VAK_2.42 Bhāṣya — The Non-Reflective Attainment
 
-## 1. Text and Scope
+## 1. Kārikā Anchor
 
-This study covers the Bhāṣya at 68.28–69.23. It defines the first of the
-two attainments: *asaṃjñi-samāpatti*. The passage distinguishes its lexical
-name, its explicit operational characterization, its ethical classification,
-its karmic maturation, the practitioners who cultivate it, and its temporal
-acquisition.
+> tathāsaṃjñisamāpattir dhyāne 'ntye niḥsṛtīcchayā /
+> śubhā upapadyavedyaiva nāryasyaikādhvikāpyate // 2.42 //
 
-## 2. Lexical Analysis
+> Likewise the non-reflective attainment, in the final dhyāna, by the wish for release. Wholesome, to be experienced only in the next rebirth. Not a noble person's. Acquired in one time.
 
-| Pada | Morphology | Force in this passage |
-|---|---|---|
-| asaṃjñi-samāpatti | feminine compound | Non-Reflecting attainment |
-| asaṃjñinām | genitive plural | of Non-Reflecting beings |
-| asaṃjñā | feminine privative abstract noun | Non-Reflection |
-| citta-caitta-nirodha | compound | cessation of consciousness and associated factors |
-| antya-dhyāna | compound | final, fourth dhyāna |
-| niḥsṛti-icchā | compound | wish for release |
-| śubha | adjective | wholesome |
-| vipāka | masculine noun | maturation-result |
-| upapadya-vedanīya | compound adjective | maturing in the immediately following rebirth |
-| ārya | adjective/substantive | noble person |
-| eka-adhvika | compound adjective | acquired in one temporal mode |
-| acittaka | adjective | without consciousness |
+Non-percipient is withdrawn.
 
-The commentary gives two possible name-analyses: attainment of
-Non-Reflecting beings or attainment of Non-Reflection. Both preserve the
-privative relation to *saṃjñā*. “Unconsciousness” is not used: it imports a
-modern global psychological category not supplied by the term.
+## 2. Continuous Sanskrit Witness
 
-## 3. Scientific English Rendering
+> atha samāpattī iti yad uktaṃ katame te samāpattī /
+> asaṃjñisamāpattir nirodhasamāpattiś ca /
+> keyam asaṃjñisamāpattiḥ /
+> yathaivāsaṃjñikam uktaṃ nirodhaś cittacaittānām iti /
+> tathāsaṃjñisamāpattiḥ /
+> etāvat tathāśabdenānvākṛṣyate /
 
-> What are the two attainments? The Non-Reflecting attainment and the
-> attainment of cessation. What is the Non-Reflecting attainment? Just as
-> the Non-Reflecting condition was described as cessation of consciousness
-> and associated mental factors, so too is the Non-Reflecting attainment.
-> The name may mean attainment of the Non-Reflecting beings or attainment
-> of Non-Reflection. It too is cessation of consciousness and associated
-> mental factors. This much alone is carried forward by “likewise.”
->
-> It belongs to the final, fourth dhyāna. Why is it entered? Through the
-> wish for release: practitioners regard it as escape and enter it seeking
-> liberation. The preceding Non-Reflecting condition, as maturation, is
-> indeterminate; this attainment is exclusively wholesome. Its result is a
-> five-Base existence among the Non-Reflecting beings, experienced only in
-> the immediately following rebirth—not in the present existence and not at
-> indeterminate timing.
->
-> The attainment is accepted only for an ordinary person, not a noble
-> person. Noble persons do not enter it because they see it as a place of
-> downfall; those who enter it conceive it as release. Nor is it acquired
-> automatically by obtaining the fourth dhyāna. Though previously practiced,
-> it requires great formative effort and is without consciousness. It is
-> acquired only in the present temporal mode. From the second moment onward,
-> the past instance is also possessed until relinquishment; no future
-> instance is cultivated.
+The unit is printed 68.28–69.23 in `Vasubandhu/Sources/kosabhasya.txt`. The witness above is the opening. The rest is reported below. Defects remain. Not a collation. The attainment of cessation at 69.24 is 2.43.
 
-The reportive *kila* remains in the claim that one who has produced and then
-lost this attainment necessarily produces it again and is reborn among the
-Non-Reflecting beings.
+## 3. Continuous Conventional Translation
 
-## 4. Movement and Voices of the Commentary
+What are the two attainments? The non-reflective attainment and the attainment of cessation. What is the non-reflective attainment? Just as the non-reflective was called cessation of consciousness and the mental factors, so is this. Attainment of the non-reflective beings, or attainment that is non-reflective. It too is that cessation. That much likewise carries. It is in the final dhyāna, the fourth, not another ground. Why do they enter it? By the wish for release. They consider it an escape, and enter wishing for liberation.
 
-The commentary identifies the two attainments named in VAK 2.35 and treats
-the first. “Likewise” first carries forward the operational claim of
-cessation. The text then separates level, motive, ethical kind, maturation
-timing, practitioner eligibility, and acquisition-time. It ends immediately
-before beginning the attainment of cessation.
+The result, being maturation, is indeterminate. This attainment is wholesome. Its maturation among the non-reflective is five aggregates. Exclusively to be experienced in the next rebirth. Not in this life, and not of indeterminate timing. Even one who produces it and falls away, it is said, necessarily produces it again and is born among them. Therefore one who has obtained it does not enter the certainty. It is accepted for an ordinary person, not a noble person. Noble persons do not enter it, seeing a place of downfall. Those who enter it regard it as escape.
 
-The practitioner’s belief that the state is escape is reported as their
-construal. Noble persons' contrary assessment is equally explicit. Neither
-voice may be erased by calling the attainment simply “liberation” or by
-reducing it to a generic unconscious state.
+Do the noble, by obtaining the fourth dhyāna, acquire its past and future, as with the dhyāna? Others do not acquire it that way either. Even when familiar, it takes great formative effort, and it is without consciousness. Acquired in one time: the present instance only, as the restraint of individual liberation. From the second moment one also possesses the past instance, until it is relinquished. Because it is without consciousness, no future instance is cultivated.
 
-## 5. Why “Non-Reflecting” Works
+## 4. Movement and Voice
 
-The rendering has three advantages:
+The two attainments are named. The first is taken up. Likewise is limited. Level, motive, ethical class, timing, eligibility, and acquisition follow. No school is named. Kila stays on the necessary rebirth.
 
-```text
-asaṃjñi
-    → retains its privative relation to saṃjñā / Reflection
+## 5. Attainment and Result
 
-Non-Reflecting
-    → names the intended suppression without importing
-      a modern theory of unconsciousness
+Wholesome cause. Indeterminate maturation. Likewise does not transfer the result's determinations. Five aggregates are the resultant existence. Birth and death are reflective. The interval is not specified moment by moment. Wholesome does not by itself fix next-rebirth timing. Here it is stated for this attainment.
 
-Bhāṣya's citta-caitta-nirodha
-    → remains an explicit, stronger claim that must be translated
-      separately rather than hidden inside the name
-```
+## 6. Wish and the Noble
 
-The translation would deceive if it did either of two things:
+The wish describes their construal. Not an endorsement. The noble see downfall and do not enter. Falling away still leads, on the report, to regaining and the rebirth. That is why the certainty is not entered. Not a recommendation.
 
-```text
-“unconsciousness”
-    → makes a modern total-state diagnosis out of the Sanskrit name
+## 7. One Time
 
-“Non-Reflecting” alone
-    → weakens the Bhāṣya's explicit claim that consciousness
-      and associated mental factors are prevented from arising
-```
+Entering is not acquiring past and future with the level. Even others do not acquire it with the fourth dhyāna. One time is present acquisition, not once only. Past possession from the second moment is compatible. No future instance cultivated is the acquisition account. Regaining is the preceding paragraph. Without consciousness qualifies the state. Preparatory cognition and great effort are stated. Not an unintentional lapse.
 
-The controlled study therefore uses both levels exactly where the source
-uses them: Non-Reflecting for *asaṃjñi*, and the full cessation claim for
-the Bhāṣya's *citta-caitta-nirodha*.
+## 8. Decisions
 
-## 6. Attainment, Maturation, and Path Exclusion
+Damaged forms are read from the explanations. The two name-construals stay. Rebirth does not precede the attainment in the sequence stated here.
 
-The attainment and its result have different classifications:
+## 9. Organon Reading
 
-```text
-Non-Reflecting attainment:
-    wholesome intentional attainment
+Cessation is not liberation. A wholesome attainment is not a noble person's. Present credit, past possession, and future cultivation are three relations. Available would erase them.
 
-Non-Reflecting condition:
-    indeterminate maturation-result
-```
+Same-class is the other clarification, from 2.41. Sabhāgatā is sameness among beings. The treatise calls it group same-class. Sāmānya is the Vaiśeṣika universal, one occurring in many. The sūtra says the word. It does not say a distinct entity. Commonality flattened those. Same-class does not.
 
-The latter is a five-Base existence among the specified Bṛhatphala beings.
-The former is entered in the fourth dhyāna through the wish for release.
-That motive is not a confirmation of release: noble persons regard the
-condition as a place of downfall and do not cultivate it.
+Not the translation of this verse. The attainment of cessation is next. Not the final pass.
 
-The passage also distinguishes obtaining the fourth dhyāna from acquiring
-the attainment. The latter requires great formative effort and therefore
-does not automatically belong to everyone who has attained the level.
+## 10. Review Status
 
-## 7. One Temporal Mode
+Fine-tuned with the kārikā. Non-percipient withdrawn. Likewise is limited to the cessation.
 
-“One temporal mode” means present acquisition:
-
-```text
-Initial acquisition:
-    present instance only
-
-After the second moment:
-    possession can include the past instance until relinquishment
-
-Future instance:
-    not cultivated
-```
-
-The stated reason is that the attainment is without consciousness. This is
-a local technical explanation and must not be converted into a claim that
-all forms of Non-Reflection are alike or that the attainment has no causal
-continuity.
-
-## 8. Interpretation
-
-This passage confirms the user's concern: “unconsciousness” is not the right
-translation. It obscures the source's distinction between Non-Reflection,
-the practitioners' wish for release, and the Bhāṣya's definite claim about
-the cessation of consciousness and associated mental factors.
-
-For the Hub, the attainment is a cautionary case. Suspending a determining
-operation is not the same as completing its self-governing relation. The
-state is conditioned, karmically maturing, and finite; it is not Vijñāna
-as Discriminative Cognition joining and governing Perception and Conception.
-The Hub cannot be identified with the removal of the wheel's manifest
-spokes. It is the governing relation through which their lawful
-determination is comprehended and transformed.
-
-The Kośa-wide synthesis remains: Vijñāna's unity is Inconceivable as
-homogeneous operation, with its Idea disclosed in the Cognition Base.
-Vijñāna governs Mind and guides Dharma Base. *Avijñapti* is the same Dharma
-classified in Form Base and Dharma Base, with Vijñāna bearing a *prati*
-relation to it. These relations are not abolished by the finite
-Non-Reflecting attainment.
-
-## 9. Review Status
-
-The kārikā and Bhāṣya have been compared with the source transcription at
-68.28–69.23. The two name-analyses, limited scope of “likewise,” fourth
-dhyāna, wish for release, wholesome attainment, indeterminate maturation,
-next-rebirth timing, ordinary/noble distinction, reportive re-attainment
-claim, great formative effort, and one-time acquisition rule are retained.
-The source witness is unchanged.
+2.43 has not been opened.

@@ -5,177 +5,88 @@
 > āveṇike tv akuśale dṛṣṭiyukte ca viṃśatiḥ /
 > kleśaiś caturbhiḥ krodhādyaiḥ kaukṛtyenaikaviṃśatiḥ // 2.29 //
 
-> In isolated unwholesome consciousness and in consciousness associated
-> with a view there are twenty; with one of the four afflictions, a
-> secondary affliction beginning with anger, or remorse, there are
-> twenty-one.
+> But in isolated unwholesome consciousness, and in that associated with a view, twenty. With the four afflictions, with those beginning with anger, or with regret, twenty-one.
 
-The Desire-Principle scope continues from VAK 2.28. The Bhāṣya explains
-why a view leaves the count unchanged while the stated additional
-associations increase it by one.
+Desire-realm scope continues from 2.28. The commentary says why view does not add, and why the others do.
 
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
-> āveṇike tvakuśale dṛṣṭiyukte ca viṃśātiḥ /
-> yadakuśalaṃ cittamāveṇikaṃ tatra viṃśatiścaittāḥ /
-> daśa mahābhūmikāḥ ṣaṭ kleāśamahābhūmikā dvāvakuśalamahābhūmikau vitarkovicāraśca /
+> āveṇike tv akuśale dṛṣṭiyukte ca viṃśatiḥ /
+> yad akuśalaṃ cittam āveṇikaṃ tatra viṃśatiś caittāḥ /
+> daśa mahābhūmikāḥ ṣaṭ kleśamahābhūmikā dvāv akuśalamahābhūmikau vitarkovicāraś ca /
 > āveṇikaṃ nāma cittaṃ yatrāvidyaiva kevalā nānyaḥ kleśo 'sti rāgādiḥ /
-> dṛṣṭiyukte 'pyakuśale viṃśatirya evāveṇike /
-> nanu ca dṛṣṭyadhikatvādeka viṃśatirbhavanti /
+> dṛṣṭiyukte 'py akuśale viṃśatir ya evāveṇike /
+> nanu ca dṛṣṭyadhikatvād ekaviṃśatir bhavanti /
 > na bhavanti /
-> yasmānmahābhūmika eva kaścit prajñāviśeṣo dṛṣṭirityucyate /
-> tatrākuśalaṃ dṛṣṭiyuktaṃ yatra mithyādṛṣṭirvā dṛṣṭiparāmarśo vā śīlavrataparāmarśo vā /
-> kleśaiścaturbhiḥ krodhādyaiḥ kaukṛtyenaikaviṃśatiḥ // 2.29 //
-> yatra punaścaturbhiḥ kleśaiḥ saṃprayuktamakuśalaṃ cittaṃ rāgeṇa va pratighena vā mānena vā vicikitsayā vā tatraikaviṃśatirbhavanti /
-> sa ca kleśaḥ āveṇikoktāśca viṃśatiḥ /
-> krodhādibhirapyupakleśairyathoktaiḥ saṃprayukte citte ete ca viṃśatiḥ sa copakleśa ityekaviṃśatirbhavanti /
-> kaukṛtyenāpyekaviṃśatiḥ /
-> tadeva kaukṛtyamekaviṃśatitamaṃ bhavati /
-> samāsata āveṇike cetasyakuśale dṛṣṭiyukte ca viṃśatiḥ /
-> anyakleśopakleśasaṃprayukte tvekaviṃśatiḥ /
+> yasmān mahābhūmika eva kaścit prajñāviśeṣo dṛṣṭir ity ucyate /
+> tatrākuśalaṃ dṛṣṭiyuktaṃ yatra mithyādṛṣṭir vā dṛṣṭiparāmarśo vā śīlavrataparāmarśo vā /
+> kleśaiś caturbhiḥ krodhādyaiḥ kaukṛtyenaikaviṃśatiḥ // 2.29 //
+> yatra punaś caturbhiḥ kleśaiḥ saṃprayuktam akuśalaṃ cittaṃ rāgeṇa vā pratighena vā mānena vā vicikitsayā vā tatraikaviṃśatir bhavanti /
+> sa ca kleśaḥ āveṇikoktāś ca viṃśatiḥ /
+> krodhādibhir apy upakleśair yathoktaiḥ saṃprayukte citte ete ca viṃśatiḥ sa copakleśa ity ekaviṃśatir bhavanti /
+> kaukṛtyenāpy ekaviṃśatiḥ /
+> tad eva kaukṛtyam ekaviṃśatitamaṃ bhavati /
+> samāsata āveṇike cetasy akuśale dṛṣṭiyukte ca viṃśatiḥ /
+> anyakleśopakleśasaṃprayukte tv ekaviṃśatiḥ /
 
-The excerpt follows printed 58.04–58.17 in
-`Vasubandhu/Sources/kosabhasya.txt`, with source labels removed and
-the verse number regularized. Transcription defects remain visible;
-contextual resolutions are noted below. No independent collation is
-claimed.
+The unit is printed 58.04–58.17 in `Vasubandhu/Sources/kosabhasya.txt`. Viṃśātiḥ and kleāśamahābhūmikā are read as twenty and affliction great-ground. Eka viṃśatiḥ as twenty-one. Not a collation. Obscured-indeterminate at 58.18 is 2.30.
 
-## 3. Scientific English Rendering
+## 3. Continuous Conventional Translation
 
-“In isolated unwholesome consciousness and in consciousness associated
-with a view there are twenty.” In isolated unwholesome consciousness
-there are twenty mental factors: ten great-ground factors, six afflicted
-great-ground factors, two unwholesome great-ground factors, *vitarka*,
-and *vicāra*. “Isolated” names a consciousness in which there is
-ignorance alone, without another affliction such as greed.
+But in isolated unwholesome consciousness and in that associated with a view, twenty. In an unwholesome consciousness that is isolated there are twenty mental factors: ten universal great-ground factors, six affliction great-ground factors, two unwholesome great-ground factors, and vitarka and vicāra. Isolated names a consciousness in which ignorance alone occurs, without another affliction such as attachment. In unwholesome consciousness associated with a view there are likewise twenty, the same as in the isolated case. But should there not be twenty-one, since the view is additional? No. A certain special form of prajñā, itself belonging to the universal great-ground factors, is called a view. Here unwholesome consciousness associated with a view means that in which there is wrong view, attachment to views, or attachment to rules and observances.
 
-In unwholesome consciousness associated with a view there are likewise
-twenty, the same as in the isolated case. But should there not be
-twenty-one, since view is additional? No. A certain particular form of
-*prajñā*, itself belonging to the great-ground factors, is called a view.
-Here unwholesome consciousness associated with a view is one in which
-there is wrong view, attachment to views, or attachment to rules and
-observances.
+With the four afflictions, those beginning with anger, or regret, twenty-one. When unwholesome consciousness is associated with one of the four, attachment, hostility, conceit, or doubt, there are twenty-one: that affliction and the twenty stated for the isolated case. Likewise, in consciousness associated with a secondary affliction beginning with anger, as previously stated, those twenty and that secondary affliction make twenty-one. With regret too there are twenty-one. Regret itself is the twenty-first. In summary, in isolated unwholesome consciousness and in that associated with a view there are twenty. In that associated with another affliction or secondary affliction, twenty-one.
 
-“With one of the four afflictions, a secondary affliction beginning
-with anger, or remorse, there are twenty-one.” When unwholesome
-consciousness is associated with one of the four afflictions—greed,
-hostility, conceit, or doubt—there are twenty-one: that affliction and
-the twenty factors of the isolated case. Likewise, in consciousness
-associated with one of the previously stated secondary afflictions
-beginning with anger, the twenty factors and that secondary affliction
-make twenty-one. With remorse too there are twenty-one: remorse itself
-is the twenty-first.
+## 4. Movement and Voice of the Commentary
 
-In summary, isolated unwholesome consciousness and unwholesome
-consciousness associated with a view have twenty; one associated with
-another affliction or a secondary affliction has twenty-one.
+A base count. Isolated defined. The same count extended to view. An objection asks why view does not add. The reply identifies view as a form of a factor already counted. The remaining clauses add one. A summary. No school. Desire-realm is carried from 2.28, not restated in each clause.
 
-## 4. Movement and Attribution
+## 5. Isolated
 
-The commentary gives the base count, defines the isolated case, and
-extends the same count to consciousness associated with a view. An
-objection asks why view does not add one. The reply identifies view as
-a particular form of an already-counted factor.
+Ten, six, two, vitarka, vicāra. Isolated cannot mean isolated from all other factors. Ignorance alone excludes another affliction such as attachment.
 
-The remaining clauses enumerate additions that do raise the count,
-then summarize the result. No school or opponent is named in this unit.
-The Desire-Principle setting is carried forward from VAK 2.28 rather
-than restated in each clause.
+Read with the count. Heedlessness, laziness, lack of faith, sluggishness, and agitation are not removed because ignorance is called alone. The six stay. The passage distinguishes a further affliction. It does not retract the accompaniments already established.
 
-## 5. The Isolated Case
+Mental factors in a consciousness. Not faculties possessed by a continuum. Consciousness is not an additional factor.
 
-The twenty factors comprise ten universal factors, six afflicted
-factors, two specifically unwholesome factors, and *vitarka* and
-*vicāra*. Thus *āveṇika* cannot mean isolated from all other mental
-factors. The explanation restricts “ignorance alone” by excluding
-another distinct affliction such as greed.
+## 6. Why View Does Not Add
 
-Heedlessness, laziness, lack of confidence, sluggishness, and agitation
-remain among the six even when ignorance is called “alone.” The passage
-distinguishes a case without a further affliction from one with a
-further affliction; it does not retract factors established earlier.
+The objection is numerical. The answer is identity. View is a special form of prajñā. Prajñā is already mati among the universal factors. The particular form is not a further member beside it.
 
-The count is of mental factors in a consciousness, not Faculties
-possessed by a continuum. Consciousness itself is not an additional
-mental factor in the total.
+Wrong view, attachment to views, attachment to rules and observances. Unwholesome is essential. Not every view is unwholesome. Obscured-indeterminate views are the next unit.
 
-## 6. Why View Does Not Add One
+Prajñā here is not liberating knowledge. It is the discriminative factor already counted, and its determination can be an unwholesome view. Occurrence is not adequacy.
 
-The objection is numerical; the answer concerns the identity of what
-is counted. View is a *prajñā-viśeṣa*, a particular form of *prajñā*.
-Since *prajñā* is already included among the universal factors under
-*mati*, naming this particular form does not supply another member.
+## 7. Twenty-One
 
-The three specified views are wrong view, attachment to views, and
-attachment to rules and observances. The qualification “unwholesome”
-matters: this prose does not classify every view as unwholesome. Nor
-does it make *prajñā* necessarily correct or liberating; it is the
-already-counted discernment factor under a particular unwholesome
-determination.
-
-## 7. The Twenty-One-Factor Cases
-
-| Condition in the unwholesome count | Calculation |
+| Condition | Count |
 |---|---|
 | Isolated ignorance | 10 + 6 + 2 + 2 = 20 |
-| One of the specified unwholesome views | Same twenty; view is a particular form of *prajñā* |
-| Greed, hostility, conceit, or doubt | Twenty plus the named affliction = 21 |
-| One secondary affliction beginning with anger | Twenty plus that secondary affliction = 21 |
-| Remorse | Twenty plus remorse = 21 |
+| A specified unwholesome view | the same twenty |
+| Attachment, hostility, conceit, or doubt | twenty plus that one |
+| A secondary beginning with anger | twenty plus that one |
+| Regret | twenty plus regret |
 
-The clauses distribute alternatives. The four afflictions are not
-added together to produce twenty-four; nor does the singular “that
-secondary affliction” require multiple secondary afflictions. Each
-specified additional associate raises the base by one.
+Or distributes the four. Not twenty-four. The singular secondary controls the anger-group. Plurals name alternatives, not a joint list.
 
-In this unwholesome context the counted remorse is the unwholesome
-case. That does not make all remorse unwholesome. These local totals
-also precede the further rule about torpor in VAK 2.30; they do not
-exclude additions the following discussion explicitly states.
+Regret continues the distinction of 2.28. This context is unwholesome, so the counted regret is the unwholesome case. Not all regret is unwholesome. Torpor is 2.30. These totals do not rule it out.
 
-## 8. Textual and Counting Decisions
+## 8. The Bhāṣya's Decisions for Translation
 
-*Kleśaiś caturbhiḥ* and *krodhādyaiḥ* refer to distinct groups. The
-first is expanded as greed, hostility, conceit, and doubt; the second
-refers back to secondary afflictions beginning with anger. Reading
-them as one “four afflictions beginning with anger” group would
-conflate the constructions.
+The four and those beginning with anger are distinct groups. Attachment, hostility, conceit, doubt. Then secondaries beginning with anger. Four afflictions beginning with anger would conflate them.
 
-“Another affliction” locally means an addition to the factors counted
-in the isolated case. It does not mean the twenty-factor base is free
-of affliction or that its six afflicted factors cease to be present.
+Another affliction is an addition to the isolated count. Not a claim that the twenty are free of affliction, and not a claim that the six cease to be afflictions.
 
-The transcription's *viṃśātiḥ* and *kleāśamahābhūmikā* are read
-contextually as twenty and afflicted great-ground factors; the
-separated *eka viṃśatiḥ* is read as twenty-one. These repairs are
-identified, not silently treated as independent emendations.
+Mechanical defects stay in the source. Twenty, affliction great-ground, and twenty-one are contextual.
 
-## 9. Interpretation
+## 9. Organon Reading
 
-This passage demonstrates that a difference in name does not always
-mean a difference in counted factor. A view determines the already
-present *prajñā*; a distinct associated affliction adds a member.
-Counting therefore follows the Bhāṣya's identity analysis rather than
-counting labels alone.
+A particular determination is not a further associate. View is counted through the Discrimination it qualifies. The named addition raises the total. Two descriptions can have different numbers of names and the same number of factors.
 
-In the inner-instrument Techne, *prajñā* as Science of Principles
-remains the universal factor counted in the base. A specific view
-determines that factor without becoming an additional factor beside
-it. The distinct additions remain numerically distinct.
+Labels alone would count view twice. Collapsing every addition into a qualification would lose the twenty-first. Identity before the count. Objective Logic on the mind is the pass. Not the translation. Not the final pass.
 
-The Kośa's governing synthesis: Vijñāna is Discriminative Cognition joining
-and governing Perception and Conception. Their unity is Inconceivable as a
-homogeneous operation; its Idea is disclosed in the Cognition Base. Vijñāna
-governs Mind and guides the reading of Dharma Base. Form Base and Dharma
-Base both include the same *avijñapti* in distinct classifications, and
-Vijñāna bears a *prati* relation to *avijñapti*. This synthesis is distinct
-from the local count of associated mental factors.
+## 10. Review Status
 
-## 10. Textual and Scope Notes
+Fine-tuned with the kārikā. Domain withdrawn. Isolated, view, the objection, and the three additions are kept.
 
-The translation follows the running transcription at 58.04–58.17 and
-includes the isolated case, view objection and reply, additions, and
-summary. The scope of “ignorance alone,” the distributive alternatives,
-and the source's mechanical defects are made explicit. No independent
-collation is claimed.
+2.30 has not been opened.

@@ -5,16 +5,11 @@
 > bahubhir yukta ekānnaviṃśatyāmalavarjitaiḥ /
 > dviliṅga āryo rāgī ekaliṅgadvayāmalavarjitaiḥ // 2.21 //
 
-> One possessing both sex faculties is endowed with the greatest
-> number, nineteen, excluding the stainless faculties. A noble
-> person still possessing attachment likewise has nineteen,
-> excluding one sex faculty and two stainless faculties.
+> Endowed with the greatest number, nineteen, excluding the stainless: one possessing both sex faculties. A noble person still possessing attachment, excluding one sex faculty and two stainless faculties.
 
-The Bhāṣya qualifies the first subject as complete in faculties
-and the second as a trainee not yet free from attachment. These
-are two separate cases, not a single description of one person.
+The first subject is complete in faculties. The second is a trainee not yet free from attachment. Two cases, not one person.
 
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
 > atha yaḥ sarvabahubhir indriyaiḥ samanvāgataḥ sa kiyadbhiḥ /
 > bahubhir yukta ekānnaviṃśatyā 'malavarjitaiḥ /
@@ -29,178 +24,58 @@ are two separate cases, not a single description of one person.
 > ājñātāvīndriyaṃ dvayoś cānyatarat /
 > ukta indriyāṇāṃ dhātuprabhedaprasaṅgenāgatānāṃ vistareṇa prabhedaḥ /
 
-The unit is printed 52.09–52.18 in
-`Vasubandhu/Sources/kosabhasya.txt`. Word division is editorial.
-The mechanical *ekānnaviṃāśatyā* is normalized to *ekānnaviṃśatyā*,
-*anā sravaṇi* to *anāsravāṇi*, and *dvayośācānyatarat* to
-*dvayoś cānyatarat*. No independent collation is claimed.
+The unit is printed 52.09–52.18 in `Vasubandhu/Sources/kosabhasya.txt`. Word division is editorial. Ekānnaviṃāśatyā is read as ekānnaviṃśatyā. Anā sravaṇi as anāsravāṇi. Dvayośācānyatarat as dvayoś cānyatarat. The running source prints ekaliṅgadvayamalavarjitaiḥ. The anchor uses the long vowel. The prose secures two uncontaminated faculties. No independent collation is claimed. Co-arising at 52.19 is 2.22.
 
-The running source prints *ekaliṅgadvayamalavarjitaiḥ*, whereas
-the research and existing Organon kārikā print
-*ekaliṅgadvayāmalavarjitaiḥ*. The latter is used in the full anchor;
-the former remains in the continuous excerpt. The prose explicitly
-identifies two uncontaminated faculties as excluded, securing the
-sense despite the discrepancy in vowel length.
+## 3. Continuous Conventional Translation
 
-## 3. Scientific English Rendering
+Now, with how many faculties is someone endowed who possesses the greatest number? Endowed with the greatest number, nineteen, excluding the stainless faculties: excluding the three uncontaminated faculties. And who is that? One possessing both sex faculties. A person possessing both sex characteristics, whose faculties are complete, is endowed with nineteen. Who else? A noble person still possessing attachment. A trainee who is not yet free from attachment is also endowed with the greatest number, nineteen, excluding one sex faculty and two stainless faculties: excluding one sex characteristic and two uncontaminated faculties, the faculty of one who has known and either one of the other two. The detailed differentiation of the faculties, which entered the discussion in connection with the differentiation of the principles, has now been stated.
 
-Now, with how many faculties is someone endowed who possesses
-the greatest number? “Endowed with the greatest number, nineteen,
-excluding the stainless faculties”: excluding the three
-uncontaminated faculties. And who is that? “One possessing both
-sex faculties.” A person possessing both sex characteristics,
-whose faculties are complete, is endowed with nineteen. Who else?
-“A noble person still possessing attachment.” A trainee who is
-not yet free from attachment is also endowed with the greatest
-number, nineteen, “excluding one sex faculty and two stainless
-faculties”: excluding one sex characteristic and two uncontaminated
-faculties—the faculty of one who has known and either one of the
-other two. The detailed differentiation of the Faculties, which entered the
-discussion in connection with the differentiation of the Principles,
-has now been stated.
+## 4. Movement and Voice of the Commentary
 
-## 4. Movement and Voices of the Commentary
+After the fewest, the greatest. One nineteen by excluding all three. Who else introduces another by a different three. No opponent. No school.
 
-The question complements VAK 2.20: after the fewest faculties,
-the greatest number. The commentary first identifies a nineteen-
-faculty case by excluding all three uncontaminated faculties,
-then asks “Who else?” and identifies another by a different set
-of three exclusions.
+The last sentence closes the extended differentiation. It does not close the chapter. The next passage asks whether some conditioned dharmas necessarily arise together.
 
-The questions organize the exposition; no named opponent or
-school position appears. The final sentence closes the extended
-classification of faculties. It does not close the chapter:
-the following passage asks about the necessary co-arising of
-conditioned dharmas.
+## 5. The First Nineteen
 
-## 5. The First Nineteen-Faculty Case
+Twenty-two minus the three realization-faculties. Both female and male remain. Complete in faculties is required. Both sex characteristics do not by themselves supply the nineteen.
 
-The first case excludes the three realization faculties from
-the established inventory of twenty-two. The remaining nineteen
-include both female and male faculties. The Bhāṣya's
-*samagrendriya*, complete in faculties, is an essential qualification:
-merely possessing both sex characteristics does not by itself
-supply the entire nineteen-member inventory.
+Dviliṅga is dvivyañjana. The classification's pair. Not a modern account of sex.
 
-*Dviliṅga* is explained by *dvivyañjana*. Here these expressions
-concern the paired female and male faculties or characteristics
-within the text's classification. They do not supply a modern
-account of gender identity or a precise medical classification.
+Complete cannot mean all twenty-two. Three are excluded. This maximum contains no uncontaminated realization-faculty.
 
-“Complete” is relative to the case being counted. It cannot mean
-possession of all twenty-two faculties, since the sentence
-explicitly excludes three. This first maximum contains no
-uncontaminated realization faculty.
+## 6. The Trainee's Nineteen
 
-## 6. The Noble Trainee's Nineteen
+Ārya still rāgin: a trainee not yet free from attachment. Excluded: one sex faculty, and two of the three. The pair is one who has known, and either of the other two. The trainee possesses either “I shall know” or the knowledge-faculty. Completed knowledge is excluded in either case.
 
-The second subject is an *ārya* who is still *rāgin*, explained
-as an *avītarāga śaikṣa*: a trainee not yet free from attachment.
-The excluded members are one of the two sex faculties and two
-of the three uncontaminated faculties.
+The conjunction is and, not or. Dve requires two. Either completed knowledge or one of the other two would exclude only one.
 
-The prose specifies the latter pair exactly: the faculty of one
-who has known, together with either one of the remaining two.
-Thus the trainee possesses either “I shall know” or the knowledge
-faculty in the case under consideration. Completed knowledge is
-excluded in either case.
+The greatest number is not a claim that every trainee has exactly nineteen, whatever else is possessed.
 
-| Case | Excluded from twenty-two | Remaining count |
-|---|---|---:|
-| Both sex faculties, otherwise complete | All three realization faculties | 19 |
-| Noble trainee still possessing attachment | One sex faculty, the faculty of one who has known, and one of the other two realization faculties | 19 |
+## 7. Maximum and Realization
 
-The conjunction in *dvayoś cānyatarat* matters. The sense is not
-“either completed knowledge or one of the other two,” which would
-identify only one excluded realization faculty. It is completed
-knowledge **and** one of the other two, as required by *dve*, “two.”
+Both sex faculties and no realization-faculty. One sex faculty and one realization-faculty. The same total, different membership, different path-status.
 
-The nineteen-member maximum is not a claim that every trainee,
-irrespective of the completeness of other faculties, always has
-exactly nineteen. The controlling question concerns the greatest
-number possessed.
+Attachment is kept. Noble is not the end of training. The maximum is not reserved for one who has completed the path. The exclusion of one who has known makes that plain.
 
-## 7. Maximum Possession and Realization
+Possession, not nineteen in one moment, and not a measure of strength.
 
-The first case possesses both sex faculties and no realization
-faculty; the second possesses one sex faculty and one realization
-faculty. The identical total therefore results from different
-membership, not from equivalent path status.
+## 8. The Bhāṣya's Decisions for Translation
 
-The trainee's continuing attachment is expressly retained. Noble
-status does not here mean the completion of training, and the
-maximum count is not reserved for someone who has completed the
-path. The exclusion of *ājñātāvīndriya* makes this especially clear.
+Dviliṅgaḥ completes the first case. Who else introduces the second. Joining them into a noble person with both sex faculties would erase the division.
 
-The predicate remains possession. These inventories do not say
-that all nineteen faculties manifest together in one cognitive
-moment. Nor do they measure the strength or effectiveness of any
-one faculty. They count distinct possessed faculties under the
-specified conditions.
+Amala is anāsrava. All three, then two named. Stainless is not an unspecified collection of wholesome qualities.
 
-## 8. Translation and the Closing Boundary
+Dhātuprabheda is the differentiation of the principles, the discussion from which the faculties entered. It is not silently realm. The sentence closes that extended discussion. It adds no new classification.
 
-The word *dviliṅgaḥ* completes the first case. The intervening
-question *kaś cāparaḥ*, “Who else?”, then introduces *āryo rāgī*.
-Joining those terms into “a noble person possessing both sex
-faculties” would erase the commentary's explicit division.
+## 9. Organon Reading
 
-*Amala*, stainless, is glossed by *anāsrava*, uncontaminated.
-The first exclusion takes all three; the second takes two and
-identifies them. “Stainless” is therefore not an unspecified
-collection of wholesome qualities.
+Nineteen is compatible with no realization-faculty, and with a trainee's one. The number is not completed knowing. Exclusion belongs to the case as much as inclusion. Change the excluded members and the case changes.
 
-The closing *dhātuprabheda* is rendered “differentiation of the
-Principles.” It recalls the Principle analysis from which the
-Faculty discussion arose; it does not add a new classification.
+The floor and the ceiling are typed configurations. Neither is the telos. Prāpti is what would enter the path, and it is not this count. Not the verse English.
 
-## 9. Interpretation
+## 10. Review Status
 
-The maximum, like the minimum, is meaningful only with its
-specified membership. Nineteen is compatible with the absence
-of every realization faculty and with possession of a trainee's
-realization faculty. Numerical abundance consequently cannot
-serve as a measure of completed knowing.
+Fine-tuned with the kārikā. Domain withdrawn. Both nineteens and the close are kept.
 
-For Organon interpretation, exclusion belongs to the determination
-as much as inclusion. Here the excluded members are not merely
-three interchangeable absences: they identify different relations
-between bodily differentiation and path status. Preserving the
-count while changing those members would change the case.
-
-The return to Principle 1.48 is a project crosswalk: it relates the
-two maximum configurations to the Base–Essence–Principle architecture
-without replacing that classification. The Principle map alone does
-not specify which Faculties a bearer possesses; the local Rule here
-distinguishes the cases by bearer and exclusions.
-
-Across the Kośa, Vijñāna is Discriminative Cognition joining and
-governing Perception and Conception. Their unity is Inconceivable as
-a homogeneous operation; its Idea is disclosed in the Cognition Base.
-Vijñāna governs Mind and guides the reading of Dharma Base. Form Base
-and Dharma Base both include the same *avijñapti* in distinct
-classifications, and Vijñāna bears a *prati* relation to it. This
-governing synthesis frames the local Faculty analysis without
-collapsing Base, Essence, and Principle.
-
-**Principle–Rule relation (project-level Techne).** The Principle is
-the classification of Faculties in VAK 1.48; the Rule in VAK 2.21
-selects two maximum-possession configurations from that classification
-according to bearer and path-status. This articulation relates the
-local Rule to the Principle without attributing the terminology to
-the Bhāṣya.
-
-In the Kant-informed Techne, exclusions are part of each determination:
-the count is preserved only with its bearer, included Faculties,
-excluded Faculties, and path-status. The two nineteen-member sets
-are distinct configurations, not points on a single scale.
-
-## 10. Textual and Scope Notes
-
-Both nineteen-Faculty cases and the closing sentence are rendered
-here. The trainee's two excluded realization Faculties are identified,
-and transcription repairs are recorded above. No independent
-collation is claimed. The closing sentence completes this extended
-Faculty-property analysis, not the Indriya chapter.
-VAK 2.22 begins with the inquiry at 52.19 into whether some
-conditioned dharmas necessarily arise together.
+2.22 has not been opened.
