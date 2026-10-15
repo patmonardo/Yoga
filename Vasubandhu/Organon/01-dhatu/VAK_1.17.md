@@ -1,4 +1,4 @@
-# VAK_1.17 — Mind Is One of the Six, Just Ceased
+# VAK_1.17 — Mind Is the Sixth Support
 
 ## 1. Sanskrit (Devanāgarī)
 

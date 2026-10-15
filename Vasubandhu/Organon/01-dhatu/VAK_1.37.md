@@ -1,4 +1,4 @@
-# VAK_1.37 — Causal Genesis and Reinforcement of Principles
+# VAK_1.37 — Maturation, Reinforcement, and Causal Continuation
 
 ## 1. Sanskrit (Devanāgarī)
 

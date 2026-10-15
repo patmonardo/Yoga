@@ -1,4 +1,4 @@
-# VAK_1.28 — Space and Cognition in the Six Principles
+# VAK_1.28 — Space and Cognition within the Six Supports of Birth
 
 ## 1. Sanskrit (Devanāgarī)
 

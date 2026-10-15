@@ -1,4 +1,4 @@
-# VAK_1.05 — The Pure
+# VAK_1.05 — The Pure, and Space
 
 ## 1. Sanskrit (Devanāgarī)
 
