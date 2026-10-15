@@ -15,8 +15,7 @@ Options:
   --dry-run        Validate inputs and show the build configuration
   -h, --help       Show this help
 
-Chapter 3 Bhāṣya contains 38 studies; all other configured ranges are listed
-by the chapter's current complete-study count.
+Configured ranges are listed by each chapter's current complete-study count.
 EOF
 }
 
@@ -139,9 +138,6 @@ case "$chapter" in
     ;;
 esac
 
-if [[ "$chapter" == 3 && "$kind" == "bhasya" ]]; then
-  chapter_count=38
-fi
 if [[ -z "$end" ]]; then
   end="$chapter_count"
 fi

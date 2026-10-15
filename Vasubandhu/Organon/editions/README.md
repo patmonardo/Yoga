@@ -23,8 +23,8 @@ Pandoc:
 ```
 
 Chapters 1–8 correspond to Dhātu, Indriya, Loka, Karma, Anuśaya, Mārga, Jñāna,
-and Samāpatti. The default range is the current complete study sequence; Loka
-Bhāṣya has 38 studies while Loka Kārikā has 102. Each build verifies that all
+and Samāpatti. The default range is the current complete study sequence; both
+Loka Bhāṣya and Loka Kārikā have 102 studies. Each build verifies that all
 requested source files and the shared page-break/header assets exist before
 starting Pandoc.
 
