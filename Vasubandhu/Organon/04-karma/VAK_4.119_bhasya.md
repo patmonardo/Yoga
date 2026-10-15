@@ -14,7 +14,7 @@ The Bhāṣya introduces the six as causes for understanding the heaviness or
 lightness of action. It parses `cetanāśayaḥ` as two factors, `cetanā` and
 `āśaya`.
 
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
 ```iast
 karmaṇāṃ tu gurulaghutvaṃ jñātukāmena samāsataḥ ṣaṭ kāraṇāni
@@ -47,7 +47,7 @@ The source span is `[271|08]–[271|18]`. The verse witness reads
 `[271|16]`, the witness reads `mātāitroḥ`; `mātāpitror` is a
 normalization. The six-factor sequence is retained.
 
-## 3. Continuous Scientific English Rendering
+## 3. Continuous Conventional Translation
 
 For one who wishes to know the heaviness or lightness of actions, six causes
 are to be known in brief. They are:

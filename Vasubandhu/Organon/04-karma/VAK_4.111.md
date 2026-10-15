@@ -21,11 +21,6 @@ passion remains.
 
 ## 3. Lexical Analysis
 
-```text
-sarvatra | sarvam | dadataḥ | kāruṇyāt | dāna-pūraṇam |
-aṅga-cchede | api | akopāt | tu | rāgiṇaḥ | kṣānti-śīlayoḥ
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | `sarvatra` | indeclinable adverb | everywhere, in every relevant case |
@@ -72,14 +67,14 @@ separately elaborate their respective functions here.
 
 ## 5. Translation
 
-### Scientific English Rendering
+### Literal
 
 > Giving is complete for one who gives everything everywhere from
 > compassion. Patience and discipline are complete for one still
 > possessing passion who does not become angry even when bodily parts
 > are being cut.
 
-### Bhāṣya-informed study translation
+### Bhāṣya-informed
 
 > Giving is complete for one who gives everything everywhere from
 > compassion. Patience and discipline are complete for one still
@@ -96,13 +91,7 @@ remains is retained.
 
 ## 6. Philosophical Translation
 
-> Giving reaches completion when its whole field and extent are governed
-> by compassion rather than the giver's pursuit of special advancement.
-> Patience and discipline reach completion under a different test: even
-> though passion has not been entirely abandoned, the specified injury
-> does not produce anger. The Bhāṣya thus distinguishes completion of
-> these practical courses from the claim that every passion has already
-> ceased.
+> Giving is complete for one who gives everything everywhere from compassion. Patience and discipline are complete for one still possessing passion who does not become angry even when bodily parts are being cut.
 
 ## 7. Technical Vocabulary
 
@@ -153,6 +142,16 @@ The bodily giving and injury examples belong to the source's account and
 are preserved without turning them into practical advice. The study covers
 `[267|03]–[267|09]`; 4.112 begins at `[267|10]` with the perfection of
 vigor.
+
+### Former Philosophical Translation
+
+> Giving reaches completion when its whole field and extent are governed
+> by compassion rather than the giver's pursuit of special advancement.
+> Patience and discipline reach completion under a different test: even
+> though passion has not been entirely abandoned, the specified injury
+> does not produce anger. The Bhāṣya thus distinguishes completion of
+> these practical courses from the claim that every passion has already
+> ceased.
 
 ## 10. OWL++ Seed
 

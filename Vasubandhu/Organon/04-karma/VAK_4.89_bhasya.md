@@ -43,7 +43,7 @@ as the dual `puruṣakārādhipatiphale`. At `[256|16–17]`, the compressed
 `avyākṛtayordṛṣṭyoniḥrṣyandaphalam` is segmented and normalized as
 `avyākṛtayor dṛṣṭyor niṣyandaphalam`.
 
-## 3. Continuous Scientific English Rendering
+## 3. Continuous Conventional Translation
 
 For unwholesome action, the result counts for dharmas beginning with
 wholesome are two, three, and four, respectively.

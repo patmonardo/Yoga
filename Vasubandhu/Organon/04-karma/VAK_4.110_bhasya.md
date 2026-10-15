@@ -15,7 +15,7 @@ The Bhāṣya asks how much one merit measures, supplies the period-by-period
 chronology, and identifies an earlier Buddha Śākyamuni as the setting of
 the Bodhisattva's first vow.
 
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
 ```iast
 teṣāṃ ca lakṣaṇānām:
@@ -61,7 +61,7 @@ for `prathame` and `vabhūva` for `babhūva`. The closing line about the
 earlier Buddha's era and teaching is too rough here for a reliable
 reconstruction; it is retained as a crux rather than silently repaired.
 
-## 3. Continuous Scientific English Rendering
+## 3. Continuous Conventional Translation
 
 Concerning those marks:
 

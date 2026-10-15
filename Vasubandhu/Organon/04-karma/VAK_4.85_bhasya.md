@@ -74,7 +74,7 @@ printed above and the repair is marked here. Other obvious running-text forms
 normalized above include `narakeṣrapapadyate`, `praṇātipāta`, `maulelnety`,
 and `prāṇātīpātena`.
 
-## 3. Continuous Scientific English Rendering
+## 3. Continuous Conventional Translation
 
 These ten unwholesome and ten wholesome Courses of Action are all held to
 give dominant, corresponding, and maturation results.

@@ -79,7 +79,7 @@ is printed above while the witness irregularity is recorded here. Several
 compounds and sandhi divisions have likewise been opened for readability;
 the doctrine has not been rewritten.
 
-## 3. Continuous Scientific English Rendering
+## 3. Continuous Conventional Translation
 
 Both a woman and a man sever the roots. Others say that a woman does not,
 because her resolve, vigor, and discernment are weak. But the following

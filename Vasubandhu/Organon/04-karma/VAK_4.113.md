@@ -20,11 +20,6 @@ verbal action with its activation as well as its result.
 
 ## 3. Lexical Analysis
 
-```text
-dīyate | yena | tat | dānam | pūjā-anugraha-kāmyayā |
-kāya-vāk-karma | sa-utthānam | mahā-bhogya-phalam | ca | tat
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | `dīyate` | third-person singular present passive of `√dā` | is given |
@@ -77,13 +72,13 @@ or verbal action is brought forth.
 
 ## 5. Translation
 
-### Scientific English Rendering
+### Literal
 
 > Giving is that through which something is given from the wish to honor
 > or benefit others. It is bodily or verbal action together with its
 > activation, and it has abundant enjoyment as its result.
 
-### Bhāṣya-informed study translation
+### Bhāṣya-informed
 
 > Giving is that through which something is given from the wish to honor
 > or benefit others. It is bodily or verbal action together with its
@@ -101,12 +96,7 @@ abundant-enjoyment result are supplied or explained by the Bhāṣya.
 
 ## 6. Philosophical Translation
 
-> Giving is not merely the resource that changes hands, nor is it any
-> transfer regardless of motive. The Bhāṣya defines it through a
-> recipient-directed wish, bodily or verbal action, and the factors that
-> activate that action. The same outward transfer can therefore belong
-> to a different action-class when passion rather than the stated wish
-> governs it.
+> Giving is that through which something is given from the wish to honor or benefit others. It is bodily or verbal action together with its activation, and it has abundant enjoyment as its result.
 
 ## 7. Technical Vocabulary
 
@@ -173,6 +163,15 @@ at `[268|09–10]`; the study separates `tad dānam` according to the
 relative-correlative syntax. The cited verse has `tat kṣaṇaṃ` as two
 words. The study stops at the colon introducing the next topic at
 `[268|20]`; 4.114 begins at `[268|21]`.
+
+### Former Philosophical Translation
+
+> Giving is not merely the resource that changes hands, nor is it any
+> transfer regardless of motive. The Bhāṣya defines it through a
+> recipient-directed wish, bodily or verbal action, and the factors that
+> activate that action. The same outward transfer can therefore belong
+> to a different action-class when passion rather than the stated wish
+> governs it.
 
 ## 10. OWL++ Seed
 

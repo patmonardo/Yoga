@@ -20,11 +20,6 @@ half, defining cultivation.
 
 ## 3. Lexical Analysis
 
-```text
-dauḥśīlya-tad-hetu-ahatam | tad-vipakṣa-śamāśritam |
-samāhitam | tu | kuśalam | bhāvanā | citta-vāsanāt
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | `dauḥśīlya` | compound member | misconduct |
@@ -80,13 +75,13 @@ and co-arises with it.
 
 ## 5. Translation
 
-### Scientific English Rendering
+### Literal
 
 > Purified discipline is unharmed by misconduct and its causes, rests on
 > their counteragent and on peace. Cultivation, however, is concentrated
 > wholesomeness because it conditions Consciousness.
 
-### Bhāṣya-informed study translation
+### Bhāṣya-informed
 
 > Purified discipline is unharmed by misconduct and its causes, rests on
 > their counteragent and on peace. Cultivation, however, is concentrated
@@ -102,12 +97,7 @@ cultivation and gives the flower-and-sesame analogy.
 
 ## 6. Philosophical Translation
 
-> Cultivation is not merely the occurrence of a wholesome state. A
-> wholesome factor co-arising with concentration conditions Consciousness
-> and gives the continuing series its qualities. The flower-and-sesame
-> comparison describes formation through sustained relation: the qualities
-> of cultivation become qualities of the continuum, rather than remaining
-> an isolated episode.
+> Purified discipline is unharmed by misconduct and its causes, rests on their counteragent and on peace. Cultivation, however, is concentrated wholesomeness because it conditions Consciousness.
 
 ## 7. Technical Vocabulary
 
@@ -170,6 +160,15 @@ does not enumerate them.
 The local Bhāṣya span is `[273|23]–[274|04]`; the first hemistich was
 quoted and explained with 4.122. At `[274|03–04]`, the commentary turns
 to the results of discipline and cultivation, the subject of 4.124.
+
+### Former Philosophical Translation
+
+> Cultivation is not merely the occurrence of a wholesome state. A
+> wholesome factor co-arising with concentration conditions Consciousness
+> and gives the continuing series its qualities. The flower-and-sesame
+> comparison describes formation through sustained relation: the qualities
+> of cultivation become qualities of the continuum, rather than remaining
+> an isolated episode.
 
 ## 10. OWL++ Seed
 

@@ -16,7 +16,7 @@ This develops the giver-determinant named in 4.114. The Bhāṣya expands
 the compressed `satkṛtyādi` and explicitly pairs four manners with four
 results in order.
 
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
 ```iast
 tatra tāvat:
@@ -52,7 +52,7 @@ consistent with `anācchedya`. The prose explicitly explains the result
 as enjoyments not taken by others or destroyed by fire and similar causes.
 The next question, at `[269|20]`, turns to the thing given.
 
-## 3. Continuous Scientific English Rendering
+## 3. Continuous Conventional Translation
 
 First, the giver is distinguished through faith, discipline, learning, and
 related qualities. Through the distinction of that giver, the fruit-bearing

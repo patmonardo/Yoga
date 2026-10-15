@@ -16,11 +16,6 @@ sīmāyāṃ cāpy abaddhāyāṃ cakrabhedo na jāyate // 4.102 //
 
 ## 3. Lexical Analysis
 
-```text
-ādau | ante | arbudāt | pūrvam | yugāt | ca | uparate | munau |
-sīmāyām | ca | api | abaddhāyām | cakra-bhedaḥ | na | jāyate
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | `ādau` | locative singular used adverbially | at the beginning of the Dharma Chakra's operation |
@@ -65,13 +60,13 @@ depends on action.
 
 ## 5. Translation
 
-### Scientific English Rendering
+### Literal
 
 > At the beginning, at the end, before the excrescence, before the pair,
 > when the Sage has passed away, and while the boundary is unbound, division
 > of the wheel does not arise.
 
-### Bhāṣya-informed study translation
+### Bhāṣya-informed
 
 > Division of the Dharma Chakra does not arise at the beginning or end,
 > before defects of discipline and view have arisen, before the foremost
@@ -87,12 +82,7 @@ Its concluding qualification is that actual division depends on action.
 
 ## 6. Philosophical Translation
 
-> The Dharma Chakra's division is excluded where its historical or
-> institutional conditions are absent: before internal defects have
-> appeared, before the agents associated with reconciliation are present,
-> after the Teacher has passed away, and before one common boundary can
-> hold the two parties. Even when those conditions are available, division
-> is not automatic; its occurrence remains action-dependent.
+> At the beginning, at the end, before the excrescence, before the pair, when the Sage has passed away, and while the boundary is unbound, division of the wheel does not arise.
 
 ## 7. Technical Vocabulary
 
@@ -150,6 +140,15 @@ The source unit is `[262|10]–[262|19]`. It stops before the new question
 about why killing parents and related actions count as actions of
 immediate result at `[262|20]`. The difficult phrase concerning the
 foremost pair is retained as uncertain.
+
+### Former Philosophical Translation
+
+> The Dharma Chakra's division is excluded where its historical or
+> institutional conditions are absent: before internal defects have
+> appeared, before the agents associated with reconciliation are present,
+> after the Teacher has passed away, and before one common boundary can
+> hold the two parties. Even when those conditions are available, division
+> is not automatic; its occurrence remains action-dependent.
 
 ## 10. OWL++ Seed
 

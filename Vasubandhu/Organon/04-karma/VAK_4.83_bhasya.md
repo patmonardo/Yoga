@@ -52,7 +52,7 @@ reading is printed above and the witness form is preserved here. The witness
 also has `bhriyanta` at `[253|08–09]`; `mriyante`, “they die,” is the secure
 contextual reading.
 
-## 3. Continuous Scientific English Rendering
+## 3. Continuous Conventional Translation
 
 Here in Uttarakuru, the seventh Course of Action—disordered or frivolous
 afflicted speech—also occurs by present manifestation, for its inhabitants

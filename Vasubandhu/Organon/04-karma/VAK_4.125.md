@@ -16,11 +16,6 @@ puṇyanirvāṇanirvedhabhāgīyaṃ kuśalaṃ tridhā // 4.125 //
 
 ## 3. Lexical Analysis
 
-```text
-dharma-dānam | yathābhūta-sūtra-ādi-akliṣṭa-deśanā |
-puṇya-nirvāṇa-nirvedha-bhāgīyam | kuśalam | tridhā
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | `dharmadānam` | nominative singular neuter | the gift of Dharma; Dharma-giving |
@@ -69,13 +64,13 @@ sequence beginning with `uṣman`.
 
 ## 5. Translation
 
-### Scientific English Rendering
+### Literal
 
 > Dharma-giving is the unafflicted exposition of sūtra and related
 > teachings as they are. Wholesome activity is threefold: merit-oriented,
 > nirvāṇa-oriented, and penetration-oriented.
 
-### Bhāṣya-informed study translation
+### Bhāṣya-informed
 
 > Dharma-giving is the unafflicted exposition of sūtra and related
 > teachings as they are. Wholesome activity is threefold: merit-oriented,
@@ -97,15 +92,7 @@ about afflicted exposition come from the Bhāṣya.
 
 ## 6. Philosophical Translation
 
-> Dharma-giving is not mere transmission of words. It requires teaching
-> as things are and an unafflicted act of exposition. The two conditions
-> meet in a volitional practice: the teaching's content is not inverted,
-> and its communication is not governed by the speaker's pursuit of gain,
-> honor, or fame. Wholesome activity likewise has distinct directions:
-> it may organize desirable maturation, establish a course toward final
-> nirvāṇa, or enter the sequence of penetration. The Bhāṣya's image of a
-> sprout disclosing a seed makes a response to teaching evidence of an
-> already-present root, not a substitute for that root.
+> Dharma-giving is the unafflicted exposition of sūtra and related teachings as they are. Wholesome activity is threefold: merit-oriented, nirvāṇa-oriented, and penetration-oriented.
 
 ## 7. Technical Vocabulary
 
@@ -191,6 +178,18 @@ The Bhāṣya unit covers `[274|14]–[274|23–24]`. It begins by closing the
 discussion of material giving and ends by deferring the four stages of
 penetration for later explanation. The next topic, at `[275|01]`, asks
 about writing, seals, calculation, poetry, and number.
+
+### Former Philosophical Translation
+
+> Dharma-giving is not mere transmission of words. It requires teaching
+> as things are and an unafflicted act of exposition. The two conditions
+> meet in a volitional practice: the teaching's content is not inverted,
+> and its communication is not governed by the speaker's pursuit of gain,
+> honor, or fame. Wholesome activity likewise has distinct directions:
+> it may organize desirable maturation, establish a course toward final
+> nirvāṇa, or enter the sequence of penetration. The Bhāṣya's image of a
+> sprout disclosing a seed makes a response to teaching evidence of an
+> already-present root, not a substitute for that root.
 
 ## 10. OWL++ Seed
 

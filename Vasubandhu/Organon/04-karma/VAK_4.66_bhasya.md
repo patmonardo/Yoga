@@ -56,7 +56,7 @@ the preceding explanation. Line breaks, punctuation, and verse
 numbering are editorial. A new inquiry into the constitution of
 the courses begins at [238|13].
 
-## 3. Continuous Scientific English Rendering
+## 3. Continuous Conventional Translation
 
 “Good conduct is the converse.” It comprises desirable, wholesome
 bodily, verbal, and mental karma, together with non-covetousness,

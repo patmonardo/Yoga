@@ -15,7 +15,7 @@ akliṣṭāvyākṛto dharmaḥ saṃghas tena samanvitaḥ // 4.98 //
 > non-afflicted and indeterminate. This resulting condition belongs to the
 > Saṅgha that has been divided, not to the agent who divided it.
 
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
 ```iast
 kiṃsvabhāvāny ānantaryāṇi?
@@ -46,7 +46,7 @@ The unit includes the five-action classification that leads into the
 verse, but stops before the question at `[260|23]` about what the divider
 is endowed with.
 
-## 3. Continuous Scientific English Rendering
+## 3. Continuous Conventional Translation
 
 What is the nature of the actions of *ānantarya*? Four are bodily actions
 and one is a speech-action; three are acts of killing, one is false speech,

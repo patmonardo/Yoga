@@ -26,7 +26,7 @@ alpopakārālajjitvāc cheṣe gatiṣu pañcasu // 4.97 //
 > identifies the Kuru condition among humans and non-percipient beings
 > among gods as instances of the latter.
 
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
 ```iast
 athaiṣām āvaraṇānāṃ katamat kasyāṃ gatau veditavyam?
@@ -68,7 +68,7 @@ The complete unit is `[259|25]–[260|12–13]`. The witness reads
 editorial. The source's historical classifications are preserved as source
 terms, without mapping them to current identities.
 
-## 3. Continuous Scientific English Rendering
+## 3. Continuous Conventional Translation
 
 Among these obstructions, where is each to be understood? First, the
 *ānantarya* actions are admitted in the three continents—not in Uttarakuru

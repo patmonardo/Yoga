@@ -20,12 +20,6 @@ given, and the recipient field.
 
 ## 3. Lexical Analysis
 
-```text
-sva-arthāya | para-arthāya | ubhaya-arthāya | na-ubhaya-arthāya |
-dīyate | tat-viśeṣaḥ | punaḥ | dātṛ-viśeṣataḥ |
-vastu-viśeṣataḥ | kṣetra-viśeṣataḥ
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | `sva-arthāya` | dative singular compound | for one's own benefit |
@@ -75,13 +69,13 @@ further distinction.
 
 ## 5. Translation
 
-### Scientific English Rendering
+### Literal
 
 > Giving is for one's own benefit, another's benefit, both, or neither.
 > Its further distinction depends on the distinction of the giver, the
 > thing given, and the recipient field.
 
-### Bhāṣya-informed study translation
+### Bhāṣya-informed
 
 > Giving is for one's own benefit, another's benefit, both, or neither.
 > Its further distinction depends on the distinction of the giver, the
@@ -102,13 +96,7 @@ without a positive ground.
 
 ## 6. Philosophical Translation
 
-> A giving-event can be evaluated by two distinct relations: who actually
-> benefits, and what makes the gift distinct in its causal significance.
-> Assistance to a recipient and future maturation for the giver can separate:
-> one may occur without the other, or neither may occur in the ordinary
-> sense while reverence and gratitude still ground the act. The giver, the
-> thing given, and the recipient field further determine the gift's
-> particularity.
+> Giving is for one's own benefit, another's benefit, both, or neither. Its further distinction depends on the distinction of the giver, the thing given, and the recipient field.
 
 ## 7. Technical Vocabulary
 
@@ -176,6 +164,16 @@ and gratitude remain a positive ground. The second half then shifts from
 benefit to the giver, thing, and field that distinguish the giving. The
 source unit is `[268|21]–[269|06]`, with `tat khalv etad dānam` at
 `[268|20]` as a lead-in; the next analysis begins at `[269|07]`.
+
+### Former Philosophical Translation
+
+> A giving-event can be evaluated by two distinct relations: who actually
+> benefits, and what makes the gift distinct in its causal significance.
+> Assistance to a recipient and future maturation for the giver can separate:
+> one may occur without the other, or neither may occur in the ordinary
+> sense while reverence and gratitude still ground the act. The giver, the
+> thing given, and the recipient field further determine the gift's
+> particularity.
 
 ## 10. OWL++ Seed
 

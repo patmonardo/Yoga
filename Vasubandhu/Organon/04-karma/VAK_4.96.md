@@ -16,11 +16,6 @@ kauravāsaṃjñisattvāś ca matam āvaraṇatrayam // 4.96 //
 
 ## 3. Lexical Analysis
 
-```text
-ānantaryāṇi | karmāṇi | tīvra-kleśaḥ | atha | durgatiḥ |
-kauravāḥ | asaṃjñi-sattvāḥ | ca | matam | āvaraṇa-trayam
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | `ānantaryāṇi` | nominative neuter plural | actions designated by *ānantarya*, explained in the Bhāṣya |
@@ -70,13 +65,13 @@ three bad destinies + Uttarakuru + non-percipient existence
 
 ## 5. Translation
 
-### Scientific English Rendering
+### Literal
 
 > The actions of *ānantarya*, recurrent affliction, and then bad destinies,
 > people of Uttarakuru, and non-percipient beings are held to be the three
 > obstructions.
 
-### Bhāṣya-informed study translation
+### Bhāṣya-informed
 
 > The five actions of *ānantarya* are action-obstruction. Recurrent
 > affliction, not merely affliction of occasional extreme force, is
@@ -90,12 +85,7 @@ Bhāṣya.
 
 ## 6. Philosophical Translation
 
-> Access to the noble Path and its preparation can be closed through three
-> distinct determinations: an action whose maturation cannot be displaced,
-> an affliction whose recurrence leaves no interval for counter-effort, or a
-> resultant mode of existence incompatible with Path-preparation. The
-> criterion is not simply painfulness or intensity; each obstruction names
-> a different way the practical conditions for the Path are unavailable.
+> The actions of *ānantarya*, recurrent affliction, and then bad destinies, people of Uttarakuru, and non-percipient beings are held to be the three obstructions.
 
 ## 7. Technical Vocabulary
 
@@ -157,6 +147,15 @@ destinies are not the whole of maturation-obstruction; Uttarakuru and
 non-percipient existence are also included, showing that painfulness alone
 does not define the class. The argument about affliction likewise turns on
 recurrence and opportunity for counter-effort, not simply peak force.
+
+### Former Philosophical Translation
+
+> Access to the noble Path and its preparation can be closed through three
+> distinct determinations: an action whose maturation cannot be displaced,
+> an affliction whose recurrence leaves no interval for counter-effort, or a
+> resultant mode of existence incompatible with Path-preparation. The
+> criterion is not simply painfulness or intensity; each obstruction names
+> a different way the practical conditions for the Path are unavailable.
 
 ## 10. OWL++ Seed
 

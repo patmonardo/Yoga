@@ -21,11 +21,6 @@ listed as arts or kinds of knowledge.
 
 ## 3. Lexical Analysis
 
-```text
-yoga-pravartitam | karma | sa-samutthāpakam | tridhā |
-lipi-mudre | sa-gaṇanam | kāvyam | saṃkhyā | yathā-kramam
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | `yogapravartitam` | nominative singular neuter compound | set in motion through a specific method |
@@ -70,13 +65,13 @@ mental collecting or reckoning of Dharmas.
 
 ## 5. Translation
 
-### Scientific English Rendering
+### Literal
 
 > Action set in motion by a specific method, together with what gives rise
 > to it, is threefold: writing and sealing; calculation and poetry; and
 > reckoning, in the corresponding order.
 
-### Bhāṣya-informed study translation
+### Bhāṣya-informed
 
 > Action set in motion by a specific method, together with what gives rise
 > to it, is threefold: writing and sealing; calculation and poetry; and
@@ -92,13 +87,7 @@ by the Bhāṣya.
 
 ## 6. Philosophical Translation
 
-> A learned activity is not defined only by its product or subject matter.
-> It is methodically set in motion, considered together with what brings
-> it about, and differentiated according to its mode of action. Writing
-> and sealing enact bodily action; calculation and poetry enact verbal
-> action; mental reckoning collects Dharmas through Mind. Thus a practice
-> that concerns number can belong either to speech or to mind, depending
-> on how it is actually performed.
+> Action set in motion by a specific method, together with what gives rise to it, is threefold: writing and sealing; calculation and poetry; and reckoning, in the corresponding order.
 
 ## 7. Technical Vocabulary
 
@@ -167,6 +156,16 @@ Dharmas.
 The source span is `[275|01]–[275|06]`. The question at `[275|01]` asks
 about the nature of familiar worldly practices; the next passage, beginning
 at `[275|07]`, turns to designations for kinds of Dharmas.
+
+### Former Philosophical Translation
+
+> A learned activity is not defined only by its product or subject matter.
+> It is methodically set in motion, considered together with what brings
+> it about, and differentiated according to its mode of action. Writing
+> and sealing enact bodily action; calculation and poetry enact verbal
+> action; mental reckoning collects Dharmas through Mind. Thus a practice
+> that concerns number can belong either to speech or to mind, depending
+> on how it is actually performed.
 
 ## 10. OWL++ Seed
 

@@ -12,7 +12,7 @@ sīmāyāṃ cāpy abaddhāyāṃ cakrabhedo na jāyate // 4.102 //
 > pair of disciples has appeared, after the Sage has passed away, or while
 > the communal boundary remains unbound.
 
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
 ```iast
 cakrabhedas tu ṣaṭsu kāleṣu na bhavati. katameṣu?
@@ -46,7 +46,7 @@ The source unit is `[262|10]–[262|19]`. The compound
 the following `pratisaṃdhānīyatvāt` associates the foremost pair with
 reconciliation. Word division and punctuation are editorial.
 
-## 3. Continuous Scientific English Rendering
+## 3. Continuous Conventional Translation
 
 Division of the Dharma Chakra does not occur at six times. Which six?
 

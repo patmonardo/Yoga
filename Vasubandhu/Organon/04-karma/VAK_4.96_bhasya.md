@@ -15,7 +15,7 @@ kauravāsaṃjñisattvāś ca matam āvaraṇatrayam // 4.96 //
 > non-percipient beings are maturation-obstruction. These conditions obstruct
 > the noble Path and the wholesome roots preparatory to it.
 
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
 ```iast
 trīṇy āvaraṇāny uktāni bhagavatā:
@@ -68,7 +68,7 @@ The source unit is `[259|04]–[259|24]`. The witness has damaged readings.
 compressed list of other possible limiting conditions and the phrase
 `sarvajaghanyam` are retained without imposing a disputed interpretation.
 
-## 3. Continuous Scientific English Rendering
+## 3. Continuous Conventional Translation
 
 The Blessed One has stated three obstructions: action-obstruction,
 affliction-obstruction, and maturation-obstruction. What is their nature?

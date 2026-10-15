@@ -20,11 +20,6 @@ Absence of remorse and counteraction forms one combined condition.
 
 ## 3. Lexical Analysis
 
-```text
-saṃcetana-samāptibhyām | niṣ-kaukṛtya-vipakṣataḥ |
-parivārāt | vipākāt | ca | karma | upacitam | ucyate
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | `saṃcetana-samāptibhyām` | instrumental dual compound | through deliberate intention and completion |
@@ -65,13 +60,13 @@ accumulated. Thus occurrence alone does not entail `upacita`.
 
 ## 5. Translation
 
-### Scientific English Rendering
+### Literal
 
 > An action is called accumulated through deliberate intention, completion,
 > absence of remorse and counteraction, accompaniment, and determination
 > toward maturation.
 
-### Bhāṣya-informed study translation
+### Bhāṣya-informed
 
 > An action is called accumulated through deliberate intention, completion,
 > absence of remorse and counteraction, accompaniment, and determination
@@ -90,13 +85,7 @@ are preserved in the paired study.
 
 ## 6. Philosophical Translation
 
-> A performed action and an accumulated action are not identical
-> determinations. Deliberate intention matters, but is not enough by
-> itself: the required course must be complete, the action must remain
-> without remorse or opposition, its accompaniment must be congruent, and
-> maturation must be fixed. The analysis makes causal persistence
-> intelligible without treating karma as a stored substance or reducing
-> the event to its initial volition.
+> An action is called accumulated through deliberate intention, completion, absence of remorse and counteraction, accompaniment, and determination toward maturation.
 
 ## 7. Technical Vocabulary
 
@@ -163,6 +152,16 @@ The source span is `[271|19]–[272|03]`. The witness reads `saṃcenataḥ`
 in the first explanatory question, normalized as `saṃcetanataḥ`, and has
 the compressed `vipākadāna niyataṃ`, parsed here as `vipākadāne niyatam`.
 The next topic opens at `[272|04]`.
+
+### Former Philosophical Translation
+
+> A performed action and an accumulated action are not identical
+> determinations. Deliberate intention matters, but is not enough by
+> itself: the required course must be complete, the action must remain
+> without remorse or opposition, its accompaniment must be congruent, and
+> maturation must be fixed. The analysis makes causal persistence
+> intelligible without treating karma as a stored substance or reducing
+> the event to its initial volition.
 
 ## 10. OWL++ Seed
 

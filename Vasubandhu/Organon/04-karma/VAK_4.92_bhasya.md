@@ -40,7 +40,7 @@ The source unit is `[257|11]–[257|16]`. It supplies the continuation left
 open in 4.91, then states the result profile for action belonging to neither
 trainee nor beyond-training status.
 
-## 3. Continuous Scientific English Rendering
+## 3. Continuous Conventional Translation
 
 For action belonging to one beyond training, trainee dharmas are one result:
 the dominant result. Beyond-training dharmas are three results, excluding

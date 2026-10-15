@@ -43,7 +43,7 @@ official verse's reading order. Line breaks, punctuation, and verse
 numbering are editorial. The new sūtra on three silences begins at
 [236|23] and belongs to 4.64.
 
-## 3. Continuous Scientific English Rendering
+## 3. Continuous Conventional Translation
 
 “Some hold the two to be what is experienced in hell and what is
 experienced elsewhere in the Desire Realm.” Other teachers regard

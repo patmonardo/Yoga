@@ -58,7 +58,7 @@ not attributed to the witness. The following source marker is printed
 `[254|15]`, although the sequence requires `[255|15]`; that next unit is not
 included here.
 
-## 3. Continuous Scientific English Rendering
+## 3. Continuous Conventional Translation
 
 The Blessed One speaks of wrong speech, wrong action, and wrong livelihood.
 What wrong livelihood is there apart from the first two? There is no other

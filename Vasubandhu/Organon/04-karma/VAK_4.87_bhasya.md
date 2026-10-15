@@ -52,7 +52,7 @@ regression after `[255|14]`; it is read as `[255|15]`. The transmitted
 conjectural compound division. The witness's `karmaṃ` at `[256|01–02]` is
 normalized to `karma`.
 
-## 3. Continuous Scientific English Rendering
+## 3. Continuous Conventional Translation
 
 Of the five results explained earlier, which kinds of action possess which
 results?

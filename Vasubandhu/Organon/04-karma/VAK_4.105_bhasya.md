@@ -12,7 +12,7 @@ bhavāgracetanā loke mahāphalatamā śubhe // 4.105 //
 > the world, volition at the summit of becoming is greatest with respect
 > to maturation-result.
 
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
 ```iast
 eṣām ānantaryāṇāṃ katamat mahāsāvadyam?
@@ -61,7 +61,7 @@ This study follows `[264|03]–[264|21]`. The running witness reads
 immediate-result actions is retained without assigning its ordinal
 members beyond the text. Sandhi, spacing, and punctuation are editorial.
 
-## 3. Continuous Scientific English Rendering
+## 3. Continuous Conventional Translation
 
 Which of these immediate-result actions is the most culpable?
 

@@ -12,7 +12,7 @@ vyañjanāntarito 'pi syān mātā yacchoṇitodbhavaḥ // 4.103 //
 > does not erase parentage; for the technical maternity criterion, the
 > mother is the woman from whose maternal blood the living being arose.
 
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
 ```iast
 kasmān mātṛvadhādiṣv ānantaryaṃ nānyatra?
@@ -88,7 +88,7 @@ also compresses the quoted examples and the closing discussion. Word
 division and punctuation are editorial; the examples below are rendered
 without adding detail beyond their argumentative role.
 
-## 3. Continuous Scientific English Rendering
+## 3. Continuous Conventional Translation
 
 Why does killing one's mother and related cases receive the
 immediate-result classification, and not other cases? Because of

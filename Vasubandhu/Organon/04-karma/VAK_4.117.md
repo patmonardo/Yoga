@@ -19,11 +19,6 @@ through the Bhāṣya and should not be read as one undifferentiated ranking.
 
 ## 3. Lexical Analysis
 
-```text
-gati-duḥkha-upakāritva-guṇaiḥ | kṣetram | viśiṣyate |
-agram | muktasya | muktāya | bodhisattvasya | ca | aṣṭamam
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | `gati-duḥkha-upakāritva-guṇaiḥ` | instrumental plural compound | by destiny, suffering, beneficence, and qualities |
@@ -69,14 +64,14 @@ the Bodhisattva as “the eighth.”
 
 ## 5. Translation
 
-### Scientific English Rendering
+### Literal
 
 > The recipient field is distinguished by destiny, suffering, beneficence,
 > and qualities. Foremost is the gift from one who is free to one who is
 > free; a gift to a Bodhisattva is also foremost; and, in another set of
 > eight gifts, the eighth is foremost.
 
-### Bhāṣya-informed study translation
+### Bhāṣya-informed
 
 > The recipient field is distinguished by destiny, suffering, beneficence,
 > and qualities. Foremost is the gift from one who is free to one who is
@@ -96,13 +91,7 @@ eightfold list are supplied by the Bhāṣya.
 
 ## 6. Philosophical Translation
 
-> The recipient is not an incidental endpoint of an already complete
-> giving. The recipient's destination, need, relation to the giver, and
-> qualities help determine what this action is. The Bhāṣya also presents
-> causal reach as a distinct ground for the Bodhisattva gift's rank, and
-> places the final gift in a separate classification of purposes. These
-> distinctions keep the giver, object, recipient field, and purpose in
-> relation without reducing them to one another.
+> The recipient field is distinguished by destiny, suffering, beneficence, and qualities. Foremost is the gift from one who is free to one who is free; a gift to a Bodhisattva is also foremost; and, in another set of eight gifts, the eighth is foremost.
 
 ## 7. Technical Vocabulary
 
@@ -175,6 +164,16 @@ at `[270|04]` and a difficult form at `[270|08]`, both handled in the
 Bhāṣya study. The passage at `[270|21–25]` gives a compressed eightfold
 list and explicitly explains only its first two entries; the next topic
 begins at `[270|26]`.
+
+### Former Philosophical Translation
+
+> The recipient is not an incidental endpoint of an already complete
+> giving. The recipient's destination, need, relation to the giver, and
+> qualities help determine what this action is. The Bhāṣya also presents
+> causal reach as a distinct ground for the Bodhisattva gift's rank, and
+> places the final gift in a separate classification of purposes. These
+> distinctions keep the giver, object, recipient field, and purpose in
+> relation without reducing them to one another.
 
 ## 10. OWL++ Seed
 

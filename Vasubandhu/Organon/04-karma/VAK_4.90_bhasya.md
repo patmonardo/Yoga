@@ -43,7 +43,7 @@ The witness reads `phalaṃ` at `[256|20]`, `catvāti` at `[256|22]`,
 `pratyupannasya` at `[256|24]`, and `triṇy` at `[256|25]`. These are
 normalized above according to the immediately explicit syntax.
 
-## 3. Continuous Scientific English Rendering
+## 3. Continuous Conventional Translation
 
 For past action, dharmas of all three times stand as four results. “All” means
 belonging to the three times. Past, present, and future dharmas can be results

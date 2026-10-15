@@ -61,7 +61,7 @@ in the explanation of personal completion; both readings remain visible.
 Line breaks, punctuation, and verse numbering are editorial. VAK 4.68
 begins at `[239|04]` with `sāmantakāstu vijñaptiḥ`.
 
-## 3. Continuous Scientific English Rendering
+## 3. Continuous Conventional Translation
 
 Of these courses of karma, “six unwholesome courses are non-manifest.”
 Six unwholesome courses necessarily have non-manifest action as their

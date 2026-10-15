@@ -52,7 +52,7 @@ The running witness has `ārūpyoopapannānām` at `[253|14–16]`, an evident
 vowel duplication normalized above as `ārūpyopapannānām`. It also prints
 `śesaḥ` at `[253|21]`; the expected form is `śeṣaḥ`.
 
-## 3. Continuous Scientific English Rendering
+## 3. Continuous Conventional Translation
 
 In the Formless Realm and among non-percipient beings, the seven wholesome
 bodily and verbal Courses of Action exist only through endowment.

@@ -47,7 +47,7 @@ conflating the witnesses. Line breaks, punctuation, and verse
 numbering are editorial. The next half-verse, `viparyayāt
 sucaritam`, begins the 4.66 unit at [237|23].
 
-## 3. Continuous Scientific English Rendering
+## 3. Continuous Conventional Translation
 
 Three kinds of bad conduct have been stated. In this connection:
 “Unwholesome bodily action and the rest are held to be the three

@@ -135,7 +135,7 @@ numerous visible irregularities, including `vijñātapātram`, `amyate`,
 and a compressed final `avijñapti` problem. They remain uncorrected in the
 continuous text. VAK 4.76 begins at `[246|16]` with divisive speech.
 
-## 3. Continuous Scientific English Rendering
+## 3. Continuous Conventional Translation
 
 The sūtra teaches sixteen modes of assertion. To say of what was not seen
 that it was seen, of what was not heard that it was heard, of what was not

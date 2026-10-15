@@ -21,12 +21,6 @@ liberation.
 
 ## 3. Lexical Analysis
 
-```text
-sāvadyāḥ | nivṛtāḥ | hīnāḥ | kliṣṭāḥ | dharmāḥ |
-śubhāḥ | amalāḥ | praṇītāḥ | saṃskṛta-śubhāḥ | sevyāḥ |
-mokṣaḥ | tu | anuttaraḥ
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | `sāvadyāḥ` | nominative plural masculine | faulty; accompanied by fault |
@@ -82,14 +76,14 @@ mokṣaḥ tu
 
 ## 5. Translation
 
-### Scientific English Rendering
+### Literal
 
 > Afflicted Dharmas are faulty, obscured, and inferior. “Auspicious,”
 > “stainless,” and “excellent” are designations for Dharmas. Conditioned
 > wholesome Dharmas are to be cultivated; liberation, however, is
 > unsurpassed.
 
-### Bhāṣya-informed study translation
+### Bhāṣya-informed
 
 > Afflicted Dharmas are faulty, obscured, and inferior. “Auspicious,”
 > “stainless,” and “excellent” are designations for Dharmas. Conditioned
@@ -110,13 +104,7 @@ explanation of nirvāṇa are given by the Bhāṣya.
 
 ## 6. Philosophical Translation
 
-> Affliction marks a defective and obscured mode of determination.
-> Conditioned wholesome activity is to be practiced because it has a
-> causal role; yet that practice is not self-justifying, and its
-> refinement is not the unsurpassed end. The unconditioned is not another
-> habituated cause to be manufactured for a further fruit. Liberation is
-> unsurpassed—not a larger unit of merit, but the end that no other Dharma
-> surpasses.
+> Afflicted Dharmas are faulty, obscured, and inferior. “Auspicious,” “stainless,” and “excellent” are designations for Dharmas. Conditioned wholesome Dharmas are to be cultivated; liberation, however, is unsurpassed.
 
 ## 7. Technical Vocabulary
 
@@ -203,6 +191,16 @@ the project-level Brahman Chakra.
 The verse and Bhāṣya occupy `[275|07]–[275|19]`. The colophon at
 `[275|20–21]` closes the fourth Kośa chapter, the Karmanirdeśa; the fifth
 chapter begins immediately afterward.
+
+### Former Philosophical Translation
+
+> Affliction marks a defective and obscured mode of determination.
+> Conditioned wholesome activity is to be practiced because it has a
+> causal role; yet that practice is not self-justifying, and its
+> refinement is not the unsurpassed end. The unconditioned is not another
+> habituated cause to be manufactured for a further fruit. Liberation is
+> unsurpassed—not a larger unit of merit, but the end that no other Dharma
+> surpasses.
 
 ## 10. OWL++ Seed
 

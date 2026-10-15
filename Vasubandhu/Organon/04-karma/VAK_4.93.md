@@ -16,11 +16,6 @@ te dve catvāry atha trīṇi bhāvanā-heya-karmaṇaḥ // 4.93 //
 
 ## 3. Lexical Analysis
 
-```text
-trīṇi | catvāri | ca | ekam | ca | dṛg-gheyasya | tad-ādayaḥ |
-te | dve | catvāri | atha | trīṇi | bhāvanā-heya-karmaṇaḥ
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | `trīṇi` | nominative neuter plural | three results |
@@ -67,14 +62,14 @@ bhāvanā-heya-karmaṇaḥ
 
 ## 5. Translation
 
-### Scientific English Rendering
+### Literal
 
 > For action to be abandoned through seeing, result-dharmas beginning with
 > that class are respectively three, four, and one results. For action to be
 > abandoned through cultivation, those same result-classes are respectively
 > two, four, and three results.
 
-### Bhāṣya-informed study translation
+### Bhāṣya-informed
 
 > Action to be abandoned through seeing has result-dharmas to be abandoned
 > through seeing as three results, excluding maturation and disconnection;
@@ -89,12 +84,7 @@ bhāvanā-heya-karmaṇaḥ
 
 ## 6. Philosophical Translation
 
-> The mode by which an action is to be abandoned does not alone determine
-> its result-profile. The result-dharma's own abandonment status also
-> matters: the ordered source-target pair selects the available result
-> relations. The same count can therefore conceal different causal
-> memberships, and reversing the two statuses need not preserve the
-> relation.
+> For action to be abandoned through seeing, result-dharmas beginning with that class are respectively three, four, and one results. For action to be abandoned through cultivation, those same result-classes are respectively two, four, and three results.
 
 ## 7. Technical Vocabulary
 
@@ -131,6 +121,15 @@ classifies the causal relations of action and resulting dharmas; it does not
 identify the action itself with the Path operation that abandons a dharma.
 The Bhāṣya's exclusions and named results show why the numerical sequence is
 not enough on its own: each count stands for a specific set of relations.
+
+### Former Philosophical Translation
+
+> The mode by which an action is to be abandoned does not alone determine
+> its result-profile. The result-dharma's own abandonment status also
+> matters: the ordered source-target pair selects the available result
+> relations. The same count can therefore conceal different causal
+> memberships, and reversing the two statuses need not preserve the
+> relation.
 
 ## 10. OWL++ Seed
 

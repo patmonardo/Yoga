@@ -84,7 +84,7 @@ including `prayoggaṃ`, `kāmabhithyācāraṃ`, and `yo jayitavyā`. The conti
 text adopts the contextually secure readings `prayogaṃ`, `kāmamithyācāraṃ`,
 and `yojayitavyā`. It also opens sandhi and compounds for readability.
 
-## 3. Continuous Scientific English Rendering
+## 3. Continuous Conventional Translation
 
 The discussion returns to the Courses of Action and asks how many can occur
 simultaneously with one arising volition.

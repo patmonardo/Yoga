@@ -21,11 +21,6 @@ setting of the Bodhisattva's first vow.
 
 ## 3. Lexical Analysis
 
-```text
-eka-ekam | puṇya-śata-jam | asaṃkhyeya-traya-antya-jāḥ |
-vipaśyī | dīpa-kṛt | ratna-śikhī | śākya-muniḥ | purā
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | `eka-ekam` | distributive nominative/accusative neuter singular; `lakṣaṇam` understood | each individual mark |
@@ -71,13 +66,13 @@ the vow to become a Buddha of that kind.
 
 ## 5. Translation
 
-### Scientific English Rendering
+### Literal
 
 > Each individual mark is born from a hundred merits. Vipaśyin,
 > Dīpaṃkara, and Ratnaśikhin occur at the ends of the three incalculable
 > periods; earlier was Śākyamuni.
 
-### Bhāṣya-informed study translation
+### Bhāṣya-informed
 
 > Each individual mark is born from a hundred merits. Vipaśyin,
 > Dīpaṃkara, and Ratnaśikhin occur at the ends of the three incalculable
@@ -93,11 +88,7 @@ explanations and the first-vow episode are not all stated in the kārikā.
 
 ## 6. Philosophical Translation
 
-> Each mark has a determinate hundredfold merit-ground, while the measure
-> of a single merit is disputed or reserved to Buddha-knowledge. The mark
-> is thus presented as a specific result of accumulated action, not a
-> quantity that can simply be converted into an ordinary tally. The
-> chronology adds a long career and an explicit vow as its organizing end.
+> Each individual mark is born from a hundred merits. Vipaśyin, Dīpaṃkara, and Ratnaśikhin occur at the ends of the three incalculable periods; earlier was Śākyamuni.
 
 ## 7. Technical Vocabulary
 
@@ -161,6 +152,14 @@ for `babhūva`. The closing statement about the earlier Buddha's era and
 teaching is rough in this witness and is not conjecturally reconstructed.
 The unit covers `[266|11]–[267|02]` and stops before the question about
 the perfections at `[267|03]`.
+
+### Former Philosophical Translation
+
+> Each mark has a determinate hundredfold merit-ground, while the measure
+> of a single merit is disputed or reserved to Buddha-knowledge. The mark
+> is thus presented as a specific result of accumulated action, not a
+> quantity that can simply be converted into an ordinary tally. The
+> chronology adds a long career and an explicit vow as its organizing end.
 
 ## 10. OWL++ Seed
 

@@ -59,7 +59,7 @@ witness before a critical edition. Line breaks, punctuation, and
 verse numbering are editorial. The sentence on three bad conducts
 at [237|13] starts 4.65.
 
-## 3. Continuous Scientific English Rendering
+## 3. Continuous Conventional Translation
 
 A sūtra states that there are three silences: bodily, verbal, and
 mental silence. In this connection: “The bodily and verbal actions,

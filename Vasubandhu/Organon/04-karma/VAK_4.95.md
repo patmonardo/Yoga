@@ -16,11 +16,6 @@ nākṣepike samāpattī acitte prāptayo na ca // 4.95 //
 
 ## 3. Lexical Analysis
 
-```text
-ekam | janma | ākṣipati | ekam | anekam | paripūrakam |
-na | ākṣepike | samāpattī | acitte | prāptayaḥ | na | ca
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | `ekam` | nominative neuter singular, with `karma` understood | one action as projector |
@@ -78,12 +73,12 @@ are excluded separately, not described as “non-mental acquisitions.”
 
 ## 5. Translation
 
-### Scientific English Rendering
+### Literal
 
 > One action projects one birth; the completing action is multiple. The two
 > non-mental attainments are not projectors, nor are acquisitions.
 
-### Bhāṣya-informed study translation
+### Bhāṣya-informed
 
 > One action projects one `nikāyasabhāga`, one common class of beings, and
 > does not project many such births. Many actions may project one class
@@ -97,17 +92,7 @@ acquisitions belong to the Bhāṣya.
 
 ## 6. Philosophical Translation
 
-> Projection establishes the unity of a birth-class; completion differentiates
-> its particular features. The unity is not a one-cause/one-life arithmetic:
-> one projecting action does not extend to many births, but multiple actions
-> may jointly project one undivided class-membership. The causal relation is
-> therefore asymmetrical, not a simple bijection. Neither the two
-> non-mental attainments nor acquisition as a possession-relation performs
-> this projecting function.
-
-This reading stays with the Bhāṣya's claim about `nikāyasabhāga`; it does not
-reduce the full constitution of a life to a single cause or infer that
-projecting and completing exhaust every causal contribution.
+> One action projects one birth; the completing action is multiple. The two non-mental attainments are not projectors, nor are acquisitions.
 
 ## 7. Technical Vocabulary
 
@@ -159,6 +144,20 @@ differentiate it. The Aniruddha exchange similarly distinguishes a singular
 reported occasion from a causal history that may include further action or a
 stream of volitions. The Bhāṣya's own qualifications prevent the formula
 “one action, one birth” from becoming an absolute one-to-one law.
+
+### Former Philosophical Translation
+
+> Projection establishes the unity of a birth-class; completion differentiates
+> its particular features. The unity is not a one-cause/one-life arithmetic:
+> one projecting action does not extend to many births, but multiple actions
+> may jointly project one undivided class-membership. The causal relation is
+> therefore asymmetrical, not a simple bijection. Neither the two
+> non-mental attainments nor acquisition as a possession-relation performs
+> this projecting function.
+
+This reading stays with the Bhāṣya's claim about `nikāyasabhāga`; it does not
+reduce the full constitution of a life to a single cause or infer that
+projecting and completing exhaust every causal contribution.
 
 ## 10. OWL++ Seed
 

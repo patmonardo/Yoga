@@ -18,7 +18,7 @@ avīcau pacyate kalpam adhikair adhikā rujaḥ // 4.99 //
 > denser and more sensitive, and the causes of pain become more numerous and
 > more intense.
 
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
 ```iast
 yo hi bhinnaḥ tasya bhedo na bhettuḥ.
@@ -54,7 +54,7 @@ forms: `tad-avadyaṃ`, `kalpam`, and `adhikair`. Word division and sandhi
 are editorial. The study stops before the question about who can divide
 the Saṅgha at `[261|07–08]`.
 
-## 3. Continuous Scientific English Rendering
+## 3. Continuous Conventional Translation
 
 The division belongs to the one divided, not to the divider. With what,
 then, is the divider endowed?

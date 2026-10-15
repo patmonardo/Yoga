@@ -86,7 +86,7 @@ before supplying qualifications that preserve the earlier selection rule.
 The first half of VAK 4.79 begins at `[248|15]` with the cutting off of
 wholesome roots.
 
-## 3. Continuous Scientific English Rendering
+## 3. Continuous Conventional Translation
 
 “Hostility is hatred of living beings.” Hostility toward living beings is
 `vyāpāda` when it proceeds in the form of harming another.

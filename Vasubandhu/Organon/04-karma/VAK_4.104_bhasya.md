@@ -13,7 +13,7 @@ nānantaryaprayuktasya vairāgyaphalasaṃbhavaḥ // 4.104 //
 > only afterward. For one engaged in an immediate-result action, the
 > possibility of dispassion or a Path fruit does not arise.
 
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
 ```iast
 kim avaśyaṃ tathāgatasya duṣṭacittarudhirotpādanād ānantaryam?
@@ -46,7 +46,7 @@ reading `anyakarmapathaprayogaṃ` would make the compound a preparation
 for another action-course, but remains conjectural. The Sanskrit above
 retains the witness form.
 
-## 3. Continuous Scientific English Rendering
+## 3. Continuous Conventional Translation
 
 Does causing blood to flow from the Tathāgata with a hostile mind
 necessarily receive the immediate-result classification? It does when

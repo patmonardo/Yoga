@@ -20,11 +20,6 @@ measure, attributed to the Vaibhāṣikas and former teachers.
 
 ## 3. Lexical Analysis
 
-```text
-svargāya | śīlam | prādhānyāt | visaṃyogāya | bhāvanā |
-caturṇām | brāhma-puṇyatvam | kalpam | svargeṣu | modanāt
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | `svargāya` | dative singular masculine | for heaven; toward heavenly existence |
@@ -76,13 +71,13 @@ constitutes this Brahmā-merit.
 
 ## 5. Translation
 
-### Scientific English Rendering
+### Literal
 
 > Discipline principally conduces to heaven; cultivation principally
 > conduces to disjunction. The merit of the four [persons] is called
 > Brahmā-merit because of delighting in heaven for a kalpa.
 
-### Bhāṣya-informed study translation
+### Bhāṣya-informed
 
 > Discipline principally conduces to heaven; cultivation principally
 > conduces to disjunction. The merit of the four [persons] is called
@@ -101,14 +96,7 @@ provided here.
 
 ## 6. Philosophical Translation
 
-> The practices are distinguished by what they principally conduce to,
-> not by exclusive ownership of a single result. Giving can support
-> heavenly existence; discipline chiefly orders action toward it, while
-> also supporting disjunction; cultivation principally conduces to
-> disjunction. The competing measures of Brahmā-merit remain conditioned
-> results, whether framed through a measure associated with the Buddha's
-> marks or through a kalpa of heavenly enjoyment. Magnitude and duration
-> do not, by themselves, turn a heavenly result into disjunction.
+> Discipline principally conduces to heaven; cultivation principally conduces to disjunction. The merit of the four [persons] is called Brahmā-merit because of delighting in heaven for a kalpa.
 
 ## 7. Technical Vocabulary
 
@@ -175,6 +163,17 @@ The source span is `[274|05]–[274|13]`. The witness has `sutra` at
 to the earlier account of action producing the Buddha's marks; the
 measure is not repeated here. The next topic begins with material giving
 at `[274|14]`.
+
+### Former Philosophical Translation
+
+> The practices are distinguished by what they principally conduce to,
+> not by exclusive ownership of a single result. Giving can support
+> heavenly existence; discipline chiefly orders action toward it, while
+> also supporting disjunction; cultivation principally conduces to
+> disjunction. The competing measures of Brahmā-merit remain conditioned
+> results, whether framed through a measure associated with the Buddha's
+> marks or through a kalpa of heavenly enjoyment. Magnitude and duration
+> do not, by themselves, turn a heavenly result into disjunction.
 
 ## 10. OWL++ Seed
 

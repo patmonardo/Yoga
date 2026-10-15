@@ -14,7 +14,7 @@ cintāmayaṃ kalpaśate śeṣam ākṣipate hi tat // 4.109 //
 The Bhāṣya explains this as the projection of the action whose maturation
 produces the marks, introduced in 4.108.
 
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
 ```iast
 yac caital lakṣaṇavipākaṃ karmety uktam:
@@ -47,7 +47,7 @@ phrase concerning `pakṣabhikṣāpradāna` remains uncertain. The witness read
 `dvau ca guṇo` at `[266|09–11]`; the text above normalizes this
 grammatically to `dvau ca guṇau`. The next topic begins at `[266|11]`.
 
-## 3. Continuous Scientific English Rendering
+## 3. Continuous Conventional Translation
 
 Regarding the action said to mature as the marks:
 

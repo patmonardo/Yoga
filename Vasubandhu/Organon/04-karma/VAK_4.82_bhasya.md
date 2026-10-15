@@ -47,7 +47,7 @@ endowment.” The opening question governs this whole regional enumeration: it c
 both unwholesome and wholesome Courses of Action, although 4.82 itself begins
 with the unwholesome distribution.
 
-## 3. Continuous Scientific English Rendering
+## 3. Continuous Conventional Translation
 
 In which destination do how many wholesome or unwholesome Courses of Action
 occur, through present manifestation or through endowment?

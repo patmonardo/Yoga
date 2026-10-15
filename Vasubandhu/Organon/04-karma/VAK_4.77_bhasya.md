@@ -63,7 +63,7 @@ The complete unit is `[247|01]–[247|17]`. The running witness reads
 remain visible. VAK 4.78 begins at `[247|18]` with hostility and false view
 before asking why the ten are called courses of karma.
 
-## 3. Continuous Scientific English Rendering
+## 3. Continuous Conventional Translation
 
 “Others say that afflicted speech other than these is disordered
 discourse.” According to this position, afflicted speech other than false

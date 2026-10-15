@@ -14,7 +14,7 @@ kṣāntyanāgāmitārhattvaprāptau karmātivighnakṛt // 4.107 //
 The first half completes the set begun in 4.106. The second half introduces
 three distinct attainment thresholds and their corresponding obstructions.
 
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
 ```iast
 ānantaryasabhāgāni pañcamaṃ stūpabhedanam / [4.107a]
@@ -46,7 +46,7 @@ readability. The phrase `mūrdhabhyaḥ kṣāntim ākirata` is difficult in the
 witness; its contextual sense is movement from the summit stage toward
 `kṣānti`.
 
-## 3. Continuous Scientific English Rendering
+## 3. Continuous Conventional Translation
 
 The analogues of the immediate-result actions; destruction of a stūpa is
 the fifth. These five correspond in order to the five immediate-result

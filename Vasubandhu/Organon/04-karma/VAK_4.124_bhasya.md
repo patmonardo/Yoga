@@ -14,7 +14,7 @@ caturṇāṃ brāhmapuṇyatvaṃ kalpaṃ svargeṣu modanāt // 4.124 //
 `Prādhānyāt` marks predominance, not an exclusive result. The four persons
 are not identified in this local passage.
 
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
 ```iast
 svargāya śīlaṃ prādhānyāt visaṃyogāya bhāvanā /
@@ -39,7 +39,7 @@ The source span is `[274|05]–[274|13]`. The witness reads `sutra` at
 `[274|07]`, normalized here as `sūtra`. The next topic begins at
 `[274|14]`.
 
-## 3. Continuous Scientific English Rendering
+## 3. Continuous Conventional Translation
 
 “Discipline principally conduces to heaven; cultivation principally to
 disjunction.”

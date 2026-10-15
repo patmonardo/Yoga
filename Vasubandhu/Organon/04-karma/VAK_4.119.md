@@ -19,11 +19,6 @@ the Bhāṣya explicitly counts six causes.
 
 ## 3. Lexical Analysis
 
-```text
-pṛṣṭham | kṣetram | adhiṣṭhānam | prayogaḥ | cetanā | āśayaḥ |
-eṣām | mṛdu-adhimātratvāt | karma-mṛdu-adhimātratā
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | `pṛṣṭham` | nominative singular neuter | subsequent repetition of what has been done |
@@ -64,12 +59,12 @@ eṣām mṛdu-adhimātratvāt
 
 ## 5. Translation
 
-### Scientific English Rendering
+### Literal
 
 > Repetition, field, action-course, undertaking, volition, and resolve:
 > according to whether these are mild or intense, action is mild or intense.
 
-### Bhāṣya-informed study translation
+### Bhāṣya-informed
 
 > Repetition, field, action-course, undertaking, volition, and resolve:
 > according to whether these are mild or intense, action is mild or intense.
@@ -87,14 +82,7 @@ provided by the Bhāṣya.
 
 ## 6. Philosophical Translation
 
-> The action is not weighted by volition in isolation. The Bhāṣya gives
-> volition a precise and decisive function: it completes the action-course.
-> That function is distinct from the resolve that frames what one will or
-> will not do, from the bodily or verbal undertaking, and from the course
-> enacted in a field. Repetition can further determine the action after it
-> has been performed. Karmic weight emerges through these distinguishable
-> factors; sometimes one factor is sufficient for heaviness, while the
-> convergence of all six establishes the extreme case.
+> Repetition, field, action-course, undertaking, volition, and resolve: according to whether these are mild or intense, action is mild or intense.
 
 ## 7. Technical Vocabulary
 
@@ -160,6 +148,17 @@ The source span is `[271|08]–[271|18]`. The witness reads `prayiogaḥ`
 in the verse, normalized here as `prayogaḥ`, and `mātāitroḥ` in the
 parental example, normalized as `mātāpitror`. The next question at
 `[271|19]` concerns when an action is said to be done and accumulated.
+
+### Former Philosophical Translation
+
+> The action is not weighted by volition in isolation. The Bhāṣya gives
+> volition a precise and decisive function: it completes the action-course.
+> That function is distinct from the resolve that frames what one will or
+> will not do, from the bodily or verbal undertaking, and from the course
+> enacted in a field. Repetition can further determine the action after it
+> has been performed. Karmic weight emerges through these distinguishable
+> factors; sometimes one factor is sufficient for heaviness, while the
+> convergence of all six establishes the extreme case.
 
 ## 10. OWL++ Seed
 

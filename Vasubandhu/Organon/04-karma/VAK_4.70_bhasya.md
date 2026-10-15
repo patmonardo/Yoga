@@ -39,7 +39,7 @@ The complete unit is `[242|06]–[242|12]`. The running witness reads
 silently repaired to the expected `pāruṣyāṇām`. The first half of VAK 4.71
 begins at `[242|13]` with the completion root of false view.
 
-## 3. Continuous Scientific English Rendering
+## 3. Continuous Conventional Translation
 
 It was said that not all courses of karma reach completion through greed
 and the other roots alike. Which course, then, reaches completion through

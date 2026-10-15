@@ -60,7 +60,7 @@ well as a difficult quotation at `[242|26]–[243|02]`; they remain visible
 rather than receiving silent repairs. The inquiry into the defining marks
 of each individual course begins at `[243|12]` and leads into VAK 4.73.
 
-## 3. Continuous Scientific English Rendering
+## 3. Continuous Conventional Translation
 
 Suppose someone arranges another person's death and then dies at the same
 time as that person or before them. Does the principal course of karma

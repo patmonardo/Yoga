@@ -11,7 +11,7 @@ bhikṣur dṛkcarito vṛttī bhinatty anyatra bāliśān /
 > elsewhere. Upon acceptance of another teacher and another path, the Saṅgha
 > is divided; that division does not last through the night.
 
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
 ```iast
 kaḥ punar eṣa saṃghaṃ bhinatti?
@@ -59,7 +59,7 @@ and punctuation in the continuous Sanskrit are editorial. The prose
 reading `ṛtastho` is retained without resolving its precise force beyond
 the contrast with `bhinnavṛtta`.
 
-## 3. Continuous Scientific English Rendering
+## 3. Continuous Conventional Translation
 
 Who, then, divides this Saṅgha? A monk governed by view and established in
 conduct divides it. A monk divides it, not a householder, a nun, or the

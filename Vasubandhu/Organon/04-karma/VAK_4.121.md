@@ -20,11 +20,6 @@ recipient who accepts or uses the gift.
 
 ## 3. Lexical Analysis
 
-```text
-caitye | tyāgānvayam | puṇyam | maitryādivat | agṛhṇati |
-ku-kṣetre | api | iṣṭa-phalatā | phala-bīja-aviparyayāt
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | `caitye` | locative singular neuter | at or with respect to a shrine |
@@ -71,13 +66,13 @@ the fruit or make it absent, but does not make the fruit undesirable.
 
 ## 5. Translation
 
-### Scientific English Rendering
+### Literal
 
 > At a shrine, merit connected with relinquishment arises as with
 > loving-kindness, even without a recipient. Even in a deficient field,
 > there is desirable fruit because fruit does not invert the seed.
 
-### Bhāṣya-informed study translation
+### Bhāṣya-informed
 
 > At a shrine, merit connected with relinquishment arises as with
 > loving-kindness, even without a recipient. Even in a deficient field,
@@ -97,13 +92,7 @@ the seed-and-field comparison are explained by the Bhāṣya.
 
 ## 6. Philosophical Translation
 
-> Benefit to a recipient is not the only source of merit. Relinquishment
-> has its own causal force, and mental cultivation can generate merit even
-> without a recipient's acceptance. But the bodily or verbal enactment of
-> devotion is not redundant: the Bhāṣya treats it as a stronger expression
-> of the underlying devotion. The field then conditions the result without
-> turning the gift-seed's desirable direction into an undesirable one; it
-> can diminish that result or leave it unrealized.
+> At a shrine, merit connected with relinquishment arises as with loving-kindness, even without a recipient. Even in a deficient field, there is desirable fruit because fruit does not invert the seed.
 
 ## 7. Technical Vocabulary
 
@@ -179,6 +168,16 @@ at `[272|07]`, normalized as `tyāgānvayaṃ`, and a compressed form near
 `dānakriyāvīja` at `[272|19–20]`. The interpretation of `agṛhṇati`
 follows the Bhāṣya's no-recipient explanation. The giving-based merit
 discussion closes at `[273|01]`.
+
+### Former Philosophical Translation
+
+> Benefit to a recipient is not the only source of merit. Relinquishment
+> has its own causal force, and mental cultivation can generate merit even
+> without a recipient's acceptance. But the bodily or verbal enactment of
+> devotion is not redundant: the Bhāṣya treats it as a stronger expression
+> of the underlying devotion. The field then conditions the result without
+> turning the gift-seed's desirable direction into an undesirable one; it
+> can diminish that result or leave it unrealized.
 
 ## 10. OWL++ Seed
 

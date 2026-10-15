@@ -16,11 +16,6 @@ alpopakārālajjitvāc cheṣe gatiṣu pañcasu // 4.97 //
 
 ## 3. Lexical Analysis
 
-```text
-triṣu | dvīpeṣu | ānantaryam | śaṇḍha-ādīnām | tu | na | iṣyate |
-alpa-upakārāt | alajjitvāt | śeṣe | gatiṣu | pañcasu
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | `triṣu` | locative masculine plural | in three |
@@ -86,14 +81,14 @@ non-percipient beings among gods as instances of the latter.
 
 ## 5. Translation
 
-### Scientific English Rendering
+### Literal
 
 > The *ānantarya* action-class is accepted in the three continents, but not
 > for persons classified as *śaṇḍha* and related cases, because of lesser
 > beneficence and absence of the relevant inhibition. The remaining two
 > obstructions are found in the five destinies.
 
-### Bhāṣya-informed study translation
+### Bhāṣya-informed
 
 > Among these obstructions, where is each to be understood? The actions of
 > *ānantarya* are admitted in the three continents—not in Uttarakuru, the
@@ -118,12 +113,7 @@ without equating it with any present-day identity.
 
 ## 6. Philosophical Translation
 
-> The technical classification of *ānantarya* is restricted by the source
-> to specified world-loci and agent conditions. The visible description of
-> an act is therefore not enough, within this system, to establish that
-> classification. The verse then distinguishes this restricted action-class
-> from affliction-obstruction and maturation-obstruction, whose scope
-> extends across the five destinies.
+> The *ānantarya* action-class is accepted in the three continents, but not for persons classified as *śaṇḍha* and related cases, because of lesser beneficence and absence of the relevant inhibition. The remaining two obstructions are found in the five destinies.
 
 ## 7. Technical Vocabulary
 
@@ -188,6 +178,15 @@ afflictive and maturation forms. The commentary's historical agent
 classification is ethically difficult; this study preserves its argument
 and attributions while refusing to project its categories onto present-day
 persons.
+
+### Former Philosophical Translation
+
+> The technical classification of *ānantarya* is restricted by the source
+> to specified world-loci and agent conditions. The visible description of
+> an act is therefore not enough, within this system, to establish that
+> classification. The verse then distinguishes this restricted action-class
+> from affliction-obstruction and maturation-obstruction, whose scope
+> extends across the five destinies.
 
 ## 10. OWL++ Seed
 

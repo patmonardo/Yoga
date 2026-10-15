@@ -21,11 +21,6 @@ second claim concerns other karma as well, not only the five analogues.
 
 ## 3. Lexical Analysis
 
-```text
-ānantarya-sabhāgāni | pañcamam | stūpa-bhedanam |
-kṣānti-anāgāmitā-arhattva-prāptau | karma | ati-vighna-kṛt
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | `ānantarya-sabhāgāni` | nominative neuter plural compound | analogous in character to the immediate-result actions |
@@ -63,13 +58,13 @@ maturation.”
 
 ## 5. Translation
 
-### Scientific English Rendering
+### Literal
 
 > The analogues of the immediate-result actions; destruction of a stūpa
 > is the fifth. Karma is a powerful obstruction at the attainments of
 > acceptance, non-returnership, and arhatship.
 
-### Bhāṣya-informed study translation
+### Bhāṣya-informed
 
 > The analogues of the immediate-result actions; destruction of a stūpa
 > is the fifth. Karma is a powerful obstruction at the attainments of
@@ -90,12 +85,7 @@ action necessarily prevents attainment.
 
 ## 6. Philosophical Translation
 
-> A Path threshold can become the point at which an action's maturation
-> presses most strongly. As the practitioner passes beyond the field in
-> which a result could ripen, that outstanding maturation acts like a
-> creditor appearing at the moment of departure. The obstruction is
-> transition-sensitive: its force is related to the maturation ground being
-> crossed, not to a general claim that all karma blocks every attainment.
+> The analogues of the immediate-result actions; destruction of a stūpa is the fifth. Karma is a powerful obstruction at the attainments of acceptance, non-returnership, and arhatship.
 
 ## 7. Technical Vocabulary
 
@@ -158,6 +148,15 @@ The source unit is `[265|01]–[265|10]`. Its opening through `[265|04]`
 overlaps 4.106 because the Bhāṣya completes the five analogues before
 turning to the three thresholds. The study stops before the next question
 at `[265|10–11]`.
+
+### Former Philosophical Translation
+
+> A Path threshold can become the point at which an action's maturation
+> presses most strongly. As the practitioner passes beyond the field in
+> which a result could ripen, that outstanding maturation acts like a
+> creditor appearing at the moment of departure. The obstruction is
+> transition-sensitive: its force is related to the maturation ground being
+> crossed, not to a general claim that all karma blocks every attainment.
 
 ## 10. OWL++ Seed
 

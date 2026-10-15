@@ -16,11 +16,6 @@ vyañjanāntarito 'pi syān mātā yacchoṇitodbhavaḥ // 4.103 //
 
 ## 3. Lexical Analysis
 
-```text
-upakāri-guṇa-kṣetra-nirākṛti-vipādanāt |
-vyañjana-antaritaḥ | api | syāt | mātā | yat-śoṇita-udbhavaḥ
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | `upakāri` | compound member from `upakārin` | benefactor; the Bhāṣya applies it to parents |
@@ -66,13 +61,13 @@ technical maternity and practical caregiving to the Bhāṣya.
 
 ## 5. Translation
 
-### Scientific English Rendering
+### Literal
 
 > Because of repudiating a benefactor and destroying a field of qualities.
 > Even with a change in sexual characteristic, parentage may remain; the
 > mother is the one from whose maternal blood the living being arose.
 
-### Bhāṣya-informed study translation
+### Bhāṣya-informed
 
 > The immediate-result classification arises from repudiating a benefactor
 > and destroying a field of qualities. A change in sexual characteristic
@@ -93,13 +88,7 @@ in the same passage.
 
 ## 6. Philosophical Translation
 
-> The exceptional classification depends on the relation that grounds the
-> action's target: parents are treated as benefactors through the origin of
-> the agent's embodied existence, while an arhat is treated as a field of
-> qualities. The maternity discussion distinguishes origin from bearing
-> and care, selecting one relation for the technical rule without denying
-> the others. The remaining cases show that intended target, actual victim,
-> and the target's status at the time of action are not interchangeable.
+> Because of repudiating a benefactor and destroying a field of qualities. Even with a change in sexual characteristic, parentage may remain; the mother is the one from whose maternal blood the living being arose.
 
 ## 7. Technical Vocabulary
 
@@ -173,6 +162,16 @@ technical question.
 
 The source unit runs from the question at `[262|20]` through the answer at
 `[263|23]`, ending before the next question at `[263|23–24]`.
+
+### Former Philosophical Translation
+
+> The exceptional classification depends on the relation that grounds the
+> action's target: parents are treated as benefactors through the origin of
+> the agent's embodied existence, while an arhat is treated as a field of
+> qualities. The maternity discussion distinguishes origin from bearing
+> and care, selecting one relation for the technical rule without denying
+> the others. The remaining cases show that intended target, actual victim,
+> and the target's status at the time of action are not interchangeable.
 
 ## 10. OWL++ Seed
 

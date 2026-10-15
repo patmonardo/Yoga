@@ -21,11 +21,6 @@ puṇyaṃ kriyātha tadvastu trayaṃ karmapathā yathā // 4.112 //
 
 ## 3. Lexical Analysis
 
-```text
-tiṣya-stotreṇa | vīryasya | dhī-samādhyoḥ | anantaram |
-puṇyam | kriyā | atha | tad-vastu | trayam | karma-pathāḥ | yathā
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | `tiṣya-stotreṇa` | instrumental singular compound | through praise of Tiṣya |
@@ -76,14 +71,14 @@ to their function.
 
 ## 5. Translation
 
-### Scientific English Rendering
+### Literal
 
 > Through praise of Tiṣya, vigor is completed; the Science of Principles
 > and concentration are completed immediately before awakening. Then, as
 > with paths of karma, the triad is merit, activity, and basis according
 > to function.
 
-### Bhāṣya-informed study translation
+### Bhāṣya-informed
 
 > Through praise of Tiṣya, vigor was completed; the Science of Principles
 > and concentration were completed immediately before awakening. Then, as
@@ -104,12 +99,7 @@ Bhāṣya.
 
 ## 6. Philosophical Translation
 
-> A perfection is completed at the threshold determined by its own
-> activity: vigor through praise of Tiṣya, and concentration and the
-> Science of Principles immediately before awakening. The later analysis
-> refuses to treat merit, activity, and basis as fixed synonyms. A factor's
-> role depends on its place in the concrete structure of giving, discipline,
-> or cultivation.
+> Through praise of Tiṣya, vigor is completed; the Science of Principles and concentration are completed immediately before awakening. Then, as with paths of karma, the triad is merit, activity, and basis according to function.
 
 ## 7. Technical Vocabulary
 
@@ -183,6 +173,15 @@ are placed in diamond-like concentration immediately before awakening.
 The source unit runs from `[267|10]` through `[268|08]`, including both
 successive topics and the transition to the three bases. It stops before
 the question about giving at `[268|09]`.
+
+### Former Philosophical Translation
+
+> A perfection is completed at the threshold determined by its own
+> activity: vigor through praise of Tiṣya, and concentration and the
+> Science of Principles immediately before awakening. The later analysis
+> refuses to treat merit, activity, and basis as fixed synonyms. A factor's
+> role depends on its place in the concrete structure of giving, discipline,
+> or cultivation.
 
 ## 10. OWL++ Seed
 

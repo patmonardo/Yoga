@@ -51,7 +51,7 @@ The running witness presents no major lacuna in this unit. Compounds and
 sandhi have been opened, and the phrase `dhātvapatitatvāt` has been retained
 without reducing `dhātu` and `bhūmi` to one undifferentiated spatial notion.
 
-## 3. Continuous Scientific English Rendering
+## 3. Continuous Conventional Translation
 
 Dharmas belonging to the same ground as the action stand as four results,
 with disconnection-result excluded.

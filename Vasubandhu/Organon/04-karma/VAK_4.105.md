@@ -16,11 +16,6 @@ bhavāgracetanā loke mahāphalatamā śubhe // 4.105 //
 
 ## 3. Lexical Analysis
 
-```text
-saṃgha-bhede | mṛṣā-vādaḥ | mahā-avadya-tamaḥ | mataḥ |
-bhava-agra-cetanā | loke | mahā-phala-tamā | śubhe
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | `saṃgha-bhede` | locative masculine singular | in the context of Saṅgha division |
@@ -70,13 +65,13 @@ names a different maximum for the fruit of disconnection.
 
 ## 5. Translation
 
-### Scientific English Rendering
+### Literal
 
 > In Saṅgha division, false speech is regarded as the most culpable.
 > Among wholesome actions in the world, volition at the summit of becoming
 > has the greatest fruit.
 
-### Bhāṣya-informed study translation
+### Bhāṣya-informed
 
 > Among the immediate-result actions, false speech producing Saṅgha
 > division is regarded as the most culpable. Among wholesome actions in
@@ -92,12 +87,7 @@ and disconnection-result are explained by the Bhāṣya.
 
 ## 6. Philosophical Translation
 
-> “Greatest” is relative to what is being compared and to the kind of
-> result being measured. Volition at the summit of becoming has the
-> greatest maturation-result within wholesome action in the world; it is
-> not thereby the greatest with respect to liberation. The volition of
-> diamond-like concentration is greatest on the distinct axis of
-> disconnection-result.
+> In Saṅgha division, false speech is regarded as the most culpable. Among wholesome actions in the world, volition at the summit of becoming has the greatest fruit.
 
 ## 7. Technical Vocabulary
 
@@ -166,6 +156,15 @@ The source unit runs from the question at `[264|03]` through the
 explanation of `loke` at `[264|21]`. It stops before the next question,
 on whether only immediate-result actions necessarily lead to rebirth in
 hell, at `[264|22]`.
+
+### Former Philosophical Translation
+
+> “Greatest” is relative to what is being compared and to the kind of
+> result being measured. Volition at the summit of becoming has the
+> greatest maturation-result within wholesome action in the world; it is
+> not thereby the greatest with respect to liberation. The volition of
+> diamond-like concentration is greatest on the distinct axis of
+> disconnection-result.
 
 ## 10. OWL++ Seed
 

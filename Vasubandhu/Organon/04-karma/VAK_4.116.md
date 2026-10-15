@@ -20,11 +20,6 @@ also retained, while the Bhāṣya explains the result as `yaśasvī bhavati`.
 
 ## 3. Lexical Analysis
 
-```text
-varṇa-ādi-sampadā | vastu | su-rūpatvam | yaśasvi | vā |
-priyatā | su-kumāra-ṛtu-sukha-sparśa-aṅgatā | tataḥ
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | `varṇādisampadā` | instrumental singular feminine compound | through excellence of color and the other qualities |
@@ -67,13 +62,13 @@ not add a fifth quality of the gift-object.
 
 ## 5. Translation
 
-### Scientific English Rendering
+### Literal
 
 > The gift-object is distinguished by excellence of color and the other
 > qualities. From giving such an object arise beauty, renown, belovedness,
 > delicacy of limbs, and limbs pleasant to touch according to the seasons.
 
-### Bhāṣya-informed study translation
+### Bhāṣya-informed
 
 > The gift-object is distinguished by excellence of color and the other
 > qualities. From giving such an object arise beauty, renown, belovedness,
@@ -89,12 +84,7 @@ Bhāṣya, not separately enumerated in the compact kārikā.
 
 ## 6. Philosophical Translation
 
-> Giving does not become determinate through intention alone: the thing
-> given has its own qualities and makes a particular form of benefit
-> available. The Bhāṣya reads maturation as corresponding to those
-> qualities, including two bodily outcomes from touch. This extends the
-> giver-side analysis of 4.115 without collapsing the giver, the gift-object,
-> or its results into one undifferentiated event.
+> The gift-object is distinguished by excellence of color and the other qualities. From giving such an object arise beauty, renown, belovedness, delicacy of limbs, and limbs pleasant to touch according to the seasons.
 
 ## 7. Technical Vocabulary
 
@@ -149,6 +139,15 @@ as a term in this kārikā. The source span is `[269|20]–[270|03]`. At
 `tad varṇa...`; at `[269|24–25]`, it reads `surūptvaṃ`, while the
 repository kārikā gives `surūpatvaṃ`. The next recipient-field question
 begins at `[270|04]`.
+
+### Former Philosophical Translation
+
+> Giving does not become determinate through intention alone: the thing
+> given has its own qualities and makes a particular form of benefit
+> available. The Bhāṣya reads maturation as corresponding to those
+> qualities, including two bodily outcomes from touch. This extends the
+> giver-side analysis of 4.115 without collapsing the giver, the gift-object,
+> or its results into one undifferentiated event.
 
 ## 10. OWL++ Seed
 

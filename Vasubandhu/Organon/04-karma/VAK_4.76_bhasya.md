@@ -49,7 +49,7 @@ at `[247|01]` with `ato 'nyat kliṣṭamityanye`, an attributed alternative
 definition of `saṃbhinnapralāpa`. This boundary corrects the earlier draft,
 which had carried that next half-verse and its prose into 4.76.
 
-## 3. Continuous Scientific English Rendering
+## 3. Continuous Conventional Translation
 
 “Divisive speech is the utterance of one whose consciousness is afflicted,
 directed toward dividing others.” Speech arising from afflicted consciousness

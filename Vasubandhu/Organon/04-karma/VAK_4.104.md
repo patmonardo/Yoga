@@ -21,11 +21,6 @@ person who becomes an arhat only after an earlier action. Its reading of
 
 ## 3. Lexical Analysis
 
-```text
-buddhe | na | tāḍana-icchasya | prahārān | na | ūrdhvam | arhati |
-na | ānantarya-prayuktasya | vairāgya-phala-saṃbhavaḥ
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | `buddhe` | locative masculine singular | in the Buddha case |
@@ -70,14 +65,14 @@ has become wholly opposed to it.
 
 ## 5. Translation
 
-### Scientific English Rendering
+### Literal
 
 > In the Buddha case, [there is no immediate-result classification] for
 > one whose intention is only to strike; nor [does it apply] when the person
 > becomes an arhat after the blow. For one engaged in an immediate-result
 > action, the possibility of dispassion or fruit does not arise.
 
-### Bhāṣya-informed study translation
+### Bhāṣya-informed
 
 > Intention merely to strike in the Buddha case does not produce the
 > immediate-result classification; nor does an earlier action against a
@@ -95,13 +90,7 @@ uncertain; the precise compound is not silently normalized here.
 
 ## 6. Philosophical Translation
 
-> The classification depends on the field toward which the action is
-> prepared and on that field's status at the time of preparation. A later
-> change in the victim's status does not retroactively alter the earlier
-> undertaking. The verse's final claim concerns an immediate-result
-> preparation; the Bhāṣya qualifies it as unreversed. In the contrasting
-> case, the arising of the noble Path changes the support so that an
-> incompatible ordinary action-course does not arise again.
+> In the Buddha case, [there is no immediate-result classification] for one whose intention is only to strike; nor [does it apply] when the person becomes an arhat after the blow. For one engaged in an immediate-result action, the possibility of dispassion or fruit does not arise.
 
 ## 7. Technical Vocabulary
 
@@ -164,6 +153,16 @@ The complete paired unit overlaps the previous commentary at
 `[263|18–23]`, includes the new question at `[263|23–24]` and verse at
 `[263|25]`, and ends with the explanation at `[264|01–02]`. It stops
 before the next question at `[264|03]`.
+
+### Former Philosophical Translation
+
+> The classification depends on the field toward which the action is
+> prepared and on that field's status at the time of preparation. A later
+> change in the victim's status does not retroactively alter the earlier
+> undertaking. The verse's final claim concerns an immediate-result
+> preparation; the Bhāṣya qualifies it as unreversed. In the contrasting
+> case, the arising of the noble Path changes the support so that an
+> incompatible ordinary action-course does not arise again.
 
 ## 10. OWL++ Seed
 

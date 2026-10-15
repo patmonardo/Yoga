@@ -18,7 +18,7 @@ te dve catvāry atha trīṇi bhāvanā-heya-karmaṇaḥ // 4.93 //
 > be abandoned as three results, excluding maturation and the corresponding
 > result.
 
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
 ```iast
 trīṇi catvāri caikaṃ ca dṛg-gheyasya tad-ādayaḥ /
@@ -39,7 +39,7 @@ The source unit is `[257|17]–[257|22]`. The prose distributes each count
 over the same three target classes. The kārikā's `dṛg-gheya` and the prose's
 `darśanaheya` refer here to the same class.
 
-## 3. Continuous Scientific English Rendering
+## 3. Continuous Conventional Translation
 
 For action to be abandoned through seeing, dharmas to be abandoned through
 seeing are three results, with maturation and disconnection excluded.

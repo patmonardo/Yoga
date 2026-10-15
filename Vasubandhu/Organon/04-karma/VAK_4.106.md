@@ -21,11 +21,6 @@ comfort. The commentary supplies the fifth member from the opening half of
 
 ## 3. Lexical Analysis
 
-```text
-dūṣaṇam | mātuḥ | arhantyāḥ | niyati-sthasya | māraṇam |
-bodhisattvasya | śaikṣasya | saṃghāya | dvāra-hārikā
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | `dūṣaṇam` | nominative neuter singular action noun | violation; the Bhāṣya specifies sexual misconduct |
@@ -68,13 +63,13 @@ Saṅgha's comfort.
 
 ## 5. Translation
 
-### Scientific English Rendering
+### Literal
 
 > Violation of one's mother when she is an arhat; killing a bodhisattva
 > established in certainty; killing a trainee; and taking away an access
 > or means associated with the Saṅgha's comfort.
 
-### Bhāṣya-informed study translation
+### Bhāṣya-informed
 
 > Violation of one's mother when she is an arhat; killing a bodhisattva
 > established in certainty; killing a trainee; and taking away an access
@@ -90,11 +85,7 @@ this kārikā.
 
 ## 6. Philosophical Translation
 
-> A course of action may resemble an established karmic class without
-> becoming numerically identical to it. Here the Bhāṣya groups five grave
-> acts by ordered analogy with the five immediate-result actions, yet
-> preserves a distinction over whether their result must immediately follow.
-> Similarity of structure does not erase difference of class or timing.
+> Violation of one's mother when she is an arhat; killing a bodhisattva established in certainty; killing a trainee; and taking away an access or means associated with the Saṅgha's comfort.
 
 ## 7. Technical Vocabulary
 
@@ -158,6 +149,14 @@ silently attributed to these two verses.
 The source unit for this verse-pair begins with the question at `[264|22]`
 and runs through the prose list at `[265|04]`. It includes the opening half
 of 4.107 because the Bhāṣya uses it to complete the five-member set.
+
+### Former Philosophical Translation
+
+> A course of action may resemble an established karmic class without
+> becoming numerically identical to it. Here the Bhāṣya groups five grave
+> acts by ordered analogy with the five immediate-result actions, yet
+> preserves a distinction over whether their result must immediately follow.
+> Similarity of structure does not erase difference of class or timing.
 
 ## 10. OWL++ Seed
 

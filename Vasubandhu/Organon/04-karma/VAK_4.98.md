@@ -16,11 +16,6 @@ akliṣṭāvyākṛto dharmaḥ saṃghas tena samanvitaḥ // 4.98 //
 
 ## 3. Lexical Analysis
 
-```text
-saṃgha-bhedaḥ | tu | asāmagrī-svabhāvaḥ | viprayuktakaḥ |
-akliṣṭa-avyākṛtaḥ | dharmaḥ | saṃghaḥ | tena | samanvitaḥ
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | `saṃgha-bhedaḥ` | nominative masculine singular compound | Saṅgha division; the resulting condition of non-concord |
@@ -70,12 +65,12 @@ is the Saṅgha, not the agent who caused the division.
 
 ## 5. Translation
 
-### Scientific English Rendering
+### Literal
 
 > But Saṅgha division has non-concord as its nature; it is a dissociated,
 > non-afflicted, indeterminate Dharma. The Saṅgha is endowed with it.
 
-### Bhāṣya-informed study translation
+### Bhāṣya-informed
 
 > The division itself must be distinguished from the action that produces
 > it. Strictly considered, Saṅgha division is the condition of non-concord,
@@ -89,10 +84,7 @@ Bhāṣya.
 
 ## 6. Philosophical Translation
 
-> The cause of a division and the divided condition are distinct
-> determinations. The action belongs to the divider; the resulting
-> non-concord is borne by the Saṅgha. Naming the cause by its result does
-> not make them one and the same Dharma.
+> But Saṅgha division has non-concord as its nature; it is a dissociated, non-afflicted, indeterminate Dharma. The Saṅgha is endowed with it.
 
 ## 7. Technical Vocabulary
 
@@ -146,6 +138,13 @@ causal action, while the Saṅgha is endowed with the resulting non-concord.
 The result's classification as non-afflicted and indeterminate is not a
 reclassification of the action that produced it. The Bhāṣya thereby
 separates causal agency, conditioned result, and bearer.
+
+### Former Philosophical Translation
+
+> The cause of a division and the divided condition are distinct
+> determinations. The action belongs to the divider; the resulting
+> non-concord is borne by the Saṅgha. Naming the cause by its result does
+> not make them one and the same Dharma.
 
 ## 10. OWL++ Seed
 

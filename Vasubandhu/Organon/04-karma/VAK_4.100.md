@@ -16,11 +16,6 @@ bhikṣur dṛkcarito vṛttī bhinatty anyatra bāliśān /
 
 ## 3. Lexical Analysis
 
-```text
-bhikṣuḥ | dṛk-caritaḥ | vṛttī | bhinatti | anyatra | bāliśān |
-śāstṛ-antara-mārga-antara-kṣāntau | bhinnaḥ | na | vivasati | asau
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | `bhikṣuḥ` | nominative masculine singular | the monk who effects the division |
@@ -67,13 +62,13 @@ reunited before the night has elapsed.
 
 ## 5. Translation
 
-### Scientific English Rendering
+### Literal
 
 > A monk governed by view and established in conduct divides the immature
 > elsewhere. Upon acceptance of another teacher and another path, the Saṅgha
 > is divided; that division does not last through the night.
 
-### Bhāṣya-informed study translation
+### Bhāṣya-informed
 
 > A monk governed by view and established in conduct divides the immature
 > elsewhere. Upon acceptance of another teacher and another path, the Saṅgha
@@ -88,11 +83,7 @@ opening prose question's `bhanatti` is normalized to `bhinatti`.
 
 ## 6. Philosophical Translation
 
-> A collective division is completed not by the divider's standing or
-> utterance alone, but when susceptible members accept both a different
-> teacher and a different path. This recognized alternative establishes a
-> temporary non-concord in the Saṅgha, which is necessarily repaired before
-> the night has passed.
+> A monk governed by view and established in conduct divides the immature elsewhere. Upon acceptance of another teacher and another path, the Saṅgha is divided; that division does not last through the night.
 
 ## 7. Technical Vocabulary
 
@@ -136,6 +127,14 @@ recognition conditions of this form of Saṅgha division. The damaged
 marked in the paired study. The discussion distinguishes this collective
 result from 4.99's culpable verbal action without inserting *cetanā* where
 the passage does not name it.
+
+### Former Philosophical Translation
+
+> A collective division is completed not by the divider's standing or
+> utterance alone, but when susceptible members accept both a different
+> teacher and a different path. This recognized alternative establishes a
+> temporary non-concord in the Saṅgha, which is necessarily repaired before
+> the night has passed.
 
 ## 10. OWL++ Seed
 

@@ -15,7 +15,7 @@ praṇītāḥ saṃskṛtaśubhāḥ sevyāḥ mokṣas tv anuttaraḥ // 4.127
 The Bhāṣya explicitly glosses `praṇīta` (“excellent”) as a designation
 for wholesome Dharmas without influx.
 
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
 ```iast
 dharmāṇām idānīṃ kecit paryāyā ucyante:
@@ -54,7 +54,7 @@ The verse and commentary occupy `[275|07]–[275|19]`; the colophon is at
 `[275|20–21]`. The witness reads `kusalasaṃskṛtānāṃ`; it is normalized
 here as `kuśalasaṃskṛtānāṃ`.
 
-## 3. Continuous Scientific English Rendering
+## 3. Continuous Conventional Translation
 
 “Now some alternative designations for Dharmas are stated:
 

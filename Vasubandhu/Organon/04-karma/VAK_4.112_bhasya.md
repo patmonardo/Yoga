@@ -17,7 +17,7 @@ the Tiṣya and perfection material before the explicit verse marker on the
 second line. The commentary proceeds from the perfections to the three
 bases of meritorious activity.
 
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
 ```iast
 tiṣyastotreṇa vīryasya
@@ -69,7 +69,7 @@ of co-arising factors at `[268|04–06]` is not expanded beyond its stated
 functional distinctions. The next question, “What is giving?”, starts
 at `[268|09]` and belongs to 4.113.
 
-## 3. Continuous Scientific English Rendering
+## 3. Continuous Conventional Translation
 
 Through the praise of Tiṣya, vigor was completed.
 

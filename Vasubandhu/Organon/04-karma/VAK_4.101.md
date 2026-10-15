@@ -16,11 +16,6 @@ karmabhedas triṣu dvīpeṣv aṣṭabhir adhikaiś ca saḥ // 4.101 //
 
 ## 3. Lexical Analysis
 
-```text
-cakra-bhedaḥ | saḥ | ca | mataḥ | jambū-dvīpe | nava-ādibhiḥ |
-karma-bhedaḥ | triṣu-dvīpeṣu | aṣṭabhiḥ | adhikaiḥ | ca | saḥ
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | `cakra-bhedaḥ` | nominative masculine singular compound | division of the Dharma Chakra |
@@ -69,13 +64,13 @@ the Bhāṣya does not derive that number as two groups of four.
 
 ## 5. Translation
 
-### Scientific English Rendering
+### Literal
 
 > That is held to be division of the wheel in Jambūdvīpa with nine or more;
 > division of communal action occurs in the three continents with eight or
 > more.
 
-### Bhāṣya-informed study translation
+### Bhāṣya-informed
 
 > The division of the Dharma Chakra described in the preceding verses is
 > held to be wheel-division in Jambūdvīpa with nine or more monks; division
@@ -90,11 +85,7 @@ their distribution.
 
 ## 6. Philosophical Translation
 
-> Collective division has distinct forms. In one, the operation of the Path
-> within the Dharma Chakra is displaced; in the other, communal action is
-> performed in a divided manner within one shared boundary. The two forms
-> differ in what is divided, where they occur, and the stated minimum
-> number of monks.
+> That is held to be division of the wheel in Jambūdvīpa with nine or more; division of communal action occurs in the three continents with eight or more.
 
 ## 7. Technical Vocabulary
 
@@ -149,6 +140,14 @@ stops before the next question, on the six times when `cakrabheda` does
 not occur, at `[262|10]`. The witness phrase `cakrādaścocyate` is
 retained and interpreted by context as naming both wheel-division and
 Saṅgha-division.
+
+### Former Philosophical Translation
+
+> Collective division has distinct forms. In one, the operation of the Path
+> within the Dharma Chakra is displaced; in the other, communal action is
+> performed in a divided manner within one shared boundary. The two forms
+> differ in what is divided, where they occur, and the stated minimum
+> number of monks.
 
 ## 10. OWL++ Seed
 

@@ -21,7 +21,7 @@ ayogavihitaṃ kliṣṭaṃ vidhibhraṣṭaṃ ca kecana // 4.94 //
 > properly constituted and not deviating from procedure, with action outside
 > these classes neither properly nor improperly constituted.
 
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
 ```iast
 apraheyasya te tv ekaṃ dve catvāri yathākramam /
@@ -56,7 +56,7 @@ different accounts of action constitution. The witness reads `karmaṃ` in
 `kuśalaṃ karmaṃ` at `[258|08–09]`; the continuous text above normalizes this
 to `karma`.
 
-## 3. Continuous Scientific English Rendering
+## 3. Continuous Conventional Translation
 
 For action not to be abandoned, dharmas to be abandoned through seeing are
 one result: the dominant result. Dharmas to be abandoned through cultivation

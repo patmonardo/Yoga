@@ -14,7 +14,7 @@ pratikṣiptāc ca buddhena viśuddhaṃ tu caturguṇam // 4.122 //
 The Bhāṣya first explains the two modes of abstention, then quotes 4.123a
 to identify the four qualities of purified discipline.
 
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
 ```iast
 śīlamayaṃ vaktavyam. tad ucyate:
@@ -64,7 +64,7 @@ The witness has `dauḥśītlama` at `[273|03]`, `dauḥśītyena` at
 are local normalizations. The alternative accounts are explicitly
 attributed to `apare`, “other teachers.”
 
-## 3. Continuous Scientific English Rendering
+## 3. Continuous Conventional Translation
 
 The discipline-based basis of meritorious action is to be explained. It
 is stated:

@@ -14,7 +14,7 @@ priyatā sukumārartusukhasparśāṅgatā tataḥ // 4.116 //
 The Bhāṣya specifies four qualities of the thing given and pairs them in
 order with the results. Touch carries two related bodily results.
 
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
 ```iast
 atha vastu kathaṃ viśiṣyate?
@@ -44,7 +44,7 @@ repository kārikā reading `surūpatvaṃ` is used in the anchor. The verse's
 `yaśasvi vā` is retained, while the prose specifies `yaśasvī bhavati`.
 The recipient-field question begins at `[270|04]`.
 
-## 3. Continuous Scientific English Rendering
+## 3. Continuous Conventional Translation
 
 How is the thing given distinguished? The phrase “through excellence of
 color and the other qualities” means that the thing given is distinguished.

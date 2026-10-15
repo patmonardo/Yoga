@@ -14,7 +14,7 @@ parivārād vipākāc ca karmopacitam ucyate // 4.120 //
 The Bhāṣya counts five conditions. It treats absence of remorse and absence
 of an opposing factor together as one.
 
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
 ```iast
 kṛtaṃ copacitaṃ ca karmocyate. kathaṃ karmopacitaṃ bhavati?
@@ -46,7 +46,7 @@ in the first explanatory question, normalized here as `saṃcetanataḥ`.
 At `[272|02]` it has the compressed `vipākadāna niyataṃ`, parsed here
 as `vipākadāne niyatam`.
 
-## 3. Continuous Scientific English Rendering
+## 3. Continuous Conventional Translation
 
 An action is called both done and accumulated. How does an action become
 accumulated? Through five conditions:

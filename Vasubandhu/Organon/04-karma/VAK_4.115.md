@@ -20,11 +20,6 @@ them, in order, with four features of the result.
 
 ## 3. Lexical Analysis
 
-```text
-dātā | viśiṣṭaḥ | śraddhā-ādyaiḥ | sat-kṛtya | ādi | dadāti |
-ataḥ | satkāra | udāra-ruci | kāla | an-ācchedya-lābhitā
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | `dātā` | nominative masculine singular agent noun | giver |
@@ -80,14 +75,14 @@ them. It likewise expands the result-complex into four distinct outcomes.
 
 ## 5. Translation
 
-### Scientific English Rendering
+### Literal
 
 > A giver distinguished by faith and related qualities gives respectfully
 > and in other specified ways. Consequently, there is receipt of honor,
 > taste for excellent enjoyments, timely acquisition, and acquisition not
 > liable to seizure or destruction.
 
-### Bhāṣya-informed study translation
+### Bhāṣya-informed
 
 > A giver distinguished by faith and related qualities gives respectfully
 > and in other specified ways. Consequently, there is receipt of honor,
@@ -105,11 +100,7 @@ examples of seizure and destruction are supplied by the Bhāṣya.
 
 ## 6. Philosophical Translation
 
-> The giver's qualities become manifest in the manner of the deed, and
-> the Bhāṣya maps those manners to corresponding features of maturation.
-> Respect, personal involvement, timing, and non-injury are not interchangeable
-> descriptions: each has its own stated result. This is the giver-axis of
-> giving's distinction, not a general empirical law about wealth or security.
+> A giver distinguished by faith and related qualities gives respectfully and in other specified ways. Consequently, there is receipt of honor, taste for excellent enjoyments, timely acquisition, and acquisition not liable to seizure or destruction.
 
 ## 7. Technical Vocabulary
 
@@ -171,6 +162,14 @@ preceding `anācchedya`. The translation follows the explanatory prose,
 which says the enjoyments are not taken by others or destroyed by fire and
 similar causes. The study stops before the question about the thing given
 at `[269|20]`.
+
+### Former Philosophical Translation
+
+> The giver's qualities become manifest in the manner of the deed, and
+> the Bhāṣya maps those manners to corresponding features of maturation.
+> Respect, personal involvement, timing, and non-injury are not interchangeable
+> descriptions: each has its own stated result. This is the giver-axis of
+> giving's distinction, not a general empirical law about wealth or security.
 
 ## 10. OWL++ Seed
 

@@ -12,7 +12,7 @@ karmabhedas triṣu dvīpeṣv aṣṭabhir adhikaiś ca saḥ // 4.101 //
 > of communal action occurs in the three continents where the Teaching is
 > established, with eight or more monks.
 
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
 ```iast
 yo 'yaṃ saṃghabheda uktaḥ
@@ -56,7 +56,7 @@ the preceding sentence about reunion, and ends with the verse at
 the context identifies the names as `cakrabheda` and `saṃghabheda`.
 Word division and punctuation are editorial.
 
-## 3. Continuous Scientific English Rendering
+## 3. Continuous Conventional Translation
 
 The Saṅgha division just described is held to be division of the Dharma
 Chakra. For the Blessed One's Dharma Chakra is then divided through

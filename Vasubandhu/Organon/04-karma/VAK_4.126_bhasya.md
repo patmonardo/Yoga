@@ -14,7 +14,7 @@ lipimudre sagaṇanaṃ kāvyaṃ saṃkhyā yathākramam // 4.126 //
 The Bhāṣya identifies the three modes as bodily, verbal, and mental
 action.
 
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
 ```iast
 yad idaṃ loke ucyate lipimudrāgaṇanā kāvyaṃ saṃkhyeti,
@@ -36,7 +36,7 @@ The source span is `[275|01]–[275|06]`. The kārikā's
 transmitted. The Bhāṣya resolves the otherwise compressed sequence of
 activities by assigning each group to a mode of action.
 
-## 3. Continuous Scientific English Rendering
+## 3. Continuous Conventional Translation
 
 “What is the nature of the worldly practices called writing, sealing,
 calculation, poetry, and reckoning?

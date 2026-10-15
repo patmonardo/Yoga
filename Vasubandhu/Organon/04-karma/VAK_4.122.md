@@ -20,11 +20,6 @@ quoting 4.123a.
 
 ## 3. Lexical Analysis
 
-```text
-dauḥśīlyam | aśubham | rūpam | śīlam | tad-viratiḥ | dvidhā |
-pratikṣiptāt | ca | buddhena | viśuddham | tu | catur-guṇam
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | `dauḥśīlyam` | nominative singular neuter | misconduct |
@@ -72,13 +67,13 @@ qualities the Bhāṣya supplies by quoting the first half of 4.123.
 
 ## 5. Translation
 
-### Scientific English Rendering
+### Literal
 
 > Misconduct is unwholesome Form; discipline is abstention from it in two
 > modes, and also abstention from what the Buddha has prohibited. Purified
 > discipline, however, has four qualities.
 
-### Bhāṣya-informed study translation
+### Bhāṣya-informed
 
 > Misconduct is unwholesome Form; discipline is abstention from it in two
 > modes, and also abstention from what the Buddha has prohibited. Purified
@@ -96,14 +91,7 @@ eating, and the four qualities are explained in the Bhāṣya.
 
 ## 6. Philosophical Translation
 
-> Discipline is not mere non-occurrence. It is an abstention with two
-> distinguishable determinations: its manifestation and the
-> non-disclosing continuity that is the abstention itself. Its scope also
-> depends on the training undertaken: some conduct is unwholesome by
-> nature, while other conduct becomes misconduct through violating a
-> received prohibition. Purified discipline further requires freedom
-> from misconduct and its causes, support from its counteragent, and
-> orientation toward nirvāṇa.
+> Misconduct is unwholesome Form; discipline is abstention from it in two modes, and also abstention from what the Buddha has prohibited. Purified discipline, however, has four qualities.
 
 ## 7. Technical Vocabulary
 
@@ -173,6 +161,17 @@ quotation of 4.123a, which supplies the four qualities. The witness has
 `dauḥśītlama`, `dauḥśītyena`, and `nirvāṇapariṇāmitavāt`; the readable
 forms in the paired study are local normalizations. The next study
 continues with the second half of 4.123 at `[273|23]`.
+
+### Former Philosophical Translation
+
+> Discipline is not mere non-occurrence. It is an abstention with two
+> distinguishable determinations: its manifestation and the
+> non-disclosing continuity that is the abstention itself. Its scope also
+> depends on the training undertaken: some conduct is unwholesome by
+> nature, while other conduct becomes misconduct through violating a
+> received prohibition. Purified discipline further requires freedom
+> from misconduct and its causes, support from its counteragent, and
+> orientation toward nirvāṇa.
 
 ## 10. OWL++ Seed
 

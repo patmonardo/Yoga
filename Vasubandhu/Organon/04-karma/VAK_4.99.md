@@ -16,11 +16,6 @@ avīcau pacyate kalpam adhikair adhikā rujaḥ // 4.99 //
 
 ## 3. Lexical Analysis
 
-```text
-tat-avyadyam | mṛṣā-vādaḥ | tena | bhettā | samanvitaḥ |
-avīcau | pacyate | kalpam | adhikaiḥ | adhikāḥ | rujaḥ
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | `tat-avadyaṃ` | nominative neuter singular | the culpable action associated with that division |
@@ -80,13 +75,13 @@ causes of pain.
 
 ## 5. Translation
 
-### Scientific English Rendering
+### Literal
 
 > The culpable action associated with that is false speech, and the divider
 > is endowed with it. He undergoes maturation in Avīci for a kalpa; with
 > additional actions of *ānantarya*, the pains are greater.
 
-### Bhāṣya-informed study translation
+### Bhāṣya-informed
 
 > The culpable action that produces the Saṅgha's division is false speech,
 > and it is this verbal action—not the community's condition of non-concord—
@@ -102,11 +97,7 @@ duration, and explanation of increased pain are Bhāṣya determinations.
 
 ## 6. Philosophical Translation
 
-> The divider's culpable speech belongs to the agent; the non-concord it
-> produces belongs to the Saṅgha; the later maturation belongs to the
-> divider's continuum. One causal course links these distinct determinations
-> without collapsing action, collective result, and experienced maturation
-> into one bearer or one moment.
+> The culpable action associated with that is false speech, and the divider is endowed with it. He undergoes maturation in Avīci for a kalpa; with additional actions of *ānantarya*, the pains are greater.
 
 ## 7. Technical Vocabulary
 
@@ -166,6 +157,14 @@ divider, then describes the maturation of that action. The Bhāṣya's
 account of multiple actions intensifying the painful support resolves the
 question of how several *ānantarya* actions relate without treating each
 as a separate intervening birth.
+
+### Former Philosophical Translation
+
+> The divider's culpable speech belongs to the agent; the non-concord it
+> produces belongs to the Saṅgha; the later maturation belongs to the
+> divider's continuum. One causal course links these distinct determinations
+> without collapsing action, collective result, and experienced maturation
+> into one bearer or one moment.
 
 ## 10. OWL++ Seed
 

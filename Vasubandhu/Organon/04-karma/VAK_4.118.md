@@ -19,11 +19,6 @@ denotes one recipient: a Bodhisattva in the final birth.
 
 ## 3. Lexical Analysis
 
-```text
-mātṛ-pitṛ-glāna-dhārma-kathikebhyaḥ | antya-janmane |
-bodhisattvāya | ca | ameyā | anāryebhyaḥ | api | dakṣiṇā
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | `mātṛ-pitṛ-glāna-dhārma-kathikebhyaḥ` | dative plural compound | to mother, father, a sick person, and a Dharma speaker |
@@ -58,13 +53,13 @@ It does not make the five recipients into one spiritual-status class.
 
 ## 5. Translation
 
-### Scientific English Rendering
+### Literal
 
 > An offering to one's mother, father, a sick person, a Dharma speaker, or
 > a Bodhisattva in the final birth is immeasurable, even when these
 > recipients are not noble persons.
 
-### Bhāṣya-informed study translation
+### Bhāṣya-informed
 
 > An offering to one's mother, father, a sick person, a Dharma speaker, or
 > a Bodhisattva in the final birth is immeasurable, even when these
@@ -81,12 +76,7 @@ of the Dharma speaker among benefactors come from the Bhāṣya.
 
 ## 6. Philosophical Translation
 
-> The field of an offering is not measured by the recipient's noble status
-> alone. The Bhāṣya identifies distinct grounds: prior relation to parents,
-> present need in the sick, beneficent instruction from the Dharma speaker,
-> and the Bodhisattva's final birth. The Dharma speaker's field extends
-> through what the instruction enables in others; this is why the Bhāṣya
-> places the speaker among benefactors.
+> An offering to one's mother, father, a sick person, a Dharma speaker, or a Bodhisattva in the final birth is immeasurable, even when these recipients are not noble persons.
 
 ## 7. Technical Vocabulary
 
@@ -163,6 +153,15 @@ preceding the kārikā. At `[271|04–05]`, the witness reads
 it reads `ātinivartayitā`; `abhinirvartayitā` is also conjectural. The
 translation marks the latter phrase's verb as uncertain rather than
 presenting the correction as certain.
+
+### Former Philosophical Translation
+
+> The field of an offering is not measured by the recipient's noble status
+> alone. The Bhāṣya identifies distinct grounds: prior relation to parents,
+> present need in the sick, beneficent instruction from the Dharma speaker,
+> and the Bodhisattva's final birth. The Dharma speaker's field extends
+> through what the instruction enables in others; this is why the Bhāṣya
+> places the speaker among benefactors.
 
 ## 10. OWL++ Seed
 

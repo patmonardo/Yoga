@@ -40,7 +40,7 @@ The witness reads `kuśalsya` at `[256|06–07]`, normalized above to
 `kuśalasya`. Its `strīṇi` at `[256|07–08]` is resolved by segmentation as
 `avyākṛtās trīṇi`, “indeterminate dharmas, three.”
 
-## 3. Continuous Scientific English Rendering
+## 3. Continuous Conventional Translation
 
 Action without Influx outside the Path of Abandonment possesses three results,
 with maturation and disconnection excluded. Indeterminate action likewise

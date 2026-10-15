@@ -16,11 +16,6 @@ ayogavihitaṃ kliṣṭaṃ vidhibhraṣṭaṃ ca kecana // 4.94 //
 
 ## 3. Lexical Analysis
 
-```text
-apraheyasya | te | tu | ekam | dve | catvāri | yathākramam |
-ayogavihitam | kliṣṭam | vidhibhraṣṭam | ca | kecana
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | `apraheyasya` | genitive singular | of action not to be abandoned |
@@ -74,13 +69,13 @@ they should not be collapsed into one unqualified definition.
 
 ## 5. Translation
 
-### Scientific English Rendering
+### Literal
 
 > For action not to be abandoned, those same result classes have respectively
 > one, two, and four results. Some classify afflicted action, and also action
 > deviating from prescribed procedure, as improperly constituted.
 
-### Bhāṣya-informed study translation
+### Bhāṣya-informed
 
 > Action not to be abandoned has, in order, one, two, and four results when
 > related to dharmas to be abandoned through seeing, to be abandoned through
@@ -98,14 +93,7 @@ they should not be collapsed into one unqualified definition.
 
 ## 6. Philosophical Translation
 
-> The final action-status row preserves causal efficacy while excluding
-> maturation: action not to be abandoned can still stand in corresponding,
-> disconnection, activity-produced, and dominant relations to dharmas not to
-> be abandoned. The discussion then shifts from which results an action can
-> have to how action is constituted. The Bhāṣya preserves distinct accounts
-> of improper constitution—arising from non-methodical attention and
-> deviation from appropriate procedure—rather than silently reducing them
-> to a single criterion.
+> For action not to be abandoned, those same result classes have respectively one, two, and four results. Some classify afflicted action, and also action deviating from prescribed procedure, as improperly constituted.
 
 ## 7. Technical Vocabulary
 
@@ -159,6 +147,17 @@ membership to the constitution of action. The Bhāṣya reports differing
 accounts and preserves their attributions; afflicted origin and procedural
 deviation remain distinguishable criteria rather than an imposed,
 universalized rule.
+
+### Former Philosophical Translation
+
+> The final action-status row preserves causal efficacy while excluding
+> maturation: action not to be abandoned can still stand in corresponding,
+> disconnection, activity-produced, and dominant relations to dharmas not to
+> be abandoned. The discussion then shifts from which results an action can
+> have to how action is constituted. The Bhāṣya preserves distinct accounts
+> of improper constitution—arising from non-methodical attention and
+> deviation from appropriate procedure—rather than silently reducing them
+> to a single criterion.
 
 ## 10. OWL++ Seed
 

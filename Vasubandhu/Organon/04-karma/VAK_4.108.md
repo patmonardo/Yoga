@@ -20,11 +20,6 @@ beginning of action whose maturation produces the marks.
 
 ## 3. Lexical Analysis
 
-```text
-bodhisattvaḥ | kutaḥ | yāvat | yataḥ | lakṣaṇa-karma-kṛt |
-su-gatiḥ | kula-jaḥ | a-vyakṣaḥ | pumān | jāti-smaraḥ | a-nivṛt
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | `bodhisattvaḥ` | nominative masculine singular | the person whose technical designation is being defined |
@@ -64,14 +59,14 @@ sugatiḥ | kulajaḥ | avyakṣaḥ | pumān | jātismaraḥ | anivṛt
 
 ## 5. Translation
 
-### Scientific English Rendering
+### Literal
 
 > From what point onward is one called a bodhisattva? From the time one
 > undertakes action whose maturation produces the marks. Thereafter: a
 > favorable rebirth destination, birth in an eminent family, unimpaired
 > faculties, male embodiment, memory of former births, and non-retrogression.
 
-### Bhāṣya-informed study translation
+### Bhāṣya-informed
 
 > From what point onward is one called a bodhisattva? From the time one
 > undertakes action whose maturation produces the marks. Thereafter: a
@@ -90,11 +85,7 @@ language are likewise attributed to the source.
 
 ## 6. Philosophical Translation
 
-> The technical designation begins not with aspiration alone, nor only when
-> the marks are already manifest, but when action whose maturation is those
-> marks has begun. The Bhāṣya treats this as entry into certainty: a future
-> career is now organized through recurring rebirth, faculties, memory, and
-> practical non-retrogression.
+> From what point onward is one called a bodhisattva? From the time one undertakes action whose maturation produces the marks. Thereafter: a favorable rebirth destination, birth in an eminent family, unimpaired faculties, male embodiment, memory of former births, and non-retrogression.
 
 ## 7. Technical Vocabulary
 
@@ -157,6 +148,14 @@ welfare when faced with suffering or opposition.
 The source unit is `[265|10–11]–[265|26]`. It stops before the next question
 at `[265|26–27]`, which introduces how the action producing the marks is
 undertaken.
+
+### Former Philosophical Translation
+
+> The technical designation begins not with aspiration alone, nor only when
+> the marks are already manifest, but when action whose maturation is those
+> marks has begun. The Bhāṣya treats this as entry into certainty: a future
+> career is now organized through recurring rebirth, faculties, memory, and
+> practical non-retrogression.
 
 ## 10. OWL++ Seed
 

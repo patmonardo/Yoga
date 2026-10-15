@@ -94,7 +94,7 @@ discussion with a deliberately non-explanatory resolution. These features
 remain visible. The sūtra classification of sixteen modes of assertion
 begins a new inquiry at `[245|09]` and leads into VAK 4.75.
 
-## 3. Continuous Scientific English Rendering
+## 3. Continuous Conventional Translation
 
 “Sexual misconduct is fourfold approach to what is not to be approached.”
 Sexual approach to what is not to be approached has four forms. One may
