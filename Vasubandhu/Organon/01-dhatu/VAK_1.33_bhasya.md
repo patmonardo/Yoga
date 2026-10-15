@@ -1,4 +1,4 @@
-# VAK_1.33 Bhāṣya — Three Forms of Vikalpa in the Principle System
+# VAK_1.33 Bhāṣya — Without the Other Two
 
 ## 1. Kārikā Anchor
 
@@ -6,245 +6,66 @@
 >
 > tau prajñā mānasī vyagrā smṛtiḥ sarvaiva mānasī // 1.33 //
 
-### Bhāṣya-informed study translation
+> They are without vikalpa in respect of examining and recollective vikalpa. Those two are unconcentrated mental prajñā, and all mental smṛti.
 
-> Sensory cognition is called non-discriminative only because it lacks the developed forms of determining and recollective vikalpa; it still possesses intrinsic vikalpa, identified with vitarka. Determining vikalpa is unconcentrated prajñā associated with mental cognition, while recollective vikalpa is specifically mental smṛti, whether concentrated or unconcentrated.
+## 2. Continuous Sanskrit Witness
 
-This translation preserves the relative force of `avikalpaka` and prevents
-“nonconceptual” from being mistaken for cognitively blank sensation.
-
-### Anchor note
-
-The supplied subject comes from the preceding verse and the Bhāṣya's
-opening question. Prajñā is provisionally glossed here as discernment,
-smṛti as memory or recollective retention, and vikalpa as discrimination.
-The Sanskrit terms remain visible because their precise scope is the
-subject of the passage.
-## 2. Continuous Sanskrit
-
-> yadi pañca vijñānakāyāḥ savitarkāḥ savicārāḥ kathamavikalpakā ityucyante /
+> yadi pañca vijñānadhātavo vitarkavicārābhyāṃ saṃprayuktāḥ katham avikalpakā ity ucyante /
 >
 > nirūpaṇānusmaraṇavikalpenāvikalpakāḥ /
 >
-> trividhaḥ kila vikalpaḥ /
-> svabhāvābhinirūpaṇānusmaraṇavikalpaḥ /
+> trividho hi vikalpaḥ / svabhāvābhinirūpaṇānusmaraṇavikalpaḥ /
 >
-> tadeṣāṃ svabhāvavikalpo 'sti /
+> teṣāṃ svabhāvavikalpo 'sti na tu itarau / ato 'vikalpakā ity ucyante / ekapādako 'śvo 'pādaka iti yadvat /
 >
-> netarau /
-> tasmādavikalpakā ityucyante /
+> tatra svabhāvavikalpo vitarkaḥ / sa tu caitasikeṣu nirdiṣṭaḥ /
 >
-> yathā ekapādako 'śvo 'pādaka iti /
+> itarau punar etau kiṃsvabhāvau /
 >
-> tatra svabhāvavikalpo vitarkaḥ /
-> sa caitteṣu paścānnirdekṣyate /
+> tau prajñā mānasī vyagrā smṛtiḥ sarvaiva mānasī /
 >
-> itarau punaḥ kiṃsvabhāvau /
+> manovijñānasaṃprayuktā prajñā mānasīty ucyate / asamāhitā vyagrety ucyate / sa cābhinirūpaṇāvikalpaḥ /
 >
-> yathākramaṃ
+> smṛtis tu sarvaiva mānasī samāhitā vā asamāhitā vānusmaraṇavikalpaḥ /
+
+Word division is editorial. The verse has nirūpaṇa. The prose has abhinirūpaṇa. Both stay. The next question is 1.34 and is not this unit.
+
+## 3. Continuous Conventional Translation
+
+> If the five cognition-principles are associated with vitarka and vicāra, how are they called without vikalpa?
 >
-> tau prajñā mānasī vyagrā smṛtiḥ sarvaiva mānasī //
+> They are without vikalpa in respect of examining and recollective vikalpa.
 >
-> manovijñānasaṃprayuktā prajñā mānasītyucyate /
-> asamāhitā vyagretyucyate /
+> For vikalpa is threefold: intrinsic, examining, and recollective. They have the intrinsic vikalpa, but not the other two. So they are called without vikalpa, as a one-footed horse is called footless.
 >
-> sā hyabhinirūpaṇāvikalpaḥ /
+> Of these, intrinsic vikalpa is vitarka. It is indicated later among the mental factors.
 >
-> mānasyeva sarvā smṛtiḥ samāhitā cāsamāhitā cānusmaraṇavikalpaḥ /
+> And these other two, of what nature are they?
+>
+> Those two are unconcentrated mental prajñā, and all mental smṛti.
+>
+> Prajñā associated with mind-cognition is called mental. Unconcentrated is called vyagrā. And that is examining vikalpa.
+>
+> And all mental smṛti, whether concentrated or unconcentrated, is recollective vikalpa.
 
-The unit occupies printed page 22.18–26 of the local running Sanskrit.
-The question about which Principles have objects begins 1.34 and is reserved
-for that study. Page apparatus and verse labels have been removed;
-the wording otherwise follows the running transcription.
+## 4. Movement
 
-The witness has *abhinirūpaṇāvikalpaḥ* in the final prajñā explanation,
-with a long vowel before *vikalpa*. Earlier it has the compound
-*svabhāvābhinirūpaṇānusmaraṇavikalpaḥ*. The analysis uses the conventional
-segmentation *abhinirūpaṇa-vikalpa*; the displayed Sanskrit retains the
-local form rather than silently regularizing it. The verse's shorter
-*nirūpaṇa* and the prose's *abhinirūpaṇa* are both preserved.
+The objection is the previous verse. The five are with the pair, so the name without vikalpa looks false. The answer restricts the name to the other two. The horse is the measure. Intrinsic vikalpa is named and deferred. The verse then gives the nature of the two that the five lack. There is no rival school.
 
-## 3. Continuous Close Translation
+## 5. Decisions
 
-If the five sensory-Cognition Principles are accompanied by vitarka and
-vicāra, how are they called without vikalpa?
+1. The five are called without vikalpa in respect of examining and recollective vikalpa.
+2. Vikalpa is threefold. They have the intrinsic. They lack the other two.
+3. Intrinsic vikalpa is vitarka, indicated later among the mental factors.
+4. Examining vikalpa is unconcentrated mental prajñā.
+5. Mental means associated with mind-cognition. Vyagrā means unconcentrated.
+6. Recollective vikalpa is all mental smṛti, concentrated or not.
+7. The horse with one foot is the commentary's measure of the name.
 
-They are without vikalpa with respect to examining and recollective
-vikalpa. Vikalpa is said to be threefold: intrinsic vikalpa, examining
-vikalpa, and recollective vikalpa. These sensory cognitions possess
-intrinsic vikalpa, but not the other two. Therefore they are called
-without vikalpa, just as a horse with one foot is called footless.
+## 6. Organon Reading
 
-Of these, intrinsic vikalpa is vitarka. It will be explained later among
-the mental factors.
+The five are the desireling's present. They have vitarka, and vitarka is a vikalpa, and they are still called without it. The name is by the missing two. Examining and recollecting are mind-cognition work. The formless, where the last three remain, is not this page. That seeing waits for Loka:Karma. The page prints the three kinds and the horse.
 
-What, then, are the natures of the other two? In the stated order:
-they are unconcentrated mental prajñā and all mental smṛti.
+## 7. Review Status
 
-Prajñā associated with mental cognition is called “mental.”
-Unconcentrated prajñā is called “vyagrā.” That is examining vikalpa.
-
-All specifically mental smṛti, whether concentrated or unconcentrated,
-is recollective vikalpa.
-
-The last sentence keeps *mānasī* as a restriction on the smṛti being
-classified. The emphatic *eva* is represented by “specifically mental”:
-mental smṛti alone supplies this kind of vikalpa, and all of it is
-included regardless of concentration. This should not be paraphrased as
-an unrestricted assertion that every occurrence of the mental factor
-smṛti is associated with manovijñāna.
-
-## 4. Movement and Voices of the Commentary
-
-The opening challenge is generated by 1.32: if sensory cognitions have
-vitarka and vicāra, how can the designation *avikalpaka* be maintained?
-The reply distinguishes kinds of vikalpa, allowing the designation in a
-specified respect while affirming the presence of one kind.
-
-*Kila* marks the threefold classification as reported doctrine: “is said
-to be.” No named school is supplied in this paragraph. The particle does
-not by itself establish a rejection of the account.
-
-The horse analogy explains the naming practice. The commentary then
-identifies intrinsic vikalpa with vitarka, refers its fuller treatment
-to the discussion of mental factors, and asks for the natures of the
-remaining two. *Yathākramam*, “in the stated order,” controls their
-pairing with prajñā and smṛti.
-
-The concluding glosses specify association and concentration. They do
-not introduce a second rival theory or a sequence of attainments.
-
-## 5. In What Respect Are the Five Avikalpaka?
-
-The instrumental *nirūpaṇānusmaraṇavikalpena* restricts the respect in
-which *avikalpakāḥ* applies. “Without discrimination” on its own would
-lose the reply's decisive qualification. The prose states the positive
-side as clearly as the negative: *svabhāvavikalpo 'sti*, intrinsic
-vikalpa is present; *netarau*, the other two are absent.
-
-The identification with vitarka connects this account directly to the
-preceding unit's association claim. It does not identify sensory
-cognition itself with vitarka. The associated factor supplies the
-specified kind of vikalpa.
-
-The one-footed horse is an analogy of naming despite a partial remainder.
-It does not prove that sensory cognition is deficient knowledge or that
-three forms of vikalpa correspond to three missing anatomical parts.
-The comparison supports the limited linguistic point for which it is
-introduced.
-
-“Non-conceptual” may be a tempting translation of *avikalpaka*, but it
-can carry theories not supplied here. The study therefore keeps the
-technical term or the expressly qualified “without examining and
-recollective vikalpa.”
-
-## 6. The Restriction on Examining Prajñā
-
-Three determinations are needed: the factor is prajñā, it is associated
-with manovijñāna, and it is unconcentrated. The commentary defines
-*mānasī* relationally through *manovijñānasaṃprayuktā*. Merely calling
-prajñā “mental” in a broad English sense would not express that restriction.
-
-*Vyagrā* is glossed by *asamāhitā*. “Unconcentrated” follows the given
-gloss more closely than “busy” or “engaged”; “distracted” is possible
-provided it does not imply an additional moral judgment. The sentence
-does not classify this prajñā as necessarily unwholesome.
-
-Nor is all prajñā thereby reduced to examining vikalpa. Concentrated
-mental prajñā lies outside this particular identification. Nothing here
-licenses the converse conclusion that concentrated prajñā is absent or
-that every use of prajñā names an already attained liberating wisdom.
-The passage specifies one use by association and state.
-
-The verse's *tau* refers to the two kinds under discussion. Their
-natures are given by the following two expressions; it does not require
-prajñā and smṛti to be identical with one another.
-
-## 7. The Wider Concentration Scope of Recollection
-
-For recollective vikalpa, the concentration restriction changes.
-*Samāhitā cāsamāhitā ca* includes both concentrated and unconcentrated
-mental smṛti. “All” ranges across those states within the specified
-mental smṛti; it does not erase *mānasī*.
-
-| Kind of vikalpa | Identification in the Bhāṣya | Qualification |
-| --- | --- | --- |
-| Intrinsic | Vitarka | Present in the five sensory cognitions as an associated factor |
-| Examining | Prajñā | Associated with mental cognition and unconcentrated |
-| Recollective | Smṛti | Specifically mental, whether concentrated or unconcentrated |
-
-The local research report's heading “All memory is mental” risks
-broadening a definition of recollective vikalpa into a universal claim
-about smṛti. The safer reading preserves the Sanskrit's scope restriction
-and the explicit contrast in concentration scope.
-
-The passage also prevents a simple equation of concentration with the
-absence of every vikalpa. Concentrated mental smṛti is expressly included
-in recollective vikalpa. Any further account of non-discriminative
-attainment must specify which sense of vikalpa it means.
-
-The three rows classify kinds and qualifications; they do not narrate
-movement from sensation through examination to memory. The source
-provides no arrows of causal production, temporal succession, or
-pedagogical advancement between them.
-
-## 8. The Bhāṣya's Decisions for the Kārikā
-
-- Supply the five sensory-Cognition Principles as the subject of
-  *avikalpakāḥ*.
-- Restrict that designation to the examining and recollective kinds;
-  intrinsic vikalpa remains present.
-- Identify intrinsic vikalpa with vitarka while preserving association
-  as distinct from identity of cognition and factor.
-- Read *tau* in the order specified by the prose: examining vikalpa is
-  the qualified prajñā; recollective vikalpa is the qualified smṛti.
-- Translate *vyagrā* through its explicit gloss, *asamāhitā*.
-- Retain both the mental restriction and the inclusion of concentrated
-  and unconcentrated states in the smṛti definition.
-
-These decisions govern the present study; the original kārikā and
-research commentary remain unchanged.
-
-## 9. Interpretation
-
-The Kośa presents Vijñāna as Discriminative Cognition joining and
-governing Perception and Conception. Their unity is Inconceivable as a
-homogeneous operation; its Idea is disclosed in the Cognition Base.
-Vijñāna governs Manas and guides the reading of Dharma Base. Form Base
-and Dharma Base include the same *avijñapti* in distinct classifications,
-and Vijñāna bears a *prati* relation to *avijñapti*. Vijñāna remains
-distinct from *citta* and *manas*.
-
-This governing account frames the local argument without replacing it.
-Here the five sensory cognitions possess intrinsic vikalpa, identified
-with vitarka, while lacking examining and recollective vikalpa. The
-examining kind is a particular prajñā associated with mental cognition
-and unconcentrated; recollective vikalpa is specifically mental smṛti,
-concentrated or unconcentrated.
-
-In the incoming Techne, *vijñāna* is Knowing—Higher Cognition of
-Scientific Knowing—and *prajñā* is Science of Principles. The local
-qualification of *prajñā* must be retained; it does not define every use
-of the term. The association of sensory cognitions with their factors is
-a relation, not an identity.
-
-The three forms of vikalpa classify functions and conditions, not a
-temporal ladder or causal sequence. Concentrated mental smṛti remains
-recollective vikalpa, and *avikalpaka* therefore cannot mean absence of
-every form of discrimination. Association, concentration, and the
-chapter-level relation among Vijñāna, Manas, and Dharma Base remain
-distinct determinations.
-
-## 10. Review Status
-
-Provisional thirty-third study in the Bhāṣya edition. The local kārikā,
-research commentary, and running Sanskrit have been compared. The
-forward reference to the later treatment of vitarka is restored in the
-continuous presentation.
-
-The displayed prose retains the vowel in *abhinirūpaṇāvikalpaḥ* with an
-editorial note. The principal interpretive issues are the restricted
-force of *avikalpaka*, the qualifications on prajñā, and the scope of
-“all” and “mental” in the smṛti definition. These remain explicit rather
-than being absorbed into a general theory of cognition. Original sources
-and the Part One reading artifact remain unchanged.
+Upgraded reading of the thirty-third study. Scheme checked: cognition is vijñāna; principle is dhātu. 1.34 not opened.

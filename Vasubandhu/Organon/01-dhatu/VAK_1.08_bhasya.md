@@ -6,19 +6,12 @@
 >
 > duḥkhaṃ samudayo loko dṛṣṭisthānaṃ bhavaś ca te // 1.08 //
 
-### Bhāṣya-informed study translation
+Literal:
 
-The Impure aggregates are Bases of appropriation. Every such Base is an
-aggregate, but some aggregates are Pure and therefore are not Bases of
-appropriation. Appropriation here means the afflictions: these Bases can
-arise from them, be governed by them, or give rise to them. They are also
-with conflict because afflictions persist latently in them and injure self
-and others. Suffering, Origin, World, Station of Views, and Becoming are
-further designations of this same Impure field, each with its own reason.
-
-### Anchor note
+> Those which are Impure are the bases of appropriation. They are also with conflict. They are suffering, origin, world, the station of views, and becoming.
 
 Span: Pradhan `[005|08]`–`[005|20]`. Next question at `[005|21]` opens 1.09.
+
 ## 2. Continuous Sanskrit Witness
 
 > ta eva punaḥ saṃskṛtā dharmāḥ /
@@ -44,33 +37,17 @@ Span: Pradhan `[005|08]`–`[005|20]`. Next question at `[005|21]` opens 1.09.
 
 Local IAST reads `lakṣyata iti lokaḥ`. Working reading `lujyata`, with Yaśomitra: it breaks down. Not a printed-edition claim.
 
-## 3. Continuous Translation
+## 3. Continuous Conventional Translation
 
-**The same field**
+These are the same Conditioned dharmas. Those which are Impure are the bases of appropriation.
 
-These are the same Conditioned dharmas. Those which are Impure are the
-Bases of appropriation (*upādānaskandhas*).
+What follows? Whatever is a base of appropriation is a base. Not every base is a base of appropriation. There are also Pure formations.
 
-What follows? Whatever is a Base of appropriation is a Base. Not every
-Base is a Base of appropriation. There are also Pure formations.
+Here the appropriations are the afflictions. The bases are called bases of appropriation for three reasons: they arise from the appropriations, as fire from grass or chaff; they are governed by them, as the king’s servant; or the appropriations arise from them, as flowers and fruit from a tree. These same dharmas are called Impure.
 
-**The three relations**
+They are also with conflict. The afflictions are conflicts because they injure oneself and others. Because those conflicts persist latently in the bases, the bases are with conflict, as they are Impure.
 
-Here the appropriations are the afflictions. The Bases are called Bases of
-appropriation for three reasons: they arise from the appropriations, as
-fire from grass or chaff; they are governed by them, as the king’s servant;
-or the appropriations arise from them, as flowers and fruit from a tree.
-These same dharmas are called Impure.
-
-**Conflict**
-
-They are also *saraṇa*. The afflictions are conflicts because they injure
-oneself and others. Because those conflicts persist latently in the Bases,
-the Bases are *saraṇa*, as they are Impure.
-
-**The names**
-
-They are also Suffering, Origin, World, the Station of Views, and Becoming.
+They are also suffering, origin, world, the station of views, and becoming.
 
 Suffering, because they are contrary to the Āryas.
 
@@ -82,65 +59,42 @@ Station of views, because views stand in them by persisting there.
 
 Becoming, because they come to be.
 
-These are designations of the Impure dharmas, each matching its meaning.
-They are coextensive, not synonyms.
+These are designations of the Impure dharmas, each matching its meaning. They are coextensive, not synonyms.
 
 ## 4. Movement
 
 ```text
 same Conditioned field as 1.07
     → restrict by Impure
-        → Base of appropriation
-        → the Path remains a Base and Pure
+        → base of appropriation
+        → the Path remains a base and Pure
     → upādāna = affliction
         → produced from
         → governed by
         → productive of
-    → saraṇa, because conflict persists latently
+    → with conflict, because conflict persists latently
     → five names, each with its ground
 ```
 
-## 5. Interpretation
+## 5. Organon Reading
 
-1.07 and 1.08 are the Dharma Chakra. 1.07 gathers the Conditioned dharmas
-as five Bases, beginning with the Form Base. Form is Form Theory, the
-empirical determination of appearance, not a material substrate. 1.08
-marks the Impure subset of that field; the Path remains Conditioned and
-Pure.
-
-The Bhāṣya's three explanations of appropriation must stay distinct:
-the Impure Bases may arise from afflictions, be governed by them, or give
-rise to afflictions. Its five additional designations then specify
-different grounds for speaking of this same field. They are coextensive
-without becoming interchangeable definitions.
+1.07 gathers the Conditioned as five bases. 1.08 divides that field.
 
 ```text
 Impure : Pure
-    āsrava : anāsrava
     the root dyad
     not the sheath
 
 duḥkha, samudaya
-    the first two Truths
-    of what persists
+    the first two Truths of what persists
 
 dṛṣṭisthāna
     the station of views
     not the station of prajñā
 ```
 
-In our Yoga Vidyā, Abhidharma as Science of Principles is the First Dharma.
-It sees this second, appropriated field as eternally sublated: the
-relations that sustain it and the limits at which they fail are grasped
-within the whole. This does not cancel the Bhāṣya's account of suffering,
-origin, dissolution, views, or becoming. The Path is conditioned and Pure;
-that countercase prevents appropriation from defining every conditioned
-Base. The later Essence and Principle determinations remain to be unfolded.
+What persists is Impure. The Path is Conditioned and Pure. A Rational Dharma does not Persist. The sheath is not opened in this unit.
 
-## 6. Review
+## 6. Review Status
 
-Kārikā anchor and Bhāṣya translation are now aligned with the three
-relations of appropriation and the five grounded designations.
-The three relations of appropriation, the conflict gloss, and the five
-coextensive names remain distinct. Witness unpatched. Printed editions
-not collated.
+Kārikā anchor copies the literal. Lexical Analysis replaces Padaccheda on the verse study. The three relations of appropriation, the conflict gloss, and the five coextensive names remain distinct. Witness unpatched. Printed editions not collated.

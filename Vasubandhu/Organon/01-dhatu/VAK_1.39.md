@@ -1,4 +1,4 @@
-# VAK_1.39 — Internal Principles, Fields, and Functional Participation
+# VAK_1.39 — Inner Twelve, and the Work
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -14,253 +14,132 @@
 
 ## 3. Lexical Analysis
 
-```text
-dvādaśādhyātmikāḥ    → dvādaśa adhyātmikāḥ
-rūpādīn              → rūpa-ādīn
-dharmasaṃjñakaḥ      → dharma-saṃjñakaḥ
-sabhāgas             → sabhāgaḥ
-tatsabhāgāḥ          → tat-sabhāgāḥ
-svakarmakṛt          → sva-karma-kṛt
-```
-
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
-| dvādaśa | numeral | twelve Principles |
-| adhyātmikāḥ | nominative masculine plural adjective | internal, proximate to consciousness as support or belonging to the cognitive side |
-| hitvā | absolutive of `√hā` | having excluded or set aside |
-| rūpa-ādīn | accusative masculine plural | the six outer field Principles beginning with visible Form |
-| dharma-saṃjñakaḥ | nominative masculine singular compound | the Dharma Principle |
-| sabhāgaḥ | nominative masculine singular | functionally participating |
-| tat-sabhāgāḥ | nominative masculine plural | corresponding members of the same kind without proper functional participation |
-| śeṣāḥ | nominative masculine plural | the remaining seventeen Principles |
-| yaḥ | nominative masculine singular relative pronoun | whichever Principle |
-| na sva-karma-kṛt | negative plus compound | does not perform its proper function |
+| dvādaśa ādhyātmikāḥ | nominative | twelve are inner |
+| hitvā rūpādīn | absolutive | having set aside those beginning with visible |
+| dharma-saṃjñakaḥ | nominative | the one called dharma |
+| sabhāgaḥ | nominative | does its own work |
+| tat-sabhāgāḥ | nominative | of that kind, without the work |
+| śeṣāḥ | nominative | the rest |
+| yaḥ na sva-karma-kṛt | relative | whichever does not do its own work |
 
-The phrase `dharmasaṃjñakaḥ sabhāgaḥ` crosses the metrical line: “the
-Dharma Principle is functionally participating.” It must not be absorbed
-into the preceding list of outer field Principles and thereby lose its
-predicate.
+The one called dharma is the dharma-principle. It is not an essence. Inner is not a self. It is proximity to citta, and citta is designated self because it is the support of the I-maker.
 
 ## 4. Grammar
 
-The first statement is elliptical but straightforward:
-
 ```text
-dvādaśa adhyātmikāḥ
-    twelve Principles are internal
+twelve inner
+    six cognitions
+    six supports
 
-hitvā rūpādīn
-    after excluding the six outer field Principles beginning with visible Form
+six outer
+    the object-principles beginning with visible
+
+dharma-principle
+    always sabhāga
+
+the rest
+    sabhāga when they do their own work
+    tat-sabhāga when they do not
 ```
 
-The internal twelve are:
-
-```text
-six Faculty Principles
-    Eye, Ear, Nose, Tongue, Body, Mind
-
-six Cognition Principles
-    five sensory Cognitions and Mind-Cognition
-```
-
-The six excluded outer field Principles are visible Form, Sound, smell,
-taste, tangible Form, and the Dharma Principle. The Bhāṣya asks how there
-can be an internal and outer classification without a Self, then explains
-that consciousness is figuratively designated Self because ego-making
-rests upon it. The Faculties are internal through proximity as supports;
-the other six Principles are outer through their field-function.
-
-The next construction states:
-
-```text
-dharma-saṃjñakaḥ sabhāgaḥ
-    the Dharma Principle is always functionally participating
-
-śeṣāḥ sabhāgāḥ tat-sabhāgāḥ ca
-    the remaining Principles may be functionally participating
-    or corresponding non-participants
-```
-
-The Bhāṣya supplies the omitted `sabhāgāḥ` for the remainder through the
-force of `ca`.
-
-The relative clause defines `tat-sabhāga`:
-
-```text
-yaḥ na sva-karma-kṛt
-    whichever does not perform its proper function
-```
-
-But proper function is not restricted to the present instant. An eye by
-which forms were seen, are seen, or will be seen is `sabhāga`. The term
-marks actual or assured functional participation across the three times.
+Two cuts. Inner and outer. Then the work and the failure of the work.
 
 ## 5. Translation
 
 ### Literal Translation
 
-> Twelve are internal, after excluding the six outer field Principles beginning with visible Form. The Dharma Principle is functionally participating; the remaining Principles may be functionally participating or corresponding non-participants. A corresponding non-participant is one that does not perform its own function.
+Twelve are inner, having set aside those beginning with visible. The one called dharma is sabhāga. And the rest are tat-sabhāga, whichever does not do its own work.
 
 ### Bhāṣya-informed study translation
 
-> The six Faculty Principles and six Cognition Principles are internal; the six field-side Principles are outer. Consciousness is figuratively designated Self because ego-making rests upon it, and the Faculties are internal through their proximity as supports. The Dharma Principle is always functionally participating because every Dharma can become a field for Mind-Cognition. Every other Principle may participate in its proper operation—past, present, future, or assured—or remain of the same kind without exercising that operation.
+Twelve principles are inner: the six cognitions and the six supports. The six object-principles beginning with visible are outer. There is no self. Citta is designated self because it is the support of the I-maker. The eye and the rest are inner because they are near that citta as its supports. Those beginning with visible are outer because they are objects.
+
+The six cognition-principles do not fail the mark. When they have not yet become the mind-principle they are not the support of citta. When they have, they are that. Otherwise the mind-principle would be past only, and not future or present. The eighteen principles are admitted in the three times. The mark does not fail across the times.
+
+The one called dharma is sabhāga without exception. There is no dharma-principle in which endless mind-cognition has not arisen or will not arise. For every noble person this citta must arise: all dharmas are without self. Apart from its own-nature and what arises with it, all dharmas are its object-support. That moment of citta is the object-support of another. In two moments, all dharmas are object-support. Therefore the dharma-principle is always sabhāga.
+
+The rest are also sabhāga, and tat-sabhāga when they do not do their own work. An eye by which visibles were seen, are seen, or will be seen is a sabhāga eye. So on through mind, each by its own operation on its object. For the Kāśmīras a tat-sabhāga eye is fourfold: ceased, ceasing, or about to cease without having seen, and not of a nature to arise. For the Westerners it is fivefold: that last case is split into connected with cognition and not connected. So on through the body-organ. Mind is tat-sabhāga only when not of a nature to arise.
+
+Visibles seen, being seen, or to be seen are sabhāga. Tat-sabhāga visibles are fourfold: ceased, ceasing, or about to cease unseen, and not of a nature to arise. So on through tangible, each by the operation of its organ.
+
+An eye that is sabhāga for one is so for all. Visible is sabhāga for the one who sees it and tat-sabhāga for the one who does not. One visible may be seen by many, as the moon, a performer, or a wrestler. Two cannot see by one eye. The eye is uncommon, so it is settled by one continuum. Visible is common, so it is settled by many. Sound, smell, taste, and tangible follow visible. Smell and the rest are grasped on contact, and so seem uncommon. They are common with respect to possibility: the same smell that might produce one person's cognition might produce another's. That is not so of the eye. The cognitions are sabhāga or tat-sabhāga by being of a nature to arise or not, as with the mind-principle.
+
+Bhāga is the mutual taking-up of organ, object, and cognition, or the taking-up of the operation. They have that, so they are sabhāga. Or because contact is their common result. Those that are not sabhāga are tat-sabhāga because they share the kind of the ones that are.
 
 ## 6. Philosophical Translation
 
-> The Principle system determines interiority relationally: Faculties and Cognitions form the internal side because they support or constitute cognition, while the field Principles form the outer side. Consciousness is figuratively designated Self because ego-making rests upon it. Membership in a Principle kind must be distinguished from participation in its operation.
+Inner is not a self inside. Citta is called self because it supports the I-maker, and the twelve are inner because they are near that support: six cognitions, six supports. The six beginning with visible are outer because they are objects. The cognition-principles do not fall out of the twelve. When past they are the mind-principle. The mark holds in all three times, or the mind-principle would be past only.
 
-Techne reading:
+Sabhāga is doing one's own work. The dharma-principle always does it. The citta that all dharmas are without self takes them as object-support, and the next moment takes that citta. Two moments cover them. The rest do the work or fail it. The eye that sees is sabhāga. The eye that ceases without having seen, or that will not arise, is tat-sabhāga. The Kāśmīras count four. The Westerners split the last and count five. Mind fails only by not being of a nature to arise.
 
-> The Principle instrument distinguishes Faculty, field, and Cognition without collapsing them into one another. “Internal” marks the side of support and Cognition; “outer” marks the field-side. Functional participation is an operation among Faculty, field, and Cognition, while corresponding non-participation preserves kind without that operation.
+The eye is uncommon. One eye is not the seeing of two. Visible is common. One moon is seen by many, and it is sabhāga for the seer and tat-sabhāga for the one who does not see. Smell seems uncommon because it is grasped on contact. It is common in possibility: the same smell might have been another's cognition. The eye cannot be that.
 
 ## 7. Technical Vocabulary
 
-| Sanskrit | Project rendering | Determination |
+| Sanskrit | Rendering | Note |
 |---|---|---|
-| adhyātmika | internal | proximate to consciousness as support or belonging to the cognitive side |
-| bāhya | outer | one of the six field Principles in this classification |
-| ahaṃkārasanniśraya | basis upon which ego-making rests | reason consciousness receives a figurative Self designation |
-| upacāra | conventional or figurative designation | rule governing that designation |
-| pratyāsanna | proximate / standing nearest | grounds the internality of Faculty Principles as supports |
-| sabhāga | functionally participating | performs, has performed, will perform, or is assured to perform its proper operation |
-| tat-sabhāga | corresponding non-participant | shares the kind-nature but does not perform its proper function |
-| sva-karma | own function | characteristic operation of a Principle |
-| viṣaya-kāritra | field-relative operation | Faculty's specific function with respect to a field |
-| sādhāraṇa | common | field available to multiple continua |
-| asādhāraṇa | non-common | Faculty belonging to one cognitive continuum |
-| anyonyabhajana | mutual participation | relation among Faculty, field, and Cognition |
-| sparśa-samāna-kāryatva | sharing contact as result | alternative explanation of their functional participation |
-| jāti-sāmānya | commonality of kind | what a non-operating member shares with operating members |
+| ādhyātmika | inner | near citta as support; not a self |
+| bāhya | outer | the six object-principles |
+| āśraya | support | the six with the cognitions make twelve |
+| citta | citta | designated self as support of the I-maker |
+| dharma-saṃjñaka | the one called dharma | the dharma-principle; not an essence |
+| sabhāga | does its own work | organ, object, and cognition taking one another up |
+| tat-sabhāga | of that kind | the same kind, without the work |
+| sva-karma-kṛt | does its own work | the sabhāga side |
+| asādhāraṇa | uncommon | the eye, settled by one continuum |
+| sādhāraṇa | common | visible, settled by many |
 
 ## 8. Logical Determination
 
-The internal/outer classification is:
-
 ```text
-InternalTwelvePrinciples
-    = SixFacultyPrinciples
-      ∪ SixCognitionPrinciples
+twelve inner
+    six cognitions
+    six supports
 
-OuterSixFieldPrinciples
-    = {VisibleForm, Sound, Smell, Taste, TangibleForm, DharmaPrinciple}
-```
+six outer
+    beginning with visible
 
-Its ground is relational:
+dharma-principle
+    always sabhāga
 
-```text
-SupportsConsciousness(x)
-∨ BelongsToCognitiveSide(x)
-    → Internal(x)
+the rest
+    sabhāga if the work is done
+    tat-sabhāga if not
 
-FunctionsAsCognitiveField(x)
-    → Outer(x)
+eye
+    uncommon
+    one continuum
 
-EgoMakingRestsUpon(Consciousness)
-    → FigurativelyDesignatedAsSelf(Consciousness)
-```
+visible
+    common
+    many continua
+    sabhāga for the seer
+    tat-sabhāga for the one who does not see
 
-Functional status is:
+smell and the rest
+    contact-grasped
+    common in possibility
 
-```text
-PerformsProperFunction(x, Past | Present | Future)
-    → Sabhaga(x)
-
-SharesPrincipleKind(x, y)
-∧ ¬PerformsProperFunction(x)
-    → Tatsabhaga(x)
-```
-
-The Dharma Principle is exceptional:
-
-```text
-ForEvery(Dharma d)
-    EventuallyAvailableToMindCognitionAsField(d)
-
-Therefore:
-    AlwaysSabhaga(DharmaPrinciple)
-```
-
-Functional participation has a triadic structure:
-
-```text
-Faculty
-    + Field
-    + Cognition
-        → MutualFunctionalParticipation
-        → Contact
-```
-
-The decisive distinction is:
-
-```text
-PrincipleKind(x)
-    ≠ FunctionalParticipation(x)
+1.40 not opened
 ```
 
 ## 9. Interpretive Note
 
-VAK 1.39 classifies twelve Principles as internal—six Faculty Principles
-and six Cognition Principles—and six as outer field Principles. This
-distinction is relational, not a map of spatial locations. The outer six
-include the Dharma Principle; it is the Principle always participating as
-a field for Mind-Cognition.
-
-The Bhāṣya says consciousness is figuratively designated Self because
-ego-making rests upon it. The Faculties are internal through their
-proximity as supports of consciousness. This keeps consciousness distinct
-from Mind and preserves the passage's limited explanation of first-person
-designation.
-
-Functional participation is distinct from sharing a Principle kind.
-The Dharma Principle is always a field for Mind-Cognition; other
-Principles may perform their proper function in the past, present, or
-future, or share the kind without that function. The shared-field
-discussion distinguishes a field's possible availability across
-continua from a Faculty's relation to its own continuum.
-
-The Kośa explicitly presents Vijñāna as Discriminative Cognition joining
-and governing Perception and Conception. Their unity is Inconceivable as
-a homogeneous operation; its Idea is disclosed in the Cognition Base.
-Vijñāna governs Manas and guides Dharma Base. Form Base and Dharma Base
-classify the same *avijñapti* distinctly, and Vijñāna bears a *prati*
-relation to it. Vijñāna remains distinct from consciousness (*citta*) and
-Mind (*manas*).
+The hinge is the work. Inner is proximity, not a self. Sabhāga is not a second principle. It is the principle doing what it is for. Tat-sabhāga is the same kind when the work is not done. The dharma-principle does not have that failure.
 
 ## 10. OWL++ Seed
 
 ```ttl
 @prefix vak: <http://127.0.0.1:3000/vak#> .
-@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
-vak:VAK_1_39
-    a vak:Karika ;
-    rdfs:label "VAK 1.39" ;
-    vak:hasTopic vak:InteriorityAndFunctionalParticipation ;
+vak:VAK_1_39 a vak:Karika ;
+    vak:hasTopic vak:InnerTwelveAndTheWork ;
     vak:belongsTo vak:Dhatunirdesa .
 
-vak:InternalTwelvePrinciples
-    a vak:PrincipleSet ;
-    vak:hasMemberSet vak:SixFacultyPrinciples,
-        vak:SixCognitionPrinciples .
-
-vak:OuterSixFieldPrinciples
-    a vak:PrincipleSet ;
-    vak:hasMember vak:VisibleFormPrinciple,
-        vak:SoundPrinciple,
-        vak:SmellPrinciple,
-        vak:TastePrinciple,
-        vak:TangibleFormPrinciple,
-        vak:DharmaPrinciple .
-
-vak:DharmaPrinciple
-    vak:necessarilyHasFunctionalStatus vak:Sabhaga .
-
-vak:Sabhaga
-    a vak:FunctionalParticipationStatus ;
-    vak:performs vak:ProperPrincipleFunction .
-
-vak:Tatsabhaga
-    a vak:PrincipleKindMembership ;
-    vak:sharesKindWith vak:Sabhaga ;
-    vak:doesNotPerform vak:ProperPrincipleFunction .
+vak:TwelvePrinciples vak:inner true .
+vak:DharmaPrinciple vak:alwaysSabhaga true .
+vak:EyePrinciple vak:uncommon true .
+vak:VisiblePrinciple vak:common true .
 ```

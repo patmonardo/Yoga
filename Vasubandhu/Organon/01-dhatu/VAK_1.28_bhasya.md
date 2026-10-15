@@ -6,25 +6,15 @@
 >
 > vijñānadhātur vijñānaṃ sāsravaṃ janmaniśrayāḥ // 1.28 //
 
-### Bhāṣya-informed study translation
-
-> In the six-Principle teaching, the Space Principle is an opening,
-> explained in a reported account through light and darkness. The Cognition
-> Principle is cognition with outflows. All six are supports of birth,
-> common to the course from rebirth-linking cognition through death
-> cognition.
-
-The Bhāṣya supplies the sixfold subject and the life-span explanation.
-Its final sentence also assigns the first four Principles to the Tangible
-Principle, the fifth to the Form Principle, and the sixth among the seven
-Cognition Principles.
-
-### Anchor note
+> An opening is named the space-principle—light and darkness, it is said.
+> The cognition-principle is Impure cognition; these [six] are
+> supports of birth.
 
 The Bhāṣya determines two members of a particular six-Principle teaching.
-Its opening rejects unrestricted identification of the Space Principle
-with unconditioned space and of the Cognition Principle with all cognition.
+Its opening rejects unrestricted identification of the space-principle
+with unconditioned space and of the cognition-principle with all cognition.
 Its closing assigns the six within the eighteen-Principle arrangement.
+
 ## 2. Continuous Sanskrit
 
 > ya ime tatra ṣaḍ dhātava uktāḥ pṛthivīdhātur abdhātus tejodhātur
@@ -64,14 +54,14 @@ rather than attributing a new theory of mental Form to the passage.
 
 ## 3. Continuous Conventional Translation
 
-> Of the six Principles stated there—earth, water, fire, wind, space, and
+> Of the six principles stated there—earth, water, fire, wind, space, and
 > cognition—the characteristics of two have not been stated. Is the Space
-> Principle to be understood as space itself, and the Cognition Principle
+> Principle to be understood as space itself, and the cognition-principle
 > as all cognition? The answer is no. What, then? An opening in a door, window,
-> mouth, nose, and the like is called the Space Principle. What should be
+> mouth, nose, and the like is called the space-principle. What should be
 > understood by “opening”? Light and darkness, it is said. For no opening
 > other than light and darkness is apprehended. Therefore, it is said, the
-> Space Principle is to be understood as having light and darkness, night and
+> space-principle is to be understood as having light and darkness, night and
 > day, as its nature.
 >
 > This is also called Form neighboring agha. Agha, it is said, is
@@ -79,14 +69,13 @@ rather than attributing a new theory of mental Form to the passage.
 > Others say that this is agha because other Form is not obstructed
 > there, and that it neighbors other Form.
 >
-> The Cognition Principle is cognition with outflows. Why is cognition without
-> outflows not stated? Because these six Principles are accepted as supports
+> The cognition-principle is Impure cognition. Why is Pure cognition not stated? Because these six principles are accepted as supports
 > of birth. They are common to the course of birth from the rebirth-linking
-> citta through the death citta; Essences without outflows are not so.
+> citta through the death citta; Essences Pure are not so.
 >
-> Accordingly, the first four of these Principles are included in the
-> Tangible Principle, the fifth in the Form Principle, and the sixth
-> among the seven Cognition Principles.
+> Accordingly, the first four of these principles are included in the
+> tangible-principle, the fifth in the form-principle, and the sixth
+> among the seven cognition-principles.
 
 ## 4. Movement and Attributions
 
@@ -94,11 +83,11 @@ The passage follows the method of 1.27 by establishing the characteristics
 needed for assignment. It asks about two terms whose apparent familiarity
 could conceal a difference of scope:
 
-| Principle in the sixfold list | Determination supplied | Assignment among the eighteen Principles |
+| Principle in the sixfold list | Determination supplied | Assignment among the eighteen principles |
 |---|---|---|
-| first four elemental Principles | already explained | Tangible Principle |
-| Space Principle | opening, explained as light and darkness | Form Principle |
-| Cognition Principle | cognition with outflows | seven Cognition Principles |
+| first four elemental principles | already explained | tangible-principle |
+| space-principle | opening, explained as light and darkness | form-principle |
+| cognition-principle | Impure cognition | seven cognition-principles |
 
 `Kila` repeatedly marks the received explanation of space and the first
 etymology of agha. It preserves reported status without by itself naming
@@ -115,7 +104,7 @@ is not apprehended in this account.
 
 The question `kim ākāśam eva` must be read against the earlier account
 of unconditioned space. The negative reply and the final placement in
-the Form Principle distinguish the present Space Principle from that unconditioned
+the form-principle distinguish the present space-principle from that unconditioned
 ākāśa. The shared name is insufficient to establish identity of the
 classified Essence.
 
@@ -124,7 +113,7 @@ is retained in the translation. It belongs to the received light/darkness
 account; the edition does not turn it into a general physical definition
 of space or a claim that empty volume is nothing but illumination.
 The positive local result is the assignment of this specified Space
-Principle to the Form Principle.
+Principle to the form-principle.
 
 ## 6. The Uncertain Agha Derivations
 
@@ -147,7 +136,7 @@ neighboring of something separately called agha. The edition retains both
 explanations without forcing their etymologies into one reconstructed
 meaning or assigning either a final victory.
 
-## 7. Cognition with Outflows and the Shared Birth-Function
+## 7. Impure Cognition and the Shared Birth-Function
 
 `Vijñānadhātur vijñānaṃ sāsravam` restricts cognition in this particular
 sixfold teaching. The following question explicitly asks why the anāsrava
@@ -155,7 +144,7 @@ case is not included. The answer invokes the role of all six.
 
 `Janmaniśrayāḥ` is plural and resumes `ime ṣaḍ dhātavaḥ`, these six
 Principles. It cannot be translated as a predicate belonging only to the
-Cognition Principle. The prose's span from `pratisandhicitta` to `cyuticitta`
+cognition-principle. The prose's span from `pratisandhicitta` to `cyuticitta`
 expands the scope beyond the single initial moment of birth to the course
 of the life so constituted.
 
@@ -165,8 +154,8 @@ the conditioned Path was already classified as anāsrava. Nor does it
 exclude anāsrava cognition from the Cognition Base in general. The
 restriction concerns the member of this birth-support list.
 
-The final inclusion among seven Cognition Principles recalls 1.16–1.17:
-the six Cognition Principles and the Mind Principle. The sāsrava member is
+The final inclusion among seven cognition-principles recalls 1.16–1.17:
+the six cognition-principles and the mind-principle. The sāsrava member is
 assigned across those positions as applicable, rather than declared
 identical in extension with all cognition contained in every one of the
 seven.
@@ -175,7 +164,7 @@ seven.
 
 1. The verse defines members of a particular six-Principle teaching; its
    terms cannot be given unrestricted meanings from their names alone.
-2. Ākāśadhātu is the specified opening, assigned to the Form Principle
+2. Ākāśadhātu is the specified opening, assigned to the form-principle
    rather than unconditioned space.
 3. The reportive `kila` and alternative `apare` must remain visible.
 4. The agha passage has an unresolved local reading, which is not converted
@@ -184,26 +173,24 @@ seven.
 6. All six are the supports of birth, with the prose extending from
    rebirth-linking through death citta.
 7. The concluding four/one/one assignment places the six within the
-   Tangible Principle, the Form Principle, and the seven Cognition
+   tangible-principle, the form-principle, and the seven Cognition
    Principles.
 
-## 9. Interpretation
+## 9. Philosophical and Organon Study
 
-This passage returns directly to the space case and closes the
-1.24–1.28 Dhātu-machine sequence with an explicit cross-mapping. A
-Principle is not merely an inventory label or bin. It determines a
-characteristic, discriminates that determination from the others, and
-keeps the Principles apart. It also encloses the science of the derivatives
-proper to it: the relations and distinctions that follow from that
-Principle.
+This passage returns directly to our example of space. A Principle is not
+merely an inventory label or bin. It determines a characteristic,
+discriminates that determination from the others, and keeps the principles
+apart. It also encloses the science of the derivatives proper to it: the
+relations and distinctions that follow from that Principle.
 
 The sixfold teaching and the eighteen-Principle arrangement show this
 classifying operation. The Bhāṣya does not make six new entries beside the
 eighteen. It determines the scope of each member, then maps the first four
-to the Tangible Principle, the conditioned opening to the Form Principle,
-and cognition with outflows among the seven Cognition Principles. The
+to the tangible-principle, the conditioned opening to the form-principle,
+and Impure cognition among the seven cognition-principles. The
 cross-mapping preserves distinctions while showing how the derivatives of
-each Principle are ordered; it is not a flat list or a set of synonyms.
+each principle are ordered; it is not a flat list or a set of synonyms.
 
 The cognition case adds another requirement: a familiar category can be
 restricted by the purpose of a particular teaching. The relevant scope is
@@ -211,22 +198,7 @@ sāsrava cognition because the six are being considered as supports of
 birth. Constitutive status, range, and function work together in the
 classification.
 
-The Techne reading treats this as a methodological demonstration:
-determine each member's local characteristic and scope, then place it
-within the established eighteen-Principle system. The sixfold teaching
-retains its shared birth-support function without becoming an additional
-set of Principles. The unresolved *cittasthaṃ* remains a textual problem,
-not a basis for expanding the classification.
-
-The Kośa also presents Vijñāna as Discriminative Cognition joining and
-governing Perception and Conception. Their unity is Inconceivable as a
-homogeneous operation; its Idea is disclosed in the Cognition Base.
-Vijñāna governs Manas and guides the reading of Dharma Base. Form Base and
-Dharma Base classify the same *avijñapti* distinctly, and Vijñāna bears a
-*prati* relation to it. Vijñāna remains distinct from *citta* and *manas*.
-
-From 1.29 onward, the chapter examines particular operations and
-applications of the classification.
+The six-principle teaching is assigned into the eighteen. The cognition-principle of this verse is Impure cognition, not the cognition-base, and not all seven. FactStore is not this prose.
 
 ## 10. Review Status
 
@@ -238,3 +210,5 @@ reading.
 The reportive attributions, agha uncertainty, sāsrava restriction, plural
 birth-function, and final mapping are preserved. Original research files
 and the Part One reading artifact remain unchanged.
+
+Scheme checked: cognition is vijñāna; principle is dhātu. This cognition-principle is Impure cognition among the seven, not the cognition-base.

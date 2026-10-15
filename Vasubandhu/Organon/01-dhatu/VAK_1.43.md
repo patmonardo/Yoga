@@ -1,4 +1,4 @@
-# VAK_1.43 — Both Eyes, Reaching, and Contact
+# VAK_1.43 — Both Eyes, and the Unreached
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -14,239 +14,121 @@
 
 ## 3. Lexical Analysis
 
-```text
-ubhābhyām api          → ubhābhyām api
-cakṣurbhyām            → cakṣurbhyām
-vyaktadarśanāt         → vyakta-darśanāt
-cakṣuḥśrotramanaḥ     → cakṣuḥ-śrotra-manaḥ
-'prāptaviṣayam         → a-prāpta-viṣayam
-trayam anyathā         → trayam anyathā
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
-| ubhābhyām | instrumental dual | with both |
-| cakṣurbhyām | instrumental dual | with the two Eye Faculties |
-| api | particle | also; one may see with one or with both |
-| paśyati | third-person singular present active | one sees |
-| vyakta-darśanāt | ablative neuter singular compound | because of clearer or more distinct seeing |
-| cakṣus | compound member | Eye Faculty |
-| śrotra | compound member | Ear Faculty |
-| manas | compound member | Mind Faculty |
-| a-prāpta-viṣayam | nominative neuter singular compound | having a Condition not physically contacted |
-| trayam | nominative neuter singular collective | the triad |
-| anyathā | adverb | otherwise; the other three Faculties operate through contact |
+| ubhābhyām api | instrumental dual | with both too |
+| cakṣurbhyām | instrumental dual | with the two eyes |
+| paśyati | verb | one sees |
+| vyakta-darśanāt | ablative | because the seeing is clearer |
+| cakṣuḥ-śrotra-manaḥ | compound | eye, ear, and mind |
+| aprāpta-viṣayam | compound | do not reach their object |
+| trayam anyathā | nominative, adverb | the three are otherwise |
 
-The particle `api` matters: the Bhāṣya says there is no exclusive rule, so
-seeing may occur with one Eye Faculty or both. The verse emphasizes both
-because their coordinated operation gives clearer seeing.
+There is no rule that one sees with one eye only. The three otherwise are nose, tongue, and body. They reach.
 
 ## 4. Grammar
 
-The first line gives the reason for coordinated operation: one may see
-with both Eyes, and this gives clearer seeing. The Bhāṣya cites doubled
-appearances under unequal Eye conditions. It rejects the inference that
-visual Cognition must therefore be divided between two supports: the
-physical Eyes are spatially distinct, but Cognition is not spatially
-divided like Form.
-
-The second line divides the six Faculties by whether they physically reach
-their Conditions:
-
 ```text
-Eye, Ear, Mind
-    → Conditions not physically contacted
+both eyes
+    no exclusive rule
+    clearer when both are open
+    double moon when one is half-closed
 
-Nose, Tongue, Body
-    → Conditions reached through physical contact
+unreached
+    eye
+    ear
+    mind
+
+otherwise
+    nose
+    tongue
+    body
+    reaching is arising without an interval
+
+atoms
+    do not touch
+    the designation is used where there is no interval
 ```
-
-The Eye sees distant Forms but not eye ointment placed directly upon it.
-The Ear hears distant sound. Mind cannot physically reach its Condition
-because Mind is not Form.
-
-The Bhāṣya also records, without deciding, an alternative view that hearing
-has both contacted and non-contacted Conditions.
 
 ## 5. Translation
 
 ### Literal Translation
 
-> One also sees with both Eyes, because seeing is clearer. Eye, Ear, and Mind form a triad whose Conditions are not physically contacted; the other three operate otherwise.
+One sees with both eyes too, because the seeing is clearer. Eye, ear, and mind do not reach their object. The three are otherwise.
 
 ### Bhāṣya-informed study translation
 
-> Seeing may occur through one Eye or both, with clearer seeing through their coordinated operation. Eye and Ear disclose their Conditions without physical contact; Mind, being non-Form, cannot physically reach its Condition. Nose, Tongue, and Body operate through physical contact with their Conditions, though some teachers classify hearing as both contacted and non-contacted.
+If the eye sees, does one see visibles with one eye, or with both? There is no rule. One sees with both eyes too, because the seeing is clearer. So the Ābhidhārmikas. When both are open, the seeing is cleaner. When one eye is open and the other half-closed, there is the grasp of a double moon and the rest. Not from the alteration of one alone. And there is no consequence that cognition breaks from a break of the support. Cognition is not stationed in a place, as form is.
+
+If the eye sees, the ear hears, and so on to mind cognizes, is their object reached or unreached? Eye, ear, and mind do not reach their object. One sees a distant visible, and does not see the collyrium situated in the eye. One hears a distant sound. And if they reached their object, the divine eye and ear would not arise here for those in dhyāna, as the nose and the rest do not. If the eye does not reach, why does it not see every unreached thing, the distant and the screened? Why, to begin with, does a magnet not draw every unreached iron? The same holds if it reaches. Why does it not see every reached thing, the collyrium or the probe? As the object of the nose and the rest is reached, but not every one, because they do not grasp a co-arisen odor and the rest, so the eye's object may be unreached, but not every unreached. Mind, not being form, is unable to reach at all.
+
+Some think the ear both reaches and does not, because one hears a sound inside the ear as well. The rest, called nose, tongue, and body, are otherwise. They reach their object. How does the nose reach? Because one who does not breathe out does not grasp odor. What is this reaching? Arising without an interval.
+
+Do atoms touch one another, or not? The Kāśmīras say they do not. If they touched with their whole being, the substances would merge. If with one part, they would have parts. And atoms are partless. How then is sound produced? For this very reason. If they touched, a hand struck against a hand would stick, and a stone against a stone. Why does a struck heap not scatter? Because it is held together by the wind-principle. One wind-principle operates to scatter, as in the contraction. One to hold together, as in the expansion.
+
+How then are the three said to reach their object by a reaching without an interval? That they are without an interval is precisely that there is nothing between them. Or there is no fault in saying that assemblages touch, since they have parts. So this passage of the Vibhāṣā also stands. Having asked whether a touching arises from a touching cause or from a non-touching cause, it says: it depends on the cause. Sometimes a non-touching arises from a touching cause, when it scatters. Sometimes a touching from a non-touching cause, when it accumulates. Sometimes a touching from a touching cause, when what is already accumulated accumulates. Sometimes a non-touching from a non-touching cause, as dust at a window.
+
+The venerable Vasumitra says: if atoms touched, they would stand in the next moment. The venerable one says: they do not touch; where there is no interval, the designation touching is used. And the venerable one's position is to be accepted. Otherwise, if atoms had intervals, what would block motion through the empty intervals, since they are admitted to be resistant? And assemblages are not other than atoms. Those very atoms that are the assemblages are touched, just as they are affected as form. If a distinction of directional parts is imagined in an atom, having parts follows whether it touches or not. If it is not imagined, having parts does not follow even for a touching atom.
+
+## 6. Philosophical Translation
+
+No rule forces one eye. Both open, the seeing is cleaner. One open and one half-closed, a double moon. That is not the alteration of one eye alone, and cognition does not break because a support breaks. Cognition is not stationed in a place.
+
+Reached and unreached then divide the six. Eye, ear, and mind do not reach. A distant visible is seen. The collyrium in the eye is not. A distant sound is heard. If they reached, the divine eye and ear would not arise here for those in dhyāna. The nose does not. Mind is not form, so it cannot reach. Some give the ear both, because a sound inside the ear is heard. Nose, tongue, and body reach. The nose reaches because odor is not grasped without the out-breath. Reaching is arising without an interval.
+
+The atom dispute is the cost of that interval. The Kāśmīras say atoms do not touch. Whole contact would merge them. Partial contact would give them parts. A struck hand does not stick. A struck heap does not scatter, because a wind-principle holds it. Without an interval means nothing between, not a touch. The Bhadanta position is the one to accept: they do not touch; where there is no interval, the designation is used. Assemblages are not a second thing beside the atoms.
+
+## 7. Technical Vocabulary
+
+| Sanskrit | Rendering | Note |
+|---|---|---|
+| ubhābhyām api | with both too | no exclusive rule |
+| vyakta-darśana | clearer seeing | both eyes open |
+| aprāpta-viṣaya | does not reach its object | eye, ear, mind |
+| prāpta-viṣaya | reaches its object | nose, tongue, body |
+| prāpti | reaching | arising without an interval |
+| nirantara | without an interval | nothing between |
+| paramāṇu | atom | partless; does not touch |
+| vāyu-dhātu | wind-principle | holds the heap, or scatters it |
+| spṛṣṭa-saṃjñā | the designation touching | used where there is no interval |
 
 ## 8. Logical Determination
 
-### Access Mode and Range
-
-Faculties have distinct access modes. Eye, Ear, and Mind operate without
-physical contact with their Conditions; Nose, Tongue, and Body operate
-through contact. The mode does not determine unlimited access: each
-Faculty has a bounded range of operation. Coordinated Eyes support
-clearer visual Cognition, but neither contact nor non-contact grants
-unrestricted access to every Condition.
-
-The binocular relation is:
-
 ```text
-Coordinated(Eye1, Eye2)
-    → ClearerVisualCognition
+eyes
+    one or both
+    both cleaner
+    half-closed gives a double moon
 
-DistinctPhysicalSupports
-    ↛ SpatiallyDivided(Cognition)
-```
+unreached
+    eye, ear, mind
 
-The contact-mode partition is:
+reached
+    nose, tongue, body
+    arising without an interval
 
-```text
-NonContactFaculty
-    = {Eye, Ear, Mind}
+atoms
+    do not touch
+    designation where there is no interval
+    the Bhadanta position is accepted
 
-ContactFaculty
-    = {Nose, Tongue, Body}
-```
-
-But mode and range are independent:
-
-```text
-NonContactFaculty(x)
-    ↛ CognizesEveryUncontactedCondition(x)
-
-ContactFaculty(x)
-    ↛ CognizesEveryContactedCondition(x)
-```
-
-The Bhāṣya's magnet analogy has the same form:
-
-```text
-MagnetActsWithoutContact
-    ∧ ¬AttractsEveryDistantIron
-
-Therefore:
-    NonContactOperation
-        ↛ UnlimitedRange
-```
-
-Mind receives a categorical constraint:
-
-```text
-NotForm(Mind)
-    → IncapableOfPhysicalContact(Mind, Condition)
-```
-
-The Faculty determination is:
-
-```text
-Faculty(x)
-    → HasCondition(x)
-    ∧ HasAccessMode(x)
-    ∧ HasBoundedOperatingRange(x)
+1.44 not opened
 ```
 
 ## 9. Interpretive Note
 
-### Limits of the Analogy
-
-The magnet analogy shows that non-contact operation is selective, not
-unlimited. The Eye does not see every distant or screened Condition.
-Conversely, the Nose and other contact Faculties do not disclose every
-Condition they physically reach; the Bhāṣya gives co-arisen smells as
-an example. Some teachers classify hearing as operating through both
-contact and non-contact. These are the commentary's distinctions; they
-are not a modern account of sound transmission.
-
-The Bhāṣya then extends the question to physical reaching and atoms. It
-reports the Kāśmīra denial of atomic contact, an alternative account of
-contacting assemblages, and a final objection about directional parts.
-The Wind Principle is invoked to explain scattering and cohesion. These
-are reported arguments; the verse itself does not settle them.
-
-VAK 1.43 adds two determinations to the inquiry into seeing: both Eye
-Faculties can coordinate in clearer visual Cognition, and Faculties differ
-by whether they physically reach their Conditions. The Bhāṣya does not infer
-that distinct physical supports spatially divide Cognition.
-
-Its objection and magnet analogy show that access mode does not determine
-unlimited range:
-
-```text
-non-contact
-    ≠ access to every Condition not contacted
-
-contact
-    ≠ access to every Condition contacted
-```
-
-Not physically contacted does not mean that the Faculty lacks a
-Condition or support. The Eye sees distant Forms but not eye ointment
-placed directly upon it. The Bhāṣya also records an alternative view
-that hearing has both modes.
-
-The determinations kept distinct here are:
-
-```text
-Faculty
-    → access mode
-    → bounded Condition
-    → conditioned Cognition
-
-two Eye Faculties
-    → coordinated operation
-    → clearer visual Cognition
-```
-
-The Bhāṣya establishes boundedness but does not quantify thresholds or
-intensities. This account stays with the verse's own Faculty, Condition,
-physical-contact, and Cognition distinctions.
-
-In the governing model, Vijñāna as Discriminative Cognition joins and
-governs Perception and Conception. Their unity is Inconceivable as a
-homogeneous operation, and its Idea is disclosed in Cognition Base.
-Vijñāna governs Manas and guides the reading of Dharma Base. Form Base
-and Dharma Base classify the same *avijñapti* distinctly; Vijñāna bears
-a *prati* relation to it and remains distinct from consciousness and Mind.
+The hinge is the interval. Reaching is arising with nothing between. That is not a touch of atoms. The designation touching is used where there is no interval. The position to accept is the Bhadanta's.
 
 ## 10. OWL++ Seed
 
 ```ttl
 @prefix vak: <http://127.0.0.1:3000/vak#> .
-@prefix organon: <http://127.0.0.1:3000/organon#> .
-@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
-vak:VAK_1_43
-    a vak:Karika ;
-    rdfs:label "VAK 1.43" ;
-    vak:hasTopic vak:FacultyAccessModes ;
-    vak:belongsTo vak:PrincipleAnalysis .
+vak:VAK_1_43 a vak:Karika ;
+    vak:hasTopic vak:BothEyesAndTheUnreached ;
+    vak:belongsTo vak:Dhatunirdesa .
 
-vak:NonContactFacultySet
-    a vak:FacultySet ;
-    vak:hasMember vak:EyeFaculty,
-        vak:EarFaculty,
-        vak:MindFaculty .
-
-vak:ContactFacultySet
-    a vak:FacultySet ;
-    vak:hasMember vak:NoseFaculty,
-        vak:TongueFaculty,
-        vak:BodyFaculty .
-
-vak:BinocularOperation
-    vak:coordinates vak:TwoEyeFaculties ;
-    vak:supports vak:ClearerVisualCognition .
-
-vak:FacultyCapacity
-    vak:requiresProperty vak:FacultyCondition,
-        vak:AccessMode,
-        vak:BoundedOperatingRange .
-
-vak:NonContactAccess
-    vak:doesNotEntail vak:UnlimitedRange .
-
-organon:QuantifiedFacultyRange
-    a organon:LaterFrameworkConstruction ;
-    organon:notAssertedBy vak:VAK_1_43 .
+vak:EyeEarMind vak:reachesObject false .
+vak:NoseTongueBody vak:reachesObject true .
+vak:Atom vak:touches false .
 ```

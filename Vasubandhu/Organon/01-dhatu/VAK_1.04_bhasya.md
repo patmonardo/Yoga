@@ -1,4 +1,4 @@
-# VAK_1.04 Bhāṣya — Dharma Knowing as Real / Ideal
+# VAK_1.04 Bhāṣya — Impure and Pure
 
 ## 1. Kārikā Anchor
 
@@ -6,17 +6,11 @@
 >
 > sāsravāḥ āsravās teṣu yasmāt samanuśerate // 1.04 //
 
-### Bhāṣya-informed study translation
+> Dharmas are impure and pure. Conditioned, excluding the Path, are impure, because the *āsravas* persist in them.
 
-> Dharmas are impure and pure. Conditioned dharmas other than the Truth of the Path are impure because the *āsravas* persist through them. Although *āsravas* may arise with the Truth of Cessation or the Truth of the Path as their objects, they do not persist through those truths; taking them as objects therefore does not make them impure.
+The commentary calls this *sarvadharmāṇāṃ samāsanirdeśaḥ*, the summary designation of all dharmas. It specifies *mārga* as the Truth of the Path, and distinguishes an *āsrava* taking something as *ālambana* from its persistence through a dharma.
 
-### Anchor note
-
-The Bhāṣya calls this `sarvadharmāṇāṃ samāsanirdeśaḥ`: the summary designation
-of all dharmas. It specifies `mārga` as the Truth of the Path and distinguishes
-an `āsrava` taking something as `ālambana` from its persistence through a
-dharma.
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
 > katame punas te dharmā yeṣāṃ pravicayārtham abhidharmopadeśa ity āha /
 > sāsravā anāsravā dharmāḥ / eṣa sarvadharmāṇāṃ samāsanirdeśaḥ / tatra
@@ -27,26 +21,15 @@ dharma.
 > yathā 'tra nānuśerate tat paścād anuśayanirdeśa eva jñāpayiṣyāmaḥ /
 > uktāḥ sāsravāḥ /
 
-This unit runs from the transition question at `[003|05]` through `uktāḥ
-sāsravāḥ` at `[003|14]`. The local IAST has been normalized for reading;
-this remains an edited, non-critical working text.
+This unit runs from the transition question through *uktāḥ sāsravāḥ*. The local IAST is normalized for reading. It remains an edited, non-critical working text.
 
 ## 3. Continuous Conventional Translation
 
-> Which, then, are those dharmas for whose discrimination Abhidharma
-> instruction is given? He says: dharmas are impure and pure. This is the
-> summary designation of all dharmas.
+> Which, then, are those dharmas for whose discrimination the Abhidharma instruction is given? He says: dharmas are impure and pure. This is the summary designation of all dharmas.
 >
-> Among them, which dharmas are impure? He says: conditioned dharmas,
-> excluding the Path, are impure. That is, conditioned dharmas other than the
-> Truth of the Path are impure. Why? Because the `āsravas` persist through
-> them.
+> Among them, which dharmas are impure? He says: conditioned, excluding the Path, are impure. That is, conditioned dharmas other than the Truth of the Path are impure. Why? Because the *āsravas* persist through them.
 >
-> Granted, `āsravas` also arise with the Truth of Cessation and the Truth of
-> the Path as their objects. But they do not persist through those two;
-> consequently, it does not follow that those two are impure. How they do not
-> persist through them will be explained later, precisely in the Exposition of
-> the Anuśayas. The impure dharmas have now been stated.
+> Granted, *āsravas* also arise taking the Truth of Cessation and the Truth of the Path as *ālambana*. But they do not persist through those two. It does not follow that those two are impure. How they do not persist through them will be explained later, in the Exposition of the Anuśayas. The impure dharmas have now been stated.
 
 ## 4. Movement of the Commentary
 
@@ -54,33 +37,29 @@ this remains an edited, non-critical working text.
 Which dharmas are to be discriminated?
     -> all dharmas: impure / pure
     -> which are impure?
-        -> conditioned dharmas excluding the Truth of the Path
+        -> conditioned, excluding the Truth of the Path
     -> why?
-        -> `āsravas` persist through them
+        -> the āsravas persist through them
     -> qualification
-        -> taking something as object is not persistence through it
+        -> taking as ālambana is not persistence
     -> further account deferred to the Anuśayanirdeśa
 ```
 
-The Bhāṣya gives the criterion of impurity without collapsing it into
-object-relation. Cessation and the Path can be `ālambana` for an afflicted
-occurrence without thereby becoming impure.
+The commentary gives the criterion of impurity without collapsing it into taking. Cessation and the Path can be *ālambana* for an arising, and not thereby impure.
 
 ## 5. Conditioned and Unconditioned
 
-The verse directly determines the conditioned side:
+The verse determines the impure side:
 
 ```text
-conditioned Dharma, other than the Path
+conditioned, other than the Path
     = impure
 
 conditioned Truth of the Path
     = pure
 ```
 
-VAK 1.05 determines the unconditioned as pure. The whole division is therefore
-not `conditioned / unconditioned`; it is `impure / pure`, with conditioned and
-unconditioned as distinct determinations within it.
+The next verse determines the unconditioned as pure. The division is not conditioned / unconditioned. It is impure / pure. Conditioned and unconditioned are further determinations inside it.
 
 ```text
 impure
@@ -88,69 +67,25 @@ impure
 
 pure
     = conditioned Path
-    + unconditioned Dharma
+    + unconditioned
 ```
 
-The Path is decisive. Because it is conditioned and pure, purity cannot mean a
-mere absence of conditioned actuality.
+The Path is decisive. It is conditioned and pure. Purity is not the absence of the conditioned.
 
-## 6. Interpretation
+## 6. Organon Reading
 
-The Techne determination is separate from the conventional translation.
+Marked. Not the conventional line.
 
-Dharma is the Law of Appearance. Dharma Knowing is its Real / Ideal
-self-articulation:
+The division is the first cut of the dharmas to be discriminated. Impurity is persistence of the *āsravas* in the conditioned other than the Path. Purity is the failure of that persistence. The Path is conditioned and still pure. Taking is not the test.
 
-```text
-Dharma Knowing
-    = Real / Ideal
+## 7. Decisions for the Kārikā
 
-Real
-    = conditioned appearance
-    = the law enacted in determinate actuality
-
-Ideal
-    = pure determination
-    = the law in self-relation
-```
-
-The Bhāṣya supplies the discipline for this reading. Its first division is
-Impure / Pure, and its criterion is the persistence of the *āsravas* through
-a dharma. The conditioned Path is Pure. An *āsrava* can arise with the Path
-or Cessation as its object without persisting through either. The Techne
-reads the conditioned Path as the Real's Pure activity: conditional
-actuality can bear a determination that does not sustain the *āsravas*.
-
-```text
-Impure conditioned
-    = conditioned dharmas other than the Path
-
-Pure conditioned Path
-    = conditioned activity through which āsravas do not persist
-
-Pure unconditioned
-    = specified by the next unit
-```
-
-The classification thus has a practical test, not merely a formal opposition.
-It gives the candidate for Abhidharma a criterion to use while discriminating
-dharmas. The Real / Ideal language names our Yoga Vidyā's comprehension of
-this movement; the Bhāṣya's explicit terms remain *sāsrava*, *anāsrava*,
-*saṃskṛta*, *mārgasatya*, *ālambana*, and *samanuśayana*.
-
-## 7. Bhāṣya Decisions for the Kārikā
-
-1. `Sāsrava` and `anāsrava` are rendered **impure** and **pure**.
-2. `Mārga` is `mārgasatya`, the Truth of the Path.
-3. `Samanuśerate` is rendered "persist through," preserving the defining
-   relation in its own terms.
-4. `Ālambana` is an object-relation; it is not the criterion of impurity.
-5. Conditioned and unconditioned are not synonyms for impure and pure: the
-   conditioned Path is pure.
+1. *Sāsrava* and *anāsrava* are impure and pure.
+2. *Mārga* is the Truth of the Path.
+3. *Samanuśerate* is persist.
+4. *Ālambana* is taking. It is not the criterion of impurity.
+5. Conditioned and unconditioned are not synonyms for impure and pure. The conditioned Path is pure.
 
 ## 8. Review Status
 
-The Sanskrit is preserved. The conventional translation follows the Bhāṣya's
-summary division, Path specification, and distinction between *ālambana* and
-*samanuśayana*. The Techne reading is explicitly marked and treats Dharma as
-Law of Appearance. The study remains provisional pending textual review.
+The Sanskrit is preserved. The conventional translation follows the summary designation, the Path specification, and the distinction between *ālambana* and persistence. The kārikā no longer carries a Dharma Knowing section. 1.05 is not opened.

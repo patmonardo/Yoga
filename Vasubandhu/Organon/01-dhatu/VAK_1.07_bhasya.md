@@ -6,19 +6,12 @@
 >
 > sa evādhvā kathāvastu saniḥsārāḥ savastukāḥ // 1.07 //
 
-### Bhāṣya-informed study translation
+Literal:
 
-The conditioned dharmas are made by conditions acting together; nothing
-is produced by one condition. They are courses because they have gone, are
-going, or will go, or because impermanence consumes them. Meaningful speech
-takes them as its basis; the *Prakaraṇa* includes its matters of discourse
-within the eighteen *dhātus*. They possess an exit because nirvāṇa is the
-going-out from everything conditioned. They possess a basis; the reading
-of *vastu* as cause is attributed to the Vaibhāṣikas.
-
-### Anchor note
+> Those Conditioned dharmas are the five bases beginning with form. That same field is the course, the *kathāvastu*, the *saniḥsāra*, and the *savastuka*.
 
 Span: Pradhan `[004|23]`–`[005|08]`.
+
 ## 2. Continuous Sanskrit Witness
 
 > yat tūktam “saṃskṛtā mārgavarjitāḥ sāsravā” iti /
@@ -42,114 +35,79 @@ Span: Pradhan `[004|23]`–`[005|08]`.
 
 At `[004|26]` the witness omits `saṃjñāskandha`. Not patched. The kārikā says five.
 
-## 3. Continuous Translation
+## 3. Continuous Conventional Translation
 
-**Question**
+As for what was said, Conditioned dharmas excluding the Path are Impure: which are those Conditioned dharmas?
 
-As for what was said, conditioned dharmas excluding the Path are Impure: which are those conditioned dharmas?
+Those Conditioned dharmas are the five bases beginning with form. The witness names the form-base, the feeling-base, the formations-base, and the cognition-base.
 
-**Answer**
+They are called Conditioned because they are made by conditions that have come together and that act together. Nothing is produced by a single condition. There is no contradiction in applying the name to future dharmas, by kind, as with milk and fuel.
 
-Those Conditioned dharmas are the five Bases beginning with Form. The
-witness names the Form Base, Feeling Base, Formations Base, and Cognition
-Base.
-
-They are called conditioned because they are made by conditions that have come together and that act together. Nothing is produced by a single condition. There is no contradiction in applying the name to future dharmas, by kind, as with milk and fuel.
-
-Those same conditioned dharmas are the course, the *kathāvastu*, the *saniḥsāra*, and the *savastuka*.
+Those same Conditioned dharmas are the course, the *kathāvastu*, the *saniḥsāra*, and the *savastuka*.
 
 They are the courses because they have the states of having gone, going, and about to go; or because they are consumed by impermanence.
 
-**Further explanations**
+Discourse is speech, and its *vastu* is the name. The Conditioned is called *kathāvastu* because meaningful speech takes it up. Otherwise the Prakaraṇa would be contradicted: the *kathāvastu* are included in the eighteen principles.
 
-The prose says discourse is speech, and *kathāvastu* is so called because meaningful speech takes the conditioned as its basis. Otherwise the Prakaraṇa would be contradicted: the *kathāvastu* are included in the eighteen *dhātus*.
+The going-out from everything Conditioned is nirvāṇa. Because they have that, they are *saniḥsāra*.
 
-The prose says the going-out from everything conditioned is nirvāṇa, and because they have that, they are *saniḥsāra*.
+Because they have a cause, they are *savastuka*. The Vaibhāṣikas say, *kila*, that the word *vastu* expresses cause.
 
-The Vaibhāṣikas say, *kila*, that the word *vastu* expresses cause, and so, because they have causes, they are *savastuka*.
+These are alternative designations of Conditioned dharmas.
 
-These are alternative designations of conditioned dharmas.
+## 4. Movement
 
-These explanations give the conventional force of the designations. The
-*Prakaraṇa* sentence says the *kathāvastu* are included within the eighteen
-*dhātus*. In the Techne, this relates Essential Reflection to the Principle
-system. The nirvāṇa and cause explanations remain distinct; the latter is
-specifically attributed to the Vaibhāṣikas.
+```text
+question from 1.04
+    Conditioned, excluding the Path, are Impure
+    which are the Conditioned?
+answer
+    five bases, beginning with form
+    witness names four and omits reflection
+made by conditions
+    come together, act together
+    nothing from one condition
+    future dharmas by kind
+same field, four designations
+    course
+    kathāvastu
+    saniḥsāra
+    savastuka
+```
 
-## 4. Interpretation
+## 5. Organon Reading
 
-The Bhāṣya explains one conditioned field under several names. Our Techne
-reads the relation among those names as the Dharma Chakra turning within
-human language. The source explanations and the systematic determinations
-remain distinct:
+The second line is the wheel. One field, four functions. The glosses are not the quad.
 
 ```text
 Essential Being
-    the five Bases gathered as one, beginning with Form Base
-    the witness names Form, Feeling, Formations, and Cognition Bases
-    the witness omits the Conception Base (*saṃjñāskandha*)
-    preserve the difference: the kārikā says five
+    the five bases gathered as one, beginning with the Form Base
+    the witness omits the Reflection Base
+    the kārikā says five
 
 Path of Dharma
     adhvā
     gone, going, about to go
-    YS 4.12: past and future exist in their own form
-    because the dharmas differ as course
-    what persists is Impure
-    a Rational Dharma does not Persist
-    this prose does not persist
 
 Essential Reflection
     kathāvastu
-    the vāsanā the Kośa does not name
-    Fichte: Reconstruction of an Original
-    the Prakaraṇa includes it in the eighteen Principles
+    the Prakaraṇa includes it in the eighteen principles
+    the discourse gloss does not define it
 
 Essential Relation
     saniḥsāra
-    Dharma qua sāra
-    a Dharma qua vāsanā is an End
-    because a Dharma is an End
-    nirvāṇa is the gloss of that End
-    not a door
+    a Dharma is an End
+    nirvāṇa is the gloss of that End, not a door
 
 Appearance
     savastuka
     the Thing and its properties
-    properties are the armor of empirical relations
-    YS 4.14: one transformation
     the cause-gloss catches the armor-moment
     it does not define vastu
 ```
 
-Here **Form** means Form Theory, not matter. The Form Base is the empirical
-ground of appearance: empirical sciences apply to appearances, and the
-manifold appearances of *sarvadharma* are captured there. This is the
-Organon determination, not a claim that this is the sole lexical meaning of
-*rūpa*.
+What persists is Impure. A Rational Dharma does not Persist. The cause-gloss is not the reading.
 
-The term distinction matters: *vijñānaskandha* is the **Cognition Base**;
-*vijñāna* is **Cognition**, knowing in operation. The witness's Cognition
-Base is one member of the fivefold gathering, not a synonym for the whole
-system or for Cognition itself.
+## 6. Review Status
 
-This passage foregrounds Dharma as Base—its gathered, Being-grade
-determination. The Prakaraṇa quotation points toward the Principle system,
-but this passage does not unfold the Essence Base or the reciprocal
-Concept-level closure of the six Cognition Principles. That larger machine
-continues through 1.28.
-
-In our Yoga Vidyā, Abhidharma as Science of Principles is the First Dharma.
-The conditioned field is second in logical order: the First comprehends its
-temporal, discursive, liberative, and causal determinations together. To say
-the Absolute sees the second as eternally sublated means it preserves this
-field within knowing while grasping its limit and ground. The Bhāṣya itself
-does not use that vocabulary; it gives the conditioned aggregates and the
-reasons for their alternative names.
-
-## 5. Review
-
-Kārikā anchor and conventional translation are now aligned. Form in the
-Techne is Form Theory, not matter. The witness's omission of
-*saṃjñāskandha* remains unpatched; its four-member list is not silently
-expanded to match the kārikā's five.
+Kārikā anchor copies the literal. Lexical Analysis replaces Padaccheda on the verse study. The witness omission of `saṃjñāskandha` remains unpatched. Nirvāṇa-as-exit and *vastu*-as-cause stay glosses. The wheel is in the Organon reading, not in the conventional line.

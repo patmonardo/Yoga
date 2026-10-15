@@ -1,4 +1,4 @@
-# VAK_1.40 — Seeing, Cultivation, and Abandonment
+# VAK_1.40 — Abandoned by Seeing, by Cultivation, or Not
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -14,184 +14,121 @@
 
 ## 3. Lexical Analysis
 
-```text
-pañca cāntyās trayaḥ  → pañca ca antyāḥ trayaḥ
-trayas tridhā         → trayaḥ tridhā
-dṛṣṭiheyam            → dṛṣṭi-heyam
-akliṣṭam              → a-kliṣṭam
-nāpy aṣaṣṭhajam       → na api a-ṣaṣṭha-jam
-```
-
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
-| daśa | numeral | ten Form Principles, specified by the Bhāṣya as *rūpiṇaḥ* |
-| bhāvanayā | instrumental feminine singular | through cultivation or development |
-| heyāḥ | nominative masculine plural gerundive | to be abandoned or relinquished |
-| pañca ca | numeral and particle | and five more: the sensory Cognition Principles |
-| antyāḥ trayaḥ | nominative masculine plural | the final three Principles in recitation order |
-| tridhā | adverb | threefold, in three path-statuses |
-| dṛṣṭi-heya | neuter singular predicate | to be abandoned by seeing |
-| a-kliṣṭam | nominative/accusative neuter singular | unafflicted; distinct here from *anāsrava*, pure |
-| rūpam | nominative/accusative neuter singular | Form |
-| a-ṣaṣṭha-jam | nominative/accusative neuter singular compound | not born from the sixth, the Mind Essence |
+| daśa | numeral | the ten of form |
+| bhāvanayā heyāḥ | instrumental, gerundive | abandoned by cultivation |
+| pañca ca | numeral | and the five cognition-principles |
+| antyāḥ trayaḥ | nominative | the last three |
+| tridhā | adverb | in three ways |
+| dṛṣṭi-heya | gerundive | abandoned by seeing |
+| akliṣṭa | negative | unafflicted |
+| rūpa | nominative | form |
+| a-ṣaṣṭha-ja | compound | not born from the sixth |
 
-The Bhāṣya uses *darśanaheya* for the Kārikā's *dṛṣṭiheya*. Both name
-the path-status of what is abandoned through seeing the truths.
+The sixth is the mind-essence. The last three are the mind-principle, the dharma-principle, and the mind-cognition principle. The dharma-principle is not an essence.
 
 ## 4. Grammar
 
-The first line is elliptical. The Bhāṣya supplies the referents:
-
 ```text
-ten Form Principles
-+ five sensory Cognition Principles
-    → abandoned through cultivation
+ten of form, and five cognitions
+    abandoned by cultivation
+
+last three
+    abandoned by seeing
+    abandoned by cultivation
+    not abandoned
+
+not abandoned by seeing
+    the unafflicted
+    form
+    what is not born from the sixth
 ```
 
-The ten Form Principles comprise five Faculties and five field Principles:
-
-```text
-Faculty Principles:
-    Eye, Ear, Nose, Tongue, Body
-
-field Principles:
-    visible Form, Sound, smell, taste, tangible Form
-```
-
-The five Cognition Principles are sensory: visual, auditory, olfactory,
-gustatory, and tactile Cognition.
-
-The final three are Mind, Dharma, and Mind-Cognition. Each admits the
-three path-statuses made explicit in the Bhāṣya:
-
-```text
-88 latent afflictions,
-their co-arisen Dharmas,
-their acquisitions,
-and their attendants
-    → abandoned by seeing
-
-remaining impure Dharmas
-    → abandoned through cultivation
-
-pure Dharmas
-    → not to be abandoned
-```
-
-The verse's negative clauses set limits on seeing-abandonment: nothing
-unafflicted, no Form, and nothing not born from the sixth is abandoned by
-seeing. The Bhāṣya identifies the sixth as the Mind Essence
-(*mana-āyatana*).
-
-Do not collapse *akliṣṭa* (“unafflicted”) into *anāsrava* (“pure”). The
-Bhāṣya calls ordinary-person status *akliṣṭa* and indeterminate while
-arguing that it is not abandoned by seeing. The terms mark distinct
-classifications.
+Two sentences. The count, then the exclusion.
 
 ## 5. Translation
 
 ### Literal Translation
 
-> Ten are to be abandoned through cultivation, and five also. The final three are threefold. Nothing unafflicted is to be abandoned by seeing, nor Form, nor what is not born from the sixth.
+Ten are abandoned by cultivation, and five. The last three are threefold. Nothing unafflicted is abandoned by seeing, nor form, nor what is not born from the sixth.
 
 ### Bhāṣya-informed study translation
 
-> The ten Form Principles and five sensory Cognition Principles are to be abandoned through cultivation. Mind, Dharma, and Mind-Cognition are each classified across three path-statuses: the latent afflictions, co-arisen Dharmas, their acquisitions, and attendants abandoned by seeing; the remaining impure Dharmas abandoned through cultivation; and the pure Dharmas that are not to be abandoned. Seeing abandons neither what is unafflicted, nor Form, nor what is not born from the Mind Essence.
+The ten of form, and the five cognition-principles, are abandoned by cultivation. The last three, in the order of recitation, are the mind-principle, the dharma-principle, and the mind-cognition principle. These three are of three kinds. The eighty-eight latent afflictions, what arises with them, their acquisitions, and their attendants are abandoned by seeing. The remaining Impure are abandoned by cultivation. The Pure are not abandoned.
+
+Is there not something else abandoned by seeing: ordinary-person status, and body and speech action leading to a bad destination, because they oppose the noble path? They are not abandoned by seeing. This is the summary. Nothing unafflicted is abandoned by seeing, nor form, nor what is not born from the sixth.
+
+Ordinary-person status is unafflicted and indeterminate. Even those whose wholesome roots are cut, and those freed from attachment, possess it. Body and speech action is form. Therefore it is not abandoned by seeing. And because there is no misapprehension concerning the truths, and because ordinary-person status would follow at the receptivity to dharma-knowledge concerning suffering.
+
+Nor what is not born from the sixth. The sixth is the mind-essence. What is born elsewhere, and what is born of the five organs, is not abandoned by seeing.
+
+## 6. Philosophical Translation
+
+Abandonment by seeing does not reach form, and it does not reach the five cognitions. Those fifteen are abandoned by cultivation. Only the last three take all three statuses. What is abandoned by seeing in them is the eighty-eight, what arises with them, their acquisitions, and their attendants. The rest of the Impure in them is abandoned by cultivation. The Pure is not abandoned.
+
+The objection offers two more for seeing: ordinary-person status, and body and speech action to a bad destination, because both oppose the path. The verse excludes them. Ordinary-person status is unafflicted and indeterminate. It is still possessed when the wholesome roots are cut, and when attachment is gone. Body and speech action is form. Seeing does not abandon form. And there is no misapprehension of the truths in that status. If seeing abandoned it, the status would still be there at the receptivity to dharma-knowledge of suffering.
+
+The sixth is the mind-essence. What is not born from it, including what is born of the five organs, is not abandoned by seeing. The cut is the mind-essence, not the five.
 
 ## 7. Technical Vocabulary
 
-| Sanskrit | Project rendering | Determination |
+| Sanskrit | Rendering | Note |
 |---|---|---|
-| *heya* | to be abandoned / relinquished | path-status, not a claim that the Principle-system is erased |
-| *dṛṣṭiheya* / *darśanaheya* | abandoned by seeing | directly relinquished through seeing the truths |
-| *bhāvanāheya* | abandoned through cultivation | relinquished through path-development |
-| *aheya* | not to be abandoned | the Bhāṣya assigns this status to pure Dharmas |
-| *bhāvanā* | cultivation / development | path-operation distinct from seeing |
-| *anuśaya* | latent affliction | eighty-eight are assigned to seeing-abandonment |
-| *sahabhū* | co-arisen factor | arises together with a latent affliction |
-| *prāpti* | acquisition | included with the seeing-abandoned complex |
-| *sānucara* | accompanied by attendants | extends the complex abandoned with the affliction |
-| *akliṣṭa* | unafflicted | a separate predicate; not interchangeable with pure |
-| *sāsrava* | impure | the Bhāṣya assigns remaining instances to cultivation |
-| *anāsrava* | pure | the Bhāṣya assigns these to non-abandonment |
-| *aṣaṣṭhaja* | not born from the sixth | not born from the Mind Essence |
-| *mana-āyatana* | Mind Essence | the sixth, as identified in the Bhāṣya |
+| darśana-heya | abandoned by seeing | the verse says dṛṣṭi-heya |
+| bhāvanā-heya | abandoned by cultivation | the ten of form, and the five cognitions |
+| aheya | not abandoned | the Pure |
+| antyāḥ trayaḥ | the last three | mind, dharma, mind-cognition |
+| anuśaya | latent affliction | eighty-eight, with what arises with them |
+| pṛthagjanatva | ordinary-person status | unafflicted and indeterminate |
+| aṣaṣṭhaja | not born from the sixth | the sixth is the mind-essence |
+| mana-āyatana | mind-essence | not a principle-word |
+| sāsrava | Impure | the remainder, abandoned by cultivation |
+| anāsrava | Pure | not abandoned |
 
 ## 8. Logical Determination
 
 ```text
-TenFormPrinciples
-    → Bhāvanāheya
+fifteen
+    ten of form
+    five cognitions
+    abandoned by cultivation
 
-FiveSensoryCognitionPrinciples
-    → Bhāvanāheya
+last three
+    seeing
+    cultivation
+    not abandoned
 
-{MindPrinciple, DharmaPrinciple, MindCognitionPrinciple}
-    → {Darśanaheya, Bhāvanāheya, Aheya}
-```
+excluded from seeing
+    unafflicted
+    form
+    not born from the mind-essence
 
-The Bhāṣya refines the final three:
+ordinary-person status
+    unafflicted, indeterminate
+    still possessed when roots are cut
 
-```text
-Impure:
-    latent afflictions + co-arisen Dharmas + acquisitions + attendants
-        → Darśanaheya
+body and speech action
+    form
+    not abandoned by seeing
 
-    remaining Dharmas
-        → Bhāvanāheya
-
-Pure:
-    → Aheya
-```
-
-The exclusions and rejected inference are:
-
-```text
-Unafflicted(x)
-∨ Form(x)
-∨ NotBornFromMindEssence(x)
-    → ¬Darśanaheya(x)
-
-OpposesNoblePath(x)
-    ↛ Darśanaheya(x)
+1.41 not opened
 ```
 
 ## 9. Interpretive Note
 
-### The Bhāṣya's Objection and Reply
+The hinge is the exclusion. Opposing the path is not enough. Seeing abandons only what is afflicted, not form, and born from the sixth. The fifteen never enter that count.
 
-The questioner points to ordinary-person status and Body-and-Voice action
-that leads to a bad destination. These oppose the noble Path, so why are
-they not abandoned by seeing?
+## 10. OWL++ Seed
 
-The reply rejects that inference: opposition to the noble Path is not by
-itself enough to make something seeing-abandoned. Ordinary-person status is
-unafflicted and indeterminate. Body-and-Voice action belongs to Form, and
-Form is not abandoned by seeing. The Bhāṣya further explains *aṣaṣṭhajam*
-through the Mind Essence: what is born elsewhere, including what is
-born through the five Faculties, is not abandoned by seeing.
+```ttl
+@prefix vak: <http://127.0.0.1:3000/vak#> .
 
-Thus the second line does more than repeat the three path-statuses. It
-excludes whole classes from one specific operation, seeing, while leaving
-their relation to cultivation or non-abandonment to their other
-determinations.
+vak:VAK_1_40 a vak:Karika ;
+    vak:hasTopic vak:AbandonmentBySeeingOrCultivation ;
+    vak:belongsTo vak:Dhatunirdesa .
 
-VAK 1.40 classifies the ten Form Principles and five sensory Cognition
-Principles as cultivation-abandoned. The final three—Mind, Dharma, and
-Mind-Cognition—are classified across seeing-abandonment,
-cultivation-abandonment, and non-abandonment. The Bhāṣya specifies the
-contents of each status; opposition to the noble Path alone does not
-determine the mode of abandonment.
-
-Keep “unafflicted” distinct from “pure.” Ordinary-person status can be
-unafflicted and indeterminate without being pure. The exclusions of Form
-and what is not born from the sixth further delimit seeing-abandonment;
-the sixth is the Mind Essence.
-
-The Kośa explicitly presents Vijñāna as Discriminative Cognition joining
-and governing Perception and Conception. Their unity is Inconceivable as
-a homogeneous operation; its Idea is disclosed in the Cognition Base.
-Vijñāna governs Manas and guides Dharma Base. Form Base and Dharma Base
-classify the same *avijñapti* distinctly, and Vijñāna bears a *prati*
-relation to it. Vijñāna remains distinct from consciousness (*citta*) and
-Mind (*manas*).
+vak:TenOfForm vak:abandonedBy vak:Cultivation .
+vak:LastThree vak:pathStatus "threefold" .
+vak:SeeingAbandonment vak:excludes vak:Unafflicted, vak:Form, vak:NotBornFromTheSixth .
+```

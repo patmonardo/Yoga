@@ -1,4 +1,4 @@
-# VAK_1.44 Bhāṣya — Condition Extent and Cognition Supports
+# VAK_1.44 Bhāṣya — Equal Grasp, and the Past Support
 
 ## 1. Kārikā Anchor
 
@@ -6,364 +6,159 @@
 >
 > caramasyāśrayo 'tītaḥ pañcānāṃ sahajaś ca taiḥ // 1.44 //
 
-### Bhāṣya-informed study translation
+> By the three beginning with the nose, grasp of an equal object is held. The support of the last is past. Of the five, a co-born support too, with them.
 
-> Nose, Tongue, and Body apprehend contacted Conditions through equal numbers of participating Faculty atoms and Condition atoms. The Mind-Cognition Principle is supported by the Mind that ceased immediately before it. Each of the five sensory Cognitions has that past Mind support together with a second, simultaneous support—its own co-born sensory Faculty.
+## 2. Continuous Sanskrit Witness
 
-The second rendering makes the force of the conjunction explicit: the sensory Cognitions
-have a co-born Faculty support as well as the immediately past Mind support.
-
-### Anchor note
-
-The Bhāṣya explains equality through Faculty atoms and Condition atoms.
-“The last” is the Mind-Cognition Principle; “the five” are sensory
-Cognitions. Each sensory Cognition has a co-born Faculty support as
-well as the past Mind support. The intervening exposition of Faculty
-atoms belongs to this same commentary unit.
-## 2. Continuous Sanskrit
-
-> kiṃ punarebhiścakṣurādibhirātmaparimāṇatulyasyārthasya grahaṇaṃ bhavatyāśuvṛttyā ca parvatādīnāmalātacakrādivadāhosvittulyātulyasya /
+> kiṃ punar ebhiś cakṣur-ādibhir ātma-parimāṇa-tulyasyārthasya grahaṇaṃ bhavaty āśu-vṛttyā ca parvata-ādīnām alāta-cakrādivad āhosvit tulyātulyasya /
 >
-> yāni tāvadetāni prāptaviṣayāṇyuktānyebhiḥ /
+> yāni tāvad etāni prāpta-viṣayāṇy uktāny ebhiḥ /
 >
-> tribhirghrāṇādibhistulyaviṣayagrahaṇaṃ matam /
+> tribhir ghrāṇādibhis tulya-viṣaya-grahaṇaṃ matam /
 >
-> yāvanto hīndriyaparamāṇavastāvanto hi viṣayaparamāṇavaḥ sametya vijñānaṃ janayanti /
+> yāvanto hīndriya-paramāṇavas tāvanto hi viṣaya-paramāṇavaḥ sametya vijñānaṃ janayanti /
 >
-> cakṣuḥśrotrābhyāṃ tvaniyamaḥ /
-> kadācidalpīyāṃso yadā vālāgraṃ paśyati /
+> cakṣuḥ-śrotrābhyāṃ tv aniyamaḥ /
 >
-> kadācit samā yadā drākṣāphalaṃ paśyati /
+> kadācid alpīyāṃso yadā vālāgraṃ paśyati /
 >
-> kadācit bhūyāṃso yadā mahāntaṃ parvataṃ paśyatyunmiṣitamātreṇa /
+> kadācit samā yadā drākṣā-phalaṃ paśyati /
 >
-> evam śrotreṇa maśakameghādiśabdaśravaṇe ghoṣam /
+> kadācid bhūyāṃso yadā mahāntaṃ parvataṃ paśyaty unmiṣita-mātreṇa /
 >
-> manastvamūrtatvād eveti nāsya parimāṇaparicchedaḥ saṃpradhāryate /
+> evaṃ śrotreṇa maśaka-meghādi-śabda-śravaṇe /
 >
-> kathaṃ punareṣāṃ cakṣurādīndriyaparamāṇūnāṃ saṃniveśaḥ /
+> manas tv amūrtatvād eveti nāsya parimāṇa-paricchedaḥ saṃpradhāryate /
 >
-> cakṣurindriyaparamāṇavastāvadakṣitārakāyāmajājīpuṣpavadavasthitāḥ /
+> kathaṃ punar eṣāṃ cakṣur-ādīndriya-paramāṇūnāṃ saṃniveśaḥ /
 >
-> acchacarmāvacchāditāstu na vikīryante /
+> cakṣur-indriya-paramāṇavas tāvad akṣi-tārakāyām ajājī-puṣpavad avasthitāḥ /
 >
-> adharottaryeṇa piṇḍavadavasthitā ityapare /
+> accha-carmāvacchāditās tu na vikīryante /
 >
-> na cānyo 'nyamāvṛṇvanti sphaṭikavadacchatvāt /
+> adharottaryeṇa piṇḍavad avasthitā ity apare /
 >
-> śrotrendriyaparamāṇavo bhūrjābhyantarāvasthitāḥ /
+> na cānyo 'nyam āvṛṇvanti sphaṭikavad acchatvāt /
 >
-> ghrāṇendriyaparamāṇavo ghaṭābhyantareṇa śalākāvat /
+> śrotrendriya-paramāṇavo bhūrjābhyantarāvasthitāḥ /
 >
-> ādyāni trīṇīndriyāṇi mālāvadavasthitāni /
+> ghrāṇendriya-paramāṇavo ghaṭābhyantareṇa śalākāvat /
 >
-> jihvendriyaparamāṇavo 'rdhacandravat /
+> ādyāni trīṇīndriyāṇi mālāvad avasthitāni /
 >
-> vālāgramātraṃ kila madhyajihvāyāṃ jihvendriyaparamāṇubhirasphuṭam /
+> jihvendriya-paramāṇavo 'rdha-candravat /
 >
-> kāyendriyaparamāṇavaḥ kāyavadavasthitāḥ /
+> vālāgra-mātraṃ kila madhya-jihvāyāṃ jihvendriya-paramāṇubhir asphuṭam /
 >
-> strīndriyaparamāṇavo bherīkaṭāhavat /
-> puruṣendriyaparamāṇavo 'ṅguṣṭhavat /
+> kāyendriya-paramāṇavaḥ kāyavad avasthitāḥ /
 >
-> tatra cakṣurindriyaparamāṇavaḥ kadācit sarve sabhāgā bhavanti kadācittatsabhāgāḥ /
+> strīndriya-paramāṇavo bherī-kaṭāhavat /
 >
-> kadācideke sabhāgāḥ eke tatsabhāgāḥ /
+> puruṣendriya-paramāṇavo 'ṅguṣṭhavat /
 >
-> evam yāvajjihvendriyaparamāṇavaḥ /
+> tatra cakṣur-indriya-paramāṇavaḥ kadācit sarve sabhāgā bhavanti kadācit tat-sabhāgāḥ /
 >
-> kāyendriyaparamāṇavastu sarve sabhāgā na bhavanti /
+> kadācid eke sabhāgā eke tat-sabhāgāḥ /
 >
-> pradīptanarakābhyantarāvaruddhānāmapi hyaparimāṇāḥ kāyendriyaparamāṇavastatsabhāgā bhavanti /
+> evaṃ yāvaj jihvendriya-paramāṇavaḥ /
 >
-> sarvaiḥ kila vijñānotpattāvāśrayo viśīryeta /
+> kāyendriya-paramāṇavas tu sarve sabhāgā na bhavanti /
 >
-> na caika indriyaparamāṇurviṣayaparamāṇurvā vijñānaṃ janayati /
+> pradīpta-narakābhyantarāvaruddhānām api hy aparimāṇāḥ kāyendriya-paramāṇavas tat-sabhāgā bhavanti /
 >
-> saṃcitāśrayālambanatvāt pañcānāṃ vijñānakāyānām /
+> sarvaiḥ kila vijñānotpattāv āśrayo viśīryeta /
 >
-> ata evānidarśanaḥ paramāṇuradṛśyatvāt //
+> na caika indriya-paramāṇur viṣaya-paramāṇur vā vijñānaṃ janayati /
 >
-> ya ime ṣaḍvijñānadhātava uktāścakṣurvijñānaṃ yāvanmanovijñānaṃ kimeṣāṃ yathā viṣayo varttamānaḥ pañcānāṃ caramasya trikāla evamāśrayo 'pi /
+> saṃcitāśrayālambanatvāt pañcānāṃ vijñāna-kāyānām /
 >
-> netyāha /
+> ata evānidarśanaḥ paramāṇur adṛśyatvāt /
+>
+> ya ime ṣaḍ vijñāna-dhātava uktāś cakṣur-vijñānaṃ yāvan mano-vijñānaṃ kim eṣāṃ yathā viṣayo vartamānaḥ pañcānāṃ caramasya trikāla evam āśrayo 'pi /
+>
+> nety āha /
 >
 > kiṃ tarhi /
 >
-> caramasyāśrayo 'tītaḥ
+> caramasyāśrayo 'tītaḥ /
 >
-> manovijñānadhātoḥ samanantaraniruddhaṃ mana āśrayaḥ /
+> mano-vijñāna-dhātoḥ samanantara-niruddhaṃ mana āśrayaḥ /
 >
-> pañcānāṃ sahajaśca taiḥ // 1.44 //
+> pañcānāṃ sahajaś ca taiḥ /
 >
-> atītaśceti caśabdaḥ /
+> atītaś ceti ca-śabdaḥ /
 >
-> tatra cakṣurvijñānasya cakṣuḥ sahaja āśrayo yāvat kāyavijñānasya kāyaḥ /
+> tatra cakṣur-vijñānasya cakṣuḥ sahaja āśrayo yāvat kāya-vijñānasya kāyaḥ /
 >
-> atītaḥ punareṣāmāśrayo mana ityapyete pañca vijñānakāyā indriyadvayāśrayāḥ /
+> atītaḥ punar eṣām āśrayo mana ity apy ete pañca vijñāna-kāyā indriya-dvayāśrayāḥ /
 >
-> ata evocyate "yaścakṣurvijñānasyāśrayabhāvena samanantarapratyayabhāvenāpi sa tasye"ti /
+> ata evocyate yaś cakṣur-vijñānasyāśraya-bhāvena samanantara-pratyaya-bhāvenāpi sa tasyeti /
 >
-> catuṣkoṭikaḥ /
-> prathamā kotiścakṣuḥ /
-> dvitīyā samanantarātītaścaitasiko dharmadhātuḥ /
+> catuṣ-koṭikaḥ /
+>
+> prathamā koṭiś cakṣuḥ /
+>
+> dvitīyā samanantarātītaś caitasiko dharma-dhātuḥ /
 >
 > tṛtīyā samanantarātītaṃ manaḥ /
-> caturthī koṭiruktanirmuktā dharmāḥ /
 >
-> evaṃ yāvat kāyavijñānasya svamindriyaṃ vaktavyam /
+> caturthī koṭir ukta-nirmuktā dharmāḥ /
 >
-> manovijñānasya pūrvapādakaḥ /
+> evaṃ yāvat kāya-vijñānasya svam indriyaṃ vaktavyam /
 >
-> yastāvadāśrayabhāvena samanantarapratyayabhāvenāpi saḥ /
+> mano-vijñānasya pūrva-pādakaḥ /
 >
-> syātsamanantarapratyayabhāvena nāśrayabhāvena /
+> yas tāvad āśraya-bhāvena samanantara-pratyaya-bhāvenāpi saḥ /
 >
-> samanantarābhyatītaścetasiko dharmadhāturiti /
+> syāt samanantara-pratyaya-bhāvena nāśraya-bhāvena /
+>
+> samanantarābhyatītaś caitasiko dharma-dhātur iti /
 
-The unit runs from printed 33.08 through 34.16. The research excerpt
-omits most of 33.16–34.05 and the support-condition analysis at 34.11–16.
-Both are restored here. The question beginning at 34.17 and the
-answer concerning change in the support belong to 1.45; they are
-not imported into this unit.
+Word division is editorial. The next question is not this page.
 
-Mechanical repairs address word division, sandhi, and sentence forms
-in the running transcription. The source is a normalized local
-transcription, not a manuscript collation.
+## 3. Continuous Conventional Translation
 
-Several descriptions remain compressed or defective. The hearing
-sentence ends with an isolated sound word; the translation gives the
-clear mosquito/cloud comparison without inventing a predicate for
-it. The Ear arrangement says only “situated inside birch [bark]” and
-is translated with a marked supplement rather than silently
-reconstructed. The Nose arrangement's pot-interior/rod comparison
-is likewise retained. At 34.11 the conditional question is compressed
-in the running text; its sense is made explicit from the four answers
-that follow.
+> Do these, beginning with the eye, grasp an object equal to their own size, and a mountain and the rest by a swift operation, like a fire-wheel? Or equal and unequal?
+>
+> Those said to reach their object:
+>
+> By the three beginning with the nose, grasp of an equal object is held.
+>
+> For as many organ-atoms as there are, so many object-atoms come together and produce cognition. By eye and ear, however, there is no rule. Sometimes fewer, when one sees the tip of a hair. Sometimes equal, when one sees a grape. Sometimes more, when one sees a great mountain by merely opening the eye. So with the ear, in the hearing of the sound of a mosquito, a cloud, and the rest. Mind, being unformed, has no determination of size.
+>
+> How are these organ-atoms, beginning with the eye, arranged? The eye-atoms stand on the pupil like a cumin flower. Covered by a clear skin, they do not scatter. Others say they stand piled, one above another, like a ball. And they do not cover one another, being clear like crystal. The ear-atoms stand inside the ear-cavity. The nose-atoms stand like a probe inside a pot. The first three organs stand like a garland. The tongue-atoms stand like a half-moon. The middle of the tongue, the measure of a hair-tip, is not occupied by tongue-atoms. The body-atoms stand like the body. The atoms of the female organ are like the bowl of a drum. Those of the male organ are like a thumb.
+>
+> Sometimes all the eye-atoms do their own work. Sometimes they correspond and do not. Sometimes some do and some do not. So through the tongue-atoms. The body-atoms, however, are never all doing their own work. Even of those confined inside a blazing hell, innumerable body-atoms correspond and do not. If cognition arose through all of them, the support would disintegrate. And no single organ-atom or object-atom produces cognition, because the five cognition-groups have an accumulated support and an accumulated object. For this reason an atom is invisible, because it is not seen.
+>
+> These six cognition-principles already stated, eye-cognition through mind-cognition: as the object of the five is present, and of the last of the three times, is the support likewise? He says no. What then?
+>
+> The support of the last is past.
+>
+> The support of the mind-cognition-principle is mind that ceased immediately before.
+>
+> Of the five, a co-born support too, with them.
+>
+> "And" means past as well. The eye is the co-born support of eye-cognition, through the body as support of body-cognition. Their past support is mind. So these five cognition-groups have two supports.
+>
+> Hence it is said: whatever serves eye-cognition as support, does it also serve as the immediately preceding condition? Four alternatives. The first is the eye. The second is the immediately past mental dharma-principle. The third is immediately past mind. The fourth is dharmas other than those stated. So through body-cognition: each one's own organ is to be stated. For mind-cognition the relation is one-sided. Whatever serves as support also serves as the immediately preceding condition. There can be an immediately preceding condition that is not the support: the immediately past mental dharma-principle.
 
-## 3. Continuous Translation
+## 4. Movement
 
-Do the Eye and the other Faculties apprehend an Object equal in
-extent to themselves, with mountains and the like apprehended
-through rapid operation, as with a firebrand-circle? Or do they
-apprehend Objects both equal and unequal in extent? For those
-previously said to reach their Conditions through contact, apprehension
-of a Condition equal in extent is accepted for the three beginning with the Nose.
-As many Faculty atoms as there are, that many Condition atoms come
-together and generate Cognition.
+Equal grasp for the three that reach. No rule for eye and ear. The seats of the atoms, then the work they do. One atom does not produce cognition. The support of mind-cognition is past. The five have a co-born support and a past support. Support and the immediately preceding condition are four alternatives, not one.
 
-With the Eye and Ear, however, there is no fixed rule. Sometimes
-[the Condition atoms] are fewer, as when one sees the tip of a hair;
-sometimes equal, as when one sees a grape; sometimes more, as when
-one sees a great mountain merely upon opening the Eyes. Likewise
-the Ear hears sounds of a mosquito, a cloud, and the like. Since
-Mind is not Form, no delimitation of its spatial magnitude is
-considered.
+## 5. Decisions
 
-How are the atoms of these Faculties arranged? The Eye-Faculty atoms
-are situated in the pupil like an ajājī flower. Covered by transparent
-skin, they do not scatter. Others say they are situated one above
-another, like a mass. They do not conceal one another because they
-are transparent like crystal. The Ear-Faculty atoms are situated
-inside [a structure likened to] birch bark. The Nose-Faculty atoms
-are like rods within a pot. The first three Faculties are arranged
-like a garland. The Tongue-Faculty atoms are arranged like a half-moon.
-Reportedly, an area the size of a hair-tip in the middle of the
-Tongue is not pervaded by Tongue-Faculty atoms. The Body-Faculty
-atoms are arranged like the body. Those of the female Faculty are
-like a kettledrum's bowl; those of the male Faculty are like a thumb.
+1. Nose, tongue, and body grasp an equal object, atom for atom.
+2. Eye and ear have no rule of size. Mind has no size.
+3. The body-atoms are never all doing their own work.
+4. The support of mind-cognition is mind that ceased immediately before.
+5. The five have two supports: the co-born organ, and past mind.
+6. The eye is support and not the immediately preceding condition. Immediately past mind is both.
 
-Sometimes all the Eye-Faculty atoms are functionally participating;
-sometimes they are corresponding non-participants; sometimes some
-participate and some do not. The same holds through the Tongue-Faculty
-atoms. The Body-Faculty atoms, however, are never all functionally
-participating. Even for those confined within a blazing hell,
-innumerable Body-Faculty atoms are corresponding non-participants.
-Reportedly, if Cognition arose through all of them, the support would
-disintegrate.
+## 6. Organon Reading
 
-No single Faculty atom or Condition atom produces Cognition. The five
-classes of Cognition have accumulated [atoms] as their supports and
-objects. For this very reason an atom is non-visible, since it is not
-seen.
+Equal grasp is the meeting of two counts. Eye and ear are not held to that count. The support is timed otherwise than the object. Present object, past support, and for the five a co-born support as well. The four alternatives keep the support from collapsing into the immediately preceding condition.
 
-As for the six Cognition Principles already stated, from Eye-Cognition
-through Mind-Cognition: just as the Conditions of the five are present
-and the Condition of the last belongs to all three times, are their
-supports likewise [present and threefold]? No. What, then? The
-support of the last is past. The support of the Mind-Cognition
-Principle is Mind that ceased immediately before.
+## 7. Review Status
 
-For the five, a support is also co-born with them. “Also” preserves
-the past support as well. The Eye is the co-born support of Eye-Cognition,
-and so on through the Body as support of Body-Cognition. Their past
-support is Mind. Thus these five Cognition classes have two supports.
-
-For this reason the following is asked: whatever serves Eye-Cognition
-as support, does it also serve as an immediately preceding condition?
-There are four cases. The first is the Eye. The second is a
-mental-factor in the immediately past Dharma Principle. The third is
-immediately past Mind. The fourth comprises the remaining Dharmas.
-The same is to be said through Body-Cognition,
-with each one's own Faculty.
-
-For Mind-Cognition, the relation is one-sided. Whatever serves as
-its support also serves as its immediately preceding condition.
-There can, however, be something serving as immediately preceding
-condition without serving as support: a mental-factor in the
-immediately past Dharma Principle.
-
-Bracketed words clarify the implied subject or the compressed
-anatomical comparisons. The statement about the temporal range of
-Conditions for Mind-Cognition is retained as the premise posed here; the
-passage's answer determines the time of its support.
-
-## 4. Movement and Voices of the Commentary
-
-The first question offers a rapid-operation explanation for apparently
-Cognizing extensive Conditions and asks whether equality of extent is
-universal. The answer restricts equality to the three contact
-Faculties, then gives variable cases for Eye and Ear and excludes
-spatial magnitude as a measure of Mind.
-
-A new question opens the faculty-atom descriptions. An alternative
-arrangement of the Eye is explicitly attributed to “others.” The
-following participation account distinguishes the first four sensory
-Faculties from the Body Faculty. Its reportive wording, including the
-hell example's explanation, remains reportive in the translation.
-
-The final question compares the temporal status of a Cognition's Condition
-with the time of its support. The answer distinguishes past Mind from
-co-born sensory Faculties, then tests support against the
-immediately preceding condition. That test is part of 1.44's
-exposition, not a later optional supplement.
-
-## 5. Equality of Extent and Accumulated Atoms
-
-The three beginning with the Nose are Nose, Tongue, and Body. The
-Bhāṣya explains apprehension of an equal-extent Condition through
-matching numbers
-of participating Faculty atoms and Condition atoms coming together
-to produce Cognition. It is not a claim that the entire Condition
-must equal the entire Faculty in gross size.
-
-The Eye and Ear do not have this fixed equality. The hair-tip,
-grape, and mountain examples concern fewer, equal, or more
-Condition atoms in the proposed comparison. The mountain is seen
-merely upon opening the Eyes, so the answer does not accept rapid
-scanning as the universal explanation proposed in the question.
-The firebrand-circle is an example within that question, not the
-conclusion of the passage.
-
-The later statement about accumulated supports and objects is
-essential: one isolated atom on either side does not produce a
-sensory Cognition. The Bhāṣya explicitly coordinates accumulated
-support and accumulated object. It therefore prevents the equality
-claim from being read as a single Faculty atom and a single Condition
-atom independently producing a complete Cognition.
-
-The conclusion that an atom is not seen must remain tied to this
-argument. It does not say that visible Form-complexes are unseen,
-or that Form has been reclassified as non-Form.
-
-## 6. Arrangement and Functional Participation
-
-The arrangements are the text's accounts of subtle Faculty atoms.
-They should not be presented as verified modern anatomy. They
-also should not be replaced by descriptions of gross organs:
-the Eye passage expressly distinguishes its atoms from the
-transparent covering said to contain them.
-
-The female and male Faculties appear within this anatomical
-excursus, although they are not added to the sixfold list of
-Cognition supports. Their presence does not change the number
-of sensory Cognition classes under discussion.
-
-The participation categories recall 1.39's functional classification.
-The passage permits all-participating,
-all-non-participating, and mixed cases for the eye through the
-tongue; the Body Faculty is said never to have every atom
-participating. The extreme hell example supports that last
-claim within the doctrinal account.
-
-This is a determination of participation, not merely the number
-of atoms arranged anatomically. The report that total participation
-would disintegrate the support should not be expanded into a
-modern theory of overstimulation or a numerical threshold absent
-from the text.
-
-## 7. Support and the Immediately Preceding Condition
-
-“The last” refers to the Mind-Cognition Principle. Its support is
-the Mind that has just ceased. The “also” is decisive: for sensory
-Cognition, a co-born Faculty support is added to past Mind. The
-research anchor omits this addition and thus conceals the two-support
-determination supplied explicitly by the prose.
-
-The four cases for Eye-Cognition distinguish two relations:
-
-| Case | Support | Immediately preceding condition | Example |
-|---|---|---|---|
-| First | Yes | No | Eye Faculty |
-| Second | No | Yes | Immediately past mental factors within the Dharma Principle |
-| Third | Yes | Yes | Immediately past Mind |
-| Fourth | No | No | Dharmas outside the stated cases |
-
-The same structure applies to the other sensory Cognitions by
-substituting their own Faculties. The second case does not mean
-the entire Dharma Principle; it is restricted to mental factors,
-and the temporal qualification restricts it further.
-
-For Mind-Cognition the implication is one-sided: support implies
-immediately preceding condition, while the converse fails for
-immediately past mental factors. The text thus gives a relational
-distinction more exact than calling everything that conditions
-Cognition its “support.”
-
-This unit establishes which supports are past or co-arisen and
-how support differs from immediately preceding condition. The
-explanation of why the eye rather than visible form receives the
-designation “support” begins at 1.45 and remains there.
-
-## 8. The Bhāṣya's Decisions for the Kārikā
-
-- Specify Nose, Tongue, and Body as the three governed by equality.
-- Read the equality through participating Faculty atoms and Condition atoms.
-- Preserve the absence of a fixed equality for Eye and Ear.
-- Restore the Faculty arrangements and participation classifications.
-- Include the requirement of accumulated supports and objects.
-- Supply “also” for the sensory Cognitions' co-born supports,
-  retaining past Mind as their additional support.
-- Preserve the fourfold support/condition analysis and its different
-  implication pattern for Mind-Cognition.
-
-## 9. Interpretation
-
-The unit distinguishes three relations: the extent of a Condition
-for the contact Faculties, the support on which Cognition depends,
-and the immediately preceding condition in time. Nose, Tongue, and
-Body alone receive the equal-count rule. Each sensory Cognition has
-both a past Mind support and a co-born Faculty support; the
-Mind-Cognition Principle depends on the immediately past Mind.
-The four cases show that support and temporal precedence do not
-always coincide.
-
-In the governing model, Vijñāna as Discriminative Cognition joins and
-governs Perception and Conception. Their unity is Inconceivable as a
-homogeneous operation, and its Idea is disclosed in Cognition Base.
-Vijñāna governs Manas and guides the reading of Dharma Base. Form Base
-and Dharma Base classify the same *avijñapti* distinctly; Vijñāna bears
-a *prati* relation to it and remains distinct from consciousness and Mind.
-
-## 10. Review Status
-
-Provisional forty-fourth study in the Bhāṣya edition. The running
-Sanskrit has been followed through 34.16. The omitted arrangements,
-participation discussion, accumulated-support/object statement, and
-support/temporal-condition analysis are included. The passage from 1.45
-in the research excerpt is reserved for its own study.
-
-Mechanical repairs and uncertain anatomical wording are documented.
-The isolated sound term remains visible in the Sanskrit block, with its
-limited translation treatment stated above. Textual uncertainty remains
-separate from the English rendering.
+Upgraded reading of the forty-fourth study. Scheme checked: principle is dhātu; cognition is vijñāna; the dharma-principle is not an essence; organ is not printed as faculty. 1.45 not opened.

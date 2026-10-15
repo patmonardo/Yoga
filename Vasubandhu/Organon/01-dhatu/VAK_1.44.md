@@ -1,4 +1,4 @@
-# VAK_1.44 — Condition Extent and Cognition Supports
+# VAK_1.44 — Equal Grasp, and the Past Support
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -14,213 +14,116 @@
 
 ## 3. Lexical Analysis
 
-```text
-tribhir ghrāṇādibhiḥ       → tribhiḥ ghrāṇa-ādibhiḥ
-tulyaviṣayagrahaṇam        → tulya-viṣaya-grahaṇam
-caramasyāśrayaḥ            → caramasya āśrayaḥ
-'tītaḥ                     → atītaḥ
-pañcānāṃ sahajaḥ          → pañcānām sahajaḥ
-ca taiḥ                    → ca taiḥ
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
-| tribhiḥ | instrumental plural numeral | by the three Faculties |
-| ghrāṇa-ādibhiḥ | instrumental masculine plural | by Nose, Tongue, and Body |
-| tulya-viṣaya-grahaṇam | nominative neuter singular compound | apprehension of a Condition equal in extent |
-| matam | nominative neuter singular past passive participle | is held or accepted by the relevant school |
-| caramasya | genitive masculine singular | of the last Cognition Principle, Mind-Cognition Principle |
-| āśrayaḥ | nominative masculine singular | support |
-| atītaḥ | nominative masculine singular | past; ceased immediately before |
-| pañcānām | genitive plural | of the five sensory Cognitions |
-| sahajaḥ | nominative masculine singular | co-born, simultaneous |
-| ca | conjunction | and; also, preserving the past support |
-| taiḥ | instrumental masculine plural | with those five Cognitions |
+| tribhiḥ ghrāṇa-ādibhiḥ | instrumental | by the three beginning with the nose |
+| tulya-viṣaya-grahaṇam | nominative | grasp of an equal object |
+| matam | participle | is held |
+| caramasya | genitive | of the last |
+| āśrayaḥ atītaḥ | nominative | the support is past |
+| pañcānām | genitive | of the five |
+| sahajaḥ ca taiḥ | nominative | a co-born support too, with them |
 
-The conjunction in the second line is important. The Bhāṣya explains that each of the
-five sensory Cognitions has both its co-born Faculty support and the
-immediately past Mind support.
+The three are nose, tongue, and body. The last is mind-cognition. The five are the cognitions beginning with the eye.
 
 ## 4. Grammar
 
-The first line specifies an extent relation for the three Faculties that
-operate through physical contact, continuing the classification of 1.43:
-
 ```text
-Nose, Tongue, Body
-    → contact a Condition equal in extent to the participating Faculty
+equal grasp
+    nose, tongue, body
+    as many organ-atoms as object-atoms
 
+no rule
+    eye and ear
+    fewer, equal, or more
+
+support
+    of mind-cognition: past
+    of the five: co-born, and past as well
 ```
-
-The Bhāṣya makes equality quantitative: as many Faculty atoms as participate,
-so many Condition atoms come together to generate Cognition. This equal-count
-relation applies to the three contact Faculties.
-
-The Bhāṣya says Eye and Ear have no fixed equality of extent. The Eye may
-disclose a hair-tip, a grape, or a mountain; the Ear may hear a mosquito or
-thunder. Mind is not Form, so spatial magnitude does not delimit its Condition.
-
-The second line distinguishes temporal supports:
-
-```text
-SupportOfMindCognitionPrinciple
-    → ImmediatelyPastMind
-
-SupportsOfFiveSensoryCognitions
-    → ImmediatelyPastMind
-    ∧ CoBornFaculty
-```
-
-The immediately preceding Mind supports the current Mind-Cognition
-Principle. Each of the five sensory Cognitions also depends on its own
-co-born Faculty support, in addition to the past Mind support.
 
 ## 5. Translation
 
 ### Literal Translation
 
-> The three beginning with the Nose are held to apprehend a Condition equal [in extent]. The support of the last Cognition Principle is past; the five also have co-born supports.
+By the three beginning with the nose, grasp of an equal object is held. The support of the last is past. Of the five, a co-born support too, with them.
 
 ### Bhāṣya-informed study translation
 
-> Nose, Tongue, and Body apprehend contacted Conditions through equal numbers of participating Faculty atoms and Condition atoms. The Mind-Cognition Principle is supported by the Mind that ceased immediately before it. Each of the five sensory Cognitions has that past Mind support together with a second, simultaneous support—its own co-born sensory Faculty.
+Do these, beginning with the eye, grasp an object equal to their own size, and a mountain and the rest by a swift operation, like a fire-wheel? Or equal and unequal? Those said to reach their object: by the three beginning with the nose, grasp of an equal object is held. As many organ-atoms as there are, so many object-atoms come together and produce cognition. By eye and ear, however, there is no rule. Sometimes fewer, when one sees the tip of a hair. Sometimes equal, when one sees a grape. Sometimes more, when one sees a great mountain by merely opening the eye. So with the ear, in the hearing of the sound of a mosquito, a cloud, and the rest. Mind, being unformed, has no determination of size.
 
-The second rendering makes the force of the conjunction explicit: the sensory Cognitions
-have a co-born Faculty support as well as the immediately past Mind support.
+How are the organ-atoms arranged? The eye-atoms stand on the pupil like a cumin flower. Covered by a clear skin, they do not scatter. Others say they stand piled, one above another, like a ball. They do not cover one another, being clear like crystal. The ear-atoms stand inside the ear-cavity. The nose-atoms stand like a probe inside a pot. The first three organs stand like a garland. The tongue-atoms stand like a half-moon. The middle of the tongue, the measure of a hair-tip, is not occupied by tongue-atoms. The body-atoms stand like the body. The atoms of the female organ are like the bowl of a drum. Those of the male organ are like a thumb.
+
+Sometimes all the eye-atoms do their own work. Sometimes they correspond and do not. Sometimes some do and some do not. So through the tongue-atoms. The body-atoms are never all doing their own work. Even of those confined inside a blazing hell, innumerable body-atoms correspond and do not. If cognition arose through all of them, the support would disintegrate. No single organ-atom or object-atom produces cognition. The five cognition-groups have an accumulated support and an accumulated object. For this reason an atom is invisible, because it is not seen.
+
+Of the six cognition-principles, from eye-cognition through mind-cognition: as the object of the five is present, and the object of the last is of the three times, is the support likewise? No. The support of the last is past. The support of the mind-cognition-principle is mind that ceased immediately before. Of the five, a support is also co-born with them. "And" means past as well. The eye is the co-born support of eye-cognition, through the body as support of body-cognition. Their past support is mind. So these five cognition-groups have two supports.
+
+Hence it is said: whatever serves eye-cognition as support, does it also serve as the immediately preceding condition? Four alternatives. The first is the eye. The second is the immediately past mental dharma-principle. The third is immediately past mind. The fourth is dharmas other than those stated. So through body-cognition, each with its own organ. For mind-cognition the relation is one-sided. Whatever serves as support also serves as the immediately preceding condition. There can be an immediately preceding condition that is not the support: the immediately past mental dharma-principle.
+
+## 6. Philosophical Translation
+
+Equal grasp belongs to the three that reach. As many organ-atoms, so many object-atoms, and cognition arises from the meeting. Eye and ear have no measure. A hair-tip, a grape, a mountain, by the opening of the eye. The ear likewise: a mosquito, a cloud. Mind is unformed. Size is not determined of it.
+
+The arrangements are the seats of those atoms: cumin flower on the pupil, birch of the ear, probe in the pot, half-moon of the tongue, the body like the body. Clear skin keeps the eye-atoms from scattering. Crystal-clear, they do not cover one another. The body never works with all its atoms. If it did, the support would disintegrate. One atom does not produce cognition. The five take an accumulation as support and as object. An atom is invisible because it is not seen.
+
+The support is not timed as the object is. The object of the five is present. The object of mind-cognition is of the three times. The support of mind-cognition is past: mind that ceased immediately before. The five have that past support too, and a co-born support: the eye with eye-cognition, through the body with body-cognition. Two supports. The four alternatives keep support and the immediately preceding condition from collapsing. The eye is support and not that condition. Immediately past mind is both. The immediately past mental dharma-principle is the condition and not the support.
 
 ## 7. Technical Vocabulary
 
-### Conditions, Objects, and Supports
-
-The Bhāṣya keeps three relations distinct. A **support** is what a
-Cognition depends on; an **object** is what it is directed toward; a
-**Condition** is the determinate range whose extent is compared with
-the participating Faculty. The quantitative equality applies to the
-three contact Faculties and to participating atoms, not to gross size
-or to one atom on each side.
-
-The later statement that isolated atoms do not generate Cognition
-adds an accumulation requirement: both supports and objects are
-accumulated. It does not undo the equal-count relation stated for the
-three Faculties, nor does it imply that an entire visible Form complex
-is unseen because an atom is not seen.
+| Sanskrit | Rendering | Note |
+|---|---|---|
+| tulya-viṣaya-grahaṇa | grasp of an equal object | nose, tongue, body |
+| aniyama | no rule | eye and ear |
+| amūrta | unformed | mind; no size |
+| sabhāga | does its own work | not all the body-atoms |
+| tatsabhāga | corresponds and does not | the remainder |
+| saṃcita | accumulated | one atom does not produce cognition |
+| carama | the last | mind-cognition |
+| sahaja āśraya | co-born support | the eye, and so on |
+| atīta āśraya | past support | mind that ceased immediately before |
+| samanantara-pratyaya | immediately preceding condition | not the same as support |
 
 ## 8. Logical Determination
 
-### Contact Extent and Temporal Support
-
-For Nose, Tongue, and Body, the Bhāṣya relates the counts of participating
-Faculty atoms and Condition atoms. It does not generalize that equality
-to Eye or Ear, and Mind has no spatial measure in this account.
-
-The support relation is separate from extent. The Mind-Cognition Principle
-depends on the immediately preceding Mind. Each sensory Cognition depends
-on that past Mind and its own co-born Faculty. The verse therefore
-distinguishes spatial extent, temporal support, and co-born support.
-
-The contact-equality rule is:
-
 ```text
-x ∈ {NoseFaculty, TongueFaculty, BodyFaculty}
-∧ ContactCognition(x, Condition)
-    → Count(ParticipatingFacultyAtoms)
-      = Count(ParticipatingConditionAtoms)
-```
+equal
+    nose, tongue, body
+    atom for atom
 
-No equivalent fixed ratio applies to eye and ear:
+no rule
+    eye, ear
+    fewer, equal, more
 
-```text
-x ∈ {EyeFaculty, EarFaculty}
-    → ConditionExtent(x)
-      may be SmallerThan
-      ∨ EqualTo
-      ∨ GreaterThan FacultyMagnitude(x)
-```
+support of the last
+    past
 
-Mind is excluded from spatial comparison:
+support of the five
+    co-born
+    and past
 
-```text
-NotForm(Mind)
-    → ¬SpatialMagnitudeDelimited(Mind)
-```
+four
+    eye: support only
+    past mental dharma-principle: condition only
+    past mind: both
+    the rest: neither
 
-The temporal support chain is:
-
-```text
-Mind(t−1)
-    → Ceases
-    → Supports(MindCognitionPrinciple(t))
-```
-
-Each sensory Cognition has two supports:
-
-```text
-SensoryCognition(t)
-    ← SupportedBy(ImmediatelyPastMind(t−1))
-    ∧ SupportedBy(CoBornSensoryFaculty(t))
-```
-
-Thus:
-
-```text
-MindCognition
-    → OnePastMentalSupport
-
-SensoryCognition
-    → PastMentalSupport
-    + PresentFacultySupport
+1.45 not opened
 ```
 
 ## 9. Interpretive Note
 
-The verse distinguishes equal extent at the contact interface from the
-temporal and co-born supports of Cognition. The equal-count relation is
-limited to Nose, Tongue, and Body. It does not define a fixed ratio for
-Eye or Ear, and it does not spatially delimit Mind. Each sensory
-Cognition has a past Mind support and its own co-born Faculty support;
-the Mind-Cognition Principle depends on the immediately preceding Mind.
-
-In the governing model, Vijñāna as Discriminative Cognition joins and
-governs Perception and Conception. Their unity is Inconceivable as a
-homogeneous operation, and its Idea is disclosed in Cognition Base.
-Vijñāna governs Manas and guides the reading of Dharma Base. Form Base
-and Dharma Base classify the same *avijñapti* distinctly; Vijñāna bears
-a *prati* relation to it and remains distinct from consciousness and Mind.
+The hinge is the two supports. The object of the five is present. Their support is not only present. The eye is co-born with the seeing. Mind that has just ceased is the other support. Mind-cognition has only the past one.
 
 ## 10. OWL++ Seed
 
 ```ttl
 @prefix vak: <http://127.0.0.1:3000/vak#> .
-@prefix organon: <http://127.0.0.1:3000/organon#> .
-@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
-vak:VAK_1_44
-    a vak:Karika ;
-    rdfs:label "VAK 1.44" ;
-    vak:hasTopic vak:QuantitativeContactAndTemporalSupport ;
-    vak:belongsTo vak:PrincipleAnalysis .
+vak:VAK_1_44 a vak:Karika ;
+    vak:hasTopic vak:EqualGraspAndThePastSupport ;
+    vak:belongsTo vak:Dhatunirdesa .
 
-vak:ContactFaculty
-    vak:hasConstraint vak:EqualAtomicContact .
-
-vak:EqualAtomicContact
-    vak:requiresEqualCount vak:ParticipatingFacultyAtoms,
-        vak:ParticipatingConditionAtoms .
-
-vak:MindCognition
-    vak:hasSupport vak:ImmediatelyPastMind .
-
-vak:SensoryCognition
-    vak:hasSupport vak:ImmediatelyPastMind,
-        vak:CoBornSensoryFaculty .
-
-vak:Support
-    vak:distinctFrom vak:Object,
-        vak:Condition .
-
-organon:CognitionSupportRelation
-    a organon:SupportRelationModel ;
-    organon:distinguishes vak:PastMentalSupport,
-        vak:CobornFacultySupport,
-        vak:ObjectRelation .
+vak:NoseTongueBody vak:graspsEqual true .
+vak:MindCognition vak:support vak:ImmediatelyPastMind .
+vak:FiveCognitions vak:support vak:CobornOrgan, vak:PastMind .
 ```

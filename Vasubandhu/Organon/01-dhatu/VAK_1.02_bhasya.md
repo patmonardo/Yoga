@@ -6,15 +6,12 @@
 >
 > tasyārthato 'smin samanupraveśāt sa cāśrayo 'syety abhidharmakośam // 1.02 //
 
-### Bhāṣya-informed study translation
+Literal (from [`VAK_1.02.md`](./VAK_1.02.md)):
 
-> Stainless prajñā together with its attendants is Abhidharma in the ultimate sense: the discrimination of dharmas, with its retinue, a stainless complex of the five aggregates. In the conventional sense, so too are the prajñā with outflows constituted by hearing, reflection, and cultivation, and the prajñā acquired by birth, each with its attendants, and the treatise that is equipment for attaining that stainless prajñā. A dharma is so called because it bears its own mark. Abhidharma is this dharma facing the ultimate dharma, nirvāṇa, or facing the mark of a dharma. This work is called the *Abhidharmakośa* either because the principal meaning of śāstric Abhidharma is contained within it, or because it has been drawn from Abhidharma as its supporting treasury.
-
-The second translation makes the Bhāṣya's determinations explicit. It is not a word-for-word rendering of the Kārikā alone. Neither facing in the name-definition is dropped. *Amalā* stays stainless in this line.
-
-### Anchor note
+> Stainless prajñā, with its attendants, is Abhidharma; so also is whatever [prajñā] is for the attainment of that, and whatever treatise [is for its attainment]. Because that enters into this by meaning—and because that is the supporting basis of this—[this treatise is called] the *Abhidharmakośa*.
 
 Span: Pradhan `[002|02]`–`[002|17]`. Next unit opens 1.03 at `[002|18]`.
+
 ## 2. Continuous Sanskrit Witness
 
 > ko 'yam abhidharmaḥ nāma /
@@ -92,6 +89,8 @@ For the Abhidharma that bears the name of treatise is included in this work by m
 
 Or else that Abhidharma is the support of this treatise, since this treatise has been drawn out from it. Therefore that Abhidharma itself is the treasury of this treatise, and this treatise is called the *Abhidharmakośa*.
 
+*Anāsrava* is Pure. *Sāsrava* is Impure. Always First, and what presupposes a before. Not moral stain.
+
 ## 4. Movement of the Commentary
 
 ```text
@@ -113,7 +112,7 @@ No opponent is marked.
 
 ## 5. What the definition contains
 
-The derivation gives each part a distinct function.
+Nothing in the name-definition is optional. The prior English packed it.
 
 ```text
 prajñā            dharmapravicaya
@@ -130,10 +129,7 @@ Abhidharma       ayaṃ dharmaḥ pratyabhimukhaḥ
 
 *Dhāraṇa* is the holding. The root in play is *dhṛ*. A dharma is named because it bears its own mark.
 
-The facing-sentence is part of the definition. The dharma bears its own
-mark; Abhidharma is this dharma turned toward either nirvāṇa or the mark
-of a dharma. Both facings remain in the source account. Their relation to
-Sāṃkhya is an interpretive question, not a lexical gloss here.
+The facing-sentence is the Sāṃkhya hinge, and it is part of the definition, not a tail. Sāṃkhya speaks of a dharma as what is borne, and of a mark. Here the dharma bears its own mark. Abhidharma is that dharma turned to face either nirvāṇa or the mark. Both facings stay. Dropping either facing drops the definition.
 
 This is not a complete ontology of *svalakṣaṇa*. It is the derivation the unit gives.
 
@@ -172,31 +168,12 @@ this treatise is drawn from Abhidharma
 5. *Dharma* is bearing of its own mark. *Abhidharma* is this dharma facing nirvāṇa, or facing the mark. Neither facing is dropped.
 6. The two *kośa* derivations reverse container and source.
 
-## 9. Interpretation
+## 9. Organon Note
 
-This unit defines the accomplished act, the means directed toward it, and
-the direction in which knowing faces. Pure *prajñā* with its retinue is
-Abhidharma in the ultimate sense. The hearing-, reflection-, cultivation-,
-and birth-acquired forms of *prajñā*, with the treatise, are conventionally
-Abhidharma because they serve that attainment. Preparation and
-accomplishment remain distinct.
+Marked as project. Not a substitute for §3 and §5.
 
-In our Yoga Vidyā, *prajñā* is the larger **Vidyā**, the **Science of
-Principles**. The Bhāṣya's *dharmapravicaya* specifies an operation of that
-science, the discrimination of dharmas; it does not exhaust the Vidyā.
-The orientation toward nirvāṇa and toward the mark of a dharma belongs to
-the same account. The five-aggregate retinue prevents us from treating
-this science as a detached assertion or a book by itself. A learner enters
-it through ordered means, while its achieved form measures those means.
-
-The two *kośa* derivations keep source and exposition in relation. The
-principal meaning of śāstric Abhidharma enters this work; this work is
-also drawn from Abhidharma as its support. Our Kant-informed account of
-science states the architecture these relations disclose. The two
-derivations themselves are the Bhāṣya's argument.
+Abhidharma in the ultimate sense is the Dharma of a Buddha: the Discriminator. Pure here is Always First, not a moral grade. The book is equipment.
 
 ## 10. Review Status
 
-The source definition, two facings, and both *kośa* derivations have been
-retained. The Techne interpretation is marked separately. This study
-remains provisional pending further textual review.
+Abhidharma definition written clause by clause: discrimination, Pure, retinue, five aggregates, ultimate sense, then the name-derivation with both facings. Next: 1.03 when called.

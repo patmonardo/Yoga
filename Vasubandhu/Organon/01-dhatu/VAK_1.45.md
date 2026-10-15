@@ -1,4 +1,4 @@
-# VAK_1.45 — Support and the Naming of Cognition
+# VAK_1.45 — Named by the Support
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -14,225 +14,94 @@
 
 ## 3. Lexical Analysis
 
-```text
-tadvikāravikāritvāt    → tad-vikāra-vikāritvāt
-āśrayāś cakṣurādayaḥ   → āśrayāḥ cakṣus-ādayaḥ
-ato 'sādhāraṇatvāt     → ataḥ a-sādhāraṇa-tvāt
-vijñānaṃ taiḥ          → vijñānam taiḥ
-nirucyate              → nirucyate
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
-| tad-vikāra | compound member | alteration of those Faculties |
-| vikāritvāt | ablative neuter singular abstract noun | because Cognition is altered when they are altered |
-| āśrayāḥ | nominative masculine plural | supports |
-| cakṣus-ādayaḥ | nominative masculine plural compound | Eye and the other Faculties |
-| ataḥ | adverb | therefore, for this reason |
-| a-sādhāraṇa-tvāt | ablative neuter singular abstract noun | because of being specific, not common |
-| hi | explanatory particle | indeed, for |
-| vijñānam | nominative neuter singular | Cognition |
-| taiḥ | instrumental masculine plural | by those Faculties |
-| nirucyate | third-person singular present passive | is designated or named |
+| tad-vikāra-vikāritvāt | ablative | because altered by their alteration |
+| āśrayāḥ cakṣur-ādayaḥ | nominative | the eye and the rest are supports |
+| ataḥ | adverb | therefore |
+| asādhāraṇatvāt | ablative | because not in common |
+| hi | particle | for |
+| vijñānam taiḥ | nominative, instrumental | cognition by them |
+| nirucyate | passive | is designated |
 
-The first ablative gives the criterion for support-status. The second gives
-the criterion for naming. They are related but not identical arguments.
+The first reason makes them supports. The second gives the name.
 
 ## 4. Grammar
 
-The commentary begins from dependence on both Faculty and Object.
-Its restored opening clause establishes “Principles” as the governing
-topic:
-
 ```text
-Cognition depends upon Faculty
-Cognition depends upon Object
+support
+    cognition changes when the eye changes
+    not when the visible changes
+
+name
+    eye-cognition, not form-cognition
+    the eye is not a support of another cognition
+    a visible is an object of more than one
 ```
-
-It then asks why only Eye and the other Faculties are called supports.
-The verse answers:
-
-```text
-corresponding Faculty alteration
-    → corresponding Cognition alteration
-
-Eye and the other Faculties
-    → SupportsTheirCorrespondingCognitions
-```
-
-The relevant Faculty alterations are benefit or improvement, injury,
-acuity, and dullness. Cognition follows these changes. The verse preserves
-dependence on both Faculty and Object; the commentary distinguishes the
-Object by saying that its alteration does not produce the corresponding
-change in Cognition.
-
-The second line answers a naming question. Why say Eye-Cognition,
-Ear-Cognition, and so on, rather than Form-Cognition, sound-Cognition, and
-so on?
-
-```text
-Faculty specificity
-    not common to other Cognitions
-
-designation by Faculty
-    Cognition is designated by those Faculties
-```
-
-One Eye Faculty supports its corresponding Eye-Cognition. Visible Form,
-by contrast, may serve as an Object for another person's visual Cognition
-and for Mind-Cognition. The Faculty support is specific; the Object is
-shareable.
 
 ## 5. Translation
 
 ### Literal Translation
 
-> Eye and the other Faculties are supports because Cognition is altered by their alteration. Therefore Cognition is designated by them, for they are specific and not common.
+Because of being altered by their alteration, the eye and the rest are supports. Therefore, because they are not in common, cognition is designated by them.
 
 ### Bhāṣya-informed study translation
 
-> The Faculties are called supports because benefit, injury, acuity, or dullness in a Faculty produces a corresponding alteration in its Cognition. Cognition is named from its Faculty—Eye-Cognition, Ear-Cognition, and so forth—because each Faculty supports its own specific kind of Cognition, whereas an Object such as visible Form can be shared by many sensory and mental Cognitions.
+Cognition arises depending on both. Why are the eye and the rest alone called supports, and not visibles and the rest? Because of being altered by their alteration, the eye and the rest are supports. Principles is the governing topic. When the eye and the rest are altered, their cognitions are altered, following benefit or impairment, acuity or dullness. There is no such alteration from an alteration of visibles and the rest. Therefore, because the dependence is stronger, they alone are supports, not visibles and the rest.
+
+Why, though visibles and the rest are cognized by them, is it called eye-cognition through mind-cognition, and not form-cognition through dharma-cognition? Those, the eye and the rest, are their supports. Therefore, because they are not in common, cognition is designated by them. How are they not in common? An eye cannot be the support of another cognition. A visible, however, is the object of mind-cognition and of another eye-cognition as well. So through the body. Therefore, from being the support and from not being in common, cognition is designated by that very support, not by visibles and the rest, as drum-sound and barley-sprout.
+
+## 6. Philosophical Translation
+
+Both are required. Only one is the support. The cut is the alteration. Benefit and impairment of the eye, acuity and dullness, are followed by the cognition. A change in the visible is not followed in that way. The dependence on the eye is the stronger one. That is why it is the support.
+
+The name follows the support, not the object. Eye-cognition, not form-cognition. The eye is not in common. It cannot support another cognition. A visible can be the object of mind-cognition and of another eye-cognition. The drum names the sound. The barley names the sprout. The support names the cognition.
+
+## 7. Technical Vocabulary
+
+| Sanskrit | Rendering | Note |
+|---|---|---|
+| vikāra | alteration | benefit, impairment, acuity, dullness |
+| āśraya | support | the eye and the rest |
+| asādhāraṇa | not in common | the eye supports only its own cognition |
+| nirucyate | is designated | the name follows the support |
+| bherī-śabda | drum-sound | the support names the product |
+| yava-aṅkura | barley-sprout | the same |
 
 ## 8. Logical Determination
 
-### Specific Support and Shared Object
-
-The Faculty is the specific support whose alteration corresponds to
-alteration in Cognition. An Object such as visible Form can be shared by
-Mind-Cognition and another Eye-Cognition. This naming rule distinguishes
-the Faculty's support relation from the Object relation without denying
-that Cognition depends on both.
-
-Cognition has dual dependence:
-
 ```text
-Arises(Cognition)
-    → Requires(FacultySupport)
-    ∧ Requires(ObjectRelation)
-```
+both required
+    eye and visible
 
-But the dependencies have different functions:
+support
+    the one whose alteration the cognition follows
 
-```text
-Alter(Faculty,
-    Improvement | Injury | Acuity | Dullness)
-    → CorrespondinglyAlter(Cognition)
-    → DeterminingSupport(Faculty)
+name
+    from the support
+    because the support is not in common
 
-ObjectRelation(Object)
-    → MayBeSharedAcrossCognitions(Object)
-```
+object
+    in common
+    mind-cognition and another eye-cognition
 
-The naming rule is:
-
-```text
-SupportsOnly(EyeFaculty, EyeCognition)
-    → NonCommon(EyeFaculty)
-    → NamedFrom(EyeCognition, EyeFaculty)
-```
-
-The Object is shareable:
-
-```text
-VisibleForm(x)
-    → MayBeObjectOf(x, ThisEyeCognition)
-    ∧ MayBeObjectOf(x, AnotherPersonEyeCognition)
-    ∧ MayBeObjectOf(x, MindCognition)
-    → ShareableObject(x)
-```
-
-Therefore:
-
-```text
-HowCognitionOccurs
-    → determined by Support
-
-TowardWhatCognitionIsDirected
-    → determined by Object
-
-SpecificSupport
-    ≠ ShareableObjectRelation
-```
-
-The relation is:
-
-```text
-DependsOn(Cognition, SpecificFacultySupport)
-    ∧ DependsOn(Cognition, ShareableObjectRelation)
+1.46 not opened
 ```
 
 ## 9. Interpretive Note
 
-### Scope of the Naming Rule
-
-“Support” names the Faculty relation; “Object” names what Cognition is
-directed toward. The commentary explicitly contrasts them here; do not
-add another relation to this account. The specific Faculty gives
-Cognition its name, while an Object may be shared across kinds of
-Cognition and across individuals.
-
-VAK 1.45 completes the support analysis begun in 1.44. Cognition does not
-arise without an Object, but not every necessary condition has the same
-systematic role. The Faculty is called a support because alteration in
-the Faculty governs corresponding alteration in Cognition.
-
-Faculty-capacity is therefore graded, not merely present or absent:
-
-```text
-benefited or injured
-sharp or dull
-    → correspondingly altered Cognition
-```
-
-The verse also explains the naming of Cognition. Eye-Cognition is named
-from the specific Eye Faculty, not from visible Form, which can be an
-Object for Cognitions in multiple individuals and for Mind-Cognition.
-The account preserves both dependence relations without treating their
-roles as interchangeable.
-
-In the governing model, Vijñāna as Discriminative Cognition joins and
-governs Perception and Conception. Their unity is Inconceivable as a
-homogeneous operation, and its Idea is disclosed in Cognition Base.
-Vijñāna governs Manas and guides the reading of Dharma Base. Form Base
-and Dharma Base classify the same *avijñapti* distinctly; Vijñāna bears
-a *prati* relation to it and remains distinct from consciousness and Mind.
+The hinge is the name. The object is shared. The support is not. Cognition is designated by the support that is not in common.
 
 ## 10. OWL++ Seed
 
 ```ttl
 @prefix vak: <http://127.0.0.1:3000/vak#> .
-@prefix organon: <http://127.0.0.1:3000/organon#> .
-@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
-vak:VAK_1_45
-    a vak:Karika ;
-    rdfs:label "VAK 1.45" ;
-    vak:hasTopic vak:SpecificSupportAndCognitionNaming ;
-    vak:belongsTo vak:PrincipleAnalysis .
+vak:VAK_1_45 a vak:Karika ;
+    vak:hasTopic vak:NamedByTheSupport ;
+    vak:belongsTo vak:Dhatunirdesa .
 
-vak:FacultySupport
-    a vak:Support ;
-    vak:hasProperty vak:Specificity .
-
-vak:ObjectRelation
-    a vak:CognitiveRelation ;
-    vak:hasProperty vak:Shareability .
-
-vak:FacultyAlteration
-    vak:causesCorrespondingAlterationIn vak:Cognition .
-
-vak:VisibleForm
-    a vak:Object ;
-    vak:mayBeObjectOf vak:MindCognition,
-        vak:AnotherEyeCognition .
-
-vak:Cognition
-    vak:namedFrom vak:SpecificFacultySupport ;
-    vak:requires vak:FacultySupport,
-        vak:ObjectRelation .
-
-organon:SupportObjectDistinction
-    a organon:ProjectInterpretation ;
-    organon:distinguishes vak:FacultySupport,
-        vak:ObjectRelation .
+vak:Eye vak:supports vak:EyeCognition .
+vak:Visible vak:objectOf vak:EyeCognition, vak:MindCognition .
+vak:Cognition vak:namedBy vak:Support .
 ```

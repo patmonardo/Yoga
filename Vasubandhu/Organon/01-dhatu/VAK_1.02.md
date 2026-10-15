@@ -1,4 +1,4 @@
-# VAK_1.02 — Abhidharma as Attained Knowing, Path, and Treasury
+# VAK_1.02
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -14,6 +14,8 @@
 
 ## 3. Lexical Analysis
 
+### Sandhi resolution
+
 ```text
 prajñāmalā                 → prajñā amalā
 sānucarābhidharmaḥ         → sa-anucarā abhidharmaḥ
@@ -25,27 +27,31 @@ sa cāśrayo 'syety          → saḥ ca āśrayaḥ asya iti
 abhidharmakośam            → abhidharma-kośam
 ```
 
-| Pada | Morphology | Force in this passage |
-|---|---|---|
-| prajñā | feminine nominative singular noun | discernment or wisdom; Bhāṣya specifies *dharmapravicaya* as its operation |
-| amalā | feminine nominative singular adjective | stainless; qualifies *prajñā* |
-| sānucarā | feminine nominative singular adjective | with attendants; qualifies *prajñā* |
-| abhidharmaḥ | masculine nominative singular noun | predicate of the first definition |
-| tat-prāptaye | feminine dative singular compound | for attaining that stainless *prajñā* |
-| yā | feminine nominative singular relative pronoun | another *prajñā*, supplied by ellipsis |
-| api | particle | also; extends the designation |
-| ca | particle | and; joins the included members |
-| yat | neuter nominative singular relative pronoun | whichever treatise |
-| śāstram | neuter nominative singular noun | treatise directed to that attainment |
-| tasya | masculine genitive singular pronoun | of that Abhidharma |
-| arthataḥ | indeclinable ablatival adverb | by meaning |
-| asmin | masculine or neuter locative singular pronoun | in this treatise |
-| samanupraveśāt | masculine ablative singular action noun | because of entry into this treatise |
-| saḥ | masculine nominative singular pronoun | that Abhidharma as support |
-| āśrayaḥ | masculine nominative singular noun | supporting source of this treatise |
-| asya | neuter genitive singular pronoun | of this treatise |
-| iti | particle | closes the title explanation |
-| abhidharmakośam | neuter accusative singular title | the work named *Abhidharmakośa* |
+### Pada and feature analysis
+
+| Surface form | Pada / lemma | Morphological features | Local force |
+|---|---|---|---|
+| prajñā | prajñā | noun; feminine; nominative singular | subject of the first definition |
+| amalā | amala | adjective; feminine; nominative singular | stainless in Literal and Bhāṣya-informed |
+| sānucarā | sa-anucara | adjective; feminine; nominative singular | qualifies `prajñā`: with attendants |
+| abhidharmaḥ | abhidharma | noun; masculine; nominative singular | predicate nominative |
+| tatprāptaye | tad-prāpti | compound noun; feminine; dative singular | purpose: for attainment of that |
+| yā | yad | relative pronoun; feminine; nominative singular | supplies a second `prajñā` by ellipsis |
+| api | api | indeclinable | inclusion: also |
+| ca | ca | indeclinable | coordination |
+| yat | yad | relative pronoun; neuter; nominative singular | qualifies `śāstram` |
+| ca | ca | indeclinable | coordination |
+| śāstram | śāstra | noun; neuter; nominative singular | treatise included in the definition |
+| tasya | tad | pronoun; masculine/neuter; genitive singular | of that Abhidharma |
+| arthataḥ | artha | indeclinable ablatival adverb | by meaning; in respect of meaning |
+| asmin | idam | pronoun; masculine/neuter; locative singular | in this treatise |
+| samanupraveśāt | sam-anu-praveśa | action noun; masculine; ablative singular | causal: because of comprehensive entry |
+| saḥ | tad | pronoun; masculine; nominative singular | that Abhidharma |
+| ca | ca | indeclinable | introduces the further derivation |
+| āśrayaḥ | āśraya | noun; masculine; nominative singular | predicate: supporting basis |
+| asya | idam | pronoun; masculine/neuter; genitive singular | of this treatise |
+| iti | iti | indeclinable | closes the title derivation |
+| abhidharmakośam | abhidharma-kośa | compound noun; neuter; nominative singular | the title predicated of the treatise |
 
 The supplied nouns in the elliptical sequence must remain visible:
 
@@ -126,7 +132,7 @@ In the first derivation, this treatise occupies the place of a treasury because 
 
 > Stainless prajñā, with its attendants, is Abhidharma; so also is whatever [prajñā] is for the attainment of that, and whatever treatise [is for its attainment]. Because that enters into this by meaning—and because that is the supporting basis of this—[this treatise is called] the *Abhidharmakośa*.
 
-### Bhāṣya-informed study translation
+### Bhāṣya-informed translation
 
 > Stainless prajñā together with its attendants is Abhidharma in the ultimate sense: the discrimination of dharmas, with its retinue, a stainless complex of the five aggregates. In the conventional sense, so too are the prajñā with outflows constituted by hearing, reflection, and cultivation, and the prajñā acquired by birth, each with its attendants, and the treatise that is equipment for attaining that stainless prajñā. A dharma is so called because it bears its own mark. Abhidharma is this dharma facing the ultimate dharma, nirvāṇa, or facing the mark of a dharma. This work is called the *Abhidharmakośa* either because the principal meaning of śāstric Abhidharma is contained within it, or because it has been drawn from Abhidharma as its supporting treasury.
 
@@ -136,13 +142,11 @@ The second translation makes the Bhāṣya's determinations explicit. It is not 
 
 > Abhidharma is first the Discriminator: stainless discrimination of dharmas, occurring with its full accompanying complex. By designation, the name also extends to prajñā still on the way, and to the treatise that functions as equipment for attaining it. The Kośa mediates between these orders: it gathers Abhidharma's principal meaning, yet is itself drawn from Abhidharma as its source.
 
-Techne reading:
+Organon rendering:
 
-> In our Yoga Vidyā, *prajñā* is the larger **Vidyā**, the **Science of Principles**. The Bhāṣya specifies *dharmapravicaya*—discrimination of dharmas—as an operation of this science; it does not reduce the whole Vidyā to that operation. The treatise and modes of learning belong to the science by their directedness toward its attainment. The Kośa holds Abhidharma's principal meaning and is itself drawn from Abhidharma as source.
+> The book is not the first meaning of Abhidharma. Abhidharma is the Dharma of a Buddha. Prajñā here is a science, not a mood of wisdom. Kant's expression is therefore Pure Prajñā. Hearing, reflection, cultivation, birth-acquired prajñā, and the śāstra belong to it by their directedness toward that attainment. The Kośa is both a containment of Abhidharma in meaning and an extraction from Abhidharma as source.
 
-The Bhāṣya names the first sense *pāramārthika* and the second *sāṃketika*.
-Our Techne names the former Pure Prajñā; this does not replace the verse's
-“stainless” or make the directed means identical with the attainment.
+> Pure is Always First. The path-prajñā presupposes that attainment as its before. It is not a moral grade. Stainless remains the verse word.
 
 ## 7. Technical Vocabulary
 
@@ -150,7 +154,7 @@ Our Techne names the former Pure Prajñā; this does not replace the verse's
 
 | Sanskrit | Project rendering | Determination |
 |---|---|---|
-| prajñā | discernment / wisdom | Bhāṣya: its operation is `dharmapravicaya`; Techne: the larger Vidyā, Science of Principles |
+| prajñā | discriminative knowing | Bhāṣya: `dharmapravicaya`, discrimination of dharmas. A science |
 | amala | stainless | Literal and Bhāṣya-informed. Organon: Pure Prajñā. Not outflow-free |
 | sānucara | with attendants | Prajñā together with its retinue; the attendants are not enumerated here |
 | tatprāpti | attainment of that | Attainment of stainless prajñā with attendants |
@@ -167,7 +171,7 @@ Our Techne names the former Pure Prajñā; this does not replace the verse's
 | pāramārthika | in the ultimate sense | Classifies stainless prajñā with attendants |
 | sāṃketika | conventional / designated | Classifies path-prajñā and the treatise |
 | anāsrava | Pure | Organon name of the Bhāṣya gloss of `amala`. Always First. Not the verse English |
-| sāsrava | with outflows | Conventional. Organon: Impure; directed toward Pure attainment |
+| sāsrava | with outflows | Conventional. Organon: Impure. Presupposes a before |
 | pañcaskandhaka | consisting of five aggregates | Concrete complex of ultimate Abhidharma |
 | saṃbhāra | equipment | Why the treatise is conventionally Abhidharma |
 | dharmapravicaya | discrimination of dharmas | Operational definition of prajñā |
@@ -204,8 +208,7 @@ Abhidharma
       or facing the mark of a dharma
 ```
 
-Techne names, not the verse lines: *prajñā* = Science of Principles;
-*anāsrava* = Pure; *sāsrava* = Impure.
+Organon names, not the verse lines: `anāsrava` = Pure Prajñā; `sāsrava` = Impure.
 
 The title then expresses reciprocal dependence:
 
@@ -229,21 +232,22 @@ sāsrava prajñā and textual equipment
 stainless prajñā with attendants
 ```
 
-The Bhāṣya characterizes attained *prajñā* through its operation,
-*dharmapravicaya*, together with its attendants. It then gives the means
-directed toward that attainment: hearing,
-reflection, cultivation, birth-acquired *prajñā*, and the treatise as
-equipment. A candidate for Abhidharma can enter through instruction
-without being credited prematurely with attained Pure Prajñā.
+The Kośa is neither a merely external description nor the ultimate Abhidharma itself.
 
-The name *Abhidharma* keeps two orientations together: toward nirvāṇa and
-toward the mark of a dharma. The title *Kośa* likewise has two directions:
-the principal meaning enters the book, while the book is drawn from its
-source. For our Kant-informed Techne, this is an explicit architecture of
-a science: an end, an act of knowing, a field of discrimination, and
-transmissible means ordered to that act. The practical necessity of
-instruction is argued in 1.03; the field's first comprehensive division
-follows in 1.04.
+Organon note:
+
+```text
+ultimate Abhidharma
+    = the Dharma of a Buddha
+    = the Discriminator
+    = Pure Prajñā, because prajñā is a science
+
+conventional Abhidharma
+    = the operations and equipment ordered toward its attainment
+
+Kośa
+    = a meaning-container drawn from Abhidharma as source
+```
 
 ## 10. OWL++ Seed
 

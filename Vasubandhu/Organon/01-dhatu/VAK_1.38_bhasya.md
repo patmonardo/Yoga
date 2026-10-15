@@ -1,4 +1,4 @@
-# VAK_1.38 Bhāṣya — The First Pure Moment, Acquisition, and Possession
+# VAK_1.38 Bhāṣya — Three Ways, One Dravya, Three Moments
 
 ## 1. Kārikā Anchor
 
@@ -6,306 +6,119 @@
 >
 > cakṣurvijñānadhātvoḥ syāt pṛthag lābhaḥ sahāpi ca // 1.38 //
 
-### Bhāṣya-informed study translation
+> The others are of three kinds. One is dravya-bearing. The last three are momentary. Of the eye-principle and the cognition-principle there may be separate acquisition, and also together.
 
-> Visible Form, smell, taste, and tangible Form admit maturation-born, upacaya-reinforced, and continuity-born instances. The Dharma Principle alone bears substance-status, because it includes the Unconditioned. The Mind, Dharma, and Mind-Cognition Principles are called momentary for the first pure receptivity to Dharma-knowledge concerning suffering, without a preceding homogeneous pure cause. The Eye-Faculty and Eye-Cognition Principles may be acquired separately or jointly.
+## 2. Continuous Sanskrit Witness
 
-The second rendering exposes the special senses of `dravyavān` and
-`kṣaṇika` that the compressed Kārikā cannot supply on its own.
-
-### Anchor note
-
-The Bhāṣya limits each compact expression. “Others” means the four
-remaining Form-bearing Principles; `dravyavān` refers to the Dharma
-Principle's inclusion of the Unconditioned; and “momentary” has a
-special causal sense at the first pure moment. The last half
-begins an inquiry into acquisition, followed by a distinct inquiry into
-possession.
-## 2. Continuous Sanskrit
-
-> tridhā 'nye
+> tridhā 'nye /
 >
-> anye catvāraḥ śeṣā rūparasagandhaspraṣṭavyadhātavaḥ /
+> anye catvāraḥ śeṣā rūpa-rasa-gandha-spraṣṭavya-dhātavaḥ /
 >
-> te vipākajā apyaupacayikā api naiḥṣyandikā api /
+> te vipākajā apy aupacayikā api naiḥṣyandikā api /
 >
-> dravyavānekaḥ
+> dravyavān ekaḥ /
 >
 > asaṃskṛtaṃ hi sāratvād dravyam /
-> tacca dharmadhātāvastyato dharmadhātureko dravyayuktaḥ /
 >
-> kṣaṇikāḥ paścimāstrayaḥ /
+> tac ca dharmadhātāv asty ato dharmadhātur eko dravyayuktaḥ /
 >
-> manodhāturdharmadhāturmanovijñānadhātuśca pāṭhakrameṇa paścimāḥ /
+> kṣaṇikāḥ paścimās trayaḥ /
 >
-> te prathamānāsrave duḥkhe dharmajñānakṣāntikalāpe kṣaṇamekamanaiḥṣyandikā bhavantyataḥ kṣaṇikā ityucyante /
+> mano-dhātur dharma-dhātur mano-vijñāna-dhātuś ca pāṭha-krameṇa paścimāḥ /
 >
-> anyasaṃbhūtasaṃskṛto nāsti kaścidanaiḥṣyandikaḥ /
+> te prathamānāsrave duḥkhe dharma-jñāna-kṣānti-kalāpe kṣaṇam ekam anaiḥṣyandikā bhavanty ataḥ kṣaṇikā ity ucyante /
 >
-> tatra duḥkhe dharmajñānakṣāntisaṃprayuktaṃ cittaṃ manodhāturmanovijñānadhātuśca /
+> anya-saṃbhūta-saṃskṛto nāsti kaścid anaiḥṣyandikaḥ /
 >
-> śeṣāstatsahabhuvo dharmadhātuḥ //
+> tatra duḥkhe dharma-jñāna-kṣānti-saṃprayuktaṃ cittaṃ mano-dhātur mano-vijñāna-dhātuś ca /
+>
+> śeṣās tat-sahabhuvo dharma-dhātuḥ /
 >
 > idaṃ vicāryate /
 >
-> yaścakṣurdhātunā 'samanvāgataḥ samanvāgamaṃ pratilabhate cakṣurvijñānadhātunā 'pi saḥ /
+> yaś cakṣur-dhātunā 'samanvāgataḥ samanvāgamaṃ pratilabhate cakṣur-vijñāna-dhātunā 'pi saḥ /
 >
-> yo vā cakṣurvijñānadhātunā cakṣurdhātunā 'pi saḥ /
-> āha /
+> yo vā cakṣur-vijñāna-dhātunā cakṣur-dhātunā 'pi saḥ /
 >
-> cakṣurvijñānadhātvoḥ syāt pṛthak lābhaḥ sahāpi ca //
+> ucyate / syāc cakṣur-dhātunā na cakṣur-vijñāna-dhātunā /
 >
-> pṛthak tāvat syāccakṣurdhātunā na cakṣurvijñānadhātunā /
+> kramaśo hi kāma-dhātau cakṣuḥ pratilabhate / ārūpya-dhātu-cyuto vā dvitīyādi-dhyānopapannaḥ /
 >
-> kāmadhātau krameṇa cakṣurindriyaṃ pratilabhamānaḥ /
+> syāc cakṣur-vijñāna-dhātunā na cakṣur-dhātunā /
 >
-> ārūpyadhātucyutaśca dvitīyādiṣu dhyāneṣūpapadyamānaḥ /
+> dvitīyādi-dhyānopapannaś cakṣur-vijñānaṃ saṃmukhīkurvāṇas tat-pracyutaś cādhastād upapadyamānaḥ /
 >
-> syāccakṣurvijñānadhātunā na cakṣurdhātunā /
+> saha api syād ubhayena samanvāgamaṃ pratilabhate /
 >
-> dvitīyādidhyānopapannaścakṣurvijñānaṃ saṃmukhīkurvāṇastatpracyutaścādhastādupapadyamānaḥ /
+> ārūpya-dhātu-cyutaḥ kāma-dhātau brahma-loke copapadyamānaḥ /
 >
-> sahāpi syādubhayena samanvāgamaṃ pratilabhate /
+> nobhayena / etān ākārān sthāpayitvā /
 >
-> ārūpyadhātucyutaḥ kāmadhātau brahmaloke copapadyamānaḥ /
-> nobhayena /
->
-> etānākārān sthāpayitvā /
-> yaścakṣurdhātunā samanvāgataścakṣurvijñānadhātunā 'pi saḥ /
+> yaś cakṣur-dhātunā samanvāgataś cakṣur-vijñāna-dhātunā 'pi saḥ /
 >
 > catuṣkoṭikaḥ /
-> prathamā koṭirdvitīyādiṣu dhyāneṣūpapannaścakṣurvijñānāsaṃmukhīkurvāṇaḥ /
 >
-> dvitīyā kāmadhātāvalabdhavihīnacakṣuḥ /
+> prathamā koṭir dvitīyādiṣu dhyāneṣūpapannaś cakṣur-vijñānāsaṃmukhīkurvāṇaḥ /
 >
-> tṛtīyā kāmadhātau labdhāvihīnacakṣuḥ prathamadhyānopapanno dvitīyādidhyānopapannaśca paśyan /
+> dvitīyā kāma-dhātāv alabdha-vihīna-cakṣuḥ /
 >
-> caturthy etānākārān sthāpayitvā /
+> tṛtīyā kāma-dhātau labdhāvihīna-cakṣuḥ prathama-dhyānopapanno dvitīyādi-dhyānopapannaś ca paśyan /
 >
-> evaṃ cakṣurdhāturūpadhātvoścakṣurvijñānarūpadhātvośca pratilambhasamanvāgamau yathāyogamabhyūhitavyau /
+> caturthy etān ākārān sthāpayitvā /
 >
-> etasya prasaṅgasya samuccayārthaścaśabdaḥ sahāpi ca iti /
+> evaṃ cakṣur-dhātu-rūpa-dhātvoś cakṣur-vijñāna-rūpa-dhātvoś ca pratilambha-samanvāgamau yathāyogam abhyūhitavyau /
+>
+> etasya prasaṅgasya samuccayārthaś ca-śabdaḥ saha api ca iti /
 
-The unit occupies printed page 26.02–25. The next unit begins on page
-27. The running transcription's *naiḥṣyandrikā*, *ārupya*,
-*cakṣurvijñāna saṃmukhīkurvāṇa*, separated *vihīna cakṣuḥ*, and
-*catuṛthy* have been regularized. Apparatus and verse labels are omitted.
+Word division is editorial. The compact sentence on other conditioned dharmas is kept as transmitted and read as the exception claim. The next unit is not this page.
 
-The sentence *anyasaṃbhūtasaṃskṛto nāsti kaścidanaiḥṣyandikaḥ* is
-retained as transmitted. Its compact opening is textually difficult;
-the translation below gives the contextual exception claim without
-pretending to establish its exact segmentation. The local research
-transcription repeats that reading rather than supplying an independent
-resolution.
+## 3. Continuous Conventional Translation
 
-## 3. Continuous Translation
+> The others are of three kinds.
+>
+> The others are the remaining four principles: visible, taste, smell, and tangible. They are maturation-born, accumulative, and of homogeneous continuation.
+>
+> One is dravya-bearing.
+>
+> The unconditioned is dravya because it is the core. And that is in the dharma-principle. Therefore the dharma-principle alone is possessed of dravya.
+>
+> The last three are momentary.
+>
+> The mind-principle, the dharma-principle, and the mind-cognition principle are last in the order of recitation. In the first Pure complex, the receptivity to dharma-knowledge concerning suffering, they are without homogeneous continuation for one moment. Therefore they are called momentary. There is no other conditioned dharma that lacks homogeneous continuation.
+>
+> There, the citta associated with receptivity to dharma-knowledge concerning suffering is the mind-principle and the mind-cognition principle. The rest arising together with it are the dharma-principle.
+>
+> This is considered. One who is not possessed of the eye-principle and acquires possession of it: is he also possessed of the eye-cognition principle? Or one who acquires the eye-cognition principle: is he also possessed of the eye-principle?
+>
+> It is said. There may be the eye-principle and not the eye-cognition principle: one gradually acquires the eye in the desire realm, or, having fallen from the formless, is born in the second or a higher dhyāna.
+>
+> There may be the eye-cognition principle and not the eye-principle: one born in the second or a higher dhyāna who brings the eye-cognition to presence, or who, having fallen from there, is born below.
+>
+> There may also be both together: one who, having fallen from the formless, is born in the desire realm or the Brahmā world.
+>
+> Neither: setting those cases aside.
+>
+> Is one possessed of the eye-principle also possessed of the eye-cognition principle? Four cases. The first: born in the second or a higher dhyāna and not bringing the eye-cognition to presence. The second: in the desire realm, the eye not acquired or lost. The third: in the desire realm, the eye acquired and not lost; born in the first dhyāna; or born in the second or a higher dhyāna and seeing. The fourth: setting those cases aside.
+>
+> Likewise, acquisition and possession of the eye-principle and visible, and of the eye-cognition principle and visible, are to be worked out as appropriate. The word and in "also together and" gathers that further discussion.
 
-The others are threefold. The four remaining Form-bearing Principles
-are visible Form, taste, smell, and tangible Form. They admit
-maturation-born, upacaya-reinforced, and homogeneous-continuation
-instances.
+## 4. Movement
 
-One is substance-bearing. The Unconditioned is classed as substance
-because of its essential core. It is present in the Dharma Principle;
-therefore the Dharma Principle alone bears substance-status [in this
-sense].
+Four claims. The remaining four take three causal kinds. One principle bears dravya, because the unconditioned is in it. The last three are momentary in one complex only. Acquisition of eye and eye-cognition then splits into separate, together, and neither, and possession repeats the four. The particle extends the cut to visible. There is no school name.
 
-The last three are momentary. The Mind, Dharma, and Mind-Cognition
-Principles are last in the order of recitation. In the first pure
-complex, the receptivity to Dharma-knowledge concerning suffering, they lack
-homogeneous continuation for one moment. Therefore they are called
-momentary. [Apart from this exception,] no other conditioned Dharma lacks
-homogeneous continuation.
+## 5. Decisions
 
-There, the citta associated with receptivity to Dharma-knowledge
-concerning suffering is classified under the Mind and Mind-Cognition
-Principles. The remaining Dharmas arising together with it belong to
-the Dharma Principle.
+1. Visible, taste, smell, and tangible are maturation-born, accumulative, and of homogeneous continuation.
+2. The dharma-principle alone is dravya-bearing. The unconditioned is in it.
+3. The last three are momentary in the first Pure complex only, one moment without homogeneous continuation.
+4. The citta of that receptivity is mind-principle and mind-cognition principle. The rest with it are the dharma-principle.
+5. Eye and eye-cognition may be acquired separately, together, or neither.
+6. Possession is fourfold. The same working applies to visible.
 
-This is considered: when a person who does not possess the
-Eye-Faculty Principle acquires it, do they also acquire the
-Eye-Cognition Principle? Conversely, does acquiring the latter also
-bring acquisition of the Eye-Faculty Principle? It is said: acquisition of the
-Eye-Faculty and Eye-Cognition Principles may occur separately and also
-together.
+## 6. Organon Reading
 
-First, one may acquire the Eye-Faculty Principle without the
-Eye-Cognition Principle: when gradually acquiring the Eye-Faculty in
-the desire realm, or when passing from the formless realm and being
-born at the second or a later level of meditative absorption.
+Dravya here is the commentary's word for the unconditioned, because it is the core, and that core is in the dharma-principle. It does not make a principle a substance. Momentary is one failure of homogeneous continuation, not a general thesis about time. The eye and the eye-cognition are not one acquisition. That split is the page.
 
-One may acquire the Eye-Cognition Principle without the
-Eye-Faculty Principle: when born at the second or a later level of
-meditative absorption and
-bringing visual Cognition into presence, or when passing from there
-and being born below.
+## 7. Review Status
 
-One may acquire both together: when passing from the formless realm and
-being born in the desire realm or Brahmā world.
-Neither: apart from the stated cases.
-
-Does one possessing the Eye-Faculty Principle also possess the
-Eye-Cognition Principle? There are four cases. The first is someone
-born at the second or a later level of meditative absorption who is not
-bringing visual
-Cognition into presence. The second is someone in the desire realm who
-has not acquired the Eye-Faculty or has lost it. The third is someone
-in the desire realm who has acquired and not lost the Eye-Faculty,
-someone born at the first level of meditative absorption, or someone born
-at the second or a later level of meditative absorption who is seeing. The fourth comprises cases other than
-these.
-
-Likewise, acquisition and possession should be worked out as appropriate
-for the Eye-Faculty and Visible-Form Principles, and for the
-Eye-Cognition and Visible-Form Principles. The word “and” in “also
-together and” serves to include this further discussion.
-
-The supplied exception phrase translates the difficult sentence
-contextually. “Essential core” is a provisional gloss of *sāra*.
-
-## 4. Movement and Voices of the Commentary
-
-The first three determinations complete the classificatory questions
-announced in 1.37. The text then explicitly opens a consideration with
-*idaṃ vicāryate*. Its initial pair of questions concerns coming into
-possession; the later question concerns already possessing.
-
-The answers give realm-conditioned cases rather than a debate between
-named schools. No rival voice is explicitly identified in this unit.
-The final instruction extends the method to related pairs without
-spelling out all their cases. The study preserves that instruction
-rather than inventing a completed enumeration for them.
-
-## 5. Three Causal Classes and the Dharma Principle's Substance Status
-
-The four remaining Form-bearing Principles complete the preceding
-distribution: five Faculties, Sound, eight non-resistant Principles,
-and these four account for eighteen. Sound's exclusion from
-maturation-born status in 1.37 explains why it is not among the four.
-
-The next predicate changes the question. *Dravyavān* is explained by
-the presence of the Unconditioned within the Dharma Principle. The
-prose first gives *sāratvād dravyam* and then locates it in that
-Principle. It does not assert that every Dharma in the Principle is
-Unconditioned, or that all other Principles are unreal.
-
-“Bears `dravya` in this sense” therefore preserves both the local use
-of *dravya* and the relation stated by the Bhāṣya. Importing other
-Abhidharma uses of substantial existence into this count would obscure
-the reason actually supplied.
-
-## 6. The Special Sense of Kṣaṇika
-
-The first pure complex is named *duḥkhe dharmajñānakṣānti*.
-“Receptivity to Dharma-knowledge concerning suffering” keeps *kṣānti*
-distinct from the knowledge it precedes in the technical expression.
-The text identifies this particular event; it does not describe an
-arbitrary first insight or every new act of learning.
-
-*Kṣaṇam ekam anaiḥṣyandikāḥ* supplies the special criterion: for one
-moment these Principles lack homogeneous continuation. This does not
-mean that only the last three Principles have momentary conditioned
-instances while Form-bearing Principles endure unchanged.
-
-Nor does absence of this causal relation mean absence of all causes.
-The event is expressly within the discussion of conditioned Dharmas.
-The interpretive explanation is that a first pure occurrence has no
-earlier homogeneous pure predecessor; that explanation
-must remain narrower than spontaneous or unconditioned origination.
-
-The citta is classified under Mind and Mind-Cognition Principles; the
-remaining co-arisen Dharmas are classified under the Dharma Principle.
-The latter phrase is *tatsahabhuvaḥ*, co-arisen with it. It should not be
-narrowed to associated mental factors alone. Similarly, counting citta under two
-Principle headings does not posit two independent cittas in the event.
-
-## 7. Acquisition Is Not the Same Question as Possession
-
-The acquisition question begins with *asamanvāgataḥ*, not possessing,
-and asks about *samanvāgaṃ pratilabhate*, obtaining possession. The
-four cases enumerate which of the two Principles are newly acquired:
-
-| Newly acquired | Examples given |
-| --- | --- |
-| Eye-Faculty Principle alone | Gradual acquisition in the desire realm; rebirth from the formless realm at the second or a later level of meditative absorption |
-| Eye-Cognition Principle alone | Bringing visual Cognition into presence when born at the second or a later level of meditative absorption; rebirth from those levels below |
-| Both | Rebirth from the formless realm in the desire realm or Brahmā world |
-| Neither | Cases outside those specified |
-
-“Eye-Cognition Principle alone” means no new acquisition of the
-Eye-Faculty in those cases. It does not mean that visual Cognition is
-produced without an Eye-Faculty. The examples differentiate what is
-possessed from what is newly acquired.
-
-The separate possession question then gives:
-
-| Possessed | Examples given |
-| --- | --- |
-| Eye-Faculty Principle alone | Birth at the second or a later level of meditative absorption without manifest visual Cognition |
-| Eye-Cognition Principle alone | Desire-realm existence without an acquired Eye-Faculty or after its loss |
-| Both | Desire-realm existence with an acquired, unlost Eye-Faculty; birth at the first level of meditative absorption; seeing when born at the second or a later level of meditative absorption |
-| Neither | Cases outside those specified |
-
-The second row must remain a possession statement. It does not report
-present seeing without an Eye-Faculty. Conversely, the desire-realm case in the
-third row is not restricted by a requirement of currently seeing.
-The source expressly adds *paśyan*, seeing, to the higher-absorption case.
-
-Thus *pratilambha*, acquisition, *samanvāgama*, possession, and
-*saṃmukhīkaraṇa*, bringing into presence, cannot be translated as one
-undifferentiated occurrence. Manifestation enters certain examples
-without becoming the definition of possession everywhere.
-
-## 8. The Bhāṣya's Decisions for the Kārikā
-
-- “The others” means visible Form, taste, smell, and tangible Form, each
-  admitting the three previously defined causal classes.
-- The Dharma Principle alone bears substance-status in the locally
-  specified sense because it includes the Unconditioned.
-- The last three are called momentary through a one-moment exception
-  to homogeneous continuation at the first pure complex.
-- The associated citta and its co-arisen Dharmas supply the Mind,
-  Mind-Cognition, and Dharma Principle distribution without multiplying
-  cittas or restricting all companions to associated factors.
-- Separate acquisition does not imply absence of the other Principle.
-- The possession analysis must be retained separately, with its actual
-  realm conditions and references to manifestation.
-
-These decisions refine this study while preserving the original
-kārikā and research commentary.
-
-## 9. Interpretation
-
-The Kośa explicitly presents Vijñāna as Discriminative Cognition joining
-and governing Perception and Conception. Their unity is Inconceivable as
-a homogeneous operation; its Idea is disclosed in the Cognition Base.
-Vijñāna governs Manas and guides Dharma Base. Form Base and Dharma Base
-classify the same *avijñapti* distinctly, and Vijñāna bears a *prati*
-relation to it. Vijñāna remains distinct from consciousness (*citta*) and
-Mind (*manas*).
-
-VAK 1.38 completes the causal classification and distinguishes the Dharma
-Principle's inclusion of the Unconditioned, the first pure moment without
-a prior homogeneous pure cause, and separate or joint acquisition of the
-Eye-Faculty and Eye-Cognition Principles. The first pure occurrence
-remains conditioned; its exception concerns one moment of causal
-continuity, not the absence of all conditions.
-
-The citta associated with receptivity to Dharma-knowledge is classified
-under the Mind and Mind-Cognition Principles, while co-arisen Dharmas
-belong to the Dharma Principle. The fourfold analyses distinguish
-acquisition, possession, and present manifestation. The Principle
-instrument keeps these relations and causal determinations distinct.
-
-## 10. Review Status
-
-Provisional thirty-eighth study in the Bhāṣya edition. The local kārikā,
-research commentary, and running Sanskrit have been compared through
-the instruction to extend acquisition and possession analysis to the
-Visible-Form Principle pairs.
-
-The compact sentence about the conditioned exception remains textually
-difficult and is translated with an explicit contextual supplement.
-Both fourfold analyses are preserved, and possession is not replaced
-by present operation. Original sources and the Part One reading
-artifact remain unchanged.
+Upgraded reading of the thirty-eighth study. Scheme checked: principle is dhātu; cognition is vijñāna; Pure is the first complex; dravya is not substance. 1.36 left for later reading. 1.39 not opened.

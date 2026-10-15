@@ -14,28 +14,21 @@
 
 ## 3. Lexical Analysis
 
-```text
-ye | sāsravāḥ | upādāna-skandhāḥ | te | saraṇāḥ | api |
-duḥkham | samudayaḥ | lokaḥ | dṛṣṭi-sthānam | bhavaḥ | ca | te
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
-| ye | masculine nominative plural relative pronoun | those among the conditioned Bases which are Impure |
-| sāsravāḥ | masculine nominative plural adjective | Impure |
-| upādāna-skandhāḥ | masculine nominative plural compound | aggregates of appropriation; Techne: Bases of appropriation |
-| te | masculine nominative plural demonstrative | those same Impure dharmas |
-| saraṇāḥ | masculine nominative plural adjective | with conflict; Bhāṣya relates conflict to affliction |
-| api | particle | also |
-| duḥkham | neuter singular noun | suffering, a further designation |
-| samudayaḥ | masculine singular noun | origin |
-| lokaḥ | masculine singular noun | world |
-| dṛṣṭi-sthānam | neuter singular compound | station of views |
-| bhavaḥ | masculine singular noun | becoming |
-| ca | particle | and |
-
-`Ye … te` restricts the five Bases of 1.07. Not every Base is Impure:
-the Path is Conditioned and Pure.
+| ye | nominative masculine plural | those which. Restricts the five bases of 1.07 |
+| sāsravāḥ | sa-āsrava; nominative masculine plural | Impure. The summary division |
+| upādānaskandhāḥ | upādāna-skandha; nominative masculine plural | bases of appropriation. Not every base |
+| te | nominative masculine plural | they. Same field |
+| saraṇāḥ | sa-raṇa; nominative masculine plural | with conflict. Coextensive with the Impure field |
+| api | particle | also. Not a second inventory |
+| duḥkham | nominative neuter singular | suffering |
+| samudayaḥ | nominative masculine singular | origin |
+| lokaḥ | nominative masculine singular | world. Here, what dissolves |
+| dṛṣṭisthānam | dṛṣṭi-sthāna; nominative neuter singular | station of views. Not the station of prajñā |
+| bhavaḥ | nominative masculine singular | becoming |
+| ca | particle | and. The five names are one field |
+| te | nominative masculine plural | they, resumed |
 
 ## 4. Grammar
 
@@ -46,70 +39,43 @@ ye sāsravāḥ
     = duḥkha, samudaya, loka, dṛṣṭisthāna, bhava
 ```
 
-One field under a summary division. The second line names that same Impure
-field. It is not a second inventory.
+One field under a summary division. The second line names that same Impure field. It is not a second inventory. The Path is Conditioned and Pure, and is outside the restriction.
 
 ## 5. Translation
 
-### Literal Translation
+### Literal
 
-Those which are Impure are the Bases of appropriation
-(*upādānaskandhas*). They are also *saraṇa*. They are suffering, origin,
-world, the station of views, and becoming.
+Those which are Impure are the bases of appropriation. They are also with conflict. They are suffering, origin, world, the station of views, and becoming.
 
-### Bhāṣya-informed study translation
+### Bhāṣya-informed
 
-The Impure aggregates are Bases of appropriation. Every such Base is an
-aggregate, but some aggregates are Pure and therefore are not Bases of
-appropriation. Appropriation here means the afflictions: these Bases can
-arise from them, be governed by them, or give rise to them. They are also
-with conflict because afflictions persist latently in them and injure self
-and others. Suffering, Origin, World, Station of Views, and Becoming are
-further designations of this same Impure field, each with its own reason.
+Not every base is a base of appropriation: there are Pure formations, and the Path is Conditioned and Pure. The appropriations are the afflictions. The bases are so called because they arise from the afflictions, because they are governed by them, or because the afflictions arise from them. Conflict persists latently in them. The five names are coextensive with this Impure field. Each has its own ground.
 
 ## 6. Philosophical Translation
 
-1.07 gathers the Conditioned dharmas as five Bases. 1.08 divides that
-field by Impure and Pure.
+The five bases are divided. The Impure are the bases of appropriation, and they are also the field of conflict. That same field is suffering, origin, world, the station of views, and becoming.
 
 ```text
-Five Bases      the gathered Being-grade field of 1.07
+Five bases       the gathered field of 1.07
 
-Impure          Bases of appropriation
-                the summary division
+Impure           bases of appropriation
+                 the summary division
 
-Path            Conditioned and Pure
-                not within this Impure division
+Path             Conditioned and Pure
+                 not within this division
 ```
-
-Suffering, origin, world, station of views, becoming: names of that division. Not synonyms. Not a second list.
-
-In our Techne, the Science of Principles is the First Dharma that can see
-the appropriated field without being captured by its persistence. 1.08
-shows what comes second as a determinate, Impure configuration of the
-conditioned Bases. The Absolute holds that configuration as eternally
-sublated: its origin, dependence, and limit are intelligible within the
-whole, while its suffering and causal force remain real for those caught
-in it. This is our logical reading of the Bhāṣya's distinct relations,
-not a translation of *upādāna* or *sāsrava*.
-
-The Form Base is Form Theory, not a material substrate: it is the empirical
-determination of appearance, as established in 1.07. This verse marks the
-Impure subset while preserving the Path as Conditioned and Pure.
 
 ## 7. Technical Vocabulary
 
-| Sanskrit | Conventional force | Techne determination |
+| Sanskrit | Do not use as the reading | Determination |
 |---|---|---|
-| sāsrava | Impure | the summary predicate restricting the Bases |
-| upādānaskandha | aggregate of appropriation | Base of appropriation; Impure subset |
-| anāsrava | Pure | the conditioned Path remains outside this subset |
-| saraṇa | with conflict | conflict persists latently in this field |
-| duḥkha | suffering | what is contrary to the Āryas |
-| samudaya | origin | suffering arises from it |
-| loka | world | what dissolves |
-| dṛṣṭisthāna | station of views | views persist here |
-| bhava | becoming | what comes to be |
+| sāsrava | with outflows; lodging | Impure. Summary division |
+| anāsrava | outflow-free | Pure. The Path is Conditioned and Pure |
+| upādānaskandha | aggregate of clinging as a stain-word | base of appropriation |
+| saraṇa | with defilement, unspecified | with conflict |
+| loka | a place | here, what dissolves |
+| dṛṣṭisthāna | a viewpoint | station of views |
+| bhava | existence as a realm-name | becoming |
 
 ## 8. Logical Determination
 
@@ -118,23 +84,16 @@ Impure(x) ↔ AppropriationBase(x)
 AppropriationBase(x) → Base(x)
 Base(x) ↛ Impure(x)
 Path is Conditioned and Pure
+
+saraṇa ↔ Impure
+duḥkha, samudaya, loka, dṛṣṭisthāna, bhava
+    coextensive
+    not synonyms
 ```
 
 ## 9. Interpretive Note
 
-The Bhāṣya makes the restriction exact: every Base of appropriation is a
-Base, but not every Base is a Base of appropriation. It gives three
-different relations between affliction and the appropriated Bases:
-production from affliction, governance by it, and production of further
-affliction from the Bases. The five subsequent names are coextensive
-designations, each grounded differently. A reader should be able to
-follow these relations before adopting the Techne's First Dharma reading.
-
-Together, 1.07 and 1.08 begin the division beneath the Concept: one
-conditioned field, then its Impure subset. The Pure Path prevents the
-second determination from exhausting the first. The Base grade has been
-opened; the later Essence and Principle grades require their own textual
-work.
+Impure is the top-level division within the five-base field. Once the division is made, the word can drop. The sheath is later. The first two names are the first two Truths of what persists. The station of views is not the station of prajñā. A Rational Dharma does not Persist.
 
 ## 10. OWL++ Seed
 

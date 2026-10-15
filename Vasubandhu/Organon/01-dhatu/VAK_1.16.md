@@ -1,4 +1,4 @@
-# VAK_1.16 — Cognition, Mind Essence, and the Seven Principles
+# VAK_1.16 — The Cognition-Base
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -14,104 +14,59 @@
 
 ## 3. Lexical Analysis
 
-```text
-vijñānaṃ prativijñaptiḥ       → vijñānam + prativijñaptiḥ
-mana āyatanaṃ ca tat          → manaḥ + āyatanam + ca + tat
-dhātavo matāḥ                  → dhātavaḥ + matāḥ
-ṣaḍvijñānāny atho manaḥ       → ṣaṭ + vijñānāni + atho + manaḥ
-```
-
-| Pada | Morphology | Force in this passage |
+| Pada | Morphology | Force |
 |---|---|---|
-| vijñānam | nominative neuter singular | cognition |
-| prativijñaptiḥ | nominative feminine singular | respective apprehension |
-| manaḥ | nominative neuter singular | Mind |
-| āyatanam | nominative neuter singular | Essence |
-| tat | nominative neuter singular | that; refers to Cognition Base |
-| dhātavaḥ | nominative masculine plural | Principles |
-| sapta | numeral | seven |
-| matāḥ | nominative masculine plural participle | accepted; taught |
-| ṣaṭ | numeral | six |
-| vijñānāni | nominative neuter plural | Cognitions |
-| atho | connective | and also |
+| vijñānam | nominative neuter | cognition |
+| prativijñaptiḥ | nominative feminine | respective apprehension |
+| mana āyatanam | nominative | mind-essence |
+| tat | nominative | that |
+| dhātavaḥ | nominative plural | principles |
+| sapta matāḥ | numeral and participle | seven are accepted |
+| ṣaṭ vijñānāni | numeral and plural | six cognitions |
+| atho manaḥ | connective and nominative | and manas |
 
 ## 4. Grammar
 
-```text
-vijñānam = prativijñaptiḥ
-
-tat = manaḥ āyatanam
-
-dhātavaḥ sapta = ṣaṭ vijñānāni + manaḥ
-```
-
-The verse defines Cognition as respective apprehension. The Bhāṣya identifies
-that same Cognition Base as Mind Essence and explains the seven Principles as
-the six Cognition Principles together with Mind Principle.
+The first clause defines the base. The second places it as an essence. The third counts its principles. The commentary reads the last *manaḥ* as *manodhātu*.
 
 ## 5. Translation
 
 ### Literal Translation
 
-Cognition is respective apprehension. That is also Mind Essence. Seven
-Principles are accepted: the six Cognitions, and Mind.
+Cognition is respective apprehension. And that is the mind-essence. Seven principles are accepted: the six cognitions, and manas.
 
 ### Bhāṣya-informed study translation
 
-Cognition is apprehension with respect to each Condition. That same
-Cognition Base is Mind Essence. Seven Principles are accepted: the six
-Cognition Principles, from Eye-Cognition through Mind-Cognition, and Mind
-Principle.
+The cognition-base is apprehension with respect to each condition: six groups, from the eye-cognition to the mental cognition. Cognition-essence is mind-essence. Of the seven principles, six are cognition-principles, and the seventh cognition-principle is the mind-principle.
+
+## 6. Philosophical Translation
+
+What is defined is the base. What that base is, as essence, is mind. What it is, as principle, is seven, and the last of these is the mind-principle.
 
 ## 7. Technical Vocabulary
 
-| Sanskrit | Rendering | Note |
-|---|---|---|
-| vijñāna | Cognition | respective apprehension |
-| prativijñapti | respective apprehension | the Bhāṣya glosses this as *upalabdhi* |
-| vijñānaskandha | Cognition Base | the Base considered as Mind Essence |
-| mana-āyatana | Mind Essence | the Essence determination |
-| manovijñāna-dhātu | Mind-Cognition Principle | one of the six |
-| manodhātu | Mind Principle | the seventh; distinct from Mind-Cognition Principle |
+| Sanskrit | Rendering |
+|---|---|
+| vijñāna-skandha | cognition-base |
+| prativijñapti | respective apprehension |
+| mana-āyatana | mind-essence |
+| manovijñāna-dhātu | mental cognition-principle |
+| manodhātu | mind-principle |
+| upalabdhi | apprehension |
 
 ## 8. Logical Determination
 
-The Bhāṣya closes the count at five Bases, twelve Essences, and eighteen
-Principles.
+The base is cognition, respective apprehension, in six groups. The essence of that base is the mind-essence. The principles are seven. The seventh cognition-principle is the mind-principle.
 
-```text
-Cognition Base
-    → Mind Essence
-    → six Cognition Principles + Mind Principle
-    → seven Principles
+The close is five bases, twelve essences, eighteen principles.
 
-five Bases
-    → twelve Essences
-    → eighteen Principles
-```
-
-## 9. Interpretive Note
-
-The verse establishes the seven-Principle count. The relation between Mind
-Principle and the six Cognition Principles is taken up in 1.17.
-
-## 10. OWL++ Seed
+## 9. OWL++ Seed
 
 ```ttl
 @prefix vak: <http://127.0.0.1:3000/vak#> .
 
 vak:VAK_1_16 a vak:Karika ;
-    vak:hasTopic vak:PrincipleMindEssenceSeven ;
-    vak:belongsTo vak:Dhatunirdesa .
-
-vak:CognitionBase vak:also vak:MindEssence ;
-    vak:projectedAs vak:SixCognitionPrinciples, vak:MindPrinciple .
-
-vak:MindCognitionPrinciple vak:memberOf vak:SixCognitionPrinciples ;
-    vak:distinctFrom vak:MindPrinciple ;
-    vak:relationOpenedIn vak:VAK_1_17 .
-
-vak:CountClose vak:bases 5 ;
-    vak:essences 12 ;
-    vak:principles 18 .
+    vak:hasTopic vak:CognitionBase .
+vak:CognitionEssence vak:is vak:MindEssence .
+vak:MindPrinciple vak:is vak:SeventhCognitionPrinciple .
 ```

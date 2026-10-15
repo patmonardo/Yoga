@@ -1,4 +1,4 @@
-# VAK_1.01 — Liberation through Instruction According to Reality
+# VAK_1.01
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -14,26 +14,20 @@
 
 ## 3. Lexical Analysis
 
-```text
-sarvathāsarvahatāndhakāraḥ → sarvathā + sarva-hata-andhakāraḥ
-saṃsārapaṅkājjagadujjahāra → saṃsāra-paṅkāt + jagat + ujjahāra
-pravakṣyāmy abhidharmakośam → pravakṣyāmi + abhidharmakośam
-```
-
-| Pada | Morphology | Force in this passage |
+| Form | Padaccheda | Meaning |
 |---|---|---|
-| yaḥ | nominative masculine singular relative pronoun | he who; answered by *tasmai* |
-| sarvathā | indeclinable adverb | in every manner |
-| sarva-hata-andhakāraḥ | nominative masculine singular compound | one whose darkness is destroyed concerning everything knowable |
-| saṃsāra-paṅkāt | ablative singular compound | out of the mire of saṃsāra |
-| jagat | accusative neuter singular | the world that he raised |
-| ujjahāra | third-person singular perfect | raised out |
-| tasmai | dative masculine singular demonstrative | to him, the one just described |
-| namaskṛtya | absolutive | having bowed |
-| yathārtha-śāstre | dative masculine singular of *yathārtha-śāstṛ* | to the teacher according to reality; apposition to *tasmai* |
-| śāstram | accusative neuter singular | the treatise to be proclaimed |
-| pravakṣyāmi | first-person singular future | I shall proclaim |
-| abhidharmakośam | accusative masculine singular title | the *Abhidharmakośa*, naming the treatise |
+| yaḥ | yaḥ | he who |
+| sarvathā | sarvathā | in every way |
+| sarva-hata-andhakāraḥ | sarva-hata-andhakāraḥ | whose darkness is destroyed concerning everything |
+| saṃsāra-paṅkāt | saṃsāra-paṅkāt | from the mire of saṃsāra |
+| jagat | jagat | the world |
+| ujjahāra | ujjahāra | lifted up, raised out |
+| tasmai | tasmai | to him |
+| namaskṛtya | namaskṛtya | having bowed |
+| yathārtha-śāstre | yathārtha-śāstṛ | to the teacher according to reality / teacher of reality (dative singular) |
+| śāstram | śāstram | treatise, teaching |
+| pravakṣyāmi | pravakṣyāmi | I shall proclaim |
+| abhidharmakośam | abhidharma-kośam | Treasury of Abhidharma |
 
 ## 4. Grammar
 
@@ -63,27 +57,21 @@ The dative `yathārtha-śāstre` stands in apposition to `tasmai`: homage is off
 
 ## 5. Translation
 
-### Literal Translation
+### Literal
 
-> Having bowed to him whose darkness has been destroyed in every way and concerning everything, who raised the world from the mire of saṃsāra—to that teacher according to reality—I shall proclaim the treatise, the *Abhidharmakośa*.
+Having bowed to him whose darkness has been destroyed in every way and concerning everything, who raised the world from the mire of saṃsāra — to that teacher according to reality — I shall proclaim the treatise, the *Abhidharmakośa*.
 
+### Bhāṣya-informed
 
-### Bhāṣya-informed study translation
-
-> Having bowed to him, the teacher according to reality, whose ignorance has been destroyed in every mode and throughout all knowable things, and who lifted the world from saṃsāra’s mire through true teaching rather than miraculous powers, I shall proclaim the *Abhidharmakośa*, the treatise for instructing disciples.
+Darkness is ignorance, the obstruction of seeing things as they are. In the Buddha it has been destroyed by attainment of the counteragent, and it cannot arise again, in any way, with respect to anything knowable. Pratyekabuddhas and śrāvakas have afflicted delusion removed, but not in every way: non-afflicted ignorance may remain. He raised the world by instruction according to reality, not by supernormal feats or the granting of boons. The treatise is a śāstra because it instructs disciples.
 
 ## 6. Philosophical Translation
 
 > The work begins by bowing to the one whose ignorance has been extinguished in every way and concerning everything, who raises beings out of saṃsāric entanglement, and who teaches according to reality. The *Abhidharmakośa* is then announced as the śāstra to be proclaimed.
 
-Techne reading:
+Organon rendering:
 
-> The Teacher's unobstructed seeing is operative in teaching according to reality. The *śāstra* enters as the communicable form of that instruction: a disciple can be led toward seeing through what is taught. In our Yoga Vidyā, this is the opening relation of Vidyā and Technē: realized knowing communicates itself through a disciplined means adequate to its liberating end.
-
-The verse announces the treatise; the Bhāṣya supplies the explicit means of
-raising others, namely instruction according to reality and according to
-their capacities. The definition of Abhidharma and the two senses of *kośa*
-belong to 1.02, so they are not presumed here.
+> Abhidharma begins from the overcoming of darkness. The Buddha is not invoked as ornament but as the actual disclosure of Dharma: one who has destroyed obscuration and lifted the world from the mud of appearance. The treatise is therefore a treasury of determinate reality.
 
 ## 7. Technical Vocabulary
 
@@ -92,7 +80,7 @@ belong to 1.02, so they are not presumed here.
 | andhakāra | darkness | ignorance / obscuration |
 | saṃsāra-paṅka | mire of saṃsāra | entangled cyclic appearance |
 | jagat | world | beings/world-process caught in saṃsāra |
-| yathārtha-śāstṛ | teacher according to reality | epithet of the Buddha in the dative singular `yathārtha-śāstre` |
+| yathārtha-śāstṛ | teacher according to reality | epithet of the Buddha in the dative singular `yathārthaśāstre` |
 | śāstra | treatise / teaching | principled doctrinal exposition |
 | abhidharmakośa | Treasury of Abhidharma | treasury of Dharma-analysis |
 
@@ -101,36 +89,39 @@ belong to 1.02, so they are not presumed here.
 The opening structure is:
 
 ```text
-darkness obstructs seeing things as they are
-    → in the Teacher, its counteragent removes it
-      concerning everything knowable and in every manner
-    → the Teacher raises others through truthful instruction
-      suited to their capacities
-    → Vasubandhu bows to this Teacher and announces a śāstra
-      whose function is to instruct disciples
+obscuration
+    ↓
+removal of darkness
+    ↓
+raising from saṃsāra
+    ↓
+proclamation of the Dharma-treatise
 ```
 
-The Bhāṣya supplies the middle term between complete knowing and the
-benefit of others: teaching. *Śāstṛ* names the one who teaches according to
-reality; *śāstra* names the instruction addressed to disciples. Their
-relation gives the announced work a practical task before 1.02 defines
-Abhidharma.
+This is not a neutral preface. It establishes the condition of Abhidharma:
+
+```text
+Dharma-analysis begins where darkness has been overcome.
+```
 
 ## 9. Interpretive Note
 
-The two dimensions of the Teacher's freedom from darkness are essential:
-*sarva* concerns the range of the knowable, while *sarvathā* concerns every
-manner of knowing it. The Bhāṣya says pratyekabuddhas and śrāvakas have
-removed afflicted delusion throughout, yet non-afflicted ignorance can
-remain. The verse's universal claim therefore has a determinate contrast.
+The first verse already sets the chapter's whole orientation. Abhidharma is not mere scholastic inventory. It is grounded in liberation from darkness and in the disclosure of reality.
 
-For our Yoga Vidyā, the opening gives a first criterion for a Dharma Science:
-its knowing must be answerable to things as they are, and its articulation
-must form another's capacity to see. Kant's distinction between a merely
-formal logic and a logic concerned with cognition's objective validity helps
-us state that criterion; it is the Techne's logical exposition of the
-opening, not a term in the Sanskrit. The Bhāṣya itself supplies the decisive
-relation of knowing, non-inverted teaching, and liberation.
+For the later dhātu analysis, this matters because the domains will not be treated as dead categories. They are the lawful determinations through which the world of saṃsāra can be understood, judged, cultivated, and transcended.
+
+Organon note:
+
+```text
+Buddha
+    = one in whom obscuration is destroyed
+
+Abhidharma
+    = analysis of Dharma according to reality
+
+Kośa
+    = treasury of determinate truth
+```
 
 ## 10. OWL++ Seed
 

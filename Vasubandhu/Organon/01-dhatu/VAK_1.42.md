@@ -1,4 +1,4 @@
-# VAK_1.42 — Does the Eye or Visual Cognition See?
+# VAK_1.42 — The Eye Sees
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -14,158 +14,139 @@
 
 ## 3. Lexical Analysis
 
-```text
-cakṣuḥ              → cakṣuḥ
-rūpāṇi              → rūpāṇi
-sabhāgam            → sa-bhāgam
-tadāśritam          → tad-āśritam
-vijñānam            → vijñānam
-dṛśyate             → dṛśyate
-kilāntaritam        → kila antaritam
-yataḥ               → yataḥ
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
-| cakṣuḥ | nominative neuter singular | Eye Principle |
-| paśyati | third-person singular present active of `√paś` | sees |
-| rūpāṇi | accusative neuter plural | visible Forms |
-| sa-bhāgam | nominative/accusative neuter singular adjective | the Eye conjoined with visual Cognition |
-| na | negative particle | not |
-| tad-āśritam | neuter singular compound; case is context-dependent | dependent upon that Eye |
-| vijñānam | neuter singular; nominative/accusative form | visual Cognition, the proposed alternative seer |
-| dṛśyate | third-person singular present passive | is seen |
-| rūpam | nominative neuter singular | visible Form |
-| kila | reportive/emphatic particle | according to the stated reasoning |
-| antaritam | nominative neuter singular participle | obstructed or screened by an intervening barrier |
-| yataḥ | relative adverb | because, since |
+| cakṣuḥ paśyati | nominative, verb | the eye sees |
+| rūpāṇi | accusative | visibles |
+| sabhāgam | accusative | the one that does its own work |
+| na tad-āśritam | negative | not the cognition supported by it |
+| vijñānam | accusative | cognition |
+| dṛśyate rūpam na | passive | a visible is not seen |
+| kila antaritam | particle, participle | it is said, the obstructed |
+| yataḥ | ablative | because |
 
-The prose order is compressed. In the opening Vaibhāṣika argument, the
-Eye conjoined with visual Cognition sees; the Cognition dependent upon
-the Eye is rejected as the seer. The stated reason concerns obstructed
-visible Form.
+Sabhāga is the eye that does its own work. The cognition supported by the eye is not what sees.
 
 ## 4. Grammar
 
-The first assertion attributes seeing to the Eye, qualified as conjoined
-with visual Cognition. The Bhāṣya rejects the alternative that the
-Cognition dependent upon the Eye is the seer. The verse's reason is that
-obstructed visible Form is not seen.
+```text
+the eye sees visibles
+    the sabhāga eye
+    not every eye
 
-The Vaibhāṣika argument holds that Cognition, if independently the seer,
-should not itself be blocked by a wall. Its reply explains non-seeing
-through the failure of visual Cognition to arise when illumination is
-blocked. Transparent media do not refute this explanation: glass, mica,
-crystal, and water can permit seeing when light is not blocked. The
-Bhāṣya reports further positions rather than resolving the dispute in
-one unqualified authorial declaration.
+not the cognition supported by it
+    because an obstructed visible is not seen
+    cognition is unresistant
+    a wall would not stop it
+
+established position
+    the eye sees
+    the ear hears
+    the nose smells
+    the tongue tastes
+    the body touches
+    mind cognizes
+```
+
+The verse is the Vaibhāṣika sentence. The prose is the dispute around it.
 
 ## 5. Translation
 
 ### Literal Translation
 
-> The Eye, when conjoined with visual Cognition, sees visible Forms, not the Cognition dependent upon it; reportedly, obstructed visible Form is not seen.
+The eye sees visibles, the one that does its own work, not the cognition supported by it. For, it is said, an obstructed visible is not seen.
 
 ### Bhāṣya-informed study translation
 
-> The Kāśmīra Vaibhāṣika account holds that the Eye sees when conjoined with visual Cognition. Its argument appeals to the relation among Eye, visible Form, and illumination: obstructed Form is not seen because visual Cognition does not arise. Other teachers attribute seeing to visual Cognition and transfer the act to the Eye as its support; the Sautrāntikas treat such expressions as conventional descriptions of a dependently arisen event.
+If the eye saw, it would see even for one not equipped with the other cognition. Not every eye sees. Which, then? The one that does its own work. When it is with cognition, it sees. Otherwise it does not. Then let that very cognition supported by the eye be what sees. Not the cognition supported by it. It cannot be known to see. Why? Because, it is said, an obstructed visible is not seen. If cognition saw, then, being unresistant, it would have no resistance in a wall and the rest, and it would see even a covered visible.
 
-The second rendering preserves the doctrinal controversy rather than making
-the Kārikā's immediate thesis the uncontested conclusion of the Bhāṣya.
+But visual cognition does not arise toward the covered. Not having arisen, how will it see? Why does it not arise? For the one whose eye sees, the eye is resistant, so there is no operation when there is a screen. The non-arising of the cognition is in order, because it proceeds to one object by means of the support.
+
+Is the eye then an object-reacher, like the body-organ, so that it does not see the covered? Because it is resistant. Then how is what is screened by glass, cloud, film, crystal, or water seen? The unseen of a covered visible is not from the resistance of the eye. Where light is not blocked, visual cognition arises even toward a covered visible. Where it is blocked, it does not arise. Because it has not arisen, the covered is not seen.
+
+The sūtra says "having seen visibles by the eye." The intent is "by that support," as it says "having cognized dharmas by mind." Mind does not cognize dharmas, because it is past. Mind-cognition does. Or the act of the supported is attributed to the support, as "the beds cry." And the sūtra says "visibles cognizable by the eye, desired, lovely." They are not cognized by the eye.
+
+The sūtra says "the eye, brahmin, is the door, just for the seeing of visibles." From this it is understood that cognition sees by the eye as door. There "door" is a name for seeing. It does not fit to say "the eye is seeing, for the seeing of visibles."
+
+If cognition sees, what cognizes, and what is the difference? The very cognition of a visible is its seeing. As a certain prajñā is said to see and also to discriminate, so a certain cognition is said to see and also to cognize.
+
+Others say: if the eye sees, what other act of seeing belongs to the eye as agent? This is no objection. If it is admitted that cognition cognizes, and there is no distinction of agent and act there, the same holds here.
+
+Others say: visual cognition is seeing. The eye is said to see because it is the support of that, as a bell is said to sound because it is the support of the sound. Then, because it is the support of cognition, the eye would cognize. It does not follow. That cognition is established in the world as seeing. When it has arisen, a visible is said to have been seen, not cognized. The Vibhāṣā also says: what is reached by the eye and experienced by visual cognition is called seen. Therefore one says the eye sees, not that it cognizes. Cognition is said to cognize a visible merely by presence, as the sun is called the maker of the day.
+
+Here the Sautrāntikas say: why chew empty space? Visual cognition arises depending on the eye and on visibles. Who sees there, or what is seen? This is without activity, dharmas only, and cause and result only. For the sake of discourse, attributions are made as one chooses. One should not insist that the eye sees or that cognition cognizes. The Blessed One said: one should not insist on the expression of the country, and one should not overstep the designation of the world.
+
+This, however, is the established position of the Kāśmīra Vaibhāṣikas: the eye sees, the ear hears, the nose smells, the tongue tastes, the body touches, and mind cognizes.
+
+## 6. Philosophical Translation
+
+The verse does not say that every eye sees. It says the sabhāga eye sees, and the cognition supported by it does not. The reason is the wall. Cognition is unresistant. A wall would not stop it. If cognition saw, the covered would be seen. The reply that cognition simply does not arise toward the covered is turned: it does not arise because the eye, which is resistant, has no operation when screened, and cognition proceeds to one object by means of that support.
+
+Glass, cloud, film, crystal, and water do not make the eye a contact-organ. Where light is not blocked, cognition arises. Where light is blocked, it does not. The covered is unseen because cognition has not arisen, not because the eye cannot pass a screen.
+
+The sūtras that put seeing on the eye are read as attribution. Mind is past when dharmas are cognized. The beds do not cry. The door is a name for seeing, or the sentence collapses into "seeing for the sake of seeing." The bell sees only as support of the sound. The world says "seen," not "cognized," when visual cognition has arisen. The Vibhāṣā keeps both: reached by the eye, experienced by visual cognition, called seen. Cognition cognizes by presence, as the sun makes the day.
+
+The Sautrāntika refuses the agent. Depending on eye and visibles, visual cognition arises. No one sees. Nothing is seen. Dharmas only, cause and result only, without activity. The attribution is for discourse. The Kāśmīra position does not take that refusal. The eye sees. Mind cognizes.
+
+## 7. Technical Vocabulary
+
+| Sanskrit | Rendering | Note |
+|---|---|---|
+| sabhāga | does its own work | the eye with cognition |
+| tad-āśrita | supported by it | visual cognition; not what sees |
+| antarita | obstructed | the wall |
+| sapratigha | resistant | the eye |
+| apratigha | unresistant | cognition |
+| prāpta-viṣaya | object-reacher | the body-organ; not the eye |
+| upacāra | attribution | the beds cry; the eye sees |
+| nirvyāpāra | without activity | the Sautrāntika refusal |
+| siddhānta | established position | the eye sees; mind cognizes |
 
 ## 8. Logical Determination
 
-### Scientific Determination
+```text
+eye sees
+    sabhāga only
+    not the supported cognition
 
-The verse records a dispute over attribution, not a single settled account
-of an independent seer. The opening position attributes seeing to the Eye
-when conjoined with visual Cognition; other speakers identify the act with
-Cognition or treat both formulations as conventional speech about a
-conditioned event. Preserve the speaker and the argumentative sequence
-when interpreting each claim.
+reason
+    an obstructed visible is not seen
+    cognition is unresistant
 
-### Support and Attribution
+screen
+    not contact
+    light blocked or not
 
-The Bhāṣya distinguishes the Eye as support from the visual Cognition
-that depends on it. It also distinguishes the arising of Cognition from
-the question of which entity is grammatically or conventionally said
-to see. The examples of a door, a bell, and a support carrying an
-operation develop those separate claims; they are not interchangeable
-proofs of a single theory.
+attribution
+    by the support
+    the beds cry
 
-The Sautrāntika speaker describes the event as Dharmas and cause-result
-relations alone, without independent activity, and treats “the Eye sees”
-and “Cognition cognizes” as conventional attributions. The closing
-Kāśmīra Vaibhāṣika statement assigns the six cognitive operations to
-their corresponding Faculties. These positions must remain attributed
-to their speakers.
+Sautrāntika
+    no agent
+    dharmas only
+    cause and result only
+
+Kāśmīra
+    the eye sees
+    mind cognizes
+
+1.43 not opened
+```
 
 ## 9. Interpretive Note
 
-### Positions in the Dispute
+The hinge is the wall. If cognition saw, resistance would not matter. The established sentence keeps the seeing on the eye that does its own work. The Sautrāntika sentence withdraws the agent. Both are on the page. The position recorded at the close is the Kāśmīra one.
 
-The opening Vaibhāṣika position is:
+## 10. OWL++ Seed
 
-```text
-EyePrinciple
-∧ ConjoinedWith(VisualCognition)
-    → EyeSees(VisibleForm)
+```ttl
+@prefix vak: <http://127.0.0.1:3000/vak#> .
 
-BlockedVisibleForm
-    → VisibleFormIsNotSeen
+vak:VAK_1_42 a vak:Karika ;
+    vak:hasTopic vak:TheEyeSees ;
+    vak:belongsTo vak:Dhatunirdesa .
+
+vak:SabhagaEye vak:sees vak:Visible .
+vak:SupportedCognition vak:sees false .
+vak:KashmiraPosition vak:holds "the eye sees; mind cognizes" .
 ```
-
-The objection to Cognition as seer and the subsequent reply are distinct:
-
-```text
-NonResistant(VisualCognition)
-∧ VisualCognitionIsIndependentSeer
-    → ShouldSee(ConcealedVisibleForm)
-
-BlockedIllumination
-    → VisualCognitionDoesNotArise
-    → ConcealedVisibleFormIsNotSeen
-```
-
-The support-attribution position is distinct:
-
-```text
-VisualCognitionSees(VisibleForm)
-∧ SupportedBy(VisualCognition, EyePrinciple)
-    → “Eye sees” is transferred attribution
-```
-
-The Sautrāntika position emphasizes conditioned arising and conventional
-language:
-
-```text
-EyePrinciple ∧ VisibleForm
-    → VisualCognitionArises
-
-“Eye sees” ∨ “Cognition cognizes”
-    → ConventionalAttribution
-```
-
-These are reported arguments and positions, not a shared event formula
-or a single conclusion of the commentary.
-
-The dispute distinguishes the Eye's operation, the arising of visual
-Cognition, and the attribution of seeing in language. The opening
-Vaibhāṣika position assigns seeing to the Eye conjoined with Cognition;
-other speakers locate seeing in Cognition or treat both formulations
-as conventional. The Bhāṣya reports the Kāśmīra Vaibhāṣika assignment
-of the six operations to their corresponding Faculties as its closing
-position, without erasing the preceding dissent.
-
-In the governing model, Vijñāna as Discriminative Cognition joins and
-governs Perception and Conception. Their unity is Inconceivable as a
-homogeneous operation, and its Idea is disclosed in Cognition Base.
-Vijñāna governs Manas and guides the reading of Dharma Base. Form Base
-and Dharma Base classify the same *avijñapti* distinctly; Vijñāna bears
-a *prati* relation to it and remains distinct from consciousness and Mind.
-
-### Scope
-
-This verse preserves the competing accounts of seeing without resolving
-them into one theory. The next verse turns to whether one Eye or both
-Eyes see.

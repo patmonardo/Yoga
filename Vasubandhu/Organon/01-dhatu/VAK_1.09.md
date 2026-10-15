@@ -1,4 +1,4 @@
-# VAK_1.09 — The Form Base and Its Support Relations
+# VAK_1.09 — The Form-Base
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -14,183 +14,112 @@
 
 ## 3. Lexical Analysis
 
-| Form | Morphology | Force in this passage |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
-| rūpam | nominative neuter singular | Form |
-| pañca indriyāṇi | numeral + nominative/accusative neuter plural | five faculties |
+| rūpam | nominative neuter singular | form; the form-base |
+| pañcendriyāṇi | pañca + indriyāṇi; nominative neuter plural | five faculties |
 | arthāḥ | nominative masculine plural | meanings |
-| pañca | indeclinable numeral | counts the meanings |
-| avijñaptiḥ | nominative feminine singular | *avijñapti*, a single listed member |
-| eva ca | emphatic and connective particles | and also; includes *avijñapti* |
-| tad-vijñāna-āśrayāḥ | nominative masculine plural compound | supports of the corresponding cognitions |
-| rūpa-prasādāḥ | nominative masculine plural | Form clarities |
-| cakṣus-ādayaḥ | nominative masculine plural | the eye and the remaining faculties |
-
-The first line counts five faculties, five meanings, and one *avijñapti*:
-eleven members of the Form Base. The cognitions supported by the faculties
-belong to the relation stated in the second line, not to this count.
+| pañca | numeral | counts the meanings, not the faculties again |
+| avijñaptiḥ | nominative feminine singular | one member; named, not defined |
+| eva ca | particles | and just that |
+| tadvijñānāśrayāḥ | tad-vijñāna-āśrayāḥ; nominative plural | supports of the corresponding cognition |
+| rūpaprasādāḥ | rūpa-prasādāḥ; nominative plural | clarities of form |
+| cakṣurādayaḥ | cakṣus-ādayaḥ; nominative plural | beginning with the eye |
 
 ## 4. Grammar
 
 ```text
-rūpam (rūpa-skandha)
-    = five faculties
-    + five meanings
-    + avijñapti
+rūpam
+    = pañca indriyāṇi
+    + arthāḥ pañca
+    + avijñaptiḥ eva ca
 
-eye and the remaining faculties
-    = Form clarities
-    = supports of corresponding cognitions
+cakṣur-ādayaḥ
+    = rūpa-prasādāḥ
+    = tad-vijñāna-āśrayāḥ
 ```
 
-The first line enumerates the Form Base. The second predicates two
-determinations of the eye and the remaining faculties: they are clarities
-of Form and supports of the corresponding cognitions. The supported
-cognitions are not additional members of the Form Base.
+The first line enumerates. The second defines the five faculties. They are clarities of form, and supports of the cognition that corresponds. The cognition is not a member of the count.
 
 ## 5. Translation
 
-### Literal Translation
+### Literal
 
-> Form is the five faculties, the five meanings, and *avijñapti* also.
-> The Form clarities, beginning with the eye, are supports of the
-> corresponding cognitions.
+Form is the five faculties, the five meanings, and *avijñapti*. The clarities of form, beginning with the eye, are supports of the corresponding cognition.
 
-### Bhāṣya-informed study translation
+### Bhāṣya-informed
 
-> The Form Base consists of five faculties, the five respective meanings
-> or conditions (*viṣaya*) of those faculties, and *avijñapti*. The
-> meanings are visible form, sound, odor, taste, and the tangible. The
-> faculties beginning with the eye are Form clarities and support the
-> cognitions corresponding to those meanings. *Avijñapti* is included but
-> not defined here; the five meanings are named and remain to be explained.
-
-The Bhāṣya's scriptural citation calls the eye an internal Essence
-(*āyatana*) and a Form clarity dependent on the four Great Elements.
-Here *upādāya* means “depending on,” not appropriation as in 1.08.
+The form-base is the five faculties — eye, ear, nose, tongue, body — the five meanings of those faculties, each its own, and *avijñapti*. The meanings are visible form, sound, odor, taste, and the tangible. The five are clarities of form. In order they support the cognition of visible form, of sound, of odor, of taste, and of the tangible. *Avijñapti* is named, not defined. The five meanings remain to be indicated.
 
 ## 6. Philosophical Translation
 
-This verse specifies the Form Base within the Base system of the Dharma
-System: five faculties, five meanings, and one *avijñapti*. Its second line
-does not enlarge that enumeration. It gives the faculty's support-relation
-to the corresponding cognition. The Bhāṣya's citation also names the eye
-as an internal Essence, marking another determination without adding
-Essence to the eleven Form-Base members.
+Eleven, and no twelfth. Form collects five faculties, five meanings, and *avijñapti*.
 
-The complete Dharma Concept is `<Base, Essence, Principle>`. This verse
-specifies Form Base, names the eye's Essence classification, and states the
-faculty's support-relation to Discriminative Cognition. Read through Kant's
-principles, these determinations disclose the Kośa's explicit systematic
-unity, guided by Vijñāna.
+The faculty is a clarity of form. It is the support of the cognition that corresponds. The eye supports the cognition of the eye. The cognition is supported. It is not counted.
+
+Meaning stays lowercase. The commentary glosses it as condition. Faculty and meaning are the two sides, not two inventories. *Avijñapti* is the eleventh, singular, and not yet defined.
 
 ## 7. Technical Vocabulary
 
-| Sanskrit | Project rendering | Determination |
+| Sanskrit | Rendering | Note |
 |---|---|---|
-| rūpa-skandha | Form Base | Form's Base determination |
-| rūpa-prasāda | Form clarity | the Form-character of the five faculties |
-| indriya | faculty | each of the five supports: eye through body |
-| artha | meaning | one of the five meanings named by the verse |
-| viṣaya | condition | the Bhāṣya's specification of each respective meaning |
-| avijñapti | *avijñapti* | included as one member; not defined here |
-| vijñāna | Cognition (Discriminative Cognition) | the sensory cognition corresponding to a meaning; its defining function is discrimination |
-| āśraya | support | relation of the faculty to its corresponding cognition |
-| āyatana | Essence | named for the eye in the cited scripture |
-| upādāya | depending on | dependence on the four Great Elements in this citation |
+| rūpa | form | the form-base; eleven |
+| skandha | base | the first collection; not the whole |
+| indriya | faculty | the Dhātu-verse word; organ is not this page |
+| artha | meaning | lowercase |
+| viṣaya | condition | the commentary’s gloss of meaning; not a second list |
+| avijñapti | *avijñapti* | named, not defined |
+| rūpa-prasāda | clarity of form | what the five faculties are |
+| vijñāna | cognition | not principle |
+| āśraya | support | of the corresponding cognition; not a twelfth member |
+| āyatana | essence | cited for the eye; not enumerated |
+| upādāya | depending on | the four great elements; not the appropriation of 1.08 |
+| dhātu | principle | not a member of this count |
 
 ## 8. Logical Determination
 
 ```text
-Form Base
+form-base
     = five faculties
     + five meanings
-    + one avijñapti
-    = eleven members
+    + avijñapti
+    = eleven
 
-for each faculty:
-    Form clarity
-    → support of its corresponding cognition
+faculty
+    = clarity of form
+    = support of the corresponding cognition
+    eye → cognition of the eye
+    and so on
 
-eye
-    → named as an internal Essence in the cited scripture
+cognition
+    supported
+    not counted
 
-corresponding cognition
-    ↛ additional Form-Base member
+meaning
+    glossed as condition
+    not a second inventory
 ```
 
 ## 9. Interpretive Note
 
-The hinge is the shift from enumeration to support. The first line defines
-what is included in the Form Base; the second identifies what the faculties
-support. The eye's Essence classification is a cross-classification, not a
-change to the Base count. *Avijñapti* is named here without a definition.
-
-The Kośa explicitly presents *rūpaprasāda* (“Form clarities”) as the
-transition from the sensory manifold returned by the faculties to the
-clarity Saṃjñā presents through Manas, yielding True Meanings. This carries
-the analysis beyond Form Base into Dharma Base. The same *avijñapti* is
-classified in both; Vijñāna bears a *prati* relation to it and governs Manas.
-Vijñāna joins and governs Perception and Conception: their unity is
-Inconceivable as a homogeneous operation, while its Idea is disclosed in
-Vijñāna-skandha.
+The hinge is the count, then the support. The five faculties are indicated. The five meanings are named and left for the next verse. The scripture calls the eye an internal essence, a clarity of form depending on the four great elements. That citation is not this enumeration. The Prakaraṇa agrees: the eye is a clarity of form that supports the cognition of the eye.
 
 ## 10. OWL++ Seed
 
-```turtle
+```ttl
 @prefix vak: <http://127.0.0.1:3000/vak#> .
-@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
-vak:VAK_1_09
-    a vak:Karika ;
-    rdfs:label "VAK 1.09" ;
-    vak:hasSourceLabel "VAkK_1.9" ;
+vak:VAK_1_09 a vak:Karika ;
     vak:hasTopic vak:FormBase ;
     vak:belongsTo vak:Dhatunirdesa .
 
-vak:FormBase
-    vak:hasFaculty vak:EyeFaculty, vak:EarFaculty, vak:NoseFaculty,
-        vak:TongueFaculty, vak:BodyFaculty ;
-    vak:hasMeaning vak:VisibleForm, vak:Sound, vak:Odor, vak:Taste,
-        vak:Tangible ;
-    vak:hasMember vak:Avijnapti ;
-    vak:memberCount 11 ;
-    vak:isSubsystemOf vak:DharmaSystem .
+vak:FormBase vak:hasMember vak:FiveFaculties, vak:FiveMeanings, vak:Avijnapti ;
+    vak:count 11 ;
+    vak:includesCognition false .
 
-vak:Faculty rdfs:subClassOf vak:RupaPrasada .
+vak:Eye vak:is vak:ClarityOfForm ;
+    vak:supports vak:EyeCognition .
 
-vak:EyeFaculty
-    a vak:Faculty ;
-    vak:supports vak:EyeCognition ;
-    vak:hasEssenceClassification vak:InternalEssence ;
-    vak:dependsOn vak:FourGreatElements .
-
-vak:EarFaculty vak:supports vak:EarCognition .
-vak:NoseFaculty vak:supports vak:NoseCognition .
-vak:TongueFaculty vak:supports vak:TongueCognition .
-vak:BodyFaculty vak:supports vak:BodyCognition .
-
-vak:EyeCognition a vak:DiscriminativeCognition ;
-    vak:hasMeaning vak:VisibleForm .
-vak:EarCognition a vak:DiscriminativeCognition ;
-    vak:hasMeaning vak:Sound .
-vak:NoseCognition a vak:DiscriminativeCognition ;
-    vak:hasMeaning vak:Odor .
-vak:TongueCognition a vak:DiscriminativeCognition ;
-    vak:hasMeaning vak:Taste .
-vak:BodyCognition a vak:DiscriminativeCognition ;
-    vak:hasMeaning vak:Tangible .
-
-vak:Vijnana rdfs:label "vijñāna" ;
-    vak:rendersAs vak:DiscriminativeCognition .
-vak:Dhatu rdfs:label "dhātu" ;
-    vak:rendersAs vak:Principle .
-
-vak:TechneReading_1_09
-    a vak:OrganonInterpretation ;
-    vak:interprets vak:RupaPrasada ;
-    vak:transitionsFrom vak:FormBase ;
-    vak:transitionsTo vak:DharmaBase ;
-    vak:clarityPresentedBy vak:Samjna ;
-    vak:mediatedBy vak:Manas .
+vak:Avijnapti vak:defined false .
+vak:Meaning vak:glossedAs vak:Condition .
 ```

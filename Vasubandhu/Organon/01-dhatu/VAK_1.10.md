@@ -1,4 +1,4 @@
-# VAK_1.10 — Counts Within the Five Meanings
+# VAK_1.10 — Counts Within the Meanings
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -14,122 +14,100 @@
 
 ## 3. Lexical Analysis
 
-```text
-rūpam | dvidhā | viṃśati-dhā | śabdaḥ | tu | aṣṭa-vidhaḥ | rasaḥ |
-ṣoḍhā | catur-vidhaḥ | gandhaḥ | spṛśyam | ekādaśa-ātmakam
-```
-
-| Form | Morphology | Force in this passage |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
-| rūpam | nominative neuter singular | visible Form, one of the five meanings |
+| rūpam | nominative neuter singular | visible form; one meaning, not the form-base |
 | dvidhā | adverb | twofold |
-| viṃśatidhā | adverb | twentyfold |
-| śabdaḥ | nominative masculine singular | sound |
-| tu | particle | contrastive transition |
-| aṣṭavidhaḥ | nominative masculine singular | eightfold; agrees with sound |
-| rasaḥ | nominative masculine singular | taste |
-| ṣoḍhā | adverb | sixfold |
-| gandhaḥ | nominative masculine singular | odor |
-| caturvidhaḥ | nominative masculine singular | fourfold; agrees with odor |
-| spṛśyam | nominative neuter singular | the tangible |
-| ekādaśātmakam | nominative neuter singular compound | having eleven as its nature |
+| viṃśatidhā | adverb | twentyfold; the same, counted |
+| śabdaḥ | nominative masculine | sound |
+| tu | particle | turns to the next |
+| aṣṭavidhaḥ | nominative masculine | eightfold |
+| rasaḥ | nominative masculine | taste |
+| ṣoḍhā | adverb | sixfold; construes with taste |
+| gandhaḥ | nominative masculine | odor |
+| caturvidhaḥ | nominative masculine | fourfold; construes with odor |
+| spṛśyam | nominative neuter | the tangible |
+| ekādaśātmakam | bahuvrīhi; nominative neuter | having eleven as its nature |
 
-Here *rūpa* means visible Form, one meaning named in 1.09, not the Form
-Base (*rūpa-skandha*). The verse counts within the five meanings.
+*Rūpa* here is one of the five meanings. Not the form-base of 1.09.
 
 ## 4. Grammar
 
 ```text
-visible Form     twofold and twentyfold
-sound            eightfold
-taste            sixfold
-odor             fourfold
-tangible         eleven in nature
+rūpam        dvidhā, and viṃśatidhā
+śabdaḥ       aṣṭavidhaḥ
+rasaḥ        ṣoḍhā
+gandhaḥ      caturvidhaḥ
+spṛśyam      ekādaśātmakam
 ```
 
-The twentyfold count further enumerates the same visible-Form meaning; it
-does not add another meaning or Form Base. The Bhāṣya explains the relation
-between the twofold and twentyfold descriptions.
+Five counts. The twentyfold is the same visible form, not a second meaning and not a second base.
 
 ## 5. Translation
 
-### Literal Translation
+### Literal
 
-> Visible Form is twofold and twentyfold. Sound, however, is eightfold.
-> Taste is sixfold. Odor is fourfold. The tangible has eleven as its nature.
+Visible form is twofold and twentyfold. Sound, however, is eightfold. Taste is sixfold. Odor is fourfold. The tangible has eleven as its nature.
 
-### Bhāṣya-informed study translation
+### Bhāṣya-informed
 
-> Visible Form is twofold as color and configuration, and that same meaning
-> is enumerated as twentyfold. Sound is eightfold. Taste is sixfold. Odor
-> is fourfold. The tangible has eleven as its nature: the four Great
-> Elements and seven further tangibles.
-
-The verse gives the counts. The Bhāṣya goes on to examine whether sensory
-Principles arise from one or many substances and how their Conditions
-retain particular character.
+Visible form is twofold, color and configuration, and the same is counted as twenty. Sound is eightfold. Taste is sixfold. Odor is fourfold. The tangible has eleven as its nature: the four great elements, and seven further. The counts are the verse. How a cognition takes one or many is the prose.
 
 ## 6. Philosophical Translation
 
-Verse 1.09 named five meanings within the Form Base; 1.10 determines the
-counts within those meanings. Visible Form remains one meaning under two
-determinations—color and configuration—and the twentyfold enumeration
-further specifies it. These numbers do not form a second Base.
+1.09 named five meanings. This verse counts inside them.
 
-This is the meaning-side of the Form Base, not the whole Dharma System.
-The Kārikā does not name Essence (*āyatana*) or Principle (*dhātu*). The
-Bhāṣya calls visible Form *rūpāyatana*, bringing in its Essence
-determination, and later discusses the Conditions for the sensory
-Principles. These relations enrich the analysis without changing the
-Kārikā's count.
+Visible form is not the form-base. It is one meaning, twofold as color and configuration. Both sides stay. The twenty are that same meaning enumerated: four colors, eight configurations, and eight further — cloud, smoke, dust, mist, shadow, sunlight, light, darkness. Some add a single-colored sky and make twenty-one. The verse does not.
+
+Sound is four by cause and by sentient designation, then eight by agreeable and disagreeable. Taste is six. Odor is four; the treatise says three. The tangible is eleven. Hunger and thirst are absent in the form-realm. The rest are there.
+
+*Vid* in the prose is the sense of knowing, not the sense of existence. One substance known both as color and as configuration is not two substances. That sentence is not written into the count.
+
+The five meanings are explained, and how they are taken. *Avijñapti* is next. Not this verse.
 
 ## 7. Technical Vocabulary
 
-| Sanskrit | Project rendering | Determination |
+| Sanskrit | Rendering | Note |
 |---|---|---|
-| rūpa | visible Form | one of the five meanings, not the Form Base |
-| dvidhā | twofold | color and configuration |
-| viṃśatidhā | twentyfold | enumeration of that same visible-Form meaning |
-| varṇa | color | the four color determinations given in the Bhāṣya |
-| saṃsthāna | configuration | the eight configurations given in the Bhāṣya |
-| śabda | sound | eightfold in the verse |
+| rūpa | visible form | one meaning; not the form-base |
+| varṇa | color | blue, yellow, red, white |
+| saṃsthāna | configuration | long through uneven; eight |
+| viṃśatidhā | twentyfold | the same meaning, counted; not twenty-one |
+| śabda | sound | eightfold |
 | rasa | taste | sixfold |
-| gandha | odor | fourfold in the verse; the treatise gives three |
-| spṛśya | tangible | eleven in nature |
-| viṣaya | Condition | the Bhāṣya's term for the sensory determinations |
-| ālambana | object | term used in the Bhāṣya's objection about one or many |
-| vid | know / be known | in the Bhāṣya, knowing rather than existence |
-| vijñāna | Principle | the sensory Principle discussed in the prose |
-| āyatana | Essence | named in the Bhāṣya as *rūpāyatana* |
-| dhātu | Principle | not named in the Kārikā |
+| gandha | odor | fourfold; the treatise says three |
+| spṛśya | tangible | eleven as its nature |
+| mahābhūta | great element | four of the eleven; defined later |
+| vid | knowing | not existence; the prose |
+| āyatana | essence | the field of the count; not a new list |
+| vijñāna | cognition | what takes one or many; not a member |
+| rūpadhātu | form-realm | where hunger and thirst are absent |
 
 ## 8. Logical Determination
 
 ```text
-1.09  five meanings named within the Form Base
-1.10  counts determined within those meanings
+1.09  five meanings named
+1.10  each counted
 
-visible Form
-    = color + configuration
-    = twofold
-    → enumerated as twentyfold
+visible form
+    color : configuration
+    twenty of the same
+    not twenty-one
 
-sound      eight
-taste      six
-odor       four in the verse; three in the treatise
-tangible   eleven in nature
+sound      4 × agreeable / disagreeable = 8
+taste      6
+odor       4 in the verse; 3 in the treatise
+tangible   4 elements + 7 = 11
 
-counts within meanings
-    ↛ a second Form Base
+counts are not a second base
+vid = knowing, not existence
+cognition takes one or many
+avijñapti not opened
 ```
 
 ## 9. Interpretive Note
 
-The hinge is the Bhāṣya's distinction between being and being known:
-one substance may be known under both color and configuration without
-becoming two substances. A Kantian-transcendental framing asks what makes
-that one appearance determinable in both ways. This is a project-level
-comparison, not a claim that Vasubandhu is using Kant's framework.
+The hinge is *dvidhā*, then *viṃśatidhā*. Color and configuration stay one meaning. The twenty do not found a second base. The sky is not in the verse. *Vid* is knowing. The cognition arises from one substance or from many. That is not a second system.
 
 ## 10. OWL++ Seed
 
@@ -140,13 +118,15 @@ vak:VAK_1_10 a vak:Karika ;
     vak:hasTopic vak:CountsWithinMeanings ;
     vak:belongsTo vak:Dhatunirdesa .
 
-vak:VisibleFormMeaning
-    vak:hasDetermination vak:Color, vak:Configuration ;
-    vak:hasEnumerationCount 20 .
+vak:VisibleForm vak:twofold vak:Color, vak:Configuration ;
+    vak:count 20 ;
+    vak:notCount 21 .
 
-vak:Sound vak:hasEnumerationCount 8 .
-vak:Taste vak:hasEnumerationCount 6 .
-vak:Odor vak:hasVerseCount 4 ;
-    vak:hasTreatiseCount 3 .
-vak:Tangible vak:hasNatureCount 11 .
+vak:Sound vak:count 8 .
+vak:Taste vak:count 6 .
+vak:Odor vak:count 4 .
+vak:Tangible vak:count 11 .
+
+vak:Vid vak:sense vak:Knowing ;
+    vak:not vak:Existence .
 ```

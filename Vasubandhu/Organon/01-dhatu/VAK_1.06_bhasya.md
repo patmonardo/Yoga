@@ -1,4 +1,4 @@
-# VAK_1.06 Bhāṣya — Disjunction and the Obstruction of Arising
+# VAK_1.06 Bhāṣya — The Two Cessations
 
 ## 1. Kārikā Anchor
 
@@ -6,13 +6,10 @@
 >
 > utpādātyantavighno 'nyo nirodho 'pratisaṃkhyayā // 1.06 //
 
-### Bhāṣya-informed study translation
+> Cessation through discrimination is disjunction, separately and separately. The other cessation, not through discrimination, is the absolute obstruction of arising.
 
-> Cessation through discrimination is disjunction from Impure dharmas, separately for each conjunction. Discrimination here is a particular prajñā directed to the Noble Truths, beginning with suffering. The other cessation is not attained by that prajñā. It is the absolute obstruction of a future arising, got by deficiency of conditions.
+Span: Pradhan `[003|24]`–`[004|22]`. The next question opens 1.07.
 
-### Anchor note
-
-Span: Pradhan `[003|24]`–`[004|22]`. Next question at `[004|23]` opens 1.07.
 ## 2. Continuous Sanskrit Witness
 
 > pratisaṃkhyānirodho yo visaṃyogaḥ /
@@ -49,110 +46,68 @@ Span: Pradhan `[003|24]`–`[004|22]`. Next question at `[004|23]` opens 1.07.
 > tadyathātītapratyutpanna-utpattidharmāṇām anāsravāṇām iti /
 > uktaṃ trividham asaṃskṛtam /
 
-Local sensory line `na hi te satyā atītaṃ viṣayamālambayi tulmiti` is read as `na hi te saty atītaṃ viṣayam ālambayitum`. Not checked against the printed editions.
+The sensory line is read as *na hi te saty atītaṃ viṣayam ālambayitum*. Not checked against the printed editions.
 
 ## 3. Continuous Conventional Translation
 
-**Definition**
+Disjunction from impure dharmas is cessation through discrimination. Discrimination is the consideration of the Noble Truths, beginning with suffering. It is a particular prajñā. The cessation attained by it is cessation through discrimination. The expression drops the middle member, as in ox-cart.
 
-Disjunction from Impure dharmas is cessation through discrimination. Discrimination is the consideration of the Noble Truths, beginning with suffering. It is a particular prajñā. The cessation attained by it is cessation through discrimination. The expression drops the middle member, as in “ox-cart.”
-
-**Objection**
-
-Is there, then, just one such cessation for all Impure dharmas?
-
-**Answer**
+Is there, then, just one such cessation for all impure dharmas?
 
 No. What then? Separately, in each case. There are as many disjunctions as there are conjunctions. Otherwise, realizing the cessation of the afflictions abandoned by seeing suffering would entail realizing the cessation of all afflictions. And then cultivation of the remaining counteragents would be pointless.
 
-**Aside**
-
 What, then, does “cessation is without a homogeneous cause” mean? It means cessation has no homogeneous cause, and is the homogeneous cause of nothing. It does not mean cessation has no homogeneous counterpart. Cessation through discrimination has been explained.
-
-**The other cessation**
 
 The cessation other than disjunction, an absolute obstruction to the arising of future dharmas, is cessation not through discrimination. It is not attained by discrimination. How, then? By deficiency of conditions.
 
-When the eye and the mind are occupied with one form, other forms, sounds, odors, tastes, and tangibles pass by. The five groups of consciousness that would have taken them cannot arise afterward. They cannot take a past object. So this cessation is obtained for them by deficiency of conditions.
+When the eye and the mind are occupied with one form, other forms, sounds, odors, tastes, and tangibles pass by. The five groups of cognition that would have taken them cannot arise afterward. They cannot take what has passed. So this cessation is obtained for them by deficiency of conditions.
 
-**Four corners**
+There are dharmas for which cessation through discrimination alone is obtained: past, present, and future impure dharmas capable of arising.
 
-There are dharmas for which cessation through discrimination alone is obtained: past, present, and future Impure dharmas capable of arising.
+There are dharmas for which cessation not through discrimination alone is obtained: future pure conditioned dharmas incapable of arising.
 
-There are dharmas for which cessation not through discrimination alone is obtained: future Pure conditioned dharmas incapable of arising.
+There are dharmas for which both are obtained: impure dharmas incapable of arising.
 
-There are dharmas for which both are obtained: Impure dharmas incapable of arising.
-
-There are dharmas for which neither is obtained: past, present, and future Pure dharmas capable of arising.
+There are dharmas for which neither is obtained: past, present, and future pure dharmas capable of arising.
 
 The threefold unconditioned has been explained.
 
-## 4. Movement
+## 4. Movement of the Commentary
 
 ```text
-pratisaṃkhyā-nirodha
-    → disjunction from Impure dharmas
-    → a particular prajñā of the Noble Truths
-    → one disjunction per conjunction
+cessation through discrimination
+    -> disjunction from impure dharmas
+    -> a particular prajñā of the Noble Truths
+    -> one disjunction per conjunction
+    -> otherwise the rest of the Path is useless
 
-apratisaṃkhyā-nirodha
-    → absolute obstruction of a future arising
-    → deficiency of conditions
-    → what has passed cannot be taken
+the aside
+    -> no homogeneous cause, and cause of none
+    -> not: no homogeneous counterpart
 
-both
-    → four corners
+the other cessation
+    -> absolute obstruction of a future arising
+    -> deficiency of conditions
+    -> what has passed cannot be taken
+
+four corners
+    -> first only, second only, both, neither
 ```
 
-## 5. Decisions for the Kārikā
+## 5. Organon Reading
 
-1. `Pratisaṃkhyā` is a particular prajñā of the Noble Truths, not discrimination in a vague sense.
-2. `Visaṃyoga` is disjunction from Impure dharmas.
-3. `Pṛthak pṛthak` is as many disjunctions as conjunctions.
+Marked. Not the conventional line.
+
+The first cessation is disjunction by discrimination, one conjunction at a time. The second is non-arising when conditions fail. A samādhi read as deep sleep is the second, not the first.
+
+## 6. Decisions for the Kārikā
+
+1. *Pratisaṃkhyā* is discrimination: a particular prajñā of the Noble Truths.
+2. *Visaṃyoga* is disjunction from impure dharmas.
+3. *Pṛthak pṛthak* is as many disjunctions as conjunctions.
 4. The other cessation is absolute obstruction of arising, by deficiency of conditions.
-
-## 6. Interpretation
-
-The Bhāṣya sets a precise relation between the larger *prajñā* and this
-particular act: *pratisaṃkhyā* is a specific *prajñā* considering the Noble
-Truths, and cessation through it is disjunction from Impure dharmas.
-Disjunction is separately attained for each conjunction. The argument
-about the remaining counteragents explains why the plurality matters to
-practice.
-
-The other cessation is obtained through deficiency of conditions. Its
-sensory example concerns cognitions that cannot arise once their conditions
-have passed. The four-corner classification tests the two definitions
-across Impure and Pure conditioned dharmas, including cases where both or
-neither cessation is obtained.
-
-Our Yoga Vidyā reads repeated attention to this distinction as a discipline
-of *dhāraṇā* and *dhyāna*. In that sense the opening kārikās can become a
-field of Samyama for the practitioner. The passage itself establishes the
-specific discriminative means of the first cessation and the missing
-conditions of the second; it does not equate meditative stillness with
-either cessation.
-
-In the Techne, *nirodha* is **Sublation**: the determination that sustained
-an Impure conjunction founders upon its ground as the contradiction is
-resolved. The first cessation gives this thought its precise practical
-form: a particular *prajñā* attains disjunction separately for each
-conjunction. The second shows another ground for cessation, the absence
-of conditions for a future arising. Calling both Sublation does not erase
-their difference or make condition-deficiency into insight.
-
-This closes the opening definition of Abhidharma in our systematic reading.
-The Bhāṣya has moved from the Teacher and the need for instruction, through
-the first comprehensive division, to the exact modes of the unconditioned.
-What follows can unfold the divisions of the conditioned dharmas beneath
-the Concept. Kant's introductory discussion of the perfection of cognition
-and the Logic's subsequent treatment of concepts, definition, and division
-offer two distinct methodological moments for our Techne. The source's own
-questions and answers govern the Kośa sequence.
+5. The four corners are the commentary. They are not the verse.
 
 ## 7. Review Status
 
-The two definitions, the plurality of disjunctions, the sensory example,
-and the four-corner classification remain visible. The Techne reading is
-marked separately. The local sensory-line repair remains uncollated against
-printed editions; this study is provisional.
+The verse and the commentary use the same literal. Discrimination is the word. The two cessations stay two. 1.07 is not opened.

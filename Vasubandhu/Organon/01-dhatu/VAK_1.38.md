@@ -1,4 +1,4 @@
-# VAK_1.38 — The First Pure Moment, Acquisition, and Possession
+# VAK_1.38 — Three Ways, One Dravya, Three Moments
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -14,242 +14,124 @@
 
 ## 3. Lexical Analysis
 
-```text
-tridhānye                 → tridhā anye
-dravyavān ekaḥ            → dravyavān ekaḥ
-paścimās trayaḥ           → paścimāḥ trayaḥ
-cakṣurvijñānadhātvoḥ      → cakṣur-dhātu-vijñāna-dhātvoḥ
-pṛthag lābhaḥ             → pṛthak lābhaḥ
-sahāpi ca                 → saha api ca
-```
-
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
-| tridhā | adverb | in all three causal classes |
-| anye | nominative masculine plural | the remaining four Form-bearing Principles |
-| dravyavān | nominative masculine singular adjective | bearing `dravya` in the sense specified by the Bhāṣya |
-| ekaḥ | nominative masculine singular | one Principle alone, the Dharma Principle |
-| kṣaṇikāḥ | nominative masculine plural adjective | possessing the exceptional single-moment occurrence specified by the Bhāṣya |
-| paścimāḥ trayaḥ | nominative masculine plural | the final three in the eighteen-Principle sequence |
-| cakṣur-dhātu | dual compound member | Eye-Faculty Principle |
-| vijñāna-dhātu | dual compound member | Eye-Cognition Principle, understood from context |
-| syāt | third-person singular optative | may occur, may be possible |
-| pṛthak | adverb | separately |
-| lābhaḥ | nominative masculine singular | acquisition, coming into possession |
-| saha | adverb | together, jointly |
+| tridhā anye | nominative | the others, in three ways |
+| dravyavān ekaḥ | nominative | one is dravya-bearing |
+| kṣaṇikāḥ paścimāḥ trayaḥ | nominative | the last three are momentary |
+| cakṣur-vijñāna-dhātvoḥ | genitive dual | of the eye-principle and the eye-cognition principle |
+| pṛthak lābhaḥ | nominative | acquisition separately |
+| saha api ca | particles | and also together |
 
-The long dual compound is understood through the Bhāṣya as
-`cakṣurdhātu` and `cakṣurvijñānadhātu`: the Eye-Faculty Principle and the
-Eye-Cognition Principle.
+The others are visible, taste, smell, and tangible. The one is the dharma-principle. The last three are the mind-principle, the dharma-principle, and the mind-cognition principle.
 
 ## 4. Grammar
 
-`Tridhā anye` completes the causal classification begun in VAK 1.37. The
-Bhāṣya fixes `anye` precisely as the four remaining Form-bearing
-Principles:
-
 ```text
-visible Form
-smell
-taste
-tangible Form
+anye catvāraḥ
+    = vipākaja
+    = aupacayika
+    = naiḥṣyandika
+
+ekaḥ
+    = dharma-principle
+    = dravyavān
+    because the unconditioned is in it
+
+paścimās trayaḥ
+    one moment without homogeneous continuation
+    in the first Pure complex
+
+lābhaḥ
+    separate
+    or together
+    and the same for visible
 ```
 
-Each admits maturation-born, upacaya-reinforced, and continuity-born
-instances. Sound is not included because 1.37 excluded it from
-maturation-born status.
-
-`Dravyavān ekaḥ` refers to the Dharma Principle alone. The Bhāṣya's
-reason is limited and exact:
-
-```text
-the Unconditioned is classed as substance because of its essential core
-the Unconditioned is included in the Dharma Principle
-therefore the Dharma Principle alone bears substance-status
-```
-
-This does not make every Dharma in the Dharma Principle substance, or
-turn the entire Principle into one substance.
-
-The phrase `kṣaṇikāḥ paścimās trayaḥ` receives a specialized Bhāṣya
-explanation. The Mind, Dharma, and Mind-Cognition Principles occur
-in the first pure receptivity to Dharma-knowledge concerning suffering
-for a single moment without a preceding homogeneous pure cause. The
-phrase does not claim that only these three Principles have momentary
-instances.
-
-The final line permits separate and joint acquisition of the
-Eye-Faculty Principle and the Eye-Cognition Principle. `Lābha`,
-acquisition, must be distinguished from possession (`samanvāgama`) and
-present manifestation (`saṃmukhīkaraṇa`).
+Three claims, then a fourth about acquisition.
 
 ## 5. Translation
 
 ### Literal Translation
 
-> The remaining [four Principles] are threefold. One [the Dharma Principle] bears substance. The last three [Principles] are momentary. The Eye-Faculty and Eye-Cognition Principles may be acquired separately and also together.
+The others are of three kinds. One is dravya-bearing. The last three are momentary. Of the eye-principle and the cognition-principle there may be separate acquisition, and also together.
 
 ### Bhāṣya-informed study translation
 
-> Visible Form, smell, taste, and tangible Form admit maturation-born, upacaya-reinforced, and continuity-born instances. The Dharma Principle alone bears substance-status, because it includes the Unconditioned. The Mind, Dharma, and Mind-Cognition Principles are called momentary for the first pure receptivity to Dharma-knowledge concerning suffering, without a preceding homogeneous pure cause. The Eye-Faculty and Eye-Cognition Principles may be acquired separately or jointly.
+The others, the remaining four, visible, taste, smell, and tangible, are of three kinds: maturation-born, accumulative, and of homogeneous continuation. The unconditioned is dravya because it is the core. That is in the dharma-principle. Therefore the dharma-principle alone is dravya-bearing.
 
-The second rendering exposes the special senses of `dravyavān` and
-`kṣaṇika` that the compressed Kārikā cannot supply on its own.
+The last three, in the order of recitation, are the mind-principle, the dharma-principle, and the mind-cognition principle. In the first Pure complex, the receptivity to dharma-knowledge concerning suffering, they are without homogeneous continuation for one moment. Therefore they are called momentary. No other conditioned dharma lacks homogeneous continuation. The citta associated with that receptivity is the mind-principle and the mind-cognition principle. The rest arising with it are the dharma-principle.
+
+Acquisition of the eye-principle and of the eye-cognition principle may be separate, and also together. The eye without the cognition: gradually acquiring the eye in the desire realm, or falling from the formless and being born in the second or a higher dhyāna. The cognition without the eye: born in the second or a higher dhyāna and bringing the eye-cognition to presence, or falling from there and being born below. Both: falling from the formless and being born in the desire realm or the Brahmā world. Neither: the other cases.
+
+Possession is fourfold in the same way. The particle also includes the same working for the eye-principle and visible, and for the eye-cognition principle and visible.
 
 ## 6. Philosophical Translation
 
-> The system distinguishes causal classes, the Unconditioned, a first pure cognitive occurrence, and acquisition of capacity. That first occurrence is conditioned and momentary, yet has no preceding homogeneous pure cause. Faculty and cognition are coordinated without being identical: either Principle may be newly acquired without the other, or both may be acquired together.
+Four principles remain after the verse that named the causal kinds. Those four take all three: maturation, accumulation, homogeneous continuation. The one that bears dravya is not one of them. It is the dharma-principle, because the unconditioned is in it, and the commentary calls the unconditioned dravya because it is the core. That claim is the commentary's. It does not make any of the eighteen a substance.
 
-Techne reading:
+The last three are momentary in one place only. The first Pure complex, the receptivity to dharma-knowledge of suffering, has one moment without homogeneous continuation. The citta of that moment is mind-principle and mind-cognition principle. What arises with it is the dharma-principle. Outside that moment, no conditioned dharma lacks the continuation.
 
-> The first pure cognitive occurrence is conditioned and momentary, yet has no preceding homogeneous pure cause. The Principle Processor also distinguishes a Faculty's capacity, its acquisition, its possession, and its present manifestation.
+Acquisition of the eye and of the eye-cognition is not one event. Separate, together, or neither. Possession repeats the four. The particle extends the same cut to visible.
 
 ## 7. Technical Vocabulary
 
-| Sanskrit | Project rendering | Determination |
+| Sanskrit | Rendering | Note |
 |---|---|---|
-| tridhā | in three causal classes | maturation-born, upacaya-reinforced, or continuity-born |
-| dravyavān / dravyayukta | substance-bearing | applies to the Dharma Principle because it includes the Unconditioned |
-| dravya | `dravya` status | ascribed here to the Unconditioned on account of its `sāra` |
-| sāra | core / essential character | reason given for the Unconditioned's `dravya` status |
-| kṣaṇika | momentary | here, lacking homogeneous continuation for the single initial pure moment |
-| prathamānāsrava | first pure occurrence | opening moment of the new cognitive lineage |
-| duḥkhe dharmajñānakṣānti | receptivity to Dharma-knowledge concerning suffering | first pure cognitive complex |
-| anaiḥṣyandika | not continuity-born | lacking a preceding homogeneous cause of the same kind |
-| lābha / pratilambha | acquisition | coming newly into possession of a Principle |
-| samanvāgama | possession / endowment | possessing a Principle, distinct from acquiring it now |
-| saṃmukhīkaraṇa | bringing into manifestation | present exercise of a possessed cognitive capacity |
-| catuṣkoṭika | four-cornered analysis | maps Eye-Faculty and Eye-Cognition as first only, second only, both, or neither |
+| anye | the others | visible, taste, smell, tangible |
+| vipākaja | maturation-born | one of the three |
+| aupacayika | accumulative | one of the three |
+| naiḥṣyandika | homogeneous continuation | not an outflow |
+| dravyavān | dravya-bearing | the dharma-principle alone |
+| sāra | core | the commentary's reason; not a substance |
+| kṣaṇika | momentary | one moment in the first Pure complex |
+| anāsrava | Pure | the first complex |
+| cakṣur-dhātu | eye-principle | not an organ-word here |
+| cakṣur-vijñāna-dhātu | eye-cognition principle | acquisition may split from the eye |
+| lābha | acquisition | separate or together |
+| samanvāgama | possession | four cases |
 
 ## 8. Logical Determination
 
-The remaining four Form-bearing Principles admit all three causal classes:
-
 ```text
-x ∈ {VisibleFormPrinciple, SmellPrinciple, TastePrinciple, TangiblePrinciple}
-    → MayHaveGenesis(x, Vipakaja)
-    ∨ MayHaveGenesis(x, Aupacayika)
-    ∨ MayHaveGenesis(x, Naisyandika)
-```
+four
+    three causal kinds
 
-The `dravya` inference is scoped:
+dharma-principle
+    alone dravya-bearing
+    the unconditioned is in it
 
-```text
-Unconditioned(x)
-    → Dravya(x)
+last three
+    momentary
+    one moment, first Pure complex
+    no other conditioned dharma lacks the continuation
 
-Includes(DharmaPrinciple, Unconditioned)
-    → SubstanceBearing(DharmaPrinciple)
+eye : eye-cognition
+    acquisition separate
+    acquisition together
+    neither
+    possession fourfold
 
-SubstanceBearing(DharmaPrinciple)
-    ↛ EveryDharmaIn(DharmaPrinciple, Substance)
-```
+api
+    the same for visible
 
-The first pure moment is:
-
-```text
-FirstPureMoment(x)
-    → Conditioned(x)
-    ∧ Momentary(x)
-    ∧ ¬GeneratedByPriorHomogeneousPureCause(x)
-```
-
-Its Principle distribution is:
-
-```text
-CittaOf(DharmaKnowledgeReceptivity)
-    → MindPrinciple
-    ∧ MindCognitionPrinciple
-
-CoarisenDharmas
-    → DharmaPrinciple
-```
-
-Eye-Faculty and Eye-Cognition admit a fourfold acquisition relation:
-
-```text
-Acquire(EyeFaculty) ∧ ¬Acquire(EyeCognition)
-
-¬Acquire(EyeFaculty) ∧ Acquire(EyeCognition)
-
-Acquire(EyeFaculty) ∧ Acquire(EyeCognition)
-
-¬Acquire(EyeFaculty) ∧ ¬Acquire(EyeCognition)
-```
-
-The required distinctions are:
-
-```text
-Capacity
-    ≠ AcquisitionOfCapacity
-    ≠ PossessionOfCapacity
-    ≠ ManifestOperationOfCapacity
+1.39 not opened
 ```
 
 ## 9. Interpretive Note
 
-VAK 1.38 completes the causal classification and then distinguishes three
-further determinations: the Dharma Principle's inclusion of the
-Unconditioned, the single moment without a preceding homogeneous pure cause,
-and separate or joint acquisition of the Eye-Faculty and Eye-Cognition
-Principles. Substance-bearing status belongs to the Dharma Principle by
-virtue of its inclusion of the Unconditioned; it does not make every Dharma
-within it a substance.
-
-The first pure cognitive occurrence remains conditioned. Its one-moment
-exception concerns the absence of a prior homogeneous pure cause, not the
-absence of all conditions. The citta associated with receptivity to
-Dharma-knowledge is assigned to the Mind and Mind-Cognition Principles;
-the co-arisen Dharmas belong to the Dharma Principle. The two fourfold
-analyses keep acquisition, possession, and present manifestation distinct.
-
-The Kośa explicitly presents Vijñāna as Discriminative Cognition joining
-and governing Perception and Conception. Their unity is Inconceivable as
-a homogeneous operation; its Idea is disclosed in the Cognition Base.
-Vijñāna governs Manas and guides Dharma Base. Form Base and Dharma Base
-classify the same *avijñapti* distinctly, and Vijñāna bears a *prati*
-relation to it. Vijñāna remains distinct from consciousness (*citta*) and
-Mind (*manas*).
+The hinge is the one moment. Momentary does not mean every dharma lasts a moment. It means these three, once, lack homogeneous continuation. Dravya stays the commentary's word for the unconditioned in the dharma-principle. It is not a substance of the eighteen.
 
 ## 10. OWL++ Seed
 
 ```ttl
 @prefix vak: <http://127.0.0.1:3000/vak#> .
-@prefix organon: <http://127.0.0.1:3000/organon#> .
-@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
-vak:VAK_1_38
-    a vak:Karika ;
-    rdfs:label "VAK 1.38" ;
-    vak:hasTopic vak:GenesisNoveltyAndAcquisition ;
+vak:VAK_1_38 a vak:Karika ;
+    vak:hasTopic vak:ThreeWaysOneDravya ;
     vak:belongsTo vak:Dhatunirdesa .
 
-vak:DharmaPrinciple
-    vak:contains vak:Unconditioned ;
-    vak:hasStatus vak:DravyavanPrinciple .
-
-vak:FirstPureMoment
-    a vak:ConditionedCognitiveEvent,
-        vak:MomentaryEvent ;
-    vak:lacksCause vak:PriorHomogeneousPureCause ;
-    vak:instantiates vak:MindPrinciple,
-        vak:DharmaPrinciple,
-        vak:MindCognitionPrinciple .
-
-vak:EyeFacultyPrinciple
-    a vak:Capacity .
-
-vak:EyeCognitionPrinciple
-    a vak:CognitivePrinciple .
-
-vak:Acquisition
-    vak:distinctFrom vak:Possession,
-        vak:Manifestation .
-
-organon:PrincipleAcquisitionModel
-    a vak:HighLevelScientificModel ;
-    organon:distinguishes vak:Capacity,
-        vak:Acquisition,
-        vak:Possession,
-        vak:Manifestation .
+vak:DharmaPrinciple vak:dravyaBearing true .
+vak:LastThree vak:momentaryIn vak:FirstPureComplex .
+vak:EyePrinciple vak:acquisitionIndependentOf vak:EyeCognitionPrinciple .
 ```

@@ -1,4 +1,4 @@
-# VAK_1.46 — Plane Relations of Body, Eye, Form, and Cognition
+# VAK_1.46 — Not Lower, Not Higher
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -14,163 +14,103 @@
 
 ## 3. Lexical Analysis
 
-```text
-kāyasyādharam     → kāyasya adharam
-cakṣur ūrdhvam    → cakṣuḥ ūrdhvam
-vijñānaṃ cāsya    → vijñānam ca asya
-kāyasyobhe        → kāyasya ubhe
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
-| na | negative particle | not |
-| kāyasya | genitive masculine singular | relative to the Body |
-| adharam | nominative neuter singular adjective | on a lower plane |
-| cakṣuḥ | nominative neuter singular | the Eye Faculty |
-| ūrdhvam | nominative neuter singular adjective | on a higher plane |
-| rūpam | nominative neuter singular | visible Form |
-| na cakṣuṣaḥ | negative particle and genitive singular | not higher than the Eye |
-| vijñānam | nominative neuter singular | Cognition; here, Eye-Cognition |
-| ca | conjunction | and; carries forward the restriction |
-| asya | genitive neuter singular pronoun | relative to that Cognition |
-| tu | contrastive particle | but; introduces the broader comparisons |
-| ubhe | nominative neuter dual | both visible Form and Cognition |
-| sarvataḥ | indeclinable adverb | in all three relations: higher, lower, or same plane |
+| na kāyasya adharam | negative, genitive | not lower than the body |
+| cakṣuḥ | nominative | the eye |
+| ūrdhvam rūpam na cakṣuṣaḥ | negative | a visible is not higher than the eye |
+| vijñānam ca | nominative | cognition too |
+| asya rūpam tu | genitive | relative to this, a visible |
+| kāyasya ubhe ca | genitive, dual | and relative to the body, both |
+| sarvataḥ | adverb | in every way: higher, lower, or the same |
 
-The verse omits repeated comparison terms. The commentary supplies them
-and resolves the pronoun as referring to the immediately preceding
-Eye-Cognition.
+Higher and lower are planes, not height. The planes are the desire realm and the four dhyānas.
 
 ## 4. Grammar
 
-The commentary first asks whether Body, Eye, visible Form, and
-Eye-Cognition always belong to one plane or can belong to different
-planes. It states three restrictions:
-
 ```text
-Body plane ≤ Eye plane
-Visible Form plane ≤ Eye plane
-Eye-Cognition plane ≤ Eye plane
+fixed
+    the eye is not lower than the body
+    a visible is not higher than the eye
+    cognition is not higher than the eye
+
+open
+    relative to cognition, a visible may be higher, lower, or the same
+    relative to the body, both may be higher, lower, or the same
+
+range
+    body, eye, visible: five planes
+    eye-cognition: desire realm and the first dhyāna
 ```
-
-The Eye is therefore on the Body's plane or a higher plane. Visible Form
-and Eye-Cognition are each on the Eye's plane or a lower plane. The final
-comparisons allow three relations:
-
-```text
-Visible Form relative to Eye-Cognition
-Visible Form relative to Body
-Eye-Cognition relative to Body
-    each may be higher, lower, or on the same plane
-```
-
-These comparisons do not remove the stated restrictions or the distinct
-plane ranges assigned to the four terms.
 
 ## 5. Translation
 
 ### Literal Translation
 
-> The Eye is not lower than the Body; visible Form is not higher than the Eye, nor is its Cognition. But relative to that [Eye-Cognition], visible Form may be higher, lower, or on the same plane; and relative to the Body, both may be in any of those three relations.
+The eye is not lower than the body. A visible is not higher than the eye. Cognition too. Relative to this, a visible. And relative to the body, both, in every way.
 
 ### Bhāṣya-informed study translation
 
-> The Eye Faculty may be on the Body's plane or a higher plane, but never a lower one. Visible Form and Eye-Cognition may each be on the Eye's plane or a lower one, but never a higher one. Relative to Eye-Cognition, visible Form may be higher, lower, or on the same plane; relative to the Body, both visible Form and Eye-Cognition may stand in any of those three relations.
+Where one stands in a body and sees visibles by the eye, are the body, the eye, the visible, and the cognition of one plane only, or of other planes as well? He says: there is difference in all of them.
 
-The commentary assigns Body, Eye, and visible Form five possible planes:
-the Desire Realm and the first through fourth meditative levels.
-Eye-Cognition is restricted to two: the Desire Realm and the first
-meditative level.
+For one born in the desire realm who sees his own visibles by his own eye, all are of his own plane. The next sentence is damaged: his own visibles, first-dhyāna planes, and all three of that plane are set side by side, and the construction is not kept. For one who sees his own visibles by an eye of the second dhyāna, body and visible are of his own plane, the eye of that plane, and cognition of the first dhyāna. For one who sees visibles of the first dhyāna, cognition and visible are of that plane, the body of the desire realm, and the eye of the second dhyāna. For one who sees visibles of the second dhyāna, eye and visible are of that plane, the body of the desire realm, and cognition of the first plane. So it is to be applied for one who, by an eye of the third or fourth dhyāna, sees visibles of that plane or of a lower plane.
+
+For one born in the first dhyāna who sees his own visibles by his own eye, all are of his own plane. When he sees lower visibles, three are of his own plane. When he sees visibles of his own plane by an eye of the second dhyāna, three are of his own plane and the eye of that plane. When he sees visibles of the desire realm, body and cognition are of his own plane, the visibles are lower, and the eye is of that plane. When he sees visibles of the second dhyāna, eye and visible are of that plane and the rest of his own. So it is to be applied with an eye of the third dhyāna. For one born in the second dhyāna or above, the cases of seeing visibles of his own plane or another, by an eye of his own plane or another, are to be applied as they fit.
+
+This, however, is the fixed rule. The eye is not lower than the body. Of whatever plane the body is, the eye is of that plane or of a higher plane, never of a lower. Of whatever plane the eye is, a visible of that plane or of a lower plane is its object. A visible is not higher than the eye. A visible of a higher plane can never be seen by an eye of a lower plane. Cognition too is not higher than the eye, as a visible is not. Relative to this cognition just stated, a visible is an object in every way: higher, lower, and of its own plane. And relative to the body, both, the visible and the cognition, are in every way.
+
+## 6. Philosophical Translation
+
+The four are not locked to one plane. The rule is the lock that remains. The eye may stand with the body or above it. It does not stand below the body. A visible may stand with the eye or below it. It does not stand above the eye. Cognition does not stand above the eye. Relative to the cognition, the visible is free: higher, lower, or the same. Relative to the body, both are free in the same three ways.
+
+The range is narrower than the freedom. Body, eye, and visible run through five planes, the desire realm through the fourth dhyāna. Eye-cognition runs through two, the desire realm and the first dhyāna. A second-dhyāna eye still sees by a first-dhyāna cognition. The open alternatives do not put eye-cognition in the second, third, or fourth.
+
+## 7. Technical Vocabulary
+
+| Sanskrit | Rendering | Note |
+|---|---|---|
+| adhara | lower | a lower plane, not a lower place |
+| ūrdhva | higher | a higher plane |
+| svabhūmika | of its own plane | the birth-plane, or the plane of the seer |
+| kāma-dhātu | desire realm | the first of the five |
+| dhyāna | dhyāna | four planes above the desire realm |
+| sarvataḥ | in every way | higher, lower, or the same |
+| niyama | fixed rule | the eye is not lower than the body |
 
 ## 8. Logical Determination
 
-Let `P(x)` denote the plane of an item in the comparison. The restrictions
-are:
-
 ```text
-P(Body) ≤ P(EyeFaculty)
-P(VisibleForm) ≤ P(EyeFaculty)
-P(EyeCognition) ≤ P(EyeFaculty)
+eye
+    not lower than the body
 
+visible
+    not higher than the eye
+
+cognition
+    not higher than the eye
+    two planes only
+
+open
+    visible relative to cognition
+    both relative to the body
+
+1.47 not opened
 ```
-
-The unrestricted comparisons are:
-
-```text
-Compare(P(VisibleForm), P(EyeCognition))
-    ∈ {higher, lower, equal}
-
-Compare(P(VisibleForm), P(Body))
-    ∈ {higher, lower, equal}
-
-Compare(P(EyeCognition), P(Body))
-    ∈ {higher, lower, equal}
-```
-
-Thus:
-
-```text
-EyeFaculty
-    → sets the upper plane limit for Body, VisibleForm,
-      and Eye-Cognition
-```
-
-The free comparisons do not cancel these limits or show that every
-combination satisfying them occurs.
 
 ## 9. Interpretive Note
 
-This verse specifies plane-relations among Body, the Eye Faculty, visible
-Form, and Eye-Cognition. The Eye Faculty is not below the Body, while visible
-Form and Eye-Cognition are not above the Eye Faculty.
-
-This Principle analysis treats the plane relations as comparisons among
-distinct factors, not as another inventory. The other comparisons are not
-fixed by the shared upper limit. Visible Form may be
-higher, lower, or on the same plane as Eye-Cognition; each may likewise
-stand in any of those three relations to the Body. These are relations among
-the stated levels, not measurements of physical height.
-
-In the governing model, Vijñāna as Discriminative Cognition joins and
-governs Perception and Conception. Their unity is Inconceivable as a
-homogeneous operation, and its Idea is disclosed in Cognition Base.
-Vijñāna governs Manas and guides the reading of Dharma Base. Form Base
-and Dharma Base classify the same *avijñapti* distinctly; Vijñāna bears
-a *prati* relation to it and remains distinct from consciousness and Mind.
+The hinge is the fixed rule after the cases. The cases differ. The eye does not go below the body. The visible does not go above the eye. Cognition does not go above the eye.
 
 ## 10. OWL++ Seed
 
 ```ttl
 @prefix vak: <http://127.0.0.1:3000/vak#> .
-@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
-vak:VAK_1_46
-    a vak:Karika ;
-    rdfs:label "VAK 1.46" ;
-    vak:hasTopic vak:PlaneRelationsAmongPrinciples ;
-    vak:belongsTo vak:PrincipleAnalysis .
+vak:VAK_1_46 a vak:Karika ;
+    vak:hasTopic vak:NotLowerNotHigher ;
+    vak:belongsTo vak:Dhatunirdesa .
 
-vak:EyeFaculty
-    a vak:Faculty ;
-    vak:planeNotBelow vak:Body ;
-    vak:planeUpperBoundFor vak:VisibleForm,
-        vak:EyeCognition .
-
-vak:VisibleForm
-    a vak:Form ;
-    vak:conditionFor vak:EyeCognition ;
-    vak:planeNotAbove vak:EyeFaculty ;
-    vak:hasUnrestrictedPlaneRelationTo vak:EyeCognition,
-        vak:Body .
-
-vak:EyeCognition
-    a vak:Cognition ;
-    vak:planeNotAbove vak:EyeFaculty ;
-    vak:hasUnrestrictedPlaneRelationTo vak:Body .
-
-vak:UnrestrictedPlaneRelation
-    vak:allows vak:HigherPlane,
-        vak:LowerPlane,
-        vak:SamePlane .
-
+vak:Eye vak:notLowerThan vak:Body .
+vak:Visible vak:notHigherThan vak:Eye .
+vak:EyeCognition vak:notHigherThan vak:Eye .
 ```

@@ -1,10 +1,10 @@
-# VAK_1.17 — Mind Is the Sixth Support
+# VAK_1.17 — Mind Is One of the Six, Just Ceased
 
 ## 1. Sanskrit (Devanāgarī)
 
 > षण्णामनन्तरातीतं विज्ञानं यद्धि तन्मनः ।
 >
-> षष्ठाश्रयप्रसिद्ध्यर्थं धातवोऽष्टादश स्मृताः ॥ १.१७ ॥॥
+> षष्ठाश्रयप्रसिद्ध्यर्थं धातवोऽष्टादश स्मृताः ॥ १.१७ ॥
 
 ## 2. Sanskrit (IAST)
 
@@ -15,29 +15,26 @@
 ## 3. Lexical Analysis
 
 ```text
-ṣaṇṇām anantarātītam       → ṣaṇṇām + anantara-atītam
-yad dhi                    → yat + hi
-tan manaḥ                  → tat + manaḥ
-ṣaṣṭhāśrayaprasiddhyartham → ṣaṣṭha-āśraya-prasiddhi-artham
-dhātavo 'ṣṭādaśa          → dhātavaḥ + aṣṭādaśa
+ṣaṇṇām anantarātītam       → of the six, immediately past
+yad dhi                    → whichever, indeed
+tan manaḥ                  → that is mind
+ṣaṣṭha-āśraya-prasiddhi-artham → in order to establish the sixth support
+dhātavaḥ aṣṭādaśa         → eighteen principles
 ```
 
 | Pada | Morphology | Force in this passage |
 |---|---|---|
-| ṣaṇṇām | genitive plural of *ṣaṣ* | of the six |
-| anantara-atītam | nominative neuter singular | immediately past; just ceased |
-| vijñānam | nominative neuter singular | cognition, one of the six |
-| yat | nominative neuter singular | whichever |
-| hi | particle | for; the reason |
-| tat | nominative neuter singular | that same one |
-| manaḥ | nominative neuter singular | mind |
-| ṣaṣṭha-āśraya-prasiddhi-artham | accusative of purpose | in order to establish the sixth support |
-| dhātavaḥ | nominative masculine plural | principles |
-| aṣṭādaśa | numeral | eighteen |
-| smṛtāḥ | nominative masculine plural | taught; held in the teaching |
+| ṣaṇṇām | genitive plural | of the six |
+| anantara-atītam | nominative neuter | immediately past; just ceased |
+| vijñānam | nominative neuter | a cognition, one of the six |
+| yat / tat | nominative neuter | whichever, that |
+| hi | particle | the reason |
+| manaḥ | nominative neuter | mind |
+| ṣaṣṭha-āśraya-prasiddhi-artham | accusative of purpose | so that the sixth support be established |
+| dhātavaḥ | nominative plural | principles |
+| aṣṭādaśa smṛtāḥ | numeral and participle | eighteen are taught |
 
-The Bhāṣya tightens *anantarātīta* to *samanantara-niruddha*: ceased
-immediately before, nothing between. That gloss belongs to the commentary.
+The commentary tightens *anantarātīta* to *samanantara-niruddha*: ceased immediately before, nothing between.
 
 ## 4. Grammar
 
@@ -49,93 +46,83 @@ immediately before, nothing between. That gloss belongs to the commentary.
     dhātavaḥ aṣṭādaśa smṛtāḥ
 ```
 
-*Yat* and *tat* are the same neuter. The genitive *ṣaṇṇām* draws the
-cognition from the six already named. The identity is relational. The
-verse does not add a seventh Principle.
-
-The purpose compound qualifies the second clause. Eighteen principles
-are taught for the sake of establishing the sixth support. The compound
-does not say that the eighteen are eighteen substances.
+*Yat* and *tat* are the same neuter. The genitive draws the cognition from the six already named. The identity is relational. The verse does not add a seventh principle. The purpose compound qualifies the second clause. It does not say that the eighteen are eighteen substances.
 
 ## 5. Translation
 
 ### Literal Translation
 
-Whichever Cognition among the six is immediately past, that indeed is
-mind. The eighteen principles are taught in order to establish the sixth
-support.
+Whichever cognition among the six is immediately past, that indeed is mind. The eighteen principles are taught in order to establish the sixth support.
 
 ### Bhāṣya-informed study translation
 
-Mind is not a seventh Principle beside the six. Whichever of those six
-has just ceased is called Mind, and called the Mind Principle, in its
-office as support. The five have supports of their own. The
-Mind-Cognition Principle has no further support of that kind. Eighteen
-are taught so that this sixth support be established.
+Mind is not a seventh cognition beside the six. Whichever of those six has just ceased is called mind, and called the mind-principle, in its office as support. The five have supports of their own. The mental cognition has no further support of that kind. Eighteen are taught so that this sixth support be established.
 
-The support does not require a successor. An arhat's final consciousness
-remains mind. Another cause is wanting, and no next principle arises.
+The support does not require a successor. An arhat's final consciousness remains mind. Another cause is wanting, and no next cognition arises.
+
+## 6. Philosophical Translation
+
+Again, two lines. The first answers 1.16. The second says why the count is eighteen.
+
+The seventh name is not a seventh thing. Whichever of the six has just ceased, that is mind. Present, it is one of the six cognitions. Just ceased, it is the support of the next. Same cognition, two offices. The commentary's pictures are exact: the same person is son to one and father to another; the same fruit is seed to another.
+
+The five have a support each. The sixth, the mental cognition, has none of that kind. Mind is taught so that the sixth support stand in the open. That is why eighteen, and not a reduced substance-count.
+
+Eighteen here is six supports, six supported, and six that are borne. Mind is the sixth support. It is not a sixth eye.
+
+The last test is quiet. If mind meant whatever produces the next, an arhat's final consciousness would fail the name. It does not fail. The office remains. The next does not arise, because another cause is wanting.
 
 ## 7. Technical Vocabulary
 
 | Sanskrit | Rendering | Note |
 |---|---|---|
-| vijñāna | Cognition | one of the six; not *citta* |
-| manas | Mind | the same Cognition, just ceased |
-| manodhātu | Mind Principle | the office, not an additional substance |
-| manovijñāna-dhātu | Mind-Cognition Principle | the sixth of the six; the supported |
-| anantarātīta | immediately past | Bhāṣya: *samanantara-niruddha* |
+| vijñāna | cognition | one of the six; not consciousness; not principle |
+| manas | mind | the same cognition, just ceased |
+| manodhātu | mind-principle | the office, not a seventh substance |
+| manovijñāna-dhātu | mental cognition-principle | the sixth of the six; the supported |
+| anantarātīta | immediately past | ceased immediately before |
 | āśraya | support | the office mind fills |
-| āśrita | the supported | the six Cognition Principles |
-| ālambana | Object | distinct from support and from *viṣaya* |
-| citta | consciousness | the arhat's final consciousness; distinct from *manas* |
-| dravyataḥ | by substance | the objection's count, not the eighteen Principles |
-| prasiddhi | establishment | so that the sixth support be established |
+| āśrita | the supported | the six cognitions |
+| ālambana | the borne | not the support |
+| citta | consciousness | the arhat's final consciousness; not mind |
+| dravyataḥ | by substance | the objection's count |
+| prasiddhi | establishment | so that the sixth support be known |
 
 ## 8. Logical Determination
 
-The Bhāṣya resolves the eighteen Principles as six supports, six
-supported Cognition Principles, and six Objects. Mind is the sixth support:
-the immediately ceased Cognition among the six, not a seventh Cognition.
-Support is a distinct relation, not a synonym for production.
-
 ```text
-VAK 1.16
-    → names six Cognitions and the Mind Principle
-    → leaves their relation unspecified
+1.16   seven names: six cognitions + mind-principle
+       relation not yet said
 
-VAK 1.17
-    → one of the six Cognitions has just ceased
-    → that Cognition serves as Mind
-    → Mind is the sixth support
+1.17   of those six, whichever has just ceased
+           → mind
+           → mind-principle, as support
 
-five Faculty supports + Mind support
-    → six supports
+       present office     one of the six
+       just-ceased office mind, the sixth support
 
-six supports + six Cognition Principles + six Objects
-    → eighteen Principles
+       five supports      eye and the rest
+       sixth support      mind
+       supported          six cognitions
+       borne              six
+       6 + 6 + 6 = 18
 
-objection
-    → seventeen, or twelve if counted by substance
+       objection          17, or 12, by substance
+       reply              eighteen, for the sixth support
 
-reply
-    → eighteen, because Mind is the distinct sixth support
+       arhat's last consciousness
+           remains mind
+           no successor, another cause wanting
+           support ≠ production
 
-arhat's final consciousness
-    → remains the Mind support
-    → has no successor because another cause is absent
-
-support
-    ↛ production
+1.18 not opened
 ```
 
-The objection's twelve is a substance-count. It is not the twelve
-essences.
+The objection's twelve is a substance-count. It is not the twelve essences.
 
 ## 9. Interpretive Note
 
-The hinge is *yat ... tat*: whichever, that. Interpretation of the
-office, and of the arhat's limit, is in the Bhāṣya.
+The hinge is *yat ... tat*: whichever, that. Interpretation of the office, and of the arhat's limit, is in the Bhāṣya.
 
 ## 10. OWL++ Seed
 
@@ -147,17 +134,14 @@ vak:VAK_1_17 a vak:Karika ;
     vak:belongsTo vak:Dhatunirdesa ;
     vak:answers vak:VAK_1_16 .
 
-vak:Mind vak:isOneOf vak:SixPrinciples ;
+vak:Mind vak:isOneOf vak:SixCognitions ;
     vak:when vak:ImmediatelyPast ;
     vak:functionsAs vak:SixthSupport ;
     vak:distinctFrom vak:SeventhSubstance .
 
 vak:EighteenPrinciples vak:supports 6 ;
     vak:supported 6 ;
-    vak:objects 6 .
-
-vak:MindCognitionPrinciple vak:hasSupport vak:Mind ;
-    vak:hasNoFurtherSenseSupport true .
+    vak:borne 6 .
 
 vak:FinalArhatConsciousness vak:remains vak:Mind ;
     vak:hasSuccessor false ;

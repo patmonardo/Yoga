@@ -1,4 +1,4 @@
-# VAK_1.35 — Principles, Principle-Dependent Form, and Aggregation
+# VAK_1.35 — Element, Derived, Aggregated
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -14,287 +14,115 @@
 
 ## 3. Lexical Analysis
 
-```text
-spraṣṭavyam             → spraṣṭavyam
-dvividham               → dvi-vidham
-rūpiṇaḥ                 → rūpiṇaḥ
-bhautikāḥ               → bhautikāḥ
-dharmadhātvekadeśaḥ     → dharma-dhātu-eka-deśaḥ
-saṃcitāḥ                → sam-√ci + kta
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
-| spraṣṭavyam | nominative neuter singular | the tangible Principle |
-| dvi-vidham | nominative neuter singular compound | twofold in constitution |
-| śeṣāḥ | nominative masculine plural | the other Form-bearing Principles apart from the tangible |
-| rūpiṇaḥ | nominative masculine plural adjective | Form-bearing |
-| nava | numeral | five sensory Faculties and four non-tangible sensory-field Principles |
-| bhautikāḥ | nominative masculine plural adjective | Principle-dependent; arising in or depending on the Great Principles |
-| dharma-dhātu-eka-deśaḥ | nominative masculine singular compound | one portion of the Dharma Principle |
-| ca | conjunction | and; adds avijñapti to the Principle-dependent classification |
-| saṃcitāḥ | nominative masculine plural participial adjective | accumulated or aggregated; the Bhāṣya specifies atomic aggregation |
-| daśa rūpiṇaḥ | nominative masculine plural | the ten Form-bearing Faculty-and-field Principles |
+| spraṣṭavyam | nominative | the tangible |
+| dvi-vidham | adjective | of two kinds |
+| śeṣāḥ rūpiṇaḥ nava | the other nine of form | only derived |
+| bhautika | adjective | derived from the elements |
+| dharma-dhātu-ekadeśaḥ | compound | one portion of the dharma-principle |
+| saṃcita | participle | aggregated |
+| daśa rūpiṇaḥ | the ten of form | aggregates of atoms |
 
-The portion of the Dharma Principle is grammatically added to the
-Principle-dependent classification. The Bhāṣya identifies it as
-`avijñapti`. It is not added to the subsequent count of ten atomically
-aggregated Principles.
+Element is bhūta. Principle is dhātu. The portion of the dharma-principle is avijñapti.
 
 ## 4. Grammar
 
-The first predicate divides the tangible Principle:
-
 ```text
-spraṣṭavyaṃ dvividham
-    the tangible Principle is twofold
+spraṣṭavyam dvi-vidham
+    element and derived
 
-    four Great Principles
-    + seven Principle-dependent tangible qualities beginning with smoothness
+śeṣāḥ nava rūpiṇaḥ bhautikāḥ
+    dharma-dhātu-ekadeśaḥ ca
+
+daśa rūpiṇaḥ saṃcitāḥ
 ```
 
-The remaining nine Form-bearing Principles are Principle-dependent:
-
-```text
-five sensory Faculties
-    eye, ear, nose, tongue, body
-
-four non-tangible sensory-field Principles
-    visible Form, Sound, smell, taste
-```
-
-`Bhautika` is explicitly explained by `bhūteṣu bhavatvāt`: it arises in
-or depends upon the Great Principles. Dependence does not mean identity.
-
-The conjunction in `dharmadhātvekadeśaś ca` continues this predicate:
-
-```text
-one portion of the Dharma Principle
-    = avijñapti
-    = Principle-dependent Form
-```
-
-The final clause begins a separate question and predicate:
-
-```text
-saṃcitā daśa rūpiṇaḥ
-    the ten Form-bearing Principles are aggregated
-```
-
-The Bhāṣya defines `saṃcita` strictly as constitution by aggregates of
-atoms (*paramāṇu-saṃghāta*). Avijñapti is Form-bearing and
-Principle-dependent, but it is not one of these ten atomic aggregates.
+Two cuts. The first is element and derived. The second is aggregated.
 
 ## 5. Translation
 
 ### Literal Translation
 
-> The tangible Principle is twofold. The remaining nine Form-bearing Principles are Principle-dependent, as is one portion of the Dharma Principle. The ten Form-bearing Principles are aggregated.
+The tangible is twofold. The other nine whose nature is form are derived. And a portion of the dharma-principle. The ten whose nature is form are aggregated.
 
 ### Bhāṣya-informed study translation
 
-> The tangible Principle comprises both the four Great Principles and seven Principle-dependent tangible qualities. The other nine Form-bearing Principles depend on the Great Principles, and avijñapti—the Principle-dependent Form portion of the Dharma Principle—shares this status. The five sensory Faculties and five sensory-field Principles are atomically aggregated.
+How many principles are of the nature of the elements, how many derived? The tangible is twofold: the elements, and the derived. The elements are four. The derived is sevenfold, smoothness and the rest, because it occurs in the elements. The other nine whose nature is form are only derived: the five organ-principles and the four conditions. And a portion of the dharma-principle, the one called avijñapti, is derived. The rest, the citta-principles and the dharma-principle apart from avijñapti, are neither.
 
-The expanded translation keeps avijñapti within Principle-dependent Form
-while excluding it from the atomic meaning of `saṃcita`.
+The venerable Buddhadeva says the ten essences are only elements. Not so. The sūtra determines the elements as four, with the character of hardness and the rest. And they are tangible. Hardness and the rest are not grasped by the eye and the others. Color and the rest are not grasped by the body-organ.
+
+A sūtra says the eye, monk, is an internal essence, a clarity of form depending on the four great elements, whose nature is form, invisible, resistant. So through the body. Visible form is an external essence, depending on the four great elements, whose nature is form, visible, resistant. Sound depends on the four great elements, whose nature is form, invisible, resistant. So smell and taste. The tangible is an external essence: the four great elements, and form depending on the four great elements, whose nature is form, invisible, resistant. The elements are included in one portion of the tangible essence. The rest is shown not to be elements.
+
+What of the sūtra, whatever in the fleshy mass of the eye is hard has the character of hardness? That is an instruction about the fleshy mass, not separate from the organ. A person, monk, consists of six principles: in the account of descent into the womb, this shows the constituents of a being. The six contact-essences are mentioned again. Otherwise the mental factors would be absent. It is not reasonable that the mental factors are just citta. A sūtra says reflection and feeling are mental essences, following citta and depending on citta. And there is citta with passion and the rest. So the elements and the derived are as stated.
+
+How many are aggregated, how many not? The ten whose nature is form are aggregated: the five organs and the five meanings. They are aggregates of atoms. The remaining principles are not aggregated.
 
 ## 6. Philosophical Translation
 
-> Form has distinct Principle-dependent and constitutional determinations. The Great Principles are directly tangible; the Faculties, sensory qualities, and avijñapti depend upon them without being identical with them. Atomic aggregation characterizes ten Form-bearing Principles, but not every Principle-dependent Form determination. Dependence is therefore broader than atomic aggregation.
+Only the tangible is both. The four elements are there, and the seven derived. The other nine of form are only derived. Avijñapti, the portion of the dharma-principle, is derived. The citta-principles and the rest of the dharma-principle are neither.
 
-Techne reading:
+Buddhadeva collapses the ten essences into the elements. The sūtra will not. The elements are four, and they are tangible. The eye does not grasp hardness. The body does not grasp color. The fleshy mass is not the organ. The six principles of the person are not a denial of the mental factors.
 
-> The Principle Processor distinguishes three predicates: being a Great
-> Principle, being Principle-dependent, and being atomically aggregated. They
-> cross-classify rather than describe successive stages. Avijñapti is the
-> boundary case: Principle-dependent Form in the Dharma Principle, neither a
-> Great Principle nor one of the ten atomically aggregated Form-bearing
-> Principles. Here *dhātu* functions as the Principle instrument that
-> determines these distinct relations.
+Aggregated is the other cut. The ten whose nature is form are aggregates of atoms. The rest are not.
 
 ## 7. Technical Vocabulary
 
-| Sanskrit | Project rendering | Determination |
+| Sanskrit | Rendering | Note |
 |---|---|---|
-| spraṣṭavya-dhātu | Tangible Principle | contains the four Great Principles and seven Principle-dependent tangible qualities |
-| mahābhūta | Great Principle | Principle-level tangible determination characterized by hardness and the other primary qualities |
-| bhūta-svabhāva | having Principle-nature | applies to the four Great Principles within the Tangible Principle |
-| bhautika | Principle-dependent | arises in or depends upon Great Principles without being identical with them |
-| bhūteṣu bhavatva | arising in or depending on Great Principles | Bhāṣya's explanation of `bhautika` |
-| rūpin | Form-bearing | wider classification of Principles associated with Form |
-| dharmadhātvekadeśa | portion of the Dharma Principle | avijñapti as a Principle-dependent Form determination |
-| avijñapti | non-disclosive Form | Principle-dependent Form in the Dharma Principle, not ordinary sensory disclosure |
-| saṃcita | aggregated; in the Bhāṣya, atomically | constituted as an aggregate of atoms |
-| paramāṇu-saṃghāta | atomic aggregate | strict Bhāṣya definition of `saṃcita` |
-| ślakṣṇatva | smoothness | first-listed derivative tangible quality |
-
-The three principal predicates must remain distinct:
-
-```text
-Great Principle
-Principle-dependent
-atomically aggregated
-```
+| bhūta | element | four, in the tangible |
+| bhautika | derived | occurs in the elements |
+| spraṣṭavya | tangible | the only twofold |
+| avijñapti | avijñapti | the derived portion of the dharma-principle |
+| saṃcita | aggregated | aggregates of atoms |
+| daśa rūpiṇaḥ | ten whose nature is form | the five organs and the five meanings |
+| āyatana | essence | the sūtra's word |
+| saṃjñā | reflection | follows citta |
 
 ## 8. Logical Determination
 
-The Tangible Principle contains both Great Principles and
-Principle-dependent Form:
-
 ```text
-TangiblePrinciple
-    = FourGreatPrinciples
-      ∪ SevenPrincipleDependentTangibleQualities
+tangible
+    four elements
+    seven derived
+
+other nine of form
+    only derived
+    five organs, four conditions
+
+dharma-principle
+    avijñapti derived
+    the rest neither
+
+citta-principles
+    neither
+
+Buddhadeva
+    ten essences are only elements
+    rejected by the four, and by the grasp
+
+aggregated
+    the ten of form
+    the rest not
+
+1.36 not opened
 ```
-
-The Principle-dependent classification is:
-
-```text
-Bhautika
-    = FiveSensoryFacultyPrinciples
-      ∪ FourNonTangibleSensoryObjectPrinciples
-      ∪ SevenPrincipleDependentTangibleQualities
-      ∪ Avijnapti
-```
-
-The atomic-aggregation classification is separate:
-
-```text
-AtomicallyAggregatedPrinciples
-    = FiveSensoryFacultyPrinciples
-      ∪ FiveSensoryObjectPrinciples
-
-Samcita(x)
-    ↔ ConstitutedAs(x, AtomicAggregate)
-```
-
-Principle-dependence means:
-
-```text
-Bhautika(x)
-    → DependsOn(x, FourGreatPrinciples)
-
-DependsOn(x, FourGreatPrinciples)
-    ↛ IdenticalWith(x, FourGreatPrinciples)
-```
-
-Avijñapti exposes the crossing of these predicates:
-
-```text
-Avijnapti
-    → FormBearing
-    ∧ Bhautika
-    ∧ PartOf(DharmaPrinciple)
-    ∧ ¬Samcita
-```
-
-Thus the distinctions are not a production ladder:
-
-```text
-GreatPrincipleStatus
-    ≠ PrincipleDependence
-    ≠ AtomicAggregation
-```
-
-The predicates overlap in particular Principles, but none can replace
-the others.
 
 ## 9. Interpretive Note
 
-VAK 1.35 separates three questions: which Principles have the nature of
-Great Principles, which depend on Great Principles, and which are
-constituted as atomic aggregates. The Tangible Principle includes both
-the four Great Principles and seven Principle-dependent tangible
-qualities. The other sensory Faculties and sensory-field Principles
-depend on the Great Principles without thereby being identical to them.
-
-The Bhāṣya attributes to Buddhadeva the claim that the ten Essences are
-nothing but Great Principles, and rejects it. The cited account
-differentiates the four Great-Principle characteristics from visible
-Form, Sound, smell, and taste, while the Tangible Principle includes
-both Great Principles and what depends on them. The sensory Faculties
-apprehend different kinds of determination; one cannot flatten the full
-Form system into the four Great Principles alone.
-
-The eye-flesh objection and its reply sharpen the same logic: a Faculty
-may occur inseparably with Form in the fleshy mass without being
-identical to that Form. The discussion of the “person of six Principles”
-is likewise kept to its context of descent into the womb. The Bhāṣya
-rejects collapsing mental factors into Citta, since factors such as
-feeling and recognition are described as dependent on Citta, not simply
-identical with it.
-
-Avijñapti is the critical boundary case: it is a Principle-dependent Form
-determination included in the Dharma Principle, yet it is not one of the
-ten atomically aggregated Form Base Principles. It is neither a Great
-Principle nor merely an imaginary mental item:
-
-```text
-avijñapti
-    = Principle-dependent Form
-    + Dharma-Principle membership
-    − ordinary sensory disclosure
-    − membership in the ten atomic aggregates
-```
-
-This gives the Loka inquiry into subtle Principles a testable framework:
-keep Principle status, dependence, sensory apprehension, and atomic
-constitution distinct. The Techne treats these as determinate relations
-within one system, not as stages or interchangeable labels.
-
-The Kośa presents Vijñāna as Discriminative Cognition joining and
-governing Perception and Conception. Their unity is Inconceivable as a
-homogeneous operation; its Idea is disclosed in the Cognition Base.
-Vijñāna governs Manas and guides the reading of Dharma Base. Form Base and
-Dharma Base classify the same *avijñapti* distinctly, and Vijñāna bears a
-*prati* relation to it. Vijñāna remains distinct from *citta* and *manas*.
-
-For the Principle Processor, 1.35 specifies independent parameters:
-
-```text
-Principle status
-Principle-dependence
-mode of sensory apprehension
-atomic aggregation
-Dharma-Principle membership
-```
+The hinge is the tangible. It is the only principle that is both element and derived. The sūtra on the tangible says the four and the form that depends on them. That is the refusal of Buddhadeva. The aggregation is a separate count.
 
 ## 10. OWL++ Seed
 
 ```ttl
 @prefix vak: <http://127.0.0.1:3000/vak#> .
-@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
-vak:VAK_1_35
-    a vak:Karika ;
-    rdfs:label "VAK 1.35" ;
-    vak:hasTopic vak:PrincipleDependenceAndAtomicAggregation ;
+vak:VAK_1_35 a vak:Karika ;
+    vak:hasTopic vak:ElementAndDerived ;
     vak:belongsTo vak:Dhatunirdesa .
 
-vak:TangiblePrinciple
-    a vak:Principle ;
-    vak:contains vak:FourGreatPrinciples,
-        vak:SevenPrincipleDependentTangibleQualities .
-
-vak:Bhautika
-    a vak:PrincipleDependentFormType ;
-    vak:dependsOn vak:FourGreatPrinciples ;
-    vak:distinctFrom vak:GreatPrinciple .
-
-vak:TenAggregatedFormPrinciples
-    a vak:PrincipleSet ;
-    vak:hasConstitution vak:AtomicAggregation .
-
-vak:Avijnapti
-    a vak:PrincipleDependentFormType,
-        vak:Bhautika ;
-    vak:partOf vak:DharmaPrinciple ;
-    vak:notMemberOf vak:TenAggregatedFormPrinciples .
-
-vak:PrincipleProcessor
-    a vak:PrincipleProcessorOperation ;
-    vak:requiresParameter vak:PrincipleDependency,
-        vak:SensoryApprehensionMode,
-        vak:AtomicAggregationStatus,
-        vak:DharmaPrincipleMembership .
+vak:Tangible vak:twofold true .
+vak:NineOfForm vak:derivedOnly true .
+vak:Avijnapti vak:derived true .
+vak:TenOfForm vak:aggregated true .
 ```

@@ -1,4 +1,4 @@
-# VAK_1.05 — The Pure Field and Space as Non-Obstruction
+# VAK_1.05 — The Pure
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -14,106 +14,105 @@
 
 ## 3. Lexical Analysis
 
-```text
-cāpy → ca api                  tatrākāśam → tatra ākāśam
-mārgasatyam → mārga-satyam    anāvṛtiḥ → an-āvṛtiḥ
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
-| anāsravāḥ | adjective, nominative plural | qualifies supplied `dharmāḥ` |
-| mārga-satyam | neuter nominative singular | conditioned anāsrava member |
-| trividham asaṃskṛtam | neuter nominative singular | threefold unconditioned class |
-| ākāśam | neuter nominative singular | first unconditioned dharma |
-| dvau nirodhau | masculine dual nominative | two cessations |
+| anāsravāḥ | adjective; nominative plural | pure; the subject supplied from 1.04 |
+| mārgasatyam | mārga-satyam; nominative neuter singular | the Truth of the Path |
+| trividham | nominative neuter singular | threefold |
+| ca api | particles | and also |
+| asaṃskṛtam | nominative neuter singular | the unconditioned |
+| ākāśam | nominative neuter singular | space |
+| dvau nirodhau | masculine dual nominative | the two cessations |
 | tatra | indeclinable | among these |
-| anāvṛtiḥ | feminine nominative singular | predicate definition: non-obstruction |
+| anāvṛtiḥ | an-āvṛtiḥ; nominative feminine singular | non-obstruction; the predicate of space |
 
 ## 4. Grammar
 
-The supplied `dharmāḥ` is recovered from 1.04:
+The subject is recovered from 1.04.
 
 ```text
-anāsrava dharmas
-├── mārga-satya             conditioned
-└── threefold asaṃskṛta     unconditioned
-    ├── ākāśa
-    ├── pratisaṃkhyā-nirodha
-    └── apratisaṃkhyā-nirodha
+anāsravāḥ
+    = mārga-satyam
+    + trividham asaṃskṛtam
+        = ākāśam
+        + dvau nirodhau
+
+tatrākāśam anāvṛtiḥ
 ```
 
-The names of the two cessations are supplied by the Bhāṣya and defined in 1.06. `ākāśam anāvṛtiḥ` is a cross-gender nominal definition: space is non-obstruction.
+*Ākāśam anāvṛtiḥ* is a cross-gender nominal definition. Space is non-obstruction. The names of the two cessations are supplied by the commentary and defined in the next verse.
 
 ## 5. Translation
 
-### Literal Translation
+### Literal
 
-> The Pure dharmas are the Truth of the Path and also the threefold unconditioned: space and the two cessations. Among these, space is non-obstruction.
+The pure are the Truth of the Path and also the threefold unconditioned: space and the two cessations. Among these, space is non-obstruction.
 
-### Bhāṣya-informed study translation
+### Bhāṣya-informed
 
-> The Pure dharmas comprise the conditioned Truth of the Path and three unconditioned dharmas—space, cessation through discrimination, and cessation not through discrimination—because the *āsravas* do not persist in them. Space is non-obstruction: that in which form can move.
+Which dharmas are pure? The Truth of the Path, and the threefold unconditioned. The three are space and the two cessations: cessation through discrimination, and cessation not through discrimination. These, together with the Truth of the Path, are the pure dharmas, because the *āsravas* do not persist in them. Space is non-obstruction. Its nature is non-obstruction. It is where form can move.
 
 ## 6. Philosophical Translation
 
-> Being Pure and being unconditioned are distinct determinations. The Truth of the Path is conditioned yet Pure; space and the two cessations are unconditioned and Pure. Space is non-obstruction, explained by the Bhāṣya as allowing form to move.
+The pure member named in the previous verse is enumerated here. It is not the unconditioned as such.
 
-Techne reading:
+The Truth of the Path is conditioned, and pure. Space and the two cessations are unconditioned, and pure. The reason is the same failure: the *āsravas* do not persist in them. Persistence was the test of the impure. Its absence is the test of the pure.
 
-> The Science of Principles must distinguish two independent questions: whether a dharma is produced by conditions, and whether the *āsravas* can persist in it. The Pure Path is conditioned activity; the other three Pure dharmas are unconditioned. Space first appears as non-obstruction, a determinate account of where form can move. The two cessations are named here and explained in 1.06.
+Space is defined. The two cessations are named. Their definitions are the next verse.
 
 ## 7. Technical Vocabulary
 
-| Sanskrit | Rendering | Determination |
+| Sanskrit | Rendering | Note |
 |---|---|---|
-| anāsrava | Pure | the *āsravas* do not persist in these dharmas |
-| mārga-satya | Truth of the Path | conditioned and anāsrava |
+| anāsrava | pure | the *āsravas* do not persist |
+| mārga-satya | Truth of the Path | conditioned and pure |
 | asaṃskṛta | unconditioned | space and the two cessations |
 | ākāśa | space | non-obstruction |
-| anāvṛti | non-obstruction | explained through movement of Form (*rūpa*) |
+| anāvṛti | non-obstruction | where form can move |
 | pratisaṃkhyā-nirodha | cessation through discrimination | named here; defined in 1.06 |
 | apratisaṃkhyā-nirodha | cessation not through discrimination | named here; defined in 1.06 |
+| anuśerate | persist | the verb that fails in the pure |
 
 ## 8. Logical Determination
 
-Conditioned dharmas other than the Truth of the Path
-    → conditioned
-    → impure
-
-Truth of the Path
-    → conditioned
-    → pure
-
-Space and the two cessations
-    → unconditioned
-    → pure
-
 ```text
-ākāśa = non-obstruction where Form can move
+pure
+    = Truth of the Path
+    + threefold unconditioned
+        = space
+        + cessation through discrimination
+        + cessation not through discrimination
+
+conditioned does not entail impure
+pure does not entail unconditioned
+
+space
+    = non-obstruction
+    = where form can move
 ```
+
+| Dharma class | Conditioned? | Pure? |
+|---|---:|---:|
+| conditioned, other than the Path | yes | no |
+| Truth of the Path | yes | yes |
+| space and the two cessations | no | yes |
 
 ## 9. Interpretive Note
 
-VAK 1.05 completes the Pure side of the summary division begun in 1.04.
-The Truth of the Path and the unconditioned three belong together under
-Purity, while remaining different in whether they are conditioned. The
-Bhāṣya gives one criterion for their shared placement: the *āsravas* do
-not persist in them.
-
-For our Techne, this is a lesson in scientific definition. One predicate
-cannot silently stand in for another: Pure does not mean unconditioned.
-The Path makes that difference actual within conditioned activity. Space
-then receives a positive use through its negative definition,
-non-obstruction, because it is where Form can move. The passage does not
-yet tell us what the two cessations do; that belongs to 1.06.
+The verse completes the division opened in 1.04. Four dharmas are pure. One of them is conditioned. Space receives its definition. The two cessations do not.
 
 ## 10. OWL++ Seed
 
 ```ttl
 @prefix vak: <http://127.0.0.1:3000/vak#> .
-vak:VAK_1_05 a vak:Karika ; vak:hasTopic vak:AnasravaDharmas ; vak:belongsTo vak:Dhatunirdesa .
-vak:PathTruth a vak:ConditionedDharma, vak:AnasravaDharma .
-vak:Akasha a vak:UnconditionedDharma, vak:AnasravaDharma ; vak:definedAs vak:NonObstruction .
-vak:PratisamkhyaNirodha a vak:UnconditionedDharma .
-vak:ApratisamkhyaNirodha a vak:UnconditionedDharma .
+
+vak:VAK_1_05 a vak:Karika ;
+    vak:hasTopic vak:PureDharmas ;
+    vak:belongsTo vak:Dhatunirdesa .
+
+vak:PathTruth a vak:ConditionedDharma, vak:PureDharma .
+vak:Akasha a vak:UnconditionedDharma, vak:PureDharma ;
+    vak:definedAs vak:NonObstruction .
+vak:PratisamkhyaNirodha a vak:UnconditionedDharma, vak:PureDharma .
+vak:ApratisamkhyaNirodha a vak:UnconditionedDharma, vak:PureDharma .
 ```

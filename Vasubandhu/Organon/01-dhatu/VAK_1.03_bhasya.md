@@ -6,24 +6,20 @@
 >
 > kleśaiś ca bhramati bhavārṇave 'tra lokas taddhetor ata uditaḥ kilaiṣa śāstraḥ // 1.03 //
 
-### Bhāṣya-informed study translation
-
-> Because a disciple cannot discriminate dharmas without Abhidharma instruction, and because such discrimination is indispensable to pacifying the afflictions that cause the world to wander in saṃsāra, this śāstra is said to have been taught.
-
-### Anchor note
-
 The running witness ends the verse with `śāstrā`. The displayed `śāstraḥ`
 is a conjectural normalization, not an established source reading; the
 Kārikā study records the unresolved grammar.
 
-
-
-
+> Since there is no means for pacifying the afflictions without discrimination
+> of dharmas, and since the world wanders here in the ocean of becoming
+> through those afflictions, for that reason this treatise is said to have
+> been taught.
 
 The Bhāṣya makes the necessity claim more concrete: the disciple cannot
 discriminate dharmas without Abhidharma instruction. It then attributes the
 account of the Buddha's dispersed teachings and their systematic collection
 to the Vaibhāṣikas.
+
 ## 2. Continuous Sanskrit
 
 > kimarthaṃ punar abhidharmopadeśaḥ kena cāyaṃ prathamata upadiṣṭo yata
@@ -196,25 +192,26 @@ The disciple's dependence upon Abhidharma instruction and the historical
 collection account are Bhāṣya determinations. They should inform the study
 without being inserted into a close translation of the verse.
 
-## 8. Interpretation
+## 8. Philosophical and Organon Study
 
-The first three Bhāṣyas now form a single pedagogical argument. The Buddha
-teaches according to reality; the śāstra serves as equipment for attaining
-stainless *prajñā*; and its instruction forms the disciple's power to
-discriminate the dharmas relevant to pacifying affliction.
+The first three Bhāṣyas now form a single pedagogical argument. Liberating
+knowledge must be communicated according to reality; the śāstra serves as
+equipment for attaining stainless discrimination; and its instruction forms
+the disciple's own power to discriminate the dharmas whose confusion sustains
+affliction.
 
 This is a strong basis for the Yoga Vidyā–Technē reconstruction:
 
 ```text
-Yoga Vidyā / prajñā
-    → the larger Science of Principles
+Yoga Vidyā
+    → articulates the dharmas and their determinate relations
 
 Yoga Technē
-    → instructs the disciple in dharmapravicaya
+    → forms the disciple's capacity to discriminate them
 
 their practical criterion
-    → whether that discrimination can answer the kleśas
-      that sustain wandering
+    → whether that discrimination answers the kleśas
+       that sustain wandering
 ```
 
 The teaching may first occur in dispersed form and later be gathered and
@@ -222,20 +219,10 @@ established as a śāstra. For our project, systematic organization is thus an
 act of Technē because it makes a field available for disciplined
 discrimination.
 
-This is why our Science of Consciousness requires an Organon: its means of
-instruction must be adequate to the power it seeks to form. The Kośa gives
-the necessity of *dharmapravicaya* and the disciple's need for instruction.
-In our Techne, discriminative Knowing belongs specifically with *vijñāna*;
-the present passage does not use that word. Its relation to the larger
-*prajñā* must be developed where the text supplies it.
-
-The Yoga Vidyā's deeper horizon is Nirbīja Samādhi. We can bring Aristotle's
-account of a science's indemonstrable beginning into conversation with it,
-but this Bhāṣya does not establish that identification. Its immediate
-argument is practical: affliction causes wandering; discrimination is
-indispensable to pacification; instruction forms that capacity. The report
-of dispersed teaching and compilation remains attributed to the
-Vaibhāṣikas.
+This is why a Science of Consciousness requires an Organon rather than a
+collection of isolated insights. That conclusion is our reconstruction;
+Vasubandhu's explicit claims remain the necessity of `dharmapravicaya`, the
+disciple's need for instruction, and the Vaibhāṣika account of compilation.
 
 ## 9. Review Status
 

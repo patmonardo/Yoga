@@ -1,4 +1,4 @@
-# VAK_1.39 Bhāṣya — Internal Principles, Fields, and Functional Participation
+# VAK_1.39 Bhāṣya — Inner Twelve, and the Work
 
 ## 1. Kārikā Anchor
 
@@ -6,407 +6,211 @@
 >
 > sabhāgas tatsabhāgāś ca śeṣā yo na svakarmakṛt // 1.39 //
 
-### Bhāṣya-informed study translation
+> Twelve are inner, having set aside those beginning with visible. The one called dharma is sabhāga. And the rest are tat-sabhāga, whichever does not do its own work.
 
-> The six Faculty Principles and six Cognition Principles are internal; the six field-side Principles are outer. Consciousness is figuratively designated Self because ego-making rests upon it, and the Faculties are internal through their proximity as supports. The Dharma Principle is always functionally participating because every Dharma can become a field for Mind-Cognition. Every other Principle may participate in its proper operation—past, present, future, or assured—or remain of the same kind without exercising that operation.
+## 2. Continuous Sanskrit Witness
 
-### Anchor note
-
-The first sentence ends with *rūpādīn*. *Dharmasaṃjñakaḥ* is the
-subject of *sabhāgaḥ*, not another accusative complement of *hitvā*.
-The Bhāṣya identifies the six excluded field Principles and then
-singles out the Dharma Principle for the next classification. *Ca*
-includes sabhāga as well as tat-sabhāga among the remaining seventeen
-Principles.
-## 2. Continuous Sanskrit
-
-> katyādhyātmikā dhātavaḥ kati bāhyāḥ /
+> katy ādhyātmikā dhātavaḥ kati bāhyāḥ /
 >
-> dvādaśādhyātmikāḥ
+> dvādaśādhyātmikāḥ /
 >
 > katame dvādaśa /
 >
-> hitvā rūpādīn
+> hitvā rūpādīn /
 >
-> ṣaḍ vijñānāni ṣaḍāśrayā ityete dvādaśa dhātava ādhyātmikāḥ /
+> ṣaḍ vijñānāni ṣaḍ āśrayā ity ete dvādaśa dhātava ādhyātmikāḥ /
 >
-> rūpādayastu ṣaḍ viṣayadhātavo bāhyāḥ /
+> rūpādayas tu ṣaḍ viṣaya-dhātavo bāhyāḥ /
 >
-> ātmanyasati kathamādhyātmikaṃ bāhyaṃ vā /
+> ātmany asati katham ādhyātmikaṃ bāhyaṃ vā /
 >
-> ahaṅkārasanniśrayatvāccittamātmetyupacaryate /
+> ahaṅkāra-sanniśrayatvāc cittam ātmety upacaryate /
 >
-> "ātmanā hi sudāntena svargaṃ prāpnoti paṇḍitaḥ"
+> ātmanā hi sudāntena svargaṃ prāpnoti paṇḍitaḥ ity uktam /
 >
-> ityuktam /
+> cittasya cānyatra damanam uktaṃ bhagavatā /
 >
-> cittasya cānyatra damanamuktaṃ bhagavatā /
+> cittasya damanaṃ sādhu cittaṃ dāntaṃ sukhāvaham iti /
 >
-> "cittasya damanaṃ sādhu cittaṃ dāntaṃ sukhāvaham" iti /
+> ata ātma-bhūtasya cittasyāśraya-bhāvena pratyāsannatvāt /
 >
-> ata ātmabhūtasya cittasyāśrayabhāvena pratyāsannatvāt /
+> cakṣur-ādīnām ādhyātmikatvaṃ rūpādīnāṃ viṣaya-bhāvād bāhyatvam /
 >
-> cakṣurādīnāmādhyātmikatvaṃ rūpādīnāṃ viṣayabhāvād bāhyatvam /
+> evam tarhi ṣaḍ vijñāna-dhātava ādhyātmikā na prāpnuvanti /
 >
-> evam tarhi ṣaḍ vijñānadhātava ādhyātmikā na prāpnuvanti /
->
-> na hyete manodhātutvamaprāptāścittasyāśrayībhavanti /
+> na hy ete mano-dhātutvam aprāptāś cittasyāśrayī-bhavanti /
 >
 > yadā tadā ta eva te bhavantīti lakṣaṇaṃ nātivartante /
 >
-> anyathā hi manodhāturatīta eva syānnānāgatapratyutpannaḥ /
+> anyathā hi mano-dhātur atīta eva syān nānāgata-pratyutpannaḥ /
 >
-> iṣyante cāṣṭādaśa dhātavastraiyadhvikāḥ /
+> iṣyante cāṣṭādaśa dhātavas traiyadhvikāḥ /
 >
-> yadi cānāgatapratyutpannasya vijñānasya manodhātulakṣaṇaṃ na syāt atīte 'pyadhvani manodhāturna vyavasthāpyeta /
+> yadi cānāgata-pratyutpannasya vijñānasya mano-dhātu-lakṣaṇaṃ na syād atīte 'py adhvani mano-dhātur na vyavasthāpyeta /
 >
-> nahi lakṣaṇasyādhvasu vyabhicāro 'stīti //
+> nahi lakṣaṇasyādhvasu vyabhicāro 'stīti /
 >
-> kati dhātavaḥ sabhāgāḥ kati tatsabhāgāḥ /
-> ekāntena tāvat
->      dharmasaṃjñakaḥ /
+> kati dhātavaḥ sabhāgāḥ kati tat-sabhāgāḥ /
 >
-> sabhāgaḥ
+> ekāntena tāvad dharma-saṃjñakaḥ sabhāgaḥ /
 >
-> yo hi viṣayo yasya vijñānasya niyato yadi tatra tadvijñānamutpannaṃ bhavatyutpattidharmi vā evaṃ sa viṣayaḥ sabhāga ityucyate /
+> yo hi viṣayo yasya vijñānasya niyato yadi tatra tad-vijñānam utpannaṃ bhavaty utpatti-dharmi vā evaṃ sa viṣayaḥ sabhāga ity ucyate /
 >
-> na ca so 'sti kaściddharmadhāturyatra nānantaṃ manovijñānamutpannamutpatsyate vā /
+> na ca so 'sti kaścid dharma-dhātur yatra nānantaṃ mano-vijñānam utpannam utpatsyate vā /
 >
-> tathā hi sarvāryapudgalānāmidaṃ cittamavaśyamutpadyate "sarvadharmā anātmāna" iti /
+> tathā hi sarvārya-pudgalānām idaṃ cittam avaśyam utpadyate sarva-dharmā anātmāna iti /
 >
-> tasya ca svabhāvasahabhūnirmuktāḥ sarvadharmā ālambanam /
+> tasya ca svabhāva-sahabhū-nirmuktāḥ sarva-dharmā ālambanam /
 >
-> sa punaścittakṣaṇo 'nyasya cittakṣaṇasyālambanamiti dvayoḥ kṣaṇayoḥ sarvadharmā hyālambanaṃ bhavanti /
+> sa punaś citta-kṣaṇo 'nyasya citta-kṣaṇasyālambanam iti dvayoḥ kṣaṇayoḥ sarva-dharmā hy ālambanaṃ bhavanti /
 >
-> tasmād dharmadhātur nityaṃ sabhāgaḥ /
+> tasmād dharma-dhātur nityaṃ sabhāgaḥ /
 >
-> tatsabhāgāśca śeṣāḥ
+> tat-sabhāgāś ca śeṣāḥ sabhāgāś ceti ca-śabdaḥ /
 >
-> sabhāgaśceti caśabdaḥ /
-> ko 'yaṃ tatsabhāgo nāma /
+> ko 'yaṃ tat-sabhāgo nāma /
 >
-> yo na svakarmakṛt //
+> yo na sva-karma-kṛt /
 >
-> uktaṃ bhavati yaḥ svakarmakṛt sa sabhāga iti /
+> uktaṃ bhavati yaḥ sva-karma-kṛt sa sabhāga iti /
 >
-> tatra yena cakṣuṣā rūpāṇyapaśyat paśyati drakṣyati vā taducyate sabhāgaṃ cakṣuḥ /
+> tatra yena cakṣuṣā rūpāṇy apaśyat paśyati drakṣyati vā tad ucyate sabhāgaṃ cakṣuḥ /
 >
-> evaṃ yāvanmanaḥ svena viṣayakāritreṇa vaktavyam /
+> evaṃ yāvan manaḥ svena viṣaya-kāritreṇa vaktavyam /
 >
-> tatsabhāgaṃ cakṣuḥ kāśmīrāṇāṃ caturvidham /
+> tat-sabhāgaṃ cakṣuḥ kāśmīrāṇāṃ caturvidham /
 >
-> yad dṛṣṭvā rūpāṇi niruddhaṃ nirudhyate nirotsyate vā yaccānutpattidharmi /
+> yad adṛṣṭvā rūpāṇi niruddhaṃ nirudhyate nirotsyate vā yac cānutpatti-dharmi /
 >
 > pāścāttyānāṃ punaḥ pañcavidham /
 >
-> tadevānutpattidharmi dvidhā kṛtvā vijñānasamāyuktaṃ cāsamāyusktaṃ ca /
+> tad evānutpatti-dharmi dvidhā kṛtvā vijñāna-samāyuktaṃ cāsamāyuktaṃ ca /
 >
 > evaṃ yāvat kāyo veditavyaḥ /
-> manastvanutpattidharmakameva tatsabhāgam /
 >
-> rūpāṇi ca yāni cakṣuṣā 'paśyat paśyati drakṣyati vā tāni sabhāgāni /
+> manas tv anutpatti-dharmakam eva tat-sabhāgam /
 >
-> tatsabhāgāni caturvidhāni /
+> rūpāṇi ca yāni cakṣuṣā apaśyat paśyati drakṣyati vā tāni sabhāgāni /
 >
-> yānyadṛṣṭānyeva niruddhāni nirudhyante nirotsyante vā yāni cānutpattidharmīṇi /
+> tat-sabhāgāni caturvidhāni /
 >
-> evaṃ yāvat spraṣṭavyāni /
+> yāny adṛṣṭāny eva niruddhāni nirudhyante nirotsyante vā yāni cānutpatti-dharmīṇi /
 >
-> svendriyakāritreṇa sabhāgatatsabhāgāni veditavyāni /
+> evaṃ yāvat spraṣṭavyāni svendriya-kāritreṇa sabhāga-tat-sabhāgāni veditavyāni /
 >
-> yadekasya cakṣuḥ sabhāgaṃ tatsarveṣām /
+> yad ekasya cakṣuḥ sabhāgaṃ tat sarveṣām /
 >
-> evaṃ tatsabhāgamapi /
+> evaṃ tat-sabhāgam api /
 >
-> tathā yāvanmanaḥ /
+> tathā yāvan manaḥ /
 >
-> rūpaṃ tu yaḥ paśyati tasya sabhāgaṃ yo na paśyati tasya tatsabhāgam /
+> rūpaṃ tu yaḥ paśyati tasya sabhāgaṃ yo na paśyati tasya tat-sabhāgam /
 >
 > kiṃ kāraṇam /
 >
-> asti hi saṃbhavo yadrūpamekaḥ paśyati tad bahavo 'pi paśyeyuryathā candranaṭamallaprekṣāsu /
+> asti hi saṃbhavo yad rūpam ekaḥ paśyati tad bahavo 'pi paśyeyur yathā candra-naṭa-malla-prekṣāsu /
 >
-> natu saṃbhavo 'sti yadekena cakṣuṣā dvau paśyetām /
+> na tu saṃbhavo 'sti yad ekena cakṣuṣā dvau paśyetām /
 >
-> ato 'syāsādhāraṇatvādekasantānavaśena vyavasthānam /
+> ato 'syāsādhāraṇatvād eka-santāna-vaśena vyavasthānam /
 >
-> rūpasya tu sādhāraṇatvāt anekasantānavaśena /
+> rūpasya tu sādhāraṇatvād aneka-santāna-vaśena /
 >
-> yathā rūpamevaṃ śabdagandharasaspraṣṭavyadhātavo veditavyāḥ /
+> yathā rūpam evaṃ śabda-gandha-rasa-spraṣṭavya-dhātavo veditavyāḥ /
 >
 > bhavatu śabda evam /
 >
-> gandhādayastu ya ekena gṛhyante na te 'nyena prāptagrahaṇādityasādhāraṇatvādeṣāṃ cakṣurādivadatideśo nyāyyaḥ /
+> gandhādayas tu ya ekena gṛhyante na te 'nyena prāpta-grahaṇād ity asādhāraṇatvād eṣāṃ cakṣur-ādivad atideśo nyāyyaḥ /
 >
-> astyetadevamapi tveṣāmapi saṃbhavaṃ prati sādhāraṇatvam /
+> asty etad evam api tv eṣām api saṃbhavaṃ prati sādhāraṇatvam /
 >
-> asti hyeṣa saṃbhavo ya eva gandhādaya ekasya ghrāṇādivijñānamutpādayeyusta evānyeṣāmapi /
+> asti hy eṣa saṃbhavo ya eva gandhādaya ekasya ghrāṇādi-vijñānam utpādayeyus ta evānyeṣām api /
 >
-> na tvevaṃ cakṣurādayaḥ /
-> tasmād eṣāṃ rūpādivadatideśaḥ /
+> na tv evaṃ cakṣur-ādayaḥ /
 >
-> cakṣurvijñānādīnāṃ sabhāgatatsabhāgatvamutpattyanutpattidharmitvādyathā manodhātoḥ /
+> tasmād eṣāṃ rūpādivad atideśaḥ /
+>
+> cakṣur-vijñānādīnāṃ sabhāga-tat-sabhāgatvam utpatty-anutpatti-dharmitvād yathā mano-dhātoḥ /
 >
 > sabhāga iti ko 'rthaḥ /
 >
-> indriyaviṣayavijñānānāmanyonyabhajanaṃ kāritrabhajanaṃ vā bhāgaḥ /
+> indriya-viṣaya-vijñānānām anyonya-bhajanaṃ kāritra-bhajanaṃ vā bhāgaḥ /
 >
-> sa eṣāmastīti sabhāgaḥ /
-> sparśasamānakāryatvādvā /
+> sa eṣām astīti sabhāgaḥ /
 >
-> ye punarasabhāgāste teṣāṃ sabhāgānāṃ jātisāmānyena sabhāgatvāt tatsabhāgāḥ /
+> sparśa-samāna-kāryatvād vā /
+>
+> ye punar asabhāgās te teṣāṃ sabhāgānāṃ jāti-sāmānyena sabhāgatvāt tat-sabhāgāḥ /
 
-The unit occupies printed pages 27.01–28.24. The abandonment
-classification beginning at 28.25 belongs to 1.40.
+Word division is editorial. The Kāśmīra count is read with the unseen, as the later field count has it. The abandonment classification is the next unit.
 
-The running transcription's malformed *rūpādan*, *ādhyātmakāḥ*,
-*nātibarttante*, *utpantaṃ*, *dharmadhātuarnityaṃ*,
-*sabhāgaṃ acakṣuḥ*, *niaruddhaṃ*, *asamāyusktaṃ*, and
-*apaśāyat* have been regularized in context. Obvious defects in the
-later shared-field passage are likewise repaired, including
-*taddhavo* to *tad bahavo*, *raupa* to *rūpa*, and the moon,
-performer, and wrestler compound. Malformed page apparatus is removed.
+## 3. Continuous Conventional Translation
 
-Two consequential readings remain visible. The Kāśmīra enumeration
-has *yad dṛṣṭvā rūpāṇi*, “having seen forms,” where non-participation
-requires “without having seen forms.” The translation marks the
-contextual negative supplement; the later field enumeration explicitly
-has *adṛṣṭāni*. The three-times premise has *iṣyante*, contextually
-“are admitted,” whose initial vowel would normally be long in that
-construal. These are local transcription issues, not established
-manuscript variants.
+> How many principles are inner, how many outer?
+>
+> Twelve are inner.
+>
+> Which twelve?
+>
+> Having set aside those beginning with visible.
+>
+> The six cognitions and the six supports: these twelve principles are inner. The six object-principles beginning with visible are outer.
+>
+> There being no self, how is there inner or outer?
+>
+> Citta is designated self because it is the support of the I-maker. It is said: by a well-tamed self the wise one reaches heaven. And elsewhere the Blessed One has spoken of the taming of citta: taming of citta is good; a tamed citta brings ease. Therefore, because of nearness, as supports, to that citta which is the designated self, the eye and the rest are inner. Those beginning with visible are outer because they are objects.
+>
+> Then the six cognition-principles would not be inner. For so long as they have not become the mind-principle they are not the support of citta.
+>
+> When they have, they are that. They do not exceed the mark. Otherwise the mind-principle would be past only, and not future or present. And the eighteen principles are admitted as belonging to the three times. If the future and present cognition did not have the mark of the mind-principle, the mind-principle would not be settled in the past time either. The mark does not fail across the times.
+>
+> How many principles are sabhāga, how many tat-sabhāga?
+>
+> Without exception, the one called dharma is sabhāga.
+>
+> An object determined for a cognition is called sabhāga if that cognition has arisen toward it or is of a nature to arise. And there is no dharma-principle toward which endless mind-cognition has not arisen or will not arise. For this citta must arise for every noble person: all dharmas are without self. Apart from its own-nature and what arises with it, all dharmas are its object-support. And that moment of citta is the object-support of another moment of citta. In two moments, all dharmas are object-support. Therefore the dharma-principle is always sabhāga.
+>
+> And the rest are tat-sabhāga. The word and means they are also sabhāga.
+>
+> What is this called tat-sabhāga?
+>
+> Whichever does not do its own work.
+>
+> What is said is: whichever does its own work is sabhāga. An eye by which visibles were seen, are seen, or will be seen is called a sabhāga eye. So on through mind, each to be stated by its own operation on its object.
+>
+> For the Kāśmīras a tat-sabhāga eye is fourfold: ceased, ceasing, or about to cease without having seen visibles, and not of a nature to arise. For the Westerners it is fivefold: that same not of a nature to arise is made twofold, connected with cognition and not connected. So on through the body. Mind, however, is tat-sabhāga only when not of a nature to arise.
+>
+> And visibles which the eye saw, sees, or will see are sabhāga. Tat-sabhāga ones are fourfold: ceased, ceasing, or about to cease unseen, and not of a nature to arise. So on through tangible. They are to be understood by the operation of their own organ.
+>
+> An eye that is sabhāga for one is so for all. Likewise when it is tat-sabhāga. So on through mind. Visible, however, is sabhāga for the one who sees it and tat-sabhāga for the one who does not. Why? There is the possibility that what one sees, many also see, as in looking at the moon, a performer, or a wrestler. There is no possibility that two see by one eye. Therefore, because the eye is uncommon, the settlement is by one continuum. Because visible is common, by many continua. As visible, so sound, smell, taste, and tangible.
+>
+> Let sound be so. But smells and the rest that are grasped by one are not grasped by another, because the grasping is on contact. Because they are uncommon, should they not follow the eye and the rest?
+>
+> That is so. But they too are common with respect to possibility. There is this possibility: the very smells and the rest that might produce one person's smell-cognition and the rest might produce those of others also. Not so the eye and the rest. Therefore these follow visible and the rest.
+>
+> The eye-cognition and the rest are sabhāga or tat-sabhāga by being of a nature to arise or not to arise, as with the mind-principle.
+>
+> What is the meaning of sabhāga?
+>
+> Bhāga is the mutual taking-up of organ, object, and cognition, or the taking-up of the operation. They have that, therefore sabhāga. Or because contact is their common result. And those that are not sabhāga are tat-sabhāga, because by community of kind they have the sabhāga-character of those that are sabhāga.
 
-## 3. Continuous Translation
+## 4. Movement
 
-How many Principles are internal, and how many outer? Twelve are
-internal. Which twelve? Excluding those beginning with visible Form:
-the six Cognition Principles and six Faculty Principles are these
-twelve internal Principles. The six field Principles beginning with
-visible Form are outer.
+Two questions. How many are inner, how many outer. How many do their own work, how many are only of that kind. The self-objection is answered by a designation: citta supports the I-maker. The cognition-objection is answered by the three times. The dharma-principle never fails the work. The rest fail it in counted ways. The eye is uncommon. Visible is common. Smell is common only in possibility.
 
-If there is no self, how can there be internal or outer? Consciousness
-is figuratively designated Self because it is the basis of ego-making. It is
-said, “With a well-tamed self the wise person attains heaven.” Elsewhere
-the Blessed One speaks of taming consciousness: “Taming consciousness is
-good; disciplined consciousness brings happiness.” Thus the Eye and other
-Faculties are internal because they are near to consciousness, figuratively treated as self, by serving
-as its supports; visible Form and the other fields are outer by their
-field-function.
+## 5. Decisions
 
-Then the six Cognition Principles would fail to be internal: before
-they have attained the status of Mind Principle, they do not serve as
-supports of consciousness. — When they do, they are those very same [Cognitions], and
-thus do not depart from their defining characteristic. Otherwise Mind
-would exist only in the past, not in the future or present. Yet the
-eighteen Principles are admitted in all three times. If future and
-present Cognition lacked the characteristic of Mind, Mind could not
-be established even in the past. A defining characteristic does not
-vary across the times.
+1. Twelve are inner: six cognitions and six supports. Six are outer: the object-principles beginning with visible.
+2. Citta is designated self as support of the I-maker. Inner is nearness to that. There is no self.
+3. The cognition-principles are inner. When past they are the mind-principle. The mark holds in the three times.
+4. The dharma-principle is always sabhāga.
+5. The rest are sabhāga when they do their own work, tat-sabhāga when they do not.
+6. The eye is uncommon, settled by one continuum. Visible is common, settled by many. Smell and the rest are common in possibility.
 
-How many Principles are functionally participating, and how many are
-corresponding non-participants? To begin with, the Dharma Principle
-alone is always functionally participating. A field assigned to a
-particular Cognition is functionally participating if that Cognition
-has arisen with regard to it or is certain to arise. There is no Dharma
-in the Dharma Principle with regard to which innumerable Mind-Cognitions
-have not arisen or will not arise. For in all noble persons this
-Cognition necessarily arises: “All Dharmas are without self.” All
-Dharmas except the Cognition's own nature and its co-arisen Dharmas are
-its fields. That moment of consciousness in turn is a field for another
-moment; across two moments, all Dharmas become fields. Therefore the
-Dharma Principle is always functionally participating.
+## 6. Organon Reading
 
-The remaining Principles are also corresponding non-participants. “And”
-means that they may also functionally participate. What is a
-corresponding non-participant? That which does not perform its own
-function. This also states that what performs its own function is
-functionally participating. The Eye through which Forms were seen, are
-seen, or will be seen is a functionally participating Eye. The same is
-to be stated through Mind according to each one's own operation with
-respect to its field.
+Inner is not a self found. It is proximity to citta, and citta is called self only as the support of the I-maker. Sabhāga is not a further principle. It is the principle doing the work it is. The dharma-principle does not have the failure. The eye cannot be the seeing of two. One visible can be the seeing of many. That is the cut between uncommon and common.
 
-For the Kāśmīras, a corresponding non-participant Eye is fourfold: one that has ceased,
-is ceasing, or will cease [without] having seen Forms, and one not of
-a nature to arise. For the Westerners it is fivefold: they divide that
-last case into one connected with Cognition and one unconnected with
-it. The same is to be understood through the Body-Faculty. The Mind
-Principle, however, is a corresponding non-participant only when not
-of a nature to arise.
+## 7. Review Status
 
-Visible Forms that were seen, are seen, or will be seen by the Eye are
-functionally participating. Corresponding non-participant Forms are
-fourfold: those that have ceased, are
-ceasing, or will cease unseen, and those not of a nature to arise.
-Likewise for tangible Forms, they are to be understood according to
-the operation of their respective Faculties.
-
-An Eye that functionally participates for one is so for everyone;
-likewise an Eye that is a corresponding non-participant. The same
-holds through Mind. Visible Form, however, functionally participates
-for one who sees it and is a corresponding non-participant for one
-who does not.
-Why? A Form seen by one may be seen by many, as in watching the moon,
-a performer, or a wrestler. But two cannot see through one Eye.
-Therefore the Eye, being non-common, is classified with reference to
-one continuum; visible Form, being common, with reference to many.
-Sound, smell, taste, and tangible Form are to be understood like
-visible Form.
-
-Let that hold for Sound. But smells and the other fields grasped by
-one are not grasped by another, since they are apprehended on contact.
-Since they are non-common, should they not follow the Eye and other
-Faculties? — That is so, but they are common with respect to
-possibility. The same smells and other fields that might produce one
-person's olfactory and other Cognitions might also produce those of
-others. That is not so for the Eye and other Faculties. Hence these
-fields follow visible Form and the others.
-
-Visual Cognition and the other Cognitions functionally participate or
-are corresponding non-participants according to whether they are of a
-nature to arise or not to arise, as with Mind.
-
-What does functional participation mean? It is the mutual participation
-of Faculty, field, and Cognition, or participation in operation. They
-possess this, so are functional participants. Alternatively, it is
-because they have contact as their common result. Those that do not
-functionally participate are corresponding non-participants because
-they share a common kind with those that do.
-
-## 4. Movement and Voices of the Commentary
-
-The first classification prompts two objections: one concerning the
-reference of “internal,” and one concerning Cognitions that have not
-yet served as the Mind Principle. The replies employ figurative naming and a
-three-times argument, respectively. The account of internality is
-therefore relational and doctrinal, not an anatomical inside/outside map.
-
-The second classification begins with the Dharma Principle's special
-status, then develops the remaining Principles by function, time,
-non-arising status, and relation to one or several continua. Kāśmīra
-and Western enumerations are explicitly distinguished. The field-contact
-objection and its reply are restored here in full; the research summary
-mentions the complication but omits its actual reasoning.
-
-The closing explanations of participation are alternatives. Mutual
-participation, participation in operation, and common production of
-contact should not be flattened into one compulsory etymology.
-
-## 5. Internality and the Three Times
-
-The twelve comprise six Faculty Principles and six Cognition Principles.
-The six outer field Principles include the Dharma Principle, so “outer”
-does not mean spatially outside the body. It denotes the field-side of
-this classification.
-
-The text itself asks how an internal/outer distinction applies when no
-Self exists. It explains the figurative Self designation through
-ego-making's dependence on consciousness. The cited verses pair taming
-Self with taming consciousness. This local argument does not make
-self-negation the organizing theme of the whole unit.
-
-The second reply invokes the accepted presence of the eighteen Principles
-across three times and invariance of their characteristic. It is not
-merely an everyday statement that a potential capacity may later be
-exercised. The defining characteristic and the time of performing a
-support-function are distinguished within that temporal doctrine.
-
-## 6. Functional Participation Includes Past and Future Operation
-
-The eye example explicitly includes past, present, and future seeing.
-A presently inactive Eye is not automatically a corresponding
-non-participant if the relevant
-instance has performed or will perform its function. Translating the
-pair simply as active/inactive can therefore mislead.
-
-For fields, participation means serving as the relevant field for
-Cognition; it does not mean that fields themselves cognize. This
-preserves 1.34's distinction between a field's availability and the
-Cognition that occurs in relation to it. The Dharma Principle's
-universal participation is argued through field availability, with a
-two-moment construction handling the
-exclusion of a cognition's own nature and co-arisen factors.
-
-That construction is not an assertion that one cognition apprehends
-itself and everything co-arising with it. Nor does it mean every field
-is currently serving every person. The scope of the argument is the
-Principle's participation across the relevant Cognitions.
-
-## 7. Non-arising Members and Shared Fields
-
-The fourfold Kāśmīra enumeration separates three times of cessation
-without seeing from non-arising status. The Western account subdivides
-the non-arising case by connection with cognition. *Vijñānasamāyukta*
-here should not be turned into technical mental-factor association:
-the Eye remains a Faculty Principle. The passage gives this additional
-connection without a fuller account of its mechanism.
-
-The Mind Principle and six Cognition Principles receive a narrower
-criterion: their corresponding non-participants are non-arising. This
-differs from a Faculty
-that arises and ceases without performing its operation. The research
-report's general capacity/function summary needs this qualification.
-
-The shared-field discussion then distinguishes actual apprehension
-from possible apprehension. A faculty's status is fixed through its
-own continuum; calling it functionally participating “for everyone”
-does not make that
-Faculty usable by everyone. Field availability can stand in different
-functional relations to different continua.
-
-For smell, taste, and tangible, the reply grants the contact-based
-objection and invokes commonality with respect to possibility. It does
-not insist that many people simultaneously apprehend the same
-contact-specific occurrence. The point is that field determinations may
-be capable of producing corresponding Cognitions across continua. That
-qualification is essential to extending the field classification.
-
-## 8. The Bhāṣya's Decisions for the Kārikā
-
-- End the internality clause after the six field Principles beginning
-  with visible Form; take “the one called Dharma” as subject of
-  functional participation.
-- Count six Faculty Principles and six Cognition Principles as internal.
-- Preserve the temporal doctrine used to justify cognition's internality.
-- Understand functional participation through own-function operation, including past and
-  future operation, with fields participating as fields.
-- Preserve the Kāśmīra/Western difference and the special non-arising
-  criterion for the Mind Principle and Cognition.
-- Distinguish a Faculty's single-continuum status from a field's
-  relations to multiple continua, including possible contact apprehension.
-
-## 9. Interpretation
-
-The Kośa explicitly presents Vijñāna as Discriminative Cognition joining
-and governing Perception and Conception. Their unity is Inconceivable as
-a homogeneous operation; its Idea is disclosed in the Cognition Base.
-Vijñāna governs Manas and guides Dharma Base. Form Base and Dharma Base
-classify the same *avijñapti* distinctly, and Vijñāna bears a *prati*
-relation to it. Vijñāna remains distinct from consciousness (*citta*) and
-Mind (*manas*).
-
-The internal/outer classification is relational, not spatial.
-Consciousness is figuratively designated Self because ego-making rests
-upon it; the Faculties are internal through their proximity as supports.
-The six Cognition Principles remain internal across the three times even
-when they do not currently serve as the Mind Principle.
-
-The Dharma Principle always participates as a field because every Dharma
-may become an object of Mind-Cognition. Other Principles may perform
-their proper function in the past, present, or future, or share the
-relevant kind without that operation. The Kāśmīra and Western accounts
-preserve distinct non-arising cases. The shared-field discussion
-distinguishes field availability across continua from a Faculty's
-relation to its own continuum.
-
-## 10. Review Status
-
-Provisional thirty-ninth study in the Bhāṣya edition. The local kārikā,
-research commentary, and running Sanskrit have been compared through
-the final explanations of sabhāga and tat-sabhāga.
-
-The clause boundary in the anchor is corrected. Omitted distinctions
-concerning manas, cognition, and contact-fields are restored. The
-Kāśmīra enumeration's transmitted positive “having seen” conflicts with
-its context and remains visible with a marked negative supplement in
-translation. Original sources and the Part One reading artifact remain
-unchanged.
+Upgraded reading of the thirty-ninth study. Scheme checked: principle is dhātu; cognition is vijñāna; the one called dharma is the dharma-principle; organ is the support in the work, not a faculty-word. 1.40 not opened.

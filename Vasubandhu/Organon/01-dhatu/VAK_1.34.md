@@ -1,4 +1,4 @@
-# VAK_1.34 — Object-Taking and Organic Appropriation
+# VAK_1.34 — Taking an Object, and Appropriated
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -14,248 +14,111 @@
 
 ## 3. Lexical Analysis
 
-```text
-sālambanāḥ         → sa-ālambanāḥ
-cittadhātavaḥ      → citta-dhātavaḥ
-'rdhaṃ             → ardham
-dharmataḥ          → dharmataḥ
-navānupāttāḥ       → nava an-upāttāḥ
-te cāṣṭau          → te ca aṣṭau
-śabdaś ca          → śabdaḥ ca
-anye nava dvidhā   → anye nava dvidhā
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
-| sapta | numeral | seven cognitive Principles |
-| sa-ālambanāḥ | nominative masculine plural adjective | taking or possessing an object |
-| citta-dhātavaḥ | nominative masculine plural compound | the six cognition Principles together with the Mind Principle |
-| ardham | nominative neuter singular | a portion; the associated mental-factor part |
-| dharmataḥ | ablative singular | with respect to the Dharma Principle |
-| an-upāttāḥ | nominative masculine plural adjective | unappropriated; not organically taken up |
-| te | nominative masculine plural pronoun | those just identified |
-| aṣṭau | numeral | the seven cognitive Principles plus the Dharma Principle |
-| śabdaḥ | nominative masculine singular | sound Principle |
-| anye nava | nominative masculine plural | the remaining nine Principles |
-| dvidhā | distributive adverb | in two modes: appropriated or unappropriated |
+| sapta | numeral | the seven citta-principles |
+| sa-ālambana | adjective | taking an object |
+| citta-dhātavaḥ | compound | the six cognition-principles and the mind-principle |
+| ardham dharmataḥ | accusative plus ablative | a half, with respect to the dharma-principle |
+| nava an-upātta | numeral plus adjective | nine unappropriated |
+| te ca aṣṭau | pronoun plus numeral | those eight |
+| śabdaḥ | nominative | sound |
+| anye nava dvidhā | the other nine, in two ways | appropriated and unappropriated |
 
-`Ardham` is not a claim that exactly one numerical half of the Dharma
-Principle takes objects. The Bhāṣya identifies the intended part
-functionally: associated mental factors (*caitasika*) take objects;
-the unassociated portion does not.
+The half is the associated portion. The eight of the second count are the seven plus the whole dharma-principle. The scope changes.
 
 ## 4. Grammar
 
-The first line establishes object-taking:
-
 ```text
-sapta citta-dhātavaḥ sālambanāḥ
-    the seven cognitive Principles take objects
+sapta citta-dhātavaḥ sa-ālambanāḥ
+    ardham ca dharmataḥ
 
-ardhaṃ ca dharmataḥ
-    and a portion of the Dharma Principle does also
-```
-
-The seven are the five sensory cognition Principles, the
-Mind-Cognition Principle, and the Mind Principle. They are *sālambana* because they
-apprehend an object-range (*viṣayagrahaṇa*). Associated mental factors
-within the Dharma Principle take the same objects together with cognition.
-The ten Form Principles and the unassociated portion of the Dharma Principle
-are *anālambana*.
-
-The second line switches to a completely different predicate:
-
-```text
-nava anupāttāḥ
-    nine are unappropriated
-
-te ca aṣṭau śabdaḥ ca
-    those eight together with the Sound Principle
+nava an-upāttāḥ
+    te ca aṣṭau śabdaḥ ca
 
 anye nava dvidhā
-    the remaining nine are twofold
 ```
 
-For this second count the eight are the seven cognitive Principles plus
-the **whole** Dharma Principle. Adding the sound Principle produces nine
-invariably unappropriated Principles. The shift from part to whole is not
-inconsistent; object-taking and appropriation have different extensions.
-
-The remaining nine are the five sensory Faculty Principles plus the
-Principles of visible Form, smell, taste, and tangibility. They may be
-appropriated or unappropriated according to time and organic relation.
+Two cuts. The first is object. The second is appropriation.
 
 ## 5. Translation
 
 ### Literal Translation
 
-> The seven cognitive Principles take objects, as does a portion of the Dharma Principle. Nine are unappropriated—those eight together with sound. The remaining nine are twofold.
+Seven citta-principles take an object, and a half with respect to the dharma-principle. Nine are unappropriated: those eight, and sound. The other nine are twofold.
 
 ### Bhāṣya-informed study translation
 
-> The six cognition Principles and the Mind Principle take objects, as do the associated mental factors within the Dharma Principle. The seven cognitive Principles, the entire Dharma Principle, and the sound Principle are always unappropriated. The other nine Principles may be appropriated into a present living continuum or remain unappropriated.
+How many take an object, how many do not? The seven citta-principles take an object: the eye, ear, nose, tongue, and body cognition-principles, the mind-cognition principle, and the mind-principle. They take an object because they grasp a condition. And a half of the dharma-principle: the portion whose nature is the mental factors. So the ten whose nature is form, and the unassociated portion of the dharma-principle, do not take an object.
 
-The second rendering expands the two different counts so that the associated
-portion of the Dharma Principle is not confused with the whole Principle's
-appropriation-status.
+How many are appropriated, how many unappropriated? Nine are unappropriated. Which nine? The seven just stated as taking an object, together with a half of the eighth, are recalled. Those eight, and sound: the seven citta-principles, the dharma-principle, and the sound-principle. The other nine are twofold, appropriated and unappropriated.
+
+Of these, eye, ear, nose, tongue, and body, when present, are appropriated. Past and future, they are unappropriated. The visible, smell, taste, and tangible principles, when present and not separate from the organ, are appropriated. The others are unappropriated: hair, body-hair, nails, and teeth apart from the root; feces, urine, saliva, mucus, blood, and the like; earth, water, and the like.
+
+What does appropriated mean? What citta and the mental factors have taken up as a basis, because they follow one another in benefit and injury. What the world calls animate.
 
 ## 6. Philosophical Translation
 
-> Object-taking and organic appropriation are independent determinations. Cognition Principles and associated mental factors are directed toward objects without thereby becoming Form. Form Base Principles are appropriated only when taken up as the living support of Mind and mental factors, forming a reciprocal unity in which benefit and injury to either side affect the other.
+Taking an object is the seven, and the associated half of the dharma-principle. The ten whose nature is form do not take an object. Neither does the unassociated half.
 
-Techne reading:
-
-> The Principle Processor distinguishes an object-taking relation from an organic-support relation. *Sālambana* specifies what cognition apprehends; *upātta* specifies which Form is incorporated as the living basis of Mind and mental factors. The two relations coexist in one living continuum without collapsing cognition into its object or bodily support.
+Appropriation is a different cut. The nine that never are appropriated are the seven, the whole dharma-principle, and sound. The other nine are appropriated only when present and, for the four meanings, only when not separate from the organ. Appropriated is the basis citta has taken up. Benefit and injury run both ways. That is what is called animate.
 
 ## 7. Technical Vocabulary
 
-| Sanskrit | Project rendering | Determination |
+| Sanskrit | Rendering | Note |
 |---|---|---|
-| cittadhātu | cognitive Principle / Mind Principle | the six Cognition Principles together with the Mind Principle |
-| ālambana | apprehended object-support | that toward which cognition and mental factors are directed |
-| sālambana | possessing an object | capable of cognitively apprehending an object-range |
-| anālambana | not object-taking | Form Base Principles and the unassociated portion of the Dharma Principle |
-| caitasika | associated mental factor | object-taking portion of the Dharma Principle |
-| asaṃprayukta | unassociated | portion of the Dharma Principle that does not take objects |
-| upātta | appropriated / organically taken up | Form incorporated as the support of Mind and mental factors |
-| anupātta | unappropriated | not incorporated into the present living continuum |
-| adhiṣṭhānabhāva | condition of serving as a basis | bodily support-relation in appropriation |
-| indriyāvinirbhāgin | inseparable from a Faculty | criterion for appropriated visible Form, smell, taste, and tangible Form |
-| sacetana | sentient / animated | ordinary designation for organically appropriated Form |
-| anugraha-upaghāta | benefit and injury | reciprocal responsiveness diagnosing living appropriation |
-
-`Upātta` does not mean legal possession, mental representation, or mere
-physical enclosure. It names incorporation of Form into a living
-Mind-and-mental-factor continuum.
+| sālambana | taking an object | grasps a condition |
+| citta-dhātu | citta-principle | the six cognitions and the mind-principle |
+| ardham dharmataḥ | a half of the dharma-principle | the associated mental factors |
+| anālambana | not taking an object | the ten of form, and the unassociated half |
+| anupātta | unappropriated | nine, always |
+| upātta | appropriated | present organ, or present meaning not separate from it |
+| śabda | sound | among the nine always unappropriated |
+| sacetana | animate | the world's name for appropriated |
 
 ## 8. Logical Determination
 
-The object-taking axis is:
-
 ```text
-Salambana
-    = SevenCognitionPrinciples
-      ∪ AssociatedMentalFactorPortion(DharmaPrinciple)
+take an object
+    seven citta-principles
+    associated half of the dharma-principle
 
-Analambana
-    = TenFormBasePrinciples
-      ∪ UnassociatedPortion(DharmaPrinciple)
-```
+do not take an object
+    ten whose nature is form
+    unassociated half of the dharma-principle
 
-The appropriation axis is:
+always unappropriated
+    the seven
+    the whole dharma-principle
+    sound
 
-```text
-NecessarilyAnupatta
-    = SevenCognitionPrinciples
-      ∪ WholeDharmaPrinciple
-      ∪ {SoundPrinciple}
+twofold
+    five organs: appropriated when present
+    four meanings: appropriated when present and not separate from the organ
+    otherwise unappropriated
 
-MayBeUpattaOrAnupatta
-    = FiveSensoryFacultyPrinciples
-      ∪ {VisibleFormPrinciple, SmellPrinciple, TastePrinciple, TangibleFormPrinciple}
-```
+appropriated
+    taken up by citta and the mental factors as a basis
+    benefit and injury follow both ways
 
-Appropriation is temporally and organically constrained:
-
-```text
-PresentSensoryFaculty(x)
-    → Upatta(x)
-
-PastOrFutureSensoryFaculty(x)
-    → Anupatta(x)
-
-PresentFormFactor(x)
-∧ InseparableFromLivingFaculty(x)
-    → Upatta(x)
-
-ExternalOrSeparatedForm(x)
-    → Anupatta(x)
-```
-
-The diagnostic relation is reciprocal:
-
-```text
-TakenAsSupportBy(Form, MindAndMentalFactors)
-∧ ReciprocalResponseToBenefitAndInjury(Form, MindAndMentalFactors)
-    → Upatta(Form)
-```
-
-The type-system rule is:
-
-```text
-TakesObject(x)
-    ↛ OrganicallyAppropriated(x)
-
-OrganicallyAppropriated(x)
-    ↛ TakesObject(x)
+1.35 not opened
 ```
 
 ## 9. Interpretive Note
 
-VAK 1.34 distinguishes two relations. *Sālambana* concerns what a
-cognitive operation apprehends; *upātta* concerns Form taken up as the
-living support of Mind and mental factors. The seven cognitive Principles
-take objects yet remain unappropriated. Form may be appropriated without
-itself taking an object.
-
-Appropriation is not determined by shape or location alone. The Bhāṣya
-defines it through Form taken up as a supporting basis, with reciprocal
-effects of benefit and injury between that basis and Mind with its mental
-factors. Its account therefore distinguishes object-directed cognition
-from the living support that sustains it.
-
-The Kośa presents Vijñāna as Discriminative Cognition joining and
-governing Perception and Conception. Their unity is Inconceivable as a
-homogeneous operation; its Idea is disclosed in the Cognition Base.
-Vijñāna governs Manas and guides the reading of Dharma Base. Form Base
-and Dharma Base classify the same *avijñapti* distinctly, and Vijñāna
-bears a *prati* relation to it. Vijñāna remains distinct from *citta*
-and *manas*.
-
-In the incoming Techne, *vijñāna* is Knowing, understood as Higher
-Cognition of Scientific Knowing, while *dhātu* is the Principle
-instrument. This verse contributes a specific distinction within that
-account: object-taking and organic appropriation do not collapse into
-one another.
+The hinge is the change of scope. The first count uses a half. The second count uses the whole dharma-principle. Sound joins the nine. The definition of appropriated is the close.
 
 ## 10. OWL++ Seed
 
 ```ttl
 @prefix vak: <http://127.0.0.1:3000/vak#> .
-@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
-vak:VAK_1_34
-    a vak:Karika ;
-    rdfs:label "VAK 1.34" ;
-    vak:hasTopic vak:ObjectTakingAndAppropriation ;
+vak:VAK_1_34 a vak:Karika ;
+    vak:hasTopic vak:ObjectAndAppropriation ;
     vak:belongsTo vak:Dhatunirdesa .
 
-vak:SevenCognitionPrinciples
-    a vak:PrincipleSet ;
-    vak:hasObjectTakingStatus vak:Salambana ;
-    vak:hasAppropriationStatus vak:Anupatta .
-
-vak:AssociatedDharmaPrinciplePortion
-    vak:hasObjectTakingStatus vak:Salambana .
-
-vak:UnassociatedDharmaPrinciplePortion
-    vak:hasObjectTakingStatus vak:Analambana .
-
-vak:WholeDharmaPrinciple
-    vak:hasAppropriationStatus vak:Anupatta .
-
-vak:SoundPrinciple
-    vak:hasAppropriationStatus vak:Anupatta .
-
-vak:RemainingNineFormBasePrinciples
-    a vak:PrincipleSet ;
-    vak:permitsAppropriationStatus vak:Upatta,
-        vak:Anupatta .
-
-vak:ObjectTakingInterface
-    vak:groundedIn vak:Salambana .
-
-vak:OrganicAppropriationInterface
-    vak:groundedIn vak:Upatta ;
-    vak:requires vak:ReciprocalPsychoPhysicalResponsiveness .
+vak:SevenCittaPrinciples vak:takesObject true .
+vak:AssociatedDharmaHalf vak:takesObject true .
+vak:NineAlwaysUnappropriated vak:includes
+    vak:SevenCittaPrinciples, vak:DharmaPrinciple, vak:SoundPrinciple .
 ```
