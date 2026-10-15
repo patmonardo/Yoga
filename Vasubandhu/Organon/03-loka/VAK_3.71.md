@@ -1,4 +1,4 @@
-# VAK_3.71
+# VAK_3.71 — Three Modes of Desire and Happiness
 
 ## 1. Sanskrit (Devanāgarī)
 

@@ -1,4 +1,4 @@
-# VAK_3.101
+# VAK_3.101 — The Fourth-Dhyāna Abodes Are Not Eternal
 
 ## 1. Sanskrit (Devanāgarī)
 

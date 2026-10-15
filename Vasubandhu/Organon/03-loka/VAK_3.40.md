@@ -1,4 +1,4 @@
-# VAK_3.40
+# VAK_3.40 — Mental Nutriments and Birth-Seeking Intermediate Becoming
 
 ## 1. Sanskrit (Devanāgarī)
 

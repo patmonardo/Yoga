@@ -1,4 +1,4 @@
-# VAK_3.66
+# VAK_3.66 — Sudarśana, City at Meru's Center
 
 ## 1. Sanskrit (Devanāgarī)
 

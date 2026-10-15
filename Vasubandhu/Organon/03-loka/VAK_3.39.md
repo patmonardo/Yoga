@@ -1,4 +1,4 @@
-# VAK_3.39
+# VAK_3.39 — Morsel Nutriment and Sustaining Efficacy
 
 ## 1. Sanskrit (Devanāgarī)
 

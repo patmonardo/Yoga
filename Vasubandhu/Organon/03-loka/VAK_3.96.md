@@ -1,4 +1,4 @@
-# VAK_3.96
+# VAK_3.96 — The Cakravartin’s Reach and Limits
 
 ## 1. Sanskrit (Devanāgarī)
 

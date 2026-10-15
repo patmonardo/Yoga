@@ -1,4 +1,4 @@
-# VAK_3.70
+# VAK_3.70 — Divine Birth and Initial Form
 
 ## 1. Sanskrit (Devanāgarī)
 

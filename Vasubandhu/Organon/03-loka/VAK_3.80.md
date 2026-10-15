@@ -1,4 +1,4 @@
-# VAK_3.80
+# VAK_3.80 — Two Calendars of the Devas
 
 ## 1. Sanskrit (Devanāgarī)
 

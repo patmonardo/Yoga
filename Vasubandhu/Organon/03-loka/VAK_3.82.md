@@ -1,4 +1,4 @@
-# VAK_3.82
+# VAK_3.82 — Lifespans in the Six Hot Hells
 
 ## 1. Sanskrit (Devanāgarī)
 

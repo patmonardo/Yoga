@@ -1,4 +1,4 @@
-# VAK_3.50
+# VAK_3.50 — Jeweled Meru, Conditioned Production, and Transformation
 
 ## 1. Sanskrit (Devanāgarī)
 

@@ -1,4 +1,4 @@
-# VAK_3.63
+# VAK_3.63 — The Four Terraces of Sumeru
 
 ## 1. Sanskrit (Devanāgarī)
 

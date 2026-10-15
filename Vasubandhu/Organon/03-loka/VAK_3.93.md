@@ -1,4 +1,4 @@
-# VAK_3.93
+# VAK_3.93 — The Great Kalpa and the Bodhisattva’s Resolve
 
 ## 1. Sanskrit (Devanāgarī)
 

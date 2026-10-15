@@ -1,4 +1,4 @@
-# VAK_3.81
+# VAK_3.81 — Lifespan and the Measure of a Kalpa
 
 ## 1. Sanskrit (Devanāgarī)
 

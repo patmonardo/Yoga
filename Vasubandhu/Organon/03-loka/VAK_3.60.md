@@ -1,4 +1,4 @@
-# VAK_3.60
+# VAK_3.60 — Celestial Support and Simultaneous Local Time
 
 ## 1. Sanskrit (Devanāgarī)
 

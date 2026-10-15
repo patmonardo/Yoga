@@ -1,4 +1,4 @@
-# VAK_3.61
+# VAK_3.61 — Seasonal Reversal of Night and Day
 
 ## 1. Sanskrit (Devanāgarī)
 

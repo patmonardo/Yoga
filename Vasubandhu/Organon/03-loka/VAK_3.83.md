@@ -1,4 +1,4 @@
-# VAK_3.83
+# VAK_3.83 — Different Measures for Lower Destinies
 
 ## 1. Sanskrit (Devanāgarī)
 

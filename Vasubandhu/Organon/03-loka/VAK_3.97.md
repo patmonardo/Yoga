@@ -1,4 +1,4 @@
-# VAK_3.97
+# VAK_3.97 — From Earth-Savor to Social Order
 
 ## 1. Sanskrit (Devanāgarī)
 

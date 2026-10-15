@@ -1,4 +1,4 @@
-# VAK_3.42
+# VAK_3.42 — Mental Cognition at Death and Arising
 
 ## 1. Sanskrit (Devanāgarī)
 

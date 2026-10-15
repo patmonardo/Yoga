@@ -1,4 +1,4 @@
-# VAK_3.99
+# VAK_3.99 — Three Calamities and Their Durations
 
 ## 1. Sanskrit (Devanāgarī)
 

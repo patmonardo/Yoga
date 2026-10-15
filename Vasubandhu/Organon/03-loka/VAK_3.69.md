@@ -1,4 +1,4 @@
-# VAK_3.69
+# VAK_3.69 — Six Classes and Modes of Desire
 
 ## 1. Sanskrit (Devanāgarī)
 

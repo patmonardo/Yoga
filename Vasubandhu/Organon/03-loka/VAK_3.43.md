@@ -1,4 +1,4 @@
-# VAK_3.43
+# VAK_3.43 — The Final Mind and the Locus of Death
 
 ## 1. Sanskrit (Devanāgarī)
 

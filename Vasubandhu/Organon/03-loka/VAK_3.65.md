@@ -1,4 +1,4 @@
-# VAK_3.65
+# VAK_3.65 — Meru's Summit and the Vajrapāṇi Peaks
 
 ## 1. Sanskrit (Devanāgarī)
 

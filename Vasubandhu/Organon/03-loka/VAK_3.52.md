@@ -1,4 +1,4 @@
-# VAK_3.52
+# VAK_3.52 — The Inner Seas and the Outer Great Ocean
 
 ## 1. Sanskrit (Devanāgarī)
 

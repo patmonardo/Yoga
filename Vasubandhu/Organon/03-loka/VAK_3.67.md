@@ -1,4 +1,4 @@
-# VAK_3.67
+# VAK_3.67 — Vaijayanta and Sudarśana's Gardens
 
 ## 1. Sanskrit (Devanāgarī)
 

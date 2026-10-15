@@ -1,4 +1,4 @@
-# VAK_3.102
+# VAK_3.102 — The Sixty-Four Contractions
 
 ## 1. Sanskrit (Devanāgarī)
 

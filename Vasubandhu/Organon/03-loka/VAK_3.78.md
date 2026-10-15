@@ -1,4 +1,4 @@
-# VAK_3.78
+# VAK_3.78 — Human Lifespans Across the Continents
 
 ## 1. Sanskrit (Devanāgarī)
 

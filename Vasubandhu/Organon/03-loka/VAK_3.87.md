@@ -1,4 +1,4 @@
-# VAK_3.87
+# VAK_3.87 — From Finger-Breadth to Wilderness
 
 ## 1. Sanskrit (Devanāgarī)
 

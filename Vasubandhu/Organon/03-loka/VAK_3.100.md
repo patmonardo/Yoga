@@ -1,4 +1,4 @@
-# VAK_3.100
+# VAK_3.100 — Three Contractions and Their Limits
 
 ## 1. Sanskrit (Devanāgarī)
 

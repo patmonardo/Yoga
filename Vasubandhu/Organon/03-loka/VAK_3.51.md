@@ -1,4 +1,4 @@
-# VAK_3.51
+# VAK_3.51 — Successive Halving and the Seven Śītā Seas
 
 ## 1. Sanskrit (Devanāgarī)
 

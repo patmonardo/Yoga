@@ -1,4 +1,4 @@
-# VAK_3.75
+# VAK_3.75 — Human Measures Across the Four Continents
 
 ## 1. Sanskrit (Devanāgarī)
 

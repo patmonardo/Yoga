@@ -1,4 +1,4 @@
-# VAK_3.59
+# VAK_3.59 — Subsidiary Hells, Hell Guards, and Karmic World-Production
 
 ## 1. Sanskrit (Devanāgarī)
 

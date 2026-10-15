@@ -1,4 +1,4 @@
-# VAK_3.44
+# VAK_3.44 — The Three Determinations of the Sentient World
 
 ## 1. Sanskrit (Devanāgarī)
 

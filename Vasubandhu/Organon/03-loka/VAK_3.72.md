@@ -1,4 +1,4 @@
-# VAK_3.72
+# VAK_3.72 — Station Spacing and Upward Perception
 
 ## 1. Sanskrit (Devanāgarī)
 

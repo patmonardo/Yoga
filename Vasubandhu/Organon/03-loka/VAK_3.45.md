@@ -1,4 +1,4 @@
-# VAK_3.45
+# VAK_3.45 — The Karmically Formed Wind-Maṇḍala
 
 ## 1. Sanskrit (Devanāgarī)
 

@@ -1,4 +1,4 @@
-# VAK_3.94
+# VAK_3.94 — Buddhas and Pratyekabuddhas
 
 ## 1. Sanskrit (Devanāgarī)
 

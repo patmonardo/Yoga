@@ -1,4 +1,4 @@
-# VAK_3.79
+# VAK_3.79 — The Cāturmahārājika Divine Calendar
 
 ## 1. Sanskrit (Devanāgarī)
 

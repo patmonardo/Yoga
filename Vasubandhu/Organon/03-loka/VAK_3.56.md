@@ -1,4 +1,4 @@
-# VAK_3.56
+# VAK_3.56 — The Eight Attendant Islands
 
 ## 1. Sanskrit (Devanāgarī)
 

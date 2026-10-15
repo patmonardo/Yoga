@@ -1,4 +1,4 @@
-# VAK_3.47
+# VAK_3.47 — The Equal Breadth of Water and Gold
 
 ## 1. Sanskrit (Devanāgarī)
 

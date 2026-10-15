@@ -1,4 +1,4 @@
-# VAK_3.86
+# VAK_3.86 — The Sevenfold Material Measure
 
 ## 1. Sanskrit (Devanāgarī)
 

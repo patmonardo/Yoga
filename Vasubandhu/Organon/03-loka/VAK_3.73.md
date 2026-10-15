@@ -1,4 +1,4 @@
-# VAK_3.73
+# VAK_3.73 — The Small Thousandfold World-System
 
 ## 1. Sanskrit (Devanāgarī)
 

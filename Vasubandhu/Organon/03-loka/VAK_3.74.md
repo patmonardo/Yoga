@@ -1,4 +1,4 @@
-# VAK_3.74
+# VAK_3.74 — Recursive World-Systems and Common Cycles
 
 ## 1. Sanskrit (Devanāgarī)
 

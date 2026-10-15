@@ -1,4 +1,4 @@
-# VAK_3.53
+# VAK_3.53 — Jambūdvīpa and the Vajra Seat
 
 ## 1. Sanskrit (Devanāgarī)
 

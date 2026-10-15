@@ -1,4 +1,4 @@
-# VAK_3.62
+# VAK_3.62 — Incremental Time and the Incomplete Moon
 
 ## 1. Sanskrit (Devanāgarī)
 

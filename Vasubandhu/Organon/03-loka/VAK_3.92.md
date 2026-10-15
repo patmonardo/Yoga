@@ -1,4 +1,4 @@
-# VAK_3.92
+# VAK_3.92 — The Four Equal World-Phases
 
 ## 1. Sanskrit (Devanāgarī)
 

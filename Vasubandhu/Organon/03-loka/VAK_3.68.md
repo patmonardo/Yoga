@@ -1,4 +1,4 @@
-# VAK_3.68
+# VAK_3.68 — Pārijāta, Fragrance, and Sudharmā
 
 ## 1. Sanskrit (Devanāgarī)
 

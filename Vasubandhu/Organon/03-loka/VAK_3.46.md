@@ -1,4 +1,4 @@
-# VAK_3.46
+# VAK_3.46 — Water, Containment, and the Golden Earth
 
 ## 1. Sanskrit (Devanāgarī)
 

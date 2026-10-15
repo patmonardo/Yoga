@@ -1,4 +1,4 @@
-# VAK_3.88
+# VAK_3.88 — Completing the Yojana and Beginning Time-Measure
 
 ## 1. Sanskrit (Devanāgarī)
 

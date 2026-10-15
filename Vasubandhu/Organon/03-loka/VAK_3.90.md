@@ -1,4 +1,4 @@
-# VAK_3.90
+# VAK_3.90 — Contraction and Expansion of the World
 
 ## 1. Sanskrit (Devanāgarī)
 

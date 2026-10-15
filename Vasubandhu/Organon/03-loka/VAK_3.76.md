@@ -1,4 +1,4 @@
-# VAK_3.76
+# VAK_3.76 — Deva Body-Measures
 
 ## 1. Sanskrit (Devanāgarī)
 

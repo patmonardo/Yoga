@@ -1,4 +1,4 @@
-# VAK_3.55
+# VAK_3.55 — Circular Godānīya, Square Kuru, and Human Form
 
 ## 1. Sanskrit (Devanāgarī)
 

@@ -1,4 +1,4 @@
-# VAK_3.84
+# VAK_3.84 — The Sesame Comparison and Cold-Hell Lifespans
 
 ## 1. Sanskrit (Devanāgarī)
 
